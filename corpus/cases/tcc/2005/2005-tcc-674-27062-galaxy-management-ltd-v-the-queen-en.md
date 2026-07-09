@@ -1,0 +1,217 @@
+---
+title: "Galaxy Management Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27062/index.do"
+last_modified: "2005-10-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 674"
+citation2: ""
+neutral_citation: "2005 TCC 674"
+decision_date: "2005-10-20"
+language: "en"
+item_id: "27062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 607
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:12:47.677000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50dd0057515eaa011fa2f0de0d361d4bbd41e0a334b350097d5e6f8223fac299"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Galaxy Management Ltd. v. The Queen
+
+- Citation: 2005 TCC 674
+- Decision date: 2005-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 607, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Galaxy Management Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-20
+Neutral citation
+2005 TCC 674
+File numbers
+2004-572(IT)G
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-572(IT)G
+BETWEEN:
+GALAXY MANAGEMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 12, 13 and 14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+Counsel for the Appellant:
+Daniel Kisselbach
+Katherine Xilinas
+Counsel for the Respondent:
+Karen A. Truscott
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments under the Income Tax Act for the 1999, 2000 and 2001 taxation years is allowed, with costs to be taxed, and the assessments are referred back to the Minister of National Revenue for reassessment in accordance with the Reasons for Judgment.
+Signed at Toronto, Ontario, this 20th day of October 2005.
+"Michael J. Bonner"
+Bonner, J.
+Citation: 2005TCC674
+Date: 20051020
+Docket: 2004-572(IT)G
+BETWEEN:
+GALAXY MANAGEMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] This is an appeal from assessments of income tax for the 1999, 2000 and 2001 taxation years.
+[2] In assessing the Minister of National Revenue (the "Minister") took the position that the business income of the Appellant, Galaxy Management Ltd. ("Galaxy") was produced by a "personal services business" as defined in subsection 125(7) of the Income Tax Act (the "Act") and was therefore subject to restrictions on the deductibility of business expenses as set out in paragraph 18(1)(p) of the Act. As well, the Minister found that the Appellant was not entitled to the small business deduction under subsection 125(1) of the Act. The threshold issue is whether the Minister was right with respect to the source of the Appellant's business income.
+[3] Paragraph 18(1)(p) of the Act prohibits the deduction in computing income of an outlay or expense to the extent that it was made to produce income from a personal services business subject to exceptions which need not be addressed.
+[4] Subsection 125(1) of the Act provides that a small business deduction may be taken by a corporation in relation to "... amounts each of which is the income of the corporation for the year from an active business carried on in Canada ..."
+[5] Subsection 125(7) defines the term "active business carried on by a corporation" so as to exclude a "personal services business".
+[6] The term personal services business is also defined in subsection 125(7). That definition is central to this appeal. It reads:
+"personal services business" "personal services business" carried on by a corporation in a taxation year means a business of providing services where
+(a) an individual who performs services on behalf of the corporation (in this definition and paragraph 18(1)(p) referred to as an "incorporated employee"), or
+(b) any person related to the incorporated employee,
+is a specified shareholder of the corporation and the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless
+(c) the corporation employs in the business throughout the year more than five full-time employees, or
+(d) the amount paid or payable to the corporation in the year for the services is received or receivable by it from a corporation with which it was associated in the year;
+[7] A full and authoritative review of the history and place in the Act of the provisions now in question is set out in the recent decision of the Federal Court of Appeal in Dynamic Industries Ltd. v. Canada, 2005 FCA 211. At paragraph 41 Sharlow J.A. noted:
+[41] The Crown's position [...] was (and still is) that the interposition of a corporation between the recipient of a service and the individual who personally performs the service could result in unreasonable tax advantages, resulting in part from a corporate income tax rate that is significantly lower than the personal tax rate, and in part from opportunities for income splitting...
+At paragraph 44 the reasons continued:
+...The enactment of the definition of "personal services business", and related provisions such as paragraph 18(1)(p), was intended to deny, in part, the tax advantages of such arrangements...
+[8] In this case the individual who performed services on behalf of Galaxy was Lawrence Yue. It was common ground that he could properly be regarded as the incorporated employee of Galaxy and that the only question to be decided in relation to the definition was whether Mr. Yue;
+...would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided but for the existence of the corporation, unless...
+within the language of the part of the definition falling between paragraphs (b) and (c) .
+[9] The services were provided by Mr. Yue on behalf of Galaxy to Casual Time Garment Factory Canada Ltd. ("Casual Time") and to Fountain Set Textiles B.C. Ltd. ("Fountain Set") following the incorporation of Galaxy and the formation of two agreements in writing, each dated September 1, 1998.
+[10] Casual Time was a manufacturer of knitted garments. Fountain Set was a supplier of textiles and yarn.
+[11] Under one of the two agreements Fountain Set appointed Galaxy as its agent for the sale in Western Canada of its fabric production. Under the other Casual Time appointed Galaxy as "management consultant of their garment productions in the Lower Mainland of Greater Vancouver [sic] looking after the administration, production scheduling, source of materials, local suppliers as well as sub-contractors, entertain customers, inspectors and control the quality of their products".
+[12] The services rendered by Galaxy during the years in question rested on the knowledge and experience of Lawrence Yue in the fabric and garment industry. Mr. Yue was raised and educated in Hong Kong. Following graduation from high school he attended a technical institute in Hong Kong and received a diploma in textiles. Later he studied for and earned a technical diploma in knitted and woven textiles. Mr. Yue then entered the workforce as a buyer of garments. He gained experience in preparation for the placement of orders for large batches of garments, a process which involved a number of steps taken over an extended period of time. The process consisted of appraising the capability of a factory to provide a proposed garment, arranging for the production and evaluation of fitting samples, ensuring compliance with specifications laid down by the intended buyer, placing test orders and, if the results were satisfactory, placing bulk orders. Later Mr. Yue worked at a garment factory in Hong Kong in production, marketing and sales.
+[13] In 1992 Mr. Yue migrated to Canada.
+[14] In 1993, Mr. Yue was employed by Fountain Set as sales manager. He continued to work there until August of 1998. He was a salaried employee working fixed hours and entitled to normal employee benefits such as membership in an employee group insurance plan. Fountain Set provided Mr. Yue with an office, a car and a cell phone. It reimbursed expenses incurred by him in the performance of his duties.
+[15] In August of 1998 Mr. Yue resigned with a view to creating an enterprise of his own.
+[16] Mr. Yue caused Galaxy to be incorporated effective September 1, 1998. The common shares were equally divided among Mr. Yue, his wife, his father and his mother. Only Mr. Yue's shares carried votes.
+[17] The September 1, 1998 agreements entered into between Galaxy and Fountain Set and Galaxy and Casual Time were not prepared by lawyers. They are poorly drafted and unclear. Both appear to have been cobbled together using inappropriate precedents.
+[18] The agency agreement between Galaxy and Fountain Set contains the following terms among others:
+1.1 The Principal hereby engages and appoints the Agent as an agent on the sales of their fabric products in Western Canada.
+1.2 The Agent accepts such appointment and agrees to keep and perform all the duties and obligations under the terms and conditions of this Agreement.
+2.1 The term of the employment shall commence from the 1st day of September 1998 and continue unless terminated earlier by either party.
+3.0 Services
+3.1 The Employee shall:
+(a) devote sufficient time, attention, skills and efforts in connection with the Principal's business, and comply with all instructions, directions, request, rules and regulations made and issued by the Principal;
+(b) perform services conscientiously and to the full limit of his ability at all times and whenever and wherever required and desired by the Principal;
+(c) carry out faithfully such duties and exercise such powers form time to time as the Principal may prescribe;
+4.0 Compensation
+4.1 Providing the Agent fulfills his obligations under this Agreement, and as full consideration for all services rendered or to be rendered to the Principal, the Principal shall pay the Agent a commission of 1.5% on the sales of the fabric products contributed to the Principal and the Principal will release the compensation to the Agent on a monthly basis.
+4.2 The Agent agrees that the Principal may deduct and withhold from the compensation payable to the Agent under the provisions of any statute, regulation or order and any and all amendments thereto requiring the withholding or deduction of compensation.
+4.3 The Agent shall be responsible for all expenses in connection with the services rendered under this Agreement.
+4.4. The Principal shall review the services rendered by the Agent under the terms of this Agreement from time to time and, at the discretion of the Principal and the Agent's performance during the period in question, to increase or decrease such compensation.
+[19] In his testimony, which in my opinion was credible, Mr. Yue characterized the reference to employment as a mistake and I have no doubt that it was. The parties did not intend to create an employment relationship. After all, Mr. Yue had just resigned and created Galaxy with a view to structuring a new and different relationship.
+[20] The September 1, 1998 agreement between Galaxy and Casual Time is almost as sketchy as the Fountain Set agreement. It contains the following terms among others:
+1.0 Services to be perform [sic]
+1.1 Casual Time hereby engages and appoints Galaxy as management consultant of their garment productions in the Lower Mainland of Greater Vancouver: looking after the administration, production scheduling, source of materials, local suppliers as well as sub-contractors, entertain customers, inspectors, and control the quality of their products.
+1.2 Galaxy will promote Casual Time to any potential customers in North America.
+1.3 Galaxy accepts such appointment and agrees to keep and perform all the duties and obligations under the terms and conditions of this Agreement.
+1.4 The services stated above shall not be exclusive. Any services which can facilitate the Casual Time's business in a reasonable manner should also be performed.
+2.0 Term
+2.1 The term of the appointment shall commence from the 1st day of September 1998 and continue unless terminated earlier by either party.
+3.0 Compensation
+3.1 Providing Galaxy fulfills his obligations under this Agreement, and as full consideration for all services rendered or to be rendered to the Casual Time. Casual Time shall pay Galaxy management & servicing fee.
+3.2 The charges of Galaxy's services are based on time involved in each engagement. Any disbursements will be added to the billing. Invoices for services completed are due immediately upon the receipt of the invoices.
+4.0 Relationship between two parties
+The relationship hereby established between two parties is not, shall not be considered, employee and employer, but rather is that of a two independent companies. Galaxy is not authorized to and agrees entering into any contract or agreement on behalf of Casual Time.
+[21] As already noted the question whether Galaxy carried on a personal services business requires an answer to the further question whether, but for the existence of Galaxy, Mr. Yue could reasonably have been regarded as an officer or employee of Fountain Set and of Galaxy. The answer to this hypothetical question requires consideration of the tests used to determine whether a worker is an employee or an independent contractor. The leading authority in this area is the decision of the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983.
+[22] In Sagaz, Major J., speaking for the Court, reviewed many of the leading authorities including the decision of the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. At paragraphs 46 to 48 Major J. summarized the position as follows:
+46. In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, [...], that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single tests seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relation ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, [...], at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a [page 1005] contract of service any longer serves a useful purpose... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47. Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, [...]. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48. It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[23] It is also helpful to keep in mind what was said by Jackett P. in William H. Alexander v. M.N.R. 70 DTC 6006 at 6011:
+...On the one hand, a contract of service is a contract under which one party, the servant or employee, agrees, for either a period of time or indefinitely, and either full time or part time, to work for the other party, the master or the employer. On the other hand, a contract for services is a contract under which the one party agrees that certain specified work will be done for the other. A contract of service does not normally envisage the accomplishment of a specified amount of work but does normally contemplate the servant putting his personal services at the disposal of the master during some period of time. A contract for services does normally envisage the accomplishment of a specified job or task and normally does not require that the contractor do anything personally... (emphasis added)
+[24] The control test relates to the right to control the manner in which the worker is to perform his tasks. Paragraph 3.1(c) of the Fountain Set agreement seems, on the surface, to suggest the presence of the right to control Mr. Yue in the performance of his work. The Minister assumed on assessment that Fountain Set (and Casual Time) had the requisite right of control. Nevertheless, I believe that Fountain Set and Mr. Yue did not intend that the former have that power. The sloppy draftsmanship suggests that the document was considered to be a formality and not intended to be a clear and detailed expression of the nature of the relationship.
+[25] This conclusion was confirmed by the testimony of Tony Lau, president of Fountain Set. With respect to the use of the word "employee" in the written contract, Mr. Lau stated that he did not intend to make Mr. Yue an employee all over again. He stated that before the Galaxy contract he gave Mr. Yue instructions and directions relating to a number of areas of Mr. Yue's work. Once the Galaxy contract was in place however, the position changed. Most notably Mr. Lau became free to promote the sale of textiles from sources other than Fountain Set.
+[26] Mr. Lau's evidence touched on other changes brought about by the introduction of Galaxy. He confirmed that Fountain Set paid Mr. Yue's expenses prior to his resignation. Before that resignation, Mr. Yue received the expenses of travel for purposes of his work and the cost of entertaining customers. He was supplied with a company car, cell phone and computer. All of that ceased with the introduction of Galaxy. Thereafter the cost of the equipment had to be borne by Galaxy. Mr. Lau also confirmed that Galaxy was compensated by way of commission on the sale of Fountain Set fabrics.
+[27] In summary the evidence of Mr. Lau confirmed that:
+i) both parties intended to terminate the employer/employee relationship between Fountain Set and Mr. Yue;
+ii) there was substituted a new relationship under which Galaxy sold Fountain Set products but was free to sell products from other sources;
+iii) Galaxy was entitled to look to Fountain Set for commissions on sales of Fountain Set products and no other form of financial support;
+iv) Galaxy supplied at its own expense the office and all equipment including the car required to earn its commission revenues. It was responsible to pay all travel and client entertainment expenses incurred in the process.
+[28] In the new relationship the right to control formerly held (and exercised) by Fountain Set came to an end. In its place was a new relationship in which the focus was on results and the worker was self directed in the pursuit of the desired results. It is the absence of control which distinguishes the present case from that of an employed commission salesman.
+[29] The evidence relating to chance of profit and financial risk also suggests that the worker was not employed by Fountain Set. Casual Time was obliged to look to commission revenues to cover the costs which it chose to incur in pursuit of commissions and to generate the profit which it sought. The burden of investment in the tools and equipment used in the pursuit of commissions rested entirely on the shoulders of the worker.
+[30] In my view if the Appellant Galaxy did not exist, Mr. Yue could reasonably have been regarded only as the proprietor of his own business providing services to Fountain Set and to Casual Time.
+[31] The relationship with Casual Time is not complicated by the existence of an employer/employee relationship before the period now in question. Mr. Yue's work for Casual Time involved contacting retailers in an effort to secure orders for clothing to be manufactured by Casual Time using, where possible, fabric to be purchased from Fountain Set. This work involved a process similar to the order placement work previously done by Mr. Yue in Hong Kong. It was not suggested that any representative of Casual Time interfered or had the right to interfere in what was done by Mr. Yue in the pursuit of orders.
+[32] Galaxy's compensation for this work took the form of a commission from Fountain Set on the sale of its fabric to Casual Time and a management fee from Casual Time on completion of the garment order. Casual Time was free to reject an order on which Mr. Yue had worked in which case Mr. Yue would not have been entitled to receive any compensation for time and effort wasted.
+[33] In addition to the direct search for contracts to manufacture garments, Mr. Yue was called in from time to time to deal with issues which could not be handled by Casual Time's regular staff.
+[34] The relationships between Casual Time and its regular staff on the one hand and between Casual Time and Mr. Yue on the other were quite different. Casual Time had a management team including a manager of finance and administration, a production manager, a manager of logistics and an assistant general manager. All were members of an employee group insurance plan and had company cars. Mr. Yue enjoyed no such fringe benefits. Members of the management team kept regular office hours. Mr. Yue did not.
+[35] The fee contemplated by section 3 of the management agreement was, as the agreement suggests, based on time spent but not exclusively so. Disbursements made by Mr. Yue in carrying out the Galaxy work were covered by an all-inclusive management fee.[1] Those fees were established from time to time by negotiation between Mr. Yue and Mr. Kwok, the president of Casual Time.
+[36] Galaxy employed Ms. Tong as assistant to Mr. Yue. She remained with Galaxy until the year 2000. Thereafter, her functions were carried out by Mr. Yue's parents.
+[37] Galaxy furnished the equipment required to carry out its work for Casual Time. This consisted of a cell phone, a laptop computer, a digital camera and normal office equipment.
+[38] Galaxy bore or, at least, included in the global amounts charged to Casual Time expenses incurred for travel, for delivery, for communications, for shipping costs and for Ms. Tong's salary.
+[39] Mr. Yue was not subject to any meaningful degree of control while working under the Casual Time contract. It was Mr. Yue who invested in the equipment necessary to conduct Galaxy's business and incurred expenses in the process of securing orders and earning fees. Galaxy in earning those fees was, quite obviously I think, conducting its own business.
+[40] It does not necessarily follow from the fact that Mr. Yue's services were necessary to the conduct of the businesses of Fountain Set and Casual Time that Mr. Yue was employed by the two corporations or either of them. Essential services can be, and frequently are, contracted out without creating a master-servant relationship.
+[41] When the matter is viewed as a whole, it is evident that, absent Galaxy, Mr. Yue could only be viewed as a person performing services for Fountain Set and Casual Time as a person carrying on a business for his own account. Galaxy therefore did not carry on a personal services business within the meaning of the subsection 125(7) definition.
+[42] The appeal will therefore be allowed with costs to be taxed and the assessments referred back to the Minister for reassessment accordingly.
+Signed at Toronto, Ontario, this 20th day of October 2005.
+"Michael J. Bonner"
+Bonner, J.
+CITATION:
+2005TCC674
+COURT FILE NO.:
+2004-572(IT)G
+STYLE OF CAUSE:
+Galaxy Management Inc. and H.M.Q.
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 12, 13 and 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Michael J. Bonner
+DATE OF JUDGMENT:
+October 20, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Kisselbach
+Katherine Xilinas
+Counsel for the Respondent:
+Karen A. Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Daniel Kisselbach
+Katherine Xilinas
+Firm:
+Miller Thomson LLP
+Vancouver, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The term "management fee" was inappropriate. "Commission" would be far more accurate.

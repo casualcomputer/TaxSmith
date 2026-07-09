@@ -1,0 +1,730 @@
+---
+title: "Samaroo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/214331/index.do"
+last_modified: "2016-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 290"
+citation2: ""
+neutral_citation: "2016 TCC 290"
+decision_date: "2016-12-19"
+language: "en"
+item_id: "214331"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2956
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:34:13.846000+00:00"
+cases_cited_count: 14
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00a8a41ecfed1c0c742f1387267445917aa1afe6ced9dad496d06490c0e3cf1d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Samaroo v. The Queen
+
+- Citation: 2016 TCC 290
+- Decision date: 2016-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2956, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Samaroo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-19
+Neutral citation
+2016 TCC 290
+File numbers
+2012-2998(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2998(IT)G
+BETWEEN:
+TONY SAMAROO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2012-3001(IT)G
+AND BETWEEN:
+HELEN SAMAROO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2012-2997(GST)G
+AND BETWEEN:
+TONY SAMAROO and HELEN SAMAROO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2012-3147(GST)G
+2012-3148(IT)G
+AND BETWEEN:
+SAMAROO HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2012-3149(GST)G
+2012-3150(IT)G
+AND BETWEEN:
+MGM RESTAURANTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Preliminary trial motion in the nature of a voir dire called for hearing on September 9, 2016, in Vancouver, British Columbia
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Gavin Laird
+Declan Redman
+Counsel for the Respondent:
+David Everett
+Elizabeth McDonald
+ORDER
+IN ACCORDANCE with the reasons for order and appendices thereto attached;
+THIS COURT ORDERS THAT:
+the Appellants’ preliminary trial motion by way of voir dire is dismissed;
+the request that the findings of fact in the criminal proceeding of R v. Samaroo, 2011 BCPC 0503 (“Samaroo #1”) should apply to the appeals under the doctrines of either issue estoppel or abuse of process is denied and, as such, no party shall be precluded from adducing further evidence at the hearing of the appeals which challenges, rebuts or enhances any finding of fact made in Samaroo #1;
+notwithstanding the dismissal of the motion, per se, those findings of fact contained within Samaroo #1 outlined in the attached Appendix I (the “Findings”) to the reasons for order are hereby admitted as evidence of the Appellants for the purposes of the appeals;
+it has determined that certain of the Findings impugn and/or potentially demolish the Minister’s assumptions of fact contained in those certain replies of the Respondent and specifically for those Appellants and taxation years described and specified in Appendix II to the reasons for order attached;
+therefore, in accordance with subsection 135(2) of the Tax Court of Canada Rules (General Procedure), the Court varies the order of presentation of evidence and argument at the balance of the hearing of the appeals on the following basis:
+as to evidence and witnesses
+a) the Respondent;
+b) the Appellants; and
+c) the Respondent in respect of rebuttal evidence
+as to argument
+a) the Respondent
+b) the Appellants; and
+c) the Respondent in reply argument followed by the Appellants, but solely to answer any new point of law raised in reply; and
+there shall be no order to costs on the motion, but costs are reserved until disposition in the cause.
+Signed at Ottawa, Canada, this 20th day of December 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016 TCC 290
+Date:20161219
+Docket: 2012-2998(IT)G
+BETWEEN:
+TONY SAMAROO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2012-3001(IT)G
+AND BETWEEN:
+HELEN SAMAROO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2012-2997(GST)G
+AND BETWEEN:
+TONY SAMAROO and HELEN SAMAROO,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2012-3147(GST)G
+2012-3148(IT)G
+AND BETWEEN:
+SAMAROO HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Dockets: 2012-3149(GST)G
+2012-3150(IT)G
+AND BETWEEN:
+MGM RESTAURANTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR VOIR DIRE ORDER
+Bocock J.
+I. Introduction
+a) Nature of Motion
+[1] The Appellants bring this preliminary motion at the beginning of the trial process. The motion was scheduled to occur some months before the reconvening of the trial and the first calling of evidence. It is a motion in the nature of a voir dire. By definition, it concerns the admissibility or exclusion of evidence. In the present appeals, the ruling regarding of such evidence will likely impact the length, volume and order of evidence and possibly the outcome of the appeals. The evidence to be excluded emanates from factual findings (the “Findings”) in a previous criminal trial for income tax evasion involving some of the Appellants at bar. That previous proceeding occurred in British Columbia provincial court: R v. Samaroo, 2011 BCPC 0503 (“Samaroo #1”). In addition, there was a subsequent order of the British Columbia Supreme Court concerning a consequent civil proceeding for malicious prosecution involving some of the Appellants: Samaroo v. Canada Revenue Agency, 2016 BCSC 531, (“Samaroo #2”).
+b) Exclusion of Further Evidence
+[2] The Appellants seek an order preventing any party at the hearing of these appeals of the (re)assessments (the “Tax Appeals”) from adducing further evidence which seeks to challenge the Findings determined by the provincial court judge in Samaroo #1, which Findings were further referenced and utilized by a British Columbia Supreme Court Justice in Samaroo #2. The legal bases for this sought exclusion order are issue estoppel or abuse of process.
+[3] While issue estoppel and abuse of process have been applied by the Tax Court in factual situations involving guilty verdicts for income tax evasion, the same cannot jurisprudentially be said of an acquittal. Samaroo #1 involved just that verdict: an acquittal. The broad issue is whether this Court should apply issue estoppel or abuse of process in respect of Findings from an acquittal to exclude fully further evidence contradicting or challenging the Findings. And quite apart from the en bloc application of the doctrines, what is the further effect of the Findings on the Tax Appeals, namely (i) to what extent; (ii) to which appeals; and (iii) by what method should such an exclusion order apply.
+II. Matters Decided in the Other Proceedings
+[4] At the outset, counsel for the parties take differing views of the Tax Appeal issues determined, settled or resolved by the Findings in Samaroo #1 and Samaroo #2.
+a) According to the Appellants
+[5] Drawing extensively from the provincial court judge’s written reasons for acquittal in Samaroo #1, the Appellants characterize the judge’s findings as manifest, determinative and central to the Respondent’s assumptive facts in the replies to the Tax Appeals. An excerpted portion of the Appellants’ written submissions are included below because they succinctly cite the relevant Findings in Samaroo #1 and their subsequent use in Samaroo #2.
+Excerpt from Appellants’ motion materials:
+6. The criminal trial in Samaroo #1 had a long procedural history including amendments to the information, particulars, and amended particulars before the trial began.
+7. The trial was long:
+The trial took 19 days to complete, almost all of which was used for the Crown’s case, and was replete with applications for rulings by both sides. The Crown called 24 witnesses and filed affidavit material. There were 51 Crown exhibits most of which were large binders containing hundreds of working papers, characterized by confusion on occasion because the numbers of the Crown exhibits did not tally with the defense documents, filed as exhibits, which were not referred to.
+8. Justice Saunders (the provincial Court judge who heard and decided the matter) acquitted the accused on the issue of whether there was unreported income and misappropriation of cash from unreported income [Samaroo #1].
+9. Justice Saunders also made express ‘positive’ findings in favour of the accused. For example, she found:
+[61] …it is important to point out that I find Tony Samaroo to be credible. His demeanour was impressive. His explanation is consistent with significant and material aspects of the evidence and is plausible for the reasons set out below.
+[62] In general terms, I accept his evidence that he began working hard and saving when he first arrived in Canada in 1970. I accept that he had sound business acumen in the food and entertainment industry and bought and sold businesses with a profit. I accept that he continued to work long hours with Helen after their marriage and accumulated savings from their employment and inherited funds which they held in the form of cash due to their beliefs around banking practices.
+[63] In specific terms, as they relate to the different aspects of the Crown’s theory itemized below, Tony Samaroo told Ed Heese about depositing old $100 bills into his corporate account well before the auditor, Glen Foster, came to the MGM in March, 2006. Ed Heese confirms this. Glen Foster was also told this by Tony Samaroo but chose not to believe him.
+10. Justice Saunders made express findings of fact [concerning] the Crown’s theory that there was unreported income and misappropriation of unreported cash … based on four assumptions by the Canada Revenue Agency (“CRA”):
+[59] The Crown theory, that the Samaroos misappropriated unreported cash and understated their income and the income of the MGM and Samaroo Holdings in contravention of the Income Tax Act and Excise Act, is based on four assumptions: namely, a) the paper trail pursued by Keith Kendal points to almost one million dollars being deposited to the personal accounts of the Samaroos and shareholder loan accounts of the MGM and Samaroo Holdings for taxation years 2004, 2005 and 2006; b) that Tony Samaroo skimmed unreported cash from one till tape or shift per day from the MGM and nightclub to a lesser extent, and deposited the cash into his account and into the shareholder loan account for his and Helen’s benefit; c) Tony and Helen Samaroo used the unreported cash to pay third party suppliers, liquor and wages; and d) the net worth analysis indicates they could not have saved close to a million dollars over the years 1980 to 2003.
+11. Justice Saunders then made express findings of fact that each of the CRA’s four assumptions were explained or rendered invalid:
+a) Tony Samaroo’s evidence was accepted with respect to the cash deposits;
+b) The Crown’s theory that Tony Samaroo skimmed unreported cash from one till tape per day was flawed in significant respects;
+c) Tony and Helen Samaroo did not use unreported cash to pay supplies, liquor or wages as alleged; and
+d) The CRA’s net worth analysis was inaccurate.
+12. The Crown has not raised an alternative basis of assessment in the present cases pursuant to subsection 152(9) or sought to do so.
+13. In Samaroo v. Canada Revenue Agency, 2016 BCSC 531, [“Samaroo #2”] Justice Punnett of the Supreme Court of British Columbia found that the requisite elements of issue estoppel were met as between Samaroo #1 and Samaroo #2.
+14. In particular, Justice Punnett ruled that the Supreme Court of Canada’s decision in Mahalingan applied such that the findings from Samaroo #1 applied to Samaroo #2 despite there being an acquittal in Samaroo #1: “…whether the finding arises from conviction or an acquittal is irrelevant. It is the determination of the issue that is relevant.”
+15. Further, in Samaroo #2 Justice Punnett also ruled, in the alternative, that it would be an abuse of process for the Canada Revenue Agency to seek to relitigate the findings and issues addressed in the Samaroo #1.
+b) According to the Respondent
+[6] The Respondent does not dispute the content of the Findings submitted by the Appellants, but asserts that such resolved issues cannot be divorced from the differing standard and burden of proof in criminal proceedings: (i) guilt must be proved beyond the threshold of reasonable doubt, and (ii) the Crown bears the burden of so proving such guilt. Therefore, given this differing litigative context, the two consequent contextual conclusions within the Findings were limited to:
+a) the testimony of Tony Samaroo, the sole witness for the accused, was credible on certain issues, inter alia, no unreported income, non-taxable sources of cash and no misappropriation of corporate property, and
+b) the Crown’s methodology for calculating unreported income, its net worth statement calculation and failure to account for capital cost allowance were flawed.
+[7] The Respondent further asserts that in the first finding in a) above, Judge Saunders indicated that the credibility of Mr. Samaroo arose from the plausible nature of his evidence. Since the judge accepted the accused’s testimony, reasonable doubt of guilt was established and an acquittal entered. This is the mandatory first prong of three relating to evaluation of evidence relating to reasonable doubt [1] .
+[8] With the second finding in b) above, the Crown failed to prove the net worth analysis beyond a reasonable doubt. To do so legally, the Crown must establish one of two things: disclose through the net worth analysis the likely source of the alleged unreported income; or, disprove all other non-taxable sources of income. The Crown failed to do so. The judge found the calculation lacked such a degree of accuracy and was “worthless” in meeting the Crown’s burden of establishing the criminal standard of proof. In short, the Respondent asserts that the finding was an acquittal because the Crown, who bore the burden of proof, failed to discharge that obligation to prove beyond a reasonable doubt that the Appellants evaded tax contrary to the criminal offence provisions of the Income Tax Act (the “Act”) [2] . In that criminal proceeding the party, namely the Crown, who bore the burden of proof to an enhanced standard of proof was central to the outcome. Both these components are different in these Tax Appeals, at least to the extent of the correctness of the assessment.
+III. Legal Basis for Exclusion of Evidence
+[9] The Appellants request the exclusion of further evidence contrary to the Findings on the basis of issue estoppel or abuse of process.
+i. Pre-requisite criteria for Issue Estoppel
+[10] It is agreed agree that the three elements of issue estoppel are as follows:
+a. That the same question or issue has been decided (‘issue symmetry’);
+b. That the judicial decision which is said to create the estoppel was final; (‘finality’)
+c. That the parties to the judicial decision or their privies were the same persons as the parties to the proceedings in which estoppel is raised or their privies. (‘mutuality’) [3]
+[11] In the matter at bar, finality and mutuality exist in respect of Samaroo #1. The sole outstanding element is whether there is issue symmetry: does the same question or determination exist as between the criminal proceeding in Samaroo #1 and these Tax Appeals?
+[12] Moreover, issue estoppel is a discretionary remedy. In Danyluk, the Supreme Court of Canada (“SCC”) considered the application of issue estoppel from a determination made by an administrative tribunal to civil court proceeding. In that case, Justice Binnie held that the first step in applying issue estoppel is for the courts to determine whether the preconditions to the operation of the doctrine have been met. If the preconditions are met, the courts must still determine, as a matter of discretion, whether issue estoppel ought to be applied [4] .
+[13] In exercising this residual discretion, courts must ensure that the discretion is exercised to deal with the unique and particular circumstances of the case before them. Within Danyluk, at paragraph 63, Justice Binnie cited with approval the following comments by the Ontario Court of Appeal in Schweneke [5] :
+The discretion to refuse to give effect to issue estoppel becomes relevant only where the three prerequisites to the operation of the doctrine exist. . . . The exercise of the discretion is necessarily case specific and depends on the entirety of the circumstances. In exercising the discretion the court must ask - is there something in the circumstances of this case such that the usual operation of the doctrine of issue estoppel would work an injustice?
+. . . . .
+. . . The discretion must respond to the realities of each case and not to abstract concerns that arise in virtually every case where the finding relied on to support the doctrine was made by a tribunal and not a court. [Emphasis added.]
+[14] Specifically, fairness in this inquiry should be considered from two perspectives. First, courts should consider the fairness of the prior proceeding. Second, courts should consider the fairness of using the results in the prior fair proceeding to bar determination of issues in the subsequent proceeding.
+ii. Pre-requisite criteria for Abuse of Process
+[15] Two of the three elements for abuse of process are the same as those for issue estoppel. However, mutuality need not exist for abuse of process to apply and its primary rationale and purpose is different: the courts’ multiple processes should not compromise the integrity of the justice system by affording a party the opportunity to relitigate the same question twice where doing so would result in a misuse of the courts’ procedures and bring the administration of justice into disrepute [6] .
+[16] In City of Toronto, the SCC held that the discretionary factors that apply to prevent issue estoppel from operating in an unfair way are equally available to prevent abuse of process from achieving a similar undesirable result [7] . Therefore, courts also have the residual discretion to apply abuse of process, where preconditions to applying the doctrine are met.
+[17] According to the SCC, common to both issue estoppel and abuse of process is the aim to ensure fairness in the judicial decision-making process:
+There are many circumstances in which the bar against relitigation, either through the doctrine of res judicata [which includes the doctrine of issue estoppel] or that of abuse of process, would create unfairness. If, for instance, the stakes in the original proceeding were too minor to generate a full and robust response, while the subsequent stakes were considerable, fairness would dictate that the administration of justice would be better served by permitting the second proceeding to go forward than by insisting that finality should prevail [8] .
+[Emphasis added.]
+[18] Courts’ residual discretion with respect to abuse of process has been recognized by the Tax Court of Canada. In Golden, Justice Boyle held that like issue estoppel, “[a]buse of process is also a doctrine that should only be applied in the Court’s discretion and requires a judicial balancing with a view to deciding a question of fairness [9] .”
+[19] It is important, however, to not overstate the importance of fairness as a consideration when exercising the residual discretion in applying abuse of process. The fundamental goal of abuse of process is to uphold the integrity of the judicial system. Therefore, proper application of the doctrine should result in a balancing of different interests, such as finality, fairness, efficiency, and authority of judicial decisions [10] .
+IV. Jurisprudence surrounding application of Issue Estoppel or Abuse of Process
+a) Varying Standards of Proof, Burdens of Proof and Outcomes/Verdicts
+[20] Even where issues or questions before the completed proceeding (i.e. Samaroo #1) and the subsequent proceeding (i.e. The Tax Appeals) have issue symmetry, courts have differentiated between the applicability of issue estoppel and abuse of process where different standards of proof are at play and/or different verdicts or outcomes occur. These differing standards of proof are distinct and longstanding at law: guilt beyond a reasonable doubt in criminal proceedings and occurrence on the balance of probabilities in civil matters. In terms of verdicts in criminal matters, only proof of guilt marshalled by the Crown beyond a reasonable doubt commands a guilty verdict, anything less results in an acquittal. For civil proceedings, proof of occurrence on the balance of probabilities by the party seeking to overturn the status quo results in success of the suit and the granting of relief. That much is well-known, static and fundamental. By contrast, the jurisprudence regarding the transfer of findings among and between standards of proof, burdens of proof and outcomes or verdicts (“transferral”) in the context of issue estoppel and abuse of process remains vague, evolving and tangential. This is borne out in the various scenarios developed in common law Canada by various courts, at various levels and various jurisdictions.
+b) Transferral of Findings under Issue Estoppel
+i. The Parties’ positions
+a) Appellants
+[21] The Appellants presented refined arguments surrounding the assertion that issue symmetry existed sufficiently to allow the Findings in Samaroo #1 to apply substantively to the Tax Appeals. The consequence of that application should be broad: no party shall introduce further evidence at the hearing tending to disprove those positive findings of fact.
+[22] The Appellant asserts that issue estoppel and abuse of process afford the ready transferral of the Findings from a criminal acquittal on tax evasion to a related tax appeal. Specifically referencing Chief Justice McLaughlin in Mahalingan, [11] the Appellants’ counsel noted with respect to an acquittal in a prior criminal proceeding, “[i]f a particular issue was decided in favour of the accused …, even if the issue was decided on the basis of reasonable doubt, issue estoppel applies.” [12] Specifically, the doctrine of issue estoppel applies to those issues that were expressly or necessarily resolved in the acquittal.
+[23] The Appellants state that although the SCC in Mahalingan dealt with issue estoppel in the criminal-to-criminal context, the principles stated by the Chief Justice are equally applicable in the criminal-to-civil context. If Mahalingan is properly interpreted, it represents the latest consideration by the SCC on issue estoppel as a single doctrine. That is, Mahalingan represents the continued evolution of that doctrine of transferral of findings of fact among and between both criminal and civil courts.
+[24] In Mahalingan, the majority's analysis was concentrated on resolving problems in the application of issue estoppel and its confusion with abuse of process arising from previous jurisprudence. The Chief Justice stated that such problems are largely resolved if courts confine the application of the doctrine to prior determinations of factual issues as opposed to a focus on different burdens and standards of proof. In reaching such a determination, the Chief Justice had dropped any reference to the criminal law context and thus did not make a specific finding that the issue-centred approach only applies to a criminal-to-criminal transferral context, although that was the situation in Mahalingan. Therefore, the Appellants assert that courts are not precluded from applying issue estoppel from a criminal acquittal to a subsequent civil proceeding. Notably, in Samaroo #2 Justice Punnet expressly followed Mahalingan to find that issue estoppel applied as between the criminal Samaroo #1 and the civil matter resulting in the preliminary decision in Samaroo #2. [13]
+[25] Therefore, the Appellants submit that the issues expressly or necessarily resolved (i.e. for which there is issue symmetry) in the Appellant's acquittal in Samaroo #1, whether on the basis of a positive finding of fact or reasonable doubt of guilt, are subject to issue estoppel in the Tax Appeals. The consequence should be the preclusion of the introduction of further evidence to disprove or enhance the Findings.
+b) Respondent
+[26] In turn, the Respondent submits that issue estoppel does not apply from an acquittal in a criminal proceeding to a subsequent civil proceeding, whether on the basis of a positive finding of fact or reasonable doubt. The only exception to this rule is where the civil proceeding is for malicious prosecution, as was the case Samaroo #2. Samaroo #2 should be read merely as an illustration of this narrow exception.
+[27] Further, the Respondent asserts that issue estoppel cannot apply in the case at bar for three other reasons.
+[28] First, the difference in the standard of proof between civil and criminal proceedings renders issue estoppel inapplicable in a criminal acquittal to a civil transferral context. Since the standard of proof in civil proceedings is lower than the standard of proof in criminal proceedings, a prior acquittal, as opposed to a conviction, is not determinative of any factual issues to be resolved in a subsequent civil proceeding.
+[29] Second, the nature of a criminal conviction and an acquittal is fundamentally different. The former is a positive finding of guilt beyond a reasonable doubt (i.e. a “guilty” verdict); the latter is simply the absence of that finding (i.e. a “not guilty” verdict). To apply issue estoppel from an acquittal to a subsequent civil proceeding would effectively be introducing a third verdict, that of factual innocence. As a matter of public policy, courts should not recognize two classes of acquitted individuals: those who are legally not guilty, and those that are factually innocent. To do so would diminish the significance of the “not guilty” verdict.
+[30] Lastly, the Appellants' reliance on Mahalingan is misplaced. Issue estoppel consists of two distinct types: criminal and civil issue estoppel. Mahalingan only considered criminal issue estoppel. Hence, the comments of the Chief Justice are obiter in the criminal to civil transferral context and the Supreme Court of Canada's refinement of the criminal doctrine cannot be extended to the civil doctrine.
+iii. Analysis
+[31] The Appellants' interpretation of Mahalingan reaches too far in the context of tax litigation concerning the correctness of assessments. To the extent an acquittal in a prior criminal proceeding was based on reasonable doubt, issue estoppel does not apply to a subsequent civil proceeding because logically there exists longstanding and differing standards of proof in criminal and civil proceedings.
+[32] The Appellants have characterized Chief Justice McLachlin's refinement of the doctrine of issue estoppel if not incorrectly, then over-generously. At paragraph 17 of Mahalingan, McLachlin CJ held that “the proper and narrower concern of issue estoppel … is particular determinations on the issues supporting the verdict” (emphasis added). The Appellants themselves referred to this in their submissions and concluded that Mahalingan stands for the proposition that “issue estoppel clearly can flow from an acquittal.” It is more accurate to say that the Chief Justice concluded issue estoppel can flow from determinations of factual issues that support a verdict of a criminal acquittal. The focus of the analysis is on the issues, not the outcomes of the prior proceeding.
+[33] However, both proceedings referenced in Mahalingan were criminal. The Chief Justice stated at the opening of the decision that “[t]hough it shares many features with its civil law equivalent, criminal issue estoppel is a stand-alone doctrine responsive to the unique characteristics of criminal trials.” The Chief Justice envisages two types of issue estoppel, one for civil proceedings and one for criminal proceedings. The Appellants' characterization of a single doctrine seems to ignore this right-limiting preamble. Any adoption of principles from Mahalingan within the criminal to civil transferral context would necessarily be novel and beyond the express realm of even the obiter dicta in Mahalingan which itself was limited to criminal proceedings only.
+[34] Leaving aside for a moment both this conclusion by this Court and the different burden or onus of proof in Tax Appeals (at least in the context of assessment for tax) and criminal proceedings, the Appellants’ suggested focus on the prior factual determination of issues when applying issue estoppel in the criminal to civil transferral context has merit. However, this applies in exceptional cases where there are no issues with respect to the different standards of proof. The underlying policy goal of issue estoppel is to “balance the public interest in the finality of litigation with the public interest in ensuring that justice is done on the facts of a particular case.” Where, in exceptional cases, factual issues in a prior criminal proceeding have undergone extensive judicial scrutiny and have been conclusively resolved in accordance with the standard of proof for the subsequent proceeding, [14] it serves the public interest to not allow further litigation over these factual issues in the subsequent proceeding, regardless of whether the prior criminal proceeding resulted in an acquittal or a conviction. This marches along with Justice Punnet’s view in Samaroo #2, who fairly summarized the conclusive reasoning of Mahalingan as follows: “whether the finding [that resolved a factual issue in the prior proceeding] arises from a conviction or an acquittal is irrelevant. It is the determination of the issue that is relevant.” [15]
+[35] If the focus of issue estoppel is not on the outcome/verdict of a prior criminal proceeding, but on issue symmetry per se, whether the verdict is an acquittal or a conviction, applying issue estoppel would not create a third category of criminal verdicts, that of factually innocence, because the court has not turned its mind to the question of guilt or innocence. In addition, if one is to focus only on how factual issues in the prior proceeding were resolved, so long as the requisite standard of proof in the subsequent proceeding is met and there are no issues regarding the difference in the burden of proof, it is irrelevant whether the prior proceeding was in the nature of a criminal or civil case.
+[36] But that is as far as it goes. The Appellants’ argument suffers when one considers the shift in burden of proof from that of civil proceedings to that in these Tax Appeals. In such proceedings generally, the burden is on the taxpayer to demolish the Minister of National Revenue's (the “Minister”) assessing assumptions on the balance of probabilities. [16] In this case, the Appellants' voir dire motion seeks to preclude both parties from adducing evidence for the purpose of challenging factual issues resolved in Samaroo #1. If this position is accepted, this effectively allows the Appellants to discharge their burden of proof without ever being required to affirmatively establish their case in the context of the correctness and quantum of the assessment; the Court would have no information other than the Findings in Samaroo #1 with which to make its own findings with respect to the factual issues allegedly resolved in that case. This definitionally encroaches upon the exclusive and originating jurisdiction of this Court to determine the correctness and extent of the tax assessments in the Tax Appeals. This was also deferentially referenced by Justice Punnet, himself, in Samaroo #2. [17]
+[37] This Court’s maintenance of its exclusive and originating jurisdiction should be balanced with the principle of judicial comity. In Houda, Justice Boyle of this Court considered an application for an extension of time to appeal to the tax court where the taxpayer had already obtained an extension of time from the Court of Quebec in respect of corresponding provincial sales tax assessments. Justice Boyle held that after considering whether the Court is bound by the decision of the Court of Quebec under the doctrines of issue estoppel or abuse of process, even if the answers are no, the Court must still determine whether it should extend deference to the Court of Quebec in the interests of judicial comity. [18]
+[38] While the Tax Court is not necessarily bound by decisions of courts of coordinate jurisdiction, especially where the relevant legal provisions are not the same, it is advantageous to ensure findings on a single issue are consistent, where possible. [19]
+[39] Judicial comity should not be accepted indiscriminately. Where the factual matrix or evidential basis between two cases is different, or where the issue to be decided is different, judicial comity does not apply.
+[40] Ultimately as suggested by the Respondent, the purposes of a criminal trial and a tax assessment appeal are fundamentally different. The former is to determine whether the accused is guilty of the elements of the criminal offence beyond a reasonable doubt. The latter is to determine whether the Minister's assessment of the taxpayer's tax liability is correct and, also, the quantum to which such assessed tax liability exists. In the Tax Appeals, while there may be similarities and commonalities in some of the factual issues that need to be resolved before this Court vis-à-vis those already resolved in Samaroo #1, the exclusion of evidence before this Court on the basis of issue estoppel rather than the simple admissions of the Findings fails to recognize a critical object embedded within issue estoppel. The Tax Appeals are not re-litigation at all, but are distinctly mandated legal processes evaluating and determining different legal rights and obligations than do the previous criminal proceedings. In this circumstance, to allow the Appellant's voir dire motion, in toto, gives short shrift to a taxpayer's fundamental obligation in our self-reporting system of establishing the correctness of their tax filings in the face of the Minister’s reassessment.
+c) Transferral of the Findings through Abuse of Process
+(i) The parties’ positions
+[41] There is no great jurisprudential difference between the analysis and reasoning applied above to issue estoppel and that of abuse of process in the context of these Tax Appeals. Issue symmetry and not mutuality (the usual and sole distinction between issue estoppel and abuse of process) is the criteria under consideration on this voir dire motion. That criterion applies to both issue estoppel and abuse of process.
+(ii) Analysis
+[42] While avoidance of relitigation is the primary concern for the application of issue estoppel, maintaining the Court's exclusive statutory jurisdiction to determine the validity and correctness of tax assessments is also a proper and, in this Court’s discretion, a higher concern with respect to the underlying distinctive purpose of abuse of process: maintenance of the integrity of the judicial decision-making process. If the exclusion order sought by the Appellant is granted, the Court's jurisdiction would be infringed upon to the extent that this Court is precluded from considering any additional rebuttal or reply evidence surrounding the Findings made by Judge Saunders. The same reasoning applies to the Court's consideration of Samaroo #2. However, tax litigation does not work in such a fashion. To maintain and discharge its exclusive jurisdiction, the Court should not give exclusionary effect to the Findings.
+[43] Moreover, to give the Findings exclusionary effect would require a legal determination that Judge Saunders make the Findings in the Appellants' favour based solely upon the Appellant’s onus to prove same to the civil standard of proof: the balance of probabilities. This is very much a live point because while Judge Saunders commented favourably on Tony Samaroo's credibility and accepted many aspects of his testimony, she did not address the question of the extent to which she accepted the testimony as true to that standard. The acquittal occurred because she accepted his testimony found within the Findings as sufficiently credible to the extent of establishing reasonable doubt. At law in a criminal proceeding, an acquittal must then be directed. But what of the correctness of the assessment to the extent of the tax liability.
+[44] Both counsel are correct in noting that the interests of the parties are not determinative with respect to the application of abuse of process. It is the integrity of the justice system that out-ranks. The Court also agrees that abuse of process should only be applied in clear cases. The conclusion cannot be drawn that Samaroo #1 is such a case.
+d) Reconciling the Mis-match of issue estoppel and abuse of process to Tax Appeals
+[45] Similarities and commonalities in certain of the factual issues that need to be resolved in the Tax Appeals vis-à-vis those already resolved in Samaroo #1 do exist. However, not all factual issues that need to be resolved in the Tax Appeals have in fact been resolved in Samaroo #1 such that an exclusion order for similar or rebuttal evidence should be issued. Judge Saunders did not consider whether the quantum of reported income was correct in Samaroo #1. As such, applying issue estoppel or abuse of process in this case would cause rather than cure any potential injustice.
+[46] Applying the doctrine of issue estoppel or abuse of process to the case at bar is also inconsistent with the spirit of judicial comity. As found by Justice Punnett in Samaroo #2, it is for this specialized Court to determine what evidence is admissible and what factors are to be taken into account in the Tax Appeals; it is not for other courts to speculate on whether abuse of process or some other relief should be granted to the Appellants in these proceedings. [20]
+[47] It is within the scope of this concept of this Court’s unique jurisdiction that some recognition and use of the Findings in Samaroo #1, as buttressed in Samaroo #2, may be made. As stated, this is however to be limited by the context of this Court’s exclusive and originating jurisdiction [21] , unique standards and burdens of proof and distinct jurisprudence all reflective of its national, bi-jural and statutory foundations.
+[48] In this context, this Court shall apply the Findings to the Tax Appeals. In doing so, it will guard the exclusive and originating jurisdiction of this Court, give voice and effect to the Findings in the lengthly, but asymmetrical criminal proceedings and face directly the equally undesirable results of either granting or refusing, in toto, the voir dire motion. The Findings are admitted and with impact, but not to the exclusion of contrary or enhancing evidence where such further evidence meets the normal test of being probative, relevant and necessary to the unique determination of this Court: the correctness and extent of the levied assessments and the validity of penalties all against multiple appellants and all to the evidential threshold of the balance of probabilities. This reconciliation preserves and respects the integrity of all the courts which have dealt and will deal with these matters, but upholds the integrity of the overall judicial system, while recognizing the differing roles played by each part.
+V. The Evidentiary Elements of Tax Appeals, the Impact of the Findings and Utilization of Same in these Appeals
+i. The Standard of Proof in Tax Appeals
+[49] Hickman Motors enunciates the most recent foundational principles concerning the onus and standard of proof in tax appeals. Justice L'Heureux-Dubé said:
+a) The appellant has the initial onus to demolish the Minister's assessing assumptions by at least a prima facie case. The appellant's initial onus is to demolish the exact assumptions made by the Minister, but no more. [22]
+b) Where the Minister's assumptions have been demolished, the onus shifts to the Minister to rebut the prima facie case made out by the appellant and to prove the assumptions. If the Minister adduces no evidence, the appellant is entitled to succeed even if the appellant's evidence contained gaps in logic, chronology, and substance. [23]
+[50] The SCC Justice continued by saying that “within balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter.” [24] Further, the minimum case that the appellant needs to make to discharge her or his initial onus is “a prima facie case”. [25] Read together, these phrases seem to contemplate a shifting standard of proof in tax appeals. That is, the initial onus can be discharged on the basis of a standard less onerous than proof on a balance of probabilities.
+[51] This finding, technically a minority determination within Hickman, commenced an active and lively debate which continues unabated to this day concerning the enigma of the elusive prima facie case, its value, applicability and breadth in tax assessment appeals before this Court. Supported in certain authorities [26] and rejected or minimized in others [27] , these alternative views remain.
+[52] To reconcile this subsisting debate and make it useful to the case at bar, some rendering of the hard edges is required. In tax appeals generally and in regards to the Findings specifically, a conclusion must be drawn. In tax appeals, the onus is on the appellant to demolish the Minister's assumptions on a balance of probabilities standard [28] and nothing more or less than that. [29] The “prima facie” qualification in Hickman Motors should not be interpreted as having altered the usual standard of proof in tax appeals. [30] Where the initial requirement to marshall evidence tactically shifts from the appellant to the Minister, as discussed below, the applicable standard of proof still remains the same: proof on a balance of probabilities, not a lesser or differing standard. Simply, the change is the Court’s requirement to next turn its attention to the Minister’s assumptions to evaluate their correctness or incorrectness through cognizance of rebuttal evidence.
+ii. The Burden of Proof and Tactical Considerations in Tax Appeals
+[53] In turn, the reverse onus or burden of proof in tax appeals against normal (re)assessments is recognized in common law and codified in the Income Tax Act and structured under the Tax Court of Canada Rules (General Procedure) [31] . The Appellant bears the onus to call evidence directed at the target of the factual underpinnings of the Minister’s assumptions. As facts are marshalled so as to demolish or approach demolishing those facts embedded within the assumptions, the Minister tactically and prudentially should respond or risk having the judge determine, more likely than not, that the taxpayer has met his or her legal burden of proof [32] .
+[54] Unlike the standard of proof which never changes, a dynamic tactical obligation to call evidence continually arises as between an appellant and the Minister. Where a tactical shift occurs, both parties experience an issue by issue requirement to call evidence to carry such issue then in contention, both to the balance of probabilities.
+[55] The underlying policy which requires an appellant to bear the initial onus is as follows. Canada's taxation system is a self-assessment system. Facts regarding any taxpayer's tax affairs are “in a special degree if not exclusively within the [taxpayer’s] cognizance”. [33] As the taxpayer is best positioned to know and support the factual basis of their tax affairs, the taxpayer must bear the initial onus when contesting the Minister's assessment of tax.
+[56] However, the appellant having the initial onus is merely a general principle and like all general principles, it is subject to exceptions. These exceptions are generally premised on procedural fairness grounds, such as when a pleaded assumption is solely within the knowledge of the Minister. It should be noted that procedural fairness goes both ways: when ordering a reverse onus, courts must ensure shifting the appellant's initial onus to the Minister does not compromise the integrity, enforceability, the credibility of Canada's self-reporting taxation system. [34] Similarly, where imposing the onus or burden of proof on the appellant would result in procedural unfairness because there would be a lack of clarity in the assumptions asserted by the Minister, courts have shifted the initial onus to the Minister.
+[57] Ultimately, as noted by Associate Chief Justice Bowman (as he then was) in Mungovan, the Court should not press the conventional rule about the appellant having the initial onus so far that it loses sight of the rule's original purpose and of all considerations of procedural fairness. The ordinary rules of practice and pleadings for civil cases apply to tax appeals as well: the onus of proof should, as a rule but not invariably, rest upon the party who maintained the affirmative of the issue in their pleading, as a negative is generally incapable of proof. Whether the initial onus should shift to the Minister in a particular case is a matter for the trial judge. [35]
+(iii) Conclusions on who bears the burden to call evidence on these Tax Appeals
+[58] In summary, the Court may view the initial onus of proof as having shifted from an appellant to the Minister where doing so would not compromise the integrity, enforceability, the credibility of the self-reporting taxation system and any of the above-referenced and repeated below factors applies:
+a) knowledge of the pertinent facts skew in favour of the Minister;
+b) imposition of the initial onus on the appellant would result in procedural unfairness; or
+c) strictly placing the initial onus on the appellant fails to give sufficient consideration that a person who puts forth an affirmative assertion bears the onus with respect to that assertion.
+[59] The last two factors bear on the specifics and inter-relationship among the Findings, the Tax Appeals and the general objects, if not the full effect of, issue estoppel and abuse of process. The application of the trial judge’s discretion limited by the uniquely combined burden, standard and tactical dynamic of evidence in Tax Appeals allows contextual recognition and use of the Findings directed to the goal of fairness and efficacy of the trial in these Tax Appeals.
+[60] Throughout, as noted below, the determination of the issues through utilization of the Findings remains within the discretion of the Court.
+VI. Utilization of the Findings in these Appeals
+i. Application of Findings
+[61] This Court will apply its residual discretion is in the context of its own rules. For the hearing of these multiple appeals, the Findings comprise admissible evidence marshalled by the Appellants. The Findings are enumerated within the affidavits containing the transcripts of the reasons for decision of Judge Saunders in Samaroo #1. To do otherwise lacks common sense and fails to deploy the considerable time, effort and considerable determination on similar facts within the Findings. The determination concerning the weight to be given to the Findings and their impact on the Tax Appeals shall reconcile the differing and varying processes, standards of proof and purposes among the criminal, civil and tax courts.
+ii. Limitations of Findings
+[62] Another of the reasons for not granting the motion in toto is the incompleteness of the Findings across the assumptions pleaded by the Respondent. As stated, assumptions are a critical element in tax litigation. But not all the pleaded assumptions in the Tax Appeals were considered, referenced or impacted by the Findings. Similarly, the Findings do not reference all the Appellants nor all taxation years before this Court, since not all Appellants were charged and not all taxation years were before the courts in Samaroo #1.
+iii. Methodology used to apply the Findings to the Tax Appeals
+[63] Reconciling these differences is a detailed task. Methodologically, it requires an analysis of the Findings against the Respondent’s assumptions in each specific reply, both in the context of a made finding in Samaroo #1 and the party to whom and the taxation year to which such findings relate.
+iv. Application of Methodology to the Pleadings
+[64] This preliminary task has been undertaken in two steps. The first is an analysis of the text of Judge Saunders’s Findings in Samaroo #1 and an extraction of those Findings relevant to the Tax Appeals. Appendix I to these Reasons for Order outlines the result of the Findings in chart format for ease of reference. Quite apart from the theoretical legal arguments and these reasons concerning burden, standard, admissibility, issue estoppel and abuse of process, a trial before this Tax Court involving taxpayers and the Minister, with counsel and witnesses must still occur. This convenient reference tool suits that task.
+[65] The second task reconciles the Findings against the relevant assumptions in the replies of the Respondent among the applicable taxation years and Appellants. These reconciled conclusions are outlined in Appendix II attached to these Reasons for Order.
+VII. The Result and its Impact on the Order of Presentation during the balance of the hearing
+(i) Order of Presentation at Hearing
+[66] The conclusions regarding the various assumptions, taxation years and Appellants impacted by the Findings leaves at best a checkerboard across all the Tax Appeals. Some assumptions are evidentially challenged or potentially demolished by the Findings and some are not. Again, this checkerboard spans Appellants, assumptions and tax years. The purpose of these Reasons for Order and related Order is to apply the Findings, to the extent of the Tax Appeals, in a useful, common-sense and discerning manner and render a process which fairly assists the judge and counsel at a fair, proportioned and balanced hearing.
+[67] Section 135 of the Tax Court of Canada Rules (General Procedure) provides as follows [emphasis added]:
+135 (1) If at a hearing a party proposes to adduce evidence, the party or the party’s counsel shall, unless the judge directs otherwise, immediately before adducing the evidence, open his case by making a short statement giving a concise outline of the facts that the party proposes to prove and of the applicable law.
+(2) Unless the judge directs otherwise, the parties shall put in their respective cases by evidence or by putting before the Court the facts on which they rely, [in the following order],
+(a) the appellant,
+(b) the respondent, and
+(c) the appellant in respect of rebuttal evidence.
+(3) Unless the judge directs otherwise, after all parties have adduced their evidence, they shall be heard in argument in the order in which they adduced their evidence and the party who was first heard in argument may reply and an opposing party may answer a new point of law raised in the reply.
+[68] At this stage, it is neither rational nor likely possibly to separate a differing order of presentation of evidence and argument at the hearing into separate appellants, tax years and specific assumptions. Of assistance therefore, is subsection 4(1) of the Rules which provides:
+4 (1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+[69] Therefore, on this basis, and given the apparent materiality of the Findings to many of the determinations to be made by this Court, the order of proceedings shall be altered. The Findings solicit that the Respondent shall commence to first call evidence in all appeals, followed by the Appellants and the Respondent in respect of rebuttal evidence. A concordant sequence shall be followed for argument. Moreover, since subsection 163(2) penalties have also been assessed, to that extent the Respondent already bore the inceptive burden.
+(ii) Weight of findings
+[70] The weight given to the Findings presently is that they have preliminarily challenged and potentially demolished certain assumptions of facts of the Minister, for those taxation years and Appellants outlined in Appendix II. Therefore, described within Appendix II are those impugned and potentially demolished assumptions. For clarification, the standard of proof remains the balance of probabilities which the Appellants in the end must meet. Since the hearing has not yet begun in earnest, it would be prejudicial for this trier of fact to conclude that an impugned assumption has been evidentially demolished.
+[71] Presently, such assumptions are identified as having been challenged directly, impugned and potentially demolished by the Findings. For such impugned assumptions, the Respondent ought to perceive a high level of tactical or precautionary need to marshall evidence to rebut the Findings. As for the Appellants, the balance of the assumptions not identified in Appendix II remain unassailed and must be addressed in accordance with the subsisting burden of taxpayers in a tax appeal of normal reassessments. As with any hearing, the Court will follow such assumptions, impugned and unassailed alike, weigh the evidence adduced both through the Findings and at the hearing and determine the appeal in accordance with the usual overarching unchanging onus and standard of proof.
+VIII. Balance of Hearing and Costs on Motion
+[72] In addition to these Reasons for Order and correlated order attached, a separate trial management timetable order shall issue regarding dates, place and length of the remaining trial process.
+[73] Notwithstanding its duration and timing before the hearing, the motion remains a preliminary voir dire during pendency of trial. Therefore, there shall be no present order on costs, which shall be accounted for in any final dispositive cost order.
+Signed at Ottawa, Canada, this 20th day of December 2016.
+“R.S. Bocock”
+Bocock J.
+Appendix I – Factual findings in R v. Samaroo, 2011 BCPC 503 (Samaroo #1)
+#
+Paragraph(s)
+Text of the Decision
+Saunders J’s Factual Finding
+1
+29, 35, 64
+29: [Keith Kendal, the CRA accountant who was the investigator of the financial circumstances leading up to the charges] confirmed there had been over $400,000 in cash and cash equivalent found at the Samaroo’s home and at the MGM during the search by CRA which was not seized.
+35: Alan Jones of the CRA testified that he was present when the search warrant was executed at the MGM in January, 2007 and that there was over $200,000 cash found in the safe … Robert Winker accompanied him and he confirmed that he had personally counted $100,000 of bills ….
+64: There was a significant amount of cash found at the Samaroo’s home, and in a safe at the MGM when the CRA executed their search warrant in 2007 …
+When the Samaroos’ home and businesses were searched by the CRA pursuant to a warrant in January 2007, over $400,000 of cash and cash equivalents were found in those premises.
+2
+32, 50, 75
+32: [Keith Kendal] was told that there had been a provincial audit done of the night club for the period from 2003 to 2005 and no problem regarding taxes or unreported cash was found …
+50: [Ed Heese, accountant for the Samaroos and the corporations since 1998 and the Crown’s witness] confirmed that there was an audit in November, 2005 of the nightclub and no taxes were owing and the sales were correctly reported.
+75: The provincial audit of the nightclub concluded that there were no unreported sales and taxes in 2005 which conflicts with Keith Kendal’s assumption that the Samaroos were skimming unreported cash from the nightclub.
+There were no unreported sales or taxes from SHL (which owned the nightclub) in 2005.
+3
+39, 40, 70
+39: Diane Ye worked at the MGM from 1994 to 2005 … She confirmed there were initially two shifts which went to three shifts when the graveyard shift was added in 1997. She was responsible for filling out the daily summary for all three shifts and stated that there were two sheets of paper … and that the second sheet contained the daily summary for the graveyard shift.
+40: She became angry and hostile when asked in cross examination why she had failed to mention to any of the investigators the existence of a second sheet on the daily summary until February, 2010 when she spoke to Keith Kendal. She was vague and evasive in her response. She conceded that she had an affair with Tony Samaroo and her employment terminated in 2006. It was clear from her demeanour and evidence that she harbours considerable animosity towards the Samaroos as a result. Her bias against them was palpable.
+70: Diane Ye testified that the daily summary consisted of two sheets, one with the day and night shift columns, and the second sheet with the graveyard shift. Tony Samaroo explained that there had previously been only two shifts and he told Ye to continue to use the same sales sheet and include the graveyard shift into the night shift because the sales were so low and he left it at that. Diane Ye was hostile towards Tony and Helen Samaroo … she did not mention a second sheet to anyone … until the eve of the commencement of the trial and there was no satisfactory explanation for this.
+MGM operated 24-7 with three shifts during 2004 and 2005: a day shift, a night shift, and a graveyard shift.
+4
+39, 40, 70, 71, 74
+Please refer to Factual Finding #3 for the text of paragraphs 39, 40, and 70.
+71: Had there been a second sheet, Tony Samaroo would have had to generate another daily sheet himself … This would have been an elaborate and sophisticated process which he would have had to engage in every day for at least two years and there is no scintilla of evidence that he did so.
+74: Tony Samaroo explained that the MGM changed the daily sheet summary from two to three columns in March, 2006 … He denied saying that they had previously only done two ring offs as they always did three rings offs, which Ye and many of the other Crown witnesses confirmed in their evidence … The graveyard shift did not do well, according to Katerina Rekers [former MGM server in its graveyard shift and Crown witness] … Including the proceeds of the graveyard shift in the night shift because sales were low, is a plausible explanation.
+During 2004 and 2005, MGM’s daily sales summary consisted of a single sheet and two columns: one column listed for the “day shift” and other column listed for the “night shift.
+5
+39, 40, 70, 71, 74
+Please refer to Factual Finding #4 for the text of paragraphs 39, 40, 70, 71, and 74.
+During 2004 and 2005, MGM’s daily sales from the graveyard shift were recorded under the “night shift” column in the daily summary, together with the daily sales from the night shift. Management deemed sales from the graveyard shift to be too low to necessitate a separate column on the daily summary.
+6
+58
+… [The Samaroos] pooled their savings and inheritances. [Tony Samaroo] was cross examined vigorously and challenged on his explanation that the cash paid into his personal and corporate accounts came from life long savings. He was unswayed in his responses.
+During the relevant periods, cash paid into Tony Samaroo’s personal account and MGM’s and SHL’s corporate accounts came from the Samaroos’ life long savings and inheritances.
+7
+6, 61, 62, 82
+6: Tony and Helen Samaroo (the “Samaroos”) have been married since 1982 …
+61: … it is important to point out that I find Tony Samaroo to be credible. His demeanour was impressive. His explanation is consistent with significant and material aspects of the evidence and is plausible for the reasons set out below.
+62: In general terms, I accept his evidence that he began working hard and saving when he first arrived in Canada in 1970. I accept that he had sound business acumen in the food and entertainment industry and bought and sold businesses with a profit. I accept that he continued to work long hours with Helen after their marriage and that they accumulated savings from their employment and inherited funds which they held in the form of cash due to their beliefs around banking practices.
+82: The Crown’s theory is that the Samaroos could not have amassed $1.7 million dollars between 1982 and 2003. Tony Samaroo’s evidence, which I accept, is that he started saving in 1970 …
+Tony Samaroo began working hard and saving since 1970.
+8
+6, 61, 62
+Please refer to Factual Finding #7 for the text of paragraphs 6, 61, and 62.
+Tony Samaroo had sound business acumen in the food and entertainment industry and generally earned profits since 1970.
+9
+6, 16, 61, 62
+Please refer to Factual Finding #7 for the text of paragraphs 6, 61, and 62.
+16: Tony Samaroo’s explanation is that he accumulated savings over many years, starting as early as 1970 shortly after he arrived in Canada, which he kept as $100 bills, firstly at his home, and then in safety deposit boxes at the banks as he did not trust banks due to experiences described to him by others in Trinidad. Helen Samaroo was from mainland China and held a similar distrust of Banks so they kept their joint savings as $100 bills. He and Helen Samaroo had inheritances which they saved in that manner as well. When he heard that the Canadian Government was discontinuing the old $100 bills in 2004, he began depositing the bills to various accounts.
+Tony Samaroo has been saving since 1970. In addition, since their marriage in 1982, Tony and Helen Samaroo have been accumulating their collective savings and inheritances in cash, due to their distrust of banking practices generally.
+10
+16, 61, 62, 64
+Please refer to Factual Finding #9 for the text of paragraphs 16 and Factual Finding #7 for the text of paragraphs 61 and 62.
+64: There was a significant amount of cash found at the Samaroo’s home, and in a safe at the MGM when the CRA executed their search warrant in 2007 which confirms Tony Samaroo’s evidence that he keeps his savings in the form of cash in a safe. The cash was not seized. Glen Foster [CRA auditor] confirmed that he discovered three safety deposit boxes at the bank when he investigated. This corroborates Tony Samaroo’s evidence that he kept the cash in boxes at the banks rather than depositing it
+Since their marriage in 1982, Tony and Helen Samaroo have generally kept their cash savings and cash inheritances in their home, in a safe at MGM, and/or in safety deposit boxes at their bank.
+11
+65
+It is not disputed that old $100 bills were to be discontinued in 2004. There was a spike in the deposits in the Samaroo’s personal account and the shareholder loan accounts in 2004 and 2005 which is the period Tony Samaroo said he had deposited the funds. Keith Kendal confirms the spike of $100 bill deposits in 2004 and 2005 in his evidence.
+The increase in MGM’s and SHL’s shareholder loan accounts in 2004 and 2005 was from Tony Samaroo’s deposits of his and Helen Samaroo’s personal savings and inheritances.
+12
+16, 21, 62, 65
+Please refer to Factual Finding #9 for the text of paragraph 16, Factual Finding #7 for the text of paragraph 62, and Factual Finding #11 for the text of paragraph 65.
+21: [Glen Foster] was told by Tony Samaroo that the cash infusion into the personal account and shareholder accounts was from savings in old $100 bills which he had deposited in 2004 and 2005 when he heard the Government of Canada was discontinuing old $100 bills.
+Tony Samaroo did not make the deposits to MGM’s and SHL’s shareholder loan accounts prior to 2004 and 2005 because he did not trust banking practices generally.
+13
+16, 21, 62, 65
+Please refer to Factual Finding #12 for the text of paragraph 21, Factual Finding #9 for the text of paragraph 16, Factual Finding #7 for the text of paragraph 62, and Factual Finding #11 for the text of paragraph 65.
+Tony Samaroo made the deposits to MGM’s and SHL’s shareholder loan accounts in 2004 and 2005 because he believed that the Samaroos’ cash savings and inheritances could not be used after the Government of Canada discontinued issuing the old $100 bills.
+14
+66
+I accept Tony Samaroo’s explanation that he chose not to use the cash he had amassed in the safety deposit boxes and obtained mortgages instead because he wanted to build up a good credit rating in Nanaimo. He also explained that he did not worry about the interest his savings could have accumulated if he had deposited it as he felt it was safer in the safety deposit boxes as he had control over it. It is not unreasonable for someone who distrusts banks to want to keep their savings readily accessible nor is it unreasonable to want to build up a credit rating as a businessman new to town.
+Tony Samaroo did not use the cash savings and inheritances to finance his businesses. He obtained mortgages to finance his businesses instead, in order to build up good credit ratings.
+15
+73
+The increase in food sales after March, 2006, could have been the result of the Samaroos increasing their internal controls around theft, spillage and breakage and the explanation is plausible. It is equally plausible that there was an increase in sales due to the problems with local restaurants closing down.
+MGM’s increase in food sales after March 2006 was due to better internal control and/or less competition.
+16
+81
+Tony Samaroo testified that he was advised by the accountants that he could use the cash as it came in but it had to be reported at all times and that is what he did. He does not know what a shareholder loan account is or what a capital cost allowance is. He leaves that all to the accountant and I accept that evidence which is confirmed by Ed Heese who was a credible witness and supported the Samaroos despite being a Crown witness.
+During the relevant periods, Tony Samaroo was not sophisticated in accounting and financial reporting. He did not know what a shareholder account or capital cost allowance is. He did not provide material oversight to or involve himself in the accounting of MGM and SHL. He left all such matters to Ed Heese.
+17
+87
+… [Keith Kendal] did not factor in the combined inheritances of almost $400,000 that Tony and Helen received and consequently he started the [net worth analysis] with completely inaccurate assumptions.
+Of the amounts allegedly misappropriated by Tony and Helen Samaroo, approximately $400,000 was their inheritances and not misappropriated cash sales from MGM and SHL.
+Appendix II – Minister’s material assumptions impugned or potentially demolished by factual findings in R v. Samaroo, 2011 BCPC 503 [36]
+Subparagraphs identified in Reply:
+Text of Assumption [37]
+Saunders J’s Factual Finding(s) referenced by # Appendix I
+Has the Assumption Been Impugned and/or potentially Demolished?
+TS(IT)
+HS(IT) [38]
+MGM(IT) [39]
+MGM(GST) [40]
+SHL(IT) [41]
+SHL(GST) [42]
+dd
+z
+ii
+bb
+ll
+the Home & Safe Cash [i.e. cash kept at the Samaroos’ home, in the safe located at MGM, and in the Samaroos’ safety deposit boxes at their banks] did not come from cash withdrawn from, or cheques written on, the Companies’ [i.e. MGM and SHL] bank accounts
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+ee
+aa
+jj
+cc
+mm
+the Home & Safe Cash did not come from cash paid to the Appellant, or Mrs. Samaroo, by the Companies as payment for rent, loan repayment, salary or management fees
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+ff
+bb
+kk
+dd
+nn
+the Home & Safe Cash did not come from cash withdrawn from, or cheques written on, the Appellant’s, or Mrs. Samaroo’s, personal bank accounts
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+gg
+cc
+ll
+ee
+oo
+the Home & Safe Cash did not come from accumulated personal savings of the Appellant or Mrs. Samaroo
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+jj
+ff
+oo
+hh
+rr
+the Home & Safe Cash did not come from cash paid to the Appellant and Mrs. Samaroo by the Companies as reimbursement of expenses of the Companies paid for by the Appellant or Mrs. Samaroo
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+kk
+gg
+pp
+ii
+ss
+the Home & Safe Cash did not come from gifts or loans from friends or relatives made to the Appellant or Mrs. Samaroo
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+Also, the assumption is only impugned or potentially demolished to the extent that gifts from friends or relatives were not considered inheritances.
+ll
+hh
+qq
+jj
+tt
+the Home & Safe Cash did not come from the income earned and reported by the Appellant or Mrs. Samaroo, either in their 2004 and 2005 taxation years, or in earlier years
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+mm
+ii
+rr
+kk
+uu
+the source of the Home & Safe Cash was appropriated cash from the sales revenue of the Companies, mainly MGM and SHL
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+nnn
+iii
+rrr
+the value of MGM’s sales were supressed by the Appellant by one cash register tape per day for an average of $1,552 per day or $566,378, which figure includes GST of $37,053, per year in the 2004, 2005 and 2006 taxation years
+Factual Finding #15
+Yes, because Saunders J found that it was plausible that MGM’s increase in food sales after March 2006 was due to better internal control and/or less competition.
+vvv
+aaa
+kkk
+the value of SHL’s sales were suppressed by the Appellant and not all of the SHL’s revenues were reported in the 2004, 2005 and 2006 taxation years
+Factual Finding #2
+Yes, but only with respect of the 2005 taxation year.
+g
+the Appellant underreported income of $1,591,202 in 2002, 2005, and 2006
+Factual Finding #2
+No, because Factual Finding #2 is only in relation to MGM’s tax matters in 2005.
+g
+the Appellant under-reported income of $40,168 in 2004, $81,936 in [2005], and $79,408 in 2006.
+Factual Finding #2
+Yes, but only with respect of the 2005 taxation year.
+www
+jjj
+sss
+bbb
+lll
+the Appellant provided instructions to the accountant and bookkeeper for the Companies
+Factual Finding #16
+Yes, to the extent the instructions were to direct the accountant and bookkeeper to perform specific accounting tasks that Saunders J found the Appellant did not have the knowledge to understand and was relying on his advisors to perform.
+aaaa
+nnn
+www
+fff
+ppp
+the Appellant knew that there were three ring-offs per day and he deliberately only provided the Z-tapes for two of the three ring-offs to the bookkeeper
+Factual Findings #3, 4, 5
+No, because while Saunders J found that during 2004 and 2005, sales from two of the three ring-offs were recorded together, she did not make affirmative findings in Tony Samaroo’s favour regarding the Z-tapes.
+eeee
+rrr
+aaaa
+jjj
+ttt
+on a monthly basis, changes to the cash on hand suspense account were transferred to the Companies’ shareholder loan accounts on the instructions of the Appellant or Mrs. Samaroo
+Factual Finding #16
+Yes, to the extent the instructions were to direct the accountant and bookkeeper to perform specific accounting tasks that Saunders J found the Appellant (Tony Samaroo) did not have the knowledge to understand and was relying on his advisors to perform.
+ffff
+sss
+bbbb
+kkk
+uuu
+net credits to the cash on hand suspense account that were recorded as credits to the shareholders loan account were in fact unrecorded sales of the Companies that were appropriated by the Samaroos
+Factual Findings #11, 12, 13, 16
+Yes, because Saunders J found that the increases in the companies’ shareholder loan accounts in 2004 and 2005 were from Tony Samaroo’s deposits of his and Helen Samaroo’s personal cash savings and inheritances.
+hhhh
+uuu
+dddd
+mmm
+www
+the Samaroos paid for expenses of the Companies with cash appropriated by them from the Companies
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+llll
+yyy
+hhhh
+qqq
+aaaa
+between January 1, 2004 and December 31, 2005, the Appellant and Mrs. Samaroo, received cash of $1,754,812 that is not traceable to any bank accounts as its source, as detailed on Schedule “B”, and which was cash appropriated from MGM and SHL in their capacity as shareholder
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+zzz
+iiii
+the Restaurant received $1,591,202 of revenue, net of GST, in the period between March 1, 2003, and February 28, 2006, in excess of what the Appellant reported in its income tax returns (the “Unreported Revenue”)
+Factual Finding #2
+No, because Factual Finding #2 is only in relation to MGM’s tax matters in 2005.
+rrr
+bbbb
+the liquor sales of the Appellant were suppressed by the Appellant and by Mr. and Mrs. Samaroo in the amounts of $40,168, $81,936, and $79,408 in the respective in the 2004, 2005, and 2006 taxation years
+Factual Findings #2
+Yes, but only with respect of the 2005 taxation year.
+uuu
+eeee
+the Appellant earned and failed to report $201,512 of revenue in the period between March 1, 2003, and February 28, 2006, in excess of what the Appellant reported in its income tax returns (the “Unreported Revenue”)
+Factual Findings #2
+Yes, but only with respect of the 2005 taxation year.
+vvv
+ffff
+the Unreported Revenue was appropriated by Mr. and Mrs. Samaroo
+Factual Findings #2
+Yes, but only with respect of the 2005 taxation year.
+cccc
+llll
+xxx, aaaa
+hhhh, kkkk
+the source of the Unreported Revenue was not traceable to any bank account controlled by the Appellant, SML, SHL, or Mr. and Mrs. Samaroo
+Factual Findings #7, 8, 9, 10, 14, 17
+Yes, but only to the extent of $400,000 of the Home & Safe Cash (See Factual Finding 17).
+dddd
+mmmm
+yyy
+iiii
+Mr. and Mrs. Samaroo did not earn incomes that would have enabled them to save the Unreported Revenue prior to 1986 and the Unreported Revenue was not, and could not have been, sourced from Mr. and Mrs. Samaroo’s savings
+Factual Findings #7, 8, 9, 15, 17
+Yes, because Saunders J found that it was plausible that MGM’s increase in food sales after March 2006 was due to better internal control and/or less competition.
+eeee
+nnnn
+zzz
+jjjj
+the source of the Unreported Revenue was supressed sales receipts of the Appellant and the Appellant failed to report those sales in its income tax returns
+Factual Findings #7, 8, 9, 10, 14, 17
+Yes, but only to the extent of $400,000 of the Home & Safe Cash (See Factual Finding 17).
+oooo
+ffff
+oooo
+bbbb
+llll
+the Appellant’s Safety Deposit Boxes were not the source of the cash deposited by the Appellant into his personal bank accounts, or into the corporate bank accounts of the Companies or used to pay expenses of the Companies
+Factual Findings #2, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+qqqq
+hhhh
+qqqq
+dddd
+nnnn
+neither the Appellant, nor Mrs. Samaroo, earned incomes that would have enabled them to save the cash that was deposited and the cash was not, and could not, have been sourced from their savings
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+tttt
+kkkk
+tttt
+gggg
+qqqq
+the source of the cash appropriated by the Appellant was cash from the suppressed sales receipts of MGM and SHL
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+wwww
+nnnn
+wwww
+jjjj
+tttt
+the increase to the balance of the Appellant’s shareholder loan accounts was due to cash appropriated by the Appellant from MGM and SHL and incorrectly recorded on the Companies’ accounting records as credits to the Companies’ shareholders’ loan accounts
+Factual Findings #11, 12, 13, 16
+Yes, because Saunders J found that the increases in the companies’ shareholder loan accounts in 2004 and 2005 were from Tony Samaroo’s deposits of his and Helen Samaroo’s personal cash savings and inheritances.
+xxxx
+oooo
+xxxx
+kkkk
+uuuu
+the source of the cash appropriated by the Appellant was cash from suppressed sales receipts of MGM and SHL
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+yyyy
+pppp
+yyyy
+llll
+vvvv
+between January 1, 2004 and December 31, 2005, the Appellant, in his capacity as shareholder, paid expenses of MGM, SHL and SML, totalling $594,778, [43] as detailed in “Schedule B,” using cash not traceable to any bank account as its source, and which was cash appropriated from MGM and SHL
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+zzzz
+qqqq
+zzzz
+mmmm
+wwww
+the increase to the balance of the Appellant’s shareholder loan accounts for expenses paid by the Appellant on belief of the Companies was due to cash appropriated by the Appellant from MGM and SHL and incorrectly recorded on the Companies’ accounting records as credits to the Companies’ shareholders’ loan accounts
+Factual Findings #11, 12, 13, 16
+Yes, because Saunders J found that the increases in the companies’ shareholder loan accounts in 2004 and 2005 were from Tony Samaroo’s deposits of his and Helen Samaroo’s personal cash savings and inheritances.
+aaaaa
+rrrr
+aaaaa
+nnnn
+xxxx
+the source of the cash appropriated by the Appellant was cash from suppressed sales receipts of MGM and SHL
+Factual Findings #2, 7, 8, 9, 10, 14, 17
+Yes, but only with respect of the 2005 taxation year for SHL and to the extent of $400,000 of the Home & Safe Cash (See Factual Findings #2 and 17).
+CITATION:
+2016 TCC 290
+COURT FILE NOs.:
+2012-2998(IT)G, 2012-3001(IT)G, 2012-2997(GST)G, 2012-3147(GST)G, 2012-3148(IT)G, 2012-3149(GST)G, 2012-3150(IT)G
+STYLE OF CAUSE:
+TONY SAMAROO, HELEN SAMAROO, TONY SAMAROO and HELEN SAMAROO, SAMAROO HOLDINGS LTD., MGM RESTAURANTS LTD. AND THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 9, 2016
+REASONS FOR ORDER BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF ORDER:
+December 19, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Gavin Laird
+Declan Redman
+Counsel for the Respondent:
+David Everett
+Lisa McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gavin Laird
+Declan Redman
+Firm:
+Laird & Company
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R. v. W.(D.), [1991] 1 SCR 742
+[2] Income Tax Act, R.S.C., 1985, c. 1 (5th supp.)
+[3] Angle v. MNR [1975] 2 SCR 248 at page 254 where each element herein is respectively shortened to “issue symmetry”, “finality” and “mutuality”.
+[4] Danyluk v. Ainsworth Technologies Inc, [2001] SCJ No 46 at paragraph 33.
+[5] Citing Schweneke (2000), 47 0R (3d) 97 (CA) at paragraphs 38 and 43.
+[6] Toronto (City) v. CUPE Local 79, 2003SCC 63 at paragraphs 36 and 37.
+[7] Ibid at paragraph 53.
+[8] Ibid.
+[9] Golden v. R., 2008 TCC 173 at paragraph 29.
+[10] Ibid at paragraph 42.
+[11] R v. Mahalingan, 2008 SCC 63.
+[12] Mahalingan at paragraph 23.
+[13] Samaroo #2 dealt with applications by the parties with respect to the Samaroos’ civil action against the CRA and its agents for negligent investigation and malicious prosecution arising from Samaroo #1. In Samaroo #2, Punnett J. concluded issue estoppel applied to dismiss the CRA’s application that Tony Samaroo be required to provide outstanding information and documents relating to certain discovery requests of him.
+[14] Polgrain Estate v. Toronto East General Hospital [2008] OJ No. 2092 (CA), where the criminal trial judge’s finding that the accused was innocent on the totality of the evidence reaches beyond the issue of guilt beyond a reasonable doubt.
+[15] Samaroo #2 at paragraph 123.
+[16] Anchor Pointe Energy Ltd. v R, 2007 FCA 188 at paragraph 28.
+[17] Samaroo #2 at paragraph 84.
+[18] Houda International Inc. v R, 2010 TCC 622 at paragraph 4.
+[19] Ibid at paragraph 27.
+[20] Samaroo #2 at paragraph 84.
+[21] Subsection 12(1) Tax Court of Canada Act, RSC 1985, c. T-2 as amended.
+[22] Hickman Motors Ltd v. R, [1997] 2 SCR 336 at paragraphs 92 and 93.
+[23] Ibid at paragraphs 94 and 95.
+[24] Ibid.
+[25] Ibid at paragraph 93.
+[26] House at paragraphs 4 and 5; McMillan v. R., 2012 FCA 126 at paragraphs 7 and 8; Amiante Spec. Inc. v. R., 2009 FCA 139 at paragraphs 15, 16, 23 and 24.
+[27] Anchor Pointe at paragraphs 27 and 28; C(R) v. McDougall, 2008 SCC 53 at paragraph 49; Vine Estate v. The Queen, 2015 FCA 125 at paragraph 25.
+[28] Bekesinski v. R, 2014 TCC 245 at paragraph 21.
+[29] Northland Properties Corp. v. BC, 2010 BCCA 177 at paragraph 27.
+[30] Ibid at 29.
+[31] Johnston v. MNR, [1948] SCR 486 at paragraphs 7 and 9; arguably subsection 152(8) of the Act; and, subsection 135(2) Tax Court of Canada Rules (General Rules).
+[32] Hickman Motors at paragraph 93.
+[33] Anderson Logging Co v R, [1925] SCR 45 at paragraph 9.
+[34] Transocean Offshore Ltd v. T, 2005 FCA 104 at paragraph 35 and Anchor Pointe Energy Ltd v. R, 2007 FCA 188 at paragraphs 35 and 36.
+[35] Mungovan v. R, 2001 TCC 568 at paragraphs 13 and 14.
+[36] Tony Samaroo and Helen Samaroo v HMTQ, 2012-2997(GST)G is not considered in the analysis because Saunders J’s factual findings in Samaroo #1 do not relate to any particular material assessing assumptions in that appeal.
+[37] The text of the assessing assumptions in this column is from the Minister’s reply in relation to the leftmost appeal in this exhibit for which a subparagraph number is cited. For example, if a subparagraph number is not cited for TS(IT) and HS(IT) but is for the other four remaining appeals, then the text of the assessing assumption replicated in this exhibit is from the Minister’s assumptions in paragraph 15 of the Reply to Further Amended Appeal for MGM(IT) and so on.
+[38] Referable to the Minister’s assumptions in paragraph 19 of the Reply to Further Amended Appeal for Tony Samaroo v HMTQ, 2012-2998(IT)G, [TS(IT)] and paragraph 20 of the Reply to Further Amended Appeal for Helen Samaroo v HMTQ, 2012-3001(IT)G, [HS(IT)]. The two sets of assessing assumptions are materially identical and share the same subparagraph numbers. Therefore, they are analyzed together.
+[39] Referable to the Minister’s assumptions in paragraph 15 of the Reply to Further Amended Appeal for MGM Restaurants Ltd v HMTQ, 2012-3150(IT)G, [MGM(IT)].
+[40] Referable to the Minister’s assumptions in paragraph 13 of the Reply to Further Amended Appeal for MGM Restaurants Ltd v HMTQ, 2012-3149(GST)G, [MGM(GST)].
+[41] Referable to the Minister’s assumptions in paragraph 13 of the Reply to Further Amended Appeal for Samaroo Holdings Ltd v HMTQ, 2012-3148(IT)G, [SHL(IT)].
+[42] Referable to the Minister’s assumptions in paragraph 12 of the Reply to Further Amended Appeal for Samaroo Holdings Ltd v HMTQ, 2012-3147(GST)G, [SHL(GST)].
+[43] The amount of expenses paid by Tony Samaroo through appropriated cash from MGM and SHL is listed as $594,778 in the Minister’s pleading for TS(IT). However, it is listed as $638,267 in all the other Reply pleadings issued by the Respondent’s Reply pleadings, except for Tony and Helen Samaroo v HMTQ, 2012-2997(GST)G, which is not considered in this Appendix II.

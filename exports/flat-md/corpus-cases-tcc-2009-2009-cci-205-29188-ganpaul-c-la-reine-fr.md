@@ -1,0 +1,155 @@
+---
+title: "Ganpaul c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29188/index.do"
+last_modified: "2009-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 205"
+citation2: ""
+neutral_citation: "2009 CCI 205"
+decision_date: "2009-04-21"
+language: "fr"
+item_id: "29188"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6684
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:58:15.455000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a82ae089e80746c778d8611c0aa73b2935be14f7a5316a189e7b0c1add57c8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ganpaul c. La Reine
+
+- Citation: 2009 CCI 205
+- Decision date: 2009-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6684, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ganpaul c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-21
+Référence neutre
+2009 CCI 205
+Numéro de dossier
+2008-3252(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3252(IT)I
+ENTRE :
+TYRONE GANPAUL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appel entendu le 14 avril 2009, à Toronto (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Sherry Darvish
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu du fait que l’appelant était un entrepreneur indépendant.
+Le droit de dépôt de 100 $ payé par l’appelant lui sera remboursé.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour de juin 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009CCI205
+Date : 20090421
+Dossier : 2008-3252(IT)I
+ENTRE :
+TYRONE GANPAUL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Tyrone Ganpaul, a interjeté appel de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2005. Pour établir la nouvelle cotisation en cause, le ministre s’est fondé sur le fait que l’appelant était un employé plutôt qu’un entrepreneur indépendant. Le ministre a aussi refusé la déduction de toute dépense d’entreprise.
+[2] En l’espèce, c’est l’appelant qui a le fardeau de démontrer que les faits sur lesquels le ministre s’est fondé pour prendre sa décision sont erronés. L’appelant et Arun Nanthakumaran, l’agent des appels responsable du traitement de l’opposition de l’appelant à la nouvelle cotisation, ont témoigné à l’audience. Ils ont tous deux livré des témoignages crédibles.
+[3] M. Nanthakumaran n’a pas hésité à admettre que, pour conclure que l’appelant était un employé, il s’était seulement fondé sur l’information contenue dans le dossier de l’Agence du revenu du Canada (l’« ARC ») relatif à la nouvelle cotisation établie à l’égard de l’appelant. Selon ce dossier, l’ARC avait demandé à l’appelant de fournir de l’information supplémentaire, notamment de remplir un questionnaire standard visant à déterminer s’il était un employé ou un entrepreneur indépendant. Bien que M. Nanthakumaran ait noté que l’appelant avait reçu une prorogation de délai de 30 jours pour fournir l’information supplémentaire, il a dit que rien dans le dossier ne permettait de conclure que l’appelant avait fourni l’information demandée. Par conséquent, M. Nanthakumaran a ratifié la nouvelle cotisation.
+[4] À l’audience, l’appelant a déclaré avoir fourni l’information demandée, y compris le questionnaire[1], deux fois; la première, en avril 2008, après avoir reçu la prorogation de délai de 30 jours, et la deuxième, en septembre 2008, après avoir reçu l’avis de ratification. M. Nanthakumaran a confirmé avoir reçu un appel téléphonique de l’appelant, qui était perplexe quant à l’avis de ratification qu’il venait de recevoir et qui lui a demandé pourquoi l’information qu’il avait fournie n’avait pas été prise en compte. M. Nanthakumaran a dit à l’appelant de communiquer avec la personne qui avait demandé l’information supplémentaire, mais cela n’avait plus d’importance, car, que l’information ait été fournie ou non, la ratification de la nouvelle cotisation avait mis fin au processus d’opposition.
+[5] Il ne restait donc qu’un seul recours à l’appelant : interjeter appel devant la Cour canadienne de l’impôt. Pour savoir si l’appelant était un employé ou un travailleur indépendant auprès de la Sweet Valley Food Corporation, il faut appliquer le critère à quatre volets établi dans l’arrêt Wiebe Door Services Ltd. v. Minister of National Revenue[2], critère appliqué par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[3], dont le paragraphe 47 est ainsi rédigé :
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[6] Comme l’a affirmé avec raison l’avocate de l’intimée, la jurisprudence a clairement établi qu’aucun des quatre volets n’a préséance[4]. Ils forment plutôt un cadre permettant d’analyser les faits propres à chaque affaire.
+[7] L’appelant a de nombreuses années d’expérience dans le domaine de la production, de l’emballage et de la commercialisation du sucre au détail. Mis à part son expertise, le principal actif de l’appelant est une base de données considérable de fournisseurs et de clients de l’industrie du sucre.
+[8] En 2002, l’appelant fournissait ses services à Sweet Valley Foods Ltd.[5]; en juin 2004, cette société‑là a été acquise par une entreprise portant le nom « Monaco Group ». Une nouvelle société, la Sweet Valley Food Corporation, a été constituée et jointe à ce conglomérat. En pratique, la Sweet Valley Food Corporation exploitait essentiellement la même entreprise que Sweet Valley Foods Ltd.
+[9] Pareillement, le rôle de l’appelant au sein de la nouvelle société est resté le même. Tout comme il le faisait avant l’acquisition de la Sweet Valley Food Corporation, l’appelant a continué à être responsable de la supervision des processus d’emballage et de commercialisation du sucre. Bien que sa rémunération ait augmenté, il s’agissait d’une modification du montant et non du mode de paiement. Lorsqu’il était consultant auprès de Sweet Valley Foods Ltd., l’appelant recevait des honoraires mensuels s’élevant à 5 000 $. Lorsque la Sweet Valley Foods Corporation a été constituée, il a été convenu que l’appelant recevrait 100 000 $ par année, à raison de 8 333 $ par mois. Je prête foi au témoignage de l’appelant voulant qu’il ait négocié cette augmentation parce qu’il avait hypothéqué sa maison pour investir dans la nouvelle société, et qu’il avait donc besoin d’un revenu mensuel fixe pour acquitter ses obligations hypothécaires. Il n’est pas rare qu’un consultant reçoive une rémunération mensuelle fixe pour ses services; ce fait, à lui seul, ne permet pas de conclure que l’appelant était un employé.
+[10] Il faut maintenant appliquer le critère à quatre volets à la preuve présentée en l’espèce. Le ministre a soutenu que l’appelant était sous le « contrôle » de la Sweet Valley Food Corporation. L’avocate de l’intimée a qualifié l’appelant d’« employé professionnel », c’est‑à‑dire un employé qui bénéficie d’une plus grande autonomie dans l’accomplissement de ses tâches, mais qui est néanmoins subordonné à un supérieur. Pour appuyer la position du ministre, l’avocate de l’intimée a souligné que l’appelant devait « rendre des comptes » au directeur de la Sweet Valley Food Corporation lors des réunions régulières du conseil d’administration, que l’appelant devait travailler entre 30 et 40 heures par semaine et qu’il ne fournissait pas ses services à d’autres personnes durant la période où il travaillait pour la Sweet Valley Food Corporation.
+[11] Toutefois, je suis d’avis que le témoignage de l’appelant a démontré qu’il agissait à titre de conseiller et qu’il donnait des conseils stratégiques à la Sweet Valley Food Corporation dans le cadre de son mandat de consultant. Le rôle de l’appelant n’était pas le même que celui d’un employé qui doit rendre compte de l’accomplissement de ses tâches à un superviseur. Au contraire, les rapports faits par l’appelant au directeur de la Sweet Valley Food Corporation avaient pour but de fournir de l’information spécialisée quant aux fournisseurs, aux clients et au processus d’emballage du sucre. Pour ce qui est de l’horaire de travail de l’appelant, celui‑ci a estimé qu’il travaillait entre 30 et 40 heures par semaine, selon les exigences de divers projets auxquels il participait. L’appelant a dit qu’il lui arrivait de travailler beaucoup plus longtemps, y compris durant les fins de semaines, lors des périodes plus occupées. Peu importe le nombre d’heures durant lesquelles l’appelant travaillait, le fait est que c’est lui qui fixait son horaire de travail. C’est aussi l’appelant qui choisissait où il travaillait : il travaillait souvent de chez lui, il visitait aussi des clients ou des fournisseurs, et il se rendait parfois au siège social de la Sweet Valley Food Corporation. La Sweet Valley Food Corporation ne s’intéressait qu’aux résultats produits par l’appelant, et non pas aux moyens qu’il utilisait pour les atteindre.
+[12] Quant aux instruments de travail de l’appelant, l’intimée a soutenu que comme l’appelant avait accès à un bureau et à un ordinateur au siège social de la Sweet Valley Food Corporation, c’est celle‑ci qui fournissait à l’appelant ses « instruments de travail ». En fait, le « bureau » de l’appelant était une pièce où l’on avait installé une table de travail et qui était mise à la disposition de tous. L’appelant se servait de l’ordinateur fourni par la Sweet Valley Food Corporation pour faire, dans le système informatisé de la société, la saisie des données qu’on lui demandait de fournir; par exemple, les données nécessaires pour fixer le calendrier de production. Les informations spécialisées de l’appelant quant à la commercialisation et à la production du sucre, y compris sa base de données de contacts, étaient conservées dans son ordinateur portatif. L’appelant, sauf de façon accessoire et à quelques reprises lorsqu’il a été aidé par son épouse, n’avait pas besoin d’aide pour accomplir son travail auprès de la Sweet Valley Food Corporation, car il fournissait à celle‑ci son expertise et des conseils spécialisés.
+[13] Pour ce qui est des chances de bénéfice et des risques de perte, l’intimée a soutenu qu’ils étaient nuls pour l’appelant, car il recevait un revenu mensuel qui ne variait pas selon les hauts et les bas de la Sweet Valley Food Corporation, sa rémunération n’était pas modifiée en fonction de la fluctuation de son horaire de travail, il ne subissait aucune perte si un projet prenait plus de temps que prévu, et, finalement, il n’avait pas à répondre aux plaintes des clients de la Sweet Valley Food Corporation.
+[14] La faiblesse de l’argument de l’intimée vient du fait qu’elle brouille la distinction entre le contrat par lequel l’appelant s’est engagé à fournir des conseils et des informations à la Sweet Valley Food Corporation et les obligations contractuelles de cette dernière envers ses propres clients. L’appelant n’avait pas de comptes à rendre aux clients de la Sweet Valley Food Corporation si celle‑ci ne respectait pas un délai de livraison. En revanche, si l’appelant avait omis de fournir ses services de consultant à la Sweet Valley Food Corporation, celle‑ci aurait sans doute entrepris des démarches à son encontre pour ce manquement. Le fait que le salaire de l’appelant ne variait pas en fonction de ses heures de travail ne permet pas, à lui seul, de conclure que l’appelant était un employé. Comme l’appelant l’a dit, [TRADUCTION] « le temps, c’est de l’argent ». Le temps qu’il investissait dans un projet qui n’aboutissait pas était du temps perdu (et donc des profits perdus), qui ne pouvait pas être consacré à d’autres projets plus prometteurs.
+[15] Il reste donc à examiner le quatrième élément, à savoir le degré d’intégration de l’appelant dans l’entreprise de la Sweet Valley Food Corporation. L’argument de l’intimée, voulant que l’appelant était bien intégré dans les activités de la Sweet Valley Food Corporation, est d’abord fondé sur le fait que le rôle de l’appelant au sein de celle‑ci était le même que celui qu’il avait auprès de Sweet Valley Food Ltd. L’avocate de l’intimée a aussi souligné que l’appelant avait reconnu avoir été administrateur de la Sweet Valley Food Corporation et avoir été signataire autorisé de celle‑ci, et qu’il avait reconnu n’avoir eu aucun autre client lorsqu’il fournissait ses services à la Sweet Valley Food Corporation.
+[16] L’appelant a reconnu que sa relation auprès de la Sweet Valley Food Corporation était identique à celle qu’il avait eue avec Sweet Valley Food Ltd., mais il a affirmé qu’il avait le statut d’entrepreneur indépendant auprès des deux sociétés. Quant au pouvoir de signature de l’appelant, je trouve raisonnable l’explication de celui‑ci voulant que ce pouvoir n’avait existé que pour le premier contrat de la Sweet Valley Food Corporation, lequel portait sur une grosse commande d’un client important. À cette période initiale, il avait été décidé que l’appelant aurait un pouvoir de signature pour les salaires et les horaires des employés dans le cadre de ses fonctions de supervision du processus de production. Lorsque ce premier projet a pris fin, le pouvoir de signature de l’appelant a cessé d’exister. Pour ce qui est du statut d’administrateur de la Sweet Valley Food Corporation de l’appelant, je prête foi au témoignage de celui‑ci, selon lequel son nom ait été inscrit sans sa permission et à son insu. Toutefois, même si l’appelant avait occupé cette fonction de son plein gré, cela n’aurait pas voulu dire qu’il était un employé. L’appelant n’avait aucune obligation à long terme envers la Sweet Valley Food Corporation, comme le démontre le fait qu’il a mis fin à son contrat avec elle, à sa discrétion et sans préavis, en 2006. Enfin, bien que l’appelant ait admis qu’il n’avait aucun autre client lorsqu’il travaillait pour la Sweet Valley Food Corporation, il continuait à préparer des occasions d’affaires futures.
+[17] La conclusion selon laquelle l’appelant fournissait ses services à la Sweet Valley Food Corporation en tant qu’entrepreneur indépendant est également appuyée par une des hypothèses du ministre[6], voulant que la Sweet Valley Food Corporation n’avait fait aucune déduction à la rémunération de l’appelant pour le Régime de pensions du Canada, pour l’assurance‑emploi ou pour l’impôt sur le revenu. Cette conclusion est aussi soutenue par le témoignage de l’appelant et les réponses qu’il a données au paragraphe 13 du questionnaire de l’ARC, selon lesquels il avait engagé des frais – notamment pour ses déplacements et pour de l’essence – afin de fournir ses services à la Sweet Valley Food Corporation. De même, je prête foi au témoignage de l’appelant portant que la Sweet Valley Food Corporation lui avait remboursé des achats ponctuels qu’il avait effectués; par exemple, des pièces qu’il fallait obtenir d’urgence pour continuer la production.
+[18] En somme, je suis convaincue que l’appelant était un entrepreneur indépendant. L’appel est accueilli et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation compte tenu de cette conclusion.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 4e jour de juin 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009CCI205
+No DU DOSSIER DE LA COUR :
+2008-3252(IT)I
+INTITULÉ :
+Tyrone Ganpaul et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 avril 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT :
+Le 21 avril 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sherry Darvish
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑2.
+[2] [1986] 2 C.T.C. 200 (C.A.F.).
+[3] [2001] 2 R.C.S. 983.
+[4] Idem, paragraphe 48.
+[5] Il s’avère qu’en 2003, l’appelant a contesté, avec succès, une décision du ministre portant qu’il était un employé auprès de Sweet Valley Foods Ltd. Cependant, comme l’avocat de l’intimée l’a affirmé avec raison, et comme on l’a expliqué à l’appelant lors de l’audience, une décision rendue pour une année donnée ne lie pas le ministre pour les années ultérieures.
+[6] Réponse à l’avis d’appel, alinéas 9d) à 9g).

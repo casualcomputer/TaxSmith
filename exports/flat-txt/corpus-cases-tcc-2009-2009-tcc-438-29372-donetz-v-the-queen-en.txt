@@ -1,0 +1,85 @@
+Title: Donetz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29372/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-438-29372-donetz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-03
+
+# Donetz v. The Queen
+
+- Citation: 2009 TCC 438
+- Decision date: 2009-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6892, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donetz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-03
+Neutral citation
+2009 TCC 438
+File numbers
+2007-1270(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1270(IT)G
+BETWEEN:
+JOHN DONETZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion determined pursuant to Rule 69 of the
+Tax Court of Canada Rules (General Procedure)
+By: The Honourable Justice E.A. Bowie
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tracey Pniowsky
+____________________________________________________________________
+ORDER
+UPON application by the Appellant for an adjournment of the hearing of the appeal scheduled for Friday, September 4, 2009, at Winnipeg, Manitoba;
+AND UPON having read the materials filed, and the written submissions of both parties filed pursuant to Rule 69;
+IT IS ORDERED that the hearing of the appeals is adjourned to a date to be fixed by the registry in consultation with the parties. Any costs thrown away shall be dealt with by the trial judge.
+Signed at Winnipeg, Manitoba, this 3rd day of September, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 438
+Date: 20090903
+Docket: 2007-1270(IT)G
+BETWEEN:
+JOHN DONETZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] The appellant is applying to have the hearing of this appeal, which is currently scheduled to take place on September 4, adjourned. This is opposed by counsel for the respondent.
+[2] The appellant is a resident of Winnipeg Manitoba. The events giving rise to his appeal took place there. The appeal was originally scheduled to be heard on May 14, 2009. By that time the appellant, who is not represented, was working in British Columbia. It was not practical for him to attend the hearing on May 14, and at his request the judge by whom the appeal was to be heard at that time granted an adjournment to "... a date to be fixed by the Court during the week of August 31 ...". The appellant, quite reasonably, says that he took this to mean that sometime during the week of August 31 a future date would be fixed for the hearing of his appeal. What the judge intended, however, was that the registry of the court would determine the date during that week upon which the appeal would be heard.
+[3] The appellant is still working in British Columbia and the project that he is working on there will be completed on September 4. He will return to Winnipeg that day, but obviously cannot arrive in time to attend the hearing of his appeal if it were to proceed then. In these circumstances, it would be unfair to the appellant not to grant an adjournment, notwithstanding that the date was said to have been set on a peremptory basis. The hearing presently fixed to take place on September 4 will be adjourned. A new date will be fixed by the registry, in consultation with the parties. If there are costs thrown away as a result of the adjournment they are best dealt with by the trial judge.
+Signed at Winnipeg, Manitoba, this 3rd day of September, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 438
+COURT FILE NO.: 2007-1270(IT)G
+STYLE OF CAUSE: JOHN DONETZ and
+HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice E.A. Bowie
+DATE OF ORDER: September 3, 2009
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

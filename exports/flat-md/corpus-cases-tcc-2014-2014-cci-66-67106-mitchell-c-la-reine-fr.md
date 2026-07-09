@@ -1,0 +1,162 @@
+---
+title: "Mitchell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67106/index.do"
+last_modified: "2014-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 66"
+citation2: ""
+neutral_citation: "2014 CCI 66"
+decision_date: "2014-03-03"
+language: "fr"
+item_id: "67106"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5971
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:06:22.963000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7d59ea16ddf992fea79c8a8717838f813ceefaa55a692e158c356574426981ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mitchell c. La Reine
+
+- Citation: 2014 CCI 66
+- Decision date: 2014-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5971, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mitchell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-03
+Référence neutre
+2014 CCI 66
+Numéro de dossier
+2013-2634(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2634(IT)I
+ENTRE :
+JASON MITCHELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 février 2014 à Sault Ste. Marie (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ryan Hall
+____________________________________________________________________
+JUGEMENT
+Il est fait droit à l’appel, et les avis de détermination concernant les années de base 2010 et 2011 sont renvoyés au ministre du Revenu national pour nouvel examen et nouvelle détermination en tenant compte de ce qui suit :
+a) de janvier à avril 2012, l’appelant était le « particulier admissible » et le seul parent ayant la garde de ses trois enfants pour l’application des dispositions relatives à la prestation fiscale canadienne pour enfants (la « PFCE »);
+b) de mai 2012 à juin 2013, l’appelant était le « particulier admissible » et le seul parent ayant la garde de ses deux fils, D et N, pour l’application des dispositions relatives à la PFCE.
+Signé à Ottawa, Canada, ce 3e jour de mars 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour d’avril 2014.
+S. Tasset
+Référence : 2014CCI66
+Date : 2014-03-03
+Dossier : 2013-2634(IT)I
+ENTRE :
+JASON MITCHELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant interjette appel des décisions relatives à la prestation fiscale canadienne pour enfants (la « PFCE ») rendues par le ministre du Revenu national (le « ministre ») pour les années de base 2010 et 2011, où le ministre a établi ce qui suit :
+a) De juillet à décembre 2011, l’appelant n’était pas admissible à la PFCE pour l’un ou l’autre de ses enfants en raison de la présomption à l’alinéa f) de la définition de « particulier admissible » de l’article 122.6.
+b) De janvier à avril 2012, l’appelant était admissible à la PFCE à l’égard des trois enfants, mais n’avait droit qu’à la moitié de celle-ci, étant un « parent ayant la garde partagée ».
+c) De mai 2012 à juin 2013, l’appelant n’était pas admissible à la PFCE pour sa fille, M. Il était par ailleurs admissible à la PFCE pour ses fils, D et N, mais n’avait droit qu’à la moitié de la prestation parce qu’il était un « parent ayant la garde partagée ».
+[2] Au début de l’audience, l’avocat de l’intimée a déclaré que le ministre reconnaît maintenant que l’appelant était le parent ayant la garde exclusive de ses fils, D et N, du 1er février au 1er juin 2013.
+[3] L’appelant et Lisa Mitchell (l’« ex-conjointe ») ont trois enfants, deux fils, D et N, nés en 1995 et 1996, et une fille, M, née en 2003 (les « enfants »).
+[4] Il ne fait pas de doute que l’appelant et son ex-conjointe se sont séparés en 2011, même s’ils ne s’entendent pas sur le mois de leur séparation. Selon l’appelant, ils se sont séparés à la mi-novembre, tandis que l’ex-conjointe a déclaré dans sa déposition qu’ils se sont séparés en décembre 2011. Lorsqu’ils se sont séparés, l’ex‑conjointe a emménagé dans la maison d’une amie et les enfants ont continué à vivre dans la résidence familiale avec l’appelant. En janvier 2012, l’ex-conjointe a acheté sa propre résidence et y a emménagé le mois suivant. Elle a déclaré que sa nouvelle résidence comportait quatre chambres à coucher, de sorte que chaque enfant aurait la sienne.
+[5] L’appelant a déclaré que pendant les cinq premiers mois suivant la séparation, les trois enfants vivaient avec lui. Par la suite, M est allée vivre avec son ex-conjointe et il peut la voir 13 jours par mois. Ses fils, D et N, ont toujours vécu avec lui, mais ils rendent visite à leur mère. Il a déclaré que depuis que lui et son ex-conjointe se sont séparés, D et N n’ont dormi que quelques fois à la résidence de son ex-conjointe.
+[6] D et N ont déclaré avoir toujours vécu avec leur père, l’appelant. Ils rendent visite à leur mère et ils ont déjà passé la nuit chez elle à l’occasion, mais ils préfèrent vivre là où ils ont grandi, c’est-à-dire avec leur père. Ils ont dit que leurs parents sont tous deux gentils et prennent soin d’eux.
+[7] D’après la déposition de l’ex-conjointe, de février à mai 2012, les trois enfants passaient trois jours par semaine dans sa résidence, qui est située plus près de l’école, et elle participe à leur vie scolaire et à leurs activités parascolaires. De juin à septembre 2012, D et N faisaient la navette entre la résidence de celle-ci, celle de l’appelant et celles de leurs amis. De septembre 2012 à janvier 2013, N a séjourné chez sa mère plus souvent que D.
+[8] La Cour de justice de l’Ontario a prononcé à cet égard deux ordonnances concernant les enfants. La première, datée du 7 mai 2012, a été rendue par suite d’une requête présentée ex parte par l’ex-conjointe. L’ordonnance accordait à celle-ci la garde provisoire des trois enfants et l’appelant obtenait l’accès provisoire aux enfants. L’appelant n’avait pas vu cette ordonnance et n’était pas au courant de celle‑ci jusqu’à ce qu’elle lui soit présentée par l’avocat de l’intimée à l’audition du présent appel.
+[9] La seconde ordonnance de la Cour de justice de l’Ontario, prononcée le 25 novembre 2013, accordait à l’appelant la garde de D et N rétroactivement au 1er janvier 2013. L’ex-conjointe obtenait un accès raisonnable aux garçons.
+[10] La question à trancher en l’espèce est de savoir si l’appelant était un « parent ayant la garde partagée » pour les années de base 2010 et 2011.
+[11] Pour l’application des dispositions relatives à la PFCE, l’article 122.6 de la Loi de l’impôt sur le revenu énonce les définitions suivantes :
+« époux ou conjoint de fait visé » Personne qui, à un moment donné, est l’époux ou conjoint de fait d’un particulier dont il ne vit pas séparé à ce moment. Pour l’application de la présente définition, une personne n’est considérée comme vivant séparée d’un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d’échec de leur mariage ou union de fait, pendant une période d’au moins 90 jours qui comprend ce moment.
+« parent ayant la garde partagée » S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » ne s’applique pas à celle-ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi-égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+[…]
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+De juillet à décembre 2011
+[12] Selon la définition d’« époux ou conjoint de fait visé », l’appelant et son ex‑conjointe ont cohabité de juillet à décembre 2011. Qu’ils se soient séparés à la mi‑novembre ou à la fin de décembre 2011 n’est pas vraiment important, parce qu’ils ne vivaient pas séparés l’un de l’autre pendant une période d’au moins 90 jours entre juillet et décembre 2011. Par conséquent, la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » s’applique, et l’appelant n’a pas droit à la PFCE pour la période s’étendant de juillet à décembre 2011. L’ex‑conjointe est le « particulier admissible » pour l’application des dispositions relatives à la PFCE pour cette période.
+De janvier à avril 2012 et de mai 2012 à juin 2013
+[13] Chacun des appelants, a déclaré que les garçons, D et N, résidaient avec l’appelant de janvier 2012 à juin 2013. Leur témoignage était appuyé par des lettres de la division Ontario au travail du ministère des Services sociaux et communautaires, du directeur de l’école secondaire que fréquentaient les garçons, du médecin de famille et de la société d’autobus assurant le transport des garçons entre l’école et leur résidence.
+[14] À mon avis, l’appelant a fourni suffisamment d’éléments de preuve pour me permettre de conclure qu’il n’était pas un « parent ayant la garde partagée » à l’égard de D et de N en 2012 et en 2013. Les garçons ne résidaient pas chez l’ex-conjointe « sur une base d’égalité ou de quasi-égalité ». Ils résidaient chez l’appelant la plus grande partie du temps. Je n’ai accordé aucun poids à l’ordonnance du 7 mai 2012, car elle a été obtenue sans que l’appelant en ait été informé et ne rendait pas compte de l’état réel de la situation existant à cette époque et décrite par l’appelant, D, N et l’ex-conjointe.
+[15] C’est l’appelant qui, principalement, s’acquittait de la responsabilité du soin et de l’éducation de ses fils. Il faisait pour eux la cuisine et la lessive et se rendait à leur école pour les appuyer. À mon avis, l’ex-conjointe prenait également soin de ses fils, mais ils ne résidaient pas chez elle. Ils lui rendaient visite.
+[16] J’ai conclu que l’appelant était le seul « particulier admissible » à l’égard de D et de N, de janvier 2012 à juin 2013, et qu’il n’était pas, à leur endroit, un « parent ayant la garde partagée » pendant cette période.
+[17] J’ai également conclu que l’appelant n’était pas un « parent ayant la garde partagée » à l’égard de M, pour la période s’étendant de janvier à avril 2012. Toutes les parties ont convenu que M vivait dans la résidence familiale avec l’appelant jusqu’en mai 2012. Par la suite, elle a vécu chez l’ex-conjointe. L’appelant était le seul « particulier admissible » à l’égard de M entre janvier et avril 2012 inclusivement. Par la suite, l’ex-conjointe était le seul « particulier admissible » à l’endroit de M.
+[18] Pour toutes ces raisons, il est fait droit à l’appel.
+Signé à Ottawa, Canada, ce 3e jour de mars 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 9e jour d’avril 2014.
+S. Tasset
+RÉFÉRENCE : 2014CCI66
+NO DU DOSSIER DE LA COUR : 2013-2634(IT)I
+INTITULÉ : JASON MITCHELL ET
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sault Ste. Marie (Ontario)
+DATE DE L’AUDIENCE : Le 24 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 3 mars 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ryan Hall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

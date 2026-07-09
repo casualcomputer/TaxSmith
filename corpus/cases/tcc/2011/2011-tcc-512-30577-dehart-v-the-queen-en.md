@@ -1,0 +1,210 @@
+---
+title: "DeHart v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30577/index.do"
+last_modified: "2011-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 512"
+citation2: ""
+neutral_citation: "2011 TCC 512"
+decision_date: "2011-11-02"
+language: "en"
+item_id: "30577"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7317
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:10:21.844000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5271add50ed3495074d837913ac129255a43935d793b4833ae9d0ff03475615"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DeHart v. The Queen
+
+- Citation: 2011 TCC 512
+- Decision date: 2011-11-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7317, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeHart v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-02
+Neutral citation
+2011 TCC 512
+File numbers
+2010-1(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1(IT)I
+BETWEEN:
+JANICE DEHART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 8, 2011 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Kristen L. Woods
+Counsel for the Respondent:
+Ian Theil
+Cherylyn Dickson
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005, 2006 and 2007 taxation years are dismissed, without costs, in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 2nd day of November 2011.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2011 TCC 512
+Date: 20111102
+Docket: 2010-1(IT)I
+BETWEEN:
+JANICE DEHART,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+Background
+[1] The Appellant was reassessed for her 2005, 2006 and 2007 taxation years. In reassessing the Appellant, the Minister of National Revenue (the “Minister”) included in the Appellant’s income child support amounts of $6,000, $7,200 and $7,200 payable to her for each of those years, respectively.
+[2] The Appellant appeals such reassessments, asserting that such amounts should not have been included in her income on the basis that the provisions of the Income Tax Act (the “Act”) relied on by the Respondent do not apply to her case.
+[3] In determining the Appellant’s tax liability for the 2005, 2006 and 2007 taxation years, the Minister relied on the following facts which were stated as assumptions of fact in the Reply to the Amended Notice of Appeal (the “Reply”):
+14. In determining the Appellant’s tax and interest liability for the 2005, 2006 and 2007 taxation years, the Minister made the following assumptions of fact:
+Child Support Issues
+(a) the Appellant and the Appellant’s ex-spouse have lived separate and apart due to a marriage breakdown since at least the 1982 taxation year;
+(b) the Appellant and the Appellant’s ex-spouse are the parents of one child, S., born January 23, 1979;
+(c) pursuant to a Decree Nisi of the Supreme Court of Ontario, heard on January 25, 1982, and signed on October 14, 1982 (“the 1st Order”), the Appellant’s ex-spouse was required to pay to the Appellant Child Support for S., in the amount of $25 per week;
+(d) pursuant to a Judgment of the Supreme Court of Ontario, signed on October 13, 1988, made when an Application was heard on June 10, 1988 (“the 2nd Order”), the 1st Order was amended, requiring the Appellant’s ex-spouse to pay the Appellant Child Support for S, in the amount of $80 per week (with Consumer Price Indexing);
+(e) the periodic payments of Child Support payable under the 2nd Order were never varied subsequent to the date of that Order, in any manner or at any time;
+(f) as the Appellant’s ex-spouse did not comply with the 2nd Order to make all of the required Child Support payments, Default Court Orders dated December 17, 1997 and July 21, 2005, and Consents to Default Orders dated July 29, 2004 and December 9, 2004, were issued, indicating that certain payments were to be paid on account of arrears in respect of payments that were to have been made by him under the 2nd Order;
+(g) the total Child Support amounts paid to the Appellant and by the Appellant’s ex-spouse, in each of the 2005, 2006 and 2007 taxation years, namely $6,000, $7,200 and $7,200, for each of those years, respectively, were paid by him pursuant to the 2nd Order, as a result of the issuance of the Default Orders, in respect of Child Support that should have been paid by him to the Appellant in previous taxation years (the years they were payable);
+(h) the Appellant failed to include the payments she received for Child Support arrears, in the amounts of $6,000, $7,200 and $7,200 for 2005, 2006 and 2007, respectively, in her income, for those taxation years;
+…
+[4] Appellant’s counsel submitted a book of documents which are itemized below with a brief description of the contents of such documents:
+· Decree Nisi issued by the Supreme Court of Ontario dated January 1982 – decreeing that the Appellant was divorced from her husband, Robert DeHart. The Decree also ordered that the Appellant be awarded the custody, care and control of the infant child of the marriage born January 1979. The Decree further provided that the former husband pay to the Appellant the sum of $25 per week for the support and maintenance of the child for so long as the said child remained in the custody of the Appellant and is a child as defined by the Divorce Act. The Decree ordered judgment interest at a rate of 17.25%.
+· Order of the Supreme Court of Ontario dated October 1982 which orders that the maintenance and support to be paid by the Appellant’s ex-husband for the child be increased to the sum of $55 per week.
+· Judgment of the Supreme Court of Ontario dated June 1988 which orders that the Decree Nisi dated January 1982, as amended by the Order dated October 1982, is further amended to provide that the Appellant’s ex-husband pay to the Appellant for the support of the child the sum of $80 per week. This 1988 Order provides that the amount of support payable for the child is to be increased annually on the Order’s anniversary date by a percentage determined by specified references to the Consumer Price Index for Canada as published by Statistics Canada and contemplated by section 34 of the Family Law Act, 1986. As well, the Order sets judgment interest at the rate of 10%. The Order further goes on to provide that it shall be enforced by the Director of Support and Custody Enforcement.
+· Order of The Ontario Court (Provincial Division) dated November 1994, responding to an application, made by the Director, Family Support Plan, for the benefit of the Appellant in respect of a Notice of Default. The Order confirms and fixes arrears in the amount of $39,808.77 (the “Default Order”). It goes on to provide that the payer, the Appellant’s ex-husband, shall “keep the Order current, namely $130.51 per week, payable on Fridays failing which the Payor shall be incarcerated for seven (7) days.”
+· Order of The Ontario Court (Provincial Division) dated December 1997 responding to an application of the Director, Family Responsibility Office, for the benefit of the Appellant, to discontinue a Warrant for Committal and amend the Default Order dated November 1994 by deleting the reference to the payable time and amount necessary to keep the Default Order current and providing simply that the payer (the Appellant’s ex-husband) “shall keep the ongoing support order current, failing which he shall be incarcerated for 7 days”.
+· A Record of The Ontario Court (General Division) dated November 1998 showing a notation by the Judge regarding an application of the Appellant’s ex-husband to vary the support payments. This application was made days before further enforcement proceedings were to be heard. The notation dismisses the application referring to previous applications which had been languishing in the court system. The Judge notes that it appears to him that the Applicant (the ex-husband) “is attempting to play the Court system to his advantage when he should be paying his arrears instead of paying his lawyers.” Costs of the failed application payable to the Director were fixed at $500.
+· A consent Order of The Ontario Court of Justice dated July 29, 2004, respecting an application of the Director, Family Responsibility Office for the benefit of the Appellant, requiring the ex-husband to pay the sum of $500 per month on account of arrears commencing on the first day of September 2004. The Order goes on to say that in default of any payment referred to, the ex-husband shall be incarcerated for a period of 10 days for each and every default. Further, it goes on to provide that in the event of default of any payment due, the Director, Family Responsibility Office shall be at liberty to bring any future motion for a Warrant of Committal upon a default, with notice to the Respondent by serving him by pre-paid regular mail at his last known address on file with the Director.
+· A consent Order of The Ontario Court of Justice dated December 2004 in respect of an application made by the Director, Family Responsibility Office providing that the Appellant’s ex-husband provide certain required disclosures and that he shall continue to pay $500 per month.
+· A consent “final” default Order of The Ontario Court of Justice dated July 2005, requiring the ex-husband to pay the sum of $600 per month on account of arrears commencing on the first day of August 2005. Again, there is an incarceration provision permitting the Director, Family Responsibility Office, to bring a motion for a Warrant of Committal upon default. The ex-husband is also ordered to notify the Family Responsibility Office of any new employment.
+· A letter from the Ministry of Community and Social Services, Family Responsibility Office, dated August 12, 2010 to the Appellant which confirms that the July 2005 Order is a final default Order whereby the support payer was ordered to make monthly payments of $600 at risk of incarceration. Confirmation was made that the repayment terms under the July 2005 Order commenced on August 1, 2005 and that the support payer has been in compliance with this Order. Then the letter goes on to confirm that the 1988 Order requiring child support payments of $80 per week were enforced by the Family Responsibility Office until they received written notice from the Appellant that the ongoing obligation had terminated effective August 31, 2001. The Appellant confirmed that such ongoing obligation had, in fact, terminated at that time when the daughter of the marriage, for whose benefit the support amounts were paid, graduated from university.
+[5] The Appellant also submitted as an exhibit a payment schedule sourced from the Family Responsibility Office detailing the history of child support payments and tracked the amounts in arrears. Included in this schedule were separate $400 amounts each reflecting enforcement fees payable to the Family Responsibility Office which were added to the account over time. The August 12, 2010 letter referred to above from the Family Responsibility Office confirmed that such amounts totalling $1,600 were monies owed to the Director for costs incurred while taking action to enforce the Appellant’s case. The letter advises that the Family Responsibility Office had not “deducted” the $1,600 from the arrears of child support owed to the Appellant.
+[6] Recent correspondence from the Family Responsibility Office, submitted without objection after the hearing, states that the payment schedule tendered at the hearing did not include judgment interest but indicated that same would be added.
+Statutory Provisions
+[7] The relevant provisions of the Act are as follows:
+56(1) Amounts to be included in income for year -- Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(b) [spousal or child] support -- the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+…
+56.1(4) Definitions -- The definitions in this subsection apply in this section and section 56.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+…
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+…
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common- law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+Issues
+[8] There is no dispute that the amounts payable under the 1988 Order, and in arrears, were payable as an allowance on a periodic basis for the maintenance of the child of the recipient and that the recipient is the former spouse of the payer from whom she was living separate and apart because of a breakdown of their marriage. Further, the amount was receivable under an order of a competent tribunal. These meet all of the requirements to constitute the payments a “support amount” as defined in subsection 56.1(4).
+[9] As well, it is noted that there is no question that the amounts are “child support amounts” as defined in that subsection. That is, the support amounts identified in the Order under which it was receivable did not identify the payments as solely for the support of a recipient former spouse.
+[10] On that basis, the inclusion of the subject payments under paragraph 56(1)(b) in the income of the Appellant falls on a determination of whether any child support amounts became receivable by her in the years in question on or after a commencement day. Whether a payment became receivable on or after the commencement day is dependant on the date of the order requiring the payment. The commencement day in respect of a payment made under a post-April 1997 order is the day it is made. The commencement day in respect of an order made before May 1997, is the day, if any, that is after April 1997 and is, failing specified dates being included in the order, the earliest of: the day on which the first payment of a varied child support amount is required to be made under a variation order made after April 1997; and the date a subsequent order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient.
+Arguments
+Appellant’s Arguments
+[11] Appellant’s counsel has advanced several positions which she argues require a finding that the payments received by the Appellant in the subject years were not taxable amounts under subsection 56(1).
+[12] She maintains that the child support amounts receivable by the Appellant in the subject years were receivable by her under an order made after its “commencement day”. She makes this argument on the basis that the consent Orders of The Ontario Court of Justice dated July 2004 and July 2005, requiring the ex-husband to pay on account of arrears the sum of $500 per month commencing on the first day of September 2004 and then $600 per month commencing on the first day of August 2005, were orders varying the child support amounts receivable.
+[13] The Appellant relies on the Federal Court of Appeal decision of Canada v. Sills[1] where Justice Heald speaking for the majority said: “The payments do not change in character merely because they are not made on time.” Relying on this statement of law, Appellant’s counsel takes the position that the fact that the payments are payments of arrears does not change their character as child support amounts.
+[14] She goes on to argue that the July 2004 Order, following the termination in 2001 of the pre-May 1997 Orders, was a fresh or new Order or a varied Order of child support amounts. That is, being a new or varied order for arrears, it is, applying the principle in Sills, a new or varied order made post-April 1997 for the payment of child support amounts. That they were formerly owing under a different payment regime does not change the fact that the regime was varied. Accordingly, the payments, the child support amounts, were receivable by the taxpayer under an order made after its commencement day. Similarly, payments received under the July 2005 final Order were payments received under an order made after its commencement day.
+[15] Appellant’s counsel also argued that the total amounts of support received had increased by virtue of the orders for costs and appearance fees added to the Appellant’s support amount account maintained by the Family Responsibility Office.
+[16] It was also argued that the July 2004 consent Order constituted a new “agreement” which is to argue that the payment was pursuant to or under an agreement as opposed to a former order. Since there had never been an agreement before 2004, and since “commencement day” refers to payments under “an agreement or order”, we have a fresh starting point for the determination of the commencement day.
+[17] A potential argument was also raised concerning the question as to whether a statement of arrears that failed to show judgment interest in any way reflected a change in the support amount.
+[18] Appellant’s counsel also sought to distinguish cases such as McNeely v. The Queen[2] and Adat v. The Queen[3] on the basis of factual differences. She relied, as well, on the following cases: Gill v. The Queen,[4] Nowlan v. The Queen,[5] and Roy v. The Queen.[6] I did not find her reference to these authorities as providing any persuasive insight that assisted her client.
+Respondent’s Arguments
+[19] Relying on Wilson v. The Queen,[7] Respondent’s counsel argued that the relevant date in respect of the determination of the commencement day is the date the child support amount is payable and receivable, not the date when paid and received. The child support amounts in the case at bar were all payable before 2001, pursuant to or under orders made before May 1997.
+[20] The Sills decision is also relied on by the Respondent. It is argued that that decision confirms that the payments in question are payments of amounts that have not lost their character as taxable support payments paid under the 1988 Order that required them to be paid. Variations in the amount of the arrears installments could not be seen as a variation in the support payment amounts payable under the pre-May 1997 Orders.
+[21] Respondent’s counsel also argued the $400 appearance fees added to the Appellant’s support amount account maintained by the Family Responsibility Office were not a change in the child support amounts receivable by the Appellant. Further, it was argued that the child support payments were made under the 1988 Order and not under or pursuant to any subsequent agreements.
+[22] In respect of the question as to whether judgment interest has any impact or relevance in the determination of a support amount, the Respondent relied on Whelan v. The Queen[8] and Pilon v. The Queen.[9]
+[23] The Respondent also relied on the decision in Roy.
+Analysis
+[24] Appellant’s counsel has raised some novel, interesting and clever arguments in an attempt to assist a mother whose former husband might well fit the description of a dad who shirked his financial responsibilities to his daughter for well over a decade and who, as one judge commented, spent money on his lawyers to play the system when he should have paid his wife for child support. If these arguments had been raised when commencement day cases were first being considered, they might have been persuasive if the scheme of the subject provisions had been interpreted to give consideration to cash flow variations in child support payments. However, given a consistent and long history of cases dealing with how payment of arrears must be treated under the subject provisions, I cannot see my way clear to re-formulate the statutory scheme as those authorities have applied them.[10]
+[25] In short, I agree with the arguments of Respondent’s counsel. Payments of arrears are payments of amounts required to be made under an earlier order that imposed that requirement. The last child support order fixing the child support amount payable was the 1988 Order requiring payments of $80 per week. As per Wilson the relevant date in respect of the determination of the commencement day is the date the child support amount is payable and receivable, not the date when paid and received.
+[26] Appellant’s argument that the Sills decision can be taken to stand for a different principle does not have legs. She argues that if arrears are child support payments, then when the amount and periodic basis of arrears installments that is receivable are varied, then the child support amount has varied. A clever argument that is not void in logic. However, such variation only makes changes that affect the cash flow timing between the parties. The amounts receivable under the enforcement orders match the amounts receivable under the 1988 Order, and would not be receivable but for the 1988 Order. That is, there is no evidence that either the monthly amount or total amounts required to be paid, and thereby receivable, under the 1988 Order were varied. The decision in Whelan makes it clear that in such cases no commencement day has come into being.
+[27] Further, that unpaid amounts required to have been paid under the 1988 Order are being enforced by subsequent orders that necessarily adapt a new installment regime as circumstances require from time to time, does not suggest that child support amounts payable under the 1988 Order have changed. I am satisfied, in spite of my understanding of the injustice the Appellant feels she is suffering, that this finding has necessarily been imposed on me by a consistent line of cases that I am not at liberty to undermine. If the payments had been timely made, they would have been taxable. That they were late and enforced by new court orders or new agreements does not change that result. Further, if the child support obligations ended in 2001, the subsequent enforcement orders which do not reduce the amount in arrears could only be enforcing obligations arising under a prior order: namely in this case, the 1988 Order.
+[28] As to the judgment interest issue, I am satisfied that the obligation to pay the relevant amount arose prior to May 1997, was not varied. Further, even if it had been varied after April 1997, the Respondent’s reliance on Whelan and Pilon as being decisive on that issue is well founded. Lastly, that the record of arrears has omitted the judgment interest has no bearing on the issue.
+[29] As well, I note that the orders for costs and appearance fees cannot under the subject provisions of the Act be found to affect the child support amount payable and receivable. They are not, directly at least, for the maintenance of the child and more certainly are neither an allowance payable nor a support amount payable on a periodic basis.
+[30] Accordingly, the appeals are dismissed, without costs.
+Signed at Toronto, Ontario this 2nd day of November 2011.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2011 TCC 512
+COURT FILE NO.: 2010-1(IT)I
+STYLE OF CAUSE: JANICE DEHART AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 8, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: November 2, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Kristen L. Woods
+Counsel for the Respondent:
+Ian Theil
+Cherylyn Dickson
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kristen L. Woods
+Firm: Mills & Mills LLP
+2 St. Clair Ave. West, Suite 700
+Toronto, Ontario
+M4V 1L5
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1984] F.C.J. No. 268 (C.A.) at page 3.
+[2] 2008 TCC 450 at paras. 6 and 7.
+[3] [2011] T.C.J. No. 167.
+[4] [2008] T.C.J. No. 373.
+[5] 2003 TCC 803.
+[6] [2010] T.C.J. No. 321.
+[7] [2008] T.C.J. No. 187.
+[8] [2006] F.C.J. 1799 (FCA) at para. 11.
+[9] [2003] T.C.J. No. 690.
+[10] There is at least one decision of the Federal Court of Appeal that suggests that cash flow issues are not relevant in the determination of a commencement day. See Warbinek v. Canada, 2008 FCA 276.

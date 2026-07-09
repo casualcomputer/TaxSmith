@@ -1,0 +1,206 @@
+Title: Michaud v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31259/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-245-31259-michaud-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2013-08-01
+
+# Michaud v. M.N.R.
+
+- Citation: 2013 TCC 245
+- Decision date: 2013-08-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5101, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Michaud v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-01
+Neutral citation
+2013 TCC 245
+File numbers
+2012-457(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2012-457(EI)
+BETWEEN:
+JAMIE MICHAUD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2013, at Edmundston, New Brunswick
+with the appeal of Grand Falls Roofing Inc.
+(Maurice Michaud) (2012-440(EI))
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Leonide Madore
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+The appeal made under the Employment Insurance Act is dismissed, in accordance with the attached Reasons for Judgment.
+Signed this 1st day of August 2013.
+“François Angers”
+Angers J.
+Docket: 2012-440(EI)
+BETWEEN:
+GRAND FALLS ROOFING INC.
+(MAURICE MICHAUD),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2013, at Edmundston, New Brunswick
+with the appeal of Jamie Michaud (2012-457(EI))
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Leonide Madore
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+The appeal made under the Employment Insurance Act is dismissed, in accordance with the attached Reasons for Judgment.
+Signed this 1st day of August 2013.
+“François Angers”
+Angers J.
+Citation: 2013 TCC 245
+Date: 20130801
+Dockets: 2012-457(EI)
+2012-440(EI)
+BETWEEN:
+JAMIE MICHAUD and
+GRAND FALLS ROOFING INC.
+(MAURICE MICHAUD),
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] Both appeals were heard on common evidence. The appellants are appealing from a ruling by the Minister of National Revenue (the “Minister”) that Jamie Michaud (the “worker”) was not engaged in insurable employment for the periods from May 11, 2008 to December 5, 2008, from May 2, 2009 to December 4, 2009 and from May 3, 2010 to December 17, 2010 (the “periods”) since the appellant Jamie Michaud and the appellant Grand Falls Roofing Inc. (the “payer”) were not dealing with each other at arm’s length within the meaning of paragraph 5(2)(i) of the Employment Insurance Act (the “Act”).
+[2] The worker was employed pursuant to a contract of service with the payer within the meaning of paragraph 5(1)(a) of the Act during the periods. Since they are related persons, they are deemed not to deal with each other at arm’s length and, as such, the employment was not insurable as it was excluded by virtue of paragraph 5(2)(i) of the Act. For the purpose of paragraph 5(2)(i), paragraph 5(3)(b) the payer and the worker are deemed to deal with each other at arm’s length if the Minister is satisfied that, having regard to all the circumstances of the employment, a substantially similar contract of employment would have been entered into if they had been dealing with each other at arm’s length.
+[3] The relevant legislation reads as follows:
+5. (1) Types of insurable employment -- Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(…)
+5. (2) Excluded employment -- Insurable employment does not include
+(…)
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5. (3) Arm’s length dealing -- For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+Income Tax Act
+251. (1) Arm’s length – for the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+(b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition “trust” in subsection 108(1)) are deemed not to deal with each other at arm's length if the taxpayer, or any person not dealing at arm's length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) where paragraph (b) does not apply, it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm's length.
+(2) Definition of “related persons” -- For the purpose of this Act, “related persons”, or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled 256(6)
+256(6.1) by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph (i) or (ii); and
+(iv) if one of the corporations is controlled by one person and that person is related to each member of an unrelated group that controls the other corporation,
+(v) if any member of a related group that controls one of the corporations is related to each member of an unrelated group that controls the other corporation, or
+(vi) if each member of an unrelated group that controls one of the corporations is related to at least one member of an unrelated group that controls the other corporation.
+[4] In making his decision, the Minister relied on the following assumptions of fact.
+a. The Payer operates a roofing business which offers roof repairs and installation of new roofs (the “Business”);
+b. The Payer incorporated on September 26, 2007;
+c. Maurice Michaud is the Payer’s sole shareholder;
+d. Prior to September 26, 2007, Maurice Michaud was the Business sole proprietor;
+e. The Business is seasonal and usually operated from the end of April to end of November;
+f. During the active season, the Payer generally employs 7 or 8 workers, organized into 2 crews;
+g. The Appellant is the son of Maurice Michaud;
+h. The Appellant has been employed by the “Business” since 2001;
+i. The Appellant was also sole proprietor of Michaud Roofing;
+j. During the Periods under appeal, the Appellant worked exclusively for the Payer and did not advertise his business services;
+k. During the Periods under appeal, the Payer engaged the Appellant as a supervisor: his duties consisted of supervising one of the crews while on various job sites, keeping track of the workers’ hours and reporting them to the Payer;
+l. The Appellant also worked with the other workers removing old shingles, doing repairs and laying new roofs;
+m. During the Periods under appeal, the Payer decided which job each crew was assigned to;
+n. The Payer supervised the work and inspected the finished work;
+o. The Appellant sometimes used the Payer’s tools and equipment and sometimes used his own;
+p. In this type of industry, workers often use their own tools;
+q. The Payer made all hiring decisions, the Appellant did not hire helpers or employees;
+r. The Appellant was not able to refuse work from the Payer, he had to do the jobs assigned to him by the Payer;
+s. During the Periods under appeal, the Appellant was paid a weekly salary of approximately $900 paid by cheque;
+t. Other workers were paid $17 or $18 per hour;
+u. The Appellant’s equivalent hourly rate was $2 higher than other workers’ rate to compensate for his responsibilities as a supervisor;
+v. During 2008, 2009 and 2010, the Appellant’s income from salaried employment with the Payer was in the amount of $27,000, $28,800 and $29,700 respectively;
+w. Starting in 2008, the Appellant received additional income from the Payer for the “piece work”;
+x. The “piece work” consisted of repairs or the laying of new roofs;
+y. Both supervisory duties and “piece work” were performed by the Appellant at the same time;
+z. The Payer’s workers helped the Appellant with the “piece work”;
+aa. The other workers did not receive additional remuneration for doing the “piece work”;
+bb. Prior to 2008, the “piece work” was completed by a weekly paid worker who did not receive any additional remuneration:
+cc. The Appellant invoiced the Payer for the “piece work”;
+dd. The amount invoiced for the “piece work” was based on a number of “squares”, multiplied by a dollar value ranging from $20 to $50, minus an amount for labour in respect of the other workers;
+ee. The additional amounts paid to the Appellant for the “piece work” during the Periods under appeal was in excess of $70,000 per year;
+ff. These amounts were reported by the Appellant as self‑employment income;
+gg. These amounts were reported by the Payer as contracts payments;
+hh. While doing the “piece work”, the Appellant used the Payer’s workers to generate self‑employment income;
+ii. While doing the “piece work”, the Appellant used the Payer’s tools and equipment as well as his own;
+jj. The Appellant used his own truck to go from one job site to another, while on duty for the Payer;
+kk. The Appellant was not reimbursed for gas or for the use of his vehicle; and
+ll. Other workers did not incur transportation expenses: they met at the Payer’s house every morning and were taken to the different work sites by the Appellant or Maurice Michaud.
+[5] The appellant, Jamie Michaud, is not challenging the facts assumed in paragraphs 5 a), b), c), d), e), f), g), h), i), j), k), l), m), n), q), r), s), t), u), v), y), ee), jj), kk) and ll). As for the remaining assumptions, he denied them or stated not having understood them.
+[6] Maurice Michaud, as we now know, is the sole shareholder of the payer and the father of the appellant, Jamie Michaud. The payer is in the roofing business mainly for residential properties. In 1997, the payer’s volume of business was expanding and it decided to constitute another working crew to meet the demand. He trusted his son to supervise this second crew.
+[7] The appellant, Jamie Michaud, was, at all times, an employee of the payer acting in that capacity with an hourly rate of $20. According to Maurice Michaud, his son was also paid for the use of his truck and equipment that were used on the job sites he was assigned with this second crew.
+[8] The difficulty with this case rests solely with the operations of this second crew. It is not disputed that the appellant worked for the payer and that his remuneration of $20 per hour was not unreasonable in these circumstances. What has complicated matters in this case is the treatment of the extra income the appellant Jamie Michaud was receiving from the payer for the use of his truck and equipment to operate the second crew.
+[9] Maurice Michaud, on behalf of the payer, testified that his son Jamie would invoice the payer for the work of the second crew on the basis of the number of roofing squares installed on a particular job site. Of that amount, the payer deducted the wages and kept a share that averaged about 20%. The balance went to his son Jamie.
+[10] The appellant, Jamie Michaud, testified that he began working for the payer in 1998. When the payer’s business picked up in 2007 his father told him to obtain a pick‑up truck, tools and equipment and take on of a second crew. He says the payer paid him a percentage as commission for the use of his tools and truck. He testified and stated that he did not do sub‑contracting work with the payer.
+[11] In 2007, Jamie Michaud, registered a business name and style under Michaud Roofing, because he felt he needed to register a business name to claim his expenses and wanted to protect the Michaud name. He had no intention of starting a roofing business of his own and he never did. All the work he performed for the payer fell under the payer’s responsibility to collect payment and guarantee the work. Notwithstanding these statements, many of the job invoices prepared by Jamie Michaud and found in exhibit R‑7 at tabs 2 and 3 bear the stamp of Michaud Roofing.
+[12] The confusion arose because of the appellant Jamie Michaud’s answers to a questionnaire from Human Resources on November 22, 2010. That questionnaire is called a self‑employment questionnaire. Jamie Michaud identifies his business name as Michaud Roofing and states that his business is offering services as a sub‑contractor in roofing. He apportions earnings as follows: 50% as self‑employed person and 50% as an employee.
+[13] In a further questionnaire answered by Jamie Michaud on September 14, 2011, he now refers to supervision duties for the payer and states that he provides tools and equipment. The questionnaire keeps referring to “piece work” and I understand that those words resulted from a conversation Jamie Michaud had on August 23, 2011 with the appeal’s officer for the Canada Revenue Agency (“CRA”). He told the appeals officer that for each bundle of shingles, he was paid at least $10 for each bundle. He told her that he “supervised his father’s employees and that when the guys were done cleaning up the old shingles, he would start installing the new shingles. That is how he made his piece work money”.
+[14] To add more confusion to the qualification of the relationship between the payer and Jamie Michaud, the payer’s ledger printout in exhibit R‑5 for the period of September 1, 2008 to August 31, 2009 shows payments made to Jamie Michaud under the heading “sub‑contractor” and no payments made to Jamie Michaud under the heading “equipment rental or piece work”. In the payer’s ledger printout in exhibit R‑6 for the period of September 1, 2008 to August 31, 2010, payments made to Jamie Michaud is again found under the heading “sub‑contractor” and his name is not found under the heading “payments made for equipment rentals”.
+[15] In exhibit R-4 at page 9, we have the copy of a cheque made out to Jamie Michaud on January 25, 2008 which reads that the cheque was made out for piece work.
+[16] Leonide Madore represented both appellant at the hearing of these appeals. He is also the accountant for both appellants. On September 15, 2011 he wrote: “That when preparing tax returns for the concerned taxpayers herewith, I understood that the agreement between Maurice Michaud and (or) Grand Falls Roofing inc. and Jamie Michaud was a case of sub‑contracting. From the questionnaires that are being prepared now, I realize that what was considered to be a sub‑contract is really a rental of machinery, equipment and vehicles.”
+[17] Jamie Michaud was clear in his testimony that he was an employee and nothing else. The only roofing business is that of the payer and he is not and was not during the periods in issue a sub‑contractor. His explanation for the confusion is because they just didn’t know how to qualify their relationship. “Piece work” referred to the rental of equipment and the method by which they would calculate their respective share of the jobs performed by the second crew was the number of shingles used to do the job which resulted in an average split of 20% in favour of the payer and the balance to the appellant Jamie Michaud. In fact, he testified that the payer decided how much he was receiving; hence, he did not have much to say on the terms and conditions relating to the rental of the equipment. Their respective shares were not determined until the job was completed. In addition, the appellant’s representative has argued that this was all part of his employment.
+[18] It has been said in many decisions of this Court and of the Federal Court of Appeal that the function of this Court is to verify the existence and accuracy of the facts relied upon by the Minister, to consider all the facts in evidence, including new facts, and determine whether the Minister’s decision still seems reasonable; the Minister is entitled to a measure of deference (see Livreur Plus Inc. vs M.N.R., [2004] F.C.J. No. 267).
+[19] The facts upon which the Minister relied upon were provided by both appellants through questionnaires and conversations. Since both appellants were unable to describe with any degree of certainty the arrangements they had made, it is not surprising that the assumptions that referred to “piece work” are misleading and may have misled the Minister.
+[20] At first, the relationship was described as a sub‑contract. It was thus described by the appellant Jamie Michaud and it thus appeared in the payer’s books. It was later denied by both appellants as being the case as well as by their representative.
+[21] Then, during the investigating stage, the appeals officer was told by the appellant Jamie Michaud that he was receiving other monies from the payer as a self‑employed worker for piece work that he performed. The value of the piece work was determined by the number of squares (shingles) installed on a new roof less the cost of labour. The price or value of each square (shingle) was not revealed at the hearing and what was left was divided between the two appellants.
+[22] At the hearing, the appellant Jamie Michaud testified that he was neither a sub‑contractor nor a self‑employed person and that “piece work” meant equipment rentals. Yet, none of the invoices made by the appellant Jamie Michaud to the payer refer to “equipment rental” or “piece work”. In addition, the share that is kept by the payer is determined by the payer and after the job is completed. It seems to me that if the appellant Jamie Michaud was really in the business of equipment rental, it would not be called Michaud Roofing and the cost to rent the equipment would be set by him and the rental of equipment would be offered to other potential clients and not solely to the payer.
+[23] The appellant Jamie Michaud also testified that he was only an employee. He was getting paid by the hour as salary with a commission for use of his truck and equipment.
+[24] In the light of all these different scenarios, it becomes very difficult to give any weight to the testimony of both witnesses for the appellants and clearly understand what were the actual arrangements made between the payer and Jamie Michaud.
+[25] The onus is on the appellant to convince this Court that the Minister’s decision is not reasonable having regard to all the circumstances of their employment relationship. In my view, the facts presented by the appellant Jamie Michaud and the payer’s representative to the appeals officer who made the recommendations to the Minister support the conclusion reached and the recommendation made.
+[26] Given the inconsistencies in what were the actual arrangements made between the appellants and the representations they made to the appeal’s officer, it becomes impossible for this Court to conclude that the Minister’s decision was unreasonable in these circumstances, in that the appellant Jamie Michaud and the payer would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[27] In addition, if, in fact, the arrangement was that the appellant Jamie Michaud was paid a salary plus a commission and that all of that was part of his employment, the evidence is clear that such an arrangement would not have been entered into were it not for the fact that they are related and were not dealing at arm’s length. No person would have agreed to a similar arrangement without determining in advance his share of the surplus on each job completed or by leaving to the payer, sole discretion as to how the share is to be divided unless that person is related to the payer. The Minister’s conclusion would have been similar under that scenario, I believe.
+[28] The appeals are dismissed.
+Signed this 1st day of August 2013.
+“François Angers”
+Angers J.
+CITATION: 2013 TCC 245
+COURT FILE NOS.: 2012-457(EI), 2012-440(EI)
+STYLE OF CAUSE: JAMIE MICHAUD and GRAND FALLS
+ROOFING INC. (MAURICE ICHAUD) v.
+M.N.R.
+PLACE OF HEARING: Edmundston, New Brunswick
+DATE OF HEARING: May 16, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: August 1, 2013
+APPEARANCES:
+Agent for the Appellant:
+Leonide Madore
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

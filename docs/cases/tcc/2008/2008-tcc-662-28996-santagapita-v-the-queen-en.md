@@ -1,0 +1,340 @@
+---
+title: "Santagapita v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28996/index.do"
+last_modified: "2008-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 662"
+citation2: ""
+neutral_citation: "2008 TCC 662"
+decision_date: "2008-12-03"
+language: "en"
+item_id: "28996"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6745
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:34:06.905000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97af3f01e1509bb452ab548f034c2e2fe5e79e7015fdae11792bb4c3ad767411"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Santagapita v. The Queen
+
+- Citation: 2008 TCC 662
+- Decision date: 2008-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6745, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Santagapita v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-03
+Neutral citation
+2008 TCC 662
+File numbers
+2008-1301(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2008-1301(IT)I
+2008-1303(IT)I
+BETWEEN:
+CHRISTINE SANTAGAPITA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+JOSEPH SANTAGAPITA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence on October 24 and 31, 2008
+at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellants:
+Julie Rogers-Glabush
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeals with respect to assessments made under the Income Tax Act for the 2002 and 2003 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis below:
+1. as for the $50,000 insurance proceeds, $12,500 shall be included in computing the income of each of the appellants for the 2002 taxation year and no amount shall be included for the 2003 taxation year;
+2. as for soft costs, subsection 18(3.1) of the Act should be applied in respect of the 2002 and 2003 taxation years on the basis that the renovation of the building was completed on October 29, 2003;
+3. as for soft costs in respect of the 2002 taxation year, the amount limited by subsection 18(3.1) shall be reduced pursuant to subsection 20(29) of the Act to a maximum of $12,500 for each appellant;
+4. as for interest expenses with respect to the mortgage, each of the appellants is entitled to a deduction for the 2002 and 2003 taxation years in the amount of 50 percent of $19,044 and $19,218, respectively, pursuant to paragraph 20(1)(c) of the Act; and
+5. as for utilities, expenses in the amount of $1,502 were incurred in the 2002 taxation year.
+The appellants are entitled to costs on the basis of one set of counsel fees.
+Signed at Ottawa, Canada this 3rd day of December 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC662
+Date: 20081203
+Dockets: 2008-1301(IT)I
+2008-1303(IT)I
+BETWEEN:
+CHRISTINE SANTAGAPITA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+JOSEPH SANTAGAPITA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants, who are husband and wife, appeal reassessments made under the Income Tax Act for the 2002 and 2003 taxation years. The appeals were heard together on common evidence under the informal procedure of the Court.
+Background
+[2] The appeals concern a commercial rental building that the appellants have owned since 1986. It is located at 124 Dundas Street in London, Ontario.
+[3] Prior to 2001, the premises were leased by the appellants to 598537 Ontario Inc. This corporation was wholly-owned by the appellants, and it used the main floor of the building to operate a hardware store under the name Warner Pro Hardware. The second and third floors of the building were blocked off and were not usable.
+[4] In January of 2001, a fire broke out in the hardware store causing extensive damage. The store had to be shut down for a period of time, although Mr. Santagapita was able to carry on a locksmith business at the back of the premises.
+[5] Fortunately for the appellants, they and 598537 Ontario Inc. were adequately covered by insurance for their losses. There was one policy covering all the insured and it was with Gore Mutual Insurance Company.
+[6] Not long after the damage was incurred, extensive repair work was undertaken, first by a contractor selected by the insurance company and then by Mr. Santagapita or persons hired by him.
+[7] At some point, the appellants decided not to reopen the hardware store and they made efforts to lease the building to a third party.
+[8] The main floor of the building was leased to an arm’s length tenant in 2005 for use as office premises.
+The issues
+[9] Unfortunately, the issues in these appeals are a bit like shifting sand. I will start, then, with a description of the issues as stated in the appellants’ amended notices of appeal dated October 17, 2008. The relevant excerpt from the pleadings is reproduced below.
+40. Whether the Minister erred in determining that the Property was not available for use until October 23, 2003 and therefore the Expenses should be capitalized rather than allowed on a current basis.
+41. Whether the Minister erred in increasing the Appellant’s income by $12,500 in each of the 2002 and 2003 taxation years in respect of insurance proceeds for loss of rental income.
+42. In the alternative, if the Minister was correct in increasing the Appellant’s income by $12,500 in each of the 2002 and 2003 taxation years in respect of insurance proceeds for loss of rent, whether the Appellant is therefore entitled to deduct the Expenses to the extent of this amount pursuant to Subsection 20(29) of the Act.
+43. Whether the Minister erred in his calculation of the Expenses.
+Should insurance proceeds be included in income?
+[10] I will first consider the insurance proceeds. Broadly speaking, the issue is whether the Minister erred in increasing the income of each of the appellants by $12,500 in both the 2002 and 2003 taxation years, for a total income inclusion of $50,000. This amount represents insurance proceeds received for loss of rent.
+[11] The factual background follows.
+[12] In a settlement with the insurance company made in 2002, the insurer paid a lump sum amount of $121,500 (Ex. A-6). The amount was paid by cheque to 598537 Ontario Inc., and it was inclusive of all claims of either the appellants or 598537 Ontario Inc.
+[13] Included in the lump sum was an amount of $50,000 on account of “loss of rent.”
+[14] Based on evidence led by the respondent, which includes the testimony of the claims specialist at Gore Mutual who dealt with this matter and includes a letter that the specialist wrote to the appellants’ lawyer (Ex. R-3), I am satisfied that the $50,000 payment was in satisfaction of the appellants’ right to claim for damages for loss of rent under the insurance policy. As such, it is to be included in their income under subsection 9(1) of the Act.
+[15] The appellants suggest that this amount is not income to them because it was their company, and not themselves personally, that received the money.
+[16] This argument cannot succeed. The appellants had the right to receive the funds pursuant to their insurance policy. It is the right to the funds, and not the receipt, which is the taxable event.
+[17] Also, the payment to 598535 Ontario Inc. satisfied the appellants’ claim against the insurer.
+[18] The evidence does not indicate why the insurance proceeds were paid in a lump sum to 598537 Ontario Inc. It is possible that the appellants’ lawyer directed the insurer to pay the funds in this manner. But that does not matter. The appellants had the right to receive the money from the insurer, and from 598537 Ontario Inc. which was wholly‑owned by them.
+[19] The appellants further submit that the proper year to include the amount is 2001.
+[20] I do not agree with this submission. Although the fire occurred in 2001, there is not sufficient evidence that the amount payable for loss of rent was known or determinable at this time.
+[21] There is evidence, however, that the right to the loss of rent payment became known on February 27, 2002 when the insurance company acknowledged it in a letter to the appellants’ lawyer (Ex. R-3). Based on the evidence presented, I conclude that it is only at this time did the $50,000 become receivable.
+[22] That is not the end of the matter, however. The Minister did not include the entire $50,000 in income in 2002 when the settlement was reached. Rather, the Minister divided the amount equally between the 2002 and 2003 taxation years.
+[23] It appears that the Minister divided the amount in this manner because he assumed that the $50,000 was paid in two equal installments in 2002 and 2003 (Replies, para. 15(j)).
+[24] This assumption was wrong, however. The full amount was paid in one lump sum in 2002.
+[25] The Minister erred in including any of the insurance proceeds for loss of rent in the appellants’ income for the 2003 taxation year. The entire amount should have been included in the 2002 taxation year when the settlement was reached.
+[26] In the result, the income for the 2003 taxation year should be adjusted to remove any insurance proceeds.
+[27] Finally, a further issue was raised for the first time in the written submissions. It was not clearly raised in the pleadings, and nor was it raised at the opening of the hearing when an overview of the issues was presented. It appears that the parties subsequently agreed that this issue would be considered.
+[28] The appellants submit that the income inclusion for insurance proceeds is statute barred. They submit that it was raised for the first time in reassessments issued outside the normal reassessment period and that there was no negligence, carelessness or willful blindness on the part of the appellants in excluding it from their income tax returns.
+[29] I do not agree with the appellants that there has been no negligence, carelessness or willful blindness. At the very least, the appellants were careless in not reporting the $50,000 as income in their tax returns for the 2002 taxation year. No good explanation was provided for excluding this amount from any income tax returns, including those filed for 598537 Ontario Inc.
+[30] Mr. Santagapita suggested that he always intended to include this amount in an amendment to the tax return of 598537 Ontario Inc. This explanation is being provided six years after the year in which the money was received, and no such amendment has yet been filed. I do not find the explanation to be credible.
+[31] In the result, the assessments will be upheld with respect to this issue for the 2002 taxation year, but the insurance proceeds will be excluded from income for the 2003 taxation year.
+What is the date of completion of construction?
+[32] The second issue is whether certain expenses related to the repair of the building are required to be capitalized under subsection 18(3.1) of the Act.
+[33] Subsection 18(3.1) is intended to require the capitalization, during a period of construction, of expenses that relate to the construction and that otherwise would be deductible as current expenses.
+[34] In the reassessments, the Minister applied this provision to certain expenses incurred in the 2002 and 2003 taxation years. For purposes of the assessments, the Minister assumed that the period of construction ended on October 29, 2003 when the front entrance to the building was finished.
+[35] I would also note that the Minister did not capitalize all of the construction‑related expenses that were claimed by the appellants. Some of these amounts were disallowed in their entirety pursuant to paragraph 18(1)(a). This issue will be discussed later in these reasons.
+[36] It is the position of the appellants that subsection 18(3.1) does not apply to either the 2002 or 2003 taxation years because the renovation of the building was complete by the end of 2001.
+[37] The relevant statutory provisions are subsections 18(3.1) and (3.3) of the Act which are reproduced below.
+18(3.1) Cost relating to construction of building or ownership of land. Notwithstanding any other provision of this Act, in computing a taxpayer’s income for a taxation year,
+(a) no deduction shall be made in respect of any outlay or expense made or incurred by the taxpayer (other than an amount deductible under paragraph 20(1)(a), 20(1)(aa) or 20(1)(qq) or subsection 20(29)) that can reasonably be regarded as a cost attributable to the period of the construction, renovation or alteration of a building by or on behalf of the taxpayer, a person with whom the taxpayer does not deal at arm’s length, a corporation of which the taxpayer is a specified shareholder or a partnership of which the taxpayer’s share of any income or loss is 10% or more and relating to the construction, renovation or alteration, or a cost attributable to that period and relating to the ownership during that period of land
+(i) that is subjacent to the building, or
+(ii) that
+(A) is immediately contiguous to the land subjacent to the building,
+(B) is used, or is intended to be used, for a parking area, driveway, yard, garden or any other similar use, and
+(C) is necessary for the use or intended use of the building; and
+(b) the amount of such an outlay or expense shall, to the extent that it would otherwise be deductible in computing the taxpayer’s income for the year, be included in computing the cost or capital cost, as the case may be, of the building to the taxpayer, to the person with whom the taxpayer does not deal at arm’s length, to the corporation of which the taxpayer is a specified shareholder or to the partnership of which the taxpayer’s share of any income or loss is 10% or more, as the case may be.
+…
+(3.3) Completion. For the purposes of subsection 18(3.1), the construction, renovation or alteration of a building is completed at the earlier of the day on which the construction, renovation or alteration is actually completed and the day on which all or substantially all of the building is used for the purpose for which it was constructed, renovated or altered.
+[38] There is no debate about the question to be decided. It is to determine when the renovation of the building was complete.
+[39] The appellants submit that the renovation project was complete when the contractor hired by the insurance company finished his work at the end of 2001.
+[40] While I accept that the contractor hired by the insurance company completed his part of the work at the end of 2001, this does not mean that the renovation was complete at this point.
+[41] At the end of 2001, the building was clearly not ready for occupation. The building was a bare shell inside and the front entrance was to be redone.
+[42] The entrance was constructed by Mr. Santagapita himself in 2003 and it was completed on October 29 of that year. As for the inside, it appears that the building remained almost in a shell state until 2005 when it was finished for an arm’s length tenant.
+[43] When the evidence as a whole is considered, I cannot agree with the appellants’ position that the renovation was complete by the end of 2001.
+[44] Parliament’s intent in enacting subsection 18(3.1) was to prohibit construction-related expenses to be deducted on current account while a property is still under construction. In this case, the period of construction ended no earlier than the time that the front entrance was completed, which was on October 29, 2003.
+[45] The appellants suggest that the renovation work carried out in 2002 and 2003 was not necessary for the completion of the building. I am not satisfied that this was the case for the simple reason that the building was not habitable at the end of 2001 and more renovation work was planned. In fact some of the construction work was carried out in 2002 and 2003.
+[46] Mr. Santagapita testified that he purposely held off finishing the inside of the building and the front entrance until a tenant was found. He said that he later decided to put up the front facade before it was rented because the entrance was an eyesore to the neighbours.
+[47] Even if this testimony is accepted, it does not establish that the period of construction ended at the end of 2001. The construction project may have gone through delays, but that does not mean that it was finished.
+[48] Further, I am not convinced by the evidence as a whole that Mr. Santagapita held off finishing the building so that it could be completed to the specifications of a tenant.
+[49] I would note that his testimony in this regard is contrary to statements that the appellants made to the insurer through their law firm, Harrison Pensa. On March 7, 2002, Harrison Pensa wrote to the insurance company in attempts to settle the claim (Ex. R-2) as follows:
+… I can confirm that it is Mr. Santagapita’s intention to reopen this location as Warner Pro Hardware. …
+… you raised the fact that some of the delays associated with the construction may be attributable to Mr. Santagapita and specifically the store front. … You will see in the fourth paragraph of that letter that Mr. Santagapita had made his decision regarding the facade very early on – February of 2001. However, the repairs could not proceed at that time because of ongoing problems with the common wall. Therefore, Mr. Santagapita has informed me that he is not prepared to accept responsibility for the delays associated with the construction. …
+[50] In his testimony, Mr. Santagapita resiled from certain statements in the letter, stating that the letter was written in the course of settlement negotiations.
+[51] The problem that I have with this testimony is that I have no way of knowing which version of events is true. The representations to the insurer made by Harrison Pensa were self-interested statements, as was Mr. Santagapita’s testimony at the hearing.
+[52] In the result, I am not satisfied that the period of construction ended at the end of 2001. When all the evidence is considered, I conclude that the construction was complete no earlier than the time assumed by the Minister, which was October 29, 2003.
+[53] Before leaving this issue, I would also mention an incident that occurred during the period at issue which involves a GST matter.
+[54] An officer with the Canada Revenue Agency testified at the hearing in some detail concerning a false GST refund claim that Mr. Santagapita had filed with the Canada Revenue Agency in January of 2003.
+[55] According to the officer’s testimony, which for the most part was not disputed, Mr. Santagapita had perpetrated a scheme to claim false refunds of GST input tax credits. The scheme was carefully planned and executed and involved the creation of false invoices which were paid by way of deposits to a corporation that was under Mr. Santagapita’s control.
+[56] This incident does not of course prove that Mr. Santagapita’s testimony at this hearing was not credible, but it does suggest that that one should be careful in accepting his testimony where it could have been corroborated but was not.
+[57] The appellants’ counsel objected to this evidence being introduced, but I think it was proper, and indeed important, for the respondent to introduce it.
+Does s. 18(3.1) apply to interest expense?
+[58] In her written submissions, counsel for the respondent raised an issue regarding interest expense. It was not mentioned, or even hinted at, in the reply and it was not discussed in the appellants’ submissions. This issue provides the appellants another possible avenue to deduct interest on current account and counsel for the respondent is to be commended for raising it in the written submissions.
+[59] In the assessments, the Minister applied s. 18(3.1) and capitalized interest payable in 2002 on a mortgage on the Dundas Street property. No interest was capitalized for the 2003 taxation year, however, because the Minister was not satisfied that any interest had been incurred in that year because no documentation was provided.
+[60] The issue is described in paragraph 56 of the respondent’s written submissions which is reproduced below.
+56. In reassessing the Appellants in 2002, the Minister assumed that the interest paid or payable by the Appellants could not be identified with the Property but could reasonably be considered as interest on borrowed money used by the taxpayer in respect of the construction, renovation or alteration of the Property. Accordingly, the Minister assumed interest expense of $19,044 as addition to Class 3 property, pursuant to subsections 18(3.1) and (3.2). In order to defeat the Minister’s assumption, and successfully claim interest expense deductions, the onus is on the Appellants to show that:
+(i) subsection 18(3.2) did not apply; and
+(ii) another provision in the Act applied to allow the deduction.
+This can be done if the Appellants provided evidence that the borrowed money pertained to the Property, and the interest expense was deductible pursuant to paragraph 20(1)(c). In order for paragraph 20(1)(c) to apply, the borrowed money needs to be used for the purpose of earning income from a business or property. On cross-examination, Mr. Santagapita could not establish the current use of borrowed money. Accordingly, the Appellants have not established the direct use of borrowed money for 2002. The Minister was correct in his assumption that subsection 18(3.1) applied to the 2002 interest expense.
+[61] As I understand the respondent’s position, it is that interest payable in respect of the mortgage on the Dundas Street property is not required to be capitalized under subsection 18(3.1) unless the mortgage proceeds can reasonably be considered to be used for the renovation project. If the borrowed money had been used to buy the property, on the other hand, the interest would be deductible on a current basis under s. 20(1)(c).
+[62] I would first note that the reply contains no mention of s. 18(3.2) or s. 20(1)(c) and no assumption as to the use of the mortgage proceeds. In order to be fair to the appellants, all of this should have been set out in the reply.
+[63] Turning to the merits, the question that must be decided is the actual use of the mortgage proceeds. Mr. Santagapita was cross-examined on this point by counsel for the respondent. Although his answers were vague, I conclude that it is likely that the proceeds of the mortgage were used by the appellants for the original purchase of the Dundas Street property.
+[64] Accordingly, interest payable on the mortgage can be deducted on a current basis under s. 20(1)(c). It remains to be considered how much interest was incurred and this is discussed later in these reasons.
+Should capitalized amount be reduced pursuant to s. 20(29)?
+[65] As an alternative argument, the appellants submit that certain expenses that otherwise would have to be capitalized under subsection 18(3.1) should be deducted on current account pursuant to subsection 20(29) of the Act.
+[66] In general, subsection 20(29) permits a deduction for expenses that otherwise would be capitalized under s. 18(3.1) to the extent of income from renting the property.
+[67] Subsection 20(29) provides:
+20(29) Idem. Where, because of subsection 18(3.1), a deduction would, but for this subsection, not be allowed to a taxpayer in respect of an outlay or expense in respect of a building, or part thereof, and the outlay or expense would, but for that subsection and without reference to this subsection, be deductible in computing the taxpayer’s income for a taxation year, there may be deducted in respect of such outlays and expenses in computing the taxpayer’s income for the year an amount equal to the lesser of
+(a) the total of all such outlays or expenses, and
+(b) the taxpayer’s income for the year from renting the building or the part thereof computed without reference to subsection 20(28) and this subsection.
+[68] The appellants submit that, if the insurance proceeds for loss of rent are required to be included in their income, they should be allowed a deduction up to this amount for expenses otherwise capitalized under s. 18(3.1).
+[69] I agree with this submission.
+[70] For purposes of this issue, it is necessary to interpret the phrase in s. 20(29) “income for the year from renting the building.” Is it broad enough to include the insurance proceeds?
+[71] The above phrase is open to more than one interpretation, I believe. Based on a purposive approach, I conclude that the phrase can, and should, be interpreted to include income from a rental operation, which would include insurance proceeds for loss of rent.
+[72] In the result, the expenses incurred by the appellants that otherwise would have to be capitalized under s. 18(3.1) are deductible up to a maximum of $12,500 for each of the appellants in the 2002 taxation year.
+What expenditures have been incurred?
+[73] In the reassessments, the Minister took the view that certain expenditures should be disallowed in their entirety pursuant to paragraph 18(1)(a) of the Act. This provision reads:
+18(1) General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[74] In paragraph 47 of the amended notices of appeal, the appellants submit that the expenses as claimed in the income tax returns are correct, with the exception of items for which the Minister has accepted a higher amount.
+[75] Aside from the merits of this submission, I admit some difficulty in figuring out exactly what relief is being sought.
+[76] The first question is to determine the items that the Minister agreed to increase beyond what was claimed in the income tax returns. It is true that the Minister did agree to increase some expenses but it is not clear that these items are the same as submitted by the appellants in paragraph 47 of their brief.
+[77] To compound the problem, it appears from the appellants’ written submissions that their position has shifted somewhat since filing the amended notices of appeal.
+[78] As best as I could piece things together, the chart below summarises the final positions of the parties concerning the various expenditures:
+Apps’ position
+in notices of appeal
+Apps’ position
+in trial memo
+Resp’s position in replies
+In
+dispute?
+2002
+Insurance
+$2,196
+$2,196
+$2,196
+No
+Interest
+$22,614
+$19,044
+$19,044
+No
+Maintenance and repairs
+$12,518
+$12,583
+No
+Property taxes
+$2,788
+$2,788
+$2,788
+No
+Utilities
+$1,502
+$1,502
+nil
+Yes
+2003
+Insurance
+$2,621
+$2,621
+$2,621¹
+No
+Interest
+$17,644
+$19,218
+nil
+Yes
+Maintenance and repairs
+$13,098
+$15,475
+$3,144
+Yes
+Property taxes
+$2,673
+$2,673
+$2,673
+No
+Utilities
+$500
+$187
+$187
+No
+¹ Replies, para. 14 and 15(x).
+[79] I will consider each of the disputed items in the order that they appear in the chart.
+Utilities
+[80] The first item is utilities for the 2002 taxation year. The appellants state in their written submissions that the Minister has acknowledged that these expenses were incurred.
+[81] It is not clear to me that the Minister did in fact acknowledge that these expenses were incurred. Certainly the replies of the Minister suggest otherwise (para. 15(s)).
+[82] Nevertheless, I have decided to accept the appellants’ submissions on this point, which is a relatively small point in the context of these appeals.
+[83] The basis for my conclusion is Schedule A to the amended notices of appeal. This document appears to be a CRA schedule which suggests that the utilities’ expense should be accepted.
+Interest
+[84] The second item to be considered is interest expense for the 2003 taxation year.
+[85] For purposes of the assessments, the Minister acknowledged that mortgage interest in the amount of $19,044 was incurred in the 2002 taxation year but he did not accept that any interest was incurred in the 2003 taxation year because no documentation was provided.
+[86] The appellants introduced the necessary documentation at the hearing relating to the 2003 taxation year. It consisted of a bank statement showing interest totaling $19,218. Based on this and other evidence, my conclusion is that this amount was interest payable in respect of the 2003 taxation year. I also conclude that the use of the borrowed money was for the original purchase of the building.
+Maintenance and repairs
+[87] The last item in dispute is listed under the heading “maintenance and repairs.”
+[88] The appellants submit that the total of these expenditures is $15,475, whereas only $13,098 was claimed in the income tax returns. After the audit and objection process, the Minister allowed only $3,144.
+[89] At the hearing, the appellants introduced into evidence copious receipts (17 separate bundles) from several stores, most of which specialized in home improvements.
+[90] The receipts by themselves do not establish that these items were purchased in connection with the repair and maintenance of the Dundas Street property.
+[91] Accordingly, the question is an evidentiary one. Is there sufficient evidence linking the receipts to the renovation project at 124 Dundas Street?
+[92] There are some obvious problems in making this link. First, most of the receipts appear to relate to building materials and equipment, but not all of them do. Also, counsel for the respondent pointed out that one of the receipts was for tiles that were to be delivered to another property owned by the appellants. No satisfactory explanation was provided for this.
+[93] Mr. Santagapita did provide some testimony regarding these receipts but I did not find his testimony to be clear and cogent enough to be convincing.
+[94] I would also note that many of the receipts are for cash purchases. I agree with the respondent that it is possible that many of these purchases were made by others and not the appellants.
+[95] When the evidence is considered in its entirety, I conclude that there is not sufficient reliable evidence that ties the receipts to the construction project at 124 Dundas Street.
+[96] The essential problem for the appellants is that they were not able to produce proper books of account that were prepared on a timely basis.
+[97] I acknowledge that the appellants may have incurred greater expenses than those allowed by the Minister but there is not sufficient reliable evidence to establish what the proper amount should be. In the circumstances, the assessments will be upheld on this issue.
+Conclusion
+[98] Based on the above conclusions, the appeals will be allowed and the assessments will be referred back to the Minister for reconsideration and reassessment on the following basis:
+(a) as for the $50,000 insurance proceeds, $12,500 shall be included in computing the income of each of the appellants for the 2002 taxation year and no amount shall be included for the 2003 taxation year;
+(b) as for soft costs, subsection 18(3.1) of the Act should be applied in respect of the 2002 and 2003 taxation years on the basis that the renovation of the building was completed on October 29, 2003;
+(c) as for soft costs in respect of the 2002 taxation year, the amount limited by subsection 18(3.1) shall be reduced pursuant to subsection 20(29) of the Act to a maximum of $12,500 for each appellant;
+(d) as for interest expense with respect to the mortgage, each of the appellants is entitled to a deduction for the 2002 and 2003 taxation years in the amount of 50 percent of $19,044 and $19,218, respectively, pursuant to paragraph 20(1)(c) of the Act; and
+(e) as for utilities, expenses in the amount of $1,502 were incurred in the 2002 taxation year.
+[99] The appellants are entitled to costs on the basis of one set of counsel fees.
+Signed at Ottawa, Canada this 3rd day of December 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC662
+COURT FILE NOS.: 2008-1301(IT)I
+2008-1303(IT)I
+STYLES OF CAUSE: CHRISTINE SANTAGAPITA AND
+HER MAJESTY THE QUEEN
+and JOSEPH SANTAGAPITA AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATES OF HEARING: October 24 and 31, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: December 3, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Julie Rogers-Glabush
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Julie Rogers-Glabush
+Firm: Rogers-Glabush Law Office
+London, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

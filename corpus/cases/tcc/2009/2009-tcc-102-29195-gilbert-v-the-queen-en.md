@@ -1,0 +1,242 @@
+---
+title: "Gilbert v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29195/index.do"
+last_modified: "2009-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 102"
+citation2: ""
+neutral_citation: "2009 TCC 102"
+decision_date: "2009-04-24"
+language: "en"
+item_id: "29195"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6691
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:20:28.814000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60f63e68d896a42381a71a09ebe32d2bafbaad21560e071d8a1de0e6cf80c09a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gilbert v. The Queen
+
+- Citation: 2009 TCC 102
+- Decision date: 2009-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6691, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilbert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-24
+Neutral citation
+2009 TCC 102
+File numbers
+2007-4901(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4901(IT)I
+BETWEEN:
+ADELA PINA GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Pierre Gilbert (2007‑4902(IT)I), on June 19, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of April 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 15th day of May 2009.
+Daniela Possamai, Translator
+Docket: 2007-4902(IT)I
+BETWEEN:
+PIERRE GILBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Adela Pina Gilbert (2007‑4901(IT)I), on June 19, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of April 2009
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 15th day of May 2009.
+Daniela Possamai, Translator
+Citation: 2009 TCC 102
+Date: 20090424
+Dockets: 2007-4901(IT)I
+2007-4902(IT)I
+BETWEEN:
+ADELA PINA GILBERT,
+PIERRE GILBERT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These are two appeals relating to the 1999 taxation year. The parties agreed to proceed on common evidence in their respective dockets, that is, 2007-4901(IT)I and 2007-4902(IT)I.
+[2] In both matters, the issue to be decided is the same, namely, whether the Minister of National Revenue (the Minister) was justified in denying the Appellants a business investment loss.
+[3] Besides the main issue, two sub-issues were raised, namely, whether limitation is a sufficient and valid reason to vacate the assessment; in fact, the Appellants submit that the assessments are void, considering that they were made after the three-year period. Lastly, the Appellants submit that if the assessments were to be confirmed, the interest that was added should be cancelled.
+[4] As for the Respondent, she submits that, should the Appellants discharge the burden of proof as to the merits of the business investment loss, the appeal should be dismissed, considering that the losses claimed must be offset by the fact that they benefited from sizeable advances from the corporation in favour of which they made the disbursements that gave rise to the losses claimed.
+[5] The evidence consisted of the testimony of the Appellant, Pierre Gilbert, whose testimony essentially relied on the exhibit books filed as Exhibits A‑1 and A‑2. For her part, the Respondent also filed exhibit books adduced as Exhibits I‑1 and I‑2.
+[6] With the help of his exhibit book, the Appellant explained the background and history of Sécovac Inc. Incorporated in May 1996, he and his wife have been the sole shareholders and directors since the very beginning.
+[7] He indicated that Sécovac Inc. experienced rapid success and that the order book was generally full: he stated that the company’s activities involved the design, manufacturing by subcontractors, and sale of kilns for the softwood lumber industry.
+[8] He stated that the financial situation deteriorated very quickly following the Canada vs. U.S.A. dispute involving softwood lumber exported to the United States, as lumber export to the United States was heavily impacted by the imposition of new taxes by the Americans.
+[9] Softwood lumber producers were therefore forced to bear significant additional costs to the point where they slowed down their forestry activities; many questioned if not terminated their investment project, all of which, in the Appellants’ words, had direct and significant consequences on the financial viability of Sécovac Inc.
+[10] The sequence of events is described very clearly in the Notice of Appeal of the Appellant, Adela Pina Gilbert, at paragraphs 4(a) to (e) et seq. as well as paragraphs 5, 6, 7, 8, 9 and 10, which read as follows:
+[TRANSLATION]
+4. After experiencing significant success, the taxpayer’s company experienced difficulties owing to the crisis in Canada’s softwood lumber industry following the special import taxes imposed by the United States in this sector in early 2000. Sécovac Inc. made an assignment in bankruptcy or became bankrupt on March 31, 2001, under the following circumstances:
+(a) Sécovac Inc., as an insolvent person, filed a notice of intention to make a proposal under section 50.4(1) of the Bankruptcy and Insolvency Act (“BIA”) on March 30, 2001, and Samson Bélair Deloitte & Touche agreed to act as trustee (Exhibits P-1 and P-2).
+(b) The Corporation filed a proposal with the licensed trustee under the BIA on May 3, 2001 (Exhibit P-3). The sole creditors who had voting rights on the proposal were the Ministère du Revenu du Québec and Canada Customs and Revenue Agency.
+(c) The proposal was the subject of favourable recommendations by the trustee Samson Bélair Deloitte & Touche on May 15, 2001 (Exhibit P-4).
+(d) The proposal was voted against by the creditors at a meeting that started on May 17, 2001, and ended on May 31, 2001, and the Corporation was deemed thereupon to have made an assignment or bankrupt on that day, following the vote of the creditors against it (Exhibit P-5). The fiscal year of Sécovac Inc. ended October 31.
+(e) The Appellant also refers to the Reasons for Judgment of the Tax Court of Canada rendered by the Honourable Justice Louise Lamarre Proulx on October 17, 2005 (Exhibit P-6), and more particularly to paragraphs [3], [4], [6], [7] and [8].
+5. In early March 2001, prior to filing the notice of intention to make a proposal with the trustee, the Appellant paid debts owed by Sécovac Inc. to its regular suppliers or “preferred creditors” out of her personal joint account. The Appellant submitted as evidence the bank statement from her personal bank account which shows the transactions made as well a copy of each cheque dated March 9, 2001, with the name of each creditor for a total payment of $68,772 (Exhibit P-7).
+6. Since the proposal was refused by the creditors, the Corporations made an assignment or became bankrupt on May 31, 2001. The amounts advanced by the Appellant for the benefit of Sécovac Inc. were not reimbursed to her. Hence the loss claim by the Appellant.
+7. The debts were deemed bad by the Appellant on March 31, 2001, that is, the date on which the Corporation made an assignment or became bankrupt.
+8. The Appellant and her husband therefore equally divided the total amount paid to the regular suppliers between the two of them, which came to $34,386 each. The Appellant therefore claimed the losses in her 2001 individual tax return which represented half of the debts she paid out of her personal joint account to the regular suppliers or “preferred creditors” of Sécovac Inc. She paid the debts thinking there was a chance that the proposal would be accepted.
+9. Seeing as in 2001 the Appellant did not have sufficient income to absorb the loss, the latter was carried backward to 1999, as losses of this nature can be carried back up to three years. The Appellant and her husband therefore equally divided the total amount paid to the regular suppliers between the two of them, which came to $34,386 each. This is why in 2001 each of the Appellants claimed a business investment loss of $17,193, which they carried backward to 1999. The loss claimed was 50% of the total amount paid to the creditors.
+10. Therefore, in 2001, the Appellant claimed a business investment loss of $17,193, which she carried backward to 1999.
+[11] The Appellant, who is very articulate, provided a clear and consistent presentation of all the facts, the majority of which were substantiated by the relevant documentary evidence. The evidence pertaining to the details of the losses claimed clearly surprised the Respondent.
+[12] What is surprising is that during the audit, despite numerous and specific attempts to obtain supporting documentation and certain information pertaining to the losses claimed, the Respondent always failed. The Appellants suggested at the time that such documentation and information was established arbitrarily. However, the descriptive evidence of the amounts paid, which is unassailably precise, was clearly available.
+[13] Some of the allegations in the Reply to the Notice of Appeal illustrates very clearly the reason for the surprise:
+[TRANSLATION]
+6. . . .
+(i) the Appellant has yet to provide the MNR with the information necessary to verify and validate the debt for which the loss claim was made; and
+. . .
+12. This statement does not contain any information to verify the business investment for which the loss claim was made.
+. . .
+16. On June 2, 2004, the MNR asked the Appellant to complete a questionnaire in order to obtain information to verify and validate the alleged business investment for which the loss claim was made.
+17. The Appellant never completed the questionnaire.
+18. On June 11, 2004, the Appellant and her husband state to the MNR’s representative, in the presence of their lawyer at the time, that
+(a) they cannot explain the source of the amount invested in the
+business for which the loss claim was made;
+(b) they cannot provide any document demonstrating that they did
+in fact invest the amount for which the loss claim was
+made; and
+(c) they arbitrarily determined the amount of the business
+investment loss claimed.
+[14] On the face of the documentary evidence submitted by the parties, it appears obvious that the demise of Sécovac Inc. was quickly and very easily accepted. The softwood lumber trade dispute between the United States and Canada was certainly one explanation or even a legitimate excuse; surprisingly, it appears that the bankruptcy essentially impoverished both the federal government and the Quebec government.
+[15] As for the business investment loss, it is also obvious that the lack of co-operation and the systematic refusal to provide the information that was indeed available, clear and unequivocal was merely an attempt to buy time until certain evidence was diluted.
+[16] However, the losses claimed essentially arise from the payment of indebtedness to the creditors of Sécovac Inc. by the Appellants: in other words, the Appellants decided to pay certain debts of the Corporation of which they were the shareholders some time before the bankruptcy, debts which clearly would have been extinguished by the bankruptcy.
+[17] For a loss to be admissible, it must meet the requirements set out in paragraphs 38(e) and 39(1)(c) and subsections 50(1) and 127(7) of the Income Tax Act (the Act).
+[18] The testimony and documentary evidence is clear. The facts are also clear and precise.
+[19] First, I will discuss the statute barred argument. Can the assessments be vacated on the ground that they are statute-barred?
+[20] The Appellants submitted that the limitation period was reached and that the assessments should be vacated on that basis. Subsection 152(3.1), subparagraph 152(4)b)(i) and paragraph 152(6)(c) of the Act read as follows:
+152(3.1) Definition of “normal reassessment period” -- For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) where at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends 4 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends 3 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year.
+152(4) . . .
+(b) the assessment, reassessment or additional assessment is made before the day that is 3 years after the end of the normal reassessment period for the taxpayer in respect of the year and
+(i) is required pursuant to subsection 152(6) or would be so required if the taxpayer had claimed an amount by filing the prescribed form referred to in that subsection on or before the day referred to therein,
+. . .
+152(6) Reassessment where certain deductions claimed [carrybacks] -- Where a taxpayer has filed for a particular taxation year the return of income required by section 150 and an amount is subsequently claimed by the taxpayer or on the taxpayer’s behalf for the year as
+. . .
+(c) a deduction under section 118.1 in respect of a gift made in a subsequent taxation year or under section 111 in respect of a loss for a subsequent taxation year.
+[21] Thus, based on these provisions, there is no doubt that the assessments are in no way affected by the limitation provisions. In fact, the Appellants were assessed on July 4, 2000, and submitted a request for loss on April 8, 2002, for the 1999 taxation year. Following an audit in 2004, assessments were issued on June 21, 2004, and confirmed on September 28, 2004, in Mrs. Gilbert’s case and on November 13, 2007, in Mr. Gilbert’s case.
+[22] Subsection 165(3) of the Act allows the Minister to reconsider an assessment that is under objection. This subsection allows him, following the reconsideration, to vary the assessment under objection by a reassessment. It is very clear that subsection 165(5) of the Act allows the Minister to do so without having to take into account the limitations provided for in subsection 152(4) of the Act.
+[23] In the case at bar, the matter does not involve an assessment issued after the taxpayer objected to it, but rather an assessment made following a decision by the Appellants to file a request for loss carryback. It is subsection 152(6) of the Act which allows the Minister to make such an assessment despite the fact that the normal reassessment period as set out in subsection 152(4) of the Act may be prescribed.
+[24] Subsections 165(3) and (5) provide as follows:
+165(3) Duties of Minister – On receipt of a notice of objection under this section, the Minister shall, with all due dispatch, reconsider the assessment and vacate, confirm or vary the assessment or reassess, and shall thereupon notify the taxpayer in writing of the Minister’s action.
+(5) Validity of reassessment – The limitations imposed under subsections 152(4) and 152(4.01) do not apply to a reassessment made under subsection 165(3).
+[25] The documentary evidence validated by circumstantial evidence arising out of the trustee’s questioning and the creditor’s attitude is that Sécovac Inc. was in fact a creditor of the Appellants for a substantial amount, with the amount advanced to the directors being in the hundreds of thousands of dollars.
+[26] The Respondent submits that the Appellants did not suffer any business investment loss as at the time they were debtors to Sécovac Inc. on behalf of which and for the benefit of whom they made the disbursements that gave rise to the losses claimed.
+[27] The Respondent submits that the business investment losses claimed by the Appellants are extinguished by virtue of legal compensation for the advances paid to the shareholders.
+[28] Before answering this question, I believe it is pertinent to first answer the question as to whether the losses were truly business investment losses.
+[29] Did the Appellants discharge the burden of proof required to be entitled to those losses?
+[30] The documentary evidence concerning the names of the persons who received the payment, the amounts paid and the dates on which they were paid is decisive, which makes it difficult to understand the reason for the Appellants’ stubbornness in not disclosing these details when requests for information were made to them.
+[31] This aspect is as clear and unequivocal as the evidence regarding the reason for the payment of certain specific debts of Sécovac Inc. is deficient, especially in explaining why and how this payment had a direct or indirect chance, however slight, of generating any income or profit.
+[32] Sécovac Inc. saw exceptional growth over a short period of time. It incurred a significant tax liability to which other current debts are added, albeit more marginal ones considering the company’s activities.
+[33] At the same time, it appears that Sécovac Inc. pumped its surpluses or available funds to the Appellants, sole shareholders and directors, personally. [Here I will open a parenthesis to say that it is unclear to me why the tax file pertaining to the assessments arising out of the advances paid to the shareholders was not attached to this file, especially since the Respondent argues compensation].
+[34] Certainly, the degree of probative force of perceptions, intentions or insinuations is less convincing than evidence consisting of facts and documents which cannot be ignored. However, in the case at bar, the dates, facts and numbers established by the documentary evidence support a finding that is in harmony with the weaker dimension of the evidence.
+[35] In fact, the Appellants disbursed the amounts that gave rise to the losses claimed on an essentially voluntary basis without duress or coercion, at least based on the evidence made available by the Appellants, on whom the burden of proof rested.
+[36] Why did the Appellants choose to pay the creditors of Sécovac Inc.? I should state, at the outset, that the evidence did not explain nor justify why they did so. It is very surprising how such reasonable persons could have displayed such generosity especially since the following is stated in their Notice of Appeal:
+[TRANSLATION]
+9. Seeing as in 2001 the Appellant did not have sufficient income to absorb the loss, the latter was carried backward to 1999, as losses of this nature can be carried back up to three years. The Appellant and her husband therefore equally divided the total amount paid to the regular suppliers between the two of them, which came to $34,386 each. This is why in 2001 each of the Appellants claimed a business investment loss of $17,193, which they carried backward to 1999. The loss claimed was 50% of the total amount paid to the creditors.
+9. Seeing as in 2001 the Appellant did not have sufficient income to absorb the loss, the latter was carried backward to 1999, as losses of this nature can be carried back up to three years. The Appellant and his wife therefore equally divided the total amount paid to the regular suppliers between the two of them, which came to $34,386 each. This is why in 2001 each of the Appellants claimed a business investment loss of $17,193, which they carried backward to 1999. The loss claimed was 50% of the total amount paid to the creditors.
+[37] Although the answer is not essential to dispose of the appeal, I believe, in light of the overall evidence, context and circumstances, that the Appellants did so to prevent the payment from being taxed preferentially to the detriment of the creditors, likely to trigger collection action, which would explain the reason for the Appellants’ stubbornness in failing to comply with requests for information during the review of their tax file.
+[38] It was evident from the moment the Appellants decided to reimburse the creditors of Sécovac Inc. without being legally required to do so that the bankruptcy would make it impossible to recover the amounts paid out, on the one hand, and that, on the other, nothing would be gained by it; in other words, it was obvious from the start that those amounts would be lost definitively with no possibility of return other than possibly obtaining a certain tax benefit.
+[39] I would also venture to say that the Appellants may have sought to maintain a good rapport with one or more companies with which they could potentially rebuild a business relationship. There is no evidence upon which to base such a theory and had that theory been confirmed, it would not be pertinent.
+[40] The Appellants freely elected to disburse $34,386 each to pay creditors of Sécovac Inc., of which they were the sole shareholders and directors, without duress or coercion and without hope of any profit or income. Such a payment can and is to be characterized as a payment of convenience with a purpose and objectives that have absolutely nothing to do with the conditions required to be deemed a business investment loss.
+[41] I would like to note that the content of subparagraph 40(2)(g)(ii) of the Act is different from that provided for in paragraph 2(1)(c) of the Act where there needs to be a direct link between the money borrowed and expected income. In that regard, subparagraph 40(2)(g)(ii) of the Act reads as follows:
+40(2) Notwithstanding subsection 40(1),
+. . .
+(g) a taxpayer’s loss, if any, from the disposition of a property, to the extent that it is
+. . .
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm’s length.
+[42] The Appellants are seeking the cancellation of interest if the validity of the assessments is confirmed.
+[43] On the issue of interest, under subsection 220(3.1) of the Act, only the Minister can waive the interest due on an assessment. The waiving of interest is essentially discretionary and granted to the Minister and not this Court. Once such a request has been made and a decision is taken by the Minister, the Court’s only jurisdiction is to verify whether the decision was rendered in accordance with the requirements of the Act.
+[44] Jurisdiction over such a review of a decision of the Minister is vested exclusively in the Federal Court and not the Tax Court of Canada.
+[45] For all these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 24th day of April 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 15th day of May 2009.
+Daniela Possamai, Translator
+CITATION: 2009 TCC 102
+COURT FILE NOS.: 2007-4901(IT)I and 2007-4902(IT)I
+STYLES OF CAUSE: Adela Pina Gilbert and Pierre Gilbert v. Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 19, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENTS: April 24, 2009
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellants:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

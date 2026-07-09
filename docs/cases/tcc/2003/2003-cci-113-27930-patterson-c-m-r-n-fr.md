@@ -1,0 +1,179 @@
+---
+title: "Patterson c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27930/index.do"
+last_modified: "2003-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 113"
+citation2: ""
+neutral_citation: "2003 CCI 113"
+decision_date: "2003-03-28"
+language: "fr"
+item_id: "27930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1713
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:23:28.093000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2be84d703ca46231fa8d0fa8c2fa66bf1cc7652b5eabf1e572bd8e84936f66fe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Patterson c. M.R.N.
+
+- Citation: 2003 CCI 113
+- Decision date: 2003-03-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1713, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patterson c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-28
+Référence neutre
+2003 CCI 113
+Numéro de dossier
+2001-3726(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-3726(EI)
+ENTRE :
+JAMES PATTERSON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 1er novembre 2002 à Matane (Québec),
+Devant : L'honorable juge suppléant S.J. Savoie
+Comparutions :
+Avocat de l'appelant :
+Me Hugo Caissy
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de mars 2003.
+« S.J. Savoie »
+J.S.C.C.I.
+Référence : 2003CCI113
+Date : 20030328
+Dossier : 2001-3726(EI)
+ENTRE :
+JAMES PATTERSON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie, C.C.I.
+[1] Cet appel a été entendu à Matane (Québec), le 1er novembre 2002.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant lorsqu'au service de 9074-4657 Québec Inc., (le « payeur ») durant la période en litige soit du 26 juin au 24 novembre 2000.
+[3] Le 10 juillet 2001, le ministre du Revenu national (le « Ministre ») informa l'appelant de sa décision selon laquelle cet emploi n'était pas assurable pour le motif qu'un tel contrat n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre lui et le payeur durant la période en litige.
+[4] En rendant sa décision, le Ministre s'est basé sur les présomptions de faits suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel :
+a) le payeur a été incorporé au cours de l'année 1999;
+b) l'unique actionnaire du payeur est M. Kevin James Patterson;
+c) l'appelant est le père de l'unique actionnaire du payeur;
+d) au cours de la période en litige, les activités du payeur consistaient à exploiter un atelier d'ébénisterie et à effectuer de la coupe de bois pour la société Domtar;
+e) au cours des années antérieures à la période en litige, l'appelant était l'unique actionnaire et maître d'oeuvre de la compagnie 9024‑6539 Québec Inc. dont l'activité était la coupe de bois pour la compagnie Domtar;
+f) la compagnie 9024-6539 Québec Inc a cessé ses opérations en 1999;
+g) au cours de la période en litige, le payeur a repris les concessions de bois auparavant exploitées par la compagnie 9024-6539 Québec Inc;
+h) l'appelant a conjointement et solidairement cautionné avec son fils la marge de crédit du payeur au montant de 10 000 $;
+i) l'appelant gérait tous les aspects de l'exploitation forestière du payeur y compris l'émission des chèques de paye des employés;
+j) les fonctions de l'appelant consistaient, notamment, à circuler d'un chantier à l'autre pour superviser les bûcherons au service du payeur et à appeler les transporteurs de bois pour coordonner les livraisons à la papetière [sic];
+k) l'appelant utilisait sa propre camionnette pour circuler sur les chantiers;
+l) le payeur remboursait à l'appelant l'essence utilisée pour ses déplacements;
+m) au cours de la période en litige, le payeur employait environ 14 bûcherons;
+n) à l'exception de l'appelant, tous les employés du payeur étaient rémunérés hebdomadairement par chèque;
+o) la rémunération de l'appelant s'élevait à 500 $ par semaine;
+p) l'appelant a reçu deux semaines de salaire en argent comptant au début de la période en litige;
+q) le solde de sa rémunération pour l'ensemble de la période en litige lui a été versé par chèque au montant de 7 332,20 $ le 28 décembre 2000;
+r) dans les semaines précédant la période en litige, l'appelant travaillait bénévolement pour le payeur à préparer la prochaine saison de coupe, notamment à procéder à l'embauche des bûcherons;
+s) les bûcherons ont débuté le travail en forêt à la fin du mois de mai 2000 alors que l'appelant n'a commencé à être rémunéré que le 26 juin 2000;
+t) la période prétendue de travail de l'appelant ne coïncide pas avec la période qu'il a réellement travaillée.
+[5] L'appelant a admis les présomptions du Ministre qui sont énoncées aux alinéas a) à e), g), m) et o). Il a nié celles énoncées aux alinéas i), n) et r) à t) et a apporté des précisions quant aux autres.
+[6] La preuve a révélé que les tâches de l'appelant consistaient à marcher le bois pour identifier les endroits à couper, tracer les chemins et voir à leur entretien pour assurer la bonne circulation. Il devait assigner chaque bûcheron à son poste et voir au transport du bois à la papeterie Domtar. Il supervisait les travailleurs. Il travaillait plus de 50 heures par semaine, du lundi au vendredi, parfois le samedi et occasionnellement en soirée pour voir au transport du bois, au besoin. Par contre, il n'était pas soumis à un horaire rigide.
+[7] L'appelant a informé les enquêteurs qu'en l'absence de l'actionnaire du payeur, il voyait à tout. Il était muni d'une procuration pour signer les chèques du payeur et s'en servait pour signer les chèques couvrant des dépenses du payeur de même que les chèques de paie des employés.
+[8] Le travailleur, l'appelant, a endossé la marge de crédit de 10 000 $ que le payeur a négocié avec l'institution prêteuse, et, avec son fils, il a endossé conjointement et solidairement l'emprunt.
+[9] Selon la preuve, l'appelant recevait une rémunération hebdomadaire de 500 $, mais il a retardé jusqu'après la période en litige, soit le 28 décembre 2000, pour émettre son chèque de paie au montant de 7 332,20 $. Selon lui, il a agi ainsi pour donner une chance au payeur.
+[10] L'appelant a reçu, en outre, deux paies au début de la période en litige, en argent comptant pour avoir bénévolement aidé le payeur dans la préparation des travaux de la saison.
+[11] Les autres employés du payeur étaient payés toutes les semaines, par chèque.
+[12] Le Ministre a motivé sa décision selon les dispositions des alinéas 5(2)i) et 5(3)b) suivants de la Loi sur l'assurance-emploi (la « Loi ») :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i):
+[...]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[13] Il convient donc de se pencher sur la légalité de l'exercice du pouvoir discrétionnaire du Ministre en regard des circonstances décrites, telles la rétribution versée, la durée, la nature et l'importance du travail accompli par l'appelant.
+[14] L'analyse des circonstances tel que l'exige l'alinéa 5(3)b) de la Loi supporte la conclusion incontournable qu'un contrat de travail pareil n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre le payeur et l'appelant.
+[15] Il suffit de rappeler que l'appelant fournissait des services bénévoles pour le payeur et avait signé une caution pour aider financièrement le payeur pour qui il avait également endossé la marge de crédit. En outre, il était signataire sur les chèques du payeur, sur les chèques de paies des employés et sur son propre chèque de paie. Par ailleurs, il a attendu jusqu'à la fin de la période en litige pour émettre son chèque de paie couvrant la période en litige.
+[16] Il faut ajouter que l'appelant n'était pas soumis à un horaire rigide de travail. Cependant, sa rémunération était fixe peu importe le nombre d'heures de travail.
+[17] En l'absence du seul actionnaire du payeur pendant la période en litige, les services de l'appelant comme contremaître et superviseur des employés étaient nécessaires aux activités de l'entreprise du payeur.
+[18] Il convient de noter qu'à l'exception de quelques précisions apportées par l'appelant touchant spécifiquement ses tâches chez le payeur, la preuve n'a pas réussi à démontrer la fausseté des présomptions du Ministre.
+[19] En ce qui concerne les alinéas niés par l'appelant, cette Cour n'a entendu aucune preuve et n'a lu aucun document qui puisse réfuter ou contredire de façon convaincante la teneur de ces alinéas. Il en est de même pour les alinéas auxquels l'appelant a voulu apporter certaines précisions.
+[20] La preuve présentée par l'appelant a apporté certains détails qui ont servi à corriger de façon mineure les présomptions sur lesquelles s'est appuyé le Ministre. Mais cette preuve n'aura servi qu'à apporter quelques correctifs qui, quoique pertinents, n'ont pas atteint le niveau requis pour en diminuer la portée.
+[21] L'appelant a demandé à la Cour d'intervenir et de renverser la décision du Ministre. Cependant, presque toutes les hypothèses du Ministre sont demeurées convaincantes en dépit de la preuve de l'appelant.
+[22] Il est vrai que cette Cour, dans certaines circonstances, a le pouvoir d'intervenir face à la décision discrétionnaire du Ministre exercée en vertu de l'alinéa 5(3)b) de la Loi, mais la Cour d'appel fédérale, dans l'arrêt Canada (Procureur général) c. Jencan Ltd. (C.A.), [1998] 1 C.F. 187, a délimité ce pouvoir en exposant les critères selon lesquels cette Cour peut intervenir, de la façon suivante :
+L'arrêt que notre Cour a prononcé dans l'affaire Tignish, ..., exige que, lorsqu'elle est saisie d'un appel interjeté d'une décision rendue par le ministre en vertu du sous‑alinéa 3(2)c)(ii), la Cour de l'impôt procède à une analyse à deux étapes. À la première étape, la Cour de l'impôt doit limiter son analyse au contrôle de la légalité de la décision du ministre. Ce n'est que lorsqu'elle conclut que l'un des motifs d'intervention est établi que la Cour de l'impôt peut examiner le bien-fondé de la décision du ministre. Comme nous l'expliquerons plus en détail plus loin, c'est en limitant son analyse préliminaire que la Cour de l'impôt fait preuve de retenue judiciaire envers le ministre lorsqu'elle examine en appel les décisions discrétionnaires que celui-ci rend en vertu du sous-alinéa 3(2)c)(ii). Dans l'arrêt Tignish, notre Cour a, sous la plume du juge Desjardins, J.C.A., expliqué dans les termes suivants la compétence limitée qui est conférée à la Cour de l'impôt à cette première étape de l'analyse :
+Le paragraphe 7(1) de la Loi porte que la Cour de l'impôt a le pouvoir de décider toute question de fait et de droit. La requérante, qui en appelle du règlement du ministre, a le fardeau de prouver sa cause et a le droit de soumettre de nouveaux éléments de preuve pour réfuter les faits sur lesquels s'est appuyé le ministre. Toutefois, comme la décision du ministre est discrétionnaire, l'intimé fait valoir que la compétence de la Cour de l'impôt est strictement circonscrite. Le ministre est la seule personne qui puisse établir à sa satisfaction, compte tenu de toutes les circonstances, notamment la rémunération versée, les modalités d'emploi et l'importance du travail accompli, que la requérante et son employée sont réputées avoir entre elles un lien de dépendance. Souscrivant à l'arrêt Minister of National Revenue v. Wrights' Canadian Ropes Ltd., qui fait autorité, l'intimé prétend que, à moins que l'on établisse que le ministre n'a pas tenu compte de toutes les circonstances (comme il y est tenu aux termes du sous-alinéa 3(2)c)(ii) de la Loi), a pris en compte des facteurs dépourvus d'intérêt ou a violé un principe de droit, la Cour ne peut intervenir. En outre, la Cour a le droit d'examiner les faits qui, selon la preuve, se trouvaient devant le ministre quand il est arrivé à sa conclusion, pour décider si ces faits sont prouvés. Mais s'il y a suffisamment d'éléments pour appuyer la conclusion du ministre, la Cour n'a pas toute latitude pour l'infirmer simplement parce qu'elle serait arrivée à une conclusion différente. Toutefois, si la Cour est d'avis que les faits sont insuffisants, en droit, pour appuyer la conclusion du ministre, la décision de ce dernier ne peut tenir et la Cour est justifiée d'intervenir.
+[23] En regard de ce qui précède, en particulier de la preuve recueillie, des admissions de l'appelant et des contradictions entre la preuve à l'audition et les déclarations précédentes, cette Cour ne voit aucunement le bien-fondé d'une intervention de sa part.
+[24] L'appelant avait le fardeau de prouver sa cause et pouvait amener de nouveaux éléments de preuve pour réfuter les faits sur lesquels s'est appuyé le Ministre. Il ne l'a pas fait; ce fardeau, il ne s'en est pas acquitté.
+[25] En conséquence, l'appel est rejeté et la décision du Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de mars 2003.
+« S.J. Savoie »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI113
+No DU DOSSIER DE LA COUR :
+2001-3726(EI)
+INTITULÉ DE LA CAUSE :
+James Patterson et M.R.N.
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATE DE L'AUDIENCE :
+Le 1er novembre 2002
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge suppléant S.J. Savoie
+DATE DU JUGEMENT :
+Le 28 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Hugo Caissy
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Hugo Caissy
+Étude :
+Me Jean-François Roy
+Sainte-Anne-des-Monts (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

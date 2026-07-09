@@ -1,0 +1,131 @@
+---
+title: "Rupolo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29634/index.do"
+last_modified: "2010-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 68"
+citation2: ""
+neutral_citation: "2010 TCC 68"
+decision_date: "2010-02-03"
+language: "en"
+item_id: "29634"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6141
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:41:10.610000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a959815cb3768b60bd2b5beb6f27b640272b81341516f5b7f2379c25bd7393a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rupolo v. The Queen
+
+- Citation: 2010 TCC 68
+- Decision date: 2010-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6141, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rupolo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-03
+Neutral citation
+2010 TCC 68
+File numbers
+2009-1859(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-1859(GST)I
+BETWEEN:
+PASQUALE RUPOLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal called for hearing on January 29, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+John A. Milewski
+Counsel for the Respondent:
+Ricky Y.M. Tang
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act for the period from January 1, 2002 to December 31, 2005 is dismissed.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 3rd day of February 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 68
+Date: 20100203
+Docket: 2009-1859(GST)I
+BETWEEN:
+PASQUALE RUPOLO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Pasquale Rupolo, appeals an assessment made under the Excise Tax Act for the period from January 1, 2002 to December 31, 2005. The dispute relates to an assessment of net tax in the amount of $19,124.77 and penalties which total $13,049.30.
+[2] The appellant elected to have the appeal governed by the informal procedure.
+[3] On January 27, 2010, the representative of the appellant wrote to the Court seeking an adjournment of the hearing in order to obtain further information. On the same day, letters were sent to the Canada Revenue Agency requesting the relevant information.
+[4] The adjournment request was made two days before the appeal was scheduled to be heard. The respondent did not oppose the request.
+[5] The application came before the Chief Justice who denied the request on January 28, 2010.
+[6] On January 29, 2010, the appeal was called for hearing. At that time, the representative for the appellant renewed the request for an adjournment and he elaborated on the reasons why it was necessary. He indicated that he did not have the necessary supporting documentation available that day and that he required a short adjournment to obtain it.
+[7] The problem that I have with the request is that it appears that no effort was made to obtain this information in a timely manner. The representative indicated that he only became aware of certain facts when the respondent recently sent him documents in preparation for the hearing.
+[8] No satisfactory reason was given why this information had not been sought at an earlier stage. The respondent’s position was clearly set out in the reply which was filed by the respondent on July 29, 2009. Several months have gone by during which the appellant could have sought this information.
+[9] I would also note that counsel for the respondent indicated that he tried to discuss the appeal with the appellant’s representative about three weeks ago. It appears that he was not told about this problem.
+[10] In light of the above, there is not a sufficient justification for reversing the decision of the Chief Justice to deny the adjournment request. Taxpayers who wish to appeal assessments to the Tax Court of Canada should make every effort to be prepared on the day scheduled for their appeal: Paynter v. The Queen, 96 DTC 6578 (FCA); Solomons v. The Queen, 2003 DTC 505 (TCC). There is no indication that the appellant tried to prepare for the appeal in a timely fashion in this case.
+[11] The appellant’s representative submitted that he expected that the adjournment would be granted because counsel for the respondent had not opposed the request.
+[12] It is unfortunate if the representative presumed that the adjournment would be granted simply because it was not opposed. The Court has a duty to ensure the efficient operation of the judicial process. It is not sufficient for the parties to agree to an adjournment.
+[13] After the adjournment request was denied at the commencement of the hearing, the representative for the appellant was given an opportunity to present the appellant’s case. He indicated that he did not have a case to present.
+[14] In light of the above, the appeal should be dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 3rd day of February 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 68
+COURT FILE NO.: 2009-1859(GST)I
+STYLE OF CAUSE: PASQUALE RUPOLO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 3, 2010
+APPEARANCES:
+Agent for the Appellant:
+John A. Milewski
+Counsel for the Respondent:
+Ricky Y.M. Tang
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

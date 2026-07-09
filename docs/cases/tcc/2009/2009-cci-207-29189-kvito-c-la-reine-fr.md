@@ -1,0 +1,223 @@
+---
+title: "Kvito c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29189/index.do"
+last_modified: "2009-04-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 207"
+citation2: ""
+neutral_citation: "2009 CCI 207"
+decision_date: "2009-04-21"
+language: "fr"
+item_id: "29189"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6685
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:58:28.395000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5b7f6d1e34719011f5217a7a80a6b9dde7c60142dc90a03e1c3fff5966168d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kvito c. La Reine
+
+- Citation: 2009 CCI 207
+- Decision date: 2009-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6685, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kvito c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-21
+Référence neutre
+2009 CCI 207
+Numéro de dossier
+2008-3056(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3056(IT)I
+ENTRE :
+ELIANOR KVITO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 mars 2009, à Toronto (Ontario)
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Sharon Lee
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la décision relative à la Prestation fiscale canadienne pour enfant, selon la Loi de l'impôt sur le revenu, pour les années de base 2004 et 2005, est rejeté, conformément aux motifs du jugement ci‑joints.
+L’appel formé contre la décision relative au crédit pour taxe sur les produits et services, selon la Loi de l'impôt sur le revenu, pour les années d’imposition 2004 et 2005, est rejeté, conformément aux motifs du jugement ci‑joints.
+L’appel formé contre les nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 3e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 207
+Date : 20090421
+Dossier : 2008-3056(IT)I
+ENTRE :
+ELIANOR KVITO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Elianor Kvito interjette appel, selon la procédure informelle, de cotisations établies, et de décisions rendues, par le ministre du Revenu national (le ministre) pour les années d’imposition 2004 et 2005 ainsi que les années de base 2004 et 2005. Le point en litige est de savoir si l’appelante et un certain Irakli Kvitaishvili faisaient vie commune en tant que conjoints de fait de mai 2004 à la fin de l’année d’imposition 2005, aux fins de l’alinéa 118(1)b) de la Loi de l’impôt sur le revenu (la « Loi »), aux fins du crédit pour taxe sur les produits et services (« CTPS ») prévu dans l’article 122.5 de la Loi, et aux fins de la Prestation fiscale canadienne pour enfant (« PFCE ») prévue dans l’article 122.6 de la Loi.
+[2] Dans le calcul de la dette fiscale et du CTPS de l’appelante pour les années d’imposition 2004 et 2005, et le calcul de la PFCE pour les années de base 2004 et 2005, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante et Yosef Rafailov (Yosef) se sont mariés le 14 mars 2002 et vivent chacun de leur côté depuis le 5 mars 2004, suite à la rupture de leur mariage;
+b) l’appelante et Yosef ont obtenu une ordonnance de divorce le 4 avril 2006 de la Cour supérieure de l’Ontario, Division de la famille, dont la date de prise d’effet était le 5 mai 2006;
+c) l’appelante est la mère du [premier enfant], né le 26 novembre 1986, et du [deuxième enfant], né le 26 novembre 1987;
+d) l’appelante et Irakli Kvitaishvili (« Irakli ») sont les parents de [J.L.K.], né le 12 octobre 2002;
+e) l’appelante et Irakli vivaient ensemble en union de fait depuis mai 2004;
+f) à toutes les époques pertinentes durant les années d’imposition 2004 et 2005, depuis le début de la relation, l’appelante et Irakli vivaient ensemble au 205 Tower Hill Road, Richmond Hill, Ontario (le « domicile familial »);
+g) à toutes les époques pertinentes durant les années d’imposition 2004 et 2005, depuis le début de la relation, l’appelante et Irakli ne vivaient pas séparément pour cause d’échec de leur relation;
+h) à toutes les époques pertinentes durant les années d’imposition 2004 et 2005, depuis le début de la relation, l’appelante et Irakli partageaient ce qui suit, dans une relation conjugale ou relation assimilable à un mariage :
+- les dépenses et responsabilités domestiques;
+- les responsabilités économiques, y compris financières;
+- les responsabilités parentales;
+- les biens et ressources;
+- les liens sociaux et représentations sociales;
+i) à toutes les époques pertinentes depuis janvier 2004 et jusqu’au début de la relation, l’appelante n’habitait pas, seule ou avec une ou plusieurs autres personnes, un établissement domestique autonome où elle vivait avec [JLK] et où elle subvenait aux besoins de [JLK];
+j) à toutes les époques pertinentes durant l’année d’imposition 2004, depuis le début de la relation, [JLK] vivait avec l’appelante et Irakli au domicile familial;
+k) à toutes les époques pertinentes durant l’année d’imposition 2005, [JLK] vivait avec l’appelante et Irakli au domicile familial;
+l) à toutes les époques pertinentes durant l’année d’imposition 2004, depuis le début de la relation, l’appelante n’habitait pas, seule ou avec une ou plusieurs autres personnes, un établissement domestique autonome, distinct du domicile familial, où elle vivait avec [JLK] et où elle subvenait aux besoins de [JLK];
+m) à toutes les époques pertinentes durant l’année d’imposition 2005, l’appelante n’habitait pas, seule ou avec une ou plusieurs autres personnes, un établissement domestique autonome, distinct du domicile familial, où elle vivait avec [JLK] et où elle subvenait aux besoins de [JLK];
+n) [JLK] dépendait entièrement de l’appelante durant les années d’imposition 2004 et 2005;
+o) le revenu net de [JLK] pour les années d’imposition 2004 et 2005 respectivement était de zéro;
+OBJET : PFCE et CTPS
+p) à aucun moment durant les années d’imposition 2004 et 2005, depuis le début de la relation, l’appelante et Irakli n’ont vécu séparément, pour cause d’échec de leur relation, durant une période d’au moins 90 jours, ni durant ce nombre de jours;
+q) [le premier enfant] a atteint l’âge de 18 ans le 26 novembre 2004, et l’âge de 19 ans le 26 novembre 2005;
+r) [le deuxième enfant] a atteint l’âge de 18 ans le 26 novembre 2005,
+s) Irakli a réclamé et obtenu un CTPS au montant de 134 $, pour la période allant de juillet 2005 jusqu’à avril 2006, au titre de l’appelante, d’Irakli, du [deuxième enfant], de [JLK], et jusqu’à novembre 2005, au titre du [premier enfant];
+t) Irakli a réclamé et obtenu un CTPS au montant de 11,62 $, pour la période allant de juillet 2006 jusqu’à avril 2007, au titre de l’appelante, d’Irakli, de [JLK], et, jusqu’à novembre 2006, au titre du [deuxième enfant];
+u) les revenus nets de l’appelante pour les années d’imposition 2004 et 2005 ont été de 15 681 $ et de 4 825 $ respectivement;
+v) les revenus nets d’Irakli pour les années d’imposition 2004 et 2005 ont été de 26 317 $ et de 39 140 $ respectivement.
+[3] L’appelante a admis les sous-alinéas a), b), c), d), f), k), n), o), q), r) et u). Elle a ignoré les sous-alinéas t) et v), et elle a dénié le reste.
+[4] L’appelante est arrivée au Canada en 1996 avec son mari d’alors et leurs deux enfants mentionnés au sous-alinéa c) ci-dessus. Elle a plus tard divorcé de son mari et a épousé Yosef le 14 mars 2002. À la date de son mariage, l’appelante était enceinte de JLK depuis deux mois, et Irakli, également appelé Paul Kvito, était le père, comme l’a admis l’appelante. L’appelante et Yosef se sont séparés le 5 mars 2004. Un accord de séparation a été signé le 26 août 2004, et leur divorce est devenu officiel le 5 mai 2006.
+[5] L’appelante et ses trois enfants ont emménagé chez Irakli, sur Town Hill Road, vers la fin de 2003 ou le début de 2004, et ils y sont restés. Selon le témoignage de l’appelante, Yosef est allé vivre avec eux, mais il est parti au bout de quelques semaines seulement, et c’est à son retour en mars 2004 que l’idée d’une séparation leur est venue, séparation qui a finalement eu lieu. La maison comptait quatre chambres et toutes les commodités d’usage. Dans son témoignage, l’appelante a dit qu’Irakli venait à la maison une fois par semaine, mais, au début de son témoignage, elle avait dit que c’était deux ou trois fois par semaine et qu’il avait des liaisons. En 2005, elle est allée vivre dans une autre maison située sur Mapledown Way, qui appartenait également à Irakli. La pièce A-4 est un bail d’un an conclu entre l’appelante et Irakli pour cette autre maison, bail qui a pris effet le 1er mars 2005. Le bail, qui n’a été signé que le 1er mars 2006, prévoyait un loyer mensuel de 950 $. Un contrat à fin de bail portant sur le même bien et sur une autre période de 12 mois fut également signé par l’appelante et par Irakli le 1er mars 2006. Le loyer indiqué dans le contrat est de 780 $ par mois. Nonobstant le bail et le contrat à fin de bail, Irakli (Paul) vivait lui aussi dans la maison.
+[6] La pièce A-6 indique les opérations bancaires faites par l’appelante du 21 octobre 2005 au 16 mars 2006. L’appelante a mis en relief ses paiements de loyer du 1er novembre 2005, du 1er décembre 2005 et du 5 janvier 2006. C’étaient des paiements de 750 $. Aucun paiement semblable n’était souligné ou n’a été effectué pour février et mars 2006. L’appelante n’a pu expliquer l’écart que présentait le loyer, si ce n’est pour dire que le loyer était parfois réduit parce que ses fils tondaient le gazon ou enlevaient la neige de l’allée.
+[7] L’appelante a dit que c’est elle qui payait l’alimentation de sa famille, mais qu’elle invitait parfois Irakli à se joindre à la famille pour un repas. Elle n’a pas donné de détails sur les autres arrangements financiers concernant les frais de subsistance. L’appelante avait son propre compte bancaire et était propriétaire de sa voiture.
+[8] En contre-interrogatoire, on a appris qu’Irakli avait vécu avec l’appelante et sa famille, chez l’appelante, avant même qu’elle et ses enfants n’emménagent dans la maison d’Irakli. Elle a admis que, au départ, il n’y avait pas de bail et pas de relation propriétaire-locataire. Dans son avis d’opposition, l’appelante écrivait que sa famille et Irakli (Paul) avaient vécu ensemble depuis 2001, sauf durant la période où elle était avec Yosef, lequel a quitté les lieux en 2004.
+[9] Le revenu déclaré de l’appelante en 2004 et 2005 est de 24 840 $ et 4 893 $ respectivement. Elle a témoigné qu’elle payait tout elle-même et que, lorsqu’elle était à court d’argent, ses frères et sœurs lui en prêtaient. Selon l’appelante, Irakli se comportait envers son fils comme s’il était son meilleur ami. Elle a dit qu’il ne subvenait aucunement aux besoins de son fils et qu’il n’en assurait pas la garde. Elle conduisait le garçon à l’école et elle en était l’unique responsable.
+[10] Dans ses déclarations de revenu de 2004 et 2005, Irakli écrivait, sous la rubrique « état civil », qu’il était marié avec l’appelante. L’adresse indiquée est la même que celle de l’appelante, et son revenu déclaré servait à faire les calculs se rapportant au CTPS et à la PFCE de l’appelante.
+[11] L’expression « conjoint de fait » est ainsi définie dans la Loi de l’impôt sur le revenu :
+« conjoint de fait », Quant à un contribuable à un moment donné, personne qui, à ce moment, vit dans une relation conjugale avec le contribuable et qui, selon le cas :
+a) a vécu ainsi tout au long d’une période d’un an se terminant avant ce moment;
+b) est le père ou la mère d’un enfant dont le contribuable est le père ou la mère, compte non tenu des alinéas 252(1)c) et e) ni du sous-alinéa 252(2)a)(iii),
+...
+[12] De nombreux facteurs peuvent être pris en compte pour savoir ce qu’est un conjoint de fait, ou pour savoir si une personne vit avec une autre dans une relation conjugale. Ces facteurs, que l’on peut trouver dans maintes décisions de la Cour (voir Milot v. R., [1996] 1 C.T.C. 2247, Kelner c. Canada, [1995] A.C.I. n° 1130 (QL), Roby c. Canada, [2001] A.C.I. n° 801 (QL)) sont les suivants :
+1. Logement :
+a) Les intéressés vivaient-ils sous le même toit?
+b) Couchaient-ils dans le même lit?
+c) Y avait-il quelqu'un d'autre qui habitait chez eux?
+2. Comportement sexuel et personnel :
+a) Les intéressés avaient-ils des rapports sexuels? Si non, pourquoi?
+b) Étaient-ils fidèles l'un à l'autre?
+c) Quels étaient leurs sentiments l'un pour l'autre?
+d) Existait-il une bonne communication entre eux sur le plan personnel?
+e) Prenaient-ils leurs repas ensemble?
+f) Que faisaient-ils pour s'entraider face aux problèmes ou à la maladie?
+g) S'offraient-ils des cadeaux à des occasions spéciales?
+3. Services :
+Comment les intéressés agissaient-ils habituellement en ce qui concerne :
+a) la préparation des repas;
+b) le lavage et le raccommodage des vêtements;
+c) les courses;
+d) l'entretien du foyer;
+e) les autres services ménagers?
+4. Relations sociales :
+a) Les intéressés participaient-ils ensemble ou séparément aux activités du quartier et de la collectivité?
+b) Quelle était la nature des rapports de chacun d'eux avec les membres de la famille de l'autre et comment agissaient-ils envers ces derniers, et inversement, quel était le comportement de ces familles envers les intéressés?
+5. Attitude de la société :
+Quelle attitude et quel comportement la collectivité avait-elle envers les intéressés, considérés individuellement et en tant que couple?
+6. Soutien (économique) :
+a) Quelles dispositions financières les intéressés prenaient-ils pour ce qui était de fournir les choses nécessaires à la vie (vivres, vêtements, logement, récréation, etc.) ou de contribuer à les fournir?
+b) Quelles dispositions prenaient-ils relativement à l'acquisition et à la propriété de biens?
+c) Existait-il entre eux des arrangements financiers particuliers que tous deux tenaient pour déterminants quant à la nature de leurs relations globales?
+7. Enfants
+Quelle attitude et quel comportement les intéressés avaient-ils à l'égard des enfants?
+[13] Puisque l’appelante et Irakli vivent sous le même toit, je crois utile de citer le passage suivant de la décision rendue par le juge en chef adjoint Bowman (tel était alors son titre) dans l’affaire Roby, précitée :
+[7] Dans l'affaire Kelner c. La Reine, [1996] 1 C.T.C. 2687, j'ai passé en revue la jurisprudence qui existe dans ce domaine et j'ai conclu qu'il était possible que des époux vivent « séparés » tout en demeurant sous le même toit. Cette proposition est inattaquable sur le plan du droit, mais, sur le plan des faits, il est toujours nécessaire de produire une preuve convaincante. Dans les affaires Rangwala c. La Reine, [2000] 4 C.T.C. 2430, et Raghavan c. La Reine, [2001] 3 C.T.C. 2218, la juge Campbell en est arrivée à la même conclusion.
+[8] On ne fait certainement pas erreur en prenant comme point de départ la décision rendue par le juge Holland dans l'affaire Cooper v. Cooper (1972), 10 R.F.L. 184 (H.C. de l'Ont.), où il a déclaré à la page 187 :
+[traduction] Peut-on dire que les parties en cause en l'espèce vivent séparées? Nul doute que des époux qui vivent sous le même toit peuvent aussi vivre séparés l'un de l'autre dans les faits. Le problème a souvent été examiné dans le cadre de litiges fondés sur le sous-alinéa 4(1)e)(i) de la Loi sur le divorce, et, généralement parlant, les juges en sont arrivés à la conclusion que les parties vivaient séparées lorsque les circonstances suivantes étaient présentes :
+(i) Les conjoints occupent des chambres à coucher distinctes.
+(ii) Les conjoints n'ont pas de relations sexuelles.
+(iii) Il y a peu de communication entre les conjoints, pour ne pas dire aucune.
+(iv) La femme n'effectue pas de travaux ménagers pour le mari.
+(v) Les conjoints prennent leur repas séparément.
+(vi) Les conjoints n'ont pas d'activités sociales communes.
+Voir les affaires Rushton v. Rushton (1968), 1 R.F.L. 215, 66 W.W.R. 764, 2 D.L.R. (3d) 25 (C.-B.); Smith v. Smith (1970), 2 R.F.L. 214, 74 W.W.R. 462 (C.-B.); Mayberry v. Mayberry, [1971] 2 O.R. 378, 2 R.F.L. 395, 18 D.L.R. (3d) 45 (C.A.).
+[9] La juge Campbell et moi-même avons tous deux considéré que ces critères constituent un guide utile, quoiqu'ils ne soient nullement exhaustifs et qu'aucun d'eux ne soit déterminant. Je suis enclin à souscrire aux observations formulées par le juge Wilson dans l'affaire Macmillan-Dekker v. Dekker, 4 août 2000, dossier 99-FA-8392, et citées par la juge Campbell dans l'affaire Rangwala, à la page 7 (C.T.C. : aux pages 2435 et 2436) :
+[traduction] Se basant sur une synthèse de la jurisprudence, la Cour a établi une liste faisant état de sept facteurs à utiliser pour déterminer si une union conjugale existe ou existait. Ces questions d'organisation permettent au juge présidant un procès de voir la relation globalement pour déterminer si les parties vivaient ensemble comme conjoints. Le fait de tenir compte de ces sept facteurs permettra d'éviter que l'accent soit mis à tort sur un facteur à l'exclusion d'autres facteurs et de faire en sorte que tous les facteurs pertinents soient pris en considération.
+[...]
+Je conclus qu'il n'y a pas un seul et unique modèle statique d'union conjugale ou de mariage. Il y a plutôt un groupe de facteurs reflétant la diversité des unions conjugales et mariages qui existent dans la société canadienne moderne. Chaque cas doit être examiné selon les faits objectifs qui lui sont propres.
+[10] Tenant donc compte du fait qu'aucun facteur ne doit l'emporter sur les autres et que c'est la relation globale qui est en dernière analyse l'élément déterminant, peut-on dire que les époux en l'espèce vivaient séparés pour cause d'échec de leur mariage?
+[14] Dans un cas comme celui que j’ai devant moi, où deux personnes vivent sous le même toit, il importe que la preuve produite soit convaincante, et c’est sur l’appelante seule que repose la charge de la preuve. Elle doit établir, selon la prépondérance des probabilités, qu’elle ne cohabitait pas avec Irakli (Paul) dans une relation conjugale durant la période visée par le présent appel.
+[15] Il appert de la preuve que l’appelante a vécu avec Irakli sous le même toit depuis au moins 2001, et cela à trois endroits différents. La preuve montre aussi qu’Irakli est le père de JLK, qui porte le nom de famille d’Irakli et a vécu avec son père depuis sa naissance, y compris durant les deux années d’imposition en cause. Lorsque l’appelante s’est séparée de son second mari, elle est allée vivre chez Irakli avec ses trois enfants, et plus tard a emménagé encore une fois avec les enfants dans une autre maison appartenant à Irakli.
+[16] Il ressort clairement aussi de la preuve qu’Irakli utilise la même adresse que l’appelante dans ses déclarations de revenu et qu’il indique en outre dans lesdites déclarations qu’il est marié avec l’appelante. Les hypothèses de fait, indiquées dans les sous-alinéas s), t) et v) de la réponse, doivent être tenues pour avérées, car l’appelante n’a produit aucune preuve pouvant m’amener à conclure autrement. Je ne puis ignorer le fait qu’Irakli n’a pas été appelé à témoigner par l’appelante. Son témoignage aurait sans aucun doute aidé la Cour à éclaircir ce point, et je ne puis qu’en déduire que tel témoignage n’aurait pas été favorable à l’appelante.
+[17] L’appelante a fait valoir qu’Irakli ne lui apportait aucun soutien financier, mais il se trouve qu’il assurait un toit à l’appelante et à ses enfants, y compris à son fils à lui, et il semble avoir assumé certaines responsabilités en tant que père, puisque c’est lui qui a réclamé le CTPS et la PFCE pour les années en cause.
+[18] Les contradictions de l’appelante dans son témoignage à propos du loyer réel qu’elle payait et concernant la question de savoir si le premier bail existait véritablement, étant donné qu’il a été signé un an après sa supposée prise d’effet, ont pour résultat de mettre en doute son témoignage. En outre, on ne peut s’empêcher de se demander comment elle pouvait, compte tenu du revenu qu’elle déclarait, être l’unique pourvoyeuse pour elle-même et ses trois enfants.
+[19] La preuve ne m’autorise pas à conclure que l’appelante et Irakli n’étaient pas des conjoints de fait. Les décisions du ministre sont donc fondées, et les appels sont rejetés.
+Signé à Ottawa, Canada, ce 21e jour d’avril 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 3e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 207
+N° DU DOSSIER DE LA COUR : 2008-3056(IT)I
+INTITULÉ : Elianor Kvito c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 21 avril 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Sharon Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

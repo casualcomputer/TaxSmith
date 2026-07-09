@@ -1,0 +1,211 @@
+---
+title: "Trojan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22421/index.do"
+last_modified: "2006-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 2"
+citation2: ""
+neutral_citation: "2006 CCI 2"
+decision_date: "2006-01-05"
+language: "fr"
+item_id: "22421"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2278
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:59:51.757000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3292aefbb020a63109f6e13c8f8f4a31faa2be7862e9506b1a75aa588f851cdf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trojan v. The Queen
+
+- Citation: 2006 CCI 2
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2278, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trojan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-05
+Référence neutre
+2006 CCI 2
+Numéro de dossier
+2004-4408(IT)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4408(IT)I
+ENTRE :
+DARWIN M. TROJAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Toronto (Ontario), le 5 mai 2005
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jonathon Penney
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1991, 1992, 1993, 1994 et 1995 sont admis, avec dépens s'il y a lieu, et les nouvelles cotisations sont annulées.
+Signé à Toronto (Ontario), ce 5e jour de janvier 2006.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 23e jour d'octobre 2006.
+Christian Laroche, LL.B.
+Référence : 2006CCI2
+Date : 20060105
+Dossier : 2004-4408(IT)I
+ENTRE :
+DARWIN M. TROJAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Il s'agit d'un appel interjeté à l'encontre de nouvelles cotisations d'impôt visant les années d'imposition 1991, 1992, 1993, 1994 et 1995. L'appel a été introduit sous le régime de la procédure informelle.
+[2] Dans sa réponse à l'avis d'appel, l'intimée fait valoir ce qui suit :
+[TRADUCTION]
+Dans le calcul de son revenu pour les années d'imposition 1991, 1992, 1993 et 1995, l'appelant a déduit des pertes d'entreprise de 20 161,00 $, 24 757,00 $, 24 260,00 $ et 16 117,00 $ respectivement, et il a déduit des frais de bureau à domicile de 6 922,00 $, 6 936,00 $, 8 766,00 $ et néant, respectivement. Dans le calcul de son revenu pour l'année d'imposition 1994, l'appelant a déduit une perte d'entreprise de 21 969,00 $, des frais de bureau à domicile de 5 710,00 $ et une perte locative de 5 653,00 $.
+[3] Le ministre du Revenu national (le « ministre » ) a établi une nouvelle cotisation d'impôt pour les années d'imposition 1991, 1992 et 1993. Il a refusé les pertes d'entreprise ainsi que les frais de bureau à domicile et il a imposé des pénalités en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[4] Le ministre a établi une nouvelle cotisation d'impôt pour l'année d'imposition 1994. Il a refusé la perte d'entreprise, la perte locative et les frais de bureau à domicile. Il a imposé une pénalité en application du paragraphe 163(2) de la Loi.
+[5] Le ministre a établi une nouvelle cotisation d'impôt pour l'année d'imposition 1995. Il a refusé les pertes d'entreprise (de deux sources) et il a imposé une pénalité en application du paragraphe 163(2) de la Loi.
+[6] Le présent appel vise ces nouvelles cotisations. À l'audience, l'avocat de l'intimée a admis que l'appelant avait le droit de déduire les frais de bureau à domicile qu'il a demandés pour les années d'imposition 1991 à 1994.
+[7] Ni les avis de cotisation initiaux ni les avis de nouvelles cotisations n'ont été produits à l'audience. Les dates des nouvelles cotisations n'ont pas été révélées. Cependant, l'intimée a affirmé ce qui suit au paragraphe 13 de la réponse à l'avis d'appel :
+[TRADUCTION]
+13. Lorsqu'il a produit ses déclarations de revenus pour les années d'imposition 1991, 1992, 1993, 1994 et 1995, l'appelant a fait des assertions inexactes quant à son revenu total puisqu'il a demandé la déduction pour pertes d'entreprise non admise, la déduction pour pertes locatives non admise et la déduction pour frais de bureau à domicile non admise, déclarant ainsi un revenu moindre que celui réellement gagné pendant ces années. Il s'agit de présentations erronées des faits par omission volontaire ou, subsidiairement, par inattention ou négligence.
+Il a soulevé la question suivante au paragraphe 14 de la réponse à l'avis d'appel :
+[TRADUCTION]
+14. [...] si le ministre a ou non établi, à juste titre, de nouvelles cotisations pour les années d'imposition 1991, 1992, 1993, 1994 et 1995 après l'expiration de la période normale de nouvelle cotisation applicable, suivant le paragraphe 152(4) de la Loi; [...]
+[8] Le sous-alinéa 152(4)a)(i) de la Loi est ainsi rédigé :
+(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[...]
+[9] L'énoncé de droit classique touchant au fardeau de la preuve dans les appels visant de nouvelles cotisations établies après l'expiration de la période normale de nouvelle cotisation applicable au contribuable se trouve dans les propos suivants tenus par le juge Cameron dans la décision M.N.R. v. M. Taylor, [1961] C.T.C. 211, à la page 214 :
+[TRADUCTION]
+Après avoir examiné très attentivement la question, j'en suis arrivé à la conclusion que, dans tout appel qui est interjeté soit devant la Commission de révision de l'impôt soit devant la présente cour, à propos d'une nouvelle cotisation établie après l'expiration du délai de prescription fixé par la loi, et qui est fondé sur une fraude ou une présentation erronée des faits, c'est au ministre qu'il incombe d'établir le premier, à la satisfaction de la Cour, que le contribuable (ou la personne qui a produit la déclaration) a « fait une présentation erronée des faits ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi » , sauf si le contribuable, dans les actes de procédure, dans son avis d'appel (ou, s'il s'agit d'une partie intimée devant la présente cour, dans sa réponse à l'avis d'appel) ou à l'audition de l'appel, a admis avoir commis une telle fraude ou fait une telle présentation erronée des faits. Lorsque le ministre établit une nouvelle cotisation après l'expiration du délai prévu à cette fin, il faut considérer qu'il allègue qu'il y a eu présentation erronée des faits ou fraude et, si c'est le cas, il est tenu d'en faire la preuve. [Non souligné dans l'original.]
+[10]Dans son avis d'appel, l'appelant n'a nullement fait allusion à la question de savoir si les nouvelles cotisations étaient prescrites. Or, la règle énoncée dans la décision Taylor (précitée) selon laquelle l'intimée doit « établir la première » la présentation erronée des faits paraît, à tout le moins à première vue, avoir été modifiée par la Cour d'appel fédérale dans l'arrêt Naguib c. Canada, 2004 CAF 40, où le juge Sexton mentionne :
+[...] Mais le ministre, comme tout autre plaideur, n'est jamais tenu de répondre à une allégation qui n'a pas été faite et on a beau lire l'avis d'appel du contribuable pour trouver une allégation que l'avis de cotisation était nul parce que prescrit.
+Cette affirmation a toutefois été faite dans le cadre d'une affaire où le contribuable avait soulevé, pour la première fois pendant l'appel devant la Cour d'appel, le défaut de l'intimé de présenter des éléments de preuve établissant que les exigences du sous-alinéa 152(4)a)(i) avaient été remplies. L'affaire Naguib diffère de la présente situation en ce que l'intimée a reconnu dès le début qu'il lui incombait de prouver la fraude ou la présentation erronée des faits. En réalité, l'intimée a renoncé à invoquer le défaut de l'appelant d'alléguer dans un acte de procédure qu'il s'appuyait sur le sous-alinéa 152(4)a)(i) et, après tout, le paragraphe 18.15(1) de la Loi sur la Cour canadienne de l'impôt donne une latitude appréciable aux contribuables qui choisissent la procédure informelle. À mon avis, la présente affaire intéresse l'alinéa 152(4)a).
+[11]Il est bien établi en droit qu'il importe, lorsque la fraude ou une présentation erronée des faits est invoquée, de fournir des précisions complètes dans les actes de procédures. Ces derniers doivent comporter trois éléments essentiels :
+(i) la présentation des faits;
+(ii) le fait que cette présentation a eu lieu;
+(iii) son caractère erroné.
+[12]En l'espèce, l'affaire a été instruite après la production d'une réponse qui était loin de satisfaire à une quelconque norme raisonnable. Les précisions relatives aux présumées fausses assertions ayant donné lieu aux présentations erronées touchant le revenu total tel qu'il est allégué au paragraphe 13 de la réponse n'ont pas été fournies. L'omission de l'intimée de donner des précisions suffisantes dans un acte de procédure a placé l'appelant dans une situation nettement défavorable pour contester les allégations formulées contre lui.
+[13]Le seul indice donnant une idée des particularités des présumées présentations erronées des faits se trouve au paragraphe 11 de la réponse, et notamment à l'alinéa (h). Les hypothèses de fait avancées dans l'acte de procédure au sujet du revenu tiré d'une entreprise sont les suivantes :
+[TRADUCTION]
+a) le ou vers le 16 juin 1992, l'appelant a enregistré Trojan Environmental Consultants ( « Trojan Environmental » ) auprès du ministère de la Consommation et du Commerce;
+b) pour les années d'imposition 1991, 1992, 1993, 1994 et 1995, l'appelant a déclaré des revenus et déduit des dépenses concernant Trojan Environmental de la façon suivante :
+Année Revenu Dépenses
+1991 Néant 20 161,00 $
+1992 3 577,00 $ 28 328,00 $
+1993 1 780,00 $ 26 041,00 $
+1994 1 810,00 $ 23 799,00 $
+1995 1 825,00 $ 5 445,00 $;
+c) en octobre 1995, l'appelant a cessé d'exploiter l'entreprise et, en mars 1995, il a lancé une entreprise appelée Landcrusher Off-Road ( « Landcrusher » );
+d) Landcrusher consistait en une société en nom collectif dont l'appelant était propriétaire à 50 p. 100;
+e) en 1995, Landcrusher a déclaré des revenus de 545,00 $ et a déduit des dépenses de 19 606,00 $, ce qui a donné lieu à une perte de 19 061,00 $, dont la part de 50 p. 100 de l'appelant s'élevait à 9 530,00 $;
+f) les livres et registres de Trojan Environmental et de Landcrusher étaient fragmentaires et incomplets;
+g) on a conclu que les reçus fournis par l'appelant à l'appui des dépenses d'entreprise de Trojan Environmental et de Landcrusher visaient principalement des frais personnels;
+h) pour les années d'imposition 1991, 1992, 1993, 1994 et 1995, les dépenses d'entreprise déduites relativement à Trojan Environmental et à Landcrusher (les « dépenses d'entreprise non admises » ) n'ont pas été faites ou engagées ou, si elles ont été faites ou engagées, elles ne l'ont pas été en vue de tirer un revenu d'une entreprise ou d'un bien;
+i) pour les années d'imposition 1991, 1992, 1993, 1994 et 1995, les dépenses d'entreprise non admises consistaient en des dépenses personnelles ou des frais de subsistance de l'appelant.
+[14]Les hypothèses de faits avancées dans un acte de procédure au sujet du revenu de location sont ainsi libellées :
+[TRADUCTION]
+j) en 1994, l'appelant a déclaré un revenu de location de 1 800,00 $, déduit des frais de location de 7 453,00 $ et déduit une perte locative de 5 635,00 $ relativement au 31, croissant Carruthers, à Barrie, en Ontario ( « 31, croissant Carruthers » );
+k) à toutes les époques pertinentes, le 31, croissant Carruthers constituait la principale résidence de l'appelant;
+l) en 1994, l'appelant a affirmé avoir loué une partie du 31, croissant Carruthers à sa belle-soeur pendant huit mois de cette année-là;
+m) l'appelant a déduit 40,6 p. 100 des coûts d'entretien du 31, croissant Carruthers à titre de frais de location;
+n) pour l'année d'imposition 1994, l'appelant n'a pas exercé d'activités de location;
+o) pour l'année d'imposition 1994, les frais de location engagés par l'appelant relativement à ses activités de location étaient nuls;
+p) pour l'année d'imposition 1994, les frais de location déduits par l'appelant relativement au 31, croissant Carruthers (les « frais de location non admis » ) n'ont pas été engagés ou, s'ils ont été engagés, ils ne l'ont pas été en vue de tirer un revenu d'une entreprise ou d'un bien;
+Les alinéas n) et p) en particulier évoquent de façon vague et générale la fraude ou les présentations erronées des faits quant au revenu de location que l'intimée souhaitait établir.
+[15]Les allégations formulées dans un acte de procédure par l'intimée équivalent donc à une assertion voulant que l'ensemble des dépenses d'entreprise et des frais de location déduits ait appartenu à l'une ou l'autre de deux catégories :
+a) ceux qui n'ont pas été engagés du tout;
+b) ceux qui ont été engagés, mais non pas en vue de tirer un revenu.
+On ne tente pas, dans l'acte de procédure, de répartir les dépenses déduites entre les deux catégories.
+[16]L'intimée a appelé un témoin, James Donald Kerr, vérificateur et enquêteur travaillant à l'Agence du revenu du Canada.
+[17]M. Kerr a produit des photocopies d'états des résultats de Trojan Environmental Consultants ( « TEC » ) pour les années d'imposition 1992, 1993, 1994 et 1995. Il a produit des états analogues relatifs à Landcrusher Off-Road pour la période allant du 1er mars 1995 au 31 décembre 1995. Ces états font partie des déclarations de revenus de l'appelant pour ces années. Les autres déclarations de revenus visant ces années n'ont pas été produites.
+[18]M. Kerr n'a pas produit de document semblable pour 1991, en vue d'établir les présentations de faits que l'appelant a faites dans sa déclaration de revenus pour 1991, en ce qui concerne la perte d'entreprise et les éléments de cette perte. Au lieu de cela, il a produit un imprimé d'ordinateur d'une feuille de données de Revenu Canada qui, selon ses dires, montre ligne par ligne les sommes indiquées dans la déclaration de revenus de l'appelant pour l'année 1991. L'imprimé, la pièce R-8, est obscur. Il est peu utile pour établir les particularités des assertions ou des présentations erronées des faits qui figurent dans la déclaration de revenus de l'appelant. Cet imprimé paraît seulement préciser que le revenu d'entreprise net déclaré consistait en une perte de 31 693,00 $. Ce document est loin de suffire comme preuve des présentations que l'appelant est censé avoir faites au sujet de ses dépenses d'entreprise pour l'année 1991.
+[19]Dans son témoignage, M. Kerr a mentionné que l'appelant lui avait remis des documents à l'appui de ses dépenses de TEC déduites pour les années 1992, 1993 et 1994. C'est l'analyse de ces documents par M. Kerr qui a incité le ministre à conclure que les dépenses d'entreprise déduites par l'appelant pour ces trois années n'avaient pas du tout été engagées.
+[20]Au nombre des documents produits par l'appelant à l'appui des déductions au titre des dépenses qu'il a demandées pour l'année 1992 se trouvent des reçus numérotés de deux vendeurs différents. L'un de ces reçus, délivré par une entreprise appelée Copies for Less, portait le numéro 12050. Un deuxième reçu délivré par une autre entreprise, Simcoe Used Office Supplies, portait le numéro 12021. M. Kerr a affirmé qu'après vérification auprès de Grand & Toy, il avait appris que cette entreprise vendait de tels carnets de reçus en série de cinquante. Ce renseignement paraît avoir mené M. Kerr à supposer que les deux reçus provenaient du même carnet de reçus et n'avaient pas été remis par les vendeurs mentionnés. M. Kerr a signalé que d'autres reçus, numérotés de 12001 à 12050, ont également été portés aux dépenses par l'appelant.
+[21]M. Kerr n'était pas qualifié pour rendre témoignage à titre d'expert. En outre, ce qu'une quelconque personne lui a dit chez Grand & Toy n'est que du ouï-dire et ne constitue par une preuve digne de foi de la véracité d'assertions faites par une ou plusieurs personnes inconnues. Je n'accepte pas les conclusions de M. Kerr fondées sur la numérotation des carnets de reçus. On n'a pas laissé entendre que la personne avec laquelle M. Kerr a parlé chez Grand & Toy n'était pas disponible pour témoigner.
+[22]M. Kerr a affirmé qu'il avait tenté de vérifier si les entreprises Copies for Less et Simcoe Used Office Supplies existaient vraiment et qu'il n'avait pu découvrir aucun élément en ce sens. Il a ajouté qu'il avait vérifié dans un annuaire des entreprises, une base de données informatique sur la TPS et un annuaire téléphonique. Il n'a pas témoigné quant à la portée, notamment géographique, des bases de données examinées ni quant à la période couverte par ces dernières. La preuve est incomplète et ne peut, à mon avis, suffire à prouver, selon la prépondérance de la preuve, que les entreprises nommées sur les reçus n'existaient pas au moment où ceux-ci sont censés avoir été délivrés.
+[23]M. Kerr a déclaré que la première chose qui l'avait incité à examiner plus attentivement les factures était les caractères dactylographiques utilisés pour libeller certains de ces documents. Il a affirmé que les caractères figurant sur un reçu qui avait apparemment été délivré par James Business Equipment en février 1992 correspondaient aux caractères employés dans les déclarations de revenus de 1994 et 1995 de l'appelant. À mon sens, cette assertion constitue l'expression d'une opinion formulée par un témoin au sujet duquel rien ne prouve qu'il possédait des connaissances spécialisées dans le domaine de l'identification de l'origine de documents par l'analyse des caractères dactylographiques qui s'y trouvent. Le travail effectué par M. Kerr n'est pas du ressort des détectives amateurs. L'analyse des marques dactylographiques faite par M. Kerr ne peut être considérée comme digne de foi.
+[24]M. Kerr a ensuite produit des doubles d'une grande quantité de reçus qui, selon ses dires, lui aurait été prêtés par l'appelant pour étayer les réclamations au titre des frais de repas et de divertissement. Certains des reçus concernent la présence à des réunions de l'Ontario Municipal Health and Safety Representatives Association ( « OMHSRA » ). Dans son témoignage, M. Kerr a mentionné qu'il avait communiqué avec l'OMHSRA pour vérifier si les personnes ayant apparemment signé les reçus étaient membres de cet organisme et qu'on lui aurait répondu que ce n'était pas le cas. Il m'est impossible de me fonder sur de la preuve par ouï-dire dont la fiabilité ne peut être vérifiée pour conclure que ces reçus consistaient en des inventions frauduleuses. Je signale que l'avocat de l'intimée n'a pas laissé entendre que le représentant de l'OMHSRA consulté par M. Kerr n'était pas disponible pour témoigner. Les éléments de preuve pour établir un fait aussi grave que la fraude doivent avoir un caractère beaucoup plus probant que ceux qui précèdent.
+[25]M. Kerr a contesté les autres reçus que lui a prêtés l'appelant pour étayer ses les dépenses afférentes à TEC. Dans ce cas, les reçus ont été délivrés sous le nom de « Ontario Health & Safety Consultants » . M. Kerr a tenté, sans succès, de trouver un organisme de ce nom dans la base de données de Revenu Canada, dans un annuaire des entreprises non précisé ainsi que dans un annuaire téléphonique. Aucun élément de preuve ne permettait de connaître la portée géographique de la recherche, la période visée par celle-ci ni la portée de la base de données elle-même. Je ne suis pas convaincu que la recherche était suffisamment approfondie pour me justifier de conclure qu'Ontario Health & Safety Consultants n'existait pas pendant la période visée par les reçus. Pour que les résultats obtenus à la suite de recherches dans des bases de données soient considérés dignes de foi, il est essentiel que la portée de ces bases de données soit établie.
+[26]M. Kerr a refusé les déductions demandées au titre du coût afférent aux cadeaux. Les dépenses étaient étayées par la production de rubans de caisse enregistreuse. M. Kerr a signalé que ni le donataire ni les fins commerciales sous-jacentes aux cadeaux n'étaient révélés par les rubans de caisse enregistreuse. Il a ajouté : [TRADUCTION] « Et ils éveillaient des soupçons parce que tout semblait s'être passé aux environs de Noël » . Des soupçons de fraude n'équivalent pas à une preuve de fraude. M. Kerr semble avoir inversé le fardeau de la preuve. Comme il est mentionné plus haut, il incombe à l'intimée, et non pas à l'appelant, d'établir la fraude ou la présentation erronée des faits.
+[27]Une tentative analogue d'inversion du fardeau de la preuve paraît sous-tendre le refus que M. Kerr a opposé aux autres déductions demandées, comme les déductions relatives aux frais de laboratoire énumérés sur du papier à en-tête de TEC figurant sur la pièce R-20, les reçus pour la distribution de circulaires figurant aussi sur la pièce R-20 et la déduction pour frais de réparations d'automobile figurant sur la pièce R-22. Il appartient à l'intimée de montrer que les dépenses présentées comme des dépenses faites à des fins commerciales n'ont pas été engagées ou, si elles l'ont été, qu'elles ont servi à des fins non commerciales. La preuve en l'espèce n'établit pas ce fait.
+[28]Dans son témoignage, M. Kerr a déclaré que seule une facture prêtée par l'appelant pouvait être jugée légitime. Cela ne prouve guère une présentation erronée des faits. Il aurait été davantage pertinent que M. Kerr soit en mesure d'établir, à l'aide d'éléments de preuve dignes de foi, que toutes les factures empruntées à l'appelant, sauf une, étaient sans fondement. Or, il n'a pas réussi à faire cette preuve. Quitte à me répéter, il incombait à l'intimée de prouver que le ministre avait satisfait aux exigences fixées au sous-alinéa 152(4)a)(i).
+[29]La plupart des éléments de preuve relatifs à la fraude ou à la présentation erronée des faits visant l'année 1993 étaient insuffisants pour l'une ou plusieurs des raisons qui m'ont incité à rejeter la preuve touchant l'année 1992. Dans certains cas, la thèse de l'intimée reposait sur l'inversion du fardeau de la preuve. Dans d'autres, la preuve consistait en du ouï-dire. Je renvoie à la preuve relative aux affirmations faites par des tiers au sujet de l'identité des personnes qui ont apparemment signé les reçus invoqués par l'appelant. Une partie de la preuve relative à l'année 1993 concernait les caractères dactylographiques, alors que M. Kerr n'était pas qualifié pour émettre une opinion sur ce point. Une fois de plus pour l'année 1993, M. Kerr s'est appuyé sur des recherches dans des bases de données, mais il n'a pas été prouvé que celles-ci pouvaient vraisemblablement contenir les listes de renseignements susceptibles d'être pertinentes en l'espèce.
+[30]Une partie de la preuve relative à la fraude ou à la présentation erronée des faits pour 1993 était peu convaincante pour d'autres raisons. Par exemple, M. Kerr a refusé une déduction au titre du salaire versé à l'épouse de l'appelant, parce que Mme Trojan a omis de déclarer le salaire dans sa déclaration de revenus. Son omission de déclarer le salaire ne permet pas de tirer une inférence selon laquelle ce salaire n'a pas été payé. Mme Trojan n'a pas été appelée à témoigner et on n'a pas laissé entendre qu'elle n'était pas disponible.
+[31]La preuve produite par l'intimée était davantage convaincante dans le cas de deux billets pour un concert de musique rock présentés au soutien d'une déduction demandée pour l'année 1994 au titre de frais de divertissement. Les billets portaient la mention « comp » . M. Kerr a présumé que cette marque signifiait que les billets avaient été établis à titre gratuit. Les billets initialement imprimés semblent porter la mention 0,00 $ là où on se serait attendu à trouver le prix du billet. Cependant, une ligne semblable au chiffre 1 figure entre le symbole $ et le premier zéro sur les deux billets. Une déduction de 20,00 $ a été demandée dans le calcul de la perte de l'appelant pour 1994 au titre de TEC, comme il est énoncé dans sa déclaration de revenus. L'intimée tente d'inférer qu'un 1 a été ajouté aux billets en vue d'établir qu'une somme de 10,00 $ avait été payée pour chacun des billets tandis que l'appelant les aurait obtenus gratuitement.
+[32]Pendant son contre-interrogatoire, l'appelant a nié avoir ajouté le 1 sur les billets, mais il n'a pu expliquer comment cette marque se trouvait là. Il ne se souvenait plus d'avoir assisté à ce concert. Si la marque 1 a été ajoutée tandis que les billets se trouvaient en la possession de l'appelant, on a établit de façon acceptable qu'il y a eu présentation erronée des faits. Cependant, la preuve ne montre pas qui a altéré les billets ni quant cela s'est produit.
+[33]La preuve de l'intimée repose en grande partie sur des documents que l'appelant a fournis aux fonctionnaires de Revenu Canada quelque temps après la production de ses déclarations de revenus. Aucun de ces documents n'a été présenté à l'audience. On a plutôt utilisé des photocopies. Les originaux ont disparu. L'appelant allègue que les originaux ne lui ont jamais été retournés. M. Kerr soutient le contraire. Il fonde son assertion non pas sur sa connaissance personnelle des faits, mais plutôt sur le dossier de Revenu Canada selon lequel les documents de l'appelant ont été remis à un ancien employé de Revenu Canada avec instructions de rencontrer l'appelant dans un centre commercial et de lui remettre les documents. L'assertion de M. Kerr voulant que l'employé ait rencontré l'appelant et lui ait remis les documents est une inférence qui se fonde uniquement sur le fait que l'employé a réclamé des frais de déplacement au titre de cette rencontre avec l'appelant. Je signale qu'aucun reçu relatif aux documents n'a été produit à l'audience.
+[34]L'appelant avance que les documents ne lui ont pas été remis. Il n'y a pas de preuve concluante à l'effet contraire. L'ancien employé qui aurait remis les documents n'a pas été appelé à témoigner. Ce n'est pas la première fois que des documents relatifs à la présente affaire disparaissent. M. Kerr a déclaré que le dossier des feuilles de travail du vérificateur avait été détruit aux bureaux de Sudbury de Revenu Canada. Tout bien pesé, je suis enclin à accepter l'affirmation de l'appelant selon laquelle les documents qu'il a prêtés à Revenu Canada ne lui ont pas été retournés. L'appelant a donc dû contester une preuve fondée sur la fausseté des documents qu'il avait produits alors même qu'il ne pouvait bénéficier des originaux. Cette situation explique en bonne partie la faiblesse de la preuve présentée par l'appelant pour réfuter la preuve de l'intimée.
+[35]Quant à l'année 1994, M. Kerr a affirmé qu'il était en mesure de faire correspondre, d'une part, les talons d'un carnet de reçus que l'appelant aurait censément délivrés pour des loyers qu'on lui aurait versés avec, d'autre part, les reçus eux-mêmes. Selon M. Kerr, ces derniers étaient censés constater le paiement non pas de loyers, mais de dépenses d'entreprise engagées par TEC. L'examen des photocopies des reçus et des talons déposés en preuve ne permet pas d'établir la correspondance que M. Kerr affirme avoir observée entre le reçu visant un paiement et le talon en visant un autre.
+[36]Un autre aspect peu convaincant de la preuve de l'intimée pour l'année 1994 touche à la déduction demandée par l'appelant au titre d'une perte locative. Le ministre soupçonnait qu'il n'y avait pas la moindre activité de location. L'appelant avait présenté des éléments de preuve concernant une location à une certaine Jennifer Morgan pour la période allant de janvier à juin 1994. Il s'agissait des talons qui restaient dans le carnet de reçus après que l'appelant a délivré les reçus qu'il allègue avoir donné à sa locataire, Mme Morgan.
+[37]M. Kerr a examiné la déclaration de revenus produite par Mme Morgan pour l'année 1994. Elle demandait un crédit d'impôt à titre de locataire en Ontario relativement à la période postérieure à juin 1994, mais pas pour la période allant de janvier à juin. L'intimée n'a pas appelé Mme Morgan à témoigner pour étayer l'inférence selon laquelle elle n'avait pas demandé de déduction fiscale parce qu'elle ne louait pas de locaux de l'appelant entre janvier et juin. On n'a pas laissé entendre que Mme Morgan était introuvable. Aucune présentation erronée des faits n'a été établie à cet égard.
+[38]La preuve présentée à l'appui de la thèse de l'intimée pour l'année 1994 était tout aussi peu convaincante que celle produite pour les deux années précédentes.
+[39]La preuve concernant les années 1991 et 1995 était elle aussi insuffisante - c'est le moins qu'on puisse dire - pour permettre à l'intimée de s'acquitter du fardeau que lui impose le sous-alinéa 152(4)a)(i). Pour ces années, l'intimée soutient que le refus de l'appelant de fournir des documents à l'appui de la déduction au titre de pertes de TEC constituait une preuve de présentation erronée des faits. À mon sens, le refus constitue plutôt une preuve d'absence de présentation. En outre, l'intimée souligne que l'enregistrement de TEC auprès du ministère de la Consommation et du Commerce de l'Ontario n'a eu lieu qu'en juin 1991 et l'inscription pour la TPS qu'en juin 1992. Or, ces faits ne sauraient justifier l'inférence voulant que l'entreprise n'ait débuté ses activités qu'en juin 1991.
+[40]En 1995, l'appelant a demandé une déduction équivalant à 50 p. 100 des pertes de Landcrusher, entreprise qui, selon ses dires, était exploitée par lui et un certain Jeffrey Murray, en société en nom collectif. M. Kerr a vérifié la déclaration de revenu de M. Murray et n'y a découvert aucun élément établissant l'existence d'une telle société. M. Kerr a donc conclu qu'il n'y avait pas de société. M. Murray n'a pas témoigné et on n'a pas laissé entendre qu'il n'était pas disponible pour ce faire. Sans son témoignage, je ne puis conclure à une présentation erronée des faits.
+[41]L'intimée a fait planer de lourds nuages de suspicion, mais elle n'a pas réussi à montrer que le ministre était autorisé à établir de nouvelles cotisations en application des dispositions du sous-alinéa 152(4)a)(i).
+[42]L'appel sera accueilli, avec dépens s'il y a lieu, et les cotisations seront annulées.
+Signé à Toronto (Ontario), ce 5e jour de janvier 2006.
+« Michael J. Bonner »
+Juge Bonner
+Traduction certifiée conforme
+ce 23e jour d'octobre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2006CCI2
+NO DU DOSSIER DE LA COUR : 2004-4408(IT)I
+INTITULÉ DE LA CAUSE : Darwin M. Trojan c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 5 mai 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Michael J. Bonner
+DATE DU JUGEMENT : Le 5 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jonathon Penney
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,158 @@
+---
+title: "Wiens v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25921/index.do"
+last_modified: "2003-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 491"
+citation2: ""
+neutral_citation: "2003 CCI 491"
+decision_date: "2003-07-14"
+language: "fr"
+item_id: "25921"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3687
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:59:43.498000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4af7ff9fafc6a130d8f507537642db920f276ab55297a5005db5a9e2d243a902"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wiens v. The Queen
+
+- Citation: 2003 CCI 491
+- Decision date: 2003-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3687, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiens v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-14
+Référence neutre
+2003 CCI 491
+Numéro de dossier
+2000-4178(GST)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-4178(GST)I
+ENTRE :
+RUTH WIENS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu avec l'appel de Robert Wiens (2000-4181(GST)I)
+le 9 juillet 2003, à Winnipeg (Manitoba)
+Devant : Le juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Représentant de l'appelante :
+Robert Wiens
+Avocate de l'intimée :
+Me Tracey Telford
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 août 1999 et porte le numéro de contrôle d'un tiers 55313, est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2003.
+« D.G.H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2000-4181(GST)I
+ENTRE :
+ROBERT WIENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu avec l'appel de Ruth Wiens (2000-4178(GST)I)
+le 9 juillet 2003, à Winnipeg (Manitoba)
+Devant : Le juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Tracey Telford
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la nouvelle cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 août 1999 et porte le numéro de contrôle d'un tiers 55311, est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI491
+Date: 20030714
+Dossier: 2000-4178(GST)I
+ENTRE :
+RUTH WIENS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier: 2000-4181(GST)I
+ET ENTRE :
+ROBERT WIENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Les présents appels ont été entendus ensemble. Ils sont interjetés à l'encontre de cotisations de taxe sur les produits et services ( « TPS » ) établies en vertu de l'article 323 de la Loi sur la taxe d'accise ( « LTA » ) pour les périodes de 1993 à la fin de 1997 en ce qui concerne Mme Wiens, et pour deux périodes se terminant le 30 septembre 1997 et le 31 décembre 1997 en ce qui a trait à M. Wiens.
+[2] Les cotisations à l'égard de Mme Wiens en tant qu'administratrice ont été établies en fonction du fait qu'elle était administratrice au cours de ces périodes et qu'elle n'a pas fait preuve de diligence raisonnable suffisante afin de prévenir le manquement de la société Universal Gems, dont elle était administratrice, de remettre les montants de TPS dus. La cotisation à l'égard de Mme Wiens a été établie au montant de 21 598,43 $. De ce montant, le montant attribuable à la taxe est de 10 355,81 $ et le solde correspond à l'intérêt et aux pénalités imposés à la société.
+[3] La cotisation à l'égard de M. Wiens est au montant de 4 114,15 $ et est fondée sur l'hypothèse qu'il était administrateur seulement au cours des périodes postérieures au 6 mai 1996.
+[4] Plusieurs questions sont soulevées en l'espèce. La première est de savoir si Mme Wiens était une administratrice après 1995.
+[5] La deuxième question soulevée par M. Wiens, qui se représentait lui-même ainsi que son ex-conjointe, Ruth Wiens, est de savoir si la cotisation sous-jacente établie à l'encontre de la société est exacte. Il est évident qu'un contribuable qui a fait l'objet d'une cotisation établie à titre dérivé en vertu de l'article 323 de la LTA peut contester la cotisation sous-jacente établie à l'égard de la société même si la société a négligé de le faire. (Gaucher c. Sa Majesté la Reine, C.A.F. n ° A-275-00, 16 novembre 2000 (2000 DTC 6678)).
+[6] La troisième question est de savoir si un règlement à l'égard de la responsabilité de l'appelant et de son épouse en vertu de la LTA a été conclu avec l'Agence des douanes et du revenu du Canada ( « ADRC » ). L'appelant soutient qu'il y a eu règlement, ce que l'intimée nie.
+[7] Enfin, l'appelant soutient que son épouse et lui-même ont agi avec le degré de diligence prescrit par le paragraphe 323(3) de la LTA et que, par conséquent, ils sont déchargés de toute responsabilité en vertu du paragraphe 323(1).
+[8] En ce qui a trait à la première question, soit de savoir si Mme Wiens était une administratrice après 1995, je conclus qu'elle l'était. Elle a déclaré avoir transféré ses actions à son époux en 1995, mais M. Wiens a affirmé qu'elle les avait reprises. Que cela soit vrai ou non, il n'y a aucune preuve qu'elle ait jamais remis sa démission à titre d'administratrice et les registres de la Direction des corporations du Manitoba indiquent qu'elle était administratrice en 2002.
+[9] En ce qui a trait à la deuxième question, à savoir si la cotisation sous-jacente établie à l'égard de la société est erronée, je suis d'avis qu'elle pourrait bien être erronée à certains égards, mais la preuve ne le démontre tout simplement pas. M. Wiens a témoigné que son épouse (qui faisait la tenue de livres) et lui croyaient qu'ils faisaient tout ce qu'il fallait et qu'ils ont même retenu les services d'un ancien vérificateur de Revenu Canada, M. Ron McLaren, pour les aider. L'étendue de la participation de M. McLaren n'a pas été définie clairement et, bien qu'il se soit présenté à la Cour le matin, il n'était plus là à l'heure du dîner et M. Wiens a choisi de ne pas le faire témoigner comme prévu en raison des troubles de santé de M. McLaren. Je fais cette remarque car je n'entends pas tirer d'inférence défavorable du fait qu'il n'a pas témoigné, mais je constate que son témoignage sur cette question ainsi que sur la question de la diligence raisonnable aurait pu être utile. Dans les circonstances, il ne reste que l'hypothèse non réfutée concernant le montant de taxe établi. La simple affirmation par M. Wiens que son épouse et lui pensaient qu'ils faisaient tout ce qu'il fallait ne décharge en rien le fardeau de preuve dont un contribuable doit s'acquitter afin de prouver qu'une cotisation est erronée.
+[10] À l'appui de son affirmation que les cotisations établies à l'égard de la société sont erronées, M. Wiens souligne le fait que des cotisations plus élevées ont été établies à deux reprises et ont ensuite été réduites après avoir fait l'objet d'une opposition. Il a également témoigné qu'à l'origine l'ADRC a proposé des cotisations à l'encontre de son épouse et de lui-même à l'égard de montants reçus par la société totalisant des centaines de milliers de dollars mais que son comptable, M. Day, a réussi à faire réduire les cotisations proposées de façon substantielle ou à les faire annuler. L'inférence que M. Wiens me demande de tirer à cet égard est que, si l'ADRC peut prendre des décisions si erronées à l'égard d'autres questions, il existe une preuve prima facie que la cotisation finale établie à l'égard de la société est erronée. En toute déférence, il s'agit d'un raisonnement illogique. Le fait que l'ADRC ait été disposée à réduire les cotisations de TPS ou les cotisations d'impôt proposées ne signifie pas que la cotisation de TPS finale établie à l'égard de la société soit nécessairement erronée.
+[11] Le troisième argument soulevé par M. Wiens est que sa responsabilité et celle de son épouse en tant qu'administrateurs en vertu de la LTA a fait l'objet d'un règlement. La question de savoir si les règlements conclus avec les autorités fiscales sont exécutoires n'est pas encore résolue. Dans l'arrêt Cohen c. Sa majesté la Reine, C.A.F., no A-64-78, 3 juin 1980 (80 DTC 6250), le juge Pratte de la Cour d'appel fédérale a déclaré que le ministre du Revenu national pouvait désavouer des règlements qu'il avait conclus avec des contribuables. J'ai suivi cette décision avec une grande hésitation dans la décision Consoltex Inc. c. Canada, [1997] A.C.I., no 134 (97 DTC 724). Dans l'arrêt Enterac Property Corporation c. Canada, [1998] A.C.F. no 302 (98 DTC 6202), le juge MacDonald a souligné qu'il pourrait être utile de réviser la jurisprudence découlant de l'arrêt Cohen. Toutefois, je ne crois pas qu'il soit nécessaire de le faire en l'espèce, car je ne suis pas convaincu qu'un règlement ait été conclu en vue de régler la question de la responsabilité de M. Wiens et de son épouse en tant qu'administrateurs en vertu de l'article 323 de la LTA. En effet, les trois témoins appelés par M. Wiens, soit M. Day, son comptable, M. Cook, le directeur du bureau de l'ADRC de Winnipeg et M. Dobson, le répartiteur des appels, ont clairement indiqué que, bien que les cotisations d'impôt proposées aient été réglées, les cotisations à l'égard de la responsabilité des administrateurs n'étaient pas visées par le règlement.
+[12] Nous traitons finalement de la question de la diligence raisonnable. Il n'est pas nécessaire d'examiner la jurisprudence abondante élaborée par la présente cour et par la Cour d'appel fédérale à l'égard de la responsabilité des administrateurs en vertu de l'article 323 de la LTA et de la disposition correspondante, l'article 227.1 de la Loi de l'impôt sur le revenu. Il est évident que la loi n'exige pas une norme de perfection et elle ne considère pas les administrateurs comme des assureurs pour le fisc. Elle exige seulement que les administrateurs agissent de façon raisonnable afin de s'assurer que la société s'acquitte de sa responsabilité de verser les taxes. Peut-on affirmer qu'il a été démontré que la norme a été respectée? J'ai l'impression troublante que les appelants auraient pu démontrer qu'ils ont fait preuve de diligence raisonnable. Un certain nombre de considérations semblent l'indiquer. En 1993, un ancien répartiteur a été engagé pour les aider à respecter les conditions relatives à la TPS. En 1995 et 1996 ainsi que pendant la première partie de 1997, il semble qu'il n'y ait eu aucun problème. Les écarts entre les calculs de la taxe effectués par la société et par l'ADRC, pour les périodes où des problèmes sont survenus, sont relativement minces comparativement au chiffre d'affaires de la société et pourraient être attribuables à un facteur autre que le manque de diligence raisonnable.
+[13] Malheureusement, Mme Wiens, qui faisait la tenue de livres, n'a pas témoigné sur les mesures qu'elle a prises afin de s'assurer de la conformité à la LTA. Je l'ai incitée à le faire et je lui ai mentionné, ainsi qu'à M. Wiens, que son témoignage sur cette question serait utile. Bien qu'elle ait été appelée à témoigner brièvement sur la question de ses fonctions en tant qu'administratrice, elle et M. Wiens ont, de toute évidence, délibérément décidé qu'elle ne témoignerait pas sur la question de sa diligence raisonnable. Dans les cas où les appelants ne sont pas représentés par avocat, bien que je tente de les aider dans la mesure du possible, tout en demeurant impartial, je crois qu'il est important de respecter leur décision sur la façon de procéder et de ne pas prendre en charge la conduite de leur dossier.
+[14] Le résultat est qu'il y a absence de preuve sur un aspect essentiel de la cause, soit les mesures prises par Mme Wiens pour s'assurer que les dossiers et registres appropriés étaient maintenus afin que les montants exacts de TPS soient calculés et versés. Je ne crois pas que les appelants aient tenté de cacher quelque chose. Selon toute probabilité, Mme Wiens a continué d'être traumatisée à la suite d'un vol survenu au magasin au cours duquel elle a été battue. Néanmoins, son témoignage était essentiel et il était incomplet.
+[15] Par contre, je ne crois pas que les appelants soient responsables du montant de taxe estimé de 2 500 $ plus l'intérêt et les pénalités y relatifs pour la période se terminant le 31 décembre 1997. La question est de savoir s'ils ont agi de façon raisonnable à l'égard de cette responsabilité. Sans décider que les administrateurs ne peuvent jamais être responsables à l'égard d'une cotisation établie à l'encontre d'une société de façon arbitraire ou théorique sur un montant estimé en vertu de l'article 299 de la LTA, je ne crois pas qu'il soit approprié de le faire en l'espèce. La cotisation était fondée sur un montant estimatif du chiffre d'affaires au cours de la période des Fêtes et n'accordait aucun crédit de taxe sur les intrants. La déclaration relative à cette période devait être produite au plus tard le 2 février 1998. Le 6 janvier 1998, le magasin a été dévalisé et M. Wiens a témoigné que des stocks d'une valeur d'environ 600 000 $ avaient été volés. De plus, le propriétaire a cadenassé la porte du magasin le 15 janvier 1998. Étant donné l'étendue des pertes et leurs conséquences catastrophiques sur l'entreprise qui ont mené à la nomination par la banque d'un séquestre-administrateur le 27 février 1998, à la perte de la résidence et des biens des appelants et à la fermeture du magasin, pouvons-nous affirmer qu'il était déraisonnable pour les appelants de ne pas avoir préparé et produit les déclarations de TPS et de ne pas avoir payé la taxe pour le compte de la société pour la période se terminant le 31 décembre 1997? Je ne le crois pas. Je ne peux que citer la question rhétorique poignante énoncée par Mme Wiens dans son avis d'appel :
+[traduction]
+Qu'aurions-nous pu faire de plus dans ces circonstances?
+La réponse : rien.
+[16] Les appels sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations pour réduire l'obligation de chacun des appelants en vertu de l'article 323 de la Loi sur la taxe d'accise de 2 500 $ ainsi que des intérêts et des pénalités qui s'y rapportent.
+[17] Il ne sera pas adjugé de dépens.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 18e jour d'avril 2005.
+Sophie Debbané, réviseure

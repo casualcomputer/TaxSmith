@@ -1,0 +1,236 @@
+---
+title: "Bouchard c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29223/index.do"
+last_modified: "2009-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 234"
+citation2: ""
+neutral_citation: "2009 CCI 234"
+decision_date: "2009-04-16"
+language: "fr"
+item_id: "29223"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7024
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:58:50.296000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8ab5127b8a4d78847ff89aa1637a504171ec99d7cd1d9f3a80ce2e7d206af529"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard c. M.R.N.
+
+- Citation: 2009 CCI 234
+- Decision date: 2009-04-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7024, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-16
+Référence neutre
+2009 CCI 234
+Numéro de dossier
+2009-222(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-222(EI)
+ENTRE :
+LAURETTE BOUCHARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 16 avril 2009, à Sept-Îles (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Charles-Henri Desrosiers
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté, au motif que madame Laurette Bouchard, pendant la période pertinente, soit du 4 mai 2008 au 6 septembre 2008, n'occupait pas un emploi assurable lorsqu’elle était au service de Norbert Bouchard, faisant affaire sous la raison sociale « Restaurant du Village », et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de mai 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 234
+Date : 20090519
+Dossier : 2009-222(EI)
+ENTRE :
+LAURETTE BOUCHARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L’appelante interjette appel d’une décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance-emploi (la « Loi »). Le ministre a décidé que madame Laurette Bouchard (la « travailleuse ») n’occupait pas un emploi assurable du 4 mai 2008 au 6 septembre 2008 (la « période pertinente ») lorsqu’elle était au service de Norbert Bouchard, faisant affaire sous la raison sociale « Restaurant du Village » (le « payeur »), puisqu’il n’était pas convaincu qu’un contrat de travail semblable aurait été conclu s’il n’y avait pas eu de lien de dépendance entre la travailleuse et le payeur.
+[2] Pour rendre sa décision, le ministre a déterminé que la travailleuse, lorsqu’elle était au service du payeur, était liée à ce dernier au sens de la Loi de l’impôt sur le revenu en s’appuyant sur les hypothèses de fait suivantes :
+a) Norbert Bouchard est le seul propriétaire enregistré de l’entreprise individuelle faisant affaires sous le nom « Restaurant du Village »; [admis]
+b) l’appelante est l’épouse de Norbert Bouchard; [admis]
+c) l’appelante est liée par les liens du mariage à Norbert Bouchard qui contrôle le payeur; [admis]
+[3] Pour rendre sa décision, le ministre a aussi déterminé qu’il n’était pas raisonnable de conclure que le payeur aurait conclu avec la travailleuse « un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance », compte tenu des circonstances suivantes :
+a) le payeur a immatriculé son entreprise individuelle le 3 septembre 2002; [admis]
+b) le payeur exploitait un restaurant de 60 places à Rivière-au-Tonnerre; [admis]
+c) le payeur avait vendu le restaurant en 1998 mais il avait dû le reprendre en 2002 à cause de la faillite de l’acheteur et afin de protéger sa créance; [admis]
+d) l’entreprise était en exploitation habituellement de février à décembre, mais elle ouvrait parfois l’hiver; [admis]
+e) en 2008, selon les déclarations mensuelles de TPS du payeur, les ventes s’établissaient ainsi : [admis]
+janvier
+6 604 $
+février
+6 604 $
+mars
+5 195 $
+avril
+7 126 $
+mai
+11 791 $
+juin
+15 823 $
+juillet
+29 907 $
+août
+déclaration manquante
+septembre
+14 369 $
+f) le payeur avait des pertes d’entreprises de 43 164 $ en 2005, de 47 281 $ en 2006 et de 75 250 $ en 2007; [admis]
+g) le restaurant était ouvert de 7 h à 20 h ou 21 h, les mois d’été comme les mois d’hiver; [admis]
+h) le payeur employait, en plus de l’appelante, 7 à 8 autres employés; [admis]
+i) la fille de l’appelante, Nadia Bouchard, était responsable de la gestion du restaurant en plus de servir la clientèle; [admis]
+j) à partir de juin 2008, Nadia Bouchard exploitait un gîte touristique et elle travaillait à la comptabilité du restaurant principalement; [admis]
+k) en 2008, de janvier à mai, l’appelante travaillait seule au restaurant, de 70 à 80 heures par semaine mais sans rémunération; [nié tel que rédigé]
+l) en 2008, de janvier à mai, le payeur n’avait pas les moyens financiers de rémunérer l’appelante; [admis]
+m) l’appelante travaillait comme cuisinière et pâtissière; [admis]
+n) les tâches de l’appelante consistaient à préparer les aliments, la pâtisserie, à nettoyer la vaisselle, à effectuer les achats à Sept-Iles et quelques fois à assumer le service aux tables; [admis]
+o) l’appelante se présentait tous les jours du lundi au dimanche, au restaurant dès 6 h afin de préparer les aliments; [admis]
+p) l’appelante travaillait de 70 à 80 heures par semaine mais elle était rémunérée pour 60 heures par semaine; [admis]
+q) l’appelante était rémunérée aux taux de 10 $ de l’heure; [admis]
+r) l’appelante recevait une rémunération brute de 600 $ par semaine; [admis]
+s) saut pour les deux premières semaines de la période en litige où elle recevait 540 $ par semaine, la rémunération de l’appelante ne variait pas de semaine en semaine; [admis]
+t) l’appelante recevait une rémunération fixe à chaque semaine peu importe les heures travaillées pour le payeur; [admis]
+u) les autres employés du payeur étaient rémunérés selon les heures réellement travaillées; [nié tel que rédigé]
+v) les autres employés ne travaillaient pas des heures sans rémunération; [admis]
+w) les serveuses gardaient les pourboires, l’appelante et le personnel de cuisine ne recevaient pas de pourboires; [admis]
+x) l’appelante a été mise à pied le 6 septembre car elle avait assez d’heures pour recevoir de l’assurance-emploi; [la partie soulignée est admise, le reste est nié]
+y) le 11 septembre 2008, le payeur remettait à l’appelante un relevé d’emploi qui indiquait comme premier jour de travail le 4 mai 2008 et comme dernier jour de travail le 6 septembre 2008 et le nombre d’heures assurables étaient de 1080 et la rémunération assurable totalisait 10 296 $; [admis]
+z) le relevé d’emploi de l’appelante n’est pas conforme à la réalité ni quant à la période travaillée ni quant aux heures travaillées; [nié]
+aa) selon l’appelante, après sa mise à pied le 6 septembre 2008, c’était une employée Guylaine Lebrun qui gérait l’entreprise; [admis]
+bb) en 2008, le restaurant a fermé à la fin novembre; [admis]
+cc) la prétendue période d’emploi de l’appelante ne correspondait pas à la période d’activité économique du payeur; [nié]
+dd) il n’est pas raisonnable de croire compte tenu de l’importance du travail de l’appelante qu’elle ne soit pas demeurée à l’emploi du payeur jusqu’à la fermeture du restaurant; [nié]
+ee) la durée de l’emploi de l’appelante a été fixée en fonction des besoins de l’appelante pour se qualifier à recevoir des prestations d’assurance-emploi et non selon les besoins du payeur. [nié]
+[4] Dans la présente affaire, la travailleuse a témoigné. Le payeur et sa fille, madame Nadia Bouchard, ont aussi témoigné à l’appui de la position de la travailleuse. Par ailleurs, seule madame Lyne Courcy, l’agente des appels qui a rendu la décision dans la présente affaire, a témoigné à l’appui de la position du ministre.
+Témoignage du payeur
+[5] Il ressort essentiellement du témoignage du payeur que :
+i) la travailleuse avait travaillé avant mai 2008 (c’est-à-dire en 2004, 2005, 2006 et 2007 et de janvier à mai 2008) au restaurant du payeur (le « restaurant ») sans rémunération, le payeur n’ayant pas les moyens de la rémunérer;
+ii) de janvier à mai 2008, seules la travailleuse et sa fille Nadia avaient travaillé au restaurant.
+Témoignage de madame Nadia Bouchard
+[6] Il ressort essentiellement du témoignage de madame Nadia Bouchard que :
+i) de janvier à mai 2008, le restaurant avait été exploité environ 15 jours par mois;
+ii) les activités du restaurant pendant cette période avaient consisté à desservir presque exclusivement une clientèle qui venait de l’extérieur de la région de Rivière-au-Tonnerre, soit des employés d’Hydro‑Québec qui travaillaient sur les chantiers avoisinants;
+iii) la travailleuse et madame Nadia Bouchard avaient été les seules personnes qui avaient travaillé à titre d’employées au restaurant. Madame Nadia Bouchard a expliqué que la travailleuse et elle‑même avaient chacune travaillé de 16 à 20 heures par mois au restaurant du payeur pendant cette période. Leurs tâches consistaient à :
+1) préparer et servir le petit déjeuner et le souper aux employés d’Hydro-Québec;
+2) faire des sandwiches que les employés d’Hydro-Québec apportaient aux chantiers où ils travaillaient;
+iv) la travailleuse avait travaillé bénévolement de janvier à mai 2008 pour le payeur car ce dernier n’avait pas les moyens de la rémunérer;
+v) pendant la période pertinente, seules la travailleuse et madame Gisèle Lapierre (qui faisait aussi partie du personnel de cuisine du restaurant) n’avaient pas été rémunérées à l’heure. Madame Bouchard a expliqué que ces deux employées du payeur avaient reçu pendant cette période une rémunération fixe chaque semaine peu importe les heures de travail effectuées pour le payeur;
+vi) la travailleuse n’avait pas travaillé au restaurant après le 6 septembre 2008, date de sa mise à pied. Madame Bouchard a expliqué qu’à partir de la fête du Travail, les touristes (qui constituent la principale source de clients du restaurant) cessaient à toutes fins utiles de fréquenter le restaurant et qu’ainsi il n’y avait plus assez de travail au restaurant pour que le payeur garde la travailleuse à son service.
+Témoignage de la travailleuse
+[7] La travailleuse a essentiellement témoigné dans le même sens que madame Nadia Bouchard.
+Témoignage de madame Lyne Courcy
+[8] Madame Courcy a essentiellement fait état des déclarations que la travailleuse et madame Nadia Bouchard lui avaient faites lors d’entrevues téléphoniques qu’elle avait eues avec ces dernières, déclarations qui sont consignées dans son rapport sur appel (pièce I-2) et dont les extraits suivants méritent d’être cités compte tenu de leur pertinence :
+Renseignements obtenus de l’appelante Laurette Bouchard lors de l’entrevue téléphonique du 4 décembre 2008 :
+[…]
+9. Avant la période en litige soit avant le 4 mai 2008, l’appelante accomplissait les mêmes tâches pour le payeur qu’au cours de la période en litige sauf qu’elle n’était pas rémunérée, car le payeur n’était pas capable de la payer, car il avait trop de dettes. Elle travaillait alors environ 80 heures par semaine.
+10. En 2008, avant le 4 mai 2008, l’appelante travaillait au restaurant depuis sa réouverture annuelle, mais elle n’était pas rémunérée.
+11. Au cours de la période en litige, l’appelante effectuait de tout au restaurant autant la préparation des aliments, les desserts, la vaisselle et quelques fois le service. L’appelante travaillait majoritairement dans la cuisine. Les employés dans la région sont rares et c’est pourquoi elle devait faire toutes ces tâches.
+[…]
+14. Le restaurant ouvrait été comme hiver de 7 h à 20 h ou 21 h.
+[…]
+18. Le payeur a commencé par la rétribuer au salaire brut de 468 $ par semaine et elle a demandé à recevoir le même taux horaire que la majorité des employés soit 10 $, c’est pourquoi son salaire a été augmenté à 624 $ (basé sur 10 $ l’heure + 4 %).
+19. Les autres employés du payeur étaient rétribués au taux de 10 $ l’heure outre une employée à 11 $ et ils étaient payés pour le véritable nombre d’heures travaillées chaque semaine.
+[…]
+23. L’appelante a été mise à pied le 6 septembre 2008, car c’était plus tranquille au restaurant et qu’il y avait moins de préparation à faire. Questionner qui s’occupait alors du commerce puisque sa fille s’occupait de son gîte, l’appelant a répondu que c’était une employée soit Guylaine Lebrun.
+24. L’appelante affirme que depuis le 6 septembre 2008, elle n’a pas rendu de service au payeur même bénévolement.
+Renseignements additionnels obtenus de Nadia Bouchard, employée responsable du payeur, lors de l’entrevue téléphonique du 4 décembre 2008 :
+[…]
+30. En 2008, l’appelante était seule au restaurant de janvier 2008 au 4 mai 2008, car il n’y avait pas d’autre employé. Elle s’arrangeait alors avec son horaire pour travailler des heures coupées soit aux heures de repas. Elle n’était alors cependant pas rétribuée, car le payeur n’en avait pas les moyens. Lorsqu’il y avait trop d’ouvrage, l’appelante lui demandait d’aller l’aider.
+31. En hiver, le restaurant fermait après le souper vers 19 h.
+32. Depuis la reprise du restaurant en 2002, c’était l’appelante qui cuisinait les sauces (spaghetti, aux fruits de mer, hot-chicken…), les pâtisseries, la grosse préparation soit tout ce que les 2 autres cuisinières et l’aide‑cuisinière ne faisaient pas.
+33. Avant la période en litige, l’appelante effectuait les mêmes tâches qu’au cours de la période en litige mais sans rétribution du payeur.
+34. Le payeur versait un taux horaire de 11 $ à une autre employée ayant le plus d’ancienneté soit 6 ans.
+35. Le nombre d’heures de travail de l’appelante s’établissait selon l’achalandage. L’appelante ouvrait les portes le matin et travaillait jusqu’à 14 h pour revenir travailler dans la journée lorsque les employés l’appelaient pour un surplus de travail. Elle recevait une paie régulière sur la base de 60 heures par semaine, car elle travaillait entre 50 et 70 heures par semaine. Il s’agissait d’un salaire hebdomadaire.
+[…]
+40. Il y avait une autre cuisinière qui était aussi payée à salaire hebdomadaire et non à l’heure.
+41. À la mise à pied de l’appelante le 6 septembre 2008, il n’y a qu’une employée qui est demeurée au travail soit Guylaine Lebrun. Questionner pourquoi l’appelante était-elle la seule travailleuse avant la période en litige et que ce n’est pas elle qui soit restée en poste alors, c’est que l’appelante avait ses semaines de faites, mais pas Madame Lebrun. C’est Nadia Bouchard qui s’est occupée de la fermeture du restaurant.
+[…]
+[9] Par ailleurs, la preuve a révélé que les ventes mensuelles du payeur avaient varié entre 5 195 $ et 7 126 $ de janvier à avril 2008, avaient été de 11 791 $ en mai, de 15 823 $ en juin, de 29 907 $ en juillet et de 14 365 $ en septembre. Puisque les revenus jusqu’au 31 octobre 2008 étaient de 138 697 $, on peut en déduire que les ventes en août et octobre avaient été de 41 818 $ au total. Je souligne toutefois que la preuve ne nous permet pas de répartir ces ventes de 41 818 $ entre les mois d’août et d’octobre 2008.
+Analyse et conclusion
+[10] Rappelons que le ministre a déterminé que cet emploi n’était pas assurable étant donné l’alinéa 5(2)i) et le paragraphe 5(3) de la Loi, car il n’a pas été convaincu qu’il était raisonnable de conclure, compte tenu de toutes les circonstances, que la travailleuse et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[11] La Cour d’appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l’impôt. Ce rôle ne permet pas au juge de substituer son opinion à celle du ministre, mais emporte l’obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [. . .] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable »[1].
+[12] En d’autres termes, avant de décider si la conclusion du ministre me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les conclusions du ministre sont bien fondées, compte tenu des facteurs mentionnés à l’alinéa 5(3)b) de la Loi. Il y a donc lieu de se demander si le payeur et la travailleuse auraient conclu un contrat à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[13] En l’espèce, la travailleuse avait le fardeau de prouver selon la prépondérance des probabilités que les faits supposés ou retenus par le ministre n’étaient pas réels ou qu’ils n’avaient pas été appréciés correctement compte tenu du contexte où ils sont survenus, ou encore que le ministre avait omis de considérer certains faits pertinents. En l’espèce, la travailleuse devait notamment me convaincre que le travail exécuté en dehors de la période pertinente n’était pas important et que les tâches qu’elle exécutait ainsi que les responsabilités qu’elle assumait en dehors de la période pertinente n’étaient pas sensiblement les mêmes que pendant la période pertinente. Je rappelle que plus les tâches exécutées bénévolement sont semblables à celles qui étaient prévues au contrat de travail rémunéré, plus elles sont nombreuses et plus elles sont répétées, moins il devient possible et raisonnable de conclure que l’employeur et l’employé « auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance ». Je rappelle aussi que s’il y a en outre continuité dans la prestation des services, la conclusion que l’emploi doit être exclu devient inévitable.
+[14] En l’espèce, la preuve a révélé que le travail exécuté par la travailleuse de janvier à mai 2008 était important et que les tâches qu’elle exécutait ainsi que les responsabilités qu’elle assumait pendant cette période étaient sensiblement les mêmes que pendant la période pertinente. En effet, tout au plus les heures de travail avaient été sensiblement réduites par rapport à la période pertinente. Le travail de cuisinière effectué par la travailleuse était essentiel aux activités du restaurant du payeur pendant la période de janvier à mai 2008. Je rappelle que la travailleuse a témoigné que :
+i) elle avait exécuté des tâches et assumé des responsabilités pendant la période allant de janvier à mai 2008 qui étaient sensiblement les mêmes que pendant la période pertinente;
+ii) elle avait exécuté ces tâches et assumé ces responsabilités bénévolement pendant cette période;
+iii) elle avait tout au plus travaillé pendant 80 heures au restaurant du payeur pendant cette période.
+Je souligne immédiatement que les témoignages de la travailleuse et de madame Nadia Bouchard à l’égard des heures de travail de la travailleuse pendant cette période n’étaient pas crédibles. En effet, les déclarations faites antérieurement à madame Courcy (dont la crédibilité n’a pas à être mise en doute) contredisent clairement leur témoignage à l’égard des heures de travail de la travailleuse pendant cette période et à l’égard des heures d’exploitation du restaurant pendant cette période. J’ajouterai que leur témoignage selon lequel chacune d’elles avait travaillé de 15 à 20 heures par mois pendant cette période m’apparaît tout à fait invraisemblable compte tenu de leur témoignage à l’égard des jours d’exploitation du restaurant pendant cette période et des tâches qu’elles auraient assumées. Je rappelle que leur témoignage était que le restaurant du payeur avait été exploité en moyenne 15 jours par mois pendant la période allant de janvier à mai 2008. Il en résulte que chacune d’elles aurait travaillé environ une heure par jour pendant cette période. Il est difficile d’imaginer que dans une journée donnée pendant cette période, deux heures de travail auraient été suffisantes pour :
+i) préparer et servir le petit déjeuner et le souper aux employés d’Hydro‑Québec;
+ii) faire les sandwiches pour le dîner de ces employés;
+iii) acheter les aliments nécessaires;
+iv) laver la vaisselle;
+v) nettoyer la cuisine et la salle à manger.
+En d’autres termes, l’appelante ne m’a pas convaincu qu’elle avait travaillé pendant un maximum de 80 heures pendant la période allant de janvier à mai 2008. À mon avis, les heures de travail bénévole de la travailleuse pendant cette période, quoique moins nombreuses que pendant la période pertinente, dépassaient largement les 80 heures pendant lesquelles elle aurait travaillé de janvier à mai 2008. De toute manière, même si la travailleuse m’avait convaincu qu’elle avait travaillé bénévolement tout au plus 80 heures pendant la période allant de janvier à mai 2008, j’aurais conclu que le fait d’exécuter un travail bénévole aussi important entraîne l’exclusion en vertu de l’alinéa 5(2)i) de la Loi.
+[15] J’ajouterai que la travailleuse ne m’a pas convaincu qu’elle avait cessé de travailler le 6 septembre 2008. En effet, compte tenu du chiffre d’affaires du restaurant du payeur pour les mois de septembre, octobre et novembre 2008 et du peu d’employés du payeur pour réaliser ces ventes pendant cette période, il m’apparaît plus probable qu’improbable que les tâches qu’elle exécutait ainsi que les responsabilités qu’elle assumait après le 6 septembre 2008 jusqu’à la fermeture du restaurant étaient sensiblement les mêmes que pendant la période pertinente. En outre, je suis convaincu que le travail de cuisinière était nécessaire aux activités du restaurant après le 6 septembre 2008. Il y avait à mon sens poursuite intégrale de l’objet même du contrat de travail rémunéré, quoique les heures aient probablement été réduites par rapport à la période pertinente. Il n’y avait pas véritablement d’arrêt de travail alors que la rémunération de la travailleuse devenait en quelque sorte prise en charge par le régime d’assurance-emploi. Je rappelle que le régime d’assurance-emploi n’a pas pour objet de prendre en charge le coût de la prestation de services offerte gratuitement au payeur.
+[16] Compte tenu des conclusions auxquelles j’en viens sur la question du bénévolat, il n’est pas nécessaire de traiter des autres modalités de l’emploi de la travailleuse.
+[17] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de mai 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 234
+Nº DU DOSSIER DE LA COUR : 2009-222(EI)
+INTITULÉ DE LA CAUSE : LAURETTE BOUCHARD ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Sept-Iles (Québec)
+DATE DE L’AUDIENCE : le 16 avril 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 19 mai 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Charles-Henri Desrosiers
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Charles-Henri Desrosiers
+Cabinet : Desrosiers et Associés
+Sept-Iles (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Légaré c. Canada, no A-392-98, 28 mai 1999, [1999] A.C.F. no 878 (QL) (C.A.F.), par. 4.

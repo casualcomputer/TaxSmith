@@ -1,0 +1,250 @@
+---
+title: "VIH Logging Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26352/index.do"
+last_modified: "2003-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 732"
+citation2: ""
+neutral_citation: "2003 CCI 732"
+decision_date: "2003-12-19"
+language: "fr"
+item_id: "26352"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3365
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:23:29.293000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2dd17a9dac1d9949065351463f8e6e88e2866acbb66bd88a950aba593d88e8cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# VIH Logging Ltd v. The Queen
+
+- Citation: 2003 CCI 732
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3365, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+VIH Logging Ltd v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-19
+Référence neutre
+2003 CCI 732
+Numéro de dossier
+2001-2959(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2959(IT)G
+ENTRE :
+VIH LOGGING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 septembre 2003 à Vancouver (Colombie-Britannique)
+Par : L'honorable juge J. M. Woods
+Comparutions
+Avocat de l'appelante :
+Me E. Michael McMahon
+Avocats de l'intimée :
+Me Ernest Wheeler et
+Me Rosemary Fincham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1994 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 26e jour de mars 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI732
+Date : 20031219
+Dossier : 2001-2959(IT)G
+ENTRE :
+VIH LOGGING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] VIH Logging Ltd. interjette appel à l'encontre d'une cotisation d'impôt sur le revenu dans laquelle on a appliqué le paragraphe 55(2) de la Loi de l'impôt sur le revenu à des dividendes intersociétés reçus dans le cadre d'un abri fiscal. La question centrale concerne le calcul du prétendu « revenu protégé » et consiste en particulier à savoir si la période de calcul inclut des années d'imposition partielles.
+[2] VIH Logging interjette aussi appel à l'encontre de la cotisation au motif qu'elle est prescrite. La question centrale de la prescription consiste à savoir si une cotisation envoyée par messager privé est établie à temps lorsqu'elle est ramassée à temps par le messager mais n'est livrée qu'après l'expiration de la période de prescription.
+QUESTION EN LITIGE LIÉ À LA PRESCRIPTION
+[3] Un avis de cotisation a été envoyé au représentant autorisé de VIH Logging par messager privé dangereusement près de la fin de la période de prescription stipulée au paragraphe 152(4) de la Loi de l'impôt sur le revenu. La Couronne soutient ce qui suit :
+· la cotisation a été établie à temps parce que le messager est venu chercher l'avis avant l'expiration de la période;
+· subsidiairement, que la cotisation est réputée être établie à la date indiquée sur l'Avis de cotisation.
+[4] Sur le premier point, VIH Logging fait valoir qu'aux fins de la prescription, il ne suffit pas que le messager passe chercher l'avis de cotisation. Elle soutient que l'avis doit être livré à temps. Subsidiairement, VIH Logging soutient que la preuve n'établit pas que l'avis de cotisation a été ramassé avant l'expiration de la période de prescription. Les parties conviennent qu'il incombe à la Couronne d'établir que l'avis de cotisation a été ramassé à temps : Aztec Industries Ltd. c. La Reine[1].Je vais aborder en premier cette question de fait.
+À quel moment l'avis a-t-il été ramassé?
+[5] Le dernier jour pour établir la cotisation de VIH Logging pour l'année d'imposition 1994 était le 14 novembre 1997. La Couronne allègue que le messager est passé prendre l'avis de cotisation le 13 novembre 1997.
+[6] Aucun des témoins de la Couronne ne se rappelait les circonstances de l'envoi de cet avis de cotisation particulier, ce qui n'a rien d'étonnant. La Couronne tente d'établir la date de ramassage du 13 novembre 1997 de la façon suivante :
+· par témoignage concernant les méthodes générales d'envoi par la poste et par messager de l'Agence des douanes et du revenu du Canada (ADRC)[2];
+· par témoignage concernant les méthodes générales de ramassage et de livraison du service de messagerie qui a livré l'avis;
+· par des documents portant sur la livraison de cet avis de cotisation particulier.
+Le témoignage concernant les pratiques et méthodes générales de l'ADRC a été présenté par le superviseur de l'équipe de vérification qui a chargé la salle du courrier de faire livrer l'avis par messager, ainsi que par le superviseur de la salle du courrier qui a reçu ces instructions. Il y a aussi un témoignage d'une personne qui connaît les méthodes générales de l'ADRC quant à la livraison par messager.
+[7] Conformément aux méthodes courantes de l'ADRC à l'époque, lorsqu'une cotisation était près d'être frappée de prescription, l'avis de cotisation était inséré dans une enveloppe accompagnée d'une note d'instructions intitulée [traduction] « Note aller retour à l'intention de la salle du courrier » . On apportait immédiatement l'enveloppe à la salle du courrier. Si la Note aller retour demandait une livraison par messager, quelqu'un de la salle du courrier appelait sur-le-champ un messager pour qu'il vienne chercher l'enveloppe le jour même. Le préposé à la messagerie à l'ADRC remplissait une lettre de transport en indiquant la date de ramassage de l'enveloppe. Si l'enveloppe n'était pas ramassée à la date prévue, la lettre de transport était modifiée pour indiquer la date réelle du ramassage.
+[8] En ce qui concerne la cotisation de VIH Logging, un avis de nouvelle cotisation daté du 13 novembre 1997, ainsi qu'une Note aller retour portant la même date, ont été livrés à la salle du courrier du bureau de l'impôt de Surrey. La Note aller retour donnait des instructions à la salle du courrier pour qu'un messager passe prendre l'avis de cotisation le jour même et le livre à Beaton Sherwood, représentant autorisé de VIH Logging, à Victoria, en Colombie-Britannique.
+[9] Selon une note écrite à la main sur la Note aller retour, un préposé de la salle du courrier a téléphoné à un service de messagerie, Dan Foss Couriers, le 13 novembre à 13 h 3. La lettre de transport indique que l'avis de cotisation a été ramassé le jour même. Cette date de ramassage est aussi confirmée par une note de service interne envoyée par le superviseur intérimaire de la salle du courrier à une personne du Bureau des services fiscaux de l'île de Vancouver (BSFIV).
+[10] Selon la lettre de transport, l'avis de cotisation devait être envoyé par service de messagerie de 24 h. Conformément aux méthodes courantes de Dan Foss, on aurait tenté de livrer l'avis par messagerie de nuit le jour suivant, le 14 novembre. D'après la note de service interne adressée au BSFIV, il n'y avait personne chez Beaton Sherwood pour recevoir l'enveloppe le 14 novembre, et celle-ci n'a pu être livrée ce jour-là. Il semble qu'une seconde tentative de livraison ait aussi échoué. Quoi qu'il en soit, l'enveloppe est retournée au bureau de Dan Foss sans avoir été livrée. L'enveloppe a finalement été livrée à Beaton Sherwood dans l'après-midi du 18 novembre, soit plusieurs jours après l'expiration de la période de prescription.
+[11] Un conducteur de Dan Foss Couriers à l'heure pertinente a déclaré que l'ADRC aurait pu empêcher la livraison de l'enveloppe à n'importe quel moment. Rien n'indique cependant que l'ADRC ait tenté de le faire.
+[12] En examinant si cette preuve établit que l'avis a été ramassé le 13 novembre, il est clair que la date peut être établie sans que quiconque se souvienne des détails de cette livraison par messager. Le juge Bowman (tel était alors son titre) a traité de la preuve de l'envoi postal aux fins d'un avis de TPS dans la décision Schafer c. La Reine[3] :
+Dans une grande organisation comme un ministère, un cabinet d'avocats ou d'experts-comptables ou une société, où le courrier envoyé chaque jour est volumineux, il est pratiquement impossible de trouver un témoin pouvant jurer qu'il a déposé au bureau de poste une enveloppe adressée à telle ou telle personne. Le mieux qu'on puisse faire est de décrire en détail les étapes suivies, par exemple le fait d'adresser les enveloppes, d'y insérer des documents, d'apporter les enveloppes à la salle du courrier et de livrer le courrier au bureau de poste.
+[13] Le juge d'appel Rothstein a récemment exprimé une opinion semblable dans l'affaire Kovacevic c. La Reine[4] :
+Je conviens que lorsque la loi exige qu'un document soit envoyé par courrier ordinaire par une grande organisation comme un ministère, mais qu'elle n'exige pas que ce soit fait par courrier recommandé ou certifié ou qu'il y ait une preuve d'un moyen d'envoi plus formel, la remarque du juge Bowman dans la décision Schafer est raisonnable. En général, il suffit donc d'énoncer dans un affidavit, souscrit par la dernière personne en autorité qui a traité le document avant qu'il soit soumis à la procédure normale d'envoi du bureau, la description de cette procédure.
+[14] D'après mon analyse, la preuve établit clairement que le messager est passé prendre l'avis de cotisation le 13 novembre 1997. Les témoins étaient bien informés sur les méthodes générales d'envoi par la poste et par messager, et c'étaient les personnes responsables qui se sont occupées de la livraison par messager de l'avis de cotisation. Ils ont déclaré que le messager serait en temps normal passé prendre l'avis de cotisation le 13 novembre 1997. En outre, plusieurs documents montrent que l'avis de cotisation a effectivement été ramassé à cette date. Même si VIH Logging a mis en doute le ramassage de l'avis le 13 novembre, l'avocat n'a pas insisté trop vigoureusement sur ce point. Par conséquent, je déclare que l'avis de cotisation a été ramassé par Dan Foss Couriers le 13 novembre 1997.
+La cotisation est-elle établie quand l'avis est ramassé?
+[15] Les paragraphes 152(2) et (4) de la Loi prévoient ce qui suit :
+(2) Avis de cotisation. Après examen d'une déclaration, le ministre envoie un avis de cotisation à la personne qui a produit la déclaration.
+(Je souligne.)
+(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, [...] Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants : [...]
+(Je souligne.)
+[16] Le critère de la prescription est présenté au paragraphe 152(4) et en l'espèce, la cotisation devait être établie avant le 14 novembre 1997. La Loi ne précise pas le moment où la cotisation est établie à moins que l'avis de cotisation soit posté. S'il est posté, la cotisation est réputée établie à la date indiquée sur l'avis[5].
+[17] La Couronne estime que la cotisation est établie lorsque le messager passe la prendre. Subsidiairement, la Couronne laisse supposer que la livraison par messager constitue l'envoi postal et par conséquent, que la cotisation est réputée établie le 13 novembre. Je déterminerai d'abord si la cotisation est établie lorsqu'elle est ramassée par le messager.
+[18] Plusieurs affaires traitent du moment où la cotisation est établie. Le critère opportun est que la cotisation est établie lorsque le ministre du Revenu national envoie l'avis : Aztec Industries et Flanagan v. The Queen[6]. Tout en convenant que c'est bien là le critère opportun, les parties ne sont pas d'accord quant à savoir si l'avis est envoyé lorsque le messager passe le prendre.
+[19] Dans l'affaire Flanagan, la Cour d'appel fédérale a déterminé que « envoyer » signifie expédier. Ce sens correspond aussi à la définition suivante de « send » ( « envoyer » ) dans le dictionnaire The Oxford English Dictionary[7] :
+[traduction]
+Expédier (un message, une lettre, un télégramme, etc.) par messager, par la poste ou par d'autres moyens de communication. Ainsi, envoyer des cartes (d'invitation).
+Selon moi, l'avis de cotisation a été expédié lorsque le messager est passé le prendre. C'est à ce moment qu'il a cessé d'être en la possession du ministre, pour être transmis au représentant autorisé de VIH Logging.
+[20] VIH Logging fait valoir que l'avis n'a pas été expédié lorsque le messager l'a ramassé parce que l'enveloppe aurait pu être rappelée par l'ADRC à n'importe quel moment. Elle laisse supposer que le ministre est demeuré maître de l'avis jusqu'à la livraison. L'avocat a cité l'affaire Flanagan à l'appui. Avec tout le respect que je lui dois, je précise que l'affaire Flanagan ne soutient pas cette proposition. Dans cette affaire, un employé de l'ADRC a tenté de livrer en mains propres un avis de cotisation à cause d'une grève des postes. La Cour a conclu que le ministre n'avait jamais cessé d'être en possession de l'avis de cotisation et que, par conséquent, on ne pouvait affirmer que l'avis avait été « expédié » . Dans un jugement oral, le juge d'appel Hugessen a fait l'observation suivante :
+[traduction]
+Selon la loi, l'Avis n'a jamais cessé d'être en la possession du ministre. Le ministre ne peut pas à la fois envoyer et conserver un avis de nouvelle cotisation.
+[21] En l'espèce, je déclare que le ministre a envoyé l'avis lorsque ce dernier a été ramassé par le messager, même si le ministre avait en son pouvoir de le rappeler[8]. Le sens courant du mot « envoyer » ne soutient pas le sens limitatif que suggère VIH Logging. L'affaire Flanagan ne l'appuie pas non plus puisqu'on y fait allusion à l'avis n'étant plus en la possession du ministre, et non sous son contrôle.
+[22] VIH Logging soutient également que la règle de preuve du paragraphe 244(10) suppose un sens plus limitatif du mot « envoyer » . Cette disposition permet au ministre de produire une preuve par affidavit que l'avis a été « expédié par la poste ou autrement communiqué » . VIH Logging allègue que par l'expression « ou autrement communiqué » , le Parlement entendait que la cotisation soit postée, ou sinon, qu'elle soit communiquée de telle manière que le contribuable en prenne connaissance. Je ne conviens pas que le paragraphe 244(10) limite le sens courant du mot « envoyer » au paragraphe 152(2). Si le Parlement avait visé un critère plus limitatif que ne permet le sens courant de « envoyer » , une autre formulation aurait été employée au paragraphe 152(2). La simple interprétation du paragraphe 152(2) ne devrait pas être modifiée par une règle de preuve telle que le paragraphe 244(10).
+[23] VIH Logging soutient en outre qu'il existe des raisons de principe valables pour adopter une interprétation stricte de « envoyer » . Selon elle, une interprétation large pourrait avoir de conséquences draconiennes car le contribuable pourrait perdre le droit d'appel si l'avis de cotisation n'était pas reçu. D'autres décisions font allusion à ce problème : voir les remarques du juge d'appel Sharlow dans l'affaire Schafer. J'en conclus qu'il faut donner au mot « envoyer » son sens courant, en dépit de la possibilité d'un résultat injuste. Comme le souligne le juge d'appel Sharlow dans l'affaire Schafer, le Parlement a prévu une règle qui peut avoir des résultats draconiens et c'est sa prérogative.
+[24] Par conséquent, je conclus que la cotisation a été établie quand l'avis de cotisation a été ramassé par le messager. À la lumière de ma conclusion selon laquelle l'avis de cotisation a été ramassé le 13 novembre 1997, il s'ensuit que la cotisation n'est pas prescrite.
+Règle déterminative
+[25] Il ne m'est pas nécessaire d'examiner le contre-argument de la Couronne selon lequel la cotisation est réputée établie le 13 novembre 1997 en vertu des paragraphes 244(14) et (15). Je ferai toutefois une brève remarque sur cette question.
+[26] C'est un point difficile. La règle déterminative s'appliquera si « expédié par la poste » comprend la livraison par messager. Dans les dictionnaires, la définition de « poster » n'englobe habituellement pas la livraison par messager mais celle-ci est incluse dans la septième édition du dictionnaire Black's Law Dictionary. La définition de ce dictionnaire semble être appuyée par des décisions rendues aux États-Unis, dont certaines concernant des dispositions liées à la prescription. Cependant, les décisions des États-Unis vont dans les deux sens[9]. Étant donné l'importance de ce point, je suis peu enclin à me prononcer à ce sujet.
+QUESTION EN LITIGE LIÉ À L'ARTICLE 55
+[27] Pendant l'année d'imposition 1994, VIH Logging a participé à un abri fiscal connu sous le nom d'une « opération Bénéfices ltée » . En termes génériques, dans une opération Bénéfices ltée, une société rentable réduit son revenu imposable en achetant des déductions fiscales d'une autre société non apparentée. Le ministre a établi la nouvelle cotisation de VIH Logging relativement aux dividendes reçus dans le cadre de cette convention.
+Faits
+[28] VIH Logging appartient à cent pour cent à Kenneth Norie. Avant les opérations en question, une autre société appartenant à cent pour cent à M. Norie, 401277 B.C. Ltd., dirigeait une entreprise d'exploitation forestière par hélicoptère dans l'île de Vancouver.
+[29] L'entreprise d'exploitation forestière par hélicoptère de 401277 n'a rapporté aucun bénéfice important avant l'année d'imposition qui s'est terminée le 1er mars 1993. M. Norie a retenu les services d'un fiscaliste-conseil concernant le bénéfice prévu pour l'année d'imposition 1993 et par la suite, 401277 et VIH Logging ont mis sur pied une opération Bénéfices ltée qui, advenant son efficacité, devait éliminer le revenu imposable de 401277 pour l'année. L'opération a été exécutée sur une période de neuf jours qui chevauchait la fin de l'année d'imposition 1993.
+[30] Les éléments essentiels d'une opération Bénéfices ltée sont les suivants :
+· Bénéfices ltée cède ses activités rentables à une société apparentée selon une assiette fiscale rentable;
+· une société non apparentée vend à Bénéfices ltée des biens à radiation accélérée qui permettent à Bénéfices ltée d'éliminer son assiette d'imposition pour l'année;
+· les actions de Bénéfices ltée sont vendues à l'ancien propriétaire des biens à radiation accélérée.
+[31] Les parties ont offert la description plus détaillée ci-après. J'ai ajouté après chaque étape une description de l'opération correspondante entreprise par 401277 et VIH Logging. Aucun de ces faits n'est en litige.
+[32] ÉTAPE 1 - Cible modifie son capital autorisé pour permettre l'opération.
+Le 23 février 1993, 401277 a déposé auprès du registre des entreprises une résolution spéciale modifiant son capital autorisé pour créer les deux catégories d'actions privilégiées qui étaient nécessaires pour effectuer les opérations.
+[33] ÉTAPE 2 - Une nouvelle entreprise est constituée en personne morale (Holding ltée) pour acquérir les actions de Cible.
+Le 23 février 1993, VIH Logging a été constituée en personne morale en vertu de la Company Act (loi sur les sociétés) de la C.-B. Sa première année d'imposition a pris fin le 31 janvier 1994. À tous les moments pertinents, M. Norie détenait toutes les actions de cette société. Également le 23 février, M. Norie a échangé les actions de 401277 contre des actions de VIH Logging, et 401277 est devenue une filiale à cent pour cent de VIH Logging.
+[34] ÉTAPE 3 - Cible cède à Holding ltée son actif (moins la somme égale à l'impôt sur le revenu payable par Cible pour l'année) et son passif (à l'exception des impôts sur le bénéfice à payer).
+Le 24 février, 401277 a vendu l'entreprise d'exploitation forestière par hélicoptère à VIH Logging en contrepartie de la prise en charge du passif et de la délivrance d'un billet à ordre. Le prix d'achat fixé pour l'actif s'élevait à 1 850 403 $, ce qui représentait sa juste valeur marchande estimative. Aucune valeur n'a été attribuée au fonds commercial de l'entreprise, de sorte que la cession de celle-ci n'a rapporté qu'un faible gain imposable à 401277.
+[35] ÉTAPE 4 - Cible verse à Holding ltée une suite de dividendes s'élevant au montant du revenu protégé (dividendes en espèces), ainsi qu'un dividende en actions pour tout excédent éventuel.
+Les 24 et 25 février, 401277 a versé à VIH Logging des dividendes en espèces[10] selon des montants de 980 629 $ et de 416 800 $ respectivement. Le montant global, 1 397 429 $, équivalait au revenu protégé estimatif de 401277. Puisque 401277 n'avait pas rapporté de bénéfices importants avant l'année d'imposition 1993, presque tout son revenu protégé estimatif était imputable à la période du 1er mars 1992 au 23 février 1993, le 23 février étant la date de début de l'opération Bénéfices ltée.
+Après le versement des dividendes en espèces, les seuls éléments d'actif et de passif qui restaient à 401277 consistaient en une assiette d'imposition possible de 938 080 $ et en un montant en espèces suffisant pour payer cette dette.
+Après le versement des dividendes en espèces, mais également le 25 février, 401277 a versé à VIH Logging un dividende en actions représentant 366 079 actions privilégiées de catégorie F avec un capital versé de 1 $ chacune. Par ce dividende, le coût de base rajusté total des actions de 401277 se trouvait à augmenter de 366 079 $.
+Le montant global des dividendes en espèces et en actions se situait à 1 763 508 $. Ce montant a été inclus dans le revenu de VIH Logging pour l'année d'imposition terminée le 31 janvier 1994 et a été déduit dans le calcul de son revenu imposable conformément au paragraphe 112(1).
+[36] ÉTAPE 5 - Désignation des nouveaux administrateurs de Cible.
+Le 25 février, deux personnes inconnues de M. Norie sont devenues membres de la direction et administrateurs majoritaires de 401277. Cette démarche a été effectuée à la demande de Senergy Inc., l'entreprise qui a acheté les actions de 401277 quelques jours plus tard.
+[37] ÉTAPE 6 - Cible achète des déductions (dans le cas présent, des données sismiques) suffisantes pour compenser le revenu de l'année courante.
+Le 27 février, 401277 a acheté des données sismiques auprès d'une société non apparentée, 548231 Alberta Ltd. Le prix d'achat s'élevait à 2 200 000 $, soit la juste valeur marchande. Dans le calcul de son revenu pour l'année d'imposition terminée le 1er mars 1993, 401277 a demandé une déduction égale à ce prix d'achat pour frais d'exploration au Canada. Cette déduction a eu pour effet de réduire à zéro le revenu de 401277 pour l'année[11].
+[38] ÉTAPE 7 - Holding ltée vend les actions de Cible à l'acheteur.
+Le 2 mars, VIH Logging a vendu toutes les actions de 401277 à Senergy Inc., société non apparentée. Il semble que Senergy Inc. ait cependant été apparentée à 548231 Alberta Ltd., la société qui a vendu les données sismiques à 401277, mais le litige ne porte pas sur ce point[12]. Le prix d'achat des actions équivalait à leur coût de base rajusté, soit 366 080 $.
+[39] Le ministre a imposé VIH Logging en partant du principe que des dividendes intersociétés s'élevant à 1 624 959 $ étaient réputés être un produit de disposition conformément au paragraphe 55(2) de la Loi. Ce montant représentait 138 549 $ de moins que le total des dividendes reçus. Il en a résulté un gain en capital imposableconsidérable pour VIH Logging pendant l'année d'imposition 1994.
+Dispositions législatives
+[40] Le paragraphe 55(2) de la Loi était ainsi rédigé à l'époque pertinente :
+(2) Lorsqu'une corporation [...] a reçu [...] un dividende imposable [...] comme partie d'une opération ou d'un événement ou d'une série d'opérations ou d'événements [...] dont l'un des objets [...] a été de diminuer sensiblement la partie du gain en capital qui, sans le dividende, aurait été réalisée lors d'une disposition d'une action du capital-actions à la juste valeur marchande, immédiatement avant le dividende et qui pourrait raisonnablement être considérée comme étant attribuable à quoi que ce soit qui n'est pas du revenu gagné ou réalisé par une corporation après 1971 et avant l'opération ou l'événement ou le début de la série d'opérations ou d'événements [...]
+[41] L'alinéa 55(5)c) de la Loi était ainsi rédigé ainsi à l'époque pertinente :
+(5) Aux fins du présent article, [...]
+c) le revenu gagné ou réalisé par une corporation pour toute une période au cours de laquelle elle était une corporation privée est réputé être son revenu pour la période déterminé par ailleurs [...]
+Analyse
+[42] Bien que l'opération Bénéfices ltée ait été conçue pour réduire le revenu imposable de 401277, cette société n'était pas partie à l'appel. En outre, la Couronne a limité son argument au paragraphe 55(2) et par conséquent, je n'ai pris en considération aucun autre argument concernant l'opération Bénéfices ltée, y compris l'application possible de la règle générale anti-évitement.
+[43] Le paragraphe 55(2) est une disposition anti-évitement visant le « dépouillement de gains en capital » . Le dépouillement de gains en capital transforme ce qui serait un gain en capital imposable provenant de la disposition d'actions en un dividende intersociétés en franchise d'impôt[13]. Cependant, de telles opérations ne dérogent pas toutes aux principes, et le paragraphe 55(2) tente d'exclure de sa portée celles qui restent inoffensives. L'extraction permise de ce que l'on appelle dans le langage courant le « revenu protégé » en est un exemple. Pendant l'année d'imposition pertinente, le revenu protégé était décrit au paragraphe 55(2) comme le « revenu gagné ou réalisé par une corporation après 1971 et avant l'opération ou l'événement ou le début de la série d'opérations ou d'événements » .
+[44] L'ADRC décrivait dans les termes suivants en 1978 la politique qui sous-tend l'extraction permise du revenu protégé :
+[traduction]
+[...] le gain en capital relatif à la disposition économique sans lien de dépendance des actions [...] « ne devrait pas être inférieur à l'augmentation de valeur des actions raisonnablement imputable à l'appréciation non réalisée ou non imposée du fonds commercial et d'autres éléments d'actif après 1971 » [14].
+[45] L'abri fiscal du cas en l'espèce n'est pas un dépouillement des gains en capital ordinaire. Dans une opération ordinaire, le but est de réduire au minimum l'impôt sur la vente imminente d'actions. Dans le cas présent, M. Norie ne souhaitait nullement vendre l'entreprise d'exploitation forestière par hélicoptère que 401277 dirigeait. Le dépouillement des gains en capital était plutôt ici un élément secondaire d'une série d'opérations de plus grande envergure, conçue pour éliminer l'impôt à payer sur le revenu de 401277 pour l'année d'imposition 1993.
+[46] VIH Logging a présenté les observations suivantes concernant le paragraphe 55(2) :
+· le revenu protégé de 401277 inclut les bénéfices de l'entreprise d'exploitation forestière par hélicoptère jusqu'au 23 février 1993 et, par conséquent, le revenu protégé suffisait à couvrir les dividendes en espèces;
+· les dividendes en espèces n'ont jamais eu pour objet de réduire le gain en capital qui serait payable à la disposition des actions de 401277;
+· les dividendes en espèces n'ont jamais eu pour objet d'extraire des fonds excédant le revenu protégé;
+· l'objet du dividende en actions n'était pas de réduire le gain en capital qui serait payable si la disposition des actions de 401277 avait lieu juste avant le dividende en actions.
+Revenu protégé
+[47] Le calcul du revenu protégé de VIH Logging incluait les bénéfices de l'exploitation forestière par hélicoptère pendant la majeure partie de 1993, même si 401277 n'a eu aucun revenu imposable pour l'année en raison de la déduction des données sismiques.
+[48] La Couronne n'a pas contesté le fait que la déduction des données sismiques ne réduisait pas le revenu protégé parce que les données sismiques ont été achetées après la période de calcul du revenu protégé du paragraphe 55(2). De prime abord, cela ne semble pas cadrer avec la position administrative de l'ADRC selon laquelle les pertes subies après le début de la série d'opérations devraient réduire le revenu protégé disponible si les pertes étaient prévues. La déduction des données sismiques était certainement prévue dès le début de la série d'opérations. Cependant, la « perte » qui a découlé de la déduction n'était pas une perte entraînant une réduction de la valeur de l'entreprise et, par conséquent, la Couronne convient que la déduction des données sismiques n'a pas réduit le revenu protégé disponible.
+[49] La Couronne fonde plutôt son argument sur la règle déterminative de l'alinéa 55(5)c). Elle maintient que cette règle modifie la période de calcul du revenu protégé présentée au paragraphe 55(2) en excluant toute période plus courte qu'une année d'imposition complète. En l'espèce, le revenu protégé exclurait les bénéfices enregistrés pendant l'exercice raccourci du 1er mars 1992 au 23 février 1993[15].
+[50] L'argument de la Couronne insiste sur la formule « revenu pour la période qui serait déterminé par ailleurs » à l'alinéa 55(5)c). Il ne fait aucun doute que l'alinéa 55(5)c) est une règle déterminative qui l'emporte sur le paragraphe 55(2). La Couronne laisse supposer qu'en vertu de l'article 3 de la Loi, le revenu n'est déterminé que pour des années d'imposition complètes et que, par conséquent, tout revenu déterminé par ailleurs ne peut pas inclure une année d'imposition partielle. Tout en admettant que cette interprétation va à l'encontre de la politique administrative de l'ADRC, l'avocat de la Couronne déclare qu'elle n'est pas nouvelle. Selon lui, dans un document présenté à une conférence de l'Association canadienne d'études fiscales en 1992, Jake E. Harms a fait allusion à l'argument selon lequel le revenu protégé n'inclut que le revenu d'une année d'imposition complète[16].
+[51] La Couronne suggère que cette interprétation est exigée par le libellé de la loi et justifiable pour des motifs de principe car elle tient mieux compte des bénéfices non répartis frappés d'impôt.
+[52] Quant à l'argument de principe, il est clair que l'intention générale du Parlement était de permettre l'extraction de « bénéfices non répartis frappés d'impôt » grâce à des dividendes intersociétés en franchise d'impôt. Cependant, je ne conviens pas que l'interprétation de la Couronne traduit le mieux cette intention. D'après mon analyse, on retient mieux les bénéfices non répartis frappés d'impôt en incluant le revenu gagné pendant les années d'imposition partielles parce que, dans la plupart des cas, de l'impôt sera payé sur ce revenu. Il en serait certainement ainsi dans un dépouillement des gains en capital ordinaire où les dividendes intersociétés sont versés juste avant la vente des actions. Lorsqu'on donne une interprétation téléologique à la loi,il importe de viser l'interprétation qui traduit le mieux l'intention du Parlement dans le plus grand nombre de circonstances possible et non seulement dans les faits restreints qui sont décidés dans une affaire particulière. À mon avis, l'argument de principe de la Couronne a ce défaut.
+[53] Quant à l'argument de la Couronne selon lequel la formulation de l'alinéa 55(5)c) exige cette interprétation, je ne pense pas que l'interprétation de la Couronne soit la plus raisonnable lorsqu'on lit l'alinéa 55(5)c) dans le contexte.
+[54] À la lecture de l'alinéa 55(5)c) et du paragraphe 55(2) ensemble, il me paraît évident que le Parlement visait à l'alinéa 55(5)c) à fixer la méthode de calcul du revenu protégé et au paragraphe 55(2), à fixer la période de calcul du revenu protégé. Au paragraphe 55(2), la période de calcul du revenu protégé s'étend de 1971 jusqu'au début de la série d'opérations. L'alinéa 55(5)c), par contre, n'établit pas de période de calcul, du moins pas explicitement. Si l'alinéa 55(5)c) était destiné à supplanter la période de calcul clairement énoncée au paragraphe 55(2), il aurait fallu l'exprimer en termes beaucoup plus clairs.
+Tout en concluant que l'interprétation contextuelle avantage VIH Logging, il reste à déterminer si l'alinéa 55(5)c) se prête à une telle interprétation. La question est de savoir si l'expression « revenu pour la période qui serait déterminé par ailleurs » peut être interprétée de manière à inclure des années d'imposition partielles.
+D'après l'alinéa 55(5)c), le revenu protégé doit être déterminé conformément à l'article 3 pour la période fixée au paragraphe 55(2). Pour calculer le revenu en vertu de l'article 3 pendant une période plus courte qu'une année d'imposition complète, il existe deux approches possibles. La première approche consisterait à calculer le revenu comme si la période était une année d'imposition complète. La seconde approche consisterait à conclure qu'aucun revenu ne correspond à cette période. À mon avis, la première approche est la plus raisonnable. J'admets que cela pourrait donner à penser que l'on interprète ainsi les mots « déterminé par ailleurs » de manière inhabituelle, mais cela reste selon moi la seule interprétation raisonnable en l'occurrence.
+[55] Une autre des difficultés que pose selon moi l'argument de la Couronne est qu'il en résulterait une période de calcul du revenu protégé différente pour différents types de sociétés. L'alinéa 55(5)c) ne s'applique qu'aux périodes pendant lesquelles une société est une société privée. Le calcul du revenu protégé des sociétés publiques et des sociétés étrangères affiliées est visé par les règles déterminatives des alinéas 55(5)b) et d) respectivement. Dans certaines situations, il n'y a pas de règles déterminatives applicables. Il est peu probable que le Parlement ait souhaité une période de calcul du revenu protégé différente selon le statut de la société concernée.
+[56] En dernier lieu, je remarque que la position de la Couronne est contraire à la position administrative appliquée par l'ADRC des centaines de fois depuis 20 ans. Si l'interprétation extrêmement technique de l'alinéa 55(5)c) adoptée par la Couronne était acceptée, la loi exigerait clairement ce résultat.
+[57] Par conséquent, je déclare que le revenu protégé inclut le revenu de 401277 pour l'année partielle terminée le 23 février 1993.
+L'objet était-il de réduire le gain?
+[58] Pour sa part, VIH Logging suggère dans son argument qu'en participant à l'opération Bénéfices ltée, elle n'avait pas l'objet qui constitue un élément nécessaire à l'application du paragraphe 55(2). Les dividendes en espèces reçus par VIH Logging totalisaient 1 397 429 $, ce qui équivaut environ au revenu protégé imputable aux actions de 401277.
+[59] On ne conteste pas que les dividendes en espèces ont entraîné une réduction du gain en capital qui serait réalisé si les actions de 401277 étaient vendues à leur juste valeur marchande immédiatement avant le dividende particulier. Avant le paiement des dividendes en espèces, les actions de 401277 valaient au moins 1 443 000 $, et leur coût de base rajusté restait nominal. La question réside cependant dans l'objet, non dans le résultat.
+[60] VIH Logging maintient qu'en versant les dividendes en espèces, elle avait pour objet de supprimer des éléments d'actif de 401277 et non de réduire le gain en capital. Ces observations étaient fondées sur le témoignage de M. Norie. Je ne suis pas d'accord. L'un des objets de M. Norie était de permettre la vente des actions de 401277 en franchise d'impôt, et le versement des dividendes en espèces était une étape nécessaire pour atteindre ce but. M. Norie n'était peut-être pas au courant des détails de l'opération Bénéfices ltée, mais il était certainement au courant de l'incidence fiscale globale prévue. En outre, les fiscalistes-conseils de M. Norie connaissaient assurément les conséquences fiscales des dividendes en espèces. Ces circonstances satisfont au critère de l'objet du paragraphe 55(2).
+L'objet était-il d'extraire le revenu protégé?
+[61] L'argument subsidiaire de VIH Logging était qu'elle croyait posséder un revenu protégé suffisant et que, par conséquent, son objet n'était pas d'extraire des fonds excédant le revenu protégé. Cette interprétation soulève la question de savoir si le critère de l'objet d'une loi est un double critère, c'est-à-dire de réduire le gain et d'extraire des fonds excédant le revenu protégé. Au point de vue grammatical, le critère de l'objet pourrait être interprété comme un critère double mais il n'a pas besoin de l'être. L'une ou l'autre interprétation reste possible. À mon avis, la meilleure interprétation est celle que le critère de l'objet est un critère simple. Il est très peu probable que le Parlement ait souhaité fournir au contribuable la possibilité d'éviter l'application du paragraphe 55(2) en calculant mal le revenu protégé.
+[62] Pour ces raisons, je ne suis pas persuadé par les contre-arguments de VIH Logging concernant le critère de l'objet.
+L'objet du dividende en actions était-il de réduire le gain?
+[63] Après avoir reçu des dividendes en espèces d'un montant égal au revenu protégé de 401277, VIH Logging a reçu un dividende en actions d'un montant de 366 079 $. L'objet du dividende en actions était de hausser le coût de base rajusté du total des actions de 401277 à 366 080 $ en prévision de la vente possible de ces actions contre ce montant. On ne conteste pas que l'objet du dividende en actions était de réduire le gain. La question est de savoir quel gain était réduit.
+[64] VIH Logging soutient que l'objet du dividende en actions n'était pas de réduire le gain en capital qui serait réalisé immédiatement avant le dividende. Elle laisse entendre que la juste valeur marchande des actions immédiatement avant le dividende était nominale et qu'aucun gain n'aurait donc été réalisé grâce à leur vente à cette époque.
+[65] L'argument de VIH Logging repose sur la valeur nulle des actions de 401277 le 25 février[17]. À cette date, 401277 avait comme seul passif un élément de passif éventuel lié à l'impôt sur le revenu, et son seul actif était le montant en espèces équivalant à l'assiette fiscale. La valeur de 401277 a augmenté deux jours plus tard car le 27 février, l'élément de passif éventuel a été éliminé grâce à l'achat des données sismiques. VIH Logging a présenté une preuve d'expert quant à l'évaluation[18] et, bien que la Couronne n'ait pas explicitement adhéré à l'évaluation, elle ne l'a pas vigoureusement mise en doute. En l'occurrence, j'accepte la preuve d'évaluation présentée par VIH Logging.
+[66] Par conséquent, je conclus que le dividende en actions n'est pas visé par le paragraphe 55(2) puisqu'aucun des objets du dividende n'était de réduire un gain en capital qui serait réalisé advenant la vente des actions immédiatement avant le dividende.
+CONCLUSION
+[67] L'appel est admis, avec dépens, et la nouvelle cotisation de l'année d'imposition 1994 est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux présents motifs.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 26e jour de mars 2004.
+Nancy Bouchard, traductrice
+[1] C.A.F., no A-515-95, 15 décembre 1995 (96 DTC 6044).
+[2] La cotisation a été délivrée par le prédécesseur de l'ADRC, Revenu Canada Impôt. Pour plus de commodité, l'abréviation ADRC sera employée en renvoyant aux deux organismes.
+[3] C.C.I, no APP-478-96-GST, 3 juin 1998 ([1998] G.S.T.C. 60).
+[4]
+C.A.F., no A-553-02, 2 juillet 2003 ([2003] F.C.J. No. 1044).
+[5]
+Paragraphes 244(14) et (15) de la Loi.
+[6]
+87 DTC 5390 (C.A.F.).
+[7] Oxford English Dictionary Online.
+[8]
+Pour parvenir à cette conclusion, je présume que le messager n'agissait pas en tant qu'agent du ministre. L'avocat de VIH Logging m'a renvoyé au résumé d'une décision inédite, Urlin v. Knowles, (March 20, 1992), Doc. 5810/91 (Ont. Gen. Div.) comme à l'autorité concernant la proposition selon laquelle un messager agit à titre d'agent. Or, le résumé n'appuie pas cette proposition. Il conclut simplement que rien ne prouve que le messager agissait en tant que l'agent de la personne recevant la livraison.
+[9] Voir l'affaire Continental Sports Corp. v. Dept. of Labour and Industries, (1996) 128 Wash. 2d 594 (Wash. S.C.).
+[10] Ces dividendes étaient en espèces et en quasi-espèces.
+[11]
+Les parties ont convenu que la perte découlant de la déduction liée aux données sismiques n'était pas visée par l'acquisition de limites de contrôle parce qu'il n'y a pas eu de changement de contrôle avant la clôture de l'exercice.
+[12] Je n'ai pas reçu tous les détails de l'opération Bénéfices ltée. Les parties m'ont épargné ceux qui n'étaient pas pertinents dans la question liée au paragraphe 55(2).
+[13] Pour obtenir d'excellents éléments de base sur le paragraphe 55(2), voir Robert Couzin, « Intercorporate Distributions » , dans Report of Proceedings of the Thirty-fourth Tax Conference, du 22 au 24 novembre 1982, Toronto, Association canadienne d'études fiscales, 1983, p. 311-356, à la page 329.
+[14] Ibid., à la page 331.
+[15] Le début de l'opération Bénéfices ltée se situe au 23 février. VIH Logging a pratiquement admis que l'opération Bénéfices ltée constituait une série d'opérations. D'après mon analyse, mais le litige ne porte pas sur ce point.
+[16]
+L'allocution intitulée « Section 55: A Primer » a été prononcée à la Conférence fiscale des provinces des Prairies de 1992.
+[17]
+Pour simplifier l'analyse, je n'ai pas tenu compte du montant de 45 571 $ qui, au dire de VIH Logging, était la valeur réelle des actions à l'époque pertinente. C'est une petite somme, et aucune des parties n'a présenté d'observations à son sujet. Je n'ai pas examiné en détail l'application du paragraphe 55(2) à ce montant, mais il semble raisonnable que le paragraphe 55(2) s'y applique. La Couronne a convenu qu'une désignation distincte en vertu de l'alinéa 55(5)f) pourrait être faite.
+[18] L'un des points intéressants concernant l'évaluation est de savoir si l'achat prévu des données sismiques le 27 février devrait être pris en ligne de compte dans l'évaluation des actions le 25 février. VIH Logging allègue que M. Norie aurait pu mettre fin aux opérations à n'importe quel moment et que par conséquent, l'achat des données sismiques n'était pas prédestiné. Cependant, l'évaluateur a souligné que même un achat prédestiné de données sismiques n'influerait pas sur l'évaluation des actions parce que les pertes subséquentes ne pourraient pas être reportées à un exercice antérieur en raison du changement de contrôle.

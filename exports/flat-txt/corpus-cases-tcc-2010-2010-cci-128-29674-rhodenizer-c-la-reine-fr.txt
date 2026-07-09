@@ -1,0 +1,138 @@
+Title: Rhodenizer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29674/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-128-29674-rhodenizer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-03-05
+
+# Rhodenizer c. La Reine
+
+- Citation: 2010 CCI 128
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6241, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rhodenizer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-05
+Référence neutre
+2010 CCI 128
+Numéro de dossier
+2009-2424(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2424(GST)I
+ENTRE :
+LOUISE ANN RHODENIZER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 décembre 2009, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en date du 22 décembre 2008 et portant le numéro 84132 9022 RT0001 relative à la demande de remboursement de la taxe sur les produits et services pour une habitation modifiée de façon majeure est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+Référence : 2010 CCI 128
+Date : 20100305
+Dossier : 2009-2424(GST)I
+ENTRE :
+LOUISE ANN RHODENIZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L'appel en l'instance résulte du rejet par le ministre du Revenu du Québec (le « ministre »), dans le cadre de son mandat d'administration de la taxe sur les produits et services (la « TPS »), de la demande de remboursement de TPS au montant de 950,73 $ pour une habitation neuve ou modifiée de façon majeure à l'égard d'un bâtiment résidentiel situé au 78, rue Frédérick, Saint-Alphonse de Rodriguez (Québec). La demande de remboursement a été présentée par l'appelante le ou vers le 4 septembre 2008 et la décision du ministre refusant ladite demande a été rendue par l'avis de cotisation portant le numéro 84132 9022 RT0001 et daté du 22 décembre 2008.
+[2] Le différend entre les parties porte uniquement sur la question de savoir si les travaux de rénovation satisfont à la définition de l'expression « rénovations majeures » pour l'application du paragraphe 256(2) de la Loi sur la taxe d'accise, L.R.C. (1985), c. E-15, telle que modifié, (la « LTA »). L'expression « rénovations majeures » est définie au paragraphe 123(1) de la LTA comme suit :
+« rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un bâtiment d'habitation ou fait partie d'un tel bâtiment.
+[3] Selon le ministre, le bâtiment d'habitation à l'égard duquel l'appelante a demandé le remboursement n'a pas subi de rénovations majeures au sens de la LTA. Dans son avis d'opposition (pièce I-1), l'appelante a indiqué que le sous-sol a été complètement refait suite aux travaux effectués dans le cadre du contrat d'excavation conclu avec l'entrepreneur, Guilbault Excavation Inc., le 8 octobre 2007 (pièce A-2). Aux termes de ce contrat, les travaux à effectuer étaient les suivants:
+a) levage du bâtiment;
+b) démantèlement des fondations existantes;
+c) excavation pour les fondations;
+d) fournir et installer la semelle et les fondations incluant une entrée au sous-sol et 4 supports (pour futures galeries);
+e) fournir et installer l'armature des fondations;
+f) fournir et installer les ouvertures pour les fenêtres au sous-sol;
+g) fournir et installer un drain français;
+h) fournir et installer la pierre ¾ net à l'intérieur des fondations et sur le drain;
+i) goudronner les fondations;
+j) fournir et installer les poteaux ajustables;
+k) fournir et installer un puits de sous-sol;
+l) fournir et installer un polythène sous la dalle de béton;
+m) fournir et installer une dalle de béton; et
+n) remblayer seulement avec le matériel excavé.
+[4] Les travaux de rénovation à l'égard desquels l'appelante a réclamé un remboursement de taxes ont en grande partie résulté des travaux d'excavation ci-dessus décrits. Le bâtiment qui datait d'une trentaine d'années a subi des dommages importants suite à la levée de ce dernier. Lors de la réalisation des travaux de rénovation, le sous-sol était complètement rénové et l'appelante et son conjoint habitaient au sous-sol.
+[5] Dans un document daté du 5 avril 2009, l'appelante a fourni des renseignements supplémentaires suivants concernant les travaux de rénovation effectués au rez-de-chaussée :
+- changer les tuiles de la salle de bain;
+- changer les moulures au bas des murs;
+- réparer les fissures en haut des portes;
+- réparer les fissures en haut des fenêtres;
+- changer la poignée de la porte extérieure;
+- ajuster les portes intérieures et extérieures;
+- peinturer toutes les pièces;
+- changer les moulures du plancher flottant entre les portes;
+- changer la plomberie de la cuisine et de la salle de bain;
+- changer la toilette;
+- changer le robinet du bain;
+- changer les prises électriques et les interrupteurs dans toutes les pièces;
+- changer le calorifère et le thermostat de la cuisine;
+- changer la cage d'escalier et le recouvrement des marches;
+- changer la fenêtre de la salle de bain;
+- changer le ventilateur au plafond de la salle de bain; et
+- changer le silicone autour du comptoir de la cuisine.
+[6] Lors de son témoignage à l'audience, l'appelante a apporté d'autres précisions concernant les travaux effectués :
+- la cage et l'escalier du sous-sol ont été refaits à neuf;
+- le revêtement extérieur a dû être enlevé et remplacé;
+- le perron extérieur, l'abri d'auto, le trottoir de l'entrée principale, l'entrée en asphalte et le terrassement ont été refaits;
+- l'entrée de la cave a dû être déplacée;
+- 2 nouveaux calorifères ont été installés au rez-de-chaussée et 4 nouveaux calorifères au sous-sol; et
+- une boîte de porte intérieure au rez-de-chaussée a dû être changée.
+Toutes les pièces du bâtiment ont été retouchées, exception faite du toit, et le coût pour l'ensemble des travaux a excédé 55 000 $.
+[7] Le ministre a établi la cotisation sur la base que la salle de bain a fait l'objet de rénovations importantes mais que les autres travaux effectués constituaient des réparations mineures et esthétiques, telles les applications de plâtre, les moulures et la peinture, ou ne sont pas des travaux admissibles, tels la réfection des fondations ou le replacement des escaliers. En conséquence, les travaux admissibles effectués par l'appelante à son bâtiment d'habitation n'a pas transformé son bâtiment au point où la totalité ou presque de ce qui existait avant les travaux a été enlevé ou remplacé. Règle générale, l'expression « la totalité ou presque » est interprétée comme signifiant 90% ou plus.
+[8] Les travaux réalisés par l'appelante étaient certainement très importants et constituaient des rénovations majeures au sens ordinaire donné à cette expression. Par contre, le législateur a défini l'expression « rénovations majeures » de façon très restrictive puisqu'il y a exclu des travaux qui en théorie devraient être considérés comme majeurs. Les travaux faits aux fondations, aux murs extérieurs, aux murs intérieurs de soutien, aux planchers, au toit et aux escaliers sont exclus aux fins de la définition. Par conséquent, il faut déterminer si les autres travaux effectués sur le bâtiment sont suffisants pour que le bâtiment soit considéré comme ayant été rénové ou transformé au point où la totalité ou presque du bâtiment a été enlevée ou rénovée.
+[9] Même en considérant l'ensemble des travaux de rénovation, y compris ceux du sous-sol, je ne crois pas que la totalité ou presque du bâtiment a été enlevée ou remplacée. Exception faite du sous-sol et de la salle de bain, le rez-de-chaussée du bâtiment d'habitation n'a fait l'objet que de changements de nature esthétique.
+[10] Les armoires et le comptoir de la cuisine n'ont pas été changés mais la plomberie de la cuisine a subi des modifications. Les pièces du rez-de-chaussée n'ont pas subi de modification. Seule la cage d'une porte intérieure a été remplacée. Seuls les prises et les interrupteurs électriques ont été remplacés et 2 calorifères du rez-de-chaussée ont été ajoutées ou remplacées.
+[11] Les travaux à la fondation, aux murs extérieurs et à l'escalier du sous-sol ne sont pas des travaux admissibles. Il en est de même pour les travaux relatifs au patio et l'abri d'auto parce qu'ils ne sont pas considérés comme une partie habitable. Les travaux effectués au trottoir d'entrée, à l'entrée d'asphalte et au terrassement ne sont pas admissibles.
+[12] Le coût des travaux de rénovation n'est pas un critère dont on doit tenir compte lors de la détermination si les travaux correspondaient à des rénovations majeures. Par conséquent, je ne peux faire droit à la demande de l'appelante.
+[13] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2010 CCI 128
+Nº DU DOSSIER DE LA COUR : 2009-2424(GST)I
+INTITULÉ DE LA CAUSE : Louise Ann Rhodenizer c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 4 décembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 5 mars 2010
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Maryse Nadeau-Poissant
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Maryse Nadeau-Poissant
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

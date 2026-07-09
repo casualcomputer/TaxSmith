@@ -1,0 +1,185 @@
+---
+title: "Rybakov c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/458667/index.do"
+last_modified: "2019-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 284"
+citation2: ""
+neutral_citation: "2019 CCI 284"
+decision_date: "2019-12-19"
+language: "fr"
+item_id: "458667"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4296
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:04:17.139000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ca411240adbb125371fbc4903faf811b8e70afe96d6a932eca6983bbbc6fb7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rybakov c. La Reine
+
+- Citation: 2019 CCI 284
+- Decision date: 2019-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4296, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rybakov c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-19
+Référence neutre
+2019 CCI 284
+Numéro de dossier
+2018-4468(GST)G
+Juges et Officiers taxateurs
+Siobhan Monaghan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-4468(GST)G
+ENTRE :
+ANDREY RYBAKOV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2018-4469(GST)G
+ET ENTRE :
+YULIA RYBAKOVA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête des appelants, déposée le 15 octobre 2019
+Discussion par conférence téléphonique, le 3 décembre 2019
+Autres observations écrites des appelants déposées
+le 13 décembre 2019
+Devant : L’honorable juge K.A. Siobhan Monaghan
+Participants :
+Avocats de l’appelant :
+Me Bobby B. Solhi
+Me Bhuvana Sankaranarayanan
+Avocate de l’intimée :
+Me Katie Beahen
+ORDONNANCE
+ATTENDU QUE les appelants ont chacun déposé une requête le 15 octobre 2019, pour obtenir les réparations suivantes :
+le sursis d’exécution d’une partie du jugement de la Cour, en date du 4 octobre 2019 (le jugement), plus précisément la partie du jugement ordonnant à l’appelant(e) de modifier l’avis d’appel modifié de la présente affaire (l’ordonnance de modification), en conformité avec l’alinéa 172(2)b) des Règles, jusqu’à ce que la Cour d’appel fédérale tranche un appel du jugement sur le fond.
+ET ATTENDU QUE l’avocate de l’intimée, dans une lettre en date du 15 octobre 2019, a consenti aux requêtes des appelants;
+ET ATTENDU QUE, à la demande de l’avocat des appelants, pendant la conférence téléphonique, tenue le 3 décembre 2019, une ordonnance a été rendue permettant aux appelants de faire d’autres observations écrites qui ont été déposées le 13 décembre 2019;
+PAR CONSÉQUENT, il est ordonné que l’ordonnance de la Cour, en date du 4 octobre 2019, à l’exception des parties de ladite ordonnance ayant déjà été respectées, fasse l’objet d’un sursis d’exécution en attendant l’issue de l’appel visant ladite ordonnance devant la Cour d’appel fédérale.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+Traduction certifiée conforme
+ce 14e jour de février 2020.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 284
+Date : 20191219
+Dossier : 2018-4468(GST)G
+ENTRE :
+ANDREY RYBAKOV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2018-4469(GST)G
+ET ENTRE :
+YULIA RYBAKOVA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Monaghan
+I. INTRODUCTION
+[1] Les appelants ont présenté une requête de sursis d’exécution d’une partie de l’ordonnance de la Cour, en date du 4 octobre 2019, car ladite ordonnance a fait l’objet d’un appel devant la Cour d’appel fédérale. L’ordonnance du 4 octobre 2019 a été rendue à la suite de la demande de jugement par défaut des appelants.
+[2] La demande de jugement par défaut a été rejetée. Toutefois, l’ordonnance du 4 octobre 2019 rendue à la suite de l’audition de la demande exigeait également (i) que les appelants modifient leurs avis d’appel modifiés pour se conformer à la formule 21(1)a); et (ii) que l’intimée dépose la réponse à chaque avis d’appel modifié dans les 45 jours de la signification des avis d’appel modifiés des appelants à l’intimée, de la manière prévue dans l’ordonnance du 4 octobre 2019. Parmi les huit moyens d’appel des appelants figure l’allégation que la Cour a commis une erreur de droit en accordant à l’intimée une prorogation du délai pour déposer la réponse aux avis d’appel modifiés des appelants.
+[3] La déclaration des appelants voulant que les réponses soient tardives constituait le fondement de leur demande de jugement par défaut. En ce qui concerne la demande, l’intimée n’était pas en accord avec le fait que les réponses étaient tardives. Toutefois, au cas où la Cour conviendrait que les réponses étaient tardives, l’intimée a demandé une prorogation du délai pour présenter les réponses. Les appelants ont contesté la demande, car l’intimée n’a pas déposé un avis de requête, en conformité avec l’alinéa 44(1)b) et l’article 65 des Règles. Dans les motifs de mon ordonnance du 4 octobre 2019, j’ai indiqué être d’accord avec l’intimée que les réponses n’étaient pas tardives et que l’intimée n’avait pas besoin d’une prorogation du délai. Toutefois, j’ai poursuivi en indiquant que, si j’avais tort, j’exercerais mon pouvoir discrétionnaire d’accorder à l’intimée une prorogation du délai pour déposer les réponses. En ce qui concerne la question de savoir si j’ai eu tort de conclure que les réponses n’étaient pas tardives et, si tel est le cas, d’accorder une prorogation du délai, il s’agit là de deux des décisions faisant l’objet de l’appel.
+II. SURSIS D’EXÉCUTION D’UNE ORDONNANCE
+[4] L’alinéa 172(2)b) des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) permet à la Cour d’accorder le sursis d’exécution d’une ordonnance [1] de la Cour, à la suite de la présentation d’une requête d’une partie. En l’espèce, l’intimée a consenti à la demande de sursis d’exécution des appelants. Toutefois, malgré le consentement de l’intimée, pour obtenir gain de cause, les appelants doivent satisfaire au critère défini dans l’arrêt RJR – MacDonald Inc. c. Canada (Procureur général) [2] . Ce critère exige que les appelants établissent :
+qu’il existe une question sérieuse à juger;
+que l’omission de rendre l’ordonnance demandée causera vraisemblablement un préjudice irréparable;
+que la prépondérance des inconvénients milite en faveur du statu quo jusqu’à ce que la question juridique ait été tranchée.
+III. QUESTION SÉRIEUSE À JUGER
+[5] Le seuil à franchir relativement à l’existence d’une question sérieuse est bas. Le juge saisi de la demande doit être « convaincu qu’une réclamation n’est ni futile ni vexatoire » [3] . Essentiellement, je dois pouvoir conclure que la question n’est pas vouée à l’échec [4] . Comme je l’ai indiqué dans les motifs de mon ordonnance du 4 octobre 2019, l’affaire n’est pas habituelle. Elle comporte l’interaction entre les règles de procédure informelle et formelle et l’établissement d’une nouvelle cotisation à la suite de l’introduction d’un appel. Je conclus qu’il existe une question sérieuse à juger et que, par conséquent, le premier critère de l’arrêt RJR – MacDonald a été satisfait.
+IV. PRÉJUDICE IRRÉPARABLE
+[6] Dans plusieurs cas, la Cour d’appel fédérale a conclu qu’un préjudice irréparable peut être établi lorsqu’un refus d’accorder le sursis d’exécution rendrait l’appel inutile. Les appelants font valoir qu’à défaut d’un sursis, ils subiront un préjudice irréparable, car, s’ils doivent modifier leurs avis d’appel modifiés, forçant ainsi l’intimée à déposer les réponses, avant que la Cour d’appel fédérale n’ait rendu sa décision dans l’appel visant l’ordonnance du 4 octobre 2019, l’appel visant l’ordonnance est inutile.
+[7] Quoique l’avis de requête de sursis des appelants indique qu’ils demandent le [traduction] « sursis d’exécution d’une partie du jugement ordonnant aux appelants de modifier l’avis d’appel modifié », à mon avis, l’obligation de déposer les modifications à l’avis d’appel modifié n’entraîne aucun préjudice irréparable aux appelants. Bien que les appelants aient interjeté appel de mes conclusions au sujet de leurs avis d’appel modifiés, à mon avis, il est difficile de voir comment un avis d’appel modifié en conformité avec mon ordonnance du 4 octobre 2019 désavantage les appelants, sauf en ce qui concerne les frais. Les volets de l’ordonnance du 4 octobre 2019 sont liés à la question de savoir si un jugement par défaut aurait dû être rendu, soit l’une des mesures de réparation que les appelants cherchent à obtenir dans le contexte de l’appel. Même si les modifications à l’avis d’appel modifié étaient apportées conformément à l’ordonnance du 4 octobre 2019, la Cour d’appel fédérale pourrait néanmoins décider de rendre un jugement par défaut en faveur des appelants [5] . Je ne constate aucun préjudice irréparable si les avis d’appel modifiés sont modifiés conformément à l’ordonnance.
+[8] Toutefois, en appel, il est demandé à la Cour d’appel fédérale de conclure (i) que j’ai eu tort de conclure que les réponses n’étaient pas tardives, et (ii) que, dans les circonstances, je n’aurais pas dû accepter de proroger le délai pour déposer les réponses. Je suis convaincue que, si les réponses étaient déposées, ce volet de l’appel serait inutile. Ainsi, les appelants ont satisfait au deuxième critère de l’arrêt RJR – Macdonald.
+V. PRÉPONDÉRANCE DES INCONVÉNIENTS
+[9] En vertu du troisième volet du critère de l’arrêt RJR – MacDonald, le juge doit déterminer laquelle des parties subirait le plus grand préjudice selon que l’on accorde ou refuse le sursis demandé. En l’espèce, l’intimée a consenti au sursis. L’intimée convient probablement qu’elle ne subit aucun préjudice et qu’elle ne subira pas un plus grand préjudice que celui que subiraient les appelants si le sursis ne leur était pas accordé.
+[10] Je conclus que la prépondérance des inconvénients penche en faveur de l’octroi de du sursis, en grande partie pour les mêmes motifs qui m’ont permis de conclure que le deuxième volet du critère de l’arrêt RJR – MacDonald est satisfait. En d’autres termes, le sursis d’exécution de l’ordonnance du 4 octobre 2019 n’impose aucuns frais importants à l’intimée. Par contre, si le sursis d’exécution de l’ordonnance du 4 octobre 2019 n’est pas accordé, au moins une partie de l’appel des appelants visant l’ordonnance peut être rendue inutile.
+VI. CONCLUSION
+[11] J’ai décidé qu’il ne convient pas, dans ces circonstances, de n’octroyer que le sursis d’exécution de la partie de l’ordonnance du 4 octobre 2019 accordant à l’intimée un délai supplémentaire pour déposer ses réponses. Cela reviendrait à accorder à l’intimée un délai beaucoup plus long pour déposer les réponses que le délai prévu dans l’ordonnance du 4 octobre 2019 ou dans les Règles, calculé à partir du dépôt des avis d’appel modifiés. Ainsi, pour les motifs susmentionnés, j’ai décidé d’octroyer le sursis d’exécution à l’égard de tous les volets de l’ordonnance du 4 octobre 2019 qui n’ont pas déjà été respectés [6] .
+Signé à Ottawa, Canada, ce 19e jour de décembre 2019.
+« K.A. Siobhan Monaghan »
+La juge Monaghan
+Traduction certifiée conforme
+le 14e jour de février 2020.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 284
+NO DU DOSSIER DE LA COUR :
+2018-4468(GST)G
+2018-4469(GST)G
+INTITULÉ :
+ANDREY RYBAKOV c. SA MAJESTÉ LA REINE
+YULIA RYBAKOVA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Requête des appelants, déposée par écrit, le 15 octobre 2019
+Discussion par conférence téléphonique, le 3 décembre 2019
+Autres observations écrites de l’appelant déposées le 13 décembre 2019
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge K.A. Siobhan Monaghan
+DATE DE L’ORDONNANCE :
+Le 19 décembre 2019
+PARTICIPANTS :
+Avocats de l’appelant :
+Me Bobby B. Solhi
+Me Bhuvana Sankaranarayanan
+Avocate de l’intimée :
+Me Katie Beahen
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Bobby B. Solhi
+Cabinet :
+Borden Ladner Gervais S.E.N.C.R.L., S.R.L.
+Toronto (Ontario)
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L’alinéa 172(2)b) fait référence à un jugement, mais la définition du terme « jugement », à l’article 2, indique qu’une ordonnance est assimilée à un jugement.
+[2] (1994) 1 R.C.S. 311.
+[3] Ibid., au paragraphe 50.
+[4] Bureau du surintendant des faillites c. MacLeod, 2010 CAF 84, au paragraphe 11.
+[5] En vertu de la Loi sur les Cours fédérales, en appel d’une décision de la Cour, la Cour d’appel fédérale peut rendre la décision qui aurait dû être rendue.
+[6] Les parties se sont conformées à la partie de l’ordonnance du 4 octobre 2019 concernant les observations sur les dépens.

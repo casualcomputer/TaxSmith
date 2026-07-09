@@ -1,0 +1,142 @@
+Title: Ray c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26485/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-698-26485-ray-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-11-08
+
+# Ray c. M.R.N.
+
+- Citation: 2004 CCI 698
+- Decision date: 2004-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3233, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ray c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-08
+Référence neutre
+2004 CCI 698
+Numéro de dossier
+2003-3250(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2004CCI698
+Date : 20041108
+Dossier : 2003-3250(EI)
+2003-3252(CPP)
+ENTRE :
+KAREN L. RAY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à
+Calgary (Alberta), le 14 juin 2004)
+[1] Ces appels ont été entendus ensemble sur preuve commune à Calgary (Alberta), le 14 juin 2004. L’appelante était le seul témoin.
+[2] Les paragraphes 2 à 7 de la réponse à l’avis d’appel concernant l’assurance-emploi se lisent comme suit :
+[TRADUCTION]
+2. Dans une lettre datée du 20 septembre 2002, le bureau des services fiscaux de Calgary communique une décision selon laquelle l’emploi de la travailleuse chez l’appelante était assurable.
+3. Dans une lettre reçue le 9 décembre 2002, l’appelante a interjeté appel auprès du ministre pour qu’il réexamine la décision.
+4. En réponse à l’appel, le ministre a statué que l’emploi était assurable, étant donné que la travailleuse était une employée de l’appelante selon un contrat de louage de services pour la période du 1er janvier 2002 au 31 juillet 2002.
+5. Le ministre a fondé sa décision sur les hypothèses de fait suivantes :
+a) l’appelante a publié une annonce dans un journal local afin de pourvoir un poste de travailleuse en garderie;
+b) la travailleuse a été embauchée comme travailleuse en garderie, et ses tâches étaient notamment de préparer les repas, de préparer les enfants pour aller à l’école, d’amuser les jeunes enfants, d’amener les jeunes enfants à la prématernelle, de faire le ménage et le lavage;
+c) la travailleuse exécutait ses services chez l’appelante;
+d) la travailleuse amenait son propre enfant lorsqu’elle exécutait les services pour l’appelante;
+e) la travailleuse gagnait un salaire établi à 7,20 $ l’heure;
+f) la travailleuse était payée à la quinzaine, par chèque;
+g) l’appelante établissait le taux de salaire de la travailleuse;
+h) la travailleuse travaillait selon un horaire fixe, de 7 h 30 à 15 h 30, du lundi au vendredi;
+i) l’appelante établissait les heures et les jours de travail de la travailleuse;
+j) la travailleuse comptabilisait ses heures et les présentait à l’appelante;
+k) l’appelante avait le droit de contrôler la travailleuse;
+l) l’appelante déterminait les échéances et les priorités;
+m) parfois, l’appelante donnait des instructions à la travailleuse sur des tâches à exécuter;
+n) la travailleuse fournissait un journal quotidien de ses activités à l’appelante;
+o) l’appelante avait des droits exclusifs en ce qui a trait aux services de la travailleuse;
+p) la travailleuse devait demander la permission de l’appelante pour prendre congé;
+q) la travailleuse ne s’occupait pas de trouver une remplaçante;
+r) l’appelante devait trouver et payer une remplaçante;
+s) l’appelante fournissait les lieux de travail, qui comprenaient les appareils ménagers, les meubles et les articles ménagers;
+t) la travailleuse fournissait son propre véhicule;
+u) l’appelante fournissait tout le matériel nécessaire, y compris la nourriture et les produits de nettoyage;
+v) la travailleuse n’avait pas de dépenses à assumer dans l’exécution de ses tâches, autres que l’essence pour sa voiture;
+w) l’appelante donnait de l’argent à la travailleuse pour qu’elle achète de l’essence pour son véhicule;
+x) la travailleuse ne courait pas de risque de perte et ni de risque de responsabilité;
+y) la travailleuse ne facturait pas la TPS à l’appelante;
+z) la travailleuse n’avait pas de raison sociale ou de permis d’exploitation d’un commerce;
+aa) la travailleuse n’était pas elle-même en affaires.
+B. QUESTIONS EN LITIGE
+6. La question en litige est de savoir si la travailleuse était embauchée selon un contrat de louage de services pendant la période du 1er janvier 2002 au 31 juillet 2002.
+C. DISPOSITIONS DE LA LOI, MOYENS INVOQUÉS ET RÉPARATIONS SOLLICITÉES
+7. L’intimé fonde sa décision, entre autres, sur l’alinéa 5(1)a) et le paragraphe 2(1) de la Loi sur l’assurance-emploi.
+[3] Les hypothèses 5 a), c), d), e), f), j), s), t), y) et z) n’ont pas été réfutées. Pour ce qui est des autres hypothèses :
+b) Les tâches de la travailleuse ne comprenaient pas le ménage et le lavage.
+g) La travailleuse a proposé un taux de salaire que l’appelante a accepté. C’est une connaissance qui avait recommandé la travailleuse à l’appelante. La travailleuse a établi l’horaire de travail indiqué, mais elle ne suivait pas toujours cet horaire, et ce, habituellement parce qu’elle s’occupait aussi d’autres enfants, en plus des trois enfants de l’appelante.
+i) La travailleuse établissait ses propres heures, et l’appelante devait modifier ses heures de travail selon celles de la travailleuse.
+k) Est inexacte.
+l) La travailleuse amenait son propre enfant chez l’appelante et s’occupait aussi des enfants de la famille McQuarrie à cet endroit après l’école, et des enfants de la famille Sophone et d’enfants d’autres familles après les heures d’école. La travailleuse déterminait ses propres échéances et priorités.
+m) L’appelante s’attendait à ce que la travailleuse s’occupe de ses enfants. Ce sont ses enfants, âgés de quatre et de neuf ans, qui lui faisaient un compte rendu. Elle ne donnait pas d’instructions à la travailleuse.
+n) La travailleuse tenait un journal des activités, que l’appelante voyait, plus ou moins au hasard, de temps à autre.
+o) L’appelante n’avait certainement pas les droits exclusifs concernant les services de la travailleuse. La travailleuse s’occupait des enfants d’autres personnes dans la maison de l’appelante.
+p) La travailleuse prenait des congés comme elle le voulait et quand elle le voulait.
+q) et r) Parfois, la travailleuse se faisait remplacer par d’autres personnes sans demander l’avis ou le consentement de l’appelante. La travailleuse payait sa remplaçante et obtenait son salaire régulier de l’appelante.
+u) et v) La travailleuse fournissait sa propre nourriture, ainsi que des livres, des jouets et de la nourriture pour les autres enfants.
+w) Est inexacte.
+x) et aa) Sont en litige.
+[4] À l’aide des critères établis dans la décision Wiebe Door Services Ltd. v. MNR, 87 DTC 5025, voici ce que la Cour conclut :
+1. Degré de contrôle
+La travailleuse contrôlait son travail, sa charge de travail, le nombre de clients et son salaire total.
+2. Propriété des outils
+L’appelante était propriétaire de l’endroit où la travailleuse prenait soin des enfants. Cependant, les enfants d’autres personnes s’y trouvaient également, et la travailleuse ou d’autres personnes fournissaient la nourriture, les livres et les jouets. La travailleuse fournissait son propre véhicule, dont elle avait besoin pour ses divers contrats de garde d’enfants.
+3. Possibilités de profit ou risques de pertes
+Il est clair que la travailleuse exploitait une importante entreprise de garde d’enfants et qu’elle s’occupait des enfants d’au moins quatre familles. Si un des enfants s’était blessé, la travailleuse risquait d’être tenue responsable et de subir des pertes. D’un autre côté, plus elle avait de clients, plus elle faisait de profits.
+4. Intégration
+La travailleuse exploitait sa propre entreprise de garde d’enfants. C’est ainsi qu’elle a obtenu le contrat avec l’appelante et c’est ainsi qu’elle exploitait son entreprise.
+[5] Les appels sont accueillis. L’appelante a droit aux débours engagés dans le cadre de l’appel concernant l’assurance-emploi, conformément à la Loi sur l’assurance-emploi.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 23e jour d'août 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2004CCI698
+No DES DOSSIERS DE LA COUR :
+2003-3250(EI) et 2003-3252(CPP)
+INTITULÉ :
+Karen L. Ray c. MRN
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 14 juin 2004
+MOTIFS DU JUGEMENT RENDUS ORALEMENT PAR :
+L’honorable D.W. Beaubier
+DATE DU JUDEMENT :
+Le 8 novembre 2004
+COMPARUTIONS :
+Représentante de l’appelante :
+Brenda G. Sophone
+Avocat de l’intimé :
+Me John-Paul Hargrove
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

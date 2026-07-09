@@ -1,0 +1,189 @@
+---
+title: "Berty c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31219/index.do"
+last_modified: "2013-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 202"
+citation2: ""
+neutral_citation: "2013 CCI 202"
+decision_date: "2013-06-25"
+language: "fr"
+item_id: "31219"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5152
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:13:26.273000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79964be95ef49a0696ebd41a85655c4a0e6c54febf3eccb4ecc809024d5005c0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Berty c. La Reine
+
+- Citation: 2013 CCI 202
+- Decision date: 2013-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5152, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-25
+Référence neutre
+2013 CCI 202
+Numéro de dossier
+2012-3807(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3807(IT)I
+ENTRE :
+DAN BERTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 9 avril 2013, à Ottawa, Canada
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Avocate de l’appelant :
+Me Susan Tataryn
+Avocat de l’intimée :
+Me Christopher Kitchen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de juin 2013.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 6e jour d’août 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 202
+Date : 20130625
+Dossier : 2012-3807(IT)I
+ENTRE :
+DAN BERTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel porte sur la déductibilité des paiements de pension alimentaire pour conjoint de 11 739 $ relativement à l’année d’imposition 2010.
+Les faits
+[2] L’appelant s’est séparé de son épouse, Kerry Leclerc (l’« ex‑épouse »), en août 2008. Ils s’étaient mariés en 1990. L’appelant et l’ex‑épouse ont deux enfants, à savoir, SNNB, né en 1996, et SBPB, né en 1992.
+[3] L’appelant était employé par la société SunLife Financial (la « SunLife ») entre les années 1982 et 2011 en tant que vice-président adjoint du service de la compétitivité des coûts.
+[4] Le revenu annuel brut de l’appelant pour l’année d’imposition 2010 était de 236 188 $.
+[5] Le 17 juillet 2009, l’appelant et l’ex‑épouse ont conclu un accord de séparation (l’« accord ») (pièce A‑5).
+[6] L’appelant devait payer une pension alimentaire mensuelle en fonction de son revenu de base. Le revenu de base de l’appelant est la rémunération à la quinzaine habituelle provenant de son emploi, mais il ne comprend pas de revenu tel que les primes, le produit provenant de la levée d’options d’achat d’actions, le revenu de placement, les gains en capital et le revenu de dividendes.
+[7] L’appelant devait effectuer des versements mensuels de pension alimentaire pour enfants de 1 876 $ relativement aux deux enfants, à compter du 1er août 2009 et payables le 1er jour de chaque mois par la suite (pièce A‑5, alinéa 5.2a)). L’appelant et l’ex-épouse ont convenu de rajuster le montant de la pension alimentaire pour enfants à payer en fonction du revenu de base de chaque partie (pièce A‑5, clause 5.3).
+[8] L’appelant devait verser à son ex‑épouse une pension alimentaire mensuelle de 1 942 $, à compter du 15 juillet 2009, et payable le 15e jour de chaque mois par la suite (pièce A‑5, clause 6.1).
+[9] L’accord de séparation exigeait également que l’appelant verse 50 pour 100 de sa prime à son ex‑épouse pour [traduction] « la pension alimentaire pour enfants et pour conjoint ». La clause de l’accord portant sur [traduction] « la pension alimentaire pour enfants et pour conjoint » est ainsi rédigée :
+[traduction]
+Paiements forfaitaires au titre de la pension alimentaire pour enfants et pour conjoint
+7.1 Cinquante pour cent (50 %), après impôts, de toute prime reçue par l’époux doit être versée à l’épouse en tant que paiement forfaitaire pour la pension alimentaire pour enfants et pour conjoint (appelée le « paiement relatif à la prime »). Les primes peuvent comprendre notamment la rémunération de rendement et la levée ou le rachat d’options d’achat d’actions après la date de séparation. Ces paiements continueront tant et aussi longtemps que l’époux sera tenu de payer la pension alimentaire pour enfants et/ou la pension alimentaire pour conjoint. Le paiement relatif à la prime doit être versé dans les sept (7) jours suivant la réception par l’époux d’un paiement de primes. Les intérêts courent à l’égard de tout paiement en souffrance, conformément à la Loi sur les tribunaux judiciaires.
+[10] L’appelant a cherché à déduire les paiements de pension alimentaire pour conjoint qu’il avait effectués mensuellement ainsi qu’une partie de sa prime annuelle (pour un montant de 11 739 $), et le ministre du Revenu national (le « ministre ») a refusé la déduction de cette dernière. L’intimée soutient que le paiement de la pension alimentaire de 11 739 $ fait relativement à la prime de l’appelant (c’est‑à‑dire, conformément à la clause 7.1 de l’accord, produit sous la cote A‑5) ne constitue pas un montant déductible en application du paragraphe 56.1(4) et de l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »), parce qu’un tel paiement effectué conformément à la clause 7.1. de l’accord n’était pas :
+a) payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, étant donné qu’il n’y a aucune garantie qu’une prime sera versée chaque année;
+b) destiné uniquement à subvenir aux besoins de l’ex‑épouse.
+[11] L’appelant a également témoigné que :
+1) il avait reçu une prime chaque année, étant donné que la SunLife avait commencé cette pratique au milieu des années 1990, et la prime était fonction du rendement aussi bien de l’employé que de la SunLife (transcription, à la page 10);
+2) il n’y avait pas de contrat écrit définissant les caractéristiques de la prime. Selon l’appelant, il s’agissait d’une pratique courante dans l’industrie des assurances (transcription, à la page 11). Il a ajouté que la prime était versée habituellement à la fin de février ou au début mars.
+3) Étant donné qu’il y avait un risque qu’elle [traduction] « ne soit pas payée », la prime était un [traduction] « montant variable » qui n’était pas inclus dans les montants mensuels, et ce, pour éviter la survenance de difficultés financières avant que la prime ne soit disponible.
+Les questions en litige
+[12] En l’espèce, la question en litige est de savoir si le paiement de la pension alimentaire de 11 739 $ effectué relativement à la prime de l’appelant était :
+i) un montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins de la bénéficiaire, d’enfants de celle‑ci ou à la fois de la bénéficiaire et de ces enfants;
+ii) destiné uniquement à subvenir aux besoins de l’ex‑épouse.
+Analyse et conclusion
+[13] La « pension alimentaire pour enfants » est toute pension ordonnée par le tribunal, ou prévue par l’accord écrit, et qui n’est pas destinée uniquement à subvenir aux besoins de l’époux ou de l’ex‑époux du contribuable (paragraphe 56.1(4) de la Loi). Par exemple, même si un accord prévoit une pension alimentaire globale pour l’époux et les enfants, le montant total est une pension alimentaire pour enfants et, par conséquent, il n’est ni déductible ni imposable.
+[14] Lorsqu’un contribuable doit effectuer des paiements de pension alimentaire pour le conjoint et pour les enfants, la présomption veut que les paiements soient d’abord présumés être une pension alimentaire pour enfants, et ensuite une pension alimentaire pour conjoint (selon la formule prévue à l’alinéa 60b) de la Loi. Voir aussi le bulletin d’interprétation IT‑530). Ainsi, dans l’éventualité où le payeur ne verserait pas la pension alimentaire, le bénéficiaire reçoit en premier le paiement non imposable. Le payeur ne peut déduire une partie au titre de la pension alimentaire pour conjoint que lorsqu’il a été entièrement satisfait aux obligations relatives à la pension alimentaire pour enfants.
+[15] Selon le paragraphe 56.1(4) de la Loi, un montant payable ou à recevoir sera considéré comme une « pension alimentaire » si (voir aussi le bulletin d’interprétation IT‑530) :
+• Le bénéficiaire peut utiliser le montant à sa discrétion;
+• Le bénéficiaire est l’époux ou le conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage;
+• Le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+• Le payeur est le parent naturel de l’enfant.
+[16] En outre, pour être considéré comme une pension alimentaire, le montant doit être payable à titre d’allocation périodique.
+[17] Dans l’arrêt Gagnon v. Canada, [1986] 1 C.T.C 410, la Cour suprême du Canada a défini le terme « allocation » de la manière suivante : « une somme d’argent limitée et déterminée à l’avance, versée afin de permettre à celui qui la reçoit de faire face à certains types de dépenses […] établie à l’avance et celui qui la touche en a la libre disposition, sans comptes à rendre à personne ».
+[18] Dans l’arrêt Queen v. McKimmon, [1990] 1 C.T.C. 109, la Cour d’appel fédérale a énoncé les critères suivants dont il faut tenir compte pour faire une distinction entre les paiements périodiques effectués à titre d’allocation et ceux effectués à titre de paiement forfaitaire ou à titre de capital :
+1. L’intervalle auquel les paiements sont effectués. Les sommes qui sont versées une fois par semaine ou une fois par mois peuvent facilement être qualifiées d’allocations d’entretien. Lorsque les paiements sont effectués à des intervalles plus longs, la question devient moins claire. […]
+2. Le montant des paiements par rapport au revenu et au niveau de vie du débiteur et du bénéficiaire. […] lorsqu’un paiement ne dépasse pas ce qui serait censé être nécessaire au maintien du niveau de vie du bénéficiaire, il sera plus probablement admissible à titre d’allocation.
+3. Les paiements portent-ils intérêt avant leur date d’échéance? On associe plus souvent l’obligation de payer des intérêts à une somme forfaitaire payable par versements qu’à une véritable allocation d’entretien.
+4. Les sommes en question peuvent-elles être payées par anticipation au gré du débiteur ou peuvent-elles être exigibles immédiatement à titre de pénalité au gré du bénéficiaire en cas de défaut de paiement? […]
+5. Les paiements permettent-ils au bénéficiaire d’accumuler un capital important? […] une telle allocation ne devrait pas permettre l’accumulation, sur une brève période, d’un capital important.
+6. Les paiements sont-ils censés continuer pendant une période indéfinie ou être d’une durée fixe? […]
+7. Les paiements convenus peuvent-ils être cédés et l’obligation de payer subsiste‑t‑elle pendant toute la vie du débiteur ou du bénéficiaire? […]
+8. Les paiements sont-ils censés libérer le débiteur de toute obligation future de verser une pension alimentaire? Dans l’affirmative, il est plus facile de considérer les paiements comme l’échange ou l’achat du coût en capital d’une allocation d’entretien.
+[Renvois omis]
+La position de l’appelant concernant la première question
+[19] L’appelant soutient qu’il verse une pension alimentaire à l’ex‑épouse sur la base de ce qui est reçu; aucun autre mode de paiement ne serait logique, étant donné que des problèmes de rentrée de fonds pourraient survenir. Il a ajouté que, cela étant, l’accord a été rédigé de manière qu’il y ait un [traduction] « rajustement » annuel permettant de tenir compte du montant de la prime.
+[20] L’appelant fait également valoir que, compte tenu des facteurs énoncés dans l’arrêt McKimmon, les paiements en question en l’espèce devraient être considérés comme étant périodiques. Voici les observations pertinentes présentées par l’appelant :
+[traduction]
+Ainsi, si nous prenons ces critères énoncés dans l’arrêt McKimmon et que nous les appliquons, nous pouvons constater qu’ils appuient la position de l’appelant selon laquelle les paiements sont de nature périodique. La prime doit être versée dans les sept jours suivant la réception par l’appelant, et cela est prévu à la clause 7.1 de l’accord. Les obligations continuent aussi longtemps que l’appelant est tenu de payer une pension alimentaire pour enfants et/ou une pension alimentaire pour conjoint. En réalité, il ressort de l’accord que, même si un enfant dépasse l’âge prévu dans l’accord ou qu’il se marie selon la clause 5.7, le montant continue à être payé. Les paiements ne s’arrêtent pas. Il n’existe aucune disposition dans l’accord qui stipule la cessation des paiements relatifs à la prime prévus à la clause 7.1.
+Le montant du paiement relatif à la prime est directement lié au revenu de l’appelant et en constitue une partie importante. Selon le témoignage de l’appelant, la prime cible est de 25 pour 100 de la rémunération annuelle, et le paiement relatif à la prime se rapporte à un montant qui était et qui demeure un facteur important du niveau de vie des deux parties. Pratiquement, le paiement est à faire, il doit être fait immédiatement. Il doit être fait dans les sept jours suivant la réception de la prime et des intérêts doivent être payés sur les montants en souffrance. L’accord ne prévoit pas de clause d’exigibilité immédiate concernant le paiement; il reste en vigueur tant que des obligations alimentaires existent, de sorte que le paiement prévu à la clause 7.1 continue indéfiniment.
+Le paiement relatif à la prime est déterminé en fonction d’un aspect incertain de la rémunération globale de l’appelant. Il s’agit d’une partie d’un revenu que l’appelant reçoit sur une base annuelle. En outre, le montant du paiement relatif à la prime n’est pas inhabituel si on le compare aux paiements de la pension alimentaire mensuelle de base. Le paiement de pension alimentaire relatif à la prime continue aussi longtemps que la pension alimentaire de base est – la pension alimentaire pour conjoint de base doit être payée, et l’accord ne stipule pas expressément que l’obligation alimentaire survit à l’épouse. Toutefois, il ressort des conditions de l’accord que la pension alimentaire pour conjoint payée de manière continue est un droit personnel résultant du contrat, et le paiement relatif à la prime est appelé pension alimentaire pour conjoint et ne constitue pas une libération de l’obligation d’effectuer d’autres paiements de pension alimentaire. En conséquence, il est soutenu que l’obligation alimentaire de faire les paiements relatifs à la prime au conjoint est une obligation continue dont s’acquitte l’appelant au moment où la prime est versée. La rémunération globale que l’appelant reçoit de son employeur tient compte de ce paiement sur une base annuelle, sans égard à la mention des mots [traduction] « paiement forfaitaire » figurant dans l’accord, et nous soutenons que la meilleure position à adopter est que le paiement relatif à la prime devrait être qualifié de paiement périodique de pension alimentaire pour conjoint au titre de la Loi de l’impôt sur le revenu et de la jurisprudence portant sur les paiements périodiques.
+[21] Étant donné que la preuve révèle qu’il n’y a aucune garantie que la prime sera payée pendant une année donnée (bien que, selon les observations de l’appelant, le risque semble assez faible), j’estime que le paiement de pension alimentaire de 11 739 $ fait relativement à la prime de l’appelante ne répond pas à l’aspect « périodique » de la définition selon les facteurs énoncés dans l’arrêt McKimmon, étant donné que le terme « périodique » signifie « à des intervalles réguliers ». En d’autres termes, les paiements qui doivent être faits aux termes de la clause 7.1 de l’accord ne peuvent pas être qualifiés de périodiques, puisqu’il existe une possibilité que l’appelant ne reçoive pas de prime chaque année. J’aimerais également souligner que l’arrêt McKimmon mentionne le fait que des paiements faits à des intervalles de plus d’un an ne pouvaient pas être considérés comme une allocation d’entretien.
+La deuxième question en litige
+[22] En ce qui concerne la deuxième question en litige, je reproduis également ci‑après les observations de l’appelant (transcription, aux pages 41 à 43) :
+[traduction]
+En ce qui concerne l’accord de séparation, nous estimons, Monsieur le juge, qu’en ce qui a trait à la deuxième question, quant à savoir si le montant est une pension alimentaire pour conjoint payable, l’accord de séparation établit, à la clause 6.1 précisément, une pension alimentaire pour conjoint de 1 942 $ à titre de pension alimentaire pour conjoint de base. Les montants calculés en tenant compte des lignes directrices facultatives en matière de pensions alimentaires tiennent compte d’une indexation annuelle prévue à la clause 6.3 de l’accord et, en outre, la clause 7.1 prévoit un montant additionnel égal à 50 pour 100 de toute prime reçue en tant que montant forfaitaire selon le libellé de l’accord, lequel montant constitue un supplément de la pension alimentaire pour enfants et de la pension alimentaire pour conjoint.
+L’existence de l’élément prime dans l’accord n’est pas surprenante. Il est tenu compte de tous les revenus de l’appelant dans le calcul de la pension alimentaire pour conjoint. Cela est compatible avec la notion indépendante de revenu net disponible énoncée dans les lignes directrices facultatives fédérales en matière de pensions alimentaires. La prime est simplement une paie au moment où elle est reçue, et cela est raisonnable, étant donné qu’il est possible d’éviter une estimation arbitraire de ce que seraient ces paiements futurs, et qu’il serait nécessaire d’effectuer une sorte de rapprochement à cet égard sur une base annuelle.
+Entre les mains de l’appelant, le revenu de base et la prime sont simplement un revenu, ils constituent un même revenu, bien qu’ils soient reçus à des moments différents. Tout comme la pension alimentaire pour conjoint, le paiement relatif à la prime est une réaffectation du revenu de l’appelant et il devrait être traité de la même manière que le montant de base qui est énoncé, je crois, à la clause 6.1. L’accord prévoit, aux clauses 5.2 et 6.1, une répartition des paiements de pension alimentaire entre le conjoint et les enfants. Il est évident que l’approche adoptée est une répartition de 50 pour 100 à 50 pour 100. Cela est proche d’une répartition d’environ 47 points à 53 points.
+L’appelant doit consacrer 50 pour 100 de la prime à la pension alimentaire, compte tenu du fait que l’accord doit être considéré dans son ensemble. Aucune raison ne justifie que l’on s’écarte de la règle selon laquelle un accord doit être lu et interprété dans son ensemble, nonobstant toute intention contraire qui y est exprimée. Par conséquent, la répartition de la prime, qui est néanmoins un revenu, obéit aux mêmes règles en matière de répartition. Il n’y a effectivement aucune raison de réitérer ce qui est évident dans l’accord, de recourir à des décisions arbitraires quant à la manière dont le montant devrait être réparti, parce que l’accord prévoit clairement ce qui doit être fait.
+Si les parties avaient l’intention de s’écarter de la répartition 50/50, cela aurait été exprimé dans l’accord. À cet égard, Monsieur le juge, il existe une répartition, et nous pouvons tenir compte des observations qui ont été faites par le juge Bowie dans la décision Elcich c. La Reine, rendue le 14 février 2006, et dont une copie a été présentée à la Cour. L’analyse faite par le juge Bowie porte sur un accord écrit dans lequel il n’y a pas de répartition de la pension alimentaire entre l’épouse et l’enfant, et il a laissé entendre que, s’il n’y a pas de répartition, il y a un problème, mais, en l’espèce, il existe une répartition qui est claire, laquelle reflète l’intention des parties, et c’est la répartition d’environ 50/50 ou 47/53 pour cent que l’appelant a déduite dans sa déclaration de revenus.
+Je voulais aborder, Monsieur le juge, la question pour laquelle j’ai interrogé l’appelant, à savoir s’il avait eu des pertes qui avaient été déduites du revenu.
+[23] À mon avis, la clause 7.1 de l’accord est sans équivoque. Cette disposition ne prévoit aucune répartition relativement à l’obligation alimentaire. En l’absence d’une répartition entre la pension alimentaire pour enfants et la pension alimentaire pour conjoint, la totalité du montant est considérée comme une pension alimentaire pour enfants conformément à la définition de l’expression « pension alimentaire pour enfants » prévue dans la Loi. En l’espèce, j’estime également que, même après avoir lu l’accord dans son ensemble, je ne peux pas conclure qu’il existe une répartition implicite de la pension alimentaire entre l’ex‑épouse et les enfants. Étant donné que la clause 7.1 est sans équivoque, je suis d’avis qu’il est inapproprié de faire appel à une preuve extrinsèque pour déterminer le sens de cette stipulation. Le rôle de la Cour n’est pas de déterminer l’intention des parties. Si, aux fins de l’analyse, j’avais eu à le faire, le fardeau de la preuve aurait incombé à l’appelant. Dans ce genre de situation, par exemple, des ébauches de documents peuvent être présentées en preuve. L’autre partie à l’accord peut être appelée à témoigner quant à l’intention des parties. En l’espèce, le fait qu’aucune ébauche de document n’a été présentée en preuve et que l’ex‑épouse n’a pas été appelée à témoigner est révélateur. En outre, l’accord énonce le fait que les parties ont reçu un avis juridique indépendant, et pourtant, aucune déclaration d’intention n’est consignée dans l’accord.
+[24] En conséquence, j’estime que les paiements de pension alimentaire de 11,739 $ faits relativement à la prime de l’appelant (c’est‑à‑dire, au titre de la clause 7.1 de l’accord) ne sont pas déductibles par application du paragraphe 56.1(4) et de l’alinéa 60b) de la Loi.
+[25] Pour les motifs exposés ci‑dessus, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de juin 2013.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 6e jour d’août 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 202
+No DU DOSSIER DE LA COUR : 2012-3807(IT)I
+INTITULÉ : DAN BERTY c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa, Canada
+DATE DE L’AUDIENCE : Le 9 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 25 juin 2013
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Susan Tataryn
+Avocat de l’intimée :
+Me Christopher Kitchen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Susan Tataryn
+Cabinet : Susan Tataryn
+Ottawa (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

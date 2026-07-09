@@ -1,0 +1,133 @@
+Title: Applewood Holdings Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/363221/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-34-363221-applewood-holdings-inc-v-the-queen.md
+Document type: case_law
+Last modified: 2019-02-06
+
+# Applewood Holdings Inc. v. The Queen
+
+- Citation: 2019 TCC 34
+- Decision date: 2019-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4355, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Applewood Holdings Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-06
+Neutral citation
+2019 TCC 34
+File numbers
+2016-4498(GST)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-4498(GST)G
+BETWEEN:
+APPLEWOOD HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AS TO COSTS
+Before: The Honourable Justice F.J. Pizzitelli
+Participants:
+Counsel for the Appellant:
+Matthew G. Williams E. Rebecca Potter
+Counsel for the Respondent:
+Frédéric Morand
+AMENDED ORDER
+Costs of $20,000 plus GST/HST thereon of $2600 for legal fees, together with expenses claimed of $1,591.94 inclusive of GST/HST and $2000 for the costs of this motion plus HST/GST of $260, all totalling $26,451.94 are awarded to the Appellant.
+Signed at Ottawa, Canada, this 6th day of February 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2019 TCC 34
+Date: 20190206
+Docket: 2016-4498(GST)G
+BETWEEN:
+APPLEWOOD HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Pizzitelli J.
+[1] The Appellant was successful in a trial scheduled for 2 days but heard over 1.5 days on November 8 and 9, 2018. My decision was dated November 15, 2018 wherein the appeal was allowed and costs awarded to the Appellant. I did not request any further submissions on costs in my decision nor invited the parties to make any further submissions in the event they were not satisfied with my decision on costs, but the Appellant has brought a motion in writing for an award of costs by way of lump sum equal to 50% of its select counsel fees for 2 counsel totalling $281,827.65 inclusive of GST/HST which amounts to $140,913.83 together with $11,300 for bringing this motion for additional costs and disbursements of $1,591.94; all of which total $153,805.77.
+[2] The Respondent agrees the Appellant should be entitled to a bit more than Tariff costs and argues twice the Tariff costs of $10,177.60 inclusive of disbursements should suffice.
+[3] There is no dispute that Rule 147 grants the Court complete discretion in determining the amount of costs, their allocation and the persons required to pay them and that Rule 147(3) sets out the factors that the Court may consider in exercising such discretion which must be considered on a principled basis. Having regard to the costs submissions made, the relevant provisions of Rule 147 read as follows:
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+…
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+…
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+[4] This matter did not involve any settlement offers to which the provisions of Rules 147(3.1) to (3.8) would be applicable.
+[5] I am in general agreement, after considering the written arguments of both sides with respect to those factors in paragraphs 147(3) (a) to (j) that the Appellant should be awarded costs higher than the Tariff costs awarded, but not with the suggested result argued by both sides. I will now analyse those said factors and for ease of reference I will refer to the factors in Rule 147(3) by their paragraph numbers.
+[6] In connection with paragraph (a) the Appellant was totally successful in having the appeal dismissed which justifies an award of costs in favour of the Appellant.
+[7] In connection with paragraph (b) dealing with the amount in issue, the amount of tax in issue in this appeal was $33,802.14 which the Respondent quite rightly argues falls within the ambit of Class A Proceedings. While hardly a huge amount, I agree with the Appellant that the appeals of 15 other taxpayers whose appeals were held in abeyance pending resolution of this lead appeal would bring that total to over $660,000, which, while not huge in the context of lead appeals, certainly justified the Appellant to take and process the appeal far more seriously than this particular Appellant’s tax dispute by itself justified. I will address this more in the context of the last factor dealing with other factors.
+[8] The parties are at broad disagreement over the importance of the issues referenced in paragraph (c). The Appellant ascribes the mantel of “national significance” to the issues while the Respondent acknowledges that while the Court’s decision will have a significant impact on car dealerships and other non-licensed commercial entities selling similar products, the issues do not rise to the level of national importance or one encompassing a public interest. I am inclined to agree with the Respondent’s characterization of the importance of the issue but also agree with the Appellant, that, although not of national importance, the decision will have real and a broad precedential value to the automotive retail industry. While the dispute primarily involved a disagreement over the characterization of and the effect of the services provided by the Appellant pursuant to a Dealer Agreement, the decision also dealt with what services are to be analysed in deciding the predominant services; namely those provided to the other contracting parties only or to the consumers themselves and so the case did not turn solely on a finding of fact, but also as to what facts to consider and the effect of those facts on the law. The importance of the issue would, in my view, justify some increase in costs over Tariff.
+[9] In connection with paragraph (d) dealing with settlement offers, no settlement offers were exchanged. While the Respondent relies on Rio Tinto Alcan v. The Queen, 2016 TCC 258 to suggest the absence of offers should be viewed as a negative factor in a request for enhanced costs awards, the fact that neither side made any offer suggests this factor is neutral.
+[10] With respect to paragraph (f) dealing with the volume of work, both sides agree that the volume of work was significant for both parties but I must say that the Appellant’s claim for 350 hours of work, the equivalent of ten 35 hour work weeks, for one and one-half day trial where a partial agreed statement of facts, a joint book of documents and written submissions in argument were filed seems somewhat excessive, notwithstanding the lead appeal context of this matter.
+[11] With respect to the complexity of the matter referenced in paragraph (g), I do not agree with the Appellant that the statutory provisions were complex requiring great effort. The interpretation of the definition of “financial services” was not complex and the dispute between the parties related to the characterization and effect of the services rendered by the Appellant rather than complex statutory interpretation. I agree with the Respondent that the appeal did not raise complicated issues that would justify an increased costs award.
+[12] With respect to paragraph (g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding, the Appellant agrees there was no conduct to unnecessarily lengthen the duration of the proceeding. In fact, both parties acted efficiently in agreeing to a partial agreed statement of facts and joint book of documents and the Respondent made several admissions as to facts in its Reply as well as decided not to challenge the evidence of one of the Appellant’s three witnesses which show the Respondent’s actions in fact shortened the duration of the trial; a factor supporting a costs award in line of the Tariff.
+[13] Paragraph (h) deals with the denial or the neglect or refusal of any party to admit anything that should have been admitted. As indicated in factor (g) above, the parties agreed to a partial agreed statement of facts and joint book of documents and the Appellant acknowledges that the Respondent admitted the facts relied upon by the Appellant and offered no rebuttal evidence at the hearing; so it would seem this factor does not justify any increase in costs award. The Appellant’s argument, which will be discussed in the next factor, really goes to its position that the Respondent should not have required this appeal be brought in the first place.
+[14] With respect as to whether, in paragraph (i), any stage in the proceedings was improper, vexatious, or unnecessary, the Appellant acknowledges the Respondent’s counsel acted beyond reproach but that this appeal should not have been brought in the first place, referencing my conclusions in my decision at paragraph 31 and 32 that the Respondent’s arguments on the predominant elements of the services provided by the Appellant were “unconvincing” or without “merit”.
+[15] With respect to the Appellant, the fact I found in favour of the Appellant’s position as to the effect of the agreed facts on the law does not mean the Respondent should have conceded in advance of the trial. The Respondent’s position that the services it argued were provided to the higher tier insurer should evidence the predominant services, while not successful, were not patently unreasonable to make. In fact, my decision acknowledged the possibility that in certain contractual arrangements, such services may in fact constitute the predominant services to analyse. In the context of a car dealership obtaining 12.5% of its profit in selling these insurance products, it is clear that the sale of such products is, in fact, not the main line of its business; albeit an important line, so the Respondent’s arguments were not impressed with the air of defeat from the start.
+[16] I might also add that I do not agree with the Appellant’s suggestion that the Respondent only argued in the alternative the position it took in reassessing the Appellant or in its Reply for that matter. The Respondent’s arguments that the predominant services provided by the Appellant to its contracting party under the Dealer Agreement, if successful, would have, in my opinion, supported the Respondent’s position that the Appellant was not selling or arranging to provide financial services. The fact these arguments were expressed in different terms or argued from the perspective of a different interpretation of the facts, does not mean they were new or nouvel arguments. They go to the core of whether financial services were arranged for as well and the case law not in dispute is clear that the services of the party must by analysed to determine whether in the end the predominant services fall under the financial services exemption.
+[17] As no expert witnesses were utilized in this matter, paragraph (i.1) has no application.
+[18] With respect to paragraph (j) dealing with other factors to consider, consideration must be given to the fact this matter involved a lead case that would impact the present and future position of 15 other taxpayers and the car retail business in general. The Court must recognize that in such circumstances, the parties must seriously pursue their appeals having regard to the larger impact the decision will have. By its nature, a lead appeal will almost inevitably require greater effort, time and expense and justify larger than Tariff costs awards.
+[19] Having regard to the above factors, but recognizing, as I did in Mariano et al. v. The Queen, 2016 TCC 161 at paragraphs 23 and 27, that the objectives of an award of costs are compensation and contribution, and not punishment, except of course where abuse of process is present, I find that the Appellant is entitled to greater than Tariff costs, but not anywhere near to the extent claimed by the Appellant. I award the Appellant legal fees of $20,000 plus GST/HST thereon of $2600, together with its expenses claimed of $1,591.94 inclusive of GST/HST and $2000 for the costs of this motion plus HST/GST of $260, all totalling $26,451.94.
+The Amended Order and Amended Reasons for Order are issued in substitution of the Order and Reasons for Order dated January 29, 2019 due to an incorrect citation number.
+Signed at Ottawa, Canada, this 6th day of February 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2019 TCC 34
+COURT FILE NO.:
+2016-4498(GST)G
+STYLE OF CAUSE:
+APPLEWOOD HOLDINGS INC. v. HER MAJESTY THE QUEEN
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR ORDER BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF AMENDED ORDER:
+February 6, 2019
+PARTICIPANTS:
+Counsel for the Appellant:
+Matthew G. Williams E. Rebecca Potter
+Counsel for the Respondent:
+Frédéric Moran
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew G. Williams E. Rebecca Potter
+Firm:
+Thorsteinssons LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

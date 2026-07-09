@@ -1,0 +1,181 @@
+---
+title: "Hervieux v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28222/index.do"
+last_modified: "2007-11-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 729"
+citation2: ""
+neutral_citation: "2007 TCC 729"
+decision_date: "2007-11-09"
+language: "en"
+item_id: "28222"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2069
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:34:08.904000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "846f848eba15cf279539d117d9e16c06a083e6c03569a432942565bae60f558c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hervieux v. M.N.R.
+
+- Citation: 2007 TCC 729
+- Decision date: 2007-11-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2069, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hervieux v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-09
+Neutral citation
+2007 TCC 729
+File numbers
+2007-2441(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-2441(EI)
+BETWEEN:
+GEORGE J. HERVIEUX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+George J. Hervieux (2007-2442(CPP))
+on October 25, 2007, at Sudbury, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision of March 6, 2007 is varied to reflect that the Appellant was engaged in insurable employment in the period in question.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+Docket: 2007-2442(CPP)
+BETWEEN:
+GEORGE J. HERVIEUX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+George J. Hervieux (2007-2441(EI))
+on October 25, 2007, at Sudbury, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision of March 6, 2007 is varied to reflect that the Appellant was engaged in pensionable employment in the period in question.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2007TCC729
+Date: 20071204
+Dockets: 2007-2441(EI)
+2007-2442(CPP)
+BETWEEN:
+GEORGE J. HERVIEUX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle, J.
+[1] The Appellant, George Hervieux, is appealing from determinations made by the Canada Revenue Agency that he was not engaged in insurable employment or pensionable employment for the period July to October 2006 for purposes of the Employment Insurance Act and the Canada Pension Plan. During this period, Mr. Hervieux did work for 1264112 Ontario Inc. which carried on business as La Compagnie Laberge primarily in the capacity of construction project manager for renovations being done to a property on Belanger Street in Sudbury as well as two other properties owned by that corporation, related corporations and the shareholders of those corporations.
+[2] The Appellant, Mr. Hervieux, testified on his own behalf and introduced a number of documents into evidence as described below. Importantly, these included a payroll slip from one of the companies for part of the period which showed 4% vacation pay accruing and withholding for federal and provincial taxes, CPP and EI. Mr. John Laberge testified on behalf of the Respondent. Mr. Laberge’s wife owned La Compagnie Laberge. Mr. Laberge owned Cabaret Hotels Ltd. and other related companies for whom Mr. Hervieux worked during the period. Mr. and Mrs. Laberge owned a home on Marion Street where other work was done. It was Mr. Laberge who met with Mr. Hervieux and offered him the work and it was Mr. Laberge who completed the CRA’s “Payer’s Questionnaire” on behalf of La Compagnie Laberge. Mrs. Laberge also testified briefly.
+[3] The Laberges and Mr. Hervieux had a personal, community and working relationship going back for a period of at least 30 years. Unfortunately, that relationship broke down on October 16, 2006 over disputes about the progress of the Belanger Street renovations and the control over Mr. Hervieux’s work schedule. That day ended with the police being called and attending at Mr. Hervieux’s residence and later at the Laberges’ residence in the evening and again later at night. Neither the disputes over the speed, quality and value of the work performed, nor the October 16th incident requiring police intervention, are relevant to this EI and CPP appeal except as described in my reasons below. Those disputes are not to be resolved in this proceeding. The only issue for the Court is whether Mr. Hervieux was hired as, and worked as, an employee or independent contractor in respect of his work for the Laberges and their companies and for which he was paid by La Compagnie Laberge.
+Mr. Hervieux’s version of the events
+[4] According to Mr. Hervieux, Mr. Laberge offered him a job in July 2006 to conduct renovations at the Belanger Street property. Mr. Hervieux and Mr. Laberge discussed whether the relationship was to be employment as well as the approximate costs and time frames for the renovations, the need for other workers to be involved, etc. It was specifically discussed and agreed that Mr. Hervieux would be an employee and would be paid $750 a week until the project was finished. It was estimated by both Mr. Hervieux and Mr. Laberge that the Belanger Street work would take between one and two months but could take longer depending upon what was discovered as the work proceeded.
+[5] Mr. Laberge was in contact with Mr. Hervieux several times a day either personally or by cell phone. At these times, Mr. Laberge gave Mr. Hervieux a list of what needed to be done. This regularly included work on properties owned by the Laberges and their group of companies other than the Belanger Street property. With the respect to the renovations at the Belanger Street property, Mr. Laberge specified the order in which the day’s work was to be attended to on the property as well as whether Mr. Hervieux should be attending to other matters at other properties instead or as well.
+[6] There was no written agreement in respect of the work that either addressed the terms of Mr. Hervieux’s contract or which addressed the specifics of the renovation work to be done at the Belanger Street property. Mr. Laberge had to approve of any other workers on the property and was responsible for paying those people. Mr. Laberge was responsible for paying for all of the materials and supplies. Mr. Hervieux kept track of the hours worked by others on the site and reported on those to Mr. Laberge. Mr. Hervieux was not able to work for others as he was expected to be working full-time for the Laberges. Mr. Hervieux was given access to the Laberges’ workshop and tools. Other trades people involved provided their own tools. In addition, Mr. Hervieux regularly used a number of the tools he owned in connection with his contracting construction and renovation business. Mr. Hervieux did not own a truck or van. Mr. Laberge made available to Mr. Hervieux throughout the period a van owned by one of his companies. Mr. Hervieux used his utility/equipment trailer occasionally behind the van. Mr. Hervieux was allowed some personal use of the van. Mr. Laberge bought some new tools needed in connection with Mr. Hervieux’s work as well as disposable items like blades and bits although Mr. Hervieux, at least once, purchased a specialty electric tool for the tasks on his own account. In his testimony, Mr. Laberge either agreed with, or did not contradict, Mr. Hervieux’s evidence summarized in this paragraph.
+[7] While Mr. Hervieux does run a construction renovation business, he has also previously served as an employed construction project manager. It was his uncontradicted testimony that, in his construction renovation business, he always has written agreements respecting the work to be done, time frames and charges.
+[8] Mr. Hervieux said he worked 60 to 80 hours per week six or seven days a week for the Laberges in respect of this work during the period. He received $550 per week in cash and understood and accounted for the other $200 a week as being in respect of his withholdings. He was paid regularly on Fridays. In addition to keeping track of the other workers’ hours, in order to receive the cash for Mr. Laberge to pay the other workers (except for the one or two that Mr. Laberge paid directly), Mr. Hervieux kept track of his own hours.
+[9] Mr. Hervieux produced a payroll slip that he received from Mr. Laberge dated September 1st, 2006 for the period ending August 31st, 2006. He says he also received a second such payroll slip from Mr. Laberge but this disappeared on the night of October 16 from his document file in the van when it was taken by Mr. Laberge and his colleague as described below. The payroll slip shows monthly regular pay of $3,000 together with appropriate vacation pay, federal and provincial tax withholdings and withholding of Canada Pension Plan and Employment Insurance for net pay of approximately $2,100. To this extent, it does corroborate Mr. Hervieux’s statement that he and Mr. Laberge agreed he would be hired as an employee and its $3,000 monthly regular salary is largely consistent with his $750 a week salary. In addition the $2,100 monthly net pay largely corresponds to the $550 a week, net of $200 withholdings, that Mr. Hervieux received. There are however some questions raised by the document. Firstly, it is called a payroll calculation and secondly, it appears to have been issued by Cabaret Hotels Ltd. a separate corporation owned by the Laberges from La Compagnie Laberge. (The Laberges testified that Cabaret Hotels Ltd. had a regular payroll and La Compagnie Laberge did not). In addition, Mr. Hervieux produced some of his handwritten notes prepared during the period which did record hours, amounts payable to others as well as accounting for the $200 withholding from his weekly cash payments of $550.
+[10] The working relationship ended on October 16, 2006. That evening, according to Mr. Hervieux, Mr. Laberge telephoned him at home to complain about the state of the renovation work and to insist that Mr. Hervieux attend at the Belanger Street property to discuss matters. Mr. Hervieux refused. Mr. Laberge then attended with a colleague known as “Bam Bam” to repossess Mr. Laberge’s van after removing Mr. Hervieux’s trailer and Mr. Hervieux’s tools from the van. According to Mr. Hervieux, his folio of documents in respect of the work he was doing for the Laberges, including all of his notes, his second pay slip and other documents that would have further corroborated his evidence, were taken by Mr. Laberge and his colleague and were not returned when the first of Mr. Hervieux’s items were returned after the police first attended on Mr. Laberge. According to Mr. Hervieux, his folio, absent many papers of significance, was only returned after the police’s second attendance on Mr. Laberge. According to Mr. Hervieux, when Mr. Laberge and his colleague attended at Mr. Hervieux’s home, a heated discussion took place in front of the house and Mr. Laberge threatened Mr. Hervieux to make his life miserable, ruin him, and to kill him.
+Mr. Laberge’s version of the events
+[11] Mr. Laberge testified as to a quite different version of events in several respects. Notably, he denies that he and Mr. Hervieux agreed from the outset to an employment relationship and he offers a different explanation for the issue of the payroll slip to Mr. Hervieux. In his testimony, Mr. Laberge also disagreed with the extent of his control over the selection of other workers on the project. According to Mr. Laberge, Mr. Hervieux was retained to do the work on the Belanger Street property following their initial discussion of approximately how much time it would take and what Mr. Hervieux would charge for his services. That discussion, according to Mr. Laberge, consisted of them guessing that Mr. Hervieux would be paid $4,000 to $5,000 but that could be perhaps $2,000 higher in the end and that Mr. Laberge’s cost of materials would be about the same, so Mr. Laberge anticipated about a $10,000 project. He says he offered it as a contract job and assumed that there would be $4,000 to $5,000 of labour but that Mr. Laberge would see what Mr. Hervieux billed at the end, assess what it was worth at the end of the project and pay Mr. Hervieux what they would later work out. He acknowledged he told Mr. Hervieux to hire who he needed to work with him, to keep track of their work and that Mr. Laberge would pay them. Mr. Laberge agreed that Mr. Hervieux was to submit his expenses which were to be paid in cash. Mr. Laberge confirmed that the Compagnie Laberge’s cheques to Mr. Hervieux entered into evidence were to his mind paperwork signed by Mr. Hervieux when presented and retained by Compagnie Laberge to reflect the cash payments already made to Mr. Hervieux. (This is consistent with Mr. Hervieux’s description of being paid in cash and later asked to endorse cheques from the Laberge’s companies that they kept.)
+[12] In addition to disputing that the relationship was intended to be employment by both of them from the outset, Mr. Laberge explained the payroll slip as being a dummy or fictitious payroll slip prepared to show Mr. Hervieux what his net earnings would be if he took on separate employment with Mr. Laberge’s Cabaret Hotels Ltd. doing work on the Crazy Horse bar, including renovation work, during a five or six week period in September and October. The bar was to be closed for three of those weeks. Mr. Laberge denies that a second slip was ever issued or that he kept any of Mr. Hervieux’s documents on the night of October 16th. He says nothing ever became of this proposed Crazy Horse employment as a result of their falling out. Mr. Laberge acknowledges he was willing to take Mr. Hervieux on as an employee to give him some “pogey hours” doing renovation work at his bar.
+[13] According to Mr. Laberge, La Compagnie Laberge did not have a regular payroll or any payroll capacity as it has no employees except for his wife who was the sole shareholder and who, as part of her compensation, received salaries and bonus as well as dividends. Mr. Laberge did not think La Compagnie Laberge had a CRA employment number or account.
+[14] Mr. Laberge’s version of the events on the evening of October 16th does not differ in any material way from that recounted by Mr. Hervieux except that Mr. Laberge denies taking, keeping or destroying any of Mr. Hervieux’s documents from his folio in the van or intentionally keeping that folio until the police attended again upon him for its return. When Mr. Laberge was asked in cross-examination whether he threatened to make Mr. Hervieux’s life miserable, ruin him as well as to kill him, Mr. Laberge responded glibly only that the cemeteries would be full if he had killed everyone he had threatened to kill. He did not deny making all of those threats.
+The CRA Employee/Independent Contractor Questionnaire
+[15] Following Mr. Hervieux’s application for EI benefits, CRA had Mr. Hervieux fill out a “Worker’s Questionnaire”. The answers provided by Mr. Hervieux in that questionnaire were entirely consistent with Mr. Hervieux’s testimony and with the other documents entered into evidence.
+[16] Mr. Laberge completed the Payer’s Questionnaire on behalf of La Compagnie Laberge. Mr. Hervieux obtained a copy of that from CRA under the Privacy Act legislation. Portions of the copy he had and entered into evidence were blanked out or excised in accordance with the Privacy Act. The Crown did not enter a complete copy of the Payer’s Questionnaire. The questionnaire was completed by Mr. Laberge on February 1st, 2007. There are several notable aspects of Mr. Laberge’s answers in the questionnaire that differ from his testimony at trial. Obviously, Mr. Laberge had a fuller opportunity to testify at trial and did so, whereas the questionnaire is always subject to limitations based upon its wording and the brief, point form or yes/no answers solicited, as well as by its instructions and overall lack of clarity at times.
+[17] In answering question 10(c), Mr. Laberge refers to himself (or La Compagnie Laberge or Mrs. Laberge) as Mr. Hervieux’s “employer”. The question asked is whether any compensation or benefits were paid to the worker upon termination. The answer is “No. Worker abused employer, caused rent losses”. Not only does this answer use employment terminology, it also appears from Mr. Laberge’s answers in filling out the form that he was concerned with demonstrating that he had cause for terminating Mr. Hervieux. Termination for cause is also an employment-related concern. Similarly, in answering question 10(a) which asked “Did the payer have the right to terminate the worker’s services?”, Mr. Laberge checked off “Yes” and refers to a lack of communication and failure to complete because of being busy elsewhere, helpers’ complaints, misuse of company truck and company charge accounts.
+[18] In addition, Mr. Laberge answered question 3(a) describing the duties performed by Mr. Hervieux as not being limited to the Belanger Street project, but also properties on Errington Street and Main Street owned by La Compagnie Laberge, the Laberges’ home on Marion Street as well as two Errington Street properties owned by Cabaret Hotels (which Mr. Laberge testified Mr. Hervieux did not work on during the time in question). The first sentence of the questionnaire addressed to La Compagnie Laberge and completed by Mr. Laberge says the questions relate to a working relationship between Mr. Hervieux and La Compagnie Laberge for the period July 20, 2006 to October 16, 2006.
+Credibility
+[19] Before being able to analyse from a legal point of view whether the relationship was one of employment or one of independent contractor, I must decide, on the balance probabilities, whose testimony I believe as it relates to (i) the initial agreement of the parties and their intention to enter into an employment relationship or a contract relationship; (ii) the reason for the payroll slip Exhibit A-1 having being issued; (iii) the scope of the work; and (iv) the terms for payment of the work.
+[20] The two versions of events are on these points entirely irreconcilable. Some documentary evidence was put forward by the Appellant corroborating his version of the events. Little if any was put forward by the Crown to support Mr. Laberge’s version of the events. The earlier versions of the events provided by Mr. Hervieux and Mr. Laberge to CRA in responding to their questionnaires shortly after the work relationship ended also tend to corroborate Mr. Hervieux’s version of the disputed aspects of the evidence. I find on the balance of probabilities that Mr. Laberge’s version of the disputed events is not to be accepted. In addition to there being several inconsistencies with his version in the Court and his questionnaire, I am influenced by the fact that he acknowledged he was furious with Mr. Hervieux and threatened to ruin him and make his life miserable. That provides him with a reasonable motive for not being truthful with the Court even though he does not appear to have any significant financial interest in the outcome.
+[21] I find that the parties intended at the outset to enter into an employment relationship for the amount of $3,000 per month or approximately $750 per week for the duration of the project. I do not accept Mr. Laberge’s version that he entered into an open-ended contract based upon a loose estimate of $4,000 to $5,000 perhaps $7,000 of costs for services, perhaps that much again for material with the fee for services to be assessed by him and determined by him as what is reasonable at the end of the project. This is inconsistent with not having documented in any form the work to be done to the Belanger Street property or the estimated timetable for completing it. This is also inconsistent with Mr. Laberge directing Mr. Hervieux to work on other Laberge properties and do other things for Laberges during the period in question as part of the same contract.
+[22] I also reject Mr. Laberge’s explanation of the reason for the payroll slip having been delivered to Mr. Hervieux. His explanation that he was prepared to have Mr. Hervieux employed for his other company doing renovation work on its property was completely inconsistent with his testimony that his sole concern during the period in question was making sure the Belanger Street renovations were completed as quickly as possible in order that tenants could move in and occupy the property. Mr. Laberge’s testimony is very clear that the Crazy Horse bar work was to be done in September and October.
+Analysis
+[23] The issue of employee versus independent contractor for purposes of the definitions of pensionable employment and insurable employment are to be resolved by determining whether the individual is truly operating a business on his own account. This is the question set out by the British courts in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), approved by the Federal Court of Appeal in Wiebe Door Services Ltd. v. The Minister of National Revenue, 87 DTC 5025 for purposes of the Canadian definitions of insurable employment and pensionable employment, and adopted by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983. This question is to be decided having regard to all of the relevant circumstances and having regard to a number of criteria or useful guidelines including: 1) the intent of the parties; 2) control over the work; 3) ownership of tools; 4) chance of profit/risk of loss and 5) what has been referred to as the business integration, association or entrepreneur criteria.
+[24] The decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. The Minister of National Revenue, 2006 DTC 6323 highlights the particular importance of the parties’ intentions and the control criterion in these determinations. This is consistent with the Federal Court of Appeal’s later decision in Combined Insurance Co. of America v. Canada (Minister of National Revenue), 2007 FCA 60 as well as its decision in City Water International Inc. v. Canada (Minister of National Revenue), 2006 FCA 350. The Reasons of this Court in Vida Wellness Corp. v. Canada (The Minister of National Revenue), 2006 TCC 534 also provide a helpful summary of the significance of the Royal Winnipeg Ballet decision. Most recently, the Chief Justice’s Reasons in Lang v. Canada (The Minister of National Revenue), 2007 TCC 547 are also very helpful on this point.
+The intent of the parties:
+[25] In this case I have found that the parties intended that the relationship be an employment relationship and that employment-related withholdings were to be made by La Compagnie Laberge when paying Mr. Hervieux. In their dealings with each other, there was no repudiation or any behaviour inconsistent with this relationship being an employment relationship until after the working relationship ended. Following Royal Winnipeg Ballet, intention is an important consideration and in this case clearly leans in favour of employment.
+Control:
+[26] In this case, Mr. Hervieux’s daily work was under the control of Mr. Laberge. Mr. Laberge, and at times Mrs. Laberge, communicated with him several times a day. The Laberges directed which property Mr. Hervieux was to attend to that day and the order in which the needed work to be done was to be performed. It was not up to Mr. Hervieux to decide if he was going to work on the flooring or the handrails at any point in time. He was directed in that regards by Mr. Laberge. Indeed, the relationship ended over a dispute concerning in part how much control Mr. Laberge sought to exercise over the time at which Mr. Hervieux was to be at work on a weekend.
+[27] If this was an independent contract situation, one would expect Mr. Hervieux to have primary control over what portion of the agreed-to renovations he would work on at any point in time and at what pace, subject to ordinary, reasonable and necessary construction practices and any overall agreed‑to time frames for completion of the project or of partial completion progress. The degree of control by Mr. Laberge over what work Mr. Hervieux was to do and when he was to do it inclines in favour of the relationship being an employment relationship not one of independent contractor.
+Ownership of tools:
+[28] In this case, the needed tools and equipment appear to have been provided approximately equally by the worker and the payer based upon their ownership and availability of tools. With respect to the vehicle, it is not uncommon for an employer to provide a vehicle to an employee during the course of his employment. It strikes me as most unusual that a contractor would be provided with a general purpose vehicle throughout the period of his contract. In the facts of this case, there appears to have been a sensible, reasonable and practical contribution of tools, vehicles and trailers already owned and available. I do not find that inclines in either particular direction of employment or independent contractor.
+Chance of profit/Risk of loss:
+[29] Mr. Hervieux was paid a fixed rate per month or per week while he did the Laberges’ work. There was no specific, detailed work that was agreed at the outset to be the work to be done nor was there any maximum amount of time or amount of pay within which any agreed work or the work expected of him had to be done. Mr. Hervieux was going to receive $3,000 per month or approximately $750 per week for as long as he did the work the Laberges wanted done at their properties. Mr. Hervieux’s only cost was for the gas used by Mr. Laberge’s van that he was provided with and which he also used for personal purposes during the period. Since Mr. Hervieux worked full-time for the Laberges and was not allowed to work for others during the time, he did not have any chance of profit beyond receiving his agreed-to pay from the Laberges nor did he have any risk of loss associated with the work he did for the Laberges. This consideration also inclines in favour of an employment relationship.
+Conclusion
+[30] For the reasons given above, I am allowing Mr. Hervieux’s appeal since I find he was an employee and not an independent contractor and therefore was engaged in insurable employment for EI purposes and pensionable employment for CPP purposes during the period in question.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2007TCC729
+COURT FILE NOS.: 2007-2441(EI), 2007-2442(CPP)
+STYLE OF CAUSE: GEORGE J. HERVIEUX AND THE MINISTER OF NATIONAL REVENUE.
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: October 25, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: December 4, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

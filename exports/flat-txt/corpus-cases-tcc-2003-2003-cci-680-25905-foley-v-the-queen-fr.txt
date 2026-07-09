@@ -1,0 +1,220 @@
+Title: Foley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25905/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-680-25905-foley-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# Foley v. The Queen
+
+- Citation: 2003 CCI 680
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3703, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foley v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-15
+Référence neutre
+2003 CCI 680
+Numéro de dossier
+2001-1420(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-1420(IT)G
+ENTRE :
+MICHAEL J. FOLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Mark A. Foley (2001-1428(IT)G) les 17 et 18 septembre 2003 à Toronto (Ontario)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocats de l'appelant :
+Me David C. Nathanson
+Me Adrienne K. Woodyard
+Avocates de l'intimée :
+Me Marie-Thérèse Boris
+Me Eleanor Thorn
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1991, 1996, 1997 et 1998 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Les dépens entre parties sont accordés à l'appelant, mais un seul mémoire de frais est accordé concernant l'audience. Cependant, chacune des deux parties était représentée en audience par deux avocats et, par conséquent, les dépens liés au deuxième avocat sont accordés à l'appelant en ce qui concerne l'audience.
+Signé à Saskatoon (Saskatchewan) ce 15e jour d'octobre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 28e jour de mai 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI680
+Date : 20031114
+Dossier : 2001-1420(IT)G
+ENTRE :
+MICHAEL J. FOLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2001-1428(IT)G
+ENTRE
+MARK A. FOLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Beaubier
+[1] Les présents appels, sous le régime de la procédure générale, ont été entendus ensemble sur preuve commune à Toronto, en Ontario, les 17 et 18 septembre 2003. Les appelants ont changé d'avocat pendant la semaine précédant l'audience, avec autorisation de la Cour.
+[2] Les appelants ont cité à comparaître Mark Foley et leur procureur, Me James N. Aitchison. L'intimée a cité à comparaître l'appelant Michael J. Foley et le vérificateur des dossiers, M. Dennis A. Barboza, C.M.A.
+[3] Des exposés conjoints des faits ont été déposés concernant les deux appelants. Ils étaient rédigés dans les termes suivants :
+Mark A. Foley
+[traduction]
+« Les parties aux présentes, par l'entremise de leurs procureurs respectifs, admettent les faits suivants :
+1. Kingsberry Properties ( « Kingsberry » ) était une société en commandite constituée en vertu de la Loi sur les sociétés en commandite , L.R.O. 1990, ch. L.16 (la « LSC » ), qui, pendant toute la période pertinente, oeuvrait dans le secteur de l'aménagement immobilier, y compris l'acquisition et la vente foncières, l'aménagement de biens, la construction, la location et la gestion.
+2. L'exercice de Kingsberry prenait fin le 31 décembre de chaque année.
+3. Un contrat de société a été passé le 31 octobre 1984 par John Foley à titre de commandité, avec Michael Foley et l'appelant à titre de commanditaires. Un accord modificateur a été signé le 5 décembre 1994.
+4. John Foley est le père de Michael Foley et de l'appelant.
+5. Lanmark Management Limited ( « Lanmark » ) était une société qui fournissait des services de gestion immobilière à un groupe de sociétés affiliées appartenant à l'appelant, à son père et à son frère (connus en général sous le nom de « Foley Group » ).
+6. L'appelant était l'unique actionnaire, administrateur et dirigeant de Lanmark.
+7. Pendant toute la période pertinente, Kingsberry avait engagé Lanmark pour lui fournir des services de gestion immobilière, y compris ceux-ci :
+a) gérer ses activités générales et son administration;
+b) surveiller les activités administratives quotidiennes telles que l'administration des comptes créditeurs et débiteurs, la certification des chèques et le traitement des factures;
+c) négocier l'acquisition de biens;
+d) aider John à obtenir du financement auprès de la Banque Royale;
+e) gérer les biens locatifs, y compris la location, les opérations bancaires et les dispositions liées aux réparations et à la remise des pré-avis;
+f) surveiller et gérer l'aménagement des biens, y compris :
+(i) traiter avec les autorités publiques pour obtenir les approbations nécessaires relativement aux services;
+(ii) traiter avec les arpenteurs;
+(iii) traiter avec les ingénieurs;
+(iv) obtenir toutes les autorisations nécessaires pour l'enregistrement des plans de lotissement, et faire des représentations aux audiences publiques;
+(v) comparaître devant la Commission des affaires municipales de l'Ontario.
+8. Lanmark facturait Kingsberry pour les services de gestion immobilière fournis. »
+Michael J. Foley
+[traduction]
+« Les parties aux présentes, par l'entremise de leurs procureurs respectifs, admettent les faits suivants :
+1. Kingsberry Properties ( « Kingsberry » ) était une société en commandite, constituée en vertu de la Loi sur les sociétés en commandite , L.R.O. 1990, ch. L.16 (la « LSC » ), qui, pendant toute la période pertinente, oeuvrait dans le secteur de l'aménagement immobilier, y compris l'acquisition et la vente foncières, l'aménagement de biens, la construction, la location et la gestion.
+2. L'exercice de Kingsberry prenait fin le 31 décembre de chaque année.
+3. Un contrat de société a été passé le 31 octobre 1984 par John Foley à titre de commandité, avec Mark Foley et l'appelant à titre de commanditaires. Un accord modificateur a été conclu le 5 décembre 1994.
+4. John Foley est le père de Mark Foley et de l'appelant.
+5. Fridel Limited ( « Fridel » ) était une société qui construisait des immeubles résidentiels pour un groupe de sociétés affiliées appartenant à l'appelant, à son père et à son frère (connus en général sous le nom de « Foley Group » ).
+6. L'appelant était l'unique actionnaire, administrateur et dirigeant de Fridel.
+7. Pendant toute la période pertinente, Kingsberry avait engagé Fridel pour obtenir des services liés à la construction d'immeubles résidentiels, y compris :
+a) gérer les ressources humaines, le personnel;
+b) surveiller et gérer la construction d'immeubles résidentiels, y compris;
+(i) élaborer des propositions pour de nouveaux projets de construction,
+(ii) négocier et signer tous les devis et tous les contrats,
+(iii) obtenir de l'assurance pour divers projets,
+(iv) rencontrer les architectes et les ingénieurs,
+(v) rencontrer le ministère du Logement,
+(vi) soumettre des recommandations à John concernant la vente de terrains lotis aux constructeurs.
+8. Fridel facturait à Kingsberry les services de construction résidentielle fournis. »
+[4] Les paragraphes 7, 8, 11 et 17 ont été admis dans les réponses produites par les appelants. Les réponses à l'avis d'appel de chaque appelant sont identiques. Les paragraphes 5 à 20 des réponses sont ainsi rédigés :
+[traduction]
+5. Le présent appel touche la question des « dispositions concernant la fraction à risque » introduites dans la Loi de l'impôt sur le revenu et applicables après le 16 février 1986. La participation dans une société de personnes qui existait le 25 février 1986 a été protégée à titre de droit acquis conformément au paragraphe 96(2.5), comme « participation exonérée » , à condition :
+a) qu'il n'y ait eu, après le 25 février 1986, aucun apport important de capital à la société de personnes;
+b) qu'il n'y ait eu, depuis cette date, aucune augmentation importante de la dette de la société de personnes;
+6. En établissant une cotisation à l'égard de l'appelant à titre de commanditaire d'une société de personnes dans laquelle il n'avait aucune participation exonérée en vertu du paragraphe 96(2.5), le ministre s'est fondé notamment sur les faits suivants :
+a) pendant toute la période pertinente, Kingsberry Properties ( « Kingsberry » ) était une société en commandite dont l'appelant était un des commanditaires.
+b) Kingsberry exploitait son entreprise depuis octobre 1984.
+c) l'exercice de Kingsberry correspondait à l'année civile.
+d) Du 31 décembre 1986 au 31 décembre 1990, les augmentations suivantes sont survenues dans les éléments d'actif et de passif de Kingsberry :
+i) le total de l'actif a augmenté de 182 p. 100;
+ii) le total du passif a augmenté de 126 p. 100;
+iii) le total des biens locatifs et des immobilisations a augmenté de 537 p. 100;
+iv) le total des terrains détenus en vue de réaménagement a augmenté de 345 p. 100 avant la compensation des lettres de crédit en circulation (ou de 485 p. 100 après la compensation des lettres de crédit en circulation); 83 p. 100 de cette augmentation résultaient de nouveaux projets entrepris après 1986;
+v) le nombre de projets est passé de 13 à 18.
+e) Il y a eu, après le 25 février 1986, une augmentation importante du capital et de la dette de Kingsberry qui n'était pas en rapport avec des engagements antérieurs à février 1986 et qui a constitué un accroissement majeur de l'activité de la société de personnes à partir de cette date;
+f) La « fraction à risque » de l'appelant n'était, à aucun moment pertinent, supérieure à zéro.
+Direction de Kingsberry
+7. Une entente visant la création de Kingsberry (le « contrat de société » ) a été passée le 31 octobre 1984 par John Foley (le commandité), Mark Foley et Michael Foley (les commanditaires). Un accord modificateur a été signé le 5 décembre 1994.
+8. John Foley est le père de Mark et Michael Foley.
+9. Les administrateurs de Kingsberry étaient John Foley, Michael Foley, Linda Hunter et Mary Jo Bathe, les deux filles de John Foley.
+10. Pendant toute la période pertinente, le commandité, John Foley, était le seul signataire autorisé.
+11. Le paragraphe 6a) du contrat de société stipulait que le commandité dirigerait l'entreprise et les affaires de la société de personnes et pourrait déléguer à l'un ou l'autre commanditaire le droit de signer des chèques et autres effets, sous réserve de son agrément.
+12. Selon le paragraphe 6e) du contrat de société, il était interdit à tout commanditaire de participer à la gestion de l'entreprise ou des affaires de Kingsberry, ou de conclure des affaires pour Kingsberry. En outre, les commanditaires n'étaient autorisés à engager la société de personnes, ni par signature, ni de quelque autre façon que ce soit.
+13. L'article 6 de l'accord modificateurconfirmait expressément et à maintes reprises que :
+[traduction]
+Dans l'éventualité où une disposition quelconque du contrat de société original, tel qu'il est modifié par le présent accord, aurait l'effet d'imposer à un commanditaire l'une ou l'autre obligation du commandité, cette disposition n'aura aucun effet et ne sera pas considérée comme faisant partie du contrat de société original modifié par le présent accord, par [sic] le reste du contrat de société original ainsi modifié par le présent accord demeurera en vigueur.
+(Note du juge : Le mot « par » , à l'avant-dernière ligne, devrait être remplacé par le mot « mais » . Voir la pièce A-3, onglet 164.)
+14. L'appelant ne participait pas directement à l'administration, à la gestion ou à l'exploitation; et il ne participait pas à la direction de l'entreprise de Kingsberry pendant les années d'imposition pertinentes.
+15. Toutes les mesures prises par l'appelant pouvant être attribuées à l'administration, à la gestion et à l'exploitation de l'entreprise de Kingsberry ont été prises par l'appelant exclusivement en qualité de mandataire de John Foley, le commandité. Sinon, l'appelant n'a pris de telles mesures que dans l'exercice de ses fonctions de dirigeant ou de fiduciaire de Lanmark Management Limited, ou bien d'une société ou d'une fiducie affiliée à Kingsberry.
+16. Kingsberry a fait faillite le 31 décembre 1993 et, conformément au paragraphe 8a) du contrat de société, la société en commandite a été dissoute.
+17. En conséquence de la faillite de Kingsberry, John Foley, le commandité, est devenu responsable envers les créanciers de Kingsberry et il a fait faillite.
+18. Jamais l'appelant ou son frère, Michael Foley, ne se sont-ils présentés au syndic de faillite de Kingsberry pour faire valoir qu'ils étaient des commandités de Kingsberry.
+19. Pendant toute la période pertinente, l'appelant était un commanditaire de Kingsberry.
+20. Avant le dépôt de l'Avis d'appel modifié daté du 13 mars 2002, l'appelant n'a jamais adopté la position selon laquelle il était un commandité de Kingsberry. Au contraire, son point de vue avant cette date a toujours été qu'il était, pendant toute la période pertinente, un commanditaire de Kingsberry.
+[5] Les appels sont interjetés pour permettre aux appelants de déclarer certaines pertes sociales subies par Kingsberry Properties aux montants de 4 275 916 $ en 1993 et de 4 726 003 $ en 1994. Dans ce but, les appelants doivent prouver leur situation de commandités de Kingsberry Properties (et non de commanditaires, selon la description du contrat de société). Les années et les montants des pertes déclarées qui sont en litige sont les suivants :
+Michael Foley Mark Foley
+1991 294 661 $
+1996
+319 760 $ 196 525
+1997
+85 514,93 185 625
+1998
+55 049,51 139 247
+[6] Les hypothèses suivantes dans les réponses n'ont pas été réfutées par la preuve :
+b) Kingsberry exploitait son entreprise depuis octobre 1984;
+c) l'exercice de Kingsberry correspondait à l'année civile;
+Toutes les autres hypothèses sont contestées.
+[7] Les paragraphes suivants, tirés des réponses au paragraphe [5] des présentes, sont corrects : 10, 11, 12, 13, 16 (en vertu d'une ordonnance d'un tribunal rétroactive émise en décembre 1997 et datant du début de la mise sous séquestre), 17, 18 et 20.
+[8] Chaque appelant déclare 45 p. 100 des pertes de Kingsberry Properties en 1993 et en 1994.
+[9] Deux points demeurent en litige entre les parties :
+1. La fraction des appelants était-elle à risques et, de ce fait, les appelants n'étaient-ils pas des commanditaires au sens des paragraphes 96(2.1) et (2.4) de la Loi de l'impôt sur le revenu?
+2. Si non, la participation des appelants dans Kingsberry était-elle exonérée parce que, comme le soutient l'intimée, après le 25 février 1986 il y a eu une augmentation importante de la dette de Kingsberry qui n'a pas servi à réaliser un accroissement majeur de ses activités? (Paragraphe 96(2.5)).
+Je traiterai d'abord le point 1.
+[10] Les articles 12 et 13 de la Loi sur les sociétés en commandite , L.R.O. 1990, ch. L.16, sont ainsi rédigés :
+Relations d'affaires entre un commanditaire et la société - par. 12(1)
+12. (1) Un commanditaire peut consentir des prêts à la société en commandite et conclure d'autres affaires avec elle. À moins qu'il ne soit également commandité, il peut recevoir, en paiement des créances qui résultent de ces prêts ou autres affaires, une part de l'actif de la société en commandite, calculée au prorata de l'ensemble des créances des créanciers ordinaires de la société en commandite. Toutefois, le commanditaire n'a pas le droit, à l'égard d'une telle créance :
+(a) de recevoir ou de détenir des biens de la société en commandite comme garantie accessoire;
+(b) de recevoir, de la part d'un commandité ou de la société en commandite, un paiement ou de bénéficier d'une cession de biens ou d'une libération d'obligation si, à ce moment-là, l'actif de la société ne suffit pas à acquitter les obligations de la société, envers les personnes qui ne sont ni commandités ni commanditaires.
+Droits du commanditaire - par. 12(2)
+(2) Le commanditaire peut :
+(a) vérifier l'état et les progrès de l'entreprise de la société en commandite, et donner son avis sur sa gestion;
+(b) agir à titre d'entrepreneur, de mandataire ou d'employé pour le compte de la société en commandite ou d'un commandité;
+(c) se porter caution de la société en commandite.
+L.R.O. 1980, ch. 241, art. 11.
+Commanditaire dirigeant l'entreprise - par. 13(1)
+13.(1) Le commanditaire n'est pas responsable au même titre qu'un commandité, sauf si, en plus d'exercer les droits et pouvoirs qui lui sont conférés en qualité de commanditaire, il participe à la direction de l'entreprise.
+Droits et pouvoirs supplémentaires - par. 13(2)
+(2) Pour l'application du paragraphe (1), le commanditaire n'est pas présumé participer à la direction de l'entreprise du seul fait qu'il exerce plus de droits et de pouvoirs que n'en confère la présente loi à un commanditaire.
+L.R.O. 1980, ch. 241, art. 12.
+[11] Il est à noter que Kingsberry était une société en commandite ontarienne, qui s'occupait d'aménagement immobilier, de construction et de vente de biens à Oshawa et dans le comté de Durham, en Ontario. Au sujet de la citation du paragraphe [10] :
+1. Le paragraphe 12(1) permet au commanditaire de conclure des affaires « avec » la société en commandite et non « pour » la société en commandite, sauf de la façon décrite au paragraphe 12(2).
+2. Le paragraphe 13(1) exonère le commanditaire de toute responsabilité à moins que le commanditaire ne « participe » à la direction de l'entreprise.
+[12] Les paragraphes 6a), c) et e) du contrat de société en commandite conclu entre John, Mark et Michael Foley le 31 octobre 1984 étaient ainsi rédigés :
+[traduction]
+Gestion
+6.a) L'entreprise et les affaires de la société de personnes seront gérées par le commandité, qui détiendra tous les pouvoirs nécessaires pour exploiter l'entreprise de la société de personnes, pourra signer des documents et contrats au nom de l'entreprise ou en tout autre nom que les associés pourront convenir et pourra signer, endosser et accepter au nom de l'entreprise des effets, billets, chèques, traites ou autres instruments aux fins de l'entreprise. Le commandité peut déléguer à tout commanditaire le droit de signer de tels chèques et autres instruments, sous réserve de son agrément. Néanmoins, le commandité ne sera pas autorisé (i) à vendre, à échanger, à engager, à hypothéquer, ni à grever ou à céder de quelque façon que ce soit la totalité ou une part importante de l'actif de la société de personnes sans obtenir l'agrément écrit préalable des commanditaires; ni (ii) à emprunter de l'argent au nom de la société de personnes, dans un but autre que celui d'acquitter des obligations de la société de personnes n'ayant pas été volontairement contractées par le commandité, sans obtenir au préalable l'agrément écrit des commanditaires.
+c) Le commandité peut, à sa discrétion, employer d'autres personnes intéressées ou des entreprises qui lui appartiennent, lui sont associées ou lui sont affiliées pour rendre, au nom de la société de personnes, une partie ou la totalité des services administratifs spécialisés ou généraux qui sont raisonnablement nécessaires à l'atteinte des objectifs de la société de personnes.
+e) Aucun commanditaire ne peut, à ce titre, participer de quelque manière que ce soit à la gestion de l'entreprise ou des affaires de la société de personnes, conclure d'affaires pour l'entreprise, signer pour le compte de la société de personnes, ou bien engager celle-ci de quelque façon que ce soit.
+[13] Kingsberry répartissait ses activités entre trois secteurs :
+1. John Foley, ancien entrepreneur en plomberie et en chauffage diplômé de l'école secondaire, trouvait et achetait les biens, et organisait le financement.
+2. Mark Foley, titulaire d'un diplôme universitaire en études de l'environnement, assumait toutes les tâches liées au lotissement des terrains, aidait John et gérait la location des résidences (de 10 à 22, et à un moment donné, jusqu'à 85 ou 90).
+3. Michael Foley, titulaire d'un B.Com, s'occupait de la construction des infrastructures souterraines, des projets de construction résidentielle et des ventes.
+[14] Mark et Michael Foley signaient tous deux des chèques et exécutaient diverses tâches administratives. Ils donnaient aussi des instructions aux avocats concernant le contentieux dans leurs domaines respectifs, signaient des chèques pour Kingsberry et traitaient avec la banque. John Foley était fondé de signature à la banque, à titre de commandité. Mark, né le 18 janvier 1955, et Michael, né le 4 décembre 1957, ont tous deux signé à la banque des cautionnements pour Kingsberry, qui étaient expirés lorsque Kingsberry a été mise sous séquestre.
+[15] M. Aitchison a déposé qu'il s'occupait du contentieux pour le compte de Kingsberry et des appelants. Au cours du séquestre, la Banque Royale et ses procureurs de Toronto ont envisagé de poursuivre les appelants en justice parce que leurs activités chez Kingsberry avaient outrepassé leur rôle de commanditaires. M. Aitchison a informé les appelants qu'à son avis, la position de la Banque Royale était bien fondée. Les appelants ont donc déboursé de fortes sommes pour régler avec la banque sans passer en justice. Une seconde demande a aussi été réglée de la même façon.
+[16] La question consiste à savoir si Mark et Michael Foley participaient à la direction de l'entreprise de Kingsberry. Cette entreprise s'occupait de l'achat, de l'aménagement, de la construction et de la vente de biens.
+[17] L'entreprise de Kingsberry était divisée en trois secteurs d'opération. Toute la preuve indique que chaque secteur était dirigé et exploité par un membre différent de la famille Foley : John aux achats, Mark au lotissement et à la location, Michael à la construction. Michael et John se partageaient les ventes. Bien que le nombre de projets ait été inférieur à 20, le nombre de lots traités chaque année s'élevait à plusieurs centaines. Il est clair que l'envergure de l'entreprise de Kingsberry et la division du travail au sein de celle-ci obligeaient chaque secteur de l'entreprise de Kingsberry à être dirigé par un membre de la famille Foley. Il s'ensuit également que les trois Foley se partageaient la direction de l'entreprise entière et la responsabilité de sa réussite ou de son échec. Mark et Michael participaient tous deux à la direction de l'entreprise de Kingberry. Par conséquent, leurs fractions respectives étaient à risques et ils n'étaient pas des commanditaires au sens des paragraphes 96(2.1) et (2.4) de la Loi de l'impôt sur le revenu (point un du paragraphe [9] des présentes).
+[18] Pour ces motifs, il n'est pas nécessaire de traiter le second point.
+[19] Les appels sont admis et les cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation, conformément aux présents motifs. Les dépens entre parties sont accordés aux appelants, mais un seul mémoire de frais est accordé concernant l'audience. Cependant, chacune des deux parties était représentée en audience par deux avocats et, par conséquent, les dépens liés au deuxième avocat sont accordés aux appelants en ce qui concerne l'audience.
+Les présents motifs du jugement remplacent les motifs du jugement rendu le 15 octobre 2003.
+Signé à Ottawa (Ontario) ce 14e jour de novembre 2003.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 28e jour de mai 2004.
+Nancy Bouchard, traductrice

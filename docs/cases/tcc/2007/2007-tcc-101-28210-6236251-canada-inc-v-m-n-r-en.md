@@ -1,0 +1,248 @@
+---
+title: "6236251 Canada Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28210/index.do"
+last_modified: "2007-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 101"
+citation2: ""
+neutral_citation: "2007 TCC 101"
+decision_date: "2007-02-16"
+language: "en"
+item_id: "28210"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2057
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:23:41.639000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b21597a57a2e173a8dcefb6cdbe572c47af6b35d2233aed3aa4fd8a55603b7d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6236251 Canada Inc. v. M.N.R.
+
+- Citation: 2007 TCC 101
+- Decision date: 2007-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2057, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6236251 Canada Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-16
+Neutral citation
+2007 TCC 101
+File numbers
+2005-3792(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2005-3792(EI)
+BETWEEN:
+6236251 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal(s) of 6236251 Canada Inc. (2005-3793(CPP)) and Beverly Williamson (2005-3801(CPP))
+on February 6, 2007, at Edmonton, Alberta
+Before: The Honourable M.H. Porter, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Norman W. Simons
+Counsel for the Respondent:
+Connie Mah
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed in part and the matter referred back to the Minister for reassessment in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 16th day of February 2007.
+"Michael H. Porter"
+Porter D.J.
+Docket: 2005-3793(CPP)
+BETWEEN:
+6236251 CANADA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal(s) of 6236251 Canada Inc. (2005-3792(EI)) and Beverly Williamson (2005-3801(CPP))
+on February 6, 2007, at Edmonton, Alberta
+Before: The Honourable M.H. Porter, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Norman W. Simons
+Counsel for the Respondent:
+Connie Mah
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed in part and the matter referred back to the Minister for reassessment in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 16th day of February 2007.
+"Michael H. Porter"
+Porter D.J.
+Docket: 2005-3801(CPP)
+BETWEEN:
+BEVERLY WILLIAMSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal(s) of 6236251 Canada Inc. (2005-3792(EI)) and 6236251 Canada Inc. (2005-3793(CPP)) on February 6, 2007, at Edmonton, Alberta
+Before: The Honourable M.H. Porter, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Norman W. Simons
+Counsel for the Respondent:
+Connie Mah
+____________________________________________________________________
+JUDGMENT
+The appeal of Beverly Williamson is allowed and the assessment in respect of EI premiums and CPP contributions is vacated.
+Signed at Calgary, Alberta, this 16th day of February 2007.
+"Michael H. Porter"
+Porter D.J.
+Citation: 2007TCC101
+Date: 20070216
+Dockets: 2005-3792(EI)
+2005-3793(CPP)
+2005-3801(CPP)
+BETWEEN:
+6236251 CANADA INC. AND BEVERLY WILLIAMSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter D.J.
+[1] These appeals were heard on common evidence by consent of all parties.
+[2] Beverly Williamson (“B.W.”) is the sole shareholder officer and director of 6236251 Canada Inc. (“623”).
+[3] B.W. operated her own business offering bookkeeping payroll services. A former client, one Mark Henry, (“Henry”) approached her in May 2006, to see if she would provide a banking service for him, as due to his poor credit rating he was unable to open a bank account at any bank or credit union. He wished to incorporate a new business with the trade name, “Digital Documents” for which he had incorporated a corporation 6225471 Canada Corporation (“622”).
+[4] Beverly Williamson agreed and promptly incorporated 623. The agreement between 623 and 622 was that 623 would provide banking services to 622 as a Trustee, that all funds would be deposited in trust for 622 and all disbursements would be advanced on behalf of 622; that 623 would register the brand name, “Digital Documents” with the Alberta Registrar of Corporations and the agreement would endure for one year. Beverly Williamson was to be paid $800 for this service and was so paid.
+[5] All these arrangements were duly put in place. A new bank account was opened by 623, guaranteed by B.W. and deposits were made over the next three months by Henry. He was provided with a bank debit card relating to the account, by virtue of which he could make deposits at an ATM and also make withdrawals up to $500 or $1,000. Any larger amounts were to be disbursed from the account by way of cheques, signed by B.W., who kept the cheque book.
+[6] 622 duly made deposits to the account over the next three months and there were a number of withdrawals and disbursements, including debit card payments and cash withdrawals from an ATM.
+[7] 622 obviously did not succeed in its business venture and ceased business, by August 31st, 2004, when the closing balance of the bank account was in the negative to the tune of $2,871.83.
+[8] It is common ground that 622 had a number of employees, some of whom were known to B.W. A number of cheques were written by B.W. in favour of these employees over the three month period. These cheques were delivered to Henry. The amounts of the cheques represented the net pay due to these employees after statutory deductions. Henry apparently delivered the cheques to his employees. Neither Henry nor 622 nor 623 remitted any of these deductions to the Canada Revenue Agency.
+[9] By Notice of Assessment dated February 28, 2005, 623 was assessed for Canada Pension Plan contributions in respect of the Appellant in the amount of $2,738.99 for the 2004 taxation year, plus related penalty and interest. Canada Pension Plan contributions in the amount of $2,738.99 were assessed as the Minister determined the contributory salary and wages from pensionable employment of the Appellant with 623 to be $28,834.01. This amount was reduced upon appeal to the Minister to $2,374.86, but otherwise the assessment was confirmed.
+[10] The basis on which the assessment (and reassessment) was made was that the personal expenses and funds withdrawn from the bank account of 623 were income in the hands of B.W., in the sense of being received by her as an employee of 623, as remuneration.
+[11] In actual fact the evidence revealed and I am absolutely satisfied, that she did not receive one penny in cash or benefit from this bank account. All monies went directly to or for the benefit of Henry or his corporation 622. There was no mixing of monies and no benefit ensued to B.W.
+[12] By Notice of Assessment dated November 25, 2004, 623 was assessed for EI premiums and CPP contributions in respect of the four employees of 622, plus penalties and interest. The amounts in question were reduced on appeal to the Minister, but otherwise the assessment was confirmed on the following basis:
+(i) that the employment of the Workers was insurable/pensionable during the 2004 taxation year as the Workers were employed under contracts of service with 6225471 and were, therefore, employees of 6225471; and
+(ii) that the Appellant was the deemed employer of the Workers and was responsible for deducting and remitting Employment Insurance premiums as it paid the wages of the Workers.
+[13] In confirming the assessment the Minister relied upon s. 10(1) of the Insurable Earnings and Collection of Premium Regulations none under the Employment Insurance Act (“EI Regulations”) and 8.1(1) of the Canada Pension Plan Regulations (“CPP Regulations”) which respectively are as follows:
+10.(1) Where, in any case not coming within any other provision of these Regulations, an insured person works
+(a) under the general control or direct supervision of, or is paid by, a person other than the insured person’s actual employer or
+(b) with the concurrence of a person other than the insured person’s actual employer, on premises or property with respect to which that other person has any rights or privileges under a licence, permit or agreement,
+that other person shall, for the purposes of maintaining records, calculating the insurable earnings of the insured person and paying, deducting and remitting the premiums payable on those insurable earnings under the Act and these Regulations, be deemed to be the employer of the insured person in addition to the actual employer.
+8.1(1) Every person by whom the remuneration of an employee for services performed in pensionable employment is paid either wholly or in part is, for the purpose of calculating the employee’s contributory salary and wages, maintaining records and filing returns, and paying, deducting and remitting the contributions payable thereon under the Act and these Regulations, deemed to be an employer of that employee in addition to the actual employer of that employee.
+[14] It is from these various assessments, that the Appellants B.W. and 623 have appealed to this Court.
+Conclusion
+Appeal by B.W.
+[15] With respect to B.W.’s appeal, her evidence and the evidence of Henry was perfectly clear that no money or benefit whatsoever flowed to B.W. from the bank account in question. I am quite confident that B.W. is as honest as the day is long, and I have no hesitation in accepting her evidence on this point.
+[16] K. Storrier, did the work on behalf of the Minister in deciding the appeal to the Minister. To her credit she was honest and straight forward enough to say, when she gave evidence, that she attributed this income to B.W., simply because the account was opened in the name of 623 and operated and controlled by B.W. Quite clearly however, none of this was income in the hands of B.W.
+[17] Accordingly the appeal of B.W. is allowed and the assessments in respect of EI premiums and CPP contributions are vacated.
+Appeal by 623
+[17] The assessments in relation to the 623 with respect to EI premiums and CPP contributions relative to the employees of 622 are somewhat more complicated to deal with.
+[18] Clearly the four employees in question were employed by 622. Nobody is disputing that fact. Rather the question is whether or not 623 is the “deemed” employer under the respective Regulations and if so, what amounts it “paid” to the employees.
+[19] In order to be caught by the Regulations, the “employee” has to be paid by someone other than his/her actual employer. In such case, the person doing the paying is deemed to be an employer of the employee in addition to the actual employer and therefore that deemed employer is responsible to deduct and remit premiums and contributions.
+[20] Two cases were cited before me. The first, a decision of the Federal Court of Appeal, Insurance Corp. of British Columbia v. Canada (Minister of National Revenue), [2002] F.C.J. No. 380 where Strayer JA. said this :
+The purpose of the Regulations and the statute which authorizes them is in part to facilitate collection of employment insurance premiums, an activity which is essential to the scheme as it now exists. The Act clearly authorizes the kind of provision which has been adopted by the Governor in Council in section 10 of the Regulations. In examining section 10 one sees that it is to apply inter alia where an employed insured person is being “paid by a person other than [his or her] actual employer”. In such case that “other person” must maintain records of employment and calculate, deduct, and remit the appropriate premiums. The proposition is simple enough and its purpose clear: premiums are to be deducted at the source where salary or wages are calculated and administered, and where checks or pay-packets are issued. The term “paid” ought to be interpreted in context, and it is not necessary to examine technical sources in order to attribute to it a meaning that would defeat the clear purpose of the section. It would be equally possible, if one were to dwell on abstract legal concepts, to hold that a person can be an “actual employer” only if that person is paying the “employee” from his or her own resources and not at the expense of another. But that would also defeat the purpose of the section by precluding its application to any situation where a third party was actually providing and administering the wages or salary.
+[21] This decision was followed by Lamarre, TCJ in the case of Union of Saskatchewan Gaming Employees Local 40005 v. Minister of National Revenue, [2004] T.C.J. No. 608.
+[22] I have considered the one difference in the case at hand from the two cited cases. In each of these cited cases the employees in question were paid directly by the third party, the Insurer and the Union respectively. In the case at hand Henry requested cheques from B.W., to be drawn on the 623 account, and these were delivered to him for distribution to the employees. It is a fine point but I have had to consider whether this makes a difference and whether the action of writing the cheques can be categorized as “paying” the employees.
+[23] To be fair B.W., said she was not concerned as to what the payments were for. She had no knowledge whether they were wages for an employee, payments to subcontractor or reimbursement of expenses. She did know the people in question worked for Henry and 622. As a bookkeeper and handler of payrolls should she have been on notice to enquire?
+[24] Strayer JA. In the Insurance Corp case (above) was clearly of the view that the purpose of these Regulations was to facilitate the collection of EI premiums and CPP contributions and went so far as to say that premiums (and by analogy CPP contributions) should be deducted “where salary or wages are calculated and administered and where cheques or pay packets are issued”. He was of the view that one should not attribute to the word “paid”, such a narrow definition that would defeat the clear purpose of the section. I find that by using such language he has clearly put on notice those persons who, for one reason or another, whether they be trustees, insurers, unions or others, who administer funds for payrolls on behalf of other people, that they being the source of the funds have a legal obligation to deduct and remit these premiums and contributions and that if they do not they are on the hook personally.
+[25] Thus, I am of the view that B.W., acting on behalf of 623, had such an obligation when writing cheques made out to specific employees and delivering them to Henry, for payment of these wages to his employees. She controlled the funds and she had the obligation to deduct and remit, making the appropriate enquiries if necessary, to enable her to do this. It is unfortunate for her but that is the law and she has been caught, burned, by the unscrupulous behaviour of Henry, who had the primary duty to remit these amounts.
+[26] However, I am also of the view that if she simply handed a cheque for cash to Henry, she was not paying the employees but simply returning his money to him, albeit a notation or something on a cheque stub which might have been referred to certain employees. This was after all Henry’s money and if she gave him the cash or access to the cash, she was not in my view paying the employees. What ultimately he did with that cash was a matter between him and his employees over which she did not have control, and she cannot be said to have paid those employees in such circumstances. That is a different situation. In the one case she writes the cheque to the employee and it is a simple matter of delivery of the cheque to the employee that follows. In the other case she simply provides the cash to the person who owns it and has no responsibility for what he does with his money.
+[27] There thus remains the question as to whether the amount of the assessment(s) is correct. I was assured by counsel for the Minister that all amounts included in the revised assessment, prepared by Ms. Storrier, namely Exhibit R11, were substantiated by cheques, cheque stubs or bank statements, copies of which were before me. I have been able to verify the following amounts marked “approved” and have been unable to find cheques or stubs for the amounts marked “not approved”:
+LYLE KUEFLER
+May 21st cheque #901 $1,132.00 approved
+May 31st cheque #0001 $1,148.62 approved
+July 15th cheque #0006 $1,148.62 approved
+June 30th - $1,135.07 no cheque or not approved
+stub available
+- - $1,132.00 " " " " not approved
+- cheque #0016 $1,200.00 made out to cash not approved
+- cheque #0018 $1,400.00 " " " " not approved
+- cheque #0023 $1,445.62 cheque marked void not approved
+TAN QING
+May 21st cheque #903 $1,500.00 approved
+June 15 cheque #0009 $1,515.91 approved
+July 28 cheque #0020 $1,515.91 approved
+July 28 cheque #0021 $1,515.91 cash on Aug 3 approved
+May 31st cheque #0002 $1,515.91 marked void not approved
+August 3rd cheque #0026 $1,515.91 no cheque or sub not approved
+with QT name
+cleared bank
+August 3rd cheque #0029 $1,515.91 no cheque or stub not approved
+with QT name
+August 20th cheque #0034 $1,515.91 " " " " not approved
+DENISE BATIUK
+May 21st cheque #902 $1,000.00 approved
+May 31st cheque #0004 $1,500.00 approved
+June 15th cheque #0007 $ 668.75 approved
+July 31st cheque #0024 $1,812.38 approved
+July 12th cheque #0014 $1,000.00 made out to cash not approved
+July 15th - $1,500.00 no cheque or stub not approved
+available
+August 13th - $ 615.99 " " " " not approved
+July 15th cheque #0007 $1,200.00 made out to cash not approved
+- cheque #0018 $1,925.00 made out to cash not approved
+CONRAD GOTZMAN
+May 21st cheque #904 $1,800.00 approved
+June 15th cheque #0008 $1,825.29 approved
+July 12th cheque #0014 $1,825.29 made out to cash not approved
+June 30th cheque #0027 $1,825.29 no cheque or stub available not approved
+no evidence who cashed
+cheque
+July 15th - $1,900.00 no cheque or sub available not approved
+- cheque #0016 ? made out to cash not approved
+- cheque #0018 ? made out to cash not approved
+[28] In my view the Regulations should only apply to B.W. where there is clear evidence that she wrote cheques in favour of the employees or otherwise delivered or paid the cash to them for their net amount of pay. Where she simply wrote cheques out to cash, this does not meet the terms of the Regulations. In other cases where no cheques or stubs exist it cannot simply be assumed that she wrote cheques in favour of employees simply from the fact that certain amounts passed from the bank account to unknown persons. These Regulations are a catchall and B.W. should not be in the net, so to speak, without clear evidence that she took some active step that can be classified as paying the employee, in accordance with the definition of that word as set out by the Federal Court of Appeal in the case of Insurance Corp. of British Columbia.
+[29] I therefore allow the appeals of 623 in part and vary the assessment so that the amounts shown above as not approved are deleted and I direct that the matter be returned back to the Minister for reassessment in accordance with the amounts I have shown above as being approved, those being the amounts that are substantiated by the evidence.
+Signed at Calgary, Alberta, this 16th day of February 2007.
+"Michael H. Porter"
+Porter D.J.
+CITATION: 2007TCC101
+COURT FILES NO.: 2005-3792(EI)
+2005-3793(CPP)
+2005-3801(CPP)
+STYLE OF CAUSE: 6236251 CANADA INC. AND BEVERLY WILLIAMSON AND M.N.R.
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: February 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable M.H. Porter, Deputy Judge
+DATE OF JUDGMENT: February 16th , 2007
+APPEARANCES:
+Counsel for the Appellant:
+Norman W. Simons
+Counsel for the Respondent:
+Connie Mah
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Norman W. Simons
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

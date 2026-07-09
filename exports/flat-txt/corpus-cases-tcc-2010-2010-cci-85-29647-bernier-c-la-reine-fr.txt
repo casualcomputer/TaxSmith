@@ -1,0 +1,138 @@
+Title: Bernier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29647/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-85-29647-bernier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-02-12
+
+# Bernier c. La Reine
+
+- Citation: 2010 CCI 85
+- Decision date: 2010-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6154, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-12
+Référence neutre
+2010 CCI 85
+Numéro de dossier
+2008-489(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-489(IT)G
+ENTRE :
+LYNDA BERNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 novembre 2009, à Rimouski (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Denis Tremblay
+Avocat de l'intimée :
+Me Luc Vaillancourt
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu dont l'avis porte le numéro 30458 est rejeté avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour de février 2010.
+« François Angers »
+Juge Angers
+Référence : 2010 CCI 85
+Date : 20100212
+Dossier : 2008-489(IT)G
+ENTRE :
+LYNDA BERNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Par avis de cotisation daté du 4 octobre 2006, le ministre du Revenu National (le « ministre ») a réclamé à l'appelante le paiement d'une somme de $29 298,99, en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi »), relativement à un transfert de fonds à l'appelante effectuée par son conjoint le 10 mai 2004. À cette date, l'appelante a déposé dans son compte à la Caisse populaire Desjardins du Rivage et des Monts la somme de 81 869,42 $. Cette somme correspondait au montant d'un chèque daté du 3 mai 2004 qui avait été émis par la Commission de la santé et de la sécurité du travail (CSST) à l'ordre de monsieur Richard Ouellet, le conjoint de l'appelante.
+[2] Le 21 mars 2002, le ministre avait établi de nouvelles cotisations à l'égard du conjoint de l'appelante pour les années d'imposition 1998 et 1999 de ce dernier, de sorte que, au moment du dépôt de la somme de 81 869,42 par l'appelante, son conjoint avait une dette envers le ministre, laquelle a donné lieu à la cotisation établie à l'égard de l'appelante. Il est à noter qu'à l'époque en cause Richard Ouellet et l'appelante étaient mariés.
+[3] Les parties ont d'emblée fait valoir à la Cour qu'il n'y avait en fait que deux points en litige en l'espèce. L'appelante reconnaît qu'elle et son conjoint sont des personnes liées au sens de la Loi et qu'il y a eu un transfert de biens alors que l'auteur du transfert avait une dette envers le ministre. Elle soutient, cependant, qu'il y a eu une contrepartie pour ce transfert, et cela constitue le premier point en litige. Comme deuxième point, l'appelante fait valoir que la somme transférée constitue une indemnité de remplacement de revenu représentant la capitalisation d'une rente, et que, puisqu'elle provient de la CSST, elle est insaisissable peu importe qu'elle se trouve entre les mains de monsieur Ouellet ou entre celles de l'appelante.
+[4] Je dois également déterminer si une partie de la preuve présentée par l'appelante est inadmissible en raison de sa non-pertinence. Il s'agit de la pièce A‑2, qui est un état des revenus et dépenses familiaux de l'appelante, de son conjoint et leur fils de 28 ans qui, en raison de son état de santé, est à la charge de ses parents. Il s'agit aussi de la preuve testimoniale entendue à cet égard. En fait, la pertinence de cette preuve a été soulevée en raison de la décision récente de la Cour d'appel fédérale dans l'affaire Yates c. Canada, 2009 FCA 50, où il a été statué que le paragraphe 160(1) de la Loi ne prévoit aucune exception fondée sur le droit de la famille ou sur les obligations familiales.
+[5] Il est vrai que, pour des raisons de non-pertinence, une preuve peut être déclarée inadmissible. L'inadmissibilité est d'autant plus possible que cette preuve peut être bien isolée des autres éléments de preuve. En venir à une décision sur l'inadmissibilité n'est pas toujours évident et, dans la plupart des cas, il est plus prudent d'admettre la preuve afin de permettre au juge qui présidera l'audience d'en faire une analyse et de déterminer sa pertinence en fonction des points en litige qu'il aura à régler. En l'espèce, la preuve soumise par l'appelante se rapporte directement au fondement de son argument. Il devient donc important qu'elle soit admise afin que l'appelante puisse appuyer ses revendications.
+[6] En 1999, le conjoint de l'appelante a subi un grave accident de travail alors qu'il travaillait comme bûcheron. Il avait aussi été pêcheur pendant plusieurs années et il travaillait à la pêche avec son épouse et son fils. C'est d'ailleurs l'impôt sur la vente de son permis de pêche qui a occasionné l'obligation fiscale qui fait l'objet de la cotisation en l'espèce.
+[7] L'accident susmentionné a donc forcé le conjoint de l'appelante d'obtenir des prestations de la CSST. Ni l'appelante ni leur fils ne travaillaient à l'époque. Selon le conjoint, la rente de 600 $ toutes les deux semaines versées par la CSST était insuffisante pour leur permettre de subvenir à leurs besoins. Lui et l'appelante ont donc soumis à la CSST un projet de capitalisation de la rente dans le but d'investir l'argent dans un restaurant. La CSST a accepté et a permis au conjoint de l'appelante de capitaliser sa rente sur une période de 6 ans, soit du 25 novembre 2003 au 24 novembre 2009. Elle lui a donc versé la somme de 81 869,42 $.
+[8] En raison des séquelles de l'accident de travail de son conjoint, l'appelante s'occupait des finances de la famille et les gérait. C'est donc elle qui, se servant des revenus du restaurant, devait voir au remboursement des emprunts faits pour la maison et pour l'achat de la voiture et faire face à toutes les autres dépenses familiales. Selon le conjoint de l'appelante, il lui a remis la somme en question afin qu'elle s'acquitte des obligations financières de la famille. Elle prenait en charge les dépenses familiales.
+[9] Dans ses réponses données dans le cadre d'un interrogatoire préalable effectué par écrit, l'appelante a expliqué de façon très claire que le montant de 81 869,42 $ lui a été remis par son conjoint, qu'elle a investi cet argent dans un restaurant qui constitue leur seul source de revenus et qu'elle doit, en se servant des revenus du restaurant, couvrir la totalité des dépenses familiales et pourvoir aux besoins de son conjoint liés à l'état dans lequel il se trouvait à la suite de son accident de travail.
+[10] L'agent d'opposition de l'Agence du revenu du Canada (ARC) a relaté une conversation qu'il avait eue avec le représentant de l'appelante, et, selon l'agent, à aucun moment on n'a prétendu que l'appelante était mandataire de son conjoint ou encore qu'elle avait pris en charge les dettes de celui-ci.
+[11] Il s'agit donc de déterminer si le transfert de la somme d'argent en question par le conjoint de l'appelante à cette dernière a été fait avec ou sans contrepartie. Si je conclus que le transfert a été fait sans contrepartie, il faudra se demander si le caractère insaisissable des sommes transférées vient empêcher l'application, en l'espèce, de l'article 160 de la Loi.
+[12] La position de l'avocat de l'appelante repose donc sur le fait que, puisqu'il s'agit d'une somme d'argent insaisissable en raison de sa nature alimentaire et des dispositions de la Loi sur les accidents de travail et les maladies professionnelles du Québec, il y a eu une contrepartie valable, de sorte que les faits en l'espèce sont différents de ceux que l'on trouve dans l'arrêt Yates (précité). La prise en charge des obligations familiales par l'appelante constitue une contrepartie valable, d'une valeur qui est même supérieure à celle du montant transféré puisque la preuve démontre clairement que les obligations familiales sur 5 ans représentent une valeur supérieure au montant transféré. La thèse de l'avocat de l'appelante est appuyée par le dépôt d'un tableau des dépenses mensuelles par rapport au revenu mensuel (pièce A-2). Selon l'avocat de l'appelante, l'objectif de l'article 160 de la Loi est, suivant l'arrêt Hewett c. Canada, [1997] A.C.F. no 1541 (QL), d'empêcher le contribuable de se déposséder de sommes qui auraient autrement été saisissables par le ministre. Il affirme aussi que le fait que les sommes aient été déposées dans un compte ne leur fait pas perdre leur caractère insaisissable, selon l'arrêt D.(J.) c. J.(T.) et al., REJB 1998-08139. L'avocat de l'appelante soutient également que ce transfert est semblable à celui que l'on trouve dans l'arrêt Canada c. Ducharme, 2005 CAF 137 et dans l'affaire Tétreault c. La Reine, 2004 CCI 332, et qu'il s'agit d'un don avec charges, donc, il y a contrepartie suffisante.
+[13] De son côté, l'avocat de l'intimé s'appuyant sur la décision Yates (précité), et soutient que la seule exception à l'article 160 est celle qui se trouve au paragraphe 160(4) de la Loi et qu'elle n'a pas d'application en l'espèce. Suivant l'arrêt Wannan c. Canada, 2003 CAF 423, avoir ou non l'intention d'aider le cédant à se soustraire à ses obligations fiscales importe peu. Dès lors qu'il est satisfait aux quatre critères de l'article 160 de la Loi, la cotisation est valide. Selon la décision Yates, les paiements faits par le cessionnaire pour s'acquitter d'obligations familiales sont assujettis à l'article 160 de la Loi car il n'y a aucune exception pour de telles obligations. En ce qui concerne la question de savoir si le caractère insaisissable de l'argent en cause peut écarter l'application de l'article 160, l'avocat de l'intimée soutient que le transfert de l'argent à l'appelante met fin à son caractère insaisissable et rend ainsi l'appelante responsable de la dette fiscale. De plus, l'appel sert à déterminer la validité de la cotisation et non la saisissabilité des sommes en cause, ce qui rend prématuré l'argument de l'insaisissabilité. Selon l'avocat de l'intimée, lorsque des sommes sont insaisissables en vertu du droit provincial, cette insaisissabilité ne saurait être invoquée en droit fédéral, et ce, selon l'arrêt Marcoux c. Canada (Procureur général), 2001 CAF 92. Finalement, prétend l'avocat, l'exception d'insaisissabilité disparaît au moment du transfert (voir Cox c. Canada, [1995] A.C.I. 0242 (QL), 96 DTC 1690).
+[14] Sur la première question, soit celle de savoir si, en l'espèce, il y a eu contrepartie lors du transfert des fonds qu'a fait le conjoint de l'appelante à cette dernière, signalons que la Cour d'appel fédérale, dans l'arrêt Yates (précité), a clairement établi que la seule exception prévue dans la Loi se trouve au paragraphe 160(4). La juge Desjardins, au paragraphe 17 de la décision, fournit l'explication suivante :
+The line of cases illustrated by Michaud v. Canada. [1998] T.C.J. 908 (QL); Ferracuti v. Canada. [1998] T.C.J. No. 883 (QL); and Laframboise v. Canada, [2002] T.C.J. No. 628, which takes the position that payments made by one spouse to another in satisfaction of a legal obligation to support his or her family are beyond the reach of section 160, is not supported by the legislation.
+Quant au juge Nadon, il ajoute ceci aux paragraphes 35, 37, 38 et 39 :
+Subsection 160(1) is clear and unambiguous and the Act does not provide for any exception, other than the one found at subsection 160(4), i.e. that transfers made between spouses "separated and living apart" shall not render them liable under subsection 160(1) to "pay any amount with respect to any income from, or gain from the disposition of, the property so transferred or property substituted therefore [sic], ...". The provision also provides that for the purposes of paragraph 160(1)(e), the fair market value of property transferred after February 15, 1984, shall be deemed to be nil.
+[...]
+As my colleague Desjardins J.A. says at paragraph 13 of her Reasons, "section 160 of the Act is unquestionably a draconian measure. But the issue is whether a court of law is permitted to read in a taxation statute provisions that are inexistent in the legislation". The answer to that question is clearly a no.
+Whether Mrs. Yates spent the $61,784.95 transferred to her by her husband on holidays, personal items, groceries or other household expenditures is, in my respectful view, of no relevance to the determination of whether there was a transfer. Let us assume, for example, that Mr. Yates had given Mrs. Yates an automobile valued at $61,784.95. Let us also assume that on the day following the gift, Mrs. Yates sells the automobile for its full value and proceeds to defray household expenses with that money. Would we seriously entertain an argument that the gift of the automobile does not constitute a transfer because the monies resulting from its sale served to defray the family's living expenses? I suspect that we would have no difficulty in dismissing such an argument.
+Consequently, I see absolutely no basis for the appellant's argument that the nature of the expenses incurred with the money transferred to her by her husband is a relevant factor in determining whether she is subject to subsection 160(1) of the Act.
+[15] Depuis cette décision, il semble généralement accepté qu'une fois qu'il est satisfait aux quatre critères de l'article 160, on ne peut que conclure que la cotisation est valide. Les décisions récentes de notre Cour dans les affaires Provost c. La Reine, 2009 TCC 585, Woodland c. La Reine, 2009 TCC 434, Allen c. La Reine, 2009 CCI 426 et Campbell c. La Reine, 2009 TCC 431 reconnaissent ce principe, et ce, nonobstant l'arrêt Ducharme (précité), où le juge Rothstein (alors juge de la Cour d'appel fédérale) a conclu qu'il était raisonnable d'inférer, étant donné les faits de l'espèce, qu'il y avait une contrepartie puisque le paiement équivalait à un paiement de loyer. Le juge Rothstein ne s'est toutefois pas penché sur la question de la contrepartie sous forme d'obligations familiales de services domestiques.
+[16] La Cour d'appel dans Yates est on ne peut plus clair lorsqu'elle conclut que le but du transfert est sans importance dans la détermination s'il y a eu un transfert. En l'espèce, le transfert a été effectué dans le but de permettre à l'appelante d'investir l'argent en cause dans un restaurant dont les revenus auraient servi à subvenir aux besoins de la famille. C'est donc l'appelante, à ce moment-là, qui a assumé seule la gestion de cet argent. Il aurait fallu un mandat d'inaptitude ou un document semblable pour appuyer la thèse du non-transfert. Il est donc satisfait à tous les critères de l'article 160 et la cotisation est valide.
+[17] Maintenant, est-il possible qu'il puisse s'agir d'une somme d'argent insaisissable de sorte que l'article 160 de la Loi ne s'applique pas? À supposer que la somme transférée par le conjoint de l'appelante soit insaisissable, l'article 160 peut-elle avoir tout de même application et ainsi rendre l'appelante responsable de la dette fiscale de l'auteur du transfert? La question se pose en raison de l'objectif visé par l'article 160 de la Loi, que le juge Strayer décrit, dans l'arrêt Hewett (précité), comme consistant à empêcher les contribuables de se soustraire à leurs obligations fiscales en transférant leurs actifs à des proches.
+[18] La juge Desjardins, dans l'arrêt Yates, a fait un survol des décisions traitant de l'objectif de l'article 160 et traitant aussi de l'intention du législateur. Je reproduis les paragraphes 13, 14 et 15 de ses motifs :
+The Court in Medland at paragraph 14 has explained the policy behind this provision in the following manner:
+It is not disputed that the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned [sic] to him. ...
+Again, in Wannan v. Canada (2003 FCA 423) at paragraph 3, this Court recognized that "[s]ection 160 of the Income Tax Act is an important collection tool, because it thwarts attempts to move money or other property beyond the tax collector's reach by placing it in presumably friendly hands".
+In Livingston, this Court explained at paragraph 27 that "a transferee of property will be liable to the CRA to the extent that the fair market value of the consideration given for the property falls short of the fair market value of that property". The Court stated in the same paragraph that the "very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA".
+[19] À mon avis, une fois que la responsabilité fiscale du bénéficiaire du transfert est engagée par l'application de l'article 160, l'Agence du revenu du Canada (« l'ARC ») n'est pas limitée au recouvrement des biens transférés par l'auteur du transfert. Tous les actifs du bénéficiaire deviennent la cible de l'ARC et leur saisissabilité, le cas échéant, n'a rien à voir avec la responsabilité fiscale du bénéficiaire résultant de l'application de l'article 160 de la Loi.
+[20] Cela dit, je reviens à la question de savoir si le fait de transférer des biens insaisissables peut rendre inapplicable l'article 160 de la Loi au motif que l'intimée ne peut, à ce moment-là, prétendre que l'auteur du transfert s'est soustrait à son obligation fiscale en transférant un bien auquel l'ARC ne peut toucher de toute façon.
+[21] À supposer que la réponse à cette question soit affirmative, il faut déterminer ce qui constitue des sommes d'argent que l'ARC ne peut saisir. Dans l'affaire Bourgoin c. Bouchard, 2008 QCCQ 7141, au paragraphe 47, la Cour du Québec (Chambre civile) a affirmé relativement aux prestations d'invalidité que :
+Ce statut d'insaisissabilité de la prestation découle du fait qu'elle servira à défrayer les besoins essentiels de monsieur Bouchard à la suite de la maladie qui l'empêche de travailler et qu'elle doit à ce titre être assimilée à des aliments.
+[22] Le statut d'insaisissabilité n'est cependant pas toujours assuré. Jacques Deslauriers, dans son ouvrage intitulé Les Sûretés réelles au Québec, écrit :
+Pour opposer cette insaisissabilité, les montants concernés ne doivent pas avoir été confondus avec d'autres montants qui seraient saisissables, par exemple en les déposant dans le compte de banque général ou consolidé du débiteur. Normalement, sauf exceptions prévues par la loi ou la jurisprudence, ces sommes doivent demeurer identifiables (…) Observons que dans certains cas, comme dans le cas des prestations de la CSST, de l'assurance-emploi et de la Régie des rentes, les tribunaux ont permis le maintien de cette insaisissabilité, malgré le versement de ces sommes dans le compte général du débiteur. Il s'agissait de comptes dont le contenu laissait entrevoir que l'intégralité des sommes qui y étaient déposées avait un caractère alimentaire.
+[23] Le juge Béliveau de la Cour supérieure du Québec, dans l'affaire D.(J.) c. J.(T.) (précitée), a confirmé que même si des sommes insaisissables sont confondues avec d'autres sommes, qui sont saisissables, elles ne perdent pas nécessairement leur caractère insaisissable. Au paragraphe 47 de sa décision, il dit que le caractère insaisissable des sommes versées par la CSST demeure, même quand elles se trouvent entre les mains de la personne qui reçoit l'argent.
+[24] L'insaisissabilité de ces sommes n'est pas à toute épreuve, par contre . La Cour d'appel du Québec, dans l'arrêt Canada c. Bruyère, 2009 QCCA 2246, a permis au ministère des Ressources humaines de se faire rembourser des prestations d'assurance-emploi payés en trop en s'autorisant du paragraphe 126(4) de la Loi sur l'assurance-emploi, selon lequel on peut exiger d'un créancier du débiteur qu'il verse directement au ministère des sommes payables par ce créancier à son débiteur. Ainsi, le ministère a saisi des sommes devant être versées par la CSST à l'intimé, monsieur Bruyère, et ce, malgré l'article 144 de la Loi sur les accidents de travail et les maladies professionnelles. Voici ce que dit le du paragraphe 7 de la décision :
+Lorsque dans l'exercice d'une compétence législative, le législateur fédéral souhaite assujettir une mesure d'exécution à une règle d'insaisissabilité établie par une loi provinciale, il lui est loisible de le faire. C'est ce qu'il a fait, par exemple, au paragraphe 225(5) de la Loi de l'impôt sur le revenu (la LIR), dont l'équivalent est le paragraphe 126(2) de la LAE. Mais la mesure d'exécution prévue ici par le paragraphe 126(4) de la LAE, comme d'ailleurs celle prévu par l'article 224 de la LIR, n'est soumise à aucune telle restriction. Il faut en déduire qu'il y a un conflit d'intention entre le paragraphe 126(4) de la LAE et l'article 144 de la LATMP, cette dernière disposition ayant pour effet de neutraliser une possibilité de recouvrement rapide que la LAE autorise la Commission de l'assurance-emploi à utiliser. Dans cette mesure, l'article 144 de la LATMP contrecarre l'intention du Parlement et il est inapplicable lorsque la Commission de l'assurance-emploi transmet à la CSST l'avis prévu par le paragraphe 126(4) de la LAE.
+[25] Ce principe a aussi été retenu par la Cour d'appel fédérale dans l'affaire Marcoux c. Canada, 2001 CAF 92.
+[26] Certains auteurs ont exprimé leur opinion sur les pouvoirs de l'ARC au regard de l'insaisissabilité. Dans un article intitulé « La protection des revenus de retraite : où en sommes nous? » (Cours de perfectionnement du notariat), Lucie Quesnel a écrit que les clauses d'insaisissabilité figurant dans des lois provinciales ne lient pas le gouvernement fédéral lorsqu'il s'agit du recouvrement de dettes fiscales. Elle a écrit aux paragraphes 21, 22 et 23 ce qui suit :
+Le législateur fédéral s'est doté d'un outil important pour s'assurer de la perception des créances fiscales. Il s'agit du paragraphe 224(1.2) de la Loi de l'impôt sur le revenu.
+[...]
+On voit donc que lorsqu'il est question d'une dette fiscale, l'intention du législateur est de faire passer cette dette en priorité sur les autres dettes. À cet effet, Me Louis Rabeau mentionnait :
+Revenu Canada prétend que l'insaisissabilité au sens large ne lui est pas opposable. La rédaction de l'article 224 de la Loi de l'impôt sur le revenu, qui ne prévoit pas que les règles touchant l'insaisissabilité sont opposables à la Couronne fédérale, ferait en sorte qu'on ne peut opposer l'insaisissabilité à Revenu Canada. Précisons que ce principe s'applique à tout produit insaisissable, que se (sic) soit un REER, un fonds de pension, une indemnité de la Société de l'assurance automobile du Québec, un versement de la Régie des rentes du Québec, etc.
+Me Roger P. Simard, pour sa part, énonce :
+Il faut noter qu'en dehors d'un contexte régi par la Loi sur la faillite et l'insolvabilité L.R.C. (1985), c. B-3 et mod. (ci-après « L.F.I. »), la Couronne fédérale n'est pas liée par les causes provinciales d'insaisissabilité. Elle peut donc, au moyen d'une saisie-arrêt administrative, intercepter les versements mensuels de rente et autres sommes pouvant devenir payables en vertu du contrat, même si une telle saisie administrative ne semble pas lui permettre d'exercer le droit de retrait que le contrat peut octroyer au contribuable.
+[27] À la lumière de l'arrêt Bruyère et de ces extraits de doctrine, il serait possible de conclure que les sommes versées par la CSST sont saisissables par le ministre du Revenu national, de sorte que l'application de l'article 160 de la Loi ne serait pas en péril dans l'éventualité du transfert d'un bien insaisissable.
+[28] Il faut d'ailleurs se rappeler que la Cour d'appel fédérale, dans l'arrêt Yates, a clairement conclu qu'il n'y avait rien au paragraphe 160(1) de la Loi qui puisse permettre à un tribunal de libérer un conjoint de la responsabilité fiscale imposée par l'article 160 si toutes les conditions requises sont réunies car il n'y a aucune ambiguïté au paragraphe 160(1) de la Loi. L'insaisissabilité des biens transférés n'a aucune incidence sur l'application du paragraphe 160(1).
+[29] La responsabilité de l'appelante à l'égard de la dette fiscale de son conjoint étant maintenant établie, la question de savoir si les sommes qu'on lui a versées sont insaisissables ne relève pas de la compétence de cette Cour.
+[30] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de février 2010.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2009 CCI 85
+Nº DU DOSSIER DE LA COUR : 2008-489(IT)G
+INTITULÉ DE LA CAUSE : Lynda Bernier c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Rimouski (Québec)
+DATE DE L’AUDIENCE : le 4 novembre 2009
+MOTIFS DU JUGEMENT PAR : l'honorable juge François Angers
+DATE DU JUGEMENT : le 12 février 2010
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Denis Tremblay
+Avocat de l'intimée :
+Me Luc Vaillancourt
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Denis Tremblay
+Cabinet : Tremblay & Tremblay
+Avocats et procureurs
+Matane (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

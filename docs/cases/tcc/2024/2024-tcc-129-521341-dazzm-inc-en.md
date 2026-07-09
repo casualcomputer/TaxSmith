@@ -1,0 +1,356 @@
+---
+title: "DAZZM Inc."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521341/index.do"
+last_modified: "2024-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 129"
+citation2: ""
+neutral_citation: "2024 TCC 129"
+decision_date: "2024-10-08"
+language: "en"
+item_id: "521341"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6047
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:39:22.554000+00:00"
+cases_cited_count: 11
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0678cdf3cd09ee68b658a0af867284d33335af82708ad5a90d62760fde953031"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DAZZM Inc.
+
+- Citation: 2024 TCC 129
+- Decision date: 2024-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6047, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DAZZM Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-10-08
+Neutral citation
+2024 TCC 129
+File numbers
+2021-3161(IT)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021‑3161(IT)G
+BETWEEN:
+DAZZM INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 27 and 28, 2024, at Montréal, Quebec.
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellant:
+Extra Junior Laguerre
+Counsel for the Respondent:
+Anne-Élizabeth Morin
+Julien Dubé-Senécal
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, with costs, and the reassessment dated January 22, 2020, in respect of the Appellant’s taxation year ending June 30, 2018, is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant incurred additional scientific research and experimental development qualified expenditures totalling $270,167, and is entitled to the corresponding investment tax credit.
+Signed at Montréal, Quebec, this 8th day of October 2024.
+“J.M. Gagnon”
+Gagnon J.
+Translation certified true
+on this 25th day of February 2025.
+Melissa Paquette, Senior Jurilinguist
+Citation: 2024 TCC 129
+Date: 20241008
+Docket: 2021-3161(IT)G
+BETWEEN:
+DAZZM INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Background
+[1] The Appellant filed a Notice of Appeal on December 14, 2021, in respect of its taxation year ending June 30, 2018. The Appellant is appealing from a reassessment, notice of which is dated January 22, 2020, made under the Income Tax Act.[1] By this reassessment, the Minister of National Revenue (Minister) denied the Appellant a deduction claimed for scientific research and experimental development (SRED) and the corresponding investment tax credit (ITC).
+[2] The Appellant develops and sells cloud-based management software packages in software‑as‑a‑service (SaaS) mode to its public- and private‑sector clients.
+[3] When it filed its 2018 income tax return, the Appellant claimed SRED expenditures as expenditures and as an ITC in relation to two projects (Project 1 and Project 2). The Canada Revenue Agency (CRA) accepted the SRED expenditures related to Project 2 as filed and without a review to determine whether the work undertaken in connection with this project constituted SRED as defined in subsection 248(1) of the ITA. However, the CRA disallowed the SRED expenditures related to Project 1: fully flexible, cloud-based solution built on metadata.
+[4] For Project 1, the Appellant initially claimed a total of $715,044 in SRED expenditures in its tax return filed in respect of the 2018 taxation year. Following an initial analysis by the CRA, the Appellant filed amended documentation in support of Project 1, and the total SRED expenditures were reduced to $278,927 for the purpose of calculating qualified expenditures and the corresponding ITC. From then on, Project 1 consisted of four subprojects. Only subproject 1 is at issue. The reassessment under appeal allowed $8,760 in SRED expenditures for the purposes of Project 1, thereby disallowing an amount of $270,167.
+[5] At the outset of the hearing, the Respondent conceded to the Appellant the allowance of additional SRED qualified expenditures for subprojects 2, 3 and 4 of Project 1 in the amount of $61,314. Accordingly, regardless of the Court’s decision, the appeal will be allowed, if only to recognize the Respondent’s concession for the purposes of paragraph 37(1)(a) and section 127 of the ITA.
+[6] Given the Respondent’s concession, the disagreement between the parties regarding whether the Appellant’s expenditures qualify as SRED expenditures ultimately concerns only the payroll expenditures incurred by the Appellant during its 2018 taxation year in the amount of $208,853 in connection with subproject 1 of Project 1, named React Performance (Expenditures).
+[7] Two witnesses were called by the Appellant. Only the research and technology advisor on the audit of the Appellant’s SRED claim was called to testify by the Respondent.
+II. Issue
+[8] The issue is whether the activities carried out as part of subproject 1 of Project 1 (Project in Question) qualify as SRED within the meaning of the definition set out in subsection 248(1) of the ITA.
+[9] If the Court finds that the Expenditures qualify as expenditures incurred for SRED as defined under subsection 248(1) of the ITA, the appeal must be allowed. With the exception of the point raised in paragraph 5, neither party raised any issue in respect of the Expenditures amount. If the appeal is allowed, the Expenditures will be deductible under paragraph 37(1)(a) of the ITA and will qualify for the purpose of calculating the ITC under subsection 127(5) of the ITA. However, if the Court finds that the Expenditures do not qualify as expenditures incurred for SRED as defined in subsection 248(1), the appeal will be allowed only in order to grant the Respondent’s concession described above.
+[10] Based on an approach established in Northwest Hydraulic,[2] five criteria must be met for a project to qualify as SRED within the meaning of subsection 248(1) of the ITA:
+i.Was there a technological risk or uncertainty that could not be removed by routine engineering or standard procedures?
+ii.Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+iii.Did the procedure adopted accord with the total discipline of the scientific method, including the formulation, testing and modification of hypotheses?
+iv.Did the process result in a technological advancement?
+v.Was a detailed record of the hypotheses tested and results kept as the work progressed?
+III. Positions of the parties
+[11] The Appellant is of the opinion that the Expenditures were incurred as part of SRED, as defined in subsection 248(1) of the ITA. The Appellant is also of the view that, considering the position of the Respondent articulated in the Reply to the Notice of Appeal, only the first two components listed at paragraph 10 (technological uncertainty and formulation of hypotheses) are at issue.
+[12] In support of its position, the Appellant adds the following:
+i. The auditor never asked for the documents he considered relevant to ensure that the work qualified.
+ii. The combination of the four tools / software applications (Features) used in the Project in Question represents a technological—systemic, even—uncertainty. The problem lies not with the use of only one or two components of the Features, but with the use of all four Features together. The outcome is neither adequate nor that expected by the Appellant’s clients.
+iii. An experienced team working for the Appellant and consulting a wide variety of resources throughout the research process was unable to resolve the issue, which constitutes a technological uncertainty.
+iv. To help with the problem, the Facebook group, which publishes React (one of the four Features), subsequently replaced the HOCs—which turned out to be a serious issue for the Project in Question—with Hooks. This change is consistent with the tools/applications available at the time not being capable of responding to all scenarios, particularly for the Project in Question.
+v. The Appellant attempted a variety of hypotheses, each one systematically tested to understand the outcome.
+vi. Each project during the year should be considered as a whole, not each individual test. Overall, the Project in Question helped the Appellant contribute to the advancement of a technological uncertainty.
+[13] According to the Respondent, the onus is on the Appellant to establish its claims, in particular in order to rebut the assumptions in the Minister’s reply submissions. He adds the following:
+i.The Appellant does not demonstrate that the technological uncertainties that were overcome cannot be eliminated through routine engineering. The evidence showing the time spent on the work is reconstructed and is not contemporaneous. However, the Respondent accepts that this aspect is not fatal to a project’s qualification as SRED.
+ii.The solutions used are not related to a technological uncertainty; they are merely debugging.
+iii.The Project in Question essentially represents an optimization process carried out using existing methods and knowledge. The Appellant does not demonstrate its research and processes.
+iv.Redux, React, Styled Component and Recompose (the four Features) are used by millions of people. The Appellant told us that Redux, Styled Component and Recompose are each designed to work with React. The solutions they provide are solutions to bugs.
+IV. Witness testimony
+1. Pierre Lamoureux
+[14] Pierre Lamoureux testified for the Appellant. He is the Appellant’s founder. Mr. Lamoureux’s testimony made a favourable impression on the Court. He was the Appellant’s main witness. He appeared before the Court prepared and presented details to help it understand the issues associated with the Project in Question. He presented a reassuring and reasonable position on what the Project in Question represented for the Appellant.
+[15] Mr. Lamoureux is a graduate of the Polytechnique Montréal engineering school. He obtained a bachelor’s degree in computer engineering. He has over 30 years of experience in development and software. Mr. Lamoureux was involved in all of the Appellant’s research and development projects. He explained that this kind of involvement by an officer of his rank is particularly justified for a small or medium-sized company that can ill afford to engage a considerable portion of its workforce without constant and committed oversight by its managers.
+[16] He confirmed that the Appellant was founded in 2010. The company develops and markets an IT service management solution. The Appellant had about 20 employees in 2018. The Appellant has over 200 clients. Research and development activities have always been a key focus of the Appellant.
+[17] The Project in Question concerns the development of a new version of a software application offered to the Appellant’s clients, intended for corporate IT departments and designed to help companies better adapt to their own changing needs in managing operations. The project is particular in that it incorporates scalable tools to support platforms. The platforms make it possible to host the program remotely and therefore allow for multiple accesses.
+[18] The witness explained that the software is, in fact, the background system that (i) tracks requests and (ii) manages the client data inventory and contracts, information, etc. The previous version of the software, called Octopus, was the main product offered by the Appellant to its clients. The Octopus system software was a generic, non-customized software application. However, the software’s architecture allowed for the addition of plug-ins to meet clients’ specific needs. The software contained fields (e.g. first or last name) that were interchangeable by users.
+[19] The version available was version 4, and the Appellant was developing version 5. Version 5 was available for the Web, in addition to being available for Windows like version 4. However, while developing version 5, the Appellant encountered major performance issues. These issues are the main reason for the Expenditures incurred in the development of version 5.
+[20] Mr. Lamoureux explained that the problem encountered by the Appellant in developing this new version of the software centred on the use of four tools (the Features) in conjunction with one another. These tools are described as follows:
+i.React: React is a library used to build the user interface. It is an open‑source library available to everyone and developed by the Facebook group. React helps generate the HTML. However, other libraries are also needed to build a web application.
+ii.Redux: Redux is a tool generally used so that users can update one piece of information on the screen without having to update the entire screen, which slows down the backup performance.
+iii.Styled Component: Styled Component is a library dedicated to font styles on the user’s screen. This library is associated with formatting.
+iv.HOC: HOC (higher-order component/calculator) is a methodology related to programming that chains together components, each having a specific function. The resulting programming is reduced and less cumbersome to set up.
+[21] He confirmed that open-source code is commonly used in software development. Many companies create libraries that they allow the community (computer scientists, programmers, users, etc.) to use. He added that, in exchange, the community will often share comments, follow-ups, reviews (feedback), etc., about problems or difficulties encountered using the source code, and present solutions, if any.
+[22] Mr. Lamoureux explained that when the source code is available, users can modify the library’s source code to improve its application. The result is an advanced library.
+[23] He added that, when building a web application like version 5, for example, up to 20 to 25 different libraries can be used, since no single library can do everything.
+[24] In the development of version 5, it was agreed that the programming team would use the four Features together. However, the tests on the results obtained were inconclusive. Joint use of the Features caused significant performance issues in the version being tested. The operating speed was much too slow. Joint use did not appear impossible but the combination did not allow for adequate efficiency, which threatened the project.
+[25] The witness pointed out that initial attempts to solve the problem through small performance optimizations led to negligible gains (less than 10%). Analysis subsequently led to the realization that the performance issue posed an even greater problem requiring the testing of additional hypotheses.
+[26] Mr. Lamoureux testified that the Appellant checked whether the problem could be linked to the thousand components used simultaneously to feed the program. He confirmed that the Appellant did some research, looked at everything that was available, and they read about all of the existing problems associated with the various libraries used. None of the sources consulted shed good light on the issues encountered.
+[27] The Appellant often visited a website called GitHub. Mr. Lamoureux explained that this site contains a code library, but also allows people in the coding and programming community to consult one another to see if others are encountering the same issues or to find leads to potential solutions to a given problem. There were also other articles and groups, for example on Google and Reddit.
+[28] The Appellant contacted React, which was unable to resolve the issue encountered. The exchanges on GitHub also did not mention the issue. The React team suggested that the Appellant submit a project with the same issue. The Facebook group was genuinely interested in the Appellant’s situation.
+[29] React had a diagnostic tool to help pinpoint problems. However, this tool did not work when used for the Appellant’s program because the program had too many nodes. The witness added that it was common knowledge that too many nodes would prevent the diagnostic tool from working. After realizing this, the Appellant developed its own diagnostic tool to avoid working through trial and error and to solve the problem more efficiently. The Appellant developed three diagnostic tools.
+[30] The Appellant was also resigned to having to learn the internals of the libraries (he referred to Redux, Styled Component, and Recompose) to modify the internal source code of these libraries in order to be able to inject names that would help resolve the performance issue. The witness confirmed that this approach allowed the programming team then tasked with solving the performance issue to replace source components of these programs in order to test whether these attempts would help resolve or mitigate the problem.
+[31] In analyzing the Features’ code, the Appellant realized that library optimizations were possible. Performance increased from 1,300 milliseconds to 775 milliseconds. But that was not enough.
+[32] The witness added that the analyses led to the conclusion that there was no problem with React per se with 50,000 HOCs. The problem was actually the combination of React with Redux, with Styled Component, and with Recompose. The HOCs created by other players were also causing performance issues. However, it was never certain that the number of HOCs was the only thing causing the problem. The uncertainty could have been related to a single, weaker link that automatically makes the rest of the equation less efficient.
+[33] The next possible solution considered by the Appellant was to reduce the number of nodes associated with the programming. The witness testified that the Appellant would rewrite the code to reduce the number of HOCs in the program. While the Appellant could reduce the number of HOCs, it could not eliminate them completely. A number of them proved unavoidable. This action helped improve performance from 775 milliseconds to 692. Although the performance was improving, it was still far from acceptable. Mr. Lamoureux stated that acceptable performance is less than 300 milliseconds and that the Appellant sought to achieve even greater performance.
+[34] Mr. Lamoureux confirmed that the Appellant used its best resources for this project because it was complex. He also explained that its team was well organized to be efficient and avoid the duplication of work. This approach is consistent with the management of medium-sized businesses, which Mr. Lamoureux raised at the beginning of his testimony.
+[35] The testimony also provided insight into how the Appellant came to understand the fundamentals of the Redux library. For example, Redux recommended that programming users connect higher up on the graph. However, the witness stated that the research helped the Appellant to understand that there could be benefits to connecting further down and, in doing so, the Appellant achieved positive results in carrying out this non-standard strategy. He noted that, until then, there had been no clear indication of this in the community.
+[36] In responding to comments in the audit report, Mr. Lamoureux agreed with the facts stated to the effect that Redux, as a program, was used to reduce rerendering. However, even for the Project in Question, Redux was insufficient and there were issues that were not known in the public domain. The same observation had been made with respect to React Dev Tools. This tool was known to be used to improve performance. It was also known that React Dev Tools stops working on sites with numerous components. The witness confirmed that these tools were not sufficient and there was no solution in the public domain.
+[37] Mr. Lamoureux also reiterated the Appellant’s research process. Step 1 was to assimilate the selected libraries’ documentation. In step 2, programmers perused the relevant articles and blogs available to find those that went to the trouble of providing an explanation to a problem that led to a solution to an issue encountered. He furthermore pointed out that the first attempts to solve a problem are always to follow the recommendations in the public domain, although in this case these leads proved inconclusive and just petered out.
+[38] The witness recalled that the research helped confirm that the general community was of the opinion that React should provide a more efficient approach than HOCs. These positions certainly garnered attention since the Facebook group subsequently made a significant improvement to their React library by incorporating the use of Hooks.
+[39] The witness specified that at the end of the Project in Question, all available public libraries were removing the HOC code. The Appellant would have liked to replace the HOCs, but their footprint in the program architecture was too large. When the Hooks appeared, the Appellant had not achieved the desired performance and decided to discontinue the development of version 5. Version 5 never made it to market. The witness added that the Appellant expended a great deal of energy and resources to achieve adequate performance, but business reason decided otherwise.
+[40] Mr. Lamoureux’s detailed testimony helped establish links between the iterations described in the documents prepared for the CRA and the work, the questions encountered, the hypotheses adopted and the results achieved in order to resolve the performance uncertainty.
+[41] On cross-examination, Mr. Lamoureux agreed that the only technological uncertainty of the Project in Question related to the performance of the application for users.
+[42] He also clarified that the two main libraries were React and Redux. React was a more established library used more frequently with Recompose to reduce coding and Styled Component to apply styles. Redux was more of a choice that the Appellant made.
+[43] When the Court asked him whether the CRA had denied that there was a performance problem, Mr. Lamoureux confirmed that, upon rereading the documentation, he could not see anything to indicate that the CRA was questioning the problem presented or the hypotheses put in place, the tests conducted, or the measurements obtained. The CRA’s response was rather that there was a performance problem and the answer was in the public domain, hence the absence of technological uncertainty. The witness reported that this position seemed inexplicable to him.
+[44] On cross-examination, the witness was asked if the Appellant was the only one to use all four Features. The witness answered that he could not answer for other users. He does not know.
+[45] The cross-examination focused mainly on the Appellant’s internal documentation and whether it had been submitted to the CRA. The answer in this regard was not very clear. However, the witness referred to documents brought to the meeting with the CRA and reiterated that all of the Appellant’s work was documented and that it was [translation] “super important”. The witness indicated that the documents submitted describing the work performed are only summaries. The documents are mostly kept in house by the Appellant. He explained that he could confirm that a lot of sources were consulted.
+[46] The witness was then asked about the three diagnostic tools developed by the Appellant. The main issue was whether the creation of these tools constituted a technological uncertainty. He was asked how common it was to use and/or develop such tools. The witness was clear regarding usage: it is common among programmers. As for the development of these tools, the witness is of the opinion that it is much rarer and that programmers tend to favour existing tools. He added that it is very rare to do it yourself because it is an uncommon and difficult specialty. Developing these tools yourself is done only when no other option is available. Development is more difficult. The Court understands that developing the tools was necessary in this case because there was no other way to slow the progression of the technological uncertainty associated with the lack of performance obtained when using the Features with the program and existing HOCs.
+[47] The cross-examination did not really attack Mr. Lamoureux’s testimony in chief. Besides what has already been noted above, the cross‑examination did not raise any issues with respect to the hypotheses validated by the Appellant or the existence and basis for or legitimacy of the lack of performance of version 5 of the program being developed.
+2. Chakib Hamdi
+[48] Chakib Hamdi was the second witness called by the Appellant. Mr. Hamdi is an external advisor who provides services to assist taxpayers with SRED credit claims. He also tenders his services as a subcontractor to companies such as Emergex, involved in SRED credit claims.
+[49] Mr. Hamdi obtained a degree in computer engineering in 1998. He spent nine years in the IT industry as an IT manager. He then worked as a consultant for SRED qualification for eight years. Since 2016, he has his own shop focused on SRED.
+[50] As regards the project at issue, Mr. Hamdi provided services to the Appellant as a subcontractor for Emergex.
+[51] Mr. Hamdi stated that the Appellant sought help because it had been audited.
+[52] Mr. Hamdi explained that when he is consulted, he checks to see if the client has all the tools. Then, he checks whether the client correctly evaluated the tools and whether the team in place has the required skills. Mr. Hamdi also reviews the technological environment to see whether a company’s capabilities are consistent with the technological environment based on his own research and an examination of the public domain that exists externally. If the capabilities are compliant and there is still an issue that cannot be resolved with the capabilities available in the technological environment, the project appears to be a good candidate for technological uncertainty.
+[53] In this case, the witness confirmed the existence of uncertainties and the activities undertaken by the Appellant to establish systematic development based on hypothesis, test and result. There must also be documentation supporting the activities. He also validated with the Appellant whether there was any advancement in the application itself and whether there was a resulting step forward in knowledge. Through these verifications, he assisted the Appellant in its claims to the CRA, and more particularly, the Project in Question submitted.
+[54] Mr. Hamdi was not very clear or explicit on the disagreements with the CRA regarding the qualification of the Project in Question and the Expenditures. He raised two comments that the CRA’s research and technology advisor on the case had made in denying the technological uncertainty. Mr. Hamdi expressed his disagreement with this position, which, according to him, demonstrated far too limited a vision of the Project in Question as a whole and of the scope of the issue encountered.
+[55] The witness was not cross-examined. The Respondent essentially limited himself to establishing that the Appellant paid for Mr. Hamdi’s services.
+3. Didier Guillevic
+[56] Didier Guillevic was the only witness called by the Respondent. He was the research and technology advisor involved in the audit of the Appellant’s SRED claim for the year under appeal and more specifically the claim concerning the Project in Question.
+[57] Mr. Guillevic studied electrical engineering at the École supérieure d’ingénieurs en électrotechnique in Paris, France, and pursued studies in electrical and telecommunications engineering at the Karlsruhe Institute of Technology, in Germany. He then pursued master’s studies in statistical learning algorithms at the Department of Electronic Systems Engineering in Colchester, England (University of Essex). He obtained a Ph.D. in statistical learning algorithms at Concordia University in Montréal, Canada.
+[58] On the job market, Mr. Guillevic joined Xerox’s research centre in New York and was a member of the research staff at Nippon Electronic Corporative’s central laboratories in Kawasaki, Japan. He then returned to Montréal to serve as an expert in machine learning for speech recognition at Locus Dialogue and went on to work at Idilia in machine learning in connection with natural language processing.
+[59] In 2017, Mr. Guillevic joined the CRA as a research and technology advisor on SRED claim audits. In 2021, he moved to another position to develop software solutions for the CRA.
+[60] Mr. Guillevic began by explaining how he works as a research and technology advisor. The audit request is assigned to a financial auditor in charge of the file. He then acts as technical advisor to the financial auditor to assist the latter in determining the eligibility of work claimed by taxpayers as qualifying SRED.
+[61] Mr. Guillevic served approximately three years as a technical advisor on IT‑related matters at the CRA, without any specific specialization. He has been involved in projects relating to websites, but also to telemedicine systems.
+[62] He testified that with any file, he starts by looking at what the claimant submitted. Typically, this represents two to three pages per project. This is the T661 form submitted by the claimant. He checks whether there is any potential for SRED qualification.
+[63] He then specified that he completes his work by consulting the claimant’s documentation, including at meetings with the taxpayer. He may sometimes finish up with web searches to try to find a little more information. He drafts his report using all of this information.
+[64] In this regard, he stated the following:
+[translation]
+There is a methodology. So, first, we’re assigned a request. So, we’re partnered with a financial resource. And then we look at what the claimant has submitted. So, generally, it’s two–three pages per project. And then, depending on that, well, we look at whether, on the face of it, there is any potential for SRED or not.
+And then we ask for more information about the project. We might decide not to examine all of the projects. And then we ask for information on some of the projects that we do decide to examine. This is done in collaboration with the manager. So deciding which projects will be reviewed is a joint exercise. And then there’s the documentation, which normally arrives before the meeting. We study it, we have a meeting, we ask the claimant questions, and then we draft a report.
+[65] And on the writing of the report, he added the following:
+[TRANSLATION]
+So, the report is based on—first of all, the T661 form, so the two–three pages that you get when the claim is submitted. Next, the claimant’s documentation. Then, the transcript of everything that was said during the meeting. Also, we might do some research on the Web to see a little more, well, get a little more information. And, with all this information, we draft a report.
+[66] Regarding the qualification of work, he added the following:
+[TRANSLATION]
+Determination? Well, we try to—you have to follow the—the policy criteria, which is an interpretation of the Act. And that tells us that, well, there are five steps to determine whether or not there is a technological uncertainty or blockage. Then, was a series of hypotheses made? And—so, we call this a scientific approach. Did it lead to a technological advancement, new knowledge that the community didn’t have? And then, normally, we also have to check whether there is documentation for, well, for—we—to support this claim.
+[67] In response to counsel for the Respondent’s question regarding what is initially asked of the Appellant in terms of submissions, Mr. Guillevic confirmed that he asks for additional information at the outset. He specifically refers to item 4 of the prescribed T661 form:
+[translation]
+. . . Item 4 is really important, because for an SRED project to start, you really have to have shown that you tried to solve the problem with the expertise you have, with the toolbox that you have, and that you even did a little bit of research on the Web to see if there were other people who had encountered the same problem and who could have solved it or provided leads to solutions. So, you have to show, somewhat, that the issue was investigated. That you really tried to solve it, somewhat, using your knowledge, your tools, and public knowledge.
+[68] He confirmed that for the Appellant’s second, revised SRED claim, the submissions received were much more focused. All of the SRED claims were submitted as part of four subprojects, seemingly for the same work as in the initial claim. Each subproject was documented, unlike the first submission filed; the subprojects included three that he was able to match with the initial submission, and a fourth which was new.
+[69] With regard to the second submission filed, he was asked the following, with respect to the Project in Question:
+[translation]
+MS. MORIN: And so, in terms of submissions, what is being presented here, we understand that the determination, you concluded that it was not SRED. For activity 1, why did you conclude that it wasn’t SRED? Or that there was no technological uncertainty, for that matter?
+MR. GUILLEVIC: Actually, in fact, it’s performance optimization. Maybe I could start to explain how—when you’re developing a software product, it’s always a two-step process. The first step is to—you create a solution that works as quickly as possible. The second step is optimizing the performance. So, that’s the production chain for a software application. It’s always like that.
+[70] According to the witness, the Appellant created a solution that worked as quickly as possible. The project at issue concerns the optimization, step 2, explained above.
+[71] Again, the witness was asked the following:
+[translation]
+MS. MORIN: So, going back to the question, regarding the fact that there was no uncertainty, why—how did you come to the conclusion that there was no uncertainty with respect to the activities associated with subproject 1?
+MR. GUILLEVIC: Subproject 1 is performance optimization, so step 2. So, you have to look—so, first, you have to pinpoint where the performance bottlenecks are. So, which parts of the code you’re spending all your time on. And then, you have to, so, address the places where a lot of time is spent. And then you look at how this performance has been improved. Because that’s what you always do.
+So, we have a set of tools. We have techniques. Some techniques are specific to certain tools, but we have the knowledge, or, in the community, there is a lot of knowledge. So, we’re looking at how this—so, this—this portion of the code has been optimized. If it was optimized using things we know or new things, really. So, that’s what we looked at.
+And for activity 1, for example, well—so, let’s say we have a form, so a website, a form with multiple fields. So—
+[72] The Court asked the witness if it was possible that the particular resources available in the public domain were not directly relevant or useful to the performance issues encountered. For Mr. Guillevic, based on the project and the tools used, so on the libraries used, it is really—it is a matter of connecting or not connecting. He added that what the Court described is not what we have here.
+[73] During the optimization, the Appellant decided to connect each element of the interface directly to the Redux store. The results were that the performance improved, but that was known. According to him, it really looked like tests conducted by a beginner, someone who had no experience with React. This is a basic experiment and there is no uncertainty in this outcome.
+[74] Mr. Guillevic explained how HOCs work in the code. They are a function that produces a specific result. Since they are functions, their use comes at a price. Therefore, if someone is not very rigorous and calls these functions hundreds of thousands of times, there will of course be a cost. So, in step 2, optimizing the software product, fewer functions will have to be called. According to Mr. Guillevic, there is no technological uncertainty in using HOCs.
+[75] Mr. Guillevic testified that since there was no technological uncertainty associated with program optimization, the development of new diagnostic tools would not constitute a technological uncertainty.
+[76] The programs used and the HOCs are complementary, made to work together, and are used by tens of millions of people every day. These are open‑source coding tools. Anyone can go read the code, and so there is a lot of discussion about them.
+[77] He added that the activities associated with the project at issue are learning activities where there is nothing new for the community. A HOC is a function. Any first-year computer science student knows that there is a cost to calling a function. Therefore, if a person calls a function a million times, there will certainly be a cost, compared to calling it just once. Personally, I would say that it is trivial; it is obvious. There is no new knowledge, even for a first-year computer science student.
+[78] However, although he was affirmative in making these statements, Mr. Guillevic had no experience with these tools prior to the audit. On the other hand, he indicated that they were designed to be easy to use. Any experienced developer can take a package like this and be highly productive within a few hours or days. If the programs were complicated, no one would use them. Mr. Guillevic is of the opinion that it would only take a few hours or days for someone with experience with other software to become familiar with the programs used by the Appellant.
+[79] In cross-examination, Mr. Guillevic indicated that he has never programmed directly with React, Redux, Recompose, or Styled Component. He also stated that HOCs were replaced by Hooks because evolution is normal, not because there were problems with HOCs. No further explanation or detail was provided.
+[80] When cross-examined on this, he confirmed that a performance gain can be considered a technological advancement—this is the case when there is a significant performance gain, for example when a program is 100 times faster.
+[81] During the audit, he asked for a chronological description of the activities, such as by month, what was done, which employee was involved and for how many hours. The Appellant could not provide contemporaneous time sheets for the work performed.
+[82] Mr. Guillevic did not specifically ask for the documents that he considered determinative for the purposes of SRED qualification. Instead, Mr. Guillevic only made a general request for documents that the Appellant might consider relevant. Since he did not receive the specific documents that he considered determinative, for him, it was a sign that the Appellant was not doing SRED.
+[83] In his view, since the four Features are designed to work together, there is no technological uncertainty. Since thousands of people use these programs every day, there is no technological uncertainty. Since there are strategies to improve performance, there is no technological uncertainty. Since he did not receive the specific documents and information that he wanted but did not specifically ask for, there is no technological uncertainty. However, the Appellant encountered a blockage that Mr. Guillevic was unable to explain. He was not able to discuss or identify a solution or possible solution, nor was he able to confirm that a solution could be in the public domain. It was only his opinion that the problem could easily be resolved, without being able to explain how it could be done.
+[84] While Mr. Guillevic was adamant that, by all accounts, it was clear that the programs would work together without problem, he was unable to identify a specific source that could demonstrate this in this case.
+[85] Mr. Guillevic confirmed in cross-examination that he did not contact React to see if they had a solution to the problem encountered by the Appellant. His testimony suggests that the certainty expressed by Mr. Guillevic was such that little research was required.
+V. Analysis
+[86] Subsection 248(1) of the ITA defines SRED as follows:
+means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+[87] The five criteria that must be met for a project to qualify as SRED within the meaning of subsection 248(1) of the ITA were identified in paragraph 10 above. These criteria were set out in Northwest Hydraulic, summarized by the Federal Court of Appeal in CW Agencies and recently reiterated, also by the Federal Court of Appeal, in National R&D. The criteria read as follows:
+1. Was there a technological risk or uncertainty which could not be removed by routine engineering or standard procedures?
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty?
+3. Did the procedure adopted accord with the total discipline of the scientific method including the formulation testing and modification of hypotheses?
+4. Did the process result in a technological advancement?
+5. Was a detailed record of the hypotheses tested, and results kept as the work progressed?
+[Emphasis added.]
+[88] The onus is on the Appellant to demonstrate that the activities qualified as SRED.[3]
+[89] In this regard, the Court notes the Respondent’s position in the Amended Reply to the Notice of Appeal, namely that the activities undertaken by the Appellant as part of the Project in Question do not meet the definition of SRED set out in subsection 248(1) of the ITA for the following reasons:
+(a) There were no technological risks or uncertainties which could not be removed by routine engineering or standard procedures.
+(b) The Appellant did not formulate hypotheses specifically aimed at reducing or eliminating technological uncertainties.
+(c) The procedure adopted by the Appellant did not accord with the discipline of the scientific method, including the formulation, testing and modification of hypotheses with regard to technological uncertainties.
+(d) The overall approach taken by the Appellant was not aimed at achieving technological advancement.
+[90] The Respondent thus identifies four of the five criteria in support of his position.
+[91] The Court notes that the three software-related cases cited by the Respondent (Highweb,[4] Hypercube[5] and Zeuter[6]), as informal procedure cases, are not the most relevant in this case, nor the most precedential. The specific nature of the projects can be distinguished and this case warrants a different result. The project at issue focused on a technological uncertainty present in the combination of tools used. The Appellant’s software was more the medium used to explore this uncertainty. The Appellant and the evidence provided show that the Appellant has discharged its burden in meeting the test for SRED and that the Respondent was not able to rebut that finding.
+(1) First criterion: technological uncertainty
+[92] Justice Bowman, as he then was, explained the analysis of the first criterion in Northwest Hydraulic by stating the following:
+(a) Implicit in the term “technical risk or uncertainty” in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is “routine engineering”? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+[93] Several other decisions following Northwest Hydraulic have clarified what constitutes a technological uncertainty. In Formadrain, this Court explains that “the lacking knowledge must really not exist in the base of scientific or technological knowledge, not simply be unknown to the claimant.”[7] In other words, as reiterated in Béton Mobile[8] and repeated in Anne-Marie Chagnon,[9] “creating a new product using techniques, procedures and data that are generally accessible to competent professionals in the field is not SR&ED even if there is doubt concerning the way in which the objective will be achieved.”[10] In Laforest Marketing,[11] this Court explains that “[t]he mere fact that a product does not exist does not necessarily make it possible to claim that developing it involves technological uncertainty.”
+[94] To determine whether there is technological uncertainty, the Court must examine the project as a whole, not each task undertaken individually.
+[95] In this case, after analyzing the evidence and testimony adduced, no evidence ultimately suggests that there were solutions available in the public domain to resolve the issue that the Appellant faced. On the contrary, Mr. Lamoureux’s testimony was that they tried going to all the usual forums that people in the industry turn to to find answers to problems, including talking to the software developers themselves, publishing articles, and consulting websites as well as group discussions and blogs. None of these mediums provided the answer. Furthermore, the Respondent was unable to convince the Court that the Appellant had failed to find the resources otherwise available to address the performance issue.
+[96] The Court understands that the achievement of performance results may not, in and of itself, constitute a technological uncertainty. However, the goal of the project here was not to achieve what was achieved. It was not confirmed—nor is it, in any event, the subject of this debate—that the Appellant believed in a technological uncertainty because it applied the known practices in the public domain of the libraries it used. In fact, the Court understands from Mr. Lamoureux’s testimony that the first step is implementing the known recommendations available. The Appellant knew this. In this case, much more was expected in terms of performance, if only to offer a competitive product, and the evidence has established that the public domain was not able to meet the specific need sought.
+[97] The fact that the Respondent’s witness referred, in essentially general terms, to methodologies, ways of using tools, programming techniques or approaches does not constitute evidence that the solution to the Appellant’s identified problem existed, that it was known in the public domain, that it was basic, or that the tools would completely resolve the issue. Mr. Guillevic’s testimony did not convince the Court that the Appellant’s solution was easily identifiable or even in the public domain. The fact that the testimony was replete with generalities did not reassure the Court, either, and failed to provide a structured, clear and convincing objection to the Appellant’s position. The Court is of the opinion that, on the whole, the Appellant’s actions exceeded the scope of the public domain, and the Respondent has not persuaded the Court otherwise.
+[98] On a few occasions, counsel for the Respondent asked the technical advisor to explain why there was no technological uncertainty. The Court does not believe that the answers satisfied counsel. Certainly, the Court is not satisfied. Answers that were too vague, general in nature, lengthy or imprecise ensued. Furthermore, the Court was not satisfied with the research and review conducted or the research report that the technical advisor spoke of before the Court as part of his testimony. It seems that the advisor required little validation from the public domain to address the dynamic encountered by the Appellant. In fact, the advisor’s scant specific references to the issues concerning the libraries used in this case sit alongside some of the responses considered vague or imprecise above. His testimony should have been more reassuring, structured and developed.
+[99] The Appellant used methods and techniques known and generally used in the software industry to improve performance. Despite these known methods, some of which can be used in combination and which, it seems clear, both Mr. Lamoureux and Mr. Guillevic knew were valid techniques, there was a major uncertainty as to how to make the tools work in harmony to reach adequate performance levels and achieve a workable result. This indicated a shortcoming and that a piece of the puzzle was missing: a technological uncertainty as to how to achieve the performance levels that would allow the software to operate in a workable manner, and which, according to the accepted evidence, the techniques, procedures and data that are generally accessible to competent professionals in the field failed to resolve. It is this overall problem that constitutes the technological uncertainty in this case.
+[100] The Appellant even developed new tools to troubleshoot problems. Even though it was expected that similar tools would soon be marketed, Mr. Lamoureux’s testimony—which the Court accepts—indicates that existing tools were not capable of doing what the tools newly developed by the Appellant could do.
+[101] Despite his assertions that the tasks undertaken by the Appellant represented known processes that generally yielded performance gains, Mr. Guillevic did not explain the known principles that would have resolved the overall problem that the Appellant faced. These techniques form the basis of the field of programming but do not explain the uncertainty that the Appellant faced overall. At one point, everything seemed quite obvious and easy in the eyes of Mr. Guillevic, and certainly for the Court it resulted in precise explanations that were too often lacking and that it would have been important to address. Unfortunately for the Respondent, the Court has not been convinced by this approach for the purpose of deciding the appeal.
+[102] The Court accepts Mr. Lamoureux’s testimony in this regard. Furthermore, the cross-examination gave the Court no cause to reconsider the essence of his testimony.
+[103] The Facebook group ultimately changed some of the underlying technology by shifting from HOCs to Hooks. While the Court understands that an improvement process by itself may not constitute SRED, the fact remains that technological uncertainty may have existed in an earlier context.
+[104] Furthermore, the Court is of the view that the evidence showed that the work done to address the Appellant’s problems was more entrenched than mere anomalies. Nothing is less certain than that the Appellant simply encountered unforeseen malfunctions. Eliminating operational anomalies appears insufficient to qualify the work undertaken in this case. Correcting an anomaly is more likely to bear an unexpected connotation compared to encountering an issue that jeopardizes an integral part of the product and result sought. The Court understands that the expectations of the Features in this case went far beyond the simple need to debug a few occasional hiccups. In addition, the main reasons that may disqualify debugging tools as SRED are the absence of progress and the occasional nature of the incident in question. In this case, the Court is of the opinion that the situation is quite different.
+[105] Since the Court accepts Mr. Lamoureux’s testimony and Mr. Guillevic did not explain why the overall issue in the particular case of this appeal lacked technological uncertainty, the Court must be satisfied that there was technological uncertainty in this case. Consequently, the Appellant succeeded in demonstrating that the objective of the Project in Question was in response to a technological uncertainty, and the Respondent did not persuade the Court of any alternative.
+(2) Second criterion: formulation of hypotheses
+[106] In Northwest Hydraulic, Justice Bowman explains that there is a five‑stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.[12]
+[107] Justice Bowman also notes that:
+[i]t is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.[13]
+[108] The Court is of the view that the evidence has shown that the Appellant was guided by the hypotheses set out in its analysis. The challenge of improving performance guided all of the hypotheses for understanding how to bring the performance to adequate and acceptable levels. This questioning has always been central to the work carried out.
+[109] The evidence adduced by the Appellant, which satisfies the Court, was not contradicted by the Respondent.
+(3) Third criterion: method consistent with the scientific method
+[110] In Northwest Hydraulic, Justice Bowman states the following with respect to the third criterion:
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+[111] According to Mr. Lamoureux’s testimony, the Appellant’s methods were consistent with the scientific method. The Appellant’s team was able to assess how and why a particular change produced a particular performance gain. The method was also adequate to demonstrate that the known strategies used were not adequate to eliminate the uncertainty.[14]
+[112] The Court is satisfied that the methods adopted by the Appellant to resolve the problem were broadly consistent with the goal of removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+[113] Thus, the third criterion is met.
+(4) Fourth criterion: technological advancement
+[114] Justice Bowman adds the following comment with regard to the fourth criterion in paragraph 16 of Northwest Hydraulic:
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+[115] In Allegro Wireless, which allowed the appeal, the Court notes the following:
+[197] Working in that environment, the Appellant needed a product that worked better than products offered by its competitors. This required the Appellant to be constantly working to improve its product. It did this by constantly developing software to improve the operation of the various hand-held devices that its clients used on the Appellant’s platform.
+[198] As Mr. Rupel and Doctor Penn explained, when developing this software the Appellant faced numerous technological challenges that required the Appellant to experiment to find solutions.
+[116] While the Appellant failed to achieve the required performance gains, rejecting the assumptions was productive in understanding that the problem persisted. In its attempts to solve the problem, the Appellant effectively eliminated many possible solutions. The failure in this case added to the technological uncertainty, which is consistent with what was noted in Northwest Hydraulic.
+[117] The Court is satisfied that the evidence confirms the fourth criterion and that the Respondent has not rebutted this evidence.
+(5) Fifth criterion: detailed record
+[118] This criterion was not directly raised by the Respondent. Also, the Amended Reply to the Notice of Appeal does not raise this criterion as a ground relied on by the Respondent. However, the Court confirmed that although this ground was not raised on appeal, the evidence shows that the criterion was met.
+[119] Although Mr. Guillevic would have liked to see contemporaneous time sheets for the work performed, they are not necessarily required for work to be eligible as qualifying SRED.
+[120] Mr. Lamoureux testified that he could explain the total time spent on the work. He had statistics on the improvement in performance following the work performed. It is clear that Mr. Lamoureux had a detailed account of his activities and the results achieved—which is necessary to shed light on a technological uncertainty. Mr. Lamoureux’s testimony in this regard was not compromised in cross-examination.
+VI. Conclusion
+[121] Considering all the foregoing reasons, including the Respondent’s admission, the appeal is allowed with costs and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant incurred additional SRED qualified expenditures totalling $270,167, and is entitled to the corresponding ITC, all for the Appellant’s taxation year ending June 30, 2018.
+Signed at Montréal, Quebec, this 8th day of October 2024.
+“J.M. Gagnon”
+Gagnon J.
+Translation certified true
+on this 25th day of February 2025.
+Melissa Paquette, Senior Jurilinguist
+CITATION:
+2024 TCC 129
+COURT FILE NO.:
+2021-3161(IT)G
+STYLE OF CAUSE:
+DAZZM INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+March 27 and 28, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+October 8, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Extra Junior Laguerre
+Counsel for the Respondent:
+Anne-Élizabeth Morin
+Julien Dubé-Senécal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Extra Junior Laguerre
+Firm:
+Laguerre Fiscaliste Inc.
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] RSC 1985, c 1 (5th Supp) (ITA).
+[2] Northwest Hydraulic Consultants Ltd v R, 1998 CarswellNat 696, 98 DTC 1839 [Northwest Hydraulic]. The analytical framework thus established by Justice Bowman was adopted in R I S - Christie Ltd v Canada, 1998 CanLII 8876 (FCA); CW Agencies Inc v Canada, 2001 FCA 393 17 [CW Agencies]; Kam‑Press Metal Products Ltd v Canada, 2021 FCA 88; and, more recently, in National R&D Inc v Canada, 2022 FCA 72 [National R&D]—all decisions of the Federal Court of Appeal.
+[3] National R&D, paragraph 17. Also noteworthy, Justice Bowman states in Northwest Hydraulic at paragraph 10 that “[m]ost scientific research involves gradual, indeed infinitesimal, progress. Spectacular breakthroughs are rare and make up a very small part of the results of SRED in Canada”, before concluding, at paragraph 11, that “[t]he tax incentives given for doing SRED are intended to encourage scientific research in Canada” and that legislation dealing with such incentives must be given “such fair, large and liberal construction and interpretation as best ensures the attainment of its objects”, in accordance with section 12 of the Interpretation Act, RSC 1985, c I-21.
+[4] Highweb & Page Group Inc v The Queen, 2015 TCC 137 [Highweb].
+[5] Hypercube Inc v The Queen, 2015 TCC 65 [Hypercube].
+[6] Zeuter Development Corp v The Queen, 2006 TCC 597 [Zeuter].
+[7] Formadrain Inc v The Queen, 2017 TCC 42 at para 93 [Formadrain].
+[8] Béton Mobile du Québec Inc v The Queen, 2019 TCC 278 at para 43 [Béton Mobile].
+[9] Anne-Marie Chagnon Inc v The King, 2023 TCC 35 at para 46 [Anne-Marie Chagnon].
+[10] Béton Mobile at para 43.
+[11] Laforest Marketing Internationals Inc v The Queen, 2019 TCC 45 at para 45 [Laforest Marketing].
+[12] Northwest Hydraulic at para 16.
+[13] Northwest Hydraulic at para 16.
+[14] See also similarities to Allegro Wireless Canada Inc v The Queen, 2021 TCC 27 [Allegro Wireless].

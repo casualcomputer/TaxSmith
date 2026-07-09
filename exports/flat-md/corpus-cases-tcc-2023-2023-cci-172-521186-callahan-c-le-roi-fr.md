@@ -1,0 +1,163 @@
+---
+title: "Callahan c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521186/index.do"
+last_modified: "2023-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 172"
+citation2: ""
+neutral_citation: "2023 CCI 172"
+decision_date: "2023-12-20"
+language: "fr"
+item_id: "521186"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5644
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:13:11.736000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7d32aff4be0879374ec02b29d6badfd5ed479a98dcf33ba9aa5b49568f9d8f2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Callahan c. Le Roi
+
+- Citation: 2023 CCI 172
+- Decision date: 2023-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5644, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callahan c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-20
+Référence neutre
+2023 CCI 172
+Numéro de dossier
+2020-2420(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-2420(IT)I
+ENTRE :
+MICHAEL CALLAHAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 27 novembre 2023 à Ottawa, Canada
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Kimberly Pollard
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2019 est annulé, selon la présente. Aucune ordonnance n’est rendue quant aux dépens.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2023.
+« Guy Smith ».
+Le juge Smith
+Traduction certifiée conforme
+ce 29e jour de décembre 2023.
+[Crystal Simard, traductrice]
+Référence : 2023 CCI 172
+Date : 20231220
+Dossier : 2020-2420(IT)I
+ENTRE :
+MICHAEL CALLAHAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Aperçu
+[1] Michael Callahan (l’« appelant ») a versé des cotisations excédentaires à son compte d’épargne libre d’impôt (CELI) au cours de l’année d’imposition 2019 et, en conséquence directe de ce fait, s’est vu imposer des pénalités et des intérêts.
+[2] À la suite de l’avis de cotisation daté du 14 juillet 2020 (l’avis de cotisation), l’appelant a demandé une renonciation aux pénalités et aux intérêts, mais la ministre du Revenu national (la ministre) a refusé d’y renoncer. L’appelant interjette appel de cette décision devant la Cour, soutenant qu’elle était injuste.
+[3] L’intimé est d’avis que l’appel devrait être annulé parce que la Cour n’a pas compétence sur l’objet de l’appel ou, subsidiairement, parce que l’appelant n’a pas déposé d’avis d’opposition.
+[4] Par ailleurs, le défendeur est d’avis que l’appel devrait être rejeté parce que la décision de la ministre est raisonnable.
+[5] À la fin de l’audience, la Cour a informé l’appelant que l’appel serait rejeté et que de brefs motifs écrits seraient fournis.
+II. Le contexte et les thèses des parties
+[6] L’appelant a reçu un avis de l’Agence du revenu du Canada (ARC) indiquant que ses droits de cotisation au CELI au 1er janvier 2020 étaient de (5 000 $), mais il a compris que cela signifiait qu’il pourrait verser une autre somme de 5 000 $. Étant donné que les droits de contribution pour 2020 avaient été portés à 6 000 $, il a versé ce montant, augmentant ainsi par inadvertance ses contributions excédentaires à (11 000 $).
+[7] Dès réception de la cotisation, l’appelant a immédiatement retiré les cotisations excédentaires et en a informé l’ARC. Il a ensuite demandé une renonciation aux pénalités et aux intérêts, en faisant valoir que, n’ayant pas d’antécédents comptables, il avait mal compris l’utilisation des crochets. Il a soutenu qu’il s’agissait d’une erreur de bonne foi.
+[8] La ministre a refusé d’y renoncer, indiquant que l’appelant avait été informé du fait qu’il avait versé des cotisations excédentaires et que, en fin de compte, la cotisation avait été confirmée.
+[9] À l’audience, l’appelant a nié avoir été informé par l’ARC des cotisations excédentaires. Même s’il a admis qu’une « Lettre d’éducation sur les CELI » avait été affichée sur son compte de l’ARC le 17 mai 2019, il ne l’avait pas lue parce que, à son avis, il s’agissait de renseignements généraux qui ne lui étaient pas particulièrement destinés.
+[10] L’appelant a contesté le principe, ou du moins s’étonne de la proposition selon laquelle la Cour n’avait pas compétence sur l’objet de l’appel parce qu’un fonctionnaire de l’ARC lui avait dit qu’il pouvait interjeter appel devant la Cour. L’appelant a interjeté appel sur la base de ce conseil.
+[11] L’appelant a produit une copie de la Charte des droits du contribuable tirée du site Web de l’ARC et a souligné que seule la « Cour canadienne de l’impôt » est mentionnée.
+[12] L’appelant a présenté un article du journal du Globe and Mail daté du 21 novembre 2017. Il vise à résumer les conclusions du vérificateur général du Canada selon lesquelles l’ARC a donné de [traduction] « mauvaises réponses aux questions [des contribuables] près de 30 % du temps » et que cela [traduction] « pourrait amener les contribuables à produire des déclarations inexactes, à ne pas respecter les dates limite de production, à payer trop peu ou trop d’impôt […] ».
+[13] Enfin, l’appelant conteste l’allégation selon laquelle il n’avait pas déposé d’avis d’opposition avant de déposer son appel puisqu’il avait utilisé le mot [traduction] « différend » et il aurait dû être évident pour l’ARC qu’il s’opposait à la cotisation.
+[14] L’intimé a déposé l’affidavit de l’agent de l’ARC. Il a déclaré qu’une recherche de leurs dossiers indiquait que l’appelant n’avait pas déposé d’avis d’opposition. Il a également indiqué que l’appelant avait été informé qu’il [traduction] « pouvait enregistrer un différend officiel et qu’il avait informé l’appelant de la façon de s’opposer auprès de la ministre ». Cette lettre n’était pas jointe à l’affidavit et l’intimé n’a pas été en mesure d’en produire une copie.
+[15] Au paragraphe 8 de la réponse à l’avis d’appel, l’intimé fait référence à une lettre du 9 décembre 2020 qui expliquait que si l’appelant concluait que [traduction] « la ministre n’a pas exercé correctement son pouvoir discrétionnaire au cours du deuxième examen [il] pourrait demander à la Cour fédérale un contrôle judiciaire dans les 30 jours suivant la présente lettre ».
+III. Analyse
+[16] La Cour fait remarquer d’emblée que l’exactitude de la cotisation n’est pas en litige puisque l’appelant convient qu’il a versé des cotisations excédentaires à son CELI. Selon son seul argument, la ministre a agi injustement lorsqu’elle a refusé de renoncer aux pénalités.
+[17] L’article 207.02 de la Loi de l’impôt sur le revenu, LRC 1985, c1 (5e suppl.) (la « Loi ») prévoit qu’un particulier doit payer un impôt égal à 1 % par mois de ses cotisations excédentaires versées à son CELI. L’article 207.06 prévoit ensuite que « le ministre peut renoncer à tout ou partie de l’impôt » si le particulier « convainc le ministre que l’obligation de payer l’impôt fait suite à une erreur raisonnable » et que le « ministre peut renoncer ou annuler tout ou partie de la responsabilité » si le particulier « établit à la satisfaction du ministre que la responsabilité est née d’une erreur raisonnable » et que les cotisations excédentaires sont retirées rapidement.
+[18] Le paragraphe 220(3.1) prévoit de la même façon que le ministre peut « renoncer à tout ou partie d’un montant de pénalité ou d’intérêts payable par ailleurs […] en application de la présente loi […] ou l’annuler en tout ou en partie ».
+[19] L’article 207.06 et le paragraphe 220(3.1) font partie de ce qu’on appelle les « dispositions d’allègement pour les contribuables » ou la législation. Dans l’arrêt Canada (Revenu national) c. Sifto Canada Corp., 2014 CAF 140, la Cour d’appel fédérale a indiqué que « la Cour de l’impôt n’a pas compétence pour décider si le ministre a bien exercé le pouvoir discrétionnaire que lui confère le paragraphe 220(3.1) de la Loi de l’impôt sur le revenu pour décider s’il y a lieu de renoncer à une pénalité ou de l’annuler » et que cette décision ne peut être contestée « qu’en présentant à la Cour fédérale une demande de contrôle judiciaire » (par. 23).
+[20] Plus récemment, dans la décision Wiegers c. La Reine, 2019 CCI 260, le juge MacPhee a confirmé que la « jurisprudence est claire : si un contribuable souhaite obtenir le contrôle d’une décision rendue par le ministère relativement à un allègement des intérêts, il doit déposer une demande de contrôle judiciaire à la Cour fédérale […]. » Il a conclu que, « [m]alheureusement, notre Cour ne peut pas accorder l’allègement demandé par les appelantes » (par. 24).
+[21] Ces deux décisions suffisent à trancher l’appel, mais je vais examiner les autres arguments de l’appelant et faire quelques observations.
+[22] La cotisation elle-même indiquait que si l’appelant n’était pas d’accord, il pourrait [traduction] « enregistrer un différend officiel en consultant le site Web canada.ca/arc-plaintes-differends ». S’il avait pris le temps de consulter l’adresse Web fournie, il aurait constaté une référence aux « dispositions d’allègement pour les contribuables » et un hyperlien l’aurait amené à une section intitulée « Annulation des pénalités ou des intérêts et renonciation à ceux-ci » suivie d’une autre section intitulée [traduction] « Si vous êtes en désaccord avec notre décision ». À ce moment-là, il aurait constaté qu’il pouvait « demander un contrôle judiciaire à la Cour fédérale », à condition qu’il le fasse dans les 30 jours suivant la réception du [traduction] « deuxième examen administratif ».
+[23] Même si je n’ai aucune difficulté à croire que l’appelant s’est appuyé sur les conseils d’un fonctionnaire de l’ARC avant de poursuivre l’affaire devant la Cour, il est également évident qu’il n’a pas fait d’enquêtes suffisantes quant aux mesures appropriées à prendre pour déposer un « différend officiel » et qu’il a choisi de ne pas tenir compte du contenu de la lettre de l’ARC du 9 décembre 2020. Même si une copie de cette lettre n’a pas été fournie, la Cour peut déduire qu’elle contenait les résultats du [traduction] « deuxième examen administratif » et a conclu que selon les conseils que la décision pouvait être contestée devant la Cour fédérale.
+[24] L’appelant a invoqué la Charte des droits du contribuable, en faisant remarquer que seule la Cour canadienne de l’impôt est mentionnée. Toutefois, si l’appelant avait pris le temps de suivre les hyperliens vers la version électronique, il aurait vu la section intitulée « Demande d’allègement pour les contribuables – Annuler des pénalités et des intérêts ou y renoncer ». À ce moment-là, il aurait de nouveau constaté la référence au [traduction] « deuxième examen administratif » et le droit de demander un contrôle judiciaire à la Cour fédérale.
+[25] En fin de compte, la Charte des droits du contribuable peut être décrite comme un document ambitieux. Comme l’a souligné le juge Graham dans Johnson c. La Reine, 2022 CCI 31, il s’agit « essentiellement d’un engagement à offrir une certaine qualité de services », mais il « n’a pas force de loi » et « ne remplace ni ne complète la Loi de l’impôt sur le revenu. […] » (par. 25).
+[26] Le paragraphe 169(1) de la Loi prévoit que « [l]orsqu’un contribuable a signifié un avis d’opposition à une cotisation […], il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation […] ». Il est bien établi que la signification ou la remise de l’avis d’opposition au chef des Appels conformément au paragraphe 165(2) constitue une première étape nécessaire, faute de quoi la Cour ne peut entendre l’appel.
+[27] Même si les lettres de l’appelant à l’ARC étaient considérées comme un avis d’opposition valide, la Cour n’aurait toujours pas compétence pour procéder à un contrôle judiciaire de l’exercice de la décision discrétionnaire de la ministre de ne pas renoncer aux pénalités et aux intérêts en litige. Il n’est pas nécessaire d’examiner cette question plus en détail.
+[28] Pour être clair, la Cour canadienne de l’impôt est une cour créée par la loi qui ne peut exercer que les pouvoirs qui lui sont conférés par le Parlement. Elle ne peut exercer cette fonction en raison de l’équité et n’a pas compétence sur le pouvoir discrétionnaire de la ministre de renoncer aux pénalités et aux intérêts en vertu de l’article 207.06 ou du paragraphe 220(3.1).
+[29] La Cour n’accorde aucun poids à l’article du Globe and Mail cité ci-dessus, car l’intention et le but est de fournir des renseignements généraux d’intérêt public.
+[30] En fin de compte, l’appelant avait l’obligation de s’assurer que ses cotisations respectaient la limite de cotisations annuelle. S’il avait pris le temps de suivre ces montants, il aurait pu éviter les cotisations excédentaires et donc les pénalités.
+[31] Pour ces motifs, l’appel est annulé.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2023.
+« Guy Smith ».
+Le juge Smith
+Traduction certifiée conforme
+ce 29e jour de décembre 2023.
+[Crystal Simard, traductrice]
+RÉFÉRENCE :
+2023 CCI 172
+NO DU DOSSIER DE LA COUR :
+2020-2420(IT)I
+INTITULÉ :
+MICHAEL CALLAHAN c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+le 27 novembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+le 20 décembre 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Kimberly Pollard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada

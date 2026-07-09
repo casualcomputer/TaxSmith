@@ -1,0 +1,381 @@
+---
+title: "Les Constructions Rossi & Fils 2000 Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29393/index.do"
+last_modified: "2009-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 76"
+citation2: ""
+neutral_citation: "2009 TCC 76"
+decision_date: "2009-02-13"
+language: "en"
+item_id: "29393"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6884
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:33:44.561000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "95c978a349eaafccd4e7376ed969a4143f53f16c1a0f6be2a0eae2f131bf5570"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Constructions Rossi & Fils 2000 Inc. v. The Queen
+
+- Citation: 2009 TCC 76
+- Decision date: 2009-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6884, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Constructions Rossi & Fils 2000 Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-13
+Neutral citation
+2009 TCC 76
+File numbers
+2006-2584(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2584(GST)G
+BETWEEN:
+LES CONSTRUCTIONS ROSSI & FILS 2000 INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 28, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Richard Généreux
+Joëlle Bitton
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, the notice of which bears the number 0311010380 and is dated September 21, 2004, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of February 2009.
+« Paul Bédard »
+Bédard J.
+Citation: 2009 TCC 76
+Date: 20090213
+Docket: 2006-2584(GST)G
+BETWEEN:
+LES CONSTRUCTIONS ROSSI & FILS 2000 INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant, a registrant for the purposes of the Excise Tax Act (“the Act”), claimed input tax credits (“ITCs”) for the period from July 1, 2001, to December 31, 2003 (the “relevant period”), in respect of an invoice for $300,000 and two invoices for $150,000 each (the “disputed invoices”), which 9117‑0118 Québec Inc. (the “Supplier”) issued to the Appellant for services that it allegedly rendered to the Appellant. In a reassessment (the notice of which bears the number 0311010380) made against the Appellant and dated September 21, 2004, the Minister of National Revenue, through the Quebec Minister of Revenue (the “Minister”), essentially disallowed the ITCs thus claimed, on the ground that all the transactions between the Appellant and the Supplier were shams because Raymond Lepore and/or the Supplier never rendered the services for which the disputed invoices were issued. Hence this appeal.
+[2] In making the reassessment, the Minister relied on the following assumptions of fact:
+(a) The Appellant is a registrant.
+(b) The Appellant is a general contractor involved in construction and residential and commercial renovation.
+(c) The Appellant was audited by the Respondent for the period from July 1, 2001, to December 31, 2003.
+(d) An invoice for $300,000 and two invoices for $150,000 issued by 9117‑0118 Québec Inc. to the Appellant are shams and are in dispute in this appeal.
+(e) The Appellant claimed the following ITCs in respect of those invoices:
+Date of invoice
+Pre-tax amount of invoice
+ITC claimed by the Appellant
+09-10-2002
+$300,000
+$21,000
+06-12-2002
+$150,000
+$10,500
+11-08-2003
+$150,000
+$10,500
+(f) The sole shareholder and director of 9117‑0118 Québec Inc. is Raymond Lepore, CGA.
+(g) Raymond Lepore was presented to the Respondent by Vincenzo Belmonte as the person responsible for the Appellant's file at Belmonte Léger and Associates, a firm of tax credit incentive advisors located at 50 Place Crémazie Ouest, Suite 721, in Montreal.
+(h) The Appellant was a client of Belmonte Léger and Associates, which was the Appellant’s external accountant.
+(i) Initially, Raymond Lepore told Diane Deluca, an auditor with the Ministère du Revenu, that he was not the manager of 9117‑0118 Québec Inc., that he did not know what was going on in that company, and that it did not have a place of business at 50 Place Crémazie Ouest, Suite 721, in Montreal.
+(j) Later, Raymond Lepore told Diane Deluca that 9117‑0118 Québec Inc. enabled the Appellant to get better interest rates, and that 9117‑0118 Québec Inc's contract was subcontracted in its entirety.
+(k) There is a sham contract between the Appellant and Raymond Lepore (“on behalf of a company to be incorporated”), which provides that the consideration for the services rendered by Raymond Lepore is as follows:
+3.02 Payment
+In consideration for the Consultant's work and consultant services, the Client shall pay the consultant a commission of 5% of the projected sales of the Project in the amount of SIX MILLION DOLLARS ($6,000,000.00). Payment to the Consultant shall be payable by cheque when the sales of the Project will have reached the said amount. . . .
+(l) On June 4, 2004, Diane Deluca, having been unable to obtain plausible explanations from Raymond Lepore regarding the nature of the services rendered by 9117‑0118 Québec Inc., contacted Vincenzo Belmonte of Belmonte Léger and Associates, who was also unaware of the nature of the services rendered by Raymond Lepore in connection with the sham contract.
+(m) On August 18, 2004, Diane Deluca, having been unable to obtain explanations from Belmonte Léger and Associates, contacted the Appellant directly. Through its representative, Bruno Rossi, the Appellant asserted that the services were management services. However, 9117‑0118 Québec Inc. was not registered with the Commission de la construction du Québec (CCQ) or the Régie des bâtiments du Québec, and Raymond Lepore had told Diane Deluca that he never went to the work sites.
+(n) Having been unable to obtain a plausible answer from Mr. Lepore, Mr. Belmonte or Mr. Rossi, the Respondent issued the notice of assessment under appeal on the ground that the disputed invoices were shams and that Raymond Lepore had not rendered the services for which they were issued.
+Tracking the cheques
+(o) The Appellant issued, in particular, the following cheques payable to 9117‑0118 Québec Inc.:
+Date of cheque
+Cheque No.
+Amount of cheque related to invoice of -09-10-2002
+Amount of cheque related to invoice of -06-12-2002
+Amount of cheque related to invoice of 11-08-2003
+09-10-2002
+5429
+$145,075
+24-10-2002
+5540
+$100,000
+22-11-2002
+5676
+$100,000
+06-12-2002
+5717
+$52,537.50
+14-02-2003
+5917
+$20,000
+07-03-2003
+6095
+$20,000
+21-03-2003
+6155
+$20,000
+28-04-2003
+6319
+$20,000
+16-05-2003
+6345
+$20,000
+20-06-2003
+6466
+$20,000
+28-08-2003
+6894
+$22,537.50
+28-11-2003
+7382
+$9,000
+05-12-2003
+7413
+$18,000
+(p) The cheques were deposited into the account of 9117-0118 Québec Inc.
+(q) The amounts so deposited were withdrawn for the benefit of the following persons, among others:
+Date of withdrawal from account of 9117‑0118 Québec Inc.
+Raymond Lepore
+Teresa Forte (Raymond Lepore's spouse)
+Raymond Lepore et associés Inc.
+Cash
+Reference
+11-10-2002
+$65,000
+31-7 and 31‑8
+23-10-2002
+$10,000
+31-6
+12-11-2002
+$38,000
+31-9 and 31‑10
+16-12-2002
+$2,000
+31-24 and 31‑25
+16-12-2002
+$4,000
+31-24 and 31‑25
+19-12-2002
+$15,822.38
+x
+31-23
+19-12-2002
+$10,000
+31-23
+19-02-2003
+$2,000
+31-21
+24-02-2003
+$2,000
+31-21
+24-02-2003
+$6,000
+31-21 and 31‑22
+11-03-2003
+$2,000
+31-18
+11-03-2003
+$2,000
+31-19 and 31‑20
+11-03-2003
+$1,000
+31-18
+11-03-2003
+$4,000
+31-19 and 31‑20
+05-05-2003
+$2,000
+31‑17
+05-05-2003
+$4,000
+31-16
+05-05-2003
+$2,000
+31-15
+25-06-2003
+$3,000
+31-14
+28-08-2003
+$12,000
+31-11 and 31‑12
+15-10-2003
+$24,400
+31-1 and 31‑2
+15-10-2003
+$18,000
+31-3
+15-10-2003
+$12,000
+31-5
+15-10-2003
+$6,000
+31-4
+TOTAL
+$168,400
+$65,822.38
+$8,000
+$5,000
+RAYMOND LEPORE
+(r) On June 28, 2004, Raymond Lepore declared bankruptcy, and this time, in his bankruptcy proceedings, he stated that he operated 9117‑0118 Québec Inc. during the period from May 27, 2002, to March 1, 2004.
+(s) In his bankruptcy proceedings, Raymond Lepore did not mention that he owed 9117‑0118 Québec Inc. any amount whatsoever.
+(t) Moreover, the financial statements of 9117-0118 Québec Inc. for the period ended March 31, 2004, contain the following statement regarding Raymond Lepore:
+Employment income Loan Shareholder $404,120
+(u) In August 2004, Raymond Lepore made a voluntary disclosure of his income. According to that disclosure, and as stated in the audit report in respect of Raymond Lepore's personal file, his income for 2002 and 2003 was as follows:
+Year
+2002
+2003
+Income reported by Raymond Lepore prior to his bankruptcy
+$23,549
+$20,799
+Additional income reported by Raymond Lepore following his bankruptcy
+$377,150
+$528,775
+Total income
+$400,699
+$549,574
+(v) On September 8, 2004, Diane Deluca learned that Raymond Lepore and all the corporations that he controlled had declared bankruptcy.
+(w) These corporations owed the tax authorities the following amounts:
+Corporation name
+Income tax
+QST
+GST
+Total tax debt
+Raymond Lepore & Associés Inc.
+$5.24
+$45,000
+$30,000
+$75.005.24
+9117-0118 Québec Inc.
+0
+$60,000
+$40,000
+$100,000
+(x) Not only did Raymond Lepore claim to have earned $400,699 in 2002 and $549,574 in 2003, but 9117‑0118 Québec Inc., which went bankrupt on June 23, 2004, admitted that it had collected taxes which it did not remit to the Respondent, and that it had claimed, without entitlement, the following input tax rebates (“ITRs”) and input tax credits (“ITCs”) in the course of the 2003 and 2004 fiscal years, as shown in the audit report concerning the file of 9117‑0118 Québec Inc., filed as Exhibit ____ in support hereof:
+9117‑0118 Québec Inc.
+Fiscal year
+2003 and 2004
+QST collected but not remitted
+$5,618
+ITRs
+$60,039
+GST collected but not remitted
+$4,900
+ITCs
+$54,988
+Total received without entitlement
+$125,545
+(y) Lastly, in his bankruptcy proceedings, Raymond Lepore stated that he had not sold or disposed of any property whatsoever in the five years preceding June 23, 2004, as shown in his bankruptcy documents.
+(z) All transactions between the Appellant and 9117‑0118 Québec Inc. are shams, and Raymond Lepore and/or 9117‑0118 Québec Inc. never rendered the services for which the disputed invoices were issued.
+(aa) All these transactions were planned in order to take the amounts paid to 9117-0118 Québec Inc. out of the Appellant's coffers without paying any income tax or consumption tax on those amounts.
+[3] Bruno Rossi, Raymond Lepore, and Bruno Rossi's sister, Diana Rossi, testified in support of the Appellant's position. Diane Deluca and Hélène Bui testified in support of the Respondent's position.
+Testimony of Bruno Rossi
+[4] The testimony of Mr. Rossi (the Appellant's sole shareholder and director) with respect to the circumstances under which the Appellant and Mr. Lepore signed the contract tendered as Exhibit A‑1 (the “Contract”) can be summarized as follows: Mr. Lepore, a partner with the accounting firm of Belmonte Léger and Associates, was the Appellant's external accountant starting in 1999. Mr. Rossi’s business relationship with Mr. Lepore quickly turned into a friendship. In 1999, the Appellant purchased a lot on Boyer Street in Montreal with the intention of building and selling roughly 50 condos (the “Boyer project”). Mr. Rossi explained that the Boyer project was by far the largest real estate project ever undertaken by the Appellant, which until that time had not built any more than 10 condos in the same year for the purposes of sale. Mr. Rossi proposed that Mr. Lepore become an equal partner in the Boyer project, in the belief that his involvement in the project could compensate for his own weak management and financing skills, and thereby enable the Appellant to successfully complete this major real estate project. Since Mr. Lepore did not have the necessary funds to invest in the Boyer project, he declined the Appellant's partnership offer, and instead accepted an offer under which his remuneration would be based on the sales generated by the Boyer project. The parties formalized this agreement on November 6, 2000, by signing the contract, apparently in the presence of a witness whose name Mr. Rossi and Mr. Lepore did not know. At most, Mr. Rossi remembered that the witness's first name was Maria and that she had worked for the Appellant for a short time. Clauses 2.02 and 3.02 of the contract list the services that were to be rendered by Mr. Lepore and the remuneration that the Appellant undertook to pay him in consideration of those services. The two provisions in question read as follows:
+2.02 Main Duties and Responsibilities
+Without being restrictive, and subject to modification (in the latter case, by prior notice from the Client), the Consultant's main duties and responsibilities shall be as follows:
+a) to plan and define the project stages, to allocate the resources, to coordinate the project execution and to supervise their application at the Project location;
+b) to advise and assign the responsibilities to other team members while ensuring the follow‑up of the plans, time‑schedule and budgets;
+c) to provide an efficient project management capacity and to comply with the time‑schedule;
+d) to manage all the financial aspect of the Project, including the sales, the purchases, the revenues, the expenses;
+e) to prepare all cash flows, financial reports and forecasting necessary for the Project and to deal and negotiate with all and any financial institution required to the Project;
+f) to negotiate and deal directly with all and any of the suppliers with respect to the Project;
+3.02 Payment
+In consideration for the Consultant's work and consultant services, the Client shall pay the Consultant a commission of 5% of the projected sales of the Project in the amount of SIX MILLION DOLLARS ($6,000,000.00). Payment to the Consultant shall be payable by cheque when the sales of the Project will have reached the said amount.
+The parties hereby agree that in the event that the sale of the Project does not reach the sale price of SIX MILLION DOLLARS ($6,000,000.00), then the Consultant will only receive payment for services rendered on the Project in the amount of TWO HUNDRED THOUSAND DOLLARS ($200,000.00).
+[5] Moreover, Mr. Rossi's testimony regarding the nature of the services that Mr. Lepore purportedly rendered to the Appellant was at best vague, imprecise, and, for all practical purposes, unverifiable. Mr. Rossi summarized the services supposedly rendered by Mr. Lepore as follows:
+Q. Did you describe the services that were rendered?
+A. Yes, I did. He did some work, at that point, I don't know the terms, exact terms of what it means to have a partner that helps you see other projects, balance other projects and help you out on that paperwork, an advisory to things, how to put things down on paper, how to go find subsidies, how to go find, all those elements that I don't have, half of my company runs on manual work and the other half is on paperwork and he did all the... sort of accounting and "gestionnage" whatever you want to call it.
+I would emphasize, moreover, that the statements that Mr. Rossi made to Ms. Deluca (the “auditor”) at their first meeting, concerning the services that Mr. Lepore supposedly rendered to the Appellant, were even more vague, imprecise and unverifiable than those made during his testimony. Indeed, Mr. Rossi was content to tell Ms. Deluca that Mr. Lepore did project management and that he never went to the work sites. I note as well that, at that meeting, Mr. Rossi did not think it necessary to tell Ms. Deluca that the services had been rendered to the Appellant in accordance with the contract.
+Mr. Lepore's testimony
+[6] In his testimony, Mr. Lepore essentially reiterated, albeit in greater detail, the testimony that Mr. Rossi gave with respect to the circumstances under which the contract was signed on November 6, 2001, and the services allegedly rendered under the contract. With respect to the services rendered, Mr. Lepore described the strategic role that he played in terms of obtaining financing for the Boyer project, obtaining subsidies from the City of Montreal and Gaz Métropolitain, and controlling the project costs. He also explained that he had had to prepare a number of financial documents in performing the services that he had undertaken to provide to the Appellant under the contract. His testimony in this regard is worth quoting:
+I was controlling costs and projecting revenues and projecting the sales and undertaking the necessary documentation to provide to the banks on an ongoing basis, cash flow analyses, any cash flow variances, budget versus actual expenses, the variances generated between the two if they were in favour or against Constructions Rossi. If our budget versus our expenses, if our expenses were higher than our budget, why were the expenses higher? I had to do an analysis of that to see maybe our costs were too high, maybe some suppliers were selling us at higher prices than we could get elsewhere. So, you know, and this had to be done on a phase by phase basis. So, it encompassed a lot of work in that area.
+Lastly, Mr. Lepore stated that he had also given bookkeeping training to Mr. Rossi's sister. I note from Mr. Lepore's testimony that, to all intents and purposes, the only people whom he met in connection with his purported services to the Appellant were Mr. Rossi and Mr. Rossi's sister. In fact, Ms. Bui, the person responsible for sales for the Boyer project, was the only other person that Mr. Lepore acknowledged having met in connection with his purported services to the Appellant.[1] I would immediately point out that Ms. Bui denies having met Mr. Lepore. In fact, she testified that she simply did not know him.
+[7] It should also be pointed out that Mr. Lepore admitted that all the amounts (including GST and QST) paid by the Appellant (in connection with the services that Mr. Lepore supposedly rendered to the Appellant) to the Supplier (of which he was the sole shareholder) had been withdrawn from the Supplier for Mr. Lepore's benefit, and that he had spent all those amounts for personal purposes (including meeting the demands of his passion for gambling). Mr. Lepore also admitted that the Supplier had not remitted to the Respondent the GST thus collected from the Appellant, and that he had claimed ITCs and ITRs without being entitled thereto. Lastly, Mr. Lepore admitted that the aforementioned amounts withdrawn from the Supplier do not appear in his income tax returns for the 2002 and 2003 taxation years.
+[8] I stress that Mr. Lepore did not deny that he had initially told Ms. Deluca that he was not the Supplier's manager, that he did not know what was going on with the Supplier and that the Supplier, did not have a place of business at 50 Place Crémazie Ouest, Suite 721, in Montreal. Nor did he deny that he had later told Ms. Deluca that the Supplier enabled the Appellant to save 1% interest on its financing, and that the entire contract awarded to the Supplier had been subcontracted. Mr. Lepore's explanations with respect to these statements, which he acknowledged were false, are worth quoting:
+Well, like I say, I was in a panic situation because of all the financial problems that I had and I was literally going through a depression at that point in time and also since my first language is English not French, I couldn't really respond properly to what she was asking.
+Ms. Rossi's testimony
+[9] Ms. Rossi's testimony can be summarized as follows: Mr. Lepore had given her bookkeeping training (two days a week at the Appellant's head office) in 2002 when she was working (without pay) for the Appellant. Ms. Rossi also confirmed that Mr. Lepore met her brother very frequently, but she was unable to specify the nature of their discussions.
+Invoice of August 11, 2003
+[10] The evidence shows that
+(i) the Supplier (whose sole shareholder and director was Mr. Lepore) sent the Appellant an invoice for $150,000 dated November 11, 2003, for services supposedly rendered by Mr. Lepore in connection with the Chateaubriand project, and
+(ii) the Appellant claimed, in computing its net tax, a $10,500 ITC in respect of that invoice, even though only a portion ($66,687) of the fees that were billed had been paid.
+[11] I would immediately point out that the testimony given by Mr. Rossi and by Mr. Lepore was completely silent with respect to the nature of the Chateaubriand project. It is worth quoting their testimony as to the reasons for which the Appellant paid only a portion of the fees:
+I don't think I paid him much as this bill because I know that he was not on the job no more, he was now disappearing on me and he asked me, you know, “we're going do a new project on Châteaubriand, we're going to evaluate this at a $150,000 that I can help you.” And I go, “you're not here no more, you're gone, you're... I don't know what's happening with you anymore, why should I pay this bill? You haven't done much for me yet.” “Yes, but I did, you know, give you lots of profit on this one”, he wanted to start of[f] a new project we've started and I wasn't agreeing to it so I didn't really pay the bill.
+. . .
+Q. Now, I understand that you issued a third invoice in August 2003 with a different reference number which is 0314?
+A. Yes. I was still in a lot of debt at that point in time, this had to do with a separate project that Constructions Rossi was going to be undertaking, I think the project was called Châteaubriand, okay, and I went to Bruno and you know, I told him, I said "look, I said, I need some money up front for this particular project that we're going to be undertaking together", we didn't sign an agreement yet, I was kind of desperate at that point in time, I needed money. And "okay, fine." I present him with the invoice, he didn't like the idea and all that but in the end, he did pay me a little portion of that invoice but I think he didn't get paid very much, I don't remember how much I got paid of that invoice but it wasn't that much.
+[12] I would point out that Mr. Rossi testified that the Appellant had claimed the ITC as soon as it received the invoice, but that, when the invoice was paid only in part, the Appellant did not reimburse part of the ITC that it had claimed. According to Mr. Rossi's explanation, the Appellant simply forgot to make that reimbursement.
+[13] I would also note that the evidence discloses that the income statement in the Appellant's financial statements for its fiscal year ended June 30, 2002 (Exhibit I‑1) differs from the Appellant's income statement for its fiscal year ended June 30, 2003 (Exhibit I‑2), notably with respect to the items [TRANSLATION] “sales”, [TRANSLATION] “cost of sales”, and [TRANSLATION] “salary and benefits” and [TRANSLATION] “management expenses”. I would point out that Mr. Rossi, claiming he lacked accounting knowledge, was unable to provide any explanations in this regard.
+Analysis
+[14] The Appellant's evidence was essentially based on the testimony given by Mr. Rossi, Mr. Rossi’s sister (who cannot be called an independent witness) and Mr. Lepore. The only documentary evidence submitted by the Appellant was
+(i) the contract (Exhibit A‑1),
+(ii) the invoice dated October 9, 2002 (Exhibit A‑3),
+(iii) the invoice dated December 6, 2002 (Exhibit A‑4), and
+(iv) the invoice dated August 11, 2003 (Exhibit A‑2).
+[15] Counsel for the Appellant submits that his client discharged its onus of showing, on a balance of probabilities, that the Supplier had truly rendered services to the Appellant. In this regard, counsel for the Appellant argues that Mr. Rossi's testimony was credible, especially since it was supported by the equally credible testimony of his sister and of Mr. Lepore and by documentary evidence that clearly showed that services were rendered. Counsel for the Appellant further submits that this testimony was not contradicted by any other testimony or documentary evidence.
+[16] The assessment of the credibility of Mr. Rossi, of his sister and of Mr. Lepore, played an important part in my decision because the Appellant's case essentially turned on their testimony. I wish to emphasize that I accorded little weight to the testimony of the witnesses for the Appellant. In this regard, I would immediately point out that the courts are not required to believe witnesses, even if their testimony is not contradicted. The accounts given by witnesses can be found implausible on the basis of circumstances disclosed by the evidence or in light of the dictates of common sense.
+[17] I would note that, quite apart from the implausibility of Mr. Rossi's story, his answers were intentionally vague and imprecise, and generally unverifiable. The Appellant could have substantiated some of Mr. Rossi's assertions, thus establishing his credibility through sufficient and serious evidence, notably with respect to the Appellant's employee, who was apparently named Maria and who supposedly witnessed the signing of the contract. For example, the Appellant, using its books and records (including the payroll journal), could have found that employee's name and contact information and summoned as a witness at the hearing. At the very least, the Appellant could have tendered as evidence the relevant books and records to show that the employee in question was in its employ on November 6 when the contract was signed. The Appellant could also have submitted reliable documentary evidence (such as the contracts for the sale of the Boyer project condos) in order to show that the $450,000 in fees were paid to the Supplier in accordance with the terms and conditions set out in clauses 3.02 and 3.03 of the contract, especially since the Appellant's financial statements, which cannot be characterized as reliable, in no way show that the Appellant made a total of $6,000,000 in condo sales in the Boyer project. In neither case did the Appellant submit sufficient evidence of this kind to substantiate Mr. Rossi's assertions and thereby establish his credibility, although it could have done so. The inference that I draw from this is that such evidence would have been unfavourable to the Appellant. Mr. Rossi's initial statement to Ms. Deluca, which was evasive to say the least, suggests to me that he had much to hide. It is difficult for me to understand why Mr. Rossi would not have disclosed the existence of the contract to Ms. Deluca at the outset. Why did Mr. Rossi wait so long before telling her about such a contract? Lastly, Mr. Rossi's testimony with respect to the invoice dated August 11, 2003 (Exhibit A‑2), and especially with respect to the reasons why the Appellant paid the Supplier a portion ($66,687) of the fees not withstanding the fact that no services were rendered, only confirms my doubts regarding Mr. Rossi's credibility.
+[18] I would also point out that I give little weight to Mr. Lepore's testimony. Indeed, it is difficult for me to give any weight to the assertions of an individual who has so openly flouted our tax legislation. In addition, I note that Mr. Lepore's testimony that, in the course of carrying out his mandate, he met the person responsible for the sales of the Boyer project condos was contradicted by the very credible testimony of Ms. Bui, who was that person. The Appellant could have substantiated some of Mr. Lepore's statements and thus established his credibility. For example, the Appellant could have tendered as evidence the many financial documents (cash flow, etc.) that Mr. Lepore says he prepared for the Appellant in carrying out the mandate that he received from the Appellant. The Appellant did not submit sufficient evidence of this kind to substantiate Mr. Lepore's assertions and thereby establish his credibility, although it could have done so. The inference that I draw from this is that such evidence would have been unfavourable to the Appellant. Lastly, Mr. Lepore's testimony with respect to the invoice dated August 11, 2003 (Exhibit A‑2), and especially with respect to the reasons why the Appellant paid the Supplier a portion ($66,687) of the fees nothwithstanding the fact that no services were rendered by the Supplier, only confirms my doubts regarding Mr. Lepore's credibility.
+[19] In any event, I am of the opinion that the story told by Mr. Rossi and Mr. Lepore is implausible. Indeed, I find it utterly implausible that the Appellant would have agreed to pay the Supplier astronomical fees of $450,000 (roughly 6.42% of the Appellant's alleged gross sales from the Boyer project) for professional services which, the final analysis, the Appellant could have obtained from Mr. Lepore in his capacity as a partner of the accounting firm of Belmonte Léger and Associates for a fraction of the $450,000 that the Supplier was paid. Lastly, the story that those two witnesses told about the partial payment of the invoice dated August 11, 2003 (the Chateaubriand project), even though no services were rendered, can be added to the list of implausibilities in the case at bar.
+[20] On my assessment of the evidence, I find it more probable than not that the services were never provided to the Appellant, and that the contract and the fee payment were merely shams intended to conceal the truth. In addition, it is difficult to make any finding other than that the Appellant deliberately made false statements when it claimed the ITCs in computing its net tax for the relevant period. In my opinion, the Minister met his burden of proof in the instant case, and was entitled to impose the penalties prescribed in section 285 of the Act.
+[21] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 13th day of February 2009.
+« Paul Bédard »
+Bédard J.
+CITATION: 2009 TCC 76
+COURT FILE NO.: 2006-2584(GST)G
+STYLE OF CAUSE: LES CONSTRUCTIONS ROSSI & FILS 2000 INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: May 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: February 13, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Richard Généreux
+Joëlle Bitton
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Serge Fournier
+Firm: BCF, LLP
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See pages 98 and 99 of the transcript.

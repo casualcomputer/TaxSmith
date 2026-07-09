@@ -1,0 +1,219 @@
+---
+title: "Hollinger (Succession ) c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31270/index.do"
+last_modified: "2013-08-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 252"
+citation2: ""
+neutral_citation: "2013 CCI 252"
+decision_date: "2013-08-16"
+language: "fr"
+item_id: "31270"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5111
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:08:28.387000+00:00"
+cases_cited_count: 7
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "29a338e37602e3882d332c55ce4edb8137603fbf1b5766afb272e8d6a0ddbd3c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hollinger (Succession ) c. La Reine
+
+- Citation: 2013 CCI 252
+- Decision date: 2013-08-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5111, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hollinger (Succession ) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-16
+Référence neutre
+2013 CCI 252
+Numéro de dossier
+2010-2185(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2185(IT)G
+ENTRE :
+LA SUCCESSION DU DÉFUNT MARTIN HOLLINGER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 décembre 2012, à Montréal (Québec).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelante :
+Me Denis A. Lapierre
+Me Elisabeth Robichaud
+Avocat de l’intimée :
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d’août 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2013 CCI 252
+Date : 20130816
+Dossier : 2010-2185(IT)G
+ENTRE :
+LA SUCCESSION DU DÉFUNT MARTIN HOLLINGER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Le présent appel présente les caractéristiques d’une tragédie grecque et d’un regrettable drame familial. Un père, le défunt Martin Hollinger, a succédé à son propre père dans une entreprise d’assurance que ce dernier avait lancée. Martin a par la suite fait participer son fils Michael à l’entreprise, et on prétend que Michael a ultérieurement chassé son père de l’entreprise. Le père a intenté une action contre son fils, parmi d’autres, devant la Cour supérieure du Québec, dans laquelle il alléguait qu’il y avait abus et sollicitait divers redressements. La question en litige dans le présent appel en matière d’impôt sur le revenu est de savoir si les frais judiciaires ou extrajudiciaires engagés par Martin (qui est décédé quelques semaines après l’audience devant la Cour supérieure) et sa succession sont déductibles dans le calcul du revenu pour 2007 au titre de l’alinéa 8(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). Dans son avis d’appel, l’appelante indique que Martin a engagé les frais judiciaires ou extrajudiciaires afin [traduction] « d’être rétabli dans ses fonctions et de pouvoir continuer à gagner un revenu d’emploi » et que Martin « avait parfaitement le droit de reprendre son emploi auprès de (GMH) […] ». [1]
+[2] Lisa Hollinger, soit la fille de Martin, la sœur de Michael et la liquidatrice de la succession de Martin, est la seule personne qui a témoigné à l’audition de l’appel.
+[3] Il y a de nombreuses personnes et sociétés qu’il convient de mentionner dès le début des présents motifs :
+a) Martin Hollinger, le père de quatre enfants, Lisa, Audrey, Barbara et Michael, et l’époux de Sarah. Le père de Martin a lancé une entreprise de courtage d’assurance avant la Deuxième Guerre mondiale, et, lors de l’instance devant la Cour supérieure, l’entreprise se spécialisait dans le domaine de l’assurance dommages et de l'assurance des cargaisons maritimes, ainsi que d’autres types d’assurances, et agissait comme directeur des sinistres et agent de recouvrement pour le compte de certains assureurs à la Lloyd's of London. Martin est décédé en 2007, à l’âge de 88 ans.
+b) Sarah Hollinger était l’épouse de Martin. Sarah travaillait pour l’entreprise et touchait un salaire.
+c) Lisa Hollinger, née en 1958, est la fille de Martin et de Sarah. Elle est membre du Barreau du Québec, et elle a commencé à travailler dans l’entreprise en 1978, y assumant d’importantes responsabilités.
+d) Michael Prados Hollinger, né en 1964, est le fils de Martin et de Sarah. Il a commencé à travailler pour l’entreprise familiale en 1991.
+e) H.W. Hollinger Ltd. a été constituée en personne morale en vertu des lois du Québec en 1957 par Martin pour poursuivre l’exploitation de l’entreprise familiale initialement exploitée par la société de son père, HWH Ltd. À la mort de son père, Martin est devenu l’unique actionnaire de HWH Ltd.
+f) H.W. Hollinger (Canada) Inc. (appelée « HWH » dans les présents motifs) a été constituée en personne morale par Martin en 1978 en vertu des lois du Canada. Martin n’était pas actionnaire de HWH, mais en a brièvement assuré la présidence et en était l’un des trois administrateurs (avec Sarah et Lisa) jusqu’au 24 juillet 1985. La propriété des actions de HWH a changé à plusieurs reprises. Sarah était l’unique actionnaire jusqu’en 1980. En 1980, Sarah détenait 60 pour cent des actions ordinaires avec droit de vote et les enfants en détenaient chacun 10 pour cent. En décembre 1987, des transactions ont eu lieu entre diverses sociétés détenues par la famille Hollinger. À la suite de ces opérations, Sarah est devenue propriétaire de 100 pour cent des actions avec droit de vote de HWH et de 60 pour cent des actions à revenu variable, et chaque enfant est devenu propriétaire de 10 pour cent des actions à revenu variable. En juin 1988, Lisa a fait l’acquisition de l’ensemble des actions à revenu variable restantes de HWH auprès de sa mère ainsi que de ses sœurs et de son frère. En juillet 1989, Sarah a transféré ses actions avec droit de vote à Lisa, apparemment suivant les instructions de Martin.
+g) Gestion Martin Hollinger Inc. (« GMH ») a été constituée en personne morale en 1981 par Martin. De temps à autre, GMH versait un salaire à Martin.
+h) Assurances Services (Hollinger) Inc. (« ASH ») a été constituée en personne morale en 1982 par Martin.
+Selon Lisa, l’entreprise de HWH assumait une responsabilité illimitée en tant que membre de la Lloyd’s, et GMH ainsi qu’ASH avaient été constituées en personne morale pour limiter la responsabilité de l’entreprise et pour tirer profit de la déduction accordée aux petites entreprises à des fins fiscales (article 125 de la Loi). Chaque société exploitait une partie distincte de l’entreprise de courtage d’assurance, mais les sociétés étaient exploitées ensemble aux termes de contrats de services. Ces sociétés ont fait l’objet de réorganisations en 1999, avec effet rétroactif à 1998.
+i) 157198 Canada Inc. (« 198 ») a été constituée en personne morale en 1987 par Martin pour des raisons de planification fiscale et successorale. La société 198 était une société de portefeuille dont les actions appartenaient à Sarah et aux quatre enfants. Une autre société, 157199 Canada Inc. (« 199 »), finançait les primes des clients.
+(Les sociétés mentionnées dans ce paragraphe sont parfois appelées les « sociétés Hollinger » ou les « sociétés familiales » dans les présents motifs).
+[4] Malgré le fait qu’au cours des années 1990, Martin ne détenait aucune action des sociétés familiales, à l’exception de GMH, selon Lisa, c’était Martin qui avait continué à être l’âme dirigeante de l’entreprise et à être le seul à prendre les décisions. [2] Même lorsque Lisa détenait toutes les actions de HWH, elle recevait des instructions de son père quant aux activités de la société, au paiement des actions et des dividendes, et ainsi de suite. Non seulement Martin déterminait les décisions commerciales à prendre, il dictait aussi la façon dont le revenu tiré de l’entreprise était réparti entre les membres de la famille et combien d’actions chacun d’eux détenait dans une société donnée. Lisa a témoigné que les [traduction] « actions changeaient constamment de mains suivant les revenus ».
+[5] Lisa a expliqué qu’en 1991, HWH avait conclu des contrats de services avec GMH, ASH et d’autres sociétés familiales pour appuyer les sociétés ainsi que [traduction] « leur légitimité » et pour officialiser la structure organisationnelle de l’entreprise. La principale société en exploitation était HWH. Suivant le contrat qu’elle avait conclu avec HWH, GMH devait souscrire des assurances à HWH en tant que son fournisseur général exclusif de polices d’assurance et, entre autres, permettre à HWH d’offrir des services d’assurance dans des marchés que GMH n’exploitait pas. En bref, HWH remettait les primes à GMH, et GMH payait les primes à la Lloyd’s. HWH a également convenu de payer GMH pour les services fournis, par exemple. Tout salaire que Martin recevait était versé par GMH. Martin continuait à décider des salaires, des primes et des dividendes que GMH (et toute autre société familiale) verserait à Sarah et à ses enfants.
+[6] En avril 1999, il y a eu d’importantes réorganisations des sociétés familiales avec effet rétroactif au 30 juin 1998. La principale réorganisation, pour les besoins des présents motifs, est celle de HWH, suivant laquelle Sarah est devenue propriétaire de toutes les actions avec droit de vote et Michael est devenu propriétaire de toutes les actions ordinaires sans droit de vote. Lisa a témoigné qu’elle avait transféré toutes ses actions de HWH à Michael et à sa mère. Dans la requête introductive d’instance présentée à la Cour supérieure, la réorganisation de HWH est décrite expressément de la manière suivante :
+1. Lisa a transféré à Sarah ses 1 000 actions avec droit de vote de catégorie A de HWH;
+2. HWH a racheté de Lisa, afin de les annuler, les actions à revenu variable restantes que celle‑ci détenait;
+3. Michael a souscrit 100 actions ordinaires de catégorie B (à revenu variable) de HWH.
+Quoi qu’il en soit, suivant la réorganisation de HWH, Michael détenait les actions ordinaires sans droit de vote de HWH et Sarah, les actions avec droit de vote.
+[7] Des modifications ont aussi été apportées aux actionnaires de GMH et d’ASH, ainsi qu'à d’autres sociétés familiales peut‑être.
+[8] Puis, en 2003, sinon plus tôt, les liens familiaux se sont brisés.
+[9] Par une lettre du 17 avril 2003 adressée à GMH et à ASH, dont une copie a été envoyée à Lisa ainsi qu’à 198, HWH a avisé qu’elle mettait fin à [traduction] « l’ensemble des relations commerciales qu’il y avait entre HWH, d’une part, et GMH et ASH, de l’autre », lesquelles devaient prendre fin six mois suivant la réception de l’avis. La lettre était signée par Michael et faisait état du fait que [traduction] « certains aspects de nos relations familiales sont de plus en plus difficiles et […] les événements ont montré qu’il n’est plus efficace de travailler ensemble et que cela va maintenant à l’encontre des intérêts de la famille ». [3] À ce moment‑là, Martin avait déposé une demande pour divorcer de Sarah.
+[10] L’avis de résiliation des contrats et, je suppose, d’autres raisons ont donné lieu à une action devant la Cour supérieure du Québec dans laquelle Martin, Lisa et Barbara étaient les demandeurs, alors que Michael, Sarah, Audrey et l’époux d’Audrey étaient les défendeurs, et que HWH, GMH, ASH, 198 et d’autres étaient mis en cause. [4] (Ce litige et les litiges connexes devant les tribunaux québécois sont parfois appelés le « litige civil ».) La demande initiale, soit la requête introductive d’instance, comporte 86 pages et plus de 400 paragraphes. La somme que l’appelante a déduite dans le calcul de son revenu pour 2007, et qui a été refusée par le fisc, correspond aux frais judiciaires ou extrajudiciaires supportés pour poursuivre cette demande et se défendre contre les demandes reconventionnelles ainsi que ceux supportés dans les litiges connexes, y compris un appel devant la Cour d’appel du Québec.
+[11] Les allégations de faits dans la requête introductive d’instance sont divisées en plusieurs parties. Dans le sommaire de cet acte de procédure, les demandeurs accusent les défendeurs de violation de l’entente selon laquelle Martin, nonobstant la propriété des actions, devait conserver le rôle qu’il détenait et le pouvoir qu’il avait en tant que propriétaire des sociétés familiales, et que les membres de sa famille étaient ses mandataires, représentants et prête‑noms. Il y est notamment allégué que Michael et Sarah se sont appropriés le contrôle de HWH et des autres sociétés familiales, qu’ils ont pris le contrôle des sociétés, qu’ils ont refusé l’accès aux documents comptables à Martin ainsi qu’à Lisa, et qu’ils ont comploté pour chasser Martin de la résidence familiale, parmi d'autres allégations de fait.
+[12] Le sous‑titre de plusieurs paragraphes dans la section des faits de la requête indique davantage au lecteur la nature du conflit familial : l’historique des sociétés de Martin; les réorganisations des sociétés qui ont été entreprises et dirigées par Martin – la répartition des avoirs aux membres de la famille; la prise de contrôle illégale par les défendeurs Hollinger des sociétés HWH, GMH, ASH, 198, 199 et 161212 Canada Inc.; les tactiques illégales et abusives utilisées par les défendeurs Hollinger afin de forcer les demandeurs à accepter leurs demandes déraisonnables ainsi que leur campagne d’intimidation à l’égard de Martin, de Lisa et de Barbara, de même que les abus dont ces derniers ont été victimes de leur part; l’enrichissement injustifié des défendeurs Hollinger et l’appauvrissement corrélatif des demandeurs; l’ingratitude de Michael, de Sarah et d’Audrey, et ainsi de suite.
+[13] Les redressements demandés par les demandeurs dans le litige civil étaient fondés sur les allégations, parmi d’autres allégations de nature personnelle, selon lesquelles [traduction] « malgré le fait que Martin a accordé des millions de dollars aux défendeurs au fil des ans, administrant de façon généreuse les sociétés Hollinger à leur avantage », il se trouve dans une situation où ses droits en tant que propriétaire et âme dirigeante de HWH et des autres sociétés ne sont pas respectés, les défendeurs ont traité les demandeurs de manière abusive et préjudiciable, Martin est humilié au travail par Michael, et Michael et Sarah ont comploté en vue de s’approprier illicitement le contenu du coffre‑fort de Martin.
+[14] Les divers redressements sollicités par les demandeurs à l’égard des défendeurs dans le litige civil sont pertinents en l’espèce, étant donné qu’ils déterminent l’objet du litige pour lequel les frais judiciaires ou extrajudiciaires ont été payés. Il n’y a pas de demande de redressement particulier à l’égard des sociétés familiales. Je n’entends pas énumérer les 31 paragraphes, y compris les alinéas, des redressements demandés. Voici des exemples des redressements demandés par les demandeurs à l’encontre des défendeurs :
+a) une déclaration judiciaire confirmant que Martin est le seul et unique propriétaire de toutes les actions émises et en circulation des diverses sociétés;
+b) une déclaration judiciaire selon laquelle la réorganisation des sociétés en 1998 n’a pas modifié ni diminué de quelque façon que ce soit la propriété et le contrôle réels de Martin à l’égard de toutes les actions avec droit de vote et les actions à revenu variable de HWH et des autres sociétés;
+c) une ordonnance enjoignant aux défendeurs d’endosser, au profit de Martin, toutes les actions des sociétés Hollinger dont ils sont les détenteurs inscrits;
+d) une déclaration selon laquelle les opérations intervenues en 1998 sont nulles;
+e) si la Cour ne peut pas accorder les redressements demandés aux alinéas a) et b) et les redressements connexes, le versement à Martin par les défendeurs de 8 000 000 $, qui représente la juste valeur marchande de HWH, d’ASH et de GMH;
+f) la révocation pour cause d’ingratitude des dons faits par Martin aux défendeurs au fil des ans;
+g) le droit, pour Martin et Barbara, d’obtenir un jugement contre les défendeurs leur ordonnant de remettre à Martin et à Barbara l’ensemble des documents personnels et médicaux et des documents relatifs aux sociétés de Martin;
+h) un jugement en faveur de Barbara ordonnant à Michael et à Audrey de transférer, au profit de Barbara, toutes les sommes détenues dans le compte bancaire de Barbara à la Banque Toronto-Dominion, ainsi qu’une indemnité si des fonds ont été utilisés indûment par Michael ou Audrey.
+[15] Martin n’a demandé aucun redressement à l’égard des sociétés familiales quant à un montant qui lui est dû ou quant à l’établissement d’un droit à un montant qui lui est dû et qui, s’il le recevait par suite du litige, serait à inclure dans son revenu tiré d’une charge ou d’un emploi. Il n’y a pas non plus de redressement demandé qu’il soit raisonnable de considérer comme s’apparentant à ce genre de demande. Tous les redressements demandés visaient les défendeurs personnellement.
+[16] Les demandeurs sollicitaient également des mesures de redressement provisoires, notamment afin de pouvoir avoir accès aux bureaux, de même qu’aux documents financiers et organisationnels des sociétés Hollinger, une ordonnance enjoignant aux défendeurs, à HWH, à GMH et à ASH de continuer à respecter tous les contrats en vigueur entre les parties le 1er janvier 2003 et exigeant la conservation des documents personnels appartenant à Martin et à Barbara, la protection des liquidités de Martin, la conservation des éléments de preuve ainsi que la fourniture des relevés bancaires mensuels.
+[17] Les demandeurs n’ont pas eu gain de cause devant la Cour supérieure, et leur appel devant la Cour d’appel a aussi été rejeté [5] .
+[18] Il n’est pas contesté qu’avant 1999, c’était Martin qui prenait les décisions et qui déterminait qui, dans la famille, serait payé (sous forme de salaire ou de dividende) par l’une des sociétés Hollinger, ainsi que combien d’actions des sociétés seraient attribuées et comment l’attribution serait effectuée. Selon le témoignage de Lisa, Martin et elle, à tout le moins, étaient d’avis que celui‑ci garderait son pouvoir, même après la réorganisation des sociétés. Apparemment, lorsque Michael et Sarah ont décidé qu’il en était autrement, Martin a tenté de ramener les choses à ce qu’elles étaient avant la réorganisation afin de pouvoir continuer à exercer le rôle qu’il jouait antérieurement.
+[19] L’avocat de l’appelante soulève plusieurs arguments à l’appui de sa thèse que les frais judiciaires ou extrajudiciaires étaient des dépenses faites pour gagner un revenu d’emploi. Il soutient que le recours pour cause d’abus exercé par Martin à l’encontre de Michael et de Sarah était « davantage de la nature d’une procédure en vue du recouvrement d’un revenu qu’une procédure visant à établir un nouveau droit de recevoir pareil revenu … » [6] et visant à permettre à Martin de bénéficier des revenus provenant des sociétés familiales et de distribuer les revenus aux membres de sa famille au moyen d’une structure organisationnelle complexe.
+[20] L’avocat de l’appelante a renvoyé à des décisions de la Cour canadienne de l’impôt et d’autres cours dans lesquelles il avait été conclu que les frais judiciaires ou extrajudiciaires engagés pour tirer un revenu d’une entreprise ou d’un bien étaient déductibles dans le calcul du revenu. Par exemple, dans la décision Lela Kornberg c. La Reine, [7] l’époux de la contribuable, dont elle s’était séparée, possédait des sociétés de gestion qui assuraient la gestion de sociétés dans lesquelles la contribuable détenait un intérêt important. Ses préoccupations quant à la façon dont les sociétés étaient gérées l’ont amenée à prendre certaines mesures et à intenter une action qui comprenait des demandes d’accès aux registres ainsi qu’aux documents et dans laquelle elle alléguait que son époux avait agi de manière préjudiciable dans ses fonctions de gestion. Le juge Bell a conclu que le litige ne visait pas à préserver un bien dont la contribuable espérait tirer un revenu, mais plutôt à obtenir des renseignements et à tirer un revenu de dividendes des sociétés en cause. Elle possédait déjà les biens en cause. Les frais juridiques étaient donc déductibles suivant l’alinéa 18(1)a) de la Loi. (L’alinéa 8(1)b) n’était pas en cause.) De même, dans l’affaire Kruco Inc. c. Canada [8] , la déduction des frais juridiques et professionnels découlant d'un litige a été admise, étant donné que l’objectif de Kruco dans le litige n’était pas de préserver un bien : il n’était pas contesté qu’elle possédait des actions de la société. L’appelante essayait plutôt d’être traitée équitablement en tant qu’actionnaire de la société en demandant les dividendes limités auxquels elle avait droit. Là aussi, la contribuable avait demandé la déduction en application de l’alinéa 18(1)a) de la Loi, et non de l’alinéa 8(1)b).
+[21] De même, dans les affaires B.J. Services Co. c. Canada [9] , International Colin Energy Corporation c. La Reine [10] , ZR c. Canada [11] , Johns-Manville Canada c. La Reine [12] et Pantorama Industries Inc. c. Canada [13] , la question en litige était de savoir si une dépense avait été engagée ou effectuée par le contribuable en vue de tirer un revenu d’une entreprise ou d’un bien. L’alinéa 8(1)b) de la Loi n’a pas été invoqué par les parties à ces appels.
+[22] Dans son avis d’appel, l’appelante n’allègue pas que, pendant la période pertinente, Martin exploitait une entreprise à l’égard de laquelle des frais judiciaires ou extrajudiciaires avaient été engagés. Il n’est pas allégué que les frais judiciaires ou extrajudiciaires sont déductibles dans le calcul du revenu tiré d’un bien en vertu de l'alinéa 18(1)a).
+[23] La question soulevée dans les actes de procédure des deux parties à l’instance est de savoir si les frais judiciaires ou extrajudiciaires sont déductibles dans le calcul du revenu que Martin a tiré d’une charge ou d’un emploi : alinéa 8(1)b). [14] Les actes de procédure ont un rôle : ils servent à définir les questions en litige entre les parties [15] . Si une partie ne définit pas une question dans ses actes de procédure, cette question ne peut pas faire l’objet de débats lors de l’audition. Les parties sont censées respecter les règles applicables aux actes de procédure, de façon que chaque partie connaisse la thèse qu'elle doit réfuter lors de l’instruction. [16] Ce sont les faits soulevés et les questions circonscrites dans les actes de procédure qui permettent de déterminer la pertinence d’une preuve [17] . Il ne m’est pas loisible, en tant que juge de première instance, de tirer une conclusion à l’égard d’une question qui n’a pas été soulevée dans les actes de procédure et sur laquelle aucun élément de preuve ne portait expressément. [18] Les actes de procédure de l’instance renvoient les parties et le juge à une seule question, qui est de savoir si les frais judiciaires ou extrajudiciaires sont déductibles conformément à une seule disposition de la Loi : l’alinéa 8(1)b). Bien qu’ils soient intéressants, les précédents cités par l’avocat de l’appelante dans lesquels les tribunaux ont fondé leurs décisions sur l’article 18 ne me sont pas d’une grande utilité.
+[24] L’avocat de l’appelante a soutenu que Martin avait tiré un revenu de son emploi en tant qu’administrateur de fait auprès des sociétés Hollinger, soit le salaire, le traitement et toute autre rémunération qu’il a reçus de GMH. En sa qualité d’administrateur, il avait droit à une rémunération fixe et vérifiable. [19]
+[25] L’avocat de l’appelante a affirmé que, vu que Martin était l'âme dirigeante de l’entreprise familiale, il était également un administrateur de fait de HWH et y avait une charge. [20] Il était payé pour les services d’emploi qu’il fournissait à HWH par GMH [traduction] « en raison de la structure organisationnelle du groupe Hollinger, cette rémunération lui étant versée grâce aux revenus que tirait GMH en vertu du contrat de services conclu entre GMH et HWH ». L’avocat de l’appelante a renvoyé à l’affaire Scott c. Canada [21] à l’appui de la thèse selon laquelle le salaire versé à un employé par une société peut être considéré comme un salaire versé pour le compte d’une autre société. Cela n’est pas inhabituel, compte tenu des faits, et j’accepte cette thèse. Cependant, compte tenu des faits qui m’ont été présentés, je ne suis pas convaincu que GMH payait quelque traitement que ce soit à Martin pour le compte de HWH.
+[26] Dans sa défense et demande reconventionnelle du litige civil, Michael a allégué que, le 31 janvier 2003, Martin avait fait passer le salaire annuel qu’il recevait de GMH de 2 600 $ à 150 000 $ et que, le 6 juin 2003, le salaire de Lisa avait aussi été porté à 150 000 $. Selon Michael, les salaires étaient [traduction] « excessifs et injustifiés et vidaient illégalement GMH de ses fonds d’une manière abusive et qui portait injustement préjudice aux intérêts de Michael », et celui‑ci a demandé que ces salaires soient remboursés à GMH. L’avocat de l’appelante allègue que, dans le litige civil, Martin cherchait non seulement à obtenir un revenu d’emploi, mais aussi à se défendre contre une allégation selon laquelle il pouvait avoir à rembourser un revenu d’emploi. Dans les deux cas, selon lui, les frais judiciaires ou extrajudiciaires sont déductibles suivant l’alinéa 8(1)b) de la Loi. L’avocat de l’appelante a invoqué la décision Chagnon c. La Reine [22] , dans laquelle l’appel interjeté par le contribuable, en vue de déduire les frais judiciaires engagés pour se défendre dans une action que son ancien employeur et la société mère de celui‑ci avaient intentée pour recouvrer un montant de salaire, a été accueilli. En l'espèce, c’est Michael qui est l’auteur de l’allégation et qui exige le remboursement du revenu d’emploi, et non GMH ou toute autre société familiale ou bien un supposé ancien employeur.
+[27] L’alinéa 8(1)b) [23] de la Loi, qui s’applique aux sommes payées au cours des années d’imposition 2001 et suivantes, prévoit ce qui suit :
+(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+[…]
+b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer un montant qui lui est dû et qui, s’il le recevait, serait à inclure en vertu de la présente sous‑section dans le calcul de son revenu ou pour établir un droit à un tel montant;
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect, or to establish a right to, an amount owed to the taxpayer that, if received by the taxpayer, would be required by this subdivision to be included in computing the taxpayer’s income;
+[28] Dans l’arrêt Loo c. La Reine [24] , la Cour d’appel fédérale a expliqué l’application de l’alinéa 8(1)b) (tel qu’il était libellé avant le 26 juin 2013) :
+[7] L’alinéa 8(1)b) comporte deux volets. Le premier volet permet de déduire des frais judiciaires engagés dans une action intentée afin de recouvrer le traitement ou le salaire dû. Il vise un litige résultant de l’omission d’un employeur de payer le traitement ou le salaire dû à un employé. Dans un tel cas, il est possible qu’il n’y ait pas de litige quant au montant du traitement ou du salaire que l’employé a le droit de recevoir pour les services qu’il a fournis, mais il peut y avoir un litige factuel quant au montant du traitement ou du salaire demeurant impayé.
+[Non souligné dans l’original.]
+[8] Le deuxième volet de l’alinéa 8(1)b) vise une situation dans laquelle la question en litige est celle du droit au salaire réclamé. Le deuxième volet s’applique si, par exemple, un individu engage des frais judiciaires pour porter devant les tribunaux un litige factuel à l’égard de la question de savoir s’il a effectivement fourni les services prévus par le contrat de travail ou un litige quant au taux de salaire payable pour les services fournis. Cela inclurait, par exemple, un litige à l’égard des conditions d’emploi.
+[Non souligné dans l’original.]
+[29] Par conséquent, ce qui est déductible dans le calcul du revenu d’un contribuable tiré d’une charge ou d’un emploi, ce sont les frais judiciaires ou extrajudiciaires payés par le contribuable pour recouvrer un montant qui lui est dû, ce qui comprend les sommes dues à titre de salaire ou de traitement, ou pour établir un droit, un droit juridique à un montant dû qui, si le contribuable le recevait, serait à inclure dans le calcul de son revenu tiré d’une charge ou d’un emploi.
+[30] L’analyse de la requête introductive d’instance de Martin et Lisa n’appuie pas la thèse de l’appelante selon laquelle les frais judiciaires ou extrajudiciaires en cause ont été payés pour recouvrer un montant qui était dû à Martin et qui, s'il avait été reçu, serait inclus dans le calcul du revenu de Martin tiré d’une charge ou d’un emploi, ou pour établir un droit à un tel montant. Tout d’abord, nulle part dans ses actes de procédure dans le litige civil Martin demande‑t‑il un redressement à l'encontre d'une société familiale qui pourrait raisonnablement être considéré comme une demande de recouvrement d’un montant dû à Martin qui, s’il avait été reçu, serait inclus dans le calcul de son revenu tiré d’une charge ou d’un emploi, ou bien comme une demande visant à établir un droit à un tel montant. Le redressement demandé vise des particuliers, soit des membres de la famille, et non des sociétés. Aucune des sociétés familiales n’était visée pour le paiement à Martin d’un revenu d’emploi, et Martin n’alléguait pas qu’un montant lui était dû par l’une d’elles. Aucune des sociétés familiales n’était « mise en cause » lors du recours pour cause d’abus. Comme le juge Brossard de la Cour d’appel du Québec l’a fait observer au paragraphe 116 des motifs de la Cour :
+Qui plus est, la compagnie, qui doit nécessairement être la partie défenderesse, en vertu de l’article 241(1) de la Loi, n’est nullement visée par le remède recherché en l’espèce. Le recours ne vise que les autres actionnaires individuels tant de la mise en cause (HWH) que des trois autres sociétés. En d’autres mots, le recours en redressement ou en oppression n’est dirigé que contre ASH, GMH et 157198 Canada Inc., et ce, de façon subsidiaire seulement. Le juge de première instance était donc justifié de rejeter, même d’une façon aussi lapidaire qu’il l’a fait, la qualification de recours en oppression ou en redressement donnée à la requête, puisque la mise en cause (HWH) n’était pas visée et que les gestes reprochés n’affectaient que les intérêts des actionnaires des trois sociétés affiliées. [25]
+[Non souligné dans l’original.]
+[31] On a laissé entendre que l’action intentée par Martin visait à le remettre dans une position où il pourrait de nouveau recevoir un salaire ou un traitement de GMH ou bien déterminer qui recevrait un revenu des sociétés familiales. Il n’était pas nécessairement question pour Martin de recevoir ou d’avoir le droit de recevoir des montants de revenus lui étant dus. Il se peut fort bien que, à une certaine époque, GMH ait été la principale source de revenu de Martin. Cependant, l’alinéa 8(1)b) vise le recouvrement de montants dus ou le droit à ces montants. Le législateur emploie le mot « dû » pour décrire le terme « montant » à l’alinéa 8(1)b). En l’espèce, le « montant […] dû » vise des services qui ont été fournis dans le passé. L’alinéa 8(1)b) ne s’applique pas aux frais judiciaires ou extrajudiciaires payés relativement à l’obtention d’un emploi ou d’un droit futur. [26] Il ne s’applique pas non plus à un demandeur qui demande une compensation financière relativement à des allégations d’actes illégaux ou préjudiciables posés par un employeur, [27] ou qui souhaite protéger le droit à un emploi ou le droit de gagner un revenu. [28] L’appelante ne peut pas s’appuyer sur l’alinéa 8(1)(b) si elle allègue que les frais judiciaires ou extrajudiciaires ont été payés en vue d’obtenir le droit de tirer un revenu futur d’une charge ou d’un emploi ou bien le droit d’occuper un poste que Martin avait, mais qu’il a perdu.
+[32] La requête introductive d’instance et le litige civil connexe n’étayent pas l’argument de l’appelante selon lequel les dépenses encourues pendant le litige civil étaient des frais judiciaires ou extrajudiciaires payés pour recouvrer un montant qui était dû à Martin et qui, s’il avait été reçu, serait à inclure dans le calcul de son revenu pour 2007 tiré d’une charge ou d’un emploi, ou pour établir un droit à un tel montant. Le litige civil portait sur diverses questions, toutes d’une nature personnelle. Il s’agissait d’une dispute familiale visant le contrôle d’une entreprise familiale et empreinte d’une multitude de récriminations personnelles. Les sociétés familiales n’étaient pas visées. Michael et Sarah avaient obtenu le contrôle de l’entreprise, et Martin demandait, notamment, à titre de redressement de nature personnelle, à récupérer le contrôle de l’entreprise. Les frais judiciaires ou extrajudiciaires payés par Martin ou par sa succession n’avaient rien à voir avec la question de savoir si un montant lui était dû ou s’il avait droit à un montant d'une des sociétés familiales, lequel montant, s’il avait été reçu, serait à inclure dans son revenu tiré d’une charge ou d’un emploi.
+[33] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d’août 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2013 CCI 252
+Nº DU DOSSIER DE LA COUR : 2010-2185(IT)G
+INTITULÉ : LA SUCCESSION DU DÉFUNT MARTIN HOLLINGER
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 6 décembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 16 août 2013
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Denis A. Lapierre
+Me Elisabeth Robichaud
+Avocat de l’intimée :
+Me Pascal Tétrault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom : Me Denis A. Lapierre
+Cabinet : Sweibel Novek, S.E.N.C.R.L. – L.L.P.
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les frais judiciaires ou extrajudiciaires ont été déduits dans le calcul du revenu de Martin dans la déclaration finale de ce dernier pour 2007.
+[2] Cela a été nié dans la demande reconventionnelle présentée par Michael à l’encontre de l’action de Martin. Michael a allégué que, depuis 1992, Martin était en semi‑retraite. Dans sa réponse à l’avis d’appel, l’intimée dans le présent appel a admis que Martin avait été l’âme dirigeante de l’entreprise [traduction] « à un moment donné ». Le juge Buffoni de la Cour supérieure a conclu que Martin avait été « l'âme dirigeante » de l’entreprise jusque [traduction] « vers 1998 ou 1999, où il a commencé à réduire sa participation et à se retirer de l’entreprise » : note de bas de page 4, ci‑dessous. Comme seule Lisa a témoigné en l’espèce, j’accepte le fait qu’au moins avant les réorganisations des sociétés en 1998 et en 1999, Martin était l’âme dirigeante de l’entreprise. Je ne peux que supposer ce qui s’est passé plus tard.
+[3] Les lettres adressées à GMH et à ASH étaient à l’attention de Martin et d’Audrey Hollinger, respectivement. La copie de la lettre adressée à 198 était à l’attention de Sarah. Une copie de la lettre a aussi été envoyée à Lisa personnellement.
+[4] Hollinger c. Hollinger, 2007 QCCS 2571, no de dossier 500‑11‑021834‑037. Malgré le fait que Lisa et Barbara, de même que Martin, étaient les demanderesses dans cette action, il semble que Martin demande la déduction de tous les frais judiciaires ou extrajudiciaires payés relativement au litige. D’autres questions connexes ont aussi été soumises à la Cour, notamment une requête présentée par Martin en vue de proroger l’ordonnance de sauvegarde concernant les contrats de services entre sociétés et d’obtenir des mesures de redressement connexes.
+[5] 2009 QCCA 1004, les juges Brossard, Forget et Dalphond de la Cour d’appel du Québec. Ce n’était pas la fin du litige. Un mois après que la décision de la Cour supérieure a été rendue, Michael a intenté une action contre Lisa à titre personnel et en sa qualité de liquidatrice de la succession de Martin, ainsi que contre Barbara pour cause d’abus devant la Cour supérieure. À la suite de la décision rendue par la Cour d’appel du Québec, HWH a intenté une action contre GMH et ASH.
+[6] Kruco Inc. c. Canada, [1998] A.C.I. no 286 (QL), au par. 32, le juge Archambault.
+[7] [1997] A.C.I. no 660 (QL); 97 DTC 1459 (anglais).
+[8] [1998] A.C.I. no 286 (QL); 98 DTC 1568.
+[9] 2003 CCI 900; [2003] A.C.I. no 706 (QL);
+[10] [2002] A.C.I. no 585 (QL); 2002 D.T.C. 2185 (anglais).
+[11] [2007] A.C.I. no 407 (QL); 2007 D.T.C. 1577 (anglais).
+[12] [1985] 2 R.C.S. 46.
+[13] [2005] A.C.I. no 635 (QL); 2005 D.T.C. 5230 (anglais).
+[14] Voir la note de bas de page 23, ci-dessous.
+[15] Globtek Inc. v. The Queen, [2005] A.C.I. no 562 (QL); 2005 D.T.C. 1696 (anglais) (Cour canadienne de l’impôt (procédure générale)).
+[16] Cela n’est pas différent des articles 76 et 77 du Code de procédure civile du Québec.
+[17] Lubrizol Corp. c. Imperial Oil Ltd., [1996] 3 C.F. 40, 197 N.R. 241 (C.A.).
+[18] J.M. Voith GmbH c. Beloit Corp. (1991), [1991] A.C.F. no 503 (QL); 128 N.R. 54 (C.A.F.) (anglais).
+[19] Paragraphes 5(1) et 248(1) de la Loi.
+[20] Selon le paragraphe 248(1) de la Loi, un « employé » « accomplit les fonctions que comporte une charge ou un emploi », et une « charge » s'entend notamment du « poste d’administrateur de société ».
+[21] [1991] A.C.F. no 256 (QL); 91 D.T.C. 5268 (F.C.T.D.) (anglais), le juge Walsh; [1994] A.C.F. no 3 (QL); 94 D.T.C. 6193 (F.C.A.) (anglais), accueilli en partie pour permettre le report rétrospectif d’une perte.
+[22] 2011 CCI 268, 2011 CarswellNat 1759; 2011 D.T.C. 1205 (anglais).
+[23] L’alinéa 8(1)b) a été modifié par L.C. 2013, ch. 34, 26 juin 2013 et s'applique aux sommes payées au cours des années d'imposition 2001 et suivantes. La sous‑section à laquelle il est fait référence est la sous‑section a, « Revenu ou perte provenant d’une charge ou d’un emploi », et comprend les articles 5, 6, 7 et 8 de la Loi. L'alinéa 8(1)b) se lisait comme suit:
+(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+b) les sommes payées par le contribuable au cours de l’année au titre des frais judiciaires ou extrajudiciaires qu’il a engagés pour recouvrer le traitement ou salaire qui lui est dû par son employeur ou ancien employeur pour établir un droit à ceux-ci;
+Je n’estime pas, compte tenu des faits en l’espèce, qu’il y a une différence entre les dispositions de l’alinéa 8(1)b) qui s’appliquent maintenant et celles qui s’appliquaient aux montants payés avant 2001. Les décisions publiées sont encore pertinentes. Par conséquent, pour ce motif, et parce que les dispositions de l’alinéa 8(1)b) ont été incluses dans l'avant‑projet de loi visant à modifier la disposition depuis le 16 juillet 2010, il n’était pas nécessaire de demander aux avocats des parties de présenter d’autres observations. La disposition modifiée prévoit qu’il est possible de déduire non seulement les sommes payées par le contribuable au titre de frais judiciaires ou extrajudiciaires pour recouvrer le traitement ou le salaire qui lui est dû par un employeur ou pour établir son droit à ce traitement ou salaire, comme il est mentionné à l’alinéa 8(1)b), tel que cet alinéa s’appliquait aux montants payés avant 2001, mais aussi aux montants dus à l’employé qui, s’ils étaient reçus, seraient à inclure dans son revenu tiré d’une charge ou d’un emploi, comme les frais judiciaires ou extrajudiciaires payés pour recouvrer les prestations d’assurances prévues par une police d’assurance‑maladie ou d’assurance‑accidents offerte par l’intermédiaire d’un employeur.
+[24] Loo c. R, 2004 CAF 249; [2004] A.C.F. no 1132 (QL).
+[25] Précité. Le renvoi est au paragraphe 241(1) de la Loi canadienne sur les sociétés par actions.
+[26] L’Écuyer c. La Reine, 95 DTC 175 (C.C.I.).
+[27] Guenette c. Canada, 2004 CCI 111; 2004 DTC 2276 (anglais).
+[28] Blagdon c. Canada, [2002], A.C.I. no 79 (QL); [2003] 4 C.T.C. 107 (C.A.F.) (anglais).

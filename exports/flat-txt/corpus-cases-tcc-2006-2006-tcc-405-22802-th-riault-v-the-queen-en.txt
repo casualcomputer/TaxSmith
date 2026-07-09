@@ -1,0 +1,183 @@
+Title: Thériault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22802/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-405-22802-th-riault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-20
+
+# Thériault v. The Queen
+
+- Citation: 2006 TCC 405
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2282, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thériault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-20
+Neutral citation
+2006 TCC 405
+File numbers
+2005-1210(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1210(IT)I
+BETWEEN:
+DENIS THÉRIAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 18, 2006, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Catherine Pigeon
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the determinations by which the Minister of National Revenue disallowed the Appellant the Canada Child Tax Benefit for the periods from September 2001 to June 2002, July 2002 to June 2003, and July 2003 to October 2003, for the 2000, 2001 and 2002 base years, is allowed, and the determinations are referred back to the Minister for reconsideration and redeterminations on the basis that the Appellant was the eligible individual within the meaning of section 122.6 of the Income Tax Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of June 2007.
+Brian McCordick, Translator
+Citation: 2006TCC405
+Date: 20060720
+Docket: 2005-1210(IT)I
+BETWEEN:
+DENIS THÉRIAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the Canada Child Tax Benefit ("the CCTB"). It concerns the base years 2000, 2001 and 2002. The periods covered by the tax benefit are the periods from September 2001 to June 2002, July 2002 to June 2003 and July 2003 to October 2003. The amounts in issue under the determinations are $2,593 for the 2000 base year, $2,672 for the 2001 base year and $954.80 for the 2002 base year.
+[2] In making and ratifying the determinations for the years in issue, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact:
+[TRANSLATION]
+(a) During the periods in issue, the Appellant cohabited with Louise Gagnon in a conjugal relationship.
+(b) There are two daughters of this relationship: Natacha, born August 21, 1990; and Stéphanie, born March 9, 1992.
+(c) The Appellant is also the father of Laura-Véronique Tremblay Thériault, born August 21, 2000, from his relationship with Annie Tremblay.
+(d) During the period in issue, the Appellant and Louise Gagnon had custody of the three children.
+(e) The child tax benefits for the three children were paid to Louise Gagnon.
+[3] The facts set out in subparagraphs (a), (b), (c) and (e) were admitted to, and subparagraph (d) was admitted to in part.
+[4] The issue is whether the Minister correctly revised the Appellant's child tax benefit by determining that the overpayments amounted to $2,593 for the 2000 base year, $2,672 for the 2001 base year and $954.80 for the 2002 base year.
+Facts
+[5] The Appellant, Denis Thériault, is the father of three children whom he had with two different partners. He married Louise Gagnon and they had two children prior to their February 29, 2000, divorce. Ms. Gagnon obtained custody of her two children. The Appellant also has another child named Laura-Véronique. She was born August 21, 2000, and her mother is Annie Tremblay.
+[6] In November 2000, the Gagnon-Thériault couple resumed cohabitation as spouses. Ms. Tremblay came to live with the couple along with Laura-Véronique, but, on March 28, 2001, she left their home and entrusted the custody of Laura‑Véronique to the Appellant. The Appellant was awarded custody of Laura‑Véronique in a judgment rendered by the Quebec Superior Court in 2001.
+[7] Thus, effective March 28, 2001, the Appellant had sole custody of his daughter Laura-Véronique and was primarily responsible for her care, maintenance and upbringing from the physical, psychological, intellectual and financial standpoints.
+[8] Ms. Gagnon accepted Laura-Véronique early on, but she clearly put the Appellant on notice that she did not intend to have a parental relationship with her because she was not Laura-Véronique's mother. The reality is that the Appellant was exclusively responsible for Laura-Véronique.
+[9] Hence, the Appellant applied for the CCTB for his daughter in July 2001. He received the benefits until September 2003, when the Canada Revenue Agency ("CRA") notified him that it had re-evaluated the situation.
+[10] In November 2003, the Appellant received a notice of assessment claiming back all the amounts received as CCTB for Laura-Véronique. The Minister determined that the Appellant was not entitled to the following amounts:
+(a) 2000 base year
+$2,593.00
+(b) 2001 base year
+$2,672.00
+(c) 2002 base year
+$954.80
+$6,219.80
+[11] The amounts above were simultaneously paid to Ms. Gagnon during the same period. In 2004, Ms. Gagnon and the Appellant separated, and she left him custody of all three children.
+Applicable provisions
+122.6. In this subdivision,
+. . .
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time,
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+252(1). In this Act, words referring to a child of a taxpayer include
+. . .
+(c) a child of the taxpayer's spouse or common-law partner.
+Regulations
+6301. (1) For the purposes of paragraph (g) of the definition "eligible individual" in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+Factors
+6302. For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+Analysis
+[12] Under paragraph (f) of the definition of "eligible individual" in section 122.6,
+where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent.
+Here, by reason of the legal fiction in paragraph 252(1)(c), Ms. Gagnon is considered Laura-Véronique's mother even though she is not her biological mother. However, paragraph (g) states that paragraph (f) can be rebutted and does not apply in circumstances prescribed by regulation.
+[13] Regulation 6301 contemplates four different situations in which the mother or an eligible individual declares in writing to the Minister that the father must be considered the parent who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants.
+[14] Neither Ms. Gagnon nor the Appellant made a declaration in writing or an application in this regard. In Cabot v. The Queen, Docket 97‑3206(IT)I, August 24, 1998, [1998] T.C.J. No. 725 (QL), Rip J. held that the four circumstances described in Regulation 6301 are not exhaustive.
+[15] Regulation 6302 can also serve to rebut the presumption set forth in paragraph (f), supra. At paragraphs 8 and 9 of his judgment, Rip J. wrote as follows:
+[8] A plain reading of the relevant sections of the Act and the Regulations suggests no intention by the draftsman that the presumption in section 122.6 is limited to the circumstances listed in subsection 6301(1) of the Regulations. None of the circumstances set out in Regulation 6301(1) contains a single factor that one may reasonably consider to have anything to do with the care and upbringing of children. The circumstances in Regulation 6301(1) are merely procedures to facilitate the administration of the child tax benefit. Factors that are to be considered in determining what constitutes care and upbringing of a child are set out in Regulation 6302 of the Regulations . . .
+[9] The draftsman did not intend that only the four circumstances in subsection 6301(1) of the Regulations apply to reverse the presumption in section 122.6. Section 6302 of the Regulations sets out the criteria to determine which person qualifies as the eligible individual where more than one person applies for the child tax benefit with respect to a child. It also serves as a guide to rebut the presumption when a male person applies for the child tax benefit.
+[Footnote omitted.]
+[16] Thus, has the Appellant established that he is the eligible individual in that he was primarily responsible for the care and upbringing of Laura‑Véronique as contemplated by paragraph (b) of section 122.6?
+[17] At the hearing, I heard the testimony of the Appellant's loved ones, who clearly and unambiguously stated that the Appellant was solely responsible for the care and upbringing of his daughter. He assumed all the responsibilities set out in section 6302 of the Regulations.
+[18] On the same topic, the Appellant's mother made reference to Ms. Gagnon's unfavourable attitude toward Laura-Véronique. The Appellant could not count on Ms. Gagnon: When he was away, he had to entrust his daughter either to his mother or to his ex-sister-in-law; the person presumed by the Minister to be her mother categorically refused to take on the fundamental responsibility that any mother, presumed or otherwise, would have to take on. When neither of these people were free, the Appellant would take his daughter with him.
+[19] As for the Appellant's ex-sister-in-law, she corroborated the version described by the Appellant's mother by describing a similar situation. In addition, she said that the Appellant looked after washing and feeding his daughter because Ms. Gagnon refused to do so.
+[20] Not only was Ms. Gagnon indifferent to Laura‑Véronique's needs, but in addition, she evinced what can only be described as a revolting attitude: indeed, the evidence disclosed that if the Appellant left home to work or attend evening courses, he had to entrust Laura-Véronique to other members of his family, even if Ms. Gagnon was home.
+[21] On these very unusual facts, I find that the Appellant was the "eligible individual" with respect to Laura-Véronique. Accordingly, the appeal is allowed and the determinations are referred back to the Minister for reconsideration and redetermination.
+Signed at Ottawa, Canada, this 20th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of June 2007.
+Brian McCordick, Translator
+CITATION:
+2006TCC405
+COURT FILE NO.:
+2005-1210(IT)I
+STYLE OF CAUSE:
+Denis Thériault v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+January 18, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+July 20, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Catherine Pigeon
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+City:
+Catherine Pigeon
+Bergeron, Martin, Tessier et Falaise
+Drummondville, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

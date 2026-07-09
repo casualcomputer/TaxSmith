@@ -1,0 +1,77 @@
+Title: Ross v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/24478/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-208-24478-ross-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-04
+
+# Ross v. The Queen
+
+- Citation: 2007 TCC 208
+- Decision date: 2007-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2174, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-04
+Neutral citation
+2007 TCC 208
+File numbers
+2002-3914(IT)G
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3914(IT)G
+BETWEEN:
+DONALD M. ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM OF $5,080.01.
+Signed at Ottawa, Canada, this 4th day of April 2007.
+"Alan Ritchie"
+Taxing Officer
+Citation: 2007TCC208
+Date: 20070404
+Docket: 2002-3914(IT)G
+BETWEEN:
+DONALD M. ROSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Ritchie, Alan, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Friday, March 30th, 2007. It follows a Judgment of the Honourable Justice Sarchuk of this Court dated April 22nd, 2005, which allowed the appeal, with costs to the Appellant. The Appellant was represented by Mr. Wilfrid Lefebvre, Q.C., and the Respondent by Mrs. Donna Dorosh.
+[2] There were two items in dispute on the Appellant's Bill of Costs.
+Witness Fee of $50.00
+[3] Counsel for the Respondent argued that there was no evidence that the amount of $50 had been paid to the witness (counsel for the Appellant confirmed
+that it had not - see next paragraph), and that the Appellant should therefore not be entitled to recoup an amount or an expense that had not actually been incurred and could not be supported by proof of payment.
+[4] Counsel for the Appellant took the position that this amount should be allowed to the party that arranged for the attendance of the witness at the hearing, and noted that it was his intention to remit the fee to the witness after the fact. I have some difficulty with this position, which I will address below.
+[5] It is clear from the Minutes of Proceedings in the Court file that the witness did in fact appear at the hearing. Tariff A of the Tax Court of Canada Rules (General Procedure) (hereinafter, the "Rules") provides, at 4(1):
+4. (1) A witness, other than a witness who appears to give evidence as an expert, is entitled to be paid by the party who arranged for his or her attendance $50 per day, plus reasonable and proper transportation and living expenses.
+[6] I agree with the assertion of counsel for the Appellant that the $50 witness fee is essentially a flat fee that the witness who appears is entitled to. I do not consider it a disbursement as described at 1.(2) of Tariff B. Such disbursements must be substantiated with receipts or other evidence of payment, further to subsection 157.(3) of the Rules:
+(3) No disbursements other than fees paid to the Registry shall be taxed or allowed unless it is established that the disbursement was made or that the party is liable for it.
+[7] If the Appellant were claiming travel expenses for that witness, those expenses would have to be supported by receipts.
+[8] Having said that, it is clear that the witness is entitled to the fee, which is to be paid "by the party who arranged for his or her attendance". Payment of the fee to the witness should not be conditional on the party who arranges for their attendance being successful at trial, nor on it being allowed on the Bill of Costs. It was not clear whether or not the fee would be remitted to the witness even if the claim were disallowed at this taxation - but that is a matter for the Appellant and the witness to resolve.
+[9] I will allow the $50 witness fee and I am confident that in this case it will in fact be remitted to the witness who appeared. Generally speaking, the party arranging for the attendance of the witness should remit the fee to the witness at the time he/she appears. If that had been done in this case, there would have been no question as to its propriety as a claim on the Bill of Costs.
+Travel Expenses
+[10] Counsel for the Appellant is based in Montréal, and was required to travel to Toronto for discovery as well as the hearing before Justice Sarchuk. He noted that the Appellant was entitled to choose his representative, and further that his firm did not have experts on taxation matters working out of their Toronto office. The travel expenses were clearly supported by receipts and other documentation. He also confirmed that these amounts had been directly charged to his client, and were not part of the "overhead" of his firm.
+[11] Counsel for the Respondent cited the case of Jurchison v. R., [2000] 1 C.T.C. 2762, 2000 DTC 1660 (TCC) and [2001] 3 C.T.C. 33, 2001 DTC 5301 (FCA), in which the travel costs for Respondent's counsel from Ottawa to Toronto were disallowed as the Department of Justice had a large office in Toronto and could have assigned the file to one of those lawyers. She noted that the Appellant likely benefited from hiring Mr. Lefebvre given his expertise, but that the Respondent should not be liable for reimbursing his travel expenses from another city.
+[12] Jurisprudence regarding travel expenses for counsel and other representatives is unclear at best, and in some cases inconsistent. I find the travel expenses for counsel for the Appellant to travel to Toronto to be reasonable - they are not lavish, and are supported by receipts. The matter before Justice Sarchuk was one of many issues of contention between the Appellant and the Canada Revenue Agency, involving substantial sums of money. The Appellant was entitled to choose a highly qualified representative, and choosing counsel from Montréal seems not to be unreasonable.
+Conclusion
+[13] I have taxed the Appellant's Bill of Costs and allow the amount of $5,080.01, as submitted.
+Signed at Ottawa, Canada, this 4th day of April 2007.
+"Alan Ritchie"
+Taxing Officer

@@ -1,0 +1,109 @@
+Title: Johnston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30813/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-177-30813-johnston-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-29
+
+# Johnston v. The Queen
+
+- Citation: 2012 TCC 177
+- Decision date: 2012-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7556, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnston v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-29
+Neutral citation
+2012 TCC 177
+File numbers
+2011-3026(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3026(IT)I
+BETWEEN:
+ANNE JOHNSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 10, 2012, at London, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Terry Norris
+Counsel for the Respondent:
+Paul Klippenstein
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2008 taxation year is dismissed in accordance with the reasons for judgment attached hereto.
+Signed at Toronto, Ontario, this 29th day of May 2012.
+"Patrick Boyle"
+Boyle J.
+Citation: 2012 TCC 177
+Date: 20120529
+Docket: 2011‑3026(IT)I
+BETWEEN:
+ANNE JOHNSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Mrs. Anne Johnston claimed a medical expense tax credit (“METC”) in 2008 in respect of the cost of acquiring and installing a hot tub to be used as a hydrotherapy pool for her daughter Erin who is severely and significantly disabled with cerebral palsy‑related spastic quadriplegia and other conditions.
+[2] Erin is the adult daughter of the Appellant, Anne Johnston, and her husband, Brian Johnston. Erin has suffered from multiple disabilities since birth. She has cerebral palsy‑related spastic quadriplegia, contractures of limbs and is dependent on a wheelchair for mobility. The contracture of her limbs limits her physical capability to move and to control her muscle movements. She has had surgery to cut the tendons in both her legs. Erin is blind, has hearing loss in both ears, and is only somewhat able to feed herself with help. Erin has supportive, caring and loving parents, family and friends.
+[3] The Johnstons’ home has been altered for Erin’s benefit. There is a lift outside as well as a ramp, a bedroom and bathroom for her have been set up on the main floor, barriers to her ability to crawl about or to move in her wheelchair have been removed.
+[4] Erin’s doctor recommended daily hydrotherapy in an appropriate hot tub pool to assist with her muscle stimulation and relaxation, breathing and blood circulation, to relieve her pain and suffering, and to enhance her muscle mobility and flexibility.
+[5] After Erin turned 18, she was no longer able to use the hydrotherapy facilities that had previously been available to the Johnstons locally in the Sarnia area. Upon the advice of her doctor, the Johnstons set out to acquire and install an appropriate pool for hydrotherapy. They were able to determine that a particular make and model of available hot tub had the appropriate capacity, jet locations, pressure and volume to best help Erin. The cost, including installation, only slightly exceeded the $10,000 annual limit.
+[6] Erin’s father lifts her into the pool 5 days a week for a one‑hour session. Erin’s professional therapists have trained Mr. Johnston to be able to complete this additional daily therapy. The Johnstons report that this hydrotherapy is successful in providing their daughter with significant and noticeable relief, both physically and in her mental outlook and attitude for the day.
+[7] The evidence is clear that the Johnstons acquired and use the hot tub pool solely for Erin’s recommended treatments and benefits. There is no suggestion that they otherwise would have wanted or used a hot tub. Their only thoughts were of Erin’s needs, comfort and relief. They had not even considered the possibility of a tax credit when acquiring the pool for Erin.
+[8] Paragraph 118.2(2)(l.2) of the Income Tax Act (the “Act”) reads as follows:
+(2) Medical expenses – For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+. . .
+(l.2) for reasonable expenses relating to renovations or alterations to a dwelling of the patient who lacks normal physical development or has a severe and prolonged mobility impairment, to enable the patient to gain access to, or to be mobile or functional within, the dwelling, provided that such expenses
+(i) are not of a type that would typically be expected to increase the value of the dwelling, and
+(ii) are of a type that would not normally be incurred by persons who have normal physical development or who do not have a severe and prolonged mobility impairment;
+[9] Prior to the amendments to this provision which added subparagraphs (i) and (ii) in 2005, the expenses in a case such as Erin’s would have qualified. Erin lacks normal physical development and has a severe and prolonged mobility impairment. The hot tub hydrotherapy enhances her mobility and functioning within the home.
+[10] However, in 2005, Parliament amended the METC provision in question. Subparagraphs (i) and (ii) were added upon the recommendation of the Department of Finance in response to decisions of this Court and of the Federal Court of Appeal which permitted expenses for hot tubs and hardwood flooring to qualify in otherwise appropriate circumstances.
+[11] Subparagraph (i) provides that, in addition to otherwise qualifying for the METC, a home renovation or alteration expense must not be of a type that would typically be expected to increase the value of the home in question. There was some evidence admitted before the Court that the values of hot tubs and pools are very subjective depending upon potential purchasers and can often limit the available market or not increase the value of the property. This was the advice given to the Johnstons by a professional realtor. In this case, I am satisfied that the nature of the installation of the Johnstons’ hot tub was not of a type that would be expected to increase the value of their home and subparagraph (i) does not disqualify the hot tub expenses in this case.
+[12] Subparagraph (ii) is however more challenging and problematic. In essence, it requires that qualifying home renovations or alterations be of a type that one would not normally expect a person of normal physical development and mobility to have done. While there was no evidence led either way, I must take judicial notice that many fully able bodied Canadians put similar hot tubs in their homes and yards. In my opinion, a typical hot tub generally available in the retail market such as the Johnstons’ is not able to satisfy this final requirement.
+[13] It is perhaps unfortunate that, in a case such as Erin Johnstons’, this last restriction applies regardless of the purpose or extent of the use of the hot tub for her hydrotherapy sessions. The Johnstons and their agent, Mr. Norris, may well be correct in questioning a policy that does not provide relief even though the primary purpose of having the hot tub installed was Erin’s needs and even though the hot tub is only used for her needs. However, Parliament’s legislated intention could not be more clear. This is evidenced by the Department of Finance’s Explanatory Notes and the Budget papers accompanying the amendments to the legislation in 2005. This is also consistent with the decision of Paris J. in Hendricks v. The Queen, 2008 TCC 497, 2008 DTC 4852, and my decision in Barnes v. The Queen, 2009 TCC 429, 2009 DTC 1282, in 2009. Hendricks dealt with the installation of hardwood floors benefiting a person suffering from severe asthma. Barnes involved a taxpayer’s daughter in similar circumstances to those of Erin for whom a swimming pool had been installed for her needs and sole use upon the recommendation of her doctors. This Court is unable to ignore or override the clear statutory provisions enacted by Parliament. This is the case even if, as suggested by the Appellant’s agent, the amendments are overly restrictive to respond to previous cases of perceived abuse which does not arise in this case.
+[14] This is not to say that, in an appropriate case, a hot tub or a swimming pool especially designed or altered for a person for therapeutic physiotherapy purposes will be unable to qualify.
+[15] Mrs. Johnston’s appeal fails the statutory test for the single reason that subparagraph (ii) imposes a requirement that the Johnstons’ hot tub does not meet. The bar has been clearly set high by Parliament.
+[16] Mrs. Johnston’s agent also raised discrimination arguments based upon the equality provisions of the Canadian Charter of Rights and Freedoms (the “Charter”). His arguments were based upon the unequal and discriminatory treatment of Erin Johnston. However, I am unable to see any discrimination or unequal treatment of Erin as compared to other Canadians. No other Canadian, whether a child or adult, whether a dependent or not, and whether disabled or not, is entitled to claim a hot tub in such circumstances as a METC. As I understood it, the essence of the complaint under the Charter was that no tax assistance was available in respect of her recommended and necessary medical expense for her hydrotherapy. Neither defining which medical expenses will qualify for the METC nor changing the requirements of those qualifications constitutes any form of prohibited Charter discrimination. Indeed it is Parliament’s job to do precisely that with respect to the establishment and ongoing delivery of social programs and assistance. It is not open to this Court to substitute its judgment for where such lines should be drawn or redrawn.
+[17] The Court regrets that it is unable under the provisions of the Act to afford Mrs. Johnston the relief she has asked for. The Court wishes Erin and her parents continued success with her treatments. It was clear from both of her parents’ evidence that Erin’s continued relief is genuinely more important to them than their tax claim.
+[18] The law requires me to dismiss this appeal.
+Signed at Toronto, Ontario, this 29th day of May 2012.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2012 TCC 177
+COURT FILE NO.: 2011‑3026(IT)I
+STYLE OF CAUSE: ANNE JOHNSTON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: April 10, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: May 29, 2012
+APPEARANCES:
+Agent for the Appellant:
+Terry Norris
+Counsel for the Respondent:
+Paul Klippenstein
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

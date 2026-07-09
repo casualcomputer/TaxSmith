@@ -1,0 +1,212 @@
+Title: Heaps c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28526/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-130-28526-heaps-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-18
+
+# Heaps c. La Reine
+
+- Citation: 2008 CCI 130
+- Decision date: 2008-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1255, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heaps c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-18
+Référence neutre
+2008 CCI 130
+Numéro de dossier
+2007-3369(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3369(IT)I
+ENTRE :
+RONALD HEAPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Marie Heaps (2007-3371(IT)I),
+le 5 février 2008, à Victoria (Colombie-Britannique).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelant :
+M. Murray Wiseman
+Avocate de l’intimée :
+Me Christa Akey
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement modifiés ci-joints, l’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu est accueilli et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation étant donné que l’appelant, Ronald Heaps, a le droit de déduire 75 p. 100 des frais d’intérêts déduits par la société de personnes Heaps au titre du prêt hypothécaire pour les années d’imposition 2002 et 2003. L’appelant a en outre droit à des dépens dont la somme est fixée à 75 $.
+Signé à Ottawa, Canada, ce 18e jour de juin 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de juillet 2011.
+Marie-Christine Gervais.
+Dossier : 2007-3371(IT)I
+ENTRE :
+MARIE HEAPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Ronald Heaps (2007-3369(IT)I),
+le 5 février 2008, à Victoria (Colombie-Britannique).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Murray Wiseman
+Avocate de l’intimée :
+Me Christa Akey
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement modifiés ci-joints, l’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu est accueilli et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation étant donné que l’appelante, Marie Heaps, a le droit de déduire 25 p. 100 des frais d’intérêts déduits par la société de personnes Heaps au titre du prêt hypothécaire pour les années d’imposition 2002 et 2003. L’appelante a en outre droit à des dépens dont la somme est fixée à 75 $.
+Signé à Ottawa, Canada, ce 18e jour de juin 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de juillet 2011.
+Marie-Christine Gervais.
+Référence : 2008CCI130
+Date : 20080618
+Dossier : 2007-3369(IT)I
+ENTRE :
+RONALD HEAPS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2007-3371(IT)I
+MARIE HEAPS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge Sheridan
+[1] Les appelants, Ronald et Marie Heaps, interjettent appel à l’égard des nouvelles cotisations établies pour leurs années d’imposition 2002 et 2003[1]. Ils étaient représentés à l’audience par M. Murray Wiseman, un comptable agréé qui était leur comptable pendant toutes les périodes pertinentes quant aux présents appels.
+[2] En mars 1994, M. et Mme Heaps ont acheté une grande parcelle sur l’île de Vancouver (la « propriété ») pour le prix de 630 000 $. Ils ont payé le prix d’achat au moyen d’un versement de 350 000 $ provenant du produit de la vente de leur ancienne résidence et par un solde hypothécaire de 280 000 $ dû aux vendeurs[2]. En 1999, ils ont refinancé le solde hypothécaire de 280 000 $ dû aux vendeurs en empruntant 305 000 $ à la Hong Kong and Shanghai Banking Corporation (« HSBC »). Au moment de l’achat, il y avait une résidence construite sur une partie de la propriété. Ils ont acheté la propriété en ayant l’intention de vivre dans la résidence et de subdiviser la portion restante de la propriété pour la revendre.
+[3] M. et Mme Heaps ont pris possession de la propriété en mai 1994. En juin 1994, ils ont conclu une entente de coentreprise avec un certain Hugo Hucker[3], un promoteur immobilier qui devait apporter au projet son expérience de mise en valeur immobilière et assumer une portion de l’obligation hypothécaire contractée par M. et Mme Heaps en faveur des vendeurs. Il s’est avéré que M. Hucker s’est soustrait à ses obligations, laissant M. et Mme Heaps poursuivre le projet de subdivision en tant que société de personnes dans une proportion de 75 p. 100 et de 25 p. 100, respectivement. L’abandon de M. Hucker a rendu la situation difficile pour M. et Mme Heaps, mais ils ont persévéré et ont finalement réussi à obtenir de la ville l’autorisation de subdiviser la parcelle et ils ont achevé le projet ci-après décrit.
+[4] La propriété a été divisée en cinq parcelles[4]. La parcelle sur laquelle se trouvait leur résidence comprenait une superficie de 908,4 mètres carrés sur la superficie totale de la propriété. La superficie restante de la propriété a été divisée en quatre parcelles d’une superficie variant de 579 mètres carrés à 1 616 mètres carrés. Trois des parcelles subdivisées ont été vendues en 2002 et la quatrième en 2003.
+[5] Pour ces années, la société de personnes Heaps a déduit des frais d’intérêts au titre du prêt hypothécaire s’élevant respectivement à 106 785 $ et 35 595 $[5], étant donné que le solde hypothécaire dû aux vendeurs (et par la suite le prêt hypothécaire auprès de HSBC) servait exclusivement à financer la portion de la propriété qui a été subdivisée et vendue.
+[6] Le ministre a refusé la déduction et il a déclaré que [traduction] « c’est l’utilisation directe des fonds empruntés qui décide du caractère déductible des intérêts. L’utilisation directe des fonds avait pour but de conclure l’achat de la propriété en entier, laquelle incluait la résidence personnelle. Par conséquent, la portion des intérêts qui se rapporte à la résidence personnelle de la propriété n’est pas déductible[6] ». Le ministre a émis l’hypothèse selon laquelle la parcelle sur laquelle était située la résidence de M. et Mme Heaps comprenait 46,76 p. 100 de la propriété[7] et il a refusé un pourcentage équivalent des intérêts payés au titre du prêt hypothécaire.
+[7] L’avocate de l’intimée s’appuie sur l’arrêt The Queen v. Bronfman Trust[8] pour soutenir que l’ « utilisation directe » des fonds provenant du prêt garanti par hypothèque avait pour but l’achat de la propriété en entier. L’avocate a toutefois souligné que, dans l’affaire Bronfman Trust, la Cour suprême du Canada a souscrit à l’adoption d’une démarche « saine » lors de l’examen des faits de chaque affaire[9]. En examinant la preuve dans la présente affaire, l’avocate a soutenu que rien dans la convention d’achat ou dans la convention de coentreprise n’indiquait une attribution des montants empruntés à la portion de la propriété pouvant être subdivisée. Elle a souligné en outre le témoignage de M. Heaps selon lequel il n’aurait pas acheté la propriété si elle n’avait pas comporté une résidence.
+[8] M. Wiseman, pour le compte de l’appelant, a en outre incité fortement la Cour à adopter une démarche saine, citant à titre d’exemple Wilson v. Canada, (M.N.R.)[10]. Je partage l’opinion de M. Wiseman selon laquelle les faits de cette affaire sont plutôt similaires à ceux en l’espèce. Dans l’affaire Wilson, le contribuable avait acheté une parcelle d’une acre. Les trois quarts de la parcelle devaient être utilisés à titre de résidence; le quart restant avait été mis en valeur afin d’être utilisé pour l’entreprise du contribuable, à savoir un dépanneur. Étant donné que le prêt hypothécaire du contribuable grevait à titre de garantie la parcelle en entier, le ministre n’a accepté la déduction demandée que dans la proportion d’un quart de tous les frais d’intérêts payés au titre du prêt hypothécaire, soit la portion utilisée pour l’entreprise par rapport à la propriété en entier.
+[9] Le contribuable a interjeté appel. Le juge Christie a résumé dans les termes suivants le fondement de la décision du ministre :
+[…]
+On a soutenu, au nom de l’intimé, que bien que le terrain jouisse d’une double qualification du point de vue du zonage, il s’agit d’une seule et unique parcelle de terrain indivise achetée par l’appelant dans le cadre d’un ensemble d’opérations reliées entre elles. De plus, l’hypothèque grève le terrain d’une acre tout entier. Tout cela est juste et de prime abord justifie l’approche retenue par l’intimé pour calculer la nouvelle cotisation d’impôt[11].
+[10] Le juge Christie, en accueillant l’appel, a déclaré ce qui suit :
+[…] ces nouvelles cotisations ne peuvent pas être confirmées à la lumière des intentions et des objectifs de l’appelant tels que nous les avons déjà décrits. Je considère que ses objectifs lui donnent le droit, en vertu de l’alinéa 20(1)c) de la Loi de l’impôt sur le revenu, d’effectuer les déductions demandées. Il n’est peut-être pas nécessaire d’ajouter que le fait que le remboursement de l’argent emprunté soit garanti par une hypothèque grevant la résidence personnelle de l’emprunteur n’exclut pas en soi la possibilité, en vertu de l’alinéa 20(1)c), de déduire, dans le calcul du revenu du contribuable les intérêts au titre de l’hypothèque. C’est le but auquel est affecté l’argent emprunté qui décide du caractère déductible ou non des intérêts dus et non pas la manière dont le prêt a été obtenu[12].
+[11] À mon avis, on pourrait tenir les mêmes propos dans la présente affaire : les nouvelles cotisations établies par le ministre ne peuvent être maintenues compte tenu du témoignage de M. Heaps quant aux intentions et aux objectifs que son épouse et lui avaient à l’égard des fonds empruntés. Le ministre a accepté que l’intention de M. et Mme Heaps avait toujours été de subdiviser la propriété et de vendre les parcelles nouvellement créées[13] et il ne conteste que l’utilisation faite des fonds provenant du prêt hypothécaire. J’accepte le témoignage de M. Heaps selon lequel l’objectif quant aux fonds empruntés était de pouvoir acheter la portion de la propriété qui devait être subdivisée et vendue. Étant donné que cela ne s’était pas encore produit au moment de l’achat, M. et Mme Heaps étaient aux prises avec le même problème pratique que celui auquel avait été aux prises le contribuable dans l’affaire Wilson : avant la subdivision officielle, l’hypothèque pouvait être enregistrée seulement contre le titre de ce qui était alors la propriété en entier. Quant à la prétention de la Couronne à l’égard de l’absence de mention dans la convention d’achat et dans la convention de coentreprise de la façon selon laquelle les fonds du prêt hypothécaire devaient être utilisés, un examen de la convention de coentreprise montre plutôt le contraire. Par exemple, la clause 3.04 exclut la parcelle résidentielle du champ d’application de la coentreprise. La clause 7.01 oblige la coentreprise à appliquer toute rentrée d’argent premièrement [traduction] « à rembourser toute dette (notamment le prêt hypothécaire) ». La clause 8.03 établit que la dette hypothécaire est la seule obligation de la coentreprise et la clause 8.04 prévoit expressément que la portion résidentielle de la propriété [traduction] « ne fait pas partie de l’obligation hypothécaire ». Il ressort clairement de ces termes qu’au moment où M. et Mme Heaps ont acheté la propriété et ont manifesté l’intention de la subdiviser, ils avaient décidé d’attribuer les fonds empruntés expressément à la superficie pouvant être subdivisée. La convention de coentreprise n’était pas un document préparé après coup pour consolider une demande ultérieure de déduction.
+[12] Le fait que M. et Mme Heaps aient acheté la propriété en ayant l’intention d’en garder une portion pour leur usage personnel à titre de résidence ne fait pas en sorte qu’ils avaient moins l’intention d’utiliser les fonds empruntés aux fins d’une entreprise consistant à subdiviser la portion restante. Leur attribution du produit de la vente de leur ancienne résidence, s’élevant à 350 000 $, à l’achat de la portion résidentielle de la propriété m’apparaît raisonnable, en particulier compte tenu de l’actuelle proportion de la parcelle résidentielle sur la propriété en entier. Le ministre a tenu pour acquis que la parcelle résidentielle comprenait approximativement 46,76 p. 100 de la propriété. M. Heaps était incapable de comprendre pourquoi le ministre avait tiré cette conclusion et il a confirmé ce qui ressort de façon évidente d’un examen du plan municipal de la propriété[14] inclus dans le recueil de documents de l’intimée : la parcelle résidentielle comprenait en fait 20 p. 100 de la propriété. De toute façon, compte tenu de ma conclusion selon laquelle les fonds provenant du prêt hypothécaire ont été utilisés exclusivement aux fins d’une entreprise, pour l’achat de la parcelle de la propriété qui pouvait être subdivisée, la proportion exacte n’a pas d’effet quant aux présents appels; toutefois, si cette conclusion s’avérait erronée, je suis convaincue que M. et Mme Heaps ont démontré que l’hypothèse émise par le ministre quant à la dimension de la portion résidentielle de la propriété est erronée.
+[13] L’avocate de l’intimée a soutenu que la présente affaire était plus semblable à deux autres décisions de la Cour rendues sous le régime de la procédure informelle, Connor c. Canada[15] et Tsiantoulas c. Canada[16], dans lesquelles la Cour a confirmé le refus du ministre d’accepter la déduction demandée par les contribuables à l’égard de toutes dépenses liées à leurs prêts hypothécaires. À mon avis, on peut facilement faire la différence entre ces affaires et la situation de M. et Mme Heaps.
+[14] Dans la décision Connor, la Cour a rejeté l’argument du contribuable selon lequel il avait le droit de déduire toutes les dépenses liées aux frais d’emprunt pour l’achat de sa maison, laquelle comprenait une suite locative représentant 40 p. 100 de la maison. Le juge Rowe a conclu que, selon les faits de cette affaire, la propriété était un bien « indivis »[17] et, par conséquent, il a décidé qu’une « répartition raisonnable »[18] des dépenses liées au prêt hypothécaire devait être faite selon l’utilisation personnelle et l’utilisation pour l’entreprise des fonds empruntés pour acheter la propriété. Lorsqu’il a rejeté l’appel, le juge Rowe a examiné l’affaire Wilson, mais il a fait une distinction d’avec cette décision en affirmant que dans cette affaire « on peut adopter un mode de répartition différent en raison des différentes utilisations imposées par le zonage et du fait de la distinction qui était inhérente au terrain dont la partie classée zone commerciale donnait sur une grande route »[19].
+[15] Dans Tsiantoulas, le contribuable avait acheté une ferme sur laquelle il vivait et où il exploitait une entreprise d’élevage de dindes. Le contribuable demandait la déduction de tous les frais d’emprunt du prêt hypothécaire obtenu pour l’achat de la ferme. Lorsqu’il a rejeté cet argument, le juge Bowman (avant qu’il devienne juge en chef) a conclu expressément que la propriété ne pouvait pas être subdivisée. Il a conclu, selon les faits de l’espèce, ce qui suit :
+[…] Nous avons affaire à l’achat d’un bien unique, comprenant à la fois une résidence personnelle et un bien commercial. L’alinéa 4(1)a) de la Loi de l’impôt sur le revenu dispose, essentiellement, que dans le calcul du revenu provenant d’une source particulière, on ne peut attribuer à cette dernière que les déductions, ou les parties de ces déductions, qui peuvent raisonnablement être considérées comme applicables à cette source. Les derniers mots de l’alinéa 20(1)c) mettent également en lumière le critère du caractère raisonnable. Le caractère raisonnable est une question de fait et il requiert que l’on fasse preuve de jugement et de bon sens. Je ne crois pas qu’il soit raisonnable, lorsque l’on achète un bien comme la ferme dont il est question en l’espèce, un bien qui comporte des éléments à la fois personnels et commerciaux, d’attribuer la totalité des frais d’intérêt à l’élément commercial de ce bien[20].
+[16] Le juge Bowman a en outre examiné la décision Wilson, mais il a fait une distinction étant donné que dans cette affaire la Cour disposait de « preuves convaincantes »[21] qui justifiaient que les frais d’emprunt ne soient pas répartis entre l’utilisation personnelle et l’utilisation aux fins de l’entreprise.
+[17] Pour résumer la présente affaire, M. et Mme Heaps ont acheté la propriété en ayant l’intention de la subdiviser en une parcelle résidentielle et en quatre parcelles aux fins de revente. Au moment de l’achat, il était possible suivant la loi de procéder à une subdivision, sous la seule réserve du respect des conditions établies par la municipalité. L’approbation nécessaire a finalement été obtenue et le projet a été réalisé comme prévu. Le fait que M. et Mme Heaps vivaient sur la portion résidentielle de la propriété pendant que la propriété était en voie d’être subdivisée, et après qu’elle l’a été, ne rend pas moins importante l’utilisation directe des fonds du prêt hypothécaire obtenu pour l’achat de la portion de la propriété pouvant être subdivisée – le fait que la garantie à l’égard des fonds empruntés grevait la propriété en entier ne le fait pas non plus. Il ne faut pas oublier que « [l]a garantie donnée pour le prêt n’a rien à voir avec les fins pour lesquelles l’argent a été emprunté[22] ». M. et Mme Heaps ont attribué un montant raisonnable à l’achat comptant de leur résidence; leur intention et leur objectif quant aux fonds empruntés étaient d’acheter la portion de la propriété pouvant être subdivisée.
+[18] Dans ces circonstances, je suis convaincue que toutes les dépenses liées au prêt hypothécaire sont raisonnablement attribuables à une utilisation commerciale et sont par conséquent déductibles. Les appels interjetés à l’égard des années d’imposition 2002 et 2003 sont accueillis et sont renvoyés au ministre pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+1. Ronald Heaps a le droit de déduire 75 p. 100 des frais d’intérêts déduits par la société de personnes Heaps au titre du prêt hypothécaire pour les années d’imposition 2002 et 2003;
+2. Marie Heaps a le droit de déduire 25 p. 100 des frais d’intérêts déduits par la société de personnes Heaps au titre du prêt hypothécaire pour les années d’imposition 2002 et 2003.
+[19] À la suite du prononcé du jugement dans les présents appels, les appelants ont écrit à la Cour par l’entremise de leur représentant, Murray Wiseman, comptable agréé, pour demander l’adjudication des dépens à l’égard de leurs appels. Comme je n’avais pas traité de la question des dépens dans mon jugement, dans sa lettre du 4 avril 2008, M. Wiseman a soutenu que les dépens devraient être adjugés aux appelants compte tenu de ce qui suit :
+[traduction]
+a) les appelants ont eu gain de cause devant la Cour de l’impôt dans les jugements rendus par l’honorable G.A. Sheridan, signés à Ottawa le 6 mars 2008;
+b) les sommes en litige relativement à la déductibilité de frais d’intérêts par Ron et Marie Heaps sont de 106 785 $ et de 35 595 $, respectivement;
+c) les sommes en cause étaient importantes, car elles avaient une incidence sur l’impôt sur le revenu exigible par ailleurs des appelants;
+d) aucune offre de règlement n’a été faite lors du processus d’examen relatif à la vérification initiale ou pendant le processus d’appel, et le ministère de la Justice n’a pas non plus fait d’offre de règlement avant l’audience;
+e) le traitement d’une quantité importante de documents, la tenue de nombreuses réunions et l’échange d’une correspondance considérable avec les fonctionnaires de l’Agence du revenu du Canada, tant à l’étape de la vérification qu’à celle de l’appel, de même que la préparation en vue de l’instruction et la comparution lors de l’audience, ont demandé beaucoup de travail;
+f) les questions en litige étaient complexes uniquement parce qu’elles concernaient plusieurs parties qui formaient une coentreprise et qu’il fallait se fonder sur des documents juridiques pour établir si des intérêts étaient déductibles;
+g) la procédure a été particulièrement longue en raison du fait que les questions visaient les déclarations de revenus des appelants pour les années 2002 et 2003 et qu’elles n’ont été tranchées qu’en mars 2008 par le jugement rendu par l’honorable G.A. Sheridan. La procédure a également été plus longue que prévu parce que l’agente des appels a accepté de nous accorder un délai pour que nous puissions fournir la jurisprudence qui, à notre avis, était pertinente. Lorsque nous avons appelé l’agente des appels avant l’échéance pour pouvoir nous entretenir avec elle au sujet de la jurisprudence, on nous a informés qu’elle était absente et qu’elle ne serait de retour que dans deux semaines. La semaine suivante, nous avons reçu du ministre les avis de ratification des nouvelles cotisations. Lorsque nous avons communiqué avec le chef des appels, celui‑ci s’est excusé pour ce qui s’était passé, mais nous a dit qu’il ne pouvait rien faire pour nous à ce stade‑ci et a confirmé qu’il nous faudrait interjeter appel devant la Cour de l’impôt. Nous voulions que l’agente des appels examine la décision Wilson v. Canada de la Cour de l’impôt, soit la décision sur laquelle la juge présidant l’audience semble s’être fondé en grande partie pour rendre sa décision;
+h) nous croyons que l’Agence du revenu du Canada a omis de tenir compte d’un élément d’information très important ou refusé de se fonder sur ce dernier. Pendant l’instruction, lorsque le fonctionnaire de l’Agence du revenu du Canada a été contre‑interrogé par le soussigné, il a affirmé qu’aucune importance ou presque n’avait été accordée à la convention de coentreprise. Cette convention de coentreprise était le principal document juridique qui décrivait brièvement quelle était l’intention relative à la dette en question et qui en était responsable. De plus, le ministère de la Justice nous a informés avant l’instruction qu’il ne croyait pas que la décision de la Cour de l’impôt que nous invoquions, Wilson v. Canada, était pertinente et a affirmé que ses arguments étaient plus pertinents. Ce n’est pas la conclusion à laquelle la juge présidant l’audience est arrivée;
+i) le seul élément du processus qui, selon nous, était inapproprié ou inutile est le fait que l’agente des appels n’a pas respecté le délai dont nous avions convenu pour examiner la jurisprudence mentionnée précédemment sur laquelle nous nous sommes fondé.
+[20] L’intimée s’est opposée à l’adjudication des dépens pour les raisons suivantes : les appels n’étaient pas complexes, le volume de travail requis n’était pas très important et il n’y avait eu que peu de communication entre les parties. L’intimée a en outre fait valoir que l’adjudication des dépens était nécessaire étant donné que des décisions divergentes avaient été rendues sur la question. Subsidiairement, l’intimée a soutenu que, s’il devait y avoir adjudication des dépens, il ne devrait y avoir qu’un seul mémoire de frais pour les deux appels.
+[21] L’article 10 des Règles de la Cour canadienne de l’impôt (procédure informelle) (les « Règles ») prévoit ce qui suit :
+10(1) Les dépens sont laissés à la discrétion du juge qui règle l’appel, dans les circonstances établies au paragraphe 18.26(1) de la Loi, qui prévoit ce qui suit :
+« 18.26(1) Dans sa décision d’accueillir un appel visé à l’article 18, la Cour :
+a) rembourse à l’appelant le droit de dépôt qu’il a acquitté en vertu de l’alinéa 18.15(3)b);
+b) peut, conformément aux modalités prévues par ses règles, allouer les frais et dépens à l’appelant si le jugement réduit de plus de la moitié le total des montants en cause ou le montant des intérêts en cause, ou augmente de plus de la moitié le montant de la perte en cause. »
+(2) Le juge peut ordonner le paiement d’un montant forfaitaire, au lieu des dépens taxés.
+[…]
+[22] Les droits de dépôt des appelants leur ont dûment été remboursés en application de l’alinéa 18.26(1)a).
+[23] Pour les motifs exposés ci‑après, je suis convaincue que les appelants ont aussi droit à des dépens en vertu de l’alinéa 18.26(1)b); la seule question qui se pose est de savoir quelle doit être la somme des dépens et quelle forme ceux‑ci doivent prendre.
+[24] Je suis d’accord avec l’avocate de l’intimée pour dire que la question en litige dans les appels n’était pas complexe. Il fallait trancher la question en fonction des faits de l’espèce. Comme il y avait des précédents qui appuyaient les arguments invoqués par les deux parties, on ne peut pas reprocher aux fonctionnaires de l’Agence du revenu du Canada de s’être fondé sur les décisions qui appuyaient davantage les hypothèses de fait formulées par le ministre. Toutefois, il me semble que si les fonctionnaires avaient examiné plus attentivement les explications et les documents fournis par les appelants à l’étape de l’opposition, l’affaire aurait pu être réglée à l’amiable.
+[25] Pour ce qui est du travail requis, il ne fait aucun doute qu’un contribuable qui n’est pas représenté par un avocat à davantage de travail à faire que la Couronne. En l’espèce, les appelants ont dû recourir aux services de leur comptable, M. Wiseman, pour l’examen de leurs cotisations, de leurs dossiers d’impôt et de la jurisprudence et pour la présentation de leurs arguments, à l’étape de l’opposition et à l’audience. Sans aucun doute, la majeure partie des dépenses que les appelants ont supportées pour interjeter appel de leurs nouvelles cotisations se rapportaient aux honoraires de M. Wiseman.
+[26] La difficulté que les appelants doivent toutefois affronter est que les Règles ne prévoient pas l’adjudication de dépens pour les services fournis par une autre personne qu’un avocat et que, de toute façon, elles limitent les dépens à certains types de frais et de débours. L’article 11 des Règles prévoit que les honoraires suivants peuvent être adjugés pour les « services d’un avocat » :
+a) la préparation de l’avis d’appel ou la prestation de conseils portant sur l’appel – 185 $;
+b) la préparation de l’audience – 250 $;
+c) l’audience – 375 $ pour chaque demi‑journée ou fraction de celle‑ci;
+d) la taxation des dépens – 60 $.
+[27] Comme le montre ce qui précède, même lorsqu’un appelant est représenté par un avocat, les sommes allouées ne permettent toutefois pas de rembourser les frais juridiques supportés par un contribuable dans les faits. Quoi qu’il en soit, il est bien établi en droit[23] que le terme « avocat », tel qu’il est employé à l’article 11, ne comprend pas une personne représentant un appelant sous le régime de la procédure informelle. Par conséquent, aucuns dépens ne peuvent être alloués à l’égard des honoraires de M. Wiseman.
+[28] Pour ce qui est des débours, (pour les appels téléphoniques, les télécopies, les photocopies, etc.), l’article 11.1 permet l’adjudication de dépens pour les débours visant les services d’un représentant, mais limite ceux‑ci à la moitié des honoraires adjugés pour les services d’un avocat qui sont énoncés à l’article 11 des Règles.
+[29] Les Règles prévoient l’adjudication de dépens pour les autres types de dépenses qui découlent de l’appel. Les paragraphes 12(1) et (1.1) des Règles prévoient le paiement d’une somme de 75 $ par jour et des frais de déplacement et de subsistance « raisonnables et appropriés » pour un appelant représenté par un représentant qui est appelé à témoigner par l’intimée. M. Heaps a témoigné pour le compte des deux appelants; il a été contre‑interrogé par l’avocate de l’intimée. Quant à ses frais de déplacement et de subsistance, comme les appelants demeurent à quelque 20 kilomètres de Victoria et l’audience a duré moins d’une journée, les montants visés ne sont pas importants.
+[30] Compte tenu de ce qui précède, j’adjuge des dépens en vertu du paragraphe 10(2) des Règles à l’égard des deux appels que je fixe à 150 $, laquelle somme sera répartie également entre les appelants à raison de 75 $ pour Ronald Heaps et de 75 $ pour Marie Heaps.
+Les présents jugements modifiés et motifs du jugement modifiés remplacent les jugements et motifs du jugement datés du 6 mars 2008.
+Signé à Ottawa, Canada, ce 18e jour de juin 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de juillet 2011.
+Marie-Christine Gervais.
+RÉFÉRENCE : 2008CCI130
+Nos DES DOSSIERS DE LA COUR : 2007-3369(IT)I; 2007-3371(IT)I
+INTITULÉ : Ronald Heaps et Marie Heaps
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 5 février 2008
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT MODIFIÉ : Le 18 juin 2008
+COMPARUTIONS :
+Représentant des appelants :
+M. Murray Wiseman
+Avocate de l’intimée :
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les appels, dans les dossiers 2007-3369(IT)I et 2007-3371(IT)I, ont été entendus ensemble sur preuve commune.
+[2] Pièce A-3.
+[3] Pièce A-1.
+[4] Pièce A-2.
+[5] Selon l’annexe « A » de la réponse à l’avis d’appel.
+[6] Pièce R-5.
+[7] Réponse à l’avis d’appel pour Marie Heaps, paragraphe 15(v); pour Ronald Heaps, paragraphe 14(u).
+[8] 87 D.T.C. 5059 (C.S.C.).
+[9] Précité, à la page 5067.
+[10] 88 D.T.C. 1418 (C.C.I.).
+[11] Précitée, à la page 1419.
+[12] Précitée.
+[13] Réponse à l’avis d’appel, paragraphe 15(e) pour Marie; réponse à l’avis d’appel, paragraphe 14(e) pour Ronald.
+[14] Pièce A-2.
+[15] [1995] A.C.I. no 13.
+[16] [1994] A.C.I. no 984.
+[17] Connor, précitée, au paragraphe 10.
+[18] Précitée, au paragraphe 12.
+[19] Précitée, au paragraphe 11.
+[20] Tsiantoulas, précitée, au paragraphe 11.
+[21] Précitée, au paragraphe 12.
+[22] Précitée, au paragraphe 11, citant le principe énoncé dans l’arrêt The Queen v. Bronfman Trust, 87 D.T.C. 5059 (C.S.C.).
+[23] Munro v. Canada, 98 D.T.C. 6443 (C.A.F.).

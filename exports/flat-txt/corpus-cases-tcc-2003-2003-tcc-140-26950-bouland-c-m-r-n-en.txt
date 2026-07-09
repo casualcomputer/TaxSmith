@@ -1,0 +1,158 @@
+Title: Bouland c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26950/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-140-26950-bouland-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2003-03-19
+
+# Bouland c. M.R.N.
+
+- Citation: 2003 TCC 140
+- Decision date: 2003-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 560, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouland c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-19
+Neutral citation
+2003 TCC 140
+File numbers
+2002-3929(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3929(EI)
+BETWEEN:
+FRANÇOISE BOULAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+INFOSPA INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 28, 2003 at Montreal, Quebec
+Before:
+The Honourable Deputy Judge J. F. Somers
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Representative for the Intervenor:
+Marie-Aimée Cantin
+René G. Hébert
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of March 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC140
+Date: 20030319
+Docket: 2002-3929(EI)
+BETWEEN:
+FRANÇOISE BOULAND,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+INFOSPA INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Somers, T.C.C.
+[1] This appeal was heard at Montreal, Quebec, February 28, 2003.
+[2] The Appellant appealed from the decision of the Minister of National Revenue (the "Minister") that the employment with the Payor, Infospa Inc., from August 6 to December 28, 2001, is excluded from insurable employment within the meaning of the Employment Insurance Act because there was not an arm's-length relationship between the Payor and the Appellant.
+[3] Subsection 5(1) of the Employment Insurance Act (the "Act") reads, in part, as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+[4] Subsections 5(2) and 5(3) of the Employment Insurance Act read in part as follows:
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[5] Section 251 of the Income Tax Act reads, in part, as follows:
+Section 251: Arm's length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+...
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+...
+[6] Paragraph 252(4)(a) of the Income Tax Act reads as follows:
+(a) words referring to a spouse at any time of a taxpayer include the person of the opposite sex who cohabits at that time with the taxpayer in a conjugal relationship and
+(i) has so cohabited with the taxpayer throughout a 12-month period ending before that time, or
+(ii) would be a parent of a child of whom the taxpayer would be a parent, if this Act were read without reference to paragraph (1)(e) and subparagraph (2)(a)(iii)
+and, for the purposes of this paragraph, where at any time the taxpayer and the person cohabit in a conjugal relationship, they shall, at any particular time after that time, be deemed to be cohabiting in a conjugal relationship unless they were not cohabiting at the particular time for a period of at least 90 days that includes the particular time because of a breakdown of their conjugal relationship;
+[7] The burden of proof is on the Appellant. The Appellant must show, on a balance of probabilities, that the Minister's decision is unfounded in fact and in law. Each case stands on its own merits.
+[8] In making his decision, the Minister relied on the following presumptions of fact outlined in paragraph 5 of the Reply to the Notice of Appeal, which were admitted or denied by the Appellant:
+(a) The Payor was incorporated on August 7, 2001, and provides a consulting service for spa design; it also repairs and sells parts. (admitted)
+(b) The Payor's only shareholder was Mr. René Hébert, the Appellant's common-law spouse. (admitted)
+(c) Mr. Hébert and the Appellant both worked for Trévi Pools and had experience in the hot tub field. (admitted)
+(d) The Payor was in its first year of operation. (admitted)
+(e) The Payor operates a seasonal business whose activities usually cover April and May for hot tub openings and from the end of September to the end of November for hot tub closings. (admitted)
+(f) Mr. Hébert and the Appellant were the Payor's only employees. (admitted)
+(g) The Payor's business operated out of the Appellant and Mr. Hébert's personal residence. (admitted)
+(h) Mr. Hébert was responsible for project consultation and design and repaired the hot tubs. (admitted)
+(i) During the period in question, the Appellant was responsible for emptying and closing hot tubs. (denied)
+(j) From the beginning of the period until mid-September, the Appellant prepared a list of potential clients and send them information flyers. (admitted)
+(k) Mr. Hébert personally rented two vehicles: a Eurovan containing all the parts and equipment he used, and a Suzuki used mainly by the Appellant. (admitted)
+(l) The Payor reimbursed Mr. Hébert for the cost of gas used in the two vehicles. (admitted)
+(m) The Payor claimed that the Appellant drove between 500 and 600 kilometres per day, although the mileage logs for the Suzuki, in November and December, showed 997 kilometres and 3,435 kilometres per month respectively. (denied)
+(n) The Payor stated that the Appellant worked mainly Saturday, Sunday and Monday, but the Appellant mentioned that she worked Monday to Saturday and very rarely on Sundays. (denied)
+(o) The Payor claimed that the Appellant worked approximately 60 hours per week, but the Appellant mentioned that she worked between 38 and 40 hours per week. (denied)
+(p) The Appellant received weekly pay of $300 gross without any monitoring by the Payor of the hours actually worked. (denied)
+(q) The Appellant was paid by cheque each week except for the weeks in December 2001 for which she received no payment from the Payor. (denied)
+(r) In 2001, most of the Payor's income was from hot tub closures and there was nothing to indicate how much time was spent in this activity by Mr. Hébert or the Appellant. (denied)
+(s) The Payor did not submit a list of service contracts carried out by Mr. Hébert during the period in question. (denied)
+(t) Given the limited number of clients (approximately 100) and the low income ($21,524) earned in 2001, there is no justification for hiring the Appellant full-time during the period in question. (denied)
+[9] The Payor was incorporated on August 7, 2001, and since that date has operated a consulting and project design service for hot tubs. It also repairs and sells parts. The Payor's office is located in the personal residence of René Hébert and the Appellant.
+[10] The Payor's sole shareholder was René Hébert, common-law spouse of the Appellant. René Hébert and the Appellant were the Payor's only two employees; there was therefore no arm's-length relationship between them. They had acquired experience in the spa field as part of their previous employment.
+[11] The Payor's most busy periods were usually April and May for hot tub openings and from the end of September to the end of November for closings.
+[12] Mr. René Hébert was responsible for project design, repaired hot tubs and sold parts for them.
+[13] During the period in question, according to her testimony, the Appellant cleaned the hot tubs, checked the water quality and brought any problems to the attention of René Hébert.
+[14] The Appellant was also responsible for promoting the hot tubs. From the beginning of the period in question until mid-September, the Appellant prepared a list of potential clients and sent them information flyers.
+[15] The Payor had the use of two vehicles, a Eurovan containing all the parts and equipment and a Suzuki used mainly by the Appellant. The Payor assumed the cost of the gas used by both vehicles.
+[16] The Appellant testified that she drove between 300 and 400 kilometres per day with her vehicle, and sometimes up to 500 or 600 kilometres; the province of Quebec was the territory covered. To get to client's homes, she sometimes had to drive approximately two hours and spent two hours at the client's home.
+[17] She confirmed that she worked from Monday to Friday each week and often Saturday and sometimes Sunday, and worked 38 to 40 hours and often 50 to 60 hours per week. Mr. Hébert testified that she worked 20 to 60 hours per week, from Monday to Friday and sometimes Sunday, also working in the business' office, which is equipped with two computers. Her pay was set at $300 per week.
+[18] The Appellant confirmed that she was paid each week except the weeks in December 2001, for which she was not paid.
+[19] Repair services were based on invoices and not written contracts; however written contracts were used for hot tub closings.
+[20] Mr. Hébert recognized the client list for October and November 2001, as it appears in Exhibit I-2. He also recognized that, for the months of August to December 2001, income was $21,524.00, as indicated in Exhibit I-3.
+[21] In Attorney General of Canada v. Jencan Ltd., [1997] F.C.J. 876, Isaac C.J., of the Federal Court of Appeal said the following at paragraph 37 of his decision:
+... Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)(c)(ii)-by proceeding to review the merits of the Minister's determination-where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)(c)(ii); or (iii) took into account an irrelevant factor.
+Paragraph 5(3)(b) of the Employment Insurance Act has the same effect as subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act.
+[22] The Appellant was not paid for the month of December 2001. An individual working at arm's length with the Payor would not have done so without being paid.
+[23] The Appellant's Record of Employment (Exhibit I-1) does not reflect reality. It is obvious, according to the evidence presented, that the Appellant did not work 40 hours per week for every week during the period in question.
+[24] If the area of activity in which the worker had been hired is taken into consideration, the Appellant's period of employment, which ended at the end of December 2001, did not correspond to the Payor's actual needs.
+[25] The income of $21,524 earned in 2001 did not justify hiring the Appellant full-time for the period in question.
+[26] In light of all the circumstances of the case, the Court is convinced that the Appellant did not succeed in establishing, on the balance of probabilities, that the Minister acted wilfully or arbitrarily.
+[27] The conditions of work would not have been similar if the Appellant and the Payor had an arm's-length relationship.
+[28] The appellant's employment is accordingly excepted from insurable employment under paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act.
+[29] The appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of March, 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day-Savage, Translator
+Jurisprudence consulted
+Attorney General of Canadav. Jencan Ltd., [1997] F.C.J. 876
+Ferme Émile Richard et Fils Inc. and. Minister of National Revenue. (December 1st, 1994), 178 N.R. 361

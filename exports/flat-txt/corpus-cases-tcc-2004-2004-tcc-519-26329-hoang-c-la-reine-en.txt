@@ -1,0 +1,138 @@
+Title: Hoang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26329/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-519-26329-hoang-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-07-22
+
+# Hoang c. La Reine
+
+- Citation: 2004 TCC 519
+- Decision date: 2004-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3276, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hoang c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-22
+Neutral citation
+2004 TCC 519
+File numbers
+2003-2961(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2961(IT)I
+BETWEEN:
+TUAN HOANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 13, 2004, at Montréal, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Raoul Boissé
+Counsel for the Respondent:
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeal from the determinations of Child Tax Benefit for Catherine, the daughter of the Appellant, for the months of July 2000 to June 2001 with respect to the 1999 base taxation year, and for the months of July and August 2001 for the 2000 base taxation year, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of July 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 5th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC519
+Date: 20040722
+Docket: 2003-2961(IT)I
+BETWEEN:
+TUAN HOANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from the determinations of Canada Child Tax Benefit made on November 20, 2002, by the Minister of National Revenue (the "Minister"), with respect to the Appellant's daughter, Catherine, for the months of July 2000 to June 2001 for the 1999 base taxation year, and for the months of July and August 2001, for the 2000 base taxation year.
+[2] The issue at bar is whether the Appellant was the parent who was the primary caregiver and educator of her child for the period beginning July 2000 and ended August 2001.
+[3] The Appellant, her father, and her brother-in-law testified for the Appellant. Mr. Jean-Guy Blanchard and Catherine Blanchard testified at the request of the Respondent.
+[4] The Appellant and Mr. Jean-Guy Blanchard are the parents of Catherine, who was born on April 6, 1987.
+[5] With respect to the period at issue, the following is set out in the Notice of Appeal:
+[TRANSLATION]
+[...]
+The periods beginning August 1999 and ended June 2000, and beginning August 2000 and ended June 2001, were the periods during which my daughter started her first two years of high school in Montréal. Because her father lives in Montréal, and he is a retired professor, I asked him to register our daughter for school and to follow up with the school, because he was available, and I was working all day. He took this opportunity to claim that he was our daughter's legal guardian, and he gave the school his address as the place of residence of my daughter. Nonetheless, I have always kept my daughter at my place, as usual, at least 80% of the time. This fact has not changed, and nothing could change it, even with an absurd decision of the said Tax Centre.
+In her third year of high school, beginning in August 2001, my daughter went to school in Laval, and, as such, my daughter's home address was in Laval;
+[6] The written testimony at the hearing reads as follows for the portion covering the period at issue:
+[TRANSLATION]
+[...]
+In September 1999, Catherine's father and I agreed to send Catherine to a private school - Collège Rachel - and to share the expenses.
+Because he was retired and lived near Collège Rachel, I asked him to register Catherine, because I was tied up with my work at the office. He gave the school his address as Catherine's address. This detail appeared to me to be unimportant at the time. In fact, my address was also on file, and we were both receiving information from the school and Catherine's report cards.
+We also agreed to have Catherine spend one full week at his place, because it was close to the school, and one full week at my place. It was easy for me to drop Catherine off at school in the morning on my way to work and to pick her up on my way back to take her home. This arrangement continued through the school holidays, except for summer vacation, and continued from September 1999 to June 2001, for two school years, or 22 months.
+During the first year, 1999-2000, I paid for all of Catherine's tuition fees for Collège Rachel by monthly cheque, for a total of $1,860. Mr. Blanchard later reimbursed me for half of this amount. We also went to select Catherine's uniform together.
+For the second year, 2000-01, Mr. Blanchard paid for Catherine's tuition fees for Collège Rachel, and I also reimbursed him for half of the total amount.
+In 1999, Catherine spent approximately 222 days with me at 117 De Lisieux and 143 days with her father in Montréal.
+In 2000, Catherine spent approximately the same amount of time with her father as she did with me at De Lisieux - approximately 182 days with each parent.
+[7] The Appellant read her statement, and this constituted her testimony. In short, she stated that during the period at issue, she and her daughter's father had shared custody of their daughter.
+[8] She filed a bundle containing five mailings from Collège Rachel as Exhibit A-45. Three of the envelopes contained her daughter's report cards for the 2000-2001 school year. Another envelope contained a general information notice for the end of the school year. The fifth letter was dated May 16, 2003, and was signed by the Director General of Collège Rachel. It reads as follows:
+[TRANSLATION]
+Further to your recent request, this is to inform you that we have established that the contracts for educational services for 1999-2000 and 2000-2001 for Catherine Blanchard-Hoang were duly completed and signed by Mr. Jean-Guy Blanchard, the father, and that the student's home address listed in the document is 3555 Berri Street, apartment 805, in Montréal.
+During the 1999-2000 and 2000-2001 school years, Catherine (07-04-1987) resided with Mr. Blanchard. He paid for all the costs relating to his daughter's education. All correspondence, authorizations for outings, and notices of meetings or other events were sent to Mr. Blanchard. If Catherine was absent or late, we contacted Mr. Blanchard, as needed, for confirmation and verification.
+However, in the section of the contracts for educational services for 1999-2000 and 2000-2001 reserved for the mother's information (in this case, your information), the father had filled in the mother's information, and indicated, in the space provided for this information, that a copy of any correspondence and report cards was to be sent to you. This was done during Catherine's schooling at Collège Rachel.
+[9] During his testimony, Mr. Blanchard explained that, when Catherine started attending Collège Rachel, the plan was to have shared custody, whereby Catherine would spend one week at his home and one week at the Appellant's home. This plan was not carried out. He lived approximately five minutes' walk from the school. Catherine, therefore, lived with him most of the time. He was a retired professor, and he helped her with her school work. He prepared meals, did laundry, and mended clothes. He gave Catherine the large bedroom; he slept in the living room on a sofa bed.
+[10] He confirmed that he shared the cost of the tuition fees with the Appellant.
+[11] Catherine was not present at the time her father gave his testimony. He left the courtroom during his daughter's testimony. Catherine confirmed that, while she attended Collège Rachel, she lived with her father. She would see her mother on some weekends. She also confirmed that her father did her laundry. She felt that her father had taken care of everything while she attended Collège Rachel.
+[12] She also confirmed that she had travelled with her mother and her mother's parents during the summer vacation.
+Conclusion
+[13] I have no doubt that the Appellant loves her daughter very much, but this is to determine which of the two parents was the primary caregiver of their child during a given period.
+[14] It is my opinion that, on the balance of probabilities, the father, not the mother, was the primary caregiver of their child during the period at issue.
+[15] The letter from the Director of Catherine's school explains why the Appellant received copies of her daughter's report cards. This letter also confirms the testimony of Mr. Blanchard and of his daughter.
+[16] The father and the young girl also testified. Their testimony corresponded on all points.
+[17] As I mentioned during the hearing, it seems clear that the initial plan was to have shared custody. However, through a combination of events, this plan was not, in fact, carried out. What matters in assessing a parent's eligibility for Child Tax Benefits is what actually occurred, rather than what could have happened.
+[18] Consequently, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 22nd day of July 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 5th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC519
+COURT FILE No.:
+2003-2961(IT)I
+STYLE OF CAUSE :
+Tuan Hoang and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 13, 2004
+REASONS FOR JUDGMENT:
+The Honourable Judge Louise Lamarre Proulx
+DATE OF JUDGMENT:
+July 22, 2004
+APPEARANCES:
+For the Appellant:
+Raoul Boissé (Agent)
+For the Respondent:
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

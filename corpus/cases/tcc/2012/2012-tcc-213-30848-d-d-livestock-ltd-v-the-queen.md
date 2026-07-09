@@ -1,0 +1,182 @@
+---
+title: "D & D Livestock Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30848/index.do"
+last_modified: "2012-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 213"
+citation2: ""
+neutral_citation: "2012 TCC 213"
+decision_date: "2012-06-19"
+language: "en"
+item_id: "30848"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7407
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:20:12.919000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b47b262165048e8c3ab50bdd9d166a85f516438c4fb351d27532f9acf770970"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D & D Livestock Ltd. v. The Queen
+
+- Citation: 2012 TCC 213
+- Decision date: 2012-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7407, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D & D Livestock Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-19
+Neutral citation
+2012 TCC 213
+File numbers
+2011-137(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-137(IT)G
+BETWEEN:
+D & D LIVESTOCK LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion dealt with by written submissions
+By: The Honourable Justice Randall S. Bocock
+Participants:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+Darcie Charlton
+Gregory Perlinski
+____________________________________________________________________
+ORDER
+Following consideration of the Respondent’s motion and the Appellant’s responding materials both filed by written representations, requesting the Court to compel the Appellant to answer Follow-Up Questions on Written Examination for Discovery, to extend the time to communicate with the Hearings Coordinator as set out in an Order of this Court dated November 2, 2011, and to require the Appellant to pay the costs of this Motion,
+IT IS ORDERED THAT:
+(i) the Appellant be compelled to provide answers to the unanswered questions identified as Question 10 (parts (l) – (o)) and Question 12 (parts (s) to (x)) (so identified in the Motion materials and Reasons for Order) and that such responses be delivered within 30 days from the date of the issuance of this decision and Order;
+(ii) the time to communicate with the hearings coordinator under the subsisting timetable order be extended until 30 days after receipt of the responses to the written questions ordered above; and,
+(iii) costs are awarded against the Appellant fixed in the amount of $300 payable to the Respondent within 30 days of the date of this Order.
+Signed at Ottawa, Canada, this 12th day of June 2012.
+“R.S. Bocock”
+Bocock J.
+Citation: 2012 TCC 213
+Date: 20120612
+Docket: 2011-137(IT)G
+BETWEEN:
+D & D LIVESTOCK LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bocock J.
+[1] The Respondent has instituted a motion for an Order compelling the Applicant to provide written responses to examinations for discovery queries conducted by written questions.
+[2] The Respondent in its motion materials states that the appeal relates to a determination under section 55(2) of the Income Tax Act (the “Act”) as to whether a transaction or a series of transactions was entered into for the purposes of reducing the amount of a capital gain in the Appellant’s hands. Subsection 55(2) of the Act re-characterizes dividend income as capital gains if the taxpayer has entered into a transaction event or series of transactions, the purpose of which is, or are, to reduce the portion of capital gains attributable to something other than safe income.
+[3] The Respondent further states that its Reply refers to a total of 15 steps in the alleged series of transactions (the “Series of Transactions”). The Respondent argues that assumptions 7(g)(xi) through (xiv) contained in its Reply relate to Steps 12 through 15 of the Series of Transactions. The Respondent further submits that the following unanswered questions asked of the Appellant (the “Unanswered Questions”) relate to the Series of Transactions:
+Question 10 (parts (l) – (o))
+Do you admit the Series of Transactions, which are outlined more particularly at the attached appendix A, including the following transactions: (…)
+l) Step 12 — On May 31, 2005 at 10:00 a.m., HLL disposes of 1000 class A common share in Newco 3 to Newco 2, and
+vi) the ACB of the shares was reported to be $1,018,658;
+vii) the PUC of the shares was reported to be $517,727; and
+viii) the parties filed a joint election pursuant to ss.85(1) of the Income Tax Act in respect of this transaction;
+m) Step 13 — On May 31, 2005 at 11:00 a.m., Newco 3 is wound up;
+n) Step 14 — On May 31, 2005 at 12:00 noon, HLL disposes of 1,100 class A common shares of Newco 2 to HLAL, and
+i) the FMV of the shares was reported to be $7,050,000;
+ii) the ACB of the shares was reported to be $4,483,658;
+iii) he PUC of the shares was reported to be $1,983,293; and
+iv) the parties file a joint election pursuant to ss.85(1) of the Income Tax Act in respect of this transaction;
+o) Step 15 — On June 1, 2005 at 9:00 a.m., HLAL sells Newco 2 RBTL for $7,050,000. HLAL reports its disposition of Newco 2 as follows:
+Proceeds: $7,050,000
+ACB: $4,483,658
+Capital Gain $2,566,342
+If you do not admit these statements of fact, please explain why you have not admitted this statement of fact and provide a detailed explanation of what the correct facts are.
+Answer: If is not admitted that the transactions attached at Appendix A are a Series of Transactions. With respect to transactions described in paragraphs 10(a) to 10(o), I provide the following comments:
+(…)
+(l) This transaction took place after the wind-up of the Appellant and therefore is not relevant.
+(m) This transaction took place after the wind-up of the Appellant and therefore is not relevant.
+(n) This transaction took place after the wind-up of the Appellant and therefore is not relevant.
+(o) This transaction took place after the wind-up of the Appellant and therefore is not relevant.
+Follow up question: These statements of fact are from paragraph 10(xi) – x(iv) of the Reply to Notice of Appeal, which, in part, form the basis for position taken by the Minister in this appeal. You have not moved to strike those portions of the Reply. The Respondent’s position is that a question is relevant if it is relevant to the issues raised in the pleadings, including the Reply. Based on this, please confirm that you continue to refuse to answer the question and that your only basis for not answering is your assertion that it is not relevant.
+Question 12 ((s) - (x))
+Please provide all documentation directly supporting the following occurrences:
+s) May 31, 2005, 10:00 a.m.: Heatherington Livestock Ltd disposes of 1000 class A common shares in Heatherington Holdings (Alberta) Ltd to 118313 Alberta Ltd;
+t) May 31, 2005, 10:00 a.m.: Joint election filed pursuant to ss.85(1) of the Income Tax Act;
+u) May 31, 2005, 11:00 a.m.: Heatherington Holdings (Alberta) Ltd is wound up;
+v) May 31, 2005, 12:00 noon: Heatherington Livestock Ltd disposes of 1,100 class A common shares of 118313 Alberta Ltd to Heatherington Livestock (Alberta) Ltd;
+w) May 31, 2005, 12:00 noon: Joint election filed pursuant to ss.85(1) of the Income Tax Act; and
+x) June 1, 2005, 9:00 a.m.: Heatherington Livestock (Alberta) Ltd sells 118313 Alberta Ltd to Roberge Brothers Transport Ltd for $7,050,000.
+Answer: Please find attached the documents listed in paragraphs 12(a) through 12(r) in Tabs A through R. The documents indicated in paragraphs 12(s) through 12(x) are not relevant to the matters at issue.
+Follow up question: This question relates directly to the facts in sub-paragraphs 10(xi) – x(iv) of the Reply to Notice of Appeal, which, in part, form the basis for position taken by the Minister in this appeal. You have not moved to strike those portions of the Reply. The Respondent’s position is that the request is relevant because it is relevant to the issues raised in the pleadings, including the Reply. Based on this, please confirm that you continue to refuse to answer the question and that your only basis for not answering is your assertion that it is not relevant.
+[4] The Appellant’s responding motion materials submit that the Unanswered Questions are not relevant to the issues framed in the pleadings for the following reasons:
+13. It is clear [emphasis added] from the pleadings, and not in issue between the parties, that the following requirements of subsection 55(2) were satisfied:
+(a) A corporation resident in Canada (the Appellant) received a taxable dividend (Stock dividend #2) from HHL (Newco #3 in the Reply) in respect of which it was entitled to a deduction under subsection 112(1);
+(b) Stock Dividend #2 was received by the Appellant as part of a transaction or event or a series of transactions or events;
+(c) The amount of Stock Dividend #2 was $517,427.
+(d) Although not specifically pled, the amount of Stock Dividend #2 was added to the adjusted cost base of the shares of HHL (Newco #3) owned by the Appellant pursuant to paragraph 53(1)(b) of the Income Tax Act, as it read for the 2005 taxation year.
+(e) As a result, one of the purposes of Stock Dividend #2 was to effect a significant reduction in the portion of the capital gain on the shares of HHL (Newco #3) that, but for the dividend, would have been realized on a disposition at fair market value of the shares of HHL (Newco #3) immediately before the dividend.
+[emphasis added]
+It is noted by the Court that sub-paragraph (d) contains the preamble clause, “Although not specifically pled…” subsequent to the preceding opening sentence of the same paragraph …“It is clear from the pleadings…”
+[5] The Respondent, on the other hand, has plainly pled in sub-paragraph 10(g) and (k) of its Reply that the purpose and goal of the Series of Transactions, pled and defined by the Respondent, include Steps 1 through 15, inclusive.
+[6] The applicable legal test for relevancy and the related latitude of a motion judge when hearing a motion to compel a discovery question response has been thoroughly enumerated by Bowman, A.C.J., as he then was, in the case of Baxter v. Her Majesty The Queen 58 DTC 3497. Specifically the Court states at paragraph 12 that:
+[…] The threshold level of relevancy is quite low. Counsel should not be inhibited in the questions he or she asks simply because the question may, standing alone, seem irrelevant. […]
+[7] In addition the Court further states that:
+[…] in ruling on such applications, should not unduly restrict an Examination by excluding questions broadly related to the issues when it appears that their relevance may well be resolved by other evidence not before the Court on the application.
+[8] Similarly at paragraph 13 of Baxter, after consideration of all the authorities, the Court summarizes the principles that should be applied when considering relevancy as follows:
+a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+[9] In applying the foregoing principles, reference must also be had to the scope of examination permitted under the Tax Court of Canada Act and also the applicable rules of this Court related to the general procedure. Upon examination, Section 95(1) states:
+A person examined for discovery shall answer […] any proper question relevant to any matter in issue in the proceeding or any matter made discoverable […]
+[10] It is not the purpose of this Court upon motion to determine whether the alleged facts and assumptions in the pleadings are probative or determinative of the allegations they represent, but whether, prima facie, the discovery questions posed in respect of those facts and assumptions so alleged offend the principles in Baxter. On the basis of the pled assumptions, the Series of Transactions are not patently unrelated nor prima facie lacking in nexus to the application and operation of subsection 55(2) of the Act.
+[11] Factually, the winding up of the Appellant and the related evidence, testimony and conclusions may well demolish the Minister’s assumptions, but that conclusion must be argued and decided at trial before the panoramic eye and attentive ear of the trial judge viewing and hearing all of the adduced evidence after being tasked specifically with determining such issues at trial.
+[12] In summary, based upon the principles established in Baxter, it is clear that the Unanswered Questions on the face of the pleadings are not patently irrelevant nor are they abusive or designed to embarrass or harass the party or to delay the case. Therefore, given the principles enunciated in Baxter, this Court orders that the Appellant be compelled to provide answers to the Unanswered Questions and that such responses be delivered within 30 days from the date of the issuance of this decision and Order.
+[13] With respect to the balance of the requests by the Respondent, namely: (i) extending the time to communicate with the hearings coordinator and (ii) requiring the Appellant to pay the costs of this motion forthwith: the Court orders that, (i) the time to communicate with the hearings coordinator under the subsisting timetable order be extended until thirty days after receipt of the responses to the written questions ordered herein; and, (ii) costs are awarded against the Appellant in the amount of $300 payable within 30 days of the date of this Order to the Respondent.
+Signed at Ottawa, Canada, this 12th day of June 2012.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 213
+COURT FILE NO.: 2011-137(IT)G
+STYLE OF CAUSE: D & D LIVESTOCK LTD. AND THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice Randall S. Bocock
+DATE OF ORDER: June 12, 2012
+PARTICIPANTS:
+Counsel for the Appellant:
+James C. Yaskowich
+Counsel for the Respondent:
+Darcie Charlton
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James C. Yaskowich
+Firm: Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,258 @@
+Title: Ferme Lica Inc. v. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28077/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-532-28077-ferme-lica-inc-v-m-r-n-en.md
+Document type: case_law
+Last modified: 2003-08-11
+
+# Ferme Lica Inc. v. M.R.N.
+
+- Citation: 2003 TCC 532
+- Decision date: 2003-08-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1693, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferme Lica Inc. v. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-11
+Neutral citation
+2003 TCC 532
+File numbers
+2001-4099(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001‑4099(EI)
+BETWEEN:
+FERME LICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Michel Canuel (2001‑4100(EI)) et Bertrand Canuel (2001‑4101(EI)) on May 29, 2003, at Matane, Quebec
+Before: The Honourable Deputy Judge S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Andrée St‑Pierre
+Counsel for the Respondent:
+Marie‑Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Gand‑Barachois, New Brunswick, this 11th day of August 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 23rd day of March 2004.
+Maria Fernandes, Translator
+Docket: 2001‑4100(EI)
+BETWEEN:
+MICHEL CANUEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FERME LICA INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeals of Ferme Lica Inc. (2001‑4099(EI)) and Bertrand Canuel (2001‑4101(EI)) on May 29, 2003,
+at Matane, Quebec
+Before: The Honourable Deputy Judge S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Andrée St‑Pierre
+Counsel for the Respondent:
+Marie‑Claude Landry
+Counsel for the Intervenor:
+Andrée St‑Pierre
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Gand‑Barachois, New Brunswick, this 11th day of August 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 23rd day of March 2004.
+Maria Fernandes, Translator
+Docket: 2001‑4101(EI)
+BETWEEN:
+BERTRAND CANUEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FERME LICA INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+_______________________________________________________________
+Appeal heard on common evidence with the appeals of Ferme Lica Inc. (2001‑4099(EI)) and Michel Canuel (2001‑4100(EI)) on May 29, 2003, at Matane, Quebec
+Before: The Honourable Deputy Judge S. J. Savoie
+Appearances:
+Counsel for the Appellant:
+Andrée St‑Pierre
+Counsel for the Respondent:
+Marie‑Claude Landry
+Counsel for the Intervenor:
+Andrée St‑Pierre
+_______________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Gand‑Barachois, New Brunswick, this 11th day of August 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 23rd day of March 2004.
+Maria Fernandes, Translator
+Citation: 2003TCC532
+Date: 20030811
+Docket: 2001‑4099(EI)
+BETWEEN:
+FERME LICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2001‑4100(EI)
+MICHEL CANUEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+FERME LICA INC.,
+Intervenor,
+AND
+Docket: 2001‑4101(EI)
+BERTRAND CANUEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FERME LICA INC.,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] These appeals were heard on common evidence on May 29, 2003, at Matane, Quebec.
+[2] The Appellants appealed from the decisions of the Minister of National Revenue (the "Minister") that the employment held by Appellants Michel Canuel and Bertrand Canuel was not insurable during the periods at issue. The periods in question concerning Michel Canuel are from June 2 to September 6, 1997, from January 2 to July 25, 1998, from November 9, 1998 to August 20, 1999 and from January 3 to September 8, 2000. As for Bertrand Canuel, his periods in question are from June 2 to October 17, 1997, from May 11 to October 23, 1998, from May 17 to August 27, 1999 and from May 22 to August 11, 2000.
+[3] In the opinion of the Minister, this employment is not insurable because Ferme Lica Inc., the Payor, and Appellants Michel and Bertrand Canuel would not have entered into substantially similar contracts of employment if they were dealing with each other at arm's length under the provisions of paragraph 5(2)(a) of the Employment Insurance Act (the "Act") and sections 251 and 252 of the Income Tax Act.
+[4] The Minister also determined that Appellants Michel and Bertrand Canuel did not hold insurable employment under the Act during the periods at issue because they were not bound to the Payor by a genuine contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[5] The Minister further determined that an arrangement between Appellants Michel and Bertrand Canuel, the workers, and the Payor existed for the sole purpose of allowing them to qualify for employment insurance benefits.
+[6] The Minister relied on the following assumptions of fact in making his decision in these cases:
+in the case of Appellant Ferme Lica Inc., number 2001‑4099(EI):
+[translation]
+(a) The Appellant, incorporated on September 29, 1993, ran a cattle and grain farm.
+(b) The Appellant's shareholders were as follows:
+Mireille Lizotte, spouse of Bertrand Canuel and mother of Michel Canuel, with 60% of the shares.
+Bertrand Canuel with 20% of the shares.
+Michel Canuel with 20% of the shares.
+(c) The Appellant's administrators were as follows:
+Mireille Lizotte, President,
+Michel Canuel, Vice‑President,
+Bertrand Canuel, Secretary‑Treasurer.
+(d) During and between the periods at issue, the Appellant had between 100 and 120 beef cattle and approximately fifty calves in a feedlot.
+(e) The Appellant owned ten plots of land in the Amqui area; the furthest was approximately 15 minutes by tractor.
+(f) The Appellant owned a stable that was a five‑minute walk from the shareholders' residence; the animals were not enclosed; they were free to roam both inside and outside the stable, regardless of the season.
+(g) All loans and the $50,000 line of credit were in the Appellant's name and were almost all secured, jointly and severally, by the three shareholders.
+(h) The Appellant is operational year‑round, with peak periods in May and June during the barley and oat seeding times.
+(i) In addition to the three shareholders, the Appellant hired a few workers, depending on its busier periods (seeding and harvesting times).
+(j) When the Appellant hired an outside worker (other than a shareholder), the workers would render services to the Appellant during that same period.
+(k) Administration within the Appellant's business was controlled by Mireille Lizotte with the help of Bertrand Canuel, day‑to‑day operations were controlled by Bertrand Canuel and major decisions were made by the three shareholders.
+(1) MICHEL CANUEL
+(i) During the periods at issue, he was in charge of the animals, he looked after the seeding and the fodder and, began operating the combine harvesters since the summer of 2000.
+(ii) During the periods of issue, he received a fixed remuneration varying between $440 and $500, which is allegedly based on an average of 40 to 44 hours a week.
+(iii) He had no specific work schedule but he was required to perform his work based on the Appellant's requirements.
+(iv) During peak periods, he received a fixed remuneration regardless of the hours actually worked and during quieter periods, he was paid by the hour.
+(v) On September 12, 1997, the Payor issued a record of employment, numbered A62780086, in the name of the Appellant, indicating that he had worked from June 2 to September 6, 1997.
+(vi) On August 21, 1998, the Payor issued a record of employment, numbered A64874364, in the name of the Appellant, indicating that he had worked from January 2 to July 25, 1998.
+(vii) On August 24, 1999, the Payor issued a record of employment, numbered A67443147, in the name of the Appellant, indicating that he had worked from November 9, 1998 to August 20, 1999.
+(viii) On September 12, 2000, the Payor issued a record of employment, numbered A70069825, in the name of the Appellant, indicating that he had worked from January 3 to September 8, 2000.
+(ix) In a statutory declaration made on May 3, 2001, Michel Canuel correctly declared the following:
+‑ I acknowledge that record of employment A62780086 does not reflect my actual full‑time work period on the farm.
+‑ I acknowledge that record of employment A64874364 does not reflect my actual full‑time work period on the farm either because I continued to work after July 25, 1998.
+‑ I acknowledge that record of employment A67443147 issued in my name on August 24, 1999, does not reflect my actual full‑time work period at Ferme Lica Inc. because I continued to work after August 20, 1999.
+‑ Record of employment A70069825 also does not reflect the actual date of end of employment because I continued to work full‑time after September 8, 2000.
+(m) BERTRAND CANUEL
+(i) During the periods at issue, he was in charge of field and herd management, he looked after mechanical work, supervised works, maintained the buildings and represented the Appellant within the Union des producteurs agricoles.
+(ii) During the periods at issue, he received a fixed, gross salary of $620 a week, allegedly based on a 40‑hour week, regardless of the hours actually worked.
+(iii) He had no set work schedule but he had to perform his work according to the Appellant's requirements.
+(iv) On October 20, 1997, the Payor issued a record of employment in the name of the Appellant indicating that he worked from June 2 to October 17, 1997.
+(v) On October 28, 1998, the Payor issued a record of employment in the name of the Appellant indicating that he had worked from May 11 to October 23, 1998.
+(vi) On September 10, 1999, the Payor issued a record of employment in the name of the Appellant indicating that he had worked from October 12, 1998 to August 27, 1999.
+(vii) On August 18, 2000, the Payor issued a record of employment in the name of the Appellant indicating that he had worked from May 22 to August 11, 2000.
+(viii) In a statutory declaration made on May 3, 2001, Bertrand Canuel correctly declared the following:
+‑ I acknowledge that the records of employment that I provided with my applications for benefits dated October 23, 1997, October 29, 1998, September 10, 1999 and August 22, 2000, are not accurate with respect to the hours that I actually worked for the business; the number of hours actually worked as well as the periods of employment set out therein are false.
+(n) The workers rendered services to the Appellant outside of the periods at issue.
+(o) There was an arrangement between the parties for the sole purpose of allowing the workers to draw employment insurance benefits.
+[7] Counsel for Appellant Ferme Lica Inc. and Appellants Michel and Bertrand Canuel provided a common response to the Minister's assumptions in their respective cases, stipulating the following: she admitted the assumptions of fact set out in paragraphs (b), (c), (d), (e), (f), (g), (i), (j), (k), (l)(i), (ii), (iv), (v), (vi), (vii), (viii), (m)(ii), (iv), (v), (vi) and (vii). However, she denied those set out in paragraphs (l)(ix), (m)(iii) and (m)(viii) and wished to elaborate on those set out in paragraphs (a) and (m)(i).
+[8] It was established at the hearing that Ferme Lica Inc. was incorporated on September 29, 1993. The Appellant, the Payor, has operated a cattle farm since the beginning and a grain farm since 1998.
+[9] Worker Michel Canuel is related by birth with his father, Worker Bertrand Canuel and his mother, Mireille Lizotte, spouse of Bertrand Canuel and majority shareholder of the Payor. Consequently, as shareholders of the Payor, these persons are related to one another under subparagraph 251(2)(b)(ii) of the Income Tax Act.
+[10] Upon an analysis of the workers' employment in light of paragraph 5(2)(i) of the Act, we find that Michel Canuel was in charge of looking after the animals. He looked after the seeding, the fodder and has operated the threshers since the summer of 2000. As for Bertrand Canuel, he was in charge of field and herd management. He also took care of the mechanical work, supervised the farm work, maintained the buildings and occasionally operated machinery. Furthermore, he represented the business within the Union des producteurs agricoles.
+[11] Michel Canuel received a fixed, gross salary of $440 to $500 for a workweek of approximately 40 to 44 hours during the periods at issue. During peak periods, he was paid a weekly amount, regardless of the number of hours worked and during quieter periods, he was paid by the hour.
+[12] Bertrand Canuel received a fixed, gross salary of $620 for a 40‑hour workweek during the periods at issue. He was paid a weekly amount regardless of the number of hours worked and regardless of the weather.
+[13] It was established that both workers worked numerous unpaid work hours and the evidence revealed that the hours worked were not all paid owing to a lack of corporate liquidity. It must be concluded that an unrelated person with the same responsibilities as the workers would not have worked under the same conditions because the Payor had work year‑round.
+[14] In continuing the analysis of the workers' employment in light of paragraph 5(2)(i) of the Act, we note that the evidence at the hearing revealed that none of the workers had a fixed work schedule but that each had to perform his work according to the Payor's requirements. There was no control over the hours worked, which was explained by their responsibilities within the business. However, this was not the case for outside workers, who were supervised by the two workers.
+[15] While Mireille Lizotte took care of the books, Bertrand Canuel managed the fields and herds and supervised the farm work, while Michel Canuel looked after the animals, the seeding and the fodder. He operated the thresher as of the summer of 2000. All major decisions, such as the purchase of land or heavy machinery, were made by the Board of Directors.
+[16] Michel Canuel worked seven days a week in order to perform all of the work required during the peak period, such as the seeding and fodder work, but he looked after the animals throughout the year.
+[17] The payroll journal indicates several weeks when workers Bertrand and Michel Canuel are without work while outside workers are with work. However, given that for safety reasons, they should not work by themselves, the two workers, the Appellants, were required to work several weeks without pay.
+[18] It was demonstrated that the Payor did not have the liquidity required to pay the actual hours worked. There are grounds to doubt that an unrelated person would have agreed to such conditions of employment.
+[19] Bertrand and Michel Canuel worked for the Payor during the periods at issue. They held permanent employment for a business that is operational year‑round, and has peak periods during the seeding and harvesting times.
+[20] It is impossible to determine the actual number of hours worked by the workers since the Payor kept no log of those hours. Both workers admitted having worked without pay after the dates indicated on all of the records of employment issued by the Payor for an indeterminate period.
+[21] It is appropriate to conclude that an unrelated person would certainly have ceased from working on the date indicated on his or her record of employment and would not have continued working without pay. Therefore, it must be concluded that the work stoppage is not determined by a lack of work but by a lack of corporate liquidity.
+[22] Owing to the positions held and the duties performed, the workers' contribution to the Payor's business was essential to its smooth operation. Without their services, the Payor would have been required to hire outside personnel.
+[23] In concluding this analysis on paragraph 5(2)(i) of the Act, it is reasonable to conclude that the contract of employment of the two workers would not have been similar if they and the Payor were dealing with each other at arm's length. Analyzed in this way, it must be concluded that this employment is not insurable.
+[24] As for the Minister's assumptions that the Appellants denied or stated having no knowledge of and which they had the burden of disproving, the Appellants did not succeed in discharging this burden under the Act. Instead, all of the evidence supported and corroborated these allegations.
+[25] The evidence submitted by the Appellants sought to demonstrate the falseness of the statutory declarations of the workers and of Mireille Lizotte. They stated in their testimony that these statutory declarations had been made under pressure. They affirmed having felt pushed and intimidated by investigators who told them that the Minister would be able to prove his case in court and that it would be published in the newspapers.
+[26] It must be noted, however, that it was demonstrated that the declarations—once gathered by the investigators—were reread to the persons who had made them and that prior to signing them, they could have made whatever corrections they wished to them. The Appellants did not contradict the declarations.
+[27] It is important to add that the evidence demonstrated that the workers as well as Mireille Lizotte confirmed and validated their statutory declaration before the appeals officer. They refused, nonetheless, to confirm that they worked gratuitously for the Payor, accepting nonetheless to acknowledge that they had provided services without pay.
+[28] It must be noted that the Minister's decisions do not solely rest on the statutory declarations. He also relied on documents submitted to him by the Appellants, including several that were submitted at the hearing, namely cheques and pay registers, the investigators' analysis, financial statements, records of employment and tables showing the work periods and workers' unemployment in relation to business activities.
+[29] The Minister argues that the Appellant and the workers had an arrangement for the sole purpose of allowing the latter to be able to qualify for employment insurance benefits.
+[30] The Appellants submitted that while unemployed, the Payor did not hire the workers; the Respondent, however, replied to this and proved that when the workers were receiving benefits, they were indeed working for the Payor at certain times, even if they did not appear on the payroll or records of employment. This situation is well documented in the tables entered into evidence by the Minister.
+[31] The workers attempted to justify their employment outside the periods at issue by explaining that working with animals on a farm does not end on a certain date. Bertrand Canuel affirms the following:
+[translation]
+. . . a cow calves, we cannot leave her alone, regardless of what time of the year it is.
+[32] However, while the Minister acknowledges that animal care requires a year‑round presence, he argues that it is inappropriate to leave one's employment, as the workers claim, and continue to work for the business without pay and receiving employment insurance benefits, as the evidence established.
+[33] Furthermore, it was proven that during the workers' lengthy periods of unemployment, the Payor's business was in full activity and was employing outside workers, but the latter could not work unsupervised.
+[34] Moreover, the evidence revealed that the workers did not stop working for the Payor but that it did not appear on the documentation provided to the Minister by the Payor. The Payor was therefore benefiting from the workers' services at the government's expense.
+[35] This situation is all the more reprehensible because of the non‑arm's length relationship between the workers and the Payor within the meaning of the Income Tax Act, since both parties misused the employment insurance system, which the Minister described in his Replies to the Notices of Appeal as an "arrangement" between the Payor and the workers.
+[36] It was demonstrated that the end of employment periods did not coincide with the lack of work. In Lelièvre c. Canada (ministre du Revenue national – M.R.N.), [2003] A.C.I. no 125, the Tax Court of Canada was confronted by a situation similar to the case at bar and in his reasons, Somers J. of that Court cited the following passage from Noël J. in Théberge v. Canada (Minister of National Revenue – M.N.R.), [2002] F.C.J. No. 464, at paragraph 61:
+Moreover, a person who receives unemployment insurance benefits and continues to work, without remuneration, after his or her termination of employment enables the employer to benefit from labour that is paid for not by the employer, but by the government. However, unemployment insurance is not a business support program; it is essentially a social measure that protects people who were genuinely employed and have lost their job.
+[37] The Appellants asked that Court to reverse the Minister's decision. It is appropriate to recall the circumstances justifying the intervention of this Court, especially the known limits of this power of review and of intervention.
+[38] In this regard, the words of Marceau J. of the Federal Court of Appeal are useful. They are set out below as they appear at paragraph 4 of Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so‑called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[39] The Federal Court of Appeal revisited the same idea in Gray v. Canada (Minister of National Revenue – M.N.R.), [2002] F.C.J. No. 158, per Desjardins J., who wrote the following:
+The applicant submits with the assumptions on which the Minister relied on in his reply to the notice of appeal were largely irrelevant . . . The applicant also submits that the fact that the applicant worked for the payor outside of his remuneration period did not amount, in the circumstances of the case at bar, to an important factor to be relied on.
+. . .
+With regard to the applicant's second argument, the weight to be given to relevant factors is for the Tax Court judge to assess and not a matter for this Court to reassess.
+[40] Upon reviewing the Appellants' case, the Minister concluded that a genuine contract of service did not exist between the workers and the Payor. He further concluded that the Payor and the workers had an arrangement for the sole purpose of allowing the workers to collect employment insurance benefits.
+[41] Tardif J. of that Court, in Thibeault v. Canada (Minister of National Revenue – M.N.R.), [1998] T.C.J. No. 690, described the circumstances that invalidate the contract of service in the following terms:
+Genuine employment is employment remunerated according to market conditions, which contributes in a real and positive way to the advancement and development of the business paying the salary in consideration of work performed. These are basically economic factors that leave little, if any, room for generosity or compassion.
+. . .
+Of course, it is neither illegal nor reprehensible to organize one's affairs so as to profit from the social program that is the unemployment insurance scheme, subject to the express condition that nothing be misrepresented, disguised or contrived and that the payment of benefits occur as a result of events over which the beneficiary has no control. Where the size of the salary bears no relation to the economic value of the services rendered, where the beginning and end of word periods coincide with the end and the beginning of the payment period and where the length of the work period also coincides with the number of weeks required to requalify, very serious doubts arise as to the legitimacy of the employment contract. Where the coincidences are numerous and improbable, there is a risk of giving rise to an inference that the parties agreed to an artificial arrangement to enable them to profit from the benefits.
+[42] It is appropriate to add that the Federal Court of Appeal confirmed this decision on June 15, 2000, where it dismissed the applications for judicial review with costs.
+[43] Parties who agree on a set compensation based on criteria other than the time or period of the work performed in order to take advantage of the provisions of the Act, introduce factors foreign to a genuine contract of service, thereby casting doubt on its validity.
+[44] I therefore conclude that the employment exercised by the workers was not insurable because the Payor and the workers were not dealing with each other at arm's length.
+[45] Furthermore, the workers did not hold insurable employment within the meaning of the Act during the periods at issue because the Payor and the workers were not bound by a genuine contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[46] Lastly, it must be concluded that, in light of all the evidence submitted at the hearing, the Payor and the workers had an arrangement for the sole purpose of allowing the latter to qualify for employment insurance benefits.
+[47] For these reasons, the appeals are dismissed and the Minister's decisions are confirmed.
+Signed at Grand‑Barachois, New Brunswick, this 11th day of August 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 23rd day of March 2004.
+Maria Fernandes, Translator

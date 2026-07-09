@@ -1,0 +1,109 @@
+Title: Leclerc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29652/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-99-29652-leclerc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-02-18
+
+# Leclerc v. The Queen
+
+- Citation: 2010 TCC 99
+- Decision date: 2010-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6190, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leclerc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-18
+Neutral citation
+2010 TCC 99
+File numbers
+2009-1096(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 99
+Date: 20100309
+Docket: 2009-1096(IT)I
+BETWEEN:
+JEAN-CLAUDE LECLERC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Favreau J.
+[1] These are appeals from reassessments made under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act). In the reassessments dated April 9, 2008, for the 2003 taxation year and September 4, 2008, for the 2006 taxation year, the Minister of National Revenue (the Minister) imposed penalties of $2,500 for each taxation year (2003 and 2006) for the late filing of form T1135 entitled "Foreign Income Verification Statement". Interest of $895.17 for 2003 and of $298.53 for 2006 was added by the Canada Revenue Agency (CRA).
+[2] In making and confirming the reassessments dated April 9, 2008, and September 4, 2008, regarding the 2003 and 2006 taxation years, the Minister relied on the following assumptions:
+[Translation]
+a. The appellant owns a condominium unit located in Poitiers, France, the cost amount of which exceeds $100,000. (admitted)
+b. Accordingly, every year, the appellant must file form T1135 "Foreign Income Verification Statement" on or before the due date for filing his income tax return. (admitted)
+c. For the 2003 and 2006 taxation years, the appellant enclosed that form with his tax return. (admitted)
+d. The appellant had to file his tax return for the 2003 taxation year by April 30, 2004. (admitted)
+e. The appellant filed his tax return for the 2003 taxation year on September 18, 2007. (admitted)
+f. The appellant had to file his tax return for the 2006 taxation year by April 30, 2007. (admitted)
+g. The appellant filed his tax return for the 2006 taxation year on June 19, 2008. (admitted)
+[3] The underlying facts of this case are not disputed, but it must still be explained that the appellant filed late his tax returns for 2003 and 2006, more specifically, on September 18, 2007, and June 19, 2008, respectively, and that the appellant enclosed form T1135 with each of his tax returns without being asked to do so by the CRA. Based on the appellant's tax returns, he did not have to pay any tax or any penalties for filing his tax returns late.
+[4] The only issue is whether the Minister was correct in imposing a penalty for the late filing of form T1135 for the 2003 and 2006 taxation years.
+[5] Subsection 233.3(3) of the Act states the following:
+Returns respecting foreign property – A reporting entity for a taxation year or fiscal period shall file with the Minister for the year or period a return in prescribed form on or before the day that is
+(a) where the entity is a partnership, . . .
+(b) where the entity is not a partnership, the entity’s filing-due date for the year.
+[6] The phrase "filing-due date" is defined in subsection 248(1) of the Act as follows:
+. . . the day on or before which the taxpayer’s return of income under Part I for the year is required to be filed or would be required to be filed if tax under that Part were payable by the taxpayer for the year;
+[7] In the case of an individual, the filing-due date for a tax return for a given year is April 30 of the following year, according to the rules found in subsection 150(1) and subparagraph 150(1)(d)(i) of the Act.
+[8] The penalty for failing to file an information return as and when required by the Act is set out in subsection 162(7) of the Act. The penalty is equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+The appellant’s position
+[9] In his Notices of Appeal to the Court, the appellant acknowledged that the applicable statutory provisions are very clear and that he could not claim his ignorance of the Act. However, he claims that his failure to meet the filing-due date for form T1135 resulted from an involuntary omission on his part, which was mainly due to his return to studies and his mother's mental illness. The appellant also alleges that he was misled by section 162 of the Act under which the taxpayer is not liable to a penalty if he or she files a tax return late for a given taxation year if no tax is payable or unpaid, which was his exact situation.
+[10] The appellant also stated that he had never intended to conceal foreign income and had never committed any kind of fraud. To support his statements, the appellant filed photocopies of the income tax refund cheques for $850.85 and $1,597.26 with respect to the 2002 and 2003 taxation years. He was simply late filing form T1135.
+[11] The appellant submitted David Sherman's notes on subsection 162(10) stating that the CRA had an administrative "one chance" policy to not apply a 162(7) or 162(10) penalty to a taxpayer's first late voluntary filing of certain forms such as form T1135 concerning foreign property. The following excerpt from the notes is especially pertinent:
+This policy was withdrawn in Jan. 2006; the taxpayer must apply via the Voluntary Disclosure Program for relief from the penalty: . . .
+The appellant claims that the CRA had not informed him of this policy change despite the fact that he had been reporting foreign income since 1992.
+[12] The CRA already knew that the foreign property whose cost amount exceeded $100,000 existed because the appellant checked the appropriate box in his tax returns to indicate that he owned foreign property whose cost amount exceeded $100,000, and because form T1135 was enclosed with his tax returns. With regard to the content of form T1135, the appellant indicated that it was identical from one year to the next and that the penalty for failure to file or late filing ($25 per day) was not indicated on it.
+[13] The appellant also deplored the fact that the Act did not provide an exception to the application of the late filing penalty. The taxpayers cannot use the due diligence defence against the application of the penalty. In addition, the appellant called attention to how unreasonable the penalty is. In his case, for 2003, the penalties and interest make up 148.4% of the total tax payable, that is, $3,395.71 (as of April 9, 2009) in addition to the total federal tax payable of $2,288.68.
+[14] The appellant criticized the imposition of interest on the penalty set out in subsection 162(7) of the Act and the fact that the only way to avoid the penalty is to apply via the Voluntary Disclosure Program, as if he had committed fraud or failed to pay tax on his foreign‑source income.
+Analysis and conclusion
+[15] The wording of subsections 162(7) and 233.3(3) of the Act is very clear and poses no difficulty of interpretation. Parliament's intention is to motivate taxpayers who own foreign property whose cost amount exceeds $100,000 to report their foreign-source income.
+[16] Based on the general principles of statutory interpretation used by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, "[t]he interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole" (page 601).
+[17] The textual, contextual and purposive analysis of subsections 162(7) and 233.3(3) makes it possible to find a meaning that is harmonious with the Act as a whole. The text of those statutory provisions is harmonious with objectives sought by Parliament. Unfortunately for the appellant, I do not believe that the principles of statutory interpretation can help him in any way.
+[18] The appellant made an honest mistake because he did not know the consequences of failing to file form T1135 by the due date. The penalty under subsection 162(7) of the Act was imposed correctly, and the due diligence defence is not applicable in this case.
+[19] The appellant could have avoided having to pay those penalties by applying via the Voluntary Disclosure Program, but he did not do so, probably because he did not know about it. However, the appellant cannot be blamed for his lack of knowledge with regard to that program even though he had studied tax law. In fact, it is not obvious that that program could apply to taxpayers who did not commit fraud and who reported all their foreign-source income for several years.
+[20] It is not so much being subject to the penalty under subsection 162(7) of the Act that poses the problem as the lack of statutory provisions setting out a defence that does not require you to use a program that was not designed to deal with a simple late filing of a form. That is obviously a matter for Parliament. The same observation could be made with respect to the quantum of the penalty; Parliament could consider providing relief to take into account cases similar to the appellant's where the penalty is disproportionate to the tax otherwise payable.
+[21] With respect to the interest on the penalties under subsection 162(7) of the Act, it is sufficient to say that the Court has no jurisdiction to deal with that issue.
+[22] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, on this 9th day of March 2010.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of June 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 99
+COURT FILE NO.: 2009-1096(IT)I
+STYLE OF CAUSE: Jean-Claude Leclerc and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 3, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 18, 2010
+DATE OF AMENDED
+REASONS FOR JUDGMENT: March 9, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

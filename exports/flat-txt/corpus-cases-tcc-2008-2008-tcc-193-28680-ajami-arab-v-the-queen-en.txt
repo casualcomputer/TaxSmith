@@ -1,0 +1,155 @@
+Title: Ajami Arab v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28680/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-193-28680-ajami-arab-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-21
+
+# Ajami Arab v. The Queen
+
+- Citation: 2008 TCC 193
+- Decision date: 2008-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1470, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ajami Arab v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-21
+Neutral citation
+2008 TCC 193
+File numbers
+2007-3570(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3570(IT)I
+BETWEEN:
+YOUNES AJAMI ARAB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 5, 2008, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the Canada Child Tax Benefit redetermination for the 2005 base year, the Universal Child Care Benefit redetermination for the 2005 base year, and the GST credit redetermination for the 2005 taxation year, made under the Income Tax Act, is dismissed.
+Signed at Ottawa, Canada, this 21st day of May 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 22nd day of October 2008.
+Brian McCordick, Translator
+Citation: 2008TCC193
+Date: 20080521
+Docket: 2007-3570(IT)I
+BETWEEN:
+YOUNES AJAMI ARAB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing from a Canada Child Tax Benefit (CCTB) redetermination for the 2005 base year, a Universal Child Care Benefit (UCCB) redetermination for the 2005 base year, and a Goods and Services Tax Credit (GSTC) redetermination in respect of the 2005 taxation year.
+[2] These redeterminations were made after the Minister of National Revenue ("the Minister") determined that, as of September 2006, the Appellant was no longer the eligible individual in respect of his three children. The issue to be decided is as follows: who was the eligible individual as of that date?
+[3] By reason of these redeterminations, the Minister calculated that there was a $910 CCTB overpayment for the 2005 base year, a $119 GSTC overpayment for the 2005 taxation year, and a $600 UCCB overpayment for the 2005 base year.
+[4] The Appellant and his wife immigrated to Canada from their native Syria in 2002. They had one child at the time. Their second child was born in 2003 and their third was born in February 2005. However, the couple separated in February 2005, shortly after the birth of their last child. The Appellant's wife apparently left the family home with the children, but the Appellant claims that the children spent several days a week with him.
+[5] In the spring of 2006, the Appellant's wife filed an application for interim relief and child custody in the Quebec Superior Court. On May 25, 2006, the Quebec Superior Court issued a consent interim relief order stating that the Appellant's wife would have custody of the three children, and that the Appellant would have access to the children by mutual informal arrangement, made in advance by telephone, at least two days a week. This interim relief was agreed upon by the Appellant and his wife pending a parental evaluation ordered by the Court on May 11, 2006. However, the parental evaluation refers to an order dated April 12, 2006.
+[6] On July 27, 2006, the Appellant and his wife agreed to vary the provisional relief in order to enable the wife to travel abroad — specifically, to return to Syria in order to visit her ailing mother at her bedside. The new order provided that the Appellant would have custody of the three children during the wife's trip. The wife also agreed to return to Canada in time for the beginning of the eldest child's school year, and to resume interim custody of the three children. Further, the wife agreed to provide medical certificates regarding her mother's health, and the order states that the Appellant would bring a motion for the custody of his children on September 25, 2006.
+[7] The Appellant and his wife went before the Quebec Superior Court on October 25, 2006, and consented to a third order. The preamble of their agreement refers to an expert psychosocial assessment in progress, and to the fact that someone had made a report to the DPJ [Youth Protection] but that no measures had been taken. The Youth Protection social worker recommended that the father's access rights be set out clearly and precisely and that they be complied with. Accordingly, the order states that the wife has custody of the three children and that the Appellant has access to them on alternate weekends from Saturday at 10 a.m. to Sunday at 6 p.m. starting October 28, 2006, and that he is to give notice 24 hours in advance if he is unable to exercise his right. The order also provides that the Appellant and the wife are not to contact each other except with respect to access to the children and in emergencies.
+[8] A divorce judgment was rendered in May 2007, but the safeguard measures were not finalized at that time. The Appellant and the wife agreed to await a supplementary psychosocial evaluation report. They agreed that the wife would retain custody of the three children and that the husband would have access to one child each weekend on an alternating basis. The wife is responsible for the children's appointments and for having them followed up by the various professionals concerned with their welfare. The Appellant is entitled to the children's school records and medical records. The Appellant and his wife are not to discuss their case in front of the children and are not to communicate with each other.
+[9] Following the separation, the wife was the CCTB recipient. On July 30, 2006, after she left for Syria, the Appellant filed a CCTB application with what was then the Canada Customs and Revenue Agency. Since he was unable to get his wife's signature, he stated that the ground for his application was that she had been outside Canada, in Syria, since August 3, 2006. Strangely, however, the application was signed on July 30, 2006. In any event, the Appellant became the CCTB recipient. On October 13, 2006, after returning from her trip and realizing that this had occurred, the wife applied for the benefits herself. An audit revealed that the Appellant was the eligible individual for August 2006 and that his wife became the eligible individual thereafter, so there were notices of determination establishing that, as of September 2006, the Appellant had been receiving overpayments of the benefits and credits described above for the 2005 base year.
+[10] Even though the Superior Court's orders state that the wife has custody of the three children and that he only has access rights, the Appellant maintains that his children were with him five or six days a week and that his wife only had them two or three days a week. He testified that this is how things were done prior to August 2006 and that this continued even after his wife took the children back in September 2006. In support of his allegations, he tendered a series of documents, including reports from the various experts involved with his children, his own involvement in the care received by his children, and a variety of correspondence and calendar excerpts from November and December 2006 and the first three months of 2007, as examples of how frequently his children were with him at home. He claims that his wife never complied with the orders and that things were fine only on paper.
+[11] However, the documentation in question contains some indications that the children lived with their mother and that the visits with their father were less frequent than he claims. In his report dated March 2, 2007, Dr. Alain Lebel, after meeting with the Appellant, wrote that the Appellant deplored the fact that he was not seeing his children more often, because, since November 2006, he had been seeing them only every other weekend. Another report concerning one of the children, issued by the child development clinic of the Sainte-Justine university hospital, states that the child had been living with his mother and had been seeing his father every other weekend since February 2005.
+[12] The report is based on an assessment done on March 1 and March 7, 2007. In another report dated June 4, 2007, a speech-language pathologist who saw one of the children wrote that they were currently living with the wife and that the Appellant saw them regularly. Further on, the report says that one must take into account the bilingualism situation and the fact that the child spends more time with the mother, who speaks to the child solely in Arabic.
+[13] An emergency record dated August 30, 2006, and signed by the Appellant, lists the child's address as the mother's. The date coincides with the wife's return from Syria, and the address is the one stated in her lease. In addition, on development questionnaires dated August 9 and August 12, 2007, for each of the children, the Appellant states that they live with their mother. However, the Appellant's involvement is very clear, and it can be seen that he had regular contact with the children, that he worked with the various professionals on the preparation of the different evaluations and assessments that were required, and that he fulfilled his fatherly role.
+[14] The Appellant's wife provided the Court with another version of the circumstances surrounding her relationship with the Appellant and the custody of the children. They separated in February 2005 in the wake of violent acts, and the Appellant was required, by court order, not to communicate with her. The children stayed with her from that point onward, and the Appellant picked up the children at her residence on Saturday and brought them back on Sunday. She obtained interim custody orders pending the evaluation and kept interim custody until August 2006, when she went away in order to be at her mother's bedside. She was the one who, on the advice of her lawyer, suggested a variation of the custody order that would remain in place until she returned. She returned on August 29, 2006, and resumed custody of the children, subject to visitation rights for the father every other weekend, without denying him the right to see them upon request. An incident with Youth Protection had no effect on the custody order, and the children continued to live with their mother in her apartment until August 2007, when she agreed to grant custody of the children to the Appellant despite the fact that the child care experts recommended that she be granted custody.
+[15] It is also beyond doubt that the wife's evidence clearly establishes that she looked after the children very well, and that, despite her trouble communicating in French, she managed to be understood with the assistance of an interpreter. She went with her children to see the child care professionals and looked after the children's essential needs. Her testimony was, in fact, supported by the social worker assigned to her case. Furthermore, it is clear that the children were at each of their parents' homes at some point, since each of them tendered letters from neighbours, or from a landlord, attesting to the fact that the children were noisy. However, this does not show how much time the children spent at each parent's residence.
+[16] In order to be eligible for the GSTC, one must meet the conditions that I have identified in the definitions of "eligible individual" and "qualified dependant" contained in section 122.5 of the Income Tax Act ("the Act"), reproduced below:
+Section 122.5: Definitions
+(1) The definitions in this subsection apply in this section.
+"eligible individual", in relation to a month specified for a taxation year, means an individual (other than a trust) who
+(a) has, before the specified month, attained the age of nineteen years; or
+(b) was, at any time before the specified month,
+(i) a parent who lived with their child, or
+(ii) married or in a common-law relationship.
+"qualified dependant" of an individual, in relation to a month specified for a taxation year, means a person who at the beginning of the specified month
+(a) is the individual's child or is dependent for support on the individual or on the individual’s cohabiting spouse or common-law partner;
+(b) resides with the individual;
+(c) is under the age of 19 years;
+(d) is not an eligible individual in relation to the specified month; and
+(e) is not a qualified relation of any individual in relation to the specified month.
+Section 122.6 of the Act defines "eligible individual" as follows:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common‑law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time,
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[17] As for the Canada Child Tax Benefit, the following definitions apply:
+"base taxation year" in relation to a month means
+(a) where the month is any of the first 6 months of a calendar year, the taxation year that ended on December 31 of the second preceding calendar year, and
+(b) where the month is any of the last 6 months of a calendar year, the taxation year that ended on December 31 of the preceding calendar year;
+"return of income" filed by an individual for a taxation year means
+(a) where the individual was resident in Canada throughout the year, the individual's return of income (other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4)) that is filed or required to be filed under this Part for the year, and
+(b) in any other case, a prescribed form containing prescribed information, that is filed with the Minister.
+"cohabiting spouse or common-law partner" of an individual at any time means the person who at that time is the individual’s spouse or common-law partner and who is not at that time living separate and apart from the individual and, for the purpose of this definition, a person shall not be considered to be living separate and apart from an individual at any time unless they were living separate and apart at that time, because of a breakdown of their marriage or common-law partnership, for a period of at least 90 days that includes that time;
+[18] Section 2 of the Universal Child Care Benefit Act defines "eligible individual" as follows:
+"eligible individual" means a person who is an eligible individual for the purpose of Subdivision a.1 of Division E of Part I of the Income Tax Act.
+[19] In Lapierre v. Canada, 2005 TCC 720, [2005] T.C.J. No. 538 (QL), Dussault J. aptly summarized the conditions set out in the definition of "eligible individual" and the concept of residence set out therein. I shall reproduce paragraphs 12 and 13 of the decision:
+12 For the purposes of the Canada Child Tax Benefit, the definition of "eligible individual" found in Section 122.6 of the Income Tax Act (the "Act") sets out a certain number of conditions that an individual must satisfy at "a given time". For purposes of calculating the Benefit pursuant to subsection 122.61(1), account is to be taken of the eligible dependents with respect to which a person is the eligible individual at the beginning of each month. That is the "given time" referred to in the definition of "eligible individual" in Section 122.6 of the Act. So the determination as to whether an individual satisfies the conditions set out in the definition is made on the basis of the situation prevailing at the beginning of each month. The first condition for an individual to be considered an "eligible individual" is stated in paragraph (a) of the definition of this expression which requires that this individual "reside with the dependent". It is with respect to this condition only that the Minister made the determinations in issue.
+13 Although residence is the fundamental concept applied to determine if a person is subject to income tax under the Act, that term is nonetheless not defined therein and it is the courts that have attempted to establish its scope. Essentially a question of fact, a person's residence in a given place is determined by a certain number of criteria of time, object, intention and continuity that do not necessarily always carry the same weight and which can vary according to the circumstances of each case. (see Thomson v. M.N.R., [1946] S.C.R. 209). All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person's usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb "to reside" a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[20] The burden is on the Appellant to show, on a balance of probabilities, that he is the "eligible individual" for the purposes of the CCTB, GSTC and UCCB, and that he meets the conditions contained in the definitions of that term. In the case at bar, there is plentiful evidence that the parents looked after their children and properly fulfilled the responsibility for their care and upbringing, despite the fact that their own relationship was marred by numerous problems. The first condition that must be met in order for an individual to be an eligible individual is that the person must reside with the dependant or dependants — in the case at bar, the three children. The parents' evidence with respect to this question is conflicting in that the Appellant claims that the children are with him five or six days a week and with his wife two or three days a week, whereas the Appellant's wife claims exactly the opposite for the relevant periods, with the exception of August 2006, a month in which, by her admission, the Appellant was residing with the children.
+[21] What makes the Appellant's burden of proof difficult to overcome is that his claims contradict the statements of fact in all the Quebec Superior Court orders concerning corollary relief, custody and access, all of which orders were, in fact, signed with the Appellant's consent. The Appellant acknowledges that his wife has custody of the children and that he only has access every other weekend. He consented to this state of affairs three times, and that, in my opinion, is highly inconsistent with his claims. The contents of certain expert reports also refer to the fact that the father only has access rights. In addition, I cannot disregard the development questionnaire (Exhibit I‑5) which he himself signed in August 2006, and on which he stated that the children were living with their mother. There is nothing concrete in the evidence that enables me to conclude that this situation has changed, at least until August 2007. With respect to this question, I will rely on the statements by the child psychiatrist (Exhibit A‑3) in February 2007, who wrote, after meeting with the Appellant, that the Appellant deplored the fact that he did not have the children more often because, since November 2006, he was seeing them only every other weekend.
+[22] Based on the evidence as a whole, I find that the wife was the person who resided with the children, in the sense that they lived in the wife's home in a constant, regular or habitual manner at the beginning of each month within the period contemplated by the notice of determination, as of and including the period from September 2006 to August 2007.
+[23] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of May 2008.
+"François Angers"
+Angers J.
+Translation certified true
+on this 22nd day of October 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC193
+COURT FILE NO.: 2007-3570(IT)I
+STYLE OF CAUSE: Younes Ajami Arab and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 5, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 21, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

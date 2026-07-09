@@ -1,0 +1,126 @@
+Title: Kewcorp Financial Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28956/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-598-28956-kewcorp-financial-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-11-10
+
+# Kewcorp Financial Inc. c. M.R.N.
+
+- Citation: 2008 CCI 598
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1397, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kewcorp Financial Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-10
+Référence neutre
+2008 CCI 598
+Numéro de dossier
+2007-3845(CPP)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2007-3845(CPP)
+ENTRE :
+KEWCORP FINANCIAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+JAMES KEW,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 octobre 2008, à Edmonton (Alberta).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelant :
+James Kew
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli conformément aux motifs du jugement ci‑joints et l’affaire est renvoyée au ministre du Revenu national pour qu’il l’examine de nouveau et établisse une nouvelle cotisation.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 24e jour d’août 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008 CCI 598
+Date : 20081110
+Dossier : 2007-3845(CPP)
+ENTRE :
+KEWCORP FINANCIAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+JAMES KEW,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] Kewcorp Financial Inc. interjette appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle James Kew occupait un emploi ouvrant droit à pension pendant l’année 2005.
+Les faits
+[2] En 1998, James Kew a constitué l’appelante en société. En 2005, il en était le président-directeur et l’unique actionnaire. L’appelante exploitait une entreprise de planification financière, incluant la prestation de services d’assurance, d’emprunts hypothécaires, de planification financière et d’établissement de déclarations de revenu. James Kew exerçait toutes les fonctions nécessaires à l’exploitation de l’appelante. Il affirme que l’appelante l’a engagé comme travailleur autonome, en tant qu’entrepreneur indépendant.
+[3] Avant de constituer l’appelante en société, James Kew fournissait les mêmes services que l’appelante, mais en tant que propriétaire d’entreprise individuelle. Il exploitait son entreprise, « James Kew Financial Services », depuis 1979. Il est planificateur financier et il a passé les examens requis afin d’obtenir les titres de Certified Senior Advisor (CSA – conseiller aux personnes âgées agréé) et de planificateur financier personnel (PFP).
+[4] D’après l’avis d’appel, les fonctions exercées par James Kew pour le compte de l’appelante consistaient en des tâches de marketing, de planification, d’administration, de comptabilité, de préparation et de prospection de clientèle. James Kew a affirmé qu’il effectuait ces tâches à titre d’entrepreneur indépendant et qu’il recevait des commissions en échange de ses services. Il fixait le montant de ses commissions et le moment où il les recevait en fonction de la capacité de l’appelante à le payer. En 2005, il a reçu 65 459,92 $ de commissions et 20 000 $ de dividendes. Ces montants apparaissent dans sa déclaration de revenu.
+[5] James Kew a déclaré que tous les clients de James Kew Financial Services étaient restés ses propres clients alors que tous les nouveaux clients arrivés après la constitution de l’appelante en société étaient les clients de cette dernière. James Kew fournissait personnellement tous les services de planification financière.
+[6] James Kew était propriétaire des locaux à bureaux dans lesquels l’appelante exploitait son entreprise. L’appelante lui versait un loyer. Pendant la période en cause, l’appelante louait son ordinateur et James Kew tenait tout à la fois lieu de colocataire et de garant. Il était nécessaire que James Kew dispose d’un véhicule afin de s’acquitter de ses tâches; étant donné que l’appelante n’en avait pas, il fournissait son propre véhicule.
+[7] James Kew travaillait pour l’appelante selon un horaire flexible, qu’il définissait lui‑même. Il choisissait quand travailler pour l’appelante et quand travailler pour ses autres clients. L’appelante ne lui offrait pas de régime d’avantages sociaux, de congés de maladie ou de congés payés.
+Analyse
+[8] Les parties ont clairement établi qu’elles souhaitaient que James Kew soit un entrepreneur indépendant. La question en litige est de savoir si les faits étaient compatibles avec les intentions des parties[1]. Les faits doivent être analysés à la lumière des critères traditionnels de l’arrêt Wiebe Door afin de décider si les faits s’accordent à cette intention[2].
+[9] Dans une situation comme celle qui prévaut en l’espèce, où le travailleur est également l’unique actionnaire et président-directeur de l’appelante, il est important d’appliquer les critères qui ont été définis dans l’arrêt Wiebe Door Services Ltd. c. M.R.N.[3] afin de ne pas lever le voile corporatif[4]. Le ministre n’a formulé aucune hypothèse voulant qu’on soit en présence d’une imposture. En fait, comme dans l’arrêt Zupet c. M.R.N.[5], le ministre a établi une cotisation à l’égard de l’appelante en tenant compte du fait qu’elle et son actionnaire, James Kew, avaient conclu un contrat de louage de services.
+[10] Dans la réponse à l’avis d’appel, le ministre a formulé l’hypothèse selon laquelle James Kew n’exploitait pas sa propre entreprise tout en offrant ses services à l’appelante. La preuve présentée par l’appelante réfute cette hypothèse sans l’ombre d’un doute. James Kew exploitait sa propre entreprise, James Kew Financial Services. Il a reçu en son nom propre des paiements d’AIG Life Insurance of Canada, laquelle était sa cliente depuis le début des années 80. L’appelante et lui détenaient chacun un permis de l’Alberta Insurance Council (le Conseil d’assurances de l’Alberta) les autorisant à effectuer des opérations en matière d’assurances. James Kew Financial Services apparaît dans les pages jaunes. James Kew Financial Services et l’appelante ont chacun leur propre carte Visa. D’après le témoignage de James Kew, que nul n’est venu contredire, il avait d’autres clients en dehors de l’appelante.
+[11] James Kew avait des chances de bénéfices et courait des risques de perte. Si l’appelante gagnait des revenus, cela avait des répercussions sur le travail que James Kew effectuait pour le compte de celle‑ci. James Kew définissait les tâches que l’appelante lui confiait, et par conséquent le revenu qu’il recevait d’elle. Si l’appelante fonctionnait au ralenti, James Kew se tournait alors vers d’autres clients pour gagner un revenu.
+[12] James Kew a déclaré avoir engagé d’autres entrepreneurs indépendants afin d’accomplir des tâches pour le compte de l’appelante. En 2005, il a embauché son fils, Scott Kew, qui a travaillé pour l’appelante à titre d’entrepreneur indépendant pendant deux semaines. J’ai tenu pour acquis que James Kew a agi en sa qualité de président ou de directeur de l’appelante quand il a engagé son fils, étant donné que Scott Kew a demandé à l’appelante à être payé à un tarif horaire de 20 $ et que celle‑ci le payait par chèque.
+[13] L’appelante exerçait‑elle un contrôle sur le travailleur ou avait‑elle le droit de contrôler la manière dont il s’acquittait de ses tâches? Techniquement, c’était bien le cas. Il est difficile d’appliquer le critère du contrôle aux faits du présent appel, où le travailleur est également l’unique actionnaire et seul président-directeur de l’appelante. Toutefois, cela ne signifie pas pour autant que je peux ignorer ce critère, ou qu’il me faut conclure que le travailleur était un employé[6].
+[14] James Kew travaillait pour l’appelante selon un horaire flexible, qu’il définissait lui‑même. Rien n’indique qu’il était un employé. Il ne recevait pas d’avantages sociaux et n’avait ni congés de maladie ni congés payés. Il ne recevait pas ses commissions régulièrement.
+[15] Comme il a été susmentionné, l’appelante louait son espace de bureaux de James Kew. En 2005, le loyer annuel s’élevait à 8 400 $. James Kew était tout à la fois colocataire et garant du bail de location de l’ordinateur dont l’appelante et lui se servaient. Il fournissait son propre véhicule afin d’accomplir ses tâches pour le compte de l’appelante et de James Kew Financial Services. Il déboursait de l’argent afin de faire publier des annonces publicitaires pour James Kew Financial Services. Les services de l’appelante faisaient l’objet d’annonces publicitaires distinctes, que l’appelante payait elle-même. James Kew a acheté ses propres permis pour vendre des assurances‑vie, accident et maladie. Il faisait partie de l’Academy of Senior Advisors (Association des conseillers aux personnes âgées) et payait sa cotisation. James Kew a payé les formations qu’il a reçues. En 2005 notamment, il a suivi un cours du programme éducatif de la Financial Advisors Association of Canada (l’Association canadienne des conseillers financiers).
+[16] En l’espèce, l’application des critères de l’arrêt Wiebe Door m’a convaincue que les faits étaient compatibles avec les intentions des parties, autrement dit qu’on était bien en présence d’un contrat de service.
+[17] À la lumière de la preuve, je suis convaincue que l’appelante est parvenue à démontrer que la cotisation établie par le ministre à son égard était erronée. James Kew était bien un entrepreneur indépendant.
+[18] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2008.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 24e jour d’août 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008 CCI 598
+NO DU DOSSIER DE LA COUR : 2007-3845(CPP)
+INTITULÉ : Kewcorp Financial Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 7 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 10 novembre 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+James Kew
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Royal Winnipeg Ballet c. M.R.N, 2006 CAF 87, au paragraphe 64.
+[2] Ibid, au paragraphe 67; Vida Wellness Corporation c. M.R.N., [2006] A.C.I. 570, au paragraphe 17.
+[3] [1986] 3 C.F. 553 (CAF).
+[4] Meredith v. R., [2002] 3 C.T.C. 519 (CAF).
+[5] Zupet c. M.R.N., 2005 CCI 89.
+[6] 76750 Alberta Ltd. c. M.R.N., 2007 CCI 149.

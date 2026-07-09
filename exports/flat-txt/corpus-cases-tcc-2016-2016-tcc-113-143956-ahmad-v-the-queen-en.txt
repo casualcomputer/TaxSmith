@@ -1,0 +1,113 @@
+Title: Ahmad v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143956/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-113-143956-ahmad-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-05-03
+
+# Ahmad v. The Queen
+
+- Citation: 2016 TCC 113
+- Decision date: 2016-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3070, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-05-03
+Neutral citation
+2016 TCC 113
+File numbers
+2015-3994(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-3994(IT)I
+BETWEEN:
+NWAR-AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 22, 2016, at Toronto, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Leonard Elias
+JUDGMENT
+In accordance with the reasons delivered orally at the hearing (a copy of which is attached hereto), the appeal from the reassessment made under the Income Tax Act for the Appellant’s 2013 taxation year is dismissed, without costs.
+Signed at Montreal, Quebec this 3rd day of May 2016.
+“Patrick Boyle”
+Boyle J.
+Docket: 2015-3994(IT)I
+BETWEEN:
+NWAR-AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Toronto, Ontario on March 22, 2016 be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Montreal, Quebec this 3rd day of May 2016.
+“Patrick Boyle”
+Boyle J.
+Citation: 2016 TCC 113
+Date: 20160503
+Docket: 2015-3994(IT)I
+BETWEEN:
+NWAR-AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The sole issue in this informal appeal is whether or not Ms. Ahmad was in full-time attendance at the University of Florida, which is a requirement in her case to be entitled to the credit she is seeking. The University itself indicated her attendance was part-time on the Revenue Canada form. I do not know how they made that designation because I wasn’t told, but I am going to assume that the University correctly characterised it by that educational institution’s established criteria.
+[2] Ms. Ahmad had full-time work of 37 and a half hours each week at a pharmacy throughout the year in question. In addition, she worked full days every other Sunday, more or less, throughout that year.
+[3] Her original claim included significantly more amounts as she reduced her claim before coming to Court seeking the tuition tax credit.
+[4] In determining whether her attendance should be considered full-time or part-time, she sought to include travel time to her Buffalo days, which I do not think is appropriate to consider as part of attendance, whether full-time or part-time.
+[5] She indicated that her best estimate was that she spent two or three hours in total at her courses and course work and studies and readings, five work days a week. So about 10 to 15 hours a week, or perhaps 12 and a half hours a week, was her best estimate throughout the year.
+[6] The syllabus hours for the three courses, one taken each semester, show that the hours equivalency guidelines, as she described them, for instruction learning activities (excluding the parenthetical individual study hours) would have ranged between about five or six hours per week in the first semester and nine and a quarter hours, at best, on a liberal interpretation for the second and third semesters.
+[7] The first semester would have approximately doubled if one were to include the individual study hours shown in the parentheticals. I do not think those individual study hours are the equivalent of instruction learning activities time spent, but rather reflect additional student work outside of instructional hours in a normal university setting.
+[8] I cannot find that this is full-time and for that reason, I have to dismiss the appeal. The law does not give me any other choice.
+Signed at Montreal, Quebec this 3rd day of May 2016.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2016 TCC 113
+COURT FILE NO.:
+2015-3994(IT)I
+STYLE OF CAUSE:
+NWAR-AHMAD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 22, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+May 3, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Leonard Elias
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,235 @@
+Title: Power v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30458/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-369-30458-power-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-07-27
+
+# Power v. The Queen
+
+- Citation: 2011 TCC 369
+- Decision date: 2011-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7927, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Power v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-27
+Neutral citation
+2011 TCC 369
+File numbers
+2010-1670(GST)I, 2010-1671(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1670(GST)I
+BETWEEN:
+RICHARD E. POWER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence together with the appeal of
+Harold H. MacKay (2010-1671(GST)I) on March 31, 2011,
+at Halifax, Nova Scotia.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Brian P. Casey
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, notice of which is dated February 24, 2009, made under the Excise Tax Act for the periods ending September 30, 2006 and December 31, 2006 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Antigonish, Nova Scotia, this 27th day of July 2011.
+“S. D’Arcy”
+D'Arcy J.
+Docket: 2010-1671(GST)I
+BETWEEN:
+HAROLD H. MacKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence together with the appeal of
+Richard E. Power (2010-1670(GST)I) on March 31, 2011,
+at Halifax, Nova Scotia.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Brian P. Casey
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, notice of which is dated February 24, 2009, made under the Excise Tax Act for the periods ending September 30, 2006 and December 31, 2006 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Antigonish, Nova Scotia, this 27th day of July 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011 TCC 369
+Date: 20110727
+Docket: 2010-1670(GST)I
+BETWEEN:
+RICHARD E. POWER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2010-1671(GST)I
+AND BETWEEN:
+HAROLD H. MacKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is whether the Appellants are jointly and severally liable, as directors, for net tax that Keltic Brewing Company Limited (the "Corporation") failed to remit in respect of its HST reporting periods ending on September 30, 2006 and December 31, 2006.
+[2] On February 24, 2009 the Minister of National Revenue (the “Minister”) assessed each of the Appellants (Harold H. MacKay and Richard E. Power), under section 323 of Part IX of the Excise Tax Act (the "HST Act"), $34,584.84 in respect of the failure of the Corporation to remit the net tax. The Minister also assessed each of the Appellants interest of $6,676.81 and penalties of $1,094.19.
+[3] The Appellants filed notices of objection to the assessments. On February 23, 2010, the Minster confirmed the assessments. Each of the Appellants then appealed the assessments to this Court. The two appeals were heard together on common evidence.
+[4] It is the position of each of the Appellants that he has satisfied the requirements for the due diligence defence provided in subsection 323(3) of the HST Act.
+[5] I heard from six witnesses. The Appellants’ counsel called each of the Appellants and Ms. Margaret Wilkinson. The Respondent’s counsel called Mr. Sean O’Connor, Mr. Lloyd Johnson, Mr. Tim Ferguson and Ms. Jennifer McKim.
+[6] I will address the credibility of each of the Appellants in a subsequent part of my reasons for judgment. I found Ms. Wilkinson to be a credible witness; however, I have not given significant weight to her testimony, as she appeared to have a very difficult time remembering when certain events occurred.
+[7] I found Mr. O’Connor, Mr. Ferguson and Ms. McKim to be credible witnesses.
+[8] I have a concern with respect to the testimony of Mr. Johnson. I do not believe he was completely forthcoming. As a result, I have given little weight to his testimony.
+Summary of Facts Relevant to Both Appeals
+[9] The net tax liability of the Corporation arose from the operation of a restaurant and adjoining small brewery facility (the “Restaurant”) owned by the Corporation.
+[10] Mr. MacKay testified that he developed the plan to establish and operate the Restaurant. Mr. MacKay based the plan on a concept he had developed with three other individuals: Mr. Power, Mr. Luciano Radelich (who was the first general manager of the Restaurant) and a Mr. John Graham (who was not involved in the operation of the Restaurant and was not a director of the Corporation).
+[11] The Corporation was incorporated in May 2003. Between May 2003 and the end of 2006 there were five common shareholders of the Corporation (the two Appellants, Mr. Radelich, Mr. Graham and a Mr. P. J. Power) and two preferred shareholders (Municipal Enterprises [also known as Dexter Construction] and the Millbrook First Nation [the “Band”]). The following individuals were directors during this period:
+- The two Appellants,
+- Mr. Radelich (who resigned as director in either late 2005 or early 2006),
+- Mr. O’Connor (the nominee of Dexter Construction),
+- Mr. Johnson (the nominee of the Band).
+[12] During that same period, Mr. MacKay was the president, chairman of the board and chief executive officer of the Corporation.
+[13] The Restaurant was the Corporation’s only asset. It opened in December of 2003 in a building the Corporation leased from the Band. The building was on the Band’s reserve, which is located just outside of Truro, Nova Scotia.
+[14] Mr. MacKay testified that business was good when the Restaurant opened and remained good for a year or so. Mr. O’Connor testified that the Restaurant was never in great financial condition. Mr. Radelich was the general manager of the Restaurant from the time it opened until late 2005 or early 2006. There were also three managers, including Ms. Wilkinson.
+[15] Mr. MacKay testified that by late 2005, the Restaurant was not doing well. He noted that the Corporation was behind in its rent payments to the Band and was looking for “solutions”. One of the solutions was to bring in a company called Boomerang to manage the Restaurant. Mr. MacKay introduced Boomerang to the Band in early 2006.
+[16] Mr. Radelich ceased working at the Restaurant once Boomerang began to manage it. Ms. Wilkinson testified that Mr. Radelich was fired. Although Mr. Radelich remained a shareholder of the Corporation, he appears to have resigned as a director of the Corporation.
+[17] At the time it became involved with the Restaurant, Boomerang operated successful restaurants in Moncton and Dartmouth. Mr. MacKay testified that the Corporation required the Band’s approval before Boomerang could manage the Restaurant. This was due to the fact that the Corporation was behind in its rent and “some other things.”
+[18] Boomerang appears to have managed the Restaurant from early 2006 until approximately November 2006. There appears to have been no formal agreement between Boomerang and the Corporation.
+[19] Mr. O’Connor testified that the Appellants brought Boomerang into the Restaurant to assist in running it and to allow Boomerang time to determine if it wished to acquire the business.
+[20] It appears that no agreement between the Corporation and Boomerang for the sale of the Restaurant could be completed without the approval of the landlord, that is, the Band. Boomerang made some form of proposal in November of 2006; however, the Band did not accept it.
+[21] A board meeting was then called in November of 2006. It is not clear from the evidence who called the meeting. However, at the meeting, the Band presented the directors with a proposal to put the Restaurant into bankruptcy. Mr. MacKay testified that he and Mr. Power were shocked by the proposal. They did not realize that the business was doing so poorly. They asked for time to develop a recovery plan and attempt to save the business.
+[22] Mr. O’Connor and Mr. Johnson resigned as directors in November of 2006.
+[23] Subsequent to the November 2006 board meeting, the Appellants made frequent trips to the Restaurant and worked with Boomerang to develop a recovery plan. The Appellants presented their recovery plan to the various stakeholders on December 11, 2006.
+[24] The parties did not implement the recovery plan. Instead, the shareholders of the Corporation agreed to sell their shares to Ms. Wilkinson. This agreement appears to have been made on January 20, 2007 (the “First Agreement”). The parties did not provide the Court with a copy of the First Agreement or any details of that agreement.
+[25] The Appellants resigned as directors in February of 2007.
+[26] Ms. Wilkinson, Mr. Power and Mr. MacKay then entered into an agreement on May 22, 2007 (the “Second Agreement”).
+[27] The Second Agreement provided for the immediate transfer to Ms. Wilkinson of the shares held by Mr. Radelich, Mr. P. J. Power and Mr. Graham.[1] These shares represented 33% of the issued and outstanding common shares of the Corporation.
+[28] Under the Second Agreement, the Appellants agreed to transfer their common shares to Ms. Wilkinson once she satisfied certain obligations contained in the Second Agreement. The obligations included payments of $3,000 per month to each of the Appellants commencing on June 20, 2007 and ending on March 20, 2008. The Corporation made payments totalling $25,000 to each of the Appellants. Another obligation was the payment by Ms. Wilkinson, by August 31, 2007, of all statutory obligations of all previous directors. This did not occur.
+[29] Ms. Wilkinson closed the Restaurant in November 2007. She never acquired the shares held by the Appellants.
+[30] A number of the witnesses provided testimony (some conflicting) with respect to who paid the Restaurant’s bills during the relevant periods. Based upon the testimony of Mr. MacKay and Ms. Wilkinson, it appears that, during the period that Mr. Radelich was the general manager of the Restaurant, he and Mr. MacKay paid the bills. Cheques issued by the Corporation required two signatures, Mr. MacKay’s and Mr. Radelich’s. Mr. MacKay testified that he would sign blank cheques and then send the cheques to Mr. Radelich. Mr. Radelich would add his signature and payment details to the cheque and then send it to the supplier. Mr. MacKay testified that he went to the Restaurant on a monthly basis to review the cheques issued by Mr. Radelich.
+[31] Ms. Wilkinson testified that, after Mr. Radelich stopped working at the Restaurant, she was provided with blank cheques signed by Mr. MacKay. It appears, based upon the testimony of Ms. Wilkinson and Mr. MacKay, that Ms. Wilkinson replaced Mr. Radelich as the second signing officer for the Corporation’s bank account. Ms. Wilkinson and Mr. MacKay also testified that the Corporation delegated to Boomerang the authority to determine which bills were to be paid. It is not clear from the evidence before me who was responsible for the payment of bills after Boomerang stopped managing the Restaurant. However, Mr. MacKay and Ms. Wilkinson were, during that period, the persons with signing authority with respect to the bank account.
+[32] Based upon the testimony of Mr. MacKay and Mr. O’Connor, it appears that, until Boomerang began managing the Restaurant, Mr. Radelich and an accounting clerk maintained the financial records of the Restaurant. After Mr. Radelich left the Restaurant, an accounting firm retained by the Band maintained the Restaurant’s financial records. Mr. O’Connor testified that the Band’s accountant assumed responsibility for the Restaurant’s books because the Band and Mr. O’Connor were concerned that the financial information provided by Mr. MacKay and the manager of the Restaurant was not accurate.
+[33] I was not provided with any financial statements for the Corporation. It is not clear to me if such financial statements were ever prepared.
+[34] Mr. O’Connor testified that the Corporation did not have formal board meetings. Rather, meetings were held with the stakeholders. It appears that most of the directors, the persons operating the Restaurant and different members of the Band attended the meetings.
+[35] Mr. O’Connor testified that either Mr. McKay or the manager of the Restaurant provided financial data at these meetings. During 2006, the Band’s accountant provided the financial information at the meetings. The Appellants filed with the Court an example of the data so provided. Exhibit A-1 is a computer printout entitled “Keltic Brewing Company Limited Balance Sheet As at 05/31/2006”. The document did not contain an income statement and was not in a form one would expect for a formal balance sheet. It appears to me that the document was a computer-generated trial balance. It was not clear to me who prepared the document.
+The Law
+[36] Subsection 323(3) of the HST Act provides as follows:
+A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[37] This Court and the Federal Court of Appeal have set out a number of principles that should be followed when considering the due diligence defence under subsection 323(3) of the HST Act or under subsection 227.1(3) of the Income Tax Act. The following are the relevant principles for the purposes of this appeal:
+a) The burden is on the Appellant to produce evidence of due diligence and to persuade the Court, on a balance of probabilities, that she or he has satisfied the requirements of subsection 323(3) of the HST Act.
+b) The due diligence required of directors is to prevent the failure to remit. The directors must establish that they exercised the requisite degree of care, diligence and skill to prevent the failure to remit. As a result, if directors become prima facie liable under subsections 323(1) and (2) of the HST Act for a company’s failure to remit, they normally cannot claim the benefit of subsection 323(3) if their efforts were capable only of enabling them to remedy defaults after they had occurred. [2]
+c) Due diligence normally requires that when a director becomes aware, or ought to have become aware, that the company is falling behind with its remittances, he or she should take some positive steps to prevent the default. In addition, the fact that a company is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. However, the standard is reasonableness not perfection.[3]
+d) While it may be important for a director to delegate his administrative duties in order to facilitate the sound management of a corporation and keep it running efficiently, such a delegation is not an abdication and does not exonerate the delegator from liability. Further, a director cannot base a due diligence defence on his or her reliance on delegates to perform the tasks honestly and correctly if the director had reason for suspicion, if the corporation was in financial difficulty or if the director had received an indication that “something” was wrong.[4]
+e) It may be appropriate to impose a higher standard on an inside director than an outside director. This is particularly so if it is established that the outside director reasonably relied on assurances from the inside directors that the corporation’s tax remittance obligations were being met.[5] Inside directors are those who are “involved in the day-to-day management of the company and who influence the conduct of its business affairs.”[6]
+Application of the Law to the Facts
+[38] I will deal with each Appellant separately.
+Mr. MacKay
+[39] Counsel for the Appellants acknowledged that Mr. MacKay was a signing officer of the Corporation and that, because of his contact with Canada Revenue Agency (“CRA”) officials in 2004 and 2005, he was “put on notice that up until June of 2005, there was a problem with the GST remittances.”
+[40] However, counsel argued that, with respect to the HST reporting periods ending on September 30, 2006 and December 31, 2006, Mr. MacKay relied on the assurances given by the persons managing the Restaurant[7] that everything was under control. He also argued that such assurances were consistent with the actions of the CRA, which had not contacted the Corporation in the fourteen months prior to September 2006.
+[41] He also argued that once Mr. MacKay became aware, in late November of 2006, that the situation was much worse than he had thought, he took steps to bring the business back onto a solid footing. Counsel also focused on Ms. Wilkinson’s agreement to pay all outstanding statutory liabilities of the Corporation.
+[42] He argued that, based upon the information Mr. MacKay received, his geographic location (in relation to the location of the Restaurant) and the fact that he was not involved in the day-to-day management of the business, it was diligent of him to hire professional managers to manage the Restaurant and make the required remittances.
+[43] I do not agree with these submissions.
+[44] The burden was on Mr. MacKay to persuade the Court, on a balance of probabilities, that he satisfied the requirements of subsection 323(3) of the HST Act. In particular, Mr. MacKay was required to establish that he exercised the required degree of care, diligence and skill to prevent the failure by the Corporation to remit that occurred on October 31, 2006 and January 31, 2007.
+[45] The Appellants did not provide the Court with any evidence of actions taken by Mr. MacKay (or Mr. Power) to prevent the failure by the Corporation to remit the HST.
+[46] Mr. MacKay influenced the conduct of the Corporation’s business; he was the controlling force behind the Corporation.
+[47] Further, Mr. MacKay was involved in the day-to-day operations of the Restaurant. In 2004 and 2005, he signed the cheques and visited the Restaurant on a regular basis to review the payments made by Mr. Radelich.
+[48] Mr. MacKay (together with Mr. Power) made the decision in late 2005 or early 2006 to have Boomerang manage the Restaurant. In addition, when it became clear in November of 2006 that Boomerang would not be acquiring the business, it was Mr. MacKay and Mr. Power who developed the recovery plan and negotiated the sale of the Restaurant to Ms. Wilkinson.
+[49] As noted previously, due diligence normally requires that, when a director becomes aware, or ought to have become aware, that the company is falling behind with its remittances, he or she should take some positive steps to prevent the default.
+[50] At numerous points during his testimony, Mr. MacKay stated that he was not aware that the Corporation had fallen behind in its HST remittances. For example, when asked by counsel for the Respondent whether he knew that the Corporation was failing to remit tax when required, he replied as follows:
+I wasn’t aware of that. I mean, as far as I was concerned, at the end of 2005, when I was actually working with the general manager on a regular basis, the HST was... You know, he filed it and everything was cool. So after that, I don't know. Other than as I mentioned, when it surfaced. I would just call down to the general manager and see how things were going.[8]
+[51] Mr. MacKay’s answer was consistent with his other testimony; he was not aware of remittance difficulties in 2004 and 2005, did not have access to the books in 2006 (kept by the Band’s accounting firm) and relied on the managers to make the remittances. He testified that he first became aware of the Corporation being significantly behind in its HST remittances in November 2006.
+[52] Mr. MacKay relied on Exhibit A-1, which, he stated, was financial information provided by the Band’s accountant that showed that the HST remittances were current.
+[53] During his testimony, Mr. MacKay at first denied having had conversations with CRA officials with respect to the Corporation’s outstanding HST returns. He then clarified his testimony as follows:
+. . . I can’t recall, but I know I remember having one call. It might have been two, it might have been three. If I received a call from the Canada Revenue Agency, I would immediately say: “Here is the name and number of the general manager that runs the place and files the returns and sends you the cheques. Please call this person.”[9]
+[54] I do not accept Mr. MacKay’s testimony with respect to his knowledge of the failure of the Corporation to file its HST returns and remit its net tax when required by the HST Act. Based upon the evidence before me, it is clear that the Corporation was substantially behind in its HST remittances from early 2004 until Ms. Wilkinson closed it in 2007. It is also clear from the evidence that Mr. MacKay was aware of the Corporation’s failure to remit its net tax on the statutory filing dates.
+[55] Exhibit R-4 is a one-page document that summarizes the Corporation’s filing history with respect to its HST returns. The exhibit shows the following:
+- The first HST return of the Corporation that recorded a positive net tax was due on April 30, 2004; it was filed over 5 months late.
+- All subsequent HST returns were filed late. The majority of the returns were filed 2 to 3 months after their due date.
+- Of the 12 HST returns filed late between October 7, 2004 and July 23, 2007, only two included payment of the full net tax reported on the returns.
+- All of the returns filed for reporting periods ending between June 30, 2005 and December 31, 2006 were filed late with either no payment of the net tax owing or a minimal payment.
+[56] Mr. Ferguson testified for the Respondent. Mr. Ferguson is a CRA official who was involved with the Corporation’s file from October 2004 to June 2005. Mr. Ferguson described numerous conversations he had with Mr. MacKay between October 4, 2004 and June 22, 2005 with respect to the Corporation’s late-filed HST returns.
+[57] The first conversation, on October 4, 2004, dealt with three reporting periods, namely, those ending on December 31, 2003, March 31, 2004 and June 30, 2004. During the conversation, Mr. MacKay provided Mr. Ferguson with information regarding the mailing date for the HST returns for the December 31, 2003 and March 31, 2004 reporting periods and informed Mr. Ferguson that the return for the June 30, 2004 reporting period would be mailed shortly.
+[58] On November 19, 2004, Mr. MacKay returned Mr. Ferguson’s call made the previous day and informed him that the HST return for the period ending on September 30, 2004 would be filed shortly.
+[59] On February 8, 2005, Mr. Ferguson called Mr. MacKay and informed him that the Corporation had an outstanding balance in its HST account of $32,073. Mr. MacKay informed Mr. Ferguson that he would speak with his accountant and call back by February 14, 2005 regarding payment in full of that balance.[10]
+[60] On March 3, 2005, Mr. Ferguson called Mr. MacKay to inform him that the Corporation’s return for December 31, 2004 was outstanding. Mr. MacKay stated that the Corporation filed the return on February 28, 2005 (one month late) with payment of the amount owing.
+[61] On June 22, 2005, Mr. MacKay called Mr. Ferguson (returning Mr. Ferguson’s call) to inform him that he would look into the outstanding return for the March 31, 2005 reporting period and would call Mr. Ferguson back. Mr. Ferguson did not receive a subsequent call from Mr. MacKay.
+[62] The fact that Mr. MacKay was not forthcoming with respect to his knowledge of the remittance history of the Corporation and his conversations with the CRA seriously damaged his credibility. I have given no weight to his testimony with respect to his knowledge of the Corporation’s late-filed HST returns and late remittances. As noted previously, it is clear from the evidence before me that Mr. MacKay was aware of the Corporation’s failure to remit its net tax on the statutory filing dates.
+[63] Mr. MacKay’s primary defence with respect to the remittance due on October 31, 2006 is that he had delegated responsibility to Boomerang, a professional manager that he trusted to run the Restaurant.
+[64] The comment by the Federal Court of Appeal regarding the appellant in Borduas, supra, applies here: while it may have been important for Mr. MacKay to delegate his administrative duties to Boomerang to facilitate the sound management of the Corporation and keep it running efficiently, such a delegation is not an abdication and does not exonerate Mr. MacKay from liability. Further, Mr. MacKay cannot, in the present appeal, base a due diligence defence on his reliance on Boomerang to make the remittances. The Corporation was in financial difficulty. This was, in fact, the reason he and Mr. Power brought in Boomerang (in an attempt to make the Restaurant saleable). Further, Mr. MacKay was aware that the Corporation was behind in filing its HST returns and making its HST remittances.
+[65] In such a situation, Mr. MacKay could not escape his responsibility as a director of the Corporation by delegating responsibility for the HST remittances to Boomerang and then taking a hands-off approach. On the contrary, he should have taken some positive steps to ensure that the Corporation made the HST remittances in a timely fashion. There is no evidence before me that he took any such steps. Further, there is no evidence before me that he took even the basic step of making inquiries to determine if the HST was being remitted.
+[66] Mr. MacKay’s position with respect to the HST remittance due on January 31, 2007 was that he was working to put the Restaurant’s business on a solid footing, which included negotiating the agreement with Ms. Wilkinson.
+[67] Neither of these actions constituted steps to prevent the failure by the Corporation to remit the HST.
+[68] Any action taken by Mr. MacKay to remedy the defaults after they occurred is irrelevant for the purposes of the subsection 323(3) due diligence defence. This would include the agreement with Ms. Wilkinson pursuant to which she agreed to pay “all statutory obligations for all previous Directors”.
+[69] The recovery plan prepared by Mr. MacKay and Mr. Power in December of 2006 reflects the steps taken to put the Restaurant’s business on a solid footing. This plan contains only general comments. There is no specific financial plan. More importantly, it does not refer to the Corporation’s HST remittances.
+[70] As noted previously, there is no evidence before me that Mr. MacKay took any steps to prevent the Corporation’s failure to remit its net tax that was due on January 31, 2007.
+[71] In summary, I find that Mr. MacKay has not established, on a balance of probabilities, that he exercised the required degree of care, diligence and skill to prevent the failure to remit.
+Mr. Power
+[72] The Appellants’ counsel argued that Mr. Power acted diligently. He argued that Mr. Power lived in a separate community an hour’s drive from the Restaurant, was not responsible for the day-to-day management of the Restaurant and exercised the same diligence as the chartered accountant who was a director of the Corporation.
+[73] I do not believe that Mr. Power was completely forthcoming with respect to his involvement with the Corporation or his knowledge of its financial position.
+[74] It is clear from his testimony and Mr. MacKay’s that Mr. Power was aware that the Corporation was suffering financial difficulties at the end of 2005. He knew that the Corporation fired Mr. Radelich in late 2005. Mr. Power testified that the Corporation turned to Boomerang in late 2005 to “fix the problem” at the Restaurant.
+[75] Mr. Power attended the November 2006 board meeting at which the Band proposed that the Restaurant be put into bankruptcy. He was one of the authors (together with Mr. MacKay) of the recovery plan.
+[76] Once Mr. Power became aware of the financial problems of the Corporation, he should have taken some positive steps to assure himself that the Corporation was remitting the HST.
+[77] Mr. Power testified that he did not keep track of the Corporation’s finances and made no effort to determine if the Corporation was satisfying its HST remittance obligations. In short, he took no positive steps to assure himself that the Corporation was remitting the HST.
+[78] In such a situation, Mr. Power cannot avail himself of the due diligence defence provided in subsection 323(3) of the HST Act.
+[79] I share with counsel for the Appellants his concerns with respect to the failure of the CRA to assess Mr. O’Connor and Mr. Johnson. They each resigned as directors of the Corporation in November 2006 and thus could not have been liable for the net tax the Corporation failed to remit on January 31, 2007. However, based upon their testimony, it is not clear to me why they were not assessed for the Corporation’s failure to remit its net tax on October 31, 2006. I can only assume that the CRA has information in its possession that was not before the Court.
+[80] Regardless, the fact that Mr. O’Connor and Mr. Johnson were not assessed is irrelevant for the purposes of this appeal. The directors are jointly and severally, or solidarily, liable under subsection 323(1) of the HST Act for the Corporation’s failure to satisfy its remittance obligations under the HST Act.
+[81] For the foregoing reasons, each of the appeals is dismissed, without costs.
+Signed at Antigonish, Nova Scotia, this 27th day of July 2011.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2011 TCC 369
+COURT FILE NOS.: 2010-1670(GST)I
+2010-1671(GST)I
+STYLE OF CAUSE: RICHARD E. POWER v.
+HER MAJESTY THE QUEEN and
+HAROLD H. MacKAY v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: March 31, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: July 27, 2011
+APPEARANCES:
+Counsel for the Appellants:
+Brian P. Casey
+Counsel for the Respondent:
+Toks C. Omisade
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Brian P. Casey
+Firm: Boyne Clarke
+Dartmouth, Nova Scotia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It is not clear to the Court how Mr. Power and Mr. MacKay could give an undertaking for the transfer of shares held by Mr. Radelich, Mr. P. J. Power and Mr. Graham.
+[2] See Worrell v. R., [2001] 1 C.T.C. 79, at para. 32.
+[3] See Worrell, supra; Smith v. R., 2001 FCA 84, [2001] 2 C.T.C. 192; and Soper v. Canada., [1998] 1 F.C. 124.
+[4] See Borduas v. R., 2010 FCA 102, 2010 G.S.T.C. 62.
+[5] See Smith, supra; Soper, supra; Worrell, supra; and Borduas, supra.
+[6] Soper, supra, at para. 44.
+[7] Mr. Radelich prior to 2006, Boomerang in 2006 and Ms. Wilkinson after Boomerang stopped managing the Restaurant.
+[8] Transcript, page 81, lines 14-21.
+[9] Transcript, page 129, lines 18-24.
+[10] Transcript, page 225, lines 22-25.

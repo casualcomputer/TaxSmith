@@ -1,0 +1,232 @@
+Title: 626468 New Brunswick Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/310628/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-100-310628-626468-new-brunswick-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-05-25
+
+# 626468 New Brunswick Inc. c. La Reine
+
+- Citation: 2018 CCI 100
+- Decision date: 2018-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4703, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+626468 New Brunswick Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-25
+Référence neutre
+2018 CCI 100
+Numéro de dossier
+2014-4756(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4756(IT)G
+ENTRE :
+626468 NEW BRUNSWICK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 novembre 2017, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Brian K. Awad
+Avocat de l’intimée :
+Me David I. Besler
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 25e jour de mai 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 27e jour d’août 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2018 CCI 100
+Date : 20180525
+Dossier : 2014-4756(IT)G
+ENTRE :
+626468 NEW BRUNSWICK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. INTRODUCTION
+[1] La question à trancher aux présentes consiste à déterminer si le calcul du revenu protégé est effectué avant ou après impôt?
+[2] Je suis d’avis que les impôts doivent être pris en considération dans le calcul du montant du revenu protégé, pour les motifs suivants.
+II. FAITS
+[3] M. Rodney J. Gillis est avocat. Au milieu de 2006, il était personnellement propriétaire d’un immeuble de rapport situé au 411, rue Ellerdale, à Saint John (Nouveau-Brunswick) [« l’immeuble d’Ellerdale » ou « l’immeuble »].
+[4] Une partie non liée souhaitait acheter l’immeuble d’Ellerdale.
+[5] M. Gillis savait que la vente de l’immeuble donnerait lieu à un gain en capital. Il s’est donc adressé au cabinet d’experts-comptables BDO Dunwoody s.r.l. (« BDO ») pour être informé sur la manière de structurer la vente de l’immeuble d’Ellerdale de façon à ce qu’elle soit effectuée de façon fiscalement avantageuse.
+[6] M. Ralph Neville, un comptable agréé à BDO, a rédigé une note de service établissant une structure fiscale afin de minimiser les conséquences fiscales qui découleraient de la vente de l’immeuble d’Ellerdale.
+[7] M. Gillis a accepté de mettre en œuvre la structure fiscale proposée par M. Neville. Conséquemment, les démarches suivantes ont été entreprises : [1]
+(a) Tri-Holdings Limitée (« Tri-Holdings ») était une société dûment constituée en vertu des lois du Nouveau-Brunswick. M. Gillis en était le seul actionnaire.
+(b) En novembre 2006, M. Gillis a transféré l’immeuble d’Ellerdale à Tri-Holdings à titre de bien en immobilisation.
+(c) La contrepartie fournie par Tri-Holdings pour l’immeuble d’Ellerdale à M. Gillis était (1) une entente consistant à assumer une partie de l’hypothèque grevant l’immeuble d’Ellerdale égale à la valeur comptable de l’immeuble; (2) la possession de toutes les parts de la société Tri-Holdings, comprenant quatre actions ordinaires.
+(d) Une valeur en capital versé symbolique (« CV ») de 4,00 $ a été attribuée aux actions de Tri-Holdings.
+(e) M. Gillis a déposé un formulaire T2057 pour informer l’Agence du revenu du Canada (« ARC ») qu’un transfert en franchise d’impôt en vertu du paragraphe 85(1) de la Loi de l’impôt sur le revenu (la « Loi ») avait été effectué à une valeur égale à la valeur comptable de l’immeuble d’Ellerdale (« le premier transfert en franchise d’impôt »).
+(f) Le 30 novembre 2006, M. Gillis a transféré ses quatre actions dans Tri-Holdings à l’appelante, 626468 New Brunswick Inc. (« 468 »), une entreprise du Nouveau-Brunswick, en échange de la pleine possession de l’entreprise, comprenant quatre actions ordinaires (« le deuxième transfert en franchise d’impôt »). M. Gillis et 468 ont déposé un formulaire T2057 pour informer l’ARC que le deuxième transfert en franchise d’impôt avait été effectué à la valeur en CV pour les actions de Tri-Holdings – 4,00 $.
+(g) Par la suite, Tri-Holdings a vendu l’immeuble d’Ellerdale à une partie non liée. Ainsi, Tri-Holdings a réalisé un gain en capital et une récupération de la déduction pour amortissement.
+(h) Cinquante pour cent du gain en capital, à savoir 1 319 500 $, ont été comptabilisés dans le compte de dividendes en capital (« CDC ») de Tri-Holdings. L’autre moitié du gain en capital, plus la récupération de l’amortissement, totalisaient 3 079 184 $.
+[8] Après la vente de l’immeuble d’Ellerdale, Tri-Holdings a augmenté le CV de ses actions ordinaires de la façon suivante :
+Le 13 décembre 2006
+1 500 000 $.
+Le 14 décembre 2006
+200 000 $.
+Le 15 décembre 2006
+100 000 $.
+Le 16 décembre 2006
+50 000 $.
+Le 17 décembre 2006
+29 120 $.
+Le 18 décembre 2006
+569 093 $.
+Sous-total
+2 448 213 $.
+Le 15 décembre 2006
+1 319 500 $. (dividendes en capital)
+Total
+3 767 713 $.
+[9] Tri-Holdings a augmenté son CV par étapes, donnant lieu à des dividendes réputés imposables à 468, en vertu du paragraphe 84(1) de la Loi. Les dividendes réputés avaient l’effet d’augmenter le prix de base rajusté des actions de Tri-Holdings que détenait 468, en vertu de l’alinéa 53(1)b) de la Loi, ne produisant aucun gain en capital lorsque 468 a vendu ses actions de Tri-Holdings.
+[10] Il n’y a eu aucune conséquence fiscale pour 468 en ce qui concerne les dividendes réputés produits, car, en vertu de l’article 112 de la Loi, 468 avait le droit de déduire le montant des dividendes réputés, car il s’agissait de dividendes intersociétés.
+[11] En ce qui concerne le dividende en capital de 1 319 500 $, qui représente le solde du CDC de Tri-Holdings, 468 n’a subi aucune conséquence fiscale, en application du paragraphe 83(2) de la Loi.
+[12] Le 29 décembre 2006, 468 a vendu toutes ses actions de Tri-Holdings pour 3 767 616 $ à Wilshire Technology Corporation.
+[13] Après avoir soustrait une perte en capital sur la vente de ses actions de Tri-Holdings, le revenu net de 468 s’élevait à 3 767 707 $ pour l’année d’imposition 2006.
+[14] Pour l’année d’imposition 2006, 468 n’a déclaré aucun revenu imposable :
+Revenu net
+3 706 856 $
+Déclaration T2 pour 2006
+[EN BLANC]
+Revenu net d’après les états financiers
+3 706 856 $
+Dividendes non imposables
+1 319 500 $
+Revenu net aux fins de l’impôt sur le revenu
+2 447 907 $
+Dividendes imposables [déductibles en vertu du paragraphe 112(1)]
+2 448 212 $
+Revenu imposable
+Aucun $
+[15] Le 31 décembre 2006, Tri-Holdings a poursuivi ses activités en tant que société de la Colombie-Britannique sous la dénomination sociale 077825 BC Limitée (« 825 »), et a conclu une entente pour l’acquisition d’un logiciel de Securitas Video Corporation; Tri-Holdings/825 a demandé une déduction pour amortissement en fonction du coût du logiciel acquis. Le ministre du Revenu national (le « ministre ») a refusé la demande de déduction pour amortissement. Au moment du procès, cette cotisation faisait l’objet d’une opposition.
+[16] Le ministre a établi une nouvelle cotisation à l’égard de 468, au motif que les dividendes réputés versés à 468 excédaient le revenu protégé de Tri-Holdings, donnant lieu à un gain en capital imposable aux termes du paragraphe 55(2) de la Loi. En conséquence, le ministre a établi la cotisation relative à l’impôt sur le revenu fédéral au montant de 69 596 $ et à l’impôt sur le revenu provincial de 25 282 $, et a établi une pénalité de 16 129,26 $, en application du paragraphe 162(1) de la Loi, ainsi que des intérêts sur arriérés d’impôt de 52 956,35 $.
+[17] En établissant la nouvelle cotisation, le ministre a présumé que Tri-Holdings avait, au 13 décembre 2006, un revenu imposable de 3 079 184 $ et une obligation fiscale de 1 081 586 $. Par conséquent, le ministre a fait valoir que le revenu protégé de Tri-Holdings n’était pas supérieur à 1 998 098$ et ne s’établissait pas à 3 079 184 $ comme l’avait fait valoir l’appelante, puisque le revenu protégé devait être réduit de l’impôt sur le revenu, un calcul devant être fait immédiatement avant le moment où un dividende a été versé ou est réputé avoir été versé en tant que partie intégrante de l’opération, de l’événement ou de la série, selon la première éventualité à se produire; en l’espèce, ce calcul devait être fait avant le 13 décembre 2006.
+III. THÈSES DES PARTIES
+A. Appelante
+[18] La thèse de l’appelante est que je devrais accorder le sens ordinaire aux mots « revenu gagné ou réalisé » figurant au paragraphe 55(2) de la Loi. Elle allègue que le « revenu gagné ou réalisé » figurant au paragraphe 55(2) de la Loi renvoie au revenu brut ou au revenu avant impôt.
+[19] L’appelante allègue que le libellé de l’alinéa 55(2)c) de la Loi est clair. Aux termes de cet alinéa, les seuls montants qui réduisent le revenu protégé sont les montants déduits en vertu de l’article 37.1 – déduction supplémentaire pour la recherche et le développement – ou de l’alinéa 20(1)gg) – déduction pour inventaire. Si le législateur voulait que le revenu protégé soit réduit de l’impôt sur le revenu, cela serait clairement indiqué au paragraphe 55(2). L’appelante a cité des exemples dans la Loi où le législateur renvoie clairement au revenu net d’impôt en utilisant des termes précis, comme « revenu non réparti et libéré d’impôt » et « surplus en main libéré d’impôt ».
+[20] De plus, l’appelante allègue que les impôts deviennent payables seulement à la fin de l’année d’imposition, à savoir, dans le présent appel, le 31 décembre 2006. En conséquence, vu qu’à la fin de son année d’imposition 2006, Tri-Holdings n’avait pas d’impôt à payer, le revenu protégé n’aurait pas dû être réduit.
+B. Intimée
+[21] L’intimée s’appuie sur la décision Deuce Holdings du juge Bell. [2] Elle allègue que les mots « revenu gagné ou réalisé » qui figurent à l’article 55 de la Loi renvoient au revenu net d’impôt. Ainsi, le revenu protégé devait être réduit de l’obligation fiscale de Tri-Holdings, un calcul qui devait être effectué avant que ne soit produit le premier dividende réputé.
+[22] S’appuyant sur l’arrêt Sa Majesté la Reine c. VIH Logging Ltd., [3] l’intimée allègue également que le calcul du revenu protégé devait être effectué avant le 13 décembre 2006, c’est-à-dire immédiatement avant que le premier dividende réputé ne soit reçu.
+IV. ANALYSE
+[23] Les parties pertinentes des dispositions de la Loi applicables au présent appel sont les suivantes :
+55(2) Dans le cas où une société résidant au Canada a reçu un dividende imposable à l’égard duquel elle a droit à une déduction en vertu des paragraphes 112(1) ou (2) ou 138(6) dans le cadre d’une opération, d’un événement ou d’une série d’opérations ou d’événements dont l’un des objets (ou, dans le cas d’un dividende visé au paragraphe 84(3), dont l’un des résultats) a été de diminuer sensiblement la partie du gain en capital qui, sans le dividende, aurait été réalisée lors d’une disposition d’une action du capital-actions à la juste valeur marchande immédiatement avant le dividende et qu’il serait raisonnable de considérer comme étant attribuable à autre chose qu’un revenu gagné ou réalisé par une société après 1971 et avant le moment de détermination du revenu protégé quant à l’opération, à l’événement ou à la série, malgré tout autre article de la présente loi, le montant du dividende (à l’exclusion de la partie de celui-ci qui est assujettie à l’impôt en vertu de la partie IV qui n’est pas remboursé en raison du paiement d’un dividende à une société lorsqu’un tel paiement fait partie de la série) :
+a) est réputé ne pas être un dividende reçu par la société;
+b) lorsqu’une société a disposé de l’action, est réputé être le produit de disposition de l’action, sauf dans la mesure où il est inclus par ailleurs dans le calcul de ce produit;
+c) lorsqu’une société n’a pas disposé de l’action, est réputé être un gain de la société pour l’année au cours de laquelle le dividende a été reçu de la disposition d’une immobilisation.
+55(5) Pour l’application du présent article :
+c) le revenu gagné ou réalisé par une société pour une période tout au long de laquelle elle était une société privée est réputé être son revenu pour la période qui serait déterminé par ailleurs si aucun montant n’était déductible par elle en vertu de l’article 37.1 de la présente loi, dans sa version applicable aux années d’imposition s’étant terminées avant 1995, ou de l’alinéa 20(1)gg) de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952;
+[24] Le paragraphe 55(2) de la Loi n’a pas pour but d’assujettir à l’impôt les dividendes intersociétés. Le paragraphe 55(2) de la Loi n’a pas non plus pour but d’assujettir à l’impôt sur les gains en capital tous les dividendes payés sur les actions en prévision de leur vente. Le paragraphe 55(2) s’appliquera uniquement si le revenu gagné ou réalisé ne suffit pas à couvrir les dividendes réputés ou les dividendes déclarés.
+[25] Comme l’a affirmé le juge Favreau dans la décision 101139810 Saskatchewan Ltd. c. Sa Majesté la Reine, [4] aux paragraphes 11 et 13 de ses motifs, le paragraphe 55(2) est une disposition anti-évitement qui s’appliquera dans les circonstances prescrites par cette disposition. Un revenu qui a déjà été imposé fait partie d’un revenu protégé et, comme il a déjà été imposé, ce revenu peut être distribué au moyen d’un dividende à d’autres sociétés canadiennes sans conséquence fiscale :
+[11] Le paragraphe 55(2) de la Loi est une disposition anti-évitement qui a été introduite dans le budget fédéral de 1979. Il visait les arrangements conçus pour utiliser l’exemption relative aux dividendes intersociétés de façon à réduire indûment un gain en capital sur la vente d’actions. Il traite les dividendes acquis dans ces situations soit comme le produit de la vente d’actions, soit comme des gains en capital, et non comme des dividendes reçus par la société.
+[13] En général, il existe trois exceptions au paragraphe 55(2). La première est incluse dans la disposition d’application et elle vise les situations où le dividende peut être raisonnablement attribuable à quelque chose d’autre qu’un revenu gagné ou réalisé par une société quelconque après 1971 (c’est ce qu’on appelle habituellement le dividende correspondant au « revenu protégé »). Le revenu protégé est protégé de l’application du paragraphe 55(2), parce qu’il a été assujetti à l’impôt sur le revenu des sociétés et qu’il devrait donc être possible de le payer sous la forme d’un dividende libre d’impôt à d’autres sociétés canadiennes (Notes explicatives concernant l’impôt sur le revenu, publiées en décembre 1997 par le ministère des Finances, à la page 184).
+[26] Le paragraphe 55(2) de la Loi s’appliquera au dividende si les exigences suivantes sont satisfaites :
+(1) la société qui a reçu le dividende était une société résidant au Canada;
+(2) la société bénéficiaire avait droit à une déduction en vertu de l’article 112 de la Loi;
+(3) le dividende a été reçu dans le cadre d’une série d’opérations qui ont donné lieu à une disposition de biens à une personne qui avait un lien de dépendance avec le bénéficiaire du dividende;
+(4) la juste valeur marchande de l’action immédiatement avant le versement du dividende aurait donné un gain en capital.
+[27] L’appelante a reconnu que les exigences du paragraphe 55(2) ont été satisfaites. Par conséquent, en l’espèce, l’unique question qu’il m’incombe de trancher consiste à déterminer si l’impôt à payer devrait être pris en compte dans le calcul du revenu protégé. [5]
+[28] Cette question a été tranchée par le juge Bell dans la décision Deuce Holdings Ltd. [6] Le juge Bell a expliqué, aux paragraphes 29 à 33, pour quels motifs les impôts devaient être extraits du revenu protégé. Le juge Bell a déclaré ceci :
+29 […] La deuxième question est de savoir si le "revenu [protégé]" est calculé avant ou après impôt. Il s'agit de savoir ce qu'on entend par :
+[...] revenu gagné ou réalisé [...] après 1971 et avant [...] le début de la série d'opérations [...]
+opérations qui, comme on en a convenu, ont commencé le 30 mars 1988. Ces mots auraient pu être définis ou décrits de façon que l'examen de la question élimine toute incertitude inutile au sujet de cette partie du paragraphe, qui comprend près de 300 mots. La description donnée à l'alinéa 55(5)c), soit :
+[...] le revenu gagné ou réalisé par une corporation pour toute une période au cours de laquelle elle était une corporation privée est réputé être son revenu pour la période déterminé[e] par ailleurs en supposant qu'aucun montant n'a été déductible par la corporation en vertu de l'alinéa 20(1)gg) ou de l'article 37.1;
+n'aide non seulement pas à déterminer si le "revenu [protégé]" est calculé avant ou après impôt, mais en omettant de parler de l'impôt elle laisse de fait entendre que l'impôt ne devrait pas être déduit.
+30 L'avocat de l'appelant a présenté des arguments au sujet de la raison pour laquelle le calcul devait être effectué avant impôt. Il a soutenu que, en somme, le revenu constitue un bénéfice. Il s'est reporté au paragraphe 9(1) qui est ainsi libellé :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+Il s'est reporté à l'affaire First Pioneer Petroleum Ltd., 74 D.T.C. 6109 ainsi qu'à la citation qu'elle renferme du jugement A.G. v. Ashton Gas Company, 1906 A.C. 10, dans lequel le lord chancelier, Earl of Halsbury, a fait la remarque suivante à la page 12 :
+[TRADUCTION]
+Le mot "profit" (bénéfice) est un terme anglais bien simple; mais l'impôt sur le revenu a changé tout cela. [ ] L'impôt sur le revenu est un prélèvement sur les bénéfices; l'impôt porte sur le bénéfice réalisé, et vous devez déterminer quel est le montant du bénéfice réalisé avant de déduire l'impôt; vous n'avez aucunement le droit de déduire l'impôt sur le revenu avant de déterminer le montant du bénéfice.
+L'avocat a ensuite souligné qu'en vertu de l'alinéa 18(1)a) de la Loi, dans le calcul du revenu, les montants qui n'ont pas été dépensés en vue de tirer un revenu ne sont pas déductibles, et il a posé la question suivante :
+[TRADUCTION]
+Comment peut-on déduire l'impôt alors qu'on essaie de calculer le revenu?
+L'avocat a également signalé que l'alinéa 55c) aurait pu inclure les mots :
+[TRADUCTION]
+[...] déterminé par ailleurs après la déduction de l'impôt de la corporation et de l'impôt par ailleurs payable en vertu de la présente loi.
+31 Malheureusement, il semble nécessaire de s'aventurer plus loin que le libellé de l'article 55 afin de déterminer si le calcul doit être effectué après impôt. C'est malheureux puisque la loi aurait pu être plus claire. Il est logique que le paragraphe 55(2) tienne compte du fait que le produit qui aurait été réalisé, si ce n'avait été du dividende, lors de la disposition d'une action à la juste valeur marchande immédiatement avant le dividende, aurait été calculé après impôt. La juste valeur marchande d'une action, en ce qui concerne l'élément "revenu", serait établie sur la base après impôt. Aucun acheteur rationnel ne paierait une action du capital-actions d'une corporation sans tenir compte de l'impôt payé ou payable sur le revenu de cette corporation.
+32 Il peut être simpliste de soutenir que les mots :
+[...] qui n'est pas du revenu gagné ou réalisé [...]
+après 1971 et avant [...] la série d'opérations [...]
+se rapportent de toute évidence au revenu après impôt, soit le seul revenu gagné au cours de cette période qui pourrait être distribué au moyen d'un dividende. Pareille thèse omettrait de tenir compte :
+a) de l'argument convaincant de l'avocat de l'appelante qui a donné au libellé ici en cause son sens clair;
+b) du fait que la Loi de l'impôt sur le revenu a par le passé été précise en utilisant des termes tels que "le revenu non réparti et libéré d'impôt" et "le surplus en main libéré d'impôt", et
+c) du fait que la plus-value constatée par expertise d'un actif tel que le fonds commercial, sur laquelle un dividende peut être versé, peut être considérée comme attribuable au revenu "gagné ou réalisé".
+33 Le bénéfice avant impôt ne peut pas être entièrement distribué. Il est dangereux de faire des conjectures au sujet de ce que la loi voulait dire, mais je conclus que dans ce cas-ci ce n'est que la fraction du "revenu gagné ou réalisé" par la corporation qui verse le dividende qui reste après impôt qui devrait être incluse dans le calcul du "revenu [protégé]".
+[29] Le juge Noël de la Cour d’appel fédérale renvoie, dans l’arrêt Sa Majesté la Reine c. Kruco Inc., [7] à la décision Deuce Holdings du juge Bell. Il convient que les mots « gagné ou réalisé » invoqués au paragraphe 55(2) se rapportent au revenu après impôts. Aux paragraphes 38 et 39, le juge Noël déclare :
+[38] Il ne fait aucun doute que cet exercice exige un examen afin de vérifier si le « revenu gagné ou réalisé » est resté en mains ou est demeuré disponible pour financer le paiement du dividende. Il s’ensuit, par exemple, que les impôts ou les dividendes payés à même ce revenu doivent être extraits du revenu protégé (voir Deuce Holdings Limitée, supra et Gestion Jean-Paul Champagne inc., supra). Il s’ensuit, par exemple, que les impôts ou les dividendes payés à même ce revenu doivent être extraits du revenu protégé (voir Deuce Holdings Limitée, supra et Gestion Jean-Paul Champagne inc., supra).
+[39] L’appelante soutient que le revenu fictif en cause doit être enlevé du « revenu gagné ou réalisé » selon la même logique que celle retenue pour les dividendes ou les impôts. En effet, puisque ce revenu ne correspond à aucune entrée de fonds, il ne peut être (et ne peut jamais avoir été) disponible ou en mains. Suivant cette logique, l’appelante prétend qu’il devrait être également enlevé du « revenu gagné ou réalisé ».
+[Non souligné dans l’original.]
+[30] L’appelante soutient que les impôts ont été calculés à la fin de l’année et qu’à la fin de l’année, Tri-Holdings n’avait aucun impôt sur le revenu à payer. Par conséquent, le revenu protégé ne devrait pas avoir été réduit par le ministre, car Tri-Holdings ne devait aucun impôt.
+[31] Je ne partage pas l’opinion de l’appelante. Comme l’a déclaré la juge Sharlow dans l’arrêt VIH Logging Ltd., précité, l’expression « revenu pour l’année » n’est pas employée au paragraphe 55(2) de la Loi.
+[32] Le revenu protégé doit être déterminé comme le prescrit la Loi. Le moment de détermination du revenu protégé est énoncé dans la Loi comme suit :
+moment de détermination du revenu protégé [...] Quant à une opération, à un événement ou à une série d’opérations ou d’événements, le premier en date des moments suivants :
+a) le moment après la première disposition ou la première augmentation de participation, visée à l’un des sous-alinéas (3)a)(i) à (v), qui a résulté de l’opération, de l’événement ou de la série;
+b) le moment avant le premier versement de dividende dans le cadre de l’opération, de l’événement ou de la série.
+[33] En l’espèce, le revenu protégé de Tri-Holdings devait être déterminé immédiatement avant le 13 décembre 2006, c’est-à-dire immédiatement avant que le premier dividende présumé soit produit. C’est ce qu’a fait le ministre et, ce faisant, il a calculé correctement le revenu protégé en tenant compte de l’impôt à payer par Tri-Holdings.
+[34] L’appel est donc rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 25e jour de mai 2018.
+« Johanne D’Auray »
+La juge D’Auray
+Traduction certifiée conforme
+ce 27e jour d’août 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 100
+NO DU DOSSIER DE LA COUR :
+2014-4756(IT)G
+INTITULÉ :
+626468 NEW BRUNSWICK INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 20 novembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 25 mai 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Brian K. Awad
+Avocat de l’intimée :
+Me David I. Besler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Brian K. Awad
+Cabinet :
+McInnes Cooper
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] La structure de planification fiscale faisait partie de l’exposé conjoint partiel des faits déposé par les parties durant l’instruction.
+[2] Deuce Holdings Ltd. c. Canada, [1997] A.C.I. no 786 (CCI).
+[3] Sa Majesté la Reine c. VIH Logging Ltd., 2005 CAF 36.
+[4] 101139810 Saskatchewan Ltd. c. Sa Majesté la Reine, 2017 CCI 3.
+[5] Voir : Aveu de l’appelante, transcription de l’audience, aux pages 49 et 50.
+[6] Décision Deuce Holdings Ltd., précitée, aux paragraphes 29 à 33.
+[7] Sa Majesté la Reine c. Kruco Inc., 2003 CAF 284.

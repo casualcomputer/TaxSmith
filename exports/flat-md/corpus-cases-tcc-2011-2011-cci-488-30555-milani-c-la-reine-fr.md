@@ -1,0 +1,367 @@
+---
+title: "Milani c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30555/index.do"
+last_modified: "2011-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 488"
+citation2: ""
+neutral_citation: "2011 CCI 488"
+decision_date: "2011-10-19"
+language: "fr"
+item_id: "30555"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7296
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:32:29.275000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b300feaa1b5d3f11163a26668862f7b740617044926e260655cd7b6876e875c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Milani c. La Reine
+
+- Citation: 2011 CCI 488
+- Decision date: 2011-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7296, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Milani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-19
+Référence neutre
+2011 CCI 488
+Numéro de dossier
+2009-3609(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2009-3609(GST)I
+2009-3610(GST)I
+2009-3611(GST)I
+ENTRE :
+FRANÇOIS MILANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune le 16 août 2011,
+à Montréal (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Avocat de l’appelant :
+Me Pierre Blain
+Avocat de l’intimée :
+Me Danny Galarneau
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies relativement à la taxe sur les produits et services en vertu du paragraphe 323(1) de la Loi sur la taxe d'accise, dont les avis sont datés du 8 janvier 2009, portant les numéros PM-14735 et PM-14731 et du 4 septembre 2008, portant le numéro PM‑14399, sont rejetés avec dépens en faveur de l’intimée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2011.
+« Alain Tardif »
+Juge Tardif
+Référence : 2011 CCI 488
+Date : 20111019
+Dossiers : 2009-3609(GST)I
+2009-3610(GST)I
+2009-3611(GST)I
+ENTRE :
+FRANÇOIS MILANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Dans un premier temps, il a été convenu entre les parties qu’une seule preuve serait soumise et déposée au soutien des trois appels dans les dossiers suivants : 2009-3609(GST)I, 2009-3610(GST)I et 2009-3611(GST)I.
+[2] Il a également été convenu que la seule question en litige était de savoir si la démission de l’administrateur, François Milani (« l’appelant »), en date du 1er avril 2006 était opposable à l’intimée auquel cas l’appelant soumet que les cotisations à l’origine des appels étaient prescrites et conséquemment doivent être annulées.
+[3] L’appelant a fait témoigner le notaire qui a affirmé avoir préparé certains documents relatifs aux démissions, tels les procès verbaux et les registres inhérents et avoir complété les formulaires requis pour enregistrer le tout auprès du Registraire des entreprises du Québec.
+[4] Ce dernier a affirmé qu’il avait préparé les documents en question à la demande de Juan Carlo Massironi qu’il connaissait personnellement alors qu’il avait peu ou pas d’information ou connaissance quant aux activités des sociétés concernées par les démissions.
+[5] Détail important et particulier, M. Massironi, acteur important, voire même stratégique aux termes de la preuve, n’a pas témoigné; il était absent lors de l’audition.
+[6] Le témoignage du notaire a porté essentiellement sur les documents qui portaient la signature de l’appelant présent dans la salle. Le tribunal a refusé le dépôt des documents privés qui portaient la signature des personnes non présentes empêchant ainsi toute possibilité de contre‑interrogatoire.
+[7] Le notaire a tenté d’expliquer d’une manière très peu convaincante pourquoi certains documents pourtant très importants, notamment la déclaration modificative, avaient deux versions différentes quant à leur contenu ayant le même but, et ce, au niveau notamment des signatures.
+[8] Il en fut ainsi au niveau de l’enregistrement du même document; selon le notaire, il aurait été préparé et signé le 1er avril 2006 et communiqué beaucoup plus tard au Registre des entreprises du Québec, la date de l’enregistrement étant le 9 janvier 2007, tel qu’il appert à l’estampe officialisant la date de réception.
+[9] Le notaire a affirmé avoir transmis les documents peut être en octobre ou en novembre; il a exprimé son étonnement quant à la date indiquée, soit le 9 janvier, laissant croire qu’il avait pu y avoir un certain laxisme. Cette suspicion est d’autant plus étonnante que le notaire a affirmé et admis avoir délibérément retenu certains documents étant donné que ses honoraires n’étaient pas acquittés, et ce, bien que les conséquences quant aux dates pouvaient avoir un impact et des effets financiers démesurément plus importants que le montant de ses honoraires; il n’a cependant pas été question du montant des honoraires impayés, mais il appert que les cotisations totales s’élèvent à quelques millions de dollars. Étant donné que le notaire devait connaître la date du paiement de ses honoraires, il aurait pu l’indiquer de manière à mieux situer dans le temps la date d’envoi probable des fameux documents.
+[10] Dans un deuxième temps, l’appelant a également témoigné, soutenant de manière claire et catégorique, avoir démissionné formellement le 1er avril 2006, tel que l’avait indiqué auparavant le notaire.
+[11] En dehors de cette date de démission, son témoignage a été vague et confus au point de nier certaines admissions de son fiscaliste et avocat.
+[12] Sa mémoire devenait très sélective lorsqu’il s’agissait d’expliquer son implication et sa participation dans les affaires des sociétés après le 1er avril 2006. Il se repliait toujours derrière l’explication voulant qu’après sa démission comme administrateur, le 1er avril 2006, M. Massironi lui avait demandé de continuer de s’occuper de ce qu’il a qualifié de service à la clientèle. À quelques reprises, il s’est replié derrière l’excuse de la jeunesse et l’inexpérience pour expliquer certaines incohérences ou contradictions.
+[13] Il a affirmé avoir accepté le mandat spécifique et restreint étant donné que la plupart des griefs et doléances concernaient des clients qu’il avait lui‑même servis et desquels il se sentait responsable.
+[14] Il aurait été intéressant d’obtenir la version du mandant, M. Massironi. Il a répété sans arrêt que les faits et gestes effectués après le 1er avril 2006 étaient des choses de routine et sans importance.
+[15] Appelé à expliquer sa signature sur plusieurs documents signés après la date de sa démission le 1er avril 2006, l’appelant a affirmé qu’il s’agissait là de faits isolés sans importance effectués à la demande expresse de M. Massironi ou par ignorance, inexpérience.
+[16] Face à un autre document, il a soutenu qu’il ne s’agissait pas d’un cinq correspondant au mois de mai postérieur à sa démission alléguée, mais plutôt d’un trois signifiant que la signature avait eu lieu en mars donc avant sa démission.
+[17] Manifestement bien préparé pour attaquer la crédibilité du témoin, l’intimée a fait ressortir que l’appelant, après la date de sa démission, avait signé seul plusieurs chèques pour des montants totalisant, voire dépassant, 1 000 000 $, et ce, au nom de la compagnie. Il avait le pouvoir de signer seul des chèques pour les trois sociétés, et ce, après le 1er avril 2006.
+[18] L’appelant a admis avoir signé, à titre d’administrateur, plusieurs actes notariés, et ce, toujours après avril 2006.
+[19] L’appelant a admis et reconnu sa signature sur plusieurs documents dont la date était postérieure au 1er avril 2006.
+[20] À plusieurs occasions, l’appelant a affirmé qu’il s’agissait là de choses courantes ou secondaires; quant au fait que sa seule signature soit suffisante pour signer des chèques pour des montants très substantiels, encore là, il a indiqué que cela devait s’apprécier avec pondération puisque les activités des sociétés dont il avait été l’administrateur représentaient des montants substantiellement supérieurs à quelques millions. L’envergure commerciale des affaires des trois sociétés auxquelles l’appelant a fait référence pour pondérer l’importance des chèques qu’il effectuait est très difficilement réconciliable avec l’ignorance, l’inexpérience et la jeunesse auxquelles il a aussi fait référence pour expliquer certaines incohérences.
+[21] La position de l’appelant est fort simple à résumer. Il soutient avoir formellement démissionné à titre d’administrateur des trois sociétés cotisées, soit les compagnies dans les dossiers 2009-3609(GST)I, 2009-3610(GST)I et 2009‑3611(GST)I.
+[22] Se référant au paragraphe 323(1) de la Loi sur la taxe d’accise (LTA), il plaide que les cotisations établies en vertu du paragraphe 323(1) sont prescrites d’où elles doivent être annulées.
+Nom du dossier
+Numéro de dossier
+Nom de la société
+Numéro de la cotisation
+Date de la cotisation
+François Milani
+2009-3609(GST)I
+6090532 Canada inc.
+PM-14735
+8 janvier 2009
+François Milani
+2009-3610(GST)I
+Construction Sopra inc.
+PM-14731
+8 janvier 2009
+François Milani
+2009-3611(GST)I
+Construction Spazio inc.
+PM-14399
+4 septembre 2008
+[23] L’appelant prétend que sa seule démission en date du 1er avril 2006 est suffisante pour faire échec au bien-fondé des cotisations. Il ajoute que tout ce qui devait suivre ou découler au niveau de la dénonciation ou de la publicité relative à sa démission ne lui incombait pas. Toujours selon l’appelant, la suite réglementaire et documentaire, telle que les registres et les avis, n’était plus sa responsabilité étant donné qu’à compter de sa démission, il a alors perdu toute autorité quant à la gestion des sociétés concernées, imputant aux autres la responsabilité de publiciser sa démission auprès des autorités compétentes.
+[24] Quant aux nombreux faits et gestes effectués après le 1er avril 2006, l’appelant a soutenu et répété qu’il s’agissait là, essentiellement, de détails sans importance dans le cours ordinaire des affaires ne mettant aucunement en doute ou en cause la qualité de sa démission.
+[25] La preuve composée essentiellement de deux témoins, soit l’appelant lui‑même et le notaire qui avait préparé le texte des trois démissions, a établi d’une manière prépondérante que l’appelant avait participé et contribué de manière non équivoque à l’administration et à la gestion, et plus spécifiquement au niveau des affaires des sociétés, et ce, non seulement pour les affaires courantes, mais pour des faits et gestes très importants étroitement liés à la vocation des trois sociétés.
+[26] Devant l’évidence d’une telle réalité, l’appelant a admis avoir agi comme administrateur de facto pour les sociétés reportant ainsi la date d’entrée en vigueur des démissions, indiquée comme étant le 1er avril 2006, au 9 janvier 2007.
+[27] En conclusion, l’appelant soumet finalement qu’en tenant pour acquis qu’il a continué d’agir de facto à titre d’administrateur, les cotisations établies pour les sociétés ayant bénéficié de cette gestion de facto sont quand même nulles puisqu’encore là, il s’est écoulé plus de deux années entre les derniers faits et gestes effectués à titre d’administrateur de facto et la date des cotisations. L’appelant affirme que la date de réception des avis de modification est le 16 novembre 2006; il indique que les délais entre cette date et le 9 janvier 2007, date ou l’estampillage a été fait ne peuvent pas lui être imputables. Il affirme avec vigueur que l’intimée n’a pas été en mesure de démontrer clairement l’exécution de faits concrets à l’exception de ceux établis par les nombreux documents, soit divers documents, chèques, actes notaires, etc.
+[28] De son côté, l’intimée soutient que les démissions en date d’avril 2006 ne sont pas des démissions véritables et que la seule date qui doit être prise en considération est le 9 janvier 2007, et ce, pour les trois sociétés étant donné qu’il s’agit de la date où un tiers aurait pu prendre connaissance de la déclaration modificative au Registre des entreprises du Québec.
+Analyse
+[29] L’article 323 de la LTA lie la responsabilité des administrateurs d’une personne morale quant aux montants de TPS perçus par cette dernière, à moins qu’il puisse soulever une défense, notamment :
+a. L’avis de cotisation a été envoyé deux ans après qu’il a cessé d’être administrateur ; ou
+b. La personne a fait preuve de prudence et diligence en tant qu’administrateur.
+[30] En l’espèce, l’appelant a uniquement soulevé l’argument de la prescription.
+[31] L’appelant n’a jamais soulevé la défense de prudence et diligence, et il ne peut pas s’en prévaloir.
+[32] Étant donné l’importance de la crédibilité de la preuve soumise je me permets de reproduire un extrait de la décision de Madame la juge Lamarre dans l’arrêt Tehrani c. R.[1], qui a été confirmé en appel[2] (2007 CAF 12) :
+13 À mon sens, les documents présentés à l'instruction par l'appelant constituent une preuve intéressée après le fait et, s'ils existaient réellement en 1998, on aurait dû les communiquer dès que le syndic ou l'ADRC les a demandés.
+14 Je ne suis pas convaincue que l'appelant ait réellement donné sa démission le 29 septembre 1998. Comme la seule lettre de démission qui reste a été signée en 2001, la cotisation établie en vertu de l'article 227.1 de la Loi le 28 août 2002 l'a été dans le délai de prescription prévu au paragraphe 227.1(4). Comme aucun autre argument n'a été avancé par l'appelant, il est solidairement responsable, avec la société, d'une dette de 114 655 $ envers le ministre.
+[33] Sur cette même question de la crédibilité, la juge V. A. Miller écrivait ce qui suit :
+23 En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s'il diverge du témoignage rendu à l'interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j'ai acceptés). Il m'est ensuite loisible d'apprécier l'attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d'induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C'est-à-dire que j'ai toute latitude pour rechercher si l'examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables[3].
+Analyse de la loi
+[34] L’article 323 de la LTA tient l’administrateur d’une personne morale responsable solidairement avec cette dernière en ce qui a trait au remboursement des taxes perçues :
+323. (1) Les administrateurs d'une personne morale au moment où elle était tenue de verser, comme l'exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l'exige l'article 230.1, un montant au titre d'un remboursement de taxe nette qui lui a été payé ou qui a été déduit d'une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[35] La LTA prévoit deux défenses pour l’administrateur, notamment la diligence, prévue au paragraphe 323(3) de la LTA, et la prescription, prévue au paragraphe 323(5) :
+(3) L'administrateur n'encourt pas de responsabilité s'il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+(5) L'établissement d'une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu'il a cessé pour la dernière fois d'être administrateur.
+Il est à noter que le paragraphe 323(5) de la LTA prescrit l’établissement de la cotisation de l’administrateur pour sa responsabilité personnelle dans les deux ans à partir du moment qu’il a « cessé pour la dernière fois d’être administrateur ».
+La prescription
+[36] Le paragraphe 323(5) de la LTA est similaire au paragraphe 227.1(4) de la Loi sur l’impôt du revenu, et la jurisprudence, ainsi que la doctrine, s’inspirent de l’interprétation de l’un pour interpréter l’autre.
+[37] Pour établir le moment à partir duquel la personne a cessé d’être administrateur, la jurisprudence s’inspire de la loi selon laquelle la compagnie est établie. Selon l’arrêt Kalef v. R.[4] de la Cour d’appel :
+10 La Loi de l'impôt sur le revenu ne définit pas le terme "administrateur" et elle n'établit pas de critère en ce qui concerne le moment où une personne cesse d'occuper ce poste. Compte tenu du silence de la Loi de l'impôt sur le revenu, il est logique de se tourner vers la loi régissant la constitution en personne morale de la compagnie pour y trouver une réponse.[5]
+[38] L’appel actuel implique une société constituée selon la loi fédérale, la LCSA[6], ainsi que deux sociétés constituées selon l’ancienne loi provinciale du Québec, la LCQ[7], conséquemment il y a lieu d’analyser la définition d’administrateur et les modes de démission selon les deux.
+LCSA : 6090532 Canada inc.
+[39] La LCSA, la loi constitutive du 6090532 Canada inc., défini un administrateur comme suit :
+2. (1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« administrateur » et « conseil d’administration »
+“director”, “directors” and “board of directors”
+« administrateur » Indépendamment de son titre, le titulaire de ce poste; « conseil d’administration » s’entend notamment de l’administrateur unique.
+[40] La LCSA prévoit le suivant pour la fin de mandat d’un administrateur :
+108. (1) Le mandat d’un administrateur prend fin en raison :
+a) de son décès ou de sa démission;
+En ce qui concerne la date effective d’une démission, l’alinéa 108(2) prévoit :
+108. (2) La démission d’un administrateur prend effet à la date de son envoi par écrit à la société ou, à la date postérieure qui y est indiquée.
+Ainsi une démission doit être écrite pour être valide.
+[41] Pour protéger les tiers, la LCSA prévoit que la société concernée par une démission ou tout changement, doit aviser le directeur du changement dans les 15 jours du changement intervenu :
+Avis de changement
+113. (1) Dans les quinze jours suivant soit tout changement dans la composition du conseil d’administration, soit la réception de l’avis de changement d’adresse visé au paragraphe (1.1), la société doit aviser le directeur du changement, en la forme établie par lui, pour enregistrement.
+Les intéressés, comme un directeur qui envoi sa démission, peuvent demander à un tribunal d’obliger la société à envoyer cet avis par ordonnance :
+(2) À la demande de tout intéressé ou du directeur, le tribunal peut, s’il le juge utile, obliger par ordonnance la société à se conformer au paragraphe (1), et prendre toute autre mesure pertinente.
+[42] L’appelant a déposé comme Pièce A-1-2, une lettre de démission datée du 1e avril 2006, mais aucun avis n’a été envoyé par la société 6090532 Canada inc. avant le mois de novembre, selon le témoignage du notaire.
+[43] L’authenticité de ce document, surtout au niveau de la date, n’est pas très crédible.
+[44] Non seulement l’appelant n’a pas entamé les démarches prévues par la loi pour enjoindre la société à envoyer l’avis de changement d’administrateur, bien au contraire il a continué à signer des documents, y compris des contrats notariés et des chèques au nom de la société. Dans les faits, il a continué à agir comme un administrateur. D’ailleurs, lors des discussions, négociations avec les représentants de l’intimée, il n’a jamais été fait mention de la démission du 1er avril 2006. Il est important de rappeler que la société bénéficiait des conseils d’un fiscaliste. Après avoir catégoriquement affirmé n’avoir rien fait de significatif après le 1er avril 2006, il a été obligé de reconnaître sa signature sur des chèques dont les montants étaient substantiels, ayant pleine autorité pour signer de tels chèques, sur des actes notariés et autres documents.
+[45] Il a soutenu qu’il s’agissait là de petits mandats occasionnels que lui donnait M. Massironi; ce dernier n’est pas venu témoigner.
+[46] La juge Campbell dans une décision récente, Campbell[8] écrivait ce qui suit :
+22 Lorsque des contribuables n'avaient pas rigoureusement satisfait aux exigences particulières applicables à la démission d'un administrateur en vertu des lois provinciales régissant les sociétés, les tribunaux ont jugé qu'ils étaient personnellement responsables au motif qu'ils n'avaient pas convenablement démissionné (Zwierschke v. Minister of National Revenue, [1991] 2 C.T.C. 2783, 92 D.T.C. 1003 (T.C.C.), nº 89-1633(IT), 22 novembre 1991 (C.C.I.), et Shepherd v. R., 2008 D.T.C. 4284 (Eng.) (T.C.C. [Informal Procedure]) nº 2007-3730(IT)I, 25 avril 2008 (C.C.I.)).
+[47] Il est également fort intéressant de prendre en compte des extraits de la décision du juge Bell dans l’arrêt Netupsky[9] :
+24 Dans l'affaire Hattem c. R., 2008 TCC 32, [2008] T.C.J. No. 17 (T.C.C. [General Procedure]), le juge Lamarre-Proulx a conclu qu'une démission était valable uniquement s'il était satisfait aux exigences de notification qui s'appliquent lors d'un changement d'administrateur. L'avocat de l'appelant s'est appuyé sur la décision rendue dans l'affaire Netupsky v. R., [2003] G.S.T.C. 15 (T.C.C. [General Procedure]), nº 2000-4608(GST)G, 21 janvier 2002 (C.C.I.), et a fait valoir que les remarques faites dans le jugement Hattem étaient incidentes. L'avocat a soutenu qu'à la lumière du jugement Netupsky, la lettre de démission d'un administrateur ne sera pas invalide du seul fait qu'elle n'a pas été déposée auprès de l'organisme gouvernemental compétent. En particulier, cette obligation ne s'appliquerait pas en l'espèce compte tenu du libellé de l'article 178 de la Corporations Act de Terre-Neuve.
+25 Dans le jugement Hattem, qui a été rendu en vertu de la Loi sur les compagnies du Québec, L.R.Q., ch. C-38, la Cour a décidé qu'un document n'était pas valide à l'égard des tiers s'il n'était pas déposé auprès du registraire des entreprises provincial.
+26 La Corporations Act de Terre-Neuve, qui est pertinente en l'espèce, comporte des dispositions similaires à celles figurant dans la Loi sur les compagnies du Québec. On peut lire les commentaires qui suivent aux paragraphes 31 et 32 du jugement Hattem:
+31 Si un administrateur démissionne du conseil d'administration d'une société débitrice fiscale et veut que cette démission soit un acte juridique valide à l'égard du Ministre, selon la Loi sur les compagnies du Québec, cet administrateur doit informer le Ministre de sa démission lors des échanges de correspondance relatifs à la dette fiscale de la société et à ceux relatifs à la responsabilité des administrateurs. Je ne crois pas que les lois des autres provinces ainsi que la loi fédérale sur les compagnies soient différentes à cet égard.
+32 Selon la preuve présentée, il semble que c'était Monsieur Hattem qui discutait avec les agents du Ministre, apparemment pour lui et l'appelante, de la dette de la société. Tel que déjà relaté, quand les agents lui ont mentionné qu'ils envisageaient une cotisation en vertu de l'article 323 de la Loi contre lui, il a fait valoir qu'il avait démissionné comme administrateur. Il leur a fait parvenir copie de la déclaration modificative produite le 19 février 2002 auprès du registraire des entreprises. Les agents ont accepté cet état des choses et l'en ont informé le 21 juillet 2005. Ils ont continué à l'égard de l'appelante. Il faut se souvenir que cette dernière avait signé une procuration à son avocat en date du 2 juin 2005 pour traiter des affaires de la société avec Revenu Québec. La cotisation contre elle est en date du 31 août 2005.
+27 Selon le jugement Hattem, la démission de l'appelant ne serait pas valable puisqu'il a omis d'envoyer un avis au registraire des sociétés. En outre, l'appelant ne se rappelait pas avoir envoyé un tel avis. Bien qu'on ait trouvé une copie de la lettre dans le dossier d'entreprise d'une autre société, Rent-Alls Ltd., cela ne fait que soulever de nouvelles questions quant à l'authenticité de cette lettre de démission.
+28 Bien que l'envoi de cette lettre au registraire des sociétés puisse ne pas avoir été préjudiciable, ainsi que l'appelant l'a laissé entendre, je suis préoccupée par le fait que, même si elle a été trouvée dans un autre dossier d'entreprise, celui de Rent-Alls Ltd., la lettre ne comportait pas de timbre d'enregistrement indiquant la date d'enregistrement et le numéro du document. On n'a en définitive produit aucun élément de preuve sur l'importante question de savoir comment la lettre a abouti dans le dossier d'entreprise d'une autre société appartenant à l'appelant.
+29 Dans l'affaire Moll v. R., 2008 TCC 234, 2008 D.T.C. 3420 (T.C.C. [Informal Procedure]), le juge V. A. Miller a décidé que la démission de l'administrateur n'était pas valable pour des motifs liés à l'authenticité. Dans cette affaire, le contribuable avait uniquement présenté des photocopies, avait omis d'informer le ministre de sa démission jusqu'à ce que l'appel soit interjeté et avait continué à agir comme administrateur.
+30 Compte tenu du fait qu'il incombe à l'appelant de présenter des éléments de preuve pour étayer l'authenticité de la lettre de démission, je dois conclure qu'il ne l'a pas fait et que, par conséquent, il n'a pas démissionné de son poste d'administrateur de CRL le 31 décembre 2000. Il y avait un certain nombre de contradictions entre la preuve présentée au cours des interrogatoires préalables et le souvenir que l'appelant avait des événements. Lors du contre-interrogatoire, le témoignage de l'appelant contredisait des déclarations qu'il avait faites au cours de l'interrogatoire préalable en ce qui concerne l'endroit où la lettre de démission avait été rangée et la manière dont la lettre avait été trouvée. La question de savoir si la lettre avait réellement été rédigée le 31 décembre 2000 a également soulevé des doutes. L'appelant n'a jamais informé les tiers créanciers de sa démission et il n'en a avisé l'ARC qu'en août 2006, même si ses intérêts dictaient assurément qu'il valait mieux qu'il communique ce renseignement.
+[48] La juge Campbell a finalement conclut son analyse de la manière suivante :
+31 Même si j'avais conclu que l'appelant avait convenablement donné sa démission le 31 décembre 2000, je crois que, comme l'intimée l'a laissé entendre, il est demeuré administrateur de fait de CRL après cette date. Il n'a jamais informé les tiers créanciers ni l'ARC de sa démission. Il n'en a pas informé l'ARC au moment du dépôt, en 2004, de la proposition qui a précédé l'établissement de la cotisation et qui renfermait des questions habituelles telles que celle de savoir s'il avait continué à agir en tant qu'administrateur, pas plus qu'au cours des réunions tenues avec des représentants de l'ARC en 2005.
+Les sociétés Construction Sopra et Spazio
+[49] Les sociétés Construction Sopra et Spazio étaient assujetties à la LCQ qui prévoit ce qui suit :
+123.76. Malgré l'expiration de son mandat, un administrateur demeure en fonction jusqu'à ce qu'il soit réélu, remplacé ou destitué.
+Il peut résigner ses fonctions en donnant un avis à cet effet.
+Il est à noter que la LCQ ne prévoit pas d’exigence quant à la forme d’avis de résignation, contrairement à la LCSA qui prévoit qu’une démission doit être sous forme d’un écrit.
+[50] Comme la LCSA, la LCQ prévoit une obligation pour la compagnie d’émettre une déclaration modificative en cas de modification dans les administrateurs, par exemple dans le cas d’une démission, tout en prévoyant la possibilité pour l’administrateur ayant soumis sa résignation d’enjoindre la compagnie à se conformer :
+123.81. Dans les 15 jours suivant tout changement dans la composition du conseil d'administration, la compagnie doit donner avis de ce changement en produisant une déclaration à cet effet conformément à la Loi sur la publicité légale des entreprises (chapitre P-44.1).
+Sur requête de tout intéressé ou du registraire des entreprises, le tribunal peut obliger la compagnie à se conformer au présent article et prendre toute autre mesure pertinente, s'il le juge utile.
+[51] Selon le témoignage du notaire, une déclaration modificative a été préparée pour Spazio le 1e avril 2006[10], mais elle n’a pas été envoyé jusqu’en novembre ou décembre 2006. Il est également à noter que l’appelant n’a entrepris aucune démarche pour enjoindre Spazio à envoyer cette déclaration modificative. L’appelant plaide qu’après sa démission le 1er avril 2006, il n’avait pas l’autorité pour inciter ou forcer la société à publiciser sa démission par les avis appropriés auprès du Registraire. Il avait cependant l’autorité pour signer les chèques, les actes notariés et tous les documents permettant à un tiers de croire qu’il était toujours l’administrateur pour les sociétés concernées. D'ailleurs, il a fait référence à la démission seulement à l’étape des oppositions.
+[52] Aucune déclaration modificative n’a été produite pour Construction Sopra, seules une lettre de démission et une résolution signées par l’appelant.
+[53] La Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (LPL), remplacée par une autre loi depuis le 14 février 2011 mais en vigueur pendant la période en question, prévoit ce qui suit :
+62. Les informations relatives à chaque assujetti font preuve de leur contenu en faveur des tiers de bonne foi à compter de la date où elles sont inscrites à l'état des informations. Les tiers peuvent par tout moyen contredire les informations contenues dans une déclaration ou dans un document transféré au registraire en vertu de l'article 72, 72.1 ou 73.
+Ces informations sont les suivantes:
+[…]
+6° le nom et le domicile de chaque administrateur avec mention de la fonction qu'il occupe;
+[…]
+82. Les informations relatives à chaque assujetti sont opposables aux tiers à compter de la date où elles sont inscrites à l'état des informations. Les tiers peuvent par tout moyen contredire les informations contenues dans une déclaration ou dans un document transféré au registraire en vertu de l'article 72, 72.1 ou 73.
+Ces informations sont les suivantes:
+[…]
+6° le nom et le domicile de chaque administrateur en mentionnant la fonction qu'il occupe;
+[54] La preuve soumise par l’appelant n’est pas convaincante pour contredire l’enregistrement au Registre, d’autant plus qu’il a continué de signer les chèques et les actes notariés dans le cours des affaires.
+[55] L’analyse suivante du juge Landry de la Cour du Québec sur l’effet d’une démission quant à la responsabilité d’un administrateur selon la Loi de l’impôt sur le revenu a été citée par l’intimée. Même si les décisions de la Cour du Québec ne lient pas la Cour canadienne de l’impôt, l’analyse de la loi effectuée par le juge Landry est intéressante et pertinente :
+[43] Au Québec, l'administrateur d'une compagnie régie par la Loi sur les compagnies[5] peut démissionner "oralement", donc sans avoir l'obligation de consigner sa démission par écrit.
+123.76 Malgré l'expiration de son mandat, un administrateur demeure en fonction jusqu'à ce qu'il soit réélu, remplacé ou destitué.
+Il peut résigner ses fonctions en donnant un avis à cet effet.
+123.81 Dans les quinze jours suivant tout changement dans la composition du conseil d'administration, la compagnie doit donner avis de ce changement en produisant une déclaration à cet effet conformément à la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (chapitre P-45).
+Sur requête de tout intéressé ou de l'inspecteur général, le tribunal peut obliger la compagnie de se conformer au présent article et prendre toute autre mesure pertinente, s'il le juge utile.
+(Soulignements ajoutés).
+[44] En effet, on constate ici une différence avec les dispositions de la Loi sur les sociétés par action fédérale (L.S.A.)[6] qui prévoit l'envoi d'un "écrit" pour démissionner :
+108. (1) Fin du mandat – Le mandat d'un administrateur prend fin en raison :
+a) de son décès ou de sa démission;
+b) de sa révocation aux termes de l'article 109;
+c) de son inhabilité à l'exercer, aux termes du paragraphe 105(1).
+(2) Date d'effet de la démission – La démission d'un administrateur prend effet à la date de son envoi par écrit à la société ou, à la date postérieure qui y est indiquée.
+113. (1) Avis de changement – Dans les quinze jours suivant tout changement dans la composition du conseil d'administration, la société doit en aviser en la forme prescrite le directeur qui enregistre cet avis.
+(Soulignements ajoutés).
+[45] Par ailleurs, la Loi sur la publicité légale des entreprises individuelle, des sociétés et des personnes morales (LPL)[7] prévoit ce qui suit :
+62. Les informations relatives à chaque assujetti font preuve de leur contenu en faveur des tiers de bonne foi à compter de la date où elles sont inscrites à l'état des informations. Les tiers peuvent par tout moyen contredire les informations contenues dans une déclaration ou dans un document transféré au registraire en vertu de l'article 72, 72.1 ou 73.
+82. Les informations relatives à chaque assujetti sont opposables aux tiers à compter de la date où elles sont inscrites à l'état des informations. Les tiers peuvent contredire les informations contenues dans une déclaration par tous les moyens.
+Ces informations sont les suivantes:
+[…]
+6e le nom et le domicile de chaque administrateur en mentionnant la fonction qu'il occupe;
+[46] Dès lors, on doit se poser la question suivante : une démission qui n'a pas fait l'objet d'une modification au registre gouvernemental approprié peut-elle être opposée au ministre du Revenu du Québec en regard de la prescription prévue par le second alinéa de l'article 24.0.2 LMR? Ou encore, l'article 82 LPL retarde-t-il la date effective de la démission d'un administrateur au moment où cette démission fera l'objet de l'inscription d'une modification au registre du Registraire des entreprises?
+[47] Il a été maintes fois décidé[8] que l'obligation de faire inscrire une démission (ou autre information) au Registre n'incombe pas à l'administrateur démissionnaire mais à la compagnie elle-même. On ne peut opposer à cet administrateur un manquement à cet égard pour "écarter" sa démission si, par ailleurs, celle-ci a bel et bien eue lieu de bonne foi[9].
+[48] Cela amène les auteurs Martel et Martel, dans leur traité sur La compagnie au Québec, à conclure ainsi sur le sujet[10] :
+21-197
+Les administrateurs peuvent en tout temps démissionner en tant que membres du conseil d'administration. Il n'y a pas de formule sacramentelle pour présenter cette démission, et rien dans la Partie I de la Loi sur les compagnies ne vient régir cette matière. En pratique, il est préférable pour fins de preuve de donner sa démission par écrit, mais cela n'est pas essentiel: l'administrateur peut démissionner verbalement lors d'une assemblée du conseil, et faire enregistrer cette démission dans le procès-verbal de l'assemblée. En l'absence de stipulations contraires dans les règlements de la compagnie, il n'est pas nécessaire, pour qu'une démission prenne effet, qu'elle soit acceptée par le conseil: il suffit qu'elle soit dûment reçue par la compagnie, par l'entremise par exemple de son président. Une fois déposée, la démission ne peut être retirée sans le consentement de la compagnie.
+21-202 Soulignons par ailleurs que l'administrateur démissionnaire a avantage à veiller à ce que la formule d'avis de changement des administrateurs énonçant son retrait soit dûment produite à Québec ou Ottawa, à cause de la présomption créée par la loi que les administrateurs désignés comme tels dans le dernier avis envoyé au registraire des entreprises ou au Directeur occupent bel et bien ce poste. Cette présomption est toutefois réfutable, et elle ne joue qu'en faveur des tiers de bonne foi.
+21-207 Quant à la Partie IA de la Loi sur les compagnies, elle se contente de déclarer qu'un administrateur «peut résigner ses fonctions en donnant un avis à cet effet». On peut présumer que cet avis, écrit ou non (l'écrit est évidemment préférable pour fins de preuve), suffit à donner effet à la démission, sans qu'une acceptation du conseil soit requise. On peut présumer aussi, même si ce n'est pas spécifié, que la démission ne peut être rétroactive.
+[49] C'est donc à partir de la preuve présentée à l'audition que le Tribunal doit décider si un administrateur a réellement démissionné ou pas.
+[50] Retenons à cet égard que c'est l'appelant qui a le fardeau de prouver sa démission et sa date, le cas échéant, vu la présomption de validité de la cotisation[11].
+[Je souligne.]
+[51] L'analyse de la jurisprudence sur les cas de démissions dans le cadre de poursuites personnelles contre des administrateurs révèle des situations des plus variées[12].
+[5] LRC 1985, 5e supplément, C-1
+[6] Lois refondues du Canada, 1985, c. C-44
+[7] L.R.Q., ch. P-45
+[8] Migneault c. Inspecteur général des Institutions financières, J.E. 93-1229 (C.Q.); C.C.Q. c. Légaré, J.E. 98-1575 (C.Q.); Aikens c. St-Pierre J.E. 97-1827 (C.Q.); Gagnon c. S.M.R.Q. 2004 RDFQ 360 (C.Q.); Commission de la construction du Québec c. Raymond J.E. 2001-951 (C.Q.); C.C.Q. c. Mathieu DTE 2005T-193 (C.Q.); C.C.Q. c. Marceau-Morin BE 2006 BE-272 (C.Q.); Girard c. S.M.R.Q. 2008 R.DFQ 251 (C.Q.).
+[9] Idem, note 8
+[10] Mes Maurice et Paul Martel, La compagnie au Québec, Volume I, Les aspects juridiques, 2010, Éditions Wilson et Lafleur Ltée, Montréal
+[11] Johnson c. MNR 1948 RCS 486; St-Georges c. S.M.R.Q. DFQE 2007 F-113 (C.A.); Distributeurs Clé D'OR inc. c. S.M.R.Q. DFQE 88F-20 (C.A.); Québec (Sous-ministre du Revenu) c. Dupuis J.E. 96-1883 (C.A.) Capobianco c. S.M.R.Q. JE 2007-1837 (C.A.);
+[12] Ouahidi c. S.M.R.Q. DFQE 2008F-103 (C.Q.); Laplante c. S.M.R.Q. DFQE 2008F-85 (C.Q.); Lehoux c. S.M.R.Q. DFQE 2008F-6 (C.Q.); Gilbert c. S.M.R.Q. DFQE 2008F-68 (C.Q.); Vachon c. S.M.R.Q. J.E. 2009‑1326 (C.Q.)
+[13] pièce D-10
+[14] lire à ce sujet Ouahidi c. S.M.R.Q. DFQE 2008F-103 (C.Q.); Laplante c. S.M.R.Q. DFQE 2008F-85 (C.Q.); C.C.Q. c. Couture J.E. 93-1180 (C.Q.);
+[15] Martel et Martel, déjà cités, note 10
+Il est à noter que l’édition de la La compagnie au Québec[11] citée par le juge Landry est la version la plus récente, et donc plus à jour que la Loi à laquelle s’est référé le juge Proulx dans Hattem, cité au paragraphe 56.
+[56] La Loi sur les sociétés par actions (LSA) qui s’applique aux sociétés par actions constituées au Québec à partir du 14 février 2011, exige une lettre de démission écrite, comme la LCSA l’exige déjà (l’alinéa 142(2) de la LSA) :
+142. Le mandat d'un administrateur prend fin par son inhabilité à exercer son mandat, par sa démission ou par sa révocation.
+La démission de l'administrateur prend effet à la date de la réception par la société de l'avis écrit qu'il en donne ou à la date postérieure qui y est indiquée.
+[57] La Loi sur la publicité légale des entreprises (LPLE) qui a remplacé la Loi sur la publicité légale des entreprises individuelles, des sociétés et des personnes morales (LPL) depuis le 14 février 2011, prévoit ce que suit en matière de la publicité de droit et opposabilité aux tiers :
+33. À moins d’une dispense établie par règlement du ministre, la déclaration d’immatriculation de l’assujetti contient:
+[…]
+[Alinéa 2] Elle contient en outre, le cas échéant:
+[…]
+2° les nom et domicile de chaque administrateur avec mention de la fonction qu’il occupe ou, si tous les pouvoirs ont été retirés au conseil d’administration par une convention unanime des actionnaires conclue en vertu d’une loi du Québec ou d’une autre autorité législative du Canada, les nom et domicile des actionnaires ou des tiers qui assument ces pouvoirs;
+[…]
+41. L’assujetti doit mettre à jour les informations visées aux articles 33 à 35 le concernant, contenues au registre, en produisant une déclaration de mise à jour dans les 30 jours de la date où survient un changement, à moins que la loi ne prévoie un délai plus court.
+[…]
+98. Sont opposables aux tiers à compter de la date où elles sont inscrites à l’état des informations et font preuve de leur contenu en faveur des tiers de bonne foi les informations suivantes relatives à l’assujetti:
+[…]
+6° les nom et domicile de chaque administrateur en mentionnant la fonction qu’il occupe ou, si tous les pouvoirs ont été retirés au conseil d’administration par une convention unanime des actionnaires conclue en vertu d’une loi du Québec ou d’une autre autorité législative du Canada, les nom et domicile des actionnaires ou des tiers qui assument ces pouvoirs;
+7° la date de l’entrée en fonction des personnes visées aux paragraphes 6° et 10° et, s’il y a lieu, la date de la fin de leur charge;
+[…]
+Les tiers peuvent, par tout moyen, contredire les informations contenues dans un document qui est produit au registraire ou lui est transféré en application d’une entente conclue conformément à l’un des articles 117 ou 118.
+Le contenu de l’article 98 est très clair. Il s’agit là d’une mesure essentielle pour aviser tous les tiers dont l’intimée. Il s’agit là d’informations hautement pertinentes qui doivent être régulièrement mises à jour. Le deuxième alinéa de l’article 98 permet aux tiers de « contredire les informations contenues dans un document qui est produit au registraire » par tout moyen.
+Administrateur de fait
+[58] Même si une résignation au sens de la loi peut être complétée en bonne et due forme, le fait qu’une personne continue à agir comme administrateur l’empêche de se prévaloir de la provision de l’alinéa 323(5), car il peut être alors considéré comme un administrateur de fait. Il est opportun ici de citer le juge Proulx dans l’arrêt Hattem[12], où il cite Paul Martel :
+33 Le fait pour une personne de se présenter aux tiers comme un administrateur fera d'elle un administrateur de facto. Je cite l'auteur Paul Martel dans le Précis de droit sur les compagnies au Québec, 1ere édition, Montréal (QC), Éditions Wilson & Lafleur, Martel Ltée, 2000, aux pages 465 et 489[13] :
+[...]
+Comme son nom l'indique, l'administrateur de facto sera considéré comme un administrateur si, dans les faits, il usurpe cette fonction en posant des actes normalement réservés aux administrateurs : par exemple, participer aux réunions du conseil d'administration, signer des résolutions du conseil, prendre ou participer à des décisions d'administration ou d'aliénation, donner des instructions au nom de la compagnie, se présenter aux tiers comme un administrateur, etc. ...
+[...]
+Un administrateur qui démissionne mais qui continue en fait d'agir et de se présenter aux tiers comme administrateur de la compagnie risque, nonobstant sa démission, d'être considéré comme administrateur de facto et en tant que tel de demeurer sujet aux responsabilités imposées par la loi aux administrateurs.
+Soulignons par ailleurs que l'administrateur démissionnaire a avantage à veiller à ce que la formule d'avis de changement des administrateurs énonçant son retrait soit dûment produite à Québec ou Ottawa, à cause de la présomption créée par la loi que les administrateurs désignés comme tels dans le dernier avis envoyé à l'Inspecteur général ou au Directeur occupent bel et bien ce poste (L.c.Q., art. 123.31(2) et (3); L.c.s.a., art. 253(2); L.p.l. art. 62(6)). Cette présomption est toutefois réfutable, et elle ne joue qu'en faveur des tiers de bonne foi.
+[...]
+34 La preuve a révélé que l'appelante a continué à se présenter comme administratrice jusqu'au 2 juin 2005 auprès des agents du Ministre. Ni elle ni son mari, n'ont informé le Ministre de sa prétendue démission. Même si cette démission avait eu lieu à la date soumise, l'appelante serait tout de même restée un administrateur de facto. Cette démission ne pourrait être opposée au Ministre qui ignorait ce fait jusqu'à l'avis d'opposition. Mais, je suis d'avis, que selon la preuve en cette affaire, la démission n'a pas eu lieu à la date du 22 mars 2002.
+[59] Selon la jurisprudence, pour cesser d’être administrateur, une personne ne doit pas agir comme administrateur de fait dans la période en question[14]. Cette exigence est fondamentale au point qu’elle peut annuler tous les effets et bénéfices d’une véritable démission.
+[60] Il s’agit évidemment d’une disposition claire et très simple à comprendre. Il doit s’agir d’une véritable démission et la preuve de sa réalité doit être déterminante, fiable et crédible.
+Diligence et prudence
+[61] Outre la défense de la prescription, la loi permet à l’appelant de se prévaloir de la défense d’avoir agi comme un administrateur prudent et diligent (alinéa 323(3) LTA). En l’espèce, l’appelant a essentiellement soulevé la question de la prescription; il n’a soumis aucune preuve quant à la défense de diligence et prudence.
+[62] Il n’y a donc pas lieu d’apprécier la preuve sous cet angle.
+[63] Dans le présent appel, il semble que l’appelant ait même utilisé le montant des taxes perçues à titre de mandataire pour payer les dettes des sociétés.
+[64] Je dois rappeler que le fardeau de la preuve repose sur les épaules de l’appelant. Pour relever un tel fardeau, l’appelant a choisi de témoigner et de faire entendre le notaire qui aurait préparé le texte de la démission pour chacune des trois sociétés.
+[65] Son témoignage a été empreint d’inconfort, mais aussi, et surtout de contradictions évidentes n’ayant fait l’objet d’aucune explication raisonnable ou même crédible.
+[66] Le notaire a même admis sa responsabilité quant à un retard indu pour la production d’un document fort important soit la déclaration modificative datée du 1er avril 2006, mais transmise peut-être en octobre, novembre ou même en décembre 2006. L’appelant quant à lui a indiqué la date du 16 novembre comme étant la date de transmission et ce, bien que l’estampillage du document fasse état du 9 janvier 2007. Le notaire a affirmé que la cause du retard était le non‑paiement de ses honoraires.
+[67] Le 9 janvier 2007 étant la date estampée par le Registraire des entreprises au niveau de la réception, le notaire a affirmé qu’il avait envoyé le tout possiblement en novembre, mais qu’il était incapable d’indiquer clairement la date, bien que le paiement de ses honoraires puisse être une référence probante.
+[68] La preuve dont le fardeau incombait à l’appelant a été constituée de deux témoignages non crédibles, cousus de fil blanc, confus, contredits par des écrits; je relève notamment les éléments suivants pour discréditer la qualité des témoignages entendus :
+a. l’inconfort manifeste du notaire,
+b. les contradictions entre les affirmations et le contenu de plusieurs documents,
+c. l’absence de témoins pourtant fort importants,
+d. jamais fait état des démissions du 1er avril 2006 avant le moment de l’opposition,
+e. jamais fait état desdites démissions lors des rencontres avec l’agente de recouvrement,
+f. l’admission de la qualité d’administrateur de facto quant à la gestion pour la période ultérieure au 1er avril 2006,
+g. mémoire sélective de l’appelant et du notaire,
+h. l’explication rocambolesque du notaire pour expliquer le retard à produire une déclaration modificative très importante et surtout très conséquente;
+i. témoignage intéressé de l’appelant.
+[69] La preuve d’une démission qui constitue le fondement de contestation d’une cotisation se doit d’être cohérente, vraisemblable, et surtout crédible. En l’espèce, trois démissions furent semble-t-il signées le même jour, et ce, pour trois sociétés distinctes.
+[70] En tenant pour acquis que les dates des signatures sur les démissions étaient véridiques, l’appelant savait et devait savoir que lui ou quelqu’un d’autre aurait à intervenir souvent et surtout pour des actes très importants. Il eut été alors important que des explications raisonnables et surtout vraisemblables soient fournies. Des sociétés qui effectuent des transactions représentant des millions de dollars doivent survivre à la démission de leur administrateur.
+[71] Je fais notamment référence à de nombreux actes notariés, à la signature de nombreux chèques dont les montants étaient substantiels et à toute la paperasse que la gestion et l’administration de telles sociétés commandaient. Lorsqu’une entreprise a comme vocation la construction de copropriétés, le paiement de comptes aux divers intervenants et la vente de copropriétés ne sont pas des actes sans importance, secondaires ou insignifiants, il s’agit là plutôt de faits et gestes s’inscrivant dans le cœur même des activités; il s’agit d’actes juridiques étroitement liés à la gestion et aux activités fondamentales en relation directe avec la vocation des entreprises concernées.
+[72] Il n’a jamais été question dans la preuve de faits et gestes concrets validant la prétention de l’appelant. De plus, aucun témoin n’est venu confirmer cette démission. Comment expliquer qu’un homme d’affaires avisé qui gère des millions de dollars soit aussi incohérent sur une question aussi fondamentale, à savoir qu’il démissionne, mais continue de faire comme si la démission n’avait pas eu lieu.
+[73] La réponse est fort simple. Il s’agit essentiellement d’une démission de complaisance ou d’accommodation dont la date indiquée n’est ni crédible, ni validée par des éléments fiables et déterminants : les deux témoins qui en attestent ne sont pas crédibles d’une part et, d’autre part, la preuve documentaire déterminante discrédite totalement la qualité des démissions supposément intervenues le 1er avril 2006.
+[74] Il s’agit sans doute d’une date rétroactive dans le but de se soustraire à ses obligations. D’ailleurs, l’appelant a admis, par le biais de son procureur, que les démissions étaient sans effet quant à certains faits et gestes. Il a soutenu en quelque sorte que les démissions étaient adéquates et conformes pour certaines périodes et non pour d’autres. Une démission n’est pas un outil passe‑partout permettant au présumé démissionnaire de l’utiliser au besoin en fonction de ses divers choix. Une démission est un acte juridique qui doit satisfaire à des exigences pour en établir l’existence, la conformité et l’opposabilité.
+[75] La preuve de l’appelant au soutien des trois appels repose essentiellement sur son témoignage et celui du notaire. Je ne crois strictement rien de ce qu’ils ont affirmé. D’ailleurs, personne d’autre n’est venu témoigner au soutien de la preuve incomplète et boiteuse. Il eût été important de démontrer que les faits étaient cohérents avec les démissions. Il eût été intéressant d’entendre le gérant de la banque, les clients, les sous‑traitants, etc.
+[76] Je dois déposer des appels à partir de la preuve disponible. Or cette même preuve dont la responsabilité incombait à l’appelant ne permet pas de conclure au bien‑fondé des appels puisque les faits ont démonté qu’il avait continué d’agir de facto après le 1er avril 2006, date alléguée des démissions. De plus, la preuve de la date du 1er avril ne constitue pas un fondement fiable et crédible. La preuve soutient plutôt qu’il s’agit là d’un document fait beaucoup plus tard dans le but d’éviter la dette fiscale. En effet, comment expliquer autrement que l’appelant, alors conseillé par un fiscaliste, n’ait pas porté à l’attention de l’intimée le fait qu’il avait démissionné le 1er avril 2006. Il l’a fait au niveau des oppositions beaucoup plus tard.
+[77] Pour toutes ces raisons, les appels sont rejetés avec dépens en faveur de l’intimée sur la base d’un seul dossier.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2011.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2011 CCI 488
+Nº DES DOSSIERS DE LA COUR : 2009-3609(GST)I
+2009-3610(GST)I
+2009-3611(GST)I
+INTITULÉ DE LA CAUSE : FRANÇOIS MILANI c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 16 août 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 19 octobre 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Pierre Blain
+Avocat de l’intimée :
+Me Danny Galarneau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Pierre Blain
+Longueuil (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Tehrani c. R , 2006 CCI 131.
+[2] Tehrani c. R ,, 2007 CAF 12.
+[3] Nichols c. Canada, 2009 TCC 334, au para. 23.
+[4] Kalef c. Canada, [1996] A.C.F. no 269, 194 N.R. 39, 39 C.B.R. (3d) 1, [1996] 2 C.T.C. 1.
+[5] Ibid. au para. 10.
+[6] Loi canadienne sur les sociétés par actions, L.R.C. (1985), ch. C-44.
+[7] Loi sur les compagnies, LRQ, c C-38.
+[8] Campbell c. R., 2010 CCI 100, 2010 D.T.C. 1090
+[9] Netupsky v. R., [2003] G.S.T.C. 15 (T.C.C. [General Procedure]), nº 2000-4608(GST)G, 21 janvier 2002 (C.C.I.)
+[10] Page 30 – transcription du procès.
+[11] Mes Maurice et Paul Martel, La compagnie au Québec, Volume I, Les aspects juridiques, 2010, Éditions Wilson et Lafleur Ltée, Montréal.
+[12] Hattem c. Canada, 2008 CCI 32, [2008] G.S.T.C. 12, [2008] A.C.I. no 17.
+[13] Des copies plus à jour de Martel ont depuis été publié. Malheureusement tout les copies de Martel à la bibliothèque de la Cour sont en prêt.
+[14] Sandhu c. R., 2009 CCI 175 au para. 47.

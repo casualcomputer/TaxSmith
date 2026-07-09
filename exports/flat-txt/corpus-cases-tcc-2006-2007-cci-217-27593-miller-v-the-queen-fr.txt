@@ -1,0 +1,124 @@
+Title: Miller v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27593/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-217-27593-miller-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-11-23
+
+# Miller v. The Queen
+
+- Citation: 2007 CCI 217
+- Decision date: 2006-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 88, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-23
+Référence neutre
+2007 CCI 217
+Numéro de dossier
+2003-2467(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI217
+Date : 20070509
+Dossier : 2003-2467(IT)G
+ENTRE :
+PETER G. MILLER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l’appelant : Me Franklyn Cappell
+Avocate de l’intimée : Me Andrea Jackett
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Toronto (Ontario), le 23 novembre 2006)
+Le juge McArthur
+[1] L’appel concerne une cotisation aux termes de laquelle le ministre du Revenu national n’a pas autorisé une déduction effectuée par l’appelant dans sa déclaration pour l’année 2000 au titre d’un montant de pension alimentaire de 59 500 $ en vertu du paragraphe 56.1(4) et de l’alinéa 60b) de la Loi de l’impôt sur le revenu. L’appelant et son ex‑femme Karen avaient été mariés pendant près de 30 ans lorsqu’ils se sont séparés en mai 1999. Les négociations précédant l’entente de séparation et les dispositions financières qui en ont découlé ont été particulièrement cordiales.
+[2] L’appelant est un homme d’affaires qui a réussi en acquérant et en exploitant des franchises de la chaîne de restaurant McDonald et en investissant dans l’immobilier. Les parties ont signé une entente de séparation en avril 2001. Leurs enfants avaient alors 23 et 25 ans. Outre le paiement en question, l’appelant avait accepté de verser à Karen une pension annuelle de 27 000 $, sous réserve de conditions n’intéressant pas le présent jugement. Les parties ont convenu que l’avoir net familial s’élevait à 5 642 000 $ et qu’elles avaient droit, chacune, à une part égale de 2 821 000 $.
+[3] L’avoir était principalement composé des franchises de McDonald, des terrains situés à Aurora (Ontario), évalués à 1,6 M $, et de leur lieu de résidence principal, évalué à 1,2 M $. Le paragraphe qui suit, tiré de l’entente de séparation, est utile, ainsi que le paragraphe 16 :
+[TRADUCTION]
+Égalisation
+15(A) Les parties sont conscientes et prennent acte du fait qu’elles ont, chacune, droit à une part égale de l’avoir net évalué à 2 821 000 $.
+(B) Les dispositions de la présente entente visent à garantir que l’égalisation sera effectuée dans un délai ne dépassant pas dix (10) ans, et les paiements de l’époux à l’épouse en vertu dispositions de la présente entente ainsi que les biens appartenant à l’épouse et les paiements déjà effectués par l’époux à l’épouse comme prévu dans la présente entente visent à garantir à l’épouse qu’elle recevra sa part de l’avoir net d’une valeur de 2 821 000 $ dans un délai ne dépassant pas 10 ans.
+[...]
+Pension supplémentaire
+16. L’époux versera à l’épouse à titre de pension 6 p. 100 par an du solde échu dû à l’épouse pour le paiement d’égalisation prévu au paragraphe ci‑dessus, jusqu’à concurrence de CENT DIX‑NEUF MILLE DOLLARS $ (119 100 $) par an. Le versement de cette pension ne cessera que lorsque tous les paiements d’égalisation auront été effectués. Lesdits paiements de pension doivent être versés tous les mois, et le solde échu sera calculé chaque année le 1er juillet.
+Les paragraphes suivants sont également utiles :
+[TRADUCTION]
+Déduction fiscale
+18. L’époux et l’épouse sont conscients et prennent acte du fait que tous les paiements de pension prévus aux paragraphes 6 et 16 ci‑dessus seront déductibles du revenu imposable de l’époux et seront inclus dans le revenu imposable de l’épouse.
+Calendrier des paiements d’égalisation
+20(B) L’époux et l’épouse prennent acte du fait que, au 30 juin 2005, le solde approximatif payable par l’époux à l’épouse au titre des paiements d’égalisation prévus en vertu de la présente entente devrait être de 800 000 $. Le 31 décembre 2005, l’époux versera à l’épouse un paiement sur le principal égal à 50 p. 100 dudit solde. Par la suite, l’époux ne versera à l’épouse que l’intérêt mensuel payable sur le solde du principal en souffrance, lequel sera versé en totalité le ou avant le 30 juin 2010 ou à la liquidation de P.G. Miller Enterprises Limited si l’entreprise est liquidée avant le 30 juin 2010.
+L’appelant a donc conservé les trois éléments d’actif principaux et s’est engagé à faire en sorte que Karen reçoive 2,8 M $ sur une période de 10 ans.
+[4] Comme le prévoit le paragraphe 16 de l’entente, l’appelant a convenu de verser à Karen, à titre de pension alimentaire, 6 p. 100 par an du solde échu du montant d’égalisation, jusqu’à concurrence de 119 100 $ par an. C’est l’interprétation du paragraphe 16 qui est en cause, ainsi que le montant de 59 500 $, qui est la moitié des 119 100 $ à payer annuellement, pour la période du 1er juillet au 30 décembre 2000. Cette somme représente 6 p. 100 du montant d’égalisation dû à Karen après évaluation de ce qui lui revenait en paiements et en biens, soit environ 800 000 $.
+[5] Les sommes de 119 100 $ et de 27 000 $ ont été convenues, parce que Karen estimait qu’elle avait besoin d’une pension de 150 000 $ avant impôt pour maintenir son niveau de vie. L’avocat de l’appelant a décrit la situation dans les termes suivants :
+[TRADUCTION]
+Ils étaient riches. Peter était un franchisé de McDonald. Il exploitait de nombreux restaurants le long de la rue Yonge, surtout dans la partie nord de Toronto. Il possédait des terrains, et ils avaient une grande maison sur une grande propriété à Richmond Hill. Ils vivaient très bien, ils voyageaient, ils avaient un avion privé, ils recevaient beaucoup, etc. Ils ont eu ce mode de vie pendant de nombreuses années.
+[6] Selon l’intimée, la somme de 119 100 $ était de l’intérêt versé sur le solde d’égalisation de 1,9 M $, au taux de 6 p. 100, et, s’il s’agit d’intérêt, la somme ne peut être déduite du revenu de l’appelant. Celui‑ci, comme les témoins Tracy Warne, l’avocat de Karen, et Perry Foster, un comptable, ont déclaré que la somme en question était un paiement de pension alimentaire déductible du revenu de l’appelant. Personne n’a contredit cette affirmation.
+[7] L’appelant et son ex‑épouse ont retenu les services de leur comptable de longue date, M. Foster, pour les aider à calculer le montant d’égalisation ainsi que son mode de paiement. Ensemble, ils ont fait appel aux services de Me Warne pour structurer l’entente de séparation, conformément aux termes convenus entre eux. Ils ont tous deux déclaré que le montant était une pension alimentaire diminuant d’année en année en fonction du solde d’égalisation.
+[8] M. Foster a déclaré avoir rencontré Peter et Karen à plusieurs reprises durant les négociations. Karen avait demandé une pension alimentaire de 150 000 $, et c’est cette somme que les 6 p. 100 de la dette étaient censés résorber. Le revenu brut annuel de l’appelant s’élevait à environ 600 000 $, tandis que celui de Karen était négligeable, mais elle venait de lancer une entreprise, je crois, après la séparation, pour organiser des réceptions mondaines. C’est une personne pleine de potentiel, et je ne doute pas de son succès.
+[9] Me Warne a déclaré qu’il avait travaillé pour Peter et Karen, parce qu’il n’y avait pas cette tension qui existe habituellement entre deux conjoints qui se trouvent dans cette situation et parce que les époux avaient déjà établi sans lui les principaux éléments d’une entente de séparation. Il avait demandé à chacun d'eux de consulter un avocat matrimonial réputé distinct afin d'obtenir une opinion juridique indépendante. Je suppose que les deux avocats, Me Dasilva et Me Straightman, ont conclu que le paiement était une pension alimentaire à inclure dans le revenu imposable de Karen et à déduire du revenu de Peter.
+[10] L’avocat de l’appelant a renvoyé à la décision anglaise Simpson (Inspector of Taxes) v. The Executors of Bonner Maurice et al[1]. Je rappelle brièvement les faits de l’espèce. Une banque allemande avait conservé une somme d’argent tout au long de la Première Guerre mondiale et pendant plusieurs années par la suite pour le compte d’un citoyen anglais. Elle avait payé à sa succession le montant dû, plus ce qu’elle estimait être de l’intérêt. La Haute Cour de justice avait estimé que le montant supplémentaire n’était pas de l’intérêt, mais une indemnisation ou des dommages‑intérêts. L’avocat de l’appelant a affirmé ce qui suit :
+[TRADUCTION]
+Nous sommes à peu près dans la même situation, sauf que, bien entendu, en l’espèce, les paiements de pension alimentaire ne sont pas de l’intérêt. Il s’agit bien d’une pension alimentaire. Ce n’est pas parce qu’elle est calculée en pourcentage d’un montant plus important qu’elle devient un intérêt. De toute évidence, il s’agit d’une pension alimentaire et de rien d’autre.
+[...]
+La position adoptée par mon savant collègue est étrange. Il est étrange de penser que Peter Miller n’a pas versé de pension alimentaire à Karen Miller. Non seulement cela est étrange, non seulement cela est inattendu, non seulement cela est absurde, cela est contre‑productif pour les deux parties, cela est également contraire à ce que les trois avocats et les deux comptables ont établi, cela n’a aucun sens.
+[11] L’avocate de l’intimée est d’accord pour dire que la seule question en litige est l’interprétation du paragraphe 16 et elle estime que le traitement fiscal est déterminé par la Loi et non par une entente de séparation. Elle a ajouté qu’il n’était pas nécessaire de produire de preuves extrinsèques pour interpréter le paragraphe 16, puisqu’il est clair que le paiement représentait un intérêt de 6 p. 100 versé sur le principal ou montant d’égalisation en souffrance. Dans P. Syrier v. M.N.R.[2], le juge Bonner cite la décision Huston et al. v. Minister[3], où, à la page 420, le juge Thurlow déclare ce qui suit :
+[TRADUCTION]
+L’appellation donnée au paiement par les parties, la façon dont les sommes sont calculées et ce qu’elles représentent sont souvent des éléments de grande importance pour régler ce genre de question. Mais il s’agit d’une question de fond, et sa résolution ne dépend pas seulement de ces caractéristiques, mais également des autres caractéristiques de la cause. Car, tout comme un montant qui est en fait un intérêt, bien qu’il soit appelé autrement, sera visé par la disposition législative, donc un montant qui n’est pas un intérêt, selon moi, ne sera pas « reçu à titre d’intérêt » au sens de la disposition législative, même si on le désigne comme tel et qu’il comporte certains des attributs d’un intérêt.
+L’analyse
+[12] La pension alimentaire est définie en partie comme suit au paragraphe 56.1(4) de la Loi :
+« Pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire [...], si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux [...]
+[13] J’estime que les faits de l’espèce remplissent les cinq critères de cette courte définition. Il y avait un montant payable s’élevant au total à 147 000 $. La définition d’allocation (allowance) selon le Canadian Oxford Dictionary est un montant versé régulièrement à une personne dans un but déclaré, et c’est exactement le cas ici. La somme devait être versée tous les mois, conformément au paragraphe 16, et il s’agissait sans l’ombre d’un doute de la pension alimentaire de Karen, ex‑épouse de l’appelant, qui pouvait en faire l’usage qui lui plaisait.
+[14] Le paiement versé par l’appelant, outre qu’il répond à la définition de la notion de pension alimentaire selon la Loi, comportait effectivement certaines caractéristiques d’un intérêt, mais, pour les motifs ci‑après, j’estime que les faits parlent sans équivoque en faveur de la notion de pension alimentaire. Premièrement, les parties ont conclu une entente selon laquelle l’appelant verserait une pension alimentaire à Karen. Deuxièmement, c’était bien l’intention des deux parties, Peter et Karen, que l’un paye et que l’autre reçoive, une pension alimentaire. Troisièmement, les quatre témoins ont affirmé, sans l’ombre d’un doute, qu’il s’agissait d’une pension alimentaire. Et, quatrièmement, Karen n’avait pas de revenu propre et avait besoin d’une pension alimentaire jusqu’au moment où elle aurait obtenu suffisamment de paiements d’égalisation pour investir et subvenir à ses besoins.
+[15] L’appelant avait l’obligation morale, sinon juridique, de verser une pension alimentaire à Karen. Me Warne, avocat d’expérience spécialisé en droit de la famille représentant les deux parties, a suivi les instructions de ces dernières et a prévu une pension alimentaire comme il y était tenu. Deux autres avocats d’expérience spécialisés en droit de la famille ont fourni des avis juridiques indépendants et ont été convaincus, à la réception de l’entente de séparation, que l’appelant versait bel et bien une pension alimentaire à Karen. Je tire cette conclusion par inférence puisque je n’ai pas eu l’occasion d’entendre ces deux avocats.
+[16] L’intimée a renvoyé à l’alinéa 20b) de l’entente de séparation comme preuve que le paiement versé en vertu du paragraphe 16 était de l’intérêt. Je ne peux qu’être d’accord avec l’appelant pour dire que l’alinéa 20b) renforce son interprétation du paragraphe 16. Après que la plus grande partie du paiement d’égalisation ait été versée à la fin de 2005, Karen n’avait plus besoin de pension alimentaire et celle‑ci a cessé. L’appelant devrait payer de l’intérêt sur le solde qui, en janvier 2006, s’élevait, je crois, à environ 400 000 $.
+[17] Cela dit, je trouve que le paragraphe 16 est un peu ambigu, notamment parce qu’il y est question de pension alimentaire, puis d’un taux de 6 p. 100 par an sur le solde dû à l’épouse. Cela ressemble au jargon qui renvoie à la notion d’intérêt. Pourtant, j’estime que, malgré une certaine ambiguïté, il s’agit d’une façon de calculer la pension alimentaire et non pas d’équivalent d’un intérêt sur un prêt. Compte tenu des éléments de preuve extrinsèques permettant d’interpréter le paragraphe 16, je ne vois aucune difficulté à conclure qu’il s’agit d’une pension alimentaire.
+[18] Si l’on examine la question sous l’autre angle, celui selon lequel les éléments de preuve donneraient à conclure qu’il s’agit d’un intérêt et qu’il n’est pas déductible, je constate, en effet, que l’appelant devait à son ex‑épouse Karen une somme d’égalisation de 1,9 M $. Il s’est engagé à payer ce montant sur une période de 10 ans avec intérêt, à raison de 6 p. 100 du solde échu jusqu’à ce que l’alinéa 20b) commence à s’appliquer en janvier 2006, moment où, manifestement, un intérêt commence à s’appliquer sur le solde échu. Bien entendu, l’appelant ne peut pas déduire l’intérêt après le 31 décembre 2005. Toujours du côté de l’interprétation favorisant la notion d’intérêt, les paiements prennent fin au moment où le montant d’égalisation est payé. Le paragraphe 16 prévoit un paiement représentant 6 p. 100 du solde échu : là encore, on emploie un vocabulaire qui renvoie à la notion d’intérêt.
+[19] Dans une décision récente, intitulée The Royal Winnipeg Ballet v. M.N.R.[4], le juge Sharlow a conclu que l’intention des parties était importante lorsqu’il est question de déterminer la nature d’un contrat. En l’espèce, les parties avaient manifestement pour intention que l’appelant verse une pension alimentaire à Karen. Si l’on peut dire que le paiement peut aussi bien être une pension alimentaire qu’un intérêt, le facteur décisif pour trancher la question est alors l’intention des parties et ce qu’elles ont effectivement fait. L’appelant a tenté de déduire le montant versé et Karen a payé de l’impôt sur le montant reçu. Ils avaient tous deux pour intention que l’appelant verse une pension alimentaire à son épouse de près de trente ans.
+[20] La loi prévoit que l’épouse avait droit à une pension alimentaire compte tenu de sa situation. Le calcul du montant à raison de 6 p. 100 par an du solde dû ne change rien à la réalité du contrat. Même si le paiement comporte certaines caractéristiques du versement d’un intérêt, il faut conclure sans équivoque qu’il s’agit d’une pension alimentaire et qu’elle est déductible du revenu de l’appelant.
+[21] Dans Syrier, une première entente prévoyait clairement le versement d’un intérêt sur une somme due par l’époux à son ex‑épouse. Lorsque celui‑ci a, en vain, tenté de le déduire de son revenu, il a purement et simplement remplacé le mot « intérêt » par le mot « pension alimentaire », mais le juge Bonner a estimé qu’il s’agissait d’un intérêt, même si on lui avait donné un autre nom. La situation en l’espèce est différente car l’appelant reconnaît qu’il est tenu de payer à Karen une pension qu’elle a évalué à 150 000 $, puis négocié à 147 000 $ : cette décision a été prise avec l’aide d’un comptable et de trois avocats. L’appelant n’avait pas l’obligation de payer de l’intérêt sur le solde du montant d’égalisation. Il avait cependant l’obligation, selon moi, de verser une pension alimentaire.
+[22] En conclusion, j’estime que les 59 550 $ versés par l’appelant à Karen Miller en 2000 sont une pension alimentaire au sens du paragraphe 56.1(4) de la Loi et que l’appelant a le droit de déduire ce montant de son revenu pour l’année 2000, conformément à l’alinéa 60b) de la Loi. L’appel est accueilli avec dépens.
+Signé à Ottawa, Canada, ce 9e jour de mai 2007.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour de janvier 2008.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2007TCC217
+NO DE DOSSIER
+DE LA COUR : 2003-2467(IT)G
+INTITULÉ : Peter G. Miller et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : le 21 novembre 2006
+MOTIFS DU JUGEMENT : Le juge C. H. McArthur
+DATE DU JUGEMENT : le 1er décembre 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Franklyn Cappell
+Avocate de l’intimée :
+Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Franklyn Cappell
+Cabinet : Cappell Parker, LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Canada)
+[1] 14 C.I. 580, Haute Cour de justice, Cour du Banc du Roi.
+[2] [1989] 1 C.T.C. 2405 (C.C.I.).
+[3] [1962] R.C. de l'É. 69, [1961] C.T.C. 414.
+[4] 2006 CAF 87 (Cour d’appel fédérale).

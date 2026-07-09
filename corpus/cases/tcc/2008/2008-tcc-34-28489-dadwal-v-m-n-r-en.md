@@ -1,0 +1,134 @@
+---
+title: "Dadwal v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28489/index.do"
+last_modified: "2008-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 34"
+citation2: ""
+neutral_citation: "2008 TCC 34"
+decision_date: "2008-01-08"
+language: "en"
+item_id: "28489"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1286
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:40:03.561000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1aa28b3d6335e7edf864d6c855a16ade61bdb9b613a0d98e930df8099137bab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dadwal v. M.N.R.
+
+- Citation: 2008 TCC 34
+- Decision date: 2008-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1286, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dadwal v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-08
+Neutral citation
+2008 TCC 34
+File numbers
+2006-3006(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2008TCC34
+Date: 20080108
+Docket: 2006-3006(EI)
+2006-3008(CPP)
+BETWEEN:
+SUKHWINDER KAUR DADWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Agent for the Appellant: Pavan Jashi
+Counsel for the Respondent: Sara Fairbridge
+AMENDED REASONS FOR JUDGMENT
+(Delivered orally from the Bench on October 19, 2007,
+at Vancouver, British Columbia.)
+McArthur J.
+[1] This appeal is from a decision of the Minister of National Revenue that the Appellant was not engaged under a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, and comparable legislation under the Canada Pension Plan.
+[2] The Appellant is a grandmother who immigrated to Canada from India in 2002, having been sponsored by her daughter. She worked on a berry and vegetable farm from June to November, 2002 (“period of employment”). She was given a Record of Employment by RHD Farm Labour Contractor Ltd. (the “payor”) indicating that she had worked 1,080 insurable hours and had the amount of $8,985.84 in insurable earnings during the period of employment. The Minister of National Revenue originally determined that she was employed in insurable employment with the payor for only 948 insurable hours, with earnings of $7,885.84 from June 17, 2002 to November 2, 2002. She appealed that ruling and in response, the Minister determined that the Appellant was not employed by the payor.
+[3] The Minister relied on the following assumptions of fact:
+a) the Payor was a farm labour contractor who provided labourers to Bisset Farms of Ladner and BC & Western Country Farms of Richmond;
+b) the Payor issued the Appellant a record of employment (“ROE”) showing a first date worked of June 17, 2002 and last day worked of November 2, 2002;
+c) the Appellant failed to respond to requests for information dated March 16, 2004 and June 16, 2005;
+d) the Appellant’s alleged duties were picking strawberries, raspberries, and blueberries;
+e) the ROE alleged the Appellant had 1,080 insurable hours with insurable earnings of $8,985.84;
+f) the Appellant ROE included hours worked by the Appellant’s husband;
+g) the Appellant was not paid by the hour;
+h) the Appellant paid money back to the Payor in exchange for her ROE;
+i) the Appellant has provided inconsistent and contradictory information at each level of review;
+j) the Payor has provided inconsistent and contradictory information at each level of review.
+k) the Appellant did not work the number of hours indicated on her ROE;
+(l) the Appellant did not earn the amount of money indicated on her ROE; and
+m) the Appellant's ROE is false.
+Unfortunately, the payor was not called as a witness in these appeals, but the Appellant, of course, did give evidence through a Punjabi interpreter.
+[4] In her Notice of Appeal, the Appellant stated in part:
+I worked for RHD Farm Labour Contractor Limited from June 17th, '02 to November 2nd, '02 as a farm worker on various jobs which the employer asked me to do. I complied with the terms and conditions laid by this employer throughout this period and in the end was given a Record of Employment indicating 1,080 insurable hours and $8,985 insurable earnings.
+I'm a victim of the prevalent practices in the agricultural industry, especially in the hand-harvested crops. I have been abused and exploited and harassed by all the stakeholders in this system and in the end I am the one who has been penalized in spite of the fact that I worked hard and earned all the insurable hours and earnings. I should not be penalized for the shoddy recordkeeping of the employer.
+This is a difficult case in that I believe the Appellant is basically honest, and that she was exploited by unscrupulous employers.
+[5] Ravi Sandhu, an employment insurance investigator in 2002, was an impressive witness on behalf of the Respondent. In brief, he stated that he believed the answers given by the Appellant in his interview with her on January 24, 2003, and that such answers were accurate. The transcript of that interview is filed as Exhibit R-1. He further stated that the Appellant was refreshingly honest, a quality not often found in those he interviewed.
+[6] I accept Mr. Sandhu's evidence to the effect that the Record of Employment, hours of work, and hourly rate of pay are most probably a sham, which word, I believe, is taken from the word "shameful", which is appropriate to the present circumstances. As stated, the Appellant's evidence by and large is credible.
+[7] I find that the Appellant was employed in insurable employment and she worked very hard and long hours. In applying the customary tests found in the Federal Court of Appeal decision of Wiebe Door Services Ltd. v. Minister of National Revenue,[1] and approved by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.,[2] I have determined the following
+(i) The payor had complete control of the worker, the Appellant.
+(ii) The payor owned all of the tools, including driving the Appellant, with others, to and from work in a van when he, at his complete discretion, decided to.
+(iii) With respect to profit and loss, the payor controlled everything, including how much she received, and we will never be certain what her hourly rate worked out to. She was paid according to the pounds of product she picked, for instance, $.32 a pound for blueberries in 2002.
+(iv) Sagaz emphasizes that the trial judge attempt to answer the question, "Whose business was it?". The answer, of course, without a shadow of a doubt, is it was not her business. It was the business of the payor, and to deny the appellant employment insurance and CPP benefits because of the schemes her superiors may have concocted is not justifiable.
+[8] In an effort to reflect the reality of her situation, and after considering all of the evidence, and in particular that of Mr. Sandhu, whose informed judgment I accept, the appeal is allowed. The Appellant was employed in insurable employment with the payor during the period of employment and she had worked 948 insurable hours with income earned of $7,885.84. This is arrived at in acceptance of what I believe was Mr. Sandhu's recommendation and, in an
+attempt to sort out the fiction from the truth, what is the economic reality of the situation.
+These Reasons for Judgment are issued in substitution for the Reasons for Judgment issued on January 8, 2008.
+Signed at Ottawa, Canada, this 21st day of January, 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC34
+COURT FILE NO.: 2006-3006(EI) and 2006-3008(CPP)
+STYLE OF CAUSE: SUKHWINDER KAUR DADWAL and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 19, 2007
+AMENDED REASONS FOR
+JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 15, 2007
+APPEARANCES:
+Agent for the Appellant:
+Pavan Jashi
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025.
+[2] [2001] 2 S.C.R. 983.

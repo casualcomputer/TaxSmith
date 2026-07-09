@@ -1,0 +1,87 @@
+Title: Naddaf v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28791/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-377-28791-naddaf-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-19
+
+# Naddaf v. The Queen
+
+- Citation: 2008 TCC 377
+- Decision date: 2008-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1511, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naddaf v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-19
+Neutral citation
+2008 TCC 377
+File numbers
+2007-3471(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC377
+Date: 20080719
+Docket: 2007-3471(IT)I
+BETWEEN:
+GERARD NADDAF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on April 30, 2008, in Toronto, Ontario.)
+Margeson, J.
+[1] The sole issue before the court is whether the Appellant, during the years 2003, 2004 and 2005 is entitled to claim a gross non-refundable tax credit in relation to an amount for an eligible dependant, with respect to his son Alexander for each of the 2003, 2004, 2005 taxation years.
+[2] The Court is satisfied that the Appellant himself, on the basis of his evidence and what he has told the Court, is quite aware of the fact that unless certain requirements are met which, according to his evidence, have not been met, which would evoke a change in the separation agreement entered into, that he is prohibited under the Statute from claiming the deduction which he seeks.
+[3] Legally speaking, on the basis of the law, he’s not arguing that he is entitled to the deduction that he seeks, that is on the basis of 118(1)(b) and sub-sections 56.1(4), 60.1(4) and 18(5) and 52(3.1) and 152(4) of the Income Tax Act (“Act”). The Court is satisfied that he himself realizes that on the facts of the case the deduction by him is not permissible. That is the state of the law at the present time.
+[4] With respect to the cases that have been referred to, Chief Justice Bowman has dealt with this matter, and Justice Woods has dealt with this matter. Bowman C.J., in the case of Hamilton v. R., (2007) C.T.C. 145, (2007) C.T.C. 22, had basically the same factual situation before him, although as the Appellant himself points out, how the parties got before the Court – the reason for the parties getting before the Court was different. In this case, the Appellant says that he was directed or at least encouraged by the people from Canada Revenue Agency (“CRA”) to make the claim, whereas in the Hamilton case, supra, it was completely on the Appellant’s own initiative that she made the application.
+[5] In any event, that is not significant as far as the Court is concerned. That may be the reason, although I can’t do anything about that, but the importance or significance of the case that Bowman C.J. dealt with (and in which he refers to an earlier case by Justice Woods in Irwin v. R. [2005] 1 C.T.C. 2114 [Informal Procedure]) is that there is an obvious unfairness for separated or divorced parents with respect to joint custody of children.
+[6] In this particular case there is not an unfairness, I don’t think, because both parties set out in the separation agreement what their position was. They set it out clearly in that agreement when the agreement would cease to force the Appellant to pay the child support amount for his son Alexander.
+[7] The Appellant, for his own reasons – he has cited them, they are clear reasons and they are good reasons as far as the Court is concerned – as to why he has not tried to enforce upon his wife his argument that the circumstances have changed and that he should not now or is not now required to pay the child support amount.
+[8] In listening to him, the Court cannot conclude that he is satisfied that he is not still required to pay the child support amount. In his own mind he feels that he is because he hasn’t taken any necessary steps to show otherwise. The Court is satisfied that he is still bound. He did mention that he had spoken to his wife and his wife is not prepared to consent to a change and he has not made an application to change the matter. He has made an application, of course, to CRA to claim the amounts. They have refused his request.
+[9] In the event that he wishes to make that claim in future years, he is going to have to go through the same process he has gone through here. In due course, either he or CRA or both would probably subpoena his wife into court to testify as to what the true situation is. The Court would have to be satisfied that under the agreement the Appellant is no longer required to pay his support amount. That would depend on the evidence.
+[10] This Court does not have such evidence before it to be able to decide that he’s not bound. It is satisfied on the evidence that the Appellant is still required under the agreement to pay the support amount.
+[11] That being said, it is obvious that he cannot claim the amount that he seeks to claim. As Justice Bowman has said:
+“Unfortunately, the law is clear. Subsection 118(5) says: ‘No amount may be deducted under subsection (1) ..’”
+under the circumstances that existed in the present case and that existed in that case, and existed in Irwin v. R.
+[12] So under the law, the Appellant is not entitled to make the claim that he has.
+[13] Now we get to the Appellant’s main argument, which is that first of all, he said that it was CRA agents that led him astray and told him he could make the claim for one of the children. One agent urged him to claim one of the children. Another one assisted him in filling out the papers. And that, he says, makes this case, the factual situation, different from the Hamilton case, because in that case, the Appellant herself took the initiative in making the claim. In this particular case he wouldn’t have done it if it hadn’t been for the advice that he got from CRA.
+[14] Unfortunately for the Appellant, that is not an argument which this Court can take into account. All it can advise the Appellant is that if he believes that he has been led astray by agents at CRA to his own detriment, in this particular case, that he has incurred expenses as a result of such advice, as an education professor, and he believes that because of the actions of the agent or agency, CRA, he’s been led astray and he has suffered damages as a result thereof, his only alternative is to take an action in the Federal Court against the agents which advised him to do it.
+[15] That will put him back in Court, in another Court, in another case, which will take more time, but of course, that’s entirely up to him to do that if he sees fit to do so. If the Appellant can convince the Federal Court that he has a proper course of action against CRA or its agents, then so be it.
+[16] However, he has not convinced this Court that this appeal should be allowed.
+[17] Unfortunately for the Appellant, the Court cannot grant the relief that he seeks. The law is clear that he was not entitled, in the years in question, to claim the amount that he seeks. Whether he is entitled to do it in the future will depend upon whether a Court should be able to decide that he is no longer or will not longer be required to pay the support amount here.
+[18] During the years under appeal he certainly was required to pay the support.
+[19] The Court will have to dismiss the appeal and confirm the Minister’s assessment.
+Signed at New Glasgow, Nova Scotia, this 19th day of July 2008.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2008TCC377
+COURT FILE NO.: 2007-3471(IT)I
+STYLE OF CAUSE: GERARD NADDAF AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 30, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: July 19, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

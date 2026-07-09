@@ -1,0 +1,201 @@
+Title: Oltcpi Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28845/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-470-28845-oltcpi-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-08-25
+
+# Oltcpi Inc. v. M.N.R.
+
+- Citation: 2008 TCC 470
+- Decision date: 2008-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1355, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Oltcpi Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-25
+Neutral citation
+2008 TCC 470
+File numbers
+2007-1674(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-1674(EI)
+BETWEEN:
+OLTCPI INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+OLTCPI Inc. (2007‑1675(CPP))
+on July 28, 2008 at Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+R. Brendan Bissell and
+Neil E. Bass
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 25th day of August 2008.
+"N. Weisman"
+Weisman D.J.
+Docket: 2007-1675(CPP)
+BETWEEN:
+OLTCPI INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+OLTCPI Inc. (2007‑1674(EI))
+on July 28, 2008 at Toronto, Ontario
+Before: The Honourable N. Weisman, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+R. Brendan Bissell and
+Neil E. Bass
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 25th day of August 2008.
+"N. Weisman"
+Weisman D.J.
+Citation: 2008 TCC 470
+Date: 20080825
+Dockets: 2007-1674(EI)
+2007-1675(CPP)
+BETWEEN:
+OLTCPI INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Weisman D.J.
+[1] The Appellant, OLTCPI Inc., is in the business of providing dieticians, social workers, and bulk purchasing of food and medical supplies for its related company Leisureworld Inc., which owns nineteen licensed facilities that provide long term care to senior citizens.
+[2] Renu Arora is a Registered Dietician. In July 2005, she responded to OLTCPI’s advertisement on the Dieticians of Canada website, which sought a dietician for Leisureworld’s Lawrence Avenue facility in Toronto. After being interviewed by Leisureworld’s Director of Nutritional Services, she executed a standard-form “Consultant Agreement” with Ontario Long Term Care Providers Inc. (“OLTCPI”) which specified that she would be an independent contractor in her working relationship with it. She agreed to provide 82 hours of service per month. This allowed her to devote one day per week performing similar services for a licensed facility owned by Sodexho Extendicare, which is in competition with OLTCPI. She filed her income tax returns as an independent contractor for the period under review, and deducted all duly allowable expenses.
+[3] Her working relationship with OLTCPI ended on April 12, 2006 due to her pregnancy, and she subsequently applied for maternity benefits under the Employment Insurance Act[1] (the “Act”). These were granted, so the Respondent proceeded to assess OLTCPI for arrears of premiums pursuant to the Act, and contributions pursuant to the Canada Pension Plan[2] (the “Plan”), relying on subsection 5.(5) and Regulations 6.(g) and 7[3] under the former, and Regulation 34.(1) under the latter. The Appellant now appeals those assessments.
+[4] Subsection 5.(5) and the three Regulations provide as follows:
+5.(5) Regulations to include persons in business
+(5) The Commission may, with the approval of the Governor in Council and subject to affirmative resolution of Parliament, make regulations for including in insurable employment the business activities of a person who is engaged in a business, as defined in subsection 248(1) of the Income Tax Act.
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+…
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+7. Where a person is placed in insurable employment by a placement or employment agency under an arrangement whereby the earnings of the person are paid by the agency, the agency shall, for the purposes of maintaining records, calculating the person's insurable earnings and paying, deducting and remitting the premiums payable on those insurable earnings under the Act and these Regulations, be deemed to be the employer of the person.
+34. (1) Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual.
+[5] The following six issues accordingly require resolution:
+1. Do the above Regulations apply to workers who are independent contractors?
+2. Was the Appellant an employment or placement agency?
+3. Did it place Ms. Arora in employment with its client?
+4. Did the Appellant or its client remunerate Ms. Arora?
+5. Was she under the direction and control of the client?
+6. Did the terms and conditions on which Ms. Arora’s employment or services were performed and the remuneration thereof was paid, constitute a contract of service or were analogous to a contract of service?
+1. Independent Contractors:
+[6] It was clearly the common intention of the parties that Ms. Arora be an independent contractor in her working relationship with OLTCPI. She signed three agreements to this effect during the period under review, and confirmed her intention by filing her income tax returns as such[4].
+[7] The question is whether or not Regulation 6.(g) under the Act, quoted above, applies to independent contractors, which Ms. Arora may well be. The answer is clearly in the affirmative. In Sheridan v. Canada[5], the Federal Court of Appeal, in construing Regulation 12.(g) under the Unemployment Insurance Act[6], which is the predecessor to Regulation 6.(g) under the Act, found that nurses, placed by the Appellant agency in employment in hospitals which were its clients, were in insurable employment even though they had no contract of service either with the agency or with the hospital. I can see no material difference between nurses and dieticians in this regard.
+[8] The Court relied upon two decisions to like effect by the Supreme Court of Canada. In R. v. Scheer Ltd.[7], Spence J., per curiam, says: “I, therefore, am of the view that, at any rate from 1946 to the present time, Parliament in its unemployment insurance legislation has used the word ‘employment” to include a business, trade or occupation and not solely to designate a master and servant relationship”. In the result the Court held that those involved in barbering, hairdressing[8], or in driving a taxi[9], were within the extended scope of the phrase “insurable employment” whether or not they were party to a contract of service.
+[9] In Martin Service Station Ltd. v. Canada[10], which involved taxi drivers, the Court gives its rational for the above finding as follows:
+… if conditions become such that those who perform a given type of work find themselves unemployed, it is most likely that those who perform the same type of work, although they be self-employed, will also find themselves out of work because of the same conditions. It is mainly to protect the latter against this risk of unavailability of work and involuntary idleness that the Acts are extended. Whether they be self-employed or employed under a contract of service, taxi drivers and bus drivers for instance are exposed to the risk of being deprived of work.
+[10] The above analysis does not apply to Regulation 34.(1) under the Plan which involves determining whether the terms or conditions on which Ms. Arora’s services were performed, and the remuneration thereof was paid, was analogous to a contract of service. I will discuss this subsequently.
+2. Placement or Employment Agency:
+[11] This phrase is defined in the Regulations under the Plan, but not under the Act. Regulation 34.(2) under the Plan provides as follows:
+(2) For the purposes of subsection (1), “placement or employment agency” includes any person or organization that is engaged in the business of placing individuals in employment or for performance of services or of securing employment for individuals for a fee, reward or other remuneration.
+[12] I have been referred to no jurisprudence that suggests that any other definition should be applied under the Act.
+[13] In my view, the Appellant clearly acted as a placement or employment agency in placing Ms. Arora with Leisureworld’s Lawrence Avenue facility. Mr. David Cutler, once President of OLTCPI, acknowledged that the Appellant earned sufficient revenues on the spread between the amount it paid the workers it provided to its client Leisureworld, and the amount it charged the client for those same workers, that it was able to provide bulk purchasing of food and medical supply free of charge.
+[14] Despite the Appellant’s argument to the contrary, this fact situation is not analogous to that in which a contractor agrees to send personnel and equipment to a construction site to perform a service under the supervision of a general contractor or architect. Further, there is nothing in the above definition of a placement or employment agency that says that the placing of workers in employment must be the sole function of the agency.
+3. Did the Appellant place Ms. Arora with its Client:
+[15] It is patently clear that the Appellant placed Ms. Arora in Leisureworld’s Lawrence Avenue facility, as the whole purpose of the advertisement it put on the Dieticians of Canada website was to fill its client’s vacancy at that location.
+4. Remuneration:
+[16] Counsel for the Appellant candidly acknowledged that the Appellant remunerated Ms. Arora, thereby obviating the necessity for evidence in support of this criterion.
+5. Was Ms. Arora under the Direction and Control of the Client:
+[17] Long term care facilities in Ontario are closely controlled by the Ministry of Health and Long Term Care. There are specific standards and criteria for dietary services, covering menu planning, food production, meal service, nutritional care, food service supervisors, food handlers and dieticians. There are also specific guidelines governing seven different aspects of the dietician’s area of responsibility. In addition, Leisureworld has its own “Clinical Dietician Job Description” which incorporates the Ministry’s guidelines and goes further to add some of its own, including: “Develops and conducts education programs for dietary and nursing staff-conducting a minimum of 2 Inservices per year for staff; Provide resource services for the facility; Participates in the Pharmacy and Therapeutics Committee; Meets once per month with the facility Administrator”.
+[18] Further, Ms. Arora, who was a credible witness, established that while no‑one directed and controlled how she was to perform her specialized activities, the Lawrence Avenue Administrator required her to perform audits and submit reports, which either were cost-cutting measures, were the responsibility of others, or made others tasks easier. She was required to prepare diet reports and supplement reviews for the facility, documenting such matters as consistency, texture, pure diets, mixed diets, renal diets, and calorie levels. While her mandate was mainly high risk patients, the Director of Nursing required her to follow low and moderate risk patients as well. Further, rather than submitting the usual invoice stating her hours worked, she was obliged, on her own time, to document and submit to the facility administrator a “Dieticians Site Visit Report” which accounted for her activities for every minute of every day.
+[19] When asked if the Director of Nursing could tell her what to do, she replied: “I suppose not, they asked me to do things for them. I did not know if I could refuse. I did not want to find out if it could get me fired”.
+[20] As to direction and control, I am satisfied that the Administration of the Lawrence Avenue facility in which Ms. Arora worked, had de facto control over her. Should it complain to OLTCPI that she was insubordinate, did not comply with Ministry or facility guidelines, or perform the extra-curricular tasks requested of her, OLTCPI, which had de jure control, could dismiss her. Further, in my view, when one is afraid of finding out what could happen if she disobeyed expectations that were beyond her mandate, a relationship of subordination exists which is a constituent element of control.
+6. Analogous to a Contract of Service:
+[21] This determination, which is required by Regulation 34.(1) under the Plan, obliges one to embark upon an examination of the total relationship of the parties using the four-in-one criteria for identifying a contract of service established in Wiebe Door Services Ltd. v. M.N.R.[11], namely control, ownership of tools, chance of profit, and risk of loss.
+[22] I have already determined that the direction and control factor indicates that the terms and conditions of Ms. Arora’s working relationship with Leisureworld during the period under review were analogous to those of a subordinate employee.
+[23] So far as tools are concerned, the evidence establishes that the only significant tool she was provided with was the Lawrence Avenue facility in which her patients were resident, as well as an office equipped with a computer containing her patients’ medical charts, histories and dietary requirements. Ms. Arora provided only her vehicle to travel to the facility and her expertise.
+[24] This fact situation raises questions as to whether facilities and expertise are tools. Starting with facilities, in Hennick v. Canada[12] (“Hennick”) the payer, Royal Conservatory of Music, provided office space and piano studios to its teachers. The Court says at paragraph 8: “With regard to the second part of the [Wiebe Door] test, the ownership of tools, the trial judge concluded, rightly in our view, that because the respondent was conducting her classes most of the time at the intervener’s premises, her status was more likely to be that of an employee”. This finding can be contrasted with that in Wolf v. Canada[13] (“Wolf”) where a consulting engineer was required to work on the payer Canadair’s premises so that he could interface with others there. The Court says at paragraph 84: “In my view, the tools necessary for the performance of the work of the appellant constitute a neutral factor. The appellant would have had to work on the premises of Canadair with Canadair’s computer and archives whether he was an employee or an independent contractor”. It seems to me that Ms. Arora was similarly obliged to work at Leisureworld’s Lawrence Avenue facility, because that is where her patients were, as well as the computers containing their charts, histories, and dietary requirements. Her vehicle was necessary for her to reach the Lawrence Avenue facility, but is a neutral factor in this fact situation since many employees equally rely on their cars to reach their job site.
+[25] So far as expertise is concerned, there are two decisions of the Tax Review Board which hold that professional expertise can be regarded as a tool. In Latimer v. M.N.R.[14], the Umpire says: “…it should be recognized that although they may have more application in a commercial or industrial situation, to the degree the appellant’s professional skills could be regarded as ‘tools’, he was in possession of these;”. In Brandes v. M.N.R.[15], dealing with a film director, it was held that: “The appellant’s experience, his intelligence, and his organizational abilities are his major tools”.
+[26] A more modern view is expressed in Wolf, where, at paragraph 82, the Court says:
+This factor relates to who, of the employer or the worker, owns the assets or equipment that is necessary to perform the work. Traditionally, if the worker owns or controls the assets and is responsible for their operation and maintenance, he would likely be considered an independent contractor. On the other hand, if the employer owns the equipment, the worker would likely be characterized as an employee.
+[27] Tools, according to Wolf, are assets and equipment. The same inference can be drawn from Precision Gutters Ltd. v. Canada[16], where the installers’ tools are described as “drills and bits, saws and blades, plyers, small ladders, pry bars, measuring tapes, and hammers”. While neither decision expressly rules out professional knowledge, experience, intelligence and organizational abilities as tools, I know of no authoritative case since 1983 that considers them so. The tools factor is accordingly neutral.
+[28] She also had no risk of loss as the facility dietician. When asked what expenses she claimed on her income tax return, she candidly admitted that her membership dues in the various dieticians’ organizations, including personal liability insurance, totalled only some $1,000 per annum. Her major deductible expenses involved her motor vehicle, gasoline, oil, repairs, and insurance which amounted to approximately $3,000 annually.
+[29] So far as a chance of profit is concerned, she did serve as dietician for two competing facilities at the same time. This normally indicates that the worker is an independent contractor. On the other hand, she was paid an hourly rate which was set by the Appellant according to her experience. It was not negotiated, and was not calculated by Ms. Arora to cover her fixed and variable costs of doing business, and produce a profit. We have it on the authority of Hennick that this kind of hourly wage does not a profit make. She was at liberty to find a replacement if she was unavailable for her duties for any reason, and could theoretically profit or lose depending upon what amount she was required to pay. In fact, this occurred only once, and on that occasion Leisureworld found and paid the substitute.
+[30] There was a social worker named Mary Vary who left Leisureworld and went into the placement agency business on her own account. She staffed Leisureworld’s Almira and Brantford facilities and subsequently expanded her business to accommodate other long term care facilities as well. She billed Leisureworld for her services, was responsible for them, hired her own employees, and could profit from sound management or lose if business declined for any reason. This is far different from anything Ms. Arora undertook in an entrepreneurial way. Accordingly, the absence of a chance of profit also indicates that she was an employee during the relevant period.
+[31] While the common intention of the parties was clearly that she be an independent contractor, three of the four Wiebe Door criteria conclusively indicate that the terms and conditions of her working relationship with Leisureworld were analogous to a contract of service. The tools factor was neutral. In these circumstances, the common intention of the parties is not given great weight[17].
+[32] The Appellant has failed to discharge the burden of demolishing the assumptions set out in the Minister’s replies to its notices of appeal, which assumptions must be assumed true as long as the Appellant has not proven them false[18].
+[33] I have investigated all the facts with the parties and the witnesses called on behalf of the parties to testify under oath for the first time, and have found no new facts and nothing to indicate that the facts inferred or relied upon by the Minister were unreal, or were incorrectly assessed or misunderstood. The decisions of the Minister are objectively reasonable. Ms. Arora was placed in Leisureworld’s Lawrence Avenue facility by OLTCPI as a placement or employment agency, under the direction and control in its client, and remunerated her. The terms or conditions on which her services were performed and the remuneration thereof was paid were analogous to a contract of service. She was accordingly in insurable employment pursuant to Regulation 6.(g) under the Act, and in pensionable employment pursuant to Regulation 34.(1) under the Plan.
+[34] In the result, both appeals will be dismissed and the determinations of the Minister confirmed.
+Signed at Toronto, Ontario, this 25th day of August 2008.
+"N. Weisman"
+Weisman D.J.
+CITATION:
+2008 TCC 470
+COURT FILE NOS.:
+2007-1674(EI) and
+2007-1675(CPP)
+STYLE OF CAUSE:
+OLTCPI Inc. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 28, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF JUDGMENT:
+August 25, 2008
+APPEARANCES:
+Counsel for the Appellant:
+R. Brendan Bissell and
+Neil E. Bass
+Counsel for the Respondent:
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Fraser Milner Casgrain LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c.23
+[2] R.S.C. 1985, c. C-8 as amended
+[3] Insurable Earnings and Collection of Premiums Regulations SOR/ 97-33
+[4] Ambulance St. Jean v. Canada (M.N.R.), [2004] F.C.J. No.1680. (FCA); Combined Insurance Co. of America v. Canada (Minister of National Revenue M.N.R.), [2007] F.C.J. No. 124 at par.75 (F.C.A.)
+[5] [1985] F.C.J. No.230
+[6] R.S.C. 1985, c U-1
+[7] [1974] S.C.R. 1046
+[8] Currently covered in Regulation 6.(d)
+[9] Currently covered in Regulation 6.(e)
+[10] [1977] 2 S.C.R. 996
+[11] (1986) 87 DTC 5025 (F.C.A.)
+[12] [1995] F.C.J. No. 294 (F.C.A.)
+[13] [2002] F.C.J. No. 375 (F.C.A.)
+[14] 77 DTC 84
+[15] 83 DTC 158
+[16] [2002] F.C.J. No. 771 at par. 23 (F.C.A.)
+[17] The Royal Winnipeg Ballet v. M.N.R., [2006] F.C.J. No. 339 (F.C.A.)
+[18] Elia v. Canada, [1998] F.C.J. No. 316 (F.C.A.)

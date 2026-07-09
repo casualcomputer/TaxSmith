@@ -1,0 +1,160 @@
+Title: Tomlinson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181783/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-246-181783-tomlinson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-11-01
+
+# Tomlinson c. La Reine
+
+- Citation: 2016 CCI 246
+- Decision date: 2016-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2991, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tomlinson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-01
+Référence neutre
+2016 CCI 246
+Numéro de dossier
+2012-4380(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4380(IT)G
+ENTRE :
+CHARMANE TOMLINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 octobre 2016, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante : L’appelante elle-même
+Avocat de l’intimée : Me Christian Cheong
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à des pénalités imposées en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), pour l’année d’imposition 2008 est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 12e jour de décembre 2017.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 246
+Date : 20161101
+Dossier : 2012-4380(IT)G
+ENTRE :
+CHARMANE TOMLINSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction [1] La déclaration de revenus de Mme Tomlinson pour 2008 a été remplie par M. Roual McGann, agent de Fiscal Arbitrators. Roual McGann a créé des pertes d’entreprise complètement fictives et a tenté de les reporter rétrospectivement aux années d’imposition 2005, 2006 et 2007. Le but était d’obtenir le remboursement de tout, ou presque tout, l’impôt payé par Mme Tomlinson pour ces quatre années. Cet employé de Fiscal Arbitrators a servi à Mme Tomlinson le discours habituel : un petit groupe de [TRADUCTION] « conseillers fiscaux intelligents » sait comment accéder à des [TRADUCTION] « montagnes d’argent » bien cachées dont les contribuables canadiens en général ne sont pas au courant. Les dispositions de la Loi de l’impôt sur le revenu ne contiennent aucune échappatoire fiscale de la sorte donnant accès à ces montagnes d’argent. De même, aucune entreprise n’existait et aucun remboursement d’impôt n’était dû. Le ministre du Revenu national (le « ministre ») a imposé des pénalités pour faute lourde à Mme Tomlinson.
+[2] La seule question en litige dans cet appel est de savoir si la pénalité pour faute lourde imposée à Mme Tomlinson devrait être confirmée ou annulée. La question est de savoir si Mme Tomlinson a, sciemment ou dans des circonstances équivalant à faute lourde, fait ou accepté de faire de faux énoncés dans sa déclaration qui justifieraient l’imposition des pénalités sévères prévues au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+II. Antécédents de l’appelante [3] Mme Tomlinson est une infirmière autorisée instruite et éloquente. Elle a obtenu son diplôme universitaire en soins infirmiers en 2000. Depuis, elle exerce à titre d’infirmière autorisée. Son témoignage était franc, direct et honnête. Ses connaissances du droit fiscal et de ses régimes ont été acquises entièrement en produisant ses déclarations de revenus. Avant l’année d’imposition 2008, elle faisait appel aux services d’une certaine Phyllis Anderson, qui lui facturait environ 60 $ pour remplir sa déclaration de revenus. Pendant la période où elle faisait affaire avec Mme Anderson, l’historique de production de Mme Tomlinson était principalement constitué de revenus d’emploi figurant sur des relevés T4 et de déductions annuelles raisonnables pour dons de bienfaisance. Au cours de l’année d’imposition 2008, tout cela a changé.
+III. Présentation du spécialiste en déclarations de revenus [4] Une collègue a parlé à Mme Tomlinson de la possibilité de recourir aux services de Fiscal Arbitrators. La collègue a indiqué à Mme Tomlinson qu’elle connaissait d’autres contribuables qui avaient obtenu des remboursements grâce à des dispositions peu connues de la Loi. La collègue attendait apparemment elle-même un remboursement considérable à la suite de l’utilisation de tels services.
+[5] Au début de 2008, Mme Tomlinson a communiqué avec Roual McGann de Fiscal Arbitrators. M. McGann est allé au domicile de Mme Tomlinson. Mme Tomlinson dit qu’il avait une bonne présentation : il était bien vêtu, avait une carte professionnelle, était un orateur crédible et était [TRADUCTION] « homme d’Église ». Lors de cette rencontre, M. McGann a demandé à Mme Tomlinson ses avis de cotisation des 10 années précédentes. Il lui a dit que ses honoraires étaient de 500 $ payables immédiatement, plus des frais additionnels représentant 10 % de tous les remboursements d’impôts versés à Mme Tomlinson, à payer lorsqu’elle aurait reçu les remboursements. La déclaration de revenus de 2008 et la demande de report rétrospectif des pertes donneraient accès à des remboursements généralement inconnus des autres contribuables. M. McGann a indiqué que le processus serait [TRADUCTION] « long et tortueux », mais qu’au bout du compte, Mme Tomlinson aurait gain de cause face à l’Agence du revenu du Canada (l’« ARC ») qui gardait jalousement ces avantages peu connus. Afin d’assurer le maintien essentiel de la chaîne de communication avec l’ARC, toute la correspondance provenant de l’ARC et reçue par Mme Tomlinson devait être acheminée à M. McGann pour le compte de Fiscal Arbitrators. Il entreprendrait le long processus [TRADUCTION] « d’arbitrage » requis afin d’arracher des avantages lucratifs à l’ARC.
+IV. Préparation de la déclaration [6] Mme Tomlinson a remis les documents requis à M. McGann avant la date limite de production des déclarations pour l’année d’imposition 2008. Par la suite, une enveloppe a été livrée au domicile de Mme Tomlinson. Elle contenait divers documents : la déclaration de revenus T1 générale pour 2008, une Demande de report rétrospectif d’une perte T1A, et un [TRADUCTION] « état des résultats des activités de mandataire ».
+[7] La déclaration de revenus T1 générale elle-même contenait diverses données inhabituelles et inexplicables pour Mme Tomlinson par rapport à son historique de production : une perte d’entreprise de 369 963,80 $, un revenu total de (251 463,95 $), un revenu net de zéro et un remboursement d’impôt de 31 341,39 $, mais elle incluait son revenu d’emploi de 111 361,84 $. La Demande de report rétrospectif d’une perte T1A portait sur le report de l’excédent des pertes aux années d’imposition 2005, 2006 et 2007, pour un total de 258 602 $. Si l’ARC n’avait pas rejeté la déclaration de revenus T1 générale et la Demande T1A, Mme Tomlinson aurait reçu un remboursement de tous les impôts qu’elle avait payé pour ces années.
+[8] L’étrange état des résultats des activités de mandataire est un mélange savant de concepts comptables et juridiques mal appliqués, amalgamés et remaniés. Il est truffé de termes normalement réservés au droit des mandats, des contrats et des fiducies. Cependant, l’usage qui est fait de ces termes dans cet état des résultats est tout sauf normal et approprié : Mme Tomlinson certifie qu’elle est la mandante de son propre mandat, qu’elle prend part à une « relation de mandant et mandataire » et que cette relation, à certaines occasions, inclut le mandataire et le mandant (tous deux étant une seule et même « entité ») et, à d’autres occasions, de mystérieuses tierces parties qui ont ou qui n’ont pas de [TRADUCTION] « revenu déclaré ». Dans tous les cas, chaque document a été signé ou rempli [TRADUCTION] « par » Mme Tomlinson elle-même. Elle a déclaré dans son témoignage qu’elle avait posté les déclarations à l’ARC sans lire leur contenu.
+V. Mesures prises par l’ARC à la réception de la déclaration de revenus de 2008 [9] Évidemment, l’ARC n’a pas ratifié, tel qu’ils ont été soumis, la déclaration de revenus T1 générale inhabituelle de 2008, la Demande de report rétrospectif d’une perte T1A ou l’état des résultats des activités de mandataire. Elle a plutôt envoyé une série de lettres demandant à l’appelante de remplir un questionnaire sur l’entreprise, d’envoyer les reçus concernant les frais et de fournir des explications sur les opérations qui ont eu lieu entre [TRADUCTION] « le mandant et le mandataire » ainsi qu’une description générale de l’entreprise.
+[10] Invariablement, Mme Tomlinson, sans les lire ou du moins sans les lire en détail, transmettait les demandes de l’ARC à M. McGann. M. McGann, en retour, produisait des réponses dont le ton, la logique et la signification cadraient avec le contenu approximatif, dépourvu de sens et indéchiffrable de l’état des résultats des activités de mandataire. Il n’existe aucun souci pour la grammaire, la syntaxe ou la pensée intelligibles dans la correspondance préparée par M. McGann et signée par Mme Tomlinson. Lors de son témoignage, Mme Tomlinson a affirmé qu’elle croyait que les réponses étaient cohérentes avec le processus décrit initialement par M. McGann quant à l’effort tortueux et soutenu nécessaire afin d’obtenir les remboursements rarement disponibles. Mme Tomlinson ne pouvait expliquer aucun des termes utilisés dans les déclarations de revenus, dans les états ou dans la correspondance préparés par l’agent de Fiscal Arbitrators.
+VI. Prise de conscience du mensonge par Mme Tomlinson [11] Après plusieurs années, après plusieurs séries de communications et après la production de l’avis d’opposition, Mme Tomlinson est retournée voir Mme Anderson, sa spécialiste en déclarations de revenus d’avant 2008, pour obtenir des conseils. La réponse a été rapide et directe : [TRADUCTION] « vous avez de sérieux problèmes ».
+VII. Droit applicable A. Paragraphe 163(2) [12] Le paragraphe 163(2) de la Loi est libellé en partie comme suit :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité [...]
+[13] En vertu du paragraphe 163(3), le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+B. Régime d’autodéclaration [14] La Cour suprême du Canada, dans l’arrêt R. c. Jarvis, 2002 CSC 73, a souligné comme suit les obligations des contribuables ainsi que les dispositions applicables afin de s’assurer que les contribuables se sentent obligés de s’y conformer :
+49 Toute personne résidant au Canada au cours d’une année d’imposition donnée est tenue de payer un impôt sur son revenu imposable, calculé selon les règles prescrites par la Loi (LIR, art. 2 [...]). Le processus de perception des impôts repose principalement sur l’autocotisation et l’autodéclaration [...] Sous réserve de certaines restrictions, le ministre peut par la suite établir une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt du contribuable pour une année d’imposition (par. 152(4)).
+50 Bien que l’observation volontaire de la loi et l’autocotisation constituent les éléments essentiels du régime réglementaire de la LIR, le système fiscal est doté de [traduction] « mécanismes de persuasion visant à inciter les contribuables à déclarer leurs revenus » [...] Par exemple, pour favoriser l’aspect d’autodéclaration du régime, l’art. 162 de la LIR établit des peines pécuniaires pour les personnes qui omettent de produire leur déclaration de revenu. De même, pour inciter le contribuable à faire preuve de minutie et d’exactitude dans le cadre de l’autocotisation, l’art. 163 de la Loi prévoit le même type de pénalités pour les personnes qui omettent de façon répétée de déclarer un montant à inclure, qui sont complices d’un faux énoncé ou d’une omission ou qui commettent une faute lourde à cet égard.
+51 [...] caractéristiques fondamentales de [...] l’autodéclaration que le succès de l’application du régime fiscal repose [...] Comme le juge Cory l’a affirmé dans l’arrêt Knox Contracting, précité, p. 350 : « Le système d’imposition dépend entièrement de l’intégrité du contribuable qui déclare et évalue son revenu. Pour que le système fonctionne, les déclarations doivent être remplies honnêtement ». Il n’est donc pas étonnant que la Loi tente de restreindre le risque qu’un contribuable essaie de « tirer profit du régime d’auto‑déclaration pour tenter d’éviter de payer sa pleine part du fardeau fiscal en violant les règles énoncées dans la Loi ». [...]
+[Non souligné dans l’original. Renvois omis.]
+[15] L’objectif de toutes ces dispositions est de rendre efficace et fonctionnel un régime fiscal d’autocotisation et d’autodéclaration volontaires.
+[16] L’aspect principal de ce régime est que l’autorité fiscale ne pénalise pas un contribuable à moins que et jusqu’à ce que le contribuable omette de préparer sa déclaration de revenus avec assez de soin et de précision au point de commettre une faute lourde, généralement quelle que soit la personne à qui la tâche comme telle est déléguée. Le contribuable bénéficie d’un régime d’autocotisation et d’autodéclaration, mais il doit agir avec honnêteté, dans les délais et de bonne foi, à défaut de quoi les dispositions pénales de la Loi et celles traitant de la conformité seront déclenchées.
+[17] Cette obligation positive du contribuable et le manquement à celle-ci détermineront si les pénalités de ce régime seront imposées. À la lecture du paragraphe 163(2), il est évident que les deux éléments suivants doivent être présents pour qu’une conclusion de responsabilité de payer une pénalité puisse être tirée :
+a) un faux énoncé dans une déclaration; et b) la connaissance de la soumission du faux énoncé ou, en l’absence de connaissance réelle, la participation, l’acquiescement ou le consentement à la soumission du faux énoncé. VIII. Faux énoncé : [18] D’après les éléments de preuve, il ne fait aucun doute que tous les renseignements soumis dans la déclaration de revenus concernant la « relation de mandant et mandataire » étaient manifestement faux. Mme Tomlinson n’a pas prétendu le contraire. Il n’existait tout simplement aucune relation de ce type, un point c’est tout. Toute référence à des pertes déclarées en vertu de cette relation ou à des remboursements qui en découlent est également vouée à l’échec du fait du même mensonge initial. Par conséquent, le premier élément d’un faux énoncé dans une déclaration est établi.
+IX. Connaissance réelle ou faute lourde [19] La « connaissance » du mensonge manifeste est légèrement plus nuancée lorsque le contribuable n’a pas examiné ou lu les déclarations de revenus avant de les signer. Cela devient encore plus compliqué lorsque l’affaire porte sur les agents de Fiscal Arbitrators. L’examen du texte, du verbiage et du cadre conceptuel choisis par ces « conseillers » fait froncer les sourcils de comptables, d’avocats et de juges tout à fait expérimentés. Comment peut-on discerner ou savoir si de telles déclarations sont fausses, ou vraies finalement? La terminologie qui y est employée n’est tout simplement pas assez claire pour le savoir. On peut tirer cette conclusion même lorsque de telles déclarations sont lues. En l’espèce, elles ne l’ont pas été. La Cour croit Mme Tomlinson lorsqu’elle dit qu’elle ne connaissait pas le « jargon fiscal ». Cela ne faisait pas partie de ses habiletés à titre d’infirmière autorisée. En bref, Mme Tomlinson soutient qu’elle n’a pas lu la déclaration parce qu’elle n’aurait pas su, contrairement aux fiscalistes ou aux personnes ayant des connaissances du domaine des affaires ou de la comptabilité, discerner le [TRADUCTION] « charabia » de l’agent de Fiscal Arbitrators du langage trop compliqué et obscur du droit fiscal et de la comptabilité. Cette réaction habituelle de la part des profanes constitue probablement « le fonds de commerce » de Fiscal Arbitrators. Elle n’exonère cependant pas le contribuable de sa responsabilité.
+[20] La question pertinente dans le présent appel est de savoir si Mme Tomlinson a fait un faux énoncé qui équivaut à faute lourde, au-delà de la « connaissance réelle ».
+[21] La faute lourde va au-delà de la simple faute. La faute lourde doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée ou à une indifférence quant au respect de la Loi : Venne c. La Reine, [1984] A.C.F. no 314. Il s’agit d’un comportement qui se rapproche de l’insouciance : Farm Business Consultants Inc. c. Canada, [1994] ACI no 760 (QL).
+[22] Certains facteurs doivent être utilisés pour déterminer si le comportement constitue une faute lourde. Ces facteurs ont été établis comme suit dans la décision DeCosta c. La Reine, 2005 CCI 545, au paragraphe 11 :
+a) l’importance de l’omission relative au revenu déclaré;
+b) la faculté du contribuable de découvrir l’erreur;
+c) le niveau d’instruction du contribuable et son intelligence apparente;
+d) l’effort réel de se conformer à la loi.
+[23] L’aveuglement volontaire peut constituer une faute lourde dans le contexte d’une pénalité imposée au titre de l’impôt sur le revenu. À la fois dans l’arrêt Canada (Procureur général) c. Villeneuve, 2004 CAF 20, et dans l’arrêt Panini c. Canada, 2006 CAF 224, on a conclu que la notion ou le concept d’aveuglement volontaire s’appliquait à l’égard des pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi.
+[24] De même, le juge C. Miller, dans la décision Torres c. La Reine, 2013 CCI 380, au paragraphe 65, a énuméré le processus supplémentaire suivant pour analyser la présence de caractéristiques de la faute lourde lorsqu’il est question du groupe Fiscal Arbitrators :
+a) La connaissance d’un faux énoncé peut être déduite d’un aveuglement volontaire.
+b) La notion d’aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi [...]
+c) Pour savoir s’il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d’instruction et d’expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s’informer, ou soupçon d’une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s’informer avant la production d’une déclaration, ou faisant apparaître « des feux rouges clairs » [...] comprennent ce qui suit :
+i) l’importance de l’avantage ou de l’omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l’absence, dans la déclaration elle-même, d’une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à s’en ouvrir à d’autres.
+f) Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+[25] La Cour a entrepris l’analyse suivante des faits concernant Mme Tomlinson.
+a) Niveau d’instruction et expérience [26] Même si Mme Tomlinson ignorait le langage codé utilisé en droit fiscal et en comptabilité, elle est une femme instruite et une infirmière autorisée. Elle comprend et parle bien l’anglais. Elle avait produit ses déclarations de revenus antérieures promptement et correctement et payé ses impôts sans enquête, incident ou nouvelle cotisation. Elle avait, pour cela, fait preuve d’intelligence et de bon sens en retenant les services d’une spécialiste en déclarations de revenus à un prix raisonnable.
+b) Nécessité d’entretenir des soupçons [27] Les circonstances entourant la présentation du nouveau spécialiste en déclarations de revenus à Mme Tomlinson (par le bouche-à-oreille), la nouvelle base de rémunération (honoraires conditionnels aux impôts remboursés) et la réception des déclarations de revenus en main propre (plutôt que l’examen en personne habituel) sont autant de facteurs qui auraient dû soulever un doute à l’égard de ce nouveau service.
+c) Circonstances indiquant la nécessité de s’informer [28] Il est nécessaire d’analyser les mesures prises par Mme Tomlinson après la réception de sa déclaration de revenus de 2008, de la Demande de report rétrospectif de pertes et de l’état des résultats des activités de mandataire, tous reçus dans une enveloppe envoyée à son domicile. Plus précisément, cet examen doit porter sur le contenu des documents, qu’ils aient été lus ou non par Mme Tomlinson.
+(i) Ampleur de l’omission [29] La déclaration des pertes d’entreprise, quasi égales en quantum à trois années de revenus d’emploi normal de Mme Tomlinson, est relativement stupéfiante. Tous les autres postes correspondants de la déclaration mènent à des différences aussi spectaculaires. Un simple examen de ces chiffres aurait dû mettre la puce à l’oreille de Mme Tomlinson.
+(ii) Caractère flagrant du faux énoncé et détectabilité [30] En termes simples, le concept d’entreprise dans son ensemble était un mensonge manifeste. Sa détectabilité est évidente. Deux documents supplémentaires, que Mme Tomlinson n’avait jamais produits auparavant, la Demande de report rétrospectif de pertes et l’état des résultats des activités de mandataire, ont été inclus à la déclaration de revenus qu’elle a signée et ont été fournis uniquement en raison du mensonge manifeste quant à l’entreprise inventée.
+(iii) Absence d’attestation de la part du spécialiste en déclarations de revenus [31] Ni M. McGann ni Fiscal Arbitrators n’ont indiqué dans la déclaration qu’ils avaient rempli la déclaration de revenus moyennant des frais. Cette omission a été faite, en dépit du fait que Mme Tomlinson croyait que les employés de Fiscal Arbitrators étaient des spécialistes en déclarations de revenus perspicaces et capables d’obtenir des remboursements disponibles, mais peu connus. Cette omission, compte tenu des frais considérables ou, du moins, plus élevés (de 60 $ à 500 $), aurait dû pousser Mme Tomlinson à se poser des questions. Ceci est étayé par le fait que M. McGann avait avisé Mme Tomlinson de son intention de traiter directement avec l’ARC.
+(iv) Demandes inusitées du spécialiste [32] Plusieurs demandes inhabituelles ont été faites par M. McGann au nom de Fiscal Arbitrators lorsque ses services ont été retenus. Premièrement, toute la correspondance provenant de l’ARC devait être acheminée directement à M. McGann sans vérification ou questions de la part de Mme Tomlinson. Deuxièmement, même si toute la correspondance était préparée par Fiscal Arbitrators, Mme Tomlinson devait la signer, en indiquant que les lettres et les déclarations étaient produites [TRADUCTION] « par » elle. Enfin, la demande de renseignements préliminaires à l’égard des déclarations de revenus des 10 années antérieures était inhabituelle et incompatible avec les demandes des spécialistes en déclarations de revenus précédents de l’appelante, puisque dès le début la tâche confiée était de remplir la déclaration de revenus de 2008.
+(v) Spécialiste en déclarations de revenus auparavant inconnu [33] Avant qu’une collègue, qui ne connaissait pas plus qu’elle le droit fiscal et la comptabilité, ne lui recommande les services de M. McGann, Mme Tomlinson n’avait jamais entendu parler de M. McGann ni de Fiscal Arbitrators. La nouveauté de la relation n’avait donné lieu à aucun doute ou question de la part de Mme Tomlinson.
+(vi) Explications inintelligibles [34] Dès le départ, M. McGann a indiqué que, sans tarder, l’ARC mènerait des enquêtes, établirait de nouvelles cotisations et soumettrait des demandes. Pour expliquer cela, M. McGann a simplement parlé d’avantages fiscaux vagues et obscurs, mais disponibles, connus uniquement de l’ARC et des clients de Fiscal Arbitrators. Cette nouvelle cotisation prévue, le litige qui suivrait et les pénalités imposées finiraient par disparaître si Mme Tomlinson faisait simplement confiance à Fiscal Arbitrators pendant le processus difficile et laborieux. Il est difficile d’imaginer que ces explications incongrues aient été réconfortantes, alors que Mme Tomlinson avait auparavant produit ses déclarations de revenus sans incident.
+(vii) Le point de savoir si d’autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l’encontre de ce dernier, ou le point de savoir si le contribuable lui-même hésite à se confier à d’autres. [35] Mme Tomlinson a déclaré n’avoir exprimé aucune crainte jusqu’à ce que sa spécialiste précédente ne relève la bêtise qu’avait faite Mme Tomlinson en faisant confiance à Fiscal Arbitrators.
+d) Aucune tentative de la part du contribuable de comprendre la déclaration ni de se renseigner [36] Mme Tomlinson a déclaré dans son témoignage qu’elle n’avait pas lu la déclaration ou les documents joints à celle-ci. Elle n’a pas tenté de le faire lorsqu’ils lui ont été livrés. Elle n’a posé aucune question puisqu’elle a ignoré leur contenu. Il n’y a rien de plus à dire à ce sujet.
+X. Conclusion [37] L’appel de Mme Tomlinson est par conséquent rejeté. D’après l’analyse des facteurs ci-dessus tirés à la fois de la décision DeCosta et de la décision Torres, Mme Tomlinson n’a pas porté attention aux signes évidents et ne s’est pas dit que, si quelque chose semble trop beau pour être vrai, c’est habituellement parce que ce n’est effectivement pas vrai.
+[38] Elle n’a pas respecté les obligations fondamentales de tout contribuable, soit de lire et d’examiner sa déclaration de revenus avant de la signer. Cette omission est, comme telle, le fondement de l’aveuglement volontaire : Saikali c. Canada, [1998] A.C.F. no 660, (1998) 3 CTC 200 (CAF), au paragraphe 3; Canada c. Columbia Enterprises Ltd, [1983] A.C.F. no 408, 1983 CTC 204 (CAF). C’est sur cet élément central que reposent, en l’espèce, les circonstances qui auraient dû mener Mme Tomlinson à remarquer le mensonge flagrant utilisé pour duper le ministre. Elle a plutôt choisi simplement d’ignorer les faux énoncés flagrants dans sa déclaration de revenus de 2008 et les annexes qui l’accompagnaient. Les pénalités imposées, bien qu’elles soient importantes et potentiellement ruineuses, ont été imposées proportionnellement aux inventions évidentes, dont les indices ont été délibérément ignorés par Mme Tomlinson. Par conséquent, les pénalités sont maintenues.
+[39] Dans les circonstances, la Cour recevra les observations concernant les dépens dans les 30 jours suivant le présent jugement, à moins que les parties ne s’entendent sur ceux-ci.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2016.
+« R. S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 12e jour de décembre 2017.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 246
+No DU DOSSIER DE LA COUR :
+2012-4380(IT)G
+INTITULÉ :
+CHARMANE TOMLINSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 4 octobre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 1er novembre 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK/ EN BLANC]
+Cabinet :
+[BLANK/ EN BLANC]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,169 @@
+Title: Morin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25994/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-584-25994-morin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-08-27
+
+# Morin v. The Queen
+
+- Citation: 2004 TCC 584
+- Decision date: 2004-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3727, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-27
+Neutral citation
+2004 TCC 584
+File numbers
+2004-835(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-835(IT)I
+BETWEEN:
+RONALD J. MORIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 29, 2004 at Fort McMurray, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Karen Wood
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded the sum of $100 on account of his out-of-pocket disbursements incurred in prosecuting this appeal.
+Signed at Saskatoon, Saskatchewan, this 27th day of August 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC584
+Date: 20040827
+Docket: 2004-835(IT)I
+BETWEEN:
+RONALD J. MORIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Fort McMurray, Alberta, on July 29, 2004. The Appellant testified. The Respondent called his former wife, Ellen Foster, who testified.
+[2] The particulars of the dispute are set out in paragraphs 3 to 14 of the Amended Reply to the Notice of Appeal. The addition of paragraph 13.a by the amendment was allowed on a disputed motion by the Respondent at the opening of the hearing. Paragraphs 3 to 14 read:
+3. The 2000, 2001 and 2002 income tax returns were initially assessed as follows:
+Tax Year
+Initial Assessment Date
+2000
+March 8, 2001
+2001
+March 11, 2002
+2002
+March 6, 2003
+4. In computing income for the 2000, 2001 and 2002 Taxation Years, the Appellant deducted the following amounts as child support payments (the "Amounts");
+Tax Year
+Amount Deducted
+2000
+$15,000
+2001
+$15,000
+2002
+$5,000
+5. In reassessing the Appellant for the 2000, 2001 and 2002 Taxation Years, the Minister of National Revenue (the "Minister") disallowed the deduction of the Amounts on the basis that the Appellant's original court order was changed on or after May 1, 1997 to decrease the child support payable. The Notices of Reassessment were dated April 17, 2003.
+6. The Appellant filed Notices of Objection to the reassessments, received June 16, 2003.
+7. The Minister confirmed the reassessments by means of a Notification of Confirmation dated December 19, 2003.
+8. In confirming the reassessment of tax for the 2000, 2001 and 2002 Taxation Years, the Minister relied on the following facts:
+a) Ellen Loretta Morin (hereinafter "Ellen") is the Appellant's former spouse;
+b) the Appellant and Ellen have 2 children (the "Children") as follows:
+Brenda Lee Morin ("Brenda") born October 9, 1982; and
+Adam Ronald Morin ("Adam") born October 21, 1984
+c) a Consent Corollary Relief Order dated April 30, 1997 (the "Consent Order") requires the Appellant to pay Ellen, for the support and maintenance of the Children:
+i) the sum of $750 per month for each of the Children;
+ii) the first payment to commence on the 30th day of April 1997; and
+iii) continuing until the Children cease to be children of the marriage as defined by the provisions of the Divorce Act, (1985);
+d) in a written agreement between the Appellant and Ellen dated December 4, 1998 (the "Written Agreement") Ellen agrees to waive $250 of the $1500 per month for child support from the Appellant dating back to April 30, 1998 until Brenda turns to the age of 18 years old on October 9, 2000;
+e) the Appellant claimed the Amounts of $15,000, $15,000 and $5,000 respectively in each of the 2000, 2001 and 2002 Taxation Years;
+f) child support of $15,000 in 2000, $14,375.00 in 2001 and $4,375 in 2002 was paid by the Appellant to Ellen pursuant to the Written Agreement;
+g) Brenda turned 18 on October 9, 2000
+h) the Appellant continued to pay $1,250 per month in respect of the Children after October 9, 2000;
+i) the Appellant and Ellen were living separate and apart at the time the payments were made by the Appellant; and
+j) Brenda's education ceased in January of 2002 and beginning February 2002, the Appellant reduced the total child support paid to $750 per month for child support in respect of Adam.
+9. The assumption of fact outlined in paragraph j above was first made by the Minister in confirming the reassessment.
+Other Material Facts
+10. After the Appellant paid the June 2002 child support payments to Ellen, Adam left the custody of Ellen and the Appellant ceased paying child support to Ellen.
+B. ISSUES TO BE DECIDED
+11. The issue is whether the child support payments made by the Appellant are deductible in computing the Appellant's income in the 2000, 2001 and 2002 Taxation Years.
+C. STATUTORY PROVISIONS RELIED ON
+12. He relies on subsection 56.1(4) and 152(9) and paragraphs 60(b) and 60(c) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act") as amended for the 2000, 2001 and 2002 Taxation Years.
+13. He submits that the Written Agreement varied the total amount of child support to be paid by the Appellant and therefore a commencement day under subparagraph 56.1(4)(b)(ii) of the Act. Child support paid by the Appellant during the 2000, 2001 and 2002 Taxation Years is not deductible pursuant to paragraph 60(b) of the Act.
+13.a Alternatively, he submits that the Written Agreement changed the total child support amount payable to the Recipient and, as such, there was a commencement day under subparagraph 56.1(4)(b)(iii) of the Act. Child support paid by the Appellant during the 2000, 2001 and 2002 Taxation Years is not deductible pursuant to paragraph 60(b) of the Act.
+[3] Assumptions 8 a), b), c), e), g), h), i) and j) were not refuted by the evidence.
+[4] Respecting assumption 8 d), the "Written Agreement" dated December 4, 1998 was filed as Exhibit (A-2). It reads:
+December 4, 1998
+TO WHOM IT MAY CONCERN:
+I, Ellen Morin agree to waive $250.00 of the $1500.00 per month for child support from my ex-husband, Ronald J. Morin dating back to April 30th, 1998 until our daughter, Brenda-Lee Morin turns to the age of eighteen years Oct. 9th, 2000.
+"Ellen Morin"
+DATED "Dec 31/98"
+ELLEN MORIN
+"Ronald Morin" DATED "Dec 6/98"
+RONALD J. MORIN
+[5] The "Written Agreement" is not under seal; it is not a deed. Ellen has a grade 8 education. It was drawn by the Appellant who has a grade 10 education and signed by both parties.
+[6] On its face, Exhibit A-2, the "agreement" does not appear to be enforceable by Mr. Morin because it is not a deed and there is no consideration. Moreover, Mr. Morin has always kept his child support payments current. Exhibit A-2 was drawn and executed because Mr. Morin had been demoted and his salary reduced. He had discussed the fact that he could not afford the Court Order of 30 April, 1997 payments of "the sum of $750 per month for each of the said infant children" (Exhibit A-1, paragraph 2), with his lawyer. The lawyer advised Mr. Morin that a change in payments by Court Order would make the money taxable to Mr. Morin, but a waiver would enable him to deduct the amounts that he paid. Mr. Morin then contacted Ellen Morin and, eventually, they completed Exhibit A-2.
+[7] Mr. Morin actually reduced his payments for only one child, Brenda, and commenced doing so April 30, 1998 (pursuant to oral discussions with Ellen) before Exhibit A-2 was executed in December. He testified that he could not afford to pay more after his pay was reduced and he could not afford to go to Court for another order or to hire a lawyer. Ellen Morin was required to go bankrupt in about the same time period and that bankruptcy included part of her lawyer's fees for the divorce, as a result her situation was about the same as Mr. Morin's. Ms. Foster was paying income tax on the money she received until H & R Block saw Exhibit R-2 and advised her not to. The result is this assessment.
+[8] In cross-examination, Mr. Morin stated that he always kept up his payments for the children and Ms. Foster agreed with this.
+[9] Mr. Morin and Ms. Foster cannot agree to waive or otherwise abrogate the rights of a third party, namely, a child, for support determined by a court order. Any change must be made by another court order. This is quite different from an agreement to a reduction of spousal support. The different legal character of spousal support and child support was articulated by Madam Justice Wilson in Richardson v. Richardson, in the following passage, quoted with approval by Justice Sopinka writing for the majority of the Supreme Court of Canada in Willick v. Willick, [1994] 3 S.C.R. 670:
+This inter-relationship [between spousal maintenance and child support] should not, however, lead us to exaggerate its extent or forget the different legal bases of the support rights. The legal basis of child maintenance is the parents' mutual obligation to support their children according to their need. That obligation should be borne by the parents in proportion to their respective incomes and ability to pay: Paras v. Paras, supra.... Child maintenance, like access, is the right of the child: Re Cartlidge and Cartlidge, [1973] 3 O.R. 801 (Fam. Ct.). For this reason, a spouse cannot barter away his or her child's right to support in a settlement agreement. The court is always free to intervene and determine the appropriate level of support for the child.... Further, because it is the child's right, the fact that child support will indirectly benefit the spouse cannot decrease the quantum awarded to the child. [Emphasis added.]
+In Pelech v. Pelech, [1987] 1 S.C.R. 801, released concurrently with Richardson, the following often-quoted principle was stated:
+[T]he Hyman principle that parties cannot by contract oust the jurisdiction of the court in matters of spousal maintenance is an established tenet of Canadian law.
+Although that case pertained to spousal support rather than child support, if it is true that parties cannot oust the court's jurisdiction by way of spousal support agreements, it follows that the court's jurisdiction with respect to child support cannot be avoided by agreement. If the rights of a child cannot be bartered way in a separation agreement, they cannot be waived by one of the parents in a subsequent "variation" in the absence of consideration and without court sanction. The written agreement in this case is invalid for that reason alone. In some provinces, the written agreement may be invalid for lack of compliance with formalities. In Alberta, however, there are no statutory formalities for a spousal support agreements: Gardner v. Gardner, [2002] A.J. No. 625. The same appears to be true with respect to separation agreements in general, including child support. (Domestic Relations Act, R.S.A. 2000, c. D-14)
+[10] Paragraph [9] recites the authority for the first two reasons that Mr. Morin's appeal should be allowed:
+1. The spousal parties cannot contract out of a court order; rather, they must obtain a new court order varying the first order.
+2. The spousal parties cannot waive the rights of a child (a third party) to support granted under a court order.
+[11] The third reason is this: Based upon the totality of the testimony, the Court finds that there was no consideration between the parties in return for Ms. Foster signing Exhibit A-2 on December 31, 1998. The "agreement", Exhibit A-2 was a gratuitous act by her upon which Mr. Morin acted without any passing of consideration such as would exist within the law. Therefore it cannot be enforced by Mr. Morin and he still owes Ms. Foster the $250 per month which he did not pay her at that time.
+[12] For these reasons, the Court is of the view that the original Court Order between the Morins dated April 30, 1997 remains in force between the parties and did so at all material times. Thus the child support payments made by the Appellant as described in assumption 8(f) are deductible in computing the Appellant's income in the 2000, 2001 and 2002 taxation years.
+[13] This matter is referred to the Minister for reconsideration and reassessment in accordance with these Reasons. The Appellant is awarded the sum of $100 on account of his out-of-pocket disbursements incurred for copying, postage, et cetera, in prosecuting this appeal.
+Signed at Saskatoon, Saskatchewan, this 27th day of August 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC584
+COURT FILE NO.:
+2004-835(IT)I
+STYLE OF CAUSE:
+Ronald J. Morin v. The Queen
+PLACE OF HEARING:
+Fort McMurray, Alberta
+DATE OF HEARING:
+July 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+August 27, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Karen Wood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

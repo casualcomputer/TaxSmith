@@ -1,0 +1,186 @@
+Title: Dancause c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28740/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-320-28740-dancause-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-06-25
+
+# Dancause c. M.R.N.
+
+- Citation: 2008 CCI 320
+- Decision date: 2008-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1462, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dancause c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-25
+Référence neutre
+2008 CCI 320
+Numéro de dossier
+2007-3123(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3123(EI)
+ENTRE :
+FRANCE DANCAUSE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+9049-5490 QUÉBEC INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 27 février 2008, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelante :
+Me Marlène Jacob
+Avocat de l'intimé :
+Me Sylvain Ouimet
+Avocate de l'intervenante :
+Me Marlène Jacob
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est accueilli en partie. Le travail effectué par l’appelante pour le compte de la société 9049‑5490 Québec inc. pour la période du 9 novembre 2001 au 9 novembre 2002, a été exécuté d’une manière comparable à celui qu’une tierce personne dans une situation semblable d’où il doit bénéficier de l’exception prévue par la Loi.
+…/2
+Par contre, en ce qui concerne le travail effectué lors des périodes allant du 6 mai au 21 août 2004, du 3 octobre 2004 au 27 août 2005 et du 11 septembre 2005 au 23 décembre 2006, l’emploi est exclu des emplois assurables en vertu de l’article 5(2) de la Loi, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 25e jour de juin 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008 CCI 320
+Date : 20080625
+Dossier : 2007-3123(EI)
+ENTRE :
+FRANCE DANCAUSE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+9049-5490 QUÉBEC INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision en vertu de laquelle le travail effectué par l’appelante, France Dancause, pour le compte de la société 9049‑5490 Québec inc. a été exclu des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi (la « Loi »).
+[2] Le ministre du Revenu national (le « ministre ») a exclu le travail effectué par l’appelante, du 9 novembre 2001 au 9 novembre 2002, du 6 mai 2004 au 21 août 2004, du 3 octobre 2004 au 27 août 2005 et du 11 septembre 2005 au 23 décembre 2006 pour le compte de la compagnie 9049‑5490 Québec inc., des emplois assurables en vertu de l’alinéa 5(2)i) de la Loi. Le travail a fait l’objet d’une analyse aux termes de laquelle l’intimé a conclu que l’employeur et l’employée avaient convenu d’une entente de travail dont les conditions étaient différentes de celles qu’auraient convenu des tiers dans un contexte semblable.
+[3] En effet, comme l’appelante et la société intervenante, 9049‑5490 Québec inc., avaient entre elles un lien de dépendance, le ministre s’est dit convaincu qu’il n’était pas raisonnable de conclure que l’appelante et la société auraient conclues entre elles un contrat de travail à peu près semblable n’eut été du lien de dépendance, compte tenu des faits et des circonstances analysés.
+[4] Pour rendre sa décision, le ministre s'est fondé sur les faits suivants :
+5. […]
+a) l’actionnaire unique du payeur était Serge Saucier; (admis)
+b) France Dancause est la conjointe de fait du payeur; (admis)
+c) l’appelante est liée comme conjoint de fait à une personne qui contrôle le payeur; (admis)
+6. […]
+a) le payeur a été constitué en société le 25 avril 1997; (admis)
+b) le payeur exploitait un salon de coiffure unisexe; (admis)
+c) l’unique actionnaire du payeur avait racheté le salon de barbier de son père et l’avait transformé en salon de coiffure unisexe; (admis)
+d) outre l’actionnaire, le payeur emploie 7 coiffeuses effectuant de la coiffure unisexe; (à préciser)
+e) le salon est ouvert à l’année longue les mardis et mercredis de 8 h 30 à 17 h 30, les jeudis et vendredis de 8 h 30 à 20 h 30 et les samedis de 8 h à 16 h; (admis)
+f) les périodes de fort achalandage du payeur sont d’environ 3 semaines à Pâques, l’été et 5 semaines à Noël, alors que l’appelante était inscrire au livre des salaires pour des périodes minimums de Noël et Pâques 2004 et 2005; (nié)
+g) les revenus du payeur provenaient d’environ 80 % de la coiffure pour dame et d’environ 20 % de la coiffure pour homme; (admis)
+h) pendant les périodes en litige, le chiffre d’affaires du payeur a démontré une constante augmentation de l’ordre de 185 110 $ en 2002 pour terminer en 2006 avec 274 885 $; (admis)
+i) l’appelante travaillait déjà pour le salon de barbier de son beau‑père comme coiffeuse pour homme avec Marie‑Claude Saucier; (admis)
+j) Marie-Claude Saucier est la sœur de l’unique actionnaire du payeur; (admis)
+k) l’appelante a continué d’exercer les mêmes fonctions pour le payeur; (nié)
+l) Marie-Claude Saucier fait de la coiffure pour dame et avec deux autres coiffeuses aident à la coiffure pour homme, quand nécessaire; (nié)
+m) l’appelante est la seule coiffeuse du payeur à faire exclusivement de la coiffure pour homme; (admis)
+n) comme toutes les autres coiffeuses, l’appelante s’occupe du lavage des serviettes, de servir aux clients des jus et du café; (nié)
+o) l’appelante ne fait pas de coloration; ni de coupe de cheveux pour dame; (admis)
+p) l’appelante était la seule employée du payeur à être rémunérée 40 heures par semaine, lorsqu’elle travaillait à temps plein, alors que toutes les autres coiffeuses travaillaient 35 heures et moins par semaine; (nié tel que rédigé)
+q) l’appelante avait un taux horaire de 12,50 $ lorsqu’elle travaillait 40 heures par semaine en 2004 et de 13,75 $ en 2005, alors que le taux diminuait à 11,50 $ lorsqu’elle travaillait à temps partiel, soit environ 6 heures par semaine, donc le maximum d’heures pour ne pas perdre ou voir diminuer ses prestations de chômage; (nié)
+r) toutes les autres coiffeuses unisexes du payeur étaient rémunérées au taux horaire variant de 7 $ à 9 $ plus commissions, sauf Marie‑Claude Saucier qui bénéficiait d’un taux horaire de 11,50 $ plus commissions; (nié)
+s) le taux horaire de l’appelante était élevé considérant le peu de rentabilité du travail de l’appelante; (nié)
+t) les périodes d’emploi à temps plein de l’appelante correspondaient aux périodes où les autres coiffeuses étaient en congé maternité ou en vacances, alors que l’appelante ne peut faire que de la coiffure pour homme; (nié)
+u) les périodes d’emploi à temps partiel de l’appelante lui permettaient de conserver sa clientèle; (admis)
+v) l’appelante n’a pas travaillé en 2003, car elle était en congé maternité suivi du congé parental; (admis)
+w) l’appelante était souvent mise à pied par le payeur, car elle est limitée aux coiffures pour homme et n’est donc pas suffisamment rentable pour le payeur; (nié tel que rédigé)
+x) l’appelante épuisait toutes ses semaines de prestations avant d’être réengagée par le payeur; (nié tel que rédigé)
+y) les faibles revenus générés par le travail de l’appelante ne pouvaient justifier son embauche, sans le lien de dépendance, dans les mêmes conditions; (nié tel que rédigé)
+[5] Dans un premier temps, le conjoint de l’appelante, monsieur Saucier a décrit la région et ses particularités. Il a affirmé que les personnes œuvrant dans le domaine de la coiffure étaient très rares dans la région et que cette pénurie l’obligeait à être conciliant, expliquant et justifiant ainsi certaines particularités quant au travail exécuté par sa conjointe.
+[6] Il a décrit la situation qui prévalait dans sa région au niveau de la coiffure. Il a parlé des problèmes liés au recrutement de personnel qualifié et compétent.
+[7] Il a affirmé que la rareté des coiffeurs faisait en sorte que ceux et celles qui œuvraient dans ce domaine étaient exigeants, difficiles, plaçant généralement leur qualité de vie au‑dessus de tout.
+[8] Il a affirmé que ce problème a pour conséquence de limiter son autorité comme propriétaire de salon de coiffure. En d’autres termes, il ne peut pas être trop exigeant et doit nécessairement composer avec les exigences et même les caprices de certains employés.
+[9] Monsieur Serge Saucier a formellement admis, au moins à deux reprises, qu’il aurait bien voulu que des coiffeuses avec lesquelles il n’avait pas de lien de dépendance acceptent des conditions de travail comparables à celles de sa conjointe; en d’autres termes, il aurait voulu que ses employés, avec lesquels il n’avait pas de lien, collaborent autant, soient aussi attentifs aux besoins de l’entreprise et soient aussi flexibles que son épouse.
+[10] Monsieur Serge Saucier a répété qu’il avait une autorité très limitée sur les coiffeuses qui avaient des exigences particulières quant au nombre d’heures de travail et quant à leur qualité de vie; le plus souvent, il s’agissait de conditions non négociables qu’il devait accepter au risque de perdre des employés très difficiles à remplacer.
+[11] Pour expliquer les mises à pied et les baisses de salaire relatives au travail de son épouse, il a systématiquement fait référence à son comptable qui, manifestement, occupait un rôle dominant dans la gestion de son entreprise. Ce dernier n’a cependant pas témoigné.
+[12] Seule l’appelante a fait l’objet de diminutions et d’augmentations de salaire; l’appelante avait des périodes de travail très particulières et fort différentes de celles des autres employés.
+[13] Malgré sa flexibilité et sa volonté réelle de collaborer à la bonne marche de l’entreprise de son conjoint, l’appelante n’avait pas toutes les compétences voulues en ce que son travail se limitait à la coiffure pour hommes, volet secondaire de l’entreprise dont la vocation première était la coiffure pour dames. En effet, le volume d’affaires était réparti à raison de 80 % pour la coiffure pour femmes et de 20 % pour la coiffure pour hommes.
+[14] Selon monsieur Saucier, le secteur de la coiffure féminine était plus profitable et plus intéressant. De plus, les longues périodes d’absence de l’appelante avaient des effets négatifs sur la fidélité des clients qui devaient s’adresser à d’autres coiffeurs ou coiffeuses lors de ses absences périodiques. Certains clients revenaient, d’autres non.
+[15] Serge Saucier a expliqué que sa conjointe agissait comme soutien administratif, étalagiste, vendeuse et réceptionniste. Elle s’occupait également de passer le balai et, à l’occasion, elle pouvait agir comme soutien pour les autres, offrir du café, faire le ménage général, et ainsi de suite.
+[16] Elle travaillait 40 heures par semaine alors que les autres n’en travaillaient que 35. Pourquoi? Parce que les autres ne voulaient pas travailler plus. Quand est venu le temps d’expliquer comment les services décrits comme essentiels et fondamentaux étaient rendus lors des périodes non travaillées de l’appelante. Monsieur Saucier a donné des réponses plutôt confuses et évasives.
+[17] Le conjoint de l’appelante a eu recours à toutes sortes d’excuses générales et souvent confuses pour justifier ou expliquer certains faits dont la cohérence était douteuse.
+[18] Cela est devenu particulièrement évident lorsque monsieur Saucier a expliqué les fluctuations du salaire horaire de l’appelante. Les mêmes réponses ont également été données en ce qui touche les aspects relatifs aux fins et débuts des périodes de travail.
+[19] À chaque occasion où il devait expliquer des particularités quant aux modalités de travail de l’appelante, il a allégué que le personnel qualifié et compétent était très rare et que les personnes qui étaient disponibles étaient indépendantes et très exigeantes. Lors de d’autres situations, il a affirmé avoir agi et décidé sur les recommandations de son comptable.
+[20] Très volubile, Serge Saucier avait réponse à tout, mais, très souvent, il avait recours à des explications non vérifiables, telles les recommandations du comptable, la situation particulière de la région, la conjoncture, les particularités du domaine, la jalousie des employés, leurs exigences et leur intransigeance.
+[21] Monsieur Saucier appelé à expliquer certaines incohérences, a eu recours à des affirmations passe‑partout, telle une baisse du chiffre d’affaires, un ralentissement économique, l’ouverture du centre d’hébergement avec service de coiffeuses, et les directives du comptable quant à la description de tâches de l’appelante.
+[22] D’une part, la charge de travail de l’appelante diminuait à cause de la baisse de sa clientèle due à ses absences et de ce fait d’autres coiffeuses pouvaient lui soutirer des clients pendant ses absences, d’autre part, de façon ponctuelle (période en litige) son travail était décrit comme très important, sinon indispensable.
+[23] De son côté, l’appelante a souvent fait référence à l’autorité de son conjoint quant à ses salaires, son horaire, le nombre d’heures travaillées, les hausses et les baisses du salaire horaire, chose certaine et bien établie par la preuve. L’appelante était beaucoup plus flexible et accommodante que les autres employés.
+[24] De façon générale, l’appelante a essentiellement confirmé ce que son conjoint avait affirmé. Manifestement, elle n’avait pas l’audace, la fermeté et les exigences des autres employés du salon.
+[25] Tant l’appelante que son conjoint a affirmé ne pas connaître grand chose, sinon rien, du contenu de la Loi et des Règlements de l’assurance‑emploi, et ce, bien que les faits et certaines données amènent la Cour à penser que les intéressés avaient façonné le travail de l’appelante en fonction des exigences de la Loi et des Règlements.
+[26] L’intimé a fait témoigner madame Jenny Pelletier, agente de services, qui a essentiellement expliqué comment le ministre est arrivé à la décision dont il est fait appel.
+[27] Dans son témoignage, madame Pelletier a essentiellement repris les divers éléments énumérés dans la Réponse à l’avis d’appel. De façon générale, elle a affirmé que le contrat de travail de l’appelante se distinguait beaucoup de celui des autres employés, et cela, tant au niveau de la durée que du salaire, éléments déterminants dans le cadre d’une analyse effectuée en vertu de l’alinéa 5(3)b) de la Loi. La preuve soumise n’a pas porté sur une ou des périodes en particulier, d’où je dois retenir que la preuve présentée par l’intimé concernait toutes les périodes concernées par l’appel.
+[28] Lorsqu’un contrat de travail est exclu des emplois assurables en vertu de l’alinéa 5(2)i), qui prévoit l’exclusion dans les cas où il existe un lien de dépendance entre les parties, l’intimé procède à une analyse de tous les faits pertinents en fonction des critères édictés pour déterminer si les conditions du contrat de travail étaient différentes de celles qui auraient prévalu s’il n’y avait pas eu de lien de dépendance.
+[29] Selon la jurisprudence, cette analyse constitue l’exercice d’un pouvoir discrétionnaire où le ou les responsables doivent agir d’une manière responsable en prenant en considération de la manière la plus objective possible tous les éléments pertinents. Dans l’hypothèse d’une analyse judicieuse ayant conduit à des conclusions raisonnables, la Cour canadienne de l’impôt n’intervient pas.
+[30] Rien dans la preuve ne me permet de conclure que, dans le cadre de son analyse, le ministre a pris en considération des éléments non pertinents ou donné une importance exagérée ou inappropriée aux divers facteurs pris en compte. Au contraire, l’analyse a été effectuée à partir des éléments pertinents et n’a rien écarté qui est de nature à avoir des effets sur la conclusion.
+[31] Quant à l’interprétation accordée à certains constats, notamment au niveau du salaire horaire et des périodes de travail, les conclusions tirées sont raisonnables.
+[32] Toutefois, dans son analyse, le ministre n’a pas fait de distinctions au niveau des différentes périodes de travail dont certaines ont été suivies ou précédées de prestations liées à un congé de maternité.
+[33] Il s’agit là d’une situation particulière où les arrêts de travail ne sont pas dictés par les besoins de l’entreprise et les conditions du marché. Il s’agit de périodes particulières où les modalités du contrat de travail sont dictées par le congé de maternité de la travailleuse. La preuve soumise n’a pas fait de distinction quant à cette période où il s’agissait d’une situation particulière.
+[34] Le dossier a fait ressortir des éléments objectifs tout à fait indéniables. Je fais notamment référence aux incohérences du témoignage de monsieur Saucier selon qui l’appelante était une pierre angulaire de l’entreprise même si sa compétence la limitait à une activité qui ne représentait que 20 % du chiffre d’affaires, et qu’elle n’était pas remplacée pendant ses absences.
+[35] Par rapport aux autres employés, l’appelante accumulait plus d’heures de travail. Une semaine de 40 heures est évidemment plus intéressante pour un travailleur qui veut devenir admissible le plus tôt possible aux prestations d’assurance-emploi. Le hasard au niveau des périodes et le salaire‑horaire diminué correspondant exactement une fois diminué au seuil admissible pour ne pas être pénalisé.
+[36] Il n’existe pas de méthode à toute épreuve pour évaluer la vraisemblance d’explications soumises par des personnes intéressées.
+[37] En l’espèce, d’entrée de jeu, le dossier soulève certains doutes quant à savoir si le travail effectué par l’appelante était comparable à celui des autres employés. Je fais notamment référence à la durée des périodes de travail qui correspondent aux périodes de travail dont l’appelante avait besoin pour avoir droit à des prestations.
+[38] À cet égard, dans certains cas, il peut s’agit d’un simple hasard. Cependant, si le scénario se répète, cela laisse plus de place au doute. Si d’autres éléments de preuve pointent dans la même direction, cela peut suffire à faire basculer la prépondérance de la preuve du côté de la thèse de l’intimé.
+[39] En l’espèce, outre la durée des périodes de travail, il y a la question du salaire de l’appelante qui a été réduit à un moment donné pour correspondre exactement à ce à quoi avait droit l’appelante pour ne pas être pénalisée par le régime de l’assurance-emploi. Ce sont là des faits objectifs auxquels il faut ajouter les nombreuses explications générales et souvent confuses et l’absence de témoins (compagnes de travail, comptable, etc.).
+[40] Il s’agit d’un dossier où l’intention de tirer profit au maximum du régime d’assurance‑emploi a eu pour effet de créer des situations douteuses, sinon invraisemblables.
+[41] Il n’y a aucun doute que le droit aux prestations est un droit légitime et fondamental. Par contre, ce droit ne permet ni autorise les abus et/ou les complaisances; lorsque les abus sont manifestes, la conséquence pourrait être une conclusion à l’effet qu’il n’est pas raisonnable d’imaginer une relation de travail à peu près semblable entre des parties qui seraient des tiers.
+[42] En adoptant une approche raisonnable et accommodante, certains faits semblent plus vraisemblables et, en bout de piste, plus acceptables dans le contexte d’une entreprise familiale.
+[43] Certes, le droit à des prestations est un droit important et il est tout à fait légitime que les chômeurs veuillent obtenir des prestations lorsqu’ils répondent aux exigences.
+[44] Or, répondre aux exigences du régime est une chose et participer à un stratagème visant à rendre une personne admissible aux prestations maximales du régime en est une autre.
+[45] En l’espèce, la prépondérance de la preuve indique que les parties ont manifestement exagéré. Toutefois, en raison de sa grossesse, il est clair que l’appelante avait droit aux prestations découlant de son congé de maternité.
+[46] L’appel concerne plusieurs périodes. Une de ces périodes a précédé une période de chômage dictée par la grossesse de l’appelante. Or, les prestations auxquelles ont droit les personnes concernées dont, en l’espèce, l’appelante sont versées en fonction de motifs médicaux, (départ préventif, danger potentiel, etc.) et des suites d’une grossesse.
+[47] Les facteurs liés à ce type de congé qui n’ont rien à voir avec les composantes d’un contrat de travail, notamment quant au début et à la fin du congé, sont essentiellement fonction de l’état de santé de la mère et de la durée du congé fixée par le législateur lui-même.
+[48] Le lien de dépendance qui peut exister entre les parties à un contrat de travail où la prestataire a droit à des prestations d’assurance-emploi pour cause de maternité, soit avant, soit après l’accouchement (congé parental), est sans effet puisqu’il s’agit de périodes fixes, définies non pas par les parties, mais par le médecin traitant et le législateur.
+[49] Étant donné que les parties, lorsqu’elles ont présenté leur preuve à l’audience, n’ont pas fait de distinction entre les périodes concernées, j’ai pris l’initiative de tenir une conférence téléphonique pour permettre aux parties de s’exprimer sur cet aspect de la preuve documentaire.
+[50] L’échange n’a rien apporté de nouveau, si ce n’est que les parties ont reconnu qu’il s’agissait là de périodes assujetties à des conditions particulières, l’intimé insistant toutefois sur le fait que la rémunération de l’appelante n’était pas comparable ou similaire à celles des autres employées durant les périodes en question.
+[51] La période précédant le congé de maternité de l’appelante n’a pas fait l’objet d’une analyse particulière, l’intimé tenant, de toute évidence, pour acquis qu’il s’agissait là d’une période comme toutes les autres.
+[52] En soi, l’intimé avait tort étant donné qu’il s’agit d’une situation exceptionnelle où les critères habituels pour décider si une relation de travail a été influencée par le lien de dépendance sont la rémunération, la durée et les modalités d’emploi.
+[53] L’intimé a raison de soulever la question du salaire horaire qui, manifestement, n’était pas comparable à celui des autres employés; l’appelante a répliqué que sa situation était différente étant donné qu’elle ne recevait pas de bonus.
+[54] Par contre, il m’apparaît évident que l’appelante avait un intérêt plus grand dans l’entreprise, qu’elle était, somme toute, plus flexible, le tout justifiant peut-être un traitement différent.
+[55] De façon générale cependant, je ne crois pas que ce seul élément justifiait la conclusion voulant qu’une tierce personne n’aurait pas obtenu un traitement équivalent.
+[56] Pour ce qui est des autres périodes, à la question de la rémunération toujours présente s’ajoute à plusieurs autres éléments qui, globalement, appuient la thèse de l’intimé et font pencher la prépondérance de la preuve en sa faveur.
+[57] Pour ces raisons, l’appel est accueilli en partie. Ainsi, en vertu de l’alinéa 5(3)b) de la Loi, l’emploi de l’appelante pour le compte de la société 9049‑5490 Québec inc. est exclu de l’application de l’alinéa 5(2)i) de la Loi, en ce qui concerne le travail qu’elle a exécuté du 9 novembre 2001 au 9 novembre 2002, au motif qu’elle a exécuté ce travail comme l’aurait fait un tiers.
+[58] Quant aux périodes du 6 mai au 21 août 2004, du 3 octobre 2004 au 27 août 2005 et du 11 septembre 2005 au 23 décembre 2006, le travail exécuté par l’appelante est exclu des emplois assurables, le tout conformément à l’alinéa 5(2)i) de la Loi.
+Signé à Ottawa, Canada, ce 25e jour de juin 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008 CCI 320
+Nº DU DOSSIER DE LA COUR : 2007-3123(EI)
+INTITULÉ DE LA CAUSE : France Dancause c. MRN et 9049‑5490 Québec Inc.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 27 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 25 juin 2008
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Marlène Jacob
+Avocat de l'intimé :
+Me Sylvain Ouimet
+Avocate de l'intervenante :
+Me Marlène Jacob
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante et l'intervenante : Me Marlène Jacob
+Firme : Ménard, Milliard, Caux
+Ville : Québec (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

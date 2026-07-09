@@ -1,0 +1,107 @@
+Title: Jobin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/512271/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-55-512271-jobin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-08-25
+
+# Jobin c. La Reine
+
+- Citation: 2021 CCI 55
+- Decision date: 2021-08-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4465, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jobin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-08-25
+Référence neutre
+2021 CCI 55
+Numéro de dossier
+2021-255(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence :2021 CCI 55
+Date : 20210825
+Dossier : 2021-255(GST)I
+ENTRE :
+CHRISTIANE JOBIN ET ROGER COUTURE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+Le juge suppléant Jorré
+[1] L’intimée a présenté une requête visant à obtenir une ordonnance de la Cour accordant permission à l’intimée de produire sa réponse à l’Avis d’appel malgré l’expiration du délai pour le faire.
+[2] L’intimée a demandé que la requête soit tranchée sur la base d’observations écrites et les appelants ont également déposé des observations écrites.
+[3] Les appelants s’opposent à la demande.
+[4] Les faits essentiels sont :
+La date limite pour le dépôt de la réponse était le 16 avril 2021;
+L’avocat de l’intimée chargée du dossier à compléter la réponse le 8 avril 2021;
+La réponse de l’Avis d’appel a été signifiée aux appelants le 12 avril 2021;
+L’avocat de l’appelant a donné des instructions pour que la réponse soit déposée au greffe de la cour au plus tard le 16 avril 2021, mais malgré ces instructions une méprise a fait que l’Avis d’appel n’a été déposé que le 21 avril 2021;
+Une lettre a été transmise le 23 avril 2021 aux appelants demandant leur consentement au dépôt tardif de l’Avis d’appel;
+Les appelants n’ont pas consenti au dépôt tardif; et
+Le 27 avril 2021 l’intimée a déposé un avis de requête visant à proroger le délai pour le dépôt de la réponse.
+[5] Cette Cour peut autoriser le dépôt de la réponse avant ou après le délai normal pour déposer la réponse à l’Avis d’appel : voir l’article 18.16 de la Loi sur la Cour canadienne de l’impôt.
+[6] Les appelants s’opposent pour trois raisons. Premièrement, parce que l’Agence du Revenu du Québec a des milliers d’employés qui doivent nécessairement connaître les règles. Deuxièmement, parce que dans un litige antérieur l’Agence du Revenu du Québec a tenté, apparemment sans succès, d’annuler les procédures intentées par les appelants comme étant hors délai. Troisièmement, parce que, selon les appelants, l’Agence du Revenu du Québec a fait des pressions indues pour qu’il consente à la prorogation de délai.
+[7] Les critères applicables à une demande de prorogation sont bien établis.
+[8] Dans l’arrêt Canada (Procureur général) c. Hennelly, 1999 CanLII 8190 (CAF), la Cour d’appel fédérale établit qu’il faut considérer [1] :
+Une intention constante de poursuivre sa demande;
+Que la demande est bien fondée;
+Que le défendeur ne subit pas de préjudice en raison du délai; et
+Qu’il existe une explication raisonnable justifiant le délai.
+[9] Dans l’arrêt Canada (Procureur général) c. Larkman de la Cour d’appel fédérale, 2012 CAF 204 (CanLII), paragraphe 62 le Juge Stratas explique :
+Ces principes orientent la Cour et l'aident à déterminer si l'octroi d'une prorogation de délai est dans l'intérêt de la justice (Grewal, ci-dessus, aux pages 277 et 278). L'importance de chacun de ces facteurs dépend des de l'espèce. De plus, il n'est pas nécessaire de répondre aux quatre questions en faveur du requérant. Ainsi, « une explication parfaitement convaincante justifiant le retard peut entraîner une réponse positive même si les arguments appuyant la contestation du jugement paraissent faibles et, de la même façon, une très bonne cause peut contrebalancer une justification du retard moins convaincante » (Grewal, à la page 282). Dans certains cas, surtout dans ceux qui sortent de l’ordinaire, d'autres questions peuvent s'avérer pertinentes. La considération primordiale est celle de savoir si l'octroi d'une prorogation de délai serait dans l'intérêt de la justice . . . .
+(Je souligne)
+[10] Les deux premiers motifs invoqués par les appelants ne sont pas pertinents à l’application des critères ci-dessus; il s’agit toujours d’appliquer les critères dans le contexte des faits particuliers de la cause.
+[11] Quant au troisième motif invoqué, l’intimée a écrit dans une lettre aux appelants que, si le ministre était obligé de demander l’autorisation à la cour, les appelants seraient obligés de réagir à la demande et que la conséquence pourrait être de retarder le déroulement de l'appel. Il ne s’agit pas de pressions indues; l’intimée a tout simplement décrit les conséquences découlant d’une demande d’autorisation.
+[12] Le retard de l’intimée était minime, il y a toujours eu une intention de défendre la cotisation, il ne peut y avoir de préjudice aux appelants et il y a une explication raisonnable du délai.
+[13] Dans les circonstances, il est évident qu’il est dans l’intérêt de la justice d’accorder une prorogation de délai.
+[14] LA COUR ORDONNE que :
+Le délai pour répondre à l’avis d’appel soit prorogé à la date de cette ordonnance; et
+2. La réponse à l’avis d’appel reçu par cette cour le 21 avril 2021 soit réputé déposer à la date de cette ordonnance.
+Signée à Ottawa (Canada), ce 25e jour d'août 2021.
+« Gaston Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2021 CCI 55
+Nº DU DOSSIER DE LA COUR :
+2021-255(GST)I
+INTITULÉ DE LA CAUSE :
+CHRISTIANE JOBIN ET ROGER COUTURE ET LA REINE
+AUDIENCE :
+Par écrit
+SOUMISSIONS ÉCRITES :
+Déposé le 27 avril 2021 [2] et le 17 mai 2021
+DOSSIER REÇU PAR LE JUGE EN DEVOIR :
+Le 16 août 2021 ou peu après
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Gaston Jorré,
+juge suppléant
+DATE DE L’ORDONNANCE :
+Le 25 août 2021
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l'intimée :
+Me Roger Breton
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+N/A
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Ces considérations doivent être appliquées en tenant compte de qui fait la demande de prorogation et du contexte. Par exemple, le premier critère doit évidemment être compris comme une intention constante de poursuivre sa défense vu qu’il s’agit de l’intimée.
+[2] Les soumissions écrites du requérant sont à l’intérieur de la requête même.

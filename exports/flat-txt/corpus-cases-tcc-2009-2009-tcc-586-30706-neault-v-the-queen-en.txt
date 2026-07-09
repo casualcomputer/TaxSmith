@@ -1,0 +1,97 @@
+Title: Neault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30706/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-586-30706-neault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-28
+
+# Neault v. The Queen
+
+- Citation: 2009 TCC 586
+- Decision date: 2009-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7509, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-28
+Neutral citation
+2009 TCC 586
+File numbers
+2008-3856(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3856(IT)I
+BETWEEN:
+ROBERT P. NEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 28, 2009, at North Bay, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the appellant’s 2004 taxation year is dismissed.
+Signed at Ottawa, Canada, this 13th day of November 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 586
+Date: 20091113
+Docket: 2008-3856(IT)I
+BETWEEN:
+ROBERT P. NEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on October 28, 2009, at North Bay, Ontario
+and modified for clarity and accuracy.)
+Boyle J.
+[1] In 2004 Mr. Neault was an employed long-distance truck driver. Under the Income Tax Act (the “Act”) long-distance truck drivers are entitled, in qualifying circumstances, to deduct an amount from their employment income in respect of travelling expenses, including meals. This is provided for in paragraphs 8(1)(g) and (h).
+[2] Those paragraphs are enumerated exceptions to the rule set out in subsection 8(2) that employees are not entitled to any deductions in computing income subject to tax except those specifically provided for. They are also exceptions to the general rule that personal living expenses are not deductible.
+[3] Section 67.1 provides that for all purposes of the Act, the amount spent on food and beverage for human consumption is deemed to be only 50% of the lesser of the amount spent and what is reasonable. The 50% restriction applies by its terms to all such meal expenses, whether deductible as a business expense or an employment expense.
+[4] As an administrative matter, the Canada Revenue Agency (the “CRA”) allows long-distance truck drivers to use a simplified method for claiming their travel meal expenses, if they would prefer not to follow the more detailed method requiring travel logs and actual meal receipts. For 2004 Mr. Neault opted to use the simplified method. He did not keep his meal receipts to produce to the CRA nor to the Court.
+[5] However, Mr. Neault believed the $45 daily maximum for meals permitted by the CRA under the simplified method was unreasonably low. He based his deduction upon a greater daily maximum, which he understood was the daily meal allowance allowed to federal public servants. He did not say that he spent at least that much on meals each day, nor did he have receipts to establish that.
+[6] I cannot allow Mr. Neault any amount greater than the $45 daily maximum permitted by the simplified method and used by the CRA in reassessing his 2004 tax year. If Mr. Neault wanted to claim more he could have followed the detailed vouchered and logged method that income tax law otherwise requires. While the Treasury Board amounts for meal allowances may show that $45 is not the maximum reasonable amount that could be deducted by a taxpayer, it cannot help Mr. Neault’s claim unless he can show in evidence that he spent more than $45 each day and that each day qualified. This he did not do.
+[7] Mr. Neault also argues that the 50% limitation should not apply to his meal expenses because they were not business expenses. As stated, the income tax law as passed by Parliament, and which I am duty bound to apply as written, is not limited to business expenses; it equally extends to employment expense deductions.
+[8] Mr. Neault also argued that the different treatment of employees who chose the simplified method and federal public servants is a breach of his Charter equality rights. I am satisfied that his Charter claim is unfounded and without merit. Mr. Neault could not point to a discriminated group that was a socially disadvantaged group, nor could he point to discrimination or disadvantage that challenged the integrity and worth of members of that group as human beings. Mr. Neault’s complaint is merely that different types of employees are treated differently under the Act depending upon their different circumstances and decisions they choose to make. That is far from what constitutes prohibited discrimination under the Canadian Charter.
+[9] In the circumstances I have no choice but to dismiss your appeal, Mr. Neault.
+Signed at Ottawa, Canada, this 13th day of November 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 586
+COURT FILE NO.: 2008-3856(IT)I
+STYLE OF CAUSE: ROBERT P. NEAULT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: North Bay, Ontario
+DATE OF HEARING: October 28, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: November 13, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

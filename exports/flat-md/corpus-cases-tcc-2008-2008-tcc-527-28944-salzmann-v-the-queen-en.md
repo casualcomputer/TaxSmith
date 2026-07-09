@@ -1,0 +1,176 @@
+---
+title: "Salzmann v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28944/index.do"
+last_modified: "2008-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 527"
+citation2: ""
+neutral_citation: "2008 TCC 527"
+decision_date: "2008-09-22"
+language: "en"
+item_id: "28944"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1384
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:48:48.644000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "901ac1d7ad0cdcc03c7ab6689b4b27100ac8abad311478c008ae153ea301486f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salzmann v. The Queen
+
+- Citation: 2008 TCC 527
+- Decision date: 2008-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1384, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salzmann v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-22
+Neutral citation
+2008 TCC 527
+File numbers
+2006-1761(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008 TCC 527
+Docket: 2006-1761(IT)G
+BETWEEN:
+GARY SALZMANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario on August 22, 2008, be filed.
+“L.M. Little”
+Little J.
+Signed in Vancouver, British Columbia, this 22nd day of September 2008.
+Court File No. 2006-1761(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+GARY SALZMANN
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+HEARD BEFORE THE HONOURABLE MR. JUSTICE LITTLE
+in the Courts Administration Service, Courtroom 6A,
+180 Queen Street West,
+Toronto, Ontario
+on Friday, August 22, 2008 at 9:35 a.m.
+ORAL REASONS AND DECISION
+APPEARANCES:
+Mr. Howard J. Alpert For the Appellant
+Ms. Andrea Jackett For the Respondent
+Also Present:
+Mr. William O'Brien Court Registrar
+Ms. Linda O'Brien Court Reporter
+A.S.A.P. Reporting Services Inc. 8 2008
+200 Elgin Street, Suite 1105 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+‑‑‑ Upon commencing the excerpt on Friday,
+August 22, 2008 at 9:35 a.m.
+THE REGISTRAR: Before the court case number 2006‑1761(IT)G between Gary Salzmann, appellant, and Her Majesty the Queen, respondent. This case is being called for judgment.
+JUSTICE LITTLE: Thank you.
+The reasons for judgment in Gary Salzmann:
+A. FACTS: The appellant was married to Francis Elizabeth Salzmann (hereinafter referred to as the former spouse). The marriage broke down effective November 16, 2001.
+By a court order issued by Justice MacDougall of the Ontario Superior Court dated December 11, 2003, the appellant was ordered to pay interim spousal support to the former spouse in the sum of $3,600 per month retroactive to November 16, 2001.
+The retroactive payment to be made by the appellant to his former spouse pursuant to this order totalled $90,000. The amount was paid by the appellant in April 2004. The appellant also commenced to pay the sum of $3,600 per month to his former spouse effective the first day of January 2004.
+When the appellant filed his income tax return for the 2004 taxation year, he deducted the following spousal support payments: (1) $90,000; (2) $43,200.
+By notice of reassessment issued by the Minister of National Revenue (the “Minister”) for the 2004 taxation year, the Minister denied the deduction of the $90,000 payment that the appellant had made to his former spouse. The Minister allowed the appellant to deduct the spousal support payment made to the former spouse in the amount of $43,200.
+B. ISSUE: The issue is whether the appellant is allowed to deduct the sum of $90,000 that he paid to his former spouse.
+C. ANALYSIS AND DECISION: The court order of Justice MacDougall of the Ontario Superior Court stated that all spousal support payments ordered for a period prior to the effective date of the court order shall be deductible to the appellant and taxable to the former spouse pursuant to subsection 56.1(3) and subsection 60.1(3) of the Income Tax Act (the “Act”).
+The deductibility for tax purposes of spousal support payments has been considered by Canadian courts on a number of occasions.
+In Brian Baylis v. The Queen, 2007 DTC 1278, the taxpayer and his former spouse separated in August 2001. In a judgment dated June 19, 2003, the Ontario Superior Court ordered that (a) the taxpayer pay his former spouse retroactive monthly support payments totalling $16,800 commencing August 1, 2001 for twelve months at a monthly rate of $1,400; and, (b) this $16,800 be deducted from the taxpayer's share of the proceeds of sale of the matrimonial home.
+In assessing the taxpayer for 2003, the Minister disallowed the deduction of the $16,800 provided in the order. The taxpayer appealed to the Tax Court of Canada.
+The taxpayer's appeal was allowed, and the court held that the $16,800 was a single payment of accumulated arrears of periodic payments. It was therefore found to be deductible support amounts within the principles set out in the Federal Court of Appeal in The Queen v. Sills, 85 DTC 5096.
+In reaching his conclusion in Baylis, Justice Bowie said at paragraph 8 of the decision:
+"The principle applicable here is that expressed by the Federal Court of Appeal in Dale v. The Queen. It was held in that case that an order made by a Superior Court is not subject to collateral attack in subsequent proceedings, and when that order purports to operate retroactively that must be taken as effectively changing history. When Wood J. issued his order, one effect of it was to create a liability on the part of the appellant to pay accumulated arrears of spousal support from 2001 and 2002 in the total amount of $16,800. When that liability was satisfied by a payment from Mr. Baylis's share of the proceeds from the sale of the home, that payment was a payment of accumulated arrears of periodic payments. As a single payment of arrears of unpaid periodic payments, that payment falls within the principle expressed by the Federal Court of Appeal in The Queen v. Sills, which is that those payments, although made late and all at once, maintain the character of periodic payments."
+I have also reviewed the decision of Madam Justice Sharlow of the Federal Court of Appeal in Tossell v. The Queen et al., 2005 DTC 5365. In Tossell, Justice Sharlow was considering a deduction of $36,000 in child support payments (i.e. equivalent to 36 months' arrears), whereas it was noted that the father was in default for approximately 43 months in arrears.
+In the situation before us today, the payment of $90,000 was exactly equivalent to the arrears. In other words, it could not be said that it was a payment of anything except the arrears.
+I have also reviewed the appeal of Mary J. Leduc v. The Queen, 2007 DTC 1117, a decision of Justice Rossiter (now Associate Chief Justice Rossiter).
+The facts in that case were as follows: The taxpayer and her former spouse divorced on October 15, 2002. In an endorsement issued by the Ontario Superior Court of Justice on January 29, 2004, the taxpayer was ordered to pay her former spouse monthly support amounts of $1,250. She was also credited $9,000 against $25,000 in owed support arrears and was ordered to pay the $16,000 arrears balance in monthly amounts of $250.
+In assessing the taxpayer for 2004, the Minister denied the deduction of the $9,000 credit provided in the endorsement and another $5,000 amount paid to her former spouse during 2004. The Minister's position was that these payments were not periodic in nature as required by paragraphs 56(1)(b) and 60(b) and subsection 56.1(4) of the Act.
+The taxpayer appealed to the Tax Court. The taxpayer's appeal was allowed. Applying the principles set out by the Federal Court of Appeal in Tossell, the $9,000 and $5,000 payments in dispute when taken with the other payments provided in the endorsement were periodic in nature.
+I also refer to the decision of the Federal Court of Appeal in Sills. Under the terms of a written separation agreement the taxpayer was to receive a defined monthly payment from her husband. The taxpayer actually received three lump sum payments at random times during the taxation years in issue. The Minister included the amounts in the taxpayer's income as alimony.
+On the taxpayer's appeal, the Tax Review Board found that the payments were not proper alimony payments. The Crown's appeal to the Federal Court Trial Division in Sills, 83 DTC 5070, was dismissed.
+The Crown further appealed to the Federal Court of Appeal. In the Federal Court of Appeal, the Crown's appeal was allowed. The Court found that the amounts were received pursuant to the separation agreement and were properly included in the taxpayer's income. So long as the agreement provided that amounts were payable on a periodic basis, their character was not changed by the fact that they were not paid on time.
+The relevant legislation did not require that the amount be received according to the terms of agreement before they would be included in income.
+While I believe that the reasoning contained in the above decisions indicates that the support payments are deductible by the appellant, I also wish to comment on statements made by my colleague, Justice Hershfield.
+In Garth Stephenson v. The Queen, 2007 DTC 1608, Justice Hershfield said at paragraph 8:
+"While I agree that Judges of Family Courts have no jurisdiction to prescribe tax consequences in their Orders or Judgments, it is surely imperative to give effect to the expressly articulated intentions of an Order made by a Superior Court Judge where a reasonable construction of the terms of that Order allows it. Indeed, in this case, I find that the only reasonable construction of the Final Order is that it ordered the $7,500 be paid as arrears."
+In Hinkelman v. The Queen, 2001 DTC 732, Justice Hershfield also made a comment which I think is worth considering. At paragraph 22 Justice Hershfield said:
+"It should go without saying that giving full force and effect to an order of a Superior Court should be facilitated where possible. To do otherwise can do little else but undermine respect for and confidence in our judicial system. There was nothing in our tax system, as it applied to the subject year in this case, that prohibited the deduction of a maintenance payment intended to benefit step‑children for whom responsibility derived from a marriage to the natural parent of such children. To give effect to this permissive scheme was the express directive of Justice Warren. Recognizing that Deborah is the link in the chain that connects the Appellant's support obligation to Mr. McKee gives effect to both such scheme and such express directive of Justice Warren."
+May I say I agree with those comments, but I realize that a Superior Court of a province cannot bind this court with respect to an interpretation on support payments. I have concluded, as indicated above, that the support payments come within the provisions of the Act and should be allowed.
+Finally, I wish to note that the appellant recognized his family obligations and paid support payments to his former spouse. In other words, he did not attempt to avoid liability. In my opinion, he should not be denied deductibility based upon a narrow, rigid technicality.
+The appeal is allowed with costs. Thank you.
+THE REGISTRAR: Order. Please rise. This sitting of the Tax Court of Canada is now closed.
+‑‑‑ Whereupon the proceedings adjourned
+at 9:47 a.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately recorded
+by Shorthand and transcribed therefrom, the
+foregoing proceeding.
+Linda O'Brien, Computer-Aided Transcription
+Certified Court Reporter
+CITATION:
+2008 TCC 527
+COURT FILE NO.:
+2006-1761(IT)G
+STYLE OF CAUSE:
+Gary Salzmann and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 19, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF ORAL JUDGMENT:
+August 22, 2008
+APPEARANCES:
+For the Appellant:
+Howard J. Alpert
+Counsel for the Respondent:
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Howard J. Alpert
+Firm:
+Alpert Law Firm
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

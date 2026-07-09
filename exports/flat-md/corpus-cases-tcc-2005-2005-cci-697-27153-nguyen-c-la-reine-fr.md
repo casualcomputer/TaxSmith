@@ -1,0 +1,186 @@
+---
+title: "Nguyen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27153/index.do"
+last_modified: "2005-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 697"
+citation2: ""
+neutral_citation: "2005 CCI 697"
+decision_date: "2005-11-04"
+language: "fr"
+item_id: "27153"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1022
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:21:02.211000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a03467ac8a5bfd0c35d85ab30da58b47ec4ed38ccd274fc2e1939e8ddbdfc8fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nguyen c. La Reine
+
+- Citation: 2005 CCI 697
+- Decision date: 2005-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1022, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-04
+Référence neutre
+2005 CCI 697
+Numéro de dossier
+2005-604(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-604(IT)I
+ENTRE :
+KIM-GIANG NGUYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 29 septembre 2005, à Montréal (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelant :
+Me Philippe-Alexandre Otis
+Avocate de l'intimée :
+Me Nathalie Goulard
+Catherine Gagnon (Stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+La requête de l'intimée demandant le rejet des appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 est accueillie et les appels sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI697
+Date : 20051104
+Dossier : 2005-604(IT)I
+ENTRE :
+KIM-GIANG NGUYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] L'appelant a interjeté appel de cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1997, 1998 et 1999.
+[2] L'intimée présente une requête pour faire rejeter les appels au motif que l'appelant a renoncé, par écrit, à son droit de faire opposition aux cotisations par lesquelles la déduction de dépenses d'entreprise a été refusée pour les trois années en cause et à son droit d'en appeler de ces cotisations. L'entente signée par l'appelant avec l'Agence des douanes et du revenu du Canada (l' « ADRC » ), aux termes de laquelle il a renoncé à son droit de faire opposition aux cotisations et d'en appeler de celles-ci est en date du 20 avril 2001 (pièce I-1). Elle se lit ainsi :
+WAIVER OF THE RIGHT TO FILE AN OBJECTION OR AN APPEAL
+AGREEMENT BETWEEN: Canada Customs and Revenue Agency
+Laval T.S.O.
+Verification and Enforcement Division
+AND: Kim - Giang Nguyen
+Canada Customs and Revenue Agency and Kim - Giang Nguyen (the "Taxpayer"), have agreed to settle the audit issues itemized below:
+1997
+1998
+1999
+TOTAL
+Disallowed Expenses:
+$26,473
+$31,240
+$47,348
+$105,061
+The Taxpayer waives the right to object or to appeal the Department's reassessment of the above itemized audit issues for the pertinent taxation years.
+In addition, the Taxpayer waives the right to request the cancellation of interests [sic] and/or penalties in respect of the Fairness Package per subsection 220(3.1) of the Income Tax Act.
+The Taxpayer acknowledges that:
+1. the provisions of subsection 165(1.2) and 169(2.2) of the Income Tax Act (Schedule A) are understood as they pertain to this document;
+2. additional tax, interest and/or penalty, as applicable, may result from the Department's reassessment of the issues itemized above;
+3. the impact of this document will be binding on the Taxpayer's trustees, successors, administrators, shareholders of the said corporations and any other person who might become liable for the taxes, interest and penalties which ensue from the reassessment of the issues itemized above; and,
+4. this document is being freely and voluntarily signed.
+The acceptance of this agreement is confirmed by the following signatures:
+Revenue Canada Agreed
+Authorized officers
+(signature) (signature)
+Sonia Sariboyajian Mr. Kim - Giang Nguyen
+Date 20/04/2001 Date 20/04/2001
+(signature)
+Khaled Elkorek
+Date 20-04-2001
+[3] La version anglaise des paragraphes 165(1.2) et 169(2.2) de la Loi était annexée à l'entente (Schedule A).
+[4] Madame Sonia Sariboyajian, vérificatrice à l'ADRC, et l'appelant ont témoigné.
+[5] Madame Sonia Sariboyajian a procédé à la vérification des affaires de l'appelant pour les trois années en question du mois de février au mois d'avril 2001, soit au cours d'une période d'environ deux mois. Au cours de cette période, elle a rencontré l'appelant à cinq occasions. Selon madame Sariboyajian, les conversations et discussions avec l'appelant ont eu lieu en anglais. Madame Sariboyajian est bilingue et a affirmé que l'anglais de l'appelant était « bon » . N'ayant à l'époque qu'une année d'expérience, elle était toujours accompagnée d'un vérificateur beaucoup plus expérimenté, un certain Khaled Elkorek. Elle avait également un chef d'équipe, qui a signé le rapport final de vérification.
+[6] Selon madame Sariboyajian, l'appelant travaillait à temps complet pour la Ville de Montréal, et il lui aurait déclaré qu'il tentait de faire de l'importation de produits du Vietnam et d'autres pays et de l'exportation de produits dans ces mêmes pays, et qu'il faisait également de la traduction. Comme il avait déclaré exploiter son entreprise à sa résidence, la première rencontre eut lieu chez lui dans le but de commencer la vérification de ses revenus et des dépenses déduites. La vérificatrice avait plusieurs questions à poser à l'appelant et demandait également la production de pièces justificatives. Certains documents auraient été produits par l'appelant lors de cette première rencontre.
+[7] Lors d'une deuxième rencontre, l'appelant aurait remis un état détaillé de ses dépenses ainsi que d'autres pièces justificatives.
+[8] Lors de la troisième rencontre, la vérificatrice a demandé, et a obtenu de l'appelant, une autorisation pour vérifier ses comptes en banque. Celui-ci lui aurait également remis d'autres documents à cette occasion.
+[9] Madame Sariboyajian a terminé sa vérification au début d'avril 2001 et elle a convoqué l'appelant à une quatrième rencontre, à son bureau, dans le but de lui faire part des résultats de sa vérification et des motifs pour lesquels la déduction de certaines dépenses était refusée. La question de la déductibilité des dépenses avait déjà été abordée lors de la troisième rencontre. Elle a affirmé qu'elle avait procédé à une étude des résultats de l'entreprise de l'appelant depuis 1992, qu'elle avait constaté que le même genre de dépenses était réclamé d'année en année et que certaines dépenses n'étaient pas de « vraies dépenses » , mais plutôt des dépenses personnelles ou des dépenses non engagées dans le but de produire un revenu. Madame Sariboyajian a expliqué que les relations d'affaires de l'appelant étaient avec des amis, que ses activités commerciales étaient fondées sur leur parole et qu'il n'y avait pas vraiment de négociation de contrats entre deux parties.
+[10] C'est au cours de cette quatrième rencontre et compte tenu de ces circonstances que madame Sariboyajian et monsieur Khaled Elkorek exposèrent à l'appelant qu'il y avait trois options possibles quant aux cotisations pouvant résulter de la vérification et que le choix lui appartenait. Les options présentées étaient les suivantes :
+1) La déduction des dépenses pouvait être refusée pour les années 1997, 1998 et 1999 et le profit pouvait être imposé en ajoutant la pénalité du paragraphe 163(2) de la Loi.
+2) Les années prescrites pouvaient être rouvertes et les cotisations établies en ajoutant la pénalité du paragraphe 163(2) de la Loi.
+3) La déduction des dépenses pour les années 1997, 1998 et 1999 en excédent du revenu (brut) d'entreprise pouvait être refusée de sorte qu'il n'y ait ni revenu ni perte d'entreprise ni pénalité pour ces années. Toutefois, dans cette hypothèse, l'appelant aurait à signer une renonciation à son droit d'opposition et d'appel.
+[11] Madame Sariboyajian a affirmé qu'au cours de cette rencontre l'appelant n'avait pas tenté de faire valoir d'autres arguments. Elle a dit que les conséquences de chacune des options ont été exposées et discutées, que le choix appartenait à l'appelant, mais qu'ils lui avaient indiqué que la troisième option était préférable pour lui. Selon elle, il a été question de la renonciation au cours de la rencontre, mais il n'y a eu aucune menace et l'appelant n'a manifesté aucune crainte particulière, si ce n'est sur l'état de ses finances. En effet, l'appelant aurait fait savoir qu'il était endetté, que sa situation financière était difficile et que les cotisations qui seraient établies la rendraient encore plus difficile. L'appelant aurait même proposé de cesser ses activités si les autorités décidaient de fermer le dossier sans établir de nouvelles cotisations. Finalement, compte tenu des trois options offertes, l'appelant aurait dit qu'il voulait discuter de ces différentes options avec son épouse avant de prendre une décision.
+[12] À la suite de cette quatrième rencontre, madame Sariboyajian a téléphoné à l'appelant pour connaître sa décision et fixer le moment d'une cinquième rencontre. L'appelant lui aurait alors demandé si elle ne pouvait pas faire plus pour réduire le montant des cotisations. Madame Sariboyajian a affirmé lui avoir répondu que la troisième option était la plus favorable pour lui et qu'elle ne pouvait faire plus. L'appelant n'aurait pas demandé de délai additionnel de réflexion et aurait indiqué sa préférence pour la troisième option. Un rendez-vous a donc été fixé dès ce moment.
+[13] La cinquième rencontre eut lieu le 20 avril 2001, soit deux semaines après la quatrième rencontre. Selon madame Sariboyajian, celle-ci eut lieu à la résidence de l'appelant et elle était accompagnée de monsieur Elkorek. L'appelant ayant accepté que des cotisations soient établies selon la troisième option, c'est-à-dire qu'il a accepté que la déduction des dépenses en excédent du revenu (brut) soit refusée, on lui a alors présenté le projet de cotisation et le document de renonciation reproduit plus haut en lui en expliquant les conséquences et en lui donnant le temps de les examiner. Madame Sariboyajian a affirmé qu'il appartenait à l'appelant de s'informer auprès d'un comptable ou d'un avocat, s'il le désirait. L'appelant accepta le projet de cotisation et signa la renonciation au cours de cette dernière rencontre. Comme il aurait manifesté le désir de prendre des arrangements pour le paiement, madame Sariboyajian lui aurait simplement indiqué d'attendre l'établissement des nouvelles cotisations.
+[14] L'appelant est d'origine vietnamienne. Il a immigré au Canada en 1975, et a acquis la citoyenneté canadienne en 1977. Il parle le vietnamien, le russe, l'anglais et le français. Il a fait enregistrer une entreprise en 1990 pour faire de la traduction, la promotion du commerce avec le Vietnam et la Russie, des transferts de technologies ainsi que l'importation et l'exportation de produits, les deux mêmes pays étant concernés.
+[15] Lors de son témoignage, il a affirmé qu'il travaillait à plusieurs dossiers en 1997, dont la vente d'avions régionaux Bombardier au gouvernement du Vietnam, la vente d'acier à la Russie et au Vietnam et la vente de ciment en Afrique du Nord. Il a expliqué qu'il avait travaillé une vingtaine d'années dans la construction de cimenteries au Vietnam et qu'il avait également de l'expérience dans le domaine de l'acier. Il a aussi fait état d'autres projets, dont la construction d'une usine de fabrication de sucre en Russie et la vente de remorques de bateaux de pêche au Vietnam.
+[16] Toutefois, l'appelant n'a pas précisé son rôle exact ou son implication dans ces différents projets.
+[17] L'appelant a affirmé que, lors de la première rencontre avec madame Sariboyajian et monsieur Elkorek à la fin de janvier ou au début de février 2001, il leur avait remis certains documents et de la correspondance se rapportant aux différents projets. Lors de la deuxième rencontre, il aurait demandé à expliquer les documents. Lors de la troisième rencontre, il aurait donné l'autorisation de vérifier ses comptes bancaires demandée par madame Sariboyajian.
+[18] Selon l'appelant, lors de la quatrième rencontre, madame Sariboyajian lui a fait part des résultats de sa vérification et des différentes options possibles. Selon l'appelant, la question de l'intention de frauder avait été évoquée et madame Sariboyajian avait indiqué que les options offertes concernant les cotisations éventuelles étaient en quelque sorte une faveur qu'on lui accordait. On lui aurait aussi mentionné qu'il serait préférable de cesser ses activités puisqu'il avait toujours subi des pertes. L'appelant a affirmé qu'il avait demandé une copie de la renonciation ( « waiver » ) au cours de cette rencontre, mais que cela lui avait été refusé à ce moment.
+[19] Selon l'appelant, la cinquième rencontre a eu lieu au bureau de l'ADRC à Laval et non chez lui. Madame Sariboyajian et monsieur Elkorek lui auraient affirmé qu'ils considéraient ses dépenses comme des dépenses personnelles et qu'il pouvait contester leur décision s'il le désirait. L'appelant a expliqué qu'il ne s'y connaissait pas dans ce domaine et qu'il n'était jamais allé en cour auparavant. Il a néanmoins accepté la cotisation proposée selon la troisième option et il a signé le document de renonciation lors de cette dernière rencontre.
+[20] Ce n'est que plus tard que quelqu'un l'aurait encouragé à voir un avocat. L'appelant aurait alors rencontré Me Mostovac, qui lui aurait conseillé de contester.
+[21] L'avocate de l'intimée s'appuie sur les paragraphes 165(1.2) et 169(2.2) de la Loi pour demander le rejet des appels vu la renonciation signée par l'appelant le 20 avril 2001.
+[22] Elle rappelle que l'appelant est ingénieur, qu'il a un niveau élevé d'instruction et qu'il parle quatre langues. Elle fait valoir qu'il a eu deux semaines pour réfléchir et qu'il était de sa responsabilité de s'informer ou de demander conseil, ce qu'il n'a pas cru nécessaire. Elle souligne qu'il n'y a eu aucune preuve de menaces ou d'intimidation de la part des autorités et que l'on doit donner effet à la renonciation que l'appelant a admis avoir signée.
+[23] Au soutien de ses arguments, l'avocate de l'intimée se réfère à la décision de la Cour suprême du Canada dans l'affaire Smerchanski c. Ministre du Revenu national, [1977] 2 R.C.S. 23, [1976] CTC 488, et à celle de la Cour d'appel fédérale dans l'affaire Wagg c. Canada, [2004] 1 R.C.F. 206, [2003] A.C.F. no 1115 (QL).
+[24] Pour sa part, l'avocat de l'appelant soutient que la décision dans l'affaire Wagg, précitée, n'est pas applicable en l'espèce, car l'appelant n'a pas librement consenti au règlement proposé, contrairement à ce qui était le cas de l'appelant dans cette affaire-là.
+[25] Quant à l'affaire Smerchanski, précitée, l'avocat de l'appelant affirme que monsieur Smerchanski, qui faisait face à des accusations criminelles, était en quelque sorte « au pied du mur » et qu'il avait consulté ses avocats avant de signer une renonciation à son droit d'en appeler des cotisations.
+[26] Dans la présente affaire, l'avocat de l'appelant soutient que celui-ci vient d'un autre pays, que le français n'est pas sa langue première, qu'il connaissait mal le système à l'époque pertinente et qu'il n'était pas représenté par avocat. Il affirme que lorsque l'appelant s'est vu accuser de fraude, il ne voulait pas avoir de problèmes, ce qui l'aurait incité à signer la renonciation comme on lui recommandait d'ailleurs fortement de le faire. Il signale aussi que l'appelant n'a eu que deux semaines pour prendre une décision.
+[27] Madame Sariboyajian a fait état des trois options qui s'offraient à elle quant aux cotisations pouvant être établies à la suite de sa vérification des affaires de l'appelant. On a laissé à l'appelant le choix à cet égard, tout en soulignant que la troisième option était la plus avantageuse pour lui. Cette façon de procéder est surprenante et me paraît quelque peu inhabituelle. Toutefois, on n'a pas fait de menaces à l'appelant et il n'a jamais été question de poursuites pénales; il a été question plutôt de pénalités civiles, selon deux des trois options. On a également informé l'appelant qu'il pouvait contester les cotisations qui seraient établies, s'il le désirait. On a donné deux semaines à l'appelant pour discuter de la question avec son épouse, puisque c'est ce qu'il demandait. Il n'y a aucune preuve qu'il ait été empêché de quelque façon que ce soit, à l'époque, de consulter un comptable ou un avocat s'il ne connaissait pas suffisamment le système ou ne comprenait pas les conséquences d'une renonciation à son droit d'opposition et d'appel.
+[28] L'appelant est un homme instruit qui parle quatre langues. Il vivait au Canada depuis plus de 25 ans lorsqu'il a signé la renonciation et qu'il a accepté de faire l'objet de cotisations établies, et ce, sans pénalité, sur la base du refus de la déduction de ses dépenses en excédent de son revenu (brut) pour les trois années en question.
+[29] Je n'ai certainement pas été convaincu que madame Sariboyajian ou monsieur Elkorek ont exercé des pressions indues sur l'appelant ou que celui-ci a été victime de menaces. Dans l'affaire Smerchanski, précitée, le juge en chef Laskin de la Cour suprême du Canada, s'exprimant pour la majorité, déclarait à la page 32 :
+[...] Nous sommes en présence d'un organisme public chargé de percevoir l'impôt de ceux qui en sont redevables et qui s'exposent respectivement à des pénalités et à des poursuites au criminel en cas de refus de payer ou de dissimulation de matière imposable, délibérée ou frauduleuse. Aucune déclaration d'impôt n'échappe à la menace de poursuites en cas de déclaration frauduleuse délibérée, et de fait, la formule de déclaration d'impôt le dit clairement en première page.[...]
+[30] Aujourd'hui, la déclaration de revenu contient toujours un avertissement, qui est maintenant libellé dans les termes suivants : « Faire une fausse déclaration constitue une infraction grave. »
+[31] Dans les circonstances, que l'on ait informé l'appelant qu'il s'exposait à des pénalités civiles à la suite de la vérification ne constitue pas à mon avis une menace exceptionnelle ni de l'intimidation, et il avait effectivement la possibilité de faire l'objet de cotisations sans pénalité, ce qu'il a accepté tout en renonçant à son droit de faire opposition aux cotisations et d'interjeter appel de celles-ci.
+[32] L'appelant a donc accepté un règlement qui lui apparaissait sûrement avantageux à l'époque, et on établi des cotisations à son égard en fonction du règlement intervenu, c'est-à-dire des cotisations sans pénalité. Il a, par ailleurs, renoncé à son droit de faire opposition et d'interjeter appel à l'égard des dépenses dont la déduction a été refusée pour les années 1997, 1998 et 1999. Il n'a pas apporté d'élément de preuve convaincant établissant qu'il n'était pas en mesure, pour des raisons liées à son origine ou à la langue, de comprendre les conséquences de sa renonciation, ou encore, que les autorités fiscales ont tenté de l'induire en erreur, de le menacer ou d'exercer des pressions indues à l'égard de la renonciation. Les paragraphes 165(1.2) et 169(2.2) de la Loi sanctionnent une telle renonciation.
+[33] Il m'apparaît clair qu'une renonciation au droit d'opposition et d'appel signée par un contribuable ne peut être annulée que par une preuve prépondérante qu'il n'y a pas librement consenti ou qu'il a été victime de pressions indues. J'estime que cette preuve n'a pas été apportée dans la présente affaire.
+[34] En conséquence de ce qui précède, la requête de l'intimée est accueillie et les appels sont rejetés.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2005CCI697
+N º DU DOSSIER DE LA COUR : 2005-604(IT)I
+INTITULÉ DE LA CAUSE : KIM-GIANG NGUYEN c. LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 29 septembre 2005
+MOTIFS DE JUGEMENT PAR : l'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 4 novembre 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Philippe-Alexandre Otis
+Avocate de l'intimée :
+Me Nathalie Goulard
+Catherine Gagnon (Stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Philippe-Alexandre Otis
+Ville : Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

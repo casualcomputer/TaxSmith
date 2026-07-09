@@ -1,0 +1,148 @@
+---
+title: "Saunders c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29663/index.do"
+last_modified: "2010-02-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 114"
+citation2: ""
+neutral_citation: "2010 CCI 114"
+decision_date: "2010-02-26"
+language: "fr"
+item_id: "29663"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6231
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:14:08.261000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7bd9f0e060dcc77b624adc9a7c6e4b729ad38eb7036ef76e0f688bbb93751153"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saunders c. La Reine
+
+- Citation: 2010 CCI 114
+- Decision date: 2010-02-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6231, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-26
+Référence neutre
+2010 CCI 114
+Numéro de dossier
+2009-2641(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009­2641(IT)I
+ENTRE :
+ELIZABETH SAUNDERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 février 2010, à Montréal (Québec).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Nicolas Karavolas
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2007 est accueilli et la pénalité pour production tardive qui a été établie en vertu du paragraphe 162(1) de la Loi est annulée.
+Signé à Ottawa, Canada, ce 26e jour de février 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de juillet 2010
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 114
+Date : 20100226
+Dossier : 2009­2641(IT)I
+ENTRE :
+ELIZABETH SAUNDERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] En l’espèce, il s’agit uniquement de savoir si l’appelante, Elizabeth Saunders, est passible d’une pénalité en vertu du paragraphe 162(1) de la Loi de l’impôt sur le revenu (la « Loi ») pour avoir omis de produire sa déclaration de revenu de 2007, comme l’exige l’alinéa 150(1)d), au plus tard le 30 avril 2008.
+[2] Le paragraphe 162(1) prévoit ce qui suit :
+162 (1) Défaut de déclaration de revenu – Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[3] Il n’est pas contesté que la déclaration de l’appelante devait être produite au plus tard le 30 avril 2008 et que l’impôt dû qui était impayé s’élevait à 44 813,55 $. C’est la date à laquelle la déclaration a été produite qui est en litige.
+[4] Le ministre du Revenu national (le « ministre ») a établi une pénalité pour production tardive compte tenu du fait que la déclaration avait été produite le 20 mai 2008, soit la date que l’Agence du revenu du Canada (l’« ARC ») a apposée sur la déclaration à l’aide d’un timbre dateur.
+[5] Selon la position prise par l’appelante, la déclaration a en fait été produite le 29 avril 2008, soit la date à laquelle le comptable de l’appelante a placé la déclaration dans un contenant servant à la collecte des déclarations, dans les bureaux de l’ARC, à Montréal.
+[6] Au début de l’audience, l’avocat de l’intimée a demandé qu’une ordonnance excluant les témoins de l’appelante soit rendue, demande à laquelle il a été fait droit.
+[7] L’appelante, une dame de plus de 80 ans, n’a pas comparu à l’audition de l’appel. Elle était représentée par Nicolas Karavolas, comptable général licencié, qui a également témoigné pour le compte de l’appelante. Rita Doherty et David Boilly, qui étaient des comptables associés au cabinet de M. Karavolas, ont également témoigné pour le compte de l’appelante. À mon avis, les témoignages de ces trois personnes étaient crédibles.
+[8] Le ministre a appelé Phillippe Demeule, l’agent de l’ARC qui a examiné l’avis d’opposition de l’appelante et qui a témoigné au sujet des procédures habituelles de production de l’ARC qui s’appliquaient au mois d’avril 2008. Étant donné que M. Demeule était également présent à titre de représentant du ministre, il n’était pas visé par l’ordonnance excluant les témoins. Rien ne m’amène à douter de la véracité de son témoignage; le seul point faible était qu’en sa qualité d’agent travaillant depuis les bureaux de l’ARC situés à Shawinigan, il n’avait pas personnellement connaissance des installations et des procédures de collecte des déclarations qui existaient au bureau de Montréal entre le 29 avril et le 20 mai 2008 ni de la façon dont la déclaration de l’appelante avait été traitée au moment de sa production.
+[9] J’ai eu la possibilité d’entendre chacun des témoins et je suis convaincue, selon la prépondérance des probabilités, que la déclaration de l’appelante a été produite le 29 avril 2008 lorsque M. Boilly l’a déposée dans la boîte de collecte des déclarations, au bureau de l’ARC, à Montréal.
+[10] Je retiens en particulier la preuve de M. Karavolas selon laquelle la pratique, dans son cabinet, consistait à préparer plusieurs déclarations individuelles jusqu’à ce qu’il y en ait un nombre suffisant qui soient prêtes à être livrées à l’ARC. Mme Doherty dressait alors une liste des déclarations à produire un jour donné et M. Boilly les apportait au bureau de l’ARC pour production.
+[11] Avant l’année 2008, ce système fonctionnait fort bien étant donné que les déclarations étaient reçues par un agent qui, sur présentation, apposait la date sur chaque déclaration à l’aide d’un timbre dateur. Toutefois, en 2008, l’ARC a modifié sa procédure. Les contribuables pouvaient encore à leur gré présenter leur déclaration à un agent, au comptoir, mais il y avait habituellement une longue queue. En 2008, l’ARC, qui espérait peut­être accélérer le processus, a offert une autre méthode de production : le contribuable pouvait éviter de faire la queue au comptoir en insérant simplement la déclaration dans l’ouverture d’un contenant fermé semblable à une boîte aux lettres de Postes Canada. Comme l’appelante s’en est par la suite rendu compte, la faiblesse du nouveau système était qu’il ne comportait aucun mécanisme permettant d’enregistrer la date à laquelle la déclaration avait été déposée dans la boîte de collecte. M. Demeule a confirmé la chose, mais il a fait remarquer qu’il existait une procédure permettant de noter la date de production des déclarations placées dans la boîte : à la fin de la journée ou au plus tard de bonne heure le lendemain matin, un agent était chargé de retirer les déclarations de la boîte et de les livrer à la salle du courrier, où les déclarations étaient confiées à d’autres agents pour qu’ils y apposent la date à l’aide d’un timbre dateur avant de les remettre à d’autres agents pour que ceux-ci les envoient au bureau approprié de l’ARC pour traitement.
+[12] Il est intéressant de noter que la date apposée à l’aide d’un timbre dateur sur toute déclaration produite avant le 1er mai 2008 était simplement le « 30 avril 2008 », plutôt que la date réelle de production. Cette politique était apparemment fondée sur le fait que seules les déclarations produites en retard donnaient lieu à des pénalités, de sorte qu’il n’était pas nécessaire d’enregistrer la date réelle de production. (Cela est dans une certaine mesure logique, mais il me semble que cette pratique laisse à désirer, en particulier dans le cas d’une agence gouvernementale dont les rouages dépendent de dates d’échéance et de la prise de mesures en temps opportun.) Néanmoins, lorsqu’on lui a demandé lors de l’interrogatoire principal jusqu’à quel point le nouveau système était fiable, M. Demeule a répondu qu’il était [traduction] « passablement » fiable. De fait, pour conclure qu’une pénalité avait à juste titre été imposée à l’appelante, M. Demeule s’est [traduction] « fondamentalement » fié à la date du 20 mai 2008 apposée sur la déclaration à l’aide du timbre dateur. M. Demeule a également été influencé par le fait que, dans l’avis d’opposition de l’appelante[1], M. Karavolas avait déclaré que la déclaration avait été livrée au bureau de Montréal le 28 avril 2008 et non le 29 avril 2008, comme il l’a par la suite affirmé. En outre, M. Demeule a fait remarquer que, parmi les déclarations énumérées dans la pièce A­1 qui avaient été produites le 29 avril 2008, à peu près la moitié portaient un timbre dateur de l’ARC indiquant des dates de production postérieures au 30 avril 2008. À son avis, cette découverte l’emportait sur les assertions de M. Karavolas, selon lesquelles toutes les déclarations énumérées dans la pièce A­1 avaient été déposées le même jour dans la boîte de collecte de l’ARC.
+[13] Je dois dire que je ne partage pas la conviction de M. Demeule en ce qui concerne l’infaillibilité d’une grosse bureaucratie gouvernementale, en particulier pendant la période la plus occupée de l’année. Premièrement, même si je retenais les conclusions par ailleurs non corroborées que M. Demeule a tirées au stade de l’opposition, il semble également probable que les différentes dates apposées à l’aide du timbre dateur résultaient d’une erreur commise dans le traitement des déclarations par la myriade d’agents non identifiés (et, en ce qui concerne l’appelante, non identifiables) chargés de récupérer la multitude de déclarations qui auraient été déposées au bureau de Montréal à la fin du mois d’avril 2008, d’y apposer la date et de les réexpédier. En outre, l’erreur commise par M. Karavolas, lorsqu’il a affirmé que l’avis d’opposition avait été déposé le [traduction] « 28 avril » n’entache pas plus sa crédibilité que l’erreur commise par M. Demeule lui­même lorsqu’il a déclaré, dans son témoignage, que le timbre dateur apposé sur la déclaration indiquait le [traduction] « 29 mai », alors qu’il voulait dire le [traduction] « 20 mai ». Je puis comprendre que M. Demeule croyait que le système était censé fonctionner, mais je ne suis pas convaincue qu’il a fonctionné dans le cas de l’appelante.
+[14] La procédure de production employée dans le cabinet de M. Karavolas était conforme à une gestion prudente des affaires. Il n’aurait certes pas été rentable de faire en sorte que le collègue de M. Karavolas, M. Boilly, s’empresse de se rendre au bureau de l’ARC afin d’y déposer des déclarations individuelles au fur et à mesure qu’elles étaient prêtes. En outre, la contestation des dates qui avaient apparemment été apposées à l’aide d’un timbre dateur sur les déclarations de certains de ses autres clients énumérés dans la pièce A­1 me convainc : M. Karavolas a témoigné qu’il préparait normalement en même temps les déclarations des époux afin d’harmoniser les crédits transférables et ainsi de suite. Cette approche est tout à fait sensée et renforce le témoignage de M. Karavolas, lorsqu’il a déclaré avoir également l’habitude d’envoyer les déclarations des époux pour qu’elles soient produites le même jour. Toutefois, en examinant l’avis d’opposition de l’appelante, M. Demeule a remarqué que la date apposée à l’aide du timbre dateur sur les déclarations d’un certain couple, M. et Mme Robertson, dont le nom figurait dans la pièce A­1, indiquait le [traduction] « 21 mai » et le [traduction] « 20 mai » respectivement, ce qui l’a amené à conclure que la liste ne corroborait pas la position prise par M. Karavolas. À mon avis, cela nous en dit plus sur la possibilité qu’une erreur humaine ait été commise dans l’un des divers services, à l’ARC, que sur la date à laquelle la déclaration de l’appelante a été produite.
+[15] Mme Doherty était chargée de préparer la liste des noms des contribuables en se fondant sur les liasses de déclarations préparées que M. Karavolas et M. Boilly lui fournissaient et d’indiquer leur date de livraison au bureau de Montréal de l’ARC. Cela me semble être une façon tout à fait sensée de consigner de tels renseignements, d’autant plus que la procédure suivie par l’ARC ne comportait aucun système indépendant de validation.
+[16] La déclaration de l’appelante a été préparée par M. Boilly. Je retiens le témoignage de M. Boilly lorsqu’il affirme avoir rencontré l’appelante au début du mois d’avril 2008 afin de l’informer qu’un montant élevé serait exigible au titre de l’impôt; étant donné qu’il fallait à celle-ci un certain temps afin de virer les fonds de son compte de chèque afin de couvrir les chèques qu’elle enverrait finalement à l’ARC et à Revenu Québec, M. Boilly a mis la déclaration de côté jusqu’à la fin du mois d’avril. Après avoir pris les dispositions nécessaires, l’appelante a apporté à son cabinet les chèques nécessaires pour ses impôts provincial et fédéral. Selon l’hypothèse émise à l’alinéa 7f) de la réponse à l’avis d’appel, un chèque de 47 324,35 $ a été joint à la déclaration de revenu fédérale de l’appelante. Le témoignage de M. Boilly est également étayé par la pièce A­3, un extrait d’un relevé bancaire de l’appelante indiquant un virement télégraphique de 96 000 $ à son compte le 28 avril 2008, de sorte que le solde s’élevait en tout à 101 137,84 $, ce qui était amplement suffisant pour couvrir l’impôt fédéral et l’impôt provincial. En outre, il n’y avait aucune pénalité pour production tardive dans l’avis de cotisation pour 2007 de Revenu Québec[2] et le relevé bancaire confirme que, le 5 mai 2008, le montant de 48 475 $ qui était dû à Revenu Québec (figurant au [traduction] « numéro 3 ») a été débité du compte de l’appelante. Le 21 mai, le montant de 47 324,35 $ dû à l’ARC (figurant au [traduction] « numéro 4 » et donnant à penser que le chèque avait été établi en même temps que celui qui avait été émis en faveur de Revenu Québec) a été retiré de son compte.
+[17] Dans ces conditions, il est fort peu probable que M. Boilly, après s’être donné la peine de préparer les déclarations de l’appelante, d’informer celle-ci des dettes fiscales concomitantes, de s’assurer que des fonds soient disponibles afin de couvrir les montants dus et de produire de la façon appropriée la déclaration provinciale, eût ensuite attendu jusqu’au 20 mai 2008 pour produire la déclaration fédérale. Une fois la déclaration de revenu de 2007 déposée dans la boîte de collecte de l’ARC, l’appelante et le cabinet de M. Karavolas n’exerçaient plus aucun contrôle sur cette déclaration. Jusqu’à ce moment­là, ils avaient fait tout ce à quoi il était raisonnablement possible de s’attendre afin de veiller à ce que la déclaration de l’appelante soit produite en temps opportun. Enfin, il est intéressant de noter qu’après 2008, l’ARC a modifié la procédure suivie pour les boîtes de collecte, de façon que la date soit apposée sur livraison.
+[18] Dans l’ensemble, en cas de doute, il faut trancher en faveur de l’appelante. Pour les motifs susmentionnés, je suis convaincue que la déclaration de 2007 de l’appelante a été dûment produite aux bureaux de l’ARC, à Montréal, le 29 avril 2008. Par conséquent, l’appel est accueilli et la cotisation par laquelle la pénalité pour production tardive a été établie est annulée.
+Signé à Ottawa, Canada, ce 26e jour de février 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 7e jour de juillet 2010
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 114
+No DU DOSSIER DE LA COUR : 2009­2641(IT)I
+INTITULÉ : ELIZABETH SAUNDERS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 17 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 26 février 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Nicolas Karavolas
+Avocat de l’intimée :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous­procureur général du Canada
+Ottawa, Canada
+[1] Pièce R­1.
+[2] Pièce A­2.

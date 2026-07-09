@@ -1,0 +1,748 @@
+---
+title: "Cleary c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27863/index.do"
+last_modified: "2005-06-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 337"
+citation2: ""
+neutral_citation: "2005 CCI 337"
+decision_date: "2005-06-24"
+language: "fr"
+item_id: "27863"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 339
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:36:06.613000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67d8c9751e414d21678b0251f4da740388f839428e3486c59fa978b13c3a270a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cleary c. La Reine
+
+- Citation: 2005 CCI 337
+- Decision date: 2005-06-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 339, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cleary c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-24
+Référence neutre
+2005 CCI 337
+Numéro de dossier
+2000-2678(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000‑2678(IT)G
+ENTRE :
+LES GESTIONS RODNEY CLEARY & FILS LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+177181 Canada Inc. (2000‑2680(IT)G)
+les 20 et 21 septembre 2004, à Sherbrooke (Québec)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13156, est accueilli et la cotisation est annulée.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2681(IT)G
+ENTRE :
+LES GESTIONS RODNEY CLEARY & FILS LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13155, est accueilli et la cotisation est annulée.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2682(IT)G
+ENTRE :
+LES GESTIONS RODNEY CLEARY & FILS LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 22 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13152, est accueilli et la cotisation est annulée.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2683(IT)G
+ENTRE :
+LES GESTIONS RODNEY CLEARY & FILS LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 23 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13154, est rejeté.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2684(IT)G
+ENTRE :
+LES GESTIONS RODNEY CLEARY & FILS LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 22 et 23 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13153, est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation tenant compte du fait que Rodney Cleary a transféré une somme de 100 000 $ à Cedric Cleary en payant une commission pour son compte et que l’appelante est redevable d’impôt selon le paragraphe 160(1) de la Loi.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2687(IT)G
+ENTRE :
+CEDRIC CLEARY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 21 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13160, est accueilli, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation tenant compte du fait que, le 15 octobre 1993, Rodney Cleary a transféré une somme de 119 000 $ à l’appelant et que l’appelant est redevable d’impôt selon le paragraphe 160(1) de la Loi.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2679(IT)G
+ENTRE :
+CEDRIC CLEARY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 20 et 21 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13158, est accueilli et la cotisation est annulée.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2685(IT)G
+ENTRE :
+CEDRIC CLEARY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 21 et 22 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13161, est rejeté.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2686(IT)G
+ENTRE :
+CEDRIC CLEARY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu les 21 et 22 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelant :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13159, est rejeté.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Dossier : 2000‑2680(IT)G
+ENTRE :
+177181 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Les Gestions Rodney Cleary & Fils Ltée (2000‑2678(IT)G)
+les 20 et 21 septembre 2004, à Sherbrooke (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 23 juin 1999 et porte le numéro 13157, est accueilli et la cotisation est annulée.
+Les frais seront déterminés.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+Référence : 2005CCI337
+Date : 20050624
+Dossiers : 2000‑2678(IT)G, 2000‑2681(IT)G, 2000‑2682(IT)G,
+2000‑2683(IT)G et 2000‑2684(IT)G
+ENTRE :
+LES GESTIONS RODNEY CLEARY & FILS LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossiers : 2000‑2679(IT)G, 2000‑2685(IT)G, 2000‑2686(IT)G
+et 2000‑2687(IT)G
+ET ENTRE :
+CEDRIC CLEARY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2000‑2680(IT)G
+ET ENTRE :
+177181 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Rip
+Introduction
+[1] Le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de Cedric Cleary, de Les Gestions Rodney Cleary & Fils Ltée (« Gestions ») et de 177181 Canada Inc. (« Arbo »), conformément à l’article 160 de la Loi de l’impôt sur le revenu (la « LIR »), des cotisations fondées sur le fait qu’à plusieurs reprises, pendant la période allant de l’année 1984 à l’année 1995 inclusivement, Rodney Cleary (« Rodney »), père de Cedric Cleary et personne ayant un lien de dépendance avec les sociétés appelantes, à des moments où il devait de l'impôt en vertu de la partie I de la LIR a transféré des biens, directement ou indirectement, aux appelants[1]. Il y a dix cotisations, dont l'avis est dans chaque cas daté du 23 juin 1999; quatre cotisations ont été établies à l’égard de Cedric Cleary, cinq à l’égard de Gestions et une à l'égard d'Arbo.
+[2] Les appels ont été entendus sur une période de quatre jours. Les avocats sont convenus du jour où un appel donné serait entendu et de l’ordre dans lequel les appels seraient entendus. Ils ont été entendus l’un à la suite de l’autre, parfois ensemble, et dans d’autres cas séparément; les arguments relatifs à des appels entendus séparément ont parfois été présentés comme une seule argumentation[2].
+[3] Selon le ministre, Rodney a transféré les biens suivants aux divers appelants :
+No du dossier de la Cour
+et nom de l’appelant
+Date
+des transferts
+Nature du
+Transfert
+2000‑2678(IT)G
+Les Gestions Rodney Cleary & Fils Ltée
+17/09/93
+Somme de 25 000.$ remboursée par Rodney à Gestion–
+Montant du dépôt-transaction
+Labranche
+2000‑2679(IT)G
+Cedric Cleary
+08/01/85
+Vente à Cedric Cleary des actions détenues par Rodney dans le capital‑actions de Gestions pour 1 $
+212 000.$
+2000‑2680(IT)G
+Arbo‑Culture Ltée
+15/10/93
+19/10/93
+Remboursement de
+la somme de 160 090.$
+par Rodney à Arbo
+Culture‑ transaction
+Labranche
+2000‑2681(IT)G
+Les Gestions Rodney Cleary & Fils Ltée
+13/04/92
+Vente par Rodney à Gestions
+d’une plantation
+de sapin, Canton de Leeds,
+pour la somme de
+250 000 $
+2000‑2682(IT)G
+Les Gestions Rodney Cleary & Fils Ltée
+13/11/84
+Vente par Rodney de
+plantations de sapins de
+Noёl et Immeubles
+À Moffat
+2000‑2683(IT)G
+Les Gestions Rodney Cleary & Fils Ltée
+28/02/90
+07/08/90
+10/08/90
+28/08/90
+12/10/89
+12/12/89
+14/12/89
+14/12/89
+23/12/89
+16/12/89
+19/12/89
+Divers paiement
+fait par Rodney
+à Gestions
+réclamations de: 194 263 $
+2000‑2684(IT)G
+Les Gestions Rodney Cleary & Fils Ltée
+21/07/89
+02/10/89
+23/10/89
+06/11/89
+09/11/89
+20/11/89
+24/11/89
+31/05/89
+Divers paiement
+fait par
+Rodney à Gestions
+réclamations de: 670 000 $
+2000‑2685(IT)G
+Cedric Cleary
+09/06/95
+Encaissement d’un
+chèque au montant de
+30 000.$ ‑ argent remis
+à Rodney
+2000‑2686(IT)G
+Cedric Cleary
+05/03/90
+Prêt au montant de
+35 000.$ pour l’achat
+d’un camion
+2000‑2687(IT)G
+Cedric Cleary
+15/10/93
+Remise à Cedric d’un
+chèque au montant de 282 000.$ ‑transaction
+Labranche
+[4] Aux moments où les divers transferts de biens auraient eu lieu, Rodney était redevable, en vertu de la partie I de la LIR, des montants suivants au titre de l’impôt, des intérêts et des pénalités, lesquels s’élevaient en tout à 1 349 796,93 $ :
+Année
+Impôt
+fédéral
+Pénalité
+Intérêt
+Total
+1983
+122 446,99 $
+31 865,65 $
+406 805,47 $
+551 118,11 $
+1986
+1 230,77 $
+3 194,74 $
+4 425,51 $
+1987
+16 128,73 $
+26 094,21 $
+42 222,94 $
+1988
+5 125,96 $
+871,41 $
+8 060,88 $
+14 058,25 $
+1989
+268 037,03 $
+279 346,63 $
+547 383,66 $
+1990
+3 161,12 $
+664,03 $
+3 483,68 $
+7 308,83 $
+1991
+8 850,51 $
+2 832,16 $
+6 938,54 $
+18 621,21 $
+1992
+8 710,74 $
+3 674,33 $
+12 385,07 $
+1993
+70 930,28 $
+44 560,70 $
+36 782,37 $
+152 273,35 $
+Total
+1 349 796,93 $
+[5] Selon le tableau figurant au paragraphe précédent, le plus gros de l’impôt, des intérêts et des pénalités, s’élevant en tout à 1 349 796,93 $, consiste en des montants à l’égard desquels Rodney a fait l’objet de cotisations pour les années 1983 et 1989.
+[6] À l’instruction, l’avocat des appelants a soulevé deux questions qui n’étaient pas soulevées dans les avis d’appel. Les appelants voulaient contester les cotisations établies à l’égard de Rodney pour les années 1983 et 1989 en invoquant le fait que la cotisation relative à l’année 1983 avait été établie en dehors de la « période normale de nouvelle cotisation » de trois ans à partir de la date de la première cotisation, selon la définition figurant au paragraphe 152(3.1) de la LIR. En vertu du paragraphe 152(4), le ministre ne peut pas établir une cotisation ou une nouvelle cotisation pour une année d’imposition après l'expiration de la période normale de nouvelle cotisation applicable au contribuable, à moins que le contribuable ne lui ait présenté une renonciation, selon le formulaire prescrit, ou à moins que le contribuable n’ait fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou n’ait commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la LIR. Les appelants affirment que Rodney n’a pas fait de telle présentation erronée en produisant sa déclaration de revenu pour l’année 1983.
+[7] En ce qui concerne la nouvelle cotisation relative à l’année 1989, le ministre n’a pas admis la déduction d’une perte en capital de 600 000 $ que Rodney avait effectuée dans sa déclaration de revenu de 1992, perte qui aurait été reportée à l’année 1989; les appelants veulent en appeler de la décision du ministre.
+[8] Dans l’arrêt Gaucher c. Canada[3], le juge Rothstein a statué que, selon une règle fondamentale de justice naturelle, sauf disposition législative contraire, une personne qui n’est pas partie à un litige ne peut pas être liée par le jugement prononcé à l'égard des parties à ce litige. Une cotisation peut être définitive et lier le contribuable « principal » désigné dans l’avis de cotisation, mais elle ne lie pas les contribuables secondaires, soit dans ce cas‑ci, les personnes à qui Rodney a transféré les biens. Les appelants n’étaient pas visés par le processus de cotisation engagée à l'égard de Rodney par le ministre pour les années 1983 et 1989. Ce processus n’a eu pour effet d’imposer une responsabilité à aucun des appelants et tous les appelants peuvent se prévaloir de n'importe quel moyen de défense que Rodney aurait pu opposer à une cotisation dont il avait fait l’objet.
+[9] L’avocat de la Couronne n’a pas fait d’objection, et ce, même si les appelants n’ont soulevé la question qu’une semaine avant l’instruction. J’ai donc autorisé l’avocat des appelants à examiner les nouvelles cotisations dont Rodney avait fait l’objet pour les années 1983 et 1989 ainsi que les faits y afférents[4]. Toutefois, en contestant les cotisations, les appelants faisaient face à un problème; en effet, Rodney était décédé en 2002.
+Contestation des cotisations pour les années 1983 et 1989
+Nouvelle cotisation concernant Rodney Cleary pour l’année 1983
+[10] Selon Daniel Thibault, fonctionnaire à l’Agence du revenu du Canada, Rodney a produit une déclaration de revenu pour l’année 1983; en 1984, il a fait l’objet d’une cotisation pour l’année 1983. Le 6 décembre 1993, il a fait l’objet d’une nouvelle cotisation pour l’année 1983, le montant de la cotisation étant 122 446,99 $ plus les intérêts et des pénalités. Comme il en a ci‑dessus été fait mention, les appelants contestent la nouvelle cotisation en affirmant qu’elle a été établie plus de trois ans après l’expiration de la période normale de nouvelle cotisation applicable à Rodney pour l’année 1983 et, en faisant valoir, entre autres choses, que le ministre n’a pas prouvé que Rodney avait fait une présentation erronée des faits en produisant sa déclaration de revenu pour l’année 1983.
+[11] M. Thibault a témoigné que le ministre du Revenu du Québec avait procédé à une vérification des affaires financières de Rodney et d’autres personnes, dont Cedric et Gestions, pour les années 1981 à 1985 inclusivement. Rodney avait fait l’objet d’une cotisation d’impôt sur le revenu provincial pour l’année 1983 le 9 juillet 1989, et encore une fois le 23 août 1991. Dans une entente à l’amiable datée du 2 septembre 1983, le sous‑ministre du Revenu du Québec (le « SMRQ ») et Rodney, Gestions et Cedric, par l’entremise de leurs avocats, se sont entendus pour que, entre autres choses, le SMRQ établisse une nouvelle cotisation à l’égard de Rodney pour l’année 1983 en ajoutant un montant de 462 757,53 $ au revenu déclaré par celui‑ci. De plus, Rodney s’est engagé à présenter un plaidoyer de culpabilité relativement à l'infraction d'avoir omis de déclarer le revenu additionnel en produisant sa déclaration de revenu du Québec.
+[12] Le SMRQ a établi une nouvelle cotisation à l’égard de Rodney et a envoyé à l’administration fiscale fédérale une copie de l’avis de nouvelle cotisation pour l’année 1983, lequel était daté du 24 septembre 1993, ainsi que des documents connexes. (Les cotisations du Québec pour les autres années ne sont pas pertinentes dans ces appels.) Se fondant sur la copie de l’avis de nouvelle cotisation du Québec pour l’année 1983 et sur les documents à l’appui, le ministre a établi, le 6 décembre 1993, une nouvelle cotisation à l’égard de Rodney en ce qui concerne l’année 1983, pour les mêmes raisons que celles sur lesquelles l’administration fiscale provinciale s’était fondée[5]. M. Thibault a déclaré que le fisc fédéral n’aurait probablement pas établi de nouvelle cotisation si ce n’avait été des renseignements qu’il avait reçus du fisc provincial.
+[13] M. Pierre Durand, enquêteur spécial auprès du ministère du Revenu du Québec, a enquêté sur les affaires financières de Rodney pour les années 1981 à 1985. Il a témoigné qu’on lui avait assigné le dossier en 1987 lorsque les vérificateurs provinciaux soupçonnaient une fraude. Selon M. Durand, lorsqu’un vérificateur avait rencontré Rodney au mois de juin 1985, celui-ci avait dit à ce vérificateur que tous ses livres et documents avaient été détruits dans un incendie au mois de janvier 1985. Rodney s’était montré peu coopératif et son dossier avait été transféré à la section des enquêtes spéciales, qui était autorisée à obtenir des renseignements financiers auprès des banques avec qui Rodney traitait ainsi qu’auprès d’autres personnes.
+[14] L’avocat des appelants s’est opposé d’une façon générale à la preuve soumise par M. Durand et, en particulier, à certains documents sur lesquels celui‑ci s’était peut‑être fondé en établissant la nouvelle cotisation pour l’année 1983, le motif de l'opposition étant que le contenu de ces documents constituait une preuve par ouï‑dire. L’avocat de l’intimée a déclaré qu’elle ne voulait pas se fonder sur ces documents pour établir la véracité de leur contenu, mais qu’elle voulait s’en servir afin d’établir ce qui avait été dit ainsi que le fondement de la cotisation.
+[15] Les documents auxquels l’avocat des appelants s’opposait expressément comprenaient les suivants : une note de service qui était intitulée « Les Gestions Rodney Cleary & Fils Inc. », en date du 31 juillet 1984, rédigée par M.-A. Richer, agent dans une succursale locale de la Banque de Montréal, l’ancienne succursale bancaire utilisée par Rodney, et qui concernait le transfert des comptes de Rodney à une autre banque; des notes de service du Internal Revenue Service, datées du 3 mars 1987 et du 31 mars 1986, concernant Rodney Cleary; et l’affidavit d’un certain Sammy Church, daté du le 17 janvier 1986. Ni l’un ni l’autre des auteurs des notes de service ni M. Church n’ont témoigné.
+[16] M. Durand s’est également fondé sur des documents obtenus par le ministère du Revenu du Québec en dressant l’état de l'avoir net de Rodney pour les années 1982 et 1983. Ces documents comprenaient des documents de travail préparés par les comptables de Rodney, que M. Durand avait obtenus de ces derniers et dont il avait discuté avec eux, ainsi que des copies de relevés du compte de Rodney à la Banque de Montréal. En préparant à l’intention du SMRQ son rapport et ses recommandations concernant la cotisation, rapport qui a également été produit en preuve, M. Durand s’est fondé sur la note de service du représentant de la banque, sur les documents du IRS, sur l’affidavit de M. Church, sur les relevés bancaires et sur les documents de travail des comptables, ou il en a du moins tenu compte.
+[17] J’ai remis jusqu'après l'audition des appels ma décision sur la production de ces documents et sur d’autres questions soulevées par l’avocat des appelants. J’ai demandé aux deux avocats de préparer des observations écrites pour que je puisse les examiner.
+[18] Dans ses observations écrites, l’avocat des appelants, Me Panneton, a contesté l’admissibilité de la preuve soumise par M. Durand et la production de la note de service du représentant de la banque, des notes de service du IRS et de l’affidavit de M. Church. L’avocat a invoqué les motifs de jugement rédigés dans l’affaire Gestion Yvan Drouin Inc. c. Canada à l’appui de la thèse selon laquelle il incombe au ministre, lorsqu’il établit une cotisation à l’égard d’un tiers en vue de recouvrer le montant dû par un autre contribuable, de présenter une preuve prima facie de l’existence de la dette. C’est le ministre qui est en possession de la déclaration de revenu pertinente de l’autre contribuable et, si une vérification a été effectuée, de copies des documents pertinents justifiant la cotisation.
+[19] C'est onze ans après que la nouvelle cotisation du 6 décembre 1993 eut été établie à l’égard de Rodney pour l’année 1983 que le ministre a reconnu que la nouvelle cotisation était fondée sur l’enquête menée par M. Durand. Le vendredi 17 septembre 2004, à 15 h 20, trois jours seulement avant l’instruction, l’avocat de l’intimée a signifié une liste supplémentaire de documents à l'avocat des appelants. Sur cette liste sont énumérés des documents bancaires et les documents de travail des comptables de Rodney que M. Durand avait obtenus dans le cadre de son enquête concernant celui-ci. Me Panneton s’est opposé à la production de ces documents, sur lesquels reposait la preuve de M. Durand, parce que le ministre n’était pas au courant de l’existence de ces documents et des renseignements qui y figuraient au moment, soit le 6 décembre 1993, où il avait établi, la nouvelle cotisation à l’égard de Rodney pour l’année 1983.
+[20] L’avocat de l’intimée a soutenu que ni les avis d’appel ni les répliques ne mettaient en question les cotisations dont Rodney avait fait l’objet. C'est pendant une conférence préparatoire à l'audience qui a eu lieu le 12 février 2004, que les appelants ont mentionné pour la première fois qu’ils contesteraient certaines cotisations concernant Rodney. Au mois de mars 2004, le ministre a envoyé aux appelants des copies des avis de cotisation et des déclarations de revenu de Rodney, y compris des documents connexes provenant du SMRQ, sur lesquels la cotisation d’impôt fédéral de Rodney pour l’année 1983 était fondée.
+[21] Le 13 septembre 2004, sept jours avant la date prévue pour l’audition des appels, les appelants ont déposé des avis d'appel modifiés et des répliques modifiées afin de contester les cotisations dont Rodney avait fait l’objet pour les années 1983 et 1992. L’avocat de l’intimée affirme que c’était là la raison pour laquelle l’intimée n’avait pas informé les appelants, avant le 13 septembre 2004, du fondement de la cotisation établie à l’égard de Rodney pour l’année 1983. Et puisque la cotisation fédérale était fondée sur la cotisation provinciale, il est normal, selon l’avocat de l’intimée, que la personne qui a procédé à l’enquête provinciale, M. Durand, témoigne.
+[22] J’examinerai d’abord l’objection relative à la preuve par ouï‑dire. À coup sûr, en établissant une cotisation, les fonctionnaires d’une administration fiscale, comme l’Agence des douanes et du revenu du Canada et le ministère du Revenu du Québec, se fondent sur le ouï‑dire ainsi que sur une preuve directe. Une cotisation n’est pas mauvaise simplement parce que le répartiteur s’est fondé sur une preuve par ouï‑dire. Mais voici le problème : si la cotisation est contestée devant un tribunal judiciaire et qu’il incombe au ministre de prouver, par exemple, qu’une présentation erronée des faits a été faite, ou si la charge de la preuve passe à la Couronne, la preuve par ouï‑dire recueillie par le répartiteur ne peut pas être utilisée pour justifier la cotisation; les règles ordinaires de la preuve l’emportent[6]. La preuve fournie par un employé de l’ADRC, du ministère du Revenu du Québec ou d'un ministère gouvernemental quelconque est assujettie aux mêmes normes que la preuve soumise par n'importe quel autre citoyen. Le fait que la personne en cause occupe une charge particulière ne lui permet pas pour autant de présenter une preuve inadéquate. Le tribunal ne peut pas admettre des énoncés comme preuve de leur exactitude ou comme preuve d’assertions qui y sont implicitement faites lorsque ces énoncés, écrits ou oraux, sont faits par des personnes autrement que dans le cadre d’un témoignage et dans l’instance où lesdits énoncés sont présentés.
+[23] Le souscripteur d’un affidavit qui a été produit devant la cour, ou sur lequel le répartiteur s'est fondé en établissant la cotisation, est toujours assujetti à un contre‑interrogatoire portant sur les faits énoncés dans l’affidavit. Si le souscripteur de l’affidavit n’est pas disponible pour être contre‑interrogé, l’affidavit ne devrait pas, normalement, être accepté.
+[24] Bien sûr, il existe des exceptions à la règle du ouï‑dire[7]. Certains ont prétendu que l’exigence voulant que le témoignage soit assujetti à l'épreuve du contre‑interrogatoire devrait être abandonnée lorsque celui qui a tenu les propos en question n’est pas disponible et que la déclaration écrite ou orale a été faite dans des circonstances qui, peut‑on supposer, rendraient les remarques généralement fiables[8]. L’intimée a soutenu que tel est ici le cas.
+[25] Il sera fait droit à l’objection par laquelle l’avocat des appelants s'opposait à la production des quatre documents suivants, à savoir, les notes de service du directeur de banque et des agents du IRS ainsi que l’affidavit de M. Church; en effet, le contenu de ces documents constitue du ouï‑dire.
+[26] J’examinerai maintenant la deuxième question, qui se rapporte à la production des relevés bancaires et des documents de travail des comptables.
+[27] Les documents bancaires dont M. Durand a fait mention dans son témoignage comprenaient des relevés de la Banque de Montréal en date du 15 janvier 1982, du 14 janvier 1983, du 4 janvier 1984 et du 1? (la pièce est illisible) février 1984, pour le compte 3009‑092 aux noms de Rodney Cleary et d’Elizabeth Cleary, une copie d’un imprimé pour le compte 5015‑541 au nom de Rodney, des copies de bordereaux d’opérations de la Banque de Montréal pour le compte 5052‑245, lesquels ont été trouvés dans les dossiers du comptable, une copie d’un bordereau de dépôt de la Banque de Montréal en date du 31 décembre 1982 pour le compte 5015‑541, ainsi que des copies des documents de travail du comptable.
+[28] L’avocat des appelants ne s’est pas expressément opposé à la production de ces documents, mais il s’est opposé au témoignage de M. Durand, qui était dans une large mesure fondé sur ces documents et sur les documents dont j’ai précédemment parlé. Dans ses observations écrites, Me Panneton s’est opposé à la liste supplémentaire de documents sur laquelle ces documents sont énumérés. Il est clair qu'il s’oppose à la production des documents bancaires et des documents de travail des comptables.
+[29] L’article 29 de la Loi sur la preuve au Canada décrit la façon dont des copies de registres d'institutions financières doivent être admises en preuve. Les paragraphes 29(1) et (2) prévoient ce qui suit :
+29. (1) Sous réserve des autres dispositions du présent article, une copie de toute inscription dans un livre ou registre tenu dans une institution financière fait foi dans toutes procédures judiciaires, jusqu’à preuve contraire, de cette inscription, ainsi que des affaires, opérations et comptes y inscrits.
+(2) Une copie d’une inscription dans ce livre ou registre n’est pas admise en preuve sous le régime du présent article à moins qu’il n’ait préalablement été établi que le livre ou registre était, lors de l’inscription, l’un des livres ou registres ordinaires de l’institution financière, que l’inscription a été effectuée dans le cours ordinaire des affaires, que le livre ou registre est sous la garde ou la surveillance de l’institution financière, et que cette copie en est une copie conforme. Cette preuve peut être fournie par le gérant ou par le comptable de l’institution financière ou par tout employé de l’institution qui connaît le contenu du livre ou du registre et peut être donnée de vive voix ou par affidavit devant un commissaire ou une autre personne autorisée à recevoir les affidavits.
+29. (1) Subject to this section, a copy of any entry in any book or record kept in any financial institution shall in all legal proceedings be admitted in evidence as proof, in the absence of evidence to the contrary, of the entry and of the matters, transactions and accounts therein recorded.
+(2) A copy of an entry in the book or record described in subsection (1) shall not be admitted in evidence under this section unless it is first proved that the book or record was, at the time of the making of the entry, one of the ordinary books or records of the financial institution, that the entry was made in the usual and ordinary course of business, that the book or record is in the custody or control of the financial institution and that the copy is a true copy of it, and such proof may be given by any person employed by the financial institution who has knowledge of the book or record or the manager or accountant of the financial institution, and may be given orally or by affidavit sworn before any commissioner or other person authorized to take affidavits.
+[30] En l’espèce, les documents en question ont été inclus dans un cahier des pièces de l’intimée aux onglets 7, 9, 10, 17, 18 et 22, lequel cahier a été produit sous la cote I‑1. Les documents bancaires, aux onglets 9, 10, 17 et 18, n’ont pas été prouvés de la façon prévue au paragraphe 29(2) de la Loi sur la preuve au Canada. En effet, aucun employé de la Banque de Montréal et aucun gérant ou comptable de cette banque n’a présenté une preuve orale ou une preuve par affidavit tendant à démontrer, de la façon envisagée au paragraphe 29(2), que les documents figurant aux onglets 9, 10, 17 et 18 de la pièce I‑1 étaient des copies conformes de livres et registres de la banque. Comme il en a déjà été fait mention, l’administration fiscale peut établir une cotisation en se fondant sur des faits contenus dans des documents saisis et sur une preuve par ouï‑dire, mais si elle doit justifier la cotisation devant la cour, les règles de preuve pertinentes s’appliquent et les témoins appropriés doivent présenter une preuve à l’appui des faits.
+[31] Toutefois, les documents bancaires, dans la mesure où il s’agit de pièces commerciales, peuvent également être prouvés en vertu de l’article 30 de la Loi sur la preuve au Canada[9]. La valeur probante des pièces commerciales doit être déterminée par le juge qui préside à l’instruction : paragraphe 30(6) de la Loi sur la preuve au Canada. La valeur probante des documents bancaires qui sont admis en vertu de l’article 29 de la Loi sur la preuve au Canada est établie par la loi. Dans l’arrêt R. v. MacMillan[10], il a été statué que, même si des documents bancaires sont admis en tant que pièces commerciales, la Couronne n’est pas pour autant libérée de l’obligation de prouver que les documents ont été faits ou adoptés par l’accusé, si leur contenu doit être utilisé contre lui. En l’espèce, l’intimée aurait eu à prouver que les documents de travail du comptable avaient été faits par le comptable de Rodney ou adoptés par Rodney, si leur contenu devait être utilisé contre celui‑ci. Or, ni l’auteur des documents de travail ni quelqu'un de chez le cabinet d'expertise comptable qui connaissait le contenu de ces documents n’ont été cités comme témoins.
+[32] L’intimée n’a pas donné avis de son intention de produire des pièces commerciales au moins sept jours avant leur production, comme l’exige le paragraphe 30(7) de la Loi sur la preuve au Canada, qui prévoit ce qui suit :
+(7) Sauf si le tribunal en décide autrement, aucune pièce ou aucun affidavit n’est admissible en preuve en vertu du présent article, à moins que la partie qui produit la pièce ou l’affidavit n’ait, au moins sept jours avant sa production, donné à chacune des autres parties à la procédure judiciaire un avis de son intention de le produire et ne l’ait, dans les cinq jours qui suivent la réception d’un avis à cet effet donné par l’une de ces parties, produit aux fins d’examen par cette partie.
+(7) Unless the court orders otherwise, no record or affidavit shall be admitted in evidence under this section unless the party producing the record or affidavit has, at least seven days before its production, given notice of his intention to produce it to each other party to the legal proceeding and has, within five days after receiving any notice in that behalf given by any such party, produced it for inspection by that party.
+[33] L’intimée ne s’est pas opposée aux modifications que les appelants ont apportées à leurs avis d’appel et à leurs répliques le 13 septembre 2004. De plus, l’avocat de l’intimée a confirmé que celle-ci ne s’opposait pas à ce que les appelants présentent une preuve attaquant les cotisations dont Rodney avait fait l’objet pour les années 1983 et 1992. Malheureusement, la partie qui consent à un acte de procédure doit subir toutes les conséquences qui découlent de son consentement. Eu égard aux faits de l’espèce, l’intimée était tenue, en vertu du paragraphe 30(7) de la Loi sur la preuve au Canada, de donner avis concernant les documents bancaires et les documents de travail des comptables le jour où elle a reçu signification des actes de procédure modifiés. Selon la preuve, l’intimée n’a pas demandé le consentement des appelants à la production des documents contestés dans un délai de moins de sept jours. De plus, l’intimée ne m’a pas demandé de rendre une ordonnance abrégeant le délai de signification de l’avis.
+[34] Ni l’un ni l’autre avocat n’a mentionné la Loi sur la preuve au Canada.
+[35] Eu égard aux circonstances, je dois rejeter toute la preuve soumise par M. Durand qui est fondée sur les documents qui, selon la décision que j’ai rendue, constituaient du ouï‑dire ou qui n’avaient pas été produits conformément aux dispositions de la Loi sur la preuve au Canada. Je ne puis donc pas conclure que le ministre a prouvé que Rodney avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire, ou qu’il avait commis quelque fraude en produisant sa déclaration de revenu fédérale pour l’année 1983 ou en fournissant quelque renseignement sous le régime de la LIR. La preuve présentée par Cedric est que son père avait accepté de plaider coupable, et qu’il a effectivement plaidé coupable, simplement pour que l'affaire se règle rapidement et aux frais les moins élevés possible. Rodney s'est reconnu coupable d'une accusation se rapportant à la production de sa déclaration de revenu du Québec, et non de sa déclaration de revenu fédérale, pour l’année 1983. La déclaration de revenu fédérale de Rodney pour l’année 1983 n’a pas été produite à l’instruction et rien ne montre que Rodney ait commis une infraction visée par la LIR.
+[36] Les appelants ne sont donc pas responsables, suivant l’article 160 de la LIR, du paiement d'une partie quelconque de l’impôt dû par Rodney pour 1983 en vertu de la partie I de la LIR, lequel impôt a fait l'objet d'une cotisation dont l’avis est daté du 6 décembre 1993. Rien ne montre que Rodney n’avait pas payé la somme de 3,18 $ exigible au titre de l’impôt relativement auquel une cotisation avait initialement été établie à son égard pour l’année 1983.
+[37] Par conséquent, l'appel de la cotisation dont Cedric a fait l’objet à l’égard de la vente d’actions de Gestions effectuée par Rodney en faveur de Cedric le 8 janvier 1985 (appel no 2000‑2679(IT)G) et l'appel de la cotisation dont Gestions a fait l’objet à l’égard de la vente d’arbres de Noël et d’un fonds de terre effectuée par Rodney en faveur de Gestions le 13 novembre 1984 (appel no 2000‑2682(IT)G) sont accueillis. Je n’ai donc pas à trancher au fond ces appels. Il faudra peut‑être réduire le montant des autres cotisations en conséquence, de façon que les appelants ne soient pas redevables d’un montant supérieur à 798 678,82 $ en tout, selon l’obligation fiscale de l’auteur du transfert, la valeur des biens transférés et le moment où le transfert a eu lieu et selon qu'une contrepartie a été versée ou non.
+Cotisation concernant Rodney Cleary pour l’année 1992
+[38] En 1993, Rodney a produit une déclaration de revenu modifiée pour l’année 1989; il a déclaré des gains en capital tirés de ventes de fonds de terre et s'élevant à 1 621 575 $, somme sur laquelle 1 081 050 $ constituaient des gains en capital imposables. Dans sa déclaration de revenu pour l’année 1992, Rodney a déclaré une perte en capital de 600 000 $ résultant de la disposition d’un billet. La perte en capital déductible, de 450 000 $, devait être reportée à l’année 1989, ce qui aurait eu pour effet de réduire les gains en capital imposables dans cette année‑là. Le ministre a refusé la déduction d'une perte en capital demandée par Rodney pour l’année 1992 et a refusé le report rétrospectif de quelque perte que ce soit. Les appelants contestent ces décisions du ministre.
+[39] En 1989, le marché immobilier dans les Cantons de l’Est, au Québec, était fort actif, selon Robert Downey, un notaire local. Me Downey possédait des biens immeubles et Rodney voulait participer. Rodney était également l’un des meilleurs clients de Me Downey. Rodney a prêté à Me Downey une somme de 700 000 $ portant intérêt au taux de sept pour cent, payable tous les mois, le principal devant être remboursé le 15 juin 1992. Le prêt était garanti par un billet personnel daté du 15 juin 1989. Le 13 octobre 1989, Me Downey a commencé à faire des paiements mensuels d'intérêts à Rodney. Aux mois de mai, de juin, de juillet et d’août 1990, les intérêts ont été versés à Gestions; tous les paiements d'intérêts effectués après le mois d’août 1990 et jusqu’au mois d’octobre 1991 inclusivement l'ont été au profit de Rodney. Rodney a endossé les chèques du mois d’avril 1990, des mois de septembre à décembre 1990, des mois de janvier à juin 1991 et des mois de septembre et d’octobre 1991 en faveur de sa fille, Mary Ann Cleary. Selon un endossement figurant sur la copie du billet produit à l’instruction, le 15 juin 1989, soit le jour même où le billet a été émis, Rodney a transféré à Mary Ann Cleary les droits qu’il avait sur ce billet. Ce n’est qu’aux mois de novembre et de décembre 1991 que Me Downey a fait des chèques d'intérêts qui étaient payables à Mary Ann Cleary.
+[40] Dans l’intervalle, Me Downey éprouvait des difficultés financières. Il devait apparemment de l’argent à Revenu Canada et l’administration fiscale a saisi une bonne partie de ses biens. À ce moment‑là, Rodney était également endetté envers Revenu Canada.
+[41] Dans une déclaration sous serment en date du 22 janvier 1992, faite pour le ministère fédéral de la Justice, Me Downey a dit que l’administration fiscale fédérale lui avait signifié au mois de novembre 1991 un avis lui disant d'effectuer les paiements des intérêts sur le billet à Revenu Canada plutôt qu’à Rodney. Lorsque Me Downey a communiqué avec Rodney pour l’informer des conversations qu’il avait eues avec les représentants du fisc, Rodney l’a informé qu’il avait transféré à sa fille le droit qu’il possédait sur le billet.
+[42] La société 103110 Canada Inc. était une société dont les actions étaient détenues par Me Downey. Le 7 janvier 1993, on a émis en faveur de Mme Cleary 600 actions privilégiées de trésorerie de la catégorie « D » de 103110 Canada Inc. En contrepartie, Mme Cleary a donné quittance à Me Downey pour le plein montant de la dette de 600 000 $.
+[43] Une semaine plus tard, soit le 14 janvier 1993, Me Downey a fait une proposition concordataire. Sur la liste des créanciers figurait le nom de Rodney, dont la créance était de 600 000 $. Me Downey a expliqué que, lors des conversations antérieures qu’il avait eues avec Me Jetté, un avocat du ministère de la Justice, celui-ci lui avait dit que Revenu Canada ne reconnaissait pas le transfert du billet de Rodney à sa fille. Me Downey a informé le syndic de faillite de la position prise par le ministère de la Justice et le syndic a conclu que si Revenu Canada n’acceptait pas le transfert, Rodney devait être inclus parmi les créanciers.
+[44] Par conséquent, les appelants affirment maintenant que si Rodney n’a pas transféré le billet à sa fille – selon la position initialement prise par Revenu Canada – il était titulaire de la créance garantie par le billet lorsque la créance est devenue irrécouvrable, ce qui s'est produit en 1992, d'après les appelants.
+[45] La position prise par les appelants présente au moins deux problèmes. En premier lieu, Rodney a toujours affirmé avoir transféré la créance à sa fille en 1989. Or, un transfert, même au moyen d’un don, est une disposition. Rodney semble avoir endossé en faveur de Mary Ann Cleary des chèques qu'a faits Me Downey en paiement des intérêts. J’emploie le mot « semble » parce que plusieurs chèques sont endossés à la fois par Rodney et par Mary Ann Cleary. De plus, Mary Ann Cleary se considérait comme la créancière; c’était elle qui avait donné quittance à Me Downey en contrepartie des actions de la société de celui-ci. S’il s’agissait d’un transfert véritable, Rodney n’était pas le créancier de Robert Downey après le 15 juin 1989, et il n’a pas subi de perte à l’égard de la créance.
+[46] Si je retiens l’allégation des appelants selon laquelle Rodney était le créancier après le 15 juin 1989, malgré le transfert du billet qui aurait été effectué en faveur de sa fille, il existe néanmoins des éléments de preuve tendant à montrer qu’il a cessé de l’être peut-être dès qu’il a commencé à endosser en faveur de Mary Ann Cleary les chèques de paiement des intérêts, mais au plus tard quand Me Downey a commencé à effectuer des paiements d'intérêts à Mme Cleary, au mois de novembre 1992. Il pourrait être soutenu, mais il ne l’a pas été, que Rodney a subi une perte lorsqu’il a transféré la créance à sa fille en 1992, une fois que Me Downey a été informé du transfert. Quoi qu’il en soit, rien ne montre qu’une perte ait été subie à ce moment‑là. Je ne dispose d’aucune preuve montrant que Rodney était en fait au courant des revers financiers de Me Downey en 1992. Me Downey payait tous les mois des intérêts sur le billet; il n’était pas en défaut.
+[47] Mme Mary Ann Cleary n’a pas été citée comme témoin. Son témoignage aurait pu aider à éclaircir la question. L’avocat des appelants n’a pas motivé son absence. Je conclus que sa déposition n’aurait pas été favorable aux appelants.
+[48] Il n’y avait pas lieu pour Rodney de considérer la créance comme irrécouvrable en 1992, si l'on considère la preuve qui a été présentée concernant sa connaissance de la capacité ou de l’incapacité de Me Downey à payer en 1992. On ne saurait dire que Rodney a tenu compte, en 1992, des critères énoncés par le juge Rothstein dans l’arrêt Rich c. Canada[11]. En l’absence d’une preuve contraire, Rodney, s’il était créancier, n’aurait pas pu considérer la créance sur Me Downey comme irrécouvrable avant le mois de janvier 1993.
+[49] Eu égard aux faits qui ont été portés à ma connaissance, je crois que Rodney a de fait transféré à Mary Ann Cleary en 1989 la créance de 600 000 $ garantie par le billet. La responsabilité des appelants en ce qui concerne les cotisations de Rodney pour les années 1989 et 1992 ne sera pas changée en soi.
+[50] J’examinerai maintenant chacun des autres transferts.
+2000‑2678(IT)G ‑ Les Gestions Rodney Cleary & Fils Ltée
+(« Gestions ») – 25 000 $
+2000‑2680(IT)G ‑ 177181 Canada Inc. (« Arbo ») – 160 090 $
+2000‑2687(IT)G ‑ Cedric Cleary – 282 000 $
+[51] Les appels interjetés par Gestions et par Arbo ont été entendus sur preuve commune; une seule argumentation a été présentée pour les appels de Gestions, d’Arbo et de Cedric.
+[52] Le 15 octobre 1993, Rodney a vendu à Scierie Labranche Inc. quatre parcelles de terre (composées de sept lots) situées dans le canton de Bolton pour la somme de 470 000 $ (les « propriétés Bolton »). Le prix d’achat a été payé en deux versements : une somme de 25 000 $ a été versée à titre d'acompte le 10 septembre 1993 et le solde, de 445 000 $, a été payé le 14 octobre 1993. Le chèque de 25 000 $ était libellé au nom de Rodney, qui l’a déposé dans le compte bancaire de Gestions à la Banque Nationale du Canada. Gestions n’a pas remis de contrepartie à Rodney.
+[53] Le ministre a établi une cotisation à l’égard de Gestions en ce qui concerne la somme de 25 000 $ que Rodney avait déposée dans le compte bancaire de celle‑ci le 14 octobre 1993.
+[54] De même, en ce qui concerne cette opération, l’intimée affirme qu’un chèque daté du 15 octobre 1993, d’un montant de 135 090 $, en faveur d’Arbo, a été tiré sur le compte en fiducie d'un notaire; le chèque, sur lequel on avait inscrit « Vente par M. Rodney Cleary à Scierie Labranche Inc. », a été déposé dans le compte bancaire d’Arbo. L’intimée affirme qu’Arbo n’a fourni aucune contrepartie en échange de la somme de 135 090 $.
+[55] Un chèque daté du 18 octobre 1993 d’un montant de 25 000 $, payable à Rodney, a été tiré sur le compte en fiducie d'un notaire. Sur ce chèque, on avait inscrit « Vente par Rodney Cleary à Scierie Labranche Inc. ». Le chèque a été endossé par Rodney et déposé dans le compte bancaire d’Arbo. L’intimée affirme encore une fois qu’Arbo n’a donné aucune contrepartie à Rodney.
+[56] Le ministre a établi à l’égard d’Arbo une cotisation de 160 090 $, soit le total des sommes de 135 090 $ et de 25 000 $ que Rodney lui avait transférées les 15 et 18 octobre 1993 respectivement.
+[57] Le 15 octobre 1993, un chèque de 282 000 $ payable à Cedric a été tiré sur le compte bancaire de l’avocat de Rodney; le chèque portait la mention « Vente par Rodney Cleary à Scierie Labranche Inc. ». Cedric a encaissé ce chèque. Le produit de la vente revenait à Rodney, mais un montant de 282 000 $ sur ce produit a été transféré à Cedric sans contrepartie, selon l’intimée. Le ministre a cotisé Cedric la somme de 282 000 $.
+[58] L’intimée affirme qu’au moment des prétendus transferts, Rodney devait à la Couronne de l’impôt sur le revenu pour les années 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992 et 1993[12].
+[59] Avant la vente des propriétés Bolton à Scierie Labranche Inc., Rodney s’était engagé à vendre, et il a effectivement vendu, les propriétés à Arbo pour la somme de 294 000 $; la vente a eu lieu le 1er septembre 1993. À ce moment‑là, Rodney était censé payer sa dette fiscale envers l’administration fiscale québécoise. Étant donné que Rodney pouvait obtenir plus d’argent de Scierie Labranche Inc. pour le fonds de terre, Cedric a accepté d'annuler la vente à Arbo en vue de permettre à Rodney de vendre à meilleur prix à Scierie Labranche Inc.; l'annulation de la vente a eu lieu le 15 octobre 1993, soit le même jour que la vente à Scierie Labranche Inc.
+[60] Le 10 septembre 1993, Scierie Labranche Inc. avait versé un acompte sur le prix d'achat; le solde de 445 000 $ a été payé le 15 octobre 1993.
+[61] Cedric a témoigné que son père n’avait jamais voulu conclure un règlement avec l’administration fiscale du Québec en 1993, mais que lui, Cedric, voulait de son côté arriver à un règlement à l’égard de ses cotisations et des cotisations de Gestions. Rodney a toujours soutenu qu’il ne devait pas d’argent au titre de l’impôt. Cedric voulait qu'il y ait règlement et il a dit à son père que Gestions avancerait de l’argent afin de faciliter le paiement de l’impôt provincial. Cedric a déclaré avoir poussé son père à conclure un règlement pour le bien de Cedric lui‑même et pour le bien des autres enfants qui avaient également fait l’objet de cotisations. L’impôt, les intérêts et les pénalités, soit 419 597 $ en tout, plus une somme de 80 000 $ sur le montant de l'amende, devaient être payés au plus tard le 2 septembre 1993.
+[62] Cedric a témoigné que le matin où le règlement devait avoir lieu, Gestions avait avancé 212 000 $ par l'intermédiaire de Cedric aux fins du paiement de l’impôt. Gestions a ensuite avancé une somme de 163 000 $ à Arbo, ce prêt étant garanti par des hypothèques grevant les propriétés. Ces deux sommes représentaient les 375 000 $ qui, selon ce qu'a dit croire Cedric, devaient être versées à la province de Québec. Le lendemain, l’administration fiscale québécoise exigeait, selon Cedric, un montant additionnel de 45 000 $, soit 420 000 $ en tout. Les paiements ont été faits à l’avocat de Rodney, qui a versé à l’administration québécoise le montant de l’impôt et de l'amende sur les fonds se trouvant dans son compte en fiducie :
+Dépôt in trust
+Retrait in trust
+Solde in trust
+Le 1er septembre 1993
+Reçu chèques de Cedric Cleary
+163 000 $ à l’ordre d’Arbo‑Culture tiré du compte de Gestions et endossé par Arbo‑Culture
+163 000,00 $
+163 000,00 $
+212 000 $ à l’ordre de Cedric Cleary tiré du compte de Gestions et endossé par Cedric Cleary
+212 000,00 $
+375 000,00 $
+Vacation à la Banque pour dépôt des chèques.
+Téléphone à Me Downey, re : vente des immeubles.
+Le 2 septembre 1993
+Rencontre avec Rodney Cleary, Cedric Cleary et Mario Ménard, re : discussion sur règlement.
+Remise d’un chèque d’Arbo‑Culture pour dépôt au compte in trust.
+45 000,00 $
+420 000,00 $
+Rencontre avec Me Larivière pour signature de la convention de règlement et des différents documents en découlant.
+Chèques du compte in trust
+à : Ministre des Finances (chèque no 229)
+80 000,00 $
+340 000,00 $
+à : Ministre du Revenu (chèque no 232)
+294 597,88 $
+45 402,12 $
+à : Ministre des Finances (chèque no 233)[13]
+45 000,00 $
+402,12 $
+[63] Cedric a témoigné que c’est là la raison pour laquelle l’argent pour payer l’impôt provincial était passé par le compte d’Arbo; il n'a jamais voulu faire en sorte qu’Arbo et Gestions avancent 420 000 $ à son père sans contrepartie. Il voulait simplement qu’on lui rembourse d’une façon ou d’une autre les 420 000 $.
+[64] Rodney devait 208 000 $ à Arbo; cette somme était incluse dans le prix d’achat de 294 000 $. Il y avait donc un solde de 86 000 $, mais étant donné que Rodney devait de l’argent à Cedric, « on avait laissé ça tel quel ».
+[65] Lorsqu’il a accepté de revendre les propriétés Bolton à Rodney, Cedric voulait qu’on lui garantisse que Rodney rembourserait sa dette envers Arbo. Cedric a déclaré à plusieurs reprises que sa relation avec Rodney était « très froide [...] ça n’allait pas bien » et qu’il n'avait pas confiance que son père rembourserait Arbo. Rodney était encore fâché d’avoir à conclure un règlement avec le SMRQ et à plaider coupable devant la cour provinciale. Cedric a affirmé avoir insisté pour que, si Rodney vendait les propriétés aux Labranche, les chèques soient libellés en son nom et au nom d’Arbo et que leurs montants correspondent aux montants dus à chacun.
+[66] Cedric a expliqué que depuis 1990, il payait, ou en fait Gestions payait, des dépenses engagées par Rodney pour des avocats, des notaires, des comptables et des fiscalistes et payait aussi des gens qui travaillaient pour Rodney. À un moment donné, Rodney devait à Cedric 150 000 $ relativement à diverses factures que Cedric avait acquittées pour lui. Rodney devait 208 000 $ à Arbo. Cedric a déclaré que c’est pour ces raisons qu'il avait dit au notaire que, sur le produit de la vente des propriétés, Arbo et lui‑même devaient recevoir ce que Rodney leur devait.
+[67] Cedric a expliqué que Rodney lui avait donné le chèque de 25 000 $ représentant l’acompte, lequel il a déposé par erreur dans le compte bancaire de Gestions. Le chèque aurait dû être déposé dans le compte d’Arbo pour rembourser cette dernière des avances qu’elle avait consenties à Rodney. Cedric a affirmé que c’était la première étape du remboursement des 208 000 $ que Rodney devait à Arbo. Lorsque les propriétés ont été vendues, il y avait sur le prix de vente un montant de 445 000 $ à distribuer.
+[68] Arbo a reçu 135 000 $ sur le produit de la vente des propriétés Bolton. Le produit a été payé sur les fonds du compte du notaire de Rodney, Robert Downey. Selon Cedric, cette somme représentait le remboursement d’une partie des 163 000 $ que Gestions avait avancés à Arbo le 1er septembre 1993 en vue de payer le ministère du Revenu du Québec. En fait, le chèque remis au notaire Downey était d'un montant de 138 000 $, mais ce dernier avait retenu 2 910 $ au titre de ses honoraires pour la première vente des propriétés Bolton par Rodney à Arbo. Le total de 138 000 $ et de 25 000 $ correspond au montant de 163 000 $ que Gestions avait avancé à l’avocat de Rodney le 1er septembre 1993 en vue de payer le ministère du Revenu, a expliqué Cedric.
+[69] Pendant le contre‑interrogatoire, l’avocat de l’intimée a demandé pourquoi Cedric n’avait pas vendu les propriétés Bolton directement à Scierie Labranche Inc. pour la somme de 470 000 $, de façon à réaliser un profit, au lieu de rendre les propriétés à Rodney et d’être payé sur le produit de la vente. L’avocat a également demandé à Cedric à quel moment son père et lui avaient décidé d'annuler l’opération initiale et, à cet égard, à quel moment une contre‑lettre touchant la propriété avait été signée et la raison pour laquelle il y a eu la contre‑lettre.
+[70] Cedric a affirmé qu’autant qu’il s’en souvienne, la contre‑lettre avait été signée le 1er septembre 1993. Il croyait comprendre que la municipalité dans laquelle était située les propriétés Bolton avait informé le notaire Downey que l’on devait signer la contre‑lettre en vue d’éviter des frais de transfert si les propriétés étaient rendues à Rodney pour être ensuite revendues immédiatement à Scierie Labranche Inc. Le notaire Downey a agi comme témoin de la signature de la contre‑lettre et il a signé un affidavit déclarant que cette signature avait eu lieu le 1er septembre 1993.
+[71] Cedric a affirmé qu’il voulait simplement recouvrer l’argent qu’il avait avancé à Rodney. Rodney lui a donné (ou a donné à Arbo) 208 000 $; Rodney a ensuite remis à Cedric une somme de 200 000 $ en remboursement du solde des montants qu’il devait à celui-ci. Cedric a également déclaré que s’il avait vendu les propriétés Bolton directement à Scierie Labranche Inc., Arbo aurait eu un gain en capital.
+[72] Robert Downey a été appelé pour corroborer le témoignage de Cedric, en particulier quant aux dates où les documents avaient été signés. Il a confirmé que Cedric lui avait demandé de constituer une hypothèque pour garantir le prêt de 163 000 $ que Gestions avait consenti à Arbo, mais il ne savait absolument pas de quelle façon le prêt avait été remboursé. Il a également convenu que la contre‑lettre du 1er septembre 1993 avait résulté de discussions qui avaient eu lieu avec la municipalité en vue d’éviter des frais de transfert, et que la signature de l’acte de rétrocession et la seconde vente avaient toutes deux eu lieu le 15 octobre 1993. Certaines inscriptions dans le grand livre de Me Downey pour l’opération conclue avec Scierie Labranche Inc. indiquent la rentrée d’une somme de 445 000 $ le 15 octobre 1993 et des versements de 135 090 $ à Arbo et de 282 000 $ à Cedric le 15 octobre et de 25 000 $ à Cedric le 18 octobre, et enfin le paiement d’une somme de 2 910 $ à Me Downey le 6 janvier 1994. Des copies des chèques ont également été produites.
+[73] Me Downey a également témoigné que Rodney avait transféré les propriétés Bolton à Arbo en vue de s’assurer que les fonds de terre ne soient pas enregistrés en son nom dans le cas où l’administration fiscale québécoise saisirait les propriétés pour non‑paiement de l’impôt exigible; le ministère du Revenu du Québec avait déjà accepté d’accorder une mainlevée, dont l’avis a été publié le 22 octobre 1993. Il a affirmé que la vente avait été conclue pour une raison fiscale aussi; il y avait des montants qui étaient dus à Arbo. Lorsque l’entente du 1er septembre 1993 a été signée, Rodney avait uniquement été avisé de la mainlevée, mais on n’avait pas encore exécuté cette mainlevée. Rodney voulait s’assurer que les titres de propriété étaient libres de toute charge; à la date de la vente, le 1er septembre, il y avait encore des hypothèques légales qui grevaient les propriétés. Me Downey a reçu une copie de la mainlevée le 16 septembre. On lui avait donné une garantie verbale que l’on exécuterait la mainlevée et il avait confiance que l’opération aurait lieu le 1er septembre 1993.
+[74] Lors de l’interrogatoire préalable, Cedric a affirmé qu’après avoir eu des discussions avec son père, il avait accepté d'annuler la vente des propriétés Bolton, mais qu’il voulait qu’on lui rembourse les avances qu’il avait consenties. Il a également affirmé que lorsque est arrivé le jour où l’opération devait être conclue, Me Downey lui a remis une liasse de documents à signer pour annuler les opérations entre Rodney et Arbo relatives aux propriétés Bolton, la date de l'annulation étant le 1er septembre 1993. Il a déclaré que Me Downey lui avait dit que la date du 1er septembre 1993 s'imposait afin d’éviter de payer une double taxe de transfert; en effet, l’administration municipale l’avait informé que s’il voulait éviter de payer deux fois la taxe de transfert, l’accord d’annulation devait être daté du même jour que l’acte par lequel les propriétés avaient été vendues à Arbo. Lors de l’interrogatoire préalable, Cedric a convenu avec l’avocat de l’intimée que le 1er septembre 1993 « c’est vraiment l’intention de vendre ».
+[75] Après qu'on lui eut lu les réponses qu’il avait données lors de l’interrogatoire préalable, Cedric a reconnu avoir signé l’acte de rétrocession le 15 octobre 1993; il a signé l’accord d’annulation daté du 1er septembre 1993, le 13 ou le 14 octobre 1993, même s’il savait à la mi‑septembre que Scierie Labranche Inc. allait acheter la propriété, puisqu’elle avait versé un acompte de 25 000 $. Cedric a déclaré qu’il voulait conserver les fonds de terre jusqu’à la dernière minute, afin de s’assurer que Rodney lui remettrait son argent.
+[76] Dans son avis d’appel modifié, Cedric a reconnu que le notaire Downey avait émis en sa faveur un chèque de 282 000 $. Il a affirmé que l’argent provenait du compte en fiducie du notaire où avait été déposé le produit de la vente par Rodney des propriétés Bolton à Scierie Labranche Inc. Cedric prétend que le chèque aurait dû être libellé au nom de Gestions en remboursement des sommes que celle‑ci avait payées pour le compte de Rodney, et en particulier celles destinées au paiement de l'impôt dû au gouvernement du Québec. Cedric dit avoir fait en sorte qu’on lui remette la somme de 282 000 $ en espèces, en billets de 1 000 $. Pendant le contre‑interrogatoire, il a affirmé avoir remis tout cet argent à Rodney pour que celui‑ci le conserve jusqu’à la mi‑novembre, auquel moment il a pu calculer le montant que Rodney lui devait. Après avoir discuté de la chose avec Rodney, il a conclu que Rodney devait entre 180 000 $ et 200 000 $. Il a affirmé avoir pris 200 000 $ à Rodney et avoir déposé cet argent dans le compte bancaire de Gestions; Rodney a conservé le solde de 82 000 $.
+[77] Cedric a expliqué qu’il devait remettre de l’argent comptant à Rodney parce que tous les comptes bancaires de celui‑ci avaient été saisis par l’administration fiscale et qu’ils étaient bloqués. Il a expliqué que le chèque de 282 000 $ avait été libellé à son nom notamment à cause de la situation de Rodney vis-à-vis des banques. Cedric a déclaré qu’il ne voulait pas lui-même garder l’argent comptant en sa possession.
+[78] En réponse à une question que son avocat lui avait posée, Cedric a dit qu’il croyait que sur le produit de la vente des propriétés Bolton, à savoir 470 000 $, Gestions et Arbo avaient reçu 388 000 $ plutôt que la somme de 408 000 $ qu’il avait mentionné plus tôt au cours de l’instruction, et que Rodney avait reçu 82 000 $.
+[79] Cedric a déclaré que la somme de 200 000 $ n’avait rien à voir avec la somme de 212 000 $ qu’il avait remise à Rodney le 1er septembre 1993.
+[80] Daniel Trépanier est comptable en management accrédité; il exerce seul sa profession. Il a commencé à travailler pour les Cleary en 1990 et, peu de temps après, il a ouvert un cabinet d'expert-comptable. Il préparait les projets d’états financiers pour Rodney et les sociétés de la famille Cleary, ceux‑ci étant ensuite complétés par un cabinet de vérificateurs. L’avocat des appelants lui a montré des documents qu’il avait préparés, dans lesquels étaient enregistrées les sommes que Gestions avait payées pour le compte de Rodney; l'avocat lui a montré aussi des factures de cabinets d’avocats et de cabinets d'experts-comptables adressées à Rodney et dont le montant total s'élevait à 151 393 $. Un montant de 50 810 $, représentant des honoraires d’avocat, a été déduit en 1993 des montants que Gestions devait à Rodney. Au 31 août 1992, Gestions devait 98 814 $ à Rodney; au 31 août 1993 le montant dû à Rodney n’était plus que de 15 664 $.
+[81] M. Trépanier a produit une copie d’un extrait du grand livre général d’Arbo pour la période ayant pris fin le 31 décembre 1993, un extrait de l'état financier d’Arbo pour la période ayant pris fin le 31 décembre 1994, et une analyse des comptes de Gestions pour la période ayant pris fin le 31 août 1994. Selon ces documents, Rodney devait 163 000 $ à Arbo; de son côté, Arbo devait également 163 000 $ à Gestions; le montant de ces dettes a augmenté jusqu’à 190 000 $ chacune. Les livres de Gestions indiquent qu’Arbo a remboursé 180 000 $ (135 000 $ au mois d’octobre 1993 et 45 000 $ au mois de mars 1994).
+[82] L’avocat de l’intimée a interrogé M. Trépanier au sujet du prêt de 212 000 $ que Gestions avait consenti à Cedric. M. Trépanier a produit une analyse des comptes de Gestions pour la période ayant pris fin le 31 août 1994, un relevé bancaire pour la période ayant pris fin le 15 novembre 1993, une copie d’un chèque de 58 675 $ émis par un notaire, Thomas Leonard, à l'ordre d'Arbo, et une copie d’un bordereau de dépôt bancaire portant la date du 10 novembre 1993 apposée au tampon et indiquant un montant de 258 675 $ à déposer dans le compte bancaire de Gestions. En ce qui concerne le prêt que Gestions a consenti à Cedric, la preuve révèle un chèque de 212 000 $ daté du 1er septembre 1993, payable à l’avocat de Rodney, et pour le 10 novembre 1993, un crédit de 258 675 $.
+[83] Malgré la preuve fournie par Daniel Trépanier, le témoignage que Cedric a présenté au sujet du montant de 282 000 $ m’a passablement embêté. Je dois être convaincu, selon la prépondérance des probabilités, que Rodney a uniquement remboursé à Cedric le montant de divers frais que ce dernier avait payés pour son compte. M. Trépanier a de fait corroboré le témoignage de Cedric, à mon avis, pour ce qui est d'un montant de 163 000 $, mais non pour le montant de 200 000 $. En ce qui concerne le solde de 82 000 $, que Cedric affirme avoir remis à Rodney en espèces, je conclus que le témoignage de Cedric prête à confusion, c'est le moins qu'on puisse dire.
+[84] En fait, durant son témoignage, Cedric a d’abord voulu faire croire que lorsqu’il avait reçu les 282 000 $, il avait conservé 200 000 $ et remis le reste à son père, pour ensuite changer son fusil d’épaule et prétendre que c’était son père qui avait conservé les 282 000 $ pendant quelque temps, puis lui avait rendu 200 000 $. Je reproduis les parties pertinentes du témoignage afin d’illustrer ce changement de cap :
+R. J’ai gardé 82 000 $ … j’ai gardé 200 000 $, on avait calculé à peu près 200 000 $ les frais que … les frais encourus dans le dossier du ministère du Revenu du Québec, et je lui ai remis 82 000 $.
+[...]
+Q. Oui, mais pourquoi vous vous étiez gardé 200 000 $, vous? Quand est‑ce que vous avez remis le 82 000 $ à votre père?
+R. Je lui ai remis le 282 000 $ le jour de la transaction.
+Q. Vous avez tout remis à votre père?
+R. Oui. Le dix‑sept (17), je l’ai rencontré de nouveau, ou le vingt (20), puis je lui ai remis, je le lui ai redonné. Il me semble que je lui ai donné ça le jour même.
+[...]
+Q. O.K. Je me trompais. Là, vous dites … ma question c’est :
+Contrairement à ce qui est mentionné par erreur aux paragraphes 5.4 et 5.5 de votre avis d’appel, l’appelant, qui est Cedric Cleary ...
+Je lis, là, l’avis d’appel, la réplique.
+R. Hum, hum.
+Q. … a déposé une somme de 200 000 $ au compte de ladite Gestions et a remis la balance de 82 000 $ à Cedric … à Rodney.
+R. Oui, c’est ça que j’ai dit.
+Q. Ça fait que là, aujourd’hui vous me dites que vous avez remis 282 000 $ à votre père …
+R. Le dix‑sept (17), je l’ai rencontré, alentour du dix‑sept (17) ou dix‑huit (18)…
+Q. O.K.
+R. … octobre, il m’a remis le 200 000 $ puis on s’est organisé comme ça.
+Q. Deux jours après la transaction?
+R. Dix‑sept (17) ou dix‑huit (18), oui[14].
+[85] Il s’agit là d’une contradiction flagrante qui compromet donc la crédibilité du témoignage de Cedric sur ce point.
+[86] Il ne m’est pas difficile de retenir le témoignage de Cedric en ce qui concerne les appels interjetés par Arbo et par Gestions. Je considère que Rodney n’a pas transféré, au sens de l’article 160 de la LIR, les sommes totalisant 160 090 $ à Arbo ni l’acompte de 25 000 $ à Gestions, mais a plutôt remboursé les montants dus à Arbo.
+[87] Par conséquent, les appels interjetés par Arbo et par Gestions sont accueillis et les cotisations de ces sociétés sont annulées. L’appel interjeté par Cedric est également accueilli, mais la cotisation sera déférée au ministre pour qu'il procède à une nouvelle cotisation en tenant compte du fait que Rodney a transféré un montant de 119 000 $ à Cedric[15].
+2000‑2685(IT)G ‑ Cedric Cleary – 30 000 $
+[88] Le ministre allègue que le 6 avril 1989 a été conclu entre Gestions, Rodney et Dominick Auto Sport Ltd. (« Auto Sport ») un contrat de vente d’automobile par lequel Gestions et Rodney ont acheté une Mercedes de l'anné 1989 au prix de 85 020 $. La voiture était immatriculée au nom de Rodney, qui a fait la plupart des versements. C’est Rodney qui utilisait la voiture. De l'avis du ministre, c’était Rodney qui en était vraiment propriétaire.
+[89] Le 10 mai 1995, selon le ministre, Rodney a vendu la Mercedes à Auto Sport pour un montant de 30 000 $. Le même jour, Auto Sport a fait un chèque de 30 000 $ à l'ordre de Rodney pour l’achat de la voiture. Le 9 juin 1995, le chèque a été endossé par Cedric ainsi que par Rodney. Il a été encaissé au comptoir et l'argent remis à Cedric sans aucune contrepartie.
+[90] Le ministre a conclu que Cedric avait reçu de Rodney un avantage d’une valeur de 30 000 $, alors que ce dernier avait une dette de plus de 30 000 $ envers le ministre.
+[91] Cedric a témoigné que son père voulait vendre sa Mercedes et n’avait pas de compte bancaire à Sherbrooke ni nulle part ailleurs, en raison de sa mauvaise réputation financière. C’est pourquoi il aurait demandé à Cedric d’encaisser le chèque et de lui remettre les 30 000 $ en argent comptant. Cedric a dit ne pas se rappeler dans quelles coupures les 30 000 $ avaient été remis par la banque, mais il a avoué qu’il ne « pens[ait] pas que c’étaient des billets de 1 000 $ »[16]. Donc, au minimum, Cedric et son père seraient sortis de la banque avec 300 billets étant donné que la plus grande coupure après le billet de 1 000 $ est le billet de 100 $.
+[92] Afin de mettre en doute la crédibilité du témoin, l’avocat de l’intimée a fait valoir qu'il s'agissait d'un contrat de bail – et non d’un contrat de vente – aux termes duquel la Mercedes avait été louée à Gestions, le 10 mai 1995, au profit de Rodney. Le problème, pour le ministre, est le fait que, le même jour, Rodney aurait téléphoné à Cedric depuis l’établissement du concessionnaire pour qu'il vienne le chercher, alors que Rodney aurait pu tout aussi bien prendre la Mercedes lui‑même pour partir de chez le concessionnaire. Aucune explication n’a été fournie quant au fait que la Mercedes serait demeurée en la possession du concessionnaire. On pourrait penser que Rodney serait parti seul de chez le concessionnaire, sans aller à la banque, pour finalement transférer le chèque à son fils.
+[93] Les explications de Cedric me posent un problème; en effet, ce qu’il dit ne tient pas debout. Cedric ne se souvient pas, par exemple, d’être sorti de la banque avec autant de billets.
+[94] Compte tenu des explications douteuses de Cedric, je suis d’avis que, selon la prépondérance des probabilités, Rodney n’a pas réfuté l'hypothèse du ministre quant au « transfert » de 30 000 $.
+[95] L’appel est donc rejeté.
+2000‑2686(IT)G – Cedric Cleary – 35 000 $
+[96] Le ministre allègue que, le 24 février 1990, Rodney a tiré sur son compte à la Banque de Nouvelle‑Écosse un chèque de 35 000 $ libellé à l’ordre de Cedric, et qu'il l'a fait sans contrepartie. Lors du transfert, Rodney devait de l’argent au ministre.
+[97] Cedric a expliqué que Rodney lui avait remis un chèque de 35 000 $ pour qu’Arbo puisse remplacer son vieux camion qui était « au bout du rouleau ». Il s’agissait d’un prêt selon les dires de Cedric, qui n’a pas pu retrouver le contrat d’achat de ce nouveau camion. Le ministre, de son côté, ne conteste pas le fait qu’un camion a été acheté, mais il croit plutôt qu’il s’agissait d’un don de Rodney, étant donné l’absence de preuve concernant ce « prêt ». Jusqu’à ce jour, le véhicule a toujours été en la possession d’Arbo.
+[98] Je partage l’avis de l’intimée concernant cet appel. L’appelant n’a présenté aucun élément de preuve qui donne même à entendre qu’un prêt avait été consenti. La seule preuve dont je dispose est intéressée et, en l’absence de corroboration, j’hésite dans les circonstances à me fonder sur un tel témoignage.
+[99] L’appel est rejeté.
+2000‑2681(IT)G – Gestions – 265 000 $
+[100] Gestions allègue avoir vendu à Rodney, le 13 avril 1992, pour la somme de 265 000 $, un droit de coupe dans une plantation de sapins de Noël située sur le lot 10 B, rang 13, selon les plans et livres de renvoi officiels du canton de Leeds.
+[101] Selon le contrat qu’il a conclu avec Gestions, Rodney devenait propriétaire absolu desdits arbres jusqu’au 13 avril 1995, « pour couper ou enlever les arbres ». Après le 13 avril 1995, la propriété des arbres revenait à Gestions. Gestions a effectivement reçu 265 000 $ de Rodney.
+[102] Le ministre a produit des rapports dans lesquels Yvon Ouellet, membre agréé de la Corporation professionnelle des évaluateurs agréés du Québec, évalue au 13 novembre 1984 certains lots en cause et estime la valeur marchande, au 13 avril 1992, des droits de coupe afférents aux arbres de Noël. M. Ouellet avertit le lecteur qu’il n’a visité la propriété en question ni en 1984, ni en 2004 lorsqu’il a préparé ses rapports. Il s’est fondé sur des renseignements figurant dans divers dossiers appartenant à des tiers et sur d’autres indices pour arriver à ses conclusions.
+[103] L’appelante n’a pas produit d’évaluations.
+[104] L’appelante a insisté pour dire que lorsque Rodney avait « acheté » les arbres de trois à quatre pieds, il avait l’intention de les vendre comme des petits arbres en pot (« nursery trees »), lesquels devaient avoir une hauteur de trois ou quatre pieds[17]. Toutefois, une fois qu’il aurait acquis son droit de coupe, son seul client éventuel aux États‑Unis, Frank’s Nursery & Kraft (« Frank’s »), aurait décidé de ne pas acheter les arbres. On pourrait se demander pourquoi ce n’est qu’à ce moment, si l’on accepte la thèse de l'appelante, que la valeur du droit de coupe aurait été réduite, et non au moment du transfert, lorsque Rodney aurait encore pu espérer vendre ses arbres en pot. Il faut aussi noter qu’à la suite du transfert plusieurs arbres auraient été endommagés par le gel.
+[105] Selon M. Ouellet, il n'existait de marché pour les petits arbres en pot ni au Québec ni ailleurs durant cette période. Et si un tel marché existait, on n’en connaît pas l’ampleur. Ainsi, M. Ouellet est d’avis que le droit de coupe n’avait aucune valeur. Se fondant sur cette opinion, le ministre conclut que Gestions a reçu un avantage de 265 000 $ de Rodney.
+[106] En guise de réponse à cela, Cedric Cleary a déposé d’abord une liste de prix d’une compagnie en Estrie qui, si l'on se fie à ce qu'indique ce document, vendait des arbres de Noël en pot au prix de 12,50 $ chacun. Il existe également un marché pour de tels arbres dans les États de l’Oregon et de la Caroline du Nord. En fait, M. Church, soit l’un des quatre Américains visés dans l’enquête susmentionnée de l’IRS, vendait des pins blancs dans des petits pots, ce qui aurait donné à Rodney l’idée des arbres de Noël en pot.
+[107] Au surplus, prétend Cedric, Rodney aurait en fin de compte reçu beaucoup plus que la contrepartie valable, étant donné que Cedric lui aurait conféré, pour compenser, un droit de coupe sur un autre de ses terrains parce que Rodney était son père. Cedric a admis que s’il avait plutôt été question d’une personne sans lien de dépendance, il n’aurait probablement pas conféré un droit additionnel, étant donné que la contrepartie valable était le premier droit de coupe. Ainsi, à titre de compensation, Rodney a bénéficié de ce deuxième droit de coupe pendant deux ou trois ans, soit le temps qui lui était nécessaire pour couper tous les arbres puisque, contrairement à ce qui était le cas pour Gestions, il n’avait pas les machines qu’il fallait pour couper les arbres plus rapidement. M. MacDonald est justement l’un de ceux qui ont coupé ces arbres durant trois ou quatre ans, selon son témoignage.
+[108] Je préfère retenir la preuve de Cedric selon laquelle il existait un marché pour les petits arbres en pot. Cedric a exploité une telle entreprise. Il a de l’expérience dans le domaine et connaît le marché. Son témoignage concernant la question de savoir si Rodney avait reçu une contrepartie n’a pas été miné par le contre‑interrogatoire. Par conséquent, cet appel est accueilli.
+2000‑2684(IT)G ‑ Gestions – 670 000 $
+[109] La cotisation visée par l’appel se rapporte à huit transferts qui auraient été effectués par Rodney en faveur de Gestions en 1989. Il s’agit des opérations ci‑après énumérées :
+a) Dépôt de 20 000 $ dans le compte de Gestions
+i) Le ministre allègue que, le 21 juillet 1989, Rodney a déposé 20 000,00 $ dans le compte de Gestions à la Banque de Nouvelle‑Écosse, sans aucune contrepartie.
+ii) Le ministre prétend que Gestions a donc reçu de Rodney un avantage d’une valeur de 20 000 $.
+b) Transfert de 50 000 $ à la société appelante
+i) Le ministre dit que, le 2 octobre 1989, une somme de 50 000 $ a été transférée du compte de Rodney à la Banque de Nouvelle‑Écosse au compte 598‑11 de Gestions à la Banque de Nouvelle‑Écosse, sans aucune contrepartie.
+ii) La cotisation est fondée sur l’hypothèse selon laquelle Gestions a reçu de Rodney un avantage d’une valeur de 50 000 $.
+c) Dépôt d’un chèque de 150 000 $ dans le compte de l’appelante
+i) Rodney a signé un chèque de 150 000 $ en date du 23 octobre 1989 tiré sur son compte à la Banque de Nouvelle‑Écosse et payable à Gestions. Ce chèque a été déposé le 23 octobre 1989 dans le compte 111‑389‑2 de Gestions à la Banque Royale du Canada. Le ministre allègue que Gestions n’a fourni aucune contrepartie.
+ii) Le ministre a conclu que Gestions a donc reçu de Rodney un avantage d’une valeur de 150 000 $.
+d) Chèque de 50 000 $ déposé dans le compte de l’appelante
+i) Selon le ministre, Rodney a signé un chèque de 50 000 $ en date du 6 novembre 1989 tiré sur son compte à la Banque de Nouvelle‑Écosse et payable à Gestions. Ce chèque a été déposé le même jour dans le compte 111‑389‑3 de Gestions à la Banque Royale du Canada.
+ii) Le ministre prétend que Gestions n’a fourni aucune contrepartie et qu'elle a reçu de Rodney un avantage d’une valeur de 50 000 $.
+e) Trois dépôts de 100 000 $ en espèces dans le compte de l’appelante
+Le ministre affirme ce qui suit :
+i) le 9 novembre 1989, Brenda Henderson a déposé pour Rodney une somme de 100 000 $ dans le compte de Gestions à la Banque de Nouvelle‑Écosse;
+ii) le 20 novembre 1989, Brenda Henderson a déposé pour Rodney une somme de 100 000 $ dans le même compte à la Banque de Nouvelle‑Écosse;
+iii) le 24 novembre 1989, Brenda Henderson a déposé pour Rodney une somme de 100 000 $ dans le même compte à la Banque de Nouvelle‑Écosse;
+iv) ces trois dépôts se rapportaient à la vente de terrains par Rodney et Brenda Henderson est dirigeante et administratrice de Gestions;
+v) Gestions n’a fourni aucune contrepartie pour ces trois dépôts et, en recevant les trois chèques de 100 000 $, Gestions a obtenu de Rodney un avantage d’une valeur de 300 000 $.
+f) Commission de 100 000 $
+i) Par contrat en date du 31 mai 1989 et convention y annexée, Gestions a vendu à 166588 Canada Inc. pour la somme de 3 000 000 $ un bien immeuble situé dans la municipalité de Stukely Sud, lequel était composé de sept lots. Le même jour, par et convention y annexée, Rodney a vendu à 166588 Canada Inc. un bien immeuble situé dans la municipalité de Stukely Sud, lequel était également composé de sept lots.
+ii) Pour chacune de ces ventes, une commission de 100 000 $ devait être payée. En plus de payer la commission applicable à son propre contrat, Rodney a payé celle qui était applicable au contrat de l’appelante Gestions.
+iii) Le ministre considère que Gestions n’a fourni aucune contrepartie pour la somme de l00 000 $ que Rodney a payée pour elle, de sorte qu’un avantage de valeur équivalente a été conféré à Gestions.
+iv) Cedric a témoigné avoir seulement vu l'acte de vente le jour même de la vente; il a donc été surpris d’apprendre que, selon l’acte de vente, Gestions et Rodney devaient chacun payer une commission de 100 000 $ à un certain monsieur Hébert pour cette vente. Or, selon Cedric, ce n'est pas du tout ce dont on était convenu. Gestions devait plutôt recevoir 1 000 000 $, et non 900 000 $. Étant donné que les gens présents étaient nerveux (en effet, le service de messageries Loomis avait apporté les 3 000 000 $ en espèces dans un camion) et que Gestions ne s’était jamais engagée à payer des commissions, Gestions a finalement reçu 1 000 000 $, somme qui a en fin de compte été déposée dans son compte bancaire. Selon Cedric, l’acte de vente n’a pas été modifié en fonction de cet état de choses étant donné le court délai. Toujours, selon Cedric, il reste que c’est Rodney qui a été obligé de payer la part de Gestions (le premier transfert dans ce dossier). Lorsque l’avocat de l’intimée l’a confronté avec la déclaration T2 de Gestions, dans laquelle le montant indiqué comme produit de disposition est 900 000 $ plutôt que 1 000 000 $, Cedric a dit :
+Ce n’est pas moi qui l’a rempli, c’est le comptable. J’ai toujours pensé que j’avais payé 1 M$ au compte de banque... Probablement, monsieur le juge, ce qui est arrivé là, c’est que les comptables ont pris le contrat d’achat là, parce que le contrat d’achat n’avait pas été changé... Je suis sûr que c’est ça qui est arrivé.
+iv) Je ne puis retenir la version de Cedric sans corroboration, étant donné qu’elle frôle l'invraisemblable. Rodney a bien transféré, au sens de l’article 160 de la Loi, à Cedric le montant de 100 000 $.
+[110] Quant aux autres transferts visés par cet appel, ils proviendraient, selon l'intimée, d’un montant de 570 000 $ que Rodney a reçu par suite d'une vente à des Suisses, montant qui a été déposé dans le compte de Gestions. Toutefois, selon Cedric, ce montant aurait seulement été déposé dans le compte de Gestions à la demande de Rodney, en vue de permettre à Gestions d’émettre, au nom de Rodney, des chèques payables aux fournisseurs de décorations de Noël à base de sapin. Selon Cedric, et comme il en a déjà été fait mention, Rodney avait une mauvaise réputation sur le plan financier, et les gens préféraient se faire payer au moyen de chèques émis par Gestions.
+[111] Rodney aurait eu des clients notamment au Nouveau‑Brunswick, à New York, à Long Island et au New Jersey. Le transport des marchandises achetées aurait été assuré par Gestions, aux frais de Rodney.
+[112] Les achats de décorations de Noël auraient tous été comptabilisés dans un livre noir contenant des inscriptions effectuées par Rodney ou par son adjointe administrative, Brenda Anderson. Cedric et son père passaient ces achats en revue ensemble afin de déterminer quels fournisseurs avaient été payés et quels fournisseurs ne l’avaient pas été. Selon les calculs qu'a faits Cedric en vue du procès, le montant des achats effectués par Rodney se serait élevé à 640 000 $.
+[113] L’avocat de l’intimée à demandé à Cedric si ce n’était pas réellement Gestions qui achetait les marchandises pour son propre compte à l’aide de l’argent « donné » par Rodney, ce que Cedric a catégoriquement nié. Compte tenu de cette réponse, l’avocat du ministre a tenté, en contre‑interrogeant Cedric, d’établir que la plupart des noms figurant dans le livre noir semblaient indiquer que les sommes étaient dues à Gestions, et non à Rodney. En réponse à cette allégation, l’avocat des appelants a fait venir à la barre des témoins Giles J. Cannon fils, Johanne Cleary ainsi que Daniel Trépanier.
+[114] M. Cannon est propriétaire d'une entreprise d'arbres de Noël et d'une jardinerie, en Pennsylvanie. Il travaille dans ce domaine depuis 50 ans; il a fait des affaires avec Rodney pendant une trentaine ou quarantaine d'années, et ce, jusqu’à 1995 environ. Il ne recevait les factures qu’à la livraison et il payait Rodney par chèque ou en argent comptant, au gré de celui‑ci. Selon M. Cannon, un certain monsieur Mavrod, qui exploite le même genre d’entreprise que lui aux États‑Unis aurait également traité avec Rodney. Enfin, il se souvient du fait que Rodney se promenait avec un livre noir (« black book »), puisqu'il s’agissait, selon M. Cannon, d’une manière peu habituelle de faire des affaires.
+[115] Mme Johanne Cleary est une autre des filles de Rodney. Sa sœur Mary Ann et elle sont, depuis 1993, propriétaires d’une usine de transformation de produits d’érable située près de Thetford Mines, à l’exploitation de laquelle leur père contribuait énormément. Mme Cleary a déclaré que son père s’occupait également de ses branches de sapin à l’automne, tant dans son bureau à l’usine que dans la cour extérieure de l’usine. Autant que sache Mme Cleary, il faisait beaucoup d’affaires aux États‑Unis, et ce, jusqu’à son décès.
+[116] M. Trépanier, de son côté, a simplement confirmé que Rodney avait déposé de l’argent dans le compte bancaire de Gestions entre le 21 juillet et le 24 novembre 1989. L’analyse des dépenses indique un montant de 618 000 $ se rapportant à « des achats de roping, de toutes ces choses‑là ».
+[117] La preuve dans son ensemble m’amène à accepter la version de Gestions, selon laquelle celle-ci détenait simplement les sommes en fiducie pour Rodney. En d’autres termes, même si Cedric a été, juridiquement, propriétaire de ces biens durant une certaine période, la propriété effective aurait été détenue par le débiteur fiscal et par Gestions, de sorte qu'il n'y a pas eu de « transfert ».
+[118] L’appel est accueilli sauf pour le montant de 100 000 $.
+2000‑2683(IT)G – Gestions 194 263 $
+[119] Gestions a fait l’objet d’une cotisation de 194 263 $ du fait qu'elle avait été la bénéficiaire de onze transferts de biens, représentant en tout une somme de 194 263 $, que Rodney aurait effectués en 1990. Il s’agit des transferts suivants :
+a) Chèque de 95 734 $
+i) Un chèque d’un montant de 95 734 $ émis en date du 27 février 1990 à l'ordre de Gestions a été tiré par Rodney Cleary sur son compte à la Banque de Nouvelle‑Écosse, chèque qui a été déposé le 28 février 1990 dans le compte de Gestions à la Banque Royale du Canada.
+ii) Le ministre dit que Gestions n’a fourni aucune contrepartie à Rodney pour ce montant de 95 734 $ et qu’elle a reçu de Rodney un avantage de 95 734 $.
+b) Trois chèques tirés sur le compte à la Caisse populaire de Fleurimont
+i) Rodney a émis en faveur de Gestions un chèque de 15 000 $ en date de 6 août 1990 tiré sur le compte à la Caisse populaire de Fleurimont. Ce chèque a été déposé le 7 août 1990 dans le compte de Gestions à la Banque Royale du Canada.
+ii) Rodney a également émis en faveur de Gestions un chèque de 20 000 $ en date du 10 août 1990 tiré sur le compte à la Caisse populaire de Fleurimont. Ce chèque a été déposé le 10 août 1990 dans le compte de Gestions à la Banque Royale du Canada.
+iii) Rodney a émis en faveur de Gestions un autre chèque, de 10 000 $, en date du 28 août 1990 tiré sur le compte à la Caisse populaire de Fleurimont. Ce chèque a été déposé dans le compte de Gestions à la Banque Royale du Canada.
+iv) Le ministre allègue que Gestions n’a fourni aucune contrepartie à Rodney pour ces trois chèques de 15 000 $, de 20 000 $ et de 10 000 $ et qu’en recevant ces trois chèques, Gestions a obtenu de Rodney un avantage de 45 000 $ en tout.
+c) Dépôt de sept chèques à la Community National Bank
+i) Un chèque d’un montant de 444 $ en date du 10 décembre 1989 provenant de Point Pleasant Garden Center a été fait à l'ordre de Rodney.
+ii) Un chèque d’un montant de 5 000 $ en date du 12 décembre 1989 provenant de David Shannon Florist Inc. a été fait à l'ordre de Rodney.
+iii) Un chèque d’un montant de 11 416 $ en date du 14 décembre 1989 provenant de John F. McCloskey Florist a été fait à l'ordre de Rodney.
+iv) Un chèque d’un montant de 1 000 $ en date du 14 décembre 1989 provenant de Kerensky Florist a été fait à l'ordre de Rodney.
+v) Un chèque d’un montant de 2 430 $ en date du 23 décembre 1989 provenant de John Braut a été fait à l'ordre de Rodney.
+vi) Un chèque d’un montant de 23 239 $ en date du 16 décembre 1989 provenant de Costal Evergreen a été fait à l'ordre de Rodney.
+vii) Un chèque d’un montant de 10 000 $ en date du 19 décembre 1989 provenant de Lake Success Garden Mart a été fait à l'ordre de Rodney.
+viii) Le ministre allègue que ces sept chèques ont été déposés dans un compte de Cleary Evergreen à la Community National Bank; selon le ministre, Cleary Evergreen appartient à Gestions.
+ix) Le ministre allègue que Gestions n’a fourni aucune contrepartie à Rodney à l’égard de ces sept chèques de 53 529 $ au total faits à l'ordre de Rodney et qui ont été déposés dans son compte. Le ministre affirme qu’en recevant ces sept chèques, Gestions a obtenu de Rodney un avantage de 53 529 $ en tout.
+[120] Selon Cedric, les transferts étaient en réalité des dépôts de sommes provenant de la vente de sapins de Noël faits dans le compte de Gestions au profit de Rodney. En d’autres termes, Gestions ne faisait que détenir cet argent, soit 194 263 $ en tout, en fiducie pour Rodney. Selon l’agent de recouvrement, M. Thibault, la pièce B jointe à l’avis de cotisation envoyé en 1999 servirait justement à étaler ces sommes. En comparant la pièce B avec les états financiers de Gestions, M. Trépanier, le comptable des Cleary, est tout de même arrivé à la conclusion que c’était Gestions qui avait inscrit ces sommes comme revenus d’entreprise.
+[121] Dans un « préavis de la première assemblée des créanciers et de la libération automatique du failli (première faillite) dans l’affaire de la faillite de Rodney Cleary » daté du 9 avril 1997, a dit Cedric, on trouve nommés parmi les « créanciers » de Rodney des Américains comme Sammy Church’s Nursery, Belsam Bouquet et Kelco. Selon Cedric, ce préavis étaye le fait qu'il y avait des gens qui devaient de l’argent à Rodney. Cet argument pose, à mon avis, certains problèmes. En premier lieu, les montants se rapportant à ces trois « Américains » (totalisant 256 500 $) sont inscrits dans les passifs de Rodney, et non dans ses actifs. Si ces personnes devaient réellement de l’argent à Rodney, ces montants n’auraient‑ils pas été inscrits dans les actifs de Rodney? En second lieu, même si j’arrivais à la conclusion que ces montants étaient dus à Rodney au 9 avril 1997, il est impossible de savoir à la lecture du préavis pourquoi ils étaient dus. Cedric et Gestions n’ont soumis aucun élément de preuve corroborant cette version des faits présentée par Cedric.
+[122] Selon l’avocat de l’intimée, la position prise par Gestions à l’audience est tout à fait contraire à la position que celle‑ci a adoptée dans son avis d’appel. L’avocat de l’intimée est même allée jusqu’à dire « c’est presque de l’outrage au tribunal ça, Monsieur le juge ». Je reproduis à titre d'illustration les paragraphes suivants tirés de l’avis d’appel :
+5.1 Les sommes déposées ... tous au nom de Les Gestions Rodney Cleary Ltée, et totalisant la somme de 194 263 $ représente le produit de la vente de sapins de Noël à des clients de Les Gestions Rodney Cleary Ltée.
+5.2 Les clients ont cependant fait leur chèque payable à l’ordre de Rodney Cleary ou de Rodney Cleary Junior, le fils de Rodney Cleary, qui avaient la charge de percevoir desdits clients les montants provenant de la vente.
+5.3 Les Gestions Rodney Cleary Ltée a comptabilisé le produit de ses ventes dans ses revenus, a été imposée sur lesdites sommes en conséquence et a payé tous les impôts qui pouvaient être exigibles.
+[123] Lorsque les faits allégués ou une position prise dans un acte de procédure, qu’il s’agisse d’un avis d’appel ou d’une réponse à un avis d’appel, sont sensiblement différents de la preuve présentée à l’instruction ou de la position avancée à l’instruction, cela est toujours troublant. Lorsque pareilles allégations sont énoncées dans un acte de procédure modifié, comme c’est ici le cas, la chose est encore plus déroutante. Il est à supposer que l'objet de la modification de l’acte de procédure est de corriger les erreurs, plutôt que de les aggraver, puisque, en ce faisant, on le rend difficile à l’avocat de la partie adverse de soumettre sa preuve et de préparer son argumentation. Cela agace et indispose le juge qui préside à l’instruction. Dans cette appel, j’hésite à accepter la nouvelle version des faits donnée par l’appelante. Ni l’appelante ni son avocat ne m’ont donné une bonne raison pour la divergence importante entre les versions des faits. De toute façon, je ne puis constater l’exactitude des faits tels qu’ils ont été présentés par l’appelante à l’instruction.
+[124] L’appel est rejeté.
+Les dépens
+[125] Dans ces appels, le succès est partagé entre les appelants et l’intimée. Les avocats de chacune des parties devront soumettre des observations écrites sur la question des dépens dans les 30 jours qui suivront la date du jugement. Il se peut bien que les dépens relatifs à un seul appel soient partagés entre les parties.
+Signé à Ottawa, Canada, ce 24e jour de juin 2005.
+"Gerald J. Rip"
+Juge Rip
+RÉFÉRENCE :
+2005CCI337
+Nos DES DOSSIERS DE LA COUR :
+2000‑2678(IT)G, 2000‑2681(IT)G,
+2000‑2682(IT)G, 2000‑2683(IT)G,
+2000‑2684(IT)G, 2000-2687(IT)G,
+2000-2679(IT)G, 2000-2685(IT)G,
+2000-2686(IT)G, 2000-2680(IT)G
+INTITULÉ DE LA CAUSE :
+Les Gestions Rodney Cleary & Fils Ltée c. La Reine et
+Cedric Cleary c. La Reine et
+177181 Canada Inc. c. La Reine
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATES DES AUDIENCES :
+Les 20, 21, 22, 23 et 24 septembre 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT :
+Le 24 juin 2005
+COMPARUTIONS :
+Avocat des appelants :
+Me Louis Panneton
+Avocat de l’intimée :
+Me Martin Gentile
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Louis Panneton
+Cabinet :
+Fontaine Désy
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada,
+Ottawa (Ontario)
+[1] Comme les parties l’ont fait à l’instruction, dans ces motifs je désignerai parfois Rodney Cleary sous le nom de Rodney et Cedric Cleary sous le nom de Cedric; quant à 177181 Canada Inc., elle a fait l’objet d’une cotisation sous son ancien nom, Arbo‑Culture Ltée.
+[2] Cette idée me semblait bonne lorsqu’elle m’a été proposée au début des audiences, mais j’ai constaté que je devais me montrer extrêmement vigilant en rédigeant ces motifs, de façon à éviter, par exemple, que la preuve présentée dans un appel ou les impressions laissées ne débordent dans un autre appel, ce qui, entre autres choses, a prolongé le temps qu’il m’a fallu pour préparer ces motifs.
+Au début de l’instruction, l’avocat des appelants a déclaré qu’il voulait contester les cotisations relatives aux années 1983 et 1989 de Rodney, le prétendu auteur du transfert des biens en faveur des appelants; je l’ai autorisé à le faire. Voir les paragraphes 6 à 49 de ces motifs. J’ai remis à plus tard ma décision sur le bien‑fondé des cotisations concernant Rodney. L’avocat a de fait produit une preuve dans les appels relatifs aux cotisations établies à l'égard des bénéficiaires des transferts, au cas où je conclurais que les cotisations établies à l’égard de Rodney étaient bonnes.
+La preuve dans les appels numéros 2000‑2679(IT)G et 2000‑2687(IT)G a été entendue séparément. Les appels numéros 2000‑2678(IT)G et 2000‑2680(IT)G ont été entendus sur preuve commune. Ces quatre appels ont été débattus en même temps. La preuve dans les appels numéros 2000‑2685(IT)G et 2000‑2686(IT)G a été entendue séparément, mais les appels ont été débattus ensemble. Les appels numéros 2000‑2682(IT)G et 2000‑2681(IT)G ont été entendus et débattus séparément. La preuve dans les appels numéros 2000‑2684(IT)G et 2000‑2683(IT)G a été entendue séparément, mais les appels ont été débattus ensemble.
+[3] [2000] A.C.F. no 1869 (C.A.F.) (QL), 2000 DTC 6678, paragraphes 6, 7, 8 et 9. Les tribunaux ont appliqué l’arrêt Gaucher à l’article 160 de la Loi de l’impôt sur le revenu et à son équivalent dans la Loi sur la taxe d’accise, soit l’article 325, dans les décisions suivantes : Kirkwood c. Canada, 2003 CAF 481, par. 6 (C.A.F.); Wannan c. Canada, 2003 CAF 423, par. 20 (C.A.F.); Erdmann c. Canada, 2001 CAF 138, par. 2 (C.A.F.); Gestion Yvan Drouin Inc. c. La Reine, 2001 DTC 72, par. 98 (C.C.I.).
+[4] Sept jours avant l’instruction, les appelants ont déposé des avis d'appel modifiés soulevant la question des cotisations de Rodney Cleary pour les années 1983 et 1989; ils ont également déposé des répliques modifiées aux réponses aux avis d’appel. Les avis d'appel initiaux n’énonçaient pas certains faits importants; les avis modifiés n’étaient pas plus utiles, cependant. L’avocat de l’intimée a signifié une liste supplémentaire de documents à l’avocat des appelants le vendredi après‑midi précédant le début de l’instruction le lundi 20 septembre 2004. Je traite de cet aspect plus loin dans ces motifs.
+[5] Rodney Cleary avait initialement fait l’objet d’une cotisation d’impôt pour 1983 fondée sur les renseignements figurant dans sa déclaration de revenu; le montant de la cotisation était de 3,18 $.
+[6] Voir Sage c. Canada, 2004 CCI 528, paragraphes 12 à 14 inclusivement, juge Paris.
+[7] Voir, entre autres, R. c. Kahn, [1990] 2 R.C.S. 531, R. c. Smith, [1992] 2 R.C.S. 915 et R. c. Finta, [1994] 1 R.C.S. 701.
+[8] Sopinka, Lederman et Bryant, The Law of Evidence in Canada, 2e éd., Toronto, Butterworths, paragraphe 6.52, pages 187 et 188.
+[9] R. v. McGrayne (1979), 46 C.C.C. (2d) 63 (C.A. Ont.).
+[10] (1990), 99 N.S.R. (2d) 364 (C.A. N.‑É.).
+[11] [2003] 3 C.F. 493, pages 502 et 503, [2004] 1 C.T.C. 308, page 313.
+[12] Dans sa réponse, l’intimée a déclaré que Rodney devait de l’argent à la Couronne pour les années 1983, 1984 et 1985, ainsi que pour les autres années mentionnées dans ce présent paragraphe. J’ai déjà conclu que les appelants ne doivent pas d’argent pour l’année 1983. Le ministre n’a pas allégué qu’un impôt, des intérêts ou une pénalité étaient dus pour les années 1984 et 1985 : voir le paragraphe 3 de ces motifs.
+[13] Des copies des chèques qui ont été déposés dans le compte en fiducie de l’avocat ainsi que des copies des chèques qui ont été remis au ministre des Finances et au ministre du Revenu ont été produites.
+[14] Notes du 21 septembre 2004, pages 56, 64, 65 et 66.
+[15] La cotisation de Cedric sera réduite de 163 000 $, la différence entre 282 000 $ et 163 000 $ étant de 119 000 $.
+[16] Notes du 21 septembre 2004, à la p. 192.
+[17] Afin de corroborer le témoignage quant à l’intention de Rodney Cleary de vendre les arbres de cette façon, l’avocat de l’appelante a produit en preuve (pièce A‑3) l’interrogatoire de Rodney Cleary dans une affaire dont la Cour fédérale avait été saisie en 1996, interrogatoire dans lequel celui‑ci parle des projets qui devaient être entrepris avec Frank’s. Réal MacDonald, un employé qui travaillait pour Rodney Cleary à l’époque et qui travaille encore pour Gestions, a témoigné que Rodney Cleary lui avait mentionné à un moment donné qu’il achetait le droit de coupe pour son projet d’arbres en pot. D’un autre côté, Cedric Cleary, lorsqu’il a témoigné à l’interrogatoire préalable, n’a jamais mentionné ce projet de vendre les arbres à Frank’s. Lorsqu’il a été confronté ce fait à l’instruction, il a répondu ce qui suit : « Est‑ce que vous me l’avez demandé [à l’interrogatoire préalable]? ». Et on lui a répondu : « ah, bien non, on ne pouvait pas deviner » et « on n’a pas eu besoin de vous le demander aujourd’hui pour que vous veniez le dire ».

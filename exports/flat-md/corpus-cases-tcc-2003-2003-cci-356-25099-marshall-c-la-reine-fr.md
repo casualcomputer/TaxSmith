@@ -1,0 +1,164 @@
+---
+title: "Marshall c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25099/index.do"
+last_modified: "2003-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 356"
+citation2: ""
+neutral_citation: "2003 CCI 356"
+decision_date: "2003-07-08"
+language: "fr"
+item_id: "25099"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2508
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:00:20.413000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "259e14f93975f1d43f57f2a442987a26b2beb3d13b65942a5c79847cae952c66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marshall c. La Reine
+
+- Citation: 2003 CCI 356
+- Decision date: 2003-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2508, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marshall c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-08
+Référence neutre
+2003 CCI 356
+Numéro de dossier
+2002-1584(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1584(IT)I
+ENTRE :
+PAUL MARSHALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 mai 2003 à Toronto (Ontario).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Avocats de l’appelant :
+Richard G. Fitzsimmons et
+Leigh Taylor (stagiaire)
+Avocate de l’intimée :
+Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 8e jour de juillet 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Erich Klein, réviseur
+Référence : 2003CCI356
+Date : 20030708
+Dossier : 2002-1584(IT)I
+ENTRE :
+PAUL MARSHALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little, C.C.I.
+A. FAITS
+[1] L’appelant est père de deux enfants jumeaux, Ryan Marshall (« Ryan ») et Christopher Marshall (« Christopher »). Ryan et Christopher sont nés le 23 décembre 1982.
+[2] En 2000, Ryan et Christopher fréquentaient The Robert Land Academy (l’« académie ») à Wellandport, en Ontario. L’appelant versait à l’académie les frais de scolarité et la pension pour Ryan et Christopher.
+[3] Dans le calcul de l’impôt à payer dans sa déclaration de revenus pour l’année d’imposition 2000, l’appelant a déduit un crédit d’impôt pour frais médicaux de 42 662,00 $ au titre des frais de scolarité et de la pension pour ses fils Ryan et Christopher[1].
+[4] Le ministre du Revenu national (le « ministre ») a refusé le crédit d’impôt pour frais médicaux demandé par l’appelant pour le motif que les documents présentés à l’ADRC ne montraient que pas Ryan ou Christopher souffraient d’un handicap physique ou mental exigeant l’équipement, les installations ou le personnel spécialisés fournis par une école, une institution ou un autre endroit, ou que l’institution fournit de l’équipement, des installations ou du personnel spécialisés pour le soin et la formation d’une personne atteinte d’un handicap physique ou mental.
+[5] Par avis de ratification daté du 1er février 2002, le ministre a déclaré que la somme en question de 42 662,00 $ ne constituait pas des frais médicaux au sens de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu (la « Loi ») et que l’appelant n’avait donc pas droit au crédit d’impôt pour frais médicaux prévu au paragraphe 118.2(1) de la Loi.
+B. QUESTION EN LITIGE
+[6] Il s’agit de savoir si c'est à bon droit que le ministre a refusé le crédit d’impôt non remboursable pour frais médicaux à l’égard de frais de scolarité de 42 662,00 $ pour l’année d’imposition 2000 de l’appelant.
+C. ANALYSE
+[7] Pendant l’audience, l’avocat de l’appelant a produit comme témoin expert le Dr Anthony Richard Eldon Laws. L’avocat de l’appelant a également déposé un rapport rédigé par le Dr Laws.
+[8] Le Dr Laws est titulaire d’un diplôme en médecine décerné en 1986 par l’université McMaster, et il a reçu sa formation spécialisée au département de pédiatrie de l’université Queen's. Le Dr Laws est devenu chargé de cours de médecine clinique à l’université Queen's, et il a fait une sous-spécialisation en pédiatrie du comportement et du développement.
+[9] Le Dr Laws a expliqué qu’il avait axé sa formation sur les enfants qui ont des difficultés d’apprentissage et de comportement.
+[10] Le Dr Laws exerce la médecine à Oakville, en Ontario, depuis 1991.
+[11] L’avocat de l’appelant a demandé au Dr Laws d’expliquer ce qu’est la pédiatrie, et le Dr Laws a répondu ceci :
+[TRADUCTION]
+R. C’est la science et l’art de soigner les enfants.
+Q. Les enfants de la petite enfance à quel âge?
+R. En général, de la naissance à l’âge de 16 ou 18 ans et, à présent, beaucoup d’enfants qui ont des besoins spéciaux pourront atteindre l’âge adulte sans avoir le développement qui correspond à cet âge. J’ai des patients qui ont 18 ou 19 ans ou qui sont au début de la vingtaine, mais en raison de leur état neurologique, leur comportement est peut-être celui d’un groupe d’âge beaucoup plus jeune.
+(Procès-verbal, pages 6 et 7.)
+[12] Lors de l’interrogatoire principal, le Dr Laws a déclaré ceci :
+[TRADUCTION]
+R. Je certifie qu’aux fins de l'application de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu, Ryan Marshall est une personne qui, de janvier 2000 jusqu’à ce jour, en raison d’un handicap physique ou médical, soit le trouble de déficit de l’attention et des handicaps connexes, a eu besoin et continue à présent d'avoir besoin, de l'équipement, des installations et du personnel spécialisés fournis par The Robert Land Academy pour le soin et la formation de garçons adolescents ayant des handicaps semblables aux siens.
+(Procès-verbal, p. 15.)
+R. Je certifie qu’aux fins de l'application de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu, Chris Marshall est une personne qui, de janvier 2000 jusqu’à ce jour, en raison d’un handicap physique ou médical, soit le trouble de déficit de l’attention et des handicaps connexes, a eu besoin, et continue à présent d'avoir besoin, de l’équipement, des installations et du personnel spécialisés fournis par The Robert Land Academy pour le soin et la formation de garçons adolescents ayant des handicaps semblables aux siens.
+(Procès-verbal, p. 18.)
+[13] L’avocat de l’appelant a posé les questions suivantes au Dr Laws :
+[TRADUCTION]
+Q. Maintenant, la dernière question que je voudrais vous poser — je ne suis pas sûr si nous l’avons déjà posée, mais je veux juste m’assurer de le faire — c’est de vous demander si vous pouvez dire à Monsieur le juge quel équipement, quelles installations ou quel personnel spécialisés en particulier sont fournis par cette académie, à la différence de toute autre école ou institution, sont fournis spécialement pour le soin ou pour le soin et la formation d’enfants atteints du trouble de déficit de l'attention. Je pense que nous en avons déjà parlé, mais je veux juste m’assurer que nous l’avons fait.
+R. Avant tout, c’est qu’ils ont un personnel formé pour reconnaître les enfants atteints de ce trouble et pour être capable de travailler avec eux. Le plus important, c’est sans aucun doute le personnel, et je connais le directeur depuis plusieurs années et j’ai eu plusieurs discussions avec lui, et j'ai fait des séances d’information pour certains membres du personnel.
+Ils ont également de l’équipement qui aiderait les enfants lents à apprendre en leur permettant de traiter l’information, notamment celle fournie par la technologie de pointe, les ordinateurs, les laboratoires de langue. Ils ont également, je présume, ce qui est aussi très important, une philosophie qui consiste à déterminer quels enfants ont des besoins spéciaux et à leur montrer que si on peut travailler à surmonter les handicaps, on peut réussir.
+Et c’est une école unique en son genre, et je suis consultant pour un certain nombre d’écoles privées, mais celle-ci a certainement le personnel, les ressources, l’équipement, la discipline, et la philosophie pour s’occuper d’enfants ayant un trouble de déficit de l’attention et d’autres troubles du comportement et problèmes connexes.
+Q. Merci. Enfin, pouvez-vous officiellement confirmer que vous n’avez aucun lien de dépendance avec l’académie? Vous n’êtes pas membre de son personnel? Elle ne vous paie aucune rémunération?
+R. Pas du tout. Ils m’ont envoyé plusieurs patients, et je suis parfois invité à leurs activités sociales. Ils m’ont invité à donner des allocutions, ce que j’ai fait gratuitement parce que je suis impressionné par ce que cette école a fait pour un bon nombre d'élèves par le passé.
+Q. Merci. Je n’ai aucune autre question à poser, Monsieur le juge.
+(Procès-verbal, pp. 19-21.)
+[14] L’avocate de l’intimée a posé les questions suivantes au Dr Laws :
+[TRADUCTION]
+Q. Quelle sorte de traitement exactement Ryan et Christopher ont-ils reçu à la Robert Land Academy?
+R. Le traitement qu’ils ont reçu consiste d'abord dans un environnement discipliné où l’enfant ou l’élève ou le cadet qui fréquente cette école apprend très vite qu'il doit développer un comportement social, et s’il ne se conforme pas à ce code de comportement, il y aura une conséquence, et cette conséquence sera uniforme et constante pour lui. Et c'est le cas non seulement pour ces deux enfants, mais pour tous les cadets qui fréquentent cette école.
+(Procès-verbal, p. 29.)
+[15] Le juge a posé les questions suivantes au Dr Laws :
+[TRADUCTION]
+Une dernière question. Je conclus de vos commentaires que vous donnez à l’académie une cote très élevée comme école privée ayant une excellente philosophie pour les gens qui ont —
+Témoin :
+Pour ceux qui ont cette sorte de trouble, il n’existe que très peu d’écoles au Canada qui ont les installations, les ressources et certainement le personnel que Robert Land possède.
+Monsieur le juge :
+Pourriez-vous éclaircir juste un point? L’équipement et les installations et le personnel fournis par l’académie aident les personnes qui ont ces handicaps?
+Témoin :
+C’est exact.
+(Procès-verbal, pp. 36 et 37.)
+[16] Le Dr Laws a également témoigné qu’il a, à n'importe quel moment donné, entre 900 et 1 000 patients, dont la majorité, soit de 60 à 70 pour 100, sont atteints d’un trouble de déficit de l’attention. (Procès-verbal, p. 35.)
+[17] Je remarque également que, dans une note datée du 13 novembre 2001, le Dr B. Fogel mentionne une rencontre qu'il avait eue avec Ryan et Christopher le 19 avril 2000 et dit : [TRADUCTION] « Ces deux jeunes gens sont atteints d'un trouble de déficit de l’attention. »
+[18] J’ai été très favorablement impressionné par le témoignage du Dr Laws. Ayant soigneusement analysé ce témoignage, je conclus comme suit :
+1. Ryan et Christopher étaient des personnes à la charge de l’appelant pendant l’année d’imposition 2000;
+2. Ryan et Christopher ont tous deux été certifiés par le Dr Laws comme des personnes qui, en raison d’un handicap physique ou mental, ont besoin de l’équipement, des installations et du personnel spécialisés fournis par l’académie pour le soin, ou le soin et la formation, de particuliers ayant des handicaps semblables aux leurs;
+3. La somme de 42 662,00 $ versé par l’appelant au cours de l’année d’imposition 2000 pour le soin et la formation de Ryan et de Christopher constituait des frais médicaux au sens de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu.
+[19] Le paragraphe 118.2(1) prévoit qu’un contribuable peut déduire les frais médicaux payés pendant une période de 12 mois se terminant au cours de l’année. L’appelant a déposé un avis d’appel pour l’année d’imposition 2000. L’information se trouvant aux onglets 20, 21 et 22 de la pièce A-1 ne me permet pas de déterminer à quel moment l’appelant a payé les frais à l’académie. Pour obtenir une déduction relative à l’année d’imposition 2000, l’appelant doit faire savoir aux fonctionnaires de l’ADRC combien il a payé à l’académie au cours de cette année d’imposition.
+[20] L’appel relatif à l’année d’imposition 2000 est accueilli sans dépens.
+Signé à Vancouver (Colombie-Britannique) le 8 juillet 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour d'avril 2005.
+Erich Klein, réviseur
+[1] L’avocat de l’appelant a dit que l’appelant avait en fait versé 50 000,00 $ à l’académie. Toutefois, il n’a pas été établi que le versement de 50 000,00 $ ait été effectué au cours de l’année d’imposition 2000.

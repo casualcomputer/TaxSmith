@@ -1,0 +1,171 @@
+---
+title: "Wilcom Systems Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29550/index.do"
+last_modified: "2009-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 574"
+citation2: ""
+neutral_citation: "2009 TCC 574"
+decision_date: "2009-11-27"
+language: "en"
+item_id: "29550"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6368
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:44:07.639000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e29a80ba1e3329eb4a924dd9983029fbc8afdc8a8dbdc6e4ed38e794b42c095"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wilcom Systems Ltd. v. M.N.R.
+
+- Citation: 2009 TCC 574
+- Decision date: 2009-11-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6368, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilcom Systems Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-27
+Neutral citation
+2009 TCC 574
+File numbers
+2009-1025(CPP)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2009-1024(EI)
+BETWEEN:
+WILCOM SYSTEMS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appellant's CPP
+appeal (2009-1025(CPP)) on October 8, 2009, at Ottawa, Canada.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Caroline Richard
+Counsel for the Respondent:
+Sara Chaudhary
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Employment Insurance Act for the period of January 1st, 2004 to December 31st, 2007 is allowed and the assessments are vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of November 2009.
+"François Angers"
+Angers J.
+Docket: 2009-1025(CPP)
+BETWEEN:
+WILCOM SYSTEMS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appellant's EI
+appeal (2009-1024(EI)) on October 8, 2009, at Ottawa, Canada.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Caroline Richard
+Counsel for the Respondent:
+Sara Chaudhary
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Canada Pension Plan for the period of January 1st, 2004 to December 31st, 2007 is allowed and the assessments are vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of November 2009.
+"François Angers"
+Angers J.
+Citation: 2009 TCC 574
+Date: 20091127
+Dockets: 2009-1024(EI)
+2009-1025(CPP)
+BETWEEN:
+WILCOM SYSTEMS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant was assessed for Canada Pension Plan contributions and Employment Insurance premiums for the years 2005, 2006 and 2007 as a result of the decision by the Minister of National Revenue (the Minister) that for the period from January 1, 2004 to June 14, 2006 one Danny Prince was employed by the appellant in an insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (EIA) and paragraph 6(1)(a) of the Canada Pension Plan (CPP), since there existed between them an employer‑employee relationship.
+[2] The appellant operates a business involved in providing to its clients information technology services, namely planning, implementation and support, with respect to computers. In March of 2002, it entered into a contract with Her Majesty the Queen as represented by the Minister of Natural Resources of Canada (hereinafter referred to as NRCan) to provide first‑level help desk services (for the reporting of technical failures and problems) to NRCan’s Corporate Services sector, to its executive officers and to the Canadian Forest Service. The contract was for a period of two years (from April 1, 2002 to March 31, 2004) with an option for NRCan to renew for three additional one-year periods.
+[3] The first‑level help desk support was to be provided by one help desk supervisor and three help desk agents. The help desk was located on NRCan's premises and NRCan provided all the equipment necessary to perform the work. The services had to be available during NRCan's business hours and be available on an on‑call basis outside business hours.
+[4] Although the contract provided for a maximum lump sum amount to be paid to the contractor, the appellant would invoice NRCan monthly on a per‑diem basis for each agent, who provided services for 7.5 hours per day. To prepare its invoice, the appellant would rely on the invoices submitted by its subcontractors (the agents).
+[5] In order to fill the agent positions, the appellant had a pool of what were described as independent contractors offering their services. Depending on the nature of the contract and the services to be provided, the appellant would post notices and interview and negotiate terms with the independent contractors. The appellant describes these terms as subcontracts entered into on a business‑to‑business basis. It prefers to use independent contractors for business reasons in that it does not owe any loyalty to them, they do not have to be kept on beyond the end of the original contract, and they have all the knowledge and abilities required to provide the services so that there is no need for the appellant to provide any training.
+[6] Danny Prince is a help desk specialist who has taken various courses and received training in the field of customer support and troubleshooting. In 2004, he was told by a friend that NRCan had help desk agents and that there was an opening there. He contacted the help desk supervisor, who directed him to the appellant.
+[7] Negotiations took place and the appellant offered to hire Danny Prince as an employee or a subcontractor. He decided to do as the other agents did and be a subcontractor. The negotiations consisted of offers and counter‑offers with a view to the appellant’s maximizing its profit margin. The subcontractors were not all being paid at the same rate, as the appellant had to meet its target. Danny Prince reasoned that as a subcontractor he would be on his own and that this would be more advantageous to him in that he would be taking care of his own taxes and vacation pay. In other words, and for whatever reasons, subcontracting paid more. He was advised by a co-worker that he needed to register for goods and services tax (GST) purposes and, in general, he saw himself as an independent contractor like the others. Subcontracts were signed and these were subject to the NRCan contract. Danny Price’s services were terminated at the same time as the appellant’s services for NRCan were.
+[8] The subcontract provided for a per diem rate for a workday of 7.5 hours. The duration of the subcontract was determined by the length of time of the original contract with NRCan, and if this contract was extended, the subcontract would be renegotiated and a schedule would be attached to it to reflect the changes. The subcontract clearly states that it is the parties’ intention not to enter into an employer-employee relationship and that the subcontractor is engaged as an independent contractor for the sole purpose of providing a service.
+[9] Danny Prince testified that for the duration of his subcontract he had few dealings with the appellant. It was up to him to deal with the problems that came up in his work. If he was unable to resolve a problem, it would be sent to the second level. The only situation in which he actually dealt with the appellant was with respect to his time sheets. He recorded his time on his computer and prepared a time sheet that had to be co‑signed by NRCan and that formed the basis of his own invoice to the appellant and that was also used by the appellant to invoice NRCan. His own invoicing of the appellant was done on the 15th and 30th day of each month, and he added to the amount invoiced the applicable GST.
+[10] Danny Prince was not supervised per se. He was responsible for his own work, and had his competence been questioned, the issue would have been raised at the appellant's regular meetings with NRCan's representatives. He was not paid if he did not perform, and although he could provide his own replacement, as long as the person he chose was competent and obtained the necessary security clearance, it was usually the appellant that chose his replacement; someone who already had access to the building, knew the security codes and was duly authorized.
+[11] As for on‑call services, the agents used their own computers at home to access those of NRCan and the person on call had a pager that was provided by the appellant. Danny Prince deducted home office expenses on his tax return.
+[12] The help desk supervisor was also a subcontractor for the appellant. He testified that he had no authority over the subcontracted agents. His responsibilities included making sure that the appellant's requirements were met, and to that end he interacted with the appellant and NRCan's representative, one André Arseneault. Mr. Arseneault would approve and sign the agents' time sheets. Mr. Arsenault’s replacement at one point thought he was the agents' manager and tried to change a few things, but was told that the agents were under contract with the appellant and not NRCan.
+[13] The supervisor confirmed that the agents worked out their own schedules. He also said that he did not provide any training to the agents, but did share with them his knowledge of the system. He had no authority to dismiss anyone, and any major problems had to be addressed with the appellant. His presence was required by NRCan to ensure that things were done in an orderly fashion.
+[14] The issue is whether Danny Prince was working as an employee or as an independent contractor in his capacity as a first‑level help desk agent.
+[15] The Supreme Court of Canada dealt with this issue in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. 61 (QL), 2001 SCC 59. Major J. stated the following at paragraphs 46, 47 and 48:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[16] These factors have been found to be very helpful in determining the issue. The total and overall relationship of the parties as well as their intention have to be taken into consideration. The matter of the intention of the parties has been the subject of many decisions by this Court and particularly by the Federal Court of Appeal, in which it has been held that, if the nature of the contract is sufficiently clear, it may not be necessary to have recourse to Sagaz. Décary J.A., in Wolf v. Canada, [2002] 4 F.C. 396, suggested such a possibility in stating the following at paragraph 119:
+Taxpayers may arrange their affairs in such a lawful way as they wish. No one has suggested that Mr. Wolf or Canadair or Kirk-Mayer are not what they say they are or have arranged their affairs in such a way as to deceive the taxing authorities or anybody else. When a contract is genuinely entered into as a contract for services and is performed as such, the common intention of the parties is clear and that should be the end of the search. Should that not be enough, suffice it to add, in the case at bar, that the circumstances in which the contract was formed, the interpretation already given to it by the parties and usage in the aeronautic industry all lead to the conclusion that Mr. Wolf is in no position of subordination and that Canadair is in no position of control. The "central question" was defined by Major J. in Sagaz as being "whether the person who has been engaged to perform the services is performing them as a person in business on his own account". Clearly, in my view, Mr. Wolf is performing his professional services as a person in business on his own account.
+[17] Noël J.A., in the same decision, added at paragraphs 122, 123 and 124:
+I too would allow the appeal. In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight. I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded.
+My assessment of the applicable legal tests to the facts of this case is essentially the same as that of my colleagues. I view their assessment of the control test, the integration test and the ownership of tool tests as not being conclusive either way. With respect to financial risk, I respectfully agree with my colleagues that the appellant in consideration for a higher pay gave up many of the benefits which usually accrue to an employee including job security. However, I also agree with the Tax Court Judge that the appellant was paid for hours worked regardless of the results achieved and that in that sense he bore no more risk than an ordinary employee. My assessment of the total relationship of the parties yields no clear result which is why I believe regard must be had to how the parties viewed their relationship.
+This is not a case where the parties labelled their relationship in a certain way with a view of achieving a tax benefit. No sham or window dressing of any sort is suggested. It follows that the manner in which the parties viewed their agreement must prevail unless they can be shown to have been mistaken as to the true nature of their relationship. In this respect, the evidence when assessed in the light of the relevant legal tests is at best neutral. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner that was consistent with this relationship, I do not believe that it was open to the Tax Court Judge to disregard their understanding (compare Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 (P.C.), at page 170).
+[18] That approach was followed by the Federal Court of Appeal in Combined Insurance Company of America v. Minister of National Revenue, 2007 FCA 60, and Le Livreur Plus Inc. v. Minister of National Revenue, 2004 FCA 68.
+[19] Applying now the above principles, I conclude that the evidence in this case does not support a finding that the appellant and Danny Prince did not genuinely and wilfully enter into a contract for services or that their relationship was set up on the basis of such contract in order to obtain a benefit not otherwise available to them. Granted, the appellant saw a benefit in subcontracting its work, but in my opinion, that falls within the realm of a business decision that facilitates the calculation of one’s cost of doing business, that provides the ability to let personnel go at the end of their contracts, or that is based on other valid business considerations.
+[20] As for Danny Prince, he was clearly given a choice and chose to provide his services as an independent contractor instead of being in an employer‑employee relationship. He may simply have been following the lead of the other help desk agents, but the fact he would be making more money was an important consideration to him. The subcontract between the appellant and Danny Prince is a valid, binding contract wilfully and consensually entered into. Interference by this Court in such a business transaction would require a determination that the factors referred in Sagaz weigh heavily in favour of an employer-employee relationship.
+[21] I do not find an analysis of those factors to be necessary in this case as the evidence heard clearly puts the matter in the so-called grey area in which the factors point in both directions. The positions in question herein required already fully trained professionals as there was no actual control of the work: once work was assigned, the worker was left to control that work himself. The tools and equipment were the property of NRCan, although Danny Prince had to have his own computer at home. Opportunity for profit or risk of loss is not a determinative factor here even though Danny Prince could deduct home office expenses or sometimes lose money if he missed a day's work. Danny Prince's inability to hire a replacement was partly due to security reasons, but the fact that any replacement had to be a trained person justifies the appellant's intervention in order to assure the fulfilment of the contract.
+[22] In fact, on consideration of some of the factors, these could easily point in the direction of an employer-employee relationship between Danny Prince and NRCan. Mr. Prince was well integrated into NRCan’s day-to-day operations. NRCan provided the tools and the work was performed on its premises. There was a certain degree of control being exercised by Mr. Arseneault on a day-to-day basis. That relationship, however, is not before the Court.
+[23] I therefore find that Danny Prince was not employed in an insurable or pensionable employment with the appellant. The appeal is allowed and the assessments in both appeals are vacated.
+Signed at Ottawa, Canada, this 27th day of November 2009.
+"François Angers"
+Angers J.
+CITATION: 2009 TCC 574
+COURT FILE NOS: 2009-1024(EI), 2009-1025(CPP)
+STYLE OF CAUSE: Wilcom Systems Ltd. and M.N.R.
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: October 8, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: November 27, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Caroline Richard
+Counsel for the Respondent:
+Sara Chaudhary
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Caroline Richard
+Firm: Bird Richard
+Ottawa, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

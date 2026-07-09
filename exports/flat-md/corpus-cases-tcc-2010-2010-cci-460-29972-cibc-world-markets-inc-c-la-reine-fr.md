@@ -1,0 +1,614 @@
+---
+title: "CIBC World Markets Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29972/index.do"
+last_modified: "2010-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 460"
+citation2: ""
+neutral_citation: "2010 CCI 460"
+decision_date: "2010-09-08"
+language: "fr"
+item_id: "29972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6456
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:36:12.612000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc10d3ae756ba3512e7ccde309cc3a223c43ee40b13eaaf25ab747fda1123abc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CIBC World Markets Inc. c. La Reine
+
+- Citation: 2010 CCI 460
+- Decision date: 2010-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6456, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CIBC World Markets Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-08
+Référence neutre
+2010 CCI 460
+Numéro de dossier
+2007-3926(GST)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-3926(GST)G
+ENTRE :
+CIBC WORLD MARKETS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 février 2010 à Toronto (Ontario)
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocats de l’appelante :
+Me Sean C. Aylward
+Me Martha K. MacDonald
+Me Al Meghji
+Avocats de l’intimée :
+Me Marilyn Vardy
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise relativement à la période allant du 1er novembre 1999 au 31 octobre 2000 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2010.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 19e jour de janvier 2011.
+François Brunet, réviseur
+Référence : 2010 CCI 460
+Date : 20100908
+Dossier : 2007-3926(GST)G
+ENTRE :
+CIBC WORLD MARKETS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] CIBC World Markets Inc. interjette appel d’une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (la « LTA ») pour la période allant du 1er novembre 1999 au 31 octobre 2000. Dans la cotisation établie pour 2000, le ministre du Revenu national (le « ministre ») n’a pas permis à l’appelante de réviser ses demandes de crédits de taxe sur les intrants (« CTI ») (les « demandes révisées ») pour 1998 et 1999 dans sa déclaration de taxe sur les produits et services (« TPS ») pour 2000. Suivant le ministre, l’appelante ne peut utiliser une méthode de répartition des CTI différente (la « méthode révisée ») dans sa déclaration de 2000 pour demander des CTI pour 1998 et 1999 alors que les montants déjà demandés pour ces années ont été calculés selon une méthode juste et raisonnable (la « méthode initiale ») suivie par l’appelante tout au long de chacune des années en question (articles 141.01, 169 et 225 de la LTA[1]).
+[2] L’appelante interjette également appel de la pénalité qui lui a été imposée en vertu de l’alinéa 280(1)a) de la LTA au motif qu’elle avait fait preuve de diligence raisonnable pour calculer et demander des CTI et pour tenter par ailleurs de se conformer aux obligations que lui impose la LTA. Le ministre se demande si l’appelante a le droit de soulever cette question, si elle a fait preuve de diligence raisonnable pour empêcher le défaut de verser la taxe nette et si elle peut contester l’imposition de la pénalité. L’avocate de l’appelante a déclaré que, si sa cliente obtenait gain de cause, la pénalité devait être annulée et que, si sa cliente était déboutée, la pénalité demeurait. Elle a admis tout moyen de défense fondé sur la « diligence raisonnable ».
+[3] Les faits suivants sont constants :
+A.
+L’appelante est une société de services financiers résidant au Canada qui est une filiale à cent pour cent de la Banque Canadienne Impériale de Commerce (la CIBC), une institution financière à exploitation diversifiée résidant au Canada.
+B.
+L’appelante est une institution financière inscrite sous le régime de la Loi sur la taxe d’accise (Canada) (la « LTA ») aux fins de la taxe sur les produits et services (la « TPS »).
+C.
+L’exercice de l’appelante aux fins de la TPS commence le 1er novembre et se termine le 31 octobre.
+D.
+L’appelante a produit sa déclaration de TPS :
+a)
+le 1er février 1999 pour l’exercice 1998 (la déclaration de TPS de 1998);
+b)
+le 31 janvier 2000 pour l’exercice 1999 (la déclaration de TPS de 1999);
+c)
+Le 31 janvier 2001 pour l’exercice 2000 (la déclaration de TPS de 2000).
+E.
+L’appelante a exercé ses activités au sein de diverses divisions au cours des exercices 1998, 1999 et 2000, y compris la Division des placements des clients privés (la Division des PCP).
+F.
+Les montants de TPS payés ou exigibles par la Division des PCP s’établissaient comme suit :
+a)
+3 157 271 $ pour l’exercice 1998 ( la TPS de 1998 de la Division des PCP);
+b)
+2 525 187 $ pour l’exercice 1999 ( la TPS de 1999 de la Division des PCP);
+c)
+3 581 460 $ pour l’exercice 2000 ( la TPS de 2000 de la Division des PCP).
+G.
+L’appelante a demandé en tout 214 378 $ en crédits de taxe sur les intrants (« CTI ») relativement à la TPS de 1998 de la Division des PCP dans ses déclarations de TPS de 1998 et de 1999. On a calculé le montant demandé en multipliant la TPS de 1998 de la Division des PCP par un taux de recouvrement de 6,79 pour cent.
+H.
+L’appelante a demandé 152 774 $ en CTI dans sa déclaration de TPS de 1999 de la Division des PCP en fonction d’un taux de recouvrement de 6,79 pour cent. On a obtenu le montant demandé en multipliant la TPS de 1999 de la Division des PCP par un taux de recouvrement de 6,05 pour cent.
+I.
+L’appelante a employé une méthode fondée sur les extrants (revenu) (la « méthode initiale ») pour déterminer les taux de recouvrement de 6,79 pour cent et de 6,05 pour cent qui ont respectivement été utilisés pour calculer les montants de CTI demandés susmentionnés.
+J.
+La méthode initiale est juste et raisonnable et l’appelante l’a suivie tout au long des exercices 1998 et 1999.
+K.
+Le ministre du Revenu national (le « ministre ») a fait droit aux demandes de CTI formulées dans les déclarations de TPS de 1998 et de 1999 de la Division des PCP, à l’exception de certains rajustements qui ne sont pas en litige dans le présent appel.
+L.
+L’appelante a demandé un montant additionnel de 577 781 $ en tant que CTI pour la TPS de 1998 de la Division des PCP dans sa déclaration de TPS de 2000. On a obtenu ce montant en multipliant la TPS de 1998 de la Division des PCP par un taux de recouvrement de 25,09 pour cent et en soustrayant ensuite les CTI se rapportant à la TPS de 1998 de la Division des PCP qui avaient déjà été demandés et accordés (ce calcul est reproduit à la page 2 de l’annexe J du ministre jointe aux présents motifs sous l’onglet A)[2].
+M.
+L’appelante a également demandé un montant additionnel de 466 402 $ en tant que CTI pour la TPS de 1999 de la Division des PCP dans sa déclaration de TPS de 2000. On a obtenu ce montant en multipliant la TPS de 1999 de la Division des PCP par un taux de recouvrement de 24,52 pour cent et en soustrayant ensuite les CTI se rapportant à la TPS de 1999 de la Division des PCP qui avaient déjà été demandés et accordés (ce calcul est reproduit à la page 2 de l’annexe I du ministre jointe aux présents motifs sous l’onglet B)[3].
+N.
+Dans sa déclaration de TPS de 2000, l’appelante a demandé des CTI de 897 941 $ à l’égard de la TPS de 2000 de la Division des PCP. On a obtenu ce montant en multipliant la TPS de 2000 de la Division des PCP par un taux de recouvrement de 25,07 pour cent.
+O.
+L’appelante a employé une méthode fondée à la fois sur les intrants et les extrants (la « méthode révisée ») pour calculer respectivement les taux de recouvrement de 25,09 pour cent, de 24,52 pour cent et de 25,07 pour cent susmentionnés aux paragraphes 12, 13 et 14.
+P.
+Aux fins de la présente instance seulement, l’intimée convient que la méthode révisée est une méthode juste et raisonnable.
+Q.
+Si la Cour conclut que l’appelante avait par ailleurs le droit de demander les montants de 577 781 $ et de 466 402 $ (mentionnés aux paragraphes 12 et 13 précités)[4] dans sa déclaration de TPS de 2000, l’intimée convient que les montants ont été demandés avant l’expiration du délai de prescription de deux ans prévu au paragraphe 225(4) de la LTA.
+R.
+Le ministre a établi le montant dû par l’appelante pour l’exercice 2000 conformément à la LTA par avis de cotisation portant le no 05B 11549 et daté du 17 décembre 2004 (la « cotisation »).
+S.
+Dans cette cotisation, le ministre a fait droit à la demande de CTI pour la TPS de 2000 de la Division des PCP, mais il a refusé les CTI additionnels demandés à l’égard de la TPS de 1998 de la Division des PCP (c.‑à‑d. 577 781 $) et de la TPS de 1999 de la Division des PCP (c.‑à‑d. 466 402 $). Le ministre a également imposé une pénalité et des intérêts dans cette cotisation en vertu du paragraphe 280(1) de la LTA.
+T.
+L’appelante a contesté la cotisation le 14 mars 2005 et le ministre a, par un avis de décision daté du 26 juin 2007, ratifié la cotisation, dans la mesure où elle se rapportait à la TPS de 1998 et de 1999 de la Division des PCP.
+U.
+L’appelante a contesté la cotisation le 14 mars 2005 et le ministre a, par un avis de décision daté du 26 juin 2007, ratifié la cotisation, dans la mesure où elle se rapportait à la TPS de 1998 et de 1999 de la Division des PCP.
+[4] Les seuls autres éléments de preuve sont des « extraits » de l’interrogatoire préalable d’Ashish Patel, vérificateur à l’Agence du revenu du Canada, qui était chargé de vérifier la déclaration de TPS de 2000 de l’appelante, et qui représentait la Couronne, et de l’interrogatoire préalable de Stephen Bobkin, qui au moment de son interrogatoire, le 15 septembre 2008, était directeur principal, taxes sur les marchandises, à la Banque Canadienne Impériale de Commerce, la société mère de l’appelante. M. Bobkin était autorisé à représenter l’appelante.
+[5] En règle générale, les inscrits[5] ont, en vertu du paragraphe 169(1)[6] de la LTA, le droit de demander des CTI pour la TPS payée ou exigible sur les biens et les services acquis dans le cadre d’une activité commerciale. Un CTI relatif à un bien ou à un service déterminé survient au cours de la période de déclaration au cours de laquelle la TPS est payée ou à payer par l’inscrit relativement à l’acquisition du bien ou du service en question.
+[6] Les inscrits calculent leur « taxe nette » pour chaque période de déclaration dans leur déclaration de TPS annuelle. En règle générale, la taxe nette correspond au montant que l’on obtient en soustrayant du montant total de TPS perçu ou à percevoir les CTI demandés par l’inscrit (paragraphe 225(1)). Si le montant de la taxe nette est positif, l’inscrit doit payer l’excédent au fisc; si le montant est négatif, l’inscrit a droit à un remboursement de taxe[7].
+[7] La Division des PCP de l’appelante exerce un certain nombre d’activités, commerciales et autres, de sorte qu’elle doit déterminer le pourcentage qui représente la mesure dans laquelle elle a acquis ou importé des biens ou des services pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales (paragraphe 169(1)). La LTA ne précise aucune méthode ou formule de calcul du pourcentage qui représente la mesure dans laquelle des biens ou des services ont été acquis ou importés pour être utilisés en partie dans le cadre d’activités commerciales et en partie dans le cadre d’autres activités. Le paragraphe 141.01(5) exige simplement que les méthodes de répartition soient « justes et raisonnables et suivies tout au long d’un exercice[8] ». L’inscrit peut demander la totalité ou une partie des CTI qu’il a ainsi calculés dans la déclaration qu’il produit pour la période de déclaration au cours de laquelle la taxe est payé sur l’intrant. Sinon, l’inscrit peut également opter de demander en totalité ou en partie les crédits en question dans une déclaration ultérieure mais avant l’expiration du délai de prescription prévu au paragraphe 225(4) de la LTA.
+[8] L’appelante est une « personne déterminée[9] » de sorte qu’elle doit demander un CTI avant l’expiration du délai de prescription de trois ans prévu au sous‑alinéa 225(4)a)(iii), c’est-à-dire au cours de la période de déclaration durant laquelle la TPS a été payée ou était exigible ou dans une déclaration portant une des deux périodes de déclaration suivantes. Il est constant que les CTI révisés ont été demandés avant l’expiration de ce délai de prescription. De plus, avant de produire la déclaration de TPS dans laquelle il demande un CTI, l’inscrit doit avoir obtenu les pièces justificatives à l’appui du montant du CTI à déterminer (paragraphe 169(4), alinéa 225(3)a) et Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH). L’appelante a également satisfait à ces exigences.
+[9] Suivant l’appelante, la Cour est appelée à se prononcer en l’espèce sur la question suivante: aux fins d’une demande de CTI, la méthode par laquelle elle a réparti les intrants entre ceux qui avaient été utilisés dans le cadre d’une « activité commerciale » et ceux qui avaient été utilisés dans le cadre d’une « activité exemptée » est-elle « juste et raisonnable », et a-t-elle été utilisée tout au long de chacun des exercices 1998 et 1999 comme l’exige l’article 141.01 de la LTA sans contrevenir à l’article 225 de la LTA?
+[10] Suivant l’intimée, la Cour doit plutôt répondre à la question suivante : l’appelante a-t-elle le droit de demander des CTI additionnels pour sa période de déclaration de 2000 à l’égard de la taxe payée sur les intrants au cours de ses périodes de déclaration de 1998 et de 1999? L’appelante a eu recours à une méthode de calcul de ses CTI pour 1998 et 1999 qui était juste et raisonnable comme l’exige le paragraphe 141.01(5) et elle a utilisé cette méthode tout au long de chacune des périodes de déclaration de 1998 et de 1999. Les déclarations de TPS produites par l’appelante pour les périodes de déclaration de 1998 et de 1999 étaient exactes, dans la mesure où elles correspondaient au pourcentage d’utilisation des biens et des services acquis par la Division des PCP de l’appelante dans le cadre de ses activités commerciales pour chaque période de déclaration. La thèse de l’intimée est qu’une fois qu’il a réparti correctement ses CTI pour un exercice, l’inscrit ne peut changer de méthode par la suite. La thèse de l’appelante ne peut être retenue que s’il est établi que le paragraphe 225(3) l’autorise à formuler sa demande et qu’elle a utilisé la méthode révisée « tout au long de l’exercice », comme le prévoit le paragraphe 141.01(5) de la LTA.
+[11] La méthode initiale utilisée pour déterminer les CTI de la Division des PCP pour 1998 et 1999 était fondée sur les extrants et s’est traduite respectivement par des pourcentages de 6,79 et de 6,05 pour cent de TPS payée ou exigible pour les exercices 1998 et 1999 dans le cadre d’activités commerciales. Les CTI ont été demandés en fonction de ces pourcentages dans les déclarations de TPS de 1998 et de 1999. La méthode nouvelle ou révisée utilisée pour la déclaration de TPS de 2000 était fondée à la fois sur les intrants et les extrants. En suivant la méthode révisée, on a calculé que 25,09 pour cent et 24,52 pour cent de TPS payée ou exigible respectivement pour les exercices 1998 et 1999 étaient attribuables à des activités commerciales. L’appelante a demandé des CTI dans sa déclaration de TPS de 2000 de 18,3 pour cent et de 18,47 pour cent respectivement pour 1998 et 1999, c’est-à-dire la différence entre 25,09 pour cent et 6,79 pour cent pour 1998 et la différence entre 24,52 pour cent et 6,05 pour cent for 1999.
+[12] L’appelante soutient qu’elle a demandé des CTI « additionnels » dans sa déclaration de TPS de 2000 relativement aux CTI de 1998 et de 1999 de la Division des PCP (ce montant additionnel est parfois appelé [traduction] « crédit contesté »). L’appelante a déclaré que les CTI qu’elle avait demandés dans sa déclaration de TPS de 2000 visaient à récupérer la partie de la TPS de 1998 et de 1999 relativement à la Division des PCP qu’elle n’avait pas encore demandée, en l’occurrence 18,3 pour cent et 18,47 pour cent respectivement.
+[13] La manière dont l’appelante a calculé ses demandes initiales de CTI pour 1998 et 1999 est expliquée aux alinéas G, H et I, au paragraphe 3 des présents motifs. Le calcul des montants de CTI demandés pour 1998 et 1999 en utilisant la méthode révisée est exposé aux alinéas L, M et O, au paragraphe 3 des présents motifs.
+[14] Le paragraphe 141.01(5) de la LTA dispose :
+(5) Seules des méthodes justes et raisonnables et suivies tout au long d’un exercice peuvent être employées par une personne au cours de l’exercice pour déterminer la mesure dans laquelle :
+(5) The methods used by a person in a fiscal year to determine
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins;
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d’une fourniture taxable pour une contrepartie ou à d’autres fins.
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+[15] Une des conditions prévues au paragraphe 141.01(5) est que la méthode employée par l’inscrit au cours de l’exercice pour calculer ses CTI doit être juste et raisonnable. Il n’est pas controversé, en l’espèce, que la méthode initiale et la méthode révisée satisfont toutes les deux à l’exigence du paragraphe 141.01(5) quant au caractère juste et raisonnable de la méthode. Et, ainsi que la Cour d’appel fédérale l’a expliqué, dès lors que la méthode employée est juste et raisonnable, il ne m’appartient pas de choisir la meilleure méthode parmi une série de méthodes justes et raisonnables, mais bien de vérifier si la méthode employée par le contribuable satisfait aux critères énoncés par la loi (Magog (Ville) c. R.[10]). L’inscrit est libre d’employer toute méthode juste et raisonnable pour calculer ses CTI.
+[16] Suivant l’appelante, l’expression « suivies tout au long d’un exercice […] par une personne » que l’on trouve au paragraphe 141.01(5), signifie simplement que l’inscrit ne peut changer de méthode au milieu d’une année; en d’autres termes, on ne peut pas avoir recours à une méthode pour calculer la TPS payée ou exigible au cours de six premiers mois de l’année et opter pour une autre méthode pour les six derniers mois afin de tenter de maximiser ses demandes de CTI. L’appelante ajoute que le paragraphe 141.01(5) ne vise pas à [traduction] « empêcher de réviser la méthode ». À l’appui de sa thèse, elle cite les Notes techniques[11] publiées en septembre 2009 relativement au texte proposé de l’alinéa 141.02(16)b)[12] :
+[…] Les alinéas 141.02(16)a) et b) prévoient respectivement que la méthode doit être juste et raisonnable et qu’elle doit être suivie tout au long de l’exercice de l’institution financière (en d’autres termes, l’institution financière ne peut changer de méthode en cours d’exercice). Ces conditions sont les mêmes que celles, prévues au paragraphe 141.01(5), qui s’appliquent aux méthodes d’attribution des crédits de taxe sur les intrants en général.
+[Non souligné dans l’original.]
+[17] Dans l’affaire Chu c. The Queen[13], mon collègue le juge Little, qui interprétait l’alinéa 118(5)a) de la Loi de l’impôt sur le revenu dans le cadre de l’appel d’une cotisation d’impôt sur le revenu, a expliqué que le terme anglais « throughout », lorsqu’il est utilisé dans le contexte d’une période de temps, signifie « pendant toute la période » et qu’une « année » signifie une période de 12 mois. Ainsi, l’expression « tout au long de l’année » signifie toute la période de 12 mois, allant du 1er janvier au 31 décembre, de l’année d’imposition concernée ou, dans le cas d’un exercice, la période de 12 mois consécutifs comprise entre le premier jour du premier mois et le dernier jour du dernier mois de l’exercice.
+[18] L’avocate de l’appelante fait valoir que, comme l’appelante a eu recours à la méthode révisée [traduction] « de façon constante au cours des exercices 1998, 1999 et 2000 », l’appelante s’est conformée aux exigences du paragraphe 141.01(5)[14]. Elle a eu recours à la même méthode tout au long de l’exercice tant en 1998 qu’en 1999. L’appelante s’est abstenue de changer de méthode au milieu d’un exercice de sorte que, selon son avocate, l’expression en question ne lui imposait aucune autre condition.
+[19] L’intimée affirme que la méthode fondée sur les extrants (revenus) à laquelle l’appelante avait d’abord eu recours pour calculer ses crédits de taxe sur les intrants de 1998 et de 1999 était une méthode juste et raisonnable et que l’appelante y avait eu recours tout au long de l’exercice au cours des périodes de déclaration de 1998 et de 1999. Les déclarations de TPS produites par l’appelante pour chacune de ses périodes de déclaration de 1998 et de 1999 étaient exactes.
+[20] L’avocate de l’intimée s’est appuyée sur les observations du juge Noël dans la décisionVille de Magog[15] suivant lesquels il n’appartient pas à notre Cour de décider si une autre méthode, comme la méthode révisée invoquée par l’appelante, est « meilleure » ou « plus fidèle » que la méthode initiale, étant donné que les deux méthodes sont justes et raisonnables. Il est soutenu, bien que la méthode révisée permette d’obtenir un taux de récupération de taxe plus élevé pour l’appelante, cela ne rend pas en soi la méthode révisée « plus fidèle », plus approximative ou « plus » juste et raisonnable. Le fait que l’appelante aurait été placée dans une situation plus avantageuse sur le plan économique si elle avait choisi d’avoir recours à la méthode révisée pour ses exercices 1998 et 1999, au lieu de la méthode initiale, ne donne pas à la Cour le droit de refuser de donner effet à la méthode initiale pour laquelle l’appelante a délibérément opté et qu’elle a de son plein gré suivie dans ses déclarations de 1998 et de 1999.
+[21] Suivant l’intimée, la LTA ne permet pas à l’inscrit de remplacer rétroactivement la méthode juste et raisonnable qu’il a adoptée et suivie au cours d’un exercice antérieur. Suivant l’avocate de l’intimée, on ne trouve dans la LTA aucune disposition qui mentionne que l’inscrit qui souhaite suivre, pour calculer le crédit de taxe sur les intrants auquel il a droit pour un exercice antérieur, une méthode qui est différente de celle qu’il a déjà employée au cours de cet exercice antérieur, l’inscrit est réputé ne pas avoir suivi la méthode originale ou initiale au cours de l’exercice antérieur, mais est réputé avoir suivi plutôt la nouvelle méthode. Elle ajoute que le paragraphe 141.01(5) ne parle pas de la méthode employée au cours de l’exercice ou de toute autre méthode juste et raisonnable que l’inscrit peut souhaiter adopter et appliquer à l’exercice avant l’expiration du délai de prescription prévu par la LTA.
+[22] L’avocate de l’intimée affirme que le législateur n’a tout simplement pas consacré un mode de remplacement de la méthode juste et raisonnable employée au cours d’un exercice donné. Ce n’est pas par hasard que le législateur n’a inséré dans la LTA aucune disposition permettant l’application rétroactive d’une ou de plusieurs méthodes différentes à un exercice antérieur. Cette omission s’accorde parfaitement avec l’intention du législateur de ne pas permettre aux inscrits de remplacer après coup la ou les méthodes employées au cours d’un exercice déterminé. À l’appui de sa thèse, l’avocate de l’intimée cite les Notes explicatives du projet de loi C-62 portant sur l’ancien article 147, qui a été remplacé par le paragraphe 141.01(5) :
+Cet article stipule que lorsqu’un inscrit demande un crédit de taxe sur les intrants, il doit répartir les intrants entre les fournitures à l’aide de méthodes justes et raisonnables dans les circonstances. L’inscrit peut choisir la méthode qu’il veut, pourvu qu’elle soit juste et raisonnable. Cependant, lorsqu’il a choisi une méthode pour un exercice, il doit utiliser cette méthode au moins jusqu’à la fin de cet exercice ou jusqu’à ce qu’elle ne soit plus raisonnable.
+[Passage non souligné dans l’original]
+On trouve les observations suivantes dans les Notes explicatives du projet de loi C-13 au sujet du paragraphe 141.01(5) :
+Comme il est mentionné ci-dessus, lorsque des biens ou des services sont acquis ou importés, ou consommes ou utilisés, en partie afin d’effectuer des fournitures taxables et en partie à d’autres fins, l’interaction des paragraphes 141.01(2) et (3) et de l’article 169 entraîne la répartition de la taxe payable relativement aux biens ou aux services aux fins du crédit de taxe sur les intrants applicable. Le paragraphe 141.01(5) prévoit essentiellement que la méthode de répartition doit être juste et raisonnable et suivie tout au long de l’exercice. Il vise à imposer aux inscrits la même obligation que l’article 147 de la Loi, qu’il remplace. La formulation de la règle a tout simplement été adaptée aux nouveaux paragraphes 141.01(2) et (3).
+[Passage Passage non souligné dans l’original]
+[23] Selon l’avocate de l’intimée, en l’espèce, nous avons affaire à un exemple de planification fiscale rétroactive, expression à laquelle l’avocate de l’appelante s’est opposée. L’appelante tente de se soustraire aux inconvénients que comporte sa décision de suivre la méthode fondée sur les extrants (revenus) dans ses exercices 1998 et 1999. Elle souhaite modifier rétroactivement le pourcentage de l’utilisation qu’elle a faite de ses intrants dans le cadre de ses activités commerciales pour les périodes de déclaration de 1998 et de 1999, aux fins du paragraphe 169(1) de la LTA, parce qu’elle s’est depuis rendu compte qu’elle aurait retiré des avantages fiscaux supérieurs au cours des exercices 1998 et 1999 si elle avait choisi une méthode différente pour répartir ses intrants[16].
+[24] L’appelante, en revanche, insiste pour dire qu’elle s’est conformée au paragraphe 225(3) qui, selon son avocate, vise uniquement à empêcher les inscrits de prendre en compte deux fois les CTI et d’autres déductions, sauf dans certaines circonstances bien précises. Elle cite les Notes techniques de juillet 1997 :
+Le paragraphe 225(3) vise à éviter la double prise en compte d’un montant qui serait porté en réduction de la taxe nette pour une période de déclaration. Sous réserve des cas spéciaux visés aux nouveaux alinéas 225(3)a) et b), la modification apportée au paragraphe 225(3) sert à préciser que lorsqu’un montant est « demandé » dans une déclaration, il ne peut être demandé de nouveau, qu’il soit ou non admissible à un crédit de taxe sur les intrants ou à une déduction dans la déclaration initiale.
+[Non souligné dans l’original.]
+[25] L’alinéa 225(3)b) dispose :
+225(3) Un montant n’est pas à inclure dans le total visé à l’élément B de la formule figurant au paragraphe (1) pour la période de déclaration donnée d’une personne dans la mesure où il a été demandé ou inclus à titre de crédit de taxe sur les intrants ou de déduction dans le calcul de la taxe nette pour une période de déclaration antérieure de la personne. Le présent paragraphe ne s’applique pas si les conditions suivantes sont réunies :
+225(3) An amount shall not be included in the total for B in the formula set out in subsection (1) for a particular reporting period of a person to the extent that the amount was claimed or included as an input tax credit or deduction in determining the net tax for a preceding reporting period of the person unless
+[...]
+…
+b) si la personne demande le montant dans une déclaration pour la période donnée et que le ministre ne l’ait pas refusé à titre de crédit de taxe sur les intrants lors de l’établissement d’une cotisation visant la taxe nette de la personne pour la période antérieure :
+(b) where the person is claiming the amount in a return for the particular reporting period and the Minister has not disallowed the amount as an input tax credit in assessing the net tax of the person for that preceding reporting period,
+(i) la personne déclare au ministre par écrit, au plus tard au moment de la production de la déclaration visant la période donnée, qu’elle a commis une erreur en demandant le montant dans le calcul de sa taxe nette pour la période antérieure,
+(i) the person reports in writing to the Minister, at or before the time the return for the particular reporting period is filed, that the person made an error in claiming that amount in determining the net tax of the person for that preceding period,
+and
+(ii) si elle ne déclare pas l’erreur au ministre […]
+(ii) if the person does not report the error to the Minister …
+[26] L’appelante n’a pas procédé à une double prise en compte, comme son avocate le soutient. La demande révisée n’est que le résultat de l’ajout du crédit contesté, lequel n’avait jamais été demandé en tout ou en partie en tant que CTI dans les déclarations de TPS de 1998 et de 1999 de l’appelante. L’appelante soutient que, pour demander le crédit contesté pour 1998 et pour 1999, elle s’est conformée aux exigences du paragraphe 225(3) puisqu’elle s’est abstenue de prendre en compte deux fois les CTI et les autres déductions. Son avocate conclut que, dès lors qu’il n’y a pas de double prise en compte, le paragraphe 225(3) est respecté.
+[27] L’appelante soutient que, comme elle n’a pas demandé la totalité des CTI dans ses déclarations de TPS de 1998 et de 1999 et qu’elle a par conséquent versé un montant trop élevé de TPS au ministre, elle a le droit de corriger sa déclaration de TPS de 2000 pour demander les CTI qu’elle a omis de demander en 1998 et en 1999 et pour demander le remboursement de la TPS versée en trop.
+[28] L’avocate de l’appelante soutient qu’en adoptant le régime fiscal de la taxe à la valeur ajoutée de préférence à tout autre régime, le législateur est parti du principe fondamental de la pleine récupération de la TPS payée ou à payer par tout inscrit pour acquérir des biens ou des services en vue d’effectuer une fourniture taxable dans le cadre d’une activité commerciale[17]. Suivant l’avocate de l’appelante, le refus du montant contesté va à l’encontre de l’objectif fondamental du régime de la TPS. L’appelante a demandé un montant insuffisant de CTI dans ses déclarations de TPS de 1998 et de 1999 relativement à la TPS de 1998 et de 1999. Ce montant correspondait aux montants en litige. L’appelante a corrigé son erreur dans sa déclaration de TPS de 2000 avant l’expiration du délai de prescription applicable. L’avocate de celle-ci persiste à dire que refuser cette correction irait à l’encontre de l’objet des CTI du régime de la TPS.
+[29] Lors de son interrogatoire préalable, M. Patel a confirmé que lorsqu’il avait établi la cotisation à l’égard de l’appelante, le ministre avait présumé que le choix de la méthode était considéré comme un « choix » qui est « effectué » au moment de la production de la déclaration de TPS pour la période applicable mais [traduction] « qui ne peut être appliqué rétroactivement pour remplacer un choix déjà fait et modifier ainsi une déclaration déjà produite ». Suivant M. Patel, lorsqu’elle a produit sa déclaration de TPS initiale pour 1998 et 1999 selon une méthode déterminée, l’appelante a exercé pour chaque année un choix qui ne peut être modifié par la suite, sauf dans le cas des deux exemples prévus au paragraphe 225(3).
+[30] L’appelante, contrairement au ministre, refuse de qualifier d’irrévocable le choix excercé en faveur de la méthode de répartition qu’elle a retenue puisqu’une telle interprétation ne découle notamment pas de l’analyse textuelle, contextuelle et téléologique des paragraphes 225(3) et 141.01(5). D’ailleurs, suivant l’avocate de l’appelante, l’interprétation du ministre a pour effet le retrait irrégulier à l’appelante de son droit aux CTI qui ont été demandés avant l’expiration du délai de prescription applicable et qui découlent de la TPS payée ou exigible qui n’a pas été demandée dans une déclaration antérieure.
+[31] L’avocate de l’appelante a fait valoir que ni le paragraphe 225(3) ni le paragraphe 141.01(5) ne s’expriment en termes de choix. La sélection d’une méthode de répartition ne constitue pas l’exercise d’un choix. Elle a signalé que les mots « choisir » et « choix » sont employés à plus d’une soixantaine de reprises dans les dispositions de la LTA relatives à la TPS et elle a conclu que le législateur est présumé employer de façon constante les mots et les expressions dans les dispositions législatives portant sur le même sujet[18]. L’appelante fait valoir que, si la sélection de la méthode de l’inscrit constitue effectivement un choix, on aboutirait à une [traduction] « situation injustifiée et déraisonnable ». Selon l’avocate de l’appellante, l’arrêt Nassau Walnut Investments Inc. c. R.[19] enseigne que, comme la Loi de l’impôt sur le revenu n’autorise pas expressément l’exercice tardif d’une désignation ou d’un choix, cela ne donne en fait lieu qu’à une présomption réfutable quant à la possibilité d’exercer ou non cette désignation ou ce choix. Cette présomption peut être réfutée lorsque, notamment, le refus de reconnaître l’exercice tardif de la désignation ou du choix est injustifié ou déraisonnable.
+[32] Le paragraphe 141.01(5) confère à l’inscrit la liberté compléte de choisir la méthode de calcul des CTI, pourvu qu’elle soit juste et raisonnable et suivie tout au long de l’exercice. Pour exercer ce choix, l’inscrit tient normalement compte d’autres méthodes de répartition en fonction de leur utilité, des risques courus et de la capacité de maximiser les CTI qui peuvent être demandés. Une fois que le choix a été exercé et qu’il figure dans la déclaration de TPS, le ministre en tient compte lorsqu’il examine la demande de CTI portant sur une période en cause.
+[33] La jurisprudence canadienne enseigne qu’une fois exercé, le choix est opposable au contibuable, définitif et irrévocable. Dans l’arrêt Savage c. Wilby,[20] le juge en chef Richards de la Division d’appel de la Cour suprême du Nouveau-Brunswick cite les observations de lord Blackburn de la Chambre des lords dans l’arrêt Scarf c. Jardine[21] :
+[traduction]
+Et à la page 621 : Si j’ai bien saisi, le principe qui se dégage de toute la jurisprudence en ce qui concerne le notion de choix est le suivant : que lorsque, dans son esprit, l’intéressé a hésité entre deux solutions, il conserve sa liberté, et ce, même s’il l’a écrit sur un bout de papier ou l’a indiqué d’une autre manière; toutefois, dès lors qu’il a non seulement arrêté son choix, mais qu’en outre il l’a porté à la connaissance de l’autre partie de manière à amener celle-ci à entendre qu’il a fait son choix, sa décision est prise et il ne peut plus y revenir.
+[Non souligné dans l’original.]
+[34] Il n’est pas nécessaire que je me prononce sur la question de savoir si la décision prise en vertu du paragraphe 169(1) et la méthode employée suivant le paragraphe 141.01(5) constituent un choix.
+[35] Le paragraphe 169(1) de la LTA énonce la formule de calcul du CTI par la personne qui y a droit. Le B de la formule dépend de la méthode juste et raisonnable qui est suivie tout au long de l’exercice par l’inscrit (paragraphe 141.01(5)). Lorsque l’inscrit détermine le montant du CTI et le demande dans sa déclaration pour la période, le fisc se fonde sur ce renseignement. Permettre de réviser une demande qui n’est entachée d’aucune erreur serait source d’incertitude sur le plan fiscal, ce que le législateur ne saurait souhaiter.
+[36] L’appelante se fonde jusqu’à un certain point sur les dispositions du paragraphe 225(4) pour justifier son droit de réviser ses demandes de CTI. Le paragraphe introductif du paragraphe 225(4) dispose :
+225(4) La personne qui demande un crédit de taxe sur les intrants pour sa période de déclaration donnée doit produire une déclaration aux termes de la présente section au plus tard le jour suivant : [...]
+225(4) An input tax credit of a person for a particular reporting period of the person shall not be claimed by the person unless it is claimed in a return under this Division filed by the person on or before the day that is …
+[37] Selon ce texte, la personne qui demande un CTI pour une période visée dans une déclaration de TPS doit produire sa déclaration dans un délai déterminé. Or, sauf erreur, l’appelante a déjà produit de telles demandes pour 1998 et 1999. L’alinéa 225(4)a) reconnaît les problèmes que l’inscrit peut avoir avec des fournisseurs qui, par exemple, n’ont peut-être pas demandé de taxe, ce qui n’est pas le cas en l’espèce. L’alinéa 225(4)a) ne vise pas la production de demandes subséquentes pour la même période dans d’autres circonstances.
+[38] L’avocate de l’appelante cite un arrêt récent dans lequel la Cour suprême a refusé au ministre le droit de conserver des versements en trop de TPS. Dans l’affaire United Parcel Service Canada Ltd. c. Canada[22], la Couronne soutenait que le ministre avait le droit de conserver un paiement en trop de TPS notamment parce que le contribuable n’avait pas respecté les règles de procédure à suivre pour demander un remboursement[23]. Dans un arrêt unanime, la Cour suprême a rejeté la thèse de la Couronne en ce qui concerne le droit au remboursement et elle a consuré en totalité la cotisation établie par le ministre. Ainsi que le juge Rothstein, qui s’exprimait au nom de la Cour, l’a expliqué : « Je crois que le ministre est malvenu de soulever un tel argument [relatif à la possibilité d’une demande frauduleuse de remboursement] eu égard aux faits de l’espèce, alors qu’il a reconnu qu’un montant de TPS a été payé en trop et qu’il soutient avoir le droit de conserver ce montant »[24]. Suivant l’appelante, refuser le montant contesté payé par erreur et permettre au ministre de conserver le versement excédentaire correspondant de TPS feraient violence à la jurisprudence UPS.
+[39] En l’espèce, nous ne sommes pas dans le même cas de figure qui celui de la décision UPS. En effet, un distinguo s’impose en l’occurrence : l’appelante n’a pas commis d’erreur ou omis de suivre la procédure lorsqu’elle a demandé ses CTI en 1998 et en 1999. Au contraire, elle a bel et bien suivi la procédure prévue et ainsi reçu ce qu’elle avait demandé dans ses déclarations initiale des 1998 et 1999. Elle a obtenu ce qu’elle avait demandé.
+[40] Il n’est pas controversé que la méthode initiale employée par l’appelante pour ses exercices 1998 et 1999 était « une méthode juste et raisonnable » au sens du paragraphe 141.01(5). Il me senble pouvoir présumer que l’appelante a fait de son mieux pour suivre la méthode initiale de calcul de ses CTI pour 1998 et 1999. L’appelante soutient qu’elle a commis une erreur en choisissant d’employer la méthode initiale. La possibilité que l’inscrit fasse une erreur et souhaite la corriger est prévue au paragraphe 225(3). Si j’ai bien compris, l’erreur peut avoir porté sur le choix de la « méthode initiale » qui, avec le recul, ne précisait pas les CTI additionnels que l’appelante aurait découverts en employant la méthode révisée. L’appelante affirme qu’elle a corrigé les montants obtenus en suivant la méthode initiale lorsqu’elle a choisi la méthode révisée avant l’expiration du délai prévu au paragraphe 225(4).
+[41] Le paragraphe 225(3) interdit l’inclusion d’un montant dans le total de B au paragraphe 225(1) pour une période de déclaration déterminée dans la mesure où ce montant a été demandé ou inclus en tant que CTI ou en tant que déduction dans le calcul de la taxe nette de la période de déclaration précédente, à moins que l’intéressé n’ait pas eu le droit de demander ce montant parce qu’il ne pouvait satisfaire aux exigences du paragraphe 169(4) au moment de la production de la déclaration pour la période précédente, ou encore à moins qu’une erreur n’ait été commise lors du dépôt de la déclaration pour la période de déclaration déterminée et que le ministre en ait été avisé. Aucune de ces exceptions ne joue en l’espèce. Dès lors que l’inscrit calcule le CTI conformément à l’article 169, il n’a pas le droit de formuler d’autres demandes en vertu du paragraphe 225(3).
+[42] J’ai déjà expliqué pourquoi les faits de la présente procédure n’entrent pas dans les prévisions du paragraphe 225(4). Il n’est donc pas nécessaire de rechercher si l’appelante a commis l’erreur envisagée par cette disposition. En tout état de cause, je ne crois cependant pas que l’adoption de la méthode révisée pour découvrir les montants révisés de CTI visait à corriger une erreur. On ne m’a produit aucun élément de preuve tendant à établir que la demande initiale a été formulée par erreur : elle était le résultat d’une méthode qui, ce que nul ne conteste, était juste et raisonnable, comme l’exige le paragraphe 141.01(5). Il n’y a ni erreur de droit ni erreur de fait et je relève que, dans l’affaire Victoria and Albert Trustees c. The Commissioners of Customs and Excise[25], le juge Turner était appelé à décider si, sous le régime de la Value Added Tax Act, 1994 du Royaume-Uni et de ses règlements d’application, la personne faisait une erreur en modifiant sa méthode initiale de répartition entre les biens acquis pour son entreprise et ceux qu’elle avait acquis à d’autres fins. Voici ses observations :
+[traduction]
+La jurisprudence est bien fixée : le mot « erreur » à l’article 64 du Règlement doit recevoir une interprétation large; cela dit, il faut rechercher si, en utilisant la méthode de répartition fondée sur les revenus pour faire leurs déclarations, les fiduciaires ont commis une erreur. S’ils avaient été forcés de faire leurs déclarations de cette manière, alors qu’en droit ils ne pouvaient pas être forcés de le faire, on pourrait utilement soutenir que les fiduciaires avaient commis une erreur. Mais la seule chose qui s’est effectivement produite, c’est qu’après avoir consulté une source indépendante, les fiduciaires ont été en mesure de concevoir, en vue de la production des déclarations, la méthode qui aboutissait à des résultats plus favorables. Voici ce que le tribunal a conclu sur cet aspect de l’affaire (voir les pages 13 et 14) :
+[…] Nous ne pouvons accepter que le mot « erreur » ait un sens aussi large que ce que soutient M. Thomas. À notre avis, le contribuable qui a adopté une méthode de répartition qui est acceptable et qui n’a pas commis d’erreur dans l’application de cette méthode ne saurait logiquement être considéré comme ayant commis une « erreur » du simple fait qu’il aurait pu choisi une autre méthode acceptable qui lui aurait permis d’obtenir un montant différent.
+C’est à bon droit que le tribunal a tiré cette conclusion. Aucune erreur de fait ou de droit n’a été commise : les fiduciaires ont simplement mal évalué ce qui était le plus avantageux pour eux. L’argument des fiduciaires ne saurait à mon sens aboutir à une autre issue. Ils ont affirmé que le mot « erreur » devait être interprété de façon large et logique, pour permettre à l’entrepreneur qui a commis une erreur de droit ou de fait de rectifier ses déclarations et de se faire ainsi rembourser ce qu’il a payé en trop. Il me semble que les fiduciaires sont dans l’impossibilité de démontrer en quoi consistait l’erreur, à savoir une erreur de fait, de droit ou autre. Comme la conclusion que je tire au sujet de l’annexe J le démontre, aucune erreur de droit n’a été commise. La seule erreur de fait qui est invoquée est que la méthode d’établissement de la cotisation qui a été choisie n’a pas abouti au résultat le plus favorable. Cette méthode ne comportait par ailleurs pas d’erreur intrinsèque de fait ou de droit.
+Pour les motifs qui ont déjà été exposés, le tribunal a, à mon avis, rendu une décision bien fondée et le présent appel doit être rejeté.
+[43] L’appelante invoque le paragraphe 141.01(5) pour soutenir que la méthode révisée a été suivie tout au long de l’exercice tant en 1998 qu’en 1999. Il n’y a pas eu de changement de méthode au cours d’un exercice. Je rejette cette thèse.
+[44] En premier lieu, je trouve très injuste l’idée que la LTA exclut une modification au cours de l’exercice mais qu’elle l’autorise une fois cet exercice clos. Si la méthode doit être suivie tout au long de l’exercice, c’est notamment parce qu’il ne doit pas y avoir une double prise en compte; cela n’est pas controversé. Toutefois, si l’on permet à l’intéressé de modifier la méthode suivie tout au long de l’exercice une fois que l’exercice est clos, on fait échec à la raison pour laquelle la méthode doit être suivie tout au long de l’exercice. La seule chose que l’inscrit aurait à faire s’il se rend compte au milieu de l’exercice qu’il existe une méthode plus avantageuse, consisterait pour lui à suivre la méthode « inférieure » tout au long de l’exercice et, le lendemain de la clôture de l’exercice, de changer la méthode pour une autre qui donne de meilleurs résultats sur le plan fiscal. Je ne crois pas que telle était l’intention du législateur.
+[45] En second lieu, ajouter un montant, en l’occurrence le crédit contesté, aux montants demandés dans la déclaration initiale de TPS de 1998 et de 1999 ne constitue pas une correction apportée à la méthode initiale suivie tout au long des exercices en question lorsque le montant du crédit contesté est fondé sur une méthode complètement différente. L’inscrit ne peut proroger le délai de prescription pour choisir une autre méthode. L’appelante soutient qu’elle ajoute simplement le montant du crédit contesté à la demande antérieure de CTI. Lorsqu’elle a préparé sa déclaration de TPS de 2000 pour réviser les demandes de 1998 et de 1999, l’appelante a en fait pris les montants de TPS qu’elle avait payés et les a multiplié par les nouveaux taux pour ensuite en soustraire les montants qu’elle avait demandés dans des déclarations antérieures. Ou, pour l’exprimer plus succinctement, le crédit litigieux ne fait que « compléter » les demandes initiales de CTI de 214 378 $ et de 152 774 $ pour 1998 et 1999 respectivement. Cependant, en réalité, il correspond à plus : le soi-disant crédit litigieux s’inscrit dans le cadre d’une demande générale qui comprend les montants initiaux demandés plus les crédits contestés, qui sont des montants additionnels, les deux montants correspondant au total obtenu en employant une méthode différente de celle qui avait été utilisée au départ pour les demandes initiales. Je ne trouve rien de convaincant dans l’argument de l’appelante suivant lequel elle a suivi la méthode révisée « tout au long de l’exercice » au cours de l’exercice 1998 ou de l’exercice 1999, comme il est prévu au paragraphe 141.01(5).
+[46] L’appel est par conséquent rejeté avec dépens.
+Signé à Ottawa, Canada, ce 8e jour de septembre 2010.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 19e jour de janvier 2011.
+François Brunet, réviseur
+ANNEXE A
+[traduction]
+Rajustements de périodes précédentes (1998)
+CTI additionnels
+demandés ($)
+CTI accordés
+par l’ARC
+Rajustements
+de l’ARC ($)
+Description des CTI additionnels demandés
+A
+B
+A - B
+Notes
+Rajustement de la formule TVH
+Modification au calcul MAS
+63 063
+(24)
+(63 087)
+(1)
+CTI additionnels pour l’exercice
+(i) Suppression des dividendes de LLC
+(ii) Modification du taux de recouvrement de PCI
+(iii) Modification de l’actif et du passif
+Activités détaxées (rapports Darwin)
+(943 229)
+0
+943 229
+(2)
+Total
+(880 166)
+(24)
+880 142
+Notes
+Rajustement de périodes précédentes no 1 (63 063 $)
+(1) Le rajustement de l’ARC est calculé de la façon suivante : (voir aussi la fiche 9B)
+Rubrique
+Ligne
+Montant
+Note(s)
+Selon la vérification
+TPS de 7 % payée au cours de l’exercice selon CIBC WMI
+020
+14 670 212
+(i)
+Moins : CTI révisés demandés par CIBC WMI (4 191 906 $)
+021
+(4 191 906)
+Plus : CTI révisés no 2 (selon la déclaration de 2000) refusés par l’ARC (943 229 $)
+943 229
+(ii)
+CTI révisés no 1 (selon la déclaration de 1999) refusés par l’ARC (139 913 $ - 31 155 $)
+108 000
+(iii)
+Selon les rajustements de vérification antérieurs des CTI demandés (TPS seul. pour l’exercice 1998 (1 652 864 $)
+1 652 864
+(iv)
+TPS irrécouvrable
+022
+13 182 399
+Pourcentage de répartition pour les provinces participantes (révisé)
+023
+2,83 %
+TPS irrécouvrable imputable aux provinces participantes
+024
+373 062
+Composante provinciale de la TVH (024 * 8/7)
+025
+426 356
+Moins : Composante provinciale de la TVH payée (8%)
+026
+(124 368)
+Composante provinciale nette de la TVH
+027
+301 989
+Rajustement pour tenir compte des montants prescrits
+028/030
+0
+Total net de la composante provinciale
+029/031
+301 989
+Selon CIBC WM1
+Moins : Total net de la composante provinciale déclarée à la ligne 104 de la déclaration initiale de TPS/TVH
+165 556
+Écart (sous-évaluation)
+136 433
+Moins : Écart antérieurement calculé selon la vérification de l’exercice 1998
+(119 209)
+(v)
+Écart antérieurement calculé selon le rajustement no 1 de la période précédente (dans la déclaration de l’exercice 1999)
+(17 248)
+(vi)
+(24)
+en raison des arrondissements
+Notes
+(i) Tel qu’il est précisé dans la feuille de travail résumant la TPS payée par division fournie par CIBC WMI avec les pièces justificatives du calcul révisé no 2 de la TVH
+(ii) Ainsi que précisé plus loin
+(iii) et (vi) Tel qu’il est précisé dans nos rajustements de vérification de l’exercice 1999 que nous vous avons fournis en janvier 2004
+(iv) et (v) Tel qu’il est précisé dans nos rajustements de vérification de l’exercice 1998 que nous vous avons fournis en janvier 2003
+ARC - Confidentiel
+Page 1/2
+Page : ii
+Rajustements de périodes précédentes (1998)
+(2) Rajustements de l’exercice précédent no 2 (943 229 $)
+(i)
+Le montant des dividendes de LLC antérieurement inclus dans les revenus de ZR ont déjà été rajustés dans notre vérification fiscale de 1998 (voir les rajustements communiqués en janvier 2002). Aucun autre rajustement n’est donc nécessaire. Voir la fiche 9E.
+(ii)
+Voir la fiche 9C pour le refus des modifications apportées au taux de recouvrement de PCI
+(iii)
+Voir la fiche 9D pour le refus des modifications apportées à l’actif et au passif de NR selon les rapports « Darwin » révisés
+Divisions
+Taux de recouvrement révisé selon déclaration de 1999
+(A)
+Taux de recouvrement révisé selon déclaration de 2000
+(B)
+(B - A) = (C)
+Le montant révisé de TPS payée est identique au montant initialement déclaré (D)
+(C) * (D)
+IB
+53,94 %
+64,93 %
+10,99 %
+2 153 369
+236 655
+GTS
+7,48 %
+9,42 %
+1,94 %
+1 354 710
+26 281
+FP
+0,00 %
+0,00 %
+0,00 %
+369 961
+0
+EQ
+5,39 %
+9,83 %
+4,44 %
+2 301 855
+102 202
+PCI
+6,79 %
+25,09 %
+18,30 %
+3 157 271
+577 781
+Sous-total
+942 920
+Montant demandé
+943 229
+Écart (petites entités intermédiaires)
+(309)
+arrondi
+ANNEXE B
+[traduction]
+Rajustements de périodes précédentes (1999)
+CTI additionnels
+demandés ($) par CIBC WMI
+CTI accordés
+par l’ARC
+Rajustements
+de l’ARC ($)
+Description des CTI additionnels demandés
+A
+B
+A - B
+Notes
+Rajustement de la formule TVH
+54 608
+0
+(54 608)
+(1)
+CTI additionnels pour l’exercice
+(i) Modification du taux de recouvrement de PCI
+(ii) Modification de l’actif et du passif
+Activités détaxées (rapports Darwin)
+(562 886)
+0
+562 886
+(2)
+Total
+(508 278)
+0
+508 278
+Notes
+Rajustement de périodes précédentes no 1 (54 608 $)
+(1) Voir les calculs ci-après et la fiche 9A
+Rubrique
+Ligne
+Montant
+Note(s)
+Selon la vérification
+TPS de 7 % payée et déclarée au cours de l’exercice
+020
+13 177 802
+(i)
+Moins : CTI révisés demandés (3 525 736 $)
+021
+(3 525 736)
+Plus : CTI révisés refusés (562 886 $)
+562 886
+(ii)
+Selon les rajustements de vérification antérieurs des CTI demandés à 7 % pour l’exercice 1999 (1 235 964 $)
+1 235 964
+(iii)
+TPS irrécouvrable
+022
+11 450 916
+Pourcentage de répartition pour les provinces participantes (révisé)
+023
+2,572 %
+TPS irrécouvrable imputable aux provinces participantes
+024
+294 518
+Composante provinciale de la TVH (024 * 8/7)
+025
+336 591
+Moins : Composante provinciale de la TVH payée (8 %)
+026
+(53 581)
+Composante provinciale nette de la TVH
+027
+283 010
+Rajustement pour tenir compte des montants prescrits
+028/030
+0
+Total net de la composante provinciale
+029/031
+283 010
+Selon CIBC WM1
+Moins : Total net de la composante provinciale déclarée à la ligne 104 de la déclaration initiale de TPS/TVH
+175 526
+Écart (surévaluation de la TVH)
+107 484
+Moins : Écart antérieurement calculé selon la vérification de l’exercice 1999
+(107 484)
+(iv)
+Rajustement net (surévaluation de la TVH)
+0
+Notes
+(i) Tel qu’il est précisé dans la feuille de travail « RÉVISION du calcul du rajustement de la taxe nette » fournie par CIBC WMI avec pièces justificatives du calcul révisé de la TVH
+(ii) Ainsi que précisé plus loin
+(iii) et (vi) Tel qu’il est précisé dans nos rajustements de vérification de l’exercice 1999 que nous vous avons fournis en janvier 2004
+ARC - Confidentiel
+Page 1/2
+Page : ii
+Rajustements de périodes précédentes (1999)
+(2) Rajustements de l’exercice précédent no 2 (562 886 $)
+(i)
+Voir la fiche 9C pour le refus des modifications apportées au taux de recouvrement de PCI
+(ii)
+Voir la fiche 9D pour le refus des modifications apportées à l’actif et au passif de NR selon les rapports « Darwin » révisés
+Divisions
+Taux de recouvrement initialement déclarés par CIBC WMI
+(A)
+Taux de recouvrement révisé selon déclaration de 2000 de CIBC WMI
+(B)
+(B - A) = (C)
+Le montant révisé de TPS payée est identique au montant initialement déclaré
+(D)
+(C) * (D)
+IB
+72,81 %
+75,23 %
+2,42 %
+1 440 610
+34 863
+GTS
+11,51 %
+12,10 %
+0,59 %
+2 119 540
+12 505
+EQ
+7,40 %
+10,11 %
+2,71 %
+1 813 302
+49 140
+PCI
+6,05 %
+24,52 %
+18,47 %
+2 525 187
+466 402
+Sous-total
+562 911
+Montant demandé
+562 886
+Écart (petites entités intermédiaires)
+25
+arrrondi
+ANNEXE
+Loi sur la taxe d’accise
+Excise Tax Act
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+141.01(5) Seules des méthodes justes et raisonnables et suivies tout au long d’un exercice peuvent être employées par une personne au cours de l’exercice pour déterminer la mesure dans laquelle :
+141.01(5) The methods used by a person in a fiscal year to determine
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins;
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d’une fourniture taxable pour une contrepartie ou à d’autres fins.
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+RÉFÉRENCE : 2010 CCI 460
+Nº DU DOSSIER DE LA COUR : 2007-3926(TPS)G
+INTITULÉ DE LA CAUSE : CIBC WORLD MARKETS INC.
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 8 septembre 2010
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Sean C. Aylward
+Me Martha K. MacDonald
+Me Al Meghji
+Avocate de l’intimée :
+Me Marilyn Vardy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms : Sean C. Aylward, Martha K. MacDonald
+et Al Meghji
+Cabinet : Osler, Hoskin & Harcourt, s.e.n.c.r.l./s.r.l.
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les extraits pertinents de ces dispositions sont reproduits à l’Annexe A des présents motifs. Pour faciliter la lecture, ces dispositions sont reprises dans le corps principal des motifs.
+[2] Voir l’Annexe B jointe aux présents motifs.
+[3] Voir l’Annexe C jointe aux présents motifs.
+[4] Paragraphes L et M dans les présents motifs.
+[5] Suivant le paragraphe 123(1) de la LTA, un « inscrit » est une personne inscrite, ou tenue de l’être, aux termes de la sous-section d de la section V de la LTA. Dans le présent appel, l’inscrit est l’appelante.
+[6] Reproduit à l’Annexe A des présents motifs.
+[7] L’obligation de versement est énoncée au paragraphe 228(2); le droit au remboursement est prévu au paragraphe 229 de la LTA.
+[8] Reproduit à l’Annexe C des présents motifs.
+[9] Le paragraphe 225(4.1) dispose qu’une personne déterminée est, au cours d’une période de déclaration, la personne qui est une institution financière désignée visée à l’un des sous‑alinéas 149(1)a)(i) à (x) au cours de la période dont le montant déterminant, calculé selon le paragraphe 249(1), pour son exercice donné qui comprend la période ainsi que pour son exercice précédent dépasse 6 000 000 $. L’appelante était une institution financière au cours des périodes de déclaration pertinentes.
+[10] [2001] GSTC 98, [2001] GSTC 138, aux paragraphes 15, 16, 17 et 29.
+[11] À l’occasion, le ministère des Finances publie des notes explicatives appelées Notes techniques dans le but de faciliter la compréhension des propositions législatives.
+[12] Il est proposé que l’alinéa 141.01(16)b) remplace le paragraphe 141.01(5) dans le cas des institutions financières. Ces deux dispositions emploient les mots « suivies tout au long de l’exercice ».
+[13] (2005) 2 C.T.C. 2443; 2005 DTC 599, 601.
+[14] Le mot anglais « consistently » employé dans la version anglaise des dispositions applicables signifie : « de façon constante » (The Oxford English Dictionary, 2e éd. 1989).
+[15] Précité, aux paragraphes 4, 15, 16, 17 et 29.
+[16] Trico Industries Ltd. c. M.N.R., [1994] 2 C.T.C. 2053, aux pages 2062 et 2063 – Gestion Jean-Paul Champagne c. M.N.R., [1996] 2 C.T.C. 2537 (C.C.I.), aux pages 2251 et 2252 – Nassau Walnut Investments Inc. c. Canada, [1997] 2 C.F. 279(C.A.), aux paragraphes 31, 35, 36 et 37.
+[17] Voir le Mémorandum sur la TPS de mai 2005, dont voici un extrait :
+Selon un principe fondamental sous-tendant la TPS/TVH, aucune taxe ne devrait être incorporée dans le prix de biens et de services qu’un inscrit acquiert, importe ou transfère dans une province participante en vue d’effectuer des fournitures taxables (y compris des fournitures détaxées) dans le cadre de ses activités commerciales. Afin de voir à ce qu’un bien ou un service consommé, utilisé ou fourni dans le cadre d’activités commerciales ne soit pas assujetti à la TPS/TVH, les inscrits ont le droit de demander un CTI pour la TPS/TVH payée ou exigible sur un tel bien ou service. Les CTI permettent donc à chaque inscrit de récupérer la taxe engagée à son étape du processus de production et de distribution.
+[18] Voir Sullivan, R., Sullivan on the Construction of Statutes, 5e éd. (Toronto, LexisNexis, 2008) aux pages 214, 215, 218 et 219.
+[19] Nassau Walnut Investments Inc. v. R., [1998] 1 C.T.C. 33, (sub nomine R. c. Nassau Walnut Investments Inc.) 97 DTC 5051, à la page 5059 (C.A.F.).
+[20] [1952] N.B.J. No. 5, aux paragraphes 42 et 43.
+[21] (1882), 51 L.J.Q.B. 612.
+[22] 2009 CSC 20 (UPS).
+[23] Précité, au paragraphe 16. La disposition en question était le paragraphe 261(1) de la LTA, qui oblige de façon générale le ministre à rembourser certains montants à la personne qui « paie un montant » dans certaines circonstances. Dans l’affaire UPS, le premier argument de la Couronne était que le paragraphe 261(1) de la LTA s’appliquait à la personne légalement obligée de payer la taxe (les consignataires) et non à la personne qui avait simplement transmis l’argent au ministre (UPS).
+[24] UPS, précité, aux paragraphes 17, 36 et 38.
+[25] [1996] STC 1016 (Division du Banc de la Reine).

@@ -1,0 +1,184 @@
+Title: Ray c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29130/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-140-29130-ray-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-06
+
+# Ray c. La Reine
+
+- Citation: 2009 CCI 140
+- Decision date: 2009-03-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6630, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ray c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-06
+Référence neutre
+2009 CCI 140
+Numéro de dossier
+2004-2700(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2004-2700(IT)G
+2006-432(IT)G
+ENTRE :
+RHONDA RAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu du 12 au 15 janvier 2009, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocate de l’appelante :
+Me Patricia A. LeFebour
+Avocats de l’intimée :
+Me Brent E. Cuddy
+Me Catherine Letellier de St-Just
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2001, 2002 et 2003 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de mars 2009.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+Référence : 2009 CCI 140
+Date : 20090306
+Dossiers : 2004-2700(IT)G
+2006-432(IT)G
+ENTRE :
+RHONDA RAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelante a interjeté appel des nouvelles cotisations établies relativement à ses années d’imposition 2001, 2002 et 2003, dans lesquelles le ministre du Revenu national (le « ministre ») a refusé le crédit d’impôt pour frais médicaux (le « CIFM ») demandé au titre des frais totalisant 9 117 $, 12 070 $ et 10 339 $ pour ces années respectivement, qui ont été engagés pour des vitamines, des plantes médicinales, des remèdes homéopathiques, des aliments biologiques et naturels, des produits d’hygiène, de l’eau potable en bouteille, des provisions ainsi que des produits de soins personnels (les « produits »). Un CIFM au titre des produits a été refusé parce que l’achat de ces derniers n’avait pas été enregistré par un pharmacien, contrairement à ce qu’exige l’alinéa 118.2(2)n) de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] Les points en litige dans les présents appels sont les suivants :
+a) L’appelante peut‑elle demander un CIFM au titre des produits?
+b) L’alinéa 118.2(2)n) de la Loi porte‑t‑il atteinte au droit à l’égalité de l’appelante garanti par l’article 15 de la Charte?
+c) L’alinéa 118.2(2)n) de la Loi porte‑t‑il atteinte au droit à la sécurité de sa personne dont jouit l’appelante suivant l’article 7 de la Charte?
+[3] En 2001, en 2002 et en 2003, l’appelante s'est vu accorder à un CIFM au titre de frais médicaux totalisant 1 869 $, 2 574 $ et 337 $ pour ces années respectivement.
+[4] L’appelante souffre d’encéphalo‑myélite myalgique (« EMM »), de fibromyalgie et de sensibilité chimique multiple (« SCM »). C’est la Dre Catherine Anne Mildon qui a d’abord diagnostiqué ces maladies chez l’appelante vers la fin de 1986. Il n’est pas contesté que l’appelante souffre de ces maladies ni qu’elle est suivie par un médecin depuis plus de 20 ans. Pendant les années frappées d’appel, l’appelante était soignée par le Dr Zazula et le Dr Koopmans. Elle est actuellement à nouveau traitée par la Dre Mildon.
+[5] L’appelante a mentionné qu’en 1986, la Dre Mildon lui avait prescrit un régime de produits qu’elle devait ingérer pour atténuer les effets de ses troubles, de sorte qu’elle pouvait se livrer aux activités de la vie quotidienne. Son régime comportait des aliments biologiques, des aliments sans pesticide, colorant ni teinture, ainsi que des vitamines, des plantes médicinales et des remèdes homéopathiques. L’appelante continue d’utiliser ces substances puisque, selon le pronostic établi à son égard, elle sera très vraisemblablement atteinte d’EMM, de fibromyalgie et de SCM pour le reste de sa vie.
+[6] Pendant les années visées par l’appel, les produits ont été achetés chez le naturopathe de l’appelante et dans des magasins d’aliments naturels. Selon le témoignage de l’appelante, les vitamines, les plantes médicinales et les remèdes homéopathiques du genre et de la qualité de ceux qu'elle achetait chez son naturopathe n’étaient généralement pas offerts dans les pharmacies ordinaires.
+[7] L’appelante a affirmé que les produits qu’elle prend favorisent son traitement sur les plans suivants :
+1- ils sont antibactériens et antiviraux;
+2- ils contiennent des antioxydants;
+3- ils favorisent la désintoxication;
+4- ils favorisent la digestion;
+5- ils donnent de l’énergie;
+6- ils renforcent le système immunitaire;
+7- ils soulagent la douleur;
+8- ils sont probiotiques;
+9- les vitamines et les minéraux améliorent la nutrition et les fonctions;
+10- ils comprennent des substances utilisées comme des traitements topiques.
+Elle a précisé quels sont les remèdes à base de plantes médicinales, les vitamines et les minéraux qu’elle ingère pour chacune des catégories numérotées de 1 à 7. Selon son témoignage, le régime de produits l’a aidée à maintenir son système immunitaire dans un état qui lui permet de mener une vie presque normale.
+[8] Les produits ont été prescrits et/ou contrôlés par son médecin et son naturopathe.
+[9] En 2001, en 2002 et en 2003, la santé de l’appelante s’est améliorée et elle a été en mesure de travailler dans l’entreprise familiale, à raison de 25 à 35 heures par semaine. Cependant, sa capacité à travailler était, et est toujours, directement reliée à l’ingestion des produits. Elle a affirmé que, si elle cessait de suivre le régime de produits, elle aurait une rechute, elle devrait garder le lit et elle ne pourrait plus travailler. En fait, l’appelante a déjà cessé de prendre les produits à une occasion en vue d’une analyse sanguine et elle a observé une brève détérioration de son état de santé.
+[10] Dans son témoignage, la Dre Mildon a déclaré qu’elle avait obtenu un doctorat en médecine de l’Université d’Ottawa en 1969. Elle a fait des résidences en médecine interne, en maladies respiratoires et en anatomie pathologique. Elle a commencé à exercer comme médecin en 1970. De 1973 à 1982, parallèlement à son exercice de la médecine, elle a supervisé l’élaboration et contribué à la rédaction du protocole applicable aux études de biodisponibilité relatives à de nombreux médicaments qui arrivaient sur le marché dans le cadre du programme de médicaments de l’Ontario. Elle a précisé que les études de biodisponibilité consistaient à établir une comparaison entre un produit générique et un produit analogue faisant l’objet d’une marque de commerce. Dès 1982, la Dre Mildon était reconnue comme pharmacologiste clinicienne et toxicologue. En 1984, elle a obtenu un diplôme en hygiène et sécurité du travail. Elle se qualifie de diagnosticienne, et elle ajoute avoir suivi tous ces cours parce qu’elle voulait [TRADUCTION] « être en mesure de diagnostiquer tous les cas qui pouvaient se présenter ».
+[11] La Dre Mildon a mentionné qu’elle avait été le médecin de l’appelante de 1986 jusqu’à avril 1995. Elle a prescrit le régime consistant dans les produits que l’appelante a commencé à ingérer en 1986 et qu’elle continuait toujours d’utiliser pendant la période frappée d’appel. Cependant, en 2001, en 2002 et en 2003, la Dre Mildon ne participait plus au traitement médical de l’appelante (transcription, p. 107). Elle a recommencé à traiter cette dernière en février 2007.
+[12] Par suite d’une objection des avocats de l’intimée et d’une décision de la Cour sur l'objection, l’avocate de l’appelante n’a pas été autorisée à poser à la Dre Mildon des questions obligeant celle‑ci à émettre une opinion. La décision susmentionnée a été rendue au motif que la Dre Mildon n’agissait pas comme médecin traitant de l’appelante au cours des années pertinentes et qu’elle n’avait été ni présentée ni reconnue comme témoin expert. L’avocate de l’appelante a présenté à la Cour une demande visant à obtenir soit l’autorisation de produire un rapport d’expert à l’audience, soit l’ajournement de celle‑ci de sorte qu’un rapport d’expert puisse être dressé et produit. Cette demande a été rejetée.
+[13] Le paragraphe 145(2) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») est ainsi libellé :
+(2) Sauf directive contraire de la Cour, aucune preuve sur l’interrogatoire principal d’un expert ne doit être reçue à l’audience au sujet d’une question à moins :
+a) que cette question n’ait été définie dans les actes de procédure ou par accord écrit des parties définissant les points en litige;
+b) qu’un exposé complet de la preuve en interrogatoire principal que l’expert entend établir n’ait été fait dans une déclaration sous serment dont l’original a été déposé et dont une copie a été signifiée à chacune des autres parties, au moins trente jours avant le début de l’audience;
+c) que l’expert ne soit disponible à l’audience pour contre‑interrogatoire.
+[14] Je suis arrivée à la conclusion que permettre la production du rapport au moment de l’audition des appels causerait un préjudice à l’intimée. L’audition des appels devait initialement avoir lieu en juillet 2008, mais, à la demande de l’appelante, elle a été reportée à janvier 2009. En outre, l’avocate de l’appelante connaissait très bien l’article 145 des Règles puisqu’elle a produit conformément à celles‑ci un rapport d’expert rédigé par le Dr Harth.
+[15] Le Dr Manfred Harth a été reconnu comme témoin expert pour témoigner au sujet de la fibromyalgie et de l’EMM.
+[16] Selon son témoignage, la fibromyalgie est un état de douleur chronique accompagné de fatigue et de sommeil non réparateur. La douleur est considérée comme chronique si elle dure depuis plus de trois mois. Cette douleur doit toucher au moins trois régions distinctes du corps et le patient doit avoir au moins 11 points douloureux sur 18. Il a défini un point douloureux comme un endroit du corps qui est sensible lorsqu’il fait l’objet d’une pression. Les points douloureux sont décrits en fonction de leur situation anatomique en surface du corps et ont été définis par l’American College of Rheumatology.
+[17] Les patients souffrant de fibromyalgie peuvent éprouver un certain nombre de troubles connexes, comme la migraine, le côlon irritable, la vessie irritable et l’EMM. En outre, des troubles de l’humeur, dont la dépression et l’anxiété, sont courants chez les patients atteints de cette maladie.
+[18] Le Dr Harth a mentionné que des études ont montré que 75 à 90 pour 100 des patients victimes de fibromyalgie sont des femmes. La cause de cette maladie n’est toujours pas connue.
+[19] Selon son témoignage, le traitement de la fibromyalgie est très onéreux à la fois pour le système de soins de santé public et le système de soins de santé privé. Le traitement de la fibromyalgie comporte tant des aspects médicinaux que non médicinaux. Il a ajouté qu’il existait des éléments permettant de croire que [TRADUCTION] « certaines approches faisant partie d’un ensemble de traitements appelé “médecine complémentaire et parallèle (MCP)” pouvaient être efficaces ». Il a décrit les médicaments qui sont actuellement utilisés pour traiter la fibromyalgie et ceux qui offrent des perspectives prometteuses à ce chapitre. Il a affirmé qu’il était clairement établi que l’exercice joue un rôle important dans l’amélioration de l’état des patients atteints de fibromyalgie. À son avis, il existe aujourd’hui un certain nombre de traitements éprouvés, et plusieurs autres traitements sont en voie d’élaboration.
+Point a) L’appelante peut‑elle demander un CIFM au titre des produits?
+[20] La disposition applicable de la Loi de l’impôt sur le revenu (la « Loi ») est l’alinéa 118.2(2)n), dont voici le texte :
+(2) Frais médicaux – Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances – sauf s’ils sont déjà visés à l’alinéa k) – qui sont, d’une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d’une maladie, d’une affection, d’un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d’autre part, achetés afin d’être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a), sur ordonnance d’un médecin ou d’un dentiste, et enregistrés par un pharmacien.
+[21] L’appelante avait interjeté appel de la nouvelle cotisation établie relativement à son année d’imposition 1999, le motif de l'appel étant que le ministre avait refusé un CIFM demandé au titre des frais engagés pour des vitamines, des plantes médicinales, des aliments biologiques et naturels ainsi que de l’eau potable en bouteille, parce que leur achat n’avait pas été enregistré par un pharmacien. L’appel de l’appelante a été accueilli par la Cour canadienne de l’impôt (la « CCI »). L’appel interjeté à l’égard de la décision de la CCI a été accueilli par la Cour d’appel fédérale (la « CAF ») et la demande de pourvoi à la Cour suprême du Canada a été rejetée. Lorsqu’elle a accueilli l’appel visant la décision de la CCI, la CAF a conclu qu’on ne pouvait faire abstraction des termes « enregistrés par un pharmacien ». La juge Sharlow a dit ce qui suit au paragraphe 11 :
+À mon avis, le juge de la Cour de l’impôt a commis une erreur de droit lorsqu’il a conclu qu’on pouvait omettre de tenir compte des mots « enregistrés par un pharmacien » figurant à l’alinéa 118.2(2)n). Je comprends pourquoi le juge estimait que ces mots constituaient un obstacle injustifiable lorsqu’il s’agissait d’accorder un allégement fiscal à Mme Ray. Je sympathise, comme lui, à la situation dans laquelle se trouve Mme Ray. Toutefois, il n’est pas loisible à la présente cour, ou à la Cour de l’impôt, de ne pas tenir compte des exigences législatives imposées par le Parlement, même s’il est difficile de les justifier en principe. Il appartient uniquement au Parlement de déterminer si les mots « enregistrés par un pharmacien » devraient être supprimés de l’alinéa 118.2(2)n)[1].
+[22] En l’espèce, comme dans l’appel interjeté devant la CAF, l’achat des produits n’a pas été enregistré par un pharmacien.
+[23] Dans l’arrêt Ray, la juge Sharlow a exposé de la façon suivante la raison d’être de l’exigence relative à l’enregistrement prévue à l’alinéa 118.2(2)n) :
+12 À mon avis, il est raisonnable d’inférer que l’exigence relative à l’enregistrement figurant à l’alinéa 118.2(2)n) vise à assurer qu’un allégement fiscal ne soit pas accordé pour le coût de médicaments achetés en vente libre. Il existe partout au Canada des lois qui régissent la pratique dans le domaine pharmaceutique. Les lois ne sont pas les mêmes dans chaque province et dans chaque territoire, mais elles comportent des éléments communs. En général, elles interdisent au pharmacien de délivrer certains médicaments sans ordonnance médicale et elles décrivent les documents qu’un pharmacien doit rédiger pour les médicaments d’ordonnance, y compris les renseignements qui identifient la personne qui prescrit le médicament et le patient. Il n’est pas établi que les pharmaciens, où que ce soit au Canada, soient obligés de rédiger pareils documents pour les substances ici en cause[2].
+[24] L’avocate de l’appelante a fait valoir que la décision Breger c. Canada[3] de la CCI et les récentes initiatives législatives provinciales l’emportent sur l’arrêt Ray de la CAF.
+[25] Dans la décision Breger, certains suppléments médicinaux, nutritifs et à base de plantes médicinales avaient été prescrits par l’appelant, un médecin, pour son épouse. Les suppléments avaient été délivrés et enregistrés par un pharmacien. Le juge McArthur a convenu avec l’appelant que la législation régissant les pharmaciens au Québec obligeait ces derniers à enregistrer tous les médicaments délivrés sur ordonnance d’un médecin.
+[26] J’estime que la décision Breger n’a aucune application en l’espèce. Pendant les années pertinentes, l’appelante ne résidait pas au Québec et aucun des produits n’a été délivré ou enregistré par un pharmacien. L’appelante a d’ailleurs déclaré dans son témoignage qu’elle n’avait pas acheté les produits dans une pharmacie.
+[27] L’avocate de l’appelante a renvoyé à un projet de loi présenté à l'Assemblée législative du Nouveau‑Brunswick (dont la première lecture a eu lieu le 20 mai 2008) et au Pharmacists Profession Regulation (Alta. Reg. 129/2006) de l’Alberta qui a pour effet d’élargir le rôle des pharmaciens de sorte qu’ils puissent prescrire certains médicaments. Le projet de loi et le règlement invoqués par l’avocate ne sont d’aucun secours à l’appelante.
+[28] À la lumière de l’arrêt Ray de la CAF, lequel est directement applicable aux faits du présent appel, l’appelante n’a pas droit à un CIFM au titre des produits.
+Point b) L’alinéa 118.2(2)n) de la Loi porte‑t‑il atteinte au droit à l’égalité de l’appelante garanti par l’article 15 de la Charte?
+[29] L’article 15 de la Charte canadienne des droits et libertés (la « Charte ») est rédigé comme suit :
+Droits à l’égalité
+15. (1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+(2) Le paragraphe (1) n’a pas pour effet d’interdire les lois, programmes ou activités destinés à améliorer la situation d’individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur religion, de leur sexe, de leur âge ou de leurs déficiences mentales ou physiques.
+[30] L’appelante tente d'obtenir que le CIFM s'applique également aux produits. Elle a dit que la Cour pouvait statuer en ce sens et néanmoins préserver l’intégrité de l’alinéa 118.2(2)n) en l'interprétant comme si les termes « pouvant être » étaient insérés avant les termes « enregistrés par un pharmacien », de sorte que cet alinéa se terminerait de la façon suivante :
+[…] sur ordonnance d’un médecin ou d’un dentiste, et pouvant être enregistrés par un pharmacien.
+[31] Je ne suis pas saisie en l’espèce de la question de savoir quel devrait être le libellé de la disposition prévoyant le CIFM. Je dois plutôt examiner si l’omission du gouvernement du Canada d’accorder un CIFM au titre des produits équivaut à un refus injuste et discriminatoire d’un avantage conféré par la Loi, contrairement à l’article 15 de la Charte[4].
+[32] Selon l’exigence minimale énoncée à l’article 15 de la Charte, l’appelante doit établir qu’elle est privée d’un avantage conféré par la loi[5]. L’avantage qu'elle cherche à obtenir en l’espèce consiste en le CIFM au titre des frais engagés pour des vitamines, des plantes médicinales, des remèdes homéopathiques, des aliments biologiques et naturels, des produits d’hygiène, de l’eau potable en bouteille, des provisions ainsi que des produits de soins personnels (les « produits »). Cet avantage n’est conféré à nul autre et il n’est pas prévu par la loi.
+[33] Dans l’arrêt Sharifa Ali et Rose Markel c. Sa Majesté la Reine[6], les appelantes demandaient un CIFM au titre du coût de certaines plantes médicinales et vitamines et de certains suppléments. Elles faisaient valoir que l’exigence de l’alinéa 1118(2)n) de la Loi relative à l’enregistrement par un pharmacien violait les droits qui leur étaient garantis au paragraphe 15(1) et à l’article 7 de la Charte. Concluant qu’il n’y avait pas eu d'atteinte aux droits garantis par le paragraphe 15(1), le juge Ryer a tenu les propos suivants :
+19 À mon avis, on ne peut pas dire que la non‑inclusion du coût des suppléments diététiques dans la définition des frais médicaux énoncée au paragraphe 118.2(2) de la LIR, de manière générale, ou au paragraphe 118.2(2)n) de la LIR, plus particulièrement, est incompatible avec l’objectif et l’économie de la loi relative au CIFM. Au contraire, la non‑inclusion de cet avantage est tout à fait compatible avec l’objectif d’accorder seulement l’avantage du CIFM pour des frais médicaux expressément énumérés. Par conséquent, je suis d’avis que le fait que l’avantage demandé par les appelantes ne soit pas inclus dans la loi en question ne constitue pas une discrimination résultant de son effet.
+20 Après avoir conclu que l’avantage recherché par les appelantes n’est pas un avantage prévu par la loi et que la décision du législateur de ne pas accorder cet avantage ne justifie pas une discrimination directe ou une discrimination qui résulte de l’effet de la loi, je suis d’avis qu’il n’est pas nécessaire d’examiner davantage l’argument des appelantes visant le paragraphe 15(1). En concluant ainsi, je note que la Cour suprême du Canada est parvenue à une conclusion semblable dans Auton, au paragraphe 47 : […]
+[34] J’estime que les faits en l’espèce ne peuvent être distingués de ceux de l’affaire Ali.
+[35] L’avocate de l’appelante a soutenu que, dans l’arrêt Ali, c'est à tort que la CAF a insisté sur l’arrêt Auton, puisque, dans cette affaire-là, les parents demandaient la création d’un avantage tandis que, dans l’affaire Ali, comme en l’espèce, le CIFM constitue un avantage existant. L’avocate a affirmé que l’appelante est privée de l’avantage en cause en raison d’une caractéristique personnelle, comme c'était le cas des appelants dans l’arrêt Hislop c. Canada[7].
+[36] Dans les présents appels, le CIFM est analogue aux dispositions législatives qui étaient en cause dans l’arrêt Auton en ce qu’il s’agit d’un régime partiel[8]. La Loi n'accorde pas ni ne refuse explicitement le crédit pour les produits. L’avantage que demande l’appelante n’est offert à aucun contribuable, et il en est ainsi indépendamment de la question des caractéristiques personnelles. L’appelante cherche en fait à obtenir la création d'un avantage.
+[37] Une distinction peut être établie entre l’arrêt Hislop et les présents appels. Dans l’arrêt Hislop, il était question d’une disposition qui limitait la possibilité, pour les conjoints survivants de même sexe dont le conjoint était décédé avant le 1er janvier 1998, d’obtenir certaines prestations. La Cour suprême du Canada a conclu que cette disposition limitant la rétroactivité des prestations était discriminatoire. Dans cette affaire-là, contrairement à ce qui est le cas en l'espèce, l’avantage existait déjà.
+[38] En définitive, à la lumière de tout ce qui précède, je conclus qu’il n’a pas été porté atteinte aux droits de l’appelante garantis par le paragraphe 15(1) de la Charte.
+Point c) L’alinéa 118.2(2)n) de la Loi porte‑t‑il atteinte au droit à la sécurité de sa personne dont jouit l’appelante suivant l’article 7 de la Charte?
+[39] Dans l’arrêt Ali, la CAF a traité dans les termes suivants de l’article 7 de la Charte en tant qu'il s'applique à une cotisation fiscale :
+21 Outre l’argument visant le paragraphe 15(1), les appelantes soutiennent que les nouvelles cotisations refusant le CIFM à l’égard des suppléments diététiques en vente libre leur ont causé de l’anxiété et du stress, si bien que l’établissement de ces cotisations s’est traduit par une atteinte réelle ou imminente à la vie, la liberté ou la sécurité de la personne, contrairement à l’article 7 de la Charte. Il s’agirait d’une proposition remarquable si la démonstration de l’anxiété ou du stress causé par la perspective d’avoir à payer de l’impôt sur le revenu constituait un fondement suffisant pour être exempté d’avoir à payer cet impôt. Qui plus est, il n’est pas proposé que les appelantes ne peuvent pas avoir accès aux suppléments diététiques sans le CIFM qu’elles ont demandé.
+22 À mon avis, la capacité de faire opposition à une cotisation d’impôt sur le revenu en invoquant l’article 7 de la Charte est une question dont le juge Rothstein a suffisamment discuté aux paragraphes 29 et 30 de la décision de la Cour dans Mathew c. Canada, 2003 CAF 371 :
+[29] Je reconnais que le pouvoir d’établir une nouvelle cotisation pour un contribuable met en cause l’administration de la justice. Je ne reconnais toutefois pas qu’établir une nouvelle cotisation donne lieu à une atteinte à la liberté ou à la sécurité de la personne.
+[30] Si un droit entre en jeu lorsqu’on établit de nouvelles cotisations, c’est d’un droit économique qu’il s’agit. S’exprimant au nom de la majorité dans Gosselin, la juge en chef McLachlin a fait observer que, dans Irwin Toy Ltd. c. Québec (P.G.), [1989] 1 R.C.S. 927, à la page 1003, le juge en chef Dickson, s’exprimant au nom de la majorité, n’avait pas répondu à la question de savoir si l’article 7 pouvait être invoqué pour protéger les « droits économiques, fondamentaux à […] la survie [de la personne] ». On ne laisse toutefois pas entendre dans Gosselin que l’article 7 est d’assez large portée pour englober les droits économiques de manière générale ou, plus particulièrement, l’établissement de nouvelles cotisations. Je suis d’avis, par conséquent, que les appelants n’ont pas démontré l’atteinte à un droit quelconque garanti par l’article 7 de la Charte.
+[Non souligné dans l’original.]
+[40] Les propos tenus dans l’arrêt Ali s’appliquent directement aux présents appels. Il n’a nullement été porté atteinte aux droits de l’appelante garantis par l’article 7 de la Charte.
+[41] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de mars 2009.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+RÉFÉRENCE : 2009 CCI 140
+NO DU DOSSIER DE LA COUR : 2004-2700(IT)G
+2006-432(IT)G
+INTITULÉ DE LA CAUSE : Rhonda Ray c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Du 12 au 15 janvier 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 6 mars 2009
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Patricia A. LeFebour
+Avocat de l’intimée :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Patricia A. LeFebour
+Cabinet : Rochon, Genova LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Sa Majesté la Reine c. Rhonda Ray, 2004 CAF 1.
+[2] Ibid., au paragraphe 12.
+[3] [2007] A.C.I. no 137.
+[4] Auton (Tutrice à l’instance de) c. Colombie-Britannique (Procureur général), 2004 CSC 78, au paragraphe 2.
+[5] Ibid., au paragraphe 27.
+[6] 2008 CAF 190.
+[7] 2007 CSC 10.
+[8] Ali c. La Reine, 2006 CCI 287, aux paragraphes 116 à 119.

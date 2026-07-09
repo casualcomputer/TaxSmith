@@ -1,0 +1,193 @@
+---
+title: "Cosmteck Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27560/index.do"
+last_modified: "2005-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 279"
+citation2: ""
+neutral_citation: "2005 CCI 279"
+decision_date: "2005-05-05"
+language: "fr"
+item_id: "27560"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 122
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:56:21.485000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43a26f9a61841eb36aa2f631680000312357fb3f74f354953203f28a55b59b00"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cosmteck Inc. c. M.R.N.
+
+- Citation: 2005 CCI 279
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 122, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cosmteck Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 279
+Numéro de dossier
+2004-3535(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3535(EI)
+ENTRE :
+COSMTECK INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 9 mars 2005 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Représentante de l'appelante :
+Patricia Grassellini
+Avocate de l'intimé :
+Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les Motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI279
+Date : 20050505
+Dossier : 2004-3535(EI)
+ENTRE :
+COSMTECK INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 9 mars 2005.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de Pauline Lacroix, la travailleuse, alors qu'au service de l'appelante du 17 février au 7 avril, 2003.
+[3] Par lettre datée du 14 juin 2004, le ministre du Revenu national (le « Ministre ») a informé l'appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+a) l'appelante exploite une entreprise de vente de produits cosmétiques et esthétiques; (admis avec précisions)
+b) Mme Patricia Grassellini était la seule actionnaire de l'appelante; (admis)
+c) l'appelante exploite son entreprise à Montréal et Laval et ses principaux clients sont des centres d'esthétique; (admis avec précisions)
+d) durant la période en litige, l'appelante embauchait 3 personnes : Mme Grassellini et 2 représentantes, dont la travailleuse; (admis)
+e) la travailleuse a commencé à rendre des services à l'appelante le 17 février 2003 en vertu d'un contrat de travail écrit; (admis)
+f) le contrat de travail stipulait entre autres : que
+-le représentant doit travailler sous les instructions du directeur des ventes et remettre à ce dernier un rapport hebdomadaire sur son travail, ses visites, ses entrevues et des renseignements sur la valeur des commandes qu'il aura prises pendant la semaine,
+-le représentant convient, comme partie intégrante de son travail, d'assister à toutes les réunions de vendeur, présentations de produits, congrès et autres assemblées prescrites par son superviseur immédiat ou autres membres de la direction de la compagnie,
+-le représentant convient de vendre la marchandise et l'équipement distribués par la compagnie uniquement aux prix de liste fixés par la compagnie ou à un prix spécial établi et approuvé par la compagnie; (admis avec précisions
+g) le travail de la travailleuse consistait à : rencontrer les clients pour leur présenter les produits et leur laisser des échantillons, prendre les commandes et les apporter au bureau de l'appelante et livrer les produits lorsqu'il s'agissait de nouveaux clients; (admis avec précisions)
+h) la travailleuse n'avait pas à suivre un horaire précis de travail mais travaillait 40 heures par semaine; (admis avec précisions)
+i) la travailleuse préparait et remettait à l'appelante la liste des clients qu'elle visitait et les bons de commande qu'elle préparait; (admis)
+j) la travailleuse devait visiter les clients désignés par l'appelante et devait assister aux cours de formation lorsque requis par l'appelante; (nié)
+k) l'appelante fournissait à la travailleuse les échantillons de produits, les cartes d'affaires, les bons de commandes et autres fournitures alors que la travailleuse fournissait son véhicule et en absorbait les frais d'utilisation; (admis)
+l) la travailleuse devait être rémunérée sur une base de commissions, mais, pour les 4 dernières semaines de la période elle a reçu 1 538,46 $ aux 2 semaines que l'appelante appelait «avances sur commissions» alors que le contrat stipulait que le représentant n'avait aucun droit de recevoir des avances sur commissions; (admis avec précisions)
+m) les clients étaient ceux de l'appelante et non ceux de la travailleuse; (nié)
+n) les tâches de la travailleuse étaient intégrées aux activités régulières de l'appelante; (ignoré)
+o) durant la période en litige, la travailleuse a travaillé durant 280 heures soit durant 7 semaines de 40 heures; (ignoré)
+p) durant la période en litige, elle a reçu, en tout, de l'appelante 5 300,41 $. (ignoré)
+[5] La preuve a révélé que l'appelante exploite son entreprise à Montréal et la région et ses principaux clients sont des centres d'esthétique. Patricia Grassellini, la seule actionnaire de l'appelante, a témoigné à l'audition. Elle a affirmé avoir utilisé un modèle de contrat pour mettre par écrit l'entente conclue entre elle et la travailleuse. Elle a ajouté que la travailleuse n'était pas tenue de prendre les commandes et de les apporter. Selon elle, c'était une pratique de marketing destinée à mettre en contact la représentante et le client. Elle a affirmé, par ailleurs, qu'elle avait fixé à 40 heures, le maximum d'heures que devait travailler la travailleuse, en raison de son âge. Elle a voulu préciser, en réponse à la présomption énoncée à l'alinéa 1) que la travailleuse a reçu ces avances sur demande parce qu'elle faisait face à des problèmes personnels. Elle a déclaré dans son témoignage que la travailleuse lui avait appris qu'elle avait sa propre clientèle qu'elle pouvait solliciter. Ayant nié la présomption du Ministre à l'effet que les clients appartenaient à l'appelante et non à la travailleuse, Patricia Grassellini a quand même affirmé dans son témoignage qu'elle n’avait pas remis une liste de clients à la travailleuse mais qu'elle lui avait donné les clients qu'elle avait et aussi qu’elle lui en recommandait. Elle a soutenu que la travailleuse n'avait aucun bureau de fourni ni lieu de travail. Elle a ajouté que la travailleuse avait choisi son territoire et qu'elle savait qu'elle ne recevrait aucune rémunération si elle ne travaillait pas.
+[6] La travailleuse possédait sa pagette et utilisait sa voiture pour son travail. L'appelante fournissait à la travailleuse sa carte d'affaires, les échantillons, la publicité et le catalogue des produits. Selon l'appelante, la travailleuse encourait des risques de perte puisque sans vente de produits, elle ne gagnait pas d'argent.
+[7] Madame Grassellini a affirmé qu'un certain matin la travailleuse lui a annoncé qu'elle quittait son poste sans lui donner de raison. Madame Grassellini a ajouté que l'année suivante, vers la fin février 2004, la travailleuse est revenue et elle l'a embauchée à temps plein. Elle a précisé que la travailleuse est demeurée en poste pendant un mois, mais qu'elle avait dû la renvoyer puisqu'elle n'était pas en mesure de travailler. Selon elle, la travailleuse prenait beaucoup de médicaments.
+[8] Pendant son témoignage, madame Grassellini a produit une lettre (pièce A‑1), datée du 16 mars 2004, signée par la travailleuse. La lettre était destinée à l'agent de l'admissibilité RPC/AE. Le contenu de cette lettre contredit plusieurs affirmations de la travailleuse à l'agent des appels.
+[9] L'enquête faite par les enquêteurs à l'assurabilité et l'agent des appels a révélé que la travailleuse était représentante. Elle rencontrait des clients, elle leur donnait des échantillons de produits et prenait leur commande qu'elle apportait au bureau de l’appelante. Ensuite, elle faisait les livraisons de ces produits. Les listes de prix étaient établies par l’appelante et la travailleuse oeuvrait sur la route et faisait ses remises au bureau. La travailleuse a rapporté que l'appelante l'appelait tous les jours sur sa pagette pour avoir des comptes-rendus de ses activités. La travailleuse ne pouvait pas se faire remplacer. La travailleuse avait pour tâche d'inscrire les esthéticiennes à des formations sur les produits qui étaient données au bureau de l'appelante. Elle devait, par ailleurs, remettre à l’appelante la liste des clients qu'elle avait visités et les bons de commandes. La travailleuse était supervisée. L'appelante lui disait quels clients visiter. La travailleuse devait se présenter au bureau de l'appelante tous les lundis pour assister à des séances de formation et d'autres réunions. Son travail était planifié par l'appelante. La travailleuse a affirmé qu'elle avait été mise à pied par l'appelante parce qu'elle voulait être considérée comme une employée. La facturation aux clients était faite par l'appelante. Pour sa part, l'appelante a déclaré que la travailleuse n'avait pas d'heures fixes de travail et que ses entrées et sorties ainsi que ses heures de travail n'étaient pas contrôlées.
+[10] La lecture du contrat conclu entre l'appelante et la travailleuse, daté du 30 janvier 2003 (pièce I-1), a révélé les faits suivants : les fonctions du représentant (c'est-à-dire la travailleuse) sont de travailler sous les instructions du Directeur des ventes et de remettre à ce dernier un rapport hebdomadaire sur son travail, ses visites, ses entrevues et d'autres renseignements. En vertu de ce contrat, la travailleuse s'engageait à assister à toutes les réunions de vendeurs, présentations de produits, congrès et autres assemblées. Par ailleurs, elle s'engageait à vendre la marchandise distribuée par l'appelante uniquement au prix de liste fixé par celle-ci. Elle ne pouvait pas accorder d'escompte ou de diminution sur les prix sans avoir reçu le consentement et l'autorisation spécifiques et écrites de l'appelante. Par ailleurs, la travailleuse s'engageait à exécuter toutes autres tâches connexes à ses fonctions ou reliées à ses capacités selon que l'exigeait son supérieur immédiat. En outre, elle s'engageait à respecter tous les ordres, toutes les directives, toutes les politiques et les règlements établis verbalement ou par écrit par l'appelante. L'entente prévoyait que la travailleuse, comme représentante, pourrait prendre des vacances pendant les périodes où les activités de l'appelante seraient au ralenti. Le contrat intervenu entre l'appelante et la travailleuse prévoyait que la travailleuse s'engageait à consacrer 100 pour cent de son temps, de ses énergies, de ses efforts et de son dynamisme au service exclusif de l'appelante. Le contrat prévoyait que des versements seraient faits à la travailleuse tous les quinze jours au montant de 1 538,46 $ en « acomptes de commissions ».
+[11] Le Ministre, en rendant sa décision, s'est basé sur l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi »), qui se lit comme suit :
+EMPLOI ASSURABLE
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+(a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[12] La jurisprudence a établi une série de critères pour déterminer si un contrat constitue un contrat de louage de services ou un contrat d'entreprise. Bien qu'il en existe d'autres, les quatre critères suivants sont les plus couramment utilisés :
+a) le degré, ou l'absence, de contrôle exercé par le prétendu employeur;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice et les risques de perte;
+d) l'intégration des travaux effectués par les prétendus employés dans l'entreprise de l'employeur présumé.
+[13] Les arrêts Wiebe Door Services Ltd. c. Canada (ministre du Revenu national – M.R.N.), [1986] 3 C.F. 553 et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, ont été abondamment cités par le passé car ils ont été très utiles aux tribunaux chargés de déterminer si un emploi, comme dans le cas sous étude, était assurable parce qu'il rencontrait les exigences d'un contrat de louage de services ou bien s'il n'était pas assurable parce qu'il répondait davantage à la définition d'un contrat d'entreprise.
+[14] Examinons les faits, en l'espèce, à la lumière de chacun de ces critères.
+A. LE DEGRÉ OU L'ABSENCE DE CONTRÔLE EXERCÉ PAR
+LE PRÉTENDU EMPLOYEUR
+[15] Il a été établi que la travailleuse devait faire des rapports à l'appelante à toutes les semaines. Cette obligation de la travailleuse était prévue dans le contrat. Par ailleurs, celle-ci ne pouvait pas modifier la liste de prix sans l'autorisation de l'appelante. En outre, elle devait assister aux réunions de formation et autres assemblées organisées par l'appelante. La travailleuse devait également faire un rapport sur ses entrevues et fournir à l'appelante des renseignements sur la valeur des commandes qu'elle avait prises pendant la semaine. Le contrat de travail engageait la travailleuse à consacrer tout son temps à l'appelante, à fournir tous les efforts nécessaires afin d'exécuter adéquatement les fonctions qu'on lui avait confiées, de respecter tous les ordres, toutes les directives, toutes les politiques et les règlements établis verbalement ou par écrit par l'appelante. Ainsi, la preuve est convaincante que l'appelante exerçait un contrôle sur la travailleuse et son travail.
+B. LA PROPRIÉTÉ DES OUTILS
+[16] Il a été établi que l'appelante fournissait à la travailleuse les catalogues, les échantillons et les cartes d'affaires. Par ailleurs, le bureau de l'appelante était fourni pour les réunions de formation ou les autres rencontres auxquelles la travailleuse était tenue d'assister. Pour sa part, la travailleuse fournissait son véhicule et son téléphone cellulaire. Examinée sous ce critère, la balance penche également du côté de l'emploi assurable.
+C. LES CHANCES DE PROFIT ET LES RISQUES DE PERTE
+[17] Il a été établi que la travailleuse n'encourait aucun risque de perte ou possibilité de gain. Elle était rémunérée selon un salaire-commission fixé par l'appelante à 1 538,46 $ payable aux quinze jours. Sous ce critère également, l'appelante a soutenu que la travailleuse encourait des risques de perte puisque si elle ne travaillait pas, elle ne percevait aucun argent. Il faut noter cependant que ce n'est pas là une caractéristique qui décrit le travail d'un entrepreneur indépendant, s'il ne travaille pas, il ne sera pas payé. Donc, les faits, en l'espèce, examinés sous ce critère, favorisent encore l'existence d'un contrat de louage de services.
+D. L'INTÉGRATION DES TRAVAUX EFFECTUÉS PAR LE TRAVAILLEUR DANS L'ENTREPRISE DE L’EMPLOYEUR PRÉSUMÉ
+[16] Il a été établi que les tâches de la travailleuse étaient bien intégrées aux activités de l'appelante. Les clients étaient ceux de l'appelante. Il convient de rappeler que la jurisprudence recommande à la Cour de déterminer le genre d'emploi étudié sous ce critère en répondant à la question : « À qui appartient l'entreprise pour laquelle le travailleur offre ses services? ». En d'autres mots, les services rendus par la travailleuse, en l'espèce, répondent-ils aux buts et objectifs de l'entreprise de l'appelante ou la travailleuse exploite-t-elle sa propre entreprise? Examinés sous ce critère, il m'apparaît très clair que le travail effectué par la travailleuse faisait partie intégrante de l'entreprise de l'appelante. Sans ses représentantes, dont la travailleuse, l'appelante n'aurait pas pu faire commerce.
+[17] En résumé, donc, les faits, en l'espèce, examinés à la lumière des critères ci-haut énoncés, supportent la conclusion que la travailleuse occupait un emploi assurable.
+[18] L'appelante a ignoré les faits présumés énoncés par le Ministre sous les alinéas n), o) et p) de la Réponse à l'avis d'appel. À cet égard, il convient de rappeler la règle établie par l'arrêt Elia c. Canada (ministre du Revenu national ‑ M.R.N.), [1998] A.C.F. no 316 où le juge Pratte s'exprimait ainsi :
+Le juge, contrairement à ce qu'il a cru, aurait donc pu intervenir et aurait dû intervenir si, comme il l'a affirmé, la preuve révélait que la décision du Ministre était déraisonnable. Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n'a pas tenu compte de la règle bien établie selon laquelle les allégations de la Réponse à l'avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérés aussi longtemps que l'appelant n'en a pas prouvé la fausseté.
+[19] L'appelante avait le fardeau de prouver la fausseté des présomptions de fait du Ministre. C'est sur elle également que reposait le fardeau de prouver que la décision du Ministre était mal fondée et que l'intervention de cette Cour était justifiée. Elle ne s'est pas déchargée de ce fardeau. D'ailleurs, cette Cour a noté plusieurs contradictions entre les informations fournies par la travailleuse et celles fournies par l'appelante à l'agent des appels. Par ailleurs, le contrat signé entre les parties vient contredire de façon très claire la position de l'appelante selon laquelle, entre autres, le contrôle de la travailleuse et de son travail était inexistant.
+[20] À l'audition, l'appelante a produit la lettre de la travailleuse datée du 16 mars 2004 à l'agent d'admissibilité RPC/AE (pièce A-1). Le contenu de cette lettre vient contredire plusieurs affirmations recueillies de la travailleuse par l'agent des appels. Comment cette Cour doit-elle interpréter cette lettre? Il faudrait peut-être examiner le contenu de cette lettre dans son contexte. Voici dans quelles circonstances cette lettre a été écrite. La travailleuse a été mise à pied en 2003 parce que l'appelante ne voulait pas la considérer comme employée régulière et par la suite la travailleuse a fourni aux enquêteurs l'information sur son emploi qui établissait qu'elle occupait un emploi assurable. L'année suivante, la travailleuse est réembauchée par l'appelante comme employée à temps plein, elle qui avait toujours refusé de le faire. Pendant cette période, qui a duré approximativement un mois où la travailleuse était à l'emploi de l'appelante comme employée régulière, elle écrit la lettre en question. Peu de temps après, la travailleuse est congédiée. Est-ce un pur hasard? À cause des circonstances particulières qui ont mené à la rédaction de cette lettre, il est permis, je crois, d'en douter la sincérité et, en conséquence, la portée.
+[21] Par ailleurs, c'est sur les articles 10 du Règlement sur l'assurance-emploi, ainsi que sur l'article 2 du Règlement sur la rémunération assurable et la perception des cotisations que le Ministre s'est basé pour établir la rémunération assurable et les heures assurables de la travailleuse. Je reproduis, ci-dessous, les articles en question :
+10. (1) Lorsque la rémunération d'une personne est versée sur une base autre que l'heure et que l'employeur fournit la preuve du nombre d'heures effectivement travaillées par elle au cours de la période d'emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d'heures d'emploi assurable.
+(2) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, si l'employeur ne peut établir avec certitude le nombre d'heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été rémunérés, l'employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d'heures d'emploi assurable.
+(3) Lorsque le nombre d'heures convenu par l'employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n'est pas raisonnable ou qu'ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d'heures d'emploi assurable établi par le ministre du Revenu national d'après l'examen des conditions d'emploi et la comparaison avec le nombre d'heures de travail normalement accomplies par les travailleurs s'acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d'activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, lorsque l'employeur ne peut établir avec certitude ni ne connaît le nombre réel d'heures d'emploi assurable accumulées par une personne pendant sa période d'emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d'emploi le nombre d'heures d'emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l'année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l'absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l'horaire régulier, le nombre maximum d'heures d'emploi assurable qu'une personne est réputée avoir travaillées d'après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+Rémunération provenant d’un emploi assurable
+2.(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+b) le montant de tout pourboire que l’assuré doit déclarer à l’employeur aux termes de la législation provinciale.
+(2) Pour l’application de la présente partie, le total de la rémunération d’un assuré provenant d’un emploi assurable comprend la partie impayée de cette rémunération qui n’a pas été versée à cause de la faillite de l’employeur, de sa mise sous séquestre effective ou imminente ou d’un non-paiement de rétribution à l’égard duquel l’assuré a déposé une plainte auprès de l’organisme fédéral ou provincial de main-d’oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l’emploi.
+(3) Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+a) les avantages autres qu’en espèces, à l’exception, dans le cas où l’employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi;
+a.1) tout somme qui est exclue du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l'impôt sur le revenu;
+b) les allocations de retraite;
+c) tout montant supplémentaire versé par l’employeur à une personne afin d’augmenter les indemnités d’accident du travail versées à celle-ci par un organisme provincial;
+d) tout montant supplémentaire versé par l’employeur à une personne afin d’augmenter les indemnités d’assurance‑salaire versées à celle-ci par une tierce partie;
+e) les prestations supplémentaires de chômage versées à une personne dans le cadre d’un régime de prestations supplémentaires de chômage visé au paragraphe 37(2) du Règlement sur l’assurance-emploi;
+f) tout montant versé par l’employeur à une personne, soit à titre d’indemnité durant le délai de carence visé à l’article 13 de la Loi, soit pour augmenter les prestations de maternité, les prestations parentales ou les prestations de soignant à payer en vertu des articles 22, 23 et 23.1 de la Loi, respectivement, si les conditions énoncées à l’article 38 du Règlement sur l’assurance-emploi sont respectées.
+[22] Il faut signaler que le calcul du Ministre n'a pas fait l'objet d'une contestation de la part de l'appelante.
+[23] Au terme de cet exercice, cette Cour doit conclure que le Ministre a exercé à bon droit la tâche que lui a confiée le Législateur et il ne convient donc pas d'intervenir dans la décision qu'il a rendue.
+[24] Pour tous ces motifs, cette Cour conclut que la travailleuse exerçait un emploi aux termes d'un contrat de louage de services, au sens de l'alinéa 5(1)a) de la Loi et que, en conséquence, elle occupait un emploi assurable pendant la période en litige. Par ailleurs, cette Cour conclut que la travailleuse, pendant la période en litige, a accumulé 280 heures d'emploi assurable et une rémunération assurable au montant de 5 300,41 $.
+[25] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois, Nouveau-Brunswick, ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI279
+Nº DU DOSSIER DE LA COUR : 2004-3535(EI)
+INTITULÉ DE LA CAUSE : Cosmteck Inc. et M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 9 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 5 mai 2005
+COMPARUTIONS :
+Représentante de l'appelante :
+Patricia Grassellini
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

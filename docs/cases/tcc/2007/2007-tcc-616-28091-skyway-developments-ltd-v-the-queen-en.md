@@ -1,0 +1,159 @@
+---
+title: "Skyway Developments Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28091/index.do"
+last_modified: "2007-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 616"
+citation2: ""
+neutral_citation: "2007 TCC 616"
+decision_date: "2007-10-03"
+language: "en"
+item_id: "28091"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1676
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:39:59.827000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "81604fea48ab5451d38b47658c419654a6dde157b893dc9f70f249e60b5d2cb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Skyway Developments Ltd v. The Queen
+
+- Citation: 2007 TCC 616
+- Decision date: 2007-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1676, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skyway Developments Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-03
+Neutral citation
+2007 TCC 616
+File numbers
+2006-3923(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3923(IT)I
+BETWEEN:
+SKYWAY DEVELOPMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2007 at Moncton, New Brunswick
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Melissa Melanson
+Counsel for the Respondent:
+Devon Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs fixed at $500 in favour of the Appellant, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of November, 2007.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2007TCC616
+Date: 20071105
+Docket: 2006-3923(IT)I
+BETWEEN:
+SKYWAY DEVELOPMENTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, J.
+ISSUE:
+[1] The issue before the Court is whether Skyway Developments Ltd. did or did not file its 2000 income tax return with the Minister of National Revenue ("Minister") on or before its corporate filing deadline of November 30, 2000.
+FACTS:
+[2] The Appellant's corporate fiscal year end was May 31. The Appellant asserts it mailed its income tax return for the year end of May 31, 2000 to the Minister on or about October 11, 2000. If assessed as filed there would have been monies owing of approximately $9,527 less a dividend refund of approximately $4,804. No assessment was forthcoming from the Minister. A computerized request to file the 2000 tax return was forwarded to the Appellant on October 10, 2001 and the Minister issued a second request on December 4, 2001; there was no response by the Appellant to the Minister to either request. A contact letter was mailed to the Appellant on August 12, 2005 by the Minister and a copy of the Appellant's corporate tax return was received by the Minister on September 12, 2005.
+[3] According to the Minister, the Appellant's 2000 corporate tax return was not the Appellant's first late file returned – for the taxation year 2001/05/31, the due date was 2001/11/30 and the filing date 2001/12/10 (10 days late); for the taxation year 1994/05/31, the due date was 1994/11/30 and the filing date 1995/06/09 (191 days late).
+[4] David Close, a Chartered Accountant since 1976, had been the accountant, tax preparer and financial advisor for the Appellant since the mid 1980's. The Appellant is a property rental company, with a single property rented to a single tenant, a law firm. A partner in the law firm was the principal of the Appellant. Mr. Close's normal practice year after year (given the tax filing deadline for the Appellant being November 30 annually), was to meet with the client in August/September, and given that no records were maintained by the Appellant, put together financial records of the Appellant and then prepare the annual financial statements as well as the income tax returns to be filed. In the 1980's, 1990's and early 2000's Mr. Close would mail the tax returns. His practice was to meet with the client, review the financial statements and tax return, have a prepared letter with him for Canada Revenue Agency with a pre-posted envelope for the tax return, have the tax return signed in his presence by the client and then mail the return.
+[5] On October 11, 2000 Mr. Close met with the client and reviewed the financial statements and the income tax returns for the Appellant for the year ending May 31, 2000. According to Mr. Close, he would have; (1) had the return signed that day; and (2) filed the return by mail that day. No assessment notice was forthcoming but Mr. Close said there were problems at that time with CRA in getting their corporate return assessments back on time. CRA was in the midst of a conversion of their computer system to allow for e-filings. On October 11, 2000, Mr. Close had delivered a letter to the Appellant along with the Appellant's financial statements and the tax return. Mr. Close's computerized time recordings showed the particulars of the professional service he provided to the Appellant, while his statement of account for services rendered showed the professional services rendered and the time.
+[6] No cheque was forwarded with the return at the time of mailing. They would usually wait until an assessment was received which was the tax bill. It was a small company so they would pay the bill when the assessment was presented.
+[7] The Respondent sent out notices to the Appellant to file an income tax return; there was no response to the notices. They had no record of the tax return filing. The Respondent could not really dispute the assertion of Mr. Close that CRA had some computer problems in processing returns at the time in question due to conversion of e-filing. CRA did not seek any information with respect to any record of the Appellant not paying its taxes on time.
+ANALYSIS
+[8] On one hand I have evidence from CRA:
+1. They have no record of having received the 2000 tax return of the Appellant as alleged by the Appellant.
+2. They sent out two notices to the Appellant [October 10, 2001 and December 4, 2001], to file returns to which the Appellant did not respond.
+3. A contact was made with the Appellant on August 12, 2005, regarding filing a return and a copy of the Appellant's corporate return was received September 12, 2005.
+4. The Appellant has two prior late filings.
+5. There is not enough supporting evidence to establish whether the return was filed on time and there was no follow-up payment history of the Appellant.
+[9] In contrast is the evidence of Mr. Close. He described the process he followed on an annual basis for the tax returns of the Appellant to be filed.
+1. Shortly after the Appellant's year end, Mr. Close would meet with the Appellant, obtain financial information and do the records of the Appellant for the fiscal year;
+2. Approximately 6 weeks before the filing dead line, Mr. Close would meet with the Appellant's principals, review the financial statements and the income tax return which had been prepared by that time and have the client sign the income tax return;
+3. On return to his office Mr. Close would mail the income tax return in an envelope which had been prepared with appropriate postage prior to his meeting with the client.
+[10] This practice was confirmed by the principal of the Appellant, Edward McGrath, a lawyer since 1973 and a Partner in the law firm that was the Appellant’s only tenant. Mr. McGrath could not comment on when the tax returns were normally mailed but he did confirm the evidence of the Appellant's Chartered Accountant and this was further collaborated by the evidence of a former shareholder of the Appellant, a Joseph Tippett.
+[11] Is there a provision in the Income Tax Act ("Act") that deems something sent by regular mail to have been received by a certain time? There was a suggestion by the Respondent that CRA had to actually receive the income tax return in order for it to be deemed to have been filed.
+[12] Although there is no deeming provision for regular mail in the Income Tax Act, there is some case authority that says, in the absence of direct evidence, the Court may believe the testimony of credible witnesses on the subject.
+[13] Subsection 248(7) of the Act which states as follows:
+248(7) For the purposes of this Act,
+(a) anything (other than a remittance or payment described in paragraph 248(7)(b)) sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed; and
+(b) the remittance or payment of an amount
+(i) deducted or withheld, or
+(ii) payable by a corporation,
+as required by this Act or a regulation shall be deemed to have been made on the day on which it is received by the Receiver General.
+[14] The following provision involves actions taken by the Minister.
+244(14) For the purposes of the Act, where any notice or notification described in subsection 149.1(6.3), 152(3.1), 165(3) or 166.1(5) or any notice of assessment or determination is mailed, it shall be presumed to be mailed on the date of that notice or notification.
+[15] Vern Krishna in his text, The Fundamentals of Canadian Income Tax, 8th edition (Toronto: Carswell, 2004) at page 897 had the following to say on this issue:
+9. – Receipt of Documents
+The Act deems a document mailed by first class mail (or its equivalent) to have been received by the person to whom it was sent on the day when it was mailed. [Paragraph 248(7)(a)] Courier services are generally equivalent to first class mail service. The onus rests on the taxpayer to establish the facts. [Erroca Enterprises Limited v.Canada, (M.N.R.), [1986] 2. C.T.C. 2425, 86 DTC 1821 (T.C.C.). See also VIH Logging Ltd. v. Canada, [2004] 2 C.T.C. 2149, 2004 DTC 2090 (T.C.C. [General Procedure]); affirmed [2005] 1 C.T.C. 387 (F.C.A.) (notice sent when courier picked up mail).]
+[16] The facts in Erroca Enterprises Limited v.Canada (Minister of National Revenue), [1986] 2. C.T.C. 2425 are as follows: The returns had to have been filed by October 31, 1983. The auditor testified that he had the company president sign the return on June 28, 1983, after which he left it with the President to mail. The President testified that his customary practice was to leave mailings on the photocopier for his Office Manager to mail. The Office Manager testified she couldn't remember mailing the returns but it was her customary practice to do so. The company had consistently filed their returns on time and there was nothing to be gained by delaying in this instance.
+In that particular case, then Chief Justice Couture on pages 2428 and 2429 stated in part as follows:
+Admittedly there was no direct evidence as to the actual mailing of the said returns, but the fact that the returns had been prepared and signed, confirmed by Mr. Stille, that the appellant and its president had never been late prior to the experience of 1983, and also the long established practice in dealing with the mail as described by Mr. Coffee and reaffirmed by Mrs. Whiteman carry much weight in appreciating the plausibility of the evidence adduced by these two witnesses.
+For these reasons the Court accepts their respective version of what occurred on the 28th of June, 1983 with respect to these returns, and on the balance of probabilities agrees with them that they were mailed within the prescribed time provided by paragraph 150(1)(a) of the Act. ...
+[17] I have assessed the evidence of the Chartered Accountant of the Appellant Mr. Close, and find him to appear to be a forthright, honest and frank person and, not unlike many chartered accountants, very conservative in the way he conducts his practice. He produced records to corroborate his evidence (Time Records, letter to the client, Statement of Account). Admittedly, there is no direct evidence as to the actual mailing of the tax return in question but the return in question had been prepared, signed and confirmed by the principal of the Appellant, Mr. McGrath following the standard practice and procedure of the Appellant's Chartered Accountant, Mr. Close, for many years. Although they were late in filing in two prior cases, one was really neither here nor there because there were no taxes owing and the other one was nine days late and there was a dispute by Mr. Close as to whether or not in fact it was late. It certainly does appear that Mr. Close had an established practice in dealing with the preparation of the financial information of the company for the purpose of preparing financial statements, the preparation of the financial statements and income tax return, the meeting with the client for the review of the financial statements and the income return and the attendance for the execution by the client of the income tax return and then the mailing of same after the meeting. This practice and procedure was confirmed by the principal of the company, Mr. McGrath, and by Mr. McGrath's former partner in the company, Mr. Tippitt. Neither Mr. McGrath or Mr. Tippitt could testify as to when the tax returns would normally be mailed as they left that to Mr. Close; their evidence does however carry weight in appreciating the plausibility of the evidence adduced by Mr. Close.
+[18] I accept Mr. Close's version of what occurred on October 10, 2000 with respect to this return and on the balance of probabilities agree with the Appellant that the tax return was mailed within the time period prescribed by paragraph 150(1)(a) of the Act.
+[19] Although I do not address specifically the issue of receipt, it goes without saying that documents had to have been received by CRA, within the prescribed time period and there must have been some glitch with respect to the recording of the receipt of the documents. This is understandable given the problems which CRA was experiencing at the time, according to Mr. Close with respect to CRA's conversion to a new computer program.
+[20] I will allow the appeal with costs fixed at $500 in favour of the Appellant.
+Signed at Ottawa, Canada, this 5th day of November, 2007.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2007TCC616
+COURT FILE NO.: 2006-3923(IT)I
+STYLE OF CAUSE: SKYWAY DEVELOPMENTS LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: October 3, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E. P. Rossiter
+DATE OF JUDGMENT: November 5, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Melissa Melanson
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Melissa Melanson
+Firm: Anderson Sinclair
+Moncton, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

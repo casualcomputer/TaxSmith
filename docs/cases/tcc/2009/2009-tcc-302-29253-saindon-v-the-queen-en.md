@@ -1,0 +1,153 @@
+---
+title: "Saindon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29253/index.do"
+last_modified: "2009-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 302"
+citation2: ""
+neutral_citation: "2009 TCC 302"
+decision_date: "2009-06-04"
+language: "en"
+item_id: "29253"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6993
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:13:56.408000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f6bdb22bcc1c1511e7038bf7d2e4b5450fe489f7dae9edbeeae6011e026f927"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saindon v. The Queen
+
+- Citation: 2009 TCC 302
+- Decision date: 2009-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6993, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saindon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-04
+Neutral citation
+2009 TCC 302
+File numbers
+2006-1776(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1776(IT)G
+BETWEEN:
+CLAUDETTE SAINDON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 27, 2009, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Rodrigue E. Lévesque
+Counsel for the respondent:
+Claude Lamoureux
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessment pursuant to the Income Tax Act for the 1999 taxation year is dismissed with costs in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 5th day of June 2009.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 31st day of March 2010
+François Brunet, Revisor
+Citation: 2009 TCC 302 Date: 20090605
+Docket: 2006-1776(IT)G
+BETWEEN:
+CLAUDETTE SAINDON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment by the Minister of National Revenue (the Minister) made after the normal assessment period under subparagraph 152(4)(a)(i) of the Income Tax Act (ITA), concerning the 1999 taxation year.
+[2] The appellant acknowledged that she had failed to report a capital gain of $133,400, realized in 1999. She argues, however, that the Minister is precluded from reassessing her after the normal reassessment period on the ground that the Minister is unable to show that that failure was due to neglect, carelessness or wilful default on the appellant’s part.
+[3] Indeed, the Minister must show this in order to be able to reassess after the three-year limitation period prescribed in subsection 152(3.1) of the ITA. The relevant statutory provisions read as follows:
+152(3.1) Definition of “normal reassessment period” – For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) where at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends 4 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year; and;
+(b) in any other case, the period that ends 3 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year.
+. . .
+152(4) Assessment and reassessment [limitation period] – The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filling out the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or,
+. . .
+[4] The evidence reveals that the appellant is a businesswoman who was trained in bookkeeping, administration and accounting. In 1978, she started working for a company called Bitumar Inc. (Bitumar). In 1981, she acquired some shares in Bitumar through the investment company 1851-1634 Québec Inc (Québec Inc), in which she held shares and for which was the sole director. Through that transaction, the appellant received 1,335 preferred shares in Québec Inc for an agreed sum of $100, pursuant to the roll-over provisions set out in subsection 85(1) of the ITA.
+[5] Following a disagreement with her partner at Bitumar, the appellant sold all of her shares in Québec Inc, including the 1,335 preferred shares mentioned above, in April 1999. Since the sum agreed upon in 1981 was $100, the adjusted cost base of those shares was $100. The proceeds of disposition for the shares were $133,500; accordingly, the appellant realized a capital gain of $133,400. However, when her tax return for 1999 was being prepared in April 2000, the appellant's accountant erroneously considered the cost of the shares as being the same as the proceeds of disposition, namely, $133,500. As a result, no capital gain was entered for those shares.
+[6] The appellant now acknowledges that there was an error, but submits that it did not result from an error on her part. She claims that she is not a tax specialist by training and that, during the dispute with her former partner, she was represented by a tax accountant and a lawyer. That tax accountant had made various calculations to assess the net amount that would be left to the appellant after tax. On the basis of one of those calculations (Exhibit I-1, tab 9, page 3), he established the proceeds of disposition of the 1,335 preferred shares to be $133,500 and the adjusted cost base to be $27,500 (according to the information on the financial statements, Exhibit I-1, tab 9, page 1 and tab 8, page 49, note 5 "contingent liability"). This resulted in a capital gain of $106,000 on those shares. In this calculation, he added the capital gain realized on the sale of the common shares and, after the capital gains exemption of $500,000, was left with an estimated taxable capital gain of $515,900.
+[7] For unexplained reasons, that same accountant, who did not appear before the Court to testify and who had prepared the appellant's tax return for 1999 in April 2000, had determined that the capital gain on the sale of the preferred shares was $0. He simply omitted the 1981 transaction, which had resulted in the transfer of those shares for the agreed sum of $100, and assumed that the shares had been purchased for $133,500.
+[8] The appellant said that she had quickly read through her tax return with the accountant before signing it in April 2000. She trusted him completely, because he was well informed about her file. Indeed, he had attended all the negotiations during the 1999 dispute and had made all the calculations to determine the appellant's net income after tax. Counsel for the appellant maintains that it was difficult for the appellant to notice that the capital gain on the preferred shares had not been reported. Indeed, the taxable capital gain on page 2 of her tax return (Exhibit I-1, tab 1, page 2) is $528,000, while based on the tax accountant's calculations performed at the time of the 1999 transaction, the taxable capital gain was $515,900 (Exhibit I-1, tab 9, page 3). Thus, counsel for the appellant submits that the appellant cannot be considered negligent because she had not noticed that the capital gain of $133,400 on the disposition of the preferred shares had not been reported.
+[9] I note, however, that, according to the spreadsheet with the accountant’s calculations, the total capital gain was $1,015,900 and that, after it was reduced by $500,000 through the capital gains exemption, a taxable capital gain of $515,900 was obtained. If we look at the tax return, the capital gain amount of $528,000 on page 2 does not take into account the capital gains exemption. That exemption is taken into account later on in the calculation of the taxable income, in the same section as the capital losses deduction (on page 25 of the tax return, Exhibit I-1, tab 1). The total deductions are $383,100. Therefore, there is a difference of about $500,000 between the total approximate capital gain on the tax accountant's spreadsheet and the amount he entered on the appellant's tax return.
+[10] In my view, that difference should have alerted the appellant. It was not that difficult for her to notice, when she read through her tax return, that her accountant had entered on page 5 of the return a gain of $0 on the sale of the 1,335 preferred shares. As the sole director of Québec Inc, she signed its financial statements every year. On those statements, a note to financial statements was written about transferring shares at the cost of $27,000 by roll-over under the heading "contingent liabilities" (Exhibit I-1, tab 8). Her accountant also took that into account when he made his calculations at the time of the 1999 transaction (Exhibit I-1, tab 9, pages 1 and 3).
+[11] Counsel for the appellant cited Bondfield Construction Co, [2005] T.C.J. No. 239 (QL), in which Justice Campbell of this Court defined the phrase "due diligence" to establish the standard of care required of a taxpayer by subparagraph 152(4)(a)(i) of the ITA. It is explained as follows at paragraph 95:
+[95] The term due diligence was again described by Justice Bowman in Wong (E) v. Canada, [1996] G.S.T.C. 73-1 (T.C.C.) at 73-5, as follows:
+. . . Due diligence is nothing more than the degree [of] care that a reasonable person would take to ensure compliance with the Act. It does not require perfection or infallibility. It does, however, require more than a casual inquiry of an official in the Tax Department.
+[12] In that decision, Justice Campbell found as follows:
+[104] . . . Therefore, the Minister could not satisfy the second part of the test even if I found a misrepresentation. The Appellant implemented many systems to ensure proper compliance with this new legislation. It retained a full-time internal auditor who was a chartered accountant, accounting staff typical of a business the size of the Appellant, and a top rated external accounting firm. A premier accounting and software system was maintained and the highest level of audit was employed. . . .
+[13] On this point, counsel for the respondent cited Nesbitt v. Canada, [1996] F.C.J. No. 19 (QL), affirmed by [1996] F.C.J. No. 1470 (QL), in which Justice Heald of the Federal Court of Canada, Trial Division, stated as follows at paragraphs 25 and 26:
+[25] In my view, the Plaintiff's actions do not establish that he exercised reasonable care in the completion of his return. The Plaintiff, like all other taxpayers under the Income Tax Act, is required to sign the income tax return after certifying "... that the information given in this return and in any documents attached is true, correct and complete in every respect and fully discloses my income from all sources". It is no answer for a taxpayer to blame any miscalculations or errors on the preparer of his income tax return. In my view, this record establishes that the Plaintiff was neglectful in respect of the preparation and filing of his 1981 tax return.
+[26] The error relating to the calculation of the Plaintiff's capital gains was in the order of approximately $300,000.00. An error of this magnitude should have been clearly apparent to the Plaintiff had he taken reasonable care in reviewing the return. A similar situation was present in the Venne case supra. In that case, Mr. Justice Strayer stated at page 6252:
+The errors in the income tax returns should have been sufficiently obvious that a reasonable man of even limited education and experience, especially one who was apparently a very successful businessman and inventor, should have noticed. ... I think it is apparent from the order of magnitude of these amounts of unreported income, even (with the exception of 1974) as estimated by the taxpayer, that a reasonable taxpayer would have suspected that there was something deficient in the income tax returns which he was signing during this period.
+[14] In my view, the respondent has established that the appellant had been negligent because she had not questioned her accountant more thoroughly in regard to the 1999 transaction when she signed her tax return in April 2000. If she had read her tax return carefully, she would have noticed a significant difference between the capital gain reported on page 2 of her return and the gain that her accountant had calculated before the $500,000 exemption. She would have been able to see that no capital gain had been reported on her preferred shares on page 5 of her tax return. She could have easily made the connection with the calculations her accountant had provided at the time of 1999 transaction. Those calculations showed a capital gain of $106,000 on the preferred shares (Exhibit I-1, tab 9, page 3).
+[15] The appellant was an experienced businesswoman, who knew how to play her game well at the time of the dispute with her former partner. Although a taxpayer is not required to be perfect when preparing his or her tax return, it is sufficient for the Minister, in order to exercise the power provided for in subparagraph 152(4)(a)(i), to show that the appellant has not exercised reasonable care (Venne v. Canada, [1984] F.C.J No. 314 (QL)).
+[16] In this case, I find that the appellant has not exercised reasonable care. She had in hand her accountant's calculations that he had made the previous year, and they did not correspond to the amounts reported in her tax return. She had only to raise the question, and her accountant would typically have verified the income reported one more time.
+[17] For these reasons, I would dismiss the appeal with costs.
+Signed at Montréal, Quebec, this 5th day of June 2009.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 31st day of March 2010
+François Brunet, Revisor
+CITATION: 2009 TCC 302
+COURT FILE NO.: 2006-1776(IT)G
+STYLE OF CAUSE: CLAUDETTE SAINDON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Qubec
+DATE OF HEARING: May 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 5, 2009
+APPEARANCES:
+Counsel for the appellant:
+Rodrigue E. Lévesque
+Counsel for the respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the appellant:
+Name: Rodrigue E. Lévesque
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

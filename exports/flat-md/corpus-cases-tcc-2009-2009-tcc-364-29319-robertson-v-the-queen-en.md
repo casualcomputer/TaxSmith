@@ -1,0 +1,144 @@
+---
+title: "Robertson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29319/index.do"
+last_modified: "2009-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 364"
+citation2: ""
+neutral_citation: "2009 TCC 364"
+decision_date: "2009-09-14"
+language: "en"
+item_id: "29319"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7058
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:58:35.531000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "25ce8b165a2e4506c4d574a0ae5a75bff214dcf1a7ddc246481cc6dc15fcb95f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson v. The Queen
+
+- Citation: 2009 TCC 364
+- Decision date: 2009-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7058, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-14
+Neutral citation
+2009 TCC 364
+File numbers
+2004-3561(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3561(IT)G
+2004-3567(IT)G
+2004-4573(IT)G
+BETWEEN:
+RONALD ROBERTSON and
+ROGER SAUNDERS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion determined pursuant to Rule 69 of the
+Tax Court of Canada Rules (General Procedure)
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellants:
+J.R. Norman Boudreau
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+ORDER
+UPON MOTION of the appellants for an Order for an adjournment of the hearing of the appeals scheduled for three consecutive weeks, commencing on Monday, September 14, 2009, at Winnipeg, Manitoba;
+AND UPON having read the materials filed, and the written submissions of both parties filed pursuant to Rule 69;
+IT IS ORDERED that the motion is dismissed, with costs of the motion to the respondent, in any event, payable forthwith, which are fixed at $250.00.
+Signed at Ottawa, Canada, this 14th day of July 2009.
+“E.A. Bowie”
+E.A. Bowie J.
+Citation: 2009 TCC 364
+Date: 20090714
+Docket: 2004-3561(IT)G
+2004-3567(IT)G
+2004-4573(IT)G
+BETWEEN:
+RONALD ROBERTSON and
+ROGER SAUNDERS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] The appellants bring this motion seeking to adjourn the trial of this matter, and request that the motion be disposed of in writing pursuant to Rule 69. The respondent does not oppose the request that the motion be dealt with in writing, but does oppose the motion to adjourn the trial. The appellants’ reason for seeking the adjournment is to enable their counsel to retain and instruct an expert witness, and to enable that witness to prepare the written statement of his evidence that Rule 145 requires. Although the motion is brought only in the appeal of Ronald Robertson I shall treat it as applying as well to the appeal of Roger Saunders (Docket 2002‑4573(IT)G), as the two appeals are set down to be tried together.
+[2] The motion is supported by an affidavit sworn by J. R. Norman Boudreau. Mr Boudreau is counsel for the appellants. He signed the Notice of Motion, and he signed the Written Representations in support of the motion. It is a long-established principle, found not only in the case law but also in the Canadian Bar Association Code of Professional Conduct, Chapter IX, Commentary 5, that counsel should not appear as advocate and witness in the same cause. This rule applies to evidence given by affidavit as well as orally: see Sherman v. The Queen,[1] I see no reason why it should not apply equally to motions dealt with in writing as to those argued orally. As the matter is of some urgency, and as there is nothing that is contentious in the affidavit, I do not propose to reject the motion for that reason, as I otherwise might
+[3] These appeal, and the related appeals of eight other appellants, were begun in 2004. The appellants challenge the right of the Minister of National Revenue to assess them for income tax in respect of their income which they earn from fishing. They assert aboriginal and treaty rights to fish, free of the burden of taxation, and it is as to this claim that the appellants wish to retain an additional expert witness.
+[4] On September 2, 2008, a case management teleconference was held to establish timelines for the remaining pre-trial steps, and to fix a trial date. By agreement of the parties the trial was fixed to take place at Winnipeg, commencing on Monday September 14, 2009. Three weeks have been allotted for it. At the request of the appellants’ counsel, I included in the Order resulting from that teleconference a provision that the appellants were to deliver their expert witness report under Rule 145 to the respondent by December 1, 2008, and respondent’s counsel was to advise the appellants by January 5, 2009 whether the qualifications of the appellants’ witness to give opinion evidence would be challenged. The respondent’s expert report was to be delivered by May 31, 2009. On December 1, 2008 Mr. Boudreau provided the report and the resumé of the appellants’ expert witness, Mr. Rarihokwats, to Mr. Chartier. On December 23, 2008 Mr. Chartier wrote to Mr. Boudreau to advise that
+“the respondent intends to challenge Mr. Rarihokwats’ qualifications to give expert testimony in this matter.”
+On January 12, 2009, Mr Boudreau wrote to Mr. Chartier inquiring upon what basis Mr. Chartier intended to challenge Mr. Rarihokwats’ qualifications. This letter received no reply. On April 28 the respondent delivered her expert report to the appellant.
+[5] It appears from the affidavit material before me that Mr Boudreau took no steps to attempt to find an alternate expert witness between receiving Mr. Chartier’s letter of December 23, 2008 and the beginning of May 2009. The first person to whom he spoke was too busy to be able to take the matter on, but suggested a Mr. Lytwyn. Mr. Boudreau spoke to Mr. Lytwyn in late June, and he indicated that he would be willing to give evidence, but that he could not prepare a written report until December 1, 2009.
+[6] Mr. Boudreau first suggested to Mr. Chartier that he would be seeking to adjourn the trial on May 29. At a case management teleconference held on June 19 he proposed the adjournment, and I directed that any application to adjourn the trial should be made by motion.
+[7] Mr. Boudreau’s argument for the adjournment is based on two propositions. The first is that to deny the adjournment request would deny the appellants the opportunity to put forward a complete answer to the case against them, and they would therefore be prejudiced in their appeal. The second is that the evidence of Mr. Lytwyn would be of benefit to the Court in deciding the matter.
+[8] It is the appellants who assert aboriginal and treaty rights in these cases, and it is for the appellants to establish those rights. The appellants’ counsel has had since 2004 to marshal the evidence to establish these rights. The need to call expert evidence has been evident throughout. Until Mr. Rarihokwats’ qualifications were called into question in December 2008 the appellants apparently were satisfied that the evidence they proposed to lead was satisfactory. Nothing substantive has changed as a result of Mr. Chartier’s letter of December 28. Admissibility of the evidence is a matter to be decided by the trial judge when the evidence is tendered. Neither counsel for the respondent nor I as a motions judge can decide that the evidence of Mr. Rarihokwots is inadmissible.
+[9] Counsel for the appellants may have had some doubt about the qualification of Mr. Rarihokwots; that would explain his desire to have the respondent take a position on the matter eight months before the trial was to begin. If that was the case then he should have started the search for another expert witness much earlier, rather than wait until four months before the trial. As Sharlow J.A., speaking for a unanimous Court, said in Superior Filter Recycling v. The Queen:[2]
+Generally, once a matter is set down for hearing, the parties must be prepared to proceed at the scheduled time.
+Certainly there are exceptions. Unforeseen events may make it impossible for one party or the other to proceed on a predetermined trial date. In this case nothing has changed since the date was set 10 months ago. Court resources are scarce and expensive. They are not to be wasted by the adjournment of long trials unless there is a compelling change in circumstances.
+[10] I do not find any merit in the suggestion that to deny the adjournment in this case will deprive the trial judge of valuable evidence. Judges decide cases on the evidence that the parties put before them. If an adjournment were to be granted every time a party decided to look for another witness who might support his case then delay would become the norm. This argument loses any force that it might otherwise have when one considers that apparently even the appellants’ counsel does not know, and will not know for some time, what opinion Mr. Lytwyn might actually arrive at. In his letter that is Exhibit F to the affidavit in support of the motion he gives no hint of an opinion on the subject, and he says specifically that he would need to research the question in the Hudson’s Bay Company Archives and the National Archives of Canada.
+[11] For these reasons the motion is dismissed. The respondent shall have costs of the motion in any event, payable forthwith,[3] which I fix at $250.00.
+Signed at Ottawa, Canada, this 14th day of July, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 364
+COURT FILE NOS.: 2004-3561(IT)G
+2004-3567(IT)G
+2004-4573(IT)G
+STYLE OF CAUSE: RONALD ROBERTSON and
+ROGER SAUNDERS and
+HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice E.A. Bowie
+DATE OF ORDER: July 14, 2009
+APPEARANCES:
+Counsel for the Appellants:
+J.R. Norman Boudreau
+Counsel for the Respondent:
+Gerald Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: J.R. Norman Boudreau
+Firm: Booth Dennehy
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] 2 C.T.C. 2670.
+[2] 2006 DTC 6491; 2006 FCA 248 (FCA).
+[3] Axton v. Kent (1991) 2 O.R. (3rd) 797; Leckie Morel v. The Queen, 2008 TCC 491.

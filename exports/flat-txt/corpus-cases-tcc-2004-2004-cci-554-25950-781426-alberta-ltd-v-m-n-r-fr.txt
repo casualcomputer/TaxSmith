@@ -1,0 +1,99 @@
+Title: 781426 Alberta Ltd v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25950/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-554-25950-781426-alberta-ltd-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-09-16
+
+# 781426 Alberta Ltd v. M.N.R.
+
+- Citation: 2004 CCI 554
+- Decision date: 2004-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+781426 Alberta Ltd v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-16
+Référence neutre
+2004 CCI 554
+Numéro de dossier
+2003-2453(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2004CCI554
+Date : 20040916
+Dossier : 2003-2453(EI)
+ENTRE :
+781426 ALBERTA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à Calgary (Alberta)
+le 15 juin 2004)
+[1] Cet appel a été entendu à Calgary (Alberta), le 14 juin 2004. Peter Woloshyn, ancien directeur de l'appelante, a été la seule personne à témoigner.
+[2] L'appel se rapportait uniquement au présumé emploi exercé par Ted Winker en 2001 et en 2002 auprès de l'appelante, qui exploitait à Calgary une entreprise sous le nom de Bowest RV ( « Bowest » ) tant que l'entreprise n'a pas été vendue le 1er juin 2002. Les questions en litige sont énoncées aux paragraphes 7 et 8 de la réponse à l'avis d'appel, lesquels sont rédigés comme suit :
+[TRADUCTION]
+7. En établissant ainsi une cotisation à l'égard du travailleur, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) l'appelante s'occupait de la réparation de véhicules récréatifs ( « VR » ) et de la transformation de fourgonnettes;
+b) le travailleur a été embauché comme travailleur non qualifié; il aidait les techniciens en VR de l'appelante (ci-après « les techniciens » );
+c) le travailleur avait notamment pour tâche d'enlever de vieux réfrigérateurs, de vieilles installations de plomberie, du matériel électrique, des panneaux de contrôle et des batteries;
+d) le travailleur a reçu une formation en cours d'emploi sur la façon de réparer les VR;
+e) le travailleur n'avait pas conclu de contrat écrit avec l'appelante;
+f) le travailleur touchait un salaire horaire fixe de 10 $;
+g) l'entreprise de l'appelante était régulièrement ouverte de 8 h à 17 h, et plus longtemps pendant l'été;
+h) l'appelante fixait et contrôlait les heures de travail du travailleur;
+i) le travailleur effectuait les heures nécessaires pour accomplir le travail;
+j) le travailleur enregistrait ses heures et soumettait un compte rendu à l'appelante;
+k) le travailleur exerçait un emploi subalterne;
+l) le travailleur était supervisé et dirigé par l'appelante et par les techniciens;
+m) le travailleur recevait des instructions au sujet de la façon d'accomplir ses tâches;
+n) le rendement et la qualité du travail du travailleur étaient surveillés par l'appelante;
+o) le travailleur devait personnellement fournir ses services;
+p) le travailleur n'embauchait pas ses propres aides;
+q) le travailleur fournissait ses services à l'atelier de l'appelante;
+r) l'appelante fournissait les locaux de travail, y compris un atelier meublé, des outils à commande mécanique et des outils à main;
+s) le travailleur fournissait certains de ses propres outils à main;
+t) le travailleur n'engageait pas de dépenses dans l'exécution de ses tâches auprès de l'appelante;
+u) le travailleur n'était pas responsable des erreurs ou des actes de négligence;
+v) le travailleur n'exigeait pas la TPS de l'appelante;
+w) l'appelante a versé au travailleur les montants suivants pour les années 2001 et 2002 :
+2001 8 240 $
+2002 1 510 $
+B. QUESTIONS À TRANCHER
+8. La question à trancher est de savoir si le travailleur était régi par un contrat de louage de services conclu avec l'appelante pendant les années 2001 et 2002.
+[3] Les hypothèses énoncées aux alinéas 7a), f), g), i), j), o), p), q), r), s), t), v) et w) n'ont pas été réfutées. Quant aux autres hypothèses :
+b) Le travailleur a été embauché comme réparateur non technique expérimenté; il travaillait d'une façon autonome dans les locaux de l'appelante et utilisait en bonne partie les outils de l'appelante.
+c) Le travailleur était chargé d'installer les dispositifs d'attelage de remorque, d'effectuer des réparations et des travaux mécaniques mineurs et d'accomplir les tâches y afférentes.
+d) Le travailleur n'avait pas besoin de formation; il avait plutôt été embauché à titre de travailleur expérimenté.
+e) Le travailleur et l'appelante avaient conclu un contrat écrit qui a été produit en preuve.
+h) Le travailleur recevait un appel téléphonique de M. Woloshyn lorsqu'il devait se présenter aux locaux de l'appelante chaque jour où il travaillait et on lui demandait d'accomplir le travail précis demandé moyennant une rémunération horaire.
+k) Le travailleur recevait des instructions de M. Woloshyn sous la forme de demandes de travail pour des tâches précises.
+l) Le travailleur était supervisé par M. Woloshyn, mais non par les autres techniciens.
+m) On n'avait pas à expliquer au travailleur comment accomplir ses tâches.
+n) Le temps consacré par le travailleur à une tâche précise était surveillé compte tenu de l'estimation du temps nécessaire selon la demande de travail de M. Woloshyn, mais le rendement et la qualité du travail mêmes du travailleur n'étaient pas surveillés. On s'attendait plutôt, compte tenu de l'expérience et des capacités du travailleur, à ce qu'il effectue un travail de qualité normale.
+u) Cette hypothèse est essentiellement correcte.
+[4] Compte tenu des critères énoncés dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, la Cour tire les conclusions ci-après énoncées :
+1. Le contrôle : Bowest assignait le travail. Le travailleur ne pouvait pas envoyer une personne pour le remplacer. Si le travailleur tardait à exécuter un travail demandé, M. Woloshyn vérifiait son travail.
+2. Les instruments de travail et l'équipement : Le travailleur utilisait en bonne partie les outils et les locaux de l'appelante, mais il possédait une trousse d'outils.
+3. Les chances de bénéfice et les risques de perte : Le travailleur avait été embauché et il était rémunéré à l'heure pour effectuer du travail aux pièces. Le travailleur ne risquait de subir des pertes qu'en cas de pénurie de travail.
+4. L'intégration : L'entreprise appartenait à Bowest et les clients étaient ceux de Bowest. Le travailleur était complètement intégré aux opérations.
+[5] Compte tenu des remarques qui précèdent, le travailleur était un employé de l'appelante. L'appel est rejeté.
+Signé à Vancouver (Colombie-Britannique), ce 16e jour de septembre 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Jacques Deschênes, traducteur

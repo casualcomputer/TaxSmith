@@ -1,0 +1,209 @@
+Title: Mineiro v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232125/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-109-232125-mineiro-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-16
+
+# Mineiro v. The Queen
+
+- Citation: 2017 TCC 109
+- Decision date: 2017-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2119, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mineiro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-16
+Neutral citation
+2017 TCC 109
+File numbers
+2016-671(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-671(GST)I
+BETWEEN:
+MARISA MINEIRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 9, 2017, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+René Manfroi
+Counsel for the Respondent:
+Huseyin Akyol
+JUDGMENT
+The appeal from the assessment issued under the Excise Tax Act, notice of which is dated March 19, 2015, and bears the number F-057417, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of June 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 109
+Date: 20170616
+Docket: 2016-671(GST)I
+BETWEEN:
+MARISA MINEIRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from an assessment made under Part IX of the Excise Tax Act, R.S.C., 1985, c. E-15, as amended (the ETA), by the Quebec Minister of Revenue as an agent of the Minister of National Revenue (hereinafter the Minister), notice of which is dated March 19, 2015, and bears number F-057417.
+[2] The assessment at issue is a third-party assessment issued under subsection 325(2) of the ETA regarding the transfer of property between the company 9192-9737 Québec Inc. (9192) and the appellant through a bank draft in the amount of $15,000 dated December 19, 2012. The amount claimed from the appellant is $2,459.25.
+[3] In establishing the appellant’s assessment, the Minister based his conclusions on, among other things, the following conclusions and assumptions of fact, stated in paragraph 17 of the Reply to Notice of Appeal:
+a) the facts admitted above;
+b) on December 19, 2012, the company 9192-9737 Québec Inc. transferred $15,000 to the appellant by cheque;
+c) at the time of the transfer, on December 19, 2012, the ceding company, 9192-9737 Québec Inc., had a non-arm’s length relationship with the appellant, who is the daughter of the shareholder of the ceding company, Joaquim Mineiro;
+d) the appellant did not provide any consideration to the ceding company, 9192-9737 Québec Inc.;
+e) the appellant did not report this amount of $15,000 on her income tax return for 2012;
+f) at the time of the transfer, on December 19, 2012, the ceding company 9192-9737 Québec Inc. owed an amount of $115,062.14 in fees, interests and penalties under tax laws, including an amount of $18,941.18 under Part IX of the ETA representing 16.46% of its total tax debt;
+g) the company 9192-9737 Québec Inc. transferred an amount of $15,000 to the appellant, the shareholder’s daughter, for no consideration;
+h) therefore, following the transfer, the appellant received an advantage of $15,000;
+i) therefore, the Minister considered that the amount by which the FMV of the transferred property ($15,000) at the time of the transfer exceeded the FMV of the consideration paid ($0) by the appellant for the transferred property was $15,000;
+j) the appellant is thus jointly and severally liable to pay the amount the ceding company (9192-9737 Québec Inc.) owes under the ETA for its reporting period including the time of the transfer, including interest and penalties.
+The issues
+[4] This case raises the following issues:
+a) whether the appellant is jointly and severally liable to the company 9192 to pay a portion of the amount it owes under the ETA at the time of the transfer; and
+b) whether the appellant paid fair market value consideration on the date of transfer equal to or greater than the fair market value of the transferred property on the transfer date.
+[5] The appellant does not dispute:
+a) that the company 9192 had a tax debt of $18,941.18 under the ETA on the transfer date, representing 16.46% of its total tax debt;
+b) that, on the transfer date, she had a non-arm’s length relationship with the company 9192 because her father owned the company; and
+c) that on December 19, 2012, she received a bank draft from the company 9192 in the amount of $15,000, which, on the transfer date, had a fair market value of $15,000.
+The testimonies
+[6] The appellant and her father, Joachim Mineiro, testified at the hearing that the amount of $15,000 was for reimbursement of a loan she had made to her father on March 15, 2004, and that the loan was partially reimbursed through the bank account of company 9192.
+[7] Marisa Mineiro is currently the principal of an elementary school in the Montreal area.
+[8] On November 14, 2002, Ms. Mineiro purchased a condominium with her fiancé, Paolo Pannunzio, with the unit number 306, on the third floor of a building located at 7536 Maurice-Duplessis Boulevard in Montreal. The price paid for the condominium was $125,000, to which was added tax adjustments, transfer tax and notary fees. The buyers made a down payment of $20,000 and took out a mortgage on November 8, 2002, in the amount of $107,100 with the Caisse d’économie des Portugais de Montréal. On the mortgage deed, Ms. Mineiro reported that she was single, an adult and had never been married and that she resided at 12245 René Chopin Street, apartment 5, in Montreal. Mr. Pannunzio reported that he then resided at 8122 Maurice-Duplessis in Montreal.
+[9] The purchase of the condominium on November 14, 2002, coincides with the year when Ms. Mineiro began her career as an elementary school teacher.
+[10] In 2003, the owners of the condominium had renovations done by the appellant’s father with the assistance of her father-in-law. The appellant’s father had a licence from the Régie du Bâtiment du Québec, but no renovation permit was obtained from the municipality. The work was completed over a period of over 12 months during spare time, especially on weekends. The work consisted of laying tile in the kitchen and bathroom, replacing the toilet and a faucet, improving the soundproofing, painting the unit and replacing heating and lighting appliances. The cost of the work was not precisely determined.
+[11] Ms. Mineiro and her fiancé were to marry in June 2014, but the marriage was called off because of difficulties in their relationship in 2003, apparently caused by Mr. Pannunzio’s financial problems. Because Mr. Pannunzio was asking for half of all the couple’s assets, the appellant had to hire a lawyer to reach a settlement on the financial terms of the separation.
+[12] To help his daughter with the negotiations, the appellant’s father sent the co-owners of the condominium an invoice for the renovation work done on the unit and registered a legal mortgage on the building to secure payment.
+[13] The invoice was dated May 16, 2003, when the renovation work was not yet complete. The invoice was made by Joachim Mineiro, operating under the business name “Les Installations Joe Mineiro”. The invoice was for a total amount of $32,166.51 including taxes and services rendered for supplies, the laying of ceramic tile, granite and other accessories. It also includes the purchase and transportation of materials and labour for a total of 238.5 hours at $60 per hour.
+[14] The notice of legal mortgage is dated June 9, 2003, and involves the total amount of the invoice of $32,166.51 for materials and services provided, which had not yet been paid.
+[15] The renovation work was completed, and the condominium was sold on March 11, 2004, for $180,000. On the bill of sale, Ms. Mineiro reported that she lived at 7650 Suzanne Giroux Street, apartment 102, in Montreal. The seller of the building, defined in the bill of sale as including Marisa Mineiro and Paolo Pannunzio, made the following statement in the bill of sale:
+The Seller declares that the building currently being sold is a building occupied primarily for residential purposes, that no major renovations have been performed and that the Seller did not claim and will not claim any input tax credits or input tax refunds for the acquisition of or improvements made to the building.
+Consequently, the sale is exempt under the provisions of the Excise Tax Act and the Act respecting the Québec sales tax.
+[16] During her testimony, the appellant stated that she had never lived in the condominium and did not report her part of the gain realized from the sale of the condominium on her income tax return for the 2004 taxation year.
+[17] On March 11, 2004, the notary who orchestrated the sale of the condominium applied the purchase price of $180,000 to the Groupe Sutton Synergie de l’Est Inc.’s commission ($3450.75), the repayment of the mortgage with the C.P. d’Économie des Portugais de Montréal ($104,912.62), the repayment of the legal mortgage ($32,166.51), the payment of school taxes ($310), municipal taxes ($840) and notary fees ($1066.69). The total of the amounts thus paid is $142,746.57. The difference of $37,253.43 plus adjustments of $676.06 for a total of $37,929.49 was paid to the appellant with the agreement of Mr. Pannunzio, who specifically authorized the notary to pay the sums detailed above on his behalf.
+[18] According to the appellant, the sum of $32,166.51 paid to her father through the legal mortgage was actually a loan to be repaid later at his discretion when he was able to do so. However, the appellant acknowledged that there is no document confirming the existence of such a loan.
+[19] On August 16, 2010, the appellant solely purchased a residence at 11 859, 28th Avenue in Rivière-des-Prairies. The purchase price of $280,000 was financed by a mortgage from the National Bank of Canada in an amount corresponding to 100% of the purchase price. The residence was built in the 1980s and needed renovations. The appellant’s father again helped her perform the necessary renovations.
+[20] The appellant explained that the sum of $15,007.50 that she received from her father in 2012 was applied in full to pay for the renovation work on that residence.
+[21] The appellant also explained that, on October 10, 2010, she took out a second mortgage on that residence with CitiFinancial Canada Inc. in the amount of $26,279.21 to repay a student loan of $17,000 and to pay the damages and interest resulting from breaking the lease at the residence where she had been living.
+[22] The appellant’s net income for each year from 1995 to 2015 was submitted into evidence. For the years 2002 to 2012, her net income was as follows:
+Year
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+Net income ($)
+22,376
+22,882
+34,857
+42,384
+36,989
+36,637
+40,092
+47,048
+40,363
+53,831
+53,051
+[23] Joachim Mineiro also testified at the hearing, and he explained that the sum of $32,166.51 he received as reimbursement for the legal mortgage registered on the condominium his daughter and her ex-fiancé owned did not belong to him because he had agreed to do the renovation work for free and because she had paid for the materials used for the renovation work with her credit card. When he received the sum in question in 2004, his daughter apparently told him that she did not need the money. On March 15, 2004, he deposited in the bank account of his sole proprietorship, Les Installations Joe Mineiro, $15,000 and the sum of $32,166.51 he had previously deposited into his personal bank account.
+[24] On February 18, 2008, Mr. Mineiro incorporated the company 9192-9737 Québec Inc., a corporation established under Part 1A of the Quebec Companies Act, of which he became shareholder with Jose Alberto Agostinho. The company 9192-9737 Québec Inc. began operating in 2008, and the end of his first fiscal year was April 30, 2009. The registration of the sole proprietorship Les Installations Joe Mineiro was struck out on December 10, 2008, and Mr. Mineiro then stopped using it but did not transfer the assets and liabilities of the sole proprietorship to the company 9192-9737 Québec Inc.
+[25] One year after the company 9192-9737 Québec Inc. began operating, Mr. Agostinho was in a serious accident and retired from business. Subsequently, Mr. Mineiro continued operating 9192-9737 Québec Inc. on his own.
+[26] During his testimony, Mr. Mineiro explained that between 2004 and 2012 he did not reimburse anything to his daughter. The only amount reimbursed is the sum of $15,007.50 paid on December 19, 2012, through a bank draft withdrawn from the bank account of company 9192-9737 Québec Inc.
+Applicable law
+[27] Section 325 of the ETA sets out rules according to which the transferee of property (money being equivalent to property under subsection 325(5)) may be liable for the transferor’s unpaid taxes if the two parties were not dealing at arm’s length. The amount the transferee may owe is limited to the amount by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property.
+[28] Subsections 325(1), (2) and (5) read as follows:
+Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor’s spouse or common-law partner or an individual who has since become the transferor’s spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm’s length, the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A – B
+where
+A is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+a) (e) the total of all amounts each of which is
+(i) (i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) (ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+...
+Assessment
+325(2) The Minister may at any time assess a transferee in respect of any amount payable by reason of this section, and the provisions of sections 296 to 311 apply, with such modifications as the circumstances require.
+325(5) Meaning of property
+In this section, property includes money.
+Analysis
+[29] For the purposes of the ETA, an assessment is deemed valid and binding, notwithstanding any error, defect or omission therein or in any proceeding relating thereto (see subsection 299(4)), a presumption that may be rebutted by the taxpayer.
+[30] The taxpayer’s initial onus is to “demolish” the presumption by presenting a prima facie case, which has the effect of reversing the burden of proof on the respondent, who must then refute the prima facie case and prove the merit of the assessment.
+[31] In Stewart v. Canada, [2000] T.C.J. no. 53, the Tax Court of Canada defined a prima facie case as follows:
+A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence.”
+[32] In House v. Canada, [2011] F.C.J. no. 1220, the Federal Court of Appeal recognized that a credible testimony can rebut the presumption of an assessment’s validity even if the assertions are not supported by documentation.
+[33] In Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, Madam Justice Claire L’Heureux-Dubé accepted evidence based on a testimony that was clear and was not shaken in cross-examination from a witness with whom no question of credibility was ever raised and where the respondent did not adduce any evidence whatsoever (see paragraphs 51 and 91).
+[34] In this case, the onus is on the appellant to prove the existence of a loan to her father and her father’s repayment of part of that loan.
+[35] The appellant’s arguments are based essentially on the merit of her testimony and that of her father, which are consistent but do not create such a degree of probability for the Court to accept them.
+[36] There are no documents to support the existence of a loan from the appellant to her father specifying the conditions of the loan, i.e., the term, the interest rate and the method of repayment. The verbal agreement made between the appellant and her father on the renovation work could also be considered a gift rather than a loan.
+[37] The testimonies of the appellant and her father contradict a notarial act, i.e., the legal mortgage intended to guarantee payment for the renovation work, which is itself based on a false invoice. The appellant’s father performed the renovation work free of charge, and, according to the facts reported by her father, the appellant paid for the materials used for the work using her credit card.
+[38] The invoice and legal mortgage were part of a strategy to protect the appellant’s property in the context of her separation. The appellant’s ex-fiancé did not testify at the hearing, and the separation agreement was not submitted into evidence.
+[39] Moreover, the appellant did not obtain a renovation permit from the municipality to perform the work, and no proof that the appellant covered the cost materials used was produced in court.
+[40] The credibility of the testimonies of the appellant and her father was called into question during the hearing. The appellant did not report the gain or profit generated by the sale of the condominium on her income tax return for taxation year 2004 even though, by her own admission, she never lived in the condominium in question. The appellant’s father was audited for the taxation years 2004 to 2007, inclusively, and reassessments were issued for each of those years for unreported income, and a penalty for gross negligence was imposed because Mr. Mineiro’s accounting was deficient in several regards. Mr. Mineiro challenged these reassessments in the Court of Quebec, but they were upheld despite some adjustments. Furthermore, Mr. Mineiro provided information in his notice of objection that contradicts reassessments issued for taxation years 2006 and 2007 and the explanations provided at the hearing. In the notice of objection, Mr. Mineiro reported the following:
+In 2004 upon the sale of her home, Mr. Mineiro’s daughter repaid the sum of $47,166 deposited into the company account and transferred into his personal account. On March 15, he transferred $15,000 into the company account and $13,783 on August 6.
+[41] The respondent submitted into evidence the statement from the Caisse d’économie des Portugais dated March 15, 2004, showing a net deposit of $47,166.51 consisting of a cheque of $15,000 from the appellant and a cheque from the notary Silvano Gabrielli, who formalized the sale of the appellant’s condominium in the amount of $32,166.51.
+[42] The cheque of $15,000 from the appellant appears to be the reimbursement of the sum of $15,000 loaned by her father to help her purchase the condominium in 2002 even though, according to her testimony, her father never helped her with the purchase.
+[43] Regardless of whether or not the appellant made a loan to her father, the amount of $15,000 that was transferred to the appellant on December 19, 2012, came from the company 9192-9737 Québec Inc., with which the appellant had no privity and which did not exist in 2002, 2003 and 2004.
+[44] In 2008, Mr. Mineiro closed and struck out his sole proprietorship, Les Installations Joe Mineiro, and formed the company 9192-9737 Québec Inc. with another shareholder to continue his business activities in 2009 and the following years. No assets or liabilities were transferred between Les Installations Joe Mineiro and the company 9192-9737 Québec Inc. The financial statements of 9192-9737 Québec Inc. for the years 2009 to 2012 show no amount owing to a shareholder or administrator except for a sum of $3700 on the opening balance sheet dated April 30, 2009, a sum of $1596 on April 30, 2010, and a sum of $4682 on April 30, 2011.
+[45] Consequently, the transfer to the company 9192-9737 Québec Inc. of the debt Mr. Mineiro could have owed to the appellant was not shown, which means that the appellant paid no consideration for the transfer of the amount of $15,000 from the company 9192-9737 Québec Inc.
+[46] Lastly, the respondent demonstrated that the appellant did not have the financial resources to loan her father $32,166.51 in 2004. The appellant’s net income for the years 2002, 2003 and 2004 was only $22,376, $22,882 and $34,857, respectively, and her ex-fiancé had spent a large amount of the savings in a joint account to pay for the marriage and make a deposit to purchase the condominium where the couple was going to live.
+[47] In 2012, the appellant had to take out a mortgage of $280,000, an amount equivalent to 100% of the purchase price of the residence as well as an additional loan of $26,279.61 to repay a student loan of $17,000 and to pay the damages and interest for breaking her lease at her residence.
+[48] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of June 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 109
+COURT FILE NO.:
+2016-671(GST)I
+STYLE OF CAUSE:
+Marisa Mineiro and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 9, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+June 16, 2017
+APPEARANCES:
+Counsel for the Appellant:
+René Manfroi
+Counsel for the Respondent:
+Huseyin Akyol
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+René Manfroi
+Firm:
+[Blank/ En Blanc]
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

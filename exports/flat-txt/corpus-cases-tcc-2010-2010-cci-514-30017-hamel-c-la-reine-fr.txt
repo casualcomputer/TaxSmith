@@ -1,0 +1,100 @@
+Title: Hamel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30017/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-514-30017-hamel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-14
+
+# Hamel c. La Reine
+
+- Citation: 2010 CCI 514
+- Decision date: 2010-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7668, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-14
+Référence neutre
+2010 CCI 514
+Numéro de dossier
+2010-379(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-379(IT)I
+ENTRE :
+NORMAND HAMEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 août 2010, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelant :
+Carmen Baron
+Avocat de l'intimée :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu en date du 30 juillet 2009, pour l’année d’imposition 2008, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 514
+Date : 20101014
+Dossier : 2010-379(IT)I
+ENTRE :
+NORMAND HAMEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel concernant une déduction de 50 000 $ réclamée au titre de pension alimentaire pour l’année d’imposition 2008 et refusée par le ministre du Revenu national (le « ministre »).
+[2] La question en litige est de savoir si le ministre était justifié de refuser à l’appelant la déduction de 50 000 $ réclamée au titre de pension alimentaire.
+[3] L’appelant, qui était présent à l’audience, s’est fait représenter par sa conjointe, Carmen Baron, qui a témoigné. Elle a expliqué que le couple avait dû débourser un montant de 92 000 $ réparti en deux tranches. Un premier montant de 42 000 $ qui ne fait pas l’objet de l’appel aurait été versée à titre de pension alimentaire alors que l’autre partie, soit 50 000 $ versée au moyen de deux paiements, un de 10 000 $ et un autre de 40 000 $ aurait représenté une provision pour frais, alors que l’appelant soutient qu’il s’agit, encore là, de paiements périodiques devant être considérés comme une pension alimentaire.
+[4] Madame Baron a expliqué que l’Agence du Revenu du Canada (l’Agence) lui avait indiqué que le premier montant était une pension alimentaire qui n’était pas déductible parce qu’elle était payable au bénéfice et au profit des enfants.
+[5] S’appuyant sur cette interprétation, elle a soutenu que le montant en cause de 50 000 $ était un montant versé au père des enfants à titre de pension alimentaire ou de prestation déductible.
+[6] Pour appuyer ses prétentions, elle a notamment affirmé que le père pouvait utiliser cet argent à son gré et que le montant avait été payé de façon périodique, soit au moyen de deux versements.
+[7] Elle a également fourni des détails sur les nombreux affrontements juridiques entre eux et le père des enfants, nés de son union avec leur fille. Les explications soumises me sont apparues à première vue particulières, sympathiques, mais aussi très pénibles pour des grands‑parents à qui il est refusé de pouvoir voir et sortir leurs petits enfants.
+[8] De son côté, l’intimée a fait valoir que le montant litigieux ne présentait aucunement les caractéristiques essentielles pour qu’on puisse conclure qu’il s’agit d’une pension alimentaire déductible. Elle a notamment fait ressortir le titre et le type de la requête introductive d’instance dont a résulté les paiements en litige.
+[9] Elle a également insisté sur le contenu tant du consentement à jugement faisant état très exactement de la nature des deux paiements que du jugement qui a suivi.
+[10] L’intimée a également produit une volumineuse preuve documentaire relatant et décrivant notamment, en long en large, les procédures dont a été saisie la Cour supérieure; elle a attiré l’attention du tribunal sur certaines inscriptions pertinentes figurant au volumineux procès-verbal ou plumitif.
+[11] À la lumière de la preuve documentaire présentée par l’intimée, il ne fait aucun doute que les montants qui font l’objet de ce litige n’ont pas été déboursés à titre de pension alimentaire, mais l’ont plutôt été à titre de provision pour frais, d’ailleurs qualifiés ainsi sur les procédures introductives, mais aussi lors du jugement intervenu sur la requête. Un montant payé à titre de provision pour frais ne peut évidemment pas être traité comme une pension alimentaire.
+[12] D’autre part, les explications présentées par la conjointe de l’appelant, corroborées, sous serment, par ce dernier, ont essentiellement confirmé la nature véritable des paiements.
+[13] Leurs prétentions à l’effet qu’il s’agissait d’une pension alimentaire reposent essentiellement sur l’attrait de l’avantage fiscal résultant du paiement d’une pension alimentaire dans certaines situations. L’appel a donc été rejeté séance tenante.
+[14] Lors de ce jugement oral, j’ai exprimé certains sentiments quant à la gravité d’une situation, sans doute très pénible, où les grands‑parents se voient refuser le droit de voir et de sortir leurs petits‑enfants, sentiment que je n’aurais pas exprimés si j’avais lu tout le contenu de la pièce I-2.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 514
+Nº DU DOSSIER DE LA COUR : 2010-379(IT)I
+INTITULÉ DE LA CAUSE : Normand Hamel c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 27 août 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 14 octobre 2010
+COMPARUTIONS :
+Représentante de l’appelant :
+Carmen Baron
+Avocat de l'intimée :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,150 @@
+Title: Bayrack  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/365199/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-53-365199-bayrack-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-06
+
+# Bayrack  c. La Reine
+
+- Citation: 2019 CCI 53
+- Decision date: 2019-03-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4308, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bayrack c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-06
+Référence neutre
+2019 CCI 53
+Numéro de dossier
+2017-4552(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4552(IT)I
+ENTRE :
+DAVID L. BAYRACK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 novembre 2018, à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de mars 2019.
+« Susan Wong »
+Juge Wong
+Référence : 2019 CCI 53
+Date : 20190306
+Dossier : 2017‑4552(IT)I
+ENTRE :
+DAVID L. BAYRACK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+[1] La question à trancher en l’espèce est de savoir si l’appelant David Bayrack a le droit de demander un crédit d’impôt non remboursable pour une personne entièrement à charge au cours de son année d’imposition 2014. Ce crédit est également appelé crédit d’impôt équivalent pour conjoint ou personne à charge admissible.
+[2] M. Bayrack fut le seul témoin à l’audience.
+Le cadre législatif
+[3] Le crédit pour personne entièrement à charge se trouve au paragraphe 118(1) de la Loi de l’impôt sur le revenu (la « Loi ») et ses critères précis se trouvent à l’alinéa b) de la formule de calcul B.
+[4] Il n’existe pas de différend entre les parties au sujet des critères énoncés à l’alinéa b) de la formule de calcul. Le désaccord réside plutôt dans l’application des paragraphes 118(5) et 118(5.1), dont les parties pertinentes se lisent comme suit :
+118(5) Pension alimentaire
+Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+(a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+[…]
+118(5.1) Non-application du par. (5)
+À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+[5] Il n’existe pas de différend entre les parties en ce qui a trait au fait que l’appelant était tenu de verser une pension alimentaire en 2014, au sens du paragraphe 56.1(4) de la Loi. Toutefois, il y a désaccord quant à savoir si l’ex-épouse de l’appelant était également tenue de verser une pension alimentaire cette année-là, au sens de ce même paragraphe.
+[6] La définition de « pension alimentaire » au paragraphe 56.1(4) se lit comme suit :
+56.1(4) […]
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+(a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+(b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[7] En ramenant les dispositions à leur effet pratique aux fins du présent appel, si l’on suppose qu’un seul parent paie une pension alimentaire pour enfants, le paragraphe 118(5) vient alors empêcher la demande de déduction en vertu du paragraphe 118(1). Toutefois, si les deux parents se versent une pension alimentaire pour enfants, le paragraphe 118(5.1) vient alors empêcher l’application du paragraphe 118(5). Ainsi, la déduction prévue au paragraphe 118(1) serait permise.
+Les faits
+[8] L’appelant et son ex-épouse ont eu deux enfants pendant leur mariage. Ils se sont séparés le 28 juillet 2013 et, à toutes les époques en cause, ils ont vécu séparément en raison de la rupture du mariage.
+[9] Le 8 septembre 2014, la Cour du Banc de la Reine de l’Alberta a rendu une ordonnance par consentement qui stipulait notamment que :
+[traduction]
+1. Les parties ont la garde conjointe des enfants et sont assujetties à un accord de partage des responsabilités parentales à raison d’une rotation de quatre jours avec chaque parent.
+2. David Bayrack versera à Nichole Bayrack la somme de 409 $ par mois en guise de pension alimentaire pour enfants, payable le 15e jour de chaque mois à compter du 15 octobre 2014.
+[…]
+4. Chaque parent pourra faire état d’un enfant comme personne à charge dans sa déclaration de revenu.
+(Pièce A‑1)
+[10] Ni l’appelant ni son ex-épouse n’étaient représentés par un avocat au moment où l’ordonnance de septembre 2014 a été rendue. C’est cette ordonnance qui fait l’objet du présent appel.
+[11] Le 15 juin 2016, alors que l’appelant et son ex-épouse étaient chacun représentés par un avocat, la Cour du Banc de la Reine a rendu une ordonnance modificative par consentement, modifiant le paragraphe 4 de l’ordonnance de septembre 2014 comme suit :
+[traduction]
+4. L’intimé et la requérante ont la garde partagée de leurs enfants, [nom caviardé] et [nom caviardé], à part égale approximativement, et les deux parents ont tous deux eu l’obligation juridique de verser une pension alimentaire pour enfants depuis leur séparation du 28 juillet 2013, obligation juridique leur incombant donc depuis l’année 2013. Par conséquent, l’intimé (le père) pourra faire état de [nom caviardé] afin d’obtenir la déduction pour personne à charge admissible à la ligne 305 de sa déclaration de revenu et de prestations pour les années imposables écoulées depuis la séparation et la requérante (la mère) pourra faire état de [nom caviardé] afin d’obtenir la déduction pour personne à charge admissible à la ligne 305 de sa déclaration de revenu et de prestations pour les années imposables écoulées depuis la séparation, conformément au paragraphe 118(5.1) de la Loi de l’impôt sur le revenu.
+(Pièce A‑2)
+[12] Le 16 novembre 2017, alors que l’appelant et son ex-épouse étaient représentés par un nouvel avocat, la Cour du Banc de la Reine a rendu une ordonnance remplaçant les paragraphes 2 et 4 de l’ordonnance de septembre 2014 par ce qui suit :
+[traduction]
+2. L’intimé doit verser à la requérante une pension alimentaire de 1 167 $ en vertu du par. 3. La requérante doit verser à l’intimé une pension alimentaire de 758 $ en vertu du par. 3. Pour des raisons de commodité, seule cette dernière obligation peut être remplie si l’intimé remet à la requérante le montant net de 409 $;
+4. L’intimé et la requérante ont la garde partagée de leurs enfants, [nom caviardé] et [nom caviardé], à part égale approximativement, et les deux parents ont tous deux eu l’obligation juridique de verser une pension alimentaire depuis leur séparation du 28 juillet 2013, obligation juridique leur incombant donc depuis l’année 2013. Par conséquent, l’intimé (le père) pourra faire état de [nom caviardé] afin d’obtenir la déduction pour personne à charge admissible à la ligne 305 de sa déclaration de revenu et de prestations pour les années imposables écoulées depuis la séparation et la requérante (la mère) pourra faire état de [nom caviardé] afin d’obtenir la déduction pour personne à charge admissible à la ligne 305 de sa déclaration de revenu et de prestations pour les années imposables écoulées depuis la séparation, conformément au paragraphe 118(5) de la Loi de l’impôt sur le revenu.
+(Pièce A‑3)
+[13] L’appelant a déclaré que son ex-épouse et lui avaient l’obligation de verser une pension alimentaire pour enfants en vertu de l’ordonnance de septembre 2014. Il a également déclaré que les ordonnances de juin 2016 et de novembre 2017 attestaient de leurs efforts visant à démontrer leur intention d’essayer de parvenir à une entente équitable à l’égard de leurs enfants.
+[14] L’appelant a déclaré que le ministre du Revenu national lui a refusé le crédit d’impôt lorsqu’il a présenté l’ordonnance de juin 2016, mais qu’il le lui a accordé pour son année d’imposition 2017 après qu’il ait présenté l’ordonnance de novembre 2017.
+L’analyse
+[15] Dans l’arrêt Verones c. Canada, 2013 CAF 69, 2013 DTC 5061 (confirmant la décision 2012 CCI 291), la Cour d’appel fédérale a examiné un ensemble de faits semblables à celui de l’espèce. Dans cette affaire, l’appelant a versé une pension alimentaire mensuelle pour enfants d’un montant qui représentait une compensation entre ce que lui et son ex-épouse étaient tenus de verser en vertu des Lignes directrices fédérales sur les pensions alimentaires pour enfants (DORS/97‑175) (les « Lignes directrices »). Leurs revenus respectifs en vertu des Lignes directrices ont été mentionnés dans l’ordonnance de la cour visée (comme c’est le cas dans le présent appel).
+[16] En confirmant le rejet de l’appel par le juge de la Cour de l’impôt, la Cour d’appel fédérale a déclaré au paragraphe 6 que :
+[6] Tout le débat autour du concept de la compensation ne fait que détourner notre attention de la véritable question, en l’occurrence celle de savoir si l’appelant est ou non le seul parent payant une « pension alimentaire pour enfants » conformément à une « ordonnance d’un tribunal compétent » ou à un « accord écrit » au sens de la Loi.
+[17] Au paragraphe 9 de l’arrêt Verones, la Cour s’est dite d’accord avec la présomption du juge de la Cour canadienne de l’impôt selon laquelle le paragraphe 118(5.1) a été incorporé pour accorder une dispense lorsque les deux parents paient effectivement une pension alimentaire pour enfants.
+[18] Dans le présent appel, l’ordonnance de septembre 2014 enjoignait seulement à l’appelant de verser une pension alimentaire pour enfants. En ce qui concerne son ex-épouse, son revenu a été pris en compte dans le calcul établi selon les Lignes directrices et le montant du revenu est mentionné dans cette ordonnance. Toutefois, aucune ordonnance ne lui enjoignait de verser une pension alimentaire à l’appelant.
+[19] La Cour d’appel a indiqué, au paragraphe 8 de l’arrêt Verones :
+[8] Une fois que l’obligation de chacun des parents par rapport aux enfants a été précisée, le parent dont les revenus sont les plus élevés peut être obligé de verser une pension alimentaire pour enfants au parent dont les revenus sont moins élevés dans le cadre de l’exécution de son obligation. Cependant, au bout du compte, le concept de la compensation ne transforme pas l’obligation respective des parents de contribuer à l’éducation des enfants en une « pension alimentaire » au sens de la Loi.
+[20] Dans le présent appel, l’appelant et son ex-épouse étaient obligés de subvenir aux besoins des enfants du mariage selon leurs moyens financiers relatifs. Les pensions alimentaires versées par l’appelant représentaient une compensation de leurs capacités financières respectives plutôt qu’une compensation des pensions alimentaires pour enfants respectives.
+[21] En ce qui concerne l’effet de l’ordonnance de novembre 2017, l’avocat de l’intimé a déclaré à juste titre que les paragraphes 56.1(3) et 60.1(3) limitent tout effet rétroactif à un an. D’autres critères législatifs doivent être remplis avant qu’un paiement puisse être traité rétroactivement. Toutefois, je n’ai pas l’intention d’en discuter, car le fait que 2014 soit l’année visée par le présent appel signifie que ces dispositions ne s’appliquent pas à première vue.
+[22] L’appelant a fait référence à la décision Lawson c. Sa Majesté la Reine, 2017 CCI 131, 2017 DTC 1079, à l’appui de son hypothèse. Toutefois, les faits dans la décision Lawson diffèrent de l’espèce en ce sens que le montant versé par M. Lawson n’était pas fondé uniquement sur les Lignes directrices.
+[23] Je suis bien consciente de l’argument de l’appelant et des circonstances qui ont mené à l’appel. Toutefois, les dispositions législatives applicables et l’ordonnance de septembre 2014 sont clairement formulés et je dois statuer en conséquence.
+Conclusion
+[24] L’appelant n’a pas le droit de demander le crédit d’impôt pour personne entièrement à charge pour l’année d’imposition 2014 parce que la restriction prévue au paragraphe 118(5) s’applique.
+[25] L’appel est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de mars 2019.
+« Susan Wong »
+Juge Wong
+RÉFÉRENCE :
+2019 CCI 53
+N° DU DOSSIER DE LA COUR :
+2017‑4552(IT)I
+INTITULÉ :
+DAVID L. BAYRACK et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 20 novembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT:
+Le 6 mars 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

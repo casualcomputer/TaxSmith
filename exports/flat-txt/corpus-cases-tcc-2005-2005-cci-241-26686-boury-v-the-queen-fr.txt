@@ -1,0 +1,163 @@
+Title: Boury v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26686/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-241-26686-boury-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-08
+
+# Boury v. The Queen
+
+- Citation: 2005 CCI 241
+- Decision date: 2005-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3432, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boury v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-08
+Référence neutre
+2005 CCI 241
+Numéro de dossier
+2004-3895(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3895(IT)I
+ENTRE :
+NAHLA BOURY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+NRC Consulting Ltd. dans le dossier 2004-3894(IT)I
+le 24 février 2005 à Calgary (Alberta)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Lesley Akst
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 3e jour d'octobre 2005.
+Marie-Christine Gervais, traductrice
+Dossier : 2004-3894(IT)I
+ENTRE :
+NRC CONSULTING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de
+Nahla Boury dans le dossier 2004-3895(IT)I
+le 24 février 2005 à Calgary (Alberta)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Représentante de l'appelante :
+Nahla Boury
+Avocat de l'intimée :
+Me Lesley Akst
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 3e jour d'octobre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI241
+Date : 20050408
+Dossier : 2004-3895(IT)I
+ENTRE :
+NAHLA BOURY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2004-3894(IT)I
+NRC CONSULTING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan,
+[1] Nahla Boury et la société professionnelle dont elle est l'unique propriétaire, NRC Consulting Ltd. ( « NRC » ), interjettent appel des nouvelles cotisations qui ont été établies pour l'année d'imposition 2001. Dans le cas de Mme Boury, le ministre du Revenu national a établi une nouvelle cotisation pour tenir compte d'un avantage conféré à un actionnaire visé au paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard d'un véhicule et d'une oeuvre d'art. Lorsqu'il a établi la nouvelle cotisation de NRC, le ministre a refusé, selon le paragraphe 18(1) de la Loi, les montants demandés à titre de dépenses d'entreprise pour le véhicule et l'oeuvre d'art. Les appels ont été entendus ensemble. La question commune aux deux appels est de déterminer dans quelle proportion le véhicule était utilisé par Mme Boury à des fins personnelles et par NRC à des fins professionnelles.
+[2] Mme Boury est une ingénieure qui, par l'intermédiaire de NRC, offre des services de conseils à l'industrie pétrolière et gazière en Alberta. Elle est l'unique actionnaire de NRC. En 2001, NRC était exploitée à partir d'un bureau situé dans la résidence de Mme Boury. Mme Boury utilisait le bureau pour effectuer les activités administratives et le travail « au bureau » de NRC et pour tenir certaines réunions, mais elle ne recevait pas de clients de NRC au bureau. Une grande partie de son travail pour la société était effectué à l'extérieur du bureau, soit pour rencontrer les clients dans leurs bureaux, généralement au centre-ville de Calgary, soit pour travailler « sur le terrain » , dans un rayon de 300 kilomètres autour de Calgary. Dans le cadre des activités de NRC, Mme Boury devait transporter des dossiers confidentiels pour ses réunions et du matériel pour le travail sur le terrain. Elle avait donc besoin d'un véhicule pour exercer les activités de NRC. En 2001, NRC a utilisé un Ford Escalade qui avait été acheté au nom de Mme Boury. Elle a conduit le Ford Escalade, qu'elle a qualifié de [TRADUCTION] « bureau mobile » , sur une distance totale d'environ 20 000 kilomètres en 2001. NRC a versé directement à GMAC des paiements mensuels totalisant 15 015 $ et a payé aux fournisseurs les frais relatifs au carburant et aux réparations pour le Ford Escalade qui s'élevaient à 2 127 $, et elle a déclaré ces montants en tant que dépenses d'entreprise. Aucun élément de preuve ne permet d'établir que NRC ait jamais payé quoi que ce soit à Mme Boury pour l'utilisation du véhicule. NRC a aussi déclaré comme dépense d'entreprise le prix d'achat d'une peinture parce que celle-ci était exposée dans le bureau à domicile en 2001.
+[3] Comme les distinctions entre Mme Boury et sa société ne sont pas toujours claires, Mme Boury est maintenant en désaccord avec le ministre à l'égard de l'impôt à payer par les deux entités. Elle a indiqué dans son témoignage que dans la pratique, elle avait une [TRADUCTION] « relation floue » avec NRC. Par exemple, si NRC avait besoin d'argent pour payer des dépenses, elle mettait personnellement de l'argent dans le compte de NRC. De la même façon, de temps en temps, elle prenait de l'argent dans le compte de NRC à des fins personnelles. Elle s'est créé d'autres problèmes en omettant de tenir les documents comptables appropriés pour elle et pour NRC. En plus de ne pas avoir tenu de registre pour le véhicule, elle a témoigné qu'elle s'occupait de sa comptabilité en mettant tout simplement tous les documents liés à la société dans un dossier et en apportant le dossier à son comptable à la fin de l'année pour qu'il trie les documents.
+1. Ford Escalade - usage à des fins personnelles vs usage à des fins professionnelles
+[4] La première question est commune aux deux appels : combien de kilomètres ont été parcourus par le Ford Escalade à des fins professionnelles et à des fins personnelles? Le ministre a supposé[1] qu'il serait raisonnable de répartir l'usage du véhicule de la manière suivante : utilisation de 25 % à des fins professionnelles et de 75 % à des fins personnelles. Toutefois, compte tenu des nouveaux éléments de preuve présentés par Mme Boury, l'avocat de la Couronne a indiqué que l'usage du véhicule à des fins professionnelles était peut-être plus élevé. Pour sa part, même si NRC avait au départ basé ses déductions pour dépense d'entreprise sur un usage du véhicule à des fins professionnelles de 80 %, lors de l'audience, Mme Boury a admis que l'usage du véhicule à de telles fins avait peut-être été un peu inférieur à 80 %. Après avoir examiné la preuve de Mme Boury et de Mme Winsome Jarrett, la vérificatrice de l'Agence des douanes et du revenu du Canada à qui les dossiers avaient été attribués, et étant donné ce qui précède, je suis convaincue que la bonne réponse se trouve quelque part entre les estimations initiales des parties.
+[5] Mme Boury a présenté en preuve des copies de factures à titre d'exemple de la clientèle de NRC afin d'appuyer son allégation selon laquelle le Ford Escalade avait été utilisé à des fins professionnelles : elle devait parcourir une distance de 15 kilomètres entre son bureau à domicile et les adresses situées au centre-ville figurant sur les factures des clients. Elle a dit que, généralement, dans le cadre de son travail pour NRC, elle effectuait un voyage aller-retour de 30 kilomètres, elle rencontrait des clients et elle passait chercher du matériel aux locaux du Alberta Energy and Utilities Board. De plus, elle a fait en moyenne quatre visites sur le terrain d'au plus 600 kilomètres chacune en 2001. Si je me fonde sur un total de 150 kilomètres parcourus hebdomadairement pour se rendre à Calgary et sur un maximum de 2 400 kilomètres parcourus dans le cadre de visites sur le terrain, le véhicule aurait parcouru 10 200 kilomètres à des fins professionnelles au total en 2001, ou environ la moitié des 20 000 kilomètres parcourus par le véhicule en 2001. Cela ne me paraît pas déraisonnable. Mme Jarrett, dont j'ai trouvé le témoignage utile et convaincant, a reconnu volontiers qu'au moment où elle a présenté son rapport final, elle n'avait pas en sa possession les renseignements fournis en l'espèce, ni de documents lui permettant de justifier une répartition de l'usage du véhicule autre que la répartition fondée sur la proposition concernant un usage à des fins professionnelles de 20 % apparemment acceptée par le comptable de Mme Boury et sur laquelle elle s'est tout naturellement fondée. Pendant le contre-interrogatoire, Mme Boury a expliqué que même si elle avait rédigé une lettre[2] à Mme Jarrett pour autoriser l'ADRC à discuter de son dossier avec son comptable, elle n'avait pas autorisé ce dernier à convenir d'un usage de 20 % et elle ne savait pas qu'il avait fait une telle chose jusqu'à ce qu'elle reçoive la nouvelle cotisation établie en fonction de ce pourcentage de 20 %. Compte tenu de ce qui précède, je suis convaincue, selon la prépondérance des probabilités, que NRC a utilisé le Ford Escalade à des fins professionnelles 50 % du temps, ce qui signifie que Mme Boury a aussi utilisé le véhicule à des fins personnelles 50 % du temps.
+2. Appel de NRC Consulting Ltd.
+[6] Maintenant qu'il a été déterminé que le Ford Escalade était utilisé à des fins professionnelles 50 % du temps, la prochaine étape consiste à examiner l'appel de NRC. Le ministre a refusé la déduction de toute partie des paiements mensuels et des dépenses liées à l'utilisation du véhicule que NRC a effectués à l'égard du Ford Escalade parce que Mme Boury était la propriétaire du véhicule et qu'il était donc réservé exclusivement à son usage personnel. Comme il n'y a pas de registre pour le véhicule, le ministre a calculé et accordé une allocation pour usage d'une automobile fondée sur un usage de 20 % à des fins professionnelles. Le ministre a aussi refusé comme dépense d'entreprise le montant que NRC a payé pour une peinture qui, selon la société, était exposée dans le bureau à domicile en 2001.
+a) Dépenses liées au Ford Escalade
+[7] Selon l'alinéa 18(1)a) de la Loi, dans le calcul du revenu d'un contribuable tiré d'une entreprise, « [...] les éléments suivants ne sont pas déductibles : les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise [...] » . La question de savoir si c'est bien le cas constitue une question de fait qui doit être tranchée en fonction de la preuve produite dans un cas donné. Comme j'ai conclu que le Ford Escalade avait été utilisé 50 % du temps afin de gagner un revenu en 2001 dans le cadre des services de conseils de NRC, NRC doit donc pouvoir déduire 50 % des montants qu'elle a payés pour l'utilisation légitime du véhicule à des fins professionnelles. Rien ne prouve que NRC a versé des sommes directement à Mme Boury pour l'utilisation du véhicule dont celle-ci est propriétaire. Au lieu de cela, NRC a payé directement à GMAC les montants que Mme Boury devait personnellement en vertu de l'accord de financement. Il aurait été déraisonnable que NRC puisse utiliser gratuitement un véhicule neuf dont elle a besoin pour exercer ses activités commerciales. En versant directement les paiements à GMAC, NRC payait en réalité Mme Boury pour l'utilisation de son véhicule, une dépense engagée à juste titre par la société afin de gagner un revenu. La même logique s'applique aux frais relatifs au carburant et aux réparations engagés pour le Ford Escalade. Par conséquent, NRC a le droit de déduire 50 % des montants demandés à l'égard des paiements à GMAC et des dépenses liées à l'utilisation du véhicule en 2001.
+b) oeuvre d'art
+[8] Le ministre a refusé une déduction demandée à titre de dépense d'entreprise par NRC à l'égard du prix d'achat d'une peinture. L'hypothèse du ministre selon laquelle NRC avait acheté la peinture[3] n'a pas été contestée. Même s'il semble que la dépense aurait dû être traitée à titre de coût en capital, dans un cas comme dans l'autre, il faut déterminer si la peinture a été utilisée afin de tirer un revenu de l'entreprise. Compte tenu de la preuve présentée, je ne suis pas convaincue que la peinture ait quelque objet commercial que ce soit. Mme Boury a témoigné qu'en 2001, la peinture était exposée dans le bureau à domicile de l'entreprise. Mme Jarrett a indiqué dans son témoignage qu'elle n'a pas vu d'oeuvre d'art lorsqu'elle s'est rendue au bureau à domicile pour effectuer sa vérification en 2002. Quoi qu'il en soit, Mme Boury a admis qu'elle ne recevait pas de clients au bureau à domicile. Le bureau était utilisé seulement pour les personnes qu'elle a décrites ainsi : [TRADUCTION] « les agents fonciers, les dactylographes, les [personnes faisant] du classement et d'autres experts-conseils » , et dont elle retenait les services dans le cadre du travail que NRC accomplissait pour ses clients. Même s'il y avait une peinture dans le bureau à domicile en 2001, je ne vois aucun lien entre la présence de la peinture et la production du revenu de NRC. Selon moi, la peinture était là pour l'usage personnel de Mme Boury, et le ministre a donc eu raison de refuser une déduction pour dépense d'entreprise concernant l'achat de la peinture.
+3. Appel de Nahla Boury
+[9] La question soulevée dans l'appel de Mme Boury est de savoir si le ministre a établi à juste titre la cotisation pour l'année d'imposition 2001 pour tenir compte d'un avantage conféré à un actionnaire de 13 053 $ à l'égard du Ford Escalade et de l'oeuvre d'art de 4 010 $.
+a) Ford Escalade
+[10] Dans l'arrêt Servais c. Canada[4], une décision rendue par la Cour d'appel fédérale, la juge Sharlow a indiqué ce qui suit au paragraphe 14 : « [...] toute utilisation par un actionnaire d'un bien de la société peut être assujettie à un impôt en vertu du paragraphe 15(1). La valeur de l'avantage est déterminée conformément au principes énoncés dans la jurisprudence (voir par exemple Youngman c. Canada (1990), 109 N.R. 276, 90 D.T.C. 6322, [1990] 2 C.T.C. 10 (C.A.F.)) sauf dans la mesure où la méthode d'évaluation est stipulée dans la Loi de l'impôt sur le revenu. » La présente affaire constitue une variante de la situation plus typique où l'actionnaire utilise un véhicule de la société; ici, l'actionnaire, Mme Boury, était la propriétaire du Ford Escalade, mais les paiements pour le véhicule et les dépenses liées à l'utilisation du véhicule ont été effectués par NRC.
+[11] La question de savoir si un avantage a été conféré à un actionnaire est une question de fait[5]. Pour examiner les circonstances de chaque affaire, la Cour a comme guide le processus à deux étapes décrit par la Cour d'appel fédérale dans l'arrêt Youngman (L.) v. Canada[6] :
+Afin d'évaluer un avantage pour les fins de l'alinéa 15(1)c), il est premièrement nécessaire de déterminer quel est cet avantage ou, en d'autres termes, qu'est-ce que la société a fait pour son actionnaire; deuxièmement, il est nécessaire de trouver le prix que l'actionnaire aurait eu à payer, dans des circonstances semblables, pour obtenir le même avantage d'une société dont il n'était pas actionnaire.
+Ou, comme le juge Strayer l'a succinctement dit dans l'arrêt Canada v. Fingold[7], la Cour doit tenir compte de « [...] la question fondamentale de savoir si un avantage a été conféré à un actionnaire et, dans l'affirmative, quelle en était la valeur » .
+[12] Ce que NRC a fait pour Mme Boury consistait à effectuer les paiements mensuels que Mme Boury aurait autrement dû verser personnellement à GMAC, ainsi que de payer pour elle, directement aux fournisseurs, les frais relatifs au carburant et aux réparations engagés pour le Ford Escalade. Aucune société dont elle n'aurait pas été actionnaire n'aurait agi de façon aussi généreuse; les paiements ont été effectués de cette façon en raison de la manière désinvolte dont Mme Boury considère les lignes de démarcation juridique entre elle et son alter ego (sa société). Quoi qu'il en soit, il est clair que NRC a conféré un avantage à Mme Boury. La prochaine étape consiste à déterminer la valeur de cet avantage. Si je tiens compte de ce que j'ai déterminé plus tôt, à savoir que l'utilisation du Ford Escalade à des fins professionnelles est de 50 %, Mme Boury a donc seulement utilisé le véhicule à des fins personnelles 50 % du temps en 2001. Ainsi, la valeur de l'avantage conféré à l'actionnaire qu'elle a reçu de NRC correspond à 50 % des montants que la société a payés à l'égard des versements à GMAC et des dépenses liées à l'utilisation du véhicule pour cette année d'imposition.
+b) oeuvre d'art
+[13] Étant donné les conclusions que j'ai tirées précédemment selon lesquelles l'oeuvre d'art avait été achetée par NRC et l'achat n'avait pas d'objet commercial, la société a donc conféré un avantage à Mme Boury en ce qui concerne la peinture. Le ministre a considéré que la valeur de la peinture était de 4 010 $[8], un montant confirmé par Mme Boury dans la pièce R-1, [TRADUCTION] « Certificat d'authenticité » pour la peinture. Par conséquent, le ministre a inclus à juste titre dans le revenu la valeur de la peinture selon le paragraphe 15(1) de la Loi.
+[14] Les appels sont accueillis et les nouvelles cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations conformément aux présents motifs du jugement.
+Signé à Ottawa, Canada, ce 8e jour d'avril 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme ce 3e jour d'octobre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI241
+NOS DES DOSSIERS DE LA COUR :
+2004-3895(IT)I et 2004-3894(IT)I
+INTITULÉS DES CAUSES :
+Nahla Boury c. S.M.R.
+NRC Consulting Ltd. c. S.M.R.
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 24 février 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge G. Sheridan
+DATE DU JUGEMENT :
+Le 8 avril 2005
+COMPARUTIONS :
+Représentante de l'appelante :
+Nahla Boury
+Avocat de l'intimée :
+Me Lesley Akst
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Alinéa 8g) de la réponse à l'avis d'appel de Mme Boury et alinéa 8j) de la réponse à l'avis d'appel de NRC.
+[2] Pièce R-2
+[3] Alinéa 8j) de la réponse à l'avis d'appel de Mme Boury.
+[4] [2003] A.C.F. no 1301
+[5] Canada (Minister of National Revenue) v. Pillsbury Holdings Ltd. [1965] 1 C. de l'É. 676 (Cour de l'Échiquier du Canada); Canadav. Fingold [1997] 3 C.T.C. 441 (C.A.F.)
+[6] [1990] 2 C.T.C. 10 (C.A.F.), aux pp. 14-15
+[7] [1997] 3 C.T.C. 441, par. 15
+[8] Alinéa 8j) de la réponse à l'avis d'appel de Mme Boury.

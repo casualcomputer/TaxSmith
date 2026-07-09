@@ -1,0 +1,144 @@
+Title: DeWinter Entreprises (1996) Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28170/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-856-28170-dewinter-entreprises-1996-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-11-25
+
+# DeWinter Entreprises (1996) Ltd. c. M.R.N.
+
+- Citation: 2003 CCI 856
+- Decision date: 2003-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2016, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeWinter Entreprises (1996) Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-25
+Référence neutre
+2003 CCI 856
+Numéro de dossier
+2003-916(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002‑916(EI)
+ENTRE :
+DeWINTER ENTERPRISES (1996) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 novembre 2003 à Prince George (Colombie‑Britannique)
+Devant : L’honorable juge C. H. McArthur
+Comparutions
+Représentant de l’appelante :
+Ron DeWinter
+Avocat de l’intimé :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi est accueilli et la décision du ministre du Revenu national en ce qui concerne l’appel interjeté devant lui en vertu de l’article 92 de la Loi est annulée pour le motif que Brian Baker n’occupait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi pendant la période allant du 16 novembre 2001 au 1er mai 2002.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 8e jour de mars 2004.
+Ingrid B. Miranda, traductrice
+Dossier : 2003‑918(CPP)
+ENTRE :
+DeWINTER ENTERPRISES (1996) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 novembre 2003 à Prince George (Colombie‑Britannique)
+Par : L’honorable juge C. H. McArthur
+Comparutions
+Représentant de l’appelante :
+Ron DeWinter
+Avocat de l’intimé :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de l’article 28 du Régime de pensions du Canada est accueilli et la décision du ministre du Revenu national en ce qui concerne la demande présentée devant lui en vertu de l’article 27.1 du Régime est annulée pour le motif que Brian Baker n’occupait pas un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime pendant la période allant du 16 novembre 2001 au 1er mai 2002.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 8e jour de mars 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI856
+Date : 20031125
+Dossiers : 2003‑916(EI) et 2003‑918(CPP)
+ENTRE :
+DeWINTER ENTERPRISES (1996) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel interjeté à l’encontre de la décision du ministre du Revenu national selon laquelle Brian Baker occupait un emploi assurable auprès de l’appelante pendant la période allant du 16 novembre 2001 au 1er mai 2002. L’appelante fait valoir que Brian Baker exploitait sa propre entreprise et ne travaillait pas en qualité d’employé. Le problème consiste en ce que l’on a imputé à l’appelante des cotisations d’assurance‑emploi concernant Brian Baker qui était conducteur de taxi.
+[2] L’intimé soutient que Brian Baker occupait un emploi assurable dans le cadre d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi.
+[3] La société appelante appartient en parts égales à Ron et à Lynn DeWinter. Ron DeWinter était le seul témoin. L’appelante dirige une ligne de taxis à Dawson Creek, en Colombie‑Britannique, près de 500 milles au nord‑est de Prince George. L’appelante employait six répartiteurs. Selon la feuille de temps de l’appelante et selon les appels de répartition, Brian Baker louait et conduisait un taxi appartenant à l’appelante et travaillait douze heures pendant le quart du jour. Il ne s’est pas absenté une seule journée de son travail pendant la période spécifiée. S’il l’avait fait, l’appelante aurait cherché quelqu’un d’autre pour conduire la voiture attribuée à M. Baker. Il devait téléphoner à l’appelante s’il n’était pas disponible pour travailler, afin que la voiture puisse être louée à quelqu’un d’autre. Il pouvait la conduire tant qu’il voulait, mais il devait informer l’appelante les jours où il n’avait pas l’intention de louer de voiture.
+[4] Il a signé une entente de renonciation dans laquelle il acceptait d’assumer ses propres contributions au Régime de pensions du Canada et cotisations d’assurance‑emploi, ainsi que de payer 50 p. 100 de ses recettes brutes par quart de travail pour régler les frais de location d’une des voitures de l’appelante ainsi que les frais de répartition. Brian Baker assumait le coût de l’essence. Dans l’entente de renonciation, il a reconnu travailler à son propre compte. Il possédait un permis de classe 4 en son nom ainsi qu’un permis de chauffeur lui permettant de conduire tout taxi enregistré.
+[5] À la fin de chaque journée de travail, Brian Baker payait à l’appelante 50 p. 100 de son revenu brut de la journée. Cela réglait les frais de location de la voiture, les frais de répartition et la collecte des bordereaux d’achat à crédit. Il ne s’est pas présenté à la Cour.
+[6] M. DeWinter a décrit M. Baker comme [TRADUCTION] « un homme de 70 ans très agréable et pour qui il avait beaucoup d’estime. » M. Baker s’est blessé en soulevant sa maison[1] et il n’est plus en mesure de conduire de taxi. L’entente de renonciation dont il est fait mention est formulée ainsi :
+[TRADUCTION]
+Date : le 16 novembre 2001
+RENONCIATION
+En tant qu’exploitant à contrat auprès de DeWinter Enterprises (1996) Ltd. s/n « Yellow Cabs – AC Taxi », à Dawson Creek, en Colombie‑Britannique, je comprends clairement que je travaille à mon propre compte. J’accepte de travailler en cette qualité et d’assumer les frais suivants :
+1) de payer à la société 50 p. 100 du total de mes recettes brutes par quart de travail pour régler les frais de répartition et de location de véhicule;
+2) de payer les frais d’essence et de lave‑auto, après chaque quart de travail;
+3) s’inscrire en vue d’obtenir un numéro de TPS et de payer la TPS requise;
+4) de m’enregistrer auprès de la Commission des accidents du travail et d’en payer les cotisations appropriées, ainsi que les coûts se rapportant à l’assurance‑emploi et au Régime de pensions du Canada.
+J’ACCEPTE LES CONDITIONS DÉCRITES CI‑DESSUS
+Nom (en caractères d’imprimerie) : Brian Baker
+Signature : « Brian Baker »
+[7] L’avocat de l’intimé a renvoyé à l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2] ainsi que le critère de quatre éléments énoncé dans l’affaire Wiebe Door Services Ltd. c. M.R.N.[3] et dans Montreal v. Montreal Locomotive Works Ltd.[4], mentionné et adopté par la Cour suprême du Canada dans l’arrêt Sagaz.
+[8] Il y a eu de nombreuses instances concernant des conducteurs de taxi devant la Cour. Chacune des affaires se fonde sur ses propres faits. L’arrêt Sagaz précise que, pour répondre à la question principale, qui consiste à savoir à qui appartient l’entreprise, il faut appliquer les critères du contrôle, de la propriété des instruments de travail, ainsi que le critère évaluant les chances de profit et les risques de perte.
+[9] L’avocat de l’intimé a très honnêtement communiqué la décision de la Cour d’appel fédérale dans l’affaire Yellow Cab Company Ltd. c. M.R.N.[5]. Bien qu’il ait essayé de distinguer les faits en l’espèce de ceux de l’affaire Yellow Cab, je les trouve similaires et, pour les motifs suivants, je conclus que Brian Baker travaillait plus en qualité d’entrepreneur indépendant qu’en qualité d’employé. Dans Yellow Cab, comme dans le cas en l’espèce, la question était de savoir si un exploitant à contrat de taxi travaille ou non à son propre compte.
+[10] Après avoir appliqué les critères précités aux faits de la présente affaire, je conclus ceci :
+(i) Contrôle
+Brian Baker était un exploitant à contrat. Il louait quotidiennement, chez l’appelante, une voiture dotée d’un compteur et d’un signe. Il payait aussi des frais de répartition qui lui concédaient le droit de se voir attribuer les clients de l’appelante. De plus, il avait le droit privilégié de se voir attribuer ses propres clients si ceux‑ci demandaient spécialement pour lui. En théorie, il avait le droit de conduire toute la journée sans répartiteur. Il avait un permis de chauffeur, certifiant auprès des autorités provinciales qu’il possédait les qualités nécessaires pour conduire un taxi. Sa compétence et son comportement étaient tels que, pendant toute la période spécifiée, il n’a jamais été surveillé lorsqu’il conduisait. Il pouvait choisir ses jours de travail. Alors que M. Baker n’avait pas le droit de céder ses fonctions de chauffeur à quelqu’un sans la permission de M. DeWinter, il avait le droit de laisser quelqu’un d’autre conduire à sa place s’il le désirait. Dans la décision Yellow Cab, au paragraphe 25, le juge Sexton a déclaré ceci :
+25 Par exemple, les exploitants à contrat sont tenus de se conformer à tous les ordres ou à toutes les directives qui leur sont adressés au sujet des services de répartition et de l'exploitation générale des taxis; ils sont tenus de conduire diligemment le taxi sur une base continue et doivent utiliser les services de comptabilité et d'approvisionnement en carburant de Yellow Cab. Yellow Cab peut ordonner la suspension ou le renvoi de chauffeurs qui contreviennent aux règles ou aux règlements de la compagnie ou aux règles ou aux règlements de toute municipalité ou autre organisme de réglementation. Seuls l'exploitant à contrat ou un chauffeur agréé par Yellow Cab peuvent conduire le taxi. Ces faits tendent à établir l'existence d'un degré de contrôle de la part de Yellow Cab suffisant pour montrer que les exploitants à contrat étaient des employés.
+Ces conclusions sont applicables aussi au cas en l’espèce. Cependant, si on lit ce critère en conjonction avec le paragraphe précédent, je trouve le résultat non concluant.
+ii) Propriété des instruments de travail
+Au moyen du contrat de location, M. Baker obtenait le droit, chaque jour, d’exploiter un taxi complètement équipé. Bien qu’on ait pu lui attribuer une voiture différente chaque jour, il avait le droit exclusif de l’exploiter pendant toute la journée, conformément aux conditions spécifiées. Je conclus que ce critère favorise l’appelante. Je ne vois pas de différence entre un bail quotidien et un bail mensuel.
+(iii) Risque de perte et chance de profit
+L’obligation financière quotidienne de M. Baker fluctuait parallèlement à ses recettes. Plus il travaillait dur, plus d’argent il gagnait. M. Baker devait payer l’essence lui‑même. Ses gains étaient variables et dépendaient de sa compétence et de ses efforts. Ceci semble indiquer que M. Baker exploitait sa propre entreprise. Le juge Sexton a ainsi continué aux paragraphes 30 et 31 :
+30 Ainsi que l'a déclaré le juge Major dans l'arrêt Sagaz, « Leur [les facteurs susmentionnés] importance relative respective dépend des circonstances et des faits particuliers de l'affaire ». D'après les faits dont nous sommes saisis, j'estime que la chance de tirer un profit, le degré relatif de risque financier et l'aptitude des exploitants à contrat à « exploiter leur propre entreprise » sont les facteurs les plus importants. Ces facteurs militent tous contre la conclusion selon laquelle les exploitants à contrat sont des employés de Yellow Cab.
+31 Revenant à la question centrale énoncée par le juge Major dans l'arrêt Sagaz, je conclus que les exploitants à contrat exercent leur activité pour leur propre compte. J'estime également que le juge Hamlyn a commis une erreur en considérant uniquement le facteur du contrôle à l'exclusion d'autres facteurs pertinents. Les exploitants à contrat ont pour activité de fournir des taxis au public et sont de ce fait les exploitants de l'entreprise de taxi au sens de l'alinéa 6e). De son côté, l'activité de Yellow Cab consiste à fournir des services administratifs à l'entreprise de taxi, y compris la fourniture de services de soutien sous forme de services de répartition, de comptabilité, de marque et de marketing.
+Cela est également applicable à la présente affaire.
+[11] Je ne peux pas faire abstraction du libellé de la renonciation. M. Baker a reconnu qu’il était employé à son propre compte, qu’il louait une voiture et qu’il payait des frais de répartition. Je suis d’accord avec les observations suivantes du juge Bell dans Sara Consulting and Promotions Inc. c. M.R.N.[6] qui est applicable aussi dans l’affaire devant la Cour :
+[...] En l'absence d'une preuve que l'opération est un trompe‑l'œil ou qu'elle représente un abus des dispositions de la Loi, il n'appartient pas à un tribunal de déterminer si elle rend le contribuable admissible à une déduction. Si les conditions de l'article sont remplies, le contribuable peut l'invoquer et il est loisible au législateur de lui interdire expressément de les invoquer à l'avenir dans de telles situations.
+.
+De toute évidence, je dois tirer une inférence négative du fait que M. Baker a choisi de ne pas témoigner. M. DeWinter s’attendait à le contre‑interroger. Son témoignage aurait pu être préjudiciable à la position de l’intimé. Je suis conscient que le voyage de Dawson Creek à Prince George est long et coûteux. M. DeWinter s’est vu dans l’obligation de l’entreprendre et il n’a pas conclu que M. Baker, en tant qu’employé, devait se présenter devant la Cour. Bien que cela n’ait pas eu une incidence sur ma décision, M. DeWinter a indiqué que, s’ils sont tenus de payer toutes les cotisations d’assurance‑emploi et les autres avantages sociaux, alors lui, sa femme et sa société devront faire faillite.
+[12] Pour toutes ces raisons, je conclus que M. Baker travaillait à son propre compte.
+[13] L’appel est accueilli au motif que Brian Baker n’occupait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi; il n’occupait pas non plus un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 8e jour de mars 2004.
+Ingrid B. Miranda, traductrice
+[1] M. DeWinter a expliqué que la maison en question était un type de maison mobile relativement courant à Dawson Creek.
+[2] [2001] 2 R.C.S. 983.
+[3] [1986] 3 C.F. 553.
+[4] [1947] 1 DLR 161.
+[5] [2002] A.C.F. no 1062.
+[6] C.C.I., nos 2000-3982(EI), 2000-3984(CPP), 20 novembre 2001 (2001 CarswellNat 2595).

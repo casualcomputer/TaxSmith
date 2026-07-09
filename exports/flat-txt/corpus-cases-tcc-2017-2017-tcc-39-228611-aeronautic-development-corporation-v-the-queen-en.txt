@@ -1,0 +1,226 @@
+Title: Aeronautic Development Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/228611/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-39-228611-aeronautic-development-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-03-13
+
+# Aeronautic Development Corporation v. The Queen
+
+- Citation: 2017 TCC 39
+- Decision date: 2017-03-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2314, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aeronautic Development Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-03-13
+Neutral citation
+2017 TCC 39
+File numbers
+2014-4207(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4207(IT)G
+BETWEEN:
+AERONAUTIC DEVELOPMENT CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 25 and 26, 2017, at Montreal, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Counsel for the Respondent:
+Benoit Mandeville
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act with respect to the Appellant’s 2009, 2010, and 2011 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of March 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 39
+Date: 20170313
+Docket: 2014-4207(IT)G
+BETWEEN:
+AERONAUTIC DEVELOPMENT CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] The Appellant, Aeronautic Development Corporation (“ADC”), claimed refundable scientific research and experimental development tax credits at the rate of 35% (“Refundable ITCs”) in respect of expenditures that it incurred in its 2009, 2010, and 2011 taxation years in connection with the prototyping and certification of an amphibious aircraft known as the Seawind.
+[2] The Minister of National Revenue (the “Minister”) disallowed the Refundable ITCs on the basis that the Appellant was not a “Canadian controlled private corporation” (“CCPC”) as defined in the Income Tax Act, (Canada) (the “Act”) throughout its 2009, 2010, and 2011 taxation years.
+[3] The Respondent’s position is that the Appellant failed to qualify as a CCPC in the relevant taxation years because from August 17, 2009 to December 31, 2011 a non-resident shareholder (the “Controller”) exercised control in fact (“de facto control”) over the Appellant within the meaning of subsection 256(5.1) of the Act. The parties agree that prior to August 17, 2009, a non-resident shareholder exercised “de jure” control over the Appellant through the ownership of all of its issued and outstanding shares. Therefore, the Appellant was not a CCPC prior to that date.
+[4] The Respondent, belatedly, merely two weeks prior to the hearing, advised the Appellant that she would be presenting a new argument at the hearing (the “New Argument”), which argument was not outlined in her pleadings. The Respondent’s counsel now contends that the holder of 44% of the common shares of the Appellant could not exercise the voting rights attached to those shares until March 9, 2012 because those shares were not fully paid by the shareholder until that date. As a result, the majority of the voting rights attached to the common shares of the Appellant were exercisable by Seawind Development Corporation (“Seawind Corp.”), a corporation controlled by Mr. Richard Silva, who is a non-resident of Canada. Consequently, the Appellant was controlled, on both a de jure and a de facto basis, by a non-resident person throughout the relevant period.
+[5] The Appellant takes issue with this New Argument. The Appellant argues that the Respondent admitted in her Reply that all of the common shares were voting shares during the period from August 17, 2009 to December 31, 2011. The Appellant also observes that the Canada Revenue Agency (“CRA”) knew that the subscription price for certain of the common shares had been unpaid until March 9, 2012, prior to the issuance of the assessment at issue in this appeal. This matter had been discussed with the CRA auditor assigned to the audit of the Appellant. The Respondent nonetheless chose to plead the issue of de jure control only in respect of the period ending on August 16, 2009. Finally, the Respondent failed to amend her Reply to plead the facts on which the New Argument is based. In this context, the Appellant alleges that it would be a violation of the rules of procedural fairness for the New Argument to be considered at this late date.
+[6] With respect to the issue of de facto control, the Appellant submits that subsection 256(5.1) of the Act is not applicable in the circumstances because a non-resident person did not have any direct or indirect influence that, if exercised, would have resulted in de facto control of the Appellant.
+II. Factual Background
+[7] The evidence shows that Mr. Silva, a United States (“US”) citizen and resident, is a both an engineer and an architect. He also has extensive experience in the field of aeronautics. Mr. Silva is a pilot who has logged considerable flying time.
+[8] Mr. Silva was an early investor in a Canadian company that hoped to develop, market, and sell a small amphibious aircraft known as the Seawind in kit format. This corporation failed and Mr. Silva acquired all of the intellectual property rights to the Seawind.
+[9] Mr. Silva completed the development of the Seawind, which allowed it to be produced in kit format. It enjoyed very limited commercial success because it was not a “type” certified aircraft. I understand that a “type” certificate is issued by a regulating body when rigorous testing has confirmed the air worthiness of the aircraft’s design. Once an aircraft has been certified, its design or manufacturing process cannot be modified without a supplemental certification process being gone through.
+[10] Mr. Silva embarked on the certification of the Seawind in the late 1990s. Mr. Silva believed certification would lead to greater acceptability of the Seawind’s unique design, thus improving the chances of its commercial success. To be eligible for certification, Mr. Silva had to abandon the sale of the Seawind in kit format.
+[11] According to Mr. Silva, he was approached by Investissement Quebec and Industry Canada to carry out the certification work and the subsequent production of the certified Seawind in Quebec. Mr. Silva claims he was advised by both agencies that he could become eligible to receive Refundable ITCs if the development work was carried out in Canada by a CCPC.
+[12] Mr. Silva testified that he hired a major Canadian accounting firm to advise him how to implement a structure that would allow him to gain access to the Refundable ITCs. An initial corporate structure was established for this purpose by Mr. Silva and his Canadian partners. [1] The Canadian corporation, Flight Dynamics Corporation (“FDC”), that initially took on the certification work in Canada encountered financial difficulty after the Seawind prototype crashed during a test flight.
+[13] In 2009, following the bankruptcy of FDC, Mr. Silva acquired the assets of FDC, including the technical data base pertaining to the certification work carried out by it. Mr. Silva did so for the purpose of restarting the certification program in Canada.
+[14] Mr. Silva caused the Appellant to be incorporated as a Nova Scotia unlimited corporation in April 2009. Seawind Corp., a US corporation controlled by Mr. Silva, became the sole shareholder of the Appellant.
+[15] Soon thereafter, while the Appellant was wholly owned by Seawind Corp., the Appellant entered into an agreement with Seawind Corp. (“the Development Agreement”) to provide services necessary to complete the prototyping and certification of the Seawind on a cost-plus basis. All intellectual property rights resulting from the work carried on by the Appellant became the property of Mr. Silva and Seawind Corp.
+[16] The Development Agreement provided that the Appellant’s prototyping and certification expenses (net of Refundable ITCs actually received by it) (the “Certification Expenses”) would be reimbursed by Seawind Corp. The Appellant was required to remit the amount of the Refundable ITCs, if any, that it received to Seawind Corp. The Appellant was entitled to receive an additional amount equal to 5% of its Certification Expenses (the “Markup”). The evidence shows that the Markup was never paid. However, had it been paid, the Appellant would have been required to use the Markup to finance its Certification Expenses. The Appellant acknowledges that it had no ability to use those funds to pay dividends to its shareholders or to fund other projects.
+[17] The Appellant recorded the full amount of its Refundable ITC claim on its balance sheet for its 2011 financial year. However, the Appellant failed to show its offsetting liability to Seawind Corp. The amount of the Appellant’s refund claim was $1,295,969. This amount exceeded the amount of the Appellant’s accumulated retained earnings for the period. The Appellant’s financial statements for 2009 and 2010 were prepared on a similar basis. Therefore, as pointed out by the Respondent, the Appellant’s operations were generating deficits.
+[18] The material, equipment, and tools acquired by the Appellant and funded by Seawind Corp. were to become the property of the latter corporation on completion of the certification work.
+[19] Seawind Corp. remained the sole client of the Appellant throughout the period. When Seawind Corp. was unable to fund the Appellant’s activities, the Appellant suspended its operations.
+[20] The Appellant acknowledged that Sea Air Composites (“Sea Air”), a Canadian corporation controlled by Mr. Silva, was to manufacture the Seawind if and when the aircraft was certified by Transport Canada.
+[21] Sea Air also owned the hangar in Richelieu, Quebec, out of which the Appellant operated. The Appellant acknowledged that the parties had not entered into a lease for the use of the premises.
+[22] The evidence shows that Mr. Silva travelled regularly to the Appellant’s workplace. During his visits he oversaw the work carried out by the Appellant.
+[23] On August 17, 2009, almost four months after the execution of the Development Agreement, the Appellant issued additional common shares, such that from that date onward a majority of its common shares were held directly and indirectly by persons residing in Canada. The Respondent acknowledged this change in paragraph (j) of her Reply as follows:
+(j) From August 17, 2009 to December 31, 2011, the shares of the capital stock of the appellant were owned as follows:
+Shareholder
+% of shares and voting rights
+Stated Capital
+Seawind Corp.
+46%
+$1,150
+7163860
+44%
+$1,100
+Mano[u] Inc.
+5%
+$125
+Patrick [Desautels]
+5%
+$125
+[24] Aéro Manou Inc. (“Manou Inc.”) is a Canadian corporation controlled by Manou Dessertine, an employee of the Appellant and a resident of Canada. The numbered company 7163860 Canada Inc. is a Canadian corporation, the shares of which were owned equally by Patrick Desautels and Jean-François Bolduc, both of whom resided in Canada. Desautels and Bolduc were also employees of the Appellant. Manou Inc., Patrick Desautels, and 716380 Canada Inc. are hereinafter referred to as the “Canadian Resident Shareholders”.
+III. Analysis
+A. Preliminary Question: Can the New Argument be Entertained by This Court?
+[25] The Respondent argues that the Minister may advance an alternative legal argument in support of an assessment at any time. This is allowed under subsection 152(9) of the Act, subject to the limitations provided for in subparagraphs 152(9)(a) and (b) of the Act.
+[26] The Appellant contends that it would be denied procedural fairness if I was to entertain the New Argument raised by the Respondent at this late stage. In any event, the Appellant contends that the Respondent is barred from raising the New Argument because it is contradicted by factual admissions made by the Respondent in her Reply.
+[27] I agree with the Respondent that subsection 152(9) of the Act allows her to present new legal arguments. However, this must be done while observing the rules of procedural fairness. I observe that the procedural entitlements are contingent on context. The purpose of pleadings and the Respondent’s actions in the present proceedings must be considered in this regard.
+[28] It is well established that pleadings serve to define the issues in dispute. Properly crafted pleadings facilitate production and discovery. Procedural rules governing how pleadings can be amended are meant to avoid surprises at trial.
+[29] As noted earlier, the Respondent assumed the following facts with respect to the shareholders of the Appellant for the period commencing on August 17, 2009.
+(j) From August 17, 2009 to December 31, 2011, the shares of the capital stock of the Appellant were owned as follows:
+Shareholder
+% of shares and voting rights
+Stated Capital
+Seawind Corp.
+46%
+$1,150
+7163860
+44%
+$1,100
+Mano[u] Inc.
+5%
+$125
+Patrick [Desautels]
+5%
+$125
+[emphasis added]
+[30] The Appellant admitted that this assumption was true. The New Argument is thus contradicted by facts which were pleaded by the Respondent and admitted by the Appellant and which, consequently, were not in dispute between the parties
+[31] Consistent with this factual assumption, the Respondent submitted that Seawind Corp. had de jure control of the Appellant for only a portion of its 2009 taxation year. The only issue left open by the pleadings is whether Mr. Silva and/or Seawind Corp. had de facto control of the Appellant as spelled out by the Respondent in paragraph 13 of the Reply.
+[32] Our general procedure rules set out how amendments to pleadings should be made in the absence of the consent of the other party. The Respondent failed to amend her Reply in accordance with these rules. Therefore, it would be a clear violation of procedural fairness for me to consider the New Argument at this late stage.
+[33] In any event, if I am wrong on this first point, I observe that the Respondent has failed to establish that certain of the common shares of the Appellant were non-voting during the relevant taxation years.
+[34] The Respondent asserts that the voting rights attached to the 44 common shares held by 716380 Canada Inc. could not be exercised until the shares were fully paid on March 9, 2012, pursuant to a resolution adopted on that date.
+[35] I disagree with the Respondent’s assessment of the evidence on this point. The articles of association of the Appellant provide that “[n]o shareholder shall be entitled to vote on any question whilst any call or other sum is due and payable to the Company in respect of any Shares of such shareholder.” Section 21 of the articles provides that the subscription price for shares can be paid by installments or by call. If a call is made by the directors, the amount then becomes due and payable. In the context of the articles, I believe that the expression “due and payable” is meant to convey that the amount is immediately exigible. The directors’ resolution that recorded the payment of the shares stipulated the following:
+the 44 common shares issued to 7163860 Canada Inc. were issued in consideration for $1,100 which, by administrative oversight, was not paid until today and not recorded in the Company’s books and records until now.
+The resolution further provided that the Appellant considered the shares to have been paid at all relevant times. Therefore, the conduct of the Appellant does not support the assertion that the subscription price for the shares was considered to be immediately exigible prior to the adoption of the resolution. The Appellant’s conduct is equally consistent with a finding that the subscription price was payable by call and became “due and payable” or exigible only when the resolution was adopted by the directors. The Respondent has failed to show otherwise. [2]
+B. De facto control
+[36] Subsection 248(1) of the Act provides that CCPC has the meaning assigned to it in subsection 125(7) of the Act. The relevant part of the latter provision reads as follows:
+“Canadian-controlled private corporation” means a private corporation that is a Canadian corporation other than
+(a) a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), by one or more corporations described in paragraph (c), or by any combination of them,
+[emphasis added]
+[37] Subsection 256(5.1) defines how the phrase “controlled, directly or indirectly in any manner whatever” should be interpreted in a de facto control analysis.
+(5.1) For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the “controller” [3] ) at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm’s length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[38] McGillivray [4] is the latest pronouncement on the concept of de facto control. It reverses what previously appeared to be a broader conception of the applicable test which included the concept of operational control. McGillivray reaffirms the narrow test set out in Silicon Graphics, as follows:
+[35] In Silicon Graphics, Justice Sexton formulated the test as follows:
+[67] It is therefore my view that in order for there to be a finding of de facto control, a person or group of persons must have the clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+[36] This test was affirmed in 9044 2807 Québec Inc. v. Canada, 2004 FCA 23, 325 N.R. 226 [Transport Couture], wherein Justice Noël (as he then was), stated:
+[24] It is not possible to list all the factors which may be useful in determining whether a corporation is subject to de facto control (Duha Printers, [1998] 1 S.C.R. 795, para. [38]). However, whatever factors are considered, they must show that a person or group of persons has the clear right and ability to change the board of directors of the corporation in question or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors (Silicon Graphics, [2002] FCA 260, para. [67]). In other words, the evidence must show that the decision-making power of the corporation in question in fact lies elsewhere than with those who have de jure control.
+[37] At the heart of justice Noël’s description of the legal test for de facto control is essentially a restatement of the test enunciated by Justice Sexton in Silicon Graphics. Nothing in this excerpt from Justice Noël’s reasons suggests an intention on his part to depart from the Silicon Graphics formulation of the test for de facto control.
+[45] Accordingly, I affirm that the narrow test set out in paragraph 67 of Silicon Graphics is correct and has not been overturned by this Court. [5]
+[39] The Respondent asserts that Mr. Silva directly, and through Seawind Corp. and Sea Air, exercised de facto control over the Appellant through economic influence derived from rights contained in the Development Agreement and through the other commercial agreements and arrangements of the parties. The economic influence constituted a sort of Sword of Damocles over the Canadian Resident Shareholders of the Appellant and was capable of influencing how they exercised their voting rights to determine the composition of, or the change in, the board of directors.
+[40] The Appellant appears to concede that economic influence might still be relevant; however, the Appellant argues that such economic influence must be based on legal rights that go beyond governing the ordinary commercial relationships of the parties. The influence must also be derived from agreements that are not otherwise excluded under subsection 256(5.1) by virtue of the following language:
+except that, where the corporation and the controller are dealing with each other at arm’s length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+[emphasis added]
+[41] The Appellant argues that the Appellant could and did operate independently of the alleged de facto Controller. The Development Agreement contained terms and conditions necessary to ensure that the work would be carried out to Seawind Corp.’s satisfaction. Finally, the commercial arrangements of the parties are excluded from the Silicon Graphics tests by the exclusionary language set out in subsection 256(5.1), cited above (the “Exclusion”).
+[42] Is “economic influence” a factor to be considered in a de facto control analysis in light of the principles reaffirmed in McGillivray? If yes, how should it be applied?
+[43] In McGillivray, the Court specifically confirmed that, “the list of factors that may be considered when applying the Silicon Graphics test is open-ended.” A caveat was added, clarifying that “a factor that does not include a legally enforceable right and ability to effect a change to the board of directors or its powers or to exercise influence over the shareholder or shareholders who have that right and ability, ought not to be considered as having the potential to establish de facto control.”
+[44] Subsection 256(5.1) of the Act makes it clear that control in fact is based on the ability to exercise direct or indirect influence. McGillivray confirms that the influence must be exercisable, directly or indirectly, against the voting shareholders of the corporation.
+[45] Can the commercial agreements and arrangements of the corporation be the source of that influence? The wording of the Exclusion suggests that Parliament considered that they could, otherwise that language is redundant. It is a well-established principle that Parliament does not speak in vain. Therefore, by necessary implication, unless the commercial agreements and arrangements fall within the narrow purview of the Exclusion, they must be considered in a de facto control analysis.
+[46] For the courts to conclude that the controller has control in fact, I believe that the evidence must show that the controller has the ability to affect the economic interest of the voting shareholders in a manner that allows the controller to impose his or her will on them, should he or she decide to do so. The evidence must allow the Court to discern that it would be unlikely that the shareholders would exercise their voting rights independently of the controller’s wishes.
+[47] I will now consider the circumstance of the parties’ dealings with each other in the present context.
+[48] The Appellant asserts that it was not directly or indirectly economically dependent on Mr. Silva and/or Seawind Corp. I disagree. The evidence shows otherwise.
+[49] First, the Appellant had nominal share capital. It was entirely dependent on the cash flow provided to it by Seawind Corp. under the Development Agreement to fund the Certification Expenses. Seawind Corp. remained its sole client.
+[50] The terms of the Development Agreement were dictated by Mr. Silva, who controlled both parties when the agreement was entered into. The terms and conditions of the Development Agreement appear to me to be lopsided. For example, the agreement provided that the Appellant could use the “Markup”, its only potential source of profit, solely for the purpose of funding the Certification Expenses. The evidence also shows that Seawind Corp. refused to pay the Appellant the Markup on instructions from Mr. Silva. This was a unilateral action that was not contested by the Appellant.
+[51] The evidence shows that the Appellant operated at a deficit throughout the relevant period. When funding was no longer available from Seawind Corp. in 2011, the Appellant suspended its operations. All of the Appellant’s equipment belonged to Seawind Corp. under the terms of the Development Agreement. The Appellant did not own the rights to the intellectual property resulting from its development and certification work. The Seawind was to be manufactured and sold by Sea Air Composites, a company controlled by Mr. Silva.
+[52] In view of the Appellant’s economic dependence on Seawind Corp. and Mr. Silva, it is not surprising that the Appellant was unable to obtain funding for its activities from third parties.
+[53] The Appellant points to the fact that Manou Dessertine, an employee and shareholder of the Appellant, provided the Appellant with $75,000 of funding through an investment that she made in Sea Air. The Appellant points to this investment to illustrate that the Appellant had a viable business operation. If anything, Manou Dessertine’s investment in Sea Air demonstrates that a direct investment in the Appellant would have been foolhardy. The Appellant offered no potential for earnings growth to justify a direct investment in it. It had nominal fixed assets. It did not own the hangar out of which it operated. All intellectual property rights to the Seawind belonged to Mr. Silva or Seawind Corp.
+[54] The Appellant argues that it had the potential to find other clients. It had a qualified, assembled work force that could carry out other projects. Yet when Seawind Corp. began to have difficulty raising capital to fund the Certification Expenses, the Appellant suspended its operations. No evidence was led to show that the Appellant had, or could find, for that matter, certification and prototyping work from other aircraft developers. I doubt that the Appellant’s workers would have been prepared to wait around for the Appellant to find other clients.
+[55] The Appellant’s 2009 and 2010 financial statements highlight the fact that the Appellant was economically dependent on Seawind Corp. In the notes to those statements, under the heading “economic dependence”, management disclosed that the Development Agreement was the sole source of the Appellant’s revenue. No similar note was added to the Appellant’s financial statement for the 2011 year. I observe that this statement was prepared after the audit of the Appellant commenced. I surmise that the note was dropped because the issue of economic influence had already been raised by the CRA.
+[56] With this background in mind, it is hard to conceive that the Canadian Resident Shareholders would have exercised their voting rights independently of Mr. Silva’s wishes. The fact that the Canadian Resident Shareholders were either employees of the Appellant or entities wholly owned by employees of the Appellant reinforces this conclusion.
+[57] The Appellant contends that the evidence shows that Ms. Dessertine helped to manage the Appellant’s operations, which is proof that she was capable of acting independently of Mr. Silva.
+[58] I accept that Ms. Dessertine had useful experience in assembling aircraft such as the Seawind. She was an accomplished flyer who ran her own business, a flying school. I have no doubt that she was a competent manager. However, as determined in McGillivray, operational or management control is irrelevant in the application of the Silicon Graphics test.
+[59] Finally, Ms. Dessertine was an employee of the corporation. Her continued employment was dependent on the financial viability of the Appellant. In this regard, the evidence shows that Mr. Silva and Seawind Corp. had a virtual stranglehold on the Appellant’s financial wellbeing. It is not hard for me to imagine that Mr. Silva, if he had chosen to do so, could have influenced how Manou Inc. exercised its voting rights.
+[60] The parties produced, by consent, newsletters authored by Mr. Silva and addressed to investors in the Seawind project. Mr. Silva uses the pronoun “we” when he describes the various activities conducted with respect to the development and certification of the Seawind. The reader is left with the impression that all activities, including those conducted by the Appellant, were carried out by an integrated, wholly owned organization. For example, new staff of the Appellant are referred to as employees of the group.
+[61] With this background in mind, it is not hard for me to imagine that Mr. Silva, had he chosen to do so, could have imposed his will on the Canadian Resident Shareholders of the Appellant with respect to the composition of, or a change in, the board of directors of the Appellant.
+[62] As its last line of defence, the Appellant argues that the Development Agreement, the principal source of the alleged economic dependence identified by the Respondent, is precluded from consideration under the Silicon Graphics test by virtue of the exclusionary language of subsection 256(5.1).
+[63] As pointed out by the Respondent, a commercial agreement is excluded under subsection 256(5.1) of the Act only if (i) at the relevant time the corporation and the controller are dealing at arm’s length [6] and (ii) the main purpose of the agreement is to govern the relationship of the corporation and the controller regarding the manner in which the business of the corporation is carried on.
+[64] Considering the evidence as a whole, I find that Mr. Silva and Seawind Corp. and the Appellant were not dealing with each other at arm’s length in each of the relevant taxation years. Therefore, the Exclusion does not apply.
+[65] First, when the Development Agreement was entered into by Seawind Corp., Mr. Silva indirectly, and Seawind Corp. directly, controlled the Appellant. The two corporations were related persons by virtue of subparagraph 251(2)(b) of the Act and, as a result, were deemed not to be dealing at arm’s length by virtue of paragraph 251(5)(a) of the Act.
+[66] The evidence shows that Mr. Silva was the sole person to define the terms and conditions of the Development Agreement. The initial term of the agreement was 15 months. When the term expired, the Appellant did not seek to renegotiate the terms and conditions of the Development Agreement, although by then it was operating at a deficit.
+[67] Not only did Mr. Silva determine the terms and conditions of the parties’ arrangement, the evidence shows that he unilaterally decided that the Markup should not be paid. The Appellant did not object and enforce its right to the payment of the Markup.
+[68] There are other indications of non-arm’s length dealings. The Appellant operated in a hangar belonging to Sea Air. There was no evidence that suggested that the Appellant paid rent for the use of the space. I suspect Mr. Silva did not require the Appellant to enter into a formal lease because the Appellant was economically dependent on Seawind Corp., a corporation wholly owned by Mr. Silva. Seawind Corp. would have had to fund the lease payments under the terms and conditions of the Development Agreement. This would have been tantamount to Mr. Silva paying rent to himself
+[69] The absence of a lease, however, suggests that the parties envisaged that the Appellant would not operate independently of Seawind Corp. and Mr. Silva. If the Appellant had expected to do so, I believe it would have insisted on a lease to avoid being evicted from its place of business when it secured other business. I suspect that Mr. Silva would also have insisted on a lease based on normal commercial terms. Otherwise, the Canadian Resident Shareholders would have benefited from the rent free arrangement if the Appellant secured new clients. The absence of a lease suggests that the parties were not dealing at arm’s length.
+[70] Considering all of the above, I find that the requirement for arm’s length dealings is not satisfied.
+[71] For all of these reasons, the appeal is dismissed.
+[72] The Appellant requested costs in any event of the cause. It claims that the Respondent violated the rules of procedural fairness when it belatedly raised the New Argument. The Appellant asserts that the Respondent’s conduct was abusive.
+[73] With respect, I do not agree with the Appellant’s assessment of the situation. The Respondent’s counsel owed a duty to his client to present the New Argument. When counsel discovered the late payment of the subscription price for the shares, he immediately advised the Appellant that he would argue that Mr. Silva and Seawind Corp. had de jure control of the Appellant at all relevant times. While the Appellant was correct in asserting that I should not consider the New Argument on grounds of procedural fairness, no delay was caused in the hearing. Therefore, as is the norm when appeals are dismissed, costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 13th day of March 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 39
+COURT FILE NO.:
+2014-4207(IT)G
+STYLE OF CAUSE:
+AERONAUTIC DEVELOPMENT CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 25 and 26, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+March 13, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dominic C. Belley
+Firm:
+Norton Rose Fulbright Canada LLP
+Suite 2500, 1 Place Ville Marie Montreal, Quebec H3B 1R1
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It is outlined in the document found at Tab 1 of Exhibit A-1.
+[2] The Respondent did not cross-examine Mr. Silva and Ms. Dessertine on this matter. They are two of the three directors of the Appellant who signed the resolution.
+[3] The term “Controller” when used herein has the same meaning as given above.
+[4] McGillivray Restaurant Ltd. v. The Queen, 2016 FCA 99 [McGillivray].
+[5] McGillivray, supra note 4 at paras. 35-37 and 45.
+[6] For a review of the law applicable to determining whether there is an arm’s length relationship, see Peter Cundill & Associates Ltd. v. R., [1991] 1 C.T.C. 197 (FCTD).

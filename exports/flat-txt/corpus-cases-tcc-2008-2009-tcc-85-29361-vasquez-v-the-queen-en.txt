@@ -1,0 +1,55 @@
+Title: Vasquez v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29361/index.do
+Corpus path: corpus/cases/tcc/2008/2009-tcc-85-29361-vasquez-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-12-10
+
+# Vasquez v. The Queen
+
+- Citation: 2009 TCC 85
+- Decision date: 2008-12-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6914, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vasquez v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-10
+Neutral citation
+2009 TCC 85
+File numbers
+2008-831(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Court File No.. 2008-831(IT)I
+CITATION: 2009 TCC 85
+TAX COURT OF CANADA
+BETWEEN:
+CARLOS VASQUEZ,
+AppelLant,
+-AND -
+HER MAJESTY THE QUEEN,
+Responent.
+REASONS FOR JUDGMENT
+Delivered orally from the Bench by Justice B. Paris on Wednesday, December 10, 2008, 701 West Georgia Street, Vancouver, British Columbia
+APPEARANCES:
+Mr. C. Vasquez For the Appellant
+Ms. L. Zumpano For the Respondent
+M. Netley The Registrar
+Allwest Reporting Ltd.
+#1200-1125 Howe Street
+Vancouver, British Columbia V6Z 2K8
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons delivered orally from the Bench at Vancouver, British Columbia on December 10, 2008)
+JUSTICE: No submissions. Well, without any submissions that there were errors made in the reassessments, and without any evidence, I can’t do anything for you on those appeals on those years.
+MR. VASQUEZ: I understand.
+JUSTICE: And so that appeal is going to be dismissed.

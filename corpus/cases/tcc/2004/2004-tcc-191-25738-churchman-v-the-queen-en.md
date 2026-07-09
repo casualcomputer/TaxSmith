@@ -1,0 +1,260 @@
+---
+title: "Churchman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25738/index.do"
+last_modified: "2004-03-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 191"
+citation2: ""
+neutral_citation: "2004 TCC 191"
+decision_date: "2004-03-09"
+language: "en"
+item_id: "25738"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3791
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:42:51.831000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1e786f4d83474b069dc4bc6bd2ba0834c7ebe14523ea78147aaf22e1677114c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Churchman v. The Queen
+
+- Citation: 2004 TCC 191
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3791, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Churchman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-09
+Neutral citation
+2004 TCC 191
+File numbers
+2003-2137(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2137(IT)I
+BETWEEN:
+ELKE CHURCHMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 25, 2004 at Saskatoon, Saskatchewan
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Kurt Wintermute
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Regina, Saskatchewan this 9th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC191
+Date: 20040309
+Docket: 2003-2137(IT)I
+BETWEEN:
+ELKE CHURCHMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Saskatoon, Saskatchewan on February 25, 2004. The Appellant was the only witness.
+[2] The matters in dispute between the parties are partially set out in paragraphs 5 to 14 inclusive of the Reply to the Notice of Appeal. They read:
+5. In computing income for the 1999 and 2000 taxation years, the Appellant reported employment income, gross business income and net business income and claimed business expenses as follows:
+1999
+2000
+Employment Income
+nil
+$1,412.00
+Gross Business Income
+$14,000.00
+$14,990.00
+Less: Business Expenses
+6,965.00
+0.00
+Net Business Income
+$7,035.00
+$14,990.00
+6. The Appellant requested an adjustment to her 1999 income tax return to revise the business expenses of $6,965.00 to $21,281.83 (the "Expenses") resulting in a net business loss of $7,281.83 calculated as follows:
+Gross
+Business Income
+$14,000.00
+Less:
+Expenses
+Business Tax
+$500.00
+Office Expenses
+200.00
+Legal & Accounting
+16,158.51
+Telephone & Utilities
+1,400.00
+21,281.83
+Net Business Loss
+(7,281.83)
+7. In response to the request for an adjustment to the 1999 taxation year, the Minister of National Revenue (the "Minister") reassessed the Appellant for the 1999 and 2000 taxation years to:
+(a) include employment income of $14,000.00 and $14,990.00, respectively, in the 1999 and 2000 taxation years;
+(b) delete gross business income of $14,000.00 and $14,990.00, respectively, in the 1999 and 2000 taxation years;
+(c) disallow business expenses of $6,965.00 claimed in the 1999 taxation year; and
+(d) to deny the request to revise the business expenses to $21,281.83;
+The Notices of Reassessment were dated February 22, 2002.
+8. The Appellant filed a Notice of Objection to those reassessments, dated April 29, 2002.
+9. The Minister confirmed the reassessments by means of a Notice of Confirmation dated March 10, 2003.
+10. In so confirming the reassessments of the Appellant for the 1999 and 2000 taxation years, the Minister made the following assumptions of fact:
+(a) the Appellant provided services to HRDC as a Board of Referees' Chairperson during the 1999 and 2000 taxation years;
+(b) the Appellant was to perform services for HRDC from February 24, 1998 to February 23, 2004;
+(c) the Appellant lost her license to practice law in March, 1998;
+(d) the Appellant's license to practice law was reinstated on January 1, 2000;
+(e) the Appellant was required to work with another lawyer for 6 months after being reinstated;
+(f) the Appellant began to practice law on her own in April, 2001;
+(g) during the 1999 and 2000 taxation years, the Appellant did not operate a business;
+(h) during the 1999 and 2000 taxation years, the Appellant did not earn income from business or property;
+(i) the Appellant was required to pay a $500.00 fee to the Law Society of Saskatchewan in respect of her application for reinstatement;
+(j) during the 1999 taxation year the Appellant incurred legal fees of $13,875.27 as detailed in Schedule A attached to and forming part of the Reply to the Notice of Appeal;
+(k) during the 1999 taxation year the Appellant paid $4,435.29 of the legal fees incurred;
+(l) the Expenses were not incurred for the purpose of gaining or producing income from a business or property, but were personal or living expenses of the Appellant;
+(m) the Appellant's duties were to sit on a Board of Referees in matters relating to Employment Insurance;
+(n) the hearings for the Board of Referees took place on HRDC premises;
+(o) the Appellant was considered "in tenure of an office" while performing services for HRDC;
+(p) the Appellant is deemed to be in receipt of pensionable income pursuant to subsection 2(1) of the Canada Pension Plan;
+(q) the Appellant received a per diem amount of $330.00 for the days of the hearings of the Board of Referees;
+(r) the Appellant received income from office with the HRDC of $14,000.00 and $14,990.00, respectively, in the 1999 and 2000 taxation years;
+(s) the Appellant did not require a law degree to perform her duties for the Board of Referees;
+(t) HRDC did not require the Appellant to rent an office away from their place of business or use a portion of her home;
+(u) the Appellant was not required to pay for expenses incurred in the performance of her duties for HRDC;
+(v) the Appellant was not required to incur cell phone or other telephone charges in the performance of her duties for HRDC.
+B. ISSUES TO BE DECIDED
+11. The issues are:
+(a) whether the Expenses were incurred by the Appellant for the purpose of gaining or producing income from a business or property; and
+(b) whether the Appellant is entitled to claim office in the home expenses pursuant to subsection 18(12) of the Income Tax Act.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+12. He relies on sections 3 and 9, subsection 18(12) and 248(1) and paragraphs 18(1)(a) and 18(1)(h) of the Income Tax Act, R.S.C., 1985 c. 1 (5th Supp) (the "Act") as amended for the 1999 and 2000 taxation years.
+13. He submits that the Expenses were not incurred for the purpose of gaining or producing income from a business or property within the meaning of paragraph 18(1)(a) of the Act but were personal or living expenses of the Appellant within the meaning of paragraph 18(1)(h) of the Act.
+14. He submits that as Appellant's office in home was not:
+(a) the Appellant's principal place of business; or
+(b) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients in respect of the business;
+the Appellant is not entitled to claim business in the home expenses pursuant to subsection 18(12) of the Act.
+[3] At the opening of the hearing Appellant's counsel brought the following to the Court's attention:
+1. The Appellant has retained a solicitor who is ordered to be, henceforth, the address for service of the Appellant:
+Kurt Wintermute
+MacPherson, Leslie & Tyerman LLP
+1500-410, 22nd Street East
+Saskatoon, Saskatchewan
+S7K 5T6
+phone (306) 975-7100
+fax (306) 975-7145
+2. For 2000:
+(1) The Appellant claims $6,869.03 as deductible expenses.
+(2) The $500 fee paid to The Law Society of Saskatchewan is a separate claim between the parties.
+3. For 1999:
+(1) The Appellant is not pursuing her claim to deduct the following expenses:
+motor vehicle
+$1,102.19
+interest $1,921.13
+(2) The legal and accounting fees claimed for deduction are corrected to be $13,875.27.
+4. In the Appellant's view, the issues are the following:
+The primary issues to be determined in the within Appeal are as follows:
+(a) Whether the Appellant is entitled to deduct certain legal expenses relating to the reinstatement of the Appellant's licence to practice law and whether such expenses are restricted pursuant to paragraphs 18(1)(b) or 18(1)(h) of the Income Tax Act (the "Act").
+(b) Whether the income received by the Appellant from Human Resources Development Canada ("HRDC") was income from an office pursuant to subsection 5(1) of the Act or income from a business pursuant to subsection 9(1) of the Act.
+(i) If the income from HRDC was income from a business, whether the expenses claimed by the Appellant are deductible in computing income from the business pursuant to subsection 9(1) of the Act and not restricted pursuant to subsection 18(1) of the Act.
+(ii) If the income from HRDC is income from an office pursuant to subsection 5(1) of the Act, whether the expenses are deductible pursuant to subsection 8(1) of the Act.
+[4] Assumptions 10(a), (d), (e), (f), (i), (j), (k), (n) and (s) were not refuted. Respecting the remaining assumptions, by subparagraph, the Court finds:
+(b) This consisted of two 3 year contracts. To date she has not received a third contract.
+(c) Is wrong. And the distinction is important. The Appellant was ill and, as she had when she was pregnant, she applied to the Law Society of Saskatchewan for a non-practice certificate so that she would not have to pay the active practice fees. The Law Society granted her that status in March, 1998.
+(d) Is subject to qualification. The Appellant applied to be reinstated into active practice as a member of the Law Society of Saskatchewan in December, 1998. She retained a lawyer for this purpose (unnecessarily, but, in the Court's view, in part because she appears to be a very ethical person). This lawyer did not proceed on the file and, in the spring of 1999, she retained a second lawyer who did proceed with the file. The Appellant was reinstated effective January 1, 2000 on the condition that she practice with another lawyer for six months and file regular reports with the Law Society. On this basis, she commenced employment for another lawyer in Saskatoon on July 10, 2000 and remained so employed until April 1, 2001. She estimated her workload during that employment to be 3/4 as an employed lawyer and 1/4 in business under her contract with HRDC, in accord with her agreement with her lawyer-employer.
+(g) and (h) Are a major source of dispute. The Appellant states that she was in business in 1999 and 2000. She has two bases for this:
+(1) That she was not the holder of an "office" under her contract with HRDC to act as Chairperson of a Board of Referees, as that is defined in the Income Tax Act (the "Act"). Rather, it was a business contract to act as an "independent consultant".
+(2) That, although she held a non-practice certificate as a lawyer, she nonetheless remained in business while she was ill.
+(l) This is denied. The expenses that remain in dispute were paid to the Appellant's lawyer on account of her application for an active practice certificate and were paid to maintain and operate her office in her home which was used for the purpose of storing her clients' legal files, maintaining her office facilities, answering her phone calls from legal clients (with the purpose of referring them and maintaining their files and retaining their business for when she returned to active practice) and answering the phone for her HRDC Chairperson appeals work, arranging hearing dates, working on her HRDC appeals files preparing for hearings and, as Chairperson, drafting and writing decisions for those hearings. She could refuse hearings but HRDC wanted her to chair more than one or two each year. There were three functions respecting her appointment to conduct a day's hearing: (1) A hearing had to be necessary; (2) the Clerk had to offer her the hearing itself (3) she had to want the hearing. There were two other Chairpersons available for appointment.
+(m) Is false. Her duties and activities were those described in (l) above, in addition to sitting as Chairperson on the Board of Referees to hear Employment Insurance appeals. It was the Chairperson's duty to write the Referees' decisions.
+(o) This is disputed and its meaning under the Act will be dealt with as a substantive part of this decision. The Appellant described her position to be an "independent consultant" insofar as the word "office" is defined in the Income Tax Act.
+(q) At times the Appellant was paid a per diem of $300 and at other times $330. The per diem was only paid for days sat. She was not paid for agreeing to sitting days, receiving the files by courier at her home, reviewing them in her office at home (since there were no other suitable facilities provided to her), pre-drafting elements of decisions so that they could be finished by the assistant at the hearing, and delivered at the hearing or no more than a week later (as per her instructions on appointment) and supplying her disk of those drafts to the assistant at the hearing. As Chairperson she signed the finished decisions. If hearings were adjourned without sitting, she wasn't paid.
+(r) The word "office" is disputed.
+(t) The Appellant disputes this and the Court agrees with her. HRDC supplied the use of a board room for hearings. If other hearings occurred (there were two other similar panels of Referees using it) or if HRDC was using it, the Appellant couldn't use it. In the Court's view the Appellant's statements that she could not go all the way to HRDC to use it and find she couldn't is correct. HRDC itself contradicted its staff view of this possibility when it always couriered the hearing files to the Appellant at her home office prior to each hearing.
+(u) and (v) Are wrong. The Appellant had to prepare for hearings as stated, had to answer HRDC phone calls on her cell phone to arrange hearing dates and to settle any reserved decisions. All of these required her to pay for the associated expenses including her home office (which were not subject to personal use) and 50 percent of her cell phone in 1999 and 66 2/3 percent of her cell phone in 2000.
+[5] The Appellant's first issue is described in subparagraph [3] 4.(a), namely:
+(a) Whether the Appellant is entitled to deduct certain legal expenses relating to the reinstatement of the Appellant's licence to practice law and whether such expenses are restricted pursuant to paragraphs 18(1)(b) or 18(1)(h) of the Income Tax Act (the "Act").
+[6] These fees were incurred when the Appellant applied to the Law Society to be reinstated from inactive membership (wherein she had all the rights and duties of membership except that she was not permitted to practice law) so as to receive a practicing certificate as an active member.
+[7] The question is whether the Appellant paid for a right to income or for a right to earn income. She had retained client files in her office from which she could receive income. There were many things she could do with them which did not require a practicing certificate from the Law Society. For instance, she could draw up probate for an executor and file for probate and do the estate work in the executor's name, or she could do real estate transactions and receive fees from these activities. A Law Society might take umbrage or action but, legal or illegal she could bill and earn fees from those files without the certificate and it would be taxable income. The certificate likely would allow her to receive a greater fee. The certificate would allow her to personally appear in Courts for clients and to file for probate in her own name as a lawyer. Moreover, merely retaining the files assured a clientele for her return to active practice. A number of her clients were waiting to retain her legal services until that date.
+[8] The Appellant paid for a right to income and the legal fees and disbursements under this heading and the $500 application fee are all deductible from her income as a business deduction for the following reasons:
+1. She kept the files in her office and maintained her office.
+2. She dealt with her clients, referred them to other lawyers on the understanding that the clients would be returned to her when she was well and spoke with other clients and assured them that she would serve them again when she was well. It was on this understanding that they left their files with her.
+3. This leave from active practice was no different than a pregnancy leave or a sabbatical leave. Any of these might happen repeatedly and a lawyer or another person would retain their job or their business and would hold themselves out as such whether temporarily inactive or not.
+[9] In other words, the Appellant intended to make a profit from the practice of law, continued to maintain an office and telephone at her expense, kept the files and dealt with clients actively on a limited basis. To the Court, she may not have been directly active as a lawyer, but she was directly active in her business with the intention to profit from it. In this day and age when sabbaticals, pregnancies, holidays, sickness and similar leaves are common, such an occurrence does not mean that one does not continue in business. These payments were not made to secure an actual or enduring asset. Rather they were made to enable her to continue to carry on the same type and quality of business. For this reason the appeal is granted on the first issue.
+[10] The Appellant's second issue is described in subparagraph [3] 4.(b), namely:
+(b) Whether the income received by the Appellant from Human Resources Development Canada ("HRDC") was income from an office pursuant to subsection 5(1) of the Act or income from a business pursuant to subsection 9(1) of the Act.
+[11] The word "office" is defined in subsection 248(1) of the Act as follows:
+"office" means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and "officer" means a person holding such an office;
+[12] Appellant's counsel focussed on the question of whether the Appellant's per diem was a "fixed or ascertainable stipend or remuneration". If it was not, then it was not an "office" within the meaning of the Act. It was not "fixed". Rather it was a per diem for hearing days only.
+[13] To determine if the per diem was ascertainable, the Court adopts the reasoning of Dussault, J. in Payette v. M.N.R., 2002 Carswell Nat. 4668 in circumstances and a definition of "office" comparable to this case. In the English translation Dussault, J. stated at paragraphs 24 and 26:
+[24] However, in commenting on the decision in Guérin (supra), Reed J. appears to assume that in that case the remuneration was not ascertainable mainly because of the expenses the appellant was obliged to incur. The Court does not agree with that position. The words "stipend" and "remuneration" mean gross income, not income net of expenses. This is clear from the wording of subsection 5(1) of the Income Tax Act. As well, the Court considers that the descriptor "ascertainable" must refer to something that can be ascertained a priori; otherwise it would have no meaning since everything can be ascertained a posteriori. Thus if the "stipend" or "remuneration" is not fixed, it must still be ascertainable in advance with at least some degree of accuracy by using some formula or by referring to certain set factors. The Court considers that this is the meaning of the decisions in Guérin and MacKeen (supra).
+...
+[26] It is not very difficult for the Court to find that the appellants, the members of the review committee, hold an office. The review committee is a permanent entity of the Commission des services juridiques. Being appointed as a member for a one-year term of office and having other professional occupations elsewhere in no way suggests that one cannot occupy a position for a set term on a part-time basis. One can at the same time practice law and be a director of one or more share corporations. The Court does not see any incompatibility in that situation. It cannot be said that a person does not occupy a position because that person's main professional activity is exercised elsewhere than with the Commission. That said, it is not enough to occupy a position: the position must entitle the person to a "fixed or ascertainable stipend or remuneration", according to the definition set out in subsection 2(1) of the Canada Pension Plan. In the present case, it is clear that the position does not entitle a person to a fixed remuneration or stipend. The Court also considers it impossible to conclude that the remuneration is ascertainable since in this regard the facts set out in the Notice of Appeal, the truth of which the respondent has admitted, are insufficient. It is not known how many times each member is called upon to sit on the review committee or how many days or hours are spent on this activity in a given year. The information about the number of review committee sittings held and the number of review applications heard each year does not provide a reliable factor for individual members. The Court has no idea of the "stipend" or the "remuneration" that the members of the review committee were likely to receive for rendering their services; nor has any such information been adduced, except that the members are paid on a fee basis at a rate of $50 per hour. The Court considers that merely indicating the hourly rate set by the Commission des services juridiques is insufficient to establish that the position itself makes a member eligible for a "fixed or ascertainable stipend or remuneration". The Court therefore considers that the respondent, who simply admitted the truth of the facts set out in the Notice of Appeal, has in no way discharged the burden on him of establishing that the appellants, the members of the review committee of the Commission des services juridiques, held an office as defined in subsection 2(1) of the Canada Pension Plan. Thus subparagraph 6(f)(iii) of the Regulations cannot be applied to this case to include the position occupied by the appellants in insurable employment.
+[14] For this reason and based on the facts described respecting the Appellant's contract as Chairperson of the Board of Referees, the Court finds that in fact she was engaged in business as an independent consultant and the expenses claimed by her on that basis are deductible. She controlled the time she spent and the hearings she chose; she supplied all of the tools, equipment and premises she used except the Boardroom; she had a risk of loss or profit depending on the amount of time she spent on the work and the costs she incurred for her tools, equipment and office and the availability of other work such as her employment or other contracts she might acquire; and she was not integrated into HRDC.
+[15] The appeal is allowed in its entirety. The Appellant is awarded her taxable party and party costs.
+Signed at Regina, Saskatchewan this 9th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC191
+COURT FILE NO.:
+2003-2137(IT)I
+STYLE OF CAUSE:
+Elke Churchman v. The Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+February 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.W. Beaubier
+DATE OF JUDGMENT:
+March 9, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Kurt Wintermute
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kurt Wintermute
+Firm:
+MacPherson, Leslie, Tyerman
+Saskatoon, Saskatchewan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

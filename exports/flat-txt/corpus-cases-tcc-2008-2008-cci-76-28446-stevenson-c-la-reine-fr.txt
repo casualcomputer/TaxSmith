@@ -1,0 +1,105 @@
+Title: Stevenson c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28446/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-76-28446-stevenson-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-04
+
+# Stevenson c. La Reine
+
+- Citation: 2008 CCI 76
+- Decision date: 2008-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1179, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevenson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-04
+Référence neutre
+2008 CCI 76
+Numéro de dossier
+2004-3645(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3645(IT)G
+ENTRE :
+MIKE R. STEVENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Devant : L’honorable juge B. Paris
+Avocat de l’appelant :
+Me David Muha
+Avocate de l’intimée :
+Me Elizabeth Chasson
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’intimée par laquelle elle sollicite une ordonnance enjoignant à l’appelant de verser un cautionnement pour dépens dans le présent appel en vertu de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale);
+Et vu l’affidavit et les affidavits supplémentaires de Louis L’Heureux, déposés avec la requête;
+Et vu les observations écrites des deux parties;
+Il est ordonné que l’appelant consigne à la Cour la somme de 7 325 $ par chèque certifié au plus tard le 19 février 2008, et qu’il lui remette en même temps la formule prescrite nº 166.1, intitulée Offre de consignation à la Cour.
+Signé à Ottawa, Canada, ce 4e jour de février 2008.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 14e jour de février 2008.
+Jean David Robert, traducteur
+Référence : 2008CCI76
+Date : 20080204
+Dossier : 2004-3645(IT)G
+ENTRE :
+MIKE R. STEVENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] La Cour est saisie d’une requête de l’intimée présentée en vertu de l’article 160 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») dans laquelle elle sollicite une ordonnance prescrivant que l’appelant verse un cautionnement pour dépens de 8 825 $. À la demande de l’intimée, la requête sera tranchée sur la base des observations écrites en vertu du paragraphe 69(1) des Règles.
+[2] L’article 160 des Règles est ainsi libellé :
+S’il semble que l’appelant réside à l’étranger, la Cour peut, à la demande de l’intimée, donner des directives appropriées portant sur le cautionnement pour dépens.
+[3] L’intimée a déposé des affidavits dans lesquels il est indiqué que l’appelant a vendu sa maison au Canada, qu’il réside maintenant à l’étranger et qu’il n’a pas suffisamment de biens au Canada pour payer les dépens susceptibles d’être adjugés en l’espèce. Ces éléments de preuve n’ont pas été contestés par l’appelant.
+[4] L’appelant fait valoir, cependant, qu’il serait injuste d’exiger de lui qu’il verse un cautionnement pour dépens puisqu’il a de très fortes chances d’avoir gain de cause dans le présent appel.
+[5] Bien que les chances de l’appelant d’avoir gain de cause dans le présent appel puissent être un facteur pertinent à prendre en considération dans l’examen d’une requête comme celle dont est saisie la Cour en l’espèce, les éléments de preuve dont je dispose ne sont pas suffisants pour me permettre de déterminer les chances des deux parties à l’instance à cet égard. L’appelant n’a pas déposé d’affidavits, et son argument selon lequel il a une bonne cause est sans fondement. Rien dans les actes de procédure ne me permet de tirer une conclusion sur ce point.
+[6] L’appelant conteste aussi le calcul de l’intimée portant sur le montant des dépens susceptibles d’être adjugés. Premièrement, il dit que la complexité des questions en litige et les sommes en cause dans le présent appel ne justifieraient pas une adjudication des dépens à l’égard de deux avocats à l’audience, contrairement à ce que prétend l’intimée. Deuxièmement, l’appelant soutient qu’il ne doit pas être tenu de verser un cautionnement pour des dépens qui ont déjà été engagés par l’intimée.
+[7] Les dépens estimés de l’intimée pour les frais et les débours relatifs au présent appel sont de 8 825 $. L’intimée a le fardeau de prouver le montant de ses dépens pour lesquels l’appelant devrait verser un cautionnement. À mon avis, elle ne s’est pas acquittée de cette charge en ce qui concerne les dépens prévus pour le déroulement de l’audience, qui comprennent des honoraires pour un second avocat. Aucune preuve n’a été présentée à l’appui de la prétention de l’intimée concernant ces honoraires, et les questions litigieuses soulevées dans le présent appel ne semblent pas, à première vue, être d’une complexité qui exigerait la présence d’un second avocat à l’audience. En l’absence d’une telle preuve, la somme que l’intimée demande que l’appelant consigne à la Cour sera réduite de 1 500 $.
+[8] Finalement, je ne suis pas d’avis qu’une ordonnance prescrivant à une partie de verser un cautionnement pour dépens ne doive pas porter sur les dépens déjà engagés par la partie adverse. Dans une situation où une partie quitte le pays après avoir introduit un appel et après que la partie adverse a déjà engagé des dépens, il ne semble pas y avoir de raison de restreindre le montant d’un cautionnement pour dépens à celui des dépens ultérieurs.
+[9] Pour tous ces motifs, j’en viens à la conclusion que l’appelant doit être tenu de consigner la somme de 7 325 $ à la Cour d’ici le 19 février 2008 en tant que cautionnement pour dépens.
+Signé à Ottawa, Canada, ce 4e jour de février 2008.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 14e jour de février 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2008CCI76
+Nº DU DOSSIER DE LA COUR : 2004-3645(IT)G
+INTITULÉ : Mike R. Stevenson c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+DATE DE L’AUDIENCE :
+MOTIFS DE L’ORDONNANCE : L’honorable juge B. Paris
+DATE DE L’ORDONNANCE : Le 4 février 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me David Muha
+Avocate de l’intimée :
+Me Elizabeth Chasson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

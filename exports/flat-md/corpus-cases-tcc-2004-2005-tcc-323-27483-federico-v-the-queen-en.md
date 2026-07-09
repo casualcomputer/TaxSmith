@@ -1,0 +1,233 @@
+---
+title: "Federico v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27483/index.do"
+last_modified: "2004-05-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 323"
+citation2: ""
+neutral_citation: "2005 TCC 323"
+decision_date: "2004-05-06"
+language: "en"
+item_id: "27483"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 42
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:29:47.446000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9b3fa50a8ae2ab6fc9d268a3dcb575febdc544f73d987ea305e0a5a7981c1d74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Federico v. The Queen
+
+- Citation: 2005 TCC 323
+- Decision date: 2004-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 42, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Federico v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-06
+Neutral citation
+2005 TCC 323
+File numbers
+2004-1137(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1137(GST)I
+BETWEEN:
+JOVITO FEDERICO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Jovito Federico and Lydia Federico (2004-3581(GST)I )on April 29, 2005, at Calgary, Alberta
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 2, 2003 is dismissed.
+Signed at Saskatoon, Saskatchewan, this 6th day of May 2005.
+“D.W. Beaubier”
+Beaubier, J.
+Docket: 2004-3581(GST)I
+BETWEEN:
+JOVITO FEDERICO and LYDIA FEDERICO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Jovito Federico (2004-1137(GST)I) on April 29, 2005, at Calgary, Alberta
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+Jovito Federico
+Counsel for the Respondent:
+Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 2, 2003 is dismissed.
+Signed at Saskatoon, Saskatchewan, this 6th day of May 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC323
+Date: 20040506
+Docket: 2004-1137(GST)I
+BETWEEN:
+JOVITO FEDERICO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-3581(GST)I
+AND BETWEEN:
+JOVITO FEDERICO and LYDIA FEDERICO,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals pursuant to the Informal Procedure were heard together on common evidence by consent of the parties at Calgary, Alberta on April 29, 2005. Jovito Federico (“Jovito”) was the only witness.
+[2] The appeals are from decisions that GST is owed by the Appellants respecting the same business, “Global Care” for the periods January 1, 1997 to December 31, 2001 (except for calendar 1999 and 2000) for the partnership (2004-3581(GST)I) and for the period January 1, 2000 to December 31, 2001 for Jovito.
+[3] The assumptions in paragraph 9 of the Reply to the Notice of Appeal in 2004-3581 (GST)I were not refuted. They read:
+9. In so assessing the Appellant and confirming the Assessment, the Minister relied on the same assumptions of fact as follows:
+(a) the Appellant was a partnership of Jovito Federico and Lydia Federico;
+(b) in 1993 the Appellant began operating under the trade name of Global Care and provided placement services for domestic workers from overseas;
+(c) for the placement services it provided, the Appellant received consideration in the form of a fee from both the domestic worker placed and the employer of that domestic worker;
+(d) the Appellant was a registrant as of January 1, 1997;
+(e) the supply of placement services was taxable at 7%;
+(f) the Appellant received consideration for placement services it provided during the Relevant Periods and on which tax was collectible as follows:
+Period
+Supplies
+Collectible at 7%
+1991-12-31
+97,742.00
+6,841.94
+1998-12-31
+95,061.00
+6,654.27
+2001-12-31
+66,359.00
+4,645.13
+259,162.00
+18,141.34
+(g) the Appellant was required to file its return on an annual basis, with a year end of December 31st;
+(h) the Appellant failed to file returns and account for the tax detailed in subparagraph 9(f) above; and
+(i) the Appellant failed to report and remit net tax of at least $11,662.30 for the Relevant Periods.
+[4] Paragraphs 7 – 12 of the Reply to the Notice of Appeal in 2004-1137(GST)I read:
+7. By Notice of Assessment dated May 02, 2003 (the “Assessment”), the Minister of National Revenue (the “Minister”) assessed the Appellant for failure to report net tax for the Relevant Periods and added penalty and interest as follows:
+Reporting Period
+Taxable Supplies
+GST Collectible at 7%
+Input Tax Credits allowed
+Net Tax
+Interest
+Penalty
+Total
+2000-12-31
+42,331.00
+2,963.17
+1,058.27
+1,904.90
+119.59
+235.27
+2,259.76
+2001-12-31
+31,129.00
+2,179.03
+778.23
+1,400.81
+30.47
+76.21
+1,507.49
+5,142.20
+1,836.50
+3,305.71
+150.06
+311.48
+3,767.25
+8. The Appellant objected to the Assessment by a Notice of Objection, dated June 9, 2003.
+9. The Minister confirmed the Assessment by a Notice of Decision dated December 22, 2003.
+10. In so assessing the Appellant and confirming the Assessment, the Minister relied on the following assumptions of fact:
+(a) in 1993 the Appellant and Lydia Federico commenced a business as a partnership (the “Partnership”);
+(b) the Partnership operated under the trade name of Global Care;
+(c) Global Care provided placement services for domestic workers;
+(d) for the services provided Global care received a fee from both the domestic worker placed and the employer of that domestic worker;
+(e) the Partnership was a registrant as of January 1, 1997;
+(f) on or before January 1, 2000, the Appellant began operating Global Care as a sole proprietor;
+(g) the Appellant was a registrant at all relevant times;
+(h) the Appellant was required to file GST returns on an annual basis with a year end of December 31;
+(i) during 2000 the Appellant received consideration of at least $42,331.00 in respect of the placement services he provided;
+(j) during 2001 the Appellant received consideration of at least $31,129.00 in respect of the placement services he provided;
+(k) the supply of placement services by the Appellant was subject to GST at 7% of the consideration receivable for those placement services;
+(l) the Appellant failed to report and account for GST of $2,963.17 in respect of the placement services he provided during the reporting period ending December 31, 2000;
+(m) the Appellant failed to report and account for GST of $2,179.03 in respect of the placement services he provided during the reporting period ending December 31, 2001;
+(n) the Appellant failed to report and account for net tax of at least $1,904.90 for the reporting period ending December 31, 2000; and
+(o) the Appellant failed to report and account for net tax of at least $1,400.81 for the reporting period ending December 31, 2001;
+B. ISSUE TO BE DECIDED
+11. The issue to be decided in this appeal is whether the Minister, in assessing the Appellant’s net tax for the Relevant Periods, properly assessed the Appellant for unreported GST of $2,963.17 for period ending December 31, 2000 and $2,179.03 for period ending December 31, 2001, for a total amount of $5,142.20.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+12. He relies on subsections 123(1), 127(3), 221(1), 225(1), 240(1) and sections 148, 152, 165, 168, 169, 171, 228, 238, 296 and 299 of the Excise Tax Act (the “Act”), R.S.C. 1985, c. E-15, as amended.
+None of the assumptions in paragraph 9 were refuted.
+[5] Jovito testified that in 1993 he spoke to Revenue Canada staff and was told that he need not register Global Care for GST purposes or collect GST. He has never done so; rather, Revenue Canada or C.R.A. staff have registered it for him. The particulars for the assessments under appeal were obtained from income tax returns. To this day, no GST returns have been filed because Jovito continued to rely on the original conversation in 1993. His testimony about these conversations was not refuted and the Court believes it to be true.
+[6] However, once Global Care began to exceed the $30,000 sales threshold set out in subsection 148(1) of the Excise Tax Act, it fell within the reporting and taxable provisions of the G.S.T.
+[7] On April 7, 2003 (Exhibit R-1), Jovito was notified that Global Care was registered for GST purposes and told to report. These assessments followed during the calendar year 2003. Jovito adhered to his view that Global Care had not been registered and had been told that Global Care need not register.
+[8] However, even if Global Care receives part of its fees from workers in the Orient who wish to work in Canada, it falls within paragraph 142(1)(g) and the supply of its services is deemed to be made in Canada because its service (the placement of foreign workers in jobs in Canada) is performed in whole or in part in Canada.
+[9] Finally, the law is clear: the Excise Tax Act governs, wrong advice by Revenue Canada officials or anyone else cannot act as a form of estoppel. If the Appellant falls within the Act, the tax is due. (MNR. v. Inland Industries Ltd., [1974] S.C.R. 54).
+[10] For these reasons, the appeals are dismissed.
+Signed at Saskatoon, Saskatchewan, this 6th day of May 2005.
+“D.W. Beaubier”
+Beaubier, J.
+CITATION: 2005TCC323
+COURT FILE NOS.: 2004-1137(GST)I
+2004-3581(GST)I
+STYLE OF CAUSE: Jovito Federico v. The Queen
+Jovito Federico and Lydia Federico v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: April 29, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Beaubier
+DATE OF JUDGMENT: May 6, 2005
+APPEARANCES:
+For the Appellant:
+Jovito Federico
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

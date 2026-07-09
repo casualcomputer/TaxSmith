@@ -1,0 +1,302 @@
+---
+title: "THD Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/316428/index.do"
+last_modified: "2018-07-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 147"
+citation2: ""
+neutral_citation: "2018 CCI 147"
+decision_date: "2018-07-19"
+language: "fr"
+item_id: "316428"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4962
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:49:25.303000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40acbe6ec48a479b615fbc746556509bd85a9088b89b15c4a2977bd3818bf264"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# THD Inc. c. La Reine
+
+- Citation: 2018 CCI 147
+- Decision date: 2018-07-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4962, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+THD Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-19
+Référence neutre
+2018 CCI 147
+Numéro de dossier
+2016-1522(GST)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1522(GST)G
+ENTRE :
+THD INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 26 mars 2018, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Sasha Ghavani
+Avocat de l'intimée :
+Me Marc Lesage
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation dont l’avis est daté du 2 octobre 2014 pour les périodes de déclaration mensuelle commençant le 1er février 2011 et se terminant le 28 février 2014 et de la nouvelle cotisation dont l’avis est daté du 24 février 2016 pour les périodes de déclaration se terminant le 30 avril 2011, le 30 avril 2012, le 30 avril 2013, le 30 décembre 2013 et le 28 février 2014, lesquelles nouvelles cotisations ont été établies en vertu de la Partie IX de la Loi sur la taxe d’accise, est rejeté avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de juillet 2018.
+« Réal Favreau »
+Juge Favreau
+Référence : 2018 CCI 147
+Date : 20180719
+Dossier : 2016-1522(GST)G
+ENTRE :
+THD INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre de la nouvelle cotisation dont l’avis est daté du 2 octobre 2014 pour les périodes de déclaration mensuelle commençant le 1er février 2011 et se terminant le 28 février 2014 et de la nouvelle cotisation dont l’avis est daté du 24 février 2016 pour les périodes de déclaration se terminant le 30 avril 2011, le 30 avril 2012, le 30 avril 2013, le 30 décembre 2013 et le 28 février 2014, lesquelles nouvelles cotisations ont été établies par le ministre du Revenu du Québec, en tant que mandataire du ministre du Revenu national, (ci-après le « ministre ») en vertu de la Partie IX de la Loi sur la taxe d’accise L.R.C. 1985, ch. E-15, telle que modifiée (la « LTA »).
+[2] La nouvelle cotisation du 2 octobre 2014 concerne les périodes de déclaration mensuelle débutant le 1er février 2011 et se terminant le 28 février 2014. Les montants cotisés par cette nouvelle cotisation sont les suivants :
+Rajustements apportés au calcul de la taxe nette déclarée
+58 889,78 $
+Pénalités
+1 794,69 $
+Intérêt net
+8 247,62 $
+Total (montant dû)
+68 932,09 $
+et le montant de la taxe nette qui aurait dû être déclaré par l’appelante pour lesdites périodes est de 222 128,89 $.
+[3] Les rajustements au montant de 58 889,78 $ apportés au calcul de la taxe déclarée par l’appelante, mentionnés au paragraphe précédent, se ventilent comme suit :
+Taxes sur les produits et services (ci-après la « TPS » perçue ou percevable
+39 033,96 $
+Crédits de taxe sur les intrants (ci-après ‘CTI ») demandés, et obtenus, en trop, par erreur ou sans droit
+19 855,83 $
+Total
+58 889,78 $
+[4] La TPS perçue ou percevable au montant de 39 033,97 $, mentionnée au paragraphe précédent, se ventile comme suit :
+TPS présumée avoir été percue, et non remise par l’appelante, dans le calcul de sa taxe nette déclarée relativement à une contrepartie reçue d’une personne réputée l’avoir payée
+37 076,76 $
+TPS payable suite à la fourniture d’un bien à l’égard d’un particulier (avantages autos)
+1 957,20 $
+Total
+39 033,96 $
+[5] Les pénalités imposées au montant de 1 794,68 en vertu de la nouvelle cotisation du 2 octobre 2014 se ventilent comme suit :
+Pénalité de l’article 285 de la LTA (25% de 7 178,73 $)
+1 794,68 $
+Total
+1 794,68 $
+[6] Suite à un avis d’opposition présenté par l’appelante, le ministre a modifié la nouvelle cotisation datée du 2 octobre 2014 afin d’apporter des ajustements aux CTI accordés pour certaines périodes et pour redresser le montant des pénalités par l’établissement d’une nouvelle cotisation datée du 24 février 2016.
+[7] En vertu de cette nouvelle cotisation datée du 24 février 2016, le ministre a accordé des CTI au montant de 3 323,21 $ et a effectué un redressement des pénalités au montant de 754,88 $, lesquels se ventilent comme suit :
+Crédits de taxe sur les intrants (ci-après ‘CTI ») accordés pour :
+Période se terminant le 30 avril 2011
+Période se terminant le 30 avril 2012
+Période se terminant le 30 avril 2013
+Période se terminant le 30 décembre 2013
+Période se terminant le 28 février 2014
+Redressement de la pénalité (285 LTA)
+(429,67 S)
+(716,87 $)
+(609,15 $)
+(1 333,33 $)
+(234,20 $)
+(754,88 $)
+Total
+(4 078,09 $)
+[8] À l’ouverture de l’audience, l’avocat de l’intimée a déposé de consentement une réponse à l’avis d’appel modifiée afin d’apporter des corrections mineures au texte de la réponse.
+[9] Au début de l’audience, l’avocat de l’appelante a informé la Cour que sa cliente ne contestait pas les ajustements à la hausse apportés dans le calcul de la taxe nette due par l’appelante relativement aux avantages imposables cotisés pour l’utilisation de véhicules, ni les montants de CTI refusés relativement aux dépenses d’entreprise refusées et ni les montants de la pénalité.
+[10] Suite ces informations, les questions en litige sont les suivantes :
+a) l’appelante a-t-elle omis d’inclure, dans le calcul de sa taxe nette qu’elle a déclarée du ministre, de la TPS qu’elle a perçue ou était tenue de percevoir pour un montant de 39 033,96; et
+b) l’appelante avait-elle le droit de réclamer les CTI au montant de 19 532,62 $ (moins le montant de 3 323,21 $ accordé en vertu de la nouvelle cotisation datée du 24 février 2016)?
+[11] En établissant les rajustements apportés au calcul de la taxe nette déclarée par l’appelante, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de fait suivantes qui se rapportent aux questions en litige :
+a) [...]
+b) l’appelante est un inscrit aux fins de la Partie IX de la LTA;
+c) l’appelante exploite une entreprise de camionnage ayant pour activités le transport de produits pharmaceutiques et autres biens de consommation que l’on retrouve en vente en pharmacie au Québec et en Ontario et fait affaire sous la raison sociale, inter alia, Transport Henri Dion inc. (« THD »);
+d) l’appelante a produit ses déclarations de taxe nette de TPS mensuellement pendant la période visée (incluant la première et la deuxième période visée, à moins d’une indication contraire);
+e) toutes les fournitures effectuées par l’appelante dans le cadre de l’exploitation de son commerce, soit une activité commerciale, pendant la période visée, constituent des fournitures taxables pour lesquelles une taxe, soit la TPS, sur la valeur de la contrepartie de la fourniture, était payable par les acquéreurs à l’appelante, laquelle devait la percevoir;
+f) les registres et livres comptables de l’appelante remis au Ministre, lorsque requis de le faire, a fait l’objet d’une vérification dans le cadre de sa vérification;
+g) le Ministre a déterminé lors de sa vérification que certaines factures d’achats n’étaient pas conformes aux exigences documentaires prévues par la LTA et ses règlements, et à ce titre le Ministre a refusé certains CTI à l’appelante;
+h) les factures de la société Service Stakkers ne rencontraient pas les exigences documentaires prescrites et/ou les règlements prévus par la LTA en raison que les numéros d’inscription en taxes qui figuraient sur lesdites factures étaient manquants ou invalides ou les deux et les rajustements faits par le Ministre pour refuser les CTI de l’appelante au montant de 3 255,80 $ étaient justifiés;
+i) l’appelante n’a pas remis la taxe réputée avoir été perçue, dont elle a effectivement reçu, soit, une contrepartie réputée payée de la part de la société [sic] McKesson Canada inc. [sic] (« McKesson »), découlant de deux montants totalisant une somme de 778 612 $ (soit un montant de 120 000 $ et de 658 612 $) et ce, à ce titre, l’appelante devait remettre une taxe au Ministre d’un montant de 37 076,76 $ dans le calcul de sa taxe nette pour la période se terminant le 31 octobre 2011 ce que l’appelante a omis de faire;
+j) l’appelante a en effet conclu avec McKesson un contrat de transport duquel l’appelante devait faire livrer des services de transports [sic] constituant la réalisation de fournitures taxables au Canada à l’égard de McKesson;
+k) le montant de 778 612 $ payé par (« McKesson ») en faveur de l’appelante l’a été, inter alia, suite à l’homogation d’une décision arbitrale, laquelle décision fut homologuée par la Cour supérieure en date du 1er septembre 2011;
+l) que le litige entre l’appelante et McKesson était le résultat d’un différend suite à l’inexécution ou de la modification d’un contrat de transport duquel McKesson était l’acquéreur et l’appelante le fournisseur;
+m) McKesson, a décidé inter alia, de changer ou d’annuler certaines routes de distributions [sic] lesquelles ont eu pour effet de modifier le contrat entre les parties;
+n) que le montant de 778 612 $ payé par McKesson en faveur de l’appelante l’a été à titre d’un dédommagement suite à la modification des routes pour lesquelles l’appelante assurait ses services de transport à McKesson ce qui a modifié le contrat entre les parties;
+[. . .]
+Les témoignages
+[12] Monsieur Luc Cartier, seul actionnaire, seul administrateur et président de Transport Henri Dion Inc. (« THD ») a témoigné à l’audience. Il a expliqué qu’il a fait l’acquisition en juin 2000, de THD, une entreprise de transport par camions. THD comptait alors comme client un dénommé Ronzoni qui faisait affaires sous la raison sociale « Service Stakkers » et qui avait le mandat de livrer les produits Catelli aux magasins Costco.
+[13] Les relations d’affaires entre THD et Service Stakkers se sont poursuivies jusqu’au 1er février 2013. Sur réception de la première facture de Service Stakkers datée du 14 septembre 2012, le contrôleur interne de THD a, selon monsieur Cartier, effectué une vérification des numéros de taxe de ce fournisseur sur le site web de l’Agence du revenu du Canada (l’ « ARC ») et les numéros de taxe figurant sur les factures étaient bel et bien les numéros attribués à l’entreprise.
+[14] Monsieur Cartier a de plus expliqué qu’il n’y a pas eu de vérifications subséquentes des numéros de taxe de Service Stakkers à l’égard des factures émises par la suite.
+[15] Monsieur Cartier a affirmé qu’il n’a appris que les numéros de taxe de Service Stakkers n’étaient pas valides que lors de la vérification fiscale par l’Agence du revenu du Québec en 2014.
+[16] Selon monsieur Cartier, les numéros de taxe de Service Stakkers sont devenus invalides le 20 octobre 2012 suite à la publication d’un avis à cet effet sur le site web de l’ARC.
+[17] Monsieur a affirmé qu’il n’a jamais eu connaissance que Service Stakkers avait, à l’origine, soumis des factures sans numéro de taxe.
+[18] La deuxième partie du témoignage de monsieur Cartier a porté sur le contrat avec La Corporation McKesson Canada (« McKesson »), un autre client de THD, pour la livraison aux pharmacies Uniprix de produits offerts dans des circulaires.
+[19] McKesson avait des relations d’affaires avec THD depuis plusieurs années avant la conclusion de l’entente datée du 1er avril 2006 qui était d’une durée de cinq ans et qui devait se terminer le 31 mars 2011. Ladite entente a été mise en preuve et est ci-après désignée comme étant le « contrat ».
+[20] Un litige est intervenu entre THD et McKesson suite à l’inexécution ou à la modification du contrat de transport ci-dessus mentionné. McKesson a, entre autres choses, décidé de modifier ou d’annuler certaines routes de distribution, lesquelles ont eu pour effet de modifier le contrat entre les parties.
+[21] Dans le cadre de ce litige, THD a retenu les services d’un consultant en coût de revient, monsieur Frédéric François, pour calculer les dommages subis par THD suite à la modification ou à l’annulation de certaines routes de distribution. Ces dommages représentent essentiellement des pertes de revenu de transport.
+[22] Dans le cadre de ce litige, THD était représenté par Me Simon Rainville qui faisait alors partie du cabinet Cain Lamarre Casgrain Wells. Ce litige a fait l’objet d’une décision arbitrale modifiée rendue le 3 avril 2011 en vertu de laquelle McKesson a été condamnée à payer à THD la somme de 727 934,40 $ avec des intérêts au taux légal et l’indemnité additionnelle prévue aux articles 1618 et 1619 du Code civil du Québec à compter de la date de la signification de l’avis d’arbitrage, soit le 4 août 2010. La décision arbitrale a été homologuée par la Cour supérieure du Québec le 1er septembre 2011 et la permission d’en appeler à la Cour d’appel du Québec a été rejetée le 7 octobre 2011.
+[23] La réclamation de l’appelante, la sentence arbitrale modifiée, le jugement d’homologation de la Cour supérieure et la décision de la Cour d’appel du Québec rejetant la requête pour permission d’appeler du jugement de la Cour supérieure district de Montréal, ont été mises en preuve.
+[24] McKesson a effectué le paiement des dommages réclamés, soit la somme de 778 612,00 $, le 7 octobre 2011 par la délivrance des deux chèques aux avocats de THD. La somme payée par McKesson à titre de dommages ne comprenait pas les taxes.
+[25] Par une lettre datée du 18 septembre 2014, THD a réclamé à McKesson le paiement des taxes sur le montant des dommages versés à THD, ce que McKesson a refusé de faire.
+[26] Me Simon Rainville, alors représenté par Me François Marchand, pour s’assurer que son témoignage ne pourra être utilisée dans l’instance civile qui oppose THD et Cain Lamarre Casgrain Wells, a témoigné à l’audience. Il a expliqué qu’il était un avocat de litige civil qui a représenté THD dans le cadre de sa réclamation contre McKesson. Il a été impliqué du début jusqu’à la fin du litige.
+[27] Me Rainville a expliqué que le calcul des dommages réclamés à McKesson a été effectué par monsieur Frédéric François, un spécialiste en calcul de coûts de transport. Le quantum des dommages n’a pas été contesté par McKesson lors de l’audition devant l’arbitre.
+[28] Me Rainville a toutefois reconnu que la réclamation de l’appelante pour des dommages ne comprenait aucun montant au titre de la taxe sur les produits et services et de la taxe de vente du Québec et qu’il ne connaissait pas l’article 182 de la LTA.
+[29] Me Rainville a également expliqué que seulement trois (3) des cinq (5) routes prévues au contrat du 1er avril 2006 entre l’appelante et McKesson ont fait l’objet de l’arbitrage, soit les routes suivantes :
+a) Cornwall vers Montréal;
+b) Cornwall et Montréal vers Ottawa; et
+c) Service TL entre Cornwall et le quai de l’appelante à Ville Saint−Laurent.
+[30] Me Rainville a souligné les constatations suivantes de l’arbitre quant à la résiliation ou non du contrat :
+McKesson n’a jamais officiellement résilié le contrat. Elle a plutôt résilié des parties du contrat THD-1 sans justification et sans préavis.
+McKesson n’a jamais signé d’autres contrats que le contrat THD-1.
+[. . .]
+McKesson a modifié unilatéralement le contrat en enlevant des routes et a forcé la renégociation de tarifs en dépit du contrat existant. Toutes les autres conditions du contrat THD-1 demeurent inchangées.
+Je suis donc d’opinion que le contrat THD-1 a survécu à toutes les modifications de routes.
+[31] Selon Me Rainville, le contrat entre l’appelante et McKesson a été appliqué aux fins du calcul du montant de la réclamation.
+[32] Me Rainville n’a pas été impliqué lors de la vérification fiscale des affaires de l’appelante puisqu’il a quitté le cabinet Cain Lamarre Casgrain Wells en 2013.
+[33] Monsieur Jacques Drouin, vérificateur de l’Agence du revenu du Québec, et Me Edith Buist, agente aux oppositions de l’Agence du revenu du Québec ont témoigné à l’audience pour l’intimée.
+[34] Monsieur Drouin a indiqué qu’il a débuté la vérification des affaires de l’appelante au mois de mai 2014 suite à un échange interne de renseignements au sujet de factures non conformes datées de septembre 2012 à février 2013, à l’égard desquelles l’appelante a réclamé des crédits de taxe sur intrant.
+[35] Monsieur Drouin a expliqué que de nouvelles factures du fournisseur Service Stakkers (9263-2397 Québec Inc.) lui ont été remises lors de sa visite sur place aux bureaux de l’appelante, lesquelles comportaient des numéros d’inscription de taxe révisés qui se sont avérés être également non valides. Les cinquante factures de Service Stakkers (9263-2397 Québec Inc.) datées du 14 septembre 2012 au 1er février 2013 portant le numéro de TPS 813553906 (la nouvelle série de factures) furent mises en preuve.
+[36] Monsieur Drouin a expliqué que les numéros de taxes du fournisseur avaient été annulées par Revenu Québec par des lettres datées du 20 août 2012 envoyées à la société 9263-2397 Québec Inc. par poste certifiée. Ces lettres furent mises en preuve. L’annulation de l’inscription de ladite société pour les fins de la taxe sur les produits et services et de la taxe de vente harmonisée est entrée en vigueur le 14 mai 2012, soit la date d’entrée en vigueur de l’inscription de ladite société au fichier de la taxe sur les produits et services. Pour ce qui est de la taxe de vente du Québec, la révocation du certificat d’inscription de ladite société au fichier de la TVQ a pris effet à la date de l’avis, soit le 20 août 2012.
+[37] Monsieur Drouin a référé aux résultats de la recherche effectuée le 6 mars 2015 au registre de la TPS/TVQ pour le numéro de TPS/TVH 813553906 de la société 9263-2397 Québec Inc. qui indiquent que ladite société était non inscrite à la date de la transaction entrée, soit au 13 juin 2012, et que la date de la modification (la date de mise à jour du système) était le 20 octobre 2012.
+[38] Concernant le dédommagement que l’appelante a obtenu de McKesson, monsieur Drouin a examiné le contrat et a conclu, après avoir obtenu une opinion d’une fiscaliste travaillant à l’interne, qu’il y avait eu modification du contrat, que l’article 182 de la LTA s’appliquait en l’espèce puisque les quatre conditions d’application étaient rencontrées et que l’appelante était réputée avoir perçu la TPS et devait remettre cette taxe réputée perçue.
+[39] Le rapport de vérification et la recommandation visant l’imposition de la pénalité en vertu de l’article 285 de la LTA furent mis en preuve.
+[40] Madame Buist a expliqué qu’elle avait reçu le dossier de l’appelante au mois de mai 2015 et qu’elle a rendu sa décision sur opposition en janvier 2016. L’avis d’opposition produite par l’appelante et le mémoire sur opposition autorisé par madame Buist en tant que chef d’équipe furent mis en preuve.
+[41] Madame Buist n’a pas apporté d’ajustement au montant de la réclamation des CTI relativement aux factures de Service Stakkers ni quant au montant de taxe réputée avoir été perçue par l’appelante à l’égard du dédommagement versé par McKesson.
+[42] Concernant les factures de Service Stakkers, madame Buist a indiqué dans son rapport que, pour donner droit à des CTI, les factures doivent, au moment de la réclamation, être conformes aux exigences de la LTA et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH). Dans le cas présent, les factures de Service Stakkers datées entre le 14 septembre 2012 et le 1er février 2013 n’avaient pas de numéros de taxes valides.
+[43] Madame Buist a souligné que les numéros de TPS/TVQ apparaissant sur les factures de Service Stakkers n’étaient pas valides au moment de la réclamation et que l’appelante a obtenu du fournisseur de nouvelles factures au stade de la vérification, lesquelles avaient elles aussi des numéros de taxes non valides. Service Stakkers (9263-2397 Québec Inc.) avait un numéro d’enregistrement pour la TVQ qui était « inactif » depuis le 14 mai 2012 et un numéro de TPS/TVH qui n’était pas inscrit au 13 juin 2012.
+[44] Selon madame Buist, il ne s’agissait pas là d’une simple erreur de transcription que l’on pourrait qualifier d’une erreur administrative donnant ouverture à la discrétion du ministre de valider les CTI en cause.
+[45] Pour ce qui est du dédommagement obtenu de McKesson, madame Buist n’a pas retenu les arguments de l’appelante à l’effet que :
+a) l’article 182 de la LTA ne doit pas être appliqué puisque le contrat n’a pas été résilié mais uniquement modifié et puisqu’aucune des parties ne connaissait l’article en question de sorte qu’elles n’ont pu négocier ces éléments librement; et
+b) qu’il y a eu enrichissement injustifié pour les autorités fiscales puisque McKesson n’aurait pas réclamer de CTI/RTI à l’égard du dédommagement.
+Dispositions législatives et réglementaires applicables
+[46] Les dispositions législatives et réglementaires applicables pour demander des CTI en vertu de la LTA sont ci-après reproduites.
+[47] L’alinéa 169(4)a) de la LTA énonce les conditions permettant de demander des CTI en vertu de la Loi :
+(4) Documents – L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[48] L’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le « Règlement ») prévoit les renseignements exigibles en vertu de l’alinéa 169(4)a) pour demander des CTI. Les passages utiles de cette disposition sont les suivants :
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément à l’article 241 de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+[…]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[49] Le paragraphe 242(1) de la LTA traite de l’annulation des inscriptions à la TPS :
+Annulation [d’inscription] - Après préavis écrit suffisant donné à la personne inscrite aux termes de la présente sous-section, le ministre peut annuler son inscription s'il est convaincu qu'elle n'est pas nécessaire pour l'application de la présente partie.
+[50] Les dispositions législatives applicables à l’égard du paiement effectué par McKesson sont ci-après reproduites.
+[51] La définition du terme « contrepartie » se trouve au paragraphe 123(1) de la LTA :
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la Loi, est payable pour une fourniture.
+[52] Le statut fiscal des montants versés en dédommagement est déterminé par l’article 182 de la LTA qui se lit comme suit :
+Renonciation et remise de dette – (i) Pour l'application de la présente partie, dans le cas où, à un moment donné, par suite de l'inexécution, de la modification ou de la résiliation, après 1990, d'une convention portant sur la réalisation d'une fourniture taxable au Canada, sauf une fourniture détaxée, par un inscrit au profit d'une personne, un montant est payé à l'inscrit, ou fait l'objet d'une renonciation en sa faveur, autrement qu'à titre de contrepartie de la fourniture, ou encore une dette ou autre obligation de l'inscrit est réduite ou remise sans paiement au titre de la dette ou de l'obligation, les présomptions suivantes s'appliquent :
+a) la personne est réputée avoir payé, au moment donné, un montant de contrepartie pour la fourniture égal au résultat du calcul suivant :
+A/B × C
+où :
+A représente 100%,
+B le pourcentage suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, la somme de 100 %, du taux fixé au paragraphe 165(1) et du taux de taxe applicable à la province participante où la fourniture a été effectuée,
+(ii) dans les autres cas, la somme de 100 % et du taux fixé au paragraphe 165(1),
+C le montant payé, ayant fait l'objet de la renonciation ou remis, ou le montant dont la dette ou l'obligation a été réduite;
+b) la personne est réputée avoir payé, et l'inscrit avoir perçu, au moment donné, la totalité de la taxe relative à la fourniture qui est calculée sur cette contrepartie, laquelle taxe est réputée égale au montant suivant :
+(i) si la taxe prévue au paragraphe 165(2) était payable relativement à la fourniture, le total des taxes prévues à ce paragraphe et au paragraphe 165(1) calculées sur cette contrepartie,
+(ii) dans les autres cas, la taxe prévue au paragraphe 165(1), calculée sur cette contrepartie.
+[53] L’article 222 de la LTA précise que les montants de taxe perçus par un inscrit sont réputés être détenus en fiducie pour Sa Majesté du chef du Canada :
+Montants perçus détenus en fiducie − La personne qui perçoit un montant au titre de la taxe prévue à la section II est réputée, à toutes fins utiles et malgré tout droit en garantie le concernant, le détenir en fiducie pour Sa Majesté du chef du Canada, séparé de ses propres biens et des biens détenus par ses créanciers garantis qui, en l'absence du droit en garantie, seraient ceux de la personne jusqu'à ce qu'il soit versé au receveur général ou retiré en application du paragraphe (2).
+Analyse
+A. Les factures de Service Stakkers
+[54] Concernant les factures de Service Stakkers, l’appelante allègue que la première facture, soit celle datée du 14 septembre 2012, a été payée après une vérification des numéros de taxe. Par contre, les éléments suivants n’ont pas été mis en preuve :
+- la facture originale;
+- la date à laquelle la facture du 14 septembre 2012 a été reçue par l’appelante;
+- la date exacte de la vérification des numéros de taxe et une preuve documentaire de cette vérification; et
+- la date de paiement de cette première facture et une preuve documentaire dudit paiement.
+[55] De plus, personne du département de comptabilité de l’appelante n’est venue témoigner à l’audience afin de confirmer la vérification des numéros de taxes de Service Stakkers suite à la réception de la facture du 14 septembre 2012 et le paiement de ladite facture.
+[56] Il y a lieu de rappeler ici que les factures originales de Service Stakkers pour la période du 14 septembre 2012 au 1er février 2013 ont été remplacées par une nouvelle série de factures pour la même période comportant des numéros de taxe modifiés, lesquelles ont été remises au vérificateur en 2014 lors de sa vérification aux bureaux de l’appelante. Le nouveau numéro de TPS apparaissant sur cette nouvelle série de factures était invalide depuis le 14 mai 2012.
+[57] Les factures originales sont celles à l’égard desquelles l’appelante a réclamé des CTI. Selon le rapport de vérification, ces factures ne contenaient pas tous les renseignements nécessaires à la demande des intrants. Les renseignements manquant étaient en l’occurrence les numéros valides d’inscription aux fins de la TPS/TVH et de la TVQ. C’est d’ailleurs pour cette raison que l’appelante a obtenu de Service Stakkers de nouvelles factures avec les numéros de taxe modifiés. Par conséquent, l’appelante a par le fait même reconnu que le numéro de TPS attribué à Service Stakkers était inexistant ou à tout le moins était invalide au moment où elle a envoyé sa déclaration de TPS dans laquelle elle a demandé les CTI en litige.
+[58] L’appelante n’avait donc pas en main les renseignements prescrits par le Règlement au moment où elle a demandé les CTI comme l’exige l’alinéa 169(4)a) de la LTA.
+[59] Dans les circonstances, le vérificateur n’avait pas à considérer les nouvelles factures que lui a présentées l’appelante en 2014 mais il l’a fait et il a constaté que ces nouvelles factures étaient elles aussi invalides parce que le numéro d’inscription à la TPS/TVH apparaissant sur ces nouvelles factures avait été annulé avec effet au 14 mai 2012.
+[60] Comme toutes les factures originales de Service Stakkers ont été remplacées par la nouvelle série de factures, il y a lieu de croire que la nouvelle série de factures a été préparée après le 1er février 2013, soit à un moment postérieur à la date d’emploi de l’avis d’annulation du 20 août 2012 et bien après la date de modification du registre de la TPS/TVH du 20 octobre 2012.
+[61] Avant de remettre au vérificateur la nouvelle série de factures, l’appelante aurait dû vérifier le registre de la TPS/TVH et aurait pu constater par elle-même que le numéro de TPS y apparaissant était lui aussi invalide.
+[62] Compte tenu de ce suit précède, il n’y a pas lieu d’accorder les CTI réclamés à l’égard des factures de Service Stakkers.
+B. Contrat avec McKesson
+[63] Selon la décision arbitrale, le contrat avec McKesson a été seulement modifié et non résilié. Les dommages ont été calculés en application du contrat jusqu’à son échéance sans qu’il y ait eu fourniture de service de la part de l’appelante pour les dommages payés par McKesson.
+[64] L’énoncé de la politique sur la TPS/TVQ P-218 intitulé « Statut fiscal des montants versés en dédommagement, qu’ils soient ou non visés par l’article 182 de la Loi sur la taxe d’accise » explique que « tout paiement versé en dédommagement ou tout montant versé à un autre titre que la contrepartie d’une fourniture effectuée en vertu d’une convention peut néanmoins être assujetti à la disposition déterminative du paragraphe 182(1) de la Loi, ce qui se traduira par une obligation de verser la TPS/TVH. Le paragraphe 182(1) peut s’appliquer lorsque, en raison de l’inexécution, de la modification ou de la résiliation d’une convention portant sur la réalisation d’une fourniture taxable (sauf une fourniture détaxée) d’un bien ou d’un service au Canada par un inscrit, un montant est payé à cet inscrit ou fait l’objet d’une renonciation en sa faveur, autrement qu’à titre de contrepartie de cette fourniture ».
+[65] Il m’apparait être évident que les conditions d’application de l’article 182 de la LTA sont rencontrées en l’espèce. Il y a eu modification d’une convention portant sur la fourniture taxable au Canada par un inscrit au profit d’une personne et un montant a été payé à l’inscrit autrement qu’à titre de contrepartie de la fourniture.
+[66] Par conséquent, McKesson est réputée avoir payé un montant de contrepartie pour la fourniture et la totalité de la taxe relative à la fourniture sur cette contrepartie et l’appelante est réputée avoir perçu la totalité de cette taxe. De plus, l’appelante est réputée par l’article 222 de la LTA détenir, en fiducie pour Sa Majesté du chef du Canada, le montant de taxe qu’elle est réputée avoir perçu jusqu’à ce qu’il soit versé au receveur général du Canada.
+[67] Malheureusement pour l’appelante, les règles énoncées à l’alinéa 182(1)b) de la LTA s’applique que McKesson ait ou non réclamé un crédit de taxe sur intrant à l’égard des dommages payés.
+[68] Pour toutes ces raisons, l’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 19e jour de juillet 2018.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2018 CCI 147
+Nº DU DOSSIER DE LA COUR :
+2016-1522(GST)G
+INTITULÉ DE LA CAUSE :
+THD Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 26 mars 2018
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 19 juillet 2018
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Sasha Ghavani
+Avocat de l'intimée :
+Me Marc Lesage
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Sasha Ghavani
+Cabinet :
+Services Juridiques Evolex
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

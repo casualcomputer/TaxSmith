@@ -1,0 +1,106 @@
+Title: Izumi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70965/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-108-70965-izumi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-04-04
+
+# Izumi v. The Queen
+
+- Citation: 2014 TCC 108
+- Decision date: 2014-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5279, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Izumi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-04
+Neutral citation
+2014 TCC 108
+File numbers
+2008-2487(IT)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2014 TCC 108
+Date: 20140404
+Docket: 2008-2487(IT)G
+BETWEEN:
+WAYNE IZUMI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by written submissions,
+By: The Honourable Eugene P. Rossiter, Associate Chief Justice
+Appearances:
+For the Appellant:
+David Chodikoff and
+Patrick DéZiel
+Counsel for the Respondent:
+Elizabeth Chasson and
+Donna Dorosh
+____________________________________________________________________
+ORDER AND REASONS FOR ORDER
+[1] This is a motion by the Appellant to set aside the Judgment of April 10, 2012 in which the Tax Court of Canada had dismissed the Appellant’s appeal for his 1994 and 1995 taxation years. The Court dismissed the appeal as no one appeared on behalf of the Appellant at the status hearing held on April 3, 2012. The Appellant now requests that the Tax Court of Canada:
+a. Exercise its discretion pursuant to section 12 of the Tax Court of Canada Rules (General Procedure) extending the time to apply for an Order subsection 140(2) of the Rules; and
+b. Grant an Order under subsection 140(2) of the Rules setting aside the Judgment.
+FACTS:
+[2] The Appellant was reassessed for the 1994 and 1995 taxation years by notice of reassessment dated June 30, 2008. A Notice of Appeal was filed with the Tax Court of Canada on August 6, 2008 by the Appellant’s then counsel, Graham Turner. The address of the Appellant given in the Notice of Appeal was 251 Appleby Road, Ancaster, ON, L9G 2V6. The Respondent filed a reply to the Appellant’s Notice of Appeal on November 6, 2008.
+[3] In September, 2009 the Appellant moved to a new address at 1055 10th Side Road, R.R. #1, Moffatt, ON L0P 1J0. Shortly thereafter, the Appellant provided the Canada Revenue Agency with a change of address by telephone and since that time the Canada Revenue Agency has directed all correspondence to this new address; however, the Appellant did not notify the Tax Court of Canada of his new address and it is unclear whether the Appellant provided his counsel, Mr. Turner, with his new address.
+[4] On May 31, 2010 Appellant’s counsel, Graham Turner, filed a notice of removal of counsel of record in which he listed the Appellant’s contact information as his former address, that is, 251 Appleby Road, Ancaster, ON, L9G 2V6.
+[5] On February 27, 2012, the Tax Court of Canada issued a Notice of Status Hearing for April 3, 2012, the Notice of Status Hearing being mailed to the Appellant’s former address. On April 3, 2012, the Status Hearing was held and on April 10, 2012 the Tax Court of Canada dismissed the Appellant’s appeal for failing to appear at the status hearing.
+[6] On August 24, 2012, Respondent’s counsel sent a letter to the Appellant at his former address enclosing the Respondent’s bill of costs and the letter was returned by Canada Post. On September 6, 2012, the Respondent’s counsel sent another letter to the Appellant at his current address again including the Respondent’s bill of costs. It was only on or about September 7, 2012 that the Appellant became aware of the Status Hearing and contacted the Respondent’s counsel to enquire as to the status of his appeal. He was informed at that time that the appeal had been dismissed and the Appellant then paid the Respondent’s bill of costs.
+[7] In the fall of 2012, the Appellant contacted his accountant with respect to the appeal and the outstanding amounts owing for his 1994 and 1995 taxation years. The accountant referred him to the law firm of Miller Thomson LLP to assist in legal issues surrounding the 1994 and 1995 taxation years. The motion to set aside the Judgment of April 10, 2012 was filed with the Tax Court of Canada on November 1, 2013.
+ISSUE:
+[8] Should the Tax Court of Canada
+(a) exercise its discretion pursuant to section 12 of the Tax Court of Canada Rules (General Procedure) (“Rules”) extending the time to apply for an Order under subsection 140(2); and
+(b) grant an Order under subsection 140(2) of the Rules setting aside the Judgment?
+ANALYSIS:
+[9] The Tax Court of Canada has discretion under Rule 140(2) to set aside or vary a Judgment or Order obtained against a party who failed to attend a hearing, if the application is made within thirty days after pronouncement of the Judgment or Order. Here, the Appellant’s application is brought some eighteen months after the Tax Court of Canada Order of April 10, 2012 dismissing the appeal for failure to appear. The application has been brought well beyond the thirty day limit and as a result the Appellant requires this Court to exercise its discretion under subsection 12(1) of the Rules to extend the period of time provided for in the subsection 140(2) of the Rules to allow his appeal to proceed.
+[11] In Tomas v. Her Majesty the Queen, 2007 FCA 86, the Federal Court of Appeal noted that the factors generally considered on the applications for extension of time include:
+(1) a continuing intention to pursue the appeal;
+(2) the appeal has some merit;
+(3) there is no prejudice to the Respondent arising from the delay; and
+(4) a reasonable explanation is given for the delay.
+[12] In Farrow v. Her Majesty the Queen, 2003 TCC 885, Chief Justice Donald Bowman, as he then was, similarly discussed the principles the Tax Court of Canada should consider in determining whether to set aside a Judgment. Chief Justice Bowman held that the application should be made as soon as possible after a Judgment comes to the knowledge of the Appellant, though mere delay is not a bar unless it is wilful or results in prejudice to the opposing party. Further the Affidavit supporting the application should explain the delay in making the application and finally, the application must disclose an arguable appeal.
+[13] It should be noted that although the Notice of Appeal must disclose a justiciable issue, the threshold is low and there is no need for a litigant to testify or call evidence to demonstrate a prima facie case. Also, like in other procedural matters, the Tax Court of Canada should not apply a set of factors in a rigid manner to determine whether to set aside a Judgment but adapt a contextual approach in light of the particular facts of the case, as was considered by Justice Woods in GMC Distribution v. Her Majesty the Queen, 2009 TCC 287.
+[14] The facts to be considered in a motion of this nature must show a continuing intention by an Appellant to pursue an appeal. The Appellant claims that he believed that his appeal was being held in abeyance pending the outcome of related tax cases. This appears to be a reasonable belief given the slow moving nature of this appeal – the tax years under appeal date back to 1994 and 1995. Although the Appellant did not take an action to pursue his appeal after his former counsel ceased to act for him, the fact that he believed his appeal was being held in abeyance and the mistaken belief that he had provided notice of his new address to the Court lends support to his position that he had a continuing intention to pursue this appeal.
+[15] Another factor to be considered is whether or not the appeal has merit which discloses an arguable appeal. While the Notice of Appeal must disclose a justiciable issue, the threshold is low and there is no need for the Appellant or any litigant to testify or call evidence to demonstrate a prima facie case. The Appellant submits that the Notice of Appeal discloses an arguable appeal concerning the deduction of business losses of a partnership, as well as certain carrying costs claimed by the Appellant in his 1994 and 1995 taxation years. The Respondent, in his submissions on the motion, did not take issue with respect to the merit of the taxpayer’s appeal. Given the low threshold, there does not appear to be any reason to question the Appellant’s contention that the appeal has merit and that the Notice of Appeal raised a justiciable issue.
+[16] Is there prejudice to the Respondent arising from the delay? In GMC, Justice Woods noted that like with other procedural matters, the Court should not apply a set of factors in a rigid manner to determine whether or not to set aside a judgment, but rather, adopt a contextual approach in light of the particular facts of the case. Justice Woods described the “overriding consideration” should be the relative effect on the persons that will be affected by the decision. In this particular case, a consideration of the relative prejudice to the parties favours allowing the motion. There is no apparent prejudice to the Respondent. The Respondent has not argued that it will suffer prejudice if the motion is allowed. Conversely, great prejudice will be occasioned on the Appellant if the motion is dismissed as $153,421 in deductions are at stake. The Respondent only refers to authorities of the Ontario Court of Appeal in 11961658 Ontario Inc. v. 6274013 Canada Limited, 2012 ONCA 544, for the proposition that a case can be dismissed for delay without proof of actual prejudice. This case contains an interesting discussion with respect to prejudice, but it deals with the issue of actual prejudice. In this particular case, there is no evidence of actual or apparent prejudice to the Respondent.
+[17] Finally, one factor that must be considered is whether a reasonable explanation is given for the delay. The Appellant had explained why he failed to attend the status hearing and the delay between the pronouncement of the Judgment and the date the Appellant became aware of the Judgment, but there was no explanation of the delay between becoming aware of the Judgment against him and filing the motion. It is noted that the Appellant sought advice from his accountant with respect to the issues of the 1994 and 1995 reassessments and his accountants then referred him to the firm of Miller Thomson on the tax issues. The Court is not aware of the timing of the retention of Miller Thomson and the time line from their retention to the motion being filed.
+[18] On the facts of the case, the delay is of significance but the issue of prejudice in this case should be given significantly more weight. The Appellant had done everything expected of him in relation to keeping the Court advised with respect to his address, and was not intentionally avoiding any notice of matters with respect to his tax appeal. The Appellant when he noticed that he had received correspondence from the Respondent with respect to his bill of costs acted quickly and paid the bill of costs forthwith. The prejudice to the Appellant if the appeal does not proceed is significant.
+[19] Considering all of the factors aforesaid, and the case law referred to, I am satisfied that the Appellant took the appropriate steps in the process, although he could have done it in a little more timely fashion. His conduct was certainly not egregious behaviour and I believe to deprive him of the ability to have his case decided on the merits would most certainly be unduly harsh. I believe the circumstances are such that the default judgment should be set aside and the period of time within which the Appellant may bring his motion to set aside the Judgment be extended to the date on which the motion was filed with the Tax Court of Canada.
+[20] The motion is granted and there will be no order as to costs.
+Signed at Ottawa, Ontario, this 4th day of April, 2014.
+“E.P. Rossiter”
+Rossiter A.C.J.
+CITATION: 2014 TCC 108
+COURT FILE NO.: 2008-2487(IT)G
+STYLE OF CAUSE: WAYNE IZUMI v. HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY: The Honourable Eugene P. Rossiter, Associate Chief Justice
+DATE OF ORDER: April 4, 2014
+APPEARANCES:
+For the Appellant:
+David Chodikoff
+and Patrick DàZiel
+Counsel for the Respondent:
+Elizabeth Chasson and
+Donna Dorosh
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Chodikoff
+Firm: Miller Thomson LLP
+Toronto, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

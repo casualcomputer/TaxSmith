@@ -1,0 +1,381 @@
+---
+title: "SoftSim Technologies Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30832/index.do"
+last_modified: "2012-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 181"
+citation2: ""
+neutral_citation: "2012 TCC 181"
+decision_date: "2012-06-07"
+language: "en"
+item_id: "30832"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7391
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:22:09.647000+00:00"
+cases_cited_count: 3
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7cf74b4a50991e7f06c4d74d6b411da668dabfc031ee443e2345c291a9660c03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SoftSim Technologies Inc. v. The Queen
+
+- Citation: 2012 TCC 181
+- Decision date: 2012-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7391, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SoftSim Technologies Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-07
+Neutral citation
+2012 TCC 181
+File numbers
+2008-2527(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2527(IT)G
+BETWEEN:
+SOFTSIM TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 7 and 8, 2011 at Montreal, Quebec.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Pierre-Paul Persico
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+ORDER
+UPON notice of motion of the Respondent for an Order to enforce an agreement reached by the parties pursuant to subsection 169(3) of the Income Tax Act (Act);
+And upon hearing the representations of the parties;
+It is ordered that the motion to enforce the agreement is allowed and the appeals from the reassessments made under the Act for the 2003, 2004, 2005 and 2006 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the counter-offer dated January 28, 2011.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“Johanne D’Auray”
+D'Auray J.
+Docket: 2008-2531(IT)G
+BETWEEN:
+BARADA CONSULTING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 7 and 8, 2011 at Montreal, Quebec.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Pierre-Paul Persico
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+ORDER
+UPON notice of motion of the Respondent for an Order to enforce an agreement reached by the parties pursuant to subsection 169(3) of the Income Tax Act (Act);
+And upon hearing the representations of the parties;
+It is ordered that the motion to enforce settlement is allowed and the appeals from the reassessments made under the Act for the 2003, 2004, 2005 and 2006 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the counter-offer dated January 28, 2011.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2012 TCC 181
+Date: 20120607
+Docket: 2008-2527(IT)G
+BETWEEN:
+SOFTSIM TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND
+Docket: 2008-2531(IT)G
+BETWEEN:
+BARADA CONSULTING INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Auray J.
+[1] Barada Consulting Inc. (Barada) and Softsim Technologies Inc. (Softsim) have both appealed their income tax reassessments for the years 2003 to 2006 inclusive. In both cases, a common issue has arisen namely whether they entered into agreements with the respondent to settle their respective appeals.
+[2] The respondent has brought a motion against both appellants, requesting this Court to enforce the settlements allegedly reached under subsection 169(3) of the Income Tax Act (Act). Subsection 169(3) states:
+169(3) Disposition of appeal on consent. Notwithstanding section 152, for the purpose of disposing of an appeal made under a provision of this Act, the Minister may at any time, with the consent in writing of the taxpayer, reassess tax, interest, penalties or other amounts payable under this Act by the taxpayer.
+[3] The motion was heard on common evidence.
+[4] During the settlement negotiations, the appellants were represented by the same law firm, Starnino Mostovac and the positions taken by counsel for Starnino Mostovac during the negotiations applied equally to both appellants.
+[5] According to the respondent, the settlements with the appellants crystallized when it received a letter dated February 4, 2011, from their counsel stating as follows:
+[Translation]
+This is to confirm that our clients mentioned above accept your settlement counter-offer dated January 28, 2011, without costs and without admission.
+See Exhibit R-1, Tab 8.
+[6] The respondent is therefore asking that the motion be allowed, that the appeals be allowed and that the reassessments be referred back to the Minister of National Revenue for further reassessment in accordance with the settlements pursuant to subsection 169(3) and section 171 of the Act.
+[7] The appellants oppose the respondent’s motion. They submit that they had given their counsel the mandate to negotiate an agreement but not a mandate to settle.
+[8] Before turning to the merits of the motion, I must address three preliminary issues: the Court’s jurisdiction to hear the motion; the application of solicitor‑client privilege with respect to the testimony of Me Delisle; and the application of the Civil Code of Quebec (C.C.Q.) as supplementary substantive law.
+PRELIMINARY ISSUES
+Jurisdiction of this Court
+[9] The parties submitted that this Court has the jurisdiction to hear the present motion. I agree. What the respondent is seeking is an order allowing the appeals and referring the reassessments to the Minister for reconsideration and reassessment in accordance with the settlement agreements under subsection 169(3) and pursuant to paragraph 171(1)(b) of the Act. This remedy falls within the exclusive jurisdiction of this Court.
+[10] This Court has in the past decided that it has jurisdiction to decide issues of this nature. In Huppe v. Canada, 2010 TCC 644, Justice Webb carried out an analysis of the jurisdiction of the Court to enforce a settlement between the parties. At paragraph 18 of his reasons, Webb J. concluded as follows:
+[18] Therefore this Court has been granted the jurisdiction to determine appeals under the Act and in relation to such appeals has been granted the power to allow an appeal and to grant the remedies provided in paragraph 171(1)(b) of the Act including the power to vary the assessment or refer the assessment back to the Minister for reconsideration and reassessment. Since the remedy that the Appellant would be seeking (since the Appellant indicated that the matter was settled) would be to vary the assessment or to refer the matter back to the Minister for reconsideration and reassessment, and since this Court has been specifically granted the power to order this remedy in disposing of an appeal, it seems to me that this Court does have the jurisdiction to enforce the agreement (by allowing the appeal and varying the assessment or referring the assessment back to the Minister for reconsideration and reassessment), if the Appellant can establish that such an agreement was made in this case. For any of the remedies as provided in paragraph 171(1)(b) of the Act, this Court does not need to be a court of equity to grant such remedy as this Court has been granted the power to grant these specific remedies. If, however, specific performance of the contract would require the granting of any remedy other than one of the remedies as provided in paragraph 171(1)(b) of the Act, then this Court would not have the jurisdiction to grant such remedy.
+[Underlining added]
+[11] Similarly in 1390758 Ontario Corp. v. Canada, 2010 TCC 572, Justice Bowie held that this Court has the jurisdiction to confirm a settlement under subsection 169(3) of the Act. He noted as follows at paragraph 3 of his reasons:
+[3] Obviously the Court does have jurisdiction over the subject matter, as it is an appeal, duly commenced, from an assessment under the Income Tax Act (the “Act”).
+[12] I adopt the reasons of Justices Webb and Bowie. Accordingly, if I decide that settlements were in fact reached between the parties, this Court has the jurisdiction to enforce the settlements.
+Solicitor-client privilege
+[13]At the hearing of the motion, the respondent called Me Delisle of the firm Starnino Mostovac as a witness. Me Delisle had acted as counsel on behalf of the appellants during the negotiation of the alleged settlements. The appellants objected to the testimony of Me Delisle arguing that the exchanges between Me Delisle and the respondent’s counsel, Me Leduc, in respect of the alleged settlements fell within the ambit of the solicitor-client privilege. They particularly objected to any questions regarding the existence and the scope of the mandate Me Delisle had received from the appellants.
+[14]The issue is therefore whether following alleged settlement agreements, a party may raise solicitor-client privilege to prevent counsel who represented it during the negotiations from testifying on the existence and scope of the counsel’s mandate.
+[15]At the hearing, I took the appellants’ objection under reserve. However, I did indicate as a preliminary opinion, that in the circumstances of this motion, evidence of the existence and the scope of a mandate did not fall within solicitor‑client privilege.
+[16]After reviewing case law under both the civil law and the common law, I am of the view that counsel’s evidence does not fall under solicitor-client privilege.
+[17]In Saar Foundation Canada Inc. v. 2643-4654 Québec Inc., [1994] J.Q. No. 105, the Quebec Court of Appeal (Beauregard, Rousseau-Houle and Deschamps JJ.A.) found that counsel could testify about the existence and the scope of a mandate without betraying the solicitor-client privilege. It stated the following at paragraphs 7 and 8 of its reasons for judgment:
+[Translation]
+7 The trial judge was correct to say that the existence and the scope of the mandate of Messrs. Beaumont and Breton with respect to the contract mentioned earlier are questions of fact which have no impact upon the theory of privilege;
+8 A person cannot instruct counsel to negotiate a contract on his or her behalf, claim that his or her agent exceeded the limits of his or her mandate and then object to the other contracting party questioning the agent about the existence and the scope of the mandate; in the case at bar, as noted by the trial judge, either Messrs. Beaumont and Breton would argue they had no mandate to write what they wrote or they would argue that the appellants gave them instructions to write to the respondents’ counsel what they wrote to him: in neither case, however, would Messrs. Beaumont and Breton be betraying the solicitor-client privilege;
+[18]In Turpin, Gagnon v. Turpin, Bélec, 2004 CanLII 48000 (QC SC), Fournier J. explains the distinction between offers of settlement and counsel’s mandate to settle in accordance with his or her client’s position. The former is covered by solicitor-client privilege while the latter is not. At paragraphs 4, 5 and 6 of his reasons, Justice Fournier writes as follows:
+[Translation]
+[4] For instance, in the case of civil liability litigation, the written or verbal offer to pay a sum of money cannot be used against the person who made the offer and as such is considered covered by the solicitor-client privilege.
+[5] However, in the course of negotiations, counsel’s very mandate for settlement purposes is to state his or her client’s position. The terms of the offers are not covered by the solicitor-client privilege. They only concern a settlement negotiated by intervening counsel.
+[6] That is the meaning to be given to the judgment of Fraiberg J. in Ferlatte v. Ventes Rudolph Inc.1 He writes as follows on the subject:
+[12] Unchallenged judicial authority in Quebec, the common law provinces and in England holds that privilege protects communications between opposing counsel aimed at settling a dispute. Therefore offers of settlement cannot be introduced in evidence unless they are accepted. In that case they are admissible, not as proof that the offerors admit responsibility for the offerees’ claims, but that they choose to end their conflict by settling on the terms of the offers.3 Such communications benefit from the protection of privilege on the policy ground that without it, disputing parties would be reluctant to attempt settlement negotiations, fearing their initiatives will come back to haunt them at trial if they fail.
+[13] The same objective of forestalling needless conflict justifies that communications tending to prove settlement should see the light of day rather that be entombed by privilege….
+[19]I also find informative the decision P.I. v. H.I., 27 B.C.L.R. 397, in which the British Columbia Court of Appeal decided that the solicitor-client privilege did not apply in circumstances similar to those at bar. That case involved a dispute over the division of family assets. Counsel for the wife (H.I), Mr. McNair, accepted an offer of settlement from counsel for the husband (P.I.) and confirmed his acceptance in writing. The wife then repudiated the settlement reached by her counsel. The husband commenced an action seeking to enforce the alleged settlement. In defence, the wife alleged that her counsel did not have the authority to act for her when he purported to accept the offer of settlement. At the examination for discovery, Mr. McNair was asked questions about his conversations with the counsel for the husband, and about the instructions, if any, given to him with respect to the offers and counter-offers made leading up to the purported settlement. Mr. McNair refused to answer on the basis that it would constitute a breach of the solicitor-client privilege.
+[20]The Court of Appeal of British Columbia held that the solicitor-client privilege did not apply in the circumstances. Writing for the Court, Justice McFarlane stated at paragraphs 12 to 15 of his reasons for judgment:
+12 The first ground advanced by the appellant was that the communications between Mr. McNair and the solicitor for the husband did not constitute confidential communications and, thus, were not privileged. In support of that proposition he relied upon the decision in Conlon v. Conlons, Ltd. (1952) 2 All E.R. 462. Lord Justice Singleton discussed the question of professional privilege and made reference to the decision of Sir George Jessel, Master of the Rolls, in Anderson v. Bank of British Columbia and then went on at page 465 to say this:
+"There is another rule of equal importance, and that is a rule as to public policy. If two parties come to an agreement, prima facie they ought to be bound by the agreement at which they have arrived. Equally, if two parties come to an agreement through their authorised agents the agreement ought to be binding between the principals of agents who had authority to enter into the agreement. If the agents be solicitors on each side, there may be a danger of the two rules or principles appearing to be in conflict. That which the client says to the solicitor normally is privileged, but if the client says to the solicitor: 'Settle this case for me on these terms', and the solicitor does so, a different position arises, for it may be that that which the client says to the solicitor is an instruction to the solicitor: 'Tell this to the other side', and, if the solicitor, acting on his client's instructions, tells the solicitor on the other side: 'I have my client's instructions to accept 1,000 pounds and costs', and as a result of that an agreement is arrived at between the two solicitors in complete accord and satisfaction of the claim, I do not think that the first client can claim privilege in respect of that which he has said to his solicitor and at the same time has told his solicitor to communicate to the other side."
+13 And then his lordship continues at page 466:
+"The very object of the plaintiff in so instructing his solicitors would be that they should make that communication to the other side."
+14 Lord Justice Morris arrived at a similar conclusion when he said at page 466:
+"In my judgment, these are not inquiries as to communications passing between the plaintiff and his solicitor confidentially."
+15 In my view, that is the situation that prevails in the present case.
+[21]While the above is sufficient to dispose of the issue, I am also of the view that by their conduct the appellants implicitly waived solicitor-client privilege. During the hearing, the appellants’ counsel indicated that the appellants were waiving privilege: see Transcript, Volume 1, p. 91, line 17. While it is true that the following day, the appellants’ counsel raised objections on the basis of the privilege: see Transcript, Volume 2, pp. 5 to 11, a party cannot waive solicitor‑client privilege and subsequently reclaim it after a large part of the testimony has been given and a number of documents adduced into evidence.
+[22]Moreover, I note that during the examinations-in-chief of the witnesses, the appellants filed in evidence a number of e-mails recounting the conduct of the settlement negotiations and filed a Memorandum of Fact and Law in which they identified e-mails exchanged between the parties regarding the alleged settlements. These steps also support my view that the appellants waived the privilege: see Boisvert v. Corp. Planagex Ltée, [2000] J.Q. No. 1624.
+Quebec civil law
+[23]The parties argued that Quebec civil law was the supplementary substantive law with respect to contract law, the law of mandate and the law on transaction. I agree except for the application of the provisions of the C.C.Q. dealing with the transaction. Quebec civil law should be applied only to the extent that there is no applicable federal tax law. I am of the opinion that there is no need to resort to the provisions in the C.C.Q. dealing with transaction as federal tax law covers the area.
+[24]This motion deals with a settlement agreement under 169(3) of the Act and it is clear that this provision has priority over the C.C.Q. Therefore, I do not have to deal with the transaction provisions of the C.C.Q.
+Issues
+[25]In this motion:
+(i) I must first determine whether a settlement was reached by the parties. This requires me to decide whether a mandate was given by the appellants to their counsel to settle the appeals.
+(ii) Second, I must determine whether the settlements, if reached, are justifiable on the facts and the law including whether the conditions of 169(3) of the Act are met.
+(i) Was a settlement mandate given by the appellants’ to their counsel?
+[26]Whether a mandate was given by the appellants to settle their appeals is a question of facts. The respondent has the burden of establishing the existence of the mandate.
+[27]The relevant facts are as follows:
+[28]The appellants were represented by the law firm of Starnino Mostovac during the settlement negotiations with the respondent. From January 18, 2011 onwards, Me Delisle had primary responsibility for the negotiations although Me Mostovac was also involved. See Transcript, Volume 1, p. 99, lines 14 to 18.
+[29]At the hearing of the motion, Mr. Dhafir Burhan, director of Barada and Ms. Sumayya Abdalla, director of Softsim, testified for the appellants. Both have university degrees and both were articulate witnesses.
+[30]By Order dated April 29, 2010, Chief Justice Rip of this Court scheduled the hearings of the appeals on February 14, 2011 for 5 days in Montréal.
+[31]The issues raised in the appeals relating to Barada were as follows:
+- Was the appellant associated with Softsim during its 2003, 2004, 2005 and 2006 taxation years pursuant to paragraph 256(1)(b) of the Act?
+- Was the appellant entitled for its 2003 taxation year to a deduction of office expenses in the amount of $20,000?
+- Was the appellant entitled for its 2005 taxation year to a deduction of $10,000 as business expenses?
+- Was the appellant liable to a penalty of $656 pursuant to subsection 163(2) of the Act with respect to expenses of $10,000 deducted from its income for its 2005 taxation year?
+See Transcript, Volume 1, pp. 12 and 13 and Exhibit R-1, Tabs 1 and 5.
+[32]The issues raised in the appeals relating to Softsim were as follows:
+- Was the appellant associated with Barada during its 2003, 2004, 2005 and 2006 taxation years pursuant to paragraph 256(1)(b) of the Act?
+- Was the appellant correct in including the amount $400,000 in its 2005 taxation year, instead as reassessed by the Minister of National Revenue in its 2004 taxation year?
+- Was the appellant entitled to deduct the following amounts as business expenses?
+May 31, 2004
+May 31, 2005
+May 31, 2006
+Office expenses
+$3,832
+$3,132
+-
+Subcontractors expenses
+$11,816*
+-
+-
+Professional fees
+$6,400**
+-
+-
+Maintenance expenses
+-
+$23,615
+($23,615)
+Other expenses
+$1,935
+$2,870**
+- Were the adjustments made by the Minister of National Revenue to the appellant’s R&D/CDTI justified?
+See Transcript, Volume 1 pp. 13 to 15 and Exhibit R-1, Tabs 2 and 5.
+[33]The negotiations to settle the appeals commenced on January 18, 2011, with a letter from Me Mostovac to the respondent offering to settle on the basis that the amounts in issue in Barada and Softsim appeals would be reduced by fifty percent. Me Delisle testified that the mandate to make this offer was given orally by Mr. Burhan to Me Mostovac during a telephone call. See Transcript, Volume 1, p. 21 and Exhibit R-1, Tab 3.
+[34]The respondent rejected the offer by letter dated January 28, 2011. In the same letter, counsel for the respondent, Me Leduc, made the following counter‑offer:
+. . . More particularly, we propose, without admission whatsoever, to allow under subsection 18(1)(a) of the Income Tax Act, the following expenses, which were disallowed at the audit level.
+Barada would be able to deduct the following amounts and the penalty would be cancelled:
+(i) for the 2003 taxation year, the amount of $20,000, and
+(ii) for the 2005 taxation year, the amount of $10,000 and the penalties applied
+With respect to this amount would be cancelled.
+Softsim would be able to deduct the following amounts:
+(i) for the 2004 taxation year, the amount of $23,9832, and
+(ii) for the 2005 taxation year, the amount of $6,0023.
+Consequently, no other changes would be made to the reassessments under appeal and each party would pay for their respective costs.
+. . .
+__________________
+2 This amount includes: $6 400 (professional fees), $3 832 (office expenses), $11 816 (subcontractor expenses) and $1 935 (other expenses).
+3 This amount includes: $3 132 (office expenses) and $2 870 (other expenses).
+See Exhibit R-1, Tab 4.
+[35]According to Me Delisle, the above respondent’s counter-offer of January 28, 2011 was accepted by the appellants during a telephone conversation on February 3, 2011. Me Delisle explained that he called Me Leduc on the same day to let him know that the appellants had agreed to settle their appeals on the basis of the counter-offer. However, Me Delisle called Me Leduc an hour later to advise him, that his clients had changed their minds and no longer wanted to settle their appeals. See Transcript, Volume 1, pp. 118 to 122. See also Exhibit R-2, p. 2, e-mail at 2:59 p.m. and at 3:13 p.m. and Exhibit A-13, p. 1, e-mail at 3:49 p.m.
+[36]On February 4, 2011, at 12:23 a.m., Mr. Burhan sent an e-mail to his counsel Mes Delisle and Mostovac stating:
+The last 4 days were very stressful for us today we were not able to focus clearly because of the 4 days without sleep. Now we spent the whole evening discussing it and decided that health is more important and our kids are suffering from the stress.
+Both Sumaya and I decided to accept the offer that you discussed with Me Leduc. We are tired and our health situation does not allow us to go to court.
+This decision is final.
+Please make the arrangements with them and we will come to sign the deal.
+This is truly our final decision and we thank you very much for your help.
+Regards
+Sumaya and Dhafir
+See Exhibit R-2, p. 1, e-mail at 12:23 a.m. or Exhibit A-14.
+[37]At 8:50 a.m. that same day, Mr. Burhan sent another e‑mail to his counsel telling them to go ahead with the deal, but to try to get one other issue settled. The relevant passages of the e-mail read:
+. . .
+Please try very hard to let Leduc drop the association for taxation years 2006 and 2005 if you can. If not them [sic] go ahead with the deal as discussed yesterday with him (i.e. cancelling the expenses and the penalty)
+We are not changing our minds . . .
+. . .
+I hope you understand that [sic] we mean hear. Call us if you have a question and then speak to Leduc and finalize with him one way or another.
+See Exhibit R-4, p. 1 or Exhibit A-15.
+[38]After receiving the two above e-mails from the appellants, Mes Delisle and Mostovac had a conference call with Mr. Burhan to discuss the content of the above e-mails. According to the testimony of Me Delisle, the appellants accepted during the conference call to drop the association issue. See Transcript, Volume 1, at pp. 198 and 199, lines 12 to 14.
+[39]Following the conference call, at 10:58 a.m. on February 4, 2011, Mr. Burhan sent an e‑mail to Mes Delisle and Mostovac confirming the settlement mandate by stating:
+Subject: Go ahead we accept
+This is to Confirm that both Sumaya and I have agreed to the deal as discussed yesterday with Leduc:
+Our understanding of the deal:
+- CRA to allow all expenses for Softsim and Barada for the years in question
+- CRA to remove the penalty for Barada
+Please go ahead and inform them with our acceptance.
+Regards
+See Exhibit R-3, p. 1, e-mail at 10:58 a.m. or Exhibit A-16.
+[40]Without knowing that Mr. Burhan had sent the above e-mails to their counsel, accepting the terms of the January 28, 2011 counter-offer, Me Leduc on February 4, 2011, at 10:21 a.m. sent a letter by fax to Me Delisle stating that he was surprised that their clients had changed their minds, but in a last effort to settle the appeals indicated that his counter-offer would remain open for acceptance until noon on February 4, 2011. See Exhibit R-1, Tab 7.
+[41]Me Delisle sent an e-mail to Mr. Burhan at 11:06 a.m. on February 4, 2011, confirming that he had advised Me Leduc that they had accepted his counter-offer of January 28, 2011. See Exhibit R-3, p. 1, e-mail at 11:06 a.m.
+[42]Mr. Burhan sent another e-mail to his counsel at 11:31 a.m. on February 4, 2011, stating:
+Please do not forget the NO ADMISSION in the deal you prepare with CRA.
+See Exhibit R-3, e-mail at 11:31 a.m. or Exhibit A-20.
+[43]Me Delisle also sent a letter by fax at 11:42 a.m. to Me Leduc indicating that his clients agreed to settle on the basis of the counter-offer dated January 28, 2011. See Exhibit R-1, Tab-8.
+[44]Me Leduc agreed to prepare the agreement documents entitled “Out of Court Settlement pursuant to subsection 169(3) of the Act”. By the time Me Leduc forwarded the documents, Me Delisle had already left the office. Me Delisle testified that his intention was to review the documents and sign them on Monday morning, February 7, 2011. See Transcript, Volume 1, pp. 47 to 49 and Exhibit R‑1, Tabs 9 and 10.
+[45]On Saturday, February 5, 2011, the appellants sent an e‑mail to Mes Delisle and Mostovac asking their advice on a particular issue:
+We need your advice on the following:
+. . . We know it is too late.
+. . .
+What is the best way to address these issues without affecting the settlement agreement?
+. . .
+Because we agreed not to go to court, we would like your assistance in devising the best way to make the adjustments.
+. . .
+See Exhibit R-4, p. 2, e-mail at 1:44 p.m.
+[46]On Sunday February 6, 2011, Mr. Burhan sent an e-mail to Mes Delisle and Mostovac raising major problems with the settlements. On Monday February 7, 2011, they sent by e-mail a revised settlement proposal. See Exhibit R‑4 pp. 3 to 7.
+[47]Me Leduc testified that Me Mostovac called him on the morning of February 7, 2011, to let him know that during the weekend the appellants had changed their minds. They no longer wanted to settle on the basis of the January 28, 2011 counter-offer. Me Mostovac also told Me Leduc that his firm would file a motion to cease to act as counsel or the appellants would withdraw his mandate. See Transcript, Volume 1, pp. 51 and 70.
+[48]Later that day on February 7, 2011, the appellants, after a conference call with their counsel, decided to withdraw the mandate of the law firm Starnino Mostovac and Mes Delisle and Mostovac. See Exhibit R-4, p. 7, e-mail at 10:13 a.m.
+[49]On February 15, 2011, a Notice for a Change in Representation by a Party was filed on behalf of the appellants by the law firm Spiegel Sohmer Inc.
+Analysis
+[50]Me Delisle stated in his testimony that in his view, he had the mandate to settle the appeals pursuant to the counter-offer dated January 28, 2011. I understand why Me Delisle thought he had this mandate; the e-mails are quite explicit and clearly support Me Delisle’s understanding of the situation. See Transcript, Volume 1, p. 203, lines 13 to 20 and p. 205, lines 11 to 18.
+[51]Me Leduc testified that there was no reason for him to doubt that Mes Delisle and Mostovac had the mandate to settle the appeals of the appellants. The appellants’ counsel never indicated that they were operating under a restricted mandate which prevented them from entering into an agreement on behalf of their clients.
+[52]The appellants argued that they never gave a mandate to Me Delisle authorizing him to settle their appeals. Through the testimony of their respective directors and through counsel’s argument, they submitted that:
+- in their views, they could continue to negotiate until the agreement was reviewed and signed by them. In addition, they would have never agreed to settle their appeals without the prior approval of their corporate counsel Me Champagne;
+- since they were of the view that they could continue to negotiate, they had not settled on all the essential elements. In arguing this, they referred to the C.C.Q. with respect to the sections dealing with the transaction, where it is stated that a transaction is indivisible as to its object and all essential elements must be addressed;
+- there was a misunderstanding between the appellants and Me Delisle from the beginning;
+- new documents were discovered during the weekend and they could no longer continue with the settlement of the appeals;
+- they were under pressure to settle.
+[53]I am convinced that the appellants mandated Me Delisle to settle their appeals.
+[54]I am of the view that the answers given by the appellants’ directors were after the fact rationalizations. For instance, if the appellants believed it was important that their corporate counsel Me Champagne verify the agreements under subsection 169(3) of the Act, why did they never include it as a condition for settling the appeals? There is nothing to that effect in the e-mails the appellants sent to Me Delisle and the appellants never suggested this restriction existed during their counsel’s examination of Me Delisle. The same is also true of the appellants’ argument that they would have never accepted a settlement without first having obtained formal agreements from their counsel. There is no evidence that such a condition was ever raised during the negotiations.
+[55]Mr. Burhan and Ms. Abdalla are educated individuals. I cannot accept that they believed that they were continuing to negotiate when the e‑mails from them clearly instructed their counsel that the appellants accepted the respondent’s counter-offer of January 28, 2011. Furthermore, by e-mail sent at 11:06 a.m. on February 4, 2011, Me Delisle clearly informed them that he had informed Me Leduc that they had accepted to settle in accordance with the counter-offer of January 28, 2011. See Exhibit R-3.
+[56]The evidence also revealed that the appellants did not even attempt to learn whether the agreement settlements under subsection 169 (3) of the Act met the conditions set out in the counter-offer dated January 28, 2011. They never asked to see the agreements.
+[57]I do not agree with the argument of the appellants that the settlements under 169(3) of the Act did not include all the essential elements as required by the C.C.Q. Mr. Burhan and Ms. Abdalla were aware of the content of the agreements reached. The content was confirmed by Me Delisle to the appellants. See Exhibits R-2 and R‑3. Furthermore, Mr. Burhan himself noted the content of the settlements in an e-mail to counsel for the appellants. See Exhibit R-3. Without delving into the substance of the appeals, a number of discussions on the other issues were held between counsel for the appellants and for the respondent. The appellants knew that if they accepted the respondent’s counter-offer dated January 28, 2011, the other issues would remain as assessed.
+[58]As for the discovery of new documents over the weekend of February 5, 2011, which could have had an impact on the settlements, Mr. Burhan admitted on cross-examination that they had the documents in hand before the weekend of February 5, 2011. Moreover, Me Leduc testified that the appellants sent him some of the alleged new documents on February 9, 2011, for his review. Me Leduc indicated that the documents were not new documents. I have no reason to question Me Leduc’s testimony. The nature of the documents support Me Leduc’s testimony. The documents are the appellants’ basic corporate documents that directors should be aware of, namely the general ledger of Softsim, the claim for scientific research and development, corporate income tax returns and financial statements of Softsim. See Exhibit R-5 and Transcript, Volume 2, pp. 61 and 62.
+[59]I do not accept the testimony of Mr. Burhan in respect of his interpretation of instructions to his counsel. For example, he indicated that for him the words “please go ahead and inform them of our acceptance” meant “acceptance of that we don’t go to Court, we try to settle, that is really what’s meant here.” Mr. Burhan was an articulate witness; if he meant to say the latter I am satisfied that he would have done so clearly. See Transcript, Volume 2, p. 35, lines 19 to 23.
+[60]Again, I am not convinced by Mr. Burhan’s attempt to explain away other evidence which points to a settlement having been entered into. When asked in cross-examination what he meant by:
+We finally got our answer for the $50,900. We know it is too late.
+meant:
+Late in the week end.
+What is the best way to address the issues without affecting the settlement agreement?
+he responded:
+Yes, what I meant by that is that without them deciding forget it, we’re not negotiating anymore, you have to bring them in a nice way so that they continue negotiating, that’s what’s meant.
+See Exhibit, R-2, and Transcript, Volume 2, p. 68, lines 10 to 24 and p. 69, lines 1 to 7.
+In addition, when asked in cross-examination whether the terms negotiating and settlement agreement meant the same thing, his answer was:
+Depending on the context the word “settlement agreement” and negotiating could mean the same thing.
+See Transcript, Volume 2, pp. 69 and 70.
+[61]Mr. Burhan also stated that there was a misunderstanding from the beginning with Me Delisle. Mr. Burhan stated that both he and Me Delisle speak English with accents; therefore, according to Mr. Burhan due to their different accents they had a difficult time communicating with each other. However, all discussions were confirmed by e-mails. Therefore the evidence does not support the appellants’ argument that the mandate to settle was vitiated due to a misunderstanding between the appellants and Me Delisle, with respect to the mandate. See Transcript, Volume 2, pp. 16 and 17.
+[62]Mr. Burhan also testified that the appellants were under tremendous pressure to accept the settlement. He claimed that this pressure came from the appellants’ counsel, the short time limit given by the Court to prepare their appeals (he stated that he had only been advised of the date for the hearing only two weeks prior the hearing date), and from the respondent through the time limit set by Me Leduc for accepting the counter-offer.
+[63]Although I understand that Mr. Burhan and Ms. Abdalla might have felt that there was some pressure to decide, there was no evidence of coercion, fraud or bad faith. It has been decided in similar fact situations, that absent evidence of coercion, bad faith or fraud, a settlement will remain valid. In Oberoi v. HMQ, 2006 D.T.C. 3110, Mr. Oberoi agreed to settle his appeal but then wrote to counsel for the respondent stating that he no longer wanted to go ahead with the settlement. He stated that he was under stress and great pressure from his counsel to go ahead with the settlement. At paragraph 26 of her reasons, Justice Lamarre‑Proulx stated:
+[26] The evidence showed clearly that the former lawyer of the Appellant had a mandate from the Appellant to sign the out-of-court settlement that she signed. She did not exceed her mandate and she acted in accordance with that mandate.
+and at paragraph 33:
+[33] If the Appellant is convinced that he received bad advice, there is another forum available to him, but it is not within this Court. In this Court, the out-of-court settlement is enforceable. The motion must therefore be denied.
+[64]It is interesting to note that Mr. Burhan stated that he was under a lot of pressure from the respondent to accept the settlement before noon on February 4, 2011. The evidence however shows that he had already accepted the respondent’s counter-offer before receiving the letter from Me Leduc setting a deadline of noon on February 4, 2011. See Exhibit R-2.
+[65]In light of the evidence, I conclude that a mandate was given to Me Delisle to settle the appellants’ appeals.
+[66]In reaching this conclusion, I am mindful of the test enunciated by the Court of Appeal of British Columbia in Faryna v. Chorny, [1952] 2 D.L.R. 354:
+. . . the real test of the truth of the story of a witness in such a case must be its harmony with the preponderance of the probabilities which a practical and informed person would readily recognize as reasonable in that place and in those conditions . . .
+[Underlining added]
+[67]In my view, a practical and informed person would readily recognize that a mandate was given to Me Delisle to settle the appeals on February 4, 2011. I agree with the respondent’s analysis that the appellants decided over the weekend that the settlement they had accepted was no longer to their satisfaction, and thought that by repudiating it, they would be able to get more.
+(ii) Is the agreement entered into justifiable on the facts and the law?
+[68]The Federal Court of Appeal recently reaffirmed the legal principle that settlements in federal tax law must be in conformity with the Act. In CIBC World Markets Inc. v. The Queen, 2012 FCA 13, Stratas J.A., writing for the Court, wrote at paragraphs 22 and 23 of the reasons for judgment:
+[22] This Court is bound by its decision in Galway v. Minister of National Revenue, [1974] 1 F.C. 600 (C.A.). In that decision, Jackett C.J., writing for the unanimous Court, stated (at page 602) that “the Minister has a statutory duty to assess the amount of tax payable on the [facts] as he finds them in accordance with the law as he understands it.” In his view, “it follows that he cannot assess for some amount designed to implement a compromise settlement.” The Minister is obligated to assess “on the facts in accordance with the law and not to implement a compromise settlement.” See also Cohen v. The Queen, [1980] C.T.C. 318 (F.C.A.).
+[23] More recently, this Court reaffirmed Galway in Harris v. Canada, [2000] 4 F.C. 37 (C.A.). Sexton J.A., writing for the unanimous Court, stated (at paragraph 37) that “the Minister of National Revenue is limited to making decisions based solely on considerations arising from the Act itself” and cannot make “deals” divorced from those considerations. To similar effect, see Longley v. Minister of National Revenue (1992), 66 B.C.L.R. (2d) 238 (C.A.) at page 455.
+[69]After having analyzed the appellants’ settlement counter-offer and written consents under section 169(3) of the Act, I am of the view that the concessions made by the respondent with respect to Barada, namely the additional allowance of office expenses and business expenses to be deducted pursuant to subsection 9(1) of the Act and the waiving of the penalties relating to the office expenses are justifiable on the facts and the law. I am also of the view that the concessions made by the respondent with respect to Softsim, namely the allowance of additional business expenses pursuant to subsection 9(1) of the Act are justifiable on the facts and the law. I could have reached the same findings in a judgment. See Exhibit R-1, Tabs 4 and 8, Exhibit R-2, p. 2 and Exhibit R-3, p. 1.
+[70]The appellants argue that the conditions under subsection 169(3) of the Act were not met as Mr. Burhan and Ms. Abdalla did not sign the administrative documents found in Exhibit R-1, Tab 9, for Barada and Exhibit R-1, Tab 10, for Softsim.
+[71]The appellants argue that absent the signatures of the taxpayers’ officers, Mr. Burhan for Barada and Ms. Abdalla for Softsim, an agreement under subsection 169(3) of the Act cannot be ratified by this Court. They rely on the wording of subsection 169(3) of the Act :
+Notwithstanding section 152, for the purpose of disposing an appeal made under a provision of this Act, the Minister may with the consent in writing of the taxpayer, reassess tax, interest and penalties or other amounts payable under this Act by the taxpayer.
+[Underlining added]
+[72]In the appellants’ view, subsection 169 (3) refers to “taxpayer” and not to “legal representative” which is the term used in subsections 164(6), 159(1) and 70(2) of the Act. Taxpayer and legal representative are defined in section 248 of the Act as follows:
+“taxpayer” includes any person whether or not liable to pay tax;
+“legal representative” of a taxpayer means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with the property that belongs or belonged to, or that is or was held for the benefit of, the taxpayer or the taxpayer’s estate;
+[73]The appellants argued that Parliament has made a distinction between taxpayer and legal representative. According to the appellants, since subsection 169(3) uses the word taxpayer, a legal representative cannot sign on behalf of the taxpayer. Accordingly, the subsection 169(3) agreements are not valid.
+[74]I do not agree with the submissions of the appellants. A legal representative in the Act does not mean lawyers acting on behalf of parties for litigation purposes. A legal representative acts in a fiduciary capacity in order to administer or wind up property that belongs to or was held for the benefit of the taxpayer or his estate. Lawyer is defined in subsection 248 (1) of the Act and has the meaning assigned by subsection 232(1) of the Act, namely:
+. . . in the province of Quebec, an advocate or a notary and, in any other province, a barrister or a solicitor;
+[75]In the present appeals it is clear that the law firm of Starnino Mostovac was acting on behalf of the appellants in relation to the appeals under litigation. They were the counsel of record in accordance with section 31 of the Tax Court of Canada Rules (General Procedure).
+[76]Subsection 169(3) of the Act refers to the consent in writing of the taxpayer. In my view, the consent in writing can be given by the counsel of record.
+[77]Support for this is found in the provisions of the C.C.Q. dealing with mandate. The relevant provisions are sections 2130 and 2137 of the C.C.Q. The provisions state:
+2130. Mandate is a contract by which a person, the mandator, empowers another person, the mandatary, to represent him in the performance of a juridical act with a third person, and the mandatary, by his acceptance, binds himself to exercise the power.
+. . .
+2137. Powers granted to person to perform an act which is an ordinary part of their profession or calling or which may be inferred from the nature of such profession or calling, need not to be mentioned expressly.
+[78]By the combination of these two provisions of the C.C.Q., Me Delisle could give the required consent in writing on behalf of the appellants under subsection 169(3) of the Act. As I stated earlier, Me Delisle was acting within his mandate when he wrote on behalf of the appellants on February 4, 2011:
+[Translation]
+This is to confirm that our clients mentioned in the subject line accept your settlement counter-offer dated January 28, 2011, without costs and without admission.
+See Exhibit R-1, Tab 8.
+[79]In the present appeals, the settlement contracts under subsection 169(3) of the Act were formed on February 4, 2011 when counsel for the appellants advised the respondent in writing that the appellants accepted the counter-offer made by the respondent dated January 28, 2011. This met the requirements of subsection 169(3) of the Act which only requires the consent in writing of the taxpayer or the counsel of record.
+[80]The documents entitled “Out of Court Settlement pursuant to subsection 169(3) of the Income Tax Act” found in Exhibit R-2, Tabs 9 and 10, are administrative documents. As was explained by counsel for respondent, Me Leduc, the documents are intended to assist taxpayers and the CRA for assessment purposes. As I stated earlier, there is no requirement under subsection 169(3) of the Act for the agreement to be in form of the administrative documents, what is needed is the consent in writing by the taxpayer or the counsel of record.
+[81]I am of the view that the conditions of subsection 169(3) were met, when Me Delisle on behalf of the appellants advised counsel for the respondent in writing that the appellants accepted to settle their appeals on the basis of the January 28, 2011, counter-offer.
+[82]It goes without saying that the consent in writing by counsel has to reflect what was agreed upon. In light of the evidence, I am satisfied that the written consent reflects was what agreed between the parties. See Exhibit R-1, Tabs 4, 7 and 8.
+[83]In 1390758 Ontario Corp. v. H.M.Q., 2010 TCC 572, the appellant after agreeing to settle its appeal, stated that he was not aware of the ramifications of the settlement and sought to repudiate the settlement and have the Corporation’s appeal heard and decided on their merits. Justice Bowie confirmed the settlement and made an important statement at paragraph 37:
+[37] The Crown settles tort and contract claims brought by and against it on a regular basis. There is no reason why it should not settle tax disputes as well. Both sides of a dispute are entitled to know that if they invest the time and effort required to negotiate a settlement, then their agreement will bind both parties.
+[84]A lot of time and effort has been invested by the parties in seeking to settle these appeals. If settlements are to be taken seriously, I fully agree with Justice Bowie, that parties should be bound by them.
+[85]I would therefore allow the motion to enforce settlements with costs, allow the appeals of the appellants and refer the reassessments to the Minister for reconsideration and reassessment on the basis of the counter-offer dated January 28, 2011.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2012 TCC 181
+COURT FILE NO.: 2008-2527(IT)G
+2008-2531(IT)G
+STYLE OF CAUSE: SOFTSIM TECHNOLOGIES INC. v. THE QUEEN
+BARADA TECHNOLOGIES INC. v. THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 7, 2011
+REASONS FOR ORDER BY: The Honourable Justice Johanne D'Auray
+DATE OF ORDER: June 7, 2012
+APPEARANCES:
+Counsel for the appellant:
+Pierre-Paul Persico
+Counsel for the respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Pierre-Paul Persico
+Firm: Spiegel Sohmer Inc.
+Montreal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

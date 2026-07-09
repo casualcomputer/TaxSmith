@@ -1,0 +1,197 @@
+---
+title: "Lambo c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30411/index.do"
+last_modified: "2011-06-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 293"
+citation2: ""
+neutral_citation: "2011 CCI 293"
+decision_date: "2011-06-08"
+language: "fr"
+item_id: "30411"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7938
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:49:45.792000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c216dcfbdcf8488ed4e7f4ac4e89b625c0a833c57c101fbac2b27fb6253ca83d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lambo c. La Reine
+
+- Citation: 2011 CCI 293
+- Decision date: 2011-06-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7938, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lambo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-08
+Référence neutre
+2011 CCI 293
+Numéro de dossier
+2011-278(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-278(IT)APP
+ENTRE :
+FOLASADE LAMBO,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 12 avril 2011 à Calgary (Alberta).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour la requérante :
+La requérante elle‑même
+Avocat de l’intimée :
+Me Adam Gotfried
+____________________________________________________________________
+ORDONNANCE
+La demande en vue d’obtenir une prorogation de délai pour déposer des avis d’opposition relativement aux années d’imposition 2005 et 2006 est accueillie, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 8e jour de juin 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de juillet 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 293
+Date : 20110608
+Dossier : 2011-278(IT)APP
+ENTRE :
+FOLASADE LAMBO,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] La requérante et son époux résident actuellement à Vulcan, en Alberta.
+[2] Dans sa déclaration de revenus pour les années d’imposition 2005 et 2006, la requérante a demandé des déductions pour dépenses d’emploi et pour dons de bienfaisance.
+[3] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de la requérante pour les années d’imposition 2005 et 2006 au moyen d’avis de nouvelle cotisation datés du 24 août 2009, et les déductions pour dépenses d’emploi et pour dons de bienfaisance demandées par la requérante ont été refusées.
+[4] Le 9 juin 2010, la requérante a signifié des avis d’opposition relativement aux années d’imposition 2005 et 2006.
+[5] Dans une lettre datée du 21 décembre 2010, le ministre a déclaré ce qui suit :
+[traduction]
+a) la requérante n’avait pas déposé ses avis d’opposition dans les 90 jours suivant la date d’envoi de l’avis de nouvelle cotisation (daté du 24 août 2009), ou dans l’année suivant la date d’échéance de production de ses déclarations de revenus;
+b) la requérante n’avait pas présenté de demande en application du paragraphe 166.1(7) de la Loi de l’impôt sur le revenu en vue d’obtenir une prorogation de délai dans l’année suivant l’expiration du délai imparti pour signifier un avis d’opposition.
+[6] Le 5 janvier 2011, la requérante a présenté une demande en vue d’obtenir une prorogation du délai imparti pour signifier des avis d’opposition.
+B. LA QUESTION EN LITIGE
+[7] La question en litige est de savoir s’il y a lieu de faire droit à la demande présentée par la requérante en vue d’obtenir une prorogation de délai pour signifier des avis d’opposition pour les années d’imposition 2005 et 2006.
+C. ANALYSE ET DÉCISION
+[8] J’ai entendu la demande à Calgary, en Alberta, le 12 avril 2011. Au cours de l’audition, il a été soulevé un certain nombre de points qui indiquaient l’existence de quelques faits inhabituels.
+[9] L’avocat de l’intimée a déposé un affidavit de Sandra Osberg souscrit le 5 avril 2011 (l’« affidavit »). Mme Osberg est une agente des appels à l’Agence du revenu du Canada (l’« ARC »). Il était joint à cet affidavit un certain nombre de pièces ci‑après désignées « pièces (et la lettre désignée) de l’affidavit ».
+[10] Le 24 août 2009, le ministre a établi les avis de nouvelle cotisation pour les années d’imposition 2005 et 2006 (pièces A et B de l’affidavit).
+[11] La requérante a déclaré qu’ils avaient déménagé, elle et son mari, de Brampton, en Ontario, à Vulcan, en Alberta, en septembre 2008, c’est‑à‑dire, environ 11 mois avant l’établissement des nouvelles cotisations.
+[12] Le 24 août 2009, le ministre avait envoyé les avis de nouvelle cotisation au 21 Cadillac Crescent, à Brampton, en Ontario. Comme il est précisé ci‑dessus, il s’agissait de l’ancienne résidence de la requérante à Brampton. La requérante avait déménagé à Vulcan, en Alberta, en septembre 2008.
+[13] La requérante a déclaré qu’elle n’avait reçu de copies des avis de nouvelle cotisation, datés du 24 août 2009, que lorsqu’elle avait rencontré son comptable à Vulcan, en Alberta, le 9 juin 2010.
+[14] Selon la requérante, le comptable à Vulcan, en Alberta, avait envoyé des avis d’opposition aux nouvelles cotisations au bureau de Sudbury de l’ARC le 9 juin 2010.
+[15] Les cachets figurant sur les formulaires indiquent que le bureau de Sudbury de l’ARC avait reçu les avis d’opposition le 9 juin 2010. Le bureau de Sudbury de l’ARC avait ensuite envoyé les avis d’opposition à la Division des appels du bureau de Burnaby‑Fraser à Surrey, en Colombie-Britannique. Les cachets figurant sur les deux avis indiquent que le bureau de Burnaby‑Fraser de l’ARC avait reçu les avis d’opposition quelque six semaines plus tard, c’est‑à‑dire le 30 juillet 2010 (pièces C et D de l’affidavit).
+[16] Le « chef des Appels » au centre d’arrivages de l’Ouest du bureau de l’ARC à Surrey a adressé à la requérante une lettre non signée datée du 17 juin 2010. Voici, en partie, le contenu de la lettre du chef des Appels :
+[traduction]
+Nous accusons réception de votre opposition. Aussitôt que votre opposition sera confiée à un agent, ce dernier communiquera avec vous ou votre représentant autorisé.
+[…]
+(Pièce E de l’affidavit)
+(Note : Cette lettre a été adressée à la requérante à son domicile à Vulcan, en Alberta, et rien n’indique que l’ARC a envoyé une copie de la lettre au représentant autorisé de la requérante, à savoir Grant, Krystalowich & Bennett, de Vulcan, en Alberta, le cabinet qui avait déposé les avis d’opposition en juin 2010.)
+[17] Dans une lettre datée du 21 décembre 2010 provenant du bureau de Burnaby‑Fraser de l’ARC, il était déclaré ce qui suit :
+[traduction]
+Vous n’avez pas déposé votre avis d’opposition dans les 90 jours suivant la date d’envoi de votre avis de nouvelle cotisation, daté du 24 août 2009, ou dans l’année suivant la date d’échéance de production de votre déclaration. Nous ne pouvons donc pas l’accepter aux termes de la Loi de l’impôt sur le revenu.
+En outre, nous ne pouvons pas faire droit à votre demande de prorogation de délai pour déposer un avis d’opposition. Selon le paragraphe 166.1(7) de la Loi de l’impôt sur le revenu, vous devez présenter une demande en vue d’obtenir une prorogation de délai dans l’année suivant l’expiration du délai imparti pour signifier un « avis d’opposition ».
+[…]
+(Pièce F de l’affidavit)
+[18] Il convient de noter que la lettre provenant du chef des Appels à Surrey a été envoyée à la requérante le 17 juin 2010. Toutefois, comme cela est mentionné au paragraphe [15] ci‑dessus, les cachets figurant sur les avis d’opposition indiquaient que le Bureau des services fiscaux de Burnaby‑Fraser de l’ARC à Surrey n’avait reçu les avis d’opposition que le 30 juillet 2010.
+[19] La requérante a déclaré qu’elle n’avait reçu aucune lettre ni aucun appel téléphonique de représentants de l’ARC concernant les avis d’opposition qui avaient été déposés au cours des mois de juin à novembre 2010 avant de recevoir la lettre de M. Grewal.
+[20] Selon mes calculs, le délai de 90 jours pour déposer des avis d’opposition devait expirer le 22 novembre 2009, c’est‑à‑dire, 90 jours après le 24 août 2009. Toutefois, le 22 novembre 2009 était un dimanche et la date limite était le lundi 23 novembre 2009. Le délai d’un an suivant le 23 novembre 2009 devait expirer le 23 novembre 2010. Autrement dit, les représentants du ministre n’ont pas avisé la requérante peu après le 17 juin 2010 qu’elle devait déposer une demande en vue d’obtenir une prorogation de délai pour déposer des avis d’opposition. Les représentants du ministre ont attendu jusqu’à l’expiration du délai imparti pour déposer une demande en vue d’obtenir une prorogation de délai pour déposer des avis d’opposition, c’est‑à‑dire après le 23 novembre 2010, et ont alors avisé la requérante qu’il était trop tard pour présenter une demande de prorogation de délai pour déposer des avis d’opposition.
+[21] Il y a un deuxième point à examiner : la requérante a déclaré qu’elle était retournée en Ontario au mois d’août 2009 et qu’elle avait rencontré son ancien comptable à Toronto – Paul Omorogieva – pour discuter de sa situation fiscale concernant les années d’imposition 2005 et 2006. Elle a dit que son ancien comptable avait téléphoné aux bureaux de l’ARC à Toronto en sa présence et pour son compte, et qu’on lui avait répondu que l’ARC avait établi des avis de nouvelle cotisation pour les années 2005 et 2006 de la requérante. Lorsque le comptable a reçu ces renseignements de l’ARC, il a conseillé à la requérante de déposer des avis d’opposition. Elle a affirmé qu’elle avait signé les formulaires d’avis d’opposition dans le bureau du comptable et que ce dernier lui avait dit qu’il déposerait les avis d’opposition à l’ARC à l’adresse suivante :
+Agence du revenu du Canada
+Centre de technologie d’Ottawa
+875, chemin Heron
+Ottawa ON K1A 1B1
+[22] À la pièce G de l’affidavit de Mme Osberg se trouve une copie d’une lettre de Diane Krystalowich (la comptable de la requérante à Vulcan, en Alberta) adressée à M. Grewal. La comptable précise notamment que :
+[traduction]
+Nous joignons à la présente une copie d’un avis d’opposition daté du 17 août 2009 et déposé par le comptable de Mme Lambo en Ontario. [...]
+Toutefois, l’affidavit de Mme Osberg qui est dans mon dossier ne comporte pas de copie des avis d’opposition qui ont été déposés par la requérante le 17 août 2009.
+[23] Selon l’avocat de l’intimée, l’ARC n’a pas accepté les avis d’opposition qui avaient été déposés le 17 août 2009. (Note : Sandra Osberg, la représentante de l’ARC qui a témoigné pour l’intimée, a déclaré que l’ARC n’avait jamais reçu les avis d’opposition datés du 17 août 2009. Mme Osberg a aussi déclaré que :
+[traduction]
+[…] la date de nouvelle cotisation était le 24 août 2009. Si nous avions – si nous l’avions reçu, nous lui aurions envoyé un avis pour lui dire qu’il précédait l’avis de nouvelle cotisation et qu’il était invalide, et qu’elle devrait déposer un autre.
+(Transcription, à la page 65, lignes 2 à 8)
+[24] La requérante soutient que son comptable à Toronto a déposé des avis d’opposition le 17 août 2009. La requérante a également déclaré qu’elle s’était entretenue avec la Section du recouvrement (Transcription, à la page 59, lignes 9 à 16).
+[25] Toutefois, Mme Osberg a déclaré qu’elle s’était référée au dossier de la Division des appels et qu’elle n’avait pas vérifié le journal de la Section du recouvrement (Transcription, à la page 60, lignes 3 à 5).
+[26] On voit donc qu’il y a une contradiction entre le témoignage de la requérante et celui de Mme Osberg concernant les avis d’opposition datés du 17 août 2009.
+[27] Bien qu’il ne soit peut‑être pas nécessaire pour les besoins de la présente requête de se fonder sur les avis d’opposition datés du 17 août 2009, j’accepte le témoignage de la requérante sur ce point.
+[28] Il existe un certain nombre de décisions judiciaires qui portent sur la question de demandes de prorogation de délai pour déposer un avis d’opposition.
+[29] Dans l’arrêt Aztec Industries Inc. v. The Queen, 95 D.T.C. 5235, le contribuable a demandé une prorogation de délai et a affirmé qu’il n’avait pas reçu l’avis de cotisation. Dans cet arrêt, le juge Hugessen, exprimant une décision unanime de la Cour d’appel fédérale, a conclu que c’est au ministre qu’il incombe de prouver l’existence de l’avis et la date de sa mise à la poste. Seul le ministre est en possession de ces faits et lui seul peut en administrer la preuve. La date de la mise à la poste de l’avis « fait courir le délai auquel est tenu le contribuable »; toutefois, en l’espèce, le ministre n’a pas réussi à présenter d’éléments de preuve pour démontrer que les avis avaient été établis et mis à la poste.
+[30] Dans la décision 236130 British Columbia Ltd. c. La Reine, 2005 CCI 770, [2005] A.C.I. no 599, le juge Bell, de la Cour, s’est fondé sur l’arrêt Aztec Industries à titre de décision faisant autorité à l’appui de la thèse selon laquelle il incombe au ministre « d’établir que les nouvelles cotisations avaient été envoyées par la poste en temps opportun à la bonne adresse ». Il a ensuite cité les motifs suivants du juge Thurlow dans Scott v. M.N.R., 60 D.T.C. 1273 (Cour de l’Échiquier du Canada) :
+[TRADUCTION]
+[...] le législateur n’a jamais voulu qu’un tel avis puisse être effectivement donné au moyen de son « envoi par la poste » au contribuable à une mauvaise adresse ou à une adresse fictive et je ne trouve rien dans la loi qui donne à entendre que le législateur ait voulu que le contribuable soit lié par un avis de cotisation au moment de la mise à la poste d’un avis y afférent qui lui est adressé ailleurs qu’à sa véritable adresse ou à une adresse qu’il a d’une façon ou d’une autre autorisée ou adoptée comme adresse à cette fin.
+[...] En l’espèce, l’avis de nouvelle cotisation qui a été mis à la poste le 28 mai 1957, tout en étant adressé à l’appelant, n’avait pas été envoyé à la véritable adresse de celui-ci et n’avait pas non plus été envoyé à l’une ou l’autre des adresses indiquées dans sa déclaration de revenu de 1952. [...] À mon avis, un tel envoi n’était pas valide au sens du paragraphe 46(2) de la Loi et il s’ensuit que la nouvelle cotisation n’a pas été établie dans le délai de quatre ans prévu au paragraphe 46(4).
+[31] Dans Rick Pearson Auto Transport Inc. v. The Queen, [1996] G.S.T.C. 44, le juge Bowman (tel était alors son titre) s’est penché sur une demande de prorogation de délai pour déposer un avis d’opposition en application de l’article 303 de la Loi sur la taxe d’accise. Le juge Bowman s’est référé à l’arrêt Aztec Industries et a conclu que le ministre ne s’était pas acquitté du fardeau de prouver que la cotisation avait été mise à la poste à la date alléguée.
+[32] Dans Khan c. La Reine, 2009 CCI 248, [2009] A.C.I. no 181, il était question d’une demande présentée par la Couronne en vue d’obtenir l’annulation d’un appel parce que celui‑ci avait été interjeté après l’expiration du délai pour former appel. Dans cette affaire, il y avait une incertitude quant à la question de savoir si le ministre avait posté les avis de nouvelle cotisation à la bonne adresse, et il n’y avait pas suffisamment d’éléments de preuve pour conclure que les avis avaient été postés à l’adresse que le contribuable avait fournie. Le juge Boyle, de la Cour, s’est fondé sur Aztec Industries pour conclure que la Couronne doit démontrer que le délai d’un an et 90 jours avait commencé à courir. La requête présentée par l’intimée en vue d’obtenir l’annulation de l’appel a été rejetée parce que la Couronne n’avait pas réussi à prouver que les avis avaient été postés au contribuable.
+[33] J’ai conclu que le raisonnement suivi par les tribunaux dans Aztec Industries Inc., 236130 British Columbia Ltd., Rick Pearson Auto Transport et Khan s’appliquent en l’espèce. À mon avis, l’avocat de l’intimée n’a pas démontré que l’ARC avait envoyé les avis de nouvelle cotisation à la bonne adresse postale de la requérante. En outre, il y a lieu de noter que la requérante, aidée par son comptable, a déposé les avis d’opposition pour les années d’imposition 2005 et 2006 le 17 août 2009. Ces avis ont été déposés lorsque le comptable de la requérante a avisé cette dernière que les représentants de l’ARC avaient établi des avis de nouvelle cotisation pour les années d’imposition 2005 et 2006.
+[34] En outre, la requérante a été avisée dans une lettre non signée du chef des Appels de l’ARC datée du 17 juin 2010, que les avis d’opposition avaient été reçus et qu’« un agent communiquera avec vous ou votre représentant autorisé ». Comme je l’ai déjà mentionné, aucun agent de l’ARC n’a communiqué avec la requérante avant qu’il soit trop tard pour déposer une demande.
+[35] M. Grewal de l’ARC a écrit à la requérante le 21 décembre 2010 et lui a dit que le délai avait expiré. (Note : Si les représentants de l’ARC avaient communiqué avec la requérante peu après le 17 juin 2010, elle aurait été au courant du délai d’un an qui expirait le 23 novembre 2010. Toutefois, les représentants de l’ARC ont attendu environ quatre semaines après l’expiration du délai et ont alors informé la requérante qu’il était trop tard pour demander une prorogation.)
+[36] Compte tenu de ces faits inhabituels, je suis convaincu qu’il serait déraisonnable que le ministre refuse de faire droit à une demande de la requérante en vue d’obtenir une prorogation de délai pour déposer des avis d’opposition pour les années d’imposition 2005 et 2006.
+[37] Ma conclusion se fonde sur les motifs suivants :
+1. La requérante a démontré qu’elle avait tenté de contester les avis de nouvelle cotisation pour les années d’imposition 2005 et 2006 en déposant des avis d’opposition le 17 août 2009, et en déposant aussi des avis d’opposition le 9 juin 2010;
+2. La requérante a été induite en erreur par la lettre non signée du chef des Appels qui l’avisait le 17 juin 2010 qu’« un agent communiquera avec vous ou votre représentant autorisé »;
+3. Aucun représentant de l’ARC n’a communiqué avec la requérante avant que M. Grewal avise cette dernière par une lettre datée du 21 décembre 2010 qu’il était trop tard pour déposer une demande de prorogation de délai;
+4. En outre, l’ARC a envoyé les avis de nouvelle cotisation, établis le 24 août 2009, à la mauvaise adresse, à Brampton, en Ontario, alors que la requérante avait déménagé à Vulcan, en Alberta, environ 11 mois plus tôt.
+[38] Je suis convaincu que la requérante a satisfait aux exigences du paragraphe 166.1(7) de la Loi de l’impôt sur le revenu.
+[39] J’ai donc conclu qu’il doit être fait droit à la demande en vue d’obtenir une prorogation de délai pour déposer des avis d’opposition, et que les avis d’opposition déposés le 9 juin 2010 doivent être acceptés comme des avis valides.
+Signé à Vancouver (Colombie-Britannique), ce 8e jour de juin 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de juillet 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 293
+No DU DOSSIER DE LA COUR : 2011-278(IT)APP
+INTITULÉ : FOLASADE LAMBO
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 12 avril 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE : Le 8 juin 2011
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle-même
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

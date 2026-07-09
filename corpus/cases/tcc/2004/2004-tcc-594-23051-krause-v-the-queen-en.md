@@ -1,0 +1,216 @@
+---
+title: "Krause v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/23051/index.do"
+last_modified: "2004-09-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 594"
+citation2: ""
+neutral_citation: "2004 TCC 594"
+decision_date: "2004-09-02"
+language: "en"
+item_id: "23051"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2306
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:05:01.647000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b11b4cab63ddda2d24e410007fcc7fda2ed66a6de0977a2767f00ed0cc3b11ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krause v. The Queen
+
+- Citation: 2004 TCC 594
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2306, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krause v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-02
+Neutral citation
+2004 TCC 594
+File numbers
+2004-1193(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1193(IT)I
+BETWEEN:
+JAMES A. KRAUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 12, 2004, at Nanaimo, British Columbia.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of September 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2004TCC594
+Date: 20040902
+Docket: 2004-1193(IT)I
+BETWEEN:
+JAMES A. KRAUSE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment for the appellant's 2002 taxation year.
+[2] As a preliminary matter, respondent's counsel argued that the appeal should be dismissed because the assessment for 2002 was a nil assessment. I agree. The assessment for that year was for nil tax and the appellant informed me that the income tax deducted by his employer was refunded to him. Accordingly, even if I agreed with the appellant on the question of substance that he raises, it would, as a practical matter, be of no immediate pecuniary value to him, although tuition and education tax credits can in some circumstances be carried forward to subsequent years.
+[3] The appellant is enrolled in a Ph.D. program in a recognized California educational institution, Touro University International, ("Touro") a college of business administration. He enrolled with Touro after receiving his M.A. from Royal Roads University in British Columbia.
+[4] If the appeal for 2002 were properly before the court, that is to say, were it not from a nil assessment, the issue would be whether the appellant is entitled to a tuition fee credit under subsection 118.5(1) of the Income Tax Act in respect of the fees that he paid to Touro or an education credit under subsection 118.6(2).
+[5] The Minister of National Revenue allowed the appellant a credit for the fees paid to Royal Roads University, but not for the fees paid to Touro. The problem arises from the fact that Mr. Krause took the courses in which he was enrolled at Touro on-line. He did not physically attend lectures at Touro's location in California. Although the material published on the internet about Touro and its Ph.D. program in Business Administration describes Touro as a "branch campus of Touro College (New York)" it is not clear whether Touro had a campus in the conventional sense of buildings and lecture halls and other facilities at which students can physically attend lectures.
+[6] The context in which this somewhat vexing but nonetheless important question arises can best be seen by a comparison of the wording of paragraphs 118.5(1)(a), (b) and (c) as well as the wording of section 118.6. Those provisions read in part as follows:
+118.5(1) - For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) - where the individual was during the year a student enrolled at an educational institution in Canada that is
+(i) a university, college or other educational institution providing courses at a post-secondary school level, or
+(ii) certified by the Minister of Human Resources Development to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person's skills in, an occupation,
+an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the educational institution if the total of those fees exceeds $100, except to the extent that those fees
+. . . . .
+(b) - where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university, except any such fees
+. . . . .
+(c) - where the individual resided throughout the year in Canada near the boundary between Canada and the United States if the individual
+(i) was at any time in the year a student enrolled at an educational institution in the United States that is a university, college or other educational institution providing courses at a post-secondary school level, and
+(ii) commuted to that educational institution in the United States,
+an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the educational institution if those fees exceed $100, except to the extent that those fees
+. . . . .
+118.6 (1) - For the purposes of sections 63 and 64 and this subdivision,
+"designated educational institution" means
+(a) an educational institution in Canada that is
+(i) a university, college or other educational institution designated by the Lieutenant Governor in Council of a province as a specified educational institution under the Canada Student Loans Act, designated by an appropriate authority under the Canada Student Financial Assistance Act, or designated by the Minister of Higher Education and Science of the Province of Quebec for the purposes of An Act respecting financial assistance for students of the Province of Quebec, or
+(ii) certified by the Minister of Human Resources Development to be an educational institution providing courses, other than courses designed for university credit, that furnish a person with skills for, or improve a person's skills in an occupation,
+(b) a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, or
+(c) if the individual referred to in subsection (2) resided, throughout the year referred to in that subsection, in Canada near the boundary between Canada and the United States, an educational institution in the United States to which the individual commuted that is a university, college or other educational institution providing courses at a post-secondary school level;
+"qualifying educational program" means a program of not less than 3 consecutive weeks duration that provides that each student taking the program spend not less than 10 hours per week on courses or work in the program and, in respect of a program at an institution described in the definition "designated educational institution" (other than an institution described in subparagraph (a)(ii) thereof), that is a program at a post-secondary school level but, in relation to any particular student, does not include any such program
+. . . . .
+118.6 (2) - There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition "designated educational institution" in subsection (1), the individual has attained the age of 16 years before the end of the year and is enrolled in the program to obtain skills for, or improve the individual's skills in, an occupation.
+(3) - In calculating the amount deductible under subsection (2) in computing an individual's tax payable under this Part for a taxation year, the reference in that subsection to "full-time student" shall be read as "student" if either
+(a) an amount may be deducted under section 118.3 in respect of the individual for the year; or
+(b) the individual has in the year a mental or physical impairment the effects of which on the individual have been certified in writing, to be such that the individual cannot reasonably be expected to be enrolled as a full-time student while so impaired, by a medical doctor or, where the impairment is
+(i) an impairment of sight, by a medical doctor or an optometrist,
+(ii) a hearing impairment, by a medical doctor or an audiologist,
+(iii) an impairment with respect to the individual's ability in feeding and dressing themself, or in walking, by a medical doctor or an occupational therapist, or
+[7] It should be noted in passing that under section 118.61 unused tuition and education tax credits can be carried forward to subsequent years under certain circumstances. This is not, however, a matter that is before me.
+[8] It will be seen from the passages that I have set out above that the requirements for credits for tuition fees fall into three categories:
+(a) Where the educational institution is in Canada, all that is required is that the student be "enrolled" ("inscrit" in the French version).
+(b) Where the university is outside Canada the student must be "in full-time attendance at a university outside Canada" ("le particulier fréquente comme étudiant à plein temps").
+(c) Where the individual resided in Canada near the United States border what is required is that the student "was at any time in the year enrolled at an educational institution in the United States... and commuted to that educational institution in the United States" ("il est inscrit... à un établissement d'enseignement situé aux États-Unis... il fait régulièrement la navette entre sa résidence et cet établissement.")
+[9] Finally, for the education credit under section 118.6, the student must be "enrolled in a qualifying educational program as a full-time student at a designated educational institution." Such a designated educational institution may be in the United States. If the student suffers from a disability as envisaged by subsection 118.6(3) he or she need only be a "student" not a "full-time student". Among the material filed by the appellant is the required certificate signed by a medical doctor certifying that the appellant has a physical impairment as contemplated by that section.
+[10] So far as section 118.5 is concerned the question is whether the appellant was a student in full-time attendance at Touro. There are two parts to the question:
+(a) Was Mr. Krause in attendance at Touro?
+(b) If so, was his attendance full-time?
+[11] The second question is fairly easy to answer. If Mr. Krause's following courses on-line by means of a computer without his being physically at the university's premises can be called "attendance" it was, in my view, full-time. The expression "full-time" in the context of attendance at a university is distinguished from part-time attendance. He testified that he spends on average between 22 and 36 hours per week on the course. The university regards him as being in full-time attendance. This is what the appellant is taking, as demonstrated by his transcript.
+[12] In the internet material published by Touro it states: "The normal full time load is two courses (four credits each) per session". Interpretation Bulletin IT-516R2 states: "Students are ordinarily accepted as being in 'full-time attendance' if the university regards them as such." I would not describe his participation in the courses at Touro as part-time and I have no reason to doubt the correctness of the Tuition Fees Certificate signed by officers of Touro which reads:
+[13] Mr. Krause is also working about 30 hours or less per week at a McDonald's restaurant. This in itself does not make his attendance at university any the less full-time. Many full-time students have to take work to finance their education.
+[14] The remaining question is whether taking all of the courses electronically amounts to "attendance". The certificate which is quoted above uses the word "attendance" but nothing turns on this. The meaning of a word in a statute is generally regarded as a question of law.
+[15] In Hlopina v. R. [1999] 2 C.T.C. 2127, Bowie J. considered the meaning of full-time attendance. I shall not repeat the numerous authorities cited by him dealing with the meaning "full-time".
+[16] He concluded that taking a correspondence course was not attendance. He said at paragraph 12:
+The ambiguity in the English text is resolved by reference to the French version of the Act. The expression "... le particulier fréquente comme étudiant à plein temps une université..." used in paragraph 118.5(1)(b) is in contrast to the expression "...université située à l'étranger, où le particulier ... est inscrit..." used in paragraph 118.6(1)(b). Clearly, the former requires physical presence at the university, while the latter does not. Where, as here, one version of the statute is clear and unambiguous, while the other might bear the same or a different meaning, I am bound to apply the meaning which is common to both versions. (8) While the verb "to attend" in English might connote something other than physical presence, the same cannot be said of the French verb "fréquenter". I must, therefore, reluctantly conclude that the tuition credit under section 118.5 of the Act is not available to a taxpayer who studies by way of correspondence courses taken at a university outside Canada. I share the sentiment expressed by Heald J. in Ritchie, where he said:*(9)
+I said at the trial that I was sympathetic to the respondent's position. He and others like him are to be commended for their industry, their perseverance and their dedication to self-improvement. It may well be that the respondent and other taxpayers in a similar position should be able to deduct tuition fees in these circumstances. However, it is not the Court's function to legislate - I can only interpret the statute as it presently exists, ...
+[17] Bowie J. based his conclusion on the difference between the French word "fréquenter" and "attend". He accepted that while "attend" might connote something other than physical presence, "fréquenter" required physical presence. I would not have found that "fréquenter" had any less ambiguity than "attend". "Fréquenter" is defined in Grand Dictionnaire Larousse Encyclopédique as follows:
+FRÉQUENTER v. t. (lat. frequentare, être assidu) [conj. 3]. 1. Fréquenter un lieu, un établissement, y aller souvent ou régulièrement; hanter : Fréquenter une maison, les cafés, les cinémas. Les élèves qui fréquentent l'établissement scolaire doivent se plier au règlement intérieur. Je ne fréquente pas ce genre d'endroit. - 2. Fréquenter une voie, une route, l'emprunter en grand nombre : Les voitures fréquentent beaucoup l'autoroute du Sud. - 3. Fréquenter qqn, un milieu, avoir des relations suivies avec eux : Fréquenter des hommes politiques, des voisins. - 4. Fam. Fréquenter (qqn), courtiser, voir fréquemment la personne aimée. - 5. Fréquenter qqch, y avoir souvent recours (langue soutenue) : Fréquenter les grandes oeuvres de la littérature classique.
+◆ v. i. Litt. Fréquenter qqpart, y aller habituellement; être habitué d'un lieu
+[18] Looking at the English version alone, to say that someone attends university electronically by way of the internet does no violence at all to my understanding of the word "attend". We must recognize that this is 2004 and that whereas even 25 years ago to attend university required that one turn up physically at classes, technology has moved ahead so dramatically that it is entirely possible to attend lectures by seeing and hearing them on a computer.
+[19] Mr. Krause, in his written argument described his program at Touro as follows:
+[3] His program is conducted: online using live conferences; using CDs and virtual libraries. For those parts of the program dealing with his dissertation, there have been face to face discussions with a professor on his dissertation committee, weekly live on-line conferences, chat-lines and conference call to date. He is linked directly to his Professors by a internet connection. It is clearly distinguishable from correspondence courses.
+[20] In the material published on the internet Touro describes the process in some detail. The material reads in part as follows:
+· The normal full time load is two courses (four credits each) per session. (There are four sessions of twelve weeks each year) If a student's schedule is heavy, only one course per session will be allowed. Touro University International provides excellent advising services to help students select the proper courses.
+· Students can pre-register (and reserve a guaranteed space in the courses). Students will be notified of the time that pre-registration is available (approximately 10 weeks prior to the start of a session).
+· Students must pay or make arrangements to pay tuition when registering for classes. This payment will make the registration official.
+· Be certain that your computer configuration meets the minimum standards for the Touro University International courses, if you have questions TUI has an excellent IT support unit that will be able to respond to your questions.
+· Students will receive a CD-ROM with software and installation information. Students should install the software and test their computer systems prior to the start of classes. TUI provides excellent support services to assist students in this process. Non Required courses are contained on a CD-ROM which will be sent to students prior to the start of each new session. The required Ph.D. courses are taught using a website rather than a CD-ROM. The primary feature in these courses in a live scheduled conference with the Professor and all students in the course. Students will receive access to the course website, software, and support for the conference.
+· All Touro University International materials are on the Internet and the CD students will receive. Thus, the purchase of textbooks is not required or necessary. Students are encouraged to purchase statistical analysis software for the research methods courses and dissertation work. SPSS - Graduate version, is recommended and students will be notified prior to the courses for specifics.
+· On the first day of the session, students begin the activities as outlined in the course syllabus. This syllabus is on the course web page (for required courses) or on the course CD (for preparatory or elective courses).
+· Students should complete all requirements for the courses and contact their professors, educational advisor or Touro University International Student Services if they are experiencing any problems or have any questions. Remember, Touro University International is the 24/7 business hour university.
+. . . . .
+How does the dissertation process work in a distance learning environment?
+By using teleconferencing and other Touro University International Innovative tools, the students have constant contact and feedback from their dissertation chair and committee. In addition, the Touro University International cyber library provides excellent research materials on-line.
+[21] There are, nonetheless, arguments that may lend some support to the position that full-time attendance means not only that the student be enrolled as a full-time as opposed to part-time student but also that he or she physically be present at the university. One is that paragraph 118.5(1)(c) speaks only of being "enrolled" whereas paragraph (b) uses the term "full-time attendance" - a concept that obviously subsumes enrolment. The principle is that where Parliament uses different words it means something different. A possible answer to this is that the distinction that is to be drawn from the different wording in paragraphs (a) and (c) as opposed to paragraph (b) is the difference between part-time as opposed to full-time students.
+[22] Another argument is found in the technical notes to Bill C-18, May 30, 1991. Subclause 93(3) of those notes deals with the amendment to subsection 118.6(2) which previously required a student to be in "full-time attendance" to obtain the education credit. That requirement was removed by Bill C-18. The technical note reads as follows:
+Subclause 93(3)
+Subsection 118.6(2) of the Act is amended to remove the requirement that an individual be in full-time attendance at a designated educational institution to benefit from the education tax credit. The purpose of this amendment, which applies to the 1991 and subsequent taxation years, it to ensure that the credit is also available to full-time post-secondary students enroled in distance education programs or "correspondence courses".
+I do not think that technical notes to legislation should be taken as determinative. Parliament is supposed to be able to express its intention clearly and unambiguously in the statutory language that it uses. It does not seem appropriate to resolve ambiguities in the statutory language by having recourse to notes written by unnamed officials in the Department of Finance explaining what the Department of Finance thought it was achieving, or what it hoped to achieve. Nonetheless, the practice is fairly well entrenched. In Glaxo Wellcome Inc. v. The Queen, [1996] DTC 1159, affd [1998] 6638, the following observation was made at page 1162:
+One must bear in mind that it is Parliament that passes legislation, and it is through the words of that legislation that Parliament speaks. An act of Parliament represents the collective will of Parliament. One cannot be certain that the same can be said of extrinsic materials. To attempt to determine the intent of a statutory provision by reference to a speech delivered by a member of the government, a speech that he or she may well not have written, or by technical or explanatory notes prepared by officials of the Department of Finance, or other budgetary materials, strikes me as a potentially dangerous course of action. Where a court strains to assign to reasonably comprehensible language an extended meaning that conforms to what it conceives, on the basis of extrinsic materials, to be what Parliament was seeking to achieve it runs the risk of crossing the line that separates the judicial from the legislative function.
+. . . . .
+The practice today, in my experience, appears to be to refer in argument to virtually anything that may have some bearing, however remote, on the question to be decided - speeches in Parliament, technical notes, explanatory notes, budgetary materials, commission reports, published advance income tax rulings, texts by authors, whether living or dead, articles and speeches by practitioners or academics, interpretation bulletins - all are grist for the mill and the court is left to determine what assistance, if any, can be gleaned from such materials.2 The practice is now too well entrenched to be reversed but it is important that the reliability and the utility of such materials be put in their proper perspective and that it be recognized that ultimately the interpretation must be based upon the court's reading of the legislative language itself. In that endeavour such extrinsic aids must be handled with extreme caution. As Sopinka, J. said in Morgantaler at p. 484:
+Provided that the court remains mindful of the limited reliability and weight of Hansard evidence, it should be admitted as relevant to both the background and the purpose of legislation.
+2 One should be mindful of the wise observation made by the Earl of Halsbury, L.C. in Hilder v. Dexter, [1902] A.C. 474 at 477:
+My Lords, I have more than once had occasion to say that in construing a statute I believe the worst person to construe it is the person who is responsible for its drafting. He is very much disposed to confuse what he intended to do with the effect of the language which in fact has been employed. At the time he drafted the statute, at all events, he may have been under the impression that he had given full effect to what was intended, but he may be mistaken in construing it afterwards just because what was in his mind was what was intended, though, perhaps, it was not done.
+[23] The technical note to this amendment is useful in showing that someone involved in the amendment at least thought about the matter. Whether a stronger inference might be drawn from the fact the words were removed at all is a point upon which I am not prepared to express a concluded opinion in the absence of argument.
+[24] It is obvious therefore that the matter is by no means clear-cut. Although I need not decide the point since the appeal must be dismissed in any event because it is from a nil assessment, I think it is strongly arguable that full-time attendance at a foreign university can include full-time attendance through the internet or on-line as is the case here. That view conforms to common sense and to the reality of modern technology. If there continues to be doubt on the point Parliament should move to resolve that doubt.
+[25] Whatever doubt there may be under section 118.5, there is none under section 118.6. The appellant would certainly have been entitled to the education credit.
+[26] As stated above, since the appeal is from a nil assessment, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 2nd day of September 2004.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2004TCC594
+COURT FILE NO.:
+2004-1193(IT)I
+STYLE OF CAUSE:
+James A. Krause and
+Her Majesty The Queen
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+August 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+September 2, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

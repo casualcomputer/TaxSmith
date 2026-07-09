@@ -1,0 +1,209 @@
+---
+title: "Connor Financial Services International Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301981/index.do"
+last_modified: "2017-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 242"
+citation2: ""
+neutral_citation: "2017 CCI 242"
+decision_date: "2017-12-04"
+language: "fr"
+item_id: "301981"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7723
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:16:37.036000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e39599837d201dd3345131078f03da44a13d3988df44cb27776089c2f3c74491"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Connor Financial Services International Inc. c. M.R.N.
+
+- Citation: 2017 CCI 242
+- Decision date: 2017-12-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7723, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Connor Financial Services International Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-04
+Référence neutre
+2017 CCI 242
+Numéro de dossier
+2014-2632(EI), 2014-2635(CPP), 2015-81(CPP), 2015-83(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2014-2632(EI)
+2014-2635(RPC)
+ENTRE :
+CONNOR FINANCIAL SERVICES
+INTERNATIONAL INC.,
+appelant,
+et
+MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Connor Financial Services International Inc. (2015-83(EI), 2015-81(RPC)) les 3 et 4 octobre 2017 à Victoria (Colombie-Britannique).
+En présence de l’honorable juge Patrick Boyle
+Comparutions :
+Agent de l’appelant :
+Me Joel G. Connor
+Avocat de l’intimé :
+Me Geraldine Chen
+JUGEMENT
+Les appels en vertu de la Loi sur l’assurance-emploi (« Loi sur l’AE ») et du Régime de pensions du Canada (« RPC ») sont rejetés, et la décision rendue par le ministre du Revenu national le 7 mai 2014 est confirmée au motif que Piyanard Thantasanee occupait un emploi assurable et un emploi ouvrant droit à une pension auprès de l’appelant du 4 octobre 2012 au 4 octobre 2013, au sens qui est prévu par les alinéas 5(1)a) de la Loi sur l’AE et 6(1)a) du RPC, conformément aux motifs du jugement joints aux présentes.
+Signé à Ottawa (Canada), ce 4e jour de décembre 2017.
+« Patrick Boyle »
+Boyle J.
+Dossiers : 2015-83(EI)
+2015-81(RPC)
+ENTRE :
+CONNOR FINANCIAL SERVICES
+INTERNATIONAL INC.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Connor Financial Services International Inc. (2014-2632(EI), 2014-2635(RPC)) le 3 et le 4 octobre 2017 à Victoria (Colombie-Britannique).
+Devant l’honorable juge Patrick Boyle
+Comparutions :
+Agent de l’appelant :
+Me Joel G. Connor
+Avocat de l’intimé :
+Me Geraldine Chen
+JUGEMENT
+Les appels en vertu de la Loi sur l’assurance-emploi (« Loi sur l’AE ») et du Régime de pensions du Canada (« RPC ») sont rejetés et la décision rendue par le ministre du Revenu national le 18 novembre 2014 est confirmée au motif que Mariel Wendowsky occupait un emploi assurable et un emploi ouvrant droit à une pension auprès de l’appelant du 20 juin 2012 au 31 décembre 31 2012 au sens qui est prévu par les alinéas 5(1)a) de la Loi sur l’AE et 6(1)a) du RPC, conformément aux motifs du jugement joints au présentes.
+Signé à Ottawa (Canada), ce 4e jour de décembre 2017.
+« Patrick Boyle »
+Boyle J.
+Référence : 2017 TCC 242
+Date : 20171204
+Dossiers : 2014-2632(EI)
+2014-2635(RPC)
+2015-83(EI)
+2015-81(RPC)
+ENTRE :
+CONNOR FINANCIAL SERVICES INTERNATIONAL INC.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DE JUGEMENT
+Le juge Boyle
+Introduction [1] La question examinée dans le cadre des quatre procédures informelles qui seront entendues ensemble est celle de savoir si deux travailleuses de Connor Financial Services International Inc. occupaient un emploi assurable et ouvrant droit à la pension au sens de la Loi sur l’assurance-emploi (« Loi sur l’AE ») et du Régime de pensions du Canada (« RPC »), respectivement. Ni l’une ni l’autre des travailleuses ne sont intervenues dans ces appels, bien que l’une d’entre elles ait comparu comme témoin, comme il sera expliqué ci-après.
+[2] M. Connor est l’actionnaire majoritaire, l’administrateur unique et le président de Connor Financial Services International et de Connor Financial Corporation. Les travailleuses travaillaient chez Connor Financial Services International, mais les activités de Connor Financial Services International et de Connor Financial Corporation, ainsi que celles d’autres sociétés apparentées, étaient menées plus ou moins collectivement d’après la preuve sous la bannière à laquelle je me référerai comme « Connor Financial ». Au cours des années en question, Connor Financial n’employait pas de courtier autorisé en fonds communs de placement, puisque l’entreprise n’était plus autorisée. M. Connor est demeuré conseiller autorisé en placement, et les transactions de Connor Financial étaient réalisées par un courtier autorisé en fonds de communs de placement externe à l’entreprise. M. Connor a témoigné au nom de Connor Financial.
+[3] La travailleuse qui avait le plus d’ancienneté était Piyanard Thantasanee. Son poste chez Connor Financial était son premier emploi après son immigration de la Thaïlande. Elle n’a pas témoigné, malgré les efforts déployés par au moins une des parties pour prendre contact avec elle en vue d’organiser son témoignage. Ces efforts n’ont pas permis de la retracer. L’autre travailleuse, Mariel Wendowsky, a témoigné. Son poste chez Connor Financial était sa première embauche après avoir reçu son diplôme universitaire, et son premier emploi à temps plein.
+[4] Les parties conviennent que la question qui doit faire l’objet d’une décision dans ces appels est celle de savoir si ces deux travailleuses étaient des employées ou des entrepreneures autonomes de Connor Financial au cours des années en question. Les parties ne contestent pas que la question doit faire l’objet d’une décision au regard du droit, afin d’établir si les deux travailleuses menaient leurs activités à leur propre compte, comme dans Connor Homes[1] et d’autres décisions, et conviennent que cette décision doit reposer sur la considération des intentions des parties, et de plusieurs considérations ou facteurs définis dans Wiebe Door[2].
+[5] En plus des témoignages de M. Connor et de Mme Wendowsky, la Couronne a aussi appelé Mme Lee, qui représentait l’Agence du revenu du Canada (« ARC ») et qui était l’agente des décisions dans le dossier de l’une des deux travailleuses. Dans son témoignage, Mme Lee a décrit les étapes de traitement d’une décision, ainsi que les étapes d’évaluation et d’opposition de l’ARC. Elle a informé la Cour que Connor Financial, par l’entremise de M. Connor, avait refusé de fournir toute information, de répondre à toute question, et de remplir un questionnaire dans le cadre du processus décisionnel, mais qu’il avait fourni des réponses écrites à un questionnaire à l’étape des oppositions. D’après les décisions, les travailleuses étaient des employées, et les décisions ont été maintenues ou confirmées à l’étape d’opposition.
+[6] Mme Lee était un témoin parfaitement crédible aux fins du contrôle, des examens et des appels sur la qualification de la relation de travail entre Connor Financial et les deux travailleuses.
+[7] Mme Wendowsky a témoigné de manière franche et coopérative, et j’ai trouvé ses propos cohérents et crédibles sur tous les aspects pertinents de son témoignage qui étaient applicables à ma décision sur les présents appels, notamment son témoignage sur le rôle, les responsabilités et activités de sa collègue chez Connor Financial, Mme Thantasanee.
+[8] J’ai de réels doutes concernant la crédibilité du témoignage de M. Connor, surtout, mais sans m’y limiter, en ce qui concerne son témoignage sur la préparation, par les travailleuses, de factures pour du travail contractuel pour Connor Financial ainsi que leur remise de feuilles de temps pour répondre aux exigences écrites de Connor Financial, et recevoir leur salaire. Son manque de franchise sur ses aléas réglementaires posait aussi un problème considérable. Il a affirmé avoir eu des échanges avec un organisme de réglementation sur des problèmes de conformité à la réglementation. Il s’est avéré qu’une décision de la Cour suprême de la C.-B. avait constaté que Connor Financial avait conclu des transactions financières iniques avec ses clients. Mes doutes concernant les factures en particulier sont considérables, et engendrent par ricochet un certain degré de doute concernant l’ensemble de son témoignage sur des points importants, et je me rallierai au témoignage des deux autres témoins lorsque je me trouverai devant des divergences entre les témoignages de ces témoins et le sien.
+[9] Je constate que, selon la prépondérance des probabilités, ni l’une ni l’autre des deux travailleuses n’a présenté à la Cour les factures remises à Connor Financial. Je conclus qu’elles ont probablement été préparées par une autre personne chez Connor Financial, vraisemblablement par M. Connor, et que si ce n’était pas M. Connor, c’était probablement son comptable, à sa connaissance. Par ailleurs, les factures ne sont pas mentionnées dans les règles écrites sur le paiement définies par M. Connor dans les feuilles de temps de Connor Financial, ci-après. Aussi, une seule feuille de temps est demandée par M. Connor dans sa réponse écrite à la démission de Mme Wendowsky, sans qu’il ne demande de facture. J’ai entendu son explication que les copies des factures présentées à la Cour qui portent un timbre analytique indiquant que la contribuable a été payée, et souvent où leur emplacement dans les registres financiers de Connor Financial, n’auraient pas été raisonnablement remises à la travailleuse qui selon ses dires aurait préparé la facture sur son paiement par chèque. Mme Wendowsky a catégoriquement affirmé qu’elle n’avait préparé les factures à absolument aucun moment, et qu’elle n’a jamais pensé qu’il était attendu d’elle qu’elle ne le fasse.
+Intention des parties [10] Mme Wendowsky a témoigné que M. Connor ne lui a jamais dit qu’elle était travailleuse contractuelle ou autonome contribuable. Il affirme le contraire. Elle reconnaît qu’en entretien d’embauche, on lui aurait dit auparavant qu’elle serait payée comme un entrepreneur. Elle a dit ne pas avoir su ce que cela signifiait, hormis qu’elle devait économiser pour le versement éventuel de charges fiscales.
+[11] Comme je l’ai mentionné dans la décision dans Loving Home Care,[3] il serait difficile, dans des circonstances telles que les présentes, d’accorder beaucoup de poids à l’intention des parties, même lorsqu’elles pourraient avoir été dictées dès le départ, si le travailleur ne comprend pas la différence :
+[3] Dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CAF 85, la Cour d’appel fédérale a défini le droit applicable dans des appels tels que ceux dont j’ai été saisi en l’espèce de manière exhaustive et claire, et je ne reproduirai pas les paragraphes 23 et 33 à 41 des motifs du juge Mainville.
+[4] La question en litige est simplement de savoir si les travailleuses fournissent leurs services de soins personnels en tant que personnes travaillant à leur compte.
+[5] Cela exige tout d’abord que je décide si, d’un point de vue subjectif, en me fondant sur les faits, les circonstances et la preuve de l’espèce, il y avait chez les parties une entente ou une intention commune relative à leur relation, qu’elle ait été d’établir une relation d’employeur à employée ou de client à entrepreneure indépendante.
+[6] À ce stade, un tribunal peut examiner, entre autres choses, la mesure dans laquelle les travailleuses comprenaient les différences entre les relations d’employeur à employé et de client à entrepreneur indépendant, les forces et les faiblesses relatives de leurs positions de négociation, et la mesure dans laquelle de tels éléments de preuve, dont on peut généralement s’attendre à ce qu’ils soient intéressés, sont corroborés par les autres éléments de preuve produits devant la Cour et sont cohérents avec eux.
+[7] La réponse apportée à cette question n’est pas déterminante. Les parties ne peuvent pas s’entendre sur la qualification juridique qu’il convient de donner à leur relation de travail comme s’il s’agissait, dans le contexte de la relation de travail, d’une autre condition relative à leurs droits, à leurs obligations, à leurs devoirs et à leurs responsabilités. Une intention déclarée qui a fait l’objet d’un consensus au sujet de la qualification particulière d’une relation de travail, qu’il s’agisse d’une relation d’employeur à employé ou de client à entrepreneur indépendant, doit, en fait, se fonder sur une réalité objective et vérifiable.
+[8] Si les parties ont convenu de qualifier leur relation d’une certaine manière, la Cour doit établir si la réalité objective globale de leur relation de travail étaye leur intention subjective et si elle est cohérente avec elle.
+[9] Cette deuxième étape exige de la Cour qu’elle examine et soupèse les critères traditionnels qui ont été définis dans les arrêts Sagaz et Wiebe Door[1], à savoir le contrôle sur le travail et le travailleur (y compris le degré de subordination du travailleur), la fourniture des outils, du matériel, de l’agrément et de l’équipement nécessaires à l’accomplissement du travail ainsi que l’étendue des succès et des revers financiers qui pourraient découler pour le travailleur des services fournis.
+[10] Dans le contexte de cette deuxième étape, la Cour peut encore une fois examiner l’intention des parties, en même temps que leur comportement réel et toute entente écrite en vigueur entre elles. Dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national) (C.A.F.)[2], la Cour d’appel fédérale a déclaré de la même manière que les critères traditionnels qui ont été définis dans les arrêts Sagaz et Wiebe Door devaient être examinés en tenant compte de l’intention des parties.
+[11] Par ailleurs, cette deuxième étape est identique à celle que la Cour adopterait dans les cas où les parties n’auraient aucune intention commune en ce qui concerne la qualification de leur relation de travail.
+[…]
+27 [...] En règle générale, les travailleurs qui ne sont pas au courant des différentes manières de qualifier leur relation de travail, et qui ne les connaissent ou ne les comprennent pas vraiment, ne sont pas en mesure de qualifier eux‑mêmes, de manière très utile, la nature de la relation juridique dans laquelle ils se sont engagés, et certainement pas de manière à éclairer significativement la Cour ou à apporter à celle‑ci des renseignements susceptibles de l’aider dans son examen objectif des facteurs traditionnels qui ont été définis dans les arrêts Sagaz et Wiebe Door.
+[28] Dans les circonstances de l’espèce, la Cour n’accorde que peu de poids aux intentions subjectives des travailleuses consistant à qualifier leur relation de travail de relation de client à entrepreneure indépendante.
+[12] M. Connor, tout au long de son témoignage, et dans sa narration des entretiens avec les travailleuses, a utilisé le terme [Traduction] « travailleur à contrat ». Ce terme est ambigu. Par exemple, Mme Wendowsky, dans sa plainte sur les normes de travail en C.-B., avait utilise le terme [Traduction] « employée contractuelle » lorsqu’il est clair qu’elle l’utilisait pour signifier un entrepreneur indépendant, puisqu’elle contestait cette utilisation. Un autre exemple serait celui des employés dont il a été souvent répété qu’ils avaient conclu un contrat de travail à durée déterminée.
+[13] Je ne suis pas convaincu qu’il existait une intention mutuelle pour une embauche à titre d’employée ou d’entrepreneure indépendante. Je conclus que la preuve de l’intention dans ces appels n’est d’aucun secours et ne devrait pas être considérée pour qualifier les relations de travail. Je me tourne maintenant vers les considérations conventionnelles sur Wiebe Door.
+Contrôle [14] M. Connor était l’unique actionnaire et dirigeant, et le président de Connor Financial. Les quelques autres employés de son bureau étaient les membres de son personnel. Seul M. Connor était autorisé comme conseiller en placement capable de conclure des transactions en fonds communs de placement.
+[15] Au bas de la feuille de temps bimensuelle de Connor Financial[4] que les travailleuses devaient remplir, et dont les consignes s’appliquaient à elles, étaient soulignées les conditions de travail suivantes [Traduction] :
+1. Toutes les heures supplémentaires doivent être approuvées au préalable par [M. Connor].
+2. Les congés de maladie doivent être approuvés par [M. Connor] et pourraient être assujettis à la présentation d’un certificat médical.
+3. Les congés doivent être approuvés par [M. Connor] au préalable. Toutes les absences non approuvées ou inexpliquées seront déduites des heures régulières ou des congés.
+4. Vous devez donner des détails sur toute absence à l’extérieur des heures de repas, lesquels durent 30 minutes et doivent être décalées de celles des collègues afin que deux employés ne soient jamais absents au même moment.
+5. Veuillez donner des détails sur toute absence. Veuillez utiliser le verso de la page si nécessaire, en ayant soin d’indiquer la date.
+Ce formulaire doit être correctement rempli en entier et remis afin d’assurer le paiement. Étant donné l’horaire du comptable, les modifications seront appliquées à la période de paie suivante. Veuillez déposer ce formulaire sur le bureau de [M. Connor] à 17 h chaque jour.
+La journée commence à 8 h 30 chaque jour, et se termine à 17 h. *Vous pouvez indiquer les heures sur l’horloge de 24 heures, ou indiquer a.m. ou p.m.
+[Soulignement dans l’original.]
+[16] Il peut être remarqué que la feuille de temps bimensuelle des employés de Connor Financial demandait aux travailleuses de noter leurs heures de travail régulières, les heures supplémentaires, les heures de congé de maladie, et les heures de congé, et qu’une case était réservée aux initiales de M. Connor pour chaque journée. Il semble qu’en pratique, au cours de la période en question, elles n’étaient présentées qu’à M. Connor à la fin de chaque période de paye, et non chaque jour. Cependant, le facteur le plus important est le droit et la capacité de Connor Financial de contrôler et d’ordonner les tâches à exécuter, et non la fréquence à laquelle ce droit a été exercé ou dans quelle mesure. Voir Loving Home Care, précité, et Dean (Ana’s Care & Home Support) c. M.N.R.[5]
+[17] M. Connor s’attendait à ce que les travailleuses soient au bureau durant les heures d’ouverture et jouissait de toute l’autorité sur l’ensemble du lieu de travail. Il a indiqué que Mme Thantasanee supervisait davantage Mme Wendowsky qu’il ne le faisait. La qualification du travail de Mme Wendowsky comme employée ou entrepreneure indépendante ne relève pas de la personne qui la supervisait, soit-elle un agent de Connor Financial ou d’un autre membre de son personnel ou d’une autre personne déléguée. Le critère pertinent est que son travail a été supervisé par Connor Financial.
+[18] Je conclus, d’après la preuve, que les deux travailleuses ont été formées par M. Connor et, dans le cas de Mme Wendowsky, par Mme Thantasanee et d’autres membres du personnel. Je ne considère pas comme raisonnable ou crédible la prétention de M. Connor qu’il leur ait simplement remis un exemplaire du manuel des procédures destinées aux tiers courtiers autorisés et le livre des règles des courtiers en fonds communs de placement, en s’attendant à ce qu’elles puissent travailler sans autre formation, pratique ou autre, en milieu de travail ou autrement.
+[19] Les deux travailleuses étaient adjointes administratives. En outre, Mme Wendowsky avait travaillé comme réceptionniste, et apportait tous les jours à M. Connor son café matinal. Leurs tâches et leurs activités à titre d’adjointes administratives et de réceptionniste leur étaient attribuées et étaient supervisées par M. Connor ou d’autres membres du personnel, en fonction de leurs responsabilités et de leur ancienneté.
+[20] Les travailleuses avaient reçu pour consigne de M. Connor de faire du temps supplémentaire pendant la saison des REER, ce qu’elles ont fait.
+[21] De manière générale, j’estime que la preuve de contrôle sur les contribuables et leur travail est très favorable à la qualification de leur statut d’employées. Leurs heures de travail leur étaient imposées, elles étaient formées et supervisées par M. Connor, qui leur attribuait leur travail, ainsi que d’autres membres du personnel. Elles répondaient manifestement à M. Connor et à d’autres membres du personnel selon des conventions courantes d’ancienneté.
+Propriété des outils [22] Tout le matériel et les fournitures nécessaires pour permettre aux deux travailleuses de s’acquitter de leurs tâches leur étaient fournis par Connor Financial. Devant la preuve, je ne peux conclure qu’aucune partie du travail réalisé pour le compte de Connor Financial l’a été par l’une ou l’autre des travailleuses depuis un ordinateur personnel ou à l’extérieur du bureau.
+[23] La prise en considération de ce facteur est favorable à la qualification de la relation d’emploi.
+Avantage financier et risque de perte [24] Les travailleuses étaient payées un taux horaire. Elles n’avaient aucune dépense et ne pouvaient pas perdre d’argent. Elles auraient uniquement pu augmenter leurs gains personnels en travaillant davantage ou en négociant une augmentation.
+[25] Les travailleuses n’avaient pas la possibilité de sous-traiter leurs tâches ni aucune partie de leurs attributions à aucune autre personne. M. Connor a déclaré qu’il aurait plutôt embauché un autre travailleur si elles avaient eu besoin de renfort.
+[26] La prise en compte de ce facteur n’est pas nettement favorable à la qualification d’une activité commerciale menée par les travailleuses à titre individuel.
+Conclusion [27] L’appelant n’a pu établir, avec une preuve suffisamment crédible, que les travailleuses de Connor Financial visées par les décisions ont été, sur la prépondérance des probabilités, dans une relation de travail qui les qualifierait en droit comme entrepreneures indépendantes et non comme employées.
+[28] En considérant surtout dans quelle mesure Connor Financial avait le droit de diriger l’exécution des attributions professionnelles et appliquait des mesures de supervision et de surveillance, et vu les risques financiers très limités auxquels étaient exposées les travailleuses, l’absence de tout investissement financier pour les travailleuses, et les contreparties financières relativement stables qu’elles touchaient, de sorte qu’elles ne pouvaient augmenter leurs revenus qu’en travaillant plus d’heures par jour ou plus de jours, le présent dossier et les circonstances dans leur ensemble qualifient de manière assez forte l’existence d’un emploi assurable au sens de la Loi sur l’AE et d’un emploi ouvrant droit à pension en vertu du RPC.
+[29] Les appels sont rejetés.
+Signé à Ottawa (Canada), ce 4e jour de décembre 2017.
+« Patrick Boyle »
+Boyle J.
+RÉFÉRENCE :
+2017 TCC 242
+NOS DES DOSSIERS DE LA COUR :
+2014-2632(EI)
+2014-2635(RPC)
+2015-83(EI)
+2015-81(RPC)
+INTITULÉ :
+CONNOR FINANCIAL SERVICES INTERNATIONAL INC. v. M.N.R.
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Les 3 et 4 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 4 décembre 2017
+COMPARUTIONS :
+[BLANK / EN BLANC]
+Agent de l’appelant :
+Me Joel G. Connor
+Avocat de l’intimé :
+Geraldine Chen
+AVOCATS INSCRITS AU DOSSIER :
+[BLANK / EN BLANC]
+Pour l’appelant :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimé :
+Nathalie G. Drouin
+Vice-procureure générale du Canada
+Ottawa (Canada)
+[1] 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CAF 85.
+[2] Wiebe Door Services Ltd. c. M.N.R., 87 DTC 5025.
+[3] Loving Home Care Services Ltd. c. M.N.R., 2014 TCC 71.
+[4] Pièce R-2.
+[5] 2012 TCC 370.

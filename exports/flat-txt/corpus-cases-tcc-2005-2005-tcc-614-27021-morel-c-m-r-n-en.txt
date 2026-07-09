@@ -1,0 +1,175 @@
+Title: Morel c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27021/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-614-27021-morel-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2005-10-04
+
+# Morel c. M.R.N.
+
+- Citation: 2005 TCC 614
+- Decision date: 2005-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 631, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morel c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-04
+Neutral citation
+2005 TCC 614
+File numbers
+2005-667(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-667(EI)
+BETWEEN:
+VIANNEY MOREL,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 28, 2005, at Montréal, Quebec
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister's decision is varied in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 4th day of October 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 12th day of October 2005.
+Aveta Graham, Translator
+Citation: 2005TCC614
+Date: 20051004
+Docket: 2005-667(EI)
+BETWEEN:
+VIANNEY MOREL,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+[OFFICIAL ENGLISH TRANSLATION]
+SavoieD.J.
+[1] This appeal was heard in Montréal, Quebec, on June 28, 2005.
+[2] The issue in this appeal is the insurability of the Appellant's employment while working for the Payor, Société canadienne de transfert technologique (SCaTT 2003) Inc. during the period in issue, which is April 25 to May 6, 2004.
+[3] However, the admissions of the Minister of National Revenue (the "Minister"), which can be found at paragraphs 8, 9 and 10 of the Reply to the Notice of Appeal, should be noted. The admissions read as follows:
+[TRANSLATION]
+8. At this stage of the proceedings, the Respondent submits that, from April 24 to April 30, 2004, the Appellant held employment under a contract of service within the meaning of paragraph 5(1)(a) of the Act and therefore held insurable employment.
+9. At this stage of the proceedings, the Respondent submits that the Appellant had insurable earnings of $1,121.38 for the period of April 24 to April 30, 2004.
+10. At this stage of the proceedings, the Respondent submits that the Appellant had accumulated 39 hours of insurable employment from April 24 to April 30, 2004, namely, the hours for which he was paid, i.e. $1,121.38 divided by the hourly wage of $29.03, considering that a part of an hour is considered an entire hour.
+[4] In addition, at the hearing, the Minister consented to a judgment containing the following terms:
+(a) insurable hours: 53, from April 24 to April 30, 2004; and
+(b) insurable earnings: $1,479.29.
+This has the effect of shortening the period in issue to May 1 to May 6, 2004.
+[5] In rendering his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The Payor did construction work in Algeria; (admitted)
+(b) The Appellant had been hired to work in Algeria; (admitted)
+(c) The Appellant went to Algeria where he suffered a culture shock and wanted to return after just two days; (admitted subject to amplification)
+(d) The Appellant waited roughly 2 weeks at the hospital before being able to take a plan back to this country; (admitted subject to amplification)
+(e) The Appellant gave no assistance to the Respondent's representative and provided no evidence of the work done or the money earned. (denied)
+[6] The Minister added as follows:
+[TRANSLATION]
+(a) On April 23, 2004, the Appellant and the Payor signed a contract of employment abroad for a term of six months; (admitted)
+(b) The Appellant was to work in Algeria as a Duraform forming trainer and specialist; (admitted)
+(c) The employment began on April 24, 2004; (admitted)
+(d) The contract stipulated that the work week was 53 hours over six days; (admitted)
+(e) The contract stipulated that the annual salary was $80,000 paid over 26 pay periods, which means $3,076.92 per pay period, $1,538.46 per week or $29.03 per hour; (admitted subject to amplification)
+(f) The Appellant resigned on April 30, 2004; (denied)
+(g) On July 13, 2004, the Payor claimed from the Appellant the expenses incurred to repatriate him; (admitted)
+(h) In this claim, the Payor credited the Appellant $1,121.38 as salary earned during the week of April 24 to April 30, 2004. (admitted)
+[7] The evidence at the hearing disclosed the following facts. From the moment he arrived in Algeria, the Appellant had so much difficulty adapting to the living and working conditions that, after just a few days, he asked his employer to repatriate him to Canadaimmediately. He made this request to the employer on April 30, 2004. On that day, the Payor authorized his transfer from the Tamanrasset work site to Algiers, where he could get a flight to Canada. For vaguely defined reasons, the return flight was delayed several days.
+[8] The Appellant explained that he was compelled to ask to return to Canadabecause of the poor living and working conditions. In addition, he said that, after making that request, he had to incur expenses and undertake efforts to get a flight to Canada, which the Payor should have done itself.
+[9] The Appellant returned to Canadaon May 6, 2004. This is when he claims that his employment by the Payor, or in his own words, the Payor's [TRANSLATION] "responsibility for him" ended.
+[10]The Appellant submits that he remained employed by the Payor until he returned to Canadabecause he was available to work for the Payor. He argues that the delay in returning him was attributable to the Payor, which did not do what was necessary to expedite his immediate return to the country in accordance with the request that he made on April 30, 2004. However, the evidence contradicts his assertion that his availability to work for the Payor during the period in issue constitutes insurable employment.
+[11]The terms and conditions of the employment, to which the Payor and the Appellant agreed, are worth reproducing. A letter of employment dated April 23, 2004, and signed by the parties, along with a document entitled [TRANSLATION] "SCaTT 2003 Inc. General Conditions of Employment Abroad for Personnel Assigned to the Tamanrasset Project in Algeria", were produced at the hearing as Exhibit A-7. The letter of employment reads as follows:
+[TRANSLATION]
+Montréal, April 23, 2004
+Vianney Morel
+72 Montée Gagnon
+Bois des Filion, QC J6Z 2L1
+Subject: Letter of Employment
+Tamanrassetair base project
+Dear Mr. Morel;
+Further to our discussions, it is our pleasure to offer you a contract of employment abroad to work on the Tamanrasset air base project in Algeria as a Duraform forming trainer and specialist.
+As agreed, the above [sic] conditions of employment will apply:
+• Marital status in Algeria: Single
+• Duration of employment: 6 months, which can be changed based on the needs of the project.
+• Commencement of employment: April 24, 2004
+• Your annual salary: $80,000 paid over 26 pay periods
+• Annual allowance of: $5,000 payable over 26 pay periods, for you to assume your room and board and other subsistence costs in the area of your assignment.
+• Work week: 53 hours/wk. Six-day week
+• Work schedule: 8 weeks at work site, 2 weeks of periodic leave
+By accepting the above conditions, you acknowledge that you have read and understood this letter of employment as well as the attached "General Conditions of Employment Abroad" for the "Tamanrasset Air Base" project which constitute the entire agreement between you and SCaTT 2003 Inc. and that there is no promise or agreement other than that stipulated in the terms contained in the attached "General Conditions of Employment Abroad." It is agreed that any amendment will be made by written contract signed by both parties.
+In performing your duties, you report directly to the Director of Construction.
+If you accept the conditions stated herein, please return a duly signed copy of this employment offer to us along with the duly initialled "General Conditions of Employment Abroad" for the "Tamanrasset Air Base" project.
+Cordially,
+_______________________ ________________________
+Pierre Demers, Eng. date Aurélien Litalien date
+President Financial Director
+I have read and understood the above terms and conditions and accept them.
+_______________________ ________________________
+Vianney Morel date Louise Giroux date
+Employee Human Resources
+[12]Sections 2.9 and 12.3.3 of the "General Conditions of Employment Abroad for Personnel Assigned to the Tamanrasset Project in Algeria" read as follows:
+[TRANSLATION]
+2.9 LOCATION OF ASSIGNMENT
+The ordinary place of the employee's assignment as defined in the letter of employment.
+12.3.3 Termination at employee's request
+If you resign or request the early termination of your employment for reasons of convenience, you must give at least one (1) month's notice, during which you remain in your employment, and you waive your right to any future salary as well as any allowances hereunder.
+Payment of demobilization and air transportation costs shall be left to the Company's discretion.
+[13]The Appellant is asking this Court to recognize the difference between a request for repatriation and a resignation. He submits that the waiting period that followed his request for repatriation and ended with his return to Canadais insurable because he remained available to the Payor. That is the issue in this case.
+[14]The Minister submits that the contract provides for work in Algeriaand nowhere else. He submits that since the Appellant left the work site in Tamanrasset, the Payor had no work for him. The Minister also argues that the Appellant cannot claim to be in insurable employment after leaving the only place of work contemplated in the contract. Clause 2.9 of the contract, which provides for the location of the assignment, refers the reader to the letter of employment, which defines the location as Tamanrasset, Algeria. In the Minister's submission, the Court must hold that the Appellant's employment ended when he left the site and asked to be immediately returned to Canada. He adds that any other interpretation would contravene the terms and conditions of employment set out in the letter of employment, which is the contract signed by the parties -especially clause 12.3.3, reproduced above.
+[15]In addition, the Payor's accountant stated that the Appellant did not do any work for the Payor during the week of May 1 to May 6, 2004, when he was in Algiers. This is confirmed by the time sheet tendered at the hearing as Exhibit I-1. The Payor's president corroborated this statement at the hearing when he testified that the only work site contemplated in the contract was located in Tamanrasset, Algeria.
+[16]The Appellant claimed that, during his waiting period in Algiers, which preceded his return to Canada, he remained in constant contact with the Payor's office and had an interview with one of the Payor's partners. For these reasons, he believes that he remained employed by the Payor in insurable employment.
+[17]At the hearing, the Appellant said that he no longer considered himself bound by a contract with the Payor because the Payor violated the terms of the contract, which is what precipitated his repatriation request of April 30, 2004. In response to this claim, the Minister submits that if the Appellant was no longer bound by the terms of the contract, how could he then claim that its terms applied to the Payor? In other words, after the Appellant resiliated the contract, on what basis could he claim that the Payor remained bound by it? To restate yet again, how can he be liberated from a contract and yet argue that the other party to the contract remains bound by it?
+[18]The Appellant's evidence was almost totally devoted to showing that the Payor did not comply with the terms of its contract with him. This Court acknowledges that the Appellant may have laid the groundwork for a claim that he could make against the Payor in another court or tribunal whose mandate is to decide on that claim, but not under the provisions of the Employment Insurance Act. In this regard, the evidence disclosed that the Appellant has filed no complaint before the Commission des normes du travail du Québec or the Commission de la santé et de la sécurité du travail (CSST). It should be said that while several items of evidence adduced by the Appellant may well appear relevant to a remedy against the Payor, this Court must consider that evidence according to the rigour of the Employment Insurance Act. In other words, this Court's task must be limited to determining whether the Appellant held insurable employment under a contract for services within the meaning of paragraph 5(1)(a) of the Employment Insurance Act during the period in issue, i.e. May 1 to May 6, 2004.
+[19]In light of the foregoing, I am of the opinion that the Appellant may have left his employment for valid reasons by making the request for repatriation, but this does nothing to assist the Court in its task, which is to determine whether he held insurable employment.
+[20]In this regard, this Court must conclude that when the Appellant requested repatriation, he unilaterally resiliated his contract of employment because his departure from Tamanrasset meant that the Payor could no longer provide him with work. The Payor no longer had a job to offer him. Consequently, by leaving Tamanrasset, the location of his assignment, the Appellant not only ceased to hold insurable employment, but also ceased to be employed at all, having terminated his employment.
+[21]This Court must therefore allow the appeal on the terms consented to by the Minister, specifically:
+(a) the period of insurable employment: April 24 to April 30, 2004;
+(b) the insurable hours: 53; and
+(c) the insurable earnings: $1,479.29.
+[22]The appeal is dismissed with regard to the period of May 1 to May 6, 2004, because the Appellant did not hold insurable employment during that period within the meaning of the Employment Insurance Act.
+Signed at Grand-Barachois, New Brunswick, this 4th day of October 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 12th day of October 2005.
+Aveta Graham, Translator
+CITATION: 2005TCC614
+COURT FILE NO.: 2005-667(EI)
+STYLE OF CAUSE: Vianney Morel and M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Deputy Judge S.J. Savoie
+DATE OF JUDGMENT: October 4, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, QC
+Deputy Attorney General of Canada
+Ottawa, Ontario

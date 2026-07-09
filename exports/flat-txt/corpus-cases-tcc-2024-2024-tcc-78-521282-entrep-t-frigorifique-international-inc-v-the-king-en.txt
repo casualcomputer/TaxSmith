@@ -1,0 +1,210 @@
+Title: Entrepôt Frigorifique International Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521282/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-78-521282-entrep-t-frigorifique-international-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-05-27
+
+# Entrepôt Frigorifique International Inc. v. The King
+
+- Citation: 2024 TCC 78
+- Decision date: 2024-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5705, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Entrepôt Frigorifique International Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-27
+Neutral citation
+2024 TCC 78
+File numbers
+2021-1352(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-1352(GST)G
+BETWEEN:
+ENTREPÔT FRIGORIFIQUE INTERNATIONAL INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+‎[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 18, 19, and 20 and November 29, 2023, at Montréal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Anaïs Versailles (articling student)
+Counsel for the Respondent:
+Josée Fournier
+Stéphanie Douville
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act and dated April 10, 2018 for the periods between October 1, 2010 and December 31, 2014 is allowed and the reassessment is vacated, with costs.
+Signed at Ottawa, Canada, this 27th day of May 2024.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of March 2025.
+Melissa Paquette, Senior Jurilinguist
+Citation: 2024 TCC 78
+Date: 20240527
+Docket: 2021-1352(GST)G
+BETWEEN:
+ENTREPÔT FRIGORIFIQUE INTERNATIONAL INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+I. Précis [1] Entrepôt Frigorifique International Inc. (“Frigo”) has carried on a refrigerated transportation and warehouse business in metropolitan Montréal since 1995, when it was founded by its sole shareholder and president, Benoît Bergeron. Frigo was denied input tax credits (“ITCs”) in respect of the GST it paid to some of the placement agencies that had supplied it with casual workers to unload and load containers at its warehouse in its reporting periods from October 1, 2010 to December 31, 2014. Frigo was also assessed so-called gross negligence penalties for claiming these ITCs.
+[2] The reassessment denying the ITCs was issued in April 2018, outside the normal reassessment period. This means that, pursuant to subsection 298(4) of the Excise Tax Act (the “ETA”), the respondent has the evidentiary burden to prove that Frigo made a misrepresentation attributable to its neglect, carelessness or wilful default, or committed fraud in making its ITC claim. The respondent’s position is that the placement agencies’ invoices were false invoices, accommodation invoices, and/or invoices of convenience and that there had been a scheme to not remit the GST collected. The respondent’s position is also that the suppliers were “pseudo” placement agencies and were not the true suppliers of the workers involved as these placement agencies did not have the human resources, financial resources or physical resources needed to make these supplies, and were not registered for remitting employee withholdings nor registered for the Commission de la santé et de la sécurité du travail du Québec. The respondent’s position is that Frigo was a participant or was complicit in this scheme or should have recognized it, and he argued that Frigo committed fraud in making the ITC claims.
+[3] The trial lasted five days and 14 witnesses testified. Five of these witnesses were auditors with the Agence du Revenu du Québec (“ARQ”), seven were employees of Frigo, and three were employees of different placement agencies. The witnesses from Frigo included its president and sole shareholder, its director of operations, its administration manager and director, its director of transport (whose services were provided to Frigo through his personal services company), its bookkeeper/accountant, a supervisor/foreman, and a worker whose services were provided by a placement agency.
+[4] For the reasons that follow, the appeal is allowed and the reassessment in issue is vacated, as the Court has not been provided with sufficient reliable, credible, and consistent evidence, direct or circumstantial, corroborated or not, to conclude, on a balance of probabilities, that Frigo or any of its employees were participants in a scheme in which Frigo obtained these casual workers from placement agencies and paid those placement agencies’ invoices, including GST collected from Frigo on behalf of the respondent that was not then remitted by these suppliers as required by law, or that Frigo was aware of or wilfully blind to it. Furthermore, the evidence does not implicate Frigo in these failures or show that Frigo had sufficient information about the placement agencies to give rise to an obligation on it to make further inquiries before paying the GST charged on the invoices for the workers’ services provided to it by the placement agencies. ARQ’s suspicions about the role and knowledge of Frigo regarding these placement agencies may have been reasonable and sufficient to warrant the extensive audit described at length in the evidence; however, the facts in evidence do not establish, on a balance of probabilities, that these 2010 to 2014 reporting periods could be reassessed in 2018. The respondent failed to raise significant credibility concerns with the testimony of Frigo’s president or its other employees.
+[5] If this reassessment had been issued in a timely fashion, the facts in evidence would establish, on a balance of probabilities, that the appellant is entitled to the ITCs claimed for the GST paid to its suppliers in accordance with the ETA, notwithstanding that those suppliers failed to remit to the tax authorities the GST they collected. There is no evidentiary basis sufficient to support the section 285 penalties.
+II. The Law and Jurisprudence [6] The relevant provisions of the ETA and the Input Tax Credit Information (GST/HST) Regulations (the “Regulations”) are set out below:
+Excise Tax Act
+Input Tax Credits
+. . .
+Required documentation
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+Input Tax Credit Information (GST/HST) Regulations
+2 In these Regulations,
+. . .
+“intermediary” of a person, means, in respect of a supply, a registrant who, acting as agent of the person or under an agreement with the person, causes or facilitates the making of the supply by the person; (intermédiaire)
+. . .
+3 For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under section 241 of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+Loi sur la taxe d’accise
+Crédit de taxe sur les intrants
+[...]
+Documents
+169(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH)
+2 Les définitions qui suivent s’appliquent au présent règlement.
+[...]
+« intermédiaire » Inscrit qui, agissant à titre de mandataire d’une personne ou aux termes d’une convention conclue avec la personne, permet à cette dernière d’effectuer une fourniture ou en facilite la réalisation. (intermediary)
+[...]
+3 Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément à l’article 241 de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+[...]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[7] The Federal Court of Appeal (the “FCA”) stated very clearly in Systematix Technology Consultants Inc. v. H.M.Q., 2007 FCA 226 (at paragraphs 4 to 6) that purchasers must strictly comply with the mandatory requirements in subsection 169(4) of the ETA and section 3 of the Regulations that the invoice or supporting documentation in respect of the supply include the name of the supplier or the intermediary in respect of that supply, or the name under which the supplier or intermediary does business, and that person’s valid GST registration number. If the purchaser does not do so, it is not entitled to an ITC in respect of the supply. (See also this Court’s comment at paragraphs 24 to 30 and 33 of Comtronic Computer Inc. v. H.M.Q., 2010 TCC 55, addressing the requirement that the GST registration number provided must have been validly assigned to the supplier or intermediary involved—i.e. that the person making the supply must be the GST registrant.)
+[8] H.M.Q. v. Salaison Lévesque Inc., 2014 FCA 296, involved a somewhat similar fact situation in which a number of placement agencies had provided services by workers. The tax authorities denied the ITCs on grounds that included that the services were not provided by the placement agencies, that they did not have the business resources to provide them, and that the purchaser, Salaison Lévesque, was not acting in good faith, but was part of a scheme involving false invoices and/or invoices of convenience. In this Court, Justice Tardif found for Salaison Lévesque. In dismissing the appeal, Justice Gauthier of the FCA wrote the following for that Court:
+[13] For an invoice to be one of accommodation or convenience, the party receiving the invoice must be involved in some kind of scheme as the invoice issuer presumably made this invoice to comply with the demands or expectations of the receiving party (for a typical example, see Pro-Poseurs Inc. v. Canada, 2012 FCA 200).
+[14] Before this Court, the appellant distinguished between a [translation] “false invoice” and an [translation] “invoice of accommodation or of convenience”. In my opinion, the phrase “false invoice” can indeed cover several types of situation[s], including invoices of accommodation or of convenience. The phrase is broader in scope as it can encompass situations where the invoice recipient is not party to a scheme, but the invoice is incorrect to the issuer’s knowledge, for various reasons: for example, the name of the supplier appearing on the invoice does not match the supplier to which the registration number was attributed or the company issuing the invoice does not actually exist. There is no need to say more about this matter here as truth is often stranger than fiction, and I could not provide a complete list of all possible scenarios.
+[15] However, I understand from the appellant’s argument that, before this Court, she is no longer alleging that the invoices were indeed invoices of accommodation or of convenience, as defined above.
+. . .
+[17] In obiter, the judge also made a number of comments on issues apparently raised by the appellant in its arguments or in the auditors’ reports (for example, the fact that Salaison could have checked with the CSST whether the agencies were complying with the requirements). These fairly general observations seem to have created confusion about what there was to determine in the present matter and especially about what is relevant to satisfy the strict requirements of the Act and the Regulations in the sense enunciated by this Court in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226. The Regulations are clear, and the only actual issue before the judge in the present matter was to determine whether Salaison had produced invoices describing the name of the service supplier of the intermediary as required by the Regulations. That is a question of fact.
+. . .
+[23] Nonetheless, the judge also states clearly in paragraph 8 of his reasons that “[d]espite certain inconsistencies, the burden is on the appellant to show that the invoices related to the ITCs claimed meet the mandatory requirements prescribed by the [Regulations] and, specifically, that there were, in fact, bona fide commercial transactions between it and the Agencies”. It is on this basis that the judge then examines the evidence.
+. . .
+[26] There is no doubt that once the Minister’s presumptions and assumptions were demolished, the appellant had to prove on a balance of probabilities the merit of her position that the names of the suppliers or the intermediaries on the invoices were not correct for Salaison’s appeal to be dismissed (Hickman, paragraph 94). The judge rightly states at paragraph 54 that the appellant’s evidence was insufficient: it “does not pass the preponderance test”.
+. . .
+[34] Salaison did not dispute that the reasons contained some errors; it limited itself to stating, correctly, in my opinion, that these errors were not overriding because ample evidence allowed the judge to conclude that Salaison had discharged its burden of demolishing the Minister’s assumptions by presenting prima facie evidence and that the appellant had failed to establish on a balance of probabilities that these services had not been provided by the suppliers whose names appeared on the invoices. I agree.
+III. Facts and Evidence [9] Frigo operates a large frozen food products warehouse. Its gross revenue in the years in question was in the seven-million-dollar range annually. At the time, Frigo had about 50 employees working in administration, logistics, operations and supervisory positions, as well as its forklift drivers. Its warehouse was staffed and operating 24 hours a day, five days a week. Frigo had 25 trailers it used to bring its customers’ products to and from its warehouse as requested.
+[10] In addition to its employees, Frigo had been hiring casual workers, on its own and using placement agencies, since its operations began. These workers were to load and unload containers arriving at and leaving the warehouse as required. In the years in question, all of these warehouse workers were supplied to Frigo by placement agencies. Over the years, Frigo had used a large number of casual or temporary worker placement agencies, and only the services of the five agencies at issue caused it concern.
+[11] Frigo’s president, Mr. Bergeron, did not have much involvement with warehouse operations, except to deal with client feedback and concerns. In the years in question, the services of Frigo’s director of transport, Alain Bussière, were provided through his personal services company.[1] Mr. Bussière was responsible for warehouse transportation logistics, would arrange the scheduling and order of trailers being unloaded and loaded by the workers, and would coordinate that and the timing thereof with the director of operations and warehouse foreman or supervisor. The director of operations and the foreman would plan the number of containers to be loaded and unloaded each day and would inform Mr. Bussière of the number of workers needed for each day. Mr. Bussière would arrange with placement agencies for the required number of workers.
+[12] There is no suggestion that the workers did not attend and get the needed work done for Frigo. The work done by these workers was clearly integral and vital to Frigo’s business on a virtually daily and uninterrupted basis. Frigo was not denied a deduction for the work or services in computing its taxable income.
+[13] The respondent has not been able to identify any other person than these agencies that employed or paid these workers. There is literally no evidence suggesting Frigo or any other company hired or paid these workers, or that they were self-employed independent contractors.
+[14] I do not need to determine conclusively who owned and operated these placement agencies, though it would be helpful. It is sufficient for me to determine the scope of the roles, involvement, and knowledge of Frigo, its president and its other employees. I can do that only based on the evidence I have been given. The evidence leads to a finding that it is more likely than not that these placement agencies supplied these workers to Frigo, and that these agencies were directed by Mr. Bussière in his own personal capacity in these matters.
+[15] Mr. Bergeron, the president, and Sherry Hay, the director of administration and finance at Frigo, testified to the company having a procedure in place to verify that new suppliers were on the provincial business register and had valid GST and provincial tax registration numbers. Ms. Hay was responsible for accounting and bookkeeping, accounts payable and receivable, human resources, and payroll. In the years in question, these verifications were done with these placement agencies as with all other suppliers. She said her role was effectively to be Mr. Bergeron’s right-hand person and the verification procedure was put in place at his direction. Ms. Hay received the placement agencies’ invoices for payment directly from Mr. Bussière. She referred to them as Mr. Bussière’s agencies. She confirmed that Mr. Bussière was not on Frigo’s payroll. She said Mr. Bergeron was on site only three days a week on average. Ms. Hay was cross-examined on these aspects. I have no reason to doubt her reliability or her credibility.
+[16] Mr. Bergeron testified that Mr. Bussière was fired on the spot on the same day in 2018 that Frigo learned about the placement agencies’ tax situations from the tax authorities. He said this was done on his express instructions. He said he had never spoken with Mr. Bussière about any of these agencies. The tax authorities had conducted an extensive audit. Mr. Bergeron was cross‑examined. The Court was not presented with anything substantive that brings his credibility into doubt.
+[17] Luc Cléroux was Frigo’s director of operations in 2013, after having worked with Mr. Bergeron for many years. He understood that the agency relationships were put in place by Mr. Bussière. He explained that he and the warehouse foreman would plan each day’s transportation in and out of the warehouse and that Mr. Bussière would be informed of the number of workers needed for each day. This was also confirmed by Pierre Liboiron, the supervisor/foreman, who described going to tell Mr. Bussière or texting him with this information. Mr. Cléroux confirmed that he had fired Mr. Bussière on Mr. Bergeron’s instructions the same day Frigo learned of the placement agencies’ tax issues.
+[18] On cross-examination, Mr. Cléroux acknowledged he could not remember the answers to specific questions about certain meetings, conversations or requests for documents. In the circumstances, this does not affect my assessment of his credibility. These events occurred 10 or more years ago. The participants’ lack of clear memories is precisely one of the reasons why there are limitation periods.
+[19] The respondent did not get any helpful evidence from Mr. Bergeron, Mr. Cléroux, Mr. Liboiron or Ms. Hay to prove, on a balance of probabilities, that Frigo made a misrepresentation that is attributable to neglect, carelessness or wilful default, or that it committed fraud, such that a reassessment could be made. The respondent also failed to damage these witnesses’ credibility. Their limited recollection of the details of the arrangements and transactions was consistent with their particular roles in this particular business from 2011 to 2014. It is understandable, given that ARQ had asked Frigo some questions but did not raise any issues with it until 2018. This is one of the reasons our governmental and judicial systems have limitation periods. These witnesses’ level of knowledge of the different relevant aspects of Frigo’s business was clearly consistent with the position and offices they each held.
+[20] Mr. Bussière testified. He confirmed that Mr. Cléroux and Mr. Liboiron would let him know each day how many workers would be needed for the following day. He confirmed that he located the placement agencies for workers from his contacts and from persons who worked at Frigo. One of the agencies had given Mr. Bussière cheques made out to him, but he had no idea why or what for, and he said he must have bought things for it. There were other cheques paid out to Mr. Bussière that he could not adequately explain.
+[21] Mr. Bussière acknowledged that Mr. Cléroux fired him and that could have been in 2018. He said he was not really given a reason, and when asked again, he said he was not given any explanation.
+[22] The only worker who testified said that Mr. Bussière:
+hired him;
+set his work schedule;
+paid him; and
+was whom he contacted when he was unable to work.
+He could not identify what placement agency he was working for or paid by, simply that it was Mr. Bussière. He did not describe Mr. Bussière in his capacity as Frigo’s representative, but just spoke about Mr. Bussière himself. He did not know or recognize any of the names of the placement agencies, or of the persons representing those agencies according to their business records in evidence.
+[23] Mr. Bussière’s brother-in-law testified that he had been involved in one of Mr. Bussière’s placement agencies in the past. They were equal partners, but the brother-in-law was the named administrator and Mr. Bussière was a silent partner who actually ran the operations. The witness found that the business operated in the grey, that nothing was clear, that there were no records, and that he was told several different stories by Mr. Bussière at different times. He decided that it was too good to be true and withdrew his involvement and his $15,000 investment.
+[24] The respondent subpoenaed the bookkeeper/accountant for one of the placement agencies to testify and bring all relevant documents. He testified that after 11.5 years, he could not find any documents. Again, the Court notes that the loss of records is another reason for limitation periods. This witness said he had nothing to do with Frigo and did not know either Mr. Bergeron or Pierre Liboiron. He said he had no relationship with Mr. Bussière and was not his bookkeeper or accountant. He did admit to having met Mr. Bussière a couple of times as his father was a driver for Frigo when Mr. Bussière was the dispatcher. In cross-examination, he acknowledged meeting with Mr. Bussière at Frigo four or five times.
+[25] The Court also heard from other witnesses associated with the placement agencies, at least according to their records. In the circumstances, I have significant concerns regarding the reliability and credibility of these witnesses and Mr. Bussière. Given my assessment that Mr. Bussière personally directed the placement agencies, these others either were duped by Mr. Bussière to participate in the placement agency scheme or were willing participants. In any event, none of them implicated Frigo, Mr. Bergeron or any other employee of Frigo in the operations of the placement agencies.
+[26] One of the ARQ auditors testified that he was assigned the Frigo file in 2013 to audit its supplies and ITCs. He acknowledged in cross-examination that he had his doubts and thought these may be false invoices, and that his audit did not remove his doubts. One of the placement agencies had been audited by ARQ starting in 2010 and that audit report was completed in 2012. Again, no explanation was given to the Court as to why the placement agency’s tax-related failures were not drawn to Frigo’s attention in some fashion nor as to why its registration was not suspended. However, four years later, the respondent decided to essentially collect the unremitted amount from Frigo by denying its ITCs on the GST paid on those placement agencies’ invoices, although it is not disputed that the placement agencies remained GST registrants using the names and registration numbers appearing on the invoices delivered to Frigo and paid by Frigo.
+IV. Analysis and Conclusion [27] I am unable to determine how these agencies found their workers, or whether they subcontracted their supplies of workers for Frigo to another person or entity. Frigo ordered its supply of workers from these agencies. These agencies were GST registrants that invoiced Frigo and were paid by Frigo for the workers’ services together with GST. I find on the evidence presented that the only alternative to these agencies being Frigo’s actual suppliers is that these agencies were intermediaries for one or more other suppliers.
+[28] I am not blind to what may have been going on. However, the respondent has not provided evidence that shows, on a balance of probabilities, that the appellant, its president or another employee was aware of, participating in, or complicit in its registered suppliers’ tax failures. It is not sufficient that this appears to have been a scheme that Mr. Bussière was a part of, or aware of or should have been aware of, outside of his mandate at Frigo but involving Frigo using these placement agencies. Mr. Bussière never brought this issue to Frigo’s attention.
+[29] There is no evidence of payments between Mr. Bussière and Frigo or Mr. Bergeron.
+[30] Frigo received services, paid for the services and the appropriate GST charged by the supplier, who was a GST registrant, on an invoice that complied with the Regulations, and recorded it all in its accounting records and its tax filings. Frigo had properly verified the placement agencies’ tax and business registration status, as it did with all of its new suppliers and as required by the legislation, which includes using the tax authorities’ available databases specifically for these purposes. There is no evidence to suggest this was not all done by Frigo in good faith, or that it did not follow reasonable commercial practices.
+[31] Not only was Frigo not informed of the suppliers’ GST shortcomings by Mr. Bussière or anyone else involved, but the tax authorities were also fully aware of the registrant suppliers’ failures to remit GST collected and did not make inquiries to, or otherwise alert, the appellant. The respondent allowed, indeed required, these defaulting registrants to continue to collect GST on its behalf. The registration of one placement agency was cancelled by the tax authorities twice during the periods in question, and both times its registration was reactivated. Nor did the tax authorities in any way limit these non-compliant registrants from continuing to use their GST registration numbers, or post any caution to their potential future clients on the publicly accessible systems that businesses must use to verify that suppliers’ registrations are valid.
+[32] Clearly, there are systemic solutions available to the CRA and its agent ARQ to address fraudulent GST schemes. Parliament can amend the legislation to address them. Additional specific obligations have been imposed and information systems put in place to address false invoice schemes.
+[33] I cannot read into the ETA and the Regulations an unstated obligation on every Canadian business buying commercial supplies to perform additional due diligence with respect to each of its duly registered suppliers, which would include, as the respondent claims in this case, reviewing the new supplier’s physical place of business, its arrangements with its workforce, whether it intends to use subcontractors in making the supply, and more—all without having any way of even knowing if the duly registered and verified supplier is in arrears in remitting its GST collected, its employee withholdings or provincial sales taxes, or is otherwise non-compliant with its tax obligations. If Parliament had intended that these or similar verification obligations and associated financial risks and penalties be imposed upon each Canadian business buying anything from another Canadian business, I would expect that to be clearly stated in the federal legislation, whether in broad general language or in detailed specific provisions. Parliament has not done that. Nor is the Court aware if Parliament has considered other means of enabling the tax authorities to address such schemes in a manner that maximizes the due collection of the GST Canadian consumers pay while minimizing the burden imposed on all Canadian businesses, which Canadian consumers would then also bear.
+[34] If greater verification measures are required in the area of ITCs claimed on GST or HST collected by registered suppliers on behalf of, and as required by, the tax authorities, that is the responsibility of the CRA and ARQ, not Canadians engaged in commercial activities. If stronger legal obligations are to be imposed on ITC claimants with respect to the unremitted taxes of their suppliers, that is up to Parliament, not this Court.
+[35] It is not open to the Court to do what is asked by the respondent based on the facts in evidence in this case.
+[36] The appeal is allowed and the reassessment is vacated, with costs.
+Signed at Ottawa, Canada, this 27th day of May 2024.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 7th day of March 2025.
+Melissa Paquette, Senior Jurilinguist
+CITATION:
+2024 TCC 78
+COURT FILE NO.:
+2021-1352(GST)G
+STYLE OF CAUSE:
+ENTREPÔT FRIGORIFIQUE INTERNATIONAL INC. AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARING:
+September 18, 19, and 20 and November 29, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+May 27, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Serge Fournier
+Anaïs Versailles (articling student)
+Counsel for the Respondent:
+Josée Fournier
+Stéphanie Douville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Serge Fournier
+Anaïs Versailles (articling student)
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Mr. Bussière owned and operated one or more worker placement agencies, but those agencies that he is known to have owned and operated are not any of those involved in this appeal.

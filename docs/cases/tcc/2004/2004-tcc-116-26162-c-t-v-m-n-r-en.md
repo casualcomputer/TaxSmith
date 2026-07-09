@@ -1,0 +1,165 @@
+---
+title: "Côté v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26162/index.do"
+last_modified: "2004-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 116"
+citation2: ""
+neutral_citation: "2004 TCC 116"
+decision_date: "2004-01-26"
+language: "en"
+item_id: "26162"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3960
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:52:44.733000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b6f2fd62efc2cf1183e181dd85f4fd189fb0c68cd1aee9fd7526616df60c8c9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Côté v. M.N.R.
+
+- Citation: 2004 TCC 116
+- Decision date: 2004-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3960, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-26
+Neutral citation
+2004 TCC 116
+File numbers
+2003-1640(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1640(EI)
+BETWEEN:
+MICHELINE CÔTÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 26, 2004, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nancy Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act ("the Act") is allowed and the decision of the Minister of National Revenue, dated March 10, 2003, is amended on the basis that the Appellant's employment with Les Murs Secs DM Inc. during the period from November 5, 2001 to November 9, 2002 was not excluded from insurable employment under paragraphs 5(2)(i) and 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 5th day of February 2004.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 9th day of March 2009.
+Brian McCordick, Translator
+Citation: 2004TCC116
+Date: 20040205
+Docket: 2003-1640(EI)
+BETWEEN:
+MICHELINE CÔTÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from a decision of the Minister of National Revenue ("the Minister") whereby he determined that the Appellant's employment with Les Murs Secs DM Inc. ("the Payor") during the period from November 5, 2001 to November 9, 2002 was excluded from insurable employment under paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act ("the Act"). These provisions read as follows:
+5. (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+5. (3) For the purposes of paragraph (2)(i),
+. . .
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[2] The Minister found that the Appellant's employment was not insurable during the period in issue because there was a non-arm's length relationship between the Appellant and the Payor and the terms and conditions of work would not have been similar if they had been dealing with each other at arm's length (see paragraphs 6, 7 and 8 of the Reply to the Notice of Appeal ("the Reply")). The presumptions of fact on which the Minister relied in making his decision are found in paragraph 5 of the Reply and read as follows:
+[Translation]
+(a) The Payor, incorporated in 1998, operated a construction business specializing in the finishing of gyprock joints.
+(b) Michel Dion, the Appellant's spouse, was the Payor's sole shareholder and president.
+(c) The Payor hired up to 35 specialized workers.
+(d) The Payor also hired an outside bookkeeper who was primarily involved in the preparation of the Payor's tax return and financial statements.
+(e) The Payor hired the Appellant as a secretary-receptionist.
+(f) The Appellant's major duties consisted in:
+- Preparing the weekly payrolls.
+- Invoicing customers.
+- Following up on invoices and collecting on accounts receivable.
+- Paying bills.
+- Recording the Payor's transactions.
+- Making some trips to collect on accounts, pick up materials and deliver them to the various worksites.
+(g) The Appellant performed her main duties at the family residence.
+(h) The Appellant had fixed work schedule; she worked between 30 and 50 hours per week.
+(i) The Appellant received fixed weekly remuneration; initially she was paid $300 per week, which was increased to $400 per week in January 2002 and to $600 per week at the end of March 2002.
+(j) During the period in issue, therefore, the Appellant's remuneration rose from $300 to $600 per week without any increase in her duties.
+(k) The Payor ceased its operations on November 9, 2002, and declared bankruptcy on December 19, 2002.
+(l) After being laid off, the Appellant continued to render services to the Payor on a voluntary basis.
+[3] With regard to paragraph (l) quoted above, the Appellant explained that it was the trustee in bankruptcy who asked her to prepare the T-4 slips for the employees so they would have a right to the claim in bankruptcy. She was to be paid by the trustee, but this did not occur.
+[4] The Appellant and her husband, Michel Dion, said that the Payor had existed since 1998. The Appellant had worked there since 1999, performing the same duties. She handled the day-to-day bookkeeping, the employees' payroll, the entries in the books, the forms to be completed for each employee for the Commission de la santé et de la sécurité du travail ("CSST") and the Commission de la construction du Québec ("CCQ"), the invoicing and collection of accounts, and she also acted as secretary-receptionist. The description of her duties was filed as Exhibit A-1. The Appellant worked from her personal residence, where the Payor's office was located. She worked between 30 and 50 hours per week.
+[5] Mr. Dion explained that he would have been unable to hire someone else to do the same work at more than $300 per week before 2002. In 1999, he had only five or six employees and the number of employees rose gradually to 30 by 2002.
+[6] He said he obtained two big contracts, one in the fall of 2001 at Place Ville-Marie in Montréal and the other in March 2002 at Place Bonaventure in Montréal. That is why, after hiring the necessary employees, he gave the Appellant a raise to $400 per week at the beginning of 2002 and to $600 per week at the end of March 2002. It was the Appellant who pointed out to Mr. Dion that she deserved a higher salary, more representative of the pay for such employment in the construction industry. This was confirmed by the accountant, Marius Poulin. Accordingly, Mr. Dion increased the Appellant's salary in 2002 since the economic context of the business allowed it, with the award of those two new large contracts. Unfortunately for the Payor, it was not paid promptly enough by the customer and was therefore unable to bear the costs related to the execution of those contracts. It had to lay off several employees in mid-July 2002, bringing the number of employees down to 20. It terminated the Place Bonaventure contract in September 2002, and in November 2002 the Payor had to cease all of its operations. It declared bankruptcy in December 2002.
+[7] It is true, as I commented at the hearing, that the Appellant was probably underpaid before her salary was readjusted to $600 per week in March 2002. In fact, Mr. Poulin mentioned that a secretary in a similar business could earn up to $700 per week in 2003. It is also true that a third person might not have agreed to work for $300 per week for the duties the Appellant was performing. However, if we take into account the economic context of the business at the time when the Appellant's salary was determined, it is also possible that a third person would have accepted such a salary in the knowledge, like the Appellant, that the arrival of new contracts would bolster the Payor's finances and thereby increase her salary.
+[8] In Légaré v. Canada, [1999] F.C.J. No. 878 (Q.L.) and Pérusse v. Canada, [2000] F.C.J. No. 310 (Q.L.), cited with approval in Valente v. Canada, [2003] F.C.J. No. 418 (Q.L.), Massignani v. Canada, [2003] F.C.J. No. 542 (Q.L.), Bélanger v. Canada, [2003] F.C.J. No. 1774 (Q.L.) and Staltari v. Canada, [2003] F.C.J. No. 1771 (Q.L.), the Federal Court of Appeal had the following to say about the role of the Tax Court of Canada on appeals from ministerial decisions under paragraph 5(3)(b) of the Act:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable. [See paragraph 14 of Pérusse.]
+[9] Thus, as Marceau J.A. of the Federal Court of Appeal said in Pérusse, supra, at paragraph 15:
+15. The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[10] It appears from the Reply that the factual information on which the Minister relied in making his determination was that the Appellant was working from her family residence, she had no fixed work schedule although she worked between 30 and 50 hours per week, and her remuneration had doubled during the period in issue without any increase in her duties. Concerning the fact that she worked from home, the Appellant worked in the office of the business, which was located in the residence. As to the work schedule, she was working between 30 and 50 hours per week, which does not leave much time for personal activities during the week. The Appellant said, moreover, that she ran her personal errands on Saturdays.
+[11] Finally, the most important factor considered by the Minister, in my opinion, is the significant increase in salary in 2002 for performing the same duties. Here, I am of the opinion that the explanations given by Mr. Dion justify, on a balance of probabilities, that the Appellant's salary went from $300 per week in 2001 to $600 in 2002. In this way he brought the Appellant's salary up to the norm. This raise was also explained by the economic context of the business, as described by Mr. Dion. With the award of two major contracts, it was justified to increase the Appellant's salary. In my opinion, with the new light shed by the testimony of Mr. Dion and Mr. Poulin, the Minister's decision no longer appears "reasonable" in the circumstances.
+[12] Counsel for the Respondent ultimately argued the point that I had raised in evidence, namely that the Appellant was paid a lower salary than the norm in the industry and that a third party might not have agreed to work under the same terms and conditions. This is not a factor that weighed in the Minister's decision and, in my opinion, as I explained at paragraph 7 above, it is not a preponderant factor to consider in the circumstances.
+[13] In view of the foregoing, and the evidence before me, I am of the opinion that the facts relied on by the Minister were not assessed correctly by taking into account the context in which they occurred. Consequently, the Minister's decision no longer appears reasonable to me in the circumstances.
+[14] For these reasons, the appeal is allowed and the Minister's decision is amended on the basis that the Appellant's employment with the Payor during the period from November 5, 2001 to November 9, 2002 was insurable employment not excluded under paragraphs 5(2)(i) and 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 5th day of February 2004.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 9th day of March 2009.
+Brian McCordick, Translator
+CITATION: 2004TCC116
+COURT FILE NO.: 2003-1640(EI)
+STYLE OF CAUSE: Micheline Côté v. M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 26, 2004
+REASONS FOR
+JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 5, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Nancy Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

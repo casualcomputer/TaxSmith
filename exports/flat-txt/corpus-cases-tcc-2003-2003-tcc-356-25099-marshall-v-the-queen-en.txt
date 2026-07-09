@@ -1,0 +1,153 @@
+Title: Marshall v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25099/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-356-25099-marshall-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-08
+
+# Marshall v. The Queen
+
+- Citation: 2003 TCC 356
+- Decision date: 2003-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2508, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marshall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-08
+Neutral citation
+2003 TCC 356
+File numbers
+2002-1584(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1584(IT)I
+BETWEEN:
+PAUL MARSHALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 9, 2003 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Richard G. Fitzsimmons and
+Leigh Taylor (Student-at-Law)
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 8th day of July 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC356
+Date: 20030708
+Docket: 2002-15784(IT)I
+BETWEEN:
+PAUL MARSHALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant is the father of twin sons, Ryan Marshall ("Ryan") and Christopher Marshall ("Christopher"). Ryan and Christopher were born on the 23rd day of December 1982.
+[2] In the 2000 year Ryan and Christopher attended The Robert Land Academy ("the Academy") in Wellandport, Ontario. The Appellant paid tuition fees, room and board to the Academy for Ryan and Christopher.
+[3] In computing his tax payable in his return of income for the 2000 taxation year, the Appellant claimed a medical expense credit in the amount of $42,662.00 as tuition and room and board for his sons Ryan and Christopher.[1]
+[4] The Minister of National Revenue (the "Minister") disallowed the medical expense credit claim made by the Appellant on the basis that there was no indication in the documents submitted to the CCRA that Ryan or Christopher suffered from a physical or mental handicap that requires the special equipment, facilities or personnel of the school, institution or place or that "the institute provides special equipment, facilities or personnel for the care and training of a person suffering from a physical or mental handicap.
+[5] By Notification of Confirmation dated the 1st day of February 2002 the Minister stated that the said $42,662.00 was not a medical expense under paragraph 118.2(2)(e) of the Income Tax Act (the "Act") and that the Appellant was therefore not entitled to claim a medical expense credit under subsection 118.2(1) of the Act.
+B. ISSUE
+[6] The issue is whether the Minister properly disallowed the claim of a non-refundable medical expense credit in respect of school tuition expenses in the amount of $42,662.00 for the Appellant's 2000 taxation year.
+C. ANALYSIS
+[7] During the hearing counsel for the Appellant produced Dr. Anthony Richard Eldon Laws as an expert witness. Counsel for the Appellant also filed a Report prepared by Dr. Laws.
+[8] Dr. Laws obtained a Degree in Medicine from McMaster University in 1986 and did his specialty training at Queen's University in the Department of Pediatrics. Dr. Laws became a Clinical Teaching Fellow at Queen's University and did a sub-specialty in behavioural and development pediatrics.
+[9] Dr. Laws explained that he centred his training in children who have learning difficulties and behavioural difficulties.
+[10] Dr. Laws has carried on a medical practice in Oakville, Ontario since 1991.
+[11] Counsel for the Appellant asked Dr. Laws to explain what pediatrics means and Dr. Laws replied as follows:
+A. The science and art of caring for children.
+Q. Children from infancy to what age?
+A. Generally from birth to 16 or 18 and now a lot of children who have special needs may not develop chronologically to adult age. I will look at children who may be 18 or 19 or in their early 20's but because of their neurological condition may be acting in an age group much younger than they are.
+(Transcript, pages 6-7.)
+[12] In the Examination-in-Chief Dr. Laws said the following:
+A. I hereby certify, for the purposes of paragraph 118.2(2)(e) of the Income Tax Act, that Ryan Marshall is a person who, from January 2000 to date, by reason of physical or medical handicap, namely Attention Deficit Disorder and related handicaps, has required, and continues at present to require, the equipment, facilities and personnel specially provided by The Robert Land Academy for the care and training of teenage boys suffering from the handicaps suffered by him.
+(Transcript, p. 15.)
+A. I hereby certify, for the purposes of paragraph 118.2(2)(e) of the Income Tax Act, that Chris Marshall is a person who, from January 2000 to date, by reason of a physical or medical handicap, namely, Attention Deficit Disorder and related handicaps, has required, and continues at present to require, the equipment, facilities and personnel specially provided by The Robert Land Academy for the care and training of teenage boys suffering from the handicaps suffered by him.
+(Transcript, p. 18.)
+[13] Counsel for the Appellant asked the following questions of Dr. Laws:
+Q. Now, the last question I have for you I'm not sure if we've already asked it, but I just want to make sure I did, is are you able to tell His Honour what specific equipment, facilities or personnel are specially provided by this academy as opposed to any other school or institution, that are specially provided for the care or the care and training of children suffering from ADD? I think we've already gone over that, but I just want to make sure we have.
+A. Foremost, it would be is that they've got staff who are trained to identify children with this condition and to be able to work with them. The biggest certainly would be the staff, and I've known the headmaster for a number of years and have had a number of discussions with him and have provided information sessions for some of this staff.
+They also have equipment which would help children who are slow learners so that they can process information, including from current technology, computers, language labs. They also have, I suppose, which is also very important, a philosophy of identifying children that do have special needs that if you can work on your challenges, that you can be successful.
+And this is a unique school, and I'm a consultant to a number of private schools, but this is one that certainly does have the personnel, resources, the equipment, the discipline, the philosophy of dealing with children with attention deficit disorders and other behaviour and related problems.
+Q. Thank you. Can you finally confirm for the record that you are at arm's length from the academy? You're not on their staff? You're not paid by them?
+A. Not at all. They have referred several patients to me and I do get invited to some of their functions. They have asked me to come in and talk, and I have done that on a gratis basis because I have been impressed with what the school has done for a number of students in the past.
+Q. Thank you. No further questions, Your Honour.
+(Transcript, pp. 19-21.)
+[14] Counsel for the Respondent asked the following questions of Dr. Laws:
+Q. Specifically then what sort of treatment did Robert Land Academy provide to Ryan and Christopher?
+A. The treatment that they provided, first of all, is a disciplined environment where, when the child or student or cadet attends there, they learn very quickly that they have to develop a social behaviour, and if they don't meet that behaviour code, then there will be a consequence and the consequence will be consistent and constant for them. And that's not only for these two children, but for all the cadets that attend at that school.
+(Transcript, p. 29.)
+[15] His Honour asked the following questions of Dr. Laws:
+One final question. I gather from your comments that you put the academy in a very high rating in terms of a private school with a very good philosophy for people with -
+Witness:
+With this sort of condition, there are very few schools in Canada that have the facilities, the resources and certainly the staff that Robert Land does.
+His Honour:
+Just let me clarify one thing. The equipment and facilities and the personnel that's provided by the academy assist people that suffer from these handicaps?
+Witness:
+That's correct.
+(Transcript, pp. 36-37.)
+[16] Dr. Laws also testified that his case load of patients at any one time is between 900 and 1,000, and the majority of those, 60 to 70 per cent, will have an attention deficit disorder. (Transcript. p. 35.)
+[17] I also note that in a memo dated November 13, 2001 Dr. B. Fogel referred to a meeting with Ryan and Christopher on April 19, 2000 and said: "Both these young men suffer from Attention Deficit Disorder".
+[18] I was very impressed with the evidence provided by Dr. Laws. From a careful analysis of the testimony of Dr. Laws I have concluded as follows:
+1. Ryan and Christopher were dependents of the Appellant in the 2000 taxation year;
+2. Ryan and Christopher have each been certified by Dr. Laws to be a person who by reason of a physical or mental handicap, required the equipment, facilities and personnel specially provided by the Academy for the care, or the care and training of individuals suffering from the handicaps suffered by them;
+3. The amount of $42,662.00 that was paid by the Appellant in the 2000 taxation year for the care and training of Ryan and Christopher was a medical expense within the meaning of paragraph 118.2(2)(e) of the Income Tax Act.
+[19] Subsection 118.2(1) provides that a taxpayer may deduct those medical expenses paid within any 12-month period ending in the year. The Appellant filed a Notice of Appeal for the 2000 taxation year. I was unable to determine from the information contained in Tabs 20, 21 and 22 of Exhibit A-1 when the Appellant paid the fees to the Academy. In order to obtain a deduction for the 2000 taxation year the Appellant must satisfy officials of the CCRA how much he paid to the Academy in the 2000 taxation year.
+[20] The appeal for the 2000 taxation year is allowed, without costs.
+Signed at Vancouver, British Columbia, this 8th day of July 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC356
+COURT FILE NO.:
+2002-1584(IT)I
+STYLE OF CAUSE:
+Paul Marshall and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+May 9, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+July 8, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Richard G. Fitzsimmons and
+Leigh Taylor (Student at law)
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Richard G. Fitzsimmons
+Firm:
+Fitzsimmons & Company
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Counsel for the Appellant said that the Appellant actually paid the Academy $50,000.00. However, it was not established that the payment of $50,000.00 was made in the 2000 taxation year.

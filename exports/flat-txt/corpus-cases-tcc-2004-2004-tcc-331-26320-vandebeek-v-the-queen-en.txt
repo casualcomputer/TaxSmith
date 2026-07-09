@@ -1,0 +1,137 @@
+Title: Vandebeek v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26320/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-331-26320-vandebeek-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-05
+
+# Vandebeek v. The Queen
+
+- Citation: 2004 TCC 331
+- Decision date: 2004-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3267, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vandebeek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-05
+Neutral citation
+2004 TCC 331
+File numbers
+2003-3587(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3587(GST)I
+BETWEEN:
+JOHN TEUNIS VANDEBEEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on December 17, 2003 at Kelowna, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Robert S. MacLeod
+Counsel for the Respondent:
+Stacey Michael Repas
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent seeking to quash the Appellant's appeal on the grounds that the appeal does not comply with the statutory requirements of the Excise Tax Act;
+And upon motion made by the Respondent for an Order extending the time within which to file the Reply to the Notice of Appeal;
+The motion to quash is dismissed in accordance with the attached Reasons for Order. The Respondent will have 60 days from the date of this Order to file a Reply to the Notice of Appeal.
+Signed at Vancouver, British Columbia, this 5th day of May 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC331
+Date: 20040505
+Docket: 2003-3587(GST)I
+BETWEEN:
+JOHN TEUNIS VANDEBEEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS:
+[1] The Appellant resides with his wife and four children in Westbank, British Columbia.
+[2] In 1997 and 1998 the Appellant was carrying on a construction business in the Kelowna area. The Appellant testified that he paid Goods and Services Tax ("GST") on material and supplies that he used in his business.
+[3] In June 1998 the Appellant completed and filed a Goods and Services Tax Return ("Return") for the reporting period April 2, 1997 to December 31, 1997 (the "Period").
+[4] In the Return the Appellant claimed a refund in the amount of $95.01. However the Appellant testified during the hearing that he now realizes that he made a mistake when he prepared the Return. The Appellant said that he should have claimed a refund in the amount of $8,499.35, equal to the input tax credits that he was entitled to rather than a refund in the amount of $95.01.
+[5] Officials of the Canada Customs and Revenue Agency ("CCRA") carried out an audit on the Appellant for the Period. Officials of the CCRA issued an arbitrary assessment against the Appellant for the Period.
+[6] During the time that the audit was conducted by officials of the CCRA the Appellant and his spouse were experiencing marital problems. During this time the Appellant was living and working in the Province of Alberta and the Appellant's spouse and their four young children were living in Westbank, British Columbia. The Appellant said that he attempted to visit his family in Westbank during the weekend every four or five weeks. The Appellant said that he would drive from Alberta to Westbank on Friday afternoon and return to his job location in Alberta on Sunday.
+[7] The Appellant testified that he spent Christmas with his family in December 1999. During that time the Appellant became aware of a potential GST liability related to the Period. The Appellant testified that he telephoned an official of the CCRA on December 21, 1999 regarding his tax liability and he was advised that he should file a Notice of Objection.
+[8] On December 21, 1999 the CCRA official sent the Appellant a blank copy of a Notice of Objection Form by fax.
+[9] The Appellant testified that he completed the Notice of Objection Form. The Appellant said that he personally delivered the Notice of Objection Form to the Kelowna office of the CCRA on December 23, 1999.
+[10] The Appellant also testified that in early January 2000 he received a letter dated January 6, 2000 from Mr. Nelson of the CCRA. The letter from Mr. Nelson contained the following statement:
+We have cancelled the "Requirement to Pay" dated December 8, 1999, which we sent to you under the "Excise Tax Act".
+You do not have to make any more deductions as of this date. . . .
+(Note: Counsel for the Respondent said that he was not aware of this letter.)
+[11] During the hearing the Appellant said that he believed that this letter from Mr. Nelson was advising him that the GST issue was resolved in his favour.
+[12] The Appellant said that in the year 2000 he was still commuting on a weekend every four or five weeks between Westbank and his job in Alberta. During the monthly visits to Westbank the Appellant said that he would attempt to deal with the mail that had accumulated over the month. However the Appellant said that he is not sure that his wife gave him all of the correspondence that had accumulated while he was away from his home.
+[13] The Appellant testified that in the year 2000 he suffered a number of personal tragedies. The Appellant said that during the year 2000 the following relatives died:
+- His mother died;
+- His brother died;
+- His sister died;
+- His brother-in-law died;
+- The Appellant and his wife had a serious marriage breakdown;
+- He personally had a nervous breakdown and spent some time in the hospital.
+[14] The Appellant said that in the year 2000 he phoned an official of the CCRA to discuss his GST situation for the Period. When the Appellant told the official about the deaths in his family and the nervous breakdown that he had suffered he was advised to phone back when he felt better.
+[15] In 2001, the Appellant moved to Surrey, British Columbia to obtain employment. The Appellant said that he had discussions with officials of the CCRA in Surrey regarding the GST issue for the Period.
+[16] The Appellant maintains that while he was working in Surrey he had an oral agreement with Mr. Cliff Blair, an official of the CCRA. The Appellant said that Mr. Blair advised him that he could submit a GST return for the Period by
+April 12, 2002 provided that he requested an extension from the Minister of National Revenue (the "Minister").
+[17] The Appellant said that when he complied with the requests made by Mr. Blair he was advised that Mr. Blair had been transferred and that his file was being handled by another individual.
+[18] On December 2, 2003 Marc Roy, an official of the CCRA, filed a Notice of Motion with the Court for an Order quashing the Appellant's appeal on the grounds that the appeal does not conform with the statutory requirements of the Excise Tax Act. In the alternative the Notice of Motion requests an Order extending the time within which the Reply to Notice of Appeal might be filed.
+B. ISSUE:
+[19] Should the Notice of Motion filed by the Respondent be granted?
+C. ANALYSIS:
+[20] As noted above, the Notice of Reassessment that was issued by the Minister for the Period was an arbitrary assessment, i.e. officials of the CCRA did not examine the records of the Appellant that support his claim for input tax credits.
+[21] The Appellant testified that according to his accountant's calculations the maximum GST that would be applicable if the input tax credits were allowed for the Period would be approximately $1,000.00.
+[22] Because of the unusual and tragic circumstances suffered by the Appellant and the fact that the CCRA issued an arbitrary assessment, it is imperative that officials of the CCRA review the evidence that supports the Appellant's claim for input tax credits.
+[23] Based on the evidence that was before me during the hearing of the Notice of Motion I have concluded that the Notice of Objection filed by the Appellant in December 2000 should be accepted as filed.
+[24] The Notice of Motion filed by the Respondent should be dismissed.
+[25] The Respondent will have 60 days from the date of this Order to file a Reply to the Notice of Appeal.
+Signed at Vancouver, British Columbia, this 5th day of May 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC331
+COURT FILE NO.:
+2003-3587(GST)I
+STYLE OF CAUSE:
+John Teunis Vandebeek and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+December 17, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+May 5, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Robert S. MacLeod
+Counsel for the Respondent:
+Stacey Michael Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert S. MacLeod
+Firm:
+Bassett and Company
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

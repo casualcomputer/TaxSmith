@@ -1,0 +1,386 @@
+---
+title: "Univar Holdco Canada ULC v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460271/index.do"
+last_modified: "2020-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 15"
+citation2: ""
+neutral_citation: "2020 TCC 15"
+decision_date: "2020-01-23"
+language: "en"
+item_id: "460271"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4247
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:12:42.470000+00:00"
+cases_cited_count: 34
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3124ad063aa030bee8014d893b3556cb89606895aaf0ccfe4822755c61d93dee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Univar Holdco Canada ULC v. The Queen
+
+- Citation: 2020 TCC 15
+- Decision date: 2020-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4247, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Univar Holdco Canada ULC v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-23
+Neutral citation
+2020 TCC 15
+File numbers
+2013-2834(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2834(IT)G
+BETWEEN:
+UNIVAR HOLDCO CANADA ULC,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion on costs in writing
+The Honourable Justice Patrick Boyle
+Counsel for the Applicant:
+Matthew Williams
+E. Rebecca Potter
+Counsel for the Respondent:
+Andrew Miller
+Vincent Bourgeois
+ORDER
+Upon reading the submissions on costs of the parties;
+It is ordered that the Applicant is awarded costs in respect of the appeal in the amount of $305,627, and is awarded additional costs in respect of this motion, in accordance with the attached reasons for order.
+Signed at Toronto, Ontario, this 23rd day of January 2020.
+“Patrick Boyle”
+Boyle J.
+Citation: 2020 TCC 15
+Date: 20200123
+Docket: 2013-2834(IT)G
+BETWEEN:
+UNIVAR HOLDCO CANADA ULC,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] The Applicant, Univar Holdco Canada ULC (“Univar”) has brought a motion to have costs determined in accordance with Rule 147. The parties agreed to have this decided based upon their written submissions and the evidence submitted on this motion.
+[2] Univar’s appeal to this Court was unsuccessful before Justice V. Miller in June 2016. [1] Univar successfully appealed her decision to the Federal Court of Appeal in 2017. [2] The Federal Court of Appeal awarded Univar costs in that Court and in our Court. This determination is only in respect of Univar’s costs in this Court.
+[3] The Applicant is requesting a lump sum award of costs for its appeal of approximately $450,000, being 75% of its counsel fees including GST and PST. The Respondent maintains that the Tariff amount of $6,500 is appropriate in this case. The claim for $5,627.17 of disbursements is not disputed.
+[4] The Applicant is also requesting costs in respect of this motion of approximately $30,000 on the same 75% basis. It estimates its actual costs as $35,000 before GST and PST. [3] The Respondent’s position for costs in respect of this motion is that (i) the Respondent should receive costs on this motion given the unreasonably high amount sought by Univar; (ii) in the alternative, there should be no costs awarded on this motion for the same reason; or (iii) in the further alternative, the Applicant should be entitled to no more than $1,150 being the Tariff amount on this motion.
+[5] Univar filed its Notice of Appeal in this Court on July 26, 2013. Counsel had started to prepare it on or about July 4, 2013. The underlying assessment was in respect of 2007 and was based upon the general anti-avoidance rule (GAAR). The assessment was for in excess of $29 million dollars of tax and interest of $10 million was also assessed at that time.
+[6] The only interlocutory motions were for pre-trial timetable extensions, one by each party.
+[7] The Respondent’s discovery of the Univar representative lasted 3.5 hours. Univar’s discovery of the Respondent’s nominee lasted one hour.
+[8] The parties agreed to a partial statement of agreed facts and to a joint book of documents.
+[9] The appeal was heard on June 8, 2015 and it lasted 3.5 hours. Judgment was dated June 22, 2016.
+The Court’s Approach to Costs
+[10] In Spruce Credit Union v. The Queen, 2014 TCC 42 I wrote extensively on this issue. The Crown discontinued its appeal of that costs award to the Federal Court of Appeal. That analysis is reproduced as an Appendix hereto.
+[11] In Ford Motor Company of Canada Limited v. The Queen, 2015 TCC 185 I wrote the following:
+I. The Court’s approach to costs
+[6] In Spruce Credit Union v. The Queen, [1] I extensively canvassed the approach of this Court and the Federal Court of Appeal with respect to the awarding of costs under this Court’s Rules. The relevant provisions of Rule 147 are appended hereto.
+[7] A summary of the approach to be taken to awarding costs in the Tax Court of Canada follows:
+1) The Court has jurisdiction to award solicitor/client costs. As a general rule, costs on a solicitor/client basis are only to be awarded in appropriate cases where there has been reprehensible, scandalous or outrageous conduct on the part of a party. Even in such circumstances, an award of solicitor/client costs is not automatic but remains discretionary.[2]
+2) The Court has broad discretion in fixing costs, provided it is always exercised prudently not capriciously, [3] on a principled basis, [4] and after hearing from the parties. It is not an exact science, nor is it an accounting exercise.[5]
+3) The Court’s approach to fixing costs should be compensatory and contributory, not punitive nor extravagant. The proper question is: What is the Court’s estimate of the losing party’s appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed. [6]
+4) The Court is not bound to defer to the Tariff absent unusual or exceptional circumstances of misconduct or malfeasance.[7] The Court should always follow a principled approach to determine the losing party’s appropriate contribution to the successful party’s costs in the particular circumstances of the proceeding. This includes considering and weighing all relevant circumstances, including those enumerated in the Rules which are relevant in the particular circumstances of the case.
+5) The acts of a party and events prior to the commencement of the legal proceeding may, in appropriate circumstances, be considered in awarding costs. The amount of costs awarded cannot exceed costs incurred after beginning to prepare the notice of appeal.[8]
+6) The successful party’s actual costs may be considered and taken into account in appropriate circumstances.[9] So too may the unsuccessful party’s actual, approximate or estimated costs.[10]
+7) “Traditionally the degree of indemnification represented by partial indemnity costs has varied between 50% and 75% of solicitor and client or substantial indemnity costs” per Justice D. Campbell in Zeller Estate v. The Queen, 2009 TCC 135 after referring to Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-3. There are similar references in Dickie v. The Queen, 2012 TCC 327 (Pizzitelli J) (affirmed by the Federal Court of Appeal 2014 FCA 40), and in Spruce Credit Union.
+8) As stated by the now Chief Justice of this Court in Velcro, the factors in Rule 147(3) of this Court are the key consideration in its determination of cost awards, in determining if the Tariff would reflect an appropriate amount, and in fixing the appropriate amount.
+________________________________
+[1] 2014 TCC 42. The Crown withdrew its appeal to the Federal Court of Appeal of the costs order in Spruce Credit Union.
+[2] See, for example, McGorman v. The Queen, 99 DTC 591, Canderel Limited v.The Queen, 94 DTC 1426, Bruhm v. The Queen, 94 DTC 1400, and the cases referred to therein.
+[3] Sommerer v. The Queen, 2011 TCC 212, Jolly Farmer Products Inc. v. The Queen, 2008 TCC 693.
+[4] Lau v. The Queen, 2004 FCA 10 and Landry v.The Queen, 2010 FCA 135.
+[5] Consorzio Del Prosciutto Di Parma v. Maple Leaf Meats Inc., 2002 FCA 417.
+[6] See Consorzio, Velcro Canada Inc. v. The Queen, 2012 TCC 273 (Rossiter ACJ), General Electric Capital Canada Inc. v. R., 2010 TCC 490 (Hogan J), Sommerer (C. Miller J), Teelucksingh v. The Queen, 2011 TCC 253 (Miller J), Jolly Farmer Products Inc. (Boyle J), Aird v. Country Park Village Property (Mainland) Ltd., 2004 FC 945, [2004] F.C.J. No. 1153.
+[7] See Consorzio, Velcro, General Electric, Sommerer, Blackburn Radio Inc. v. The Queen, 2013 TCC 98 (Woods J), Daishowa-Marubeni International Ltd. v. The Queen, 2013 TCC 275 (C. Miller J), Spruce Credit Union, O’Dwyer v. The Queen, 2014 TCC 90 (Bocock J), The Queen v. Repsol Canada Ltd., 2015 TCC 154 (C. Miller J).
+[8] Martin v. The Queen, 2014 TCC 50 (FCA).
+[9] Consorzio.
+[10] Velcro.
+[12] These were referred to approvingly by Justice Campbell in Invesco Canada Ltd. v. The Queen, 2015 TCC 92, and more recently by Justice Lafleur in MacDonald v. The Queen, 2018 TCC 55. I largely repeated them without footnotes in Martin v. The Queen, 2014 TCC 50.
+[13] Most recently, Justice Lyons wrote the following in Promised Land Ministries v. The Queen, 2019 TCC 282:
+I. Principles for costs awards
+[4] A successful party is generally entitled to costs. A costs award should contribute to and partially compensate for the successful party’s costs of pursuing the appeal based on what is appropriate in the circumstances; it is not intended to be punitive to the losing party. [4]
+[5] Though the Court can consider the amounts of costs set out in the Tariff, these amounts are not determinative. If these are found to be unsatisfactory, the Court has the discretion to award costs beyond Tariff; exceptional circumstances are not needed to set aside Tariff. [5]
+[6] It is well established that the Tax Court has a broad discretionary power to award costs, or not, as supported by the language in section 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) attached as Appendix A to these reasons. This discretion must be exercised on a principled basis. [6]
+[7] Subsection 147(1) of the Rules provides that the Court may determine the amount of the costs of all parties involved in the proceeding, the allocation of same and the persons required to pay them. To assist the Court in determining whether it ought to exercise its discretionary power under that subsection, this Court may consider the factors set out in subsection 147(3) of the Rules. The amounts and complexity of the issues alone may not be a reason for departing from costs in the Tariff. [7] Amongst other things, subsection 147(5) provides the Court with the discretion to award or refuse costs in respect of a particular issue or part of a proceeding or a percentage of taxed costs.
+[8] Under subsection 147(4) of the Rules, the Court may fix costs, partially or wholly, with or without reference to the Tariff, and it may award a lump sum in lieu of or in addition to any taxed costs after consideration of the amounts at issue, the complexity and the importance of those issues, the work generated and a party’s success. [8]
+_______________________________
+[4] Mariano et al v The Queen, 2016 DTC 1146. In Martin v The Queen, 2014 DTC 1072 at para 14, Justice Boyle noted that the proper question is what is the appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed.
+[5] Velcro Canada Inc v R, 2012 TCC 273 at para 10.
+[6] FCA decisions in Lau v The Queen, 2004 GSTC 5 at para 5 (FCA), and Landry v The Queen, 2010 DTC 106 at paragraphs 22 and 54 (FCA).
+[7] Jolly Farmer Products Inc. v The Queen, 2008 TCC 693. The decision in Spruce Credit Union v The Queen, 2014 TCC 42, provides a synopsis of costs principles that have emerged in the jurisprudence. See also Ivesco Canada Ltd v The Queen, 2015 TCC 92.
+[8] Blackburn Radio Inc. v The Queen, 2013 TCC 98.
+Rule 147(3) Considerations
+A. The Result of the Proceeding
+[14] Univar was unsuccessful in its appeal before this Court. It was wholly and completely unsuccessful given that the sole issue was GAAR and it was all or nothing. However, that decision was reversed by the Federal Court of Appeal and that Court awarded costs in favour of Univar in that Court and in this Court. The Federal Court of Appeal left the determination of costs in this Court to this Court; it did not fix them at our Tariff or otherwise. The result of the Federal Court of Appeal decision is that the Applicant was wholly successful in appealing its reassessment.
+[15] The Crown submits that this success “has no bearing when considering an award of costs”. The Crown does not cite anything in support of this. That is nonsensical given that the result of the proceeding is the first consideration listed in our Rule.
+[16] The Crown further submits that the Applicant lost in our Court and only succeeded on appeal to the Federal Court of Appeal and therefore “the ultimate success of the Applicant should not be a consideration favouring of [sic] an award of costs by the Tax Court in excess of the Tariff”. The Crown does not cite any support for this. That would be a nonsensical interpretation of the words “the result of the proceeding”. I cannot overlook that the end result was that the Crown completely lost this case. The costs award in this case must reflect the Federal Court of Appeal’s disposition of it. That Court wrote:
+[32] As a result I would allow the appeal with costs here and in the Court below. I would set aside the judgment of the Tax Court and rendering the judgment that the Tax Court should have made, I would allow the taxpayer’s appeal from the reassessment and refer the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis that GAAR does not apply to the transactions that were implemented in this case.
+[emphasis added.]
+[17] A consideration of the result of the proceeding in this particular case, which was an all or nothing appeal in which the Federal Court of Appeal has awarded the Applicant its costs in this Court, is relatively neutral in fixing the amount of such costs. That said, this does not in any way at all favour or lean towards our Court’s Tariff. The Respondent’s overarching position that the issue in this matter is whether there are considerations which warrant departing from the Tariff is wholly rejected in detail further below.
+B. The Amounts in Issue
+[18] Both parties agree that the approximately $40 million dollar amount reassessed was significant. Only the Applicant thinks that this should favour increased costs.
+[19] That the amount involved is large does not necessarily on its own mean that the case was complex or required a greater volume of work or other effort. That said, it is entirely reasonable to expect the preparation, research, efforts at resolution, etc of a one-day $40 million dollar GAAR reassessment might bear little resemblance to that associated with a more typical one-day general procedure appeal in our Court. Applicant’s counsel has provided detailed daily entries for each timekeeper.
+[20] Justice Owen recently described this in Cameco Corporation v. The Queen, 2019 TCC 92 as follows in paragraph 47:
+…However, I also observed that, in circumstances involving significant stakes for the appellant, efficiency and frugality may take a back seat to thoroughness. In my view, compensating the Appellant for 35% of counsel’s fees adequately addresses the latter observation.
+[21] This consideration of amount in issue is only one of many relevant considerations. Certainly this large amount in issue favours an enhanced costs award if considerations such as e) the volume of work, f) the complexity of the issues and g) conduct that tended to shorten the proceedings favour enhanced costs.
+C. The Importance of the Issues
+[22] The Applicant points out that this is a GAAR case which turned on whether the transactions in question were abusive tax avoidance. This required a determination of the object, spirit or purpose of the specific anti-avoidance rule in subsection 212.1(4).
+[23] As Justice Hogan wrote in his costs award in Alta Energy Luxembourg S.A.R.L. v. The Queen, 2018 TCC 235 with respect to this consideration:
+[21] A decision on the applicability of the GAAR has precedential importance as the GAAR is a provision of last resort and its successful application often affects a multitude of transactions. Further, the Respondent has acknowledged that the application of the GAAR was an important issue.
+[24] The Crown acknowledges that the sole issue raised in this appeal was an important one. However the Crown’s position is that the effect of the March 2016 Budget announcement, years after this appeal was started and well after it was heard, but before Justice V. Miller issued her decision, resulted in its importance being limited only to the Applicant. I do not accept the Crown’s thinking for several reasons:
+1) The appeal in this Court was fully presented and argued by the parties long before the amendment was announced in the 2016 Budget. This means that all of the work required of the Applicant and its counsel for which this costs determination is being made was done at a time during which the Crown agrees the issue was more broadly important.
+2) The 2016 Budget amendment was not made retroactive. The identical important issue therefore remained important to any other taxpayer that completed similar transactions – and such a taxpayer could be reassessed for years following the 2016 effective date of the amendment.
+3) A consideration of section 212.1 factors into many appeals and the object, spirit and intent or purpose of that section can be expected to remain of significance for purposes other than subsection (4) of that section.
+4) As I explained in Spruce Credit “the Department of Finance is not known for proposing unimportant amendments to the Act, rightly and wisely so”.
+This consideration favours an enhanced costs award.
+D. Any Offer of Settlement Made in Writing
+[25] No offers were made nor would any appear to have been possible in this all or nothing situation.
+E. The Volume of Work
+And
+F. The Complexity of the Issues
+[26] Univar’s counsel (including two articling students) on this appeal (excluding this motion for costs) accrued fees of approximately $600,000 (including GST and PST) for which it is seeking a costs award of approximately $450,000. Univar’s counsel has provided a detailed summary of the time and charges for the nine lawyers and articling students involved.
+[27] The Crown does not question the hours worked by Univar’s counsel nor does the Crown provide any indication of the hours it recorded as spent on this file. I will infer therefrom that the number of hours recorded by the Crown in this appeal was at least in the range of the 840 hours recorded by the Applicant’s counsel.
+[28] I am also mindful of the comments of our former Chief Justice Bowman in RMM Canadian Enterprises Inc. and Equilease Corporation v. The Queen, 97 DTC 420 at paragraph 5, which was quoted approvingly by Justice Hogan in General Electric Credit Canada v. The Queen, 2010 TCC 490 at paragraph 31:
+5 . . . It frequently happens in litigation that arguments are advanced in support of positions that, with the benefit of hindsight, turn out to have been unnecessary. Unless such arguments are plainly frivolous or untenable, I do not think that a litigant should be penalized in costs simply because its counsel decides to pull out all the stops, nor do I think that it is my place to second guess counsel’s judgment, after the event, and say, in effect, “If you had had the prescience to realize how I was going to decide we could have saved a lot of time by confining the case to one issue.” Moreover, one of counsel’s responsibilities is to build a record which will enable an appellate court to consider all of the issues.
+[29] A large volume of work at a significant total cost to a party does not mean the issue was necessarily complex, nor does it alone justify greater costs. It is but one material consideration. It may be that often it is the complexity of the issues that contribute significantly to the high volume and costs of counsel’s work. In this case, both parties’ written submissions discussed the considerations of volume and complexity together. That appears sensible in this case and I am doing the same.
+[30] Univar’s position is that the facts and issues involved in this appeal were particularly complex and therefore required considerable effort to create a focused presentation for the Court. The Crown’s position is that the volume of work by Univar’s counsel was not commensurate with the traditional indicia of time spent on document production, length of discoveries, number of witnesses, and the duration of the appeal.
+[31] I know a lot of time and effort goes into presenting a streamlined, focused, and efficient case, and that even more time goes into that when, as here, both sides cooperate to jointly make such presentations to the Court. I am mindful of the apocryphal tale of the barrister, when handing up a very thick, dense and lengthy brief to the Court, saying: “I apologize My Lord, it would have been much shorter if I had more time”.
+[32] The Crown’s further position is that the volume of work “alleged” [4] by the Applicant appears to stem principally from the complexity of the transactions in which the Applicant participated, and that to award enhanced costs based on the volume of work necessitated by that complexity would be to punish the Crown because of how the Applicant organized its affairs. This position does not make much if any sense. I am at somewhat of a disadvantage because I was not the trial judge, however the Crown has not set out what aspects of the transactions, if any, were unnecessarily complex. A costs award should not be used to, or have the effect of, punishing the losing party, however, I have no reason to think that Univar completed the transactions it did because of the opportunity to pay greater legal fees if challenged by CRA, much less to be able to stick them to the Crown if Univar prevailed.
+[33] I am satisfied that both the volume and complexity of the work in this case need to be reflected in the amount of costs awarded and that both favour enhanced costs.
+G. The Conduct of Any Party that Tended to Shorten or Lengthen Unnecessarily the Duration of the Proceeding
+and
+H. The Denial or the Neglect or Refusal of Any Party to Admit Anything That Should have been Admitted
+and
+I. Whether Any Stage in the Proceeding was Improper, Vexatious or Unnecessary or was Taken Through Negligence, Mistake or Excessive Caution
+[34] Both parties are to be commended for their efforts already noted to ensure that the hearing proceeded so efficiently. Judges of this Court wish that happened more often.
+[35] Univar submits that the Federal Court of Appeal’s reasons to allow Univar’s appeal of the reassessment essentially include Univar’s position, already submitted to CRA at the Audit stage and again at the GAAR Committee stage, that alternative transactions that were available to it would have produced the same result. Univar views this fact as a fundamental misunderstanding of the GAAR by the Crown that was both costly and inexcusable. Univar essentially takes the position that, for this reason, the Respondent should not have defended the reassessment in this Court. Univar, citing Jolly Farmer Products Inc. v. The Queen, 2008 TCC 693, says that theirs is also a case involving an argument from the Respondent that the CRA just should not have pursued.
+[36] The costs award in Jolly Farmer was mine, however I was not the trial judge in that case either. Chief Justice Bowman decided it shortly before his retirement from the Court. In his reasons in Jolly Farmer, 2008 TCC 409, Chief Justice Bowman was strongly critical of the Crown’s pursuit of the taxpayer to trial and that expressly grounded my reasons and decision in the costs determination:
+II. Was the trial unduly lengthened?
+[14] It is clear from his reasons that the trial judge thought that the Respondent’s position was unfounded. Indeed he uses the word fallacious on two occasions, stupid in his German exclamatory, and describes the Minister being fixated on an unfathomable position.
+In this respect, Jolly Farmer is somewhat exceptional as one would not normally expect the merits of a losing party’s position take a significant consideration in costs determination.
+[37] In this case, the trial judge made no similar comments about the Crown’s reassessment of Univar, which is hardly surprising since she dismissed Univar’s appeal. More importantly in this case, in substituting its decision for the trial judge’s decision in this case, the Federal Court of Appeal did not make any comment of the kind, nor would one have expected they might since a judge of our Court had been persuaded by the Crown’s position.
+[38] Further, as pointed out by the Crown in its written submissions, the Applicant’s counsel wrote in its submissions under “C. The Importance of the Issues” that “At the time of the hearing, there was much uncertainty concerning the ability of the taxpayer to rely upon the relieving provision in subsection 212.1(4) of the Act. The Applicant’s appeal helped resolve that uncertainty. ”
+[39] I do not accept that the Respondent’s pursuit of its defence and reply to Univar’s appeal favours enhanced costs to the Applicant in this case.
+Conclusion re Costs for Tax Appeal
+[40] Having duly considered the parties’ submissions on the relevant factors and considerations, I am satisfied that $6,500 would not be a satisfactory contribution by the Respondent towards Univar’s costs. I am satisfied that the appropriate contribution from the Respondent to Univar’s legal fees in this appeal is $300,000. I have arrived at this by applying a factor of 50% to the fees (including GST and PST) recorded by the two partners who appeared in Court, the senior litigation counsel at the firm advising on the appeal, and the associate who recorded the vast majority of the remaining time. In recognition of some inherent duplication and inefficiencies in bringing more lawyers onto a file for relatively minor amounts of time, I am not allowing anything for the other two associates who each had recorded less than 5% of the total time. This is in no way a reflection of them or their contribution to their client’s success. An Aha! moment or a light bulb going off above one’s head takes but a moment of time. I am also not allowing anything for the two articling students’ recorded time. Again, this is not a reflection of them or on articling students generally. I was simply not given enough information to value their contribution to the client’s success and I recognize that firms and the profession rightly value the substantive learning and observation opportunities given to articling students on significant litigation such as this.
+[41] In addition, the disbursements of $5,627.17 are allowed as costs to be paid by the Respondent. These were not questioned or disputed by the Respondent in this case.
+Costs on this Motion
+[42] I see no reason to award costs in favour of the Respondent as it has requested.
+[43] While it might often be the case that each party bears its own costs of a motion for costs, or that the successful party be awarded costs at the default Tariff rate or thereabouts, I do not believe either of these would be satisfactory as the appropriate contribution from the Respondent towards Univar’s costs after considering the relevant factors, including those enumerated in Rule 147, with respect to this costs motion.
+[44] The Crown’s position on this motion is that the appropriate contribution by it towards Univar’s costs in the appeal would be $6,500 which is the Tariff rate, whereas I have found that amount to be $300,000.
+[45] The Tariff is the only reason the Crown advances to support such an amount as appropriate, and they advance it repeatedly. Indeed the Crown’s first paragraph “Overview” sets out its position that there is no principled reason to depart from the applicable Tariff. The Crown then defines the “Point in Issue” in paragraph 7 as whether the Applicant is entitled to costs in excess of the applicable Tariff. Following that, this is essentially restated as a principle in ten of the following paragraphs and in one of the headings. [5]
+[46] In paragraph 38 the Crown submits that, while the Respondent accepts that [t] his amount of the [Tariff] is low compared to the counsel fees incurred by the Applicant, this Court has recently restated, in CIBC World Markets Inc. v. The Queen, 2019 TCC 201, at paras, 10 and 15, that it should only depart from Tariff if there is a principled basis to do so.
+[47] Those paragraphs of Justice Bocock’s CIBC World Markets decision read as follows:
+[10] If the Court does nothing, the Tariff applies. If the Court elects to exercise its discretion, it must do so on a principled basis having regard to the relevant section 147 factors without caprice: R v. Lau, 2004 FCA 10 at paragraph 5; R v Landry, 2010 FCA 135 at paragraphs 22 and 54.
+…
+IV. PRINCIPLED ANALYSIS OF VARIOUS COST HIERACHIES
+[15] The Court restates that its discretionary power to depart from the Tariff and award costs beyond that scale must be exercised on a principled basis bearing in mind it is a discretionary exercise and must have a substantive purpose relevant to its use: R v. Landry, supra. In this particular matter, the Court will conduct an analysis of the particular factors placed at its disposal in section 147 of the General Rules in order to determine whether costs beyond the Tariff should be awarded and, if so, on what scale.
+[48] Paragraph 10 of Justice Bocock’s decision is entirely correct and often endorsed consistently by this Court. It is clear from a reading of his paragraphs 9, 10 and 11, and his cited paragraphs from the Federal Court of Appeal in R v. Lau, 2004 FCA 10 and R v. Landry, 2010 FCA 135, that he is not implying, much less saying, in paragraph 10 that there must be a principled basis for a judge to not apply our Court’s Tariff. He is clearly saying 1) the Tariff applies by default if the Court does nothing but award costs, and 2) the Court, when fixing costs under Rule 147 instead of doing nothing, must exercise its discretion in doing that on a principled basis and not capriciously.
+[49] With utmost respect to Justice Bocock and to his writing skills, to the extent his paragraph 15 suggests that the discretionary power referred to in Landry by the Federal Court of Appeal is whether to depart from our Tariff and not to fix costs separate from Tariff, in part upon Tariff or at Tariff amount, I do not agree with him nor is it what the Federal Court of Appeal was referring to in paragraphs 22 or 54 of Landry that he referred to. With respect, the issue is not whether there is a principled basis to determine if the Court should depart from our Court’s Tariff. The Tariff in our rule is not a starting point: it is only a default absent a Rule 147 determination otherwise being made, or an available option, in full or in part to the judge if a Rule 147 determination is being made. Our Tariff is not the starting point in a costs determination. It is the default if no costs determination is made, and it may be used as, or as part of, a costs determination. Nothing more. I acknowledge these four sentences from CIBC World Markets are ambiguous and capable of a different interpretation, however, given the references therein to the Federal Court of Appeal decisions in Lau and Landry, I believe the Crown’s interpretation is not the correct one and that Justice Bocock was not saying anything inconsistent with the caselaw I have referred to above.
+[50] The notion that a principled basis or reason is necessary for me to depart from Tariff sounds like a throwback to the Bowman Court Continental Bank era when it was oft stated that costs at Tariff were appropriate unless there were exceptional circumstances. As described earlier in these reasons and in the cases cited above like Velcro Canada Inc. Daishowa-Marubeni, Sommerer, Blackburn Radio Inc., Teeluksingh and Spruce Credit that statement was wrong given the clear construction of our Court’s Rule 147 and was not in fact adhered to by the Court (including Chief Justice Bowman himself in that era), and that Court recognized that several of the enumerated Rule 147 considerations constituted exceptional circumstances. I do not foresee a return to that approach unless Rule 147 and/or the Tariff is amended from what they are currently.
+[51] I believe that the Crown’s stubborn clinghold to the Tariff amount, and its incorrect view that this Court needs to identify a principled reason to depart from the Tariff, gives rise to Rule 147(3)(g)(h) and (i) considerations. These, in addition to (a), (b) and (e) considerations, all favour a higher award of costs on this costs motion. In the circumstances, I am fixing the appropriate amount as 50% (being the same percentage) of Univar’s actual legal fees (including GST and PST) on this motion, plus its actual disbursements. If the parties cannot agree on the amount, the parties may file written submissions within 30 days of not more than four pages.
+Signed at Toronto, Ontario, this 23rd day of January 2020.
+“Patrick Boyle”
+Boyle J.
+Appendix
+1. The Law
+[16] The relevant cost rules of this Court provide as follows:
+147. (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+[...]
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+[17] The Federal Court of Appeal in Lau v. The Queen, 2004 FCA 10, heard an appeal from a 2003 costs award of then Associate Chief Justice Bowman of this Court. In its reasons, the Court said:
+3 An award of costs is governed by rule 147 of the Court's General Procedure Rules. That rule vests the Tax Court would “full discretionary power” over payment of costs. Criteria for the exercise at that discretion are set forth in subsection 147(3). Subsection (4) confers an additional power which includes the awarding of costs by way of lump sum. It reads:
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+4 Bowman A.C.J. rejected the awarding of costs on a solicitor and client basis. He said so explicitly. Instead, he took into account certain of the criteria set out in subsection 147(3) of the Rules as well as his discretionary power to award a lump sum pursuant to subsection 147(4). He noted that at the request of the Crown the appeals were “bumped up” from the informal to the General Procedure. The effect, in his view, was to “put a considerable burden on both appellants”. He also intimated that the case against Agatha Lau was utterly without merit, and that the Crown should have been “a little more ready to accept” an offer to settle before trial. He compared the amount of party and party costs under the Court's Tariff with solicitor and client costs of more than $103,000.00 which he regarded as “rather high”. In the end, he found that “a fair disposition of this matter and one that partially compensates the appellants for their ordeal of having to come to court and justify their position is $52,000.00”.
+5 It can be seen that the awarding of costs under rule 147 is highly discretionary although, of course, that discretion must be exercised on a principled basis. We are all of the view that it was so exercised by the Tax Court and that no basis has been shown for interfering with the judgment below.
+[Emphasis added.]
+[18] In its later decision in Landry v. The Queen, 2010 FCA 135, the Court commented on its earlier comments in Lau and emphasized again that the Tax Court of Canada’s highly discretionary power to fix costs “must be exercised on a principled basis” (at paragraph 22). In my view, the changed wording of Rule 147(1) since the Lau and Landry decisions does not in any way affect the nature, breadth, or scope of this Court’s power to fix costs provided always it is exercised on a principled basis.
+[19] In the Federal Court of Appeal’s decision in Consorzio Del Prosciutto Di Parma v. Maple Leaf Meats Inc., 2002 FCA 417, Justice Rothstein wrote:
+6 I am satisfied in the circumstances of this case, that the respondent should be awarded increased costs. This is an intellectual property matter involving sophisticated clients. Where, as here, numerous issues are raised on appeal and the issues involve complex facts and expert evidence, the amount of work required of respondents' counsel justifies increased costs. To the argument that the complexity of this case was no greater than that of most intellectual property cases that come before this Court, I would say that such cases frequently present complex facts and give rise to difficult issues.
+7 The increased costs to be awarded are party-party costs. They do not indemnify the successful party for its solicitor-client costs and they are not intended to punish the unsuccessful party for inappropriate conduct.
+8 An award of party-party costs is not an exercise in exact science. It is only an estimate of the amount the Court considers appropriate as a contribution towards the successful party's solicitor-client costs (or, in unusual circumstances, the unsuccessful party's solicitor-client costs). Under rule 407, where the parties do not seek increased costs, costs will be assessed in accordance with Column III of the table to Tariff B. Even where increased costs are sought, the Court, in its discretion, may find that costs according to Column III provide appropriate party-party compensation.
+9 However, the objective is to award an appropriate contribution towards solicitor-client costs, not rigid adherence to Column III of the table to Tariff B which is, itself, arbitrary. Rule 400(1) makes it clear that the first principle in the adjudication of costs is that the Court has "full discretionary power" as to the amount of costs. In exercising its discretion, the Court may fix the costs by reference to Tariff B or may depart from it. Column III of Tariff B is a default provision. It is only when the Court does not make a specific order otherwise that costs will be assessed in accordance with Column III of Tariff B.
+10 The Court, therefore, does have discretion to depart from the Tariff, especially where it considers an award of costs according to the Tariff to be unsatisfactory. Further, the amount of solicitor-client costs, while not determinative of an appropriate party-party contribution, may be taken into account when the Court considers it appropriate to do so. Discretion should be prudently exercised. However, it must be borne in mind that the award of costs is a matter of judgment as to what is appropriate and not an accounting exercise.
+11 I think this approach is consistent in today's context with the observations of Nadon J. (as he then was) in Hamilton Marine and Engineering Ltd. v. CSC Group Inc. (1995), 99 F.T.R. 285 at paragraph 22:
+I indicated to counsel during the hearing that there was no doubt that, in most cases, the fees provided in Tariff B were not sufficient to fully compensate a successful party. I also indicated to counsel during the hearing that, in my view, the Tariff necessarily had to remain the rule and that an increase of tariff fee was the exception. By that I mean that the discretion given to the Court to increase the tariff amounts pursuant to rule 344(1) and (6) of the Federal Court Rules was not to be exercised lightly. Put another way, the fact that the successful party's legal costs were far superior to the amounts to which that party was entitled under the Tariff, was not in itself a factor for allowing an increase in those fees.
+[Emphasis added.]
+[20] The Tax Court of Canada has also had numerous occasions in recent years to address in detail the particular costs rules of the Court, including its principled approach to the costs considerations in Rule 147(3) and the role of the Tariff.
+[21] In Velcro Canada Inc. v. The Queen, 2012 TCC 273, Associate Chief Justice Rossiter of this Court wrote as follows:
+3 In recent years, costs have played a more significant role in tax litigation. Tax cases are becoming more complex, taking longer to prepare with detailed case management and larger amounts in dispute—all contributing to what appears to be more resources being used to litigate appeals. One issue that arises constantly is the application of the Tariff versus awards in excess of the Tariff, lump sum awards, the circumstances where the Tariff is not applied, and the analytical process in awarding and fixing costs.
+4 There seems to be some confusion with respect to the Respondent's understanding of the authority of the Tax Court of Canada to award costs under the Rules. The Respondent appears to be of the view that former Chief Justice Bowman's comments in Continental Bank of Canada were meant to express that the Court is unable to award costs above Tariff barring exceptional circumstances such as misconduct or undue delay. In Continental Bank of Canada , the Appellant sought an Order for costs on a party-and-party scale, as well as for costs in excess of the amounts in Tariff B of Schedule II for services and disbursements reasonably incurred. In evaluating the Appellant's request for amounts above Tariff, former Chief Justice Bowman considered the role of the Tariff and the amounts listed there, stating in part:
+[9] It is obvious that the amounts provided in the tariff were never intended to compensate a litigant fully for the legal expenses incurred in prosecuting an appeal. The fact that the amounts set out in the tariff appear to be inordinately low in relation to a party's actual costs is not a reason for increasing the costs awarded beyond those provided in the tariff. I do not think it is appropriate that every time a large and complex tax case comes before this court we should exercise our discretion to increase the costs awarded to an amount that is more commensurate with what the taxpayers' lawyers are likely to charge. It must have been obvious to the members of the Rules Committee who prepared the tariff that the party and party costs recoverable are small in relation to a litigant's actual costs. Many cases that come before this court are large and complex. Tax litigation is a complex and specialized area of the law and the drafters of our Rules must be taken to have known that.
+[10] In the normal course the tariff is to be respected unless exceptional circumstances dictate a departure from it. Such circumstances could be misconduct by one of the parties, undue delay, inappropriate prolongation of the proceedings, unnecessary procedural wrangling, to mention only a few. None of these elements exists here.
+5 This statement was referred to by Justice Hogan in General Electric Capital Canada Inc. v. R., 2010 TCC 490 (T.C.C. [General Procedure]) (“General Electric”). Justice Hogan also referred to the fact that lump sum costs were awarded by Associate Chief Justice Bowman, as he then was, in Lau v. R., 2003 TCC 74 (T.C.C. [General Procedure]) which was affirmed by the Federal Court of Appeal at 2004 FCA 10 (F.C.A.) . He noted that Respondent's counsel in General Electric was arguing strenuously that he should adhere to the principle that the Court should not depart from the Tariff absent special circumstances justifying solicitor-client costs relating to the conduct of the parties during the litigation. Justice Hogan again quoted Bowman, J., as he then was, in Alemu v. R. (1999), 99 D.T.C. 591 (T.C.C.) at paras. 13-14 (“ McGorman ”) as follows:
+[23] Counsel for the Respondent argued strenuously that I should adhere to the principle enunciated previously in some of the judgments of my current and former colleagues, namely that this Court should respect the principle that there should be no departure from the tariff, absent special circumstances justifying solicitor-client costs relating to the conduct of the parties or their counsel during the litigation. [9] As stated by Bowman J., as he then was, in McGorman et al. v. The Queen, 99 D.T.C. 591 (TCC) :
+13 I shall endeavour to set out briefly my views on how the costs should be awarded in these cases. Obviously, the court has a fairly broad discretion with respect to costs, but that discretion must be exercised on proper principles and not capriciously. For example, the mere fact that a case is novel, unique, complex or difficult, or that it involves a great deal of money is not a reason for departing from the tariff, which, generally speaking, should be respected in the absence of exceptional circumstances. I shall not repeat what I said about awarding solicitor and client costs in Continental Bank of Canada et al. v. The Queen, 94 D.T.C. 1858 at page 1874.
+14 Do exceptional circumstances exist here that would justify an award of solicitor and client costs? It is true the cases were important and difficult and they raised a wide variety of legal and ecclesiastical questions requiring the assistance of experts. This in itself does not warrant solicitor and client costs
+6 I note, as Justice Hogan did, that former Chief Justice Bowman in McGorman appears to have been dealing with solicitor-client costs, as was the Supreme Court of Canada in Young v. Young, [1993] 4 S.C.R. 3 (S.C.C.) , where Justice McLachlin (as she then was) held that there must be evidence of reprehensible, scandalous, or outrageous conduct before an award of costs could be made on a solicitor-client basis. If former Chief Justice Bowman was suggesting that the Tax Court of Canada can only deviate from the Tariff in exceptional circumstances, then I would beg to differ. The exceptional circumstances I believe he referred to in Continental Bank of Canada include circumstances that might justify solicitor-client costs which is most certainly outside the Tariff. To my mind, it does not take exceptional circumstances to justify a deviation from the Tariff—far from it. The authority of the Tax Court of Canada is quite clear.
+7 The Rules are made by the Tax Court of Canada Rules Committee which is statutory in nature pursuant to section 22 of the Tax Court of Canada Act , R.S.C. 1985, c. T-2. The Rules are subject to the approval of the Governor in Council.
+8 The Tariff annexed to the Rules is a reference point only should the Court wish to rely upon it. It is interesting to note that the first of two references to the Tariff in Rule 147 is subsection 147(4) which in and of itself gives extremely broad authority to the Court in the awarding of costs.
+9 Notwithstanding former Chief Justice Bowman's comments in Continental Bank of Canada, supra at paragraph [9], it is my view that:
+1. The Tariff was never intended to compensate a litigant fully for legal expenses incurred in an appeal;
+2. The Tariff was also never intended to be so paltry as to be insignificant and play a trivial role for litigants in dealing with their litigation. The Court's discretionary power is always available to fix amounts as appropriate;
+3. Costs should be awarded by the Court in its sole and absolute discretion after considering the factors of subsection 147(3);
+4. The discretion of the Court must be exercised on a principled basis;
+5. The factors in Rule 147(3) are the key considerations in the Court's determination of costs awards as well as the quantum and in determining if the Court should move away from the Tariff;
+6. In the normal course the Court should apply the factors of Rule 147(3) on a principled basis, with submissions from the parties as to costs, and only reference the Tariff at its discretion; and
+7. The manner that the Tariff is referenced in Rule 147 indicates the insignificance of the Tariff in costs considerations.
+10 A close examination of the structure and wording of Rule 147 reveals why the Tariff is an item for referral only if the Court so chooses. It would appear that the Rules Committee knew exactly what it was doing in structuring the Rules the way it did.
+11 Rule 147(1) provides the following:
+The Court may determine the amount of costs of all parties involved in any proceeding, the allocation of the costs and the persons required to pay them.
+The discretion in 147(1) is extremely broad—it gives the Court total discretion in terms of (1) the amount of costs; (2) the allocation of costs; and (3) who must pay them.
+12 Rule 147(3) provides the factors to be considered in exercising the Court's discretionary power. After enumerating a list of factors, it specifies that the Court may consider “any other matter relevant to the question of costs”, thereby providing the Court with even broader discretion to consider other factors it thinks relevant on a case by case basis. Such other factors that may be relevant could include, but are not limited to:
+1. the actual costs incurred by a litigant and their breakdown including the experience of counsel, rates charged, and time spent on the appeal;
+2. the amount of costs an unsuccessful party could reasonably expect to pay in relation to the proceeding for which costs are being fixed; and
+3. whether the expense incurred for an expert witness to give evidence was justified.
+13 The factors to be considered by the Court in exercising its discretionary power to award costs are extremely broad, they are specific to every appeal before the Court and as noted, the Court may consider any other matter relevant to the question of costs.
+14 There is no mention of the Tariff until Rule 147(4) which provides:
+The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+15 Rule 147(5) goes even further saying:
+Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+c) to award all or part of the costs on a solicitor and client basis.
+Note that there is no reference to the Tariff in Rule 147(5).
+16 Under the Rules, the Tax Court of Canada does not even have to make any reference to Schedule II, Tariff B in awarding costs. The Court may fix all or part of the costs, with or without reference to Schedule II of Tariff B and it can award a lump sum in lieu of or in addition to taxed costs. The Rules do not state or even suggest that the Court follow or make reference to the Tariff. If the Tax Court of Canada Rules Committee had felt the Tariff was so significant, the Rules could easily have said that the Tariff shall be applied in all circumstances unless the Court is of the view otherwise. The Rules Committee did not do this, not even close. In fact, it is hard to imagine how the Tax Court of Canada's discretionary power could be broader for awarding costs given the wording in Rules 147(1), (3), (4) and (5). These particular provisions of Rule 147 really make reference to Schedule II, Tariff B a totally discretionary matter.
+17 It is my view that in every case the Judge should consider costs in light of the factors in Rule 147(3) and only after he or she considers those factors on a principled basis should the Court look to Tariff B of Schedule II if the Court chooses to do so. The Rules Committee in their wisdom made brief mention of the Tariff but only after giving the Tax Court of Canada very broad and significant discretion in all matters on costs. As stated by my colleague Justice Hogan in General Electric:
+[26] ... I believe that the Rules Committee was well aware of the fact that there are numerous factors which can warrant a move away from the Tariff towards a different basis for an award of party and party costs, including lump sum awards. Subsection 147(3) of the Rules confirms this by listing specific factors and adding the catch-all paragraph ( j ), which refers to “any other matter relevant to the question of costs”. If misconduct or malfeasance was the only case in which the Court could move away from the Tariff, subsection 147(3) would be redundant. Words found in legislation are not generally considered redundant. As stated by the Supreme Court in Hills v. Canada (AG), [1988] 1 S.C.R. 513:
+[106] ... In reading a statute it must be “assumed that each term, each sentence and each paragraph have been deliberately drafted with a specific result in mind. Parliament chooses its words carefully: it does not speak gratuitously” (P.-A. Côté, The Interpretation of Legislation in Canada, (1984), at p. 210). 10
+[27] It has been repeatedly affirmed that McLachlin J.'s comment requiring misconduct or malfeasance in Young v. Young, above, was specifically and only made in reference to the availability of solicitor-client costs. It is true that “[t]he general rule is that a successful litigant is entitled to party and party costs,” in accordance with the Tariff.11 It is also true that a measure of reprehensibility is required for either party to be ordered to pay costs to the other party on a solicitor-client basis. The two rules must not be conflated, as to do so would remove all middle ground.
+[28] The Interpretation Act applies to the ITA and to this Court's Rules. Section 12 of the Interpretation Act provides that every enactment “is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects”. It is reasonable to conclude that the purpose of section 147 of the Rules was to give a judge the discretion to move away from the Tariff in order to provide fair and reasonable relief in the circumstances—with or without reference to Schedule II, Tariff B. A restrictive interpretation of that section that would require a taxpayer to meet the same burden in order to move from the Tariff to any level of partial indemnity or to a lump sum award in lieu of or in addition to any costs as it would have to meet to obtain solicitor-client costs would defeat at least one of the purposes of the section.
+18 A comparison of the discretionary power in Rule 147 of the Rules and Rule 400(4) of the Federal Court Rules, SOR/98-106 (“Federal Court Rules”) provide an example of how a Rules Committee may take a different approach.
+19 The Tax Court of Canada's Rule 147(4) says:
+The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+[emphasis added]
+The Federal Court's Rule 400(4) says:
+The Court may fix all or part of any costs by reference to Tariff B and may award a lump sum in lieu of, or in addition to, any assessed costs.
+[emphasis added]
+There is a significant difference in my view in the wording and the emphasis put on the Tariff in the Federal Court Rules compared to the Tax Court of Canada's Rule 147(4). Despite this distinction, the Federal Court of Appeal, when reviewing the Federal Court Rules in Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc., 2002 FCA 417 (Fed. C.A.) , concluded that those Rules nonetheless allow the Court discretion in awarding costs. As stated by the Federal Court of Appeal:
+[8] An award of party-party costs is not an exercise in exact science. It is only an estimate of the amount the Court considers appropriate as a contribution towards the successful party's solicitor-client costs (or, in unusual circumstances, the unsuccessful party's solicitor-client costs). Under rule 407, where the parties do not seek increased costs, costs will be assessed in accordance with Column III of the table to Tariff B. Even where increased costs are sought, the Court, in its discretion, may find that costs according to Column III provide appropriate party-party compensation.
+[9] However, the objective is to award an appropriate contribution towards solicitor-client costs, not rigid adherence to Column III of the table to Tariff B which is, itself, arbitrary. Rule 400(1) makes it clear that the first principle in the adjudication of costs is that the Court has “full discretionary power” as to the amount of costs. In exercising its discretion, the Court may fix the costs by reference to Tariff B or may depart from it. Column III of Tariff B is a default provision. It is only when the Court does not make a specific order otherwise that costs will be assessed in accordance with Column III of Tariff B.
+[10] The Court, therefore, does have discretion to depart from the Tariff, especially where it considers an award of costs according to the Tariff to be unsatisfactory. Further, the amount of solicitor-client costs, while not determinative of an appropriate party-party contribution, may be taken into account when the Court considers it appropriate to do so. Discretion should be prudently exercised. However, it must be borne in mind that the award of costs is a matter of judgment as to what is appropriate and not an accounting exercise.
+[Emphasis added.]
+[22] In General Electric Capital Canada Inc. v. The Queen, 2010 TCC 490, Justice Hogan of this Court wrote (in addition to the paragraphs already quoted above by the Associate Chief Justice in Velcro):
+17 Generally, as stated by the Federal Court of Canada in Apotex Inc. v. Wellcome Foundation Ltd. (1998), 84 C.P.R. (3d) 303 (Fed. T.D.) , affirmed by the Federal Court of Appeal (2001), 199 F.T.R. 320 (Fed. C.A.) , the following principle is to be noted when awarding costs:
+7 ... costs should neither be punitive nor extravagant and ... [a]n important principle underlying costs is that an award of costs represents a compromise between compensating a successful party and not unduly burdening an unsuccessful party.
+[...]
+19 In awarding lump sum costs, Rothstein J.—speaking for the majority of the Federal Court of Appeal—noted the following in Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc., 2002 FCA 417 (Fed. C.A.) :
+10 The Court, therefore, does have discretion to depart from the Tariff, especially where it considers an award of costs according to the Tariff to be unsatisfactory....
+...
+12 One advantage of a lump sum award of costs is the saving in costs to the parties that would otherwise be incurred in the assessment process. However, a lump sum award of costs may not be appropriate in all cases...
+[23] In the reasons on the costs motion in Sommerer v. The Queen 2007-2583(IT)G (July 14, 2011, unreported) Mr. Justice Miller of this Court addressed the exceptional circumstances issue as follows:
+19 Certainly the wording of Rule 147 suggests no threshold test but provides wide discretion to the judge to consider the factors identified in subsection (3) of Rule 147 in coming to a reasoned, balanced decision.
+20 I agree with the appellant.
+21 Recent cases, such as General Electric with Justice Hogan, the Campbell case with, oddly enough Justice Campbell, the Jolly Farmer case, Justice Boyle suggest there is no threshold, but that is open to the judge to take into account the 147(3) factors.
+22 Clearly, cases have suggested this is an exercise that cannot be undertaken capriciously.
+23 Further, cases have supported the proposition that full solicitor-client costs should only be considered in circumstances that might be found to be egregious. But for award of costs above tariff and below solicitor-client costs, it’s for the parties to satisfy a judge a consideration of the Rule 147(3) factors should or should not result in costs beyond tariff.
+24 This may well represent a departure from Chief Justice Bowman’s comment in Continental Bank that, quote:
+In the normal course, tariff is to be respected unless exceptional circumstances dictate departure from it. Such circumstances could be misconduct by one of the parties, undue delay, inappropriate prolongation of the proceedings, unnecessary procedural wrangling, to mention only a few.
+25 Interestingly, I find that these examples given by the former Chief Justice are examples of some of the very factors listed in Rule 147(3), such as: first, conduct of a party to unnecessarily lengthen the duration of the proceeding – sub (g) of 147(3); or whether any stage was improper or vexatious – sub (i) of 147(3); or refusal of a party to admit anything that should have been admitted – sub (h) of 147(3).
+26 In effect, I find support, even in Continental Bank, for the proposition that the judge, in awarding costs beyond tariff, though not solicitor-client costs, simply reviews the Rule 147(3) factors to determine an appropriate award of costs beyond tariff.
+27 This approach is not, as the respondent might suggest, centred on any principle of punishment. Nor do I agree that it necessarily leads to any litigation or assessment chill.
+[...]
+31 In summary, I find Justice Boyle’s concluding comment in Jolly Farmer a propos.
+32 As pointed out by Mr. Sandler, award of costs is more art than science. And judges of this court are entrusted by the rules to practice their craft diligently, fairly and responsibly, guided by suggested considerations, but unburdened by rigid formulaic guidelines.
+33 I share Justice Boyle’s confidence that judges of this court are up to the task.
+[24] In Teelucksingh v. The Queen, 2011 TCC 253, Mr. Justice Miller wrote succinctly:
+2 The Respondent argues that there are no special circumstances, including any misconduct on the part of the Respondent, that would justify special costs beyond the Tariff. This Court has moved away from a position of limiting costs beyond Tariff to situations of malfeasance or misconduct (see for example recent decisions of Justice Hogan in General Electric Capital Canada Inc. v. Her Majesty the Queen, and Justice Campbell in Campbell v. Her Majesty the Queen).
+[25] In Jolly Farmer Products Inc. v. The Queen, 2008 TCC 693, I heard the costs motion on an appeal heard and decided by former Chief Justice Bowman in one of his last decisions before his retirement. In Jolly Farmer I wrote:
+8 The Court need not slavishly adhere to the tariff. However, the Court must exercise its discretion on proper principles, such as the considerations enumerated in Rule 147(3), and not capriciously. The mere fact that a case is novel, unique, complex, difficult, or involves a large sum of money is not reason for departing from the tariff: see McGorman et al. v. HMQ, 99 DTC 591, at paragraph 13 per Bowman J. as he then was. Nor is the mere fact that the party’s actual legal fees greatly exceed the tariff amount reason to award costs in excess of tariff. In Continental Bank of Canada et al. v. HMQ, 94 DTC 1858, Bowman ACJ wrote:
+It is obvious that the amounts provided in the tariff were never intended to compensate a litigant fully for the legal expenses incurred in prosecuting an appeal. The fact that the amounts set out in the tariff appear to be inordinately low in relation to a party's actual costs is not a reason for increasing the costs awarded beyond those provided in the tariff. I do not think it is appropriate that every time a large and complex tax case comes before this court we should exercise our discretion to increase the costs awarded to an amount that is more commensurate with what the taxpayers' lawyers are likely to charge. It must have been obvious to the members of the Rules Committee who prepared the tariff that the party and party costs recoverable are small in relation to a litigant's actual costs. Many cases that come before this court are large and complex. Tax litigation is a complex and specialized area of the law and the drafters of our Rules must be taken to have known that.
+Similarly, as stated by Justice Layden-Stevenson in Aird v. Country Park Village Property (Mainland) Ltd., [2004] F.C.J. No. 1153 (QL):
+Costs should be neither punitive nor extravagant. It is a fundamental principle that an award of costs represents a compromise between compensating a successful party and not unduly burdening an unsuccessful party. . .
+[...]
+27 I am mindful of the fact that one of the reasons advanced for this Court’s relatively modest tariff is the prospect that individual Canadians pursuing their tax appeal who find themselves unsuccessful should not in the ordinary course find themselves subject to large costs awards as well at the same time. There is concern that if I fix costs in excess of tariff in this case, symmetry may require that in other cases where the Crown is successful, losing taxpayers should be similarly exposed to risks of increased costs awards beyond the tariff. I am confident that our Court’s judges can exercise their discretion appropriately and their discretion will not be fettered by my decision in this case. Indeed, it may be that any risk that the threat of costs deters individual Canadians from pursuing tax appeals where they perceive injustice can be addressed by judges taking a separate approach to awards of costs in excess of tariff in appropriate circumstances where the parties are all well represented.
+[26] In Blackburn Radio Inc. v. The Queen, 2013 TCC 98, Justice Woods of this Court wrote:
+14 The work involved in tax litigation has increasingly become a factor in awarding costs. It has also been considered in intellectual property litigation: Consorzio Del Prosciutto Di Parma v Maple Leaf Meats Inc., 2002 FCA 417 (Maple Leaf Meats).
+15 The Crown submits that complexity should not be a factor and relies on the traditionally-accepted approach set out by Bowman J. (as he then was) in Continental Bank of Canada v The Queen, [1994] TCJ No. 863. The problem is that the case law has evolved since Continental Bank was decided. The decision of the Federal Court of Appeal in Maple Leaf Meats is one example of this.
+[27] Most recently in Daishowa-Marubeni International Ltd. v. The Queen, 2013 TCC 275, Mr. Justice Miller wrote (after reproducing parts of G.E. Capital and Blackburn Radio):
+4 A year before the Associate Chief Justice’s comments in Velcro, I awarded costs in the case of Peter Sommerer v Her Majesty the Queen and indicated that in my view the Court has moved away from the position of limiting costs beyond Tariff to situations of malfeasance or misconduct. As I indicated at that time, the appropriate course in the determination of costs beyond Tariff is to consider those relevant factors found in Rule 147(3) and reach a reasoned, balanced and just result.
+5 The Respondent recognizes this recent jurisprudence but argues that the law of costs is more accurately reflected in a recent decision of the Federal Court of Appeal, The Queen v Canadian Imperial Bank of Commerce, confirming, in the Respondent’s view, the basic tenet that there must be exceptional circumstances to justify costs beyond Tariff, and that actual costs far greater than Tariff is not such a circumstance. The Respondent also raises the caution raised by the Federal Court of Appeal that fluctuation in cost awards would jeopardize the degree of uniformity and foreseeability litigants are entitled to expect.
+6 With respect, litigants should not be entitled to expect uniformly low costs at the Tax Court of Canada, not appropriate when taking a principled, balanced view of the Rule 147(3) factors. It is clear the Tax Court of Canada has serious concerns about the inadequacy of its Tariff as evidenced from recent rule changes, as well as the recent jurisprudence. Consistency will follow from a principled approach of the enumerated factors, which I now turn to.
+[Emphasis added.]
+[28] On a careful review of what former Chief Justice Bowman actually said in Continental Bank, it becomes clear that his comments did not ignore the way this Court’s Rules are written, nor did he even suggest that the circumstances in which the Court should not defer to the Tariff were those that might justify an award of solicitor-client costs. The examples he gave included some of the Rule 147(3) considerations. Further, the former Chief Justice post Continental Bank regularly continued in appropriate cases to award costs fixed otherwise than by application of the Tariff after reviewing Rule 147(3) considerations; see for example his decision as trial judge in Lau, and his decision in McGorman v. Canada, 99 DTC 591 (Alemu) and in Scavuzzo v. The Queen, 2006 DTC 2311. It should be noted that in Scavuzzo Chief Justice Bowman fixed lump sum costs of approximately 50% of actual costs incurred, as he had in Lau.
+[29] In Zeller Estate v. The Queen, 2009 TCC 135, Mr. Justice Miller of this Court referred to Orkin’s The Law of Costs and continued:
+9 Traditionally, the degree of indemnification represented by partial indemnity costs has varied between 50% and 75% of solicitor-and-client or substantial indemnity costs (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-3).
+[30] In Dickie v. The Queen, 2012 TCC 327, Justice Pizzitelli of the Court wrote:
+26 In my view, having regard to the clear victory of the Appellant in this matter, the sizeable amount of taxes in dispute including for other years for which this case served as a test case, the importance of the commercial mainstream issue in particular and the complexity of the issue in light of the Respondent’s position notwithstanding the Supreme Court of Canada’s decisions in Bastien Estate and Dubé and the amount of work generated for the Appellant as a result of the Respondent’s position on that issue and the importance it continued to give to the commercial mainstream factor as above discussed, which in my view should have been conceded before trial to shorten the trial and narrow the issues, there clearly exist special circumstances justified by the application of factors listed in Rule 147(3) to merit awarding the Appellant costs in excess of the Tariff.
+27 The Appellant asked for between 50 and 75% of solicitor and client costs plus disbursements, consistent with the range of traditional awards cited by author Mark Orkin in the Law of Costs, 2nd ed., Vol. 1 (Aurora: Canada Law Book, 2008) at 2-3 as quoted by Campbell J. in Re Zeller Estate above at paragraph 9. The Appellant’s costs on a solicitor and client basis claimed are $133,000 plus $10,000 in disbursements. In my opinion, the Appellant is deserving of 60% of such claim, amounting to $80,000 plus $10,000 in disbursements, for a total award of $90,000.
+[31] The Dickie decision has been appealed to the Federal Court of Appeal but has not yet been heard.
+[32] I agree with all of the principles described in the case law above. I would add to the discussion of this issue that the creation of a single tariff, even one with three classes of cases based on quantum in dispute, creates real challenges given the reality of a national court, having both Informal and General Procedures wherein even modest amounts can become subject to the General Procedure, with jurisdiction extending even to treasured Canadian social assistance programs like the Child Tax Benefit, open and accessible to all Canadians subject to tax or receiving tax benefits, regularly seeing self-represented, under-represented and well-represented appellants in all regions of the country, where the appellant regardless of the amount in dispute or their choice of representation always faces a respondent employing well-trained, experienced and well-paid lawyers from Canada’s largest law firm - the Department of Justice, where the reasonable going rates for lawyers is such that a market rate in a major centre for the expertise needed in some appeals may be two or three times more than the market rate in a smaller centre for the expertise needed in other appeals, where respondent’s counsel’s recording, accounting and billing practices necessarily differ from those of private sector lawyers, and all before a Court that regularly sits in approximately 70 Canadian cities and towns. These realities may also give rise to legitimate principled considerations for this Court in appropriate cases when fixing costs on a principled basis in accordance with Rule 147(3) instead of by reference to the Tariff.
+CITATION:
+2020 TCC 15
+COURT FILE NO.:
+2013-2834(IT)G
+STYLE OF CAUSE:
+UNIVAR HOLDCO CANADA ULC AND THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+January 23, 2020
+Counsel for the Applicant:
+Matthew Williams
+E. Rebecca Potter
+Counsel for the Respondent:
+Andrew Miller
+Vincent Bourgeois
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Matthew Williams
+E. Rebecca Potter
+Firm:
+Thorsteinssons LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2016 TCC 159.
+[2] 2017 FCA 207.
+[3] No reason was given for providing the Court with an estimate in respect of this motion. Almost all, if not all, of counsels’ work in respect of this written motion ended when they finished writing it. As set out further below I can not simply accept such an estimate.
+[4] Given the Crown's statement that it does not question the hours advanced by the Applicant, and the fact the Crown has not informed the Court of its hours, this word choice appears entirely unwarranted and inappropriate.
+[5] Paragraph 10, as the second heading of its Submissions, paragraph 11, 12, 13, 19, 21, 27, 33, 36, 38 and 39.

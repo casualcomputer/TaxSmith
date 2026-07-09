@@ -1,0 +1,133 @@
+Title: Kelly c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30335/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-242-30335-kelly-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-05-03
+
+# Kelly c. La Reine
+
+- Citation: 2011 CCI 242
+- Decision date: 2011-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8039, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-03
+Référence neutre
+2011 CCI 242
+Numéro de dossier
+2010-2334(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2334(IT)I
+ENTRE :
+BEVERLEY J. KELLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 16 février 2011, à Toronto (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocate de l’appelante :
+Me Judith Holzman
+Avocats de l’intimée :
+Me Thang Trieu et Me Christian Cheong
+____________________________________________________________________
+JUGEMENT
+Les appels formés contre les nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont rejetés.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 16ejour de juin 2011.
+Marie‑Christine Gervais
+Référence : 2011 CCI 242
+Date : 20110503
+Dossier : 2010-2334(IT)I
+ENTRE :
+BEVERLEY J. KELLY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Mme Kelly interjette appel contre les nouvelles cotisations d’impôt sur le revenu établies à l’égard des années d’imposition 2005 et 2006. Par ces nouvelles cotisations, le ministre du Revenu national a ajouté au revenu déclaré de Mme Kelly un montant de 5 593 $ pour 2005 et un de 5 786 $ pour 2006. Mme Kelly ne conteste pas que ces montants lui ont été versés pendant l’année par son ex‑époux conformément à une ordonnance rendue par le juge Beaulieu de la Cour de l’Ontario (Division générale), maintenant appelée la Cour supérieure de justice de l’Ontario. Le seul point en litige consiste à savoir si ces montants représentent une pension alimentaire pour conjoint au sens de l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu[1] (la « Loi »), auquel cas ils sont imposables et les présents appels doivent être rejetés.
+[2] Mme Kelly a été mariée à Gordon Lewis Kelly pendant quelque 38 ans. En 1993, elle a introduit une instance en vue d’obtenir un divorce et des mesures accessoires. En décembre 1995, les époux ont signé un procès-verbal de transaction dans cette action. Les parties pertinentes de ce document énoncent ce qui suit :
+[traduction]
+(1) L’époux doit céder ou verser à l’épouse l’équivalent de sa pension de la sécurité de la vieillesse chaque mois avant toute déduction ou tout transfert de droit. Il versera ces montants même s’il n’est pas admissible à une pension de la sécurité de la vieillesse.
+(2) L’époux doit verser à l’épouse l’équivalent du coût de ses médicaments jusqu’à concurrence de 350 $ par mois [clause non pertinente]
+(3) Les montants susmentionnés constituent l’intégralité des versements que doit faire l’époux à l’épouse et, tant et aussi longtemps que l’époux se conforme aux paragraphes 1 et 2, l’épouse renonce à tous ses droits de réclamer une pension alimentaire périodique ou forfaitaire, indépendamment de toute modification future de la situation.
+(4) L’époux s’engage à nommer l’épouse bénéficiaire d’un montant de 75 000 $ sur sa succession. Ce legs est irrévocable et lie la succession de l’époux, de même que ses héritiers et ses ayants droits, et remplace les montants exigibles en vertu des paragraphes 1 et 2 après le décès de l’époux.
+Fait le 7 décembre 1995, à Toronto.
+Ces termes ont été repris dans l’ordonnance sur consentement rendue par le juge Beaulieu, en plus du paragraphe suivant :
+[traduction]
+LA COUR ORDONNE EN OUTRE que l’ordonnance alimentaire, sauf si elle est retirée du bureau du Directeur du Régime des obligations alimentaires envers la famille, soit exécutée par le Directeur et que tous les montants exigibles en vertu de cette ordonnance alimentaire soient déposés au bureau du Directeur, qui les versera à la personne à qui ils sont dus.
+[3] Dans son témoignage, l’appelante a expliqué que cet accord avait été rédigé de la sorte parce que son ex‑époux s’était opposé avec véhémence au versement d’une pension alimentaire à son endroit. Pour cette raison, l’accord ne contenait pas les termes « pension alimentaire ». Je constate cependant que le juge Beaulieu a rendu ce qu’il appelle une « ordonnance alimentaire » et envisage son exécution comme s’il s’agissait d’une ordonnance alimentaire.
+[4] L’appelante présente deux arguments à l’appui de sa thèse selon laquelle les paiements ne sont pas imposables. Premièrement, les montants en question ne constituent pas une pension alimentaire et ne sont donc pas visés à l’alinéa 56(1)b) de la Loi. Cet argument s’appuie entièrement sur le fait que son ex-époux ne voulait verser aucune pension alimentaire et sur le fait que l’accord n’assimile pas les montants en question à une pension alimentaire. En l’absence des termes « pension alimentaire » dans l’accord, les montants doivent être d’une nature autre, sans doute un avantage inattendu qui échappe au fisc.
+[5] Cet argument comporte plusieurs lacunes. J’ai reproduit l’alinéa 56(1)b) et la définition de « pension alimentaire » figurant au paragraphe 56.1(4) de la Loi en annexe des présents motifs. Pour nos besoins ici, qu’il suffise de souligner que, de façon générale, l’alinéa 56(1)b) a pour effet d’inclure la pension alimentaire qui n’est pas versée pour un enfant dans le revenu du bénéficiaire et de faire en sorte qu’un montant versé à titre d’allocation périodique par un époux ou un ex‑époux à l’autre constitue une pension alimentaire si le bénéficiaire peut l’utiliser à sa discrétion, si ce montant est devenu payable aux termes d’une ordonnance d’un tribunal ou d’un accord écrit et si le payeur et le bénéficiaire sont séparés ou divorcés. L’absence des termes « pension alimentaire » dans l’accord ne signifie pas que ces montants, qui remplissent les conditions énoncées dans la définition, ne représentent pas une pension alimentaire. Comme l’a déclaré le juge Mogan, dans un contexte assez différent, dans la décision Sanford c. La Reine[2] :
+Un vieux cliché me vient à l’esprit. En anglais, on dit que si une créature à deux pattes et avec des plumes se dandine comme un canard, cancane comme un canard et ressemble à un canard, ce doit être un canard.
+[6] L’instance opposant l’appelante et son ex-époux a été introduite sous le régime de la Loi sur le divorce[3] et de la Loi sur le droit de la famille[4] de l’Ontario. Je ne connais aucune disposition qui autoriserait la Cour à ordonner le versement d’un montant semblable de façon périodique à moins que ce soit des aliments ou un montant versé au titre de l’égalisation lors du partage des biens familiaux. Ce dernier cas ne s’applique manifestement pas en l’espèce. L’appelante a précisé dans son témoignage qu’outre les montants en cause ici elle avait reçu la moitié du produit de la vente du foyer conjugal et que les autres biens de son ex-époux n’étaient pas visés par le partage des biens prévu dans la Loi sur le droit de la famille. Il n’y aurait non plus aucune raison de mentionner l’exécution de l’ordonnance par le Directeur du Régime des obligations alimentaires envers la famille si les montants ne représentaient pas effectivement une pension alimentaire.
+[7] Le deuxième argument avancé par l’appelante tient au fait que le ministre, quand il a établi sa cotisation à l’égard de l’année d’imposition 1997, avait inclus ces montants dans son revenu pour ensuite changer d’avis quand elle a déposé son avis d’opposition. L’appelante a expliqué que, si son opposition avait été rejetée, elle aurait demandé à la Cour de l’Ontario de majorer les montants versés compte tenu de l’effet de l’impôt. Le ministre, fait-elle maintenant valoir, ne peut par préclusion prétendre que les montants sont imposables, car elle a agi à son propre détriment en se fiant à la décision ministérielle de 1997.
+[8] Cet argument n’est absolument pas fondé. Même en supposant, pour les besoins de l’analyse, que l’appelante s’est fiée à son détriment à la décision de 1997, ce qui est douteux, au mieux, il ne pourrait y avoir aucune préclusion. La question en litige est une question de droit, et aucune préclusion ne peut empêcher l’application de la Loi : voir M.R.N. c. Inland Industries[5]. Comme l’a clairement affirmé la Cour d’appel fédérale à plusieurs reprises, le fait que le ministre a commis une erreur en établissant la cotisation d’un contribuable ne signifie pas qu’il est tenu de reproduire à jamais cette erreur[6].
+[9] J’éprouve énormément de sympathie pour l’appelante dans la présente affaire. Son ex‑époux l’a certainement traitée sans aucun égard, et le régime du droit de la famille n’a apparemment pas permis d’y remédier. Cependant, cela ne me permet pas de passer outre aux dispositions de la Loi. Je n’ai d’autre choix que de rejeter les appels.
+Signé à Ottawa, Canada, ce 3e jour de mai 2011.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 16e jour de juin 2011.
+Marie‑Christine Gervais
+ANNEXE
+56. (1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) […]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+RÉFÉRENCE : 2011 CCI 242
+No DU DOSSIER DE LA COUR : 2010-2334(IT)I
+INTITULÉ : BEVERLEY J. KELLY c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 3 mai 2011
+COMPARUTIONS :
+Avocate pour l’appelante :
+Me Judith Holzman
+Avocats de l’intimée :
+Me Thang Trieu et Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Judith Holzman
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R. 1985, ch. 1 (5e suppl.), et ses modifications.
+[2] [2001] 1C.T.C. 2273.
+[3] L.R.C. (1985), ch. 3 (2e suppl.).
+[4] L.R.O. 1990, ch. F.3.
+[5] [1974] R.C.S. 514.
+[6] Ludmer c. Canada, [1995] 2 C.F. 3; Sinclair v. The Queen, [2004] 1 C.T.C. 89.

@@ -1,0 +1,127 @@
+---
+title: "Newell v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28685/index.do"
+last_modified: "2008-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 295"
+citation2: ""
+neutral_citation: "2008 TCC 295"
+decision_date: "2008-05-13"
+language: "en"
+item_id: "28685"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1475
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:13:18.398000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ffd179584bb7b06d1fb63d655b410cc1a523a73dae8817ece0252fee88beed3d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Newell v. M.N.R.
+
+- Citation: 2008 TCC 295
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1475, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newell v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-13
+Neutral citation
+2008 TCC 295
+File numbers
+2005-2500(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-2500(EI)
+BETWEEN:
+CRYSTAL NEWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Application called for hearing on September 25, 2006,
+at Yarmouth, Nova Scotia
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+ORDER
+Whereas the Appellant was not present in Court when her application to set aside the Judgment dated June 7, 2006, was called for hearing although duly notified of the time and place of the hearing;
+And whereas no one appeared on her behalf;
+And whereas counsel for the Respondent moved for dismissal of the application;
+The Appellant’s application to set aside the Judgment dated June 7, 2006 is denied.
+Signed at Ottawa, Canada, this 13th day of May 2008.
+“C.H. McArthur”
+McArthur J.
+Citation: 2008TCC295
+Date: 20080513
+Docket: 2005-2500(EI)
+BETWEEN:
+CRYSTAL NEWELL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+McArthur J.
+[1] The Appellant’s hearing was properly set down for May 30, 2006. A request for adjournment by the Appellant on May 23, 2006, was denied.
+[2] There was no one in attendance for the Appellant on May 30, 2006. The Respondent’s counsel appeared with three witnesses, two of them from Halifax. Upon motion by the Respondent, the appeal was dismissed and Judgment was issued on June 7, 2006.
+[3] On or about August 18, 2006, the Appellant’s representative, Ronnie Newell, applied to have the Judgment set aside.
+[4] By letter to this Court dated September 14, 2006, the Respondent’s counsel wrote a comprehensive comment requesting that the Appellant’s application be dismissed.
+[5] In a letter dated September 21, 2006, with next day delivery, the Court sent the following Notice of Hearing to the Appellant’s representative:
+Reference is made to voicemail messages left on your answering machine on September 20th, 2006 and September 21st, 2006 in which I confirm the written direction of the court, dated September 20th, 2006 setting down the above noted matter for a motion to be heard in the court. Please accept this letter as confirmation that your Motion to Set Aside the Judgment of Justice McArthur, dated June 7th, 2006 will be heard on Monday, September 25th, at 9:30 a.m. at the Town Hall, Town of Yarmouth, 400 Main Street, Yarmouth, Nova Scotia.
+[6] The Appellant or her representative were not in attendance in Court on September 25, 2006 from 9:30 a.m. until 11:07 a.m. when the Court adjourned. At this time, I reserved judgment to permit Mr. R. Newell, agent for the Appellant, to present his request Tuesday through to Friday inclusive, of September 26, 27, 28 or 29, 2006 at a time of his choosing in Halifax. I believe he was made aware of this by the local registrar and the Ottawa Coordinator. He appears to have lived about mid-way between Yarmouth and Halifax. He did not take advantage of this accommodation.
+[7] To give the Appellant further time to contact the Court, my decision was withheld. The Appellant has not contacted the Court during this long delay and her application is denied.
+Signed at Ottawa, Canada, this 13th day of May 2008.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2008TCC295
+COURT FILE NO.: 2005-2500(EI)
+STYLE OF CAUSE: CRYSTAL NEWELL AND MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Yarmouth, Nova Scotia
+DATE OF HEARING: September 25, 2006
+REASONS FOR ORDER BY: The Honourable Justice C.H. McArthur
+DATE OF ORDER: May 13, 2008
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

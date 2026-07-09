@@ -1,0 +1,149 @@
+---
+title: "Saine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28119/index.do"
+last_modified: "2003-09-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 679"
+citation2: ""
+neutral_citation: "2003 CCI 679"
+decision_date: "2003-09-19"
+language: "fr"
+item_id: "28119"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1639
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:44:34.626000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c559b30e157e4e2094d1eeb7e509db68e4a052a4f2609ecb006338c8b372624c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saine c. La Reine
+
+- Citation: 2003 CCI 679
+- Decision date: 2003-09-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1639, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-19
+Référence neutre
+2003 CCI 679
+Numéro de dossier
+2003-2126(IT)APP
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2126(IT)APP
+ENTRE :
+PIERRE SAINE,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 25 août 2003 à Montréal (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Pour le requérant :
+le requérant lui-même
+Représentante de l'intimée :
+Mélanie Bélec (stagiaire)
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite en vue d'obtenir une ordonnance prorogeant le délai dans lequel des appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993 et 1994 peuvent être interjetés;
+Et vu les allégations des parties;
+La demande est rejetée, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2003.
+« P.R. Dussault »
+Juge Dussault
+Référence : 2003CCI679
+Date : 20030919
+Dossier : 2003-2126(IT)APP
+ENTRE :
+PIERRE SAINE,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Dussault
+[1] Le requérant demande une ordonnance pour proroger le délai à l'intérieur duquel il peut interjeter appel de cotisations établies en vertu de la Loi de l'impôt sur le revenu (« Loi ») pour les années d'imposition 1992, 1993 et 1994.
+[2] Dans sa réponse à cette demande, le Sous-procureur général du Canada déclare ce qui suit aux paragraphes 1 à 7 :
+1. En date du 15 mars 1996, le Ministre du Revenu national (ci‑après, le « Ministre ») a expédié au requérant un avis de nouvelle cotisation pour l'année d'imposition 1992.
+2. Le ou vers le 30 avril 1997, le requérant a signifié au Ministre son opposition à l'égard de la nouvelle cotisation datée du 15 mars 1996 pour l'année d'imposition 1992.
+3. En date du 23 février 1999, le Ministre a expédié au requérant des avis de nouvelles cotisations pour les années d'imposition 1993 et 1994.
+4. Le ou vers le 1er mars 1999, le requérant a signifié au Ministère son opposition à l'égard des nouvelles cotisations datées du 23 février 1999.
+5. Par courrier recommandé expédié par la poste en date du 8 avril 2002, le Ministre a avisé le requérant qu'il confirmait les nouvelles cotisations datées du 15 mars 1996, pour l'année d'imposition 1992 et du 23 février 1999, pour les années d'imposition 1993 et 1994.
+6. Le requérant n'a pas interjeté appel auprès de la Cour canadienne de l'impôt dans le délai prescrit par le paragraphe 169(1) de la Loi de l'impôt sur le revenu (ci-après, la « Loi »), relativement aux nouvelles cotisations, ratifiées le 8 avril 2002, lequel se terminait le 7 juillet 2002.
+7. Le 10 juin 2003, le requérant a déposé auprès de la Cour canadienne de l'impôt une demande de prorogation de délai pour interjeter appel, relativement aux avis de nouvelles cotisations établies pour les années d'imposition 1992, 1993 et 1994.
+[3] Ces faits sont admis par le requérant qui a cependant ajouté que cette récitation des faits n'est pas exhaustive puisqu'il y aurait eu une « cascade » de cotisations différentes débutant en 1994 et se terminant en 2002. En réalité, la dernière cotisation pour l'année d'imposition 1992 a été établie le 15 mars 1996 et les dernières cotisations pour les années d'imposition 1993 et 1994 ont été établies le 23 février 1999. Le requérant s'est opposé à ces cotisations en temps utile et ce sont ces trois cotisations qui ont été confirmées le 8 août 2002.
+[4] Toutefois, le requérant soutient n'avoir pas reçu l'avis de confirmation du 8 avril 2002 envoyé par poste recommandée (pièces I-1, I-2 et I-3). Pourtant, c'est sa conjointe, madame Chantal Raymond qui a accepté l'envoi et signé l'avis de réception. Le requérant a affirmé qu'il avait quitté la résidence familiale située sur la rue Querbes à Outremont en janvier 2002 et qu'en avril 2002, il vivait alors chez sa mère. Il a d'abord dit que l'avis de confirmation ne lui avait pas été remis par sa conjointe puis qu'il est possible qu'elle lui ait remis, mais qu'il ne peut l'affirmer.
+[5] Le requérant a aussi dit qu'il n'avait pas reçu une lettre de la Division des Appels datée du 8 février 2002 l'informant de la décision prise par les autorités de confirmer les cotisations en cause.
+[6] Dans son témoignage, monsieur Charles Lemire, agent des appels, a affirmé qu'une cause-type dans un dossier semblable était déjà devant la Cour canadienne de l'impôt, il s'agit de l'affaire McKeown c. Canada, [2001] A.C.I. no 236 (Q.L.). Le dossier du requérant, qui n'avait pas encore interjeté appel avait été mis en attente. Monsieur Lemire a affirmé avoir été en communication avec le requérant d'abord en juin 2001 puis en juillet de la même année afin notamment de répondre à ses questions. C'est de huit à dix mois après la décision dans l'affaire McKeown, (précitée) que les autorités ont pris la décision de confirmer les cotisations dans le dossier du requérant et cette décision a alors été annoncée dans la lettre du 8 février 2002 mentionnée plus haut dans laquelle on donnait au requérant une période de 30 jours pour présenter ses observations. N'ayant eu aucune nouvelle de celui-ci à l'expiration de ce délai, les cotisations ont été confirmées 30 jours plus tard, soit le 8 avril 2002 et l'avis a été envoyé par poste recommandée.
+[7] Monsieur Daniel Zane, agent de recouvrement à l'Agence des douanes et du revenu du Canada (l'« ADRC »), est entré en communication avec le comptable du requérant, un certain monsieur Létourneau, le 13 novembre 2002. Ce dernier lui a affirmé que le requérant n'avait pas reçu l'avis de confirmation du 8 avril 2002. C'est monsieur Létourneau qui a informé monsieur Zane que l'adresse de la rue Querbes n'était plus valable et qui lui a communiqué une nouvelle adresse sur la rue Laurier ouest. Monsieur Zane, après confirmation du mandat de monsieur Létourneau, lui a fait parvenir par télécopieur une copie de la lettre d'intention du 8 février 2002, ainsi que de l'avis de confirmation des cotisations du 8 avril 2002.
+[8] Dans son témoignage, le requérant a affirmé avoir contacté une certaine dame Matteau de l'ADRC en novembre ou décembre 2002. Celle-ci lui aurait dit de « monter un dossier ». Le requérant a dit avoir cherché ses documents pour constituer un dossier complet ce qui lui aurait pris beaucoup de temps puisque les « archives étaient éparpillées ». Ce dossier a été présenté en preuve par le requérant (pièce A-1). Il s'agit essentiellement de lettres envoyées en 1994 par le requérant à divers fonctionnaires de l'ADRC et présentant ses observations concernant son projet de recherche et développement.
+[9] Le dossier préparé par le requérant a été transmis à monsieur Lemire, l'agent des appels en mai 2003. Celui qui a alors communiqué avec le requérant le 23 mai 2003. Ce dernier voulait porter l'affaire devant le tribunal compétent. Monsieur Lemire lui a alors dit d'interjeter appel et lui a retourné le dossier reçu.
+[10] La demande de prorogation de délai a été déposée à la Cour canadienne de l'impôt le 10 juin 2003.
+[11] D'abord, il appert que l'appelant n'aurait pas notifié son changement d'adresse à l'ADRC avant le 13 novembre 2002 et que c'est son comptable qui l'aurait fait pour lui lors de la communication avec monsieur Zane.
+[12] Deuxièmement, l'avis de confirmation du 8 avril 2002 a été régulièrement envoyé au requérant à sa dernière adresse connue de l'ADRC. D'ailleurs, c'est sa conjointe qui en a pris livraison et qui a signé l'avis de réception.
+[13] Le requérant n'est en fait pas certain si sa conjointe lui a remis l'avis de confirmation en avril 2002. Cependant, une chose est certaine c'est que cet avis a été communiqué de nouveau par monsieur Zane à son mandataire, le comptable Létourneau, le 14 novembre 2002. Je signale ici que cet avis comme tous les avis de confirmation se termine par le paragraphe suivant :
+« Si vous n'êtes pas d'accord avec la décision, vous pouvez interjeter appel auprès de la Cour canadienne de l'impôt. Vous trouverez ci-joints des renseignements concernant la façon de procéder. »
+[14] L'intimée prétend que le requérant qui n'a pas interjeté appel dans le délai de 90 jours suivant l'envoi de l'avis de confirmation n'a pas non plus démontré que la demande de prorogation du délai pour le faire a été présentée dès que les circonstances le permettaient.
+[15] Je suis d'accord. Même si le requérant semblait vouloir toujours poursuivre ses démarches auprès des fonctionnaires de l'ADRC en novembre ou décembre 2002, il était en mesure de s'adresser à la Cour dès le 14 novembre 2002. Qu'il ait attendu près de sept mois pour le faire ne permet certainement pas de conclure que la demande a été présentée dès que les circonstances le permettaient comme l'exige le sous‑alinéa 167(5)b)(iii) de la Loi.
+[16] En conséquence, la demande est rejetée.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2003.
+« P.R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2003CCI679
+No DU DOSSIER DE LA COUR :
+2003-2126(IT)APP
+INTITULÉ DE LA CAUSE :
+Pierre Saine et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 25 août 2003
+MOTIFS DE L'ORDONNANCE PAR :
+l'honorable Juge P.R. Dussault
+DATE DE L'ORDONNANCE :
+le 19 septembre 2003
+COMPARUTIONS :
+Pour le requérant :
+le requérant lui-même
+Pour l'intimée :
+Mélanie Bélec (stagiaire)
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour le requérant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,217 @@
+---
+title: "Gagnon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25513/index.do"
+last_modified: "2006-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 194"
+citation2: ""
+neutral_citation: "2006 TCC 194"
+decision_date: "2006-03-24"
+language: "en"
+item_id: "25513"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2371
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:14:08.424000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8810180fc29f42ec496f90ff30669fc8062e4621db3edbf13cb075cefac5c7d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon v. The Queen
+
+- Citation: 2006 TCC 194
+- Decision date: 2006-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2371, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-24
+Neutral citation
+2006 TCC 194
+File numbers
+2002-1323(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1323(IT)G
+BETWEEN:
+JACQUES GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 17 and April 14, 2005, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoît and Nicolas Simard
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act ("the Act") for the 1997 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 24th day of March 2006.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 26th day of October 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC194
+Date: 20060324
+Docket: 2002-1323(IT)G
+BETWEEN:
+JACQUES GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue ("the Minister") under the Income Tax Act ("the Act") in which the Minister included a grossed-up taxable dividend of $124,998 in the Appellant's income for the 1997 taxation year and, at the same time, allowed a dividend tax credit of $16,666.39 in computing the tax payable by the Appellant during that year.
+[2] During his testimony, the Appellant explained that he and his brother André Gagnon purchased a business called "Le Bar Billard Allium" in early 1995. Officially, the bar was purchased by 139028 Canada Inc. ("the corporation"), whose sole shareholder at the time was André Gagnon, the Appellant's brother. The bar was operated under the business name "La Galanterie" (see the financial statements at December 31, 1995, Exhibit I‑1, tab 14).
+[3] At the time of this purchase, the Appellant's father allegedly gave him and his brother $5,000 each to invest in the bar. The Appellant says that he endorsed this cheque and gave it directly to his brother. He said that he invested no other sum of money in the business – his brother is the one who advanced the funds to pay the roughly $23,000 balance on the purchase and to pay for the renovation work on the bar. For his part, the Appellant looked after the operations, including the purchase of video machine terminals and various supplies on behalf of the corporation. He said that he was never remunerated for his services. There was supposedly an informal agreement with his brother under which the Appellant owned 50% of the bar. However, the Appellant was not issued any shares in the corporation during this period.
+[4] On March 8, 1997, the Appellant sought to sell his share of the bar. An agreement between him and his brother (Exhibit I‑1, tab 6) was made, stating:
+[TRANSLATION]
+AGREEMENT BETWEEN:
+JACQUES GAGNON,
+"Seller"
+- and -
+ANDRÉ GAGNON,
+"Purchaser"
+THE FOLLOWING HAS BEEN AGREED TO:
+1. Jacques Gagnon hereby sells all his interest in the business called "Le Bar Billard Allium", property of 139028 Canada Inc., effective today, to André Gagnon, for the sum of $50,000 and other consideration, payable as follows:
+1. (a) $ 25,000 on March 13, 1997; and
+(b) $ 25,000 on May 10, 1997.
+2. André Gagnon shall be solely responsible for all the debts of Le Bar Billard Allium.
+3. André Gagnon grants Jacques Gagnon an interest‑free loan of $50,000, in the form of demand notes, to be advanced to Jacques Gagnon as follows:
+(a) $25,000 on July 10, 1997; and
+(b) $25,000 on September 10, 1997.
+2. This sale also includes all of Jacques Gagnon's interests in the "Deli Bar O'Max" restaurant. Such interests are immediately transferred to André Gagnon for the sum of $1.00, on the condition that André Gagnon shall pay all the debts that it owed prior to the sale to Christian Gaudreau.
+3. In consideration of the foregoing, the two (2) parties release each other fully and finally from any claim that either might have had against the other while they were in business together.
+4. If a single one of the payments is not made on the dates specified above, this agreement shall become null and of no effect and the parties shall be placed in the same situation that they were in prior to this agreement, without restitution of the amounts already paid.
+5. This agreement is a transaction within the meaning of the Civil Code of the province of Quebec.
+6. The parties agree to sign all appropriate documents upon request in order to give effect to this agreement.
+7. Ronald Bélec, attorney, has been chosen by the parties as trustee of this agreement and of all documents necessary for its execution.
+Signed at Hull, March 6, 1997.
+(Signature)
+JACQUES GAGNON,
+"Seller"
+(Signature)
+ANDRÉ GAGNON,
+"Purchaser"
+[5] While this agreement refers to $50,000 in consideration and a $50,000 loan to the Appellant, the Appellant clearly told the Court that he owed nothing to his brother and had received the $100,000 in consideration of his equity in the bar. He received this amount in five instalments: two instalments on March 13, 1997, and the other three on May 10, July 10 and September 10, 1997, respectively. These amounts were paid to him by the corporation, not by André Gagnon directly (see Exhibit I‑1, tab 11).
+[6] According to the Appellant, on September 10, 1997, when the Appellant received the last payment, his brother asked him to sign a new agreement that would annul the preceding one and would be retroactive to March 8, 1997. By this new agreement, the Appellant would be considered not to have received $100,000 from his brother in consideration of his equity in the bar. Rather, under this new agreement, two shares in the corporation would be issued to the Appellant retroactively and, in the transaction of March 8, 1997, the corporation would be considered to have redeemed the two shares from the Appellant in consideration of $100,000.
+[7] Based on the understanding that this new agreement would not alter his situation, the Appellant signed this second agreement at the request of lawyer Ronald Bélec, who acted as a sort of intermediary between the two brothers. It should also be said that, as of March 8, 1997, the date of the first agreement, the Appellant thought, based on information obtained from Mr. Bélec, that the $100,000 transaction was tax-neutral for him, because, in the negotiations, his brother had agreed to assume all tax liabilities related to the transaction. This is apparently why the Appellant did not include this amount in his income tax return for the 1997 taxation year.
+[8] Mr. Bélec testified to explain the circumstances under which the two agreements were signed. He explained that the Appellant wanted to sell his interest in the bar and was asking his brother for $200,000 to cover the tax payable. Supposedly, the Appellant's brother ultimately agreed to pay the Appellant $100,000, and told him that he would assume the tax liability himself. All of these negotiations were held over a very brief period in March 1997, and Mr. Bélec drafted the first agreement at that time. Since the Appellant did not appear to own any shares in the corporation, Mr. Bélec wrote in the first agreement that the Appellant was selling his "interest" in the business, which was the property of the corporation. In addition, even though the first agreement stipulates otherwise, Mr. Bélec clearly stated that André Gagnon did not grant a $50,000 loan to the Appellant.
+[9] When the last $25,000 instalment was made, André Gagnon, the Appellant's brother, supposedly realized that he had to justify a $100,000 payment from the corporation to the Appellant. At this time, on André Gagnon's request, Mr. Bélec issued two shares of the corporation to the Appellant, retroactive to May 6, 1996 (Exhibit I‑1, tab 10) in order to justify the sale of the Appellant's interest in the corporation, which owned the bar. André Gagnon, the corporation's president, then signed a resolution of the directors dated March 8, 1997, approving the redemption of the Appellant's two shares by the corporation (Exhibit I‑1, tab 9). A second agreement was then prepared by Mr. Bélec in September 1997, but dated March 8, 1997. It was signed by the Appellant as seller; and by his brother, both on behalf of the purchaser corporation, and personally as surety. This agreement, Exhibit I‑1, tab 8, reads as follows:
+[TRANSLATION]
+JACQUES GAGNON,
+"Seller"
+- and -
+139028 CANADA LTD.,
+"Purchaser"
+- and -
+ANDRÉ GAGNON,
+"Surety"
+________________________
+THE FOLLOWING HAS BEEN AGREED TO:
+1. On this day, Jacques Gagnon hereby sells his shares in 139028 Canada Ltd. to that corporation for the sum of $100,000 and other consideration, payable as follows:
+1. (a) $25,000.00 on March 13, 1997;
+(b) $25,000.00 on May 10, 1997;
+(c) $25,000.00 on July 10, 1997; and
+(d) $25,000.00 on September 10, 1997.
+2. Jacques Gagnon renounces the $4,900 demand note made out to him by 139028 Canada Ltd. on May 6, 1995.
+3. André Gagnon shall be solely responsible for all the debts of "Le Bar Billard Allium", property of 139028 Canada Ltd.
+2. This sale also includes all interests that Jacques Gagnon had in "Deli Bar O'Max" restaurant. Such interests are immediately transferred to 139028 Canada Ltd. for the sum of one dollar ($1.00), on the condition that corporation shall pay off all the debts that this business owed prior to the sale to Christian Gaudreau.
+3. In consideration of the foregoing, the parties hereto give each other a full and final release from all claims that each might have against the other during the entire period in which they were in business together.
+4. Should any one of the instalments not be paid on the dates specified above, this sale shall become null and of no effect, and the parties shall be placed back in the same situation that they were in prior to this agreement, without restitution of the amounts already paid.
+5. This agreement is a transaction within the meaning of the Civil Code of the province of Quebec.
+6. André Gagnon intervenes herein as surety for the obligations contracted by 139028 Canada Ltd. in favour of Jacques Gagnon.
+7. The parties agree to sign all appropriate documents upon request in order to give effect to this agreement.
+Signed at Hull, March 8, 1997.
+[10] At the same time, the Appellant agreed to annul the first agreement signed on March 8, 1997 (Exhibit I‑1, tab 7).
+[11] Mr. Bélec acknowledged that the Appellant had been reticent to sign the second agreement and annul the first one. He signed it on the understanding that his brother would be responsible for paying the applicable tax. As for André Gagnon, he did not come before the Court to provide his version of the facts.
+[12] Based on the second agreement, the Minister assessed the Appellant for a deemed dividend upon a redemption of shares pursuant to subsections 82(1) and 84(3) of the Act on the assumption that the Appellant had received $100,000 from the corporation upon the redemption of two shares for which the paid-up capital was $2.00. Indeed, for accounting purposes, the corporation treated the transfer of the shares like a redemption, as shown by the financial statements of the corporation at December 31, 1998 (Exhibit I‑1, tab 15, pages 4 and 9).
+[13] At the hearing, counsel for the Respondent appeared to acknowledge that the second agreement was null, and relied, instead, on the alternative position stated in the Reply to the Notice of Appeal, namely that the Appellant should have been taxed on a capital gain following the sale of his equity in the bar, not on a deemed dividend upon a redemption of shares.
+[14] The Respondent agrees that the Appellant invested $5,000 into the business (the money from his father). In addition, the Minister has already agreed that the $1,880 in legal fees incurred by the Appellant (Exhibit I-1, tab 12) at the time of the sale of his equity in the bar could be deducted as a capital loss offsetting a capital gain (see Exhibit I‑1, tab 3, the Notice of Reassessment dated October 17, 2000, acknowledging a net capital loss of $1,410, which is 75% of $1,880).
+[15] In a document tendered in the Court, the Respondent showed that, assuming an adjusted cost base of $5,000 and disposition expenses of $1,880, the tax payable by the Appellant on the capital gain would be $15,771. But the Appellant was assessed $15,048 on a deemed dividend. The Respondent acknowledges that, regardless of the decision of this Court, the amount assessed cannot be increased. In this regard, the Respondent refers to Harris v. M.N.R., 64 DTC 5332 (Exch. Ct.).
+[16] As for the Appellant, he says that he signed the second agreement based on false considerations, believing that it was mere courtesy done for internal accounting convenience in accordance with instructions given by André Gagnon's accountant. Moreover, having received all the payments, he signed the original of the first agreement stating that it was annulled on the understanding that it was terminated (see Notice of Appeal, page 2, paragraphs 4 to 6). In any event, the Appellant does not believe that this transaction is taxable at all. He does not acknowledge the existence of a capital gain or of a deemed dividend. In his view, his brother should be responsible for any tax assessment.
+[17] In my opinion, and even if counsel for the Respondent recognizes the preponderance of the first agreement, this first agreement was not legally valid and could be declared null. Indeed, in this first agreement, the Appellant sold something that did not belong to him. The bar was owned by the corporation, and I do not see how the Appellant could have alienated his interest in a business that did not belong to him. The purchaser (the Appellant's brother) was therefore justified in seeking to set it aside.
+[18] Articles 1713 to 1715 of the Civil Code of Québec stipulate as follows:
+3. – Sale of property of another
+ART. 1713 The sale of property by a person other than the owner or than a person charged with its sale or authorized to sell it may be declared null.
+The sale may not be declared null, however, if the seller becomes the owner of the property. ‑ CCLC 1487, 1488
+ART. 1714 The true owner may apply for the annulment of the sale and revendicate the sold property from the buyer unless the sale was made under judicial authority or unless the buyer can set up positive prescription.
+If the property is a movable sold in the ordinary course of business of an enterprise, the owner is bound to reimburse the buyer in good faith for the price he has paid. – CCLC 1489, 1490
+ART. 1715 The buyer as well may apply for the annulment of the sale.
+He may not do so, however, where the owner himself is not entitled to revendicate the property. – CCLC 1487
+[19] In addition, Mr. Bélec acknowledged that André Gagnon did not lend the Appellant $50,000 as stipulated in the first agreement. The Appellant also acknowledged this state of affairs when he insisted that he owed his brother nothing. Mr. Bélec said that he drafted the first agreement very quickly, after the two brothers appeared to have reached an agreement on the amount to pay the Appellant. Clearly, however, and leaving aside the tax consequences of the transaction, this first agreement, as drafted, was invalid, and did not reflect the legal reality of the agreement negotiated by the two brothers.
+[20] In fact, it is the corporation that paid the Appellant, and the Appellant agreed to cash the cheques drawn on the corporation's account. Only in September 1997 did André Gagnon realize (having been so informed by his accountant) that the first agreement, as drafted, was not consistent with the actual transaction between the two brothers. The situation was therefore corrected retroactively in order to recognize the Appellant's legal rights. Shares were issued retroactively to the Appellant, thereby acknowledging that he had invested in the corporation and had then disposed of his equity in March 1997.
+[21] As for the Appellant, while he says that, in a sense, he was compelled by false representations to sign the second agreement retroactively, he does acknowledge that the first agreement was erroneous because no loan was advanced to him. In addition, from the very outset of this adventure, he believed he was entitled to 50% of the appreciation of the value of the business. He agreed from the outset to the business being purchased by the corporation, and he agreed to the corporation repurchasing his equity directly.
+[22] In my opinion, the second agreement embodies the legal reality of the parties' contractual intent. Since no share certificate was issued to the Appellant at the time that he decided to invest in the business, and the business was held by the corporation, Mr. Bélec rectified the situation in order to give legal meaning to the transaction. Indeed, by agreeing to pay the Appellant $100,000, the corporation was implicitly acknowledging that the Appellant had subscribed for shares that gave him rights in respect of the profits and assets of the business owned by the corporation. The fact that these shares were issued in September 1997, retroactive to May 6, 1995, does not alter this state of affairs because the shares need not necessarily be issued at the time of the subscription. A person can be declared a shareholder retroactively: see Paul Martel, La compagnie au Québec - Les aspects juridiques, volume 1 (Ottawa: Wilson & Lafleur Martel, 2005) at pages 14‑9 and 19‑31; and Dubeau v. Groupe T.S. Inc., J.E. 95-1149 (Que. S.C.).
+[23] In my opinion, the first agreement was relatively null, and both the corporation (the true owner of the business) and André Gagnon (the purchaser) were entitled to invoke this nullity: see articles 1713 to 1715 C.C.Q. and Didier Lluelles, Droit québecois des obligations, vol. 1 (Montréal: Thémis, 1998) at page 680, paragraph 2053, and page 689, paragraph 2068. In the instant case, it appears that André Gagnon did not want to annul the transaction, but merely to rectify the agreement signed on March 8, 1997, so that it would legally reflect the transaction between himself, the corporation and the Appellant. In fact, based on the statement of account that Mr. Bélec sent to the Appellant, which states, among other things, [TRANSLATION] "preparation of an amended agreement approved by the two (2) partners" (Exhibit I‑1, tab 12, invoice of September 15, 1997), it appears that the Appellant approved of this state of affairs. I therefore find that, having regard to the circumstances, the second agreement is the one that prevails and reflects the contractual reality negotiated by the two brothers. The Minister was therefore warranted in assessing the Appellant for a redemption of shares by the corporation under subsections 82(1) and 84(3) of the Act.
+[24] The fact that the Appellant negotiated the sum of $100,000 on the assumption that his brother would pay the tax liability cannot be binding on the Respondent. The Appellant is the one who sold his equity in the business, via the corporation, and he is the person who owes tax to Her Majesty under the Act. If he feels that his brother did not comply with his contractual obligation, he will have to commence proceedings against him.
+[25] In addition, even if one attempts to argue that the Appellant sold his "interest" in the bar under the first agreement, the computation of the tax payable on the capital gain shows that the tax would be higher. Since the Appellant did not declare the income, he is not eligible for the capital gain exemption under section 110.6 of the Act.
+[26] In addition, the Minister already recognized that the $1,880 in legal fees was a capital loss that be could be set off against a capital gain in the future. As for the $5,000 investment allegedly made by the Appellant in 1995, it appears that the corporation recorded it as a long-term liability toward the Appellant (based on notes reading [TRANSLATION] "long-term liability" in the financial statements at December 31, 1995, and December 31, 1997: Exhibit I-1, tab 14, page 5, note 5; and tab 15, page 8, note 6.) By signing the second agreement, the Appellant renounced $4,900 of this debt, leaving a balance of $100 which was not treated as a bad debt.
+[27] Thus, I find that the Minister correctly assessed the Appellant on a deemed dividend based on the second agreement. Since the Appellant received $100,000 from the corporation for the redemption of shares for which the paid-up capital is $2.00 based on the corporation's financial statements, the Minister was justified in including a grossed-up taxable dividend of $124,998 in the Appellant's income and in granting him a $16,666.39 dividend tax credit, pursuant to subsections 82(1) and 84(3) of the Act and section 121 of the Act.
+[28] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 24th day of March 2006.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 26th day of October 2006.
+Monica F. Chamberlain, Reviser
+CITATION:
+2006TCC194
+COURT FILE NO.:
+2002-1323(IT)G
+STYLE OF CAUSE:
+Jacques Gagnon v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATES OF HEARING:
+January 17 and April 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+March 24, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoît and Nicolas Simard
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

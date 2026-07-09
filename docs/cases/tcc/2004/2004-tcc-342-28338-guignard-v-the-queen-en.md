@@ -1,0 +1,205 @@
+---
+title: "Guignard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28338/index.do"
+last_modified: "2004-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 342"
+citation2: ""
+neutral_citation: "2004 TCC 342"
+decision_date: "2004-05-05"
+language: "en"
+item_id: "28338"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1890
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:30:19.457000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0e3f704b5a219a6c3e5cccc5af3aa1f603de0b243388156a34d38142eb597d41"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guignard v. The Queen
+
+- Citation: 2004 TCC 342
+- Decision date: 2004-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1890, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guignard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-05
+Neutral citation
+2004 TCC 342
+File numbers
+2003-4013(IT)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4013(IT)APP
+BETWEEN:
+CAROLE GUIGNARD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on April 21, 2004, at Matane, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Applicant:
+Edouard Côté
+Counsel for the Respondent:
+Pierre-Paul Trottier
+____________________________________________________________________
+ORDER
+Upon application for an order extending the time within which an appeal from the assessment made pursuant to the Income Tax Act dated March 2, 2001, and bearing the number 19975, may be instituted;
+In support of her application, the Applicant submitted various explanations justifying why she did not submit a Notice of Appeal within the prescribed time. The explanations submitted are not admissible for the following reasons.
+The application is dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2004TCC342
+Date: 20040505
+Docket: 2003-4013(IT)APP
+BETWEEN:
+CAROLE GUIGNARD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] The Applicant submitted an application for an order to extend the time within which an appeal may be instituted; she based her application on the following facts:
+[TRANSLATION]
+1. She takes note of paragraph 1 of the Notice of Appeal.
+2. She admits the facts alleged in paragraphs 2, 3 and 4 of the Notice of Appeal.
+3. She has no knowledge the facts alleged in paragraphs 5 and 6 of the Notice of Appeal.
+4. She admits the fact alleged in paragraph 7 of the Notice of Appeal.
+5. She denies the facts alleged in paragraphs 8, 9, and 10 of the Notice of Appeal.
+6. On March 2, 2001, the Minister of National Revenue (the Minister) sent the Applicant a Notice of Reassessment, bearing the number 19975.
+7. On or around May 31, 2001, the Applicant served on the Minister her objection to the reassessment bearing the number 19975 and dated March 2, 2001.
+8. The Minister notified the Applicant by registered mail dated November 28, 2001 that he confirmed the reassessment bearing the number 19975 and dated March 2, 2001.
+9. The Applicant did not institute an appeal to the Tax Court of Canada within the prescribed time, which ended on February 26, 2002, pursuant to subsection 169(1) of the Income Tax Act (the Act), with respect to the reassessment dated March 2, 2001, and confirmed November 28, 2001.
+10. On November 4, 2003, the Applicant submitted an application to extend the time within which to institute an appeal to the Tax Court of Canada with respect to the Notice of Reassessment bearing number 19975 and dated March 2, 2001.
+11. The Respondent contends that the application should be dismissed for the following reasons:
+a) the Applicant’s application was not made within one year after the expiration of the time limited by section 169 for appealing, in accordance with the requirements of paragraph 167(5)(a) of the Act;
+b) the Applicant did not demonstrate that, within the time to submit her Notice of Appeal, she was unable to act or to instruct another to act in her name, in accordance with the requirements of subparagraph 167(5)(b)(i) of the Act;
+c) the Applicant did not demonstrate that, within the time to submit her Notice of Appeal, that she had a bona fide intention to appeal, in accordance with the requirements of subparagraph 167(5)(b)(i) of the Act;
+d) given the reasons set out in the application and the circumstances of the case, it would not be just and equitable to grant the application, pursuant to subparagraph 167(5)(b)(ii) of the Act;
+e) the Applicant did not show that the application was made as soon as the circumstances permitted, pursuant to subparagraph 167(5)(b)(iii) of the Act.
+[2] In her testimony, the Applicant said she loaned $20,000 to Yves Beaulieu so that he could buy an immovable in 1995. On May 2, 1997, Yves Beaulieu found himself unable to honour his debts; he transferred the immovable charged with a $58,000 hypothec to the Applicant. In March 2001, the Applicant sold this same immovable for $123,000; she made a significant profit.
+[3] After the transfer in May 1997, the Respondent assessed the Applicant in accordance with section 160 of the Income Tax Act (the Act). The assessment was the subject of an objection submitted by the Applicant’s counsel. On November 26, 2001, a Notice of Confirmation was sent to both the Applicant and her counsel. The assessment of $52,754.96 can be broken down as follows:
+Federal income tax
+$25,612.63
+Penalties
+$13,054.78
+Interest
+$14,087.55
+$52,754.96
+[4] The Applicant, a postmaster, explained she believed that the Notice of Confirmation meant that everything had been resolved and she no longer owed anything. She did not confer with her counsel and her counsel did not contact her either. The months passed and on June 2, 2003, almost two years later, the Applicant received the following letter:
+[TRANSLATION]
+Subject: Assessment pursuant to subsection 160(1) ITA with respect to a transfer of property from Yves Beaulieu to Carole Guignard
+Notice of Assessment Number: 19975
+Balance: $52,754.96
+Dear Madam,
+Following the review of your objection, a letter was sent to you November 28, 2001, explaining that assessment 19975 had been confirmed. However, our files indicate that the balance of your account has still not been paid.
+We would ask you to forward to us the outstanding amount within 15 days or we will be obliged to take legal action without further notice.
+If you have already paid this amount, please disregard this notice. However, if your payment was made more than 15 days ago, please provide us with the appropriate details as soon as possible.
+Thank you for your cooperation.
+[5] She read the letter and said she was convinced that it was a simple error. She advised her friend, Beaulieu, who confirmed it was just an error.
+[6] She did not communicate with her counsel, who prepared the Notice of Objection. Moreover, she admits to not having taken the proper steps to determine what was happening as her job begins early in the morning and finishes after office hours. Finally, she said she never makes any personal calls during work hours.
+[7] The months passed and on September 3, 2003, she received another letter (Exhibit A-3), which said the following:
+[TRANSLATION]
+Madam,
+Subject: Assessment pursuant to subsection 160(1) ITA with respect to a transfer of property from Yves Beaulieu to Carole Guignard
+Notice of Assessment Number: 19975
+Balance: $52,754.96
+Our files indicate that you still not have paid the outstanding balance of $52,754.96 on your account, even though we have notified you of the payment required.
+Please send us the payment in full immediately.
+If you do not pay the full amount in 7 days, we may take legal action without further notice.
+If you have already paid this amount, thank you very much and please disregard this notice. However, if your payment was made by more than 15 days ago, please provide us with the appropriate details so that we can credit your account.
+Thank you very much for your cooperation.
+[8] When she received this letter, she reacted. She confirmed having concluded that it was not an error as the deadline for payment was very short. She contacted her friend and her counsel, the same one who prepared the Notice of Objection. This time, she provided her four telephone numbers so that she could be reached at any time, including at work.
+[9] It must be mentioned that one of the numbers is a cell phone number and one of the others is the office number for where she works as a postmaster. It seems that the Applicant was prepared to receive a call at work.
+[10] Following the September 3, 2003 request for payment, an application to extend the time was formally submitted November 3, 2003, almost two years after the confirmation of the assessment on November 28, 2001, and two months after the last notice of payment.
+Analysis
+[11] The Applicant would like to submit an appeal from the assessment of $52,754.96 even though more than two years has elapsed, under the pretext that she did not understand the meaning of the word “confirmation” and that she did not think it worthwhile to find out.
+[12] The Applicant is a postmaster; she therefore has or must have some initiative, especially since the Notice of Confirmation plainly stated the Applicant’s obligation. Moreover, how can we explain and especially understand her not contacting her counsel? What is even more puzzling is why her counsel did not contact her to explain the situation. These are very important questions, the answers to which are beyond me.
+[13] The application to extend the time to institute an appeal outlines facts that not only fail to confirm the Applicant’s testimony but actually contradict it. I would like to specifically refer to paragraph 5, which reads as follows:
+[TRANSLATION]
+5. Following the receipt of the decision regarding the Notice of Confirmation by the Minister, the Appellant believed in good faith that her counsel had submitted an appeal with the Tax Court of Canada;
+[14] In paragraph 6, the following is stated:
+[TRANSLATION]
+6. It was not until receipt of the notice of payment on September 3, 2003, that the Appellant understood that the file had not been appealed or settled;
+[15] During her testimony, the Applicant admitted to receiving the first request for payment, which was not dated September 3 but June 2; her explanation for this is that she was convinced it was an error. Paragraph 6 was written as though the June 2 notice had never existed.
+[16] The Applicant would like the Court to take for granted that the date for calculating the time for the appeal is the date the last letter was received, which was September 3, 2003, not the date of the confirmation of the assessment.
+[17] Four paragraphs later, in paragraph 11, she acknowledges the application is out of time. The admission reads as follows:
+[TRANSLATION]
+11. The Appellant asks this Honourable Court to authorize her to submit an appeal from the Notice of Confirmation by the Minister issued November 28, 2001, even though she is out of time, in order to avoid irreparable harm to herself;
+[18] For reasons based on fairness, according to her, the Applicant is actually asking for this Court to absolve negligence, carelessness and recklessness. I do not believe that these are valid grounds for an application based on fairness.
+[19] I wish to point out, in concluding, that the Tax Court of Canada must apply the Act, and there is no possible doubt in this case that the Act requires the dismissal of the Applicant’s application as she is out of time and it is a strict time limit.
+[20] The application for an extension of time is therefore dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2004TCC342
+COURT FILE NO:
+2003-4013(IT)APP
+STYLE OF CAUSE:
+Carole Guignard v. Her Majesty the Queen
+PLACE OF HEARING:
+Matane, Quebec
+DATE OF HEARING:
+April 21, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Alain Tardif
+DATE OF ORDER:
+May 5, 2004
+APPEARANCES:
+Counsel for the Applicant:
+Edouard Côté
+Counsel for the Resondent:
+Pierre-Paul Trottier
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Edouard Côté
+Firm:
+Guay, Côté, Desaulniers, Ouellet
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

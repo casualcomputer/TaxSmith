@@ -1,0 +1,196 @@
+---
+title: "Bolduc v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231821/index.do"
+last_modified: "2017-06-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 104"
+citation2: ""
+neutral_citation: "2017 TCC 104"
+decision_date: "2017-06-06"
+language: "en"
+item_id: "231821"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2146
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:20:17.212000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55d47487afb220e5bcc1d94803755229cf37fee69567c6027b38a4ea52f74f64"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bolduc v. The Queen
+
+- Citation: 2017 TCC 104
+- Decision date: 2017-06-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2146, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-06
+Neutral citation
+2017 TCC 104
+File numbers
+2016-3904(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3904(IT)I
+BETWEEN:
+DANY BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 2, 2017, at Chicoutimi, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Messore
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2013 taxation year is dismissed.
+Signed at Ottawa, Canada, this 6th day of June 2017.
+"Johanne D’Auray"
+D’Auray J.
+Citation: 2017 TCC 104
+Date: 20170606
+Docket: 2016-3904(IT)I
+BETWEEN:
+DANY BOLDUC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] At the hearing on June 2, 2017, the appellant, Mr. Bolduc, had a conversation with counsel for the respondent, Ms. Messore and Ms. Villeneuve, Trust Account Examiner at the Canada Revenue Agency (CRA).
+[2] Following that conversation, Mr. Bolduc agreed that the CRA had correctly included an amount of $7,994 as employment income in calculating his income for the 2013 taxation year.
+[3] Consequently, I dismissed Mr. Bolduc's appeal. Thus, the sole purpose of these reasons is to make a recommendation to the Minister of National Revenue to have her set aside the interest involved.
+[4] As stated in the Reply to Notice of Appeal, during the 2013 taxation year, Mr. Bolduc worked as a truck driver for the following companies:
+6a) during the 2013 taxation year, the appellant received the following income:
+Source
+Slip
+Gross amount
+Deductions
+Net amount
+Employment insurance
+T4e
+$7,014
+$1,008
+$6,006
+2950-0865 Québec Inc.
+T4
+$24,571
+$2,804
+$21,767
+Dufour et Frères Inc.
+T4
+$873
+$135
+$738
+9013-4875 Québec Inc.
+T4
+$4,000
+$662
+$3,338
+9287-2902 Québec Inc.
+T4
+$2,332
+$415
+$1,917
+9052-3341 Québec Inc.
+T4
+$8,180
+$1,459
+$6,721
+TOTAL
+$46,970
+$6,483
+$40,487
+Net income before provincial tax deductions:
+$40,487
+6b) in filing his income tax return for the 2013 taxation year, the appellant reported gross income from employment of $16,577 from 2950-0865 Québec Inc. (hereinafter "Transport Luco");
+6c) a trust account examination of Transport Luco showed that their wage book was insufficient and that a gross salary of $7,994 including source deductions had not been reported by Transport Luco and by the appellant;
+6d) an analysis of the appellant's 2013 bank account statements, with the exception of October which was not submitted, revealed deposits totalling an amount of at least $59,013 for the 2013 taxation year;
+6e) the $59,013 amount is broken down as follows:
+Total deposits
+$59,013.33
+Desjardins Loan
+$16,829.07
+Other non-wage amounts
+$5,582.95
+Salary amounts
+$36,601.31
+[5] Mr. Bolduc indicated that the only T4 he had received from Transport Luco inc. for the 2013 taxation year was for an amount of $16,577. This latter amount, like the other amounts appearing on the T4s Mr. Bolduc received from his other employers, was included in the calculation of his income for 2013.
+[6] Mr. Bolduc mentioned that he never received an amended T4 from Transport Luco inc. to take into account an additional amount of $7,994 in employment income.
+[7] Ms. Villeneuve of the CRA explained during her testimony that she conducted a trust account examination of Transport Luco inc. She indicated that Transport Luco inc.'s accounting records were weak and non-existent for one period in 2013.
+[8] Ms. Villeneuve contacted Transport Luco inc.'s accountant, Mr. Paradis de St-Félicien. He mentioned that he had difficulty obtaining information from his client, Transport Luco inc. He stated that Ms. Villeneuve had prepared the T4 reports for the workers based on the information provided to her by Transport Luco inc.
+[9] Ms. Villeneuve then compared the cheques issued to the employees against the wage book. She noted that the total amount of the cheques issued to the employees exceeded the total of the wages entered in the wage book and, consequently, on the T4s prepared by Mr. Paradis.
+[10] The T4s for twelve (12) Transport Luco inc. employees did not match the amounts on the cheques issued by Transport Luco inc. for the 2013 taxation year.
+[11] Following that observation, Ms. Villeneuve sent written notification to one of Transport Luco inc.'s shareholders, Mr. Corbin, about the difference between the total amounts of the cheques issued to certain employees and the total wages entered in the wage book. Ms. Villeneuve then asked Mr. Corbin to contact her to discuss the situation. Mr. Corbin never replied to Ms. Villeneuve's request.
+[12] With no reply from Mr. Corbin or Transport Luco inc., Ms. Villeneuve amended the T4s of the twelve Transport Luco inc. employees. The amendments for the twelve employees included the appellant; his amounted to $54,275. Source deductions were withheld on these amounts.
+[13] Ms. Villeneuve sent Transport Luco inc. the amended T4s for the twelve employees. Moreover, during her testimony, Ms. Villeneuve indicated that, as an employer, Transport Luco inc. was required to send the amended T4s to the employees affected by the changes.
+[14] Based on the evidence at the hearing, Mr. Bolduc never received an amended T4 for 2013. In addition, the paystubs issued to Mr. Bolduc by the employer Transport Luco inc. were difficult to understand, as was the record of employment provided. Moreover, Ms. Villeneuve was the one who emphasized these facts during her testimony.
+[15] Mr. Bolduc worked for several employers, he relied on the T4s received from Transport Luco inc. and from his other employers to complete his income tax return for the 2013 taxation year. Thus, it was difficult for him to take into account that the T4 issued by Transport Luco inc. did not match the amount he had received from it as employment income.
+[16] During the hearing, once Mr. Bolduc understood the situation, namely that the $7,994 amount represented employment income that had mistakenly not been included on his T4, he agreed that this amount had been correctly included by the Minister of National Revenue in the calculating of his income for the 2013 taxation year.
+[17] Mr. Bolduc's testimony is credible. The testimony by Ms. Villeneuve is equally credible. It would seem unfortunate that Mr. Bolduc must now pay the interest due to his employer's errors and negligence.
+Signed at Ottawa, Canada, this 6th day of June 2017.
+"Johanne D’Auray"
+D’Auray J.
+CITATION:
+2017 TCC 104
+COURT FILE NO.:
+2016-3904(IT)I
+STYLE OF CAUSE:
+DANY BOLDUC v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Chicoutimi, Quebec
+DATE OF HEARING:
+June 2, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+June 6, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Messore
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+[Blank / En blanc]
+Firm:
+[Blank / En blanc]
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

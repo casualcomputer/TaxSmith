@@ -1,0 +1,147 @@
+---
+title: "Glenko Properties Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28041/index.do"
+last_modified: "2007-10-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 612"
+citation2: ""
+neutral_citation: "2007 CCI 612"
+decision_date: "2007-10-09"
+language: "fr"
+item_id: "28041"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1626
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:13:03.366000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5819abe84af59a958eb811d53f38a6e676147b4572f93978aa85b36bf9d9903"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Glenko Properties Inc. c. La Reine
+
+- Citation: 2007 CCI 612
+- Decision date: 2007-10-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1626, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glenko Properties Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-09
+Référence neutre
+2007 CCI 612
+Numéro de dossier
+2006-1615(GST)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1615(GST)G
+ENTRE :
+GLENKO PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 9 octobre 2007, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge suppléant D.W. Beaubier
+Comparutions :
+Avocat de l’appelante :
+Me Owen B. Griffiths
+Avocate de l’intimée :
+Me Karen Janke
+____________________________________________________________________
+JUGEMENT
+La requête de l’intimée est accueillie et le prétendu avis d’appel est rejeté en entier selon les motifs de jugement ci‑joints.
+Signé à Toronto (Ontario), ce 15e jour d’octobre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI612
+Date : 20071015
+Dossier : 2006-1615(GST)G
+ENTRE :
+GLENKO PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Il s’agit d’une requête présentée par l’intimée, laquelle était initialement datée du 29 juin 2007, visant à faire rejeter l’avis d’appel de l’appelante, daté du 29 novembre 2005. L’avis d’appel a été déposé devant la Cour le 1er décembre 2005 et s’est vu attribuer le numéro 2006 susmentionné.
+[2] La requête est accueillie en ce qui concerne les avis de ratification des cotisations 3502 et 68940 déposés en vertu de la Loi sur la taxe d’accise, parce qu’il ne s’agit pas de cotisations établies à l’égard de l’appelante.
+[3] La troisième cotisation dont il est censément fait appel est décrite comme suit :
+[traduction]
+b) [...]
+1) Cotisation 17986, Loi sur la taxe sur les produits et services.
+La Loi sur la taxe sur les produits et services n’existe pas; les deux autres cotisations ont été décrites comme étant établies en vertu de la Loi sur la taxe d’accise; cet appel s’est vu attribuer le numéro 2006‑1615 de la Cour de l’impôt, avec le suffixe GST. Or, les numéros de greffe sont censés être attribués en ordre chronologique, et ce, quel que soit le suffixe. Le présent juge n’est pas au courant des problèmes liés à cet appel, qui a été interjeté en 2005.
+[4] Le présumé appel a été interjeté en temps opportun conformément au paragraphe 169(1) de la Loi de l’impôt sur le revenu parce que, bien qu’il fût antérieur à l’avis de ratification (daté du 13 janvier 2006), il a été interjeté plus de six mois après le 14 avril 2005, soit la date de l’avis de cotisation 17986.
+[5] Il s’agit de savoir si l’avis d’appel concernant la cotisation 17986 est nul, compte tenu de la description donnée à l’alinéa b) 1 et de son contenu.
+[6] Aucune demande de prorogation du délai dans lequel il peut être interjeté appel de la cotisation 17986 n’a été présentée en temps opportun, malgré les lettres envoyées en temps opportun aux deux avocats de l’appelante, dans lesquelles l’avocate de l’intimée demandait avec instance qu’une demande de prorogation soit présentée. Après l’expiration du délai imparti aux fins de la présentation d’une telle demande, le 5 janvier 2007, le second avocat de l’appelante a déposé un document modificateur en vue de faire corriger les mots [traduction] « Loi sur la taxe sur les produits et services », employés à l’alinéa b) 1 pour décrire l’avis de cotisation du 14 avril 2005, concernant la « Loi de l’impôt sur le revenu ». Cependant, on ne saurait modifier ce qui est nul.
+[7] Dans une réponse datée du 15 janvier 2007, l’intimée a correctement décrit les détails et l’avis de ratification.
+[8] La seule mention de la Loi de l’impôt sur le revenu qui est faite dans l’avis d’appel initial se trouve à l’alinéa c) 4). Sous le titre [traduction] « c) Faits pertinents invoqués », il est déclaré ce qui suit :
+[traduction]
+4) L’appelante plaide qu’en fait, les cotisations établies en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise sont injustes, qu’elles sont en fait et en droit dénuées de fondement, et qu’il n’y est pas tenu compte de la façon appropriée de renseignements et d’éléments de preuve fournis par le contribuable;
+[9] L’article 21 des Règles de la Cour canadienne de l’impôt (procédure générale) décrit la façon dont une instance « s’introduit » lorsque l’appel vise une cotisation établie en application de la Loi de l’impôt sur le revenu. Il y est fait mention de la formule 21(1)a). Les alinéas a) et b) de la formule 21(1)a) sont rédigés comme suit :
+AVIS D’APPEL
+a) Dans le cas d’un particulier, indiquer son adresse complète et dans le cas d’une personne morale, indiquer l’adresse complète de son établissement principal dans la province où l’appel est interjeté;
+b) Indiquer la ou les cotisations visées par l’appel : inclure la date de chaque cotisation et si l’appel est interjeté en vertu de la Loi de l’impôt sur le revenu, inclure l’année ou les années d’imposition ou, si l’appel est interjeté en vertu de la Loi sur la taxe d’accise, de la Loi sur les douanes, de la Loi sur le droit pour la sécurité des passagers du transport aérien ou de la Loi de 2001 sur l’accise, inclure la période s’y rapportant;
+[10] Le prétendu avis d’appel qui a été déposé le 1er décembre 2005 n’indiquait pas 1) la date de la cotisation; 2) que l’appel était interjeté en vertu de la Loi de l’impôt sur le revenu; 3) l’année ou les années d’imposition en cause.
+[11] L’avocat de l’appelante a été avisé des diverses irrégularités de ce document par un greffier de la Cour de l’impôt et par l’avocate de l’intimée. Or, aucune mesure n’a été prise dans le délai imparti par la Loi de l’impôt sur le revenu.
+[12] La Cour adopte le raisonnement que la juge Sheridan, de la Cour, a suivi dans la décision Tuck v. R., 2007 CarswellNat 2138, au sujet de l’allégation de l’intimée selon laquelle le présumé avis d’appel est libellé en des termes scandaleux et vexatoires. Chose encore plus importante toutefois, le présent avis d’appel n’est pas conforme à l’article 21 des Règles pour ce qui est de la cotisation 17986. Cet avis est nul en l’absence des deux allégations additionnelles, mais erronées, concernant la Loi sur la taxe d’accise, à l’alinéa b). La mention, à l’alinéa b) 1 de l’avis d’appel, de la [traduction] « Loi sur la taxe sur les produits et services » ne se rapporte pas à quoi que ce soit qui relève de la compétence de la Cour. Cet avis est entaché de nullité.
+[13] La requête de l’intimée est accueillie et le prétendu avis d’appel est rejeté en entier.
+Signé à Toronto (Ontario), ce 15e jour d’octobre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 29e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI612
+No DU DOSSIER DE LA COUR : 2006-1615(GST)G
+INTITULÉ : Glenko Properties Inc.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 9 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge suppléant D.W. Beaubier
+DATE DU JUGEMENT : Le 15 octobre 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Owen B. Griffiths
+Avocate de l’intimée :
+Me Karen Janke
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Owen B. Griffiths
+Cabinet : Amicus Law Associates
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

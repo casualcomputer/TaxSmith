@@ -1,0 +1,191 @@
+---
+title: "Marion v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28009/index.do"
+last_modified: "2003-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 456"
+citation2: ""
+neutral_citation: "2003 TCC 456"
+decision_date: "2003-07-08"
+language: "en"
+item_id: "28009"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1696
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:59:03.255000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc4d89703a686ff7f776200a41c17b522cc40b24226ea35167aff3da16c21f25"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marion v. M.N.R.
+
+- Citation: 2003 TCC 456
+- Decision date: 2003-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1696, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marion v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-08
+Neutral citation
+2003 TCC 456
+File numbers
+2002-4777(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002‑4777(EI)
+BETWEEN:
+PATRICK MARION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of René Marion o/a Policam P.R.M. Enr. (2002‑4778(EI)) on April 22, 2003, at Montréal, Quebec
+Before: The Honourable J.F. Somers, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Martin Rondeau
+Counsel for the Respondent:
+Julie David
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of July 2003.
+"J.F. Somers"
+Deputy Judge Somers
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator
+Docket: 2002‑4778(EI)
+BETWEEN:
+RENÉ MARION O/A POLICAM P.R.M. ENR.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Patrick Marion (2002‑4777(EI)) on April 22, 2003, at Montréal, Quebec,
+Before: The Honourable J.F. Somers, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Martin Rondeau
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of July 2003.
+"J.F. Somers"
+Deputy Judge Somers
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator
+Citation: 2003TCC456
+Date: 20030708
+Docket: 2002‑4777(EI)
+BETWEEN:
+PATRICK MARION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2002‑4778(EI)
+RENÉ MARION O/A POLICAM P.R.M. ENR.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.T.C.C
+[1] These appeals were heard on common evidence at Montréal, Quebec, on April 22, 2003.
+[2] The appellants appeal from the decision of the Minister of National Revenue (the "Minister") according to which the employment held by Patrick Marion, the worker, with the appellant René Marion o/a Policam P.R.M. Enr. during the period in issue, from June 1 to October 25, 2001, was not insurable because it did not meet the requirements of a contract of service; he was not an employee of the appellant.
+[3] Subsection 5(1) of the Employment Insurance Act (the "Act") reads in part as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[...]
+[4] The burden of proof is on the appellants. They must show on a preponderance of proof that the Minister’s decision is unfounded in fact and in law. Each case stands on its own merits.
+[5] In making his decision, the Minister relied on the following assumptions of fact, which were admitted or denied:
+[TRANSLATION]
+(a) The appellant and the worker registered a trade name on April 13, 1999; (denied)
+(b) under the terms of the registered trade name, the appellant and the worker are partners; (denied)
+(c) they operated an aluminum truck parts polishing business; (denied)
+(d) they operated the business under the trade name "Policam P.R.M."; (denied)
+(e) the appellant is the worker's father; (admitted)
+(f) the worker worked as a polisher; (admitted)
+(g) the worker's duties were to strip and polish truck parts; (admitted)
+(h) the worker drew $540 a week; (denied)
+(i) the worker took a weekly drawing even if there was no work; (denied)
+(j) the worker worked for his own business. (denied)
+[6] The appellant and the worker registered the trade name of "Policam P.R.M." April 13, 1999, as attested to by a document from the Inspecteur général des institutions financières (Exhibit I‑2). Under the terms of that trade name, the appellant, René Marion, and his son, the worker, are partners.
+[7] The appellant and the worker operated a truck tank polishing business. The worker worked as a polisher and his duties were to strip and polish the truck parts.
+[8] The appellant said that he, not the worker, had purchased the equipment of the business. Although the worker's name appears on the corporation's certificate, the appellant considered him an employee.
+[9] The appellant decided on the work schedule and the worker had to meet it. The worker worked irregular hours, from 30 to 42 hours a week, depending when the customers of the business were available.
+[10] The appellant stated that he had checked the quality of the work performed by his son. The appellant and his spouse had authority to sign the cheques to suppliers.
+[11] The worker was paid at an hourly rate of $13.50; the number of hours worked varied with the needs of the business, and the remuneration was thus not fixed.
+[12] René Marion admitted that a declaration of "raison sociale" had been registered on April 13, 1999, and that the two partners were he and his son Patrick, the worker. He added that the trade name "P.R.M." represented the initials of their two given names and their family name.
+[13] René Marion stated in his testimony that he was the boss of the business, that Patrick was his employee and that the latter had not invested money in the business.
+[14] In cross-examination, René Marion admitted that he had signed a statutory declaration dated July 16, 2001, which reads in part as follows:
+[TRANSLATION]
+...I asked him how much he needed to get by. We agreed on $400 net a week. I try to give it to him regardless of the number of hours of work done in his week. I make no deductions, except that I withhold $150 for taxes. He'll report his amount to the tax authorities and make arrangements to pay the tax payable out of the money withheld from his pay. The income from the Policam PRM business goes just to me. I state the gross and net amounts in my tax return; you can see them. His name is on the registration document, but that's all…
+[15] At the hearing of this appeal, René Marion stated that the worker had received the same wages regardless of the number of hours worked. He admitted that he had made no source deductions and that the worker had worked on a full-time basis during the period in issue.
+[16] René Marion admitted that the business had operated at a loss starting in August ‑ business had slowed down ‑ and that the worker had not worked after October 25, 2001.
+[17] In a declaration of registration (Exhibit I‑4), René Marion stated that he was the natural person operating an individual business under the style Policam Enr., whose main activities were truck aluminum polishing.
+[18] At the hearing, the worker corroborated the testimony of his father, René Marion. He stated in his testimony that, during the period in issue, he had operated the business with his father as a partner, as stated in the document of the Inspecteur général des institutions financières (Exhibit I‑2). He added that he had previously started up his own business, but that it had not worked. He further declared that he had accompanied his father at the time of the declaration of deregistration of the business dated October 31, 2001 (Exhibit I‑3).
+[19] The worker stated that he and his father had agreed on the weekly salary of $540 that he would receive for his work in the business.
+[20] It must be decided whether a person may be employed by his own business. The evidence showed that the appellant and the worker signed a partnership declaration in order to form Policam P.R.M.
+[21] In Québec (Ville) c. Cie d'immeubles Allard Ltée, [1996] A.Q. No. 1517, the Quebec Court of Appeal, per Brossard J.A., wrote as follows:
+...Upon reviewing the Civil Code of Lower Canada, I must state, for my part and with due regard to the opposite view, that I disagree. I do not think that the Quebec Code implicitly makes partnerships persons. On the contrary, as explained above, it seems to me that its provisions actually confirm that a partnership is not a person and cannot own property.
+[22] In Lasalle v. Canada (Minister of National Revenue ‑ M.N.R.), [1995] T.C.J. No. 130, Judge Lamarre of this Court held as follows:
+...Thus, settled case law has established the rule that, to be effective with respect to third parties, a dissolution of partnership must be evidenced by a declaration duly registered and signed by all the partners. By third parties is meant all those who are not included in the partnership agreement.
+[...]
+In my view, the evidence does not support the appellants' claim that they did not want to constitute a partnership. Taking into account the existence of the declaration of partnership, the onus was on them to show that such a partnership agreement never in fact existed. However, in the first year of the business's operation, Marcel Lasalle indicated in his income tax return that he was a partner in Marcel & Fils Enrg. He deducted 70% of the loss in that year. It is true that the appellants made no mention of their interest in the partnership in their income tax returns. However, they admitted having signed the declaration (A‑1) by their own consent. They also agreed to sign a document in which they stated that they owned 25% of the shares in Marcel & Fils Enrg. It may be that they did not understand the actual consequences of the partnership agreement, but, in my view, they did not prove that they never intended to associate with their father. Furthermore, it may also be that the father decided to operate in business alone with the subsequent consent of his sons. In this case, they had to register a new declaration to that effect. Not having done so, they had to live with the consequences of their acts. With respect to the sharing of profits, they drew them out in the form of wages. As to their contributions to the partnership, those contributions need not necessarily take the form of monetary contributions.
+For all these reasons, I conclude that the appellants worked for a partnership in which they were partners during the periods in issue. A partner may not lawfully be an employee of, or hired pursuant to a contract of service by the partnership in which he is at the same time a partner.
+[23] In Parent v. Canada (Minister of National Revenue ‑ M.N.R.), [1999] T.C.J. No. 83, Judge Archambault of this Court wrote as follows:
+...In other words, can a contract of employment exist between a partner and his or her partnership? The Civil Code of Québec defines "contract of employment" as follows:
+ART. 2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+...In my view, the $500 he received was a non‑recoverable advance on the profits that the DN partnership might make.
+...Unlike a joint-stock company, a partnership is not considered to be a person separate from its partners. The partnership’s business is that of the partners. The partnership’s assets belong to the partners. François Parent was thus working for himself. His work was therefore not done according to the instructions and under the direction or control of another person as required by article 2085 of the C.C.Q. Accordingly, there was no contract of employment between Mr. Parent and the DN partnership.
+[24] In the instant cases, the appellant and the worker signed a declaration of partnership in 1999. That partnership existed until October 31, 2001, on which date it was deregistered; the partnership thus existed during the period in issue. Although René Marion stated that he was the boss and that Patrick was his employee, the partnership existed with respect to third parties.
+[25] It is well-settled case law that partners may not have an identity separate from that of their partnership. Being a partner in the partnership for which he worked, Patrick Marion, the worker, could not be employed by his own business.
+[26] For these reasons, the appeals are dismissed and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 8th day of July 2003.
+"J.F. Somers"
+Deputy Judge Somers
+CASES CONSIDERED
+L'Espérance (c.o.b. Conrad l'Espérance et Fils Enr.) v. Canada (Minister of National Revenue ‑ M.N.R.), [2001] T.C.J. No. 115;
+Wiebe Door Services Ltd. v. Canada (Minister of National Revenue ‑ M.N.R.), [1986] 3 F.C. 553;
+Marchand v. Canada (Minister of National Revenue ‑ M.N.R.), [2000] T.C.J. No. 781;
+Brady‑Charette c. M.R.N., [1990] A.C.I. no 1106;
+Carpentier v. Canada (Minister of National Revenue ‑ M.N.R.), [1996] T.C.J. No. 502;
+Martin v. Canada (Minister of National Revenue ‑ M.N.R.), [2000] T.C.J. No. 334.
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator

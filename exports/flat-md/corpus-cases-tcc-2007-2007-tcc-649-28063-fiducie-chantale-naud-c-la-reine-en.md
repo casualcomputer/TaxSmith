@@ -1,0 +1,188 @@
+---
+title: "Fiducie Chantale Naud c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28063/index.do"
+last_modified: "2007-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 649"
+citation2: ""
+neutral_citation: "2007 TCC 649"
+decision_date: "2007-10-26"
+language: "en"
+item_id: "28063"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1583
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:36:07.995000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b3e81fb26cf0f9039db3b4bb66d63f0853d3016972e79645991145fa559b227"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fiducie Chantale Naud c. La Reine
+
+- Citation: 2007 TCC 649
+- Decision date: 2007-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1583, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie Chantale Naud c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-26
+Neutral citation
+2007 TCC 649
+File numbers
+2006-2931(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2931(IT)I
+BETWEEN:
+FIDUCIE CHANTALE NAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[official english translation]
+____________________________________________________________________
+Appeal heard on March 14, 2007, at Montréal, Québec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the Appellant:
+Chantale Naud
+Counsel for the Respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from assessments made under the Income Tax Act for the 2002 and 2003 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of October, 2007.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 20th day of December 2007
+Gibson Boyd Translator
+Citation: 2007TCC649
+Date: 20071026
+Docket: 2006-2931(IT)I
+DOCKET:
+FIDUCIE CHANTALE NAUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[official english translation]
+REASONS FOR JUDGMENT
+Jorré J.
+Facts
+[1] Mme Chantale Naud and M. Daniel Bourret had two children: Olivier, born on March 5, 1989, and Marylou, born on December 10, 1990.
+[2] The parents were separated in 1995.
+[3] Mr. Bourret died from a highway accident on August 14, 2001. The children were not in the vehicle.
+[4] The Société d’assurance automobile du Québec (the SAAQ) paid a lump sum indemnity to the minor children.[1]
+[5] Ms. Naud (the Appellant) created a trust to administer amounts received from the SAAQ.
+[6] The investments made under the trust using the indemnities paid to the children by the SAAQ generated the following interest revenue: $5,087 in 2002 and $8,035 in 2003.
+[7] As a result of Daniel Bourret’s death, the Naud family stopped receiving the support that he paid for the children. This created a difficult situation.
+[8] The children were seriously affected by their father’s death.
+Issue
+[9] Is the interest of $5,087 and $8,035 paid in 2002 and 2003 excluded from the computation of the Appellant’s interest under paragraphs 81(1)(g).1) and g.2) of the Income Tax Act (the ITA) Paragraph 81(1)(g.1) excludes:
+. . . the income for the year from any property acquired by or on behalf of a person as an award of, or pursuant to an action for, damages in respect of physical or mental injury to that person, or from any property substituted therefor and any taxable capital gain for the year from the disposition of any such property,…
+Analysis
+[10] For the purposes of the analysis, I shall go on the assumption that the children suffered psychologically from their father’s death. What did the SAAQ pay the indemnities for? Were they paid as compensation for psychological damage?
+[11] The Automobile Insurance Act of Quebec (R.S.Q. c. A-25) provides, at section 66 of chapter III, for death indemnities for dependants of the victim of the (M. Bourret). This includes minor children. Section 68 provides for an additional indemnity for minor children where the victim is without a spouse at the time of death.[2]
+68. If the victim has no spouse on the date of his death but has a dependant as defined in paragraph 3 or 4 of the definition of the word “dependant” in section 2, the dependant is entitled, in addition to an indemnity under section 66 and, as the case may be, in addition to an indemnity under section 67, to a lump sum indemnity in an amount equal to the indemnity provided for by section 63. If there is more than one dependant, the indemnity shall be divided equally among them.
+[12] These indemnities are one-time payments and are always payable, whether the dependants suffered psychological damage or not.
+[13] Therefore, the indemnities were not paid as compensation for physical or psychological damages and paragraph 81(1)g.1) of the ITA cannot apply.
+Internal Interpretation by Revenu Québec
+[14] I studied the Revenu Québec’s internal interpretation (file 02‑0104964, July 2002), which the Appellant brought to my attention. This interpretation analyses the application of sections 494 and 495 of the Taxation Act (R.S.Q., c. I‑3) to fact that largely resemble those of the case at issue. Sections 494 and 495 are identical to paragraphs 81(1)g.1) and g.2) of the ITA.
+[15] Revenu Québec came to the following interpretation:
+[translation]
+. . . in its Rules of Application, the second paragraph of section 6 of this Act sets out the presumption that the person entitled to a death benefit is presumed to be a victim. In this context, the Minister is of the opinion that, due to the loss of the mother, your two dependant children are considered as having suffered mental injury within the meaning of section 494 of the Act and the death benefit that they received should not be included in the computation of their income.
+[16] I do not share this reasoning for the following reasons.
+[17] Section 6 of the Automobile Insurance Act of Quebec states,
+Every person who suffers bodily injury in an accident is a victim.
+Unless the context indicates otherwise, every person who is entitled to a death benefit where the death of the victim results from the accident is also presumed to be a victim for the purposes of this division.
+[My emphasis.]
+Section 6 is found in section II entitled “General Rules” of chapter I.
+[18] Sections 66 and 68 are found in chapter III. Subsection 2 of section 6 is not applicable to these two sections.
+[19] It is also worth looking at the structure of the Automobile Insurance Act of Quebec. The structure of this Act is, in part, the following:
+Title I Definitions
+. . .
+Title II Compensation for Bodily Injury
+Chapter I General Rules
+Section I Definitions and Interpretation
+. . .
+Section II General Rules
+. . .
+[Section 6]
+. . .
+Chapter II Income Replacement Indemnity and Other Indemnities
+. . .
+Chapter III Death Benefit
+. . .
+[Section 66]
+. . .
+[Section 68]
+. . .
+Chapter IV Non-pecuniary damage indemnity
+. . .
+Lump Sum Indemnity.
+73. For loss of enjoyment of life, pain, mental suffering and other consequences of the temporary or permanent injuries or functional or cosmetic sequelae that a victim may suffer following an accident, a victim is entitled, to the extent determined by regulation, to a lump sum indemnity not exceeding $175 000 for non-pecuniary damage.
+. . .
+Chapter V Reimbursement of Certain Expenses and Rehabilitation
+. . .
+[My Emphasis.]
+[20] An analysis of the Automobile Insurance Act of Quebec shows that it is mainly geared towards compensation of victims for their losses of income and for certain costs incurred. It is also seeks to assist them in their readaptation.
+[21] Chapter III, Death Benefit, deals with the financial impact of the death on the conjoint(e) and dependants, as the amount payable under sections 63 or 66 varies corollary to the beneficiary’s age. A victim having suffered psychologically is indemnified under section 73 of chapter IV.
+[22] I Must conclude that the SAAQ did not pay the indemnities in question as compensation for mental injury.
+Conclusion
+[23] In conclusion, I must, regretfully dismiss the appeal.[3]
+Signed at Ottawa, Canada, this 26th day of October, 2007.
+Gaston Jorré
+Jorré J.
+Translation certified true
+on this 20th day of December 2007
+Gibson Boyd Translator
+CITATION: 2007TCC649
+COURT FILE NUMBER: 2006-2931(IT)I
+STYLE OF CAUSE: FIDUCIE CHANTALE NAUD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 14, 2007
+REASONS FO JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: October 26, 2007
+HEARINGS:
+Representing the Appellant:
+Chantale Naud
+Counsel for the Respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Indemnity paid under sections 66 and 68 of the Automobile Insurance Act of Quebec. See paragraph 11 below.
+[2] The indemnity provided at section 68 is equal to the one provided at section 63 (lump sum indemnity for spouse).
+[3] I raised the possible application of certain other provisions of the ITA LIR, but I did not pursue these questions, given the comments I received from the two parties.

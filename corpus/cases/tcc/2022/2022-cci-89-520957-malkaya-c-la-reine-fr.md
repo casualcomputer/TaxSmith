@@ -1,0 +1,378 @@
+---
+title: "Malkaya c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520957/index.do"
+last_modified: "2022-08-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 89"
+citation2: ""
+neutral_citation: "2022 CCI 89"
+decision_date: "2022-08-05"
+language: "fr"
+item_id: "520957"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4497
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:04:15.815000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "117d4a5512c1d688ced3fa5ed93892c6dd643650a9a750a8c9c9111a93f5efd4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Malkaya c. La Reine
+
+- Citation: 2022 CCI 89
+- Decision date: 2022-08-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4497, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malkaya c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-08-05
+Référence neutre
+2022 CCI 89
+Numéro de dossier
+2015-3156(IT)G, 2015-3157(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3157(IT)G
+ENTRE :
+BULENT MALKAYA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Rukiye Malkaya, 2015-3156(IT)G, du 15 au 18 novembre 2021 à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Tokunbo C. Omisade
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2006 est accueilli.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi pour les années d’imposition 2007 et 2008 sont rejetés.
+Un mémoire de dépens conformément au tarif établi est accordé à l’intimée pour le présent appel et l’appel de Rukiye Malkaya, 2015-3156(IT)G. L’appelant et Rukiye Malkaya devront payer les dépens à l’intimée dans un délai de 45 jours du présent jugement.
+Signé à Ottawa, Canada, ce 5e jour d’août 2022.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 13e jour de mars 2023.
+François Brunet, réviseur
+Dossier : 2015-3156(IT)G
+ENTRE :
+RUKIYE MALKAYA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Bulent Malkaya – 2015-3157(IT)G, du 15 au 18 novembre 2021 à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Tokunbo C. Omisade
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2006 est accueilli.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi pour les années d’imposition 2007 et 2008 sont :
+a) accueillis relativement aux pénalités imposées aux termes du paragraphe 163(2) de la Loi, qui doivent être retirées;
+b) rejetés en ce qui a trait aux revenus non déclarés.
+Un mémoire de dépens conformément au tarif établi est accordé à l’intimée pour le présent appel et l’appel de Bulent Malkaya, 2015-3157(IT)G. L’appelante et Bulent Malkaya devront payer les dépens à l’intimée dans un délai de 45 jours du présent jugement.
+Signé à Ottawa, Canada, ce 5e jour d’août 2022.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 13e jour de mars 2023.
+François Brunet, réviseur
+Référence : 2022 CCI 89
+Date : 20220805
+Dossier : 2015-3157(IT)G
+ENTRE :
+BULENT MALKAYA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2015-3156(IT)G
+ET ENTRE :
+RUKIYE MALKAYA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] Bulent Malkaya et Rukiye Malkaya interjettent appel des nouvelles cotisations établies par le ministre du Revenu national en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007 et 2008. Relativement aux années d’imposition 2007 et 2008 (les « années visées »), une nouvelle cotisation a été établie à l’égard des appelants sur des revenus non déclarés calculés à l’aide de la méthode de l’avoir net combiné [1] . Des pénalités sur le revenu non déclaré ont été imposées aux termes du paragraphe 163(2) de la Loi de l’impôt sur le revenu (les « pénalités »).
+[2] Pour l’année d’imposition 2006, l’intimée a concédé au cours de l’audience que la différence de revenus de 46 973,36 $ ayant fait l’objet de la nouvelle cotisation était inexacte. Par conséquent, les appels des appelants pour l’année d’imposition 2006 ne sont plus en cause [2] .
+[3] Les appels interjetés pour les années visées (« 2007 » et « 2008 ») ont été entendus sur preuve commune. Bulent Malkaya a témoigné et Rukiye Malkaya, son ancienne épouse, a choisi de faire siennes la preuve et les observations de M. Malkaya pour son propre appel. Des services d’interprétation étaient disponibles. Ronald Ihasz et Wendell Szuch, leurs amis, ont témoigné pour les appelants. Robin Noyes, président de Coins Unlimited, et Audrey Rancourt, la vérificatrice de l’Agence du revenu du Canada, ont témoigné pour l’intimée.
+[4] À l’audience, l’intimée a produit un nombre important de documents. Les appelants n’en ont produit que quelques-uns. M. Malkaya a affirmé qu’il n’avait pas tous les documents en sa possession et a prétendu que l’ARC en retenait certains, malgré l’ordonnance d’une cour provinciale exigeant que tous les documents saisis notamment des appelants en 2012 leur soient rendus [3] . Suivant cette ordonnance, l’appelant a obtenu quatre boîtes de rangement de l’ARC contenant tous les dossiers saisis, comme il l’a reconnu dans quatre documents intitulés [traduction] « Accusé de réception des documents saisis » produits par l’intimée et qu’il a signé le 5 février 2013 [4] . En outre, l’audience de leurs appels en matière d’impôt sur le revenu a été reportée à deux reprises avant son commencement, ce qui leur a laissé amplement le temps d’obtenir les documents de leurs anciens avocats et de se préparer pour l’audience.
+[5] Plusieurs semaines avant l’audience, les appelants ont déposé un avis d’intention d’agir en leur nom notifiant la Cour qu’ils agiraient en leur nom, puisque leur avocat avait cessé d’occuper. Peu avant l’audience et au début de celle-ci, les appelantes ont demandé des reports qui leur ont été refusés.
+[6] Dans les présents motifs, toute mention de dispositions légales renvoie à la Loi de l’impôt sur le revenu, à moins qu’il n’en soit autrement précisé [5] .
+I. QUESTIONS EN LITIGE
+[7] Les questions en litige sont de savoir si le ministre a correctement établi la nouvelle cotisation à l’égard des appelants concernant le revenu non déclaré et, si tel est le cas, si les pénalités imposées sur le revenu non déclaré pour les années visées sont correctes.
+II. EXPOSÉ DES FAITS
+[8] En 1999, Bulent Malkaya a immigré de la Turquie aux États-Unis et y a étudié l’anglais en attendant que sa femme d’alors, Rukiye Malkaya, et ses enfants immigrent. En 2002, les Malkaya et leurs enfants ont immigré au Canada.
+[9] M. Malkaya a témoigné qu’il s’est séparé de Mme Malkaya en octobre 2007, car leur relation s’était détériorée. Ils ne vivaient pas ensemble, mais il se rendait à sa maison pour garder les enfants lorsqu’elle était à l’extérieur de la ville. Autrement, il vivait dans le sous-sol de Ronald Ihasz. L’avis d’appel de l’appelante indique qu’ils se sont séparés en 2008.
+Situation financière inextricablement liée
+[10] Malgré leur séparation, M. Malkaya affirme que leur situation financière demeurait « inextricablement liée » en raison de leurs prêts privés, de relations commerciales et de comptes bancaires personnels. Les comptes bancaires des appelants se trouvaient à la Banque Royale du Canada, la Banque de Montréal et la banque Toronto Dominion (« TD ») et le numéro de leur compte conjoint se terminait par 807 (le « compte conjoint »). Ils possédaient également neuf cartes de crédit, qu’ils payaient essentiellement à partir du compte conjoint, et parfois en espèces [6] . L’appelant affirme qu’ils utilisaient ces cartes uniquement pour les achats destinés à l’entreprise PC Canada Computer Warehouses Inc. (« PC » « Computer »). En contre-interrogatoire, il a été démontré que les cartes de crédit étaient également utilisées pour des opérations personnelles, notamment pour effectuer des achats d’épicerie et de vêtements, des achats chez McDonald, au Beer Store, des paiements mensuels pour une tondeuse et d’autres articles.
+[11] Mme Rancourt reconnaît que les affaires des appelants étaient inextricablement liées et ajoute que tout était fait conjointement, notamment leur situation financière, leurs relations commerciales, leur propriété ainsi que leurs dépenses personnelles et d’entreprises et que toutes les cartes de crédit étaient payées par le compte conjoint, y compris pour les achats d’entreprise.
+Propriété
+[12] Selon les documents cadastraux obtenus par Mme Rancourt, un des appelants, ou les deux, ont été identifiés comme étant les propriétaires des immeubles suivants se trouvant à Welland, en Ontario :
+Propriétaires
+Acheté et vendu
+187 rue King
+(« 187 rue King »)
+Appelants
+31 août 2006
+3 Robin Hood Lane
+(« 3 Robin Hood »)
+Appelants
+Du 2 août 2005 au 14 novembre 2008
+125 Redwood Court
+(« 125 Redwood »)
+Mme Malkaya
+Du 31 août 2007 au 15 janvier 2010
+79 Oxford Road
+(« 79 Oxford »)
+Mme Malkaya et M. Szuch
+14 novembre 2008
+[13] En 2006, les appelants ont acheté le magasin PC Computer’s, situé au 187 rue King. Ils ont financé cet achat en contractant un prêt conjoint de Wendell Szuch et en hypothéquant leur résidence du 3 Robin Hood, qu’ils possédaient depuis 2005. Selon M. Malkaya, lorsque les appelants se sont séparés, Mme Malkaya a déménagé au 125 Redwood.
+[14] Du produit de la vente de la propriété du 3 Robin Hood, vendue en 2008, 250 000 $ a été utilisé pour financer en partie l’achat du 79 Oxford, le 130 000 $ restant ayant été fourni par M. Malkaya. Il a demandé à Mme Rancourt pendant son contre-interrogatoire pourquoi le chèque de 130 000 $ reçu de lui n’était pas dans les documents produits à l’audience. Elle a expliqué que l’ARC n’a pas de copie de chaque chèque qu’il a émis et que les documents de l’avocat accusent la réception de cet argent de la part de M. Malkaya.
+[15] Lorsqu’on lui a demandé en contre-interrogatoire pourquoi, dans sa vérification, elle avait indiqué une valeur de 380 000 $ alors que Mme Malkaya et M. Szuch étaient tous deux inscrits sur le titre du 79 Oxford, Mme Rancourt a répondu qu’elle supposait que la propriété était la propriété des appelants. En 2015, l’ARC a reconnu dans le cadre des appels que Mme Malkaya et M. Szuch étaient copropriétaires et a réduit la valeur de l’actif à 190 000 $ en 2008, pour constituer la part de Mme Malkaya. Par conséquent, la nouvelle cotisation a diminué le revenu non déclaré à 95 000 $ pour chaque appelant.
+[16] Mme Rancourt a souligné que pendant les années visées, M. Malkaya possédait « quatre véhicules actifs plaqués » inscrits à son nom [7] . Il affirme qu’il conduisait la voiture Volkswagen quotidiennement, et que Mme Malkaya ne conduisait pas, car elle ne pouvait pas se le permettre financièrement, et que les enfants n’étaient pas assez âgés pour conduire.
+PC Canada Computer Warehouses Inc.
+[17] En 2003, M. Malkaya était l’unique propriétaire de PC Canada, une entreprise d’informatique.
+[18] En 2004, PC Computer a été constituée en société. Il a ouvert une boutique sur la rue Niagara, à St. Catharines, en Ontario, mais l’a fermée deux mois plus tard [8] . Pendant les années visées, les locaux de son entreprise étaient situés au 187 rue King. L’entreprise vendait et réparait des ordinateurs, vendait des accessoires d’ordinateur et M. Malkaya y offrait des services de consultation. Il affirme qu’il était le seul actionnaire pendant les années visées.
+Solutions de paiement Tangerine
+[19] M. Malkaya confirme dans son témoignage qu’en 2006 et 2007, PC Computer détenait une machine ATM. Puisque les clients ne l’utilisaient pas fréquemment, la société de gestion de l’ATM l’a retirée. PC Computer a commencé à utiliser les solutions de paiement Tangerine (« Tangerine ») pour traiter par voie électronique les paiements par carte de crédit et cartes de débit faits à PC Computer par ses clients. Ces paiements, appartenant à PC Computer, étaient déposés dans le compte conjoint personne les appelants (les « paiements déposés »). M. Malkaya a d’abord nié que les paiements déposés étaient employés à des fins personnelles et soutenait que le compte conjoint était uniquement utilisé à des fins d’entreprise. Il a indiqué que les paiements déposés n’étaient pas versés par Tangerine dans le compte bancaire d’entreprise, car Tangerine exigeait une protection en cas de découvert, ce que le compte bancaire d’entreprise de PC Computer ne possédait pas.
+[20] M. Malkaya a témoigné que Sheila Collings, la vérificatrice de l’ARC ayant effectué l’audit de PC Computer en 2009, a demandé des preuves de ses revenus et de la façon dont ses factures et cartes de crédit étaient payées [9] .
+[21] Mme Rancourt a confirmé le témoignage de M. Malkaya relativement à l’implication de Mme Collings et a ajouté ce qui suit, en guise de contexte :
+a) Mme Collings a obtenu des relevés de compte de Tangerine après que les appelants lui eurent dit qu’ils n’étaient pas disponibles, alors qu’ils constituaient le fondement des documents de travail de Mme Collings (les « documents de travail »);
+b) Les relevés de comptes de Tangerine indiquent les ventes totales par carte de crédit et carte de débit réalisées par PC Computer, pour lesquelles Mme Collings a déterminé que les paiements déposés en 2007 totalisaient 58 096,08 $, alors que les ventes déclarées étaient de 37 091 $, de telle sorte qu’il y a eu du revenu d’entreprise non déclaré et que les appelants, à titre d’actionnaires, en ont bénéficié;
+c) Irv Cochrane (« le comptable ») n’avait pas connaissance que les paiements étaient déposés dans le compte conjoint, et ne les a donc pas inscrits dans son grand livre. Les relevés de compte ne lui ont pas non plus été fournis lorsqu’il a préparé les déclarations de revenus de PC Computer. Mme Collings a ensuite renvoyé l’affaire à la division des enquêtes de l’ARC, qui a exécuté un mandat de perquisition pour obtenir des documents du demandeur, des locaux de l’entreprise et du comptable.
+[22] Les appelants ont produit une déclaration de revenus pour les années visées et la cotisation a initialement été établie conformément à ce qui avait été produit. La source de revenus de l’appelant était un petit salaire versé par PC Computer, et la source de revenus de l’appelante provenait de prestations gouvernementales. Ensemble, ils ont déclaré un revenu total de 30 680 $ dans les déclarations de revenus pour les années 2007 et 2008, qui se ventilait comme suit :
+Revenu déclaré
+2007
+2008
+M. Malkaya
+15 000 $
+12 480 $
+Mme Malkaya
+2 000 $
+1 200 $
+Total
+17 000 $
+13 680 $
+[23] Pour les années d’imposition 2006, 2007 et 2008 combinées, Mme Rancourt affirme que M. Malkaya a déclaré un revenu de 34 128 $, desquels 33 090 $ étaient des honoraires de gestion de PC Computer qui ne lui ont jamais été payés puisqu’ils étaient portés au compte de prêt de l’actionnaire et étaient donc simplement retournés à PC Computer.
+Audit de 2012
+[24] En 2012, Mme Rancourt (la « vérificatrice ») a réalisé un audit des appelants pour les années d’imposition 2006, 2007 et 2008. Son rapport d’audit indique que Mme Collings avait obtenu les rapports bancaires, y compris des copies des dépôts, conformément aux exigences pour le compte bancaire d’entreprise et le compte conjoint personnel d’indiquer les paiements déposés appartenant à PC Computer, et un rapprochement des ventes déclarées par l’entreprise a permis de conclure que les paiements déposés n’avaient pas été déclarés [10] .
+[25] Après avoir conclu que le revenu total déclaré par les appelants pour les années visées ne pouvait pas soutenir leur mode de vie, et que leurs livres et registres personnels et ceux de PC Computer n’étaient pas fiables et étaient incomplets, la vérificatrice a décidé qu’une analyse de l’avoir net combiné était nécessaire afin d’évaluer le revenu exact de chaque appelant pour les années visées.
+[26] Après avoir achevé son examen de tous les renseignements obtenus, y compris des relevés de carte de crédit et relevés bancaires obtenus en application d’une ordonnance de production demandée par la vérificatrice en juillet et octobre 2012 afin d’établir les dépenses personnelles et les achats d’entreprise aux fins du calcul de l’avoir net, la vérificatrice a préparé une analyse du bilan. Elle a conclu que les paiements des ventes faits par PC Computer à ses clients étaient déposés dans le compte conjoint des appelants pour leur usage personnel et qu’ils avaient été appropriés de PC Computer, causant ainsi une divergence lors de la comparaison avec le revenu déclaré par chaque appelant [11] .
+[27] La vérificatrice affirme que tous les achats par carte de crédit pour PC Computer, et un grand nombre d’opérations concernant l’entreprise, ont été déposés dans le compte conjoint des appelants au cours des années visées. Il ressort des relevés bancaires que des antennes paraboliques vendues par PC Computer ont été achetées de HarmonyFTA.Com, et que l’équipement informatique provenait d’autres fournisseurs et avait été acheté à partir de la carte de crédit Canadian Tire [12] . Un revenu a été généré par la vente de cet équipement sur Internet, sans qu’il soit déclaré par PC Computer au cours des années visées. La vérificatrice a supposé que les appelants se sont appropriés les recettes de PC Computer en déposant les paiements dans leurs comptes bancaires personnels, notamment dans le compte conjoint, qui étaient utilisés à des fins personnelles.
+Actifs
+[28] La vérificatrice a pris les actifs totaux, moins les passifs (et a considéré le revenu déclaré par les appelants pour tenir compte de toute augmentation dans l’avoir net du début à la fin de l’année) et a fait les rajustements pour tenir compte des dépenses personnelles encourues [13] . Elle a décrit la nature d’un prêt aux actionnaires, le fonctionnement d’un compte de prêt aux actionnaires (l’argent versé au compte est un crédit et l’argent retiré est un débit) et souligne qu’elle s’est assurée de son exactitude. En contre-interrogatoire, elle explique qu’un prêt aux actionnaires figure au bilan lorsqu’un solde est dû aux actionnaires par la société. Lorsqu’il lui est demandé si, lorsqu’un actionnaire dépose plus de liquidités dans la société, le passif du prêt figure au bilan, elle répond « non », puisqu’il se retrouve dans la section capitaux propres du bilan.
+[29] À la lecture de tous les renseignements recueillis, y compris les relevés bancaires et de carte de crédit indiquant toutes les dépenses personnelles et les achats d’entreprise effectués par les appelants, des annexes et des documents de travail relatifs à l’avoir net (les « sommaires ») ont été préparés par la vérificatrice et envoyés aux appelants. Ces documents correspondaient aux comptes bancaires des appelants et au compte bancaire d’entreprise [14] . Les sommaires résumaient les actifs en commençant par le solde des relevés de banque en date du 31 décembre 2006, 2007 et 2008.
+[30] Les liquidités, qui ont été avancées de façon répétée par les appelants à PC Computer et qui leur étaient dus, ont également été incluses dans les actifs par la vérificatrice. Ces liquidités totalisaient 121 739 $ et 164 025,31 $ (les « liquidités avancées ») en date du 31 décembre 2007 et du 31 décembre 2008 respectivement [15] . Les liquidités avancées constituent des augmentations annuelles dans le compte de prêt aux actionnaires rajusté (le « compte »). Les chiffres correspondent à tous les achats réalisés au nom de PC Computer, et aux paiements déposés par PC Computer au compte conjoint comprenant les opérations d’entreprise de Tangerine. Elle affirme que des activités assez considérables avaient lieu dans le compte conjoint et qu’elle a fait le suivi de toutes les sommes injectées par les appelants dans PC Computer, soulignant la grande implication de M. Malkaya.
+Passif
+[31] L’analyse de la vérificatrice sur le passif se penche sur les liquidités avancées, les prêts personnels et les cartes de crédit. Bien qu’incertaine de la façon dont les appelants en sont arrivés à l’article [traduction] « provision pour créances douteuses » dans l’analyse de l’avoir net de Ronald Ihasz (« l’analyse »), elle note que cela coïncide exactement avec les liquidités avancées dans le compte chaque année. Elle précise que l’activité du compte était constante (tant au niveau des débits que des crédits), de telle sorte qu’en aucun moment pendant les années visées il était possible d’affirmer que ces créances étaient douteuses. Elle explique que les liquidités étaient déposées par PC Computer dans le compte conjoint et qu’elles servaient à rembourser les prêts puis les achats effectués dans l’année en cour. De plus, si toutes les ventes avaient été enregistrées au cours des années visées, PC Computer, qui est toujours en activité, aurait été imposable.
+[32] M. Malkaya a affirmé à Mme Collings que les factures et cartes de crédit de PC Computer étaient payées par les prêts personnels des appelants, obtenus de Wendell Szuch et qu’ils étaient utilisés pour acheter des stocks, payer les cartes de crédit des appelants utilisées pour les dépenses d’entreprise et fournir des avances en espèces à ses clients. En 2006 et 2008, ils ont conjointement emprunté 150 000 $ et 230 000 $ respectivement (les « prêts »). L’appelant a produit un document intitulé [traduction] « formulaire de séries de billet à ordre », pièce A3, daté du 14 novembre 2008 et signé par les appelants et M. Szuch (le « billet ») d’une valeur totale de 380 000 $.
+[33] M. Szuch a témoigné que les prêts leur ont été accordés il y a longtemps, sans qu’il puisse se rappeler exactement quand, mais il a affirmé plus tard que c’était il y a environ 15 ans. Il a retiré les liquidités de chaque prêt sous forme de somme globale en espèces de son compte à la Banque de Montréal. Lorsque la question de la durée du prêt lui a été posée, il a affirmé qu’ils pouvaient le rembourser quand ils pourraient, mais qu’aucun paiement n’avait été fait. Son témoignage a été bref, peu détaillé et vague.
+[34] La vérificatrice a examiné et résumé tous les reçus et chèques qui lui ont été fournis à l’égard des prêts [16] . En 2007 et 2008, des sommes de 98 000 $ et 70 000 $ respectivement ont été accordées, en fonction des documents justificatifs [17] . Le prétendu prêt de 62 000 $ en 2008 (le « prêt de 62 000 $ ») a été rejeté, sans autre document justificatif que le billet.
+Dépenses personnelles
+[35] La vérificatrice affirme qu’elle a déterminé la somme des dépenses connues des appelants en fonction de tous leurs relevés de cartes de crédit et relevés bancaires. Ces sommes se sont résumées à un solde de clôture de 127 021,25 $ au 31 décembre 2006 et 99 710,12 $ au 31 décembre 2008 (les « dépenses personnelles »). Elle a enregistré toutes les opérations inscrites pour les années de chaque compte de carte de crédit et résumé les dépenses par catégorie dans un document de travail, qui énumère toutes les dépenses personnelles et les achats d’entreprise [18] . Les sommes totales et les renseignements de chaque catégorie de dépenses personnelle sont résumés dans la liste principale de dépenses personnelles [19] . La même méthode a été utilisée pour les opérations des relevés bancaires pour la période de 2007 et 2008. Le seul commentaire de M. Malkaya à cet égard est qu’il est habituel qu’un particulier paie des dépenses d’entreprise avec une carte de crédit. Les dépenses personnelles n’ont pas été contestées. Il n’a pas témoigné pour prouver leurs dépenses personnelles ou confirmer qu’ils n’ont pas engagé ces dépenses ou, s’ils les ont effectivement engagées, pour en prouver le montant. À mon avis, la vérificatrice n’a pas commis d’erreur en calculant les dépenses personnelles des appelants.
+[36] La vérificatrice a envoyé des lettres de proposition aux appelants datées du 4 avril 2013 comprenant un sommaire de l’évaluation de leur avoir net et une explication des rajustements, détaillés ci-après [20] .
+[37] En juin 2013, une nouvelle cotisation a été établie pour chacun des appelants en fonction de l’évaluation de l’avoir combiné, le revenu non déclaré étant également partagé (le « partage égal ») entre eux puisqu’il a été supposé qu’ils étaient tous deux actionnaires de PC Computer et impliqués dans l’entreprise et qu’ils fonctionnaient comme une unité financière unique.
+[38] En procédant à la nouvelle cotisation des appelants, l’ARC :
+a) a ajouté les liquidités avancées comme augmentations annuelles représentées dans le « compte de prêt aux actionnaires rajusté » dus par PC Computer pour les années visées [21] ;
+b) a accordé à titre de passif [22] ;
+(i) le prêt de 150 000 $ accordé en 2006 par Wendell Szuch comme une « hypothèque privée accordée selon le contribuable »;
+(ii) le prêt de 168 000 $ accordé en 2008 par M. Szuch comme un « prêt accordé selon le registre de reçus ».
+c) a refusé à titre de passif le prêt de 62 000 $ accordé en 2008;
+d) a résumé les dépenses personnelles pour les années visées [23] ;
+e) a ajouté une somme de 1 455 $ comme « revenu de location net » en 2007, à titre de propriétaire du 3 Robin Hood [24] ;
+f) a augmenté le revenu de chaque appelant de 33 273 $ pour 2007 et de 158 212 $ pour 2008, comme avantage leur étant conféré à titre d’actionnaire;
+g) a imposé des pénalités de 9 129,22 $ pour 2007 et de 27 973,05 $ pour 2008 sur le revenu non déclaré.
+[39] Dans une lettre datée du 20 mars 2015, les appelants ont demandé au ministre de réexaminer la valeur des liquidités avancées incluse dans le calcul et ont fait valoir que 80 % des liquidités avancées auraient dû être considérés comme étant détériorées pour les années visées.
+[40] Le 31 mars 2015, le ministre a confirmé les nouvelles cotisations et les pénalités pour l’année d’imposition 2007. Le 8 juin 2015, le ministre a établi une nouvelle cotisation et a partiellement accueilli l’opposition des appelants pour 2008. Les avantages conférés aux actionnaires ont été diminués, passant de 158 212 $ à 95 000 $ (soit 63 212 $ pour chaque appelant) en 2008, en raison d’une correction de la valeur de l’actif du 79 Oxford [25] . Le ministre a également réduit à 11 927,87 $ la pénalité imposée à chaque appelant pour 2008. Par conséquent, la nouvelle cotisation de chaque appelant s’établissait comme suit :
+Revenu locatif
+non déclaré
+Pénalités sur
+le revenu
+non déclaré
+2007
+728 $
+33 273 $
+9 129,22 $
+2008
+63 212 $
+11 927,87 $
+[41] Ronald Ihasz, le comptable engagé par les appelants, a déclaré dans son témoignage avoir préparé une analyse du bilan révisée (l’« analyse »), pièce A1, en fonction des documents de travail de Mme Collings [26] . Pour résumer son analyse, il a révisé les actifs et passifs, puis a conclu que l’avoir net combiné des appelants en date du 31 décembre 2005 était de 72 851,68 $ et que leur « avoir net était négatif » au 31 décembre des trois années suivantes. Il soutient que les liquidités avancées ont été injectées dans PC Computer pour [traduction] « lancer » l’entreprise et [traduction] « que cela aurait dû être fait sous la forme d’un système de comptes débiteurs, ainsi, le solde à la fin de l’exercice est le seul actif et n’est pas ajouté au solde des années antérieures », comme le prévoit les principes comptables généralement reconnus (PCGR) et que ces liquidités constituaient une partie en espèces devant être rajoutée. Si le 62 000 $ était prêté, selon lui, cela entraînerait une situation négative sans actifs, car 464 000 $ étaient dus à M. Szuch, et par conséquent, aucun impôt ne serait à payer.
+Thèses des parties
+[42] Les appelants soutiennent qu’ils ont déclaré tous les revenus qu’ils ont gagnés au cours des années visées, qu’ils n’ont pas utilisé le compte conjoint pour s’approprier des revenus de PC Computer et que les rajustements effectués par le ministre ne se rapportent à aucun revenu gagné par eux puisqu’il n’y a pas eu de revenus non déclarés. De plus, la méthode de calcul du ministre est erronée. En effet, le partage égal de l’évaluation de l’avoir net combiné total est inappropriée dans les circonstances, puisque 80 % des liquidités avancées doivent être déduites du revenu imposable à titre de dette (douteuse, détériorée ou irrécouvrable) et que le prêt de 62 000 $ constituait un passif entraînant une situation d’avoir net négatif pendant les années visées. Aucune pénalité ne devrait donc être imposée.
+[43] L’intimée ne souscrit pas à cette thèse et soutient que les appelants se sont approprié les revenus de PC Computer en déposant des paiements issus des ventes dans le compte conjoint au cours des années visées et qu’ils ont utilisé cet argent à des fins personnelles, en plus d’avoir reçu du revenu de location en 2007. Ils ont ainsi fait de fausses déclarations ou des omissions dans leurs déclarations en sous-estimant leurs revenus et le ministre a imposé à juste titre des pénalités en application du paragraphe 163(2).
+III. ANALYSE
+[44] Avant d’examiner les questions en litige, je m’exprimerai sur l’observation des appelants portant qu’il était raisonnable que le ministre ait recours à une évaluation de l’avoir net combiné alors qu’ils résidaient ensemble, et que leurs livres et registres ainsi que ceux de PC Computer étaient bien tenus. Puisqu’une évaluation de l’avoir net est un moyen d’établir le revenu approximatif d’un contribuable pour déterminer ses obligations fiscales pour une année donnée et qu’elle est utilisée en dernier recours dans certains cas, notamment lorsque les livres et registres ne sont pas bien tenus, leur observation porte à confusion.
+[45] À mon avis, les livres et registres des appelants et de PC Computer n’étaient pas bien tenus. M. Malkaya avait préparé des factures de vente informatisée, sans identifier la méthode de paiement utilisée par le client. Il n’y avait pas de caisse-enregistreuse, aucun contrôle à l’égard des ventes et, en contre-interrogatoire, il a déclaré que certains reçus de ventes étaient en fait des avances de fonds parce qu’il n’avait pas la possibilité d’imprimer des reçus d’avance de fonds. De plus, il a fourni à son comptable externe uniquement les factures de ventes, les factures de dépenses et les relevés de compte bancaire d’entreprise. Élément significatif, le comptable n’avait pas connaissance de l’existence des relevés Tangerine et ne les a pas reçus, alors que les paiements électroniques étaient traités de cette façon, et n’a pas reçu leurs relevés de compte conjoint. Ces derniers relevés documentent tous les paiements déposés dans leur compte conjoint pour toutes les ventes de PC Computer. Cette information n’a pas été communiquée au comptable lors de la préparation des déclarations d’impôt de l’entreprise et les factures de vente pour les emplacements de St. Catherines et Niagara Falls ne lui ont pas été fournies.
+[46] Après avoir résumé les factures de dépenses, les renseignements sont inscrits dans le logiciel Simply Accounting. Toutefois, ce ne sont pas toutes les dépenses qui ont été réclamées, car M. Malkaya a décidé qu’il ne voulait pas que PC Computer se trouve en position de perte. En examinant les relevés des cartes de crédit personnelles obtenus au moyen des ordonnances de production, la vérificatrice a conclu que des achats d’une valeur approximative de 70 000 $ par année ont été supprimés.
+a) Revenu non déclaré
+[47] Examinons maintenant la question du revenu non déclaré. Le paragraphe 152(7) autorise le ministre à réaliser une évaluation de l’avoir net. Cette disposition se lit comme suit :
+Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou en son nom et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[48] Dans la décision Ramey c The Queen, 93 DTC 791, au par. 6, [1993] 2 CTC 2119, le juge Bowman, tel était alors son titre, a observé que la méthode de l’avoir net consistant à évaluer un revenu est une façon insatisfaisante et imprécise de déterminer le revenu d’un contribuable, ces évaluations pouvant être inexactes et devant être utilisées en « dernier recours ».
+[49] Dans l’arrêt Hsu c. Canada, 2001 CAF 240, la Cour d’appel fédérale a reconnu que l’évaluation de l’avoir net constitue une évaluation arbitraire et imprécise du revenu d’un contribuable, et a mentionné ce qui suit [27] :
+Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[50] Puisque le ou la contribuable connaît mieux sa situation financière que le ministre, il peut soit démontrer que le revenu qu’il ou elle a gagné au cours d’une année d’imposition ou, en l’absence d’élément de preuve documentaire, démontrer que la méthode de calcul de l’avoir net du ministre comportait des lacunes [28] . Relativement à la seconde méthode, dans la décision Bigayan, la Cour a souligné ce qui suit :
+4. Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l’on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n’a pas été pleinement découverte. Il est peu probable que l’on rende parfait en le modifiant un instrument qui, par nature, est imparfait.
+[51] En ce qui concerne l’affaire Sprio c. La Reine, 2009 CCI 275, le ministre a utilisé la méthode de l’avoir net combiné afin de déterminer les obligations fiscales de M. Sprio en combinant ses actifs et ses passifs à ceux de ses parents et de son amie, puisque leurs affaires étaient interconnectées, qu’il a déclaré un revenu fort peu élevé et qu’il avait un mode de vie extravagant [29] . La juge Lamarre (tel était alors son titre) a conclu que cette méthode était plus que justifiée dans les circonstances. Elle a noté que le paragraphe 152(7) ne précise pas comment le ministre doit calculer l’avoir net et qu’il peut employer toute méthode qu’il juge appropriée.
+[52] En l’espèce, le recours à la méthode du calcul de l’avoir net combiné était approprié selon moi, considérant que les relations commerciales, les prêts et les affaires financières des appelants étaient inextricablement liés, comme l’a reconnu M. Malkaya. Rappelons qu’ils possédaient conjointement des immeubles, avaient accès à leur compte conjoint qu’ils partageaient également et où ils déposaient les paiements appartenant à PC Computer et duquel les dépenses d’entreprise et leurs dépenses personnelles étaient payées. La vérificatrice a indiqué dans son témoignage qu’il n’était pas possible d’isoler les biens les uns des autres, vu la [traduction] « quantité d’enchevêtrements issus d’un seul compte partagé par les deux appelants » et que Mme Malkaya ne possédait pas de compte bancaire. En outre, toutes leurs affaires étaient combinées, tout était payé par leur compte conjoint (y compris les articles personnels et d’entreprise), sans égard à qui détenait la carte de crédit, ils payaient les factures l’un de l’autre et possédaient conjointement des biens.
+[53] Le contribuable a le fardeau de la preuve de repousser les hypothèses de fait du ministre selon la prépondérance des probabilités [30] . Les appelants doivent donc prouver que des erreurs ont été commises dans les calculs de l’avoir net.
+[54] Le ministre a notamment présumé que les appelants se sont approprié des revenus de PC Computer, car au cours des années visées, les paiements déposés ont été placés dans leur compte conjoint personnel, souvent en espèces, et qu’ils ont utilisé ces dépôts à des fins personnelles. Lorsqu’il lui a été demandé en contre-interrogatoire pourquoi les paiements déposés n’avaient pas été placés dans le compte bancaire d’entreprise de PC Computer, M. Malkaya a répondu que Tangerine exigeait que les paiements soient déposés dans un compte bancaire possédant une protection en cas de découvert, ce que le compte bancaire d’entreprise n’avait pas. Les appelants n’ont produit aucun élément de preuve afin de confirmer l’exigence de Tangerine. Je ne suis pas convaincue que la question de la protection en cas de découvert était la raison pour laquelle les paiements étaient déposés dans le compte conjoint des appelants.
+[55] Le premier argument des appelants, selon lequel ils ont [traduction] « déclaré chaque sous » du revenu qu’ils ont réellement gagné et que leur mode de vie était modeste ne semble pas véridique. Les dépenses personnelles, exposées au paragraphe 35 des présents motifs, excèdent de loin le revenu combiné déclaré de 30 680 $ par M. et Mme Malkaya pour les deux années visées. Soulignons qu’ils ont également affirmé que les prêts couvraient certaines dépenses. De plus, le 11 mai 2007, chacun des appelants a présenté cinq demandes de permis de taxi aux autorités locales, le coût total de ces demandes atteignant 13 500 $, alors que leur revenu combiné déclaré en 2007 s’élevait à 17 000 $.
+[56] En contre-interrogatoire, il a été démontré que les demandes de carte de crédit remplies à l’automne 2006 et 2008 par M. Malkaya indiquaient que son revenu annuel était de 40 000 $ et 60 000 $ respectivement et qu’il était employé de PC Computer. La demande de carte de crédit President’s Choice Financial MasterCard de Mme Malkaya faite en 2006 indique qu’elle a un revenu annuel de 98 000 $ et qu’elle est « technicienne informatique » [31] . L’appelant s’est rétracté quant à cette information, a déclaré que le revenu annuel qu’ils avaient indiqué ne reflétait pas la réalité et a affirmé que « tout le monde » fait de fausses déclarations à propos de leurs revenus dans les demandes de carte de crédit.
+Revenus de location
+[57] Le ministre a également présumé que les appelants ont reçu un revenu de location en 2007. M. Malkaya soutient qu’ils avaient permis à M. Viggars, leur ami, de demeurer gratuitement au 3 Robin Hood en 2007. Il affirme qu’il est vrai que le chèque libellé en son nom par Jake Viggars, d’une somme de 1 455 $, indique « loyer d’octobre », mais qu’il s’agissait en fait d’un remboursement ponctuel de trois mois de factures de services publics. Il ne me semble pas vraisemblable qu’une personne précise que l’objet d’un chèque est le loyer alors qu’il serait soi-disant pour le remboursement de trois mois de factures de services publics, ni que les factures de services publics produites corroborent les allégations de M. Malkaya.
+[58] La vérificatrice a obtenu le chèque aux termes des ordonnances de production, a vérifié que le revenu de location n’a pas été déclaré par les appelants dans leurs déclarations d’impôt et a contacté l’épouse de M. Viggar, qui lui a confirmé qu’elle et son mari ont loué le haut du 3 Robin Hood du mois d’octobre 2007 au mois d’août 2008 et que d’autres personnes vivaient en bas. M. Malkaya n’habitait pas à cette adresse pendant cette période [32] .
+[59] M. Malkaya n’est pas un témoin crédible. Il y avait des incohérences entre son témoignage et les documents, entre son témoignage et des déclarations antérieures qu’il a faites et dans son propre témoignage. Outre les autres exemples exposés aux présents motifs, il a d’abord témoigné qu’il utilisait uniquement le compte conjoint et les cartes de crédit à des fins commerciales. Toutefois, il a ensuite convenu en contre-interrogatoire que le compte conjoint et les cartes de crédit étaient utilisés pour une multitude d’opérations personnelles, comme le démontrent les documents produits par l’intimée. Dans l’examen de ce qui pourrait expliquer les différences entre l’augmentation de l’avoir net et le revenu déclaré pour les années visées, M. Malkaya n’a fait état d’aucune explication crédible ni présenté d’élément de preuve qui justifierait une modification ou un rajustement du calcul de l’avoir net.
+[60] Je privilégie et retiens la preuve présentée par Mme Rancourt. Elle a été méthodique et son analyse se fondait logiquement sur les renseignements auxquels elle a eu accès. Je conclus que les liquidités de PC Computer ont été appropriées, les appelants ayant déposé tous les paiements des cartes de crédit et cartes de débit faits à l’entreprise dans leur compte conjoint pendant les années visées, et qu’ils ont utilisé ces liquidités pour payer leurs dépenses personnelles (pour soutenir leur mode de vie) et les dépenses de l’entreprise. Je conclus également qu’ils ont reçu du revenu de location en 2007.
+[61] Le deuxième argument des appelants est que la méthode de calcul de l’avoir net est erronée. Trois observations ont été présentées. Tout d’abord, le partage égal du revenu non déclaré est inapproprié, car les appelants se sont séparés en 2007, ils ne constituaient pas une entité financière unique et M. Malkaya était l’unique actionnaire, alors que Mme Malkaya n’avait « rien à voir » avec PC Computer.
+[62] Ils ont effectivement divorcé en 2014, et je retiens que les appelants ont vécu des difficultés matrimoniales, mais je ne crois pas qu’ils étaient séparés et ne vivaient pas ensemble au cours des années visées. Les allégations à l’égard de leur séparation, sans preuve documentaire démontrant les arrangements pris par les appelants pour couper leurs liens, ne sont pas convaincantes. Le témoignage de M. Malkaya selon lequel Mme Malkaya a déménagé du 3 Robin Hood pour aller vivre au 125 Redwood, alors qu’il vivait dans le sous-sol de M. Ihasz, ne concorde pas avec ce qu’il a déclaré à la vérificatrice, c’est-à-dire qu’il vivait au 187 rue King, même si on ne retrouvait pas d’espace propre à l’habitation dans les locaux de l’entreprise. Bien que Mme Malkaya soit décrite comme étant la propriétaire du 125 Redwood, lors de l’achat de l’immeuble en août 2007, les liquidités ont été retirées à partir du compte conjoint et du compte de la Banque de Montréal. L’offre d’achat a d’ailleurs été signée par les deux appelants, à titre d’acheteurs.
+[63] Il resort de la preuve que les appelants ont demeuré au 3 Robin Hood jusqu’à l’automne 2007, puis qu’ils ont loué cet immeuble à d’autres personnes. J’en conclus que les appelants et leurs enfants sont déménagés au 125 Redwood à l’automne 2007 et qu’ils y résidaient en 2008, conformément à ce qu’indiquent les factures de services publics pour 2007 et 2008, ainsi qu’une facture d’achat de meubles datant de novembre 2007 et indiquant que M. Malkaya résidait également au 125 Redwood. Je constate que l’ordonnance de la cour provinciale rendue en février 2013 et la pièce A, qui est l’inventaire des choses saisies par l’ARC, qualifient l’adresse du 79 Oxford de « résidence personnelle » des appelants au mois de mars 2012.
+[64] L’allégation de M. et Mme Malkaya selon laquelle ils ne constituaient pas une unité financière unique au cours des années visées n’est pas soutenue par la preuve. Il ressort des éléments de preuve exposés aux paragraphes 10, 11 et 52 des présents motifs que, à mon avis, ils constituaient une seule unité financière financière.
+[65] Je ne crois pas l’allégation de M. Malkaya, qui affirme qu’il était l’unique actionnaire de PC Computer pendant les années visées. En contre-interrogatoire, il a déclaré qu’au départ, les deux appelants étaient actionnaires. Il avait également dit à Mme Collings, en mars 2009, qu’il était sur le point de racheter la participation de Mme Malkaya, qui était de 20 %, mais il a ensuite affirmé qu’il n’était pas en mesure de payer les actions, mais qu’elle les lui avait transférées malgré tout [33] . Je ne crois pas non plus que Mme Malkaya n’avait aucun lien avec PC Computer en 2008 ou avant. M. Malkaya a témoigné que Mme Malkaya travaillait à temps partiel à la boutique, effectuant de « petites tâches », et qu’elle l’aidait lorsqu’il n’était pas disponible. Elle a également injecté de l’argent dans l’entreprise à partir de leurs emprunts conjoints, effectuait couramment des achats d’entreprise en utilisant ses cartes de crédit pour payer le stock et les dépenses de l’entreprise et les paiements déposés étaient placés dans leur compte conjoint, auquel elle avait accès. Elle demeurait copropriétaire des locaux de l’entreprise situés aux 187 rue King. Je conclus qu’en 2007 et 2008, M. Malkaya était actionnaire à 80 % de l’entreprise et que Mme Malkaya possédait 20 % des parts de PC Computer.
+[66] Deuxièmement, les appelants font valoir, et cette thèse est soutenue par l’analyse de M. Ihasz, qu’il aurait dû y avoir une « provision pour prêts douteux » de 80 % (des liquidités avancées) déduite du revenu imposable pour tenir compte du prêt aux actionnaires, de telle sorte que le solde de fin de chaque exercice aurait dû être qualifié de créance douteuse. Selon eux, cela aurait dû se passer ainsi, car ces dettes étaient douteuses, détériorées ou irrécouvrables. Leur thèse sur les créances douteuses ou détériorées se fonde sur l’alinéa 20(1)l), car les prêts étaient assujettis à un risque élevé au cours des années visées. Subsidiairement, ils qualifient ces dettes de créances irrécouvrables aux termes de l’alinéa 20(1)p). Toutefois, le fait est qu’il y avait une activité constante dans le compte, et que si toutes les ventes y avaient été enregistrées, l’entreprise aurait dû payer de l’impôt, ce qui invalide leurs observations.
+[67] Même si je retenais l’idée que PC Computer était « techniquement » insolvable pendant les années visées comme ils le soutiennent, ce qui n’est pas le cas, ils n’ont démontré aucun de ces risques (qui permettraient de suggérer que les prêts étaient douteux ou détériorés). Aucun élément de preuve n’a non plus été présenté relativement à la façon dont ils ont pu déterminer que la dette était irrécouvrable afin de remplir les conditions relatives à la déduction aux termes de cette disposition. Quoi qu’il en soit, s’ils avaient cru que les liquidités avancées étaient des dettes douteuses ou détériorées, ils auraient dû les déduire aux termes de l’alinéa 20(1)l) chaque année, puis les inclure dans leur revenu les années suivantes, tant et aussi longtemps que ces dettes étaient douteuses. S’ils avaient conclu que les liquidités avancées étaient des créances irrécouvrables, ils auraient dû les déduire en application de l’alinéa 20(1)p). Ils n’ont fait ni l’un ni l’autre.
+[68] Troisièmement, les appelants soutiennent que le prêt de 62 000 $ qu’ils ont contracté, comme le démontre le billet, est toujours dû à M. Szuch. Par conséquent, ce prêt aurait dû se trouver dans les passifs en 2008. Pendant le contre-interrogatoire, M. Ihasz a reconnu la télécopie envoyée à l’ARC en septembre 2014, accompagnée d’un autre formulaire de série de billet à ordre (le « billet envoyé par télécopieur ») [34] . Le billet envoyé par télécopieur est essentiellement identique au billet, à l’exception que la signature du témoin Dave Miller se trouve uniquement sur le billet. Mme Malkaya a signé comme témoin sur le billet envoyé par télécopieur, et comme bénéficiaire du billet à ordre sur le billet. M. Ihasz a été incapable d’expliquer pourquoi il existe deux versions du même prêt, a convenu qu’il n’avait pas connaissance directe du prêt de 62 000 $ (ou des prêts), qu’il savait uniquement ce que les appelants lui avaient confié et qu’il n’a fait aucune vérification indépendante de l’affaire en question au moment de la préparation de son analyse. Il a confirmé qu’il est devenu impliqué uniquement en mai 2013, au moment de la nouvelle cotisation. Je n’accorde aucune valeur probante au billet envoyé par télécopieur ni au billet et je rejette la preuve et l’analyse présentées par M. Ihasz.
+[69] Le seul autre élément de preuve reposait sur les témoignages de M. Malkaya et de M. Szuch, mais aucun d’eux n’a produit de documents, comme des relevés de banque indiquant les débits et les crédits portés à leurs comptes bancaires au moment du soi-disant prêt de 62 000 $, qui pourraient corroborer l’existence du prêt. Vu ce qui précède, je ne suis pas convaincue selon la prépondérance des probabilités que M. Szuch a accordé un prêt de 62 000 $ aux appelants.
+[70] Les appelants ne se sont pas acquittés de leur fardeau et n’ont pas avancé d’explication crédible des divergences établies par le ministre dans son calcul de l’avoir net combiné. Compte tenu de l’ensemble de la preuve, j’en viens à la conclusion qu’il est plus cohérent de retenir la thèse selon laquelle les appelants ont touché des revenus non déclarés, ce qui explique l’augmentation de l’avoir net au cours des années visées.
+b) Pénalités
+[71] Vu ma conclusion qu’il y a eu un revenu non déclaré au cours des années visées, je discuterai à présent la question des pénalités imposées sur ce revenu non déclaré.
+[72] Le paragraphe 163(2) autorise le ministre à imposer une pénalité si le contribuable, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration.
+[73] Il incombe au ministre d’établir les faits justifiant l’imposition de la pénalité [35] . Le ministre doit prouver que le contribuable a fait un faux énoncé ou une omission dans une déclaration de revenus et qu’il a agi sciemment ou dans des circonstances équivalant à faute lourde [36] .
+[74] Les concepts de connaissance et de faute lourde prévus par le paragraphe 163(2) ne sont pas conjonctifs et le ministre n’a qu’à prouver l’un des deux [37] .
+[75] Dans la décision Venne c. Canada (ministre du Revenu national, [1984] CTC 223 souvent citée, le juge Strayer définit ainsi la faute lourde au paragraphe 37 :
+[traduction] (...) La faute lourde doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de faire preuve de diligence raisonnable. Il doit y avoir un degré important de négligence qui correspond à une action délibérée, une indifférence au respect de la loi.
+[76] Récemment, dans l’arrêt Deyab c. Canada, 2020 CAF 222, la Cour d’appel fédérale a confirmé que la « [c]onduite qui justifierait l’imposition d’une pénalité pour faute lourde est un comportement qui équivaut à une action délibérée » [38] . Elle s’appuie sur une jurisprudence de la Cour suprême du Canada, Guindon c. Canada, 2015 CSC 41 et son approbation des descriptions de la faute lourde aux fins du paragraphe 163(2), inscrits dans les paragraphes suivants de l’arrêt Guindon, dans lesquels la Cour suprême enseigne :
+[59] Les expressions « montre une indifférence quant à l’observation de la présente loi » et « équivaut à une conduite intentionnelle » tirent leur origine de la jurisprudence sur la pénalité pour faute lourde qui s’applique directement au contribuable suivant le par. 163(2) de la LIR, lequel dispose :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité [...] [Calcul du montant de la pénalité omis.]
+[60] Dans son mémoire, la ministre soutient que la « conduite coupable » visée à l’article 163.2 de la LIR [traduction] « n’est pas censée différer de la faute lourde et de la norme qui s’y rattache au par. 163(2) » (par. 79). Dans Venne c. Canada (ministre du Revenu national — M.R.N.), [1984] A.C.F. No 314 (QL) (1re inst.), une affaire relative à la pénalité prévue au par. 163(2), la Cour fédérale explique qu’« une indifférence au respect de la Loi » ne s’entend pas que d’une simple inattention ou négligence; elle suppose « un degré important de négligence qui corresponde à une action délibérée » (p. 11). Cela s’apparente en somme à faire l’autruche : (Sirois (L.C.) c. Canada, 1995 CarswellNat 555 (WL Can.) (C.C.I.), par. 13; Keller c. Canada, 1995 CarswellNat 569 (WL Can.) (C.C.I.). Dans Sidhu c. La Reine, 2004 CCI 174, la Cour canadienne de l’impôt, pour expliquer sa décision dans Venne, développe les expressions « équivaut à une conduite intentionnelle » et « montre une indifférence quant à l’observation de la présente loi » :
+Les actions « qui correspondent » à des actions réalisées intentionnellement sont celles pour lesquelles on peut présumer une intention, comme les actions qui démontrent « une indifférence au respect de la Loi [...]. Le fardeau de la preuve ne consiste pas à prouver au‑delà du doute raisonnable l’intention coupable de se soustraire au paiement de l’impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l’égard de la diligence appropriée et raisonnable dans le contexte d’un système d’autocotisation qui contredit et insulte le sens commun. [par. 23 (CanLII)]
+[77] Une pénalité doit être clairement justifiée. La preuve présentée pour l’appuyer doit être étudiée soigneusement [39] . Si la preuve soulève un doute quelconque, le doute joue en faveur du contribuable [40] .
+[78] Dans son témoignage, la vérificatrice a expliqué que les pénalités ont été imposées en raison de l’importance de l’augmentation du revenu (le revenu non déclaré totalisant 192 970 $), du fait que le comptable n’a pas reçu les livres et registres complets et exacts afin de définir l’obligation fiscale exacte et que le revenu déclaré par les deux appelants dans leur déclaration de revenus (totalisant 30 680 $) ne permet pas d’assurer leur mode de vie ni de couvrir leurs frais de subsistance. Elle a noté que le revenu net déclaré de PC Computer en 2006 et 2007 était de zéro, même si pour ces mêmes années, M. Malkaya savait que PC Computer avait gagné un revenu puisque la majorité des ventes non déclarées étaient déposées dans le compte conjoint des appelants. Lorsque le revenu d’entreprise a été réduit à néant en 2007, 15 000 $ restait dans le compte, et M. Malkaya a déclaré qu’il s’agissait de frais de gestion, ainsi déterminé par le revenu tiré de PC Computer.
+[79] L’intimée allègue qu’il ressort de la preuve, selon la prépondérance des probabilités, que les appelants ont sciemment omis de déclarer des revenus pour les années visées, ou que ces omissions étaient attribuables à une faute lourde. Ils se sont sciemment approprié les liquidités en faisant déposer les paiements dans leur compte conjoint et savaient ce qu’ils faisaient. Ils ont ensuite utilisé ces liquidités pour payer des dépenses personnelles et d’entreprise.
+[80] La responsabilité concernant les pénalités doit être déterminée séparément pour chacun des appelants.
+[81] Puisque j’ai conclu que chaque appelant a eu des revenus non déclarés, cela établit le premier élément, soit que de faux énoncés ou des omissions ont été faits dans les déclarations pour les années visées.
+[82] Il faut ensuite rechercher si les faux énoncés ou les omissions ont été faits sciemment ou dans des circonstances équivalant à une faute lourde. Aucune explication satisfaisante n’a été donnée quant au défaut de déclarer tous les revenus. Il me semble improbable que leur revenu combiné déclaré ait pu soutenir une famille de six pendant les années visées et ce, même si leur mode de vie était frugal. Pour les motifs qui suivent, je conclus que M. Malkaya a sciemment, ou dans des circonstances équivalant à une faute lourde, fait de fausses déclarations dans ses déclarations de revenus pour les années visées. Je tire une conclusion contraire pour Mme Malkaya.
+[83] Les appelants font valoir qu’il n’y avait pas de revenus déclarés, qu’ils ont engagé un comptable professionnel pour préparer leurs déclarations de revenus et qu’ils se sont fiés sur lui, parce qu’ils ne possédaient pas les connaissances nécessaires en comptabilité et en fiscalité. Ils ont supposé qu’il détenait l’expertise nécessaire, ils ont supposé que leurs revenus étaient déclarés de façon exacte et au moment de signer leurs déclarations, ils n’avaient pas connaissance d’aucune divergence entre leur revenu imposable respectif et les sommes déclarées.
+[84] À mon avis, cette argument ne peut être retenu. L’attente selon laquelle le revenu serait exactement établi et déclaré repose sur la prémisse portant que le comptable possède avant tout l’information exacte et des documents complets. Cela n’a pas été le cas. Un contribuable ne peut pas non plus éviter une pénalité en renvoyant la responsabilité de la préparation des déclarations de revenus à un autre particulier. Au fond, les contribuables, les appelants compris, ont la responsabilité de vérifier le contenu et l’exactitude de leurs propres déclarations de revenus, indépendamment du spécialiste en déclarations de revenus.
+[85] M. Malkaya a obtenu un diplôme en génie mécanique en 1992, puis a exercé les fonctions d’ingénieur aéronautique à Istanbul, en Turquie, jusqu’en 1997. Mme Malkaya a terminé ses études secondaires. Rappelons qu’il était « étroitement » impliqué auprès de PC Computer et en connaissait bien tous les aspects. Il conservait les registres à jour, interagissait avec le comptable et choisissait notamment quels renseignements et quels documents lui seraient transmis, décidait quelles dépenses demander et formulait l’explication pour les dépenses non demandées. Manifestement, il était le décideur, avait connaissance des déclarations de revenus et était celui qui signait les déclarations de revenus de la société. La non-divulgation de l’information, puis l’encaissement des liquidités à des fins personnelles sont cohérents avec la dissimulation d’un montant important de revenus imposables. De plus, le revenu non déclaré est important comparativement au revenu déclaré. Je conclus que M. Malkaya avait des revenus non déclarés, qu’il a utilisé les paiements déposés pour financer ses dépenses personnelles et que le défaut de déclarer ce revenu a été fait sciemment ou d’une façon équivalant à une faute lourde. S’il n’était pas au courant du revenu non déclaré, il ne peut s’agir que d’aveuglement volontaire. Il est justifié d’imposer une pénalité pour chacune des années dans sa situation.
+[86] Inversement, les pénalités ne sont pas justifiables dans le cas de Mme Malkaya. Son rôle dans PC Computer était beaucoup plus restreint. Il n’y a pas de preuve démontrant qu’elle participait aux activités de M. Malkaya, décrites au paragraphe précédent ou qu’elle prenait des décisions sur les questions relatives à l’entreprise. Je doute même qu’elle avait conscience des restrictions imposées par M. Malkaya à la transmission des renseignements et des documents au comptable, qu’elle comprenait la situation ou les conséquences de ce comportement. Je conclus que Mme Malkaya avait un revenu non déclaré, qu’il a été utilisé pour financer des dépenses personnelles, mais que l’omission de déclarer ce revenu n’a pas été faite sciemment ou d’une façon équivalant à une faute lourde de sa part.
+IV. CONCLUSION
+[87] En raison de la concession de l’intimée, les appels interjetés visant les nouvelles cotisations établies à l’égard de M. Malkaya et de Mme Malkaya pour l’année d’imposition 2006 sont accueillis et sont renvoyés au ministre pour nouvel examen et nouvelle cotisation.
+[88] Relativement aux années d’imposition 2007 et 2008 :
+Les appelants ne se sont pas acquittés de leur fardeau à l’égard du revenu non déclaré;
+Le ministre s’est acquitté de son fardeau concernant l’imposition de pénalités relativement à M. Malkaya, mais non à l’égard de Mme Malkaya;
+Les appels des nouvelles cotisations de M. Malkaya sont rejetés en totalité;
+Les appels des nouvelles cotisations de Mme Malkaya sont rejetés relativement au revenu non déclaré, et accueillis relativement aux pénalités, qui doivent être retirées.
+[89] Un seul mémoire de frais pour les deux appels est accordé à l’intimée, conformément au Tarif. Les appelants devront payer les dépens à l’intimée dans les 45 jours du présent jugement.
+Signé à Ottawa, Canada, ce 5e jour d’août 2022.
+« K. Lyons »
+La juge Lyons
+Traduction certifiée conforme
+ce 13e jour de mars 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 89
+NO DU DOSSIER DE LA COUR :
+2015-3157(IT)G; 2015-3156(IT)G
+INTITULÉ :
+BULENT MALKAYA c. SA MAJESTÉ LA REINE; RUKIYE MALKAYA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Du 15 au 18 novembre 2021
+MOTIFS DES JUGEMENTS :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 5 août 2022
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Tokunbo C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms :
+En blanc
+Cabinet :
+En blanc
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le revenu non déclaré est composé des avantages accordés aux appelants à titre d’actionnaire pour les années visées et d’un revenu de location pour l’année d’imposition 2007.
+[2] Il a été confirmé que Wendell Szuch a vendu de l’or à Coin Unlimited, puis qu’il a prêté 84 000 $ à M. Malkaya, prêt qui n’a pas encore été remboursé. L’intimée a concédé que le prêt était un passif en 2006 et pour les années visées. La nouvelle cotisation établissant un revenu de 24 987 $ et une pénalité de 5 646,54 $ pour chaque appelant en 2006 était donc inexacte.
+[3] L’ordonnance du 22 janvier 2013, « Remise des choses saisies », signée par un juge de paix de la province de l’Ontario, ordonnait que les documents saisis à la résidence des appelants, située au 187 King, lrv. Cochrane, et d’une autre entreprise, leur soit remis. Les documents saisis comprennent des courriels, des reçus, des factures de fournisseurs et de vente, des chéquiers, des relevés de banque, des documents hypothécaires, des reçus et relevés de dépense personnels, des documents fonciers, etc.
+[4] Pièce R11.
+[5] Loi de l’impôt sur le revenu, LRC (1985), ch. 1 (5e suppl.).
+[6] Les cartes de crédit Sears, Canadian Tire Master Card, Leons et The Brick sont au nom de l’appelant, et les cartes CIBC Visa, American Express, Sears, The Brick et President’s Choice sont au nom de l’appelante.
+[7] Une Jetta Volkswagen 1999, une Lincoln Navigator 2004, une Pontiac Trans Sport 1999 et une BMW 325 de 2006.
+[8] M. Malkaya a indiqué que la boutique se trouvant à un autre emplacement appartenait à un tiers et que PC Computer vendait uniquement des stocks en gros à cette boutique.
+[9] Recueil de documents de l’intimée pour M. Malkaya (le « Recueil de documents »), onglet 1, onglets 28 et 29.
+[10] Recueil de documents, onglet 5.
+[11] Réponse à l’avis d’appel, annexe 3 de chaque appelant. Pièces R2 et R7.
+[12] Recueil des documents, onglet 39, sommaire des cartes Canadien Tire/Master Card se terminant par les numéros 5917, les achats de Harmony sont indiqués en 2006. Pièces R22 et R23.
+[13] Après avoir calculé l’augmentation (ou la diminution) de l’avoir net pour une année précise, des rajustements sont fait portant notamment sur les dépenses personnelles pour déterminer le revenu total d’un particulier et établir la différence de l’impôt sur le revenu de l’avoir net. L’avoir net d’un particulier au début de la période (le solde d’ouverture de l’avoir net) doit être déterminé et est établi en fonction des éléments d’actifs et de passifs de l’année précédente.
+[14] Pièce R19.
+[15] Les liquidités totales au 31 décembre 2005, soit la date de départ, étaient de 23 492 $.
+[16] Recueil des documents, onglet 89. Pièces R21 et A5.
+[17] Il a été constaté que deux chèques ont été émis par M. Szuch aux appelants.
+[18] Recueil des documents, onglets 34 et 35. La pièce R31 renvoie à l’onglet 34 de la liste principale. Les catégories de dépenses personnelles sont les suivantes : magasins, restaurants, taxes foncières, services publics, téléphone, objets ménagers, linge, gaz, voyages, frais dentaires, soins personnels, loisirs, cadeaux, frais bancaires, intérêts, immigration, assurance-automobile et assurance-vie, propriété et entretien pour transport et abri.
+[19] Recueil des documents, onglets 51 à 67 (liste principale et documents de travail) pour 2007, et onglets 68 à 86 (liste principale et documents de travail) pour 2008. Pièces R33 et R34.
+[20] Recueil des documents, onglet 4.
+[21] Réponse à l’avis d’appel, annexe 1 de chaque appelant.
+[22] Réponse à l’avis d’appel, annexe 2 de chaque appelant.
+[23] Réponse à l’avis d’appel, annexe 4 de chaque appelant.
+[24] Réponse à l’avis d’appel, annexe 5 de chaque appelant.
+[25] Avant l’audience, Ronald Ihasz n’avait pas réalisé que l’ARC avait effectué ces rajustements dans le cadre des appels.
+[26] M. Ihasz est CPA, directeur fiscal CMA, ancien vérificateur provincial et vérificateur spécialisé en taxes de vente à la retraite, possédant de l’expérience en préparation d’évaluation de l’avoir net.
+[27] Hsu, par. 31, citant Bigayan c. La Reine, 2000 DTC 1619 (CCI), par. 2.
+[28] Bigayan, par. 3.
+[29] Sprio c. La Reine, 2009 CCI 275, par. 31. M. Sprio a été accusé et condamné à quatre ans de prison pour complot en vue de l’importation de drogue, ne possédait pas de compte bancaire et utilisait les comptes de ses parents et de son amie pour ses opérations; il utilisait un des comptes de ses parents pour payer les frais de construction de sa nouvelle maison. Dans la décision Francisco c. La Reine, [2003] 2 CTC 2378, 2003 DTC 3958 (procédure informelle), le juge Bowie a rejeté un calcul de l’avoir net combiné (de conjoints de fait qui exploitaient une entreprise ensemble) utilisé pour évaluer leur revenu combiné. La juge Lamarre a souligné dans Sprio que dans la décision Francisco, la Cour retient l’utilisation de cette méthode dans certaines circonstances, ce que la Cour d’appel fédérale a confirmé.
+[30] Estra Flooring Services Corp. c. La Reine, 2021 CCI 20, par. 31.
+[31] Pièce R13, demande de compte de crédit personnel Enterprise et Canadian Tire, et pièce R15, demande de carte de crédit President’s Choice Financial MasterCard de 2006.
+[32] Recueil des documents, onglet 25, pages 12 et onglet 9. Pièces R35 et R17, respectivement.
+[33] Recueil des documents, onglet 24. Note de service au dossier de l’ARC.
+[34] Recueil des documents, onglet 16.
+[35] Paragraphe 163(3).
+[36] Corriveau c The Queen, [1999] 2 CTC 2580, par. 26, 99 DTC 3485 (procédure informelle). Ce critère a récemment été confirmé dans l’arrêt Deyab c. Canada, 2020 CAF 222.
+[37] Wynter c. Canada, 2017 CAF 195, par. 11. Confirmé dans l’arrêt Canada c. Paletta, 2022 CAF 86.
+[38] Deyab, par. 63.
+[39] Mensah c. La Reine, 2008 CCI 378.
+[40] Farm Business Consultants Inc. c. La Reine, [1994] 2 CTC 2450, 95 DTC 200, par. 27; conf. par [1996] 2 CCI 200, 96 DTC 6085 (CAF).

@@ -1,0 +1,436 @@
+Title: Solutions MindReady R&D Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100619/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-17-100619-solutions-mindready-r-d-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-01-21
+
+# Solutions MindReady R&D Inc. v. The Queen
+
+- Citation: 2015 TCC 17
+- Decision date: 2015-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2798, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solutions MindReady R&D Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-21
+Neutral citation
+2015 TCC 17
+File numbers
+2011-4075(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-4075(IT)G
+BETWEEN:
+SOLUTIONS MINDREADY R&D INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 6, 7, 8 and 9, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Counsel for the respondent:
+Anne Poirier
+Dany Leduc
+JUDGMENT
+The appeal from the reassessments dated April 1, 2008, made by the Minister of National Revenue under the Income Tax Act for the taxation years ending on November 29, 2005, and on December 31, 2005, is dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of January 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 11th day of August 2015
+François Brunet, Revisor
+Citation: 2015 TCC 17
+Date: 20150121
+Docket: 2011-4075(IT)G
+BETWEEN:
+SOLUTIONS MINDREADY R&D INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessments dated April 1, 2008, made by the Minister of National Revenue (the Minister) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), concerning the taxation years ending on November 29, 2005, and on December 31, 2005.
+[2] In making the reassessments dated April 1, 2008, the Minister made the following changes relative to the investment tax credit (ITC) claimed by the appellant in respect of the taxation years ending on November 29, 2005, and December 31, 2005.
+29/11/2005
+Claimed (35%)
+Revised (20%)
+Difference
+ITC at start of year
+0
+0
+0
+ITC earned SR&ED
+$286,811
+$187,359
+$99,452
+ITC refund
+$253,957
+0
+$253,957
+Non-refundable ITC
+0
+$154,505
+($154,505)
+Closing ITC balance
+$32,854
+$187,359
+($154,505)
+31/12/2005
+Claimed (35%)
+Revised (20%)
+Difference
+ITC at start of year
+$32,854
+$187,359
+($154,505)
+ITC earned SR&ED
+$61,629
+$35,327
+$26,302
+ITC refund
+$61,473
+0
+$61,473
+Non-refundable ITC
+0
+$35,327
+($35,327)
+Closing ITC balance
+$33,010
+$222,686
+($189,676)
+[3] The Minister determined that the appellant was not entitled to refundable ITCs at the rate of 35% for the taxation years ending on November 29, 2005, and December 31, 2005, for the following reasons:
+(a) The appellant did not qualify as a Canadian-controlled private corporation (CCPC) because it was a corporation controlled, directly or indirectly, in any manner whatever, by a public corporation within the meaning of subsection 125(7) of the Act; and
+(b) The reorganization undertaken for the purpose of transferring scientific research and experimental development (SR&ED) activities including creating corporations, withdrawing all of the powers of the appellant’s directors, transactions to transfer activities as well as transactions enabling the flow of funds within the corporate group constitute an abuse of the tax system warranting the application of the General Anti-Avoidance Rule (GAAR) set out in section 245 of the Act.
+[4] On or about April 28, 2008, the appellant objected to reassessments made in respect of the taxation years ending on November 29, 2005, and December 31, 2005. On December 23, 2011, the appellant filed its Notice of Appeal with the Tax Court of Canada before the Minister had made his decision on the objection.
+Partial agreement on the facts [5] At the hearing, the parties filed a partial agreement on the facts dated April 25, 2014. The facts agreed on are as follows:
+[Translation]
+Solutions Mindready inc.
+1. Solutions MindReady inc. (PUBLIQUE INC.) was incorporated on September 16, 1999, under the Canada Business Corporations Act.
+2. During the years at issue, PUBLIQUE INC. was a public corporation that had a class of shares of its capital stock listed on a designated stock exchange located in Canada.
+3. PUBLIQUE INC. operated a technology business and provided innovative solutions for test systems and onboard systems.
+4. Before 2005, PUBLIQUE INC. had scientific research and experimental development (SR&ED) activities and, in this regard, it claimed a non-refundable investment tax credit (ITC) at the rate of 20% of the SR&ED qualified expenditure pool.
+5. Before 2005, PUBLIQUE INC. had accumulated losses over several years, which meant that it did not benefit from the 20% tax credit because it owed no taxes.
+6. In 2005, PUBLIQUE INC. reorganized its business and transferred the SR&ED activities to a newly created corporation, namely, the appellant.
+7. All the shares of the appellant’s capital stock were held by the Fiducie financière Solutions MindReady (the TRUST).
+8. Following the appellant’s incorporation in 2005, it conducted the SR&ED activities, which had previously been conducted by PUBLIQUE INC.
+9. Following its incorporation in 2005, the appellant claimed a refundable investment tax credit at the rate of 35% of the SR&ED qualified expenditure pool.
+Reorganization
+10. On July 19, 2005, 6420605 Canada inc. (AUTEURCO) was incorporated.
+11. On July 20, 2005, 6420958 Canada inc. (BENEFICIARY 1), 6420931 Canada inc. (BENEFICIARY 2) and the appellant were incorporated.
+12. During the years at issue, all the entities (PUBLIQUE INC., the appellant, AUTEURCO, BENEFICIARY 1 and BENEFICIARY 2) had the same directors, namely, Marc Lamy and Claude Delage.
+The trust
+13. On July 22, 2005, the TRUST was created. The settlor of the TRUST was AUTEURCO.
+14. The income beneficiaries of the TRUST were BENEFICIARY 1, BENEFICIARY 2 and the appellant.[1]
+15. The capital beneficiaries of the TRUST were AUTEURCO, BENEFICIARY 1 and BENEFICIARY 2.[2]
+16. Under the trust deed, only the directors of PUBLIQUE INC. were eligible to be trustees of the TRUST.[3]
+17. Under the trust deed, the number of trustees could not be higher than the number of directors of PUBLIQUE INC.[4]
+18. Under the Trust deed, the directors of PUBLIQUE INC., Claude Delage and Marc Lamy, were appointed the original trustees of the TRUST.[5]
+19. Under the Trust deedthat they signed, Claude Delage and Marc Lamy accepted the mandate of original trustees.
+20. Claude Delage and Marc Lamy were trustees of the TRUST during the period at issue.
+21. Under the trust deed, all the directors of PUBLIQUE INC. who were appointed as trustees had to accept the appointment for it to take effect.[6]
+22. Under the trust deed, the trustees ceased being trustees when they were no longer directors of PUBLIQUE INC.[7]
+23. Under the trust deed, the TRUST had to annually distribute all of its tax revenue to its beneficiaries. The distribution of the revenue among the beneficiaries was entirely at the trustees’ discretion.[8]
+24. Under the trust deed, the trustees had the discretionary power to withdraw the TRUST’s capital and to give it to one or more capital beneficiaries in a proportion determined by the trustees.[9]
+25. The TRUST’s capital contained, among other things, all of the shares of the capital stock of the appellant, and the trustees had the discretionary power to give all these shares to one of the capital beneficiaries of the TRUST.
+26. The capital beneficiaries of the TRUST had a right, either immediately or in the future and either absolutely or contingently, to the shares of the appellant’s capital stock.
+27. As the appellant’s sole shareholder, the TRUST withdrew all of the powers held by the appellant’s directors to exercise them itself, in accordance with subsection 146(2) of the Canada Business Corporations Act.
+Transactions dated August 1, 2005
+28. PUBLIQUE INC. subscribed to 500 class A shares of the capital stock of AUTEURCO for $500.
+29. AUTEURCO subscribed to 100 class A shares of the capital stock of BENEFICIARY 1 for $100 and to 100 class A shares of the capital stock of BENEFICIARY 2 for $100.
+30. AUTEURCO gave the TRUST $100.
+31. The TRUST subscribed to 100 Class A (voting) shares of the appellant’s capital stock for $100.
+32. The directors of PUBLIQUE INC., Claude Delage and Marc Lamy, were appointed the appellant’s directors.
+33. The TRUST subscribed to 100 Class E (voting) shares of the capital stock of BENEFICIARY 1 for $100.
+34. PUBLIQUE INC. subscribed to 1,000,000 class A shares of the capital stock of AUTEURCO, for the amount of $1,000,000 paid by cheque.
+35. AUTEURCO contributed $1,000,000 by cheque to the contributed surplus of BENEFICIARY 1.
+36. BENEFICIARY 1 declared a dividend of $1,000,000 on the class E shares of its capital stock payable through issuing a cheque to the TRUST, the sole shareholder of these shares.
+37. The TRUST subscribed to 999,900 class B (non-voting) shares of the appellant for $999,900.
+38. PUBLIQUE INC. transferred its employees specializing in SR&ED to the appellant through a rollover and received as consideration 110,617 class C shares of the appellant’s capital stock with a fair market value and paid‑up capital of $110,617. The same day, the appellant bought back its shares for $110,617.
+39. AUTEURCO granted the appellant an option to purchase at their fair market value all of the shares of either BENEFICIARY 1 or BENEFICIARY 2.
+40. PUBLIQUE INC awarded the appellant a research contract under which the appellant undertook to carry out all of the SR&ED work related to the projects listed in the contract.
+41. The projects listed in Appendix 1 of the research contract are all projects on which PUBLIQUE INC. had worked before the appellant was created.
+42. In consideration for the appellant’s work, PUBLIQUE INC. had to pay it royalties on the future sales of products and licences.
+43. For the period at issue, PUBLIQUE INC. had to pay the appellant royalties of 2% of its sales of products related to the SR&ED projects. PUBLIQUE INC. also had to give the appellant 25% of its revenue received from the sale of licences related to the SR&ED projects or from disposing of intellectual property rights related to the projects.
+44. During the audited period, products were sold, but no licences were sold.
+45. The appellant reported royalty income of $42,773 for the taxation year ending on November 30, 2005, and $7,971 for the taxation year ending on December 31, 2005.
+46. However, the appellant reported net losses of $605,167 and $80,219, respectively, for the taxation years ending on November 30 and December 31, 2005.
+Transactions dated December 31, 2005
+47. On December 31, 2005, a promissory note was issued (on request and without interest) according to which the appellant promised to pay to PUBLIQUE INC. the amount of $252,081.
+48. PUBLIQUE INC. subscribed to 252,081 class A shares of AUTEURCO for $252,081 in consideration for the transfer to AUTEURCO of said promissory note.
+49. AUTEURCO contributed $252,081 to the contributing surplus of BENEFICIARY 1 by transferring the promissory note.
+50. BENEFICIARY 1 declared a dividend on the class E shares of $252,081 payable by transferring to the TRUST the promissory note owed by the appellant.
+51. The TRUST subscribed to 252,081 class B shares of the appellant for the amount of $252,081.
+52. On or about June 22, 2006, Claude Delage resigned from his position as director of the appellant and of PUBLIQUE INC., AUTEURCO, BENEFICIARY 1 and BENEFICIARY 2.
+Transactions dated July 31, 2006
+53. On July 31, 2006, a promissory note was issued (on request and without interest) according to which the appellant promised to pay to PUBLIQUE INC. the amount of $969,855.
+54. PUBLIQUE INC. subscribed to 969,855 class A shares of AUTEURCO for $969,855 in consideration for the transfer to AUTEURCO of said promissory note.
+55. AUTEURCO contributed $969,855 to the contributing surplus of BENEFICIARY 1 by transferring the promissory note.
+56. BENEFICIARY 1 declared a dividend on the class E shares of $969,855 payable by transferring to the TRUST the promissory note owed by the appellant.
+57. The TRUST subscribed to 969,855 class B shares of the appellant for the amount of $969,855.
+58. On July 31, 2006, Claude Delage signed a notice of resignation from his position as trustee of the TRUST.[10]
+Transactions dated December 31, 2006
+59. On December 31, 2006, a promissory note was issued (on request and without interest) according to which the appellant promised to pay to PUBLIQUE INC. the amount of $1,105,159.
+60. PUBLIQUE INC. subscribed to 1,105,159 class A shares of AUTEURCO for $1,105,159 in consideration for the transfer to AUTEURCO of said promissory note.
+61. AUTEURCO contributed $1,105,159 to the contributing surplus of BENEFICIARY 1 by transferring the promissory note.
+62. BENEFICIARY 1 declared a dividend on the class E shares of $1,105,159 payable by transferring to the TRUST the promissory note owed by the appellant.
+63. The TRUST subscribed to 1,105,159 class B shares of the appellant for the amount of $1,105,159.
+64. The organizational chart appended to this partial agreement on the facts shows the organizational structure of PUBLIQUE INC. and of the appellant during the period at issue.
+Analysis of the activities of and relationship between PUBLIQUE INC. and the appellant
+65. For the years at issue, PUBLIQUE INC. rented a space of about 50,000 square feet located at 2800 Marie-Curie Avenue in Ville St-Laurent.
+66. A service agreement between PUBLIQUE INC. and the appellant was signed on August 1, 2005, for the leasing or sub-leasing by the appellant of a portion of this space and of some movable property .
+67. Under the service agreement, the appellant rented a portion (about 25%) of the premises occupied by PUBLIQUE INC.
+68. For the years at issue, the person who authorized the transfers of funds between the bank accounts of the various entities for, among other things, the payment of inter-company invoices and the subscriptions was Marc Lamy.
+69. Several important agreements between PUBLIQUE INC. and the appellant were signed only by Marc Lamy as vice-president of the appellant and chief financial officer of PUBLIQUE INC.
+70. PUBLIQUE INC. issued cheques or made transfers of funds to the appellant regularly (at least once a month) based on its operational needs, for example, when the appellant’s bank account was in a deficit or when it needed to pay salaries.
+71. During the years at issue, PUBLIQUE INC. was the appellant’s only client.
+72. To meet its obligations under the research contract, the appellant had access to funding through PUBLIQUE INC., AUTEURCO, the TRUST, BENEFICIARY 1, and BENEFICIARY 2.
+73. The appellant had its own employees, who were acquired from PUBLIQUE INC., on August 1, 2005.
+74. The salaries of the appellant’s employees were the only current expense paid directly from the appellant’s bank account.
+75. However, for the reasons mentioned above, the money with which the appellant paid its employees came indirectly from PUBLIQUE INC.
+76. Rent expenses, management fees, corporate fees and royalties were paid either by inter-company settlements or by accounting entries.
+77. No interest was ever required on the various advances of funds between PUBLIQUE INC. and the appellant.
+78. According to the research contract, PUBLIQUE INC. was the owner of the intellectual property and of the results of every research project[11] carried out by the appellant because the projects had initially been started by PUBLIQUE INC. and transferred to the appellant.
+79. Based on the research contract, PUBLIQUE INC. was responsible for indemnifying the appellant and for exempting it, for any actions, expenses or claims including legal and extrajudicial expensesarising out of the performanceof t the research contract, unless the appellant or a third party not under its control was negligent.
+80. An external accounting firm consolidated the financial statements of PUBLIQUE INC. and the appellant based on the CICA Accounting Guideline (AcG 15) as stated in footnote 3 of the consolidated financial statements at December 31, 2005.
+Additional facts arising from testimony [6] The structure put in place to qualify the appellant as a Canadian-controlled private corporation was recommended by the accounting firm KPMG and is the same as the structure used by Lyrtech inc. to qualify its research subsidiary Lyrtech RD inc. The main difference between the facts of this appeal and those in the appeal of Lyrtech RD inc. is that the agreements governing the relationships between the parties involved in this appeal were better complied with, while the agreements governing the relationships between the parties involved in the appeal of Lyrtech RD inc. were not all complied with. For example, adjusting entries should have been made as part of preparing Lyrtech RD inc.’s financial statements. It should be recalled that Lyrtech RD inc.’s appeal was decided by this Court (Lyrtech RD inc. v. R., 2013 TCC 12) and affirmed by the Federal Court of Appeal in a decision dated November 17, 2014 (Lyrtech RD inc. v. The Queen, 2014 FCA 267).
+[7] Solutions MindReady inc. declared bankruptcy in 2007, and on February 28, 2008, Averna Technologies inc. purchased some of its assets from the trustee, including the shares of Mindready Solutions (NI) Limited (Mindready Ireland), 6420605 Canada inc. and their respective subsidiaries, namely, 6420958 Canada inc., 6420931 Canada inc., Fiducie financière Solutions MindReady and Solutions MindReady R&D inc.
+[8] Paul Martineau, Vice-President and Chief Financial Officer of Averna Technologies inc., explained the business reasons that led to his company wanting to acquire the assets of Solutions MindReady inc. The reasons included hiring qualified employees, acquiring marketable products and the rights to two products under development as well as access to a client network.
+[9] Following the acquisition of assets, the agreements concluded between Solutions MindReady inc. and Solutions MindReady R&D inc. were terminated the trust deed was amended, and new trustees were appointed, but the structure put in place by Solutions MindReady inc. was maintained, and the entities it was made up of still exist even though they are inactive.
+[10] At the time of the acquisition of assets, Solutions MindReady R&D inc. had about thirty employees, who became employees of Averna Technologies inc. with a new contract of employment recognizing their years of seniority.
+[11] Claude Delage and Marc Lamy, respectively, President and Chief Executive Officer and Vice-President and Chief Financial Officer of Solutions MindReady inc. testified at the hearing. They explained that they became shareholders of Solutions MindReady inc. together with Michel Gaucher after a takeover bid made on May 28, 2004, by which 4173422 Canada inc., a corporation belonging to Messrs. Gaucher, Delage and Lamy, acquired a block of 8,519,580 shares representing 71% of the issued and outstanding shares.
+[12] On November 30, 2005, Solutions MindReady inc. acquired all of the issued and outstanding shares of UTTC United Tri-Tech Corporation, an electronics manufacturing services (EMS) company. Immediately before that acquisition, the share ownership of Solutions MindReady inc. was as follows:
+Shareholders
+Shares
+Percentage
+Capital de Risque Dynamis inc.
+3,339,398
+22.4%
+4310845 Canada inc.
+2,105,875
+14.1%
+4160452 Canada inc.
+1,403,915
+9.4%
+4173422 Canada inc.
+1,000,000
+6.7%
+Public
+Total
+7,046,087
+14,895,275
+47.4%
+100.0%
+Capital de Risque Dynamis inc. is a corporation controlled by Michel Gaucher, Chairman of the Board of Directors of Solutions MindReady inc. 4310845 Canada inc. is a corporation controlled by Claude Delage. 4160452 Canada inc. is a corporation controlled by Marc Lamy, while 4173422 Canada inc. is a corporation controlled by Michel Gaucher, Claude Delage and Marc Lamy.
+[13] Following the acquisition of UTTC United Tri-Tech Corporation, the share ownership of Solutions MindReady inc. became as follows:
+Shareholders
+Shares
+Percentage
+CEM International inc.
+5,472,600
+21.2%
+Capital de Risque Dynamis inc.
+3,339,398
+13.0%
+UTT Pharma inc.
+3,092,527
+12.0%
+4130944 Canada inc.
+2,171,349
+8.4%
+4310845 Canada inc.
+2,105,875
+8.2%
+4160452 Canada inc.
+1,403,915
+5.4%
+4173422 Canada inc.
+1,000,000
+3.9%
+Public
+7,190,244
+27.9%
+Total
+25,786,364
+100.0%
+CEM International inc. is controlled by Morgenthaler Ventures Partners, a venture capital company based in the Silicon Valley, and UTT Pharma is controlled by members of the executive of UTTC United Tri-Tech Corporation.
+[14] Marc Lamy and Claude Delage were directors and officers of all of the entities created during the reorganization of the research and development activities of Solutions MindReady inc. and were also the two trustees of the Fiducie financière Solutions MindReady. In that capacity, they signed all documents related to the entities.
+[15] According to the Annual Information Form of Solutions MindReady inc. dated March 31, 2006, the board of directors then was comprised of four members after the resignation of Marcel Lu. The members of the board of directors at that time were Michel Gaucher, Claude Delage, Marc Lamy and Jean-François Rabouille, a vice-president of Groupe Dynamis inc. They all became directors of Solutions MindReady inc. on May 31, 2004, following the takeover bid.
+[16] Claude Delage remained a director of Solutions MindReady inc. and of all its subsidiaries until June 22, 2006, when he resigned due to an illness. The date of his resignation as trustee of the Fiducie financière Solutions MindReady was July 31, 2006.
+[17] Marc Lamy remained a director of Solutions MindReady inc. and of all its subsidiaries until August 5, 2007, when he resigned following a dispute with the board of directors. The date of his resignation as trustee of the Fiducie financière Solutions MindReady was also August 5, 2007.
+[18] Claude Delage explained in his testimony that research and development activities were essential to the survival of Solutions MindReady inc.’s business and that the restructuring of the research and development activities was presented to the board of directors as an improvement to the R&D tax credits. The choice of research work was determined by Solutions MindReady inc. but the performance of the work was entrusted to the appellant. He also acknowledged that the revenues generated by the appellant’s research activities were insufficient to pay the salaries of employees assigned to that activity and that the Fiducie financière Solutions MindReady and the appellant were described in the corporate documentation of Solutions MindReady inc. as subsidiaries. The appellant’s financial results were consolidated with those of Solutions MindReady inc. Marc Lamy was in charge of implementing the restructuring of the research activities of Solutions MindReady inc.
+[19] According to Mr. Lamy, the objective was to make the appellant operationally autonomous without making it a profit centre. To do so, Solutions MindReady inc. transferred to the appellant through a tax rollover some assets and the employment contracts of employees assigned to R&D, the value of which was estimated at $110,617. In addition, Solutions MindReady inc. leased or subleased, as the case may be, to the appellant certain assets and subleased to it the office space allocated to research activities. For the use of equipment, the appellant undertook to pay an annual base rent of $77,122.44 payable in quarterly equal and consecutive payments of $19,280.61, including management fees of 10%. For the immovable sublease, the rent was $249,382.08 payable in equal and consecutive monthly payments of $20,781.84, including management fees of 10%. After the employees were transferred to the appellant, they continued to carry out their duties on the same premises and in the same way in respect of the same research projects.
+[20] Only one research contract was concluded between Solutions MindReady inc. and the appellant. The appellant exclusively carried out the research projects of Solutions MindReady inc. All of the funding needed to conduct the research activities came from Solutions MindReady inc. The appellant billed Solutions MindReady inc. monthly for the cost of the services that it provided to it without mark-up, but it did not bill for the cost of labour related to the research activities. However, Solutions MindReady inc. billed the appellant the cost of administrative services provided to the appellant. The cost of labour related to the research activities was directly funded by Solutions MindReady inc. through bank transfers to the appellant’s bank account used to pay research salaries.
+[21] The inter-company invoices were normally paid through bank transfers. The authorized signing officers for the bank accounts of Solutions MindReady inc., 6420605 Canada inc., 6420958 Canada inc., 6420931 Canada inc., Fiducie financière Solutions MindReady and the appellant were two of the following five persons:
+- Marc Lamy;
+- Jean Mayer, Legal Counsel and Corporate Secretary;
+- Christian Moreau, Vice-President, Operations;
+- Mélanie Dupuis, Corporate Controller;
+- Marie-France Huard, Controller.
+[22] The intellectual property of the R&D work performed by the appellant belonged to Solutions MindReady inc., but the appellant was entitled to royalties based on the sale price of the products, which were improved by the R&D work resulting from the research projects. From August 1, 2005, to December 31, 2006, the royalty rate was 2%. For 2007, the royalty rate was 5%, while for the years starting after January 1, 2008, the rate increased to 10%. In addition to the royalties, the appellant was entitled to receive 25% of the amounts collected by Solutions MindReady inc. for the granting of operating licences for products resulting from the R&D work or from the sale of intellectual property rights arising from the R&D work. For the taxation year ending on November 30, 2005, the appellant received royalties totalling $42,773 from product sales, but nothing for the granting of licences or for the sale of intellectual property rights. For the taxation year ending on December 31, 2005, the appellant received only $7,971 in royalties.
+Positions of the parties A. Appellant’s position [23] The appellant maintains that, since its creation, it has always been a CCPC because no public corporation controlled, directly or indirectly in any manner whatever, the composition of the appellant’s board of directors.
+[24] Solutions MindReady inc. never exercised direct or indirect control in any manner whatever over the appellant for the purposes of the Act. Solutions MindReady inc. and the appellant created a business relationship between them that was similar to any other contractual research relationship, where research is carried out by a newly incorporated research business. There is no element of the contractual relationship that existed between these two entities that could confer on Solutions MindReady inc. a greater influence on the appellant’s operations than the influence normally exercised by any major client on one of its main suppliers. The influence is not sufficient and is not of the type that conferred on Solutions MindReady inc. control in fact of the appellant as described in subsection 256(5.1) of the Act.
+[25] None of the transactions described by the respondent are an abusive avoidance transaction subject to the GAAR.
+B. Respondent’s position
+[26] Despite the reorganization carried out by Solutions MindReady inc., the appellant was not a CCPC because it was subject to de facto control by Solutions MindReady inc.; it had pre-dominant power over appointing the appellant’s trustee directors, and the appellant was dependent on Solutions MindReady inc. operationally and economically.
+[27] The phrase “controlled, directly or indirectly in any manner whatever” used in paragraph 125(7)(a) of the Act gives precedence to de facto control over de jure control. The presence of de facto control of a private corporation by a public corporation is sufficient to exclude it from the definition of CCPC.
+[28] The reorganization undertaken by Solutions MindReady inc. was identical to that carried out by the parent company of Lyrtech RD inc., regarding which this Court and the Federal Court of Appeal concluded that the parent company Lyrtech inc. exercised de facto control over Lyrtech RD inc. and that, accordingly, it was not a CCPC.
+[29] As an alternative argument, the respondent submits that the GAAR is applicable in this case because the three conditions for the GAAR to apply are met in the reorganization. First, there must be a tax benefit arising from a “transaction” under subsections 245(1) and 245(2) of the Act. Second, the transaction that generated the tax benefit must be an avoidance transaction under subsection 245(3) of the Act, that is, the transaction must not have been arranged for bona fide purposes other than to obtain the tax benefit for the purposes of the GAAR. Third, the avoidance transaction must be abusive within the meaning of subsection 245(4) of the Act. The appellant has the burden of proving that there was no tax benefit or avoidance transaction, while the respondent must establish that the avoidance transaction was abusive. According to the respondent, the three conditions are met and the tax benefit must be denied under subsection 245(5) of the Act.
+The law [30] The provisions of the Act that are relevant for the purposes of this dispute are as follows: paragraph (a) of the definition of “public corporation” under subsection 89(1), the definition of “Canadian-controlled private corporation” under subsection 125(7), the definition of “non-qualifying corporation” under subsection 127(9), subsection 127(10.1), the definition of “qualifying corporation” under subsection 127.1(2), subsection 251(5) and subsections 256(5.1), 256(6.1) and 256(6.2). These provisions read as follows:
+Definitions
+89. (1) In this subdivision,
+. . .
+“public corporation” at any particular time means:
+(a) a corporation that is resident in Canada at the particular time if at that time a class of shares of the capital stock of the corporation is listed on a designated stock exchange in Canada;
+125(7) Definitions — In this section,
+. . .
+“Canadian-controlled private corporation” means a private corporation that is a Canadian corporation other than
+(a) a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), by one or more corporations described in paragraph (c), or by any combination of them,
+(b) a corporation that would, if each share of the capital stock of a corporation that is owned by a non-resident person, by a public corporation (other than a prescribed venture capital corporation), or by a corporation described in paragraph (c) were owned by a particular person, be controlled by the particular person,
+(c) a corporation a class of the shares of the capital stock of which is listed on a designated stock exchange, or
+(d) in applying subsection (1), paragraphs 87(2)(vv) and (ww) (including, for greater certainty, in applying those paragraphs as provided under paragraph 88(1)(e.2)), the definitions “excessive eligible dividend designation”, “general rate income pool” and “low rate income pool” in subsection 89(1) and subsections 89(4) to (6), (8) to (10) and 249(3.1), a corporation that has made an election under subsection 89(11) and that has not revoked the election under subsection 89(12);
+127(9) In this section,
+. . .
+“non-qualifying corporation” at any time means
+(a) a corporation that is, at that time, not a Canadian-controlled private corporation,
+(b) a corporation that would be liable to pay tax under Part I.3 for the taxation year of the corporation that includes that time if that Part were read without reference to subsection 181.1(4) and if the amount determined under subsection 181.2(3) in respect of the corporation for the year were determined without reference to amounts described in any of paragraphs 181.2(3)(a), 181.2(3)(b), 181.2(3)(d) and 181.2(3)(f) to the extent that the amounts so described were used to acquire property that would be qualified small-business property if the corporation were not a non-qualifying corporation, or
+(c) a corporation that at that time is related for the purposes of section 181.5 to a corporation described in paragraph (b);
+127(10.1) For the purposes of paragraph (e) of the definition “investment tax credit” in subsection (9), if a corporation was throughout a taxation year a Canadian-controlled private corporation, there shall be added in computing the corporation’s investment tax credit at the end of the year the amount that is 20% of the least of
+(a) such amount as the corporation claims;
+(b) the amount by which the corporation’s SR&ED qualified expenditure pool at the end of the year exceeds the total of all amounts each of which is the super-allowance benefit amount for the year in respect of the corporation in respect of a province; and.
+(c) the corporation’s expenditure limit for the year.
+127.1(2) In this section,
+. . .
+“qualifying corporation”, for a particular taxation year that ends in a calendar year, means a particular corporation that is a Canadian-controlled private corporation in the particular taxation year the taxable income of which for its immediately preceding taxation year — together with, if the particular corporation is associated in the particular taxation year with one or more other corporations (in this subsection referred to as “associated corporations”), the taxable income of each associated corporation for its last taxation year that ended in the preceding calendar year (determined before taking into consideration the specified future tax consequences for that last year) — does not exceed the qualifying income limit, if any, of the particular corporation for the particular taxation year;
+251(5) For the purposes of subsection 251(2) and the definition “Canadian-controlled private corporation” in subsection 125(7),
+(a) where a related group is in a position to control a corporation, it shall be deemed to be a related group that controls the corporation whether or not it is part of a larger group by which the corporation is in fact controlled;
+(b) where at any time a person has a right under a contract, in equity or otherwise, either immediately or in the future and either absolutely or contingently,
+(i) to, or to acquire, shares of the capital stock of a corporation or to control the voting rights of such shares, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the person owned the shares at that time,
+(ii) to cause a corporation to redeem, acquire or cancel any shares of its capital stock owned by other shareholders of the corporation, the person shall, except where the right is not exercisable at that time because the exercise thereof is contingent on the death, bankruptcy or permanent disability of an individual, be deemed to have the same position in relation to the control of the corporation as if the shares were so redeemed, acquired or cancelled by the corporation at that time;
+(iii) to, or to acquire or control, voting rights in respect of shares of the capital stock of a corporation, the person is, except where the right is not exercisable at that time because its exercise is contingent on the death, bankruptcy or permanent disability of an individual, deemed to have the same position in relation to the control of the corporation as if the person could exercise the voting rights at that time, or
+(iv) to cause the reduction of voting rights in respect of shares, owned by other shareholders, of the capital stock of a corporation, the person is, except where the right is not exercisable at that time because its exercise is contingent on the death, bankruptcy or permanent disability of an individual, deemed to have the same position in relation to the control of the corporation as if the voting rights were so reduced at that time; and
+(c) where a person owns shares in two or more corporations, the person shall as shareholder of one of the corporations be deemed to be related to himself, herself or itself as shareholder of each of the other corporations.
+256(5.1) For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the “controller”) at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, except that, where the corporation and the controller are dealing with each other at arm’s length and the influence is derived from a franchise, licence, lease, distribution, supply or management agreement or other similar agreement or arrangement, the main purpose of which is to govern the relationship between the corporation and the controller regarding the manner in which a business carried on by the corporation is to be conducted, the corporation shall not be considered to be controlled, directly or indirectly in any manner whatever, by the controller by reason only of that agreement or arrangement.
+256(6.1) For the purposes of this Act and for greater certainty,
+(a) where a corporation (in this paragraph referred to as the “subsidiary”) would be controlled by another corporation (in this paragraph referred to as the “parent”) if the parent were not controlled by any person or group of persons, the subsidiary is controlled by
+(i) the parent, and
+(ii) any person or group of persons by whom the parent is controlled; and
+(b) where a corporation (in this paragraph referred to as the “subject corporation”) would be controlled by a group of persons (in this paragraph referred to as the “first-tier group”) if no corporation that is a member of the first-tier group were controlled by any person or group of persons, the subject corporation is controlled by
+(i) the first-tier group, and
+(ii) any group of one or more persons comprised of, in respect of every member of the first-tier group, either the member, or a person or group of persons by whom the member is controlled.
+256(6.2) In its application to subsection (5.1), subsection (6.1) shall be read as if the references in subsection (6.1) to “controlled” were references to “controlled, directly or indirectly in any manner whatever,”.
+Analysis [31] The Minister determined that the appellant did not qualify as a CCPC throughout the taxation years ending on November 30, 2005, and December 31, 2005, because it was a corporation controlled, directly or indirectly in any manner whatever, by Solutions MindReady inc., a public corporation within the meaning of the Act. The Minister thus disallowed the appellant (a) the 15% increase in the investment tax credit claimed by the appellant under subsection 127(10.1) of the Act, and (b) the refund of this tax credit under subsection 127.1(1) of the Act.
+[32] In 1988, subsection 256(5.1) was added to the Act in order to define, for the purposes of the Act, the phase “controlled, directly or indirectly in any manner whatever” in order to introduce the concept of control in fact. Thus, a corporation is considered to be controlled by another corporation at any time where, at that time, that other corporation has any direct or indirect influence that, if exercised, would result in control in fact of the corporation.
+[33] Since the enactment of subsection 256(5.1) of the Act, the exercise of de facto control by a public corporation over another corporation has necessarily resulted in the exclusion of that other corporation from the definition of a CCPC, regardless of whether de jure control is exercised by another person.
+[34] In this case, the respondent does not dispute that Fiducie financière Solutions MindReady exercised de jure control over the appellant. According to the trust deed, only the directors of Solutions MindReady inc. were eligible to be trustees. During the periods at issue, the trustees were Marc Lamy and Claude Delage. By means of a declaration of sole shareholder, the trustees withdrew all of the powers held by the appellant’s directors to exercise them themselves. Marc Lamy and Claude Delage were directors of the appellant as well as of Solutions MindReady inc., 6420605 Canada inc., 6420958 Canada inc. and 6420931 Canada inc.
+[35] Following the decisions of this Court and the Federal Court of Appeal in Mimetix Pharmaceuticals Inc. v. Canada, [2001] F.C.J. No. 749 (Lamarre J.) affirmed by the Federal Court of Appeal, 2003 FCA 106; Plomberie J.C. Langlois Inc. v. Canada, 2004 TCC 734 (Lamarre-Proulx J.) affirmed by the Federal Court of Appeal, 2006 FCA 113; L.D.G. 2000 Inc. v. Canada, [2002] F.C.J. No. 659 (Angers J.); and more recently in Lyrtech RD Inc. v. The Queen, 2013 TCC 12, affirmed by the Federal Court Appeal, 2014 FCA 267, the law is now well settled: the determination of the influence necessary for a corporation to be considered as being controlled by another corporation requires the examination of the operational and economic decisions of the corporation in question. A form of determinative economic influence that enables a corporation to be in a position to impose its will on the affairs of another corporation is sufficient to constitute de facto control.
+[36] The respondent maintains that the appellant was operationally and economically dependent on Solutions MindReady inc. so that it was able to exert the type of pressure that allowed it to impose its will on the appellant’s affairs.
+[37] The partial agreement on the facts, the documentary evidence submitted by the parties and the testimonial evidence provided by the witnesses at the hearing show that
+(a) operationally, the influence factors exercised by Solutions MindReady inc. over the appellant include the following:
+(i) all of the corporations in the group of corporations controlled by Solutions MindReady inc. were managed by the same people;
+(ii) Solutions MindReady inc. and the appellant occupied the same premises and shared the same employees;
+(iii) the employees transferred to the appellant saw no changes in their tasks, their workplace or the research projects they worked on;
+(iv) according to the organizational charts submitted by Solutions MindReady inc. to illustrate its corporate structure, the Fiducie financière Solutions MindReady and the appellant are an integral part of Solutions MindReady inc. and appear to be its subsidiaries;
+(v) according to the Annual Information Form of Solutions MindReady inc. dated March 31, 2006, the appellant is described as a subsidiary 100% owned by Solutions MindReady inc. as of December 31, 2005.
+(vi) the bookkeeping for all of the entities in the MindReady group was done by the accountants of Solutions MindReady inc.;
+(vii) Marc Lamy authorized fund transfers between the various entities of the MindReady group;
+(viii) no agreement was offered in evidence to justify recharging the cost of services provided by the appellant’s employees to Solutions MindReady inc. In addition, invoices issued by the appellant do not match the transactions performed in its bank accounts.
+(ix) the salaries of employees assigned to research and development activities were paid by the appellant in Canadian dollars every two weeks from its bank account. That money came from transfers made directly by Solutions MindReady inc. The first million dollars, which was used to subscribe to 999,900 class B shares of the appellant, was never used to pay the salary of employees working in research and development.
+and that
+(b) Economically, the influence factors exercised by Solutions MindReady inc. over the appellant include the following:
+(i) the appellant had only one client, namely, Solutions MindReady inc.;
+(ii) Solutions MindReady inc. guaranteed a loan of $650,000 taken out by the appellant;
+(iii) external auditors consolidated the appellant’s financial statements with those of Solutions MindReady inc.;
+(iv) according to the research contract between Solutions MindReady inc. and the appellant, research work to be done by the appellant was determined by Solutions MindReady inc., and it kept the intellectual property rights arising from it;
+(v) the royalties and revenues earned from the issuing of licences were clearly insufficient to offset the cost of the research expenses. During the first five months of the appellant’s operation, the net deposits in the appellant’s two bank accounts totalled $2,800,000 (including the initial share subscription of $1,000,000), while the royalties generated by the appellant’s research activities totalled only $50,000;
+(vi) the appellant would not have been able to carry out its research and development activities without the advances of funds from Solutions MindReady inc.;
+(vii) the bankruptcy of Solutions MindReady inc. resulted in the sale of some of the appellant’s assets, namely, its tax credits for scientific research and experimental development.
+[38] On the basis of the operational and economic influence factors listed at sub-paragraphs (a) and (b) of paragraph 37, I can only find that Solutions MindReady inc. exercised de facto control over the appellant. During the taxation years at issue, the appellant was completely economically dependent on Solutions MindReady inc.
+[39] Considering the finding on the first issue, which disposes of this appeal, and the circumstances of this case, it is not necessary to consider the alternative argument raised by the respondent.
+[40] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 21st day of January 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 11th day of August 2015
+François Brunet, Revisor
+Appendix
+100 E
+999,900 B
+100 A
+R&D Inc.
+Solutions Mindready R&D Inc.
+Trust
+Fid. Financ.
+Mindready
+Beneficiary 1
+6420958 Canada Inc.
+Beneficiary 2
+6420931 Canada Inc.
+100 A
+100 A
+AuteurCo
+6420605 Canada Inc.
+1,000,000 A
+Mindready
+Solutions Mindready Inc.
+CITATION:
+2015 TCC 17
+COURT FILE NO:
+2011-4075(IT)G
+STYLE OF CAUSE:
+Solutions Mindready R&D Inc.
+v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 6, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+January 21, 2015
+APPEARANCES:
+Counsel for the appellant:
+Julie Gaudreault-Martel
+Counsel for the respondent:
+Anne Poirier
+Dany Leduc
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Julie Gaudreault-Martel
+Firm:
+BCF LLP
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Under clause 1.1(f) of the trust deed.
+[2] Under clause 1.1(b) of the trust deed.
+[3] Under clause 5.3 of the trust deed.
+[4] Under clause 5.2 of the trust deed.
+[5] Under clause 5.1 of the trust deed.
+[6] Under clauses 5.3 and 5.4 of the trust deed.
+[7] Under clause 5.6(iv) of the trust deed.
+[8] Under clause 8.2 of the trust deed.
+[9] Under clause 9.1 of the trust deed.
+[10] However, under clause 5.6(iv) of the trust deed, trustees were unable to act as trustees of the TRUST when they ceased to be directors of PUBLIQUE INC.
+[11] These are research projects listed in the contract dated August 1, 2005, and the word project used in the contract is defined as follows in clause 2.3: “Means the research and development project defined in Schedule 1 and every other research and development projects which R&D wishes to execute from time to time”.

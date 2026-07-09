@@ -1,0 +1,499 @@
+---
+title: "Ellert v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28415/index.do"
+last_modified: "2004-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 515"
+citation2: ""
+neutral_citation: "2004 TCC 515"
+decision_date: "2004-07-23"
+language: "en"
+item_id: "28415"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1214
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:12:11.824000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82fd2dba4af941780b409236f44a7c3a2a0056b3bde7fa30efd28532d1d1b3b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ellert v. M.N.R.
+
+- Citation: 2004 TCC 515
+- Decision date: 2004-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1214, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellert v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-23
+Neutral citation
+2004 TCC 515
+File numbers
+2003-3733(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3733(EI)
+BETWEEN:
+MICHAEL ELLERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3740(EI)), Regina Qu'Appelle Regional Health Authority (2003-3741(CPP)), Brenda Goebel (2003-3737(EI)) and Brenda Goebel (2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3734(CPP)
+BETWEEN:
+MICHAEL ELLERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3740(EI)), Regina Qu'Appelle Regional Health Authority (2003-3741(CPP)), Brenda Goebel (2003-3737(EI)) and Brenda Goebel (2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3735(EI)
+BETWEEN:
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3740(EI)), Regina Qu'Appelle Regional Health Authority (2003-3741(CPP)), Brenda Goebel (2003-3737(EI)) and Brenda Goebel (2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3736(CPP)
+BETWEEN:
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI)), Regina Qu'Appelle Regional Health Authority (2003-3740(EI)), Regina Qu'Appelle Regional Health Authority (2003-3741(CPP)), Brenda Goebel (2003-3737(EI)) and Brenda Goebel (2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3740(EI)
+BETWEEN:
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI)), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority
+(2003-3741(CPP)), Brenda Goebel (2003-3737(EI)) and Brenda Goebel
+(2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3741(CPP)
+BETWEEN:
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI)), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority
+(2003-3740(EI)), Brenda Goebel (2003-3737(EI)) and Brenda Goebel
+(2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3737(EI)
+BETWEEN:
+BRENDA GOEBEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI)), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority
+(2003-3740(EI)), Regina Qu'Appelle Regional Health Authority (2003-3741(CPP)) and Brenda Goebel (2003-3738(CPP)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-3738(CPP)
+BETWEEN:
+BRENDA GOEBEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of Michael Ellert (2003-3733(EI)), Michael Ellert (2003-3734(CPP)), Regina Qu'Appelle Regional Health Authority (2003-3735(EI)), Regina Qu'Appelle Regional Health Authority (2003-3736(CPP)), Regina Qu'Appelle Regional Health Authority
+(2003-3740(EI)), Regina Qu'Appelle Regional Health Authority (2003-3741(CPP)) and Brenda Goebel (2003-3737(EI)) on July 15 and 16, 2004 at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Leonard D. Andrychuk, Q.C. and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC515
+Date: 20040723
+Docket: 2003-3733(EI)
+BETWEEN:
+MICHAEL ELLERT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3734(CPP)
+MICHAEL ELLERT,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3735(EI)
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3736(CPP)
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3740(EI)
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3741(CPP)
+REGINA QU'APPELLE REGIONAL HEALTH AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3737(EI)
+BRENDA GOEBEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2003-3738(CPP)
+BRENDA GOEBEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Regina, Saskatchewan on July 15 and 16, 2004. The Appellant, Regina Qu'Appelle Regional Health Authority ("R-Q"), called Randall Knopp, its Director of Operations in its Information Technology Department ("IT"), to testify and the two individual Appellants testified. Each testified for a full half-day or more. At the beginning of the Periods R-Q was the Regina District Health Board ("RHD") which was amalgamated with other Boards on August 1, 2002, when it became R-Q. The Periods in question are:
+Mr. Ellert January 1, 2001 to November 15, 2002
+Ms. Goebel January 1, 2001 to November 7, 2002
+The Minister of National Revenue (the "Minister") found them to be employees of R-Q in these periods. They appealed as did R-Q.
+[2] In the respective files, the assumptions on account of each individual are similar. The assumptions in Mr. Ellert's file 2003-3734(CPP) were reviewed in detail with him in examination in chief and, later, in cross examination. Paragraphs 12 to 18 of that Reply set out the matters in dispute as to Mr. Ellert. They read:
+12. By letter dated November 15, 2002, a CPP/EI Coverage Officer with the Canada Customs and Revenue Agency advised the Worker of his ruling that the Worker was engaged in pensionable employment with the Regina Qu'Appelle Regional Health Authority (Regina District Health Board), (hereinafter the "Payor") during the period from January 1, 2001 to November 15, 2002.
+13. By letter dated January 30, 2003, the Worker appealed to the Minister for reconsideration of the ruling.
+14. By letter dated July 17, 2003, the Minister advised the Worker of his decision that the employment of the Worker was pensionable during the period from January 1, 2001 to November 15, 2002 as the Worker was employed under a contract of service and was, therefore, an employee of the Payor.
+15. In deciding as he did, the Minister relied on the following assumptions of fact:
+(a) the core business of the Payor is to deliver health care services to the residents of the Province of Saskatchewan;
+(b) the Payor hired the Worker to perform consulting services in the Operations Division of its Information Technology Department;
+(c) the Information Technology Department of the Payor consists of two Divisions, being Support Services and Operations;
+(d) the Support Services Division and the Operations Division are each headed by a Director, both of whom are employees under contracts of service with the Payor;
+(e) the Information Technology Department of the Payor is headed by an Executive Director who is an employee under a contract of service with the Payor;
+(f) the function of the Support Services Division is to provide support services to end users, such as hospitals and other health care providers, in the form of help desk assistance, training and telecommunications;
+(g) the Operations Division is responsible for the development, programming, installation and maintenance of application and hardware technology used by the Payor in providing services to end users, such as a patient registration system (Enovation), as well as that used internally by the Payor for its own administrative purposes, including the maintenance of business records and the payroll systems of the Payor;
+(h) the Worker was hired by the Payor on May 1, 1995 and has worked continuously with the Payor since that time;
+(i) during the period in question, the Worker's duties were to act as a team lead for the inhouse Enovation product development and support, and perform UNIX (or similar) system management services, project management services and other such work and expertise that may be required in connection with the Payor's computer operations as may from time to time be requested by the Payor;
+(j) in respect of the Enovation and the UNIX systems, the Worker's responsibility was to get these systems up and running and to keep these systems operating;
+(k) the Payor had the right, at any time, to request any reports and other information that was related to the progress of the Worker in performing and completing his duties;
+(l) the Payor had the right to determine the content of any reports of the Worker;
+(m) the Payor required that the Worker comply with all reasonable instructions and directions from the Payor;
+(n) the Payor provided the Worker with written instructions with respect to the work of the Worker;
+(o) at all times, the Payor supervised the Worker in the performance of his duties;
+(p) the Payor could, at any time during its usual business hours, inspect and make copies of any and all records, computer software, computer programs, data, books or documents relating to the work of the Worker;
+(q) the Payor required that the Worker work on average, but no more than, 40 hours per week;
+(r) the Payor required that the Worker perform his duties during the normal hours of work of the Payor, being from 8:00 a.m. to 4:30 p.m., Monday to Friday;
+(s) the Payor further required that from time to time the Worker would provide off hours and weekend support to the Payor;
+(t) the Worker provided to the Payor invoices which set out a daily breakdown of the hours worked by the Worker;
+(u) the Payor provided the Worker with workspace at its place of business for the Worker to perform his duties;
+(v) in order to perform his duties, the Worker needed access to both the Payor's workspace and the Payor's employees;
+(w) the Payor provided the Worker with all necessary tools, data, computer hardware, computer software, computer accessories, equipment, office space and office facilities required by the Worker in order to perform his duties;
+(x) although the Worker also used his own laptop in performing his duties for the Payor, the Payor paid the Worker for the use of the laptop;
+(y) the Payor paid for the training of the Worker that was necessary in order for the Worker to obtain the skills needed to perform his duties;
+(z) the Payor reimbursed the Worker for any out of town travel expenses incurred by the Worker in performing his duties;
+(aa) the Payor required that the Worker be on call;
+(bb) other than for being on call, any requirement for the Worker to work from his home was minimal and was done as a choice of the Worker;
+(cc) during the period in question, the Payor paid the Worker at a rate of $65.00 per hour for the period from January, 2001 to June, 2001 and $70.00 per hour for the period from July, 2001 to November, 2002;
+(dd) the Payor paid the Worker monthly;
+(ee) although the Worker was not entitled to certain benefits, did not receive paid vacation or paid holidays, had no job security and no union protection, being benefits that were provided to the Payor's other employees, this was compensated for on the basis that the Worker received a larger hourly rate than did the other employees of the Payor;
+(ff) although the Worker could provide services to others, he could only do so providing that the performance of such other services did not interfere with the performance of the Worker's duties with the Payor and, in respect of this, the Payor had the final say with respect to whether such other duties interfered with the performance of the Worker's duties with the Payor;
+(gg) the Payor required that the Worker perform his duties personally, as among other things, the Worker was hired based on his skills and his knowledge;
+(hh) any client records, information, data, computer programs and computer software obtained as a result of or in connection with the work of the Worker could not be released by the Worker without the authorization in writing of the Payor;
+(ii) all computer programs, computer software, computer hardware, data, patents, inventions, methods, analysis and all other information and material of whatever kind, and whether of a proprietary nature or not, arising out of or as a result of the work of the Worker, was the property of the Payor; and
+(jj) the duties performed by the Worker were essential to the Payor's overall operation.
+B. ISSUE TO BE DECIDED
+16. The issue to be decided is whether the Worker was employed under a contract of service with the Payor.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+17. The Respondent relied on sections 26.1, 27 and 27.2 and paragraph 6(1)(a) of the Canada Pension Plan.
+18. The Respondent submits that the Worker was engaged in pensionable employment with the Payor within the meaning of paragraph 6(1)(a) of the Canada Pension Plan during the period from January 1, 2001 to November 15, 2002 since the Worker was employed pursuant to a contract of service.
+[3] Subject to the comments which follow, assumptions 15 (a), (b), (c), (d), (e), (f), (g), (h), (k), (l), (m), (p), (s), (u), (v), (w), (x), (z), (aa), (cc), (dd), (ff), (hh) and (ii) were not refuted.
+[4] The comments and refutations, by subparagraph, follow:
+(h) Mr. Ellert has worked on various successive contracts, by project, for the Payor since May 1, 1995, to date.
+(i) Mr. Ellert was sometimes the nominal team leader or project manager for the Payor. He was often in a team with a few other contractors and with a few of the Payor's employees. Mr. Knopp was not the formal leader of these teams, but if it had come to discipline or outright direction, the only identifiable person in such a leadership position was Mr. Knopp. Mr. Knopp was the manager in these matters and projects.
+(n) The Payor never gave Mr. Ellert written instructions. Mr. Knopp discussed matters orally as did his superior, David Wilson, the Executive Director.
+(o) There was no direct supervision of Mr. Ellert. Mr. Knopp retained Mr. Ellert because of his recognized broad technical expertise, which exceeded that of Mr. Knopp and his staff, and also because Mr. Knopp had recognized, from working elsewhere with Mr. Ellert, that Mr. Ellert has what a very few professionals in any calling have; namely, the "touch" or talent for that kind of work and for working with people in that field. That is also why Mr. Ellert has received successive contracts and has had at least one competitive offer to contract for another firm as a consultant in his field of computer operations and set ups within an organization.
+(p) Is true in and out of business hours.
+(q) and (r) Are wrong. Mr. Ellert worked more than 10 hours per day and in off hours or weekends frequently and was paid for that work. He was not required to work from 8:00 a.m. to 4:30 p.m. Monday to Friday but it was preferred that he be at the Payor's several wide spread premises in Regina and elsewhere from time to time during those hours so that the Payor's employees could speak to him.
+(t) Mr. Ellert did not give the Payor a daily breakdown of hours, but he kept such a record.
+(u) Is true. But Mr. Ellert also had a home office from which he worked and where he worked constantly during strikes and power outages.
+(v) and (x) Are only true respecting R-Q's premises. R-Q did supply Mr. Ellert with one laptop for a particular R-Q business reason which Mr. Ellert used exclusively on R-Q work. Mr. Ellert had two other computers of his own which he used on R-Q work.
+(y) This training was only supplied by R-Q respecting an Oracle matter which was specific to R-Q and for which R-Q also paid for other contractors and for employees.
+(aa) This was in the contract.
+(bb) Work at home was sometimes by choice and at other times during strikes, power outages, emergencies and the need for privacy, or was done because the work made it necessary. It was not "minimal."
+(ee) The lack of benefits to Mr. Ellert was not part of the compensation or rate negotiations. Rather, the rate was agreed on based on competitive rates and work talent available from competitive consultants in Regina.
+(ff) Was in the contract, but the Payor's "final say" was subject to being "reasonable", which made it reviewable in arbitration or elsewhere.
+(gg) Mr. Ellert could subcontract or retain others with the Payor's permission.
+(hh) and (ii) Are standard clauses in this type of contract in the industry.
+(jj) The Worker could have been replaced with suitable talent. As R-Q and its predecessor progressed, its employees have become able to replace Mr. Ellert and he has moved on to more sophisticated work and functions as R-Q itself has become larger and more sophisticated in its work and equipment. Mr. Ellert's work was essential, but others were available in Regina on contract to do the same "essential" work. However his contract work crossed the R-Q organization lines of management and union workers in R-Q, as did Mr. Ellert himself in the every day course of his work.
+[5] The assumptions in file 2003-3737(EI) were reviewed in detail with Ms. Goebel in examination in chief and later in cross examination. Paragraphs 5 to 10 of that Reply set out the matters in dispute as to Ms. Goebel. They read:
+5. By letter dated November 7, 2002, a CPP/EI Coverage Officer with the Canada Customs and Revenue Agency advised the Worker of his ruling that the Worker was engaged in insurable employment with the Payor during the period from January 1, 2001 to November 7, 2002.
+6. By letter dated January 27, 2003, the Worker appealed to the Minister for reconsideration of the ruling.
+7. By letter dated July 17, 2003, the Minister advised the Worker of his decision that the employment of the Worker was insurable during the period from January 1, 2001 to November 7, 2002 as the Worker was employed under a contract of service and was, therefore, an employee of the Payor.
+8. In deciding as he did, the Minister relied on the following assumptions of fact:
+(a) the core business of the Payor is to deliver health care services to the residents of the Province of Saskatchewan;
+(b) the Payor hired the Worker to perform consulting services in the Operations Division of its Information Technology Department;
+(c) the Information Technology Department of the Payor consists of two Divisions, being Support Services and Operations;
+(d) the Support Services Division and the Operations Division are each headed by a Director, both of whom are employees employed under contracts of service with the Payor;
+(e) the Information Technology Department of the Payor is headed by an Executive Director who is an employee employed under a contract of service with the Payor;
+(f) the function of the Support Services Division is to provide support services to end users, such as hospitals and other health care providers, in the form of help desk assistance, training and telecommunications;
+(g) the Operations Division is responsible for the development, programming, installation and maintenance of application and hardware technology used by the Payor in providing services to end users, such as a patient registration system (Enovation), as well as that used internally by the Payor for its own administrative purposes, including the maintenance of business records and the payroll systems of the Payor;
+(h) the Worker was hired by the Payor on July 17, 2000 and has worked continuously with the Payor since that time;
+(i) during the period in question, the Worker's duties as a consultant were to provide consulting services on various projects of the Payor, as well as other duties agreed to by the Payor and the Worker;
+(j) the various projects of the Payor with respect to which the Worker provided consulting services included the HRIS project, an internal payroll project, a web portal database management project and a project relating to the standardization of scheduling practices;
+(k) in respect of each project undertaken, a Project Charter was developed and signed by both the Payor and the Worker;
+(l) each Project Charter, among other things, established the purpose and objective of the project, the project deliverables, the project timeline and the project staffing;
+(m) the Worker assumed the primary responsibility as Project Manager or Project Team Leader in respect of each project for which she provided services;
+(n) as Project Manager or Project Team Leader, the Worker assumed the overall management of the project including organizing and conducting regular meetings, monitoring the activities within the projects and ensuring that district policies were followed;
+(o) as the Project Manager or Project Team Leader, the Worker directed the employees of the Payor;
+(p) in respect of the projects managed by the Worker, the Worker recommended deadlines and priorities which were required to be approved by the Payor;
+(q) at all times, the Payor had the right or authority to direct or supervise the Worker if the work did not meet the Payor's policies or guidelines;
+(r) the Payor had the right, at any time, to request any reports and other information that was related to the progress of the Worker in performing and completing the project and, in respect of this, the Payor required that the Worker complete status reports;
+(s) the Payor required that the Worker perform her duties during the normal hours of work of the Payor, being from 8:00 a.m. to 4:30 p.m., Monday to Friday;
+(t) the Payor required that the Worker work on average, but no more than 40 hours per week;
+(u) the Payor provided the Worker with workspace at its place of business for the Worker to perform her duties;
+(v) in order to perform her duties, the Worker needed access to both the Payor's workspace and the Payor's employees;
+(w) for security reasons, it was necessary for the Worker to perform most of her duties as the Payor's place of business;
+(x) as the Payor provided the Worker with workspace at its place of business, there was no need for the Worker to perform her duties from her home;
+(y) any duties performed by the Worker at her new home were performed by the choice of the Worker and not as a result of any requirement by the Payor;
+(z) the Payor paid the Worker at a rate of $65.00 per hour in respect of the duties performed by the Worker;
+(aa) the Payor and the Worker negotiated the rate of pay received by the Worker;
+(bb) the Worker submitted both invoices and timesheets to the Payor which set out the number of hours worked by the Worker in a given period;
+(cc) the Payor paid the Worker semi-monthly;
+(dd) although the Worker could provide services to others, she could only do so providing that the performance of such other services did not interfere with the performance of the Worker's duties with the Payor and, in respect of this, the Payor had the final say whether such other duties interfered with the performance of the Worker's duties with the Payor;
+(ee) although the Worker was not entitled to, and did not receive, any benefits such as pension, life insurance, health and dental or job security and union protection, that were provided to the Payor's other employees, this was compensated for on the basis that the Worker received a larger hourly rate than did the other employees of the Payor;
+(ff) the Payor provided the Worker with any tools and equipment required by her in order to perform her duties;
+(gg) the Worker was not required to incur any expenses as the Payor reimbursed the Worker for any expenses that were incurred in the performance of her duties;
+(hh) due to the nature of the Worker's duties as a project manager and as the duties of the Worker required access to the Payor's place of business, equipment, staff and other resources, the personal service of the Worker was required;
+(ii) the Worker was not liable in respect of any claims made against the Payor by third parties;
+(jj) any programs, documents, data, information and material produced or prepared for the Payor was the property of the Payor and not the Worker;
+(kk) the Worker could not copy or duplicate any of the programs, documents, data, information and material produced for the Payor without the consent of the Payor; and
+(ll) the duties performed by the Worker were essential to the Payor's overall operation.
+B. ISSUE TO BE DECIDED
+9. The issue to be decided is whether the Worker was employed under a contract of service with the Payor.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+10. The Respondent relies on sections 90, 91 and 93 and paragraph 5(1)(a) of the Employment Insurance Act.
+[6] Subject to the comments which follow, assumptions 8 (a), (b), (c), (d), (e), (f), (g), (j), (k), (l), (v), (z), (aa) and (jj) were not refuted.
+[7] Comments and refutations, by subparagraph, follow:
+(h) Since July 17, 2000 Ms. Goebel has worked by separate contracts on separate named projects for R-Q.
+(m) Ms. Goebel was not primarily responsible; Mr. Knopp was. Ms. Goebel had broad knowledge of the problems and about 20 years of academic training and work experience in all of the separate computer and medical fields involved in these projects and problems. She was retained to coordinate and keep each project on schedule. In each individual aspect of each project a committee from various hospitals and various work areas (such as nurses, pharmacy, or housekeeping, et cetera) was formed from one or several facilities or types of facilities (rural, urban, care facilities et cetera). Ms. Goebel acted as a coordinator, a recording secretary and a formal scheduler to keep the committees on time and on track. The committees made the decisions. Ms. Goebel reported to, and coordinated their work with others, including other committees.
+(n) Although titled "Project Manager" Ms. Goebel did not manage any projects. She coordinated committees' work and timetables that they set and usually scheduled their meetings and recorded and distributed their decisions as to their aspects of each project.
+(o) Ms. Goebel did not direct employees of the Payor. Mr. Knopp did that. Much of her work was with committees of people outside of the formal R-Q IT organization.
+(p) The Payor, namely Mr. Knopp, assigned each project to Ms. Goebel with a new contract which had a termination date which was the estimated time when that project would be completed and reported on.
+(q) The Payor did not have the right to direct or supervise Ms. Goebel in her work. Rather all witnesses testified that if the work was not satisfactory, there would be no new contracts to that Worker. In both Mr. Ellert's and Ms. Goebel's case, there were a limited number of other contractors in Regina who could be contracted by the Payor but both workers' rates were cheaper than their competitors' rates.
+(r) In each Worker's case, the contract was drafted by the Worker based upon the form of contract of a consultant they had worked for before. Mr. Knopp had worked for other firms with each Worker and knew their abilities. Clause 1.2 of Ms. Goebel's contract dated 16 October, 2001, stated that reports will be made by the Worker when requested by the Payor. Mr. Knopp did this orally, more or less on a weekly basis when the Worker and he conversed about the work. Ms. Goebel also copies her various written communications to third parties to Mr. Knopp.
+(s) Is not true. Ms. Goebel's biggest and last project in the Period was to organize and computerize staff scheduling for about 363 various departments of hospitals and care facilities in Regina and southern Saskatchewan and also to computerize their payrolls on a central system for about 6,500 employees. Most of these departments already had their own paper systems which had individual idiosyncrasies. Ms. Goebel had extensive computer consulting, hospital staff and payroll accounting experience and educational training. When on the witness stand, it was clear that she also has excellent people skills. That is why Mr. Knopp chose her for these contracts. She had to organize committees and meetings of the managers of these departments and get agreements on format from these committees and then meet with Mr. Knopp's computer people, the "Implement Team", which was a committee organized to purchase hard and software for this and to program it for each department's needs. All of this is similar to her other Projects for the Payor which were smaller. The result is that while various committee meetings occurred between 8:00 a.m. and 4:30 p.m. Monday to Friday, her own work, reports and scheduling, which included doing the reports and liasing from committee to committee, occurred in those and in other hours at the Payor's premises and at her home office, as was expected by both parties to the contract. She was not "required" to work in the 5-day week span; rather, she was contracted to get the job done. The "6,500 employees", as of October 16, 2001, are 8,300 employees as of July 16, 2004.
+(t) Is wrong. Every year Ms. Goebel has averaged more than 40 hours per week.
+(u), (w), (x) and (y) Ms. Goebel also had her home office, phone and equipment and her vehicle which were necessary for her work. She could not access the Payor's secured information from her home office. Some of her work was at each location and because of her work and the committees' time elements and scheduling, she had to do work in her home office.
+(bb) and (cc) Ms. Goebel submitted time sheets initially, but was asked not to, so she merely invoiced the total number of hours monthly, and later, bimonthly.
+(dd) The Payor's "final say" had to be "reasonable" according to their contract. Thus, the provision was, by that word, subject to outside arbitration or determination if it had ever come to that point.
+(ee) The compensation negotiations were based on competitive consultants' rates in Regina and not on employee benefit packages.
+(ff) This was only true in the Payor's premises. Elsewhere she supplied her own.
+(hh) Ms. Goebel could hire others to do the non-committee and non-security portions of her work such has, for instance, typing reports.
+(ii) Ms. Goebel was liable for damages but the amount was limited by clause 7.1 of the October 16, 2001 contract.
+(kk) She could copy anything without consent and did, but at the end of the contract everything had to be returned to the Payor.
+(ll) The Payor's operation was to service the administration of the operation of hospital and care facilities; Ms. Goebel's duties were not essential to this. She was setting up central administrative computer systems for the Regina Health District and, upon amalgamation, R-Q. These were not essential. There were already manual systems and something like them is retained as back-up. Moreover their actual implementation is not "essential" nor is Ms. Goebel's own work. Someone else can do it and was available in the Regina area to do it, although that could be at a higher price. Mr. Knopp estimated that competitive consultant's rates compared to Ms. Goebel and Mr. Ellert would be about $100 per hour from consulting firms.
+[8] Mr. Ellert and Ms. Goebel had both worked for computer consulting firms before going on their own. Their contracts then had been by each job and they were paid about half of the rate per hour charged by their employers. Each decided to go into consulting on his/her own so that they could get the entire fee. Each decided individually to charge an hourly rate cheaper than the larger firms' rates. Each took one or more of their former employer's contracts as a precedent for drafting their contract with R-Q. Mr. Knopp wanted consultants and not employees so that he could terminate them as soon as each project was done. He also intended to hire contractors because each of these projected tasks required someone to work across RHD's organization line or altogether outside of Mr. Knopp's actual RHD IT structure. Nor did RHD have any staff with both the training and breadth of experience of Mr. Ellert or Ms. Goebel. And R-Q still does not at this date, although, as Mr. Ellert testified, it is training some of these people on the job. In other words, all the parties intended that these would be contracted consultants and not employees and the contracts were signed on this basis and at arm's length. They did this bona fide and have continued on that basis in executing each contract and carrying it out since that date. Each did so for valid commercial reasons. R-H or R-Q because it was the most economical (cheaper); Mr. Ellert and Ms. Goebel, because it was the most profitable. They drew up and signed the contracts to make these workers contractors in business on their own accounts, not employees.
+[9] In 671122 Ontario Ltd. v. Sagaz Industries Ltd., [2001] 2 S.C.R. 983 at paragraphs 47 and 48, the Supreme Court of Canada reviewed the question of employee versus contractor and laid down criteria to be included for consideration. They read:
+47. Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48. It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[10] Using these criteria:
+1. Control
+R-Q did not control what, when, how, where, or why these two workers did their projects. "Who" was specified, namely, the contract was with the Worker, but each could have hired assistants to do some portions of their work; in particular, typing any reports in each case. The contract set out the project (the "what" in general, but not in detail) and then it was up to the Worker to get it done in the allotted time.
+2. Equipment
+Each Worker had his/her own equipment and used it for each project. The nature of each project also involved and required the use of the Payor's facilities and equipment in order to make that equipment do the projected functions.
+3. Hired Helpers
+Neither Worker hired helpers. Each could have. However each (as part of their expertise) could operate computers and word processors and did so in order to make their project contracts more profitable to them. That was their business decision.
+4. Financial Risk
+Each could be liable for negligence or the consequences of alleged inappropriate actions in the course of their projects. Ms. Goebel was threatened with a lawsuit and her contract had anticipated that possibility with a limit on liability. Each had a chance of profit or risk of loss depending on the amount of work in each project and whether they would have another contract elsewhere. Each had his/her own business and capital, equipment and entertainment and promotional expenses which were incurred and are in evidence. Each made donations to R-Q employee functions and other possible customer's staff functions at Christmas, golf tournaments, et cetera, and each bought the occasional lunch for various R-Q staff. All of these are normal business expenses and risks. Each had the additional risk that a project might be cancelled in mid-stream without further work. No hours were guaranteed on any project.
+5. Responsibility for investments and management
+Neither Worker was a manager of staff at RHD or R-Q. They did manage their own tasks as described in each Project contract without interference by R-Q. But they simply advised Mr. Knopp from time to time, on an informal basis, what was occurring. Each managed his/her own business, time and investments in their business assets and operations.
+6. Opportunity for Profit
+Each Worker had an opportunity for profit. But if a contract was cancelled or not obtained, each stood at risk for a severe loss in business operations and in the loss of income while a new contract was sought and obtained or not obtained. Neither contract had any benefits attached to it.
+[11] For these reasons, the appeals of all parties are allowed. Neither Mr. Ellert nor Ms. Goebel was employed by RHD or R-Q under a contract of service. Each was in business on his/her own account.
+Signed at Saskatoon, Saskatchewan, this 23rd day of July, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC515
+COURT FILE NOS.:
+2003-3733(EI), 2003-3734(CPP), 2003-3735(EI), 2003-3736(CPP), 2003-3737(EI), 2003-3738(CPP), 2003-3740(EI), 2003-3741(CPP)
+STYLE OF CAUSE:
+Michael Ellert, et al, v. MNR
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+July 15 and 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+July 23, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Leonard Andrychuk, Q.C and
+Kurt Wintermute
+Counsel for the Respondent:
+Michael Van Dam and
+Dhara Drew, Student-at-Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leonard Andrychuk, Q.C.
+Firm:
+MacPherson, Leslie & Tyerman LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

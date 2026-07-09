@@ -1,0 +1,233 @@
+Title: Thompson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/343889/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-167-343889-thompson-v-the-queen.md
+Document type: case_law
+Last modified: 2018-08-29
+
+# Thompson v. The Queen
+
+- Citation: 2018 TCC 167
+- Decision date: 2018-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4926, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-08-29
+Neutral citation
+2018 TCC 167
+File numbers
+2014-2393(IT)G, 2014-2395(IT)G, 2014-2398(IT)G, 2014-2399(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2014-2398(IT)G,
+2014-2399(IT)G
+BETWEEN:
+LARRY THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Dockets: 2014-2393(IT)G,
+2014-2395(IT)G
+BETWEEN:
+THOMPSON BROS (CONSTR.) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions heard by conference call on April 5, 2018 at Ottawa, Ontario.
+Before: The Honourable Justice Réal Favreau
+Participants:
+Counsel for the Appellants:
+Robert A. Neilson
+Counsel for the Respondent:
+Jasmine Sidhu
+ORDER
+The motions dated April 5, 2018 brought by the respondent pursuant to section 69 of the Tax Court of Canada Rules (General Procedure) for:
+(a) leave to file Amended Replies to the Notices of Appeal;
+(b) extending the time for serving and filing the Amended Replies to the Notices of Appeal; and
+(c) costs of this motion;
+are allowed with costs in accordance with the attached Reasons for Order. Consequently, the respondent shall have leave to file an Amended Reply in each of the appeals in the form attached to the notices of motion. The Amended Replies shall be filed and served within thirty days from the date of this Order. The respondent is entitled to one set of costs for the hearing of these motions to be divided equally between the two appellants.
+Signed at Ottawa, Canada, this 29th day of August 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018 TCC 167
+Date: 20180829
+Dockets: 2014-2398(IT)G,
+2014-2399(IT)G
+BETWEEN:
+LARRY THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Dockets: 2014-2393(IT)G,
+2014-2395(IT)G
+BETWEEN:
+THOMPSON BROS (CONSTR.) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+(Larry Thompson and Thompson Bros. (Constr.) Ltd. are collectively referred to as the “Appellants”)
+REASONS FOR ORDER
+Favreau J.
+[1] The only issue to be decided in these motions is whether the respondent should be allowed to amend its Replies to advance the additional arguments that the units of LTI Partnership (“LTI”) and CTR Partnership (“CTR”) were a tax shelter in 2008 and 2009, as defined in section 237.1 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”), and that Tim and John Hodgins were the promoters of the tax shelter.
+Background Facts
+[2] Larry Thompson (“Larry”) is a resident of Canada. At all material times, Larry was the indirect controlling shareholder of a group of corporations and partnerships that carried on a construction and earth moving business known as Thompson Bros. Construction (the group of corporations and partnerships is referred to herein as the “Thompson Group”).
+[3] Thompson Bros. (Constr.) Ltd. (“TBCL”) was a member of the Thompson Group.
+[4] LTI was a general partnership established between Larry and TBCL. In 2008, LTI opened a trading account with ODL Securities Limited (“ODL”) and realized certain losses from foreign currency forward contracts. These losses were allocated to Larry and TBCL in accordance with their capital interests in LTI and were claimed by Larry and TBCL in their respective 2008 income tax returns.
+[5] CTR was a general partnership established between LTI, the Larry Thompson RCA Trust (the “RCA Trust”) and 1493311 Alberta Ltd. (“1493311”) in October 2009. In 2009, CTR opened a trading account with ODLS and realized certain losses from foreign currency forward contracts. These losses were allocated to LTI, the RCA Trust and 1493311 in accordance with their capital interest in CTR. Certain losses allocated from CTR to LTI were then allocated to the partners of LTI pursuant to their capital interests in LTI. This resulted in a loss claimed by Larry and TBCL in their respective 2009 income tax returns.
+[6] The Minister of National Revenue (the “Minister”) reassessed in May 2012, the 2008 and 2009 taxation years of Larry and TBCL to deny the losses claimed from the foreign currency forward contracts entered into with ODL.
+[7] The Minister’s reassessing position can be summarized as follows:
+(a) LTI and CTR did not actually realize any losses in the 2008 and 2009 taxation years as the foreign currency forward contracts were a sham; and
+(b) if LTI and CTR were not a sham, the income or losses allocated between LTI, CTR, Larry and TBCL were unreasonable.
+[8] Notices of Objection were filed by Larry and TBCL on or around August 13, 2012 and Notices of Appeal were filed in June 2014. The Replies to the Notices of Appeal were served on or around November 12, 2014.
+[9] By Order dated March 30, 2015, this Court established litigation deadlines in respect of the above-noted appeals (the “First Order”).
+[10] On July 15, 2015 and October 6, 2015, respectively, the lists of documents were served on the Minister and Larry/TBCL respectively.
+[11] On February 23 and 24, 2016, examinations for discovery were held in these appeals.
+[12] By Order dated August 9, 2016, this Court amended the litigation deadlines in respect of the above-noted appeals (the “Second Order”).
+[13] By Order dated October 20, 2016, the litigation deadlines were further amended in respect of the above-noted appeals (the “Third Order”).
+[14] By Order dated March 20, 2017, the litigation deadlines were again amended in respect of the above-noted appeals (the “Fourth Order”).
+[15] By Order dated June 15, 2017, the litigation deadlines were amended in respect of the above-noted appeals (the “Fifth Order”). The Fifth Order established the latest litigation deadlines in respect of the examinations for discovery and, in particular, it established a deadline of January 31, 2018 for the follow-up answers. The Fifth Order also provided that the respondent was to serve a draft of the Amended Replies by July 31, 2017.
+[16] On July 31, 2017, the respondent sent counsel for the appellants a draft Amended Reply by e-mail in one of Larry’s appeals with the understanding that identical amendments (mutatis mutandis) to the Amended Replies would be made in the other three appeals.
+[17] By e-mail dated January 2, 2018, the appellants advised the respondent that they would not consent to the proposed amendments to the Replies to the Notices of Appeal.
+Amendments to the Replies
+[18] By way of the Amended Reply to the Notice of Appeal of Larry Thompson (2014-2398(IT)G), the respondent relied on the following additional facts and added the following issue and a new basis for disallowing the losses:
+Facts
+(a) ODL and Tim Hodgins and John Hodgins, either for themselves or on behalf of ODL, (collectively, the “Promoters”) promoted the sale of units of LTI and CTR;
+(b) Statements and representations that the losses flowing from the units of LTI over four years would exceed their costs were made to the Appellant with respect to the units of LTI;
+(c) The amounts represented to be deductible by the Appellant in computing the Appelant’s income in respect of his LTI units, the losses to be allocated to the Appellant by LTI within the four years after the day the Appellant acquired his units was greater than the cost of the units to the Appellant. In particular, representations were made that a loss of approximately $70 million would be allocated from the LTI partnership to its partners for a cost not exceeding $505,000;
+(d) The promoters neither applied for nor obtained a tax shelter identification number for the units of LTI and CTR; and
+(e) No one, including the Appellant, filed the prescribed form referred to in subsection 237.1(6) of the Act containing prescribed information, including the identification number for the units of LTI with the Minister.
+Issue
+(e) Whether LTI’s units were a “tax shelter” within the meaning of section 237.1 of the Act and, if so, whether anyone, including the Appellant, filed the prescribed form referenced in subsection 237.1(6) of the Act containing prescribed information including the identification number for the Tax Shelters, with the Minister?
+Basis
+(e) the units of LTI were a “tax shelter” within the meaning of section 237.1 of the Act and no one, including the Appellant, filed the prescribed form referenced to in subsection 237.1(6) of the Act containing prescribed information, including the identification number for the units of LTI, with the Minister. As a result, no deduction is permitted under 237.1(6) in respect of the units of LTI.
+[19] The same changes were made to the Replies to the Notices of Appeal of Larry (2014-2399(IT)G) and Thompson Bros. (Constr.) Ltd (2014-2393(IT)G and 2014-2395(IT)G) with minor adjustments.
+Position of the Parties
+A. The Appellants
+[20] Counsel for the appellants referred to the Federal Court of Appeal’s decision in O’Dwyer v. R., 2013 FCA 200 which discussed the context required of statements and representations for the tax shelter rules of section 237.1 of the Act to apply. In the case of losses to be allocated to a partner by a partnership, Webb J.A. found that the following requirements for representations would exist:
+(a) the statements must describe the amount of the losses that the purchaser of the partnership interest will be entitled to deduct;
+(b) the representations must be made prior to an acquisition of property in relation to losses that will be incurred by the partnership;
+(c) the representations must, in essence, describe the amount of losses to be deducted by the prospective acquirer by providing an indication:
+(i) of the losses to be incurred by the partnership;
+(ii) that the losses incurred by the partnership would be deductible in computing the partnership’s income;
+(iii) of the expected revenue of the partnership for the relevant financial periods;
+(iv) of the anticipated losses to be realized for the purposes of the Act; and
+(v) as to whether those losses will be deductible by the holders of the partnership units in computing their income; and
+(d) the representations must be made to the taxpayer.
+[21] Concerning the amendments specifically, counsel for the appellants referred to section 54 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) and to subsection 152(9) of the Act.
+[22] Section 54 of the Rules grants a general right to amend pleadings before the close of pleadings, on consent of all parties for a particular matter or on leave of the Court. Leave to amend is generally granted unless prejudice would result and cannot be compensated with costs.
+[23] Subsection 152(9) of the Act provides that the respondent may advance an alternative argument at any time after the normal reassessment period to support an existing assessment or reassessment, unless there is evidence that the taxpayer is no longer able to provide without leave of the Court and it is not appropriate for the Court to order that evidence be provided.
+[24] Counsel for the appellants cited Walsh v. R., 2007 FCA 222 in which the Federal Court of Appeal outlined a three-part test that must be passed before the respondent will be allowed to amend its pleadings to add additional arguments, as follows:
+(a) the respondent cannot include transactions which did not form the basis of the taxpayer’s reassessment;
+(b) the right of the respondent to present an alternative argument in support of an assessment is limited by paragraph 152(9)(a) and (b), which speaks to the prejudice to the taxpayer; and
+(c) the respondent cannot use subsection 152(9) to reassess outside the limitations described in subsection 152(4) or to collect tax exceeding the amount of the assessment under appeal.
+[25] In determining whether a taxpayer would be prejudiced by an amendment, the following factors should be considered according to the Tax Court of Canada’s decision in Continental Bank of Canada v. R., [1993] CTC 2306 at paragraph 23:
+(a) the timeliness of the motion to amend;
+(b) the extent to which the proposed amendments will delay the expeditious trial of the matter;
+(c) the extent to which a position taken originally by one party to follow a course of action in the litigation will be difficult or impossible to alter; and
+(d) whether the amendments sought will facilitate the Court’s consideration of the merits of the dispute.
+[26] These factors and whether the proposed amendments disclose a reasonable course of action, will determine if a request to amend is granted by the Court as per Loewen v. R., 2007 TCC 703 at paragraph 3.
+[27] According to counsel for the appellants, the amendments were not provided in a timely manner as the facts required to conclude that the merits of the CTR and LTI partnerships may be a tax shelter would have been known to the respondent at an early stage of the litigation. This is evident from the examination for discovery of Paul Stuart which took place in February 2016. The respondent’s line of questioning established that counsel for the respondent was alive to the tax shelter argument prior to the discovery. Counsel for the appellants provided excerpts of the discovery which showed that counsel for the respondent was simply seeking admissions relevant to the tax shelter rules. In other words, the respondent knew about the tax shelter argument prior to the February 2016 discovery but took no action to amend its proceedings until the discoveries were completed and almost a year and a half had elapsed.
+[28] Counsel for the appellants considers that the amendments will unnecessarily delay the trial as the addition of the tax shelter argument will require significant additional discoveries and will require the appellants to seek additional evidence which may or may not exist to defend against the respondent’s allegations. The transactions at issue in these appeals took place almost a decade ago.
+[29] Counsel for the appellants also argued that the amendments would require entirely new positions to be taken by the appellants since, prior to the requested amendments on July 31, 2017, the Minister’s primary assessing position was that the foreign currency forward contracts entered into with ODL were a “sham” and that no trading were ever authorized, contemplated or actually took place. The focus of the appellants’ case at all stages of the litigation was accordingly focused primarily on this argument, namely towards proving that the trades conducted by ODL occurred and that the reported gains or losses were actually realized by LTI and CTR and allocated to their respective partners in accordance with the terms and conditions of their partnership agreements. The addition of the tax shelter argument will require an entirely new defence to be mounted which in turn will require entirely new evidence, some of which may not be available.
+[30] For counsel for the appellants, the amendments will not enhance the merits of the dispute because a key factual assumption to successfully find a tax shelter is missing, that being that ODL, Tim or John promoted the sale of units of LTI or CTR. No evidence has thus far been produced by the respondent capable of supporting a finding that ODL, Tim or John had any involvement in the creation of, reorganization of or sale of units of LTI or CTR.
+[31] Finally, counsel for the appellants argued that the refusal of the amendments would be in accordance with existing jurisprudence and he cited Drouin c. R., 2011 CCI 519 in support, which distinguished Loewen, cited above, as follows:
+(a) unlike Loewen, the respondent had all the required documentation to raise the tax shelter argument prior to the reassessment and certainly prior to the filing of its reply;
+(b) the appeals were ready for trial, in that all examinations for discovery had been completed at the time the motion to amend was filed; and
+(c) the respondent had knowledge for at least two years that the tax shelter argument might be raised.
+[32] In the present case, the respondent knew very early in the litigation process about the potential to raise the tax shelter argument and made a deliberate choice to delay the amendments for a tactical advantage.
+B. The Respondent
+[33] Counsel for the respondent pointed out that the litigation in respect of the appeals is advanced just to the point of completing follow-up questions from the examinations for discovery and the amendments to the replies arose in part, from the evidence given by one of the appellants’ nominees, Paul Stuart, at the discovery held on February 26, 2016.
+[34] Counsel for the respondent referred to section 54 of the Rules and to subsection 152(9) of the Act as being the applicable provisions in this matter.
+[35] Counsel for the respondent cited Canderel Ltd. v. R., 93 DTC 5357 (FCA) in which the Federal Court of Appeal set out the test for when an amendment to a pleading may be permitted. The test is as follows:
+. . . the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice (at paragraph 10).
+[36] According to the Federal Court of Appeal, the following factors are to be considered in determining whether it is just, in a given case, to authorize an amendment:
+(a) the timeliness of the motion;
+(b) the extent to which the original position of one party has led the other to follow a course of action it would be difficult to alter; and
+(c) whether the amendments sought will facilitate the Court’s consideration of the true substance of the dispute on the merits.
+[37] Counsel for the respondent also relied on the Loewen decision, cited above, in which the Tax Court of Canada held that the factors to be taken into account in permitting an amendment all relate to fairness, common sense and in the interest of justice. The Court found that the two-year delay in that case did not cause prejudice, given the stage of the litigation and further found that permitting the amendments would permit all relevant provisions to be considered at trial.
+[38] On appeal of the Loewen decision, the Federal Court of Appeal held that the right of the Crown to rely upon an alternative argument is now governed by subsection 152(9) of the Act. The expiration of the normal reassessment period does not preclude the Crown from defending an assessment on any ground, subject only to paragraph 152(9)(a) and (b), which speak to prejudice to the taxpayer which may arise if the Crown is permitted to make new factual allegations many years after the event (2004 DTC 6321).
+[39] According to counsel for the respondent, an application of the test set out in Canderel, cited above, makes it clear that all factors weigh in favour of permitting the amendments being sought by the respondent for the following reasons:
+(a) the motion to amend is being made at an early stage in the litigation. The litigation in respect of these appeals is just at the end of the discovery stage. Accordingly, there is no path that has yet been undertaken that would be difficult to alter and there is no injustice to the appellants that is not capable of being compensated by an award of costs;
+(b) the proposed amendments arose, in part, from the evidence given by one of the appellants’ nominees at the discovery stage. To this end, the amendments were made at the appropriate time in the litigation and have come at the natural stage of the progression of this litigation;
+(c) the amendments will undoubtedly assist the Court by ensuring that all provisions of the Act which may apply are before it and will facilitate the Court’s consideration of the true substance of the dispute on its merits.
+[40] Counsel for the respondent further stated that the prohibitions set out in subsection 152(9) are not applicable and that the tests set out in the Walsh decision have been met. In particular, the Deputy Attorney General is, vis-à-vis the proposed amendments, including transactions which formed the basis of the appellants’ assessments. Further, the appellants have not shown that the prejudice set out in paragraphs 152(9)(a) and (b) are applicable to them. The appellants have not shown that there is no relevant evidence which they are no longer able to adduce without leave of the Court. Lastly, the proposed amendments do not increase the amount of tax assessed.
+[41] The respondent’s motion to amend its pleadings is being brought at exactly the right time, i.e., immediately following the close of the examinations for discovery which is when the facts became known to the Crown. At the examinations for discovery, the respondent was exploring its case and the facts. This is the main purpose of an examination for discovery and there was no objection raised by counsel for the appellants at any time.
+[42] Counsel for the respondent distinguished the Drouin decision, cited above, because in that case, the tax shelter issue was taken into account by the Minister of National Revenue in assessing the taxpayer. The tax auditor raised it but for unknown reasons, the Deputy Attorney General of Canada chose not to rely on it when it advanced its case before the Court. The issue was raised less than three months before the hearing of the case and more than two years after the respondent became aware of the argument. The circumstances in this motion are different from the Drouin decision because in this instance, the facts leading to the tax shelter argument have come to light as a result of the examinations for discovery. This is the essence of litigation and one of the most basic and common reason for which a party may seek to amend its pleadings.
+The Legislative Framework
+[43] The relevant provision of the Rules that is applicable in this instance is section 54 which reads as follows:
+A pleading may be amended by any party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may impose such terms as are just.
+[44] The provisions of the Act that are relevant for the purpose of this motion are subsections 152(9) and section 237.1 (the definition of “tax shelter”).
+[45] Subsection 152(9) was amended on October 21, 2016. As the amended subsection 152(9) is inapplicable to appeals instituted before October 21, 2016, the legislation applicable to this case is the prior version of subsection 152(9) which read as follows:
+The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[46] The definition of “tax shelter” as it read in 2008 and 2009, was as follows:
+In this section,
+“tax shelter” means any property in respect of which it may reasonably be considered having regard to statements or representations made or proposed to be made in connection with the property that, if a person were to acquire an interest in the property, at the end of a particular taxation year ending within 4 years after the day on which the interest is acquired,
+(a) the total of all amounts each of which is
+(i) a loss represented to be deductible in computing income in respect of the interest in the property and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, or
+(ii) any other amount represented to be deductible in computing income or taxable income in respect of the interest in the property, and expected to be incurred by or allocated to the person for the particular year or any preceding taxation year, other than any amount included in computing a loss described in subparagraph I,
+would exceed
+(b) the amount, if any, by which
+(i) the cost to the person of the interest in the property at the end of the particular year,
+would exceed
+(ii) the total of all amounts each of which is the amount of any prescribed benefit that is expected to be received or enjoyed, directly or indirectly, in respect of interest in the property, by the person or another person with whom the person does not deal at arm’s length.
+Analysis and Conclusion
+[47] Based on the facts and circumstances in this instance, I am satisfied that the proposed Amended Reply in each of the appeals passes the tests set out in both section 54 of the Rules and subsection 152(9) of the Act and that the motions to amend could not have come earlier, considering the Court’s Order dated June 15, 2017, compelling the respondent to serve the appellants with a draft of the Amended Replies by July 31, 2017.
+[48] In the present appeals, the factors enunciated in Canderel, cited above, all weigh in favour of permitting the amendments being sought by the respondent. The motions to amend were made at an early stage of the litigation, i.e. the end of the examinations for discovery and the proposed amendments arose, in part, from the evidence given by one of the appellants’ nominees during his examination for discovery. The proposed amendments will undoubtedly assist the Court in ensuring that all applicable provisions of the Act are considered by the Court and will facilitate the Court’s consideration of the true substance of the litigation, based on its merits. The proposed amendments will not result in an injustice to the appellants which cannot be compensated by an award of costs. No allegation to that effect has been made by counsel for the appellants.
+[49] Furthermore, the tests set out in Walsh, cited above, concerning the conditions of subsection 152(9) have also been met in that the respondent does not seek to reassess the appellants, nor to collect more tax than already reassessed within the normal reassessment period, nor to rely on transactions other than those already in issue by the reassessments. The proviso contained in paragraphs (a) and (b) of subsection 152(9) of the Act has no application here, as the appellants have not shown, by affidavits, or otherwise, any of the prejudices referred to in the said paragraphs.
+[50] Although the appellants suggested that new evidence will be necessary but which may not be available anymore and that the proposed amendments will add a significant amount of expenses and will inevitably cause undue delay in bringing these appeals to trial, I am not convinced that these inconveniences will deny the appellants a just and most expeditious determination of their appeals.
+[51] At this stage, I do not think that I have to consider the merits of the proposed amendments.
+[52] For all these reasons, the motions are allowed with costs. The respondent shall have leave to file an Amended Reply in each of the appeals in the form annexed to the Notices of Motion. The Amended Replies shall be filed and served by September 28, 2018 at the latest. The respondent is entitled to one set of costs for the hearing of the motions to be shared equally between the two appellants.
+Signed at Ottawa, Canada, this 29th day of August 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018 TCC 167
+COURT FILE NOS.:
+2014-2398(IT)G, 2014-2399(IT)G
+2014-2393(IT)G, 2014-2395(IT)G
+STYLES OF CAUSE:
+Larry Thompson and The Queen
+Thompson Bros (Constr.) Ltd. and The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 5, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice Réal Favreau
+DATE OF ORDER:
+August 29, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Robert A. Neilson
+Counsel for the Respondent:
+Jasmine Sidhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert A. Neilson
+Firm:
+Felesky Flynn LLP
+Edmonton, Alberta
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

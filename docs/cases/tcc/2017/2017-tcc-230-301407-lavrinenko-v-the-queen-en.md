@@ -1,0 +1,155 @@
+---
+title: "Lavrinenko v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301407/index.do"
+last_modified: "2017-11-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 230"
+citation2: ""
+neutral_citation: "2017 TCC 230"
+decision_date: "2017-11-20"
+language: "en"
+item_id: "301407"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7787
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:06:38.513000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c56e0314530ca11d6b3ea8dbb8e4ff4b9245140d2f346579756b7758384dd4bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lavrinenko v. The Queen
+
+- Citation: 2017 TCC 230
+- Decision date: 2017-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7787, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavrinenko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-20
+Neutral citation
+2017 TCC 230
+File numbers
+2016-4766(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4766(IT)I
+BETWEEN:
+ALEXEY LAVRINENKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 27, 2017 at Hamilton, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+JUDGMENT
+The appeal with respect to the determination of the Canada Child Tax Benefit and the Goods and Services Tax/Harmonized Sales Tax Credit made under the Income Tax Act for the 2011, 2012, 2013, and 2014 base tax years is dismissed in accordance with the attached Reasons for Judgment.
+The appeal with respect to the Universal Child Care Benefit under the Universal Child Care Benefit Act and the Ontario Child Benefit and the Ontario Trillium Benefit under the Ontario Taxation Act is quashed.
+Signed at Ottawa, Canada, this 20th day of November 2017.
+“B.Paris”
+Paris J.
+Citation: 2017 TCC 230
+Date: 20171120
+Docket: 2016-4766(IT)I
+BETWEEN:
+ALEXEY LAVRINENKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from determination by the Minister of National Revenue (the “Minister”) that the Appellant was not entitled to receive the Canada Child Tax Benefit and the Goods and Services Tax Credit /Harmonized Sales Tax Credit (“the Benefits”) in respect of his son “S” from December 2012 to June 2016. The basis for the Minister’s determination was that the Appellant was not a “shared‑custody parent” of S.
+[2] According to the definition of the term “shared custody parent” found in the Act, an individual will be a “shared-custody parent” if certain conditions are met. The only condition in dispute in this appeal is whether the Appellant and his ex-spouse resided with their son S on an “equal or near equal basis” during the relevant period.
+[3] The Appellant also put in issue his entitlement to the Universal Child Care Benefit under the Universal Child Care Benefit Act and the Ontario Child Benefit and the Ontario Trillium Benefit under the Ontario Taxation Act (“the Other Benefits”) for the same period. However, since this Court does not have jurisdiction with respect to the determination of the Other Benefits, this part of the appeal must be quashed: Fatima v. The Queen, 2012 TCC 49; Perron v. The Queen, 2017 TCC 220.
+[4] In a previous appeal by the Appellant to this Court from a determination concerning his entitlement to the Benefits for the period between July 2011 and November 2012, this Court found that he and his ex-spouse were “shared custody parents”. The Appellant maintains that the Court should follow that decision in this case since the proportion between the time S resided with him and the time S resided with the Appellant’s ex-spouse during that period was the same as for the period now in issue.
+Facts [5] During the relevant period, the Appellant and his ex-spouse (the mother of S) were divorced. By Order of the Ontario Superior Court of Justice Family Court Branch dated June 29, 2011 (the “First Order”) the Appellant and his ex‑spouse were given joint custody of S, and S was to reside primarily with the Appellant’s ex‑spouse.
+[6] The First Order also provided that S would reside with the Appellant at various times, as follows:
+− on alternate weekends from after school on Friday until the start of school on the following Monday, or Tuesday in the case of a long weekend.
+− one day during the week
+− two non-consecutive weeks each summer
+− in odd-numbered years, from the end of school before Christmas break until 4 p.m. on Christmas Day
+− in even numbered years, from 4 p.m. Christmas Day until the start of school after the Christmas break
+− in even –numbered years, from after school the Thursday before Good Friday until the following Tuesday morning
+− in odd-numbered years, from Friday after school before Thanksgiving until the following Tuesday morning
+− Fathers’ Day each year from 10 am to 8:30 pm if it is not the Appellant’s regularly scheduled weekend, with the Mother having equivalent access on Mother’s Day
+− for two hours on S’s birthday if that day does not fall during the Appellant’s access.
+[7] The Appellant’s access under the First Order was varied by an Order of the same Court dated October 16, 2015 (the “Second Order”) in certain minor respects. The Second Order provided that the Appellant was required to pick S up by 7 p.m. for the mid-week accesses failing which the mid-week access would be cancelled, and to require the Appellant to pick up S by 7:30 p.m. Friday for week-end access, failing which access would begin the next morning. These changes were made because the Appellant had certain difficulties arriving on time to pick S up from school for his access times due to traffic. The Appellant is a truck driver.
+[8] The Appellant stated that he and his ex-spouse followed the First and Second Orders closely and that if he missed any days that he had access, he would make up those days at a later time by agreement with his ex-spouse. He entered a calculation of the days he resided with S between September 2011 and August 2012. The Appellant had prepared that calculation for the purposes of his previous appeal to this Court. The calculation showed that he resided with S 146 out of 365 days during those months, which amounted to 40% of the time.
+[9] In cross-examination, he agreed that during the period under appeal he had been late to pick up S from school on certain Fridays when he had access, and that on those occasions he would ask his ex‑spouse to pick up S. The Appellant said his ex‑spouse would either drop S off at the Appellant’s residence with the Appellant’s new spouse, or he would then pick up S from his ex‑spouse’s residence later in the evening. He said that he was sometimes late to pick up S because of traffic and because of work obligations.
+[10] In cases where he could not pick up S at all, he said he made up the access time at a later date that was agreed upon with his ex-spouse. He said that she would also reschedule her access on occasion.
+[11] The Appellant’s ex-spouse testified that the Appellant missed a lot of his access with S and was often late to pick S up for his access times. She estimated that the Appellant would miss access once every two weeks and would be very late to pick up S at least as frequently. She agreed that some of the missed time was made up, but estimated that S resided with her between 70% and 80% of the time between December 2012 and June 2016. She had made some notes concerning problems with access from January to April 2013. Those notes related to six mid-week access visits and one weekend visit for which the Appellant was late or which he missed altogether. She could not recall whether the missed visits were made up later by the Appellant.
+[12] Apart from those notes, neither the Appellant nor his ex‑spouse kept any written record of the time spent by S with them.
+Analysis and Decision [13] For the Appellant to be entitled to receive the Benefits in respect of S, he must meet the definition of an “eligible individual” found in section 122.6 of the Act. An “eligible individual” includes a “shared-custody parent”.
+[14] According to the definition of the term “shared‑custody parent”, also found in section 122.6 of the Act, an individual is a shared-custody parent in respect of a qualified dependant only if certain conditions are met. The only condition in dispute in this appeal is whether the Appellant and his ex-spouse resided with S on an “equal or near equal basis” during the relevant period.
+[15] With respect to the Appellant’s position that the Court should simply follow its previous decision, I would point out that the Court in each case must base its decision on the facts established by the evidence pertaining to the period at issue: Cyr v. M.N.R., 1998 CanLII 545. Also, I note that the judgment issued by the Court in the previous appeal does not indicate the amount of time it found S to have spent with the Appellant during the period in issue in that appeal.
+[16] The Appellant also argues that S spent about 40% of his time with him during the period in issue here and that where a child spends 60% of his or her time with one parent and 40% with the other, each parent would qualify as a “shared-custody parent” within the meaning of section 122.6 of the Act.
+[17] I do not agree. In Brady v. The Queen, 2012 TCC 240 Campbell J. considered that Parliament intended that the words “near equal basis” in the definition of “shared-custody parent” to mean “only a small difference between the amounts of time spent with each parent”. She went on to say that “parents whose circumstances exhibit only slight differences or close differences, will fall within this amendment” (emphasis added). In the Brady case, a split of 55%/45% in the time the child spent with each parent was found to be near equal.
+[18] In Van Boekel v. The Queen, 2013 TCC 132, Woods J. considered the meaning of the phrase “equal or near equal” in the definition of “shared-custody parent” and stated at paragraph 21:
+As for the general principles to be applied, in Brady Justice Campbell concluded that the term “near equal” was not restricted to only to a very slight variation from 50/50. In my view, the legislation also does not encompass a very wide variation from equal residence. Otherwise, different language would have been used in the legislation.
+(emphasis added)
+[19] I agree with Woods J. that the phrase “equal or near equal basis” does not permit a very wide variation from equal residence. In my view, a 60%/40% split is a wide variation. A child who spends 40% of his or her time with one parent spends only two-thirds as much time with that parent as the other. I do not accept that there would be near equality in such a situation. The contrary conclusion would strain the ordinary meaning of the words “equal or near equal”. Anything less than 40% would clearly not qualify as “near equal”.
+[20] In this case, the Appellant acknowledged that he had missed some access during the relevant period but said that his access “approached 40%” of the time. His ex-spouse said that his access was less than that. Unfortunately, neither kept any complete record of the time S spent with them. On the basis of this evidence, I conclude that the Appellant resided with S somewhat less than 40% of the time during the period in issue, although I am unable to determine how much below 40%. It is not necessary for me to make that determination, however, since in my view even a 60%/40% split would not qualify the Appellant as a shared‑custody parent.
+[21] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada this 20th day of November 2017.
+“B.Paris”
+Paris J.
+CITATION:
+2017 TCC 230
+COURT FILE NO.:
+2016-4766(IT)I
+STYLE OF CAUSE:
+ALEXEY LAVRINENKO AND HER MAJESTY THE QUEEN
+PLACE AND DATE OF HEARING:
+Hamilton, Ontario
+October 27, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+November 20, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

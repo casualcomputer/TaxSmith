@@ -1,0 +1,182 @@
+Title: 6051944 Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120134/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-180-120134-6051944-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-10-15
+
+# 6051944 Canada Inc. v. The Queen
+
+- Citation: 2015 TCC 180
+- Decision date: 2015-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2716, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6051944 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-10-15
+Neutral citation
+2015 TCC 180
+File numbers
+2014-1944(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2015 TCC 180
+Date: 20151015
+Docket: 2014-1944(GST)I
+BETWEEN:
+6051944 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal pursuant to the Informal Procedure set out in the Tax Court of Canada Act, from an assessment made by the Minister of Revenue of Quebec (the Minister) as an agent for the Minister of National Revenue, under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the ETA), dated January 11, 2013, for the period from September 1 to September 30, 2009 (the period at issue).
+[2] Based on the assessment dated January 11, 2013, the following amounts were assessed:
+Adjustments to calculating
+the reported net tax
+Net interest
+$41,000.00
+$6,800.30
+Total owing
+$47,800.30
+[3] The adjustments to calculating the net tax reported in the amount of $41,000 are attributable to the input tax credits (ITCs) claimed and obtained in excess or without entitlement relative to an amount of $820,000 in management fee expenses that are ineligible due to their unreasonable nature under section 169 and subsection 170(2) of the ETA.
+[4] In making the assessment at issue, the Minister relied, inter alia, on the following findings and assumptions of fact, stated at paragraph 32 of the Reply to the Notice of Appeal:
+[Translation]
+(b) The appellant is a corporation incorporated pursuant to the Canada Business Corporations Act on January 7, 2003;
+(c) The appellant is a registrant for the purposes of Part IX of the ETA;
+(d) The appellant operates a new home construction business as “Les constructions Gérik”;
+(e) The appellant’s directors are Éric Pigeon and his father Germain Pigeon;
+(f) The appellant’s shares are held in equal parts by two management companies: 131672 Canada inc. (131672) and 6570585 Canada inc. (6570585);
+(g) 131672 and 6570585 were incorporated on April 6, 1984, and February 21, 2008, respectively;
+(h) The head office of the appellant and the related companies is at the same address;
+(i) 131672 operates an accounting firm and does bookkeeping for small corporations based on the information in the enterprise register. There are no employees except the sole shareholder, Germain Pigeon;
+(j) 6570585 operates a holding company and does management based on the information in the enterprise register. There are no employees except the sole shareholder, Éric Pigeon.
+(k) According to the audit, at the end of each fiscal year, the appellant made through accounting entries, management fee expenses of $1,250,000, $1,770,000 and $950,000 respectively for fiscal years ending on July 31, 2008, 2009 and 2010 (2008 fiscal year, 2009 fiscal year, and 2010 fiscal year);
+(l) No management fees are listed as expenses for 2007 and previous years. Previously, the appellant paid the two directors salaries plus bonuses at the end of the year;
+(m) The $1,770,000 in management fees for the 2009 fiscal year was paid to 131672 and 6570585 at 50% each ($885,000) for the services provided by Germain and Éric Pigeons (instead of their salaries and bonuses).
+(n) The management fees represent 65% of the corporation’s operating expenses for the 2009 fiscal year;
+(o) There is no signed contract or written agreement between the appellant and the two related companies concerning the management services to be provided, the fees to be billed and the parties’ responsibilities;
+(p) The two related companies billed for management fees after the fiscal year end in 2009 and 2010;
+(q) The services rendered by Germain and Éric Pigeon did not change from one fiscal year to the next: it was still a management service provided to a construction company, still the same business, and still the same products;
+(r) The management fees were not calculated based on the service provided by Germain and Éric Pigeon (reasonable rate per hour or per week);
+(s) The management fees began to be billed only in the 2008 fiscal year. Before that fiscal year, Germain and Éric Pigeon’s services were still required by the appellant, but they were remunerated with salaries and bonuses;
+Sales
+Claimed expenses
+2007
+vs
+2009
+$16,101,083
+$13,180,230
+$430,000(salaries and bonuses)
+$1,770,000 (management fees)
+The salaries and bonuses for the 2007 fiscal year, with sales of $16 million, were $430,000. For the 2009 fiscal year, the appellant claimed For the same type of services $1,770,000 in management fee expenses, that is, four times more with $3 million less in sales;
+(t) This is an expense deduction based on the appellant’s year-end results. That lump-sum annual expense was calculated after the fact;
+(u) The appellant uses the management fees as a method of sharing and distributing its profits to the two related companies, which have different fiscal year‑end dates from the appellant (income tax carry-over);
+(v) The management fee payment is so high that the appellant reported business losses (for tax purposes);
+(w) All of the corporation’s profits were converted into management fees at the very end of the fiscal year, which is unreasonable in the circumstances;
+(x) No reasonable businessman with only his company’s commercial interests in mind would conclude a management agreement, as in this file, with an arm’s length person with whom no service delivery was clearly pre-established, setting out the payment of the company’s entire profits as management fees;
+(y) For the 2010 fiscal year, $950,000 in management fees was accepted because services were provided by the related companies;
+(z) For the 2009 fiscal year, the Minister accepted $950,000 as management fee expenses, but considered that the remaining $820,000 was unreasonable (in comparison with 2010) considering the services provided, the time needed to provide the services and the fees that could have been paid to receive similar services (the fair market value of the services provided);
+(aa) The $950,000 allowed by the Minister for the 2009 fiscal year is more than reasonable compared to the salaries and bonuses paid for the 2007 fiscal year, namely, $430,000 (despite $3 million less in sales);
+(bb) Accordingly, the Minister was correct in fact and in law to disallow the amount of $41,000 in ITCs claimed on the unreasonable expenses of $820,000;
+(cc) Consequently, the appellant owes the Minister the amount of adjustments to its net reported tax for the period at issue plus interest;
+[5] For the purposes of the Income Tax Act, the management fees paid by 6051944 Canada Inc. in respect of the 2009 taxation year were accepted by the Canada Revenue Agency as deductible expenses in computing its income, and thus, as reasonable expenses in the circumstances.
+[6] Germain Pigeon testified at the hearing. He is now 76 years old and retired at the end of 2009. Mr. Pigeon always worked in the construction industry. From 1970 to 1985, he was the director general of a construction company that had 35 employees, which did excavation and infrastructure work and operated a quarry. In September 1985, he and three other shareholders created a construction company that performed road work and operated under the name Construction BGP Inc. Mr. Pigeon held shares in that company through a management company, namely, 131672 Canada Inc., and he managed the construction company. Eventually, he sold the shares in Construction BGP Inc. to his daughter Lyne Pigeon (Lyne), who had worked at the business since she was 16 years old.
+[7] Towards the end of the 1980s, Mr. Pigeon bought a construction company that built new homes. It operated under the name Les Habitations BGP Inc. until 2002. Eric Pigeon (Eric), one of Mr. Pigeon’s two sons, worked for the business as an employee. He has held the positions of carpenter, foreman, accounts payable administrator and salesman on weekends.
+[8] The appellant was incorporated on January 7, 2003, with the purpose of enabling Eric to become a 50/50 shareholder with his father. The appellant then operated under the name Les Constructions Gérik. Mr. Pigeon held his shares in the appellant through his management company, while Eric held them personally. Eric incorporated his own management company, 6570585 Canada Inc., on May 17, 2006, not February 21, 2008, as indicated at paragraph 32(g) of the Reply to the Notice of Appeal.
+[9] In 2002, the appellant built and sold between 1,000 and 1,500 new homes. In 2008 and 2009, the appellant built and sold 50 to 60 semi-detached homes, and about 170 single family homes. In 2009, the appellant had about 6 employees including a foreman, a team of three carpentry workers, two secretaries and a day labourer. Mr. Pigeon acted as president and Eric as vice-president.
+[10] Germain Pigeon’s responsibilities were mainly to take care of office management (managing staff, finances, deposits, accounts payable, accounts receivable, etc.), advertising, lot purchasing contracts and house sales. Germain Pigeon performed the following tasks together with his son Eric:
+− Preparing the annual budget and determining the price of houses and the minimum number of houses to be built and sold to reach the year’s objectives;
+− Acquiring lots to build on; and
+− Funding operations through bank loans and endorsements and through advances from the management companies.
+[11] According to the witness, Eric took care of everything related to construction sites and the construction of houses, namely, receiving subcontractors’ bids; awarding construction contracts; preparing the plans of architects, draftspersons and designers; choosing materials; selling and delivering the houses; and providing after-sale service.
+[12] The appellant did not normally have a bank of land to develop. It acquired lots from corporations held by Mr. Pigeon, Eric and Lyne Pigeon when it needed to. However, during the 2008 fiscal year, the appellant bought from the related companies under shared control lots valued at $2,290,000, while it bought none during the 2009 fiscal year.
+[13] In his testimony, Mr. Pigeon indicated that his management company had begun billing the appellant for management fees in 2004. Before 2004, the appellant paid him a salary and a bonus. Mr. Pigeon confirmed that, in the 2008, 2009 and 2010 fiscal years, the appellant paid the following management fees:
+$
+131672 Canada Inc.
+$
+657058 Canada Inc.
+$
+2008
+1,250,000
+625,000
+625,000
+2009
+1,770,000
+885,000
+885,000
+2010
+950,000
+380,000
+380,000
+[14] Usually, the appellant equally divided the management fees between the management companies. For the fiscal year ending on July 31, 2010, the management fees were paid on the basis of 60% to the management company controlled by Eric Pigeon and 40% to the management company controlled by Germain Pigeon and were determined based on five months of operations, namely, from August 1, 2009, to December 31, 2009.
+[15] Mr. Pigeon justified the difference in the management fee amounts by the fact that he retired on December 31, 2009, at the age of 70, which meant that Eric had to put more hours into the appellant’s business during that fiscal year. In the circumstances, it was reasonable to allocate the larger part of the management fees to him.
+[16] Mr. Pigeon also explained that the management fees were determined at the end of each fiscal year. There was no written contract or agreement specifying the terms and conditions for determining the amounts to be paid. However, the appellant’s board of directors adopted a resolution describing in general terms the management services provided and setting the management fee amount to be paid for the fiscal year that just ended. For the fiscal year ending on July 31, 2009, the board of directors’ resolution approving the payment of management fees is dated September 25, 2009. After the appellant’s board of directors’ resolution was adopted, each management company issued an invoice to the appellant dated the same day as the resolution and taxes (GST and QST) were added to the management fees claimed.
+[17] When Mr. Pigeon left the appellant, the appellant ceased its construction operations on December 31, 2009. However, a construction company controlled by Eric Pigeon, namely, 7218273 Canada Inc. operating under the name Les Constructions Gérik (the New Gérik) agreed to complete the construction of houses in progress and to deliver them to the buyers on the appellant’s behalf. From January to July 2010, 7218273 Canada Inc. billed the appellant a total of $1,598,104.41 plus tax (GST and QST). The amounts billed to the appellant included an 8% administrative fee and a 10% profit margin. Starting on August 1, 2010, the appellant continued to exist but became inactive at that time.
+[18] Eric Pigeon also testified at the hearing. He explained, among other things, that the management fees claimed from the appellant were in part an asset protection mechanism and justified the increase in management fees in the 2009 fiscal year by the fact that his management company needed additional funds to start up the New Gérik. The New Gérik began to operate in 2009 and has since built 60 to 80 houses per year with the help of a team of seven employees plus his spouse, who has a master’s degree in project management.
+Analysis [19] The issue is to determine whether the appellant claimed and obtained, in calculating its reported net tax for the period at issue, ITCs in the amount of $41,000, in excess, in error or without entitlement, following the Minister’s disallowing of $820,000 in management fees considered unreasonable.
+[20] Subsection 170(2) of the ETA provides that the consumption or use of services of such quality, nature or cost must be reasonable in the circumstances, having regard to the nature of the commercial activities of the appellant, and the amount must be calculated on consideration for the service that is reasonable in the circumstances. Subsection 170(2) reads as follows:
+In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of property or a service acquired, imported or brought into a participating province by the registrant, except to the extent that
+(a) the consumption or use of property or services of such quality, nature or cost is reasonable in the circumstances, having regard to the nature of the commercial activities of the registrant; and
+(b) the amount is calculated on consideration for the property or service or on a value of the property that is reasonable in the circumstances.
+[21] Paragraph 170(2)(a) poses no problem because it is indispensable to operating the appellant’s business to use the management companies’ services. However, the Minister is of the opinion that the consideration paid by the appellant for the services provided by the management companies is not reasonable in the circumstances, hence, his decision to disallow the input tax credits in respect of the $820,000 of the $1,770,000 management fees paid by the appellant for the 2009 fiscal year.
+[22] To justify his decision, the Minister alleges that the management fees are nothing but year-end entries, that there is no management agreement, and that there are no objective criteria used to determine the amount of management fees payable every year. The management fees are the appellant’s profit-sharing mechanism because they vary from year to year, even though there is no real change in the quality or quantity of services provided by the management companies.
+[23] There are very few previous court decisions dealing with subsection 170(2) of the ETA, and none of them discusses the reasonableness of the consideration paid for the services under paragraph 170(2)(b). The case law dealing with section 67 of the Income Tax Act is not relevant for the purposes of this case because the deductibility of the management fees is not at issue in this case and because section 67 is drafted differently from subsection 170(2).
+[24] The evidence shows that this is a very profitable business that is extremely well managed by experienced people who have always worked in the construction industry. The business’s annual sales for the 2007, 2008, 2009 and 2010 fiscal years were $16,045,841, $12,883,743, $13,180,230 and $11,979,088 respectively.
+[25] The services rendered by the management companies and their shareholders are not limited to regular business management services because they also include funding the business and providing access to a bank of lots that are serviced and ready to be developed, which are held by the companies controlled by Germain Pigeon and his children, Lyne and Eric.
+[26] As Germain Pigeon explained in his testimony, the management companies and their shareholders acted as a central bank in funding the appellant’s operations. In the 2007, 2008, 2009 and 2010 fiscal years, the advances given to the appellant by a related company under shared control were $343,000, $2,050,957, $520,000 and $1,354,645 respectively. These advances were granted without interest and without a planned repayment method and represented the cost of lots sold to the appellant. In addition, the shareholders granted the appellant advances of $400,000 during the 2008 and 2009 fiscal years. The advances did not include interest or repayment conditions. Mr. Pigeon also stated that he and his son had personally endorsed bank loans taken out by the appellant many times.
+[27] Without the services provided by the management companies and their shareholders, the appellant would not be able to operate its business. The appellant’s licence with the Régie du bâtiment du Québec is based on Germain Pigeon’s qualifications.
+[28] The appellant paid the management fees essentially to protect its assets against the risks associated with operating its construction business. The primary motivation sought by the management companies and their respective shareholders is not to defer the taxation of income earned by the appellant because there is only a slight carryover due to the fact that both management companies’ fiscal years end on January 31. Except for this income tax carryover, the use of the management companies does not provide an advantage with respect to the taxation of the income generated by the appellant’s business. What is deductible for the appellant is taxable for the management companies at the same federal taxation rate.
+[29] The comparison criteria used by the Minister, namely, the average of the salaries and bonuses paid during the three preceding years and increased to account for inflation and the management fee amounts paid in 2008 and 2010, are not relevant for determining whether the consideration paid by the appellant for the services received is reasonable in the circumstances. In addition, the use of management fees paid in respect of the 2010 fiscal year as a comparable is completely inappropriate given that they are based only on five months of the appellant’s operations.
+[30] In light of the foregoing, the management fees paid by the appellant in respect of the 2009 fiscal year are fully justified for the services obtained and are reasonable in the circumstances.
+[31] The appeal is allowed and the assessment dated January 11, 2013, is vacated.
+Signed at Ottawa, Canada, this 15th day of October 2015.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+On this 13th day of November 2015
+Margarita Gorbounova, Translator
+CITATION:
+2015 TCC 180
+COURT FILE NO:
+2014-1944(GST)I
+STYLE OF CAUSE:
+6051944 Canada Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+May 28, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+October 1, 2015
+DATE OF AMENDED REASONS:
+October 15, 2015
+APPEARANCES:
+Counsel for the appellant:
+Pierre McMartin
+Counsel for the respondent:
+Olivier Vinet-Gasse
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Pierre McMartin
+Firm:
+Beaudry, Bertrand
+Gatineau, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

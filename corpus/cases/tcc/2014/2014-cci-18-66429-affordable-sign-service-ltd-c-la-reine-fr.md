@@ -1,0 +1,197 @@
+---
+title: "Affordable Sign Service Ltd c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66429/index.do"
+last_modified: "2014-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 18"
+citation2: ""
+neutral_citation: "2014 CCI 18"
+decision_date: "2014-01-15"
+language: "fr"
+item_id: "66429"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5994
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:11:28.789000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7a814b5d724a6b70fa218e38f34eae0f067c7cd80e67db8fb7bd6d21b6ec388f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Affordable Sign Service Ltd c. La Reine
+
+- Citation: 2014 CCI 18
+- Decision date: 2014-01-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5994, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Affordable Sign Service Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-15
+Référence neutre
+2014 CCI 18
+Numéro de dossier
+2013-3045(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3045(IT)I
+ENTRE :
+AFFORDABLE SIGN SERVICE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 janvier 2014, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Représentant de l’appelante :
+M. Demetre Pomonis
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Ottawa (Ontario), ce 15e jour de janvier 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de février 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 18
+Date : 20140115
+Dossier : 2013-3045(IT)I
+ENTRE :
+AFFORDABLE SIGN SERVICE LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel interjeté en vertu de la Loi de l’impôt sur le revenu (la « Loi ») a trait à une perte déductible au titre d’un placement d’entreprise (« PDTPE ») que l’appelante, Affordable Sign Service Ltd., a déduite dans sa déclaration de revenus pour l’année d’imposition 2008.
+[2] L’appelante soutient qu’elle a droit à une déduction de 50 000 $ à l’égard de la perte de 100 000 $ qu’elle a subie au titre d’un investissement dans une société privée sous contrôle canadien (« SPCC »), soit Seahorse International Ventures Inc. (« Seahorse »). L’intimée allègue que l’investissement ne constitue pas une PDTPE pour plusieurs raisons, qui seront examinées plus loin.
+[3] Demetre Pomonis (« M. Pomonis ») et son fils Anthony Pomonis (« Anthony ») sont les seules personnes à avoir témoigné à l’audience.
+Le contexte
+[4] L’appelante exploite une entreprise d’installation et d’entretien d’enseignes. M. Pomonis exploitait l’entreprise pendant toute la période pertinente, et il est maintenant à la retraite. Il est l’unique actionnaire de la société.
+[5] M. Pomonis a témoigné qu’Anthony lui avait parlé d’une possibilité d’investissement dont il avait pris connaissance. Comme l’appelante disposait de fonds excédentaires, M. Pomonis a dit qu’il avait décidé de faire faire l’investissement à l’appelante.
+[6] M. Pomonis a déclaré qu’il ne savait pas grand-chose au sujet de l’investissement, que celui‑ci avait été conclu par l’échange d’une poignée de main sans que rien ne soit couché sur papier, et qu’il s’était entièrement fié à Anthony.
+[7] M. Pomonis a témoigné que l’investissement avait été effectué le 29 février 2008 et que les fonds devaient être remis à l’appelante avec 25 p. 100 d’intérêt quatre mois plus tard.
+[8] M. Pomonis a également déclaré dans son témoignage que les fonds n’avaient pas été retournés à l’appelante en temps voulu et qu’il avait demandé à Anthony de récupérer l’argent. Toutefois, selon ses dires, l’argent a été perdu.
+[9] M. Pomonis a aussi affirmé que, lorsqu’il avait rencontré son comptable en janvier 2009, celui-ci lui avait suggéré de déduire la perte subie à titre de PDTPE. Le comptable a fait en sorte que la déduction soit demandée dans la déclaration de revenus de l’appelante, qui a été produite par voie électronique.
+[10] Selon les renseignements relatifs à la déclaration de revenus qui ont été produits par l’intimée, l’appelante a demandé une déduction de 50 000 $ pour la perte, de sorte que, pour l’année, l’appelante a déclaré une perte de 402 $.
+[11] Anthony est entrepreneur de bâtiment. Il a témoigné qu’un ami commun lui avait parlé de l’investissement et l’avait présenté à Brent Davis. Apparemment, M. Davis faisait la promotion d’investissements pour le compte de Rodney Koch, qui était l’unique actionnaire de Seahorse.
+[12] En 2009, la Commission des valeurs mobilières de l’Alberta (la « Commission ») a été déclaré M. Koch coupable de violations en matière de valeurs mobilières qui avaient entraîné des pertes importantes pour les investisseurs. Les violations avaient trait à des opérations effectuées entre 2003 et 2007 avec Sea Sun Capital Corporation (« Sea Sun »), dont M. Koch était l’un des principaux actionnaires. À ma connaissance, les opérations ne concernaient pas Seahorse (2009 ABASC 256). Les conclusions de la Commission sont résumées dans le passage de la décision reproduit ci-dessous.
+[traduction]
+[123] Pendant plusieurs années (au moins de 2003 à 2007), Sea Sun a recueilli des millions de dollars auprès d’investisseurs, dont des Albertains, au moyen d’opérations et de placements portant sur des valeurs mobilières, sans inscription ni prospectus. Aucune dispense de prospectus ou d’inscription ne pouvait s’appliquer pour au moins une partie des activités. Sea Sun et M. Koch ont donc mené des activités illicites, et les trois défendeurs ont eu une conduite contraire à l’intérêt public.
+[124] Les investisseurs ont été incités à participer à des opérations portant sur des valeurs mobilières de Sea Sun en partie au moyen de déclarations répétées (écrites et verbales) qui étaient interdites ou bien trompeuses et erronées selon lesquelles Sea Sun était, ou serait sous peu, une société cotée, ce qui ne s’est en fait jamais produit. En faisant de telles déclarations, les trois défendeurs ont violé la Loi et ont eu une conduite contraire à l’intérêt public.
+[125] Il semble que, par suite de l’inconduite en l’espèce, les investisseurs ont perdu une partie ou la totalité de l’argent qu’ils avaient investi. Selon les investisseurs qui ont témoigné, les conséquences pour eux ont été graves, voire dévastatrices.
+[13] Anthony a témoigné qu’il avait rencontré M. Koch à son bureau à Kelowna, en Colombie-Britannique, où M. Koch avait incité Anthony et d’autres investisseurs à investir dans Sea Sun.
+[14] Anthony a dit qu’il avait su que d’autres investisseurs avaient fait beaucoup d’argent avec Sea Sun et qu’il avait décidé de recommander l’investissement à son père. À un certain moment, M. Koch avait demandé que les fonds soient investis dans Seahorse au lieu de Sea Sun. Anthony a dit que les investisseurs, dont lui‑même, n’étaient pas préoccupés par cette formalité.
+[15] Anthony a témoigné qu’il avait eu l’impression qu’il y avait eu une fraude dès que l’argent n’avait pas été remis au moment prévu quatre mois plus tard. Il a dit qu’il s’était [traduction] « renseigné immédiatement ». Anthony a aussi déclaré que, lorsque M. Davis et lui avaient communiqué avec M. Koch, on leur avait donné des réponses vagues et il avait eu la certitude qu’il s’agissait d’une fraude. Peu de temps après, il n’a plus été capable de joindre M. Koch. Il a affirmé que M. Koch s’était enfui aux États-Unis, où il se trouve à l’heure actuelle.
+Le régime législatif
+[16] Une PDTPE est une sorte de perte en capital qui bénéficie d’un traitement particulier, du fait que la moitié de la perte peut être déduite de n’importe quelle source de revenus. Généralement, les pertes en capital peuvent seulement être déduites des gains en capital.
+[17] Pour que l’appelante puisse demander une telle déduction à l’égard de son investissement dans Seahorse, elle doit satisfaire aux critères suivants :
+a) l’investissement doit prendre la forme d’une créance;
+b) Seahorse doit être une SPCC;
+c) Seahorse doit exploiter activement une entreprise;
+d) le contribuable doit avoir disposé de la créance en faveur d’une personne avec qui il n’a aucun lien de dépendance ou le contribuable doit établir que la créance s’est révélée être au cours de l’année une créance irrécouvrable;
+e) si la créance est une créance irrécouvrable, le choix requis au paragraphe 50(1) de la Loi doit être fait.
+Les questions en litige
+[18] Les questions à trancher sont énoncées dans la réponse. Il s’agit des questions suivantes :
+a) Le débiteur était-il une SPCC?
+b) Le débiteur exploitait-il activement une entreprise?
+c) L’investissement était-il une créance irrécouvrable en 2008 (ou a‑t‑il fait l’objet d’une disposition en faveur d’une personne avec qui il n’y avait aucun lien de dépendance)?
+d) L’investissement a-t-il été effectué en vue de tirer un revenu d’une entreprise ou d’un bien?
+e) Le choix requis au paragraphe 50(1) de la Loi a-t-il été fait?
+[19] Les exigences prévues par la Loi ne sont pas contestées. Je ne reproduirai donc pas les dispositions législatives pertinentes dans les présents motifs.
+[20] J’aimerais aussi brièvement faire remarquer que l’intimée a soulevé une autre question lors des plaidoiries, soit de savoir si l’investissement était de la nature d’une créance. J’ai conclu qu’il ne serait pas juste de trancher l’affaire sur ce fondement, parce que la question n’avait pas été soulevée dans la réponse à l’avis d’appel et qu’elle n’avait pas été soulevée avant les plaidoiries. Par conséquent, pour les besoins de la présente décision, j’ai tenu pour acquis que le ministre avait supposé à juste titre que l’appelante avait consenti une avance de 100 000 $ à Seahorse.
+[21] J’examinerai maintenant les autres questions.
+Seahorse était-elle une SPCC?
+[22] La veille de l’audience, l’appelante a fourni à l’intimée des documents établissant que Seahorse était une société canadienne qui appartenait à 100 p. 100 à M. Koch et que M. Koch était un résident du Canada.
+[23] Je conclurais que Seahorse était une SPCC, et je souligne que l’intimée a concédé ce point lors des plaidoiries.
+Seahorse exploitait-elle activement une entreprise?
+[24] Selon les dispositions législatives pertinentes, Seahorse devait exploiter activement une entreprise. L’intimée admet qu’elle a la charge de la preuve à l’égard de cette question parce qu’elle n’a formulé aucune hypothèse à ce sujet.
+[25] Très peu d’éléments de preuve ont été présentés à l’audience concernant Seahorse. Selon l’intimée, je devrais conclure que Seahorse n’était pas exploitée activement compte tenu des faits suivants :
+a) L’Agence du revenu du Canada n’a rien dans ses dossiers montrant que Seahorse a produit des déclarations de revenus fédérales.
+b) Seahorse n’a pas produit de déclaration annuelle des sociétés en Alberta pour l’année 2008 ou les années subséquentes. La société a été radiée du registre des sociétés en 2009 pour défaut de production de déclarations.
+c) Selon le témoignage d’Anthony, les négociations avaient été menées pour un investissement dans Sea Sun, et, à la dernière minute, M. Koch avait demandé que les fonds soient versés à Seahorse.
+d) Dans la décision de la Commission, il est mentionné que M. Koch a déclaré que Seahorse ne participait pas aux opérations sur valeurs mobilières. Dans un entretien que la Commission a eu avec M. Koch, ce dernier a déclaré que [traduction] « Seahorse a commencé à exploiter l’entreprise que Sea Sun a en fin de compte exploitée, et a affirmé que, après 2003, il n’avait utilisé Seahorse que pour diverses autres activités d’achat et de vente non liées de moindre importance ».
+[26] Les éléments de preuve qui précèdent ne sont pas suffisants pour établir que Seahorse n’exploitait pas activement une entreprise.
+[27] Le fait que Seahorse n’a pas produit les documents appropriés auprès du fisc ainsi que ceux qu’elle devait produire à titre de société n’est guère utile en l’espèce. Il ressort clairement de la décision de la Commission que M. Koch se soucie fort peu des obligations juridiques.
+[28] Ensuite, selon moi, le fait que les négociations puissent avoir initialement été menées pour un investissement dans Sea Sun n’a aucune valeur probante quant à la question à trancher. M. Koch avait peut‑être de très bonnes raisons de ne pas utiliser Sea Sun pour l’opération. Il semble qu’à l’époque, des soupçons planaient sur Sea Sun en raison de pertes que des investisseurs avaient subies. M. Koch jugeait peut‑être préférable que les fonds ne soient pas transférés à Sea Sun dans de telles circonstances.
+[29] De plus, le fait que M. Koch a mentionné au cours de l’enquête de la Commission que Seahorse effectuait de petites opérations d’achat et de vente donne plutôt à penser que Seahorse exploitait bel et bien activement une entreprise. Cela n’étaye pas la thèse de l’intimée sur ce point.
+[30] Par conséquent, je conclus que ces éléments de preuve n’établissent pas que Seahorse n’exploitait pas activement une entreprise.
+[31] Je tiens à mentionner un autre document sur lequel l’intimée ne s’est pas fondée. Il s’agit d’une lettre de M. Koch datée du 27 décembre 2013 qui a été fournie à l’appelante à l’appui des questions de fait soulevées dans le présent appel.
+[32] J’ai admis la lettre en preuve, non pas pour la véracité de son contenu, mais dans le but limité d’établir que M. Koch avait fourni un document qui aidait à établir que Seahorse était une SPCC. La lettre n’a pas été admise comme preuve de la véracité de son contenu parce que M. Koch n’était pas présent pour être contre‑interrogé à ce sujet. Par conséquent, la lettre n’est d’aucune utilité pour prouver que Seahorse exploitait activement une entreprise.
+[33] Compte tenu de ce qui précède, je conclus que l’intimée n’a pas établi que Seahorse n’exploitait pas activement une entreprise. L’appel ne sera pas rejeté pour ce motif.
+La créance a-t-elle été établie en vue de gagner un revenu et y avait-il une créance irrécouvrable?
+[34] Les deux questions sont examinées ensemble sous cette rubrique parce que l’analyse s’applique en grande partie aux deux questions.
+[35] L’une des questions est de savoir s’il y a une perte, que ce soit parce qu’il y a eu disposition de la créance en faveur d’une personne avec qui il n’y avait aucun lien de dépendance ou parce que la créance est devenue une créance irrécouvrable au cours de l’année d’imposition.
+[36] L’autre question est de savoir si la créance a été établie en vue de gagner un revenu.
+[37] C’est à l’appelante qu’il incombe de présenter une preuve suffisante à l’égard de ces questions. Pour les motifs exposés ci‑dessous, je conclus que la preuve n’est pas assez fiable pour que l’appelante puisse s’acquitter du fardeau qui lui incombe pour l’une ou l’autre des questions.
+[38] Tout d’abord, la preuve est presque essentiellement constituée du témoignage de M. Pomonis et d’Anthony. Il s’agit de témoignages intéressés qu’il convient d’examiner avec prudence. Il n’est pas erroné de se fonder uniquement sur un témoignage intéressé, mais, pour être jugé digne de foi, le témoignage doit être détaillé et convaincant. Il ne l’est pas.
+[39] Ensuite, l’appelante n’a pas appelé de personne non liée à témoigner, comme un autre investisseur, le promoteur M. Davis, ou le comptable ayant établi la déclaration de revenus. De plus, il n’y avait ni document écrit étayant les conditions de la créance, ni document appuyant la thèse de l’appelante selon laquelle Seahorse ne pouvait pas rembourser la créance.
+[40] L’appelante a cherché à déposer en preuve des lettres de M. Koch et de M. Davis à l’appui de sa cause. Cependant, ces documents ne sont guère utiles parce qu’aucun des deux hommes n’était présent pour être contre‑interrogé.
+[41] En outre, je juge qu’une partie du témoignage était invraisemblable. J’aurais eu besoin de beaucoup plus de précisions pour être convaincue que le témoignage était digne de foi. Je tiens à souligner quelques cas où cela a posé problème.
+[42] Tout d’abord, M. Pomonis prétend ne pas savoir grand‑chose au sujet de l’investissement et des tentatives faites pour récupérer l’argent. Cela me paraît étrange, d’autant plus que l’investissement semble être assez important pour une société de la taille apparente de l’appelante. À la lecture de la déclaration de revenus, je constate que la PDTPE a ramené le revenu de l’appelante à zéro et qu’une faible perte a été déclarée. Je me serais attendue à ce que, dans les circonstances, M. Pomonis s’intéresse davantage aux détails de l’investissement et des tentatives faites pour récupérer l’argent.
+[43] Anthony a témoigné que, pour évaluer l’investissement, il s’était fondé sur les renseignements selon lesquels d’autres investisseurs tiraient des bénéfices importants de leurs investissements auprès de M. Koch. Cette déclaration semble étrange, parce qu’à l’époque, M. Koch avait des problèmes avec d’autres investisseurs, lesquels avaient mené à l’enquête de la Commission. Il apparaît invraisemblable que M. Davis n’ait pas été au courant de ces problèmes. En outre, si M. Davis collaborait avec M. Koch pour commettre une fraude, il semble étrange qu’Anthony soit resté en bons termes avec M. Davis suivant le prétendu défaut de remboursement de la créance.
+[44] De plus, il y avait très peu de détails concernant les tentatives faites pour récupérer l’argent. Il ressort du témoignage qu’Anthony a rapidement conclu que l’investissement était frauduleux, et on ne sait pas avec certitude s’il a pris des mesures concrètes par la suite pour récupérer les fonds. Il me semble qu’Anthony aurait à tout le moins collaboré avec les autres investisseurs pour essayer de ravoir l’argent et qu’il aurait été au courant de ce que la police faisait pour s’occuper de l’affaire.
+[45] Je suis aussi préoccupée par le fait qu’Anthony a communiqué avec M. Koch, directement ou indirectement, pour obtenir une lettre à l’appui de l’appel. Si M. Koch était le méchant dans cette affaire, pourquoi Anthony ou M. Pomonis n’ont-ils pas pris d’autres mesures pour recouvrer la créance?
+[46] Compte tenu de l’ensemble du témoignage, je conclus que celui-ci n’était pas assez détaillé pour que je le juge digne de foi.
+[47] La preuve ne permet pas clairement de savoir quelles étaient les circonstances véritables de l’entente. M. Koch a peut-être fraudé l’appelante. Toutefois, il se peut aussi que l’opération n’ait pas du tout donné lieu à une perte et qu’elle ait été mise sur pied pour permettre à l’appelante de demander une déduction dans sa déclaration de revenus. Quoi qu’il en soit, l’appelante n’a pas établi le bien‑fondé apparent de la prétention selon laquelle la créance avait été établie en vue de gagner un revenu ou que la perte a été subie par suite d’une disposition ou en raison d’une créance irrécouvrable.
+Conclusion
+[48] Compte tenu de ces conclusions, je n’ai pas l’intention d’examiner la dernière question, soit celle de savoir si le choix visé au paragraphe 50(1) a été fait à l’égard d’une créance irrécouvrable.
+[49] L’appel sera rejeté.
+Signé à Ottawa (Ontario), ce 15e jour de janvier 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 13e jour de février 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2014 CCI 18
+NO DU DOSSIER DE LA COUR : 2013-3045(IT)I
+INTITULÉ : AFFORDABLE SIGN SERVICE LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 6 janvier 2014
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 15 janvier 2014
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Demetre Pomonis
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

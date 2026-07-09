@@ -1,0 +1,367 @@
+Title: Hughes v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231583/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-95-231583-hughes-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-01-20
+
+# Hughes v. The Queen
+
+- Citation: 2017 TCC 95
+- Decision date: 2017-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2133, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hughes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-20
+Neutral citation
+2017 TCC 95
+File numbers
+2016-465(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-465(IT)I
+BETWEEN:
+JAMES HUGHES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 20, 2017, at Toronto, Ontario,
+and additional written submissions filed after the hearing.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rachel Hepburn Craig
+JUDGMENT
+For the attached reasons for judgment, the appeal from the assessment made under the Income Tax Act (Act) for the 2013 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the federal penalty assessed is to be reduced by $25,000. [1]
+At the hearing, the Appellant said that he had made an application for taxpayer relief in respect of the penalty in issue and that it was rejected. Taxpayer relief applications are dealt with by the Canada Revenue Agency and any challenge to them is by way of judicial review to the Federal Court.
+The result of my judgment will be to trigger a new reassessment to implement it. I express no view on what would or should happen if the Appellant were to make a new taxpayer relief application with respect to what will then be the remaining balance of the penalty, but it seems to me that the Appellant has nothing to lose in asking. As I have noted in prior judgments, subsection 220(3.1) of the Act also allows the Minister to act on his own without application. If the Minister were so inclined, he could waive the balance of the penalty in the reassessment implementing this judgment.
+Signed at Ottawa, Ontario, this 29th day of May 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 95
+Date: 20170530
+Docket: 2016-465(IT)I
+BETWEEN:
+JAMES HUGHES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+[These amended reasons for judgment are issued in substitution
+for the reasons for judgment signed on May 29, 2017 and to correct
+the first line of paragraph 72 as well as the heading above the paragraph.]
+Jorré J.
+Introduction
+[1] The Appellant appeals from a repeated failure to file penalty with respect to the 2013 taxation year. The Appellant filed his return somewhat more than eight months after the date on which it should have been filed. This resulted in an assessed federal penalty of $29,225.45. [2]
+[2] Subsection 162(2) of the Income Tax Act (Act) creates a penalty for repeated failure to file an income tax return on time. What conditions must be met before the penalty is applicable?
+[3] That is the key question in this appeal. Given the differences between the French and English versions of the Act, this question is not as straightforward as it might seem on a quick read of the English version.
+[4] This case is a good illustration of the fact that a great many cases in the informal procedure are neither straightforward nor easy. [3]
+[5] Before the start of the hearing, having read the notice of appeal and the reply to the notice of appeal, this case seemed like it would be relatively straightforward. At the end of the argument, it appeared that there would be one predominantly factual issue to decide, whether the Appellant had exercised due diligence. Shortly after the end of the argument, it became apparent that there was a significant interpretation issue. That turned out to be far from the end of the surprises; when I had almost completed this judgment I discovered something quite significant.
+Background
+[6] Subsection 162(1) of the Act creates a penalty for failure to file on time. It applies when the person fails to file an annual income tax return at the time it is due, April 30, or June 15 in the case of individuals. [4] The penalty is equal to 5% of the person’s tax payable that was unpaid when the return was required to be filed plus 1% for each complete month of delay up to a maximum penalty of 17%. [5]
+[7] Subsection 162(2) of the Act creates a penalty for repeated failure to file on time, which is in issue here. It is quite an onerous penalty which starts at 10% of the tax payable that was unpaid when the return was required to be filed if the return is a day late and reaches a maximum of 50% when the return is more than 20 complete months late.
+[8] The English version of the provision reads as follows:
+162(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) to whom a demand for a return for the year has been sent under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection 162(1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[9] Based on the English version, the subsection appears to set out three conditions that must be met before the penalty applies:
+1. The person must fail to file his return of income as and when required by subsection 150(1).
+2. A demand for a return for the year must have been sent to the person under subsection 150(2).
+3. The person must, before the time of failure, have been liable for a penalty for a failure to file on time or for a repeated failure to file on time in respect of an income tax return for any of the three preceding taxation years.
+[10] The Appellant does not dispute that the conditions, as described immediately above, are met. [6]
+[11] The Appellant’s position is that he exercised due diligence in trying to file the return and for that reason the appeal should be allowed. It is well settled that if due diligence is shown the penalty is inapplicable.
+[12] There is no question as to the computation of the amount of the penalty.
+[13] At the end of the evidence and argument, I thought that I would probably be able to give my judgment later in the day. In the course of working through the matter, I concluded that important questions related to the English and French versions of the Act needed to be raised. As a result, the parties were asked to provide additional submissions in writing. I thank the parties for those submissions.
+[14] The first issue to decide is as follows: What are the necessary conditions for the application of the penalty for repeated failure to file? The second issue is whether those conditions have been met. Finally, if the conditions have been met, the Court must determine whether a successful due diligence defence has been made out.
+What are the Necessary Conditions?
+[15] The first question requires a careful examination of both the English and French versions of the Act:
+162(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) to whom a demand for a return for the year has been sent under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection 162(1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+162(2) La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes est passible d’une pénalité égale au total des montants suivants :
+(d) an amount equal to 10% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+a) 10 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+(e) the product obtained when 2% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+b) le produit de 2 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 20, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+[16] For our purposes, the essential portions of subsection 150(2) say:
+Every person . . . shall, on demand sent by the Minister, file, within such reasonable time stipulated in the demand . . . a return of the income for the taxation year designated in the demand.
+[Emphasis added.]
+[17] The subsection creates an obligation on the person to file his return within a specified reasonable time. The notice is simply the means by which that obligation can be created.
+[18] Given the obligation created by subsection 150(2), paragraph 162(2)(b) of the English text is surprising. It seems to only require that the notice be sent; it does not matter whether the taxpayer complies with the obligation created. Put another way, paragraph 162(2)(b) seems to focus on the triggering mechanism of subsection 150(2) and not the substantive obligation subsection 150(2) creates. It is difficult to imagine the rationale for this; the whole point of the Minister using subsection 150(2) is to create the obligation. [7]
+[19] Having said that, I do not disagree with the Respondent on the apparent plain meaning of the English text. Given my subsequent analysis, it is not necessary for me to decide if that plain meaning is the correct interpretation taking account of the English text alone. Although the history of subsection 220(3) of the Act makes this conclusion very doubtful, I am going to assume at this point in the reasons, without deciding, that it is the correct interpretation of the English text alone. [8]
+[20] The French version is rather different. First, I would note that whereas the conditions in English are broken down into three paragraphs the French version does not have such a breakdown. Secondly, there are some significant differences in the French that are underlined below:
+162(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) to whom a demand for a return for the year has been sent under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection 162(1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+. . .
+162(2) La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes est passible d’une pénalité égale au total des montants suivants :
+[…]
+[21] The Respondent takes the position that the English text is plain and unambiguous, that the text in paragraph 162(2)(b) only requires that the demand have been sent at some time in the past and that it does not require that it be sent prior to the deadline in subsection 150(1). As I explained above, without deciding the question, I am going to proceed on the basis that that is the correct interpretation of the English text read in isolation from the French.
+[22] The Respondent also argues that in the French text the words after “après avoir” create some ambiguity and should be interpreted in a manner consistent with the English text; the words “après avoir été mise en demeure de le faire conformément au paragraphe 150(2)” (emphasis added) should be interpreted to mean “qui a été mise en demeure de le faire conformément au paragraphe 150(2)” and that this has the same meaning as paragraph 162(2)(b) of the English text. I disagree.
+[23] Finally, the Respondent argues that the words “when the return was required to be filed” in paragraphs 162(2)(d) and (e) of the English text (and paragraphs 162(2)(a) and (b) of the French text) are a reference to the filing deadline provided for in subsection 150(1). Given my conclusions, it is not strictly necessary to decide what the time point referred to is. [9] However, I will discuss the question towards the end of these reasons.
+[24] Let us turn to whether the French text is the same as that in paragraph 162(2)(b) of the English text and why I do not agree with the Respondent.
+[25] The phrase “La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2)” (emphasis added) has a very different meaning from the English version.
+[26] Whereas paragraph 162(2)(b) in English is a condition on its own with respect to the person referred to in the opening words “Every person”, the words “après avoir été mise en demeure de le faire conformément au paragraphe 150(2)” do not set out a condition applying to just to “La personne”.
+[27] The words “après avoir été mise en demeure de le faire conformément au paragraphe 150(2)” are a clause qualifying all the preceding text of the subsection.
+[28] The structure of subsection 162(2) prior to paragraph (d) means that it, in effect, reads as if the preamble “Every person” is at the start of each of paragraphs (a), (b) and (c). It is as if it reads:
+162(2) Every person
+(a) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) Every person to whom a demand for a return for the year has been sent under subsection 150(2), and
+(c) Every person by whom, before the time of failure, a penalty was payable under this subsection or subsection 162(1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of...
+[29] Reading the French text in the same way produces:
+162(2) La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1),
+la personne après avoir été mise en demeure de le faire conformément au paragraphe 150(2) et
+la personne qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes
+est passible d’une pénalité égale au total des montants suivants…
+[30] The phrase “la personne après avoir été mise en demeure de le faire conformément au paragraphe 150(2)” simply makes no sense. That phrase and what precedes it have to be read as a whole.
+[31] Consequently, the French text of subsection 162(2) has to be read as follows:
+162(2) La personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) après avoir été mise en demeure de le faire conformément au paragraphe 150(2)
+et qui, avant le moment du défaut, devait payer une pénalité en application du présent paragraphe ou du paragraphe (1) pour défaut de production d’une déclaration de revenu pour une des trois années d’imposition précédentes
+est passible d’une pénalité égale au total des montants suivants…
+[32] The words “de le faire” (to do so) are clearly a reference to filing the return and “conformément au paragraphe 150(2)” (in accordance with subsection 150(2)) is a reference to complying with subsection 150(2); one complies with subsection 150(2) by filing the return within the reasonable time specified in the demand.
+[33] Unlike “to whom a demand for a return for the year has been sent” in paragraph 162(2)(b) of the English text which focuses on the simple sending of the demand, the French text, which does not have the separation of paragraphs (a) and (b) in English, focuses not only on missing the filing deadline of subsection 150(1) but simultaneously on the failure to comply with the substantive obligation created by the demand.
+[34] Roughly, the French text amounts, in English, to this:
+The person who fails to file a return of income for a taxation year as and when required by subsection 150(1) after having been given formal notice to do so in accordance with subsection 150(2)…
+[35] The contrast becomes even clearer if I substitute into the text what “to do so” and “in accordance with subsection 150(2)” mean:
+The person who fails to file a return of income for a taxation year as and when required by subsection 150(1) after having been given formal notice to file that return by the day specified in the formal notice… [10]
+[36] This is clearly very different from the English text.
+[37] The four requirements in the French text are as follows:
+1. The person must fail to file a return of income as and when required by subsection 150(1).
+2. A demand for a return for the year must have been sent to the person under subsection 150(2).
+3. The person must have failed to file his return within the reasonable period set out in the demand.
+4. The person must, before the time of failure, have been liable for a penalty for a failure to file on time or for a repeated failure to file on time in respect of an income tax return for any of the three preceding taxation years. [11]
+[38] Thus the French text requires an additional condition not required in the English text. The two texts cannot be reconciled.
+[39] As set out in subsection 18(1) of the Constitution Act, 1982 the English and French versions of our laws are equally authoritative and we must turn to the rules of interpretation of bilingual statutes.
+[40] In R. v. S.A.C., [12] the Supreme Court of Canada sets out the approach to be followed in interpreting bilingual statutes:
+14 The interpretation of bilingual statutes begins with a search for the shared meaning of the English and French versions. This Court has on a number of occasions discussed the appropriate approach for determining the shared meaning of English and French legislative provisions: see, e.g., R. v. Daoust, [2004] 1 S.C.R. 217, 2004 SCC 6; Schreiber v. Canada (Attorney General), [2002] 3 S.C.R. 269, 2002 SCC 62. In those cases, the Court adopted a two‑step approach.
+15 The first step is to determine whether there is discordance between the English and French versions of the provision and, if so, whether a shared meaning can be found. Where a provision may have different meanings, the court has to determine what kind of discrepancy is involved. There are three possibilities. First, the English and French versions may be irreconcilable. In such cases, it will be impossible to find a shared meaning and the ordinary rules of interpretation will accordingly apply: Daoust, at para. 27; P.-A. Côté, The Interpretation of Legislation in Canada (3rd ed. 2000), at p. 327. Second, one version may be ambiguous while the other is plain and unequivocal. The shared meaning will then be that of the version that is plain and unambiguous: Daoust, at para. 28; Côté, at p. 327. Third, one version may have a broader meaning than the other. According to LeBel J. in Schreiber, at para. 56, “where one of the two versions is broader than the other, the common meaning would favour the more restricted or limited meaning”.
+16 At the second step, it must be determined whether the shared meaning is consistent with Parliament’s intent: Daoust, at para. 30. In the penal context, courts must also ensure that any ambiguity is resolved in favour of the accused whose liberty is at stake (Marcotte v. Deputy Attorney General for Canada, [1976] 1 S.C.R. 108).
+[41] Given that we cannot reconcile the two texts, for the purposes of the first step set out in paragraph 15 of S.A.C., we are in the first case set out by the paragraph and “it will be impossible to find a shared meaning and the ordinary rules of interpretation will accordingly apply”.
+[42] As set out by the Supreme Court in Canada Trustco Mortgage Co. v. Canada: [13]
+10 . . . The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[43] Bearing this in mind, let us consider the context of the relevant parts of the Act and its purpose.
+[44] The first part of the Respondent’s argument in respect of the scheme and purpose of the Act is:
+10. The purpose of the demand can be determined by looking at subsection 162(2) as a whole and its interaction with subsection 150(1). Subsection 150(1) specifies deadlines for the filing of tax returns. Subsection 150(1.1) identifies various exceptions to the statutory filing deadline, including an exception for individuals who did not have any tax payable in the year.
+11. For a taxpayer falling within the subsection 150(1.1) exception, the Minister cannot know whether the first requirement in paragraph 162(2)(a) has been met unless and until a return is actually filed. Further, the penalty amount cannot be calculated since it is based upon the person’s “tax payable” for the year (as per paragraphs 162(2)(d) and (e)). Consequently, a subsection 150(2) demand for a return can result in the necessary information.
+12. Non‑compliance with the demand is not a prerequisite to the application of a repeated failure to file penalty. If it were, a taxpayer could fail to file as and when required under subsection 150(1) but nonetheless avoid a subsection 162(2) penalty merely by waiting for and complying with the demand. This would have the unexpressed and unintended consequence of providing an extension of time to the statutory filing deadline under subsection 150(1).
+[45] I do not disagree with the statements in paragraphs 10 and 11 of the Respondent’s argument but I am not certain how this helps support the Respondent’s position.
+[46] As to paragraph 12 of the Respondent’s argument, it is true that if failing to comply with the demand is a prerequisite, then a person who complies with the demand would avoid the subsection 162(2) penalty. However, if that is a requirement of the Act before the penalty can be applied, then that is simply the correct result under the Act.
+[47] Turning to the submission that “[t]his would have the unexpressed and unintended consequence of providing an extension of time to the statutory filing deadline under subsection 150(1)”, I am unable to understand why this would be the case. Nothing in subsections 162(2) or 150(2) suggests that there is an extension of the statutory filing date under subsection 150(1). Subsection 150(2) does not override the filing obligation in subsection 150(1); it creates an additional obligation to comply with the demand. [14] If a person files late, the person remains liable for the subsection 162(1) penalty computed, in the case of an individual for example, as of April 30 or June 15.
+[48] The Respondent further argues that the penalty is to be computed from the statutory filing deadline in subsection 150(1). Although it is not necessary for me to decide this in the circumstances, I will discuss this question later. [15]
+[49] Subsection 162(2) in its current form was deemed to come into force on September 13, 1988. [16] Prior to that date, subsection 162(2) was quite different.
+[50] The enactment of subsection 162(2) was part of a scheme modifying and reorganizing penalties; those changes arose as part of the much broader changes proposed in the 1987 White Paper Tax Reform and are important to a “textual, contextual and purposive analysis” of the legislative provisions.
+[51] The new subsection 162(2) replaced the then existing subsection 163(1) which read as follows:
+163(1) Wilful failure to file return — Every person who wilfully attempts to evade payment of the tax payable by him under this Part by failing to file a return of income as and when required by subsection 150(1) is liable to a penalty of 50% of the amount by which
+(a) the tax sought to be evaded
+exceeds
+(b) that portion of the amount deemed by subsection 120(2) to have been paid on account of his tax under this Part that is reasonably attributable to the amount referred to in paragraph (a). [17]
+[52] Under the old subsection 163(1), wilfully attempting to evade payment of the tax payable by failing to file a return was clearly a serious matter. It was a straight 50% penalty and the words “wilfully attempts” set a high test. The burden of proof of establishing the facts justifying the assessment rested on the Minister pursuant to subsection 163(3). [18]
+[53] Under the old provision, the “tax sought to be evaded” was no doubt a question of fact but logically could not include any amount that had already been paid by instalment or withheld by the payer and remitted to the Minister. Thus the 50% penalty it provided for applies to an amount that is the same or no greater than the amount of unpaid tax that current subsection 162(2) applies to.
+[54] This was replaced by the current subsection 162(2): [19]
+162(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) to whom a demand for a return for the year has been sent under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection 162(1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[55] It is useful to compare the two subsections:
+1. Subsection 162(2) has just as high a penalty after the 20‑month delay as the old subsection 163(1) although for the first 20 months it is a lesser amount that builds up monthly.
+2. It is much easier to demonstrate the conditions required by subsection 162(2) than to demonstrate that someone “wilfully attempt[ed] to evade payment of the tax payable by him under this Part by failing to file a return” required by the old subsection 163(1).
+3. It is hard to imagine that the old subsection 163(1) could have been successfully applied where the taxpayer was only a few months late. [20]
+4. In addition, the onus on the Minister created by subsection 163(3) has no application to the new provision which is in section 162.
+[56] If the apparent plain meaning of the English text is the correct interpretation of the provision, then Parliament has eliminated a penalty for “wilfully attempts to evade payment of the tax payable by him under this Part by failing to file a return” and replaced it with a penalty applicable where (i) filing late in the year, (ii) having filed late once in the previous three years and (iii) the Minister sending a demand, whether or not there is compliance with the demand, triggers a penalty that is almost as severe.
+[57] These conditions in the English text widen the application of the penalty in comparison with the French text that requires, in addition, a fourth condition: that the taxpayer fail to comply within the reasonable time set out in the demand. Although the French text has an additional condition that the English text does not appear to have, it too is nonetheless applicable much more easily than the old subsection 163(1). It is a lot easier to show that a demand has been sent and not complied with than to show that someone has wilfully attempted to evade payment of tax by failing to file. [21]
+[58] The scheme of the Act is that, for example, individuals must file on the April 15 or June 30. If they file late and there is a balance owing, they are liable to a penalty under subsection 162(1). The Minister may, pursuant to subsection 150(2), demand a return from them and in that demand the Minister must set a reasonable time period within which the taxpayers must file a return. That demand creates a new additional obligation to file a return.
+[59] Where an individual has been late in filing in at least one of the three previous years, the individual may be liable for an additional penalty under subsection 162(2). The subsection 162(2) penalty, a fairly severe one, was enacted in replacement of a previous one which was for wilful attempt to evade payment of the tax payable by failing to file a return (subsection 163(1), as it then was). It is much easier to show the necessary elements of a subsection 162(2) penalty than the prior subsection 163(1) penalty.
+[60] Another indicator of how serious the subsection 162(2) penalty is, is the fact that it can be up to 50%, the same level of penalty as that in subsection 163(2), the penalty for making false statements wilfully or under circumstances amounting to gross negligence. [22]
+[61] The English language version of the text of subsection 162(2) seems to simply require that the demand be sent and nothing more; the French language version requires that the person fail to file the return within the time limit set out in the demand.
+[62] It is hard to see what purpose is served if all that is required is that the Minister send the demand and nothing more. [23]
+[63] When one considers the scheme and purpose of these provisions, as well as their history, the French language text which focuses on compliance with the demand, rather than the mere sending, is clearly more consistent with the scheme.
+[64] As a result, on “a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole”, [24] the French language version reflects the proper interpretation of the subsection. Subsection 162(2) cannot apply unless the taxpayer has failed to file within the time period set out in the demand.
+[65] I might add that I can understand how the Canada Revenue Agency (CRA) came to apply the provision as it did. Looking at the English language text alone, I initially started with the same understanding. [25]
+Nedza Enterprises
+[66] Before continuing, I should briefly discuss the interesting case of Nedza Enterprises Ltd. v. Canada Revenue Agency [26] that the Respondent brought to my attention.
+[67] Nedza’s tax return for 2007 was due on November 30, 2007. On June 3, 2008 the CRA issued a demand to file to Nedza; Nedza requested extensions twice with respect to the date set out in the demand and was granted extensions. Finally, on November 15, 2008, one day prior to the last day of the second extension, Nedza filed its 2007 tax return.
+[68] The Minister assessed both the late filing penalty under subsection 162(1) and the repeat failure to file penalty under subsection 162(2). Nedza made a request for relief from the subsection 162(2) penalty to the Minister pursuant to subsection 220(3.1); no relief was sought from the subsection 162(1) penalty.
+[69] The Minister turned down the request and Nedza sought judicial review in the Federal Court; Nedza was unsuccessful.
+[70] I do not disagree with the decision in Nedza given what was raised; however, I do not see how this assists the Respondent insofar as the question of the difference between the English language and French language texts of the Act that I have just examined was simply not raised in Nedza.
+[71] I will return to Nedza in a moment.
+Conclusion as to the Conditions that are Required Before a Subsection 162(2) Penalty can Apply
+[72] To summarize, subsection 162(2) can only apply where all four of the following conditions are met:
+1. The person must fail to file a return of income as and when required by subsection 150(1).
+2. A demand for a return for the year must have been sent to the person under subsection 150(2).
+3. The person must have failed to file his return within the reasonable period set out in the demand.
+4. The person must, before the time of failure, have been liable for a penalty for a failure to file on time or for a repeated failure to file on time in respect of an income tax return for any of the three preceding taxation years.
+Have the Four Conditions been Met?
+[73] The Appellant does not contest that the first, second and fourth conditions were met. The remaining question is whether the Appellant failed to file a return within the time stipulated in the demand.
+[74] Has the taxpayer filed within the time period stipulated in the demand? The Respondent submits that there is no evidence that the Appellant complied with the deadline contained in the demand and there is no evidence that the Appellant requested or received an extension of time to comply with the demand.
+[75] However, given that the Respondent did not plead that it made an assumption or finding of fact that the Appellant failed to comply with the time limit in the demand, there was no onus on the Appellant to prove that he did. It was for the Minister to demonstrate that this requirement of the penalty was met.
+[76] In addition, in this particular case, I would note paragraph 17 of the Minister’s reply to the notice of appeal, which says: “Subsequent to the Minister’s demands, the Appellant filed his 2013 income tax return in accordance with subsection [150(2)] of the Act.” [27]
+[77] Although it is in part C of the reply, it does seem like an allegation of fact and one would naturally conclude from the words “in accordance with” that the Appellant did indeed file within the period stipulated in the demand. Obviously, an allegation is not proof of the fact; however, from a point of procedural fairness the Appellant could not, given paragraph 17 of the reply, expect that he needed to prove that he had complied in a timely way.
+[78] It follows that it has not been demonstrated that the preconditions to the application of subsection 162(2) have been met and, accordingly, the appeal must be allowed.
+Due Diligence
+[79] It is not really necessary that I deal with due diligence, but I will set out in a short annex why I conclude that there was no due diligence by the Appellant with respect to filing his return by the due date set out in subsection 150(1).
+[80] While this is sufficient to dispose of the appeal, I think it is quite important to make the additional comments below.
+Additional Comments Resulting from the Evolution of Subsection 220(3)
+[81] I discovered what follows when these reasons were close to complete and was obliged to make some modest changes in what I had already written, but the key points that arise are below. [28]
+[82] I decided for completeness to see if Nedza had been discussed by any other case; while I found no such cases, I found the following in David Sherman’s notes to subsection 162(2) in TaxPartner: [29] “. . . the FCA allowed the company’s appeal on consent, after the Court drew the parties’ attention to the 2006 amendment to 220(3): A-199-10.” [30] At the Federal Court of Appeal website one can confirm this by doing a search in proceeding queries and, in particular, one finds:
+Written directions of the Court: The Honourable Mr. Justice Nadon dated 18‑JAN-2011 directing “The parties are requested to address at the hearing the 2006 amendment to subsection 220(3) of the Income Tax, in light of the following comment in Annex 3, Tax Measures: Supplementary Information, produced by the Department of Finance Canada in relations to the 2006 budget: ... .”
+[83] The evolution of subsection 220(3) of the Act is as follows:
+1. In respect of extensions granted prior to February 19, 2003, it read:
+The Minister may at any time extend the time for making a return under this Act.
+2. In respect of extensions granted after February 18, 2003 and prior to April 1, 2007, it read:
+The Minister may at any time extend the time for making a return under this Act. However, the extension does not apply for the purpose of calculating a penalty that a person is liable to pay under section 162 if the person fails to make the return within the period of the extension.
+[Emphasis added.]
+3. In respect of extensions granted after March 31, 2007, the current version, it reads:
+The Minister may at any time extend the time for making a return under this Act.
+[84] The first two paragraphs of the technical note with respect to the change that took effect after March 31, 2007 read as follows: [31]
+Subsection 220(3) provides that while the penalty for making a late return will not be charged if the person files the return within the extended period the Minister of National Revenue has granted, the penalty for filing late return will be charged from the regular filing-due date if the return is not filed within the period so extended.
+This subsection is amended to provide that a penalty for making a late return will be charged only after the extension period has expired.
+[Emphasis added.]
+[85] What does this history tell us about the scheme of the Act? First, I note that the Minister can extend the time for any return, including the return an individual has to file and a return that is required under a demand. I would note that the obligation to file, on April 30 or June 15 in the case of individuals, the filing due date, and the obligation to file in response to a demand are two separate obligations. The obligation in the demand does not extinguish the obligation to file on the filing due date; the date set out in the demand is not a time extension of the original due date.
+[86] Given the history of subsection 220(3) above, it is clear that where a time extension is granted in respect of the filing due date, [32] a taxpayer who files within the extend time cannot be liable for a penalty. Further, if he misses the extended deadline the penalty only applies from that date.
+[87] It is also clear that if a demand has been made, for the purposes of a subsection 162(2) penalty, a time extension granted after February 18, 2003 and prior to April 1, 2007 in respect of the date specified in the return will result in no penalty being levied if the extended delay is complied with. [33]
+[88] In the same situation where the time extension is granted after March 31, 2007, no penalty can be levied if the extended delay is complied with. Further, it is clear, from the words removed from subsection 220(3) with respect to a time extension granted after March 31, 2007 and from the technical notes cited above, that if the extended deadline is missed, the subsection 162(2) penalty will only be calculated as of the extended deadline.
+[89] What is also clear from the history and the technical notes I have just discussed is that the scheme of subsection 220(3) is based on the penalty being computed from the date by which the demand requires the taxpayer to file or the extended date.
+[90] This is consistent with the result I have already reached above.
+Conclusion
+[91] To conclude, the necessary requirements of the subsection 162(2) penalty are not made out and the appeal should be allowed. However, because of the jurisdictional limit of $25,000 for the informal procedure, I can only reduce the penalty by $25,000. [34] Accordingly, the appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty assessed is to be reduced by $25,000 from $29,225.45 to $4,225.45.
+Signed at Ottawa, Ontario, this 30th day of May 2017.
+“Gaston Jorré”
+Jorré J.
+ANNEX
+Due Diligence
+1. In Résidences Majeau Inc. v. Canada, 2010 FCA 28, Justice Létourneau states:
+8 According to Corporation de l’école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+. . .
+10 As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+2. Since no question of mistake of fact arises, the only question that arises for our purposes here is whether the Appellant took all reasonable precautions to avoid the failure to file on his due date for the 2013 income tax return, June 16, 2014.
+3. The Appellant was about six and a half months and about 10 months late in filing his returns for the 2010 and 2011 taxation years.
+4. The Appellant’s 2013 return was filed on February 23, 2015, approximately nine months late.
+5. The Appellant and his wife owned real property in Arizona which they sold on September 16, 2013. He received the net proceeds in 2013.
+6. The Appellant testified that he spoke to his accountant at that time prior to the due date for his 2013 income tax return. It is not clear on the evidence when exactly this occurred.
+7. His accountant said that he needed to file a U.S. tax return before the accountant could prepare a Canadian return. That accountant had no relationship to any U.S. accounting firm and, as a result, the Appellant found a second accountant with a relationship to a U.S. accounting firm. Both Canadian accountants were chartered accountants.
+8. It is not clear when the Appellant contacted the second accountant. There are in evidence emails from October 2014 to or from that accountant so we know that it was prior to that.
+9. The Appellant also explained that, before the accountants could determine whether there was a U.S. tax liability and, if so, what that might be, he needed a certain form that had to be completed by the title insurance company in Arizona. The form contains a variety of financial information regarding the sale.
+10. He testified that he kept calling the title company to send him the form. It is not clear when he began calling. They would promise to send it but then kept failing to do so. Finally, by email on September 29, 2014, they sent the form.
+11. The Appellant also testified that no one told him that it was possible to file an estimated return. He also testified that there was a six to eight week period when he was really busy because in addition to his usual work he had to stay home for six to eight weeks to help his wife who was recovering from surgery and take care of their granddaughter who was with them in that period.
+12. Neither of his accountants testified.
+13. The Appellant was well aware of the fact that the Income Tax Act requires compliance by the relevant due date given that late filing penalties pursuant to subsection 162(1) had been levied upon him for two of the prior three years. One would have expected the Appellant to start quite early the process of dealing with his accountant. This is particularly true since he knew he would have to deal with the gain on the sale of the U.S. property.
+14. One would expect the Appellant to ask what he could do to avoid a penalty that year when his initial discussion with the accountant suggested that there might be a problem. Alternatively, he could have asked the Canada Revenue Agency.
+15. One would expect the accountant, in response, to urge upon him prompt action and, if necessary, an estimated return. [35] Indeed, one would expect an accountant to urge him to file an estimate even if not asked.
+16. The Appellant had information enabling him to determine the amount of his taxable capital gain or a pretty good estimate of it. He knew what he paid for the house, what he had expended on the house, what the sale price was and the net amount he received. He would also have known the amount of the real estate commission.
+17. The only key missing information was the amount of his U.S. tax liability, if any.
+18. In these circumstances, I am not satisfied that all reasonable measures were taken by the Appellant.
+CITATION:
+2017 TCC 95
+COURT FILE NO.:
+2016-465(IT)I
+STYLE OF CAUSE:
+JAMES HUGHES v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 20, 2017
+DATE OF FILING OF WRITTEN SUBMISSIONS:
+Appellant: March 22 and April 15, 2017
+Respondent: March 24 and May 8, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+May 29, 2017
+DATE OF AMENDED REASONS FOR JUDGMENT:
+May 30, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rachel Hepburn Craig
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] I have no way of knowing whether an equivalent penalty was levied under the Income Tax Act of Ontario and I do not, in any event, have any jurisdiction with respect to the Income Tax Act of Ontario. However, it is likely that a corresponding penalty was levied under the Income Tax Act of Ontario. My understanding of the normal CRA practice is that in a situation such as this, when reassessing to reduce the federal penalty, the CRA would make a logically consistent adjustment to the provincial penalty.
+[2] In order to stay within the monetary limit of the informal procedure, the Appellant elected to limit his claim to $25,000. See section 2.1, subsection 18(1) and section 18.l of the Tax Court of Canada Act.
+In writing these reasons for judgment I noticed that there was no evidence either by way of testimony or documents to confirm the amount of the penalty assessed and in issue, apparently $29,225.45. In paragraph 4 of the notice of appeal the Appellant asserts that that is the amount; in paragraph 32 he also asserts that: “The CRA, in the assessment, imposed a late-filing penalty of $29,225.45. The assessment stated that the amount of the penalty was 26% of the unpaid tax as of June 15, 2014.” The reply to the notice of appeal, which was not prepared by Justice counsel, does not deal at all with paragraph 4. The reply, in paragraph 2, states: “He has no knowledge and puts into issue the facts in paragraphs . . . 32 of the notice of appeal.”
+Given that at the hearing the taxpayer’s number was never disputed and given that subsection 18.15(3) of the Tax Court of Canada Act says “[n]otwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit”, I am simply going to assume that $29,225.45 is correct. Insofar as the reply does not deal with paragraph 4, my approach is consistent with subsection 49(2) of the Tax Court of Canada Rules (General Procedure) that says: “All allegations of fact contained in a notice of appeal that are not denied in the reply shall be deemed to be admitted unless it is pleaded that the respondent has no knowledge of the fact.”
+Although the Tax Court of Canada Rules (Informal Procedure) have no rule covering this point, the general procedure rule makes sense and should be applied here. As for the statement in the reply that the Respondent has no knowledge and puts in issue paragraph 32 of the notice of appeal, it may safely be ignored for the simple reason that it is clearly erroneous; the Minister has to know what was or was not assessed.
+[3] In many ways the informal procedure might better be described as the expedited procedure. The procedure saves costs and time by not having any form of discovery; the Tax Court of Canada Act provides a certain amount of flexibility in the conduct of the hearing that is not available in a general trial process. However, that does not mean that there are not all the potential difficulties of an ordinary trial when it comes to fact-finding and/or applying the law. In addition, given that a great number of appellants are unrepresented and that it would appear that the Respondent is under-resourced in relation to the task it has to carry out, there are often additional difficulties.
+[4] The June 15 deadline applies to self‑employed persons.
+[5] Subsection 162(1) reads as follows :
+162(1) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+[6] As will be discussed below, on its face the condition in paragraph 162(2)(b) does not appear to make any distinction based on whether or not the taxpayer has complied with the timeline in the demand.
+[7] Imagine the demand is made on day one, giving a reasonable period to comply. By sheer coincidence the return is filed on day two. On the plain meaning the penalty appears to apply. Indeed, arguably, since on the plain meaning paragraph 162(2)(b) does not stipulate when the demand must be made, the penalty is applicable even if the demand were made after the return was filed so long as the two other conditions were met; I rather doubt that would be the correct interpretation, but it is not necessary to decide the point.
+[8] My reason for raising the question is this. In Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, the Supreme Court of Canada provides the following useful summary of the principles of statutory interpretation as applied to the Act:
+21 In Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, this Court rejected the strict approach to the construction of taxation statutes and held that the modern approach applies to taxation statutes no less than it does to other statutes. That is, “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament” (p. 578): see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. However, because of the degree of precision and detail characteristic of many tax provisions, a greater emphasis has often been placed on textual interpretation where taxation statutes are concerned: Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC 54, at para. 11. Taxpayers are entitled to rely on the clear meaning of taxation provisions in structuring their affairs. Where the words of a statute are precise and unequivocal, those words will play a dominant role in the interpretive process.
+22 On the other hand, where the words of a statute give rise to more than one reasonable interpretation, the ordinary meaning of words will play a lesser role, and greater recourse to the context and purpose of the Act may be necessary: Canada Trustco, at para. 10. Moreover, as McLachlin C.J. noted at para. 47, “[e]ven where the meaning of particular provisions may not appear to be ambiguous at first glance, statutory context and purpose may reveal or resolve latent ambiguities.” The Chief Justice went on to explain that in order to resolve explicit and latent ambiguities in taxation legislation, “the courts must undertake a unified textual, contextual and purposive approach to statutory interpretation”.
+23 The interpretive approach is thus informed by the level of precision and clarity with which a taxing provision is drafted. Where such a provision admits of no ambiguity in its meaning or in its application to the facts, it must simply be applied. Reference to the purpose of the provision “cannot be used to create an unexpressed exception to clear language”: see P.W. Hogg, J.E. Magee and J. Li, Principles of Canadian Income Tax Law (5th ed. 2005), at p. 569; Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622. Where, as in this case, the provision admits of more than one reasonable interpretation, greater emphasis must be placed on the context, scheme and purpose of the Act. Thus, legislative purpose may not be used to supplant clear statutory language, but to arrive at the most plausible interpretation of an ambiguous statutory provision.
+[Emphasis added.]
+Given the context of the statutory context and purpose of the provision, one might conclude that there is a “latent ambiguity” as described by McLachlin C.J. in paragraph 22 quoted above. Given my conclusion below based on the examination of the English and French texts, it is not strictly necessary to examine this question; however, from the discussion of the scheme of the Act below, it will be apparent why this question arises and why it is likely that there is latent ambiguity, even when examining the English language text alone.
+[9] If there were only paragraphs 162(2)(d) and (e) of the English text and the equivalent of the French text, perhaps I would agree. However, as it will be explained later in these reasons, that would likely be the wrong conclusion although it is, in the circumstances of this case, not necessary to determine the question.
+It is unnecessary to examine the third condition, contained in paragraph 162(2)(c) in the English text, for the simple reason that there is no difference between the two texts.
+[10] I would note that in interpreting the French text one must exclude absurd interpretations. Thus one excludes the idea that the words starting with “après” require that the demand be made prior to the filing date required by subsection 150(1); given the scheme of the Act requiring an individual to file without notice unless no tax is owing, that makes no sense. Similarly, given that the failure is a failure to file after having been given notice to file the return by the day specified in the formal notice, the relevant date of failure has to be the date specified in the formal notice by which the return must be filed for the purposes of subsection 162(2); to read the French text otherwise, as requiring filing by April 30 or June 15 of the year following the taxation year in question, would be requiring of the individual who receives the demand to do what is impossible at the time of the demand.
+[11] There may be in any given case a further issue as to whether the period in the demand was reasonable. It is unnecessary to deal with that question in this case.
+[12] 2008 SCC 47.
+[13] 2005 SCC 54. More generally there is a useful discussion of the principles of statutory interpretation in chapter 19 in P.W. Hogg, J.E. Magee and J. Li, Principles of Canadian Income Tax Law, 8th ed. — CD‑ROM version of TaxPartner 2017 — Release 4.
+[14] Subsection 150(2) reads:
+Every person, whether or not the person is liable to pay tax under this Part for a taxation year and whether or not a return has been filed under subsection (1) or (3), shall, on demand sent by the Minister, file, within such reasonable time stipulated in the demand, with the Minister in prescribed form and containing prescribed information a return of the income for the taxation year designated in the demand.
+[15] I note that the Respondent brought to my attention the interesting case of Nedza Enterprises Ltd. v. Canada Revenue Agency, 2010 FC 435. I will deal with Nedza later.
+[16] S.C. 1988, c. 55, s. 141.
+[17] See the 1988 Technical Notes as retrieved in the CD‑ROM version of TaxPartner 2017 — Release 4. The note for subsection 162(1) says:
+Subsection 162(1) imposes a penalty for failure to file a tax return as required by subsection 150(1). The penalty is 5% of the unpaid tax as of the return due date plus 1% of such unpaid tax per month of default not exceeding 12 months. Subsection 163(1) imposes a penalty of 50% of the tax sought to be evaded for wilful failure to file a tax return. Existing subsections 162(1) and 163(1) are amended to provide a two-tier penalty for failure to file a return as required under subsection 150(1). New subsection 162(1) is, except for grammatical changes, the same as existing subsection 162(1).
+[18] At the time, subsection 163(3) was substantially the same as today and read:
+(3) Where, in any appeal under this Act, any penalty assessed by the Minister under this section is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[Emphasis added.]
+[19] The only difference between the subsection as amended with effect from September 13, 1988 and the present subsection is that the word “sent” has replaced “served” in paragraph 162(2)(b).
+[20] It would probably have required unusual circumstances such as an admission by the taxpayer.
+[21] For completeness, I note that the criminal provision that covers failing to file when and as required by the Act, subsection 238(1) of the Act, reads as follows:
+238(1) Every person who has failed to file or make a return as and when required by or under this Act or a regulation or who has failed to comply with subsection 116(3), 127(3.1) or (3.2), 147.1(7) or 153(1), any of sections 230 to 232, 244.7 and 267 or a regulation made under subsection 147.1(18) or with an order made under subsection (2) is guilty of an offence and, in addition to any penalty otherwise provided, is liable on summary conviction to
+(a) a fine of not less than $1,000 and not more than $25,000; or
+(b) both the fine described in paragraph 238(1)(a) and imprisonment for a term not exceeding 12 months.
+[Emphasis added.]
+While the subsection does allow for the possibility of imprisonment, the maximum fine provided for $25,000 is less than the fine in our case. It is, however, in addition to any other fine.
+[22] The penalty in subsection 163(2) was increased from 25% to 50% by S.C. 1988, c. 55, s. 142, the same legislation that enacted the subsection in issue, subsection 162(2).
+[23] If failing to respond to the demand does not matter, why is the condition in paragraph 162(2)(b) needed at all?
+[24] Canada Trustco, 2005 SCC 54, paragraph 10.
+[25] What led me to read the French language text was that, at some point in reading the English soon after the end of argument, it struck me as odd that one would require the sending of the demand but take no account of whether it was complied with.
+[26] 2010 FC 435.
+[27] While the reply says subsection 152(2) of the Act, the number “2” is clearly a typographical error since subsection 152(2) is not relevant to the debate here. Accordingly, I have corrected the said error.
+[28] In an ideal world, I would have invited comments from the parties. However, given that what follows could not change the result but supports the result and given subsection 18.15(3) of the Tax Court of Canada Act, I decided that the best course was simply to add these comments.
+[29] CD-ROM version 2017 — Release 4.
+[30] Of course, neither Nedza nor the fact that the appeal was allowed on consent contains anything that is binding on me in the context of this appeal. However, subsection 220(3), which was raised by the Federal Court of Appeal, is very relevant.
+Although it is probably rather rare for an appeal from a trial decision to the Court of Appeal to be allowed on consent, it does happen. Years ago I was involved as counsel in a case, Akman Management Ltd. v. M.N.R., 85 D.T.C. 7, where the appeal was allowed, in part, on consent.
+[31] See the June 2006 Technical Notes retrieved in the CD-ROM version of TaxPartner 2017 — Release 4.
+[32] That is to say the date required by subsection 150(1).
+[33] I note that the words removed from subsection 220(3) with effect after March 31, 2007 referred to all of section 162 and not just subsection 162(1).
+[34] See the first paragraph of footnote 1.
+[35] Or, alternatively, at least seek a time extension.

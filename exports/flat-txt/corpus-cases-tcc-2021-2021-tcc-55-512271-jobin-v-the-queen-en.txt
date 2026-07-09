@@ -1,0 +1,110 @@
+Title: Jobin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/512271/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-55-512271-jobin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-08-25
+
+# Jobin v. The Queen
+
+- Citation: 2021 TCC 55
+- Decision date: 2021-08-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4465, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jobin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-08-25
+Neutral citation
+2021 TCC 55
+File numbers
+2021-255(GST)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2021 TCC 55
+Date: 20210825
+Docket: 2021-255(GST)I
+BETWEEN:
+CHRISTIANE JOBIN AND ROGER COUTURE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+ORDER AND REASONS FOR ORDER
+Jorré D.J.
+[1] The respondent filed an application for an order of the Court granting the respondent leave to file her reply to the notice of appeal despite the expiration of the period for doing so.
+[2] The respondent requested that the application be disposed of upon consideration of written submissions, and the appellants also filed written submissions.
+[3] The appellants object to the application.
+[4] The essential facts are as follows:
+The deadline for filing the reply was April 16, 2021;
+Counsel for the respondent completed the reply on April 8, 2021;
+The reply to the notice of appeal was served on the appellants on April 12, 2021;
+Counsel for the appellant gave instructions for the reply to be filed with the court registry by April 16, 2021, but despite those instructions, a misunderstanding resulted in the notice of appeal not being filed until April 21, 2021;
+A letter was sent to the appellants on April 23, 2021, requesting their consent to the late filing of the notice of appeal;
+The appellants did not consent to the late filing; and
+On April 27, 2021, the respondent filed a notice of application for an extension of time to file the reply.
+[5] This Court may allow the filing of a reply before or after the normal period for filing a reply to the notice of appeal: see section 18.16 of the Tax Court of Canada Act.
+[6] The appellants object on three grounds. First, they object because the Agence du Revenu du Québec has thousands of employees who must necessarily know the rules. Second, they object because in earlier litigation the Agence du Revenu du Québec attempted, apparently unsuccessfully, to quash the proceedings initiated by the appellants as being out of time. Third, they object because, in their opinion, the Agence du Revenu du Québec applied undue pressure on them to consent to the extension of time.
+[7] The criteria for an application for an extension of time are well established.
+[8] In Canada (Attorney General) v. Hennelly, 1999 CanLII 8190 (FCA), the Federal Court of Appeal established that the following must be considered: [1]
+a continuing intention to pursue his or her application;
+that the application has some merit;
+that no prejudice to the respondent arises from the delay; and
+that a reasonable explanation for the delay exists.
+[9] In Canada (Attorney General) v. Larkman, 2012 FCA 204 (CanLII), at para. 62, Stratas J.A. provided the following explanation:
+These questions guide the Court in determining whether the granting of an extension of time is in the interests of justice: Grewal, supra at pages 277–278. The importance of each question depends upon the circumstances of each case. Further, not all of these four questions need be resolved in the moving party's favour. For example, "a compelling explanation for the delay may lead to a positive response even if the case against the judgment appears weak, and equally a strong case may counterbalance a less satisfactory justification for the delay": Grewal, at page 282. In certain cases, particularly in unusual cases, other questions may be relevant. The overriding consideration is that the interests of justice be served. . . .
+[Emphasis added.]
+[10] The first two grounds raised by the appellants are not relevant to the application of the above criteria; the criteria must always be applied in the context of the particular facts of the case.
+[11] As to the third ground, the respondent stated in a letter to the appellants that if the Minister were obliged to seek leave of the Court, the appellants would be compelled to respond to the application and the consequence could be a delay of the appeal. That is not undue pressure; the respondent simply described the consequences of an application for leave.
+[12] The respondent's delay was minimal, there was always an intention to defend the assessment, there can be no prejudice to the appellants, and there is a reasonable explanation for the delay.
+[13] In the circumstances, it is clearly in the interests of justice to grant an extension of time.
+THIS COURT ORDERS that:
+the period for replying to the notice of appeal be extended to the date of this order; and
+2. the reply to the notice of appeal received by this Court on April 21, 2021, be deemed to be filed on the date of this order.
+Signed at Ottawa, Canada, this 25th day of August 2021.
+"Gaston Jorré"
+Jorré D.J.
+Translation certified true
+on this 3rd day of September 2021.
+Janine Anderson, Jurilinguist
+CITATION:
+2021 TCC 55
+COURT FILE NO.:
+2021-255(GST)I
+STYLE OF CAUSE:
+CHRISTIANE JOBIN AND ROGER COUTURE AND THE QUEEN
+HEARING:
+In writing
+WRITTEN SUBMISSIONS:
+Filed on April 27 [2] and May 17, 2021
+FILE RECEIVED BY DUTY JUDGE:
+On or shortly after August 16, 2021
+REASONS FOR ORDER BY:
+The Honourable Deputy Judge Gaston Jorré
+DATE OF ORDER:
+August 25, 2021
+APPEARANCES:
+For the appellants:
+The appellants themselves
+Counsel for the respondent:
+Roger Breton
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+N/A
+For the respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] These considerations must be applied with due regard to who is applying for an extension of time and the context. For example, the first criterion must obviously be understood as a continuing intention to pursue a defence given that it is the respondent.
+[2] The applicant's written submissions are contained in the application itself.

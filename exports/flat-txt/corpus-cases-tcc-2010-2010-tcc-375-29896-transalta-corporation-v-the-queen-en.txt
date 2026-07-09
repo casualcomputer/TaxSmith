@@ -1,0 +1,495 @@
+Title: Transalta Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29896/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-375-29896-transalta-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-13
+
+# Transalta Corporation v. The Queen
+
+- Citation: 2010 TCC 375
+- Decision date: 2010-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6390, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Transalta Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-13
+Neutral citation
+2010 TCC 375
+File numbers
+2009-871(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-871(IT)G
+BETWEEN:
+TRANSALTA CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 2, 3 and 4 2010, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Robert D. McCue
+Counsel for the Respondent:
+Marta E. Burns and Chang Du
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $140,824,476 is to be allocated to goodwill in the sale to AltaLink Limited Partnership, effective April 29, 2002.
+Signed at Ottawa, Canada, this 23rd day of August 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010 TCC 375
+Date: 20100713
+Docket: 2009-871(IT)G
+BETWEEN:
+TRANSALTA CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] This is a case about goodwill, more specifically, the allocation of the purchase price between net tangible assets and goodwill in an $800,000,000 sale of Transalta Energy Corporation’s ("Transalta") assets and business to AltaLink Limited Partnership ("AltaLink") in 2002. In their Purchase and Sale Agreement, Transalta and AltaLink allocated approximately $190,000,000 to goodwill and $602,000,000 to net tangible assets. The Respondent, relying upon section 68 of the Income Tax Act (the "Act"), allocated nothing to goodwill and everything to the net tangible assets, on the basis primarily that no goodwill exists in a regulated industry, thus Transalta’s allocation of $190,000,000 to goodwill was unreasonable. The Appellant’s position is that hard bargaining took place between Transalta and AltaLink establishing the allocation and, therefore, such allocation cannot be regarded as unreasonable. Transalta further submits that the Government has been unable to demonstrate the allocation was clearly unreasonable.
+Facts
+[2] The Parties provided a Joint Book of Documents and an Agreed Statement of Facts, augmented by the testimony of Mr. Woo, an officer of Transalta and project manager of the transaction in question, as well as by evidence of an expert from each party: Ms. Glass from KPMG for the Appellant and Mr. Lawritsen from Meyers Norris Penny LLP for the Respondent.
+AGREED STATEMENT OF FACTS
+The parties hereto by their respective solicitors agree on the following facts, provided that this agreement is made for the purpose of this appeal only and may not be used against either party on any other occasion, and that the parties may add further and other evidence relevant to the issues and not inconsistent with this agreement. It is also agreed that the admission of these facts is not a concession of the weight or degree of relevance to be attributed to these facts.
+1 OVerview
+1.1 Throughout 2001 and 2002, among the Appellant’s wholly owned subsidiaries were TransAlta Utilities Corporation (“TAU”) and TransAlta Energy Corporation (“TEC”).
+1.2 The Appellant determined to cause TAU to sell its electricity transmission business (the “Transmission Business”) by way of sealed bid auction process targeted to a limited number of recipients (the "Sealed Bid Auction") conducted by CIBC World Markets Inc. (“CIBC”).
+1.3 As a result of the sealed auction, AltaLink, L.P. (“AltaLink”) acquired the Transmission Business.
+1.4 Representatives of AltaLink’s partners and the Appellant negotiated the terms of the sale, including an allocation of the purchase price to depreciable property, goodwill and certain other items, as a result of which $190,824,476 was allocated to goodwill.
+1.5 $190,824,476 was also approximately the amount by which the purchase price exceeded the net regulated book value ("NRBV") and working capital of the Transmission Business’ assets, and was referred to by TransAlta and other parties relative to the transaction as the "premium".
+1.6 The Minister reassessed under section 68 of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), Chapter 63, as amended (the “Act”) on the basis that the portion of the purchase price allocated to goodwill was unreasonable and should have been allocated to depreciable property.
+1.7 As a result of this reassessment, the Appellant appealed to the Tax Court.
+2 The Parties
+2.1 The Appellant is a corporation subject to the Canada Business Corporations Act, and at all material times was a "taxable Canadian corporation" as defined in subsection 89(1) of the Act.
+2.2 TEC and TAU were, at all material times, wholly owned subsidiaries of the Appellant.
+2.3 The Appellant is a publicly traded corporation.
+2.4 AltaLink is a limited partnership formed under the laws of Alberta by the members of the Consortium, as defined below, for the purpose of acquiring the Transmission Business.
+2.5 At all material times, AltaLink was owned either directly or indirectly (through another limited partnership, known as AltaLink Investments, L.P. ("Investments")) by four limited partners, as follows:
+(a) as to 50%, SNC Lavalin Transmission Ltd., a wholly owned subsidiary of SNC Lavalin Inc. ("SNC");
+(b) as to 25%, OTPPB TEP Inc., a wholly owned subsidiary of the Ontario Teachers’ Pension Plan Board ("Teachers");
+(c) as to 15%, Macquarie Transmission Alberta Ltd., a wholly owned subsidiary of Macquarie North America Ltd. (“Macquarie”); and
+(d) as to 10%, 3057246 Nova Scotia Company, a wholly owned subsidiary of Trans Elect Inc. (“Trans Elect”).
+2.6 At all material times, AltaLink, the Consortium and each of the Consortium’s partners dealt at arm’s length with the Appellant, TAU and TEC.
+2.7 At all material times, Investments’ general partner was AltaLink Investments Management Ltd., which owned a nominal percentage of Investments.
+2.8 At all material times, AltaLink’s general partner was AltaLink Management Ltd., which owned a nominal percentage of AltaLink.
+2.9 At all material times, AltaLink Management Ltd. and AltaLink Investments Management Ltd. were controlled indirectly by SNC, Teachers, Macquarie and Trans Elect in the same percentages as they indirectly controlled AltaLink.
+2.10 At all material times, 75% of AltaLink was indirectly controlled by “taxable Canadian corporations” as defined in the Act as result of the fact that each of the subsidiaries of SNC, Macquarie and Trans Elect that were partners in Investments were "taxable Canadian corporations", whereas the subsidiary of Teachers was not.
+2.11 AltaLink’s income and deductions for taxation purposes flowed through to its partners at all material times.
+2.12 To the extent that AltaLink’s income and deductions for taxation purposes flowed through to Investments, such income and deductions flowed through to Investments’ partners.
+2.13 Investments limited partners are deemed owners of the Transmission Business utility for Public Utilities Board Act (Alberta) purposes.
+3 the Transmission business
+3.1 The Transmission Business consisted of approximately 11,600 km of transmission lines and 260 substations that supply almost 60% of the Alberta population with electricity.
+3.2 The original cost of the Transmission Business assets was approximately $1.4 billion. Depreciation for accounting purposes with respect to those assets throughout TransAlta's ownership was approximately $780 million, which resulted in a book value for accounting purposes of approximately $640 million.
+3.3 The Transmission Business’ NRBV at the time of the sale to AltaLink was approximately $590 million with respect to depreciable property, and $617 million in total. This is the amount on which the owner of the Transmission Business is entitled to earn a regulated rate of return, on the basis described below.
+3.4 The Transmission Business was a consistently profitable going concern prior to its sale to AltaLink.
+3.5 The Transmission Business included certain transferable rights, licenses and permits (the “Permits”).
+4 the auction
+4.1 The Appellant offered the Transmission Business for sale in early 2001, and retained CIBC, an arms length party, in that regard to contact potentially interested parties and conduct a sealed bid auction with a view to selling the Transmission Business.
+4.2 The sealed bid auction process commenced in the Spring, 2001 and concluded in June, 2001.
+4.3 During the course of the sealed bid auction, the Appellant received bids for the Transmission Business that ranged from $655 million to the $855 million.
+4.4 Various bidders referred in their bids to their intention to pay a premium in excess of NRBV for the Transmission Business.
+4.5 NRBV is the amount respecting which the owner of a utility regulated by the Board is entitled to receive a regulated rate of return.
+4.6 A consortium known as the AlbertaLink Consortium (the “Consortium”) was formed by representatives of SNC Lavalin Inc. (“SNC”), Ontario Teachers’ Pension Plan Board (“Teachers”), Macquarie North America Ltd. (“Macquarie”) and Trans-Elect Inc. (“Trans-Elect”) to bid for the Transmission Business.
+4.7 During the bidding process, the Consortium indicated that if it were the successful bidder, it intended to create a limited partnership for the purpose of carrying out the acquisition of the Transmission Business.
+4.8 The Consortium bid $855 million for the Transmission Business, and was the high bidder.
+5 THE Sale of the Transmission business
+5.1 The Appellant negotiated the terms of definitive sale agreements and related documents (the “Agreements”) with representatives of the Consortium with respect to a sale of the Transmission Business (the “Transaction”).
+5.2 During the course of those negotiations:
+(a) certain assets were excluded from the Transaction and various other adjustments were made, as a result of which the purchase price was reduced to $818 million, a $37 million decline from the Consortium’s initial bid of $855 million;
+(b) the Consortium asked TEC to increase the portion of the purchase price allocated to depreciable assets and at closing $36 million more of the purchase price was allocated to depreciable assets than TransAlta had originally proposed to the Consortium;
+5.3 The negotiation of the terms of the Transaction commenced shortly after TransAlta received the Consortium's bid on June 15, 2001, and continued until July 2, 2001, at which time all terms of the Agreements were settled.
+5.4 The Consortium caused AltaLink to be formed on July 3, 2001.
+5.5 From July 2, 2001 to July 4, 2001, lawyers produced execution copies of the Agreements, and the Agreements were signed on July 4, 2001 (the “Signing Date”).
+5.6 The Consortium caused AltaLink to execute the Agreements on the Signing Date.
+5.7 The Agreements provided for a purchase price of $818,150,705, and contained a purchase price allocation clause which allocated the purchase price as follows:
+(a) $590,582,039 to depreciable assets;
+(b) $11,897,581 to land;
+(c) $14,583,208 to land rights;
+(d) $10,263,401 to working capital; and
+(e) $190,824,476 to goodwill.
+5.8 The amounts allocated to depreciable assets and land were equal to the Appellant’s NRBV in that regard at the Transaction’s effective date, being in total $602,479,620.
+5.9 The Agreements contemplated that the Transmission Business would first be transferred by TAU to TEC under section 85 of the Act, and then transferred by TEC to AltaLink.
+6 Regulatory Approval
+6.1 On August 22, 2001 TAU applied to the Board for approval to transfer the Transmission Business to TEC, and then for TEC to dispose of same to AltaLink, in accordance with the Agreements.
+6.2 After a regulatory review and approval process with respect to the Transaction conducted by the Board, approval for the Transaction was received on March 28, 2002.
+6.3 Consequently, the sale of the Transmission Business to AltaLink closed on April 29, 2002 in accordance with the Agreements.
+6.4 The Board’s approval of the Transaction required that:
+(a) The Appellant’s closing undepreciated capital cost (“UCC”) for regulatory purposes must equal AltaLink’s opening UCC for regulatory purposes; and
+(b) The Appellant’s closing NRBV with respect to the Transmission Business must equal AltaLink’s opening NRBV, and that the premium could not be recovered through future rate increases.
+6.5 The Board’s approval did not require that the Appellant’s closing UCC for actual taxation purposes equal AltaLink’s opening UCC for actual taxation purposes.
+7 applicable Regulatory Regime
+7.1 At all material times, the Board set the rates the Transmission Business could charge for its services so as to enable the Transmission Business to earn a reasonable rate of return on the NRBV of the capital it employed as set through the regulatory process.
+7.2 In particular, at all material times the Board generally set rates based on forecasts submitted by the Transmission Business so as to permit the Transmission Business to:
+(a) recover the NRBV of its assets as they depreciated for regulatory purposes;
+(b) recover the estimates of or proxies for expenses the Transmission Business planned to incur, including interest with respect to its debt to the extent approved by the Board, taxes and other amounts; and
+(c) earn a reasonable return on the portion of the NRBV the Board deemed to be equity for this purpose.
+8 Why the premium was paid
+8.1 AltaLink paid the premium at least in part because:
+(a) AltaLink expected that it would receive as part of its annual revenues permitted by the Alberta Energy and Utilities Board (the “Board”) an allowance for income taxes (the “Tax Allowance”) that would exceed the income tax actually paid by its partners;
+(b) AltaLink believed that the return on equity offered by the Board was attractive relative to other investments available to it given the risks it was required to undertake to earn that return; and
+(c) AltaLink expected to be able to arrange its affairs to use more leverage than was assumed by the Board for ratemaking purposes;
+8.2 During the regulatory approval process with respect to the Transaction, ratepayers raised concerns with regard to the premium, including that AltaLink would try to recover the premium by way of rate increases.
+8.3 As a result, AltaLink represented to the Board that the premium could be justified by AltaLink on that basis that:
+(a) a performance based regulation (“PBR”) plan could result in a sharing of benefits with customers that would enhance earnings;
+(b) the possibility of sustained growth in the regulated rate base could dilute the size of the premium; and
+(c) the existence of competitive merchant transmission projects could provide opportunities to enhance earnings and growth.
+AltaLink concluded its submission to the Board by indicating that its customers were protected by AltaLink's commitment to exclude any portion of the premium from the rate base, and that AltaLink's ability to earn returns that will justify the payment of the purchase price, including the premium, is a matter of commercial risk for AltaLink's partners.
+8.4 PBR is a form of regulation that if implemented would enable operators of businesses like the Transmission Business to earn additional returns as a result of creating cost saving efficiencies that would benefit their customers.
+8.5 The Appellant represented to the Consortium during the auction process as well as the negotiation of the terms of the Agreements, that each of the following opportunities had substantial value:
+(a) PBR, in the range of $6 to $8 million per year in incremental revenues;
+(b) Potential growth in the regulated aspect of the Transmission Business, with total capital expenditures of between $655 and 955 million projected over a five year period;
+(c) Growth in non-regulated aspects of the Transmission Business, including telecommunications (wireless and fibre optic), non-regulated or merchant transmission facilities, engineering, procurement, construction management and operations and maintenance services.
+9 altalink’s tax allowance
+9.1 The Tax Allowance does not generally equal actual income taxes paid.
+9.2 AltaLink expected to receive a Tax Allowance in excess of the income taxes its partners would pay as a result of Teachers’ tax deferred status.
+9.3 The Board eventually denied AltaLink the right to collect the portion of the Tax Allowance attributable to Teachers.
+10 the reassessment and appeal
+10.1 The Minister reassessed the Transaction by way of a Notice of Reassessment (the “Reassessment”) with respect to TEC’s December 31, 2002 taxation year on the basis that section 68 of the Act applied to reallocate TEC’s proceeds of disposition on the sale of its Transmission Business to AltaLink so as to reduce the amount that TEC allocated to goodwill and land rights, and to correspondingly increase the amount allocated to depreciable property and land.
+10.2 The Appellant amalgamated with TEC and TAU on January 1, 2009.
+10.3 The Appellant filed a Notice of Objection with respect to the Reassessment on December 17, 2008.
+[3] The Appellant further appealed the Reassessment by way of Notice of Appeal filed March 18, 2009.
+[4] There are several provisions of the July 4, 2001 Purchase and Sale Agreement worth reproducing at this point:[1]
+…
+2.1 Purchase and Sale
+In consideration for the payment to the Vendor by the Purchaser of the Purchase Price and assumption by the Purchaser of the Assumed Liabilities, and upon and subject to the terms and conditions hereof, at the Time of Closing the Vendor shall assign, transfer and set over to the Purchaser, and the Purchaser will acquire from the Vendor as a going concern, the Assets and the Business. [emphasis added]
+2.2 Purchase Price
+(1) The purchase price to be paid to the Vendor by the Purchaser (the "Purchase Price") shall be the sum of the amounts set forth in Sections 2.2(1)(a) and (b) below:
+(a) the Net Regulatory Book Value of the Assets at December 31, 2000 (which the Parties agree is $613,200,000) multiplied by 1.31 for a total of $803,300,000 (the "Base Purchase Price"); and
+(b) an amount related to certain changes to the Assets from and after December 31, 2000 which amount shall be the amount determined by the adjustments set forth in Section 2.3 hereof.
+…
+(2) The Vendor and the Purchaser shall allocate the Purchase Price among the Assets in accordance with Schedule 2.2(2) hereof; and the Purchaser and the Vendor, in filing their respective income tax returns, shall use such allocation of the Purchase Price.
+…
+Schedule 2.2(2) Allocation of Purchase Price
+The Purchase Price determined under Section 2.2 shall be allocated among the Assets as follows:
+(a) Those of the Assets which constitute Current Assets shall have allocated thereto such amount as may be determined in the calculation of Working Capital under Section 2.3 as at the Time of Closing;
+(b) Those of Assets which constitute "non-depreciable capital property" (within the meaning of the Income Tax Act) shall have allocated thereto the amount of $11.3 million;
+(c) Those of the Assets which constitute "depreciable property" within the meaning of the Income Tax Act and which are described in Class 8 in Schedule II to the Income Tax Act Regulations shall have allocated thereto the aggregate of $15 million and the cost to the Vendor of additions to such Class from December 31, 2000 to the Time of Closing;
+(d) Those of the Assets which constitute "depreciable property" within the meaning of the Income Tax Act and which are described in Class 10 in Schedule II to the Income Tax Regulations shall have allocated thereto the aggregate of $5 million and the cost to the Vendor of additions to such Class from December 31, 2000 to the Time of Closing;
+(e) Those of the Assets which constitute "depreciable property" within the meaning of the Income Tax Act and which are described in Class 1 and Class 2 in Schedule II to the Income Tax Regulations shall have allocated thereto an aggregate amount equal to the "Net Regulatory Book Value" for such Assets as at the Time of Closing, such amount to be further allocated as between the Class 1 Assets and the Class 2 Assets as follows:
+(i) As to Class 1 the aggregate of $304 million plus the cost of additions to such Class from December 31, 2000 to the Time of Closing;
+(ii) As to Class 2 the remaining balance;
+(f) The remaining unallocated balance of the Purchase Price shall be allocated to those Assets which constitute "eligible capital property" within the meaning of the Income Tax Act.
+…
+APPENDIX A GLOSSARY
+…
+"Assets" means the undertaking and all of the tangible or intangible property (whether real, personal or mixed, choate or inchoate), rights, benefits, privileges, assets or entitlements owned by the Vendor or TransAlta Utilities Corporation or any of their Affiliates, or to which the Vendor or TransAlta Utilities Corporation or any of their Affiliates is entitled and used exclusively or Primarily in the Business, of every kind and description and wheresoever situate. Without limiting the generality of the foregoing, the Assets include:
+(i) the Sites and Buildings;
+(ii) the Equipment;
+(iii) the Land Rights;
+(iv) the Current Assets;
+(v) the full benefit of the Contracts and all other contracts or commitments to which the Vendor or TransAlta Utilities Corporation or any of their Affiliates is entitled in connection with the Business including, without limiting the generality of the foregoing, all forward commitments of the Vendor or TransAlta Utilities Corporation or any of their Affiliates for supplies or materials entered into in the usual and ordinary course of Business whether or not there are any written contracts with respect thereto, but excluding, for clarity, contracts or commitments of a general nature that do not Primarily relate to the Business;
+(vi) the Warranties, if any;
+(vii) the Permits;
+(viii) computer software listed in Schedule 1.1(a);
+(ix) the goodwill of the Business including, without limiting the generality of the foregoing,
+A. the exclusive right of the Purchaser to represent itself as carrying on the Business in continuation of and in succession to the Vendor and TransAlta Utilities Corporation and the non-exclusive right to use any words indicating that the Business is so carried on, and
+B. to the extent transferable, all customer lists and supplier lists of the Business;
+(x) all plans and specifications in the possession of the Vendor or TransAlta Utilities Corporation or any of their Affiliates Primarily relating to the Sites, the Buildings and the Equipment including, without limiting the generality of the foregoing, all such electrical, mechanical and structural drawings related thereto as are in the possession of the Vendor or TransAlta Utilities Corporation; and
+(xi) all Records;
+But excluding, in any event, the Excluded Assets.
+…
+"Business" means the existing electrical transmission business carried on by the Vendor or TransAlta Utilities Corporation or any Affiliate on their behalf, including the Transmission Facilities and associated systems and services in the Province of Alberta and the operations, maintenance and construction of facilities service business, telecommunications initiatives, the engineering procurement and management services and the merchant transmission services; all of which are to be transferred to the Purchaser as a going concern but does not include the Generation Facilities or Excluded Assets;
+…
+[5] Mr. Woo addressed the 1.31 over the “NRBV” premium identified in section 2.2(1)(a) of the Agreement in the following manner. He identified several factors supporting the premium by pointing out that in AltaLink’s bid for the Transalta business it included a section called "Business Plan", identifying core strategies as follows:[2]
+…
+Growth
+The Consortium plans to continue to support the investment of additional capital into the development of the Alberta transmission network. In its current forecast, the Consortium has forecast significant capital expenditures over the next five years to expand and maintain the business.
+EPCM
+The Consortium recognizes the internal expertise of TransAlta’s EPCM Transmission Projects Group. As part of this transaction, SNC-Lavalin plans to offer the Transmission Projects Group employees’ positions in its Alberta based engineering operations.
+…
+Regulation
+Continuing the process that TransAlta has started, the Consortium plans to take an active role in the establishment of a regulatory regime that incentivizes the development of the Alberta transmission network. The implementation of a performance based ratemaking regime will provide the requisite incentives to attract additional capital to Alberta.
+The Consortium recognizes the significant contribution that the transmission employees have made to the development of the business, which has resulted in it being rated in the top quartile in efficiency in North America. The Corporation does not require restructuring to the transmission business and plans to other similar benefits packages to retain key staff.
+…
+[6] This view was confirmed at AltaLink’s first rate hearing after the acquisition in January 2002, before the Board, at which it argued:[3]
+…
+5.0 The Purchase Premium Concern is a Red Herring
+Notwithstanding AltaLink’s commitment that no portion of its purchase premium will be included in rate base, the Customer Group continues to ruminate on the reasons why AltaLink would pay 1.31x book value for the transmission assets. AltaLink submits that as long as the purchase premium is not included in rate base and recovered from customers, the entire purchase premium discussion is a red herring and is certainly not sufficient to give rise to any concern respecting "harm".
+…
+Notwithstanding the irrelevance of how or if AltaLink’s partners will ever feel justified in paying more than book value for the transmission assets, there are at least three bases on which the payment of such a premium could be justified.
+· A PBR plan could result in a sharing of benefits with customers that would enhance earnings.
+· The possibility of sustained growth in the regulated rate base will "dilute" the size of the premium.
+· The existence of competitive merchant transmission projects can provide opportunities to enhance earnings and growth.
+AltaLink submits that there is nothing nefarious about paying a premium above book value for utility assets. As is well-known to the Board, utility shareholders have historically paid such premiums when purchasing shares in the securities markets.
+…
+[7] Mr. Woo also suggested that a move to Performance Based Regulation ("PBR"), given TransAlta’s efficient environment, could result in $6,000,000 to $8,000,000 in opportunity. He also referred to TransAlta’s Information memo (basically their marketing tool) to quantify the business growth opportunities both in the regulated and non-regulated sectors. Transmission growth opportunities were estimated at an additional $600,000,000 to $900,000,000 capital cost. The non-regulated opportunities were identified as telecommunications, merchant transmission, EPCM (engineering, procurement and construction management) and operations and maintenance service.
+[8] Mr. Woo explained some of these opportunities in more detail. Merchant transmission is the non-regulated business of transmission lines crossing territories, with capacity sold at market rates, not regulated rates. TransAlta’s estimate of potential capital expenditures ran over $3 billion.
+[9] The EPCM component involves the construction and management of lines, preferably in the non-regulated sector. AltaLink’s interest in this element of the deal was such that SNC, one of the partners, offered jobs to 76 members of the EPCM group, and contracted those services back to AltaLink pursuant to a 10-year contract. Many years later when the chartered accounting firm of Grant Thornton supplied an expert report in support of AltaLink’s rate application, it stated:[4]
+…
+When the 76 employees were transferred to SNC-ATP, AML indicated that the transfer of risk was to the benefit of AltaLink and no compensation was paid. An alternative interpretation is that the transfer of the employees gave a valuable asset to SNC-ATP.
+When a business is purchased, a value is typically assigned to the assembled workforce. The method of valuation differs with the skills and experience of the workforce and the difficulty of assembling a similar workforce.
+…
+[10] It is evident from AltaLink’s press release in July 2001 how favourably it viewed the quality of workforce it was acquiring:[5]
+…
+"This acquisition is a milestone occasion for SNC-Lavalin since it is an important investment in Alberta, and capitalizes on our engineering and financing expertise," said Pierre Anctil, Executive Vice-President, Office of the President responsible for SNC-Lavalin Investment. "By combining the strengths of the TransAlta team with our considerable financial and technical expertise, we are well placed to deliver top quality transmission services to Albertans, and meet current and future needs."
+…
+"This is our first acquisition, and with our North American focus, this will put Trans-Elect in the forefront as an independent transmission owner," said Frederick Buckman, Chairman and CEO of Trans-Elect. "In any acquisition, it’s the people who make the difference and the capabilities and dedication of TransAlta’s Transmission personnel are outstanding. We are excited about becoming part of the economy and community in Alberta."
+…
+AltaLink will integrate employees of TransAlta’s transmission sector. As a key part of the transaction, SNC-Lavalin will integrate TransAlta’s engineering, procurement, construction management (EPCM) transmission projects team into its power engineering group.
+"The benefits of this new pooling of expertise are two-fold," said Klaus Triendl, Executive Vice-President, Office of the President responsible for SNC-Lavalin Power. "It’s good for our new employees, because they are linking up with a world class case on which to build their considerable expertise in power transmission systems. This combined force will be a global leader in transmission power expertise, while ensuring that AltaLink continues to provide first class services. From SNC-Lavalin’s perspective, this new power base will provide us with the key to better meet a crucial and increasing demand globally for the kind of services we can provide – engineering, energy control systems, procurement, construction, operations and training. This is clearly a win-win situation."
+…
+[11] Mr. Woo also briefly explained the concept of a deemed income tax allowance, whereby a utility is allowed to recover projected taxes. The Respondent had assumed AltaLink paid the $190,000,000 premium because it expected an annual income tax allowance of approximately $30,000,000. Mr. Woo indicated the allowance will differ from actual taxes paid due to the differing undepreciated capital cost amounts for regulated rate purposes versus for tax purposes. He did not give any indication of the amount of any potential benefit to AltaLink, though, as will be clearer when discussing the expert’s evidence, the tax allowance may not have been as significant as assumed by the Respondent.
+[12] Finally, Mr. Woo pointed out that the financial statements of AltaLink for 2002 and 2003 as prepared by Ernst & Young reflected the goodwill of $200,000,000, as did the 2007 and 2008 financial statements prepared by Deloitte & Touche.
+[13] Turning now to the two experts, I will briefly summarize their findings and opinions, starting with Ms. Glass, the expert from KPMG put forward by TransAlta. Ms. Glass is an expert valuator having conducted a considerable amount of work in the utilities industry. She firstly addressed the question of what constitutes goodwill in the TransAlta – AltaLink transaction, and secondly, provided a valuation of TransAlta’s net tangible assets.
+[14] Before reviewing Ms. Glass’ findings in her 85 page report, it was interesting to note that both she and Mr. Lawritsen, the expert put forward by the Respondent, agreed that a valuator’s approach to defining goodwill is what I call a residual approach, that is, it is the amount by which a purchase price exceeds the Fair Market Value ("FMV") of tangible assets: in effect, it is a plug. I will have more to say on that later.
+[15] With respect to the identification of goodwill, Ms. Glass noted that for goodwill to exist, there must be a least one of the following factors: excess earnings, excess return or strategic factors. If none of these exist, there can be no goodwill.
+[16] She then went on to raise seven factors that likely led to goodwill in this case:
+I. Excess Earnings
+i. PBR; and
+ii. tax allowance.
+II. Excess Returns
+i. leverage.
+III. Strategic Factors
+i. EPCM;
+ii. Merchant Transmission;
+iii. new markets/growth; and
+iv. skilled employee base.
+[17] The following is taken from Ms. Glass’ report:
+Performance Based Regulation
+…
+197 At the relevant time, the Transmission Business operated under a traditional cost-of-service model, although the EUB and the Alberta government were actively exploring the introduction of a PBR model. Under such a model, efficiencies are shared between the utility and the customer, such that the utility is able to recover an amount above that allowed under a cost-of-service model if costs are reduced below a threshold level. Thus PBR will give rise to excess earnings.
+198 On October 6, 2000, TransAlta and a number of interveners negotiated an augmentation to the terms of a negotiated settlement for the Utility’s 2001 GTA, pursuant to which the parties agreed to begin discussions aimed at achieving agreement on a PBR model. The terms of the negotiated settlement were approved by the EUB in Decision 2001-4. As at Closing, a PBR model was expected to be introduced in the foreseeable future.
+199 The bid received from the Consortium indicated that an element of AltaLink’s business plan would be to take an active role in the establishment of a PBR regime. Further, in its written argument relating to EUB Decision 2002-038 (which approved the Transaction), AltaLink indicated that the potential for PBR benefits was one of the factors that caused it to pay a premium for the Transmission Business.
+…
+201 The prospect of the adoption of a PBR model created the potential for the Utility to generate future excess earnings. As such, any portion of the premium relating to the potential for a future PBR model would be appropriately allocated to goodwill.
+…
+Income Tax Allowance
+…
+133 A cost-of-service model allows a utility to recover a deemed income tax allowance. As a limited partnership ("LP"), AltaLink was not itself subject to tax. Therefore, AltaLink would have received an annual deemed tax allowance, but would not have been required to pay corresponding taxes. In contrast, the corporate entities that were the ultimate limited partners in the AltaLink structure were taxable entities, and were required to report their share of AltaLink’s income on their corporate tax returns. The Partners controlled AltaLink, and therefore had access to the tax allowance, which was intended to offset the Partners’ tax liability.
+…
+141 In 2003, AltaLink filed its first GTA, and one of the issues addressed in the application was whether or not AltaLink should be entitled to a tax allowance, given its LP status. In Decision 2003-061, the Board stated:
+"On the evidence before it, the Board accepts that the partners are taxable entities in Canada and will assume that there is a reasonable expectation that income taxes in the range approved by the Board will be incurred and paid by the partners with the exception of OTPPB TEP Inc."
+142 The Board then disallowed 25% of the deemed income tax allowance, being the portion relating to OTPPB TEP Inc., the entity representing Teachers. …
+a) It leads one to conclude that Teachers was likely not required to pay tax and, therefore, the Consortium might have expected a tax benefit in the case of Teachers, and was frustrated in that regard. …
+…
+149 The evidence indicates that, with the possible exception of Teachers, the Partners were Canadian corporations that paid Canadian income tax in the usual way. Since at least three of the Partners were subject to the payment of tax on income earned by the Utility, the deemed tax allowance cannot explain the full premium.
+…
+175 In summary, with the possible exception of Teachers, it is likely that the Partners were required to pay tax on their share of AltaLink’s earnings. Therefore, the income tax allowance would not explain the full premium.
+176 In the case of Teachers, it is possible that the income tax allowance might have explained a portion of the premium. …
+…
+Leverage
+211 Leverage refers to the manner by which an investment is financed, and in particular, the percentage of equity financing relative to debt financing.
+212 When considering the capital structure allowed by the regulator, a purchaser would prefer a higher degree of equity, since allowed returns on equity are higher than allowed returns on debt. In contrast, when actually financing the acquisition, the purchaser would prefer to use a higher amount of debt, since debt can be obtained at a lower cost, particularly once income taxes are considered.
+213 In 2002, the Board allowed 35% equity and 65% debt for rate-making purposes. However, it is probable that the Consortium would have financed the acquisition using more that 65% debt. Based on the manner in which infrastructure investments were financed by major players at the time, it would be reasonable to assume that the overall debt ratio would have been 75% at a minimum, and possibly as high as 90%.
+214 Based on our review of AltaLink’s financial statements, AltaLink itself was financed using only 60% debt and 40% equity. As such, the equity capital contributed to AltaLink by the Partners would likely have been further debt financed by the Partners.
+…
+220 In summary, given the manner in which infrastructure investments were financed in 2002, it is highly likely that a portion of the premium paid by AltaLink related to the Consortium’s ability to lever the investment beyond debt levels allowed by the EUB. All such additional leverage would have arisen outside of AltaLink – that is, it would have arisen as a result of the Partners borrowing to make their equity investments in AltaLink. Hence, the additional leverage could not have related to the tangible assets.
+…
+EPCM
+…
+268 … In EUB Decision 2003-061 [TransAlta’s Lost of Documents, no. 67], the Board described this contract as follows:
+"AltaLink applied for approval of an executed ten-year exclusive contract with SNC-ATP, a subsidiary of SNC-Lavalin Inc., a 50% partner in AltaLink partnership, to provide engineering, procurement and construction management (EPCM) services for all capital projects undertaken by AltaLink. These would primarily be the direct assign contracts AltaLink receives from the AESO, potentially amounting to hundreds of million of dollars over the next seven years"
+269 …SNC would nonetheless have been willing to pay premium value for AltaLink given that the Transaction resulted in:
+a) The potential for hundreds of million of dollars in additional revenue over the ensuing seven years, thus reducing future revenue risk and avoiding high costs (proposals, marketing expenditures, etc.) required to source projects elsewhere. In addition, this potential revenue backlog would have been expected to positively influence SNC’s public share price.
+b) The transfer of 76 highly-trained professionals that SNC could use to service not only AltaLink contracts, but also other opportunities, thus adding to SNC’s expertise, and avoiding costs and risks associated with recruiting, hiring and training new personnel.
+…
+271 In short, we are of the view that the ability to integrate the Utility’s EPCM projects team, together with the opportunity to enter into a 10-year exclusive contract with AltaLink would have represented a strategic benefit to SNC.
+Merchant Transmission
+…
+273 At the relevant time, a number of merchant transmission projects had been proposed and these projects were expected to become increasingly more important. The opportunity to be able to bid for these projects and execute them using the Utility’s skilled workforce would have represented a strategic opportunity for SNC and Trans-Elect.
+…
+276 It is reasonable to conclude that SNC had a strategic focus in merchant transmission, considering its partnership with Hydro-Québec and its participation in the construction and operation of the MurrayLink merchant transmission line. Consequently, we would conclude that the opportunity to add to its expertise as a result of obtaining access to the Utility’s skilled workforce, along with increased access to opportunities arising in the Alberta market would have represented a strategic benefit for SNC.
+277 SNC is not the only Partner that stood to benefit from merchant transmission projects. Currently, Trans-Elect had two multi-state projects under development: the Wyoming-Colorado Intertie, a TOT3 transmission line between Wyoming and Colorado, and the High Plains Express, which will run 1,100 miles through Colorado and New Mexico into Arizona. On its website, Trans-Elect outlines the experience and reputation it has gained through its past projects and partnerships with utilities and governments, including its acquisition of AltaLink.
+…
+283 …we are of the view that the Consortium would have viewed the potential for future merchant transmission projects as a positive factor in its analysis of the Transmission Business.
+New Markets/Growth
+…
+248 … The value of the Utility would comprise the value of earnings from the tangible assets sold by TransAlta, plus the value of earnings from yet-to-be-acquired assets. The former would constitute the FMV of the tangible assets sold by TransAlta, whereas the latter would constitute goodwill.
+…
+253 As earlier noted in the Industry Overview section of this Report, the Alberta transmission industry provided significant opportunities for growth – and we are of the view that the potential for future growth combined with the ability to further lever the investment, likely accounted for a substantial portion of the purchase premium. The documents produced in the current dispute are replete with references to future growth potential. For example, the bid received from the Consortium [TransAlta’s List of Documents, no. 19 at pg 8] indicated that:
+"The Consortium plans to continue to support the investment of additional capital into the development of the Alberta transmission network. In its current forecast, the Consortium has forecast significant capital expenditures over the next five years to expand and maintain the business."
+…
+255 On July 5, 2001, the Globe and Mail contained an article quoting Mr. Leo de Bever, senior vice-president of Teachers:
+"Mr. de Bever said the AltaLink team met yesterday with Premier Ralph Klein and Energy Minister Murray Smith to explain how the purchase would see the province’s transmission system expanded … "We plan to interconnect our grid both east and west and to the U.S. market in the south," Mr. de Bever said. He projected $300-million to $500-million of capital spending at AltaLink in the next few years to meet this goal."
+Skilled Employee Base
+…
+291 However, the employees could have been used not only with the regulated business but also for non-regulated business purposes, in one of two ways:
+a) Directly – by transferring the employees out of the Utility and integrating them with the non-regulated business of one or more of the Partners, as was the case for the Utility’s EPCM team; or,
+b) Indirectly – via knowledge sharing amongst the Utility’s employees and those of the Partners; by accessing the expertise of the employees via informal staff rotations between the utility and the businesses of the Partners, via conferences and meetings, etc. We recognize that these benefits cannot be numerically quantified and, to some, they might appear rather nebulous. However, access to knowledge and innovation is a valuable intangible asset for which purchasers are willing to pay. As was earlier noted, the Utility ranked as a first-quartile performer in terms of cost, reliability and efficiency. To the extent that informal knowledge sharing of the type described herein resulted in the Partners gaining access to a few new ideas or processes that might save costs, improve efficiency, or improve safety techniques in their own businesses, they would stand to benefit.
+[18] Ms. Glass concluded this part of her opinion with a list of utilities’ acquisitions over the last few years indicating goodwill allocation ranging from $1,000,000 to almost $2 billion.
+[19] With respect to the second part of Ms. Glass’ report, the valuation of the net tangible assets, it was clear Ms. Glass proceeded from a premise that in a regulatory setting, tangible assets should be set at their NRBV:
+378 In a non-regulated setting, the net book value of tangible assets will not necessarily equal FMV. However, in a rate-regulated setting such as that of the Utility, the NRBV of tangible assets would be expected to equal FMV for two reasons:
+a) The earnings of rate-regulated business are inextricably linked to the NRBV of its tangible assets. This situation is unlike that faced by a non-regulated business, where there is often little association between earnings and the net book value of tangible assets.
+b) In a rate-regulated industry, all of the economic benefits or risks associated with the tangible assets, over and above NRBV, effectively accrue to the customers. In contrast, in a non-regulated setting, all such economic risks and benefits accrue to the business itself.
+[20] With respect to the valuation itself, of the three normal approaches to valuation, Ms. Glass opined that only the income, or in this case, the discounted cash-flow approach made sense. She also acknowledged that the results of a discounted cash-flow analysis will usually differ only slightly from NRBV. Not surprisingly, she proceeded to prove her point through a lengthy technical discounted cash-flow analysis which resulted in the value close to NRBV.
+Mr. Lawritsen’s Report
+[21] Mr. Lawritsen, the expert called by the Crown, was not asked to do a valuation of the net tangible assets, but instead his mandate was to determine if TransAlta "received as part of the payment any goodwill and if so, how much". I presume the question was intended to mean whether TransAlta received any amount for goodwill. Mr. Lawritsen was a qualified valuator though did not have an extensive background in the utilities industry. In his report, he concluded, "that there was a nominal amount if any paid for goodwill". He cited three reasons:
+I. The income available to an acquirer of the Transmission Business is regulated and is tied strictly to the regulated asset base;
+II. The ability of an acquirer of the Transmission business to increase the profitability is very limited as under the regulatory process, efficiencies gained do not allow for ongoing cost savings nor is the operator able to command a charge to the public above rates set by the regulator; and
+III. Because of the nature of the Transmission Business it is my view that the Transmission Assets are effectively an income producing property akin to a rental property or a bond.
+[22] In effect, Mr. Lawritsen opined that all AltaLink was buying was access to the $100,000,000 per year of earnings before interest, taxes, depreciation and amortization ("EBITDA"), which in a regulated industry is solely tied to the net tangible assets upon which the rate of return on equity is calculated. He described the ability to improve the operating margin as limited.
+[23] Mr. Lawritsen described three types of goodwill arising in open market transactions:
+…
+9.08 Financial Synergies: This type of synergy relates to a particular buyer or type of buyer having a competitive advantage in their cost of capital. It is my view that financial synergies are not pertinent in this instance. … In this instance, even if it is accepted that market participants had a lower cost of capital than TransAlta, it is my view that acquirers were paying for the income stream that attaches to the tangible regulated assets.
+9.09 Operational Synergies: Such synergies relate to the ability of a buyer to realize post acquisition cost savings or other benefits unique to its own operations. Again, it is my view that operational synergies are not pertinent in this instance – the ability of an acquirer to sustain an economic benefit from perceived efficiencies is limited as the regulatory authority will subsequently take steps to reapportion the operating costs such that any savings flow through to the customer. As such, it is my view that goodwill attributable to operational synergies is minimal, if at all.
+9.010 Strategic Synergies: There may be reasons for a buyer to view an acquisition as strategic in that it provides for: access to new markets, products, brands, technical expertise, etc. As with the case of an income producing property, it is my view that such value attaches to the assets being acquired. …
+[24] Mr. Lawritsen did not go through a process of valuing net tangible assets, as did Ms. Glass, as he was not asked to do so.
+Issue
+[25] Section 68 of the Act reads as follows:
+68. Where an amount received or receivable from a person can reasonably be regarded as being in part the consideration for the disposition of a particular property of a taxpayer or as being in part consideration for the provision of particular services by a taxpayer,
+(a) the part of the amount that can reasonably be regarded as being the consideration for the disposition shall be deemed to be proceeds of disposition of the particular property irrespective of the form or legal effect of the contract or agreement, and the person to whom the property was disposed of shall be deemed to have acquired it for an amount equal to that part; and
+…
+[26] The framing of the issue is important in a case such as this where section 68 of the Act is not written in terms of an amount representing FMV, in other words an exact amount, but instead is written in terms of how an amount can reasonably be regarded. This necessarily implies a range rather than a single definitive amount. For example, when valuators agree on a FMV of goodwill of $100,000,000, does that mean that $80,000,000 or $120,000,000 could not reasonably be regarded as consideration for the goodwill? Not at all. But what if two valuators suggested FMV was $60,000,000 and $140,000,000 respectively? Is that now the range within which an amount can reasonably be regarded as consideration for goodwill? Because two reputable valuators have divergent views, is the Court bound to define a reasonable range accordingly? I am not convinced. I only raise this to confirm my view that the concept in section 68 of the Act of how to reasonably regard an amount cannot be an inquiry defining one number, and then suggesting anything other than that number is unreasonable. That would make no sense. So, why is this important in framing the issue? Presume I were to find that the range in this case is zero to $190,000,000. If I framed the question in terms of whether the Minister’s reallocation of zero can reasonably be regarded as consideration for goodwill, I would have to answer yes (given the range) and the Appellant would lose. But if I frame the question in terms of whether the arm’s length parties’ allocation $190,000,000 could reasonably be regarded as consideration for goodwill, again I would have to answer yes (given the range) and the Appellant would win.
+[27] The Appellant suggests section 68 of the Act revolves around the reasonableness of the Parties’ allocation, not the Minister’s reallocation. I agree that that is the appropriate starting point for the analysis. The first issue, therefore, in a section 68 analysis is: can the amount the arm’s length parties agree to allocate to the asset reasonably be regarded as consideration for that asset, in effect, fall within the range of what is reasonable? If it can be, then section 68 of the Act is simply not engaged. If it cannot be, then a reallocation is in order.
+[28] It is important to keep in mind who is doing the reasonable regarding and in what context. If I ask the Parties to the Agreement or KPMG or those in the utilities industry whether the $190,000,000 can reasonably be regarded as consideration for goodwill, I would get a resounding yes. If I ask Mr. Lawritsen’s firm, Meyers Norris Penny LLP or officials from the Canada Revenue Agency, I would get a resounding no. If I ask the man on the Clapham omnibus, with all due respect to him, he would not have the foggiest idea what I was on about. If section 68 of the Act is engaged, it is the Judge who makes the call on what is reasonable. But the Judge does so on the basis that the determination of a reasonable allocation is for the purpose of applying the appropriate tax to the sale of property: that is, some asset must be sold at a certain amount that will attract some level of tax.
+[29] Returning then to framing the issue, if I find the Parties’ allocation of $190,000,000 cannot reasonably be regarded as consideration for goodwill, what question comes next? It is not whether the amount CRA allocated (in this case zero) can reasonably be regarded as consideration for goodwill: a reasonable range should be determined. Once a range is established, great weight should be given to the arm’s length Parties’ agreement, and the end of the range closest to that agreement should govern.
+[30]
+[31] This discussion of framing the issue for a section 68 analysis presumes there is agreement as to the assets being sold, and the analysis revolves around the allocation between or amongst those assets. In this case, however, one side denies the very existence of the asset: the Respondent’s position is that goodwill was not part of the transaction as there simply was no goodwill for Transalta to sell. Before there can be an allocation, there must be a determination as to whether, for tax purposes, goodwill was an asset of Transalta which it sold to AltaLink.
+[32] In summary, the issues in this appeal are:
+i. was goodwill one of the assets sold by Transalta to AltaLink? If not, Transalta’s appeal must be dismissed.
+ii. if so, can the amount of $190,000,000 allocated to goodwill by the Parties to the Agreement reasonably be regarded as consideration for goodwill? If so, Transalta’s appeal must be allowed.
+iii. if not, what amount can reasonably be regarded as consideration for goodwill?
+Analysis
+(i) Was goodwill sold by Transalta to AltaLink?
+[33] I will start this analysis with a wonderfully written description of goodwill, often referred to, from the judgment of Lord Macnaghten in the House of Lords decision of The Commissioners of Inland Revenue v. Muller and Co.’s Margarine Limited[6]:
+… What is goodwill? It is a thing very easy to describe, very difficult to define. It is the benefit and advantage of the good name, reputation, and connection of a business. It is the attractive force which brings in custom. It is the one thing which distinguishes an old-established business from a new business at its first start. The goodwill of a business must emanate from a particular centre or source. However widely extended or diffused its influence may be, goodwill is worth nothing unless it has power of attraction sufficient to bring customers home to the source from which it emanates. Goodwill is composed of a variety of elements. It differs in its composition in different trades and in different businesses in the same trade. One element may preponderate here and another element there. To analyze goodwill and split it up into its component parts, to pare it down as the Commissioners desire to do until nothing is left but a dry residuum ingrained in the actual place where the business is carried on while everything else is in the air, seems to me to be as useful for practical purposes as it would be to resolve the human body into various substances of which it is said to be composed. The goodwill of a business is one whole, and in a case like this it must be dealt with as such.
+…
+[34] This definition confirms that goodwill is amorphous: it will vary from one industry to the next, one business to the next. It is a moving target. It is one of those "I will know it when I see it" things. It is what must drive those in more exact professions, accountancy for example, crazy. It is no surprise, therefore, that experts from that profession, steeped in principles of valuation and exactitude define goodwill as simply a number, the number between the purchase price and the amount attributed to tangible assets. This residual approach to goodwill, approved by both experts in the case before me, is less a definition and more simply a formula, not quite what Lord Macnaghten had in mind. I am reluctant to adopt the residual value definition as the defining legal test for purposes of applying section 68 of the Act. It may be that for accounting purposes, goodwill is not truly even an asset, but simply a plugged-in number. This may have a benefit of certainty, but it lacks depth of inquiry into the real nature or even existence of the asset. And for tax purposes, that is what is required as goodwill is considered an asset, an asset with some value.
+[35] There is no doubt the Parties intended to, and did, agree to include goodwill as part of the transaction. It was defined in the Purchase and Sale Agreement and obviously a significant dollar amount was attached to it. The Respondent claims that this significant amount, the Premium, was no more than an increased price for the tangible assets, as it was only from those hard assets, that AltaLink could make any return, given the return was regulated in the industry based on those hard assets. Transalta counters that there were several factors that went beyond reasons for paying more for hard assets and went directly to what would, in commercial circles, be considered goodwill. I agree with the Appellant.
+[36] The following are the items that the Appellant raised as constituting goodwill:
+(i) EPCM
+(ii) Market transmission
+(iii) New markets/growth
+(iv) Skilled employee base
+(v) Ability to take advantage of new Performance Based Regulation regime ("PBR")
+(vi) Tax allowance
+(vii) Leverage
+I will have more to say about whether all of these constitute goodwill when discussing the reasonableness of the allocation, but for now, for the purposes only of determining if there was any goodwill at all, I can readily identify the merchant transmission, skilled employee base, and, hand-in-hand with that, the EPCM elements of the sale as falling squarely within the Macnaghten definition. These factors, I believe, all go directly to the retention and expansion of a profit producing customer base, and cannot and should not be considered as part of the value of the tangible assets. Further, a skilled employee base operating in an efficient manner can eke out more profit from an existing client base even within a regulated industry. These factors very much represent that intangible element of what Transalta had to offer to a purchaser. I conclude it is goodwill.
+[37] The Crown’s objection is that such factors do not bring dollars in the door, which the Crown argues is key to any definition of goodwill. I disagree. The Crown suggests the goodwill cannot arise from increased profits from an existing customer base. Why not? Even the Crown expert acknowledged in his report there can be operational synergies creating an economic benefit from efficiencies, but he suggested the ability to do so in a regulated industry is limited. That goes to allocation of the amount of goodwill, not to the very existence of goodwill: indeed, it acknowledges the existence of goodwill. And, in fact, Transalta created significant additional profits from its efficient cost-conscious culture. That is something to take to the bank and something a buyer would pay for. That is goodwill.
+[38] Even if I were to accept the Respondent’s theory of goodwill that it requires more dollars in the door, an expanded customer base, I find that Transalta’s positioning to take advantage of merchant transmission, and to expand markets in the regulated industry itself, fit well within goodwill as defined by the Crown.
+[39] Black’s Law Dictionary has defined goodwill as the difference between the purchase price and the value of the assets acquired. This implies goodwill is not in and of itself an asset. Cases have relied on this residual price definition of goodwill (see for example Les Placements A & N Robitaille Inc. v. The Minister of National Revenue[7] and Teleglobe Canada Inc. v. R.[8]) but, as this case reveals, there is a fine distinction between value attributable to goodwill and value attributable to reasons why a purchaser may pay more for tangible assets. While not discounting the usefulness of the residual price definition, in this case my preference is to rely more on the definition proposed by Lord Macnaghten as it is a greater attempt to identify what is really being sold as an asset.
+[40] The residual approach unquestionably makes life easier for the valuator as it requires the simpler task of evaluating the tangible assets. I prefer to come at the issue more in terms of attempting to define what exactly AltaLink was buying from Transalta, as this is a case about establishing proceeds of disposition from a sale of something for tax purposes.
+[41] Although at trial Mr. Lawritsen, the Respondent’s expert, made it clear he was of the view there was no goodwill, his report acknowledged that there could be a nominal amount allocated to goodwill – some acknowledgement that goodwill was an asset Transalta had to sell. Having concluded there is goodwill, for the balance of this analysis, I will, therefore, proceed on the basis that the Respondent’s allocation to goodwill is one dollar.
+(ii) Can $190,000,00 be reasonably regarded as consideration for goodwill?
+[42] The Appellant’s position is that once it is established the Parties conducted hard bargaining in coming to the allocation, the reasonableness of the allocation has been proven and can only be overcome by the Respondent proving a clear or patent unreasonableness in the allocation. The Appellant argues this is the correct approach for the Court to follow based on the case law to date surrounding the application of section 68 of the Act. This is an appropriate time to review that case law, which, somewhat surprisingly, is not extensive.
+[43] The key case on section 68 of the Act, comes from the 1986 Supreme Court of Canada decision of The Queen v. Golden[9]. Interestingly, four judges found section 68 of the Act did not apply, while three found it did apply, while all seven agreed the allocation by the parties in that case was reasonable, notwithstanding a valuation from the Crown far below the amount allocated by the Respondent to the property. Also, it is to be noted that Golden had more to do with the interpretation of section 68 of the Act as to its applicability to property and something else other than property, than to the correct approach or method in engaging section 68 of the Act. With respect, it provided little by way of an analytical road map. It certainly made no use of the term "hard bargaining", though the Supreme Court of Canada clearly agreed with the Federal Court of Appeal in placing great weight on the fact the agreement on allocation was between parties dealing at arm’s length. As Justice Heald stated at the Federal Court of Appeal in George Golden v. The Queen:[10]
+… It is my opinion that the correct approach to a section 68 determination would be, as suggested by the above authorities, to consider the matter from the viewpoint of both the vendor and the purchaser and to consider all of the relevant circumstances surrounding the transaction. Where, as in this case, as found by the Trial Judge, the transaction is at arm’s length and is not a mere sham or subterfuge, the apportionment made by the parties in the application agreement is certainly an important circumstance and one which is entitled to considerable weight. …
+[44] Also, Chief Justice Thurlow at the Federal Court of Appeal stated:
+…
+Given that the agreement was reached between parties who were dealing at arm’s length and that it is not a sham or subterfuge, it appears to me that, notwithstanding the evidence of respective values on which the learned trial judge relied, the amount that can reasonably be regarded as the proceeds of disposition of the depreciable assets included in the transaction, irrespective of the form or legal effect of the contract, operating as it does only to govern the rights of the parties inter se, was the $750,000 for which the vendors agrees to sell and the purchaser agreed to purchase them.
+…
+[45] Shortly after the Golden decision, Justice Rip decided the case of R.L. Petersen v. The Minister of National Revenue[11], a case involving the sale of a daycare centre. In applying section 68 of the Act, Justice Rip commented:
+… Where an agreement, although evidencing neither sham or subterfuge, stipulates an amount which is clearly unreasonable in the circumstances, it is still very much open to the Court to conclude that section 68 should apply to reallocate the proceeds in a reasonable manner.
+In the case at bar there is no evidence, nor did the respondent even suggest, the agreement in issue was a sham or subterfuge. However, the appellant’s claim of $45,000 to goodwill is suspect. The business operated throughout its existence with losses and there was no indication of any change in the future. The evidence also indicated that problems existed with respect to the operation and licensing of the business.
+…
+The lack of any foundation for a value to goodwill in the business sold, let alone a value of $45,000, coupled with the absence of bargaining between the purchaser and vendor in allocating the purchase price would ordinarily lead me to conclude the allocation, in which approximately 30% of the purchase price is said to be for goodwill, is not reasonable.
+…
+[46] Cases prior to Golden do make mention of the concept of hard bargaining in the application of the section 68 of the Act. In the case of Dr. Harold Robbins v. The Minister of National Revenue[12], Chairman Cardin summarized his approach as follows:
+…
+As I understand it, though expressed in different terms in the various decisions cited by both counsel, the key to the interpretation and the application of section 68 is that the allocation of value of various assets, in a contract, to be accepted by the taxing authorities and binding by the parties must be, as suggested by counsel for the appellant, the result of a mutual decision between the vendor and purchaser. However, in order to determine whether the allocation is in fact based on a mutual decision, the Courts have introduced the consent of "the genuinely negotiated apportionment which results from bargaining between the parties to the agreement". The onus of establishing that the allocation was arrived at by mutual consent after genuine bargaining rests on the appellant. If he fails to satisfy that onus, the allocation stipulated in the agreement is not decisive and the reasonableness of the allocation for tax purposes must be determined on other grounds "irrespective of the form or legal effect of the contract or agreement".
+…
+[47] As stated earlier, I find these cases do not comprise extensive authority with respect to the approach to section 68 of the Act, though there are some common threads to build upon. In answering the question whether the allocation of price to an asset made by the parties to an agreement can reasonably be regarded as consideration for the asset, I will be guided by the following principles.
+(i) where there is sham or subterfuge, a section 68 analysis is engaged and the Court shall determine a range for a reasonable allocation considering the following factors:
+- the nature of the industry, including industry norms,
+- the nature of the asset,
+- the fair market value of the asset,
+- the context of the transaction,
+- the foundation for the Respondent’s allocation,
+- any other relevant factors.
+If the Crown’s allocation falls within the range of what is reasonable, it shall govern. This is not the situation before me.
+(ii) If the Appellant and the other party to the sale agreement have not agreed to the allocation sought by the Appellant, the Court shall determine a range for a reasonable allocation considering the factors set out in (i) above as well as considering:
+- the allocation in the agreement, if any; if not, the foundation of the Appellant’s allocation,
+- if there was an agreed allocation then:
+· whether the parties were dealing at arm’s length
+· the relative equality of the parties’ respective bargaining positions
+Again, this situation does not apply in the case before me, so it is unnecessary to determine at what point in the range the allocation should be pegged.
+(iii) Where arm’s length parties to an agreement for sale have agreed on the allocation submitted by the Appellant, evidence of real bargaining with respect to the allocation between such parties with relatively equal bargaining positions is prima facie proof of the reasonableness of the allocation.
+(iv) The Respondent can only challenge such finding of reasonableness by proving a fundamental mistake in the foundation of the parties’ agreement: a difference of opinion on value would not be sufficient.
+(v) If the Appellant has failed to meet the requirements in principle (iii), the Court shall determine a range of what is reasonable, and where there is an agreed allocation between arm’s length parties to the agreement, the amount within the range closest to the parties’ agreed allocation shall be the reallocated amount for purposes of section 68 of the Act. In determining the range, the Court shall consider:
+- the nature of the asset,
+- the nature of the industry including industry norms,
+- the context of the transaction,
+- the fair market value of the asset,
+- any other relevant factors.
+Were Transalta and AltaLink dealing at arm’s length?
+[48] Yes, the facts clearly establish an arm’s length relationship.
+Did Transalta and AltaLink have relatively equal bargaining positions?
+[49] Certainly, with respect to the overall negotiation of the purchase and sale, Transalta and AltaLink were on an equal footing. Both were corporations of some considerable means, with the ability to engage professional advisors to assist in the negotiation and finalization of the deal. This was by no means a David and Goliath situation.
+[50] With respect to their respective bargaining positions concerning the question of allocation itself, there was some evidence from Mr. Woo as to Transalta’s position, and he speculated as to AltaLink’s position. The experts likewise speculated as to AltaLink’s position and, not surprisingly, their views differed. Before addressing the Parties’ positions, I note that sales in this regulated industry often took place at NRBV for the hard assets, exactly where the Parties ended up.
+[51] There is agreement that Transalta’s position on the allocation was that it was more advantageous for them to have as much attributable to goodwill as possible. Having heard the experts’ views on the value of the tangible assets, I find Transalta’s original position that something less than NRBV should be allocated to the tangible assets was likely wishful thinking. From AltaLink’s perspective, the key figure for them was the NRBV, as that was the figure on which their return would be based. Understandably, they would be reluctant to agree to anything less than NRBV for the allocation to tangible assets. But did they care if more than NRBV was allocated to tangible assets or goodwill? We have no direct evidence from anyone from AltaLink on that point and differing views from the experts. I conclude that given the similar rates for capital cost allowance or depreciation between the tangible assets and eligible capital property under the provisions of the Act, and given the amount involved for any possible tax shielding was limited, that it would have made little difference to AltaLink which way the allocation went over and above NRBV. I conclude that, while the bargaining positions in the overall deal were equal, Transalta had a stronger hand when it came to the allocation due to AltaLink’s indifference beyond NRBV.
+Did the Parties engage in "hard" bargaining?
+[52] It follows from what I have just said that the bargaining on the issue of allocation only went so far as get to the NRBV, but no further. From Mr. Woo’s description of the two-week negotiations, and from a review of summaries made at the time with respect to those negotiations, it appears this was a typical exchange of views, horse trading, as Mr. Woo put it, in a major commercial transaction. The Appellant put great emphasis on the concept of "hard bargaining", whatever that might mean. I suppose evidence of considerable back and forth, with strongly worded letters from both sides as to how critical their particular position is on a certain item would constitute hard bargaining; whereas, a concession following a first request may be soft bargaining or indeed no bargaining at all, passive acceptance perhaps. Rather than trying to define bargaining by attaching such a general adjective as "hard" to it, my preference is to look at the circumstances surrounding the bargaining (parties’ positions, importance to the deal, nature of the issue, magnitude of dispute, nature of negotiations, time spent, etc.) and determine if cumulatively these circumstances demonstrate that each side reluctantly had to give something up to reach a compromise agreement.
+[53] In conducting such a review of the Transalta/AltaLink negotiations, I conclude that the bargaining regarding allocation of price was minimal, the amount was not significant in the context of the overall deal, there was an indifference on one side and the Parties ended up where the industry norm and business logic in the regulated industry would naturally take them. I see little compromise.
+[54] In these circumstances (respective bargaining positions and minimal bargaining on allocation), I am not satisfied that the Appellant has made the prima facie case of reasonableness. I find it is necessary for the Court to determine the range of reasonableness for the purposes of a section 68 reallocation.
+[55] Before getting into the factors to consider in determining a reasonable range, I want to be clear that great weight is still to be attached to the arm’s length parties’ agreement: in the circumstances before me, their agreement is simply not conclusive. I will consider other factors.
+Nature of asset
+[56] I have determined goodwill was an asset sold as part of the transaction. I need not revisit my reasons in this regard. I rely on a definition of goodwill other than the "residual price" definition, notwithstanding such definition’s acceptability in accounting circles and to some degree, in legal circles. My concern with the residual price definition is that it would, by its very definition, sweep into goodwill an amount that really represents the reason why a purchaser might pay more for tangible assets rather than payment for the separate asset – goodwill. This is important not only when determining goodwill exists as an asset being sold, but also in attempting to put a price on the goodwill. As discussed earlier, under any definition of goodwill, I am prepared to find goodwill as part of this transaction. But in attempting to allocate price to the asset, I agree with the Respondent that I must draw distinction between what constitutes the asset and what are simply reasons why a purchaser would pay more for the tangible assets.
+[57] The Respondent cites the example of R. v. Jessiman Brothers Cartage Ltd.[13] Jessiman that involved the sale by a private enterprise of a fleet of postal trucks to Canada Post, upon the Government’s decision that Canada Post take over the responsibility for mail transportation. In effect, the Government needed the fleet and was prepared to pay an "operational value" of approximately $91,000. The trucks had a trade-in value of only $57,000. The Court ruled:
+13. … I see no merit in the proposition that the amount over and above their trade-in value was paid for something other than the trucks simply because the Post Office has an immediate need for them "as is" and was prepared to pay that extra amount to satisfy that need.
+14. While its context was very different, the essential question here is really quite similar to that considered by Jackett, P, as he then was, in Ottawa Valley Power Company v. Minister of National Revenue, [1969] C.T.C. 242, 69 D.T.C. 5166. There the taxpayer had a long-term contract to sell 25 cycle power to Ontario Hydro. Sixty cycle power was needed. It was estimated that the cost to Ontario Hydro of its own facility to convert the power would be about $2.5 million while the cost of modifying the taxpayer’s facility would be less than $2 million. The modification was done by Ontario Hydro and, in support of its claim to Ontario Hydro’s expenditure as its own capital cost for tax purposes, the taxpayer contended that it had given up, as consideration, its "bargaining position". At page 252 [5172-3] President Jackett observed:
+With great respect, it seems to me that this contention is based on a confusion of thought. I may have a good "bargaining position" as consideration. I use the "bargaining position" as a means of persuading the other party to give me more than he otherwise would for the property or other consideration that I have to dispose of.
+…
+16. The other "nothing" is said to be the fact that it had a fleet in being, not just 60 individual trucks, that it had maintained its drivers and sold, in addition to the trucks regarded as so much iron, an operating entity and that the Post Office paid for that in order to satisfy its imperative of uninterrupted service. That "nothing", which was variously stated, was really the defendant’s bargaining position which led the Post Office to pay the operating value rather than the market value for the trucks.
+17. I have come to the conclusion that no part of the $91,675 can reasonably be regarded as consideration for anything other than the 60 trucks and that the plaintiff’s actions must succeed.
+…
+[58] I interpret the Court as saying that the purchaser’s reasons for buying, or its bargaining position, is not goodwill of the vendor. Canada Post was just buying trucks and nothing else from the vendor. The situation before me is not as simple as the sale of trucks, but I believe that some of what the Appellant calls goodwill, based on a residual value definition, really represents reasons why AltaLink paid more for the tangible assets.
+[59] Two areas that the Appellant claims constitute goodwill, I find are reasons particular to AltaLink and have nothing to do with any goodwill that Transalta has created or developed.
+[60] The first area of concern is the leverage AltaLink could achieve by structuring its affairs through a partnership for carrying on the electrical transmission business. It is unnecessary to describe in any more detail than is described by Ms. Glass (see the section entitled "leverage" in paragraph 19 of these reasons) the concept of leverage. It is entirely a function of how AltaLink financed the operations – nothing to do with anything Transalta did or created to maintain or increase its customers. It is, from AltaLink’s perspective, a reason it wanted into this regulated industry. It was how AltaLink could get more return from the NRBV, not how Transalta was able to get more return. Transalta was not selling AltaLink any particular asset that could be tied directly to AltaLink’s ability to leverage its investment. Transalta was selling its business and AltaLink could arrange its affairs to get some additional benefit from the return on the NRBV.
+[61] Even considering a residual price definition of goodwill, does the amount of the premium that relates to the leverage fall into goodwill as part of the residual plug? No. The flaw in the plug approach is that it does not recognize that a reason, like leverage, for paying more for a business attaches to the income-producing assets of the business and is more aptly part of their value. It is a fine distinction, but a distinction nonetheless.
+[62] On the same basis, I reach a similar conclusion with respect to the tax allowance element of what the Appellant contends is part of goodwill. Again, reviewing Ms. Glass’ explanation of the tax allowance, it does not pertain to anything Transalta was selling other than the hard assets. It results in part due to how AltaLink structured itself. Why call that an asset of Transalta, other than by having to rely on the residual price definition, but even then, I find that the benefit of the tax allowance is more attachable to tangible assets than to anything else?
+[63] All other elements that the Appellant contends make up goodwill, I accept. All of them (PBR, EPCM, merchant transmission, new markets/growth and skilled employee base) all have value as they go to what Transalta created or developed to maintain or expand its customer base, and consequently it owned something – goodwill – to sell. AltaLink would do well carrying this business forward because Transalta had created an efficient, cost conscious organization that would flourish under a PBR regime: it had created an EPCM contingent geared to prosper in both a regulated and non-regulated setting: it had positioned itself to take off into the merchant transmission regime and similarly positioned itself by reputation and otherwise to grow and enter new markets: it did all this through the creation of a well qualified skilled employee base. That all was significant and it was something Transalta had to sell and was certainly something AltaLink was happy to buy. It had some considerable value.
+Nature of industry
+[64] There are only a couple of points I wish to make regarding the industry. First, the Respondent argues there can be no goodwill in a regulated industry and consequently no value can attach to it. I simply disagree. Transalta has shown it can produce more profit than anticipated in a regulated industry. It has shown it can position itself to take advantage of future opportunities. It can create a reputation. It is a business with some restrictions, but a business nonetheless that I find can have goodwill to sell.
+[65] The second point is that the evidence was that the sale of hard assets in the industry at NRBV was the norm. The Respondent’s response was that that does not make it right. Maybe so, from the Respondent’s perspective, but as I have tried to make clear, section 68 of the Act is not about only one number being reasonable. It is about considering several factors and determining a range of what can reasonably be regarded as consideration for the goodwill. How can the industry norm simply be ignored in a search for what is reasonable? It cannot. Yet, I acknowledge the industry norm is not based on determining a value for goodwill for tax purposes. Also, it would not be in the industry’s best interest to allocate nothing to goodwill. All to say the industry norm and the fact that professional accounting firms continued to account for the goodwill in AltaLink’s books is indicative, but not conclusive of value.
+Context of transaction
+[66] The context of the transaction was not the isolated sale of hard assets. The agreement was very clear that it was the sale of Transalta’s business and all that entailed. AltaLink was not starting afresh simply with some of Transalta’s transmission lines that it would buy and somehow turn into something different. It was buying all the expertise, efficiencies and those other nebulous traits of a business being sold in toto. I find support for some considerable value attaching to goodwill in such circumstances.
+Fair Market Value
+[67] Mr. Lawritsen was not asked to conduct a valuation analysis, yet he had certainly opined that there was minimal value attached to the goodwill. Ms. Glass was asked to conduct a valuation analysis, and relying on a residual value approach, having valued the tangible assets, she concluded the goodwill was the excess amount, being the $190,000,000. It would be far too easy to suggest that two reputable valuators necessarily set the range of what is reasonable. This would ignore the Court’s concern about relying on a questionable definition of goodwill, and effectively deprive parties of a proper judicial hearing.
+[68] Where, as in this case, there is an agreed allocation between arm’s length parties, I am of the view that the end of the range of reasonableness closest to that bona fide agreement is the just price for purposes of a section 68 reallocation. Given that, and given that I found Ms. Glass’ support of some considerable value attributable to goodwill persuasive, my approach in this case is to start with the agreed allocation by the Parties and determine what amounts, if any, should be deducted from it to get to the top end of the reasonable range. There is no need then to attempt to determine the other end of the range.
+[69] I have concluded that amounts attributable to leverage or tax allowance, that Ms. Glass included in her valuation of goodwill, are not part of the asset that Transalta had to sell; consequently, something must be deducted from the agreed allocation of $190,000,000 to reflect those amounts.
+[70] With respect to the tax allowance, AltaLink may have anticipated some greater benefit than it ultimately received, but it did pay the higher price in the expectation of some amount for the tax allowance. The Respondent assumed the allowance was as much as $30,000,000 a year, which would explain a significant portion of the premium. Ms. Glass opined that only a small portion of the premium might have been paid as a result of the tax allowance. She was of the view that the Respondent’s calculation of a tax allowance benefit ignored the reality that AltaLink, the partnership, would have to fund the partners’ obligation to pay the tax. The only real possible benefit was in connection with the one partner, Ontario Teachers Pension Plan Board, who may not have had to pay tax. As it turned out, in 2003 the Board disallowed 25% of the deemed tax allowance, being the portion related to Ontario Teachers Pension Plan Board. One further fact to consider is that, according to Ms. Glass, in 2001 the actual tax allowance was just under $20,000,000. Taking all this into account, I find Ms. Glass’ opinion that the benefit of the tax allowance was significantly less than what the Respondent claims more persuasive: at best, 75% of $20,000,000 a year or $15,000,000 a year, with an expectation, again according to Ms. Glass, that tax rates were declining. Noting that the partners would be obliged to pay the tax in any event, I conclude a reasonable amount of the premium attributable to the tax allowance is the range of $25,000,000 to $50,000,000.
+[71] With respect to the portion of the premium that is attributable to leverage, it was acknowledged by Ms. Glass that "the consortium would have been able to consistently earn a higher return by structuring the transaction using additional leverage…". She anticipated this possible return around 2%, which, interestingly, is close to what Transalta achieved above the regulated rate due to the efficient managing of its operation; such percentage representing approximately $5,000,000 to $6,000,000 a year. A reasonable value for such a deemed benefit for leverage would be approximately $25,000,000.
+[72] I conclude that a range of $50,000,000 to $75,000,000 represents amounts attributable to the premium that do not relate to any goodwill Transalta was selling. They relate more closely to the rate of earnings based on the NRBV of the tangible assets, and specifically AltaLink’s ability to eke out more return from those assets, not due to anything Transalta did to retain or expand its customer base and are, therefore, properly allocated to those tangible assets. This is not an outright rejection of Ms. Glass’ valuation of the tangible assets. My sense of that elaborate valuation was that some minor tweaking of assumptions (tax rates for example) could cause a several million dollar difference. There was room for some flexibility in that valuation that could accommodate a $50 million dollar difference.
+[73] I conclude that the upper end of the range of what can reasonably be regarded as consideration for goodwill sold by Transalta to AltaLink is the amount agreed to by Transalta and AltaLink less $50,000,000. I therefore allow the appeal and refer the matter back to the Minister for reassessment on the basis that $140,824,476 is to be allocated to goodwill. Costs to the Appellant.
+Signed at Ottawa, Canada, this 13th day of July, 2010.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2010 TCC 375
+COURT FILE NO.: 2009-871(IT)G
+STYLE OF CAUSE: TRANSALTA CORPORATION and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: June 2, 3 and 4 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: July 13, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Robert D. McCue
+Counsel for the Respondent:
+Marta E. Burns and Chang Du
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert D. McCue
+Firm: McCarthy Tétrault LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit 13, Joint Book of Documents.
+[2] Exhibit 7, Joint Book of Documents.
+[3] Exhibit 26, Joint Book of Documents.
+[4] Exhibit 38, Joint Book of Documents.
+[5] Exhibit 21, Joint Book of Documents.
+[6] [1901] A.C. 217.
+[7] 96 D.T.C. 1062 (T.C.C.).
+[8] 2000 D.T.C. 2493 (T.C.C.).
+[9] 86 DTC 6138 (S.C.C.).
+[10] 83 DTC 5138 (F.C.A.).
+[11] 88 DTC 1040 (T.C.C.).
+[12] 78 DTC 1669 (Tax Review Board).
+[13] 78 DTC 6205.

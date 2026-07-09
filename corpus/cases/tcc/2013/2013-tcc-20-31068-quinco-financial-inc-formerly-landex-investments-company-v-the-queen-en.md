@@ -1,0 +1,326 @@
+---
+title: "Quinco Financial Inc. (formerly Landex Investments Company) v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31068/index.do"
+last_modified: "2013-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 20"
+citation2: ""
+neutral_citation: "2013 TCC 20"
+decision_date: "2013-01-23"
+language: "en"
+item_id: "31068"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4709
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:21:05.440000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ed86e5f2f932833fd4937ea28e2222f7c12614831975a2573cdb6952328fac3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Quinco Financial Inc. (formerly Landex Investments Company) v. The Queen
+
+- Citation: 2013 TCC 20
+- Decision date: 2013-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4709, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quinco Financial Inc. (formerly Landex Investments Company) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-01-23
+Neutral citation
+2013 TCC 20
+File numbers
+2010-1608(GST)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1608(GST)G
+BETWEEN:
+QUINCO FINANCIAL INC.
+(FORMERLY LANDEX INVESTMENTS),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 27 and 28, 2012, at Calgary, Alberta.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Ken S. Skingle, Q.C.
+Counsel for the Respondent:
+Kathleen T. Lyons
+Donna Tomljanovic
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under Part IX of the Excise Tax Act, notices of which are dated November 26, 2007, December 20, 2007 and February 16, 2010, for the reporting periods of October 2003, November 2003, December 2003 and February 2004 is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim the amount of $2,281,753 in residual input tax credits.
+The appeal is dismissed with respect to the deduction for bad debts claimed by the appellant.
+With costs in favour of the appellant.
+Signed at Ottawa, Canada, this 23th day of January 2013
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2013 TCC 20
+Date: 20130123
+Docket: 2010-1608(GST)G
+BETWEEN:
+QUINCO FINANCIAL INC.
+(FORMERLY LANDEX INVESTMENTS),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Auray J.
+[1] This appeal raises two principal issues:
+A. Residual ITC’s
+(i) whether the appellant was entitled to claim residual Input Tax Credits (“ITCs”) pursuant to subsection 169(1) of the Excise Tax Act (the “Act”) and whether paragraph 232(3)(c) of the Act applied to the residual ITCs.
+Statuted-Barred Issue
+(ii) whether the Minister of National Revenue (the “Minister”) reassessed the appellant within the statutory time limit pursuant to subparagraph 298(1)(a)(i) of the Act.
+B. Bad Debt Deduction
+(i) whether the appellant was entitled to deduct its bad debts pursuant to subsection 231(1) of the Act.
+[2] The day before the trial, I was advised by the appellant that it was conceding the issue dealing with the deduction of bad debts. Accordingly, the appeal with respect to this issue is dismissed.
+[3] At trial, the appellant called one witness: Mr. Brian Spence, Director of Tax for the appellant. The respondent did not call any witnesses.
+[4] The parties also filed a Joint Book of Documents and the following Agreed Partial Statement of Facts:
+AGREED PARTIAL STATEMENT OF FACTS
+For the purposes of this appeal, the parties admit the following facts and agree that their admission of facts shall have the same effect as if the facts had been proved formally and accepted by the Court as true. The parties are free to make submissions with respect to, and are not to be taken as agreeing to, the degree of relevance or weight to be attributed to these facts and documents.
+The parties each reserve the right to adduce additional evidence which is relevant and probative of any issue before the Court and which is not inconsistent with the facts admitted herein.
+Appendices 1, 2, 3 and 5 form part of this Agreed Partial Statement of Facts. Note that there is no Appendix 4, which has been deliberately omitted by the parties.[1]
+Reassessments Under Appeal
+1. The three goods and services tax (“GST”) reassessments under appeal, each dated February 16, 2010, are in respect of input tax credit (“ITC”) claims made by the Appellant in the following monthly reporting periods:
+(a) October 2003 (“First Reassessment”);
+(b) November 2003 through February 2004 (“Second Reassessment”); and
+(c) March 2004 and April 2004 (“Third Reassessment”).
+Notification of these reassessments under appeal was given by Notices of Reassessment dated February 16, 2010.
+2. The reassessments under appeal were made by the Minister of National Revenue (“Minister”) under Part IX of the Excise Tax Act (Canada) (“Act”) to give effect to decisions of the Minister on three objections to previous GST (re)assessments, which are described at paragraph 18 below. All statutory references herein are to the Act, unless otherwise indicated.
+General Background
+3. On August 27, 2004, the Brick Warehouse Corporation (“Brick Corp.”) amalgamated with at least one other corporation to form the Appellant corporation with the name “Landex Investments Company” which name was subsequently changed to “Quinco Financial Inc.”. The Appellant was continued under Nova Scotia company law with an effective date of September 17, 2004, and later was continued under Alberta corporate law with an effective date of January 22, 2010.
+4. Brick Corp. was registered for GST purposes, with a monthly reporting period and a fiscal year-end at the end of February.
+5. In the GST/HST returns that it filed for its reporting periods ending from September 30, 1999 to April 30, 2004, inclusive, Brick Corp. (a) reported tax collected, (b) claimed ITCs and (c) reported net tax in the amounts set out in attached Appendix 2.
+6. Brick Corp. filed GST/HST returns for its monthly reporting periods ending between:
+(a) November 1, 2000, and February 28, 2001;
+(b) October 1, 2001 and February 28, 2002; and
+(c) August 1, 2002 and February 28, 2003.
+Each such period of time is referred to herein as a “Deferral Period”.
+7. Brick Corp. carried on the business of purchasing furniture, mattresses, electronics and appliances from various suppliers at the manufacturing and wholesale level, and reselling those products at retail to customers.
+Claimed ITCs
+8. During each Deferral Period, Brick Corp. made purchases of supplies of property and services (“Supplies”) that were taxable at 7%, which were invoiced by various suppliers. Brick Corp. recorded amounts of GST payable to suppliers by it on those Supplies in its general ledger for each of those Deferral Periods, but did not claim any ITCs on the GST/HST returns it filed for the monthly reporting periods ending November 30, 2000, December 31, 2000, February 28, 2001, between October 1, 2001 and February 28, 2002 and between August 1, 2002 and December 31, 2002. The amounts of ITCs Brick Corp. claimed in its returns for the reporting periods ending January 31, 2001, January 31, 2003 and February 28, 2003 are described in Appendix 2.
+9. The amount Brick Corp. claimed as ITCs in its GST/HST returns filed for the reporting periods ending March 31, 2001, March 31, 2002 and July 31, 2003 are described in Appendix 2.
+10. During each of the Deferral Periods, Brick Corp. received credit notes from, or issued debit notes to (collectively, the “Notes”), various suppliers for credits on Brick Corp.’s accounts with those suppliers (“Credit Amounts”). The main reasons for those credits were as follows:
+(a) as an incentive “reward” for Brick Corp. achieving a target level of purchases or sales of the supplier’s products; or
+(b) in recognition of Brick Corp.’s use of certain items of its inventory of the products as floor models or for display purposes at home shows; or
+(c) in recognition of discrepancies, relative to what had been ordered, in the unit price, quantity or other specification of products purchased by Brick Corp. from the particular supplier; or
+(d) in respect of the purchase price and shipping costs of returned items, or the cost to Brick Corp. of making minor repairs to items retained by Brick Corp. where Brick Corp. had purchased the items from the supplier and subsequently found them to be damaged, defective or not as ordered.
+11. On each of the Notes, a Credit Amount was specified and the GST allocable to the Credit Amount (“GST Credit”) was shown separately as an additional credit for GST.
+12. In each of its GST/HST returns filed for the reporting periods ending March 31, 2001, March 31, 2002 and July 31, 2003, Brick Corp. claimed ITCs – which had not previously been claimed – for GST payable by Bricks Corp. on Supplies it had acquired during the respective Deferral Periods.
+13. The ITC amount claimed in respect of each Deferral Period was equal to the total amount of gross GST originally payable on the relevant Supplies during the particular Deferral Period, less the GST Credits on the Notes received or issued.
+14. Following advice from their external accountants, Brick Corp. subsequently decided to claim ITCs in an amount equal to the GST Credits recorded during the Deferral Periods on those Supplies for which Notes were received or issued. Brick Corp. then proceeded to claim $3,910,610 as ITCs (“Claimed ITCs”) in its GST/HST returns for the September 2003, October 2003, November 2003, December 2003 and February 2004 reporting periods. The Claimed ITCs had not previously been claimed and were claimed within the four year period allowed under subsection 225(4).
+15. The Supplies were originally acquired exclusively for use or supply by Brick Corp. in the course of Brick Corp.’s commercial activities.
+Deductions for Cardholder Debts
+16. Brick Corp. concedes that it is not entitled to any of the bad debt deductions (“Deductions”) claimed in respect of the Relevant Cardholder Debts (as defined in the Brick Corp. notice of appeal) in determining its net tax at any time.
+Assessments and Reassessments
+17. With the exception of its GST return for the February 2004 reporting period which was filed late on April 6, 2004, Brick Corp. filed its GST return for each of the monthly reporting periods in issue as follows:
+Reporting Periods Ending
+Dates on Which GST/HST Returns Were Filed by Brick Corp.
+Due dates for the GST Returns
+31/10/2003
+28/11/2003
+01/12/2003
+30/11/2003
+31/12/2003
+31/12/2003
+31/12/2003
+02/02/2004
+02/02/2004
+31/01/2004
+09/02/2004
+01/03/2004
+29/02/2004
+06/04/2004
+31/03/2004
+31/03/2004
+30/04/2004
+30/04/2004
+30/04/2004
+31/05/2004
+31/05/2004
+18. Brick Corp. was assessed, it objected and was then reassessed as follows:
+Monthly Reporting Periods
+Oct 2003-Feb 2004
+Nov 2003-Feb 2004
+Mar 2004-Apr
+2004 1
+Assessment
+Nov 26, 2007
+Dec 20, 2007 (reassessment)
+Apr 30, 2008
+Objection Sent
+Feb 22, 2008
+Apr 30, 2008
+June 26, 2008
+Reassessed
+Feb 16, 2010 (only Oct 2003)
+Feb 16, 2010
+Feb 16, 2010
+The objections related to the Claimed ITCs issued and the Deductions issue.
+______________
+1 This assessment, objection and subsequent reassessment relate to the Deductions issue.
+19. By Notice of Assessment dated November 26, 2007, the Minister assessed the net tax of Brick Corp. for each of its monthly reporting periods from October 2003 to February 2004, inclusive (“First Assessment”), increasing net tax in respect of the Claimed ITCs, as described in attached Appendix 1 (under the “1st audit – adjustments” column) and Appendix 3.
+20. By Notice of Reassessment dated December 20, 2007, the Minister subsequently reassessed Brick Corp. net tax for each of its November 2003 to February 2004 reporting periods, inclusive (“Second Assessment”) to increase the net tax previously assessed, by adding back the Deductions Brick Corp. had claimed with respect to the Cardholder Debt. The adjustments for each of those reporting periods are described in attached Appendix 3.
+21. By Notice of Assessment dated April 30, 2008, the Minister assessed Brick Corp.’s net tax for its March 2004 and April 2004 reporting periods (“Third Assessment”), to add back the amount of the Deductions the Appellant had claimed with respect to the Relevant Cardholder Debts. The adjustments for each of those two reporting periods are described in attached Appendix 3.
+22. The combined effect of the First Assessment, the Second Assessment and the Third Assessment was to increase Brick Corp.’s net tax for the October 2003 to April 2004 reporting periods by $4,688,996.05 in total, as described in attached Appendix 1 (under the “total audit adjustments” column).
+23. Upon considering the Brick Corp.’s three objections, the Minister issued three reassessments dated February 16, 2010, which related to the reporting period ending October 31, 2003 (i.e., the First Reassessment), the reporting periods ending between November 1, 2003 and February 29, 2004 (i.e. the Second Reassessment), and the reporting periods ending March 31, 2004 and April 30, 2004 (i.e. the Third Reassessment), respectively. The February 16, 2010 reassessments reassessed the net tax of Brick Corp. for the reporting periods at issue as indicated in attached Appendix 3.
+24. In issuing the February 16, 2010 reassessments, the Minister accepted the clarification and additional information provided by Brick Corp. that supported that some of the Claimed ITCs were deducted in calculating the net tax reported on the GST return for the reporting period ending one month before the month in which the adjustment had been made by the November 26, 2007 reassessment and that certain Deductions were unrelated to the Relevant Cardholder Debts (as defined in the Brick Corp. notice of appeal). The Adjustments made by the Minister in the Feb 16, 2010 reassessments are set out in Appendix 3.
+25. In summary, the Minister allowed the Brick Corp.’s objections in part to reduce the total original assessments by $681,192.36.
+26. For purposes of Brick Corp.’s statute-barred assertion in paragraph 49 of the notice of appeal, the amount in issue relating to the Claimed ITCs remains the full amount of $3,262,755.
+27. Apart from the statute-barred assertion as referred to in paragraph 26 above, for purposes of the substantive issue of whether Brick Corp. is entitled to claim the Claimed ITCs, Brick Corp. concedes that it is not entitled to deduct $133,163 of the Claimed ITCs that were disallowed by the Minister as those amounts relate to marketing or promotional services supplied by Brick Corp. to certain of the suppliers. Thus, the amount remaining in dispute under the substantive issue relating to the Claimed ITCs is $3,139,592.
+28. Attached as appendix 5 is a “Brick Corp. Timeline Diagram” which depicts three Deferral Periods, the timing of the claiming of the ITCs for those three Deferral Periods, and the timing of the subsequent claiming of the Claimed ITCs, and the reporting periods covered by the assessments and the reassessments issued by the Minister.
+A. Residual ITCs
+(i) whether the appellant was entitled to claim residual ITCs pursuant to subsection 169(1) of the Act and whether paragraph 232(3)(c) of the Act applied to the residual ITCs.
+[5] For income tax planning purposes, the appellant deferred its ITC claims, on property and services it acquired in the course of its commercial activity, for the following three periods (the “deferral periods”):[2]
+1. from November 2000 through February 2001;
+2. from October 2001 through February 2002; and
+3. from August 2002 through February 2003.
+[6] In filing its GST/HST returns (“GST returns”), the appellant claimed its ITCs with respect to the three deferral periods in the following reporting periods:
+- in the period ending March 31, 2001 for the deferral period from November 2000 through February 2001;
+- in the period ending March 31, 2002 for the deferral period from October 2001 through February 2002; and
+- in the period ending July 31, 2003 for the deferral period from August 2002 through February 2003.
+[7] In filing the above GST returns, the appellant claimed net ITCs comprised of the total amount of gross GST originally payable on the relevant supplies less reductions in GST resulting from credit or debit notes received from the supplier or issued by the appellant. In what follows I will refer to this claim as “netted ITCs”.
+[8] Although the appellant was issuing debit notes or receiving credit notes from its suppliers, the evidence at trial showed that in filing its GST returns, the appellant did not adjust its net tax pursuant paragraph 232(3)(c) of the Act. Mr. Spence stated in his testimony that the netted ITC approach used by the appellant was in error. According to Mr. Spence, the appellant should have applied paragraph 232(3)(c) of the Act to increase its net tax by the amounts of GST credited by its suppliers, at least for its non-deferral periods.
+[9] In October 2002, the appellant retained KPMG to perform a review of its GST compliance. KPMG advised the appellant that it was entitled to claim ITCs in respect of the gross GST originally payable with respect to the invoices dealing with the deferral period. As was stated by Mr. Spence, the appellant had erroneously netted its ITCs with respect to the property and services it had acquired during the deferral periods.
+[10] Accordingly, the appellant claimed the difference between the netted ITCs and the gross GST originally payable on the invoices dealing with the deferral period. In what follows, I will refer to this difference as the “residual ITCs”.
+[11] Residual ITCs were claimed by the appellant in its GST returns for the following reporting periods and amounts:
+September 2003 $647,855[3]
+October 2003 $1,360,945
+November 2003 $944,819
+December 2003 $689,709
+February 2004 $267,282
+[12] The appellant claimed the residual ITCs within the four year period prescribed by subsection 225(4) of the Act.
+[13] The residual ITCs are the subject of this appeal.
+[14] The appellant argued:
+- that under subsection 169(1) of the Act, the amount of the ITC entitlement for GST payable on the supplies in issue was determined at the time each supplier first issued its invoice. The ITCs are not subject to subsequent adjustment under any provision of the Act as a result of a note subsequently being received or issued;
+- that the scheme of the Act is such that at the time a credit note is received or a debit note issued, it must be added back to the net tax of the registrant under paragraph 232(3)(c) of the Act to the extent that the registrant has claimed the related ITC in the same or an earlier period;
+- that paragraph 232(3)(c) of the Act specifically applies to credit and debit notes and is separate and distinct from subsection 169(1) of the Act, which establishes the ITC entitlement; and
+- that paragraph 232(3)(c) of the Act did not apply in respect of the notes received or issued because the ITCs relating to the deferral periods had not been claimed by the appellant in a return filed for the reporting period in which the notes were received or a preceding reporting period. Since the conditions of paragraph 232(3)(c) of the Act were not met the appellant was not required to add the GST credit or debit amounts from the notes to its net tax.
+[15] The respondent argued:
+- that the appellant had to pay the GST to its suppliers on the value of the consideration for the supply under subsection 165(1) of the Act; if the consideration for the supply was reduced, the liability of the appellant for this supply would be reduced. The price reduction portion related to the GST returned to the appellant by the supplier cannot be claimed as an ITC since the GST was no longer payable on that portion of the price reduction pursuant to subsections 168(1) and 169 of the Act;
+- that the value of the consideration stated on an original invoice and the associated GST payable do not “crystallize” on the issuance of the invoice as proposed by the appellant. In light of the provisions of the Act providing a registrant with four years to claim its ITCs, it does not make sense to suggest that the GST payable is frozen in time by virtue of the issuance of the invoices;
+- that section 232 of the Act does not apply in this appeal, because:
+· the appellant in filing its GST returns claimed netted ITCs for both the non-deferral periods and the deferral periods by reducing its ITCs by the portion of the GST returned on the notes. Since the original netted claims were correct, section 232 of the Act does not apply. The Minister was not required to adjust net tax in the deferral periods pursuant to section 232 of the Act, since only the entitlement to ITCs under subsection 169(1) of the Act was engaged by the appellant with respect to its ITC claim;
+· section 232 of the Act is a provision that must be invoked by the supplier and not by the recipient (i.e., the appellant). The purpose of this section is to prescribe the filing consequences for the recipient if a supplier invokes section 232 of the Act to claim back remitted GST.
+- that the appellant could not claim its residual ITCs since there was not sufficient evidence to enable the determination of the ITCs.
+Analysis
+[16] Subsection 168(1) and subsection 152(1) read as follows:
+168. (1) Tax under this Division in respect of a taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+152. (1) For the purposes of this Part, the consideration, or a part thereof, for a taxable supply shall be deemed to become due on the earliest of
+(a) the earlier of the day the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice,
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part, and
+(c) the day the recipient is required to pay that consideration or part to the supplier pursuant to an agreement in writing.
+[17] Pursuant to subsection 168(1) of the Act, tax is payable by the recipient on the on the earlier of the day the consideration for the supply is paid and the day the consideration becomes due. Pursuant to subsection 152(1) of the Act, the day that the consideration becomes due is the day the invoice is issued. In this appeal, the tax on the supplies became payable by the appellant on the day that each invoice was issued by its suppliers.
+[18] Taking into account that the tax was payable by the appellant at the time each invoice was issued by its suppliers, the appellant’s ITC entitlements crystallised at that time, namely at the time each invoice was issued. This flows from the wording of subsection 169(1) of the Act. The relevant portion of subsection 169(1) applicable to this appeal reads as follows:
+Subject to this Part, where a person (the appellant) acquires . . . property or a service . . . and, during a reporting period of the person (of the appellant) . . . tax in respect of the supply . . . becomes payable by the person (by the appellant at the time the invoice is issued by virtue of subsections 168(1) and 152(1)) . . . the amount determined by the following formula is an input tax credit of the person (the appellant) in respect of the property for the period:
+A x B
+where
+A is the tax in respect of the supply . . . that becomes payable by the person (by the appellant at the time the invoice is issued by virtue of subsections 168(1) and 152(1)) during the reporting period.
+[Words in bold added.]
+[19] The interpretation proposed by the respondent, that the ITC entitlement does not crystallize on the issuance of the invoice by virtue of subsections 168(1) and 169(1) of the Act, does not accord with the wording of the provisions.
+[20] I also do not agree with the respondent’s position that, by virtue of subsections 168(1) and 169(1) of the Act, an ITC can be reduced by the GST credited or issued by a note. In my view, except for section 232 of the Act, there are no provisions in the Act that require a registrant to make an adjustment to an ITC as result of a credit note or debit note being received or issued.
+[21] The following definitions of the terms “credit note” and “debit note” found in subsection 123(1) of the Act confirm the application of subsection 232(3) of the Act, when a credit note is received or a debit note is issued.
+“credit note” means a credit note issued under 232(3)
+“debit note” means a debit note issued under 232(3)
+[22] Once invoked by a supplier, subsection 232(3) of the Act sets out what is required from the supplier and the recipient once a credit note is received or a debit note is issued. Paragraphs 232(3)(b) and 232(3)(c) of the Act read as follows:
+(3) Where a particular person adjusts, refunds or credits an amount in favour of, or to, another person in accordance with subsection (1) or (2), the following rules apply:
+. . .
+(b) the amount may be deducted in determining the net tax of the particular person for the reporting period of the particular person in which the credit note is issued to the other person or the debit note is received by the particular person, to the extent that the amount has been included in determining the net tax for the reporting period or a preceding reporting period of the particular person;
+(c) the amount shall be added in determining the net tax of the other person for the reporting period of the other person in which the debit note is issued to the particular person or the credit note is received by the other person, to the extent that the amount has been included in determining an input tax credit claimed by the other person in a return filed for the reporting period or a preceding reporting period of the other person; and
+[23] Accordingly, if a credit note or a debit note is issued, under paragraph 232(3)(b) of the Act, the supplier may deduct from its net tax the amount of tax that it credited to the recipient. However, pursuant to paragraph 232(3)(c) of the Act, if a supplier issued a credit note to a recipient or if a debit note is issued, the recipient must add the amount of tax credited in determining its net tax.
+[24] I agree with the appellant that subsection 232(3) of the Act would be unnecessary if the respondent’s interpretation of subsections 168 and 169 of the Act was correct.
+[25] The respondent argued that it is the supplier who must invoke subsection 232(3) of the Act and not the recipient (in this case, the appellant). In this appeal, subsection 232(3) of the Act was invoked by the suppliers when they issued credit notes to the appellant.
+[26] However, additions to net tax will be required pursuant to paragraph 232(3)(c) of the Act only if the appellant has claimed ITCs in respect of credited tax in the same, or a preceding, reporting period as the one in which the credit and debit notes were issued or received.
+[27] In this appeal, paragraph 232(3)(c) does not apply. It was established in evidence that with respect to the deferral periods, the appellant did not claim the ITCs in the same, or a preceding, reporting period as the periods in which the credit or debit notes were issued or received. No addition to net tax is mandated where an ITC was claimed after the reporting period in which a debit or credit note was issued or received.
+[28] The respondent also argued that the appellant’s interpretation of subsections 168(1), and 169(1) and paragraph 232(3)(c) does not respect the object and spirit of the Act, which is to attain tax neutrality as between GST paid to suppliers in the course of a registrant’s commercial activity and ITCs claimed.
+[29] As I stated earlier, subsection 232(3) of the Act is, in my view, the provision applicable when credit and debit notes are received or issued.
+[30] The Supreme Court of Canada stated in the decision of Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, that when the words of a provision are clear and unambiguous the words should be given a dominant role in the interpretative process, particularly when dealing with provisions that specify precisely what conditions must be satisfied to achieve a particular result. Chief Justice McLachlin and Justice Major, writing for an unanimous Court, stated the following at paragraphs 10 through 12 on principles of statutory interpretation as they apply to tax legislation:
+10 It has been long established as a matter of statutory interpretation that the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words plays a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+11 As a result of the Duke of Westminster principle (Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)) that taxpayers are entitled to arrange their affairs to minimize the amount of tax payable, Canadian tax legislation received a strict interpretation in an era of more literal statutory interpretation than the present. There is no doubt today that all statutes, including the Income Tax Act, must be interpreted in a textual, contextual and purposive way. However, the particularity and detail of many tax provisions have often led to an emphasis on textual interpretation. Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe.
+12 The provisions of the Income Tax Act must be interpreted in order to achieve consistency, predictability and fairness so that taxpayers may manage their affairs intelligently. As stated at para. 45 of Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622:
+[A]bsent a specific provision to the contrary, it is not the courts’ role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way.
+See also 65302 British Columbia, at para. 51, per Iacobucci J. citing P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997), at pp. 475-76:
+It would introduce intolerable uncertainty into the Income Tax Act if clear language in a detailed provision of the Act were to be qualified by unexpressed exceptions derived from a court’s view of the object and purpose of the provision.
+[31] In Dowbrands Canada Inc. v. Canada, [1997] G.S.T.C. 85, Justice McArthur of the Tax Court dealt with a case where, as in the present appeal, it appeared as though the appellant had received a windfall tax benefit not contemplated by the object, spirit and purpose of the Act. However, the wording of the Act allowing the windfall benefit was unambiguous, and therefore the Court could not resort to applying what may have been a contrary intention behind the provisions. According to Justice McArthur at paragraph 24:
+24 The fact that the Appellant may not have intended to refund any portion of the GST originally paid by its customers when it made the rebate payments and subsequently claimed a windfall tax advantage is of no consequence to this appeal. I think it is appropriate to quote the SCC in Antosko v. Minister of National Revenue,
+Where the words of the section are not ambiguous, it is not for this Court to find that the appellants should be disentitled to a deduction because they do not deserve a “windfall” ... In the absence of a situation of ambiguity, such that the Court must look to the result of a transaction to assist in ascertaining the intent of Parliament, a normative assessment of the consequences of the application of a given provision is within the ambit of the legislature, not the courts.
+[Footnotes omitted].
+[32] The language of paragraph 232(3)(c) of the Act is clear and unambiguous. The condition for an addition to net tax will be required only to the extent that a registrant has claimed ITCs in the same or preceding period in which the credit and debit notes were issued or received. This was not the case in this appeal.
+[33] The respondent also argued that the appellant did not meet the requirements of subsection 169(4) of the Act and related regulations setting out the documentation needed to support a claim for ITCs. In the respondent’s view, there were deficiencies in the documentation supporting the ITCs. The respondent further stated that the appellant’s method to determine its residual ITCs was also deficient. These arguments were not raised in the respondent’s Reply to the Notice of Appeal. Accordingly, they ought not to have been raised at trial and cannot be considered in these Reasons for Judgment.
+[34] The appellant is entitled to claim its residual ITCs pursuant to subsection 169(1) of the Act. Paragraph 232(3)(c) of the Act does not apply in this appeal.
+[35] The appeal is therefore allowed with respect to the residual ITCs
+A. Statute-Barred Issue
+(ii) whether the Minister reassessed the appellant within the statutory time limit pursuant to subparagraph 298(1)(a)(i) of the Act.
+[36] There were numerous reassessments but I will only refer to the ones dealing with the residual ITCs.
+[37] The first reassessment is dated November 26, 2007, denying the residual ITCs claimed by the appellant during the reporting periods of October 2003, November 2003, December 2003 and February 2004.
+[38] The second reassessment is dated December 20, 2007, denying the residual ITCs of November 2003, December 2003 and February 2004. It corrected amounts in the preceding reporting periods.
+[39] There were two other reassessments in February 2010. They were issued to give effect to decisions of the Minister on Notices of Objections filed by the appellant in respect of the 2007 reassessments.
+[40] The appellant argued that the Minister did not reassess within the time limit prescribed by the Act, which provides that an assessment of net tax of a person for a reporting period of a person shall not be made more than for years after the later of the date the person was required to file a return under section 238 of the Act and the date the return was filed.
+[41] The appellant submitted that it filed its GST return for the last deferral period by the filing deadline of March 31, 2003. The returns for all prior deferral periods had also been filed prior to that date. Accordingly, the Minister could not reassess the appellant after March 30, 2007. Since the Minister’s earliest reassessments with respect to the residual ITCs were dated November 26, 2007 and December 20, 2007, the Minister was outside the time limits to reassess the appellant pursuant to subparagraph 298(1)(a)(i) of the Act. Accordingly, the appellant should be entitled to claim residual ITCs in the amount of $3,262,755.
+[42] The respondent stated that the appellant is not using the correct reporting periods in calculating the four year time limits for the Minister to reassess. The respondent stated that the evidence established that when the appellant filed its GST return with respect to its deferral periods in March 2001, in March 2002 and July 2004, the appellant claimed netted ITCs. She stated that until the appellant decided to act upon the advice of KPMG, and claimed the residual ITCs in its GST returns for the reporting periods of September 2003, October 2003, November 2003, December 2003, and February 2004, the Minister had no basis to reassess the appellant. The Minister’s position was and still is that the correct approach was for the appellant to report the netted ITCs.
+[43] The respondent therefore submitted that the calculation of the four year time limit to reassess the appellant under subparagraph 298(1)(a)(i) of the Act began on December 1st, 2003. Pursuant to section to 238 of the Act, the appellant had to file its GST return for October 2003 by December 1st, 2003. Accordingly, the Minister had until December 1st, 2007 to reassess the October 2003 reporting period. Therefore, the Minister’s reassessment dated November 26, 2007 was within the time limit to reassess the appellant.
+[44] The appellant argued in the alternative that, if I were to find that the reassessments were not statute-barred, and here I quote from its paragraph 44 of its Written Memorandum:
+(i) section 232 was the only provision that potentially might have applied to require an addition to net tax in respect of the Notes that were issued or received in the reporting periods which comprised the Deferral Periods, and (ii) section 232 did not apply in respect of $2,281,753 ($3,129,592 - $847,839) of the Claimed ITCs because those ITCs were not claimed in the reporting period in which the Notes were issued or received or an earlier period, and (iii) $981,002 ($133,163 + 847,839) of the Claimed ITCs were properly disallowed by the Minister.
+Analysis
+[45] In my opinion, the Minister was within the four year time limit to reassess the appellant, as prescribed by subparagraph 298(1)(a)(i) of the Act. The residual ITCs were claimed by the appellant in its GST returns for October 2003, November 2003, December 2003 and February 2004, since those were the periods in which the discrepancy in the net tax arose. The reassessments were valid since the Minister had until December 1st, 2007 to reassess the appellant for the October 2003 reporting period. The second reassessment dated December 20, 2007 for the November 2003, December 2003 and February 2004 reporting periods was also issued within the four year period prescribed by subparagraph 298(1)(a)(i) of the Act.
+[46] The Minister could have not assessed before the appellant claimed the residual ITCs in October 2003, November 2003, December 2003 and February 2004. As was stated by the respondent, prior to these periods the appellant reported and claimed netted ITCs. The Minister did not have a basis to reassess the appellant.
+[47] In any event, the appellant conceded that the amount of $133,163 should have not been claimed as residual ITCs, since this amount related to marketing or promotional services supplied by the appellant to certain of its suppliers. The appellant also conceded that an amount of $847,839 should have not been claimed as residual ITCs, since those ITCs were claimed prior to the issuance or receipt of the debit or credit notes.
+[48] The Minister was therefore within the time limits under subparagraph 298(1)(a)(i) of the Act to assess and to deny the amount of $981,002 ($133,163 + $847,839) since the appellant was not entitled to claim that amount in calculating its residual ITCs under subsection 169(1) of the Act.
+[49] Accordingly, in light of my conclusion that paragraph 232(3)(c) of the Act did not apply to the residual ITCs, the appellant is entitled to claim as residual ITCs, pursuant to subsection 169(1) of the Act, the amount of $2,281,753 ($3,262,755 – $981,002).
+[50] With costs in favour of the appellant.
+Signed at Ottawa, Canada, this 23th day of January 2013
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2013 TCC 20
+COURT FILE NO.: 2010-1608(GST)G
+STYLE OF CAUSE: QUINCO FINANCIAL INC. (FORMERLY LANDEX INVESTMENTS) v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: June 27, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: January, 23, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Ken S. Skingle, Q.C.
+Counsel for the Respondent:
+Kathleen T. Lyons
+Donna Tomljanovic
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ken S. Skingle, Q.C.
+Firm: Felesky Flynn LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I have not reproduced the Appendices attached to the Agreed Partial Statement of Facts.
+[2] I have attached to my Reasons for Judgment Annex 1, which was produced by the parties at trial. It details the ITCs reported and claimed by the appellant.
+[3] The reassessments did not include the reporting period ending in September 30th, 2003, this period was statute-barred.

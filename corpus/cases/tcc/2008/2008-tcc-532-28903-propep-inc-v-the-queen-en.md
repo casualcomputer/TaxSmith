@@ -1,0 +1,381 @@
+---
+title: "Propep Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28903/index.do"
+last_modified: "2008-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 532"
+citation2: ""
+neutral_citation: "2008 TCC 532"
+decision_date: "2008-10-01"
+language: "en"
+item_id: "28903"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1411
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:46:58.902000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4f73b3806847cc7830a703807cb5934d0227a0191214cf924318e8289335a813"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Propep Inc. v. The Queen
+
+- Citation: 2008 TCC 532
+- Decision date: 2008-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1411, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Propep Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-01
+Neutral citation
+2008 TCC 532
+File numbers
+2007-1882(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1882(IT)G
+BETWEEN:
+PROPEP INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 9, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Serge Racine
+Stéphane Larochelle
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act (ITA) for the 1999 to 2003 taxation years, inclusive, are allowed, with costs to the Appellant, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant may claim the amount of the small business deduction to which it is entitled under the ITA without regard to the business limit for the corporations Pépinière Abbotsford Inc. and Centre du Jardinage Abbotsford Inc. during the years in issue.
+Signed at Montréal, Quebec, this 1st day of October 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 12th day of May 2009.
+François Brunet, Reviser
+Citation: 2008 TCC 532
+Date: 20081001
+Docket: 2007-1882(IT)G
+BETWEEN:
+PROPEP INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from the assessments made by the Minister of National Revenue (Minister) disallowing, in whole or in part, the small business deduction (SBD) the Appellant had claimed under subsection 125(1) of the Income Tax Act (ITA) for the 1999 to 2003 taxation years, inclusive. The Minister disallowed the deduction on the ground that the Appellant was associated with the corporations Pépinière Abbotsford Inc. (Pépinière) and Centre du Jardinage Abbotsford Inc. (Centre du Jardinage) and thus divided the business limit among the three corporations, thereby reducing the SBD claimed by the Appellant.
+Issue
+[2] The issue may be summarized as follows: was the Appellant associated with the two other corporations during the years in issue, as the Minister claims, under section 256 of the ITA?
+Statutory provisions
+[3] Paragraph 256(1)(c), subparagraph 256(1.2)(f)(ii) and subsection 256(1.3) of the ITA govern in this case. I will reproduce the relevant passages of those provisions:
+256.(1) Associated corporations – For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+...
+(c) each of the corporations was controlled, directly or indirectly in any manner whatever, by a person and the person who so controlled one of the corporations was related to the person who so controlled the other, and either of those persons owned, in respect of each corporation, not less than 25% of the issued shares of any class, other than a specified class, of the capital stock thereof;
+256(1.2) Control, etc. – For the purposes of this subsection and subsections 256(1), 256(1.1) and 256(1.3) to 256(5),
+...
+(f) where shares of the capital stock of a corporation are owned, or deemed by this subsection to be owned, at any time by a trust,
+...
+(ii) where a beneficiary’s share of the accumulating income or capital therefrom depends on the exercise by any person of, or the failure by any person to exercise, any discretionary power, those shares shall be deemed to be owned at that time by the beneficiary, ...
+256.(1.3) Parents deemed to own shares – Where at any time shares of the capital stock of a corporation are owned by a child who is under 18 years of age, for the purpose of determining whether the corporation is associated at that time with any other corporation that is controlled, directly or indirectly in any manner whatever, by a parent of the child or by a group of persons of which the parent is a member, the shares shall be deemed to be owned at that time by the parent unless, having regard to all the circumstances, it can reasonably be considered that the child manages the business and affairs of the corporation and does so without a significant degree of influence by the parent.
+Partial agreement as to the facts
+[4] The parties produced a partial agreement as to the facts, which is set out in full below.
+[TRANSLATION]
+Partial Agreement as to the Facts
+The parties agree as to the following facts for the sole purposes of this appeal and without prejudice to their right to prove additional facts at the hearing of the appeal that are not inconsistent with the facts set out in this agreement:
+1. The Appellant's head office is located at 605 rue Principale in St‑Paul d'Abbotsford in the province of Quebec.
+2. On May 29, 2002, the Appellant was informed by letter that the Minister of National Revenue (the Minister) intended to reassess for the 1999 to 2001 taxation years and to disallow, in whole or in part, the deductions claimed by the Appellant under section 125 of the ITA, on the basis that the Appellant was associated with the corporations Pépinière Abbotsford inc. and Centre du Jardinage Abbotsford inc. In that letter, the Appellant was informed of that it could submit an agreement under which the "business limit" was divided among the Appellant and the corporations with which it was allegedly associated.
+3. On August 8, 2003, the Appellant was informed of the Minister's decision to reassess for the 1999 to 2003 taxation years and to disallow, in whole or in part, the deductions claimed by the Appellant under section 125 of the ITA on the basis that it was associated with the corporations Pépinière Abbotsford inc. and Centre du Jardinage Abbotsford inc., and having regard to the agreements submitted by Pépinière Abbotsford inc. under which the "business limit" was divided between that corporation and the corporations with which it was allegedly associated.
+4. On September 6, 2002, the Appellant submitted the prescribed form waiving the application of the normal assessment period for the taxation year ending on January 31, 1999.
+5. By notices of reassessment dated November 19, 2003, the Minister disallowed the following deductions claimed by the Appellant under subsection 125(1) of the ITA in computing its tax payable under Part I of the Act:
+Taxation Year
+SBD disallowed
+1999
+$28,088
+2000
+$27,430
+2001
+$25,087
+2002
+$25,322
+6. By notice of reassessment dated May 25, 2004, the Minister disallowed a deduction of $32,340 claimed by the Appellant under subsection 125(1) of the ITA in computing its tax payable under Part I of the Act for the 2003 taxation year.
+7. By notice of confirmation dated January 22, 2007, the Minister confirmed the reassessments dated November 19, 2003, and May 25, 2004, referred to in paragraphs 5 and 6 of this agreement.
+8. The Appellant's fiscal year is from February 1 to January 31 of the following year.
+9. Throughout the period in issue, all of the voting shares in the Appellant were owned by 9059‑3179 Québec inc.
+10. Throughout the period in issue, all of the voting shares in 9059‑3179 Québec inc. were part of the trust patrimony of Fiducie Propep.
+11. Fiducie Propep was incorporated on January 27, 1998, by Serge M. Racine.
+12. Throughout the period in issue, the trustees of Fiducie Propep were Pierre Paquette and Pierre Choquette.
+13. Pierre Paquette and Pierre Choquette are not related persons within the meaning of subsection 251(2) of the ITA.
+14. Clause 2.1.1 of the deed establishing Fiducie Propep provides that the expression "beneficiary" has the following meaning for the purposes of the deed:
+For capital and revenue: First-ranking beneficiary: 9059‑3179 Québec Inc., until it is wound up; Second-ranking beneficiary: Pierre‑Marc Paquette, born 01‑07‑1986.
+15. Pierre‑Marc Paquette was born on July 1, 1986, and is the son of Pierre Paquette.
+16. Clause 4.1 of the Fiducie Propep trust deed provides as follows:
+The Trustees shall hold the trust capital until such time as it is wound up. It may at any time pay to the Beneficiaries, or to one of them, all or part of the net annual income of the trust, in such proportions as it may in its absolute discretion establish. The Trustees shall also have the power, in their absolute discretion and at all times, to distribute all or part of the trust capital to the Beneficiaries. The Trustees shall accumulate and add to the trust capital all net income from the trust capital that has not been distributed in the year or within three months after the end of the trust's year.
+17. Throughout the period in issue, Pierre Paquette was the owner of voting shares (80 class A shares with one vote per share and 29 class J shares with 100 votes per share) in Pépinière Abbotsford inc., giving him 29.6% of the voting rights in the election of the corporation's board of directors.
+18. Throughout the period in issue, 3101‑3469 Québec inc. was the owner of voting shares (51 class J shares with 100 votes per share) in Pépinière Abbotsford inc., giving it 50.6% of the voting rights in the election of the corporation's board of directors.
+19. Throughout the period in issue, all of the shares in 3101‑3469 Québec inc. were owned by Jean‑Claude Paquette.
+20. Jean‑Claude Paquette is the father of Pierre Paquette and the grandfather of Pierre‑Marc Paquette.
+21. Throughout the period in issue, 9034‑4946 Québec inc. was the owner of voting shares (20 class J shares with 100 votes per share) in Pépinière Abbotsford inc., giving it 19.8% of the voting rights in the election of the corporation's board of directors.
+22. Throughout the period in issue, 9034‑4946 Québec inc. was controlled by one or more persons who were not related to Pierre Paquette and Jean‑Claude Paquette and to 9059‑3179 Québec inc. and 3101‑3469 Québec inc.
+23. Throughout the period in issue, all of the shares in Centre du Jardinage Abbotsford inc. were owned by Pépinière Abbotsford inc.
+24. Appendices 1 and 2 to this agreement,[1] which form part of this agreement, show a schematic diagram of the shareholders in the Appellant and in Pépinière Abbotsford inc. and Centre du Jardinage Abbotsford inc. during the period in issue.
+25. The Appellant earned income from an active business carried on in Canada and the following taxable income during the 1999 to 2003 taxation years:
+Taxation Year
+ABI
+Taxable Income
+1999
+$198,917
+$177,331
+2000
+$171,436
+$173,835
+2001
+$170,265
+$170,265
+2002
+$158,262
+$158,262
+2003
+$228,922
+$228,922
+26. The Appellant deducted the following amounts under subsection 125(1) of the ITA in computing its tax payable under Part I of that Act for the taxation years in issue:
+Taxation Year
+SBD Claimed
+1999
+$28,373
+2000
+$27,430
+2001
+$27,242
+2002
+$25,322
+2003
+$32,340
+27. Pépinière Abbotsford inc.'s fiscal year is from November 1 to October 31 of the following year.
+28. Pépinière Abbotsford inc. earned income from an active business carried on in Canada and the following taxable income during the 1999 to 2003 taxation years:
+Taxation Year
+ABI
+Taxable Income
+1999
+$166,777
+$166,777
+2000
+$292,657
+$292,657
+2001
+$158,770
+$158,770
+2002
+$254,293
+$254,293
+2003
+$249,969
+$249,969
+29. Centre du Jardinage Abbotsford inc.'s fiscal year is from November 1 to October 31 of the following year.
+30. Centre du Jardinage Abbotsford inc. earned income from an active business carried on in Canada and the following taxable income during the 1999 to 2003 taxation years:
+Taxation Year
+ABI
+Taxable Income
+1999
+$31,442
+$31,442
+2000
+$495
+$495
+2001
+$27,762
+$27,762
+2002
+$33,124
+$33,124
+2003
+$97,577
+$97,577
+31. Pépinière Abbotsford inc. submitted agreements to the Minister on the prescribed form, under subsection 125(3) of the ITA, providing that Pépinière Abbotsford inc. and Centre du Jardinage Abbotsford inc. would divide the "business limit" as follows:
+Taxation Year
+Pépinière
+Abbotsford inc.
+Centre du Jardinage
+Abbotsford inc.
+1999
+$168,558
+$31,442
+2000
+$199,500
+$500
+2001
+$172,200
+$27,800
+2002
+$200,000
+$0
+2003
+$220,822
+$0
+32. No revision to the agreements or new agreement was submitted to the Minister of National Revenue.
+Opening statement
+[5] In his opening statement, counsel for the Respondent summarized the case as involving the two following questions:
+(1) Was Pierre-Marc Paquette, the minor child of Pierre Paquette, a beneficiary of Fiducie Propep (trust) during the years in issue?
+(2) If so, did his share as beneficiary of the trust depend on the exercise of a discretionary power?
+[6] In the Respondent's submission, Pierre-Marc Paquette was a beneficiary of the trust and met all of the requirements set out in subparagraph 256(1.2)(f)(ii) of the ITA in order to be deemed to be the owner of voting shares in 9059-3179 Québec Inc. (9059), the shares in which were held by the trust. Because Pierre-Marc Paquette is the son of Pierre Paquette, and during the period in issue he was under the age of 18 years, the Respondent submits that Pierre Paquette was deemed, under subsection 256(1.3) of the ITA, to be the owner of the voting shares in 9059.
+[7] In the Respondent's submission, Pierre Paquette is deemed to control 9059, which controls the Appellant, and is therefore one of the group of persons who control Pépinière, which controls Centre du Jardinage. Pépinière is 50.6% owned by 3101-3469 Quebec Inc. (3101), which itself is 100% controlled by Jean-Claude Paquette, the father of Pierre Paquette. Pierre Paquette is therefore related to 3101, which controls Pépinière, and therefore holds at least 25% of the shares in Pépinière,[2] and so Pépinière, Centre du Jardinage, Propep Inc. (the Appellant) and 9059 are associated corporations under paragraph 256(2)(c) of the ITA.
+[8] The Appellant submits that it was not associated with Pépinière and Centre du Jardinage during the years in issue, under paragraph 256(2)(c) of the ITA, because Pierre-Marc Paquette was quite simply not a beneficiary of the trust at that time, and accordingly his father could not be deemed to own the shares in 9059 held by the trust. For that reason alone, paragraph 256(2)(c) does not apply.
+Additional facts
+[9] The Appellant called Pierre Choquette, the executive vice-president of Pépinière and the Appellant and one of the co-trustees of the trust. He explained that the Appellant had been created to carry on a business in the field of inert materials: maintaining green spaces and distributing mulch. Pépinière deals in everything connected with living products: plant growing and marketing. The reason for the idea of separating the two businesses was to split the financial risks associated with the various products and services offered, instead of combining them within a single corporation.
+[10] Pépinière was founded in 1962 by Jean-Claude Paquette, the father of Pierre and Clément Paquette, who had equal shares in the corporation. The Appellant was created in 1983.
+[11] Clément Paquette left Pépinière in 1995 and Pierre Choquette purchased a share in that corporation (20%) in January 1996, after negotiations with Pierre Paquette, for $500,000. Pierre Choquette has a master's degree in business administration (MBA) and is a chartered accountant.
+[12] Before investing in Pépinière, Mr. Choquette was a senior manager in a hospital and had combined financial and administrative responsibilities. Given his experience and the Paquette family's confidence in him, he also handled the general administration and the financial aspect, as well as marketing, and ensured that the Appellant was properly managed. He is the person who signs most cheques for the Appellant and is co‑trustee of the trust, with Pierre Paquette.
+[13] As noted in the partial agreement as to the facts, the trust deed provides for two levels of beneficiaries. The management company, 9059, is the first-ranking beneficiary, until it is wound up, and Pierre-Marc Paquette is the second-ranking beneficiary. Mr. Choquette explained that 9059 had initially been created in order to insulate the businesses, to limit the financial risks. The choice of naming 9059 as a first-ranking beneficiary of the trust was to retain control over the Appellant.
+[14] Indeed, Clément Paquette's withdrawal from Pépinière was not without complications. Mr. Paquette's disposition of his voting shares had cost the corporation a considerable amount, even though there was a shareholders' agreement in place.
+[15] I understand from Mr. Choquette's testimony that they had not wanted to experience the same financial risks with Pierre-Marc Paquette, who was a minor at the time the trust was created, in January 1998. Pierre-Marc was then 12 years old, and, reading between the lines, I see that what Pierre‑Marc would do in terms of the family business in future could not be predicted, so he was named a second-ranking beneficiary.
+Appellant's argument
+[16] As noted earlier, the Appellant submits simply that Pierre‑Marc Paquette was not a beneficiary of the trust during the years in issue. If that was the case, neither he nor his father could have been deemed to be owners of the shares in 9059, and accordingly neither 9059 nor the Appellant could be considered to be associated with the two other corporations, Pépinière and Centre du Jardinage. The Appellant would therefore have been entitled to the full amount claimed for the SBD and would not have been limited by the business limit for the other two corporations, Pépinière and Centre du Jardinage.
+[17] The issue is therefore whether Pierre-Marc Paquette was a beneficiary of the trust during the years in issue.
+[18] Under the trust deed, 9059 is the first-ranking beneficiary until it is wound up, and Pierre-Marc Paquette is the second-ranking beneficiary. The Civil Code of Québec (C.C.Q.), which is the applicable provincial legislation in this case, provides that there may be two ranks of beneficiaries and that a legal person may not be a beneficiary for a period exceeding 100 years. The Appellant referred to articles 1271 and 1272 of the C.C.Q. and to the comments of the Minister of Justice, as follows:
+Art. 1271. A personal trust constituted for the benefit of several persons successively may not include more than two ranks of beneficiaries of the fruits and revenues exclusive of the beneficiary of the capital; it is without effect in respect of any subsequent ranks it might contemplate.
+Accretions of fruits and revenues between co-beneficiaries of the same rank are subject to the rules of substitution relating to accretions between co-institutes of the same rank.
+[TRANSLATION] Comment
+This article and the following article set out the rules relating to the duration of a personal trust constituted for the benefit of several persons successively. These rules are consistent with the solution adopted by the courts, which apply the rules governing substitution in this case.
+Art. 1272. The right of beneficiaries of the first rank opens not later than one hundred years after the trust is constituted, even if a longer term is stipulated. The right of beneficiaries of subsequent ranks may open later but solely for the benefit of those beneficiaries who have the required quality to receive at the expiry of one hundred years after creation of the trust.
+In no case may a legal person be a beneficiary for a period exceeding one hundred years, even if a longer term is stipulated.
+[TRANSLATION] Comment
+This new article supplements the previous article, by providing for other rules governing the duration of a personal trust constituted for the benefit of several persons successively.
+The first paragraph sets out rules that have the combined effect of limiting the maximum duration of a personal trust to about 200 years. That time allows for sufficient flexibility that, in ordinary circumstances (trust in favour of a spouse, then children and then grandchildren), the beneficiaries can be determined without difficulty.
+The second paragraph sets out a rule that seems to be needed because the normal operation of the lifetime of a person, which the rules in the first paragraph are based on, is ruled out where there is a legal person, the existence of which may be perpetual. The rule means that in this case extending the duration of the trust beyond what seemed desirable in this case can be avoided.
+[19] In addition, articles 1279 and 1280 of the C.C.Q. provide as follows:
+Art. 1279. Only a person having the qualities to receive by gift or by will at the time his right opens may be the beneficiary of a trust constituted gratuitously.
+Where there are several beneficiaries of the same rank, it is sufficient that one of them have such qualities to preserve the right of the others if they avail themselves of it.
+Art. 1280. To receive, the beneficiary of a trust shall meet the conditions required by the constituting act.
+[TRANSLATION] Comment
+This article makes the beneficiary's right to receive conditional on compliance with the conditions required by the constituting act, in addition to the qualities to receive by donation or will.
+These conditions may vary in nature, but they must not be contrary to public order.
+…
+[20] The Appellant then asked what the nature of Pierre-Marc Paquette's right is, given that 9059 is the first-ranking beneficiary until it is wound up. In the Appellant's submission, Pierre-Marc's right to the trust's income and capital will arise only when 9059 is wound up, and not before. It is a right conditional on the occurrence of a future uncertain event. It is not a right that will certainly arise upon the expiry of a period of time. The Appellant distinguishes between a conditional obligation that causes the right to arise only when the condition is met and an obligation that arises when a period of time expires and causes the right to arise at the time the obligation is created – in this case, the creation of the trust deed – but suspends performance until the expiry of the time.
+[21] The Appellant referred to articles 1497, 1506, 1507 and 1508 of the C.C.Q., which read as follows:
+Art. 1497. An obligation is conditional where it is made to depend upon a future and uncertain event, either by suspending it until the event occurs or is certain not to occur, or by making its extinction dependent on whether or not the event occurs.
+Art. 1506. The fulfillment of a condition has a retroactive effect, between the parties and with respect to third persons, to the day on which the debtor obligated himself conditionally.
+Art. 1507. The fulfillment of a suspensive condition obliges the debtor to perform the obligation, as though it had existed from the day on which he obligated himself under that condition.
+…
+Art. 1508. An obligation with a suspensive term is an existing obligation that does not become exigible until the occurrence of a future and certain event.
+[22] In the Appellant's submission, Pierre-Marc Paquette's right to become a beneficiary of the trust is conditional on 9059 being wound up, that being an event that is uncertain in his lifetime. A legal person has perpetual life, and the C.C.Q. limits its time as beneficiary to 100 years. Under the trust deed, 9059 is the first-ranking beneficiary, and may thus exercise its right before Pierre-Marc Paquette's right, since he will have to wait for 9059 to be wound up before he becomes a beneficiary himself. The first-ranking right of 9059 may, in theory, exist for 100 years, and in that event Pierre-Marc would never become a beneficiary, because he would have to reach the age of 112, a highly improbable event. It is therefore an event that is uncertain in Pierre-Marc's lifetime, and thus not a future and certain event that causes his right as beneficiary to arise when the trust was created; rather, it is a potential right that will arise at the point when the condition is met, if it is ever met.
+[23] Accordingly, in the Appellant's submission, Pierre-Marc Paquette's right to be a beneficiary of the trust did not arise at the point when the trust was created, and had not yet arisen during the periods in issue, because 9059 was still the first-ranking beneficiary of the trust. As a result, the discretion assigned to the trustees regarding the distribution of the income and capital under the trust deed could not have been exercised in favour of Pierre-Marc Paquette. Because he was not a beneficiary of the trust within the meaning of the C.C.Q., the Appellant submits that subparagraph 256(1.2)(f)(ii) and subsection 256(1.3) of the ITA could not have applied to deem Pierre-Marc Paquette, and thus his father Pierre Paquette, to be owners of the shares in 9059.
+Respondent's argument
+[24] Counsel for the Respondent referred first to the ordinary meaning of the expression "beneficiary". In his book of authorities, he referred to several definitions found in various dictionaries:
+"beneficiary": … A person entitled to benefit from a trust or will
+Dukelow, Daphne A., The Dictionary of Canadian Law, Third Edition, Thomson Carswell, 2004;
+"beneficiary": 1. A person for whose benefit property is held in trust; … 2. A person to whom another is in a fiduciary relation, whether the relation is one of agency, guardianship, or trust.
+Garner, Bryan A., Black’s Law Dictionary, Eighth Edition, Thomson West, 2004;
+[TRANSLATION] "beneficiary" 3. In relation to a trust, person whom the settlor wishes to benefit, in the constituting act representing the settlor's intention, by the distribution of the property held and administered in trust by the trustee.
+Reid, Hubert, Dictionnaire de droit québécois et canadien, 3rd edition, Wilson & Lafleur Ltée, 2004;
+"beneficiary": … one for whose benefit a trust is created; one for whose benefit a trustee, an executor, etc., holds the property.
+The Canadian Law Dictionary, Toronto, Law and Business Publication (Canada) Inc., 1980;
+"beneficiary": 1. The person having the beneficial enjoyment of property rather than the legal possession – for example, the person for the benefit of whom a trust is created, or, in other words, the CESTUI QUE TRUST [see trust] in a trust relationship.
+Yogis, John A., Canadian Law Dictionary, Barron’s Educational Series, Inc., 1983.
+[25] The Respondent thus submits that a beneficiary of a trust is, by definition, a person whom the settlor wishes to benefit in the trust deed.
+[26] In the submission of counsel for the Respondent, it is apparent from the trust deed that even though Pierre-Marc Paquette is a second-ranking beneficiary, he is clearly a person whom the settlor wished to benefit. Indeed, if we read paragraph 4.1 of the trust deed, reproduced in paragraph 16 of the partial agreement as to the facts, it can be seen that the trustee is given the power to pay the beneficiaries or one of them, at any time, all or part of the net annual income of the trust in such proportions as it may in its absolute discretion establish. As well, the trustees have the power to distribute, in their absolute discretion and at any time, all or part of the capital of the trust to the beneficiaries. Accordingly, the trust deed gives the trustee or trustees discretion to distribute income or capital, not to one beneficiary, but to the beneficiaries of the trust. Counsel for the Respondent submits from this that the trustee has discretion as to the distribution of the income and capital, at all times, to both the first-ranking beneficiary and that second-ranking beneficiary, that is, Pierre‑Marc Paquette.
+[27] Counsel for the Respondent also referred to articles 1265 and 1267 of the C.C.Q.
+Art. 1265. Acceptance of the trust divests the settlor of the property, charges the trustee with seeing to the appropriation of the property and the administration of the trust patrimony and is sufficient to establish the right of the beneficiary with certainty.
+[TRANSLATION] Comment
+The irrevocability of the beneficiary's right to the benefits assigned by the trust, created by the trustee's acceptance, is obviously still dependent on the beneficiary existing at the time the right arises. As well, it does not prevent the beneficiary from subsequently waiving exercise of that right.
+Art. 1267. A personal trust is constituted gratuitously for the purpose of securing a benefit for a determinate or determinable person.
+[28] Counsel for the Respondent noted that the beneficiary is the person who wanted to give a benefit to the settlor, and the person who makes the transfer provides for the time when the right will arise. Although the right may arise subsequently, it will be irrevocable if, at the time it arises, the person intended to benefit meets all the conditions. In addition, articles 1271 and 1272 of the C.C.Q., cited by the Appellant, provide that successive beneficiaries may be named. Nonetheless, in the Respondent's submission, second-ranking beneficiaries are beneficiaries within the meaning of the C.C.Q., the difference being that their right will arise later. In the case before us, even though 9059 has perpetual life in theory, it cannot, under the civil law, be a beneficiary for more than 100 years. That is a fixed duration and not a future uncertain event, as submitted by the Appellant.
+[29] Counsel for the Respondent also referred to articles 1275 and 1287, first paragraph, of the C.C.Q.:
+Art. 1275. The settlor or the beneficiary may be a trustee but he shall act jointly with a trustee who is neither the settlor nor a beneficiary.
+Art. 1287. The administration of a trust is subject to the supervision of the settlor or of his heirs, if he has died, and of the beneficiary, even a future beneficiary.
+...
+Those provisions give future beneficiaries the right to oversee the administration of the trust.[3]
+[30] In conclusion, counsel for the Respondent submits that Pierre-Marc Paquette is a beneficiary within the meaning of the C.C.Q. and subparagraph 256(1.2)(f)(ii) of the ITA, even though it is argued that his right will not arise until 9059 is wound up.
+[31] It is also clear from the trust deed that its share of the income is at all times conditional on the exercise of the trustee's discretion. If the trustee decides to pay out nothing to the first-ranking beneficiary, the income will accumulate for the benefit of the second-ranking beneficiary, Pierre-Marc Paquette. As a result, all of the conditions in subparagraph 256(1.2)(f)(ii) have been met, and subsection 256(1.3) therefore applies. Accordingly, the Appellant is associated with the other corporations within the meaning of paragraph 256(2)(c) of the ITA.
+Analysis
+[32] Articles 1271 and 1272 of the C.C.Q. cover trusts that may be constituted for the benefit of several persons successively, who may not include more than two ranks of beneficiaries of the fruits and revenues, in addition to the beneficiary of the capital. Article 1279 of the C.C.Q. is referring to a situation where there are several beneficiaries of the same rank.
+[33] Here, the trust deed refers to the first-ranking beneficiary and second-ranking beneficiary. Given the circumstances in which the trust was created, which I will address after this, it seems logical to me to say that the intention was to create two successive classes of beneficiaries. Thus, the second-ranking beneficiary must wait until the first-ranking beneficiary is wound up before his right opens.
+[34] In my view, Mr. Choquette's testimony was very enlightening as regards the precise choice of the trust's beneficiaries. He explained that when Clément Paquette left Pépinière in 1995, it resulted in major costs for the corporation. The trust was created in 1998 to control the Appellant, whose directing mind is Pierre Paquette, Clément Paquette's brother, indirectly through 9059. Even though Pierre Paquette wanted to benefit his son Pierre‑Marc, ultimately, it was implicit in what Mr. Choquette said that any family business can experience disagreements in spite of every good intention of trying to keep the patrimony in the family.
+[35] Pierre Paquette must have learned a lesson when his brother Clément left. For his own business, the Appellant, Pierre Paquette chose to transfer all the controlling shares to 9059, keeping the preferred shares for himself, which entitled him to preferential dividends (the class B shares in the Appellant). (See Appendix 2 to the partial agreement as to the facts and Exhibit A‑1, Volume 3, Tab 31.) For 9059, he chose the trust to hold all controlling Class A shares. The authorized share capital of 9059 further provides for the possibility of issuing a number of other classes of preferred shares that entitle the holder to dividends, as well as shares that provide a plurality of voting rights (Exhibit A‑1, Volume 3, Tab 32).
+[36] When the trust was created, care was taken to name 9059 as the first-ranking beneficiary until it was wound up. That approach is not contrary to the general law or the corporate law.[4]
+[37] Mr. Choquette testified that this was done in order to retain control. That is readily understandable. If Pierre-Marc Paquette, who was then 12 years old, showed no interest in the business in the future, or acted in a way that would jeopardize the proper administration or finances of the Appellant, which neither Pierre Paquette nor Pierre Choquette could predict at the point when the trust was created, the possibility of retaining the trust patrimony in 9059, with Pierre‑Marc Paquette having no right to any of the trust's income or capital, was retained. Indeed, discretionary trusts are often created to hold the ordinary shares of a corporation after an estate is frozen. If the shares have potential added value, the settlor may hesitate to transfer property directly to his or her children or other beneficiaries of the freeze where the value might increase.[5]
+[38] Counsel for the Respondent submits that after 100 years, 9059 will no longer be able to be a beneficiary. Perhaps so, but in 100 years, Pierre‑Marc will very probably be dead, and in the event that in the interim, Pierre Paquette and Pierre Choquette no longer wanted to benefit Pierre-Marc, the trust deed would allow them to liquidate the trust and thus deliver the capital to 9059, the only first-ranking beneficiary.[6]
+[39] For that reason, like the Appellant, I think that the very structure of the trust deed meant that Pierre-Marc Paquette had only a potential right to the trust income and capital, that right being conditional on the winding-up of 9059.
+[40] Pierre‑Marc Paquette's right to be a beneficiary of the trust, which is conditional on the winding-up of 9059, does not depend on a certain event, because no one could have predicted, at the point when the trust was created, whether it would materialize. The only certain thing is that 9059 will no longer be able to be a beneficiary in 100 years, but it is entirely uncertain that 9059 will be wound up in Pierre-Marc Paquette's lifetime. Accordingly, I agree with counsel for the Appellant that we are dealing with a conditional obligation and not an obligation with a term, and Pierre‑Marc's right will open only when 9059 is wound up, and not before.[7]
+[41] Counsel for the Respondent submits that the trustee's acceptance of the trust property operated to establish the right of any named beneficiary with certainty, under article 1265 of the C.C.Q. A caveat to that assertion is required. If a beneficiary's right is subject to a condition, the condition must be realized in order for the beneficiary to be able to exercise the right. The certainty referred to in article 1265 of the C.C.Q. therefore does not mean that the beneficiary's right may not be voided under the terms of the constituting act.[8]
+[42] Moreover, the fact that article 1287 of the C.C.Q. makes the administration of a trust subject to the supervision of a beneficiary, even a future beneficiary, does not give the beneficiary a right to receive trust income or capital. It is a limited right that enables the beneficiary to bring action against the trustee if the trustee refuses to exercise its discretion or exercises it improperly.[9] That right of supervision does not make the future beneficiary a beneficiary within the meaning of the ITA provisions that define associated corporations. If the intention had been to cover future beneficiaries, the expression "beneficial interest", which is used elsewhere in the ITA (sections 104 to 108) and which is in fact defined in subsection 248(25) of the ITA, would have been used.
+[43] Counsel for the Respondent argued that the trust deed refers to the discretion of the trustee or trustees to distribute income or capital to the beneficiaries or to one of them, but I do not think that that wording changes anything as regards the intention to designate successive beneficiaries. As counsel for the Appellant noted, the trust deed also provides for the descendants of the beneficiaries. Thus if 9059 is ever wound up, Pierre-Marc will become a beneficiary at that time and could in turn have descendants who could also be beneficiaries. In that case, the trustees will be able to distribute the income and capital, in their discretion, to one or all of the beneficiaries who exist at that time.
+[44] For the period in issue, the discretion given to the trustees applied only in respect of the sole beneficiary of the trust, 9059.
+[45] I therefore find that during this period Pierre‑Marc Paquette was not a beneficiary of the trust under subparagraph 256(1.2)(f)(ii) of the ITA, and accordingly his father, Pierre Paquette, was also not a beneficiary, by operation of subsection 256(1.3) of the ITA.
+[46] For these reasons, I would allow the appeals and refer the assessments back to the Minister for reconsideration and reassessment on the basis that the Appellant may claim the amount of the SBD to which it is entitled under the ITA without regard to the business limit for Pépinière and Centre du Jardinage during the years in issue.
+[47] Costs to the Appellant.
+Signed at Montréal, Quebec, this 1st day of October, 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 12th day of May 2009.
+François Brunet, Reviser
+APPENDIX A
+PÉPINIÈRE ABBOTSFORD INC. – PROPEP INC. (at 01-02-1998)
+Note: voting shares are identified in boldface.
+APPENDIX B
+PÉPINIÈRE ABBOTSFORD INC. – PROPEP INC. (at 01-11-2000)
+Note: voting shares are identified in boldface.
+CITATION: 2008 TCC 532
+COURT FILE NO.: 2007-1882(IT)G
+STYLE OF CAUSE: PROPEP INC.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 9, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 1, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Serge Racine
+Stéphane Larochelle
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Serge Racine
+Firm: Séguin, Racine Avocats Ltée
+Laval, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appendices are reproduced at the end of these Reasons.
+[2] See paragraph 17 of the partial agreement as to the facts.
+[3] See Jacques BEAULNE, Droit des fiducies, 2nd edition, Montréal, Wilson & Lafleur, 2005, pp. 179-249, pp. 186 and 187.
+[4] See the article by Luc Pariseau et al., Congrès APFF 98, "Panel sur les fiducies − Structures particulières utilisant une fiducie", pages 7:19 to 7:32.
+[5] See the article by Marilyn Piccini Roy, "Discretionary Trusts: Civil Law Perspectives" in "Personal Tax Planning" (2003), Vol. 51, No. 4, Canadian Tax Journal, 1647-1689 at page 1708, citing Charles P. Marquette, "Estate Freezes Involving Trusts", an article in the "Personal Tax Planning" feature (2002), Vol. 50, No. 1, Canadian Tax Journal 335-359.
+[6] See subparagraph 2.1.3.2 of the trust deed, Exhibit A-1, Volume 3, Tab 37. It is not certain that this kind of clause is legal in Quebec law. Some authors do not agree on the question (see the article by Marilyn Piccini Roy, supra, on the question of the power to terminate the trust, at pages 1680-1681. In any event, that clause in the trust deed is another indication that the transferor did not want to benefit Pierre‑Marc Paquette before 9059 was wound up, which meant he was not a beneficiary for as long as 9059 existed.
+[7] See Dame Thoreson v. Nat. Trust Co. Ltd., [1955] B.R. 298, and more specifically at page 306. See also Jean-Louis Baudoin and Pierre-Gabriel Jobin, Les Obligations, 5th edition, Les Éditions Yvon Blais Inc., 1998, pages 451 to 468.
+[8] See the article by Jacques Beaulne, supra, pp. 228 and 229, paragraphs 251 and 252.
+[9] See the article by Marilyn Piccini Roy, supra, in the chapter on the distinction between powers of appointment and trust powers, pp. 1667-1670.

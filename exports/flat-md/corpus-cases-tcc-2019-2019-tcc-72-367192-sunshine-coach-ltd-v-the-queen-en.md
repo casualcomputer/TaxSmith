@@ -1,0 +1,235 @@
+---
+title: "Sunshine Coach Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367192/index.do"
+last_modified: "2019-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 72"
+citation2: ""
+neutral_citation: "2019 TCC 72"
+decision_date: "2019-04-02"
+language: "en"
+item_id: "367192"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4319
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:16:50.526000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1b0c374420829052879b50a257308b1cdf4a86c4ba69081890955d768c2c218"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sunshine Coach Ltd v. The Queen
+
+- Citation: 2019 TCC 72
+- Decision date: 2019-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4319, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sunshine Coach Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-02
+Neutral citation
+2019 TCC 72
+File numbers
+2017-3184(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-3184(GST)I
+BETWEEN:
+SUNSHINE COACH LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 20 and November 26, 2018, at Calgary, Alberta
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Wilhelm Mair
+Counsel for the Respondent:
+Adam Pasichnyk
+JUDGMENT
+The appeal with respect to an assessment made under Part IX of the Excise Tax Act, by Notice dated May 12, 2017, for the reporting periods from February 1, 2011 to October 31, 2013, inclusive, is allowed, without costs, in order to give effect to the Respondent’s concessions:
+1. For the reporting period ending July 31, 2013, the Appellant’s GST collected/collectible is to be reduced by a total of $1,156.54 in respect of zero-rated passenger transportation services provided to passengers of
+a) Gem Tours Gem Tours & Travels PVT Ltd, reflected in an invoice dated May 29, 2013;
+b) Discover Destinations, reflected in an invoice dated May 24, 2013; and
+c) Jagat Mavani c/o Cloud 9 Infosystems, reflected in an invoice dated July 12, 2013.
+2. For the reporting period ending October 31, 2013, the Appellant’s GST collected/collectible is to be reduced by $408.65 in respect of zero-rated passenger transportation services provided to passengers of Discover Destinations, reflected in an invoice dated August 2, 2013;
+3. An additional ITC of $228.11 in respect to custom bus seating materials purchased from Sardo Bus & Coach Upholstery;
+and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of April 2019.
+“Diane Campbell”
+Campbell J.
+Citation: 2019 TCC 72
+Date: 20190402
+Docket: 2017-3184(GST)I
+BETWEEN:
+SUNSHINE COACH LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+Introduction
+[1] The Appellant appealed a Notice of Reassessment dated May 12, 2017 under the Excise Tax Act (the “Act”) for the reporting periods between February 1, 2011 and October 31, 2013 (the “Period”).
+[2] The Appellant was incorporated in Alberta. It is a family-owned tour bus operator based out of Calgary. Most of the Appellant’s transportation services consisted of destination tour bus trips to Sunshine Village Ski and Snowboard Resort in Banff (“Sunshine Village”). Some of its charter services were for trips outside of Canada.
+[3] There are two broad issues before me:
+1. whether certain disputed trips were part of a continuous journey such that particular sales made by the Appellant in providing passenger transportation services were zero-rated for GST purposes; and
+2. whether the Appellant is entitled to additional input tax credits (“ITCs”) and, as a sub issue, whether the investment in the British Columbia property (the “Fairmont property”) was a commercial activity or used instead for personal enjoyment.
+[4] Throughout the hearing, there were various concessions made by both the Appellant and the Respondent. In addition to the Respondent’s concessions, the Appellant conceded ITCs in the total amount of $2,171.34 in respect to various expenses paid by credit card. According to the Appellant, that left two issues which were before this Court:
+1. GST payable of $5,741.91 in respect to three charter trips (Maxim Group, Europe Group and Sona Tours UK/India); and
+2. ITCs of $9,691.01 in respect to the Fairmont property.
+(Appellant’s handout provided to the Court during the resumption of the hearing in November)
+[5] The Respondent conceded:
+1. For the reporting period ending July 31, 2013, the Appellant’s goods and services tax (“GST”) collected/collectible is to be reduced by a total of $1,156.54 in respect of zero-rated passenger transportation services provided to passengers of
+a) Gem Tours Gem Tours & Travels PVT Ltd reflected in an invoice dated May 29, 2013;
+b) Discover Destinations reflected in an invoice dated May 24, 2013; and
+c) Jagat Mavani c/o Cloud 9 Infosystems reflected in an invoice dated July 12, 2013.
+2. For the reporting period ending October 31, 2013, the Appellant’s GST collected/collectible is to be reduced by $408.65 in respect of zero-rated passenger transportation services provided to passengers of Discover Destinations reflected in an invoice dated August 2, 2013.
+(Respondent’s “Concessions” handout dated June 18, 2018)
+3. An additional ITC of $228.11 for leather bus seat materials purchased from Sardo Bus & Coach Upholstery, originally incorrectly described in a customs form.
+(Transcript, Volume 2, page 75 to 76)
+Evidence
+[6] William Mair was a director and involved in the operational aspect of the Appellant’s activities during the relevant Period. In his direct testimony, Mr. Mair primarily entered a number of exhibits to support his contention that the trips in issue, where the customers were visitors to Canada, were part of a continuous international journey and thus zero-rated supplies and, in addition, to support the various ITCs that the Appellant was claiming. Mr. Mair relied on the Passenger Transportation Services section of the GST/HST Memorandum 28.3 (Exhibit A‑3).
+[7] On cross-examination, Mr. Mair confirmed that, in supplying its services as a bus tour operator, the Appellant never provided or sold air transportation. He also testified that unless customers made special arrangements with the Appellant, all of the company’s pick-up and drop-off locations were within the Province of Alberta. The Appellant provided pre-scheduled seasonal day trips between Calgary or Canmore and Sunshine Village in Banff, with posted schedules and rates. He differentiated between these types of day trips and those trips where customers from outside Canada charter a bus with a specific itinerary and for a negotiated price, with pick-up generally at the Calgary airport. Such trips lasted for a number of days and did not involve the ski resort as a destination. With respect to the assumption, that only 2 percent of sales in this Period were taxable at a rate of zero percent, Mr. Mair submitted that he could not comment as he had not been part of that calculation.
+[8] The Reply to the Notice of Appeal divided the disputed trips into two categories: the “Proper Sales” of $5,741.90, being those where the Appellant recorded GST collectible but did not collect or remit it, and the “Missed Sales” of $1,623.61, being four transactions where the Appellant did not record GST collectible and did not collect or remit it, but recorded those as “out of Canada” trips. Mr. Mair testified that, although the company reported GST in its returns with respect to the Proper Sales, it did so in error as these trips were actually zero-rated because they were part of a continuous journey (Transcript, Volume 1, page 81). Of the $5,741.90 Proper Sales amount, the Respondent conceded several of those trips amounting to $1,565.91, leaving $4,176.72 in issue.
+[9] Respondent counsel took Mr. Mair through a bundle of invoices, titled “GST Collectible Incorrect 2011” (Exhibit R-2), “GST Collectible Incorrect 2012” (Exhibit R-3) and “GST Collectible Incorrect 2013” (Exhibit R-4). Mr. Mair confirmed the Appellant’s position that it should not be liable for collecting and remitting these GST amounts because the passenger transportation services were provided to customers who were from outside Canada. Invoices showed customers were from various locations, including Germany, Great Britain, South Korea and India. Mr. Mair agreed that all of these passengers arrived in and departed from Canada by air transportation and, further, that all of the services which the Appellant provided to these passengers were within Canada. He stated: “They come to us by air, because we can’t drive them from England, and then we take over.” (Transcript, Volume 1, page 74). In respect to the passengers from India which referenced six invoices to Maxim Tours, Thomas Cook Ltd. of India arranged the trip but the Appellant’s invoices were to its U.S. broker, Maxim Tours. The Appellant’s view of such trips was: “It’s a continuous trip from outside, from India …” (Transcript, Volume 1, page 77). He testified that passengers from India could arrive in Canada via different flights and routes, depending on flight availability and pricing. Finally, in respect to these various invoices, Mr. Mair testified that the Appellant never engaged an agent to issue tickets or vouchers on its behalf.
+[10] While Respondent counsel conceded a number of the trips listed in Exhibit R-4 as zero-rated, the Appellant’s position respecting the balance of those trips is that, while the trips were within Canada, they were nevertheless part of a continuous international journey that originated and terminated outside Canada and, therefore, should be zero-rated.
+[11] In respect to the four sales transactions, recorded by the Appellant as out-of-Canada trips and referred to in the Reply as “Missed Sales”, Working Paper 5030, (Exhibit R-5), depicted that the Appellant had incorrectly recorded these four trips, occurring in 2012, as out of Canada trips and, therefore, GST should be payable based on an acknowledgment to the auditor by Judith Mair, the spouse of William Mair and bookkeeper to the Appellant. Mr. Mair stated that he could not confirm this because they were large trips without sufficient information (Transcript, Volume 1, page 78).
+[12] In respect to the ITC claim for the Fairmont property, Mr. Mair testified that the house is not yet finished and will not be completed until late 2019. It is a “pre-engineered house”, delivered in parts, which the Mair family have been putting together since 2013. According to Mr. Mair, the parts to be assembled were sold to the Appellant for $145,182.24 (Transcript, Volume 1, page 26). It is being constructed in the British Columbia resort community of Fairmont Hot Springs, approximately a three-hour drive from Calgary, where the Mairs reside. In cross-examination, Respondent counsel introduced an unsigned document titled “Proposed Purchase Contract” dated February 1, 2013, between JayWest Country Homes/Chris Spavor (dealer) and Will and Judy Mair (purchasers) in respect to a Viceroy framing and materials package (Exhibit R-6). This was also the document that the Appellant used to support its ITC claim with Canada Revenue Agency. Mr. Mair testified that the Appellant was the actual purchaser, not the Mair family personally, and that the final invoice was issued to and paid for by the Appellant. At another point in the evidence, however, Mr. Mair stated that the capital to purchase and construct the home came from family money and proceeds of a home in Austria that Mr. Mair owned.
+[13] The house is being constructed on land owned by Kristian Mair, Mr. Mair’s son, and there has been no transfer of title to that lot from the son to the Appellant. Although “land” was listed as a tangible capital asset in the corporate balance sheet, Mr. Mair admitted he did not know if it was the Fairmont property that was referenced on the balance sheet. The only two parcels of land referred to in the evidence were the Fairmont lot owned by the son and a maintenance facility property in Calgary, in the name of a numbered company. It was owned by Mr. Mair’s daughter and the property was used to house and maintain the Appellant’s fleet of vehicles. When this facility was purchased in approximately 2015, the bank advised the Mairs that they would need to update their fleet of vehicles. Since it was difficult to raise financing due to the risk component associated with this business, Mr. Mair testified that it was at this point it was decided:
+… that if we have other investment that will grow without doing a whole lot for it, next time if we needed money, we can use it as collateral or, if the house is finished, we can sell it and buy a bus without a bank, and that was the kind of rationale behind it.
+(Transcript, Volume 1, Page 90)
+This was the reasoning behind the construction of the Fairmont house that was erected on the son’s lot, even though construction commenced several years prior to the facility purchase.
+[14] Although Mr. Mair did not complete a business plan and had no particular expertise in real estate, he talked to a banker, a real estate professional, a lawyer and friends before deciding to invest in this property. Since the son’s lot was in close proximity to a glider airport, Mr. Mair and his son, both glider pilots, along with the family, spent time at Fairmont and had friends in the area.
+[15] Mr. Mair thought this property would be a good investment as it is in a gated community, borders on a golf course and an airport, and resale prospects in that community were good. When questioned about any established timelines for sale of the property, Mr. Mair stated:
+…when the price is up or if I get desperate for money because I want to buy more or better equipment or I just want to get out of the business and exit. …
+(Transcript, Volume 1, page 110)
+[16] Mr. Mair had no explanation to account for the variance in the amounts of ITCs recorded in the general ledger and amounts actually recorded in the filed return for certain periods (Working Paper 920, Exhibit R-9).
+[17] The Respondent’s witness, Suraj Yadav, completed the audit in respect to the Appellant. He audited the GST collectible amount and the ITCs claimed. After discussions with Judy Mair, he concluded she had limited knowledge respecting the correct treatment of GST and ITCs. In addition, she was using a cash-based accounting system instead of the generally used accrual method. According to his testimony, the books and records were very disorganized. When he requested supporting documentation for claimed amounts, he was generally given boxes of invoices in no particular order, which he was often unable to match to the claimed amounts.
+[18] Mr. Yadav attempted to be fair with the audit process and provided a number of examples. Where the Appellant claimed an ITC for which there was no invoice, if he could match a description on a bill of lading, general ledger or the account name and it appeared to be related to the business activities and reasonable, then he allowed it without the supporting documentation. He also went through the Mairs’ personal credit card statements and transactions to try to identify business-related purchases, which he allowed either partially or fully, even though there was a risk of duplication. Some of the employee expenses were permitted based only on an explanation of the expenses and descriptions listed in the general ledger (Exhibit R-13). He also allowed the majority of cell phone expenses. Even in instances where the invoice amount did not match the amount claimed, he still allowed the ITC amount if it appeared to be reasonably related to the business. When the Appellant could only substantiate 10 claims out of a sample of 50 to 60 claimed amounts, he expanded the ITC verification to over 700 claimed amounts. He looked at a total ITC amount claimed in his audit of $111,863.00 of which he allowed $78,856.00 or approximately 70 percent (Working Paper, Schedule 1, Exhibit R-12).
+[19] With respect to the Fairmont property, the majority of ITCs claimed were not entered into the general ledger. He performed an ITC reconciliation between the GST/HST return and the general ledger and identified a variance of $9,177.00 in the November 1, 2012 to January 31, 2013 reporting period. There was no satisfactory explanation for these amounts not being included in the ledger. The only documentation, that was provided in support of the Fairmont property claims, was a copy of a “proposed purchase contract” for the pre-engineered package. He noted that this property was never registered in the Appellant’s name, nor was it listed in the Appellant’s financial statements, either as part of inventory or as a capital asset. Mr. Yadav determined that the land, that had been listed in the Appellant’s balance sheet, was not the Fairmont property, based on his discussions with the taxpayer and information contained in T5013, Schedule 8 [Capital Cost Allowance (CCA)] of the Appellant’s return.
+[20] In cross-examination, Mr. Yadav stated that there was insufficient evidence to support a conclusion that the Fairmont property was part of the Appellant’s commercial activities due, in part, to the land being in the son’s name and invoices being in their personal names. During questioning, an “Agreement” between the Appellant and Kristian Mair, dated November 15, 2012, was presented to Mr. Yadav (Exhibit A-7). In this agreement, Kristian Mair permitted the Appellant to erect a house on the lot he owned and agreed to enter into a lease agreement at a later date, foregoing any payments until the house is completed. Mr. Yadav reviewed general ledger entries to the vendor of the Fairmont construction package (Exhibit A-5), totalling over $128,000.00 between December 2011 and May 2013. He testified that he did not consider these entries to be definitive on their own, in respect to the property being used in the Appellant’s business activities, because the amounts could be related to and applied to the shareholder loan accounts.
+[21] With respect to the characterization of the Appellant’s transportation trips, he stated that, where a single ticket was issued, he looked to whether it included an international flight component in addition to the bus charter component. At audit, there was no evidence that the Appellant’s issued tickets included any airline travel. When questioned about one of the invoices that the Respondent had conceded, Mr. Yadav stated he could only assume the concession was based on part of the bus trip being outside Canada, for example, where the Appellant took passengers to Seattle for an Alaska cruise, in which case if that stopover was in excess of a 24-hour period, it could be zero-rated.
+Analysis
+Issue 1: Whether certain disputed trips were part of a continuous journey, such that particular sales made by the Appellant in providing passenger transportation services were zero-rated for GST purposes?
+[22] There are two categories of trips under this issue. First, are the four trips on which the Appellant did not report GST collectible in the course of its commercial activity because it viewed these trips as part of a “continuous journey” that was zero-rated. These four sales were referred to as “Missed Sales” because the Minister of National Revenue (the “Minister”) concluded they were not zero-rated and, therefore, the Appellant should have collected and remitted GST in its returns. The amount at issue in respect to the four trips is $1,623.61.
+[23] The second category consists of those trips where the Appellant actually did report GST in its returns but now claims that it should not have reported those sales as they are zero-rated. The Minister referred to those sales as the “Proper Sales” because the Appellant properly reported them, in the first instance, as sales on which GST would be collectible. The amount of GST payable at issue in the Reply was stated as $5,741.91. However, during this hearing, the Respondent conceded the amount of $1,565.19 in respect to these Proper Sales, leaving a balance at issue of $4,176.72.
+[24] The legislative starting point for an analysis in respect to passenger transportation services begins with paragraph 142(1)(g) of the Act:
+142 (1) For the purposes of this Part, subject to sections 143, 144 and 179, a supply shall be deemed to be made in Canada if
+…
+(g) in the case of a supply of any other service, the service is, or is to be, performed in whole or in part in Canada.
+“Supply,” as defined in subsection 123(1) of the Act, “means, subject to sections 133 and 134, the provision of property or a service in any manner …”. Consequently, if any passenger transportation service is performed in whole or in part in Canada, then it will be deemed to be made in Canada and subject to the applicable rate of tax on the value of the consideration for the supply pursuant to the charging provision, subsection 165(1) of the Act.
+[25] The Appellant’s position is that its trips in respect to both the “Missed Sales” and the “Proper Sales” should be zero-rated pursuant to its interpretation of the Transportation Services provisions in Sections 2 or 3 of Part VII of Schedule VI of the Act. Those sections state:
+2 A supply of a passenger transportation service that is provided to an individual or a group of individuals and that is part of a continuous journey of the individual or group, other than a continuous journey that includes transportation by air, where
+(a) the origin or termination of the continuous journey is outside Canada, or
+(b) there is a stopover outside Canada,
+but not including a passenger transportation service that is part of a continuous journey if both the origin and the termination of the journey are in Canada and, at the time the journey begins, the individual or group is not scheduled to be outside Canada for an uninterrupted period of at least 24 hours during the course of the journey.
+3 A supply of a passenger transportation service that is provided to an individual or a group of individuals and that is part of a continuous journey of the individual or group that includes transportation by air, where
+(a) the origin or termination of the continuous journey, or any stopover in respect thereof, is outside the taxation area;
+(b) the origin and termination of the continuous journey, and all stopovers in respect thereof, are outside Canada;
+(c) the origin of the continuous journey is within the taxation area, but outside Canada; or
+(d) all places at which the individual or group embarks or disembarks an aircraft are outside Canada and the origin or termination of the continuous journey, or any stopover in respect thereof, is outside Canada.
+[26] One of the main differences between sections 2 and 3 is that a continuous journey in section 2 must not include transportation by air while it must include transportation by air to have section 3 apply. For the Appellant to be successful in having section 2 apply to zero-rate its transportation services:
+1. the services must be part of a continuous journey,
+2. the continuous journey must not include transportation by air, and
+3. either (a) the origin or termination of that journey must be outside Canada or (b) there must be a stopover outside Canada.
+The terms “continuous journey”, “stopover”, “origin” and “termination” are defined in section 1 of Part VII, Transportation Services. “Continuous journey” is defined as:
+continuous journey of an individual or a group of individuals means the set of all passenger transportation services provided to the individual or group
+(a) and for which a single ticket or voucher in respect of all the services is issued, or
+(b) where 2 or more tickets or vouchers are issued in respect of 2 or more legs of a single journey of the individual or group on which there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued, and all the tickets or vouchers are issued by the same supplier or by 2 or more suppliers through one agent acting on behalf of all the suppliers where
+(i) all such tickets are supplied at the same time and evidence satisfactory to the Minister is maintained by the supplier or agent that there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued, or
+(ii) the tickets or vouchers are issued at different times and evidence satisfactory to the Minister is submitted by the supplier or agent that there is no stopover between any of the legs of the journey for which separate tickets or vouchers are issued;
+[27] In Ibero Tours Inc v The Queen, 2005 TCC 144, [2005] GSTC 40, Woods J. discussed the requirements of section 2 of Part VII and, in particular, the questions to be considered in respect to the “origin”, “termination” and “stopover” referenced in the provision of transportation services. At paragraphs 21 to 23 she stated:
+[21] The questions to be considered for the purposes of section 2 are whether the origin or termination of the transportation services provided by City Tours is outside Canada, and whether there is a stopover outside Canada.
+[22] I will first consider whether the origin or termination of the transportation services provided by City Tours is outside Canada. The terms “origin” and “termination” are defined in the Schedule as being, in essence, the start or end of the continuous journey. There is no evidence in this appeal that any of the relevant services provided by City Tours or Ibero Tours are provided outside Canada. Therefore the origin or termination of any continuous journey is not outside Canada.
+[23] It remains to be considered for the purpose of section 2 whether there is a stopover outside Canada. A “stopover” is defined in relation to a continuous journey and it is a place of embarkation or disembarkation of a conveyance used in the provision of the services included in the continuous journey. Again, there is no evidence that any of the transportation services provided by City Tours are provided outside Canada. Accordingly, I would conclude that there is no stopover outside Canada.
+[28] In cross-examination, Mr. Mair admitted that not only did the Appellant not issue airline tickets to the international passengers who arrived by air, it did not authorize agents to issue tickets to international passengers on its behalf. Since the continuous journey that is provided under section 2 cannot include any air transportation as part of its journey, the only services that I can consider under this section are those passenger transportation services that the Appellant provided. There was no evidence before me that any of the disputed transportation services, that is, the Missed Sales and Proper Sales, were provided outside of Canada. Consequently, I must conclude, based on the evidence before me, that the services are not zero-rated under section 2 because neither the origin nor termination of any of those trips or any stopovers in respect to the services provided by the Appellant were outside Canada.
+[29] The next question is whether the Appellant’s services can qualify as zero-rated under section 3. There are three requirements that must be met if the Appellant is to be successful under this section:
+1. the services must be part of a continuous journey,
+2. the continuous journey must include air transportation, and
+3. either (a) the origin or termination of the journey or (b) a stopover in respect of that journey must be outside of Canada.
+Section 3 applies to those transportation services where the journey is partly outside of Canada and also includes some air transportation. As Woods J. correctly pointed out in Ibero, the key to an analysis under section 3 involves returning to a consideration of the requirements set out in the definition of “continuous journey”. According to clause (a) of the definition, the continuous journey of an individual or group of individuals means the set of all passenger transportation services provided and “for which a single ticket or voucher in respect of all the services is issued”. However, if the same supplier or agent issues all of the tickets or vouchers in the continuous journey then clause (b) will apply. So, to have either clause (a) or clause (b) apply to zero-rate transportation services, there must be a nexus established between the transportation services occurring in Canada and the air travel coming into this country. This can be established when either one ticket is issued by the same supplier for all transportation services or when multiple tickets are issued for the transportation services by the same supplier or an agent acting on behalf of all the suppliers.
+[30] The evidence of Mr. Mair was that the Appellant did not sell airline tickets. He did testify that, in some instances, a booking company would arrange travel for some of the Appellant’s passengers, including air travel. Mr. Mair did state that Thomas Cook India (Maxim Tours) issued a single ticket to its passengers from India for Canadian tours, including air and bus transportation. He produced some documentary evidence to show that invoice payments were made from non-Canadian sources (Exhibits A-13, A-14, R-2, R-3 and R-4) but the evidence did not link how these overseas operators issued tickets to the international passengers and only the Maxim Tour invoices were addressed in any detail. There was no evidence to support that those booking companies had any authority to act as an agent on behalf of the Appellant. This fact, in addition to the lack of documentary evidence, particularly original invoices, itineraries and travel logs with respect to the four Missed Sales, support my conclusion that the Missed Sales in relation to the Appellant’s transportation services were provided wholly within Canada. With respect to the Proper Sales, those where the Appellant initially reported GST but later believed they were zero-rated as part of a continuous journey outside Canada, both the invoices submitted, together with Mr. Mair’s testimony, support my view that all of these services were within Canada. Neither section 2 nor 3, Part VII, Schedule VI apply in these circumstances as the oral and documentary evidence is inconsistent with the Appellant’s position that the transportation services are part of a continuous journey outside Canada.
+[31] As Respondent counsel correctly pointed out, for the Appellant’s services to be zero-rated, the Appellant had to establish one of three scenarios:
+1. one single ticket for all of the transportation services;
+2. all of the tickets issued by the same supplier; or
+3. all of the tickets issued by the same agent acting on behalf of all suppliers.
+The Appellant is unable to bring itself within any of these three scenarios: the bus tickets issued by the Appellant did not include the airline tickets that international passengers used to travel into and out of Canada (scenario 1); the Appellant cannot be the same supplier as it is not in the business of supplying airfare to travellers (scenario 2); and, although Mr. Mair testified that some passengers arranged travel through booking companies, he was adamant that those booking companies were not agents of the Appellant (scenario 3).
+Issue 2: Whether the Appellant is entitled to additional ITCs and, as a sub issue, whether the investment in the Fairmont property was a commercial activity or one of personal enjoyment?
+[32] During the hearing, the Respondent conceded an ITC amount of $228.11 in respect to bus seat materials. During the Appellant’s submissions, Mr. Mair also conceded all of the ITC claims related to credit card items.
+[33] It was clear from the auditor’s evidence that the Appellant’s books and records were not only in a state of disarray but also lacked original source documentation to support the claims. Despite the disorganized state of the books, the auditor allowed almost 70 percent of the claims by making, for example, reasonable assumptions, cross-referencing item-by-item credit card amounts, accepting explanations of amounts and, where proper invoices were lacking, utilizing other sources such as bills of lading. To support its position, the Appellant relied on a random assortment of documents. However, they only served to reinforce the haphazard nature of the Appellant’s record keeping. Both the Act and Regulations place very specific requirements on a taxpayer who wants to successfully claim ITCs. In Davis v The Queen, [2004] GSTC 134 (TCC), approved and cited by the Federal Court of Appeal in Systematrix Technology Consultants Inc. v The Queen, 2007 FCA 226, [2007] GSTC 74, I referred to the technical requirements in these legislative provisions as “mandatory” and not simply instructive. The generous approach taken by the auditor is evident in many of the items allowed at Exhibit A-6 that did not contain the required valid GST number. It also appears from the evidence that all of the documentation before me had previously been submitted to the Minister for review which meant that there could be a risk of duplication if I attempted to conduct another review of the documents.
+The Fairmont Property and the ITC Claims
+[34] The Appellant contends that this property was constructed so that it would be available for use in the course of the company’s commercial activities. According to the Appellant’s evidence, lending institutions viewed this type of business activity as risky for loaning money. Mr. Mair testified that, since the investment would increase the value of the corporate assets, it could either be used as collateral for loans or liquidated for immediate funds. If the Appellant is to claim ITCs, the construction of the house must be part of the commercial activities and not a part of a non-business or personal venture that the Mair family pursued.
+[35] Miller J. in BJ Services Co. Canada v The Queen, [2002] GSTC 124, examined several factors to be considered in determining if an activity is business or personal in nature: the purpose of the input, for whose benefit the input was incurred and the context within which the input was incurred. The Agreement to erect the house on land owned by Mr. Mair’s son was dated in November, 2012. The family began construction of the pre-engineered home in August, 2013. Almost seven years after the idea was put to paper, it remains only partially complete, according to Mr. Mair’s testimony. In the interim, the Appellant’s maintenance facility in Calgary had been purchased in 2015. This weakens any argument that the purpose of such an investment was specifically linked to the acquisition of its Calgary facility. Since it remains in a state of partial completeness, it is unlikely that the bank would accept it as collateral in acquiring additional or improved vehicles for its bus fleet. In addition, there was no evidence introduced in respect to how it could be used as loan collateral or liquidated for cash, when the land on which the house was constructed was legally in the name of the son. In the agreement that the son had with the Appellant, he simply agreed to enter into a lease at some future date when the house was completed. So, if the Appellant chose the option of liquidating this asset, was there any agreement with the son respecting a purchase of his land? Or, was the agreement to be some type of long-term lease? There was no evidence as to how such a sale would proceed and I suspect it is because Mr. Mair gave very little thought to a key element in what he testified would be one of its commercial purposes. This was in line with the vagueness in respect to the timeline of a potential sale once the house was completed. According to the evidence, it might depend on whether the price increased, whether cash would be needed to purchase equipment or whether the shareholders planned to exit the business.
+[36] The evidence suggested that the house was being constructed in a resort community frequented by the Mair family. It is a three-hour drive from Calgary where the business is located. Both Mr. Mair and his son are glider pilots and that airport is situated in close proximity to this property. In documents submitted to the Minister in support of ITCs (Exhibit R-10), an invoice to Canyon Hot Springs Resort Ltd. was inadvertently included. Although Mr. Mair recognized that this invoice was personal, it does suggest that the family utilized the Hot Springs facilities.
+[37] A vital point in all of this was that there were no independent objective indicia to support the Appellant’s contention that this property was, in fact, a corporate business asset. There was a level of informality that pervaded all of the corporate record keeping and this was particularly evident in the lack of documentation respecting the Fairmont property. It was not included in the corporate financial statements. There were no corporate minute books or corporate resolutions produced at the hearing. Although Mr. Mair indicated that he had spoken to a number of professionals about the viability of this project, none of them gave evidence and there was no other evidence of a concrete business plan having been formulated. A majority of the ITCs claimed in its returns, in respect to the expenditures associated with the property, were not listed in the Appellant’s general ledger (Note 1, Exhibit R-9). If the house was a business asset, one would expect it to be listed as an asset in the corporate balance sheet and, further, that associated purchases would be recorded in its general ledger. These facts, coupled with the legal title to the land, provide strong evidence against a conclusion that the expenditures associated with the house were made in pursuit of a commercial activity. The so-called agreement of November 2012 between the Appellant and Kristian Mair was so informal and casual that it cannot dislodge the basic real property principle cited by the Respondent that, as a starting point in real estate transactions, there will be a presumption that ownership of a chattel, such as the Fairmont house, affixed to the land, follows that land in a conveyance (The Queen v Polygon Southampton Development Ltd., 2003 FCA 193, [2003] FCJ No. 674). This means that it was the son who was the legal owner of the land and also of the house which is affixed to his land. There were no other transaction documents entered into evidence that would displace this presumption. The Appellant simply has no legal proprietary rights in this building and the documentary evidence does not support that this property ever became or was intended to become a capital asset of the Appellant.
+[38] Even if I had concluded differently, the evidence does not support that the construction of the house was an adventure or concern in the nature of trade. The Federal Court of Appeal in The Queen v Continental Bank Leasing Corporation et al, 96 DTC 6355, at paragraph 6, summarized the requirements and principles to consider in determining whether a transaction is an adventure in the nature of trade:
+6 … The leading cases in the area Minister of National Revenue v. Taylor, [1956] C.T.C. 189, 56 D.T.C. 1125; Regal Heights Ltd. v. Minister of National Revenue, [1960] S.C.R. 902, [1960] C.T.C. 384, 60 D.T.C. 1270; Irrigation Industries Ltd. v. Minister of National Revenue, [1962] S.C.R. 346. [1962] C.T.C. 215, 62 D.T.C. 1131; Atlantic Sugar Refineries Ltd. v. Minister of National Revenue, [1948] C.T.C. 326, [1948] Ex. C.R. 622 suggest that a variety of criteria must be looked at to make the determination. These include the intention of the parties, whether the conduct in question was similar to that of an ordinary trader, the nature and quantity of the property in question, whether the transaction was isolated in nature, and the uniqueness of the transaction when compared to the taxpayer’s ordinary activities.
+[39] Mr. Mair testified that the house was constructed with the intention for it to make a profit at some point in the future. He felt that it was located in an area that would attract high-income buyers. Although his neighbours thought their properties would be profitable, he did not introduce evidence of the nature of the properties located in that area nor was there any evidence that the property was situated in an area prone to speculation. The family used their own financial resources without borrowing and did the construction themselves to keep the costs down. It sits on land owned by the son and the timeline for completion has been approximately six years to date. This conduct is very different from that of ordinary traders in residential real estate where they utilize financing and look to relatively quick turnover. The construction of the Fairmont property was an isolated transaction. No similar transactions have occurred.
+[40] Finally, I want to address the lack of documentation that would support the Appellant’s claim for ITCs in respect to the construction of this property. Mr. Mair provided a number of invoices and receipts in this regard, as well as a summary of those documents where he concluded that the ITC claim totalled $9,691.01. Respondent counsel entered his own summary of the same documents but that total was much lower than the Appellant’s calculations. Therefore, even if I were able to extract enough facts from the evidence to conclude that the Fairmont property was part of the Appellant’s commercial activities, I would not have been able to utilize the documents provided to me to support the Appellant’s ITCs that were claimed because they were, for the most part, unreliable.
+[41] In summary, subject to the concessions, the disputed trips that the Appellant provided, for both the Missed Sales and the Proper Sales, were within Canada. As none of these trips were outside of Canada, the supplies are subject to GST, for which the Appellant is required to report and remit the tax. The Appellant is not entitled to any additional ITCs in excess of those allowed by the Minister and the Respondent’s concessions.
+[42] For these reasons, the appeals are allowed, without costs, in order to give effect to the following concessions:
+1. For the reporting period ending July 31, 2013, the Appellant’s GST collected/collectible is to be reduced by a total of $1,156.54 in respect of zero-rated passenger transportation services provided to passengers of
+a) Gem Tours Gem Tours & Travels PVT Ltd, reflected in an invoice dated May 29, 2013;
+b) Discover Destinations, reflected in an invoice dated May 24, 2013; and
+c) Jagat Mavani c/o Cloud 9 Infosystems, reflected in an invoice dated July 12, 2013.
+2. For the reporting period ending October 31, 2013, the Appellant’s GST collected/collectible is to be reduced by $408.65 in respect of zero-rated passenger transportation services provided to passengers of Discover Destinations, reflected in an invoice dated August 2, 2013.
+3. An additional ITC of $228.11 in respect to custom bus seating materials purchased from Sardo Bus & Coach Upholstery.
+Signed at Ottawa, Canada, this 2nd day of April 2019.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2019 TCC 72
+COURT FILE NO.:
+2017-3184(GST)I
+STYLE OF CAUSE:
+SUNSHINE COACH LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 20 and November 26, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+April 2, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Wilhelm Mair
+Counsel for the Respondent:
+Adam Pasichnyk
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Wilhelm Mair
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

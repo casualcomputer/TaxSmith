@@ -1,0 +1,95 @@
+Title: Rai v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28584/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-147-28584-rai-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-03-20
+
+# Rai v. M.N.R.
+
+- Citation: 2008 TCC 147
+- Decision date: 2008-03-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1051, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rai v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-20
+Neutral citation
+2008 TCC 147
+File numbers
+2005-3691(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2008TCC147
+Date: 20080320
+Docket: 2005-3691(EI)
+2005-3692(CPP)
+BETWEEN:
+SARABJIT (SARABJEET) SINGH RAI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Counsel for the Appellant: G.M. Andy Advani
+Counsel for the Respondent: Andrew Majawa
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on February 28, 2008,
+at Kelowna, British Columbia)
+Miller J.
+[1] Although initially, I perceived this case to be entirely a matter of who do I believe, I have come to realize there is more to it than that. The Appellant, Sarabjit Rai, maintains that for the period from August 1 to November 8, 2002, he worked as an employee, eight-hour days, totaling 648 hours, for an unrelated company, Desert Produce. This company was owned by Mr. Paul Deol and his family. The Respondent does not believe him and maintains that Mr. Rai was too occupied with running his own family orchards, and he could not possibly have worked any hours for Desert Produce. The truth, I suggest, is somewhere in between. The Respondent determined that Mr. Rai was not in insurable or pensionable employment for the period in question.
+[2] So what did Mr. Rai provide to prove he in fact worked the eight-hour days he claims to have? Firstly, his own testimony of that effect. Secondly, the testimony of the employer, Mr. Paul Deol, confirming that Mr. Rai worked as a pruner at his orchard in Osoyoos during that period. Thirdly, cancelled cheques of September, October and November, 2002 from Desert Produce to Mr. Rai. Fourthly, bank records showing the deposit of such cheques in each of the three months. Fifthly, monthly timesheets completed by Mr. Deol indicating consistent eight-hour days. And finally, a record of employment dated November 11, 2002 from Desert Produce confirming the 648 hours and $5,832 in wages.
+[3] What facts does the Respondent rely upon to prove that Mr. Rai was not working eight-hour days for Desert Produce? Firstly, Mr. Rai admitted he helped with two family-run orchards during this period in Osoyoos, and was also primarily responsible for a third orchard in Oliver.
+[4] Now, there are a number of factors to be considered regarding Mr. Rai's availability to work these eight-hour days:
+1. The Respondent put into evidence receipt tickets from packing houses, indicating Mr. Rai was picking up empty bins from the packing houses on a regular basis during the period. There were a couple of examples of two deliveries a day. Mr. Rai responded the packing houses were close by and he could still get in his eight hours a day for Desert Produce. In fact, there were 47 deliveries during the period, which could take an hour or an hour and a half each.
+2. Mr. Rai's responsibilities on the three family orchards included mowing grass, irrigation, spraying, machine repairs, the delivery of fruit and pruning. Yet, for the period August to November, not all of these activities would be going full bore. Even so, Mr. Rai countered that he would work up to 14 to 15 hours a day combining the work for Desert Produce with his own work.
+3. The Respondent provided receipts for various equipment purchases in Oliver on the days Mr. Rai recorded eight hours working for Desert Produce in Osoyoos. There were not that many such receipts, however.
+[5] The second major factor casting doubt on Mr. Rai's story is his evidence that his job for Desert Produce was primarily pruning. This does not jive with Mr. Rai's own evidence that pruning is mainly a winter activity. Similarly, the HRDC investigating officer testified that from his experience, 90% of pruning is done in the winter. Mr. Deol, on the other hand, testified it is only done in the winter as that is when owners have the time to do the pruning, and in fact it is preferable to prune earlier, which is what he had Mr. Rai do.
+[6] The third factor the Respondent relies upon, the time sheets, show eight hours for every day. Never seven, never nine, only eight. Mr. Rai's response was that that was the arrangement he had with Desert Produce. He was to put in eight-hour days. If he was short 20 minutes or half an hour, he would make up for it the next day, but still advised Mr. Deol he met his responsibility of eight‑hour days. Mr. Deol, however, had indicated to the investigating officer that the timesheets were not exactly accurate. They really just reflected a method of payment. This would, I find, accord with Mr. Rai's behaviour to come and go as he pleased, with freedom to work whenever he was able to.
+[7] The fourth factor the Respondent relied upon was a receipt from a Surrey, B.C. jeweler, showing Mr. Rai was in Surrey, a four and a half drive away, on a day that he recorded eight hours. Mr. Rai responded he did not leave until two or three in the afternoon to go to Surrey, and he started work at 6:30 that morning so that he could get in his eight hours. In fact, the evidence showed that the sun did not rise until 7:30 that day. Further, the jeweler confirmed to the investigator that their business hours concluded at 7:00 p.m. This factor casts some doubt generally on Mr. Rai's credibility.
+[8] The fifth factor is Mr. Rai's bank records which showed withdrawals of $2,000, $1,000 and $4,000 in the months in issue. The Respondent suggested to Mr. Rai that he took the money out to pay back to Mr. Deol. Mr. Rai denied this, as did Mr. Deol. Mr. Rai testified he regularly sent funds back to India. Frankly, I place little reliance on these withdrawals as proving an arrangement one way or the other.
+[9] The sixth factor is a record showing Mr. Rai attended a chiropractor in Oliver on a day he reported eight hours for Desert Produce. Again, Mr. Rai stated he could make appointments and still meet his work obligations.
+[10] Finally, there were several minor inconsistencies between Mr. Rai's story to the investigating officer and to the rulings officer. For example, with respect to the few thousand dollar withdrawals, Mr. Rai told one officer that the funds went to India, while telling the CRA official they were to repay loans. Again, this places some doubt on Mr. Rai's testimony.
+[11] What were the parties' arguments? Mr. Rai's position was simple. He worked as Desert Produce's employee for 648 hours, as confirmed by the timesheets and the record of employment. The Respondent's position is that Mr. Rai has been unable to prove he had a legitimate contract of employment as there was effectively a cooked-up arrangement between him and Mr. Deol to show 648 hours. Indeed, the Respondent goes so far as to argue that it is just not plausible Mr. Rai could have worked any hours for Mr. Deol, and points to Mr. Rai's responsibilities on his own orchards, as well as to time proven to have been spent elsewhere, either delivering fruit or otherwise.
+[12] The Respondent's position is also that even if I am satisfied Mr. Rai did work as an employee, it is impossible for me to figure out how many hours he worked. The timesheets are meaningless, and Mr. Deol never saw Mr. Rai working. Further, neither Mr. Rai nor Mr. Deol could identify anyone of the many employees at Desert Produce who could attest to ever having seen Mr. Rai working there. The Respondent's alternative position is that even if I found Mr. Rai did work at Desert Produce, the freedom he had to work when and how he wanted indicates he was not an employee but an independent contractor.
+[13] As I said at the outset, this is not just a case of what and who do I believe. While I do find there is something fishy going on, I cannot identify exactly what. I do not accept that the timesheets are indicative of Mr. Rai working eight hours on all the days they report. This is not the type of work that falls so neatly into eight-hour segments. I find the fact that the timesheets for August and for September come out to exactly the same number, 216, equally suspicious. When I add to that suspicion Mr. Rai's questionable evidence about his trip to the jeweler, a nine-hour trip, allowing him to still put in his eight-hour day, along with considering all the other duties he had to perform in his own orchards, I am satisfied he did not spend the eight-hour days reflected on the timesheets.
+[14] However, I have also not been convinced the whole thing is a sham. I do believe Mr. Rai did some work on Desert Produce's orchard. I remain skeptical that it was all pruning. That is notwithstanding Mr. Deol's evidence that pruning appears to be more a winter activity. Yet Mr. Rai was paid for something. So I do not agree with the Respondent's position that zero hours were worked by Mr. Rai. I find he did do some work. I do agree, however, with the Respondent that I have no way of determining how many hours Mr. Rai did put in on the Desert Produce orchards. I find that it was likely considerably less than 648 hours. I also find that Mr. Deol's statement to the investigating officer that the timesheets were really just a method of payment is probably as close to the truth as we are going to get.
+[15] I conclude that Mr. Deol and Mr. Rai had an arrangement for Mr. Rai to do some work in his own time and in his own way, and that they simply couched this work in terms of eight-hour days at $9.00 an hour. However, I do not have to grapple with trying to sort out how many hours Mr. Rai actually spent, as I find the Respondent's alternative argument persuasive. Whatever contract Mr. Rai might have had with Mr. Deol, if it was legitimate, it was not a contract of employment.
+[16] In considering the usual factors in determining employment, the factors of control, ownership of equipment, chance of profit and risk of loss, in light of what the parties intended, I find the indices point to a contract as an independent contractor, not a contract of employment. Firstly, as I've said, the parties intended to couch this arrangement as something other than what it was. I therefore place no weight on the record of employment or timesheets as reflecting any true intent that there be a contract of employment.
+[17] I then consider the most significant element in the distinction between employment and independent contractor, the element of control, and find that Desert Produce had absolutely no control over Mr. Rai's activities. The time reporting I find was a mirage. Mr. Rai could come and go as he pleased and could do the work in whatever manner he saw fit. Mr. Deol had no way of determining Mr. Rai's hours, and stated he might see the results of Mr. Rai's work every three or four days, to simply realize the work was getting done. This factor alone, the factor of control, is sufficient to find Mr. Rai was indeed in business for himself and was not Desert Produce's employee.
+[18] With respect to equipment, Mr. Rai provided his own clippers, while Desert Produce provided the Kangaroo. This factor is neutral.
+[19] With respect to the chance of profit and risk of loss, I find the arrangement was that Mr. Rai got paid if the work was done. The hours were not significant notwithstanding the papering of the arrangement. Given that, this is more consistent with someone in business on his own account than an employee. I conclude Mr. Rai was not Desert Produce's employee.
+[20] For these reasons I find Mr. Rai was not in insurable and pensionable employment for 648 hours, and consequently the appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of March, 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008TCC147
+COURT FILE NO.: 2005-3691(EI) and 2005-3692(CPP)
+STYLE OF CAUSE: SARABJIT (SARABJEET) SINGH RAI and MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: February 28, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: March 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+G.M. Andy Advani
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: G.M. Andy Advani
+Firm: Advani Law Office
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

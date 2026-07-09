@@ -1,0 +1,195 @@
+---
+title: "2405124 Ontario Ltd. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521085/index.do"
+last_modified: "2023-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 57"
+citation2: ""
+neutral_citation: "2023 CCI 57"
+decision_date: "2023-05-05"
+language: "fr"
+item_id: "521085"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5872
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:23:32.887000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c6e4fa3d373adaa59650f486bfb45e52653723126bc159329d6c9fdab34188e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2405124 Ontario Ltd. c. Le Roi
+
+- Citation: 2023 CCI 57
+- Decision date: 2023-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5872, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2405124 Ontario Ltd. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-05
+Référence neutre
+2023 CCI 57
+Numéro de dossier
+2020-373(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-373(IT)I
+ENTRE :
+2405124 ONTARIO LTD.,
+appelante
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 juin 2022 à Thunder Bay (Ontario)
+Devant : L’honorable juge Bruce Russell
+Comparutions :
+Avocate de l’appelante :
+Me Jessica Alves
+Avocate de l’intimé :
+Me Allison Lubeck
+JUGEMENT
+L’appel de l’appelante interjeté à l’égard de la cotisation établie le 22 février 2018 aux termes de la Loi de l’impôt sur le revenu est rejeté.
+Signé à Ottawa, Canada ce 5e jour de mai 2023.
+« B. Russell »
+Le juge Russell
+Référence : 2023 CCI 57
+Date : Le 5 mai 2023
+Dossier : 2020-373(IT)I
+ENTRE :
+2405124 ONTARIO LTD.,
+appelante
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Introduction [1] Le présent appel porte sur une demande formelle de paiement requise de paiement (l’exigence) délivrée aux termes du paragraphe 244(1) de la Loi de l’impôt sur le revenu (La Loi) fédérale – une disposition relative à la saisie-arrêt. Elle a été délivrée à une entreprise entièrement détenue par le débiteur fiscal nommé dans l’exigence. L’exigence s’applique-t-elle à l’égard des retraits en espèces effectués par ce débiteur fiscal dans le compte bancaire de son entreprise?
+[2] Les paragraphes 244(1) et (4) et l’alinéa 227(1)a) de la Loi prévoient ce qui suit :
+Paragraphe 224(1) : [Saisie-arrêt] – S’il sait ou soupçonne qu’une personne est ou sera, dans les douze mois, tenue de faire un paiement à une autre personne qui, elle-même, est tenue de faire un paiement en vertu de la présente loi (appelée « débiteur fiscal » au présent paragraphe), le ministre peut exiger par écrit de cette personne que les fonds autrement payables au débiteur fiscal soient en totalité ou en partie versés, sans délai si les fonds sont immédiatement payables, sinon au fur et à mesure qu’ils deviennent payables, au receveur général au titre de l’obligation du débiteur fiscal en vertu de la présente loi. [Non souligné dans l’original.]
+Paragraphe 224(4) [Défaut de se conformer aux par. (1), (1.2) ou (3) – Toute personne qui omet de se conformer à une exigence du paragraphe (1), (1.2) ou (3) est tenue de payer à Sa Majesté un montant égal au montant qu’elle était tenue, en vertu du paragraphe (1), (1.2) ou (3), selon le cas, de payer au receveur général. [Non souligné dans l’original.]
+Alinéa 227(10)a) : Le ministre peut, en tout temps, établir une cotisation pour les montants suivants :
+a) un montant payable par une personne en vertu des paragraphes […] 224(4) ou (4.1) …
+[3] L’entreprise appelante, 2405124 Ontario Ltd. (240 Ontario), a Ian Bodnar (IB) comme esprit dirigeant, en étant son président, son seul actionnaire et son seul administrateur. De plus, IB indique qu’il est la seule personne détenant les pouvoirs de signature relativement au compte bancaire de l’entreprise 240 Ontario[1].
+[4] L’entreprise Ontario 240 interjette appel de la cotisation de 23 410 $ que le ministre du Revenu national a soulevée aux termes de l’alinéa 227(10)a) de la Loi (énoncée ci-dessus). La Couronne intimée soutient que l’entreprise 240 Ontario ne s’est pas conformée à une exigence de la demande formelle de paiement aux termes du paragraphe 244(1) qui a été délivrée le 31 mai 2017 et que cette entreprise a reçue le 2 juin 2017.
+[5] L’intimé soutient que le ministre a, notamment, évalué l’hypothèse selon laquelle, à quinze reprises, entre le 2 juin 2017 et le 22 décembre 2017 inclusivement, avec ladite demande formelle en vigueur, le débiteur fiscal IB a retiré des liquidités totalisant 23 410 $ du compte bancaire de l’entreprise 240 Ontario, en procédant comme suit[2] :
+1. Le 2 juin 2017 – 2 000 $
+2. Le 9 juin 2017 – 2 000 $
+3. Le 30 juin 2017 – 1 000 $
+4. Le 14 juillet 2017 – 360 $
+5. Le 19 juillet 2017 – 3 000 $
+6. Le 4 août 2017 – 500 $
+7. Le 10 août 2017 – 300 $
+8. Le 11 septembre 2017 – 500 $
+9. Le 20 septembre 2017 – 200 $
+10. Le 26 septembre 2017 – 200 $
+11. Le 12 octobre 2017 – 4 000 $
+12. Le 21 novembre 2017 – 350 $
+13. Le 14 décembre 2017 – 5 000 $
+14. Le 20 décembre 2017 – 3 000 $
+15. Le 22 décembre 2017 – 1 000 $
+Total : 23 410 $.
+II. Question en litige : [6] La question en litige soulevée par l’appelante 240 Ontario[3] est de savoir si le montant de 23 410 $ était payable et finalement versé par elle au débiteur fiscal IB, aux fins de l’application des paragraphes 224(1) et 224(4). La question invoquée par l’intimé[4] est également de savoir si le ministre était justifié d’établir une valeur de 23 410 $ aux termes du paragraphe 224(4).
+[7] À l’audience, l’avocate de l’appelante a déclaré que la question était de savoir [traduction] « si les [15] paiements des retraits ont été effectivement versés à [IB] » pendant que l’exigence de la demande formelle était en vigueur[5]. L’avocate de l’intimé a indiqué que la question à trancher était la suivante : [traduction] « déterminer si l’appelante a respecté une demande formelle de paiement délivrée aux termes du paragraphe 224(1) de la [Loi] et si, en conséquence, s’est vue imposer une cotisation... ».[6]
+III. Éléments de preuve/faits : [8] IB a été le seul témoin à l’audience. Il n’a pas contesté l’hypothèse du ministre selon laquelle il avait une obligation fiscale de 121 116 $ en application de la Loi lorsque la cotisation soumise a été soulevée. L’avis de cotisation prévoit que la cotisation « est émise relativement à l’obligation prévue aux paragraphes 224(4) ou 224(4.1) de la [Loi] [...] pour défaut de se conformer à [ladite exigence] relativement à Ian Bodnar... »[7].
+[9] Ladite exigence de demande formelle de paiement exigeait notamment ce qui suit de l’entreprise 240 Ontario :
+Vous devez payer au receveur général au titre de l’obligation [de l’impôt de BI] en application [de la Loi] :
+1) immédiatement, les sommes autrement et immédiatement payables au [débiteur fiscal, IB] que vous êtes tenu de payer;
+2) toutes les autres sommes autrement payables au [débiteur fiscal, IB] que vous serez, dans un délai d’un an, tenu de payer, au fur et à mesure que les sommes deviennent payables...
+[10] Le fondement juridique de la première de ces deux dispositions relatives aux exigences est le paragraphe 224(1), énoncé ci-dessus. La violation de cette disposition entraîne une responsabilité envers la Couronne aux termes paragraphe 224(4), dont la cotisation peut être établie conformément à l’alinéa 227(10)a).
+[11] IB a déclaré que 240 Ontario était une entreprise d’achat et de vente de biens immobiliers. De plus, l’entreprise 240 Ontario n’a gagné aucun revenu en 2017 en raison des problèmes de santé importants d’IB au cours de cette période. Au cours de cette période, IB n’avait aucune relation d’emploi avec 240 Ontario et cette entreprise ne lui a versé aucune rémunération ou dividende. Le seul revenu d’IB en 2017 provenait des paiements du RPC et de la SV. Il a indiqué que le compte bancaire de l’entreprise 240 Ontario, dans une caisse populaire locale, où tout le monde le connaissait, était [traduction] « seulement utilisé pour payer toutes les dépenses [de l’entreprise] ».[8]
+[12] Il a également déclaré que l’entreprise 240 Ontario avait des dépenses, y compris des factures de services publics (gaz propane, eau) et des frais d’entretien (son exemple était la tonte d’herbe) et que, parce que l’entreprise n’avait aucun revenu en 2017, elle a emprunté des fonds d’un autre compte de caisse populaire, celui-ci au nom de l’épouse d’IB, Mme Bodnar.
+[13] Les fonds empruntés ont été transférés en 2017 du compte de Mme Bodnar au compte de l’entreprise 240 Ontario pour des montants comprenant 35 617,60 $ en juillet, garantis par un billet à ordre de demande manuscrite d’un allié signé par IB pour l’entreprise 240 Ontario et lui-même. Il a écrit ceci sur cette demande : [traduction] « j’ai le pouvoir de lier l’entreprise », c’est-à-dire 240 Ontario. Les autres montants transférés en 2017 du compte de Mme Bodnar au compte de l’entreprise 240 Ontario comprenaient les suivants : 10 000 $ (août), 15 000 $ (août), 5 000 $ (octobre), 5 000 $ (novembre) et 79 000 $ (décembre).
+[14] Les 79 000 $ étaient nécessaires pour l’acquisition d’un bien immeuble que l’entreprise 240 Ontario était tenue d’acheter.
+[15] IB a témoigné que les innombrables retraits mentionnés ci-dessus du seul compte bancaire de 240 Ontario devaient être effectués sur deux comptes de carte de crédit MasterCard Canadian Tire, tous deux enregistrés au nom de Mme Bodnar. De plus, IB a obtenu deux cartes de crédit pour son usage, qui ont toutes deux été enregistrées comme comptes auxiliaires des deux comptes de carte de crédit de Mme Bodnar. Tous les comptes de cartes de crédit liés à cette affaire ont été enregistrés, directement ou indirectement, au nom de Mme Bodnar.
+[16] Au cours du réinterrogatoire, l’avocate de l’appelante a posé la question suivante à IB [traduction] « [V]ous étiez autorisés à utiliser ces cartes de crédit [de Mme Bodnar] à quelles fins? ». Il a répondu ce qui suit : [traduction] « Pour tout ce dont j’avais besoin. »[9]
+[17] Essentiellement, les fonds qu’IB a retirés du compte bancaire de l’entreprise 240 Ontario ont été utilisés pour payer les achats qu’IB (et peut-être aussi d’autres membres de la famille) avait effectués, en utilisant des cartes de crédit enregistrées sur les comptes MasterCard Canadian Tire de Mme Bodnar.
+[18] Mme Bodnar n’était pas présente pour témoigner au sujet de ces éléments. IB a affirmé que, cette journée-là, elle était malade et était demeuré à la maison. Selon le témoignage d’IB, Mme Bodnar a joué un rôle central dans tout cela. L’avocate de l’intimé s’est opposée à plusieurs reprises au sujet de cette absence de Mme Bodnar et a demandé que je présume de son absence que son témoignage n’aurait pas aidé l’appelante, soit l’entreprise 240 Ontario.
+[19] La preuve indiquait également que de nombreux achats effectués par IB au moyen des cartes de crédit MasterCard enregistrées au nom de sa femme ne semblaient pas être des dépenses d’entreprise aussi probables pour l’entreprise 240 Ontario. Par exemple, il y avait des frais pour divers établissements de restauration indiqués sur les relevés de carte de crédit. On n’a pas demandé à IB de parcourir les relevés pour expliquer comment les dépenses individuelles sur ces relevés de carte de crédit étaient des dépenses de l’entreprise 240 Ontario.
+[20] Ce qui m’inquiète, c’est qu’aucun reçu concernant les frais énumérés sur les différents relevés de carte de crédit n’a été mis en preuve. Les reçus de transaction par carte de crédit auraient beaucoup clarifié la nature des dépenses individuelles. Compte tenu des faits soumis, je m’attends à ce qu’il n’y ait pas beaucoup de frais sur plusieurs mois pour une entreprise inactive comme 240 Ontario, laquelle détient des biens immobiliers.
+[21] De plus, en ce qui concerne les reçus de carte de crédit, l’avocate de l’intimé a demandé à IB ceci [traduction] : « Avez-vous des reçus détaillés qui peuvent indiquer ce qui a été acheté en utilisant la carte? ». Il a répondu, [traduction] « Non, je ne les ai pas ».[10]
+[22] L’avocate a demandé : « Est-ce que votre réponse selon laquelle vous n’avez pas de reçus détaillés s’applique aux deux cartes MasterCard? ». Il a répondu : [traduction] « C’est exact ».[11]
+[23] IB a témoigné qu’il avait personnellement effectué la plupart des quinze retraits en espèces en question du compte de 240 Ontario. Il a témoigné qu’il se présentait à la caisse populaire où ce compte bancaire était conservé et qu’au comptoir, avec sa carte bancaire, il autorisait un retrait, un commis lui fournissant par conséquent la somme qu’il retirait du compte de l’entreprise 240 Ontario.
+[24] Selon son témoignage, il se rendait généralement à l’emplacement local de Canadian Tire pour déposer l’argent retiré à titre de paiement de l’un ou l’autre ou des deux comptes de carte de crédit de la Banque Canadian Tire de sa femme, qui étaient les principaux comptes de cartes de crédit dont il avait un usage illimité. La preuve a montré presque complètement une correspondance des quinze sommes retirées respectives avec des sommes déposées peu de temps après à la Banque Canadian Tire, au cours de la deuxième moitié de 2017 lorsque l’exigence de demande formelle de paiement était en vigueur.
+[25] IB a témoigné qu’en raison de son état de santé (chirurgie de pontage au début de juillet 2017 à Hamilton et récupération en fauteuil roulant jusqu’en août), chacun des nombreux retraits d’argent en question au cours de cette période de juillet à la mi-août ont été effectués par sa femme ou l’un ou l’autre de ses enfants que je crois être de jeunes adultes. Je crois comprendre que chacun de ces retraits, à l’aide de la carte bancaire et du NIP d’IB, a dû être autorisé par lui. IB n’a rien dit indiquant le contraire. Une fois de plus, Mme Bodnar n’était pas là pour témoigner, ainsi qu’aucun des jeunes enfants adultes.
+IV. Les thèses des parties : [26] L’avocate de l’appelante a renvoyé à l’arrêt Majorca Inc. c. R., 98 DTC 1130 (CCI), dans lequel la responsabilité a été constatée lorsque des fonds d’entreprise retirés ont été utilisés pour payer les comptes de carte de crédit d’un débiteur fiscal. L’avocate a établi une distinction avec la présente espèce, dans laquelle les fonds de l’appelante ont été utilisés pour payer les comptes de carte de crédit de l’épouse du débiteur fiscal, Mme Bodnar, plutôt que pour les comptes de carte de crédit du débiteur fiscal IB, lequel n’a pas de comptes de ce type. L’avocate a également souligné que Mme Bodnar était une créancière de l’entreprise 240 Ontario. L’avocate a fait valoir que cela renforçait l’argument de l’entreprise 240 Ontario selon lequel les retraits d’espèces de son compte étaient à l’avantage de Mme Bodnar et ne contrevenaient donc pas à l’exigence de la demande formelle de paiement.
+[27] L’avocate de l’intimé a soutenu que le paragraphe 224(1) soulignait l’obligation d’une personne de faire un paiement à une autre personne qui était un débiteur fiscal en application de la Loi. Elle a insisté pour que le paragraphe 224(1) soit interprété au sens large, conformément à l’arrêt National Trust Co. c. R., 98 DTC 6409, CAF. Il ne devait pas seulement s’appliquer dans une relation débiteur-créancier, mais à toute situation dans laquelle il y avait « une responsabilité en droit d’effectuer un paiement au débiteur fiscal »[12].
+[28] L’avocate de l’intimé a fait référence aux nombreux achats par carte de crédit dans les chaînes de restaurants et d’emplacements, y compris EB Games, Sports Check, Canadian Tire et Mark’s Warehouse, ainsi qu’à la déclaration d’IB selon laquelle il avait le droit d’utiliser les cartes de crédit autorisées des comptes de sa femme pour tout ce dont il avait besoin. L’avocate a fait valoir qu’IB utilisait [traduction] « les [cartes de crédit] de son épouse pour faire ses achats quotidiens et payer ses activités et d’autres passe-temps connexes »[13]. Elle a également fait valoir qu’au moins une fois, le montant du retrait (500 $, le 4 août 2017) n’avait pas été utilisé pour payer les comptes de carte de crédit de Mme Bodnar.
+[29] L’avocate de l’intimé a ajouté que l’entreprise 240 Ontario et Mme Bodnar ont agi à titre de représentants ou de mandataires du débiteur fiscal IB, lequel a pu utiliser des cartes de crédit dans les comptes de sa femme à ses propres fins. Les comptes de carte de crédit de sa femme ont été remboursés par des paiements effectués sur ces comptes en utilisant des fonds retirés du compte de l’entreprise 240 Ontario, principalement par IB (et de juillet à la mi-août, retirés par sa femme ou de jeunes enfants adultes sur instruction d’IB, en raison de son état de santé. C’était sa carte bancaire et son code PIN qui devaient être utilisés.).
+V. Discussion : [30] Je conclus que la cotisation portée en appel est valide. Elle a été délivrée à juste titre en application du paragraphe 224(1) mentionné ci-dessus. Cette disposition s’applique à l’égard des sommes versées par un bénéficiaire de l’exigence (en l’espèce, l’entreprise 240 Ontario) à un débiteur fiscal identifié dans l’exigence de la demande formelle de paiement (en l’espèce, IB). Le paragraphe 224(1) exige que toute somme payable au débiteur fiscal soit plutôt versée au receveur général, au titre de l’impôt à payer par le débiteur fiscal.
+[31] La jurisprudence a établi que le libellé du paragraphe 224(1) « tenue de faire un paiement » s’applique lorsque la loi oblige à effectuer un paiement. Cette disposition ne se limite pas aux relations débiteur-créancier. Se reporter à Discovery Trust Company c. Abbott et al., [1982] B.C.W.L.D. (1454 [C.S.C.‑B.]) et National Trust Co. c. R., [1998] A.C.F. no 968 (C.A.F).
+[32] En l’espèce, je conclus que l’entreprise 240 Ontario avait une obligation du point de vue du droit d’effectuer des paiements à IB à partir des fonds disponibles, soit une obligation découlant de la propriété et du pouvoir d’IB associés à l’entreprise 240 Ontario. IB est l’âme directrice de l’entreprise 240 Ontario, étant son seul actionnaire, son seul administrateur et son seul dirigeant (président), ainsi que son seul signataire autorisé.
+[33] Ce contrôle et ce pouvoir existent indépendamment du fait qu’IB est également le débiteur fiscal mentionné dans l’exigence de la demande formelle de paiement en question, laquelle a été délivrée à l’entreprise 240 Ontario le 31 mai 2017. Si IB demande des fonds à l’entreprise 240 Ontario, cette dernière est tenue de s’y conformer étant donné le pouvoir et le contrôle d’IB sur l’entreprise en tant que directeur principal, propriétaire unique et signataire autorisé. Il n’y a pas d’exception quant au retrait de fonds.
+[34] À quinze reprises, les fonds retirés ont été transférés directement ou indirectement à IB entre le mois de juillet et la mi-août en raison de son état de santé alors temporaire. Au cours de cette période, les différents cas de retrait de fonds se sont produits conformément au pouvoir d’IB par l’intermédiaire d’un membre de la famille agissant en tant que représentant en son nom, à condition d’utiliser temporairement sa carte bancaire et son code PIN pour accéder au compte. Si l’on interprète le paragraphe 224(1) de façon large, cela suffit pour établir la responsabilité en cas d’inobservation de l’exigence de la demande formelle de paiement, puisque les sommes retirées n’ont pas été remises au receveur général.
+[35] Ce qu’IB a ensuite fait avec les fonds (ne les ayant pas remis au receveur général) n’est pas pertinent pour l’établissement de la responsabilité conformément à l’exigence de la demande formelle de paiement. L’entreprise 240 Ontario lui a versé, directement ou indirectement, des fonds au cours des quinze occasions indiquées, pour un montant total de cotisation de 23 410 $.
+[36] Entre parenthèses, je note que, effectivement, l’entreprise appelante 240 Ontario, dont IB était le propriétaire, l’unique actionnaire et administrateur, a servi d’intermédiaire pour financer le paiement des dépenses d’IB, engagées sans restriction au moyen de cartes de crédit inscrites au nom de son épouse. Sinon, pourquoi l’entreprise 240 Ontario participerait-elle au remboursement des relevés mensuels de carte de crédit de Mme Bodnar?
+VI. Conclusion [37] Comme l’a indiqué la Cour, je conclus que la cotisation portée en appel est valide. Le présent appel interjeté sous le régime de la procédure informelle est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de mai 2023.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2023 CCI 57
+NO DU DOSSIER DE LA COUR :
+2020-373(IT)I
+INTITULÉ :
+2405124 ONTARIO LTD., ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Thunder Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 22 juin 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 5 mai 2023
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Jessica Alves
+Avocate de l’intimé :
+Me Allison Lubeck
+AVOCATS INSCRITS AU DOSSIER :
+Nom :
+Me Jessica Alves
+Cabinet :
+Buset LLP 1121 Barton Street, Thunder Bay (Ontario)
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Il n’y avait aucun élément de preuve montrant qu’une autre personne détenait des pouvoirs de signature pour cette entreprise.
+[2] réponse, alinéa 17h)
+[3] Avis d’appel, par. 18.
+[4] Réponse, par. 18
+[5] Transcription, page 119.
+[6] Transcription, page 124.
+[7] Pièce A-1.
+[8] Transcription, page 16.
+[9] Transcription, page 118.
+[10] Transcription, page 96.
+[11] Ibid.
+[12] National Trust Co., par. 47
+[13] Transcription, page 128.

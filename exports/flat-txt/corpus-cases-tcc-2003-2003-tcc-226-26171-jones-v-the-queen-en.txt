@@ -1,0 +1,125 @@
+Title: Jones v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26171/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-226-26171-jones-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-08
+
+# Jones v. The Queen
+
+- Citation: 2003 TCC 226
+- Decision date: 2003-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3969, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jones v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-08
+Neutral citation
+2003 TCC 226
+File numbers
+2001-3809(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3809(IT)I
+BETWEEN:
+TIMOTHY ALAN JONES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 4, 2003 at Sudbury, Ontario.
+Before: The Honourable Judge Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is allowed without costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Minister ought not have included the amount of $1,000 in computing employment income for 1999.
+Signed at Ottawa, Canada, this 8th day of April 2003.
+"Gerald J. Rip"
+J.T.C.C.
+Citation: 2003TCC226
+Date: 20030408
+Docket: 2001-3809(IT)I
+BETWEEN:
+TIMOTHY ALAN JONES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J.
+[1] Timothy Alan Jones appeals an income tax assessment for 1999 in which the Minister of National Revenue ("Minister") considered income he claimed as business income to be employment income. As a result, the Minister effectively disallowed business expenses claimed by Mr. Jones in computing his income for the year.
+[2] At all relevant times Mr. Jones was employed by Cambrian College ("College") in Sudbury, Ontario as a geology instructor. Mr. Jones does not dispute that, with respect to teaching, he earned employment income from the College. In earlier years Mr. Jones had contracted for work with businesses and the governments of Canada and Ontario. In all these contracts, Mr. Jones was engaged as a professional geologist. These contracts were unrelated to activities carried on by the College.
+[3] The College has encouraged international students[1] to attend the College for post-secondary and special programs. This work is undertaken by the International Programs Division of the College, known as Cambrian International.
+[4] The International Program Division, according to Mr. Ibrahim Alladin, its director, has a good reputation in mining. In early 1999 the College had a contract with a mining company in Saudi Arabia to provide specialized training in mining and geology to four Saudi individuals attending the College for approximately six months. Each of the four students was to be assigned a mentor in the area of training required by the Saudi corporation for the particular student. In January 1999 the International Program Division was looking for someone to arrange a program for, and mentor, an employee of a Saudi Arabian mining company. The College had made arrangements to place one student, Khalid al-Sharrif, who had a geology background, to work in a gold mine in Timmins and the Inco mine in Sudbury. Apparently the Saudi corporation wished to train Mr. al-Sharrif so that he would return to Saudi Arabia and teach mining skills to citizens of that country. The College wanted the mentor to have a geological background so that he could arrange fieldwork experience for the student, supervise him during the training period and generally act as his contact at the College.
+[5] Mr. Alladin approached Mr. Jones, asking if he would agree to act as Mr. al-Sharrif's mentor. Mr. Jones' supervisor agreed to permit him to work "outside" his normal teaching duties.
+[6] According to Mr. Jones, he and the College entered into a verbal contract for the College to pay him $1,600 to supervise Mr. al-Sharrif for the period January 15, 1999 to February 28, 1999. He was to be paid the $1,600 for his services upon completion of the contract. Mr. Alladin, represented the College in negotiating the terms of the contract. Usually, Mr. Alladin said, the Department of Human Resources is responsible for hiring full-time and part-time teaching staff. The Department of Human Resources did not participate in the hiring of Mr. Jones to mentor Mr. al-Sharrif because "there was not enough time". It was an "oversight", according to Mr. Alladin, that no written contract was prepared for Mr. Jones.
+[7] Mr. Jones testified that he had discussions with Mr. Alladin to establish the particulars of his responsibilities. These discussions included scheduling. Mr. Jones said he made the final decision as to the contents of the student's program. He insisted that he organized the work and completed the contract on his own time, using his own resources. He had weekly meetings with Mr. Alladin during the term of the contract to discuss Mr. al-Sharrif's assignments. There was a problem with Mr. Al Shariff who, according to Mr. Jones, did not want any training and often failed to attend meetings with him. Mr. Alladin stated that Mr. al-Sharrif did attend classes and had arrangements with other professors. Mr. Alladin received regular reports concerning the student's attendance at class and progress.
+[8] The principal resources used by Mr. Jones, he declared, were his skills as an experienced geologist and manager. Teaching was not a factor.
+[9] Mr. Alladin testified that had Mr. Jones become ill for an extended time during the contract, a replacement would have been found.
+[10] Mr. Jones billed the College for $1,600 on completion of the contract. However, according to Mr. Jones, the College's Accounting Department arbitrarily adjusted the pay to a fixed rate per hour worked and instead of paying him $1,600, paid him $1,000. The College also issued him a second statement of remuneration paid (T4) for $1,000, less statutory source deductions. Mr. Jones did not agree with this approach but he did not pursue the matter. Mr. Alladin had provided Mr. Jones with some computer equipment he had difficulty getting from his supervisor.
+[11] The Minister determined that Mr. Jones was an employee of the College with respect to the work he performed for the College's International Program for the following reasons, as outlined in the Reply to the Notice of Appeal:
+I) the Appellant was required to perform the services personally;
+II) he could not hire others to complete the work;
+III) he had to take direction about the work to accomplish it and the method used to complete it;
+IV) the Employer established the clientele, deadline and priorities and rate of pay;
+V) the Employer provided any tools or equipment necessary to complete the work; and
+VI) the terms of the employment did not allow the Appellant to profit or expose him to the risk of loss.
+[12] In computing his income tax for 1999, Mr. Jones reported employment income of $67,545 from the College and professional income of $1,600, the amount in issue, although he received only $1,000 from the College. He claimed expenses of $2,123, including the amount of $600 written off as a bad debt, that were incurred in producing professional income. The Minister originally allowed the expenses so that Mr. Jones was permitted to deduct the difference of $523. On reassessing, the Minister "included previously unreported employment income of $1,000". The respondent plead that the Minister allowed the loss of $523 in error.
+[13] During cross examination of Mr. Jones, respondent's counsel posed questions concerning Mr. Jones' claimed expenses. The respondent did not dispute the legitimacy or the reasonableness of the expenses in her Reply to the Notice of Appeal. It is too late to raise this issue at trial.
+[14] Respondent's counsel referred me to the reasons for judgment of the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] Major J. agreed with MacGuigan J.A. in Wiebe Door Services Ltd. v. M.N.R.,[3] that in considering the various tests to determine if an employer-employee relationship exists, one must always search for the total relationship of the parties. What control the employer has over the employee is an important factor. But there are other factors, a non-exhaustive list of factors, as well: who provides the equipment, does the worker have others to help, the financial interest of the worker, the worker's opportunity for profit? Finally, is the worker performing the services as a person in business on his own account?
+[15] The evidence suggests that the arrangement Mr. Jones had with the College to mentor was occasioned by his employment with the College but was independent of his employment. It is obvious that Mr. Jones' contract of employment with the College to teach did not contemplate anything related to Mr. Jones' services undertaken for Mr. al-Sharrif.
+[16] Mr. Jones testified that due to a "nasty divorce" between him and his former wife he deliberately curtailed his business activities in 1996. He said he feared that if he earned extra income, a good portion of that income would go to his wife for child support. Thus, he said, he was not prepared to earn more than $3,000 to $4,000 per year from his outside business activities. The divorce became final in 1999. The contract with the College for $1,600 was a continuation of his business that had been carried on before 1996, he argued. I do not accept Mr. Jones' evidence that the contract to mentor Mr. al-Sharrif was a continuation of his previous business. I find that it was separate from his employment with the College and not part of any other previous business.
+[17] The argument by the respondent that Mr. Alladin engaged Mr. Jones to perform the services personally and Mr. Jones could not hire others to complete the work is not fatal to Mr. Jones' position. An individual may engage the services of a medical doctor, for example, and insist that only that physician perform the medical services. Nobody would consider the doctor an employee of the individual; for the same reason it does not necessarily follow that Mr. Jones is always an employee of the College. Other factors need be taken into account.
+[18] Messrs. Jones and Alladin discussed the work Mr. Jones would provide and was providing during January and February 1999. However, according to Mr. Jones, it was he who decided the contents of the program for Mr. al-Sharrif and how it would be provided. He met frequently with Mr. Alladin to discuss the student's assignments but there is no evidence Mr. Jones received instructions from Mr. Alladin as to how he should do his work.
+[19] The College provided the student but the "priorities and rate of pay" were negotiated: this is the evidence of both Mr. Jones and Mr. Alladin. Mr. Jones said the "tools" to provide the services were his knowledge and experience.
+[20] I am not satisfied that Mr. Jones incurred losses to the extent claimed but, as mentioned earlier, this is not a matter before me.
+[21] In short, with respect to the services Mr. Jones provided to Mr. al-Sharrif, the total relationship of the College and Mr. Jones was not that of an employer and its employee. Mr. Jones' position was not unlike any other teacher or instructor who, on his or her own accord, offers tutoring to students for a fee. The services he provided to the College for Mr. al-Sharrif was on his account, not the College's.
+[22] The appeal is allowed without costs and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Minister ought not have included the amount of $1,000 in computing employment income for 1999.
+Signed at Ottawa, Canada, this 8th day of April 2003.
+"Gerald J. Rip"
+J.T.C.C.
+CITATION:
+2003TCC226
+COURT FILE NO.:
+2001-3809(IT)I
+STYLE OF CAUSE:
+Timothy Alan Jones v. The Queen
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+March 4, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Gerald J. Rip
+DATE OF JUDGMENT:
+April 8, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I refer to the persons attending the International Program Division as students; however, they may be trainees or visiting professionals, such as geologists, from outside Canada and not students in the traditional sense. These students are not part of the general student body at the College.
+[2] [2001] 2 S.C.R. 983, at paragraphs 44-48, per Major J.
+[3] [1986] 3 F.C. 553.

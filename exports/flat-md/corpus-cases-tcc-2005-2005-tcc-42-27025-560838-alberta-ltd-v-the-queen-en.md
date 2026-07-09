@@ -1,0 +1,160 @@
+---
+title: "560838 Alberta Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27025/index.do"
+last_modified: "2005-01-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 42"
+citation2: ""
+neutral_citation: "2005 TCC 42"
+decision_date: "2005-01-11"
+language: "en"
+item_id: "27025"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 635
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:10:06.692000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f500355d21f989b4da3f91d13396595966147f74c5ec23157559170c83d8dd6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 560838 Alberta Ltd v. The Queen
+
+- Citation: 2005 TCC 42
+- Decision date: 2005-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 635, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+560838 Alberta Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-11
+Neutral citation
+2005 TCC 42
+File numbers
+2004-2907(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-2907(GST)I
+BETWEEN:
+560838 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 2, 2004 at Edmonton, Alberta
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Rodney Supersad
+Counsel for the Respondent:
+Galina Bining
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Notice of Assessment dated December 13, 2002, bearing number 10122894 is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 11th day of January 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC42
+Date: 20050111
+Docket: 2004-2907(GST)I
+BETWEEN:
+560838 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant was incorporated under the laws of the Province of Alberta. Mr. Rodney Supersad owns all of the issued shares of the Appellant.
+[2] The Appellant has owned and operated a restaurant known as Cilantros since 1996. Cilantros is a small restaurant with 29 seats and is located at 10322 11th Street in the City of Edmonton.
+[3] At all relevant times the Appellant was a registrant for purposes of the Goods and Services Tax ("GST") under the Excise Tax Act (the "Act").
+[4] Mr. Supersad maintains that the Appellant filed its GST returns in a proper manner for the period commencing on January 1, 2001 and ending June 30, 2002 (the "Reporting Period").
+[5] The Appellant claimed total input tax credits in the amount of $7,280.75 for the Reporting Period.
+[6] By a Notice of Assessment (the "Assessment") dated December 13, 2002 the Minister of National Revenue (the "Minister") assessed the Appellant net tax of $5,106.31, interest of $439.78 and a penalty of $737.60. As a result of the position adopted by the Minister, all of the input tax credits that had been claimed by the Appellant were denied.
+[7] The Appellant filed an Objection to the Assessment.
+[8] By a Notice of Reassessment (the "Reassessment") dated April 2, 2004 the Minister allowed the Objection in part and assessed tax, interest and penalty as follows:
+Tax
+$4,654.44
+Interest
+413.22
+Penalty
+689.90
+Total
+$5,757.56
+Pursuant to the Reassessment the Minister allowed the Appellant input tax credits in the amount of $451.87.
+[9] The Appellant filed a Notice of Appeal to the Tax Court in which it claimed that it had properly recorded the tax that had been collected and that it was entitled to the input tax credits that it had claimed.
+B. ISSUE:
+[10] Is the Appellant entitled to claim input tax credits in excess of the amount of $451.87 that has been allowed by the Minister?
+C. ANALYSIS:
+[11] Mr. Robert Reti, an auditor with the Canada Revenue Agency ("CRA"), appeared as a witness for the Respondent.
+[12] Mr. Reti testified that he had reviewed the business operation of the Appellant and the financial records maintained by Mr. Supersad for the Appellant.
+[13] Mr. Reti said that from his analysis the Appellant's accounting records for the Reporting Period were inadequate. Mr. Reti said that the Appellant did not maintain a General Ledger and that its financial records consisted of various invoices, cancelled cheques, bank statements and credit card receipts.
+[14] Mr. Reti said that he attempted to assist Mr. Supersad by showing him how the Appellant would comply with the requirements of the Act.
+[15] Mr. Reti said that when he reviewed the Appellant's financial statements he reviewed the Appellant's records for the months of October, November and December 2002 for the purpose of confirming the input tax credits claimed by the Appellant for that period. Mr. Reti said that he did this analysis in order to verify the input tax credits claimed by the Appellant for the Reporting Period. The working papers prepared by Mr. Reti for the months of October, November and December 2002 were filed as an exhibit (see Exhibit A-5).
+[16] Mr. Reti said that in the course of his review of the Appellant's records for October, November and December 2002 he reviewed all receipts plus debit cards, cancelled cheques, bank statements and credit card receipts. Mr. Reti testified that according to the calculations as shown on Exhibit A-5 he determined that the input tax credits claimed by the Appellant for the three-month period were $748.34 and the input tax credits as verified totalled $727.64. Mr. Reti said that his calculations indicated that 97.23% of the input tax credits claimed by the Appellant for that period were verified.
+[17] Mr. Reti stated that he had also reviewed the purchase invoices maintained by the Appellant for GST purposes for the period January 1, 2001 to March 31, 2001 (see Exhibit A-6). During this period the input tax credits claimed by the Appellant were $832.68 and the input tax credits verified by purchase invoices were $451.87 resulting in a variance between input tax credits claimed and input tax credits established by purchase invoices of 54.27% (Note: Mr. Reti said that he had confined his review for this period to actual purchase invoices provided by the Appellant and he did not review the Appellant's bank statements, debit card invoices, cancelled cheques or credit card slips).
+[18] Mr. Reti also testified that he had reviewed the purchase invoices maintained by the Appellant for the period October 1, 2002 to December 31, 2002. During this period the input tax credits claimed by the Appellant were $748.34 and the input tax credits verified by Mr. Reti were $505.19. According to Mr. Reti the percentage of verified input tax credits per purchase invoices were 67.8% of the input tax credits claimed by the Appellant. Mr. Reti testified that when he prepared his calculations he confined his analysis to purchase invoices provided by the Appellant and he did not review the Appellant's bank statements, debit card invoices, cancelled cheques or credit card slips.
+[19] As noted above the Reassessment issued by the Minister only allowed the Appellant to claim input tax credits of $451.87 for the Reporting Period compared to input tax credits claimed by the Appellant in the amount of $7,280.75. The Minister maintains that the Appellant "failed to provide the documentation required to support that it is entitled to input tax credits in excess of $451.87".
+[20] From a careful analysis of all of the evidence I have determined that the Appellant is entitled to 60% of the input tax credits claimed, i.e. 60% of $7,280.75 or $4,368.45.
+[21] I have arrived at this number because of the finding by Mr. Reti that 67.8% of input tax credits claimed were as verified for the period October, November and December 2002 (see Exhibit A-5) and that 54.27% of input tax credits claimed for the period January, February and March 2001 (see Exhibit A-6) were verified by Mr. Reti.
+[22] I also note that Mr. Supersad stated during the appeal that he has retained new accountants to prepare the tax returns for the Appellant as required by the Act and he stated that he is attempting to follow the recommendation from Mr. Reti to comply with the requirements imposed by the CRA.
+[23] The appeal is allowed, without costs, and the Minister is instructed to permit the Appellant to claim input tax credits of $4,368.45 for the Reporting Period.
+Signed at Vancouver, British Columbia, this 11th day of January 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC42
+COURT FILE NO.:
+2004-2907(GST)I
+STYLE OF CAUSE:
+560838 Alberta Ltd. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+December 2, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+January 11, 2005
+APPEARANCES:
+Agent for the Appellant:
+Rodney Supersad
+Counsel for the Respondent:
+Galina Bining
+COUNSEL OF RECORD:
+Agent for the Appellant:
+Name:
+Rodney Supersad
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

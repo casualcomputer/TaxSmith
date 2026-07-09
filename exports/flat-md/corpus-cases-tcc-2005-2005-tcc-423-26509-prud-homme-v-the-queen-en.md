@@ -1,0 +1,208 @@
+---
+title: "Prud'homme v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26509/index.do"
+last_modified: "2005-07-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 423"
+citation2: ""
+neutral_citation: "2005 TCC 423"
+decision_date: "2005-07-25"
+language: "en"
+item_id: "26509"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3257
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:32:45.067000+00:00"
+cases_cited_count: 1
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67b8ec0d912b2daf3f2271e3f4b15ebbd3c3de7e52d2c8908b37380c1326ec60"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prud'homme v. The Queen
+
+- Citation: 2005 TCC 423
+- Decision date: 2005-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3257, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prud'homme v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-25
+Neutral citation
+2005 TCC 423
+File numbers
+2003-2985(IT)G
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2985(IT)G
+BETWEEN:
+FABIEN PRUD'HOMME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 16, 2005, at Montréal, Quebec.
+Before: The Honourable Justice Pierre R. Dussault
+Appearances:
+Counsel for the Appellant:
+Alain Ménard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of July 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 8th day of February, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC423
+Date: 20050725
+Docket: 2003-2985(IT)G
+BETWEEN:
+FABIEN PRUD'HOMME,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] In his income tax return for the year 1997, the Appellant declared a business investment loss (BIL) of $170,000. Three-quarters of that loss, i.e. $127,500, was claimed as a deductible business investment loss. In an assessment, the notice of which is dated November 12, 2002, the Minister of National Revenue ("the Minister") disallowed the deduction claimed and imposed a penalty on the Appellant under subsection 163(2) of the Income Tax Act ("the Act"). The assessment was made after the normal reassessment period.
+[2] In making and confirming the reassessment, the Minister relied on the following assumptions of fact set out in subparagraphs 9(a) through (m) of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Appellant is claiming a business investment loss in respect of Les habitations Usitech Inc. (hereinafter "Usitech").
+(b) Usitech was incorporated in 1995 pursuant to the Business Corporations Act.
+(c) In 2002, the Canada Customs and Revenue Agency auditor examined the Usitech minute book and found only one share certificate, which was issued to Michel Faille.
+(d) According to the minute book, Michel Faille was the only shareholder of Usitech.
+(e) The Appellant claims to have purchased 170 Class A shares in Usitech for a total of $170,000, but never proved the payment.
+(f) The Appellant claims to have borrowed the money from Investissements Seahawk Ltée.
+(g) Investissements Seahawk Ltée was also owned by Michel Faille.
+(h) The Appellant never proved this loan from Investissements Seahawk Ltée.
+(i) The Appellant never proved that he repaid the loan.
+(j) Investissements Seahawk Ltée has filed no income tax return since July 31, 1995.
+(k) Usitech has never filed an income tax return and has never made any source deductions for any employees.
+(l) Usitech has never declared bankruptcy.
+(m) Michel Faille implemented a scheme to enable taxpayers to lessen their tax burdens through the use of fictitious losses.
+[3] In addition, the Minister states as follows at paragraph 10(n):
+(n) Based on the registration information submitted to the Inspecteur général des institutions financières, Michel Faille was the majority shareholder of Usitech until 2000, when the corporation was officially deregistered.
+[4] By imposing the penalty and reassessing the Appellant outside the normal reassessment period, the Minister relied on the following facts set out in subparagraphs 11(o) and (p), which read as follows:
+[TRANSLATION]
+(o) The facts set out in paragraphs (a) through (m) of this Reply to the Notice of Appeal.
+(p) The Appellant knew that the business investment loss that he was claiming for the 1997 taxation year was fictitious.
+[5] The parties also produced a very brief agreement on the facts, which reads as follows:
+[TRANSLATION]
+AGREEMENT ON THE FACTS
+1. In his income tax return for the 1997 taxation year, the Appellant claimed a deductible business investment loss of $127,500.
+2. Following an audit by the Canada Customs and Revenue Agency, it was discovered that Michel Faille had implemented a scheme to enable investors to claim a business investment loss to which they were not entitled.
+3. The same audit uncovered the fact that the Appellant was one of the investors approached by Michel Faille.
+4. Thus, under the circumstances, the Appellant was not entitled to the deduction claimed, because the relevant requirements of the Income Tax Act had not been met.
+[6] Because of this agreement, the Appellant is contesting only the penalty imposed under subsection 163(2) of the Act at this time.
+[7] The Appellant is a certified real estate, equipment and machinery appraiser. After studying at the Université du Québec à Montréal, he obtained his degree in 1987, and in 1990, he founded his own company, Corporation Immobilière F.P.H. ("F.P.H."). In 1997, the company acquired the assets of another company that had been doing business in the same field.
+[8] While his income was modest (roughly $20,000 – $30,000) in the early years, the Appellant claimed that business picked up quickly because of the municipal assessment challenges of the early 1990s. In 1992, 1993 and 1994, the company's income was roughly $100,000 per year. In 1997, F.P.H. had a surplus of roughly $250,000 on deposit in its bank account.
+[9] The Appellant, who was seeking a better return on this amount, contacted his accountant François Vigneault, who told him that another accountant named Benoît Desjardins was proposing a tax shelter with an attractive rate of return. The Appellant, who said that he was willing to take certain risks in relation to the investment, nonetheless claims to have checked with Mr. Vigneault to ensure that everything was legal, because he wanted to maintain his reputation and therefore did not want to do anything improper. Mr. Vigneault allegedly reassured him in this regard and explained to him that the investment involved the purchase of the losses of a Canadian corporation called Usitech, which was in the prefabricated home business. The Appellant said that he was interested in this information because he himself was in the real estate business, and was aware that several companies, including Campeau and Bonneville, were interested in this type of product, which had been marketed rather successfully in Eastern European countries after their markets opened. In addition, the Appellant said that he was not knowledgeable about investments or taxation.
+[10] The Appellant explained that he then contacted Mr. Desjardins in or around September 1997. An appointment was set up at Mr. Desjardins' office on De la Montagne Street in Montréal.
+[11] At this first appointment, Mr. Desjardins gave the Appellant his business card, which states that he is a chartered accountant and identifies him as the Vice‑President of Services financiers Seahawk Ltée. He explained to the Appellant that he had just moved into offices on De la Montagne, which were larger than the previous offices on de Maisonneuve Street West. The Appellant explained that the offices filled the entire floor and were new, modern and very nice, and that there were many people there.
+[12] According to the Appellant, Mr. Desjardins introduced himself as a financial analyst specializing in investments and tax shelters. Mr. Desjardins allegedly told him that he had a team of specialists who scrutinized legislation so that clients could benefit from it.
+[13] Mr. Desjardins allegedly explained the investment in Usitech as follows. The company was indeed in the business of prefabricated homes, and was expanding, but had accrued losses over its first years of operation and therefore needed funds. According to the Appellant, Mr. Desjardins then told him that he chose certain clients to become shareholders of the corporation, and that if the Appellant wanted to invest, he could do so by purchasing shares. Specifically, Mr. Desjardins allegedly proposed that the Appellant purchase 170 shares in Usitech's share capital at $1,000 each for a total of $170,000, which was the book value of the shares. The Appellant stated that Mr. Desjardins told him that the market value of the shares was only $25,500 because of the accrued losses, so there was therefore a risk in investing. However, according to the Appellant, the proposal was to borrow $170,000 to purchase the shares, repay the loan in two to four instalments and then recover the entire $170,000, less the market value of the shares, namely $25,500, which Usitech would keep. Thus, the Appellant would have to pay $170,000 so that the company could show this input of cash, but $144,500 would be returned to him. The return yielded by this proposal was essentially a tax reduction resulting from the ability to claim a BIL of $170,000.
+[14] The Appellant stated that Mr. Desjardins gave him a lot of information about Usitech and answered his questions. According to the Appellant, "it was impressive" and "everything looked properly arranged." As to whether the proposal was lawful, the Appellant stated that Mr. Desjardins was very persuasive, and in retrospect, a "sly fox."
+[15] According to the Appellant's explanations, he said that he would think about the proposal. He then returned to see his accountant, and spoke with him about Mr. Desjardins' proposal. Allegedly, Mr. Vigneault neither encouraged nor discouraged him, stating that the proposal was beyond his ken as a personal and small business accountant, but that it had worked for other taxpayers. However, the Appellant claimed that Mr. Vigneault told him that Mr. Desjardins was a well‑regarded acquaintance whose group consisted of specialists, and that the proposal seemed "interesting on paper."
+[16] A few weeks later, the Appellant decided to accept the proposal. He then contacted Mr. Desjardins again and asked him to prepare the necessary documents.
+[17] At a meeting with the Appellant in November 1997, Mr. Desjardins asked the Appellant to sign a subscription letter for 170 Class A shares in the share capital of Usitech in consideration of $170,000 (Exhibit A‑2). The Appellant also signed a loan contract for $170,000, which was to be used to purchase 170 Class A shares in the share capital of Usitech (Exhibit A‑3).
+[18] First of all, the lender designated in the loan contract (Exhibit A‑3) is Les Investissements Seahawk Ltée ("Seahawk"). The Appellant claims that when he arrived at the meeting, the document had already been signed by a Michel Faille on behalf of the lender. In addition, the document was dated May 15, 1996. This date is clearly stated on both the first page of the contract and on the second, directly above the signatures. I should also note that this contract, which is only a few paragraphs in length and alarmingly simple, states that share certificate No. A‑34, issued to the borrower for 100 Class A shares, will be delivered to the lender as security.
+[19] However, the subscription letter (Exhibit A‑2) is for 170 Class A shares, not 100 Class A shares. The letter is also clearly dated May 15, 1996. This date appears in bold directly above the Appellant's signature.
+[20] The Appellant stated that the Appellant gave him certificate No. A‑34 for 170 Class A Usitech shares (Exhibit A‑5) at the November 1997 meeting. The certificate, signed by Michel Faille in his capacity as President and Secretary‑Treasurer, is dated May 16, 1996.
+[21] Lastly, the Appellant alleged that he also received, at or shortly after the same meeting, a copy of a resolution of Usitech's directors signed by Michel Faille, accepting the subscription of 170 Class A shares by the Appellant and authorizing the issuance of shares in his name. The date of May 15, 1996, is clearly stated on both pages of the document (Exhibit A-4).
+[22] The Appellant testified that he never noticed the dates on the documents. He said that he only examined the documents and realized that the date was inaccurate two and a half years later, when he was informed that Revenu Québec was disallowing the deduction that he had claimed.
+[23] The Appellant claimed that Mr. Desjardins told him, at their November 1997 meeting, that the $170,000 in loan repayments could be made later in two, three or four instalments.
+[24] The Appellant, who chose to make four payments, reported to Mr. Desjardins' office on March 17, 1998, and handed him a first certified cheque for $50,000 payable to the order of Usitech. Mr. Desjardins then gave him a $47,000 bank draft. The three other certified cheques, also made out to Usitech, were dated March 24, 1998 ($47,500) April 2, 1998 ($45,000) and April 9, 1998 ($27,500). Each cheque was handed to Mr. Desjardins on the stated date and each time, Mr. Desjardins handed the Appellant a bank draft in a given amount so that the total amount of the bank drafts that Mr. Desjardins handed the Appellant was $144,500. (Exhibit A-6).
+[25] Thus, as agreed, Usitech kept $25,500. I should immediately note that while the $170,000 loan agreement was signed with Seahawk (Exhibit A‑3), the Appellant made the repayments using four cheques payable to Usitech.
+[26] Following these transactions, the Appellant claimed that he asked Mr. Vigneault, his accountant, to prepare his 1997 income tax return and report a $170,000 BIL as directed by Mr. Desjardins. According to the Appellant, Mr. Vigneault "knew the process" so he made no unfavourable comments. At this point, I should note that the Appellant's 1997 income tax return is dated April 6, 1998, and was apparently delivered to the Canada Customs and Revenue Agency (CCRA) by hand on April 17, 1998 (Exhibit I‑1). However, the most interesting point is that the page on which the information about the $170,000 BIL is provided refers to the company as "Habitations Usite" and gives the year of acquisition as 1996.
+[27] According to the Appellant, Revenu Québec notified him two and a half years later that the loss he had claimed was disallowed. He told his accountant Mr. Vigneault about this, and Mr. Vigneault allegedly replied that "it was too good to be true" and that he was sorry. The Appellant also said that Mr. Vigneault was stunned, and contacted Revenu Québec for an explanation, whereupon he allegedly learned that the CCRA had investigated transactions involving Michel Faille and that the results had been disclosed to Revenu Québec. The Appellant explained that Mr. Vigneault felt guilty and therefore looked after his file for two years without charge. Among other things, Mr. Vigneault allegedly went with him to a meeting with Revenu Québec officials and to a meeting with his counsel.
+[28] The discussions with Revenu Québec allegedly resulted in the penalty being withdrawn. As for the discussions with the CCRA, the Appellant says that he retained André Gauthier of the law firm of Heenan Blaikie to deal with the officials in charge of the matter. The Appellant said that the discussions always focussed on transactions involving Michel Faille, but that he maintained that he did not know that individual.
+[29] The Appellant explained that this matter became a nightmare, that he considered himself a victim and that he felt it was important to preserve his reputation in the eyes of his clients and colleagues. He also stated that he had lost the $25,500 and had obtained no tax deduction. Thus, he said, he experienced a significant financial and emotional loss.
+[30] He also said that he had never made other investments, except to his RRSP.
+[31] Yvon L'Écuyer is now retired. At the relevant time, he was an investigator with the Special Investigations section of the CCRA. Among other things, he investigated false BIL claims made by roughly 60 taxpayers. These claims involved Michel Faille and his confederates, as well as various accounting firms. The scheme involved issuing false corporate share certificates and "sell" fictitious losses to taxpayers in return for a variable percentage of the income tax refunds obtained. The accounting firms involved prepared the taxpayers' returns and charged 10-50% of the refunds that the taxpayers obtained as a result of the false loss claims. In the Appellant's case, Mr. L'Écuyer noticed that a Usitech share certificate had been issued in 1996 in consideration of $170,000, but that the Appellant's name was not entered in the company's minute book. He also noticed that the company had never filed an income tax return.
+[32] Mr. L'Écuyer then sent the Appellant a letter notifying him that the loss claim was being disallowed and that he was preparing to impose a penalty under subsection 163(2) of the Act accordingly. The Appellant was given 30 days to provide explanations or make representations. Since Mr. L'Écuyer received no respond from the Appellant during that time, he decided to impose the penalty.
+[33] Under cross-examination, Mr. L'Écuyer explained that Michel Faille was a chronic offender who had been selling false losses since 1994 and that the transactions were primarily done through accounting firms or salespersons. Apparently, due to a lack of evidence, Mr. Faille was apparently never prosecuted criminally. However, charges have apparently been laid against certain accounting firms.
+[34] Mr. L'Écuyer explained that all the taxpayers concerned were denied the losses, but that the penalty under subsection 163(2) was not imposed on taxpayers who either provided explanations that were considered satisfactory, or cooperated with the CCRA.
+[35] Turning back to the Appellant, Mr. L'Écuyer admitted that he had spoken with the Appellant's counsel, André Gauthier of Heenan Blaikie, but that he only did so once. However, he claims that no documentation was produced, which is why the penalty was not cancelled. Mr. L'Écuyer claims that he was not informed that Revenu Québec had cancelled the Appellant's penalty.
+[36] Counsel for the Respondent maintains that the Appellant filed a false income tax return knowingly or under circumstances equivalent to gross negligence when he declared a BIL of $170,000, having never paid that amount, since he received repayments from Mr. Desjardins.
+[37] In her view, the Appellant was merely seeking a way to avoid paying income tax and was wilfully blind in that he presumed that the accountant Desjardins was acting in good faith, and did not obtain additional information about Usitech's financial situation (notably, he failed to ask for its financial statements.) She also feels that the Appellant should have noticed that the documents were dated May 1996, not November 1997. In support of her position, counsel for the Respondent referred to the decisions in Venne v. Canada, 84 D.T.C. 6247, [1984] F.C.J. No. 314 (QL) (T.D.), Patricio v. Canada, 84 D.T.C. 6413, [1984] F.C.J. No. 540 (QL) (T.D.), Villeneuve v. Canada, 2004 D.T.C. 6077, [2004] F.C.J. No. 134 (QL) (C.A.) and Lévesque Estate v. Canada, No. 94‑1792(IT)I, March 21, 1995, 96 D.T.C. 3250, [1995] T.C.J. No. 469 (QL).
+[38] For his part, counsel for the Appellant notes that subsection 163(2) is a penal provision that must be interpreted strictly. In addition, he submits that the taxpayer should be able to benefit from any reasonable interpretation that benefits him. In this regard, he relies on the decision of the Federal Court of Appeal in Chabot v. The Queen, 2002 DTC 6708.
+[39] Counsel for the Appellant notes that the Appellant was young and inexperienced at the relevant time and that it was his accountant who recommended a tax shelter and referred him to accountant Desjardins. Desjardins gave the Appellant the information about Usitech and, with plausible explanations, convinced him to invest by becoming a shareholder in the company and purchasing $170,000 of its share capital for only $25,500.
+[40] Counsel for the Appellant submits that he had no reason to be fearful or suspicious, since it appeared that everything was being done professionally and the Appellant checked a second time with the accountant after meeting with the accountant Desjardins. He also argues that the Appellant did not realize, at the time, that the documents were antedated.
+[41] Counsel for the Appellant also notes that the Appellant's accountant was also bamboozled and "did not catch on." It was so bad, he said, that the accountant later expressed regret and looked after the Appellant's file free of charge for two years. Thus, it cannot be concluded that the Appellant and his accountant were in connivance with the machinations of the accountant Desjardins.
+[42] Counsel for the Appellant also notes that Michel Faille, the mastermind of the scheme, was not prosecuted criminally, and that several taxpayers paid no penalty. He notes that Revenu Québec agreed to cancel the penalty imposed on the Appellant.
+[43] In support of his arguments, counsel for the Appellant refers to the decisions in Julian v. The Queen, [2004] 3 C.T.C. 2501 (T.C.C.), Chabot, supra, Martin v. The Queen, [2002] 2 C.T.C. 2773 (T.C.C.), Lamarre v. The Queen, [2004] 1 C.T.C. 2508 (T.C.C.) and Villeneuve, supra.
+[44] In referring to the decision in Villeneuve, supra, he submits that a person can only be found to have been wilfully blind if he or she was aware or seriously suspicious of a scheme.
+[45] In addition, in the case at bar, counsel for the Appellant also notes that there was no arrangement under which the Appellant was to pay another person a portion of the tax refund obtained, as was done both in Villeneuve, supra, and Lamarre, supra.
+[46] In conclusion, he submits that the Appellant was naïve and negligent but that a finding of gross negligence is unwarranted because he had reason to believe that by becoming a shareholder, he was well-founded in claiming Usitech's losses.
+Analysis
+[47] Obviously, the facts on which the imposition of a penalty for gross negligence under subsection 163(2) of the Act is based must be analysed having regard to their particular context, which means that drawing a comparison with the facts of another situation would be a purely random exercise, if not patently dangerous.
+[48] In addition, as a matter of principle, the Federal Court of Appeal clearly established in Villeneuve, supra, that the term "gross negligence" encompasses wilful blindness as much as it encompasses an intentional act or a wrongful intent. In Villeneuve, Létourneau J.A. stated as follows at paragraph 6:
+6 With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[49] While the evidence was being summarized, I happened to notice certain errors or anomalies that should have attracted the Appellant's attention and should certainly have given rise to suspicions. The subscription letter signed by the Appellant is for 170 Class A shares of Usitech and the total consideration is $170,000 (Exhibit A‑2). However, paragraph 4 of the loan contract states that "Share Certificate No. A‑34 issued to the Borrower representing ONE HUNDRED (100) Class A shares" will be remitted to the lender as security (Exhibit A‑3). Some people might possibly believe that this is a mere mistake. However, the fact remains that both documents were signed at the same time and were very short and very simple. It is difficult to believe that the error was not noticed and corrected.
+[50] In addition, since the loan contract clearly identifies the lender as Seahawk (Exhibit A‑3), one truly wonders why the Appellant agreed to make his four cheques payable to the order of Usitech when they were supposed to be in reimbursement of the $170,000 loan advanced by Seahawk (Exhibit A-6).
+[51] I now turn to the date of the documents. The Appellant claims that he signed the subscription letter (Exhibit A-2) and the loan contract (Exhibit A‑3) in November 1997 at a meeting with the accountant Desjardins. The copy of the resolution of Usitech's directors approving the subscription (Exhibit A‑4) and the share certificate (Exhibit A-5) were apparently given to him contemporaneously, or roughly so. However, the first three documents are dated May 15, 1996. The share certificate is dated May 16, 1996. Clearly, all these documents were false because they stated that all the transactions had occurred 18 months earlier. Yet the Appellant claims that he did not realize that the dates were false. According to his testimony, he only came to this realization two and a half years later, when Revenu Québec notified him that the loss he claimed was being disallowed.
+[52] There are two reasons why I cannot accept this testimony by the Appellant. The first is that the dates are clearly stated on the four documents, which are very short and very simple. In addition, with respect to the subscription letter (Exhibit A‑2), the date of May 15, 1996 is stated in bold letters directly below the Appellant's signature. Thus, unless he was totally blind or signed with both eyes closed, it would have been impossible for him not to notice this. On the loan contract, which was also signed by the Appellant, the date of March 15, 1996, appears both on the first page and above the signatures on the second page. Even the most cursory examination of the document would disclose this. Moreover, paragraph 3 of the loan contract states that an interest rate of 7% will be payable for the duration of the loan (Exhibit A‑3). This kind of element would also have tended to alert the Appellant about the false contract date. As a matter of fact, there is no evidence that the Appellant paid any kind of interest.
+[53] The second reason is that the Appellant's 1997 income tax return falsely states that the transactions took place in May 1996, even though they actually took place in November 1997. Indeed, the page setting out the details of the BIL of $170,000 involving "Usite" (Usitech) states the year as "96" (Exhibit I‑1, page 15, BIL grid.) This information could only have been passed from the Appellant to his accountant, either orally, or through documents, so that the accountant could prepare the return. And both the Appellant and his accountant knew that the information was false because the first meeting with accountant Desjardins only occurred in September 1997, and the documents were signed in November 1997. Nonetheless, information to the effect that the purchase was made in 1996 was provided in the tax return, which the Appellant signed. Can one believe that the Appellant failed once again to notice this discrepancy? Not in my view.
+[54] It is difficult enough to imagine that the Appellant — a professional appraiser — and his accountant, could have been taken in so thoroughly by the accountant Desjardins' machinations that they lost any sense of critical judgment and accepted his explanation that a BIL of $170,000 could be claimed by purchasing shares for only $25,500. Assuming the Appellant's accountant was unable to pass judgment on the transactions proposed by the accountant Desjardins "because it was beyond his ken", it is difficult to understand why the Appellant would have chosen to move forward without getting more information. The stakes were high, the amounts were considerable, and the proposed method, involving the use of more or less fictitious cheques and simultaneous refunds with bank drafts, was suspect on its face. But quite apart from this difficultly explainable naïveté, I cannot believe that the Appellant did not realize that the four documents prepared by the accountant Desjardins, and, in particular, the two documents that he himself signed, bore a false date.
+[55] In my opinion, this element alone should have caused him or his accountant to become suspicious about the legality of the entire operation. The Appellant did not react to this anomaly; he accepted the documents, signed two of them, and subsequently signed his income tax return containing the false information. These are indicia of wilful blindness, if not deliberate conduct constituting gross negligence.
+[56] In closing, I would simply add that even if I had believed the Appellant's account, I would still have made a finding of gross negligence because I would have had to recognize that the Appellant accepted the documents, signed some of them, and subsequently signed his income tax return without even taking a look or summarily examining the contents of any document whatsoever despite the significant amounts at stake. Such conduct goes beyond mere negligence.
+[57] As a result of the foregoing, the appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 25th day of July 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 8th day of February, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC423
+COURT FILE NO.: 2003-2985(IT)G
+STYLE OF CAUSE: Fabien Prud'homme and
+Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 16, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre R. Dussault
+DATE OF JUDGMENT: July 25, 2005
+APPEARANCES:
+Cousnel for the Appelant:
+Alain Ménard
+Counsel for the Respondent:
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant
+Name: Alain Ménard
+Firm: Cain Lamarre Casgrain Wells
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

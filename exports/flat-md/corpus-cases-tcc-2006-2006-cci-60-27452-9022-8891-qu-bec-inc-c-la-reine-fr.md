@@ -1,0 +1,238 @@
+---
+title: "9022-8891 Québec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27452/index.do"
+last_modified: "2006-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 60"
+citation2: ""
+neutral_citation: "2006 CCI 60"
+decision_date: "2006-04-05"
+language: "fr"
+item_id: "27452"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 208
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:43:15.933000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6ca21d782a69a79540f64eb1b970899fe7bacb003611c0feec66eecd88c96e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9022-8891 Québec Inc. c. La Reine
+
+- Citation: 2006 CCI 60
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 208, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9022-8891 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-05
+Référence neutre
+2006 CCI 60
+Numéro de dossier
+2004-1670(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1670(GST)I
+ENTRE :
+9022-8891 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 février 2005, à Montréal (Québec),
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelante :
+Me Bruno Bernier
+Avocat de l'intimée :
+Me Denis Émond
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que cette Cour a fait parvenir un jugement daté du 8 février 2006 à l'égard de l'appel de 9022-8891 Québec Inc. se lisant comme suit :
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 21 novembre 2001, est admis, sans frais, et la cotisation est différée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Et attendu que deux erreurs se sont glissées à la page 6 des motifs du jugement :
+- la rubrique, Ratio ventes d'alcool/ventes totales, aurait du apparaître avant le paragraphe [25] ;
+- au paragraphe [27] le point d'interrogation après le montant de 77 752,84 $ doit être enlevé.
+Cette Cour modifie les motifs du jugement en conséquence. Les autres dispositions du jugement et des motifs du jugement demeurent en vigueur.
+Signé à Ottawa, Canada, ce 5e jour d'avril 2006.
+« B. Paris »
+Juge Paris
+Référence : 2006CCI60
+Date : 20060405
+Dossier : 2004-1670(GST)I
+ENTRE :
+9022-8891 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Paris
+[1] L'appelante est une société qui exploite depuis 1995 un restaurant, Le Maestro, situé à St-Sauveur (Québec).
+[2] Au cours de l'année 2001, le ministre du Revenu du Québec (le « ministre » ) a procédé à une vérification des affaires de l'appelante aux fins de la Loi sur la taxe d'accise (la « Loi » )[1].
+[3] À la suite de cette vérification, le ministre, par avis de nouvelle cotisation daté du 21 novembre 2001 et se rapportant aux années se terminant le 31 juillet 1997, 1998, 1999 et 2000, a fixé les montants dus par l'appelante à :
+TPS nette 135 971,03 $
+intérêts 19 042,77 $
+pénalités[2] 55 752,13 $
+[4] L'appelante conteste la cotisation.
+[5] Les questions en litige sont :
+- est-ce qu'il y avait prescription en vertu de l'alinéa 298(1)a) de la Loi pour toute la période visée par l'avis de nouvelle cotisation?
+- est-ce que le ministre a correctement calculé les fournitures taxables de l'appelante pour la période en litige?
+- est-ce que le ministre avait le droit d'appliquer des pénalités en vertu des articles 280 et 285 de la Loi à l'égard des montants de taxe dus par l'appelante?
+Dans son avis d'appel, l'appelante a indiqué qu'elle s'opposait à la réduction des crédits de taxe sur les intrants ( « CTI » ) faite par le ministre, mais a abandonné cette position à l'audience.
+[6] Au cours de la période en litige, les actionnaires et administrateurs de l'appelante étaient Sylvain Cormier et Éric Verpaelst. Messieurs Cormier et Verpaelst étaient tous les deux actifs dans les opérations du restaurant. Monsieur Cormier s'occupait de la salle à manger, de la promotion et de la publicité tandis que monsieur Verpaelst s'occupait de la cuisine. Les deux partageaient l'administration du commerce, mais monsieur Cormier a déclaré avoir assumé la majorité des responsabilités à cet égard.
+[7] L'établissement avait un bar et approximativement 100 places dans la salle à manger et comptait environ 12 ou 13 employés.
+La vérification
+[8] Après avoir fait une enquête initiale, la vérificatrice du ministre a jugé que les registres de l'appelante étaient incomplets aux fins de détermination des montants de TPS qui auraient dû être perçus par l'appelante.
+[9] Parmi les problèmes qu'elle a notés concernant les registres de l'appelante, elle a constaté :
+i) que, dans les rapports des ventes fournis par monsieur Cormier au comptable externe, il y avait des jours où les ventes totales indiquées étaient d'un montant inférieur au montant des ventes payées par carte de crédit et carte de débit;
+ii) que le chiffre du revenu total annuel du restaurant différait selon qu'il était indiqué dans les états financiers, dans le rapport du comptable, dans les déclarations de TPS ou dans le rapport produit sur l'ordinateur du restaurant; pour l'année 1999, le total indiqué variait de 449 718 $ à 486 616 $;
+iii) qu'il manquait beaucoup de notes de repas.
+La vérificatrice a conclu qu'elle ne pouvait pas se fier aux registres de l'appelante et elle a donc employé une méthode indirecte de vérification pour reconstituer les ventes de l'appelante pendant les années en litige.
+[10] Tout d'abord, la vérificatrice a détaillé les achats d'alcool (bière, vin et spiritueux) faits par l'appelante entre le 1er août 1996 et le 31 juillet 2000, se servant à cette fin des factures de la SAQ, de Molson, de Labatt et d'autres fournisseurs, qu'elle a trouvées dans les documents fournis par l'appelante.
+[11] Ensuite, elle a déterminé le prix de vente de bière en se référant au menu de l'appelante, et elle a calculé les pourcentages de majoration du prix du vin et des spiritueux.
+[12] Elle a appliqué les prix de vente (bière) et les taux de majoration (vin et spiritueux) aux achats connus de l'appelante pour établir les revenus totaux tirés de la vente de ces produits dans le cadre des opérations du restaurant pendant chacune des années en litige. Elle a ensuite accordé une réduction de 5 % pour reconnaître qu'une partie de l'alcool acheté n'aurait pas été vendue mais aurait été donnée aux fins de promotion, perdue, utilisée pour la cuisson et consommée par le personnel.
+[13] Une fois que la vérificatrice a établi les ventes de bière, de vin et de spiritueux, elle a extrapolé pour déterminer les ventes de repas pour chaque année. Pour y arriver, la vérificatrice a déterminé un ratio représentant les ventes d'alcool par rapport aux ventes totales pour le restaurant pour chaque année, ce qui se traduisait par les pourcentages suivants :
+1er août 1996 au 31 juillet 1997 34,46 %
+1er août 1997 au 31 juillet 1998 35,19 %
+1er août 1998 au 31 juillet 1999 36,59 %
+1er août 1999 au 31 juillet 2000 42,82 %
+[14] En appliquant le ratio pertinent aux ventes d'alcool qu'elle avait calculées pour chaque année, elle est arrivée aux ventes totales d'alcool et de repas et elle y a ajouté les revenus reçus par l'appelante lors de tournois de golf qu'elle avait organisés chaque année. Les ventes totales selon la vérificatrice étaient :
+1er août 1996 au 31 juillet 1997 789 756,21 $
+1er août 1997 au 31 juillet 1998 928 393,18 $
+1er août 1998 au 31 juillet 1999 1 089 557,10 $
+1er août 1999 au 31 juillet 2000 1 022 528,39 $
+Selon les calculs de la vérificatrice, l'appelante a omis de déclarer des ventes totalisant 1 899 075 $ pour les quatre années en litige.
+[15] La vérificatrice a aussi réduit de 3 017,97 $ les CTI de l'appelante et a imposé en vertu des articles 280 et 285 de la Loi des pénalités sur les montants de taxes dus par l'appelante.
+Position de l'appelante
+[16] Dans ce litige, l'appelante conteste certaines des présomptions utilisées par la vérificatrice dans la reconstitution des ventes de l'entreprise. Premièrement, elle dit que la marge de 5 % accordée par la vérificatrice pour tenir compte de l'alcool acheté mais non vendu était trop basse et ne reflétait pas la réalité des opérations de l'appelante. Deuxièmement, elle remet en question le ratio ventes d'alcool/ventes totales utilisé par la vérificatrice.
+[17] L'appelante s'oppose aussi à l'imposition des pénalités et soulève le motif de la prescription relative à certaines périodes[3] couvertes par la cotisation.
+Preuve
+Alcool utilisé pour la promotion/ utilisation interne
+[18] Selon monsieur Cormier, il y avait beaucoup de restaurants dans la région de St-Saveur et la concurrence était très féroce. Alors les restaurants du coin faisaient la promotion de différentes façons. Quant à Le Maestro, il a dit qu'il a essayé de le distinguer de ses concurrents par un généreux accueil aux clients, se servant librement de l'alcool comme outil de promotion. Ceci concordait avec l'ambiance qu'il voulait créer pour le restaurant et l'image qu'il voulait projeter pour les clients potentiels. Il offrait aux clients des boissons alcooliques ou parfois une bouteille de vin, selon l'achalandage qu'ils pouvaient apporter au restaurant. En cas d'erreurs dans le service ou de problèmes survenant au cours du repas, il offrait aux clients des digestifs ou des verres de vin pour compenser.
+[19] Il a aussi témoigné qu'il faisait don de caisses de bière au Festival des arts de St-Sauveur et aux tournois de golf en échange de publicité à ces événements. Il a déclaré avoir donné, au total, environ 50 caisses de 24 bières lors de ces événements à chaque année. À l'appui de ses dires, il a produit trois lettres de remerciement : une du Festival des arts pour 10 caisses de bière et un buffet offerts par le restaurant, et deux autres, du 21 juin 2000 et du 30 juillet 2000, le remerciant pour dix caisses de bière données à deux tournois de golf.
+[20] Monsieur Cormier a aussi raconté que Le Maestro permettait aux employés de prendre une ou deux bières ou du vin à la fin de leur travail et que deux bouteilles de vin par semaine étaient consommées au cours des dégustations de vin données pour familiariser les serveurs avec les nouveautés sur la carte des vins. Deux autres bouteilles de vin auraient été consommées chaque semaine par monsieur Cormier et monsieur Verpaelst avec des repas d'affaires qu'ils prenaient au restaurant. Finalement, il a déclaré que Le Maestro offrait souvent des boissons alcoolisées aux amis et aux clients qui passaient au restaurant l'après-midi avant qu'il n'ouvre ses portes.
+[21] Le témoignage de monsieur Cormier que Le Maestro offrait de façon régulière de la bière, du vin ou des spiritueux aux clients à titre d'accueil a été confirmé par deux clients habituels du restaurant, monsieur Pierre Audette et monsieur Michel Gauthier.
+[22] De plus, madame Isabelle Lord, membre de la Chambre de commerce de St-Sauveur pendant les années en litige, a témoigné que monsieur Cormier avait fourni des apéritifs et du vin au cours des dîners de familiarisation que la Chambre de commerce avait organisés pour les concierges des grands hôtels de Montréal et pour les planificateurs d'événements, également de Montréal, qui ont été amenés à St-Sauveur afin de leur faire connaître la région. Madame Lord a dit qu'il n'y avait pas de document relié à ces visites, qu'elle avait tout arrangé par téléphone.
+[23] Un autre témoin, Gaétan Poitras, un ancien employé du restaurant Le Maestro, a témoigné qu'à la fin de chaque quart de travail, des employés, normalement entre 5 et 10, restaient et prenaient des consommations au bar gratuitement.
+[24] Monsieur Verpaelst, le chef de cuisine du restaurant, a présenté ses calculs quant à la quantité d'alcool utilisée dans la cuisine pendant les années en litige. Il a précisé les sortes et les quantités d'alcool consommées dans la cuisine chaque semaine selon les plats offerts au menu. L'utilisation en cuisine comprenait le vin, la bière et les spiritueux.
+Ratio ventes d'alcool/ventes totales
+[25] En ce qui concerne le calcul du ratio de ventes d'alcool/ventes totales, monsieur Cormier a insisté sur le fait que les résultats de la vérification ne pouvaient tenir parce que, selon ceux-ci, Le Maestro aurait un ratio coût des ventes/revenus totaux de seulement 25 %. Monsieur Cormier a fait remarquer que les revenus déclarés du restaurant Le Maestro indiquaient un ratio coût des ventes/revenus totaux de 45 %, ce qui, selon lui, serait plus raisonnable.
+[26] En contre-interrogatoire, la vérificatrice a indiqué que, selon son expérience, un restaurant du même genre que Le Maestro aurait un ratio coût des ventes/revenus d'entre 30 % et 35 %, mais que cela varie d'un établissement à l'autre.
+Troc
+[27] Monsieur Cormier a aussi témoigné qu'il avait fait des arrangements − qu'il a appelés des contrats d'échange − avec certains commerces, arrangements selon lesquels Le Maestro échangeait des repas au restaurant, y compris des boissons alcoolisées, contre de la publicité à la radio, de l'équipement sonore, du linge de table et de cuisine, et de la publicité reliée à une série télévisée. À cet égard, il a produit des contrats d'échange d'une valeur de 77 752,84 $. Il a aussi indiqué qu'il avait eu d'autres contrats pour les périodes en litige, mais il ne les a pas présentés à la Cour. Il a dit que d'autres contrats d'échange se trouvaient dans les boîtes de documents qu'il avait fournies à la vérificatrice.
+[28] Pourtant, la vérificatrice a déclaré ne pas avoir vu de documents concernant des trocs au moment de la vérification.
+Témoignage du comptable
+[29] L'appelante a aussi appelé comme témoin le comptable actuel de l'appelante, monsieur Luc Bergeron, qui a révélé que ses services n'ont été retenus qu'à partir du 31 juillet 2002. L'essentiel de son témoignage a porté sur un tableau qu'il avait préparé pour établir la quantité d'alcool achetée par l'appelante qui n'a pas été vendue au cours de ses opérations et pour chiffrer la réduction de cotisation que l'appelante demande. Monsieur Bergeron s'est fié aux renseignements fournis par monsieur Cormier et monsieur Verpaelst pour dresser le tableau et n'avait aucune connaissance personnelle des chiffres. Ce tableau a une valeur probante minime, puisque la plupart des chiffres dont monsieur Bergeron s'est servi n'ont pas été corroborés par monsieur Cormier dans son témoignage.
+[30] Il est à noter que dans le tableau monsieur Bergeron calcule que, sur les 11 996 bouteilles de bière achetées par l'appelante entre le 1er août 1996 et le 31 juillet 1997, 8 942 auraient été soit données, soit utilisées en cuisine, et seulement 3 054 auraient été vendues par l'appelante. Il en serait essentiellement de même, selon le tableau, pour les autres années en litige.
+Arguments
+[31] Le procureur de l'appelante prétend avoir présenté à la Cour une preuve prima facie démolissant les présomptions qu'a faites l'intimée lors de la reconstitution des ventes de l'appelante. Il s'appuie sur les décisions First Fund Genesis Corporation, Karmin, Chomica, MacIsaac, Zink et Hickman Motors[4] et soutient que le manquement à l'obligation de tenir des registres exacts énoncée au paragraphe 286(1) de la Loi ne donne pas pour autant carte blanche au ministre pour établir des présomptions arbitraires lors d'une cotisation. Un appelant peut, à l'aide d'une preuve prima facie, démolir les présomptions sur lesquelles s'appuie l'intimée, comme l'a écrit la juge L'Heureux-Dubé dans Hickman Motors, aux paragraphes 92 et 93 :
+[...] En établissant des cotisations, le ministre se fonde sur des présomptions [...] et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable [...] Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu'a utilisées le ministre, mais rien de plus [...]
+L'appelant s'acquitte de cette charge initiale de « démolir » l'exactitude des présomptions du ministre lorsqu'il présente au moins une preuve prima facie [...]
+[32] Dans le cas présent, l'appelante prétend avoir démoli les présomptions faites par le ministre, soit premièrement, celle selon laquelle tout l'alcool acheté par l'appelante a fait l'objet de ventes, sauf les cinq pour cent employés pour les promotions, utilisés en cuisine et consommés par le personnel. Le procureur de l'appelante invoque la décision de cette Cour dans l'affaire Gestion Cheers Inc. c. Canada, [2001] A.C.I. n º 179 (QL), 2001 G.T.C. 377, où il était question de prétendues ventes faites dans l'exploitation d'un bar et non déclarées. Dans cette affaire, le vérificateur avait fixé à 10 % des ventes totales la proportion des boissons alcoolisées perdues et utilisées pour la promotion, tandis que l'appelante prétendait que c'était plutôt 30 % des ventes totales. La Cour a accueilli l'appel, ayant accepté le témoignage du principal de l'appelante comme une preuve prima facie suffisante pour renverser le fardeau de la preuve. Le procureur de l'appelante dans la présente affaire soutient que le témoignage de monsieur Cormier devrait aussi être accepté comme une preuve prima facie et que l'intimée devrait assumer le fardeau de la preuve.
+[33] Deuxièmement, l'appelante prétend qu'elle a démoli la présomption de l'intimée que les ventes d'alcool étaient nécessairement liées à la vente de repas et représentaient 34,46 % des ventes totales.
+[34] Le procureur de l'appelante prétend qu'il aurait pu y avoir de l'alcool vendu sans repas. Selon le raisonnement de l'appelante, la présomption du ministre doit être erronée puisque les revenus totaux du restaurant qui résultent de cette présomption donneraient un ratio de seulement 25% pour ce qui est du coût des ventes de l'appelante par rapport aux ventes totales, ce qui serait trop bas.
+[35] Dans son argument sur la marge accordée par la vérificatrice pour l'alcool non vendu, le procureur de l'appelante a soulevé la question de savoir comment traiter les contrats d'échange entre l'appelante et certains de ses fournisseurs. La vérificatrice n'était pas au courant de ces arrangements au moment de la vérification.
+[36] Quant aux pénalités, l'appelante a invoqué pour sa défense le fait qu'elle a exercé une diligence raisonnable, s'appuyant sur les passages suivants des motifs des Juges Décary et Létourneau dans l'affaire Corporation de l'école polytechnique c. Canada, 2004 CAF 127 :
+28 La défense de diligence raisonnable permet à une personne d'éviter l'imposition d'une pénalité si elle fait la preuve qu'elle n'a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s'il eut existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l'événement qui mène à l'imposition de la peine? Voir La Reine c. Sault Ste-Marie, [1978] 2 R.C.S. 1299; La Reine c. Chapin, [1979] 2 R.C.S. 121. En d'autres termes, la diligence raisonnable excuse soit l'erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[37] À ce sujet, le procureur de l'appelante a dit :
+En l'espèce, nous ce qu'on soutient c'est que le représentant de l'appelante a cru, peut-être de façon erronée, qu'il avait déclaré toutes les ventes taxables de l'entreprise parce que lui il disait : « Bien, moi je donne beaucoup de bières en promotion ou d'alcool. » Et c'est probablement... si ce n'est pas le cas, ça veut dire c'est quand même raisonnable dans les circonstances parce qu'il n'avait quand même pas des registres précis qui lui permettaient de rencontrer ses obligations.
+[38] Sur la question de la pénalité imposée en vertu de l'article 285 de la Loi, le procureur de l'appelante s'est appuyé sur la décision 410812 Ontario Ltd. c. La Reine dans laquelle le juge en chef adjoint Bowman (tel était alors son titre) a déclaré :
+[9] Si l'on peut dégager un principe général des nombreuses affaires décidées en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu, c'est que les tribunaux hésitent à sanctionner l'imposition de pénalités pour faute lourde à moins que l'existence d'un degré important de négligence n'ait été clairement établie.
+Selon le procureur de l'appelante, l'intimée n'a pas réussi à démontrer le degré requis de négligence pour justifier la pénalité.
+Analyse
+[39] Par les témoignages de messieurs Sylvain Cormier, Pierre Audette et Michel Gauthier et de madame Isabelle Lord, l'appelante a démontré que l'utilisation de l'alcool pour la promotion était pratique courante dans l'exploitation du restaurant. La position de l'appelante s'affaiblit cependant sur le plan de la question des quantités ainsi utilisées. Pour cette raison, je ne pourrais qualifier les témoignages susmentionnés de preuve prima facie. Bien que monsieur Cormier ait fourni quelques chiffres quant aux quantités d'alcool dont l'appelante se servait pour la promotion, il y a eu très peu de corroboration de ses dires. Il n'a produit que trois documents traitant de dons de bière contre de la publicité. Le témoignage des autres témoins au sujet de la promotion consistait en des anecdotes et ne permet pas de préciser la quantité d'alcool utilisée à cette fin.
+[40] En revanche, la preuve quant à l'utilisation d'alcool dans la cuisine était plus étoffée, et le témoin, monsieur Verpaelst, ne s'est pas contredit en contre-interrogatoire. L'appelante a ainsi pu démontrer une consommation importante pour ce qui est de cet aspect de ses opérations.
+[41] À la lumière de toute la preuve, je tiens pour avéré que l'appelante a donné environ 40 caisses de bière par année à divers tournois de golf ou festivals, et que la consommation interne de vin, de bière et de spiritueux était importante. Je tiens pour avéré aussi que l'appelante a offert gratuitement de la bière, du vin et des spiritueux aux clients du restaurant et aux employés.
+[42] Quoiqu'il soit difficile de rattacher ces quantités à une marge précise, je suis convaincu que la marge de 5 % de l'ensemble de l'alcool acheté par l'appelante accordée par la vérificatrice pour la promotion et pour l'utilisation interne devrait être augmentée à 15 % pour tenir compte de ces facteurs. Je suis également convaincu que l'appelante n'a pas réussi à démontrer que la marge excédait 15 %.
+[43] En ce qui concerne la décision Gestion Cheers invoquée par l'appelante, je fais remarquer que, même si le juge avait indiqué que le témoignage du principal n'avait pas été corroboré, il n'en resterait pas moins que celui-ci avait en fait présenté un livre attestant la réalité des activités de promotion faites par le bar, et le juge l'a accepté comme étayant le témoignage.
+Ratio
+[44] L'appelante n'a pu fournir une preuve convaincante de ce qui serait un ratio raisonnable quant au coût des ventes par rapport aux ventes totales pour un restaurant du genre de celui de l'appelante. Ni monsieur Cormier ni madame Morand, la vérificatrice, ne sont qualifiés pour fournir une preuve d'expert à cet égard et leur témoignage relève de la conjecture. L'appelante n'a pas, par conséquent, démontré que la vérificatrice s'est trompée dans les ratios représentant les ventes d'alcool par rapport aux ventes totales de l'appelante pour chaque année en litige. Pour cette raison, le deuxième argument de l'appelante est rejeté.
+Troc
+[45] Selon le paragraphe 153(3) de la Loi, la valeur des échanges entre inscrits ne serait pas assujettie à la TPS et aucun CTI ne pourrait être demandé. Dans le cas de l'appelante, il semblerait que la quantité d'alcool consommée par les personnes avec qui l'appelante avait fait les échanges était comprise dans les quantités présumées par la vérificatrice avoir été vendues dans le cadre des opérations de l'appelante. La vérificatrice aurait aussi, en calculant les ventes de repas, calculé un montant pour des repas qui correspondait à l'alcool consommé par l'autre partie à l'accord d'échange.
+[46] Compte tenu du paragraphe 153(3), il est clair que les boissons alcoolisées consommées et les repas pris dans de telles circonstances ne sont pas taxables. Alors, l'appelante a droit à une réduction du chiffre de ses ventes totales établi par l'intimée, réduction qui correspond au montant des contrats d'échange.
+[47] L'appelante a déposé des contrats d'une valeur de 78 550 $ pour la période du 1er août 1999 au 31 juillet 2000. Le témoignage de monsieur Cormier selon lequel il y avait d'autres contrats de ce genre reste vague et sans corroboration, et je ne suis pas prêt à accorder à l'appelante une réduction au-dessus de ce montant. La réduction des ventes totales du restaurant sera de 78 550 $ pour la période du 1er août 1999 au 31 juillet 2000.
+Pénalités
+[48] Le texte du paragraphe 280(1) de la Loi prescrit une pénalité de responsabilité stricte :
+280. (1) Sous réserve du présent article et de l'article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l'expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+L'intimée a réussi à démontrer des lacunes importantes dans les registres de l'appelante, et à établir par une méthode de vérification détaillée que des ventes substantielles n'ont pas été déclarées.
+[49] L'appelante prétend avoir exercé une diligence raisonnable, mais son argument revient à dire qu'elle ne devrait pas avoir à payer de pénalités sur des ventes non déclarées, car elle s'est fiée aux registres qu'elle avait elle-même mal tenus. Il est pourtant clair que la négligence de l'appelante quant à la tenue de ses registres ne peut lui servir de bouclier.
+[50] En somme, l'appelante n'a présenté aucune preuve démontrant l'exercice d'une diligence raisonnable par ses administrateurs ou par ses dirigeants pour tenir les registres nécessaires afin d'éviter les erreurs dans ses déclarations de TPS. Monsieur Cormier n'a pas indiqué quelles précautions avaient été prises par lui ou d'autres personnes pour éviter ces erreurs. De plus, le comptable qui travaillait pour l'appelante à l'époque n'a pas été appelé a témoigner.
+[51] Quant à la pénalité de 25 % prévue à l'article 285, elle exige un niveau de négligence considérablement plus élevé que l'article 280. Contrairement à l'article 280 qui prévoit une pénalité de responsabilité stricte, le texte de l'article 285 prévoit l'application de la pénalité, prescrite dans la cas où une personne « sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration » .
+[52] Le fardeau de la preuve relatif à cette disposition repose sur l'intimée. Sans avoir à prouver la mens rea, elle doit néanmoins s'acquitter d'un fardeau civil lourd d'une preuve selon la prépondérance des probabilités, comme l'écrivait le juge Strayer dans Venne c. Canada (M.R.N.), [1984] A.C.F. n º 314 (QL) (où il était question d'une pénalité imposée en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu, qui est le pendant de l'article 285 de la Loi sur la taxe d'accise) :
+[...] En vertu du paragraphe 163(3) "la charge d'établir les faits qui justifient l'imposition de la pénalité incombe au Ministre". Il convient de souligner que, pour que la pénalité soit applicable, il faut un degré de culpabilité plus élevé, soit avec connaissance réelle, soit avec faute lourde, que ne l'impose le paragraphe 152(4) pour que soient réouvertes [sic] des cotisations antérieures de plus de quatre ans, la simple négligence étant suffisante apparemment dans ce dernier cas.
+[53] Comme l'a déclaré le juge Bowman (tel était alors son titre) dans la décision Farm Business Consultants Inc. c. Canada, [1994] A.C.I. n º 760 (QL), paragraphe 27, 95 DTC 200, aux pages 205 et 206 :
+Une cour doit faire preuve d'une prudence extrême lorsqu'elle sanctionne l'imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l'établissement d'une nouvelle cotisation à l'égard d'une année frappée de prescription ne justifie pas d'office l'imposition d'une pénalité, et l'imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l'imposition d'une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d'une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans les situations où l'on cherche à établir le bien-fondé d'allégations moins sérieuses. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d'un contribuable cadre avec deux hypothèses viables et raisonnables, l'une qui justifie la pénalité et l'autre pas, il convient d'accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. Je crois qu'en l'espèce, l'intimée a fait la preuve du degré de probabilité requis, et qu'au vu de la preuve produite, aucune hypothèse incompatible avec celle que l'intimée a avancée ne peut être défendue.
+[54] Les faits dans la présente affaire révèlent chez l'appelante un haut niveau de négligence qui justifierait l'imposition de la pénalité prévue par l'article 285.
+[55] La preuve démontre des omissions importantes et répétées dans les déclarations de TPS, soit des ventes non déclarées de plus d'un million de dollars sur des ventes totales d'environ 3,5 millions de dollars sur quatre ans. La preuve démontre aussi une tenue de livres incomplète.
+[56] Dans l'affaire 410812 Ontario Ltd., précitée, le contribuable avait réussi à faire annuler les pénalités en fournissant une explication des omissions dans ses déclarations de TPS qui n'impliquait pas l'existence de négligence flagrante. Le juge Bowman a conclu que le contribuable avait droit au bénéfice du doute.
+[57] Dans la présente affaire, l'appelante n'a pas présenté d'explications quant à ses omissions et la seule conclusion à laquelle il m'est possible d'arriver est qu'elles sont le résultat d'une négligence flagrante de sa part.
+[58] Vu les circonstances particulières de ce dossier, la négligence de l'appelante dans la divulgation de ses états financiers est telle qu'elle équivaut à faute lourde.
+[59] Compte tenu de ma décision que les omissions dans les déclarations de TPS de l'appelante résultaient d'une négligence flagrante, il va de soi que la prescription prévue à l'article 298 de la Loi n'empêche pas le ministre d'établir une cotisation pour les périodes en 1996 et en 1997.
+[60] Pour tous ces motifs, l'appel sera accueilli en tenant compte du fait que :
+- la marge de 5 % de l'ensemble de l'alcool acheté par l'appelante pour la promotion et l'utilisation interne devrait être augmentée à 15 % ;
+- l'appelante a droit à une réduction du chiffre de ses ventes totales correspondant au montant des contrats d'échange, soit 78 550 $ pour la période du 1er août 1999 au 31 juillet 2000 ; et
+- les pénalités et les intérêts seront ajustés en conséquence.
+Signé à Ottawa, Canada, ce 5e jour d'avril 2006.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE : 2006CCI60
+N º DU DOSSIER DE LA COUR : 2004-1670(GST)I
+INTITULÉ DE LA CAUSE : 9022-8891 QUÉBEC INC. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 8 février 2005
+MOTIFS DU JUGEMENT MODIFIÉS
+PAR : l'honorable juge B. Paris
+DATE DU JUGEMENT : le 5 avril 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Bruno Bernier
+Avocat de l'intimée :
+Me Denis Émond
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Bruno Bernier
+Cabinet : Ravinsky Ryan
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C.R. 1985, ch.E-15, modifiée.
+[2] En vertu des articles 280 et 285 de la Loi.
+[3] L'appelante n'a pas précisé les périodes en question autrement qu'en disant dans son avis d'appel qu'il s'agissait de l'année 1996 et d'une partie de l'année 1997.
+[4] First Fund Genesis Corporation v. The Queen, 90 DTC 6337.
+Kamin c. Canada (M.R.N.), [1992] A.C.I. n º 714 (QL), 93 DTC 62.
+Chomica c. Canada, [2003] A.C.I. n º 57 (QL), 2003 DTC 535.
+Mac Isaac c. Canada (M.R.N.), [1974] A.C.F. n º 516 (QL), 74 DTC 6380.
+Zink c. Canada (M.R.N.), [1987] A.C.I. n º 924 (QL), 87 DTC 652.
+Hickman Motors Limited c. Canada, [1997] 2 R.C.S. 336.

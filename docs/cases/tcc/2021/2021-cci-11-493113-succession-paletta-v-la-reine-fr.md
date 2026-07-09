@@ -1,0 +1,1836 @@
+---
+title: "Succession Paletta v. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/493113/index.do"
+last_modified: "2021-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 11"
+citation2: ""
+neutral_citation: "2021 CCI 11"
+decision_date: "2021-03-25"
+language: "fr"
+item_id: "493113"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4635
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:28:27.880000+00:00"
+cases_cited_count: 14
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ae9c5e70d0c2a8bcad2213788e6f9751e27c897df6700c37bab472d56475cef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Succession Paletta v. La Reine
+
+- Citation: 2021 CCI 11
+- Decision date: 2021-03-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4635, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Succession Paletta v. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-03-25
+Référence neutre
+2021 CCI 11
+Numéro de dossier
+2015-2662(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2662(IT)G
+ENTRE :
+LA SUCCESSION DE PASQUALE PALETTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 20 et 21 août, les 12, 13, 14, 18, 19, 20, 21, 25, 26, 27 et 28 novembre et les 2 et 3 décembre 2019, à Toronto (Ontario), et les 11, 12 et 13 mars 2020, à Ottawa (Ontario), et observations écrites reçues les 30 et 31 juillet 2020.
+Devant : L'honorable juge David E. Spiro
+Comparutions :
+Avocats de l'appelante :
+Me Justin Kutyan et Me Kelly Ng
+Avocates de l'intimée :
+Me Suzanie Chua, Me Rana El-Khoury et Me Dina Elleithy
+JUGEMENT
+1. Les appels portant sur les années d'imposition 2000, 2001, 2003, 2004, 2005, 2006 et 2007 sont accueillis avec dépens à l'appelante et les nouvelles cotisations pour ces années d'imposition sont annulées.
+2. L'appel portant sur l'année d'imposition 2002 est accueilli avec dépens à l'intimée et la nouvelle cotisation pour cette année d'imposition est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte :
+a) du bénéfice de 8 030 844,73 $ provenant de la clôture des positions bénéficiaires au cours de cette année;
+b) de la modification de la pénalité au titre du paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi »), au motif que le revenu non déclaré qu'il est raisonnable d'imputer au faux énoncé ou à l'omission est de 8 030 844,73 $.
+3. Les parties disposent de 30 jours à compter d'aujourd'hui pour parvenir à un accord sur les dépens, faute de quoi elles disposeront alors de 30 jours supplémentaires pour signifier et déposer leurs observations écrites sur les dépens. Les parties disposeront de dix jours supplémentaires pour signifier et déposer leurs réponses écrites, s'il y a lieu. Les observations ne doivent pas dépasser dix pages.
+Signé à Ottawa, Canada, ce 18e jour de février 2021.
+« David E. Spiro »
+Le juge Spiro
+Table des matières
+I. Aperçu 1
+II. Les pertes en cause 4
+III. Les témoins 4
+IV. Les conclusions de fait 5
+A. Le contexte 5
+(1) Les marchés des opérations de change pertinents 5
+a) Le marché de gré à gré 5
+b) Les contrats négociés en bourse 6
+(2) Contrats à terme, options et contrats à terme synthétiques 6
+a) Contrats à terme 6
+b) Options 7
+c) Contrats à terme synthétiques 8
+(3) Négociations sur marge 8
+(4) La clôture des contrats de change à terme 12
+B. Chronologie 14
+(1) Le parcours de M. Pat Paletta 14
+(2) L'expérience de négociation de M. Pat Paletta 15
+(3) Présentation au promoteur et options doubles 15
+(4) Le rôle des avocats fiscalistes 16
+a) Les consultations orales 16
+b) Les avis des tiers 17
+(5) Les pertes cibles annuelles 17
+(6) Les frais payés au promoteur et aux sociétés de courtage 18
+(7) M. Angelo Paletta en qualité de mandataire de M. Pat Paletta 20
+(8) M. Hodgins en qualité de mandataire de M. Pat Paletta 20
+(9) La constitution des opérations 21
+a) Les options doubles à terme — Un exemple représentatif 21
+(i) Les positions initiales 21
+(ii) Les positions modificatives 22
+(iii) Les positions de clôture 24
+b) Les options doubles à terme synthétiques 25
+c) Les opérations déficitaires et les opérations bénéficiaires pour chaque année d'imposition 25
+(10) Ce que M. Pat Paletta savait des opérations 28
+(11) L'examen par l'Agence du revenu du Canada 28
+(12) Les changements de société de courtage 29
+(13) Les nouvelles cotisations 29
+C. Le défaut de déclarer un revenu de 8 millions de dollars pour 2002 30
+D. Les témoins experts 33
+(1) Les experts de l'appelante 33
+a) M. Simon Bird 33
+b) M. Colin Knight 33
+(2) Les experts de la Couronne 33
+a) M. Andrey Pavlov 33
+b) M. Richard Poirier 35
+(3) Observations sur les rapports d'experts 35
+V. Les thèses des parties 38
+A. La thèse de la Couronne 38
+(1) Thèse selon la réponse modifiée 38
+(2) Thèses au procès 38
+a) Aucune source de revenu 39
+(i) Le stratagème des pertes fiscales n'est pas une entreprise 39
+(ii) Les contrats et les options d'opérations de change à terme sont des trompe‑l'œil 39
+(iii) Artifice 40
+(iv) Les faits sont incompatibles avec l'existence d'une entreprise 40
+(3) Les années d'imposition frappées de prescription 41
+(4) Pénalités pour faute lourde 42
+B. La thèse de l'appelante 43
+(1) L'arrêt Friedberg et les options doubles 43
+(2) L'arrêt Stewart et le caractère commercial 43
+(3) Les années d'imposition frappées de prescription 43
+(4) Les pénalités pour faute lourde 45
+VI. Analyse 46
+A. Réalisation de la perte fiscale 46
+(1) Décision Friedberg de la Cour fédérale, Section de première instance (1989) 46
+(2) Arrêt Friedberg de la Cour d'appel fédérale (1991) 48
+(3) Arrêt Friedberg de la Cour suprême du Canada (1993) 49
+(4) La réponse du législateur à l'arrêt Friedberg (2017) 52
+B. La thèse sur la source et l'arrêt Stewart 56
+C. La thèse sur la source et le risque 60
+D. Le trompe‑l'œil 61
+(1) Absence d'objectif commercial 67
+(2) Ententes avec le client 67
+(3) Les montants de la marge 68
+(4) Les lettres de crédit irrévocables 69
+(5) Les confirmations et les résumés des opérations 69
+(6) La clôture 70
+E. L'artifice 71
+F. Opérations sans effet 72
+G. Les années d'imposition frappées de prescription 74
+H. Les pénalités pour faute lourde 78
+VII. Conclusion 83
+VIII. Mesures de redressement accordées 84
+Référence : 2021 CCI 11
+Date : 20210325
+Dossier : 2015-2662(IT)G
+ENTRE :
+LA SUCCESSION DE PASQUALE PALETTA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS UNE SECONDE FOIS
+Le juge Spiro
+I. Aperçu
+[1] Afin de reporter la totalité ou la majeure partie de l'impôt qu'il aurait par ailleurs à payer en application de la Loi de l'impôt sur le revenu (la « Loi »), M. Pasquale (« Pat ») Paletta a mis en place un projet visant à générer des pertes autres qu'en capital au moyen d'opérations de change à terme[1].
+[2] Le projet consistait à conclure un ensemble de contrats de change à terme, l'un en position acheteur (en acceptant d'acheter des devises précises à une date ultérieure) et l'autre en position vendeur (en acceptant de vendre les mêmes devises à une date ultérieure)[2]. Les contrats devaient se compenser presque exactement l'un l'autre.
+[3] Les contrats ne se compensaient pas exactement l'un l'autre, car chaque contrat avait une date de règlement légèrement différente (la date à laquelle la livraison des devises devait être effectuée), ce qui créait une petite différence positive ou négative à tout moment entre les positions acheteur et vendeur de l'option double.
+[4] Vers la fin de chaque année, M. Pat Paletta, en consultation avec ses comptables, décidait du montant de la perte qu'il souhaitait avoir pour l'impôt sur le revenu pour l'année en question (la « perte cible »).
+[5] Avant le 31 décembre, M. Pat Paletta clôturait la position déficitaire de l'option double, réalisant ainsi la perte cible pour l'année en question. Il reportait la réalisation de la position bénéficiaire correspondante en la maintenant en place jusqu'après le début de l'année suivante.
+[6] Au début de l'année suivante, la position bénéficiaire était clôturée avant sa date de règlement. Le gain réalisé était inclus dans le calcul du revenu pour l'année en question. Pendant cette année suivante, des opérations semblables se répétaient, mais à plus grande échelle. Pourquoi à plus grande échelle? Parce que le montant de la perte cible de chaque année tenait nécessairement compte du revenu imposable que M. Pat Paletta s'attendait à recevoir cette année-là et du gain réalisé lors de la clôture de la position bénéficiaire reportée de l'année précédente.
+[7] Dans les nouvelles cotisations qu'il a établies, le ministre du Revenu national (le « ministre ») a tenu pour acquis que les opérations de change à terme étaient un trompe‑l'œil. Par conséquent, le ministre a refusé toutes les pertes déclarées par M. Pat Paletta pour ses années d'imposition 2000 à 2006[3]. Lors du procès, la Couronne a invoqué le trompe‑l'œil pour étayer un argument plus général selon lequel il n'y avait pas de source de revenu de laquelle déduire les pertes déclarées.
+[8] Le ministre a établi une nouvelle cotisation après la période normale de nouvelle cotisation pour chaque année. Il incombait donc à la Couronne de prouver que M. Pat Paletta avait fait une présentation erronée des faits chaque année en produisant sa déclaration, et que cette présentation erronée était imputable à la négligence, à l'inattention ou à une omission volontaire.
+[9] Le ministre a également imposé des pénalités pour faute lourde à M. Pat Paletta pour les années d'imposition allant de 2000 à 2006. Il incombe également à la Couronne de prouver les faits justifiant ces pénalités.
+[10] Compte tenu de ma conclusion selon laquelle les opérations de change à terme n'étaient pas un trompe‑l'œil et de mon obligation, en tant que juge de première instance, de suivre les arrêts Friedberg[4] et Stewart[5] de la Cour suprême du Canada, l'appelante[6] doit l'emporter dans les appels, à une exception près.
+[11] L'exception est la suivante : le ministre a eu raison d'établir une nouvelle cotisation pour l'année d'imposition 2002 de M. Pat Paletta, car celui-ci a fait preuve d'inattention ou de négligence en omettant de déclarer un revenu de 8 030 844,73 $ cette année-là. En outre, il a commis une faute lourde en omettant de déclarer ce montant comme revenu pour cette année‑là. Par conséquent, la pénalité imposée au titre du paragraphe 163(2) pour cette année‑là doit être modifiée conformément aux présents motifs.
+[12] Deux sociétés détenues ou contrôlées par M. Pat Paletta, Tender Choice Foods Inc. et Paletta International Corporation, ont participé au même projet avec les mêmes contreparties. Le ministre allègue que ces sociétés ont déduit des pertes de plus de 150 millions de dollars au cours de la période en cause[7]. Ces sociétés ont également interjeté appel, mais ces appels ont été mis en suspens en attendant l'issue du présent appel.
+II. Les pertes en cause
+[13] M. Pat Paletta a déclaré des pertes de quelque 55 millions de dollars pour ses années d'imposition 2000 à 2006 et a déclaré des bénéfices d'un peu plus de six millions de dollars pour son année d'imposition 2007, soit des pertes nettes de près de 49 millions de dollars résultant d'opérations de change à terme au cours de la période en cause :
+Année d'imposition
+Pertes ou gains déclarés
+2000
+(6 184 460,89 $)
+2001
+(2 150 917,06 $)
+2002
+(10 007 726 $)
+2003
+(6 198 247,76 $)
+2004
+(4 294 300,06 $)
+2005[8]
+(5 134 923,14 $)
+2006
+(21 236 115,40 $)
+2007
+6 444 216,20 $
+Total :
+(48 762 747,11 $)
+III. Les témoins
+[14] En plus de quatre témoins experts, dont j'exposerai les témoignages ci‑dessous, les témoins des faits suivants ont témoigné au procès. J'ai jugé chacun d'entre eux crédible :
+Angelo Paletta
+Fils aîné de M. Pat Paletta
+Ralph Baber
+Ancien directeur général de Union PLC[9]
+Graham Wellesley
+Ancien directeur général de IFX Ltd. et de ODL Securities Ltd.
+Tim Hodgins
+Courtier de contrats de change à terme de M. Pat Paletta
+Stephen Wiseman
+Comptable chez Taylor Leibow LLP
+Robert Ban
+Comptable chez Taylor Leibow LLP
+Stephen Kleinschmidt
+Ancien fonctionnaire de l'Agence du revenu du Canada (ARC)
+IV. Les conclusions de fait
+A. Le contexte
+(1) Les marchés des opérations de change pertinents
+a) Le marché de gré à gré
+[15] La plupart des contrats de change à terme ne sont pas négociés en bourse, mais sont conclus directement entre deux contreparties. C'est ce que l'on appelle le marché « de gré à gré ». Sur ce marché, les dates de règlement (la date à laquelle les conditions du contrat doivent être satisfaites) sont infiniment variables — les contreparties peuvent choisir n'importe quelle date — et le marché de gré à gré est toujours ouvert à la négociation. Un contrat de change à terme est une relation contractuelle directe entre deux contreparties.
+[16] Le marché de gré à gré est dominé par les grandes banques mondiales qui constituent ce que l'on appelle le « marché interbancaire ». Le marché interbancaire représente le plus grand nombre d'opérations de change à terme au monde. Certaines sociétés de courtage servent d'intermédiaires entre les grandes banques mondiales et des sociétés plus petites qui ne sont pas assez importantes pour traiter directement avec ces banques sur le marché interbancaire. Ces sociétés de courtage agissent en tant que mandataires pour leurs clients ou en tant que contreparties, selon les besoins de chaque client. Les contreparties aux opérations en cause étaient de telles sociétés de courtage.
+[17] Toutes les opérations de change à terme en cause ont eu lieu sur le marché de gré à gré entre M. Pat Paletta et trois sociétés de courtage établies à Londres : Union Cal Limited (ou « UCAL »), IFX Ltd. (ou « IFX »), et ODL Securities Ltd. (ou « ODL »).
+[18] Tous les éléments de preuve présentés sont compatibles avec les hypothèses du ministre selon lesquelles :
+[TRADUCTION]
+UCAL, IFX et ODL étaient les contreparties de ces opérations [...][10]
+[...]
+Dans chaque opération d'option de change ou chaque contrat de change à terme de gré à gré [...] conclu par l'appelante, UCAL/IFX/ODL était la contrepartie[11].
+[...] UCAL/IFX/ODL était [...] la contrepartie de tous les contrats que l'appelante a conclus avec UCAL/IFX/ODL [...][12]
+b) Les contrats négociés en bourse
+[19] Il existe des contrats à terme standardisés pour les opérations conclues à des bourses telles que la London International Financial Futures and Options Exchange, la Chicago Mercantile Exchange et la Philadelphia Stock Exchange[13]. Bien qu'ils soient relativement faciles à négocier, ils offrent moins de souplesse que le marché de gré à gré. Les contrats à terme négociés en bourse offrent généralement un nombre limité de dates de règlement (tombant généralement à la fin du mois) et ont des modalités identiques[14]. M. Pat Paletta n'a pas négocié de contrats à terme en bourse. Il a plutôt négocié des contrats de change à terme directement avec les sociétés de courtage comme contreparties.
+(2) Contrats à terme, options et contrats à terme synthétiques
+a) Contrats à terme
+[20] Un contrat de change à terme est un contrat entre deux contreparties pour échanger un montant fixe de devises à un taux donné et à une date de règlement prédéterminée[15]. Les contrats de change à terme sont négociés sur le marché de gré à gré. Ils ne sont pas négociés en bourse. Les contreparties se mettent d'accord sur les devises, la date de règlement, la quantité et le taux de change[16]. L'acheteur futur d'une devise donnée détient une position « acheteur » dans cette devise, et le vendeur futur d'une devise donnée détient une position « vendeur » dans cette devise[17]. Dans un contrat de type USD/CAD, si la valeur du dollar américain augmente au‑delà du prix prévu au contrat, l'acheteur du dollar américain réalisera un profit et le vendeur du dollar américain subira une perte correspondante[18].
+b) Options
+[21] Les options sont des instruments financiers dont les modalités sont strictement définies. On peut acheter (position acheteur) ou vendre (position vendeur) un contrat d'option. Il existe deux types de contrats d'option : les options d'achat et les options de vente.
+[22] Une option d'achat donne à son détenteur (l'acheteur) le droit, mais non l'obligation, d'acheter le bien ou l'actif sous‑jacent à un prix déterminé (le « prix d'exercice ») à la date d'expiration de l'option ou avant celle‑ci. Le vendeur de l'option a l'obligation de vendre le bien ou l'actif sous‑jacent au détenteur si ce dernier choisit d'exercer l'option[19].
+[23] Une option de vente donne à l'acheteur le droit, mais non l'obligation, de vendre un bien ou un actif sous‑jacent au prix d'exercice à la date d'expiration de l'option ou avant celle‑ci. Le vendeur de l'option a l'obligation d'acheter le bien ou l'actif si le détenteur choisit d'exercer l'option[20].
+c) Contrats à terme synthétiques
+[24] Un contrat à terme synthétique est créé en utilisant deux options pour créer l'effet d'un contrat à terme. Une option d'achat position acheteur et une option de vente position vendeur ayant la même date de règlement et le même prix d'exercice constituent un contrat à terme à position acheteur[21]. De même, une option d'achat position vendeur et une option de vente position acheteur ayant la même date de règlement et le même prix d'exercice constituent un contrat à terme synthétique à position vendeur[22].
+(3) Négociations sur marge
+[25] La marge protège une société de courtage du risque de défaillance de son client. Il s'agit d'une forme de garantie qui offre à la société de courtage une protection contre les pertes[23]. Elle se présente sous différentes formes, mais consiste généralement en des espèces ou quasi‑espèces. En fin de compte, il s'agit de tout ce qu'une société de courtage considère comme une protection raisonnable contre les clients qui ne seront pas en mesure de couvrir leurs pertes[24].
+[26] Selon le témoignage non contesté du directeur général de deux des sociétés de courtage, il n'existe pas de règle absolue concernant la marge requise sur le marché de gré à gré[25]. Les marges sur le marché de gré à gré sont discrétionnaires et négociables.
+[27] Chaque société de courtage évalue la valeur des positions d'un client donné, ainsi que l'ensemble des positions de la société, à la fin de chaque journée. C'est ce qu'on appelle l'« évaluation au cours du marché ». L'évaluation au cours du marché est une partie essentielle de l'évaluation du risque pour toute société de courtage.
+[28] Lorsqu'une société de courtage donnée examinait le risque financier auquel elle était exposée relativement au compte de M. Pat Paletta à la fin de chaque journée, elle le faisait selon la valeur nette de toutes les positions de son compte. Si le compte présentait un solde net positif, aucune marge supplémentaire n'était requise et M. Pat Paletta avait le droit de retirer l'excédent. Si le compte présentait un solde net négatif, la société de courtage était en droit de demander une marge supplémentaire. Le fait de le faire ou non était une décision discrétionnaire.
+[29] Au départ, en 2000 et 2001, la marge exigée pour que M. Pat Paletta négocie des contrats de change à terme représentait 5 % du montant de la perte cible, mais après négociation elle est tombée à 1 % en 2002 et de 2005 à 2007.
+[30] En 2003 et en 2004, la marge requise était de 0,33 % et de 0,8 % de la perte cible, respectivement. La perte cible initiale était faible au cours de ces deux années. Aucune marge supplémentaire n'a été demandée lorsque la perte cible a été augmentée par la suite.
+[31] Le montant de la marge requise est directement lié à la perte cible pour chaque année d'imposition :
+Année d'imposition
+Perte cible
+Marge requise
+Marge en pourcentage de la perte cible
+2000
+6 000 000 $
+300 000 $
+5 %
+2001
+8 000 000 $
+400 000 $
+5 %
+2002
+10 000 000 $
+100 000 $
+1 %
+2003
+15 000 000 $
+50 000 $
+0,33 %
+2004
+20 000 000 $
+160 000 $
+0,8 %
+2005
+25 000 000 $
+250 000 $
+1 %
+2006
+45 000 000 $
+450 000 $
+1 %
+2007
+40 000 000 $
+400 000 $
+1 %
+[32] M. Pat Paletta a principalement utilisé des lettres de crédit irrévocables comme marge. Les frais que M. Pat Paletta a payés à la Banque Royale du Canada pour obtenir ces lettres de crédit irrévocables variaient de 263 $ à 3 576 $[26]. Comme je l'ai mentionné précédemment, la marge protégeait les sociétés de courtage du risque d'un manquement de M. Pat Paletta à son obligation nette envers elles à un moment donné[27].
+[33] Au cours des périodes suivantes, le compte de négociation de M. Pat Paletta présentait un solde net négatif, mais la société de courtage n'a fait aucun appel de marge et, dans le dernier cas, de nouvelles opérations ont été conclues :
+a) du 30 novembre 2001 au 29 mars 2002[28];
+b) du 2 avril 2003 au 19 juin 2003[29];
+c) du 19 août 2005 au 13 septembre 2005[30].
+[34] Le ministre a supposé que les opérations de change à terme effectuées par M. Pat Paletta [TRADUCTION] « auraient donné lieu à des appels de marge dans un véritable marché de devises »[31], mais aucun appel de marge n'a été formulé[32].
+[35] Je conclus que les sociétés de courtage ont pris une décision commerciale en décidant, de manière discrétionnaire, de ne pas formuler d'appels de marge alors qu'elles étaient autorisées à le faire. Elles étaient raisonnablement à l'aise avec le risque qu'elles supportaient en ce qui concerne le compte de M. Pat Paletta, malgré toute insuffisance de marge à un moment donné. Cette conclusion se fonde principalement sur le témoignage de l'expert de la Couronne en matière de risques financiers, M. Pavlov, qui a jugé négligeable le risque auquel les maisons de courtage étaient exposées. La marge exigée par les sociétés de courtage aurait donc également été négligeable.
+[36] Le ministre a également tenu pour acquis que :
+[TRADUCTION]
+[...] les contrats d'options de devises et les contrats de change à terme étaient libellés en centaines de millions de dollars, alors que le coût [...] [de] ces options et contrats à terme n'était que de quelques dizaines de milliers de dollars[33].
+[37] Cette hypothèse est techniquement correcte, mais ce qu'elle suppose ne l'est pas. Elle suppose qu'il y avait quelque chose de louche à acheter sur marge sur le marché de gré à gré. À la lumière des témoignages des directeurs généraux des sociétés de courtage et des experts, je conclus qu'il n'y avait là rien de louche, et encore moins d'inhabituel.
+[38] De même, en tentant de justifier l'imposition de pénalités pour faute lourde, le ministre a allégué que :
+[TRADUCTION]
+[...] le prétendu montant des devises achetées était manifestement excessif compte tenu du montant négligeable prétendument investi[34].
+[39] Encore une fois, si le montant du risque est négligeable, le montant de la marge devrait l'être aussi. Selon l'hypothèse de la Couronne, le montant modeste de la marge que les sociétés de courtage ont effectivement exigée en l'espèce n'aurait pas été déraisonnable dans les circonstances.
+[40] Je constate que la marge initiale a été calculée en tant que pourcentage de la perte cible pour l'année et que la marge a été maintenue à un niveau avec lequel chaque société de courtage était à l'aise compte tenu du risque négligeable découlant des résultats nets des opérations de M. Pat Paletta.
+[41] J'estime également, à la lumière des témoignages des directeurs généraux des trois sociétés de courtage, que les insuffisances temporaires de marge exposées ci‑dessus n'étaient pas une cause de préoccupation compte tenu de leur évaluation globale du risque, étant donné leur relation d'affaires continue avec M. Pat Paletta et ses sociétés[35].
+[42] Étant donné que la marge est discrétionnaire et négociable dans le marché de gré à gré, et que le risque était négligeable, l'insuffisance occasionnelle de marge n'était une source d'inquiétude pour aucune des sociétés de courtage.
+(4) La clôture des contrats de change à terme
+[43] Les contrats de change à terme prennent fin par a) la livraison à la contrepartie des devises prévues par le contrat à la date de règlement, ou b) la prise d'une position égale et compensatoire avec la contrepartie avant la date de règlement (appelée la « clôture » du contrat)[36].
+[44] La livraison a lieu lorsque les contreparties échangent les montants contractuels de chaque devise à la date de règlement précisée dans le contrat. Par exemple, supposons un contrat à terme pour la vente d'euros contre des dollars américains le 30 janvier 2002. À la date de règlement, le 30 janvier 2002, la contrepartie vendeuse livre les euros et la contrepartie acheteuse livre les dollars américains.
+[45] L'autre méthode utilisée pour mettre fin à un contrat de change à terme consiste à prendre une position égale et compensatoire avec la contrepartie. Par exemple, supposons un contrat à terme pour vendre des euros contre des dollars américains le 30 janvier 2002. À tout moment avant le 30 janvier 2002, la contrepartie qui vend les euros peut conclure un contrat égal et compensatoire avec sa contrepartie pour acheter le même montant d'euros contre des dollars américains à la même date de règlement. Le contrat initial a maintenant été « clôturé ». À ce moment‑là, un gain ou une perte est réalisé, car le contrat a été éteint.
+[46] Les deux méthodes pour mettre fin à des contrats de change à terme sont aussi efficaces l'une que l'autre et sont toutes deux utilisées sur le marché.
+[47] Le ministre a supposé, à juste titre, que :
+[TRADUCTION]
+[t]outes les positions prises par l'appelante ne pouvaient être clôturées qu'en prenant des positions compensatoires avec UCAL/IFX/ODL[37].
+[48] Le ministre a également supposé, à juste titre, que les contrats de change à terme [TRADUCTION] « n'ont jamais été exécutés à leurs dates de règlement stipulées »[38]. Cette hypothèse est compatible avec les éléments de preuve.
+[49] Cependant, si on lit cette hypothèse en tenant compte de toutes les autres hypothèses faites par le ministre, elle laisse supposer qu'il y avait un problème, ou du moins quelque chose de plutôt suspect, à ne pas conserver les contrats de change à terme jusqu'à leur date de règlement. Je suis convaincu, à la lumière des témoignages des directeurs généraux des sociétés de courtage et des témoignages d'experts, que ces contrats peuvent être clôturés avant leurs dates de règlement et qu'ils le sont souvent[39].
+[50] Le ministre a également supposé (dans une hypothèse qui, au mieux, est une hypothèse mixte de fait et de droit) que tous les contrats de change à terme :
+[TRADUCTION]
+[...] n'ont pas été (ne pouvaient pas être) effectivement réglés au sens juridique (légitimement éteints) avant leurs dates de règlement respectives[40].
+[51] Compte tenu de la preuve, cette hypothèse est incorrecte. Cette hypothèse révèle un manque fondamental de compréhension du fonctionnement du marché des contrats de change à terme et du fait que ces contrats peuvent être clôturés avant leur date de règlement[41].
+B. Chronologie
+(1) Le parcours de M. Pat Paletta
+[52] M. Pat Paletta a quitté son petit village d'Italie pour immigrer au Canada dans les années 1950. Partant de presque rien, il a créé des entreprises allant du conditionnement des viandes à l'aménagement immobilier. Son fils aîné, M. Angelo Paletta, a assumé très jeune des rôles de plus en plus importants dans les entreprises de son père.
+[53] M. Pat Paletta a quitté l'école tôt. Il n'a pas fait d'études postsecondaires. Il était cependant très doué avec les chiffres. Ne devant sa réussite qu'à soi‑même, il a apporté une contribution active dans chaque entreprise et s'est intéressé de près à tous les aspects de ses affaires, y compris l'aspect financier.
+[54] Il a confié toutes ses questions comptables et fiscales à ses comptables du cabinet Taylor Leibow LLP, qu'il rencontrait chaque semaine, le plus souvent le samedi matin. Au cours de ces réunions, M. Pat Paletta discutait non seulement de questions comptables et fiscales, mais aussi d'initiatives commerciales et de planification stratégique.
+[55] M. Pat Paletta a constitué diverses sociétés pour mener à bien plusieurs de ses activités. Cependant, il exploitait des parcs d'engraissement de bétail à titre de propriétaire unique[42]. Il a décidé d'utiliser cette entreprise à propriétaire unique pour exercer les activités de négociation en cause.
+(2) L'expérience de négociation de M. Pat Paletta
+[56] Au début des années 1980, M. Pat Paletta a acheté du bétail de l'Australie, de la Nouvelle‑Zélande et du Nicaragua, qu'il a payé en dollars américains ou en devise locale. Il a également acheté d'Europe des biens en immobilisation qu'il a payés en devise étrangère[43]. Il demandait généralement à son chef de bureau d'appeler la Banque Royale du Canada pour que les taux lui soient communiqués, puis il achetait ou vendait des devises selon les besoins de son entreprise[44].
+[57] Au début des années 1990, M. Pat Paletta exportait de la viande vers 20 pays et recevait des devises au titre de ces ventes. Il pouvait ainsi recevoir plusieurs dizaines de millions de dollars par an[45].
+[58] Dans son témoignage, M. Angelo Paletta a déclaré que M. Pat Paletta spéculait à l'occasion en vendant une partie des devises qu'il avait accumulées ou en achetant des devises supplémentaires selon ce qu'il avait entendu sur le marché[46]. C'était là toute l'étendue de sa participation à des opérations de change avant les événements en question.
+(3) Présentation au promoteur et options doubles
+[59] Fin 1999 ou début 2000, les comptables de M. Pat Paletta lui ont recommandé un projet fiscal[47]. Ils lui ont suggéré de rencontrer M. David Lewis, qui avait un projet fiscal qui, selon eux, méritait d'être pris en considération. M. Lewis était dirigeant d'un cabinet appelé Affinity Financial. M. Angelo Paletta a cru comprendre que Affinity Financial était une société qui fournissait des projets d'évitement fiscal à ses clients. Bien qu'aucun élément de preuve n'indique que le projet a été consigné par écrit, il était entendu que le projet était conçu pour générer des pertes autres qu'en capital au moyen d'opérations de change à terme.
+[60] M. Pat Paletta et M. Angelo Paletta ont rencontré M. Hodgins et le directeur général de Union PLC avant de commencer les opérations en 2000. Au début, M. Angelo Paletta fournissait des instructions à M. Lewis, qui les relayait à M. Hodgins. Fin 2004 ou début 2005, M. Angelo Paletta a cessé de traiter avec M. Lewis et a commencé à traiter directement avec M. Hodgins[48].
+(4) Le rôle des avocats fiscalistes
+a) Les consultations orales
+[61] Pendant que M. Pat Paletta étudiait le projet d'évitement fiscal de M. Lewis, lui et son fils aîné se sont rendus dans divers cabinets d'avocats relativement à plusieurs questions non liées.
+[62] Au milieu de l'année 2000, avant le début des opérations, M. Pat Paletta et son fils aîné se sont rendus dans les bureaux du cabinet Borden & Elliot LLP, à Toronto, où ils ont rencontré un avocat non‑fiscaliste pour parler d'un autre sujet. Ils ont demandé s'ils pouvaient voir un avocat fiscaliste. On leur a présenté Me John Tobin. Ils ont discuté du projet fiscal avec Me Tobin et lui ont demandé si ce projet était acceptable, légal et conforme aux exigences de l'ARC. Me Tobin leur a mentionné l'affaire Friedberg. C'était la première fois qu'ils en entendaient parler. Me Tobin leur a dit que le projet était légitime et répondait aux normes de l'ARC. Aucun avis écrit n'a été demandé.
+[63] Vers la fin de l'année 2000, avant le début des opérations, M. Pat Paletta et son fils aîné se sont rendus au cabinet d'avocats Love & Whalen, où ils ont consulté Me Jim Love au sujet d'autres questions fiscales. Ils ont discuté du projet fiscal avec Me Love et lui ont demandé son avis à ce sujet, si le projet était légal et répondait aux exigences de l'ARC. Me Love a confirmé que c'était le cas et a mentionné l'arrêt Friedberg comme l'arrêt de principe. Ils n'ont pas demandé d'avis écrit à Me Love.
+[64] Au cours de l'été ou de l'automne 2001, après le début des opérations, on a consulté un autre avocat fiscaliste. Il s'agissait de Me Jack Bernstein, du cabinet Aird & Berlis LLP, que M. Pat Paletta et son fils aîné ont rencontré de la même façon qu'ils avaient rencontré Me Tobin l'année précédente. L'ARC ayant envoyé, au début de cet été‑là, un avertissement général au sujet des abris fiscaux (avis qui leur avait été transmis par leurs comptables), ils voulaient s'assurer que le projet fiscal restait solide. Me Bernstein leur a confirmé que c'était le cas. Là encore, aucun avis écrit n'a été demandé.
+b) Les avis des tiers
+[65] Pendant que les opérations se poursuivaient, M. Angelo Paletta a reçu plusieurs avis écrits concernant le projet fiscal. Ils étaient tous adressés à des tiers. M. Pat Paletta n'a jamais demandé ni obtenu d'avis écrit qui lui fut adressé au sujet du projet fiscal. Les avis écrits ont été transmis aux Paletta d'abord par M. Lewis, puis par M. Hodgins.
+[66] M. Angelo Paletta a déclaré que son père et lui s'étaient fiés à ces avis, mais qu'ils n'en avaient lu aucun. Ces avis ont simplement été classés[49].
+(5) Les pertes cibles annuelles
+[67] Par l'intermédiaire de son fils aîné, M. Pat Paletta a fourni chaque année à M. Lewis (et, plus tard, directement à M. Hodgins) le montant de la perte cible. La perte cible était le montant de la perte que M. Pat Paletta, en consultation avec ses comptables, voulait obtenir lors de ses opérations lui permettant de déclarer le montant de la perte cible comme une perte autre qu'en capital dans sa déclaration de revenus cette année‑là, éliminant ainsi la totalité ou la majeure partie de son revenu imposable pour l'année.
+[68] À l'exception de la première année, le montant de la perte cible a été calculé en tenant compte de la somme a) du revenu imposable que M. Pat Paletta prévoyait recevoir cette année‑là et b) des gains réalisés lors de la clôture de la position bénéficiaire reportée de l'année précédente.
+[69] La perte cible pour chaque année d'imposition était la suivante :
+Année d'imposition
+Perte cible
+2000
+6 000 000 $
+2001
+8 000 000 $
+2002
+10 000 000 $
+2003
+15 000 000 $
+2004
+20 000 000 $
+2005
+25 000 000 $
+2006
+45 000 000 $
+2007
+40 000 000 $
+[70] Je conclus que le seul but des opérations chaque année était d'avoir la perte cible pour cette année‑là. La commission annuelle versée par M. Pat Paletta (négociée ultérieurement à la baisse en son nom par M. Angelo Paletta) correspondait à un pourcentage de la perte cible pour l'année. La marge initiale exigée par la société de courtage était un pourcentage de la perte cible de l'année. Tout, sans exception, tournait autour de la perte cible de chaque année et de sa réalisation.
+(6) Les frais payés au promoteur et aux sociétés de courtage
+[71] Les frais payés à chaque société de courtage pour la négociation chaque année étaient d'abord fixés en pourcentage de la perte cible demandée pour cette année. Toutefois, au cours des années suivantes, M. Angelo Paletta n'a pas tenu compte des sommes calculées selon cette formule ni des demandes de frais précises des sociétés de courtage, et a généralement versé des sommes de plus en plus faibles :
+Année d'imposition
+Perte cible
+Frais
+Calcul
+2000
+6 000 000 $
+210 000 $
+3,5 % de la perte cible[50]
+2001
+8 000 000 $
+120 000 $
+1,5 % de la perte cible[51]
+2002
+10 000 000 $
+100 000 $
+1 % de la perte cible[52]
+2003
+15 000 000 $
+94 000 $
+1 % des premiers 5 000 000 $ de la perte cible, puis 0,4 % de la perte cible supplémentaire de 11 000 000 $ (bien que la cible ait été réduite ultérieurement à 15 000 000 $, les frais n'ont pas été réduits ou remboursés)[53]
+2004
+20 000 000 $
+106 000 $
+Aucune formule n'a été utilisée. M. Angelo Paletta a effectué un paiement de 56 000 $, puis un autre paiement de 50 000 $[54].
+2005
+25 000 000 $
+50 000 $
+Aucune formule n'a été utilisée. M. Angelo Paletta a effectué un premier paiement de 20 000 $, un autre paiement de 15 000 $ plus tard dans l'année, puis 15 000 $ au début de 2006[55].
+2006
+45 000 000 $
+70 000 $
+Aucune formule n'a été utilisée. Au départ, M. Angelo Paletta a versé 12 500 $ (il a témoigné qu'il s'agissait de la moitié de la somme demandée par ODL Securities Ltd.). Plus tard, 25 000 $ supplémentaires ont été virés, suivis de 32 500 $[56].
+2007
+40 000 000 $
+20 000 $
+Aucune formule n'a été utilisée. Seul le paiement unique a été déposé en preuve[57].
+[72] Au cours des premières années des opérations, les frais ont été répartis entre M. Lewis, la société de courtage donnée, et M. Hodgins et son père. Plus tard, après que M. Angelo Paletta a cessé de traiter avec M. Lewis, les frais ont été divisés entre la société de courtage donnée et M. Hodgins et son père.
+(7) M. Angelo Paletta en qualité de mandataire de M. Pat Paletta
+[73] M. Pat Paletta a confié à son fils aîné, M. Angelo Paletta, la responsabilité quotidienne de surveiller les opérations effectuées en son nom par M. Hodgins. Tous les messages électroniques relatifs aux opérations provenaient de M. Angelo Paletta ou étaient envoyés à ce dernier, car son père ne disposait pas de son propre compte de courriel. M. Angelo Paletta agissait en tout temps en tant que mandataire de son père relativement aux opérations.
+(8) M. Hodgins en qualité de mandataire de M. Pat Paletta
+[74] Le ministre a supposé que M. Hodgins agissait en tant que mandataire de M. Pat Paletta en exécutant les opérations de change à terme entreprises afin d'atteindre la perte cible chaque année[58]. Cette hypothèse est compatible avec les éléments de preuve. Parmi les hypothèses pertinentes figurent les suivantes :
+[TRADUCTION]
+L'appelante n'a pas donné d'instructions [c'est‑à‑dire les deux devises à négocier, les montants à négocier, les positions d'achat ou de vente, les dates de règlement et les prix de négociation (acheteurs/vendeurs)] pour les contrats de change prétendument conclus avec UCAL/IFX/ODL et figurant dans leurs comptes [...][59]
+Tim Hodgins, à sa discrétion, a conclu et a fait exécuter les prétendus contrats (opérations) nécessaires à la création de chaque perte sur option double et, par la suite, à l'annulation de cette perte sur option double[60].
+[75] Compte tenu de la preuve, le ministre a eu raison de supposer que M. Pat Paletta avait donné à M. Hodgins le pouvoir discrétionnaire d'effectuer en son nom les opérations nécessaires pour enregistrer la perte cible chaque année.
+(9) La constitution des opérations
+[76] De 2000 à 2003, M. Hodgins a utilisé des contrats à terme synthétiques afin de constituer les options doubles pour chaque cycle de négociation. M. Hodgins demandait les coûts des opérations au bureau de change à terme et au bureau des options de change de la société de courtage[61]. Malgré le plus grand nombre d'opérations nécessaires lorsqu'on utilisait des options, il était d'abord moins coûteux pour M. Hodgins d'utiliser des options afin d'atteindre l'objectif de M. Pat Paletta[62]. Les contrats à terme synthétiques sont expliqués en plus de détails aux paragraphes 93 et 94 qui suivent.
+[77] Pour les cycles de négociation ultérieurs (de 2004 à 2007), on n'utilisait que des contrats à terme pour constituer les options doubles. Comme les contrats à terme sont plus simples à expliquer que les contrats à terme synthétiques, seuls les contrats à terme sont utilisés dans l'exemple qui suit.
+a) Les options doubles à terme — Un exemple représentatif
+[78] La constitution des options doubles qu'utilisait M. Pat Paletta comprenait trois étapes : les positions initiales, les positions modificatives et les positions de clôture. La meilleure façon d'illustrer ce processus est par un exemple d'opérations en USD/CAD.
+(i) Les positions initiales
+[79] M. Pat Paletta a pris des positions initiales avec deux contrats à terme. Dans le premier contrat, M. Pat Paletta a accepté de vendre 80 000 000 USD en échange de CAD à la date de règlement, le 10 avril 2006. Dans le second contrat, il a accepté d'acheter la même somme en USD à la date de règlement, le 8 mai 2006 :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+A
+7 novembre 2005
+10 avril 2006
+Vente
+(80 000 000)
+1,18330000
+94 664 000
+s. o.
+B
+7 novembre 2005
+8 mai 2006
+Achat
+80 000 000
+1,18243000
+(94 594 400)
+s. o.
+(ii) Les positions modificatives
+[80] Si la valeur de l'un des contrats augmentait au fil du temps, celle de l'autre diminuait approximativement (mais pas exactement) d'autant. Dans cet exemple, la valeur au marché des USD par rapport aux CAD a augmenté au fil du temps, faisant perdre de la valeur aux opérations vendeur, ce qui signifie que l'opération A était déficitaire[63].
+[81] Peu avant la fin de l'année 2005, M. Pat Paletta a conclu d'autres paires de contrats pour modifier sa position initiale. Dans ce cas‑ci, M. Pat Paletta a conclu les opérations C et D. L'opération C prend exactement la position inverse de l'opération A, ce qui permet de clôturer l'opération A et d'enregistrer une perte de 711 600 $. L'opération D a remplacé l'opération A, faisant passer de 28 à 10 le nombre de jours entre les deux opérations, ce qui a atténué le risque :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+C
+15 novembre 2005
+10 avril 2006
+Achat
+80 000 000
+1,19219500
+(95 375 600)
+(711 600)
+A
+D
+15 novembre 2005
+28 avril 2006
+Vente
+(80 000 000)
+1,19155500
+95 324 400
+s. o.
+[82] À ce moment, les deux seules positions existantes étaient les opérations B et D :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+B
+7 novembre 2005
+8 mai 2006
+Achat
+80 000 000
+1,18243000
+(94 594 400)
+s. o.
+D
+15 novembre 2005
+28 avril 2006
+Vente
+(80 000 000)
+1,19155500
+95 324 400
+s. o.
+[83] Vers la fin de l'année, M. Pat Paletta a pris des positions supplémentaires, modifiant encore ses positions existantes. Dans cet exemple, l'opération F a exactement compensé l'opération B, ce qui a permis de la clôturer et d'enregistrer une perte de 1 352 160 $. L'opération E a remplacé l'opération B, faisant passer de 10 à 6 le nombre de jours entre les deux opérations, ce qui a encore atténué le risque :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+E
+24 novembre 2005
+2 mai 2006
+Achat
+80 000 000
+1,16577500
+(93 262 000)
+s. o.
+F
+24 novembre 2005
+8 mai 2006
+Vente
+(80 000 000)
+1,16552800
+93 242 240
+(1 352 160)
+B
+[84] À ce moment, les deux seules positions existantes étaient les opérations D et E :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+D
+15 novembre 2005
+28 avril 2006
+Vente
+(80 000 000)
+1,19155500
+95 324 400
+s. o.
+E
+24 novembre 2005
+2 mai 2006
+Achat
+80 000 000
+1,16577500
+(93 262 000)
+s. o.
+[85] Juste avant la fin de l'année, M. Pat Paletta a pris deux autres positions modificatives. Dans cet exemple, il a conclu les opérations G et H. L'opération G était exactement le contraire de l'opération E, ce qui a permis de clôturer l'opération E et de réaliser une perte supplémentaire de 758 000 $. L'opération H a remplacé l'opération E et a légèrement augmenté le nombre de jours entre les deux opérations, le faisant passer de 6 à 7 jours :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+G
+15 décembre 2005
+2 mai 2006
+Vente
+(80 000 000)
+1,15630000
+92 504 000
+(758 000)
+E
+H
+15 décembre 2005
+9 mai 2006
+Achat
+80 000 000
+1,15621800
+(92 497 440)
+s. o.
+[86] À ce moment, les seules positions ouvertes étaient les opérations D et H, qui étaient reportées à l'année suivante :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+D
+15 novembre 2005
+28 avril 2006
+Vente
+(80 000 000)
+1,19155500
+95 324 400
+s. o.
+H
+15 décembre 2005
+9 mai 2006
+Achat
+80 000 000
+1,15621800
+(92 497 440)
+s. o.
+[87] À la fin de 2005, M. Pat Paletta a réalisé des pertes de 711 600 $, de 1 352 160 $ et de 758 000 $, soit 2 821 760 $ au total[64].
+[88] On répétait la conclusion d'une position initiale, l'ajout des paires de contrats et la clôture des positions déficitaires autant de fois que nécessaire pour atteindre la perte cible pour l'année. En 2005, la perte cible était de 25 000 000 $; on a donc établi plusieurs positions initiales, puis on les a modifiées de manière similaire jusqu'à ce que la perte cible soit atteinte à la fin de l'année.
+(iii) Les positions de clôture
+[89] Enfin, au début de l'année 2006, les positions restantes (les opérations D et H) étaient clôturées par la conclusion d'opérations égales et compensatoires :
+Opération
+Date de l'opération
+Date de règlement
+Achat/ vente
+Somme (USD)
+Taux
+Prix (CAD)
+Profit/ perte (CAD)
+Clôture
+I
+26 janvier 2006
+28 avril 2006
+Achat
+80 000 000
+1,14663200
+(91 730 560)
+3 593 840
+D
+J
+26 janvier 2006
+9 mai 2006
+Vente
+(80 000 000)
+1,14633725
+91 706 980
+(790 460)
+H
+[90] Bien que l'opération J ait été l'opération bénéficiaire de l'opération, il y a eu une petite perte. Le gain réalisé grâce à la clôture de l'opération I a toutefois entièrement compensé cette perte. Il n'était pas rare qu'une perte soit intégrée dans l'opération bénéficiaire des opérations, et vice versa. Le gain total réalisé lors de la clôture de la position bénéficiaire au début de 2006 était de 2 803 380 $ (3 593 840 $ - 790 460 $).
+[91] M. Pat Paletta a déclaré une perte sur opérations boursières de 2 821 760 $ dans sa déclaration de revenus, tout en subissant une perte économique de seulement 18 380 $[65].
+[92] Ces étapes se répétaient chaque année dans un cycle de négociation qui chevauchait la fin de l'année. Chaque cycle de négociation a permis à M. Pat Paletta d'enregistrer des pertes importantes et de différer des gains importants dans ses déclarations de revenus, le tout avec peu ou pas de perte économique.
+b) Les options doubles à terme synthétiques
+[93] Les options doubles à terme synthétiques sont plus complexes que les contrats à terme, car on utilise des options pour obtenir le même résultat. Si l'on achète une option d'achat et que l'on vend une option de vente au même prix d'exercice, le résultat sera le même bénéfice ou la même perte que l'achat d'un contrat à terme[66]. Si l'on vend une option d'achat et que l'on achète une option de vente au même prix d'exercice, le résultat sera le même bénéfice ou la même perte que la vente d'un contrat à terme[67]. Il faut deux options pour créer le même résultat qu'un contrat à terme.
+[94] Le processus de négociation de base en trois étapes utilisé dans les opérations d'options doubles à terme reste le même, mais au lieu d'utiliser des contrats à terme, on utilise deux fois le nombre d'options pour obtenir le même résultat. Le montant payé d'avance pour conclure les contrats d'option (le « prix de l'option ») détermine le montant du profit et de la perte à la fin de l'année. Toutes les autres étapes restent les mêmes.
+c) Les opérations déficitaires et les opérations bénéficiaires pour chaque année d'imposition
+[95] En utilisant le modèle de négociation exposé dans l'exemple qui précède, la contribuable a eu les gains et les pertes suivants. Les parties ont convenu que les sommes en cause sont les suivantes. (Sauf indication contraire, toutes les sommes sont en CAD.)
+Cycle de négociation
+Pertes
+Gains (réalisés l'année d'imposition suivante)
+Différence nette (bénéfice/perte économique)
+2000
+(3 924 370 USD)
+3 924 501 USD
+131 USD
+2001
+(5 207 318 USD)
+5 186 544 USD
+(20 774 USD)
+2002
+(6 496 870 USD)
+6 499 883 USD
+3 013 USD
+2003
+(12 361 830 USD)
+12 374 000 USD
+12 170 USD
+2004
+(20 467 060 $)
+20 313 547 $
+(153 513 $)
+2005
+(25 231 920 $)
+25 212 680 $
+(19 240 $)
+2006
+(46 485 910 $)
+46 422 000 $
+(63 910 $)
+2007
+(39 998 730 $)
+s.o.
+s.o.
+[96] Par souci de commodité, en utilisant les taux de change qui conviennent, les pertes et les gains convertis en CAD sont les suivants :
+Cycle de négociation
+Taux de change
+Pertes
+Gains (réalisés l'année d'imposition suivante)
+Différence nette (bénéfice / perte économique)
+2000
+1,5224[68]
+(5 974 460,89 $)
+5 974 660,32 $
+199,43 $
+2001
+1,5484[69]
+(8 063 011,19 $)
+8 030 844,73 $
+(32 166,46 $)
+2002
+1,5250[70]
+(9 907 726,75 $)
+9 912 321,58 $
+4 594,82 $
+2003
+1,2952[71]
+(16 011 042,22 $)
+16 026 804,80 $
+15 762,58 $
+2004
+1,0000
+(20 467 060 $)
+20 313 547 $
+(153 513 $)
+2005
+1,0000
+(25 231 920 $)
+25 212 680 $
+(19 240 $)
+2006
+1,0000
+(46 485 910 $)
+46 422 000 $
+(63 910 $)
+2007
+1,0000
+(39 998 730 $)
+s.o.
+s.o.
+[97] M. Pat Paletta a déclaré les pertes et les gains suivants dans ses déclarations :
+Année d'imposition
+Pertes ou gains déclarés
+2000
+(6 184 460,89 $)
+2001
+(2 150 917,06 $)
+2002
+(10 007 726 $)
+2003
+(6 198 247,76 $)
+2004
+(4 294 300,06 $)
+2005
+(5 134 923,14 $)
+2006
+(21 236 115,40 $)
+2007
+6 444 216,20 $
+Total :
+(48 762 747,11 $)
+[98] Il n'existe aucun élément de preuve quant à la raison pour laquelle M. Pat Paletta a choisi d'indiquer un bénéfice provenant d'opérations de change à terme pour son année d'imposition 2007. Le choix d'une perte cible inférieure pour 2007 a mené à la réalisation d'un gain cette année‑là[72]. Il a subi des pertes lors d'opérations antérieures qu'il a pu utiliser pour mettre à l'abri la plupart de ses autres revenus pour cette année‑là. Ce qu'il faut retenir ici est qu'il a pu déclarer un revenu imposable de seulement 446 646 $ pour son année d'imposition 2007, même après avoir réalisé un gain de négociation de 6 444 216 $[73].
+[99] Au cours des huit années d'imposition en cause, M. Pat Paletta n'a déclaré aucun revenu imposable pour cinq d'entre elles (2000, 2002, 2003, 2004 et 2006), un revenu d'un peu plus de 142 000 $ pour l'une d'entre elles (2001), d'un peu plus de 415 000 $ pour une autre (2005) et, comme je l'ai déjà mentionné, d'un peu plus de 446 000 $ pour la dernière année d'imposition en cause (2007)[74].
+[100] Bien qu'il ait perçu des revenus de plus de 38 000 000 $ de 2000 à 2007[75], M. Pat Paletta a réussi à avoir un revenu imposable total d'un peu plus de 1 000 000 $ pendant la même période grâce à des opérations de change à terme[76]. Cela illustre bien l'avantage des pertes fiscales générées par les opérations[77]. Du début des opérations à la fin de 2007, il a payé environ 1/38 de l'impôt qu'un particulier dans sa situation aurait payé sans le bénéfice des opérations en cause.
+(10) Ce que M. Pat Paletta savait des opérations
+[101] Le projet fiscal en cause est assez simple. M. Pat Paletta et son fils aîné connaissaient dès le départ les trois éléments de base du projet :
+1. Avant la fin de l'année, les positions déficitaires des options doubles étaient clôturées de manière à réaliser la perte cible pour l'année.
+2. Peu après le début de l'année d'imposition suivante, les positions bénéficiaires correspondantes étaient clôturées et réalisées — ils avaient tous deux compris que ces gains devaient être inclus dans le calcul du revenu pour l'année d'imposition suivante.
+3. La perte cible pour l'année d'imposition suivante suffisait pour mettre à l'abri a) les gains réalisés plus tôt durant l'année d'imposition et b) le revenu imposable que M. Pat Paletta prévoyait recevoir cette année‑là[78].
+[102] Ces trois caractéristiques du projet auraient été évidentes pour n'importe qui, même au niveau d'analyse le plus élémentaire.
+(11) L'examen par l'Agence du revenu du Canada
+[103] En 2004 et en 2005, M. Kleinschmidt, un fonctionnaire de l'ARC, a été chargé de voir s'il existait un motif justifiant la vérification des années d'imposition 2002 ou 2003 de M. Pat Paletta[79]. L'importance des pertes déclarées par M. Pat Paletta a probablement attiré l'attention de l'ARC.
+[104] M. Kleinschmidt a examiné les documents que les comptables lui avaient transmis et a conclu qu'il n'était pas nécessaire que l'ARC fasse une vérification. Sa conclusion reposait principalement sur un avis interne de l'ARC selon lequel l'arrêt Friedberg de la Cour suprême du Canada était déterminant.
+[105] Les comptables, ainsi que M. Pat Paletta et son fils aîné, ont considéré la décision de l'ARC de ne pas procéder à une vérification comme une indication que l'ARC, tout comme les comptables et les avocats fiscalistes, n'avait aucune réserve quant au projet fiscal utilisé pour éliminer la totalité ou la majeure partie du revenu imposable de M. Pat Paletta chaque année.
+(12) Les changements de société de courtage
+[106] M. Pat Paletta a utilisé trois sociétés de courtage différentes comme contreparties au cours des sept premières années d'opérations. Pourquoi n'a‑t‑il pas conservé la même société de courtage? Parce qu'il a suivi M. Hodgins quand M. Hodgins et son père sont passés d'une société de courtage à une autre. De 2000 à 2007, M. Hodgins était au service de trois sociétés de courtage différentes, toutes situées à Londres.
+[107] Lorsque M. Hodgins et son père sont passés d'une société de courtage à une autre, M. Pat Paletta a également transféré son compte de négociation. Après Union Cal Limited, M. Hodgins est passé à IFX Ltd. Ce transfert a eu lieu en novembre 2001. Après IFX Ltd., M. Hodgins est passé à ODL Securities Ltd. Ce transfert a eu lieu en avril 2004.
+[108] Pour chaque transfert, M. Hodgins et M. Angelo Paletta devaient faire en sorte que M. Pat Paletta signe les documents d'ouverture de nouveaux comptes, ce qu'il a fait dans chaque cas. Immédiatement après chaque transfert, le solde du compte de négociation de M. Pat Paletta a été transféré dans son compte chez la nouvelle société de courtage.
+(13) Les nouvelles cotisations
+[109] Les dates de cotisation et de nouvelle cotisation pour chacune des années d'imposition en cause sont indiquées ci‑dessous :
+Année d'imposition
+Date de la cotisation
+Date de la nouvelle cotisation
+2000
+s.o.
+20 janvier 2014
+2001
+6 août 2002
+20 janvier 2014
+2002
+5 septembre 2003
+20 janvier 2014
+2003
+15 juillet 2004
+20 janvier 2014
+2004
+8 août 2005
+20 janvier 2014
+2005
+30 mai 2006
+20 janvier 2014
+2006
+31 mai 2007
+20 janvier 2014
+2007
+23 juin 2008
+20 janvier 2014
+[110] Le ministre a établi de nouvelles cotisations par lesquelles il a refusé la déduction de toutes les pertes déclarées par M. Pat Paletta. Les pertes déclarées et refusées sont énoncées aux paragraphes 13 et 97 qui précèdent.
+[111] Le ministre a établi de nouvelles cotisations pour toutes les années d'imposition en cause le 20 janvier 2014. Étant donné que le ministre a établi les nouvelles cotisations après la période normale de nouvelle cotisation pour chaque année d'imposition, il incombait à la Couronne de prouver que M. Pat Paletta, pour chaque année, avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire en déclarant les pertes en cause.
+[112] Le ministre a également imposé des pénalités en application du paragraphe 163(2) de la Loi pour les années d'imposition 2000 à 2006. La Couronne avait le fardeau de la preuve en ce qui concerne les pénalités imposées en application de ce paragraphe. Ces pénalités sont généralement connues sous le nom de pénalités pour « faute lourde ».
+C. Le défaut de déclarer un revenu de 8 millions de dollars pour 2002
+[113] Au procès, la Couronne a souligné certaines erreurs dans les documents d'opérations. Par exemple, quelques opérations ont été notées comme [TRADUCTION] « fermées » alors qu'elles étaient en fait [TRADUCTION] « ouvertes ». Les confirmations d'opérations auraient pu être présentées plus clairement, notamment pour montrer la constitution des options doubles. M. Hodgins a exposé sans détour leurs lacunes à cet égard. Il a travaillé avec les modèles mis à sa disposition par chaque société de courtage, mais ceux‑ci n'avaient pas été conçus pour des options doubles.
+[114] M. Hodgins a également commis certaines erreurs de calcul qui figuraient sur les documents d'opérations et qu'il a corrigées au cours de son témoignage. M. Pat Paletta n'aurait pas pu facilement détecter ni corriger ces erreurs. Dans l'ensemble, elles ont peu d'importance.
+[115] Cependant, il y a une erreur flagrante que M. Pat Paletta aurait pu et aurait dû détecter et corriger facilement.
+[116] Étonnamment, M. Pat Paletta n'a inclus aucun des gains réalisés lors de la clôture des positions bénéficiaires au début de 2002 dans le calcul de son revenu pour cette année‑là. Ces gains faisaient clairement partie du cycle de négociation de 2001, et M. Pat Paletta savait qu'ils devaient être pris en compte dans le calcul de son revenu pour 2002.
+[117] Parmi les 259 hypothèses invoquées dans la réponse modifiée figure l'hypothèse de fait suivante :
+[TRADUCTION]
+L'appelante a déclaré une perte de 6,5 millions de dollars américains (10 millions de dollars canadiens) pour les besoins de l'impôt en 2002. Sa perte déclarée aurait dû être de 1,3 million de dollars américains, ce qui comprend la perte de 6,5 millions de dollars américains pour 2002, après déduction du gain de 5,2 millions de dollars américains reporté de 2001. Cependant, les positions bénéficiaires de 5,2 millions de dollars américains n'ont pas été déclarées au fisc en 2002, bien qu'elles aient été réalisées pour les besoins des relevés d'opérations[80].
+[118] Le ministre était sur une bonne piste ici. Dans sa déclaration de 2002, M. Pat Paletta a déclaré une perte de 10 007 726 $ résultant d'opérations de change[81]. M. Robert Ban, l'un de ses comptables, a témoigné que le montant de la perte sur opérations boursières de 2002 était tiré de la pièce A57[82]. La pièce A57 est un courriel qui comprend une feuille de calcul et un résumé des mouvements de trésorerie[83]. La feuille de calcul résume les opérations qui ont eu lieu du 23 décembre 2002 au 30 décembre 2002; elle comprend des opérations bénéficiaires et déficitaires. Elle indique des pertes de 40 017 027 $ et des gains de 30 109 301 $. On a déclaré des frais de 100 000 $ cette année‑là, de sorte que tout cela a été déclaré comme une perte nette de 10 007 726 $ dans la déclaration de 2002 de M. Pat Paletta.
+[119] Lorsque l'on compare le résumé de la pièce A57 avec les relevés d'opérations de 2002, il devient clair que la pièce A57 n'inclut pas les gains provenant de la clôture des positions bénéficiaires du cycle de négociation de 2001 qui ont été réalisés au début de 2002. Les relevés de compte et la documentation connexe montrent que des opérations au début de 2002 ont entraîné des gains de 8 030 844,73 $[84]. Ces opérations découlaient de la clôture des positions bénéficiaires du cycle de négociation de 2001, mais M. Pat Paletta ne les a pas incluses dans le calcul de son revenu pour son année d'imposition 2002. La pièce A57 indique uniquement les résultats des opérations clôturées du 23 au 30 décembre 2002, qui étaient les positions déficitaires du cycle de négociation de 2002.
+[120] M. Lewis a envoyé la pièce A57 à M. Angelo Paletta, qui l'a immédiatement remise à M. Wiseman, un des comptables[85]. M. Angelo Paletta n'a pas examiné le document. Il l'a simplement transmis à M. Wiseman[86].
+[121] M. Pat Paletta a déclaré une perte de 10 007 726 $[87] pour l'année d'imposition 2002, alors qu'il n'avait subi qu'une perte de 1 976 882,02 $[88]. De cette perte erronée, 5 459 460,64 $ ont été déclarés en 2002[89]. La partie non utilisée de la perte erronée, soit 4 548 265,36 $, a été reportée à l'année d'imposition 2005 aux termes de l'article 111 de la Loi[90].
+[122] Je reviendrai sur cette sous‑déclaration du revenu lorsque je déciderai si le ministre avait raison d'établir une nouvelle cotisation pour l'année d'imposition 2002 et d'imposer une pénalité pour faute lourde à l'égard de cette année.
+D. Les témoins experts
+[123] Comme le présent appel portait sur des questions financières très techniques, j'ai reçu le témoignage de quatre témoins experts (dont deux ont été convoqués par l'appelante et deux par la Couronne) afin de fournir les conclusions toutes faites dont j'avais besoin pour comprendre les opérations de change à terme et les risques financiers qu'elles comportent.
+(1) Les experts de l'appelante
+a) M. Simon Bird
+[124] J'ai reconnu M. Bird comme étant un expert en instruments financiers, notamment en instruments de change. M. Bird possède une vaste expérience en matière de services bancaires commerciaux. Il négociait des instruments de change, notamment des contrats à terme et des échanges financiers. Son rapport et son témoignage ont fourni des renseignements essentiels concernant le marché de change, les produits de change, le fonctionnement des opérations de gré à gré et les risques des opérations de change. J'ai considéré que son témoignage était utile et je lui ai accordé beaucoup de poids.
+b) M. Colin Knight
+[125] J'ai reconnu M. Knight comme étant un expert en marchés de change et en négociation. M. Knight a une grande expérience des produits de change et travaille dans ce secteur depuis plus de 20 ans. Il a fourni des renseignements sur le marché de change, ainsi que sur les produits de change. J'examinerai son témoignage plus loin.
+(2) Les experts de la Couronne
+a) M. Andrey Pavlov
+[126] Avant d'examiner la valeur du témoignage de M. Pavlov, il est important de revoir les hypothèses du ministre en ce qui concerne le risque.
+[127] Le ministre a supposé que M. Pat Paletta avait conclu les options doubles en croyant qu'elles [TRADUCTION] « ne présentaient aucun risque »[91]. Le ministre a supposé qu'en fait, M. Pat Paletta [TRADUCTION] « n'assumait aucun risque commercial » à l'égard des opérations[92] et qu'il [TRADUCTION] « n'avait jamais été exposé à un risque »[93].
+[128] De même, pour justifier l'établissement de nouvelles cotisations pour toutes les années d'imposition en cause, la Couronne a invoqué comme un fait que les opérations étaient [TRADUCTION] « exemptes de risque »[94] et que toutes les opérations étaient [TRADUCTION] « sans risque »[95].
+[129] C'est en tenant compte de cela que j'ai reconnu M. Pavlov comme étant un expert en matière de mesure du risque des produits financiers dérivés. M. Pavlov a une grande expérience de la mesure du risque financier. Ses recherches portent sur la mesure du risque dans divers marchés. De l'avis de M. Pavlov, les options doubles effectuées par M. Pat Paletta comportaient un [TRADUCTION] « risque négligeable ». Cela signifie un certain risque ou un risque très faible. Cela ne signifie pas qu'il n'y a aucun risque.
+[130] Dans son argumentation, la Couronne a soutenu que les options doubles ne comportaient aucun risque, ce qui est conforme aux hypothèses et aux allégations du ministre, mais est incompatible avec le témoignage de M. Pavlov. Je conclus que les opérations de M. Pat Paletta comportaient un certain risque. Que ce risque soit qualifié de très faible ou de [TRADUCTION] « négligeable » n'a aucune importance. Le fait est que la négociation n'était pas sans risque.
+[131] Comment le risque survenait‑il? Il survenait parce que les dates de règlement des contrats formant chaque option double étaient légèrement différentes. Plus les dates de règlement respectives sont proches les unes des autres, plus le risque est faible. Plus les dates de règlement respectives sont éloignées, plus le risque est grand.
+[132] Les opérations formant chaque option double avaient toujours des dates de règlement légèrement différentes, ce qui signifie que la valeur de l'une était toujours supérieure à celle de l'autre. Cette légère différence était prise en compte par la société de courtage à la fin de chaque journée lorsque les positions nettes étaient « évaluées au cours du marché » afin que la société de courtage puisse évaluer son propre risque et, au besoin, demander une marge supplémentaire.
+b) M. Richard Poirier
+[133] J'ai reconnu M. Poirier comme étant un expert en opérations de change du point de vue d'une banque commerciale canadienne. M. Poirier a passé la majeure partie de sa carrière à la Banque Nationale du Canada et possède une grande expérience de la négociation de devises dans ce contexte.
+[134] Il a estimé qu'aucune personne cherchant à gagner de l'argent ne s'engagerait dans les opérations effectuées par M. Pat Paletta. Tous les éléments de preuve confirment sa conclusion sur ce point.
+[135] Cependant, il est allé plus loin. M. Poirier a conclu qu'étant donné que les options doubles n'avaient pas d'objectif commercial, elles n'avaient sûrement pas eu lieu. Compte tenu des éléments de preuve, cette conclusion ne peut pas être retenue.
+[136] Comme les rapports de M. Poirier et de M. Knight ont un défaut fondamental en commun, je vais les examiner ensemble.
+(3) Observations sur les rapports d'experts
+[137] L'avis de M. Poirier était essentiellement le suivant :
+1. Les opérations n'ont jamais eu lieu.
+2. Si ces opérations ont eu lieu, ce que M. Paletta a fait n'était pas des opérations de change[96].
+[138] M. Poirier a eu raison de conclure qu'il n'y avait [TRADUCTION] « aucune raison commerciale ou économique d'effectuer ces opérations »[97].
+[139] Malheureusement, on n'avait pas demandé à M. Poirier de supposer que les opérations en cause avaient été effectuées pour des raisons fiscales uniquement. Il ne pouvait donc pas comprendre pourquoi quelqu'un s'engagerait dans ce type d'opérations :
+[TRADUCTION]
+Lorsque vous négociez des devises, vous le faites soit pour vous couvrir, soit pour spéculer, afin de réaliser des bénéfices. Dans ma carrière, je n'ai jamais vu quelqu'un négocier pour perdre de l'argent, ce que M. Paletta prétend avoir fait[98].
+[140] En réponse au rapport de M. Poirier, M. Knight a déclaré qu'à son avis, les [TRADUCTION] « opérations de M. Pat Paletta semblent avoir été effectuées avec l'intention de réaliser un profit dans l'ensemble »[99]. Malheureusement, cette conclusion est également incompatible avec les éléments de preuve.
+[141] En insistant sur son hypothèse selon laquelle il y avait un profit, M. Knight est arrivé à la conclusion suivante :
+[TRADUCTION]
+M. Paletta a utilisé une stratégie sophistiquée de taux d'intérêt qui pourrait être qualifiée d'arbitrage spéculatif. Il a utilisé des échanges financiers de devises pour s'exposer de manière ciblée aux différences des taux d'intérêt des devises sur une courte période[100].
+[142] M. Knight a conclu qu'il était possible que M. Pat Paletta ait utilisé d'autres stratégies pour gagner de l'argent, notamment les [TRADUCTION] « arbitrages en papillon »[101] ou la [TRADUCTION] « limitation des pertes et la poursuite des bénéfices »[102]. Au vu des éléments de preuve, M. Pat Paletta n'a utilisé aucune de ces stratégies. Le seul but de ses opérations était d'éviter les impôts.
+[143] C'est pour ce motif que j'accorde peu de poids aux rapports de M. Knight. Les éléments de preuve montrent que ses spéculations quant aux diverses stratégies de négociation auxquelles M. Pat Paletta aurait peut‑être eu recours n'étaient pas fondées. La seule stratégie de négociation utilisée par M. Pat Paletta était conçue pour assurer la réalisation immédiate des pertes et le report indéfini des gains pour l'impôt.
+[144] Malheureusement, on n'a pas demandé à M. Knight d'examiner l'hypothèse d'un négociateur qui aurait effectué les opérations en cause uniquement pour des raisons fiscales.
+[145] En revanche, le rapport de M. Pavlov était très utile et je lui accorde beaucoup de poids. Il a permis de démolir les hypothèses du ministre selon lesquelles :
+1. les options doubles ne comportaient aucun risque[103];
+2. la marge exigée par chacune des sociétés de courtage était insuffisante pour soutenir ces opérations[104].
+[146] J'ai souscrit à l'opinion de M. Pavlov selon laquelle le risque lié aux options doubles était négligeable. À la lumière de cette opinion, qui était compatible avec les témoignages des directeurs généraux des sociétés de courtage et de M. Hodgins, j'ai conclu que les options doubles comportaient un certain risque et que, par conséquent, le montant relativement modeste de la marge exigée par chacune des sociétés de courtage n'était pas déraisonnable dans les circonstances. Dans un tel cas, le fait qu'il n'y a jamais eu d'appel de marge n'est pas surprenant.
+V. Les thèses des parties
+A. La thèse de la Couronne
+(1) Thèse selon la réponse modifiée
+[147] Les arguments résumés par la Couronne dans la réponse modifiée étaient les suivants :
+[TRADUCTION]
+a) tous les prétendus contrats et positions d'options sur devises et tous les contrats et accords conclus avec Union CAL, IFX et ODL étaient des trompe‑l'œil;
+b) si les opérations ont eu lieu et n'étaient pas des trompe-l'œil, ce que l'intimée nie, elles n'étaient pas juridiquement valides en ce sens qu'il n'y avait pas de contrats juridiquement valides pour l'achat ou la vente de marchandises;
+c) l'appelant n'a pas subi les pertes déclarées;
+d) également à titre subsidiaire, les opérations n'étaient pas des opérations commerciales puisque l'appelante n'avait pas de responsabilité réelle à la fin des années d'imposition 2000 à 2007 et n'assumait aucun risque;
+e) toujours à titre subsidiaire, il n'y avait pas d'entreprise ou de biens susceptibles de produire un revenu puisque, selon l'entente entre l'appelante et les Hodgins, l'ensemble des opérations exercées par l'appelante ne pouvait produire aucun revenu pour celle‑ci. Par conséquent, il ne pouvait y avoir de source de revenu à l'égard des opérations et celles‑ci n'ont pas produit de perte selon les articles 3 ou 4 de la Loi;
+f) toujours à titre subsidiaire, s'il y a eu une activité commerciale, aucune perte n'a été réalisée à la fin de chacune des années d'imposition, puisque la réalisation des pertes et des gains aurait eu lieu simultanément aux dates d'expiration ou de règlement[105].
+[Non souligné dans l'original.]
+(2) Thèses au procès
+[148] Au moment de la présentation de la plaidoirie finale, les thèses de la Couronne n'étaient plus les mêmes que celles exposées dans la réponse modifiée. Dans sa plaidoirie finale, la Couronne a fait valoir un seul argument fondamental : les opérations effectuées par M. Pat Paletta ne constituaient pas une source de revenu. Toutes les autres thèses figurant dans la réponse modifiée, y compris la thèse du trompe‑l'œil, ont été reléguées au second plan à l'appui de la thèse sur l'absence d'une source de revenu.
+a) Aucune source de revenu
+(i) Le stratagème des pertes fiscales n'est pas une entreprise
+[149] La Couronne a fait valoir qu'il n'y avait aucune source de revenu parce qu'un stratagème de pertes fiscales n'est pas une entreprise. Le motif prédominant de M. Pat Paletta était la recherche de pertes fiscales et, par conséquent, il n'a subi aucune perte liée à l'exploitation d'une entreprise.
+(ii) Les contrats et les options d'opérations de change à terme sont des trompe‑l'œil
+[150] La Couronne a fait valoir qu'il n'y avait aucune source de revenu parce que M. Hodgins avait créé de toutes pièces l'ensemble des documents de négociation. Le ministre a formulé des hypothèses de fait selon lesquelles la négociation était un trompe-l'œil. Il incombait à l'appelante de prouver que ces hypothèses étaient incorrectes[106]. Les parties aux opérations ont fait de fausses déclarations graves en prétendant négocier des contrats de change à terme. M. Hodgins a établi toutes les opérations d'avance et n'avait d'autre choix que d'atteindre les pertes cibles[107]. M. Hodgins était le mandataire de M. Pat Paletta ainsi que des sociétés de courtage pour toutes les opérations. Le seul but des opérations était d'enregistrer des pertes fiscales. Par conséquent, la relation entre M. Pat Paletta et les maisons de courtage était un trompe‑l'œil. Enfin, les relevés d'opérations eux‑mêmes étaient un trompe‑l'œil[108].
+(iii) Artifice
+[151] La Couronne a fait valoir qu'il n'y avait pas de source de revenu parce que M. Pat Paletta n'avait pas l'intention d'exploiter une entreprise de négociation de 2000 à 2007. Son seul but était d'obtenir un avantage fiscal :
+[TRADUCTION]
+[...] Les opérations étaient un artifice, une activité entreprise pour générer des pertes, tout en donnant l'impression que l'appelante exploitait une entreprise dans un but lucratif[109] [...]
+[Non souligné dans l'original.]
+[152] La Couronne a fait valoir que les règles de l'« artifice » et du « trompe‑l'œil » sont distinctes et que même si je ne concluais pas à l'existence d'un trompe‑l'œil, je devais conclure à l'existence d'un « artifice ».
+(iv) Les faits sont incompatibles avec l'existence d'une entreprise
+[153] Le dernier argument avancé par la Couronne à l'appui de la thèse de la source est que les faits sont incompatibles avec l'existence d'une entreprise. Plus précisément, la Couronne a soutenu ce qui suit :
+a) le montant de la perte cible chaque année était déterminé d'avance;
+b) il y avait une absence de risque, alors que les opérations de change à terme comportent habituellement un risque;
+c) les opérations n'avaient aucun effet juridique[110].
+[154] La Couronne a fait valoir qu'une activité qui entraîne une perte précise établie d'avance n'est pas une entreprise[111]. Les opérations étaient réglées d'avance pour entraîner une perte égale à la perte cible. Puisque le montant de la perte était connu au début des opérations de l'année en question, les opérations en cause ne pouvaient pas être une entreprise[112]. Il doit y avoir un risque pour qu'une activité soit une entreprise[113]. Les opérations de M. Pat Paletta ne comportaient pas un risque suffisant pour être une entreprise.
+[155] La thèse selon laquelle les opérations n'avaient « aucun effet juridique » repose sur l'hypothèse voulant que M. Hodgins ait agi pour les deux parties lorsqu'il effectuait les opérations[114]. Il n'y a pas eu de contrat, car il n'y a eu ni offre ni acceptation. M. Pat Paletta n'aurait pas pu proposer ni accepter l'une ou l'autre des opérations parce qu'il ne connaissait pas ou ne comprenait pas les modalités de l'une ou l'autre des opérations qu'il prétendait conclure[115]. M. Hodgins a donc négocié avec lui‑même, ce qui revient à ne pas négocier du tout.
+(3) Les années d'imposition frappées de prescription
+[156] La Couronne a fait valoir que les présentations erronées des faits admises par l'appelante étaient imputables à une omission volontaire, car M. Pat Paletta savait que les pertes découlant des opérations étaient un trompe‑l'œil et que les pertes déclarées pour l'impôt n'étaient pas étayées par les relevés d'opérations[116]. M. Pat Paletta savait que la méthode de réalisation était une façon artificielle de comptabiliser les opérations et ne représentait pas la réalité économique de la situation[117]. Les opérations étaient déterminées d'avance[118] et M. Pat Paletta ne peut pas se défendre en invoquant le fait que des comptables professionnels ont préparé ses déclarations[119]. Il aurait dû se renseigner auprès de tiers[120] et a fait preuve d'aveuglement volontaire. Par conséquent, il y a eu une présentation erronée des faits par négligence et toutes les années frappées de prescription devraient faire l'objet de nouvelles cotisations.
+[157] En ce qui concerne l'année d'imposition 2002, M. Pat Paletta a négligé de prendre en compte les positions bénéficiaires provenant des opérations de 2001 qu'il dit avoir clôturées et réalisées au début de 2002[121]. Il ne s'est pas renseigné et a fait preuve d'aveuglement volontaire à l'égard de cette erreur[122]. Par conséquent, il convient d'établir une nouvelle cotisation pour l'année d'imposition 2002. La Couronne a également fait valoir que l'erreur de 2002 avait une incidence sur l'exactitude de toutes les déclarations ultérieures[123].
+(4) Pénalités pour faute lourde
+[158] La Couronne a fait valoir que les éléments de preuve démontrent, selon la prépondérance des probabilités, que les présentations erronées des faits admises par l'appelante pour les années d'imposition 2000 à 2006 constituaient une faute lourde. M. Pat Paletta a continué les opérations alors qu'il était conscient des nombreuses circonstances suspectes entourant les opérations et les personnes qui y prenaient part[124]. Il a fait preuve d'aveuglement volontaire et son indifférence équivalait à une action délibérée ou à une indifférence au respect de la loi[125]. Compte tenu de son sens des affaires, de son expérience passée en matière d'opérations et du fait qu'il n'a pas pris de mesures préventives lorsque ses comptables ont exprimé leurs préoccupations en 2001, il ne peut pas se défendre en affirmant que ses comptables ont été négligents. En outre, il a fait preuve d'aveuglement volontaire[126]. La Couronne a donc soutenu que les pénalités pour faute lourde devaient être maintenues.
+B. La thèse de l'appelante
+[159] L'appelante a fait valoir que les opérations de change à terme n'étaient pas un trompe‑l'œil et que les opérations étaient valides juridiquement.
+(1) L'arrêt Friedberg et les options doubles
+[160] L'appelante a fait valoir que les enseignements de la Cour suprême du Canada dans l'arrêt Friedberg sont les suivants : a) en clôturant la position déficitaire d'une option double, un négociateur enregistre une perte pour l'année, b) cette perte existe même si la position bénéficiaire connexe n'est pas clôturée dans l'année.
+[161] M. Friedberg a clôturé les positions déficitaires des options doubles avant la fin de l'année, mais a gardé les positions bénéficiaires en place jusqu'à l'année suivante, reportant ainsi les gains correspondants[127]. M. Pat Paletta a fait de même. Par conséquent, le même résultat devrait s'ensuivre.
+(2) L'arrêt Stewart et le caractère commercial
+[162] En ce qui concerne l'argument de la Couronne relatif à la source, l'appelante a soutenu que le droit, tel qu'il est énoncé par la Cour suprême du Canada dans l'arrêt Stewart, constitue un obstacle insurmontable à la thèse de la Couronne selon laquelle il n'y avait aucune « source de revenu » provenant de la négociation.
+[163] Il y a toujours eu une légère différence entre la valeur de la position déficitaire et celle de la position bénéficiaire. Par conséquent, les options doubles se sont toujours accompagnées d'une possibilité de profit et d'un risque de perte. Étant donné que les opérations de change à terme sont par nature une activité commerciale et qu'il n'existe aucun élément personnel, il y avait nécessairement une source de revenu selon l'article 9 de la Loi.
+(3) Les années d'imposition frappées de prescription
+[164] L'appelante reconnaît que certaines erreurs de calcul ont été commises pour chacune des années d'imposition 2001 à 2007, mais elle affirme que ces présentations erronées des faits ne sont pas imputables à la négligence, à l'inattention ou à une omission volontaire[128].
+[165] L'appelante fait valoir que M. Pat Paletta a obtenu des conseils professionnels concernant les opérations, en obtenant lui‑même des avis oraux ainsi que des avis écrits qui lui ont été transmis par M. Lewis et, plus tard, par M. Hodgins[129]. M. Pat Paletta a fait appel à des fiscalistes professionnels pour préparer ses déclarations[130]. Le report au moyen des opérations de change était semblable à une autre stratégie de report que M. Pat Paletta avait utilisée par le passé[131]. L'ARC a examiné les opérations effectuées au cours des premières années d'imposition et a conclu que la stratégie était acceptable et qu'il n'y avait pas lieu de procéder à une vérification[132]. Enfin, M. Pat Paletta a fait preuve du degré de prudence requis en examinant ses déclarations avec ses comptables avant de les signer[133]. Par conséquent, on ne peut établir de nouvelles cotisations pour les années frappées de prescription en ce qui concerne les pertes déduites en raison des opérations de change à terme.
+[166] En ce qui concerne l'année d'imposition 2002, l'appelante reconnaît qu'il y a eu une erreur, mais affirme qu'elle a été commise par les comptables. M. Pat Paletta n'avait qu'une compréhension très générale des opérations et s'en remettait à ses comptables pour les déclarer correctement[134]. Les comptables ont reçu non seulement les documents de travail de 2002 (pièce A57), mais aussi les relevés des opérations[135]. La pièce A56 était le registre de 2002 à 2003, qui a également été envoyé à M. Angelo Paletta[136]. La pièce A57 était la réponse à d'autres demandes de renseignements de M. Wiseman concernant la pièce A56[137]. M. Angelo Paletta a déclaré qu'elle aurait été transmise directement à M. Wiseman[138]. Il convient de noter que le registre commence également en décembre 2002 et ne comprend pas les positions bénéficiaires de 2001 qui ont été clôturées en janvier 2002[139]. La Couronne n'a pas démontré que M. Pat Paletta ou M. Angelo Paletta avaient omis de se renseigner auprès des comptables[140].
+[167] L'appelante fait valoir que M. Pat Paletta n'a pas fait preuve de négligence ou d'inattention parce qu'il s'est fié à ses comptables et que, bien qu'il ait examiné la déclaration de 2002 avec eux, il n'a pas été en mesure de déceler l'erreur parce que cela dépassait ses capacités.
+[168] La position de l'appelante est donc qu'on ne peut établir de nouvelle cotisation pour aucune des années frappées de prescription.
+(4) Les pénalités pour faute lourde
+[169] L'appelante soutient que les pénalités pour faute lourde ne devraient pas être maintenues, car M. Pat Paletta n'avait pas connaissance des faux énoncés faits dans ses déclarations et n'a pas commis de faute lourde à cet égard[141].
+[170] M. Pat Paletta a mûrement réfléchi à la déclaration des opérations, a obtenu des conseils professionnels sur la déclaration correcte des opérations et s'est fié à ses comptables de longue date et de confiance pour préparer ses déclarations. Il a examiné les déclarations avec eux et a été rassuré par l'ARC elle‑même, puisqu'elle avait examiné les opérations au cours d'une année antérieure[142]. La Couronne n'a présenté aucun élément de preuve démontrant que M. Pat Paletta avait commis une faute lourde en déclarant les opérations[143].
+VI. Analyse
+A. Réalisation de la perte fiscale
+[171] Pour commencer l'analyse, il faut bien comprendre l'importance de l'arrêt Friedberg de la Cour suprême du Canada, car le projet fiscal utilisé par M. Pat Paletta est essentiellement le même. Les deux contribuables ont eu recours à des options doubles pour les besoins de l'impôt. Ils ont tous deux clôturé leurs positions déficitaires avant la fin de l'année. Ils ont tous deux soutenu avoir subi des pertes fiscales au cours de l'année où les positions déficitaires ont été clôturées. Ils ont tous deux reporté les positions bénéficiaires à l'année suivante. Une liste des ressemblances et des différences pertinentes entre les deux affaires est jointe à l'annexe A.
+[172] Une des différences entre les deux affaires est que M. Friedberg a négocié des contrats à terme en bourse (ce que le ministre appelle le « marché ouvert ») alors que M. Pat Paletta a négocié des contrats de change à terme avec une contrepartie sur le marché de gré à gré. Il semble que le ministre juge intrinsèquement suspecte toute opération qui n'est pas effectuée sur un « marché ouvert ». Au vu des éléments de preuve, les soupçons du ministre ne sont pas fondés. Après avoir entendu le témoignage du directeur général de chacune des trois sociétés de courtage et le témoignage de M. Hodgins et des témoins experts, j'estime qu'il n'y a rien d'inhabituel, et encore moins de suspect, dans la négociation de contrats de change à terme avec une contrepartie sur le marché de gré à gré. En fait, c'est précisément de cette façon qu'on le fait.
+(1) Décision Friedberg de la Cour fédérale, Section de première instance (1989)
+[173] Dans la décision Friedberg c. La Reine, [1989] A.C.F. no 23 (QL), la question était de savoir si le ministre avait établi à juste titre de nouvelles cotisations à l'égard des pertes fiscales de M. Friedberg découlant de ses options doubles sur des contrats à terme de marchandises. Le ministre s'est fondé sur deux motifs différents. Le premier était que M. Friedberg aurait dû utiliser la méthode comptable de l'« évaluation au cours du marché » pour déclarer ses gains ou pertes fiscaux plutôt que la méthode de la « valeur minimale ».
+[174] Le deuxième motif était que les pertes fiscales de M. Friedberg réduisaient artificiellement son revenu et, par conséquent, contrevenaient au paragraphe 245(1) de la Loi (qui a été remplacé plus tard par la règle générale anti‑évitement) :
+245(1) Opérations factices — Dans le calcul du revenu aux fins de la présente loi, aucune déduction ne peut être faite à l'égard d'un débours fait ou d'une dépense faite ou engagée, relativement à une affaire ou opération qui, si elle était permise, réduirait indûment ou de façon factice le revenu.
+[175] Au procès, chaque partie a présenté des éléments de preuve d'experts en comptabilité. Les éléments de preuve d'experts indiquaient fortement que la méthode comptable de l'« évaluation au cours du marché » mesurait les résultats économiques de l'activité de M. Friedberg de manière plus précise que la méthode de la « valeur minimale ». Les deux méthodes étaient toutefois acceptables selon les principes comptables généralement reconnus (« PCGR »).
+[176] La question qui a été soumise à l'examen du juge en chef adjoint Jerome de la Cour fédérale, Section de première instance, était la suivante :
+[TRADUCTION]
+[...] le contribuable peut‑il calculer sa perte lors de la clôture de la position vendeur sans tenir compte du gain à recevoir, mais non encore réalisé pour la position acheteur[144]?
+[177] Le juge en chef adjoint Jerome a répondu à cette question par l'affirmative. Il a conclu qu'aucune disposition de la Loi n'obligeait M. Friedberg à utiliser la méthode de « l'évaluation au cours du marché ». M. Friedberg était donc libre d'utiliser toute autre méthode conforme aux PCGR.
+[178] En ce qui concerne l'argument de la Couronne fondé sur le paragraphe 245(1), le juge en chef adjoint Jerome :
+[TRADUCTION]
+[...] a examiné ce point en notant que la véritable distinction entre la méthode de l'évaluation au cours du marché et la méthode de la valeur minimale pour la comptabilisation des opérations à terme était une question de temps. Dans les deux méthodes, le gain réalisé sur la position bénéficiaire est comptabilisé pour l'impôt. La seule différence est le moment où la comptabilisation a lieu. Il a également noté que le montant de la perte survenue sur la position déficitaire était déterminé par les forces du marché et n'était en aucun cas factice. Dans ces conditions, il n'y a pas eu de réduction factice du revenu et le paragraphe 245(1) ne s'appliquait pas pour limiter la perte[145].
+[179] La Couronne a interjeté appel à la Cour d'appel fédérale.
+(2) Arrêt Friedberg de la Cour d'appel fédérale (1991)
+[180] Dans l'arrêt R. c. Friedberg, [1991] A.C.F. no 1255 (QL), la Cour d'appel fédérale a confirmé la décision de la Cour fédérale, Section de première instance. Dans son commentaire sur la décision, Thomas McDonnell résume bien le raisonnement du juge en chef adjoint Jerome, qu'a confirmé la Cour d'appel fédérale :
+[TRADUCTION]
+Le juge de première instance a déclaré que la Loi ne prévoit pas expressément comment les gains et les pertes sur les opérations d'écart doivent être comptabilisés pour déterminer l'assujettissement à l'impôt. Il a déclaré que faute de disposition légale expresse contraire, le revenu d'un contribuable pour l'impôt doit être déterminé conformément aux principes comptables généralement reconnus. Le juge de première instance a poursuivi en disant que lorsqu'il existe deux méthodes acceptables de comptabilisation du revenu en application des PCGR, le contribuable est libre de choisir la méthode qui lui semble la plus avantageuse pour calculer son impôt à payer. Encore une fois, il est important de noter que le droit du contribuable d'agir ainsi dépendait, selon le juge de première instance, du fait que la Loi est muette sur la façon dont le contribuable doit comptabiliser les gains et les pertes sur les opérations d'écart sur les marchandises.
+La Cour d'appel a maintenant confirmé cet aspect de la décision du juge de première instance [...][146]
+[181] La Couronne a demandé et obtenu l'autorisation d'interjeter appel à la Cour suprême du Canada.
+(3) Arrêt Friedberg de la Cour suprême du Canada (1993)
+[182] Après avoir entendu l'avocat principal de la Couronne, la Cour a rendu sa décision à l'audience[147]. Les motifs ont été prononcés par le juge Iacobucci au nom de la Cour :
+Le juge Iacobucci — Nous sommes tous d'avis qu'il y a lieu de rejeter ce pourvoi.
+Le contribuable intimé a négocié abondamment des contrats à terme de marchandises au cours des années fiscales 1978 à 1981 et a réclamé des déductions fiscales pour les pertes d'entreprise découlant de la négociation pour son propre compte de contrats à terme sur l'or.
+D'après les faits, l'intimé a déclaré ses pertes lorsqu'elles sont réellement survenues et ses gains, lorsqu'ils ont été effectivement réalisés. À notre avis, l'appelante n'a pas démontré que l'on a commis une erreur en adoptant cette façon de procéder. Même si la méthode comptable de l'« évaluation au cours du marché » peut, à certaines fins, mieux décrire la situation du contribuable sur le plan de son revenu, nous ne sommes pas convaincus qu'elle peut décrire son revenu aux fins de l'impôt sur le revenu, pas plus que nous sommes convaincus qu'un solde de compte sur marge est la façon appropriée d'évaluer le revenu réalisé aux fins de l'imposition. De même, bien que nous reconnaissions que la méthode de la « valeur minimale » préconisée par l'intimé donne à entendre que les pertes non subies peuvent être déduites dans le calcul du revenu, il ressort des faits de la présente affaire que l'intimé n'a déduit aucune perte non subie. En conséquence, nous n'avons pas à déterminer la validité, sur le plan de l'impôt sur le revenu, de ces conséquences de la méthode de la « valeur minimale » en l'espèce.
+Quant à savoir s'il convient d'examiner séparément les pertes et les gains qui se rattachent à une opération mixte, et si le par. 245(1) de la Loi de l'impôt sur le revenu, S.R.C. 1952, ch. 148 et ses modifications, est utile à l'appelante en l'espèce, nous souscrivons, pour l'essentiel, aux motifs du juge de première instance que le juge Linden de la Cour d'appel fédérale a confirmés sur ces points.
+En conséquence, le pourvoi est rejeté avec dépens[148].
+[Non souligné dans l'original.]
+[183] La Cour a confirmé que l'ancien paragraphe 245(1) de la Loi ne s'appliquait pas aux options doubles de M. Friedberg (c.‑à‑d. qu'il n'y avait pas de réduction factice du revenu), mais, plus important encore, elle est allée plus loin que la Cour fédérale, Section de première instance, et la Cour d'appel fédérale. La Cour n'a pas traité l'affaire comme un concours entre deux méthodes comptables, chacune acceptable selon les PCGR, mais a plutôt examiné la question de savoir si M. Friedberg était tenu d'utiliser la méthode économiquement plus réaliste de l'« évaluation au cours du marché » ou si la méthode de la « réalisation » qu'il avait effectivement utilisée pour reporter la comptabilisation des gains connexes à l'année suivante était acceptable pour l'impôt. La Cour a clairement affirmé que la méthode de la « réalisation » était parfaitement acceptable aux termes de la Loi.
+[184] Dans son commentaire sur le raisonnement de la Cour, M. McDonnell expose le ratio decidendi de la Cour :
+[TRADUCTION]
+[...] l'arrêt confirme le principe judiciaire selon lequel les bénéfices non réalisés ne sont pas comptabilisés pour l'impôt avant la période au cours de laquelle la réalisation a lieu, quel que peut être le traitement de ces bénéfices selon les PCGR. Le deuxième point est plus limité et dépend des faits précis de l'affaire. On peut l'énoncer comme suit : aux termes des dispositions de la Loi de l'impôt sur le revenu en vigueur au cours des années faisant l'objet de l'appel (1978 à 1981), la méthode comptable d'évaluation au cours du marché pour certaines opérations à terme de marchandises ne constitue pas une mesure appropriée du revenu pour l'impôt[149].
+[Non souligné dans l'original.]
+[185] Pour une raison quelconque, le ministre ne semble pas accepter pleinement la décision de la Cour. Le désaccord fondamental du ministre avec la conclusion de la Cour selon laquelle la perte fiscale d'une personne effectuant des options doubles peut dépasser de loin sa perte économique (ou « réelle ») s'exprime dans plusieurs hypothèses dans la réponse modifiée.
+[186] Le ministre a supposé que la perte fiscale de M. Pat Paletta [TRADUCTION] « ne constituait pas une obligation réelle à la fin de chaque année »[150]. Plus précisément, le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]es sommes prétendument « dues » à UCAL/IFX/ODL par l'appelante, ou les sommes prétendument « dues » par UCAL/IFX/ODL à l'appelante [...] n'ont jamais été payées et il n'a jamais été exigé qu'elles soient payées par l'une ou l'autre partie[151] [...]
+[187] Le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]a prétendue activité de commerce des devises était [...] une ruse qui permettait à l'appelante d'obtenir des pertes fiscales sans avoir réellement subi de telles pertes (c'est-à-dire sans avoir dépensé ou versé de l'argent)[152] [...]
+[188] Pour tenter de justifier l'établissement de nouvelles cotisations pour les années d'imposition en cause, la Couronne a allégué ce qui suit :
+[TRADUCTION]
+[...] le bon sens dicte, comme l'aurait compris une personne sage et prudente, que [M. Pat Paletta] n'avait subi de perte réelle à la fin d'aucune des années d'imposition puisqu'il n'avait pas dépensé un montant égal à la perte à la fin de chaque année et qu'il n'avait pas d'obligation égale au montant de la perte à la fin de chaque année[153].
+[189] Pour tenter de justifier l'établissement de nouvelles cotisations pour les années d'imposition en cause, la Couronne a également allégué ce qui suit :
+[TRADUCTION]
+[...] l'appelante a déclaré une perte de négociation en devises pour une obligation qu'elle savait inexistante[154].
+[190] Enfin, des pénalités pour faute lourde ont été imposées pour les années d'imposition en cause au motif que M. Pat Paletta [TRADUCTION] « a déclaré une perte de négociation pour une obligation qu'il savait inexistante »[155].
+[191] L'arrêt Friedberg établit que les négociateurs effectuant des options doubles peuvent déclarer les résultats de leurs opérations pour l'impôt d'une façon qui ne représente pas les véritables résultats économiques de ces opérations. Même si le ministre n'est pas satisfait de cet arrêt, rien ne lui permet d'éviter son effet sur les années d'imposition en cause.
+(4) La réponse du législateur à l'arrêt Friedberg (2017)
+[192] En 2017, le législateur a adopté les paragraphes 18(17) à (23) de la Loi. Ces mesures ont été proposées dans le budget fédéral présenté à la Chambre des communes le 22 mars 2017, soit près de 24 ans après la décision de la Cour suprême du Canada dans l'arrêt Friedberg.
+[193] Lorsque ces dispositions ont été introduites, le ministère des Finances a déclaré que « [l]es opérations de chevauchement soulèvent des préoccupations importantes relativement à l'assiette fiscale et à l'équité » et que « [d]es dispositions législatives spécifiques sont donc proposées afin de préciser que ces opérations sont contraires au régime de la Loi de l'impôt sur le revenu »[156]. Plus précisément, les renseignements supplémentaires qui accompagnaient le budget de 2017 indiquaient ce qui suit :
+Dans la mesure où l'emploi de la méthode de la réalisation pour calculer les gains et les pertes sur les produits dérivés détenus au titre du revenu peut être soutenu dans certains cas, elle peut permettre aux contribuables de réaliser de façon sélective des gains et des pertes sur ces produits dérivés par l'intermédiaire, par exemple, d'opérations de chevauchement.
+Dans sa forme la plus simple, une opération de chevauchement est une opération où un contribuable prend simultanément deux positions — souvent dérivées — qui devraient générer des gains et pertes égaux et compensatoires. Peu avant la fin de son année d'imposition, le contribuable dispose de la position ayant accumulé la perte (la position perdante) et réalise cette perte. Peu après le début de l'année d'imposition suivante, le contribuable dispose de la position compensatoire ayant accumulé le gain (la position gagnante) et réalise ce gain. Le contribuable demande une déduction à l'égard de la perte réalisée par rapport à d'autres revenus au cours de l'année d'imposition initiale, et il reporte la constatation du gain compensatoire à l'année d'imposition suivante. Le contribuable réclame l'avantage lié au report, quoique les deux positions soient compensatoires d'un point de vue économique. Qui plus est, le contribuable pourrait tenter de reporter indéfiniment la constatation du gain sur la position gagnante en effectuant des opérations de chevauchement successives.
+Il y a plusieurs variations de cette opération de chevauchement de base, y compris sa combinaison avec une stratégie de sortie où le gain compensatoire est transféré à un investisseur indifférent relativement à l'impôt.
+Les opérations de chevauchement soulèvent des préoccupations importantes relativement à l'assiette fiscale et à l'équité. Bien que ces opérations soient contestées à l'aide de certains principes jurisprudentiels et des dispositions existantes de la Loi de l'impôt sur le revenu, y compris la règle générale anti-évitement, ces contestations peuvent être fastidieuses et dispendieuses. Des dispositions législatives spécifiques sont donc proposées afin de préciser que ces opérations sont contraires au régime de la Loi de l'impôt sur le revenu.
+Le budget de 2017 propose d'instaurer une règle anti‑évitement spécifique qui cible les opérations de chevauchement. En particulier, une règle sur la minimisation des pertes aura pour effet de reporter la réalisation de toute perte sur la disposition d'une position jusqu'à concurrence de tout gain non réalisé sur une position compensatoire. Un gain à l'égard d'une position compensatoire ne serait généralement pas réalisé lorsque la position compensatoire n'a pas fait l'objet d'une disposition et que celle‑ci n'était pas assujettie à l'imposition selon l'évaluation à la valeur du marché.
+Aux fins de la règle sur la minimisation des pertes, une position sera généralement définie comme incluant tout intérêt dans des biens personnels qui sont activement transigés (par exemple, des produits de base), ainsi que les produits dérivés et certaines créances. Une position compensatoire à l'égard d'une position détenue par un contribuable sera généralement une position ayant pour effet d'éliminer la totalité ou la presque totalité du risque de perte et de l'occasion de gain ou de bénéfices relativement à la position.
+[...]
+Cette mesure s'appliquera à toute perte réalisée sur une position prise le jour du budget ou après[157].
+[194] Peu après la publication du budget de 2017, Brian J. Arnold s'est demandé pourquoi il avait fallu tant de temps pour mettre en place de telles mesures :
+[TRADUCTION]
+[...] on établira des règles pour empêcher l'utilisation de positions compensatoires lors d'options doubles afin de reporter l'impôt. Dans l'arrêt Friedberg, [1993] 4 R.C.S. 285, la Cour suprême (le juge Iacobucci) a décidé que les contribuables n'étaient pas tenus d'utiliser la méthode de l'évaluation au cours du marché pour comptabiliser les positions bénéficiaires et les positions déficitaires d'options doubles et que les conséquences fiscales des deux positions pouvaient être établies séparément. Cette décision, rendue oralement à l'audience, était contraire à la réalité économique et au bon sens. Elle permettait aux contribuables de subir des pertes en clôturant les positions déficitaires avant la fin de l'année, mais de reporter la clôture des positions bénéficiaires à l'année suivante.
+Le résultat de l'arrêt Friedberg étant manifestement erroné, pourquoi l'État a‑t‑il laissé cette situation perdurer pendant 25 ans avant d'y remédier? L'intégrité du régime fiscal est mise à mal lorsque l'État permet l'utilisation d'options doubles et d'autres stratégies d'évitement fiscal manifestement artificielles, mais qu'en même temps il parle de l'importance d'empêcher l'évitement fiscal abusif. Mieux vaut tard que jamais, mais je n'accorde pas beaucoup de points à l'État pour avoir enfin fait ce qu'il fallait[158].
+[195] Un autre commentateur, Richard Marcovitz, s'est également montré perplexe quant au moment de l'annonce :
+[TRADUCTION]
+La législation récente montre que le législateur se préoccupe des opérations faisant intervenir des produits dérivés qui créent des avantages fiscaux sans exposer le contribuable à un risque, ou qui permettent à un contribuable d'atteindre un objectif commercial sans les conséquences fiscales normales qui en découlent. Les règles de 2013 relatives aux « arrangements de disposition factices » portent sur les opérations de « monétisation », lors desquelles les contribuables convertissent en espèces un gain non réalisé sur un bien tout en reportant le gain sur la disposition du bien. Les règles de 2015 relatives aux « arrangements de capitaux propres synthétiques » portent sur certaines opérations lors desquelles les sociétés déduisent les dividendes de leur revenu imposable sans être exposées au risque associé à la possession d'une action. Les options doubles, comme celles conclues par le contribuable dans l'arrêt Friedberg, soulèvent des préoccupations analogues et le législateur a finalement réagi en légiférant.
+Une option double simple est une stratégie de planification fiscale par laquelle un contribuable utilise le principe de la réalisation pour créer une perte. Par exemple, un contribuable peut conclure des contrats dérivés compensatoires et régler la position déficitaire la première année et la position bénéficiaire la deuxième année. Si le contribuable calcule son revenu en utilisant le principe de la réalisation, il enregistre une perte la première année, mais ne réalise le revenu qui compense la perte que la deuxième année. Du point de vue comptable, le contribuable ne comptabilisera pas de perte dans ces circonstances, car, en vertu de la comptabilité selon la juste valeur, on comptabilise à la fois la perte réalisée et le gain accumulé au cours de la première année.
+[...] Le législateur a instauré des règles anti‑évitement aux paragraphes 18(17) à (23) pour traiter des options doubles conclues après le 21 mars 2017. La raison pour laquelle le législateur a choisi le budget de 2017 pour mettre fin à la planification des options doubles n'est pas claire, étant donné qu'il y a eu peu de litiges sur le sujet depuis l'arrêt Friedberg en 1993. Les documents du budget de 2017 indiquent que certains contribuables ont conclu des options doubles jumelées à une planification supplémentaire qui leur a permis d'enregistrer une perte tout en faisant qu'une personne indifférente à l'impôt réalise le gain. Ainsi, le législateur se préoccupait manifestement des pertes de recettes qui auraient pu résulter à la fois du report et de l'évitement permanent de l'impôt[159].
+[196] Bien que la règle anti‑évitement précise établie en 2017 annule peut‑être l'arrêt Friedberg de la Cour suprême du Canada (et il faudra répondre à cette question une autre fois), cela ne permet pas au ministre d'établir de nouvelles cotisations pour les années d'imposition antérieures à 2017 comme si l'arrêt Friedberg n'existait pas. Ces modifications ont changé le droit de façon prospective. Elles n'ont pas modifié le droit de manière rétroactive ou rétrospective.
+B. La thèse sur la source et l'arrêt Stewart
+[197] Le ministre a supposé que M. Pat Paletta avait conclu les opérations de change à terme [TRADUCTION] « afin de reporter l'impôt »[160]. Les éléments de preuve montrent que cette hypothèse était fondée.
+[198] M. Pat Paletta a entrepris les options doubles chaque année après 2000 afin de subir des pertes fiscales suffisantes pour compenser a) son revenu provenant d'autres sources pour l'année et b) les gains réalisés lors des opérations de l'année précédente[161].
+[199] L'absence de but commercial ne signifie toutefois pas qu'il n'y a pas eu de source de revenu.
+[200] Pour pouvoir déduire une perte dans le calcul du revenu d'une année d'imposition, il faut qu'il y ait une source de revenu de laquelle cette perte peut être déduite. Dans l'arrêt Stewart, les juges Iacobucci et Bastarache ont présenté de manière très détaillée l'état du droit en matière de source :
+48 À notre avis, pour déterminer si un contribuable a une source de revenu, il faut se fonder sur le texte et l'économie de la Loi.
+49 La Loi fait état de diverses sources de revenu du contribuable. Au chapitre des règles fondamentales de calcul du revenu à l'art. 3, la Loi prévoit :
+3. Le revenu d'un contribuable pour une année d'imposition, aux fins de la présente Partie, est son revenu pour l'année, déterminé selon les règles suivantes :
+a) en calculant le total des sommes qui constituent chacune le revenu du contribuable pour l'année [...], dont la source se situe à l'intérieur ou à l'extérieur du Canada, y compris, sans restreindre la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien; [Nous soulignons.]
+En ce qui a trait aux sources de revenu constituées d'une entreprise ou d'un bien, la règle fondamentale de calcul se trouve à l'art. 9 :
+9.(1) Sous réserve des dispositions de la présente Partie, le revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+(2) Sous réserve des dispositions de l'article 31, la perte subie par un contribuable dans une année d'imposition relativement à une entreprise ou à un bien est le montant de sa perte, si perte il y a, subie dans cette année d'imposition relativement à cette entreprise ou à ce bien, calculée en appliquant mutatis mutandis les dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+50 Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. [...] On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source :
+(i) L'activité du contribuable est‑elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s'il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d'entreprise ou de bien.
+[...]
+52 Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles [...]
+[53] Nous soulignons que ce critère de l'existence d'une source « en vue de réaliser un profit » ne doit faire l'objet d'une analyse que dans les situations où l'activité en cause comporte un aspect personnel ou récréatif. [...] Lorsqu'une activité est clairement de nature commerciale, il n'est pas nécessaire d'analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d'un profit. Il existe donc par définition une source de revenu et il n'est pas nécessaire de pousser l'examen plus loin.
+[...]
+56 [...] l'art. 9 est la disposition de la Loi où est établie la distinction fondamentale entre l'activité personnelle et l'activité commerciale [...]
+60 En résumé, la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l'activité en cause. Lorsque l'activité ne comporte aucun aspect personnel et qu'elle est manifestement commerciale, il n'est pas nécessaire de pousser l'examen plus loin. Lorsque l'activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d'une manière suffisamment commerciale pour constituer une source de revenu. [...]
+61 [...] lorsqu'une activité est nettement commerciale et ne comporte aucun aspect personnel, il n'est pas nécessaire d'aller plus loin. De telles activités sont des sources de revenu.
+62 [...] À notre avis, une activité de location de bien qui ne comporte aucun élément d'usage ou d'avantage personnel pour le contribuable est nettement une activité commerciale. [...]
+65 Pour répondre à cet argument, il faut se rappeler que le sous‑al. 20(1)c)(i) n'est pas un mécanisme d'évitement fiscal et qu'il est établi que, compte tenu de l'existence de dispositions anti‑évitement particulières dans la Loi, les tribunaux ne devraient pas s'empresser de renforcer les dispositions de la Loi lorsque des inquiétudes sont exprimées concernant l'évitement de l'impôt : Ludco, précité, par. 39; Neuman c. M.R.N., [1998] 1 R.C.S. 770, par. 63. En outre, dans l'arrêt connexe Walls c. Canada, [2002] 2 R.C.S. 684, 2002 CSC 47, nous soulignons, au par. 22, qu'une motivation d'ordre fiscal n'enlève rien à la validité d'opérations effectuées à des fins fiscales. Ainsi, l'espoir de l'appelant de réaliser éventuellement un gain en capital et la perspective de déduire des frais d'intérêts n'affecte pas la nature commerciale de son entreprise de location ni sa qualification de source de revenu. De plus, dans l'arrêt Ludco, précité, par. 59, notre Cour a expressément dit que le sous‑al. 20(1)c)(i) n'oblige pas le contribuable à réaliser un profit net pour que l'intérêt soit déductible :
+Le sens ordinaire [du sous-al. 20(1)c)(i)] n'appuie pas l'interprétation selon laquelle « revenu » équivaut à « profit » ou à « revenu net ». Le texte de la disposition ne propose aucun critère quantitatif. Le texte de la Loi n'appuie pas non plus une interprétation du mot « revenu » qui impliquerait que le tribunal doit se demander si le revenu a un caractère suffisant. Une telle approche serait trop subjective et la certitude doit être privilégiée en droit fiscal. En l'absence d'un trompe‑l'oeil, d'un artifice ou d'autres circonstances viciant l'opération, les tribunaux ne devraient donc pas se demander si le revenu escompté ou touché a un caractère suffisant. [Nous soulignons.]
+[Non souligné dans l'original.]
+[201] L'enseignement le plus important de l'arrêt Stewart aux fins qui nous intéressent ici est le suivant : il y a une source de revenu si l'activité est clairement commerciale et qu'il n'y a aucun élément personnel.
+[202] La Cour suprême du Canada a confirmé cette conclusion dans l'arrêt Walls c. Canada, 2002 CSC 47, [2002] 2 R.C.S. 684, où elle a clairement indiqué que le critère de l'arrêt Stewart s'appliquait même si l'activité en question était entièrement motivée par des raisons fiscales :
+19 Le critère applicable pour déterminer si les activités d'un contribuable sont une source de revenu constituée d'une entreprise ou d'un bien pour l'application de l'art. 9 de la Loi est énoncé en ces termes dans l'arrêt Stewart, précité, par. 50 :
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit‑il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+Nous avons en outre précisé, au par. 53 de cet arrêt, que le premier volet de ce critère ne s'appliquera que si l'activité en cause comporte un aspect personnel ou récréatif. Lorsqu'une activité est nettement commerciale, le contribuable cherche nécessairement à réaliser un profit et il existe donc une source de revenu.
+[...]
+22 Même si les intimés en l'espèce étaient clairement motivés par des considérations fiscales lorsqu'ils ont acquis leur participation dans la société, cela n'enlève rien à la nature commerciale de l'exploitation du parc d'entreposage ni à sa qualification de source de revenu pour l'application de l'art. 9 de la Loi. Il est bien établi qu'une motivation d'ordre fiscal n'enlève rien à la validité d'opérations effectuées à des fins fiscales : Backman c. Canada, [2001] 1 R.C.S. 367, 2001 CSC 10, par. 22; Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622; Canada c. Antosko, [1994] 2 R.C.S. 312; Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, p. 540. Nous réitérons aussi la mise en garde faite dans l'arrêt Stewart, précité, par. 65, selon laquelle, compte tenu de l'existence de dispositions anti‑évitement particulières dans la Loi, les tribunaux ne devraient pas s'empresser de renforcer les dispositions de la Loi lorsque des inquiétudes sont exprimées concernant l'évitement de l'impôt : voir également Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, 2001 CSC 62, par. 39; Neuman c. M.R.N., [1998] 1 R.C.S. 770, par. 63[162].
+[Non souligné dans l'original.]
+[203] Dans la décision Drouin c. La Reine, 2013 CCI 139, le juge Bédard de notre Cour a résumé le ratio decidendi de ces deux décisions jumelles :
+[193] Il ressort essentiellement de ces deux arrêts que les critères de l'expectative raisonnable de profit et de la conformité du contribuable « à des normes objectives de comportement d'hommes d'affaires sérieux » ne sont pertinents que lorsqu'il s'agit de distinguer une entreprise d'une activité récréative. Lorsqu'une activité de type commercial ne peut être considérée comme une activité personnelle, les critères ne sont pas pertinents (Stewart, par. 47, repris dans l'arrêt Water's Edge Village Estates (Phase II) Ltd. c. La Reine, [2003] 2 C.F. 25, par. 24).
+[204] Les opérations de change à terme sont, par leur nature même, des activités commerciales. En outre, il y a toujours une différence positive ou négative entre la valeur de la position déficitaire et celle de la position bénéficiaire à un moment donné. En ce qui concerne M. Pat Paletta, il n'y avait pas d'élément personnel ou d'activité récréative. Ainsi, le premier critère de l'arrêt Stewart est rempli. L'arrêt Stewart nous indique clairement que l'analyse de la source dans de telles circonstances doit s'arrêter là.
+C. La thèse sur la source et le risque
+[205] La Couronne a fait valoir qu'il n'y avait pas de source de revenu puisque les opérations ne comportaient aucun risque.
+[206] Cette thèse de la Couronne va à l'encontre de l'hypothèse de fait du ministre lui‑même selon laquelle il y avait une faible perte économique. Elle est également incompatible avec le témoignage de M. Pavlov selon lequel il y avait un certain risque, bien que celui‑ci fût négligeable.
+[207] Le ministre a supposé que [TRADUCTION] « les opérations étaient couvertes en permanence de manière à maintenir un faible écart économique net entre le total des positions bénéficiaires et des positions déficitaires » des opérations[163]. Plus précisément, le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]es frais ou le coût pour l'appelante étaient un pourcentage de la perte créée par Tim Hodgins pour l'appelante chaque année (c'est‑à‑dire environ 1 % de chaque perte ainsi créée) [...] Les frais étaient, en réalité, équivalant à la « perte » économique (c.‑à‑d. la différence) découlant de la prétendue réalisation de la position déficitaire et de la position bénéficiaire légèrement plus petite créée pour chaque option double[164]. [...]
+[208] Le ministre a supposé que M. Pat Paletta avait subi une « perte économique » approximativement égale aux frais de 1 % qu'il avait payés pour les pertes fiscales chaque année[165]. Le ministre a également supposé que M. Hodgins avait veillé à ce que la « perte économique » de M. Pat Paletta ne dépasse pas les frais de 1 % qui lui avaient été facturés pour les pertes fiscales[166].
+[209] Pour régler cette incohérence, la Couronne a fait valoir que la faible perte économique subie par M. Pat Paletta était insuffisante pour constituer une source de revenu au sens de la Loi. J'estime qu'un tel critère n'existe pas en droit fiscal canadien. En fait, il ressort clairement de l'arrêt Stewart qu'il n'existe aucun critère du « caractère suffisant » à cet égard[167].
+D. Le trompe‑l'œil
+[210] Que l'argument du trompe‑l'œil soit l'argument principal de la Couronne (comme dans la réponse modifiée) ou qu'il soit invoqué à l'appui de l'argument relatif à la source de la Couronne (comme il l'a été dans les observations finales), il mérite une certaine analyse.
+[211] Les deux décisions les plus récentes de notre Cour sur le trompe‑l'œil sont Paletta c. La Reine, 2019 CCI 205, et Agracity Ltd. c. La Reine, 2020 CCI 91. Dans la décision Paletta, le juge Hogan a exposé les principes directeurs :
+[121] Il semble qu'il n'y a pas controverse entre les parties quant au sens du mot « trompe‑l'œil ». Elles ont toutes les deux cité l'arrêt Snook v. London & West Riding Investments, Ltd. Dans l'arrêt Snook, le lord juge Diplock a observé que l'expression « trompe‑l'œil » :
+[...] signifie des actes faits ou des documents signés par les parties à la « frime », dans l'intention de faire croire à des tiers ou à la cour qu'ils créent entre les parties des obligations et droits légaux différents des obligations et droits légaux réels (s'il en est) que les parties ont l'intention de créer. Je crois qu'il y a cependant une chose qui est claire sur le plan des principes juridiques, de la moralité et de la jurisprudence [...] pour qu'un acte ou un document constitue un « trompe‑l'œil » — avec les conséquences juridiques qui peuvent en découler — toutes les parties à cet acte ou à ce document doivent avoir l'intention commune de ne pas créer les droits et les obligations qu'ils font croire qu'ils créent. Aucune intention non exprimée de l'auteur d'un « trompe‑l'œil » n'a d'effet sur les droits du tiers qu'il a dupé [...]
+[122] La jurisprudence canadienne a retenu la définition de trompe‑l'œil consacrée par l'arrêt Snook en 1972. La Cour suprême du Canada a réaffirmé et suivi cette définition de l'expression « trompe‑l'œil » dans l'arrêt Stubart Investments Ltd. c. La Reine. Dans l'arrêt Stubart, le juge Estey a défini le trompe‑l'œil de la façon suivante :
+[...] une opération assortie d'un élément de tromperie de manière à créer une illusion destinée à cacher au percepteur le contribuable ou la nature réelle de l'opération, ou un faux-semblant par lequel le contribuable crée une apparence différente de la réalité qu'elle sert à masquer [...]
+[123] Deux décisions plus récentes du juge Noël de la Cour d'appel fédérale discutent le mot « trompe‑l'œil ». Dans l'arrêt Antle c. Canada, il a observé, en opinion incidente :
+[...] L'intention ou l'état d'esprit requis n'équivaut pas à une intention coupable et ne saurait aller jusqu'à constituer ce qui, en common law, est le délit de dol [...] Il suffit que les parties à une opération la présentent comme différente de la réalité qu'elles connaissent [...]
+[124] Dans l'arrêt 2529‑1915 Québec Inc. c. Canada, il a observé :
+[59] L'existence d'une frime en droit canadien exige donc en vue des définitions qui précèdent un élément de déception qui se manifeste règle générale par une fausse représentation par les parties de la transaction réelle intervenue entre elles. Dans ces circonstances, les tribunaux retiendront la transaction réelle et mettront de côté celle qui fut représentée comme étant la vraie.
+[125] En matière fiscale, le juge fera un constat de trompe‑l'œil lorsque les éléments de preuve montrent que les parties ont fait une présentation erronée de leurs accords dans l'espoir d'obtenir un avantage fiscal qui serait refusé si la nature de leurs accords était dûment divulguée. En matière fiscale, la partie trompée est l'Agence du revenu du Canada (l'« ARC »).
+[126] Dans le cas du trompe‑l'œil, le juge doit examiner la réalité objective qui entoure les accords afin de déterminer si les documents relatifs aux opérations reflètent vraiment l'intention des parties. La preuve directe de l'existence d'un trompe-l'œil est rare lorsqu'une affaire est entendue par le juge. En l'absence de la reconnaissance de l'existence d'un trompe‑l'œil, le juge doit apprécier la preuve indirecte.
+[...]
+[129] Je souligne une chose : la recherche de la réalité objective d'une opération n'amalgame pas un trompe‑l'œil (c.‑à‑d. une présentation erronée et une tromperie) et les notions de « réalité économique » ou d'« objectif commercial ». Le droit est bien fixé : une opération ne constitue pas un trompe‑l'œil au motif qu'elle est dépourvue d'une réalité économique, d'un objectif commercial ou qu'elle sert un objectif d'évitement fiscal. Je rechercherai plutôt si les parties ont fait une présentation erronée à l'ARC de la nature de leurs accords.
+[130] Un dernier point : il convient d'opérer une distinction entre le trompe‑l'œil et l'abus. Le trompe‑l'œil n'est pas un stratagème global qui est abusif; il est question de parties qui ont fait une présentation erronée de l'effet juridique d'une opération. [...]
+[Non souligné dans l'original.]
+[212] Dans la décision Agracity, le juge Boyle a également fait une mise en garde :
+[20] Une allégation de trompe‑l'œil est grave et requiert des éléments de preuve convaincants pour justifier une conclusion qu'un contribuable canadien a eu un comportement trompeur, selon la prépondérance des probabilités. Souvent, cela peut comprendre des éléments de preuve circonstanciels. On peut s'attendre à ce que cela exige plus que les soupçons de l'intimée[168].
+[213] En l'espèce, les hypothèses du ministre sur le trompe‑l'œil comprenaient les suivantes :
+[TRADUCTION]
+L'appelante et les Hodgins ont agi de concert pour tromper le ministre[169].
+[...]
+L'appelante et Tim Hodgins (UCAL/IFX/ODL) agissaient de concert, selon une position commune, pour tromper le ministre. À tout le moins, UCAL/IFX/ODL (Tim Hodgins) a aidé l'appelante à tromper le ministre[170].
+[...]
+Les prétendus droits et obligations découlant des prétendus contrats de change n'étaient pas les droits et obligations réels voulus et mis en œuvre par les parties[171].
+[Non souligné dans l'original.]
+[214] Le ministre a supposé que le trompe‑l'œil avait eu pour effet que M. Pat Paletta ne négociait pas réellement des contrats de change à terme[172].
+[215] Les actes de procédure n'indiquaient pas clairement si le ministre avait supposé que M. Hodgins avait falsifié les documents sur les négociations (et que cela était le trompe‑l'œil) ou si l'absence d'« objectif commercial » était le trompe‑l'œil. Au vu des éléments de preuve, la première affirmation est inexacte. En droit, la deuxième affirmation ne peut pas être retenue.
+[216] Le fait que les opérations n'ont pas eu lieu en bourse (ou sur un « marché ouvert », comme l'indique le ministre) semble avoir éveillé les soupçons du ministre, du moins en partie. Les opérations ont plutôt eu lieu sur le marché de gré à gré, où une partie négocie des contrats directement avec une autre.
+[217] Il pourrait très bien y avoir des occasions de falsifier des opérations sur le marché de gré à gré, mais la Couronne n'a produit aucune preuve que cela s'est produit en l'espèce[173].
+[218] La Couronne n'a apporté aucun élément de preuve de la falsification des opérations en cause. La possibilité théorique d'une falsification ne satisfait pas au fardeau de la preuve incombant à la Couronne après que l'appelante a présenté des éléments de preuve suffisants qui m'ont convaincu, selon la prépondérance des probabilités, que les opérations ont réellement eu lieu.
+[219] L'appelante a présenté des éléments de preuve crédibles fournis par le directeur général de chaque société de courtage et démontrant, selon la prépondérance des probabilités, que leurs sociétés étaient de véritables sociétés de courtage et que chacune, à divers moments, était une contrepartie aux opérations en cause sur le marché de gré à gré avec M. Pat Paletta.
+[220] L'appelante a également présenté des éléments de preuve de M. Hodgins, que j'ai également trouvé crédible, selon lesquels M. Hodgins et son père menaient leur propre activité au sein de chacune de ces sociétés de courtage. Leur activité consistait notamment à agir en qualité de mandataire de M. Pat Paletta dans la planification et l'exécution de ses options doubles avec chacune des sociétés de courtage comme contreparties. Il a expliqué en détail la façon dont il exécutait les opérations.
+[221] Avant d'exécuter une opération, M. Hodgins remplissait une fiche d'ordre exposant les détails de l'opération proposée et apportait cette fiche au bureau approprié de la société de courtage afin d'obtenir un prix[174]. Les sociétés de courtage n'autorisaient pas M. Hodgins à fixer lui‑même le prix de l'opération[175]. Si M. Hodgins acceptait le prix que lui proposait la société de courtage pour l'opération, celle‑ci était exécutée entre M. Hodgins (au nom de M. Pat Paletta) et le bureau de négociation approprié (au nom de la société de courtage).
+[222] La crédibilité des éléments de preuve fournis par M. Hodgins a été renforcée par l'honnêteté avec laquelle il a admis certaines erreurs de calcul. Les sommes qui ont été inscrites dans les déclarations de M. Pat Paletta en tant que revenu provenant d'opérations de change à terme provenaient des documents de négociation envoyés par M. Hodgins à M. Angelo Paletta, qui les a remis aux comptables.
+[223] Lorsqu'on lui a demandé au procès de recalculer les sommes qui auraient dû être inscrites dans ces déclarations en se fondant sur les documents de négociation déposés en preuve, M. Hodgins l'a fait et a admis honnêtement qu'il avait fait un certain nombre d'erreurs de calcul dans sa déclaration initiale. Au procès, les deux parties ont reconnu que les sommes recalculées par M. Hodgins étaient les sommes réelles en litige.
+[224] L'appelante s'est acquittée de son fardeau de prouver le caractère véritable de chacune des sociétés de courtage et de M. Hodgins et de démontrer, selon la prépondérance des probabilités, que les documents de négociation ne contenaient rien de délibérément faux ou trompeur. Ce faisant, elle a en fait démoli les hypothèses du ministre sur le trompe‑l'œil.
+[225] Je me prononce en faveur de l'appelante sur la question du trompe‑l'œil. Rien ne prouve que M. Hodgins ait falsifié l'une ou l'autre des opérations. Les parties aux opérations n'ont pas présenté leurs droits et obligations juridiques au ministre d'une manière différente de celle dont elles les comprenaient elles‑mêmes. Aucune des contreparties n'a cherché à tromper qui que ce soit.
+[226] Avant de terminer l'analyse de l'argument de la Couronne concernant le trompe‑l'œil, je vais commenter brièvement chacune des allégations précises de trompe‑l'œil de la Couronne.
+(1) Absence d'objectif commercial
+[227] Il ne fait aucun doute que les options doubles n'avaient aucun objectif commercial. Leur seul but était de permettre à M. Pat Paletta de déclarer des pertes autres qu'en capital qu'il pouvait utiliser pour compenser son revenu imposable chaque année.
+[228] Cette conclusion, cependant, ne fait pas avancer la cause de la Couronne, pour deux raisons :
+1. il n'existe pas de critère d'objectif commercial en droit fiscal canadien[176];
+2. l'absence d'objectif commercial ne constitue pas un trompe-l'œil[177].
+(2) Ententes avec le client
+[229] Le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]es [...] documents d'ouverture de compte [...] étaient un trompe‑l'œil visant à donner l'impression que l'appelante avait réellement ouvert un compte auprès de chacune des sociétés de courtage à tour de rôle et avait commencé à négocier légitimement des contrats de change [...][178]
+[230] Les éléments de preuve montrent que M. Pat Paletta a bien ouvert un compte chez chacune des sociétés de courtage en signant leurs ententes avec le client et en déposant la marge requise.
+[231] La Couronne n'a présenté aucun élément de preuve indiquant que les ententes avec le client que M. Pat Paletta a signées avec chacune des sociétés de courtage n'étaient pas ce qu'elles semblaient être.
+(3) Les montants de la marge
+[232] Le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]a prétendue exigence de marge était un trompe‑l'œil et les sommes envoyées à UCAL/IFX/ODL au titre de la prétendue marge n'étaient que de simples artifices destinés à donner l'impression que les comptes de l'appelante étaient des comptes de négociation normaux[179].
+[233] La Couronne a fait valoir que les contrats étaient un trompe‑l'œil parce que M. Pat Paletta n'avait pas la capacité financière d'effectuer la livraison des devises qu'il avait contractuellement convenu de livrer à sa contrepartie à la date de règlement de chaque contrat.
+[234] Cet argument révèle une incompréhension fondamentale des opérations de change à terme et du rôle de la marge dans ces opérations. Les directeurs généraux des sociétés de courtage ont témoigné que leurs sociétés accordaient souvent une marge afin de permettre à leurs clients de négocier des contrats pour des sommes nettement supérieures à leurs soldes de marge. Au vu des éléments de preuve, il s'agit d'une pratique courante dans le secteur. L'un des directeurs généraux a témoigné qu'il appartenait à la société de courtage, à sa discrétion, de déterminer le montant de la marge requise et de décider de faire un appel de marge à un moment donné[180].
+[235] Le montant modeste de la marge requise pour soutenir les options doubles était également conforme au témoignage de M. Pavlov. Si le risque pris par M. Pat Paletta dans ses options doubles était négligeable, comme l'a conclu M. Pavlov, le montant de la marge requise aurait dû être négligeable également.
+(4) Les lettres de crédit irrévocables
+[236] La Couronne n'a présenté aucun élément de preuve indiquant que les lettres de crédit irrévocables n'étaient pas ce qu'elles semblaient être[181]. La Banque Royale du Canada a‑t‑elle collaboré avec M. Pat Paletta, M. Hodgins et les sociétés de courtage pour tromper le ministre? Compte tenu des éléments de preuve dont je dispose, cette idée ne peut pas être retenue.
+[237] Le fait qu'il n'y a eu aucune demande de paiement des lettres de crédit irrévocables ne signifie pas qu'elles étaient un trompe‑l'œil. Cela signifie simplement que les sociétés de courtage étaient à l'aise avec le montant de la marge qu'elles détenaient compte tenu de leur évaluation selon laquelle les options doubles de M. Pat Paletta présentaient pour elles un risque négligeable.
+(5) Les confirmations et les résumés des opérations
+[238] Le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]a prétendue activité de négociation et les prétendus contrats de change figurant dans les relevés de UCAL/IFX/ODL fournis par l'appelante étaient destinés à tromper le ministre[182].
+[239] Les éléments de preuve des experts en opérations de change à terme démontrent que les confirmations d'opérations sont exactement comme on pourrait s'y attendre. Plus précisément, les confirmations d'opérations comprennent tous les renseignements nécessaires pour effectuer une opération, à savoir :
+1. le nom de chaque contrepartie;
+2. la date à laquelle le contrat a été conclu;
+3. la date de règlement du contrat;
+4. les devises achetées et vendues;
+5. la quantité de devises que chaque contrepartie doit livrer à la date de règlement;
+6. le taux de change convenu par les contreparties.
+[240] Il est vrai que les confirmations d'opérations, ainsi que les résumés de ces confirmations, auraient pu être plus faciles à lire. Ces résumés comportaient parfois des erreurs. Cela ne fait cependant pas d'un groupe entier de documents un trompe‑l'œil[183].
+(6) La clôture
+[241] Le ministre a supposé ce qui suit :
+[TRADUCTION]
+[l]es prétendus droits et obligations découlant des prétendus contrats de change n'étaient pas les droits et obligations réels voulus et mis en œuvre par les parties[184].
+[242] La Couronne a fait valoir que les contrats étaient un trompe‑l'œil parce que M. Pat Paletta n'a jamais eu l'intention de satisfaire aux conditions des contrats en livrant les devises pertinentes à la date de règlement de chaque contrat.
+[243] Le témoignage des experts en négociation de contrats de change à terme montre clairement qu'en négociant des contrats de change à terme sur le marché de gré à gré, il n'y avait aucune attente, et encore moins une obligation juridique, qu'une contrepartie tienne un contrat donné jusqu'à sa date de règlement ou qu'elle livre, à cette date, les devises qu'elle avait convenu de livrer. Les témoignages d'experts montrent clairement que ces contrats peuvent être clôturés avant leur date de règlement[185].
+E. L'artifice
+[244] Le ministre a supposé ce qui suit :
+[TRADUCTION]
+[...] [l]es contrats, les relevés de compte et les paiements de marge n'étaient, en eux‑mêmes, qu'un artifice destiné à donner l'impression que l'appelante prenait part à des activités légitimes de commerce de devises alors que ce n'était pas le cas en réalité[186].
+[...] [l]es contrats d'option et les contrats à terme de gré à gré sur devises prétendument conclus par l'appelante n'étaient qu'un artifice destiné à donner l'apparence d'une activité de négociation[187].
+[Non souligné dans l'original.]
+[245] La Couronne a fait valoir qu'il existe au Canada la règle judiciaire anti‑évitement de l'« artifice » et que cette règle est différente de celle du trompe‑l'œil. La Couronne n'a toutefois pas invoqué d'autorité contraignante établissant que l'« artifice » est une règle judiciaire anti‑évitement autonome.
+[246] Lorsque les tribunaux utilisent le terme « artifice », ils le font généralement pour mettre en évidence certains aspects d'un trompe‑l'œil destiné à donner aux autres une fausse image de la véritable relation juridique entre les parties. C'est ce qui ressort de l'hypothèse du ministre selon laquelle :
+[TRADUCTION]
+[l]a prétendue exigence de marge était un trompe‑l'œil et les sommes envoyées à UCAL/IFX/ODL au titre de la prétendue marge n'étaient que de simples artifices destinés à donner l'impression que les comptes de l'appelante étaient des comptes de négociation normaux[188].
+[Non souligné dans l'original.]
+[247] La meilleure façon de conclure mon analyse du trompe‑l'œil est de reprendre les propos tenus par le juge Owen dans la décision Cameco Corporation c. La Reine, 2018 CCI 195. Je conclus que M. Pat Paletta et les sociétés de courtage :
+[670] [...] n'ont pas présenté factuellement les nombreuses ententes juridiques qu'[ils] ont conclues et les opérations en découlant comme différentes de la réalité qu'[ils] connaissaient. Par conséquent, l'élément de tromperie nécessaire à une conclusion de trompe‑l'œil est tout simplement inexistant[189].
+F. Opérations sans effet
+[248] Le ministre a supposé que les opérations de chevauchement étaient sans effet juridique. Dans une hypothèse mixte de fait et de droit, le ministre a supposé que :
+[TRADUCTION]
+[l]es éléments de base d'un contrat (une opération) n'étaient pas présents dans ces prétendues opérations de change. Il n'y a eu ni offre ni acceptation entre les parties. Tim Hodgins (UCAL/IFX/ODL) a conclu les deux côtés des contrats de change et a fait en sorte qu'ils soient prétendument exécutés[190].
+[249] Dans une étrange hypothèse, il a été avancé que le ministre avait fait une supposition quant au caractère suffisant des éléments de preuve :
+[...] [i]l y avait peu d'éléments de preuve pour croire qu'une relation de négociation juridiquement contraignante avait été établie entre les parties à un moment donné (c.‑à‑d. entre l'appelante et UCAL/IFX/ODL)[191].
+[250] Quoi qu'il en soit, le ministre a supposé que M. Hodgins négociait avec lui‑même, car il était le seul à décider des modalités de chaque contrat. Si M. Hodgins négociait avec lui‑même, alors M. Pat Paletta n'a pas négocié du tout et, par conséquent, n'a enregistré aucune des pertes déclarées.
+[251] Cette hypothèse est par ailleurs fondée sur l'hypothèse du ministre selon laquelle M. Hodgins et son père ont [TRADUCTION] « agi en tant que représentants » de chacune des trois sociétés de courtage qui étaient les contreparties de M. Pat Paletta dans ses opérations[192]. Le ministre a supposé ce qui suit :
+Tim Hodgins était en tout temps le représentant d'UCAL/IFX/ODL en ce qui concerne les opérations de l'appelante avec chaque société de courtage[193].
+[Non souligné dans l'original.]
+[252] Le ministre a supposé que, pendant toute la période pertinente, M. Hodgins était [TRADUCTION] « le représentant » de Union Cal Limited en ce qui concerne toutes les opérations de change à terme de M. Pat Paletta[194], que M. Hodgins et son père [TRADUCTION] « étaient des représentants autorisés de Union Cal Limited »[195], et qu'après avoir quitté IFX Ltd., M. Hodgins et son père étaient devenus des [TRADUCTION] « courtiers représentants » de ODL Securities Ltd[196].
+[253] Le ministre a supposé que M. Hodgins agissait en même temps au nom de M. Pat Paletta et au nom des sociétés de courtage. Les éléments de preuve montrent cependant que M. Hodgins a agi uniquement en qualité de mandataire de M. Pat Paletta. Ils ne montrent pas qu'il a agi en qualité de mandataire des sociétés de courtage. M. Hodgins et son père avaient un accord de participation aux bénéfices avec chacune des sociétés de courtage, mais cela ne fait pas d'eux des mandataires de ces sociétés.
+[254] Le ministre a supposé (ce qui n'est pas non plus une hypothèse de fait, mais, au mieux, une hypothèse de fait et de droit) que :
+[TRADUCTION]
+[l]es contrats de change que l'appelante a prétendument conclus avec UCAL/IFX/ODL n'avaient aucun effet juridique[197].
+[255] Aucun élément de preuve n'a démontré que les contrats de change à terme n'avaient aucun effet juridique. Tous les éléments de preuve indiquent le contraire, à savoir qu'ils avaient un effet juridique conformément à leurs modalités.
+G. Les années d'imposition frappées de prescription
+[256] Étant donné que le ministre a établi une nouvelle cotisation pour chacune des années d'imposition en cause après la période normale de nouvelle cotisation, il incombait à la Couronne de prouver, selon la prépondérance des probabilités, que pour chaque année a) M. Pat Paletta avait fait une présentation erronée des faits dans sa déclaration, b) cette présentation erronée était imputable à la négligence, à l'inattention ou à une omission volontaire.
+[257] L'appelante a reconnu certaines erreurs de calcul du fait que M. Hodgins a recalculé, au procès, le montant des gains et des pertes pour les années d'imposition 2001 à 2007. L'appelante a admis que les sommes indiquées dans les déclarations de M. Pat Paletta pour ces années constituaient, par conséquent, des présentations erronées des faits. Plus précisément, l'appelante n'a pas contesté :
+[TRADUCTION]
+[...] que les montants des gains et des pertes déclarés par M. Paletta en ce qui concerne les opérations ne correspondaient pas toujours aux gains et aux pertes des opérations calculés par M. Hodgins. Par conséquent, à l'exception de l'année d'imposition 2000, l'appelante ne contestera pas la conclusion selon laquelle la Couronne a satisfait à la première partie du critère, c'est‑à‑dire qu'il y a eu une présentation erronée des faits au cours des années d'imposition 2001 à 2007[198].
+[258] Les questions en litige sont donc les suivantes :
+1. la question de savoir si l'une ou l'autre des présentations erronées des faits admises était attribuable à la négligence, à l'inattention ou à une omission volontaire;
+2. la question de savoir si M. Pat Paletta a fait d'autres présentations erronées des faits et si l'une ou l'autre de ces présentations erronées est imputable à la négligence, à l'inattention ou à une omission volontaire.
+[259] La Couronne n'a pas prouvé, selon la prépondérance des probabilités, que l'une ou l'autre des présentations erronées des faits admises était imputable à la négligence, à l'inattention ou à une omission volontaire[199]. M. Pat Paletta n'a pas fait preuve de négligence ou d'inattention en supposant que les sommes calculées par M. Hodgins étaient exactes à l'époque, même si M. Hodgins a corrigé ces sommes lors du procès.
+[260] Toutefois, la Couronne a prouvé, selon la prépondérance des probabilités, que M. Pat Paletta avait déclaré un revenu beaucoup trop faible pour l'année d'imposition 2002 et que cette omission était imputable, à tout le moins, à sa propre inattention ou à sa négligence.
+[261] La juge D'Auray a récemment examiné la jurisprudence pertinente dans la décision Hansen c. La Reine, 2020 CCI 102 :
+[75] Lorsque le ministre établit une cotisation à l'égard d'un contribuable après la période normale de nouvelle cotisation, il doit démontrer que le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire. Il ressort clairement de la jurisprudence que le ministre ne peut établir de nouvelles cotisations à l'égard d'années frappées de prescription simplement parce qu'il n'est pas d'accord avec la manière dont le contribuable a déclaré son revenu.
+[76] Selon la jurisprudence, il n'y a pas eu présentation erronée des faits au sens du sous‑alinéa 152(4)a)(i) de la Loi si le contribuable a déclaré son revenu de façon raisonnable. Ce raisonnement se trouve dans la décision Regina Shoppers Mall Ltd. c. La Reine, où le juge Addy de la Cour fédérale a déclaré que le ministre ne peut établir de nouvelle cotisation après la période normale de cotisation lorsque le contribuable, après un examen réfléchi et attentif de la situation, évalue celle‑ci et produit une déclaration selon la méthode que, de bonne foi, il croit appropriée :
+10. Lorsque le contribuable, après un examen réfléchi et attentif de la situation, évalue celle‑ci et produit une déclaration selon la méthode qu'en bonne foi il croit appropriée, il ne peut y avoir présentation erronée des faits au sens de l'article 152 (1056 Enterprises Ltd. c. La Reine, [1989] 2 C.T.C. 1). Dans la décision Joseph Levy c. La Reine, [1989] C.T.C. 151, à la page 176, le juge Teitelbaum cite en l'approuvant la déclaration suivante du juge Muldoon dans l'affaire précitée :
+Le paragraphe 152(4) protège ce genre de conduite et peut‑être uniquement ce genre de conduite, dans les cas où le contribuable, après un examen réfléchi et attentif de la situation, évalue celle-ci comme étant un cas où la loi n'exige pas la déclaration d'un lien lorsque le contribuable croit de bonne foi que ce lien n'existe pas.
+[...]
+[82] Il ressort clairement des décisions précitées que le simple fait que le contribuable ait adopté une thèse qui va à l'encontre de celle du ministre ne signifie pas en soi que le contribuable a fait une interprétation erronée des faits qui autoriserait le ministre à établir une nouvelle cotisation après la période normale de nouvelle cotisation du contribuable.
+[...]
+[86] La question que je dois trancher est de savoir si M. Hansen a fait une analyse réfléchie, prudente et délibérée de sa situation et a produit ses déclarations de revenus selon la méthode qu'il croyait de bonne foi appropriée.
+[Non souligné dans l'original.]
+[262] La question est de savoir si M. Pat Paletta a fait un examen réfléchi et attentif de sa situation, l'a bien évaluée et a produit ses déclarations de revenus selon la méthode qu'il croyait de bonne foi appropriée. J'ai conclu, au vu des éléments de preuve, que M. Pat Paletta ne l'a pas fait à l'égard de son année d'imposition 2002.
+[263] D'après le témoignage de M. Angelo Paletta, il est clair que lui et M. Pat Paletta connaissaient la méthode du projet fiscal :
+1. Avant la fin de l'année, les positions déficitaires des options doubles étaient clôturées de manière à enregistrer la perte cible pour l'année.
+2. Peu après le début de l'année d'imposition suivante, les positions bénéficiaires étaient clôturées et réalisées : ils savaient tous deux que ces gains devaient être inclus dans le calcul du revenu pour l'année d'imposition suivante.
+3. La perte cible pour l'année d'imposition suivante mettait à l'abri a) les gains réalisés plus tôt dans l'année d'imposition et b) le revenu imposable que M. Pat Paletta prévoyait recevoir cette année‑là[200].
+[264] Le même cycle de négociation s'est répété année après année, sans exception, après l'année d'imposition 2000 (la première année de négociation).
+[265] Dans sa déclaration de revenus de 2002, M. Pat Paletta a déclaré un revenu bien trop faible. Il a déclaré une perte de 10 007 726 $ résultant d'opérations de change à terme[201]. La perte qu'il pouvait déclarer n'était que de 1 976 882 $[202]. M. Pat Paletta n'a pas déclaré un revenu de 8 030 844 $ provenant des opérations de change à terme parce qu'il n'a pas tenu compte des gains réalisés plus tôt en 2002, alors qu'il savait qu'ils devaient être inclus dans le calcul du revenu pour son année d'imposition 2002. On ne peut pas sérieusement alléguer que M. Pat Paletta ignorait cette exigence fondamentale du projet, d'autant plus que M. Angelo Paletta a témoigné que son père était [TRADUCTION] « un génie des chiffres » et que [TRADUCTION] « son cerveau était un ordinateur »[203].
+[266] Avant de clore l'examen de la question de la prescription, j'ai examiné attentivement la question de savoir si le report d'une partie de la perte surévaluée de 2002 à l'année d'imposition 2005 aux termes de l'article 111 de la Loi était attribuable à l'inattention ou à la négligence de M. Pat Paletta pour son année d'imposition 2005. J'ai conclu que ce n'était pas le cas. Rien ne prouvait que le report des pertes d'une année sur l'autre était l'un des éléments du projet dont M. Pat Paletta avait connaissance, ou aurait dû avoir connaissance, lorsqu'il a produit sa déclaration pour 2005. Il n'y avait pas non plus de preuve qu'il avait utilisé des reports dans le passé ou qu'il avait une connaissance générale du concept du report d'une partie d'une perte à une année d'imposition ultérieure aux termes de l'article 111 de la Loi, ni même qu'il était au courant de l'existence de ce concept.
+H. Les pénalités pour faute lourde
+[267] La juge D'Auray a récemment examiné la jurisprudence pertinente concernant le paragraphe 163(2) dans la décision Hansen :
+[110] Le paragraphe 163(2) de la Loi autorise le ministre à imposer une pénalité au contribuable qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans sa déclaration de revenus. Cette disposition est ainsi libellée :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[...]
+[111] Selon le paragraphe 163(3) de la Loi, l'intimée a la charge de prouver, selon la prépondérance des probabilités, les faits justifiant l'imposition d'une pénalité.
+[112] Dans le présent appel, l'intimée doit donc établir :
+– que M. Hansen a fait un faux énoncé ou une omission dans ses déclarations de revenus;
+– qu'il l'a fait sciemment ou dans des circonstances équivalant à faute lourde.
+[113] La notion de « faute lourde » diffère de « sciemment » et d'« aveuglement volontaire ».
+[114] Dans Bradshaw c. La Reine, j'ai examiné l'arrêt Wynter c. La Reine de la Cour d'appel fédérale au sujet de la règle de l'aveuglement volontaire :
+[41] Dans l'arrêt Wynter, le juge Rennie explique que l'on considère qu'un contribuable a agi « sciemment » non seulement lorsqu'il a réellement l'intention de faire un faux énoncé, mais également lorsqu'il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu'il ne veut pas connaître la vérité ou qu'il évite soigneusement de la connaître. Dans ces circonstances, le principe de l'ignorance volontaire impute une connaissance au contribuable :
+[13] Un contribuable fait preuve d'ignorance volontaire lorsqu'il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu'il ne veut pas connaître la vérité ou qu'il évite soigneusement de la connaître. Il s'agit de la notion de l'ignorance délibérée : R. c. Briscoe, 2010 CSC 13 (CanLII), aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la doctrine de l'ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21. L'ignorance volontaire est la doctrine ou le mécanisme par lequel l'élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[...]
+[16] En somme, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commandent de se renseigner sur sa situation fiscale, décide de ne pas le faire. L'élément de connaissance est établi par la décision du contribuable de ne pas se renseigner, et non par la conclusion d'une intention de tromper.
+[17] Bien que la preuve, par exemple, de l'intention réelle de faire un faux énoncé suffirait à satisfaire à l'exigence que la personne doit avoir agi « sciemment » aux termes du paragraphe 163(2), l'exigence que l'intention de tromper soit prouvée pour établir l'ignorance volontaire ne trouve pas appui dans la jurisprudence bien établie selon laquelle l'ignorance volontaire repose sur la conclusion selon laquelle le contribuable a délibérément décidé de ne pas se renseigner afin d'éviter de vérifier ce qui pourrait être une vérité gênante. L'élément factuel essentiel consiste en une conclusion d'« ignorance délibérée », étant donné que cette expression « suggère l'idée d'[TRADUCTION] ‟un processus réel de suppression des soupçons” » : Briscoe, au paragraphe 24. J'ajouterais que, dans le contexte du paragraphe 163(2), les renvois à l'« intention de tromper » créent une distraction. L'élément essentiel de l'infraction visée au paragraphe 163(2) consiste à faire un faux énoncé, sachant (réellement ou implicitement, c'est‑à‑dire par ignorance volontaire) qu'il est faux.
+[115] Il y aura donc aveuglement volontaire si l'intimée établit selon la prépondérance des probabilités que le contribuable savait que les énoncés faits dans sa déclaration de revenus étaient faux, mais qu'il a néanmoins choisi de ne pas se renseigner davantage, car il savait, ou présumait fortement, qu'il saurait alors que les énoncés étaient faux. Comme il s'agit d'un critère subjectif, il faut tenir compte des attributs personnels de la personne pour déterminer si elle a fait preuve d'aveuglement volontaire.
+[116] Par contre, le critère permettant d'établir l'existence d'une « faute lourde » est objectif. On établit la faute lourde en tenant compte du comportement attendu d'une personne raisonnable dans les mêmes circonstances. Par conséquent, on ne tient pas compte des attributs personnels du contribuable. Il incombe à la Couronne de prouver selon la prépondérance des probabilités que la conduite du contribuable s'écarte de façon marquée et importante de celle d'une personne raisonnable dans les mêmes circonstances.
+[117] La décision de principe sur la faute lourde au sens du paragraphe 163(2) de la Loi est celle de la Cour fédérale dans Venne c. La Reine. Le juge Strayer a décrit en ces termes ce qui constitue une faute lourde :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. [...]
+[118] Dans Sidhu c. La Reine, le juge Hershfield a déclaré ce qui suit :
+[...] Le fardeau de la preuve ne consiste pas à prouver au‑delà du doute raisonnable l'intention coupable de se soustraire au paiement de l'impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l'égard de la diligence appropriée et raisonnable dans le contexte d'un système d'autocotisation qui contredit et insulte le sens commun. [...]
+[119] Dans Mensah c. La Reine, le juge en chef Bowman a déclaré que, bien que la norme de la preuve qui s'applique aux appels en matière d'impôt soit de nature civile plutôt que pénale, il faut malgré tout examiner soigneusement la preuve présentée à l'appui d'une pénalité. Il a aussi renvoyé à Farm Business Consultants Inc. c. La Reine, où la Cour a conclu qu'il convient, en pareil cas, d'accorder le bénéfice du doute au contribuable :
+Une cour doit faire preuve d'une prudence extrême lorsqu'elle sanctionne l'imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l'établissement d'une nouvelle cotisation à l'égard d'une année frappée de prescription ne justifie pas d'office l'imposition d'une pénalité, et l'imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l'imposition d'une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d'une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans les situations où l'on cherche à établir le bien‑fondé d'allégations moins sérieuses. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d'un contribuable cadre avec deux hypothèses viables et raisonnables, l'une qui justifie la pénalité et l'autre pas, il convient d'accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. Je crois qu'en l'espèce, l'intimée a fait preuve du degré de probabilité requis, et qu'au vu de la preuve produite, aucune hypothèse incompatible avec celle que l'intimée a avancée ne peut être défendue. [Non souligné dans l'original.]
+[268] Plus récemment, dans l'arrêt Deyab c. Canada, 2020 CAF 222, la Cour d'appel fédérale a noté le critère établi par la Cour suprême du Canada dans l'arrêt Guindon c. Canada :
+[62] Dans l'arrêt Guindon c. Canada, 2015 CSC 41, la Cour suprême du Canada s'est penchée sur la question de savoir si une conduite donnée constituait une conduite coupable aux fins de la pénalité imposée aux préparateurs de déclarations en application de l'article 163.2 de la Loi. En abordant cette question, la Cour suprême a approuvé les descriptions suivantes de la faute lourde aux fins du paragraphe 163(2) de la Loi :
+[59] Les expressions « montre une indifférence quant à l'observation de la présente loi » et « équivaut à une conduite intentionnelle » tirent leur origine de la jurisprudence sur la pénalité pour faute lourde qui s'applique directement au contribuable suivant le par. 163(2) de la LIR, lequel dispose :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...] [Calcul du montant de la pénalité omis.]
+[60] Dans son mémoire, la ministre soutient que la « conduite coupable » visée à l'article 163.2 de la LIR [TRADUCTION] « n'est pas censée différer de la faute lourde et de la norme qui s'y rattache au par. 163(2) » (par. 79). Dans Venne c. Canada (ministre du Revenu national — M.R.N.), [1984] A.C.F. No 314 (QL) (1re inst.), une affaire relative à la pénalité prévue au par. 163(2), la Cour fédérale explique qu'« une indifférence au respect de la Loi » ne s'entend pas que d'une simple inattention ou négligence; elle suppose « un degré important de négligence qui corresponde à une action délibérée » (p. 11). Cela s'apparente en somme à faire l'autruche : Sirois (L.C.) c. Canada, 1995 CarswellNat 555 (WL Can.) (C.C.I.), par. 13; Keller c. Canada, 1995 CarswellNat 569 (WL Can.) (C.C.I.). Dans Sidhu c. La Reine, 2004 CCI 174, la Cour canadienne de l'impôt, pour expliquer sa décision dans Venne, développe les expressions « équivaut à une conduite intentionnelle » et « montre une indifférence quant à l'observation de la présente loi » :
+Les actions « qui correspondent » à des actions réalisées intentionnellement sont celles pour lesquelles on peut présumer une intention, comme les actions qui démontrent « une indifférence au respect de la Loi » [...] Le fardeau de la preuve ne consiste pas à prouver au‑delà du doute raisonnable l'intention coupable de se soustraire au paiement de l'impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l'égard de la diligence appropriée et raisonnable dans le contexte d'un système d'autocotisation qui contredit et insulte le sens commun. [par. 23 (CanLII)]
+[63] Une conduite qui justifierait l'imposition d'une pénalité pour faute lourde est un comportement qui équivaut à une action délibérée[204]. [...]
+[269] Le fait que M. Pat Paletta ait déposé sa déclaration pour 2002 sans y inclure des gains de 8 030 844,73 $ réalisés cette année‑là constituait une conduite équivalant à une action délibérée. M. Pat Paletta savait que les positions bénéficiaires devaient être incluses dans le calcul du revenu l'année suivant la clôture des positions déficitaires. Vers la fin de 2001, il y a eu des pertes de quelque 8 000 000 $, de sorte que M. Pat Paletta aurait su qu'il devait inclure dans son revenu pour 2002 des gains de 8 000 000 $ environ[205].
+[270] En conclusion, la conduite de M. Pat Paletta en ce qui concerne la production de sa déclaration de 2002 est loin de correspondre à la conduite attendue d'une personne raisonnable. Une telle personne aurait au moins vérifié auprès de son comptable, avant de signer sa déclaration de 2002, si les gains provenant de la clôture des positions bénéficiaires au début de 2002 étaient, en fait, inclus dans le calcul de son revenu pour cette année‑là. S'il avait posé cette question fondamentale, il n'aurait pas omis de déclarer pour 2002 un revenu de 8 030 844,73 $.
+VII. Conclusion
+[271] L'appelante l'a largement emporté en produisant les éléments de preuve nécessaires pour démolir les principales hypothèses du ministre[206]. Ces hypothèses ayant été démolies, je suis tenu de suivre les arrêts Friedberg et Stewart de la Cour suprême du Canada. Comme nous le dit judicieusement l'ancien juge Robert J. Sharpe de la Cour d'appel de l'Ontario :
+[TRADUCTION]
+[...] le droit limite nos choix. Nous devons appliquer les lois constitutionnellement valides telles qu'elles sont rédigées et nous devons suivre les précédents contraignants qui se rapportent au litige dont nous sommes saisis, même si nous n'aimons pas le résultat que la jurisprudence prescrit[207].
+VIII. Mesures de redressement accordées
+[272] Les appels portant sur les années d'imposition 2000, 2001, 2003, 2004, 2005, 2006 et 2007 sont accueillis avec dépens à l'appelante et les nouvelles cotisations pour ces années d'imposition sont annulées.
+[273] L'appel portant sur l'année d'imposition 2002 est accueilli avec dépens à l'intimée et la nouvelle cotisation pour cette année est déférée au ministre pour nouvel examen et nouvelle cotisation pour les motifs suivants :
+a) le bénéfice de 8 030 844,73 $ provenant de la clôture des positions bénéficiaires au cours de cette année est pris en compte lors du calcul du revenu conformément aux présents motifs;
+b) la pénalité au titre du paragraphe 163(2) de la Loi est modifiée en tenant compte du fait que le revenu non déclaré qu'il est raisonnable d'imputer au faux énoncé ou à l'omission est de 8 030 844,73 $.
+[274] Il convient de féliciter les avocats pour leurs habiles présentations. Leurs observations orales et écrites sur les faits et le droit ont été très utiles et je leur en suis reconnaissant.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement du 18 février 2021 afin de corriger une erreur typographique dans la dernière phrase du paragraphe 81, où « opération B » aurait dû être « opération A ».
+Les présents motifs du jugement modifiés une seconde fois remplacent les motifs du jugement modifiés du 23 février 2021 afin de corriger des erreurs typographiques aux paragraphes 137, 224, 234 et 237.
+Signé à Toronto (Ontario), ce 25e jour de mars 2021.
+« David E. Spiro »
+Le juge Spiro
+Annexe A
+Comparaison des décisions Friedberg c. La Reine et Succession Paletta c. La Reine
+Négociation
+M. Friedberg (1978-1981)
+M. Pat Paletta (2000-2007)
+Contrats négociés
+Contrats à terme
+Contrats à terme et contrats à terme synthétiques
+Marché
+En bourse[208]
+De gré à gré
+Élément d'actif
+Or
+Devises
+Frais
+Somme fixe par opération[209]
+Négociable[210]
+Heures de négociation
+Seulement lorsque la bourse est ouverte (6 heures par jour)[211]
+Presque n'importe quand[212]
+Dates de règlement
+Prédéterminées
+Variables
+Questions soulevées
+Friedberg c. La Reine
+Succession Paletta c. La Reine
+Paragraphe 245(1)?
+Oui (réduction factice du revenu)
+Non (règle générale anti‑évitement)
+PCGR?
+Oui (C.F. 1re inst. et C.A.F.)
+Non
+Question du trompe‑l'œil?
+Non
+Oui
+Question de la source?
+Non
+Oui
+Règles en matière d'abris fiscaux énoncées à l'article 231.7?
+Non (pas en vigueur à ce moment-là)
+Non
+Annexe B
+Analyse des revenus imposables déclarés par M. Pat Paletta de 2000 à 2007
+Année
+2000
+Pièce A16, page
+2001
+Pièce A17, page
+2002
+Pièce A19, page
+2003
+Pièce A21, page
+Revenu d'emploi
+395 754,74 $
+2
+1 557 754,74 $
+2
+3 053 248 $
+2
+5 556 960 $
+2
+Autre revenu d'emploi
+5 700 000 $
+2
+0 $
+2
+0 $
+2
+0 $
+2
+Autres revenus
+0 $
+2
+0 $
+2
+0 $
+2
+0 $
+2
+Sécurité de la vieillesse
+5 079,51 $
+2
+5 232,27 $
+2
+5 335,89 $
+2
+5 497,62 $
+2
+RPC
+9 251,04 $
+2
+9 482,28 $
+2
+9 766,80 $
+2
+9 923,04 $
+2
+Autres pensions
+0 $
+2
+8 220,11 $
+2
+3 320,68 $
+2
+9 910,91 $
+2
+Montant de pension fractionné
+0 $
+0 $
+0 $
+0 $
+Revenus de placement
+6 107,28 $
+2
+790 135,40 $
+2
+474 172,27 $
+2
+131 073,90 $
+2
+Revenu agricole (net)
+0 $
+2, 15
+0 $
+2, 28
+1 913 617 $
+2, 28
+290 976 $
+2, 26
+Revenu d'entreprise (net)
+(6 184 460,89 $)
+2, 9
+(2 150 917,06 $)
+2, 21
+(10 007 726 $)
+2, 25
+(6 198 247,76 $)
+2, 21
+Revenu total
+(68 268,32 $)
+2
+219 907,74 $
+2
+(4 548 265,36 $)
+2
+(193 906,29 $)
+2
+Déductions
+0 $
+2
+(4 171,08 $)
+3
+0 $
+40
+0 $
+38
+Remboursement des prestations de programmes sociaux
+0 $
+2
+(5 232,27 $)
+3
+0 $
+40
+0 $
+38
+Revenu net
+(68 268,32 $)
+2
+210 504,39 $
+3
+(4 548 265,36 $)
+40
+(193 906,29 $)
+38
+Utilisation des pertes de l'année précédente
+0 $
+3
+(68 268,32 $)
+3, 35
+0 $
+40
+0 $
+38
+Pertes reportées prospectivement
+(68 268,32 $)
+28
+0 $
+35
+(4 548 265,36 $)
+38
+(193 906,29 $)
+37
+Pertes disponibles
+(68 268,32 $)
+28
+0 $
+35
+(4 548 265,36 $)
+38
+(4 742 171,65 $)
+37
+Revenu imposable
+0 $
+3
+142 236,07 $
+3
+0 $
+40
+0 $
+38
+Année
+2004
+Pièce A23, page
+2005
+Pièce A25, page
+2006
+Pièce A27, page
+2007
+Pièce A29, page
+Revenu d'emploi
+64 064 $
+2
+13 064 064 $
+2
+76 352 $
+2
+480 080 $
+2
+Autre revenu d'emploi
+0 $
+2
+0 $
+2
+0 $
+2
+0 $
+2
+Autres revenus
+0 $
+2
+0 $
+2
+0 $
+2
+8,88 $
+2
+Sécurité de la vieillesse
+5 592,75 $
+2
+5 706,63 $
+2
+5 846,19 $
+2
+5 952 $
+2
+RPC
+10 240,56 $
+2
+10 414,68 $
+2
+10 654,20 $
+2
+10 877,88 $
+2
+Autres pensions
+11 094,77 $
+2
+12 390,64 $
+2
+13 855,08 $
+2
+20 602,22 $
+2
+Montant de pension fractionné
+0 $
+0 $
+0 $
+13 216,94 $
+2
+Revenus de placement
+862 848,72 $
+2
+546 133,16 $
+2
+1 178 989,65 $
+2
+1 386 538,58 $
+2
+Revenu agricole (net)
+0 $
+2, 27
+0 $
+2, 17
+956 247 $
+2, 20
+(314 723 $)
+2, 7
+Revenu d'entreprise (net)
+(4 294 300,06 $)
+2, 23
+(5 134 923,14 $)
+2, 13
+(21 236 115,40 $)
+2, 16
+6 444 216,20 $
+2, 23
+Revenu total
+(3 340 459,26 $)
+2
+8 503 785,97 $
+2
+(18 994 171,28 $)
+2
+8 046 769,70 $
+2
+Déductions
+0 $
+32
+0 $
+31
+0 $
+23
+0 $
+34
+Remboursement des prestations de programmes sociaux
+0 $
+32
+(5 706,63 $)
+31
+0 $
+23
+(5 952 $)
+34
+Revenu net
+(3 340 459,26 $)
+32
+8 498 079,34 $
+31
+(18 994 171,28 $)
+23
+8 040 817,70 $
+34
+Utilisation des pertes de l'année précédente
+0 $
+32
+(8 082 630,91 $)
+31
+0 $
+23
+(7 594 171,28 $)
+34
+Pertes reportées prospectivement
+(3 340 459,26 $)
+0 $
+(18 994 171,28 $)
+0 $
+Pertes disponibles
+(8 082 630,91 $)
+voir la note [213]
+0 $
+(18 994 171,28 $)
+(11 400 000 $)
+voir la note [214]
+Revenu imposable
+0 $
+32
+415 448,43 $
+31
+0 $
+23
+446 646,42 $
+34
+RÉFÉRENCE :
+2021 CCI 11
+NO DU DOSSIER DE LA COUR :
+2015-2662(IT)G
+INTITULÉ :
+LA SUCCESSION DE PASQUALE PALETTA et SA MAJESTÉ LA REINE
+LIEUS DE L'AUDIENCE :
+Toronto (Ontario) et Ottawa (Ontario) (les 11, 12 et 13 mars 2020 seulement)
+DATES DE L'AUDIENCE :
+Les 20 et 21 août, les 12, 13, 14, 18, 19, 20, 21, 25, 26, 27 et 28 novembre et les 2 et 3 décembre 2019, et les 11, 12 et 13 mars 2020, et observations écrites reçues les 30 et 31 juillet 2020
+MOTIFS DU JUGEMENT MODIFIÉS UNE SECONDE FOIS :
+L'honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 18 février 2021
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS UNE SECONDE FOIS :
+Le 25 mars 2021
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Justin Kutyan et Me Kelly Ng
+Avocates de l'intimée :
+Me Suzanie Chua, Me Rana El-Khoury et Me Dina Elleithy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Justin Kutyan et Me Kelly Ng
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Il n'est pas contesté que si les pertes déclarées sont admissibles, il s'agit de pertes autres qu'en capital et non de pertes en capital. Plutôt que de répéter l'expression « pertes autres qu'en capital » tout au long des présents motifs, je dirai simplement « pertes ». De même, tous les gains sont au titre du revenu.
+[2] Il s'agit d'une simplification. Chacun de ces ensembles est composé de nombreuses opérations. Par souci de simplicité, l'expression « position » au singulier s'entendra également du pluriel.
+[3] On a déclaré un gain, et non une perte, pour l'année d'imposition 2007. Si le ministre avait eu raison au sujet du trompe‑l'œil, le gain aurait été supprimé pour cette année‑là pour le motif qu'il ne peut y avoir de gain provenant d'opérations qui n'ont jamais eu lieu. La raison pour laquelle M. Pat Paletta a choisi de réaliser un gain plutôt que d'enregistrer une perte pour cette année‑là n'est pas claire. En tout état de cause, son objectif d'évitement fiscal pour cette année‑là avait été atteint, malgré la réalisation du gain. La manière exacte dont cela s'est produit est exposée au paragraphe 98.
+[4] Friedberg c. Canada, [1993] 4 R.C.S. 285.
+[5] Stewart c. Canada, 2002 CSC 46, [2002] 2 R.C.S. 645.
+[6] L'appelante est la succession de Pasquale Paletta. M. Pat Paletta est décédé le 6 février 2019.
+[7] Réponse modifiée, p. 2, dans la section [TRADUCTION] « Aperçu ».
+[8] De la perte de 10 007 726 $ déclarée pour l'année d'imposition 2002, une somme de 4 548 265,36 $ a été reportée à l'année d'imposition 2005 aux termes de l'article 111 de la Loi. Voir l'annexe B.
+[9] Pendant toute la période pertinente, Union PLC possédait Union Cal Limited.
+[10] Réponse modifiée, al. 10yyyyyyy), p. 25.
+[11] Réponse modifiée, al. 10qqqqqqqqq), p. 30.
+[12] Réponse modifiée, al. 10kkkkkkkkkk), p. 35.
+[13] Témoignage de Colin Knight, transcription, p. 1570, ligne 28, à p. 1571, ligne 26.
+[14] Témoignage de Colin Knight, transcription, p. 1570, lignes 18 à 27.
+[15] Rapport d'expert de Simon Bird, p. 35, par. 86.
+[16] Rapport d'expert de Simon Bird, p. 36, par. 86.
+[17] Rapport d'expert de Simon Bird, p. 36, par. 87.
+[18] Rapport d'expert de Simon Bird, p. 36, par. 88.
+[19] Rapport d'expert de Simon Bird, p. 39, par. 94.
+[20] Rapport d'expert de Simon Bird, p. 39, par. 94.
+[21] Rapport d'expert d'Andrey Pavlov, p. 13, par. 6.2.4.
+[22] Rapport d'expert d'Andrey Pavlov, p. 13, par. 6.2.5.
+[23] Rapport d'expert de Simon Bird, p. 60 et 61, par. 157.
+[24] Témoignage de M. Graham Wellesley, transcription, p. 75, lignes 4 à 10.
+[25] Témoignage de M. Graham Wellesley, transcription, p. 74, lignes 4 à 26.
+[26] Pièces A37, A64, A94, A107, A123 et A134. Il n'y avait aucun élément de preuve du coût des lettres de crédit irrévocables pour 2001 ni pour 2002.
+[27] Les lettres de crédit irrévocables étaient rédigées sur du papier à en‑tête de la Banque Royale du Canada et étaient signées par deux représentants de la Banque Royale du Canada. Les sommes étaient payables à la société de courtage si cette dernière présentait à la Banque Royale du Canada une demande écrite de paiement et l'original de la lettre de crédit.
+[28] Il semble que les lettres de crédit irrévocables étaient incessibles. Le bénéficiaire inscrit était Union Cal Limited (pièce A42). Lorsque M. Hodgins est passé à IFX Ltd. le 30 novembre 2001 (pièce A6, p. 1), cette lettre de crédit n'aurait pas pu être cédée à IFX Ltd. Aucun élément de preuve n'indiquait qu'on avait obtenu une nouvelle lettre de crédit en faveur de IFX Ltd. Cependant, une lettre de crédit figure sur un relevé de IFX Ltd. du 29 mars 2002 (pièce A7, p. 50 et 51). Le compte présentait un solde négatif jusqu'au 30 septembre 2002 (pièce A7, p. 50, 51, 55, 57, 59, 61, 63).
+[29] Il n'y a pas eu de nouvelles opérations pendant cette période, mais il y avait une lettre de crédit expirée et le compte présentait un solde négatif de 59 594,82 USD (pièce A8, p. 14 à 29).
+[30] Selon le relevé du 19 août 2005, il y avait un solde négatif de 3 544,90 CAD (pièce A13, p. 390). Le solde a continué à fluctuer. De nouvelles opérations ont été conclues le 8 septembre 2005 (pièce A13, p. 420), le 9 septembre 2005 (pièce A13, p. 422) et le 12 septembre 2005 (pièce A13, p. 424) avant qu'une nouvelle lettre de crédit ne soit fournie.
+[31] Réponse modifiée, al. 10kkkkkkk), p. 24.
+[32] Voir, par exemple, la réponse modifiée, al. 10mmmmmmmmm), p. 30.
+[33] Réponse modifiée, al. 10vvvvvvv), p. 25.
+[34] Réponse modifiée, al. 13c), p. 39.
+[35] Les sociétés de courtage ne négociaient pas seulement avec M. Pat Paletta, mais aussi avec Tender Choice Foods Inc. et Paletta International Corporation, de sorte que la relation globale de la famille Paletta avec les sociétés de courtage était plus importante et plus significative que si M. Pat Paletta avait été leur seule contrepartie.
+[36] Rapport d'expert de Simon Bird, p. 68, par. 175, à p. 71, par. 182.
+[37] Réponse modifiée, al. 10ppppppppp), p. 30. Voir aussi la réponse modifiée, al. 10qqqqqqqqqq), p. 35.
+[38] Réponse modifiée, al. 10iiiiiiiii) et hhhhhhhhh), p. 30 et 29. Voir aussi la réponse modifiée, al. 10wwwwwww), p. 25.
+[39] Rapport d'expert de Simon Bird, p. 69, par. 178, à p. 71, par. 182.
+[40] Réponse modifiée, al. 10ttttttttt), p. 31.
+[41] Rapport d'expert de Simon Bird, p. 69, par. 178, à p. 71, par. 182.
+[42] M. Angelo Paletta a témoigné que son père avait créé l'entreprise de parc d'engraissement à titre de propriétaire unique dans les années 1970 ou 1980 (témoignage de M. Angelo Paletta, transcription, p. 253, lignes 15 à 20). Bien que cette question n'importe pas, on ne sait pas pourquoi cette entreprise n'a jamais été constituée en société.
+[43] Témoignage de M. Angelo Paletta, transcription, p. 250, ligne 25, à p. 251, ligne 5.
+[44] Témoignage de M. Angelo Paletta, transcription, p. 251, lignes 9 à 15.
+[45] Témoignage de M. Angelo Paletta, transcription, p. 251, ligne 20, à p. 252, ligne 6.
+[46] Témoignage de M. Angelo Paletta, transcription, p. 251, lignes 13 à 15.
+[47] Témoignage de M. Angelo Paletta, transcription, p. 268, lignes 19 à 24.
+[48] Témoignage de M. Angelo Paletta, transcription, p. 514, lignes 5 à 11.
+[49] Témoignage de M. Angelo Paletta, transcription, p. 330, ligne 28, à p. 331, ligne 5, p. 335, ligne 1, à p. 336, ligne 3, et p. 340, lignes 7 à 17.
+[50] Témoignage de M. Angelo Paletta, transcription, p. 292, lignes 5 à 10.
+[51] Témoignage de M. Angelo Paletta, transcription, p. 311, lignes 7 à 20.
+[52] Témoignage de M. Angelo Paletta, transcription, p. 355, lignes 5 à 14.
+[53] Témoignage de M. Angelo Paletta, transcription, p. 371, ligne 12 à 24, et p. 397, lignes 8 à 20.
+[54] Témoignage de M. Angelo Paletta, transcription, p. 433, ligne 14, à p. 436, ligne 19; pièce A88; témoignage de M. Angelo Paletta, transcription, p. 487, ligne 20, à p. 488, ligne 8; pièce A98.
+[55] Les pièces A108, A109, A110 montrent que le premier chèque était de 20 000 $; la pièce A13, p. 319, est un relevé de ODL Securities Ltd. montrant les débits et crédits sur le compte en juin 2005 qui fait penser qu'on a envoyé un chèque de 15 000 $ le 22 juin 2005; dans la pièce A113, M. Hodgins demande le paiement de 15 000 $ supplémentaires — et selon les documents, cette somme a été payée en février 2006 (pièce A114); M. Angelo Paletta s'est reporté à la pièce A114, mais uniquement en ce qui concerne 2006 (témoignage de M. Angelo Paletta, transcription, p. 547, lignes 3 à 14). Bien qu'aucun élément de preuve direct ne vienne confirmer que le paiement de 15 000 $ était pour l'année 2005, je conclus qu'il l'était.
+[56] Les pièces A115 et A116 montrent une demande de 25 000 $, mais seulement 12 500 $ ont été versés; pièces A117, A118, A119; témoignage de M. Angelo Paletta, transcription, p. 557, ligne 15, à p. 558, ligne 27; les pièces A124 et A125 montrent que 25 000 $ ont été virés à ODL Securities Ltd; les pièces A127 et A128 montrent que 32 500 $ ont été envoyés.
+[57] Pièce A130; témoignage de M. Angelo Paletta, transcription, p. 583, ligne 8, à p. 584, ligne 9.
+[58] Réponse modifiée, al. 10iiiiiiii), p. 26.
+[59] Réponse modifiée, al. 10uuuuuuuu), p. 27.
+[60] Réponse modifiée, al. 10eeeeeeeee), p. 29.
+[61] Témoignage de Tim Hodgins, transcription, p. 1142, lignes 16 à 28.
+[62] Témoignage de Tim Hodgins, transcription, p. 1142, lignes 22 à 28.
+[63] Témoignage de Tim Hodgins, transcription, p. 1130, lignes 21 à 26.
+[64] Pièce A153; témoignage de Tim Hodgins, transcription, p. 1131, ligne 25, à p. 1132, ligne 2.
+[65] Pièce A153; témoignage de Tim Hodgins, transcription, p. 1131, ligne 25, à p. 1132, ligne 13.
+[66] Témoignage de Tim Hodgins, transcription, p. 1134, lignes 24 à 27.
+[67] Rapport d'expert d'Andrey Pavlov, p. 13.
+[68] Pièce A138.
+[69] Pièce A139.
+[70] Pièce A57, p. 2, cours au comptant.
+[71] Pièce A140.
+[72] En 2006, la perte cible était de 45 000 000 $ (par. 69). Pour mettre à l'abri le gain de 46 422 000 $ qui a été réalisé au début de 2007 (par. 96), il aurait fallu que M. Pat Paletta choisisse une perte cible supérieure au gain réalisé. Cependant, en 2007, il a choisi une perte cible de seulement 40 000 000 $ (par. 69). Cette somme ne permettait pas de mettre à l'abri le gain du cycle de négociation de 2006. C'est pourquoi le choix d'une perte cible inférieure en 2007 a mené à la réalisation d'un gain cette année‑là.
+[73] Témoignage de M. Robert Ban, transcription, p. 791, lignes 3 à 21; voir aussi l'annexe B ci‑jointe.
+[74] Voir l'annexe B ci-jointe.
+[75] Voir l'annexe B ci-jointe (revenu total déclaré pour toutes les années tiré de toutes les sources, à l'exception du revenu provenant des opérations de change à terme).
+[76] Il s'élevait à 1 004 330,92 $, pour être précis.
+[77] Voir l'annexe B ci-jointe.
+[78] Témoignage de M. Angelo Paletta, transcription, p. 280, ligne 26, à p. 282, ligne 19.
+[79] Témoignage de M. Kleinschmidt, transcription, p. 821, ligne 11, à p. 822, ligne 14; pièce A145; pièce A146.
+[80] Réponse modifiée, al. 10mmm), p. 11.
+[81] Pièce A19.
+[82] Témoignage de M. Robert Ban, transcription, p. 763, ligne 6, à p. 765, ligne 27.
+[83] Pièce A57.
+[84] Le gain convenu au début de 2002 de 5 186 544 USD doit être converti en CAD en utilisant le taux de 1,5484 indiqué à la pièce A139, ce qui donne 8 030 844,73 $.
+[85] Pièce A57, p. 1.
+[86] Témoignage de M. Angelo Paletta, transcription, p. 360, ligne 6, à p. 361, ligne 6.
+[87] Pièce A19, p. 2.
+[88] Le gain convenu au début de 2002 de 5 186 544 USD devrait être converti en CAD en utilisant le taux de 1,5484 indiqué à la pièce A139, ce qui donne 8 030 844,73 $; la perte convenue de 2002 de 6 496 870 USD devrait être convertie en CAD en utilisant le taux de 1,5250 indiqué à la page 2 de la pièce A57, ce qui donne 9 907 726,75 $; le résultat net est une perte de 1 876 882,02 $ des opérations de change à terme en 2002. Des frais de 100 000 $ ont été déclarés pour 2002 (pièce A19, p. 24), ce qui porte la perte totale liée aux opérations de change à terme en 2002 à 1 976 882,02 $.
+[89] Voir l'annexe B ci‑jointe. Le revenu total mis à l'abri était de 5 459 460,64 $ (soit la somme de tous les revenus, à l'exception du revenu net d'entreprise).
+[90] Voir l'annexe B ci-jointe.
+[91] Réponse modifiée, al. 10ffffffff), p. 26.
+[92] Réponse modifiée, al. 10eeeeeeee), p. 26.
+[93] Réponse modifiée, al. 10jjjjjjjjj), p. 30.
+[94] Réponse modifiée, al. 12e), p. 38.
+[95] Réponse modifiée, al. 12f), p. 38.
+[96] Avis d'expert de Richard Rolland Poirier, version corrigée du 2 octobre 2019, pièce R8, p. 6.
+[97] Avis d'expert de Richard Rolland Poirier, version corrigée du 2 octobre 2019, pièce R8, p. 6.
+[98] Avis d'expert de Richard Rolland Poirier, version corrigée du 2 octobre 2019, pièce R8, p. 35.
+[99] Rapport d'expert de Colin Knight en réponse au rapport d'expert de Richard Rolland Poirier, pièce A159, p. 11, al. 20iv).
+[100] Rapport d'expert de Colin Knight en réponse au rapport d'expert de Richard Rolland Poirier, p. 12, par. 25.
+[101] Témoignage de Colin Knight, transcription, p. 1656, ligne 20, à p. 1658, ligne 3.
+[102] Témoignage de Colin Knight, transcription, p. 1696, ligne 16, à p. 1697, ligne 13.
+[103] Réponse modifiée, al. 10jjjjjjjjj), p. 30.
+[104] Réponse modifiée, al. 10h), p. 4, et al. 10ccccccc), p. 23.
+[105] Réponse modifiée, par. 17, p. 41.
+[106] Observations écrites de l'intimée, p. 16, par. 41.
+[107] Observations écrites de l'intimée, p. 16, par. 42.
+[108] Observations écrites de l'intimée, p. 25.
+[109] Observations écrites de l'intimée, p. 34, par. 82.
+[110] Observations écrites de l'intimée, p. 40, par. 97.
+[111] Observations écrites de l'intimée, p. 40, par. 98.
+[112] Observations écrites de l'intimée, p. 40, par. 98.
+[113] Observations écrites de l'intimée, p. 41, par. 100.
+[114] Observations écrites de l'intimée, p. 44, par. 109.
+[115] Observations écrites de l'intimée, p. 45, par. 109.
+[116] Observations écrites de l'intimée, p. 46, par. 111.
+[117] Observations écrites de l'intimée, p. 46 à 48.
+[118] Observations écrites de l'intimée, p. 48, par. 117.
+[119] Observations écrites de l'intimée, p. 49, par. 118.
+[120] Observations écrites de l'intimée, p. 49, par. 119, à p. 51, par. 121.
+[121] Observations écrites de l'intimée, p. 49, par. 118; observations écrites supplémentaires de l'intimée, par. 1 et 2.
+[122] Observations écrites supplémentaires de l'intimée, al. 2c).
+[123] Observations écrites de l'intimée, p. 49, par. 118; observations écrites supplémentaires de l'intimée, par. 1.
+[124] Observations écrites de l'intimée, p. 54, par. 129, à p. 56, par. 130.
+[125] Observations écrites de l'intimée, p. 53, par. 126.
+[126] Observations écrites de l'intimée, p. 56, par. 131 et 132.
+[127] Par « correspondant », je ne veux pas dire identique. Le montant du gain de la position bénéficiaire n'était pas exactement le même que celui de la perte de la position déficitaire, car elles avaient une date de règlement légèrement différente.
+[128] Observations écrites de l'appelante, p. 46, par. 122.
+[129] Observations écrites de l'appelante, p. 50 et 51.
+[130] Observations écrites de l'appelante, p. 47, par. 127 à 129, p. 52, par. 142 à 145.
+[131] Observations écrites de l'appelante, p. 48, par. 131, à p. 49, par. 135.
+[132] Observations écrites de l'appelante, p. 56, par. 153, à p. 58, par. 156.
+[133] Observations écrites de l'appelante, p. 55, par. 150, à p. 56, par. 152.
+[134] Observations écrites de l'appelante, 30 juillet 2020, par. 4, 5 et 6.
+[135] Observations écrites de l'appelante, 30 juillet 2020, par. 22 (et témoignage de M. Angelo Paletta, transcription, p. 350, ligne 13, à p. 351, ligne 5), et par. 23 (et témoignage de M. Angelo Paletta, transcription, p. 352, lignes 3 à 17).
+[136] Observations écrites de l'appelante, 30 juillet 2020, par. 29.
+[137] Observations écrites de l'appelante, 30 juillet 2020, par. 28.
+[138] Témoignage de M. Angelo Paletta, transcription, p. 358, ligne 20, à p. 360, ligne 5.
+[139] Pièce A56.
+[140] Observations écrites de l'appelante, 30 juillet 2020, par. 32 à 36.
+[141] Observations écrites de l'appelante, p. 59, par. 157.
+[142] Observations écrites de l'appelante, p. 59, par. 160.
+[143] Observations écrites de l'appelante, p. 59, par. 158 et 159.
+[144] T.E. McDonnell, Kathleen S.M. Hanly, et S.W. Bowman, « Current Cases », Revue fiscale canadienne, vol. 37, no 3 (1989), 728, p. 729.
+[145] Ibid., p. 730.
+[146] T.E. McDonnell, Michael D. Templeton, Mary‑Ann Haney et Vikas Sharma, « Current Cases », Revue fiscale canadienne, vol. 40 no 1 (1992), 162, p. 164.
+[147] J'étais dans la salle d'audience ce jour‑là en tant que troisième avocat de la Couronne.
+[148] Friedberg c. Canada, [1993] 4 R.C.S. 285, p. 285 et 286.
+[149] T.E. McDonnell et Stephen W. Bowman. « Current Cases », Revue fiscale canadienne, vol. 42 no 2 (1994), 452, p. 452.
+[150] Réponse modifiée, al. 10cccccccc), p. 26.
+[151] Réponse modifiée, al. 10cccccccccc), p. 33.
+[152] Réponse modifiée, al. 10ssssssss), p. 27.
+[153] Réponse modifiée, al. 12g), p. 38. Cet ensemble d'hypothèses correspond aux thèses de la Couronne au procès dans la décision Friedberg c. La Reine, précitée, par. 23. Le juge en chef adjoint Jerome a fait remarquer que « l'avocat du ministre allègue que [...] le demandeur a engagé, tout au plus, une responsabilité éventuelle à l'égard des montants déduits comme pertes » [non souligné dans l'original]. L'argument du ministre selon lequel il y avait « tout au plus, une responsabilité éventuelle » a été rejeté par la Cour fédérale, Section de première instance, par la Cour d'appel fédérale et par la Cour suprême du Canada.
+[154] Réponse modifiée, al. 12c), p. 37.
+[155] Réponse modifiée, al. 13b), p. 39.
+[156] Mesures fiscales : Renseignements supplémentaires, budget de 2017, 22 mars 2017, ministère des Finances, p. 31.
+[157] Mesures fiscales : Renseignements supplémentaires, budget de 2017, 22 mars 2017, ministère des Finances, p. 31 et 32.
+[158] The Arnold Report, en ligne, Fondation canadienne de fiscalité, numéro 110, 28 avril 2017.
+[159] Richard Marcovitz, « Taxation of Liabilities and Derivatives on Income Account », Report of the Proceedings of the Sixty‑Ninth Tax Conference (2017) (Toronto, Fondation canadienne de fiscalité, 2018), p. 12:17 et 12:18.
+[160] Réponse modifiée, al. 10kkkkkkkk), p. 26.
+[161] Cela est vrai pour chaque année autre que la première année d'opérations, soit 2000, pour laquelle il n'y avait pas de gains à compenser en raison d'opérations lors d'une année précédente.
+[162] Walls c. Canada, [2002] 2 R.C.S. 684, par. 19 et 22.
+[163] Réponse modifiée, al. 10g), p. 4, et al. 10bbbbbbb), p. 23.
+[164] Réponse modifiée, al. 10eeeeeeeeee), p. 33. On peut se demander pourquoi le mot « perte » figure entre guillemets si le ministre a supposé qu'il y avait effectivement une perte économique.
+[165] Réponse modifiée, al. 10xxxxxxxxxx), p. 37.
+[166] Réponse modifiée, al. 10yyyyyyyyyy), p. 37.
+[167] Voir le par. 65 de l'arrêt Stewart, qui renvoie à l'arrêt Entreprises Ludco Ltée c. Canada, 2001 CSC 62, [2001] 2 R.C.S. 1082.
+[168] Agracity Ltd. c. La Reine, 2020 CCI 91, par. 20.
+[169] Réponse modifiée, al. 10yyyyyyyy), p. 28.
+[170] Réponse modifiée, al. 10hhhhhhhhhh), p. 34.
+[171] Réponse modifiée, al. 10qqqqqqqq), p. 27.
+[172] Réponse modifiée, al. 10kkkkkkkkk), p. 30.
+[173] La possibilité d'opérations falsifiées existe sur tous les marchés, y compris les marchés publics. À cet égard, je prends connaissance d'office de la transcription du plaidoyer de culpabilité bien connu de M. Bernard L. Madoff, le 12 mars 2009, devant le juge Denny Chin de la Cour de district des États‑Unis, district sud de New York. Plus précisément, voir p. 25, ligne 12, à p. 30, ligne 14 (description de ses actes par M. Madoff), et p. 31, ligne 24, à p. 34, ligne 2 (description des actes de M. Madoff par le procureur des États‑Unis), au https://www.justice.gov/usao-sdny/file/762751/download.
+[174] Témoignage de Tim Hodgins, transcription, p. 1003, ligne 3, à p. 1005, ligne 26.
+[175] Témoignage de Tim Hodgins, transcription, p. 1003, ligne 3, à p. 1005, ligne 26.
+[176] Voir, par exemple, les motifs de la juge Wilson de la Cour suprême du Canada dans l'arrêt Stubart Investments Ltd. c. La Reine, [1984] 1 R.C.S. 536, p. 575 et 576; David A. Ward et al. « The Business Purpose Test and Abuse of Rights », British Tax Review, 1985, p. 68.
+[177] Le juge Heald de la Cour d'appel fédérale a suggéré, dans l'arrêt M.R.N. c. Leon, [1977] 1 C.F. 249, que l'absence d'objectif commercial est un trompe‑l'œil. La Cour suprême du Canada l'a expressément rejeté dans l'arrêt Stubart. Voir les motifs concourants de la juge Wilson dans l'arrêt Stubart, p. 539 et 540.
+[178] Réponse modifiée, al. 10tttttttt), p. 27.
+[179] Réponse modifiée, al. 10vvvvvvvv), p. 28.
+[180] Témoignage de Graham Wellesley, transcription, p. 73, ligne 20, à p. 74, ligne 26.
+[181] La position de la Couronne est que les lettres de crédit irrévocables émises par la Banque Royale du Canada n'étaient [TRADUCTION] « pas authentiques » et avaient été [TRADUCTION] « falsifiées ». Voir les extraits de l'interrogatoire préalable du représentant de la Couronne consignés en preuve par l'appelante, p. 13, ligne 23, à p. 14, ligne 2, et p. 15, lignes 9 à 22.
+[182] Réponse modifiée, al. 10rrrrrrrr), p. 27.
+[183] Comme l'a noté le juge Boyle dans la décision Agracity, à l'al. 78xiv) :
+[...] Des registres équivoques, incomplets ou insuffisants créent des difficultés à l'Agence, au moment de la vérification, ainsi qu'aux contribuables et aux juges lorsque le litige est porté devant la Cour. Ils ne constituent pas, à eux seuls, les éléments de preuve d'un trompe‑l'œil, sauf s'il peut être démontré que leurs inexactitudes, incohérences ou omissions favorisent notamment des droits, des obligations, des revenus précis qui sont consignés, mais manifestement inexacts, de la partie. Cela n'est pas le cas en l'espèce.
+[184] Réponse modifiée, al. 10qqqqqqqq), p. 27.
+[185] Dans certaines circonstances, une contrepartie conclura un tel contrat avec l'intention de prendre livraison des devises à la date de règlement. Par exemple, une entreprise ayant l'obligation de payer des marchandises en devises dans six mois peut conclure un tel contrat dans le but d'éliminer le risque de fluctuation des devises pour les six prochains mois. Elle connaît son coût aujourd'hui et ce coût est fixe en utilisant un tel contrat. C'est ce qu'on appelle généralement la « couverture ». Dans d'autres circonstances, les détenteurs de ces contrats peuvent très bien choisir de clôturer le contrat avant la date de règlement, car aucune des parties n'a d'intérêt à livrer les devises prévues par le contrat ou à en prendre livraison. C'est ce qu'on appelle généralement « spéculer ».
+[186] Réponse modifiée, al. 10ggggggggg), p. 29.
+[187] Réponse modifiée, al. 10xxxxxxx), p. 25.
+[188] Réponse modifiée, al. 10vvvvvvvv), p. 28.
+[189] Cameco Corporation, par. 670. La Couronne a interjeté appel sans succès de la décision du juge Owen, mais n'a pas fait appel de sa conclusion sur le trompe‑l'œil. Voir 2020 CAF 112, [2020] 4 R.C.F. 104, par. 15. La demande d'autorisation d'interjeter appel devant la Cour suprême du Canada présentée par la Couronne a été rejetée avec dépens le 18 février 2021.
+[190] Réponse modifiée, al. 10oooooooooo), p. 35. L'expression « deux côtés » était déjà en gras dans l'original.
+[191] Réponse modifiée, al. 10lllllllll), p. 30. On devrait soigneusement éviter de faire des hypothèses quant au caractère suffisant des éléments de preuve.
+[192] Réponse modifiée, p. 1.
+[193] Réponse modifiée, al. 10llllllllll), p. 35.
+[194] Réponse modifiée, al. 10q), p. 5.
+[195] Réponse modifiée, al. 10f), p. 4.
+[196] Réponse modifiée, al. 10nnnn), p. 15.
+[197] Réponse modifiée, al. 10iiiiiiiiii), p. 34.
+[198] Observations écrites de l'appelante, p. 45, par. 121.
+[199] La même conclusion s'applique à l'année d'imposition 2000, à l'égard de laquelle l'appelante n'a pas admis que M. Pat Paletta avait fait des présentations erronées des faits.
+[200] Témoignage de M. Angelo Paletta, transcription, p. 280, ligne 26, à p. 282, ligne 19.
+[201] Pièce A19, p. 2.
+[202] Le gain convenu au début de 2002 de 5 186 544 USD devrait être converti en CAD en utilisant le taux de 1,5484 indiqué à la pièce A139, ce qui donne 8 030 844,73 $; la perte convenue de 2002 de 6 496 870 USD devrait être convertie en CAD en utilisant le taux de 1,5250 indiqué à la page 2 de la pièce A57, ce qui donne 9 907 726,75 $; le résultat net est une perte de 1 876 882,02 $ des opérations de change à terme en 2002. Des frais de 100 000 $ ont été déclarés pour 2002 (pièce A19, p. 24), ce qui porte la perte totale liée aux opérations de change à terme en 2002 à 1 976 882,02 $.
+[203] Témoignage de M. Angelo Paletta, transcription, p. 247, lignes 13 et 14.
+[204] Deyab c. Canada, 2020 CAF 222, par. 62 et 63.
+[205] Observations écrites de l'appelante, 30 juillet 2020, par. 15.
+[206] Plusieurs hypothèses formulées par le ministre n'étaient pas défavorables à l'appelante, notamment celles selon lesquelles les opérations ont été effectuées sur le marché de gré à gré, les sociétés de courtage étaient des contreparties aux opérations, etc.
+[207] Robert J. Sharpe, Good Judgment: Making Judicial Decisions (Toronto, University of Toronto Press, 2018), p. 127.
+[208] Témoignage de M. Hodgins, transcription, p. 978, ligne 15.
+[209] Témoignage de M. Hodgins, transcription, p. 983, ligne 17.
+[210] Témoignage de M. Hodgins, transcription, p. 983, lignes 21 et 22.
+[211] Témoignage de M. Baber, transcription, p. 1452, lignes 14 à 16.
+[212] Témoignage de M. Hodgins, transcription, p. 982, lignes 25 et 26.
+[213] On arrive à ce résultat en prenant la perte de 4 742 171,65 $ disponible en 2003 et en ajoutant la perte de l'année en cours de 3 340 459,26 $ = 8 082 630,91 $. La somme de 8 082 630,91 $ correspondait également au montant des « pertes autres qu'en capital d'autres années » qui ont été déclarées pour l'année d'imposition 2005 (pièce A25, p. 31).
+[214] Rien dans la déclaration n'indique que cette somme a été reportée à une année d'imposition antérieure ou utilisée d'une autre façon. Dans la déclaration de 2008 (pièce A31, p. 75), la somme de 11 400 000 $ ne figure pas dans la section [TRADUCTION] « Solde des années antérieures ». Rien ne prouve cependant qu'elle a été utilisée.

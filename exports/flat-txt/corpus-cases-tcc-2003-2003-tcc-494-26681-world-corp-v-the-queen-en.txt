@@ -1,0 +1,363 @@
+Title: World Corp. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26681/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-494-26681-world-corp-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-17
+
+# World Corp. v. The Queen
+
+- Citation: 2003 TCC 494
+- Decision date: 2003-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3458, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+World Corp. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-17
+Neutral citation
+2003 TCC 494
+File numbers
+2000-4389(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4389(IT)G
+BETWEEN:
+WORLD CORP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 9, 2003 at Toronto, Ontario
+Before: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+L. David Roebuck and
+Ronald J. Farano, Q.C.
+Counsel for the Respondent:
+Kathryn Philpott and
+Tamara Sugunasiri
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1990 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Vancouver, British Columbia this 17th day of July, 2003.
+"R.D. Bell"
+Bell, J.
+Citation: 2003TCC494
+Date: 20030717
+Docket: 2000-4389(IT)G
+BETWEEN:
+WORLD CORP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+ISSUES:
+[1]
+1. What was the value of a "Commission" payable to the Appellant in the sum of $3.9 million dollars on December 29, 1989 when it assigned same to a Cayman Islands B.W.I. Corporation, not at arm's length with the Appellant for a "Purchase Price of U.S. $35,000.00", being $41,300 Canadian?
+The Minister of National Revenue ("MNR") calculated that the amount of commission not reported by the Appellant was $2,458,700 (being, apparently, his estimate of a value of $2.5 million minus the aforesaid $41,300 received by the Appellant.)
+2. Was the Appellant liable to withhold and remit tax to the MNR under Part XIII of the Income Tax Act ("Act") in the amount of $614,675, being 25 percent of the aforesaid sum of $2,458,700 together with interest and penalties with respect thereto?
+3. Was the Appellant a "Canadian-controlled private corporation" and, therefore, entitled to a "small business deduction" under section 125 of the Act?
+FACTS:
+[2] The Appellant was, in 1989, a company licensed by the Ontario Securities Commission as a dealer in securities. Its president, Alexander O ("O"), was licensed by the Ontario Securities Commission to sell securities through the Appellant. All of the Appellant's issued and outstanding shares were owned by 616483 Ontario Limited ("Limited"). O, resident in the Cayman Islands at all material times, owned 49 percent of the issued shares of Limited. Rose Rende ("Rende"), the Appellant's Office Manager and a Canadian resident, owned 51 percent of the issued shares of that company.
+[3] In October or November of 1989, O was approached by Gerry Farantatos ("F") a builder and developer who had had dealings previously with O and the Appellant. O testified that he had several discussions with F. He said that F wanted to build an office tower on property controlled by him and that he wanted to raise approximately $100 million, $49 million of which would be an investment by partners in Units of a limited partnership to which the property would be sold. The balance would be raised by mortgage on the land. O stated that he had acted as agent in selling Units in limited partnerships of other real estate syndications of which F was the promoter. He said also that he offered, on behalf of the Appellant, to act as agent to sell such Units for a commission of $3.9 million on the understanding that the commission would be payable in instalments over a two and one-half year period, to coincide with payments to be made by limited partners. The record does not disclose whether, at that time, the partnership had been formed or whether F had any authority to bind same if it had been formed. In response to questions on cross-examination, O testified that he was dealing with F in F's capacity as promoter only. That position was not challenged in cross-examination.
+[4] In the discussions in October or November of 1989 F told O about a $70 million debenture registered against the property in favour of the Bank of Nova Scotia. He told O that if the syndication was successful and the requisite capital raised, F would then negotiate with the Bank to have the debenture "lifted". O testified further that F did not intend to raise that issue with the bank until after the closing of the sale of partnership Units.
+[5] O testified that no Offering Memorandum ("OM") existed at the time of his initial discussions with F. He said that Touche Ross, an accounting firm, prepared a memorandum of outline of the structure and gave it to Howard Kutner ("Kutner"), a lawyer for the investors and that Kutner drafted the OM in December, 1989. O also testified that there was no draft of a Commission Agreement in existence in 1989.
+[6] A "Commission Agreement" is referred to in the OM under the heading MATERIAL CONTRACTS OF THE PARTNERSHIP/CO-TENANCY. The first two paragraphs read as follows:
+World Corp., the Agent, and Alexander O will enter into the Commission Agreement dated as of November 30, 1989. The Agent has agreed to provide all necessary services for marketing and coordinating the sale of the Units pursuant to the Offering Memorandum, in return for which the Agent will be paid a commission by the Partnership in the amount of $3,900,000.00.
+This commission will be fully earned on the closing of the sale of the Units. Subject to the terms described below, the Agent has agreed to defer its receipt of the commission over a schedule coinciding in amounts and at times with the principal instalments under the Note III.
+O testified that he had discussed this with F.
+[7] The other MATERIAL CONTRACTS described in the OM were:
+Commission Sales Agreement - This dealt with the sale of any part of the property and building after the "Property Closing Date". This term is defined in the OM as meaning the date that Asia Pacific and the Partnership agree to close the purchase of the Property pursuant to the Purchase Agreement, which date shall be on or before June 30, 1990.
+Depository Agreement
+This was described as an agreement under which the trust documents would be held by a trustee in trust until conditions of closing were satisfied. It provided that if all conditions of closing were not satisfied on or before the Closing Date the trustee would promptly return to the investors all trust documents without interest. The term "trust document" was defined in the OM to include the subscription agreement, the proceeds of the Trust Cheques, the first equity loan, the third equity loan, the Note I, the Note II, the Note III, the post-dated cheques, the Guarantee Agreement I and the Guarantee Agreement II. The term "Closing Date" was defined to mean the closing of the sale of Units, pursuant to the OM which date was to be decided by the General Partner but not be later than December 31, 1989.
+Purchase Agreement
+This described the arrangement under which the Partnership would purchase the property from the registered owners. It provided that if the closing did not take place before July 1 the investors would have the right to re-sell their Unit to Asia Pacific or Asia Pacific would have the right to re-purchase the Units from the investors at a prescribed purchase price.
+Building Contract
+Lease Back Agreement
+Cash Flow Loan
+Adjusted Project Cost and Extension of Guarantee Period
+Net Net Net Rents
+Services Agreement
+Management Agreement
+Guarantee Agreement I and Guarantee Agreement II
+Partnership Agreement
+[8] Returning to the Commission Agreement, the OM also under "CONDITIONS PRECEDENT TO THE OFFERING" provided, in paragraph (c):
+the Agent, acting reasonably, shall be satisfied with the provisions of the Commission Agreement and the Commission Sales Agreement which agreement ... shall have been executed and delivered, and the commission of the Agent shall have been satisfactorily secured, in the opinion of the Agent acting reasonably;
+Paragraph (b) reads as follows:
+(b) the solicitor for the Partnership, acting reasonably, shall be satisfied either:
+i) with the provisions of the Material Contracts which contracts shall have been executed and delivered and form binding obligations on the parties to them; or
+ii) that Asia Pacific has delivered its undertaking to the Partnership and to the solicitor for the Partnership to finalize all of the Material Contracts as soon as possible after closing but in no event later than March 31, 1990;
+[9] In response to a question from Appellant's counsel as to whether O had seen or been satisfied with the form of Commission Agreement. O said that no Commission Agreement had been prepared but that his lawyer, Donald Milner, was preparing drafts of a Commission Agreement in late December, 1989.
+[10] O also stated that he received a document from John McKellar, Q.C. ("McKellar") of Weir Foulds, solicitor for F and his companies, on December 28, 1989 entitled "AGREEMENT" addressed to Asia Pacific Foreign Securities Traders Inc. ("Asia Pacific"), an F company and to The Senate Congress Partnership ("Partnership") and to Messrs. Weir & Foulds and Howard Kestner (sic) reading as follows:
+FOR VALUABLE CONSIDERATION, the undersigned agree that if the purchase of the Property referred to in the Memorandum and the deed to the general partner has not been closed, and the deed to the general partner registered, by June 30, 1990, for whatever the reason, and whether or not any party or parties is in default in connection therewith, the undersigned agree that they and their sub-agents, successors and designates are not entitled to any commission or listing agreement or right of first refusal in connection with the Project and will cause the return of all commission, agreements, monies, notes, guarantees or other securities in connection therewith and will deliver a release to Asia Pacific, the Partnership, World U.S. Corp. and all other parties involved.
+This was referred to in evidence as the "waiver" or "Waiver". Provision was made for signature by World Corp and World Canada Corp. O said that he was not prepared to sign these documents and in fact they were not signed. He stated that 100 percent of the Units had been sold as at December 28, 1989. He testified that the Appellant had agreed to pay sub-agents the sum of $834,000. He also stated that F did not tell them that the payment of the commission to the Appellant would be conditional on the closing of the land acquisition by the Partnership. O stated that no Commission Agreement or other agreement was signed in 1989.
+[11] Referring to an agreement "made as of the 29th day of December, 1989" between the Appellant and World International Financial Century Corp., a Cayman Island corporation, O said that he had prepared the agreement himself using an agreement from another transaction as a model. This was the agreement assigning the "Commission Payable", also referred to as "the accounts receivable", to the Cayman company controlled by O. Although that document refers to an agreement on the 29th day of December, 1989,
+between, inter alia, Senate Congress Partnership (the "Agency Agreement"), The Limited Partnership agree to pay to World Commission as defined in the Agency Agreement:
+O stated that there was no such agreement. He said the term "Agency Agreement" came from another document. He said that no monies on account of commission were payable to the Appellant because McKellar wanted all monies to be placed in trust.
+[12] O was referred by Appellant's counsel to a letter dated December 28, 1989 to World U.S. Corp., World Corp, and World Canada Corp to the attention of Mr. Alex O, President reading as follows:
+Re: Senate Congress Partnership
+We confirm the following agreements reached today in the above connection:
+1. All funds received from investors and held under the depository agreements have been invested in term deposits with Citibank, Canada and are held at their Islington, Ontario office. Throughout the period of investment, all monies will be similarly invested and held in Ontario.
+2. If any investor defaults upon any payment, there will not be two actions commenced, but rather Asia Pacific Foreign Securities Traders Inc., ("Asia Pacific") will work together with you to take action, at its expense, to collect the payments not made.
+Yours truly,
+WEIR & FOULDS
+Per:
+"signature"
+J.D. McKellar
+Various documents introduced in evidence including letters by Citibank confirmed the deposit of funds as above outlined.
+[13] Also produced was a letter from the Appellant signed by O to the audit manager of Deloitte & Touche dated March 24, 1990 which stated, among other things:
+The following agreements are required to be signed.
+1. Commission Agreement
+2. Commission Sales Agreement
+3. Commission Note
+4. Guarantee
+5. Agreement of Purchase and Sale between PHI International Inc. and Churchill Estates Development Corporation Ltd. (registered owner/vendor) and Senate Congress Partnership (purchaser)
+[14] A letter from World Corp to Deloitte & Touche stated that Kutner, solicitor for the Partnership, had informed O that he had not yet received documents from anyone as of April 27, 1990.
+[15] Appellant's counsel referred O to a copy of an Offer to Purchase executed by two of F's companies, one being the general partner of the Partnership for the purchase of the aforesaid property. Although undated, O testified that he received it some time in June, 1990. He testified further that the real estate closing, that is to say, acquisition by the Partnership of the land in question, took place on June 29, 1990.
+[16] O also stated that neither the Appellant nor World International had received any commission before July 17, 1990.
+[17] On cross-examination O testified that the Depository Agreement, although said to have been executed on November 30, 1989, was prepared to reflect that date but was not signed until June, 1990. He further stated that it was still being drafted in May and June. When asked as to whether the terms of his receiving the commission were settled on December 29, 1989 O replied that McKellar refused to sign unless the Appellant signed the waiver of commission. Also introduced in evidence was a copy of a letter from the Appellant to McKellar, Weir & Foulds, dated June 19, 1990 enclosing executed copies of the Commission Agreement between the Appellant, the Partnership and the General Partner, the Commission Note to be delivered by the Partnership, the Guarantee to be delivered by Asia Pacific and the Commission Sales Agreement between World Canada Corp, the Partnership, the General Partner and O. The letter also pointed out that the Appellant and World Canada Corp had been requested to agree to amendments to two of the original Contracts and stated that they would be executed:
+... only if the following conditions are met, namely:
+1. the Original Contracts must be executed and delivered forthwith;
+2. the purchase of the Property must be completed on the Property Closing Date;
+3. the Note III and the post-dated cheques of the Investors in connection with the Note III must be endorsed, negotiated and assigned to World Corp, and released from any trust under the Depository Agreement; and
+4. the first instalment of the commission payable to World Corp. in connection with the sale of the Units must be paid to it and released from any trust under the Depository Agreement.
+[18] McKellar testified that F had not reached an agreement with the Bank of Nova Scotia as of December 29, 1989 to "lift" the $70 million debenture. McKellar also said that F had a different understanding from that of O respecting the $3.9 million commission. He said that it was F's understanding that no commission would be payable in the event that the prospective sale of the Property to the Partnership failed to close.
+[19] Richard M. Wise, F.C.A., C.A., I.F.A., S.C.V.B., A.S.A., M.C.B.A., ("Wise") was qualified as an expert in business valuation and, specifically, as an expert in valuing financial assets and assessing risk attaching to collectability of financial instruments. His outstanding academic and professional credentials, position, experience, publications, lectures, professional committees and other credentials and activities including significant professional mandates fill six and one-half pages. His report on the fair market value of the commission receivable on or about December 28, 1989 contains his opinion as follows:
+In our opinion, based on the information and documents reviewed, the explanations provided to us, and subject to the restrictions, assumptions and qualifications noted herein, the fair market value of the Commission Receivable (net of subagents' commissions) as at the valuation date was in the range of $60,000 to $390,000, as determined herein.
+A list of the documents reviewed by his firm include the Offering Memorandum, Limited Partnership Agreement, Commission Agreement, Amended and Restated Commission Agreement, Depository Agreement relating to the responsibilities and duties of the Trustee, agreement never signed dated December, 1989 among Asia Pacific, SCP, Messrs. Weir & Foulds and Mr. Howard Kutner, the agent and World Canada Corp), the "Waiver", a sale contract between the agent and the acquirer made as of December 29, 1989 relating to the Commission Receivable, and many other documents.
+[20] In describing the nature and history of the Commission Receivable he states that SCP, the limited partnership, was established to acquire property and construct a building thereon, the promoter and manager being Asia Pacific. He stated that both the General Partner and Asia Pacific were shell companies without assets or financing ability and were directed and controlled by F. He said that by the valuation date all Units of the Limited Partnership had been sold. He said that investors were required to make an initial cash payment of $1,431.49 per Unit and were to obtain equity loans from Asia Pacific to fund the balance of the purchase price. He stated further that investors also issued three promissory notes ("Notes I, II and III") covering interest payable on said loans. He then described Note III as being issued in principal amounts corresponding to the instalments of the Commission Receivable, namely $9,289.82 per Unit. These notes were dated March 1, 1990, June 1, 1990, December 1, 1990, June 1, 1991, December 1, 1991 and June 1, 1992. He stated that Note III and the cash payment made by investors, totalling $548,260.67 were held in trust by the trustee pending release to SCP when all conditions preceding release were satisfied.
+[21] Wise said that at the valuation date no Commission Agreement had been signed or finalized, stating further that the Commission Agreement and the waiver were in draft form and unsigned. He said that the Amended and Restated Agreement was not drafted until several months after the valuation date, namely in late June, 1990. He said that accordingly, his firm reviewed the Commission agreement, being
+the only document, which although unsigned, had been drafted as of the valuation date.
+It provided that the partnership was responsible for and liable to the agent for the payment of sales commissions totalling $3,900,000. The commission was to be paid in instalments on December 29, 1989, March 1, 1990 and instalments ending June 1, 1992 corresponding in time and amount with the Note III instalments to be received from investors.
+[22] Wise stated his understanding that the Commission Agreement was signed on June 28 or June 29, 1990. He then said that on December 28, 1989 Asia Pacific's legal counsel sent the Appellant the above described Waiver to be signed in an attempt to finalize the Commission Agreement. The Waiver, dated December 28, 1989 provided that the agent would not be entitled to any commission in connection with SCP, and would effect a return of all commissions, agreements, monies, notes, et cetera until the purchase of the property was formally consummated. He stated that the only differences between the Commission Agreement and the Amended and Restated Agreement was that the Commission Receivable was dependent upon the property purchase being consummated before July 1, 1990 and the instalment dates were varied in that the first payment was postponed to June, 1990.
+[23] He stated that the closing of the offering of the Units was subject to a number of conditions. If any of those conditions were not met investors would be entitled to rescind their subscription and receive a refund of their money. Further, if the partnership had not acquired the property before July 1, 1990 the investors would be entitled to sell their Units back to Asia Pacific which had agreed to purchase them for a price equal to the invested cash of the investor.
+[24] Wise then referred to the conditions precedent referred to above as set out in the OM which he described as the only final document at the valuation date, those conditions being:
+(a) the sale of at least 60% of all the Units offered;
+(b) the solicitor for SCP, acting reasonably, being satisfied that either:
+i) the provisions of the material contract had been executed and delivered and formed binding obligations on the parties to them, or
+ii) Asia Pacific had delivered its undertaking to SCP and its solicitor to finalize all of the material contracts as soon as possible after closing but in no event later than March 31, 1990;
+(c) the Agent acting reasonably, being satisfied with the provisions of the Commission Agreement;
+(d) Touche Ross & Co. having provided its tax letter; and
+(e) Weir & Foulds, solicitors to Asia Pacific, having rendered its opinion to Touche Ross & Co. to the effect that the sale of Units conformed with the requirements of the Securities Act (Ontario) and the Regulations thereunder.
+[25] Wise then stated in his report that:
+Accordingly, as the delays in finalizing the terms of the material contracts and condition (c) above were not met, the completion and fulfilment of the offering continued to be in doubt until late June 1990.
+The Depository Agreement (one of the material contracts referred to in the Offering Memorandum), although not executed until late June 1990, was in draft form at the valuation date. Section 2.02, which provided that the trust documents were to be held by the Trustee pending the purchase of the Mississauga Property by SCP, was included in the draft agreement.
+In summary, as (a) the investors would have been entitled to require Asia Pacific to purchase their Units for a price equal to the cash invested in the event that the Mississauga Property was not acquired by SCP on or before June 30, 1990 and (b) Asia Pacific was a shell company lacking the financial ability to pay the Commission Receivable in the event that it was required to purchase the investor's Units, it appears doubtful that Asia Pacific would have agreed to pay the commission prior to being able to unconditionally and irrevocably retain the investors' monies.
+[26] Wise referred to the Appellant's sale contract of the Commission Receivable and stated that there was no guarantee of collection by the acquirer of the Commission Receivable because the purchase of the property had not been approved by the Bank of Nova Scotia and further because the General Partner and Asia Pacific were both corporate shells, neither having any material net worth.
+[27] Wise then referred to the seven instalments of commission payable, stating that the Commission Agreement was not signed as of the valuation date, that the waiver of the commission had not been signed and that the initial payment of $341,998.94 due on the "Closing Date" by SCP was not paid to the Appellant.
+[28] Wise's report then said:
+The Offering Memorandum provided that the Agent's commission "will be fully earned on the closing of the sale of the Units." It appears clear that the Agent had earned its commission in the sense that it had fulfilled its obligations to SCP as all Units had been sold; however, its ultimate collectibility was doubtful as at the valuation date partly as a result of it being unclear at the valuation date whether the Agent was entitled to the Commission Receivable.
+[29] The main issue in this appeal being a valuation question I shall quote a substantial portion of Wise's opinion.
+5.2 Collectibility of Commission Receivable
+As noted above, the Commission Agreement had not been signed as of the valuation date and, in fact, was not signed until the Mississauga Property was acquired (i.e., at the end of June 1990).
+As the Court will determine all applicable questions of law, we have not based our report on any legal opinion with respect to the right, if any, of the Agent to enforce payment of the Commission Receivable as of the valuation date. Rather, we have assumed for purposes of our opinion as business valuators that, in light of a number of factors, the Agent had no legal right as of the valuation date to enforce payment of the Commission Receivable. The relevant factors supporting this assumption of law include the following:
+(a) the Offering Memorandum contained no draft Commission Agreement;
+(b) it was a condition precedent to the offering that the Agent "shall be satisfied with the provisions of the Commission Agreement ... which agreements ... shall have been executed ...";
+(c) while a draft Commission Agreement existed as of the valuation date, it was never executed as of that date by SCP;
+(d) SCP apparently would not sign the draft Commission Agreement unless and until the Agent signed a Waiver Agreement that significantly altered the terms of the Commission Agreement by making payment to the Agent conditional upon closing of the acquisition of the Mississauga Property;
+(e) the Agent refused to sign the Waiver Agreement; and
+(f) not only was there no signed agreement by the valuation dated obliging SCP to pay the Commission Receivable, there was apparently no oral agreement or understanding between the Agent and SCP as to terms and conditions of any such agreement.
+As of the valuation date, the following facts were known and, accordingly, an analysis and quantification of the resulting risks, inasmuch as they affected the ultimate collectibility of the Commission Receivable, would have to be performed.
+(a) SCP, Asia Pacific and the General Partner had no significant assets or net worth; hence they did not have the financial ability to pay the Commission Receivable at the valuation date and would not acquire same unless the Mississauga Property acquisition closed on or prior to June 30, 1990;
+(b) The Commission Agreement was unsigned as of the valuation date;
+(c) The Commission Receivable was payable in instalments over a period of two and one-half years (according to the unsigned Commission Agreement) and there was risk at every instalment date that the required payment would not be made;
+(d) The Commission Receivable was non-interest-bearing (until such time as a default occurred on the payment of any instalment);
+(e) The payor had not paid the first instalment of the Commission Receivable, i.e., the amount due at the Closing Date;
+(f) As a result of the Waiver imposed by SCP immediately prior to the valuation date and as confirmed by the Amended and Restated Agreement, a condition to the Commission Receivable being due was the acquisition of the Mississauga Property prior to or at June 30, 1990;
+(g) Although the payments of the Commission Receivable were secured by all Notes III provided by investors should the Mississauga Property acquisition not be finalized at or prior to June 30, 1990 this security would have little value. This results from the fact that investors would be able to demand from Asia Pacific the repurchase of the Units for a consideration equal to the invested cash. Furthermore, upon this transaction taking place, all trust documents, including the subscription agreement, proceeds of the trust cheques, Notes, post-dated cheques (corresponding to the payments on the Notes), guarantee agreement I and the guarantee agreement II were to be returned to the investors.
+Consequently, in the event that the Mississauga Property acquisition did not close by June 30, 1990, the investors had the first right to Note III pursuant to Article 11.01 of the Limited Partnership Agreement. The Mississauga Property closing was also contemplated in the Waiver requested by the SCP and the Amended and Restated Agreement;
+(h) There were numerous other conditions of closing (refer to Section 4.3 above) which could have caused the entire transaction to collapse. Further, as stated above, we have assumed for purposes of our opinion that, as of the valuation date, the Agent had no legal right to enforce payment of the Commission Receivable. If that assumption of law is correct, it follows that, as of the valuation date, the Agent had no legal enforceable rights to assign to the Acquiror; and
+(i) As of the valuation date, there was substantial risk surrounding the acquisition of the Mississauga Property. In particular, the risks included (i) obtaining the necessary financing, (ii) being granted a release by the Bank of Nova Scotia, (iii) a deteriorating economic situation and (iv) deteriorating real estate market opportunities in Ontario around the valuation date, particularly for syndicated real estate projects in 1989.
+We also wish to note an important and basic principle of valuation, namely, that hindsight (or retrospective evidence is inadmissible. That is, when negotiating open-market transactions, neither the vendor nor the purchaser has the benefit of knowledge of events that will take place at a point in time subsequent to that as of which value is being determined. The courts consistently hold that hindsight is inadmissible when determining value in the notational market, except to the extent hindsight may be admitted for the purposes of confirming the assumptions made, and conclusions reached, as of the valuation date.
+[30] Wise then referred to the standard definitions of fair market value and continued as follows:
+To determine the fair market value of the Commission Receivable at the valuation date, we applied risk factors to the discounted value (i.e., discounted to recognize the time-value of money) of the Commission Receivable to reflect the following uncertainties:
+(a) at the valuation date, the Mississauga Property, on which the entire transaction was based, had not been secured, nor were sources of financing guaranteed;
+(b) between the valuation date and June 30, 1990, there was a distinct possibility that the Bank of Nova Scotia would enforce its security of the Mississauga Property since the debtors were in default on a $70 million debenture;
+(c) the investors' contributions were contingent upon SCP's finalizing the acquisition of the Mississauga Property. Consequently, as the General Partner, Asia Pacific and SCP were shells (with no assets), there were no alternative sources of financing to meet the Commission Receivable obligation;
+(d) given the number of failures experienced in the real estate market on or about the valuation date, particularly in syndicated and limited partnership deals, the drafting of numerous [unsigned] agreements surrounding the proposed transaction alone was not sufficient to guarantee that the Commission Receivable would be ultimately collected, as evidenced by the default of the first payment; and
+(e) there were conditions, subsequent to June 30, 1990, which had to be met for the project to be successful. Any one of these events (approval of plans by the city of Mississauga, obtaining a building permit, successful completion of construction, leasing the building units, etc.) may not materialize, and accordingly, the collectibility of future instalment payments of the Commission Receivable was not assured.
+5.3.2. Valuation of Commission Receivable
+To determine the fair market value of the Commission Receivable as at the valuation date, we first determined its discounted value, taking into account the time-value of money. We then applied discounts to consider the risks associated with the collectibility of the Commission Receivable.
+5.3.2.1. Discounted Value of Commission Receivable
+As outlined in Section 5.1, the Commission Receivable was to be received, assuming all conditions were met, over a period from the Closing Date to June 1, 1992 (the "Collection Period"). To determine the present value of the Commission Receivable, we selected a discount rate with regard to the time-value of money, taking into account the following alternative rates of return available on or about the valuation date:
+Government of Canada Treasury Bills,
+90-day maturity 12.22%
+Average bond yield on Government of
+Canada securities:
+1-3 years 10.84%
+3-5 yeas 10.19%
+5-10 years 9.68%
+10 years and over 9.69%
+Corporate bonds (weighted long-
+term average yields) 10.75%
+Chartered bank prime lending rate
+for business loans 13.5%
+Trust company guaranteed investment
+certificates, 5 years 10.46%
+Convention mortgage lending rates,
+5 years 12.00%
+Based on the foregoing, we believe that, on or around the valuation date, an appropriate (risk-free) discount rate to be applied to the Commission Receivable for valuation purposes was in the rate of 10% to 12%.
+By applying such discount factors to the Commission Receivable over the Collection Period, we arrived at a rate of $3,492,000 to $3,422,000 (Schedule II).
+5.3.22.2. Fair Market Value of Commission Receivable
+As noted above, there were various risks associated with the ultimate collection of each and every instalment of the Commission Receivable. To arrive at the fair market value of the Commission Receivable, we applied discounts to recognize these risks.
+To recognize the degree of uncertainty relating to the ultimate collection of the Commission Receivable during the Collection Period, we applied the following risk factors to the discounted Commission Receivable determined in Section 5.3.2:
+(a) We applied a risk factor in the range of 35.0% to 37.5% to reflect the risks related to the fact that the offering continued to be in doubt at the valuation date, the Mississauga Property having not been secured and the approval by the Bank of Nova Scotia having not been received.
+To support the risk factor related to the Mississauga Property, we reviewed various industry publications and articles concerning syndicated and other forms of real estate deals proximate to the valuation date.
+In addition, we interviewed various consultants, financial analysts, securities brokers and syndicators as to the investment climate in or around 1989, more specifically the success and risk factors associated with the establishment of real estate partnerships and syndications.
+As a general comment, most of the individuals who were interviewed agreed that in 1989 many real estate deals failed because of (i) the downturn in the real estate market, (ii) high interest rates and (iii) the introduction on the market of investors, brokers and developers which had virtually no prior experience in the real estate sector (as was the case for SCP). As a result, investors and other parties were not carrying out proper due diligence and, in many cases, deals were being formulated which were not financially sound to begin with.
+Most individuals interviewed felt new-construction real estate deals were inherently more risky than "up and running" operations, as there was (and continued to be) a greater incidence of parties not meeting their commitments, inexperienced developers not offering sufficient guarantees to investors and investors making decisions based on tax issues without verifying the underlying value of the real estate.
+We obtained information that, despite offerings and numerous documents and related agreements finalized, in excess of 50% of deals had failed in 1989 because parties were retracting their commitments at the "eleventh hour" without allowing sufficient time for promoters to access economical refinancing, given the high interest rates.
+The results of our survey attributed the failures in 1989 to the fact that deals were poorly structured, overpriced (given interest rates at the time), prepared by brokers and promoters with little experience in the real estate industry and structurally unsound developments. In many cases reported, the paperwork (offering memoranda and related documents), although drafted, was not finalized and, accordingly, deals were being abandoned. Undue reliance was being placed on developers to carry out proper development work, obtain adequate financing and provide sufficient guarantees to investors. Investors and other interested parties were neither carrying out proper due diligence nor obtaining independent advice as to the strength of the investment vehicle, the sponsorship, the developers, and more importantly, the validity of lender commitments. In many cases, lenders had not granted formal commitments and, in the absence of a secondary market, many real estate deals were either abandoned or had failed because of a lack of confidence in the depressed real estate market.
+(b) We applied a risk factor in the range of 10.0% to 12.5% to recognize that the General Partner, Asia Pacific and SCP lacked financial net worth to secure the Commission Receivable as at the valuation date.
+(c) We applied a risk factor of 10.0% to 12.5% to reflect the risk of non-fulfilment of terms and conditions of the investors' Note III on which the payments of the future instalments were entirely dependent (e.g., financial ability to pay of each investor, risk of "stop" payments on post-dated cheques of Note III, the fact that Note III was unsecured and would not be endorsed until after closing, etc.). In other deals, many investors expressed financial difficulties for not having been advised property and not having the financial strength to assume the responsibilities inherent in the real estate development deal. Many investors, in or around 1989, had to withdraw, given high interest rates and their inability to obtain beneficial financing.
+(d) We applied a risk factor of 5.0% to reflect the fact that material agreements were still in draft form at the valuation date.
+(e) Given the failures witnessed on the market, in or around 1989, there was a risk that the instalment payments would not be met in accordance with the pre-agreed schedule, as evidenced by the default of the first instalment. Therefore, we applied a risk factor of 5.0% to 7.5%.
+(f) It should be noted that we have applied no specific risk factor with respect to the assumption in law we have made as valuators that the Agent had no legally enforceable right to enforce payment of the Commission Receivable as of the valuation date.
+Accordingly, we determined the fair market value of the Commission Receivable to lie in the range of $851,000 to $1,222,000 (Schedule I) at the valuation date, discounted to take into account the time-value of money as well as the various risks outlined above.
+[31] Wise then dealt with the subagents' commissions stating that he deducted amounts to reflect the $833,635 in commissions payable by the Appellant to sub-agents at the valuation date. He pointed out that while no written agreements were drafted for the commissions so payable by the Appellant there was, in Wise's understanding, a history of good faith business relations among the Appellant and the sub-agents. He also stated that the agent had never disputed its obligation to pay them.
+[32] Finally, Wise's statements under the heading "ASSUMPTIONS" reads as follows:
+7. ASSUMPTIONS
+In forming our opinion of fair market value, we have assumed, in addition to the assumptions noted throughout this report, that:
+· the Trustee could not release any funds to the Agent in the event that the Mississauga property did not close;
+· SCP, the General Partner and Asia Pacific had no alternative source of financing (other than through the development project) to pay the Commission Receivable to the Agent;
+· it was difficult (given the market at the time and lack of lender confidence) to obtain financing for the Mississauga Property at the valuation date;
+· there were no contracts or agreements in effect or being negotiated at the valuation date which would have a material effect on the Commission Receivable, that have not been noted in this report;
+· the Agent accepted that it had an obligation to pay the subagents' commissions;
+· as a matter of law, the Agent had no right to enforce payment of the Commission Receivable as of the valuation date; and
+· there are no significant factors that bear on the fair market value of the Commission Receivable at the valuation date that we have not considered in reaching our conclusions as noted herein.
+SUBMISSIONS BY APPELLANT'S COUNSEL:
+[33] Counsel, after highlighting salient facts, said that there was risk that the Bank of Nova Scotia would not cooperate in removing the $70 million debenture against the property thereby creating an obstacle to its successful syndication. He submitted that the limited partners would not assume responsibility for that debt if the debenture had to be removed before the closing of the sale of the property. He submitted that O and F were not ad idem in their 1989 discussions respecting the consequences that would flow from the failure to complete the property purchase. He referred to O's testimony to the effect that F never indicated that the commission was conditional upon the property closing. In this regard, he referred to McKellar's evidence that F's understanding was that no commission would be payable upon failure to close.
+[34] Counsel then said that this issue "did not become manifest in the Offering Memorandum". He submitted that the first draft of the OM was based upon a deal memorandum provided by Touche Ross. He continued that that memorandum set out the basic business structure, that Kutner prepared a draft of the OM and received comments from Touche Ross, from McKellar on behalf of F and from Milner on behalf of the Appellant. Counsel suggested that the OM could be seen as an attempt by Touche Ross, the tax advisors of the limited partnership, to "have one's cake and to eat it too". He referred to a schedule to the Touche Ross report, respecting the 1989 year which referenced a loss position to the Partnership, thereby providing the investors with a deduction for that taxation year.
+[35] He also referred to the closing conditions precedent in the OM which he stated made it clear that Kutner, for the Partnership, must approve all material contracts, including the Agency Agreement. He referred also to the provision that the agent must be satisfied that the provision of the future written Commission Agreement and the agent's right, is also referred to as a condition precedent to the closing. He stated that the OM made it clear that not only were the provisions to be approved by Kutner acting reasonably and by the agent acting reasonably but that it was to be executed and delivered by the date of the Unit closing, subject to the right of the promoter to give an undertaking to finalize the material contracts after the Unit closing, but before March 31, 1990. He referred to McKellar's evidence that F gave such an undertaking but that none of the material contracts in issue were approved or executed at that time.
+[36] He then referred to that part of the OM which spoke in terms of certain prospective contractual provisions which the agent had agreed to provide. He read a portion of the OM as follows:
+In order to secure any part of the commission not paid to the agent on the Closing Date, the Partnership has agreed to assign and negotiate the Note III of each investor, together with the corresponding post-dated cheques to the agent on the closing date...
+[37] Counsel then stated that O, as a lay person, was having trouble when he was cross-examined on that point because he, as a business person, understood that under the OM he wasn't going to get those notes and in fact didn't get those notes until the closing of the real estate transaction. He then said:
+And this perhaps is the best example of an OM that tries to be all things to all people and, as I characterize, having your cake and eating it too.
+[38] Counsel stated that the OM, read as a whole, spoke of prospective obligations in the agreement, not prepared and executed on or before the valuation day. He submitted that in spite of language in the OM to the effect that the commission would be fully earned by the Appellant on the closing of the Unit sale, O said that that was language that Mr. Tsi, a Touche Ross partner, insisted upon. He referred to it as "evocative tax driven language". He spoke then of non-executed contracts and conditions precedent which had not been met. He referred to the fact that if the partnership had not completed its property purchase at the date of the Unit closing then all subscription agreements, initial down payments, Note III and all post-dated cheques were to go into trust. He referred further to the fact that if the property acquisition did not close by June 30, 1990, all investors were entitled to receive back their invested cash which was defined to include initial deposits, subsequent deposits and Notes III. He then said:
+So, in short, while you don't see it on pages 23 and 24 where the accountants have a 1989 deductibility, the document, read as a whole, contains a mechanism to unwind the investors' syndication completely.
+[39] Counsel then referred to the portions in the OM that provided that notwithstanding the completion of Unit sales on the defined Closing Date the trustee was obliged to retain the trust cheques and all payments under the Notes until the property purchase had been completed with the property registered in the name of the general partner. He then submitted that when the limited partnership agreement came into existence it was clear that the limited partners had a mechanism to exercise their rights to exit their obligations, the Offering Memorandum being a "bare-bones outline of material contracts that are yet to come into existence". He then emphasized that it was clear from the entire OM that there was no entitlement and there was no collectibility because all the money was to be held in trust, the initial deposit, the Notes, the future cash, all of that to be held in trust subject to a future and uncertain event. He referred to McKellar's testimony that if the property was not acquired by June 30, he, McKellar, expected that all investors would require the re-purchase of their Units. He followed by stating that McKellar had not been challenged on that assertion. He then referred to McKellar's evidence that F was not going to sign any draft commission agreement if the foregoing waiver agreement was not also signed.
+[40] Counsel then referred to O's evidence that Canada Customs & Revenue Agency ("Revenue") disallowed the 1989 taxation year partnership expense loss attributable to the commission although it allowed same for subsequent years. The following exchange respecting the Appellant then took place, my use of "he" referring to O for the Appellant:
+HIS HONOUR: Are we in the position that the very government agency that disallowed that expense claim to the investors is the one that said now that he was entitled to it?
+MR. ROEBUCK: Yes. I don't think I can say any more on that point.
+[41] With respect to what counsel referred to as a "commission agreement and unconditional commission" and then a "conditional amended and restated commission agreement" he posed a question as to why there were two agreements. His response was:
+Because it all depends on who's knocking on the front door. If its CCRA knocking on the front door, you hand them the absolute unconditional agreement and say the partnership was obliged to pay and the payments are deferred. But if its World Corp, Mr. O, knocking on the door, looking to be paid, you hand him the conditional agreement and say you don't have a right unless and until the real estate property closes.
+[42] He then reviewed the evidence that O met with McKellar and that he gave O a copy of both agreements, the conditional and unconditional, but made the Appellant sign the undertaking that says if the real estate transaction scheduled to close the next day didn't close, O undertook to give back the commission agreement, the amended and restated commission agreement and commission Notes. He then said that Kutner, solicitor for the Partnership, did not approve the form of commission agreement until June 25, 1990 at the earliest, with execution thereof taking place on June 28. He also reminded the Court that the $70 million debenture was not removed until June 29, 1990.
+[43] Respecting the commission agreement counsel stated:
+If Mr. O chose to sue, in my respectful submission, he wouldn't have an oral understanding with the partnership to rely upon and he wouldn't have that which was contemplated in an Offering Memorandum, namely a written contract approved by both parties.
+Still, in my respectful submission, it is absolutely clear that no contract was entered into, oral or written, was entered into with the agent and the partnership as of December 29, 1989.
+And I therefore say that in this respect this is an issue that is left entirely to Your Honour, not to the valuator. If you agree with that submission, then in my respectful submission it is appropriate for you to apply a further discount to the valuation of Mr. Wise since Mr. Wise only dealt with the issues of the collectibility.
+He then said that if a business person looked at the collectibility risks and superimposed an enforcement risk or an enforcement certainty one would only pay a nominal or speculative amount. He then submitted that it would not be greater than $35,000 U.S. and an assumption of liability for the sub-agents. Counsel added that the assignment of the commission to the Cayman Island company described the right to the commission in the preamble as an agreement with Senate Congress Partnership and that it only assigned rights with respect to a purported agreement or arrangement with the partnership. He then emphasized that O had prepared the document without legal consultation and that what he purported to assign was not his rights as against the rest of the world but his rights as against the limited partnership.
+SUBMISSIONS OF RESPONDENT'S COUNSEL:
+[44] After presenting submissions about the meaning of "fair market value" counsel referred to Hallatt et al v. The Queen, 2001 DTC 128 at page 132, where Bowman, A.C.J. of this Court said:
+It must however be borne in mind that what the court has to do in a valuation case of this type is to attempt to arrive at the price upon which willing and knowledgeable vendors and purchasers would settle. This is a relatively mundane task in which common sense and commercial reality necessarily play a large part.
+She then said that:
+It is the role of the Court to look at the facts in evidence that were known on the valuation date and to impute this full knowledge into the minds of the purchaser and vendor in order to determine the fair market value of the Commission Receivable.
+[45] Counsel submitted that the facts concerning the collectibility and enforceability of the commission receivable support a finding that the Appellant had taken steps to structure the deal in an effort virtually to eliminate the risk of non-collection. She submitted that in the circumstances the fully informed vendor and purchaser would agree that the discount made for those risks would be minimal.
+[46] She submitted that the OM was the document provided to potential investors to promote the transaction and that the vendor and purchaser must be presumed to have knowledge of that document and the facts described therein. She stated that documentary evidence indicates that the terms stated in the OM reflected the agreements (obviously meant to be "verbal agreements") as they existed between the parties on the valuation day. She then said:
+In addition, it is not sufficient to say that the provisions of the OM that stated that the commission had been fully earned were in fact inaccurate and were merely tax driven by unwitting accountants. The OM is a serious document governed by the Securities Act. It must not contain misrepresentations as noted by section 130 of that Act. Indeed the OM gives the investors a statutory right of action if there were any misrepresentations.
+From that, it would be reasonable for a prudent and knowledgeable vendor and purchaser on the valuation day to believe that the terms of the OM were accurate, especially the terms that gave the investors certain tax opportunities. The investors would rely on those provision (sic) to take their bona fide write-off.
+[47] With respect to enforceability counsel stated that on valuation day a hypothetical vendor and buyer would have the benefit of the OM which said that F controlled companies that were the promoter, general partner and original Limited Partner. She then said:
+They could assume from this that when he negotiated the OM, he was speaking for the partnership as well.
+[48] Counsel made further submissions as follows:
+The OM states that the Commission will be fully earned on the closing of the sale of the Units, and that the Agent has agreed to defer payment of the Commission.
+... there is no document in evidence that existed at valuation date upon which Farantatos could rely to prove that the earning of the commission was contingent upon the acquisition of the Mississauga property ...
+Even the Commission Agreement which was in draft form at valuation date mirrored the OM and did not state the Notes III were to be returned or cancelled if the ... Property did not close or that the Agent was not entitled to the Commission if it did not close.
+The only provision in the OM about the failure of the ... property to close was that the investors would be able to sell back the Units at a price EQUIVALENT to their "invested cash".
+"Invested cash" in the OM includes amounts that the investors paid on account of Note III.
+However, this provision of the OM only states that the promoter must pay the investor the equivalent of those amounts. It does not say that the Note III would be returned or cancelled.
+The partnership agreement was not reduced to writing until the spring of 1990. It was not in existence at valuation day. There is no statement either orally or written, as of valuation day that the Notes III were to be returned to the investor if the ... Property did note (sic) close. The only thing that existed was the summary of the partnership agreement.
+There is no evidence of any discussions as of valuation day of the return of the Notes III.
+[49] Counsel said that the OM states that the Notes III and corresponding post-dated cheques were meant to pay the commission and that the partnership had agreed to assign and negotiate the Notes III and post-dated cheques to the agent on the closing date. She then said:
+various provisions in the OM informed the investors that the obligations they were accepting in respect of the payments under Notes III were a specific risk and would not be subject to any rights of set-off whatsoever or any other equities.
+and
+the Note III itself contains a paramountcy clause which states that the terms of Schedule "F" take precedence over all other agreements.
+[50] Counsel submitted that a prudent vendor and purchaser with full knowledge of the aforesaid facts would not be overly concerned with the prospect of litigation in the event that F denied that the commission receivable had been fully earned at the valuation date.
+[51] Counsel also said that there was high likelihood that the property would be acquired by June 30, 1990. She referred to the fact that F had a great deal of experience in real estate syndications, that he was the sole shareholder and controlling mind of the promoter (Asia Pacific), that he controlled both companies owning the land, that he was the sole director of the general partner and the original limited partner and on valuation day was actively taking all necessary steps to permit the property to be transferred by the date contemplated in the OM. She closed that portion of her submission by saying that the vendor and purchaser could conclude that F had the experience, ability and personal qualifications that would enable him to negotiate successfully the transfer of the property from his corporation to the partnership. She submitted that the purchasers, being intelligent individuals, would assume the risk of default as being minimal and that very little should be given by way of discount. She submitted that there was a dispute between F and O but that it was possible that the presentation of the waiver at the last minute "was simply posturing or an effort to get a better deal. She said that the belief and intentions of Farantatos might have been information that a Vendor or Purchaser would have attempted to determine on Valuation Day, but that Farantatos was not called to give evidence."
+[52] She argued that investors had made their payments as required and that the payments for the commission receivable were to be funded from the investors' downpayment and post-dated cheques. She stated that on valuation day none of these payments was in default. She then said that they had been paid but were being held by the trustee. This was followed by the statement that although Wise applied a discount to reflect the fact that the general partner, Asia Pacific, and the partnership lacked sufficient net worth to secure the commission receivable at valuation date, the evidence was that the Notes III had been set up to secure the payments of the commission. She submitted that a prudent vendor and purchaser would place minimal or no weight on the risk of default because there was no evidence that the investors were likely to default.
+[53] Counsel then submitted again that there were no investor defaults and that the payments under the Notes were made. She stated that the property transaction closed as expected by the OM.
+[54] With respect to the small business deduction, counsel submitted that the Appellant was not a Canadian-controlled private corporation, as defined in subsection 125(7) of the Act because it was controlled, in fact, by O even though he only owned 49 percent of the shares of the company. She suggested that without O, the company business activity would cease, he being a registered securities dealer and that this was the sole business of the Appellant.
+ANALYSIS AND CONCLUSION:
+First Issue:
+[55] I accept and agree with the submissions of Appellant's counsel. They, unlike the Respondent's submissions, took into account a considered analysis of the pertinent facts described in Judge Bowman's words as, "the common sense and commercial reality". I also agree with the logic of Wise's analysis and accept his conclusions, with slight modification. That modification will be dealt with later respecting enforceability of the right to collect the commission. The combination of Appellant's submissions and the Wise opinion have led me to conclude that the OM was prepared on the basis of furnishing investors with partnership loss deductions for the 1989 taxation year and that the urge to take advantage of same had paramountcy over consideration of the many steps that had to be taken in order for the transactions contemplated therein to be completed.
+[56] Respondent's counsel adduced no evidence, ordinary or expert. There was, accordingly, no explanation of how the Minister arrived at or could support the valuation of $2.5 million for the Commission Receivable. Appellant's counsel did not deal with my comment in Court about the fact that Revenue denied a deduction to the investors of their share of the partnership loss created by the commission said to be owing in 1989, while for the same period[1] it, paradoxically, assessed the Appellant in respect of a large portion of the commission receivable.
+[57] Wise stated in his report that no legal opinion had been obtained with respect to the right, if any, of the Appellant to enforce payment of the commission receivable as at valuation date. He said, as quoted above:
+Rather, we have assumed for purposes of our opinion as business valuators that, in light of a number of factors, the agent had no legal right as of the valuation date to enforce payment of the Commission Receivable.
+[58] Whereas Respondent's counsel sought to persuade the Court that little, if any, heed be paid to the Wise report and that attention should be focused upon the OM, this ignores the reality of the events described in detail in evidence. One cannot ignore the fact that the commission agreement was to be entered into between the partnership and the Appellant. That was not done until the time of the partnership acquiring the property, namely in June, 1990. One cannot ignore the fact that the partnership may never have acquired that property, among other reasons, it being subject to a $70 million debenture in favour of the Bank of Nova Scotia. One cannot ignore the existence of the conditions precedent described above. One cannot ignore the financial position of pertinent entities, described above, having no assets whatsoever. One cannot ignore F's view of the circumstances, namely that no commission would be payable until the partnership acquired the property. One cannot ignore the fact that material contracts described in the OM were not in existence at valuation date. One cannot ignore McKellar's evidence concerning the waiver agreement in support of F's position which he described clearly with respect to no commission being payable until the property acquisition. One cannot ignore the fact that the agreements were substantially not completed and executed until the end of June, 1990. The point is that on the valuation day none of these documents contemplated by the OM had been executed and none of the acts contemplated by the OM had been performed.
+[59] Respondent's counsel's statement that
+there is no document in evidence that existed at valuation date upon which Farantatos could rely to prove that the earning of the commission was contingent upon the acquisition was contingent upon the acquisition of the ... property
+ignores the oral evidence presented.
+[60] She submitted that the purchasers, being intelligent individuals, would assume the risk of default as being minimal and that very little should be given by way of discount. I regard this as an attempt, in the absence of any expert evidence produced by the Respondent, to trivialize the opinion of Wise, one of the country's best valuators.
+[61] Further, Respondent's counsel's statement "that the property transaction closed as expected by the OM" refers to a fact some six months after the valuation day, having absolutely no relevance to the valuation process.
+[62] I now deal with the aforesaid modification of the Wise opinion. Respondent's counsel, while founding her submissions upon a construction of the OM without countenancing the mass of evidence presenting relevant commercial facts, dealt solely with the provisions with which she sought to advance the Minister's position. For example the Commission Agreement referred to under MATERIAL CONTRACTS in the OM stated:
+... the Agent will be paid a commission by the Partnership in the amount of $3,900,000.00"
+In her submissions on enforceabililty her comments that F was in charge of the promoter's companies and of the general partner corporation, were facile. They ignored the above provision of the very document that was the foundation of her presentation. In what capacity would F be sued? This was a shotgun approach of general legality without a precise point being made. The Appellant's assignment of the commission receivable, although not a well prepared legal document, clearly contemplated payment of the commission to the Appellant by "The Limited Partnership" There is no evidence that any such agreement existed on December 29, 1989.
+[63] Respondent's counsel said:
+The OM is a serious document governed by the Securities Act. It must not contain misrepresentations as noted by section 130 of that Act. Indeed the OM gives the investors a statutory right of action if there were any misrepresentations. ... From that it would be reasonable for a prudent and knowledgeable vendor and purchaser on valuation date to believe that the terms of the OM were accurate, especially the terms that gave the investors certain tax opportunities.
+This totally ignores the fact that it is the value of the commission receivable that is in dispute, not the sanctity of the OM and what investors may have thought. Further, the fact that the investors had some statutory right of action is irrelevant.
+[64] Counsel said that there was "a high likelihood that the" property would be acquired by June 30, 1990. She then stated that that was the responsibility of F and then recited facts relating to F's experience and connection with corporate entities involved. This is sheer speculation not leading to any solid conclusion that all that was contemplated would be achieved. Her submission that F was not produced to give evidence lies, in part, at the Respondent's feet.
+[65] Counsel's statement that O's refusal to sign the waiver was followed by this:
+At most, this is evidence of a dispute although it is also possible that the presentation of the waiver at the last minute by Farantatos was simply posturing or an effort to get a better deal.
+These words were designed to support her statement that:
+It is incorrect to say that on Valuation Date the right to the Commission was contingent on the acquisition of the Mississauga Property.
+Again, this is speculation not taking into account the very real facts touching upon the value of the assigned commission receivable.
+[66] Although Wise had made an assumption that the Appellant had no legal right as of valuation date to enforce payment of the commission receivable, he, not being a lawyer and having had no legal opinion expecting same, was in no position to conclude that there was no such right. Having agreed with the comments of one of the foremost valuators in Canada and having agreed with the sensibility of the submissions advanced by Appellant's counsel and having observed the limited view taken by Respondent's counsel, namely reliance upon the OM without heed to the commercial realities, I have determined, not assumed as did Wise, that the right to enforce payment of the commission on the valuation day was so remote as to be worthless. O made some reference to the Securities Commission requirements but there was no evidence as to how the value of $41,300 was fixed for the assignment of that right. I am unable, in the circumstances, to ascribe any value greater than the sum of $41,300 to that right. It is my frank view that, in the circumstances, that sum was far too high.
+Second Issue:
+[67] It follows that I need not deal with submissions as to withholding tax assessed together with accompanying interest and penalties.
+Third Issue:
+[68] With respect to the small business deduction and whether the Appellant was a Canadian-controlled private corporation, Respondent's counsel sought to persuade the Court to accept a submission based upon subsection 256(5.1) which deals with control in fact. Appellant's counsel, Mr. Ronald Farano, rightly objected to the Respondent's ability to refer to this section on the grounds that it was not raised in the Reply to the Notice of Appeal and it was not raised prior to Respondent's submissions after the close of the Appellant's case. Subsection 152(9) of the Act reads as follows:
+(9) Alternative basis for assessment. The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[69] The Respondent's submissions under subsection 256(5.1) were raised for the first time in her argument on the fourth and final day of the hearing of this case. Appellant's counsel, during the presentation of evidence, had no notice that this argument would be raised. It was, in fact, raised near the end of a Friday afternoon. Whatever the effect any relevant evidence the Appellant could have adduced, it was, in my judgment, not appropriate in those circumstances to order that evidence be adduced. This would have caused an adjournment and delay of the conclusion of the hearing. Accordingly, I ruled that the submission based upon that subsection could not be made.
+[70] As Appellant's counsel submitted, without that subsection, the matter of control was reduced to a "numbers game". He submitted that there was very little cross-examination of O respecting control and very little cross-examination about what duties were performed by Rende. The evidence established that she had signing authority at the bank and that she looked after the office in O's absence. There were no questions respecting her influence on the company. In addition, not only did Respondent's counsel not cross-examine O in this regard but produced no evidence to the effect that O had any direct or indirect influence that, if exercised, would result in control, in fact, of the corporation. Therefore, I have determined that Limited was a Canadian-controlled private corporation entitled to the deduction it sought under section 125 of the Act.
+[71] Accordingly, the appeal is allowed with costs payable by the Respondent to the Appellant.
+Signed at Vancouver, British Columbia this 17th day of July, 2003.
+"R.D. Bell"
+Bell, J.
+CITATION:
+2003TCC494
+COURT FILE NO.:
+2000-4389(IT)G
+STYLE OF CAUSE:
+World Corp v. The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 9, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice R.D. Bell
+DATE OF JUDGMENT:
+July 17, 2003
+APPEARANCES:
+Counsel for the Appellant:
+L. David Roebuck and
+Ronald J. Farano, Q.C.
+Counsel for the Respondent:
+Kathryn Philpott and
+Tamara Sugunasiri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ronald J. Farano, Q.C.
+Firm:
+Gardiner, Roberts
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The valuation date was in the Appellant's 1990 taxation year.

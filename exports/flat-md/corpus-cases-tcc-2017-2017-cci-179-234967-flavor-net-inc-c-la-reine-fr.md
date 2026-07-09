@@ -1,0 +1,335 @@
+---
+title: "Flavor Net Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234967/index.do"
+last_modified: "2017-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 179"
+citation2: ""
+neutral_citation: "2017 CCI 179"
+decision_date: "2017-09-12"
+language: "fr"
+item_id: "234967"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2200
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:22:23.787000+00:00"
+cases_cited_count: 5
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0a932a2eef95347398f0cb9369e3ffda7f9913273ce17324a57b6ccd5248782c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Flavor Net Inc. c. La Reine
+
+- Citation: 2017 CCI 179
+- Decision date: 2017-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2200, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flavor Net Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-12
+Référence neutre
+2017 CCI 179
+Numéro de dossier
+2015-2330(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2330(IT)I
+ENTRE :
+FLAVOR NET INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 8 février et 28 mars 2017, à Hamilton (Ontario) et le 12 juin 2017 par vidéoconférence à Ottawa (Ontario).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Représentant de l’appelante :
+David C. Sabina
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+L’appel interjeté relativement aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition se terminant le 30 juin 2010 et le 31 octobre 2010 est rejeté, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour de septembre 2017.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2017 CCI 179
+Date : 20170912
+Dossier : 2015-2330(IT)I
+ENTRE :
+FLAVOR NET INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. PRÉSENTATION
+[1] L’appelante, Flavor Net Inc., interjette appel contre les nouvelles cotisations établies par le ministre du Revenu national, qui a refusé les déductions demandées par l’appelante pour des dépenses liées aux activités de recherche scientifique et de développement expérimental (« RS&DE »), au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu [1] (la « Loi »), pour les années d’imposition se terminant le 30 juin et le 31 octobre 2010.
+[2] Dans le calcul de son revenu, l’appelante a demandé la déduction de la somme de 225 136 $ au titre des dépenses de RS&DE admissibles et des crédits d’impôt à l’investissement (« CII ») au montant de 78 798 $ pour l’année d’imposition se terminant le 30 juin 2010, ainsi qu’une somme de 45 638 $ en dépenses de RS&DE admissibles et des CII de 15 973 $ pour l’année d’imposition se terminant le 31 octobre 2010.
+[3] Les déductions et crédits initialement demandés par l’appelante visaient sept projets. Certains de ces projets ont chevauché les deux années d’imposition en litige. À l’audience, les projets ont été désignés par les numéros d’identification fournis par l’appelante. Les projets initialement en cause étaient les projets 705, 801, 802, 803, 804, 805 et 806. Toutefois, puisque l’appelante a choisi d’utiliser la procédure informelle [2] , elle a limité la portée de son appel à deux projets, soit le 705 et le 806. Ainsi, l’appelante a choisi de renoncer à tout montant supérieur à 25 000 $ pour chaque année d’imposition en litige.
+[4] La seule question en litige en l’espèce est de savoir si les activités de l’appelante, en ce qui a trait aux projets 705 et 806, constituaient des activités de recherche scientifique et de développement expérimental au sens de la définition de ce terme au paragraphe 248(1) de la Loi. Le cas échéant, l’appelante a droit aux CII en ce qui a trait aux montants demandés pour les dépenses de RS&DE.
+II. FAITS
+[5] L’appelante s’est constituée en société en 2000. Au début, ses activités consistaient à vendre des arômes à l’industrie de la boulangerie-pâtisserie et des assaisonnements pour collation salée à l’industrie des grignotines [3] . Plus tard, ce volet de la société a été vendu à des tiers, et l’entreprise est entrée sur le marché des boissons énergisantes [4] . C’est ce qui a amené l’appelante à travailler à l’élaboration d’une boisson faite à partir de phytostérols et d’autres ingrédients santé.
+[6] Gregory Schmalz est le fondateur, le président et l’unique actionnaire de l’appelante. M. Schmalz possède un baccalauréat en sciences de l’Université de Waterloo. Il a eu une longue carrière au sein des industries des arômes et des fragrances. M. Schmalz a déclaré que le travail en question avait été réalisé par son assistant, Chris Melling [5] et lui-même. M. Schmalz a été incapable de confirmer si M. Melling avait une formation quelconque en science. Toutefois, il a dit qu’il ne pensait pas que c’était le cas.
+[7] À l’audience, M. Schmalz était le seul témoin pour l’appelante. Mme Azza Hassanein, une gestionnaire de la recherche et de la technologie de l’Agence du revenu du Canada (l’« ARC ») qui a évalué les demandes relatives à la RS&DE présentées par l’appelante, a témoigné à titre de témoin unique pour l’intimée. Aucune des parties n’a invité d’expert-conseil à témoigner à l’audience.
+[8] M. Schmalz a expliqué que l’objectif de l’appelante en ce qui a trait au projet 705 (le « projet de boisson à base de phytostérols ») était de créer une boisson contenant un mélange de 800 milligrammes de phytostérols dans un format de 2 onces. Le phytostérol est une substance naturelle que l’on trouve dans les membranes de cellules végétales et qui sert à réduire le cholestérol. La Food and Drug Administration des États-Unis reconnaît qu’une dose quotidienne de 800 milligrammes de stérols peut réduire le cholestérol et le risque de maladie cardiaque, et elle autorise que ces produits fassent l’objet de publicités mentionnant leur capacité de réduire le cholestérol s’ils contiennent la quantité prescrite de stérols. L’appelante avait l’intention de commercialiser la boisson de 2 onces en raison de ses propriétés pour réduire le cholestérol.
+[9] En ce qui a trait au projet 806 (« projet de système de remplissage à chaud partiel »), M. Schmalz a expliqué que l’appelante avait mis au point un système de pasteurisation qui cible uniquement les ingrédients actifs en pompant ces ingrédients dans une cuve latérale, puis en pompant de nouveau le mélange dans une plus grande cuve. Selon M. Schmalz, cette méthode était novatrice du fait qu’elle se distingue de la méthode de remplissage à chaud utilisée par l’industrie. Les deux projets étaient interreliés, puisque les deux faisaient partie du même processus de production d’une boisson et parce que l’appelante espérait que le processus de pasteurisation à l’aide du système de remplissage à chaud partiel contribue à la dispersion de la quantité désirée de stérols dans le contenant de 2 onces, ce qui était nécessaire à la réussite du projet de boisson à base de phytostérols.
+[10] Avant de commencer mon analyse du projet de RS&DE de l’appelante, je vais immédiatement insister sur le fait que, comme l’a souligné l’intimée, il y a une divergence entre le témoignage de M. Schmalz à propos des projets de RS&DE 705 et 806 et la description de ces projets faite par l’appelante dans son formulaire T661 [6] pour les deux années visées par l’appel. Le T661 est un formulaire obligatoire qu’un contribuable doit présenter avec sa déclaration d’impôt sur le revenu au moment de réclamer un montant à titre de dépenses de RS&DE et les CII connexes. Le formulaire T661 oblige un contribuable à décrire l’objectif du projet de RS&DE, les activités entreprises, les risques technologiques, les incertitudes et les progrès réalisés ainsi que l’approche adoptée. L’ARC s’appuie sur le formulaire T661 pour déterminer si les activités du contribuable constituent des activités de RS&DE telles qu’elles sont définies au paragraphe 248(1) de la Loi.
+[11] En ce qui concerne le projet 705 (le projet de boisson à base de phytostérols, l’intimée a constaté que le formulaire T661 de l’appelante ne mentionnait pas le fait qu’elle visait à créer une dose de 2 onces dont le mélange contiendrait 800 milligrammes de phytostérols. Je suis d’accord avec l’intimée pour dire que la description qui figure dans le formulaire T661 est vague. Il y est mentionné que l’objectif de l’appelante est de concevoir un supplément de santé sous la forme d’une boisson faite à base de phytostérols. Cela dit, puisque Mme Hassanein, l’examinatrice technique de l’ARC, a dit dans son témoignage que, au moment de son examen, elle savait que le projet 705 visait l’élaboration d’une boisson de 2 onces qui inclurait 800 milligrammes de stérols, l’analyse du projet 705 tel qu’il a été décrit par M. Schmalz durant l’audience ne pose pas problème à mes yeux.
+[12] À propos du projet 806, M. Schmalz a déclaré à l’audience que l’objectif de l’appelante était de mettre au point un système de remplissage à chaud partiel. Toutefois, la description du projet 806 dans le formulaire T661 de l’appelante pour les deux années est axée sur le remplissage d’une bouteille à deux compartiments. Dans le formulaire T661 pour l’année se terminant en juin 2010, le projet 806 est décrit comme suit :
+[traduction]
+Flavour.Net Inc. n’avait jamais tenté auparavant de remplir une bouteille à deux compartiments dotée de deux bouchons. La synchronisation du double réservoir, de la pompe, des réservoirs de remplissage et des clapets de soutirage est de la plus haute importance. Dans le cadre de nos essais, on a démontré qu’un tel système de remplissage peut être mis au point de façon à tirer profit de l’utilisation d’une bouteille à deux compartiments dans diverses applications. En intégrant une cuve à vapeur comme récipient-mélangeur pour concentrés liquides, nous avons réussi à reproduire les résultats du remplissage à chaud. Des efforts considérables ont été déployés pour la conception de ce système de remplissage spécial qui sert actuellement au remplissage avec des suppléments de santé. D’autres utilisations seront mises à l’essai à l’avenir [7] .
+[13] De plus, dans les observations présentées à l’ARC par l’appelante, datées et signées par M. Schmalz, le projet 806 est décrit par l’appelante comme étant lié à la bouteille à deux compartiments :
+[traduction]
+Jamais auparavant Flavor.Net Inc. n’a entrepris de concevoir une unité de remplissage qui peut simultanément remplir une bouteille à deux compartiments avec deux liquides distincts et traiter thermiquement les liquides [8] .
+[14] À l’audience, Mme Hassanein a dit au sujet du projet 806 que selon la description qu’en avait faite l’appelante, le projet concernait le remplissage d’une bouteille à deux compartiments. Par conséquent, c’est le remplissage de la bouteille à deux compartiments que Mme Hassanein a examiné en vue de déterminer s’il s’agissait d’une activité à des fins de RS&DE. Ses rapports écrits sur le projet 806 confirment son témoignage. Dans le rapport daté du 19 août 2011 [9] concernant l’année d’imposition se terminant le 30 juin 2010, Mme Hassanein a écrit ce qui suit à propos du projet 806 :
+[traduction]
+Le projet visait à concevoir une unité de remplissage qui peut simultanément remplir une bouteille à deux compartiments avec deux liquides distincts et traiter thermiquement les liquides. Les suppléments de santé naturels peuvent devoir être pris deux fois par jour. Flavor Net doit déterminer si elle peut créer un système de remplissage spécial pour remplir une bouteille dotée de deux compartiments et de deux bouchons afin de rappeler qu’il est nécessaire de prendre une dose de chaque côté. De plus, la capacité de traiter thermiquement le liquide pour en assurer la sécurité microbienne devra être mise au point.
+[15] Le remplissage de la bouteille à deux compartiments et le système de remplissage à chaud partiel sont deux projets distincts; M. Schmalz l’a confirmé durant l’audience [10] .
+[16] En outre, l’intimée a déclaré que je ne devrais pas accepter le projet 806 au titre des déductions et crédits demandés puisque selon les documents présentés en preuve à l’audience, il était loin d’être clair que le système de remplissage à chaud partiel avait été développé par l’appelante durant les années d’imposition visées par l’appel.
+A. Projet 705 – Projet de boisson à base de phytostérols
+[17] Comme je l’ai mentionné, l’objectif de l’appelante était de créer un supplément de santé sous forme de boisson. Puisque les petites doses tendent à être populaires et qu’elles sont à la mode, l’appelante a décidé de créer une boisson santé de 2 onces contenant 800 milligrammes de phytostérols qui pourrait se boire en une gorgée. Les phytostérols sont reconnus pour réduire les taux de cholestérol et pour présenter d’autres avantages pour la santé.
+[18] Toutefois, le problème tient au fait que les stérols sont hydrophobes, ce qui veut dire qu’ils ne se dissolvent pas bien dans l’eau. La difficulté que présentait le projet était l’élaboration d’une méthode de dispersion de 800 milligrammes de concentré de phytostérols dans deux onces de liquide. L’appelante savait que Cargill Corporation avait un brevet et qu’elle avait réussi à disperser des phytostérols dans du jus d’orange, mais Cargill n’était capable de disperser que 400 milligrammes dans une portion de huit onces [11] . Par conséquent, l’appelante essayait de créer une boisson dans laquelle la concentration de stérols serait huit fois plus élevée que la concentration trouvée dans le produit à base de jus d’orange fabriqué par Cargill.
+[19] L’appelante a effectué différents tests. Par exemple, elle a utilisé différentes températures de chauffage, mélangé les stérols avec différents ingrédients afin de déterminer si les stérols se disperseraient mieux et complètement et mis à l’essai divers émulsifiants en association avec NutraFlora, qui est une fibre soluble. À mesure que le projet évoluait, d’autres ingrédients santé (produits nutraceutiques), comme le cacao, l’extrait de thé vert et les baies, ont été ajoutés au mélange, à la fois pour améliorer les bienfaits pour la santé du produit en général [12] et pour contribuer à la dispersion des stérols.
+[20] M. Schmalz a aussi expliqué que l’appelante avait mis à l’essai différentes méthodes de mélange, par exemple le mélange à haut cisaillement, le mélange à l’aide d’une pompe mécanique. Cependant, il est difficile de dissoudre complètement 800 milligrammes de stérols dans deux onces de liquide. L’appelante a réussi à disperser 85 % des phytostérols; mais il y avait encore des sédiments faisant en sorte que la boisson n’était pas acceptable à des fins de commercialisation.
+B. Projet 806 ‑ système de remplissage à chaud partiel
+[21] À l’audience, M. Schmalz a expliqué que l’objectif du projet de système de remplissage à chaud partiel était de créer un système qui aurait la capacité de pasteuriser deux différents concentrés liquides, de les diluer par la suite, puis de remplir une bouteille à deux compartiments de ces deux liquides à 25 degrés Celsius. Selon M. Schmalz, le système de l’appelante est différent du système de pasteurisation (remplissage à chaud) standard de l’industrie, qui suppose la mise en bouteille du liquide alors qu’il est chaud dans des bouteilles de plastique ou de verre spécialement conçues pour résister à la chaleur.
+[22] M. Schmalz a expliqué que dans le cas du système de remplissage à chaud partiel, le processus commence par l’ajout de petites quantités d’eau stérilisée aux phytostérols et à d’autres ingrédients nutraceutiques, qui produisent ce qu’il a décrit comme étant une [traduction] « pâte ». Ce mélange est ensuite pasteurisé en étant pompé dans une petite cuve latérale, connectée au réservoir principal et chauffée à 50 degrés Celsius [13] . La prochaine étape consiste à pomper de nouveau le mélange pasteurisé de la cuve latérale vers le plus grand réservoir et à le diluer avec de l’eau stérile, après quoi le produit est à la température de la pièce et prêt pour l’embouteillage.
+[23] Selon M. Schmalz, il cherchait à trouver une solution de rechange au processus conventionnel de remplissage à chaud afin d’économiser de l’énergie et des coûts liés à la mise en bouteille, puisque les bouteilles de plastique sont moins coûteuses que celles en verre [14] . De plus, on espérait que le processus de chauffage qu’utilisait le système de remplissage à chaud partiel contribuerait à la dispersion des stérols et d’autres produits nutraceutiques dans les deux onces d’eau, concourant ainsi à la réalisation du projet de boisson à base de phytostérols (c.-à-d. la dispersion de la dose de stérols prescrite dans un format de deux onces) [15] .
+III. THÈSE DE L’APPELANTE
+[24] L’appelante était d’avis que les dépenses relatives au projet de boisson à base de phytostérols et au projet de système de remplissage à chaud partiel étaient liées au « développement expérimental » au sens de la définition du terme RS&DE qui figure au paragraphe 248(1) de la Loi, et, par conséquent, qu’il s’agissait de dépenses de RS&DE admissibles et qu’elle avait droit aux CII connexes. L’appelante fait valoir que le brevet de Cargill représente la pratique courante. Selon M. Schmalz, personne n’a été en mesure de disperser une si grande quantité de phytostérols dans deux onces de liquide. Par conséquent, il existait une incertitude technologique quant à savoir si 800 milligrammes de phytostérols pouvaient se disperser dans une si petite quantité de liquide.
+[25] L’appelante fait également valoir qu’il existait une incertitude technologique liée au système de remplissage à chaud partiel quant à la question de savoir s’il s’agit d’une solution de rechange au processus conventionnel de remplissage à chaud. L’appelante allègue que les deux projets reposent sur des avancées technologiques.
+[26] Enfin, l’appelante affirme qu’elle a eu recours à une approche systématique reposant sur la formulation d’hypothèses, leur vérification à l’aide de techniques de mesure et d’expérimentation établies et la consignation de données.
+IV. THÈSE DE L’INTIMÉE
+[27] L’intimée fait valoir que les activités entreprises par l’appelante ne constituent pas des activités de RS&DE admissibles au sens du paragraphe 248(1) de la Loi.
+[28] En ce qui a trait au projet 705, le projet de boisson à base de phytostérols, l’intimée allègue qu’il n’y avait ni incertitude technologique ni progrès technologique, puisque l’appelante utilisait une méthode et des techniques fondées sur une technologie existante.
+[29] En outre, l’intimée soutient que les éléments de preuve permettaient d’établir que l’appelante ne comprenait pas le concept d’une hypothèse. Par conséquent, aucune hypothèse claire n’a été formulée, et l’ensemble de la procédure suivie par l’appelante ne concordait pas avec les principes établis de la méthode scientifique.
+[30] En ce qui a trait au projet 806, le projet de système de remplissage à chaud partiel, l’intimée soutient que les éléments de preuve ne permettaient pas d’établir que le projet a été élaboré durant les années visées par l’appel. En outre, elle fait valoir que les documents présentés par l’appelante au procès ont généré encore plus de confusion quant à savoir quel projet faisait l’objet d’un examen aux fins de la RS&DE.
+V. ANALYSE
+A. Dispositions législatives applicables et jurisprudence pertinente.
+[31] Les passages pertinents de la définition du terme « recherche scientifique et développement expérimental », qui figurent au paragraphe 248(1) de la Loi, sont ainsi libellés :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+[…]
+c) le développement expérimental, à savoir les travaux entrepris dans l'intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l'amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés [à l’alinéa] c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l'étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la vérification normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l'exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d'un matériau, d'un dispositif ou d'un produit nouveau ou amélioré, et l'utilisation commerciale d'un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[32] Au moment de déterminer si les travaux entrepris par l’appelante dans le cadre des projets constituent des activités de RS&DE, il est nécessaire de tenir compte des cinq critères énoncés par le juge Bowman (plus tard juge en chef de la C.C.I.) dans la décision Northwest Hydraulic Consultants Ltd [16] . Ces critères ont été confirmés à maintes reprises et adoptés par la Cour d’appel fédérale dans de nombreux arrêts, y compris les arrêts RIS-Christie [17] et C.W. Agencies Inc [18] .
+[33] Dans la décision Northwest Hydraulic Consultants Ltd., le juge Bowman énonce l’approche qui doit être adoptée au moment d’évaluer les activités d’un contribuable par rapport aux exigences de la définition légale du terme « RS&DE ». L’approche du juge Bowman est fondée sur cinq critères, qu’il a décrits comme suit (au paragraphe 16) :
+1. Existe-t-il un risque ou une incertitude technologique?
+a) Lorsqu’on parle de « risque ou [d’]incertitude technologique » dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend-on par « études techniques courantes »? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+2. La personne qui prétend faire de la RS&DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique? La chose comporte un processus à cinq étapes :
+a) l’observation de l’objet du problème;
+b) la formulation d’un objectif clair;
+c) la détermination et la formulation de l’incertitude technologique;
+d) la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude;
+e) la vérification méthodique et systématique des hypothèses.
+Il est important de reconnaître que, bien qu’une incertitude technologique doive être définie au départ, la détermination de nouvelles incertitudes technologiques au fur et à mesure que les recherches avancent et l’emploi de la méthode scientifique, et notamment l’intuition et la créativité, et parfois l’ingéniosité en découvrant, en reconnaissant et en mettant fin à de nouvelles incertitudes, font partie intégrante de la RS&DE.
+3. Les procédures adoptées sont-elles conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses?
+a) Il est important de reconnaître que même si la méthodologie susmentionnée décrit les aspects essentiels de la RS&DE, la créativité intuitive et même l’ingéniosité peuvent avoir un rôle crucial dans le processus aux fins de la définition de la RS&DE. Toutefois, ces éléments doivent exister dans le cadre de la méthode scientifique dans son ensemble.
+b) Ce qui peut sembler habituel et évident après coup ne l’était peut-être pas au début des travaux. Ce n’est pas uniquement l’adhésion à des pratiques systématiques qui distingue l’activité courante des méthodes nécessaires selon la définition de la RS&DE figurant à l’article 2900 du Règlement, mais l’adoption de la méthode scientifique décrite ci-dessus dans son ensemble, en vue d’éliminer une incertitude technologique au moyen de la formulation et de la vérification d’hypothèses innovatrices non vérifiées.
+4. Le processus a-t-il abouti à un progrès technologique, c’est-à-dire à un progrès en ce qui concerne la compréhension générale?
+a) Je veux dire par là quelque chose que les personnes qui s’y connaissent dans le domaine savent ou qu’elles peuvent de toute façon savoir. Je ne parle pas d’un élément de connaissance que quelqu’un, quelque part, peut connaître. La collectivité scientifique est étendue, et elle publie des documents dans de nombreuses langues. Un progrès technologique au Canada ne cesse pas d’être tel simplement parce qu’il existe une possibilité théorique qu’un chercheur, disons, en Chine, a peut-être fait le même progrès, mais que ses travaux ne sont généralement pas connus.
+b) Le rejet, après l’essai d’une hypothèse, constitue néanmoins un progrès en ce sens qu’il élimine une hypothèse jusque-là non vérifiée. Une bonne partie de la recherche scientifique vise justement à cela. Le fait que l’objectif initial n’est pas atteint n’invalide ni l’hypothèse qui a été émise ni les méthodes qui ont été employées. Au contraire, il est possible que l’échec même renforce le degré d’incertitude technologique.
+5. La Loi et son règlement d’application ne le prévoient pas expressément, mais il semble évident qu’un compte rendu détaillé des hypothèses, des essais et des résultats, doive être fait, et ce, au fur et à mesure de l’avancement des travaux.
+[34] En gardant ces principes à l’esprit, je vais maintenant procéder à l’examen de l’admissibilité des deux projets entrepris par l’appelante durant la période visée par l’appel.
+B. Projet de boisson à base de phytostérols
+(1) Risque ou incertitude technologiques
+[35] Pour constituer une activité de RS&DE, un projet doit s’attaquer à une incertitude technologique que les études techniques courantes ou les procédures habituelles ne peuvent éliminer [19] .
+[36] M. Schmalz a indiqué que le projet de boisson à base de phytostérols vise à développer un produit contenant la dose prescrite de phytostérols dans une bouteille de deux onces. M. Schmalz a dit qu’il n’était pas certain que cette concentration de stérols puisse être dispersée adéquatement dans deux onces d’eau, c’est-à-dire 800 milligrammes de stérols dans deux onces d’eau mélangés avec des ingrédients nutraceutiques.
+[37] Selon moi, l’appelante n’a pas réussi à démontrer qu’elle se heurtait à une incertitude technologique pour les besoins de la définition du terme « RS&DE » énoncée au paragraphe 248(1) de la Loi.
+[38] Il n’y a aucun doute quant au fait que l’appelante essayait de créer un nouveau produit. Il y a toujours des incertitudes qui entourent l’élaboration d’un nouveau produit. Cela dit, ce ne sont pas toutes les activités de développement de produit qui se heurtent à une incertitude technologique. Au moment d’élaborer sa boisson de deux onces, le principal problème auquel s’est heurtée l’appelante était de maintenir en suspension les phytostérols, une substance lipidique dans un liquide. Pour résoudre le problème, l’appelante a utilisé une méthode et une technologie qui sont bien établies dans l’industrie alimentaire, à savoir le mélange à haut cisaillement, le pompage mécanique, en essayant de chauffer le produit à différentes températures et en employant des émulsifiants qui existaient sur le marché.
+[39] Les faits dans le présent appel sont pratiquement indiscernables de ceux dans l’affaire R&D Pro-Innovation Inc. [20] , une récente décision de la Cour, qui a été confirmée par la Cour d’appel fédérale [21] . Dans cette affaire, le projet consistait à développer une tartinade de chocolat avec crème et sirop d’érable, tempérée à froid, sans ingrédient de synthèse et sans ajout d’agent de conservation [22] . L’appelante a fait valoir que, même si le procédé de tempérage à froid était connu, la stabilisation du tempérage à froid avec de nouveaux ajouts (comme la crème et le sirop d’érable) au chocolat n’existaient pas. Le juge Masse a conclu qu’il n’existait aucune incertitude technologique parce que l’appelante avait utilisé des ingrédients, des produits alimentaires et des méthodes qui sont bien connus. Il a déclaré ce qui suit :
+[38] Mais la question est de savoir s’il existait une incertitude technologique. Selon la jurisprudence, lorsque les incertitudes peuvent être éliminées par des études techniques courantes ou des procédures habituelles, le projet ne répond pas aux critères d’admissibilité nécessaires pour constituer une activité de RS&DE. Le fait qu’un produit soit nouveau ou innovateur ne suffit pas à prouver qu’un progrès technologique a été réalisé.
+[39] En l’espèce, l’appelante a voulu formuler une tartinade supérieure aux tartinades commerciales et aux tartinades de spécialité. Elle a utilisé comme ingrédients des produits alimentaires qui sont très bien connus comme le beurre de cacao, le sirop d’érable, la crème et autres produits laitiers, des glucides et des protéines. Elle a interchangé les ingrédients ou leurs proportions en formulant la tartinade. Elle a ensuite utilisé le procédé de tempérage à froid, qui est un procédé connu, en changeant la vitesse, le temps et la température du tempérage. Elle a observé les résultats et elle a recueilli des données. Les travaux de l’appelante portaient essentiellement sur l’utilisation de procédés et d’ingrédients existants pour essayer de formuler une meilleure tartinade. Ces travaux incluaient des études techniques courantes et des procédures habituelles. Ayant étudié l’ensemble de la preuve ainsi que la jurisprudence, je ne suis pas convaincu que les travaux en cause comportaient un risque ou une incertitude technologique qui ne pouvait pas être éliminés par les procédures habituelles ou les études techniques courantes.
+[40] La conclusion s’applique avec la même force au présent appel.
+[41] En outre, je ne suis pas convaincue par le témoignage de M. Schmalz en ce qui a trait à l’état des connaissances et de la technologie disponibles en matière de dispersion de stérols au moment où le projet a été entrepris. Tout au long de son témoignage, M. Schmalz a fait référence à un brevet américain obtenu par Cargill Inc. en 2002 pour un produit dans lequel 400 milligrammes de stérols avaient été mélangés avec du jus d’orange dans un contenant de 8 onces; le brevet a été déposé en preuve (pièce A-4). Selon M. Schmalz, le produit reflétait la pratique industrielle courante à cette époque [23] . Le brevet est le seul élément de preuve tendant à démontrer que l’appelante a effectué des recherches au début du projet en ce qui a trait aux méthodes existantes en matière de dispersion de phytostérols.
+[42] En contre-interrogatoire, M. Schmalz a été incapable de se rappeler les détails des recherches entreprises. Comme je l’ai dit, le brevet de Cargill était le seul élément de preuve spécifique fourni par l’appelante au sujet des recherches entreprises au début du projet. Lorsqu’il a été contre-interrogé par l’avocate de l’intimée, les commentaires suivants ont été formulés à l’égard du brevet de Cargill :
+[traduction]
+Q. Vous appelez cela une pratique courante. Existe-t-il d’autres brevets qui concernent les phytostérols et la façon de les disperser ou de les dissoudre dans l’eau ou dans un liquide, ou est-ce le seul?
+R. Je ne sais pas. Pour répondre simplement.
+Q. Avez-vous fait des recherches pour voir s’il y a d’autres brevets qui portent sur […]
+R. Je suis convaincu que nous l’avons fait à ce moment-là, mais je ne saurais vous dire les résultats puisque je ne m’en souviens pas.
+Q. Donc, qu’est-ce qui vous fait croire – sur quoi vous fondez-vous pour dire qu’il s’agit d’une pratique courante si vous ne savez pas ce que les autres […]
+R. Parce que cela a mené à la commercialisation de marques de jus d’orange infusé aux phytostérols. Cela a amené Cargill à organiser la vente, dans sa division ingrédients, des produits comme des blocs congelés de pulpe infusée de phytostérols […]
+[…]
+Q. D’accord. Donc vous avez peut-être réalisé une recherche à propos des autres brevets, mais aujourd’hui vous n’êtes pas en mesure de nous dire […]
+R. C’est cela.
+Q. S’il y a d’autres brevets?
+R. C’est exact.
+[43] Dans son témoignage, Mme Hassanein a dit que, au moment de son examen du projet 705 de l’appelante, il existait de multiples brevets relatifs à la dispersion des phytostérols dans différents produits, dans différentes conditions.
+[44] Pour ces raisons, je conclus que l’appelante n’a pas réussi à s’acquitter du fardeau qui lui incombait de démontrer l’existence d’une incertitude technologique, puisqu’elle employait des méthodes et des techniques auxquelles l’industrie avait accès.
+[45] Même si cette conclusion à elle seule suffit pour trancher le litige qui concerne le projet de boisson à base de phytostérols [24] , je vais néanmoins appliquer également les autres critères énoncés dans l’affaire Northwest Hydraulic Consultants Ltd. aux travaux entrepris par l’appelante.
+(2) Formulation d’hypothèses précises quant au risque ou à l’incertitude technologique
+[46] Puisque j’ai conclu qu’il n’y avait aucune incertitude technologique, je ne peux conclure qu’il y avait des hypothèses visant à dissiper une incertitude technologique. Cela dit, j’ai décidé de poursuivre mon analyse, car selon moi, en l’espèce, bien que l’appelante ait présenté des documents pour montrer que certains tests avaient été réalisés, il n’en demeure pas moins qu’elle n’a pas satisfait aux autres exigences énoncées dans la décision du juge Bowman dans l’affaire Northwest Hydraulic Consultants Ltd.
+[47] Le juge Sommerfeldt a expliqué au paragraphe 26 de ses motifs dans la décision Joel Theatrical Rigging Contractors Ltd. [25] ce qu’est une hypothèse :
+[traduction]
+[26] Dans l’affaire Maritime-Ontario Freight Lines, le juge Sarchuk a fourni la définition judiciaire suivante du terme « hypothèse » :
+Une hypothèse est une supposition ou une explication provisoire en ce qui concerne un problème de nature inconnue et, en règle générale, cette incertitude est résolue par un plan logique conçu pour observer et résoudre le problème hypothétique.
+Une autre définition judiciaire du terme « hypothèse » a été donnée par le juge Bonner dans l’affaire C.W. Agencies, après avoir présenté une description de l’hypothèse de l’appelante :
+Je signale ici qu'il ne m'apparaît pas clairement que cette « hypothèse » soit une hypothèse pouvant être prouvée ou réfutée par voie de recherche scientifique. Il me semble qu'elle est simplement trop vague. Le mot « hypothèse » dans ce contexte est normalement considéré comme désignant une conjecture qui n'est pas incompatible avec des faits connus et qui sert de point de départ à des recherches plus poussées par lesquelles elle pourrait être prouvée ou réfutée objectivement.
+Autrement dit, une hypothèse est un énoncé qui doit être vérifié au moyen d’une expérience ou d’un essai.
+[48] Il ressort à l’évidence de l’examen des dépenses de RS&DE présentées à l’ARC, des dossiers d’expérimentation fournis par l’appelante et du témoignage de M. Schmalz, que l’appelante a eu de la difficulté à formuler une hypothèse conforme au sens où on l’entend dans le contexte de la RS&DE. Par exemple, en contre-interrogatoire, M. Schmalz a formulé l’hypothèse comme suit : [traduction] « […] pouvons-nous réussir à incorporer ces quantités de stérols dans une solution, à les disperser dans une solution [26] ? » Plus tard, M. Schmalz a fait allusion à l’hypothèse de la façon suivante [27] :
+[traduction]
+[…] Il y a manifestement une incertitude quant à la quantité de phytostérols que nous pouvons réussir à garder en suspension. Et l’hypothèse tente de résoudre ces incertitudes technologiques en mettant à l’essai la pratique non établie consistant à essayer d’intégrer autant de stérols dans un liquide […]
+[49] M. Schmalz a bien décrit l’objectif du projet de l’appelante, mais il n’a pas pu expliquer l’hypothèse à l’origine de l’objectif général, qui consiste à prouver ou réfuter une supposition à l’aide de recherches plus poussées. Puisque l’hypothèse fait partie intégrante de la méthode scientifique, j’estime également que l’appelante n’a pas réussi à s’acquitter du fardeau qui lui incombait en ce qui concerne la deuxième exigence.
+(3) Vérifications conformes aux principes de la méthode scientifique
+[50] Dans la décision Joel Theatrical Rigging Contractors Ltd. [28] , le juge Sommerfeldt a déclaré qu’il y avait un chevauchement entre les deuxième et troisième exigences décrites dans la décision Northwest Hydraulic Consultants Ltd. Au paragraphe 33 de ses motifs, le juge Sommerfeldt a énoncé ce qui suit au sujet de la troisième exigence, à savoir la vérification conforme aux principes de la méthode scientifique :
+[33] Il y a un certain chevauchement entre les deuxième et troisième exigences décrites dans l’affaire Northwest Hydraulic. La deuxième exigence comporte cinq étapes, la quatrième et la cinquième sont les suivantes :
+· la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude;
+· la vérification méthodique et systématique des hypothèses.
+La troisième exigence indique que les procédures adoptées devraient être conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par :
+· l’observation scientifique systématique;
+· la mesure et l’expérimentation;
+· la formulation, la vérification et la modification d’hypothèses (c’est la troisième caractéristique de la troisième exigence qui recoupe les quatrième et cinquième étapes de la deuxième exigence).
+Puisque la troisième caractéristique de la méthode scientifique porte sur les hypothèses, et comme j’ai déjà discuté plus haut des hypothèses formulées dans l’affaire Joel Theatrical Rigging, je n’ajouterai rien d’autre à propos de cette caractéristique ici.
+[51] Le témoignage et les éléments de preuve documentaire m’amènent à conclure que l’appelante a fait de l’observation scientifique systématique. L’appelante a fourni des exemples de ses dossiers d’expérimentation. Les registres contiennent des entrées pour les différents émulsifiants nutraceutiques qui ont été mélangés avec les stérols et des notes quant aux effets de certaines variables, comme la température et la méthode de mélange, sur la dispersion des stérols. Cela suffit à établir que l’appelante a eu recours à l’observation scientifique systématique.
+[52] Je suis également convaincue que l’appelante a mesuré adéquatement la vérification et les résultats liés au projet de boisson à base de phytostérols. La mesure des facteurs, comme la quantité de stérols et de produits nutraceutiques, la température dans le processus de chauffage et le degré de dispersion qui en résulte est clairement consignée dans les registres d’échantillonnage.
+[53] En ce qui a trait au caractère adéquat de l’expérimentation entreprise par l’appelante, la situation n’est pas aussi claire. Certaines parties du témoignage et des éléments de preuve documentaire donnent à penser que la vérification s’est faite essentiellement par tâtonnements. Par exemple, j’estime que le témoignage de M. Schmalz et les éléments de preuve documentaire ne fournissent pas de justification claire en ce qui concerne la sélection de certains produits nutraceutiques, hormis le fait qu’ils étaient largement connus pour avoir divers bienfaits pour la santé. Cela ressort particulièrement du fait que M. Schmalz a déclaré que des produits nutraceutiques avaient été incorporés partiellement afin que l’on puisse déterminer s’ils contribuaient à la dispersion des stérols dans l’eau. Dans l’affaire Joel Theatrical Rigging Contractors Ltd. [29] , le juge Sommerfeldt a déclaré que l’expérimentation par tâtonnements seulement ne répondait pas aux exigences des vérifications effectuées conformément aux principes de la méthode scientifique.
+[54] Enfin, il n’a pas été établi que la façon dont l’appelante a formulé, vérifié et modifié ses hypothèses respectait les principes de la méthode scientifique. Après examen du témoignage et des éléments de preuve documentaire, je ne peux conclure avec certitude que l’appelante a utilisé les résultats de son expérimentation pour modifier ses hypothèses en ce qui a trait à la faisabilité de ses cibles de dispersion.
+[55] Par conséquent, je suis d’avis que l’appelante n’a pas satisfait à la troisième exigence.
+(4) Progrès technologiques
+[56] L’appelante essayait de concentrer la dose quotidienne de stérols prescrite dans un format de deux onces. Toutefois, selon moi, l’appelante a cherché à atteindre cet objectif en utilisant des méthodes existantes, courantes dans l’industrie des boissons, de sorte qu’elle n’a pas atteint le niveau d’avancement technologique requis.
+[57] En l’espèce, l’appelante a tenté de disperser les phytostérols et d’autres produits nutraceutiques dans de l’eau au moyen de méthodes qui étaient bien connues de l’industrie des boissons. M. Schmalz a déclaré que M. Melling et lui-même avaient fait des expériences en agissant sur diverses variables, comme la température et la méthode de mélange, pour tenter d’obtenir la dispersion requise [30] . Ils ont utilisé des dispositifs de mélange disponibles sur le marché, comme les mélangeurs à rubans et les mélangeurs à haut cisaillement, et ils ont utilisé des émulsifiants et des ingrédients nutraceutiques connus. Selon moi, l’utilisation de méthodes et de produits connus pour tenter de disperser les stérols dans un plus petit format ne constitue pas un progrès technologique.
+[58] Par exemple, à la pièce A-11, l’appelante a décrit ses progrès technologiques en ces termes :
+[traduction]
+La vérification a montré que les solutions futures aux défis qui se posent résident dans l’acquisition de mélangeurs de laboratoire de qualité supérieure, la vérification continue de la solubilité et l’amélioration continue des paramètres de temps liés au processus de remplissage à chaud. Vitesse de mélange et températures de remplissage.
+L’expérimentation a mené à la production d’un mélange d’émulsifiants (SSL, monoacylglycérol et diglycéride) qui semble fonctionner de manière satisfaisante et qui pourrait être optimisé davantage avec un meilleur équipement. Le processus de remplissage à chaud partiel s’est révélé être une méthode de préservation valide et abordable compte tenu des coûts en énergie et en bouteilles associés au remplissage à chaud continu. Le mélange du produit à l’aide d’un moteur de pompe s’est révélé satisfaisant, puisqu’il a permis d’éliminer la nécessité d’utiliser des lames contrarotatives dans le récipient-mélangeur. On a été démontré que la viscosité du produit était propice à l’utilisation de têtes de remplissage automatique.
+[59] Selon moi, l’appelante n’a pas établi qu’il y a eu des progrès technologiques. Ce que l’appelante a fait est bien reflété dans le témoignage de la conseillère technique de l’ARC, Mme Hassanein. Elle a dit ce qui suit :
+[traduction]
+[…] les technologies qui ont été utilisées pour mettre au point ce produit reposaient sur des technologies existantes, et aucun progrès n’avait été fait à leur égard; on a tenté de déterminer quelle quantité de stérols pouvait être incorporée dans un certain volume, en intensifiant le mélange par cisaillement, en chauffant le produit à une température différente ou en utilisant des émulsifiants qui existent sur le marché […]
+(5) Dossier détaillé des hypothèses, des essais et des résultats
+[60] Bien qu’il soit établi que le respect de ce critère n’est pas obligatoire, le fait de s’y conformer aide un contribuable à établir que ses activités constituent des activités de RS&DE. Par conséquent, il est dans l’intérêt du contribuable de tenir des dossiers détaillés des hypothèses, des essais et des résultats à mesure que les travaux évoluent. Ce critère est étroitement lié aux aspects de la troisième exigence, selon laquelle le contribuable doit effectuer les essais conformément aux principes établis et aux principes objectifs de la méthode scientifique, y compris l’observation scientifique systématique, la mesure et l’expérimentation.
+[61] L’intimée ne conteste pas le fait que l’appelante a tenu à jour des registres concernant ses expérimentations et je reconnais que l’appelante a déposé en preuve de nombreux registres relatifs à ses expérimentations.
+[62] À la lumière des exigences énoncées par le juge Bowman dans la décision Northwest Hydraulic Consultants Ltd., j’estime que le projet 705, soit le projet de boisson à base de phytostérols, ne constitue pas une activité de RS&DE au sens de la définition du terme « RS&DE » énoncée au paragraphe 248(1) de la Loi.
+C. Projet 806
+[63] Comme je l’ai déjà mentionné, une grande partie du témoignage de M. Schmalz au sujet de la mise au point du fonctionnement du système de remplissage à chaud partiel durant la période pertinente ne concordait pas avec l’information contenue dans les documents déposés auprès de l’ARC. Plus précisément, sa description du projet général et des travaux entrepris durant les années d’imposition en litige ressemblait bien peu aux descriptions du projet contenues dans les déclarations. Une bonne part de l’analyse du projet dans les observations écrites présentées à l’ARC, particulièrement les pièces R-2 et R-5, qui sont les formulaires T661, concerne les efforts déployés par l’appelante pour concevoir un système de remplissage qui pourrait remplir simultanément les deux compartiments d’une bouteille avec deux filets de liquide distincts.
+[64] Pendant le contre-interrogatoire, l’intimée a renvoyé M. Schmalz aux documents dans lesquels le projet 806 était décrit comme étant lié à une bouteille à deux compartiments. La réponse de M. Schmalz a été la suivante :
+[traduction]
+[…] pour être honnête avec vous, je n’étais pas au courant que nos travaux portaient aussi sur […] pour améliorer la machine à remplissage et la machine à capsuler.
+[65] La machine à remplissage et la machine à capsuler font partie du projet de bouteille à deux compartiments.
+[66] En outre, dans certains documents, le processus de remplissage à chaud était décrit comme une méthode novatrice et, dans d’autres documents, il était décrit comme un processus que l’appelante utilisait déjà. Dans certains documents, à savoir les pièces A-1 et A-8, le projet 806 est décrit comme étant lié au système de remplissage à chaud partiel. [D’autres documents avaient pour en-tête la mention remplissage à chaud partiel, mais la description avait trait à la bouteille à deux compartiments.] La pièce A-9 décrit le projet 806 comme étant lié à la bouteille à deux compartiments :
+[traduction]
+INCERTITUDE NO 1 : Élaboration de l’installation
+Nous étions incertains quant à la conception optimale du processus et de l’équipement qui permettraient à deux liquides d’être mélangés, pasteurisés et dilués simultanément à 25oC, puis introduits dans des compartiments distincts d’une même bouteille. L’entreprise ne pouvait pas déterminer à partir de toutes les sources disponibles de renseignements faciles d’accès de quelle manière elle obtiendrait les capacités nécessaires pour mélanger, traiter thermiquement, diluer et refroidir deux liquides, puis en remplir une bouteille à deux goulots. Les progrès recherchés relèvent du domaine de la conception, de la production et du remplissage sur mesure dans le secteur des boissons.
+Il sera nécessaire d’atteindre un taux de remplissage d’au moins 50 bouteilles à la minute pour atteindre les objectifs liés aux coûts. Les conduites habituelles de remplissage à chaud gardent le produit chaud à une température de 100oC pour la durée du temps de remplissage du lot, soit 30 minutes. Notre système doit pasteuriser le lot en une minute. Les conduites habituelles de remplissage à chaud gardent les boissons chaudes et prêtes à boire. Notre système doit chauffer et tenir une version concentrée de la boisson finale équivalente à 30 gallons pour 250 gallons produits.
+[…]
+Résultats
+· Maximiser le taux de remplissage : 50 bouteilles/minutes (100 % de l’objectif)
+· Remplir des bouteilles simultanément : remplissage de deux liquides (types de liquides)/bouteille (100 % de l’objectif)
+· Température de traitement thermique : 1 minute/lot (100 % de l’objectif)
+· Concentration du liquide : 30 gallons (100 % de l’objectif)
+La capacité de ligne à multiples liquides, le temps de pasteurisation des concentrés liquides et les taux de remplissages ont tous été atteints.
+[67] La question de savoir si le système de remplissage à chaud partiel avait en fait été mis au point avant les années d’imposition en litige a également été posée à M. Schmalz durant le contre-interrogatoire par l’avocate de l’intimée, mais il n’a pas fourni de réponse claire.
+[68] Compte tenu de la confusion qui règne à ce sujet, il convient de rejeter l’appel en ce qui concerne le projet 806. Il incombait à l’appelante de prouver que son projet est visé par la définition énoncée au paragraphe 248(1) de la Loi.
+[69] Quoi qu’il en soit, si je devais tenir pour acquis que le système de remplissage à chaud partiel a été mis au point durant les années visées par l’appel et qu’il s’agissait du projet 806, je n’accueillerais pas l’appel concernant le projet, puisque le témoignage de M. Schmalz ne me permet pas de conclure que la mise au point du système de remplissage à chaud partiel constituait une activité de RS&DE au sens du paragraphe 248(1) de la Loi.
+[70] L’appelante n’a présenté aucun élément de preuve quant à ce qui existait dans l’industrie. Autrement dit, quelles étaient les lacunes liées aux méthodes de remplissage? Bien que Mme Hassanein n’ait pas examiné le système de remplissage à chaud partiel – puisque ce que lui a présenté l’appelante au moment de son examen était le projet de bouteille à deux compartiments –, après avoir entendu le témoignage de M. Schmalz, elle a dit que les bouteilles de plastique étaient utilisées pour de nombreux produits.
+[71] M. Schmalz a déclaré que le système de remplissage à chaud partiel était étroitement lié à la technologie de remplissage à chaud existante. Il a dit ce qui suit [31] :
+[traduction]
+[…] Je présume que nous avons créé une solution de rechange à ce qui constitue la norme en matière de remplissage à chaud existante qui fonctionnait pour notre application.
+[72] Selon moi, le système de remplissage à chaud partiel élaboré par l’appelante n’était pas très différent du processus de remplissage à chaud largement utilisé dans l’industrie des boissons à ce moment-là. Essentiellement, le système de remplissage à chaud partiel servait à chauffer les ingrédients essentiels (c.-à-d. non aqueux) séparément pour procéder à la pasteurisation, puis on ajoutait de l’eau stérile pour refroidir le mélange et tenter d’obtenir le bon niveau de dispersion aux fins de l’embouteillage dans des unités de deux onces. Toutefois, ce sont les principes de base du processus de remplissage à chaud qui ont été utilisés pour chauffer le mélange dans la cuve latérale. Le système a été conçu à l’aide de procédures habituelles et d’études techniques courantes.
+[73] Par conséquent, je conclus que l’appelante ne s’est pas acquittée du fardeau qui lui incombait de prouver qu’il existait une incertitude technologique relativement à la conception du système de remplissage à chaud partiel qui ne pouvait être éliminé en s’appuyant sur les études techniques courantes ou les procédures habituelles.
+[74] En ce qui a trait à la formulation d’une hypothèse, comme dans le cas du projet de boisson à base de phytostérols, l’appelante n’a pas formulé d’hypothèse destinée à éliminer l’incertitude technologique. De plus, il n’y a eu aucun progrès technologique, puisque l’appelante a utilisé des moyens connus de l’industrie pour mettre au point son système.
+[75] Il incombe à l’appelante d’établir qu’un projet constitue une activité de RS&DE selon la définition énoncée au paragraphe 248(1) de la Loi. Le projet 806 a été présenté d’une manière tellement confuse qu’il m’a été impossible de déterminer s’il était lié à la bouteille à deux compartiments ou au système de remplissage à chaud partiel durant les années visées par l’appel. Quoi qu’il en soit, je suis d’avis que le système de remplissage à chaud partiel ne répond pas aux exigences de la définition énoncée au paragraphe 248(1) de la Loi pour être considéré comme une activité de RS&DE.
+VI. CONCLUSION
+[76] L’intimée a demandé qu’on lui alloue des frais en application du paragraphe 10(2) des Règles de la Cour canadienne de l’impôt (procédure informelle). Je suis d’avis que les circonstances ne justifient pas l’octroi de frais.
+[77] L’appel est rejeté en ce qui concerne le projet 705 (le projet de boisson à base de phytostérols et le projet 806, pour les années d’imposition se terminant les 30 juin 2010 et 31 octobre 2010, puisque ces projets entrepris par l’appelante ne constituaient pas des activités de RS&DE au sens du paragraphe 248(1) de la Loi. Aucuns frais ou dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 12e jour de septembre 2017.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2017 CCI 179
+No DU DOSSIER DE LA COUR :
+2015-2330(IT)I
+INTITULÉ :
+FLAVOR NET INC. c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario) et Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Les 8 février, 28 mars et 12 juin 2017
+MOTIFS DU JUGEMENT :
+L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT :
+12 septembre 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+David C. Sabina
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Ontario)
+[1] Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Loi sur la Cour canadienne de l’impôt, L.R.C., 1985, ch. T-2, paragraphe 18.1-18.28.
+[3] Transcription, 8 février 2017, à la page 13, lignes 5-7.
+[4] Transcription, 8 février 2017, à la page 13, lignes 8-11.
+[5] Transcription, 8 février 2017, à la page 23, lignes 23-24.
+[6] Voir les pièces R-2, R-5 et R-6.
+[7] Voir la pièce R-2 à la page 3.
+[8] Voir pièce R-3 à la page 2.
+[9] Voir pièce R-7 à la page 7.
+[10] Transcription, 28 mars 2017, à la page 83, lignes 17-22.
+[11] Voir la pièce A-1, page 79.
+[12] Transcription, 8 février 2017, de la page 14, lignes 25-28, à la page 15, lignes 1-7.
+[13] Transcription, 28 mars 2017, à la page 33, lignes 14-16.
+[14] Transcription, 8 février 2017, à la page 16, lignes 1-4.
+[15] Transcription, 8 février 2017, à la page 22, lignes 5-9.
+[16] Northwest Hydraulic Consultants Ltd. c La Reine, [1998] A.C.I. no 340 (QL).
+[17] RIS-Christie Ltd. c La Reine, 99 DTC 5087.
+[18] C.W. Agencies Inc. c Canada, 2001 CAF 393.
+[19] Northwest Hydraulic Consultants, précitée, alinéa 16(1)a).
+[20] R&D Pro-Innovation Inc. c La Reine, 2015 CCI 186 (proc. Inf.).
+[21] R&D Pro-Innovation Inc. c La Reine, 2016 CAF 152.
+[22] R&D Pro-Innovation Inc., précitée au paragraphe 9.
+[23] Transcription, 28 mars 2017, à la page 20, lignes 26-27.
+[24] Jentel Manufacturing Ltd. c Canada, 2011 CAF 355, au paragraphe 6.
+[25] Joel Theatrical Rigging Contractors (1980) Ltd. c La Reine, 2017 CCI 6.
+[26] Transcription, 28 mars 2017, à la page 111, lignes 20-22.
+[27] Transcription, 28 mars 2017, à la page 112, lignes 8-13.
+[28] Joel Theatrical Rigging Contractors (1980) Ltd., précitée au paragraphe 33.
+[29] Joel Theatrical Rigging Contractors (1980) Ltd., précitée aux paragraphes 40-42.
+[30] Transcription, 8 février 2017, à la page 53, lignes 20-24.
+[31] Transcription, 8 février 2017, à la page 43, lignes 15-17.

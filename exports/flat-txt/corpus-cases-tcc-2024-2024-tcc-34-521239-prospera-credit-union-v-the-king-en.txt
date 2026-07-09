@@ -1,0 +1,144 @@
+Title: Prospera Credit Union v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521239/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-34-521239-prospera-credit-union-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-03-13
+
+# Prospera Credit Union v. The King
+
+- Citation: 2024 TCC 34
+- Decision date: 2024-03-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5517, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prospera Credit Union v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-03-13
+Neutral citation
+2024 TCC 34
+File numbers
+2020-1578(GST)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1578(GST)G
+BETWEEN:
+PROSPERA CREDIT UNION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Costs determined by written submissions
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Joel A. Nitikman, K.C.
+Counsel for the Respondent:
+Whitney Dunn
+Spencer Landsiedel
+ORDER
+The Appellant is awarded costs of $19,600 plus disbursements of $4,122.71 for a total of $23,722.71.
+Signed at Ottawa, Canada, this 13th day of March 2024.
+“Susan Wong”
+Wong J.
+Citation: 2024 TCC 34
+Date: March 13, 2024
+Docket: 2020-1578(GST)G
+BETWEEN:
+PROSPERA CREDIT UNION,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR COSTS ORDER
+Wong J.
+I. Introduction/Overview
+[1] In my May 10, 2023 judgment allowing the appeal with costs to the appellant, I gave the parties time to reach an agreement on costs failing which they were directed to file written submissions for my consideration. I also directed that if I did not hear from the parties with respect to costs, then costs would be awarded to the appellant according to Tariff B.[1]
+[2] The parties did not reach an agreement as to costs so they have provided written submissions. The appellant proposes that it is entitled to costs of $197,527.69 (being 75% of its solicitor and client costs) plus disbursements of $4,122.71. On the other hand, the respondent disagrees, saying that tariff costs are appropriate. At the Court’s request, appellant’s counsel provided copies of the legal invoices and summaries of disbursements.
+II. Procedural history
+[3] The one-and-a-half day hearing took place in April 2022 and was a Class C proceeding. The issue was whether certain services provided by the appellant were preparatory in nature and therefore fell within the exception in paragraph (r.4) of the definition of “financial service”.[2] If so, then the services would fall outside the definition and would not be GST-exempt, thus obliging the appellant to collect and remit tax totaling $910,265 for the reporting periods from January 1, 2013 to December 31, 2016.[3]
+[4] The appeal was commenced in August 2020 and pleadings closed by December 2020. In January 2021, the Court issued a litigation timetable order based on dates proposed by the parties; no amendments were required. In July 2021, the appellant filed an amended notice of appeal with the respondent’s consent. Later the same month, the respondent filed a reply to the amended notice of appeal and the timeline to do so was extended with the appellant’s consent.
+[5] In September 2021, the parties submitted a joint application for a three-day hearing and requested an earlier sitting to accommodate appellant counsel’s availability. The hearing was set down for April 19 to 21, 2022 and completed in one-and-a-half days. At the hearing, the parties relied on a statement of partial agreed facts and an agreed book of documents; two witnesses testified on behalf of the appellant. Judgment was reserved and while under reserve, the parties made three sets of follow-up written submissions in April 2022, July 2022, and January 2023. I did not request any of these submissions but agreed to consider them in the interest of procedural fairness.
+III. Legislative framework
+[6] Section 147 of the Tax Court of Canada Rules (General Procedure) gives this Court broad discretion to determine costs. The determination must be done on a principled basis which includes a proper weighing of the factors set in subsection 147(3).[4] No expert witnesses testified so the relevant factors are as follows:
+the result of the proceeding;
+the amounts in issue;
+the importance of the issues;
+any offer of settlement made in writing;
+the volume of work;
+the complexity of the issues;
+the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding;
+the denial or the neglect or refusal of any party to admit anything that should have been admitted;
+whether any stage in the proceedings was
+(i)improper, vexatious, or unnecessary, or
+(ii)taken through negligence, mistake or excessive caution; and
+any other matter relevant to the question of costs.[5]
+IV. Analysis and discussion
+(a) The result of the proceeding [7] The relevant facts were the same across the reporting periods, which effectively made the appeal an all-or-nothing matter in which the appellant was wholly successful. Therefore, this factor favours increased costs.
+(b) The amounts in issue [8] The significance of the amounts in issue must be considered contextually and in relative terms.[6] In this instance, the amount of GST in issue was in the range of $200,000 per year based on fees paid by the appellant in the $4M range each year[7] and set against gross revenues exceeding $100M annually.[8]
+[9] The appellant says that the amounts in issue are greater than meets the eye because subsequent years are under audit and turned on the outcome of this appeal. I am not of the view that those amounts should be taken into consideration for the purposes of a costs award. To consider impacts outside the scope of an appeal in this way invites a degree of uncertainty that can make a costs determination nearly impossible.
+[10] While the amounts in issue would be significant in many instances, they are less so in the specific context of this case. Therefore, this factor is neutral.
+(c) The importance of the issues [11] At the time the decision was rendered, there was (and perhaps continues to be) no other decision dealing with the type of financial services in question in the context of credit unions. While one cannot know how many other credit unions might operate similarly to the appellant and therefore, be affected by this decision, it is reasonable to assume that there are some. Therefore, this factor favours increased costs.
+(d) Any offer of settlement made in writing [12] No written settlement offers were made so substantial indemnity costs[9] cannot be considered. Therefore, this factor is neutral.
+(e) The volume of work [13] Based on the invoice summary and the invoices submitted by appellant’s counsel, legal fees were billed for approximately 296.6 hours of work. At the documentary disclosure stage, the appellant listed 60 documents while the respondent listed 42. Examinations for discovery by each party took less than one day[10] and there were no interlocutory applications. By the commencement of hearing, the parties were able to file a statement of partial agreed facts[11] and a joint book of 25 documents[12].
+[14] Explaining financial services delivered on an ongoing basis on a large scale by a financial institution would require an above-average amount of work to set out the factual context for the purposes of prosecuting the appeal. Five days before the hearing, the respondent conceded that the services in question fell within paragraph (l) of the definition of “financial service”, thus reducing the issue to a question of whether they then fell within the exception in paragraph (r.4).[13]
+[15] While the concession ultimately reduced the length of the hearing and the amount of preparation required, I would expect that the relatively short notice of the concession resulted in a meaningful amount of preparation already having been done on a material issue. Therefore, this factor favours increased costs.
+(f) The complexity of the issues [16] I am of the view that the substantive issues were average in complexity, particularly since they were narrowed down to the application of paragraph (r.4) by the time of the hearing. Therefore, this factor is neutral.
+(g) The conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding [17] In October 2021, the respondent conceded the issue of whether the appellant was required to collect and remit GST on services provided to Desjardins Financial Group with respect to the issuance of credit cards. The respondent later also conceded that the remaining services in question fell within paragraph (l) of the definition of “financial service”, thus reducing the issue to a question of whether they then fell within the exception in paragraph (r.4). Finally, the parties proceeded by way of a statement of partial agreed facts and a joint book of documents, both of which required the respondent’s cooperation and consent.
+[18] The appellant argues that in light of the concession made five days before the hearing, that the respondent should have conceded the entire appeal. The remaining issue as to whether the exception in paragraph (r.4) applied was a valid one and the respondent was entitled to continue to dispute it. Therefore, this factor is neutral.
+(h) The denial or the neglect or refusal of any party to admit anything that should have been admitted [19] This factor is neutral for the reasons discussed under subheading (g).
+(i) Whether any stage in the proceedings was (i) improper, vexatious, or unnecessary, or (ii) taken through negligence, mistake or excessive caution [20] There is no evidence of this type of conduct so this factor is neutral.
+(j) Any other matter relevant to the question of costs [21] I am not of the view that there are any other relevant matters to consider in terms of costs.
+V. Conclusion
+[22] Based on the above, I am of the view that a costs award of $19,600 plus disbursements of $4,122.71 is appropriate, i.e. for a total of $23,722.71. The costs award approximately doubles the tariff, and takes into account the fact that there were amended pleadings, supplementary lists of documents filed by the appellant, an agreed statement of facts, and an agreement regarding documents. In making this award, I am particularly mindful of the appellant’s success, the possible importance of this decision to other credit unions, and the late concession by the respondent with respect to paragraph (l) which shortened the hearing but likely led to some unnecessary trial preparation by the appellant.
+Signed at Ottawa, Canada, this 13th day of March 2024.
+“Susan Wong”
+Wong J.
+CITATION:
+2024 TCC 34
+COURT FILE NO.:
+2020-1578(GST)G
+STYLE OF CAUSE:
+PROSPERA CREDIT UNION AND HIS MAJESTY THE KING
+DATE OF HEARING:
+Determined by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice Susan Wong
+DATE OF ORDER:
+March 13, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Joel A. Nitikman, K.C.
+Counsel for the Respondent:
+Whitney Dunn
+Spencer Landsiedel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Joel A. Nitikman, K.C.
+Firm:
+Dentons Canada LLP 250 Howe Street 20th Floor Vancouver, BC V6C 3R8
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Schedule II, Tariff B, Tax Court of Canada Rules (General Procedure)
+[2] Excise Tax Act, subsection 123(1), definition of “financial service”
+[3] Statement of Partial Agreed Facts (Exhibit AR-1 at paragraph 60)
+[4] Alta Energy Luxembourg S.A.R.L. v. The Queen, 2018 TCC 235 at paragraph 13; Ford Motor Company of Canada Limited v. The Queen, 2015 TCC 185 at paragraph 7
+[5] Tax Court of Canada Rules (General Procedure), subsection 147(3)
+[6] 9196-7448 Québec Inc v. The Queen, 2017 TCC 50 at paragraph 24
+[7] Statement of Partial Agreed Facts (Exhibit AR-1 at paragraph 60)
+[8] Amended notice of appeal at paragraph 2.87
+[9] Tax Court of Canada Rules (General Procedure), subsection 147(3.3)
+[10] Read-ins from examination for discovery of respondent’s nominee (Exhibit A-1); Respondent’s written submissions on costs at paragraph 5
+[11] Exhibit AR-1
+[12] Exhibit AR-2
+[13] Excise Tax Act, subsection 123(1), definition of “financial service”

@@ -1,0 +1,203 @@
+---
+title: "Dupuis c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26163/index.do"
+last_modified: "2004-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 715"
+citation2: ""
+neutral_citation: "2004 TCC 715"
+decision_date: "2004-10-19"
+language: "en"
+item_id: "26163"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3961
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:54:39.343000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee33bb06ec5f6eb2f712ce3a69d5e37e09ef12eb56ae526bfb216ba2a9c74f05"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dupuis c. M.R.N.
+
+- Citation: 2004 TCC 715
+- Decision date: 2004-10-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3961, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dupuis c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-19
+Neutral citation
+2004 TCC 715
+File numbers
+2002-2358(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-2358(EI)
+BETWEEN:
+DOMINIQUE DUPUIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+_______________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 5, 2004, at Trois-Rivières, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Annie Francoeur
+Counsel for the Respondent:
+Annick Provencher
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (the "Act") is allowed and the Minister of National Revenue's decision is amended since the Appellant's employment from May 1 to December 23, 1999, and from April 10, 2000, to October 12, 2001, satisfied the requirements of the Act for it to be considered insurable, based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2005.
+Julie Oliveira, Translator
+Citation: 2004TCC715
+Date: 20041019
+Docket: 2002-2358(EI)
+BETWEEN:
+DOMINIQUE DUPUIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is the appeal of a decision regarding the insurability of the work performed by the Appellant for Les entreprises Lionel Dupuis Inc. during two periods: May 1 to December 23, 1999, and February 1, 2000, to October 12, 2001.
+[2] To support and justify the determination giving rise to the appeal, the Respondent made the following assumptions of fact:
+[Translation]
+(a) The Payer, incorporated on October 2, 1978, runs an iron and metal recovery business and also sells various used pieces of metal.
+(b) During the periods in question, Lionel Dupuis, the Appellant's father, was the Payer's only shareholder.
+(c) The Payer runs its business all year long, with a peak period from April to November.
+(d) Depending on the time period, the Payer hires up to 10 employees, of which many are Dupuis family members.
+(e) The Appellant began working for the Payer as a receptionist and secretary in 1992.
+(f) During the Payer's peak period, the Appellant spent up to 75% of her work time weighing the metal that the clients delivered and sold to the Payer.
+(g) The Appellant worked at the Payer's premises and was responsible for a large number of office tasks (phone, mail, bookkeeping and other paperwork).
+(h) Every month, the Appellant had to give the Payer's accountant all of the filed invoices, cheques written, statements for credit cards used by employees, and bank deposit and withdrawal slips.
+(i) The Appellant was authorized to sign cheques on behalf of the Payer; only one signature was required.
+(j) The Appellant did not have a specific work schedule to follow. During the periods in question, she could work between 20 and 30 hours a week and often had periods of no work.
+(k) The Appellant's real work hours were not recorded by the Payer.
+(l) The Appellant claimed that during her periods of no work, her two brothers or father performed her tasks, while in a statutory declaration of
+May 3, 2000, the Appellant stated that she continued to render services to the Payer after December 23, 1999, without being paid.
+(m) Huguette Dupuis, the Appellant's mother, had to perform the same tasks as the Appellant for the Payer.
+(n) The Appellant was paid $10/hour for the hours she was recorded as having worked on the Payer's payroll.
+(o) The hours recorded on the payroll do not match the hours that the Appellant actually worked.
+(p) On December 23, 1999, the Payer issued a record of employment to the Appellant, indicating that she had worked 796.5 hours from May 10 to December 23, 1999.
+(q) On October 12, 2001, the Payer issued a record of employment to the Appellant indicating that she had worked 1,577 hours from February 1, 2000, to October 12, 2001, for the last 53 workweeks.
+(r) The Appellant's work periods that were indicated on the records of employment issued by the Payer do not match the periods entered on the Payer's payrolls or the periods that the Appellant actually worked.
+[3] The Appellant admitted to the facts mentioned in paragraphs a, b, c, e, g, h, n, p and q. She denied those in paragraphs d, f, i, j, k, l, m, o and r.
+[4] First, under paragraph 5(2)(i) of the Employment Insurance Act (the "Act"), the Appellant's work was excluded from insurable employment because she was not dealing at arm's length with the company's manager and owner, her father, Lionel Dupuis, the sole shareholder for Les entreprises Lionel Dupuis Inc. Paragraph 5(2)(i) of the Act reads as follows:
+(2) Insurable employment does not include:
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[5] Under the provisions set out by this paragraph in the Act, the Agents for the Respondent investigated and analyzed the available facts to verify whether the work done by the Appellant during the two periods in question was similar to or comparable to the work that would have been done by a third party dealing with the employer at arm's length, with regard to conditions, pay, duration, content, etc.
+[6] The Respondent did indeed find that the Appellant could not benefit from the exception set out by the legislation given that there were specific work conditions resulting from the non-arm's length relationship that the Appellant had with the company's sole shareholder. The Respondent therefore relied on the provisions of the Act in determining that the Appellant's employment was uninsurable.
+[7] In her appeal, the Appellant contested the validity of the Respondent's conclusion by arguing that the Respondent did not properly analyze the available facts and drew completely unreasonable conclusions with regard to the available facts and information.
+[8] She described her work and mainly emphasized the following tasks: payroll preparation, being at the office to answer calls from clients and to see that everything ran smoothly. She had some duties relating to the transporting of goods done by the company trucks, which travelled in the Maritime Provinces, Quebec and Ontario. The transporting of goods by the company was subject to all sorts of particularities regarding insurance, inspections, permits, etc. She was the one who was responsible for hiring and laying off employees. She took care of fuel consumption reports, maintenance programs, billing, licensing and inventory.
+[9] She said that she was trained by her mother who had done the same work for a long period of time. She briefly explained and described the work done by each of the family members-her father, mother and brothers-who worked for the family business.
+[10] The company purchased from individuals or businesses iron and various metals that it then resold. The purchase or sale price was essentially established in relation to weight; hence, the importance of the method used to establish the exact weight. The price was also determined in relation to different types of metal, which varied considerably based on the market. The price paid and received for iron and steel was very different from the price paid and received for copper, etc.
+[11] The company had scales, presses, a shredder, tractor loaders and many trucks that transported materials over an area, extending beyond the Quebec borders.
+[12] As the Appellant was a single parent, she had to spend a lot of time taking care of her child whose health was fragile. She explained that at times, she had to miss work. She was not as punctual at work as she would have liked because of this.
+[13] The Employer reduced the Appellant's number of work hours compared to when she started, where she generally worked 40 hours a week. Her work hours were recorded and calculated in the same way as the other employees at the company, that is, they were recorded on a chart on her office wall.
+[14] As to her wage of $10.00/hour, this was her hourly wage which increased over the years. At the beginning, it was closer to minimum wage.
+[15] With regard to insurability, more specifically, when the parties to a contract of employment do not have an arm's length relationship with each other, the witnesses' credibility is very important. In this case, the Appellant's testimony appeared credible. She acknowledged certain facts without trying to diminish their importance, even though they were not to her benefit.
+[16] I specifically refer to the fact that she acknowledged having done work for the Payer outside of the periods in question, namely payroll, sending out mail and on occasion, preparing one or several cheques. In her statutory declaration of May 3, 2000, she stated the following:
+[Translation]
+There are not many employees in the winter, so I was able to spend about ½ an hour a week on payroll. I distributed pay cheques on Wednesday, Thursday or Friday. As for the mail, that depended. I came when needed. The accounts payable was only at the end of the month. For records of employment, I only did one, and as for questions regarding the records, I did not note the dates when I was called.
+[17] The Respondent pointed out that the fact that the Appellant did some unpaid work decreased the company's total payroll to an amount equivalent to what the Appellant received as employment insurance benefits. This is an instance where the receiveability of the evidence depends on the amount of work done outside of the employment period and on the quality of this work.
+[18] That is a relevant argument if it involved extensive and significant work, almost equivalent to that done during the time periods when her name was entered into the payroll book.
+[19] I do not believe that the balance of evidence allows me to draw such a conclusion. Rather, it involved very occasional tasks that required availability on an intermittent basis. Another way to support the Respondent's argument would be to find that on one hand, the Appellant lied about the amount of work done outside the time periods in question, and, on the other hand, that the parties agreed to take advantage of the Employment Insurance Program.
+[20] If that was the case, why were the earnings so modest? Why were the workweeks reduced in terms of hours? Why was the period of work stoppage so short?
+[21] The Appellant explained that her earnings increased over the years and changed with the requirements of the job and with experience. She also indicated that she had worked 40-hour weeks, but that because of her child who often needed her, she was less available. She generally took vacation during the winter when business was slow.
+[22] The Appellant, a single parent, obviously needed the maximum income to fulfill her family obligations. Why would she have abused the system in such a small way if it were easy to organize everything differently with her father? Why would they not have provided a higher wage with more hours? If that had been the situation, the Respondent's interpretation of the facts would have been more plausible.
+[23] It is important to note that the explanations submitted by the Appellant and all the related facts are plausible.
+[24] At the time of the analysis leading to the preparation of the C.P.T. 110 report, Louise Savard noted a number of irregularities.
+[25] However, these irregularities must be considered in the particular context of the operations of the company for which she worked.
+[26] The Appellant held a position in the family business for a long time. The business was strong and growing. She performed many important tasks. She received a reasonable wage for her duties. It was stable and ongoing annual employment.
+[27] Because of her family responsibilities, she had less time to devote to her work. The wage she earned was not increased to compensate for the Appellant's loss of earnings from the reduction in her work hours, which is a valid point when considering the Appellant's credibility.
+[28] The decision to extensively invest in the company's development was very unwise due to the drop in the price of certain metals. This even led to the company's declaration of bankruptcy.
+[29] In this particular context, it was completely normal that the family members, who were very much a part of the business, stood by each other and did the most to try to save the company from bankruptcy.
+[30] The fact that the Appellant helped out in this particular situation and in a reasonable way, given her situation, is insufficient for me to find that there was abuse or even a serious breach likely to invalidate the contract of employment that was in effect at the time.
+[31] It sometimes happens that employees who are working at arm's length with the owners or managers of a company that is experiencing major difficulties will help out by agreeing to be laid off or by agreeing to a decrease in wages or changes in their working conditions.
+[32] In this case, the business' very difficult economic situation, which ended in an assignment in bankruptcy, undoubtedly had an impact on the Appellant's contract of employment.
+[33] The legal basis of the Respondent's findings lies in clearly relevant but incomplete facts. In view of these facts, the individuals responsible for analyzing the Appellant's case concluded too quickly that her employment was uninsurable.
+[34] The decision of the Board of Referees, by which there never was an interruption of earnings, obviously constituted a determining factor in the progress of the Appellant's case. I agree that it could have been a point to be considered. However, it would have been necessary to conduct a more in-depth analysis of certain points that remained very ambiguous, even in the Respondent's analysis.
+[35] The decision of the Board of Referees obviously caused a great deal of harm to the Appellant at the very beginning of the analysis of her case, and this harm was pervasive throughout the analysis.
+[36] The burden of proof rested on the Appellant. To discharge this burden, she had to show, based on the balance of evidence, that the terms of her employment were not unduly favourable or unfavourable.
+[37] She satisfactorily proved that she completed useful and necessary work, for which she received reasonable earnings. It can be concluded from the explanations regarding the working context and climate that the employer did indeed have the power to control the Appellant's work and that it never gave up that power.
+[38] The fact that the Appellant often called to say that she would be late because of her child's health problems is certainly an important point in this regard. In fact, given the context alleged by the Respondent, her father, the owner of the company and undoubtedly aware of his grandchild's state of health, would not have needed to know why she was late. On the other hand, if the Appellant had not been accountable, she would not have felt obligated to explain or justify her tardiness.
+[39] As to why she was laid off, again the evidence does not show that it was a false layoff or influenced by the non-arm's length relationship. Moreover, comparing the staff logs showed that certain employees who had an arm's length relationship with the employer had also been laid off during the same period as the Appellant.
+[40] However, the documentary evidence revealed an uncertainty. The Appellant produced a record of employment on which the date of return to work was February 1, 2000. This date is inconsistent with the payroll where the Appellant's name appeared as of April 10, 2000. In her testimony, the Appellant confirmed the information from the payroll, completely discrediting the validity of the date indicated on the record of employment.
+[41] This is a point that was given a determining importance. With regard to this issue, the Respondent had reason to point out this discrepancy in the Appellant's file.
+[42] However, the Appellant did not try to explain this discrepancy. She basically testified that she had returned to work in April.
+[43] The burden of proof on the Appellant has been discharged.
+[44] She did indeed work for a reasonable wage. Some discrepancies revealed by the Respondent are genuine, but the scope was considerably exaggerated based on a biased approach taken at the beginning in the Board of Referees' decision, which the Respondent gave excessive weight to.
+[45] For all these reasons, the Court allows the appeal and establishes that the work done by the Appellant from May 1, 1999, to December 23, 1999, and from April 10, 2000, to October 12, 2001, satisfied the requirements of the Act regarding insurable employment.
+Signed at Ottawa, Canada, this 10th day of November 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of January 2005.
+Julie Oliveira, Translator
+CITATION:
+2004TCC715
+COURT FILE NO.:
+2002-2358(EI)
+STYLE OF CAUSE:
+Dominique Dupuis v. Her Majesty the Queen
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATE OF HEARING:
+October 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+November 10, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Annie Francoeur
+Counsel for the Respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+Counsel:
+City:
+Annie Francoeur
+Sorel, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

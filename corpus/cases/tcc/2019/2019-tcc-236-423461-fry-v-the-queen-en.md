@@ -1,0 +1,199 @@
+---
+title: "Fry v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/423461/index.do"
+last_modified: "2019-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 236"
+citation2: ""
+neutral_citation: "2019 TCC 236"
+decision_date: "2019-10-22"
+language: "en"
+item_id: "423461"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4202
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:01:13.804000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01b79085dd30f4e88456aca7ffc88c9ef9108866f962aa3ded12438ad2cc41b8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fry v. The Queen
+
+- Citation: 2019 TCC 236
+- Decision date: 2019-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4202, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-10-22
+Neutral citation
+2019 TCC 236
+File numbers
+2018-3421(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3421(IT)I
+BETWEEN:
+ROBIN FRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 19, 2019, at Sydney, Nova Scotia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+Grace Jothiraj (a/c)
+AMENDED JUDGMENT
+This appeal in respect of the Appellant’s 2011 and 2013 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the sole basis that in respect of his 2013 taxation year, the Appellant is not liable for any penalty per subsection 163(2) of the federal Income Tax Act.
+This Amended Judgment is issued in substitution for the Judgment dated October 22, 2019 to reflect the names of both Respondent’s counsel.
+Signed at Ottawa, Canada, this 31st day of October 2019.
+“B.Russell”
+Russell J.
+Citation: 2019TCC236
+Date: 20191031
+Docket: 2018-3421(IT)I
+BETWEEN:
+ROBIN FRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+I. Introduction:
+[1] The Appellant, Robin Fry, appeals (electing this Court's informal procedure) two reassessments under the Income Tax Act (Canada) (Act) raised September 14, 2018 by the Minister of National Revenue (Minister) regarding the Appellant's 2011 and 2013 taxation years respectively. He sought also to appeal a reassessment similarly raised respecting his 2012 taxation year. But as that was a nil reassessment, on motion of the Respondent at the hearing's commencement that purported appeal was quashed - see my confirmatory Order issued April 8, 2019.
+[2] The appealed reassessments are "net worth assessments", assessed on the basis of the Minister's view that the Appellant's books and records as required by subsection 230(1) of the Act were entirely inadequate to permit conventional assessment of the Appellant's income tax liabilities for the two subject taxation years. In these two reassessments the Minister determined that the Appellant for his 2011 and 2013 taxation years had unreported taxable income of $27,490 and $6,566 respectively.
+[3] As well, the reassessment respecting the 2011 taxation year was raised beyond the applicable three year normal reassessment period. Thus the Respondent carries the onus of establishing that that reassessment is not statute-barred. Also, the Minister assessed gross negligence penalties pursuant to subsection 163(2) of the Act for each of the two taxation years in issue ($3,608 - 2011, $329 - 2013). The Respondent likewise carries the onus of justifying those two penalty assessments as part of the appealed reassessments.
+[4] The three issues to be addressed are:
+a) whether the Minister correctly included the amounts of $27,490 and $6,566 in the Appellant's taxable income for his 2011 and 2013 taxation years respectively;
+b) whether the Minister was correct in assessing gross negligence penalties per subsection 163(2) of the Act in the amounts of $3,608 and $329 in the 2011 and 2013 taxation years respectively; and
+c) whether the Minister was correct in reassessing the 2011 taxation year beyond the normal reassessment period.
+[5] At the hearing the Appellant represented himself. Testimony was heard from two witnesses - the Appellant and G. O'Donnell. Mr. O'Donnell is the Canada Revenue Agency (CRA) auditor who carried out the net worth assessments reflected in the appealed reassessments.
+II. Net worth calculations issue:
+[6] The evidence established that since 2003 and at all material times the Appellant has operated as a sole proprietorship a retail outdoor sports store located in Ingonish, Nova Scotia. At all material times the business had no employees and the Appellant discharged all operations of this business including maintenance of business records. The business sold, amongst other outdoor sports items, hunting gear including firearms. The Appellant did not maintain sales invoices, a sales journal, daily reconciliation sheets or cash register tapes in respect of this business. He had several credit cards, which were used both for personal and business purposes. He did not have a bank account specifically for the business.
+[7] The auditor explained his work in carrying out the net worth assessments, being a method for indirect verification of income due to marked inadequacy of the books and records the Appellant maintained. As stated in Ramey v. The Queen, 93 DTC 791 by Bowman, J. as he then was, in describing the net worth process:
+The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e., the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal.
+[8] To complete a net worth assessment (the net worth method being, “a last resort to be used when all else fails”), a taxpayer’s net worth (assets less liabilities) at each of the beginning and end of a year are determined and the difference noted. The taxpayer’s expenditures for the year then are added to the said difference while non-taxable sources of funds and reported income are deducted. The net result, if a positive amount, is then assessed as unreported income (Bigayan v. The Queen, 2000 DTC 1619, para. 2), per Bowman, J. as he then was).
+[9] The Appellant had specific criticisms of the auditor's net worth results. I note that the Appellant, carries the burden of demolishing the Minister's assumptions of fact underlying a contested assessment/reassessment, which assumptions are pleaded in the Respondent's Reply.
+[10] In LaCroix v. R., 2008 FCA 241 at para. 20, the Federal Court of Appeal (FCA) noted that where the Minister has assumed that unreported income detected utilizing the net worth method of assessment is taxable income, the taxpayer has the onus of providing credible evidence that the amount in question is not income. Further, per Bigayan, supra, para.3, the best method for defeating a net worth assessment is to provide evidence as to what actually was the taxpayer's income.
+[11] In brief, the auditor's testimony was that here the books and records for the business were unreliable and in some respects non-existent. There was no sales journal, no sales invoices, no cash register tape - only Paymentech statements which is simply a record of deposits into a bank account, and the Appellant would do a calculation to extract HST using formula 15 divided by 115. As well the Appellant did not have pertinent bank statements; thus the CRA auditor had to request these from the particular banks. As for expenses, all that the Appellant provided were purchase receipts (showing cost of goods sold), enclosed in monthly or quarterly labeled Ziploc bags. The auditor often could not reconcile the invoices in a bag with the statement in the bag. There was no expense journal, so no way to trace an individual receipt through to the tax return.
+[12] Additionally, as of December 2014 the Appellant had gone through four CRA desk audits re HST refund integrity. Each had resulted in disallowance of some input tax credits the Appellant had claimed. Several of those reports also commented on his inadequate records.
+[13] The Appellant had been questioned by the auditor during the audit as to cash on hand. He had $35 in his pocket and no cash in his till and no knowledge of any cash on hand his spouse might have, so $35 was used as his cash on hand figure for commencement of the net worth audit period as of December 31, 2010. Thereafter, after reviewing the auditor’s proposal letter, the Appellant for the first time said he had had a substantial sum on hand on December 31, 2010. This is further discussed below.
+[14] Also, the auditor’s evidence was that none of the personal expenses listed in the net worth included cash personal expenditures. The personal expenses were calculated conservatively. Without an expense journal the business expenses could not be distinguished from personal expenses. The auditor's calculations resulted in a discrepancy of income for 2011 of $27,490 and for 2013 a discrepancy of $6,566, leaving the auditor to conclude that those figures were unreported income amounts.
+[15] The auditor concluded also that there was a wilful omission of reported income for 2011, which generally was the basis for that ostensibly statute-barred year being reassessed. The specific bases for the 2011 reassessment being raised beyond the normal reassessment period included, no cash sales in the sales material, lack of adequate books and records, materiality of amount of unreported revenue, the Appellant carries out his own record-keeping, and his past audits and non-compliance with directions given to keep adequate books and records.
+[16] The auditor testified also that gross negligence penalties were assessed because, for 2011, $44,124 was the underreported business income change per the net worth (being the sum of the $27,490 discrepancy in total income per net worth and $16,634 of audited expense reductions), representing 45% of reported sales. And for 2013, $21,802 was the underreported business income change per the net worth (being the sum of the $6,566 discrepancy in total income per net worth and $15,236 of audited expense reductions), representing 23% of reported sales. Also, the auditor based the penalties on the further facts that the Appellant had been in business for 20 years so by now he should know how to keep books and records; and provides his tax return preparers, H&R Block, only with figures that he determines.
+[17] The Appellant's first matter raised is that his 2011 reported sales figure of $107,358 was already net of the non-business, i.e. personal Visa payment of $9,500 that he received that year for sale of a boat he privately owned, not being part of his business inventory. He says he started with the electronic sales total of $119,351 and deducted from it the $9,500, plus a personal electronic funds transfer of $2,675, to reach the figure of $107,176 which he equates with his reported amount of $107,358. He says the auditor then wrongly deducted the $9,500 again, causing that amount to be deducted twice, being once too many, to arrive at the lower sales figure of $97,858.
+[18] In my view this representation is at variance with the Appellant’s own earlier statement in his undated written communication to CRA received March 4, 2016, headed "Net Worth Audit - Robin J Fry" (Ex. R-1). That document appears to be the Appellant's response to the auditor's January 29, 2016 proposal letter setting out his net worth audit results for the 2011, 2012 and 2013 taxation years (Ex. R-8). The Appellant wrote that,
+In speaking with [the auditor] in regards to his proposed unreported sales of my business I had told him that actually I had reported more sales than what I had. I had sold our family boat for $9,500 and it was paid for on Visa through the business point of sale machine. I thought that because it went through the business point of sale machine it would be deemed business and it was filed that way. When I got the audit papers from [the auditor] he had removed the sale of the boat from business sales as filed in 2011...
+[19] This 2016 statement of the Appellant indicates he had filed his return on the basis that the $9,500 boat sale was included in his business sales, and that it was the auditor who first deducted the $9,500 from business sales for the personal (i.e., non-business) sale of the boat.
+[20] Thus I decline to accept the Appellant's more recent version that he had already deducted the $9,500 for the non-business sale of the boat from the total of business sales.
+[21] The next matter raised by the Appellant in his post-hearing written submission relates to his 2013 taxation year. He writes regarding his 2013 reported sales that,
+$95,581 is the amount the auditor used for the net worth when the fact is I used the $95,581 plus the $14,337 HST collected for a total of $109,918 for all business related expense [sic] in 2013...
+…Fact $14,377 spent by me in 2013 was from HST collected and deposited to my bank account and not from unreported sales as assumed by auditor therefore unreported sales as per net worth [audit] should be reduced by $14,337 for the year 2013.
+[22] The auditor used the $95,581 amount, being net of HST, as the actual business sales figure. I consider that approach to be correct. HST is a tax, not proceeds of sale. Thus the correct business sales figure would be the net sales figure of $95,581, and not $109,918 as contended by the Appellant.
+[23] The Appellant next referred to his 2011 sales consisting of $103,783 net sales and $15,532 HST, saying none of the $15,532 was remitted and thus the audit figure of unreported sales should be reduced or adjusted by $21,457. It is not clear where the $21,457 figure comes from but I infer it is intended to be inclusive of the $15,532 figure.
+[24] The evidence does show that for his quarterly reporting periods in 2011 the Appellant's input tax credits exceeded his HST collectible (resulting in a negative net tax). But still, the HST collectible has to have been reported. As the Respondent states in its written representations, having been reported, HST collectible cannot constitute an unaccounted source of cash at hand. Not being an unaccounted source of cash at hand, the figure of HST collectible would not affect a net worth determination of unreported sales.
+[25] Next, the Appellant raised the matter of personal property sales. He says he sold personal property totalling $12,700 in 2011 and $2,400 in 2013. No invoices or original receipts were provided to support this, nor purchase or other acquisition documentation as to the items themselves.
+[26] The personal items said to have been sold in 2011 purportedly included two snowmobiles (each $3,000 cash), an all-terrain vehicle (ATV) ($2,700 cash), a boat motor and trailer ($2,500 cash), a chain saw ($500 cash) and an ATV trailer ($800 cash). The 2013 personal property said to have been sold was a set of three rifles ($2,700 cheque).
+[27] The Appellant acknowledged in cross-examination that what he had presented in his direct testimony as copies of original receipts had been created by him after the fact using a program on his home computer. (I think this was more a matter of confusion in communication than actual deceit.) Nor was anyone called to testify as to being a buyer of any such properties. Finally, there was no documentation submitted showing what had been done with resultant cash proceeds, nor proving the above-referenced 2013 cheque.
+[28] Further, the audit report indicates (Ex. R-9, p. 45) that the Appellant's first mention of these sales was only after issuance to him of the auditor's net worth audit proposal letter.
+[29] The Respondent has pleaded as a ministerial assumption that the Appellant had not sold any personal property in the claimed amounts (Reply, para. 6(u)). Was that assumption prima facie disproved? As noted, the Appellant put forward no valid documentation at all corroborating these said sales, nor called any witnesses to testify that they had purchased one or other of the particular items. In these circumstances I am unable to find that the Appellant has defeated the pleaded assumption.
+[30] The Appellant disputes also a factual assumption made by the Minister in raising the appealed reassessments (Reply, para. 6(t)); that he had only $35 cash on hand at the end of each of the 2011, 2012 and 2013 taxation years. The witnesses' testimony at the hearing, taken together, establishes that the $35 amount was identified by the Appellant, in response to questions from the auditor during the audit in December 2016, including how much cash he had on his person ($35), in the cash register (nil) and what cash his spouse (having modest employment income) would have on hand (no idea).
+[31] The Appellant maintained at the hearing and in his written submissions on the subject of cash on hand that he had received $12,349 of collectible HST from customers in 2010 in cash. (Note that in the fourth quarter of 2010 the business transitioned from cash sales to sales that primarily were electronic via credit cards and debit cards.) He says he used the cash for 2011 business expenses. The Appellant asserts that he should be recognized for having cash on hand of $12,349 as at year-end 2010.
+[32] There was no suggestion that his spouse had had cash on hand that had not been recognized. He also testified that he received an HST refund each year, indicating that he had a negative net tax thus each year having a greater quantum of input tax credits than collected HST. The Respondent asserts that GST/HST collectible in such circumstances cannot constitute an unaccounted source of cash on hand.
+[33] I do not see this as adequate evidence of actual cash on hand as of the end of 2010 other than the $35 amount used by the auditor. Also I note that in the audit report (Ex. R-9) dated April 7, 2016 the auditor at page 44 observed respecting this assertion by the Appellant as to cash on hand much greater than $35 that,
+There were material cash withdrawals and inventory purchases paid by debit from the business bank account during the last quarter of 2010. For instance, cash withdrawals from October 1, 2010 to December 31, 2010 were $6,262 and inventory purchases paid by debit were $12,795 during the same three month period. Why would the appellant withdraw cash from his business bank account or pay for inventory purchases with debit during the last quarter of 2010 if he had large amounts of cash-on-hand?
+[34] As well, $12,349 as HST collectible is tax so not cash on hand. If the taxpayer then spends so much on business expenses that resultant input tax credits total more than the HST collectible, causing the HST collectible to be not required to be remitted, it would seem such spending would itself deplete what otherwise would or could be cash on hand.
+[35] In light of the foregoing and particularly the complete absence of supportive evidence, the Appellant has not succeeded in refuting the Minister's assumption as to $35 cash on hand.
+[36] The Appellant makes a written submission in argument about money transfers involving his life partner and her mother. Much of this consists of factual assertions not testified to at the hearing. I therefore decline to address this submission.
+[37] Also, the Appellant makes a written submission regarding PayPal funding which includes assertions of fact not testified to at the hearing. I thus am unable to address this submission either.
+[38] Further, the Appellant puts forward in his written submissions assertions regarding gift monies involving his own adult siblings and parents. Nothing was said of this at the hearing and the asserted facts have no basis in any testimony or other evidence adduced at the hearing. Thus I am unable to address this submission.
+[39] Lastly, the Appellant asserts per his written submissions that he sold forty-four personal guns during the three year audit period. The gross proceeds from these sales amounted to more than $30,000. The auditor determined that there could not be a separation of personal sales of firearms from his business sales of firearms. The auditor concluded that the sales of these forty-four guns constituted a business undertaking as opposed to a hobby. There would appear to have been a profit motive and planning involved in the conduct these sales.
+[40] In Stewart v. Canada, 2002 SCC 46, para. 50, the Supreme Court of Canada identified the following two questions to be asked in determining whether a particular activity constituted a source of income from business -
+(a)is the activity undertaken in pursuant of profit or is it a personal endeavour (such as a hobby)?
+(b)if it is not a personal endeavour, is the source of the income a business or property?
+[41] The suggestion that these were all family guns variously gifted to or bought by the Appellant for hunting by his family of four, and then sold as these guns were outgrown by the family, is difficult to accept. Forty-four seems to be a lot of guns for a family of four to have been actively using. The intention of acquiring guns most likely was for their re-sale, including the Appellant said, online through a gun enthusiasts' website called "gun nutz".
+[42] Again and in any event there was no evidence adduced as to documentation respecting when and how acquired and what if anything was paid and also as to sale - for how much, to whom, and when. If a hobby, it would be a non-taxable source of funds. As a business, it is a taxable source of funds. The Minister rejected this representation of seeking to reduce unreported taxable income by the amount of this income on the basis that it was a hobby, i.e. non-business income. I reject that representation as well.
+[43] The Appellant also filed written "Final Submissions". Much of its content focuses on HST balances in the context of assertions of fact not testified to at the hearing. What little testimony there was at the hearing regarding HST balances is insufficient for me to adjudicate these points in the Appellant's favour. The submissions regarding the $9,500 boat sale (paras. 1 to 5 of the "Final Submissions") were considered by me in addressing that topic above.
+[44] Thus, having addressed the Appellant's points raised in his initial written submissions, I have found no basis to require any change to the result of the net worth assessments for 2011 and 2013.
+III. Statute-barred year issue:
+[45] The second issue to be addressed is whether the 2011 taxation year reassessment is statute-barred for having been raised beyond the applicable three year normal reassessment period. Subparagraph 152(4)(a)(i) of the Act provides:
+The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[46] In LaCroix, supra, para. 32, the FCA provided that if the Court is satisfied that the taxpayer had unreported income, and did not provide a credible explanation for the discrepancy between his/her/its reported income and net worth, then the Minister has discharged the government's burden of proof for purposes of subparagraph 152(4)(a)(i) as well as subsection 162(3).
+[47] I consider that in this appeal the LaCroix test has been met for determining that subparagraph 152(4)(a)(i) applies. That is, as per the discussion above, the Minister had found that the Appellant had unreported income and without a credible explanation for the discrepancy between his reported income and the net worth result. In the result I find that there was a misrepresentation due to carelessness, neglect or wilful default such that subparagraph 152(4)(a)(i) of the Act applies to render the 2011 taxation year not statute-barred.
+IV. Gross negligence penalty issue:
+[48] The last issue is whether the two gross negligence penalties per subsection 163(2) of the Act, assessed respectively for the two taxation years at issue - 2011 and 2013 - were valid. Again, the Appellant put forward no submissions concerning this issue. Again, citing LaCroix (in particular its above reference to subsection 163(2) liability being established by an unexplained discrepancy between reported income and net worth), and noting the unexplained substantial discrepancy of $27,490 as assessed for the 2011 taxation year, I find the penalty was rightly assessed for that year.
+[49] However, in respect of the 2013 taxation year I do not find that the $6,566 assessed discrepancy of sufficient magnitude to justify the gross negligence penalty being assessed for that year. As referenced above, net worth assessments are notably inexact.
+V. Conclusion:
+[50] In conclusion the appeal in respect of the 2011 and 2013 taxation years will be allowed, without costs, and the matter referred to the Minister for reconsideration and reassessment on the sole basis that the Appellant is not liable for a gross negligence penalty per subsection 163(2) of the Act in respect only of his 2013 taxation year.
+This Amended Reasons for Judgment is issued in substitution of the Reasons for Judgment dated October 22, 2019 to reflect the names of both Respondent’s counsel.
+Signed at Ottawa, Canada this 31st day of October 2019.
+“B.Russell”
+Russell J.
+CITATION:
+2019TCC236
+COURT FILE NO.:
+2018-3421(IT)I
+STYLE OF CAUSE:
+ROBIN FRY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Sydney, Nova Scotia
+DATE OF HEARING:
+March 19, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+DATE OF AMENDED JUDGMENT
+DATE OF AMENDED REASONS FOR JUDGMENT
+October 22nd 2019
+October 31st, 2019
+October 31st, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tokunbo C. Omisade
+Grace Jothiraj (a/c)
+COUNSEL OF RECORD:
+For the Appellant: Blank
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

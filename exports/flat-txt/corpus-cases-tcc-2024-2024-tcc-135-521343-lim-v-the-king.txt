@@ -1,0 +1,197 @@
+Title: Lim v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521343/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-135-521343-lim-v-the-king.md
+Document type: case_law
+Last modified: 2024-10-18
+
+# Lim v. The King
+
+- Citation: 2024 TCC 135
+- Decision date: 2024-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6049, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lim v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-10-18
+Neutral citation
+2024 TCC 135
+File numbers
+2020-811(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-811(IT)G
+BETWEEN:
+VAN LIM,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 16, 2024, at Ottawa, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jason Stober
+JUDGMENT
+In accordance with the attached Reasons for Judgment;
+IT IS ORDERED THAT the Appeal is denied. Both parties shall be responsible for their own costs.
+Signed at Ottawa, Canada, this 18th day of October 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 135
+Date: 20241018
+Docket: 2020-811(IT)G
+BETWEEN:
+VAN LIM,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. Overview
+[1] The Appellant, Van Lim appeals a reassessment made by the Minister of National Revenue (the “Minister”) pursuant to section 160 of the Income Tax Act (the “Act”). The Appellant was assessed in the amount of $389,725.47 for what the Minister determined was a direct transfer of property to her from her then husband, Mr. Thi Sok Lim (“Mr. Lim”) for no consideration. At the time of the transfer of his half share of the family home, Mr. Lim owed unpaid taxes amounting to $389,725.47.
+II. Facts [2] The Appellant was the only witness at trial. She is a mother of four children and presently works as a hair stylist. In 2015, both Mr. and Mrs. Lim worked in the restaurant business. At that time, Mr. Lim was the owner of various restaurants.[1]
+[3] Unfortunately, the Appellant, who was self-represented at trial[2], provided very few details in her testimony. She often did not recall important facts, such as the date when she separated from her husband, nor the specifics surrounding any contracts or agreements she had with Mr. Lim. Despite this, the facts in this case are straightforward and mostly not in dispute. For the most part, I rely upon the documents entered as exhibits, such as the separation agreement, to provide many of the necessary facts to reach a decision on this matter.
+[4] The key transaction in this matter, the transfer of the family home from joint ownership into Ms. Lim’s name alone, took place on July 8, 2015.
+[5] Ms. Lim testified that over the years, Mr. Lim moved out of the family home and then returned on numerous occasions. Specific dates were not provided.
+[6] The Appellant alleges that in or around June of 2015, she entered into a verbal contract with Mr. Lim in which she agreed to forbear her right to any interest in his restaurant business in exchange for his share of the Matrimonial Home (the “Agreement”). At this time, Mr. Lim owned four corporations, which each owned one restaurant. The restaurants and their respective fair market values were as follows:
+Restaurant
+FMV
+“Pho Thi Noodle Soup”, owned by 6358233 Canada Inc.
+$150,000
+Pho Thi Fusion, owned by 6565883 Canada Inc.
+$400,000
+Thi Fusion Restaurant, owned by 6737447 Canada Inc.
+$10,000
+“Thi Fusion Restaurant Lounge + Bar”, owned by Thi Fusion Restaurant Lounge + Bar Inc.
+$500,000
+Total
+$1,060,000
+[7] The Appellant alleges that fair market value’s listed above are supported by Agreements of Purchase and Sale that Mr. Lim entered into relatively soon after transferring his share of the Matrimonial Home.
+[8] On July 29, 2015, 6358223 Canada Inc. sold Pho Thi Noodle Soup for $150,000.
+[9] On September 8, 2015, 6565883 Canada Inc. sold Pho Thi Fusion for $400,000.
+[10] On November 3, 2016, 6737447 Canada Inc. sold Thi Fusion Restaurant for $10,000.
+[11] At the time that Mr. Lim transferred his share of the Matrimonial Home, the estimated fair market value of Thi Fusion Restaurant + Bar Ltd. was approximately $500,000. On January 20, 2017, it was sold for $575,000.
+[12] Over the following months after the July 2015 transfer of title, Mr. Lim continued to reside intermittently in the Matrimonial Home.
+Facts set out in the separation agreement
+[13] The Appellant and Mr. Lim began cohabiting in approximately December 2002, and were married on July 7, 2010 in Ottawa, Ontario.
+[14] The parties separated on December 1, 2015 and signed a separation agreement on November 14, 2016.
+[15] At the time of separation, they had four sons, all under 12 years of age.
+[16] The signed separation agreement specifically replaced all oral or written agreements that may have existed between the parties.
+[17] Paragraph 5.9 of the separation agreement reads:
+“Jack and Vanessa each receive a salary from the restaurant of approximately $60,000. Child support payable by Jack according to Table amount is $1,382.00 monthly to Vanessa. In consideration of the global settlement of worth $750,000.00 of Jack’s share in the matrimonial home and business assets, as contemplated herein, Jack shall not pay child support and shall not contribute to any child’s special or extraordinary expenses”.
+[18] The Matrimonial Home was estimated to be worth $1,600.000. Mr. Lim’s half share equity in the home was worth $508,778.50. In signing the separation agreement, Mr. Lim released all claims to the family home.
+[19] Mr. Lim also transferred ownership of one of his restaurants to his wife as part of the separation agreement. The restaurant had a value of $500,000, free of all encumbrances.
+III. Position of the Parties
+Position of the Appellant
+[20] The Appellant submits that she is not liable for the amount assessed under section 160 of the Act, because she provided Mr. Lim with consideration for the Transfer of his 50% interest in the Matrimonial Home.
+[21] She alleges that by agreeing to forbear her right to any interest in Mr. Lim’s restaurant business, she provided Mr. Lim with consideration in the amount of $530,000, in exchange for Mr. Lim’s equity in the Matrimonial Home amounting to $508,432.
+[22] The Appellant alleges that the consideration provided to Mr. Lim exceeds the value received for half of the Matrimonial Home. Further, since the consideration provided by the Appellant to Mr. Lim exceeded the value of the property she was transferred, subparagraph 160(1)(e)(i) of the Act causes there to be no amount for which the Appellant is liable under subsection 160(1) of the Act.
+Position of the Respondent
+[23] The Respondent submits that the Minister correctly assessed the Appellant’s liability for $389,725.47 in accordance with subsection 160(1) of the Act.
+[24] The Respondent submits that at all material times the Appellant and Mr. Lim were related persons by virtue of paragraph 251(2)(a) of the Act and were therefore deemed to not deal with each other at arms-length pursuant to paragraph 251(1)(a) of the Act.
+[25] The Respondent submits that the Transfer of 50% of Mr. Lim’s interest in the Matrimonial Home had a fair market value of $508,778.50 and the Appellant did not provide consideration for this transfer.
+[26] At the time of the Transfer, Mr. Lim had a tax liability for $389,725.47.
+IV. Issues
+[27] The key issues to be addressed in this proceeding are as follows:
+1)Did the Appellant provide consideration to Mr. Lim for the Transfer of Property?
+2)Does s.160(4) of the Act provide an exception to s. 160(1) of the Act that the Appellant can rely upon?
+V. Law and Analysis
+1)Does Section 160 apply? Did the Appellant provide consideration for the transfer of property?
+Overview of s. 160(1)
+[28] Subsection 160(1) states as follows:
+(1) Tax liability re property transferred not at arm's length Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount ) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[29] This provision provides that a non-arms length party may be liable for the value of anything transferred by a tax debtor, minus any consideration given in return.
+[30] Livingston v R outlined the criteria that must be met for subsection 160(1) to apply[3]:
+1)There must be a transfer of property;
+2)The parties must not be dealing at arm’s length;
+3)There must be no consideration or inadequate consideration flowing from the transferee to the transferor; and
+4)The transferor must be liable to pay tax under the Act at that time.
+[31] The nature of this provision in the Act has been described as “draconian”, and accordingly the exceptions to the reach of this section are narrow.[4]
+Was there consideration given for the transfer?
+[32] The main issue in this appeal is whether or not there was consideration given from the Appellant to Mr. Lim for the transfer of the Matrimonial Home. Specifically, whether the Appellant’s claimed promise to forbear her interest in Mr. Lim’s restaurant business by way of verbal agreement in July 2015 constitutes consideration for the purposes of subsection 160(1).
+[33] Unfortunately, there was no evidence provided at trial concerning a July 2015 verbal agreement. For the most part, I am only aware of its claimed existence because of what is set out in the Notice of Appeal.
+[34] While this argument is unsuccessful for the reasons set out below, the lack of evidence concerning any verbal agreements between the parties, preceding the separation agreement, is fatal to the Appellant’s case prior to any further analysis.
+[35] Furthermore, I note that the terms of the separation agreement are inconsistent with the claim of an oral contract made by the Appellant. The separation agreement transferred ownership of one of the restaurants, worth $500,000, to the Appellant. Yet the Appellant plead that she waived any claims to Mr. Lim’s businesses, in return for the family home.
+[36] Even if I were to accept that the Appellant subsequently amended this verbal agreement, to only waive a claim on a portion of Mr. Lim’s businesses, the argument would nevertheless be unsuccessful for the reasons set out below.
+[37] The Federal Court of Appeal (FCA) held in Livingston v R, that forbearance, the act of refraining from enforcing a right, obligation, or debt, can act as consideration for a promise given in return.[5]
+[38] However, as decided by the FCA in Yates v R “the surrender of spousal rights under a contract, even if properly valued, evidenced and arithmetically accurate, does not override the joint liability of a transferee for the transferor’s tax debt where the other requirements are met”[6]
+[39] Justice Blais, in concurring, stated at paragraph 67 that “A plain language interpretation of subsection 160(1) does not allow for a family law exception…”
+[40] Therefore, even if I accept that a verbal agreement was reached between the Lims on July 8, 2015, prior to their separation on December 1, 2015, the Appellant would be unsuccessful. The forbearance of a right (stemming from Ms. Lim’s right to a fair division of property under the Family Law Act) the Appellant may have had to Mr. Lim’s restaurant business does not constitute consideration for the purposes of subsection 160(1).
+[41] In any case, the timing of the transfer of the property, months before the parties separated, is fatal to Ms. Lim’s argument.
+[42] I therefore find that the Appellant did not provide consideration to Mr. Lim for the transfer of his half interest in the family home. The Appellant is unsuccessful in her main argument.
+2)Application of Special Rules under Subsection 160(4)
+[43] It should be noted that section 160(4) was not plead by the Appellant’s original counsel. This was for good reason.
+[44] Subsection 160(4) outlines special rules applicable to the transfer of property to a spouse or common law partner, this subsection states as follows[7]:
+(4) Special rules re transfer of property to spouse [or common-law partner]
+Notwithstanding subsection (1), where at any time a taxpayer has transferred property to the taxpayer's spouse or common-law partner pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written separation agreement and, at that time, the taxpayer and the spouse or common-law partner were separated and living apart as a result of the breakdown of their marriage or common-law partnership, the following rules apply:
+(a) in respect of property so transferred after February 15, 1984,
+(i) the spouse or common-law partner shall not be liable under subsection (1) to pay any amount with respect to any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+Cases
+(ii) for the purposes of paragraph (1)(e), the fair market value of the property at the time it was transferred shall be deemed to be nil, and
+Commentary
+(b) in respect of property so transferred before February 16, 1984, where the spouse or common-law partner would, but for this paragraph, be liable to pay an amount under this Act by virtue of subsection (1), the spouse's or common-law partner's liability in respect of that amount shall be deemed to have been discharged on February 16, 1984,
+but nothing in this subsection shall operate to reduce the taxpayer's liability under any other provision of this Act.
+[45] To benefit from a subsection 160(4) exception, a taxpayer must meet a two‑part test. First, the property must have been transferred pursuant to a decree, an order or judgement of a competent tribunal or a written separation agreement. Secondly, the spouses must have been living separately and apart at the time of the transfer.[8]
+[46] The concept of “a written separation agreement” has been often litigated in this Court. In Carriere c R, this Court determined that a written separation agreement for the purposes of this provision should generally include information such as custody of children, alimony, and the division of property.[9]
+[47] In this matter, the property was not transferred pursuant to any separation agreement.
+[48] In addition, as set out in the December 2016 separation agreement, the parties were not separated at the time of the property transfer, as the property was transferred on July 8, 2015. The parties separated on December 1, 2015.
+[49] The Appellant therefore cannot benefit from the subsection 160(4) exception. The couple did not enter into a written separation agreement until well after the transfer of property.
+VI. Conclusion
+[50] For the reasons set out above the Appeal is denied. Both parties shall be responsible for their own costs.
+Signed at Ottawa, Canada, this 18th day of October 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 135
+COURT FILE NO.:
+2020-811(IT)G
+STYLE OF CAUSE:
+VAN LIM AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+September 16, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+October 18, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jason Stober
+COUNSEL OF RECORD:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] listed at paragraph 6 of this decision..
+[2] She did have a counsel representing her at the outset of this matter, who prepared the Notice of Appeal.
+[3] Livingston v R 2008 CAF 89.
+[4] Yates v R, 2009 CAF 50.
+[5] Livingston v R, 2008 CAF 89 at para 29.
+[6] Loates v R 2015 TCC 30 at para 28.
+[7] Income Tax Act at s. 160(4).
+[8] Income Tax Act, at s. 160(4)
+[9] Carriere c R 2006 TCC 289.

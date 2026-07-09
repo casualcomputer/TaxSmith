@@ -1,0 +1,207 @@
+---
+title: "Keefe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25507/index.do"
+last_modified: "2003-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 791"
+citation2: ""
+neutral_citation: "2003 TCC 791"
+decision_date: "2003-11-13"
+language: "en"
+item_id: "25507"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2379
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:31:23.511000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "afe26ef2f0db94e2a8758451bec54dd480e527c167009b15c3732904f991a715"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Keefe v. The Queen
+
+- Citation: 2003 TCC 791
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2379, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Keefe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-13
+Neutral citation
+2003 TCC 791
+File numbers
+2003-772(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-772(IT)I
+BETWEEN:
+TERRY KEEFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 2, 2003 at Toronto, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+P. Michael Appavoo
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years is allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2003TCC791
+Date: 20031113
+Docket: 2003-772(IT)I
+BETWEEN:
+TERRY KEEFE,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant has appealed assessments for the 1998, 1999 and 2000 taxation years in which the Minister of National Revenue (the "Minister") added as income an unreported automobile benefit provided by his employer of $13,254, $13,217 and $12,072 respectively, for each of the taxation years in question.
+FACTS
+[2] The Appellant was self-represented and testified on his own behalf. He is the sole shareholder and an employee of the company Keefe Bros. Carpet Ltd ("Keefe Bros."). He gave his evidence in a very straightforward manner. His answers were direct and clear and were consistent with what would normally be expected from a sensible small business operator. I have no reason to think he was anything other than truthful in his account of the operation of his business or the nature and frequency of his use of the Jeep Cherokee.
+[3] The Appellant also called as a witness Mr. Mark Potter, a Chartered Accountant with the firm that over the years, has provided accounting advice to the Appellant and to Keefe Bros.
+[4] The Respondent, on the other hand, presented no witnesses or documents. The Minister relied on the assumptions in the Reply to the Notice of Appeal and the cross-examination of the Appellant's witnesses.
+[5] There is no dispute that:
+· throughout each of the taxation years, Keefe Bros. made a vehicle, in each case a "Jeep Cherokee" available to the Appellant;
+· the purchase price for the Jeep Cherokees was $50,853 for the 1998 and 1999 taxation years and $50,646 for the 2000 taxation year;
+· the Appellant has did not maintain a log book for any of the taxation years; and
+· the Jeep Cherokee was driven approximately 40,000 kilometers per taxation year, of which about 7,500 kilometers were for the Appellant's non-employment purpose use.
+[6] The Appellant is the driving force behind Keefe Bros. In addition to the Appellant, the staff consists of his wife, who acts as the bookkeeper, and an administrative assistant. For the past 28 years, Keefe Bros. has been engaged in the supply and installation of commercial floor coverings, primarily carpet and sheet flooring. Most of the Appellant's work is conducted at the clients' offices or at project sites rather than at the Keefe Bros.
+[7] The Appellant resides in Newmarket, a distance of approximately 14 kilometers from the Keefe Bros. office in Richmond Hill. The project sites are located roughly within a 100 kilometer-radius of the business office in Richmond Hill. The Appellant's practice is to call at his clients' place of business to show samples, to tender pricing and to provide them with flooring samples. In the normal course of his duties, he regularly visits the client project sites to supervise the work being done and to handle problems as they arise on installation jobs.
+[8] The Appellant testified that typically, flooring installation has to be done in the evenings or on weekends, especially where the buildings are client-occupied or government services buildings, as clients often object to the odour of the flooring adhesives. The Appellant, as the sole owner-operator of Keefe Bros., is the person who is ultimately responsible for any resolving difficulties or making decisions at the project site locations. He stated that he is "on call 24/7" and has to be ready to respond to the installation crew when they need him. He estimated that he would be required at the project sites outside of what are normally considered "business hours" about 50% of the time.
+[9] Describing the Jeep Cherokee as a vehicle that is "exclusively a business tool", the Appellant stated that "on occasion" he takes the Jeep Cherokee home from the office at the end of the day's work. His reasons for doing so were that he might be going home late directly from a job site, he might need to go directly to a client location the following morning or he might need to respond to an emergency job situation that night. He also stated that he had concerns about leaving the Jeep Cherokee at Keefe Bros. in Richmond Hill as the office is located in an industrial plaza at the end of a dead-end street.
+[10] The Appellant has varying degrees of access to two other vehicles for non-employment purpose use: the first is a 1992 Jeep "TJ" (currently monopolized by his teenaged son) and his wife's car. Only the Appellant has access to the Keefe Bros. Jeep Cherokee but he testified that he does use it from time to time for shopping or to drop his children off at the movies or other domestic chores. Counsel for the Respondent cross-examined on the extent of the non-employment purpose use and the Appellant's responses were consistent with his direct evidence.
+[11] To assist him in describing a typical work week, the Appellant prepared a sample log for the week of September 15-19, 2003. He was clear in his direct evidence and on cross-examination that this sample log did not represent his actual use of the Jeep Cherokee for any of the taxation years in question.
+[12] While there was no detailed evidence on this point, it seems that the Minister's questioning of the validity of the Appellant's claim to a reduced standby charge arose during a general GST audit of Keefe Bros. In any event, the Appellant testified that he had cooperated fully with Canada Customs and Revenue Agency officials throughout the audit process and this evidence was not contradicted by counsel for the Respondent. In particular, the Appellant assisted with the determination of the total kilometres driven in each taxation year and the calculation of the proportion to be assigned to non-employment purpose use.
+[13] Mr. Mark Potter, a Chartered Accountant with the firm of Norton McMullen & Co, was called as a witness for the Appellant. For the past several years, this firm has provided accounting services to Keefe Bros. and to the Appellant personally. Mr. Potter provided professional advice to the Appellant and Keefe Bros. on the reasonable standby charge and operating benefit and calculated the reduced standby charge.
+[14] He stated that he was familiar with the nature of the Keefe Bros. business operation. For at least the past 20 years, he said, it had been the practice of Keefe Bros. to purchase a new company vehicle as soon as the current one had about 60,000 kilometres on it. Each year, in preparing tax returns for Keefe Bros. and the Appellant, he considered the use the Appellant made of the vehicle for anything other than business purposes. It was this knowledge, together with his research of the case law on this issue that prompted Mr. Potter to advise the Appellant to claim a reduced standby charge.
+[15] In presenting the case for the Minister, counsel pointed to the Appellant's admission that 7,500 of the 40,000 kilometres on the Jeep Cherokee in each taxation year were "in respect of the Appellant's personal use" of the automobile provided by his employer.
+[16] Using this raw data, the Respondent calculated the employment purpose use portion of the distance travelled as 81%. This figure was the basis for the Minister's assumption in Paragraph 9(g) of the Reply to the Notice of Appeal that:
+(g) in the 1998, 1999 and 2000 taxation years, the Appellant used the Cherokee automobiles primarily in the performance of his duties in his office or employment with the Company; however, the kilometers the Appellant drove these automobiles were not all or substantially all in connection with or in the course of his office or employment with the Company;
+ISSUE
+[17] The issue is whether reasonable standby charges and operating cost benefits with respect to the automobiles made available to the Appellant were properly included by the Minister in the Appellant's income for the years in question.
+STATUTORY PROVISIONS
+[18] The relevant statutory provisions of the Income Tax Act are set out in part below:
+6(1)(a)
+...
+(iii) that was a benefit in respect of the use of an automobile,
+...
+(e) Standby charge for automobile - where the taxpayer's employer or a person related to the employer made an automobile available to the taxpayer, or to a person related to the taxpayer, in the year, the amount, if any, by which
+...
+(k) Automobile operating expense benefit - where
+(i) an amount is determined under subparagraph (e)(i) in respect of an automobile in computing the taxpayer's income for the year,
+(ii) amounts related to the operation (otherwise than in connection with or in the course of the taxpayer's office or employment) of the automobile for the period or periods in the year during which the automobile was made available to the taxpayer or a person related to the taxpayer are paid or payable by the taxpayer's employer or a person related to the taxpayer's employer (each of whom is in this paragraph referred to as the "payor"), and
+(iii) the total of the amounts so paid or payable not paid in the year or within 45 days after the end of the year to the payor by the taxpayer by the person related to the taxpayer,
+the amount in respect of the operation of the automobile determined by the formula
+A-B
+where
+A is
+(iv) where the automobile is used primarily in the performance of the duties of the taxpayer's office or employment during the period or periods referred to in subparagraph (ii) and the taxpayer notifies the employer in writing before the end of the year of the taxpayer's intention to have this subparagraph apply, 1/2 of the amount determined under subparagraph (e)(i) in respect of the automobile in computing the taxpayer's income for the year, and
+(v) in any other case, the amount equal to the product obtained when the amount prescribed for the year is multiplied by the total number of kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the period or periods referred to in subparagraph (ii), and
+B is the total of all amounts in respect of the operation of the automobile in the year paid in the year or within 45 days after the end of the year to the payor by the taxpayer or by the person related to the taxpayer; and
+...
+6(2)
+(2) Reasonable standby charge. For the purposes of paragraph (l)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the "total available days") in a taxation year during which the automobile is made available to a taxpayer or to a person related to the taxpayer by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the "employer") shall be deemed to be the amount determined by the formula
+A x [2% x (C x D)+ 2 x (E - F)]
+B 3
+where
+A is the lesser of
+(a) the total number of kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the total available days, and
+(b) the value determined for B for the year under this subsection in respect of the standby charge for the automobile during the total available days,
+except that the amount determined under paragraph (a) shall be deemed to be equal to the amount determined under paragraph (b) unless
+(c) the taxpayer is required by the employer to use the automobile in connection with or in the course of the office or employment, and
+(d) all or substantially all of the distance travelled by the automobile in the total available days is in connection with or in the course of the office or employment;
+B is the product obtained when 1,000 is multiplied by the quotient obtained by dividing the total available days by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+C is the cost of the automobile to the employer where the employer owns the vehicle at any time in the year;
+D is the number obtained by dividing such of the total available days as are days when the employer owns the automobile by 30 and, if the quotient so obtained is not a whole number and exceeds one, by rounding it to the nearest whole number or, where that quotient is equidistant from two consecutive whole numbers, by rounding it to the lower of those two numbers;
+E is the total of all amounts that may reasonably be regarded as having been payable by the employer to a lessor for the purpose of leasing the automobile during such of the total available days as are days when the automobile is leased to the employer; and
+F is the part of the amount determined for E that may reasonably be regarded as having been payable to the lessor in respect of all or part of the cost to the lessor of insuring against
+(a) loss of, or damage to, the automobile, or
+(b) liability resulting from the use or operation of the automobile.
+ANALYSIS
+[19] Referring to IT-63R5 as a good starting point for the analysis of the case at hand, Counsel then directed the Court's attention to the Department's position that "all or substantially all" in the test set out in s. 6(2) of the Income Tax Act means "90% or more of the distance travelled by the automobile made available to the taxpayer by his employer was in connection with, or in the course of, ... employment".
+[20] While I agree with counsel that this is a good starting point, it is not, however, the end of the story. What appears in IT-63R5 is the so-called departmental "rule of thumb" for the determination of what is "all or substantially all" within the meaning of this provision. The 90% value does not appear in the legislation itself. Further, the case law is very clear that what constitutes "all or substantially all" is a question of fact depending on the circumstances of each case.
+[21] In presenting his argument, the Appellant relied on D. McDonald v. The Queen, [1998] T.C.J. No. 621 in support of his position that his employment purpose use of 81% comes within the meaning of "all or substantially all". Counsel for the Respondent attempted to distinguish D. McDonald on the grounds that in that case, Rip, J. had found that the Appellant's non-employment purpose use was less than 10% and accordingly the meaning of "all or substantially all" did not need to be determined. The learned judge, however, did turn his mind to just such an analysis at paragraphs [18] to [22]:
+¶ 18 The word "substantially" is not defined in dictionaries as a fixed portion of a whole. The so-called "90% rule" is a rule of thumb that is no doubt convenient to assessors and tax advisors in determining a reasonable standby charge.
+¶ 19 The Oxford English Dictionary defines "substantially" to mean, among other things,
+b. essentially, intrinsically
+c. actually, really
+¶ 20 The same dictionary defines the word "substantial" to include "of ample or considerable amount, quantity or dimensions".
+¶ 21 In the French version of subsection 6(2), the words "all or substantially all" are "la totalité, ou presque". The word "presque" is defined by Le Petit Robert as "à peu près". The Collins-Robert French-English, English-French Dictionary does not include the words "substantial" or "substantially" in the English meaning of the word "presque". The words included are: "almost" and "nearly". The word "substantially" is translated in Collins-Robert as "considérablement" in the context of "considerably" and "en grande partie" when the word "substantially" means "to a large extent".
+¶ 22 These dictionary definitions confirm that the word "substantially", as Bowman, J.T.C.C. remarked in Ruhl v. Canada [See Note 6 below], is elastic and an unsatisfactory medium for conveying the concept of an ascertainable proportion of the whole. The words "substantially all" in the context of paragraph 6(2)(d) need not be interpreted as 90% or more but may be a lesser proportion of the whole depending on the facts. In the case at bar, at least 85% of the distance travelled was in connection with Mr. McDonald's employment and in my view that is substantially all of the distance travelled by the automobile in the total days it was available to Mr. McDonald.
+[22] The Appellant further cited McKay v. Canada, [2000] T.C.J. No. 712, a case in which a business use of 80% was found to be "all or substantially all" within the meaning of the Act:
+17 The Minister considers that for a taxpayer's use of a passenger vehicle to be "all or substantially all" for the transportation of goods in a commercial activity, its use must be at least 90 per cent or more in the commercial activity. Similarly, the Minister considers a passenger vehicle is used exclusively in commercial activities if it is used 90 per cent in those activities. [See for example, Revenue Canada, GST Memorandum 400-3-4, "Passenger Vehicles and Aircrafts" (September 12, 1992), at paragraph 34] The Courts have reduced the threshold to less than 90 per cent, depending on the circumstances of the particular case. [See Ruhl v. Canada [1998] G.S.T.C. 4; McDonald v. The Queen [1998] 4 C.T.C. 2569 and Wood v. M.N.R., 87 D.T.C. 312, all decisions of the Tax Court of Canada]. And since the appellant did not claim capital cost allowance on the Silverado for income tax purposes in 1997, the respondent claims Mr. McKay is precluded from claiming an ITC pursuant to subsection 202(4) of the Act.
+[23] Counsel for the Respondent argued that McKay was distinguishable from the present case in that, as a GST case, it was not directly applicable. In my view, that in itself does not diminish the Court's endorsement of Ruhl and Wood as cited above.
+[24] Counsel for the Respondent cited a more recent decision of the Tax Court of Canada, Guignard v. Canada, [2002] T.C.J. No. 506. While noting that the Court described the 90% rule as "arbitrary", counsel argued this decision was supportive of the Minister's position in that, at paragraphs [18] and [19], the learned judge specifically considered D. McDonald, distinguishing it from the facts in Guignard. In doing so, however, Hershfield, J. expressly stated in paragraph [20] that: "I do not take issue with the analysis in McDonald that considers the phrase "substantially all" and allows that it might mean something less than 90%".
+[25] Finally, counsel for the Respondent referred to the a recent decision of the Tax Court of Canada Ilott v. R., [2002] T.C.J. No. 675as an instance of the Court's finding that "all or substantially all" amounted to 90% or more employment purpose use. While that was certainly the outcome, in reaching this conclusion, Margeson, J. accepted the statement in Wood that the term "all or substantially all" does not lend itself "to a simple mathematical formula":
+88 The Court is satisfied that even though the departmental assessing policy may be the "90 per cent rule" the cases make it clear that something less than that might be sufficient ot meet the Appellants' needs here. Further, the Court is satisfied that no specific quantitative figure can be used in the determination. The Court must look at the use of the trucks in the context of the facts of each individual case and the Court accepts the statements of Taylor J. in Wood, supra, that clearly the term "all or substantially all" does not lend itself to a simple mathematical formula. Further, it would seem to the Court that any particular definition of "substantially" would be only valid with reference to the specific context in which it is found.
+[26] The Respondent's position is premised on a "simple mathematical formula". In denying that "all or substantially all" of the kilometres travelled in the Jeep Cherokee were for employment purpose use, the Respondent is relying on a bare percentage derived from the agreed-upon numbers flowing from the GST audit. While such a calculation may be a good starting point, it is but one aspect of the entire circumstances surrounding the use of the vehicle from which this legal determination may be made.
+[27] In Ilott, the learned judge stated that the Appellant has the onus of presenting evidence that "[74]...on a balance of probabilities", the use of the vehicle in question was "all or substantially all" for the purpose of earning income.
+[28] I am satisfied that the Appellant in this case has met this onus. As stated above, both the Appellant and his accountant were credible and knowledgeable in their respective fields.
+[29] Their evidence established that the Appellant is a single owner-operator carrying on business in a 100-kilometre radius of his business premises. The nature of the business obliges him to be on site as required. The success of his enterprise depends on his being able to get to client premises both to secure contracts and to fulfil them. Accordingly, I am satisfied that "all or substantially all" of the kilometres travelled in the Jeep Cherokee were for the purpose of earning income.
+[30] Accordingly, the appeals for 1998, 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 13th day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2003TCC791
+COURT FILE NO.:
+2003-772(IT)I
+STYLE OF CAUSE:
+Terry Keefe and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 2, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+November 13, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+P. Michael Appavoo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

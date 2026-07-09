@@ -1,0 +1,165 @@
+---
+title: "Stettner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27450/index.do"
+last_modified: "2006-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 224"
+citation2: ""
+neutral_citation: "2006 TCC 224"
+decision_date: "2006-04-10"
+language: "en"
+item_id: "27450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 206
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:10:42.943000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c94e9ff672c6ee203d80516e355e23f45bdd854ec9a1483102d51dbdc5af0544"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stettner v. The Queen
+
+- Citation: 2006 TCC 224
+- Decision date: 2006-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 206, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stettner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-10
+Neutral citation
+2006 TCC 224
+File numbers
+2005-2436(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2436(IT)I
+BETWEEN:
+BRADLEY J. STETTNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 4, 2006, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharlene Telles-Langdon
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of April 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC224
+Date: 20060410
+Docket: 2005-2436(IT)I
+BETWEEN:
+BRADLEY J. STETTNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan, on April 4, 2006. The Appellant testified. The Respondent called the Appeals Officer on the file, Ronald Swahn.
+[2] The matters in appeal are set out in paragraphs 5 to 15 inclusive of the Reply to the Notice of Appeal. They read:
+5. In his 1999 and 2000 tax returns, the Appellant reported total income of $3,412 and $8,226 respectively.
+6. The Appellant was initially assessed as filed for the 1999 and 2000 taxation years. The Notices of Assessment were dated May 23, 2000 and June 18, 2001 respectively.
+7. The Appellant was reassessed for the 1999 and 2000 taxation years. The Notices of Reassessment were dated October 21, 2003.
+8. In reassessing the Appellant for the 1999 and 2000 Taxation Years, the Minister of National Revenue ("Minister") calculated the Appellants income by using a net worth method to increase total income by the amount of $21,604 and $46,089 respectively pursuant to subsection 152(7) of the Income Tax Act (the "Act"). The Minister also assessed penalties pursuant to subsection 163(2) of the Act in respect of the amounts added to the Appellants income for the 1999 and 2000 Taxation Years.
+9. The Appellant objected to the reassessments by notice received December 4, 2003.
+10. By notices dated April 20, 2005, The Minister confirmed the reassessments in respect of the Appellants 1999 Taxation Year and reassessed the Appellants 2000 Taxation Year to reduce the amount of the net worth discrepancy by the amount of $20,826 and adjusted the amount subject to penalties pursuant to subsection 163(2) of the Act accordingly.
+11. In so reassessing the Appellant for the 1999 and 2000 Taxation Years and in confirming the reassessment for the 1999 Taxation Year, the Minister assumed the following facts:
+(a) During the 1999 and 2000 Taxation Years the Appellant owned and operated Stettner's Tavern (the "Business")
+(b) In the 1999 and 2000 Taxation Years the Appellants only source of income was from the Business and interest income;
+(c) The Appellants standard of living and accumulation of assets were inconsistent with the income reported by the Appellant;
+(d) The Appellant did not maintain adequate records in respect of the Business;
+(e) As a result of the facts assumed in paragraphs (a) to (d) above the Minister prepared a net worth analysis;
+(f) The net worth of the Appellant (including the amounts expended by him for personal and living expenses) increased beyond the means of his reported income for the relevant periods (the "Net Worth Discrepancy") as detailed in the attached net worth statement;
+(g) The Appellants net worth discrepancy was a result of income received or earned by him during the years in issue;
+(h) The Appellant had a net worth of $139,880, $154,974 and $179,536 at the end of the 1998, 1999 and 2000 Taxation Years respectively;
+(i) The Appellant incurred personal expenditures of $12,046.53 and $11,370.06 in the 1999 and 2000 Taxation Years respectively;
+(j) The Appellant did not received any amounts as inheritance, gifts or loans from family or friends during the years in issue;
+(k) The Appellant received net business income of no less than $21,604 and $25,263 in the 1999 and 2000 Taxation Years respectively which he failed to report in his tax returns (the "Unreported Income").
+12. In reassessing the Appellant on October 21, 2003 the Minister assumed the same facts as stated in subparagraphs 11(a), (b), (c), (d), (e), (f), (g), (i) and (j).
+13. In preparing the revised net worth in response to the Appellants Notice of Objection, the Minister determined that the Unreported Income per the net worth for the 1999 Taxation Year was $25,865 instead of $21,604 as assessed. The Minister did not make an adjustment to include the additional amount of $4,261 in the Appellants income or to assess penalties pursuant to subsection 163(2) of the Act.
+14. In imposing penalties pursuant to subsection 163(2) of the Act for the 1999 and 2000 Taxation Years, the Minister relied on the following additional facts:
+(a) The Appellant knowingly, or in the alternative, under circumstances amounting to gross negligence, made, participated in, assented to, or acquiesced in the making of false statements or omissions in his 1999 and 2000 tax returns when he failed to report the Unreported Income;
+(b) As a result of the false statements or omissions, the Appellant understated his tax payable for the 1999 and 2000 Taxation Years by the amounts of $2,846.70 and $4,460.98 respectively.
+B. ISSUES TO BE DECIDED
+15. The issue are:
+(a) Whether or not the Appellant understated his income by $21,604 and $25,263 for the 1999 and 2000 Taxation Years respectively;
+(b) Whether or not the Minister properly assessed penalties pursuant to subsection 163(2) of the Act.
+[3] None of the assumptions in paragraph 11 were refuted by the evidence.
+[4] In particular, the Appellant's main subject of dispute turned on the fact that the auditor estimated a figure of cash (including a float of $1,000 each in three V.L.T.s) and inventory on hand at January 1, 1999 of $12,042 when he opened up his net worth assessment of the Appellant for 1999 and 2000. The auditor did this because the Appellant did not give the auditor any opening figures for January 1, 1999. However the Appellant gave the Appeals Officer his business bank account statement for December 31 - January 1999 and the Appeals Officer used that statement and the Appellant's personal statement to arrive at a verified opening cash figure and then added an opening inventory estimate of $6,000 because the Appellant did not provide his purchase receipts for his bar business.
+[5] On this basis, and because there was no evidence to refute the inventory estimate, the assessment finalized by the Appeals Officer is accepted as correct and the assessments of income for 1999 and 2000 are confirmed.
+[6] The Appellant did have bank statements. But he stated that he had no receipts respecting purchases of inventory because they had all been taken in the course of seven or eight burglaries of his bar in about ten years of operation. The Court believes that these burglaries occurred. But as a burglar would have no use for receipts for purchases and it is not credible that all such receipts would be taken and not recovered in these burglaries. Moreover, with the receipts for purchases it would be relatively easy to calculate sales from the bar, even allowing for spillage, spoilage and petty stealing.
+[7] The Appellant also disputed the penalties levied. Respecting these, it should be noted that;
+1. The Appellant prepared and filed his own income tax returns.
+2. His income reported from the bar, versus the amount assessed by the Appeals Officer in the net worth for each year is:
+Reported
+Assessed
+1999
+$3,412
+$21,604
+(a multiple of 6)
+2000
+$8,226
+$25,263
+(a multiple of 3)
+3. As the Appeals Officer testified, the Appellant had only to compare his bank statements with his alleged reported income to see that his personal net income from the bar business was more than he was reporting. The Appellant provided Canada Revenue Agency and the Court with his estimate of his non-rent personal living expenses for a period that included 1990 to 2001. They were, consecutively, $1,400, $1,200, $2,400, $1,700, $100, $600, $1,200, $100, $1,200, $4,000, $2,400 and $2,400. Those figures are unrealistic in Canada during those years. He did not explain them and it can only be concluded that he was eating at the bar and treating all of his travel as business related. Even then, the numbers border on the incredible, especially for a young man such as the Appellant, who was born in 1969.
+4. Finally, the alleged lack of any business purchase receipts at all is not credible, as already described.
+[8] In the Court's view, the Appellant intentionally and personally reported his income for 1999 and 2000 falsely. The incomes reported are six and three times less than the amounts found by the assessments for 1999 and 2000. For these reasons, the appeals of the penalties are dismissed.
+[9] The appeals are dismissed in their entirety.
+Signed at Ottawa, Canada, this 10th day of April 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC224
+COURT FILE NO.: 2005-2436(IT)I
+STYLE OF CAUSE: Bradley J. Stettner v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: April 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: April 10, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharlene Telles-Langdon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,204 @@
+---
+title: "Vaillancourt v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108684/index.do"
+last_modified: "2015-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 67"
+citation2: ""
+neutral_citation: "2015 TCC 67"
+decision_date: "2015-03-18"
+language: "en"
+item_id: "108684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2842
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:27:55.004000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d6b732a2d4e177a0f3683907544a9bfeacb511efb1bdba9eff94842dcca721b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vaillancourt v. M.N.R.
+
+- Citation: 2015 TCC 67
+- Decision date: 2015-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2842, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vaillancourt v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-03-18
+Neutral citation
+2015 TCC 67
+File numbers
+2008-1525(EI), 2008-1526(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1525(EI)
+BETWEEN:
+DAVE VAILLANCOURT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of 9158-3658 Québec inc. (2008-1526(EI)), on January 15, 2015, at Montréal, Quebec.
+Before: The Honourable Paul Bédard, Deputy Judge
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Mounes Ayadi
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue dated February 18, 2008, is confirmed.
+Signed at Ottawa, Canada, this 18th day of March 2015.
+“Paul Bédard”
+Bédard, D.J.
+Translation certified true
+On this 19th day of May 2015
+Margarita Gorbounova, Translator
+Docket: 2008-1526(EI)
+BETWEEN:
+9158-3658 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Dave Vaillancourt (2008-1525(EI)), on January 15, 2015, at Montréal, Quebec.
+Before: The Honourable Paul Bédard, Deputy Judge
+Appearances:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Mounes Ayadi
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue dated February 18, 2008, is confirmed.
+Signed at Ottawa, Canada, this 18th day of March 2015.
+“Paul Bédard”
+Bédard, D.J.
+Translation certified true
+On this 19th day of May 2015
+Margarita Gorbounova, Translator
+Citation: 2015 TCC 67
+Date: 20150318
+Dockets: 2008-1525(EI)
+2008-1526(EI)
+BETWEEN:
+DAVE VAILLANCOURT,
+9158-3658 QUÉBEC INC.,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard, D.J.
+[1] These are appeals heard on common evidence.
+[2] On December 31, 2007, 9158-3658 Québec inc. (the appellant company or the payer) asked the respondent to decide whether Dave and Roger Vaillancourt (the workers) had held insurable employment from December 26, 2005, to June 2, 2006, and also, in the case of Roger Vaillancourt, from July 2, 2006 to April 14, 2007, while they were employed by it. In letters dated February 18, 2008, the Minister of National Revenue (the Minister) informed the appellant company and the workers of his decisions that the appellants did not hold insurable employment. The appellant company is appealing from a decision regarding Roger Vaillancourt and Dave Vaillancourt, and Dave Vaillancourt is appealing from the decision regarding him.
+[3] In making his decisions, the Minister determined that the workers did not hold employment under a contract of service relying on the following assumptions of fact:
+[Translation]
+(a) The payer was incorporated on July 5, 2005;
+(b) At the time of incorporation, the payer’s shareholders were
+- Fernand Lebeau, majority shareholder, and
+- Isabelle Gervais, 2nd shareholder;
+(c) On May 1, 2006, Fernand Lebeau handed in his resignation as director, president and secretary of the payer;
+(d) On May 1, 2006, Isabelle Gervais became the sole shareholder of the payer;
+(e) Based on the registraire des entreprises, the payer’s business was in the sale and transformation of raw lumber;
+(f) According to the version given to the decision-making officer, the payer purchased lumber from the United States and resold it;
+(g) According to the version of the appellant and Isabelle Gervais, the payer specialized in purchasing, selling and installing hardwood flooring;
+(h) The payer did not manufacture or transform lumber;
+(i) The payer’s place of business was an office at 686 Gagné Road in Saint-Justin;
+(j) All of the payer’s documents were, however, at Isabelle Gervais’s residence in Trois-Rivières;
+(k) In his claim for benefits dated June 16, 2006, the appellant mentioned that he was not related to the payer’s shareholders, while Isabelle Gervais has been his common‑law spouse for several years;
+(l) Since January 10, 2001, the appellant had operated Les Équipements L.V. inc., with his father Roger as an equal shareholder;
+(m) Les Équipements L.V. inc. manufactured wood panels for furniture manufacturing industries under the name Boiserie Vaillancourt;
+(n) Les Équipements L.V. inc. declared bankruptcy on April 18, 2006;
+(o) During the periods at issue, the appellant claims that he sold wood for the payer;
+(p) The appellant claims that he received his instructions from the payer’s clients by telephone or by internet;
+(q) The appellant had no work schedule to follow; he did not remember his hours of work;
+(r) The payer had no telephone number at its place of business, but the appellant had a cell phone at which he could be reached at all times.
+(s) The appellant could give prices by telephone to clients or he could go to the client to make a bid.
+(t) The appellant did not have to be directed in his work because he had experience;
+(u) The appellant could not specify the salary that he earned from working for the payer;
+(v) A document from the payer (calendar for 2006) indicates that the appellant allegedly received a net salary of $565.69 from the payer from January 2006 to June 2, 2006;
+(w) Documents confirm that the appellant worked full time, 40 hours per week, for Les Équipements L.V. inc. between October 2005 and the end of March 2006 (that is, within the periods at issue);
+(x) A document from Les Équipements L.V. inc. shows that the appellant received a gross salary of $1,000 per week for 40 hours of work from October 2005 to April 1, 2006;
+(y) No documents were submitted by the payer or the appellant that could confirm the appellant’s presence at work;
+(z) Neither the appellant nor the payer could produce the paycheques allegedly given to the appellant;
+(aa) On June 14, 2006, Fernand Lebeau signed the Record of Employment issued by the payer for the appellant, for the period from December 26, 2005 to June 2, 2006, while he had resigned as director, president and secretary of the payer and he was no longer a shareholder of the payer since May 1, 2006;
+(bb) The Record of Employment issued by the payer for the appellant does not reflect reality with regard to the period of work, to the hours actually worked and to the remuneration allegedly paid to the appellant;
+(cc) On October 19, 2007, the Nouvelliste newspaper published an article uncovering the payer’s real activities taking place inside the office located at 686 Gagné Road in Saint-Justin;
+(dd) The payer’s activities in that office were illegal, and when the police searched the premises, the appellant was inside;
+(ee) The relationship between the appellant and the payer was not an employee‑employer relationship;
+(ff) There was an arrangement between the parties whose only purpose was to enable the appellant to become eligible for employment insurance benefits.
+[4] Only Roger Vaillancourt testified in support of the appellants’ argument.
+[5] It should be stated right away that Roger Vaillancourt discontinued his appeal before the evidence was closed after admitting that he had not held insurable employment within the meaning of the Employment Insurance Act (the Act). It should also be mentioned that the appellant company discontinued its appeal in respect of Roger Vaillancourt at the same time. Roger Vaillancourt testified that he was the actual shareholder, officer and director of the appellant company during all of the periods at issue. Roger Vaillancourt also explained that Fernand Lebeau and Isabelle Gervais were only nominees, which enabled him to conceal from third parties that he was the real owner of the appellant company’s shares. In sum, the evidence showed that this entire pretence had been created by Roger Vaillancourt in order to avoid, among other things, recovery actions by the bankers of Les Équipements L.V. inc. (L.V.), whose loans he had guaranteed.
+[6] Assessing Roger Vaillancourt’s credibility played a major role in my decision since he was the only witness in support of the appellants’ argument and given the almost non-existent documentary and objective evidence with respect to Dave Vaillancourt’s real prestation of work. I must say that I attributed little probative value to Roger Vaillancourt’s testimony for the following reasons:
+(i) How do I believe a person who admitted that he had created with others a pretence in order to avoid, among other things, recovery actions by the bankers of L.V. whose loans he had guaranteed?
+(ii) The fact that Roger Vaillancourt and his son Dave were convicted by the Court of Québec of having committed criminal acts (see Exhibit I‑6) on the company appellant’s premises only confirmed my doubts regarding Roger Vaillancourt’s probity and credibility.
+[7] Roger Vaillancourt’s testimony regarding his son Dave’s prestation of work was at the very least evasive, imprecise, ambiguous, equivocal and laboured. His testimony told us nothing about the exact nature of his son Dave’s supposed prestation of work. It was certainly not with that kind of testimony that Roger Vaillancourt could hope to satisfy me that his son Dave had really worked 40 hours per week from October 2005 to April 1, 2006. I would add that his testimony seems even more implausible to me since the evidence showed that Dave Vaillancourt also worked full time for L.V. during the period at issue. I note that the courts are not bound to believe witnesses, even in the absence of evidence to the contrary. Indeed, their testimony may be implausible as a result of exposed circumstances or based on common sense.
+[8] In this case, Dave Vaillancourt could have testified in support of his argument. Other witnesses, for example, employees, suppliers or clients of the appellant company, could have corroborated Roger Vaillancourt’s testimony regarding his son Dave’s prestation of work. This was not done. I conclude that that evidence would not have been favourable to Dave Vaillancourt.
+[9] My review of the evidence leads me to find that it is more likely than not that Dave Vaillancourt did not provide the prestation of work he alleges, and thus that the parties had organized a scheme with the sole purpose of enabling Dave Vaillancourt to become eligible for employment insurance benefits.
+[10] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of March 2015.
+“Paul Bédard”
+Bédard, D.J.
+Translation certified true
+On this 19th day of May 2015
+Margarita Gorbounova, Translator
+CITATION:
+2015 TCC 67
+COURT FILE NOs.:
+2008-1525(EI), 2008-1526(EI)
+STYLES OF CAUSE:
+DAVE VAILLANCOURT AND 9158-3658 QUÉBEC INC. v. M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 15, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Paul Bédard, Deputy Judge
+DATE OF JUDGMENT:
+March 18, 2015
+APPEARANCES:
+Counsel for the appellant:
+Gilbert Nadon
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Gilbert Nadon
+Firm:
+Ouellet, Nadon & Associés
+Montréal, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

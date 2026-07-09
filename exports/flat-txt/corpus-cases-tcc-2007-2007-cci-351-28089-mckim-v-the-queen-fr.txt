@@ -1,0 +1,131 @@
+Title: McKim v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28089/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-351-28089-mckim-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-06-18
+
+# McKim v. The Queen
+
+- Citation: 2007 CCI 351
+- Decision date: 2007-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1674, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKim v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-18
+Référence neutre
+2007 CCI 351
+Numéro de dossier
+2006-2538(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006‑2538(IT)I
+ENTRE :
+EDNA M. MCKIM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 11 juin 2007 à Kingston (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Richard Gobeil
+____________________________________________________________________
+ORDONNANCE
+La requête présentée par l’intimée est accueillie et l’appel interjeté par l’appelante est rejeté.
+L’appelante aura droit à la somme de 100 $ au titre des dépens au cas où le droit de dépôt de 100 $ ne lui serait pas remboursé.
+Signé à Ottawa (Ontario), ce 14e jour de juin 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+Ce 9e jour d’octobre 2007.
+Suzanne Bolduc, LL.B.
+Référence : 2007CCI351
+Date : 20070618
+Dossier : 2006‑2538(IT)I
+ENTRE :
+EDNA M. MCKIM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] L’appelante a interjeté appel devant la Cour canadienne de l’impôt. Cet appel porte uniquement sur la question de savoir si l’appelante devrait être imposée en tant résidente de la province de Terre‑Neuve‑et‑Labrador ou comme résidente de l’Ontario. L’intimée a présenté une requête sollicitant le rejet de l’appel au motif que cette question ne relève pas de la compétence de la Cour canadienne de l’impôt.
+[2] Dans l’arrêt Gardner c. La Reine, 2001 CAF 401, la Cour d’appel fédérale a jugé que la Cour canadienne de l’impôt n’avait pas compétence pour décider si une personne était effectivement résidente de l’Ontario. La Cour d’appel fédérale s’est fondée pour cela sur les dispositions suivantes de la Loi de l’impôt sur le revenu de l’Ontario (citées dans cette décision) :
+4. (1) Les définitions qui suivent s’appliquent au présent article.
+« revenu gagné en Ontario dans l’année d’imposition » Revenu qui serait déterminé avoir été gagné en Ontario dans l’année aux fins du calcul du revenu gagné au cours de l’année dans une province aux termes de l’article 120 de la loi fédérale; [...]
+« impôt payable aux termes de la loi fédérale » Montant qui, si ce n’était de l’article 120 de la loi fédérale, serait l’impôt payable par un particulier en vertu de la partie I de cette loi pour l’année d’imposition à l’égard de laquelle l’expression s’applique, calculé comme si le particulier n’avait droit à aucune déduction aux termes de l’article 126, 127, 127.2 ou 127.4 de cette loi.
+[...]
+23. (1) Le contribuable qui a signifié un avis d’opposition à une cotisation aux termes du paragraphe 165 (1) de la loi fédérale, tel qu’il s’applique aux fins de la présente loi, peut interjeter appel devant la Cour de l’Ontario (Division générale) pour faire annuler ou modifier la cotisation :
+a) soit après que le ministre provincial a ratifié la cotisation ou établi une nouvelle cotisation;
+b) soit après que quatre-vingt-dix jours se sont écoulés depuis la signification de l’avis d’opposition sans que le ministre provincial ait avisé le contribuable qu’il a annulé ou ratifié la cotisation ou établi une nouvelle cotisation.
+Toutefois, l’appel prévu au présent article ne peut être interjeté plus de quatre‑vingt‑dix jours après la date à laquelle l’avis a été envoyé par la poste au contribuable, conformément au paragraphe 165(3) de la loi fédérale, tel qu’il s’applique aux fins de la présente loi, pour l’informer que le ministre provincial a ratifié la cotisation ou établi une nouvelle cotisation.
+(2) Le contribuable peut interjeter appel d’une cotisation prévue par la présente loi à l’égard de toute question concernant :
+a) sa résidence pour l’application de la présente loi;
+b) son revenu gagné en Ontario dans l’année d’imposition, au sens de la définition de cette expression figurant à l’article 4;
+c) le montant de l’impôt payable pour une année d’imposition établi d’après l’impôt payable aux termes de la loi fédérale pour cette année, au sens de la définition de cette expression figurant à l’article 4;
+[3] En l’espèce, il s’agit de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador. Voici ce que prévoit l’article 62 de cette loi :
+[traduction]
+(1) L’article 169 de la loi fédérale s’applique aux fins de la présente loi.
+(2) Un appel d’une cotisation, prévu par la présente loi, peut être interjeté pour qu’il soit statué sur toute question concernant,
+a) dans le cas d’un particulier,
+(i) sa résidence aux fins de la présente loi,
+(ii) son revenu gagné dans l’année d’imposition dans la province au sens de l’alinéa 5c),
+(iii) le montant de l’impôt payable pour une année d’imposition, établi d’après l’impôt payable pour cette année en application de la loi fédérale, au sens de l’alinéa 5g),
+(iv) le montant de son revenu modifié aux fins de l’article 34 de la présente loi tel que fixé conformément à la définition de « revenu modifié » se trouvant au paragraphe 112.5(1) de la loi fédérale;
+[...]
+mais aucun appel ne peut être interjeté relativement au calcul de l’impôt payable en vertu de la loi fédérale, au sens de l’alinéa 5g) ou relativement au revenu imposable d’une société.
+(3) Un appel est interjeté auprès de la Cour par signification au ministre d’un avis d’appel, en double exemplaire, dans la forme prescrite, et par la remise d’une copie de l’avis d’appel au registraire de la Cour.
+Selon le paragraphe 2(1) de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador, la « Cour » est la Division de première instance de la Cour suprême de cette province.
+[4] La Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador ne définit pas aussi clairement que la Loi de l’impôt sur le revenu de l’Ontario les droits du contribuable en matière d’appel, mais j’estime que, selon l’article 62 de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador, l’appel concernant la question de savoir si un individu est, aux fins de la Income Tax Act, 2000, résident de la province de Terre-Neuve-et-Labrador, ne peut être interjeté que devant les tribunaux de Terre‑Neuve‑et‑Labrador.
+[5] Le paragraphe 62(1) de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador prévoit que l’article 169 de la loi fédérale s’applique aux fins de la loi provinciale. Le paragraphe 169(1) de la Loi de l’impôt sur le revenu fédérale prévoit :
+Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation […]
+[6] Il n’est pas précisé que ce paragraphe s’applique sous réserve des paragraphes (2) et (3), ce qui semblerait indiquer qu’un appel peut être interjeté devant la Cour canadienne de l’impôt sur toute question découlant de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador. Mais, étant donné que, selon la définition contenue dans la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador, il faut entendre par « Cour » la Division de première instance de la Cour suprême de la province de Terre‑Neuve‑et‑Labrador, et que le paragraphe 62(3) prévoit spécifiquement un droit d’appel devant la Cour (c’est‑à‑dire devant la Division de première instance de la Cour suprême de Terre‑Neuve‑et‑Labrador), cela implique nécessairement que les appels concernant les questions prévues au paragraphe 62(2) de la loi provinciale devraient être interjetés devant la Division de première instance de la Cour suprême de la province de Terre‑Neuve‑et‑Labrador. Si tous les appels sur une question concernant les dispositions de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador pouvaient être interjetés devant la Cour canadienne de l’impôt, pourquoi les paragraphes 62(2) et (3) auraient‑ils été ajoutés au texte de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador?
+[7] Il me semble clair que, selon la loi provinciale, des appels peuvent effectivement être interjetés devant la Division de première instance de la Cour suprême de la province de Terre‑Neuve‑et‑Labrador. Si l’on concluait que, pour les questions pouvant faire l’objet d’un appel devant la Division de première instance de la Cour suprême de Terre‑Neuve‑et‑Labrador, un appel pourrait également être interjeté devant la Cour canadienne de l’impôt, on parviendrait à un curieux chevauchement de compétences entre les deux juridictions. J’estime que ce n’est pas ce que le législateur de la province de Terre‑Neuve‑et‑Labrador a voulu en adoptant l’article 62 de la Income Tax Act, 2000 et je considère, par conséquent, que les droits d’appel concernant les questions énoncées au paragraphe 62(2) de la Income Tax Act, 2000 de la province de Terre‑Neuve‑et‑Labrador ne peuvent être exercés que devant la Division de première instance de la Cour suprême de la province de Terre‑Neuve‑et‑Labrador.
+[8] La question de savoir si un individu donné réside effectivement dans la province de Terre‑Neuve‑et‑Labrador figure parmi les questions énumérées au paragraphe 62(2) et c’est pourquoi je suis d’avis que, sur cette question‑là, un appel ne peut être interjeté que devant la Division de première instance de la Cour suprême de la province de Terre‑Neuve‑et‑Labrador.
+[9] Par conséquent, la requête présentée par la Couronne est accueillie et l’appel interjeté par l’appelante est rejeté, la Cour n’ayant ni compétence pour décider si l’appelante est résidente de la province de Terre‑Neuve‑et‑Labrador ni compétence pour décider si elle est résidente de l’Ontario.
+[10] L’appelante ayant toutefois reçu dans cette affaire une lettre lui indiquant que si elle désirait interjeter appel, il convenait de le faire devant la Cour canadienne de l’impôt, elle devrait avoir droit au remboursement du droit de dépôt de 100 $ qu’elle a versé. Au cas où cette somme ne lui serait pas remboursée, elle aura droit à la somme de 100 $ au titre des dépens.
+Signé à Ottawa (Ontario), ce 14e jour de juin 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 9e jour d’octobre 2007.
+Suzanne Bolduc, LL.B.
+RÉFÉRENCE : 2007CCI351
+No DU DOSSIER DE LA COUR : 2006‑2538(IT)I
+INTITULÉ : EDNA M. MCKIM
+c.
+LA REINE
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 11 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 14 juin 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Richard Gobeil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

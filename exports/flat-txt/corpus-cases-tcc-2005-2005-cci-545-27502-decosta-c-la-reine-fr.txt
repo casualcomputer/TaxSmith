@@ -1,0 +1,125 @@
+Title: DeCosta c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27502/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-545-27502-decosta-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-08-18
+
+# DeCosta c. La Reine
+
+- Citation: 2005 CCI 545
+- Decision date: 2005-08-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 29, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeCosta c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-18
+Référence neutre
+2005 CCI 545
+Numéro de dossier
+2005-146(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-146(IT)I
+ENTRE :
+ADAM E. DeCOSTA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 août 2005, à Toronto (Ontario).
+Devant : L'honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Pour l'appelant : L'appelant lui-même
+Avocat de l'intimée : Me Jeremy Streeter
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli uniquement pour donner suite à l'aveu de l'intimée selon lequel la pénalité imposée en vertu du paragraphe 163(2) doit être réduite de façon qu'elle reflète la baisse du montant de revenu non déclaré, qui est passé à 54 628 $, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conséquence.
+Signé à Ottawa, Canada, ce 18e jour d'août 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme ce 14e jour de décembre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI545
+Date : 20050818
+Dossier : 2005-146(IT)I
+ENTRE :
+ADAM E. DeCOSTA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Le présent appel est interjeté à l'égard d'une pénalité établie en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001. Dans sa déclaration de revenus pour 2001, l'appelant a déclaré un revenu d'emploi de 30 406,17 $, mais il n'a pas déclaré le revenu de 59 327,00 $ qu'il a tiré d'une entreprise. Une pénalité fédérale de 7 063,61 $ a été imposée. À la suite d'une opposition, le revenu d'entreprise net non déclaré a été réduit et il est passé à 54 628,00 $. L'intimée convient qu'il faut admettre l'appel pour réduire la pénalité en conséquence.
+[2] L'appelant, en plus de travailler chez Indigo Manufacturing Inc., exploitait une entreprise individuelle sous le nom de Bemic Enterprises, dont les activités consistaient à acheter des pièces électroniques à Taiwan et à les vendre à Indigo. On peut se demander si Indigo savait qu'elle achetait du matériel de l'appelant et si elle approuvait ce qu'il faisait, mais cela n'est pas pertinent en ce qui concerne la question des pénalités. Il suffit de dire que le revenu brut de l'appelant provenant de la vente de matériel électronique était de 134 000 $, et que son revenu net était de 54 628 $.
+[3] L'appelant n'a pas contesté le montant de revenu qui n'avait pas été déclaré. Il conteste la pénalité en alléguant qu'il a informé son comptable, M. Neville Sandassie, de l'existence de l'entreprise qu'il exploitait au même moment où il l'a chargé d'établir sa déclaration de revenus et sa déclaration de TPS pour 2001. Il dit que M. Sandassie lui avait dit qu'une déclaration distincte serait produite pour l'entreprise et que le revenu d'entreprise serait déclaré dans cette déclaration. Bemic Enterprises Inc. a été constituée en société au mois d'août 2001, et par la suite, l'entreprise a été exploitée par l'intermédiaire de cette société. Il se peut que M. Sandassie pensait à la déclaration de revenus des sociétés.
+[4] M. Sandassie, que l'intimée a appelé comme témoin, a tout d'abord nié que M. DeCosta lui avait dit quoi que ce soit concernant l'entreprise. Lors du contre-interrogatoire mené d'une main experte par M. DeCosta, M. Sandassie a avoué avoir établi et produit la déclaration de TPS de M. DeCosta pour l'entreprise jusqu'au 26 août 2001, à peu près au même moment où il a établi la déclaration de revenus des particuliers de l'appelant.
+[5] De toute évidence, il était au courant de l'existence de l'entreprise au moment où il a établi la déclaration de revenus pour 2001. J'ai conclu que le témoignage de M. DeCosta était plus fiable que celui de M. Sandassie.
+[6] M. DeCosta a allégué qu'il devrait pouvoir avoir confiance en son comptable et que, après avoir informé son comptable de l'existence de l'entreprise, il ne devrait pas être pénalisé ou être tenu responsable du fait que le comptable a omis d'inclure le revenu de l'entreprise dans sa déclaration de revenus.
+[7] Il y a de nombreuses décisions qui traitent de la mesure dans laquelle les omissions d'un comptable dans une déclaration de revenus peuvent être attribuées à un contribuable. Dans la décision de principe Cyrus C. Udell v. M.N.R., 70 DTC 6019, le juge Cattanach de la Cour de l'Échiquier du Canada a conclu que le fait que le comptable a omis de reporter des ventes de bétail de 25 577,00 $ et des dépenses de 20 000,00 $ du livre comptable de la ferme du contribuable sur ses feuilles de travail, puis sur la déclaration constituait une faute lourde, mais que cette faute ne pouvait pas être attribuée au contribuable pour justifier une pénalité.
+[8] Dans les décisions Theophil DeCock v. M.N.R., 84 DTC 1523 et Foreman c. La Reine, [2000] A.C.I. no 803, le juge Rip a conclu que les contribuables ne pouvaient pas se dégager de la responsabilité en pointant du doigt leurs comptables. Il a confirmé les pénalités pour faute lourde.
+[9] Je n'ai aucune difficulté à concilier la décision du juge Cattanach avec celles du juge Rip. Elles découlent toutes d'une conclusion de fait tirée par la cour concernant le rôle joué par les contribuables. Les questions qui se posent dans chaque cas, si on fait abstraction de la question de la préméditation qui n'est pas pertinente en l'espèce, sont les suivantes :
+a) « le contribuable a-t-il commis une faute en faisant un faux énoncé ou une omission dans la déclaration de revenus? »
+b) « la faute était-elle assez grave pour justifier l'utilisation de l'épithète « lourde » qui est quelque peu péjoratif? »
+Selon moi, ces questions rejoignent le principe énoncé par le juge Strayer dans la décision Venne v. The Queen, 84 DTC 6247.
+[10] Dans la décision Farm Business Consultants Inc. v. The Queen, 95 DTC 200, confirmée par l'arrêt 96 DTC 6085 (C.A.F.), aux pages 205-206, j'ai traité des principes qui, selon moi, doivent être appliqués dans les cas où il y a imposition d'une pénalité :
+Le genre de conduite qu'envisage le paragraphe 163(2) peut chevaucher des éléments du sous-alinéa 152(4)a)(i), et je crois que c'est ce qui se passe en l'espèce. Je me suis grandement efforcé d'atténuer le plus possible la conduite de l'appelante, et de l'attribuer à la conviction naïve et insensée que les stratagèmes de la nature de celui qui est en cause en l'espèce fonctionnent réellement, plutôt qu'à une présentation volontairement erronée de la situation véritable. Il m'a été impossible de le faire. Soit que l'appelante savait ce qu'elle faisait, soit qu'elle faisait peu de cas de l'efficacité juridique de l'arrangement. Je suis conscient que le sous-alinéa 152(4)a)(i) a pour objet d'ouvrir les déclarations qui s'appliquent à des années frappées de prescription quand, pour toutes sortes de raisons, les éléments de revenu sont omis ou présentés de façon erronée, alors que le paragraphe 163(2) est une disposition pénale et que, si, au moment de l'appliquer, le type de conduite à laquelle est attribuable la présentation erronée des faits soulève un doute, il faudrait accorder le bénéfice du doute au contribuable. Dans l'affaire Udell v. M.N.R,70 DTC 6019, le juge Cattanach déclare ce qui suit, à la page 6025 du recueil :
+[TRADUCTION]
+Il ne fait aucun doute que le paragraphe 56(2) est une disposition de nature pénale. Lorsque l'on interprète une telle disposition, il convient de tenir compte des propos inattaquables de lord Esher dans l'affaire Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629 : lorsque le libellé d'une disposition de nature pénale est susceptible à la fois d'une interprétation qui mènerait à l'imposition de la pénalité prévue, et d'une autre qui n'y mènerait pas, c'est cette dernière qui prévaut. Voici ce qu'il a dit à la page 638 :
+Il faut interpréter cette disposition avec grand soin car elle mène à l'imposition d'une pénalité. S'il existe une interprétation raisonnable qui permettra d'éviter la pénalité dans une cause particulière, c'est celle-là qu'il faut retenir.
+Et, ajoute-t-il, à la page 6026 du recueil :
+Il est clair selon moi que lorsqu'il est question d'imposer un impôt ou un droit, et plus encore une pénalité, s'il existe un doute raisonnable, il faut interpréter la loi de manière à accorder le bénéfice du doute à la partie à qui l'on cherche à imputer le montant en question.
+Voir aussi Holley v. M.N.R.,89 DTC 366, à la p. 369; De Graaf v. The Queen, 85 DTC 5280.
+Une cour doit faire preuve d'une prudence extrême lorsqu'elle sanctionne l'imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l'établissement d'une nouvelle cotisation à l'égard d'une année frappée de prescription ne justifie pas d'office l'imposition d'une pénalité, et l'imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l'imposition d'une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d'une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans les situations où l'on cherche à établir le bien-fondé d'allégations moins sérieuses[1]. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d'un contribuable cadre avec deux hypothèses viables et raisonnables, l'une qui justifie la pénalité et l'autre pas, il convient d'accorder le bénéfice du doute au contribuable, et de supprimer la pénalité[2]. Je crois qu'en l'espèce, l'intimée a fait preuve du degré de probabilité requis, et qu'au vu de la preuve produite, aucune hypothèse incompatible avec celle que l'intimée a avancée ne peut être défendue.
+Si j'avais pu interpréter la loi, ou considérer la preuve, d'une manière qui m'aurait permis d'accorder à l'appelante le bénéfice du doute, je l'aurais fait. Mais cela m'est impossible. La description qu'a faite l'appelante de la relation juridique qui l'unit à Agricultural, à savoir qu'il s'agissait d'un arrangement de consultation, dépasse la simple négligence.
+[11] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde » , il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l'importance de l'omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l'erreur, ainsi que le niveau d'instruction du contribuable et son intelligence apparente. Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve.
+[12] Qu'en est-il ici? Un homme fort intelligent qui déclare un revenu d'emploi de 30 000 $ et qui omet de déclarer des ventes brutes d'environ 134 000 $ et des bénéfices nets de 54 000 $. Même si son comptable doit assumer une certaine part de responsabilité, je ne crois pas que l'on peut dire que l'appelant peut signer nonchalamment sa déclaration et passer outre à l'omission d'un montant qui représente presque le double du montant qu'il a déclaré. Une attitude aussi cavalière va au-delà du simple manque d'attention.
+[13] L'appel est admis uniquement pour donner suite à l'aveu de l'intimée selon lequel la pénalité imposée en vertu du paragraphe 163(2) doit être réduite de façon qu'elle reflète la baisse du montant de revenu non déclaré, qui est passé à 54 628 $, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conséquence.
+Signé à Ottawa, Canada, ce 18e jour d'août 2005.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme ce 14e jour de décembre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI545
+NO DU DOSSIER DE LA COUR :
+2005-146(IT)I
+INTITULÉ DE LA CAUSE :
+Adam E. DeCosta c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 11 août 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT :
+Le 18 août 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jeremy Streeter
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Continental Insurance Co. v. Dalton Cartage Co., [1982] 1 R.C.S. 164; 131 D.L.R. (3rd) 559; 25 C.P.C. 72, le juge en chef Laskin, p. 168-171; D.L.R. 562-564; C.P.C. 75-77; Bater v. Bater, [1950] 2 All E.R. 458, p. 459; Pallan et al. v. M.N.R., 90 DTC 1102, p. 1106; W. Tatarchuk Estate v. M.N.R., [1993] 1 C.T.C. 2440, p. 2443.
+[2] Il ne s'agit pas simplement d'une extrapolation de la règle énoncée dans l'affaire Hodge's Case (1838) 2 Lewin 227; 168 E.R. 1136, qui se rapporte à des questions de nature criminelle comme celle que vise, par exemple, l'article 239 de la Loi de l'impôt sur le revenu,qui requiert une preuve au-delà du doute raisonnable. Il s'agit simplement d'une application du principe selon lequel une pénalité ne peut être imposée que dans les cas où la preuve le justifie clairement. Si cette dernière est compatible avec, à la fois, l'état d'esprit qui justifie une pénalité en vertu du paragraphe 163(2) et l'absence de cet état d'esprit - j'hésite à employer les mots innocence ou culpabilité dans ces circonstances - cela voudrait dire que la Couronne ne s'est pas acquittée du fardeau qui pesait sur ses épaules.

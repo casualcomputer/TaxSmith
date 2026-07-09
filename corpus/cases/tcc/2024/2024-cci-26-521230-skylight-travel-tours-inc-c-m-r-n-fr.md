@@ -1,0 +1,471 @@
+---
+title: "Skylight Travel & Tours Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521230/index.do"
+last_modified: "2024-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 26"
+citation2: ""
+neutral_citation: "2024 CCI 26"
+decision_date: "2024-02-28"
+language: "fr"
+item_id: "521230"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5739
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:42:24.190000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3d9c63fa6a406d5dbcd821c038b8721a9307a4b14352338930df41b848262cb8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Skylight Travel & Tours Inc. c. M.R.N.
+
+- Citation: 2024 CCI 26
+- Decision date: 2024-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5739, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skylight Travel & Tours Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-02-28
+Référence neutre
+2024 CCI 26
+Numéro de dossier
+2019-441(CPP), 2019-443(EI), 2019-450(EI), 2019-451(CPP), 2019-454(EI), 2019-456(CPP)
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2019-454(EI)
+2019-456(CPP)
+ENTRE :
+SKYLIGHT TRAVEL & TOURS INC.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossiers : 2019-443(EI)
+2019-441(CPP)
+ENTRE :
+SURESH KUMAR ARAVINDAKSHAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossiers : 2019-450(EI)
+2019-451(CPP)
+ENTRE :
+TITUS GEORGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 20 octobre 2021 et les 26 et 27 avril 2022, à Ottawa, Canada
+Devant : l’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat des appelants :
+Rod Vanier
+Avocate de l’intimé :
+Dina Elleithy
+JUGEMENT
+Après avoir examiné les éléments de preuve et les observations présentées par les parties, et conformément aux motifs du jugement ci-joints, la Cour ordonne :
+Les appels sont accueillis.
+Les cotisations faisant l’objet des appels no 2019-443(EI) et no 2019-441(CPP) sont annulées.
+Les cotisations faisant l’objet des appels no 2019-450(EI) et no 2019-451(CPP) sont annulées.
+Les cotisations faisant l’objet de l’appel no 2019-454(EI) et de l’appel no 2019-456(CPP) sont renvoyées au ministre du Revenu national pour réexamen et pour nouvelle cotisation au motif que, pendant la période allant du 1er janvier 2015 au 31 octobre 2017 inclusivement :
+(a)ni Suresh Kumar Aravindakshan ni Titus George n’occupaient un emploi assurable ou ouvrant droit à pension auprès de Skylight Travel & Tours Inc. (« Skylight »);
+(b)Selvy Thomas occupait un emploi ouvrant droit à pension, mais non assurable, auprès de Skylight;
+(c)Sheela Thomas et Akhill Jolly occupaient un emploi à la fois assurable et ouvrant droit à pension auprès de Skylight.
+Aucuns dépens ne sont accordés.
+Signé à Ottawa, Canada, ce 28e jour de février 2024.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2024 CCI 26
+Date : 20240228
+Dossiers : 2019-454(EI)
+2019-456(CPP)
+ENTRE :
+SKYLIGHT TRAVEL & TOURS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossiers : 2019-443(EI)
+2019-441(CPP)
+ENTRE :
+SURESH KUMAR ARAVINDAKSHAN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossiers : 2019-450(EI)
+2019-451(CPP)
+ENTRE :
+TITUS GEORGE,
+appelant,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs se rapportent aux appels interjetés par Skylight Travel & Tours Inc. (« Skylight »), Suresh Kumar Aravindakshan (« Suresh ») et Titus George (« Titus ») relativement à des cotisations qui ont été établies à leur égard en vertu de la Loi sur l’assurance-emploi (la « LAE »)[1] et du Régime de pensions du Canada (le « RPC »)[2] par le ministre du Revenu national (le « ministre »), représenté par l’Agence du revenu du Canada (l’« ARC »). La question fondamentale concernant ces appels est de savoir si Suresh, Titus et d’autres travailleurs occupaient un emploi assurable et ouvrant droit à pension. En particulier, pour ce qui est de l’appel de Skylight, deux questions précises se posent : est-ce que Selvy Thomas (« Selvy ») exerçait un emploi ouvrant droit à pension, et est-ce que Sheela Thomas (« Sheela ») exerçait un emploi assurable et ouvrant droit à pension?
+[2] Comme on peut le constater, Selvy et Sheela portent le même nom de famille; elles n’ont toutefois aucun lien de parenté. Pour éviter toute confusion, je les désignerai donc par leurs prénoms. Par souci de cohérence, je désignerai également les deux appelants individuels et les autres travailleurs par leurs prénoms.
+[3] Le 9 juillet 2018, le ministre a émis des avis de cotisation pour la période allant du 1er janvier 2015 au 31 octobre 2017 (la « période visée ») en évaluation des cotisations faites au titre de la LAE et du RPC. Ces cotisations (les « cotisations ») ont été calculées suivant l’hypothèse que Sheela, Suresh, Titus et Akhill Jolly (« Akhill ») occupaient auprès de Skylight un emploi assurable, et que Selvy, Sheela, Suresh, Titus et Akhill occupaient auprès de Skylight un emploi ouvrant droit à pension. Après avoir examiné les objections faites relativement aux cotisations, le ministre a confirmé les cotisations le 7 novembre 2018.
+II. FAITS
+[4] Skylight a été constituée en société en 2004. Au départ, Selvy était l’unique actionnaire de Skylight. Par la suite, Sheela est devenu actionnaire en acquérant 50 % des actions émises de Skylight, alors que Selvy détenait les 50 % restants.
+A. Renseignements concernant Selvy
+[5] Au cours de la période visée, Selvy exerçait des fonctions de cadre et d’administratrice, et elle était actionnaire de Skylight. Elle a déclaré avoir « fondé Skylight Travel & Tours Inc. en 2004 »[3].
+[6] Au départ, Selvy était l’unique actionnaire de Skylight. Un peu après le 31 octobre 2017, la participation de Selvy dans Skylight a été réduite à 50 %[4].
+B. Renseignements concernant Sheela
+[7] À un certain moment, après le 31 octobre 2017, Selvy a obtenu que Sheela devienne actionnaire et détienne 50 % des actions de Skylight. Selvy a déclaré que Sheela était sa partenaire et qu’elle « travaillait à la vente de forfaits »[5].
+C. Renseignements concernant Akhill et Giya
+[8] Lors de son témoignage, Selvy a expliqué que, pendant la période visée, Skylight comptait quatre employés, à savoir elle-même, Sheela, Akhill et Giya Joy (« Giya »). Selon Selvy, Akhill et Giya ont été embauchés en tant qu’employés et étaient traités comme tels. Akhill et Giya recevaient tous deux un salaire, recevaient des feuillets T4 pour chaque année d’imposition, disposaient d’un poste de travail dans les locaux de Skylight, avaient des horaires de travail fixes et étaient supervisés en tant qu’employés. Selvy a déclaré que les conditions relatives à l’emploi d’Akhill et de Giya étaient fondamentalement différentes des conditions relatives aux ententes conclues entre Skylight et Suresh et Titus.
+[9] Bien que Skylight semble avoir traité Akhill comme un employé, le ministre a procédé à l’audit de Skylight en se basant sur le fait que celle-ci avait considéré Akhill comme un entrepreneur indépendant[6].
+D. Renseignements concernant Suresh
+[10] Lors de l’interrogatoire principal, Suresh a déclaré être arrivé au Canada depuis l’Inde en 2015. Toutefois, lors du contre-interrogatoire, il a dit être arrivé au Canada en 2010 et avoir travaillé pendant trois ans en tant que chef d’équipe dans un établissement de restauration rapide à Toronto, avant de s’inscrire à un cours sur le voyage et le tourisme au Everest College. Après avoir suivi ce cours, Suresh a appris que Skylight affichait un poste vacant et il a postulé. Lors de sa première entrevue, Selvy lui a demandé s’il souhaitait travailler en tant qu’entrepreneur ou en tant qu’employé. Il a choisi de travailler à titre d’entrepreneur, avec un salaire basé sur des commissions.
+[11] L’un des principaux aspects du travail de Suresh consistait à organiser des forfaits voyages. Mettant à profit l’expérience qu’il avait acquise en tant que directeur des opérations hôtelières en Inde et en tant qu’employé des services alimentaires en Arabie saoudite, Suresh a élaboré des forfaits voyages pour l’Asie du Sud. Il s’agissait de forfaits tout compris, c’est-à-dire qu’ils incluaient les vols, l’hébergement, les transports terrestres (ou les transferts) et les excursions. Suresh travaillait avec deux fournisseurs, qu’il a identifiés comme Tamarind Services International (lequel s’occupait des réservations auprès des différents hôtels et des compagnies de transport en Asie du Sud[7]) et Tours East (qui fournissait les billets d’avion). Quelques fois, Suresh s’occupait d’organiser le transport aérien de ses clients en utilisant SABRE[8].
+[12] Suresh a déclaré qu’il travaillait principalement à partir de son domicile, où il disposait d’un bureau ou d’un espace de travail. Le mobilier de son bureau à domicile comprenait un bureau de travail, qu’il avait acheté lui-même, une chaise, un ordinateur portable et son téléphone portable. Il se rendait occasionnellement dans les locaux de Skylight, généralement une fois par mois, pour déposer une liste décrivant les forfaits voyages et autres réservations de voyage dont il s’était occupé, de même qu’une liste des commissions perçues à ce titre. Suresh a déclaré n’avoir bénéficié d’aucune aide de la part de Skylight pour l’élaboration des forfaits voyages. Habituellement, il déposait aussi ses rapports de vente, intitulés [traduction] « Formulaires de commission d’agent », mais qu’il appelait parfois « factures ».
+[13] Les commissions que percevait Suresh pour ses ventes étaient partagées avec Skylight. Suresh avait droit à 70 % du montant de chaque commission et Skylight obtenait les 30 % restants. Cette condition avait été expliquée et négociée lors de la première rencontre entre Suresh et Selvy, et il en est question dans la lettre de confirmation signée par Selvy et par Suresh le 5 avril 2015[9].
+[14] Suresh recrutait ses clients principalement par l’intermédiaire des médias sociaux, mais aussi de ses amis et de ses connaissances au sein de sa communauté, à Toronto. Il faisait généralement sa publicité sur les médias sociaux en publiant des annonces (ce qu’il appelait « feuillets publicitaires ») sur la plateforme Facebook.
+[15] Suresh a déclaré n’avoir bénéficié d’aucune aide de Skylight pour l’élaboration des forfaits voyages, mis à part l’accès à SABRE dont il bénéficiait et la permission d’utiliser le nom de Skylight, lequel, il le reconnaît, avait une certaine valeur.
+[16] Suresh ne connaissait pas les horaires de travail de Skylight, car il travaillait principalement à domicile, fixait ses propres heures et était son propre patron.
+[17] Il a affirmé que Selvy n’avait jamais remis en question le volume de sa production ni suggéré qu’il l’augmente, et qu’elle n’avait pas non plus supervisé son travail.
+[18] Suresh pouvait prendre congé quand il le souhaitait. Il n’avait pas besoin d’obtenir la permission de Selvy ou de quiconque chez Skylight pour prendre des vacances. Toutefois, s’il devait s’absenter plus de quelques jours, il en informait Skylight par courtoisie. Skylight ne lui versait pas d’indemnité de vacances.
+[19] Skylight mettait des cartes de visite à la disposition de ses travailleurs. Cependant, Suresh a expliqué qu’il fabriquait ses propres cartes de visite, qu’il préférait apparemment utiliser. Il payait lui-même pour l’impression de ses propres cartes de visite. Sur ses cartes se trouvaient à la fois le nom de Skylight et le sien, ainsi que les numéros de téléphone et de télécopieur de Skylight et son propre numéro de téléphone portable. Les cartes de visite indiquaient également l’adresse électronique de Skylight et le nom de domaine du site Web de Skylight.
+[20] Suresh a précisé qu’il n’était pas possible de le joindre en téléphonant chez Skylight. Si quelqu’un appelait ce numéro et souhaitait lui parler, la personne qui répondait chez Skylight donnait généralement à l’appelant le numéro de téléphone portable de Suresh.
+[21] Suresh a acheté un téléphone portable en 2013. Pendant la période visée, il en était le propriétaire et payait les factures mensuelles du service téléphonique.
+[22] Bien que ses cartes de visite indiquaient le numéro de télécopieur de Skylight, ses clients ne lui ont jamais envoyé de télécopie. Ils ont toujours communiqué avec lui par courriel ou par téléphone, en l’appelant sur son téléphone portable. Il n’essayaient pas de le joindre en appelant chez Skylight.
+E. Renseignements concernant Titus
+[23] Il y a plusieurs dizaines d’années, Titus, qui était âgé de 69 ans au début de l’instruction, était agent de voyage à Dubaï. En 1996, il est venu au Canada pour une courte période. Il est ensuite parti à l’étranger pendant près de cinq ans, puis est revenu au Canada au cours de l’année 2000. Pendant une quinzaine d’années, il a travaillé pour des entreprises qui ne font pas partie de l’industrie du voyage. Désireux de travailler de nouveau dans le domaine du voyage, Titus a lié contact avec Skylight en 2015, alors qu’il recherchait un poste à temps partiel. Il a choisi Skylight parce que la société était spécialisée dans les voyages en Inde du Sud, qui est son secteur de prédilection.
+[24] Selon Selvy et Titus, lors de leur première rencontre, le 11 janvier 2015, Selvy a imprimé une brève lettre sur du papier portant l’en-tête de Skylight et ils l’ont tous deux signée. Puisque cette lettre est assez brève, la partie la plus importante de celle-ci est citée ci-dessous :
+[traduction] Nous souhaitons confirmer que vous (M. Titus George) travaillez actuellement avec Skylight Travel & Tours Inc. en tant qu’entrepreneur au sein du service des voyages et du tourisme. Vous êtes employé en tant qu’agent de voyage avec une rémunération basée sur des commissions, lesquelles seront versées de la façon convenue au moment de la signature. Veuillez noter qu’il vous incombe de déclarer vos revenus et de payer toutes les taxes et tous les impôts applicables à la fin de l’année, directement auprès de votre comptable[10].
+[25] Selvy a déclaré que, selon sa compréhension, Titus avait été engagé par Skylight pour travailler en tant qu’entrepreneur indépendant. Le témoignage de Titus n’a pas permis d’établir clairement quelle était précisément son intention en ce qui concerne son statut professionnel. Il semble qu’il se souciait davantage d’être engagé à temps partiel plutôt qu’à temps plein.
+[26] Bien que Titus ait beaucoup travaillé en tant qu’agent de voyage à Dubaï, c’était des années avant qu’il ne soit engagé par Skylight. À Dubaï, il n’utilisait pas le système de réservation SABRE. Il a donc dû suivre une formation concernant SABRE et d’autres aspects de l’industrie canadienne du voyage. Cette formation a duré environ une semaine, temps pour lequel il n’a reçu ni rémunération ni aucun autre paiement de la part de Skylight.
+[27] Tous les agents de voyage de l’Ontario doivent être titulaires d’une licence délivrée par l’Organisme de réglementation de voyage de l’Ontario (Travel Industry Council of Ontario, ou « TICO »). Titus s’est présenté pour passer l’examen du TICO et a payé lui-même les frais d’examen totalisant 200 $. Skylight ne lui a pas remboursé ce montant.
+[28] Titus ne s’occupait pas de réserver des excursions touristiques. Son travail consistait à réserver des billets d’avion pour des clients, ce qui lui rapportait des commissions.
+[29] Skylight ne vérifiait pas les heures de travail de Titus. Titus informait simplement Skylight avant de partir en vacances, et n’avait pas à lui demander la permission de le faire. Son niveau de productivité n’a jamais été remis en question[11]. Skylight n’a fourni à Titus aucune fourniture de bureau, mis à part des cartes de visite[12].
+F. Modalités de facturation et de rémunération de Suresh et Titus
+[30] Ni Suresh ni Titus ne recevait de salaire de la part de Skylight. Comme indiqué ci-dessus, les seuls revenus que percevaient Suresh et Titus correspondaient à 70 % des commissions que percevait Skylight sur leurs ventes. Des commissions relatives au travail effectué par Suresh et Titus étaient payées à Skylight en fonction des caractéristiques des compagnies aériennes, des hôtels et des autres entreprises liées aux voyages, ainsi que de la méthode par laquelle les clients voyageurs achetaient leurs billets d’avion, leur hébergement et tout autre service lié au voyage. Périodiquement, Suresh et Titus fournissaient à Skylight des rapports sous forme de tableaux listant les billets, les excursions touristiques ou autres forfaits achetés par leurs clients respectifs, ainsi que le montant de la commission versée à Skylight pour le compte de Suresh ou de Titus, le cas échéant. Skylight, après avoir reçu ces rapports et confirmé que les commissions avaient bien été reçues, émettait périodiquement des chèques à l’intention de Suresh et de Titus pour leur verser leur part respective des commissions, soit 70 % du montant.
+III. QUESTIONS À TRANCHER
+[31] Les questions relatives aux présents appels sont les suivantes :
+a)Au cours de la période visée, est-ce que Selvy exerçait un emploi ouvrant droit à pension?
+b)Au cours de la période visée, est-ce que Sheela exerçait un emploi assurable et ouvrant droit à pension?
+c)Au cours de la période visée, est-ce que Akhill exerçait un emploi assurable et ouvrant droit à pension?
+d)Au cours de la période visée, est-ce que Suresh exerçait un emploi assurable et ouvrant droit à pension?
+e)Au cours de la période visée, est-ce que Titus exerçait un emploi assurable et ouvrant droit à pension?
+IV. ENJEUX DE LA PREUVE
+A. Entente par lettre
+[32] Au début de l’instruction, une procédure de voir-dire a été menée pour déterminer l’admissibilité d’une entente par lettre datée du 5 avril 2015 et conclue entre Skylight et Suresh[13] et, plus tard, d’une entente par lettre quelque peu similaire datée du 11 janvier 2015 et conclue entre Skylight et Titus (dont la quasi-totalité est citée ci-dessus)[14]. L’avocate du ministre s’est opposée à la production de ces deux ententes par lettre, au motif que l’avis d’appel indiquait qu’il n’y avait eu que des ententes verbales[15]. L’avocate du ministre semblait également préoccupée par le fait que les ententes par lettre étaient produites tardivement et qu’il s’agissait de documents intéressés. L’avocate du ministre n’a obtenu une copie de l’entente par lettre de Suresh qu’une semaine avant le début de l’instruction; le propre avocat de Titus n’a appris l’existence de l’entente par lettre signée par ce dernier qu’au milieu de la procédure de voir-dire, et l’avocate du ministre n’en savait rien non plus.
+[33] Une autre préoccupation concernait le papier à en-tête sur lequel les deux ententes par lettre étaient imprimées, car toutes deux affichaient des adresses différentes pour Skylight. Pour expliquer la situation, Selvy a affirmé que, depuis sa constitution en 2004 et jusqu’à un peu avant 2015, l’adresse de Skylight était le 3428 Sheppard Avenue East, Scarborough, Ontario. En 2015, l’adresse de Skylight était le 3300 McNicoll Avenue, Scarborough, Ontario[16]. Peu après, Skylight a déménagé ses locaux au 3341 Markham Road, à Toronto. Dans son témoignage, Titus a confirmé qu’au moment où il a rencontré Selvy pour son entretien d’embauche initial, en janvier 2015, les locaux de Skylight étaient situés au 3300 McNicoll Avenue. Cependant, l’adresse figurant sur l’entente par lettre de Titus, datée du 11 janvier 2015, est le 3341 Markham Road. L’adresse figurant sur l’entente par lettre de Suresh, datée du 5 avril 2015, est le 3428 Sheppard Avenue East.
+[34] Selvy a expliqué ces divergences par le fait que lorsque Skylight a déménagé ses locaux de Sheppard Avenue à McNicoll Avenue, elle disposait d’une grande quantité de papier à en-tête inutilisé portant l’adresse de Sheppard Avenue. Skylight a donc continué d’utiliser ce papier à en-tête jusqu’à ce qu’il soit épuisé. C’est pour cette raison que l’entente par lettre de Suresh porte l’adresse de l’avenue Sheppard. Selvy a également expliqué qu’autour de 2017, Titus avait eu besoin d’envoyer une copie de son entente par lettre au TICO, mais qu’il n’arrivait pas à retrouver sa copie. Le texte de l’entente par lettre était encore stocké dans l’ordinateur de Skylight; Selvy l’a donc réimprimée sur du papier à en-tête de Skylight, lequel, à ce moment, portait la nouvelle adresse de Markham Road.
+[35] Selvy, Suresh et Titus ont tous trois déclaré avoir signé l’entente par lettre qui leur était applicable. À mon avis, l’authenticité des deux ententes par lettre ne fait aucun doute, même si l’on peut se demander si elles ont été antidatées. Ainsi, après avoir procédé au voir-dire, j’ai admis les deux ententes par lettre en tant que preuves en précisant que je déterminerais le poids qui convient de leur accorder, le cas échéant.
+[36] En prenant cette décision (d’admettre les ententes par lettre comme preuves), j’ai accepté l’explication donnée par Selvy. Il n’est pas rare qu’une entreprise utilise un papier à en-tête obsolète avant de commencer à utiliser un nouveau papier à en-tête portant les renseignements actualisés. Selvy et Titus (lequel n’était pas présent dans la salle d’audience lorsque Selvy a témoigné) ont tous deux confirmé que l’entente par lettre du 11 janvier 2015 avait été réimprimée autour de 2017 parce que le TICO en demandait une copie. Un autre détail à noter est que si Selvy, Suresh et Titus avaient voulu fabriquer les ententes par lettre à la veille de l’instruction des présents appels, il est probable que les deux ententes auraient été imprimées sur le même papier à en-tête. Le fait que les deux ententes par lettre aient été imprimées sur du papier à en-tête différent tend à confirmer qu’elles n’ont pas été fabriquées à la veille de l’instruction.
+[37] Comme indiqué ci-dessus, le ministre et l’ARC sont préoccupés par le fait qu’ils ont soi-disant été informés par Selvy, Suresh ou Titus que les seules ententes qui avaient été conclues entre Skylight et Suresh et entre Skylight et Titus étaient des ententes verbales, et non pas des ententes écrites. En examinant l’avis d’appel concernant l’AE et l’avis d’appel concernant le RPC déposés par Skylight, je constate que le paragraphe 6 de chacun de ces actes de procédure indique que [traduction] « l’entente verbale conclue entre Skylight et ces personnes [...] prévoyait ce qui suit »; cette affirmation est suivie d’une liste de neuf termes décrivant les arrangements conclus entre Skylight et Suresh et entre Skylight et Titus. Je n’ai trouvé aucune disposition dans l’un ou l’autre de ces avis d’appel indiquant qu’il n’existait qu’une entente verbale, mais pas d’entente écrite. En examinant l’avis d’appel concernant l’AE et l’avis d’appel concernant le RPC déposés par Suresh, ainsi que l’avis d’appel concernant l’AE et l’avis d’appel concernant le RPC déposés par Titus, je n’ai trouvé aucune référence à une entente verbale ou à une entente écrite en soi. Comme on peut le constater en examinant les deux ententes par lettre, les portions les plus importantes de ces ententes sont extrêmement brèves. Je ne trouve ni inhabituel ni incohérent que chacune des ententes par lettre ait été complétée par une entente verbale permettant d’établir des conditions supplémentaires de l’entente entre Skylight et Suresh et de l’entente entre Skylight et Titus. En outre, je n’ai vu aucune déclaration, dans les actes de procédure ou ailleurs, selon laquelle Skylight, Suresh ou Titus auraient confirmé qu’il n’existait qu’une entente verbale mais aucune entente écrite.
+[38] Après l’instruction, lorsque j’ai examiné les différents rapports préparés par deux agentes de l’ARC (dont les rapports seront analysés ci-dessous), j’ai constaté que ces dernières avaient reconnu que l’intention de Skylight, de Suresh et de Titus était que ces deux personnes travaillent pour Skylight à titre d’entrepreneurs indépendants, et non à titre d’employés[17]. Par conséquent, j’ai conclu que les ententes par lettre pouvaient être considérées comme ayant suffisamment de poids pour confirmer l’intention des parties et la nature générale de leurs relations respectives.
+[39] Malgré quelques trous de mémoire ponctuels[18], j’estime que Selvy, Suresh et Titus sont des témoins crédibles et généralement fiables. Après avoir pris en considération leurs témoignages et analysé les ententes par lettre et les circonstances de leur formation, j’ai conclu que je pouvais m’appuyer sur chacune des ententes par lettre comme confirmant l’intention des parties de lier une relation d’entrepreneur indépendant, et non une relation employeur-employé.
+B. Rapports et témoignages des vérificateurs
+[40] L’avocate du ministre a cité deux témoins de l’ARC. Le premier témoin de l’ARC, que j’appellerai « l’agente des décisions », est actuellement agente intérimaire des appels concernant le RPC et l’AE. Elle a travaillé en tant qu’agente des décisions aux fins du RPC et de l’AE de 2013 à 2021. Le deuxième témoin de l’ARC, que j’appellerai « l’agente des appels », a commencé à travailler pour l’ARC en 2008. En 2014, elle a été nommée agente des appels concernant le RPC et l’AE; en 2018, elle est devenue agente des ressources des appels concernant le RPC et l’AE. Elle est actuellement conseillère en développement des programmes et de la formation pour la division des appels concernant le RPC et l’AE.
+[41] L’agente des décisions a rédigé un rapport de décision concernant Suresh[19] et un autre rapport de décision concernant Titus[20]. Le contenu des deux rapports est presque identique. Durant son témoignage, l’agente des décisions a reconnu qu’elle avait en beaucoup utilisé la fonction copier-coller[21].
+[42] Chacun des deux rapports de décision est un document composite, qui commence par des détails et des renseignements concernant Suresh (dans le cas de la pièce R‑2) et Titus (dans le cas de la pièce R‑3). Suit une portion plus volumineuse intitulée [traduction] « Faits », d’une longueur d’environ six pages. Cette portion du rapport est censée, entre autres, résumer les conversations téléphoniques distinctes que l’agente des décisions a eues le 7 juin 2017 avec Suresh et Titus, respectivement, ainsi qu’avec Selvy. La partie suivante de chaque rapport de décision est intitulée [traduction] « Statut professionnel ». Les faits que l’agente des décisions a soi-disant obtenus de Suresh et Titus, respectivement, ainsi que de Selvy, y sont analysés. Selon chaque rapport de décision, la conclusion est que le travailleur concerné (Suresh ou Titus) exerçait un emploi assurable et ouvrant droit à pension. La dernière partie de chaque rapport de décision est intitulée [traduction] « Décision ». Cette portion de texte suggère que le statut des ententes de travail respectives de Suresh et de Titus a été modifié, passant de [traduction] « Contrat pour service » [sic] à « Contrat de service ».
+[43] Comme indiqué plus haut, l’agente des décisions a reconnu qu’elle avait eu recours de nombreuses fois à la fonction copier-coller lors de la préparation de ses rapports. La portion analytique (c’est-à-dire la partie intitulée « Statut professionnel ») était identique dans les deux rapports. La similitude entre le résumé des deux conversations téléphoniques que l’agente des décisions a eues le 7 juin 2017 avec Suresh et avec Titus, respectivement, est encore plus troublante. De grandes parties des résumés de ces deux conversations sont identiques. On y remarque quelques différences, comme, dans le résumé de la conversation avec Titus, une indication selon laquelle celui-ci disait être « rémunéré strictement à la commission »[22], alors qu’on ne trouve pas de déclaration semblable dans le résumé de la conversation avec Suresh. Le résumé de la conversation avec Suresh porte la mention suivante [traduction] : « Il a confirmé que tous les documents administratifs portaient le nom de Skylight »[23]. Le résumé de l’entretien avec Titus ne contient aucune déclaration de ce type. À l’exception de ces points et de quelques autres différences mineures, le libellé des deux résumés est essentiellement identique, sous réserve de quelques efforts à l’évidence déployés pour faire paraître les deux documents différents, comme la référence à Suresh en tant [traduction] qu’« agent de vente de billets » et à Titus en tant [traduction] qu’« agent de voyage », ou l’utilisation du mot [traduction] « déclaré » dans l’un des résumés et du mot [traduction] « confirmé » au même endroit dans l’autre, ou encore le choix du mot [traduction] « quotas » dans le résumé de la conversation avec Titus et de l’expression [traduction] « objectifs de vente » dans le résumé de la conversation avec Suresh. Un autre exemple, dont il est question ci-dessous, est l’utilisation de l’expression [traduction] « Il a ri [...] » dans le résumé de la conversation avec Suresh et de [traduction] « Il a ricané [...] » dans le résumé de la conversation avec Titus.
+[44] L’extrême similitude entre les deux rapports de décisions a été abordée en ces termes lors de l’interrogatoire principal de l’agente des décisions :
+[traduction] Me ELLEITHY : [...] J’ai remarqué que [...] beaucoup de formulations sont très semblables. Ainsi, par exemple, [...] si l’on compare le[s] rapport[s] de décision à l’onglet 7 [pièce R‑2] et à l’onglet 8 [pièce R‑3], on constate beaucoup de similitudes dans la structure, l’ordre et le libellé du texte. Pouvez-vous nous expliquer pourquoi?
+[AGENTE DES DÉCISIONS] : Oui, c’est vrai; il s’agit en grande partie de texte copié et collé, parce que c’est la même chose pour chaque dossier. Par exemple, lorsque j’ai communiqué avec la propriétaire, ces renseignements ont été directement copiés et collés dans --, car j’ai appelé en même temps. Aussi, si je laissais le message à -- de me rappeler concernant, vous savez, chaque travailleur, je changerais certainement le nom. Honnêtement, pour ce poste en particulier, il n’y a que -- et en traitant autant de dossiers, il n’y a qu’un nombre limité de façon d’écrire quelque chose comme « les outils et l’équipement n’ont pas été fournis par le travailleur ».
+Donc, encore une fois, beaucoup de choses se ressemblent parce que c’est mon style d’écriture et que j’aborde, vous savez, la question des outils et de l’équipement, puis de la sous-traitance, et enfin des dépenses. Mais encore une fois, c’est également personnalisé, parce que si quelque chose a été -- vous savez, pour en revenir au rapport de décision précédent [c.-à-d.la pièce R‑2] concernant Suresh, où j’ai noté qu’il a ricané lorsqu’on lui a posé une question, ce genre de chose, c’est spécifique à cette personne.
+C’est pourquoi beaucoup de choses semblent identiques, parce qu’elles le sont. Beaucoup de réponses sont les mêmes, mais j’aime bien, encore une fois, adapter le tout à ce travailleur en particulier et préciser, par exemple, que j’ai eu une conversation avec cette personne, parce que tout le monde ne va pas ricaner à la même question ou faire ses propres commentaires.
+Comme je l’ai déjà mentionné, nous ne pouvons pas faire figurer nos opinions personnelles dans le dossier. C’est donc ce que nous faisons; dans ce cas, [ce que] j’ai fait, c’est d’ajouter les informations qui étaient largement similaires, puis de les adapter en fonction de la situation de ce travailleur[24]. [Non souligné dans l’original.]
+[45] Comme l’indiquent les passages soulignés dans l’échange entre l’avocate du ministre et l’agente des décisions reproduit ci-dessus, lequel a eu lieu au cours de la discussion sur le rapport de décision concernant Titus (c.-à-d. la pièce R‑3), l’agente des décisions a fait référence à sa mention du « rapport de décision précédent » (c.-à-d. la pièce R‑2, qui est le rapport de décision concernant Suresh), où elle a noté que la personne interrogée avait ricané lorsqu’on avait posé une question, tout en indiquant que ce commentaire était spécifique à cette personne. Ce commentaire sur « le rapport de décision précédent » a été fait plus tôt dans son témoignage, alors qu’elle parlait du rapport de décision concernant Suresh et que l’avocate du ministre lui avait demandé pourquoi elle avait ajouté « Il a ri [...] » dans son rapport. L’agente des décisions a répondu ainsi :
+[traduction] Me ELLEITHY : Et je voulais vous demander pourquoi vous -- pourquoi est-ce quelque chose qu’il vous fallait noter?
+[AGENTE DES DÉCISIONS] : Eh bien, c’est une réaction intéressante à la question, je pense, et ça évoque -- en quelque sorte, c’est presque -- vous savez, lorsque quelqu’un rit et trouve la question drôle, alors que c’est une question sérieuse, d’avoir ce genre de réaction. Et dans le dossier, vous savez, j’aime toujours ajouter quelque chose qui est une sorte de -- vous savez, parce que vous ne pouvez écrire que certains paragraphes, l’information, de la même manière, donc pour ajouter comme un petit commentaire personnel ou une réaction à la question. Mais cette question en particulier -- c’est ce dont je me souviens à propos de ce dossier[25].
+[Non souligné dans l’original.]
+[46] En parlant de Suresh et de la pièce R‑2 (peu avant que se produise l’échange reproduit ci-dessus‑), l’agente des décisions avait déclaré se souvenir [traduction] « d’un monsieur qui ricanait à propos du fait de ne pas partir en vacances », mais ne pas se rappeler si ce monsieur était Suresh ou Titus[26]. L’agente des décisions peut avoir fait référence au commentaire suivant, qu’elle a écrit dans le rapport de décision concernant Suresh (tel qu’il figure dans la pièce R‑2) :
+[traduction] Il a ri lorsqu’on lui a demandé s’il avait reçu des invitations personnelles à visiter des lieux de villégiature et a il déclaré que Selvy Thomas l’avait fait, en tant que propriétaire de l’agence de voyage[27].
+Il se peut aussi qu’elle ait fait référence à un commentaire qu’elle a écrit dans le rapport de décision concernant Titus (pièce R‑3), lequel est cité dans le paragraphe suivant.
+[47] Bien que j’aie d’abord compris que la référence faite par l’agente des décisions aux ricanements de l’homme visait à démontrer qu’elle se souvenait de cette conversation en particulier, et que son résumé de cette conversation avait été adapté de manière à personnaliser cette conversation[28], je me demande maintenant si c’était vraiment le cas, à la lumière de la déclaration suivante tirée du résumé de sa conversation avec Titus (c.-à-d. la pièce R‑3) :
+[traduction] Il a ricané et a affirmé qu’il n’avait pas reçu d’invitations personnelles à visiter des lieux de villégiature, mais a dit que Selvy Thomas l’avait fait, en tant que propriétaire de l’agence de voyage[29].
+[48] Au cours du contre-interrogatoire, l’avocat des appelants a fait remarquer que des portions importantes des résumés des conversations téléphoniques qu’a entretenues l’agente des décisions avec Suresh et Titus semblaient être absolument identiques et [traduction] qu’« on aurait dit un copier-coller »[30]. Ensuite, lorsque l’avocat des appelants a suggéré à l’agente des décisions qu’elle n’avait pas adapté les deux résumés (comme elle l’avait prétendu)[31], cette dernière a répondu :
+[traduction] Il y a des parties du texte qui sont spécifiques à chacun des individus. Mais après avoir effectué cette tâche si souvent, cela devient un peu -- ce n’est pas un travail d’écriture créative[32].
+[49] Je suis très préoccupé par la manière dont les rapports de décision ont été préparés. En ce qui concerne les résumés des conversations téléphoniques qu’a eu l’agente des décisions avec Suresh et Titus, j’ai l’impression qu’elle avait pensé aux réponses qu’elle voulait obtenir et qu’elle avait déjà élaboré le langage dont elle aurait besoin pour consigner ces réponses. En ce qui concerne les parties analytiques des rapports de décision, le libellé parfaitement identique des analyses des ententes de travail respectives de Suresh et de Titus amène à se demander si l’une des analyses a été copiée sur l’autre, ou si toutes deux ont été copiées sur l’analyse figurant dans un même précédent.
+[50] Compte tenu de la manière dont les rapports de décision ont été préparés, je m’interroge sur le fait que l’agente des décisions ait pu traiter les dossiers de Suresh et de Titus individuellement, ou ait plutôt adopté une approche « applicable à tous » pour son audit. Par conséquent, puisque ses rapports diffèrent des témoignages des appelants, je suis enclin à me fier davantage à ces témoignages plutôt qu’aux rapports.
+[51] Dans la mesure où les rapports de décision contiennent des déclarations faites à l’agente des décisions par Selvy, Suresh ou Titus, la question de savoir si ces rapports contenaient des preuves par ouï-dire a été abordée lors de l’instruction. Dans un premier temps, l’avocate du ministre a informé la Cour qu’elle souhaitait produire les rapports pour la véracité de leur contenu. Toutefois, après que la question de la preuve par ouï-dire ait été soulevée, l’avocate du ministre a expliqué qu’elle s’appuyait sur les rapports uniquement pour contester la crédibilité des travailleurs, c’est-à-dire pour montrer que les déclarations en question avaient bel et bien été faites, et non pas pour montrer qu’elles étaient nécessairement vraies. Compte tenu de la manière dont les rapports de décision ont été rédigés, je ne suis pas convaincu que les déclarations qui ont été faites y aient été correctement consignées.
+[52] Je ne considère pas que les rapports de décision mettent en cause la crédibilité de Selvy, de Suresh ou de Titus. Au contraire, compte tenu de leur contenu « copié-collé », je me demande plutôt si les rapports reproduisent fidèlement les déclarations qui ont pu être faites par Selvy, Suresh et Titus à l’agente des décisions.
+[53] La similitude entre les rapports de décision concernant Suresh (pièce R‑2) et Titus (pièce R‑3) pourrait s’expliquer par l’existence d’un obstacle à la communication entre l’agente des décisions, d’une part, et Suresh et Titus, d’autre part. Sans vouloir leur manquer de respect, j’ai remarqué que, lors de leurs témoignages oraux, il était parfois difficile de comprendre ce que disait Suresh, et encore plus Titus. En outre, j’ai observé à plusieurs reprises au cours du témoignage de Titus que ce dernier semblait comprendre la nature générale des questions qui lui étaient posées, mais qu’il n’en saisissait pas tous les détails. Les difficultés de communication que j’ai observées au cours de l’audience pourraient bien avoir été exacerbées au téléphone, qui est le moyen utilisé par l’agente des décisions pour interroger Suresh et Titus.
+[54] Qu’il y ait eu ou non un obstacle à la communication entre ces personnes, nous avons constaté que sur plusieurs points (comme la question de savoir si Suresh et Titus travaillaient à domicile ou dans les locaux de Skylight), les déclarations écrites par l’agente des décisions dans ses rapports de décision sont diamétralement opposées aux déclarations faites par Suresh et Titus à la barre des témoins. Comme je l’ai déjà mentionné, j’estime que Suresh et Titus, de même que Selvy, sont des personnes crédibles et généralement fiables. Par conséquent, comme indiqué ci-dessus, je préfère leurs preuves aux rapports de décision préparés par l’agente des décisions.
+[55] En ce qui concerne l’agente des appels, il était initialement prévu qu’elle témoigne le 20 octobre 2021; toutefois, l’instruction ayant progressé plus lentement que prévu, elle n’a commencé à témoigner que le 26 avril 2022. Elle a déclaré avoir examiné, en octobre 2021, en préparation de son témoignage prévu le 20 octobre 2021, ses Notes pour le dossier (formulaire T2020)[33] et son rapport sur un appel (formulaire CPT110)[34]. Cependant, elle a reconnu ne pas avoir relu la note et le rapport entre le 20 octobre 2021 et le début de son témoignage, soit le 26 avril 2022. Elle a également admis qu’elle ne se souvenait pas des conversations individuelles qu’elle avait eues avec Suresh et Titus. Par conséquent, je doute de la fiabilité de ses souvenirs et de son témoignage.
+[56] Je souhaite faire un commentaire à propos de la terminologie utilisée par l’agente des décisions et l’agente des appels (ensemble, « les agentes ») dans leurs rapports respectifs. Plutôt que d’utiliser les termes [traduction] contrat de travail et contrat indépendant, les agentes ont, de façon générale, utilisé des termes anciens et traditionnels, soit [traduction] contrat de service et contrat pour services. Bien que ces deux ensembles de termes soient acceptables, les agentes utilisent souvent l’expression « contrat pour services » lorsqu’elles font référence à un contrat de services. Je trouve cette terminologie ambiguë, car il n’est pas toujours facile de savoir si elles font référence à un contrat de service et ont ajouté par inadvertance un « s » à la fin du mot « service », ou si elles font référence à un contrat pour services et ont substitué par inadvertance le mot de « de » mot « pour ». L’extrait qui suit, issu de l’un des rapports de l’agente des appels, illustre bien cette ambiguïté :
+[traduction] Il est recommandé que les parties concernées par cet appel soient informées, par voie d’avis ministériel, qu’après un examen complet et impartial des renseignements fournis, les travailleurs Selvy Thomas, Sureh [sic] Aravindaksha [sic], George Titus [sic], Akhill Jolly et Sheela Thomas étaient engagés par le payeur, Skylight Travel & Tours Inc., au titre d’un contrat de service durant les périodes respectées [sic] pour lesquelles ils font l’objet d’une vérification. Les conditions d’un contrat de services étaient remplies; il existait donc une relation d’employeur à employé[35]. [Non souligné dans l’original.]
+V. ANALYSE :
+A. Statut de Selvy
+[57] Dans ses avis d’appel, Skylight a plaidé que Selvy et Sheela détenaient chacune 50 % des actions ordinaires de Skylight et que la déclaration de l’une des vérificatrices de l’ARC, selon laquelle Selvy détenait 100 % des actions ordinaires de Skylight, était erronée. Toutefois, lors de son témoignage, Selvy a indiqué qu’elle détenait 100 % des actions ordinaires de Skylight au moment de sa constitution et pendant la période visée[36], et que, quelque temps après la période visée, Sheela avait acquis 50 % des actions ordinaires émises de Skylight.
+[58] Comme Selvy a toujours détenu plus de 40 % des actions ordinaires (qui sont présumées être les seules actions avec droit de vote) de Skylight, son emploi chez Skylight n’était pas assurable[37].
+[59] Au cours de l’instruction, Selvy a confirmé que, pendant la période visée, elle avait été employée par Skylight dans un emploi ouvrant droit à pension[38].
+B. Statut de Sheela
+[60] Dans son l’avis d’appel concernant l’AE, Skylight fait valoir que Sheela et Selvy détenaient chacun 50 % de ses actions avec droit de vote, de sorte que, en vertu de l’alinéa 5(2)b) de la LAE, Sheela n’exerçait pas un emploi assurable[39]. Comme indiqué ci-dessus, Selvy a déclaré lors de son témoignage qu’elle et Sheela étaient à l’heure actuelle détentrices à parts égales des actions de Skylight. Toutefois, au cours de la période visée, Selvy détenait la totalité des actions avec droit de vote de Skylight. Par conséquent, s’il apparaît que l’emploi actuel de Sheela chez Skylight n’est pas un emploi assurable, son emploi chez Skylight au cours de la période visée était un emploi assurable.
+[61] Au cours de l’instruction, Skylight a admis que, pendant la période visée, Sheela avait occupé un emploi assurable et ouvrant droit à pension chez Skylight[40].
+C. Statut d’Akhill
+[62] Les avis d’appel de Skylight portent principalement sur les situations particulières de Suresh et Titus, et font mention de façon secondaire à Selvy et Sheela, sans aucune référence à Akhill. Au cours de l’instruction, Skylight a confirmé le fait que, pendant la période visée, Akhill avait été employé par Skylight et occupait un emploi assurable et ouvrant droit à pension[41].
+D. Principes juridiques applicables aux cas de Suresh et Titus
+[63] Selon les plaidoiries, Skylight, Suresh et Titus estiment que, pendant la période visée, Skylight a engagé Suresh et Titus en vertu d’un contrat indépendant (parfois appelé contrat pour services) et non en vertu d’un contrat d’emploi (parfois appelé contrat de service). En revanche, le ministre adopte la position inverse. Pour résoudre cette question, il est nécessaire d’appliquer le processus analytique en deux étapes décrit par la Cour d’appel fédérale dans l’affaire Connor Homes[42].
+[64] Dans l’arrêt Connor Homes, la Cour d’appel fédérale a indiqué que, pour déterminer si un travailleur est un employé ou un entrepreneur indépendant, il est nécessaire de prendre en considération l’intention du travailleur et celle de la personne qui l’a embauché, ainsi que les facteurs traditionnels énoncés dans les affaires Sagaz Industries et Wiebe Door[43]. Ces facteurs sont les suivants :
+(a) L’employeur contrôle-t-il les activités du travailleur?
+(b) L’employeur fournit-il les outils et l’équipement requis par le travailleur, ou le travailleur doit-il fournir ses propres outils et son propre équipement?
+(c) Le travailleur engage-t-il lui-même ses assistants?
+(d) Quel est le degré de risque financier pris par le travailleur? En d’autres termes, le travailleur court-il un risque de perte?
+(e) Jusqu’à quel point le travailleur est-il responsable des mises de fonds et de la gestion?
+(f) Jusqu’à quel point le travailleur peut-il tirer profit de l’exécution de ses tâches[44]?
+[65] Au cours des deux dernières décennies, certains tribunaux ont noté qu’il n’existait pas de dichotomie nette entre un contrat de travail et un contrat indépendant, mais plutôt un continuum entre les deux, avec la relation employeur-employé à une extrémité, la relation entrepreneur indépendant à l’autre extrémité, et une relation hybride, intermédiaire ou entrepreneur dépendant « quelque part au milieu »[45]. Il est généralement admis qu’une relation hybride, intermédiaire ou entrepreneur dépendant s’apparente à une relation employeur-employé, mais n’est pas la même[46]. Pour déterminer si un travailleur est un employé ou un entrepreneur dépendant, les tribunaux ont généralement appliqué les mêmes principes que ceux utilisés pour déterminer si un travailleur est un employé ou un entrepreneur indépendant[47].
+[66] Étant donné que les principes utilisés pour distinguer un entrepreneur dépendant d’un employé sont semblables à ceux utilisés pour distinguer un entrepreneur indépendant d’un employé, j’utiliserai parfois simplement dans les présents motifs le terme entrepreneur, plutôt qu’entrepreneur indépendant ou entrepreneur dépendant.
+E. Statut de Suresh
+[67] Conformément aux orientations fournies par la Cour d’appel fédérale dans l’arrêt Connor Homes, je commencerai par déterminer s’il y avait une compréhension mutuelle ou une intention commune entre Skylight et Suresh concernant leur relation. Je me pencherai ensuite sur les facteurs définis dans les arrêts Sagaz et Wiebe Door à la lumière de cette intention mutuelle (le cas échéant) décider si, tout bien considéré, les faits pertinents soutiennent cette intention et sont compatibles avec celle-ci ou, s’il n’y a pas d’intention mutuelle, déterminer si ces facteurs relèvent d’un emploi ou d’un contrat indépendant.
+(1) Intention [68] Au début de la relation de Suresh avec Skylight, Selvy et Suresh ont signé une entente par lettre, datée du 5 avril 2015, imprimée sur le papier à en-tête de Skylight. L’entente par lettre est relativement brève et ne contient qu’un seul paragraphe, que je cite ci-dessous :
+[traduction] Nous souhaitons confirmer que vous (Suresh Aravindakshan) est [sic] actuellement à l’emploi de Skylight Travel & Tours Inc. en tant qu’entrepreneur dans le secteur des voyages et du tourisme. M. Aravindakshan doit recevoir 70 % des commissions à titre d’agent, comme convenu au moment de la signature. Veuillez noter qu’il vous incombe de déclarer vos revenus et de payer toutes les taxes et tous les impôts applicables à la fin de l’année, directement auprès de votre comptable[48].
+[69] En me basant sur la lettre susmentionnée, ainsi que sur les témoignages de Selvy et de Suresh, je crois comprendre qu’ils ont tous deux compris et eu comme intention que Suresh travaille pour Skylight en tant qu’entrepreneur indépendant, et non en tant qu’employé. En outre, il semble que l’agente des décisions et l’agente des appels aient également reconnu que Selvy (au nom de Skylight) et Suresh avaient comme intention que Suresh travaille en tant qu’entrepreneur indépendant[49].
+(2) Contrôle [70] Pour ce qui est de la question de savoir si Skylight exerçait un contrôle sur le travail qu’exécutait Suresh pour Skylight, Selvy a déclaré que Skylight n’attendait pas de Suresh qu’il travaille un certain nombre d’heures chaque semaine ou qu’il produise un certain volume de ventes[50].
+[71] Suresh avait la possibilité de prendre des congés de maladie ou des vacances quand il le souhaitait[51]. Dans son témoignage, Suresh a confirmé qu’il fixait lui-même ses horaires de travail et qu’il pouvait prendre des congés quand il le souhaitait[52], bien qu’il ait toujours prévenu Skylight lorsqu’il partait en vacances et qu’il ait indiqué quels jours il ne serait pas disponible pour travailler[53].
+[72] Lorsque Suresh réalisait une vente auprès d’un client, il n’en avisait généralement pas Selvy[54]. Cependant, Suresh informait Selvy si des clients devaient se présenter chez Skylight pour payer un forfait voyage[55], afin d’assurer que Skylight puisse rapidement transférer l’argent à l’organisateur du voyage en question[56].
+[73] Suresh préparait ses propres factures pour les commissions qu’il devait percevoir sur les ventes qu’il réalisait. Il apportait ses factures dans les locaux de Skylight toutes les deux semaines[57].
+[74] Skylight émettait régulièrement des chèques à l’intention de Suresh pour lui payer les 70 % des commissions perçues qui lui revenaient, Skylight conservant les 30 % restants[58].
+[75] Skylight n’effectuait pas d’évaluation des performances de Suresh et ne fixait pas d’objectifs de vente pour lui[59].
+[76] Le titre de Suresh chez Skylight était [traduction] « coordinateur de voyages ». C’est un titre qu’il avait lui-même choisi. Skylight n’a pas remis en question le choix de ce titre[60].
+[77] D’après ma compréhension des éléments de preuve, Skylight ne contrôlait pas contrôlé les activités professionnelles de Suresh. Ce facteur pointe fortement vers un statut d’entrepreneur indépendant.
+(3) Matériel et équipement [78] Suresh travaillait principalement à partir de son domicile, où il avait installé un bureau ou un autre espace de travail. Il a payé lui-même son mobilier de bureau, notamment un bureau et une chaise de travail. Il a fourni son propre ordinateur portable et son propre téléphone portable[61]. Les locaux occupés par Skylight étaient assez petits (environ 450 à 550 pieds carrés, soit entre 42 et 46 mètres carrés) et étaient régulièrement utilisés par Selvy, Sheela, Akhill et Giya. Suresh ne disposait que de peu d’espace physique pour travailler dans les locaux de Skylight, où il n’y avait pas de bureau ou d’espace de travail pour lui[62]. Suresh utilisait son téléphone portable personnel pour ses activités professionnelles et il payait lui-même ses factures de services téléphoniques[63]. Suresh a lui-même fourni la totalité de ses fournitures et de son équipement de travail[64].
+[79] Skylight a fourni à Suresh un mot de passe lui permettant d’accéder à la licence d’utilisation de SABRE, ainsi que des cartes de visite indiquant le numéro de téléphone général, le numéro sans frais et le numéro de télécopieur de Skylight[65]. Suresh a déclaré qu’il avait obtenu de Skylight le modèle des cartes de visite et qu’il avait imprimé lui-même ses cartes, à ses frais[66]. Les clients de Suresh l’appelaient généralement sur son téléphone portable et utilisaient rarement le numéro de téléphone de Skylight pour le joindre; ils ne lui envoyaient pas de télécopie[67]. Skylight a également fourni à Suresh une adresse électronique et lui a permis d’utiliser le système de messagerie de Skylight[68].
+[80] Suresh n’a pas eu à payer de frais particuliers à Skylight pour l’utilisation de SABRE, du modèle de carte de visite ou du système de courrier électronique de Skylight. Selvy et Suresh ont expliqué qu’une portion du 30 % des commissions générées par Suresh et revenant à Skylight était destinée à couvrir ces coûts[69].
+[81] Ce facteur pointe vers les deux directions.
+(4) Embauche d’assistants [82] Selvy a déclaré, au nom de Skylight, que Suresh avait le loisir d’embaucher un tiers en tant que sous-traitant, ou encore des assistants pour l’aider dans son travail[70]. Suresh a expliqué qu’il n’avait jamais eu l’occasion d’engager un sous-traitant ou d’embaucher quelqu’un à titre d’assistant. Il est difficile de savoir, en se basant sur son témoignage, si Suresh avait compris qu’il avait, ou non, la possibilité d’engager un assistant[71]. Bien que le témoignage de Selvy semble indiquer qu’il s’agissait d’un contrat indépendant plutôt que d’un emploi, étant donné que Suresh n’a pas engagé de sous-traitants ou d’assistants, et étant donné qu’il n’a pas semblé comprendre pleinement et clairement les questions qui lui ont été posées à propos de ce facteur, je suis enclin à considérer ce facteur comme un facteur neutre.
+(5) Risque de perte [83] Avant même de commencer à travailler pour Skylight, Suresh avait engagé des dépenses. En 2014, Suresh a suivi, à ses frais, plusieurs cours sur les voyages et le tourisme au Everest College[72]. Toujours à ses frais, Suresh a également suivi des cours préparatoires à l’examen de licence du TICO, qu’il a réussi, avant de commencer à travailler pour Skylight[73].
+[84] Étant donné que Suresh travaillait à partir de son domicile et qu’il devait fournir son propre ordinateur portable, son téléphone portable, son mobilier de bureau, ses fournitures, sa publicité et d’autres éléments liés à son travail, il a régulièrement engagé des dépenses à titre professionnel. Si un client réservait un voyage auprès de Suresh et l’annulait par la suite, Suresh ne recevait pas de commission, mais devait acquitter les frais d’annulation[74]. En outre, comme sa rémunération était entièrement basée sur les commissions, il pouvait arriver, certains mois, que ses dépenses dépassent ses revenus.
+[85] À mon avis, Suresh avait des dépenses liées au travail relativement modestes. Néanmoins, comme il était toujours possible que ces dépenses soient plus importantes que ses revenus, Suresh risquait une perte. Ce facteur pointe vers un contrat indépendant.
+(6) Responsabilité en matière de mises de fonds et de gestion [86] Aucune preuve n’a été présentée concernant ce facteur. Je considère donc qu’il s’agit d’un facteur neutre ou inapplicable.
+(7) Possibilité de tirer un profit [87] Akhill et Giya, qui étaient des consultants en voyages et que Skylight a reconnu être des employés, étaient rémunérés par un salaire[75]. En revanche, Suresh était rémunéré uniquement avec des commissions. De plus, étant donné que Suresh avait ses propres clients, il a pu négocier une répartition de la commission de 70 - 30 %, plutôt que de 60 - 40 %, ce qui (selon Selvy) est le niveau de répartition standard dans l’industrie du voyage[76].
+[88] Suresh a élaboré ses propres forfaits voyages, qui comprenaient le transport aérien, l’hébergement à l’hôtel et des excursions d’une journée. Il préparait ses propres feuillets publicitaires pour annoncer les forfaits, dont la publication était souvent programmée pour coïncider avec « une période de fête » ou un jour férié[77]. Il faisait la publicité de ses forfaits voyages grâce au bouche-à-oreille, aux médias sociaux et à d’autres moyens de promotion. Les vols inclus dans les forfaits étaient réservés par l’intermédiaire du système SABRE de Skylight, mais toutes les autres réservations étaient effectuées par Suresh sans aucune aide de Skylight[78]. C’est Suresh, et non Skylight, qui fixait les prix des excursions touristiques qu’il vendait[79].
+[89] Au cours du contre-interrogatoire, Suresh a décrit le processus qu’il utilisait pour créer un forfait voyage. Suresh fait généralement appel aux services d’un vendeur ou d’un fournisseur en Inde, comme Tours East ou Tamarind Services International, car il estime qu’il est préférable que tous les éléments du forfait (vols, hébergement et transports terrestres) soient organisés par une seule et même entité. Cependant, Suresh préparait lui-même le forfait et donnait ensuite des instructions au vendeur sélectionné, pour que ce dernier effectue les réservations en son nom (ou peut-être parfois au nom de ses clients). Le vendeur facturait Suresh un certain prix, que Suresh payait. Lorsqu’il préparait la facture pour ses clients, ultérieurement, Suresh majorait de 5 %, 10 % ou 15 % le prix des forfaits, selon ce qui était négocié avec ses clients, qui espéraient parfois obtenir une remise[80].
+[90] En ce qui concerne les vols que Suresh réservait en utilisant le compte SABRE de Skylight, il ne pouvait pas modifier le prix affiché par l’intermédiaire de SABRE, mais il pouvait décider de majorer ce prix, et c’est ce qu’il faisait[81].
+[91] Suresh a attesté qu’il avait ses propres clients. Lors de l’instruction, il a soutenu qu’il travaillait depuis six ou sept ans et qu’il avait une liste de plus de 500 clients. Il a également dit que Skylight n’avait pas accès à sa liste (ou à son dossier) de clients[82].
+[92] Selvy a déclaré que dans l’éventualité où Suresh devait quitter Skylight, il avait la possibilité de garder sa liste de clients et de l’utiliser dans une autre agence de voyage[83].
+[93] Suresh a déclaré qu’il avait constitué sa liste de clients grâce à des contacts au sein de sa propre communauté, aux médias sociaux et à d’autres moyens, et qu’il n’avait pas trouvé ses clients auprès de Skylight[84]. Toutefois, Selvy a indiqué que Skylight envoyait occasionnellement à Suresh des clients qui souhaitaient réserver un voyage[85]. Lors du contre-interrogatoire, interrogé à propos de ces clients envoyés par Skylight, Suresh a précisé que cela se produisait « très, très rarement »[86].
+[94] Le résumé ci-dessus du système de rémunération de Suresh, basé sur la commission, de même que sa capacité à choisir et à négocier le montant de la majoration des prix de base qu’il obtenait de ses vendeurs et autres fournisseurs, sont des indications claires qu’il avait la possibilité de tirer un profit. Ce facteur pointe vers un contrat indépendant.
+(8) Apprécier, pondérer et résoudre [95] Les facteurs relatifs au contrôle, au risque de perte et à la possibilité de tirer un profit penchent suggèrent fortement l’existence d’une relation d’entrepreneur indépendant entre Skylight et Suresh. Le facteur relatif au matériel et à l’équipement pointe vers les deux directions, mais je crois qu’il penche tout de même un peu vers une relation d’entrepreneur indépendant. Les facteurs relatifs à l’embauche d’assistants et à la responsabilité en matière de mises de fonds et de gestion sont des facteurs neutres ou inapplicables.
+[96] Après avoir examiné, apprécié et pondéré les facteurs susmentionnés, je conclus que, pendant la période visée, Suresh a travaillé en tant qu’entrepreneur indépendant et non en tant qu’employé. En d’autres termes, et tout bien considéré, les facteurs pris en compte dans les arrêts Sagaz et Wiebe Door sont compatibles avec la compréhension mutuelle selon laquelle Suresh travaillait pour Skylight en tant qu’entrepreneur indépendant, et non en tant qu’employé. Par conséquent, au cours de la période visée, Suresh a exercé un travail auprès de Skylight qui ne constituait ni un emploi assurable, ni un emploi ouvrant droit à pension.
+F. Statut de Titus
+[97] Conformément aux orientations fournies par la Cour d’appel fédérale dans l’arrêt Connor Homes, je commencerai par déterminer s’il y avait une compréhension mutuelle ou une intention commune entre Skylight et Titus concernant leur relation. Je me pencherai ensuite sur les facteurs définis dans les arrêts Sagaz et Wiebe Door à la lumière de cette intention mutuelle (le cas échéant) décider si, tout bien considéré, les faits pertinents soutiennent cette intention et sont compatibles avec celle-ci ou, s’il n’y a pas d’intention mutuelle, déterminer si ces facteurs relèvent d’un emploi ou d’un contrat indépendant.
+(1) Intention [98] D’après le témoignage de Selvy et l’entente par lettre datée du 11 janvier 2015[87], Skylight avait l’intention d’engager Titus à titre d’entrepreneur. Bien que Titus ait reconnu avoir signé l’entente par lettre, j’ai l’impression qu’il n’a pas bien compris la différence entre un entrepreneur et un employé. Dans son témoignage, Titus a mentionné qu’il était davantage soucieux de s’assurer de pouvoir travailler seulement à temps partiel et de pouvoir le faire à partir de son domicile, plutôt que d’être obligé de travailler dans les locaux de Skylight[88].
+[99] Titus a expliqué en ces termes la façon dont il a établi sa relation avec Skylight :
+[traduction] Me VANIER : D’accord. Et j’ai cru comprendre que vous vouliez reprendre vos activités dans le domaine du voyage.
+M. GEORGES : Oui, je -- je m’intéresse à l’industrie du voyage parce que la raison pour laquelle je -- comme je disais, j’ai refait le -- avec mon travail à temps partiel. Je ne veux pas d’un emploi à temps plein.
+Me VANIER : D’accord. Comment la relation entre vous et Skylight a-t-elle commencé?
+M. GEORGES : J’ai connu la société par l’intermédiaire d’un de mes amis, étant donné qu’ils sont la seule -- communauté de voyage à faire des affaires dans l’industrie du voyage dans le sud de l’Inde. Ce sont les seuls qui vont là.
+Me VANIER : D’accord. Les avez-vous approchés en ayant un plan?
+M. GEORGES : Un de mes amis les a présentés, et je les ai ensuite approchés. Ils sont prêts à m’aider pour un emploi à temps partiel.
+Me VANIER : Pouvez-vous me dire ce qui a été convenu?
+M. GEORGES : Je devais faire mes propres affaires. Ils devaient me donner une commission. Tel est l’entente.
+Me VANIER : La répartition de la commission a-t-elle fait l’objet de nombreuses négociations?
+M. GEORGES : Ils me donnent 70 % de la commission, et je suis satisfait pour ça[89].
+[100] Lors de son témoignage, Titus a mentionné qu’il n’était pas un employé de Skylight, mais il a ensuite dit qu’il n’était qu’un employé à temps partiel[90]. Ces déclarations sont quelque peu déroutantes, car elles semblent indiquer que Titus n’était peut-être pas sûr de son statut ou, plus probablement (compte tenu des difficultés linguistiques qu’il rencontrait), qu’il n’avait peut-être pas pleinement compris la signification des termes « entrepreneur » et « employé »[91]. Néanmoins, malgré l’existence d’un soupçon d’ambiguïté, il semble que, dans l’ensemble, Skylight et Titus aient compris mutuellement que Titus travaillait pour Skylight en tant qu’entrepreneur indépendant et non en tant qu’employé.
+[101] En outre, je crois comprendre que l’agente des décisions et l’agente des appels ont reconnu que Skylight et Titus avaient comme intention que Titus travaille en tant qu’entrepreneur indépendant[92].
+(2) Contrôle [102] Lors de son témoignage, Titus a indiqué qu’il ne tenait pas à gagner beaucoup d’argent, mais qu’il souhaitait travailler à temps partiel dans l’industrie du voyage[93]. Titus a expliqué qu’il entretenait certaines relations grâce à son appartenance religieuse et qu’il avait établi des relations d’affaires grâce aux amitiés qu’il avait nouées dans le cadre de ses activités au sein de son église. Titus ne faisait pas de publicité de façon active. Il trouvait plutôt de nouveaux clients grâce au bouche-à-oreille et à l’apport d’autres clients satisfaits. Titus a expliqué qu’il beaucoup de clients réguliers et de longue date[94].
+[103] Selvy a confirmé qu’il n’existait aucune interdiction légale empêchant Titus de travailler pour quelqu’un d’autre. En d’autres termes, il était autorisé à travailler pour d’autres personnes[95]. Titus a assuré qu’il comprenait qu’il avait la possibilité de travailler pour d’autres agences de voyages que Skylight, mais que cela ne l’intéressait pas[96].
+[104] Titus effectuait la quasi-totalité de son travail à partir de son domicile. Il ne se rendait au bureau que pour déposer ses factures bihebdomadaires et, occasionnellement, pour rencontrer le personnel de Skylight ou les représentants des compagnies aériennes[97].
+[105] Titus fixait ses propres horaires, avait ses propres clients et travaillait quand il le souhaitait[98]. Titus n’avait pas à se rapporter à Skylight, sauf lorsqu’il présentait ses factures pour obtenir les commissions qu’il avait gagnées[99].
+[106] Titus n’avait pas d’horaire fixe à respecter pour le travail; il pouvait prendre des congés de maladie ou des vacances quand il le souhaitait, ou lorsqu’il en avait besoin[100]. Titus prévenait Skylight lorsqu’il partait en vacances pour une période prolongée[101].
+[107] Skylight a permis à Titus de choisir le titre qu’il souhaitait utiliser dans le cadre de ses fonctions auprès de Skylight. Il a choisi le titre de [traduction] « directeur des ventes »[102].
+[108] Titus a expliqué la manière typique dont ses clients faisaient appel à ses services. En général, ils lui téléphonaient, lui expliquaient qu’ils souhaitaient planifier un voyage et lui en donnaient les détails. Souvent, ils avaient déjà déterminé le prix du vol qu’ils souhaitent prendre. Titus procédait à la réservation du vol et en envoyait les détails à un groupeur, qui émettait ensuite les billets et les lui envoyait par courrier électronique. Après quoi, Titus il transmettait les billets à ses clients. Titus a expliqué qu’environ 90 % de ses clients payaient leurs vols avec une carte de crédit et que leurs numéros de cartes étaient introduits dans le système SABRE au cours de la procédure de réservation. L’ensemble du processus se déroulait sans qu’il soit nécessaire que Titus soit en présence de ses clients ou interagisse avec Skylight, si ce n’est en utilisant le mot de passe fourni par Skylight pour accéder au système SABRE. Une fois la réservation effectuée et les billets émis, Titus envoyait une facture à Skylight pour lui facturer les 70 % de la commission qui devait lui être versée par la compagnie aérienne[103].
+[109] Skylight n’avait pas d’attentes financières à l’égard de Titus (si ce n’est de percevoir les 30 % des commissions gagnées par Titus qui lui revenaient). Skylight n’imposait pas d’objectifs financiers, d’objectifs ou de critères de vente à Titus, et ne procédait pas non plus à des évaluations des performances de Titus[104].
+[110] Les éléments de preuve indiquent que Skylight n’exerçait pas un contrôle sur Titus. Ce facteur pointe fortement vers le statut d’entrepreneur indépendant.
+(3) Matériel et équipement [111] Skylight a fourni à Titus un accès à SABRE, des cartes de visite et une adresse électronique. Titus travaillait principalement depuis son domicile. Titus devait fournir son propre ordinateur, son téléphone, son mobilier de bureau (qui se trouvait à son domicile) et son véhicule.
+[112] Titus n’a pas eu à effectuer de paiements à Skylight pour l’utilisation de SABRE, de son adresse électronique ou de ses cartes de visite. Au contraire, la compensation versée à Skylight pour ces éléments provenait des 30 % des commissions gagnées par Titus qui lui revenaient[105].
+[113] Skylight n’a pas fourni à Titus de fournitures de bureau[106].
+[114] Bien que ce facteur pointe dans les deux directions, il penche à mon avis en faveur du statut d’entrepreneur.
+(4) Embauche d’assistants [115] Titus a avancé qu’il ne pouvait pas confier son travail à un tiers en sous-traitance, ni embaucher quelqu’un pour l’aider dans son travail[107].
+[116] Ce facteur pointe vers l’emploi.
+(5) Risque de perte [117] Comme indiqué ci-dessus, Titus a engagé des dépenses liées à son travail, car il devait fournir son propre ordinateur portable, son téléphone portable, son mobilier de bureau et ses fournitures de bureau.
+[118] Titus a également dû payer les frais pour l’examen du TICO, qu’il a passé alors qu’il venait de commencer à travailler pour Skylight. Ces frais ne lui ont pas été remboursés par Skylight[108].
+[119] Étant donné que Titus était tenu de payer les frais susmentionnés et qu’il était possible que, certains mois ou certaines années, ses frais dépassent ses revenus pour cette même période, il courait un risque de perte. Cet élément plaide en faveur d’un contrat indépendant.
+(6) Responsabilité en matière de mises de fonds et de gestion [120] Ce facteur n’a pas été abordé lors de l’interrogatoire principal et du contre-interrogatoire de Titus. Ce facteur est inapplicable.
+(7) Possibilité de tirer un profit [121] Bien que Titus n’ait pas fait de publicité dans les médias imprimés ou numériques, il a travaillé dur pour développer sa clientèle. Il trouvait ses clients principalement par le biais de contacts personnels et en entretenant de bonnes relations avec ses parents, ses amis, les membres de son église et d’autres personnes avec lesquelles il était en contact. Titus fréquentait régulièrement trois congrégations religieuses à Toronto et une quatrième à Niagara. Il se liait d’amitié avec les personnes qu’il rencontrait, organisait des voyages pour elles; ces personnes parlaient ensuite de ses services de voyage à leurs connaissances[109]. Titus a créé des contacts avec ses clients lui-même, et non par l’intermédiaire de Skylight[110]. Titus tenait à jour une liste manuscrite de ses clients (il s’agissait en fait d’un livre dans lequel il consignait les informations relatives à ses clients)[111], qu’il aurait pu emporter avec lui s’il avait quitté Skylight[112].
+[122] Titus a expliqué que dans d’autres relations d’entrepreneur dont il avait connaissance, certaines agences de voyages partageaient les commissions avec leurs entrepreneurs selon un ratio de 50-50 % ou de 60-40 % (en faveur de l’entrepreneur)[113]. Toutefois, dans son cas, Titus a compris qu’il avait droit à 70 % des commissions qu’il générait, tandis que Skylight en recevait 30 %[114]. Le fait que le ratio de partage des commissions applicable à Titus était plus avantageux pour lui que le ratio offert dans de nombreuses autres positions, et le fait que le montant des commissions perçues dépendait du temps et des efforts qu’il consacrait au développement de sa clientèle et à d’autres aspects de son travail, indiquent qu’il avait la possibilité de tirer un profit.
+[123] Ce facteur pointe fortement vers un statut d’entrepreneur.
+(8) Apprécier, pondérer et résoudre [124] En résumé, les facteurs relatifs au contrôle, au risque de perte et à la possibilité de tirer profit penchent suggèrent fortement l’existence d’une relation d’entrepreneur indépendant entre Skylight et Titus. Le facteur relatif à l’embauche d’assistants indique qu’il existait une relation employeur-employé entre Skylight et Titus. Bien que le facteur relatif au matériel et à l’équipement pointe dans les deux directions, il penche en faveur du statut d’entrepreneur. Le facteur relatif à la responsabilité en matière de mises de fonds et de gestion n’est pas applicable dans cette situation.
+[125] En me basant sur mon examen des facteurs susmentionnés, je conclus que, dans l’ensemble, ces facteurs soutiennent la position de Skylight et de Titus, c’est-à-dire que ces facteurs sont compatibles avec la compréhension mutuelle selon lequel Titus travaillait pour Skylight en tant qu’entrepreneur indépendant et non en tant qu’employé. En outre, même s’il y avait un certain flou concernant la compréhension par Titus de sa relation avec Skylight, tout bien considéré, les facteurs décrits dans les arrêts Sagaz et Wiebe Door penchent en faveur du statut d’entrepreneur. Par conséquent, au cours de la période visée, Titus a exercé un travail auprès de Skylight qui ne constituait ni un emploi assurable, ni un emploi ouvrant droit à pension.
+VI. CONCLUSION
+[126] Les appels sont accueillis; les cotisations concernant Suresh (qui font l’objet des appels no 2019-443(EI) et no 2019-441(CPP)) sont annulées; les cotisations concernant Titus (qui font l’objet des appels no 2019-450(EI) et no 2019-451(CPP)) sont annulées; les cotisations concernant Skylight (qui font l’objet des appels no 2019-454(EI) et no 2019-456(CPP)) sont annulées et sont renvoyées au ministre pour réexamen et nouvelle cotisation, au motif que, pendant la période visée :
+(a)ni Suresh ni Titus n’exerçaient un emploi assurable ou ouvrant droit à pension auprès de Skylight;
+(b)Selvy occupait un emploi ouvrant droit à pension, mais non assurable, auprès de Skylight;
+(c)Sheela et Akhill occupaient un emploi à la fois assurable et ouvrant droit à pension auprès de Skylight.
+[127] Étant donné que ni les règles de procédure de la Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance-emploi ni les Règles de procédure de la Cour canadienne de l’impôt à l’égard du Régime de pensions du Canada ne prévoient de dépens, je ne rendrai aucune décision et n’adjugerai aucuns dépens en ce qui concerne les présents appels.
+[128] Six avis d’appel faisaient l’objet de l’instruction, à savoir un avis d’appel concernant l’AE et un avis d’appel concernant le RPC pour les appelants Skylight, Suresh et Titus. Ces avis d’appel ont été rédigés par un agent, au nom des appelants, avant que ceux-ci n’aient retenu les services d’un avocat.
+[129] Selon la description de la réparation demandée, il était allégué dans chacun des six avis d’appel que les droits des appelants avaient été atteints par la conduite d’un employé désigné de l’ARC. La Cour était ainsi priée de leur accorder des dommages-intérêts au détriment du ministre pour la conduite déraisonnable de cet employé. L’octroi d’une telle réparation ne relève pas de la compétence de notre Cour; par conséquent, je fais abstraction de cette demande particulière en réparation. Bien que ce type de réparation ne relève pas de ma compétence, et malgré les lacunes des différents rapports préparés par les agentes (comme expliqué ci-dessus), je souhaite noter que j’ai constaté que l’agente des décisions et l’agente des appels se sont montrées courtoises et polies, de même que sincères, respectueuses et modérées dans la manière dont elles ont abordé les tâches liées à leur emploi. Ces commentaires ne sont destinés qu’à exprimer mon impression de l’agente des décisions et de l’agente des appels relativement à leur comparution en tant que témoins dans l’instruction de ces appels. Si les appelants décident d’aller de l’avant et de présenter leur demande de dommages-intérêts devant une Cour ayant la compétence nécessaire pour accorder une telle réparation, les commentaires que j’exprime dans le présent paragraphe ne doivent pas être interprétés comme traitant de quelque manière que ce soit des preuves ou des questions susceptibles d’être soumises à cette cour.
+Signé à Ottawa, Canada, ce 28e jour de février 2024.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+RÉFÉRENCE :
+2024 CCI 26
+Nos DES DOSSIERS DE LA COUR :
+2019-454(EI); 2019-456(CPP); 2019-443(EI); 2019-441(CPP); 2019-450(EI); et 2019-451(CPP)
+INTITULÉ :
+SKYLIGHT TRAVEL & TOURS INC. c. LE MINISTRE DU REVENU NATIONAL
+SURESH KUMAR ARAVINDAKSHAN c. LE MINISTRE DU REVENU NATIONAL
+TITUS GEORGE c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATES DE L’AUDIENCE :
+20 octobre 2021 et 26 et 27 avril 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 28 février 2024
+COMPARUTIONS :
+Avocat des appelants :
+Me Rod Vanier
+Avocate de l’intimé :
+Me Dina Elleithy
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Cabinet :
+Me Rod Vanier Vanier & Associates
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Loi sur l’assurance-emploi, L.C. 1996, ch. 23, telle que modifiée.
+[2] Régime de pensions du Canada, L.R.C. 1985, ch. C‑8, tel que modifié.
+[3] Transcription, vol. 1, p. 8, lignes 2‑3. Le nom complet de Selvy est Meena Selvy Thomas. Au cours de l’audience, certains témoins ont parfois désigné Selvy par son prénom, c’est-à-dire Meena.
+[4] Transcription, vol. 1, p. 8, lignes 2‑4.
+[5] Transcription, vol. 1, p. 83, lignes 1‑6; et pièce R‑4, p. 2 dans le document particulier, ou p. 42 dans le recueil de documents de l’intimé.
+[6] Voir les pièces R‑4 et R‑5.
+[7] Transcription, vol. 2, p. 82, ligne 4 à p. 83, ligne 27.
+[8] Le mot « SABRE » est un acronyme pour « Semi-automated Business Research Environment » et fait référence au système informatique de réservation de billets d’avion qui est utilisé par de nombreuses agences de voyages.
+[9] Pièce A-1, onglet 1.
+[10] Pièce A-2.
+[11] Transcription, vol. 1, p. 201, ligne 20 à p. 202, ligne 14.
+[12] Transcription, vol. 1, p. 211, ligne 14 à p. 212, ligne 12.
+[13] Pièce A-1, onglet 1.
+[14] Pièce A-2.
+[15] Voir l’avis d’appel de Skylight concernant l’AE, par. 6, et l’avis d’appel de Skylight concernant le RPC, par. 6. L’avocate du ministre n’a pas indiqué à quel avis d’appel elle faisait référence; toutefois, je crois qu’il s’agit probablement de l’un ou l’autre des deux avis d’appel décrits dans la présente note de bas de page, voire des deux. L’avocate du ministre a également soumis que les témoins de l’ARC déclareraient probablement que les appelants avaient dit [traduction] « qu’il n’y avait eu qu’une entente verbale et pas d’entente écrite ». Voir Transcription, vol. 1, p. 5, lignes 19‑24.
+[16] Transcription, vol. 1, p. 61, ligne 4 à p. 64, ligne 8.
+[17] Pièce R‑2, p. 1, 3, 6 et 7; pièce R‑3, p. 1, 3, 6 et 7; pièce R‑5, p. 8 et 10.
+[18] Par exemple, lorsque Suresh a déclaré lors de l’interrogatoire principal qu’il était venu au Canada en 2015, pour déclarer lors du contre-interrogatoire qu’il était venu en 2010; aussi, lorsque Selvy, Suresh et Titus ont parlé des différents emplacements des locaux de Skylight.
+[19] Pièce R‑2.
+[20] Pièce R‑3.
+[21] Transcription, vol. 2, p. 153, ligne 25 à p. 154, ligne 8.
+[22] Pièce R‑3, p. 3.
+[23] Pièce R‑2, p. 4.
+[24] Transcription, vol. 2, p. 153, ligne 25 à p. 155, ligne 8.
+[25] Transcription, vol. 2, p. 145, ligne 22 à p. 146, ligne 7.
+[26] Transcription, vol. 2, p. 144, lignes 24‑27. Voir aussi p. 145, ligne 4 à p. 146, ligne 13. Ce qui est intéressant à propos de ce commentaire, c’est que, bien que l’agente des décisions se soit efforcée de montrer qu’elle se souvenait d’une conversation en particulier, son commentaire sur « le monsieur qui ricane » semble avoir été fait en référence au résumé de sa conversation téléphonique avec Titus, alors que la citation qui lui a été lue par l’avocate du ministre (voir Transcription, vol. 2, p. 141, ligne 8 à p. 146, ligne 5) était tirée du résumé de sa conversation téléphonique avec Suresh.
+[27] Pièce R‑3, p. 5.
+[28] Transcription, vol. 2, p. 145, ligne 7 à p. 146, ligne 7.
+[29] Pièce R‑2, p. 5.
+[30] Transcription, vol. 2, p. 174, lignes 17‑19.
+[31] Voir l’avant-dernière ligne de la déclaration citée au paragraphe 47 ci-dessus.
+[32] Transcription, vol. 2, p. 175, lignes 2‑7.
+[33] Pièce R‑4.
+[34] Pièce R‑5.
+[35] Pièce R-5, p. 14 (p. 58 derrière l’onglet 11 du recueil de documents de l’intimé).
+[36] Transcription, vol. 1, p. 112, ligne 22 à p. 113, ligne 4.
+[37] L’alinéa 5(2)b) de la LAE prévoit que « [n]’est pas un emploi assurable [...] l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale ».
+[38] Transcription, vol. 1, p. 113, ligne 5‑7; et p. 144, lignes 11‑14.
+[39] Avis d’appel dans le dossier d’appel no 2019-454(EI), al. 4b).
+[40] Transcription, vol. 1, p. 132, lignes 1‑3; et p. 144, ligne11‑14.
+[41] Transcription, vol. 1, p. 132, lignes 1‑4.
+[42] 1392644 Ontario Inc., s/n Connor Homes c. M.R.N., 2013 CAF 85.
+[43] 1671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 RCS 983, 2001 CSC 59; Wiebe Door Services Ltd. c. MNR, [1986] 3 CF 553, [1986] 2 CTC 200, 87 DTC 5025 (CAF).
+[44] Voir Sagaz, précité à la note 43, par. 47.
+[45] DHL Express(Canada) Ltd. c. M.R.N., 2005 CCI 178, par. 32; Dynamex Canada Corp. c. M.R.N., 2008 CCI 71, par. 19; Med Express Inc. c. M.R.N., 2021 CCI 8, par. 13-14; Marbry Distributers Ltd. v. Avrecan International Inc.,1999 BCCA 172, par. 19; Glimhagen v. GWR Resources Inc., 2017 BCSC 761, par. 44; TCF Ventures Corp. v. The Cambie Malone's Corporation, 2016 BCSC 1521, par. 53; conf. en partie dans 2017 BCCA 129; Pasche v. MDE Enterprises Ltd. et al., 2018 BCSC 701.
+[46] Marbry Distributers, précité à la note 45, par. 19 et 46; McKee v. Reid's Heritage Homes Ltd, 2009 ONCA 916, par. 30 et 32; Jacks v. Victoria Amateur Swimming Club et al., 2005 BCSC 778, par. 12; TCF Ventures, précité à la note 45, (BCSC) par. 53 et (BCCA) par. 1-2 et 10; Pasche, précité à la note 45, par. 104, 106-107 et 110.
+[47] McKee, précité à la note 46, par. 32.
+[48] Pièce A-1, onglet 1.
+[49] Pièce R‑2, p. 1, 3, 6 et 7; et pièce R‑5, p. 8 et 10.
+[50] Transcription, vol. 1, p. 91, lignes 2‑13.
+[51] Transcription, vol. 1, p. 167, ligne 28 à p. 168, ligne 17; vol. 2, p. 66, ligne 26 à p. 67, ligne 11; et p. 67, ligne 20 à p. 68, ligne 1.
+[52] Transcription, vol. 2, p. 24, lignes 10‑24; p. 54, lignes 14‑26; p. 56, lignes 1‑4; p. 68, lignes 16‑20; et p. 109, ligne 1 à p. 110, ligne 9.
+[53] Transcription, vol. 1, p. 92, lignes 15‑27.
+[54] Transcription, vol. 1, p. 140, ligne 25 à p. 141, ligne 19.
+[55] Transcription, vol. 1, p. 180, ligne 25 à p. 181, ligne 16.
+[56] Transcription, vol. 1, p. 180, ligne 25 à p. 181, ligne 16; et vol. 2, p. 115, ligne 9 à p. 116, ligne 14.
+[57] Transcription, vol. 2, p. 17, ligne 12 à p. 18, ligne 13; p. 63, lignes 24‑27; et p. 71, lignes 22‑28.
+[58] Transcription, vol. 1, p. 117, ligne 16 à p. 118, ligne 25.
+[59] Transcription, vol. 2, p. 24, ligne 23 à p. 25, ligne 13; et p. 55, lignes 12‑22.
+[60] Transcription, vol. 1, p. 179, ligne 13 à p. 180, ligne 11; et vol. 2, p. 27, ligne 26 à p. 28, ligne 5; et p. 89, lignes 2‑5.
+[61] Transcription, vol. 2, p. 32, ligne 11 à p. 33, ligne 5; p. 56, lignes 13‑14; et p. 99, ligne 1 à p. 100, ligne 25.
+[62] Transcription, vol. 1, p. 143, ligne 17 à p. 145, ligne 3; et vol. 2, p. 16, ligne 13 à p. 17, ligne 11; p. 33, lignes 6‑24; p. 67, lignes 12‑19; p. 68, lignes 2‑10; et p. 109, ligne 1 à p. 110, ligne 10.
+[63] Transcription, vol. 2, p. 29, ligne 21 à p. 30, ligne 11; et p. 87, ligne 25 à p. 89, ligne 1.
+[64] Transcription, vol. 2, p. 32, ligne 11 à p. 33, ligne 5; p. 33, ligne 25 à p. 34, ligne 19; p. 56, lignes 13‑14 & 25‑26; p. 68, lignes 11‑15; et p. 99, ligne 1 à p. 100, ligne 25.
+[65] Transcription, vol. 1, p. 80, lignes 8‑22; et p. 81, ligne 5 à p. 82, ligne 10.
+[66] Transcription, vol. 2, p. 26, lignes 7‑14; p. 27, lignes 22‑25; p. 56, lignes 8‑12; p. 71, lignes 15‑21; p. 79, ligne 27 à p. 80, ligne 19; et p. 112, lignes 11‑13.
+[67] Transcription, vol. 1, p. 147, lignes 12‑18; et vol. 2, p. 30, ligne 12 à p. 31, ligne 20.
+[68] Transcription, vol. 1, p. 174, lignes 3‑27.
+[69] Transcription, vol. 1, p. 101, ligne 27 à p. 102, ligne 26; p. 174, lignes 10‑12; vol. 2, p. 57, lignes 6‑15; et p. 100, ligne 26 à p. 102, ligne 25.
+[70] Transcription, vol. 1, p. 125, ligne 14 à p. 126, ligne 9.
+[71] Transcription, vol. 2, p. 59, ligne 25 à p. 60, ligne 15.
+[72] Transcription, vol. 2, p. 10, ligne 22 à p. 11, ligne 11.
+[73] Transcription, vol. 2, p. 91, ligne 28 à p. 92, ligne 28.
+[74] Transcription, vol. 2, p. 61, lignes 21‑25.
+[75] Transcription, vol. 1, p. 174, ligne 28 à p. 176, ligne 12.
+[76] Transcription, vol. 1, p. 117, ligne 16 à p. 118, ligne 25.
+[77] Transcription, vol. 2, p. 22, lignes 2‑25.
+[78] Transcription, vol. 2, p. 22, ligne 27 à p. 23, ligne 21.
+[79] Transcription, vol. 1, p. 166, ligne 25 à p. 167, ligne 1; et vol. 2, p. 55, lignes 7‑11.
+[80] Transcription, vol. 2, p. 82, ligne 4 à p. 86, ligne 3.
+[81] Transcription, vol. 2, p. 102, ligne 26 à p. 103, ligne 14.
+[82] Transcription, vol. 2, p. 86, lignes 4‑20.
+[83] Transcription, vol. 1, p. 170, ligne 21 à p. 171, ligne 7.
+[84] Transcription, vol. 2, p. 86, ligne 24 à p. 87, ligne 7.
+[85] Transcription, vol. 1, p. 184, lignes 9‑19.
+[86] Transcription, vol. 2, p. 122, lignes 24‑28.
+[87] Pièce A-2, dont une partie est citée au paragraphe 24 ci-dessus.
+[88] Transcription, vol. 1, p. 205, lignes 19‑27.
+[89] Transcription, vol. 1, p. 191, ligne 13 à p. 192, ligne 8. Le passage ci-dessus illustre d’ailleurs la remarque faite précédemment sur les difficultés rencontrées par Titus lorsqu’il communique en anglais. Il pouvait comprendre et se faire comprendre, mais avec une certaine difficulté.
+[90] Transcription, vol. 1, p. 225, lignes 10‑20.
+[91] Transcription, vol. 1, p. 205, lignes 19‑27; p. 223, lignes 3‑15; et p. 224, ligne 23 à p. 255, ligne 20.
+[92] Pièce R‑3, p. 1, 3, 6 et 7; et pièce R‑5, p. 8 et 10.
+[93] Transcription, vol. 1, p. 230, lignes 12‑24.
+[94] Transcription, vol. 1, p. 192, ligne 25 à p. 193, ligne 25.
+[95] Transcription, vol. 1, p. 93, lignes 2‑10.
+[96] Transcription, vol. 1, p. 230, lignes 12‑24.
+[97] Transcription, vol. 1, p. 202, ligne 15 à p. 203, ligne 14; et p. 204, lignes 4‑12.
+[98] Transcription, vol. 1, p. 158, ligne 3 à p. 159, ligne 20; et p. 207, ligne 22 à p. 208, ligne 6.
+[99] Ibid.
+[100] Transcription, vol. 1, p. 201, ligne 20 à p. 202, ligne 3.
+[101] Transcription, vol. 1, p. 92, lignes 15‑17.
+[102] Transcription, vol. 1, p. 178, ligne 28 à p. 180, ligne 11.
+[103] Transcription, vol. 1, p. 194, ligne 2 à p. 195, ligne 5. Comme indiqué ci-dessus, Titus n’effectuait pas de réservation de forfaits voyages. Il ne réservait que des vols.
+[104] Transcription, vol. 1, p. 202, lignes 4‑14.
+[105] Transcription, vol. 1, p. 174, lignes 10‑27; p. 212, lignes 5 à p. 213, ligne 11; p. 230, lignes 25‑28; et p. 231, lignes 7 à p. 232, ligne 9.
+[106] Transcription, vol. 1, p. 211, ligne 28 à p. 212, ligne 1.
+[107] Transcription, vol. 1, p. 214, lignes 12‑24.
+[108] Transcription, vol. 1, p. 199, ligne 2 à p. 201, ligne 4.
+[109] Transcription, vol. 1, p. 192, ligne 25 à p. 193, ligne 25.
+[110] Transcription, vol. 1, p. 217, lignes 14‑20.
+[111] Transcription, vol. 1, p. 215, lignes 1‑15.
+[112] Transcription, vol. 1, p. 170, ligne 17 à p. 171, ligne 7.
+[113] Transcription, vol. 1, p. 210, lignes 2‑9.
+[114] Transcription, vol. 1, p. 192, lignes 3‑8.

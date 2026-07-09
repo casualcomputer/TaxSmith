@@ -1,0 +1,169 @@
+---
+title: "Gervais c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28659/index.do"
+last_modified: "2008-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 190"
+citation2: ""
+neutral_citation: "2008 TCC 190"
+decision_date: "2008-04-14"
+language: "en"
+item_id: "28659"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1137
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:20:47.619000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2394ee725562e7e91bd6a13a15a93d57137d4ecf8b06eccc974829b87e3b5b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gervais c. La Reine
+
+- Citation: 2008 TCC 190
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1137, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gervais c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-14
+Neutral citation
+2008 TCC 190
+File numbers
+2007-3558(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3558(IT)I
+BETWEEN:
+DIANE GERVAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+_________________________________________________________
+Appeal heard on March 14, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances
+Counsel for the Appellant:
+Gaston Veilleux
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment pursuant to the Income Tax Act for the 2003, 2004 and 2005 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of May 2008.
+Carole Chamberlin, Translator
+Citation: 2008TCC190
+Date: 20080414
+Docket: 2007-3558(IT)I
+BETWEEN:
+DIANE GERVAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] By notice of redetermination dated October 20, 2006, the Minister of National Revenue (the "Minister") revised the Appellant's Child Tax Benefits and determined that the Appellant had received overpayments of $2,612.87 for the period of July 2004 to June 2005 in respect of the 2003 base year, $4,207.81 for the period of July 2005 to June 2006 in respect of the 2004 base year, and $1,023.07 for the period of July 2006 to September 2006 in respect of the 2005 base year. By notice of redetermination dated October 6, 2006, the Minister also revised the Appellant's Goods and Services Tax Credit and determined that she had received overpayments of $342 for the period of July 2004 to April 2005 in respect of the 2003 taxation year, $347 for the period of July 2005 to April 2006 in respect of the 2004 taxation year, and $1,778 for the period of July 2006 to October 2006 in respect of the 2005 taxation year. Finally, by notice of redetermination dated October 27, 2006, the Minister revised the Appellant's entitlement to the Energy Cost Benefit and determined that she had received an overpayment of $250 in respect of the 2004 base year. The Appellant filed an appeal from these determinations under the informal procedure.
+[2] In order to establish and confirm the notices of determination with regard to the Child Tax Benefits for the 2003, 2004 and 2005 base years, the Goods and Services Tax Credit for the 2003, 2004 and 2005 taxation years, and the Energy Cost Benefit for the 2004 base year, the Minister relied on the following assumptions of fact:
+(a) The Appellant is the mother of Maxime Gervais, born August 1, 1988, and Pamela Rochefort, born December 28, 1990;
+(b) Cécile Rochefort is the grandmother of Maxime and Pamela;
+(c) During the periods at issue, Maxime and Pamela were residing with Cécile Rochefort, who primarily fulfilled the responsibility for the children's care and upbringing.
+[3] The issue is basically whether, during the periods concerned, Maxime and Pamela were residing with the Appellant and whether she was the individual primarily responsible for the care and upbringing of the children.
+[4] The Appellant, Johanne Gervais (the Appellant's sister), Pierrette Gervais (the Appellant's mother) and Pamela (the Appellant's daughter) testified in support of the Appellant's position. Cécile Rochefort (grandmother to Maxime and Pamela), Philippe Martin (a neighbour of Cécile Rochefort), Richard Marcil (a next-door neighbour of Cécile Rochefort) and Marc Roy (Cécile Rochefort's son-in-law) testified in support of the Respondent's position.
+Law
+[5] At the time in question, the definition of "eligible individual" in section 122.6 of the Income Tax Act (the "Act") read as follows:
+“eligible individual” in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[6] For the purposes of paragraphs (g) and (h) of the definition of "eligible individual" in section 122.6 of the Act, sections 6301 and 6302 of Part LXIII of the Income Tax Regulations (the "Regulations") make the following provisions:
+NON-APPLICATION OF PRESUMPTION
+6301. (1) For the purposes of paragraph (g) of the definition “eligible individual” in section 122.6 of the Act, the presumption referred to in paragraph (f) of that definition does not apply in the circumstances where
+(a) the female parent of the qualified dependant declares in writing to the Minister that the male parent, with whom she resides, is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of each of the qualified dependants who reside with both parents;
+(b) the female parent is a qualified dependant of an eligible individual and each of them files a notice with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant;
+(c) there is more than one female parent of the qualified dependant who resides with the qualified dependant and each female parent files a notice with the Minister under subsection 122.62(1) of the Act in respect of the qualified dependant; or
+(d) more than one notice is filed with the Minister under subsection 122.62(1) of the Act in respect of the same qualified dependant who resides with each of the persons filing the notices if such persons live at different locations.
+(2) For greater certainty, a person who files a notice referred to in paragraph (1)(b), (c) or (d) includes a person who is not required under subsection 122.62(3) of the Act to file such a notice.
+FACTORS
+6302. For the purposes of paragraph (h) of the definition “eligible individual” in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[7] What is of interest here relates to the condition set out in paragraph (a) of the definition of "eligible individual", that is, that the person must reside with the qualified dependant, and the condition set out in paragraph (b) of the definition of "eligible individual", that is, that the parent of the qualified dependant must be the one who primarily fulfils the responsibility for the care and upbringing of the qualified dependant, taking into account the factors set out in section 6302 of the Regulations.
+Analysis and conclusion
+[8] Paragraph (a) of the definition of "eligible individual" in section 122.6 of the Act requires that the "eligible individual" reside with the dependant. The residence factor is therefore essential for obtaining the credit. In the Court's view, the expression "reside with" as used in the definition of "eligible individual" in section 122.6 of the Act means to ordinarily [TRANSLATION] "live in the same house". The first question to be addressed, then, is this: was the Appellant ordinarily living in the same house as Pamela and Maxime? The Court emphasizes that the Appellant had to demonstrate to it, on a balance of probabilities, that this was the case during the periods at issue. The Appellant's evidence in this regard was based on her testimony, which was supported by the testimony of her mother, sister and daughter Pamela. The Court notes as well that the Appellant's testimony was also supported by documentary evidence (Exhibit A-1), which tended to demonstrate that correspondence relating to Pamela and Maxime was sent to the Appellant's home address. The testimony of the Appellant and of those who testified in support of her position may be summed up as follows: during the periods at issue, Pamela and Maxime were ordinarily living with the Appellant, in her apartment. Pamela and Maxime often went to live with their grandmother during the periods at issue, but not on an ordinary basis. This evidence adduced by the Appellant was contradicted by the testimony of Cécile Rochefort (grandmother of Pamela and Maxime), Philippe Martin (a neighbour of Ms. Rochefort), Richard Marcil (a next-door neighbour of Ms. Rochefort) and Marc Roy (Ms. Rochefort's son-in-law, who was also a next-door neighbour), who basically testified that, during the periods at issue, Pamela and Maxime ordinarily lived with their grandmother, Ms. Rochefort, in her residence during the school year and her mobile home (at a campsite) during the summer.
+[9] The Appellant, who bore the burden of proof, failed to satisfy the Court that she had ordinarily lived in her apartment with her children, Pamela and Maxime, during the periods in question. In this case, the Court had to choose between two conflicting versions of the facts. The Court accepted Cécile Rochefort's version rather than that of the Appellant basically because the only independent witnesses who testified in this matter―witnesses the Court deemed to be highly credible—supported Cécile Rochefort's version of the facts and more or less contradicted the version given by the Appellant. In view of the Court's finding respecting paragraph (a) of the definition of "eligible individual" in section 122.6 of the Act, the Court sees no useful purpose in drawing a conclusion regarding the condition set out in paragraph (b) of that same definition in the same section of the Act.
+[10] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of April 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of May 2008.
+Carole Chamberlin, Translator
+CITATION: 2008TCC190
+COURT FILE NO.: 2007-3558(IT)I
+STYLE OF CAUSE: DIANE GERVAIS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 14, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: April 14, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Gaston Veilleux
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gaston Veilleux
+Firm: Ste-Martine, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

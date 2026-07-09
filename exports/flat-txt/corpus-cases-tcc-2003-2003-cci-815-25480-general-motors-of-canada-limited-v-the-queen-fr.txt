@@ -1,0 +1,332 @@
+Title: General Motors of Canada Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25480/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-815-25480-general-motors-of-canada-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-11-14
+
+# General Motors of Canada Limited v. The Queen
+
+- Citation: 2003 CCI 815
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2358, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+General Motors of Canada Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-14
+Référence neutre
+2003 CCI 815
+Numéro de dossier
+2002-246(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-246(IT)G
+ENTRE :
+GENERAL MOTORS DU CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 janvier 2003 à Toronto (Ontario),
+par l'honorable juge M. A. Mogan
+Comparutions
+Avocats de l'appelante :
+Me Al Meghji et
+Me Gerald Grenon
+Avocats de l'intimée :
+Me Alexandra K. Brown et Me Bobby Sood
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis, sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit :
+1. dans le calcul de son revenu pour l'année d'imposition 1995, l'appelante a droit à la déduction relative au soutien à la valeur résiduelle;
+2. dans le calcul de son revenu pour l'année d'imposition 1995, l'appelante a droit à la déduction relative aux inspections avant livraison;
+3. dans le calcul de son revenu pour l'année d'imposition 1995, l'appelante a droit à une déduction de 444 000 $ relative aux frais de montage pour des prêts;
+4. le montant de 3 120 000 $ réclamé relativement à GM Place constitue des dépenses imputables sur le capital et doit être ajouté à la fraction non amortie du coût en capitaldes biens de catégorie 14;
+5. mais l'appel relatif au fonds spécial canadien de prévoyance est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« M. A. Mogan »
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI815
+Date : 20031114
+Dossier : 2002-246(IT)G
+ENTRE :
+GENERAL MOTORS DU CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] L'appelante est une société canadienne qui se spécialise dans la conception, la fabrication, l'assemblage et la distribution d'automobiles et de camions ainsi que de pièces et accessoires connexes. L'exercice et l'année d'imposition de l'appelante se terminent le 31 décembre de chaque année. Dans le calcul de son revenu pour l'année d'imposition 1995, l'appelante a déduit le montant de 13 834 902 $ ayant trait à un fonds connu sous le nom de Fonds spécial canadien de prévoyance ( « FSCP » ). Par Avis de nouvelle cotisation daté du 22 novembre 2000, le ministre du Revenu national a refusé la déduction de 13 834 902$ en soutenant qu'elle représentait une obligation éventuelle. L'appelante interjette appel à l'encontre de cette nouvelle cotisation. La principale question consiste à savoir si le montant de 13 834 902 $ est déductible dans le calcul du revenu. L'année d'imposition 1995 est la seule année en litige.
+[2] À l'audience, les parties ont déposé sous la cote 1 un relieur contenant un exposé conjoint des faitsainsi que 13 autres documents (onglets 1 à 13) mentionnés dans l'exposé conjoint des faits. Ils ont également convenu que chacune des parties pourrait présenter des éléments de preuve pour compléter tout fait compris dans l'exposé conjoint des faits mais non pas pour les contredire. L'exposé conjoint des faits (lequel comporte 28 paragraphes) est un bon résumé des principaux faits pertinents au litige faisant l'objet de l'appel. Je reproduirai donc l'exposé conjoint des faits mot à mot et, par la suite, je ferai des observations quant aux autres documents qui, à mon avis, sont les plus pertinents.
+[traduction]
+« Fonds spécial canadien de prévoyance »
+1. Tous les trois ans, à partir d'au moins 1984, l'appelante a conclu une convention collective avec le Syndicat national de l'automobile, de l'aérospatiale, du transport et des autres travailleurs et travailleuses du Canada (le « TCA » ).
+2. Chacune des conventions collectives successives de 1984 à 1999 prévoyait que, pour chaque heure supplémentaire travaillée par les employés visés par la convention collective, qui excède 5 p. 100 des heures normales, l'appelante accumulerait une somme précise dans un « Fonds spécial canadien de prévoyance » ( « FSCP » ).
+3. L'appelante et le TCA ont conclu une convention collective le 29 septembre 1993 (la « convention collective de 1993 » ). L'annexe « H » de la convention collective de 1993 prévoyait que le FSCP accumulerait un montant de 2 $ par heure supplémentaire travaillée par tous les employés visés qui excède cinq pour cent (5 p. 100) des heures normales travaillées par chacun des employés visés par la convention collective et calculées sur une moyenne de douze mois. L'onglet 1 est une copie authentique de l'annexe « H » de la convention collective de 1993 « Protocole d'entente visant le Fonds spécial canadien de prévoyance » ( « protocole d'entente » ) daté du 29 septembre 1993. À la fin de l'année d'imposition 1995, le solde des montants accumulés dans le Fonds spécial canadien de prévoyance était de 13 834 902 $.
+Utilisations des fonds
+4. Les montants accumulés dans le FSCP doivent être utilisés pour des fins précises stipulées dans le protocole d'entente. Les montants peuvent également être utilisés pour [traduction] « des initiatives conjointes selon ce que déterminent le président du Syndicat national des TCA et le vice-président et directeur général du personnel » . (Pour avoir des précisions du protocole d'entente, veuillez consulter l'onglet 1.)
+5. Le soutien, au besoin, des [traduction] « Programmes négociés de garderie d'enfants » , du « Régime d'assurance de protection juridique » et le financement du [traduction] « Régime canadien de prestations supplémentaires de chômage » ( « régime canadien de PSC » ), constituent les utilisations précises énoncées dans le protocole d'entente.
+6. Le financement du Régime d'assurance de protection juridique et du régime PSC provient des sources du FSCP et de sources autres que le FSCP (d'autres détails relatifs au financement provenant de sources autres que le FSCP sont fournis ci-dessous).
+7. Les montants accumulés dans le FSCP sont versés au Régime d'assurance de protection juridique et au régime PSC lorsque, par l'application d'une formule, les seuils-limites prévus pour ces deux régimes sont atteints.
+8. Les fonds sont versés au Régime d'assurance de protection juridique, lesquels réduisent le solde du FSCP, uniquement lorsque le financement du Régime d'assurance de protection juridique provenant de sources autres que le FSCP n'est pas suffisant pour payer les prestations prévues au Régime d'assurance de protection juridique. Les fiduciaires du régime effectuent les calculs nécessaires et avisent l'appelante lorsque le Régime d'assurance de protection juridique a besoin de financement.
+9. Les contributions versées au régime PSC provenant du FSCP ne nécessitent pas que le solde du régime PSC soit égal à zéro. Le niveau de contributions que le FSCP doit verser au régime PSC est déterminé par la [traduction] « Base de résiliation en unité de crédit » énoncée au régime PSC. La Base de résiliation en unité de crédit est déterminée tel que cela est énoncé aux pages 58 et 59 de l'onglet 4 joint au présent exposé conjoint des faits partiel. Le service des finances de l'appelante surveille les soldes pertinents et effectue les calculs nécessaires. Les contributions sont versées lorsque le montant de la Base de résiliation en unité de crédit est inférieur au minimum précisé.
+10. Les paiements relativement à la garde d'enfants ne sont pas versés en fonction des seuils-limites prévus. Les programmes de garderie d'enfants sont administrés par le TCA. Lorsque le TCA détermine qu'il existe un besoin de financement précis, il en fait la demande et une discussion peut suivre en vue de s'assurer que l'utilisation respecte le cadre convenu de la garde d'enfants. Le paiement est versé dès que l'appelante est convaincue que l'utilisation fait partie de ce qui a été négocié.
+11. Le FSCP accumule un montant égal à quatre cents et demi par heure normale de travail (0,045 $) pour les activités de garde d'enfants sur lesquelles les parties se sont entendues. Le FSCP représente le seul moyen dont dispose l'appelante pour financer les activités relatives à la garde d'enfants mutuellement convenues. Ces fonds sont versés lorsque le syndicat les demande dans un but précis et que l'utilisation est acceptée comme un emploi convenable pour la garde d'enfants tel que cela est décrit au paragraphe 10 ci-dessus.
+12. Aucuns fonds ne sont déclarés séparément par l'appelante à l'égard de ses obligations découlant de l'annexe « H » au moment de leur accumulation. Les parties au présent litige ne s'entendent pas sur la question de savoir si le solde de 13 834 902 $ du FSCP, à la fin de l'année d'imposition, constitue une écriture comptable qui représente une obligation réelle qui a été engagée et, le cas échéant, si l'obligation est éventuelle.
+13. L'annexe H-1 de la convention collective prévoit que, en cas de conflit entre l'utilisation du total cumulatif du FSCP pour soutenir les activités de garde d'enfants sur lesquelles les parties se sont entendues ou les prestations du Régime d'assurance de protection juridique ou du [traduction] « Régime canadien de prestations supplémentaires de chômage » ( « régime canadien de PSC » ), le total cumulatif serait utilisé en premier pour soutenir les activités de garde d'enfants sur lesquelles les parties se sont entendues et, par la suite pour soutenir le Régime d'assurance de protection juridique. L'onglet 2 est une copie authentique de l'annexe « H-1 » de la convention collective de 1993.
+14. Le Régime d'assurance de protection juridique prévoit des services juridiques personnels précis pour les employés, les retraités et les personnes à charge ayant trait aux testaments et aux successions, aux biens réels, aux droits des locataires, au droit de la famille, au procès civil, au droit pénal et aux lois concernant les véhicules automobiles, au droit de la consommation et au droit concernant les débiteurs ainsi qu'au droit administratif. L'onglet 3 constitue une copie authentique du Régime d'assurance de protection juridique daté du 29 septembre 1993.
+15. Le régime PSC verse des prestations aux employés de l'appelante qui ont été licenciés ou qui sont autrement réduits au chômage dans des circonstances précises. L'onglet 4 constitue une copie authentique de l'accord supplémentaire à la convention collective datée du 29 septembre 1993 qui vise, entre autres choses, le régime PSC, y compris le [traduction] « Régime canadien de prestations supplémentaires de chômage » de la convention collective, produite sous la cote C-1.
+16. Tel que cela est indiqué ci-dessus, le Régime d'assurance de protection juridique est financé par l'appelante par l'intermédiaire du FSCP et au moyen de sources autres que le FSCP. Le financement du Régime d'assurance de protection juridique provenant de sources autres que le FSCP est établi par une formule énoncée à l'article 6 de la pièce F de la convention collective, l'accord supplémentaire visant le Régime d'assurance de protection juridique de TCA-GM, lequel est annexé sous l'onglet 3 du présent exposé conjoint des faits partiel et est abordé davantage à l'annexe H-1 de la convention collective annexée sous l'onglet 2 du présent exposé conjoint des faits partiel. Les modalités du présent accord prévoient que le régime sera régi par une société de fiducie (ou sociétés) à titre de fiduciaire. (En l'espèce, la déduction du financement du Régime d'assurance de protection juridique qui provient de sources autres que le FSCP n'est pas en litige.)
+17. Tel que cela est indiqué ci-dessus, pendant l'année d'imposition en litige, le régime FSCP était également financé par l'appelante tant par l'intermédiaire de sources du FSCP que de sources autres que le FSCP. Les modalités de la convention collective produite sous la cote C, lesquelles ont gouverné le régime PSC pendant les années d'imposition en litige, exigeaient que, dans certaines circonstances, l'appelante verse des fonds au régime du PSC (indépendamment de son obligation découlant des modalités du FSCP) et que le fonds du PSC soit régi par une société de fiducie (ou sociétés) à titre de fiduciaire. (Voir la page 57 de l'onglet 4.) L'appelante finance le régime PSC par des fonds provenant de sources autres que le FSCP conformément aux dispositions énoncées à la page 60 de l'onglet 4 du présent exposé conjoint des faits partiel. (En l'espèce, la déduction du financement du Régime d'assurance de protection juridique qui provient de sources autres que le FSCP n'est pas en litige.)
+18. L'article 5 du protocole d'entente est ainsi rédigé :
+À la fin de la période de la convention collective cadre de 1993, les parties négocieront l'utilité du total cumulatif qui restera dans le Fonds spécial canadien de prévoyance .
+La même modalité (autre que celle de l'année à laquelle la convention collective cadre faisait référence) faisait également partie du protocole d'entente ayant trait au FSCP conclu conjointement avec les conventions collectives de 1984, de 1987, de 1990, de 1996, de 1999 et de 2002. Des copies authentiques de ces protocoles d'entente sont jointes aux onglets 5, 6, 7, 8, 9 et 10 respectivement du présent exposé conjoint des faits partiel.
+19. Le FSCP a été reconduit dans les conventions collectives subséquentes entrant en vigueur en 1996, en 1999 et en 2002. Dans toutes les instances depuis que le FSCP a été établi en 1984, le solde du fonds à la fin de la convention collective a été reporté en vertu de la nouvelle convention collective. Lorsque la négociation collective a lieu, l'utilisation future des montants accumulés dans le FSCP est à discuter.
+20. Par exemple, les conventions collectives de 1996 et de 1999 ont ajouté, aux utilisations du FSCP, le programme de formation de moniteurs (congé d'études payé) du TCA, la recherche, le leadership et l'élaboration des activités du TCA, les programmes et les activités du comité de révision de l'instruction de TCA-GM, le fonds de justice sociale, le fonds des retraités, le fonds des métiers spécialisés, le fonds de bourses d'études pour enfants à charge et le fonds de sensibilisation du personnel médical. Les onglets 8 et 9 respectivement sont des copies authentiques des annexes H et H-1 des conventions collectives de 1996 et de 1999.
+21. Aucune nouvelle utilisation du FSCP n'a été ajoutée en 2002. L'onglet 10 est une copie authentique des annexes H et H-1 de la convention collective de 2002.
+22. Pendant l'année d'imposition 1995, un total de 2 270 817,70 $ a été payé sur le solde du total cumulatif du FSCP, dont 1 650 000 $ relativement à la garde d'enfants et 620 817,70 $ relativement au régime canadien de PSC. L'onglet 11 comprend des copies authentiques des rapports mensuels fournis au TCA par l'appelante portant sur le FSCP au cours de l'année civile 1995. L'appelante a été cotisée au motif que ces montants sont déductibles dans le calcul du revenu pour l'année d'imposition 1995.
+23. Entre la fin de 1995 et le mois de décembre 1999, un total de 19 574 234,78 $ a été payé sur le montant accumulé du FSCP. De ce total, 4 649 840,77 $ ont été versés au Régime d'assurance de protection juridique, 3 348 654 $ ont été versés à la garde d'enfants, 4 698 544,51 $ ont été versés au régime PSC, 2 265 289,16 $ ont été versés au programme du CEP (congé d'études payé), 1 127 805,66 $ ont été versés au comité de révision de l'instruction de TCA-GM et 3 484 100,68 $ ont été versés à l'égard des conditions de santé et de sécurité, de la formation au leadership et des activités de recherche du TCA.
+24. [Il n'existait pas de paragraphe 24 dans l'exposé conjoint des faits.]
+25. L'onglet 12 constitue une annexe qui explique avec exactitude les utilisations des fonds des années 1996, 1997, 1998 et 1999 des montants payés sur le solde enregistré du FSCP à la fin de l'année d'imposition 1995. L'annexe indique que le montant de 13 834 902 $, lequel représente le solde de clôture du compte du FSCP à la fin de l'année d'imposition 1995, a été entièrement versé à la fin de janvier 1999.
+Le traitement fiscal de l'appelante et la nouvelle cotisation établie par le ministre
+26. Chaque année, y compris 1995 et les années suivantes, des montants supplémentaires sont accumulés dans le FCSP et déduits par l'appelante pendant l'année au cours de laquelle un employé de l'appelante travaille les heures supplémentaires associées à ces montants. L'appelante cherche à déduire les montants pendant l'année au cours de laquelle les heures supplémentaires sont travaillées et les montants sont accumulés dans le FSCP. Selon l'intimée, les montants sont déductibles lorsque les paiements relatifs aux objectifs admis sont engagés par soit une demande, soit le résultat précis d'un calcul, et ce, en fonction de l'objectif soutenu.
+27. Le montant de 13 834 902 $ qui figure dans les actes de procédure constitue le solde de clôture du FSCP à la fin de l'année 1995. Le 1er janvier 1995, le solde d'ouverture du FSCP était 4 479 874 $. La façon dont la nouvelle cotisation en litige a été établie consistait à additionner 13 834 902 $, c.-à-d. le solde de clôture du FSCP, au revenu de l'appelante et à déduire le solde d'ouverture au montant de 4 479 874 $ sous la rubrique [traduction] « Écritures contrepassées du fonds canadien de prévoyance » . En ce qui concerne le FSCP, le résultat était un ajout net au revenu d'un montant de 13 834 902 $ - 4 479 874 $ égale 9 355 028 $. L'onglet 13 constitue une copie authentique du T7W-C émis par le ministre du Revenu national conjointement à la cotisation qui fait l'objet de l'appel.
+28. Le montant de 9 355 028 $ (13 834 902 $ moins le solde d'ouverture de 4 479 874 égale 9 355 028 $) représente l'augmentation nette du solde du FSCP pendant l'année d'imposition 1995 et est entièrement attribuable aux heures supplémentaires travaillées au cours de l'année.
+29. Dans sa nouvelle cotisation, le ministre a refusé la déduction de l'appelante relativement au Fonds spécial canadien de prévoyance .
+[3] Le paragraphe 2 de l'exposé conjoint des faits décrit la méthode par laquelle l'appelante accumulait une somme précise dans le FSCP, et le paragraphe 3 indique que, pour la convention collective de 1993, la somme était de 2 $ par heure supplémentaire travaillée par tous les employés visés qui excède 5 p. 100 des heures normales travaillées par tous les employés visés. La convention collective de 1993 était en vigueur de septembre 1993 à septembre 1996. Puisque le montant accumulé au FSCP chaque mois était calculé sur une moyenne mobile de douze mois, le montant accumulé pour un mois donné était en fonction de ce mois et des onze (11) mois précédents. L'onglet 11 de l'exposé conjoint des faits comprend douze (12) rapports mensuels rédigés par l'appelante et envoyés au syndicat ( « TCA » ) et qui concernent le FSCP pour l'année civile 1995. Pour illustrer la façon dont l'appelante a accumulé un montant précis au FSCP pour le mois de janvier 1995, l'extrait suivant est tiré de la première page de l'onglet 11 :
+[traduction]
+Fonds spécial canadien de prévoyance de TCA-GM
+Selon l'annexe « H » de la convention collective cadre
+Mois : janvier 1995
+Période : février 1994 à janvier 1995
+Période cumulative de douze (12) mois
+Moyenne
+mensuelle
+Heures normales de travail
+44 386 576
+3 698 881
+Heures supplémentaires de travail
+8 202 436
+683 536
+5 % des heures normales de travail
+XXX
+184 944
+Heures supplémentaires de travail qui excèdent 5 % des heures normales de travail
+XXX
+498 592
+Taux d'accumulation par heure
+XXX
+2 $
+Accumulation à 2 $, janvier 1995
+XXX
+997 184 $
+[4] Au paragraphe 3 de l'exposé conjoint des faits, les parties ont accepté que le solde des montants accumulés dans le FSCP à la fin de 1995 s'élève à 13 834 902 $. Ce dernier montant est légèrement différent du montant de 13 834 082 $ qui figure dans le formulaire T7W-C de la nouvelle cotisation établie par Revenu Canada figurant à l'onglet 13 de l'exposé conjoint des faits. Selon le relevé mensuel de janvier 1995 figurant à l'onglet 11 de l'exposé conjoint des faits, le solde d'ouverture des montants accumulés dans le FSCP au 1er janvier 1995 était de 4 470 620 $. Encore une fois, ce montant est légèrement différent du montant de 4 479 874 $ qui figure dans le formulaire T7W-C de la nouvelle cotisation établie par Revenu Canada figurant à l'onglet 13 de l'exposé conjoint des faits. Bien que les différences ne soient pas importantes, j'ai tenté de calculer le solde des montants accumulés dans le FSCP à la date du 31 décembre 1995 en me servant uniquement des rapports mensuels figurant à l'onglet 11 de l'exposé conjoint des faits.
+[traduction]
+Solde d'ouverture au 1er janvier 1995
+4 470 620 $
+12 accumulations mensuelles de janvier à décembre 1995
+11 463 857 $
+Total partiel
+15 934 477 $
+Montants payés sur le FSCP de janvier à décembre 1995
+2 270 817 $
+Solde des montants accumulés dans le FSCP au 31 décembre 1995
+13 663 660 $
+[5] Le solde de 13 663 660 $ ci-dessus est conforme au solde de clôture (13 663 665 $) figurant au rapport mensuel de décembre 1995 à l'onglet 11 de l'exposé conjoint des faits. Il existe toutefois un écart entre le solde de clôture de l'exercice ci-dessus et le montant que les parties ont accepté comme solde de clôture de l'exercice :
+[traduction]
+Solde au 1995-12-31 selon le paragraphe 3 de l'exposé conjoint des faits
+13 834 902 $
+Solde au 1995-12-31 selon l'onglet 13 de l'exposé conjoint des faits
+13 663 665 $
+Différence
+171 237 $
+En l'espèce, ce qui est important à la question en litige qui doit être réglée n'est pas différence de 171 237 $ mais plutôt, à mon avis, la méthode utilisée pour calculer le solde de clôture de l'exercice de 13 663 660 $ tel que cela figure au paragraphe 4 ci-dessus.
+[6] Tel que cela est indiqué au paragraphe 3 de l'exposé conjoint des faits, l'annexe « H » de la convention collective de 1993 établit le montant de 2 $ par heure supplémentaire de travail qui excède 5 p. 100 des heures normales de travail comme la seule source des montants accumulés dans le FSCP. L'annexe « H » constitue un code distinct qui précise les sources de financement du FSCP et les utilisations possibles de ces fonds. Puisque l'annexe « H » est court, je le reproduirai dans son entier ci-dessous :
+[traduction]
+ANNEXE « H »
+PROTOCOLE D'ENTENTE
+VISANT LE FONDS SPÉCIAL CANADIEN DE PRÉVOYANCE
+CONCLU ce vingt-neuvième jour de septembre 1993
+ENTRE
+General Motors du Canada Limitée, ci-après « compagnie »
+ET :
+Syndicat national des TCA et ses sections locales no 222, 1973, 199, 303, 1163, 27 et 636, ledit Syndicat national des TCA et lesdits syndicats locaux seront ci-après « syndicat » :
+La compagnie et le syndicat conviennent de ce qui suit :
+1. Le Fonds spécial canadien de prévoyance sera maintenu pendant la durée de la convention collective cadre de 1993.
+2. Le Fonds spécial canadien de prévoyance sera égal à une accumulation par la compagnie de deux dollars (2 $) par heure supplémentaire travaillée par les employés visés qui excède 5 p. 100 (5 %) des heures normales travaillées par les employés visés et calculée sur une moyenne mobile de douze mois.
+3. Pendant la durée de la convention collective cadre de 1993, le Fonds spécial canadien de prévoyance sera utilisé principalement pour soutenir les Programmes négociés de garderie d'enfants, le Régime d'assurance de protection juridique et pour financer le régime PSC, et, par la suite, uniquement au besoin. Il pourra également être utilisé pour financer les initiatives conjointement convenues tel que cela sera déterminé par le président du Syndicat national des TCA et le vice-président et directeur général du personnel. À tout moment, le solde du Fonds spécial canadien de prévoyance doit être égal à l'accumulation cumulative calculée à l'article 2 ci-dessus, moins l'utilisation cumulative calculée dans le présent article 3. L'accumulation et l'utilisation cumulatives devront inclure les soldes reportés des conventions antérieures.
+4. L'utilisation du Fonds du PSC pour soutenir le régime PSC sera déterminée uniquement par le montant de la Base de résiliation en unité de crédit (tel que cela est déterminé, de temps à autre, selon le régime PSC afin de déterminer le taux de résiliation des unités de crédit sur le paiement des prestations régulières en vertu du régime PSC.
+Au cas où le montant de la Base de résiliation en unité de crédit serait autrement inférieur au montant applicable qui nécessiterait une augmentation d'un taux de résiliation en unité de crédit de 3,33 à 5,00 unités pour les employés qui ont une année mais moins de cinq années de service, la compagnie versera chaque semaine des fonds au régime canadien de PSC provenant du solde du Fonds SCP. De tels versements supplémentaires au Fonds SCP représenteront un montant qui, avec le montant régulier des versements effectués par la compagnie au régime canadien de PSC la semaine en question, sera suffisant pour payer toutes les prestations du régime canadien de PSC qui sont dues et payables et afin d'empêcher Base de résiliation en unité de crédit d'être inférieure au montant qui exigerait une augmentation du taux de résiliation décrite ci-dessus. À tout moment où le solde du Fonds SCP serait épuisé, les dispositions normales du régime PSC s'appliqueront.
+5. À la fin de la période de la convention collective cadre de 1993, les parties négocieront l'utilisation de tout montant accumulé qui reste dans le Fonds spécial canadien de prévoyance .
+NOTE: Le soulignement figure réellement à l'annexe « H » pour indiquer les modifications à la convention collective de 1990.
+[7] Le paragraphe 1 de l'annexe « H » exigeait que le solde du FSCP visé par la convention collective de 1990 (au mois de septembre 1993) soit reporté à la convention collective de 1993. Le paragraphe 2 établit le taux d'accumulation à 2 $ par heure supplémentaire de travail selon la formule de 5 p. 100. Le paragraphe 3 décrit la façon dont le FSCP sera utilisé pendant la durée de la convention collective de 1993. Notamment, il sera utilisé principalement pour soutenir (i) les Programmes de garderie d'enfants, (ii) le Régime d'assurance de protection juridique et (iii) le Régime canadien de prestations supplémentaires de chômage (le « régime canadien de PSC » ). Bien que le FSCP puisse être utilisé pour financer des [traduction] « initiatives conjointement convenues » , se lance que détermine un représentant du TCA et un représentant de l'appelante, il n'existe aucun élément de preuve de telles [TRADUCTION] « initiatives convenues » pendant la durée de la convention collective de 1993.
+[8] Afin de donner une meilleure description des trois bénéficiaires principaux du FSCP, je vais regrouper et réviser certains énoncés de l'exposé conjoint des faits (comprenant, dans la marge, le paragraphe qui y correspond) et j'ajouterai deux observations relatives aux onglets 3 et 4 déposés sous la cote 1 :
+[traduction]
+Régime d'assurance de protection juridique
+6. Le financement du Régime d'assurance de protection juridique et du régime PSC provient des sources du FSCP et de sources autres que le FSCP.
+14. Le Régime d'assurance de protection juridique prévoit des services juridiques personnels précis pour les employés, les retraités et les personnes à charge ayant trait aux testaments et aux successions, aux biens réels, aux droits des locataires, au droit de la famille, au procès civil, au droit pénal et aux lois concernant les véhicules automobiles, au droit de la consommation et au droit concernant les débiteurs ainsi qu'au droit administratif.
+16. Le Régime d'assurance de protection juridique est financé par l'appelante par l'intermédiaire du FSCP et au moyen de sources autres que le FSCP. Le financement du Régime d'assurance de protection juridique provenant de sources autres le FSCP est établi par une formule énoncée à l'article 6 de la pièce F de la convention collective.
+Pièce 1, onglet 3
+Selon l'article 6 de la pièce F de la convention collective de 1993, lorsque le Régime d'assurance de protection juridique avait un « excédent de capitalisation » et que le solde du FSCP était supérieur à 3 000 000 $, les paiements versés au régime par l'appelante provenant de sources autres que le FSCP étaient d'environ 0,12 $ pour chacune des heures normales travaillées et, lorsque le régime avait un « excédent de capitalisation » et que le solde du FSCP était inférieure à 3 000 000 $, les paiements étaient d'environ 0,18 $ pour chacune des heures normales travaillées.
+16 Les modalités du présent accord prévoient que le Régime d'assurance de protection juridique sera régi par une société de fiducie (ou sociétés) à titre de fiduciaire.
+8. Les fonds sont versés au Régime d'assurance de protection juridique uniquement lorsque le financement du Régime d'assurance de protection juridique provenant de sources autres que le FSCP n'est pas suffisant pour payer les prestations prévues au Régime d'assurance de protection juridique. Les fiduciaires du régime effectuent les calculs nécessaires et avisent l'appelante lorsque le Régime d'assurance de protection juridique a besoin de financement.
+Régime de prestations supplémentaires de chômage
+15. Le régime PSC verse des prestations aux employés de l'appelante qui ont été licenciés ou qui sont autrement réduits au chômage dans des circonstances précises. L'onglet 4 constitue une copie authentique de l'accord supplémentaire à la convention collective de 1993 qui vise, entre autres choses, le régime PSC.
+17. Pendant l'année d'imposition en litige, le régime PSC était financé par l'appelante tant par l'intermédiaire du FSCP que de fonds provenant de sources autres que le FSCP. Les modalités du régime PSC de la convention collective de 1993 produite sous la cote C, lesquelles ont gouverné le régime PSC pendant les années d'imposition en litige, exigeaient que, dans certaines circonstances, l'appelante verse des fonds au régime PSC (indépendamment de son obligation découlant des modalités du FSCP) et que le régime PSC soit régi par une société de fiducie (ou sociétés) à titre de fiduciaire. L'appelante finance le régime PSC par des fonds provenant de sources autres que le FSCP conformément aux dispositions énoncées à la page 60 de l'onglet 4.
+Pièce 1, onglet 4
+La formule figurant à la page 60 de l'onglet 4 est très complexe, mais le montant versé en 1995 par l'appelante, directement au régime PSC, semble être de l'ordre de 0,26 $ à 0,59 $ par heure normale travaillée avec un taux légèrement plus élevé pour les taux majorés de moitié et les taux doubles.
+9. Les contributions versées au régime PSC provenant du FSCP ne nécessitent pas que le solde du régime canadien de PSC soit égal à zéro. Le niveau de contributions que le FSCP doit verser au régime canadien de PSC est déterminé par la [traduction] « Base de résiliation en unité de crédit » énoncée au régime canadien de PSC. Le service des finances de l'appelante surveille les soldes pertinents et effectue les calculs nécessaires. Les contributions sont versées du FSCP lorsque le montant de la Base de résiliation en unité de crédit est inférieur à un minimum précisé.
+7. Les montants accumulés dans le FSCP sont versés au Régime d'assurance de protection juridique et au régime canadien de PSC lorsque, par l'application d'une formule élaborée pour chacun des régimes, les seuils-limites prévus pour ces deux régimes sont atteints.
+Programmes de garderie d'enfants
+10. Les paiements relativement à la garde d'enfants ne sont pas versés en fonction des seuils-limites prévus. Le Programme de garderie d'enfants est administré par le TCA. Lorsque le TCA détermine qu'il existe un besoin financement précis, il en fait la demande et une discussion peut suivre afin de s'assurer que l'utilisation respecte le cadre convenu de la garde d'enfants. Le paiement est versé dès que l'appelante est convaincue que l'utilisation fait partie de ce qui a été négocié.
+11. Le FSCP accumule un montant égal à quatre cents et demi par heure normale de travail pour les activités de garde d'enfants sur lesquelles les parties se sont entendues. Le FSCP représente le seul moyen dont dispose l'appelante pour financer les activités relatives à la garde d'enfants mutuellement convenues. Cela semble être une accumulation au sein du FSCP lui-même. Ces fonds sont versés lorsque le syndicat les demande dans un but précis, et l'utilisation est acceptée comme un emploi convenable pour la garde d'enfants.
+13. L'annexe H-1 (pièce 1, onglet 2) de la convention collective de 1993 prévoit que, en cas de conflit entre l'utilisation du total cumulatif du FSCP pour soutenir les activités de garde d'enfants sur lesquelles les parties se sont entendues ou les prestations du Régime d'assurance de protection juridique ou du régime PSC, le total cumulatif serait utilisé en premier pour soutenir les activités de garde d'enfants sur lesquelles les parties se sont entendues et, par la suite, pour soutenir le Régime d'assurance de protection juridique.
+[9] Il existe un seul « Régime d'assurance de protection juridique du TCA » qui fournit une assistance judiciaire aux employés travaillant au sein de 20 différentes sociétés représentées par le TCA. La pièce A-2, onglet 5 énumère les 20 différentes sociétés employeuses, notamment General Motors, Ford, Chrysler, Lear-Kitchener, 3M, Kenworth et Mack Montreal. L'onglet 5 constitue une lettre du Régime d'assurance de protection juridique du TCA dans laquelle on demande des fonds pour les besoins de trésorerie estimés pour le mois d'octobre 1996 (un total de 1 013 105 $) et attribue le total entre les 20 employeurs en fonction de l'utilisation pondérée.
+[10] La pièce A-2, onglets 8 et 9 représente des exemples de demandes de financement pour la garde d'enfants. L'onglet 8 constitue une lettre datée du 11 septembre 1995 rédigée par le TCA et envoyée à l'appelante demandant 1 400 000 $ pour construire une garderie du TCA à Oshawa. L'onglet 9 constitue l'avis de remise de l'appelante daté du 3 novembre 1995 qui indique le paiement de 1 400 000 $. Puisqu'il n'y existe aucune autre source de financement pour les Programmes de garderie d'enfants sauf le FSCP (contrairement au Régime d'assurance de protection juridique et au régime PSC), le montant de 1 400 000 $ a été complètement payé sur le FSCP. Ce paiement peut être examiné à la pièce 1, onglet 11, le relevé mensuel du mois de novembre 1995. Il constituait le seul paiement payé sur le FSCP pour le mois de novembre 1995.
+[11] Un tableau qui indique la façon dont le solde des montants accumulés dans le FSCP a augmenté, d'un solde d'ouverture de 4 470 000 $ le 1er janvier 1995 à un solde de clôture de 13 663 000 $ au 31 décembre 1995, figure au paragraphe 4 ci-dessus. Ce tableau (tiré du relevé mensuel de la pièce 1, onglet 11), indique que le total des montants payés sur le FSCP pendant 1995 ne s'élevait qu'à 2 270 817 $. La pièce 1, onglet 12 est une annexe qui indique les paiements versés sur le FSCP pendant la période de quatre années de janvier 1996 à décembre 1999. La colonne située à l'extrême droite de l'annexe constitue un [traduction] « total de roulement » de chaque mois. Selon le total de roulement, le solde de 13 663 000 $ du FSCP au 31 décembre 1995 a été versé sur une période de 35 mois, de janvier 1996 à novembre 1998. Si j'accepte le solde du FSCP au 31 décembre 1995 de 13 834 902 $ conformément à l'exposé conjoint des faits, le solde supérieur n'a pas été versé du FSCP avant janvier 1999. Voir les paragraphes 23 et 25 de l'exposé conjoint des faits.
+[12] Jim Cameron, le directeur des relations de travail de General Motors du Canada Limitée était le seul témoin appelé à témoigner pour l'appelante. M. Cameron a déclaré que, lorsque la convention collective de 1996 avait été négociée, le solde du FSCP avait été reporté à la nouvelle convention et que certains bénéficiaires supplémentaires du FSCP avaient été ajoutés. Ces bénéficiaires supplémentaires sont énumérés à l'annexe « H » de la convention collective de 1996. Voir la pièce 1, onglet 8. Leurs identités ne sont pas pertinentes, mais tous les bénéficiaires visés par la convention collective de 1996 étaient des bénéficiaires éventuels des paiements versés sur le FSCP après le mois d'octobre 1996. Tous ces bénéficiaires figurent à l'annexe (pièce 1, onglet 12), laquelle indique les paiements versés sur le FSCP pendant une période de quatre années de janvier 1996 à décembre 1999.
+[13] Hormis l'exposé conjoint des faits, les parties se sont entendues (pièce A-1) de la façon suivante :
+(i) le montant de 13 834 902 $ (le solde accumulé dans le FSCP au 31 décembre 1995) a été traité comme une dépense dans les états financiers de l'appelante relativement à l'année se terminant le 31 décembre 1995;
+(ii) le même montant est également inscrit sous la rubrique [traduction] « autres obligations à court terme » des mêmes états financiers;
+(iii) les états financiers de l'appelante du 31 décembre 1995 ont fait l'objet d'une vérification, et les vérificateurs externes étaient d'avis que les états financiers ont été établis conformément aux Principes comptables généralement reconnus ( « PCGR » ).
+En l'espèce, il n'y a aucune question portant sur les PCGR. Il n'y a aucune question quant à savoir si le montant de 13 894 902 $ peut être déduit dans le calcul du revenu ou du profit en vertu du paragraphe 9(1) de la Loi de l'impôt sur le revenu. Les seules questions en litige consistent à savoir (i) si le solde du FSCP à la fin de 1995 constituait une obligation réelle qui a été engagée et, dans l'affirmative, (ii) si l'obligation est éventuelle. Voir le paragraphe 12 de l'exposé conjoint des faits.
+Analyse
+[14] Le présent appel sera réglé selon l'interprétation de l'alinéa 18(1)e) de la Loi de l'impôt sur le revenu et son application aux présents faits :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) [...]
+e) un montant au titre d'une provision, d'une éventualité ou d'un fonds d'amortissement, sauf ce qui est expressément permis par la présente partie;
+Les questions fondamentales consistent à savoir si l'obligation acceptée par l'appelante à l'annexe « H » de la convention collective de 1993 constitue une obligation réelle et, dans l'affirmative, si cette dernière est une obligation éventuelle au sens de l'alinéa 18(1)e). Dans une décision récente (Wawang Forest Products Ltd. c. La Reine, C.A.F., nos A-153-99, A-154-99, 26 mars 2001 (2001 DTC 5212)), la Cour d'appel fédérale a examiné l'alinéa 18(1)e) et a adopté le critère suivant pour déterminer si une obligation est une obligation éventuelle :
+[TRADUCTION] Il convient de préciser qu'une éventualité est un événement qui peut se produire ou ne pas se produire et une obligation éventuelle est une obligation dont l'existence dépend d'un événement qui peut se produire ou ne pas se produire. (page 5215)
+Il existe une jurisprudence abondante portant sur l'alinéa 18(1)e) et sur sa version antérieure de la Loi mais, avant d'examiner la loi, je vais examiner en détail les modalités de l'annexe « H » qui est reproduit en son entier au paragraphe 6 ci-dessus.
+[15] Au paragraphe 1 de l'annexe « H » , le FSCP de la convention collective de 1990 a été [traduction] « reconduit pendant la durée de » la convention collective de 1993. Le paragraphe 2 de l'annexe « H » est important parce qu'il décrit clairement la seule source de fonds du Fonds SCP comme un fonds qui, selon la formule de 5 p. 100, [traduction] « sera égal à une accumulation par la compagnie de deux dollars (2 $) par heure supplémentaire travaillée » . La formule est démontrée dans le tableau à la fin du paragraphe 3 ci-dessus. Le paragraphe 2 n'exigeait pas que la compagnie (c.-à-d. ci-après l'appelante) verse un montant à un fiduciaire, à un dépositaire, à un représentant ou à toute autre personne. Le paragraphe 2 n'exigeait pas que la compagnie réserve, sépare ou retire des montants de son fonds de roulement normal. Voir le paragraphe 12 de l'exposé conjoint des faits. Le paragraphe 2 exigeait que la compagnie accumule, selon la formule de 5 p. 100, uniquement 2 $ par heure supplémentaire travaillée. En d'autres termes, le paragraphe 2 exigeait que la compagnie effectue uniquement une écriture comptable.
+[16] Le paragraphe 3 de l'annexe « H » décrit la façon dont le montant accumulé pour le FSCP serait utilisé. Voici la première phrase du paragraphe 3 :
+[traduction]
+Pendant la durée de la convention collective cadre de 1993, le Fonds spécial canadien de prévoyance sera utilisé principalement pour soutenir les Programmes négociés de garderie d'enfants, le Régime d'assurance de protection juridique et pour financer le régime canadien de PSC et, par la suite, uniquement au besoin.
+Cette phrase mérite un certain nombre d'observations :
+(i) la première phrase se rapporte à la durée de la convention collective de 1993 (de septembre 1993 à septembre 1996), laquelle comprend l'année civile 1995 - l'année visée par l'appel;
+(ii) les programmes négociés de garderie d'enfants sont financés uniquement par le FSCP et uniquement lorsque [traduction] « l'appelante est convaincue » qu'une utilisation « déterminée par le TCA » fait partie de « ce qui a été négocié » . Voir le paragraphe 10 de l'exposé conjoint des faits. Une demande de fonds par le TCA n'entraîne pas automatiquement un paiement par l'appelante. Les deux parties (le TCA et la compagnie) doivent s'entendre sur chacun des utilisations identifiées. Voir la pièce A-2, onglets 8 et 9 pour un exemple d'une demande effectuée par le TCA;
+(iii) le Régime d'assurance de protection juridique est financé principalement par des versements effectués directement par l'appelante en fonction d'une formule de 0,12 $ par heure normale travaillée si le régime et le FSCP sont supérieurs à un certain seuil-limite, et de 0,18 $ par heure normale travaillée si le régime et le FSCP sont inférieurs à ce seuil. Voir la pièce 1, onglet 3 résumé au paragraphe 8 ci-dessus. Chaque mois, ce financement principal est remis directement au Régime d'assurance de protection juridique par l'appelante en fonction des besoins prévus du régime, selon ce que détermine un administrateur indépendant. Voir la pièce A-2, onglet 5 pour un exemple d'une demande de fonds par un administrateur pour le mois d'octobre 1996;
+(iv) le régime PSC est financé principalement par des versements effectués directement par l'appelante en fonction d'une formule mobile complexe d'au moins 0,26 $ par heure normale travaillée en 1995. Voir la pièce 1, onglet 4 résumé au paragraphe 8 ci-dessus. Je présume que, chaque mois, l'appelante remet ce financement principal directement au fiduciaire du régime canadien de PSC, mais cela n'a pas été démontré par une preuve directe ou par un fait reconnu;
+(v) la première phrase du paragraphe 3 de l'annexe « H » se termine avec l'expression [traduction] « et, par la suite, uniquement au besoin » . Cette expression laisse entendre une éventualité. Je reviendrai ultérieurement à cette expression au paragraphe 25 ci-dessous.
+[17] La deuxième phrase du paragraphe 3 de l'annexe « H » énonce ce qui suit :
+[traduction]
+Il pourra également être utilisé pour financer les initiatives conjointement convenues tel que cela sera déterminé par le président du Syndicat national des TCA et le vice-président et directeur général du personnel.
+Il ne s'agit rien de plus que d'un engagement à conclure un accord. Il ne crée pas d'obligation. Selon le témoignage de M. Cameron, en 1995, il n'existait pas de [traduction] « initiatives conjointement convenues » . Les troisième et quatrième phrases du paragraphe 3 décrivent la façon dont le solde du FSCP sera calculé à un moment donné. Chaque phrase utilise les termes [traduction] « montant accumulé » et ne se réfère nullement à une obligation.
+[18] Le paragraphe 4 de l'annexe « H » porte uniquement sur [traduction] « l'utilisation du Fonds SCP pour soutenir le régime PSC » . Son utilisation est [traduction] « déterminée uniquement par le montant de la Base de résiliation en unité de crédit » . Selon le paragraphe 9 de l'exposé conjoint des faits, le service des finances de l'appelante surveille les soldes pertinents et effectue les calculs nécessaires, et l'appelante verse des contributions du FSCP lorsque le montant de la Base de résiliation en unité de crédit est inférieur à un minimum précisé. Le paragraphe 5 de l'annexe « H » prévoit simplement que l'appelante et le TCA négocieraient l'utilisation de « toute accumulation » qui reste dans le FSCP à la fin de la convention collective de 1993. Je termine ici mon examen en détail des modalités de l'annexe « H » (les paragraphes 15 à 18 inclusivement).
+[19] Personnellement, je conclurais que l'annexe « H » (Protocole d'entente visant le Fonds spécial canadien de prévoyance ) de la convention collective de 1993, par elle-même, ne crée pas ou ne laisse pas entendre une obligation éventuelle de l'appelante relativement aux paiements versés sur le Fonds. Selon le Black's Law Dictionary, septième édition (1999), le terme anglais « liability » ( « obligation » ) signifie ce qui suit :
+[traduction]
+liability (obligation) : La qualité ou l'état de qui est juridiquement tenu de ou responsable; une responsabilité légale à une autre personne ou à une autre société, qui est exécutoire par un recours civil ou par des sanctions criminelles. (page 925)
+En ce qui concerne le solde accumulé de 13 834 902 $ du Fonds SCP au 31 décembre 1995, je ne peux trouver de créancier identifiable qui pourrait faire une demande légalement exécutoire à cette date contre l'appelante relativement à tout ou à une partie de ce solde.
+[20] La pièce A-1 constitue une lettre rédigée par les avocats de l'intimée le jour avant l'audience et envoyée aux avocats de l'appelante indiquant en partie ce qui suit :
+[traduction]
+Comme vous le savez, l'intimée est d'avis que le fait que le solde du Fonds spécial canadien de prévoyance a été déduit dans les états financiers de l'appelante et que la question qui consiste à savoir si les états financiers ont été établis conformément aux PCGR ne sont pas pertinents. Ces faits pourraient être pertinents si « l'image la plus fidèle des bénéfices » et le calcul des bénéfices représentaient des questions soulevées en l'espèce en vertu de l'article 9 de la Loi de l'impôt sur le revenu. Cependant, l'intimée ne conteste pas les calculs des bénéfices en vertu de l'article 9.
+Nonobstant ce qui précède, les objectifs de la présente instance et sous réserve des oppositions de l'intimée que cela n'est pas pertinent, l'intimée reconnaît ce qui suit :
+· dans les états financiers de l'appelante relativement à l'année se terminant le 31 décembre 1995, le montant de 13 834 902 $ a été traité comme une dépense;
+· dans les états financiers de l'appelante relatifs au même exercice, le montant a également été inscrit sous la rubrique « Autres obligations à court terme » ;
+· les états financiers ont été vérifiés et, selon les vérificateurs externes, ces états financiers ont été établis conformément aux Principes comptables généralement reconnus; [...]
+En ce qui concerne la question de l' « obligation » , la position des parties est confirmée dans la phrase suivante tirée du paragraphe 12 de l'exposé conjoint des faits :
+[traduction]
+[...] Les parties au présent litige ne s'entendent pas sur le point de savoir si le solde de 13 834 902 $ du FSCP, à la fin de l'année d'imposition, constitue une écriture comptable qui représente une obligation réelle qui a été engagée et, le cas échéant, si l'obligation est éventuelle.
+Il ne fait aucun doute que, dans les états financiers vérifiés de l'appelante de 1995, le montant de 13 834 902 $ a été traité comme une dépense et qu'il a également été inscrit, dans les mêmes états financiers, sous la rubrique [traduction] « autres obligations à court terme » . La présente affaire peut démontrer les différences entre la comptabilité et le droit. Un comptable peut examiner une obligation qui semble être de fait et, comme une simple mise en garde, il peut l'inscrire à titre d'obligation, mais un avocat qui examine la même obligation peut conclure qu'il n'existe aucune obligation à moins qu'un créancier connu ait une demande légalement exécutoire.
+[21] Pendant l'année 1995, le Fonds SCP a connu une croissance d'un solde d'ouverture de 4 479 874 $ à un solde de clôture de l'exercice de 13 834 902 $ en raison de la faible quantité de montants payés sur le fonds par opposition aux montants accumulés pendant l'année. Selon la pièce 1, onglet 11, les montants suivants ont été payés sur le fonds pour chaque mois de l'année 1995.
+[traduction]
+Programme de garderie d'enfants
+Régime d'assurance de protection juridique
+Régime PSC
+Janvier
+-
+-
+-
+Février
+-
+-
+-
+Mars
+-
+-
+-
+Avril
+-
+-
+-
+Mai
+250 000 $
+-
+-
+Juin
+-
+-
+-
+Juillet
+-
+-
+-
+Août
+-
+-
+502 568 $
+Septembre
+-
+-
+118 249 $
+Octobre
+-
+-
+-
+Novembre
+1 400 000 $
+-
+-
+Décembre
+-
+-
+-
+Totaux
+1 650 000 $
+-
+620 817 $
+De même, selon la pièce 1, onglet 12, au cours des douze mois de l'année 1996, un montant a été payé sur le FSCP pour la garde d'enfants, quatre montants pour les services juridiques et un montant pour le régime canadien de PSC. Le taux par lequel les montants ont été payés sur le FSCP en 1995 et en 1996 indique que l'obligation de l'appelante relative au FSCP ne constitue pas une obligation juridique. Si cette dernière avait été une obligation conformément aux « principes reconnus de la pratique commerciale (ou de la comptabilité) » , alors je crois qu'elle aurait été une obligation éventuelle en fonction des seuils-limites établis dans le Régime d'assurance de protection juridique, dans le régime PSC et dans l'acceptation des demandes précises du TCA relativement à la garde d'enfants.
+[22] Les avocats de l'appelante se sont fondés sur trois décisions récentes. Canadian Pacific Limited v.The Minister of Revenue (Ontario), 99 DTC 5286, est une décision de la Cour d'appel de l'Ontario. À titre d'un employeur visé par l'annexe 2 de la Loi sur les accidents du travail, CP était tenue de rembourser les prestations de la Commission des accidents du travail payables aux employés de CP. Lorsque la Commission décidait de payer une indemnité à un employé de CP, cette dernière calculerait le montant en fonction de l'espérance de vie de l'employé et ce montant serait ajouté à son compte de [traduction] « dettes à long terme - indemnisation des accidentés du travail » et, par la suite, ce montant serait déduit à titre de charge sur les revenus. Pendant les années d'imposition 1981 à 1984, dans le calcul de son revenu, CP a déduit ces montants, lesquels avaient été ajoutés à son compte de « dettes à long terme » . La déduction de ces montants a été refusée par le ministre du Revenu de l'Ontario en vertu de l'alinéa 18(1)e) de la Loi fédérale laquelle était libellée de façon quelque peu différente pour les années 1981 à 1984. La demande de CP a été rejetée au procès. CP a obtenu gain de cause en appel. Le juge d'appel Borins, écrivant au nom de la Cour, a déclaré ce qui suit à la page 5293 :
+[traduction]
+[34] Selon le raisonnement du juge Pigeon dans la décision Time Motors, le montant annuel que CP a ajouté à son compte ne devrait pas être considéré indépendamment de la responsabilité imposée par la loi en vertu de la Loi sur les accidents du travail. Selon la Loi, CP était tenue de rembourser à la Commission des accidents du travail les indemnités que cette dernière avait versées aux travailleurs handicapés. Au moment où CP a ajouté le montant capitalisé au compte relativement à un travailleur handicapé, elle l'a fait conformément à une obligation juridique. Ainsi, comme dans la décision Time Motors, chaque fois qu'un montant a été ajouté au compte, il l'a été selon une obligation existante. Cette obligation n'est pas une obligation éventuelle au sens que, à l'époque pertinente, elle n'était pas une obligation fixe et absolue, mais une qui pourrait éventuellement le devenir à la suite d'un certain évènement incertain. Au contraire, au moment du transfert au compte, il existait une obligation déterminée et non une obligation qui pourrait survenir uniquement à la survenance d'un événement futur. Au moment où le paiement a été versé au compte, les faits suivants étaient déterminés : la responsabilité de CP imposée par la loi de payer les indemnités versées à ses employés handicapés, le montant mensuel des indemnités; la date d'ouverture du droit aux indemnités et le fait que les paiements mensuels seraient payés au travailleur pendant la durée de son incapacité.
+La dernière phrase de cet extrait indique que CP avait une obligation réelle lorsqu'elle a ajouté le montant particulier à son compte de [traduction] « dettes à long terme » . En l'espèce, l'appelante n'a pas d'obligation réelle à l'égard de toute personne concernant toute partie du 13 834 902 $ du 31 décembre 1995.
+[23] Dans la décision Fédération des caisses populaire Desjardins de Montréal et de l'Ouest du Québec c. Canada, C.A.F., no A-739-99, 23 février 2001 (2002 DTC 7413), les employés de bureau du contribuable étaient tenus de prendre leurs vacances dans les années postérieures à l'année dans laquelle les vacances ont véritablement été gagnées. En 1992, la Fédération a déduit un montant de 752 000 $, lequel représente les versements de l'employeur payables relativement aux vacances payées gagnées par les employés en 1992 qui seront payées dans des années suivantes. Le ministre a refusé la déduction, et l'appel interjeté par l'appelante devant la Cour a été rejeté. Sur nouvel appel interjeté par la Fédération devant la Cour d'appel fédérale, la Fédération a obtenu gain de cause. En écrivant pour la majorité de la Cour, le juge d'appel Desjardins a déclaré ce qui suit aux paragraphes 44 à 46 :
+[44] Il s'ensuit que dès que les indemnités de vacances sont gagnées, l'obligation de verser les contributions patronales prend naissance. Les indemnités de vacances seront versées plus tard et la remise des contributions patronales se fera dans les quinze jours qui suivront. La dette de l'employeur, cependant, envers la Commission de l'assurance-chômage et les diverses régies provinciales, est « engagée » depuis le jour où l'indemnité de vacances a été acquise.
+.
+[45] Mon interprétation rejoint celle qu'adopte l'intimée elle-même eu égard aux indemnités de vacances. L'intimée accepte, en effet, qu'en l'espèce, les indemnités de vacances qui ont toutes été accumulées par les employés de l'appelante au cours de l'année 1992 constituaient, en 1992, une dette envers ces employés même si cette dette n'est pas encore liquidée. [...]
+[46] L'intimée et le premier juge, à mon sens, ne tiennent pas compte, cependant, du rattachement qui existe entre l'indemnité de vacances et les contributions patronales. Dès que l'obligation juridique relative aux vacances futures devient réelle, l'obligation relative aux contributions patronales le devient aussi. L'une ne va pas sans l'autre.
+Au paragraphe 46, le savant juge de la Cour d'appel mentionne une « obligation juridique » . En l'espèce, l'appelante avait une obligation juridique d'accumuler le montant de 13 834 902 $ mais n'avait aucune obligation juridique en 1995 de verser une partie de ce montant.
+[24] En dernier lieu, dans la décision Wawang Forest Products Limited et al c. La Reine, C.A.F., nos A-153 99, A-154-99, 26 mars 2001 (2001 DTC 5212), Wawang et Nerak exploitaient une entreprise de foresterie et ils avaient conclu un contrat pour leurs activités d'exploitation forestière. Chaque fois qu'ils versaient un paiement à un sous-traitant, ils retenaient un certain montant jusqu'à ce qu'ils aient la confirmation de la Commission des accidents du travail de l'Ontario que le sous-traitant avait effectué les paiements requis auprès de la Commission. Au cours des années d'imposition 1987 à 1991, les sociétés ont déduit les retenues en question. Le ministre a refusé les déductions, et la Cour a retenu les cotisations visées dans l'appel interjeté par les sociétés. Sur nouvel appel interjeté devant la Cour d'appel fédérale, les sociétés ont obtenu gain de cause. En écrivant au nom de la Cour à l'unanimité, le juge d'appel Sharlow a déclaré en partie, ce qui suit :
+[11] Pour décider si une obligation est éventuelle, on applique le critère généralement reconnu énoncé dans la désicion Winter and Others (Executors of Sir Arthur Munro Sutherland (deceased)) v.Inland Revenue Commissioners, [1963] A.C. 235 (H.L.), où lord Guest s'est exprimé en ces termes (à la page 262) :
+[TRADUCTION] Il convient de préciser qu'une éventualité est un événement qui peut se produire ou ne pas se produire et une obligation éventuelle est une obligation dont l'existence dépend d'un événement qui peut se produire ou ne pas se produire.
+[17] Il ne reste plus qu'à appliquer aux faits de l'espèce le principe énoncé dans la décision Winter. Les faits ne sont pas contestés. Les entrepreneurs Wawang ont été embauchés pour faire la coupe, l'ébranchage et le débardage de grumes. Leur contrat prévoyait qu'ils seraient rémunérés à la quinzaine sur la base du prix convenu par corde. Les entrepreneurs Nerak ont été embauchés pour transporter le bois entre les sites d'exploitation forestière et les scieries. Ils devaient être rémunérés à la quinzaine sur la base d'un prix convenu par tonne métrique de bois livré.
+[18] Le volume de bois coupé ou livré était établi par des mesureurs indépendants qui devaient fournir un bordereau de mesurage. Selon l'usage établi, le bordereau rempli faisait preuve des travaux exécutés. Dès l'instant où les bordereaux étaient présentés aux contribuables, le travail des entrepreneurs était considéré comme exécuté.
+[20] Les contribuables savaient que si elles payaient intégralement un entrepreneur dès la fin des travaux, il était possible qu'elles apprennent plus tard que l'entrepreneur avait fait défaut de payer les cotisations relatives à l'indemnisation en matière d'accidents du travail. Dans ce cas, il n'est pas impossible que les contribuables soient forcées de remédier au défaut de l'entrepreneur et qu'il ne leur reste qu'un droit de recours sans garantie contre l'entrepreneur.
+[32] [...] le prix convenu devienne une obligation absolue qui incombe aux contribuables dès que les entrepreneurs ont exécuté leur travail, comme l'attestent les bordereaux de mesurage.
+[33] [...] Les retenues constituent ainsi des sommes dues aux entrepreneurs et les contribuables ont l'obligation continue de payer les retenues même si, tant et aussi longtemps qu'une attestation de paiement n'est pas fournie, elles peuvent choisir de les payer soit aux entrepreneurs soit à la Commission des accidents du travail pour le compte des entrepreneurs. Tant qu'un paiement n'est pas effectué par l'un de ces moyens (ou encore par compensation en cas d'amende pour atteinte directe), l'obligation n'est pas éteinte.
+Au paragraphe 33, la Cour d'appel fédérale mentionne « l'obligation continue de payer les retenues » . Au 31 décembre 1995, General Motors n'avait pas une « obligation [...] [juridique] de payer » une partie du montant de 13 834 902 $ en litige.
+[25] Au paragraphe 16 ci-dessus, j'ai examiné en détail la première phrase du paragraphe 3 de l'annexe « H » (pièce 1, onglet 1). Cette phrase (décrivant la façon dont le montant accumulé pour le FSCP pourrait être utilisé) se termine avec l'expression [traduction] « et, par la suite, uniquement au besoin » . À mon avis, cette expression constitue au moins un indice d'une éventualité. Il n'y avait aucun montant à être payé sur le FSCP au Régime d'assurance de protection juridique ou au régime PSC à moins qu'un seuil-limite précis de financement (pour chacun des régimes) n'ait été atteint. En ce qui concerne les Programmes de garderie d'enfants, l'appelante devait accepter une demande par le TCA avant qu'un montant ne soit payé sur le FSCP. Je n'ai aucune hésitation à conclure que l'obligation de l'appelante de verser un montant sur le FSCP pendant la durée de la convention collective de 1993 constituait une obligation conditionnelle. Le caractère éventuel de l'obligation de l'appelante est appuyé davantage par l'expression [traduction] « et, par la suite, uniquement au besoin » .
+[26] En ce qui concerne les trois affaires sur lesquelles les avocats de l'appelante se sont fondés, rien dans ces décisions ne m'amène à nuancer la conclusion que je viens d'exprimer. En fait, la description d'une « obligation éventuelle » provenant de la décision Winter et adoptée par la Cour d'appel fédérale dans la décision Wawang me convainc que toute obligation de l'appelante de payer un montant sur le FSCP pendant la convention collective de 1993 constitue une obligation conditionnelle.
+[27] Aux paragraphes 25 et 26 ci-dessus, j'ai mentionné uniquement l' « obligation » de l'appelante de payer un montant sur le Fonds SCP parce que je ne suis pas convaincu que l'appelante avait une obligation juridique de verser un montant à partir du 13 894 902 $ au 31 décembre 1995. À mon avis, la cause de l'appelante est peu fondée. L'appel est rejeté avec dépens relativement à la question examinée ci-dessus.
+[28] Il existait quatre autres questions importantes qui ont été réglées (sans dépens) par les parties avant l'audience. L'appel interjeté relatif à l'année d'imposition 1995 sera admis en partie uniquement pour donner effet au règlement.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« M. A. Mogan »
+Traduction certifiée conforme
+ce 18e jour de mars 2004.
+Crystal Lefebvre, traductrice

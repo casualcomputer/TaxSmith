@@ -1,0 +1,158 @@
+---
+title: "Stitson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26335/index.do"
+last_modified: "2004-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 334"
+citation2: ""
+neutral_citation: "2004 TCC 334"
+decision_date: "2004-05-03"
+language: "en"
+item_id: "26335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3282
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:30:58.159000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b04b3519fdbc19b4b7fbf8fce49ffe5b409ecf99928e52efd9f634d2a8d561dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stitson v. The Queen
+
+- Citation: 2004 TCC 334
+- Decision date: 2004-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3282, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stitson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-03
+Neutral citation
+2004 TCC 334
+File numbers
+2000-2150(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-2150(IT)I 2001-895(IT)I
+BETWEEN:
+ANNE STITSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 2, 2004, at Thunder Bay, Ontario,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Counsel for the Appellant:
+James P. Garofalo
+Counsel for the Respondent:
+Jennifer Dundas
+____________________________________________________________________
+JUDMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1997 and 1998 taxation years are dismissed.
+Signed at Ottawa, Canada, this 3rd day of May, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2004TCC334
+Date: 20040503
+Docket: 2000-2150(IT)I 2001-895(IT)I
+BETWEEN:
+ANNE STITSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] These are appeals by Anne Stitson from assessments with respect to the 1997 and 1998 taxation years in which the Minister of National Revenue denied her claims with respect to the transfer of the amount for mental or physical impairment from her daughter, Jacqueline, in computing the non-refundable tax credits and tax payable for those taxation years.
+[2] Jacqueline was born on January 19, 1986. At the age of five, she was diagnosed as having Type 1 insulin dependent diabetes (mellitus diabetes). As a result, it became necessary for the Appellant to learn how to give injections, measure out insulin and check for glucose levels. She was taught how glucose levels can be affected by what is ingested and how to spot low glucose levels. In order to manage Jacqueline's diabetes, their daily regimen changed and a routine was implemented which required Jacqueline to eat every two to two and one-half hours, and having a blood test to determine the blood sugar levels before every meal and at bedtime. The Appellant testified that Jacqueline's blood sugar levels always needed to stay between 5 and 10. Below 5 would result in a "low" and above 10 would result in a "high". In the instance of low blood sugars, foods such as carbohydrates, Pepsi or orange juice had to be ingested immediately. A too high reaction was treated with insulin or exercise to burn off the sugar and no food. The testing involved pricking Jacqueline's finger, collecting the drop of blood on a strip and inserting the strip into the blood machine which provided a reading of sugar levels in the blood. Generally, this testing would be performed three to four times a day. The entire regime of blood testing and food preparation took approximately two to three hours a day, but more time would be required when the blood levels fluctuated. The Appellant testified that for a period of six to seven months, Jacqueline had continuous blood sugar lows and as a result, it was necessary on a number of occasions to bring her home from school. In 1997 and 1998, when Jacqueline was 11 and 12 years old, the lows and highs were experienced at least three to four times a week.
+[3] During the early stages of Jacqueline's diabetes, the Appellant was taught how to slowly increase insulin if at the time of testing, blood sugars had increased. As well, there are different types of insulin and a diabetic can be on a "one type" or "two mixed". In the years in issue, Jacqueline had three to four mixed insulin injections a day. According to the Appellant, Jacqueline was unable to do these tests, she was unable to mix the two types of insulin, did not know how much to inject, and was unable to inject the insulin herself. The Appellant further noted that a diabetic that eats 40 carbohydrates would be using 10 units of insulin to balance out these carbohydrates since carbohydrates and insulin always have to balance in order that sugar levels of a diabetic are kept as level as possible. In 1997 to 1998, Jacqueline could not control her own diet. She did not understand the use of carbohydrates albeit she knew that certain predetermined foods had to be consumed by her as scheduled snacks. According to the Appellant, the effect of an improper diet causes sugar levels to go up and down and can cause lows and highs to set in without any symptoms. When this happens and symptoms go undetected the child can become unconscious, have seizures and/or go into a coma. Jacqueline was taken to the hospital by ambulance twice because of low blood sugars, once barely conscious and the second time following a seizure and unconscious. On both occasions, her food had been monitored and she had been given insulin injections. In the case of a severe episode a drug called Glucagon (liquid sugar glucose) is injected. It is injected when the child is unconscious or almost unconscious. Jacqueline was injected with Glucagon once.
+[4] During the taxation years in issue, Jacqueline was seen by two doctors at the Hornepayne Community Hospital, Dr. Kuntz (now deceased) and Dr. Manuela Joannou. The Appellant's testimony is that the latter would probably have seen Jacqueline once or twice a month, although Dr. Kuntz was the family doctor. The Appellant produced and filed a disability tax credit certificate[1] dated May 12, 1999. It had been completed and signed by Dr. Joannou. In completing this certificate, Joannou indicated that the impairment was Type 1 (juvenile onset, insulin dependent) diabetes. In responding to question 9 which reads:
+Is the impairment severe enough to restrict the basic activity of daily living identified above, all, or almost all, the time, even with therapy and the use of appropriate aids and medication?
+the doctor stated "No". A second disability tax credit certificate was filed with the Court by counsel for the Respondent.[2] It related to disability tax credit claims for the 1992 and 1993 taxation years. This certificate was signed by Dr. B. Hattersley on April 11, 1994. He responded "No" to Question 12 which reads:
+Having read the information on this form, in your opinion, has your patient a prolonged impairment that is severe enough to markedly restrict all or almost all of the time, his or her ability to perform one or more basic activities of daily living, even with the use of appropriate aids, medication, or therapy, for the years claimed?
+The Appellant testified that notwithstanding this certificate, her claim for the credit was allowed in those two years.
+[5] It is the Appellant's position that although Jacqueline could eat her meals without help, she could not feed herself in the two taxation years in issue because she could not properly prepare the meals she was required to have. She maintained that Jacqueline did not know enough to eat the proper food and when it was necessary to do so. In her case, eating the wrong food would cause the diabetes to get out of control and would have serious consequences. Thus, she maintains, Jacqueline meets the requirements set out in subparagraph 118.4(1)(ii) of the Act.
+[6] In his submissions, counsel for the Appellant made reference to two decisions: Tammi v. Canada,[3] and Mantle v. Canada[4] in each of which the factual situations were somewhat similar. In Tammi, the Appellant's three year old son and in Mantle, the Appellant's nine year old child suffered from juvenile diabetes. In those cases, the appeals were allowed notwithstanding the absence of a positive certificate. Counsel for the Appellant argues that no distinction can be drawn between the facts in those cases and in the present appeals. From that standpoint there is little dispute. However, in each of those two cases there was additional evidence before the Court which is not the case here. In Tammi, the doctor added a handwritten note "needs assistance due to age" to his negative response to the question "Can your patient feed or dress himself or herself?". In Mantle, the medical report submitted under the provisions of subparagraph 118.3(1)(a)(ii) was not supportive and answered the pertinent questions pertaining to the severity of the Appellant's disease in the negative. However, the presiding judge also had before her an exhibit indicating a change of heart by the same physician and a letter from him attached to the Notice of Appeal where he acknowledged that a child would be unable to perform any of his/her basic daily activities if proper doses of insulin were not administered at the proper time. Thus, in these two cases, the original negative certificates were qualified by the subsequent evidence provided in one form or another by the doctor who attended to that patient and had authored the certificate.
+[7] In Attorney General of Canada v. Buchanan et al,[5] the Federal Court of Appeal recently reviewed the circumstances in which a Court is entitled to consider a negative certificate. In that case, the doctor signing the certificate had indicated that the Appellant was markedly restricted in his mental function but also noted that the disability was not severe enough to restrict his daily living activities. At trial, the psychiatrist testified as to the inconsistencies in the certificate and said that he understood that the proper response depended on whether the patient was severely limited in his ability to perform normal daily activities such as hygiene care, normal conversations and getting dressed. The Federal Court held that the trial judge had correctly determined that the psychiatrist had misapprehended the relevant provisions of the Act when completing the certificate and that in such circumstances, it was open to the trial judge to decide that the certificate, but for this error, would have been a positive certificate under the Act. In the course of his Judgment, Rothstein J.A. made the following comments:
+14 The Income Tax Act places a burden on a physician when completing the certificate described in paragraph 118.3(1)(a.2), to have regard to what constitutes a marked restriction in the performance of a basic activity in daily living, as defined in paragraph 118.4(1)(c). This does involve an interpretation of law. Nonetheless, the certificate must be completed by a physician (or a psychologist, in the case of a mental disorder) and if the physician misinterprets the requirements of the Act, errors in completing the certificate may occur.
+15 In the present case, it is apparent that the Tax Court Judge was correct in concluding that the psychiatrist misinterpreted paragraph 118.4(1)(c) and applied the wrong legal test of a basic activity of daily living in completing the certificate.
+16 The question then is, what remedy is there for a taxpayer who obtains a negative certificate incorrectly completed by his or her physician because the physician is under a misapprehension as to the legal test of a basic activity of daily living.
+...
+18 In an appropriate case, the taxpayer may seek relief in the Tax Court. Proceedings in the Tax Court are not a judicial review of the correctness or reasonableness of the Minister's assessment. Rather, the function of the Tax Court is to arrive at the correct assessment itself (unless it is unable to do so and considers it necessary to refer the assessment back to the Minister for reconsideration under subparagraph 171(1)(b)(iii) of the Income Tax Act). The Tax Court's consideration of the matter will be on the basis of the evidence adduced in the Tax Court, even if that evidence was not before the Minister when he made his assessment. See Johnston v. Minister of National Revenue, [1948], 3 DTC 1182 at 1183 per Rand, J. Therefore, the fact that the Minister based his assessment on a negative medical certificate is not conclusive.
+19 The difficulty is that a positive medical certificate is a condition precedent to the Minister granting a disability tax credit. As the positive medical certificate is a mandatory requirement of the Act, I do not think it is open to a Tax Court Judge to ignore that requirement and simply substitute his or her opinion for that of a medical practitioner. It seems to me that a number of alternatives present themselves.
+20 First, there is authority for the proposition that a certificate can be corrected through viva voce evidence. In R. v. Bykowski (1980), 23 A.R. 426 (C.A.), leave to appeal to S.C.C. refused, McDermid J.A. stated at page 430:
+In my opinion, the certificate could be so corrected, if such was necessary, by the evidence of a constable who was present when the samples were taken.
+See also R. v. Ryden (1993), 145 A.R. 194 at 198 (C.A.) and R. v. Ziemers (1994), 132 N.S.R. (2d) 147 at 149 (C.A.).
+21 Bykowski was a straightforward case of a simple documentary error being corrected in evidence. Thus, if a physician, in giving evidence in the Tax Court, agrees to correct a certificate, I think that is compliance with the requirement for a positive certificate under paragraph 118.3(1)(a.2). The Minister here concedes that, in the case of a simple straightforward error, a physician could correct a certificate through viva voce evidence. I think it also follows that if a different physician gave evidence that convinced the Tax Court Judge that a positive certificate should have been given by the original physician, it would be open to the Judge to so find. This is because the finding is based on medical evidence. In either case, the Judge would remit the matter to the Minister with a direction to reassess on the basis of a positive certificate.
+22 At the other end of the spectrum would be the case of a taxpayer appealing a disallowance of a disability tax credit on the basis of a negative medical certificate where the taxpayer is simply dissatisfied with the medical judgment of the physician who completed the certificate. In the absence of conflicting testimony from another physician, it is difficult to envision a case in which the Tax Court Judge, in these circumstances, could find that a negative certificate should be treated as a positive certificate. In this type of case, it would seem that if the Tax Court Judge was doubtful as to the correctness of the negative certificate, at most, the recourse would be to remit the matter to the Minister for reassessment on the basis that the taxpayer file a new positive certificate, if one could be obtained.
+23 The appeal at bar falls between the two extremes. Here, there is a finding that in completing the negative certificate, the psychiatrist made a legal error. In this type of case, the question will be whether, with the Judge applying the correct legal test (or where bias is found, with the Judge exercising impartial judgment), it is apparent that the physician would have issued a positive certificate, or whether there is still room for medical judgment to be exercised as to whether the certificate should be positive or negative. In the former case, I think it is open to the Tax Court Judge to find that the certificate should be treated as positive and to remit the matter to the Minister for reassessment on that basis. In the latter, absent medical evidence of the kind referred to in paragraph 20 above, I think the recourse must be to dismiss the appeal or remit the matter to the Minister for reassessment on the basis of the taxpayer filing a new positive certificate if one can be obtained.
+24 I am not unmindful that the obtaining of a positive medical certificate in these circumstances may be difficult or, indeed, in some cases, impracticable. Individuals with disabilities so severe that they may be entitled to a disability tax credit, may well be under the long-term care of a specialist. As counsel explained, finding another specialist may be difficult, and asking for even a temporary transfer of records simply to obtain a positive medical certificate from another doctor, may well disrupt the relationship between the original physician and the taxpayer. Further, it is certainly arguable that it is contrary to the public interest to encourage "doctor shopping" by patients.
+[8] In the matter before me, the only evidence is that of the mother who was the caregiver for this child in the two taxation years in issue. There is no dispute that it was necessary for her to ensure that the carbohydrates were counted and that the insulin was balanced with the carbohydrates, etc. and that all of the necessary functions could not be left to an 11 or 12 year old. Her counsel argued, primarily on the basis of the Tammi and Mantle judgments, that with particular regard to the items listed, i.e. the ability to feed, the ability to dress, the ability to speak, etc. this Court has the right to determine, based on the mother's testimony alone that the negative certificate was inaccurate and incorrect. The answer to counsel's submission is found in the language used by Rothstein J.A. in Buchanan, to wit:
+25 However, the Court must be faithful to the words of the Income Tax Act. The Act requires the positive certificate of a physician. That means that the function of the Tax Court Judge is not to substitute his or her opinion for that of a physician, but to determine, based on medical evidence, whether a negative certificate should be treated as a positive certificate. Where the Tax Court Judge is unable to reach that conclusion, either the appeal must be dismissed or the matter must be remitted to the Minister with a direction to reassess, should the taxpayer provide a positive certificate.
+Emphasis added
+[9] Accordingly, the appeals are dismissed.
+Signed at Ottawa, Canada, this 3rd day of May, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC334
+COURT FILE NO.:
+2000-2150(IT)I and 2001-895(IT)I
+STYLE OF CAUSE:
+Anne Stitson and Her Majesty the Queen
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+March 2, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+May 3, 2004
+APPEARANCES:
+Counsel for the Appellant:
+James P. Garofalo
+Counsel for the Respondent:
+Jennifer Dundas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James P. Garofalo
+Firm:
+Petrone Hornak Garofalo Mauro
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit R-1.
+[3] [2003] T.C.J. No. 776.
+[4] [1995] T.C.J. No. 221.
+[5] [2002] F.C.J. No. 838.

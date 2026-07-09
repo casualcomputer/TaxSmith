@@ -1,0 +1,241 @@
+---
+title: "Gallery c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29413/index.do"
+last_modified: "2008-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 583"
+citation2: ""
+neutral_citation: "2008 CCI 583"
+decision_date: "2008-12-22"
+language: "fr"
+item_id: "29413"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6965
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:04:44.899000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "303e1881146404582f2a0899ca1ac59e50cd0da10ea345eee335efd409f44509"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gallery c. La Reine
+
+- Citation: 2008 CCI 583
+- Decision date: 2008-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6965, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gallery c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-22
+Référence neutre
+2008 CCI 583
+Numéro de dossier
+2004-759(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008 CCI 583
+Date : 20081210
+Dossier : 2004-759(IT)G
+ENTRE :
+BRIAN GALLERY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] L’appelant était propriétaire d’une société à dénomination numérique, que je désignerai ci‑après sous l'appellation de Sailings 1. En 1994, Sailings 1 a vendu son entreprise et son actif à une autre société à dénomination numérique, que je désignerai ci‑après sous l'appellation de Sailings 2.
+[2] Le prix d’acquisition s’élevait à 11 000 000 $ et il était divisé en trois tranches. La somme de 8 270 000 $ était payable au moment de la clôture de la vente. Le solde était payable à divers moments.
+[3] L’appelant a également conclu un contrat de travail d’une durée de trois ans s’élevant à 1 000 000 $ avec Sailings 2. Ce contrat prenait effet au même moment que la vente de Sailings 1 à Sailings 2. Cette dernière s’est engagée à payer à l’appelant la somme de 200 000 $ par année ainsi qu’une somme de 400 000 $ en mars 1996.
+[4] Lorsqu’il a produit sa déclaration de revenus relative à l’année d’imposition 1996, l’appelant a omis d’inclure la somme de 400 000 $ payable selon le contrat de travail.
+[5] L’intimée a établi une nouvelle cotisation à l’égard de l’appelant plus de trois ans suivant la cotisation initiale et elle a imposé des pénalités en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR »).
+[6] Il n’est pas contesté que la somme de 400 000 $ est imposable, mais l’appelant fait valoir les moyens suivants :
+a) la cotisation était frappée de prescription,
+b) il n’existe aucun fondement justifiant que le ministre inflige les pénalités prévues au paragraphe 163(2).
+[7] En ce qui concerne la question de la prescription, il s’agit de savoir si l’appelant a fait « […] une présentation erronée des faits, par négligence, inattention ou omission volontaire […] ».
+[8] Quant à la pénalité prévue au paragraphe 163(2), la Cour doit se demander si l’appelant a, « […] sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration […] ».
+Faits
+[9] Bien qu’une grande partie de la preuve ne soit pas contestée, les inférences devant être tirées de celle‑ci le sont fortement.
+[10] L’appelant était propriétaire de 113602 Canada Inc. (Sailings 1) et, au fil des ans, il a bâti une entreprise prospère, laquelle publiait la revue spécialisée « Canadian Sailings ».
+[11] Le 9 mars 1994, Sailings 1 a vendu son entreprise et son actif à Sailings 2 (3011909 Canada Inc.). L’appelant était alors âgé de 59 ans.
+[12] Sailings 2 était sous le contrôle d’une société établie à New York, K‑III Directory Corporation (« K‑III »).
+[13] Selon le contrat de vente, une somme de 8 270 000 $ devenait exigible au moment de la clôture de la vente, en mars 1994.
+[14] Une autre somme de 230 000 $, désignée comme la [TRADUCTION] « retenue au titre de la valeur comptable », devait être payée sous réserve d’une vérification de cette valeur à la date de la clôture du contrat et devenait exigible au plus tard 140 jours suivant la clôture. La somme de 230 000 $ a été payée en 1994.
+[15] Enfin, le versement d’une troisième somme, s’élevant à 2 500 000 $ (les paiements d’indexation sur les bénéfices futurs), était tributaire de l’atteinte, par l’entreprise, de certains objectifs commerciaux au cours des années civiles 2004 et 2005. La totalité de la somme de 2 500 000 $ a été payée avant septembre 1995.
+[16] Le 31 août 1994, Sailings 1 a fait l’objet d’une fusion avec Galbri Holdings Inc. Galbri a reçu le paiement de 2 500 000 $.
+[17] La totalité de la taxe exigible au titre de la vente de l’actif et de l’entreprise par Sailings 1 a été payée dans l’année de la vente. Aucune réserve ne pouvait être prévue[1].
+[18] Le jour même de la vente de l’entreprise de Sailings 1 à Sailings 2, soit le 9 mars 1994, celle-ci et l’appelant ont conclu un contrat de travail d’une durée de trois ans selon lequel l’appelant devait continuer à diriger la publication de la revue Canadian Sailings et à vendre de la publicité. Le contrat de travail prévoyait le versement d’un salaire de 200 000 $ par année. Il stipulait en outre que, le 9 mars 1996, Sailings 2 devait payer une somme de 400 000 $[2] à l’appelant. À l’exception de cette somme de 400 000 $, le salaire de l’appelant était payé à l’aide du compte bancaire canadien de Sailings 2.
+[19] Le 3 avril 1996, K‑III a effectué un virement télégraphique d’une somme de 296 186,60 $US. Cette somme convertie en dollars canadiens se chiffre à 401 763,56 $, laquelle a été déposée dans le compte de l’appelant.
+[20] Il convient d’apporter trois précisions au sujet de ce transfert de fonds. Premièrement, le paiement a été fait par K‑III et non par Canadian Sailings. Deuxièmement, même si K‑III paraît avoir eu l’intention d’envoyer la somme de 400 000 $CAN, l’entreprise a en réalité versé 401 763,56 $. Troisièmement, la demande de chèque de K‑III comporte des instructions voulant que la somme soit déposée dans un compte dont le numéro était précisé et qui appartenait à Galbri Holdings, non à l’appelant[3].
+[21] La preuve n'indique pas pourquoi le paiement a été versé au compte de l’appelant plutôt qu’à celui de Galbri Holdings.
+[22] Le montant du virement télégraphique a été porté au débit du compte de K‑III le 3 avril 1996 et porté au crédit du compte de l’appelant le 4 avril, soit le lendemain. Le même jour, l’appelant a transféré les fonds de son compte à celui de Galbri Holdings.
+[23] Lorsqu’elle a produit sa déclaration de revenus relative à 1996, Sailings 2 n’a pas de mondé de réduction pour la somme de 400 000 $ qu’elle avait payée à l’appelant[4]. Ultérieurement, au cours de la vérification visant Sailings 2, laquelle a débuté au milieu de 2001 et s’est terminée en 2002, cette société a demandé et obtenu la déduction des 400 000 $. Aucun feuillet T4 n’a été délivré à l’appelant relativement à cette somme. Des feuillets T4 avaient été délivrés relativement au salaire annuel de 200 000 $ de l’appelant.
+[24] Une note de service interne de K‑III datée du 11 mars 1994, soit deux jours après la vente de l’entreprise, décrit l’acquisition[5]. Aux pages 1 et 2, aux paragraphes 3 et 5, on précise que le prix d’acquisition est de 8 900 000 $ plus une éventuelle somme supplémentaire de 2 500 000 $ selon le bénéfice net, soit une somme totale de 11 400 000 $. La somme de 8 900 000 $ comprend une somme de 400 000 $ au titre d’une gratification pour l’appelant. À la page 5, au paragraphe 24, il est fait mention du contrat de travail conclu avec l’appelant et notamment de la somme de 400 000 $.
+Témoignage de l’appelant
+[25] L’appelant a témoigné au sujet de l’origine et de l’évolution de l’entreprise, à savoir la revue Canadian Sailings.
+[26] Il a précisé qu’il était rédacteur en chef de la publication et que ses connaissances et ses forces particulières touchaient la vente de publicité. Il a en outre mentionné que les chiffres et la comptabilité ne faisaient pas partie de ses points forts.
+[27] Il a également précisé que, même s’il examinait les documents de nature financière et les déclarations de revenus, il s’en remettait en grande partie à ses comptables agréés, Paul Trudel et, subséquemment, John Collyer, pour établir correctement ses états financiers et ses déclarations de revenus. Il revenait à ses experts‑comptables de veiller à ce les choses se fassent correctement, il les payait pour ça.
+[28] Quant à la somme de 401 763,56 $, il se souvenait que les paiements étaient d’une façon ou d’une autre parvenus dans son compte bancaire. À l’époque, il ne savait pas pourquoi il recevait l’argent, mais il pensait qu’il devait s’agir d’un paiement lié à la vente de l’entreprise par Sailings 1 et il a donc déposé les fonds dans le compte de Galbri Holdings, laquelle avait fusionné avec Sailings 1.
+[29] L’appelant a par la suite discuté de ce paiement avec M. Trudel, son expert‑comptable d’alors. M. Trudel lui a dit qu’ils avaient un problème, qu’ils verraient de quoi il s’agissait et qu’ils trouveraient une solution. L’appelant lui a répondu qu’il était d’accord.
+[30] Au cours de son témoignage, l’appelant a déclaré qu’il n’avait plus rien entendu à ce sujet de la part de M. Trudel.
+[31] Il a également affirmé qu’il n’avait aucune intention d’éviter l’impôt et qu’il avait toujours été un homme honnête.
+[32] Au moment de l’acquisition, le président et chef de la direction de K‑III était Allan Glass, une personne que l’appelant connaît bien et qu’il considère comme un ami. Après la vente, alors qu’il travaillait pour Sailings 2, l’appelant rendait compte à M. Glass et communiquait régulièrement avec lui.
+[33] Au cours du contre‑interrogatoire, il a répété qu’il avait déposé la somme de 400 000 $ dans le compte bancaire de la société parce qu’il pensait que l’argent ne lui appartenait pas et qu’il ne savait pas quoi en faire.
+[34] L’appelant a convenu qu’il n’a pas vérifié de quoi il s’agissait et qu’il n’a pas posé la question à Allan Glass, mais il a affirmé qu’il avait confié à son expert‑comptable ses affaires financières.
+[35] Son expert‑comptable lui a mentionné qu’il l’aiderait, mais il n’a pas fait de vérifications subséquentes.
+[36] En novembre 1996, M. Trudel a signé une convention de retraite avec son cabinet comptable[6]. Selon cette entente, il devait prendre sa retraite trois ans plus tard, mais ses clients devaient être progressivement transférés pendant cette période de trois ans. Dans le cas de l’appelant, M. Trudel s’est occupé de la déclaration de revenus de la société Galbri Holdings pour l’exercice se terminant le 31 août 1996. Cette déclaration devait être produite au plus tard à la fin février 1997. Par la suite, l’appelant a retenu les services de M. Collyer à titre d’expert‑comptable. M. Collyer a rempli la déclaration de revenus personnelle de l’appelant pour 1996, laquelle devait être produite à la fin avril 1997.
+[37] Au cours de son témoignage, l’appelant a mentionné que, lorsqu’il avait pris la relève de sa comptabilité, M. Collyer avait affirmé qu’il examinerait la question de cette somme de 400 000 $. L’appelant a nié que M. Collyer lui ait jamais demandé d’effectuer des vérifications à ce sujet.
+[38] L’appelant a convenu qu’il n’avait pas posé à M. Collyer d’autres questions sur ce qu’il convenait de faire avec cette somme.
+[39] Les 400 000 $ n’ont pas été inclus dans sa déclaration de revenus.
+[40] L’appelant a beaucoup insisté sur le fait qu’il attendait de M. Collyer que celui-ci l’informe de tout problème éventuel, procède à des vérifications au besoin et lui dise ce qu’il était censé faire.
+[41] Au cours du réinterrogatoire, l’appelant a signalé qu’un grand nombre de documents avaient été signés au moment de la vente et qu’il ne les avait jamais relus après la conclusion de la vente[7].
+Témoignage de Paul Trudel
+[42] Monsieur Paul Trudel a été le comptable agréé de l’appelant pendant de nombreuses années et ce, jusqu’au début de 1997 lorsqu’il a adressé l’appelant à M. John Collyer.
+[43] Selon M. Trudel, l’appelant était un bon client. Il était bien organisé et ouvert, et il était facile de travailler avec lui. M. Trudel a mentionné que l’appelant se fiait à lui pour faire ce qu’il convenait dans son cas.
+[44] L’appelant employait un aide‑comptable, qui se chargeait de toutes les écritures pendant l’année. À la fin de l’année, M. Trudel dressait les états financiers et remplissait à la fois la déclaration de revenus de la société et la déclaration de revenus personnelle de l’appelant.
+[45] Monsieur Trudel a affirmé que l’appelant avait une approche conservatrice en matière d’impôt, qu’il était très scrupuleux et qu’il tenait résolument à agir correctement. M. Trudel a donné deux exemples à cet égard.
+[46] Il a dit de l’appelant qu’il était peu versé dans la comptabilité et les questions fiscales.
+[47] Lorsque M. Trudel avait terminé les états financiers ou les déclarations de revenus, il s’assoyait avec l’appelant et ils examinaient ensemble les documents avant d’y mettre la dernière main.
+[48] Monsieur Trudel a rempli la déclaration de revenus de Galbri Holdings pour l’exercice se terminant le 31 août 1996. Cette déclaration devait être produite au plus tard à la fin février 1997.
+[49] Au cours de ses travaux relatifs à la déclaration de revenus, M. Trudel a découvert le paiement de 400 000 $ dans le livre de caisse de Galbri. La somme ne faisait l’objet d’aucune mention particulière et l’appelant ne pouvait se souvenir de quoi il s’agissait.
+[50] Comme il ne restait plus beaucoup de temps et qu’il devait remplir la déclaration de revenus de la société, M. Trudel a décidé de porter la somme au crédit du compte d’actionnaire que détenait l’appelant dans Galbri.
+[51] Après la fin février 2007, il a en outre rédigé des notes touchant certaines questions qui appelaient un suivi. Dans les notes de suivi se trouvait une mention relative à la somme de 400 000 $[8].
+[52] Dans ces notes, M. Trudel a écrit ce qui suit à la main dans le centre gauche de la feuille : [TRADUCTION] « En quoi consistent les 296 176 $US de K‑III? (401 763 $CAN) ». À la droite de cette mention, il a écrit : [TRADUCTION] « Rendement personnel atteint, 400 000 $US moins RS ». Sous cette mention, il a écrit, dans le centre gauche : [TRADUCTION] « Imposable entre les mains de Brian? » À la droite et sous cette note, figure le mot [TRADUCTION] « Oui », lequel est lié par une flèche à la mention précédente.
+[53] Ces mentions ont été inscrites après que la déclaration de revenus de la société a été produite au début de 1997 et avant la date limite de production de la déclaration de revenus personnelle.
+[54] Les initiales [TRADUCTION] « RS » désignaient les [TRADUCTION] « retenues à la source » et M. Trudel s’attendait à ce qu’elles fassent l’objet d’un feuillet T4.
+[55] Ces notes étaient jointes au dossier relatif à Galbri Holdings.
+[56] L’inscription de ces notes au dossier visait à assurer le suivi de cette question. M. Trudel prévoyait de régler ce point dans la déclaration de revenus personnelle. Or, l’appelant a subséquemment été adressé à M. Collyer, avant la production de la déclaration de revenus personnelle, et M. Trudel n’a donc pas examiné la question.
+[57] Monsieur Trudel ne pense pas avoir fait mention de ces notes à M. Collyer et il n’en a pas fait mention à l’appelant. Il n’a pas joint un double des notes au dossier personnel de l’appelant.
+[58] Lorsque M. Trudel a décidé d’inscrire la somme de 400 000 $ dans le compte d’actionnaire, il a dit à l’appelant qu’il agissait ainsi parce qu’il ne savait pas au juste quoi faire avec cette somme et qu’ils vérifieraient ce point plus tard.
+[59] À la connaissance de M. Trudel, l’appelant n’a pas subséquemment tenté de savoir quoi se rattachait cette somme.
+[60] Une fois les états financiers de Galbri terminés par M. Trudel, l’appelant n’a jamais plus abordé avec ce dernier la question des 400 000 $.
+Témoignage de John Collyer
+[61] Monsieur Collyer est comptable agréé. C’est lui qui a succédé à M. Trudel comme expert‑comptable de l’appelant au début de 1997.
+[62] Selon lui, l’appelant était un bon client; il était loyal et prudent, et il écoutait les conseils qu’on lui donnait. M. Collyer a lui aussi dit de l’appelant qu’il était peu versé dans la comptabilité et les questions fiscales et qu’il se fiait aux conseils qui lui étaient dispensés.
+[63] Il a en outre dit que l’appelant était très conservateur sur le plan fiscal.
+[64] L’appelant examinait ses déclarations de revenus et ses états financiers avec M. Collyer et en discutait avec lui.
+[65] Lorsque M. Collyer a rempli la déclaration de revenus personnelle de l’appelant pour 1996, il a pris connaissance du dossier personnel de ce dernier, mais pas du dossier de l’entreprise.
+[66] Lorsque lui et l’appelant ont examiné le dossier fiscal personnel de ce dernier pour 1996, il lui a demandé s’il manquait quoi que ce soit. L’appelant a répondu par la négative. Il n’a pas mentionné les 400 000 $.
+[67] Avant d’adresser l’appelant à M. Collyer, M. Trudel n’a pas porté les notes susmentionnées à son attention.
+[68] Monsieur Collyer a subséquemment découvert la somme de 400 000 $ tandis qu’il remplissait la déclaration de revenus de la société Galbri Holdings pour l’exercice se terminant le 31 août 1997.
+[69] Il a interrogé l’appelant au sujet des 400 000 $ et celui-ci n’a pu lui expliquer pourquoi il avait reçu cette somme. L’appelant lui a également dit qu’à son avis, la somme appartenait à la société. Il lui a en outre mentionné qu’il avait parlé de ce point avec M. Trudel, mais que celui‑ci n’avait pas réglé la question.
+[70] Monsieur Collyer a interrogé M. Trudel à cet égard, mais ce dernier n’a pu lui fournir aucun autre renseignement. Au cours de son témoignage, M. Collyer a également dit que M. Trudel ne lui avait pas donné l’assurance que la somme devait être incluse dans le revenu de l’appelant.
+[71] Monsieur Collyer a conclu que la somme ne devait pas être imposée entre les mains de la société parce que celle‑ci n’avait conclu aucun contrat avec K‑III et qu’elle n’avait donc aucune raison de recevoir un revenu de cette entreprise.
+[72] Le cabinet comptable n’a pas modifié la déclaration de revenus personnelle de l’appelant parce que celui-ci ne leur a pas dit que les 400 000 $ constituaient son revenu au titre d’une opération donnée.
+[73] Monsieur Collyer a convenu que l’appelant aurait eu connaissance du fait que cette somme n’avait pas été déclarée après l’établissement des états financiers relatifs à 1997.
+Témoignage de Lucie Fortin
+[74] Madame Lucie Fortin est vérificatrice à l’ARC. Elle a initialement été chargée de la vérification de Sailings 2. Cette vérification a abouti à la cotisation établie à l’égard de l’appelant.
+[75] Elle s'est expliquée sur la cotisation en cause. Les principaux faits relatés au cours de son témoignage sont énoncés ailleurs dans les présents motifs.
+Autres faits
+[76] Le revenu total déclaré par l’appelant dans sa déclaration de revenus personnelle relative à 1996 s’élevait à 211 054,09 $[9]. Les états financiers de Galbri Holdings pour l’exercice se terminant le 31 août 1996 indiquent (approximativement) un revenu brut de 438 000 $, des gains nets de 99 000 $, un actif de 6 350 000 $ et des capitaux propres de 4 500 000 $.
+[77] Sous réserve de la pénalité en cause, le système d’information de l’ARC ne fait état d’aucune pénalité imposée à l’appelant ou à Sailings 1. Quant à Galbri Holdings, le système d’information de l’ARC révèle que deux pénalités ont été perçues – l’une visant un versement en retard et l’autre la production tardive d’une déclaration. Ces pénalités ne semblent pas importantes. Aucune autre pénalité relative à Galbri ne figure dans le système[10].
+Les textes législatifs
+Années frappées de prescription
+[78] Quant à la question de savoir si le ministre peut établir une nouvelle cotisation, le critère applicable est énoncé au sous‑alinéa 152(4)a)(i) de la LIR. La Cour doit dire si l’appelant a fait « […] une présentation erronée des faits, par négligence, inattention ou omission volontaire […] ».
+[79] Dans la mesure où la somme de 400 000 $ a été omise, l’existence d’une présentation erronée ne fait aucun doute[11]. Il s’agit donc de savoir s’il y a eu négligence, inattention ou omission volontaire.
+[80] Dans la décision Venne c. Canada[12] , M. le juge Strayer précise comment le critère formulé au sous‑alinéa 152(4)a)(i) de la LIR doit être appliqué :
+Je suis convaincu qu’il suffit au Ministre, pour invoquer son pouvoir en vertu de l’alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l’égard d’un ou plusieurs éléments de sa déclaration de revenus au titre d’une année donnée. Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. C’est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d’autres motifs comme l’inattention ou l’omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. Voir Jet Metal Products Limited c. le ministre du Revenu national (1979) 79 DTC 624, pp. 636-37 (C.R.I.).
+Pénalité au titre d’une faute lourde
+[81] En ce qui a trait à la pénalité prévue au paragraphe 163(2) de la LIR, la question est celle de savoir si l’appelant a, « […] sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration […][13] ».
+[82] Dans la décision Farm Business Consultants Inc. v. The Queen[14], M. le juge en chef Bowman (tel était alors son titre) fait les observations suivantes :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous‑alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l’imposition d’une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d’une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s’attendrait dans les situations où l’on cherche à établir le bien‑fondé d’allégations moins sérieuses. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. Je crois qu’en l’espèce, l’intimée a fait la preuve du degré de probabilité requis, et qu’au vu de la preuve produite, aucune hypothèse incompatible avec celle que l’intimée a avancée ne peut être défendue.
+[83] Pour répondre à cette question, je dois en outre dire si la conduite de l’appelant constituait de l’aveuglement volontaire. Comme explique M. le juge Nadon, au nom de la Cour d’appel fédérale, dans l’arrêt Panini c. Canada[15] :
+[…] Par conséquent, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s’enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[84] Par rapport au sous‑alinéa 152(4)a)(i) de la LIR, le critère auquel on doit répondre pour que le paragraphe 163(2) joue est beaucoup plus exigeant. Dans la décision Venne, le juge Strayer s’exprime en ces termes :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+Cela tombe sous le sens lorsqu’on considère que le paragraphe 163(2) impose une pénalité égale à 50 pour 100 de l’impôt sur le revenu supplémentaire ajouté à l’impôt sur le revenu de l’appelant qui a été déclaré en moins par suite de la présentation erronée d’un fait ou de l’omission. Il est intéressant de remarquer que l’amende minimale prévue au paragraphe 239(1), disposition applicable en matière de fraude fiscale, est également de 50 pour 100[16].
+Analyse[17]
+[85] Les témoignages des quatre témoins étaient tous dignes de foi. En particulier, je signale que je retiens le témoignage de l’appelant voulant qu’il n’ait eu aucune intention d’éviter le paiement de l’impôt et qu’il se soit fié à ses conseillers pour régler toutes les difficultés éventuelles.
+[86] À la lumière de ces éléments, le ministre pouvait‑il établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation? Il ne fait aucun doute qu’il y a eu présentation erronée de faits puisqu’on a omis de déclarer la somme de 400 000 $. Cette omission est‑elle attribuable à de la négligence, à une inattention ou à une omission volontaire? Le contribuable a‑t‑il fait preuve de diligence raisonnable?
+[87] Les stipulations du le contrat de travail étaient on ne peut plus claires; il s’agissait d’un contrat de 1 000 000 $ d’une durée de trois ans prenant effet au moment de la vente de l’entreprise. Une somme de 200 000 $ était payable annuellement et une somme supplémentaire de 400 000 $ était payable au deuxième anniversaire de la vente. Le contrat de travail de sept pages n’est pas particulièrement compliqué[18].
+[88] Bien que la somme ait été reçue de K-III, au lieu de Sailings 2, qu’elle ait été versée tardivement, qu’elle se soit élevée à un montant étrange, c.‑à‑d. 1 763,56 $ de plus que les 400 000 $ convenus, et qu’elle n’ait pas subséquemment fait l’objet d’un feuillet T4, il aurait été relativement simple pour l’appelant de s’enquérir de la raison de ce paiement auprès du président de K‑III, Allan Glass, un ami, et de lui demander de vérifier son origine.
+[89] Monsieur Trudel a découvert une mention de la somme de 400 000 $ dans le livre de caisse. L’appelant et M. Trudel ont bel et bien discuté de cette somme et l’appelant s’attendait, de fait, à ce que M. Trudel s’occupe de la question. Cependant, l’appelant n’a jamais soulevé ce point avec M. Trudel après que ce dernier lui eut dit qu’il porterait la somme au crédit du compte d’actionnaire, qu’il terminerait la déclaration de revenus de la société et qu’il se chargerait des 400 000 $ plus tard. Rien dans la preuve ne donne à penser que l’appelant a abordé la question des 400 000 $ avec M. Collyer avant ou au moment de la production de sa déclaration de revenus personnelle relative à 1996[19]; la question a été examinée avec celui-ci plus tard, soit au moment de remplir la déclaration de revenus de la société pour l’exercice se terminant le 31 août 1997.
+[90] Bien qu’il ne fasse aucun doute que l’appelant a obtenu une somme importante, à savoir 11 000 000 $, pour la société, cette somme a été reçue avant 1996; en 1996, l’appelant a reçu un salaire d’environ 211 000 $. La somme de 400 000 $ versée en une seule fois et déposée dans son compte constituait une somme importante et on aurait pu s’attendre à ce que son destinataire tente de déterminer la nature du paiement non seulement en se contentant de confier la question à son conseiller, mais aussi en assurant un suivi afin de recueillir une explication satisfaisante.
+[91] En l’espèce, l’appelant a confié la question à son conseiller, mais il n’a jamais fait de suivi ni auprès de ce dernier, ni auprès de qui que soit d’autre, comme M. Glass, pour établir de manière définitive en quoi consistait cette somme. Il a agi ainsi bien que son conseiller, M. Trudel, n’ait manifestement pas été convaincu que la somme appartenait à la société et qu’il lui ait dit qu’il plaçait l’argent dans le compte d’actionnaire dans l’attente que la question soit réglée.
+[92] Même si je conclus que cette omission n’était pas volontaire, je dois conclure, vu les faits, qu’il y a eu négligence ou inattention de la part de l’appelant; il est établi « que le contribuable n’a pas fait preuve de diligence raisonnable ».
+[93] Comme je l’ai mentionné plus haut, je retiens le témoignage de l’appelant et je conclus que l’omission n’a pas été faite sciemment. Il me reste donc à me prononcer sur la question de savoir s’il s’agit, en l’espèce, de circonstances équivalant à faute lourde (ou à aveuglement volontaire).
+[94] Même s’il aurait été facile pour l’appelant d’effectuer de plus amples vérifications, je conclus qu’il était dans sa nature de se fier à ses conseillers, qu’il les payait pour qu’ils se chargent des éventuelles difficultés et qu’il croyait réellement, bien qu’à tort, que l’argent avait d’une façon ou d’une autre un lien avec la vente.
+[95] Ses actes reflètent cette conviction puisqu’il a immédiatement transféré l’argent au compte de la société le jour même où il l’a reçu. Il importe également de signaler que la décision de porter la somme au crédit du compte d’actionnaire a été prise par M. Trudel et non par l’appelant.
+[96] Suivant sa pratique consistant à se fier à ses conseillers, l’appelant était satisfait de laisser à M. Trudel le soin de régler la question des 400 000 $. Comme il croyait que l’argent appartenait à la société Sailings 1 et comme la taxe sur la vente de l’entreprise avait déjà été payée au moment de la vente en 1994, je veux bien croire que, dans son esprit, il n’y avait plus rien à régler.
+[97] D'ailleurs, si M. Trudel n’avait pas, au moment de prendre sa retraite, transféré le dossier de l’appelant à M. Collyer au début de 1997, la présente affaire aurait très bien pu ne jamais se produire.
+[98] Il n’y avait en l’espèce aucune indifférence quant au respect de la loi. La conduite de l’appelant n’équivalait ni à aveuglement volontaire, ni à faute lourde[20].
+Conclusion
+[99] En résumé, l’intimée pouvait établir une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation, mais les circonstances ne justifient pas l’imposition d’une pénalité en application du paragraphe 163(2).
+[100] Par conséquent, l’appel sera accueilli et l’affaire sera renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que la pénalité fondée sur le paragraphe 163(2) doit être annulée.
+[101] Je souhaite remercier les avocats des parties.
+[102] Avant de signer le jugement, je demanderai au greffe de communiquer avec les parties afin de prendre des dispositions concernant la présentation d’observations relatives à la question des dépens.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2008.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 15e jour de juin 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2008 CCI 583
+NO DU DOSSIER DE LA COUR : 2004-759(IT)G
+INTITULÉ DE LA CAUSE : Brian Gallery c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Les 19 et 20 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gaston Jorré
+DATE DES MOTIFS DU
+JUGEMENT : Le 10 décembre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Paul Ryan
+Avocate de l’intimée :
+Me Annick Provencher
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : Me Paul Ryan
+Cabinet : Ravinsky Ryan Lemoine
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription du 19 juin 2007, questions 261 à 263 et 479.
+[2] Onglet B, pièce A-1.
+[3] Voir l’onglet 8 de la pièce R-1, soit la demande de chèque de K-III. Sur ce document figure la note manuscrite suivante : [TRADUCTION] « Affecter à la réserve visant l’acquisition de C.S. », les initiales C.S. désignant sans aucun doute Canadian Sailings.
+[4] La preuve à cet égard était parfois difficile à suivre. Voir le témoignage de Lucie Fortin aux questions 27 à 41, 92, 93, 113 à 118, 125 à 148 et 156 à 159, ainsi que la pièce A‑2, onglet 1, pages 2 (note manuscrite au bas de la page), 16, 19 et 20 (particulièrement le paragraphe 4) et la pièce R‑1, onglet 12. Le témoin semble se demander si Sailings 2 a déduit une partie de la somme de 400 000 $ dans sa déclaration de revenus (soit une somme d’environ 66 000 $, voir la page 16 de l’onglet 1 de la pièce A‑2). En me fondant principalement sur l’onglet 1 de la pièce A‑2, en particulier les pages 19 et 20, je conclus que Sailings 2 n’a demandé aucune déduction au titre de la somme de 400 000 $ lorsqu’elle a produit sa déclaration de revenus. Elle a erronément déduit deux fois les paiements salariaux versés à l’appelant, une fois comme salaire dans les états financiers et une autre fois dans le formulaire T2S(1). Si ma conclusion à cet égard est erronée, Sailings 2 n’a pas déduit environ 334 000 $ des 400 000 $, mais bien une somme d’environ 66 000 $.
+[5] Voir l’onglet 5 de la pièce R‑1; un autre double se trouve à l’onglet 1 de la pièce A‑2.
+[6] Pièce A-2, onglet 20, page 5.
+[7] Transcription du 19 juin 2007, page 222, questions 653 à 657. Bien que les réponses à elles seules ne permettent pas d’apprécier la quantité de documents visée, vu les gestes qui accompagnaient les réponses du témoin on peut penser qu’il s’agissait d’un grand nombre de documents.
+[8] Onglet 11, pièce A-2.
+[9] Onglet 14, pièce A-2.
+[10] Onglet 17, pièce A-2.
+[11] Nesbitt c. Canada, [1996] A.C.F. no 1470 (QL), au paragraphe 8 : « Des faits ont été présentés erronément s’il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. »
+[12] [1984] A.C.F. no 314 (QL), 84 DTC 6247, à la page 6251.
+[13] Le paragraphe 163(3) de la LIR est également pertinent. Aux termes de ce texte, l’intimée a la charge de prouver les faits justifiant les pénalités. Comme il deviendra évident plus loin, je n’aurai à examiner la question de la charge de la preuve pour aucune des questions en litige puisque la preuve me permet de tirer une conclusion relativement à chacune d’elles.
+[14] 95 DTC 200.
+[15] 2006 CAF 224, au paragraphe 43.
+[16] La décision Venne se rapporte à l’année d’imposition 1978. À cette époque, la pénalité prévue au paragraphe 163(2) était de 25 pour 100, tout comme l’amende pénale minimale prévue au paragraphe 239(1).
+[17] Les parties ont également porté à mon attention la jurisprudence suivante : Sinclair c. Canada, 2003 CAF 348; Nesbitt v. Canada, [1996] A.C.F. no 1470 (QL); Panini c. Canada, 2006 CAF 224; Lévesque Estate v. Canada, [1995] A.C.I. no 469 (QL); Lemieux v. M.N.R., 81 DTC 144; Wong (E.) v. Canada, 4 G.T.C. 3188; Regina Shoppers Mall Limited v. The Queen, 90 DTC 6427; The Queen v. Regina Shoppers Mall Limited, 91 DTC 5101; Reilly Estate v. The Queen, 84 DTC 6001; M.N.R. v. Bisson, 72 DTC 6374; Ouellet c. Québec (sous-ministre du Revenu), 1993 CarswellQue 535; Robertson c. Sous-ministre du Revenu du Québec, AZ‑79091092; Boucher v. The Queen, 2004 DTC 6084; Penn v. M.N.R., 71 DTC 71; Cloutier v. The Queen, 78 DTC 6485; Snelgrove v. M.N.R., 79 DTC 780; Continental Steel Ltd. v. The Queen, 2000 DTC 1573; Knudson v. M.N.R., 86 DTC 1576; Larouche c. La Reine, 2004 CCI 629; The Queen v. Merkle, 80 DTC 6027; Findlay v. The Queen, 97 DTC 1149; Findlay v. The Queen, 2000 DTC 6345; Brygman v. M.N.R., 79 DTC 858; Farm Business Consultants Inc. v. The Queen, 95 DTC 200; Farm Business Consultants Inc. v. The Queen, 96 DTC 6085; Julian c. La Reine, 2004 CCI 330.
+[18] Onglet B, pièce A-1.
+[19] D'ailleurs, M. Collyer a bien dit, au cours de son témoignage que, lorsqu’il a présenté la déclaration de revenus personnelle de l’appelant, il lui a demandé s’il manquait quoi que soit. L’appelant a répondu que non. Manifestement, l’appelant n’a pas fait mention de la somme de 400 000 $ à titre d’élément devant être pris en compte dans la déclaration de revenus personnelle.
+[20] Pendant l’audience, on a signalé que Sailings 2 paraissait avoir été traitée de façon plus indulgente que l’appelant bien qu’elle ait omis de délivrer un feuillet T4. L’intimée a soutenu que la question de savoir si Sailings 2 avait fait l’objet d’un traitement plus favorable était dénuée de pertinence : Sinclair v. Canada, 2003 CAF 348, au paragraphe 7. J'abonde dans son sens.

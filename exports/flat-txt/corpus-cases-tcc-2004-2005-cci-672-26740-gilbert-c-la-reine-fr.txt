@@ -1,0 +1,210 @@
+Title: Gilbert c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26740/index.do
+Corpus path: corpus/cases/tcc/2004/2005-cci-672-26740-gilbert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-10-17
+
+# Gilbert c. La Reine
+
+- Citation: 2005 CCI 672
+- Decision date: 2004-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3421, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gilbert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-17
+Référence neutre
+2005 CCI 672
+Numéro de dossier
+2002-3402(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3402(IT)G
+ENTRE :
+PIERRE GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel d'Adela Gilbert (2002-3401(IT)G) le 7 juillet 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions
+Avocats de l'appelant :
+Me Paul Ryan
+Me Agathe Cavanagh
+Avocate de l'intimée :
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu, dont l'avis porte le numéro 30123, et est daté du 6 juin 2002, est admis, avec frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2002-3401(IT)G
+ENTRE :
+ADELA GILBERT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Pierre Gilbert (2002-3402(IT)G) le 7 juillet 2005 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions
+Avocats de l'appelante :
+Me Paul Ryan
+Me Agathe Cavanagh
+Avocate de l'intimée :
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu, dont l'avis porte le numéro 30124, et est daté du 6 juin 2002, est admis, avec frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI672
+Date : 20051017
+Dossiers : 2002-3402(IT)G
+2002-3401(IT)G
+ENTRE :
+PIERRE GILBERT,
+ADELA GILBERT,
+appelants,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune. Dans les deux cas, il s'agit d'une cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ) s'est fondé pour établir sa cotisation, dans le cas de l'appelant Pierre Gilbert, sont décrits au paragraphe 13 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) À tout moment pertinent, l'Appelant et madame Adela Gilbert étaient unis par les liens du mariage.
+b) À tout moment pertinent, l'Appelant et son épouse étaient les seuls actionnaires de la société Sécovac Inc. (ci-après appelée « la société » ), dans des proportions égales.
+c) L'Appelant et son épouse font partie d'un groupe lié qui contrôle la société.
+d) L'Appelant a un lien de dépendance avec la société.
+e) L'Appelant et son épouse sont les administrateurs de la société.
+f) Dans sa déclaration de revenus pour l'année d'imposition 1999, l'Appelant a indiqué qu'il a reçu un salaire de 105 116,55 $. Selon un formulaire T4 émis à l'Appelant, ce salaire provient de la société.
+g) Il a de plus déclaré un montant imposable de dividende s'élevant à 43 750 $, à la ligne 120 de cette déclaration. Selon le formulaire T5 annexé à sa déclaration de revenus, l'Appelant a reçu un montant réel de dividende de 35 000 $ de la part de la société.
+h) Selon les états financiers de la société au 31 octobre 1999, la société a versé un dividende de 70 000 $ au cours de cet exercice financier. L'Appelant et son épouse ont reçu un dividende de 35 000 $ chacun.
+i) Dans sa déclaration de revenus pour l'année d'imposition 2000, l'Appelant a déclaré un montant imposable de dividende s'élevant à 25 000 $, à la ligne 120 de cette déclaration. Selon le formulaire T5 annexé à sa déclaration de revenus, l'Appelant a reçu un montant réel de dividende de 20 000 $ de la part de la société.
+j) Selon les états financiers de la société au 31 octobre 2000, la société a versé un dividende de 40 000 $ au cours de cet exercice financier. L'Appelant et son épouse ont reçu un dividende de 20 000 $ chacun.
+k) Au moment où la société a versé un dividende à l'Appelant, elle avait une dette fiscale envers le Ministre s'établissant comme suit :
+Année
+d'imposition
+Impôt
+Pénalité
+Intérêt
+Total
+1999
+95 779,00 $
+11 593,31 $
+107 372,31 $
+2000
+26 238,00 $
+343,36 $
+2 384,37 $
+28 965,73 $
+Total
+136 338,04 $
+l) Aucune contrepartie ne peut être versée pour la réception d'un dividende.
+[3] Les faits concernant l'appelante Adela Gilbert sont identiques, sauf pour les changements nécessaires.
+[4] Au début de l'audience, les alinéas 13 a), 13 b) et 13 e) à 13 k) de la Réponse ont été admis. Au cours de l'audience, les alinéas 13 c) et 13 d) ont également été admis.
+[5] Deux cahiers de documents, l'un contenant 11 onglets et l'autre 8 ont été déposés de consentement comme pièces A-1 et A-3 pour l'appelant Pierre Gilbert. Deux cahiers semblables ont été déposés comme pièces A-2 et A-4 pour l'appelante Adela Gilbert.
+[6] Monsieur Pierre Gilbert a témoigné. Il est diplômé en ingénierie de l'École polytechnique de Montréal comme l'est l'appelante. Il a expliqué que la Société Sécovac Inc. (la « Société » ) a été incorporée en mai 1996. Elle exerçait dans le domaine de la conception et la vente de séchoirs à bois pour le bois mou ou bois d'oeuvre. Elle fournissait aussi des services de consultation auprès des scieries du Québec pour le séchage du bois. Les deux seuls employés de cette société étaient les appelants.
+[7] Au début de l'an 2000, les américains ont imposé une taxe à l'exportation du bois d'oeuvre. Cela a eu pour effet une diminution des investissements des scieries et le début des difficultés financières de la Société.
+[8] La Société a donné un avis de son intention de faire une proposition à ses créanciers en date du 30 mars 2001 (onglet 12 de la pièce A-3). Les créanciers de la Société étaient des créanciers fiscaux. Les assemblées des créanciers se sont tenues les 17 et 31 mai 2001. Les procès-verbaux se retrouvent à l'onglet 16 de la pièce A-3. L'offre a été refusée le 31 mai 2001. Le procès-verbal indique « vu les dispositions de l'article 57, la débitrice est réputée avoir fait une cession ce jour et une assemblée des créanciers à la faillite de la débitrice est réputée convoquée » .
+[9] En contre-interrogatoire, il a été admis qu'en 1999, chacun des appelants avait reçu de la Société un salaire de 105 116,55 $ et un dividende au montant imposable de 43 750 $ (onglet 4 des pièces A-1 et A-2). Le montant du dividende non majoré est de 35 000 $, selon le T5, État des revenus de Placements (onglet 6 des pièces A-1 et A-2).
+[10] Pour l'année 2000, les appelants ont reçu chacun un dividende au montant imposable de 25 000 $, le montant non majoré était de 20 000 $, (onglets 5 et 7 des pièces A-1 et A-2).
+[11] L'agent du Ministre qui a fait la vérification et qui a participé à la réunion concernant la proposition concordataire n'était pas disponible pour témoigner pour des raisons de santé. Madame Ginette Boucher, agent de recouvrement pour Revenu Canada a témoigné. Elle a confirmé que les deux seuls créanciers de la Société étaient les gouvernements fédéral et provincial. La dette fiscale de la Société est décrite à l'alinéa 13 k) de la Réponse, ci-dessus.
+[12] Madame Boucher a confirmé que le 30 mars 2001, la Société avait donné avis qu'elle avait l'intention de déposer une proposition. Le 3 mai 2001, la proposition a été déposée. Le 16 mai 2001, Revenu Canada et Revenu Québec s'informent mutuellement que le montant proposé est inacceptable. Le 17 mai, il y a une première assemblée des créanciers. Le 25 mai 2005, les créanciers reçoivent les états financiers se terminant le 31 octobre 2000. Le poste « Avances aux actionnaires » est maintenant de 814 894 $. La Société, en l'an 2000, aurait réalisé un profit de 140 482 $. Le compte avances aux actionnaires a passé de 1998 à 2000 de 380 841 $, 449 003 $ et 814 894 $. Les actionnaires avaient bénéficié d'un prêt pour résidence sans intérêts.
+[13] La proposition ayant été refusée, il y a eu cession des biens ou faillite.
+Plaidoiries
+[14] L'avocat des appelants fait valoir comme argument principal qu'un versement de dividende n'entraîne pas un enrichissement corrélatif du bénéficiaire. Il s'ensuit qu'un dividende n'est pas un transfert de bien visé au sous-alinéa 160(1)e)(i) de la Loi.
+[15] Selon l'avocat, quand une société verse un dividende, la valeur de la société diminue d'un montant correspondant. La valeur de la part de l'actionnaire dans la société suit cette diminution. Par exemple, si une société, immédiatement avant l'octroi d'un dividende, a des bénéfices non répartis de 90 000 $, chacun des deux actionnaires a des actions qui valent au moins 45 000 $. S'il y a versement d'un dividende au montant total de 70 000 $, les actions de chacun des deux actionnaires ne valent plus que 10 000 $. Donc, l'actionnaire ne s'est pas enrichi. La valeur de ses actions a subi une réduction correspondante au montant du dividende reçu.
+[16] Il fait valoir que la jurisprudence concernant l'article 160 de la Loi parle toujours en termes d'appauvrissement du cédant et de l'enrichissement corrélatif du cessionnaire.
+[17] Comme exemple, il se réfère au paragraphe 26 de la décision Hamel c. Canada (ministre du Revenu national - M.R.N.), [1995] A.C.I. no 419 (QL) :
+... Nous avons vu que le transfert n'a pas à être fait directement au bénéficiaire. Il y a transfert s'il y a appauvrissement chez celui qui transfère en faveur du bénéficiaire que ce transfert se fasse directement ou indirectement et enrichissement correspondant chez le bénéficiaire. Je suis d'avis que c'est ce qui s'est produit dans le présent cas.
+[18] Or, selon l'avocat, dans le cas de la réception d'un dividende, il n'y a pas d'enrichissement du cessionnaire. La société s'est appauvrie mais il n'y a pas eu enrichissement correspondant de l'actionnaire.
+[19] Comme argument subsidiaire, l'avocat des appelants fait valoir que s'il y a eu effectivement transfert de propriété au sens de l'article 160 de la Loi, la juste valeur marchande du dividende est son montant diminué de l'impôt payable. C'est ce qu'une tierce personne, dans un marché libre, accepterait de payer pour acquérir le dividende.
+[20] L'avocat soulève aussi la possibilité d'une contrepartie ou considération donnée par l'actionnaire en se fondant sur les propos du juge Archambault dans Gestion Yvan Drouin Inc. c. La Reine, 2001 DTC 72, aux paragraphes 42, 44, 45 et 46.
+[21] Le paragraphe 42 se lit comme suit :
+J'ai mentionné plus haut que le mot « transfert » est d'une portée assez large pour comprendre un dividende versé à un actionnaire. Par contre, il n'est pas aussi clair qu'un dividende est un bien transféré sans aucune contrepartie par le cessionnaire. Une société qui désire exploiter une entreprise a besoin de capital pour lui permettre de financer ses opérations et de faire l'achat des immobilisations nécessaires à l'exploitation de cette entreprise. Une de ses sources de fonds est le capital-actions fourni par les actionnaires; une autre, le financement par prêts. Pour intéresser un actionnaire, la société offre un rendement sous forme de dividendes sur les actions détenues par cet actionnaire. Dans les cas de certaines actions privilégiées, comme cela est le cas ici, le rendement peut même avoir été prévu d'avance.
+[22] L'avocate de l'intimée s'est référée à la décision du juge Rip dans Algoa Trust c. Canada, [1993] A.C.I. no 15 (QL), à la page 11 :
+... Le versement d'un dividende en argent ou sous forme d'autres biens est un transfert de biens au sens du paragraphe 160(1) de la Loi. La corporation s'est appauvrie, et ses actionnaires se sont enrichis. Je ne vois pas comment on peut dire qu'un dividende ne constitue pas un transfert de biens. ...
+[23] Le juge dans cette affaire dit bien qu'en versant un dividende, la corporation s'est appauvrie, les actionnaires se sont enrichis et que le versement d'un dividende est un transfert. Cette décision a été confirmée par la Cour d'appel fédérale le 4 février 1998 sans ajout de motifs supplémentaires.
+[24] Toujours en ce qui concerne l'argument de l'appauvrissement du cédant et de celui du cessionnaire dans le cas de l'émission d'un dividende, l'avocate de l'intimée se réfère à une décision du juge Paris de cette Cour dans Therrien c. Canada, [2005] A.C.I. no 7 (QL). Un argument semblable à celui des appelants avait été invoqué dans cette affaire tel que mentionné au paragraphe 46e) de cette décision :
+e) l'appelant a assumé une réduction de la valeur de ses actions qui correspond au montant des dividendes versés par la société;
+[25] Au paragraphe 51 de cette décision, le juge répond ainsi à cet argument :
+51 Finalement, l'argument des appelants au sujet de la diminution de la valeur de leurs actions à la suite du paiement de dividendes, est fondamentalement vicié. Même si la valeur des actions des appelants a diminué à la suite du versement des dividendes (ce qui n'a pas été démontré ici) cela ne signifie pas que la société ait reçu une contrepartie en paiement des dividendes. Il n'a pas été démontré que la prétendue diminution de valeur des actions des appelants ait causé un enrichissement équivalent de la société.
+[26] Quant au sujet de la contrepartie possible relativement à un dividende, l'avocate se réfère à la décision de la Cour suprême du Canada dans Neuman c. M.R.N., [1998] 1 R.C.S. 770, à la page 791, qui confirme clairement qu'aucune contrepartie ne peut être versée pour la réception du dividende (en citant avec approbation les motifs dissidents du juge LaForest dans McClurg c. Canada, [1990] 3 R.C.S. 1020) : « ... le versement d'un dividende résulte de la propriété du capital-actions d'une société. ... un dividende est le rapport du capital qui se rattache à une action et ne dépend d'aucune façon de la conduite d'un actionnaire donné. »
+[27] En ce qui concerne la juste valeur marchande d'un dividende, l'avocate de l'intimée soutient que la juste valeur marchande est celle du bien entre les mains de l'auteur et non entre les mains du bénéficiaire. À cet égard, elle se réfère à la décision de la Cour d'appel fédérale dans Hewett c. Canada, [1997] A.C.F. no 1541 (QL) et au passage suivant :
+2 Nous convenons avec le juge de la Cour de l'impôt que le but de l'article 160 de la Loi de l'impôt sur le revenu est d'empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle. À notre avis, cela signifie que les « biens » dont il est question dans l'article doivent être des biens du contribuable que le ministre aurait pu saisir si le transfert n'avait pas eu lieu. ...
+[28] L'avocate soumet que l'objectif de l'article 160 est de permettre au créancier, soit le Ministre, d'exiger le paiement de sa créance à l'encontre des
+biens de l'auteur du transfert, biens qui ont été transférés à une personne qui avait un lien de dépendance avec l'auteur du transfert où il était endetté envers le Ministre. Il n'y a pas lieu de tenir compte de l'impôt payé par le bénéficiaire.
+Analyse et conclusion
+[29] Un actionnaire s'appauvrit-il de la valeur diminuée de la société dont il est actionnaire lors d'un versement et de la réception d'un dividende ? L'avocat des appelants ne s'est référé à aucune doctrine ou jurisprudence quant à cette affirmation.
+[30] Selon ma compréhension du droit corporatif, c'est au moment de la liquidation d'une société que les actionnaires se partagent le reliquat des biens de la société. L'émission d'un dividende est de nature différente. Je ne puis accepter la proposition que la réception d'un dividende cause l'appauvrissement corrélatif de l'actionnaire bénéficiaire. Je ne crois pas que ce soit le cas en droit corporatif et ce ne l'est sûrement pas en droit fiscal. En droit fiscal, une personne qui reçoit un dividende doit l'inclure dans le calcul de son revenu car il s'agit d'une augmentation de son revenu. En ce qui concerne la société qui l'émet, il s'agit d'une diminution de ses bénéfices non répartis et une diminution de ses avoirs.
+[31] Donc, il y a appauvrissement de la société émettrice et enrichissement du bénéficiaire comme dans tout transfert de biens sujet à l'article 160 de la Loi.
+[32] En ce qui concerne la possibilité d'une contrepartie à donner pour l'émission d'un dividende, je suis d'avis que la Cour suprême du Canada dans Neuman (supra) a clairement exprimé qu'il n'y en avait pas. Le droit à un dividende découle de la propriété des actions. Il faut éviter de confondre la contrepartie donnée pour l'acquisition des actions et la contrepartie pour dividendes. La contrepartie donnée pour l'acquisition des actions est prise en considération pour l'acquisition et la disposition des actions. Il ne s'agit pas d'une contrepartie donnée pour un dividende.
+[33] Il reste à déterminer pour les fins du sous-alinéa 160(1)e)(i) de la Loi, la juste valeur marchande du dividende au moment du transfert. Ce sous-alinéa se lit ainsi :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance -- Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+...
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+[34] Qu'en est-il de la juste valeur marchande d'un dividende? Doit-elle être diminuée de l'impôt payable par le bénéficiaire du dividende comme le soutient l'avocat des appelants?
+[35] Avant de commencer l'analyse de la juste valeur marchande d'un dividende, il me faut mentionner qu'il paraît étrange qu'une personne soit cotisée pour le plein montant d'un dividende à l'égard duquel elle a déjà payé de l'impôt au créancier fiscal. Aux États-Unis, une personne dans une telle situation a droit de déduire une perte dans l'année où elle remet une somme qu'elle a déjà incluse dans son revenu. Voir Healy et al. v. Commissioner of Internal Revenue, 345 U.S. 278; 53-1 U.S. Tax Cas. (CCH P292); Samuel Stein Estate, 37 T.C. 945, et les commentaires sous l'article 1341 de l'Internal Revenue Code, au volume 12 du United States Tax Reporter.
+[36] L'avocat me mentionne que par l'application de la juste valeur marchande, on pourrait éviter un résultat qui ne paraît pas être tout à fait dans la logique du droit. Selon l'avocat, la juste valeur marchande est le prix le plus probable qu'une personne pourrait obtenir sur un marché concurrentiel libre et que sur un tel marché, la juste valeur marchande d'un dividende serait le montant du dividende déduit de l'impôt payable.
+[37] La définition de juste valeur marchande proposée par l'avocat me semble correcte, si je me rapporte à la définition de cette expression dans le Dictionnaire de droit québécois et canadien, Hubert Reid, 2e éd., Wilson & Lafleur, elle se lit ainsi :
+Prix le plus élevé qui puisse être obtenu sur un marché libre, lorsque les parties à une transaction sont bien informées, prudentes et indépendantes l'une de l'autre et qu'aucune d'elles n'est forcée de conclure la transaction.
+[38] Je n'ai pu trouver aucune décision ni aucune doctrine sur la juste valeur marchande d'un dividende. Je suppose que la question ne se pose pas ou n'a pas à être posée. Un dividende est d'un certain montant et l'on n'a habituellement pas à se poser des questions sur sa juste valeur marchande.
+[39] Peut-on appliquer la notion de juste valeur marchande à un dividende? Dans un cas de transfert sujet à l'application de l'article 160 de la Loi, il me faut expressément prendre en compte que l'article 160 de la Loi parle de la juste valeur marchande du bien transféré. Dans cette perspective, en me fondant sur la notion de valeur marchande, quel serait le prix le plus élevé qu'un émetteur de dividende pourrait obtenir d'un tiers acquéreur. Il me semble que la réponse ne peut être qu'il s'agit du montant du dividende moins l'impôt à payer sur ce dividende.
+[40] Sur un autre plan, soit celui de l'appauvrissement du débiteur fiscal et de l'enrichissement du cessionnaire, au détriment du créancier fiscal, il me semble qu'à l'égard de ce créancier, l'appauvrissement et l'enrichissement sont à la hauteur du montant du dividende moins l'impôt payé à ce créancier à l'égard de ce dividende.
+[41] En conséquence, les appels sont accordés avec frais sur la base que pour les fins de l'article 160 de la Loi, la juste valeur marchande d'un dividende est ce montant soustrait de l'impôt payable par le bénéficiaire relativement à ce dividende.
+Signé à Ottawa, Canada, ce 17e jour d'octobre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI672
+Nos DES DOSSIERS
+DE LA COUR :
+2002-3401(IT)G
+2002-3402(IT)G
+INTITULÉS DES CAUSES:
+Adela Gilbert et La Reine
+Pierre Gilbert et La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+7 juillet 2005
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 17 octobre 2004
+COMPARUTIONS :
+Pour les appelants :
+Me Paul Ryan
+Me Agathe Cavanagh
+Pour l'intimée :
+Me Nathalie Labbé
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Paul Ryan
+Étude :
+Ravinsky Ryan
+Montréal (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

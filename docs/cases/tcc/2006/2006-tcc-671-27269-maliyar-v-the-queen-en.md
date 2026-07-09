@@ -1,0 +1,198 @@
+---
+title: "Maliyar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27269/index.do"
+last_modified: "2006-12-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 671"
+citation2: ""
+neutral_citation: "2006 TCC 671"
+decision_date: "2006-12-07"
+language: "en"
+item_id: "27269"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 843
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:30:14.073000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d396138fb1730a118d1fd165e0e1f0ec728bc0422f4b6a470950dc83a15f4d0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maliyar v. The Queen
+
+- Citation: 2006 TCC 671
+- Decision date: 2006-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 843, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maliyar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-07
+Neutral citation
+2006 TCC 671
+File numbers
+2005-4520(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4520(IT)I
+BETWEEN:
+NAJIBULLAH MALIYAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on November 10, 2006 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of December 2006.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2006TCC671
+Date: 20061207
+Docket: 2005-4520(IT)I
+BETWEEN:
+NAJIBULLAH MALIYAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant appeals his 2002 and 2003 taxation years during which he worked for Hidi Rae Consulting Engineers Inc. ("Hidi").
+[2] The Appellant filed his income tax returns for the subject years on the basis that his income from Hidi was income from a business and claimed the following expenses:
+Year
+Gross Income
+Expenses
+Profit (Loss)
+2002
+$6,788.00 *
+$8,826.78
+($2,722.78)
+2003
+$35,888.00
+$12,876.87
+$20,507.13
+* The Reply mistakenly refers to gross income of $8,344.00.
+[3] The Minister of National Revenue ("Minister") reassessed the Appellant as follows:
+2002:
+Employment Income
+$6,787.00
+2003:
+Employment Income
+$38,400.00
+Applicable Employment Insurance Premiums ("EI") and Canada Pension Plan ("CPP") contributions were also assessed.
+[4] It is not in dispute that all the income amounts reported in the subject years were receipts from Hidi. If the contract with Hidi was a contract for services (independent contractor) the expenses claimed are to be allowed. If his contract with Hidi was a contract of service (employment), the expenses claimed are to be denied.
+[5] The Reply set out assumptions relied on by the Minister including that the Appellant was employed with Hidi and worked regular daily hours from 9:00 a.m. to 5:00 p.m., that Hidi provided the Appellant with all the supplies that Appellant required to perform his duties, and that Hidi assumed all responsibility for any mistakes or errors of the Appellant.
+[6] Additionally, Respondent's counsel produced evidence of a written contract of employment, invoices that the Appellant submitted to Hidi in respect of services performed, CRA correspondence to Hidi setting out the results of its employer compliance audit, Hidi's letter response to the audit results, and Hidi's report of work performed by the Appellant.
+[7] The Appellant testified at the hearing as to the following facts:
+− he was a mechanical engineer with 25 years of experience providing computer drafting and design services. He provided such services, sometimes as an employee and sometimes as in independent contractor;
+− prior to working with Hidi he was employed with another engineering company but was laid off. He was unemployed for two months before being called by Hidi;
+− Hidi retained his professional drafting services and assigned specific projects to him but exercised no control over the manner in which he performed his services. He was required to work at Hidi's offices and used Hidi's offices, computers and supplies. He had access to Hidi's offices during weekends. He had and used one of his own software programs that he said enhanced the speed of the programs used by Hidi;
+− in 1995 he registered a business name. It was renewed in December of 2001 under the name "Afco Enterprises Co." to carry on consulting and computer related services. The registration expires in December 2006. The business is a GST registrant;
+− he intended that his services to Hidi were under the umbrella of that business but admitted to signing a contract that expressly set out that he was an employee. He said the contract was a form letter imposed on him but it was never intended by him to reflect his engagement status;
+− in 2002 he said he did small jobs before going to work with Hidi and, as well, suggested that he could, and did, do other small jobs while retained by Hidi given that he had flexibility in his hours and days of work at Hidi. He testified that some 80% of his work was for Hidi because Hidi kept him busy, but suggested that the balance was spent on small jobs for other clients. He said his work at Hidi involved some weekend and evening work to meet deadlines;
+− he submitted time sheets to Hidi and every two weeks he submitted invoices for hours engaged at an agreed hourly rate:
+− projects were assigned by a project manager with an hourly budget. His job assignments were to input data that was provided to him and to produce computer drawings for the professional engineer in charge of the project. The project manager approved his work and time. While he needed knowledge of computer programs and building and engineering codes, the input assignments were mainly keyboard data entries;
+− he invoiced his time in his own name and added GST, which Hidi paid in addition to the charges for time engaged. He remitted the GST as required;
+− there were no EI or CCP or income tax withholdings; he received no benefits or holiday pay;
+− Hidi issued T4A's for his gross fees each year including GST, which he added to his business statements netting out the GST on the statements;
+− after being terminated in 2003, he was denied EI benefits.
+[8] The Respondent called Hidi's accounting manager to give evidence. His testimony was along the following lines:
+− the employment contract signed by the Appellant was descriptive of the nature of the engagement intended by Hidi. Hidi had two types of employees: full-time long-term salaried employees who were given benefit packages and from whose earnings benefits were withheld; and, contract employees hired only for so long as work required their engagement. The Appellant was in the latter category. There was no commitment regarding the duration of the work and no notice of termination required. These employees were paid by the hour but were required to come to Hidi's offices to work on assigned projects under the same conditions as regular employees doing similar work. Space and tools were provided. Time deadlines had to be complied with. There was an expectation that regular working hours would be adhered to and assignments were given out on that basis;
+− time records indicated that the Appellant generally worked a seven-hour day, five days a week with some overtime and only a few, if any, missed days - all as expected of a contract employee;
+− the Appellant worked on projects for more than 60 clients of Hidi[1] and was a regular part of its workforce during his engagement. He kept regular office hours as expected, completed work as assigned, used the Hidi office facilities, and required none of his own equipment;
+− Hidi was audited in 2004 and as a result it was assessed for employer EI and CCP contributions on all but a few of its contract workers, namely those who did not attend regularly at their offices to perform their drafting services;
+− the Appellant failed to be classified as an independent contractor;[2]
+− Hidi went along with invoicing contract employees as a business until the employment compliance audit in 2004 determined that contract employees such as the Appellant were to be dealt with as regular employees. Hidi accepted such determination in respect of contract employees performing services at its offices under its direction and retained a human resources manager to better administer employment matters.
+ANALYSIS
+Intention
+[9] Recent jurisprudence on independent contractor versus employee status have turned to examine more closely the intentions of the parties in certain circumstances.[3] This is not a case that falls within the ambit of such authorities. Firstly, the evidence relating to the intentions of the parties is conflicting. As such it cannot be determinative. Even as one of a number of factors or tests to be considered, as suggested by Chief Justice Bowman in Freeway Technologies, intentions cannot be given weight in circumstances such as this. Secondly, where other factors or tests relevant to the classification of the nature of the engagement are determinative, the authorities tend to rely heavily if not exclusively on such other factors. Only in so-called "close cases" are intentions given such weight as might be determinative.[4] This is not a "close case".
+[10] Before dealing with the other factors that I find determinative of the nature of the subject engagement, it is necessary to say more about the difficulties in this case relating to making a determination as to the intentions of the parties. As stated, the evidence is conflicting. The express language of the written contract imposed by Hidi was not reflected in the invoicing and payment methods employed by it. In spite of this, Hidi's accounting manager gave evidence at the hearing that the engagement was really intended to be that as written and as later acknowledged after the employer compliance audit. As to the Appellant's evidence, he argues that he was in business yet the evidence was that:
+− the contract and invoices are not in the name of his business;
+− he testified that he did other consulting work but his only reported business income in both the subject years equals his earnings from Hidi;
+− he testified that his time was flexible to permit such other work but he worked regular hours - 35 hours a week with some overtime;
+− he applied for EI benefits after being terminated by Hidi in 2003[5];
+− he did not appeal the 2004 determination of his being an employee; and
+− he did not question the T4A information slips received from Hidi but rather recreated the CRA "Statement of Business Activity" form to show same as business income.[6]
+Much of this contradicts both his stated intent and his understanding of the nature of the engagement. He knew what was expected of him - he knew his intended status - but he still sought the benefit of an invoicing system without statutory withholding and Hidi went along with it. Such arrangement and state of affairs are anything but helpful to the Appellant. They produce no clear evidence of intention. Indeed if an intention test was a determinative test, the Appellant would fail in his appeal simply by reason of the fact that he has not met the burden of proof imposed on him to dispel the Minister's assumption that he was an employee.
+[11] I turn now to the other factors or tests referred to above as the proper ones to consider in cases like this. Application of the traditional tests applied in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, as confirmed in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, lead me to conclude that the Appellant was an employee of Hidi.
+Control
+[12] The control test does not depend solely on the payer controlling the manner in which the work is done. Professional drafters are given latitude to carry out their work according to their skills, but that does not mean that they are not subordinates in any given engagement. In the case at bar the Appellant is clearly a subordinate of the project manager. He was required to be at Hidi's place of work because he was to be at a manager's beck and call in terms of projects assigned, the priority of the assignment, and the time that was to be spent on it. There is a significant degree of control over both worker and result where the work is assigned on a regular basis with strict project guidelines and time tables using the payer's tools and software on the payer's premises and subject to the dictates of the payer. In my view the control test in such cases favours a finding that the worker is an employee.
+Tools
+[13] I have no evidence that the Appellant's work at Hidi required the use of his own tools. His software program may have been a useful adjunct that saved the Appellant some time, but I have no evidence that it was necessary or required. Indeed, the Respondent's witness said it was not a required tool. Hidi's software programs were sufficient and relied on by Hidi to produce the required drawings. Again this favours a finding that the Appellant was an employee.
+Risk of Loss/Chance of Profit
+[14] I have no evidence of any capital invested by the Appellant. The engagement with Hidi neither affords entrepreneurial rewards nor forms part of an entrepreneurial enterprise. In this context an hourly wage does not support a finding that the arrangement either affords the Appellant an opportunity for profit or subjects him to a risk of loss. Again this favours a finding that the Appellant was an employee.
+Integration/Whose Business Is It?
+[15] As stated by Desjardin J. in Sagaz at paragraph 93, the question is whether, from the worker's perspective, the worker has a business that stands independently from the business of the party engaging the worker's services. While I have evidence that the Appellant registered a business name and registered as a supplier for GST purposes, and, while there were GST collections and remittances in respect of the services to Hidi, I have insufficient evidence that there was in fact a business during the subject period (or any period for that matter) that stood independently as a source of income.[7] The Appellant's testimony as to the flexibility of his work hours with Hidi and having other projects are not borne out by the evidence. Although the Appellant can argue that one client is sufficient to constitute a business, saying so does not make it so. Having a business name with no evidence of the existence of a business is of no assistance. There was no evidence that the business had a listing in any directory or that the Appellant advertised for business. There was no evidence of Afco Enterprises ever having a paying client that might have through word of mouth generated business. None of the evidence before me points in the direction of the Appellant engaging in his own business in the course of providing services to Hidi. Given that the Appellant cannot rely on the intention test or on the other tests discussed above, the absence of evidence of such business indices further supports my conclusion that his contract with Hidi was a contract of service, not a contract for services.
+[16] Accordingly, I conclude that the appeal must be dismissed.
+Signed at Ottawa, Canada, this 7th day of December 2006.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2006TCC671
+COURT FILE NO.:
+2005-4520(IT)I
+STYLE OF CAUSE:
+Najibullah Maliyar and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 10, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+December 7, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-6.
+[2] Exhibit A-7 includes portions of an objection made to the CRA by the Appellant to his classification as an employee as well as portions of the CRA's decision. This decision confirming his employment status was not appealed.
+[3] See for example Wolfe v. Canada, [2002] 4 F.C. 396 (F.C.A.); Direct Care In-Home Services Inc. v. Canada, [2005] T.C.J. No.164 (T.C.C.); Royal Winnipeg Ballet v. Canada, [2006] F.C.J. No. 339 (F.C.A.); Art City in St. James Town v. Canada, [2006] T.C.J. No. 391 (T.C.C.); Freeway Technologies Inc. v. M.N.R., [2006] T.C.C. 507; and City Water International Inc. v. The Queen, [2006] F.C.A. 350.
+[4] See CityWater International.
+[5] This was his testimony as well as his claim in his objection to the CRA classification of his status as shown in Exhibit A-7.
+[6] No explanation of the use of T4A slips was given at the hearing. Its use appears to emphasize the confusion if not collusion of the employer. If Hidi had a duty of care to the Appellant to comply with employment laws applicable under its own contractual model and mindset, it seems to have been too ready to ignore that duty.
+[7] Hidi issued T4As for $6,788.00 in respect of the 2002 year and $38,400.00 in respect of the 2003 year. These amounts were as invoiced by the Appellant and included GST. As required the Appellant reported $6,344.00 in 2002 and $35,888.00 as gross receipts being the gross receipts net of GST billed and remitted by the Appellant and paid by Hidi. Such amounts net of GST were the only business source revenues shown on both returns. That is, the Appellant's business, if he had one, had one client in the subject years, namely, Hidi.

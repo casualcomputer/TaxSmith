@@ -1,0 +1,222 @@
+---
+title: "Guilmette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26330/index.do"
+last_modified: "2004-01-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 101"
+citation2: ""
+neutral_citation: "2004 TCC 101"
+decision_date: "2004-01-29"
+language: "en"
+item_id: "26330"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3277
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:51:53.357000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88deceea4729bf23e3204426626e3d29c4c5df2a8218fc8f7a8c9f6ca1d9bbc8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guilmette c. La Reine
+
+- Citation: 2004 TCC 101
+- Decision date: 2004-01-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3277, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guilmette c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-29
+Neutral citation
+2004 TCC 101
+File numbers
+2003-1266(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1266(IT)I
+BETWEEN:
+ANN GUILMETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 4, 2003, at Québec, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Alain Béland
+Counsel for the Respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeals of assessments established under the Income Tax Act for the taxation years 1998 and 1999 are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of January 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 15th day of December 2004.
+Elizabeth Tan, Translator
+Citation: 2004TCC101
+Date: 20040129
+Docket: 2003-1266(IT)I
+BETWEEN:
+ANN GUILMETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal under the informal procedure concerning the taxation years 1998 and 1999.
+[2] The issues are whether the Appellant and her husband, Daniel Cozak, were living in a marital relationship during the years in question and whether a vehicle belonging to the Appellant was used for business purposes.
+[3] The Minister of National Revenue (the "Minister") relied on the following facts when establishing the reassessments, as described in paragraph 12 of the Reply to the Notice of Appeal (the "Reply"):
+[TRANSLATION]
+EMPLOYMENT EXPENSES
+(a) during the taxation years in question, the Appellant was employed by the company Traitement de recyclage Industriel Inc. (hereinafter, the "company");
+(b) Daniel Cozak is the majority stockholder of the company;
+(c) Daniel Cozak is the Appellant's spouse;
+(d) for the taxation years 1998 and 1999, the Appellant claimed $3,621 and $6,893, respectively, as other employment expenses;
+(e) the amounts stated in the preceding paragraph are only the expenses for the depreciation of a vehicle;
+(f) for each of the taxation years in question, the Appellant produced a T777 form-Statement of Employment Expenses;
+(g) for the taxation year 1998, the Appellant claimed to have driven her personal vehicle 25,000 km for business purposes out of a total of 28,000 km, for the period from August 28, 1998, to December 31, 1998;
+(h) for the taxation year 1999, the Appellant claimed she drove 10,000 km for business purposes and 10,000 km total;
+(i) in response to the request of the Minister's auditor, the Appellant produced a log in which she had detailed the 29,594 km she had driven for business travel out of a total of 35,405 km over the taxation year 1998;
+(j) the vehicle she allegedly used was acquired in November 1998;
+(k) the Appellant indicated that she leased the vehicle from August 28, 1998, until it was purchased in November 1998;
+(l) for the taxation year 1999, the travel indicated in the log was 10,162 km for business purposes and 10,162 km total;
+(m) during a telephone conversation with the Minister's auditor, the Appellant said that she left the residence directly to go meet her clients;
+(n) later, during another telephone conversation with the Minister's auditor, the Appellant said that she travelled with a friend to get to the office and then she left the office with the vehicle to go see the clients;
+(o) the Appellant refused to identify the "friend" with whom she travelled;
+(p) based on the above, the Minister's auditor considered that the log produced by the Appellant was not valid, and as a result, refused her the amounts of $3,621 and $6,893 for the taxation years 1998 and 1999, claimed as other employment expenses;
+(q) at the objection stage, the Appellant's agent informed the Minister's agent that all gas and vehicle maintenance fees were paid by the Appellant who was then reimbursed by the company;
+(r) the Minister's agent asked the Appellant's agent to provide evidence of the travel and of the reimbursements by the company, in support of the trips;
+(s) further to this analysis, the Minister's agent came to the same conclusions as the auditor, that is that the evidence provided did not support the travel indicated in the log submitted, and moreover, the amounts indicated were sometimes unreasonable.
+EQUIVALENT-TO-SPOUSE CREDIT
+(t) the Appellant claimed amounts of $5,918 and $6,290 as amounts for a married person to be used for the calculation of non-refundable tax credits for the taxation years 1998 and 1999;
+(u) by way of a notice of assessment for the taxation year 1999, sent to the Appellant on May 8, 2000, the Minister reduced the amount claimed by the Appellant as amount for a married person to be used for the calculation of non-refundable tax credits to "NIL";
+(v) by way of a notice of reassessment for the taxation year 1998, sent to the Appellant on March 21, 2002, the Minister reduced the amount claimed by the Appellant as amount for a married person to be used for the calculation of non-refundable tax credits to "NIL";
+(w) on or around May 17, 2002, the Appellant notified the Minister of her opposition to the reassessments of March 21, 2002, for the taxation years 1998 and 1999;
+(x) further to a telephone request by the Appellant, during which the Appellant claimed $5,380 as an equivalent-to-spouse amount to be used for the calculation of non-refundable tax credits for the taxation year 1998, the Minister issued a notice of reassessment on May 21, 2002, in accordance with subsection 152(4) of the Act;
+(y) on or around September 5, 2002, the Appellant notified the Minister of her opposition to the reassessment of May 21, 2002, for the taxation year 1998;
+(z) by way of a notice of reassessment for the taxation year 1998, sent to the Appellant on January 7, 2003, the Minister reduced the amount claimed by the Appellant as an equivalent-to-spouse amount used in the calculation for non-refundable tax credits to "NIL";
+(aa) during the years in question, the Appellant resided at 54 Louis-Jolliet, Ste-Catherine-de-la-Jacques-Cartier (hereinafter the "residence");
+(bb) many personal expenses that were included as expenses for Daniel Cozak's company were for the residence;
+(cc) among these expenses were groceries, recreation activities, clothing and dry cleaning for women's clothing and other expenses for the Appellant and the children;
+(dd) moreover, the company paid for many of the maintenance and renovation expenses for the house that was the Appellant's residence;
+(ee) according to the T-4 forms issued by the company for the Appellant, she received $28,000 and $21,250 in wages for the taxation years 1998 and 1999, respectively;
+(ff) Daniel Cozak had revenues of $50,367 and $41,511 for the taxation years 1998 and 1999, respectively;
+(gg) the Appellant was not receiving any support payments and says she reinvested almost all her salary into the company;
+(hh) during the period under investigation, the Appellant contributed $12,496 to a "Registered Retirement Savings Plan";
+(ii) the Appellant never justified these contributions;
+(jj) Daniel Cozak provided the Minister with a lease as his proof of residence;
+(kk) this lease is for the premises he uses as a business office in Trois-Rivières;
+(ll) moreover, the entire space is claimed as the company's business expenses;
+(mm) in light of the preceding, the Minister concluded that Daniel Cozak and the Appellant did not live apart during the taxation years in question;
+(nn) the Minister therefore refused the equivalent-to-spouse amount claimed by the Appellant to be used for calculating the non-refundable tax credits for the taxation years 1998 and 1999;
+CREDIT/ADDITIONAL AMOUNT FOR EACH INDIVIDUAL
+(oo) the Appellant claimed $925 and $1000 as additional personal amounts to be used for calculating non-refundable tax credits for the taxation years 1998 and 1999, respectively;
+(pp) according to the T-4's issued by the company for the Appellant, she received $28,000 and $21,250 in wages for the taxation years 1998 and 1999, respectively;
+(qq) Daniel Cozak had total revenues of $50, 367 and $41,511 for the taxation years 1998 and 1999, respectively;
+(rr) given the above, the Minister determined that the Appellant was not entitled to any amount for the taxation year 1998 and was only entitled to $117 for the taxation year 1999 as additional amounts to be used for calculating non-refundable tax credits.
+[4] The Appellant's testimony was long. She has university training in anthropology. During the years in question, she worked at Traitement Recyclage Industriel Inc., or TRI, a company belonging to Daniel Cozak, who, according to the Appellant, is her former spouse. Mr. Cozak has a PhD in chemistry and his company works in the environmental field.
+[5] They starting living together in 1989 and were married in 1991. They had two children, born in 1989 and 1991. The family home at 54 Louis-Jolliet, in Ste-Catherine-de-la-Jacques-Cartier, was purchased in 1992 and belongs to the Appellant. Mr. Cozak paid for it after the sale of a first business.
+[6] The Appellant stated that in 1995, there was a spousal abuse incident between her and her husband. The police arrested her husband and put him in prison for a weekend. She produced Exhibit A-1, an agreement by Mr. Cozak to keep the peace and be of good behaviour, with an order restricting him from communicating directly or indirectly with Ann Guilmette and from being at 54 Louis-Jolliet, Ste-Catherine-de-la-Jacques-Cartier, except for work purposes in the basement. This agreement is dated February 27, 1995.
+[7] On July 11, 1995, a probation order was served. Mr. Cozak's address is shown as 54 Louis-Jolliet. The only conditions are to refrain from abusing or interfering with Ann Guilmette and to continue following the treatment he had started. The words [translation] "do not communicate or attempt to communicate directly or indirectly with Ms. Anne Guilmette" were struck out.
+[8] The Appellant stated that after this violent event, she and Mr. Cozak did not live together as a couple. However, there were never any legal separation proceedings. For a year and a half, he allegedly lived in the basement so he could see his children. She explained that even when Mr. Cozak found another place to live, he would come to see the children at the house because she preferred for the children to not go to his place.
+[9] Mr. Cozak allegedly left for good at the end of 1996, early 1997. He rented a place on rue St-Stanislas. During 1998 and 1999, he still had his own apartment, although it was not the same one. The Appellant was not sure of the addresses of Mr. Cozak's apartments. She did, however, confirm that during 1998 and 1999, they always lived apart. Their relationship was a working relationship.
+[10] The company's office was first located on the airport road in Ste-Foy, 25 kilometres from the home. The office moved around four years ago to rue Newton in Québec. The distance from the Appellant's home was then around 40 kilometres. The distance for the children in 1998 and 1999 was essentially the same.
+[11] The Appellant explained that the company developed projects for agricultural use of sludge from paper mills or grass cuttings. He did not have a laboratory. Mr. Cozak no longer performed experiments; he was only a consultant. If there were analyses to be done for his reports, he had them done by laboratories. As for her, she worked on the communications aspect.
+[12] She worked three or four days a week. The Appellant said that the salary she claimed was reinvested in the company. The company's debts to her are almost all erased, because the company repaid her in some way.
+[13] The Appellant's income declarations for 1998 and 1999 were submitted as Exhibits I-1 and I-2. These declarations were prepared by Mr. Cozak. The Appellant claimed a salary income of $28,000. She claimed $3,621 as other employment expenses related to depreciation of the car.
+[14] As for Exhibit I-3, a supposed detailed log of the Appellant's travels for 1998 and 2000, she is not the one who filled it in. This exhibit states that the "Villager" vehicle was leased from August 28 to November 1998. The Appellant, however, stated that this vehicle was never leased.
+[15] Exhibit A-2 consists of invoices for the 1998 Villager. The first invoice is dated August 24, 1999. It states that 46,967 had been driven. The second invoice, dated October 28, 1999, shows 55,901 kilometres. A third invoice, dated November 30, 1999, shows 59,895 kilometres. The last invoice is dated March 21, 2000, and shows 69,424.
+[16] Mario Gaudet, the caretaker, produced Exhibit A-3, a lease involving Daniel Cozak. This lease is for 6 rue St-Stanislas, Apt. 28, and was for December 1, 1996, to June 30, 1997. A letter dated July 7, 1997, indicated that the lease he had signed expired on June 30, 1997, and that the owner was ready to renew the lease for a 12-month period from July 1, 1997, to June 30, 1998, for $310 per month. No document was produced indicating that the lease was renewed.
+[17] Rachel Pelletier, appeals officer at the Canada Customs and Revenue Agency ("CCRA") testified. The Appellant asked for depreciation of the car, and was refused at the audit. Ms. Pelletier contacted the Appellant regarding the travel log. The Appellant asked her to contact Mr. Cozak. The company reimbursed the gas and maintenance fees. Ms. Pelletier asked to see the invoices to confirm the trips. She added up the invoices for 1998 for a total of $784. Using a calculation of one dollar per ten kilometres, the total driven was 16,840. The Appellant claimed to have driven 35,400 kilometres for business in 1998. This is out of proportion. The gas expenses do not at all correspond to the travel log.
+[18] Marie-Julie Durand, a police officer with the City of Montréal since 1997, testified for the Appellant. She is a trained engineer. Before 1997, she worked for the company TRI for around two years, from 1995 to 1997. She was a consultant. She and Mr. Cozak went to meet with companies to seek out new consulting contracts in waste reclamation. She went alone or with him. They made many contracts for sludge from paper mills. They wrote reports regarding environmental issues. Most of her work took place at the office but she often went to meet potential clients wherever they were, such as Trois-Rivières and other places in Quebec. They went to see companies that produced sludge in order to reclaim it. She also met with some farmers to perform experiments. For example, a piece of farmland would be separated into plots, with one as the control plot and the other receiving sludge from the paper mills.
+[19] She used Mr. Cozak's car, a Tempo, to get around.
+[20] She knew Ann Guilmette because she was the wife of Mr. Cozak, her boss. The witness stated that Ms. Guillemette [sic] worked with them a few times. They occasionally travelled together to meet government representatives or paper mill employees.
+[21] Ms. Durand stated that she and her boss were together eight hours a day. She added that Mr. Cozak was not someone who spoke a lot about his personal business. However, one morning when he did not look well, he explained that it was not going well with him and his wife and that he had rented a place in Old Québec. This was probably in the fall of 1996. She was not really in contact with him after she left.
+[22] Mr. Cozak stated that in 1995 and 1996, he was having marital problems with the Appellant. At the time, he was arrested for spousal abuse. He was told not to communicate with Ms. Guilmette, but he still had to go to the house for work, since his office was there at that time.
+[23] He found an apartment in Québec, on rue St-Stanislas, where he lived for around a year, and allegedly renewed the lease but had to break the lease during the second period because he moved to Trois-Rivières.
+[24] In Trois-Rivières, he rented a place at 442 Laviolette. He produced the lease as Exhibit A-4. The signature was dated July 1, 1998 for the lease ending June 30, 1999. It is interesting to note that on the lease, Mr. Cozak's address was 54 Louis Jolliet.
+[25] He said that the Appellant took care of communications in environmental projects. She also took care of business development by visiting clients and finding new contracts.
+[26] He claimed that his apartment in Trois-Rivières is his permanent residence. To the question: "How can he live in Trois-Rivières and at the same time be at his office on rue Newton in Québec?" he replied that when he set up an office in Trois-Rivières, 90% of his sales was with Kruger Paper. Currently, the Trois-Rivières office is a shell, because the client doesn't give him much work.
+[27] Alain Tremblay is a CCRA auditor. He started auditing the company TRI and then the couple's files. The Appellant indicated her marital status from 1990 to 1996 as married, in 1996 as separated, in 1997, married, and from 1998 to today, separated. Mr. Cozak declared that he was a common-law spouse until 1995 inclusively. He claimed he was separated from 1996 on.
+[28] In his income declarations, Mr. Cozak declared that, until 1996 inclusively, his address was 54 Louis-Jolliet in Sainte-Catherine. As of March 10, 1997, he declared 6 rue St-Stanislas until December 29, 1998. From December 29, the address given is 442 Laviolette in Trois-Rivières. On September 14, 2000, the address is changed to 54 Louis-Jolliet until July 23, 2001, and then it is back to the Trois-Rivières address. For the Appellant, it is 54 rue Louis-Jolliet.
+[29] In November 2001, Mr. Tremblay went to 442 Laviolette a number of times and knocked on the door, but there was never any answer. He returned in December 2001 and saw Mr. Cozak. He inspected the apartment where the Trois-Rivières office was. There was almost no furniture in the rooms; there was no refrigerator or stove. There was a table and shelves in one room. There was no mattress or bed. He asked to see the bathroom, where there was a sink and a toilet. Outside, was written TRI. It was more an office than an independent domestic housing unit.
+[30] Mr. Tremblay stated that the Appellant did not cash in her wages and the wages were systematically reinvested in the company. Many of the company's expenses were spent on the Appellant's personal expenses, such as groceries, taxes, videos and movies. There were also invoices related to renovations on the home, such as exterior finishing and the pool deck.
+[31] Mr. Tremblay got differing versions, depending on whether he spoke with Ms. Guilmette or Mr. Cozak. As for the mileage, there were two different versions. In the beginning, Ms. Guilmette left from home and went to work, then went to see the clients. Later, she said, [translation] "No, I leave from my house, I go see clients and then I go to work." When he asked her who the clients were, she replied that he should speak to Mr. Cozak. When he asked Mr. Cozak for the logbook, he said he would get it. He asked to see it immediately because that would allow him to believe that version of the facts, but it took seven days to get it.
+[32] In cross-examination, he admitted that he didn't go to the apartment in Trois-Rivières in 1998 or 1999. The auditor's report was submitted as Exhibit I-6. The T2020 report was submitted as Exhibit I-7.
+[33] In response, the Appellant explained that the personal housing expenses paid by the company were reimbursements for the wages and investments she made in the company.
+Conclusion
+[34] The years in question are 1998 and 1999. At this time, according to the Appellant and Mr. Cozak's version of the facts, they lived apart. During her testimony, the Appellant did not mention that Mr. Cozak lived in Trois-Rivières. Explanations should have been provided to account for Mr. Cozak's being at the Québec office at the same time, or who was managing the Québec office, or where Mr. Cozak lived while he managed the Québec office. No part of this issue was even touched upon during the Appellant's testimony. What came out during her testimony was hesitation surrounding the location of Mr. Cozak's residence. Moreover, Exhibit A-4, the lease for the premises in Trois-Rivières, has 54 Louis-Jolliet as Mr. Cozak's address.
+[35] It is also important to consider that Mr. Cozak paid the family expenses and the housing expenses at 54 Louis-Jolliet.
+[36] All these facts do not lead to the conclusion that the Appellant and her husband Mr. Cozak were separated.
+[37] As for using the car for business purposes, again, the evidence is unsatisfactory. Mr. Cozak filled in the travel log well after the events. The Appellant asked the auditors to ask Mr. Cozak for explanations regarding the travel. There is a statement that indicates that the car was leased starting in August, then bought in November. According to the Appellant, the car was not leased. She bought it in November. The appeals officer tried to confirm the statements regarding the trips with the gas expenses that were paid by the company. There was no relationship between these expenses and the number of kilometres supposedly driven.
+[38] The testimony of a young employee, with the company in 1995 and 1996, does not support the fact that the Appellant was very present at the office. It does, however, fully substantiate the work done by the company.
+[39] Accordingly, based on the evidence presented at the hearing, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 29th day of January 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 15th day of December 2004.
+Elizabeth Tan, Translator
+REFERENCE:
+2004TCC101
+COURT FILE No.:
+2003-1266(IT)I
+STYLE OF CAUSE:
+Ann Guilmette v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+November 4, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+January 29, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Alain Béland
+Counsel for the Respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Alain Béland
+Firm:
+Béland, Massicotte, Petitclerc, avocats
+Québec, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

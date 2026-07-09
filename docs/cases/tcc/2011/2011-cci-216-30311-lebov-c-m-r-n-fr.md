@@ -1,0 +1,158 @@
+---
+title: "Lebov c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30311/index.do"
+last_modified: "2011-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 216"
+citation2: ""
+neutral_citation: "2011 CCI 216"
+decision_date: "2011-04-19"
+language: "fr"
+item_id: "30311"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8079
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:56:04.726000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60431b3b3420aba3286668b33a90349832b482a656666685ef68ce092438727e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lebov c. M.R.N.
+
+- Citation: 2011 CCI 216
+- Decision date: 2011-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8079, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lebov c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-19
+Référence neutre
+2011 CCI 216
+Numéro de dossier
+2008-2935(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-2935(EI),
+2008-2936(CPP)
+ENTRE :
+VLACHESLAV LEBOV,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appels entendus le 12 avril 2011 à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelant :
+M. Harry Kopyto
+Avocats de l’intimé :
+Me Cenobar Parker et Me Darren Prevost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « LAE ») et de l’article 28 du Régime de pensions du Canada (le « RPC ») sont rejetés, et la décision du ministre du Revenu national (le « ministre ») à l’égard des appels interjetés devant lui en application de l’article 92 de la LAE et la détermination du ministre concernant la demande qui lui a été présentée en vertu de l’article 27.1 du RPC sont confirmées.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2011.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 1e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 216
+Date : 20110419
+Dossiers : 2008-2935(EI),
+2008-2936(CPP)
+ENTRE :
+VLACHESLAV LEBOV,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Il s’agit d’un appel interjeté en vertu de la Loi sur l’assurance‑emploi (la « LAE ») et du Régime de pensions du Canada (le « RPC »), et qui est régi par la procédure informelle. L’affaire porte sur la question de savoir si M. Lebov, l’appelant, était tenu d’effectuer les retenues à la source nécessaires en application de l’alinéa 6g) du Règlement sur l’assurance‑emploi (le « RAE ») et de l’article 34 du Règlement sur le Régime de pensions du Canada (le « RRPC »). Les deux dispositions traitent de l’obligation pour les agences de placement d’effectuer des retenues à la source dans certaines circonstances.
+[2] En 2006, M. Lebov exploitait une agence de placement à titre de propriétaire unique sous le nom commercial TOPS. Il plaçait des annonces indiquant qu’il était à la recherche de travailleurs, et ceux qui répondaient à son annonce étaient mis en contact avec les clients de l’appelant, parmi lesquels on comptait des usines de production, des usines de recyclage et des entreprises de construction. Le travailleur se présentait alors chez le client, qui lui donnait du travail, ce travail étant normalement rémunéré selon un salaire horaire. À la fin de la période de paie, le client fournissait des feuilles de temps à l’appelant, qui facturait au client un montant composé de la rémunération due au travailleur et des honoraires de l’appelant pour lui avoir référé le travailleur. L’appelant gardait ses honoraires et libellait un chèque à l’ordre du travailleur. À la fin de l’exercice, l’appelant fournissait des feuillets T4A au travailleur.
+[3] J’ai écouté la description de l’entente faite par M. Lebov ainsi que les témoignages de deux travailleurs : M. Zubarev, qui a travaillé comme opérateur de machine dans une usine de recyclage et qui était rémunéré 10 $ l’heure, et Mme Heridia, qui a travaillé comme réceptionniste dans une société appelée Rainbow et qui était rémunérée 9 $ l’heure. Bien que je ne dispose pas de preuve abondante concernant l’entente de travail, ce que j’ai entendu jusqu’à présent est suffisant pour que je sois convaincu que les travailleurs travaillaient sous la direction et le contrôle du client, ou que le contrat qui les liait correspondait à un contrat de louage de services. Je n’ai pas entendu de preuve contraire ni de preuve qui réfute les hypothèses de l’intimé à cet égard.
+[4] Dans ces circonstances, l’alinéa 6g) du RAE, l’article 7 du Règlement sur la rémunération assurable et la perception des cotisations et l’article 34 du RRPC peuvent-ils entrer en jeu? Ces dispositions sont ainsi libellées :
+L’alinéa 6g) du RAE :
+6. Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+L’article 7 du Règlement sur la rémunération assurable et la perception des cotisations :
+7. L’agence de placement qui procure un emploi assurable à une personne selon une convention portant qu’elle versera la rémunération de cette personne est réputée être l’employeur de celle-ci aux fins de la tenue des registres, du calcul de la rémunération assurable de la personne ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement.
+L’article 34 du RRPC :
+34(1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+(2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[5] Ces dispositions réglementaires entrent en jeu si certaines conditions sont remplies :
+1. M. Lebov exploitait‑t‑il une agence de placement? Oui.
+2. Les travailleurs étaient‑ils placés par M. Lebov auprès d’un client pour la fourniture de services sous la direction et le contrôle du client ou placés dans le cadre d’un contrat qui correspond à un contrat de louage de services? Tel était le cas.
+3. Les travailleurs, étaient‑ils rémunérés par M. Lebov, l’agence de placement? C’est là que réside le litige.
+[6] L’appelant se fonde sur la décision de la juge Woods dans Wegener et Emmerson S/N Director’s Choice c. Le Ministre du revenu national[1], (« Director’s Choice ») et soutient que les travailleurs n’étaient pas rémunérés par lui, mais que, bien qu’il ait émis les chèques, il l’a fait uniquement pour servir d’intermédiaire à la source de la rémunération, qui était le client. En toute déférence, je ne souscris pas à cet argument.
+[7] J’examinerai l’affaire Director’s Choice pour illustrer comment les faits de cette affaire sont différents de ceux de l’affaire dont je suis saisi, et comment la juge Woods est arrivée à la conclusion selon laquelle « la forme et le fond de cette entente correspondent à une situation où les maisons de production, et non Director’s Choice, rémunérèrent les artistes ». Je ne peux pas aboutir à la même conclusion en ce qui concerne le rôle de l’agence de placement en l’espèce.
+[8] Les différences factuelles entre l’affaire dont je suis saisi et Director’s Choice sont les suivantes :
+1. Dans Director’s Choice, les maisons de production, clientes de l’agence de placement qui embauchait les travailleurs, s’occupaient de tout ce qui avait trait à la paie. En l’espèce, les clients ne le faisaient pas : M. Lebov a reconnu qu’il s’occupait de tout ce qui concernait les documents, ce qui faisait partie des activités qu’il devait effectuer pour le client afin de gagner ses honoraires.
+2. Dans Director’s Choice, les travailleurs payaient une somme à l’agence. En l’espèce, aucun paiement de cette nature n’était effectué.
+3. Dans Director’s Choice, les travailleurs avaient conclu un contrat écrit avec l’agence, lequel autorisait Director’s Choice à retenir 15 % de la rémunération. Pour garantir le paiement de ce pourcentage, Director’s Choice exigeait que le client envoie ses chèques à Director’s Choice et aux travailleurs. Pareille entente n’existait pas en l’espèce. M. Lebov facturait le client et rémunérait ensuite les travailleurs avec l’argent reçu du client.
+4. Dans Director’s Choice, le client embauchait une société de services de paie pour délivrer les formulaires T4A. En l’espèce, M. Lebov délivrait les formulaires T4A. Dans Director’s Choice, la juge Woods a déclaré que : « […] En délivrant les feuillets d’impôt, les maisons de production reconnaissaient qu’elles rémunéraient les artistes […] ». Une telle reconnaissance implicite n’a pas eu lieu de la part des clients de M. Lebov.
+5. Dans Director’s Choice, les travailleurs signaient un formulaire dans lequel l’adresse indiquée était celle de Director’s Choice au lieu de leur propre adresse, et, par là, il était effectivement demandé que la rémunération soit envoyée par la poste à Director’s Choice. Encore une fois, aucune directive de cette nature n’a été donnée par les travailleurs en l’espèce. Il a toujours été entendu que les travailleurs seraient payés par chèque par M. Lebov.
+6. Dans Director’s Choice, la juge Woods a conclu que « […] le client a l’obligation de payer, de retenir et de verser les cotisations si le particulier est embauché à titre d’employé ». La juge Woods a conclu que l’agence ne pouvait pas avoir rémunéré les travailleurs étant donné que, dans les faits, la rémunération avait été déjà versée. Une telle obligation n’existe pas en l’espèce et il s’est avéré qu’aucune rémunération n’était versée aux travailleurs avant que M. Lebov n’émette les chèques.
+[9] J’arrive à la conclusion que les faits de l’affaire Director’s Choice sont sensiblement différents de ceux de l’affaire dont je suis saisi.
+[10] Dans la décision plus récente Assistance Graphique Inc. c. Canada[2], qui portait également sur l’application de l’alinéa 6g) du RAE, la question de savoir ce que signifie le terme « rémunération » dans le contexte de paiements faits par une agence de placement a été abordée. Dans cette affaire, il a été conclu que jusqu’à preuve du contraire, la personne qui paie réellement le travailleur est celle qui le rémunère. Je dirais même que, pour réfuter cette conclusion tirée à première vue, il faut produire des preuves, comme il en est dans Director’s Choice, qui établissent que, selon le contrat de travail, une autre personne que le payeur « rémunère » le travailleur.
+[11] L’article 34 du RRPC est plus précis que le RAE, et indique clairement que l’agence de placement ou le client, « quel que soit celui qui verse la rémunération » est réputé être l’employeur. L’intention est claire. La disposition est prévue pour éviter que les travailleurs ne passent à travers les mailles. Si la rémunération est versée directement par le client à l’employé, alors ces dispositions concernant les agences de placement n’entrent pas en jeu. Toutefois, il découle clairement de ces dispositions que si le client paie l’agence de placement qui à son tour verse une rémunération au travailleur, alors l’agence de placement doit effectuer les retenues à la source nécessaires. Selon la prépondérance des probabilités, je conclus que M. Lebov n’a pas simplement agi comme intermédiaire entre le client et le travailleur pour la rémunération, mais qu’il a en réalité été payé par le client et qu’à son tour il a rémunéré le travailleur. Il s’agit d’une « rémunération » au sens des dispositions réglementaires en cause. Si je devais conclure le contraire, ces dispositions seraient dénuées de sens, étant donné qu’au bout du compte, le client sera toujours la source d’argent pour la rémunération du travailleur. L’agence de placement ne peut éviter l’obligation que lui imposent ces dispositions réglementaires que dans les cas comme Director’s Choice, où un lien direct entre le client et le travailleur est clairement établi dans le contrat. En l’espèce, un tel lien direct entre l’origine des fonds et la rémunération versée aux travailleurs n’existe pas. Dans l’affaire en cause, l’agence de placement versait la rémunération directement, et non à titre d’intermédiaire du client.
+[12] Je conclus que l’entente tombe parfaitement sous le coup du RAE et du RRPC et, par conséquent, je rejette les appels de M. Lebov.
+Signé à Ottawa, Canada, ce 19e jour d’avril 2011.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 1e jour de juin 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 216
+NOS DES DOSSIERS DE LA COUR : 2008-2935(EI) et 2008-2936(CPP)
+INTITULÉ : VLACHESLAV LEBOV
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 avril 2011
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 19 avril 2011
+COMPARUTIONS :
+Pour l’appelant :
+Harry Kopyto
+Avocats pour l’intimé :
+Me Cenobar Parker et Me Darren Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2005 CCI 362.
+[2] 2008 CCI 673.

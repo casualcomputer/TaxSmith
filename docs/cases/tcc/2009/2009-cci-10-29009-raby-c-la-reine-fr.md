@@ -1,0 +1,279 @@
+---
+title: "Raby c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29009/index.do"
+last_modified: "2009-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 10"
+citation2: ""
+neutral_citation: "2009 CCI 10"
+decision_date: "2009-11-30"
+language: "fr"
+item_id: "29009"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6757
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:20:35.006000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0a5035d20210658f0dc75000dacb76dc4093408e32653b8018acfc6543880980"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raby c. La Reine
+
+- Citation: 2009 CCI 10
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6757, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raby c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-30
+Référence neutre
+2009 CCI 10
+Numéro de dossier
+2006-215(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-215(IT)G
+ENTRE :
+CHRISTINE RABY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 25 février 2008,
+à Toronto (Ontario).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Avocat de l’appelante :
+Me Jeffrey L. Goldman
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelante en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement modifiés ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 30e jour de novembre 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme ce 1er jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2009CCI10
+Date : 20091130
+Dossier : 2006-215(IT)G
+ENTRE :
+CHRISTINE RABY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Little
+A. LES FAITS
+[1] En 1994, Aapex Driving Academy Ltd. (« Aapex ») a été constituée en personne morale en vertu des lois de la Province d’Ontario.
+[2] Pendant toute la période en cause, Christine Raby et son frère, Michael Racine, détenaient respectivement 51 % et 49 % des actions ordinaires d’Aapex.
+[3] Aapex possédait et exploitait une auto‑école qui proposait à ses clients aussi bien des cours en classe que des leçons de conduite sur route.
+[4] Les cours en classe et les cours de conduite étaient donnés par des moniteurs employés par Aapex.
+[5] L’appelante prétend qu’elle était une employée d’Aapex.
+[6] L’appelante soutient que les sommes suivantes lui ont été versées par Aapex à titre de salaire (transcription, p. 110, lignes 20 à 21) :
+a) 2000 - 28 000 $;
+b) 2001 - 30 000 $;
+c) 2002 - 0 $.
+[7] L’appelante a déclaré qu’elle possédait entre 22 et 27 voitures ainsi qu’un camion (les « véhicules ») pendant les années d’imposition en cause.
+[8] Les véhicules ont été enregistrés et immatriculés au nom de l’appelante (transcription, p. 103, lignes 2 à 5).
+[9] L’appelante a affirmé qu’elle fournissait les véhicules à Aapex, qui s’en servait afin d’exploiter son entreprise; les moniteurs les utilisaient pour les cours de conduite.
+[10] Le ministre du Revenu national (le « ministre ») a conclu que l’appelante facturait à Aapex des frais d’utilisation des véhicules, calculés en fonction des kilomètres parcourus (les « frais liés aux véhicules »).
+[11] Les frais liés aux véhicules payés pour chacune des années d’imposition 2000, 2001 et 2002 ont été calculés en fonction des taux prescrits par l’article 7306 du Règlement de l’impôt sur le revenu (le « Règlement »).
+[12] À la fin de chaque année d’imposition, Aapex portait au crédit du compte d’actionnaires, appartenant à Mme Raby et à M. Racine (le « compte d’actionnaires »), le montant des frais liés aux véhicules. Les montants suivants ont été portés au crédit du compte en question pour chacune des années d’imposition en cause :
+a) 2000 - 273 991 $;
+b) 2001 - 343 959 $;
+c) 2002 - 431 946 $.
+[13] Le ministre a conclu que les frais liés aux véhicules qui ont été portés au crédit du compte d’actionnaires ont été répartis à parts égales entre Mme Raby et M. Racine.
+[14] Aapex payait tous les frais d’exploitation liés à l’utilisation des véhicules, y compris l’essence, l’immatriculation, l’assurance, l’entretien et les réparations, et elle remboursait les prêts contractés pour l’achat des véhicules (les « frais liés à l’utilisation des véhicules »).
+[15] À la fin des années d’imposition 2000, 2001 et 2002, Aapex a passé une écriture de contrepassation dans ses livres comptables afin d’annuler la plupart des écritures relatives aux frais liés à l’utilisation des véhicules qui avaient été engagés pendant l’année, et ce, en débitant le compte d’actionnaires du montant des frais liés à l’utilisation des véhicules.
+[16] Les frais liés à l’utilisation des véhicules suivants n’ont pas fait l’objet de l’écriture de contrepassation dans les livres comptables d’Aapex (les « frais d’utilisation non ajustés ») :
+a) 2001 - 19 914 $ de frais d’assurance;
+b) 2001 - 34 383 $ de frais d’entretien et de réparation;
+c) 2002 - 7 619 $ représentant les intérêts payés sur les prêts contractés pour l’achat des véhicules.
+[17] L’avocat de l’appelante soutient que sa cliente n’a jamais touché sa part des frais liés aux véhicules qui ont été portés au crédit du compte d’actionnaires. En revanche, il prétend que l’appelante a reçu d’Aapex des paiements comptant hebdomadaires d’environ 580 $ en échange d’avoir fourni les véhicules à cette dernière (les « paiements comptant »).
+[18] L’avocat de l’appelante affirme que sa cliente a reçu d’Aapex les paiements comptant suivants en échange d’avoir mis les véhicules à sa disposition :
+a) 2000 - 31 660 $;
+b) 2001 - 48 010 $;
+c) 2002 - 30 160 $.
+[19] La différence entre les montants portés au débit et au crédit du compte d’actionnaires qui excédait les paiements comptant restait dans ledit compte.
+[20] La plupart des moniteurs de conduite d’Aapex étaient autorisés à utiliser les véhicules à des fins personnelles en dehors des heures normales d’ouverture de l’auto‑école.
+[21] Les moniteurs ont payé à l’appelante les montants suivants en échange des véhicules qu’elle a mis à leur disposition à des fins personnelles (les « frais liés à l’utilisation des véhicules par les moniteurs ») :
+a) 2000 - 9 180 $;
+b) 2001 - 12 500 $;
+c) 2002 - 14 920 $.
+[22] Pendant les années d’imposition en cause, l’appelante n’a inclus dans le calcul de son revenu ni les frais liés aux véhicules, ni les frais liés à l’utilisation des véhicules par les moniteurs, ni aucun autre paiement qu’elle aurait reçu relativement à l’utilisation des véhicules.
+B. LES QUESTIONS EN LITIGE
+[23] Il s’agit de savoir si le ministre a eu raison d’inclure dans le calcul du revenu de Mme Raby les montants de 136 995 $, de 178 239 $ et de 222 433 $ pour les années d’imposition 2000, 2001 et 2002 respectivement, à titre de revenu tiré d’une entreprise au sens du paragraphe 9(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+C. ANALYSE
+[24] J’ai trouvé la preuve que les deux parties avaient présentée à l’audience contradictoire et propre à prêter à confusion. En me fondant sur la preuve limitée dont je disposais, j’ai tiré les conclusions suivantes.
+[25] Le ministre a établi de nouvelles cotisations à l’égard de l’appelante pour les années d’imposition 2000, 2001 et 2002, incluant dans le revenu de celle‑ci sa part (50 %) des frais liés aux véhicules à titre de revenu tiré d’une entreprise au sens du paragraphe 9(1) de la Loi.
+[26] L’avocate de l’intimée a déclaré que l’hypothèse sous‑jacente aux nouvelles cotisations veut que les actionnaires d’Aapex aient omis de déclarer les revenus qu’ils avaient tirés d’une entreprise exploitée en partenariat avec Aapex. Me Bruce a affirmé qu’Aapex exploitait une auto‑école et que ses actionnaires (Mme Raby et M. Racine) tiraient des revenus d’une entreprise de location de voitures.
+[27] Dans la réponse à l’avis d’appel, le ministre a contesté l’affirmation voulant qu’Aapex ait versé un salaire à l’appelante en 2000 et en 2001 (voir l’alinéa 11g)).
+[28] Le ministre a conclu que, dans le calcul de son revenu, l’appelante devait inclure le revenu tiré de son entreprise de location de voitures conformément au paragraphe 9(1) de la Loi.
+[29] Pendant l’audience, l’avocate de l’intimée a déclaré que le revenu d’entreprise total révisé de l’appelante devait être calculé de la manière suivante :
+Profits réalisés par l’appelante par suite de la location des véhicules à Aapex
+Année d’imposition
+2000
+2001
+2002
+Revenu
+Moins : Les dépenses
+Essence Intérêts sur les prêts
+Immatriculations et permis
+Assurance Entretien et réparations
+DPA
+Total des dépenses
+281 402,69 $
+64 294,54 $
+10 233,95 $
+1 180,38 $
+27 937,88 $
+37 067,51 $
+51 024 $
+191 738,26 $
+363 862,89 $
+59 727,16 $
+12 589,25 $
+2 378,10 $
+38 953,22 $
+34 549,72 $
+59 860 $
+206 057,45 $
+462 853,17 $
+74 747,28 $
+13 816,98 $
+2 595,50 $
+38 374,87 $
+54 186,82 $
+56 167 $
+239 888,45 $
+Profits
+89 664,43 $
+157 805,44 $
+222 964,72 $
+Revenu net de Mme Raby
+Année d’imposition
+2000
+2001
+2002
+Profit (indiqué ci‑dessus)
+Plus : Frais liés à l’utilisation des véhicules par les moniteurs
+89 664 $
+9 180 $
+157 805 $
+12 500 $
+222 965 $
+14 920 $
+Total
+Pourcentage attribuable à Mme Raby
+98 844 $
+50 %
+170 305 $
+50 %
+237 885 $
+50 %
+Revenu d’entreprise net total
+49 422 $
+85 153 $
+118 942 $
+(Remarque : Des modifications ont été apportées aux nouvelles cotisations d’origine.)
+[30] Pendant l’audience, l’avocat de l’appelante a soutenu que, en l’espèce, l’appelante avait droit à l’allocation non imposable pour l’usage d’une automobile qui est prévue par l’alinéa 6(1)b) de la Loi à l’égard de tous les véhicules dont elle était propriétaire.
+[31] L’allocation non imposable pour l’usage d’une automobile qui est prévue par le sous‑alinéa 6(1)b)(vii.1) de la Loi vise à aider les employés qui reçoivent une allocation raisonnable de leurs employeurs pour l’utilisation de leur propre véhicule dans le cadre de leurs fonctions.
+[32] L’avocat de l’appelante affirme que les frais liés aux véhicules qui ont été portés au crédit du compte d’actionnaires ne sont donc pas imposables. L’avocat de l’appelante prétend que les frais liés aux véhicules ont été à bon droit calculés en fonction des kilomètres parcourus, ce qui a permis à l’appelante de toucher une allocation pour l’utilisation par Aapex de sa flotte de 22 à 27 véhicules.
+[33] Je suis en désaccord avec l’avocat de l’appelante sur ce point. Même si j’accepte le témoignage de l’appelante voulant qu’elle soit une employée d’Aapex, et que les frais liés aux véhicules aient été calculés en fonction des kilomètres parcourus, je ne crois pas que le sous‑alinéa 6(1)b)(vii.1) de la Loi a pour effet d’accorder une allocation non imposable à un employé qui fournit à son employeur une flotte entière d’automobiles afin que ce dernier s’en serve afin d’exploiter son entreprise. Dans les circonstances présentes, une telle allocation n’est pas une « allocation raisonnable » au sens du sous‑alinéa 6(1)b)(vii.1) de la Loi.
+[34] Toutefois, en tant qu’employée d’Aapex, l’appelante a également utilisé les véhicules pendant les cours de conduite. Par conséquent, je conclus que l’appelante devrait se voir accorder une allocation raisonnable non imposable pour l’usage de deux automobiles, en application du sous‑alinéa 6(1)b)(vii.1) de la Loi. Ces allocations raisonnables devraient être calculées en fonction des kilomètres parcourus, selon les taux appropriés prévus par le Règlement.
+[35] En ce qui a trait aux frais liés aux 20 à 25 autres véhicules dont l’appelante était propriétaire pendant les années d’imposition en cause, je conclus que le sous‑alinéa 6(1)b)(vii.1) n’a pas pour effet de les exempter d’impôt entre les mains de l’appelante.
+[36] L’avocate de l’intimée soutient que l’appelante et son frère exploitaient une entreprise de location de voitures.
+[37] En me fondant sur la preuve dont je suis saisi, je conclus que l’appelante et M. Racine exploitaient une entreprise de location de voitures, ou s’étaient lancés dans un projet comportant un risque de caractère commercial, quand ils ont fourni entre 22 et 27 véhicules à Aapex.
+[38] Toutefois, je suis en désaccord avec le ministre sur la question du calcul du revenu de l’appelante relatif aux véhicules. Le montant net total révisé du revenu tiré d’une entreprise par l’appelante pour chaque année d’imposition en cause inclut l’intégralité de la part de celle‑ci des frais liés aux véhicules et des frais liés à l’utilisation des véhicules par les moniteurs, moins les frais liés à l’utilisation des véhicules et la DPA.
+[39] J’accepte le témoignage de l’appelante voulant que l’intégralité du montant des frais liés aux véhicules ne lui ait jamais été vraiment versée. En fait, les frais liés aux véhicules n’étaient qu’un simple calcul de clôture d’exercice de l’allocation pour l’usage d’une automobile dont elle pouvait se prévaloir en vertu du sous‑alinéa 6(1)b)(vii.1) de la Loi, en fonction des taux prévus par le Règlement. Les frais liés aux véhicules et les frais liés à l’utilisation des véhicules étaient simplement portés au crédit et au débit du compte d’actionnaires que l’appelante détenait de concert avec son frère.
+[40] Je trouve qu’il est significatif que l’appelante n’ait reçu que des paiements comptant d’Aapex pour l’utilisation des véhicules. En outre, l’appelante a reçu les frais liés à l’utilisation des véhicules à des fins personnelles par les moniteurs directement de ceux‑ci.
+[41] À la clôture de l’exercice, à la fin de chacune des années d’imposition en cause, Aapex a passé les écritures appropriées pour consigner les frais liés aux véhicules et les frais liés à l’utilisation des véhicules. Tout montant excédant les paiements comptant et les frais liés à l’utilisation des véhicules par les moniteurs versés à Mme Raby était porté au crédit du compte d’actionnaires. J’accepte le témoignage de l’appelante voulant qu’elle n’ait reçu aucun des montants additionnels qui ont été portés au crédit du compte d’actionnaires.
+[42] En l’absence de tout relevé indiquant que l’appelante a vraiment reçu l’intégralité de sa part des frais liés aux véhicules, je conclus que seuls devraient être inclus dans le calcul de son revenu pour chacune des années d’imposition en cause le montant exact des paiements comptant qu’elle a reçus d’Aapex ainsi que les frais liés à l’utilisation des véhicules par les moniteurs. Les paiements comptants qu’elle a reçus pour chacune des années d’imposition en cause représentent les véritables montants nets reçus par l’appelante en échange d’avoir permis à Aapex d’utiliser les véhicules.
+[43] En me fondant sur la preuve dont je suis saisi, je suis convaincu que l’appelante a reçu l’intégralité des paiements comptant et des frais liés à l’utilisation des véhicules par les moniteurs, et qu’elle n’a pas partagé ces montants avec M. Racine. Par conséquent, tous ces paiements devraient être inclus dans le revenu de l’appelante.
+[44] Je conclus que le revenu que l’appelante a tiré d’une entreprise pour les années d’imposition en cause, au sens du paragraphe 9(1) de la Loi, devrait être calculé de la manière suivante :
+Année d’imposition
+2000
+2001
+2002
+Paiements comptant
+31 660 $
+48 010 $
+30 160 $
+Frais liés à l’utilisation des véhicules par les moniteurs
+9 180 $
+12 500 $
+14 920 $
+Revenu d’entreprise net total
+40 840 $
+60 510 $
+45 080 $
+[45] En vertu du sous‑alinéa 6(1)b)(vii.1) de la Loi, l’appelante devrait également se voir accorder une allocation non imposable pour l’utilisation de deux véhicules.
+[46] Les appels sont accueillis, et le ministre devra établir de nouvelles cotisations à l’égard de l’appelante en tenant compte des conclusions énoncées ci‑dessus. Dans la mesure où les deux parties ont eu partiellement gain de cause, je n’adjugerai aucuns dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 30e jour de novembre 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme ce 1er jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009CCI10
+NO DU DOSSIER DE LA COUR :
+2006-215(IT)G
+INTITULÉ :
+Christine Raby et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 février 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge L. M. Little
+DATE DU JUGEMENT MODIFIÉ :
+Le 30 novembre 2009
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jeffrey L. Goldman
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+AVOCATS INSCRITS AU DOSSIER :
+Avocat de l’appelante :
+Nom :
+Me Jeffrey L. Goldman
+Cabinet :
+Jeffrey L. Goldman
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

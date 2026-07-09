@@ -1,0 +1,273 @@
+---
+title: "Blackburn Radio Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30882/index.do"
+last_modified: "2012-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 255"
+citation2: ""
+neutral_citation: "2012 TCC 255"
+decision_date: "2012-07-16"
+language: "en"
+item_id: "30882"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7471
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:16:45.486000+00:00"
+cases_cited_count: 4
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aaa10b99c493492a8bb3a8395ef311c3ba74f3bc824d39fb763f501769d5c4ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blackburn Radio Inc. v. The Queen
+
+- Citation: 2012 TCC 255
+- Decision date: 2012-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7471, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn Radio Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-16
+Neutral citation
+2012 TCC 255
+File numbers
+2011-67(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-67(IT)G
+BETWEEN:
+BLACKBURN RADIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 6, 2012 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Daniel Sandler
+Sharona Ishmael
+Counsel for the Respondent:
+Josée Tremblay
+Serena Sial
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to reassessments made under the Income Tax Act for the 2000 and 2005 taxation years by notices dated July 19 and 21, 2010 is allowed, and the reassessments are vacated. The appellant is entitled to its costs.
+Signed at Toronto, Ontario this 16th day of July 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 255
+Date: 20120716
+Docket: 2011-67(IT)G
+BETWEEN:
+BLACKBURN RADIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question to be determined is whether reassessments issued to Blackburn Radio Inc. for the 2000 and 2005 taxation years were properly issued as consequential reassessments pursuant to subsection 152(4.3) of the Income Tax Act.
+[2] Subsection 152(4.3) of the Act permits the Minister to make a consequential reassessment after the normal reassessment period has expired. It applies generally in circumstances where the tax payable for a taxation year would be affected by a change that has been made for an earlier taxation year. The Minister is effectively given one year to make a conforming reassessment for a subsequent taxation year.
+[3] The provision is reproduced below.
+152 (4.3) Consequential assessment - Notwithstanding subsections (4), (4.1) and (5), where the result of an assessment or a decision on an appeal is to change a particular balance of a taxpayer for a particular taxation year, the Minister may, or where the taxpayer so requests in writing, shall, before the later of the expiration of the normal reassessment period in respect of a subsequent taxation year and the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the particular year, reassess the tax, interest or penalties payable, or redetermine an amount deemed to have been paid or to have been an overpayment, under this Part by the taxpayer in respect of the subsequent taxation year, but only to the extent that the reassessment or redetermination can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year.
+[4] The respondent submits that Blackburn’s 2000 and 2005 taxation years may be reassessed pursuant to s. 152(4.3) as a result of a change arising in a reassessment for the 1999 taxation year. The consequential reassessments for the 2000 and 2005 taxation years were issued within one year after the reassessment for the 1999 taxation year.
+[5] According to the submissions of Blackburn, the relevant reassessment for the 1999 taxation year cannot be used to start the one year clock running because that reassessment is statute barred and void. In the alternative, Blackburn submits that the 1999 reassessment did not result in a change in a balance as required by s. 152(4.3).
+I. Background facts
+[6] The facts below are based mainly on an agreed statement of facts.
+A. 1999 assessment history
+[7] The Minister issued an initial assessment to Blackburn for the 1999 taxation year by notice dated March 24, 2000. Tax under Part I of the Act was fixed at nil.
+[8] Four subsequent reassessments for the 1999 taxation year were made. The first two were issued by notices dated March 16, 2001 and April 8, 2002 (“First 1999 Reassessment” and “Second 1999 Reassessment”, respectively). Each of these reassessments also fixed tax under Part I of the Act at nil.
+[9] The third reassessment for the 1999 taxation year was issued by notice dated April 13, 2004 (“Third 1999 Reassessment”). It denied a deduction claimed by Blackburn for a long-term incentive bonus in the amount of $7,681,517, and fixed Part I tax under the Act at $2,125,564.
+[10] Blackburn filed an objection to the Third 1999 Reassessment and subsequently appealed to the Tax Court of Canada.
+[11] By way of an amended judgment dated March 17, 2009, the Tax Court of Canada allowed the appeal and vacated the Third 1999 Reassessment (2009 TCC 155, 2009 DTC 1099). The basis for the decision of V. Miller J. was that the reassessment was statute barred; she rejected the Minister’s argument that the limitation period was extended by virtue of a non-arm’s length provision in s. 152(4)(b)(iii). The Minister did not appeal the decision, and the limitation period for doing so expired on April 16, 2009.
+[12] The Minister further reassessed the 1999 taxation year to take the Court’s decision into account by way of notice dated August 7, 2009 (“Fourth 1999 Reassessment”). This reassessment mirrored the Second 1999 Reassessment and allowed the deduction of the long-term incentive bonus. No notice of objection was filed in respect of the Fourth 1999 Reassessment.
+[13] During argument, counsel for the respondent informed the Court that the Fourth 1999 Reassessment was a nil reassessment in the sense of not imposing any tax, interest or penalty.
+[14] A refund of the tax that Blackburn paid after the bonus was disallowed was issued by the Minister shortly after the Fourth 1999 Reassessment was issued.
+B. 2000 assessment history
+[15] The 2000 taxation year was initially assessed by notice dated April 17, 2001.
+[16] The Minister issued three reassessments for this year. The first was issued by notice dated April 8, 2002 (“First 2000 Reassessment”).
+[17] The second reassessment was issued by notice dated April 13, 2004 as a consequential reassessment after the bonus was disallowed for the 1999 taxation year (“Second 2000 Reassessment”). The nature of the reassessment was to reduce a capital gain arising from the disposition of shares of Blackburn Marketing Services (US) Inc. This was considered to be necessary to conform with the disallowance of the bonus for the 1999 taxation year. The reassessment fixed the amount of tax payable for the 2000 taxation year at nil.
+[18] The third reassessment was issued by notice dated July 19, 2010 as a consequential reassessment following the allowance of the deduction of the bonus for the 1999 taxation year (“Third 2000 Reassessment”). The reassessment added back the capital gain that was deleted in the previous reassessment. The tax was fixed at $710,373.
+C. 2005 assessment history
+[19] The Minister initially assessed the 2005 taxation year by notice dated April 5, 2006. The assessment allowed surtax credits under s. 181.1(4) of the Act.
+[20] There has been one reassessment for 2005, which was made by notice dated July 21, 2010 (“First 2005 Reassessment”). This reassessment was made to conform with the deduction of the bonus for the 1999 taxation year and the increase in the capital gain for the 2000 taxation year. The reassessment deleted surtax credits in the amount of $73,976.
+II. Analysis
+A. Introduction
+[21] The issue to be determined is whether the Third 2000 Reassessment and the First 2005 Reassessment (together, the “Consequential Reassessments”) comply with the requirements in s. 152(4.3) of the Act. If they do not, they are statute barred pursuant to s. 152(4).
+[22] As a preliminary comment, there is no dispute between the parties as to whether the Consequential Reassessments are consequential in the sense of conforming to a prior taxation year. It is admitted that they are.
+[23] A key issue in this appeal is whether the time period for issuing consequential reassessments in s. 152(4.3) starts to run from the issuance of the Fourth 1999 Reassessment. Blackburn submits that the Fourth 1999 Reassessment is invalid and therefore it cannot give the Minister additional time to make consequential reassessments. Accordingly, although reassessments for the 2000 and 2005 taxation years are at issue, the analysis focuses on the validity of a reassessment for the 1999 taxation year.
+[24] Blackburn submits that the Fourth 1999 Reassessment is statute barred and is void. The respondent submits that the Fourth 1999 Reassessment is not statute barred, and that even if it is the reassessment is valid as no objection was filed with respect to it.
+[25] In the alternative Blackburn submits that, even if the Fourth 1999 Reassessment is valid, it cannot be used as the basis for s. 152(4.3) reassessments since the Fourth 1999 Reassessment did not change a balance as required by the provision.
+[26] The analysis below is divided into these headings:
+B. Preliminary comment re nil assessments
+C. Is the Fourth 1999 Reassessment statute barred?
+D. Is the Fourth 1999 Reassessment void if it is statute barred?
+E. Did the Fourth 1999 Reassessment change a balance?
+B. Preliminary comment re nil assessments
+[27] I would mention at the outset that the facts of this case raise an issue that was not brought up by either of the parties. The issue is whether a so-called nil assessment is in fact an assessment.
+[28] As noted earlier, it was acknowledged by counsel for the respondent during argument that the Fourth 1999 Reassessment was a so-called nil reassessment in the sense that no tax, interest or penalties were imposed. Both parties are of the view that this is not relevant to the appeal because a so-called nil assessment is still an assessment for purposes of the Act.
+[29] This position is contrary to a comment in a decision of the Federal Court of Appeal. In The Queen v Interior Savings Credit Union, 2007 FCA 151, 2007 DTC 5342, Noel J.A. stated:
+[17] Nonetheless, the term nil assessment is often used in the case law to identify an assessment which cannot be appealed. There are two reasons why a so‑called nil assessment cannot be appealed. First, an appeal must be directed against an assessment and an assessment which assesses no tax is not an assessment (see Okalta Oils Limited v. MNR, 55 DTC 1176 (SCC) at p. 1178: "Under these provisions, there is no assessment if there was not tax claimed"). Second, there is no right of appeal from a nil assessment since: "Any other objection but one related to an amount claimed [as taxes] was lacking the object giving rise to the right of appeal ..." (Okalta Oils, supra, at p.1178).
+(Emphasis added.)
+[30] Counsel for both parties in this appeal submit that the Fourth 1999 Reassessment is an assessment for purposes of s. 152(4.3) even though it is a nil assessment. If it is not, as suggested in Interior Savings, it is not clear to me how the Fourth 1999 Reassessment could be a basis for issuing the Consequential Reassessments.
+[31] If this issue had affected my conclusion, I would have asked the parties to provide further submissions on the point. As it turns out, it did not affect my conclusion. For purposes of the analysis only, I have assumed that a so-called nil assessment is an assessment.
+C. Is the Fourth 1999 Reassessment statute barred?
+[32] Blackburn submits that the Fourth 1999 Reassessment is invalid as the Minister did not have legislative authority to issue it. The reassessment was issued following a decision of this Court that vacated the Third 1999 Reassessment. The Court did not send the matter back for reassessment by the Minister. Blackburn’s position is supported by The Queen v Canadian Marconi Company, [1992] 1 FC 655, 91 DTC 5626.
+[33] The respondent’s submissions on this point are discussed below.
+(1) Does Minister have inherent authority to issue a reassessment?
+[34] The respondent submits that the authority to issue the Fourth 1999 Reassessment is inherent in the Act as a consequence of the authority of the Tax Court of Canada to vacate reassessments. The Court’s authority is derived from subsection 171(1) of the Act. It provides:
+171. (1) Disposal of appeal - The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[35] The essence of the respondent’s argument is that the Minister has the inherent authority to issue the Fourth 1999 Reassessment because it was necessary to do so following the judgment of V. Miller J. which vacated the prior reassessment.
+[36] The foundation for the respondent’s position is the decision of Thorson J. in Pure Spring Company Limited v MNR, [1946] Ex. C.R. 471, 2 DTC 844.
+[37] Pure Spring is a seminal decision dealing with the nature of assessments. A different aspect of the case is relevant here. The respondent submits that Pure Spring stands for the proposition that a judgment of the Tax Court of Canada cannot fix a tax liability, and that this can only be done by an assessing action taken by the Minister.
+[38] It is submitted, therefore, that after the Tax Court’s judgment vacating the Third 1999 Reassessment was issued, it was necessary for the Minister to issue a reassessment which fixed the tax liability. In this case, the liability was fixed at nil.
+[39] The respondent relies on the following excerpt from Pure Spring, at p. 859:
+[…] It is, therefore, not accurate to describe the Court's action in referring the matter back to the Minister on the ground that he has not applied proper legal principles as an interference with his discretion, for it is no such thing; the action is consequent on the Court's finding that, in applying improper legal principles, the Minister has not actually exercised the discretion vested in him at all. Further than that the Court cannot go. It cannot itself exercise the discretion only the Minister can do so. There is still a third situation. Where it is not shown that proper legal principles were applied or that proper legal principles have not been applied, then it seems clear, from the authorities, that the Court has no ground for interference. As I see it, the Court may intervene only when it has been shown that the Minister has not applied proper legal principles and, even in such cases, its intervention is limited to sending the matter back to him under section 65(2): the Court has no other powers.
+(Emphasis added.)
+[40] I am unable to agree with the respondent’s interpretation of Pure Spring. The passage above is relevant only in circumstances where the legislation has conferred a discretionary power on the Minister. This was the situation in Pure Spring in which the relevant provision of the Income War Tax Act read:
+6. (2) The Minister may disallow any expense which he in his discretion may determine to be in excess of what is reasonable or normal for the business carried on by the taxpayer, or which was incurred in respect of any transaction or operation which in his opinion has unduly or artificially reduced the income.
+(Emphasis added.)
+[41] The excerpt from Pure Spring above that the respondent relies on needs to be put in context. It only applies where the relevant taxing provision provides a discretion to the Minister.
+[42] The respondent does not suggest that a discretionary provision was relevant to the Court’s decision to vacate the Third 1999 Reassessment. Accordingly, I do not accept that the excerpt from Pure Spring is applicable in this case.
+[43] I would have thought that the authority of the Tax Court of Canada to determine tax liability is clear by the precise wording in subsection 171(1) of the Act. Under this provision, if an appeal is allowed, the Court can either vacate the assessment, vary it, or refer the assessment back to the Minister for reconsideration and reassessment. If the assessment is vacated or varied, s. 171(1) does not contemplate that a further reassessment would be made.
+(2) Is reassessment necessary to issue refund?
+[44] The respondent further submits that the Minister has the inherent authority to issue the Fourth 1999 Reassessment since it was necessary in order to issue a refund to Blackburn.
+[45] In my view, a further reassessment for the 1999 taxation year was not necessary in order for a refund to be issued. The Minister was required to issue the refund by subsection 164(4.1) of the Act.
+[46] The judgment of the Court which vacated the Third 1999 Reassessment had the result of validating the Second 1999 Reassessment and fixing Blackburn’s tax at nil: Lornport Investments Ltd. v The Queen, [1992] 2 FC 293, 92 DTC 6231. A refund is required to be paid in these circumstances. Subsection 164(4.1) of the Act provides:
+(4.1) Duty of Minister - Where the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada has, on the disposition of an appeal in respect of taxes, interest or a penalty payable under this Act by a taxpayer resident in Canada,
+(a) referred an assessment back to the Minister for reconsideration and reassessment, or
+(b) varied or vacated an assessment,
+the Minister shall with all due dispatch, whether or not an appeal from the decision of the Court has been or may be instituted,
+(c) where the assessment has been referred back to the Minister, reconsider the assessment and make a reassessment in accordance with the decision of the Court, unless otherwise directed in writing by the taxpayer, and
+(d) refund any overpayment resulting from the variation, vacation or reassessment,
+and the Minister may repay any tax, interest or penalties or surrender any security accepted therefor by the Minister to that taxpayer or any other taxpayer who has filed another objection or instituted another appeal if, having regard to the reasons given on the disposition of the appeal, the Minister is satisfied that it would be just and equitable to do so, but for greater certainty, the Minister may, in accordance with the provisions of this Act, the Tax Court of Canada Act, the Federal Courts Act or the Supreme Court Act as they relate to appeals from decisions of the Tax Court of Canada or the Federal Court of Appeal, appeal from the decision of the Court notwithstanding any variation or vacation of any assessment by the Court or any reassessment made by the Minister under paragraph (c).
+(Emphasis added.)
+[47] I do not agree with the respondent that a new reassessment was required to authorize the refund.
+[48] The respondent submits that other provisions of the Act contemplate that a reassessment will be issued after an assessment has been vacated. Reference was made to subsections 165(1.1) and 169(2) of the Act.
+165 (1.1) Limitation of right to object to assessments or determinations - Notwithstanding subsection (1), where at any time the Minister assesses tax, interest, penalties or other amounts payable under this Part by, or makes a determination in respect of, a taxpayer
+(a) under subsection 67.5(2) or 152(1.8), subparagraph 152(4)(b)(i) or subsection 152(4.3) or (6), 161.1(7), 164(4.1), 220(3.4) or 245(8) or in accordance with an order of a court vacating, varying or restoring an assessment or referring the assessment back to the Minister for reconsideration and reassessment,
+(b) under subsection (3) where the underlying objection relates to an assessment or a determination made under any of the provisions or circumstances referred to in paragraph (a), or
+(c) under a provision of an Act of Parliament requiring an assessment to be made that, but for that provision, would not be made because of subsections 152(4) to 152(5),
+the taxpayer may object to the assessment or determination within 90 days after the day of sending of the notice of assessment or determination, but only to the extent that the reasons for the objection can reasonably be regarded
+(d) where the assessment or determination was made under subsection 152(1.8), as relating to any matter or conclusion specified in paragraph 152(1.8)(a), 152(1.8)(b) or 152(1.8)(c), and
+(e) in any other case, as relating to any matter that gave rise to the assessment or determination
+and that was not conclusively determined by the court, and this subsection shall not be read or construed as limiting the right of the taxpayer to object to an assessment or a determination issued or made before that time.
+169 (2) Limitation of right to appeal from assessments or determinations - Notwithstanding subsection (1), where at any time the Minister assesses tax, interest, penalties or other amounts payable under this Part by, or makes a determination in respect of, a taxpayer
+(a) under subsection 67.5(2) or 152(1.8), subparagraph 152(4)(b)(i) or subsection 152(4.3) or 152(6), 164(4.1), 220(3.4) or 245(8) or in accordance with an order of a court vacating, varying or restoring the assessment or referring the assessment back to the Minister for reconsideration and reassessment,
+(b) under subsection 165(3) where the underlying objection relates to an assessment or a determination made under any of the provisions or circumstances referred to in paragraph (a), or
+(c) under a provision of an Act of Parliament requiring an assessment to be made that, but for that provision, would not be made because of subsections 152(4) to 152(5),
+the taxpayer may appeal to the Tax Court of Canada within the time limit specified in subsection (1), but only to the extent that the reasons for the appeal can reasonably be regarded
+(d) where the assessment or determination was made under subsection 152(1.8), as relating to any matter specified in paragraph 152(1.8)(a), (b) or (c), and
+(e) in any other case, as relating to any matter that gave rise to the assessment or determination
+and that was not conclusively determined by the Court, and this subsection shall not be read or construed as limiting the right of the taxpayer to appeal from an assessment or a determination issued or made before that time.
+[49] I do not agree with this submission. The aim of the provisions above is to limit a taxpayer’s right to object or appeal. The provisions do not expressly give the Minister the authority to reassess after a prior reassessment has been vacated.
+[50] The respondent submits that the provisions have this effect by implication.
+[51] If the respondent’s position is accepted, this would enable the Minister to reassess beyond the general reassessment period set out in subsection 152(4). In my view, it would take clear language to do this. Subsections 165(1.1) and 169(2) are not such provisions.
+[52] Further, the language used in s. 165(1.1) and 169(2) make sense without making the inference that the respondent suggests. Assessments are sometimes permitted after an assessment has been vacated by a Court. Subsection 152(4.3) is one such a provision, and it is specifically referred to in these provisions. It is not necessary to infer that the Minister always has the authority to issue a reassessment after an assessment has been vacated.
+[53] Accordingly, I do not agree that the Minister had the authority to issue the Fourth 1999 Reassessment. This reassessment was statute barred by virtue of subsection 152(4).
+D. Is Fourth 1999 Reassessment void or voidable?
+[54] The respondent submits that, even if the Fourth 1999 Reassessment is statute barred, the reassessment is nevertheless valid because Blackburn did not object to it. The argument is that a statute barred reassessment is not void but only voidable. The reassessment is valid unless it has been determined to be statute barred through the objection and appeal process. Two arguments in support of this position were raised by the respondent.
+(1) Is Fourth 1999 Reassessment valid by virtue of s. 152(8)?
+[55] The respondent relies on subsection 152(8) to support the position that a statute barred assessment is valid until it has been successfully challenged. The provision is set out below.
+152 (8) Assessment deemed valid and binding - An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[56] This same argument was rejected by the Federal Court of Appeal in Lornport.[1] The issue in that case was whether a statute barred reassessment vitiated a prior assessment so that the taxpayer was not liable under the earlier assessment. The Court concluded that the earlier assessment continued to exist.
+[57] In the reasons in Lornport, Stone J.A. considered an argument that subsection 152(8) supports the validity of a statute barred reassessment until it is set aside by court order. In rejecting the argument, he stated at page 6233:
+[…] It seems to me that [s. 152(8)] is not addressed to a situation where an assessment is issued out of time but rather to a situation where an assessment is issued in time but contains an “error, defect or omission” or that such is contained in any proceeding under the Act relating to it.
+[58] This comment from Lornport is dispositive of this issue. Subsection 152(8) does not save a statute barred reassessment.
+(2) Is Fourth 1999 Reassessment valid because no objection was taken?
+[59] The respondent also submits that the Fourth 1999 Reassessment is valid because no objection was taken from it.
+[60] This argument was rejected by the Federal Court of Appeal in Canadian Marconi, above. The issue in Canadian Marconi was whether the Minister had the authority to issue a reassessment outside the limitation period with the consent of the taxpayer. The Court agreed with the Crown that the Minister did not have this authority.
+[61] In his reasons, Mahoney J.A. considered whether a taxpayer must object to a statute-barred assessment. He concluded that this was not necessary unless the Minister was alleging fraud or misrepresentation, in which case an objection was necessary. The relevant excerpts are reproduced below.
+6. The argument is that, notwithstanding the limitation period, the Minister may at any time reassess any taxpayer in respect of any taxation year; the taxpayer may then elect to waive the limitation period by not raising it in defence. That is the way waiver comes into the process and, if the Minister had the power to reassess, there could, in my view, be no reason at all why a taxpayer ought not, by foregoing a private right to object to a reassessment, waive the limitation period. Since the Minister may reassess any tax return at any time, the corollary to the argument is that, at the whim of the Minister, every taxpayer is liable to be called upon in a timely fashion, first by notice of objection and, if the Minister does not relent, by institution of an appeal in the Tax Court, to assert the benefit of the limitation period and be prepared to litigate to whatever level of appeal the Minister may, by leave or as of right, elect to pursue the reassessment.
+[…]
+8. The seminal decision is that of Cameron, J., in M.N.R. v. Taylor, 61 DTC 1138 [sic, 1139] at 1139 (Ex. Ct.), where it was said:
+. . .in every appeal, whether to the Tax Appeal Board or to this Court, regarding a re‑assessment made after the statutory period of limitation has expired and which is based on fraud or misrepresentation, the burden of proof lies on the Minister to first establish to the satisfaction of the Court that the taxpayer. . .has 'made any misrepresentation or committed any fraud . . . ' unless the taxpayer in the pleadings. . .or at the hearing of the appeal has admitted such misrepresentation or fraud. In re‑assessing after the lapse of the statutory period for doing so the Minister must be taken to have alleged misrepresentation or fraud and, if so, he must prove it.
+(Emphasis added.)
+Absent a waiver as provided by subparagraph 152(4)(a)(ii), an allegation of misrepresentation or fraud is implicit in an out-of-time reassessment.
+9. Where the Minister alleges, expressly or implicitly, misrepresentation or fraud, there is nothing offensive in putting a taxpayer on notice that he must object to an out-of-time reassessment. It is, with respect, quite otherwise absent an allegation of fraud or misrepresentation. An obvious policy consideration nourishes the distinction in treatment.
+(Emphasis added.)
+[62] The above passages make it clear that it is not necessary to object to an out of time reassessment, unless the Minister has alleged fraud or misrepresentation.[2] In my view, Canadian Marconi is strong authority that an out-of-time reassessment is void absent an allegation of fraud or misrepresentation. There is no such allegation in this case.
+[63] Before leaving this issue, I would comment that I have had difficulty reconciling Canadian Marconi with an obiter comment in Lornport. Lornport was heard shortly after the Canadian Marconi decision. The relevant excerpts from Lornport are set out below.
+5 […] The essential issue raised by the appeal is whether the motions Judge erred in determining in effect that the second reassessment did not supersede and vitiate the first reassessment with the result that the appellant could be rendered liable to pay tax on the basis of the first reassessment. Counsel for the appellant, in a detailed and able argument, submitted that according to the statutory framework (as contained in section 152 which confers the power of assessment and in section 165, subsection 171(1) and section 177 which together confer the right of a taxpayer to object to and to appeal against an assessment and for the disposition of an objection and an appeal), the second reassessment had legal effect from the date it was issued and was presumed to be valid until it was finally set aside by the Court order of April 20, 1989. The result, according to his argument, is that, not being an additional reassessment, the second reassessment superseded the first reassessment and rendered it null.
+[…]
+8 Counsel for the appellant also contends that despite the fact that the second reassessment was issued out of time, its validity was preserved by subsection 152(8) of the Income Tax Act, which reads:
+(8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission therein or in any proceeding under this Act relating thereto.
+He argues that the second reassessment had life and remained alive until it was finally vacated by the Court order of April 20, 1989. Although, as I have already indicated, the statutory framework supports the appellant's submission that the second assessment stood until it was set aside, in my view subsection 152(8) does not support that contention. It seems to me that it is not addressed to a situation where an assessment is issued out of time but rather to a situation where an assessment is issued in time but contains an 'error, defect or omission' or that such is contained in any proceeding under the Act relating to it.
+9 I have come to the conclusion, in the particular circumstances of this case, that the second reassessment, which was vacated by the court order of April 20, 1989, did not supersede and nullify the first reassessment. It seems to me that the Court order amounted to judicial recognition that the second reassessment, issued as it was beyond the statutory time limit, was not legally issued. It did not, for that reason, displace and render the first reassessment a nullity. That reassessment continues to subsist, in my opinion.
+(Emphasis added.)
+[64] The question is what is meant by the comment in paragraph 8 of Lornport that: “[…] the statutory framework supports the appellant’s submission that the second assessment stood until it was set aside […].”
+[65] This comment may suggest that the Court was of the view that a statute‑barred reassessment is valid if no objection to it has been made. If so, this is directly contrary to the comment above in Canadian Marconi and no mention was made of this case in Lornport. To add to the mystery, I would note that the judge who wrote the reasons in Lornport was also on the panel who decided Canadian Marconi a few months earlier.
+[66] The conclusion that I have reached is that the obiter comment in Lornport should not be considered to have overruled the comment in Canadian Marconi. I would conclude that the comment from Canadian Marconi should be followed in this Court.
+[67] Counsel for the respondent, who was also counsel in Canadian Marconi, submits that this is reading too much into Canadian Marconi because the only issue in that case was whether the Minister had the power to issue an out-of-time reassessment with the consent of the taxpayer.
+[68] I disagree with this. The comment in Canadian Marconi was not mere musing; it was an essential part of the reasoning in the case.
+[69] Finally, I would comment that the circumstances in this appeal illustrate the concern expressed in Canadian Marconi. Why should the Minister be permitted to extend the time for issuing consequential reassessments under s. 152(4.3) by issuing an out-of-time reassessment? As suggested in Canadian Marconi, policy considerations suggest that the Minister ought not be able to do this.
+E. Does Fourth 1999 Reassessment affect a balance?
+[70] Counsel for Blackburn submits in the alternative that, even if the Fourth 1999 Reassessment is valid, the reassessment does not start the clock running for purposes of s. 152(4.3) because that reassessment did not result in a change in a balance as required by the provision.
+[71] The term “balance” is defined s. 152(4.4) of the Act.
+152 (4.4) Definition of “balance” - For the purpose of subsection (4.3), a “balance” of a taxpayer for a taxation year is the income, taxable income, taxable income earned in Canada or any loss of the taxpayer for the year, or the tax or other amount payable by, any amount refundable to, or any amount deemed to have been paid or to have been an overpayment by, the taxpayer for the year.
+[72] I would agree with Blackburn’s alternative argument. In my view, a balance was changed by virtue of the amended judgment which vacated the Third 1999 Reassessment. The amended judgment declared the Third 1999 Reassessment to be invalid and resulted in a reduction of the Part I tax from $2,125,564 to nil.
+[73] For this reason I would conclude that the Fourth 1999 Reassessment did not change a balance.
+[74] Before concluding this part, I would mention that this argument was not raised by the appellant in the notice of appeal and the respondent was not aware of it until the appellant’s opening address. Counsel for the appellant informed me that the argument had only recently been thought of. I raised a concern as to the fairness of raising it so late. If the respondent had asked for time to make further submissions, I certainly would have granted it.
+III. Conclusion
+[75] In the result, the appeal will be allowed, and the reassessments for the 2000 and 2005 taxation years issued by notices dated July 19 and 21, 2010, respectively, will be vacated.
+[76] The appellant will be awarded costs in accordance with the relevant tariff.
+Signed at Toronto, Ontario this 16th day of July 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 255
+COURT FILE NO.: 2011-67(IT)G
+STYLE OF CAUSE: BLACKBURN RADIO INC. v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 6, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: July 16, 2012
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Sandler
+Sharona Ishmael
+Counsel for the Respondent:
+Josée Tremblay
+Serena Sial
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Daniel Sandler
+Firm: Couzin Taylor LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The same issue was also addressed in the earlier decision of Canadian Marconi, above. The reasons for the Court’s conclusion on this issue are no longer relevant due to an amendment to s. 152(4) of the Act, which is the provision on which the Court based its reasoning.
+[2] There may be other exceptions which are not necessary to consider here. An example that comes to mind is the Third 1999 Reassessment issued to Blackburn. The validity of this reassessment turned on a non-arm’s length determination.

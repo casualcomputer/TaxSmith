@@ -1,0 +1,356 @@
+Title: Triad Gestco Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30433/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-259-30433-triad-gestco-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-07-12
+
+# Triad Gestco Ltd. c. La Reine
+
+- Citation: 2011 CCI 259
+- Decision date: 2011-07-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7930, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Triad Gestco Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-12
+Référence neutre
+2011 CCI 259
+Numéro de dossier
+2008-1667(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1667(IT)G
+ENTRE :
+TRIAD GESTCO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 23 avril 2010, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Aaron Rodgers
+Me Julie Gaudreault-Martel
+Avocates de l'intimée :
+Me Marie-Andrée Legault
+Me Justine Malone
+________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu les 8 mars et 8 juin 2006 à l'égard des années d'imposition de l'appelante qui ont pris fin les 31 août 2001, 2002 et 2003 sont rejetés avec dépens conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2011.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 21e jour d'octobre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 259
+Date : 20110712
+Dossier : 2008-1667(IT)G
+ENTRE :
+TRIAD GESTCO LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit d'appels de nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »), le 8 mars 2006 pour les années d'imposition qui ont pris fin le 31 août 2001 et le 31 août 2003, et le 8 juin 2006 pour l'année d'imposition qui a pris fin le 31 août 2002.
+[2] Par les nouvelles cotisations du 8 mars 2006, le ministre du Revenu national (le « ministre ») a refusé :
+a) la déduction d'une perte en capital nette de 143 063 $ au cours de l'année d'imposition 2001 de l'appelante, par suite du rejet de la perte en capital que l'appelante avait déclarée pour son année d'imposition 2002;
+b) la déduction d'une perte autre qu'en capital de 17 742 $ reportée rétrospectivement de l'année d'imposition 2003 de l'appelante à son année d'imposition 2001;
+c) la déduction de 17 742 $ se rapportant à des honoraires professionnels (non contestés dans le présent appel) que l'appelante avait déduits pour son année d'imposition 2003.
+[3] Par la nouvelle cotisation du 8 juin 2006, le ministre a refusé la déduction d'une perte en capital de 7 999 935 $ que l'appelante avait déduite pour son année d'imposition 2002. Le ministre a estimé qu'il s'agissait d'un avantage fiscal qui résultait d'une série d'opérations d'évitement au sens de l'article 245 de la Loi (la « règle générale anti‑évitement », ci‑après appelée la « RGAÉ »).
+[4] Lorsqu'il a déterminé la dette fiscale de l'appelante pour les années d'imposition 2001, 2002 et 2003, le ministre a émis les hypothèses de fait suivantes, qui sont énoncées au paragraphe 13 de la réponse modifiée :
+[TRADUCTION]
+a) l'appelante est une société canadienne imposable qui a été constituée en personne morale en vertu de la Loi canadienne sur les sociétés par actions et qui est dirigée par Peter Cohen;
+b) Peter Cohen est un résident du Canada;
+c) l'exercice de l'appelante prend fin le 31 août;
+d) Peter Cohen est l'unique administrateur de l'appelante;
+e) le 6 décembre 2001, l'appelante a disposé d'un bien et a réalisé un gain en capital de 7 799 545 $;
+Rcongold Systems Inc.
+f) le 25 juillet 2002, Rcongold Systems Inc. (« Rcongold ») a été constituée en personne morale en vertu de la Loi canadienne sur les sociétés par actions;
+g) pendant la période pertinente, Rcongold était dirigée par l'appelante;
+h) pendant la période pertinente, Peter Cohen était l'administrateur de Rcongold;
+i) le 27 août 2002, l'appelante a souscrit à 8 000 actions ordinaires avec droit de vote de Rcongold, moyennant une contrepartie globale de 8 000 000 $;
+j) le 28 août 2002, Rcongold a déclaré un dividende de 1 $ payable aux actionnaires ordinaires au moyen de l'émission de 80 000 actions privilégiées sans droit de vote de la catégorie E ayant un prix de rachat de 100 $ chacune;
+k) le prix de rachat des actions privilégiées sans droit de vote de la catégorie E était identique à la juste valeur marchande (la « JVM ») des actions ordinaires;
+l) Rcongold n'a jamais produit de déclarations de revenus;
+La fiducie Peter Cohen
+m) le 20 août 2002, la fiducie Peter Cohen (la « fiducie ») a été constituée au moyen d'un transfert de 100 dollars américains effectué par M. Guy Carbonneau, une personne non liée à Peter Cohen;
+n) la fiducie a été constituée au bénéfice de Peter Cohen et le fiduciaire est Sheldon Merling, une personne non liée à Peter Cohen;
+o) la fiducie n'a jamais produit de déclarations de revenus et n'a pas de numéro d'entreprise;
+p) le 29 août 2002, l'appelante a vendu à la fiducie les 8 000 actions ordinaires du capital‑actions de Rcongold au prix de 65 $, de sorte qu'elle a déclaré une perte en capital de 7 999 935 $;
+q) la perte en capital déductible de 3 932 998 $ que l'appelante a déclarée en 2002 a entraîné une perte en capital nette de 143 063 $ que l'appelante a appliquée en réduction de sa dette fiscale pour l'année d'imposition 2001;
+r) l'appelante a déclaré une perte en capital de 7 999 935 $ au cours de son année d'imposition 2002 par suite de la disposition des actions ordinaires de Rcongold, mais elle n'a pas subi de perte réelle;
+s) les opérations d'évitement qui font partie d'une série qui a entraîné un avantage fiscal pour l'appelante sont les suivantes :
+® la constitution en personne morale de Rcongold;
+® la souscription par l'appelante de 8 000 actions ordinaires avec droit de vote du capital-actions de Rcongold, au montant de 8 000 000 $;
+® la constitution de la fiducie;
+® le paiement par Rcongold d'un dividende en actions à l'égard des actions ordinaires au moyen de l'émission à l'appelante de 80 000 actions privilégiées sans droit de vote de la catégorie E dont la juste valeur marchande (« JVM ») était élevée et le capital versé (« CV ») était faible;
+® la vente par l'appelante des actions ordinaires de Rcongold à la fiducie;
+t) les opérations susmentionnées n'ont pas été principalement effectuées pour des objets véritables autres que l'obtention par l'appelante d'un avantage fiscal;
+u) l'appelante a obtenu un avantage fiscal par suite de la création d'une perte de 7 999 935 $ lors de la disposition des actions ordinaires de Rcongold au cours de son année d'imposition 2002.
+[5] La question à trancher est de savoir si la perte que l'appelante a subie lors de la disposition des actions ordinaires de Rcongold au cours de son année d'imposition 2002 était nulle, par application de l'article 245 de la Loi, de sorte que la déduction de la perte, en 2002, et le report rétrospectif d'une perte en capital nette, en 2001, ont été à juste titre refusés.
+La position de l'appelante
+[6] L'appelante soutient que les cinq opérations suivantes constituent la série d'opérations à prendre en considération afin de déterminer s'il existe une « opération d'évitement » :
+a) la constitution de Rcongold en personne morale, le 25 juillet 2002;
+b) la souscription par l'appelante, le 27 août 2002, de 8 000 actions ordinaires de Rcongold moyennant une contrepartie globale de 8 000 000 $, dont le paiement a été effectué au moyen du transfert des actifs énumérés à l'onglet 41 du recueil conjoint de documents;
+c) la déclaration par Rcongold, le 28 août 2002, d'un dividende de 1 $ payable à l'appelante, en sa qualité d'actionnaire détenant toutes les actions ordinaires émises et en circulation, au moyen de l'émission de 80 000 actions privilégiées sans droit de vote de la catégorie E ayant un prix de rachat de 100 $ chacune;
+d) la constitution, le 20 août 2002, de la fiducie Peter Cohen (la « FPC ») et le transfert à la fiducie de 100 dollars américains par Guy Carbonneau, une personne non liée; le bénéficiaire de la FPC est Peter Cohen de son vivant;
+e) la vente par l'appelante, le 29 août 2002, des 8 000 actions ordinaires de Rcongold à la FPC au prix de 65 $, soit la juste valeur marchande des actions ordinaires à ce moment‑là.
+[7] Les opérations décrites ci‑dessus font partie du « gel inversé » mis en place pour que toute croissance future des actifs de Rcongold revienne à Peter Cohen par l'entremise de la FPC.
+[8] Le gel des fonds investis par Peter Cohen dans l'appelante a été mis en place en l'an 2000 parce que, en 1999, on avait diagnostiqué chez Peter Cohen une grave maladie du foie et on avait recommandé une greffe du foie. M. Cohen a été inscrit sur une liste de greffes à l'automne 1999, mais il a été radié de la liste au printemps 2000 à cause de facteurs de risque additionnels.
+[9] L'appelante est une société constituée en vertu de la Loi canadienne sur les sociétés par actions (la « LCSA ») en vue de posséder et de gérer des immeubles. Peter Cohen était l'unique actionnaire de l'appelante; il détenait dix actions de la catégorie A et 30 actions de la catégorie F. L'exercice de l'appelante prend fin le 31 août de chaque année.
+[10] La participation de Peter Cohen dans l'appelante a été gelée à la juste valeur marchande — laquelle, selon les estimations, était de 4 millions de dollars le 22 juin 2000 — en faveur des enfants de Peter Cohen (le « gel »). Le gel a été réalisé au moyen de la conclusion des opérations suivantes :
+a) une fiducie familiale a été créée au moyen d'un acte de fiducie le 21 juin 2000, les bénéficiaires de la fiducie étant les enfants de Peter Cohen;
+b) par une résolution du 22 juin 2000, dix actions de la catégorie A de l'appelante ont été converties en dix actions de la catégorie F2 de l'appelante; les actions de la catégorie F2 comportaient un dividende non cumulatif mensuel de 0,4 p. 100; il s'agissait d'actions sans participation, sans droit de vote et rachetables, au gré du détenteur ou de la société, à la juste valeur marchande de la contrepartie reçue en échange, déterminée au moyen d'une résolution expresse des administrateurs (400 000 $ l'action, soit 4 000 000 $ en tout);
+c) le 22 juin 2000, Peter Cohen a souscrit à 1 000 actions de la catégorie C de l'appelante au prix global de 100 $. Les actions de la catégorie C comportaient un dividende non cumulatif mensuel de 0,5 p. 100; il s'agissait d'actions sans participation, avec droit de vote, et rachetables, au gré de la société, au prix d'émission;
+d) le 22 juin 2000, Peter Cohen, en sa qualité de fiduciaire de la fiducie familiale Peter Cohen, a souscrit à 30 actions de la catégorie B de l'appelante au prix de 1 $ l'action. Les actions de la catégorie B étaient des actions avec droit de participation, mais sans droit de vote.
+[11] Par suite du gel, Peter Cohen détenait 1 000 actions de la catégorie C, dix actions de la catégorie F2 et 30 actions de la catégorie F de l'appelante, et la fiducie familiale Peter Cohen détenait 30 actions de la catégorie B. Les actions de la catégorie F comportaient un dividende non cumulatif mensuel de 0,5 p. 100; il s'agissait d'actions sans participation, sans droit de vote, et rachetables, au gré du détenteur ou de la société, au prix d'émission.
+[12] Au cours de la période allant de la date du gel à la date du gel inversé, les opérations suivantes ont été conclues :
+a) le 6 décembre 2001, un immeuble situé au 8500, boulevard Décarie, à la ville de Mont‑Royal, a été vendu par l'appelante à Cominar Real Estate Investment Trust, une personne non liée à l'appelante, au prix de vente de 32 650 000 $, cette opération ayant donné lieu à un gain en capital de 7 799 545 $;
+b) le 9 janvier 2002, l'appelante a racheté 30 actions de la catégorie F et dix actions de la catégorie F2 de son capital‑actions enregistrées à Peter Cohen. Les 30 actions de la catégorie F avaient une valeur de rachat globale de 540 597 $ et un capital versé de 30 $. Les dix actions de la catégorie F2 avaient une valeur de rachat globale de 4 000 000 $ et un capital versé de 10 $. Le rachat des 30 actions de la catégorie F et des dix actions de la catégorie F2 a donné lieu à un dividende réputé de 4 540 557 $, que l'appelante a traité comme un dividende versé de son compte de dividende en capital et, par conséquent, Peter Cohen a reçu le dividende réputé libre d'impôt;
+c) le 18 janvier 2002, Peter Cohen a souscrit à trois millions d'actions de la catégorie E de l'appelante, au prix de 1 $ l'action. Les actions de la catégorie E comportaient un dividende non cumulatif de 6 p. 100 l'an; elles étaient rachetables au gré de la société ou du détenteur au prix payé, et il s'agissait d'actions privilégiées avec droit de vote.
+[13] Par suite des opérations décrites au paragraphe précédent, Peter Cohen détenait 1 000 actions de la catégorie C et trois millions d'actions de la catégorie E de l'appelante, et la fiducie familiale Peter Cohen détenait 30 actions de la catégorie B de l'appelante. La participation de Peter Cohen dans l'appelante était limitée à un montant de 180 000 $ généré chaque année (6 p. 100 sur trois millions d'actions de la catégorie E), montant qu'il estimait insuffisant pour maintenir son train de vie et pour payer le coût du traitement médical qui pourrait être offert aux États‑Unis s'il survivait plus longtemps que prévu.
+[14] L'appelante affirme que l'article 245 de la Loi ne s'applique pas au gel inversé étant donné qu'il n'existe aucune opération d'évitement ni aucune opération entraînant un abus dans l'application des dispositions de la Loi lues dans leur ensemble. Aucune des opérations permettant à Peter Cohen de bénéficier de la croissance future de Rcongold n'est une opération d'évitement et ces opérations ont principalement été effectuées à des fins non fiscales.
+[15] L'appelante se réfère aux passages suivants de l'arrêt Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601 (« Trustco Canada »), aux paragraphes 13 et 17, pour expliquer le but visé par la RGAÉ et les conditions à remplir pour que la RGAÉ s'applique :
+[...] la RGAÉ [...] est une disposition générale destinée à invalider, pour le motif qu'ils constituent de l'évitement fiscal abusif, des mécanismes qui seraient acceptables selon une interprétation littérale d'autres dispositions de la Loi de l'impôt sur le revenu. [...]
+[...]
+17 L'application de la RGAÉ comporte trois étapes. La première étape consiste à déterminer s'il existe un « avantage fiscal » découlant d'une « opération » au sens des par. 245(1) et (2). La deuxième étape consiste à déterminer si l'opération constitue une opération d'évitement visée par le par. 245(3), en ce sens qu'elle n'a pas été « principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable ». La troisième étape consiste à déterminer si l'opération d'évitement est abusive au sens du par. 245(4). Les trois conditions doivent être remplies pour que la RGAÉ permette de supprimer un avantage fiscal.
+[16] L'appelante a présenté une analyse de chacune des conditions établies dans l'arrêt Trustco Canada dans le contexte des faits se rapportant au gel inversé.
+L'avantage fiscal
+[17] L'appelante s'est reportée au passage suivant de l'arrêt Trustco Canada, portant sur l'« avantage fiscal » :
+19 Le paragraphe 245(1) définit 1'« avantage fiscal » comme étant une « [r]éduction, [un] évitement ou [un] report d'impôt » ou une « augmentation d'un remboursement d'impôt ou d'un autre montant » visé par la Loi. La question de savoir s'il existe un avantage fiscal est une question de fait qui est d'abord tranchée par le ministre, et ensuite par les tribunaux, habituellement la Cour de l'impôt, dans le cadre d'un contrôle. L'ampleur de l'avantage fiscal n'est pas pertinente à cette étape de l'analyse.
+[18] L'appelante soutient qu'aucun avantage fiscal, tel qu'il est prévu à l'article 245 de la Loi, ne découlait du gel inversé parce que la perte en capital de 7 999 935 $ déclenchée par la disposition des actions ordinaires de Rcongold par l'appelante à la FPC, en 2002, ne donne pas lieu à une réduction ou à un report « d'impôt ou d'un autre montant exigible », étant donné qu'aucun montant n'était payable à l'égard de gains en capital au moment où l'opération a été conclue. La perte en capital ne donne pas lieu en soi à une « augmentation d'un remboursement d'impôt ». Si un remboursement d'impôt a été accordé à l'appelante en raison de la perte en capital, ce remboursement serait le résultat de l'application de la disposition concernant le report rétrospectif (ou prospectif) de la perte; or, cette application ne constitue pas une opération et ne peut donc pas entraîner un « avantage fiscal » tel qu'il est prévu à l'article 245 de la Loi.
+L'opération d'évitement
+[19] L'appelante fait valoir que, pour que la RGAÉ s'applique, au moins une opération dans une série d'opérations doit être une « opération d'évitement » et qu'en pareil cas, l'avantage fiscal qui découle d'une série d'opérations peut être refusé en vertu de la RGAÉ. Par contre, si chaque opération d'une série a principalement été effectuée pour des objets non fiscaux véritables, la RGAÉ ne peut pas s'appliquer pour supprimer un avantage fiscal. Pour savoir si une « opération d'évitement » existe, il faut examiner chaque opération, sans tenir compte de ses incidences fiscales, afin de déterminer si sa raison d'être économique était ce qu'elle était censée être.
+[20] Selon l'appelante, l'objet de la série d'opérations était clairement de nature non fiscale, à savoir permettre que toute augmentation future de la valeur de Rcongold revienne à Peter Cohen. Il s'agissait d'un transfert des enfants de Peter Cohen à celui‑ci. Par conséquent, le résultat de la série ne peut pas être contesté. Toutes les mesures qui ont été prises en vue du gel inversé avaient la raison d'être économique qu'elles étaient censées avoir, elles étaient valides, et il fallait les prendre pour atteindre l'objet non fiscal.
+[21] La constitution en personne morale de Rcongold et l'émission d'actions ordinaires de cette société n'étaient pas des opérations d'évitement. L'effet économique réel était que des actifs étaient transférés à Rcongold en échange d'actions émises par la société.
+[22] La déclaration et le versement d'un dividende en actions constituaient une opération valide ayant une raison d'être économique. Il s'agit d'un aspect normal de tout gel permettant le transfert d'avoirs entre membres d'une famille. Le montant du dividende, qui détermine le capital versé, a été fixé d'une façon précise pour que le gel inversé puisse être accompli sans qu'un impôt soit payable immédiatement.
+[23] Selon l'appelante, chaque opération de la série aurait été effectuée même en l'absence de quelque « avantage fiscal ». En l'absence d'une perte en capital subie par l'appelante, le gel inversé aurait été une solution efficace au problème perçu par Peter Cohen et ses enfants. Le gel permettait à l'appelante de conserver ses actifs d'entreprise tout en permettant à Peter Cohen de bénéficier de la croissance future des gains imprévus réalisés par l'appelante.
+L'abus
+[24] Selon la troisième condition à remplir pour l'application de la RGAÉ, l'opération d'évitement ou la série d'opérations doit être abusive. Une analyse de l'abus est uniquement pertinente lorsqu'une opération d'évitement et un « avantage fiscal » sont présents; or, l'appelante nie expressément qu'ils soient présents. Il peut uniquement être conclu à l'abus lorsque l'opération d'évitement va à l'encontre d'une politique légale claire dont l'existence doit être fondée sur le libellé de la Loi. Dans l'arrêt Trustco Canada, le critère de la raison d'être économique a explicitement été rejeté à l'égard de l'abus.
+[25] L'appelante affirme que la RGAÉ s'applique uniquement s'il peut être démontré que le législateur voulait régler la question et qu'il a tenté de le faire, mais que ses efforts n'ont pas porté fruit. L'abrogation du paragraphe 55(1) de la Loi et l'existence du paragraphe 15(1.1) tendent à indiquer le contraire : le législateur était clairement au courant du problème, mais il n'a fait aucun effort pour le régler.
+[26] L'appelante se reporte aux remarques suivantes que la Cour suprême du Canada a faites dans l'arrêt Trustco Canada, aux paragraphes 43 et 55 :
+43 [...] Le paragraphe 245(4) exige que, pour décider s'il y a eu évitement fiscal abusif, l'on applique une seule méthode unifiée d'interprétation textuelle, contextuelle et téléologique des dispositions particulières de la Loi de l'impôt sur le revenu invoquées par le contribuable.
+[...]
+55 En résumé, le par. 245(4) prescrit un examen en deux étapes. La première étape consiste à déterminer l'objet ou l'esprit des dispositions de la Loi de l'impôt sur le revenu qui sont invoquées pour obtenir l'avantage fiscal, eu égard à l'économie de la Loi, aux dispositions pertinentes et aux moyens extrinsèques admissibles. La deuxième étape consiste à examiner le contexte factuel de l'affaire pour déterminer si l'opération d'évitement contrecarrait l'objet ou l'esprit des dispositions en cause.
+[27] L'appelante affirme en outre ce qui suit :
+[TRADUCTION]
+Il incombe au ministre d'établir l'abus et de dire de quelle disposition de la Loi il y aurait eu un abus.
+Il faut appliquer la RGAÉ de manière à assurer l'uniformité, la prévisibilité et l'équité en matière fiscale.
+Lorsque l'existence d'un évitement fiscal abusif n'est pas claire, il faut laisser le bénéfice du doute au contribuable.
+Aucune analyse de la raison d'être économique ou de l'objet commercial n'est appropriée lors de l'analyse de l'abus.
+Les dispositions précises
+[28] L'appelante soutient en outre que les opérations n'ont pas entraîné, directement ou indirectement, d'abus dans l'application des alinéas 40(1)b), 38b) et 39(1)b) ainsi que du sous‑alinéa 3b)(ii) de la Loi.
+[29] La perte en capital réalisée par l'appelante résultait de l'application de la Loi aux fins de la détermination du prix de base rajusté des actions ordinaires de Rcongold indépendamment du dividende en actions. La LCSA permet au contribuable de verser pareil dividende. La réduction de valeur des actions ordinaires découlant du dividende en actions résulte uniquement du mécanisme prévu par la LCSA.
+[30] L'appelante s'est fondée sur la disposition sur le report rétrospectif d'une perte en capital nette, à l'alinéa 111(1)b) de la Loi, et sur la définition du terme « perte en capital nette », au paragraphe 111(8). Le texte et le contexte des paragraphes 111(1) et 111(8) de la Loi révèlent que le but et l'intention du législateur étaient de permettre aux contribuables de reporter rétrospectivement une perte en capital nette sur une période de trois ans et de la reporter prospectivement pour une période indéfinie. L'appelante ne peut pas avoir commis un abus dans l'application de l'alinéa 111(1)b) de la Loi ou avoir contrecarré l'intention du législateur à cet égard en agissant exactement comme le législateur le voulait.
+Les autres points
+[31] Le gel inversé ne devrait pas être considéré comme un abus des dispositions de la Loi. L'objet des opérations n'était pas de créer une perte, mais plutôt d'effectuer un gel. Les opérations effectuées par l'appelante avaient une raison d'être économique réelle : les actions ordinaires de Rcongold ont été transférées à la FPC moyennant une contrepartie réelle après qu'un dividende eut en fait été versé au moyen de l'émission d'actions privilégiées. Par conséquent, les opérations n'ont rien d'« artificiel » ou d'« abusif ».
+La position de l'intimée
+[32] L'intimée invoque les arguments suivants :
+a) l'appelante a conclu une série d'opérations d'évitement dont le principal objet était de créer une perte en capital artificielle visant à compenser un gain en capital qui avait été réalisé au cours de la même année d'imposition;
+b) l'assertion de l'appelante selon laquelle les opérations en cause visaient à inverser un gel successoral antérieur n'est pas étayée par la preuve et n'explique pas comment la création d'une perte en capital artificielle permettait d'atteindre les objectifs de planification successorale déclarés de son actionnaire majoritaire, Peter Cohen;
+c) l'avantage fiscal découlant de la série d'opérations, à savoir la création d'une perte en capital de 7 999 935 $ qui a été appliquée en compensation d'un gain en capital du même montant, excède la portée d'une planification successorale permise. Les opérations en litige ont expressément été effectuées en vue d'éviter le paiement d'un impôt sur un gain en capital, et la série dans son ensemble entraîne un abus dans l'application de la Loi lue dans son ensemble et des dispositions portant sur la création des gains et des pertes en capital.
+[33] L'intimée affirme que la RGAÉ a pour effet de supprimer l'avantage fiscal recherché par un contribuable dans les circonstances suivantes :
+a) un avantage fiscal découle d'une opération ou d'une série d'opérations (paragraphes 245(1) et (2));
+b) l'opération, à elle seule ou en tant que partie d'une série d'opérations, est une opération d'évitement, selon la définition figurant au paragraphe 245(3);
+c) l'opération d'évitement entraîne un abus au sens du paragraphe 245(4).
+[34] Selon l'intimée, il incombe au contribuable de démontrer qu'il n'est pas satisfait aux deux premiers critères, alors qu'il incombe au ministre de prouver, selon la prépondérance des probabilités, que l'opération d'évitement entraîne un abus au sens du paragraphe 245(4).
+L'avantage fiscal
+[35] L'expression « avantage fiscal » est définie ainsi au paragraphe 245(1) : « [r]éduction, évitement ou report d'impôt » ou « augmentation d'un remboursement d'impôt ou d'un autre montant » payé en application de la Loi. La question de savoir s'il existe un avantage fiscal est une question de fait. Comme la Cour suprême du Canada l'a dit dans l'arrêt Trustco Canada, au paragraphe 20 :
+Dans les cas où une déduction est demandée à l'égard d'un revenu imposable, il est évident qu'il existe un avantage fiscal étant donné qu'une déduction entraîne une réduction d'impôt. [...]
+[36] Selon l'intimée, l'avantage fiscal dans ce cas‑ci découle de la compensation du gain en capital de 7 799 545 $ et de la réduction à néant de l'impôt qui aurait par ailleurs été payable sur ce gain.
+[37] Pour que le paragraphe 245(2) s'applique à une opération d'évitement, il suffit que la réduction, l'évitement ou le report d'impôt découle, directement ou indirectement, de cette opération ou d'une série d'opérations dont cette opération fait partie.
+L'opération d'évitement
+[38] L'intimée affirme que, pour décider si une opération, ou une opération qui fait partie d'une série d'opérations, est une « opération d'évitement » en vertu du paragraphe 245(3) en ce sens qu'elle n'est pas « principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable », il faut examiner l'objet principal de chaque opération. La série entière n'a pas à constituer une opération d'évitement; il suffit qu'une opération de la série n'ait pas principalement été effectuée pour des objets véritables autres que l'obtention de l'avantage fiscal.
+[39] Même lorsqu'il est conclu que la série d'opérations comporte un objet véritable non fiscal, l'avantage fiscal qui découle de la série entière peut être supprimé en vertu de la RGAÉ si l'objet principal d'au moins une opération de la série est l'obtention d'un avantage fiscal.
+[40] L'intimée fait valoir qu'il y a au moins trois opérations d'évitement clairement identifiables dans la série d'opérations que l'appelante a conclues :
+– le versement par Rcongold d'un dividende en actions;
+– la constitution de la FPC;
+– la disposition des actions ordinaires de Rcongold à la FPC.
+[41] Le versement par Rcongold d'un dividende en actions de 1 $ sur les actions ordinaires détenues par l'appelante au moyen de l'émission, à l'appelante, de 80 000 actions privilégiées sans droit de vote de la catégorie E dont la juste valeur marchande était élevée et le capital versé était faible visait uniquement à transférer la valeur des actions ordinaires aux actions privilégiées (le « transfert de valeur ») et à créer une perte en capital latente que l'appelante pouvait ensuite réaliser au moment de la disposition des actions ordinaires à la FPC.
+[42] La constitution de la FPC visait uniquement à permettre la constatation et la réalisation de la perte en capital de 7 999 935 $ au moment de la disposition des actions ordinaires de Rcongold à la FPC. Cela est évident, puisque la perte n'aurait pas pu être réalisée si les actions avaient été vendues directement à Peter Cohen, à l'épouse de celui‑ci ou à une société dirigée par Peter Cohen ou par son épouse, et ce, parce que le paragraphe 251.1(1) de la Loi n'incluait pas, en 2002, la mention d'une fiducie dans la définition de l'expression « personnes affiliées ». Les alinéas 251.1(1)g) et h) ont été ajoutés par L.C. 2005, ch. 19, par. 54(1), cette disposition s'appliquant lorsqu'il s'agit de décider si des personnes sont affiliées après le 22 mars 2004.
+[43] La disposition des actions ordinaires de Rcongold à la FPC plutôt qu'à M. Cohen personnellement, ou à une société dirigée par celui‑ci, a été effectuée en vue d'éviter l'application des règles sur la limitation des pertes figurant au sous‑alinéa 40(2)g)(i) et de permettre la constatation de la perte en capital en vertu des dispositions techniques de la Loi.
+[44] Selon l'intimée, il est raisonnable de conclure que le transfert de valeur, la constitution de la FPC et la disposition des actions ordinaires à la FPC n'ont pas principalement été effectués pour des objets véritables autres que l'obtention d'un avantage fiscal. Il s'agissait donc d'opérations d'évitement au sens du paragraphe 245(3) de la loi.
+[45] L'intimée soutient en outre que l'objet principal de la série entière d'opérations était d'obtenir l'avantage fiscal et que la série entière constitue une opération d'évitement. Les faits de l'affaire donnent à penser que la série entière d'opérations a principalement été effectuée aux fins de l'obtention de l'avantage fiscal plutôt qu'en vue de permettre à M. Cohen de se prévaloir de la croissance future d'actifs d'une valeur de huit millions de dollars. Aucune des opérations n'a principalement été effectuée en vue de permettre à Peter Cohen d'avoir accès à des fonds auxquels il avait renoncé lors du gel successoral qui avait été effectué en l'an 2000, étant donné qu'il n'existe aucun élément de preuve indiquant que M. Cohen ait réellement pris des mesures en vue d'avoir accès à ces fonds.
+[46] L'intimée fait également valoir que l'inversion du gel successoral aurait pu être accomplie de plusieurs autres façons en vertu des dispositions de la Loi sans qu'il y ait de conséquences fiscales défavorables et sans qu'une perte en capital soit créée.
+[47] L'intimée affirme que la manière dont l'appelante et M. Cohen ont effectué la série d'opérations révèle que ces opérations visaient uniquement à leur permettre d'obtenir l'avantage fiscal. Pour réaliser une perte en capital égale au montant du gain réalisé quelques semaines auparavant, il fallait absolument que les opérations se déroulent comme elles se sont déroulées. Toutefois, il n'était pas nécessaire d'effectuer les opérations afin de permettre à M. Cohen de se prévaloir de la croissance future de l'appelante.
+[48] Selon l'intimée, il est possible et raisonnable dans ce cas-ci de conclure que l'avantage fiscal est l'unique raison pour laquelle les opérations ont été effectuées de la façon dont M. Cohen et ses conseillers fiscaux avaient décidé de le faire. Pour que l'appelante ait gain de cause, la preuve doit démontrer que les objectifs commerciaux d'ordre non fiscal de l'appelante exigeaient la prise de chaque opération précise dans la série.
+[49] Même s'il était conclu à l'existence d'un véritable objet non fiscal pour la série d'opérations dans son ensemble, la création de la perte et la présence d'au moins trois opérations d'évitement claires déclenchent l'application du paragraphe 245(2) de la Loi.
+L'évitement fiscal abusif
+[50] La troisième étape de l'analyse fondée sur la RGAÉ consiste à savoir si les opérations d'évitement donnant lieu à un avantage fiscal sont abusives. L'analyse doit être axée sur le résultat général de la série, par opposition à l'objet général.
+[51] L'analyse effectuée en vertu du paragraphe 245(4) exige la détermination de la question de savoir si les opérations contrecarrent l'objet et l'esprit des dispositions pertinentes de la Loi, ce qui de son côté exige l'examen du contexte factuel des opérations, de leur légitimité et du résultat que les dispositions visaient à atteindre. L'analyse effectuée en vertu du paragraphe 245(4) comporte deux étapes.
+[52] La première étape exige une interprétation fondée sur une approche textuelle, contextuelle et téléologique aux fins de la détermination de l'objet et de l'esprit des dispositions de la Loi que l'appelante invoque lorsqu'elle cherche à obtenir l'avantage fiscal. L'intimée mentionne la création d'un impôt sur les gains en capital lors de la réforme fiscale de l'année 1972, laquelle était accompagnée de la constatation comptable des pertes en capital au moment où ces pertes étaient subies ainsi que de l'adoption de dispositions anti‑évitement précises se rapportant aux pertes en capital (articles 54 et 55 et alinéa 40(2)g)).
+[53] L'article 55 a été édicté en vue d'empêcher que des pertes en capital soient créées d'une façon artificielle en vue de compenser des gains en capital. Toute perte en capital réalisée au moment d'une disposition dans des circonstances qu'il serait raisonnable de considérer comme ayant artificiellement ou indûment créé cette perte était réputée inexistante. En 1980, la Loi a été modifiée afin d'élargir entre autres la portée de la règle anti-évitement figurant à l'article 55 au moyen de l'adoption du paragraphe 55(2).
+[54] En vertu du sous‑alinéa 40(2)g)(i) et de l'article 54, les pertes apparentes sont réputées nulles. Ces dispositions, ainsi que l'article 251.1, qui a été ajouté à la Loi, continuent à s'appliquer et elles s'appliquaient en vertu de la Loi telle qu'elle existait en 2002.
+[55] Une interprétation contextuelle et téléologique des dispositions sur lesquelles l'appelante s'est fondée pour chercher à obtenir l'avantage fiscal révèle que leur objet et leur esprit étaient de permettre uniquement la constatation de pertes en capital réelles subies en dehors de la même unité économique.
+[56] Une interprétation contextuelle et téléologique des articles 3, 38 (et plus précisément de l'alinéa 38b)), 39 et 40 doit prendre en considération leur historique et leur contexte législatifs ainsi que leur interaction avec le sous‑alinéa 40(2)g)(i), l'article 54, l'ancien paragraphe 55(1) et l'article 251.1. Une telle interprétation mène à la conclusion selon laquelle la constatation de pertes artificielles réalisées au sein de la même unité économique va à l'encontre de l'objet et de l'esprit de ces dispositions.
+[57] La seconde étape de l'analyse effectuée en vertu du paragraphe 245(4) consiste à examiner le contexte factuel de l'affaire pour déterminer si les opérations d'évitement effectuées par l'appelante contrecarrent l'objet et l'esprit des dispositions en cause. Lorsqu'un contribuable s'est fondé sur une série d'opérations afin d'obtenir un avantage fiscal, il faut examiner le contexte factuel au complet de la série.
+[58] Les opérations effectuées par l'appelante constituent un évitement fiscal abusif, et ce, pour les raisons suivantes :
+a) Elles contrecarrent le motif sous-tendant le traitement des pertes en capital prévu à l'alinéa 38b), lequel vise uniquement à permettre la constatation d'une véritable perte en capital. L'appelante a transféré des actions de Rcongold dévaluées d'une façon artificielle qu'elle avait détenues pendant 24 heures seulement à une personne au sein de la même unité économique afin de créer une perte en capital, et ce, sans subir de perte économique. La constatation d'une perte en capital découlant de la série d'opérations est incompatible avec l'objet et l'esprit sous‑jacents de la disposition relative à l'avantage fiscal figurant à l'alinéa 38b), laquelle a été édictée en même temps que les dispositions anti‑évitement visant à empêcher un contribuable de déduire des pertes en capital créées d'une façon artificielle ou des pertes en capital réalisées au sein de la même unité économique.
+b) Elles arrivent à un résultat que les règles sur la limitation des pertes et d'autres dispositions anti‑évitement précises, figurant notamment au sous‑alinéa 40(2)g)(i), visent à empêcher, soit la déduction d'une perte créée au sein de la même unité économique, d'une façon qui contrecarre l'objet et l'esprit de ces dispositions.
+[59] L'intimée affirme en outre que la facticité et la vacuité de la « perte » fabriquée dans ce cas‑ci constituent un facteur important dans l'examen du contexte factuel de l'affaire lorsqu'il s'agit d'établir si l'opération d'évitement contrecarre l'objet et l'esprit des dispositions en question et entraîne un abus dans l'application des dispositions de la Loi lues dans leur ensemble. L'intimée se reporte à plusieurs décisions dans lesquelles les tribunaux ont examiné le caractère artificiel d'opérations que des contribuables avaient effectuées afin d'obtenir un avantage fiscal ou de contourner des dispositions précises de la Loi, en particulier la décision que la Cour suprême du Canada a rendue dans l'affaire Mathew c. Canada, [2005] 2 R.C.S. 643, 2005 CSC 55, où le caractère abusif des opérations était confirmé « par la vacuité et la facticité de l'aspect « avec lien de dépendance » des rapports initiaux ».
+[60] L'intimée fait en outre valoir que, selon l'intention continue du législateur en ce qui concerne les pertes en capital déductibles, cet avantage fiscal doit uniquement s'appliquer dans des circonstances où la perte n'est pas créée d'une façon artificielle. Le raisonnement de l'intimée est fondé sur l'ancien article 55, qui est devenu le paragraphe 55(1) en 1980, lequel était une disposition anti‑évitement portant sur les opérations qu'il était raisonnable de considérer comme donnant lieu à la réduction d'un gain en capital ou à la création d'une perte en capital, et ce, d'une façon artificielle ou indue. Le résultat de l'application du paragraphe 55(1) était que le gain ou la perte réalisé par le contribuable par suite de la disposition du bien était calculé comme si la réduction artificielle ou indue du gain du contribuable, ou encore la création ou l'augmentation artificielle ou indue de la perte du contribuable, ne s'était pas produit.
+[61] L'ancien paragraphe 55(1) a été abrogé lors de l'adoption de la règle générale anti-évitement, à l'article 245.
+[62] L'abrogation de l'ancien paragraphe 247(1) et son remplacement par l'article 245 n'indiquaient pas que les restrictions applicables au dépouillement des surplus étaient relâchées. La même conclusion devrait être tirée à l'égard de l'abrogation du paragraphe 55(1) et de son remplacement par l'article 245.
+[63] L'intimée fait également valoir, compte tenu des décisions rendues par la Cour suprême du Canada dans les affaires Lipson c. Canada, [2009] 1 R.C.S. 3, 2009 CSC 1, et Trustco Canada, précité, qu'un abus peut découler d'un mécanisme qui contourne l'application de certaines dispositions, comme des règles anti‑évitement particulières, d'une manière contraire à l'objet ou à l'esprit de ces dispositions. En l'espèce, les dispositions anti‑évitement que l'appelante cherche à contourner sont les dispositions sur la limitation des pertes. Selon les règles sur la limitation des pertes, une perte en capital est réputée nulle; les règles visent à empêcher ou à limiter la déductibilité des pertes découlant de la disposition d'une immobilisation dans des circonstances où la disposition a eu lieu au sein d'un groupe de parties ayant entre elles un lien de dépendance.
+[64] Conformément au sous-alinéa 40(2)g)(i) et à la définition du terme « perte apparente » à l'article 54, la perte qu'un contribuable subit par suite de la disposition d'un bien à une personne affiliée, telle qu'elle est définie au paragraphe 251.1(1), est réputée nulle. Le sous‑alinéa 40(2)g)(i) ne s'appliquait pas et n'empêchait pas la déduction de la perte subie par suite de la disposition des actions ordinaires de Rcongold à la FPC en 2002 parce qu'au moment où l'opération a été conclue, la FPC et l'appelante n'étaient pas visées par la définition du terme « personnes affiliées » au paragraphe 251.1(1), tel qu'il était libellé à ce moment‑là.
+[65] La définition de l'expression « personnes affiliées » à l'article 251.1 a été modifiée en 2005 en vue d'inclure les fiducies. Les modifications visaient principalement à refuser les pertes subies en raison d'opérations conclues entre des personnes liées au moyen d'une fiducie, opérations qui contournaient antérieurement la politique fiscale interdisant le dépouillement des gains en capital, qui sous‑tendait entre autres le sous‑alinéa 40(2)g)(i). Le paragraphe 251.1(1) prévoit maintenant que les opérations conclues entre une fiducie et une personne avec qui la fiducie est « affiliée » sont assujetties aux règles sur la « limitation des pertes » de la Loi. La perte subie au moment de la disposition des actions à la FPC au profit de M. Cohen serait maintenant réputée nulle. La modification de l'article 251.1 est une indication que les résultats obtenus par l'appelante étaient contraires à l'objet et à l'esprit de la Loi lue dans son ensemble.
+Analyse
+[66] La nouvelle cotisation établie par le ministre le 8 juin 2006 était fondée sur l'article 245 de la Loi, qui prévoit ce qui suit :
+245(1) Définitions — Les définitions qui suivent s'appliquent au présent article.
+« attribut fiscal » S'agissant des attributs fiscaux d'une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l'impôt ou l'autre montant payable par cette personne ou le montant qui lui est remboursable.
+« avantage fiscal » Réduction, évitement ou report d'impôt ou d'un autre montant exigible en application de la présente loi ou augmentation d'un remboursement d'impôt ou d'un autre montant visé par la présente loi. Y sont assimilés la réduction, l'évitement ou le report d'impôt ou d'un autre montant qui serait exigible en application de la présente loi en l'absence d'un traité fiscal ainsi que l'augmentation d'un remboursement d'impôt ou d'un autre montant visé par la présente loi qui découle d'un traité fiscal.
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+(2) Disposition générale anti-évitement — En cas d'opération d'évitement, les attributs fiscaux d'une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d'une série d'opérations dont cette opération fait partie.
+(3) Opération d'évitement — L'opération d'évitement s'entend :
+a) soit de l'opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable;
+b) soit de l'opération qui fait partie d'une série d'opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s'il est raisonnable de considérer que l'opération est principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable.
+(4) Application du par. (2) — Le paragraphe (2) ne s'applique qu'à l'opération dont il est raisonnable de considérer, selon le cas :
+a) qu'elle entraînerait, directement ou indirectement, s'il n'était pas tenu compte du présent article, un abus dans l'application des dispositions d'un ou de plusieurs des textes suivants :
+(i) la présente loi,
+(ii) le Règlement de l'impôt sur le revenu,
+(iii) les Règles concernant l'application de l'impôt sur le revenu,
+(iv) un traité fiscal,
+(v) tout autre texte législatif qui est utile soit pour le calcul d'un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu'elle entraînerait, directement ou indirectement, un abus dans l'application de ces dispositions compte non tenu du présent article lues dans leur ensemble.
+(5) Attributs fiscaux à déterminer — Sans préjudice de la portée générale du paragraphe (2) et malgré tout autre texte législatif, dans le cadre de la détermination des attributs fiscaux d'une personne de façon raisonnable dans les circonstances de façon à supprimer l'avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, d'une opération d'évitement :
+a) toute déduction, exemption ou exclusion dans le calcul de tout ou partie du revenu, du revenu imposable, du revenu imposable gagné au Canada ou de l'impôt payable peut être en totalité ou en partie admise ou refusée;
+b) tout ou partie de cette déduction, exemption ou exclusion ainsi que tout ou partie d'un revenu, d'une perte ou d'un autre montant peuvent être attribués à une personne;
+c) la nature d'un paiement ou d'un autre montant peut être qualifiée autrement;
+d) les effets fiscaux qui découleraient par ailleurs de l'application des autres dispositions de la présente loi peuvent ne pas être pris en compte.
+L'avantage fiscal
+[67] En appliquant l'approche préconisée par la Cour suprême dans l'arrêt Trustco Canada, la première question à trancher est de savoir si l'appelante a obtenu un avantage fiscal par suite d'une opération, notamment une opération faisant partie d'une série d'opérations. En déterminant ce qui constitue une série d'opérations, il faut tenir compte du paragraphe 248(10) de la Loi, qui prévoit ce qui suit :
+(10) Pour l'application de la présente loi, la mention d'une série d'opérations ou d'événements vaut mention des opérations et événements liés terminés en vue de réaliser la série.
+[68] En l'espèce, les parties ne contestent pas que la série d'opérations à prendre en considération est composée des cinq opérations faisant partie du gel inversé, à savoir : la constitution de Rcongold en personne morale, la souscription par l'appelante d'actions de Rcongold, la déclaration par Rcongold d'un dividende en actions, la constitution de la FPC, et la vente par l'appelante d'actions de Rcongold à la FPC.
+[69] Pour qu'il existe un « avantage fiscal », il faut qu'il y ait réduction, évitement ou report d'impôt. Dans l'arrêt Trustco Canada, la Cour suprême du Canada a clairement dit que dans les cas où une déduction est demandée à l'égard d'un revenu imposable, il est évident qu'il existe un avantage fiscal étant donné qu'une déduction entraîne une réduction d'impôt. En l'absence des opérations faisant partie du gel inversé, l'appelante aurait eu à payer de l'impôt sur un gain en capital de 7 799 545 $. Une perte en capital de 7 999 935 $ a plutôt été créée et mise à la disposition de l'appelante pour être appliquée en réduction du gain en capital. L'avantage fiscal découlait de la compensation du gain en capital par la perte en capital et de la réduction à néant de l'impôt qui aurait par ailleurs été exigible sur ce gain.
+L'opération d'évitement
+[70] L'étape suivante de l'analyse fondée sur la RGAÉ consiste à établir si une opération, notamment une opération faisant partie d'une série d'opérations, constitue une « opération d'évitement » au sens du paragraphe 245(3), en ce sens qu'elle n'a pas été « principalement effectuée pour des objets véritables — l'obtention de l'avantage fiscal n'étant pas considérée comme un objet véritable ». Il faut établir l'objet principal de chaque opération de la série et non l'objet principal de la série au complet.
+[71] La constitution de Rcongold en personne morale et l'émission d'actions ordinaires de Rcongold n'étaient pas des opérations d'évitement en tant que telles. Il s'agissait d'opérations valides ayant la raison d'être économique qu'elles étaient censées avoir. Toutefois, il s'agissait d'étapes nécessaires qui étaient prises en vue du gel inversé et, cela étant, elles faisaient partie de la série d'opérations.
+[72] La déclaration par Rcongold, le lendemain du jour de la souscription des actions ordinaires, d'un dividende de 1 $ sur les actions ordinaires détenues par l'appelante et le versement du dividende le même jour au moyen de l'émission de 80 000 actions privilégiées sans droit de vote de la catégorie E à JVM élevée et à CV faible de l'appelante constituait une opération d'évitement visant à transférer la valeur des actions ordinaires aux actions privilégiées et à créer une perte en capital latente que l'appelante pourrait ensuite réaliser au moment de la disposition des actions ordinaires à la FPC. L'effet économique réel de ces opérations était le paiement d'un dividende de 1 $ au moyen de 80 000 actions privilégiées dont le prix de rachat et la juste valeur marchande s'élevaient à huit millions de dollars.
+[73] La constitution de la FPC était également une opération d'évitement, puisque la FPC avait pour seul objet de permettre la constatation et la réalisation de la perte en capital de 7 999 935 $ au moment de la disposition des actions ordinaires de Rcongold.
+[74] La vente des actions ordinaires de Rcongold à la FPC était une opération d'évitement effectuée principalement en vue de réaliser une perte en capital sur les actions ordinaires, tout en évitant l'application des règles sur la limitation des pertes figurant au sous-alinéa 40(2)g)(i), ainsi qu'en vue de permettre la constatation de la perte en capital en vertu des dispositions techniques de la Loi.
+[75] À mon avis, il est raisonnable de conclure que le transfert de valeur, la constitution de la FPC et la disposition des actions ordinaires à la FPC n'ont pas été principalement effectués pour des objets véritables autres que l'obtention d'un avantage fiscal et que l'objet principal de la série entière d'opérations était l'obtention de l'avantage fiscal. Par conséquent, la série entière d'opérations constitue une opération d'évitement.
+[76] Les faits de l'affaire donnent à penser que la série complète d'opérations a été principalement effectuée aux fins de l'obtention de l'avantage fiscal plutôt qu'en vue de permettre à M. Cohen de se prévaloir de la croissance future d'actifs d'une valeur de huit millions de dollars. Aucune des opérations n'a principalement été effectuée en vue de permettre à M. Cohen d'avoir accès à des fonds auxquels il avait renoncé lors du gel successoral qui avait eu lieu en l'an 2000, et rien ne montre que M. Cohen ait réellement pris des mesures en vue d'avoir accès à ces fonds.
+[77] Au moment où la série d'opérations a eu lieu, M. Cohen avait accès, libre d'impôt, à trois millions de dollars lors du rachat des actions privilégiées de la catégorie E de l'appelante. Les actions privilégiées de la catégorie E avaient un capital versé, un prix de rachat et un prix de base rajusté de 3 000 000 $. Il s'agissait d'actions avec droit de vote, rachetables, au gré du détenteur ou de la société, au prix d'émission, et il s'agissait d'actions sans participation, sauf pour un dividende non cumulatif mensuel de 0,5 p. 100. Les actions ont été souscrites et payées par M. Cohen, le 18 janvier 2002. Le prix de souscription de 3 000 000 $ qui a été payé pour ces actions privilégiées provenait en partie ou en totalité du rachat, le 9 janvier 2002, des 30 actions de la catégorie F et des dix actions de la catégorie F2 de l'appelante détenues par M. Cohen au prix de 540 597 $ et de 4 000 000 $ respectivement. Ces rachats d'actions ont déclenché deux dividendes en capital réputés (qui étaient donc libres d'impôt pour M. Cohen) conformément aux choix qui ont été faits en vertu du paragraphe 83(2) de la Loi. Pour les besoins de l'impôt, les deux dividendes réputés étaient considérés comme ayant été versés du compte de dividende en capital de l'appelante qui avait été créé par suite de la vente des biens immeubles le 6 décembre 2001. Comme les conseillers fiscaux de l'appelante l'ont proposé, le compte de dividende en capital de l'appelante devait être distribué avant la création de la perte en capital afin d'éviter la réduction du solde du compte.
+[78] Comme on l'a ci‑dessus décrit, M. Cohen a reçu de l'appelante 4 540 597 $ en tout au cours du mois de janvier 2002 et il a réinvesti 3 000 000 $ seulement dans des actions de la catégorie E de l'appelante, générant un dividende mensuel de 15 000 $. Cela étant, il m'est difficile d'accepter qu'il était absolument nécessaire que M. Cohen puisse se prévaloir de la croissance future des 8 000 000 $.
+[79] Les faits concernant la croissance des actifs transférés à Rcongold montrent que la croissance était incertaine et que les actifs transférés ne constituaient pas une source de revenu fiable. Environ 10 p. 100 des actifs transférés ne généraient aucun revenu et leur valeur était incertaine. Ces actifs étaient des prêts ne portant pas intérêt consentis à des sociétés liées ou à des membres de la famille de M. Cohen. D'après les déclarations de revenus que Rcongold a produites le 23 août 2006 pour ses années d'imposition 2002, 2003, 2004 et 2005, le revenu net après impôt (ou la perte), les bénéfices non répartis, les rachats d'actions et les dividendes imposables qui avaient été versés au cours de ces années étaient les suivants :
+Fin de l'exercice
+(31 août)
+Revenu net (perte nette)
+Bénéfices non répartis
+Rachats d'actions
+Dividendes imposables versés
+2002
+(220) $
+(220) $
+Néant
+Néant
+2003
+44 004 $
+24 784 $
+Néant
+Néant
+2004
+184 878 $
+203 662 $
+Néant
+Néant
+2005
+31 360 $
+230 022 $
+Néant
+Néant
+[80] Les renseignements contenus dans les déclarations de revenus de Rcongold montrent clairement que les actifs d'une valeur de 8 000 000 $ généraient fort peu de revenus et qu'en fait, M. Cohen n'a pas pris de mesures pour avoir accès à ces fonds.
+[81] Une inversion du gel successoral antérieur aurait pu être accomplie de nombreuses autres façons en vertu des dispositions de la Loi et sans qu'une perte en capital soit créée. Ainsi, on aurait pu effectuer un nouveau gel en faisant en sorte que l'appelante transfère en franchise d'impôt à une nouvelle société la totalité (gel complet) ou une partie (gel partiel) de ses actifs en échange d'actions privilégiées de la nouvelle société dont le prix de rachat serait égal à la juste valeur marchande des actifs transférés à la nouvelle société. M. Cohen aurait alors pu souscrire à des actions ordinaires de la nouvelle société pour un montant symbolique. Ou encore, la fiducie familiale Peter Cohen aurait pu échanger les actions ordinaires qu'elle détenait dans l'appelante contre des actions privilégiées en utilisant les dispositions de transfert libre d'impôt figurant aux articles 51, 85 ou 86 de la Loi. M. Cohen aurait alors pu souscrire à des actions ordinaires de l'appelante en versant un montant symbolique, ce qui lui aurait permis de participer à la croissance future de l'appelante à compter de la date de ces opérations.
+[82] La façon dont l'appelante et M. Cohen ont effectué la série d'opérations révèle que les opérations ont ainsi été effectuées uniquement en vue de l'obtention de l'avantage fiscal. Pour réaliser une perte en capital égale au montant du gain antérieurement réalisé, il fallait absolument que les opérations se déroulent de la façon dont elles se sont déroulées. Les opérations n'avaient pas à être effectuées afin de permettre à M. Cohen de se prévaloir de la croissance future des actifs de l'appelante.
+[83] Dans ces conditions, il est raisonnable de conclure que la réalisation de l'avantage fiscal était l'unique raison pour laquelle les opérations ont été effectuées de la façon dont M. Cohen et ses conseillers fiscaux avaient décidé de le faire.
+L'abus
+[84] Selon la troisième condition à remplir aux fins de l'application de la RGAÉ, l'opération d'évitement ou la série d'opérations doivent être abusives. Il incombe au ministre d'établir l'abus et d'indiquer les dispositions de la Loi qui ont fait l'objet d'un abus.
+[85] Avec l'inclusion, à compter de 1972, des gains en capital imposables dans le calcul du revenu, et compte tenu du fait qu'il était possible de compenser ces gains par des pertes en capital déductibles subies au cours de l'année, certaines dispositions anti‑évitement précises se rapportant aux pertes en capital ont été édictées. Ces dispositions comprenaient l'ancien article 55, l'alinéa 40(2)g) et l'article 54 de la Loi.
+[86] L'ancien article 55 de la Loi a été édicté en vue d'empêcher que des pertes en capital soient artificiellement créées afin de compenser des gains en capital. Toute perte en capital était réputée inexistante si les circonstances permettaient de croire raisonnablement que le contribuable avait artificiellement ou indûment occasionné cette perte.
+[87] L'ancien article 55 qui, en 1980, est devenu le paragraphe 55(1), prévoyait ce qui suit :
+Aux fins de la présente sous‑section, lorsque les circonstances dans lesquelles ont été effectuées une ou plusieurs opérations de vente ou d'échange, ou autres transactions de quelque nature que ce soit, permettent de croire raisonnablement que le contribuable a disposé d'un bien de façon à artificiellement ou indûment
+(a) réduire le montant de son gain résultant de la disposition,
+(b) occasionner une perte résultant de la disposition, ou
+(c) augmenter le montant de sa perte résultant de la disposition,
+le gain ou la perte du contribuable, selon le cas, résultant de la disposition du bien, est calculée comme si une telle réduction, perte ou augmentation, selon le cas, ne s'était pas produite.
+[88] L'ancien paragraphe 55(1) a été abrogé au moment où la règle générale anti‑évitement, à l'article 245, a été édictée. Les notes techniques du ministère des Finances de l'année 1988 à l'égard de l'ancien paragraphe 55(1) disent ce qui suit :
+Le paragraphe 55(1) de la Loi est une disposition anti‑évitement applicable aux opérations qui visent à réduire artificiellement ou indûment un gain en capital ou à occasionner ou augmenter une perte en capital résultant de la disposition d'un bien.
+Le paragraphe 55(1) est abrogé en raison de l'instauration du nouvel article 245 de la Loi, qui constitue une règle générale anti‑évitement. Comme cette règle générale a un champ d'application suffisamment large pour englober les opérations visées au paragraphe 55(1), celui-ci n'est plus nécessaire. Le paragraphe 55(1) est abrogé [...]
+[89] L'abrogation du paragraphe 55(1) et son remplacement par l'article 245 n'indiquaient pas un changement de politique. Au contraire, cela confirmait l'intention continue du législateur à l'égard des pertes en capital déductibles, à savoir que cet avantage fiscal ne doit s'appliquer que lorsque la perte n'est pas artificiellement créée.
+[90] Les autres dispositions anti‑évitement précises se rapportant aux pertes en capital qui ont été édictées par le législateur sont le sous‑alinéa 40(2)g)(i) et l'article 54 (généralement appelé la disposition sur la limitation des pertes). La notion de « personnes affiliées » a été insérée dans la Loi en 1995 principalement à l'appui d'un certain nombre de nouvelles dispositions anti‑évitement ou de dispositions anti‑évitement modifiées, dont la plupart sont des dispositions sur la limitation des pertes.
+[91] En 2002, l'article 40(2)g)(i) était libellé ainsi :
+Malgré le paragraphe (1) :
+[...]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d'un bien, dans la mesure où elle est :
+(i) une perte apparente
+[...]
+[92] En 2002, l'expression « perte apparente » était définie ainsi à l'article 54 :
+« perte apparente » Perte d'un contribuable résultant de la disposition d'un bien, dans le cas où, à la fois :
+a) au cours de la période qui commence 30 jours avant la disposition et se termine 30 jours après cette disposition, le contribuable ou une personne affiliée à celui‑ci acquiert le même bien ou un bien identique (appelés « bien de remplacement » à la présente définition);
+b) à la fin de la période visée à l'alinéa a), le contribuable ou une personne affiliée à celui‑ci est propriétaire du bien de remplacement ou a le droit de l'acquérir.
+[...]
+[93] Conformément au sous-alinéa 40(2)g)(i) et à la définition du terme « perte apparente » à l'article 54, la perte subie par un contribuable par suite de la disposition d'un bien à une personne affiliée est réputée nulle.
+[94] Le sous-alinéa 40(2)g)(i) n'avait pas l'effet de refuser la perte subie par suite de la disposition des actions ordinaires de Rcongold à la FPC en 2002 parce que, au moment où l'opération a été effectuée, la FPC et l'appelante n'étaient pas visées par la définition du terme « personnes affiliées » figurant à l'article 251.1, tel qu'il était alors libellé.
+[95] La définition de l'expression « personnes affiliées » au paragraphe 251.1(1) a été modifiée en 2005 en ajoutant les alinéas g) et h), ce qui a entraîné l'inclusion des fiducies dans cette définition. L'alinéa g) est pertinent en 1'espèce; il est libellé ainsi :
+251.1(1) Définition de « personnes affiliées » — Pour l'application de la présente loi, sont des personnes affiliées ou des personnes affiliées les unes aux autres :
+[...]
+g) une personne et une fiducie, si la personne, selon le cas :
+(i) est un bénéficiaire détenant une participation majoritaire de la fiducie;
+(ii) serait affiliée à un bénéficiaire détenant une participation majoritaire de la fiducie en l'absence du présent alinéa;
+[...]
+[96] Le paragraphe 251.1(1) prévoit maintenant que des opérations conclues entre une fiducie et une personne avec qui cette fiducie est « affiliée » sont assujetties aux règles de limitation des pertes de la Loi.
+[97] À mon avis, la modification apportée en 2005 à l'article 251.1 indique clairement que les résultats obtenus par l'appelante étaient contraires à l'objet et à l'esprit de la Loi lue dans son ensemble.
+[98] L'historique législatif des articles 3, 38, 39 et 40 révèle que, dès que ces dispositions ont été édictées, la déduction des pertes en capital en vertu de l'alinéa 38b) a été limitée par des règles anti‑évitement qui empêchent la constatation de pertes artificielles, apparentes ou indues. L'interaction entre ces dispositions et le sous‑alinéa 40(2)g)(i), l'article 54, l'ancien paragraphe 55(1) et l'article 251.1 m'amène à conclure que la constatation des pertes en capital artificielles réalisées au sein de la même unité économique est contraire à l'objet et à l'esprit de ces dispositions.
+[99] Une interprétation contextuelle et téléologique des dispositions invoquées par l'appelante lorsqu'elle cherche à obtenir l'avantage fiscal révèle que l'objet et l'esprit de ces dispositions étaient uniquement de permettre la constatation de « véritables » pertes en capital subies en dehors de l'unité économique.
+[100] Les opérations que l'appelante a effectuées constituent un évitement fiscal abusif parce qu'elles contrecarrent les motifs sous‑tendant les dispositions de la Loi concernant les pertes en capital. En manipulant le « montant » comptable des actions ordinaires de Rcongold, l'appelante a créé un bien artificiellement dévalué qui a été transféré à une personne au sein de la même unité économique en vue de créer une perte en capital artificielle sans subir de perte économique réelle. Le 27 août 2002, l'appelante détenait des actions de Rcongold dont la juste valeur marchande était de huit millions de dollars (les actions ordinaires). Le 28 août 2002, l'appelante détenait encore des actions de Rcongold dont la juste valeur marchande était de huit millions de dollars (les actions de la catégorie E) et, après la disposition des actions ordinaires de Rcongold à la FPC, l'appelante a continué à posséder des actions de Rcongold dont la juste valeur marchande était de huit millions de dollars.
+[101] Dans l'arrêt R. c. Landrus, 2009 CAF 113, la Cour d'appel fédérale a conclu que la RGAÉ ne s'appliquait pas parce qu'une perte économique réelle découlait des opérations en cause et que l'économie sous‑jacente de la Loi permettait la déduction de cette perte réelle.
+[102] Toutefois, les opérations que l'appelante a effectuées contournent clairement l'application de règles anti‑évitement précises, soit en l'espèce les dispositions de limitation des pertes. L'appelante a contourné en 2002 le sous‑alinéa 40(2)g)(i) et le paragraphe 251.1(1), tels qu'ils étaient alors libellés, d'une façon qui permettait d'arriver à un résultat que les dispositions visaient à empêcher, à savoir la création d'une perte en capital artificielle entre des parties ayant les mêmes affiliations économiques. La perte subie lors de la disposition des actions ordinaires de Rcongold à la FPC qui avait été établie au profit de M. Cohen serait maintenant réputée nulle.
+[103] À mon avis, les opérations faisant partie du gel inversé ont entraîné un abus dans l'application de la Loi auquel la RGAÉ doit s'appliquer.
+[104] Pour les motifs susmentionnés, le présent appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2011.
+« Réal Favreau »
+Le juge Favreau
+Traduction certifiée conforme
+ce 21e jour d'octobre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 259
+No DU DOSSIER DE LA COUR : 2008-1667(IT)G
+INTITULÉ : Triad Gestco Ltd. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 23 avril 2010
+MOTIFS DU JUGEMENT : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 12 juillet 2011
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Aaron Rodgers
+Me Julie Gaudreault-Martel
+Avocates de l'intimée :
+Me Marie-Andrée Legault
+Me Justine Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Aaron Rodgers
+Julie Gaudreault-Martel
+Cabinet : Spiegel Sohmer
+Montréal (Québec)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

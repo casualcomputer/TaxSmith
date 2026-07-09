@@ -1,0 +1,262 @@
+---
+title: "Brideau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26182/index.do"
+last_modified: "2003-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 583"
+citation2: ""
+neutral_citation: "2003 TCC 583"
+decision_date: "2003-10-17"
+language: "en"
+item_id: "26182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3948
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:36:16.344000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "584a17cf805f897ea644d713c43eb94592f8e8388698cfae789c335bade2999b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brideau v. M.N.R.
+
+- Citation: 2003 TCC 583
+- Decision date: 2003-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3948, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brideau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-17
+Neutral citation
+2003 TCC 583
+File numbers
+2003-608(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-608(EI)
+BETWEEN:
+EVELYNE BRIDEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Muriel Légère (2003‑610(EI)) on June 26 and 27, 2003, at Miramichi, New Brunswick
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Léo Légère
+Counsel for the Respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 17th day of October 2003.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 18th day of March 2009.
+Brian McCordick, Translator
+Citation: 2003TCC583
+Date: 20031017
+Docket: 2003-608(EI)
+BETWEEN:
+EVELYNE BRIDEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Docket: 2003-610(EI)
+MURIEL LÉGÈRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] These appeals were heard on common evidence at Miramichi, New Brunswick, on June 26 and 27, 2003.
+[2] They are appeals from a decision by the Minister of National Revenue ("the Minister") finding that the Appellants' work during the period of October 21 to December 1, 2001, while they were associated with Lydia Savoie, the Payor, was not insurable because they were not employed under a contract of service.
+[3] In making his decisions, the Minister relied on the following assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal in Muriel Légère's case (2003-610(EI)):
+[TRANSLATION]
+(a) The Payor purchased Christmas wreaths that were handmade by various people, including the Appellant.
+(b) The Payor resold the wreaths to an export firm operating as Savoie Export Limitée.
+(c) The Appellant sold her wreaths to the Payor through Renald Légère.
+(d) Renald Légère provided the branches and rings needed to make the wreaths.
+(e) On the invoices in the Appellant's name, the Payor wrote down prices of $15.00 and $16.00 per dozen for the Appellant's wreaths.
+(f) The Appellant also sold the Payor a dozen wreaths for which she provided the branches herself and received $28.00.
+(g) The Payor's invoices show purchases of wreaths from the Appellant on the following dates for the following amounts:
+invoice date quantity total
+4 October 29, 2001 24.5 doz. @ $16 $392.00
+16 October 30 12 doz. @ $15 $180.00
+9 November 2 5 doz. @ $16 $80.00
+1 doz. @ $28 $28.00
+32 November 9 28.5 doz. @ $15 $427.50
+3 November 12 20.3 doz. @ $16 $324.80
+43 November 13 6.6 doz. @ $15 $99.00
+53 November 16 14 doz. @ $16 $224.00
+47 November 21 12.5 doz. @ $15 $187.50
+32 November 21 24 doz. @ $15 $360.00
+19 November 24 21 doz. @ $16 $334.00
+89 November 26 36.6 doz. @ $15 $550.00
+total 206 doz. $3,402.80
+(h) The Appellant's record of employment shows earnings of $3,276.50 and 360 hours.
+(i) The Appellant made the wreaths at her home.
+(j) It took the Appellant 10 to 15 minutes to make a wreath.
+(k) Neither the Payor nor Renald Légère knew how many hours the Appellant worked.
+(l) Neither the Payor nor Renald Légère controlled the Appellant's hours of work.
+(m) The number of hours shown on the Appellant's record of employment does not correspond to the hours she actually worked.
+(n) Neither the Payor nor Renald Légère supervised the Appellant.
+(o) The Payor had no control over the Appellant's production.
+[4] To paragraph 5 of his Reply to the Notice of Appeal in Évelyne Brideau's case, the Minister added subparagraph (p), which reads as follows:
+[TRANSLATION]
+during the period in issue, the Appellant also worked for Neguac Seafoods Ltd. as follows:
+October 21 to 27: 44 hours
+October 28 to November 3: 42 hours
+November 4 to 10: 45 hours
+[5] The Appellant Brideau admitted this assumption by the Minister in that subparagraph.
+[6] The Appellants admitted all of the Minister's other assumptions except those set out in subparagraphs (k), (l), (n) and (o).
+[7] It must be noted that the only assumptions denied by the Appellants concern the degree of control exercised by the Payor over them and their work.
+[8] In short, the Appellants denied that the Payor did not control their hours of work or production and did not supervise them.
+[9] At the hearing, the Appellants submitted that they were supervised by Renald Légère (Renald), the Payor's employee, and that they gave him the record of their hours. They admitted that they were paid based not on the hours they worked but rather on the number of wreaths they made.
+[10] The evidence showed that the control exercised by the Payor through Renald was limited to a few brief visits by Renald when he came round to their homes to deliver materials and pick up wreaths. Otherwise, he relied on what the Appellants told him.
+[11] The Appellant Brideau worked in a workshop set up in the garage of her brother Renald, the Payor's employee. She made wreaths on a part‑time basis and also had a job in a factory, where she worked 42 to 45 hours a week.
+[12] The evidence showed that, after she was laid off from the factory, her production of wreaths remained the same. At the hearing, her explanation that she was tired was not very convincing. Moreover, she could not explain the difference between her remuneration based on the total shown on the receipts and the remuneration shown on her record of employment. She merely said that she did not keep her receipts.
+[13] The Appellant Légère made wreaths at her home. When Renald visited, he took her wreaths, gave her the receipts, counted, calculated and paid her. She could not explain the great fluctuation in her production as established by the Minister from the receipts provided to him. She told the appeals officer that she worked without supervision and did not keep track of her hours of work.
+[14] It was established that Renald could not supervise the Appellants properly because his job of transporting the finished wreaths in his truck did not leave him enough time.
+[15] At the request of counsel for the Respondent, Renald drew a sketch of the wreath‑making operation in his garage. The Appellant Brideau did the same. A comparison of the two sketches speaks volumes about the number or length of Renald's visits to the workshop as well as his powers of observation.
+[16] It was shown that Renald delivered between 400 and 500 dozen wreaths to the Payor every week. His truck could transport 35 dozen wreaths. The Appellants lived a 45‑minute drive away from the Payor. Renald also had to deliver the materials used to make the wreaths, such as branches, to certain workers (there were 34 workers). He also had to check the quality of the wreaths made. This left him with very little time to visit the workers, let alone supervise their work.
+[17] Renald was unable to explain the significant variation in production during the weeks reported, as shown by the receipts he delivered. He admitted that this may have been his mistake. He also said that he concerned himself not with the wreath makers' hours but rather with the number of wreaths they made.
+[18] The Payor maintained that she was informed of the Appellants' hours of work and the number of wreaths made. She had difficulty explaining why the total shown on the invoices does not correspond to the total shown on the records of employment.
+[19] The Payor admitted that some of her suppliers who made wreaths were unable to qualify for benefits because it was shown that she did not appear to control the work of those employees.
+[20] It was shown that, in several related cases concerning the same year, the Board of Referees (Employment Insurance) upheld the Commission's decision imposing a penalty of $8,673 on the Payor. An extract from that decision (Exhibit R‑8) reads as follows:
+[TRANSLATION]
+Based on the information obtained from the employer and the persons concerned (Exhibits 2 to 5, 7 to 23 and 25), the Commission concluded that the employer did not appear to control the work of these employees and provided information to the Customs and Revenue Agency, which has to determine whether or not employment is insurable. It was determined that none of the employment in question was insurable (Exhibits 24, 26, 27, 28, 30, 31 and 32).
+A total penalty of $8,673 was imposed (Exhibit 33).
+EVIDENCE AT THE HEARING
+The Appellant and her representative, José Duguay, are both present by conference call and have agreed to the session being recorded.
+No new facts were presented to us during the hearing.
+Based on the facts shown during the Employment Insurance Commission's investigation, it has been established that everything was done according to the standards set out in the Act.
+FINDINGS OF FACT, APPLICATION OF LAW
+The Board of Referees concludes that the penalty is justified and that the Commission exercised its discretion judicially in setting the amount of the penalty.
+DECISION
+The members of the Board of Referees unanimously uphold the Commission's decision.
+[21] The Payor could not explain why the invoices and paycheques do not show the same amounts. Her explanation was inconsistent. She admitted that she might have made mistakes.
+[22] She did not know where the Appellants worked. Her explanation of the discrepancy between the amounts shown on the receipts (Exhibit R‑2) and the amounts shown on the record of employment (Exhibit R‑­3) was contradictory.
+[23] The Payor explained that she used the following method to determine the number of hours: the total number of wreaths made was divided by the minimum hourly production that had been set, that is, seven or eight wreaths, which gave her the total hours of work. However, it was obvious that this calculation method also produced inconsistent results. She explained that the branches used to make the wreaths were sometimes of poor quality, but this explanation does not hold together either, since the hours were counted after the selected wreaths were sorted, the bad ones having already been rejected.
+[24] Finally, the Payor admitted that what interested her was the finished product and that therefore the control exercised was more over the results.
+[25] The Payor admitted being investigated, but she said that she did not know about the penalty. This seems strange, since the decision of the Board of Referees (Exhibit R‑8) confirms the Commission's decision, with the penalty, that she appealed to the Board.
+[26] The evidence showed that a large portion of the transactions between the Payor and the wreath makers represented not only services rendered but also the cost of purchasing and selling products. It was shown that the Payor paid $29 for a dozen wreaths, including materials, when the maker provided the branches. When the Payor provided the branches, she paid $15‑$16 a dozen. Therefore, in this case, the Payor sold the branches (or deducted their cost from the purchase price).
+[27] It must be concluded that, in both cases, the cost of the branches was included in the total price for the transaction, which was to be used to establish the value of the wreath maker's "unemployment stamp". This is definitely contrary to the provisions of the Employment Insurance Act, especially paragraph 5(1)(a).
+[29] A document entitled [translation] "Production of Christmas Wreaths – An Important Message for Producers, Purchasers and Exporters" was filed in evidence as Exhibit R‑10. That document was prepared jointly by Human Resources Development Canada and the Canada Customs and Revenue Agency for producers, purchasers and exporters of Christmas wreaths and was distributed in the area prior to the start of the 2001 season. The following are a few passages from the document:
+[TRANSLATION]
+4. What factors will determine whether an employer‑employee relationship exists?
+· Read the information in the following chart. Given the variety of working conditions in the industry, we cannot say that each test must be met in each case. However, this shows what we must take into account in making a decision.
+Might be considered an employer‑employee relationship
+Might be considered self‑employment or simply uninsurable
+Workplace
+The worker works at a place owned or leased by the employer.
+The worker works at home or another place not associated with the employer.
+Supervision
+The employer supervises the worker.
+The employer determines working hours and other working conditions.
+The ratio between the number of supervisors and the number of workplaces and employees is reasonable, and supervision is exercised.
+The business delivers the materials and picks up the finished wreaths but does not supervise the worker between visits and does not oversee the worker.
+The worker determines working hours and other working conditions.
+Tools and supplies
+The employer provides the materials and equipment used to produce the wreaths.
+The worker provides the materials or equipment.
+[30] An examination of the facts in light of the tests established in Wiebe Door Services v. M.N.R., [1984] 3 FC 553, shows that the central issue is control over the work and the workers.
+[31] The oral evidence at the hearing was contradictory: after reviewing that evidence and all the rest of the evidence, it is very clear that there was no actual control; indeed, the Appellants admitted this to the appeals officer. It was established that the Appellants never met the Payor and did not know her. The testimony of the alleged supervisor, Renald, was not very convincing, since all he did was examine the final product; in all other respects, he relied on the workers. At most, there was control over the results, which does not correspond to the concept of control as established in Wiebe Door, supra.
+[32] With regard to ownership of the tools, it was shown that the Appellants provided their work gloves and clothes while the Payor generally provided the materials. As for the place of work, the Appellant Léger worked at home, while the Appellant Brideau worked in Renald's garage. Based on this test, the result is neutral.
+[33] With regard to the chance of profit and risk of loss, the workers here were paid by the piece. This test did not help resolve this case and was therefore of no assistance.
+[34] When we consider the fact that the Appellants were paid by the piece for work they did off the Payor's premises without supervision or control and that they never even met the Payor, little more is required to conclude that the Appellants were not integrated into the Payor's business operations.
+[35] The Appellants are asking this Court to reverse the Minister's decisions. It is appropriate to refer to the circumstances that can justify this Court's intervention and above all the recognized limits on this power of intervention and review. The words of Marceau J.A. of the Federal Court of Appeal are helpful in this exercise. They are reproduced below from paragraph 4 of Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so‑called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[36] The Federal Court of Appeal took up this idea again in Gray v. Canada (Minister of National Revenue – M.N.R.), [2002] F.C.J. No. 158, in which Desjardins J.A. wrote the following:
+The applicant submits with the assumptions on which the Minister relied on in his reply to the notice of appeal were largely irrelevant and that the Minister was not entitled to compare the various remunerations given during the previous years, but that he could only inquire into the remunerations in the year of the employment in question. The applicant also submits that the fact that the applicant worked for the payor outside of his remuneration period did not amount, in the circumstances of the case at bar, to an important factor to be relied on.
+. . .
+With regard to the applicant's second argument, the weight to be given to relevant factors is for the Tax Court judge to assess and not a matter for this Court to reassess.
+[37] A case similar to the instant ones was considered by this Court in Lebouthillier v. Canada (ministre du Revenu national – M.R.N.), [1998] A.C.I. no 685. In making his decision in that case, the Minister relied on certain assumptions, including the following:
+[TRANSLATION]
+-During the period in issue, the Appellant made Christmas wreaths that she resold to the Payor through a foreman.
+-The Payor provided the labels, rings and wire used to attach the branches.
+-In accordance with the contract between the Payor and each of the wreath makers, the Appellant, at her own expense, provided the branches, which she cut herself, the tools needed to make the wreaths, the workplace and transportation to deliver the wreaths to the foreman.
+-The Appellant was free to make the number of wreaths she wanted.
+-The Appellant was paid a set rate for each wreath accepted by the Payor, and an amount was deducted from her pay for each rejected wreath if the Appellant refused or was unable to redo it.
+-The Appellant had a risk of loss because of the expenses associated with her production.
+-The foreman's visits did not amount to supervision of the Appellant by the Payor.
+-The Payor exercised no control over the Appellant's hours of work.
+-The Payor exercised no control over the way the Appellant produced the wreaths as long as the final product met the quality standards that the Payor itself had to meet with its customers.
+-The Payor had no risk of loss with regard to the Appellant's production.
+[38] After these findings, Judge Allard concluded that there was a contract for services and not a contract of service. He added the following:
+[TRANSLATION]
+. . . In fact, according to the Appellant's testimony, the only control exercised by the Payor, through its foreman, involved checking the quality of the goods delivered by the Appellant. There was no control over the work in terms of the hours worked, etc., and it has not been shown that the Appellant was integrated into the Payor's business.
+[39] In a case similar to the ones under consideration here, Judge Léger of this Court also concluded that the appellants were not working under a contract of service. He stated the following at paragraph 18 of Robichaud v. Canada (Minister of National Revenue – M.N.R.), [1996] T.C.J. No. 319:
+The Court considered in detail the evidence put before it. It is true that the appellants who worked at their homes were occasionally visited by the company’s employees, but this was not sufficient in carrying out adequate supervision as contemplated in the Act. The appellants were independent contractors. They provided the premises where they did their work. They supplied the heating and the electricity. A few made arrangements to deliver the finished product to the plant. All these services were provided free of charge. This is not normal in an employer‑employee relationship. Lastly, the element of integration was absent.
+[40] Parties who agree on remuneration that is set on the basis of criteria other than the time or period during which work is performed, thus seeking to take advantage of the provisions of the Employment Insurance Act, introduce factors that are extraneous to a genuine contract of service, thus casting doubt on its validity.
+[41] I therefore conclude that the Appellants' employment is not insurable because, during the period in issue, they and the Payor were not bound by a genuine contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act.
+[42] For these reasons, the appeals are dismissed and the Ministers' decisions are confirmed.
+Signed at Grand-Barachois, New Brunswick, this 17th day of October 2003.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 18th day of March 2009.
+Brian McCordick, Translator
+CITATION:
+2003TCC583
+COURT FILE NOS.:
+2003-608(EI) and 2003‑610(EI)
+STYLES OF CAUSE:
+Evelyne Brideau and M.N.R. and
+Muriel Légère and M.N.R.
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+June 26 and 27, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie,
+Deputy Judge
+DATE OF JUDGMENT:
+October 17, 2003
+APPEARANCES:
+For the Appellants:
+Léo Légère (agent)
+For the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

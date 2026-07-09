@@ -1,0 +1,145 @@
+Title: Cusson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27406/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-121-27406-cusson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-03-06
+
+# Cusson v. The Queen
+
+- Citation: 2006 TCC 121
+- Decision date: 2006-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 228, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cusson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-06
+Neutral citation
+2006 TCC 121
+File numbers
+2005-3077(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3077(IT)I
+BETWEEN:
+DENIS CUSSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on January 30, 2006, at Rivière-du-Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeals from the assessments made under the Income Tax Actfor the 2002 and 2003 taxation years are allowed in part, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of March 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of August 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC121
+Date: 20060306
+Docket: 2005-3077(IT)I
+BETWEEN:
+DENIS CUSSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The matter at issue in these appeals is the exact amount of the deductions applicable to the Appellant's moving expenses in the 2002 and 2003 taxation years. It must also be determined whether the Appellant is entitled to appeal to this Court concerning the goods and services tax (GST) credit for those same taxation years and from the notice of reassessment dated January 7, 2005, and the notice of determination dated July 5, 2004, respectively.
+[2] On this last question, the Appellant admits that he did not serve a notice of objection on the Minister of National Revenue, as required by sections 165 and 169 of the Income Tax Act (the "Act"). Consequently, the Court cannot intervene in the revision of the amounts on the basis of which the Minister determined the GST credit to be allowed for the two taxation years, except that his representative at the hearing undertook to redo the calculation in accordance with these Reasons for Judgment.
+[3] That said, the point at issue is therefore to determine the amount deductible in respect of moving expenses for the two years in issue and, more specifically, those that the Minister disallowed, that is the maintenance expenses of the Appellant's old residence for the two years in issue and the following expenses:
+(1) in 2002, the mail forwarding expense of $35;
+(2) in 2002, the cost of $249 to purchase a Bell Express Vu antenna;
+(3) in 2003, the hypothec penalty that the Appellant paid in respect of the sale of his old residence.
+[4] Items 1 and 3 were settled before the hearing. The Appellant admits that he is not entitled to deduct the mail forwarding expense, and the Respondent, on receipt of the supporting documents, admitted at the objections stage that the Appellant had indeed paid a penalty related to the full repayment of the hypothecary loan on his old residence.
+[5] The Appellant is married and owned a residence in Québec. In 2001, his spouse found a job in the Isle Verte region, and the Appellant began looking for work in that area in order to join her. He became interested in a position in the fall of 2001, but it was not until February 2002 that he was awarded a nine-month contract with the possibility of permanent employment thereafter. He explained in his testimony that he had not hesitated to put his house up for sale because it was necessary to be a resident of Isle Verte in order to manage the ferry, which is why he was hired.
+[6] The Appellant thus started working part time in February 2002, and full time starting in April of that year. He settled on Isle Verte permanently in April 2002. This fact was confirmed by his employer, Société Inter-Rives de l'Isle Verte, in a letter to the Minister dated September 27, 2004. In a letter to the Canada Customs and Revenue Agency ("Agency"), dated December 21, 2004, the Appellant stated that his place of work had been Isle Verte since April 2002. He explained why his household effects had not been moved before October 2002, and he attributed that delay to the fact that there was no place on Isle Verte to store his effects, that he was renting a furnished house and that the nature of his work made the move difficult.
+[7] In another letter to the Agency dated May 30, 2005, the Appellant explained that the move of his household effects was done in two parts, in April and October 2002. He added that the household effects remained in his house pending the sale of the house in order to avoid storage costs. In view of the fact that the Isle Verte ferry ceased its operations around November 7, he moved the household effects in October in the event the house would be sold between November and May, as the ferry did not resume its operations until the latter month.
+[8] The Appellant retained the services of a real estate agent in October 2002. On December 26, 2002, he accepted an offer to purchase and the sale closed in January 2003. Before hiring the agent, he gave a mandate to two persons whom he identified in a letter to the Minister a few days before the hearing and also named four persons who had been interested in purchasing his house. He also made these allegations in his Notice of Appeal dated August 26, 2005. The moving expenses that the Appellant reported include the Appellant's travelling expenses relating to the change of residence, that is trips made between Isle Verte and Québec from April 15 to November 7, 2002.
+[9] In response to a letter from the Minister dated August 27, 2004, the Appellant sent a T1-M form for each of the years in issue, in which he stated that the date of the move was November 8, 2002, and that the new full-time job had started on April 15, 2002. Enclosed with that same document was a receipt dated October 21, 2002, for the transportation of his household effects. He explained that his understanding of the expression "date of move" at the time was different today because, after rereading the T1-M form, he had realized that it was the date on which he left the Québec region for good and that that date was April 15, 2002.
+[10] The appeals officer testified that, based on his understanding of the information he had obtained from the Appellant in telephone conversations and from the documentation he had examined, the Appellant's house had been used to store his household effects from April to October 2002. In his view, there was no reason to believe that the Appellant had put his house up for sale. He found that the reasons given by the Appellant to explain why he had not moved his household effects in April were unacceptable.
+[11] The deduction for moving expenses is provided for under subsection 62(1) of the Act. It allows a taxpayer to deduct his moving expenses if the move is an eligible relocation. The definition of "eligible relocation" is stated in subsection 248(1) of the Act:
+"eligible relocation" means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as "the new work location"), or
+(ii) to be a student in full-time attendance enrolled in a program at a post-secondary level at a location of a university, college or other educational institution (in section 62 and in this subsection referred to as "the new work location"),
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as "the old residence") and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as "the new residence") are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words "in Canada" in subparagraph (a)(i), and without reference to paragraph (b).
+[12] Subsection 62(1) of the Act reads as follows:
+62. (1) Moving expenses - There may be deducted in computing a taxpayer's income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that
+(a) they were not paid on the taxpayer's behalf in respect of, in the course of or because of, the taxpayer's office or employment;
+(b) they were not deductible because of this section in computing the taxpayer's income for the preceding taxation year;
+(c) the total of those amounts does not exceed
+(i) in any case described in subparagraph (a)(i) of the definition "eligible relocation" in subsection 248(1), the taxpayer's income for the year from the taxpayer's employment at a new work location or from carrying on the business at the new work location, as the case may be, and
+(ii) in any case described in subparagraph (a)(ii) of the definition "eligible relocation" in subsection 248(1), the total of amounts included in computing the taxpayer's income for the year because of paragraphs 56(1)(n) and (o); and
+(d) all reimbursements and allowances received by the taxpayer in respect of those expenses are included in computing the taxpayer's income.
+[13] Moving expenses are defined in subsection 62(3) of the Act as follows:
+62. (3) Moving expenses - In subsection 62(1), "moving expenses" includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer's household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer's household for a period not exceeding 15 days,
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer's selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer's spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence,
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of the taxpayer's new residence, of replacing drivers' licenses and non-commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph 62(3)(f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[14] In the instant case, the Minister concluded that, after the Appellant's household effects were moved on October 21, 2002, the Appellant became ordinarily resident of Isle Verte on that date, not on the date stated by the Appellant in his T1-M, that is November 8, 2002.
+[15] The statutory provisions concerning moving expenses do not refer to the notion of "ordinarily resident". The Act requires that the new residence ordinarily occupied by the taxpayer be in Canada, which is the case here. The question instead is whether the Appellant's new residence was ordinarily occupied by him between April and October 2002. If the answer is yes and the other conditions are met, the move was an "eligible relocation."
+[16] This Court has considered the question whether a taxpayer has ordinarily resided at a new residence. In Cavalier v. Canada, [2001] T.C.J. 719, Bowie J. analyzed the case law concerning this expression and found that the moving of household effects and the intention to remain permanently or for a particular length of time are irrelevant in concluding whether a taxpayer ordinarily resided at his new residence. In Calvano v. Canada, [2004] TCC 227, Miller J. followed the same reasoning and added that the concept of ordinarily resident had more to do with the settled ordinary routine of life than the permanence of the arrangement.
+[17] In the instant case, even though the taxpayer originally had a part-time job, he nevertheless went to live at his new Isle Verte residence in order to be closer to his new place of work, where he began working on a full-time basis in April 2002. Even though the intention to move there permanently was not a factor, it was, in my view, present because it is clear that the Appellant was looking for employment in the Isle Verte region from the time of his spouse's departure and that he intended to move there permanently. In my view, there was an eligible relocation in the instant case starting in April 2002, the moment when the Appellant went to live on Isle Verte in order to be closer to his new place of work.
+[18] The Appellant is therefore entitled, in computing his income for a taxation year, to deduct the amounts he paid as moving expenses. Under paragraph 62(3)(g) of the Act, those expenses include expenses in respect of the old residence, to a maximum of $5,000 for the period, or the actual expense if it is less than $5,000, provided the old residence is not occupied by the Appellant or any other person who ordinarily resided there with the taxpayer (which is not the case in this instance) and during which period reasonable efforts were made to sell the old residence.
+[19] The Appellant used the services of two persons whom he called friends to help him sell his old residence. Advertisements were placed by them between April and October 2002. The fact that he did not immediately turn to a broker is a matter of choice among the strategies for selling his residence. In my view, the fact that he chose to call on his friends instead of a broker to sell his old residence nevertheless does not diminish the reasonable nature of the efforts made. Depending on the Appellant's knowledge, that can, in the circumstances, be an appropriate and diligent way of selling his old residence.
+[20] The Appellant also made a number of trips between April and October to return to Québec in order to check on and maintain his old residence (see bus tickets). This is evidence of a certain effort and care to dispose of the old residence. The Appellant subsequently entrusted this sale to a broker. In my view, it is reasonable to conclude that the Appellant made reasonable efforts to sell his old residence starting in April 2002.
+[21] That said, the Appellant is thus entitled to deduct his moving expenses in respect of the maintenance of his old residence under paragraph 62(3)(g) for the period during which his old residence was unoccupied on the ground that he made reasonable efforts to sell it. He is entitled to deduct his eligible expenses, that is the lesser of $5,000 and the actual expense. In Johnson v. The Queen, [2003] DTC 890, Hershfield J. adopted this interpretation of the period as being that during which the old residence is unoccupied and during which reasonable efforts were made by the taxpayer to sell it. The Federal Court of Appeal confirmed that judgment (see 2003 CarswellNat 1851).
+[22] The Appellant's maintenance expenses amounted to more than $5,000 for the period. The Appellant is thus entitled to $5,000 in respect of eligible expenses for his 2002 taxation year.
+[23] As for the cost of purchasing the Bell Express Vu antenna, paragraph 62.3(h) includes in moving expenses the cost of connecting or disconnecting utilities. The Appellant explained that he had subscribed to cable television at his old residence and that that service was not available on Isle Verte, which is why he paid $249 for the satellite television service. That amount includes the equipment and installation charges, which, in my view, are not provided for in the paragraph since it refers to connection and disconnection costs. That expense therefore cannot be allowed.
+[24] The appeals from the assessments made under the Act for the 2002 and 2003 taxation years are allowed in part, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these Reasons.
+Signed at Ottawa, Canada, this 6th day of March 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of August 2006.
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC121
+COURT FILE NO.: 2005-3077(IT)I
+STYLE OF CAUSE: Denis Cusson and Her Majesty the Queen
+PLACE OF HEARING: Rivière-du-Loup, Quebec
+DATE OF HEARING: January 30, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: March 6, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

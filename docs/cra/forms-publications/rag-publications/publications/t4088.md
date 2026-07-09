@@ -1,0 +1,24 @@
+---
+title: "T4088 Scientific Research and Experimental Development (SR&ED) Expenditures Claim - Guide to Form T661"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4088.html
+last_modified: 2026-02-19
+---
+# T4088 Scientific Research and Experimental Development (SR&ED) Expenditures Claim - Guide to Form T661
+
+This document is a guide to Form T661, Claim for Scientific Research and Experimental Development (SR&ED) Carried Out in Canada.
+
+## Ways to access the information
+
+- Read the publicationPrevious years: Standard print PDFsThis form is also available for the years listed below:[2020 – Standard print PDF (t4088-20e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-20e.pdf)[2015 – Standard print PDF (t4088-15e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-15e.pdf)[2014 – Standard print PDF (t4088-14e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-14e.pdf)[2013 – Standard print PDF (t4088-13e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-13e.pdf)[2012 – Standard print PDF (t4088-12e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-12e.pdf)[2011 – Standard print PDF (t4088-11e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-11e.pdf)[2010 – Standard print PDF (t4088-10e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-10e.pdf)[2008 – Standard print PDF (t4088-08e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-08e.pdf)[2007 – Standard print PDF (t4088-07e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-07e.pdf)[2006 – Standard print PDF (t4088-06e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-06e.pdf)[2004 – Standard print PDF (t4088-04e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-04e.pdf)[2003 – Standard print PDF (t4088-03e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-03e.pdf)[2001 – Standard print PDF (t4088-01e.pdf)](/content/dam/cra-arc/formspubs/pub/t4088/t4088-01e.pdf)
+
+    - Online format [t4088-e.html](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4088/guide-form-t661-scientific-research-experimental-development-expenditures-claim-guide-form-t661.html)
+
+    - PDF [t4088-26e.pdf](/content/dam/cra-arc/formspubs/pub/t4088/t4088-26e.pdf)
+
+- Ask for an alternate formatYou can order a digital audio, e-text, braille or large print version of this publication to be sent to you by mail.[Order alternate formats for persons with disabilities](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html)
+
+## Related documents
+
+- [T661 Scientific Research and Experimental Development (SR&ED) Expenditures Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html)
+
+- [Scientific Research and Experimental Development Tax Incentive Program](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)

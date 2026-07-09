@@ -1,0 +1,168 @@
+Title: Tremblay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29244/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-291-29244-tremblay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-29
+
+# Tremblay v. The Queen
+
+- Citation: 2009 TCC 291
+- Decision date: 2009-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7015, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-29
+Neutral citation
+2009 TCC 291
+File numbers
+2008-2550(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2550(IT)I
+BETWEEN:
+ROBERT TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard April 29, 2009, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment pursuant to the Income Tax Act (the Act) for the 2004 taxation year is allowed in part, and the reassessment is referred back to the Minister of National Revenue for redetermination and reassessment on the basis that the value should have been set at $16,600: $8,600 for the land and $8,000 for the building, in accordance with the attached Reasons for Judgment. The $100 filing fee will be reimbursed to the Appellant.
+Signed at Ottawa, Canada, this 28th day of May 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 10th day of July 2009.
+Bella Lewkowicz, Translator
+Citation: 2009 TCC 291
+Date: 20090528
+Docket: 2008-2550(IT)I
+BETWEEN:
+ROBERT TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal for the 2004 taxation year. The questions at issue are outlined in paragraph 9 of the Reply to the Notice of Appeal and are as follows:
+(a) The Minister correctly established the taxable capital gain of $14,063 incurred by the Appellant for the sale of the lot;
+(b) The Minister correctly calculated the depreciation recapture of $6,987.
+[2] To explain and justify the merits of the assessment, the Respondent relied on the following assumptions of fact, as outlined in paragraph 8 of the Reply to the Notice of Appeal:
+(a) On February 5, 1985, the Appellant purchased a property located at 455 Jacques Bédard Boulevard, Lac Saint-Charles, in the province of Quebec (the property);
+(b) The property was acquired for $56,000;
+(c) The property is composed of land on which a semi-commercial building was located at the front with a garage at the back;
+(d) The building gave the Appellant the opportunity to open his hair salon on the first floor and live on the second one;
+(e) In the notarial act:
+(i) There was no breakdown of the value attributed to each building;
+(ii) The transaction was carried out as a whole;
+(f) With respect to the property; in 1994, the Appellant:
+(i) Did some work on the garage;
+(ii) Sub-divided the lot acquired in 1985;
+(iii) Rented the garage to his son for commercial use;
+(g) The lot with the garage, once sub-divided, had the civic address 459 Jacques Bédard Boulevard, Lac Saint-Charles (the lot);
+(h) In 2004, the Appellant sold the lot to his son for a final price of $95,000, with a balance of sale of $15,000;
+(i) The Minister broke down the cost of the lot in 1985 as follows:
+Description Amount
+Land $8,600
+Building $4,000
+Total $12,600
+(j) Based on the valid documentary evidence provided by the Appellant, the Minister established the final total for work carried out on the lot at $49,000, divided as follows:
+Description Amount
+Work in 1994 $12,000
+Work in 1997 $27,000
+Work in 2003 $10,000
+Total $49,000
+(k) The Minister added the amount $49,000 to the adjusted cost base of the lot;
+(l) The Minister broke down the sale price of the lot in 2004 as follows:
+Description Amount
+Land $9,400
+Building $85,600
+Total $95,000
+(m) The Minister determined the taxable capital gain on the sale of the lot for the 2004 taxation year to be $14,063, calculated as follows:
+Description Amount
+Proceeds of disposition $95,000
+Less:
+Adjusted cost base ($61,600)
+Capital gain $33,400
+Less:
+Reserve ($5,274)
+Capital gain $28,126
+Taxable capital gain (50%) $14,063
+(n) In the period during which the Appellant owned the lot, the Minister granted a total of $6,987 in deductions for depreciation;
+(o) The Minister calculated a depreciation recapture of $6,987 for the 2004 taxation year, established as follows:
+Description Amount
+Non-amortized portion
+of capital cost $46,013
+Less:
+whichever is less:
+Capital cost $53,000
+and
+Proceeds of disposition $85,600 ($53,000)
+Recapture ($6,987)
+[3] The Appellant admitted that the majority of facts were true.
+[4] In support of his appeal, as the burden of proof fell on him, the Appellant submitted three arguments.
+[5] He submitted that the breakdown of the cost of the lot in 1985, set at $12,600, $8,600 for the land and $4,000 for the building, was not consistent. To support his argument, he referenced a municipal tax account establishing a value of $17,000 in 1995, the amount being broken down as follows:
+Land $9,000
+Building $8,000
+Total $17,000
+[6] Basing himself on the municipal assessment for 1995, the Appellant maintained that the portion of the immovable for which the parameters had been defined following a subdivision had a value of $20,000, when he purchased it, the whole building having been acquired for the sum total of $56,000.
+[7] In this regard, the person in charge of the file at the objection stage, Jean‑François Simard, reiterated that value was $12,600: $8,600 for the land and $4,000 for the building. He explained the process followed and arbitrarily concluded that this portion represented close to 23% of the total price paid of the $56,000, thereby refuting the Appellant’s arguments.
+[8] The Appellant also submitted that he put $16,600 of work into the building 1994, yet only $12,000 was allowed, $27,000 was allowed for 1997 and $10,000 for 2003. For the years 1997 and 2003, the amounts allowed corresponded to the amounts invested; however, the Appellant submitted that he did in fact spend $16,600 in 1994 and to support this, he submitted a folder of receipts to support his claims.
+[9] The analysis of the receipts has identified two significant gaps; the first is that several receipts do not reference the building involved, the garage, rather the hair salon operated by Appellant, located on the original site but not on the subdivided land. The second observation is that, in the paperwork accompanying the receipts in question, some elements do not represent capital expenses; they are actually current expenses that are not relevant in determining capital costs.
+[10] With respect to this second issue, it is not necessary to carry out an extensive analysis with respect to the Appellant’s submissions as the Appellant himself indirectly recognized the consistency of the information taken into account by the Respondent. This comes directly from the statement of results for Les Immeubles C.I.T.R., for the period of September 1, 1997 to December 31, 1997, prepared by Service Comptable Fontaine and signed by the Appellant himself, specifically for the item, “Cost of acquisitions and capitalizable repairs $35,590.14”.
+[11] Finally, the last item submitted by the Appellant is that the sale price of $95,000 is not the amount that should have been used in the calculation the taxable capital gain.
+[12] He explained that the amount was increased for the purpose of allowing his son, the buyer, to obtain the required financing. He confirmed that he gave a quittance on the payment and not on the balance of the agreed upon sale price of $15,000, but on the payment of $3,000, a difference of $12,000. He therefore submitted that the actual sale price was $83,000 and not $95,000.
+[13] This is an argument that cannot be considered as a private agreement between two individuals does not involve the Respondent, who must rely on the formal document, which is the notarial act properly registered that is proof of its contents with respect to the figures that must be taken into consideration when making an assessment.
+[14] If the Appellant suffered a subsequent loss, he must complete the appropriate forms, which has nothing to do with this case.
+[15] The evidence shows that the work carried out by the Respondent in making the assessment subject to this appeal produced a reasonably appropriate result.
+[16] However, the first segment raised some questions in determining if the amount of $4,000 attributed to the building was reasonable. The Appellant submitted that the evaluation was unreasonable, arbitrary and unrealistic.
+[17] Even though it is a questionable manner of meeting a burden of proof, it seems fair and just on the strength of the same reasoning used by the auditor to accept the Appellant’s submissions in part; as a result, I assign a value of $8,000 to the building: an increase of $4,000 for a total evaluation of $16,600 meaning $8,600 for the land and $8,000 for the building.
+[18] In conclusion, the appeal is allowed in part, and the reassessment is referred back to the Minister of National Revenue for redetermination and reassessment on the basis that the value should have been set at $16,600: $8,600 for the land and $8,000 for the building. All other elements remain unchanged.
+Signed at Ottawa, Canada, this 28th day of May 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 10th day of July 2009.
+Bella Lewkowicz, Translator
+CITATION: 2009 TCC 291
+COURT DOCKET NO.: 2008-2550(IT)I
+STYLE OF CAUSE: ROBERT TREMBLAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 29, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 28, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Attorney General of Canada
+Ottawa, Canada

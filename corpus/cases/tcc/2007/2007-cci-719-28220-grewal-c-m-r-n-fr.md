@@ -1,0 +1,171 @@
+---
+title: "Grewal c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28220/index.do"
+last_modified: "2007-11-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 719"
+citation2: ""
+neutral_citation: "2007 CCI 719"
+decision_date: "2007-11-09"
+language: "fr"
+item_id: "28220"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2067
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:06:30.640000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "239992fa99f54db0144c68ad442858651c1269a32a04c9c806184fa3f1985844"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grewal c. M.R.N.
+
+- Citation: 2007 CCI 719
+- Decision date: 2007-11-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2067, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grewal c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-09
+Référence neutre
+2007 CCI 719
+Numéro de dossier
+2007-3492(EI)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3492(EI)APP
+ENTRE :
+KARAMJIT K. GREWAL,
+demanderesse,
+et
+LE MINISTRE DU REVENU NATIONAL,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 26 novembre 2007, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat du défendeur :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+Vu la demande présentée en application du paragraphe 103(1) de la Loi sur l’assurance‑emploi afin d’obtenir une ordonnance prorogeant le délai dans lequel il est possible d’interjeter un appel devant la Cour;
+Après avoir lu l’affidavit de Bernie Keays produit en l’espèce;
+Et après avoir entendu les allégations des parties;
+La demande de prorogation du délai d’appel est rejetée, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 30e jour de novembre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 22e jour de janvier 2008
+D. Laberge, LL.L.
+Référence : 2007CCI719
+Date : 20071130
+Dossier : 2007-3492(EI)APP
+ENTRE :
+KARAMJIT K. GREWAL,
+demanderesse,
+et
+LE MINISTRE DU REVENU NATIONAL,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Énoncé des faits
+[1] La demanderesse travaillait chez B.C. Labour Contracting Ltd. (« Contracting ») pendant l’année d’imposition 2001.
+[2] Par une lettre datée du 27 octobre 2006, le ministre du Revenu national (le « ministre ») a établi que la demanderesse avait accumulé 662 heures assurables et une rémunération assurable connexe de 5 352,20 $ chez Contracting pour la période du 12 mars 2001 au 15 août 2001.
+[3] Dans la lettre datée du 27 octobre 2006, le ministre a également établi que la demanderesse n’exerçait pas un emploi assurable chez Contracting pendant la période du 16 août 2001 au 31 août 2001 puisque l’emploi ne satisfaisait pas aux exigences prévues à l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi »).
+[4] La demanderesse n’a pas produit d’avis d’appel à l’égard de la décision du ministre datée du 27 octobre 2006.
+[5] Le 3 août 2007, la demanderesse a produit à la Cour canadienne de l’impôt une demande de prorogation du délai applicable à la production d’un avis d’appel.
+[6] Le ministre soutient que la demande de prorogation du délai n’a pas été présentée dans les 90 jours suivant l’expiration du délai par ailleurs fixé par la Loi pour interjeter appel de la décision du ministre.
+B. Question en litige
+[7] La Cour canadienne de l’impôt a-t-elle compétence pour proroger le délai dans lequel il est possible de produire un avis d’appel à l’égard d’une décision du ministre?
+C. Analyse et décision
+[8] Le paragraphe 5(1) des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur l’assurance‑emploi (les « Règles ») est rédigé comme suit :
+Introduction de l’appel
+5(1) L’appel interjeté à l’égard de la décision que le ministre a rendue à la suite d’un appel est formé dans le délai prévu au paragraphe 103(1) de la Loi, soit dans les 90 jours suivant la communication de la décision ou dans le délai supplémentaire que la Cour peut accorder sur demande à elle présentée dans les 90 jours suivant l’expiration de ces 90 jours.
+[9] Le paragraphe 5(2) est ainsi libellé :
+(2) Lorsqu’une décision visée au paragraphe (1) est communiquée par la poste, la date de communication est la date à laquelle la décision a été expédiée par la poste et, en l’absence de toute preuve du contraire, la date d’expédition par la poste est la date figurant dans la décision.
+[10] L’article 6 prévoit ce qui suit :
+Prorogation du délai
+6(1) La demande en vue d’obtenir une ordonnance prorogeant le délai pour interjeter appel peut se faire conformément au modèle figurant à l’annexe 6.
+(2) Elle se fait par dépôt au greffe, de la manière prévue à l’article 5, de trois exemplaires de la demande, accompagnés de trois exemplaires de l’avis d’appel.
+(3) Il n’est fait droit à la demande d’un requérant que si les conditions ci-après sont réunies :
+a) la demande est présentée dans les quatre-vingt-dix jours suivant l’expiration des quatre-vingt-dix jours suivant la date à laquelle le ministre a communiqué sa décision au requérant;
+b) le requérant démontre que :
+(i) dans le délai initial de quatre-vingt-dix jours prévu à l’alinéa a) :
+(A) soit il n’a pu ni agir ni charger quelqu’un d’agir en son nom,
+(B) soit il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des motifs indiqués dans la demande et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances l’ont permis,
+(iv) l’appel formé contre la décision repose sur des motifs raisonnables.
+[11] Il convient de souligner que, selon le paragraphe 6(3) des Règles, la demande de prorogation du délai applicable à la production d’un avis d’appel doit être présentée dans les 90 jours suivant l’expiration du délai initial de 90 jours.
+[12] Dans la présente affaire, les moments pertinents sont les suivants :
+Date de la décision du ministre : 27 octobre 2006
+Délai de production de l’avis d’appel : 90 jours suivant le 27 octobre 2006, soit le 25 janvier 2007
+Délai de production de la demande de prorogation du délai : 25 avril 2007.
+[13] La demanderesse n’a produit sa demande de prorogation du délai que le 3 août 2007, soit environ trois mois après l’expiration du délai applicable.
+[14] Le législateur a prévu dans les Règles un délai précis de 180 jours dans lequel le contribuable peut produire une demande de prorogation du délai de production d’un avis d’appel. Je n’ai pas compétence pour proroger le délai si la demande est présentée après l’expiration de la période de 180 jours.
+[15] La demande de prorogation du délai est rejetée sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 30e jour de novembre 2007.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 22e jour de janvier 2008
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2007CCI719
+NO DU DOSSIER DE LA COUR :
+2007-3492(EI)APP
+INTITULÉ :
+Karamjit K. Grewal c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 26 novembre 2007
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 30 novembre 2007
+COMPARUTIONS :
+Pour la demanderesse :
+La demanderesse elle-même
+Avocat du défendeur :
+Me Max Matas
+AVOCATS INSCRITS AU DOSSIER :
+Pour la demanderesse :
+Nom :
+Cabinet :
+Pour le défendeur :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

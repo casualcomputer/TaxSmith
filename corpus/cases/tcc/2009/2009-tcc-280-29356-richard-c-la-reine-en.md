@@ -1,0 +1,155 @@
+---
+title: "Richard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29356/index.do"
+last_modified: "2009-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 280"
+citation2: ""
+neutral_citation: "2009 TCC 280"
+decision_date: "2009-03-12"
+language: "en"
+item_id: "29356"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6909
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:28:13.155000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e33fed8c69173cf2e1db13bd43453a236fe31544ade9080c0b8a4903e235163"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richard c. La Reine
+
+- Citation: 2009 TCC 280
+- Decision date: 2009-03-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6909, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-12
+Neutral citation
+2009 TCC 280
+File numbers
+2007-3019(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2009TCC280
+2007-3019(GST)G
+2007-3020(GST)G
+2007-3027(GST)G
+BETWEEN:
+FRANÇOIS RICHARD, MICHEL RICHARD AND ÈVE RICHARD,
+APPELLANTS,
+AND
+HER MAJESTY THE QUEEN,
+RESPONDENT.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR ORDER
+Let the attached copy of the original version of the Reasons for Order delivered from the Bench in Montréal, Quebec, on March 12, 2009, with some minor corrections, which I identified and initialled, be filed.
+For clarity, I also attach hereto an edited copy of the Reasons.
+"Lucie Lamarre"
+Lamarre J.
+Signed at Montréal, Quebec, this 28th day of May 2009.
+Translation certified true
+on this 3Oth day of September 2009
+Margarita Gorbounova, Translator
+TAX COURT OF CANADA
+RE: EXCISE TAX ACT
+2007-3019(GST)G
+2007-3020(GST)G
+2007-3027(GST)G
+BETWEEN: FRANÇOIS RICHARD
+MICHEL RICHARD
+ÈVE RICHARD
+Appellants
+-and-
+HER MAJESTY THE QUEEN
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+Held before the Honourable Justice LUCIE LAMARRE, Tax Court of Canada, in the offices of the Courts Administration Service, Montréal, Quebec, on March 12, 2009.
+--------------------
+REASONS FOR JUDGMENT
+APPEARANCES:
+FRANÇOIS POULIN
+KATHY KUPRACZ
+Counsel for the appellants.
+Martine Bergeron Counsel for the respondent.
+Registrar/technician: Claude Lefebvre
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215 Saint-Jacques St.
+Suite 328
+Montréal, Quebec
+H2Y 1M6
+GST-5268 per: JEAN LAROSE
+START OF REASONS FOR JUDGMENT: 3:25 p.m.
+The appeals pertain to the assessments issued against the appellants as directors of J.B. Lefebvre inc. (JBL) for failing to make GST payments pursuant to the Excise Tax Act (ETA) in the amount of $39,323.49, or $45,284.40 once penalty and interest are added, for the period from January 1, 2004, to January 31, 2004. The assessments were issued under section 323 of the ETA.
+The appellants are relying on the due diligence defence in subsection 323(3) of the ETA to escape their joint obligation together with the corporation to pay the amount due to the Minister of Revenue of Quebec (the Minister).
+To succeed, the appellants must show that they had exercised the degree of care, diligence and skill required to prevent JBL's failure to remit the net tax amount due to the Minister.
+The net tax in the amount of $39,323.49 for the period from January 1, 2004, to January 31, 2004, had to be paid by JBL by March 1, 2004, at the latest.
+Ève Richard, President of JBL's Board of Directors, explained that the corporation had existed since 1912. It was founded by her grandfather. It operates a retail business selling shoes.
+The company grew over the years. The founder's daughter, Iseult Richard, took it over in 1959. Ève Richard, Iseult's daughter, joined the company in 1981 and became president in 1994, when her mother retired from its day-to-day management. Ève Richard has a master's degree in business administration (MBA) and is primarily responsible for managing the business's finances.
+Pierre Morin, another director of the corporation, joined in 1986 and was in charge of negotiating leases for all stores.
+François Richard, Iseult's son and Ève's brother, is a lawyer by training and joined the company in 1991. He was responsible for purchasing and inventory management.
+Michel Richard, also Iseult's son and Ève's brother and also a lawyer, was another of the company’s directors. He works for the Laurentian Bank, and although informed about the company's finances, he did not work for the company per se.
+It is apparent from Ève, François and Michel Richard's testimony that the corporation peaked in 2000 with annual sales of around $30 million.
+Business slowed down starting in September 2001. The year ending on January 31, 2002, showed a net loss of $150,000. That loss became $455,000 at January 31, 2003. Ève Richard explained that the development costs had increased and sales had dropped.
+In fall 2002, watching its financial situation deteriorate, the company called on Saine Marketing to develop a strategic plan and a remarketing strategy. Saine Marketing advised it to lower its merchandise sale prices, to increase employee salaries in order to recruit more specialized staff, to increase advertising costs and to speed up inventory turnover in order to be more competitive. That plan did not work.
+Sales dropped, and non-recurring costs such as consulting fees, severance pay and shutdown costs upon closures of some of the stores resulted in the drop of the gross profit margin.
+The Board of Directors met once a year. The members of the Board of Directors also sat on a management committee, which met at least four times a year.
+The company, which took pride in always paying its suppliers, remitting its deductions at source and taxes to the government as well as making its lease payments, had more financial difficulties in the fall of 2003. Despite everything, it still paid its taxes.
+At January 31, 2004, seeing the balance sheet for 2003 reach an all-time low with a net loss of around $1.6 million before tax, the members of the Board of Directors and the management committee held a special meeting on Saturday, February 14, 2004, in order to review the situation.
+At that time, the decision was made with the help of financial advisors, accountants and external auditors to apply the Companies' Creditors Arrangement Act (CCAA) to the company. From what I understand, it was planned to have the application heard in court as quickly as possible.
+Ève Richard stated that, during that meeting, the representatives from Richter, the auditors, experts in retail and insolvency, had told her that, from that time on, ordinary creditors, including the government for taxes, should not be paid because they were filing an application under the CCAA.
+François Richard said that the GST was discussed at the meeting of February 14. He had asked then about the status of those payments. He was told that, up to that day, everything was in order. As to future payments, he understood that that all payments to suppliers and to the government were subject to the CCAA. He was particularly conscious of his responsibility as the company's tax liability director.
+Michel Richard also said that he was present at the meeting and that he had understood that the company would file an application under the CCAA.
+Everyone trusted Richter, which presided over the meeting of February 14, 2004.
+Michel Richard knew Raymond Massy from Richter through his work at the Laurentian Bank and trusted him completely.
+Counsel for the respondent called as witness François Guillaume Couillard, an objections officer at the Ministère du Revenu du Québec. He said that he had not been informed of the meeting of February 14, 2004, at the objection stage. He said that no one had told him that Richter had advised the appellants not to pay any ordinary creditors, including the government for taxes, before the application under the CCAA was filed in court.
+He received a letter from counsel for the appellants. The letter is dated February 22, 2005, and was filed as Exhibit I-2. It states at paragraphs 12 and 13 that, at the start of 2004, the appellants consulted professionals specializing in insolvency to request that they prepare a creditors arrangement proposal pursuant to the CCAA.
+He added at paragraph 14 that those consultations took place in January and February 2004 and that it was planned that the corporation would be placed under the protection of the CCAA in February 2004.
+According to the letter, there were delays on the part of the professional services in preparing the necessary documentation, which resulted in the record being filed in court only on March 4, 2004, and the court order being issued on March 5, 2004.
+In the letter, he also stated at paragraph 15 that, given the deficiencies in working capital, the company was unable to pay the tax by March 1, 2004, but added the following in parentheses:
+[Translation]
+In reality, were it not for the delays caused by the professionals, J.B. Lefebvre limitée would already have been under the protection of the Companies’ Creditors Arrangement Act at that time.
+In my view, the letter confirms the appellants' testimony that they had been advised by Richter to not pay ordinary creditors including the government for taxes after the meeting of February 14, 2004.
+In fact, I believe that the letter indicates that Richter had the appellants believe that the application would be made in February 2004. The GST being due on March 1, 2004, the appellants were told that they no longer had the right to remit it.
+Although that advice was probably given from the perspective that the application would be filed in February, the appellants cannot now be blamed for believing that they should not make any payments to the government following the meeting of February 14, 2004.
+The company had never failed to remit its taxes; only the tax for January 2004 is at issue because it was the only tax due by March 1, 2004.
+The appellants' version that they had understood Richter's statements to mean that they should not make any payments following the meeting seems even more plausible to me since François Richard had mentioned that he was very aware of his responsibility as the company's tax liability director. If he had understood that the company was not protected from remitting taxes for January 2004, he would have probably made sure that that debt was paid as he had done in the past.
+However, counsel for the respondent mentioned in her argument that the company had made rent payments and payments to the bank, but did not pay its taxes. I did not see that in the evidence. I understood that the company had paid the salaries in January and that, after the meeting of February 14, it had been told not to pay any ordinary creditors. The evidence did not deal with who was paid after February 14, 2004.
+In addition, the fact that no one from Richter testified does not undermine the appellants' credibility, in my opinion. What is important is to verify their understanding of the situation and what they had done to prevent the failure.
+While all the appellants are professionals, none of them had expertise in insolvency. They cannot be blamed for trusting experts; the standard is reasonableness and not perfection. Based on their testimony, they had understood that they should be very careful not to favour one creditor over another under threat of personal liability. Following the meeting, Ève Richard took the time to return to the office to ensure that the advice she had just received was followed, including the advice not to remit the tax. She also contacted a law firm, which had not advised her otherwise.
+In my view, the appellants have shown, on the balance of probabilities, that they had exercised the degree of care, diligence and skill required to prevent JBL's failure to remit the tax for January 2004, and that it had exercised the care required in the circumstances.
+The appeals are allowed with costs.
+END OF REASONS FOR JUDGMENT
+*******************
+Translation certified true
+on this 30th day of September 2009
+Margarita Gorbounova, Translator

@@ -1,0 +1,242 @@
+---
+title: "GF Partnership v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30137/index.do"
+last_modified: "2010-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 657"
+citation2: ""
+neutral_citation: "2010 TCC 657"
+decision_date: "2010-12-22"
+language: "en"
+item_id: "30137"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7791
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:44:19.008000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0d4f93f10a36f3cb702017bfa39b9fdcd3914b4e5e857ffcc8329cab35ce43d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GF Partnership v. The Queen
+
+- Citation: 2010 TCC 657
+- Decision date: 2010-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7791, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GF Partnership v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-22
+Neutral citation
+2010 TCC 657
+File numbers
+2008-2571(GST)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-2571(GST)G
+BETWEEN:
+GF PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 29, 2010, in Toronto, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Irving Marks
+Michael Gasch
+Counsel for the Respondent:
+Michael Ezri
+____________________________________________________________________
+ORDER
+The respondent’s motion for an order granting leave to amend her Reply to the Notice of Appeal is granted and the Amended Reply to the Notice of Appeal attached to the Notice of Motion is considered as being validly filed as of the date of this order.
+The respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 22nd day of December 2010.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2010 TCC 657
+Date: 20101222
+Docket: 2008-2571(GST)G
+BETWEEN:
+GF PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre J.
+[1] This is a motion made by the respondent for an order granting leave to amend the Reply to the Notice of Appeal on the ground that the appellant has declined in part to consent to the filing of the Amended Reply in circumstances where, in the respondent’s view, it is just and reasonable that the respondent be entitled to file the Amended Reply.
+[2] More particularly, the appellant has consented only to the amendments in paragraphs 30, 43 and 51 of the proposed Amended Reply. The appellant opposes the amendments sought in paragraphs 1, 9, 27, 28 and 44 of the proposed Amended Reply, which allege or suggest that the appellant collected but failed to remit goods and services tax (GST) on the amount of the development charges included in the purchase price paid by the appellant’s purchasers on the sale of new homes. The proposed paragraphs to which the appellant objects read as follows:
+1. He admits, for the purpose of this Appeal, the facts stated in paragraphs 1, 2, 3, 4, 6, 9, 12, 25, 31 and 48 of the Notice of Appeal.
+9. With respect to paragraph 31 of the notice of appeal he states that the appellant made a representation to the Minister that no GST was charged or collected on the development charges and that the Minister assumed that this was the case. He now denies that the appellant failed to charge or collect GST on development charges.
+Appellant In fact Collected GST from Purchasers
+27. The purchase price for the homes in issue included GST calculated at the rate of seven percent.
+28. Notwithstanding any representation of the appellant to the contrary or any assumption of the Minister, the appellant did charge and collect GST on the development charges in issue in this appeal.
+Appellant was Bound to remit GST collected even if collected in error
+44. In the alternative that the development charges did not form part of the consideration for the supply of houses, the appellant was nevertheless obliged to remit all of the GST that it had collected on the supply of the houses. This it failed to do. Per the agreements of purchase and sale the appellant in fact and law collected GST at a rate of 7% of the purchase price, which purchase price included the development charges. It therefore collected GST on the development charges. However it remitted GST at a rate of 7% of an amount that did not include the development charges. Having collected GST on the purchase price, the appellant was bound to remit that GST even if it was collected in error.
+SUMMARY OF THE PARTIES’ POSITIONS AND FACTS LEADING TO THE PRESENTATION OF THIS MOTION
+[3] In the appellant’s view, the respondent is now taking the position that the appellant is obligated to remit GST but is not entitled to a rebate, even though the GST was paid in error. The appellant states that the proposed amendments involve a reversal of the Minister’s assumptions pleaded in subparagraphs 23 (r) to (w) of the Amended Reply (which are identical to subparagraphs 22 (r) to (w) of the Reply to the Notice of Appeal (Reply)) and the withdrawal by the respondent of its admission, in paragraph 1 of the Reply, of paragraph 31 of the Notice of Appeal wherein the appellant states:
+31. The Appellant did not charge GST to or collect GST from the Mattamy Purchasers on the amount of the development charges.
+[4] I also reproduce hereunder subparagraphs 23 (r) to (w) of the Amended Reply, referred to by the appellant:
+Failure to Charge, Collect and Remit GST
+r) The Appellant incorporated the Development Charges into the Purchase Price of the new home to the Purchasers;
+s) The Development Charges were an input into the cost of the house and formed part of the value of the consideration for the agreed supply of real property;
+t) As early as June 2001, the Appellant failed to charge and collect GST on the total consideration for the supply of real property including the Development Charges;
+u) In February 2002, the Appellant’s divisions began inserting a clause in their Purchase and Sale Agreements, which states:
+The parties acknowledge and agree that, as part of and included in the Purchase Price herein, the Vendor has or will pay on behalf of the Purchaser, all taxes, levies, imposts, building permit fees (for permit obtained on behalf of the Purchaser), and all applicable development charges including education development charges applicable to the property. The parties acknowledge and agree that these amounts, at the Vendor’s option, may be shown separately in the statement of adjustments to be delivered to the Purchaser prior to Closing.
+v) The Appellant included the Development Charges in the Purchase Price of the real property that the Purchasers were required to pay, but isolated the Development Charges from the Purchase Price on the Statement of Adjustments;
+w) Regardless of whether it had executed an Agreement of Purchase and Sale prior to paying the Development Charges, the Appellant did not charge, collect or remit GST in respect of the Development Charges and thereby reduced its GST liability in the aggregate amount of $13,273,958.44.
+[5] The appellant summarizes its position in the following terms : “the withdrawal of the admission and the proposed amendments are untenable and do not raise a triable issue, constitute an alternative basis for the assessment and would cause prejudice to the Appellant that cannot be remedied by costs.”
+[6] In paragraph 6 of the Appellant’s Written Submissions on Respondent’s Motion to Amend Pleadings, the appellant reproduced the facts stated in its Notice of Appeal relating to the transactions giving rise to the assessment, as follows:
+Transactions Giving Rise To The Assessments
+6. The Notice of Appeal pleads the following:
+(a) The Appellant carries on business as a land developer and builder of new homes for sale to purchasers in the Province of Ontario.
+(b) Prior to commencing construction of new homes in its subdivisions, the Appellant entered into agreements of purchase and sale (the "Purchase Agreements") with new home purchasers (hereinafter individually referred to as a "Mattamy Purchaser").
+(c) Each Purchase Agreement specified a purchase price to be paid for the New Home (the "Purchase Price"). The Purchase Price included GST and development charges.
+(d) Each Purchase Agreement also specified which taxes, costs or charges were to be included in or excluded from the Purchase Price.
+(e) Prior to the closing of the purchase and sale of a new home (the "Closing"), the Appellant and the Mattamy Purchaser agreed upon a statement of adjustments that specified the net consideration for the transfer of the new home and all other payments and reimbursements that were to be made to the Appellant (the "Statement of Adjustments").
+(f) Through the Statements of Adjustments, the Appellant and each Mattamy Purchaser determined the net consideration for the transfer of the new home by deducting the GST and development charges from the tax-included Purchase Price. (The net consideration for the transfer of the new home as agreed upon in the Statement of Adjustments shall hereinafter be referred to as the "Net Sale Price").
+(g) Purchase Agreements entered into subsequent to February, 2002 contained the following provision:
+"The parties acknowledge and agree that, as part of and included in the Purchase Price herein, the Vendor has or will pay on behalf of the Purchaser, all taxes, levies, imposts, building permit fees (for permits obtained on behalf of the Purchaser), and all applicable development charges including education development charges applicable to the property. The parties acknowledge and agree that these amounts, at the Vendor’s option, may be shown separately in the statement of adjustments to be delivered to the Purchaser prior to Closing."
+(h) Prior to a Closing, the Appellant and the Mattamy Purchaser confirmed in the Statement of Adjustments that the applicable development charge was a separate charge to be borne by the Mattamy Purchaser and that the development charge was to be reimbursed to the Appellant separately from the Net Sale Price for the New Home.
+(i) Upon Closing, each Mattamy Purchaser paid the Net Sale Price and GST to the Appellant for the New Home and reimbursed the Appellant for the development charge that the Appellant had paid on the Mattamy Purchaser’s behalf.
+[7] In her Written Submissions on Motion to Amend Pleadings, the respondent states that the appellant was assessed net tax under the Excise Tax Act (ETA) on the basis that it failed to charge, report and remit GST on that portion of the purchase price of its new homes that was attributable to development charges incurred to subdivide and develop lands and build the houses in issue. The appellant argues in its Notice of Appeal that no GST was required to be collected and remitted in respect of development charges (par. 73 of the Notice of Appeal). The appellant indeed pleaded in paragraph 31, reproduced above, that it never charged or collected GST on the development charges. The respondent further states that the appellant recorded in its general ledger no GST in respect of development charges and that the general ledger formed the basis upon which the appellant’s GST returns were filed (as per the cross‑examination of Catherine Griffin, Vice‑president and Controller of the Appellant, on September 16, 2010 on her affidavit sworn August 30, 2010, at p. 14, q. 52-53). Finally, the respondent states that in all its dealings with the Canada Revenue Agency (CRA) auditor, the appellant proceeded entirely on the basis that no GST had been collected in that regard (see affidavit of Greg Mills, CRA auditor, sworn June 29, 2010, at Tab 6 of the Motion Record). As a matter of fact, the appellant, in its written submissions, refers to that same affidavit in stating that, during the course of the audit, the respondent’s auditor came to believe that GST had not been collected, reported or remitted on development charges.
+[8] In paragraph 1 of the Reply, the respondent admitted paragraph 31 of the Notice of Appeal and, in subparagraphs 22 (t) and (w), stated as assumptions of the Minister of National Revenue (Minister) that the appellant collected no GST on the development charges and thereby reduced its GST liability by the aggregate amount of $13,273,958.44.
+[9] The respondent now proposes to amend her Reply to argue that, on a proper construction of the purchase and sale agreements used by the appellant, GST was collected on the development charges, but was not reported or remitted to the Minister. In the respondent’s view, the appellant, having collected GST, was obliged to report and remit it, even if it was collected in error.
+[10] The first time that the respondent advised the appellant that such an amendment might be sought was during the discovery of the appellant’s representative, Mr. Jurgen Dirks, on January 28, 2010 (see Responding Affidavit of Catherine Griffin, par. 7). A formal request for consent to amend the pleadings was sent to the appellant on June 10, 2010 (see affidavit of Sarah Khoury and Exhibit A attached thereto, in the Motion Record, Tab 5). A response, declining to consent to the contested amendments was received by the respondent on June 22, 2010 (see affidavit of Sarah Khoury and Exhibit B attached thereto).
+[11] The appeal concerns the appellant’s reporting periods commencing June 1, 2001 and ending on May 31, 2006. The limitation periods for assessment of the different GST returns for the aforementioned audit period expired on various dates commencing July 31, 2005 and ending June 30, 2010 (see Griffin affidavit, par. 9).
+[12] As of June 10, 2010, the parties had conducted discoveries and, according to the respondent’s written submissions, a number of the appellant’s undertakings remained outstanding. A pre-hearing conference was held on June 30, 2010 and to date no trial date has been set.
+[13] According to the appellant’s written submissions, there is no evidence in the affidavits filed in support of the respondent’s motion to indicate that:
+a) the respondent obtained any new or additional information subsequent to delivery of the original Reply to the Notice of Appeal on December 8, 2008;
+b) any representations made on behalf of the appellant to the auditor were in any way false or misleading (see Griffin affidavit, par. 10)
+RESPONDENT’S SUBMISSIONS
+[14] The respondent submits that there are two distinct requirements that apply to the amendments proposed:
+a) the arguments sought to be advanced through the amendments must comply with subsection 298(6.1) of the ETA; and
+b) the amendments themselves, including the withdrawal of admissions, if any, may also have to comply with the established case law, which provides for a liberal, though not unlimited, right to amend pleadings.
+I Subsection 298(6.1) of the ETA
+[15] Subsection 298(6.1) reads as follows:
+298. (6.1) Alternative argument in support of assessment — The Minister may advance an alternative argument in support of an assessment of a person at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless, on an appeal under this Part,
+(a) there is relevant evidence that the person is no longer able to adduce without leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[16] The respondent admits that the facts and arguments referred to in the contested amendments were formally advanced by her at a time when, with respect to most, though not all, of the reporting periods covered by the assessments, the four‑year time limit specified in paragraph 298(1)(a) of the ETA within which the Minister could issue an assessment of net tax had expired. Notwithstanding the expiration of any limitation period, subsection 298(6.1) confers authority on the Minister to advance an alternative argument in support of an assessment at any time provided certain conditions are met.
+[17] In Walsh v. The Queen, 2007 FCA 222, affirming 2006 TCC 188, the Federal Court of Appeal held that the limits imposed under subsection 152(9) of the Income Tax Act (ITA), which parallels subsection 298(6.1) of the ETA, are the following:
+a) the Minister cannot include transactions which did not form the basis of the taxpayer’s reassessment;
+b) the right of the Minister to present an alternative argument in support of an assessment is subject to paragraphs 152(9)(a) and (b), which speak to the prejudice to the taxpayer; and
+c) the Minister cannot use subsection 152(9) to reassess outside the time limitations in subsection 152(4) of the ITA, or to collect tax exceeding the amount in the assessment under appeal.
+[18] In Beaulieu v. The Queen, 2005 TCC 605, upheld by 2006 FCA 317, it was stated that the analysis in the case law applicable to subsection 152(9) of the ITA applies equally to subsection 298(6.1) of the ETA.
+[19] In the respondent’s view, none of the restrictions set out above apply to this case:
+a) The amendments sought relate to the purchase and sale agreements that are the subject of the assessments at issue; they do not relate to any other transactions.
+b) The appellant raises no evidentiary issues in respect of paragraphs 298(6.1)(a) and (b) and no such issue can reasonably be anticipated since the proposed amendments are based on the agreements of purchase and sale referred to by the appellant in its own Notice of Appeal.
+c) The Minister is not reassessing the appellant; the respondent is only asserting that there is an additional reason why the net tax assessed is the correct amount; further, the Minister is not seeking to collect tax in excess of the amounts assessed. Finally, the respondent relies on Loewen v. The Queen, 2004 FCA 146, at paragraph 11, to argue that she is entitled to plead facts that are inconsistent with the Minister’s assumptions; however, the onus of proof will then lie with the Crown.
+II Common law test for amending pleadings
+[20] The respondent relies on Canderel Ltd. v. R., [1993] CarswellNat 949 (F.C.A.), at paragraph 10, [1994] 1 F.C. 3, in arguing that, as a general rule, an amendment should be allowed at any stage of an action, for the purpose of determining the real questions in controversy between the parties, provided that allowing the amendment would not result in an injustice not capable of being compensated by costs and that it would serve the interests of justice. Here, the respondent is of the view that the proposed amendments will assist in determining the real question in controversy between the parties. What the respondent is asking the Court is that it help in determining what the appellant’s net tax is for the periods covered by the assessments. The interests of justice are in ensuring that money that is collected from private individuals is dealt with according to law and not inadvertently left in the hands of the collection agent.
+III Common law test for withdrawals of admissions
+[21] First, the respondent argues that although the proposed amendments include the striking out of the admission of paragraph 31 of the Notice of Appeal, that does not amount to a withdrawal of an admission of fact. The respondent states that the question of whether GST has been collected is a question of law to the extent that it turns on the interpretation of a contract. The respondent refers to the decision of this Court in 9005-0428 Québec Inc. v. R., [1998] CarswellNat 2979, where it was held that statements by an auditor at discovery to the effect that GST was included in a contract, were not admissions capable of binding the parties, as they amounted to an exercise in the construction of a contract, which falls within the realm of the law and lies solely within the purview of the Court. Similarly, the respondent is asking here for nothing more than to have the purchase and sale agreements interpreted on the basis of their content, which is a question of law.
+[22] That being said, the respondent also refers to Andersen Consulting v. R., [1997] CarswellNat 1600, in which the Federal Court of Appeal summarized the factors that govern both the amendment of pleadings and the withdrawal of admissions. The respondent refers to those factors as being the following:
+a) whether the amendments raise a triable issue;
+b) whether the amendments relate to inadvertence or error;
+c) the timeliness of the motion and whether the amendments will occasion delay; and
+d) whether there is prejudice that cannot be compensated by costs.
+[23] With respect to the triable issue factor, the proposed amendments allege that the appellant collected GST on the disputed development charges and the respondent argues that, once collected, GST must be remitted even if the collection took place in error (see ITA Travel Agency Ltd. v. R., 2000 CarswellNat 3036 (T.C.C.), aff’d. 2002 FCA 200, and West Windsor Urgent Care Centre Inc. v. The Queen., 2005 TCC 405, aff’d. 2008 FCA 11). In the respondent’s view, the decision of the Supreme Court of Canada in United Parcel Service Canada Ltd. v. The Queen, 2009 SCC 20, does not say, as will be argued by the appellant, that West Windsor and ITA Travel Agency are no longer good law.
+[24] As to whether the amendments relate to inadvertence or error, the respondent submits that the information provided by the appellant through the GST returns and the general ledger was that no GST had been collected on the development charges. The Minister also relied on explanations tendered by the appellant’s then controller, Glen Clarkson, and on representations made in writing as to why no tax had been collected (affidavit of Greg Mills, auditor for the CRA, Motion Record, Tab 6). If the appellant made a mistake by inappropriately interpreting the contracts, it is nonetheless not relieved of its responsibility to report correctly.
+[25] Furthermore, the respondent submits that there is no evidence that the amendments sought in this case will unduly delay the trial of this matter. The discoveries are not yet complete and even if there were a delay in setting a trial date, the balance of convenience favours granting the motion. If the arguments raised by the respondent are not canvassed in this appeal, they will remain unresolved, possibly necessitating a future appeal to decide the remaining issue.
+[26] Finally, the respondent is of the view that there is no prejudice that cannot be compensated by costs. The respondent refers to Canderel, supra, at paragraph 11, where the Federal Court of Appeal adopted the statement by Lord Esher M.R. in Steward v. North Metropolitan Tramways Co. (1886), 16 Q.B.D. 556, at page 558, as follows:
+11 As regards injustice to the other party, I cannot but adopt, as Mahoney, J.A. has done in Meyer, supra, at page 72, the following statement by Lord Esher, M.R. in Steward v. North Metropolitan Tramways Co. (1886), 16 Q.B.D. 556, at page 558:
+There is no injustice if the other side can be compensated by costs: but, if the amendment will put them into such a position that they must be injured it ought not to be made.
+and the statement immediately following:
+And the same principle was expressed, I think perhaps somewhat more clearly, by Bowen, L.J., who says that an amendment is to be allowed "whenever you can put the parties in the same position for the purposes of justice that they were in at the time when the slip was made."
+To apply that rule to the present case: if the amendment is allowed now, will the plaintiff be in the same position as if the defendants had pleaded correctly in the first instance?
+[27] The respondent submits that the arguments that are raised by the appellant on this point and that are found in Catherine Griffin’s affidavit at paragraph 16 do not point to any non-compensable prejudice attributable to the passage of time between the filing of the Reply to the Notice of Appeal in 2008 and the formal request to the appellant to consent to the amendment of the Reply. The allegations of prejudice made by the appellant are confined to the fact that the amendment was not made during the audit process. The prejudice alleged by the appellant is that had it been aware of the Minister’s new position at the time of the audit, the appellant would not have paid the disputed GST but would have furnished security until its obligation to remit in those circumstances had been determined by the Court. More specifically, the appellant states that, to the extent that the respondent takes issue with the appellant’s right to a rebate or other repayment of the GST paid in error, the appellant has been prejudiced by the respondent’s delay in asserting this new position, as it is now too late to seek repayment of any money that has been remitted.
+[28] The respondent replies that prejudice resulting from reliance on the Minister’s assessing position is a distinct type of prejudice that is already taken into account by Parliament under the statutory test in subsection 298(6.1) of the ETA, which test is limited to determining whether the prejudice in issue related to the production of evidence. The appellant does not assert any such prejudice. Furthermore, the fact that the amount of the assessment has been paid does not have any impact on the issue before this Court, which is the determination of the appellant’s net tax. Finally, the appellant has conceded that it did not have any legal recourse enabling it to compel purchasers to complete rebate applications or pay over to the appellant any rebates received. The appellant could not explain how, in the absence of such recourse, it was prejudiced. It also conceded that it has not had to reimburse a purchaser for GST paid on development charges (see Griffin cross-examination, pp. 47-50, 55-56).
+APPELLANT’S SUBMISSIONS
+[29] The appellant submits that the respondent’s motion should be denied because the withdrawal of an admission and the proposed amendments:
+a) are untenable and do not raise a triable issue;
+b) constitute the putting forward of an alternative basis for assessment, which is not permitted as the limitation periods for assessment have expired; and
+c) would cause prejudice to the appellant that cannot be remedied by costs.
+[30] The appellant relies on the Federal Court of Appeal decisions in Andersen Consulting, supra, at paragraph 14, and Merck & Co. v. Apotex Inc., 2003 FCA 488, at paragraph 32, and on subsection 298(6.1) of the ETA to state that where a party seeks to withdraw a substantial admission, amend its pleadings and raise a fundamentally different basis for assessment, all after the expiry of the relevant limitation periods, that party will have a much higher onus in order to satisfy the Court that the proposed amendments are in the interests of justice.
+[31] The appellant submits that the respondent’s motion fails to meet that onus.
+[32] First, the appellant submits that the amendments the respondent wishes to introduce at this stage of the proceedings are untenable. The proposed alternative basis for assessment can only arise in the event that it is determined by this Court that the development charges did not form part of the consideration for the sale of the new homes by the appellant to its purchasers, in which case the appellant was not required to collect GST on the development charges, and in the event that it is determined by this Court that, by virtue of the GST-included nature of the agreement of purchase and sale, the appellant did in fact collect GST on the tax-exempt development charges and therefore was required to remit that GST to the Minister. The appellant asserts that the respondent wishes to argue that the appellant collected the GST out of its own proceeds of sale and is consequently barred from recovering by rebate or otherwise the GST collected in error. The appellant argues that, where the purchase price included GST, the two positions advanced by the respondent cannot co-exist. If no GST was collectible on the development charges, then the appellant did not collect it. It cannot have both collected it and not collected it. In the appellant’s view, the respondent’s interpretation of the transactions that leads to the conclusion that GST was collected on the transactions is untenable and cannot be in the interests of justice.
+[33] Second, the appellant submits that the proposed amendments do not raise a triable issue. The appellant explains that when a purchaser purchases a new home, the price paid for the new home includes all GST payable on the sale. The purchaser is relieved of the burden of having to pay any GST in addition to the GST included in the purchase price. All GST is effectively then paid by the appellant. If, as alleged by the respondent in her proposed amendments, the appellant is deemed to have collected GST on development charges and then remitted it to the CRA, then such GST was paid in error by the appellant at its own expense out of the sale proceeds that included GST and, in assessing, the Minister is required to pay a rebate of all such GST to the appellant pursuant to section 261 and subsection 296(2.1) of the ETA (see paragraph 39 of the appellant’s written submissions). Those provisions, as they read at the relevant time, were as follows:
+261. (1) Rebate of payment made in error [tax paid in error] — Where a person has paid an amount
+(a) as or on account of, or
+(b) that was taken into account as,
+tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) and (3), pay a rebate of that amount to the person.
+296. (2.1) Allowance of unclaimed rebate — Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the "overdue amount") that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the "allowable rebate") would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall, unless otherwise requested by the person, apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[34] This approach is consistent, in the appellant’s view, with the decision of the Supreme Court of Canada in United Parcel Service Canada Ltd. v. Canada, 2009 SCC 20. Therefore, there is no net recovery to the respondent, with the result that the amendments would not affect the outcome of the trial, and in effect, no valid issue for trial is raised by the proposed amendments.
+[35] Third, the appellant argues that the respondent did not prove that the admission that she now seeks to withdraw was inadvertent or the product of an error. The appellant did not misrepresent the facts to the auditor, who, at the time of the audit, had copies of the agreements of purchase and sale, of the statements of adjustment and of all relevant books and records. No new facts were discovered. The respondent has merely drawn a different conclusion from the same facts. The interpretation of the agreements of purchase and sale is not just a question of law, as suggested by the respondent, but is a mixed question of fact and law (see MacDougall v. MacDougall, 2005 CarswellOnt 7257 (O.C.A.).
+[36] Fourth, the appellant submits that it would be prejudiced by the proposed amendments in that, had it known the Minister’s new position, namely that GST had been collected from purchasers on development charges when none was exigible and that the appellant would not be entitled to a rebate, it would not have paid the GST assessed and would instead have furnished security pursuant to subsection 314(2) of the ETA until its obligation to remit in those circumstances had been determined by the Court. Subsection 314(2) reads as follows:
+314. (2) Security where objection or appeal — Where a person objects to or appeals from an assessment, the Minister shall accept security, in an amount and a form satisfactory to the Minister, furnished by or on behalf of the person, for the payment of any amount that is in controversy.
+[37] Further, if the appellant was required to formally apply for a rebate pursuant to section 261 of the ETA, it is now too late to do so because the limitation periods for such rebate applications expired on various dates commencing July 31, 2003 and ending June 30, 2008. In the appellant’s view, the introduction of this alternate position long after the expiry of all relevant limitation periods is inherently prejudicial in nature. Finally, granting leave to amend would delay the setting of a trial date, which would be prejudicial to the appellant in that the matter of the proper calculation of GST for reporting periods subsequent to those under appeal awaits determination in this appeal.
+[38] Fifth, the appellant submits that the withdrawal of the fundamental assumption of fact that it failed to collect GST goes beyond the addition of an alternative argument as contemplated by subsection 298(6.1) of the ETA but is an entirely different basis of assessment.
+ANALYSIS
+[39] The question in controversy in this appeal revolves around the contractual agreements between the appellant and the Mattamy purchasers, that is, the agreements of purchase and sale, which were not produced for the purposes of this motion. The respondent states that their interpretation is a question of law while the appellant says it is a mixed question of fact and law. In her original Reply, the respondent stated that the appellant failed to collect GST on the development charges and alleged that the development charges formed part of the value of the consideration for the supply of the real property and were included in the purchase price.
+[40] The appellant states that this position taken by the respondent in her original Reply reflects what is found in the CRA’s working papers, in correspondence referred to in Ms. Griffin’s affidavit, and in all dealings between the appellant and the CRA. The appellant states that the respondent did not provide any explanation with respect to the proposed change of position and that the two positions now advanced by the respondent cannot co‑exist.
+[41] Having read all the documentation provided with this motion, the Minister’s position at the audit stage and that proposed in the amendments sought before me do not appear to me as being so contradictory. In the working papers and the Minister’s correspondence filed together with Ms. Griffin’s affidavit, it is stated that the appellant (also referred to as Mattamy) incorporated the development charges paid by it to the municipalities into the purchase price of the homes sold to home buyers. It would appear that at a certain point in time in 2001, Mattamy stopped remitting GST on the portion of the house sale that related to development charges. It would also appear that, notwithstanding a contrary opinion received from GST/HST Rulings, Mattamy took it upon itself to reduce the amount of GST to be remitted on the basis that development charges should not attract GST (see audit report of Greg Mills, dated March 8, 2005, Exhibit B, to the affidavit of Ms. Griffin, and the memorandum dated July 20, 2005 from Cyril Martis of the Technical Applications Section, Exhibit D to Catherine Griffin’s affidavit, as well as a letter dated December 7, 2006 sent by Greg Mills to Catherine Griffin, Exhibit D to Greg Mills’ affidavit, at Tab 6 of the Motion Record). It seems that the Minister assessed the appellant on the basis that it did not remit the appropriate amount of GST on the purchase price of the houses, which included the development charges. This is particularly evident from the Statement of Audit Adjustments filed as Exhibit C to the affidavit of Catherine Griffin, in which it is repeated again and again that the GST is being adjusted on sales “as registrant did not remit GST on development charges that were part of the consideration of new homes sold to their customers”. In that context, I do not see that the amendments proposed by the respondent are necessarily inconsistent with the position previously taken at the audit stage or that they amount to a new basis of assessment rather than constituting an alternative argument in support of the assessment. Nor do I see what prejudice is suffered by the appellant, as it itself decided to act as it did, knowing perfectly well that it was at odds with the Minister on that matter.
+[42] In my view, an analysis of the agreements of purchase and sale and the adjustments relating thereto is imperative in order to determine whether GST was collected on the development charges or not. The proposed amendments will help in defining the real question in controversy and certainly raise a triable issue that must be determined in the interests of justice.
+[43] With respect to the prejudice that would arguably be suffered by the appellant at this stage of the proceedings, I do not see where the prejudice is. The fact that the appellant paid the amount assessed rather than providing security as permitted by subsection 314(2) of the ETA is not conclusive. If the appellant wins its appeal, the amount paid will be reimbursed, and if it loses, there will be no interest charged. Giving security would have entailed fees (see cross-examination of Catherine Griffin, pp. 20‑21). As for the time limit for claiming the rebate for tax paid in error, pursuant to subsection 261(1) of the ETA, it is my understanding that the time limit had expired at the time the Notice of Appeal was filed (see cross‑examination of Catherine Griffin, pp. 52‑54). The amendments to the pleadings will not change the position in which the appellant found itself in that regard when it filed its Notice of Appeal and a fortiori when the respondent filed her original Reply (see Canderel, supra, at par. 11). The appellant alleges a prejudice on the basis that the Minister should have put forward the alternative argument during the audit process. As mentioned above, the appellant was aware that it was taking a risk when it decided to stop remitting GST on the portion of the purchase price that related to the development charges. Further, the right to claim a rebate is not automatic and is a matter that will have to be discussed on the merits in light of the recent decision of the Supreme Court of Canada in United Parcel Service, supra, referred to by the appellant. It is my understanding that that case stands for the proposition that it is the person who makes the overpayment and is out of pocket for the GST who will be able to claim the rebate under subsection 261(1) of the ETA. This is a matter to be determined on the merits of the case, and not in an interlocutory motion.
+[44] With respect to timeliness, I do not find that the proposed amendments are being requested too late in the process. It is my understanding that the appellant had not completed its undertakings at the time the motion was presented. This situation is different than that in Seaspan International Ltd. v. R., 2001 CarswellNat 1877 (F.C.T.D.), referred to by the appellant, a case in which the motion to amend the statement of defence was dismissed in part because of the timing of the motion to amend. It was filed by the Crown after the parties had executed a statement of agreed facts for the purpose of having a question of law determined before trial, after a judgment of the Federal Court had determined that preliminary question of law, after the Federal Court’s decision had been affirmed by the Federal Court of Appeal, after an application for leave to appeal to the Supreme court of Canada had been dismissed, and after a date had been set for a hearing on the merits. The present situation is clearly distinguishable.
+[45] Finally, the respondent is entitled to advance an alternative argument in support of an assessment at any time pursuant to subsection 298(6.1) unless the conditions set out in paragraphs (a) and (b) have been met, which is not the case, as admitted by the appellant. Here, the respondent is not relying on transactions which did not form the basis of the assessment and is not attempting to collect tax exceeding the amount in the assessment under appeal.
+Conclusion
+[46] Relying on the tests stated in Canderel Ltd., supra, Andersen Consulting, supra, and Walsh, supra, I am satisfied that the proposed amendments to the Reply to the Notice of Appeal should be permitted.
+[47] The respondent’s motion is allowed with costs.
+Signed at Ottawa, Canada, this 22nd day of December 2010.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2010 TCC 657
+COURT FILE NO.: 2008-2571(GST)G
+STYLE OF CAUSE: GF PARTNERSHIP v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: December 22, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Irving Marks
+Michael Gasch
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Irving Marks
+Michael Gasch
+Firm: Robins Appleby & Taub LLP
+Barristers & Solicitors
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

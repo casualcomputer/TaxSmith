@@ -1,0 +1,151 @@
+---
+title: "Kondor c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98110/index.do"
+last_modified: "2014-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 303"
+citation2: ""
+neutral_citation: "2014 CCI 303"
+decision_date: "2014-10-15"
+language: "fr"
+item_id: "98110"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5181
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:42:20.277000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ee933857c302a8ab4abc1eb91fec04f246d1d53d01c3973bbed71ce7afaa639"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kondor c. La Reine
+
+- Citation: 2014 CCI 303
+- Decision date: 2014-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5181, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kondor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-15
+Référence neutre
+2014 CCI 303
+Numéro de dossier
+2014-1393(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1393(IT)I
+ENTRE :
+OHAD KONDOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 octobre 2014, à Toronto (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Darren Prevost
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’année d’imposition 2011 de l’appelant est rejeté sans frais.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 18e jour d’octobre 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 303
+Date : 20141015
+Dossier : 2014-1393(IT)I
+ENTRE :
+OHAD KONDOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Ohad Kondor s’est séparé de son épouse en 2010. En 2011, M. Kondor a supporté des frais juridiques de 12 171 $ relativement au partage des biens entre son épouse et lui. M. Kondor a déduit ces frais juridiques de son revenu lorsqu’il a produit sa déclaration de revenus pour 2011. Le ministre du Revenu national a refusé la déduction. M. Kondor a interjeté appel à l’encontre de ce refus.
+[2] M. Kondor détient 50 p. 100 des actions de DPX Capital Inc. (« DPX »). M. Kondor soutient que les frais juridiques ont été supportés en vue de tirer un revenu de l’entreprise de DPX. L’intimée soutient quant à elle que les frais juridiques étaient des frais personnels. À titre subsidiaire, l’intimée fait valoir que, si les frais juridiques ont été supportés pour gagner un revenu, ils ont été supportés en vue de tirer un revenu des actions de DPX, et non de l’entreprise de DPX, et ils sont imputables au capital.
+[3] Par conséquent, les questions en litige dans le présent appel sont les suivantes :
+a) M. Kondor a-t-il supporté les frais juridiques en vue de tirer un revenu de l’entreprise de DPX?
+b) Si ce n’est pas le cas, M. Kondor a-t-il supporté les frais juridiques en vue de tirer un revenu des actions de DPX?
+c) Si oui, les frais sont-ils imputables au revenu?
+Les frais juridiques ont-ils été supportés en vue de tirer un revenu de l’entreprise de DPX? [4] L’affirmation de M. Kondor selon laquelle les frais juridiques ont été supportés en vue de tirer un revenu de l’entreprise de DPX n’est pas fondée. Les frais juridiques ne peuvent pas avoir été supportés par M. Kondor en vue de tirer un revenu de l’entreprise de DPX, car M. Kondor n’exploite pas l’entreprise de DPX et n’en a donc pas tiré un revenu. M. Kondor détient un intérêt dans DPX en tant qu’actionnaire. Par conséquent, si les frais juridiques ont été supportés pour gagner un revenu, ils l’ont été en vue de tirer un revenu des actions de DPX.
+Les frais juridiques ont-ils été supportés en vue de tirer un revenu des actions de DPX? [5] Après s’être séparée de M. Kondor, son épouse a informé ce dernier que, en plus de certains autres biens, elle s’attendait à recevoir de lui 2 100 000 $ en espèces par suite du partage des biens du mariage. À ce moment‑là, les actions de DPX étaient le seul bien important que M. Kondor possédait. Il n’y avait pas de demande sur le marché pour ce genre d’actions, et son épouse n’était pas disposée à avoir des actions plutôt qu’un montant en espèces. Par conséquent, pour obtenir l’argent nécessaire, M. Kondor n’avait d’autre choix que de passer par DPX.
+[6] DPX emprunte de l’argent à des tiers (généralement les amis et les membres de la famille de M. Kondor et de l’autre actionnaire détenant l’autre moitié des actions de la société) et investit cet argent dans divers titres complexes. DPX prend des mesures pour se protéger contre les risques que comportent ces investissements. Les investissements sont fortement financés par emprunt. Bien que DPX croie que les risques que comportent ses investissements sont faibles, sa maison de courtage n’est pas du même avis. La maison de courtage examine donc régulièrement le compte de DPX pour s’assurer qu’il maintient une marge suffisante et, lorsqu’elle pense que la marge n’est pas suffisante, elle oblige DPX à dénouer certains de ses investissements ou à injecter des capitaux supplémentaires. À l’instar de la maison de courtage de DPX, les prêteurs ordinaires croient eux aussi que les investissements de DPX sont risqués. Par conséquent, DPX n’est pas en mesure d’emprunter des fonds à des prêteurs ordinaires.
+[7] M. Kondor a expliqué qu’en raison de ses positions fortement financées par emprunt, le retrait d’une telle somme d’argent de DPX dans un court délai aurait été désastreux pour DPX. De la même façon, cela aurait eu des conséquences désastreuses sur la valeur des actions que M. Kondor détenait dans DPX. Il a déclaré qu’il pouvait retirer les fonds nécessaires de DPX, mais que, s’il voulait le faire sans que cela ait d’incidence sur la valeur de la société, il devait le faire sur une longue période.
+[8] La stratégie que M. Kondor a adoptée pour régler ce problème a été de faire durer le plus longtemps possible les négociations avec son épouse au sujet du partage des biens. Il est parvenu à faire durer les négociations pendant environ trois ans et demi. M. Kondor a témoigné que les frais juridiques avaient été supportés pour retarder le partage des biens. M. Kondor fait valoir que les frais juridiques devraient donc être déductibles, car ils ont été supportés en vue de tirer un revenu des actions qu’il détenait dans DPX.
+[9] Conformément à l’obligation qui lui incombe en tant qu’officier de justice, l’avocat de l’intimée a attiré mon attention sur une décision rendue par l’ancien juge en chef Bowman, laquelle appuyait la position de M. Kondor. Dans l’affaire Muggli v. The Queen[1], l’appelant était un agriculteur qui se séparait de son épouse. L’épouse de l’appelant alléguait qu’elle avait droit à la moitié de la valeur de la ferme. L’appelant avait dépensé de l’argent pour faire évaluer la ferme et avait supporté des frais juridiques pour régler la question du partage des biens. L’appelant alléguait que l’argent avait été dépensé pour protéger son intérêt dans la ferme et donc pour lui permettre de continuer à tirer un revenu de son entreprise agricole. Le ministre soutenait que l’argent avait été dépensé pour supporter des frais personnels ou de subsistance. L’ancien juge en chef Bowman a statué qu’il existait « entre la conservation de la ferme, le principal gagne-pain de l’appelant, et les frais judiciaires qu’il a déduits un lien tel [qu’il] ne serai[t] pas justifié de rejeter sa demande de déduction en fonction de l’alinéa 18(1)a) seulement[2] ». Il a ensuite conclu que, bien que la dépense ait aussi eu un élément personnel, cet élément ne diminuait pas l’élément commercial. Il a mentionné que, lorsqu’une dépense vise un objectif commercial et un objectif personnel, il appartient à la Cour de déterminer lequel des deux objectifs prédomine. Je souscris au raisonnement suivi dans la décision Muggli.
+[10] L’intimée soutient que les frais juridiques avaient trait à la séparation de M. Kondor d’avec son épouse et qu’il s’agissait donc de frais personnels. L’intimée fait valoir que les frais juridiques constituaient des frais que M. Kondor aurait eu à payer qu’il ait été propriétaire des actions de DPX ou non. Je conviens que M. Kondor aurait eu à payer au moins certains frais juridiques relativement à la séparation, mais, selon la preuve dont je suis saisi, les frais en question ont été payés pour retarder le partage des biens, et non pour obtenir la séparation. L’intimée n’a pas contre‑interrogé M. Kondor sur ce point, préférant plutôt adopter comme position que tous les frais étaient des frais personnels. En fait, le ministre a formulé comme hypothèse de fait que les frais juridiques avaient été [traduction] « supportés et payés pour contester le paiement immédiat à [l’épouse de M. Kondor] du montant que [M. Kondor] devait relativement aux actions qu’il détenait dans DPX[3] ».
+[11] Compte tenu de ce qui précède, je conclus que M. Kondor a principalement supporté les frais juridiques pour protéger la valeur des actions qu’il détenait dans DPX. Par conséquent, je conclus que les frais ont été supportés en vue de tirer un revenu d’un bien.
+Les frais juridiques sont-ils imputables au revenu ou au capital? [12] Comme j’ai conclu que les frais juridiques avaient été supportés en vue de tirer un revenu des actions de DPX, il me reste maintenant à décider s’ils sont imputables au revenu ou au capital.
+[13] Dans la décision Muggli, ayant conclu que l’appelant avait dépensé les fonds en vue de gagner un revenu, l’ancien juge en chef Bowman a conclu sans hésiter que les fonds dépensés étaient imputables au capital, étant donné qu’ils avaient été dépensés pour préserver la propriété d’une immobilisation. Ce raisonnement s’applique tout autant en l’espèce. M. Kondor a supporté les frais juridiques afin de préserver la valeur de ses actions de DPX.
+[14] M. Kondor a allégué qu’il avait pour ainsi dire emprunté de l’argent à son épouse pendant trois ans et demi, que le coût de cet emprunt consistait dans les frais juridiques qu’il avait supportés et que ces frais devraient donc être déductibles au titre du revenu. J’admets qu’il s’agit de ce qu’il s’est produit sur le plan économique, mais l’impôt est fondé sur les opérations qui ont réellement eu lieu, et non sur la réalité économique de la situation (Shell Canada Limited c. La Reine[4]). M. Kondor n’a pas réglé le partage des biens pour ensuite emprunter de nouveau l’argent à son épouse. Il a payé les frais juridiques pour retarder le partage des biens et donc maintenir la valeur de ses actions de DPX. Par conséquent, la dépense n’a pas été effectuée pour emprunter de l’argent, mais plutôt pour préserver une immobilisation. Les frais sont donc imputables au capital.
+Conclusion [15] Compte tenu de tout ce qui précède, je conclus que les frais juridiques ont été supportés en vue de tirer un revenu des actions de DPX, mais qu’ils sont imputables au capital. L’appel est donc rejeté sans frais.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 18e jour d’octobre 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2014 CCI 303
+NO DU DOSSIER DE LA COUR :
+2014-1393(IT)I
+INTITULÉ :
+OHAD KONDOR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 15 octobre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Darren Prevost
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 1994 CarswellNat 929 (procédure informelle).
+[2] Décision Muggli, au paragraphe 8.
+[3] Réponse, à l’alinéa 11u).
+[4] [1999] 3 RCS 622.

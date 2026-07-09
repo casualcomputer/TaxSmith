@@ -1,0 +1,151 @@
+---
+title: "4340876 Canada Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120075/index.do"
+last_modified: "2014-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 351"
+citation2: ""
+neutral_citation: "2014 CCI 351"
+decision_date: "2014-11-24"
+language: "fr"
+item_id: "120075"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2713
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:37:31.973000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ed2808849d4146eae90bf4f3a2b5f693b76dc17e5066035de1f99365af5638c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4340876 Canada Inc. c. La Reine
+
+- Citation: 2014 CCI 351
+- Decision date: 2014-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2713, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4340876 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-24
+Référence neutre
+2014 CCI 351
+Numéro de dossier
+2014-410(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-410(GST)I
+ENTRE :
+4340876 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 15 octobre 2014, à Ottawa (Ontario).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l'appelante :
+Me Nicholas D’Aoust
+Avocate de l'intimée :
+Me Joelle Bitton
+JUGEMENT
+L’appel à l’encontre de la cotisation datée du 3 janvier 2013, établie en vertu de la partie IX de la Loi sur la taxe d’accise, pour la période du 1er janvier 2009 au 31 décembre 2010 est rejeté selon les motifs du jugement ci-joints.
+Signé à Toronto (Ontario), ce 24e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2014 CCI 351
+Date : 20141124
+Dossier : 2014-410(GST)I
+ENTRE :
+4340876 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Il s’agit d’un appel à l’encontre d’une cotisation établie le 3 janvier 2013 en vertu de la Loi sur la taxe d’accise (la « LTA ») par le biais de l’Agence du revenu du Québec (le « ministre »). Cette cotisation se rapporte à la période du 1er janvier 2009 au 31 décembre 2010 et concerne l’exploitation d’un restaurant connu sous le nom d’Olive & Co. (le « restaurant ») situé dans la ville de Gatineau, dans la province de Québec.
+[2] Par cette cotisation, l’intimée réclame un montant de taxe supplémentaire de 13 801,16 $, ainsi qu’une pénalité de 6 000 $ en vertu de l’article 285 de la LTA. Elle réclame également des intérêts de 3 204,96 $ relativement à des revenus additionnels qui n’auraient pas été déclarés par l’appelante, et estimés par le ministre à 180 600 $ pour la période se terminant le 31 décembre 2009, et à 94 455 $ pour celle se terminant le 31 décembre 2010.
+[3] La vérification a révélé que l’appelante utilisait des notes de repas manuscrites pour enregistrer les ventes pendant la période visée. La vérificatrice, Marie Carmel Nazon, assistée par sa chef d’équipe, Hélène Morand, a tenté, sans succès, de faire la conciliation des notes de repas avec les relevés de transactions bancaires et l’argent comptant déclaré par l’appelante.
+[4] À cette fin, les vérificatrices ont utilisé un échantillon de sept jours, procédant à la conciliation des ventes enregistrées par l’appelante en se servant du total des paiements provenant de diverses sources reçus par l’appelante. Les représentantes du ministre ont constaté plusieurs anomalies dans les notes de repas, de sorte qu’elles étaient dans l’impossibilité de faire la conciliation. D’une part, le total des notes de repas journalières pour la période de sept jours ne correspondait pas au total des relevés de transactions. D’autre part, il y avait des trous dans la séquence numérique des notes de repas, et plusieurs numéros étaient manquants. Mme Morand a témoigné qu’elle avait vérifié si les factures manquantes avaient pu être utilisées dans les journées suivantes. Elle avait constaté que ce n’était pas le cas. Finalement, les dates étaient également manquantes sur les notes de repas.
+[5] Face à ces irrégularités, les représentantes du ministre ont soupçonné l’appelante de ne pas avoir déclaré toutes les ventes faites au comptant durant la période visée. Elles ont donc utilisé une méthode de vérification indirecte pour reconstituer les ventes de l’appelante, et leur analyse a permis de constater que les ventes en argent comptant ont augmenté de façon substantielle à la suite de l’implantation dans l’établissement de restauration de l’appelante d’un système électronique d’enregistrement des ventes, conformément aux nouvelles obligations fiscales provinciales.
+[6] En effet, depuis au plus tard le 1er novembre 2011[1], l’article 350.52 de la Loi sur la taxe de vente du Québec (la « LTVQ ») oblige les exploitants des établissements de restauration situés au Québec à utiliser un module d’enregistrement des ventes (le « MEV »), lequel est sélectionné par l’Agence du revenu du Québec, pour enregistrer les données relatives aux opérations commerciales de ces établissements. Le MEV doit être relié au système électronique d’enregistrement des ventes de l’établissement et doit pouvoir transmettre à une imprimante de reçus l’information nécessaire à l’impression des factures. Également, les exploitants des commerces de restauration sont maintenant dans l’obligation de remettre une copie des factures à leurs clients lors de la fourniture d’un repas.
+[7] Dans le but de se conformer à ces nouvelles mesures, l’appelante a installé et activé un MEV au cours du mois d’avril 2011.
+[8] À partir de cette date, et pour l’année ayant suivi immédiatement la période visée en l’espèce, les ventes enregistrées de l’appelante payées en numéraire ont constitué 20,31 % des ventes totales du commerce pour l’année. Pour les quatre premiers mois de 2012, ce pourcentage s’est élevé à 19,08 %. Or, selon les déclarations de l’appelante, pour les périodes se terminant le 31 décembre 2009 et le 31 décembre 2010, les ventes réglées en liquide représentaient 10,44 % et 9,27 % respectivement.
+[9] À la suite de ces constats, les représentantes du ministre ont reconstitué les ventes de l’entreprise pour les périodes en cause en augmentant les ventes en argent comptant à 20 %, les faisant ainsi correspondre à la moyenne des ventes au comptant pour la période du 1er janvier 2011 au 6 avril 2012.
+[10] Lors de son témoignage, Mme Morand a expliqué que la vérificatrice a commis une erreur de calcul au profit de l’appelante pour la période se terminant le 31 décembre 2010. En effet, la vérificatrice a majoré le total des dépôts par cartes en appliquant le facteur des ventes reconstituées soit 28 %, chiffre comprenant les pourboires. Mme Morand a ensuite indiqué que la vérificatrice aurait dû plutôt majorer le total des dépôts par cartes par un facteur de 1,38 pour ainsi mieux reconstituer les ventes totales de l’entreprise pour cette période[2].
+[11] Par suite de cette erreur de calcul, le ministre a sous-estimé d’un montant de 108 874,01 $ les ventes non déclarées de l’appelante pour la période se terminant le 31 décembre 2010. Le ministre a cependant choisi de ne pas corriger sa cotisation.
+[12] Mario Ménard, président de l’appelante, a témoigné pour cette dernière lors de l’audience. Selon lui, les ruptures dans les séquences numériques des notes de repas constatées par les représentantes du ministre s’expliquent par le fait que les employés de l’établissement n’utilisent pas dans une journée toutes les factures dans les carnets qui leur sont donnés.
+[13] Un carnet de factures contient 50 formulaires (notes de repas). M. Ménard a expliqué qu’il avait l’habitude de regrouper les notes de repas non utilisées par groupes de 50 qu’il remettait ensuite aux employés de nouveau afin qu’ils les utilisent. Par conséquent, d’après lui, hormis quelques factures qui auraient été emportées par les clients de l’établissement, les factures manquantes pour la période de sept jours choisie par la vérificatrice comme échantillon auraient été utilisées dans une période subséquente. L’appelante n’a toutefois produit aucune preuve documentaire pour corroborer le témoignage de M. Ménard. J’estime que, si l’explication de M. Ménard était exacte, l’appelante aurait pu mettre en preuve les factures manquantes afin d’établir qu’il n’y a pas eu de dissimulation de ventes.
+[14] Par ailleurs, l’appelante aurait pu faire témoigner un des serveurs de l’établissement afin de corroborer le témoignage de M. Ménard.
+[15] M. Ménard a également témoigné que l’année 2011 était exceptionnelle quant au pourcentage des ventes payées en argent comptant. Selon M. Ménard, l’économie dans la région de Gatineau était morose en 2011. Les clients de l’établissement ont donc privilégié le paiement en liquide en réaction aux conditions économiques locales difficiles. Cette explication ne me semble pas plausible puisque je constate que les ventes de l’entreprise ont progressé de 11,5 % de 2010 à 2011. Cette augmentation n’est pas conciliable avec une conjoncture difficile.
+[16] À mon avis, il ne s’agit pas d’une coïncidence si l’appelante a enregistré une augmentation substantielle des ventes à la suite de l’implantation du MEV en avril 2011.
+[17] Serge Lafortune, le comptable externe de l’appelante, a aussi témoigné pour l’appelante. Il a tenté de démontrer que la vérificatrice a commis des erreurs importantes dans ses calculs des ventes reconstituées de l’entreprise pour la période visée. Cependant, hormis l’erreur de calcul commise au profit de l’appelante pour la période se terminant le 31 décembre 2010, M. Lafortune ne m’a pas convaincu que le calcul des ventes reconstituées de l’appelante était erroné.
+[18] À titre d’exemple, M. Lafortune a déclaré que la vérificatrice a omis de tenir compte du montant des ventes au comptant enregistrées par l’appelante. Cette affirmation est inexacte. La vérificatrice a choisi plutôt de présenter les ventes au comptant sous deux postes, soit les dépôts bancaires tels qu’ils étaient enregistrés dans les comptes bancaires de l’appelante et les achats payés en argent comptant à même les sommes perçues en liquide par l’entreprise. L’autre erreur décrite par M. Lafortune n’affecte pas le calcul des ventes reconstituées.
+[19] L’avocat de l’appelante a fait valoir qu’une méthode de vérification alternative ne pouvait pas être utilisée dans la présente affaire parce que l’appelante possédait l’ensemble de ses registres comptables et la vérificatrice n’a trouvé aucun écart important dans l’information enregistrée par l’appelante.
+[20] Avec égards, il est bien établi que le ministre peut recourir à des méthodes alternatives lorsqu’il y a des lacunes dans les méthodes employées par les contribuables pour enregistrer leurs ventes. Dans le cas à l’étude, la vérification a permis à la représentante du ministre de découvrir des anomalies importantes relatives aux notes de repas utilisées pour enregistrer les ventes de l’entreprise au cours de la période visée.
+[21] Tel qu’il est souligné ci-dessus, l’appelante était en mesure d’apporter une preuve documentaire visant à corroborer le témoignage de M. Ménard concernant l’utilisation des factures manquantes dans une période subséquente. En effet, l’appelante savait que les factures manquantes étaient une des raisons principales ayant conduit le ministre à recourir à une méthode alternative. En l’absence d’une preuve corroborante, je suis obligé de tirer une conclusion défavorable à l’appelante.
+[22] Compte tenu de la preuve présentée, je suis persuadé que le ministre était justifié d’utiliser une méthode indirecte pour déterminer les ventes payées au comptant pendant la période à l’étude.
+[23] L’avocat de l’appelante a attaqué la fiabilité de la méthode alternative en faisant valoir que les ventes payées en numéraire auraient dû être calculées en utilisant une moyenne des ventes au comptant de 13,55 % pour les années d’imposition 2009, 2010 et 2011. À mon avis, comme la preuve démontre que l’appelante n’a pas déclaré toutes ses ventes au comptant en 2009 et en 2010, il serait inapproprié de tenir compte des moyennes des ventes au comptant pour la période visée.
+[24] La preuve démontre des omissions importantes et répétées dans les déclarations de taxe sur les produits et services, soit des omissions consistant en des ventes non déclarées de 180 600 $ et de 94 455 $ pour les années d’imposition 2009 et 2010 respectivement. Il en résulte que la seule conclusion possible est que l’appelante a dissimulé intentionnellement une partie importante de ses ventes au comptant pour la période visée. Ceci équivaut à une faute lourde qui justifie l’imposition par le ministre d’une pénalité en vertu de l’article 285 de la LTA.
+[25] Pour ces motifs, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 24e jour de novembre 2014.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2014 CCI 351
+Nº DU DOSSIER DE LA COUR :
+2014-410(GST)I
+INTITULÉ DE LA CAUSE :
+4340876 CANADA INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 octobre 2014
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 24 novembre 2014
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Nicholas D’Aoust
+Avocate de l'intimée :
+Me Joelle Bitton
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Nicholas D’Aoust
+Cabinet :
+D’Aoust Légal
+Gatineau (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Le Décret 641-2010, (2010) G.O.Q. II, 3229, édicte que la date de l’entrée en vigueur de l’art. 350.52 de la LTVQ est fixée au 1er novembre 2011 ou, si elle est antérieure à celle-ci, à la date où, après le 31 août 2010, un exploitant active un MEV dans un établissement de restauration.
+[2] En utilisant ce facteur, les ventes brutes totales de l'entreprise auraient été de 1 567 494,06 $ plutôt que de 1 444 602,52 $.

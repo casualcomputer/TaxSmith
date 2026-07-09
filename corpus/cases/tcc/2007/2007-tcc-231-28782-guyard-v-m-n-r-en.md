@@ -1,0 +1,237 @@
+---
+title: "Guyard v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28782/index.do"
+last_modified: "2007-05-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 231"
+citation2: ""
+neutral_citation: "2007 TCC 231"
+decision_date: "2007-05-23"
+language: "en"
+item_id: "28782"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1503
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:05:02.225000+00:00"
+cases_cited_count: 4
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3750a92816d1b8c9d6e70c9677076ca05b9b3b7e9e4098a514422326595d7fd6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guyard v. M.N.R.
+
+- Citation: 2007 TCC 231
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1503, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guyard v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-23
+Neutral citation
+2007 TCC 231
+File numbers
+2006-872(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-872(EI)
+BETWEEN:
+JEAN GUYARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 7, 2007, at Québec, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal under the Employment Insurance Act is allowed, and the decision of the Minister of National Revenue is varied on the basis that the work performed by the appellant was not insurable employment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of May 2007.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 11th day of October 2007.
+Michael Palles, Reviser
+Citation: 2007CCI231
+Date: 20070523
+Docket: 2006-872(EI)
+BETWEEN:
+JEAN GUYARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the "Minister") according to which the employment held by the appellant with the transition committee of the agglomeration of Québec (the "Committee") was insurable employment within the meaning of the Employment Insurance Act (the "Act"). This decision, which concerns the 2004 and 2005 taxation years, was rendered on the basis of the argument that the appellant, as a member of the Committee, held an office within the meaning of paragraph 6(f) of the Employment Insurance Regulations (the "Regulations") and subsection 2(1) of the Canada Pension Plan (the "Plan").
+[2] The Employment Insurance premiums at issue are the following:
+Year
+EI premiums
+Penalty
+Interest
+Total
+2004
+$9,883.27
+$938.32
+$202.01
+$11,023.60
+2005
+$6,824.90
+$632.49
+$63.89
+$7,521.28
+[3] The Committee was appointed by the Minister of Municipal Affairs, Sports and Recreation of Quebec under the Act respecting the consultation of citizens with respect to the territorial reorganization of certain municipalities. The Committee is a legal person (corporation) and a mandatary (agent) of the Quebec government. The appellant was appointed a member of this Committee by an order in council on June 20, 2004. The Committee was to see to the demerger of the former towns of Ancienne Lorette and St-Augustin and facilitate the division of human, financial and physical resources of the successor municipal administrations. In his duties for the Committee, the appellant was responsible for computers and buildings.
+[4] The appellant signed an agreement specifying the conditions of his appointment, which were as follows:
+[translation]
+Remuneration and other conditions of employment of Jean Guyard as member of a transition committee for the territorial reorganization of certain municipalities.
+1. Purpose
+Act as a member of the transition committee of the city of Québec, hereafter the Committee, appointed under the Act respecting the consultation of citizens with respect to the territorial reorganization of certain municipalities (2000, chapter 14), under the responsibility of the Chairperson of the Committee.
+2. Duration
+The duties to be performed by Jean Guyard as a member of the Committee begin on June 21, 2004, and end on the date of the dissolution of the Committee, subject to the provisions of section 6.
+3. Professional fees
+From the date of the beginning of the performance of his duties, Jean Guyard will be paid professional fees of $678 per day for a minimum of 8 hours of work per day and a maximum of 261 days per year, upon submission of a professional fees invoice. These professional fees correspond to those to be paid to Jean Guyard as a Committee member, after deduction of the equivalent of half of the retirement pension he is currently receiving for his years of service in the Quebec public service.
+This rate of pay includes any increase to compensate for the lack of fringe benefits (vacation, sick leave, other leave, employer contributions to fringe benefits and other fringe benefits).
+4. Expenses
+4.1 Travel and accommodation expenses
+For travel and accommodation expenses incurred for the purposes of his employment, the Committee will reimburse Jean Guyard in accordance with the rules applicable to members of public bodies as specified by the government by Order in Council No. 2500-83 dated November 30, 1983, taking into account any amendments that have been or will be made thereto.
+4.2 Entertainment expenses
+Upon presentation of supporting documentation, Jean Guyard will be entitled to the reimbursement by the Committee of all expenses incurred in the performance of his duties up to an amount of $2,415, in accordance with the rules applicable to executive officers of public bodies, which were enacted by the government by Order in Council No. 1308-80, dated April 28, 1980, taking into account any amendments that have been or will be made thereto.
+5. Ethics and rules of professional conduct
+Jean Guyard must abide by all standards of ethics and rules of professional conduct applicable to public administrators under the Regulation respecting ethics and discipline in the public service, in a schedule to Order in Council No. 924-98, dated June 17, 1998, taking into consideration any amendments that have been made or will be made thereto.
+6. Termination
+This agreement expires on the date specified in section 2, subject however to the following provisions:
+6.1 Resignation
+Jean Guyard may resign from his position as Committee member, without penalty, by giving one month's written notice.
+Notice of resignation must be sent to the Minister of Municipal Affairs, Sports and Recreation.
+6.2 Dismissal
+Jean Guyard also agrees that the Minister may cancel this agreement at any time, without notice or compensation, for malversation, maladministration, gross fault or any ground of equal seriousness, the proof of which lies upon the government.
+This agreement may also be resiliated by the Minister at any time for a breach of the standards of ethics and professional conduct, pursuant to the regulation mentioned in section 5.
+7. Any verbal agreement not included in this document is null and void.
+[5] The Committee had an office in Ste-Foy, but its members could work from home. Every member could determine his or her own working days. It was admitted that the work was performed by the appellant and the other members under a contract for services.
+[6] Therefore, at issue is whether the appellant held insurable employment within the meaning of the Act, or more specifically, whether the appellant held an office within the meaning of paragraph 6(f) of the Regulations and subsection 2(1) of the Plan.
+[7] The appellant submits that, because there is no employer–employee relationship between him and the Committee, this is not insurable employment within the meaning of the Act. In support of this argument, he cites an excerpt from a letter sent to him by the team supervisor for Employment Insurance and Canada Pension Plan appeals, in which it was specified that his employment did not meet the requirements of a contract for services because there was no employer–employee relationship. He adds that, because he regularly collected the GST and QST on his professional fees and performed other tasks for other organizations during his mandate, he did not hold employment but was rather self-employed.
+[8] However, it must also be noted that, in the same letter written by the team supervisor to the appellant, it was specified that his employment was insurable because he held an office for the Committee.
+[9] For his part, the respondent pleads the position taken by the team supervisor, to the effect that the three conditions specified in the Regulations and the Plan have been met. These three conditions are as follows:
+(1) The position must entitle the individual to a fixed or ascertainable stipend or remuneration;
+(2) The office held must be with a corporation that is an agent of a province (which is admitted);
+(3) The province concerned must be one whose government has agreed to insure all of its employees.
+[10] Therefore, the respondent submits that the appellant's remuneration was "fixed or ascertainable" because the appellant could determine on what days he would work, provided that he worked at least eight hours per day according to the established per diem rate. As far as the third condition is concerned, the respondent submits that it was not necessary to have a formal agreement for each employment and that such an agreement may be tacit. The respondent adds that it would be excessive to require that an agreement be negotiated every time the government of a province or one of its agents finds itself in a situation where its members holds an office, because in any event, according to the respondent, the Act does not require such an agreement.
+[11] The starting point is paragraph 5(2)(c) of the Act, which provides that insurable employment does not include employment in Canada by Her Majesty in right of a province. However, the Act provides for exceptions which allow certain kinds of employment specified in regulations made under subsections 5(4) and 5(5) of the Act to be included in the category of insurable employment.
+[12] The exceptions relevant to the present case are found in paragraphs 5(4)(d) and (g), which read as follows:
+(4) Regulations to include employment — The Commission may, with the approval of the Governor in Council, make regulations for including in insurable employment
+(d) employment in Canada by Her Majesty in right of a province if the government of the province waives exclusion and agrees to insure all its employees engaged in that employment;
+(g) the tenure of an office as defined in subsection 2(1) of the Canada Pension Plan.
+[13] Therefore, under paragraph 5(4)(g), the Commission may make regulations for including in "insurable employment" an office within the meaning of subsection 2(1) of the Plan, which defines "office" as follows:
+“office” means the position of an individual entitling him to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a lieutenant governor, the office of a member of the Senate or House of Commons, a member of a legislative assembly or a member of a legislative or executive council and any other office the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity, and also includes the position of a corporation director, and “officer” means a person holding such an office;
+[14] Therefore, the Regulations made under the Act provide for the inclusion of an office in insurable employment. The relevant provisions of the Regulations are subsections 2(1) and 2(2) and subparagraphs 6(f)(ii) and 6(f)(iii), which read as follows:
+Section 2
+(1) Employment in Canada by Her Majesty in right of a province that would, except for paragraph 5(2)(c) of the Act, be insurable employment is included in insurable employment if the government of the province enters into an agreement with the Commission whereby that government agrees to waive exclusion and to insure all its employees engaged in such employment.
+(2) For greater certainty, employment in Canada by Her Majesty in right of a province, for the purposes of subsection (1), includes only employment in Canada of employees who are appointed and remunerated under an Act governing that province's public service, or who are employed in Canada by a corporation, commission or other body that is an agent of Her Majesty in right of the province.
+Section 6
+Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+(f) employment of a person who holds an office, as defined in subsection 2(1) of the Canada Pension Plan
+(ii) where the person is appointed and remunerated under an Act governing the public service of a province, the government of which has, pursuant to subsection 2(1), agreed to insure all of its employees
+(iii) where the person holds the office in or under a corporation, commission or other body that is an agent of Her Majesty in right of a province referred to in subparagraph (ii),
+[15] This is the basis for the three conditions referred to above. It is admitted, as has already been mentioned, that the appellant holds office with a corporation (the Transition Committee of the Agglomeration of Québec) which is an agent of the Quebec government. Moreover, the Act respecting the consultation of citizens with respect to the territorial reorganization of certain municipalities provided for this in section 52. Therefore, subparagraph 6(f)(ii) and subsection 2(1) of the Plan must be analyzed to determine whether the appellant held employment for which he was entitled to fixed or ascertainable remuneration and whether the Quebec government had made an agreement with the Commission to insure all of its employees.
+[16] With regard to this last condition, in Payette v. Canada, [2002] T.C.J. No. 386, Dussault J. concluded that, because the word "agreed" has been used in subparagraph 6(f)(ii) and in subsection 2(1) of the Regulations, this presupposes that there is an agreement between the Commission and the provincial government to insure its employees, more specifically, an agreement which would make the offices held with the body in question insurable. He wrote the following at paragraph 33:
+33 It is quite clear that an agreement implies consent to something by two or more parties. An Order in Council is a unilateral action that does not meet the minimum requirement of an agreement between two governments set out in subsection 2(1) of the Regulations. Failing evidence of an agreement between the Quebec government and the Canada Employment Insurance Commission that insured the appellants, the members of the review committee formed by the Commission des services juridiques, the Court considers that subparagraph 6(f)(iii) of the Regulations cannot be applied to this case.
+[17] It is also important to cite the excerpts which explain the line of reasoning followed by Dussault J. in reaching this conclusion. I reproduce paragraphs 27 and 28 here:
+27 There is more. Even if the Court assumed that the members of the review committee held an office as defined in subsection 2(1) of the Canada Pension Plan, the Court considers that subparagraph 6(f)(iii) of the Regulations cannot be applied to this case. Under subparagraph 6(f)(iii) of the Regulations, the office must be "in or under a corporation, commission or other body that is an agent of Her Majesty in right of a province". Subparagraph 6(f)(ii) of the Regulations refers to "a province, the government of which has, pursuant to subsection 2(1), agreed to insure all of its employees". Under subsection 2(1) of the Regulations, employment otherwise excluded under paragraph 5(2)(c) of the Act shall be included in insurable employment "if the government of the province enters into an agreement with the Commission whereby that government agrees to waive exclusion and to insure all its employees engaged in such employment."
+28 From the outset, the Court cannot fail to underscore that the wording of the Regulations is hardly a model of clarity. Although subsection 2(1) of the Act defines the word "employment" as "the act of employing or the state of being employed", paragraph 6(f) of the Regulations begins with the words, " . . . employment of a person who holds an office, as defined in subsection 2(1) of the Canada Pension Plan . . . ". Thus, although the holder of an office is not an employee, this wording suggests that the holder of an office nevertheless holds employment. It may be added here, as counsel for the respondent has noted, that the word "employment" has been interpreted to include more than work performed under a contract of service or a master-servant relationship and may designate, more generally, an occupation. On this point, reference may be made to the Federal Court of Appeal decision in Sheridan v. Canada (Minister of National Revenue-M.N.R.) (F.C.A.), [1985] F.C.J. 230, in which that Court relied on two Supreme Court of Canada decisions: The Queen v. Scheer Limited, [1974] S.C.R. 1046; and Martin Service Station v. The Minister of National Revenue, [1977] 2 S.C.R. 996. The word "employment" used at the beginning of paragraph 6(f) of the Regulations obviously has a broader meaning. However, the ambiguity remains in subparagraph 6(f)(ii) because an office is included in insurable employment if the government of a province has, pursuant to subsection 2(1) of the Regulations, agreed to insure all of its employees. The ambiguity persists in subparagraph 6(f)(iii), which refers to a province referred to in subparagraph 6(f)(ii), that is, a province of which the government has, pursuant to subsection 2(1) of the Regulations, agreed to insure all of its employees. One may certainly, and rightly, ask if the expression "all of its employees" covers the holders of an office referred to in an agreement required under subsection 2(1) of the Regulations or if the agreement must be specific on this aspect. In the present appeals, however, this question need not be answered since, as will be seen, there is no evidence that there is any agreement between the Quebec government and the Canada Employment Insurance Commission.
+29. . . .
+Nevertheless, the Court considers that subparagraph 6(f)(iii) does not apply to this case since there is no evidence of any agreement between the Quebec government and the Canada Employment Insurance Commission whereby the Quebec government would have agreed "to waive exclusion and to insure all its employees engaged in such employment". Such an agreement is an essential condition set out in subparagraph 6(f)(iii) of the Regulations by reference to subparagraph 6(f)(ii) and to subsection 2(1) of the Regulations.
+[18] The same situation exists in the present case. The respondent submits that paragraph 5(4)(d) authorizes the Commission to make regulations to include in insurable employment all provincial employees engaged in such employment if that province agrees to waive the exclusion, such that it is not specified anywhere in the Act that there must be an agreement. According to the respondent, the orders in council submitted are evidence that employment with the Quebec government became insured employment. The respondent acknowledges that there was no agreement and submits that the orders in council are sufficient. In the alternative, the respondent submits that such an agreement is implied, as it must be acknowledged that Quebec government employers have been insuring their employees for a number of years. Accordingly, the condition specified in subparagraph 6(f)(iii) has been met.
+[19] Paragraph 5(4)(g) is the provision that allows the Commission to make regulations to include an office in insurable employment. Under subsection 2(2) of the Regulations, subsection 2(1) applies only to employees who are appointed and remunerated under an Act governing a province's public service where they are employed by a corporation that is an agent of Her Majesty. Subsection 2(1) specifically states that employment of this sort is insurable employment if the government of the province enters into an agreement with the Commission whereby that government agrees to waive exclusion and to insure all its employees engaged in such employment.
+[20] When the provisions of subsection 2(1) of the Regulations are applied to subparagraphs 6(f)(iii) and 6(f)(ii), reference is always made to the government of the province that has entered into an agreement to insure all its employees. I have studied the orders in council submitted in evidence to the Court, and they are the same ones that were adduced in evidence in Payette, supra.
+[21] I agree with the remarks of Dussault J. at paragraph 33, where he concluded that it is quite clear that an agreement implies consent to something by two or more parties. An order in council is a unilateral action which does not meet the minimum requirement of an agreement between two governments, as required under subsection 2(1) of the Regulations. Dussault J. continued by stating that, failing evidence that there was an agreement between the Quebec government and the Commission that insured the appellant in that case, subparagraph 6(f)(iii) of the Regulations cannot apply. In my opinion, the situation in the case at bar is the same, and I reach the same conclusion.
+[22] Given my conclusion, it would not be necessary to analyze the last condition, but I do think it is important for the purposes of this case to analyze it anyway. Was the appellant entitled to "fixed or ascertainable" remuneration in the performance of his duties for the Committee within the meaning of the definition of "office" in subsection 2(1) of the Plan? I am of the opinion, like Dussault J. in Payette, supra, that the case law concerning the definition of "office" found in the Income Tax Act applies in the case at bar.
+[23] In answer to the question as to what was Parliament's intent when it used the words "fixed or ascertainable", counsel for the respondent submits that the intention was to include the situation where a person appears for the most part to be an employee, except insofar as this office holder is unsupervised. According to counsel for the respondent, a person who earns $10 per hour or $678 per day receives fixed remuneration. By determining the number of days he worked on the basis of the work to be performed, the appellant was able to determine the amount of his remuneration with a minimum degree of accuracy. According to counsel for the respondent, this situation can be distinguished from cases dealing with the same issue, especially Payette, supra, and Guérin v. M.N.R., 52 DTC 118, Mackeen v. M.N.R., 67 DTC 281 and Merchant v. The Queen, 84 DTC 6215.
+[24] Merchant, supra, summarizes the current state of the law on this issue. In this judgment of the Federal Court of Appeal, Reed J.A. decided this question as follows:
+In [sic] the opening words of the definition of "office" in section 248(1), however, are not inclusive in nature; they impart a mandatory aspect to the definition. In order to be classified as income from an office the remuneration must be fixed and ascertainable.
+I was referred to the decision of the Tax Appeal Board in MacKeen v. Minister of National Revenue 67 DTC 281 in which it was held that a person appointed to a Royal Commission was not an office holder for income tax purposes. The terms of his appointment were that he would be paid $100.00 per day as well as $20.00 per day while absent from his home and his actual out of pocket transportation costs. The Tax Appeal Board held that the income he received was business income and not attributable to the holding of an office. This decision was reached for a number of reasons (e.g. the position of commissioner was not a permanent one and the taxpayer had agreed, at the time of his appointment, to the travel expense amounts provided for by the government). Accordingly, I do not place too much emphasis on that part of the judgment which held the taxpayer's income not to be ascertainable. Indeed, I think such income is ascertainable. I take that word to mean that the amount to be paid is capable of being made certain, or capable of being determined but not that a definite sum be known by the office holder at the commencement of holding office. The word has to have some meaning beyond 'fixed' or else it is completely redundant.
+The decision in Guérin v. Minister of National Revenue 52 DTC 118, by the Tax Appeal Board, was also cited to me. In that case, income received by a judge who temporarily ceased acting in a judicial capacity and took up sitting as a chairman of various arbitration boards was not held to be income from an office. In that case, the taxpayer was paid a stipulated amount for each sitting but there was no way of knowing the number of sittings any given board would have nor the number of boards on which the appellant would sit. The Tax Appeal Board held that as long as the number of sittings was indeterminate, the remuneration for the office could not be said to be ascertainable and therefore the income must be treated as business income, at p. 121:
+By "position entitling one to a fixed or ascertainable stipend or remuneration" Parliament, in my opinion, meant a position carrying such a remuneration that when accepting it a person knows exactly how much he will receive for the services he is called upon to render . . .
+I am not convinced that at the time of taking office the taxpayer must know how much he will receive. It seems to me a per diem rate, or a specified amount per sitting renders the income sufficiently ascertainable to meet the definition in section 248(1). However, there are other factors in the Guérin case which make the income unascertainable and in my view should have served as the focus of that decision:
+It has been established that the appellant must himself pay for the services of a part-time secretary and that he must also pay for the stationery he needs, for the use of a typewriter and all other supplies . . . It has been further established that the appellant is often called upon to pay the transportation of his secretary and other persons acting as advisers and that often-times he has to pay for the meals of his assistants and advisers.
+These it seems to me are the crucial factors in making the remuneration received, as a result of holding the position of arbitrator, not ascertainable.
+[25] Reed, J. seems to be of the opinion that a per diem rate is sufficient to make the remuneration "fixed" or "ascertainable" so as to meet the definition in the Income Tax Act, but he adds that there are other factors to be considered which may make the remuneration less "ascertainable". In that case, he referred to a multitude of expenses which consequently made the remuneration not "ascertainable". In fact, it was on this point that Dussault J., in Payette, supra, was not of the same opinion. He stated that "stipend" and "remuneration" mean gross income, not income net of expenses. Dussault J. suggested that if the remuneration is not fixed, it had to be determined with a minimum degree of accuracy by using some kind of formula. I quote the following passage at paragraph 24 of the decision:
+24 However, in commenting on the decision in Guérin (supra), Reed J. appears to assume that in that case the remuneration was not ascertainable mainly because of the expenses the appellant was obliged to incur. The Court does not agree with that position. The words "stipend" and "remuneration" mean gross income, not income net of expenses. This is clear from the wording of subsection 5(1) of the Income Tax Act. As well, the Court considers that the descriptor "ascertainable" must refer to something that can be ascertained a priori; otherwise it would have no meaning since everything can be ascertained a posteriori. Thus if the "stipend" or "remuneration" is not fixed, it must still be ascertainable in advance with at least some degree of accuracy by using some formula or by referring to certain set factors. The Court considers that this is the meaning of the decisions in Guérin and MacKeen (supra).
+[Emphasis added.]
+[26] In this case, it is clear that the appellant knows his remuneration, since it is based on a pre diem rate with a minimum of eight hours of work per day. However, he did not know the number of days he would have to work per year, except that it must not exceed 261 days. In his case, his travel, accommodation and entertainment expenses are reimbursed, which will not affect his remuneration, except if all these expenses exceed the applicable limits.
+[27] That being said, in my opinion, the definition must be analyzed as a whole. In my view, when Parliament added a list of positions that it would consider to be offices after the words "entitling him to a fixed or ascertainable stipend or remuneration", it stated its intention to include only those taxpayers whose occupations were permanent in nature or had some element of permanence and continuity, if not exclusiveness.
+[28] Moreover, this position was studied in Guérin and Mackeen, supra. In Guérin, Chairman Monet of the Tax Review Board wrote the following on this point:
+I also believe that "office" as defined, implies continuity and permanence; it can certainly not be said that there is continuity or permanence in the duties of a member of an arbitration board.
+[29] In Mackeen, Commissioner Boisvert quoted the following excerpt:
+G.S.A. Wheatcroft in The Law of Income Tax, Surtax and Profits Tax (1962), at page 1057, 1-107, says that: "The word "office" denotes a subsisting, permanent, substantive position which has an existence independent of the person who fills it, and which goes on and is filled in succession by successive holders." Acting as a commissioner on a special and limited as to terms and duration, has none of the characteristics of an office or an employment.
+[30] The idea of permanence underlying an office seems to me to be part of the analysis which must be conducted in determining this issue. Therefore, the remuneration must be analyzed to determine if it is fixed or ascertainable according to the criteria in Merchant and Payette, and the permanent, continuous and exclusive nature of the occupation must be considered. In my opinion, this position is consistent with the principles of interpretation applicable to tax statutes found in Imperial Oil Ltd. v. Canada, 2006 SCC 46, at paragraphs 24 to 29, which I cite here:
+D. Principles of Interpretation Applicable to Tax Statutes
+24 This Court has produced a considerable body of case law on the interpretation of tax statutes. I neither intend nor need to fully review it. I will focus on a few key principles which appear to flow from it, and on their development.
+25 The jurisprudence of this Court is grounded in the modern approach to statutory interpretation. Since Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, the Court has held that the strict approach to the interpretation of tax statutes is no longer appropriate and that the modern approach should also apply to such statutes:
+[T]he words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act . . . .
+(E. A. Driedger, Construction of Statutes (2nd ed. 1983), at p. 87; Stubart, at p. 578, per Estey J.; Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001 SCC 62, at para. 36, per Iacobucci J.)
+26 Despite this endorsement of the modern approach, the particular nature of tax statutes and the peculiarities of their often complex structures explain a continuing emphasis on the need to carefully consider the actual words of the ITA, so that taxpayers can safely rely on them when conducting business and arranging their tax affairs. Broad considerations of statutory purpose should not be allowed to displace the specific language used by Parliament (Ludco, at paras. 38-39).
+27 The Court recently reasserted the key principles governing the interpretation of tax statutes — although in the context of the “general anti-avoidance rule”, or “GAAR” — in its judgments in Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC 54, and Mathew v. Canada, [2005] 2 S.C.R. 643, 2005 SCC 55. On the one hand, the Court acknowledged the continuing relevance of a textual interpretation of such statutes. On the other hand, it emphasized the importance of reading their provisions in context, that is, within the overall scheme of the legislation, as required by the modern approach.
+28 In their joint reasons in Canada Trustco, the Chief Justice and Major J. stated at the outset that the modern approach applies to the interpretation of tax statutes. Words are to be read in context, in light of the statute as a whole, that is, always keeping in mind the words of its other provisions:
+It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole. [para. 10]
+29 The Chief Justice and Major J. then addressed the underlying tension between textual interpretation, taxpayers’ expectations as to the reliability of their tax and business arrangements, the legislature’s objectives and the purposes of specific provisions or of the statute as a whole:
+As a result of the Duke of Westminster principle (Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.)) that taxpayers are entitled to arrange their affairs to minimize the amount of tax payable, Canadian tax legislation received a strict interpretation in an era of more literal statutory interpretation than the present. There is no doubt today that all statutes, including the Income Tax Act, must be interpreted in a textual, contextual and purposive way. However, the particularity and detail of many tax provisions have often led to an emphasis on textual interpretation. Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe. [para. 11]
+[31] These excerpts show that it is important to interpret the definition described in the Plan by reading the terms in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+[32] According to counsel for the respondent, Parliament's intention was to cover the situation of a person that closely resembles employment but is not employment because the incumbent of the office is not supervised. It could also be said that the person holding this office is also denied the reimbursement of certain expenses which are not paid to self-employed persons who operate their own businesses and incur expenses to earn income. For these reasons, the Income Tax Act makes this distinction between income from employment or an office and income from a business. In the context of the current market, the definition of "office" is increasingly difficult to apply.
+[33] In the case at bar, the appellant is a retired urban planner who offers his services as a consultant. His services are retained on a basis of eight hours per day at a per diem rate determined by the Committee. The appellant determines his own days of work for a maximum of 261 days per year. He may work at home or at the Committee office. He must submit a professional fees invoice in order to be paid and is registered for the Goods and Service Tax. He is a professor at Université Laval and does contract work for other municipalities while being a member of the Committee. He manages his time and plans his work accordingly. The Committee for which he rendered services was created for a short period of time, whereas members of a legislative assembly, members of the Senate or the Lieutenant-Governor, for example, hold offices that exist independently of their incumbents. In fact, in answer to the question as to whether the appellant would have been replaced if he had resigned, he answered that this might have been easy to do at the beginning of his mandate, but not once it was well under way. It must also be noted that the Committee's itself existed only temporarily. Therefore, in my opinion, Parliament's intention was to include only those persons holding an office with a certain degree of permanence, which is not the case here. Therefore, subparagraphs 6(f)(ii) and (iii) do not apply in this case.
+[34] The appellant did not hold insurable employment within the meaning of the Act. Therefore, the appeal is allowed.
+Signed at Ottawa, Canada, this 23rd day of May, 2007.
+"François Angers"
+Angers J.
+Translation certified true
+on this 11th day of October 2007.
+Michael Palles, Reviser
+CITATION: 2007CCI231
+COURT FILE NO.: 2006-872(EI)
+STYLE OF CAUSE: Jean Guyard and M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 7, 2007
+REASONS FOR JUDGEMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 23, 2007
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Benoit Mandeville
+SOLICITOR OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

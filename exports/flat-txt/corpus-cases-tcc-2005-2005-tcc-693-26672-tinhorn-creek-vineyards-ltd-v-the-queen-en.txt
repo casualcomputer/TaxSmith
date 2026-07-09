@@ -1,0 +1,135 @@
+Title: Tinhorn Creek Vineyards Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26672/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-693-26672-tinhorn-creek-vineyards-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-10-25
+
+# Tinhorn Creek Vineyards Ltd. v. The Queen
+
+- Citation: 2005 TCC 693
+- Decision date: 2005-10-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3614, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tinhorn Creek Vineyards Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-25
+Neutral citation
+2005 TCC 693
+File numbers
+2004-2182(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2182(IT)G
+BETWEEN:
+TINHORN CREEK VINEYARDS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 12, 2005 at Kelowna, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Kenneth J. Ihas
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of October 2005.
+"Diane Campbell"
+Campbell J.
+Citation: 2005TCC693
+Date: 20051025
+Docket: 2004-2182(IT)G
+BETWEEN:
+TINHORN CREEK VINEYARDS LTD.,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] The Appellant appeals from a reassessment by the Minister of National Revenue (the "Minister"), under the Income Tax Act (the "Act") for the Appellant's taxation year ending February 29, 2000 (the "2000 taxation year") and a Notice of Determination of Loss in respect to the Appellant's taxation year ending February 28, 2001 (the "2001 taxation year").
+[2] In computing income for the 2000 and 2001 taxation years, the Appellant treated itself as a "farming business" and elected to use the "cash method" pursuant to subsection 28(1) of the Act.
+[3] The Minister disallowed the Appellant's election to use the cash method on the basis that the Appellant was not a farming business but instead was operating a winery with an attached vineyard and was therefore engaged in the business of making and selling wine.
+[4] The issue is whether the Appellant operated a farming business that would entitle it to compute its income using a cash method in the 2000 and 2001 taxation years. There is no issue in respect to the calculation and amounts contained in the Appellant's return.
+[5] Kenneth Oldfield, general manager of the Appellant since 1994, was the only witness. He oversees the entire operation, which includes both vineyards and a winery. He is also responsible for the financial aspect of the company. Mr. Oldfield has a background in chemical engineering and attended the University of California to take courses dealing with the present operations of the Appellant. In addition he travels every other year with his staff to grape growing regions to view other practices.
+[6] Mr. Oldfield started the business in 1993 when he purchased 23 acres of existing vineyards together with a second parcel of land which had been used as a vineyard until 1988. The vineyards are located in the regional district of Oliver, British Columbia. In the 2000 and 2001 taxation years the Appellant owned 175 acres of land of which 160 acres were planted as vineyards. During both years all of the grapes grown on the 160 acres were used in the winery.
+[7] The winery was constructed between 1995 and May 1996. The area of land used by the winery is between one and one and one-half acres. The winery consists of a building plus equipment where the wine is produced. The biggest piece of winery equipment is the press which is used to obtain the juice from the grapes. The other equipment includes pumps, bottling line and wooden barrels. Most of the time the winery has on hand 1,000 barrels of wine valued at approximately $300,000.00. Two-thirds of this wine is red and must age about 19 months.
+[8] Mr. Oldfield referred to Tab 4 of Exhibit A-1, which contained his summaries of the Appellant's financial statements for the two taxation years. These summaries broke down the capital allocation and operation costs between the farm and the winery. He explained that if the grape producing land was sold the value would include the vines, the trellising system and the irrigation system. Most of this farm equipment was acquired from the prior owners but as the Appellant's operation expanded new equipment was purchased. This equipment consists of trailers, tractors, ATVs and one truck. The vineyard operation also includes supplies such as sprays, diesel and fertilizers. The market value of the Appellant's capital assets used for growing grapes is substantially greater than the market value of those assets owned and used for the winemaking operation. According to his evidence the market value of grape growing land has soared in recent years and the company would not be able to enter the business at today's prices. This was evidenced according to Mr. Oldfield by the Appellant's recent sale of 25 acres of its 160 acres of grape producing land for $1.2 million.
+[9] The Appellant is one of 110 licensed wineries in British Columbia and one of only ten estate wineries. To be qualified to sell estate wine the operation must grow its own grapes exclusively. Consequently the Appellant does not purchase any grapes for its winery from third parties but on occasion does sell some of its grapes to outside parties. The majority of the grapes grown in the vineyards however is used to produce the Appellant's own wine.
+[10] Mr. Oldfield testified that he made the decision to open a winery and expand the operation beyond growing and selling grapes to increase profit, to provide a ready market for the grapes and to have personal control of the quality of the grapes which influences the winery product.
+[11] Mr. Oldfield went on to explain that the focus of the majority of the operation is in the vineyard not the winery. He reviewed the vineyard activities commencing with the planning of the crop for the following year. In February or March, pruning of the vineyard is begun with a view to having a certain number of buds remain on the vines for the crop production. There are approximately 180,000 vines to be pruned which require a crew of 10 to 20 people for about two months. This is a very hand intensive part of the grape growing operation. Also during the months of February and March winter fertilizers are applied and spraying of sulphur occurs to deal with pests. Two tractor drivers plus hand labourers do this work. Irrigation systems must be operational and in use as soon as the frost leaves. In May the new shoots or vines begin to grow and it is at this time that the first round of suckering occurs. This is the process where every vine is tended by hand to remove unwanted buds. The months of May and June also see the completion of shoot tucking where vines are tucked into the trellising system to keep them upright. This may be done three to four times depending on the growing season. During this time irrigation and fungicide spraying are continued and the crop on the ground is covered to maintain it. The first crop adjustment is done in June as more of the buds may have to be removed, in addition to the pruning which was completed in February, to obtain the desired grape quality. This is done by counting the number of clusters on each vine by hand. There are generally 15 to 20 employees to complete this crop adjustment depending on how much of the product needs to be dropped and how quickly it must be done. Irrigation occurs from April through to the end of September and is managed by one employee. It takes a seven-day cycle to complete the watering of the entire vineyard. Depending on the weather, this process is again commenced within five days. In July there is continued fertilizer applications and pest control spraying. In August when the grapes ripen, there is another possibility of crop adjustment to ascertain if the cluster weight is correct. If it is too heavy, cut-back occurs so the grapes can ripen. In late August, prior to the grape harvesting, the vineyard is in a rest period. The harvest, like other facets of the operation, is both hand and labour intensive. Since two individuals can pick two tons per day, it takes 40 to 50 pickers four to six weeks to complete the harvest. After the grapes are harvested, final irrigation and trellis repair occurs to ready the vineyard for winter. Employees are laid off in mid-November. The vineyard employs approximately 100 people on an annual basis including three year round full-time employees and four full-time but seasonal employees from February through to November. Mr. Oldfield also explained the risks involved in operating the vineyard which included weather conditions where cold winters can kill the buds and the vines and cool summers which can mean not as heavy a crop can be carried through to the next season. Other problems include insects, weeds and fungus.
+[12] Mr. Oldfield next reviewed the activities occurring within the winery operation. The wine cellar employs a wine maker and four cellar staff. There are an additional three to four part-time individuals employed in September and October. In September, grapes arrive by truck each day at the winery to be crushed and pressed to obtain the juice which begins the fermentation process. This is a natural process where the grape juice (sugar) ferments to yield the wine (alcohol). The fermentation process is monitored to dispose of the waste by-products of seeds and skin. The grapes are aged in barrels or tanks where the aging takes anywhere from six months to one and one-half years. As the product ages, it is changed from barrel to barrel until it is ready to bottle. Once bottled it is transferred to a warehouse where it is aged for an additional period of two months up to one year before it is eventually ready for sale. A small portion of this wine is sold at a wine shop on the premises but the bulk is sold through wine agents to restaurants and, according to Mr. Oldfield's evidence, some of the product goes to the British Columbia Liquor Board for export. The shop which is located on the premises also sells some non-wine merchandise such as wine glasses and books. It operates on a break even basis.
+[13] In addition to Mr. Oldfield, a full-time bookkeeper, a receptionist and a marketing manager, who sets targets for sales agents, make up the administrative aspect of the operation. Mr. Oldfield's efforts are focused between the vineyard operation and time spent with the winemaker. In addition he assists the marketing manager and spends time on financial planning and monitoring.
+[14] And finally, in his direct examination, Mr. Oldfield reviewed the Appellant's participation in the Net Income Stabilization Account Program ("NISA"), which is established pursuant to the Farm Income Protection Act, S.C.C. 1991, c.22 [Unofficial Chapter No. F-3.3]. The Appellant was a participant during the taxation years in question. This voluntary program assists farms during years of crop failure if they have deposited money annually into an individual NISA account. A matching contribution from the federal and participating provincial governments is made to these accounts to help improve long-term income stability.
+[15] On cross-examination, Mr. Oldfield was referred to various tabs within Exhibit A-1. These showed that revenue from wine sales were in the seven figure range while revenue from the sale of grapes was significantly less. Mr. Oldfield also acknowledged that the grapes that were sold to third parties were not required for its own use in the winery and were varieties grown by the former owners that did not suit the wine being produced in the winery. However he went on to explain that the intent is always to use the grapes in the winery. He also confirmed that the grapes are not part of inventory on the statements as they come to the winery and are then processed. In addition all advertising and promotional costs were related to the wine product not the grape growing operation. Travel costs, relating to trade shows, selling expenses, relating to commissions paid to sales agents and delivery and freight charges, relating to the cost of transferring wine to the markets, were all related to the winery operation.
+[16] When questioned about the sale of the 25 acres in 2004, Mr. Oldfield stated that they were growing more of one variety of grape than they required so the acreage containing that grape variety was sold. In addition it was a profitable time to sell and the sale enabled the Appellant to retire some of its debt. The grape growing operation on the remaining acreage now fits the Appellant's production schedule and suits the size of its winery.
+Analysis:
+[17] In arguing that it should be entitled to use the cash method in computing its income, the Appellant relies on subsection 28(1) of the Act which states:
+28. (1) For the purpose of computing the income of a taxpayer for a taxation year from a farming or fishing business, the income from the business for that year may, if the taxpayer so elects, be computed in accordance with a method (in this section referred to as the "cash method") . . .
+Unlike the accrual method, generally required to be employed by a business, the cash method is allowed only when the taxpayer's business qualifies as a farming or a fishing business. The question in the facts of this case is simply whether the Appellant's business of growing grapes and winemaking is a farming operation which would entitle it to use the cash method in computing its income pursuant to subsection 28(1).
+[18] The term "farming business", as it is used in subsection 28(1), is not defined in the Act but the term "farming" is defined in subsection 248(1) as follows:
+248. (1) "farming" includes tillage of the soil, livestock raising or exhibiting, maintaining of horses for racing, raising of poultry, fur farming, dairy farming, fruit growing and the keeping of bees, but does not include an office or employment under a person engaged in the business of farming. [emphasis added]
+This definition is not exhaustive and has been widely interpreted by the Courts to include such businesses as tree farming (The Queen v. Matthews, 74 DTC 6193, seeding cleaning and fertilizer sales), (Van Rooy v. M.N.R., 92 DTC 2395) and a mechanical hatching operation where eggs were acquired and hatched in incubators (Pollon et al. v. The Queen, 84 DTC 6139).
+[19] Justice Sarchuk in the case of De Cloet Ltd. v. M.N.R., 89 DTC 207 sets out the activities encompassed by farming at page 212 as follows:
+... that modern farming, whether it be the growing of grain or vegetables or tobacco can no longer be described as simply the "tilling of the soil". Does hydroponic production of vegetables fall outside the definition of "farming" because the plants are not grown in soil and there is no "tilling of the soil"? I would doubt that is the case. Agricultural farming involves the whole aspect of commercial production of any crop or plant which has economic value, and in my view, encompasses all of the activities of a farmer. If, to best prepare his crop for market, he washes and packages his potatoes or carrots; picks, trims and packages his mushrooms; dries his beans or peas or sprays ethylene gas on his tomatoes to control colour; those activities are an integral part of his farming activities and are properly so characterized. [emphasis added]
+[20] If the Appellant is to utilize the cash method pursuant to subsection 28(1), its income must be derived from the farming activities. At page 6143 in the case of Pollon, Justice Addy stated:
+The benefit of an accounting on a cash basis is thus dependent upon the income of the taxpayer being derived from farming: there is no requirement whatsoever that the taxpayer be personally engaged in any physical sense in the farming activity. Gentlemen or absentee farmers would benefit from the privilege providing the income in issue is derived from farming. For the general principle that farming activities may be contracted out by the taxpayer and the latter will still be considered as engaging in a farming operation, see the decision of Cattanach J. in The Queen v. Fred Juster, 73 DTC 5325, affirmed by the Court of Appeal in 74 DTC 6540.
+[21] The Appellant's operation, according to the definition of "farming", most definitely includes "tillage of soil" and "fruit growing" according to the facts of the case. While the Appellant is attempting to characterize the entire operation as one of farming, the Respondent's position is that it is a profit-making winery operation and that the grape growing vineyards are a means to an end in the production of estate bottled wine.
+[22] In the case of Leblanc v. M.N.R., 93 DTC 1564, Judge Brulé specifically dealt with the distinction between the activities of a vineyard and the activities of a winery at page 1567:
+It is also my opinion that the broad definition given to the term "farming" by Sarchuk, T.C.J., in De Cloet Ltd. v. M.N.R., 89 DTC 207 at page 212 to the effect that "Agricultural farming involves the whole aspect of commercial production of any crop." does not imply that wine-making constitutes farming. In the case at bar, the activities involved in grape growing and wine-making are too different to classify both as various aspects of a single commercial production compared to, for example, packaging of mushrooms. In wine-making the end product is totally different from the raw materials. One could compare growing grapes and producing wine to growing tomatoes and making tomato sauce and paste. In both scenarios, the first activity falls under the broad definition of farming whereas the latter does not.
+[23] In expressing his opinion that winemaking does not constitute farming, Judge Brulé rejected the Appellant's argument that the vineyard and the winery constituted the same business. According to his reasoning winemaking and grape growing were two separate and distinct businesses. However this case is easily distinguished from the facts which are before me. During the taxation years which were before Judge Brulé, no winery actually existed and it was only months prior to the hearing in 1993 that the taxpayer obtained a license to make wine. As pointed out by Appellant counsel, since the hearing was in August which would be prior to the fall harvest, no wine would ever have been made from that taxpayer's own grapes at the time of the hearing. Secondly, in the years under appeal before Judge Brulé, the taxpayer intended to sell grapes to third parties, not to sell wine. I consider his comments, that winemaking was not within the scope of farming, to be obiter.
+[24] The case before me is very much fact driven and I consider the facts here to be substantially different than those before Judge Brulé. The most important difference is that both the Appellant and Respondent agreed at the outset that the Appellant operates just one business and whether it is farming or winemaking has been left for my decision (Assumption 14(h) of the Respondent's Reply to the Notice of Appeal and as clarified and agreed to during the hearing). In addition the Appellant farmed almost all of the acreage it owned with the winery located on only a small section of land. It is also one of only a few licensed estate wineries, making wine exclusively from the grapes it grows. I also have an abundance of evidence before me respecting the extensive farming practices in the vineyards versus the steps involved at the winery, where most of the winemaking aspect is a relatively natural aging process involving fermentation and storage. It does not appear that the same type of evidence was before Judge Brulé.
+[25] The evidence, which Mr. Oldfield presented respecting the operation of the winery and vineyard, was extensive. He had in depth first hand knowledge of all facets of the business from financial and administrative to the procedures occurring in the vineyard and winery. Based on these facts, as he presented them, I conclude that the vineyard operation and the activities which occur there play a predominant role in the overall business. If in any year unfavourable weather conditions or pests adversely affect the grapes grown in the vineyard, it will directly affect the amount and type of wine that may be produced and hence the profit is directly dependent upon the grape growing activities. The winemaking is so directly tied to the activities in the vineyard that the Appellant cannot go to outside parties to purchase grapes because it produces "estate bottled wine". Although I had no evidence before me respecting this I suspect that it would affect the Appellant's licensing to estate bottle its wine if it in fact went to outside parties to purchase grapes.
+[26] It is in the vineyard where most of the employees are hired, where most of the equipment is required and used, where the labour expenses are the highest, and where the majority of the acreage is used. In addition there was evidence to support that those assets associated with the vineyard are more valuable than those assets associated with the winery (Exhibit A-1, Tab 4). I can reach no other conclusion here but that the vineyard activities and operation are an integral part of the operation and the very foundation upon which the winery is able to produce and bottle its estate labelled wine. The two operations here are so interdependent and intermingled that it is difficult to isolate one from the other in respect to the profit aspect of the operation. This may be one of the reasons why the Respondent did not attempt to argue that the Appellant operated two separate businesses but conceded that it operated only one. The fact that the Appellant processes all of its own grapes to produce wine does not necessarily prevent its business from being a farming business. I believe each situation must be decided within the particular set of facts specific to that case. Although the Appellant is involved in the processing or commercial production of its crop into wine, I view the winemaking activities as so interlaced with the vineyard operation that both are just facets of one continuous farming operation which commences with growing the grapes through to the harvesting of the crop and eventually followed by the commercialization of the grapes by the production of wine. Two marketable products exist here but the Appellant, in its own wisdom and recognizing certain opportunities within the industry, has made the business decision to convert its grapes to wine to increase its profit-making capabilities. However the activity of the grape processing is simply one of the many activities of the farming business carried on by the Appellant. Although there may be cases where it is logical to separate different activities that are operating independently of each other, this is not one of them. The activities of the Appellant constitute one continuing farm operation.
+[27] The Appellant also referred me to dictionary definitions as well as definitions of farming and related terms in other federal and provincial legislation. Although these references can certainly be used in guiding the Court, they are not determinative. The New Shorter Oxford English Dictionary defines "wine farm" to mean "on which grapes are grown for winemaking and usually wine is made". The Appellant argued that this definition supports a conclusion that the inclusion of a winery on one's grape growing farm does not mean the business is no longer a farming operation. In addition to various references to farming contained in various provincial legislation, the Appellant referred me to both the Federal Farm Income Protection Act, S.C. 1991, c. 22, section 2 and the NISA program established pursuant to this Act. NISA includes reference to farming businesses which produce wine that may be eligible for participation in this program. The Appellant, in the taxation years before me, was a participant in NISA. References in the NISA handbook do state that eligibility is dependent on filing a Canadian tax return which reports farming business income/loss. Although the NISA program recognizes wine as a product of a farming business, and the references to farming in other legislation tend to support the Appellant's position, I have reached the conclusions I have, based on the evidence presented in this case.
+[28] The Appellant conducts activities which together operate as a farming business. The majority of the assets and operational costs relate to the vineyard. The activities are labour intensive and involve tillage of soil and fruit growing as referenced in the definition of "farming" contained in subsection 248(1). The fact that the operation uses all of its crop in its own winery does not convert this operation to one of non-farming. The fruit growing in the vineyard operation plays a predominant role in the overall activities and has a direct impact on profit. The Appellant operates a farming business from which it derives its income, therefore entitling it to elect to use the cash method in computing its income pursuant to subsection 28(1) of the Act.
+[29] The appeals are allowed, with costs.
+Signed at Ottawa, Canada, this 25th day of October 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC693
+COURT FILE NO.:
+2004-2182(IT)G
+STYLE OF CAUSE:
+Tinhorn Creek Vineyards Ltd. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+September 12, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+October 25, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Kenneth J. Ihas
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kenneth J. Ihas
+Firm:
+Petraroia Langford Rush
+Kelowna, British Columbia
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

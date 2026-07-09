@@ -1,0 +1,371 @@
+---
+title: "Kalwa v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521460/index.do"
+last_modified: "2025-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 89"
+citation2: ""
+neutral_citation: "2025 TCC 89"
+decision_date: "2025-06-25"
+language: "en"
+item_id: "521460"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5414
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:08:46.427000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ca268b6db70204bdc2fcd6a37a655b6bec5d5a2ff8c8232c309028c7cfebecb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kalwa v. The King
+
+- Citation: 2025 TCC 89
+- Decision date: 2025-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5414, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kalwa v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-06-25
+Neutral citation
+2025 TCC 89
+File numbers
+2019-4431(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-4431(IT)G
+BETWEEN:
+SREECHARAN KALWA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 18 and 19, 2025, at Toronto, Ontario
+Written submissions completed on March 28, 2025.
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Leigh S. Taylor
+Counsel for the Respondent:
+Ian Pillai
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal from the reassessment dated September 12, 2019, made pursuant to the Income Tax Act (“ITA”) for the 2016 taxation year, is allowed on the following basis:
+a)The Appellant is entitled to the additional sum of $1368 on account of capital outlays and costs; and,
+b)The Appellant’s aggregate capital gain for the 2016 taxation year shall be accordingly decreased as warranted by the additional sum of $1368 above;
+The penalties imposed under subsection 163(2) of the ITA concerning the failure to report 5 Portsmith Road, Toronto, Ontario as a capital disposition of real property are maintained;
+The matter is referred to the Minister of National Revenue for reconsideration and reassessment; and,
+Provisionally, given the mixed result, no costs are awarded, subject to the right of either party to make contrary written submissions within 30 days of this judgment and the other party’s right to respond thereto within 30 days thereafter; any such written submissions not to exceed 10 pages (excluding authorities).
+Signed at Ottawa, Ontario, this 25th day of June 2025.
+“R.S. Bocock”
+Bocock J.
+Citation: 2025 TCC 89
+Date: 20250623
+Docket: 2019-4431(IT)G
+BETWEEN:
+SREECHARAN KALWA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] The Appellant (“Mr. Kalwa”) appeals the Minister’s reassessment of Mr. Kalwa’s return of income for the 2016 taxation year. The Minister’s final reassessment, dated September 12, 2019, assessed unreported aggregate capital gains of $150,051 (the “Capital Gain”) and levied subsection 163(2) penalties.
+A real dispute of real property [2] Mr. Kalwa bought and sold multiple real properties in 2016. The nub of the dispute in this appeal concerns these purchases and sales of real estate: how they ought to be classified, income or capital; what capital outlays versus expenses ought to be added to their cost bases; and, whether not reporting one acquisition and disposition should attract penalties under subsection 163(2) of the Income Tax Act (“ITA”)?
+Bird’s eye view: Yonge and the 401 [3] Mr. Kalwa was particularly fond of real property in the Yonge Street/Highway 401 corridor/junction in Toronto. From May 2010 to July 2017, he acquired (or tried to acquire in one case) seven (7) different properties within this area. Material to the tax dispute in this appeal are the following properties (using abbreviated addresses) accompanied by various details:
+Property
+Acquisition Date
+Purchase Price
+Sale Date
+Sale Price (less mortgage)
+#1404 – 5740 Yonge
+August 2013
+$430,900
+April 2016
+360,000
+#7 Glenboro
+September 2015
+$1.075 Million
+October 2016
+1.35
+Million
+(1.223)
+#5 Portsmith
+March 2015
+$2.274 Million
+November 2016
+2.8
+Million (1.372)
+#24 Clarkhill
+May 2010
+Not Applicable
+July 2016
+Not Applicable
+What’s what? [4] Each of the above properties play a material role in the dispute. Mr. Kalwa claimed that Clarkhill was his principal residence from May 2010 to July 2016. The Minister agrees and the principal residence exception (“PRE”) was applied, even though disposition of Clarkhill was not reported in the 2016 return. 1404 Yonge, Glenboro and Portsmith were never occupied as principal residences. Mr. Kalwa asserted, initially and vaguely, that Portsmith was always intended as a principal residence. Hence, the offered reason he did not report the acquisition, disposition or gain when he sold it. The coyly, or alternatively vaguely, drafted notice of appeal perpetuates this fog. In contrast, 1404 Yonge and Glenboro were initially assessed on account of income. At CRA appeals, they were recharacterized as acquired on account of capital, a much more favourable tax outcome for Mr. Kalwa.
+[5] There were other properties less central to the dispute. They neither figure any longer in the disputed capital gain, nor are they materially relevant to the penalties. However, they assist in completing the “landscape” in taxation year 2016. They are as follows:
+Property
+Acquisition Date
+Sale Date
+Relevant Notes
+1304 – 570 Yonge
+Unknown
+May 2016
+Condominium
+54(56) Truman Road
+October 2016
+July 2017
+Principal Residence post Clarkhill
+2 May Tree
+September 2016
+(agreement to purchase executed)
+November 2016
+(mutually released prior to closing)
+$150,000 partial forfeiture of deposit
+A. CAPITAL OUTLAYS ISSUE Details of disallowed capital outlays [6] The three capital properties which have continuing disputes concerning disallowed capital outlays are as follows:
+Property
+Use
+Capital Outlays Claimed
+Capital Outlays Allowed
+Aggregate Gain (Loss)
+Net Capital Gain/(Loss)
+1404 Yonge
+Rental
+Unspecified in pleadings
+31,929
+(102,930)
+(51,415)
+Portsmith
+Never occupied
+(unclear)
+“More than 300,000” in pleadings
+287,223
+318,564
+159,282
+Glenboro
+Rental
+Unspecified in pleadings
+139,270
+135,730
+67,865
+[7] The parties jointly submitted that the disputed reassessed taxable capital gain is $150,051. Mr. Kalwa states the taxable capital gain ought to be $34,000, and implicitly the aggregate (gross) capital gain is $68,000.
+[8] Of note, Mr. Kalwa vaguely contested May Tree in his notice of appeal to the extent of his forfeited deposit. No serious dispute was advanced at trial that the Minister’s accorded capital loss was anything but $150,000.
+Where, specifically, is the dispute? [9] The CRA auditor originally reviewing the file testified. Mr. Gelak identified those expenditures which were denied as capital outlays and costs in respect of each disputed property. These may be summarized by property below. The dispute is not focused on whether the expenditures were incurred, the Minister concedes they were. The post-appeals reassessed denials exclude certain expenditures because the CRA officer concluded such expenses were not outlays or expenses for the purpose of making the acquisition, improvement or disposition of the capital asset.
+1404 Yonge
+Portsmith
+Glenboro
+Total Allowed Outlays
+31,929
+287,223
+139,270
+Disallowed Outlays per Appellant’s Closing Submission
+28,482
+12,996
+63,825
+Contested in Notice of Appeal
+Unascertainable
+Unascertainable
+Unascertainable
+Appellant’s view of excluded expenditures [10] On the contrary, Mr. Kalwa’s counsel argues that generally all the above amounts are required expenditures for the acquisition, disposition and carrying costs of the capital properties. The specific detail follows by property.
+1404 Yonge Street [11] Specifically regarding 1404 Yonge Street, the property became vacant once the tenant was evicted. The legal expenses to evict were central to selling the property. If there were no tenant or rental income, counsel agrees these current expenditures may be capitalized. Mr. Kalwa also asserts this is true for the realty taxes, repairs and maintenance, occupancy fees and appraisal expenses.
+[12] The additional Appellant claimed outlays and expenses to be deducted from the capital cost of the property are as follows:
+Occupancy fee paid to vendor on closing
+2,228
+Occupancy fees paid and credited to purchaser
+6,958
+Land taxes paid to vendor
+389
+Supplementary taxes paid to vendor
+3,136
+Commitment fee paid for mortgage
+1,616
+Appraisal cost
+735
+Painting costs paid (50 per cent)
+2,500
+Common expenses 2016 (2016, same rate as 2013)
+2,763
+Realty taxes (2016, same rate as 2013)
+2,625
+Mortgage interest (January to April 2016)
+4,383
+Insurance (2016, same rate as 2013)
+1,150
+28,482
+Portsmith [13] Mr. Kalwa’s counsel also argues that the Minister omitted from expenses certain sums otherwise properly included as costs in the computation of the capital gain amounts related to Portsmith. These are as follows:
+Real estate and water due October 2016
+521
+Utility due
+88
+Evo Flooring
+9,880
+City of Toronto interim taxes
+2,501
+12,990
+Glenboro [14] With regard to Glenboro, the same principles should apply according to Mr. Kalwa’s counsel. This was a vacant property and unutilized expenditures may be capitalized because no current expenses were deducted and no rental loss was claimed. Hence, deducting same from the capital gain is permitted. The submitted outlays and expenses are as follows:
+Omitted appraisal fee
+500
+Omitted lender title insurance fee
+395
+Omitted commitment fee
+8,600
+Omitted interest adjustment
+93
+City of Toronto Water & Solid Waste mange account payable on closing
+2,104
+Toronto Hydro account payable on closing
+814
+Realty taxes, vendor’s share on closing
+3,129
+Mortgage interest
+38,910
+Insurance required by mortgage lender
+3,009
+Plumbing expense
+6,272
+63,825
+B. Penalties Penalties only applicable to Portsmith [15] The Minister levied subsection 163(2) penalties on the unreported disposition of Portsmith in 2016. In doing so, the Minister asserts the following to discharge her onus for applying such penalties:
+a)The transaction was sizeable: a purchase price of $2.274 million in September 2015 and disposition for $2.88 million in October 2016, yielding a gross surplus of a half a million dollars, before asserted expenses and/or outlays;
+b)Mr. Kalwa’s testimony was not reliable or credible regarding his excuses for not reporting because:
+(i)in a previous taxation year, he failed to report a disposition of capital property, and was reassessed, penalized and also warned of subsequent “red flagging”;
+(ii)he has a Master’s degree; is a Quality Assurance IT Manager, who previously held that role with major banks; and, is experienced in real estate (as of 2022 he is a licenced and self-promoting real estate broker);
+(iii)his asserted belief of a PRE option for Portsmith is belied by the fact he never resided at the property, did not file a T-2091 to report it, and already had a different principal residence at the same time in the same taxation year;
+(iv)the work done on Portsmith was consistent with short term resale, not long term occupancy with his family;
+(v)he reviewed his tax returns with his accountant, clearly reported two real properties disposed of in 2016, but omitted two others: Portsmith and Clarkhill; and,
+(vi)blaming his accountant does not stand up to scrutiny: he reviewed the tax return and, further, his tax preparer accountant did not testify;
+c)The additional outlays claimed in these appeals, even when considered, are not significantly applicable to Portsmith (the relevant penalty property), but rather Glenboro and 1404 Yonge (to which no penalty was levied), therefore the magnitude of the unreported gain from disposition is that much more noticeable.
+Mr. Kalwa says that Minister’s burden was fumbled. [16] Mr. Kalwa’s counsel contends that the Minister has not proven that Mr. Kalwa knowingly or through gross negligence failed to report the disposition of Portsmith as a capital property. Illustrative of this, Mr. Kalwa’s counsel highlights:
+(i) Mr. Kalwa had three reasonable alternatives for reporting the Portsmith disposition: capital asset disposition, as property income arising from its acquisition for profit, or, as a principal residence exempt from inclusion for capital gains purposes because of the PRE;
+(ii) Although in 2016, a claim of PRE required disclosure and the filing a T- 091, it was the very first year for doing so, and Mr. Kalwa’s incompetent accountant likely was ignorant of that;
+(iii) The initial audit was substantially altered at appeals in Mr. Kalwa’s favour, but penalties, although mathematically adjusted were not removed and the Minister has not shown that the penalties were re-evaluated at that time in the context of those representations;
+(iv) Mr. Kalwa’s accountant was professionally deficient; and,
+(v) The Clarkhill disposition was also not recorded in 2016 for the same reason, the PRE, and yet, the Minister applied a penalty to one (Portsmith) and not the other (Clarkhill).
+Mr. Kalwa says the 163(2) penalties lack required detail [17] In short, Mr. Kalwa’s counsel argues the Minister bears the onus, and in these circumstances, has failed to meet it. Further, the Minister has failed to identify the methodology for calculating the subsection 163(2) penalties, thereby further not fulfilling her onus. Specifically, one cannot calculate the quantum of the penalty from the pleadings. This is contrary to the prescribed requirements of section 163.
+II. The Law [18] The parties do not dispute the applicable law, interpretation or applicable standards. They dispute whether the evidence supports their respective positions.
+[19] The following are the relevant excerpts from the ITA [with emphasis] concerning the two issues before the Court: (i) the inclusion of additional capital outlays and expenses for the four properties and (ii) the penalties concerning Portsmith.
+(a) The applicable statutory sections (i) Capital outlays
+40 (1) Except as otherwise expressly provided in this Part
+(a) a taxpayer’s gain for a taxation year from the disposition of any property is the amount, if any, by which
+(i) if the property was disposed of in the year, the amount, if any, by which the taxpayer’s proceeds of disposition exceed the total of the adjusted cost base to the taxpayer of the property immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, or
+(ii) Penalties
+163 (2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person’s tax for the year
+had the person’s tax payable for the year been assessed on the basis of the information provided in the person’s return for the year.
+(b) The jurisprudence (i) Capital outlays [20] In Avis Immobilien[1], the Federal Court of Appeal upheld the Tax Court of Canada’s interpretation of the words “for the purpose of” in the context of subparagraph 40(1)(a)(i) of the ITA. The words “for the purpose of” in subparagraph 40(1)(a)(i) are directed to the outlays and expenses to a particular disposition and no other purpose. As stated by the Tax Court of Canada, and approved by the Federal Court of Appeal, “[w]e are not dealing in subparagraph 40(1)(a)(i) with the computation of income from a business, which is of an ongoing nature, but rather, expenses or outlays made or incurred to dispose solely of capital properties.”[2]
+[21] The Court recognizes that amounts that are not deducted as current expenses are not nothings. The Tax Court has recognized that amounts that could have been deducted as current expenses, but for a limitation for reasonableness “should form part of the cost of the property and should enter into the adjusted cost base thereof.”[3] This Court has recognized that selling expenses are to be deduced in computing capital gains in respect of capital property.
+[22] The authorities before the Court confirm that the costs to be included in the computation of a taxpayer’s capital gain are those costs related to the transaction, not a different transaction, like a foreign currency exchange or an amount paid by a taxpayer to keep the property after acquisition.[4]
+(ii) Penalties [23] There is no dispute that the Minister bears the onus to establish that assessment of penalties under subsection 163(2) of the ITA is justified. Mr. Kalwa, through counsel, argues that, firstly, the Minister did not meet that burden and, secondly, that the Minister failed to disclose methodologically how and why the quantum of the penalty is what it is: $20,933.
+Standard of proof to assess penalties [24] No combination off cases more succinctly pinpoints the threshold of omission or action to be achieved by a taxpayer to warrant subsection 163(2) penalties than the cases of Venne[5] and Wynter[6].
+[25] By example, Justice Strayer in Venne places gross negligence in contrast to simple neglect when stating:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether or not the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income.
+[26] Justice Rennie further discerns and embeds wilful blindness as an inclusive, but slightly lesser grievance, when he writes at paragraphs 17, 18 and 19 in Wynter:
+[17] While evidence, for example, of an actual intent to make a false statement would suffice to meet the “knowingly” requirement of subsection 163(2) requiring an intention to cheat to establish wilful blindness is inconsistent with the well- established jurisprudence that wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth. The essential factual element is a finding of deliberate ignorance, as it “connotes” ‘an actual process of suppressing a suspicion’”: Briscoe at para 24. I would add that, in the context of subsection 163(2), references to an “intention to cheat” are a distraction. The gravamen of the offense under subsection 163(2) is making of a false statement, knowing (actually or constructively, i.e., through wilful blindness) that is false.
+[18] Gross negligence is distinct from wilful blindness. It arises when the taxpayer’s conduct is found to have fall markedly below what would be expected of a reasonable taxpayer. Simply put, if the willfully blind taxpayer ought to have known better.
+[19] Gross negligence requires a higher degree of neglect than a mere failure to take reasonable care. It is a marked or significant departure from what would be expected. It is more than carelessness or misstatements. The point is captured in the decision of this Court in Zsoldos v. Canada (Attorney General), 2004 FCA 338 at para. 21, D.T.C. 6672:
+In assessing the penalties for gross negligence, the Minister must prove a high degree of negligence, one that is tantamount to intentional acting or an indifference as to whether the law is complied with or not. (See Venne v. R (1984), 84 D.T.C. 6247 (fed. T.D., at 6256.
+Requirement to disclose amount of penalty [27] The Minister must provide some evidence that penalties have been correctly computed.[7] Thus the components of a properly assessed penalty are: proof of the amount of the understated income, the correct amount or quantum of the penalty and, as stated above, that such understatement was knowingly made or made in circumstances which were grossly negligent.[8]
+III. Analysis A. Claim for Additional Capital Outlays Preliminary issue [28] After testimony and in submissions, the Respondent conceded additional capital outlays in respect of the Glenboro property in the amount of $1,000 for title insurance purchased upon acquisition and not otherwise allowed by the Minister. Apart from anything else, Mr. Kalwa is entitled to that additional outlay.
+Missing from the equation [29] The evidential records in this expense and outlays appeal were oddly scant. The following material was not placed before the Court as evidence:
+(i) A clear indication from Mr. Kalwa of the calculations necessary through inclusion of additional capital outlays to reduce the assessed aggregate capital from $150,050 to no more than an even $34,000 of taxable capital gain. Even the Court had to impute a gross gain of $68,000;
+(ii) An explanation why Mr. Kalwa’s accountant did not testify beyond the blanket testimony of Mr. Kalwa that the accountant had “moved to the States”. While this is a decision of Mr. Kalwa’s counsel, the further assertion by counsel that the accountant was not particularly competent, bumps directly into the adverse inference the Court may draw. Such a bold conclusion, without evidence, leaves the Court to ask where the accountant’s working papers are regarding the capital outlays and discussions regarding the four capital properties and why two were recorded in the return and two were not? Relevant to both issues: what were his credentials, when did he move, wrap up his practice, provide records?
+(iii) Mr. Kalwa did not produce his 2016 tax return, although his counsel made assertions no amount of current expense was deducted concerning Glenboro. An examination of the return, the bedrock reference of both the capital gain recordal and assessed penalties, would have assisted.
+The Court uses what it has [30] With that less than complete record, the answers the additional capital outlay issue is to be resolved property by property.
+1404 Younge Street [31] The “missed” $735 for “appraisal cost” invoice may have related to 1404-5740 or 1304-5740 Younge Street. The Court is prepared to allow $368, being one-half on the basis that the invoice is simply not clear because both addresses are recorded in it. The one-half amount is to be added to the cost base of the property because the plea of Mr. Kalwa is that it be added in such a fashion.
+[32] The balance of the expenses definitionally relate to the carrying costs of the rental asset: occupancy fees, taxes, mortgage commitment fee and interest, painting, common expenses and risk insurance. These are not expenses primarily grounded in the disposition of the capital assets, but are primarily for the maintenance, use and tenure of the property.
+Portsmith [33] There are no additional outlays for Portsmith. Taxes and utilities are carrying costs, not outlays and expenses on account of capital or asset disposition. If Portsmith had been held as an income property, these taxes and utilities would be deductible as an expense. It was not so held and the taxes are not deductible. The Evo Flooring was shipped to 56 Truman Road, that property itself sold 3 months after shipping of the flooring. The one-time buyer, Sam (likely Mr. Kalwa) owned both properties. More likely than not, based on the evidence, the Court cannot reasonably conclude such expenses were incurred to dispose of Portsmith rather than Truman.
+[34] Generally, the outlay and expense issue before the Court centers on the nexus of such expenses to acquire or dispose of the capital asset per se, not to acquire cash, capital or liquidity in order to acquire the capital asset.[9] The issue before the Court is the deduction of capital outlays and expenses from a gain on capital not a deduction of income from that source.
+Glenboro [35] Glenboro is no different than Portsmith. Realty taxes, mortgage interest, electricity, utilities are not costs associated with the disposition of the property or outlays on account of capital. Similarly, the appraisal, lender title insurance and finance costs are expenses made to finance the purchase because they were prima facie paid to a lender, not expended to improve the property for disposition.
+B. Penalties The Minister’s burden regarding penalties [36] There is no dispute that the Minister bears the burden of establishing Mr. Kalwa knowingly, or in circumstances amounting to gross negligence, failed to report the disposition of Portsmith in his 2016 tax return. In that regard, the Minister offered the following uncontroverted evidence:
+(a)Mr. Kalwa had previously failed to report a disposition of capital property on DeBoers Drive in Toronto in 2011;
+(b)In respect of the 2011 omission, Mr. Kalwa was reassessed, penalized and “red flagged” for future vigilance by the Minister’s agents;
+(c)Mr. Kalwa reported Clarkhill as his principal residence and accepts factually and legally that Clarkhill is properly classified for the PRE in 2016;
+(d)Mr. Kalwa admitted unreservedly that he acquired and disposed of Portsmith on the exact dates pleaded and asserted by the Minister;
+(e)Mr. Kalwa, in cross-examination, admitted that he reviewed the 2016 tax return:
+(i)which contained two disposed properties, but omitted Portsmith; and further; and,
+(ii)inexplicably, Clarkhill was omitted because it was a principal residence and Portsmith was omitted confusingly because of omission, confusion or obfuscation or some combination thereof; and,
+(f)Mr. Kalwa is experienced in real estate, finance and business matters.
+Has it been met? [37] The Minister has met her burden. The then breadth, contemporaneity and value of the Portsmith transactions, the other reported transactions of an identical nature in 2016 and never occupying Portsmith are facts the Minister has established which easily surmount by a wide margin her burden to prove gross negligence. The penalties stand and are applicable to the separately enumerated taxable capital gain identified in the conclusion section IV below.
+Calculation of s. 163(2) penalties [38] As to the deficiency in information concerning the penalty, the reply in this appeal provides the following at various enumerated paragraphs:
+13. [… ]
+s) the Appellant realized a profit of no less than $318,564 from the disposition of the Portsmith property;
+t) the Appellant realized a net capital gain of no less than $159,282 in respect of the disposition of the Portsmith property;
+u) the Appellant did not report any income or gains realized in respect of the disposition of the Portsmith property;
+[… ]
+15. [… ]
+a) The Minister correctly reassessed the Appellant to disallow the claimed capital gains exemption in respect of the disposition of the Portsmith property;
+c) The Minister correctly assessed a gross negligence penalty in respect of the Appellant’s unreported disposition of the Portsmith property in his 2016 taxation year.
+21. In failing to report any disposition from the sale of the Portsmith property, the Appellant knowingly or under circumstances amounting to gross negligence has made a false statement or omission in his tax return filed with respect to the 2016 taxation year.
+22. Consequently, the AGC submits that the Minister was justified in levying a gross negligence penalty with respect to the unreported gain generated by the disposition of the Portsmith property, in the amount of $20,932.98 in 2016 taxation year, pursuant to subsection 163(2) of the ITA.
+The 163(2) penalty is ascertainable [39] The reasons, amounts of the disallowed capital outlays, the amount of the taxable gain and the amount of the penalties are cumulatively pleaded in the Respondent’s pleadings. While some further maths may be required to ascertain the precise methodology and amount of the penalties, all elements are there and sufficient for the Court’s purposes.
+IV. Conclusion and Costs Additional outlays and expenses [40] Mr. Kalwa is entitled to additional outlays and expenses in 2016 concerning the Glenboro property in the amount of $1,000 for purchaser’s title insurance and $368 for appraisal costs related to 1404 Yonge Street. Both amounts are to be added to the capital costs of the respective properties.
+Penalties remain [41] As described above, the subsection 163(2) penalties for not reporting the taxable capital gain of $159,282 on Portsmith remain.
+Costs [42] Given the mixed result, the Court provisionally awards no costs. However, the Court anticipates, based upon closing submissions, the parties may wish to make further submissions on costs. Either party may do so within 30 days of this judgment with such submissions not to exceed 10 pages (excluding authorities), with the responding party to follow within 30 days thereafter in a similar fashion.
+Signed at Ottawa, Ontario this 25th day of June 2025.
+“R. S. Bocock”
+Bocock J.
+CITATION:
+2025 TCC 89
+COURT FILE NO.:
+2019-4431(IT)G
+STYLE OF CAUSE:
+SREECHARAN KALWA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 18 and 19, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Randall S. Bocock
+DATE OF JUDGMENT:
+June 25, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Leigh S. Taylor
+Counsel for the Respondent:
+Ian Pillai
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh S. Taylor
+Firm:
+LST Law
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Avis Immobilien GmbH v R., 1996 CarswellNat 2529, 97 DTC 5002 [Avis Immobilien]
+[2] Avis Immobilien, supra note 8, at para 7.
+[3] Eleuteri v. Her Majesty the Queen, 1995 CarswellNat 2014, at para. 24.
+[4] Magnus v. Her Majesty the Queen, 2011 TCC 404, at para. 56.
+[5] Venne v. Her Majesty the Queen [1994] 1 CTC at pg. 234.
+[6] Wynter v. Her Majesty the Queen 2017 FCA 195.
+[7] Hans v. Her Majesty the Queen 2003 TCC 576 at para. 20.
+[8] Urpesz v. Her Majesty the Queen 2001 CarswellNat, [2001] CTC 2256 at paras. 14, 15.
+[9] R. v. Stirling [1985] 1 CTC 275 at para. 3.

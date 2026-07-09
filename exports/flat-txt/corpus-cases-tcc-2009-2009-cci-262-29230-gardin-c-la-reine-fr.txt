@@ -1,0 +1,146 @@
+Title: Gardin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29230/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-262-29230-gardin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-21
+
+# Gardin c. La Reine
+
+- Citation: 2009 CCI 262
+- Decision date: 2009-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7031, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gardin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-21
+Référence neutre
+2009 CCI 262
+Numéro de dossier
+2008-2419(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2419(IT)I
+ENTRE :
+LAURIE LYNN GARDIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 janvier 2009, à Calgary (Alberta)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 262
+Date : 20090521
+Dossier : 2008-2419(IT)I
+ENTRE :
+LAURIE LYNN GARDIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Laurie Lynn Gardin, appelle de l’inclusion par le ministre du Revenu national de la pension alimentaire pour enfants dans son revenu pour l’année 2004. L’appelante a été la seule personne à témoigner. L’appelante ne conteste pas les hypothèses de fait énoncées dans la réponse à l’avis d’appel, à l’exception des éléments soulignés à l’alinéa 11d) :
+[TRADUCTION]
+11. Pour établir la nouvelle cotisation à l’égard de l’appelante pour l’année d’imposition 2004 ainsi que pour la ratifier, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante et son ex‑époux, Kenneth Creig (ci‑après « M. Creig »), vivaient séparés pour cause d’échec de leur mariage;
+b) l’appelante et M. Creig ont un enfant, [A.], qui est né le 14 juillet 1984;
+c) conformément à une ordonnance de la cour (ci‑après l’« ordonnance ») datée du 16 novembre 1994 :
+(i) M. Creig était tenu de verser à l’appelante une pension alimentaire de 400 $ par mois pour subvenir aux besoins de son enfant, [A.], à partir du 1er décembre 1994, jusqu’à ce que celui‑ci ait 18 ans, ou bien jusqu’à ce qu’il devienne complètement autonome sur le plan financier pendant une période de trois mois, selon ce qui se présente en premier,
+(ii) si [A.] allait à l’école ou à l’université après l’âge de 18 ans et qu’il vivait avec l’appelante, les versements de pension alimentaire devaient se poursuivre jusqu’à ce que [A.] ait 21 ans,
+(iii) les paiements mensuels de pension alimentaire devaient être augmentés de 5 % chaque année à compter du 1er décembre 1995 et chaque année par la suite jusqu’à ce que M. Creig ne soit plus obligé de payer;
+d) M. Creig a versé les paiements de pension alimentaire suivants à l’appelante :
+Date du chèque
+Montant du chèque
+1er janvier 2004
+620,51 $
+1er février 2004
+620,51 $
+1er mars 2004
+620,51 $
+1er avril 2004
+620,51 $
+1er mai 2004
+620,51 $
+1er juin 2004
+620,51 $
+1er août 2004
+1241,11 $
+1er septembre 2004
+620,52 $
+1er octobre 2004
+620,52 $
+1er novembre 2004
+620,52 $
+1er décembre 2004
+651,54 $
+Total
+7 477,27 $
+[2] Il n’est pas contesté que l’ordonnance a été rendue dans le cadre de ce qu’on appelle « l’ancien régime », lequel permettait que la pension alimentaire soit déduite par le payeur et incluse dans le revenu du bénéficiaire. Les parties conviennent également que, à partir du moment où son obligation a commencé selon l’ordonnance, l’ex‑époux a versé la pension alimentaire directement au directeur de l’exécution des ordonnances alimentaires (Alberta) conformément au paragraphe 4 de l’ordonnance, qui est rédigé ainsi :
+[TRADUCTION]
+4. LA COUR ORDONNE que les sommes dues aux termes de l’ordonnance soient payées au directeur de l’exécution des ordonnances alimentaires et que ce dernier en exige le paiement à moins que la créancière ne dépose à la Cour et auprès du directeur un avis écrit selon lequel elle ne veut pas que l’ordonnance soit exécutée par le directeur, conformément à l’article 7 de la Maintenance Enforcement Act[1].
+[3] L’appelante s’oppose à l’inclusion par le ministre de la pension alimentaire pour enfants dans son revenu pour 2004 en invoquant les moyens suivants :
+1. les augmentations annuelles du montant de pension alimentaire pour enfants prévues au paragraphe 2 de l’ordonnance constituent une modification de la pension alimentaire pour enfants, ce qui établit une « date d’exécution » et met fin à son obligation d’inclure les montants qui lui ont été versés dans son revenu pour 2004;
+2. subsidiairement, les montants versés au directeur de l’exécution des ordonnances alimentaires ne sont pas visés par la définition de « pension alimentaire » parce qu’ils ont été déposés directement dans le compte bancaire de son fils dont lui seul est titulaire. L’appelante soutient donc qu’elle n’a pas « reçu » les sommes et qu’elle ne pouvait pas les utiliser à sa discrétion.
+[4] Le premier argument peut être rejeté rapidement, étant donné que la Cour d’appel fédérale a statué que les changements comme les augmentations au titre du coût de la vie découlant d’une ordonnance ou d’une entente antérieure à 1997 ne constituent pas une modification du montant de pension alimentaire pour enfants au sens de l’alinéa 56.1(4)ii) : Kennedy c. Sa Majesté la Reine, 2004 CAF 437, au paragraphe 13; Callwood c. Sa Majesté la Reine, 2006 CAF 188, au paragraphe 41.
+[5] Pour ce qui est de l’argument subsidiaire, j’accepte le témoignage de l’appelante selon lequel, en 2003, alors que son fils avait 19 ans, son ex‑époux et elle se sont entendus pour que les sommes qui devaient être versées, conformément à l’ordonnance prévoyant le versement de la pension alimentaire au directeur de l’exécution des ordonnances alimentaires, soient déposées directement dans le compte bancaire de leur fils. L’appelante a accepté que cette modification soit apportée pour les raisons suivantes : premièrement, cette année‑là, son fils avait plus de 18 ans et elle ne pouvait plus le déclarer comme personne à charge en application de la Loi de l’impôt sur le revenu; deuxièmement, si elle avait reçu la pension alimentaire pour enfants pour son fils après qu’il eut atteint l’âge de 18 ans, elle n’aurait plus eut droit à certaines prestations d’invalidité provinciales sur lesquelles elle comptait pour venir compléter son revenu. Elle espérait également que cela améliorerait ses rapports avec son ex‑époux. Il s’était toujours opposé, en principe, à l’idée de payer de l’argent à l’appelante pour subvenir aux besoins de son fils et il avait donc continuellement manqué à son obligation de payer en temps voulu la totalité des sommes dues en application de l’ordonnance.
+[6] La position de l’intimée est que, même si les sommes ont été versées directement à son fils en 2004, l’appelante a continué de pouvoir les utiliser à sa discrétion. Ces sommes devaient lui être versées selon l’ordonnance. Elles avaient été versées à son fils seulement parce qu’elle avait demandé au directeur de l’exécution des ordonnances alimentaires de déposer les sommes reçues de son ex‑époux dans le compte bancaire de son fils plutôt que dans le sien. L’avocat de l’intimée a cité le passage suivant d’un arrêt de la Cour d’appel fédérale, Veilleux c. Canada[2] :
+36 On voit donc de ces deux paragraphes 56.1(4) et 60.1(4) que les montants payés et reçus à titre d’allocation périodique, si le bénéficiaire peut les utiliser à sa discrétion, sont des pensions alimentaires que le bénéficiaire doit inclure dans son revenu en vertu de l’article 56 et que le payeur peut déduire en vertu de l’article 60. […]
+[7] Je dois malheureusement dire que les observations de l’intimée m’ont convaincue. Je m’exprime ainsi parce j’accepte le témoignage de l’appelante selon lequel elle croyait que les changements apportés à l’ordonnance par le directeur de l’exécution des ordonnances alimentaires avaient mis fin à son obligation d’inclure les sommes versées par son ex‑époux dans son revenu. J’ajoute également foi à son témoignage selon lequel, pour les raisons susmentionnées, elle n’aurait pas donné des directives contraires au directeur de l’exécution des ordonnances alimentaires (et, en fait, elle ne l’a pas fait). Toutefois, il n’en demeure pas moins qu’aucun obstacle juridique ne l’aurait empêché de changer ses directives si elle avait voulu le faire.
+[8] L’appelante s’est représentée elle‑même lors de l’audience. Elle a analysé avec soins les dispositions législatives compliquées et fait un examen approfondi remarquable de la jurisprudence[3]. Un grand nombre des causes qu’elle a citées portaient sur des payeurs qui voulaient déduire la pension alimentaire versée directement à l’enfant, mais, malheureusement, aucune de celles‑ci ne permet d’éviter la conclusion selon laquelle, en 2004, tous les critères établis par la loi prévoyant l’inclusion dans le revenu de l’appelante des montants payés par l’ex‑époux étaient remplis : les montants constituaient une somme à recevoir par l’appelante à titre d’allocation périodique aux termes de l’ordonnance. Cette dernière n’a jamais été modifiée pour que le bénéficiaire de la pension alimentaire soit changé et elle a continué d’être exécutée par le directeur de l’exécution des ordonnances alimentaires en conformité avec ses dispositions. Par conséquent, l’appelante est demeurée la personne qui avait le droit de recevoir les paiements prévus par l’ordonnance et elle a continué de pouvoir les utiliser à sa discrétion. Elle a exercé ce pouvoir discrétionnaire lorsqu’elle a demandé au directeur de l’exécution des ordonnances alimentaires que les montants reçus de l’ex‑époux soient déposés dans le compte bancaire de leur fils.
+[9] Pour les motifs qui précèdent, l’appel interjeté à l’encontre de la nouvelle cotisation établie pour l’année d’imposition 2004 est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de juin 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009CCI262
+NO DU DOSSIER DE LA COUR : 2008-2419(IT)I
+INTITULÉ : LAURIE LYNN GARDIN et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 21 janvier 2009
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 21 mai 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-2.
+[2] 2002 CAF 201.
+[3] Clermont c. Canada, [2003] A.C.I. no 603; Robichaud v. Canada, [1999] 4 C.T.C. 2654 (C.C.I.); Marcil c. Canada, [2000] A.C.I. no 916; Joncas v. Canada, [2004] 2 C.T.C. 2253 (C.C.I.); Robinson v. Canada, [2000] 4 C.T.C. 2174 (C.C.I.); Demey v. Canada, [2000] 2 C.T.C. 2026 (C.C.I.); Miguelez v. Canada, [1999] 1 C.T.C. 2665 (C.C.I.); Chabot c. Canada, [2007] A.C.I. no 14; Northcott v. Canada, [2001] 3 C.T.C. 2639 (C.C.I.).

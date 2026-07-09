@@ -1,0 +1,177 @@
+---
+title: "Hoffman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29806/index.do"
+last_modified: "2010-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 267"
+citation2: ""
+neutral_citation: "2010 TCC 267"
+decision_date: "2010-05-13"
+language: "en"
+item_id: "29806"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6612
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:21:01.855000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1678ba3670f7df8b7a41d479fc4b9f27c58d4452059361e91fe9a9a445d59570"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hoffman v. The Queen
+
+- Citation: 2010 TCC 267
+- Decision date: 2010-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6612, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hoffman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-13
+Neutral citation
+2010 TCC 267
+File numbers
+2010-329(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-329(IT)G
+BETWEEN:
+BENJAMIN R. HOFFMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 5, 2010 at Halifax, Nova Scotia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+ORDER
+IT IS HEREBY ORDERED THAT:
+1. The Appellant file and serve an Amended Notice of Appeal clarifying the Appeal is against a Loss Determination within 30 days of the date of this Order, failing which the Notice of Appeal is quashed.
+2. The Respondent file and serve a Reply to the Amended Notice of Appeal within 60 days of the filing of the Amended Notice of Appeal.
+Signed at Ottawa, Canada, this 13th day of May 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010TCC267
+Date: 20100313
+Docket: 2010-329(IT)G
+BETWEEN:
+BENJAMIN R. HOFFMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Miller J.
+[1] The Respondent has brought a Motion to dismiss the Appellant’s Notice of Appeal, or, in the alternative, granting the Respondent 60 days from the date of an Order disposing of the Motion to file a Reply.
+[2] Dr. Benjamin Hoffman filed his Appeal on December 15, 2009, stating the assessment under appeal was "year 2000 Emigration tax returns Benjamin R. Hoffman, date of assessment July 10, 2007. Secondary filing of the year 2007 tax return with request for loss carry back by Deloitte December 20, 2007". He went on to describe in the Notice of Appeal the issues as "capital loss incurred by Benjamin Hoffman as to PRI $177,567.43. Capital loss incurred by Benjamin Hoffman as to NTI of $15,000. Business investment loss NTI of $83,700." (the "Losses")
+[3] The July 10, 2007 assessment of Dr. Hoffman’s 2000 taxation year was a nil assessment. The law is well established that there is no appeal from a nil assessment (see Interior Savings Credit Union v. R.)[1] and at first blush, this would seem to quickly dispose of Dr. Hoffman’s appeal, but it is important to review the history of Dr. Hoffman’s dealings with the Canada Revenue Agency ("CRA") to fully appreciate what Dr. Hoffman is truly appealing.
+[4] Dr. Hoffman emigrated from Canada in 1999. He reported significant capital gains. Following communications with CRA, it was somehow determined that his date of emigration for tax purposes was January 1, 2000. I heard no adequate explanation for this. Not until the spring of 2006, was it determined the Losses were not considered as losses in 1999. A letter from Deloitte and Touche, acting for Dr. Hoffman, of August 22, 2006, to CRA Halifax District Taxation Office starts off:
+As a follow up to our previous discussions, and your suggestions in this regard, we would like to make the following representations on behalf of our above-noted client in connection with his 2000 year: [emphasis added]
+…
+The letter goes on to say:
+…
+"Accordingly, Dr. Hoffman wishes to now file his final 2000 Canadian Emigration return, to complete the compliance requirements for his period of Canadian residency."
+…
+Deloitte’s then describes the Losses, albeit now as 2000 losses. And later in the letter, Deloitte’s states:
+…
+"We acknowledge receipt of your notices of reassessment for both the 1998 and 1999 taxation years, each dated April 10th, 2006. Our client is in agreement that the taxes payable on each are generally accurate, prior to the additional adjustments requested in this letter." [emphasis added]
+The adjustments requested are the carry back of the Losses.
+…
+[5] Following this letter, Dr. Hoffman proceeded to file a 2000 tax return in November 2006, claiming the losses. This resulted in the July 10, 2007 nil assessment.
+[6] Deloitte’s wrote again to CRA Halifax District Taxation Office, after further communications with CRA, now in December 2007, stating:
+"…Despite this assessment, the net capital loss upon emigration…was not carried back to 1998 and 1999 as requested. We would therefore request a reassessment of the losses to be carried back to 1998 and 1999." [emphasis added]
+…
+[7] Deloitte’s goes on to "request an application of subsection 152(4.2) of the Income Tax Act (the "Act") for a reassessment, with the taxpayer’s consent, of the 1998 and 1999 taxation years".
+[8] CRA responds, fifteen months later, on April 14, 1999, advising Dr. Hoffman that the deadline for reassessing 1998 and 1999 has passed and "we cannot now reassess the 1998 and 1999 returns in respect of a loss from the 2000 tax return". The CRA maintains that without further documentation, it cannot conclude the losses have been incurred in 2000, and in any event, if there were losses, they could now only be claimed in subsequent years, not in 1998 and 1999. It was apparent to all that Dr. Hoffman’s desire to claim Losses in 2000 was only so he could carry them back to 1998 and 1999.
+[9] Later in April 2009, Dr. Hoffman provides further information to CRA, which CRA answers on June 17, 2009, reiterating that it is too late to carry back losses, and indicating CRA has not received sufficient documentation to support the Losses and that the request to allow additional losses on the 2000 T1 return is denied. CRA states it has "concluded our review with regard to the additional information you submitted in order to determine whether you had incurred losses in the 2000 taxation year, that may be eligible to carry forward to future years". [emphasis added]
+[10] Dr. Hoffman responds to Ms. Mead, Audit CRA at Halifax District Taxation Office, on August 25, 2009, pointing out areas of disagreement. This is followed in September by a request from Dr. Hoffman that his August 25, 2009, letter be considered his notice of objection.
+[11] The Respondent’s position is straightforward:
+1. There is no appeal from a nil assessment.
+2. The notice of objection of August 25, 2009, stipulated as such in September 2009, is over two years late and therefore out of time, as the period for objection to the July 10, 2007, assessment ended on October 8, 2007.
+3. There has not been a request for the determination of loss, and the Minister of National Revenue (the "Minister") has not issued a notice of determination of loss. The Respondent argues that the Appellant has only requested the carry back of losses, and not requested a loss determination.
+4. Relying on a recent decision of Justice Valerie Miller in Fidelity Global Opportunities Fund v. R.[2], the Respondent argues that the notice of objection does not meet the requirements of subsection 165(2) of the Act in that it must be addressed to the Chief of Appeals in a District Taxation Office or Taxation Centre, and it is not sufficient to simply address it to the District Taxation Office.
+[12] Before addressing each of these arguments, I wish to comment on something this matter regrettably highlights, and that is, that the highly technical and complex provisions which are supposed to serve as guidelines to taxpayers working through disagreements that they might have with the Government, all too often turn into incomprehensible obstacles to the taxpayer, thus defeating the very purpose for their existence. Certainly there is a responsibility on the taxpayer to have some fundamental grasp of how he is to proceed, or at least to know enough to seek professional help. Yet, here we have an individual incurring a considerable liability on departure from Canada, which he believes the Government has placed in the wrong year, but more importantly believes can be somewhat offset by the Losses he has incurred on departure. He hires professional help. He stays in constant communication with CRA. He appears to follow their suggestions and agrees to a January 1, 2000, departure date though knowing full well he left in 1999. He cooperates with CRA and provides what he can. He is subjected to lengthy delays by CRA. He makes it crystal clear that he is seeking CRA’s acceptance of the Losses so that they can be applied to the 1998 and 1999 taxation years. And now here he is 10 years on being told he has no losses, he has no right of appeal anymore, and even if he was successful in getting the 2000 taxation year before the Court, he still cannot carry the losses back. There is something wrong with this picture.
+[13] This does not appear to be an issue of any particular officer at CRA somehow being problematic: no, indeed, Ms. Mead at the CRA seems to have been meticulous in addressing Dr. Hoffman’s concerns. The problem, I suggest, is that the system has become so complicated that not only the taxpayer is bewildered, but also advisors and those administering the Act can likewise scratch their heads wondering which way to turn. In dealing with complex rules, legislated by the Government, to properly fill the Government’s coffers by the collection of taxes, all participants should be bending over backwards to assist one another to get it right. Dr. Hoffman, Deloitte’s and CRA all knew what Dr. Hoffman’s objective was – to have the Losses available to use in his 1998 and 1999 taxation years. If CRA were not satisfied (and clearly they were not) that Dr. Hoffman incurred the Losses, Dr. Hoffman, in a normal course of events, would be afforded an opportunity to have this Court examine that issue. Why is he now in a position of seeming to have lost that right?
+[14] I suggest that Dr. Hoffman and his advisors chose to go an administrative, rather than litigious, appeal route, hoping that a reasonable explanation would be acceptable to CRA and the returns would simply be adjusted accordingly. For in Dr. Hoffman’s eyes, CRA accepted without question the several $100,000 gain that he reported, why would they not accept $150,000 to $200,000 of losses with some reasonable explanation and support? Well, CRA did not. Dr. Hoffman could not offer up the volume of supporting source documents to satisfy CRA and time ran out on the appeal side. That is where I believe some greater understanding of the procedures, and likewise some greater cooperation, might result in the taxpayer preserving his rights to obtain a satisfactory answer.
+[15] Having now said my piece about the pitfalls of a complicated system, I will address the Respondent’s arguments.
+[16] With respect to the nil assessment argument, yes, the Government is absolutely right that no appeal lies from a nil assessment, and Dr. Hoffman has unfortunately framed this Appeal as an Appeal against a nil assessment. But surely that is not what it is. It is an Appeal against the Government’s determination that his losses in 2000 are zero, or it is an Appeal of the 1998 and 1999 taxation years that taxes should be less due to the carry back of the Losses incurred in 1999 or 2000. The Government is also correct that, if it is simply an Appeal of the 2000 nil assessment, then Dr. Hoffman’s August/September 2009 Notice of Appeal is out of time.
+[17] But look at this as an Appeal of the Government’s loss determination. The Respondent argues there has never been such a determination, nor has there even been a request for such. The Respondent cites comments of Justice Sarchuk in Inco Ltd. V. R.[3], that three steps are required for a valid loss determination:
+…subsection 152(1.1) of the Act clearly contemplates and establishes a procedure involving sequential steps or events that must take place in order for there to be a valid loss determination. These steps are:
+(a) the Minister ascertains the amount of the taxpayer’s non-capital loss for a taxation year in an amount that differs from one reported in the taxpayer’s income tax return;
+(b) the taxpayer requests that the Minister determine the amount of the loss;
+(c) the Minister thereupon determines the amount of the loss and issues a notice of loss determination to the taxpayer…
+[18] First, has the Minister ascertained Dr. Hoffman’s loss as different from reported? Dr. Hoffman reported the losses in his 2000 return filed in November 2006, requesting a carry back of the losses to 1998 and 1999. The Respondent issued the nil assessment in July 2007 but did not carry the losses back. This could be the first ascertainment of losses by the Minister: it is clear they were not accepted.
+[19] Has the taxpayer requested the Minister determine the amount? In its December 20, 2007, letter Deloitte’s asks for a reassessment of the losses so they can be carried back. This certainly sounds like a request. Is it the fact that the word "determination" is not used that Dr. Hoffman’s efforts are being denied? This is not sufficient.
+[20] What about the third step? Has the Minister determined the amount of the loss and issued a notice of loss determination? There has been no notice in the CRA form of notice of determination, but there is CRA’s response 14 months after Deloitte’s request where CRA states:
+…
+"In summary, without further documentation
+1) The CRA cannot conclude that you have incurred a net capital loss
+2) The CRA cannot conclude that you may be entitled to an allowable business investment loss."
+[21] Again, in June 2009, CRA indicates it has concluded the review and the Losses are still zero. The Respondent referred me to the case of Burnet v. Minister of National Revenue[4] as to how the Minister ascertains the amount of a loss. Nothing in Burnett however causes me to not consider CRA’s letters as an ascertainment of the losses in this case.
+[22] I conclude that the three steps outlined in Inco have been followed, and that it was open to Dr. Hoffman to serve a Notice of Objection.
+[23] This leads then to the Respondent’s argument that Dr. Hoffman did not address his Notice to the Chief of Appeals. The Respondent cited Justice Valerie Miller’s recent decision in Fidelity where she stated:
+"[10] Subsection 165(2) of the Act stipulates that a notice of objection shall be served by being addressed to the Chief of Appeals in a District Office or a Taxation Centre. The language in subsection 165(2) is mandatory and a letter to the Ottawa Technology Centre does not meet the requirements of this subsection.
+[11] There are good reasons why subsection 165(2) specifies that a notice of objection shall be served on the Chief of Appeals. It is the Appeals Branch which deals with objections. If objections are not served in accordance with subsection 165(2), then it would be next to impossible for the Canada Revenue Agency to keep proper records and to ensure that the objections are dealt with "with all due dispatch" as is required in subsection 165(3) of the Act.
+[12] I realize that subsection 165(6) gives the Minister the discretion to accept a notice of objection that was not served in accordance with subsection 165(2). However, that discretion lies with the Minister and not this Court."
+[24] There are significant differences between Fidelity and the matter before me. In Fidelity, the notice of objection did not indicate on its face that it was a notice of objection, though Justice Valerie Miller found that it did constitute a notice of objection. More significantly, in Fidelity, the letter (notice of objection) was delivered to the Ottawa Technology Centre, not a District Taxation Office or Taxation Centre. In this case, the Notice of Objection, which Dr. Hoffman made very clear was a Notice of Objection, was delivered to the Halifax District Taxation Office, though not to the Chief of Appeals. Is it too much to expect of a District Taxation Office, that receives a notice of objection, to direct it to Appeals? This harkens back to my view of exercising some cooperation in ensuring the taxpayer can wind his way through the intricate web of tax processes. Putting the question another way: does the taxpayer lose his right to object by sending a document noted as a notice of objection to the address of the Chief of Appeals at a District Taxation Office though without stating "Chief of Appeals"? Section 165(6) of the Act urges upon the Minister some flexibility in accepting a valid notice of objection. It must be so disheartening to Dr. Hoffman that the Government of Canada, in the circumstances of this case, rely on this minor labelling issue to put an end to Dr. Hoffman’s relentless, yet cooperative, pursuit of his claim. If the Minister refuses to exercise its discretion to accept this Notice of Objection, then I must look elsewhere. I am reluctant to disagree with Justice Miller’s comments. Yet, her case dealt with a notice of objection to an assessment. Here I am dealing with an objection to a determination. It is interesting to note the difference in wording between subsection 165(1) of the Act which deals with an objection to assessment and states the taxpayer "may serve on a Minister a Notice of Objection in writing", and subsection 165(1.1) of the Act which simply says the taxpayer may object to a determination. So, does subsection 165(2) of the Act even apply to objections to determinations or is it limited to Notices of Objection in writing as required by subsection 165(1) of the Act? I do not intend to reach any hard conclusion on that issue but simply add this observation to my earlier comments about the significance of leaving off "Chief of Appeals" in this particular case, and conclude that Dr. Hoffman is not to be derailed by this omission: he has made a valid objection.
+[25] Having got to the stage of being in a position to accept Dr. Hoffman’s Notice of Appeal, and therefore requiring the Minister to file a Reply, I remain concerned this is a Pyrrhic victory for Dr. Hoffman, as the CRA has stated repeatedly that Dr. Hoffman is out of time for having losses (if the Tax Court of Canada ultimately concludes there are any) carried back to 1998 and 1999. Dr. Hoffman expressed his view at the Motion that he believes he can successfully argue the 1999 taxation year is still available, and perhaps also the 1998 taxation year. But where is he to argue this? The Appeal now before this Court is an Appeal from a loss determination for the 2000 taxation year – that is all. The 1998 and 1999 taxation years are not before the Court. I had contemplated considering the Notice of Appeal as an Appeal of the 1998 and 1999 taxation years, but there are simply too many hurdles for Dr. Hoffman to overcome to advance that position.
+[26] The normal reassessment period is extended three years (see subsection 152(4) of the Act) to accommodate loss carry backs. Further, there is a provision (subsection 152(4.2) of the Act) which allows a taxpayer to request a reassessment within 10 years after the end of the taxation year in question. Indeed, Deloitte’s relied on this provision to request reassessment of the 1998 and 1999 taxation years. Interestingly, Deloitte’s, in its August 2006 letter, referred to reassessments of the 1998 and 1999 taxation years dated April 10, 2006, a time well after the expiration of the extended assessment period.
+[27] So, the situation is that Dr. Hoffman made a request for reassessment of 1998 and 1999 within the 10 year period provided for in subsection 152(4.2) of the Act. The CRA was never convinced that losses were incurred. I have now concluded that Dr. Hoffman should have an opportunity to prove those losses in Court. I would like to think that until the Court rules on the issue of whether there are any losses, that CRA would keep the taxpayer’s request for reassessment (made within the time permitted under the Act) alive. Unfortunately, wishful thinking does not an order make. There may be a channel through the Federal Court to address this, though suggesting further legal proceedings to Dr. Hoffman is, in football parlance, piling on. I can only suggest the Parties continue to talk and that if Dr. Hoffman proceeds, he does so appreciating the practicalities of the situation.
+[28] I order that Dr. Hoffman file an Amended Notice of Appeal within 30 days of this order to clarify that the Appeal is not against the 2000 nil assessment, but, in accordance with subsection 169(2) of the Act, against the Minister’s determination that his losses for 2000 are nil. This 30 day period will provide some time for Dr. Hoffman to discuss the carry back issue further with the Respondent. The Respondent shall have 60 days after the filing of the Amended Notice of Appeal to file a Reply. If Dr. Hoffman does not file an Amended Notice of Appeal within the 30 day period, I presume he does not wish to continue and his Notice of Appeal is quashed.
+Signed at Ottawa, Canada, this 13th day of May 2010.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2010 TCC 267
+COURT FILE NO.: 2010-329(IT)G
+STYLE OF CAUSE: BENJAMIN R. HOFFMAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: May 5, 2010
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: May 13th, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2007 FCA 151.
+[2] 2010 TCC 108.
+[3] 2004 TCC 373.
+[4] 98 D.T.C. 6205.

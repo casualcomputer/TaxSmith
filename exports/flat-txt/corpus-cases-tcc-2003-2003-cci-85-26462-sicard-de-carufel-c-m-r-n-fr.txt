@@ -1,0 +1,143 @@
+Title: Sicard De Carufel c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26462/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-85-26462-sicard-de-carufel-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-04-03
+
+# Sicard De Carufel c. M.R.N.
+
+- Citation: 2003 CCI 85
+- Decision date: 2003-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3146, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sicard De Carufel c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-03
+Référence neutre
+2003 CCI 85
+Numéro de dossier
+2000-1428(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2000-1428(EI)
+ENTRE :
+SERGE SICARD DE CARUFEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 29 janvier 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimé :
+Me Simon-Nicolas Crépin
+_______________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI85
+Date : 20030403
+Dossier : 2000-1428(EI)
+ENTRE :
+SERGE SICARD DE CARUFEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif, C.C.I.
+[1] Il s'agit de l'appel d'une détermination en date du 24 février 2000. Aux termes de la décision, l'intimé avisait l'appelant, à l'emploi du Groupe Devesco Ltée faisant affaires sous « Les Constructions et Pavages Continental Inc. » , que les semaines et rémunération assurables étaient, pour la période de 1993 de 32 semaines et de 13 483,82 $ pour les 20 dernières semaines, et pour la période 1994 de 15 semaines et de 10 250,25 $.
+[2] Pour soutenir sa décision, l'intimé alléguait les faits suivants :
+a) le payeur exploitait une entreprise de pavage de routes et d'autoroutes;
+b) le payeur avait deux différentes tenues de livres pour les salaires;
+c) le temps inscrit sur les feuilles de temps des travailleurs ne devaient pas dépasser 44 heures par semaine par travailleur et l'excédent était inscrit sur une deuxième feuille de temps;
+d) le payeur établissait une banque d'heures pour les travailleurs;
+e) l'appelant travaillait comme contremaître pour le payeur;
+f) le 8 décembre 1993, le payeur a émis un relevé d'emploi à l'appelant, pour la période du 10 mai 1993 au 26 novembre 1993 indiquant 27 semaines assurables et une rémunération assurable de 14 643 $;
+g) le 18 mai 1994, le payeur a émis un relevé d'emploi à l'appelant, pour la période du 3 janvier 1994 au 22 avril 1994 indiquant 14 semaines assurables et une rémunération assurable de 13 179 $;
+h) les relevés d'emplois ne sont pas conformes à la réalité quant au nombre de semaines assurables et quant à la rémunération assurable;
+i) pour les années 1993 et 1994, la rémunération assurable et les semaines assurables de l'appelant sont celles décrites en annexe de la réponse à l'avis d'appel.
+[3] Après son assermentation, l'appelant a nié le contenu des alinéas b), c), d), h) et i). Rémunéré à titre de contremaître d'un groupe de salariés, l'appelant a carrément nié avoir été associé de près ou de loin à un système en vertu duquel certaines heures de travail étaient accumulées pour être regroupées dans une semaine assurable. Il s'agit du procédé généralement connu sous l'appellation « Banque d'heures » ou « Cumul d'heures » . Dans le cadre de cette pratique, certaines heures travaillées sont regroupées afin de constituer des semaines complètes, procurant au travailleur le maximum de prestations d'assurance emploi. Si les heures en question étaient comptabilisées comme elles se devaient de l'être, les prestations versées seraient alors largement inférieures.
+[4] Lors des périodes en litige, l'appelant était contremaître d'un groupe de salariés d'une entreprise où existait une pratique de « Cumul d'heures » . L'employeur avait mis sur pied deux registres pour l'enregistrement des heures travaillées par ses employés, de manière à ce que les relevés d'emploi émis lors de leur mise à pied indiquaient qu'ils avaient travaillé des semaines complètes avec une rémunération assurable maximale. En réalité, ces mêmes travailleurs avaient effectué le travail regroupé en une seule semaine sur une période beaucoup plus étendue.
+[5] L'appelant a nié avoir participé au système qui consistait à accumuler des heures de travail de manière à les regrouper ultérieurement pour constituer des semaines assurables.
+[6] Il a témoigné d'une manière articulée et répondu de façon élaborée à plusieurs questions. Il a soutenu que le fait d'avoir été rémunéré à la semaine plutôt qu'à l'heure l'excluait de la comptabilité parallèle des heures consignées dans la « Banque d'heures » . Pour soutenir et confirmer ses prétentions, il a produit un document, une sorte de reconstitution de ses allées et venues pour une des périodes en litige.
+[7] Le document a été élaboré à partir d'informations devenues disponibles à deux ou trois semaines du procès. Après avoir affirmé avoir perdu tous les documents pertinents à la suite d'un incendie à sa résidence, l'appelant a indiqué avoir récupéré les informations précises relatives à son emploi du temps pour les périodes mentionnées au document en question.
+[8] De son côté, l'intimé a soumis plusieurs pièces et documents ne permettant pas de tirer des conclusions nécessairement absolues mais très certainement accablantes. Je fais notamment référence à différents relevés informatiques qui faisaient partie des documents confisqués chez l'employeur, ainsi qu'à des copies de factures sur lesquelles la signature de l'appelant apparaissait et ce, à des dates où il n'était pas sensé être au travail.
+[9] Une rémunération hebdomadaire peut faire en sorte qu'il n'est nullement nécessaire de comptabiliser les heures travaillées à l'unité; conséquemment, pareille modalité de rémunération peut s'avérer une explication raisonnable pour justifier certaines heures de travail non rémunérées, étant donné que la rémunération globale couvre généralement le travail hors cédule.
+[10] Une telle forme de rémunération n'explique pas tout; cela ne constitue pas un empêchement automatique à participer à une manoeuvre de « Cumul d'heures » .
+[11] Bien que la « Banque d'heures » ou le « Cumul d'heures » laisse supposer que les heures sont comptabilisées une à une, il est aussi possible voire même habituel qu'elle « la Banque d'heures » soit constituée de journées complètes. Généralement, une semaine où le salarié travaille un, deux voire même trois jours est comptabilisée non assurable au maximum d'où l'intérêt de regrouper ces journées avec d'autres.
+· À titre d'exemple un employé pourrait accumuler 40 heures assurables à partir du travail exécuté sur une période de plusieurs semaines à raison d'un, deux ou trois jours de travail consécutifs ou de demi-journées ou de temps supplémentaire, dépassant ainsi le maximum assurable de la semaine où les heures ont été exécutées.
+[12] À la suite d'une méga-enquête, il a été établi que l'employeur de l'appelant pratiquait ce système sur une très grande échelle.
+[13] La compagnie détenait deux différents registres de rémunérations. L'un des deux comptabilisait, soit le surtemps, soit les heures exécutées, à raison de quelques-unes par semaine et l'autre faisait état du nombre d'heures suffisant pour constituer une semaine assurable.
+[14] Les conclusions de la méga-enquête ont été suivies de procédures pénales; les compagnies concernées par lesdites procédures ont enregistré un plaidoyer de culpabilité sanctionné par d'imposantes amendes.
+[15] Madame Vaugeois, responsable des dossiers, a indiqué que plusieurs caisses de documents furent saisies; l'analyse de tous les documents confisqués leur a permis de tirer des conclusions déterminantes quant à la participation au système de la très grande majorité des employés, voire même la totalité, selon madame Vaugeois.
+[16] Dans un second temps, l'intimé a répertorié des documents spécifiques relatifs à chacun des employés. Ainsi, au soutien de la décision dans le dossier de l'appelant, l'intimé s'est appuyé sur les documents suivants :
+· Fiches informatiques décrivant et relatant des informations spécifiques quant à son emploi du temps.
+· Diverses factures sur lesquelles l'appelant a apposé sa signature; les dates apparaissant sur les factures en question étaient des dates où il était réputé ne pas avoir travaillé.
+[17] Pour réfuter les prétentions de l'intimé, l'appelant a soutenu :
+· qu'il n'avait aucun contrôle sur les faits et gestes de son employeur quant à l'enregistrement des heures travaillées et sur les divers registres utilisés à cette fin;
+· que son employeur avait de toute évidence fabriqué de toute pièce le document informatique en question;
+· que son agenda personnel réfutait les données apparaissant sur les documents saisis;
+· que les modalités de sa rémunération l'excluaient automatiquement de toute participation à la pratique du « Cumul d'heures » .
+[18] La preuve de l'appelant a le mérite d'avoir soulevé des doutes quant à la possibilité qu'il n'ait pas été associé au système de comptabilité des heures parallèles mis sur pied par son employeur.
+[19] De tels doutes sont-ils suffisants pour conclure à une prépondérance de la preuve requise pour avoir gain de cause ?
+[20] L'appelant a mis l'emphase sur un document dont le contenu avait été mis à jour dans les semaines précédant le procès; il a témoigné sur les données qui y apparaissaient avec une précision digne d'une horloge.
+[21] Par ailleurs, il a été assez ambigu quant aux documents sur lesquels apparaissait sa signature; je fais notamment référence à sa signature sur des factures dont les dates ne correspondaient pas aux périodes de travail décrites sur ses relevés d'emploi. À cet égard, l'appelant a essentiellement prétendu qu'il avait signé les factures à une date différente et qu'il s'agissait là d'une pratique courante.
+[22] Quant aux autres registres, tout aussi accablants et non conformes à ses prétentions, l'appelant a soutenu que son employeur avait une conscience très élastique et que, de toute évidence, il s'agissait d'une falsification justifiée par l'intérêt qu'avait son employeur à comptabiliser plus d'heures de manière à maximiser les dépenses ou, pour être en mesure de faire de la surfacturation.
+[23] La preuve directe et circonstancielle quant à l'ampleur de la comptabilité parallèle démontre hors de tout doute qu'il se pratiquait un système de « Cumul d'heures » . D'ailleurs ce constat fut confirmé pour l'enregistrement d'un plaidoyer de culpabilité. Une preuve aussi déterminante et accablante peut-elle être écartée par de simples suppositions et un document préparé dans les semaines qui ont précédé le procès ?
+[24] Tel qu'indiqué précédemment, l'appelant était contremaître d'une équipe de salariés associés au système de « Banque d'heures » ou « Cumul d'heures » . Pour souscrire aux prétentions de l'appelant, il eût fallu que ce dernier ne soit pas sur le chantier lorsque les hommes, dont il avait la responsabilité, exécutaient les heures inscrites à la « Banque d'heures » .
+[25] À cet égard, l'appelant n'a pas soumis d'explication, si ce n'est que sa rémunération hebdomadaire en qualité de contremaître, l'obligeait à accomplir certaines tâches non rémunérées. Je ne vois pas comment ce mode de rémunération obligeait l'appelant à agir comme contremaître non rémunéré lorsqu'il avait la charge et responsabilité de salariés dont les heures de travail faisaient partie de la « Banque d'heures » .
+[26] D'autre part, si le fait d'être rémunéré à la semaine l'obligeait à exécuter du travail non rémunéré, pourquoi l'employeur avait-il une fiche particulière à son nom quant au temps exécuté par ce dernier. Je ne crois pas que l'employeur ait créé de fausses fiches individuelles pour certaines personnes à son emploi.
+[27] Présumant et affirmant à plusieurs reprises que son employeur avait manigancé, falsifié ou maquillé certains registres comptables, l'appelant s'est sans doute dit qu'il n'y avait pas de mal à constituer un document cohérent avec ses prétentions, d'où le contenu et les nombreuses précisions contenues dans le document principal, fondement de ses prétentions.
+[28] L'appelant n'était certainement pas le seul contremaître dont les conditions de rémunération étaient comme les siennes. Pourquoi n'en a-t-il pas fait témoigner quelques-uns ? Je doute qu'il n'ait pas été possible d'identifier une ou quelques personnes en mesure d'établir que l'appelant était une exception.
+[29] La preuve soumise par l'appelant a certes soulevé certains doutes; je ne crois certainement pas que ces doutes soient suffisants pour écarter la prépondérance des conclusions dégagées par l'enquête, l'analyse et la référence aux documents produits par l'intimé.
+[30] Le fardeau de la preuve incombait à l'appelant; il devait au moyen d'une prépondérance de la preuve établir le bien-fondé de ses prétentions. Les soupçons dégagés par la preuve de l'appelant ne sont pas déterminants au point de discréditer les fondements de la détermination à l'origine du présent appel.
+[31] En conséquence, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d'avril 2003.
+« Alain Tardif »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI85
+No DU DOSSIER DE LA COUR :
+2000-1428(EI)
+INTITULÉ DE LA CAUSE :
+Serge Sicard De Carufel
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE
+le 29 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 3 avril 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimé :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

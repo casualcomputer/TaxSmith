@@ -1,0 +1,150 @@
+---
+title: "Carrière v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26188/index.do"
+last_modified: "2006-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 289"
+citation2: ""
+neutral_citation: "2006 TCC 289"
+decision_date: "2006-06-05"
+language: "en"
+item_id: "26188"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3920
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:02:15.886000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ad3164e8a46e3e22f233f58dff165e4e9e61c9bd9bfb42d8f0b541eaa4b2b3d0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carrière v. The Queen
+
+- Citation: 2006 TCC 289
+- Decision date: 2006-06-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3920, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrière v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-05
+Neutral citation
+2006 TCC 289
+File numbers
+2003-609(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-609(IT)I
+BETWEEN:
+LINDA CARRIÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 17, 2006, at Sherbrooke, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Antoine Gérin
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal under the informal procedure from the assessment made under the Income Tax Act bearing number 18621 and dated December 10, 2001, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th of June 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of November.
+Daniela Possamai, Translator
+Citation: 2006TCC289
+Date: 20060605
+Docket: 2003-609(IT)I
+BETWEEN:
+LINDA CARRIÈRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is contesting an assessment by the Minister of National Revenue ("The Minister") for the amount of $11,550.39 under section 160 of the Income Tax Act (the "Act") and dated December 10, 2001. The assessment relates to the transfer of land located at 294 Caravelle Street, in Fleurimont, Quebec (the "land"), to the Appellant by her husband, René Messier, on March 10, 1995. At the time of the transfer,*Mr. Messier had a tax debt of $11,550.39 within the meaning of the Act.
+[2] The parties agree on the following facts:
+(i) the Appellant and Mr. Messier were married under the regime of partnership of acquests on May 12, 1983;
+(ii) on May 14, 1985, Mr. Messier acquired the land;
+(iii) the Appellant and Mr. Messier stopped living together in October 1994;
+(iv) the fair market value of the land on March 10, 1995, was $84,400;
+(v) at the time of the land transfer, Mr. Messier owed $5,283.61 in taxes and penalties under the Act;
+(vi) at the time the assessment under appeal was made on December 10, 2001, the interest accrued on the tax debt of $5,283.61 was $6,266.78 for a total tax debt of $11,550.39;
+(vii) on March 24, 2005, the Appellant and Mr. Messier became divorced by divorce judgment rendered by the Honourable Justice Suzanne Mireault, which confirmed the agreement on corollary relief entered into between the parties.
+[3] The only issue is the following: whether the land was transferred by Mr. Messier to the Appellant pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written separation agreementwithin the meaning of subsection 160(4) of the Act.
+[4] It must be noted that no one testified in support of the Respondent's or Appellant's position.
+[5] Counsel for the Appellant filed in evidence the deed of gift (Exhibit A-1) under which the land was transferred for no consideration by Mr. Messier to the Appellant. Under the heading [translation] "MARITAL STATUS AND MATRIMONIAL REGIME," it is stated that the Appellant and Mr. Messier had been separated since October 1994. Counsel for the Appellant submitted that that statement in the deed of gift was in itself a written separation agreementpursuant to which the land had been transferred. Counsel for the Appellant argued that, because the land had been transferred pursuant to a written separation agreement and that the parties were separated and living apart at the time of the transfer, the Appellant was entitled to benefit from the exception provided for in subsection 160(4) of the Act and thus, the Appellant could not be liable to pay the Minister $11,550.39 in accordance with subsection 160(1) of the Act.
+[6] In short, the only question I must decide is the following: whether the mere statement in the deed of gift that the Appellant and Mr. Messier had been separated and living apart since October 1994 can in itself be a written separation agreement within the meaning of subsection 160(4) of the Act. In my opinion, it is not because the parties were separated and living apart that one can interpret the deed of gift as being a written separation agreement and attribute to it this quality it clearly does not have based on its very wording. It is not at all apparent to me how this mere statement in the deed of gift can constitute a transfer of property pursuant to a written separation agreement. The submissions of counsel for the Appellant are simply not supported by the facts. In my opinion, a written separation agreement must include, generally speaking, provisions in writing for the custody and support of children, alimony and property division made by couples who are usually seeking a divorce or legal separation. The deed of gift under which the land was transferred does not contain any written provision therefor.
+[7] I find that the transfer of the land was not pursuant to a written separation agreement but rather to a pure deed of gift. Accordingly, the Appellant could not invoke the exception provided for in subsection 160(4) of the Act.
+[8] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 5th day of June 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of November 2006.
+Daniela Possamai, Translator
+CITATION:
+2006TCC289
+COURT FILE NO.:
+2003-609(IT)I
+STYLE OF CAUSE:
+Linda Carrière and
+Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+May 17, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+June 5, 2006
+APPEARANCES:
+For the Appellant:
+Antoine Gérin
+For the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Antoine Gérin
+Firm:
+Gérin, Leblanc et Associés
+Sherbrooke, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+*[Translator's Note: There is a discrepancy between para. 1 and para. 2(v) in terms of the amount of tax debt owed at the time of the land transfer.]

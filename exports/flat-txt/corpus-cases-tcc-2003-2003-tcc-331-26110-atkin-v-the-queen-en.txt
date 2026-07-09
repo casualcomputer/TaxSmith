@@ -1,0 +1,120 @@
+Title: Atkin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26110/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-331-26110-atkin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-05-21
+
+# Atkin v. The Queen
+
+- Citation: 2003 TCC 331
+- Decision date: 2003-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4171, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Atkin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-21
+Neutral citation
+2003 TCC 331
+File numbers
+2002-4595(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4595(IT)I
+BETWEEN:
+SHARON ATKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 5, 2003 at Toronto, Ontario
+Before: The Honourable Judge L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of May 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC331
+Date: 20030521
+Docket: 2002-4595(IT)I
+BETWEEN:
+SHARON ATKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant is the mother of the following children:
+Born
+Jessica Atkin
+April 15, 1990
+Nicholas Atkin
+April 22, 1993
+[2] The Appellant and Mr. Greg Davey resided together for the 1998, 1999 and 2000 taxation years at 87 Deacon Lane in Ajax, Ontario.
+[3] On March 10, 1998 the Appellant and Greg Davey filed for bankruptcy. On the 2nd day of November 2000 the Appellant and Greg Davey each received a Discharge of Bankruptcy.
+[4] When the Appellant filed her income tax return for the 1998 taxation year she made no claim for the equivalent to spouse amount.
+[5] When the Appellant filed her income tax return for the 1999 taxation year she claimed that she was entitled to claim a spousal amount deduction of $6,290.00 plus an equivalent to spouse claim in the amount of $5,718.00.
+[6] When the Appellant filed her income tax return for the 2000 taxation year she deducted the amount of $6,140.00 as an equivalent to spouse claim.
+[7] The Minister of National Revenue (the "Minister") assessed the Appellant's 1998 and 1999 taxation years on February 18, 2000.
+[8] The Minister assessed the 1998 taxation year as filed. The Minister assessed the 1999 taxation year by disallowing the equivalent to spouse claim and by disallowing the married amount that was claimed.
+[9] On the 21st day of January 2002 the Minister assessed the 2000 taxation year and disallowed the equivalent to spouse amount of $6,140.00 that was claimed.
+[10] In assessing the Appellant for the 1998, 1999 and 2000 taxation years the Minister determined that the Appellant was living in a conjugal relationship with Greg Davey in a self-contained domestic establishment. The Minister therefore concluded that the Appellant had a common-law relationship with Mr. Greg Davey and that the Appellant could not claim the equivalent to spouse claim nor the married amount claim.
+B. ISSUES
+[11] The issues to be determined are:
+(a) whether the Appellant is entitled to claim an equivalent to spouse amount in respect of the 1998, 1999 and 2000 taxation years; and
+(b) whether the Appellant is entitled to claim a married amount deduction in respect of the 1999 taxation year.
+C. ANALYSIS
+[12] During the hearing the Appellant testified that she did not have a conjugal relationship with Mr. Greg Davey in the 1998, 1999 and 2000 taxation years. The Appellant said that she was simply living in the same house with Mr. Davey to reduce their respective living expenses. Counsel for the Respondent accepted the Appellant's testimony and stated that he agreed that the Appellant did not live in a common-law relationship in the 1998, 1999 and 2000 taxation years.
+[13] I agree with the conclusion of counsel for the Respondent and I find that the Appellant and Mr. Greg Davey did not live in a common-law relationship in the 1998, 1999 and 2000 taxation years.
+[14] I also find that the Appellant is entitled to claim the equivalent to spouse amounts of $5,718.00 and $6,140.00 respectively in the 1999 and 2000 taxation years. The Appellant is also entitled to claim an equivalent to spouse amount deduction for the 1998 taxation year.
+[15] The appeals are allowed, without costs.
+Signed at Ottawa, Canada, this 21st day of May 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC331
+COURT FILE NO.:
+2002-4595(IT)I
+STYLE OF CAUSE:
+Sharon Atkin and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 5, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT:
+May 21, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Joel Oliphant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

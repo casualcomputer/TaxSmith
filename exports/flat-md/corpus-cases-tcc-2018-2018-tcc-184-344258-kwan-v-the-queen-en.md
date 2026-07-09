@@ -1,0 +1,154 @@
+---
+title: "Kwan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/344258/index.do"
+last_modified: "2018-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 184"
+citation2: ""
+neutral_citation: "2018 TCC 184"
+decision_date: "2018-09-11"
+language: "en"
+item_id: "344258"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4930
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:38:48.491000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f424e29f51bbc76ee84c20fbeb26fe1f21ab730b489123eca9ef9448eed1a60"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kwan v. The Queen
+
+- Citation: 2018 TCC 184
+- Decision date: 2018-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4930, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kwan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-09-11
+Neutral citation
+2018 TCC 184
+File numbers
+2017-4941(IT)I
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4941(IT)I
+BETWEEN:
+GARY KWAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard and decision rendered orally on September 10, 2018, at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Katherine Shortreed
+JUDGMENT
+The appeal with respect to child care expenses for the 2016 taxation year made under the Income Tax Act is allowed and the Appellant’s claimed expenses shall be reduced by $465, such that he shall be entitled to a deduction for child care expenses in the amount of $4,621 in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 11th day of September 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2018 TCC 184
+Date: 20180911
+Docket: 2017-4941(IT)I
+BETWEEN:
+GARY KWAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] The Appellant appeals from a reassessment of the Minister of National Revenue (the “Minister”) disallowing him $5,086 for child care expenses in his 2016 taxation year.
+[2] The Appellant had two children in that year, a son who turned 12 that year and a daughter 10. The Appellant was a banker who worked generally Monday to Friday from 9:00 a.m. to 5:30 p.m., while his spouse was a mortgage broker who worked similar office hours but also some evenings and weekends due to client demands. There is no dispute the children attended school on a full-time basis and were finished at about 3:00 p.m. daily.
+[3] The Appellant enrolled and paid for both or any one of the children to be involved in different activities after school throughout the year; including in chess programs, math tutoring classes, Chinese language classes, ski class and summer camp as well as hired two high school students and two university bilingual students to pick them up from various classes or mind over them during the year. The picture painted from the evidence is that the Appellant and his spouse are a modern busy working couple who have chosen a plethora of activities and care arrangements for their children to cover the after school hours before the finish of their work day.
+[4] The Appellant takes the position that all the expenses he incurred for these activities and services was to enable he and his wife to work their jobs or run their businesses; without which one of them would not be able to work. The Respondent takes the position that the activities the Appellant paid for were activities that do not qualify for “child care expenses” within the meaning of subsection 63(3) of the Income Tax Act (the “Act”).
+[5] Section 63 of the Act generally allows a taxpayer to deduct child care expenses up to $5,000 for an eligible child over 7 years of age and under 16 years of age; $8,000 for an eligible child under 7 years of age and $11,000 for a disabled child. In this case, the Appellant would have been entitled to deduct up to $5,000 for each of his two children.
+[6] Subsection 63(3) of the Act defines “child care expense”:
+child care expense means an expense incurred in a taxation year for the purpose of providing in Canada, for an eligible child of a taxpayer, child care services including baby sitting services, day nursery services or services provided at a boarding school or camp if the services were provided
+(a) to enable the taxpayer, or the supporting person of the child for the year, who resided with the child at the time the expense was incurred,
+(i) to perform the duties of an office or employment,
+(ii) to carry on a business either alone or as a partner actively engaged in business,…
+(Emphasis added)
+[7] Paragraph 63(3)(c) limits the expense that can be claimed for a camp to an amount equal to one-fortieth the amount of child care expenses the taxpayer can claim each year for an eligible child per each week of camp. In other words, since the Appellant herein can only claim $5,000 for each child over 7 years of age as indicted, then he can only claim $125 for each week of camp such child attends. In the case at hand, the parties are in agreement that the Appellant, who claimed $210 for each child, should only have claimed $125 each for the one week of camp each attended and so the deduction of $420 claimed for camp should be reduced by $170 to $250.
+[8] Paragraph 63(3)(d) prohibits deductions for expenses paid for medical or hospital care, clothing, transportation or education or for board and lodging except as otherwise expressly provided, by deeming them not to be child care expenses.
+[9] As the Respondent has pointed out, there have been two lines of cases dealing with child care expenses that are fundamentally at odds with respect to the interpretation of what constitutes a child care expense, separated it would appear, by different interpretations of the wording of the first three lines of the definition above. It should be noted that both lines of cases refer to all informal decisions, none of which are technically precedents in accordance with the provisions of the Tax Court of Canada Act.
+[10] The Respondent argues the Court should follow the line of cases she described as the Levine/Malecek line which encompasses Levine v The Queen, [1995] TCJ No. 1487, [1996] 2 CTC 2147 (TCC); Keefer v The Queen, [1999] TCJ No. 939, [2000] 2 CTC 2622 (TCC); Bell v The Queen, [2000] TCJ No. 844, [2001] 1 CTC 2308 (TCC); Sykes v The Queen, (2000) 3 CTC 2054; Burlton v The Queen, [2001] TCJ No. 662, [2001] 4 CTC 2710 (TCC) and Malecek v The Queen, 2007 TCC 271, 2007 DTC 833; all of which she argues stands for the proposition that the wording of the definition of “child care expenses” is restrictive so that recreational or education activities, not being enumerated as the types of examples given therein, were not intended by Parliament to be activities to fall within the realm of child care services. The underlying rationale for excluding these activities can be found in the statement of Archambault J. in paragraph 13 of Levine:
+…I do not think that recreational expenses disallowed by the Minister are child care expenses or “frais de garde d’enfants” within the meaning of paragraph 63(3)(a) of the Act. These expenses were not incurred for the purposes of watching over children to protect them, and therefore to enable the parents to earn income from employment. They were incurred to develop the physical, social and artistic abilities of the children. These expenses would have been incurred whether or not the parents had been working…
+[11] Frankly, I am inclined to disagree with the Respondent and follow the other line of cases she described as the Bailey/Jones line of cases which stand for the proposition that requires the court to look at the purpose for which the expense was incurred and not deny a bona fide child care expense solely because the activity is recreational or educational in nature.
+[12] All parties agree that the purpose of the legislation is to assist parents who work by subsidizing child care expenses in the form of a deduction as Rip C.J. noted in Bailey v The Queen, 2005 TCC 305, 2005 DTC 673, in paragraph 13, where he added:
+...Given that goal, it is difficult to accept the Minister's conclusion that any expense related to looking after the child of a working parent should be denied solely because it included an educative element. Such an interpretation would clearly undermine the intent of the Parliament for it would likely exclude all types of child care expenses, especially those in respect of a young child; for to a young child almost all positive interaction serves as education -- be it through discipline, television shows, stories or games.
+[13] In Jones v The Queen, 2006 TCC 501, 2006 DTC 3531, Woods J. as she then was, agreed with the principal purpose test enunciated by Rip C.J. in Bailey and held that “similar considerations should apply to recreational activities.”
+[14] I must also say that I find some concerns in the arbitrary manner in which the Levine/Malecek cases appear to be used. By example, in Malecek, McArthur J. agreed with Rip C.J. in Bailey that educational activities should be permitted. This inconsistency troubles me, frankly, but shows the movement to restrict recreational activities from the deduction appears to be the factual context of most of the cases cited in the Levine/Malecek line of cases.
+[15] Moreover, I am troubled by that interpretation of the definition of child care expenses; that it be restricted to those types of activities enumerated in the provision after the words “including”. There is no dispute by the Respondent here that the listed examples are not exhaustive - it is admitted. The clause does not say “only” the following activities nor does it use words limiting the acceptable activities to those examples or types of examples listed. If Parliament had intended to limit such activities it would have specifically said so in more specific and restrictive language.
+[16] Furthermore, as Rip C.J. stated in Bailey, at paragraph 11:
+Section 12 of the Interpretation Act requires that each enactment be given a fair, large and liberal construction and interpretation that best ensures the attainment of its objects. Although it is unnecessary to look at the legislative intent when the provision is clear, doing so, here, provides further support for this interpretation. Such an interpretation requires section 63 is be read in the context of the whole statute and with the 'object and spirit' and purpose of that provision in mind.
+[17] I also concur with Woods J. in Jones, that in the Levine/Malecek line of cases “it was not clear from the evidence that the recreational activity was really required to enable the parents to work.”
+[18] Adopting the purpose test, I conclude that as there is no dispute both parents worked full-time Monday to Friday, I am inclined to accept the evidence of the Appellant that enrollment of their children in Chinese classes after school hours was for the purpose of enabling them to work. I find the same for the chess, golf and other like classes the children were enrolled in with the exceptions noted below. Likewise, I find that hiring the two high school students, DL and JL, paid $345 in total, to pick up the children from classes and mind them clearly falls within the most basic definition of child care. For the same reasons, payments made to university students, JH and LP of $840 and $280 are deductible. Let me also add, that I accept that the Appellant was required to rely on more than the two high school students to care for their children after school hours and in my opinion, it does not matter that the university students charged $5 more per hour and were bilingual so as to speak French to the Appellant’s children. It is not for the state to decide who minds the Appellant’s children as long as the expenses claimed are reasonable.
+[19] I also wish to comment on the suggestion of the Respondent that suggested higher hourly expenses for class instructors or student minders should not be allowed if opportunity exists for incurring lower costs. With respect to the Respondent, as Lamarre Proulx J. stated in Lessard v The Queen, 2003 TCC 266, [2003] TCJ No. 231, at paragraph 12:
+…The taxpayer is responsible for choosing…the child care services he or she wishes to use; the taxpayer makes this choice on the basis of the child's needs, and this choice is an exercise of parental discretion.
+[20] Moreover, the Minister has sought to limit the taxpayer’s spending by placing an overall limit on the deduction the taxpayer may claim, based on the child’s age and capacity. How he reaches those limits in reasonable ways is solely within his or her discretion.
+[21] Finally, I would like to also comment on the Respondent’s suggestion that as the older of the Appellant’s children reached 12 years of age in the 2016 year, there may not have been need for some of these expenditures. I remind the Respondent that the Parliament grants child care expenses for eligible children up to the age of 16. A parent alone has the right to decide when a child 12 or older should stay home alone.
+[22] I allow all the expenses claimed except for the following on which I was not convinced were necessary to enable the Appellant or his spouse to work. The Appellant is denied $35 paid for his son to attend a chess tournament on a Saturday with a friend. There is no evidence the Appellant was required to work Saturdays or that his spouse was not available for their care at that time. Likewise, the $260 paid to enroll the children in the Whistler Ride Tribe program which consisted of skiing all day Fridays, when they could have been in school, does not appear to have facilitated the parents to work and appears to be for a primarily recreational purpose. As earlier mentioned, the camp expense claim will also be reduced by $170.
+[23] In conclusion, the Appellant’s claimed expenses shall be reduced by $465, such that he shall be entitled to a deduction for child care expenses in the amount of $4621.
+Signed at Vancouver, British Columbia, this 11th day of September 2018.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION:
+2018 TCC 184
+COURT FILE NO.:
+2017-4941(IT)I
+STYLE OF CAUSE:
+GARY KWAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 10, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT:
+September 11, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Katherine Shortreed
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

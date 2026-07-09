@@ -1,0 +1,108 @@
+Title: Warren c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25083/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-357-25083-warren-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-21
+
+# Warren c. La Reine
+
+- Citation: 2003 CCI 357
+- Decision date: 2003-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2493, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warren c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-21
+Référence neutre
+2003 CCI 357
+Numéro de dossier
+2001-4454(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI357
+Date : 20030521
+Dossier : 2001-4454(GST)I
+ENTRE :
+BRENDA DIANN WARREN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT SUPPLÉMENTAIRES
+Le juge Little, C.C.I.
+[1] Le présent appel a été entendu le 10 juin 2002, à Kamloops (Colombie‑Britannique).
+[2] Le 30 juillet 2002, le jugement et les motifs du jugement ont été envoyés par la poste aux parties.
+[3] Au paragraphe 12 des motifs du jugement, j'ai indiqué que j'avais accepté le témoignage de différentes parties et que j'avais conclu que Dennis devait à l'appelante au moins 38 216,90 $ avant de lui transférer son intérêt dans les bien‑fonds.
+[4] Au paragraphe 13 des motifs du jugement, j'ai affirmé ceci :
+L'appel est accueilli, et j'enjoins au ministre de réduire de 38 216,90 $ la TPS de 71 500 $ imposée à l'appelante. Il n'y aura pas d'autres rajustements à l'avis de nouvelle cotisation.
+(Je souligne.)
+[5] Maître Kenneth Hauser, l'avocat de l'appelante, a envoyé à la Cour de l'impôt une lettre datée du 16 août 2002. Maître Hauser y indiquait que les motifs du jugement ne traitaient que de l'argument que l'appelante avait donné à M. Warren une contrepartie s'élevant à 38 216,90 $. Dans sa lettre, Me Hauser affirme que le jugement n'abordait pas la question suivante :
+[TRADUCTION]
+La question de savoir si la responsabilité de l'appelante devrait être réduite de 33 500 $ afin de tenir compte du fait que l'intérêt de M. Warren dans les deux bien-fonds n'est que de 38 000 $, comme le fait valoir l'affirmation de l'appelante selon laquelle le produit tout entier de l'hypothèque grevant le 1695, rue Pine Grove avait servi à l'entreprise de M. Warren.
+[6] Par voie de lettre du 28 août 2002, Michael Taylor, l'avocat de l'intimée, a écrit à la Cour de l'impôt relativement aux observations faites par Me Hauser dans sa lettre du 22 août 2002. Dans sa lettre, Me Taylor dit ceci :
+[TRADUCTION]
+[...] l'intimée soutient que la question soulevée par Me Hauser dans sa lettre a fait l'objet d'une argumentation complète devant le juge Little.
+Maître Taylor m'a renvoyé à plusieurs décisions de la Cour.
+[7] Relativement à l'affirmation de l'avocat de l'appelante que la responsabilité de celle-ci devrait être réduite de 33 500 $ pour tenir compte du fait que le produit entier de l'hypothèque a servi à l'entreprise de M. Warren, j'ai soigneusement examiné de nouveau le témoignage suivant.
+Maître Hauser, l'avocat de l'appelante, a posé à M. Warren des questions concernant l'hypothèque enregistrée à l'encontre du domicile situé au 1695, rue Pine Grove. Maître Hauser a mentionné la demande d'hypothèque.
+[TRADUCTION]
+Q. Pourquoi la demande de prêt était-elle en vos deux noms?
+R. La banque nous a dit, la première fois que je suis allé demander le prêt, qu'il faudrait que nos deux noms y figurent pour qu'on puisse avoir le prêt. Ma femme était très fâchée par —. Elle ne voulait absolument pas que son nom soit mentionné.
+(Transcription, p. 11, lignes 11-17)
+Q. La signature de Brenda figure-t-elle sur l'une ou l'autre de ces trois pages?
+R. Non, elle n'y est pas.
+Q. Pourquoi pas?
+R. Elle ne voulait pas —elle a refusé de signer ces documents. Elle ne voulait pas y aller et signer les documents, elle ne voulait pas se mêler à cela.
+Q. Pourquoi pas?
+R. Elle ne voulait pas que la maison soit liée à — d'une telle façon.
+(Transcription, p. 12, lignes 15-25, et p. 13, lignes 1-2)
+[8] Bref, lors de l'interrogatoire principal, M. Warren a dit que sa femme avait refusé de signer la demande d'hypothèque.
+[9] Lors du contre-interrogatoire de M. Warren, celui-ci et Me Taylor, l'avocat de l'intimée, ont échangé les propos suivants.
+[TRADUCTION]
+Q. Votre femme ne voulait pas se mêler à l'hypothèque, et vous nous avez montré à l'onglet A‑1, votre demande d'hypothèque auprès de la CIBC, et je pense que vous avez insisté sur le fait que votre femme n'avait pas signé la demande. Mais votre femme a fini par accepter qu'une hypothèque soit consentie sur le bien-fonds, n'est‑ce pas?
+R. Non, elle ne l'a pas accepté.
+(Transcription, p. 36, lignes 19-25)
+Q. Elle a signé une hypothèque, n'est-ce pas?
+R. De quelle hypothèque parlez-vous?
+Q. De l'hypothèque que je suis en train de vous montrer.
+R. Pour la maison ou pour —
+Q. Une pour le greffier. À présent, M. Warren, ce document que j'ai posé devant vous est une hypothèque enregistrée au bureau d'enregistrement des droits immobiliers à l'encontre de votre bien‑fonds de Lillooet, n'est-ce pas?
+R. Oui.
+Q. Et à la deuxième page, vous et votre femme avez tous deux signé cette hypothèque, n'est-ce pas?
+R. Oui, nous l'avons fait.
+Q. Donc, en fin de compte, votre femme a accepté que le bien-fonds soit hypothéqué et de consentir à la banque une hypothèque sur son intérêt, n'est-ce pas?
+R. Ouais.
+LE JUGE : Me Taylor, est-ce bien la pièce R-1?
+Me TAYLOR : Je me propose de la déposer maintenant comme pièce, Monsieur le juge.
+LE JUGE : D'accord.
+PIÈCE R-1 : Hypothèque sur le bien-fonds de Lillooet
+(Transcription, p. 37, lignes 1-25)
+PAR Me TAYLOR :
+Q. Donc, M. Warren, même si vous dites avoir utilisé les 81 000 $ de cette hypothèque pour votre entreprise, en fait vous êtes tous deux responsables de ce montant, votre bien-fonds avait servi de garantie, et vous étiez l'un comme l'autre responsables de cette hypothèque, n'est-ce pas?
+R. Non, c'était mon hypothèque. Je l'ai utilisée pour mon matériel. Elle devait mettre son nom sur le document, pour la simple raison qu'avant cela, c'était à nos deux noms, et les banques refusaient un seul nom. C'est comme — elles voulaient avoir le plus de gens possible, et si elles pouvaient vous faire signer, elles le faisaient.
+Q. Donc, si la banque décidait de recouvrer le montant de l'hypothèque, votre femme pouvait dire : « Oh, ne me demandez rien, même si j'ai signé. Mon mari a utilisé tout l'argent pour son entreprise. Je garde ma moitié du bien-fonds. » C'est ce que vous croyiez?
+R. Non, pas exactement.
+Q. Alors, j'aimerais que vous nous expliquiez exactement dans quelle mesure — dans quelle mesure votre femme a accepté cette hypothèque. Parce que vous avez dit qu'elle ne l'avait pas acceptée, et qu'elle n'avait pas signé la demande. Mais en fait, elle a signé l'hypothèque, et sa responsabilité est donc engagée envers la banque.
+R. Et bien, elle l'a signée, mais c'est après beaucoup de discussions continues pendant des jours à ce propos, et elle était très fâchée...
+(Transcription, p. 38, lignes 1-25).
+[10] Bref, Mme Warren a signé le document hypothécaire (pièce R‑1), même si M. Warren affirme qu'elle n'a pas signé la demande d'hypothèque.
+[11] Après un examen rigoureux de la preuve précitée, nous observons que l'hypothèque grevait le bien-fonds de Lillooet. Celui-ci appartenait conjointement à l'appelante et à M. Warren. Puisque l'intérêt de l'appelante à l'égard du bien-fonds et celui de Dennis Warren à cet égard étaient tous deux assujettis à l'hypothèque, je rejette l'argument avancé par l'avocat de l'appelante selon lequel l'intérêt de l'appelante dans le bien-fonds de Lillooet devrait être réduit de 33 500 $.
+[12] Aucun changement ne sera apporté au jugement rendu le 30e jour de juillet 2002.
+Signé à Ottawa, Canada, ce 21e jour de mai 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 13e jour d'avril 2005.
+Yves Bellefeuille, réviseur

@@ -1,0 +1,282 @@
+---
+title: "NRT Technology Corp. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31030/index.do"
+last_modified: "2012-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 420"
+citation2: ""
+neutral_citation: "2012 TCC 420"
+decision_date: "2012-11-30"
+language: "en"
+item_id: "31030"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4853
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:01:17.628000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50f987d43dab1e645712f1235089bdf6a56aed34d9349edd37f9b96eb7aac6f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# NRT Technology Corp. v. The Queen
+
+- Citation: 2012 TCC 420
+- Decision date: 2012-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4853, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+NRT Technology Corp. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-11-30
+Neutral citation
+2012 TCC 420
+File numbers
+2010-1901(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1901(IT)G
+BETWEEN:
+NRT TECHNOLOGY CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 22, 23, 24, 25 and 26, 2012,
+at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+David W. Chodikoff and
+Tarsem Basraon
+Counsel for the Respondent:
+Arnold H. Bornstein and Rita Araujo
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the taxation year ended September 30, 2007 is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 30th day of November 2012.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2012 TCC 420
+Date: 20121130
+Docket: 2010-1901(IT)G
+BETWEEN:
+NRT TECHNOLOGY CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] NRT Technology Corp. ("NRT") appeals the Minister of National Revenue’s (the "Minister") assessment of its taxation year ended September 30, 2007, in which the Minister denied the non-capital losses brought forward as losses of Telepanel Systems Inc. ("Telepanel"), a company taken over by NRT in January 2006. NRT argues that the losses of $4,609,026 are fully deductible against NRT’s other income as it is in compliance with subsection 111(5) of the Income Tax Act (the "Act") in that :
+a) in the 2007 taxation year it carried on Telepanel’s business for profit or with a reasonable expectation of profit throughout the year; and
+b) the income against which it deducted the losses was derived from the sale of similar properties as Telepanel’s property, being the Electronic Shelf Label ("ESL") system.
+Facts
+[2] I heard evidence from Mr. Chris Skillen, formerly the moving force behind Telepanel, Mr. McArthur, a former employee of Telepanel subsequently employed by NRT (now as Director of Sales), Mr. Mazza, an officer of Wincor Nixdorf, a distributor of a rival company in the ESL industry, Mr. Grundy, the CFO of NRT, Mr. Dominelli, the President and moving force of NRT and an expert, Mr. Perrier, who explained the technology behind Telepanel’s ESL system.
+[3] I will start by describing the product which constituted Telepanel’s business, the ESL system. As the name implies ESL is a relatively small plastic covered module affixed to a grocery store shelf: it has a small LCD screen used to display products’ prices, with the ability, through the use of a central computer, to change the price display automatically. The expert went through a much more detailed explanation of the many components of the ESL technology from the price display module, to store antenna, to a base station transmitter/receiver through wireless access points to the actual computer and software application and onto a main computer. Mr. Perrier pointed out some unique elements of the Telepanel ESL technology: the high quality plastic container, the durable mounting mechanism, a process to ensure a long battery life and, most importantly, a two-way radio function, so that not only does the module receive the price information, it communicates back to the central computer that it has been received.
+[4] Telepanel started in 1983, peaked in the mid-1990s and went steadily downhill from there until its eventual purchase by NRT in 2006. At its peak, in the mid‑1990s, Mr. Skillen described it as having sales in the millions and the market leader with more stores (approximately 150) using the product than anyone else. At that time it also had 50 employees. It had an arrangement with IBM to serve as a distributor of its product, an arrangement that continued until 2002.
+[5] Mr. Skillen left the helm of Telepanel in 2000 after having helped with raising $5,000,000 for the company through a prospectus for the purpose, as he put it, of allowing the company to continue the business. Notwithstanding the injection of funds, the Telepanel business started to decline in 2000 as a result of competition, the introduction of self-scanners which sucked capital investment from ESL systems and the general malaise hitting the technology industry. Indeed, in PricewaterhouseCoopers notes to the financial statements of Telepanel for the years ended January 2000 and 2001, PricewaterhouseCoopers noted:
+The accompanying consolidated financial statements have been prepared using Canadian generally accepted accounting principles applicable to a going concern. The use of such principles may not be appropriate because, as of January 31, 2001, there was substantial doubt that the company would be able to continue as a going concern. If the going concern basis was not appropriate for these consolidated financial statements, then significant adjustments would be necessary to the carrying value of the assets and liabilities, the reported revenue and expenses and the balance sheet classifications used.
+[6] After 2002, it became even more difficult to finance the business, orders were declining and by 2003 Telepanel had to start laying off employees. It went from 20 to 30 employees in 2003 to 12 in 2004 and just a handful after that. The few left were hired as independent contractors and were only working a few hours per week: there were no employees as such.
+[7] The number of stores with Telepanel’s ESL system peaked in 1995 at 150 and went to 134 in 2000, 100 in 2004 and 60 in 2005, though Mr. Dominelli, upon agreeing to purchase the Telepanel business believed there were far less stores than Telepanel suggested.
+[8] Mr. Skillen testified that Telepanel had never, throughout its existence, made a profit. Telepanel’s revenue came from the sale of the modules, interfaces, transceivers and antenna, the sale of software along with refurbishments and licence fees. By the end of 2004, even having put more of his own money into the business, Mr. Skillen realized that the company needed to find a buyer. In late 2004, he contacted potential purchasers, Symbol Technologies, Pricer and Retail Store Systems (an affiliate of IBM), indicating he expected the bidding to start at $2,500,000. There were no bidders.
+[9] Through his lawyers, Mr. Skillen was put in touch with NRT, which he described as having some ideal characteristics:
+- retail experience;
+- an understanding of the scanning environment;
+- a United States sales force;
+- an understanding of ESL technology; and
+- a manufacturing facility in Toronto which would be a great location to use Telepanel’s resources.
+[10] Mr. Skillen first met with Mr. Dominelli of NRT in April 2005 at Telepanel’s premises. Mr. Dominelli realized there was not much there physically. He did however see a technology that was of interest, a technology that could complement the Scanvue (NRT’s retail scanner) and be a fit with its customers such as Canadian Tire and Petrocan. He also could envision different uses for the technology in the gaming industry, which was the most significant element of NRT’s business. Mr. Dominelli recalled that Mr. Skillen was seeking several million dollars for the business which he felt was too high.
+[11] At a second meeting, Mr. Skillen and Mr. Dominelli discussed the technology and the number of stores. Mr. Dominelli was made aware of Telepanel’s losses though the number kept changing, as Mr. Dominelli put it, as the years dropped off. Telepanel, primarily through Mr. McArthur, made a presentation to Mr. Dominelli who was impressed with Mr. McArthur’s handle on the business. Mr. Dominelli realized he would be acquiring a bankrupt company though felt he knew how to get it going again. He put an offer of $1,000,000 on the table which Mr. Skillen accepted. Mr. Dominelli acknowledged he probably would have paid more. His intention was to acquire the technology and felt the tax losses were a bonus. The amount of losses was not determined as Telepanel had not filed returns for a number of years. The acquisition was delayed until returns were prepared and filed. Telepanel’s creditors also had to be dealt with through a Proposal to Creditors. Telepanel, in the fall of 2005, had over $22,000,000 of liabilities and only $225,000 of assets.
+[12] Prior to making an offer in November of 2005, Mr. Dominelli had agreed to let the remnants of the Telepanel business move into its premises, as Telepanel was having problems with its landlord. Mr. Dominelli indicated he saw a business in stress and it was in his nature to help out. He also feared he might lose the technology if he did not help out. NRT therefore provided three cubicles plus space for inventory and workspace to Telepanel. NRT also hired Mr. McArthur, as, according to Mr. Dominelli, he felt he had the technological and customer background he needed. He also hired Mr. Cheung primarily to fix modules, which he did starting in the fall of 2005 notwithstanding the sale did not complete until early 2006.
+[13] NRT made its offer to acquire Telepanel on November 4, 2005. The following are some of the terms of note:
+NRT Technology Corporation ("NRT") hereby offers, on the terms and subject to the conditions set out herein, to subscribe or cause its designated subsidiary or affiliate to subscribe for all the new common shares to be issues in the capital stock of Telepanel Systems Inc. ("TSI"), as described in the attached Schedule "A" (the "New Common Shares"), for the sum of CAN$1,000,000.00 (the "Consideration"). The Consideration will be paid upon the successful completion of this Agreement to Mintz & Partners Limited (the "Trustee"), the trustee with whom TSI will forthwith after execution of this Agreement lodge a proposal under Part III, Division I of the Bankruptcy and Insolvency Act (Canada) the ("BIA"), for the benefit of the creditors of TSI.
+…
+1. The Proposal
+1.1 TSI will at its own expense:
+(a) file, seek creditor approval of and Ontario Superior Court of Justice, in Bankruptcy and Insolvency (the "Court"), approval of (including the required order of the Court as authorized under section 191 of the Canada Business Corporations Act (the "CBCA"), and
+…
+1.3 Upon implementation of the Proposal and completion of this Agreement:
+(a) except as expressly agreed in writing by NRT, TSI will have no liabilities of any nature, kind or priority whatsoever, including any liabilities to which TSI may become subject on or after the filing of the Proposal (collectively, "Liabilities"), and shall own the following property and assets:
+(i) the property and assets (including books and records) described in the attached Schedule "C"; and
+(ii) the full benefit of and entitlement to the use without restriction of non-capital loss carryforwards for income tax purposes in the amount of at least $15 million measured as if TSI had a year-end for tax purposes immediately prior to the completion of the Transaction and after such tax loss carryforwards have been reduced or otherwise adjusted by any debt forgiveness or other matters arising from the Transaction including the Proposal (collectively, all such tax loss carryforwards being the "Tax Losses");
+…
+7.2 The Consideration shall be used solely and exclusively for the purposes of:
+(a) payment of TSI’s legal, consulting and Trustee’s fees and disbursements in connection with this Agreement, the Proposal, the BIA proceedings and the Transaction, not to exceed $200,000; and
+(b) payment by the Trustee of the distributions to creditors of TSI required under the Proposal.
+…
+8.1 … On completion, TSI shall deliver to NRT on terms satisfactory to NRT:
+(d) an undertaking of Christopher Skillen to assist and co-operate with NRT as NRT may request to support and facilitate NRT’s full benefit and entitlement to the use without restriction of the Tax Losses, including, without limitation, by providing NRT with access, and consents to access, to all documents, books, records, information and facts relevant to the Tax Losses or the amounts thereof not included with the Assets.
+[14] Mr. Skillen received a $90,000 fee from the sale of Telepanel.
+[15] Shortly after the sale, Mr. McArthur drafted a news release announcement for NRT’s website:
+It is NRT Technology Corp.’s intent to continue to manufacture, support and develop the Telepanel product line. Former Telepanel Systems Inc. customers have the opportunity to be supported and serviced by NRT Technology Corp.
+Mr. McArthur acknowledged that at that time he was of the view that when it was appropriate the modules would start to be manufactured.
+[16] By the time of the acquisition by NRT of Telepanel in January 2006, NRT had two former employees of Telepanel on staff, Mr. McArthur and Mr. Cheung. Mr. McArthur had been let go by Telepanel in 2004 and was, as he testified, excited to see it restart with NRT and hopefully it would happen again. At Telepanel he had done everything from design technologist to customer support and project management, and as the operations diminished he constituted the entire sales team.
+[17] Mr. McArthur explained that Telepanel installed ESL in Europe, the United States and Canada, though, due to stringent requirements in Connecticut grocery stores that State was the major consumer, and it was saturated by 2000. Before reviewing what Mr. McArthur and Mr. Dominelli did after the acquisition in January 2006 of the ESL business by NRT, it is important to set out what made up NRT’s business.
+[18] Mr. Dominelli, after many years with Eaton’s, laterally working in Point of Sale systems, moved to PIP Retail Systems, working in Point of Sale technology, which ultimately led to the establishment of NRT in 1993. Mr. Dominelli is its sole shareholder. The executive summary of NRT’s 2007 business and marketing plan describes the business as follows:
+NRT Technology Corp. is a leading provider and integrator of automated transaction based systems. NRT specializes in innovative solutions for the Gaming and Retail industry. NRT is currently positioned to achieve dramatic sales growth highlighted below over the next three years. This growth will be achieved in the Gaming Industry, where NRT has achieved recognition as the industry leader in Attendant and Patron Self-Service transaction processing.
+[19] The primary Point of Sale products that NRT developed over the years, up to the time of the acquisition of the Telepanel technology, were from two departments: gaming and retail. Those products are described as follows:
+(a) QuickJack. This is a form of ATM used originally in casinos, though now expanded to racetracks, radio game terminals in bars and betting stations, which would allow individuals, within a very short period of time to cash in their winnings or vouchers through QuickJack. This product requires NRT to obtain gaming licensing approval in the many jurisdictions worldwide where it sells the product. It has been hugely successful and clearly makes up the vast majority of NRT’s revenues.
+(b) Cary Keyboards. These are specialized keyboards sold into the retail and gas station market. NRT acquired assets of Cary Peripherals Inc. in 1999, by buying out the bank’s position. Mr. Dominelli testified it was the keyboard programmability that made it special.
+(c) Scanvue. This is a price verifying scanner that Mr. Dominelli took years to perfect. It was being marketed primarily to Canadian Tire.
+[20] In 2007, NRT was also in the throes of several new product developments, one among them being QuickChip, described in the 2007 Business Plan as follows:
+The QuickChip extends the redemption function of the QuickJack product to the table gaming environment. Chip’s would be accepted, validated, and valued by the system and then stored in a secure safe. Both RFID Chips and conventional chips could be used.
+Table gaming chips would be presented to the QuickChip machine and the chips would be validated and the value of accepted chips displayed for the patron. …
+[21] I was left with the clear impression that NRT’s main thrust was on the gaming side, and this was where the company’s fortunes lay. This view was confirmed by an article the Appellant presented at trial from a gaming industry magazine produced in 2008. It suggested that 95% of NRT’s business was in gaming.
+[22] I turn now to the circumstances surrounding Telepanel’s ESL business after NRT took over, that is from January 2006 forward. Clearly, the most significant time period for purposes of this Appeal is the year in question, from October 1, 2006 to September 30, 2007, but it is useful to review activities prior to that to put the later activities in perspective.
+[23] As indicated, Mr. Dominelli hired two former Telepanel employees even before the takeover, Mr. McArthur and Mr. Cheung. It is those three, Mr. Dominelli, Mr. McArthur and Mr. Cheung who remained involved in what remained of Telepanel’s business. Mr. Dominelli believed that ESL would be a good fit with Scanvue particularly and with its customers, Canadian Tire and Petrocan. He also saw a possibility of using ESL technology in the gaming industry, for example putting an ESL tag in a slot machine to take electronic readings or developing a casino chip with RFID (Radio Frequency Identification). Mr. Dominelli acknowledged that, after the takeover, every time he spoke to Mr. McArthur it was clear they were losing more ESL customers, customers he had hoped to preserve.
+[24] Mr. Dominelli approached both Canadian Tire and Petrocan. I find that he would have done so prior to September 30, 2006. Canadian Tire had no budget for the ESL system. As Mr. Dominelli said, interest was declining, customers were not buying. He said that efforts were made to go out and sell but provided no extensive description of such efforts other than his contact with Canadian Tire and Petrocan and Mr. McArthur approaching grocery stores. Mr. McArthur likewise went into little detail of the extent of such pursuit of customers and I find that after a few months, and certainly before September 30, 2006, Mr. Dominelli realized that the market was virtually dead for ESL and his plan was to simply wait and see. He was not about to put good money immediately into ESL; according to him the timing was simply not right. He believed that NRT could deliver quickly if the market did come back. Mr. McArthur, the Telepanel expert however, in December 2007 (after the year in question) advised Mr. Dominelli in an email as follows:
+If we were to fully "relaunch" the Telepanel line I estimate it would take a commitment of a minimum of $500,000 to continue with the current product (programmers, support, electrical engineers, install team, etc. + manufacturing ramp-up) and $1 – 2,000,000 to develop the product to go to a next generation product. I would think it would take 5-9 Months to be fully ready for market for the existing product and 12-18 Months for a pilot of a next gen product.
+[25] Mr. Dominelli also testified that the obligation to pay Canada Revenue Agency ("CRA") the amounts owed due to the reassessments caused him pause, however, this was well after the 2006 and 2007 taxation years.
+[26] It was really Mr. McArthur who, now employed by NRT, was the go-to person for ESL business. It was Mr. McArthur who took control over everything brought over from Telepanel, organizing and educating NRT staff and consolidating with NRT business, while also attempting to understand NRT’s way of doing business. It was Mr. McArthur who understood the grocery retail market, who understood the ESL technology, who knew existing Telepanel’s customers and who clearly believed in the ESL technology. He was "hopeful it would happen again". Even today, Mr. McArthur testified he has not given up and still has hope NRT can restart the product, as it was simply not right in the last few years but believes there is fertile ground in the future. Indeed, Mr. McArthur just recently discovered a competitor was installing ESL systems in Canada. Mr. Mazza, a representative of Wincor Nixdorf, testified that they had distributed in 15 stores and expected 30-plus stores in 2013 in Canada though had 5000 stores worldwide with ESL systems in place.
+[27] Mr. McArthur recommended NRT hire Paul Cheung in October 2005 specifically to provide support for the repair and refurbishment of ESL modules. The evidence was vague as to how much of this work, if any, took place in the year ended September 30, 2007.
+[28] Mr. McArthur testified that sales efforts continued in 2006 to 2008 with contacts with existing customers as well as NRT’s two major retail customers, Canadian Tire and Petrocan. Mr. McArthur went so far as to suggest he was still spending 40% of his time on ESL in the 2007 fiscal year. I can only presume this time was spent on reviewing the possibility of ESL technology being manipulated for use in the gaming industry, and was not spent on pursuing the sale of ESL modules. I have concluded that within a few months of the takeover, Mr. Dominelli had determined that marketing ESL was not viable. It would make little sense, with this direction, that Mr. McArthur was expending any efforts at all in that regard. Indeed, subsequent correspondence (December 2007 email) confirms that the ESL business was dormant.
+[29] What concrete evidence was presented at trial of ongoing conduct of ESL business by Mr. McArthur after the takeover? As I have indicated, there are two time periods: the 2006 fiscal year and the 2007 fiscal year. First, the concrete evidence as to activity in the 2006 taxation:
+(a) February 2006. Mr. McArthur responded by email to an inquiry about distributing ESL in Venezuela, Colombia and the Caribbean, indicating that NRT was pursuing distribution agreements at this time, concentrating on the domestic market.
+(b) February 2006. Mr. McArthur sent out the announcement letters mentioned earlier.
+(c) March 2006. Mr. McArthur sent an internal email as follows:
+Before we start marketing and selling Telepanel, John D. feels we must be ready to produce and support the product. In order to better plan to do so, I have created a collection of Telepanel documentation on the NRT NAS server. A project is underway to provide some of this in a web format in the next week or two.
+Please review this information. I would like to meet with you at your convenience so we can plan how best to move forward with the product.
+(d) March 2006. Mr. McArthur provides Mr. Dominelli with a spreadsheet that was done several years earlier projecting 500 stores per year.
+(e) April 2006. There is the following correspondence between NRT staff (Middlestadt to Orr – April 10, 2006):
+Terry, The initial work plan for Telepanel Services was to repair/refurbish modules sent in from customers. Only a small fraction of the total repaired modules have been sent back and billed. We continued to refurbish the modules that were returned from customers. The completed work was not shipped and billed as a PO was unavailable from the customers. Eventually it was revealed that the remaining customers were no longer using the product and subsequently the repaired goods have become the property of NRT.
+At this point it appears that further repair work on Telepanel modules will be a waste of resources. The tech hired for this work, Paul, is currently doing an inventory. He has completed a count of parts in his area, and the next step is to pull the pallets down one by one and continue counting.
+Mr. Dominelli asked Mr. McArthur about this and Mr. McArthur responds in part:
+… A&P has thus decided to replace the Telepanel systems with brand new NCR systems. This replacement is now underway with expected completion by the summer. A&P indicated we could keep the modules we have. These could be used to fill future orders for spares in this existing client base.
+… It would seem that they are basically giving the modules away now, likely having written down there book value. This will make it very difficult to sell new modules until NCR either exhausts there stock in module or prices there product to make a profit.
+[30] In the 2007 fiscal year, I have the following evidence:
+(a) February 2007. The Stop & Shop Supermarket pays $9,625 to NRT for software support as an annual fee, though Mr. McArthur acknowledges this was the only licence renewal over a six year period.
+(b) February 2007 to April 2007. Mr. McArthur is contacted by a customer, Mr. Butler with Island Park Duty Free, having difficulties with ESL batteries. Mr. McArthur attempts to find replacements at a decent price.
+(c) May 2007. Mr. McArthur provides information to Mr. Butler so he can program the system with replaced batteries, apologizing for the delay in responding.
+[31] At the time of the acquisition in January 2006, Telepanel had losses available for carryforward of $12,520,548. Initially, NRT used some of those losses to offset 2006 income, but was subsequently assessed allowing considerable management bonuses which meant NRT no longer needed Telepanel’s losses in the 2006 year. It did, however, have taxable income of $4,609,026 in the 2007 taxation year, primarily from the QuickJack side of the business, which NRT sought to apply against the Telepanel losses. The Minister denied the use of those losses.
+Issue
+[32] Can NRT carryforward non-capital losses of $4,609,026 incurred by Telepanel and acquired by NRT to NRT’s September 30, 2007 taxation year to offset NRT’s taxable income of an equal amount? This issue has two elements:
+(a) Did NRT carry on Telepanel’s business for profit or with a reasonable expectation of profit throughout the year ended September 30, 2007?
+(b) If so, was NRT’s income against which it deducted the $4,609,026 loss derived from the sale of similar properties as the ESL?
+Analysis
+[33] The applicable legislation in paragraph 111(5)(a) of the Act reads:
+111(5)(a) Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non‑capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that
+(a) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the total of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+a) Carrying on of Telepanel’s business for profit or with reasonable expectation of profit
+[34] Clearly, the legislation contemplates not just the carrying on of the business, in this case Telepanel’s ESL business, but doing so with a reasonable expectation of profit throughout the year: in effect, two hurdles for NRT to get over.
+i) Carrying on business in 2007
+[35] First, was NRT carrying on Telepanel’s ESL business in the 2007 taxation year? Telepanel’s business to be clear was the sale of the ESL systems: that was the business in which the loss arose. Naturally this entailed the development, manufacturing, marketing and ongoing maintenance of the ESL product.
+[36] So in what activity did NRT engage in the 2007 taxation year that constituted carrying on that business? Very little. But enough says the Appellant that it operated that business as a "going concern". The Appellant relies on a comment from the Federal Court of Appeal in the one-page judgment of Garage Montplaisir Ltée v. Canada 2000[1] to support the argument that "going concern" is the appropriate test to be met for the application of paragraph 111(5)(a) of the Act. The Federal Court of Appeal stated:
+[3] On the other hand, in her reasons the trial judge cited with approval a passage from the Tax Court of Canada decision in the case at bar to the effect that the purpose of s.111(5) "is not the carryover of losses as such but the strengthening or survival of a declining business".
+[4] We do not feel that the wording of s.111(5) supports such a statement. All that can be said is that the business of a company subject to a takeover must still be a "going concern" after the takeover if the company resulting from the merger is to be entitled to the accumulated losses.
+[Emphasis Added]
+[37] Mr. Chodikoff argued that to be a going concern requires very little activity, citing Black’s Law dictionary, 9th edition definition as "a commercial enterprise actively engaging in business with the expectation of indefinite continuance". He also goes on to rely on the definition of "going concern" taken from the Canadian Institute of Chartered Accountants Handbook:
+An assumption underlying the preparation of financial statements in accordance with generally accepted accounting principles is that the enterprise will be able to realize assets and discharge liabilities in the normal course of business for the foreseeable future. This is commonly referred to as the going concern assumption.
+The Appellant contends that as long as the assets of the business are not about to be disposed of, it is a going concern. That may be an appropriate accounting principle but it is not the law. With respect, in the case of Duha Printers (Western) Ltd. v. R.,[2] the Supreme Court of Canada simply defined subsection 111(5) of the Act requirement as follows:
+However, this is subject to at least one important qualification: under section 111(5) where "control" of a corporation has been acquired by another person (the "Purchaser"), that corporation’s non-capital losses from the carrying on of a business are only deductible by the Purchaser in a subsequent taxation year if, throughout that year and after that time, the business in question was carried on by the corporation with a reasonable expectation of profit – that is, as a going concern.
+That is the test. I do not accept the proposition the Appellant put forward that "going concern" has some other meaning, one that effectuates a less onerous requirement for the carrying on of a business for purposes of paragraph 111(5)(a) of the Act. The words of this section cannot be displaced by "going concern": that expression, according to the Supreme Court of Canada, simply is a shorthand way of encapsulating the subparagraph 111(5)(a)(i) of the Act requirement. It matters little what name tag is put on the requirement. What matters is the determination of whether NRT was in fact carrying on Telepanel’s ESL business in the 2007 taxation year.
+[38] The Appellant argues that NRT continued to search for potential revenue sources either (i) through sales of ESL systems or (ii) through potential application of ESL technology in the gaming industry. The latter, however, was not the business of Telepanel in which the losses arose. The fact that Mr. Dominelli, perhaps a visionary in the application of technology to the gaming industry, could see a potential use for ESL-like technology, does not somehow make that pursuit retroactively the business of Telepanel. That may have relevance to the issue surrounding subparagraph 111(5)(a)(ii) of the Act but it is irrelevant to my deliberations under subparagraph 111(5)(a)(i) of the Act. So, was NRT searching for new sales of ESL systems to retailers in the 2007 taxation year? I find NRT was not.
+[39] In the 2006 taxation year, Mr. Dominelli did inquire of Canadian Tire and Petrocan if they were interested in ESL. They were not. The evidence is overwhelming that within a few months of the acquisition, the complete lack of potential sales resulted in what I will call a wait and see attitude. The timing was simply not right. There was no evidence of any concerted marketing plan to sell ESL in the 2007 taxation year. The 2007 business plan talked of potential, but there was no plan as such for realizing that potential. No, in the 2007 taxation year NRT was not searching for ESL sales.
+[40] The Appellant argues that it hired multiple Telepanel employees who continued to work at NRT throughout 2006 and 2007. There were in fact two, Mr. McArthur and Mr. Cheung. The latter was employed initially to handle the refurbishment of ESL modules. In the 2007 taxation year that had diminished to next to nothing. Mr. McArthur was a bright light in Mr. Dominelli’s eyes who was well integrated into NRT’s business by the 2007 taxation year. Mr. McArthur’s suggestion of still spending 40% of his time on Telepanel business in the 2007 taxation year I find questionable. There simply was not that amount of activity with respect to the ESL product. Only if one considers the shift of technology into the gaming industry, which as I have indicated I do not consider the business in which the losses arose, could Mr. McArthur’s estimate of 40% of his time possibly be explained.
+[41] The Appellant maintained an inventory of ESL modules. This is equally consistent with carrying on business as it is with putting the business on hold until some future date.
+[42] NRT argues that it had suppliers available in the event demand increased. This is more consistent with a future hope than the ongoing carrying on of business.
+[43] The Appellant argues NRT continued to provide technical support for existing Telepanel customers throughout 2006 and 2007. I find there was, understandably, more of that activity in 2006 than in 2007. In 2007 the only activity in that regard was the problem with Island Park Duty Free, which took Mr. McArthur some time to sort out. I do not doubt the contention that NRT was ready to help a Telepanel customer should the need arise. The need simply did not arise.
+[44] The Appellant suggests that Mr. Dominelli was ready to commit capital as needed if the timing was right, suggesting he was monitoring the market carefully. This does not accord with the fact that as recently as this year, Mr. McArthur stumbled across the fact a competitor was installing ESL in Ontario, and indeed had systems in 5000 stores worldwide. This did not leave me with the impression that five years after the year in question the market was being closely monitored by NRT. Further, the notion that NRT was ready to commit capital is just that, a notion. The evidence was that ESL could be re-launched with as little as a half‑million dollar investment. NRT was financially sound and such a commitment would not have been onerous. It never made that commitment.
+[45] This all leads me to the conclusion that Mr. Dominelli decided, with the good commercial sense that he had, that it was not timely to continue the ESL business. At some point shortly after NRT’s acquisition of Telepanel, a bankrupt business, as Mr. Dominelli put it, efforts ceased to sell ESL. That business effectively ended.
+[46] Mr. Chodikoff directed me to a 1964 Tax Review Board decision which appears to emphasize how little activity is required to carry on a business. In Carland (Niagara) Ltd. v. Minister of National Revenue[3] the Tax Review Board indicated:
+…In other words, a business of some extent that was a reduced, but the same, business was carried on. It is not necessary that there be sustained activity before it can be maintained that a business is carried on; there may be and often are periods of quiescence in almost any business enterprise. Cases cited in Hannan and Farnsworth’s The Principles of Income Taxation, at p. 162 and on, show that such happenings have not been viewed as inconsistent with carrying on a business. An instance is The Commissioners of Inland Revenue v. The South Behar Railway Co., Ltd., (1925) 12 T.C. 657, at p. 712, where Sumner, L. J., remarked:
+…as long as her trade bets remain undischarged, there would seem to be a presumption that a company continues to carry on business as long as it is engaged in collecting debts periodically falling due to it in the course of its former business. Business is not confined to being busy; in many businesses long intervals of inactivity occur.
+I do not suggest that the company now under consideration did no more than this, but the South Behar railway case indicates how little need, be done to constitute a carrying on of business. I find, as a fact, that some measure of business, be it greater or lesser, never ceased to be conducted at any material time. Always, the premises were open to any customer who might call there. In this regard, it may be noted that throughout the period described, the business started originally by Mr. Macklem was at the same location, in the same building, with the identical showroom, parts department and mechanical garage. In no quarter that has come to my attention was there any physical change.
+[47] Also in the Tax Court of Canada decision of Garage Montplaisir Ltée Justice Lamarre-Proulx stated:
+29. Counsel for the appellant properly suggested that the following principles emerge from the case law: it is the business which generated losses which must be continued, not necessarily the corporate entity; a reduction of activities, inventory and assets is not sufficient to show that the business was terminated; a minimum of activity may suffice to lead to the conclusion that there was continuity in the business; a business may have two separate operations and it is essentially a question of fact and of weighing the evidence, as to whether the business continued or not.
+[48] Finally, in Canadian Dredge and Dock Co. v. MNR[4] the Tax Review Board stated:
+The courts are consistent in holding the company will not be entitled to deduct losses incurred in previous years if there has been a change of control in the company and if it has clearly interrupted, ceased and altered the business in which the losses were sustained. Both these conditions are question of fact.
+[49] I do not disagree with the principles set forth in these cases, but it is a matter of degree of activity and nature of activity that must be considered. I have concluded that there was such little activity in the 2007 taxation year (one receipt and one maintenance call) that the business was not carried on throughout the year. Operations had not only been interrupted and altered they had effectively ceased. Waiting for a former customer to call for the purpose of repairing a module does not constitute carrying on a business.
+ii) With a reasonable expectation of profit
+[50] Had I concluded otherwise, that such minimal sporadic activity meant the business was simply asleep throughout the year but not deceased, and thus might, under the most generous of interpretations, be considered to be carrying on business, it must have done so profitably or with a reasonable expectation of profit throughout the year.
+[51] First, was the business carried on for profit in the 2007 taxation year? The Appellant argued, albeit briefly, that some element of the $9,600 licence fee received in 2007 constituted profit, and the test was therefore met. Even making the tiniest allocation of overhead to Telepanel’s business, as well as some of Mr. McArthur’s 40% of his salary, this figure would quickly be overshadowed. The Appellant did not go through the exercise to satisfy me that any of the $9,600 was profit. I conclude the business was not carried on for profit.
+[52] With respect to the reasonable expectation of profit, this has been a much maligned concept in the context of determining a source of income, culminating in the Supreme Court of Canada’s Stewart v. R.[5] decision which laid to rest the reasonable expectation of profit test for that purpose. The court stated:
+47. To summarize, in recent years the Moldowan REOP test has become a broad-based tool used by both the Minister and courts in any manner of situation where the view is taken that the taxpayer does not have a reasonable expectation of profiting from the activity in question. From this it is inferred that the taxpayer has no source of income, and thus no basis from which to deduct losses and expenses relating to the activity. The REOP test has been applied independently of provisions of the Act to second-guess bona fide commercial decisions of the taxpayer and therefore runs afoul of the principle that courts should avoid judicial rule-making in tax law: see Ludco, supra; Royal Bank of Canada v. Sparrow Electric Corp., 1997 CanLII 377 (SCC), [1997] 1 S.C.R. 411; Canderel, supra; Shell Canada Ltd. v. Canada, 1999 CanLII 647 (SCC), [1999] 3 S.C.R. 622. As well, the REOP test is problematic owing to its vagueness and uncertainty of application; this results in unfair and arbitrary treatment of taxpayers. As a result, “reasonable expectation of profit” should not be accepted as the test to determine whether a taxpayer’s activities constitute a source of income.
+[53] I am not faced with judicial rule-making, nor am I faced with whether or not there is a source of income. I am faced with a section of the Act that explicitly adopts the reasonable expectation of profit test for the determination of when losses can be used after a change of control. For the determination of a source the Supreme Court of Canada asks first if it is clearly commercial activity and, if so, such endeavours "necessarily involve the pursuit of profit". This cannot be the test where the legislation itself demands the two elements of carrying on business along with a reasonable expectation of profit. It cannot be enough to say that if you are carrying on business then it is implicit you had a reasonable expectation of profit. No, I must consider the reasonable expectation of profit element of the test. In so doing it is useful to consider the objective factors set out in the case law. This has been summarized by the Federal Court of Appeal in Tonn v. R.[6]
+65. I am now ready to decide this case. A variety of factors have been proposed over the years by which objective reasonability might be demonstrated in given circumstances. In the original Moldowan decision, these factors were enumerated as follows:
+The following criteria should be considered: the profit and loss experience in past years, the taxpayer's training, the taxpayer's intended course of action, the capability of the venture as capitalized to show a profit after charging capital cost allowance. The list is not intended to be exhaustive.
+66. Another listing of the factors to be assessed was set out in Sipley (P.D.) v. Canada:
+The objective test includes an examination of profit and loss experience over past years, also an examination of the operational plan and the background to the implementation of the operational plan including a planned course of action. The test further includes an examination of the time spent in the activity as well as the background of the taxpayer and the education and experience of the taxpayer.
+67. Finally, Landry (C.) v. Canada suggests the following items to consider:
+Apart from the tests set out by Mr. Justice Dickson, the tests that have been applied in the case law to date in order to determine whether there was a reasonable expectation of profit include the following: the time required to make an activity of this nature profitable, the presence of the necessary ingredients for profits ultimately to be earned, the profit and loss situation for the years subsequent to the years in issue, the number of consecutive years during which losses were incurred, the increase in expenses and decrease in expenses in the course of the relevant periods, the persistence of the factors causing the losses, the absence of planning, and failure to adjust. Moreover, it is apparent from these decisions that the taxpayer's good faith and reputation, the quality of the results obtained and the time and energy devoted are not in themselves sufficient to turn the activity carried on into a business.
+68. These quotations suggest that the list of relevant factors is growing and that it may continue to grow. What this indicates is that a detailed look at the business in the context of its operations is what is required, and that reasonableness is to be assessed on the basis of all the relevant factors, both the already listed ones and any new ones that may be helpful.
+[54] Before addressing some of these factors, I would like to summarize what I find to be the situation at NRT vis-a-vis Telepanel’s ESL business and its future prospects. Mr. Dominelli saw technology at Telepanel that impressed him and he made a lowball bid to buy it and he got it. I believed he saw some possible future value in that technology, primarily as it might relate to developments in the gaming industry, but also with the ESL system itself. Soon after the acquisition of Telepanel he realized the market was not right for pursuing the ESL business. No more time, little effort and no money was put into that business. It was on hold. I am satisfied that when he acquired Telepanel he, and therefore NRT, hoped that at some point in the future the sale of ESL modules might produce a profit. This hope was based almost exclusively on future market conditions. Can this hope be considered a reasonable expectation of profit? Let us look at some of the factors.
+i) Profit and loss in past years
+[55] The Appellant argues that this factor should not be determinative, but instead the potential for future profit should overshadow the track record of ESL and Telepanel. Looking retrospectively and prospectively must be viewed in balance. Looking backward, the fact is no profit was ever made from the ESL business. Looking forward, the fact is that one of the key employees in the past operation of the business, Mr. McArthur, would be the key employee of the ESL business in the future if it was ever re-launched. I have not been convinced from the evidence that the potential market in the future is any different than it was in the past: there always were and continue to be thousands of grocery stores that would benefit from ESL technology.
+[56] The same factors affecting the bottom line faced ESL going forward in 2007 as faced Telepanel in the past: competition and economic depression. Indeed, when the economy was thriving, and Mr. Skillen was able to significantly increase revenues, he was still unable to produce a profit.
+[57] The Appellant argues that NRT had ready-made customers of some note, Canadian Tire and Petrocan. The fact is they were approached and they were not interested.
+[58] The only factor that might diminish Telepanel’s dismal profit and loss history as a factor, in making the determination of a reasonable expectation of profit, is the commercial strength of Mr. Dominelli personally. He successfully turned the Cary Peripherals Inc. business around and has clearly done well in the gaming industry. Yet, after limited efforts soon after the acquisition, he did nothing by way of planning or actuating the future of the ESL business: that does not jive with an expectation, reasonable or otherwise, of potential profit.
+[59] The potential for profit, with nothing by way of a game plan as to how to realize on that potential, other than a wait and see approach, has not convinced me to ignore Telepanel’s inability to ever make a profit. This factor works against finding a reasonable expectation of profit.
+ii) Training
+[60] Certainly NRT had well-trained and knowledgeable employees, albeit apart from Mr. McArthur and Mr. Cheung, not specifically in ESL systems. This factor, though, favours a view that such a team could have the technical and commercial expertise to make a profit from the ESL business.
+iii) Intended course of action/planning
+[61] As I have made clear, in the 2007 taxation year the only intended course of action was to wait and see. There was no concrete plan as to what NRT would do when the market revitalized. There was no timeline. There was certainly no injection of funds into ESL. There was simply an attitude that at some unknown point in the future by taking some yet to be determined steps to re-launch the ESL product, there could be the potential for profit. The intended course for the foreseeable future was inaction.
+iv) Capability as capitalized
+[62] The evidence is clear that the decision was not to capitalize the ESL business either at one or two million dollars or even at half a million dollars. Again, this is something that may or may not have happened in the future. This factor is inapplicable.
+v) Time required to make activity profitable
+[63] The activity was, prior to acquisition, never profitable after many years of operation. There is no time after acquisition that the minimal activity carried on by NRT on ESL would have been sufficient to make a profit, so it is not possible to even predict what time would be required.
+vi) Presence of necessary ingredients for profit ultimately to be earned
+[64] The necessary ingredients from what I can derive from Mr. Skillen’s and Mr. McArthur’s testimony are: greater volume, that is many many more stores, lower cost of production and effective marketing. Again, without a plan, it is not possible to say whether NRT would have these necessary ingredients whenever it got around to marketing ESL.
+vii) Persistence of factors causing loss
+[65] This more aptly than any other factor hits the nail on the head. In 2007 and into the foreseeable future there was no evidence to suggest the economic circumstances that triggered only losses was about to change.
+viii) Failure to adjust
+[66] The irony of the situation facing NRT is that it did adjust. It adjusted by virtually ceasing the ESL operation and perhaps shifting work into the use of ESL technology in a casino chip, but as I have indicated, that is not the business in which the losses arose. There was also not a great deal of detail by Mr. McArthur or Mr. Dominelli as to what actual work was carried on vis-à-vis ESL technology’s application to a casino chip.
+[67] In summary, NRT acquired a bankrupt business, took minimal steps in the short term (not in the year in question) to determine the viability of the business and determined the timing was not right. This is not a criticism. Understandably there was no capital injected, no plans made and, without a crystal ball, no idea when the timing might be right. In these circumstances, I find any expectation of profit is wishful thinking, illusory even, but certainly not reasonable. Reasonableness for the purpose of expecting profit requires some grounding in economic reality. The economic reality facing NRT would not support a reasonable expectation of profit. With no definite time projection of a re-launch of the product it is impossible to know what competitors might be doing, how far technology might have developed, or what labour and manufacturing costs might be: in effect, too many unknowns to have any reasonable expectation of profit.
+[68] Having concluded NRT was not carrying on the ESL business with a reasonable expectation of profit throughout the 2007 taxation year, it is unnecessary to address the second element of subsection 111(5) of the Act, being the determination of what income of NRT the losses could be deducted against. I would have had no difficulty however concluding that the income from NRT’s Scanvue was sufficiently similar: similar market and similar pricing mechanism. I could not however reach the same conclusion with respect to NRT’s QuickJack product: different market and different function all together.
+[69] The Appeal is dismissed with costs to the Respondent.
+Signed at Ottawa, Canada, this 30th day of November 2012.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2012 TCC 420
+COURT FILE NO.: 2010-1901(IT)G
+STYLE OF CAUSE: NRT TECHNOLOGY CORP. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: October 22, 23, 24, 25 and 26, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: November 30, 2012
+APPEARANCES:
+Counsel for the Appellant:
+David W. Chodikoff and
+Tarsem Basraon
+Counsel for the Respondent:
+Arnold H. Bornstein and Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David W. Chodikoff and Tarsem Basraon
+Firm: Miller Thomson LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2001, D.T.C. 5366 (F.C.A.).
+[2] [1998] 1 S.C.R. 795.
+[3] (1964), 24 Tax A.B.C. 386 (Tax Review Board).
+[4] 81 D.T.C. 154 (Tax Review Board).
+[5] 2002 SCC 46.
+[6] [1996] 2 FC 73 (FCA).

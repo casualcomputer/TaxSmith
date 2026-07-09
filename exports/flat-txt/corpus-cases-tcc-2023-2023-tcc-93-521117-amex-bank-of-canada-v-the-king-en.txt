@@ -1,0 +1,505 @@
+Title: Amex Bank of Canada v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521117/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-93-521117-amex-bank-of-canada-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-06-27
+
+# Amex Bank of Canada v. The King
+
+- Citation: 2023 TCC 93
+- Decision date: 2023-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5478, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amex Bank of Canada v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-06-27
+Neutral citation
+2023 TCC 93
+File numbers
+2019-871(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-871(GST)G
+BETWEEN:
+AMEX BANK OF CANADA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 27 and 28, 2023 and March 1, 2 and 3, 2023, at Toronto, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Neil E. Bass
+Angelo Gentile
+Josh Kumar
+Counsel for the Respondent:
+Craig Maw
+Janice Liu
+JUDGMENT
+The appeal made under the Excise Tax Act with respect to the reassessments of the 11 annual reporting periods of the Appellant beginning on January 1, 2002 and ending on December 31, 2012 is dismissed in accordance with the attached reasons for judgment.
+The parties will have until August 28, 2023 to agree on costs, failing which they are directed to file their written submissions on costs no later than August 28, 2023. Such submissions should not exceed 10 pages.
+Signed at Ottawa, Canada, this 27th day of June 2023.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2023 TCC 93
+Date: 20230627
+Docket: 2019-871(GST)G
+BETWEEN:
+AMEX BANK OF CANADA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview
+[1] The issue in this appeal is whether the Appellant, Amex Bank of Canada (hereinafter “Amex” or the “Appellant”), is entitled to input tax credits (“ITCs”) for GST/HST paid on expenses arising in connection with the administration and operation of Amex’s Membership Rewards Program (“MRP”), including expenses incurred for the purpose of providing its Members with Rewards on the redemption of Points.[1]
+[2] Under the Excise Tax Act (Canada)[2] (the “ETA”), ITCs cannot be claimed to the extent the expenses are incurred for inputs used by a registrant to make exempt supplies of financial services. In this case, the GST/HST is borne by the provider of the exempt supplies. The reason why the provider of exempt supplies is not entitled to claim ITCs is because the supplier of exempt financial services is not subject to GST under the ETA. Because of this, the scheme of the ETA operates in a way to ensure that the tax is borne by the maker of exempt supplies and not the recipient of the supply.
+[3] The Appellant’s position is that it provided multiple supplies, some taxable and others exempt. According to the Appellant, all of the GST/HST that it has paid on expenses incurred under its MRP was incurred in the course of making taxable supplies, which are separate and distinct from the other exempt supplies made by the Appellant to its Cardholders.
+[4] The position of the Minister of National Revenue (the “Minister”) is the polar opposite of the Appellant’s position. The Minister claims that the expenses incurred under the MRP, including those related to the purchase of Rewards, constitute a single composite supply. Furthermore, according to the Respondent, the predominant element of the composite supply is an exempt financial service such that the Minister was correct to deny the Appellant’s claims for ITCs.
+II. Partial Agreed Statement of Facts
+[5] The parties filed a Partial Agreed Statement of Facts (“PASF”). I have reproduced it for ease of reference.[3]
+A. Facts
+Background
+1. The Appellant . . . was incorporated under the Canada Business Corporations Act on June 22, 1987 and continued under the Bank Act (Canada) on April 25, 1990 and has been thereafter a Schedule II bank regulated under the Bank Act (Canada).
+2. Amex is, and was throughout Amex’s 2002 through 2012 annual reporting periods (the “Relevant Periods”), registered for the Goods and Services Tax/Harmonized Sales Tax (the “GST/HST”) under Part IX of the ETA.
+3. Amex issued American Express charge cards and credit cards (collectively, “Cards”) to members of the public (“Cardholders”) who applied for and qualified for such Cards.
+4. Amex Canada Inc. (“ACI”) is an Ontario corporation and, during the Relevant Periods, was a member of a “closely related group” (as that term is defined in the ETA) with Amex.
+5. During the Relevant Periods, ACI carried on the business of, inter alia, providing travel agency services to the public.
+The Membership Rewards Program
+6. During the Relevant Periods, Amex operated a loyalty program known as the Membership Rewards Program (the “MRP”).
+7. A Cardholder who was a member of the MRP (a “Member”) accrued and was credited with a certain number of points (the “Points”) by Amex for each dollar charged to a Card for the purchase of goods or services.
+8. Under the MRP, Amex did not credit a Member with Points for amounts charged to a Card for, inter alia, delinquency fees, interest, Card fees, purchases of American Express Travellers Cheques and Gift Cheques, balance transfers, or the purchase of foreign currency.
+9. The more dollar value of eligible purchases a Cardholder charged on the Card, the more Points the Cardholder earned.
+10. The more Points a Cardholder accumulated, the more Rewards (as defined below) or the higher the value of the Reward a Cardholder could redeem from Amex.
+Becoming a Member of the MRP
+11. Participation in the MRP was available only to Cardholders.
+12. Amex offered a variety of Cards with different rights and obligations attached to each.
+13. Some Cards required the Cardholder to pay an annual fee to Amex (a “Card Fee”), with different Card Fees payable for different Cards.
+14. Amex did not charge Cardholders GST/HST on the Card Fees.
+MRP Fees
+15. Some Cards (the “MRP‑Inclusive Cards”) carried with them enrollment of the Cardholder in the MRP with no additional enrollment fee charged to the Cardholder.
+16. For other Cards (the “MRP‑Extra Cards”), a Cardholder had the option (but was not required) to join the MRP by paying Amex an enrollment fee (the “MRP Enrollment Fee”) (the MRP‑Inclusive Cards, together with all MRP‑Extra Cards whose Cardholders opted to join the MRP, are collectively referred to as “MRP Cards”).
+17. MRP‑Extra Cardholders could enroll in, or withdraw from, the MRP at any time.
+18. Amex charged MRP‑Extra Cardholders GST/HST on the MRP Enrollment Fee.
+19. Under some MRP Cards, a Member had the option to pay an extra fee (the “Points Accelerator Fee”) to be entitled to be credited with a higher ratio of Points per dollar charged to a Card.
+20. Amex charged Members GST/HST on the Points Accelerator Fees.
+Claiming Rewards
+21. A Member was entitled to exchange or redeem his or her accrued Points for various rewards (the “Rewards”) such as airline tickets, airline frequent flyer points, hotel chain loyalty points, travel certificates, meals at restaurants, gift cards and tangible items such as watches, golf clubs, luggage and headphones.
+22. A Member was required to redeem a specific number of Points to claim any particular Reward.
+23. Amex determined the number of Points required for each Reward.
+24. It was Amex that determined limitations on MRP Point redemptions for a Reward.
+25. Subject to certain conditions, if a Member did not have enough Points to claim a particular Reward, the Member could purchase from Amex for a fee (the “Points Fee”) the additional Points required.
+26. Amex charged Members GST/HST on the Points Fee.
+The Participation Agreements
+27. To ensure that there were Rewards available for its Members, Amex entered into agreements (“Participation Agreements”) with suppliers (the “Participants”) of various Rewards.
+28. Under each Participation Agreement, Amex agreed to pay the Participant a negotiated amount of money for providing the Rewards.
+29. The Rewards purchased by Amex from the various Participants are offered and provided to the Cardholders, in exchange for Points.
+30. The Members did not pay Amex or the Participants for obtaining the Rewards (other than by redeeming Points and/or purchasing additional Points).
+31. The Participants charged Amex and Amex paid the Participants GST/HST where applicable (the “Participant GST”), in respect of the Participants’ supplies of goods and services that are being used as Rewards.
+The ACI Participants Agreements
+32. Amex and ACI also entered into Participation Agreements that were in place throughout the Relevant Periods (the “ACI Participation Agreements”).
+33. Under the ACI Participation Agreements, a Member could exchange a specific number of Points for a certificate (a “Travel Certificate”) from Amex that would have a fixed face value (e.g., $100, $500, etc.).
+34. A Member who acquired a Travel Certificate from Amex could redeem it with ACI or an ACI‑franchised travel agency (collectively, “ACI”) up to the fixed face value to pay for all or part of travel products or services (with the Member paying ACI for any remaining costs).
+35. If a Member used a Travel Certificate as aforesaid, ACI would invoice Amex for the Travel Certificate, which Amex would pay to ACI (the “Travel Certificate Payments”).
+36. It was Amex that determined the denominations for Travel Certificates that may be issued.
+Amex’s Card Operations
+37. A Cardholder could present a Card to a store as payment instead of cash. Amex would pay the Canadian store the amount charged on the Card (less a discount or merchant fee). Amex would then send the Cardholder a monthly statement with the total of all payments charged by that Cardholder to that Card that month (the “Card Operations”).
+38. Most of Amex’s domestic supplies made in the course of its Card Operations during the Relevant Periods were “exempt supplies” for ETA purposes such that no GST/HST was charged by Amex on Card Fees, discount fees and delinquency charges or interest on late‑paid account balances.
+Amex’s MRP Operations
+39. In the course of operating the MRP, Amex paid system maintenance and other overhead costs (the “Overhead”) used in connection with the MRP.
+40. Amex self‑assessed, under Division IV of the ETA, GST/HST on the Overhead (the “Overhead GST”).
+Amex’s Revenue and Expenses
+41. At all relevant times, Amex earned substantial revenue from credit card and charge card operations.
+42. In 2009 and 2010, the revenue received from the credit/charge cards was more than 96% of Amex’s total revenue, whereas the revenue from the MRP fees accounted for under 0.75% of Amex’s total revenue.
+43. At all relevant times, interest income, transaction charges, and discount revenue earned from the credit/charge card operations were Amex’s largest revenue sources.
+44. The more a Cardholder spent using an Amex Card, the more discount revenue Amex earned.
+45. At all relevant times, MRP Points redemption cost was an expense of Amex on its income statement.
+46. At all relevant times, reserves for the estimated cost of anticipated MRP Points redemption were recorded as a liability on Amex’s balance sheet.
+Calculation of Net Tax
+47. For the Relevant Periods, Amex filed its GST/HST returns.
+48. In calculating its net tax for each Relevant Period, Amex claimed ITCs on the Participant GST and the Overhead GST, and claimed ITCs under subsection 181(5) in respect of GST/HST (the “Notional GST”) that Amex was deemed to have paid in respect of the Travel Certificate Payments.
+49. With respect to the Participant GST, Amex claimed ITCs as follows:
+(i) in its GST/HST returns for its 2002 through 2012 reporting periods, a portion of the Participant GST based on the percentage of the MRP‑Extra Cards to the total of all MRP Cards issued (the “Fee Extra Ratio”); and
+(ii) in its GST/HST returns for its 2005 and 2008 reporting periods, Amex also claimed the balance of the Participant GST paid and not claimed in those years and in the immediately two preceding years it applied the Fee Extra Ratio.
+The Assessments
+50. By Notices of Assessment dated:
+(i) May 1, 2006 with Reference Number 05CP0119127 for the reporting period ending December 31, 2002;
+(ii) December 20, 2007 with Reference Number 04063000170100001 for the reporting period ending December 31, 2003;
+(iii) June 2, 2008 with Reference Number 05090000970100031 for the reporting period ending December 31, 2004;
+(iv) April 16, 2012 with Reference Number 06116011312370001 for the reporting period ending December 31, 2005;
+(v) April 16, 2012 with Reference Number 07113000172360903 for the reporting period ending December 31, 2006;
+(vi) March 19, 2012 with Reference Number 08091000172360196 for the reporting period ending December 31, 2007;
+(vii) March 10, 2014 with Reference Number 13008001212370001 for the reporting period ending December 31, 2008;
+(viii) March 20, 2014 with Reference Number 14024004212370001 for the reporting period ending December 31, 2009;
+(ix) September 3, 2015 with Reference Number 13184005712370001 for the reporting period ending December 31, 2010;
+(x) June 6, 2016 with Reference Number 13150000112370001 for the reporting period ending December 31, 2011; and
+(xi) August 29, 2017 with Reference Number 13196004612370001 for the reporting period ending December 31, 2012,
+(collectively, the “Assessments”),
+the [Minister] assessed Amex in respect of the Relevant Periods by, inter alia, denying ITCs claimed in each Relevant Period in respect of the Participant GST, the Overhead GST and the Notional GST less $2,643,833.19 of GST/HST collected by Amex on Enrollment Fees, Points Accelerator Fees and Points Fees in the amounts set out below:
+Period
+ITCs Disallowed
+January 1–December 31, 2002
+$1,533,218.06
+January 1–December 31, 2003
+$1,102,733.30
+January 1–December 31, 2004
+$1,249,498.95
+January 1–December 31, 2005
+$4,759,312.45
+January 1–December 31, 2006
+$463,515.30
+January 1–December 31, 2007
+$398,217.85
+January 1–December 31, 2008
+$2,904,774.56
+January 1–December 31, 2009
+$234,593.00
+January 1–December 31, 2010
+$496,527.00
+January 1–December 31, 2011
+$418,945.93
+January 1–December 31, 2012
+$412,533.35
+Total:
+$13,973,869.75
+51. In making the Assessments, the Minister denied the above‑noted ITCs and, as a result of such denials and other adjustments that are not being appealed, assessed Amex additional net tax plus penalties and interest.
+52. Amex filed Notices of Objection to the Assessments.
+53. The Minister confirmed each of the Assessments with respect to the denial of ITCs related to the MRP through Notices of Confirmation dated December 10, 2018 and December 17, 2018 (the “Confirmations”).
+54. Throughout the Relevant Periods, Amex and ACI were parties to an election under section 150 of the ETA and did not revoke such election throughout the Relevant Periods.
+[6] The defined terms used hereinafter have the meaning assigned to them in the PASF unless otherwise provided. In this regard, the Overhead expenses, Travel Certificates, and payments made to Participants for Rewards are collectively defined as the “MRP Expenses”.
+III. Viva Voce Evidence
+[7] Mr. Joseph Ryan, who is presently a vice president of the Appellant and responsible for the MRP, testified as the first witness on behalf of the Appellant. Mr. Ryan’s testimony covered the administration and operation of the MRP as well as the Appellant’s dealings with Participants and ACI.
+[8] Mr. Ryan’s testimony, for the most part, was consistent with the PASF and the documentary evidence submitted jointly by the parties. That said, one part of his evidence was largely contradicted by other evidence, including his own testimony.
+[9] Mr. Ryan insisted that one of the purposes pursued by the Appellant under the MRP was the promotion of the Participants’ activities through advertising and marketing to its Members. This part of his testimony was key to the Appellant’s argument that one of the purposes of the MRP was the promotion of the endeavours of the Participants.
+[10] The Appellant claims that Mr. Ryan’s testimony is bolstered by the pitch books used to enroll Participants under the MRP.[4]
+[11] I do not share the Appellant’s assessment that considerable weight should be attached to Mr. Ryan’s evidence in this regard for the following reasons.
+[12] First, a large portion of the pitch book was devoted to describing the benefits procured by Amex under the MRP.[5] The substantial benefits that the MRP procured to Amex were highlighted during the Respondent’s cross‑examination of Mr. Ryan.
+[13] For example, on cross‑examination Mr. Ryan stated that the provision of Rewards was made to influence a Member’s spending behaviour. Spending behaviour and accompanying credit card revenue is enhanced because Amex selects, promotes and offers attractive Rewards that are greatly desired by its Members. Amex’s marketing material for Rewards is designed to drive spending on Amex Cards by Members and promote loyalty.[6]
+[14] Why does Amex focus on the above? Mr. Ryan recognized during his cross‑examination that Amex promotes attractive Rewards to drive spending because a substantial portion of Amex’s revenue is derived from spending by Members for goods and services charged to an Amex credit card.[7]
+[15] The following part of Mr. Ryan’s testimony highlights the Appellant’s reason for emphasizing to prospective Participants the benefits of Amex’s marketing of and promotion of Rewards procured from them.
+THE COURT: From your perspective, presumably all of the pitching that you are doing is leaning towards a price - -
+THE WITNESS: Exactly.
+THE COURT: - - that goods is going to be redeemed at?
+THE WITNESS: Correct.
+THE COURT: Is that price the price that the merchant normally charges its clients or is it a different price?
+THE WITNESS: It’s generally a different price. If I take a gift card, which is a simple example, it might have a face value of $100, we would have a price that we would purchase those gift cards at which was less than the face value. We would then set the amount of points for that redemption of that gift card, if that makes sense.[8]
+[16] In my opinion, this statement identifies that Amex regularly promotes Rewards to its Members to reinforce the attractiveness of the MRP to derive Members’ spending on Amex credit cards. This is something that Amex must do in any event for its own purpose.
+[17] With this backdrop in mind, I believe that Amex emphasized the marketing and promotion of the Rewards in its discussions with prospective and existing Participants to great effect, namely, to achieve Amex’s goal, which was to secure the procurement of attractive Rewards for its Members at the lowest possible price. From the evidence, I infer that Amex intended to spend money on marketing and promoting Rewards in any event.
+[18] Spending behaviour and accompanying credit card revenue is enhanced because Amex selects, promotes and offers attractive Rewards that are greatly desired by its Members. Amex’s marketing material for Rewards is designed to drive spending on Amex Cards by Members and promote loyalty.[9]
+[19] Considering all of the above, I believe that Amex promoted Rewards because it suited Amex’s purpose to do so.
+[20] On cross‑examination, Mr. Ryan’s demeanor changed somewhat. He became argumentative when documentary evidence from the Joint Book of Documents was used by counsel for the Respondent to establish the purpose and use of the supplies made by the Appellant under the MRP. Mr. Ryan appeared to be reluctant to answer simple yes or no questions.[10] Mr. Ryan appeared to me to be well‑informed of how to formulate answers that would be helpful to the Appellant’s case. In the end, I found his testimony to be somewhat rehearsed.[11]
+[21] The second and last witness to appear on behalf of the Appellant was Ms. Orleen Sinclair, the Director of Indirect Tax for the Appellant. Her testimony consisted largely of a review of the Appellant’s claim for ITCs in respect of the MRP Expenses, particularly how it changed over time in light of the audit by the Canada Revenue Agency (“CRA”).
+[22] Specifically, Ms. Sinclair testified that the Appellant’s initial approach (the “Initial Method”) to claiming ITCs with respect to the MRP Expenses (excluding redemption payments for Travel Certificates) and notional ITCs (“NITCs”) for redemption payments for Travel Certificates was based on an allocation method. The Appellant’s initial position in that regard was that supplies made to Members with MRP-Extra Cards who elected to become Members of the MRP for a fee received taxable supplies under the MRP. The Members who were automatically enrolled in the MRP with MRP–Inclusive Cards were treated as having received exempt financial services under the MRP. Ms. Sinclair then added up all of the HST paid on MRP Expenses on an allocation method that was based on the percentage obtained by the number of Members who paid an initial fee and annual renewal fee to become Members divided by the number of Cards held by all Members. The recovery rate of ITCs under the Initial Method worked out to 19.14% of all GST/HST paid in connection with the MRP Expenses.[12]
+[23] Ms. Sinclair explained that Amex decided to abandon the Initial Method after the CRA began an audit that culminated in the denial of all of the Appellant’s initial ITCs claim based on the aforementioned allocation method. In 2005, the Appellant filed an additional claim seeking to obtain a refund equal to the amount of difference between 100% of the GST/HST paid in connection with the MRP Expenses and the amount of GST/HST initially claimed by the Appellant. Likewise, in 2008, the Appellant filed an additional claim based on the methodology described immediately above. The Appellant’s revised claims were based on the premise that only taxable supplies were made in connection with the MRP, thus 100% of the GST/HST charged to the Appellant on the MRP Expenses should be refunded to the Appellant. That is the position that the Appellant defends in its appeal before this Court.
+[24] Ms. Sinclair clarified that the Appellant claimed NITCs only in respect of Travel Certificates accepted by ACI franchisees for travel and accommodation obtained as Rewards through the services of franchisees. No NITCs were claimed when Travel Certificates were accepted by ACI to book travel or hotel accommodations for Members. The latter redemptions were treated differently than the former because of the section 150 election entered into ACI and the election. By virtue of this election, all supplies between ACI and Amex are deemed to be supplies of exempt financial services.
+[25] Ms. Sinclair was asked questions about accounting standards that were applied to defer part of the merchant discount revenue earned by the Appellant to match it to the value of the Amex’s accrued but unrealized Point liability. She recognized that she was not qualified to speak to this issue. Both the Respondent and I were disappointed with this admission as the Appellant’s counsel had led us earlier to believe that Ms. Sinclair would testify on Amex’s accounting treatment of merchant discount revenue and MRP Expenses and that she was competent to do so.[13]
+[26] Ms. Julie Ho, who is presently a manager of the CRA Business Integration and Program Operations Division, appeared as the sole witness of the Respondent. She was a CRA appeals officer when she received carriage of the Appellant’s file following its Notices of Objection for the Relevant Periods. Her testimony was largely a recital of her understanding of the relevant facts, which is consistent with the facts alleged in the Respondent’s Reply to the Appellant’s Notice of Appeal. She also testified on her reasons for recommending a confirmation of the assessments.
+[27] Ms. Ho stated that she decided to recommend that all of the Appellant’s ITC claims should be denied because no separate taxable supplies were made by Amex to Members under the MRP. According to Ms. Ho, the elements and components of the MRP were intertwined and linked to the supply of exempt financial services made by Amex to its Members. The predominant element of that single supply was the supply of exempt financial services.[14] Consistent with that observation, Ms. Ho also stated that the auditor made an error in allowing a credit for the GST/HST collected in error by Amex on the annual and renewal fees because those amounts should have been refunded to the Members who paid the GST/HST and not the Appellant.[15] Nothing further needs to be said about Ms. Ho’s testimony.
+IV. Analysis
+A. The Law
+[28] The provisions of the ETA that are relevant to my analysis are reproduced below for ease of reference:[16]
+. . .
+Business includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement, but does not include an office or employment;
+. . .
+commercial activity of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+. . .
+financial service means
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+(c) the lending or borrowing of a financial instrument,
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+(e) the provision, variation, release or receipt of a guarantee, an acceptance or an indemnity in respect of a financial instrument,
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+(f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy,
+(g) the making of any advance, the granting of any credit or the lending of money,
+(h) the underwriting of a financial instrument,
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+(j) the service of investigating and recommending the compensation in satisfaction of a claim where
+(i) the claim is made under a marine insurance policy, or
+(ii) the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+(A) the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+(B) the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province,
+(j.1) the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss,
+(k) any supply deemed by subsection 150(1) or section 158 to be a supply of a financial service,
+(l) the agreeing to provide, or the arranging for, a service that is
+(i) referred to in any of paragraphs (a) to (i), and
+(ii) not referred to in any of paragraphs (n) to (t), or
+(m) a prescribed service,
+but does not include
+(n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service,
+(o) the payment or receipt of money in settlement of a claim (other than a claim under an insurance policy) under a warranty, guarantee or similar arrangement in respect of property other than a financial instrument or a service other than a financial service,
+(p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1),
+(q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+(i) a management or administrative service, or
+(ii) any other service (other than a prescribed service),
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust,
+(q.1) an asset management service,
+(r) a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice,
+(r.1) the arranging for the transfer of ownership of shares of a cooperative housing corporation,
+(r.2) a debt collection service, rendered under an agreement between a person agreeing to provide, or arranging for, the service and a particular person other than the debtor, in respect of all or part of a debt, including a service of attempting to collect, arranging for the collection of, negotiating the payment of, or realizing or attempting to realize on any security given for, the debt, but does not include a service that consists solely of accepting from a person (other than the particular person) a payment of all or part of an account unless
+(i) under the terms of the agreement the person rendering the service may attempt to collect all or part of the account or may realize or attempt to realize on any security given for the account, or
+(ii) the principal business of the person rendering the service is the collection of debt,
+(r.3) a service (other than a prescribed service) of managing credit that is in respect of credit cards, charge cards, credit accounts, charge accounts, loan accounts or accounts in respect of any advance and is provided to a person granting, or potentially granting, credit in respect of those cards or accounts, including a service provided to the person of
+(i) checking, evaluating or authorizing credit,
+(ii) making decisions on behalf of the person in relation to a grant, or an application for a grant, of credit,
+(iii) creating or maintaining records for the person in relation to a grant, or an application for a grant, of credit or in relation to the cards or accounts, or
+(iv) monitoring another person’s payment record or dealing with payments made, or to be made, by the other person,
+(r.4) a service (other than a prescribed service) that is preparatory to the provision or the potential provision of a service referred to in any of paragraphs (a) to (i) and (l), or that is provided in conjunction with a service referred to in any of those paragraphs, and that is
+(i) a service of collecting, collating or providing information, or
+(ii) a market research, product design, document preparation, document processing, customer assistance, promotional or advertising service or a similar service,
+(r.5) property (other than a financial instrument or prescribed property) that is delivered or made available to a person in conjunction with the rendering by the person of a service referred to in any of paragraphs (a) to (i) and (l),
+(s) any service the supply of which is deemed under this Part to be a taxable supply, or
+(t) a prescribed service;
+fiscal month of a person means a period that is determined under section 243 to be the fiscal month of the person;
+. . .
+Supply means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+. . .
+General rule for credits
+169 (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+. . .
+Redemption of coupon
+181(5) For the purposes of this Part, where, in full or partial consideration for a taxable supply of property or a service, a supplier who is a registrant accepts a coupon that may be exchanged for the property or service or that entitles the recipient of the supply to a reduction of, or a discount on, the price of the property or service and a particular person at any time pays, in the course of a commercial activity of the particular person, an amount to the supplier for the redemption of the coupon, the following rules apply:
+(a) the amount shall be deemed not to be consideration for a supply;
+(b) the payment and receipt of the amount shall be deemed not to be a financial service; and
+(c) if the supply is not a zero-rated supply and the coupon entitled the recipient to a reduction of the price of the property or service equal to a fixed dollar amount specified in the coupon (in this paragraph referred to as the “coupon value”), the particular person, if a registrant (other than a registrant who is a prescribed registrant for the purposes of subsection 188(5)) at that time, may claim an input tax credit for the reporting period of the particular person that includes that time equal to the tax fraction of the coupon value, unless all or part of that coupon value is an amount of an adjustment, refund or credit to which subsection 232(3) applies.
+[Emphasis added.]
+B. General Observations on the Law and the Parties’ Positions
+[29] As noted earlier, the key issue in this appeal is whether the Appellant is entitled to claim ITCs with respect to the GST/HST that it paid on the MRP Expenses. Under subsection 169(1), the Appellant is entitled to claim ITCs only to the extent that the MRP Expenses are incurred as inputs for the consumption, use or supply in the course of commercial activities of the Appellant. Similarly, one of the conditions that must be met for the Appellant to be able to claim ITCs under subsection 181(5) of the ETA in respect of Travel Certificate Payments is that the payment must have been made by the Appellant in the course of a commercial activity of the Appellant. A business that involves the making of exempt supplies is excluded from the definition of a commercial activity. As noted in the numerous cases cited by the parties, both of these questions call for an inherently fact‑driven determination.
+[30] With the above backdrop in mind, first, I must consider whether Amex incurs the MRP Expenses in the course of a single composite supply made to its Members. In other words, are the elements and components of the MRP intertwined and linked to the financial services made by Amex to its Members.
+[31] Secondly, if I determine that the MRP Expenses are incurred by the Appellant in the course of a single supply, I must then determine the nature of that supply having regards to its predominant element.
+(1) Single Supply versus Multiple Supplies [32] The analytical approach defined in the relevant case law is to determine whether there are single or multiple supplies. This determination is to be made by applying what is commonly referred to as the “composite supply test”. Under this test, if an alleged separate supply is, in substance or reality, an integral part, integrant or component of the overall supply, then that alleged separate supply will be considered a part of the overall supply as a single composite supply. This requires observing the degree that the elements or components are interconnected, and the extent of their interdependence and intertwining.[17] The Federal Court of Appeal has also examined the commercial efficacy of the arrangement in considering whether there is a single composite supply.[18] It is on this particular point that the parties disagree.
+[33] The Appellant claims that it is entitled to claim ITCs in respect of the MRP Expenses (excluding the Travel Certificate Payments under subsection 169(1) and the Travel Certificate Payments under subsection 181(5)) because these expenses were incurred in the course of commercial activities carried on by the Appellant. The reasoning underlining the Appellant’s arguments appears to be as follows:
+The MRP is an undertaking with its own dedicated employees and dedicated information technology. MRP‑Extra Cardholders must enroll and pay a nominal fee to become Members of the MRP. This is optional. Cardholders who choose not to enroll in the MRP continue to receive exempt supplies of financial services. According to the Appellant, this means that the supplies made under the MRP are not linked to and intertwined with supplies made by Amex in its credit card business.
+Members may acquire Points for cash if additional Points are needed to acquire a Reward. The Appellant did not provide evidence as to the amounts of Points acquired for cash by Members during the Relevant Period. I infer from the evidence considered as a whole that the amount of Points purchased by Members for cash was nominal compared with the Points accumulated by Members in connection with spending on their Amex credit card.
+Expenses are incurred to provide Rewards to Members.
+Marketing and promotional expenses are incurred by Amex to provide promotional services to Participants.[19]
+[34] In its written submissions, the Appellant quotes extensively from the Supreme Court of Canada’s decision in Calgary (City) v. Canada, 2012 SCC 20, wherein the Court endorsed the decision of the Tax Court in OA Brown Ltd. v Canada, [1995] GSTC 40 (TCC). The relevant passages are reproduced below for ease of reference:[20]
+The test to determine whether there is a single or multiple supply for purposes of the Excise Tax Act was summarized by the Supreme Court of Canada in Calgary (City) v. Canada, 2012 SCC 20, wherein the Court cited the seminal case of O.A. Brown Ltd. v. Canada, [1995] G.S.T.C. 40 (T.C.C.):
+[32] In determining whether a supplier has made a single supply or multiple supplies, the relevant principles were summarized by Justice Rip (as he then was) in O.A. Brown Ltd. v. Canada, [1995] G.S.T.C. 40 (T.C.C.). His approach was confirmed by the Federal Court of Appeal in Hidden Valley Golf Resort Assn. v. R., [2000] G.S.T.C. 42.
+…
+[35] O.A. Brown established the following test to determine whether a particular set of facts revealed single or multiple supplies for the purposes of the ETA:
+The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply. One must examine the true nature of the transaction to determine the tax consequences. [p. 40‑6]
+[36] When reaching his decision, Justice Rip made the following observation:
+. . . one should look at the degree to which the services alleged to constitute a single supply are interconnected, the extent of their interdependence and intertwining, whether each is an integral part or component of a composite whole. [p. 40‑6]
+(Citing Mercantile Contracts Ltd. v. Customs & Excise Commissioners, File No. LON/88/786, U.K. (unreported).)
+[37] Justice Rip also noted the importance of common sense when the determination is made. McArthur T.C.J. made a similar observation in Gin Max Enterprises Inc. v. R., 2007 TCC 223, [2007] G.S.T.C. 56, at para. 18:
+From a review of the case law, the question of whether two elements constitute a single supply or two or multiple supplies requires an analysis of the true nature of the transactions and it is a question of fact determined with a generous application of common sense.
+[Emphasis added.]
+[35] There is no dispute between the parties that this is the analytical approach that I must apply to determine this issue.
+[36] The Respondent also emphasizes in his oral and written submissions that the written agreement and documentation are of paramount importance in making the aforesaid determination. There is no dispute between the parties on this point.
+[37] Furthermore, the Appellant submits pursuant to Canadian Imperial Bank of Commerce v. R, 2021 FCA 96, that the determination of whether a recipient receives a single supply or multiple supplies must be determined from the standpoint of the recipient of the supply.[21] Once again, the parties agree that this is the approach to be followed to determine this question.[22]
+[38] I begin my analysis with a review of the sample of the terms and conditions of the Membership Rewards Program (the “MRP Terms and Conditions”).[23] Article 3.2(ii) provides that Cardholders holding an American Express Corporate Platinum Card are automatically enrolled in the MRP. All other Amex Cardholders have the option to enroll in the Membership Program.
+[39] A “Designated Cardholder” can opt to enroll in the Program for a fee. In the case of the other eligible Cardholders who do not fall into the categories referenced above, they are also required to pay an enrollment fee.
+[40] What stands out from the above in that a person can only become a Member if the person holds an Amex credit card. While one can be an Amex Cardholder without being a Member of the MRP, the inverse is not possible. I agree with the Respondent’s position that this constitutes a direct link between membership in the MRP and the status of a Cardholder.
+[41] Article 5.1 of the MRP Terms and Conditions provides that the MRP and the Points awarded thereunder are for the sole benefit and use of Amex Cardholders.[24]
+[42] This provision establishes another direct link between the MRP and the request of being a Cardholder to enjoy the benefits of the MRP. The same condition is applicable in the case of a Card Member. A Card Member is defined to include a Basic Card Member and the individual Card Member who holds a Corporate Card.
+[43] Article 7 of the MRP Terms and Conditions is of paramount importance. This provision sets out how Members accumulate Points.[25] As is common in loyalty programs, Points are calculated and credited to a Member’s account based on the amount charged to the Member’s Amex Card. This is another important link to the supply of exempt financial services to an Amex Cardholder. It is also a common feature of credit card based loyalty programs and loyalty programs in general.
+[44] Amex derives significant merchant discount revenue from the use of an Amex credit card by its Members. This revenue is directly linked to and varies in accordance with a Cardholder’s use of an Amex credit card to pay for goods and services supplied by a merchant. A merchant that accepts an Amex credit card as a means of payment, assuming that the approval process mandated by Amex is followed, becomes a creditor of Amex. The merchant will receive payment in accordance with the MRP Terms and Conditions of the merchant’s agreement with Amex. As discussed below, the transactions entered into between the merchant and Amex constitute the supply by Amex of financial services to a merchant.
+[45] Contemporaneously, with the acceptance of the Card by a merchant, Amex extends credit to the Cardholder. This is a supply of a financial service. Amex earns gross merchant revenue as a result of the interconnection of both of these transactions. Amex has a debt payable to the merchant. The debt payable to the merchant is an amount equal to the purchase price of the goods or services, less the amount of the agreed upon merchant discount, plus GST/HST. The merchant discount is given by the merchant as consideration for Amex agreeing to pay for the goods or services acquired by the Member.[26]
+[46] By extending credit to the Cardholder, Amex has a receivable equal to the purchase price of the goods and services acquired by a Member, through the payment means provided by Amex under the MRP Terms and Conditions of the merchant agreement and the MRP Terms and Conditions of the credit card.
+[47] There are multiple components of the supply made by Amex to a Member. The interconnection between the financial supply made by the Member and the accumulation of Points is further illustrated by what happens if the Member returns the purchased goods to a merchant. In this transaction, a refund is granted to an MRP Member by the merchant by crediting the amount of the purchase price of the goods to the Member’s credit card. This in turn results in a decrease in the amount owing by the Member to Amex. Similarly, the merchant’s receivable from Amex is cancelled as a result of the return of the goods. Amex’s entitlement to gross merchant discount revenue is similarly eliminated. As a result of this refund transaction, the Points accumulated as a result of the initial purchase of goods or services are deleted from the Member’s account. It is hard for me to imagine a supply where the different elements and components of a supply are more closely intertwined and linked.
+[48] Mr. Ryan testified that Amex has one of the most desirable loyalty programs that is purposely structured to incentivize Members to use their Amex Card over all other forms of payment that may be available to them. This is done by Amex through its offer of Rewards that are coveted by its Members. A Member can pay for goods and services through a number of means. He or she can use a debit card, a credit card or cash, or use cash obtained by another form of credit. Members choose to pay using their Amex credit card because they receive interest‑free credit for the calendar month in which the transaction’s closing date occurred and they receive an additional benefit in the form of Reward Points.[27]
+[49] Merchants accept Amex credit cards because of the financial profile and consumption profile of the Members.
+[50] With this as a backdrop, it is clear to me that Amex incurs the MRP Expenses to increase the volume of credit card transactions. If an MRP Cardholder spends more money by using an MRP credit card, the MRP Cardholder will earn more Points and Amex will earn a greater amount of merchant discount revenue. As a consequence thereof, Amex will incur a Point liability. This Point liability culminates in the purchase by Amex of Rewards as a result of the redemption of Points by a Member.
+[51] The MRP Terms and Conditions pertaining to how Points may be redeemed for Rewards is further evidence of how the Points Reward Expenses are intertwined with the exempt financial services provided by Amex to its Members and merchants. Leaving aside the exceptional cases where additional Points are acquired by a Member to claim a Reward, the Point liability arises when the Member uses an Amex Card. No consideration is paid by the Cardholder for that component of the single supply. That is why many practitioners describe the credit of Points by Amex to a Member’s account as a free supply. I will deal with the impact of the so‑called free supply rules provided for in section 141.01 of the ETA, and relied on by the Appellant, later.
+[52] On the basis of the MRP Terms and Conditions, a Member must be in good standing when Points are redeemed. This means that the Member must not be delinquent in his or her obligations under the credit card agreement outlining the MRP Terms and Conditions under which an Amex Card may be used. A Member is barred from redeeming Points if account payments are not made on or before the payment due date. Mr. Ryan explained that this feature was deliberately built into the MRP because it helps to reduce Amex’s exposure to credit default risk.[28] This illustrates once again how the MRP Terms and Conditions pertaining to the redemption of Points for Rewards is an integral part of a composite whole.
+[53] I will now turn to other elements or components of the MRP which the Appellant claims constitute separate taxable supplies. Why do MRP‑Extra Cardholders elect to become Members of the MRP and pay an annual nominal fee for doing so? The short answer is that they want to enjoy the benefits of the MRP, the elements of which form an integral part of a composite supply. Electing to become a Member does not have commercial efficacy on its own for the reasons outlined above.
+[54] As I pointed out to the Appellant’s counsel during his oral submission, if the payment of a nominal amount to become a Member constitutes a separate taxable supply that entitles issuers of credit cards to claim ITCs in respect of all of the expenses incurred on elements or components of their loyalty program, I can imagine that credit card issuers would institute a practise similar to that of Amex to achieve a substantial GST/HST tax savings. It would be easy to do so without additional cost to Cardholders. For example, the fee paid for the right to use the credit card could be lowered and that same amount could be set as the amount charged to become a member of a credit card loyalty program.
+[55] I believe that similar observations can be made regarding Points Accelerator Fees and Point purchase revenue transactions entered into by Amex. These components or elements of the MRP are also closely tied to the obtaining of Rewards by Members. These elements can only be availed of if a Member is in good standing vis‑à‑vis his or her credit card obligations.
+(2) Accounting Treatment of MRP Expenses [56] The accounting treatment of Reward Expenses is based on the commercial reality of the exempt financial service provided to Members as described above. It is discussed in the notes to Amex’s 2012 financial statements as follows:
+2.22.3 Membership rewards
+The Membership Rewards program allows enrolled cardmembers to earn points that can be redeemed for a broad range of rewards, including travel, entertainment, retail certificates and merchandise.
+IFRIC 13 Customer Loyalty Programs requires the Bank to treat separately the element of the sales transaction that relates to the goods and services received and the element that relates to the issuing of rewards points. The Bank therefore defers revenue equating to the fair value, to the customer, of the Membership Rewards points awarded. This revenue is deferred until such time that the award points are redeemed or expire and the Bank fulfils its obligation to the cardmember to supply Membership Rewards. The remainder of the discount revenue is recognized as the associated transaction occurs which is per the current discount revenue accounting policy.
+The Bank establishes a deferred revenue liability representing the fair value of points earned to date, that are ultimately expected to be redeemed. Revenue recognized per point redeemed is calculated, on a weighted average basis, separately for distinct reward categories. Management uses models to estimate ultimate redemption rates based on historical redemption statistics, card product type, year of program enrolment, enrolment tenure and card spend levels.
+The liability for the fair value of Membership Rewards points is included in deferred revenue on the statement of financial position (see note 11).
+The Bank continually evaluates its reserve methodology and assumptions based on developments in redemption patterns.[29]
+[57] The above treatment is based on the so‑called matching principle. In short, the matching principle requires that businesses recognize some of the merchant discount revenue at the same time that a deferred expense is finally realized. When the Point liability arises, it is a deferred liability. It is a deferred expense because the actual cash expense arises only when the Points are redeemed by a Member for a Reward or alternatively when the Points are forfeited altogether. Because of this commercial reality, part of the merchant discount revenue must also be deferred. In other words, a portion of the merchant discount revenue must also be deferred (the “Deferred Revenue”) because it has not yet been fully earned. The Deferred Revenue is then recognized and matched to the deferred MRP Expenses as Points are redeemed. The commercial reality of a credit transaction that gives rise to a Deferred Point liability, as illustrated by the accounting transaction in the instant case, demonstrates that the Point Reward Expenses are inextricably linked with the supplies of exempt financial services to both MRP Cardholders and merchants that accept such Cards for payment.
+[58] I pointed out my observations on the above to the Appellant’s counsel prior to his oral submissions. His response was that the test for determining whether supplies are a composite supply or multiple supplies is provided for in the law. Needless to say, I agree with this observation. That said, I believe that the accounting transaction in the instant case is, inter alia, relevant because it is based on the commercial reality of the components or elements of a single composite supply.
+[59] In summary, I conclude that all of the elements and components of the MRP are inherently intertwined and connected with the exempt supply of financial services made by the Appellant to its Members and merchants for the following reasons:
+First, a Member can only accumulate Points and obtain Rewards when he or she uses an Amex Card for the purchase of goods and services. The Member must also be in good standing as a Cardholder when Points are collected and redeemed.
+The accumulation of Points and the obtaining of Rewards is considered by MRP Cardholders to be an additional benefit. The MRP is specifically designed to encourage Members to use their Amex Cards so that Amex can earn greater amounts of merchant discount revenue.
+Enrollment in the MRP by an MRP Cardholder alone offers no benefits in and of itself. Points can only be earned and redeemed for benefits if an Amex Card is used by a Member to pay for goods or services.
+Amex’s Points Reward liability rises and falls in tandem with the amount of credit that it extends to MRP Cardholders. Similarly, the amount of merchant discount revenue earned by Amex rises and falls in tandem with MRP Cardholders’ spending.
+The evidence shows, for example, that Amex’s credit card revenue was close to $1 billion per year.[30] On the basis of the CRA’s calculation, which was not rebutted by contrary evidence, the revenue from MRP fees represented less than 0.4% of Amex’s total revenue.[31]
+[60] With this backdrop in mind, I conclude that all of the elements or components of the MRP are integrated and intertwined components of a composite supply of exempt financial services made by Amex to MRP Cardholders.
+(3) Determination of the Predominant Elements of the Composite Supply [61] I will now proceed to examine the evidentiary record relevant to the determination of the predominant element of the single composite supply outlined above.
+[62] The parties agree, in large part, on how one goes about determining the predominant element of a single compound supply.
+[63] Briefly, in Global Cash Access (Canada) Inc. v. R, 2013 FCA 269 the Federal Court of Appeal mused as follows on how the definition of a financial service should be applied:
+[26] To determine whether that single supply falls within the statutory definition of “financial service”, the questions to be asked are these: (1) Based on an interpretation of the contracts between the Casinos and Global, what did the Casinos provide to Global to earn the commissions payable by Global? (2) Does that service fall within the statutory definition of “financial service”?[32]
+[64] In Great‑West Life Assurance Co. v. R, 2016 FCA 316, the Federal Court of Appeal noted that, following Global Cash Access, the first question is “simply to determine what services [are] provided for the consideration received.”[33] This first step identifies services that are also not the predominant elements, while the second step of the analysis requires:
+[48] . . . a determination as to whether the supply is included in the definition of “financial service.” As part of this exercise, it is necessary to determine the predominant elements of the supply if it is a single compound supply. It is only the predominant elements that are taken into account in applying the inclusions and exclusions in the “financial service” definition.[34]
+[Emphasis added.]
+[65] Therefore, what is clear from the case law is that the identification of the predominant elements of a single compound supply is based on a two‑step test. First, I am required to identify all of the components of the supplies that were received by the MRP Cardholder. At the second stage, I must then determine the predominant elements of the supply made by Amex to MRP Cardholders because it is a single compound supply.[35]
+[66] As noted earlier, in determining the essence or nature of the supply, the parties agree that the law requires one to take into account the perspective of the recipient of the supply.
+[67] The relevant question is as follows: What did the MRP Cardholders receive under the key agreements? The following is a summary of the elements and components of the composite supply:
+1. Right to enroll in the MRP granted to MRP-Extra Cardholders in consideration of a nominal fee and a nominal annual renewal fee;
+2. Right to be credited with a higher ratio of Points per dollar charged in consideration of a Points Accelerator Fee;
+3. Accumulation of Points based on credit card spending;
+4. The extension of credit to an MRP Cardholder upon use of a card;
+5. Payment for the goods and services purchased with the cards;
+6. Right to purchase additional Points;
+7. Granting of a Reward on a redemption of Points.
+[68] In my opinion, all of the facts considered above and relied on by me to determine that all of the elements and components of the MRP are elements of a composite supply also establish that the predominant element of that supply is the extension of credit by Amex to a Member.
+[69] The above becomes obvious when the value of the Points accumulated by a Cardholder is compared to the value of the goods and services purchased by a Member and charged to his or her account. Mr. Ryan, in his testimony, referred to the accumulated Points as an additional benefit. The value of the accumulated Points is calculated by reference to the amounts of the goods and services purchased, and while the value of the Points may be worth more than points offered by Amex’s competitors under competing loyalty programs, the Points accumulated by a Member represent a small fraction of the amount of credit extended to a Member. The commercial efficacy of the supply, from the Cardholder’s perspective, is credit which is interest‑free (provided the full amount of the monthly bill is paid on time) that allows the MRP Cardholder to procure goods and services without using cash savings or borrowing funds from a different source.
+[70] As noted above, Amex provides two interconnected exempt supplies of financial services in connection with its credit card business involving Members. Before an MRP Cardholder can charge goods and services to an Amex Card, Amex must recruit merchants and arrange for the merchants to accept Amex Cards as payment for purchased goods and services. The service that is arranged for falls within the definition of a financial service.
+[71] Why do merchants compensate Amex by paying a merchant discount? In my opinion, they do so because it allows merchants to maximize their sales by agreeing to enter into a transaction that allows their potential customers to receive credit. In the case of higher‑priced goods, such as electronic goods, appliances, furniture and automobiles, this is a common practice. Those goods are often offered for sale with attractive terms of payment. The cost associated by the merchant, including credit risk, is built into the costs of goods sold and, generally speaking, is shared by all customers, including those who pay cash. It is common knowledge that merchants often refuse to discount the purchase price for those who pay cash. In summary, merchants agree to pay merchant discounts to increase sales and avoid other financing costs. That is the commercial efficacy of the supply made by Amex to merchants.
+[72] The Appellant argued that one of the elements of the supply for merchants that are Participants is the marketing and promotion of the products and services offered by Participants as Rewards. I will deal more fully with this point later in my analysis of the Appellant’s submissions regarding the application of section 141.01. Suffice to say, Members seek goods from merchants for a variety of reasons. They are attached to a merchant brand which is promoted by the merchant itself through various types of advertising.
+[73] Both of the parties marshaled a number of cases that they claim support their position.[36] While these cases are important, the outcome is inherently fact–driven. The results turn on the particular facts and it is therefore unnecessary to comment on these particular cases at length.
+[74] Subsection 169(1) does not apply because the expenses are not incurred or made in the course of a commercial activity.
+[75] The Crown has raised a number of reasons why the Appellant is not entitled to claim an NITC in respect of the redemption price paid for Travel Certificates. Of particular importance is the requirement that the redemption expense be incurred in the course of a commercial activity of the payor. As noted in President’s Choice Bank v. The Queen, 2022 TCC 844, the words “in the course of” have a wide meaning to make ITCs available if the item directly or indirectly contributes to the production of articles or the provision of services that are taxable.[37] Further, the definition of “commercial activity” requires that where there are multiple businesses or business objectives, any part of the business that consists of making exempt supplies must be notionally severed.[38] Notwithstanding this, it is clear to me that the redemption expense is incurred in respect of a liability that arose because of the supply of an exempt financial service. Therefore, for the reasons that I annunciated in PC Bank, this precondition is not satisfied as a result. I do not have to comment on the other conditions.
+[76] In conclusion, I am of the opinion that in the case of the composite supplies made by Amex, the predominant elements or components of the supply are exempt financial services.
+[77] In the alternative, the Respondent submitted that sections 138 and 139 of the ETA apply. These provisions are narrower in scope to the tests applied by me above. For section 138 to apply, there must be a single consideration for the supply and one must be incidental to the other. Having decided that the nature of the composite supply is that of an exempt financial service, I do not have to consider the Respondent’s alternate argument.
+[78] The Respondent also relied, in the alternative, on section 139 of the ETA. This provision is not of general application. The effect of section 139, when the preconditions of that provision are satisfied, is that a taxable supply is deemed to be financial. Likewise, I do not have to consider this issue for the same reasons as stated immediately above.
+[79] Finally, the Appellant argued in the alternative that the supply of Rewards under the MRP was excluded from the definition of a financial service by virtue of the exclusion to the definition specified in paragraph (r.5). Suffice to say on this point that the provision of a Reward is an element or component of a composite supply, and that component of the supply is not a predominant element thereof. The inclusions and exclusions in the definition of a financial service are applied in the case of a composite supply by reference to the predominant element of the supply.
+(4) Free Supplies of Rewards [80] The Respondent submits that the so‑called free supply rule provided for in subsection 141.01(4) applies to characterize the supply of Rewards as a taxable supply. For that reason, the Appellant claims that it is entitled to ITCs in respect of its MRP Expenses. The parts of section 141.01 relevant to my analysis of the Appellant’s submission on this issue are reproduced below for ease of reference:[39]
+Meaning of endeavour
+141.01(1) In this section, endeavour of a person means
+(a) a business of the person;
+(b) an adventure or concern in the nature of trade of the person; or
+(c) the making of a supply by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+. . .
+Acquisition for purpose of making supplies
+(2) Where a person acquires or imports property or a service or brings it into a participating province for consumption or use in the course of an endeavour of the person, the personal shall, for the purposes of this Part, be deemed to have acquired or imported the property or service or brought it into the province, as the case may be,
+(a) for consumption or use in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the province by the person for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) for consumption or use otherwise than in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the province by the person
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+Use for purpose of making supplies
+(3) Where a person consumes or uses property or a service in the course of an endeavour of the person, that consumption or use shall, for the purposes of this Part, be deemed to be
+(a) in the course of commercial activities of the person, to the extent that the consumption or use is for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) otherwise than in the course of commercial activities of the person, to the extent that the consumption or use is
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+Free supplies
+(4) Where
+(a) a supplier makes a taxable supply (in this subsection referred to as a “free supply”) of property or a service for no consideration or nominal consideration in the course of a particular endeavour of the supplier, and
+(b) it can reasonably be regarded that among the purposes (in this subsection referred to as the “specified purposes”) for which the free supply is made is the purpose of facilitating, furthering or promoting
+(i) the acquisition, consumption or use of other property or services by any other person, or
+(ii) an endeavour of any person,
+the following rules apply:
+(c) to the extent that the supplier acquired or imported a particular property or service or brought it into a participating province for the purpose of making the free supply of that property or service or for consumption or use in the course of making the free supply, the supplier shall be deemed, for the purposes of subsection (2), to have acquired or imported the particular property or service or brought it into the province, as the case may be,
+(i) for use in the course of the particular endeavour, and
+(ii) for the specified purposes and not for the purpose of making the free supply, and
+(d) to the extent that the supplier consumed or used a particular property or service for the purpose of making the free supply, the supplier shall be deemed, for the purposes of subsection (3), to have consumed or used the particular property or service for the specified purposes and not for the purpose of making the free supply.
+[81] In the context of the MRP, the Appellant claims that the supply of Rewards to Members is made for no consideration. Therefore, it satisfies the free supply pre‑condition set out in that provision. The Appellant makes this claim without elaborating on how it reached this conclusion. If a free supply exists, it is the accumulation of Points in the first instance. The next element of or component of the composite supply is the supply of a Reward by Amex in satisfaction of a redemption liability that is extinguished on completion of the transaction. The satisfaction of a bona fide liability, in my opinion, constitutes consideration for the Reward.
+[82] I am of the view that the Appellant is not making a free supply in the context of the overall financial service supplies that it makes to both Members and merchants as discussed above. The Appellant incurs the Reward Expense for the purpose of earning greater merchant discount revenue in its credit card business. Substantially all of the revenue that it earns is merchant discount revenue and interest from its credit card receivables. There is a direct link between the MRP Expenses and the merchant discount revenue that arises because of credit extended to a Member. Furthermore, as noted earlier, the direct link between the merchant discount revenue is the reason why part of this revenue must be deferred and recognized when the Reward Expense is actually realized.
+[83] The Appellant anticipated that I would look at the single supply transaction as a whole to determine whether or not a taxable supply was made for no consideration. The Appellant argues that I must determine whether or not the free supply rule applies by considering the supply of the Reward as a separate transaction. This is what the Appellant says on this point:
+Applying the foregoing in the context of the MRP, where the Rewards are acquired for consumption or use for the purpose of supplying them to Members who redeem for the Rewards (the first‑order supply), it is the tax status of that first‑order supply (i.e., the supply of the Rewards to Members for no consideration) that determines whether the inputs (namely the Participant GST) was incurred for consumption or use in a commercial activity. The issue of whether the ultimate purposes is to earn discount revenue is not relevant to this analysis.[40]
+[84] The approach suggested by the Appellant is contrary to the scheme of how ITCs are awarded or not under the ETA. First, it is well established that whether or not the ITCs can be claimed depends on the nature of the supply for which they are used or the purpose thereof. If, as determined above, expenses are incurred for expenses related to inputs to a composite supply that is a financial service, the ETA provides that no ITCs may be claimed. The tax is borne by the supplier, rather than the recipient of the supply. The reason for this is that there is no GST/HST payable by the recipient of an exempt supply. In the case of a composite supply, it is further well established that the nature of the supply is determined by reference to the predominant elements of the supply. Thus, the analytical approach that the Appellant recommends that I adopt stands in stark contradiction to the aforementioned principles.
+[85] The Appellant’s analytical approach also results in a supply that escapes taxation altogether. Under the ETA, only zero‑rated supplies and the inputs thereto are not subject to tax.
+[86] If I am wrong on this first point, I am also of the view that the pre‑condition set out in paragraph 141.01(4)(b) does not apply. This provision requires the following pre‑conditions to be satisfied:
+It can reasonably be regarded (the “Reasonability Test”) that among the purposes for which the supply is made is the purpose of facilitating, furthering or promoting
+a) the acquisition, consumption or use of services by any person, or
+b) an endeavour of any person.
+[87] The Appellant claims that the purpose of the free supply is to promote the activities of Participants.
+[88] I do not share this view for the reasons referenced earlier.
+[89] Considering the evidence as a whole surrounding why and how the Point Reward Expenses are incurred, I do not share the Appellant’s view that it can reasonably be regarded that one of the purposes of the Rewards is to promote the activities of Participants, for the reasons noted earlier.[41] The promotional and marketing of Rewards by Amex is carried out for its own purpose.
+[90] Finally, if I am wrong on both points, I am still of the view that the Appellant is not entitled to claim ITCs in respect of its MRP Expenses because of the language used in paragraph 141.01(4)(c) of the ETA. The introductory words in that provision are “to the extent . . . for the specified purposes”. The specified purpose which the Appellant has based its submissions on is the alleged promotion of the Participants’ activities. The words “to the extent of” require that an allocation be made. The Appellant has led no evidence of how the MRP Expenses are to be allocated between: (1) the purpose of promoting Participant activities, which I disagree is a purpose, and (2) the significant and overwhelming purpose of the composite supply of a financial service, referenced above.
+[91] On this point, the Appellant says that the Respondent has not challenged the manner in which it initially allocated MRP Expenses. The methodology used by the Appellant was based on the percentage of MRP‑Extra Cards held by Members to total Cards held by Members. This methodology has nothing to do with the promotion of the Participants’ activities. The Appellant defends its ITC claim alternatively on the application of subsection 141.01(4). It claims that the Minister’s assessments are wrong for this reason. The burden of establishing the facts that demonstrate that all of the pre–conditions of that provision have been satisfied resides with the Appellant and not the Respondent.
+V. Final Observations
+[92] It is an understatement for me to say that the Appellant’s position in this matter is akin to the task of swimming against a significant riptide. I pointed out to the Appellant that if I agreed with its position, this would lead to a result which is contrary to the outcome of a number of decisions involving taxpayers that sought to grow the revenue from their credit card business by offering rewards to members of their loyalty programs calculated based on their card spending. I considered a similar series of facts in my recent decision in PC Bank. PC Bank had the right to issue PC Bank points to cardholders whenever they used their PC MasterCards. PC Bank claimed NITCs pursuant to subsection 181(5) for payments it made to Loblaw when PC MasterCard holders redeemed points at Loblaw stores. This is similar to the treatment sought by Amex when Travel Certificates issued for Points are redeemed for travel arranged by ACI franchisees. My factual findings in the PC Bank case are quite similar to my factual findings in the instant case. In the PC Bank case, I determined that the redemption payments were linked to the making of exempt supplies of financial services by PC Bank. As a result, PC Bank was not entitled to an NITC because the redemption payments were not made in the course of a commercial activity.
+[93] As the Respondent pointed out in his written submissions,[42] both this Court and the Federal Court of Appeal observed that under the general scheme of the ETA, a financial institution cannot claim ITCs for any GST/HST in connection with a loyalty program where those inputs are used in the carrying out of a financial services business.
+[94] The Appellant claims that the facts in the present case are very different than the facts considered in Canadian Imperial Bank of Commerce v The Queen, 2019 TCC 79, aff’d 2021 FCA 96.[43] In the present case, Amex operates its own loyalty program; the CIBC did not. CIBC paid for the right to issue Aeroplan points to its cardholders who were or became Aeroplan loyalty members. I noted to counsel for the Appellant that Amex does almost the very same thing as CIBC does in connection with its relationship with Aeroplan. Amex has a right which is similar in effect to that enjoyed by CIBC. CIBC is allowed to issue points to holders of its Aeroplan credit card. They pay for the points which are, for all intents and purposes, allocated as rewards to its cardholders. Similarly, in the instant case, Amex has the right to cause Aeroplan to issue Aeroplan points for the Amex Points that its Members choose to convert on a one–for–one basis. Amex makes a payment to Aeroplan for the Points that Aeroplan issues on the conversion transaction. This conversion transaction places the MRP Member in the same position as the CIBC client who receives Aeroplan points paid for by CIBC in the first place. In both of these cases, the taxpayer points can be redeemed for rewards paid for by Aeroplan. Once the points are issued by Aeroplan, Aeroplan takes on the deferred point liability. As soon as the Aeroplan points are issued, both CIBC and Amex are released of any further obligation regarding the redemption of the Aeroplan points.
+VI. Conclusion
+[95] Considering all of the above, the Appellant is not entitled to claim ITCs paid in connection with its MRP Expenses. Similarly, the Appellant is not entitled to the NITCs claimed for the Travel Certificate Payments made to ACI franchisees.
+[96] The Appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 27th day of June 2023.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2023 TCC 93
+COURT FILE NO.:
+2019-871(GST)G
+STYLE OF CAUSE:
+AMEX BANK OF CANADA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+February 27 and 28, 2023 and March 1, 2 and 3, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 27, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Neil E. Bass
+Angelo Gentile
+Josh Kumar
+Counsel for the Respondent:
+Craig Maw
+Janice Liu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil E. Bass Angelo Gentile
+Firm:
+Aird & Berlis LLP Toronto, Ontario
+For the Respondent:
+Shalene Curtis‑Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] These terms are defined below.
+[2] Excise Tax Act, RSC 1985, c E-15 “ETA”.
+[3] Partial Agreed Statement of Facts (24 February 2023) “PASF”.
+[4] Exhibit A1: Redacted version of Joint Book of Documents, Representative sample pitch deck for potential participants, Tab 25.
+[5] Exhibit A1: Redacted version of Joint Book of Documents, Representative sample pitch deck for potential participants, Tab 25, Partnership between Leisure co and Membership Rewards at 544–550; Partnership between Gas co and Membership Rewards at 559–561; Partnership between Hospitality co and Membership Rewards at 585–587; Partnership between Retail co and Membership Rewards at 610–612. The sample pitch books explain the demographics of Members and their value to potential Participants. See also Transcript, examination of Mr. Ryan at 50, lines 12–28, at 51, lines 1–2.
+[6] Transcript, cross-examination of Mr. Ryan at 83, lines 26–28; at 85, lines 10–19; at 116, lines 1–24.
+[7] Transcript, cross-examination of Mr. Ryan at 123, lines 7–28; at 124, lines 1–14; at 127, lines 9–28; at 128, lines 1–7.
+[8] Transcript, cross-examination of Mr. Ryan at 54, lines 5–21.
+[9] Transcript, cross‑examination of Mr. Ryan at 83, lines 26–28; at 85, lines 10–19; at 116, lines 1–24.
+[10] Transcript, cross-examination of Mr. Ryan at 87, lines 19–28; at 88, lines 1–8; at 125, lines 20–28; at 126, lines 1–13.
+[11] Transcript, cross-examination of Mr. Ryan at 85, lines 15–19; at 87, lines 19–28; at 88, lines 1–8; at 125, lines 20–28; at 126, lines 1–13.
+[12] Transcript, examination of Ms. Sinclair at 170, lines 1–28; at 171, lines 1–28; at 172, lines 1–27.
+[13] Transcript, cross-examination of Mr. Ryan at 120, lines 11–13.
+[14] Transcript, examination of Julie Ho at 253, lines 12–28.
+[15] Transcript, examination of Julie Ho at 256, lines 16–28; at 257, lines 1–25.
+[16] Supra note 2, subss 123(1), 169(1), 181(5).
+[17] Calgary (City) v Canada, 2012 SCC 20 at paras 35–36, citing OA Brown Ltd v Canada, [1995] GSTC 40, 3 GTC 2092 (Tax Court of Canada (Informal Procedure)).
+[18] Global Cash Access (Canada) Inc. v R, 2013 FCA 269 at paras 25, 28 [Global Cash Access].
+[19] Written argument, Appellant at para 10.
+[20] Written argument, Appellant at para 14.
+[21] Written argument, Appellant at para 17, citing Canadian Imperial Bank of Commerce v R, 2021 FCA 96 at para 33.
+[22] Transcript, Respondent’s oral argument at 78, lines 25–28; at 79, lines 1-28; at 95, lines 12–15. Transcript, Appellant’s oral argument at 18, lines 4–11.
+[23] Exhibit A–1: Redacted version of Joint Book of Documents, Tabs 33–36.
+[24] Exhibit A–1: Redacted version of Joint Book of Documents, MRP Terms and Conditions, Tab 33 at 664; Tab 34 at 689; Tab 35 at 724.
+[25] Exhibit A–1: Redacted version of Joint Book of Documents, MRP Terms and Conditions, Tab 33 at 665; Tab 34 at 690-91; Tab 35 at 724–25.
+[26] The arrangements made by Amex with merchants whereby merchants can receive the payment of transfer for money qualifies as a financial service by virtue of paragraph (c) and (l) of the definition of “financial service” under subsection 123(1) of the ETA.
+[27] Exhibit A–2: Unredacted version of Joint Book of Documents, Representative sample Cardmember Agreements, Tab 22 at 364; Sample Membership Rewards Program Terms and Conditions, Tab 33, article 7.1.
+[28] Transcript, cross-examination of Mr. Ryan at 86, lines 11–28; at 87, lines 1–10; at 122, lines 19-28; at 123, lines 1–28; at 124, lines 1–8; at 131; and re-examination of Mr. Ryan at 131.
+[29] Exhibit A–2: Unredacted version of Joint Book of Documents, Amex Financial Statement 2012: Notes to the financial statements, Tab 18 at 567.
+[30] Exhibit A–2: Unredacted version of Joint Book of Documents, Financial Statements, Tab 13 at 321; Tab 14 at 339–42; Tab 15 at 375–78; Tab 16 at 419-22; Tab 17 at 465–68; Tab 18 at 546–49.
+[31] See Written argument, Respondent at para 29, citing Transcript, examination of Ms. Julie Ho at 258, lines 15–28; at 259, lines 1–15.
+[32] Supra note 18 at para 26.
+[33] Great‑West Life Assurance Co. v. R, 2016 FCA 316 at para 47 [Great-West Life].
+[34] Ibid at para 48.
+[35] Global Cash Access, supra note 18 at para 26; Great‑West Life, supra note 33 at paras 46‑48.
+[36] Written argument, Appellant, citing: Calgary (City) v Canada, 2012 SCC 20; Tele-Mobile Company Partnership v R, 2013 FCA 149; President’s Choice Bank v R, 2022 TCC 84; Canadian Imperial Bank of Commerce v R, 2022 TCC 83; Canadian Imperial Bank of Commerce v R, 2019 TCC 79, aff’d 2021 FCA 96; Stewardship Ontario v R, 2018 TCC 59; Nestlé Canada Inc v R, 2017 TCC 33; University of Calgary v R, 2015 TCC 321; British Columbia Ferry Services Inc v R, 2014 TCC 305; D-Win Computer Systems Inc v R, 2013 TCC 187; President’s Choice Bank v R, 2009 TCC 170; Merchant v R, 2009 TCC 31; Royal Bank v R, 2007 TCC 281; Canada Trustco Mortgage Co v R, 2004 TCC 792; Bay Ferries Ltd v R, 2004 TCC 663; Canasia Industries Ltd v R, 2003 TCC 33; London Life Insurance Company v R, 2000 CarswellNat 2966, [2000] GSTC 111 (FCA); 398722 Alberta Ltd v R, 2000 GTC 4091, [2000] GSTC 32 (FCA); OA Brown Ltd v Canada, [1995] GSTC 40, 3 GTC 2092 (TCC (Informal Procedure)).
+Written argument, Respondent, citing: Calgary (City) v Canada, 2012 SCC 20; Global Cash Access (Canada) Inc v R, 2013 FCA 269; General Motors of Canada Ltd v R, 2009 FCA 114; Midland Hutterian Brethren v R, [2000] GSTC 109, 2001 GTC 3462 (FCA); 398722 Alberta Ltd v R, 2000 GTC 4091, [2000] GSTC 32 (FCA); Canadian Imperial Bank of Commerce v R, 2019 TCC 79, aff’d 2021 FCA 96; President’s Choice Bank v R, 2022 TCC 84; Stewardship Ontario v R, 2018 TCC 59; President’s Choice Bank v R, 2009 TCC 170; BJ Services Co Canada v R, 2003 TCC 900; OA Brown Ltd v Canada, [1995] GSTC 40, 3 GTC 2092 (TCC (Informal Procedure)).
+[37] President’s Choice Bank v The Queen, 2022 TCC 84 at para 29 [PC Bank], citing General Motors of Canada Ltd v R, 2009 FCA 114. See also Midland Hutterian Brethren v R, 2000 CarswellNat 2969, [2000] GSTC 109 (FCA). PC Bank is under appeal.
+[38] Ibid at para 32, citing 398722 Alberta Ltd v R, 2000 CarswellNat 837, [2000] GSTC 32. See also London Life Insurance Co v R, 2000 CarswellNat 2966, [2000] FCJ 2121 (FCA).
+[39] Supra note 2, subss 141.01(1)–(4).
+[40] Written argument, Appellant, para 46.
+[41] See para 9 of this decision.
+[42] Written argument, Respondent at para 43, citing Canadian Imperial Bank of Commerce v R, 2019 TCC 79, aff’d 2021 FCA 96 [CIBC Aeroplan].
+[43] Transcript, Appellant’s oral argument at 7, lines 26–28; at 8, lines 1–16; at 10, lines 20–28; at 13, lines 6–16; at 48, lines 4–15. See also CIBC Aeroplan, supra note 42.

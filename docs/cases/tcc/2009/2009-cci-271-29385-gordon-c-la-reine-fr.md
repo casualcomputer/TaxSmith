@@ -1,0 +1,125 @@
+---
+title: "Gordon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29385/index.do"
+last_modified: "2009-03-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 271"
+citation2: ""
+neutral_citation: "2009 CCI 271"
+decision_date: "2009-03-03"
+language: "fr"
+item_id: "29385"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6876
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:07:01.749000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aac633e57a878400900fe7223708ddaf346a9d0ad4b0f9f7c9b97cdbb5b937f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gordon c. La Reine
+
+- Citation: 2009 CCI 271
+- Decision date: 2009-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6876, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gordon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-03
+Référence neutre
+2009 CCI 271
+Numéro de dossier
+2008-2972(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 271
+2008-2972(IT)G
+ENTRE :
+WAYNE GORDON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICATION DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT
+Je requiers que soit déposée la transcription certifiée ci-jointe des motifs du jugement rendus oralement à l’audience à Regina (Saskatchewan), le 3 mars 2009.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Signé à Edmonton (Alberta), ce 3e jour de juin 2009.
+Traduction certifiée conforme
+ce 3e jour de septembre 2009.
+Marie-Christine Gervais, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+COUR CANADIENNE DE L’IMPÔT
+2008-2972(IT)G
+ENTRE :
+WAYNE GORDON,
+appelant,
+- et -
+SA MAJESTÉ LA REINE,
+intimée.
+-------------------
+Requête entendue devant l’honorable juge D.W. Beaubier, à l’hôtel Saskatchewan, Regina (Saskatchewan), le mardi 3 mars 2009.
+MOTIFS DU JUGEMENT
+COMPARUTIONS :
+G. Carson (Carson & Co.)
+Melfort (Saskatchewan)
+Pour l’appelant
+B. Sittler (Justice Canada)
+J. Barber Étudiant en droit
+Saskatoon (Saskatchewan)
+Pour l’intimée
+Velma Szatkowski Greffière
+--------------------------------------
+ROYAL REPORTING SERVICES LIMITED
+2010, 11e avenue, bureau 300
+Regina (Saskatchewan)
+S4P 0J3
+MOTIFS DU JUGEMENT
+[1] La présente requête présentée par l’intimée en vue d’obtenir l’annulation de l’avis d’appel de Wayne Gordon (« M. Gordon ») pour l’année d’imposition 2003 a été entendue à Regina (Saskatchewan), le 3 mars 2009.
+[2] La requête est fondée sur le fait qu’il n’y avait aucune nouvelle cotisation à l’encontre de laquelle une opposition pouvait être formulée ou un appel interjeté en temps opportun.
+[3] Selon la preuve, l’appelant a produit sa déclaration de revenus initiale pour 2003 dans les délais, puis la déclaration a fait l’objet d’une cotisation au moyen d’un avis de cotisation daté du 6 mai 2004.
+[4] Par après, il s’est produit ce qui suit :
+(1) Le 16 avril 2007, l’appelant a produit une T1 Générale modifiée pour 2003 dans laquelle il demandait un rajustement pour 2003.
+(2) Le 7 janvier 2008, le ministre a refusé la demande (David Gill, pièce B).
+(3) Le 15 février 2008, la demande a été refusée une deuxième fois par le ministre.
+(4) Le 23 mai 2008, l’appelant a déposé un avis d’opposition à ces refus, lequel renvoyait à un avis de cotisation pour 2003 daté du 3 mars 2008. Cet avis de cotisation que l’appelant aurait reçu n’a pas été produit en preuve.
+(5) Le 4 juin 2008, le ministre a avisé l’appelant qu’il n’avait pas accepté l’avis d’opposition daté du 23 mai 2008 parce que celui‑ci avait été déposé trop tard pour l’avis de cotisation daté du 6 mai 2004.
+(6) Le 27 août 2008, l’appelant a déposé l’avis d’appel en cause pour l’année 2003 en renvoyant encore une fois à un avis de nouvelle cotisation daté du 3 mars 2008, puis à l’avis de cotisation daté du 23 mai 2008, et puis à un refus daté du 4 juin 2008.
+[5] Dans son affidavit relatif à la requête qui est daté du 18 février 2009, M. Gordon décrit un jugement rendu par la Cour portant le numéro de greffe 2004‑1889(IT)G et daté du 17 septembre 2008 et mentionne qu’il a droit à une nouvelle cotisation corrélative, laquelle n’a pas encore été établie pour son année d’imposition 2003. Il ajoute qu’une nouvelle cotisation a été établie pour les années 2004, 2005 et 2006 à la suite du jugement et qu’il s’y est opposé.
+[6] L’affidavit de M. Gordon daté du 18 février 2009 aurait pu renfermer la nouvelle cotisation pour 2003, laquelle aurait été établie le 3 mars 2008 selon son avis d’appel, mais ce n’est pas le cas. L’auteur de l’affidavit de l’intimée, M. David Gill, a mentionné le 28 novembre 2008 qu’il n’y avait qu’un seul avis de cotisation daté du 6 mai 2004 et qu’en fait, il n’y avait rien d’autre pour 2003. La Cour souscrit à son témoignage compte tenu des éléments dont elle dispose à l’égard de l’avis d’appel pour 2003.
+[7] Dans ses observations, l’avocat de M. Gordon a renvoyé à la lettre du ministre datée du 29 février 2008 (M. Gordon, pièce B) en disant qu’il s’agissait en fait de la nouvelle cotisation datée du 3 mars faisant l’objet de l’appel. Toutefois, cette lettre mentionne seulement [traduction] « Nous procédons actuellement à l’établissement d’une nouvelle cotisation à l’égard des déclarations susmentionnées comme nous l’avons mentionné dans notre lettre de proposition datée du 7 janvier 2008 qui a été envoyée à vos représentants ». Cela ne constitue pas une nouvelle cotisation pour 2003. La lettre renvoie aux années 2003 à 2006 inclusivement. En fait, rien ne permet de conclure qu’une nouvelle cotisation a été établie pour 2003, même s’il semble que certaines de ces années ont fait l’objet d’une nouvelle cotisation.
+[8] La Cour est donc d’avis que la preuve ne renferme aucune nouvelle cotisation pour 2003 à l’encontre de laquelle un appel pourrait être interjeté. Plus particulièrement, il n’y a pas de nouvelle cotisation datée du 3 mars 2008 ou quelque document que ce soit pouvant être considéré comme une nouvelle cotisation.
+[9] Pour ces motifs, l’avis d’appel est annulé. Toutefois, les dépens ne seront pas adjugés en raison de la lettre du ministre datée du 29 février 2008.
+(Fin des motifs)
+Traduction certifiée conforme
+ce 3e jour de septembre 2009.
+Marie-Christine Gervais, traductrice

@@ -1,0 +1,775 @@
+---
+title: "McDonald c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30507/index.do"
+last_modified: "2011-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 437"
+citation2: ""
+neutral_citation: "2011 CCI 437"
+decision_date: "2011-09-20"
+language: "fr"
+item_id: "30507"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7247
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:37:36.600000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff27a9d2d5edea8192cbea7692d09c4b3df9792ae9490e76696fc4e72f5581b6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McDonald c. La Reine
+
+- Citation: 2011 CCI 437
+- Decision date: 2011-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7247, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDonald c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-09-20
+Référence neutre
+2011 CCI 437
+Numéro de dossier
+2007-4956(IT)G, 2007-4958(IT)G, 2007-4959(IT)G, 2007-4960(IT)G, 2007-4962(IT)G, 2007-4963(IT)G, 2007-4964(IT)G, 2007-4965(IT)G, 2007-4966(IT)G, 2007-4967(IT)G, 2007-4970(IT)G, 2007-4975(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4956(IT)G
+ENTRE :
+JERRETT MCDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4958(IT)G
+ENTRE :
+KENNETH WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4975(IT)G
+ENTRE :
+DARRELL HINKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4959(IT)G
+ENTRE :
+JEREMY JOHN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4960(IT)G
+ENTRE :
+GARY DREW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4962(IT)G
+ENTRE :
+CORY JEDDORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4963(IT)G
+ENTRE :
+PATRICK HINKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4964(IT)G
+ENTRE :
+BARRY BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2004 en raison du revenu de pêche admissible sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4965(IT)G
+ENTRE :
+HOWARD BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4966(IT)G
+ENTRE :
+ADAM DRAKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4967(IT)G
+ENTRE :
+THIERRY MCDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 en raison du revenu de pêche admissible sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4968(IT)G
+ENTRE :
+JOHN QUANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2004 en raison du revenu de pêche admissible sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4970(IT)G
+ENTRE :
+SEAN FORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Dean McDonald, 2007‑4972(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4972(IT)G
+ENTRE :
+DEAN MCDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dennis Hinks, 2007‑4973(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4973(IT)G
+ENTRE :
+DENNIS HINKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, et La succession d'Yvon John, 2007‑4974(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelant :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelant en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Dossier : 2007-4974(IT)G
+ENTRE :
+LA SUCCESSION D'YVON JOHN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de : Jerrett McDonald, 2007‑4956(IT)G, Kenneth White, 2007‑4958(IT)G, Darrell Hinks, 2007‑4975(IT)G, Jeremy John, 2007‑4959(IT)G, Gary Drew, 2007‑4960(IT)G, Cory Jeddore, 2007‑4962(IT)G, Patrick Hinks, 2007‑4963(IT)G, Barry Benoit, 2007‑4964(IT)G, Howard Benoit, 2007‑4965(IT)G, Adam Drake, 2007‑4966(IT)G, Thierry McDonald, 2007‑4967(IT)G, John Quann, 2007‑4968(IT)G, Sean Ford, 2007‑4970(IT)G, Dean McDonald, 2007‑4972(IT)G, et Dennis Hinks, 2007‑4973(IT)G, les 30 et 31 mars 2011, à St. John's (Terre‑Neuve‑et‑Labrador).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocate de l'appelante :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que le revenu de pêche et les prestations d'assurance‑emploi reçues par l'appelante en 2003 et en 2004 sont exonérés de l'impôt.
+Les appelants ont droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+Référence : 2011 CCI 437
+Date : 20110920
+Dossier : 2007-4956(IT)G
+ENTRE :
+JERRETT MCDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4958(IT)G
+ET ENTRE :
+KENNETH WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4975(IT)G
+ET ENTRE :
+DARRELL HINKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4959(IT)G
+ET ENTRE :
+JEREMY JOHN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4960(IT)G
+ET ENTRE :
+GARY DREW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4962(IT)G
+ET ENTRE :
+CORY JEDDORE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4963(IT)G
+ET ENTRE :
+PATRICK HINKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4964(IT)G
+ET ENTRE :
+BARRY BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4965(IT)G
+ET ENTRE :
+HOWARD BENOIT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4966(IT)G
+ET ENTRE :
+ADAM DRAKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4967(IT)G
+ET ENTRE :
+THIERRY MCDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4968(IT)G
+ET ENTRE :
+JOHN QUANN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4970(IT)G
+ET ENTRE :
+SEAN FORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4972(IT)G
+ET ENTRE :
+DEAN MCDONALD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4973(IT)G
+ET ENTRE :
+DENNIS HINKS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007-4974(IT)G
+ET ENTRE :
+LA SUCCESSION D'YVON JOHN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge V. A. Miller
+[1] Il s'agit ici de savoir si le revenu de pêche et les prestations d'assurance-emploi que les appelants ont reçus en 2003 et en 2004 sont exonérés de l'impôt pour le motif qu'il s'agit de biens meubles situés sur une réserve au sens de l'alinéa 87(l)b) de la Loi sur les Indiens[1].
+[2] L'alinéa 87(1)b) de la Loi sur les Indiens prévoit ce qui suit :
+87(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation :
+[...]
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+[3] L'exemption prévue par la Loi sur les Indiens est incorporée à la Loi de l'impôt sur le revenu (la « Loi ») par l'alinéa 81(1)a). Le passage pertinent de cette disposition est libellé ainsi :
+81(1) Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) une somme exonérée de l'impôt sur le revenu par toute autre loi fédérale [...]
+[4] Les parties ont déposé un exposé conjoint partiel des faits qui est rédigé ainsi :
+[TRADUCTION]
+a) Il s'agit ici de savoir si le revenu de pêche et les prestations d'AE des appelants pour les années d'imposition 2003 et 2004 sont exonérés de l'impôt conformément à l'article 87 de la Loi sur les Indiens et à l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu;
+b) Les appelants Jerrett McDonald et Darrell Hinks sont des Indiens selon la définition figurant à l'article 2 de la Loi sur les Indiens;
+c) Les appelants sont membres de la bande indienne de Miawpukek (la « bande »);
+d) Pendant la période pertinente, les appelants résidaient à la réserve, à Conne River (Terre‑Neuve) (la « réserve »);
+e) Au cours des années en question, le ministère des Pêches et des Océans (le « MPO ») a délivré des permis communautaires de pêche commerciale à la bande conformément au programme de transfert d'allocations (le « PTA »);
+f) Les permis communautaires de pêche commerciale appartiennent collectivement à la bande;
+g) Pendant la période pertinente, la bande possédait également les bateaux de pêche (les « bateaux ») et le matériel utilisés dans l'entreprise de pêche commerciale;
+h) Les bateaux, les permis et le matériel ont tous été acquis grâce à l'aide fournie en vertu du PTA;
+i) Le 31 décembre 2001, la bande a constitué en personne morale Netukulimk Fisheries Ltd. (« NFL ») en vertu de la loi intitulée Corporations Act (Loi sur les personnes morales) de Terre‑Neuve‑et‑Labrador;
+j) Le bureau et l'établissement commercial de NFL sont situés à la réserve;
+k) Lorsqu'ils ne sont pas utilisés, les bateaux sont amarrés au quai à la réserve, et le matériel est entreposé dans des bâtiments de NFL à la réserve;
+1) Pendant la période pertinente, la bande possédait toutes les actions de NFL et elle nommait les membres de son conseil d'administration, qui était composé de membres de la bande;
+m) NFL était chargée d'exploiter l'entreprise de pêche. NFL embauchait les équipages et s'occupait de l'entretien des bateaux;
+n) Pendant la période pertinente, les équipes de pêche étaient composées d'Indiens inscrits ainsi que de personnes qui n'étaient pas des Indiens inscrits;
+o) Les appelants pêchaient la morue et le crabe dans la zone désignée par le MPO comme étant la division 3Ps;
+p) Les membres d'équipage des bateaux de pêche étaient tous rémunérés par NFL, la rémunération étant fondée sur une partie de la prise;
+q) Harbour Breton est situé à 90 km de la réserve et ne fait pas partie de la réserve;
+r) Les bateaux déchargeaient leur pêche à Harbour Breton et se procuraient de la glace à cet endroit;
+s) Les appelants étaient rémunérés au moyen de chèques émis par NFL.
+[5] Les appels ont été entendus sur preuve commune. Les appelants Jerrett McDonald et Darrell Hinks, Shayne McDonald, directeur général de Netukulimk Fisheries Limited et conseiller juridique de la bande de Miawpukek, et Patricia Williams, gestionnaire des ressources au ministère des Pêches et des Océans, ont témoigné à l'audience.
+Les faits
+[6] Selon Patricia Williams, le ministère des Pêches et des Océans (le « MPO ») a mis sur pied un programme de transfert d'allocations (le « PTA ») dont le mandat était de fournir des possibilités économiques aux communautés autochtones sans pour autant intensifier la pression générale exercée sur les ressources de la pêche. Le ministère accomplit cette tâche en achetant les permis commerciaux des pêcheurs qui veulent cesser leurs activités et en délivrant de nouveau ces permis aux communautés autochtones.
+[7] Les permis sont connus sous le nom de « permis communautaires de pêche commerciale »; ils sont délivrés à une bande plutôt qu'aux membres individuels de la bande. Comme l'indique leur appellation, les permis permettent à une bande de se livrer à la pêche commerciale.
+[8] Dans ce cas‑ci, les permis communautaires de pêche commerciale étaient détenus par la bande de Miawpukek (la « bande »). La bande a entrepris ses activités de pêche commerciale en 1999 ou en l'an 2000. Selon Shayne McDonald, la bande a entrepris ces activités afin de se procurer un revenu et de créer des emplois pour les membres de la communauté.
+[9] Conformément au PTA, la bande a également soumis une demande de financement en vue d'acheter ses bateaux et son matériel. Ce financement était limité et la priorité était accordée aux groupes autochtones qui allaient contribuer à long terme à l'emploi des autochtones et au développement économique communautaire et qui assureraient une participation accrue des autochtones aux pêches[2]. Lorsqu'une demande était acceptée et que des fonds étaient fournis par le MPO, un accord de contribution en vue du financement était conclu. Étant donné que ce financement était restreint, il fallait également que la bande emprunte de l'argent aux fins de l'acquisition des bateaux et du matériel.
+[10] En 2001, la bande a fait en sorte que Netukulimk Fisheries Ltd. (« NFL ») soit constituée en personne morale en vue de permettre à celle‑ci d'emprunter les fonds dont la bande avait besoin pour financer ses activités de pêche commerciale[3]. La bande a également chargé NFL d'exploiter ses permis et ses bateaux. NFL a embauché les équipages et a préparé des politiques concernant les employés aux fins de la gestion de l'entreprise de pêche de la bande.
+[11] Lorsque la bande a entrepris ses activités de pêche commerciale, la plupart des appelants n'avaient aucune expérience dans ce domaine. Chacun des appelants devait suivre divers cours sur la navigation. La bande a payé ces cours. Dean McDonald est le seul appelant qui a initialement été embauché comme patron. Tous les autres patrons étaient des non-Indiens. Les pêcheurs non-Indiens qui ont été embauchés par NFL devaient enseigner leur métier aux appelants. Le premier poste occupé par la plupart des appelants était celui de matelot. Une fois qu'ils connaissaient leur travail de matelot, certains appelants ont été promus au poste de second et ensuite de patron.
+[12] Shayne McDonald estimait qu'en 2003‑2004, la proportion d'Indiens et de non‑Indiens parmi les membres d'équipage était de 50/50.
+Le premier point soulevé par les appelants
+[13] La première question que l'avocate des appelants a soulevée dans ses observations écrites se rapporte au paragraphe 90(1) de la Loi sur les Indiens. L'avocate disait ce qui suit :
+[TRADUCTION]
+[...] les bateaux, les permis et le matériel ont été achetés au moyen des emprunts consentis à la bande, comme Shayne McDonald l'a déclaré dans son témoignage, ainsi qu'au moyen de fonds fournis par le MPO, ces fonds provenant de l'État en vertu du programme de la SRAPA et du PTA, expressément à l'usage et au profit des Indiens; par conséquent, conformément à l'alinéa 90(1)a), ils sont situés sur une réserve. Nous soutenons en outre que ces fonds ont été donnés à la bande en vertu de l'accord entre la bande et le MPO et que, selon l'alinéa 90(1)b), ils sont situés sur une réserve, de sorte qu'ils sont exonérés de l'impôt et que l'appel devrait être accueilli.
+[14] Le paragraphe 90(1) de la Loi sur les Indiens est rédigé ainsi :
+90(1) Pour l'application des articles 87 et 89, les biens meubles qui ont été :
+a) soit achetés par Sa Majesté avec l'argent des Indiens ou des fonds votés par le Parlement à l'usage et au profit d'Indiens ou de bandes;
+b) soit donnés aux Indiens ou à une bande en vertu d'un traité ou accord entre une bande et Sa Majesté,
+sont toujours réputés situés sur une réserve.
+[15] Je crois que les faits, dans les présents appels, ne justifient pas l'application du paragraphe 90(1), mais je n'examinerai toutefois pas la question étant donné que les appelants ne l'ont pas soulevée dans leurs actes de procédure et à l'audition des appels. La question a été soulevée la première fois dans les observations écrites de l'avocate des appelants. Les appelants ne peuvent pas maintenant soulever la question à l'appui de leurs appels une fois que la preuve a été présentée.
+[16] L'avocate des appelants a soutenu qu'aucun préjudice n'est causé à l'intimée étant donné que l'Agence du revenu du Canada (l'« ARC ») avait examiné le paragraphe 90(1) de la Loi sur les Indiens au stade de l'opposition. Je ne suis pas d'accord. L'intimée subit un préjudice en ce sens qu'elle n'a pas eu la possibilité d'interroger les témoins sur des faits qui pourraient être pertinents à cet argument.
+[17] S'ils voulaient se fonder sur l'article 90, les appelants devaient invoquer cette disposition en tant que point en litige dans leurs actes de procédure.
+[18] Les actes de procédure visent avant tout à définir les questions de fait et de droit soulevées par les parties. Ils visent à aviser les parties de la thèse à réfuter et à informer la Cour des points en litige précis qui existent entre les parties[4].
+Le deuxième point soulevé par les appelants
+[19] Les appelants ont fait l'objet de cotisations pour le motif qu'ils étaient des pêcheurs indépendants et que leur revenu de pêche était un revenu d'entreprise.
+[20] Les appelants affirment qu'ils sont des pêcheurs indépendants pour l'application du Règlement sur l'assurance‑emploi (pêche), mais que pour l'application de la Loi, ils sont des employés et que leur revenu de pêche est un revenu d'emploi plutôt qu'un revenu d'entreprise.
+[21] L'avocate des appelants a soutenu que, pour les besoins du relevé d'emploi et en fait, NFL était l'employeur des appelants.
+[22] Je ne suis pas d'accord. NFL était l'employeur des appelants pour les besoins du relevé d'emploi parce que l'article 153 de la Loi sur l'assurance‑emploi (la « Loi sur l'AE ») autorise la Commission de l'assurance‑emploi du Canada (la « Commission ») à prendre des règlements visant à faire considérer comme employeur d'un travailleur indépendant qui se livre à la pêche toute personne avec laquelle celui‑ci établit des relations contractuelles ou commerciales.
+[23] L'article 153 de la Loi sur l'AE est rédigé ainsi :
+153(1) Malgré les autres dispositions de la présente loi, la Commission peut, avec l'agrément du gouverneur en conseil, prendre les règlements, qu'elle juge nécessaires, visant l'établissement et le fonctionnement d'un régime d'assurance-emploi applicable aux travailleurs indépendants qui se livrent à la pêche, notamment des règlements visant à :
+a) faire considérer comme travailleur indépendant qui se livre à la pêche toute personne se livrant à une activité ou occupation reliées ou se rapportant à la pêche;
+b) faire considérer comme employeur d'un travailleur indépendant qui se livre à la pêche toute personne avec laquelle le travailleur indépendant établit des relations contractuelles ou autres relations commerciales en rapport avec son métier de pêcheur indépendant.
+[24] Conformément à l'article 153 de la Loi sur l'AE, le Règlement sur l'assurance-emploi (pêche) a expressément été pris pour inclure au nombre des assurés tout pêcheur, même s'il n'est pas l'employé d'une autre personne[5]. De même, conformément à l'alinéa 153(1)b), la Commission était autorisée à inclure « au nombre des employeurs toute personne avec laquelle le pêcheur entretient des relations contractuelles ou commerciales dans le cadre de son métier de pêcheur, même si cette personne n'est pas un employeur »[6].
+[25] Lorsqu'une personne est un travailleur indépendant, cela veut dire qu'elle travaille à son compte. Tout revenu qu'elle tire d'un travail indépendant est un revenu d'entreprise et le bénéfice tiré de cette entreprise est imposé en vertu de l'article 9 de la Loi.
+[26] Les appelants avaient droit à des prestations d'assurance‑emploi parce qu'il a été jugé qu'ils étaient des pêcheurs indépendants. Ils ne peuvent pas à la fois être des travailleurs indépendants et des employés à l'égard de la même activité.
+[27] On établit le statut d'emploi d'un particulier en analysant les faits de l'affaire compte tenu des facteurs énoncés dans l'arrêt Wiebe Door Services Ltd.[7], lesquels ont été confirmés dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[8]. Ces facteurs sont les mêmes indépendamment de la loi en cause.
+[28] L'emploi des appelants a été établi de façon qu'ils soient des pêcheurs indépendants et qu'ils aient droit à des prestations d'assurance‑emploi (« AE ») en vertu du Règlement sur l'assurance‑emploi (pêche). La rétribution des appelants était basée sur un pourcentage négocié des recettes tirées de la pêche, déduction faite de diverses dépenses. L'une des dépenses payées par les appelants était un pourcentage des frais d'exploitation engagés par le bateau lors de la pêche.
+[29] L'entente conclue à l'égard de la rémunération donnait aux appelants la possibilité de tirer profit de leurs activités de pêche. De même, les appelants étaient exposés à un risque de perte. S'ils ne prenaient pas de poisson, les appelants ne touchaient aucune rétribution, mais ils n'avaient pas à payer les frais engagés par le bateau. Leur perte était limitée aux frais qu'ils engageaient pour aller pêcher. Selon Shayne McDonald, si les recettes tirées de la pêche pendant un voyage de pêche particulier étaient insuffisantes pour couvrir le coût de leurs engins de pêche, les appelants subissaient une perte.
+[30] En outre, l'ARC a évalué le statut d'emploi des appelants en déterminant le statut d'un des appelants, Howard Benoit. L'ARC a conclu que celui‑ci était un pêcheur indépendant. La décision n'a pas été portée en appel parce que Howard Benoit, NFL et la bande souscrivaient à la décision[9].
+[31] J'ai examiné l'ensemble de la preuve et je conclus que le revenu de pêche gagné par les appelants était un revenu d'entreprise.
+Le revenu de pêche était-il situé sur une réserve?
+[32] Dans l'arrêt Succession Bastien c. Canada[10], le juge Cromwell a confirmé que dans des cas tels que celui‑ci, où il faut déterminer si le bien meuble d'un Indien est situé sur une réserve et que ce bien meuble est un bien immatériel, il faut procéder à une analyse en deux étapes. Le juge a dit ce qui suit :
+[...] D'abord, on relève les facteurs potentiellement pertinents qui tendent à rattacher le bien à un emplacement, puis on détermine le poids qui doit leur être accordé pour établir l'emplacement du bien, en tenant compte de trois éléments : l'objet de l'exemption fiscale, le genre de bien et la nature de l'imposition du bien [...][11].
+[33] Comme le juge La Forest l'a dit dans l'arrêt Mitchell c. Bande indienne Peguis[12], l'objet de l'exonération est d'empêcher « qu'un palier de gouvernement, par l'imposition de taxes, puisse porter atteinte à l'intégrité des bénéfices accordés par le palier de gouvernement responsable du contrôle des affaires indiennes ». En parlant de l'objet de l'exemption, le juge a ajouté ce qui suit :
+[...] Le fait que la loi contemporaine, comme sa contrepartie historique, prenne tant de soin pour souligner que les exemptions de taxe et de saisie ne s'appliquent que dans le cas des biens personnels situés sur des réserves démontre que l'objet de la Loi n'est pas de remédier à la situation économiquement défavorable des Indiens en leur assurant le pouvoir d'acquérir, de posséder et d'aliéner des biens sur le marché à des conditions différentes de celles applicables à leurs concitoyens [...][13].
+[34] Les biens meubles ici en cause sont des biens immatériels. Il s'agit d'un revenu d'entreprise tiré de la pêche et de prestations d'assurance-emploi reçues par suite du versement de cotisations d'assurance‑emploi durant l'activité de pêche.
+[35] Le revenu d'entreprise et les prestations d'assurance-emploi que les appelants ont reçus sont imposables à moins d'être exonérés par application de l'article 87 de la Loi sur les Indiens. Conformément à l'article 9 de la Loi, l'imposition du revenu d'entreprise d'un contribuable est fondée sur le bénéfice que celui‑ci tire de l'entreprise. Le sous‑alinéa 56(1)a)(iv) inclut les prestations d'assurance‑emploi dans le revenu du contribuable.
+[36] Certains des facteurs pertinents qui rattachent le revenu d'entreprise à un emplacement ont été relevés dans l'arrêt Southwind c. Canada[14]. J'examinerai les mêmes facteurs dans ce cas‑ci tout en tenant compte des préoccupations exprimées par la Cour suprême du Canada dans l'arrêt Succession Bastien à l'égard de l'expression « marché ordinaire ». Il s'agit des facteurs suivants : (1) le type d'entreprise et le lieu où se déroulent les activités de l'entreprise; (2) le lieu où se situent les clients (débiteurs) de l'entreprise et le lieu du paiement; (3) la résidence des propriétaires de l'entreprise; (4) le lieu où sont prises les décisions touchant l'entreprise; (5) le lieu où sont conservés les livres et registres de l'entreprise; (6) la nature du travail et le marché ordinaire.
+(1) Le type d'entreprise et le lieu où se déroulent les activités de l'entreprise
+[37] Les appelants pêchaient à bord de bateaux appartenant à la bande, en vertu de permis appartenant à la bande. Ils étaient engagés par NFL pour pêcher à titre de pêcheurs indépendants.
+[38] Avant la saison de pêche, les bateaux et les engins étaient entreposés à la réserve. Au cours de la saison de pêche, les engins étaient chargés à bord des bateaux, à la réserve, à Conne River. Les bateaux se rendaient ensuite à Harbour Breton pour y être amarrés au quai pendant la saison de pêche parce qu'en 2003‑2004, la bande ne disposait que d'une cale et d'un système de quai flottant à la réserve.
+[39] Les permis délivrés à la bande permettaient aux appelants de pêcher uniquement dans la zone de l'Atlantique désignée sous le nom de division 3Ps.
+[40] Aucun élément de preuve n'a été présenté au sujet de la distance en ligne droite entre la réserve et la division 3Ps. Toutefois, les appelants estimaient qu'il fallait une heure en voiture pour aller de la réserve à Harbour Breton, où ils amarraient leurs bateaux au cours de la saison de pêche. Il fallait ensuite de douze à dix‑huit heures pour se rendre en bateau de Harbour Breton à l'endroit dans la division P3s où ils pêchaient.
+[41] Selon Jerrett McDonald, les appelants pêchaient chaque année pendant sept à neuf semaines seulement. Normalement, ils commençaient à pêcher le crabe en avril et pêchaient pendant environ cinq à sept semaines. À l'automne, ils pêchaient la morue pendant environ deux semaines. Le reste du temps, ils réparaient leurs engins et leur matériel. Les réparations étaient effectuées à la réserve.
+[42] La plupart du temps, les appelants déchargeaient leur pêche à Harbour Breton. Toutefois, s'ils devaient retourner immédiatement à la division 3Ps, ils déchargeaient leur pêche à St. Lawrence (Terre‑Neuve). Ils ont déchargé une ou deux fois leur pêche à Louisbourg (Nouvelle‑Écosse).
+[43] La seule activité de pêche qui était exercée à la réserve consistait à réparer les engins et à charger les bateaux pour la pêche. La plupart des activités de pêche n'étaient exercées ni à la réserve, ni dans la zone côtière située à proximité de la réserve. Toutefois, ce facteur à lui seul ne peut pas être déterminant. Comme le juge Bowie l'a fait remarquer dans la décision Walkus c. La Reine[15], « le travail pouvait seulement être fait ailleurs que dans la Réserve, car c'est là où le poisson se trouve ».
+(2) Le lieu où se situent les clients (débiteurs) de l'entreprise et le lieu du paiement
+[44] Le facteur de l'emplacement du débiteur est « traditionnellement pris en compte pour déterminer l'emplacement de l'obligation de payer »[16] le revenu en question. En l'espèce, c'était NFL qui était la débitrice. NFL engageait les appelants dans son entreprise de pêche commerciale. L'obligation de verser le revenu de pêche aux appelants découlait d'un contrat oral entre les appelants et NFL, lequel avait été conclu à la réserve. Les appelants étaient rémunérés par chèque, la rétribution représentant un pourcentage donné du montant reçu pour la pêche (déduction faite de certaines dépenses). Les appelants étaient rémunérés à la réserve, où était située NFL.
+[45] En 2003, NFL a présenté une demande à la province de Terre‑Neuve‑et‑Labrador (la « province ») en vue d'obtenir un permis d'acheteur de poisson. Son but était de pouvoir acheter du poisson de tout pêcheur commercial. Toutefois, à cause d'un moratoire sur la délivrance des permis d'acheteur de poisson, la province a délivré un permis restreint à NFL. Selon une condition du permis, NFL pouvait uniquement acheter du poisson pris par les pêcheurs qui utilisaient les permis communautaires de pêche commerciale délivrés à la bande.
+[46] Si je comprends bien la preuve, avant de pêcher, les appelants et NFL s'entendaient sur le pourcentage des recettes tirées de la pêche à accorder aux appelants. Pendant qu'ils étaient en mer, le patron du bateau appelait NFL en vue de lui fournir des renseignements au sujet de la prise. NFL concluait ensuite des contrats avec les transformateurs en vue de vendre la pêche. NFL, en sa qualité d'acheteur, décidait des transformateurs qui s'occuperaient du poisson que les appelants pêchaient. NFL vendait la plupart des pêches à Beothuk Fisheries (« Beothuk »), à Valleyfield (Terre‑Neuve). C'était le transformateur qui veillait à ce que la pêche soit déchargée des bateaux et à ce qu'elle soit transportée à son usine.
+[47] L'intimée a soutenu que le véritable débiteur était le transformateur qui payait NFL. Selon l'intimée, le fait de placer NFL, à titre d'acheteur intermédiaire, entre les appelants et le transformateur était une [TRADUCTION] « abstraction artificielle ».
+[48] Je ne suis pas d'accord. La preuve n'indique pas clairement quelle était l'entente entre la bande et NFL en ce qui concerne la propriété de la pêche, mais elle démontre que les appelants n'avaient pas droit à la pêche et qu'ils ne pouvaient pas la vendre pour leur propre compte. Les appelants avaient uniquement droit à un pourcentage négocié des recettes tirées de la pêche[17]. Le transformateur n'était pas le véritable débiteur des appelants. Il n'existait aucune relation contractuelle entre les appelants et le transformateur. Lorsque les appelants livraient la pêche au quai, ils le faisaient à titre de mandataires de NFL, qui avait organisé la vente au transformateur. À l'audience, on n'a présenté aucune preuve me permettant de conclure que NFL est uniquement devenue un acheteur afin de manipuler le système et d'en abuser. Aucun élément de preuve n'étayait l'assertion selon laquelle le lien existant entre les appelants et NFL en sa qualité d'acheteur était artificiel.
+[49] Shayne McDonald a témoigné qu'il y avait dans la province d'autres acheteurs de poisson qui n'étaient pas des transformateurs et qui procédaient exactement de la même façon que NFL.
+[50] Je conclus qu'en 2003 et en 2004, la débitrice était NFL et que cette débitrice était située à la réserve. Les appelants étaient rémunérés par chèque par NFL à la réserve.
+(3) La résidence des appelants
+[51] En 2003 et en 2004, les appelants étaient membres de la bande et ils résidaient à la réserve.
+(4) Le lieu où sont prises les décisions touchant l'entreprise
+[52] Les décisions concernant l'entreprise des appelants étaient prises à la réserve ainsi qu'en dehors de la réserve. Pendant que les appelants pêchaient, les décisions telles que celles se rapportant à l'endroit où les filets ou les casiers à crabe devaient être placés étaient prises par le patron et par le second et elles étaient prises hors réserve. Avant la pêche, toute négociation avec NFL avait lieu à la réserve.
+(5) Le lieu où sont conservés les livres et registres de l'entreprise
+[53] Aucun élément de preuve n'a été présenté au sujet de la question de savoir si les appelants tenaient des livres ou des registres.
+(6) La nature du travail et le marché ordinaire
+[54] Dans l'arrêt Succession Bastien, le juge Cromwell a fait une mise en garde lorsqu'il s'agissait d'élever le facteur du « marché ordinaire » au rang de facteur déterminant[18]. Le juge a confirmé la remarque suivante que le juge Linden avait faite au paragraphe 9 de l'arrêt Recalma c. La Reine :
+Il convient de préciser que le concept « du marché ordinaire » n'est pas un critère ayant pour but de déterminer si les biens sont situés dans une réserve; il s'agit simplement d'un élément qui aide à l'évaluation des divers facteurs à l'étude. Ce n'est absolument pas un critère déterminant. L'exercice de raisonnement primordial est de décider, en tenant compte de l'ensemble des facteurs de rattachement et en gardant à l'esprit l'objet de l'article, de l'endroit où sont situés les biens, c'est‑à‑dire si le revenu gagné fait « partie intégrante de la vie de la réserve », s'il est « étroitement lié » à cette vie, et s'il devrait être protégé pour empêcher de porter atteinte aux biens détenus par les Indiens en tant qu'Indiens.
+[55] En l'espèce, les appelants exerçaient leurs activités de pêche commerciale à Terre‑Neuve. Le MPO réglementait les activités de pêche des appelants ainsi que celles des autres pêcheurs qui s'occupaient de pêche commerciale.
+[56] Toutefois, je suis d'avis que le travail des appelants était « étroitement lié » à la réserve. Les appelants vivaient à la réserve. Ils pêchaient à bord de bateaux appartenant à la bande et conformément à des permis appartenant à la bande. Ils effectuaient une partie de leur travail à la réserve et ils étaient rémunérés à la réserve par NFL, une société contrôlée par la bande.
+[57] Compte tenu de tous ces facteurs, je conclus que le revenu de pêche des appelants était situé sur une réserve et qu'il est exonéré de l'impôt.
+Les prestations d'assurance-emploi
+[58] Étant donné que j'ai conclu que le revenu de pêche des appelants était situé sur la réserve, les prestations d'assurance-emploi se rapportant au revenu de pêche admissible sont également situées sur la réserve[19].
+[59] Les appels sont accueillis avec dépens.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2011.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2011 CCI 437
+Nos DES DOSSIERS DE LA COUR : 2007-4956(IT)G
+2007-4958(IT)G
+2007-4975(IT)G
+2007-4959(IT)G
+2007-4960(IT)G
+2007-4962(IT)G
+2007-4963(IT)G
+2007-4964(IT)G
+2007-4965(IT)G
+2007-4966(IT)G
+2007-4967(IT)G
+2007-4968(IT)G
+2007-4970(IT)G
+2007-4972(IT)G
+2007-4973(IT)G
+2007-4974(IT)G
+INTITULÉS : JERRETT MCDONALD c. SA MAJESTÉ LA REINE
+KENNETH WHITE c. SA MAJESTÉ LA REINE
+DARRELL HINKS c. SA MAJESTÉ LA REINE
+JEREMY JOHN c. SA MAJESTÉ LA REINE
+GARY DREW c. SA MAJESTÉ LA REINE
+CORY JEDDORE c. SA MAJESTÉ LA REINE
+PATRICK HINKS c. SA MAJESTÉ LA REINE
+BARRY BENOIT c. SA MAJESTÉ LA REINE
+HOWARD BENOIT c. SA MAJESTÉ LA REINE
+ADAM DRAKE c. SA MAJESTÉ LA REINE
+THIERRY MCDONALD c. SA MAJESTÉ LA REINE
+JOHN QUANN c. SA MAJESTÉ LA REINE
+SEAN FORD c. SA MAJESTÉ LA REINE
+DEAN MCDONALD c. SA MAJESTÉ LA REINE
+DENNIS HINKS c. SA MAJESTÉ LA REINE
+LA SUCCESSION D'YVON JOHN c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : St. John's (Terre-Neuve-et-Labrador)
+DATES DE L'AUDIENCE : Les 30 et 31 mars 2011
+MOTIFS DU JUGEMENT : L'honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 20 septembre 2011
+COMPARUTIONS :
+Avocate des appelants :
+Me Keri-Lynn Power
+Avocate de l'intimée :
+Me Catherine McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Keri-Lynn Power
+Cabinet : Robert R. Regular Law Office
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. I-5.
+[2] Programme de transfert d'allocations, pièce A‑1, onglet 6.
+[3] Preuve de Shayne McDonald, 30 mars 2011, page 220.
+[4] Maglio Industries Ltd v. School District No. 7 (1990), 38 C.L.R. 41, [1990] B.C.J. no 442 (QL) (C.S. C.‑B.).
+[5] Silk c. Le juge‑arbitre (Loi sur l'assurance‑chômage), [1982] 1 C.F. 795 (C.A.F.), à la page 800.
+[6] Ibid., à la page 800.
+[7] [1986] 3 C.F. 553 (C.A.F.).
+[8] [2001] 2 R.C.S. 983, 2001 CSC 59.
+[9] Voir la pièce A-1, onglet 44, page 9.
+[10] 2011 CSC 38.
+[11] Ibid., paragraphe 2.
+[12] [1990] 2 R.C.S. 85.
+[13] Ibid., page 131.
+[14] no A‑760‑95, 14 janvier 1998, 1998 CanLII 7300 (C.A.F.).
+[15] no 95‑1267(IT)G, 1er juin 1998 (C.C.I.), au paragraphe 39.
+[16] Précité (note de bas de page 10), au paragraphe 44.
+[17] Pièce A-1, onglet 8, page 4 — Netukulimk Fisheries Limited, Personnel Policies (Politiques concernant le personnel).
+[18] Précité (note de bas de page 10), au paragraphe 52.
+[19] Williams c. Canada, [1992] 1 R.C.S. 877.

@@ -1,0 +1,170 @@
+---
+title: "Scott v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28266/index.do"
+last_modified: "2007-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 610"
+citation2: ""
+neutral_citation: "2007 CCI 610"
+decision_date: "2007-06-26"
+language: "fr"
+item_id: "28266"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2047
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:32:09.839000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a38031466165620519f4cd30310f438cf1006d4d6c816b78647d62a0e6361b8d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Scott v. The Queen
+
+- Citation: 2007 CCI 610
+- Decision date: 2007-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2047, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scott v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-26
+Référence neutre
+2007 CCI 610
+Numéro de dossier
+2005-2462(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI610
+Dossier : 2005-2462(IT)I
+ENTRE :
+DEBBIE SCOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICATION DE LA TRANSCRIPTION
+DES MOTIFS DE JUGEMENT
+Je requiers que la transcription certifiée ci‑jointe des motifs de jugement que j’ai rendus oralement à l’audience à Charlottetown (Île‑du‑Prince‑Édouard), le 26 juin 2007, soit déposée.
+« Diane Campbell »
+Juge Campbell
+Signé à Ottawa, Canada, ce 18e jour d’octobre 2007.
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+2005-2462(IT)I
+Référence : 2007CCI610
+[TRADUCTION FRANÇAISE OFFICIELLE]
+COUR CANADIENNE DE L’IMPÔT
+LOI DE L’IMPÔT SUR LE REVENU
+ENTRE :
+DEBBIE SCOTT,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________________________
+APPEL ENTENDU par l’honorable juge Diane Campbell
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le mardi 26 juin 2007
+Pour la demanderesse : La demanderesse elle-même
+Avocate de l’intimée : Me Deanna M. Frappier
+_______________________________________________________________________________
+La greffière audiencière : Mme Patricia Cantle
+_______________________________________________________________________________
+Drake Recording Services Limited
+1592, rue Oxford
+Halifax (N.-É.) B3H 3Z4
+Par : Patricia Cantle, s.a.
+TABLE DES MATIÈRES
+PAGE
+JUGE CAMPBELL (MOTIFS RENDUS ORALEMENT)...................................... 3
+LA JUGE CAMPBELL (oralement) : Je demande que le dossier indique que je rends ici un jugement oral dans l’affaire Debbie Scott que j’ai entendue hier matin.
+En ce qui concerne l’année d’imposition 2002, l’appelante a demandé un montant de 12 900 $ au titre des frais médicaux déductibles, soit les frais de scolarité payés afin de permettre à son fils Matthew de fréquenter le Rothesay Collegiate School, une école privée située à Saint‑Jean (Nouveau‑Brunswick).
+Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante compte tenu du fait que le montant dont la déduction était demandée n’était pas déductible au titre des frais médicaux conformément à l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu (la « Loi »).
+Selon la preuve soumise par l’appelante, plusieurs difficultés d’apprentissage et plusieurs problèmes de comportement ont été diagnostiqués chez le fils de l’appelante lorsqu’il était en troisième année. Mme Scott a déclaré que son fils arrivait, de la première à la sixième année, à faire face à ses problèmes mais qu’il était isolé sur le plan social et qu’il n’avait pas d’amis. Il lui fallait de deux à trois heures pour faire à la maison des devoirs qui devaient normalement prendre 15 minutes.
+Lorsqu’il était en septième année, le fils de l’appelante a été soumis à un programme différent, avec des matières et des enseignants différents, les livres étant conservés dans son casier plutôt qu’à son pupitre. Ce nouvel arrangement suscitait des problèmes d’organisation, avec les adaptations et les problèmes de comportement y afférents. La chose a provoqué une réaction en chaîne; en effet, le fils de l’appelante ne réussissait pas à s’organiser et à se concentrer sur les tâches scolaires essentielles, ce qui donnait lieu à des suspensions d’une durée plus ou moins longue. Des médicaments ont été prescrits pour
+les comportements obsessionnels‑compulsifs, mais leurs effets secondaires étaient graves.
+Lorsque l’appelante a initialement entendu parler du Rothesay Collegiate, maintenant connu sous le nom de Rothesay Netherwood, elle s’est renseignée au sujet de cette école auprès d’enseignants, d’autres parents et d’élèves, ainsi qu’auprès du docteur Mitchell Zelman, qui était le pédiatre de Matthew. L’appelante a appris que l’école avait connu certains succès avec d’autres élèves atteints de déficiences semblables à celles dont Matthew était atteint. L’appelante a enquêté sur d’autres écoles, à l’Île‑du‑Prince‑Édouard, mais elle n’a trouvé que deux écoles privées qui avaient des affiliations religieuses et qui ne pouvaient pas offrir de programmes de soutien pour les problèmes de comportement et les problèmes sociaux de Matthew.
+L’appelante a témoigné qu’à l’école Rothesay, les classes étaient plus petites, de sorte que le ratio élèves‑enseignant était plus petit. De fait, lorsque Matthew était en huitième année, il n’y avait que sept autres élèves dans sa classe, ce qui assurait une meilleure supervision quotidienne. Des entrevues quotidiennes avec un conseiller étaient également ménagées. Matthew recevait de l’aide de l’école sur le plan social et dans ses études. Il vivait dans une résidence où des enseignants étaient presque toujours disponibles. Ses devoirs étaient supervisés chaque soir. Selon l’appelante, cet environnement assurait la structure et le contrôle essentiels à l’égard du comportement de Matthew, ce qui devait permettre à celui‑ci de faire des progrès sur le plan social et dans ses études.
+Le docteur Mitchell Zelman est le pédiatre de Matthew. Il a été reconnu à titre de témoin expert. Il voit chaque semaine une vingtaine de familles dont les enfants sont atteints d’un trouble déficitaire de l’attention ainsi que de problèmes de comportement. Lorsqu’il a initialement diagnostiqué un trouble déficitaire de l’attention chez Matthew, il soupçonnait également d’autres déficiences et des problèmes de comportement. Il a proposé que Matthew voie également le psychologue de l’école. En plus d’être atteint d’un trouble déficitaire de l’attention et d’un trouble de traitement des informations auditives, Matthew est atteint d’un trouble obsessionnel‑compulsif, avec les problèmes de comportement que la chose comporte.
+Le docteur Zelman a décrit le trouble déficitaire de l’attention comme étant le fait pour celui qui en est atteint d’être fondamentalement capable d’entendre l’information, mais de ne pas être en mesure de la comprendre et de la traiter, ou de savoir quoi en faire. Le docteur Zelman a déclaré que le trouble suscitait des problèmes particuliers pour les enfants qui étaient placés dans une salle de classe régulière, mais qu’il y avait des écoles qui s’occupaient de ce type de difficulté d’apprentissage et qu’en 2002, l’école Rothesay était une de ces écoles. Le docteur Zelman a témoigné avoir parlé à l’appelante de la possibilité d’inscrire Matthew à l’école Rothesay, parce qu’il reconnaissait que ce type de milieu scolaire pouvait être profitable aux enfants atteints d’une déficience.
+Avant même d’en avoir parlé à l’appelante, le docteur Zelman savait que l’école Rothesay offrait un milieu unique en son genre; en effet, il connaissait la réputation de l’école par suite de conférences auxquelles il avait assisté et de discussions qu’il avait eues avec d’autres médecins et d’autres parents qui y avaient inscrit leurs enfants. Selon la preuve soumise par le docteur Zelman, l’avantage qu’offrait une telle école ne découlait pas seulement des classes plus petites (que d’autres écoles privées pouvaient également offrir), mais aussi du fait que des conseillers suivaient et supervisaient constamment les élèves, par exemple en ce qui concerne les médicaments essayés. Cette méthode facilitait la communication et la surveillance continues entre le médecin de l’extérieur et le conseiller de l’école.
+Le troisième et dernier témoin était Paul Kitchen, directeur de l’école Rothesay. Il a déclaré que Rothesay était une école indépendante ayant le statut d’organisme de bienfaisance, qu’il ne s’agissait pas d’une école privée. Il a témoigné que Rothesay pouvait répondre aux besoins d’élèves ayant divers [traduction] « styles d’apprentissage » comme il l’a dit. Il a donné l’exemple d’un ancien élève auquel il fallait jusqu’à huit heures pour compléter un examen écrit et aux besoins duquel on avait répondu. Cet élève est maintenant titulaire d’un diplôme en génie. Il ne s’agit pas expressément d’une école spécialisée pour les enfants ayant des difficultés d’apprentissage, mais le témoin a déclaré que les programmes offerts à Rothesay aident ceux qui font face à pareilles difficultés. Les enseignants ne sont pas obligés d’avoir une formation spécialisée pour s’occuper d’élèves ayant des difficultés d’apprentissage, mais ils sont exposés à une formation par l’entremise de conférenciers et on les aide à mettre sur pied de meilleurs programmes pour les élèves.
+De plus, chacune des quatre résidences est dotée de « parents ». Il s’agit généralement d’enseignants qui habitent sur le campus. En 2002, la personne qui s’occupait de Matthew était également une infirmière autorisée. Ces « parents » ont tous des connaissances médicales de base quant aux premiers soins et aux soins d’urgence. La taille des classes est petite, et chaque élève a également à sa disposition un superviseur désigné, qui est généralement un élève plus âgé de douzième année. Ces superviseurs les encouragent; ils agissent comme mentors des élèves et rencontrent régulièrement les enseignants pour discuter des progrès accomplis par leur élève et pour organiser et mettre en œuvre de nouveaux projets et de nouveaux programmes pour cet élève.
+Enfin, il y avait pour chaque élève vivant dans une résidence une personne qui l’aidait personnellement à faire ses devoirs. Le témoin a expliqué que le personnel enseignant effectuait continuellement des rondes, comme il les a appelées, dans les résidences et dans les chambres le soir afin de s’assurer que les élèves faisaient leurs devoirs.
+M. Kitchen a également témoigné que l’appelante avait demandé à l’école d’aider à faire passer des tests professionnels à Matthew. En fin de compte, ces tests devaient être demandés par un médecin étant donné que l’école n’agissait pas à la seule demande des parents. Les évaluations et les tests exigeaient la participation des enseignants et ils avaient lieu sur une période de six à huit semaines. Si je comprends bien le témoignage de M. Kitchen, Matthew a fait l’objet de tests à deux occasions, et sept ou huit enseignants ont pris part à ces tests.
+Je procéderai maintenant à l’analyse du présent appel. Il n’y a qu’une seule question à trancher, à savoir si l’appelante a le droit de demander la déduction de frais médicaux, soit les frais de scolarité versés à Rothesay en 2002, conformément à l’alinéa 118.2(2)e) de la Loi. Cette disposition prévoit ce qui suit :
+Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés:
+[...]
+e) pour le soin dans une école, une institution ou un autre endroit – ou le soin et la formation – du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qu’une personne habilitée à cette fin atteste être quelqu’un qui, en raison d’un handicap physique ou mental, a besoin d’équipement, d’installations ou de personnel spécialisés fournis par cette école ou institution ou à cet autre endroit pour le soin – ou le soin et la formation – de particuliers ayant un handicap semblable au sien;
+L’avocate de l’intimée m’a renvoyée à la décision Collins c. La Reine, [1998] A.C.I. no 396, dans laquelle la Cour a énoncé, au paragraphe 20, les quatre critères auxquels il faut satisfaire aux termes de cette disposition. L’avocate de l’intimée m’a informée que seuls les troisième et quatrième facteurs étaient en litige, et je conclus donc qu’elle disait implicitement que l’appelante remplissait les deux premières conditions, c’est‑à‑dire que l’appelante avait payé un montant pour le soin, ou le soin et la formation, de Matthew à l’école et que Matthew a de fait un handicap mental.
+Le troisième critère est le suivant et je cite la décision susmentionnée :
+L'école, [...] doit fournir au particulier ayant le handicap de l'équipement, des installations ou du personnel spécialisés pour le soin — ou le soin et la formation — de particuliers ayant le même handicap.
+L’avocate de l’intimée a fait valoir que la preuve soumise par M. Kitchen montrait que Rothesay ne fournissait pas une formation spéciale à son personnel pour qu’il s’occupe des élèves qui avaient des difficultés d’apprentissage, et que l’école ne fournissait pas d’installations ou de programmes répondant expressément aux besoins de ces élèves, mis à part les programmes qu’elle fournissait à chaque autre élève.
+Je ne souscris pas à l’interprétation que l’intimée a donnée de la preuve de M. Kitchen. L’école Rothesay n’a pas accidentellement inscrit Matthew. L’école était au courant des besoins spéciaux de Matthew et, de fait, Rothesay a été créée en vue de répondre aux besoins des élèves, comme l’a dit M. Kitchen, et je cite : [traduction] « ayant différents styles d’apprentissage ». Selon la preuve soumise par M. Kitchen, Rothesay n’était pas une école se consacrant exclusivement aux enfants ayant des difficultés d’apprentissage, mais les programmes de l’école pouvaient être adaptés et répondre aux besoins de tels élèves et, en fin de compte, Rothesay avait démontré qu’elle les aidait. Comme le docteur Zelman l’a dit et je cite : [traduction] « Rothesay s’en était toujours occupé fort bien. » Au crédit de l’école, il faut dire que sa philosophie, voulant que les élèves s’engagent à faire de leur mieux compte tenu de leurs aptitudes, encourageait les élèves atteints d’une déficience plus grave à s’intégrer aux élèves doués sur le plan des études. C’est ce que montrait clairement le programme de tutorat des élèves, dans le cadre duquel des élèves plus âgés cherchaient à encourager leurs protégés. Les programmes n’étaient pas expressément conçus pour des élèves tels que Matthew, mais ils étaient suffisamment progressifs et bien conçus pour réussir à répondre aux besoins des élèves atteints d’un trouble déficitaire de l’attention et de ceux qui étaient aux prises avec d’autres difficultés d’apprentissage et problèmes d’organisation.
+Selon la preuve soumise par M. Kitchen et compte tenu des exemples de succès passés obtenus par l’école, les élèves avancent dans leurs études et sur le plan social en fonction de leurs propres limites. Cela était particulièrement vrai dans le cas de Matthew qui, selon sa mère, avait bénéficié de la structure, de la discipline et de l’orientation dont il avait besoin pour progresser dans ses études et sur le plan social, à un point tel qu’il a terminé hier sa douzième année.
+Selon la preuve soumise par M. Kitchen, on surveillait continuellement les devoirs de Matthew et ses progrès; de nouveaux programmes étaient créés et mis en œuvre pour Matthew au moyen de consultations entre ses enseignants et son conseiller individuel et, finalement, des enseignants faisaient passer des tests expressément adaptés à Matthew, sous la direction de son médecin personnel. Comme l’a dit M. Kitchen, ces tests exigeaient et je cite [traduction] « un nombre incroyable d’heures » et la preuve présentée par M. Kitchen indiquait que Mathew n’était pas le seul élève à qui on avait fait passer des tests pour le compte d’un médecin de l’extérieur.
+De plus, le personnel recevait une certaine formation par l’entremise de conférenciers et au moyen de séminaires, que M. Kitchen a comparés à du perfectionnement professionnel. M. Kitchen ne m’a pas donné beaucoup de détails, mais je suis convaincue que le personnel avait de fait reçu une formation afin d’être en mesure de s’occuper des besoins spéciaux des élèves que Rothesay avait l’habitude d’accepter dans ses programmes.
+De toute évidence, l’école a pris en charge ce jeune garçon; elle lui prodiguait des soins en milieu résidentiel 24 heures sur 24 et sept jours sur sept au cours de l’année scolaire. Les enseignants vivaient dans les résidences, et la preuve étaye le fait que l’on accordait énormément d’attention individuelle aux élèves et qu’on les surveillait de près.
+Les programmes n’étaient pas expressément conçus pour des élèves ayant des besoins spéciaux, mais ils pouvaient certes être adaptés avec succès à leurs besoins. La preuve ne montre pas clairement pourquoi ces programmes portent leurs fruits ou de quelle façon exactement ils portent leurs fruits, lorsqu’il s’agit de répondre aux besoins de toutes sortes d’élèves, mais ils portent néanmoins leurs fruits. Il se peut que le succès soit attribuable à une combinaison de choses : structure quotidienne, supervision constante et participation d’élèves plus âgés et du personnel, philosophie de l’école, qui travaille sous les directives de médecins de l’extérieur. L’école avait la réputation de relever le défi que présentaient ces élèves là où le système scolaire régulier avait échoué.
+Par conséquent, je suis convaincue que Rothesay fournissait à Matthew les installations, les programmes et le personnel nécessaires pour lui assurer des soins et une formation ainsi que pour assurer le soin et la formation d’élèves qui avaient des handicaps mentaux similaires.
+La quatrième condition, qui n’a pas été remplie selon l’avocate de l’intimée, est la suivante et je cite encore une fois la décision Collins :
+Une personne habilitée à cette fin doit attester que le handicap physique ou mental est la raison pour laquelle le particulier a besoin que l'école fournisse l'équipement, les installations ou le personnel spécialisés pour le soin — ou le soin et la formation — de particuliers ayant le même handicap.
+Il s’agit ici de savoir si le docteur Zelman a attesté que Matthew avait besoin de la formation spéciale qu’offrait Rothesay. L’alinéa 118.2(2)e) n’exige pas que cette attestation soit faite par écrit et il n’exige aucune autre présentation spéciale. De fait, j’ai eu l’avantage d’entendre le témoignage du docteur Zelman plutôt que de lire un formulaire qu’il aurait rempli et soumis en preuve ou une brève lettre qu’il aurait composée dans le cours d’une journée fort occupée. J’ai eu l’unique avantage d’avoir le docteur Zelman devant moi. De plus, l’appelante a présenté le docteur Zelman à titre de témoin expert dans le domaine de la pédiatrie et des difficultés d’apprentissage et, sur consentement de l’avocate de l’intimée, le docteur Zelman a été reconnu en tant que tel.
+Le docteur Zelman connaissait déjà l’école Rothesay comme lieu de destination pour les élèves ayant des difficultés d’apprentissage et des problèmes de comportement. Il a acquis cette connaissance lors de conférences médicales et par suite de discussions avec d’autres médecins et avec des parents. Il ressort clairement de son témoignage qu’il appuyait Rothesay à titre de centre d’apprentissage approprié ayant la capacité voulue pour répondre d’une façon adéquate aux problèmes et aux handicaps mentaux de Matthew et pour aider celui‑ci.
+Le docteur Zelman a confirmé son diagnostic de trouble déficitaire de l’attention et de problèmes de comportement connexes et, selon son témoignage d’expert, il avait estimé que Matthew pouvait bénéficier de ce type de milieu structuré. Il a déclaré que Rothesay avait dans les milieux médicaux la réputation d’aider les enfants qui avaient des difficultés d’apprentissage et de s’en occuper, et c’est la raison pour laquelle il avait recommandé l’école à l’appelante.
+De la même façon, je crois qu’il recommandait cette école à l’appelante ou qu’il se portait garant du fait que cette école pouvait aider Matthew, compte tenu de sa réputation dans les milieux médicaux. Bien sûr, je ne crois pas qu’il pouvait garantir à l’appelante que l’école offrait une solution parfaite, pas plus qu’il ne pouvait recommander un autre programme dans une autre école ou un médicament garantissant que les problèmes de Matthew seraient réglés.
+Je crois qu’il faut ici faire preuve d’un esprit pratique. Je ne crois pas que la disposition en question doive être interprétée de manière aussi restrictive que l’avocate de l’intimée l’affirme peut‑être. Si c’était le cas, il y aurait fort peu de programmes, pour ne pas dire aucun, dans quelque école que ce soit qui répondraient aux conditions dans des cas tels que celui‑ci, de façon à permettre la déduction.
+Contrairement à l’argument voulant que le fait d’accueillir l’appel risque de susciter une avalanche de demandes, je crois qu’il faut trancher chaque cas selon son bien‑fondé étant donné que les troubles déficitaires de l’attention n’ont pas tous le même degré de gravité, qu’ils ne constituent peut‑être pas nécessairement dans tous les cas un handicap médical et ne sont peut‑être pas nécessairement tous admissibles à titre de handicap médical.
+Quoi qu’il en soit, je m’occupe simplement du présent appel et des faits de l’affaire. Je suis convaincue qu’il a également été satisfait au quatrième critère. Je retiens le témoignage d’expert du docteur Zelman et je conclus que le fait qu’il a recommandé Rothesay à l’appelante constituait une attestation que l’école avait de fait la capacité d’aider Matthew, non à guérir ses déficiences, mais à développer au maximum ses aptitudes sociales et intellectuelles, comme l’a dit M. Kitchen, compte tenu de ces limites.
+Par conséquent, l’appel est accueilli en vue de permettre à l’appelante, Mme Scott, de déduire les frais de scolarité payés à Rothesay au cours de l’année d’imposition 2002 conformément à l’alinéa 118.2(2)e) de la Loi.
+(L’AUDIENCE EST CLOSE)
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI610
+No DU DOSSIER DE LA COUR : 2005-2462(IT)I
+INTITULÉ : Debbie Scott c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Charlottetown (Île-du-Prince-Édouard)
+DATE DE L’AUDIENCE : Le 25 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 26 juin 2007
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Deanna M. Frappier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

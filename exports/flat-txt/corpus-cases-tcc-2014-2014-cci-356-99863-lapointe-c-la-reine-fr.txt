@@ -1,0 +1,140 @@
+Title: Lapointe c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99863/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-356-99863-lapointe-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-12-05
+
+# Lapointe c. La Reine
+
+- Citation: 2014 CCI 356
+- Decision date: 2014-12-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5230, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lapointe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-05
+Référence neutre
+2014 CCI 356
+Numéro de dossier
+2013-3318(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-3318(IT)I
+ENTRE :
+ELAINE LAPOINTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 7 juillet 2014, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante:
+L'appelante elle-même
+Représentante de l'intimée :
+Laurianne Dusablon-Rajotte
+JUGEMENT
+L'appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l'impôt sur le revenu en date du 26 novembre 2012 concernant l'année d'imposition 2011 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de décembre 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014 CCI 356
+Date : 20141205
+Dossier : 2013-3318(IT)I
+ENTRE :
+ELAINE LAPOINTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit ici d'un appel selon la procédure informelle à l'encontre d'une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « Loi ») en date du 26 novembre 2012 concernant l'année d'imposition 2011.
+[2] La question en litige consiste à déterminer si le ministre était justifié de refuser à l'appelante le crédit pour don de bienfaisance réclamé à l'égard d'un montant de 6 909 $, aux fins du calcul des crédits d'impôt non remboursables pour l'année d'imposition 2011.
+[3] Pour établir et maintenir la nouvelle cotisation, le ministre a tenu pour acquis les faits suivants :
+a) dans sa déclaration de revenus pour l'année d'imposition 2011, l'appelante a réclamé un crédit d'impôt pour les dons de bienfaisance, à l'égard de sommes totalisant 6 909 $, faits à l'Action Canadienne Internationale de Bienfaisance (ci-après « l'organisme »);
+b) l'appelante affirme que lesdites sommes auraient été en grande partie, versées en argent comptant et n'a pas réussi à prouver qu'elles avaient été effectuées;
+c) les quelques reçus soumis par l'appelante à l'appui de certaines sommes versées à l'organisme, ne contenaient pas tous les renseignements prescrits : entre autres, le numéro de série du reçu et le lieu ou l'endroit où le reçu a été délivré étaient manquants.
+[4] Dans son avis d'appel et lors de son témoignage, l'appelante a expliqué les raisons pour lesquelles elle n'a pas été en mesure de produire un reçu officiel lui permettant de réclamer les sommes versées à ou engagées pour le compte de, l'Action Canadienne Internationale de Bienfaisance (l'« ACIB »), un organisme de charité dûment enregistré auprès de l'Agence du revenu du Canada (ACIB # 885502 9843).
+[5] Suite au séisme survenu en Haïti en 2010, le conjoint de l'appelante, monsieur Paul D'Auteuil, un éducateur en service de garde, s'est rendu en Haïti à titre de bénévole pour aider à la construction d'un camp de sinistrés situé à une soixantaine de kilomètres au nord de Port-au-Prince. Les services de monsieur D'Auteuil en Haïti ont été vraisemblablement rendus sous l'égide de l'ACIB puisqu'un reçu officiel de 10 882,86 $ a été émis à son nom pour l'année d'imposition 2010.
+[6] Les activités de bienfaisance de l'ACIB se rapportent exclusivement à la mission de L'École Mixte de la Foi de Montrouis en Haïti. L'école compte environ 300 enfants. La fondatrice et présidente de l'ACIB est madame Yvette Levasseur. Les bureaux de l'ACIB sont situés aux 164, rue Fonteneau à Repentigny.
+[7] L'appelante et son conjoint fréquentaient l'Église Le Contact sise au 380, rue Larochelle à Repentigny et il semble que ce soit à travers cette organisation qu'ils ont rencontré madame Levasseur. L'Église Le Contact supporte monétairement l'École Mixte de la Foi depuis plusieurs années.
+[8] Les relations entre l'appelante et son conjoint d'une part et madame Levasseur d'autre part se sont détériorées au début de l'année 2011 en raison de nombreuses irrégularités constatées, à savoir apparence de vol, fraude, abus de confiance et détournements de fonds. À titre d'exemple, en février 2011, l'appelante et son conjoint ont remis à madame Levasseur un chèque de 700 $ américains pour l'achat d'uniformes scolaires destinés aux enfants de même qu'un autre chèque au montant de 500 $ américains pour les frais d'inscription de 20 enfants. Or, il appert que l'appelante et son conjoint ont constaté que ces sommes d'argent avaient été utilisées par madame Levasseur pour autres choses sans justification et sans que des reçus d'achats de biens ne soient produits. Suite à cette situation, l'appelante et son conjoint ont décidé de transférer directement l'argent au directeur de l'école, monsieur Brutus Dieufort. Madame Levasseur était au courant des actions de l'appelante et de son conjoint et elle leur garantissait l'émission des reçus pour fins d'impôts.
+[9] En mai 2011, l'appelante et son conjoint ont fait un voyage en Haïti en tant que membres exécutifs de l'ACIB, en compagnie de madame Levasseur. Toutes les dépenses de voyage de madame Levasseur étaient assumées par l'ACIB. Lors de ce voyage, le directeur de l'École Mixte de la Foi a remis à l'appelante et à son conjoint les factures d'achat de 900 livres neufs qui ont été achetés en son nom ou au nom de l'École Mixte de la Foi mais dont le coût a été défrayé par l'appelante et son conjoint.
+[10] En plus des dons faits pour l'achat de manuels scolaires, pour l'inscription d'enfants à l'école et pour l'achat d'uniformes scolaires, l'appelante et son conjoint ont défrayé le coût de la nourriture et du matériel pour une fête de fin d'année pour les enfants et le personnel de l'école, de même que le coût de médicaments. Ces dons ont été en partie remis en main propre au directeur de l'École Mixte de la Foi qui a remis des reçus avec l'estampe officiel de l'école.
+[11] Comme l'appelante et son conjoint avaient perdu confiance à l'égard de la présidente de l'ACIB, ils ont porté à l'attention du conseil d'administration de l'organisme, lors d'une réunion tenue en juin 2011, les irrégularités qu'ils avaient constatées. Rien n'a été fait et madame Levasseur est demeurée présidente de l'organisme. Par contre, en août 2011, madame Levasseur a confirmé par courriel qu'elle et le conseil d'administration de l'organisme étaient d'accord pour émettre à monsieur D'Auteuil les reçus d'impôt pour l'année 2011.
+[12] Malgré l'engagement de madame Levasseur d'émettre les reçus d'impôt, cette dernière n'a finalement offert qu'un reçu pour la somme de 2 326,25 $ seulement, ce qui était bien en deça du total des sommes dépensées par l'appelante et son conjoint pour le compte de l'ACIB. Cette offre n'a pas été acceptée par l'appelante et son conjoint de sorte qu'aucun reçu n'a finalement été émis à l'appelante et à son conjoint pour les dons effectués à l'organisme pour l'année 2011.
+Les disposition législatives applicables [13] Le paragraphe 118.1(2) de la Loi édicte ce qui suit pour que le montant admissible d'un don puisse être inclus dans le total des dons de bienfaisance, qui n'est pas un don à l'État, un don de biens culturels ou un don de biens écosensibles:
+118.1(2) Attestation du don
+Pour que le montant d'un don soit inclus dans le total des dons de bienfaisance, le total des dons à l'État, le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[…]
+[14] Les renseignements prescrits aux fins du paragraphe 118.1(2) de la Loi sont énoncés aux articles 3500 et 3501 du Règlement de l'impôt sur le revenu (le « Règlement »
+3500. Dans la présente partie,
+« reçu officiel » s’entend d’un reçu remis pour l’application des paragraphes 110.1(2) ou (3) ou 118.1(2), (6) ou (7) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502. (official receipt)
+3501. (1) Tout reçu officiel reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) la date où il a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) celle des sommes ci-après qui est applicable :
+(i) le montant du don en espèces,
+(ii) lorsque le don est un don de biens autres que des espèces, la juste valeur marchande du bien au moment où le don est fait;
+h.1) une description de l’avantage, le cas échéant, au titre du don et le montant de cet avantage;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+Analyse [15] En l'espèce, il est clair que les reçus et autres documents produits par l'appelante ne rencontrent pas les exigences explicites du Règlement. Les manquements y sont importants et nombreux.
+[16] À titre d'exemple, le reçu pour l'achat de livres n'énonce pas qu'il s'agit d'un reçu officiel aux fins de l'impôt sur le revenu et n'indique pas le numéro d'enregistrement attribué par le ministre à l'organisation. Il en est de même pour les reçus pour la fête d'enfants, pour le parrainage d'enfants et pour les uniformes scolaires.
+[17] Je ne doute aucunement que l'appelante et son conjoint ont effectué un voyage à Haïti du 25 mai 2011 au 15 juin 2011 dans un but humanitaire. Les billets d'avion, les reçus pour le logement et le transport à Haïti, les factures de cartes d'appel et les photographies prises à l'aéroport Pierre-Elliot Trudeau le démontrent hors de tout doute. L'appelante et son conjoint m'apparaissent être de bonne foi et tout me porte à croire qu'ils ont réellement encouru à des fins charitables les dépenses réclamées. Le problème n'est pas là.
+[18] Le problème réside dans le fait qu'aucun « reçu officiel » contenant les renseignements visés et exigés par l'article 3501 du Règlement n'a été produit par l'appelante. Les exigences du Règlement visent à éviter les abus de toute sorte et constituent des exigences minimales pour qualifier l’authenticité d'un don pouvant générer un crédit d'impôt non remboursable pour le contribuable donateur. La Cour n'a pas discrétion pour ne pas respecter les exigences du Règlement.
+[19] En l'espèce, l'appelante n'a pas prouvé que les reçus rencontrent les exigences minimales des articles 3500 et 3501 du Règlement, de sorte qu'elle ne peut avoir droit au crédit d'impôt pour les dons dont il est ici question.
+[20] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Ontario, ce 5e jour de décembre 2014.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2014 CCI 356
+Nº DU DOSSIER DE LA COUR :
+2013-3318(IT)I
+INTITULÉ DE LA CAUSE :
+Elaine Lapointe et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 7 juillet 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 5 décembre 2014
+COMPARUTIONS :
+Pour l'appelante:
+L'appelante elle-même
+Représentante de l'intimée :
+Laurianne Dusablon-Rajotte
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

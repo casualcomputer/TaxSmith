@@ -1,0 +1,215 @@
+---
+title: "Ferre c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30083/index.do"
+last_modified: "2010-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 593"
+citation2: ""
+neutral_citation: "2010 CCI 593"
+decision_date: "2010-11-18"
+language: "fr"
+item_id: "30083"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7603
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:25:41.474000+00:00"
+cases_cited_count: 0
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f8de8ca61e2ac9caf48ac7f6e25d9215f9194f74819602c44d6fea57629ccd2a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ferre c. La Reine
+
+- Citation: 2010 CCI 593
+- Decision date: 2010-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7603, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-18
+Référence neutre
+2010 CCI 593
+Numéro de dossier
+2009-404(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-404(IT)I
+2009-2858(IT)I
+2010-671(IT)I
+ENTRE :
+EDWARD A. FERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 23 octobre 2010, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Avocat de l’appelant :
+Me Harmon C. Hayden
+Avocat de l’intimée :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre de la nouvelle cotisation et des cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2006, 2007 et 2008 sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2010.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 593
+Date : 20101118
+Dossier : 2009-404(IT)I
+2009-2858(IT)I
+2010-671(IT)I
+ENTRE :
+EDWARD A. FERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Les présents appels sont interjetés à l’encontre d’une nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2006 et de nouvelles cotisations établies pour les années d’imposition 2007 et 2008. Pendant ces années, l’appelant a déduit les crédits d’impôt pour études et les crédits d’impôt pour frais de scolarité suivants à l’égard d’un programme de MBA offert par l’Université de Liverpool (l’« Université »), située à Amsterdam, aux Pays‑Bas :
+Crédit d’impôt pour frais de scolarité
+Crédit d’impôt pour études
+2006
+10 818 $
+1 680 $
+2007
+10 252 $
+5 580 $
+2008
+10 168 $
+5 580 $
+Le ministre du Revenu national (le « ministre ») a refusé la totalité des crédits pour 2006 et 2007, et accordé un crédit d’impôt pour études de 1 690 $ pour 2008.
+[2] Dans les présents appels, la question soulevée est celle de savoir si l’appelant a satisfait aux conditions relatives au crédit d’impôt pour frais de scolarité et au crédit d’impôt pour études énoncés aux paragraphes 118.5(1) et 118.6(2) de la Loi de l’impôt sur le revenu (la « Loi ») et, plus précisément, s’il fréquentait l’Université « à plein temps » en 2006, en 2007 et en 2008, et si les cours qu’il a suivis à l’Université en 2006 et en 2007 étaient d’une durée d’au moins 13 semaines.
+Faits
+[3] Au cours des années visées par les appels, M. Ferre a travaillé à plein temps à titre de spécialiste en dons d’organes à la BC Transplant Society. Ses heures de bureau habituelles étaient de 8 h à 16 h, du lundi au vendredi; il était de garde une partie du reste du temps. Il a mentionné qu’en 2008, il était de garde 65 p. 100 du temps qu’il n’était pas au bureau.
+[4] En avril 2006, afin de faire progresser sa carrière, il s’est inscrit à un programme de MBA en ligne, offert par l’Université de Liverpool. Il a choisi un programme d’études en ligne parce que son horaire de travail était [traduction] irrégulier » et, par conséquent, il souhaitait bénéficier d’une entente souple en matière d’étude.
+[5] Le programme de MBA en ligne consistait en une série de ce que l’Université appelait des [traduction] « modules », suivis d’un mémoire. L’Université fournissait la description suivante d’un module[1] :
+[traduction]
+Les modules contiennent une variété de composantes. Au début de chaque cours, on vous fournira un plan de cours qui présente ce que vous devez faire. Voici quelques‑unes des tâches : répondre aux « questions de discussion »; participer aux discussions en classe; faire les lectures assignées; rédiger des travaux personnels; faire des recherches; faire des travaux de groupe; etc.
+Le premier module a duré un peu plus de sept semaines et les sept modules subséquents, d’une durée respective de six semaines, ont été suivis de façon consécutive. Le premier module était plus long parce qu’il incluait des documents d’orientation. Cinq des modules faisaient partie du tronc commun, tandis que trois étaient au choix.
+[6] L’appelant a affirmé qu’il avait terminé quatre modules par année en 2006 et en 2007, en prenant une semaine de congé entre chaque module. Il a rédigé son mémoire en 2008, l’a terminé en septembre de cette année‑là, et a reçu son MBA en décembre 2009. Aucune raison n’a été donnée quant au délai écoulé avant qu’il ne reçoive son diplôme.
+[7] L’appelant a rempli deux exemplaires du Certificat pour frais de scolarité, montant relatif aux études (formulaire TL11A ) et les a joints à ses déclarations de revenus de 2006, de 2007 et de 2008. Sur les formulaires, l’Université de Liverpool a certifié que l’appelant était inscrit à un programme à temps partiel pendant neuf mois en 2006 et 12 mois en 2007 et en 2008. L’appelant a déclaré que, lorsqu’il s’était renseigné au sujet de l’information qui lui avait été fournie, une personne inconnue de l’Université lui avait dit que le programme apparaissait comme un programme à temps partiel parce qu’il était offert en ligne.
+[8] Lors de son témoignage, l’appelant a déclaré qu’il travaillait 40 heures par semaine aux modules et à son mémoire et qu’il devait y consacrer ce temps afin de faire un bon travail. L’appelant a également dit que, pendant les semaines de congé entre les modules, il lisait, planifiait et faisait des recherches en vue de préparer son mémoire. L’intimée n’a pas contesté ces éléments de preuve.
+[9] L’appelant a produit une lettre reçue de l’Université et adressée aux futurs étudiants [2] qui indiquait certains des éléments essentiels du programme. Dans la lettre, on mentionnait que les étudiants devraient prévoir une moyenne de 20 heures par semaine pour effectuer le travail. Le paragraphe 4 de la lettre est rédigé ainsi :
+[traduction]
+Moyenne de 20 heures par semaine – Puisqu’il s’agit d’un programme exigeant, vous devrez contribuer, faire des lectures, répondre aux questions de discussion, établir des liens avec d’autres étudiants et réaliser des projets qui vous prendront une moyenne de 20 heures par semaine à terminer. Le temps que vous consacrerez chaque semaine à chacun des modules dépend en partie de votre expérience précédente dans le domaine en question. Une fois de plus, il n’y a aucune période fixe où vous devez être en ligne pour faire vos travaux et vous pouvez adapter votre temps d’études et votre horaire, mais vous devriez prévoir vos engagements universitaires, professionnels et personnels de façon à respecter les critères de participation et respecter les délais.
+[10] L’Université a aussi envoyé à l’appelant une fiche d’information intitulée [traduction] « Une semaine dans la vie d’un étudiant au MBA », ainsi qu’un calendrier des travaux requis, par jour de la semaine[3]. D’après ces documents, le programme exigeait de 20 à 25 heures d’études chaque semaine.
+[11] L’appelant a payé des frais de 2 384 $US pour chaque module, et un total de 9 538 $US pour le mémoire. Il a payé chaque module à l’avance et a payé les frais de mémoire en quatre versements, en 2008.
+[12] Loi
+Crédit d’impôt pour frais de scolarité
+118.5(1) Les montants suivants sont déductibles dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+a) […]
+b) si, au cours de l’année, le particulier fréquente comme étudiant à plein temps une université située à l’étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l’année par le total des frais de scolarité payés à l’université pour l’année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+[…]
+118.6(1) Les définitions qui suivent s’appliquent aux articles 63 et 64 et à la présente sous‑section.
+« établissement d’enseignement agréé »
+[…]
+b) université située à l’étranger, où le particulier mentionné au paragraphe (2) est inscrit à des cours d’une durée minimale de 13 semaines consécutives qui conduisent à un diplôme;
+Crédit d’impôt pour études
+118.6(2) Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A × B
+où :
+A représente le taux de base pour l’année;
+B la somme des produits suivants :
+a) 400 $1 multipliés par le nombre de mois de l’année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé,
+b) 120 $2 multipliés par le nombre de mois de l’année (sauf ceux visés à l’alinéa a)) dont chacun est un mois pendant lequel le particulier est inscrit à un programme de formation déterminé d’un établissement d’enseignement agréé, aux cours duquel l’étudiant doit consacrer au moins 12 heures par mois.
+Pour que le montant soit déductible, l’inscription du particulier doit être attestée par un certificat délivré par l’établissement – sur le formulaire prescrit contenant les renseignements prescrits – et présenté au ministre et, s’il s’agit d’un établissement d’enseignement agréé visé au sous‑alinéa a)(ii) de la définition de cette expression au paragraphe (1), le particulier doit avoir atteint l’âge de 16 ans avant la fin de l’année et être inscrit au programme en vue d’acquérir ou d’améliorer sa compétence à exercer une activité professionnelle.
+Position des parties
+[13] L’intimée soutient que les renseignements fournis par l’Université dans les formulaires TL11A ainsi que dans la description du programme montrent que le programme de MBA en ligne de l’Université constituait un programme à temps partiel et que, par conséquent, l’appelant était inscrit en tant qu’étudiant à temps partiel et fréquentait l’Université à temps partiel. L’intimée a mentionné que, d’après les éléments de preuve, l’appelant était [traduction] « inscrit à temps partiel mais travaillait à plein temps ».
+[14] L’avocat de l’appelant a soutenu que, même si l’Université considérait que le programme de MBA en ligne était un programme à temps partiel, cela n’était pas déterminant. L’avocat a fait valoir que, compte tenu de la preuve de l’appelant en ce qui concerne le nombre d’heures qu’il avait consacrées à ses études, la Cour devrait accepter qu’il fréquentait l’Université à plein temps et qu’il était inscrit en tant qu’étudiant à plein temps.
+Analyse
+[15] Un crédit d’impôt pour frais de scolarité payés par un particulier à une université située à l’étranger est applicable lorsque les conditions énumérées à l’alinéa 118.5(1)b) de la Loi sont remplies. Les conditions pertinentes dans le cadre du présent appel sont les suivantes : premièrement, que le particulier fréquente à plein temps une université et, deuxièmement, que les cours relatifs aux frais de scolarité payés soient d’une durée minimale de 13 semaines consécutives.
+[16] Un crédit d’impôt pour études est prévu en application du paragraphe 118.6(2) de la Loi. L’alinéa 118.6(2)a) énonce qu’un particulier a droit à un crédit basé sur un montant mensuel de 400 $ pour chaque mois pendant lequel le particulier est inscrit à un « programme de formation admissible » comme étudiant à temps plein d’un « établissement d’enseignement agréé ». J’appellerai ce crédit le [traduction] « crédit d’impôt pour études à plein temps ». L’alinéa 118.6(2)b) énonce qu’un particulier a droit à un crédit basé sur un montant mensuel de 120 $ pour chaque mois pendant lequel le particulier est inscrit à un « programme de formation déterminé » d’un « établissement d’enseignement agréé » au cours duquel l’étudiant doit consacrer au moins 12 heures par mois. J’appellerai ce crédit le [traduction] « crédit d’impôt pour études à temps partiel ».
+[17] Une université située à l’étranger pourra être considérée comme « établissement d’enseignement agréé » si le particulier qui demande le crédit d’impôt pour études était inscrit à une université où il suivait des cours d’une durée minimale de 13 semaines qui conduisent à un diplôme.
+[18] J’examinerai d’abord question de savoir si les cours suivis par l’appelant en 2006 et en 2007 étaient d’une durée inférieure à 13 semaines consécutives. Comme il a été mentionné précédemment, un crédit d’impôt pour frais de scolarité et un crédit d’impôt pour études à plein temps ne sont accordés que si les cours suivis par le particulier sont d’une durée minimale de 13 semaines.
+[19] L’avocat de l’appelant a fait valoir que le sens du mot « cours » (« course » dans la version anglaise de la Loi) est ambigu dans la phrase « à l’exception des frais qui ont été : soit payés pour des cours d’une durée inférieure à 13 semaines consécutives » (« except any such fees paid in respect of a course of less than 13 consecutive weeks duration ») de l’alinéa 118.5(1)b). Il a affirmé qu’on ne savait pas très bien si le mot « course » (dans la version anglaise de la Loi) signifie un programme d’études ou un cours unique qui s’insère dans un programme d’études global. L’avocat a demandé que l’ambiguïté soit dissipée en faveur de l’appelant par [traduction] « l’application de la loi de façon juste et libérale, tel qu’il est exigé ». Il a fait valoir que le programme de MBA de l’Université était d’une durée de presque trois ans.
+[20] L’intimée soutient que le mot « cours » (« course » dans la version anglaise de la Loi) à l’alinéa 118.5(1)b) fait référence à un cours unique et qu’en l’espèce, chaque module constituait un cours puisque les modules étaient tous d’une durée inférieure à 13 semaines, ce qui fait que l’appelant n’a pas droit au crédit.
+[21] Il semble y avoir un fondement à l’argument de l’appelant à l’égard du fait que le mot « course » (dans la version anglaise de la Loi) à l’alinéa 118.5(1)b) est ambigu. Le Webster’s Ninth New Collegiate Dictionary définit le mot « course » (correspondant à « cours ») comme étant soit [traduction] « un nombre d’exposés ou d’autres conférences portant sur un sujet » ou [traduction] « une série de tels cours constituant un programme ». Par conséquent, on peut soutenir que le mot « course » pourrait, en l’espèce, désigner soit les modules particuliers suivis par l’appelant, soit l’ensemble du programme de MBA. Je fais remarquer, cependant, que la partie pertinente de la définition du mot « course » du Canadian Oxford Dictionary (2001) comporte uniquement la définition suivante : [traduction] « une série d’exposés, de leçons, etc., dans un sujet particulier. » Cette définition ne semble pas inclure la notion de programme d’études comme le MBA de l’appelant.
+[22] Toute ambiguïté est cependant disspée par la version française de l’alinéa 118.5(1)b). Les parties pertinentes de la version française sont rédigées ainsi :
+118.5 (1) Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[…]
+b) si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l’exception des frais qui ont été :
+(i) soit payés pour des cours d’une durée inférieure à 13 semaines consécutives,
+[Non souligné dans l’original.]
+[23] La version française emploie l’expression « des cours conduisant à un diplôme » pour traduire l’expression anglaise « a course leading to a degree » et « des cours d’une durée inférieure à 13 semaines consécutives » pour rendre l’expression anglaise « a course of less than 13 consecutive weeks duration ». L’utilisation de la forme plurielle du mot « cours » dans la version française démontre que l’intention du législateur étaie de faire référence à des cours particuliers s’insérant dans un programme d’études, plutôt qu’à l’ensemble du programme; si tel était le cas, l’ensemble du programme aurait été désigné par le singulier. À mon avis, la version française est dénuée de toute ambiguïté qui figure dans la version anglaise, et c’est la signification commune aux deux versions qui doit être appliquée[4].
+[24] En l’espèce, les cours particuliers ou « modules » qui ont été suivis par l’appelant en 2006 et en 2007 étaient d’une durée inférieure à 13 semaines et, par conséquent, les frais payés pour ces modules ne peuvent faire l’objet d’un crédit d’impôt pour frais de scolarité. Puisque l’appelant n’était pas inscrit à des cours d’une durée minimale de 13 semaines, l’Université ne constitue pas un « établissement d’enseignement agréé » et l’appelant n’a pas non plus droit à un crédit d’impôt pour études pour ces années. Cette conclusion suffit pour trancher l’appel interjeté à l’encontre des années 2006 et 2007.
+[25] En ce qui concerne l’année d’imposition 2008, il n’a pas été contesté que le cours de mémoire auquel l’appelant était inscrit avait une durée supérieure à 13 semaines. Le crédit d’impôt pour frais de scolarité a été refusé en partant du principe que l’appelant ne fréquentait pas l’Université comme étudiant à plein temps durant l’année 2008 et le crédit d’impôt pour études à plein temps pour l’année 2008 a été refusé en partant du principe que l’appelant n’était pas inscrit à l’Université comme étudiant à plein temps.
+[26] À mon avis, il revient à l’institution fréquentée par le particulier de déterminer si celui‑ci est inscrit comme étudiant à plein temps et fréquente l’établissement à plein temps. L’établissement contrôle ses inscriptions et détermine le statut de ses étudiants, soit à plein temps ou à temps partiel, en fonction de la charge de cours prise par l’étudiant. En l’espèce, l’Université a certifié, dans le formulaire TL11A, que l’appelant était inscrit comme étudiant à temps partiel en 2008, et l’appelant n’a pas démontré que ces renseignements sont inexacts. Je n’accorde aucun poids au témoignage de l’appelant voulant qu’une personne inconnue de l’Université lui a dit que son programme était considéré par l’Université comme un programme à temps partiel parce qu’il était offert en ligne. Cet argument constitue du ouï‑dire; en outre, le poste que cette personne inconnue occupait à l’Université n’a pas été établi et l’appelant n’a pas démontré si cette personne savait pourquoi le programme de l’appelant était considéré comme un programme à temps partiel. De plus, les documents écrits de l’Université montrent que le temps consacré aux travaux devrait être de 20 à 25 heures par semaine, ce qui correspond au statut à temps partiel.
+[27] La signification de l’expression « fréquente […] à plein temps » à l’alinéa 118.5(1)b) ainsi que les versions précédentes de cette disposition ont fait l’objet de plusieurs décisions de la Cour. Dans l’arrêt R. v. Gaudet,[5] la Cour d’appel fédérale a affirmé que l’expression « à plein temps » était « une expression difficile et, peut‑être, impossible à définir de façon précise. » Cependant, la Cour d’appel a conclu que l’épouse du contribuable, qui avait suivi un cours du soir de sept heures de classes et exigeant dix heures d’études par semaines, n’était pas une étudiante à plein temps, suivant l’ancien alinéa 110(1)h) de la Loi.
+[28] Dans l’affaire Reddam v. The Minister of National Revenue[6], la Commission d’appel de l’impôt a conclu qu’il n’était pas possible d’occuper un emploi à plein temps et d’être étudiant à plein temps et que, par conséquent, un contribuable qui occupait un emploi à plein temps et qui suivait des cours universitaires les soirs et les fins de semaines n’était pas étudiant à plein temps à l’université. Au paragraphe 5, le président adjoint Fordham a affirmé :
+[traduction]
+Quelle est signification de l’expression « à plein temps »? Tout d’abord, il n’y a pas de degré de « plénitude ». « Plein » (« full » en anglais), en soi, signifie rempli à capacité maximale et l’emploi de superlatifs tels « fuller » et « fullest » (en anglais) constitue une mauvaise utilisation de la langue anglaise. J’ai l’impression que la référence à n’importe quel manuel scolaire de grammaire anglaise permettrait de clarifier la présente proposition. À strictement parler, il n’existe pas de tels mots. Si quelque chose est plein (« full » en anglais), l’affaire est classée et il ne peut y avoir de place pour rien d’autre, puisque c’est l’état de plénitude qui s’impose. Par conséquent, lorsqu’une personne est employée à plein temps dans un endroit, comment peut‑elle aussi être étudiante à plein temps ailleurs dans les mêmes vingt‑quatre heures? À mon avis, un tel argument n’est pas soutenable et, lorsqu’un particulier a le statut de plein temps à l’égard d’une activité durant un jour de travail, comme c’est le cas en l’espèce, toute autre activité effectuée durant cette période de vingt‑quatre heures doit nécessairement n’être qu’une activité à temps partiel, du moins c’est ce que je me permets de croire.
+Cette interprétation de l’expression « à plein temps » (« full-time attendance ») a été accepté par la Cour fédérale dans l’affaire M.N.R. v. Ritchie[7].
+[29] Toutefois, dans l’affaire Hunt v. M.N.R,[8] la Commission de révision de l’impôt a conclu que, même si le contribuable travaillait à plein temps comme directeur adjoint d’une école secondaire, il était aussi inscrit à plein temps à un programme de doctorat. La Commission de révision a basé sa conclusion sur la preuve qui a été produite par l’appelant et qui démontrait qu’il avait travaillé dix heures par jour à ses cours et à sa thèse, et que ses études constituaient sa préoccupation principale. La Commission de révision a déclaré qu’en aucun cas on aurait pu conclure que l’appelant n’étudiait pas à plein temps.
+[30] Quoique je convienne avec la Commission de révision de l’impôt qu’il puisse être possible pour une personne de mener plus d’une activité à plein temps à la fois, je ne crois pas que la question de savoir si un étudiant fréquente à plein temps une université peut être résolue seulement en examinant le temps consacré par un contribuable à ses cours ou à d’autres activités connexes. Si tel était le cas, une personne ne suivant qu’un seul cours mais consacrant l’équivalent d’une semaine de travail complète à ses travaux pourrait être considérée comme fréquentant un établissement à plein temps, tandis qu’une personne ayant une charge de cours complète mais ne consacrant que quelques heures par jour à ses travaux ne serait pas considérée comme étudiant à plein temps. Je ne crois pas que c’était l’intention du législateur quant aux dispositions relatives au crédit d’impôt pour frais de scolarité et au crédit d’impôt pour études de la Loi, puisque cela serait extrêmement difficile à administrer. À mon avis, il est nécessaire d’examiner des critères objectifs pour déterminer ce qui constitue un statut à plein temps. Le meilleur indicateur serait l’attente de l’université à l’égard de l’étudiant et le nombre d’heures de travail qui doivent être consacrées aux cours de la façon dont le programme est conçu. Dans la présente affaire, la preuve démontre que l’Université s’attendait à ce que le programme de MBA en ligne exige de 20 à 25 heures de travail par semaine. On ne sait pas avec certitude si ces heures s’appliquaient au travail consacré par l’appelant à son mémoire, mais le fait que le formulaire TL11A montre que l’appelant était inscrit à un programme à temps partiel en 2008 donne à penser que le temps à consacrer au mémoire était semblable au temps requis pour les travaux de ses cours. Par conséquent, je conclus que l’appelant ne fréquentait pas l’Université à plein temps et n’était pas inscrit en tant qu’étudiant à plein temps à l’Université en 2008, et qu’il n’a donc pas droit au crédit d’impôt pour frais de scolarité ni au crédit d’impôt pour études à plein temps.
+[31] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2010.
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2010 CCI 593
+NO DU DOSSIER DE LA COUR : 2009-404(IT)I, 2009-2858(IT)I
+et 2010-671(IT)I
+INTITULÉ : EDWARD A. FERRE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 23 août 2010
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 18 novembre 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Harmon C. Hayden
+Avocat de l’intimée :
+Me Max Matas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Harmon C. Hayden
+Cabinet : Watson Goepel Maledy LLP
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce A‑6 (9e page).
+[2] Pièce A‑6 (page 7 à 9).
+[3] Également inclus dans la pièce A‑6.
+[4] L.R.C. (1952), ch.158, maintenant L.R.C. (1985), ch. I-21, art. 12.
+[5] 78 D.T.C 6556.
+[6] 64 D.T.C. 382.
+[7] 71 D.T.C. 5503.
+[8] 77 D.T.C. 79.

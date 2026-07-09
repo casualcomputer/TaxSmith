@@ -1,0 +1,184 @@
+---
+title: "Audet c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30799/index.do"
+last_modified: "2012-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 162"
+citation2: ""
+neutral_citation: "2012 CCI 162"
+decision_date: "2012-05-10"
+language: "fr"
+item_id: "30799"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7543
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:39:13.602000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0fe64b66dc480bda5709eafbd3b88dfb7f672e2b53aa09cedfe716d50cd0ff1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Audet c. La Reine
+
+- Citation: 2012 CCI 162
+- Decision date: 2012-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7543, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Audet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-10
+Référence neutre
+2012 CCI 162
+Numéro de dossier
+2011-1673(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1673(IT)I
+ENTRE :
+sébastien audet,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1 mai 2012, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Marie-France Camiré
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d'imposition 2008 est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de mai 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2012 CCI 162
+Date : 20120510
+Dossier : 2011-1673(IT)I
+ENTRE :
+sébastien audet,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant en appelle d’une nouvelle cotisation établie par le ministre du Revenu national (Ministre) en vertu de la Loi de l’impôt sur le revenu (LIR) pour l’année d’imposition 2008. Le ministre a refusé à l’appelant la déduction d’un montant de 3 000 $ au titre de frais juridiques de même qu’une perte déductible au titre d’un placement d’entreprise (PDTPE) de 4 120 $ (soit 8 240 $ X 50%). De ce montant de 4 120 $, l’appelant ne demande plus que 2 584,23 $ (soit 5 168,46 $ X 50%).
+Faits
+[2] L’appelant est comptable général accrédité (CGA). Il était actionnaire de trois sociétés, dont deux exploitant dans la vente d’articles de cuisine, soit les sociétés 9145-0411 Québec Inc. et 9153-1772 Québec Inc. Il avait cautionné plusieurs prêts consentis à ces sociétés par diverses institutions financières. Suite à une réclamation de l’une de ces institutions financières auprès de l’appelant en mai 2007, il a vendu les actions de l’une des sociétés, soit 9145-0411 Québec Inc., le 20 août 2007, pour la somme de 300 000 $, dont 150 000 $ payable le même jour et le solde de 150 000 $ payable le 20 février 2008 (voir pièce I-1, onglet 6). De ce montant, seule une somme de 25 000 $ lui a été versée le 20 août 2007. Le solde de 275 000 $ ne lui a jamais été versé.
+[3] Par ailleurs, l’appelant a aussi travaillé pour une société du nom de Cuisine Gourmet. Il a déposé en preuve les états financiers intérimaires de cette société au 28 février 2006 (pièce A-1). Il a dit que c’est lui qui avait préparé ces états financiers. Il a signé un mandat comptable avec cette société le 3 décembre 2007. Il était retenu pour ses services de consultant pour la structure opérationnelle et la comptabilité de l’entreprise, pour lesquels il recevait des honoraires professionnels (pièce I-1, onglet 9). Ce contrat semble indiquer que l’appelant rendait ces services déjà depuis le 1er janvier 2007, et que son mandat était reconduit (page 2, paragraphe B de la rubrique Objet). À la rubrique ‘Autre Considération’, l’appelant se voyait octroyer le 3 décembre 2007 une option d’achat de 25% des actions votantes de la société pour un prix de 25 000 $ pour une période d’un an. L’appelant n’a jamais exercé cette option. En fait, il s’est vite rendu compte qu’il ne partageait pas la même philosophie d’affaires que l’administrateur de la société Cuisine Gourmet et n’a pas voulu investir davantage. Il avait déjà cautionné un prêt de 148 032 $ consenti le 3 mai 2007 à cette société par la Banque de Développement du Canada (BDC) (voir paragraphe 6 i) de la Réponse à l’avis d’appel amendée). Selon son témoignage, son but en acceptant son mandat avec Cuisine Gourmet était de faire un groupe de sociétés avec celles qu’il détenait déjà dans le même domaine. Dans son avis d’appel, il dit que (selon le plan), Cuisine Gourmet aurait été la société mère qui aurait acquis les deux sociétés dans lesquelles il était actionnaire. Il s’avère que ceci ne s’est jamais concrétisé. En cour, l’appelant a fait allusion au risque d’affaires relié à ce projet de regroupement de sociétés. Il s’agissait d’une question stratégique de reporter l’acquisition de ses deux sociétés par Cuisine Gourmet, car si les affaires ne fonctionnaient pas, il était plus facile de fermer seulement ledit commerce si tout le groupe d’autres sociétés n’était pas impliqué. De fait, l’appelant souligne que les affaires ont dégringolé et ils n’ont jamais pu se rendre à la deuxième étape, soit celle du regroupement de toutes les sociétés.
+[4] Le 9 janvier 2008, après avoir constaté son impossibilité de faire face à ses obligations au fur et à mesure de leur échéance, l’appelant a déposé un avis d’intention de faire une proposition à ses créanciers (voir rapport du syndic désigné sur l’état des affaires et des finances du débiteur en vertu des dispositions de l’article 50(5) de la Loi sur la faillite et l’insolvabilité (rapport du syndic), pièce I‑1, onglet 8). Le 5 février 2008, Me Michel Charbonneau de l’étude d’avocats Charbonneau, Gauthier & Associés, avisait le syndic responsable du dossier de l’appelant qu’il était disposé à prendre le dossier impliquant la vente d’actions de 9145-0411 Québec Inc. (dont il est fait référence plus haut), pour 3 000 $ incluant les taxes plus 30% des montants perçus (pièce I-1, onglet 3). À l’audition, l’appelant a expliqué qu’il n’avait pas donné lui-même le mandat à Me Charbonneau de le représenter pour aller recouvrer le montant impayé de la vente de ses actions. C’est au moment de rencontrer le syndic que ce dernier a proposé d’inclure le recouvrement de ce montant dans la proposition aux créanciers. L’appelant a mentionné qu’il désirait éviter la faillite afin de préserver son titre professionnel et ainsi préserver sa source de revenu. Il a dit qu’il avait 40 000 $ à sa disposition. Le syndic lui aurait suggéré d’attribuer 30 000 $ pour le dividende aux créanciers et l’autre 10 000 $ en paiement d’honoraires au syndic et à l’avocat pour le recouvrement de la somme due qui serait elle-même redistribuée aux créanciers après paiement des honoraires. L’appelant a expliqué qu’une somme de 7 000 $ avait donc été versée au syndic et qu’il avait lui-même payé l’avocat la somme de 3 000 $.
+[5] Ainsi, le 8 février 2008, l’appelant a déposé une proposition auprès du Séquestre officiel, laquelle a été recommandée pour acceptation par le syndic le 29 février 2008 dans le rapport du syndic, puis approuvée par la majorité des créanciers le 14 mars 2008, et ensuite ratifiée par la Cour Supérieure du Québec, chambre commerciale, le 8 avril 2008 (pièce I-1, onglets 7 et 8). Dans le rapport du syndic, il est mentionné au paragraphe 5 que le débiteur (l’appelant) a négocié un mandat avec un avocat pour prendre les procédures de collection, à savoir 3 000 $ incluant les taxes plus 30% des montants perçus et que le débiteur avancera le montant de 3 000 $ si les inspecteurs à être nommés acceptent le mandat de Me Charbonneau. Par ailleurs, on inclut un montant total de 10 000 $ dans la rubrique des honoraires et débours du syndic (pièce I-1, onglet 8, paragraphe 5). Plus tard, le 11 mai 2009, dans l’état intérimaire des recettes et des débours du syndic, le syndic indique que le débiteur a exécuté intégralement sa proposition le 16 juin 2008 et que ce dernier a avancé la somme de 3 000 $ à Me Michel Charbonneau pour qu’il débute la collection de la somme à recevoir de l’acheteur des actions de la société 9145-0411 Québec Inc. (pièce I-1, onglet 2, deuxième page). C’est cette somme de 3 000 $ que l’appelant réclame comme déduction pour frais juridiques à l’encontre de ses revenus et que le ministre lui a refusée au motif qu’il s’agit d’une dépense de nature capitale.
+[6] Par ailleurs, suite à l’exécution de la proposition le 16 juin 2008, l’appelant a également réclamé dans le calcul de son revenu imposable, un montant de 28 180 $ au titre de déductions pour garanties personnelles payées sur prêts commerciaux (voir déclaration de revenu pour l’année 2008, pièce I-1, onglet 1, autres revenus, déductions et crédits). Ce montant incluait le paiement d’une somme de 5 168,46 $ qu’il a versée sur le prêt de 148 032 $ de la BDC à Cuisine Gourmet, qu’il avait cautionné (voir alinéas 6 i), o) et p) de la Réponse à l’avis d’appel amendée). Ce dernier montant a été refusé par le ministre au motif que cela ne pouvait constituer une PDTPE puisque l’appelant n’était pas actionnaire de la société Cuisine Gourmet et qu’il n’a pas démontré qu’il avait cautionné ce prêt dans le but de gagner un revenu d’entreprise ou de bien. C’est ce deuxième montant qui est en litige devant moi.
+Analyse
+Frais juridiques
+[7] L’intimée invoque que les frais juridiques constituent dans ce cas-ci une dépense de nature capitale et donc non déductible aux termes de l’alinéa 18(1)b) de la LIR, lequel se lit comme suit :
+Déductions
+ARTICLE 18 : Exceptions d’ordre général
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[…]
+b) Dépense ou perte en capital ‑ une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[8] L’intimée soutient que le but en engageant les frais juridiques était de recouvrer le gain en capital réalisé sur la vente d’actions, faisant en sorte que la dépense est de nature capitale. Par ailleurs, elle soutient que même si les frais juridiques font partie des frais à payer au syndic, comme le prétend l’appelant, il s’agit quand même d’une dépense de nature capitale puisque l’appelant a expliqué qu’il avait été voir le syndic dans le but de faire une proposition afin d’éviter la faillite pour pouvoir continuer d’exercer sa profession comme CGA. À ce sujet, elle s’appuie sur l’arrêt Canada c. Doiron, [2012] A.C.F. no 316 (QL), 2012 CAF 71, qui rappelle que le droit de pratiquer une profession dont l’exercice est régi par une corporation professionnelle est un actif de nature durable et que les dépenses réclamées ayant pour but d’acquérir, de préserver ou de retrouver ce droit de pratique sont des dépenses de nature capitale qui ne sont pas déductibles aux termes de l’alinéa 18(1)b) de la LIR (voir paragraphes 34, 35 et 42 de l’arrêt Doiron).
+[9] L’appelant, de son côté, soutient que ce n’est pas lui qui a personnellement engagé l’avocat et que c’est sur le conseil du syndic qu’il a remis la somme de 3 000 $ à l’avocat. Par ailleurs, il ne comprend pas pourquoi le ministre a fait une distinction entre les frais de 7 000 $ versés au syndic et acceptés comme dépenses déductibles et le montant de 3 000 $ payé à l’avocat qui ne serait pas déductible. Il a cité l’affaire Renaud c. R., 2006 CarswellNat 1654, 2006 CCI 354, dans laquelle notre cour avait jugé que les honoraires du syndic étaient déductibles au motif que la proposition concordataire avait été faite pour des motifs d’affaires.
+[10] Je n’ai pas à me prononcer sur la déductibilité des honoraires de 7 000 $ versés au syndic puisque ceux-ci ont déjà été accordés à l’appelant, à tort ou à raison, par le ministre. Ce montant n’est pas en litige devant moi.
+[11] Quant au montant de 3 000 $ payé directement par l’appelant à l’avocat, il est clair que ce montant a été payé pour recouvrer le produit de la vente des actions de la société 9145-0411 Québec Inc. Le profit réalisé lors de la vente des actions constitue un gain en capital dont 50% seulement est imposable puisqu’il s’agit dans ce cas-ci d’un profit sur un investissement. Il ne s’agit pas d’un revenu d’entreprise ou de bien totalement imposable. Il en ressort que toute dépense engagée pour recouvrer le produit de disposition qui donne lieu à un gain en capital est également de nature capitale. Une telle dépense n’est pas déductible aux termes de l’alinéa 18(1)b) de la LIR. De plus, même si c’est le syndic qui a donné mandat à l’avocat de recouvrer cette somme, il n’en demeure pas moins que c’est sur une entente avec l’appelant que fût prise la décision d’inclure ce compte à recevoir dans la proposition aux créanciers. L’appelant a non seulement donné son accord, mais a lui-même payé l’avocat pour réaliser sa créance. Dans les circonstances, on ne peut inclure les frais juridiques en question dans la même catégorie que les frais payés au syndic.
+[12] En conclusion, sur ce point, l’appelant ne pouvait déduire de son revenu pour l’année 2008, les frais juridiques de 3 000 $.
+PDTPE
+[13] L’intimée refuse la déduction d’une perte au titre d’un placement d’entreprise sur le montant de 5 168,46 $ payé par l’appelant à la BDC aux termes de la garantie qu’il avait donnée sur un prêt à la société Cuisine Gourmet. Selon le ministre, l’appelant n’a pas droit à cette perte puisqu’il n’était pas actionnaire de la société et qu’il n’a pas démontré qu’il avait donné cette garantie dans le but de gagner un revenu d’entreprise ou de bien. En payant ce montant à la BDC, l’appelant a payé une partie de la dette de Cuisine Gourmet, qui de ce fait devenait débitrice de l’appelant.
+[14] Les articles pertinents de la LIR pour déterminer le droit à une PDTPE sont reproduits ci-après :
+Sous-section c ‑ Gains en capital imposables et pertes en capital déductibles
+ARTICLE 38: Sens de gain en capital imposable et de perte en capital déductible
+Pour l’application de la présente loi :
+[…]
+c) la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien.
+ARTICLE 39: Sens de gain en capital et de perte en capital
+(1) Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977:
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+d’un bien qui est :
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+ARTICLE 40 : Règles générales
+(2) Restrictions. Malgré le paragraphe (1) :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien, dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+ARTICLE 50 : Créances reconnues comme irrécouvrables et actions d’une société en faillite
+50. (1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[15] Ainsi, pour pouvoir déduire une PDTPE en vertu des articles 38 et 39 de la LIR, l’appelant doit démontrer qu’il a subi une perte en capital résultant de la disposition d’un bien. Aux termes de l’article 50 de la LIR, le contribuable est réputé avoir disposé d’une créance qui lui est due à la fin de l’année pour un produit nul si cette créance s’est révélée irrécouvrable au cours de l’année. Si le contribuable détient des actions d’une société qui devient un failli ou devient insolvable au cours de l’année, il sera réputé avoir disposé des actions à la fin de l’année pour un produit nul.
+[16] Dans la présente instance, il est clair que l’appelant n’a jamais été actionnaire de Cuisine Gourmet. Quant à la créance qui lui était due par Cuisine Gourmet, par suite du paiement par lui de la garantie, le ministre invoque le sous-alinéa 40(2)g)(ii) de la LIR pour dire que la perte subie par l’appelant sur la créance qu’il détenait était nulle puisque cette créance n’aurait pas été acquise par l’appelant en vue de tirer un revenu d’une entreprise ou d’un bien. Selon le ministre, l’appelant n’étant pas actionnaire, il ne pouvait s’attendre à aucun revenu de dividende. De plus, le fait de donner une garantie, ne lui assurait aucun revenu d’intérêt puisque ce n’est pas lui qui avait avancé le prêt portant intérêt. Les revenus tirés par l’appelant de Cuisine Gourmet étaient des honoraires professionnels qui provenaient du mandat comptable qu’il avait reçu de la société et pour lequel il rendait des services spécifiques. Ces revenus n’étaient aucunement liés à la garantie donnée à la BDC sur le prêt effectué par cette dernière à la société.
+[17] De son côté, l’appelant soutient que malgré le fait qu’il ne détenait aucune action dans Cuisine Gourmet, il y était étroitement impliqué financièrement puisqu’il avait endossé personnellement le prêt de 148 000 $ de la BDC, y travaillait 100% de son temps dans l’optique d’y intégrer ses deux autres sociétés pour en faire un seul groupe. Pour lui, il est évident que l’endossement du prêt constituait un investissement dans une entreprise dans le but de gagner un revenu.
+[18] Seul le sous-alinéa 40(2)g)(ii) de la LIR est en jeu ici. L’arrêt Byram c. Canada, 1999 CanLII 7428 (CAF), traite spécifiquement de l’application de ce sous-alinéa. Ainsi, l’examen requis par cette disposition ne porte que sur le but dans lequel la créance a été acquise. Dans le cas d’une garantie, il faut se reporter au moment où la garantie a été donnée afin de déterminer dans quel but la garantie avait été donnée à l’origine (voir Cadillac-Fairview Corp. c. Canada, [1996] A.C.I. no 209 (QL), aux paragraphes 10 et 11, 97 DTC 405, pages 407 et 408). Ici ce serait le 3 mai 2007.
+[19] Par ailleurs, le sous-alinéa 40(2)g)(ii) exige qu’il existe un lien entre le contribuable (ici l’endosseur) et le revenu. Toutefois, il n’est pas nécessaire que le contribuable tire directement le revenu du prêt (Byram, par. 16). Ainsi, on accepte qu’un actionnaire d’une société puisse prêter à sa société sans intérêt et que ce prêt soit fait dans le but de gagner un revenu, puisque le prêt ainsi octroyé peut stimuler le rendement de la société, qui ultimement déclarera des dividendes à l’actionnaire (Byram, par. 17 et 18).
+[20] Également, bien que de plus en plus, on considère les réalités commerciales actuelles comme suffisantes pour démontrer que la perspective de réaliser un revenu de dividendes justifie la déduction d’une perte en capital en vertu du sous‑alinéa 40(2)g)(ii) (Byram, par. 19), si le contribuable ne détient pas d’actions de la société débitrice, la preuve d’un lien suffisant entre le contribuable et les gains éventuels de la société débitrice est beaucoup plus exigeante. Ainsi, une déduction ne peut être tellement éloignée du flux de revenu correspondant que son lien avec la perspective de revenu est, au mieux, ténu (Byram, par. 21 et 23). En d’autres termes, si le lien entre le revenu éventuel et la dépense est trop ténu ou trop lointain, on ne pourra invoquer que la dépense a été engagée dans le but de tirer un revenu de l’entreprise ou du bien.
+[21] Dans le cas présent, l’appelant n’a jamais été actionnaire de Société Gourmet, et ses propres sociétés n’ont jamais été intégrées dans un groupe de sociétés avec cette dernière. Cet état de fait, de l’aveu même de l’appelant, résulte de sa propre décision compte tenu du caractère risqué de l’affaire. Donc, il était impossible légalement pour l’appelant de soutirer quelque revenu de Société Gourmet du prêt qu’il avait accepté d’endosser.
+[22] Dans l’affaire Toews c. R., 2005 CCI 597, 2005 CarswellNat 5836, le contribuable avait prêté sans intérêt à une société dans laquelle il n’était pas actionnaire, mais dont il était l’un des bénéficiaires d’une fiducie, elle-même actionnaire de la société. Selon l’acte de fiducie, les fiduciaires (dont l’un d’eux était le contribuable) avaient le pouvoir discrétionnaire de payer un bénéficiaire à l’exclusion des autres bénéficiaires. Le juge Bowie de cette cour a conclu qu’il n’existait pas un lien nécessaire entre le revenu provenant du prêt et le contribuable, car compte tenu de la structure choisie, il était possible que le contribuable ne touche jamais de revenu de la société exploitante ayant reçu le prêt, puisque selon l’acte de fiducie, il pouvait être exclu comme bénéficiaire par une décision discrétionnaire des fiduciaires. Il n’a donc pas pu déduire une PDTPE. Le juge Bowie s’était par ailleurs appuyé sur la décision rendue dans Service c. La Reine, 2004 CCI 592, 2004 DTC 3317, confirmé par 2005 CAF 163, dans laquelle la cour avait conclu qu’un prêt sans intérêt accordé par un contribuable à une société de portefeuille dont toutes les actions étaient détenues par sa femme n’avait pas été fait dans le but de gagner un revenu étant donné qu’il n’existait aucun lien entre le contribuable et la société exploitante.
+[23] Dans la présente affaire, l’appelant était rémunéré pour les services qu’il rendait à cette société en recevant des honoraires professionnels, et ce contrat de services a été légalement reconnu lors de la signature du mandat comptable en décembre 2007. Ce n’est qu’à ce moment qu’on a donné à l’appelant une option d’achat d’actions dans la société. Au moment d’endosser le prêt, en mai 2007, l’appelant ne pouvait même pas prétendre avoir le droit d’exercer cette option. Par ailleurs, au moment de s’acquitter de son obligation, il n’avait toujours pas exercé son option d’achat et n’était donc toujours pas actionnaire de la société. Dans son optique, il avait accepté d’endosser le prêt à Cuisine Gourmet dans un but d’investissement, afin d’accroître, dans un certain sens, le potentiel de revenu de ses propres entreprises. Toutefois, rien n’avait été mis en place à ce moment pour s’assurer d’un retour sur cet investissement. Cette fin alléguée est trop indirecte et trop éloignée pour conclure que l’appelant pouvait s’attendre à tirer un revenu du prêt qu’il avait endossé (voir Byram, au paragraphe 20 qui cite la décision Mark Resources Inc. c. Canada, [1993] A.C.I. no 265 (QL)).
+[24] Pour ces raisons, l’appelant ne peut avoir droit à une PDTPE sur le montant de 5 168,46 $ qu’il a payé à la BDC puisque cette perte est réputée nulle aux termes du sous-alinéa 40(2)g)(ii) de la LIR.
+[25] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 10e jour de mai 2012.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2012 CCI 162
+Nº DU DOSSIER DE LA COUR : 2011-1673(IT)I
+INTITULÉ DE LA CAUSE : sébastien audet c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 1 mai 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 10 mai 2012
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Marie-France Camiré
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

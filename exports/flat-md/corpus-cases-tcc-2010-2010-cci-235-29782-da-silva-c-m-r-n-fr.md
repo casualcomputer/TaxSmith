@@ -1,0 +1,154 @@
+---
+title: "Da Silva c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29782/index.do"
+last_modified: "2010-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 235"
+citation2: ""
+neutral_citation: "2010 CCI 235"
+decision_date: "2010-05-03"
+language: "fr"
+item_id: "29782"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6617
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:02:49.402000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b150395e06eb97d877f2d2c2536fb299524c36b9301c26e285392549dec1c9df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Da Silva c. M.R.N.
+
+- Citation: 2010 CCI 235
+- Decision date: 2010-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6617, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Da Silva c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-03
+Référence neutre
+2010 CCI 235
+Numéro de dossier
+2009-2708(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-2708(EI)
+ENTRE :
+SANDY DA SILVA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 19 mars 2010, à Toronto (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Roxanne Wong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la décision prise en vertu de la Loi sur l’assurance‑emploi pour la période allant du 1er septembre 2007 au 31 octobre 2008 est rejeté, et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de mai 2010.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 28e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 235
+Date : 20100503
+Dossier : 2009-2708(EI)
+ENTRE :
+SANDY DA SILVA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] Le présent appel porte sur la question de savoir si le ministre du Revenu national (le « ministre ») a déterminé correctement le nombre d’heures assurables accumulées par l’appelante pendant la période allant du 1er septembre 2007 au 31 octobre 2008.
+[2] L’appelante, qui est employée par le Toronto District School Board (le conseil scolaire du district de Toronto, ci­‑après le « TDSB »), enseigne les mathématiques au Forest Hills Collegiate Institute.
+[3] En 2003, l’appelante a conclu avec son employeur un accord en vertu duquel elle pouvait prendre un congé autorisé pendant une année scolaire et recevoir 80 % de son salaire pendant cette période. Cet accord, qui portait le nom de [traduction] « Régime quatre sur cinq » (l’« accord »), avait été négocié par le syndicat de l’appelante, la Fédération des enseignantes-enseignants des écoles secondaires de l’Ontario (la « FEESO »), et le TDSB.
+[4] En application de l’accord, l’appelante a travaillé pendant quatre années et reçu 80 % de son salaire, puis, la cinquième année, elle était en congé autorisé tout en recevant 80 % de son salaire. Le congé autorisé de l’appelante a duré du 1er septembre 2007 au 31 août 2008 (la « période de congé »).
+[5] Pendant la période de congé, l’appelante est devenue enceinte. À cause de complications médicales, l’appelante a donné naissance à son fils le 20 septembre 2008, trois semaines avant la date d’accouchement prévue.
+[6] Selon deux relevés d’emploi (les « RE ») envoyés par le TDSB à l’appelante, celle‑ci avait accumulé 301 heures assurables pour la période allant du 2 septembre 2008 au 31 octobre 2008.
+[7] Le ministre a lui aussi déterminé que l’appelante avait accumulé 301 heures assurables pendant la période allant du 1er septembre 2007 au 31 octobre 2008.
+[8] Pour arriver à cette détermination, le ministre s’est fondé sur les dispositions suivantes du Règlement sur l’assurance‑emploi (le « Règlement ») :
+10(1) Lorsque la rémunération d’une personne est versée sur une base autre que l’heure et que l’employeur fournit la preuve du nombre d’heures effectivement travaillées par elle au cours de la période d’emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+[…]
+(3) Lorsque le nombre d’heures convenu par l’employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n’est pas raisonnable ou qu’ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d’heures d’emploi assurable établi par le ministre du Revenu national d’après l’examen des conditions d’emploi et la comparaison avec le nombre d’heures de travail normalement accomplies par les travailleurs s’acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d’activité similaires.
+[…]
+10.1(1) Lorsqu’un assuré est rétribué par l’employeur pour une période de congé payé, il est réputé avoir exercé un emploi assurable pendant le nombre d’heures qu’il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période.
+[9] Le ministre a aussi conclu que l’appelante n’avait pas droit à des prestations d’assurance‑emploi pendant sa grossesse et son congé parental parce qu’elle n’avait pas accumulé les 600 heures assurables exigées.
+[10] Craig Duncan, le responsable de la paye pour le TDSB, a témoigné que le salaire reçu par l’appelante pendant sa période de congé était autofinancé, car l’appelante l’avait gagné au cours des quatre premières années visées par l’accord. L’appelante n’avait pas travaillé pendant son congé autorisé; elle était plutôt en congé personnel. M. Duncan a expliqué que l’appelante avait demandé à participer au régime de congé à salaire différé offert par le TDSB. Cette demande avait été acceptée, et l’appelante avait signé l’accord le 8 mai 2003.
+[11] Les enseignants ne sont pas des employés salariés pour une période de 12 mois. Ils sont seulement rémunérés pour l’année scolaire, qui compte 194 jours en l’occurrence. Les enseignants reçoivent leur salaire en versements égaux pendant 26 périodes de paye. Le TDSB et la FEESO ont convenu que les enseignants accumulent sept heures assurables par jour de classe où ils travaillent. Les enseignants n’accumulent aucune heure assurable et ne sont pas rémunérés pour les mois de juillet et d’août, le congé du temps des fêtes, les vacances d’hiver et les jours fériés[1].
+[12] L’intimé soutient que l’appelante n’a accumulé aucune heure assurable pendant la période de congé parce qu’elle n’était pas rémunérée par son employeur et qu’elle n’était pas en congé payé.
+[13] Les faits en cause dans le présent appel sont similaires à ceux qui étaient en litige dans Huard c. Canada[2]. Dans cette affaire‑là, Mme Huard avait conclu avec son employeur une entente de congé à traitement différé pour une période d’étalement de cinq ans. Pendant chacune des quatre premières années, l’appelante travaillait et son employeur retenait 20 % de son salaire. Les sommes retenues avaient ensuite été versées à Mme Huard pendant la cinquième année, alors qu’elle était en congé. Dans l’arrêt Huard, le juge Létourneau s’est exprimé de la sorte pour la Cour d’appel fédérale :
+[10] Il est aussi inexact de conclure, comme l’a fait le juge, que la rétribution ou le bénéfice reçu par la défenderesse avait les mêmes attributs qu’une paye de vacances. Ce que la défenderesse a reçu au cours de la période en litige, ce n’est pas une paye de vacances ou une rémunération pour du travail effectué au cours de cette période. Il s’agit plutôt d’un montant qui, comme l’entente le dit, est du traitement gagné pour des périodes de travail antérieures à la période en litige, mais dont le paiement à la défenderesse a été différé pour partie. Le report d’une partie du traitement ainsi gagné par la défenderesse au cours des quatre premières années de l’entente, et pendant lesquelles la prestation de travail a été fournie, n’a pas pour effet de transformer le congé sans solde de la cinquième année en une année de travail rémunérée ou, comme le juge a semblé le croire, en un congé payé.
+[14] En l’espèce, l’appelante n’a reçu aucune rémunération du TSDB pendant la période de congé. Elle n’était pas en congé payé, mais plutôt en congé sans solde. Les sommes versées par le TDSB pendant la période de congé avaient déjà été gagnées par l’appelante au cours des quatre années précédentes, et leur paiement avait été différé jusqu’à la cinquième année.
+[15] Malheureusement, je dois rejeter l’appel.
+Signé à Ottawa, Canada, ce 3e jour de mai 2010.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 28e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2010 CCI 235
+No DU DOSSIER DE LA COUR :
+2009-2708(EI)
+INTITULÉ :
+Sandy Da Silva c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 mars 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 3 mai 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Roxanne Wong
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Kuffner c. Canada, [2001] A.C.I. no 23.
+[2] [2000] A.C.F. no 237 (CAF).

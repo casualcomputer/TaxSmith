@@ -1,0 +1,321 @@
+---
+title: "9036-9695 Quebec Inc. v. the Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28325/index.do"
+last_modified: "2004-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 222"
+citation2: ""
+neutral_citation: "2004 TCC 222"
+decision_date: "2004-05-14"
+language: "en"
+item_id: "28325"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1844
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:27:23.024000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9ca46fb3818f7b7c004526a6ea90b41b4e8fcf2974c2363417967169e01f776c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9036-9695 Quebec Inc. v. the Queen
+
+- Citation: 2004 TCC 222
+- Decision date: 2004-05-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1844, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9036-9695 Quebec Inc. v. the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-14
+Neutral citation
+2004 TCC 222
+File numbers
+2001-2769(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001‑2769(GST)I
+BETWEEN:
+9036‑9695 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 2, 2003, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Paul Martineau
+Counsel for the Respondent:
+Mario Laprise
+JUDGMENT
+The appeal of the assessment under Part IX of the Excise Tax Act, the notice of which is dated April 12, 2001, bearing the number 201776 and regarding the Goods and Services Tax, for the period from June 15, 1996 to January 31, 1999, is allowed and the assessment is referred to the Minister of National Revenue to be reviewed and reassessed, taking into account that some amounts should be subtracted from the income to which the assessment was applied, in accordance with the attached Reasons for Judgment. The whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 14th day of May 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 20th day of September 2004.
+Shulamit Day, Translator
+Citation: 2004TCC222
+Date: 20040514
+Docket: 2001‑2769(GST)I
+BETWEEN:
+9036‑9695 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal of an assessment under the Excise Tax Act (the “Act”); the period to which the assessment applies is June 15, 1996 through January 31, 1999.
+[2] To make the assessment, the Minister of National Revenue (the “Minister”) relied upon the following assumptions of fact:
+[translation]
+(a) the facts admitted below;
+(b) During the period under discussion, the Appellant was registered for the purposes of Part IX of the ETA;
+(c) During the period at issue, the Appellant operated an inn and restaurant under the name “Auberge La Petite Marmite”, in the municipality of Pointe au Pic;
+(d) The Appellant’s shareholders and employees were Normand St‑Gelais and Ludger Pilotte [sic] who each held 50% of the shares in the Appellant;
+(e) The Appellant provided taxable supplies for which it did not collect the GST payable by the purchasers during the period at issue;
+(f) The Appellant recorded the amounts of some sales in its book of accounts but neglected to include an amount of $16,605.62 in the calculation of its net tax for the period at issue. This amount requires a GST adjustment in accordance with the sales entered in the Appellant’s accounting books;
+(g) The Appellant neglected to record the amount of some sales in its accounting books and neglected to collect the GST payable, and as a result, neglected to include an amount of $1,090.91 in the calculation of the net tax. This amount had been established by a reconstruction of sales by the indirect verification method of bank deposit analysis, and was reduced to $0 when the Appellant’s objections were addressed;
+(h) The Appellant neglected to record the amount of some sales in its accounting books and neglected to collect the GST payable and as a result, neglected to include an amount of $1,939.14 in the calculation of the net tax. This amount represents taxable benefits given by the Appellant to its two shareholders and employee and it was reduced to $993.70 when the Appellant’s objections were addressed;
+(i) In calculating the net tax, the Appellant claimed excess or erroneous ITCs in the amount of $555.93 ($274.91 for entertainment + $281.02 for travel); the ITC assessment was reduced by $281.02 when the Appellant’s objections were addressed;
+(j) The Appellant did not provide any supporting and/or sufficient documents to the Minister when required to do so, in order to establish the ITCs it claimed and obtained in the amount of $274.91 when calculating its net tax for the period at issue;
+(k) These goods and services were used or consumed exclusively for the personal use of an individual who is an officer or an employee of the Appellant or another individual related to it;
+(l) With respect to the facts mentioned in paragraphs 9 to 13 inclusive, and in paragraphs 17 and 18 of the Appellant’s Reply to the Notice of Appeal, the Respondent submits that all the necessary adjustments were made when the Appellant provided the financial statements and other relevant and required documents after presentation of the initial assessment and when his objections were addressed, as will be fully demonstrated during the hearing;
+(m) The adjustments mentioned in the previous paragraph were made to the Appellant’s satisfaction and the Respondent deems the Appellant’s Notice of Appeal to be without foundation or purpose, as will be fully demonstrated during the hearing;
+(n) The Appellant therefore owes the Minister the amount of the adjustments made to its net tax declared for the period at issue, plus net interest and penalties.
+[3] In 1996, Messrs. St‑Gelais and Pilote created a company conducting business as “Auberge La Petite Marmite”. The inn was located at Pointe au Pic, in Charlevoix County. The two shareholders, Messrs. St‑Gelais and Pilote, worked there as employees.
+[4] As a result of its modest beginnings, the two shareholders had to invest enormous amounts of time in the business performing several duties, such as waiting tables.
+[5] However, the business experienced significant growth, to the point that it rapidly acquired an enviable reputation that was confirmed when it obtained first prize from the Association touristique du Québec in 1998.
+[6] A certain Mr. Bérubé, former bank director, was responsible for the accounting, which he performed once per week. At the end of each year, his work was audited by a certified accountant (CA), a certain Jean‑Guy Proulx.
+[7] The two shareholders had little or no expertise in accounting. They relied entirely on the resource people to whom they had entrusted their accounting.
+[8] The Appellant was audited in July 1999 for the Goods and Services Tax (“GST”) and the Quebec sales tax.
+[9] Following the audit, a first assessment was issued on August 20, 1999, in accordance with the details below:
+[translation]
+Adjustments to the calculation of declared net tax
+$18,317.81
+Penalties
+$1,048.38
+Net interest
+$924.33
+Total
+$20,290.52
+. . . adjustments of $18,317.81 were made to the calculation of the declared net tax, detailed below:
+GST payable on benefits to shareholders and employees (meals and drink)
+$1,939.14
+Reconciliation of declared GST with GST recorded in the books of account
+($1,403.56)
+GST payable according to the reconstruction of sales by analysis of bank deposits
+$1,090.91
+GST adjustment according to sales recorded in the books of account
+$16,605.62
+Excess or erroneously claimed input tax credits (hereinafter “ITC”)
+$85.70
+Total
+$18,317.81
+. . . the excess or erroneously claimed ITCs are detailed below:
+ITC claimed for entertainment (without supporting documents and personal expenses)
+$274.91
+ITC claimed for travel (without supporting documents and personal expenses)
+$281.02
+Reconciliation of the ITCs declared, and those recorded in the books of account
+($470.23)
+Total
+$85.70
+. . .
+After this notice of assessment was issued on August 20, 1999, the Appellant filed a notice of objection. . . .
+During the objection proceedings, additional documents and presentations were given to the representative for the Respondent.
+As a result of these documents and presentations, a new assessment was issued on April 12, 2001, detailed below:
+Adjustments to the calculation of the declared net tax
+$16,000.44
+Penalties
+$929.71
+Net interest
+$765.89
+Total
+$17,696.04
+. . . adjustments of $16,000.44 were made to the calculation of the declared net tax are below:
+GST payable on benefits to shareholders and employee (meals and drink)
+$993.70
+Reconciliation of the GST declared and that recorded in the books of account
+($1,403.56)
+GST payable according to the reconstruction of sales by analysis of bank deposits
+$0
+GST adjustment according to the sales recorded in the books of accounts
+$16,605.62
+Excess or erroneously claimed input tax credits (hereinafter ITC)
+($195.32)
+Total
+$16,000.44
+. . . The excess or erroneously claimed ITCs are listed below:
+ITCs claimed for entertainment (without supporting documents and personal expenses)
+$274.91
+ITCs claimed for travel (without supporting documents and personal expenses)
+$0
+Reconciliation of the declared ITCs and those recorded in the books of account
+($470.23)
+Total
+($195.32)
+[10] The assessment was based on the financial data compiled by the Appellant itself. The Respondent did not make any extrapolations or use any substitution methods.
+[11] The income based on the deposits was the basis for the assessment.
+[12] Assuming that all supplies by a business such as the Appellant’s were taxable, and noting that the GST remittances did not correspond to the declared income, the auditor asked the Appellant to tell him whether there had been exceptions, and if this was the case, to submit supporting documents.
+[13] At the objection phase, some corrections were in fact made following presentations with supporting documents that, according to the Respondent, had not been submitted during the process that lead to the first assessment.
+[14] The inn’s economic activity is classic commercial business, meaning it has no specific activity that required special accounting measures.
+[15] The dispute is with respect to tips, certain outlays of capital by shareholders, the origins of certain deposits, the costs of meals and drinks provided to shareholders, and finally, complete or partial payment of meals with coupons previously acquired by another establishment in the same region.
+[16] Normand St‑Gelais testified that several amounts had been treated as income when in fact these were advances made by shareholders or other amounts that had nothing to do with taxable supply.
+[17] He asserted that certain parts of the bank deposits should not have been declared as income by the directors of the business.
+[18] Mr. St‑Gelais demonstrated that certain deposits included shareholders’ advances. In 1996‑1997, this involved an amount of $6,000 and for 1997‑1998, another $6,000.
+[19] However, the explanations given are surprising since both the Appellant’s shareholders themselves made arrangements for certain amounts to be considered as income. The Appellant therefore asserts that it declared income greater than its actual income.
+[20] The Appellant demonstrated the well‑foundedness of its claims with respect to other amounts totalling $4,682.04 considered as income by the Respondent. The evidence clearly showed that certain amounts should not be considered as income. These are the amounts:
+1996‑1997
+1997‑1998
+1998‑1999
+Interest and rebates (Caisse populaire): $631.34
+Interest and rebates (Caisse populaire): $620.74
+SAQ rebate: $878.02
+Insurance premium: $384.58
+SAQ rebate: $449.91
+Student program subsidy: $1,000
+Rebate from Caisse populaire: $717.45
+Total: $1,015.92
+Total: $1,070.65
+Total: $2,595.47
+Total: $4,682.04
+[21] Mr. St‑Gelais advanced the same arguments with respect to some tips, in other words, that they had been accounted for in income when in fact they should have been excluded.
+[22] The evidence for the claims with respect to tips was of much less probative value than that for the shareholders’ advances.
+[23] He explained that when the tips were paid in cash, they were not included in the deposits and they were not recorded as cash income. When the tips were added to the amount of the bill on credit card slips, the amount was paid to the recipient from the cash in the cash register. Consequently, the tips could not be deposited.
+[24] Only the tips of the two shareholders, therefore, could have been deposited. They were a type of personal income invested in the company, indirectly becoming advances made by one or the other of the shareholders.
+[25] In the beginning, the shareholders had to invest in the business by waiting tables. According to the testimony, the two shareholders left their tips to the business. This explanation by the two shareholders was presented as being unusual, probably to illustrate their energy and determination to succeed.
+[26] Such behaviour might merit congratulations, but it also means that they quickly stopped waiting tables, leaving this responsibility to the employees when business picked up, which happened very rapidly.
+[27] Although the evidence with respect to the tips is not extensive, I accept the explanation that at the beginning of activities the two shareholders had to devote many more hours, most of which were spent waiting tables, and thus received tips.
+[28] However I do not believe that this was the case for the whole period at issue. Although the evidence does not enable me to determine the precise amount of the tips invested in the business, I am arbitrarily setting this amount at $5,000.
+[29] The Appellant also asserted that the number of meals eaten by the directors was substantially lower than calculated by the Minister. In addition, the value given these meals was disputed.
+[30] The assessment also included the addition of $993.70 for GST on the benefits given to shareholders when consuming meals and drinks.
+[31] The Appellant disputed this amount, stating that the Respondent had maliciously accounted for a grossly exaggerated number of meals, that the value of the meals was overestimated, and finally, that they had eaten these meals not as shareholders, but as employees.
+[32] The argument with respect to the number of meals is very unconvincing and is contradicted by the explanation of the tips, which were, it seems, considerable; the receipt of tips means the shareholders were very often present at meal times.
+[33] With respect to the comparison to the other employees, I refer to section 173 of the Act, which reads as follows:
+173. (1) Where a registrant makes a supply (other than an exempt or zero‑rated supply) of property or a service to an individual or a person related to the individual and
+(a) an amount (in this subsection referred to as the “benefit amount”) in respect of the supply is required under paragraph 6(1)(a), (e), (k) or (l) or subsection 15(1) of the Income Tax Act to be included in computing the individual’s income for a taxation year of the individual, or
+(b) the supply relates to the use or operation of an automobile and an amount (in this subsection referred to as a “reimbursement”) is paid by the individual or a person related to the individual that reduces the amount in respect of the supply that would otherwise be required under paragraph 6(1)(e), (k) or (l) or subsection 15(1) of that Act to be so included,
+the following rules apply:
+(c) in the case of a supply of property otherwise than by way of sale, the use made by the registrant in so providing the property to the individual or person related to the individual is deemed, for the purposes of this Part, to be use in commercial activities of the registrant and, to the extent that the registrant acquired or imported the property or brought it into a participating province for the purpose of making that supply, the registrant is deemed, for the purposes of this Part, to have so acquired or imported the property or brought it into the province, as the case may be, for use in commercial activities of the registrant, and
+(d) in any case, except where
+(i) the registrant was, because of section 170, not entitled to claim an input tax credit in respect of the last acquisition, importation or bringing into a participating province of the property or service by the registrant,
+(ii) an election under subsection (2) by the registrant in respect of the property is in effect at the beginning of the taxation year,
+(iii) the registrant is an individual or a partnership and the property is a passenger vehicle or aircraft of the registrant that is not used by the registrant exclusively in commercial activities of the registrant, or
+(iv) the registrant is not an individual, a partnership or a financial institution and the property is a passenger vehicle or aircraft of the registrant that is not used by the registrant primarily in commercial activities of the registrant,
+for the purpose of determining the net tax of the registrant,
+(v) the total of the benefit amount and all reimbursements is deemed to be the total consideration payable in respect of the provision during the year of the property or service to the individual or person related to the individual,
+(vi) the tax calculated on the total consideration is deemed to be equal to
+(A) where the benefit amount is an amount that is or would, if the individual were an employee of the registrant and no reimbursements were paid, be required under paragraph 6(1)(k) or (l) of the Income Tax Act to be included in computing the individual’s income, the prescribed percentage of the total consideration, and
+(B) in any other case, the amount determined by the formula
+(A/B) x C
+where
+A is
+(I) where
+1. the benefit amount is required to be included under paragraph 6(1)(a) or (e) of the Income Tax Act in computing the individual’s income from an office or employment and the last establishment of the employer at which the individual ordinarily worked or to which the individual ordinarily reported in the year in relation to that office or employment is located in a participating province, or
+2. the benefit amount is required under subsection 15(1) of that Act to be included in computing the individual’s income and the individual is resident in a participating province at the end of the year,
+the total of 6% and the tax rate for the participating province, and
+(II) in any other case, 6%,
+B is the total of 100% and the percentage determined for A, and
+C is the total consideration.
+(vii) that tax is deemed to have become collectible, and to have been collected, by the registrant
+(A) except where clause (B) applies, on the last day of February of the year following the taxation year, and
+(B) where the benefit amount is or would, if no reimbursements were paid, be required under subsection 15(1) of that Act to be included in computing the individual’s income and relates to the provision of the property or service in a taxation year of the registrant, on the last day of that taxation year.
+[34] Therefore, I do not accept the Appellant’s arguments and I confirm that the assessment was well‑founded with respect to meals and drinks.
+[35] Finally, Mr. St‑Gelais explained the issue of coupons. The Appellant sold coupons to other establishments so that they could offer packages including some meals. The amount indicated on the coupons was deducted from the client’s bill.
+[36] The coupon policy was explained briefly. The Court understood the explanation provided, which was that the amount of the coupon was deducted from the bill provided by the Appellant. Thus if the price of a meal or meals was $200 and the client had a $100 coupon, he only paid $100.
+[37] The deposits could not include the coupons or their value since these were not money or any kind of monetary equivalent, such as a cheque or money order.
+[38] On the other hand, the cash or cheque that was used to buy the coupons was eventually deposited. It was not possible for there to be any kind of duplication or artificial mark‑up of the income based on the deposits. If the assessment had been set based on daily cash register tapes or from a record of income, the Appellant might have had a possible argument. But no, the assessment was based on deposits.
+[39] As a result, in accordance with the explanations presented, the evidence with respect to the coupons does not support a conclusion that the Appellant’s income was artificially inflated. In other words, there is no evidence supporting the conclusion that the use of coupons falsified the deposits of the business in any way. Since the Appellant has not succeeded in demonstrating that its claims with respect to the coupons are well‑founded, I conclude that the declared income is not affected in any way.
+[40] With respect to the issue of the benefits related to meals and refreshments, and the issue of coupons, the evidence submitted only raised hypotheses and interpretations. Since the evidence essentially consists of opinions and perceptions, the Court cannot retain it with respect to this aspect of the file; in addition to being deficient, there is nothing to validate or confirm it. No reliable elements supported the Appellant’s claims, which were the result of pure speculation.
+[41] The Agent for the Appellant spent a great deal of energy demonstrating that the Respondent had conducted the analysis in a malicious manner that was contrary to good practice.
+[42] On several occasions he attempted to direct the debate toward the way in which the Minister had handled the file by referring to irrelevant issues. He doubtless believed that, in order to succeed, it was sufficient to point out the errors or to demonstrate certain weaknesses or violations in the quality of the audit that lead to the assessment in order.
+[43] On several occasions, the Court had to intervene to calm the vehemence of the Agent for the Appellant, who absolutely wanted to put the auditor on trial, rather than demonstrate that his claims were well‑founded.
+[44] I therefore constantly had to remind him that the burden of proof was upon the Appellant. To meet this burden, it is not sufficient to criticize or attack the quality of the audit; this may be useful and necessary, but most certainly is insufficient. It is essential to demonstrate that the complaints laid or the errors revealed had a direct effect on the well‑foundedness of the assessment.
+[45] On the other hand, it is equally important to demonstrate what the assessment should have been, based on the available and verifiable accounting data, not on intuitive assessments or arguments based on reasonableness.
+[46] It was difficult or impossible to present conclusive evidence based on accounting data and the taxpayer’s relevant documents. This often explains the difficulties encountered by auditors, who, as a result, must use a substitute method. In this case, there is no doubt that the accounting and supporting documents were insufficient to permit an acceptable, reliable audit.
+[47] How can perfection be required of auditors when we are not ourselves able to understand and explain our own data?
+[48] The Appellant’s agent spent the majority of his time attacking the quality of the auditing. It would have been more important to first demonstrate the quality of his own data.
+[49] Not only was this evidence never submitted, but, on the contrary, the evidence shed light on facts, which demonstrated the impossibility of conducting a flawless audit. In other words, the Appellant determined the quality of the audit. Do I have to remind the Appellant that it overestimated its own income? Therefore, we surely cannot discuss exemplary accounting.
+[50] With respect to the many complaints laid, the Court does not accord them the exaggerated significance given by the Appellant. On the contrary, the evidence established that the Respondent’s auditing was acceptable and irreproachable under the circumstances.
+[51] The Appellant’s strategy of “offence is the best defence” divorced it from its fundamental obligation, which is to meet the burden of proof upon it. This evaluation is clear from the following extract of the Appellant’s written argument (page 8, paragraph 1.4):
+[translation]
+1.4 Conclusions on the portion of the assessment using the accrued income method
+In brief, I respectfully submit to the Court that the assessment, other than that dealing with the benefits related to the meals, should be removed completely and the appeal allowed since it was demonstrated during the hearing of October 2, 2003:
+1. that the Respondent used an inappropriate method to audit the Appellant;
+2. that the Respondent’s audit contains glaring errors and inadequate data that were easily verifiable by the department’s auditor;
+3. that the Respondent’s most qualified witness thought his colleague’s audit was erroneous and greatly exaggerated.
+4. that it is more likely that the sales taxes were properly declared by the Appellant, rather than the opposite;
+5. that the Respondent erred in applying the mandate from the federal authorities with respect to the administration of the GST in Quebec;
+It now remains to address the Respondent’s anticipated arguments.
+[52] In this case, the auditor established a first assessment; after having considered presentations from the shareholders at the objection stage, the first assessment was corrected.
+[53] The appeal deals with the corrected assessment as a result of the objection. The Agent for the Appellant claimed that the changes to the first assessment demonstrated poor work of Respondent since it was agreed that corrections should be made. Once again this is a very unconvincing argument, and is certainly not determinative with respect to the well‑foundedness of the appeal.
+[54] Must I point out that if the Appellant had in his possession all the appropriate books of account and all relevant documents, the audit could have better met the Appellant’s expectations? One thing is for certain, the audit would have been easier to perform and more reliable, and if an appeal had been necessary under such a scenario, it would have been easier to demonstrate the well‑foundedness of the Appellant’s claims.
+[55] Other than the amounts mentioned above, the evidence is equally conclusive with respect to the $6,000 advances for each of the fiscal years 1996‑1997 and 1997‑1998. Furthermore, I grant an additional amount of $5,000 to account for the tips invested in the company’s operation, for the first year of operations alone.
+Penalties
+[56] The Appellant’s file is relatively simple and classic. With appropriate accounting, it would have been possible to conduct the audit more quickly, simply and, in particular, more reliably. The reality was completely different, to the point that elements of the deposits had to be dissected in order determine whether or not they were taxable.
+[57] At the beginning of his testimony, Mr. St‑Gelais himself admitted having to do a great deal of work in order to explain and justify that the Appellant’s claims were well‑founded. There is therefore no better evidence that the Appellant’s accounting, without being exemplary, was not very clear, since the individuals themselves had difficulty making sense of it.
+[58] The poor quality of the accounting, for which the Appellant is totally responsible, certainly created problems and disadvantages for the Appellant’s shareholders, but also meant that the Respondent and the State incurred considerable costs to finalize the file. This is sufficient reason to conclude that the penalties are well‑founded.
+Conclusions
+[59] The appeal is allowed and the assessment is referred to the Minister for reassessment, taking into account the fact that the taxable income should be reduced by $22,682.04, corresponding to the total of the following:
+1996‑1997
+1997‑1998
+1998‑1999
+Investment
+$6,000.00
+Investment
+$6,000.00
+SAQ rebate
+$878.00
+Tips
+$6,000.00
+Interest and rebate
+$620.00
+Subsidy
+$1,000.00
+Interest and rebate
+$631.34
+SAQ rebate
+$449.91
+Rebate
+$717.45
+Insurance premiums
+$384.58
+$7,070.65
+$2,595.47
+$13,015.92
+[60] With respect to the amount of $993.70 from the benefit to the shareholders, I confirm that it is well‑founded. The whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 14th day of May 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 20th day of September 2004.
+Shulamit Day, Translator

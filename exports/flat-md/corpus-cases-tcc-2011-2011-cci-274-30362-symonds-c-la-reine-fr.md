@@ -1,0 +1,201 @@
+---
+title: "Symonds c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30362/index.do"
+last_modified: "2011-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 274"
+citation2: ""
+neutral_citation: "2011 CCI 274"
+decision_date: "2011-05-20"
+language: "fr"
+item_id: "30362"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7882
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:51:07.633000+00:00"
+cases_cited_count: 8
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98a9f0d44fcbc50e7553fe638e55bbfbf5c9b9e6be00d88ac8e1aa6e203ccf45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Symonds c. La Reine
+
+- Citation: 2011 CCI 274
+- Decision date: 2011-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7882, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Symonds c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-05-20
+Référence neutre
+2011 CCI 274
+Numéro de dossier
+2010-3733(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3733(IT)I
+ENTRE :
+SHEILA SYMONDS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 mai 2011, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+L’appel que l’appelante a interjeté à l’encontre de la cotisation par laquelle une pénalité lui était imposée au titre du paragraphe 163(1) de la Loi de l’impôt sur le revenu relativement à la déclaration de revenus qu’elle avait produite pour l’année 2008 est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que cette pénalité est supprimée.
+L’intimée versera à l’appelante des dépens de 750 $.
+Signé à Ottawa, Canada, ce 20e jour de mai 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 8e jour de juillet 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+Référence : 2011CCI274
+Date : 20110520
+Dossier : 2010-3733(IT)I
+ENTRE :
+SHEILA SYMONDS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Dans le présent appel, le point en litige est de savoir si la pénalité qui a été imposée au titre du paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard d’un montant que l’appelante avait omis d’inclure dans le calcul de son revenu dans la déclaration de revenus qu’elle avait produite pour l’année 2008 doit être maintenue ou supprimée. Cette disposition prévoit ce qui suit :
+163(1) Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+[2] Le paragraphe 163(3) de la Loi est ainsi libellé :
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+La pénalité prévue au paragraphe 163(1) de la Loi est imposée à toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration de revenus produite pour une année donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes.
+[3] Dans la décision Saunders c. La Reine, 2006 CCI 51, 2006 D.T.C. 2267, [2006] 2 C.T.C. 2255, la juge Woods a déclaré ce qui suit :
+12 La pénalité visée par le paragraphe 163(1) est un exemple d’un cas de responsabilité stricte, même si la Cour a déjà jugé que cette pénalité pouvait être annulée si le contribuable réussissait à établir qu’il avait fait preuve de diligence raisonnable.
+[4] Dans la décision Dunlop c. La Reine, 2009 CCI 177, 2009 D.T.C. 650, [2009] 6 C.T.C. 2223, le juge Boyle a réitéré que la pénalité ne s’applique pas si le contribuable « peut prouver qu’il a montré le niveau requis de diligence raisonnable ».
+[5] Dans l’arrêt Les Résidences Majeau Inc. c. La Reine, 2010 CAF 28, le juge Létourneau, au nom de la Cour d’appel fédérale, a déclaré ce qui suit :
+7 Quant à la pénalité, nous sommes satisfaits que le juge n’a pas commis d’erreur en la maintenant. Pour y échapper, l’appelante devait établir qu’elle avait fait preuve de diligence raisonnable.
+8 Selon l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’évènement qui donne naissance à la pénalité.
+9 L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, i.e. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+10 Le deuxième volet de la défense requiert, tel que déjà mentionné, que des gestes soient posés ou des mesures prises pour éviter l’événement qui engendre la pénalité.
+[6] La pénalité en cause n’est pas précisée dans cet arrêt de la Cour d’appel fédérale, mais il ressort de la décision[1] du juge Tardif, laquelle a été portée en appel devant la Cour d’appel fédérale, qu’il s’agit de la pénalité qui était imposée, avant le 1er avril 2007, au titre de l’article 280 de la Loi sur la taxe d’accise. L’imposition de cette pénalité a également donné lieu à un moyen de défense fondé sur la diligence raisonnable (voir Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49).
+[7] Le calcul du montant de la pénalité prévue au paragraphe 163(1) de la Loi est uniquement basé sur le second montant que le contribuable a omis d’inclure dans son revenu. Selon la position que l’intimée a prise, le contribuable peut uniquement se prévaloir du moyen de défense fondé sur la diligence raisonnable à l’égard de l’omission d’inclure ce second montant dans son revenu. En l’espèce, les deux années pour lesquelles l’appelante a omis d’inclure tous les montants dans son revenu étaient les années 2006 et 2008. L’intimée prend la position selon laquelle le premier montant omis et les circonstances entourant cette omission ne sont pas pertinents. Elle affirme qu’elle a uniquement à établir qu’un montant (ne serait‑ce qu’un dollar) n’a pas été inclus dans le revenu pour une année donnée et qu’une pénalité peut alors être imposée si le contribuable omet d’inclure un montant dans son revenu pour une autre année dans les trois années suivantes, le contribuable pouvant toutefois invoquer le moyen de défense fondé sur la diligence raisonnable, dans la mesure où il réussit à l’établir, cette pénalité étant uniquement applicable à l’égard de la seconde omission.
+[8] Dans ce cas‑ci, la pénalité qui a été imposée se rapporte à un revenu d’emploi non déclaré de 28 611 $, pour l’année 2008. Avant l’année 2008, l’appelante travaillait pour Bowring; toutefois, en 2008, elle a travaillé dans un autre magasin de détail (Fossil Canada Inc.) avant de retourner chez Bowring. En produisant sa déclaration de revenus pour l’année 2008 (laquelle avait été préparée par un comptable), l’appelante a déclaré un revenu d’emploi de 16 851 $ qu’elle avait gagné chez Fossil Canada Inc., mais elle n’a pas déclaré le revenu d’emploi de 28 611 $ gagné chez Bowring. L’impôt sur ce revenu d’emploi aurait été déduit par Bowring et versé à l’Agence du revenu du Canada. L’appelante a affirmé que dès qu’elle s’était rendu compte que le montant n’avait pas été inclus, son comptable avait préparé une déclaration de revenu révisée, selon laquelle un montant additionnel de moins de 400 $ était dû, montant qu’elle s’est empressée de payer.
+[9] Des copies des avis de nouvelle cotisation concernant les années 2008 et 2006 ont été produites à l’audience. Selon l’avis de nouvelle cotisation de l’année 2008 (daté du 1er octobre 2009), la différence entre le total dû par l’appelante (comprenant l’impôt fédéral et l’impôt provincial) par suite de la nouvelle cotisation (dans laquelle était inclus le revenu d’emploi gagné chez Bowring) et le total dû par l’appelante (comprenant l’impôt fédéral et l’impôt provincial), selon la déclaration telle qu’elle avait été produite, (à l’exclusion dans chaque cas de la pénalité qui est ici en litige) était la suivante :
+Total dû (selon la nouvelle cotisation) : (1 902 $)
+Moins : Total dû (selon la déclaration qui a été produite) : - (3 274 $)
+Différence (montant additionnel dû) : 1 372 $
+[10] Par conséquent, au lieu de recevoir un remboursement de 3 274 $ (soit le montant du remboursement qu’elle aurait demandé dans sa déclaration de revenus), l’appelante aurait dû recevoir un remboursement de 1 902 $. Ces deux montants auraient inclus les montants prévus par la Loi ainsi que par l’Income Tax Act de la Colombie‑Britannique. Le montant global de la pénalité imposée au titre du paragraphe 163(1) de la Loi s’élevait à 2 861,10 $ et, puisqu’une pénalité a également été imposée au titre de l’Income Tax Act de la Colombie‑Britannique, le montant global de la pénalité imposée par suite de l’omission de déclarer le revenu en question s’élevait à 5 722 $, soit 417 p. 100 du montant additionnel dû par l’appelante (1 372 $) s’il est tenu compte de l’impôt sur le revenu additionnel que Bowring a déduit.
+[11] L’appelante a par la suite fait l’objet, le 30 novembre 2009, d’une nouvelle cotisation par laquelle était augmenté le montant des déductions effectuées sur le revenu global, ce qui entraînait une réduction du montant dû pour l’année 2008. Le total du montant dû par l’appelante pour l’année 2008, selon cet avis de nouvelle cotisation (à l’exclusion de la pénalité qui est ici en cause), était de (2 907 $). Compte tenu de cette nouvelle cotisation, l’appelante aurait donc dû recevoir un remboursement de 2 907 $ pour l’année 2008 au lieu du remboursement de 3 274 $ qu’elle avait demandé. La réduction du montant remboursé (qui résultait de l’augmentation du montant dû par l’appelante) pour l’année 2008 était de 367 $. Si l’ensemble du revenu de l’appelante, l’ensemble des déductions dont l’appelante pouvait se prévaloir et le montant global de l’impôt sur le revenu déduit par tous les employeurs de l’appelante sont pris en compte, la différence entre le montant dû, tel qu’il avait été déclaré par l’appelante, et le montant qui était en réalité dû pour cette année‑là, ne s’élevait qu’à 367 $. Aucun rajustement n’a été apporté à la pénalité par suite de la nouvelle cotisation du 30 novembre 2009, de sorte que la pénalité de 5 722 $ a été maintenue. Cette pénalité représentait 1 559 p. 100 du montant additionnel qui était dû par l’appelante pour l’année 2008.
+[12] Dans la décision Khalil c. La Reine, [2002] A.C.I. no 538, [2003] 1 C.T.C. 2263, le juge Mogan a accueilli un appel interjeté par suite de l’imposition d’une pénalité au titre du paragraphe 163(1) de la Loi dans un cas où le montant du revenu que la personne en cause avait omis de déclarer était un revenu tiré d’un emploi sur lequel l’impôt avait été déduit. Le juge Mogan a déclaré ce qui suit :
+13 Je ne peux pas conclure qu’une personne a « omis de déclarer un [...] montant » au sens du paragraphe 163(1) quand cette personne sait (i) que le montant devait lui être versé à titre de revenu par un payeur particulier, (ii) que le payeur a retenu au titre de l’impôt sur le revenu à remettre à Revenu Canada une certaine partie de ce montant, (iii) que le payeur lui a versé en réalité seulement le solde qui restait après déduction de l’impôt retenu, et (iv) que le payeur était tenu de déclarer à Revenu Canada, sur un formulaire prescrit par Revenu Canada, le montant brut payable à cette personne ainsi que la partie retenue et remise à titre d’impôt. […]
+[13] Dans la décision Alcala c. La Reine, 2010 CCI 198, 2010 D.T.C. 1147, [2010] 5 C.T.C. 2001, le juge Little, après avoir cité certains passages de la décision rendue par le juge Mogan dans l’affaire Khalil (dont le passage précité), a déclaré ce qui suit :
+26 Pour reprendre les commentaires formulés par le juge Mogan dans Khalil, je tiens à mentionner ce qui suit :
+Je ne peux pas conclure que l’appelante a « omis de déclarer un […] montant » au sens du paragraphe 163(1) quand elle sait :
+a) que le payeur (Total Credit Recovery) a retenu une certaine partie du montant au titre de l’impôt sur le revenu afin de le remettre à l’Agence du revenu du Canada (l’« ARC »);
+b) que le payeur a retenu une certaine partie du montant à titre de cotisation d’assurance‑emploi et une autre à titre de cotisation au Régime de pensions du Canada, puis les a remis à l’ARC;
+c) que le payeur ne lui a en réalité versé que le solde qui restait après la déduction de l’impôt, des cotisations d’assurance‑emploi et des cotisations au Régime de pensions du Canada retenus;
+d) que le payeur était tenu de déclarer à l’ARC, sur un formulaire prescrit par l’ARC, le montant brut à payer à la personne ainsi que la partie retenue et remise au titre de l’impôt;
+e) l’appelante a témoigné qu’elle n’avait jamais reçu le feuillet T4 délivré par le payeur pour l’année d’imposition 2006.
+[14] Dans la décision Peterson v. The Queen, 2010 TCC 559, le juge Pizzitelli a déclaré ce qui suit :
+[traduction]
+14 Dans l’affaire Khalil v. Canada, [2003] 1 C.T.C. 2263, invoquée par l’appelant, la pénalité était supérieure à la dette fiscale, comme c’est ici le cas; la contribuable parlait peu l’anglais; il s’agissait d’une nouvelle immigrante qui ne connaissait pas le fonctionnement de notre régime fiscal, de sorte qu’elle avait invoqué avec succès le moyen de défense fondé sur la diligence raisonnable. Les tribunaux ont examiné à maintes reprises la décision Khalil dans le cadre de plaidoyers, notamment dans la décision Saunders, précitée, et, à mon avis, ils l’ont considérée comme un cas d’espèce.
+15 À mon avis, cette décision n’étaye pas la thèse selon laquelle le contribuable n’a pas « omis de déclarer un montant » lorsqu’il sait, comme l’affirme l’avocat de l’appelant en se fondant sur les remarques que le juge Mogan, de la Cour canadienne de l’impôt, a faites au paragraphe 13 de cette décision‑là :
+1) que le payeur devait lui verser le montant en question à titre de revenu;
+2) que le payeur a retenu une partie du montant au titre de l’impôt à verser au fisc;
+3) que le payeur lui a uniquement versé le solde qui restait une fois l’impôt déduit;
+4) que le payeur était tenu de déclarer au fisc le revenu brut et les déductions sur un formulaire prescrit.
+[15] Dans la décision Franck c. La Reine, 2011 CCI 179, le juge Hogan a déclaré ce qui suit :
+7 La Cour s’est fondée sur ces mêmes motifs dans les décisions Iszcenko c. La Reine et Alcala c. La Reine et a tranché en faveur des contribuables. Dans l’affaire Iszcenko, la contribuable croyait ne pas devoir déclarer le revenu étant donné qu’il s’agissait d’un remboursement de capital relatif à un dividende et que son beau‑père lui avait dit qu’elle n’avait pas à le déclarer. Dans Alcala, la contribuable s’est fiée à son comptable, qui lui a dit qu’elle n’était pas tenue de faire quoi que ce soit relativement à un feuillet T4 reçu en retard étant donné que l’ARC apporterait les corrections qui s’imposent à la suite d’un processus de rapprochement. Dans ces deux cas, les contribuables ne connaissaient pas beaucoup le régime fiscal du Canada. Le scénario dans Iszcenko était un peu plus complexe, et les faits de l’affaire dans Alcala étaient similaires à ceux dans Khalil.
+8 Voici quelques exemples de faits dont on n’a pas tenu compte comme étayant la défense de la diligence raisonnable. Dans le cas où la contribuable n’a pas été en mesure d’obtenir un feuillet T4 parce que son employeur avait fermé ses portes et que son comptable avait omis d’établir un revenu estimatif fondé sur le relevé d’emploi, il n’est pas question de diligence raisonnable étant donné que la contribuable n’avait pas examiné sa déclaration de revenu avant de l’envoyer à l’ARC. De même, dans le cas où le contribuable a omis de remettre son feuillet T4 à son comptable, croyait que l’ARC remédierait à cette omission, et n’a pas examiné sa déclaration avant de l’envoyer à l’ARC, on ne peut pas conclure qu’il a exercé une diligence raisonnable. Enfin, dans le cas où la contribuable a remis ses feuillets T4 à sa mère, qui a établi sa déclaration de revenu, mais n’a pas examiné la déclaration avant de l’envoyer, on ne peut pas conclure qu’elle a exercé une diligence raisonnable.
+9 Ce qui distingue ces types d’affaires est le degré de connaissance du régime fiscal. Dans les affaires Khalil et Alcala, il était question de manque d’expérience, et dans l’affaire Iszcenko, le scénario était plus complexe. Dans Saunders, la juge Woods a souligné la question de manque d’expérience dont il est question dans Khalil avant de refuser d’étendre la portée de l’affaire Khalil à la situation de Mme Saunders. De même, dans l’affaire Paul, la juge Sheridan a souligné le fait que le contribuable était depuis longtemps sur le marché du travail, ce qui rendait sa croyance déraisonnable. Dans Porter, il n’était pas question d’une croyance erronée. Il était plutôt question de la confiance envers le fait que le préparateur de déclarations de revenu inclurait les montants énoncés dans chacun des feuillets T4s.
+[Renvois omis.]
+[16] Il me semble que l’appelante ne peut pas simplement se fonder sur le fait que l’impôt sur le revenu a été retenu à la source pour éviter la pénalité prévue au paragraphe 163(1) de la Loi. Il faut se rappeler que le revenu d’un particulier est également pertinent lorsqu’il s’agit de déterminer le droit de ce particulier au crédit de taxe sur les produits et services prévu à l’article 122.5 de la Loi et, le cas échéant, la prestation fiscale pour enfants prévue à l’article 122.6 de la Loi. Afin d’éviter l’imposition de la pénalité, l’appelante doit établir qu’il a été satisfait aux exigences applicables au moyen de défense fondé sur la diligence raisonnable, telles que la Cour d’appel fédérale les a énoncées dans l’arrêt Les Résidences Majeau Inc., précité. Quoi qu’il en soit, l’appelante connaissait dans ce cas‑ci le régime fiscal, étant donné qu’elle avait travaillé comme employée pendant un certain nombre d’années et qu’elle avait produit des déclarations de revenus pendant plusieurs années.
+[17] L’appelante n’a pas examiné sa déclaration de revenus de l’année 2008 avant de la produire. Le revenu qui n’a pas été déclaré (28 611 $) était élevé par rapport au revenu déclaré (16 851 $) et représente 63 p. 100 du total du revenu d’emploi, de 45 462 $, pour l’année 2008.
+[18] Toutefois, le montant que l’appelante a omis de déclarer pour l’année 2006 est beaucoup moins élevé. Cette année‑là, elle a omis de déclarer un montant de 872 $ au titre d’un revenu en intérêts. Son revenu global pour l’année 2006 (y compris ce revenu en intérêts) était de 37 817 $. Le revenu en intérêts non déclaré ne représentait donc que 2,3 p. 100 du total du revenu pour l’année 2006. Selon la position que l’intimée a prise, l’appelante ne saurait à juste titre soutenir qu’elle peut se prévaloir du moyen de défense fondé sur la diligence raisonnable à l’égard de cette omission de déclarer un montant de 872 $ en 2006. Dans son recueil de jurisprudence, l’avocate de l’intimée n’a pas inclus la décision que le juge Hogan vient de rendre dans l’affaire Franck c. La Reine, précitée, bien qu’elle ait reconnu être au courant de cette décision.
+[19] Dans la décision Franck, précitée, le juge Hogan a dit ce qui suit :
+2. […] le paragraphe 163(1) de la Loi prévoit qu’il doit y avoir eu omission à l’égard de deux années sur quatre années consécutives. Par conséquent, une défense de diligence raisonnable pour au moins une des années pourrait venir annuler la pénalité.
+[20] Le fait qu’une décision n’étaye pas la position qui est prise ne permet pas pour autant d’omettre de l’inclure dans les décisions présentées à la Cour. L’affaire Franck a été tranchée sous le régime de la procédure informelle, mais cela ne saurait justifier l’omission d’en faire mention dans le recueil de jurisprudence de l’intimée, étant donné que plusieurs décisions qui ont été incluses dans ce recueil ont été tranchées sous le régime de la procédure informelle.
+[21] Le moyen de défense fondé sur la diligence raisonnable résulte de la classification d’une infraction à titre d’infraction de responsabilité stricte. Dans l’arrêt La Reine c. La Corporation de la Ville de Sault Ste-Marie, [1978] 2 R.C.S. 1299, le juge Dickson (tel était alors son titre), au nom de la Cour suprême du Canada, a déclaré ce qui suit :
+Je conclus, pour les motifs que j’ai indiqués, qu’il y a des raisons impératives pour reconnaître trois catégories d’infractions plutôt que les deux catégories traditionnelles :
+1. Les infractions dans lesquelles la mens rea, qui consiste en l’existence réelle d’un état d’esprit, comme l’intention, la connaissance, l’insouciance, doit être prouvée par la poursuite soit qu’on puisse conclure à son existence vu la nature de l’acte commis, soit par preuve spécifique.
+2. Les infractions dans lesquelles il n’est pas nécessaire que la poursuite prouve l’existence de la mens rea; l’accomplissement de l’acte comporte une présomption d’infraction, laissant à l’accusé la possibilité d’écarter sa responsabilité en prouvant qu’il a pris toutes les précautions nécessaires. Ceci comporte l’examen de ce qu’une personne raisonnable aurait fait dans les circonstances. La défense sera recevable si l’accusé croyait pour des motifs raisonnables à un état de faits inexistant qui, s’il avait existé, aurait rendu l’acte ou l’omission innocent, ou si l’accusé a pris toutes les précautions raisonnables pour éviter l’événement en question. Ces infractions peuvent être à juste titre appelées des infractions de responsabilité stricte. C’est ainsi que le juge Estey les a appelées dans l’affaire Hickey.
+3. Les infractions de responsabilité absolue où il n’est pas loisible à l’accusé de se disculper en démontrant qu’il n’a commis aucune faute.
+[22] Il existe un grand nombre de décisions dans lesquelles on a conclu que le contribuable pouvait invoquer le moyen de défense fondé sur la diligence raisonnable, si cette diligence était établie, pour éviter une pénalité imposée au titre du paragraphe 163(1) de la Loi. L’intimée n’a pas fait valoir que l’appelante n’avait pas le droit de soutenir qu’elle pouvait se prévaloir de pareil moyen de défense, mais l’intimée a plutôt affirmé que ce moyen de défense pouvait uniquement être invoqué à l’égard de l’omission d’inclure le montant dans le revenu de l’année 2008, et non à l’égard de l’omission d’inclure le montant dans le revenu de l’année 2006. Toutefois, il me semble qu’étant donné que la pénalité ne peut être imposée que si un contribuable particulier omet d’inclure un montant dans son revenu au cours de deux années différentes, l’« acte prohibé » est composé de deux omissions – l’une étant l’omission d’inclure un montant au titre du revenu au cours d’une année et l’autre étant l’omission d’inclure un montant au titre du revenu au cours d’une autre année dans les trois années suivant la première omission.
+[23] Par conséquent, comme l’a déclaré le juge Hogan, le contribuable (qu’il s’agisse d’un particulier ou d’une société) qui peut établir qu’il a fait preuve d’une diligence raisonnable à l’égard de la première ou de la seconde omission d’inclure un montant dans son revenu aura gain de cause à l’égard de la cotisation par laquelle une pénalité est imposée au titre du paragraphe 163(1) de la Loi. Même si le calcul du montant de la pénalité est uniquement basé sur le second montant qui n’a pas été inclus dans le calcul du revenu, le contribuable doit, pour que la pénalité soit imposée, avoir omis d’inclure certains montants dans le calcul de son revenu au cours de deux années différentes, et les deux omissions feraient partie de l’« acte prohibé ». En l’espèce, l’appelante aura gain de cause si elle réussit à établir qu’elle a fait preuve d’une diligence raisonnable à l’égard de son omission d’inclure le montant de 872 $ dans son revenu de l’année 2006 ou de celle d’inclure le montant de 28 611 $ dans son revenu de l’année 2008.
+[24] Comme la Cour d’appel fédérale l’a fait remarquer dans l’arrêt Les Résidences Majeau Inc., précité :
+8 […] un défendeur bénéficie de la défense de diligence raisonnable s’il établit l’une ou l’autre des deux choses suivantes : soit qu’il a commis une erreur de fait raisonnable, soit qu’il a pris des précautions raisonnables pour empêcher que ne se produise l’évènement qui donne naissance à la pénalité.
+9 L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, i.e. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+[25] En l’espèce, l’appelante se trompait au sujet de la question de savoir si elle avait inclus la totalité de son revenu dans sa déclaration de revenus de l’année 2006. Je suis convaincu qu’in est plus probable qu’improbable que l’appelante avait en toute innocence omis de déclarer le montant de 872 $ en préparant sa déclaration de l’année 2006. Il s’agit d’un montant minime par rapport au revenu global et, à la réception de l’avis de nouvelle cotisation, l’appelante a payé promptement le montant qui était dû. Le montant omis ne représentait que 2,3 p. 100 du revenu global de l’appelante pour l’année 2006, et elle a donc déclaré 97,7 p. 100 du revenu global réalisé cette année‑là.
+[26] La déclaration de revenus de l’appelante de l’année 2006 n’a pas été produite en preuve. Seuls l’avis de cotisation reconstitué et l’avis de nouvelle cotisation reconstitué de l’année 2006 ont été produits. Ces avis indiquent uniquement le total des montants se rattachant au revenu – rien n’indique le montant tiré de chaque source qui a été déclaré au titre du revenu. Par conséquent, rien n’indique si, en 2006, l’appelante avait déclaré un revenu en intérêts. On ne sait pas trop si l’appelante possède une copie de sa déclaration de revenus de l’année 2006. Il n’a pas été établi qu’elle en ait eu une copie. Toutefois, puisque l’appelante a produit sa déclaration de revenus de l’année 2006, l’intimée aurait clairement eu à sa disposition la déclaration de revenus que l’appelante a produite.
+[27] Dans l’ouvrage The Law of Evidence in Canada, troisième édition, les juges Lederman, Bryant et Fuerst de la Cour supérieure de justice de l’Ontario s’expriment ainsi à la page 377 :
+[traduction]
+§6.449 Dans les affaires civiles, il est possible de tirer une déduction défavorable lorsque, en l’absence d’explication, une partie à un litige ne témoigne pas ou omet de fournir une preuve par affidavit dans le contexte d’une demande ou encore omet de citer un témoin qui aurait connaissance des faits et dont on pourrait présumer qu’il serait prêt à aider cette partie. De la même façon, il est possible de tirer une déduction défavorable à une partie lorsque celle‑ci ne cite pas un témoin important sur lequel elle exerce un contrôle exclusif et ne fournit aucune explication à ce sujet. Une telle omission constitue un aveu implicite que le témoignage du témoin absent serait contraire à la cause de la partie ou, du moins, ne la favoriserait pas.
+§6.450 Une déduction défavorable devrait être tirée seulement après l’établissement d’une preuve prima facie par la partie sur laquelle repose le fardeau de la preuve.
+[Renvois omis.]
+[28] À mon avis, cela peut également s’appliquer lorsqu’il y a omission de produire un document sur lequel une partie exerce un contrôle exclusif. En l’espèce, ce document est la déclaration de revenus de l’appelante. Bien que l’appelante ait peut‑être conservé une copie, elle aurait normalement produit l’original de la déclaration auprès de l’Agence du revenu du Canada et, par conséquent, l’intimée aurait un contrôle exclusif sur la déclaration de revenus produite par l’appelante pour l’année 2006. Aucune explication satisfaisante n’a été fournie au sujet de l’omission de produire en preuve la déclaration de revenus de l’appelante pour l’année 2006.
+[29] En l’espèce, l’intimée a la charge d’établir les faits qui justifient l’imposition de la pénalité, et l’appelante a celle d’établir les faits à l’appui du moyen de défense fondé sur la diligence raisonnable. À mon avis, l’appelante a présenté une preuve prima facie à l’appui de ce moyen de défense, étant donné que le montant qu’elle a omis de déclarer pour l’année 2006 ne représentait que 2,3 p. 100 de son revenu global de l’année 2006, et je suis convaincu que l’appelante a omis en toute innocence d’inclure ce montant. Il me semble à première vue qu’une personne raisonnable aurait également pu commettre la même erreur.
+[30] Il convient également de souligner que l’intimée était représentée par une avocate et que l’appelante agissait pour son propre compte. À mon avis, il est possible de tirer une déduction défavorable de l’omission de l’intimée de présenter en preuve la déclaration de revenus que l’appelante avait produite pour l’année 2006. La déduction défavorable que je fais est la suivante : la déclaration aurait révélé tout autre revenu en intérêts qui a été déclaré, de sorte qu’une personne raisonnable placée dans les mêmes circonstances aurait commis la même erreur que l’appelante.
+[31] En conséquence, l’appel est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que la pénalité imposée au titre du paragraphe 163(1) de la Loi relativement à la déclaration de revenus que l’appelante a produite pour l’année 2008 est supprimée.
+[32] L’intimée versera à l’appelante des dépens de 750 $.
+Signé à Ottawa, Canada, ce 20e jour de mai 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 8e jour de juillet 2011.
+Christian Laroche, LL.B.
+Juriste-traducteur et traducteur-conseil
+RÉFÉRENCE : 2011CCI274
+No DU DOSSIER DE LA COUR : 2010-3733(IT)I
+INTITULÉ : SHEILA SYMONDS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 3 mai 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 mai 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2009 CCI 286, [2009] G.S.T.C. 90, [2009] 2009 G.S.T.C. 118.

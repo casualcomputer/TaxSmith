@@ -1,0 +1,152 @@
+---
+title: "Osaduke  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180707/index.do"
+last_modified: "2016-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 209"
+citation2: ""
+neutral_citation: "2016 TCC 209"
+decision_date: "2016-09-23"
+language: "en"
+item_id: "180707"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2895
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:41:21.834000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "803240448e565061951d94c23b2ddd82068598060db4fa733385b204d2a45f93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Osaduke  v. The Queen
+
+- Citation: 2016 TCC 209
+- Decision date: 2016-09-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2895, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Osaduke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-09-23
+Neutral citation
+2016 TCC 209
+File numbers
+2014-2349(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2349(IT)I
+BETWEEN:
+RONALD A. OSADUKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 8, 2015 at Hamilton, Ontario
+and March 11, 2016 at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Anna Malazhavaya
+Counsel for the Respondent:
+Melanie Petrunia
+JUDGMENT
+The appeal is allowed in part, without costs, and the reassessments of the Appellant’s 2008 and 2009 taxation years are referred back to the Minister of National Revenue for reassessment on the basis that the unreported income and penalties be adjusted in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of September 2016.
+“B.Paris”
+Paris J.
+Citation: 2016 TCC 209
+Date: 20160923
+Docket: 2014-2349(IT)I
+BETWEEN:
+RONALD A. OSADUKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from reassessments by which the Minister of National Revenue (the “Minister”) included unreported business income of $62,111 and $46,008 in the Appellant’s 2008 and 2009 taxation years, respectively. The Minister also imposed gross negligence penalties under subsection 163(2) of the Income Tax Act (“ITA”) on the unreported income.
+[2] The reassessments were based in part on an analysis of the deposits made to the joint bank account of the Appellant and his spouse, Jean Osaduke, during the years in question. Any deposits from unidentified sources were presumed by the auditor to have arisen from the Appellant’s business of selling collectible coins and bullion. The remainder of the amounts included in income consisted of income from eBay sales which the Appellant disclosed to the Canada Revenue Agency (“CRA”) appeals division during the objection process.
+[3] The Appellant admits that he failed to report any income from his business activities in his returns for the years in question, but says that the unreported amounts were much less than what was assessed. The Appellant says that his unreported income in 2008 was $17,123 in 2008 and $1,583 in 2009 and that the remainder of the unidentified deposits were from gambling winnings, gifts from his father, proceeds from the sale of personal items and from loose change he had accumulated.
+[4] The questions before the Court are i) whether the Appellant has met the onus upon him to show, on a balance of probabilities, that the true amount of his business income in 2008 and 2009 was less than assessed and ii) whether the Respondent has shown that the failure to report the business income was done knowingly or in circumstances amounting to gross negligence within the meaning of subsection 163(2).
+[5] The Appellant, his spouse and his son, Steven Osaduke, testified at the hearing. The CRA auditor, Duwayne Renouf, also testified.
+[6] The Appellant gave evidence that he operated a coin and foreign exchange store at various locations in Kitchener up to 2005, at which point he declared personal bankruptcy. After the bankruptcy, his son set up a foreign exchange business which operated in Kitchener and later in Mississauga, as well.
+[7] The Appellant worked as an employee in his son’s business and sold coins on his own behalf from his son’s store. He also said he began selling coins and paper money on eBay in March 2008, through an account he and his son had used in prior years, and which was connected to a BMO bank account in the name of his son’s company. He testified that he chose to use the old eBay account because the vendor ratings associated with that account were very favourable, and that it had taken some time to develop those ratings when the account was being used in the earlier years. Vendor ratings are a system used on eBay whereby customers of the vendor provide feedback on the quality of service they received from the vendor and their overall satisfaction in dealing with the vendor. Those ratings are displayed along with the items listed for sale and presumably allow prospective purchasers to guage vendor reliability.
+[8] The Appellant testified that he was advised by eBay that he could not change the bank account associated with the eBay account and, since he wanted to keep that account for the reasons given, he was required to process all of his sales through his son’s company’s bank account. He said that his son would pay him the proceeds from the eBay sales in cash withdrawn from the BMO account and that, he, the Appellant, deposited part of the cash into the joint account he held with his spouse. According to the Appellant, the remainder was used to make purchases of coins for his business.
+[9] I note that the Appellant’s explanation of the circumstances surrounding the creation of the eBay account is not supported by the documents submitted at the hearing unreliable. According to screen shots of certain of the Appellant’s listings on eBay, the Appellant’s account was opened in October 2007, rather than a number of years before, as the Appellant suggested. Being operative for only a few months before 2008, it is unlikely it would have built up a large number of vendor ratings. I also find it unlikely that an eBay vendor could not change the bank account associated with the eBay account.
+[10] The Appellant also gave evidence that his son, Steven, did the day-to-day bookkeeping for his (the Appellant’s) business on computer but that in April or May 2009, the hard drive failed and the business records could not be retrieved. After that, Steven was too busy to try to recreate the bookkeeping records and the Appellant said that the matter “just got forgotten.” He said he always intended to report the income but that “it never got done.” The 2008 tax return was filed on August 6, 2009 (Exhibit R-1) and the 2009 return on April 24, 2010 (Exhibit R‑2). Those returns were prepared for the Appellant by a professional accountant.
+[11] After the audit and just before the Appellant filed the Notice of Objection to the reassessments, he said he and Steven found an old archived copy of the bookkeeping data, which was used to produce income and expense statements for the business activity.
+[12] Steven Osaduke, however, testified that he prepared the income and expense statements from data obtained from eBay, since the Appellant’s original computer records were lost. He also said that he did not do the day-to-day computer bookkeeping entries for the Appellant because he did not have time to do so. When asked to explain how he was able to include on the statements the amounts of sales from in-store transactions conducted by his father, Steve Osaduke said his father had handwritten notes of those sales that he used. No such notes of sales transactions were even mentioned by the Appellant and none were produced in Court.
+[13] In all, the explanations given by the Appellant and his son regarding the Appellant’s record keeping, the loss of those records and the manner in which the income and expense statements were prepared were convoluted, confusing and inconsistent. I find that the income and expense statements produced in evidence by the Appellant for his business are not reliable.
+[14] I also find Steven Osaduke’s testimony concerning the payments he allegedly made to his father and out of his BMO account to be unreliable. Steven Osaduke produced a list of what he said were cash payments he made out of the account of money received for the Appellant’s eBay sales. Those amounts could not be reconciled to the eBay sales spreadsheets put into evidence by the Appellant or to the income and expense statements. Also, at one point Steven Osaduke stated that the amounts shown on the list were in US funds, although taken from a Canadian dollar account. He had no explanation of how the amounts were converted to U.S. dollar figures. In addition, Steven Osaduke did not bring any source material such as copies of his BMO account statements or Quicken accounting records to corroborate his testimony. Finally, I find it highly implausible that Steven Osaduke would have given these large amounts – up to $11,000- to the Appellant in cash.
+[15] I also have difficulty believing the Appellant’s testimony concerning the loss of his business records and his intention to report the business income as soon as possible after filing his returns. First, the auditor, Mr. Renouf, testified that the Appellant initially denied having income from on-line sales and only admitted it after the auditor told him that the CRA had records from eBay showing those sales. Next, the loss of records in April or May 2009, would not explain why the Appellant had no records for the remainder of 2009 to show the auditor. Finally, there was no indication that the Appellant ever revealed the loss of records to the accountant who prepared his returns. The accountant was not called as a witness and I draw the inference that his evidence would not have assisted the Appellant. It would seem likely that a person in the Appellant’s situation, having lost key accounting records necessary for reporting income, would bring that fact to the attention of the person preparing his return and would seek advice and assistance in that regard.
+[16] I accept that the Appellant’s revenue and expenses (including purchases) relating to his eBay and in-store sales for 2008 were correctly determined by the Minister as set out in Schedule A to the Reply to the Notice of Appeal. The eBay sales figures correspond to the information obtained by the CRA from eBay and the in‑store sales and expense figures were those indicated by the Appellant. For 2009, the Minister also accepted the Appellant’s eBay sales figures and expense amounts (including purchases).
+[17] With respect to eBay sales in 2008, the Appellant maintained that approximately $5,500 was received for items belonging to a friend, Tim Clarke, who helped him with the eBay listings. However, Mr. Clarke was not called as a witness to corroborate this allegation and again I draw the inference that Mr. Clarke’s testimony would not have assisted the Appellant. I am also puzzled how the Appellant would be able to identify these amounts since nothing in the eBay records connect the sales to Mr. Clarke. Furthermore, there was no proof of payment of any proceeds to him. I would expect Steven Osaduke to have obtained written receipts for any cash payments made to Mr. Clarke if such payments had been made.
+[18] It remains to be determined whether the Appellant has shown that the unidentified bank deposits came from non-taxable sources.
+[19] The testimony given by the witnesses regarding gambling wins, gifts and sales of Royal Doulton figurines and nautical collectibles was uncorroborated by any written records or by any unrelated parties.
+[20] I find it highly implausible that the Appellant and his wife sold $27,000 worth of figurines and collectibles, as they say they did in 2008 and 2009. The reason given for the sales was that they were in financial difficulty after the Appellant declared bankruptcy. However, the bankruptcy occurred in 2005, at least two years before the alleged sales began. I note, too, that the Appellant purchased a house in late 2009, which does not support the allegation of financial difficulties around that time. Also, the evidence of the Appellant and his spouse that the items were sold in 2008 and 2009 at flea markets and to friends conflicts with the statements by Jean Osaduke to the CRA in 2012 that the sales began in early 2006 and were sold in part through an auction house. In her testimony in Court, Jean Osaduke said she didn’t recall selling any of the items through the auction house but offered no explanation for her earlier statement to the CRA. As well, I find it unlikely that sales of the collectibles would have been done largely at flea markets if the Appellant and his spouse wished to obtain the best price for them. I believe it is more likely that they would have used the same online sale method that the Appellant used to sell coins if they were disposing of the items. Also there was no corroboration of the sales allegedly made to friends.
+[21] I also find the evidence regarding cash gifts from the Appellant’s father as well as that relating to gambling winnings unconvincing. While the Appellant now says he and his spouse received substantial amounts from his father for Christmas each year and to assist with the purchase of the house in 2009, this source of funds was never brought to the attention of the auditor. The testimony of the Appellant and his spouse concerning the gambling winnings is, in my view, implausible. On the one hand, they say they were in very difficult financial circumstances in 2008 and 2009, but on the other that they went gambling a couple of times a week. As well, on the basis of the contradictions, inconsistencies and implausibilities in their testimony on other points, I find they were not credible witnesses.
+[22] As a last source of non-taxable income, the Appellant also testified that an unidentified deposit of $3,000 in August 2009 was made up of loose change that he had accumulated at home. Apart from the fact that this amount would represent a very large quantity of coins, it is extremely difficult to believe that the value of the loose change would add up to the round figure of $3,000. This again is an illustration of the Appellant’s lack of credibility.
+[23] I do accept, however, the submission of the Appellant’s counsel that there is likely a double counting of income in 2008 because both the unidentified deposits and the revenue from the eBay and in-store sales were added separately to income. It is reasonable to assume that at least a portion of the unidentified deposits came from the eBay and in-store sales. The evidence shows that a portion of the revenue from these sales was not deposited to the account but instead used to make cash purchases of additional inventory. The bank records confirm that little cash was withdrawn in 2008 and 2009. The amount allowed for cash purchases of inventory was $44,532 in 2008, a figure supplied by the Appellant himself. The excess of revenue from eBay and in-store sales (net of eBay expenses and eBay refunds) over the cash purchases is $22,285. By taking into account the likelihood of this amount being double counted, the unreported business income would be reduced from $62,111 to $39,488 in 2008.
+[24] In 2009, the Appellant’s eBay sales minus cash purchases and eBay expenses were $1,583. The unreported income should be reduced by this amount for the same reason set out above. This results in unreported income of $44,425 in 2009.
+[25] On the question of penalties, the evidence is clear that the Appellant chose not to report his business income in his 2008 and 2009 tax returns. He filed those returns without including the business income because he said he had lost his records that were maintained on a computer that stopped working. I do not accept this version of events because I find that a computer malfunction in or around May of 2009 would not have prevented the Appellant from reconstructing his sales and purchases (which according to Steven Osaduke is eventually what was done.) This task would have been easier for the 2009 year return because only four months of records would have been lost. On the other hand, if the data necessary to determine business income was in fact retrieved from the computer hard drive (as the Appellant says), there is no reason this could not have been done before the returns were filed. There is also no satisfactory explanation why, if the records had been lost, nothing was done about it until the CRA auditor arrived in 2012. In any event, I highly doubt the Appellant had the business records he said he did, given the discrepancy between his testimony and that of his son concerning who did the day-to-day bookkeeping for the Appellant.
+[26] Section 163(2) of the Act provides for a penalty where a “person knowingly or in circumstances amounting to gross negligence has made…a false statement or omission in a return…”
+[27] I am satisfied that the Respondent has met the onus of proving that the Appellant knowingly omitted to report his business income in both years. I am also satisfied that the Respondent has shown that at least $39,488 of business income was not declared by the Appellant in his 2008 return and $44,425 of business income was not declared by him in his 2009 return. As these amounts are lower than what was reassessed the penalties must be adjusted.
+[28] The appeal is allowed, in part, without costs, and the matters are referred back to the Minister for reassessment on the basis that the unreported income and penalties be adjusted in accordance with these reasons.
+Signed at Ottawa, Canada this 23rd day of September 2016.
+“B.Paris”
+Paris J.
+CITATION:
+2016 TCC 209
+COURT FILE NO.:
+2014-2349(IT)I
+STYLE OF CAUSE:
+RONALD A. OSADUKE AND HER MAJESTY THE QUEEN
+PLACE AND DATE OF HEARING:
+Hamilton, Ontario (October 8, 2015)
+Toronto, Ontario (March 3, 2016)
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+September 23, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Anna Malazhavaya
+Counsel for the Respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Anna Malazhavaya
+Firm:
+Milot Law
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,182 @@
+---
+title: "Kit Yan Lee c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30673/index.do"
+last_modified: "2012-01-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 17"
+citation2: ""
+neutral_citation: "2012 CCI 17"
+decision_date: "2012-01-19"
+language: "fr"
+item_id: "30673"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7170
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:50:15.755000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "919a052b54b775cfd10266577fcda8b77707ad2a45c064b17b83445053e05f36"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kit Yan Lee c. La Reine
+
+- Citation: 2012 CCI 17
+- Decision date: 2012-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7170, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kit Yan Lee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-19
+Référence neutre
+2012 CCI 17
+Numéro de dossier
+2010-105(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-105(IT)I
+ENTRE :
+VINCENT KIT YAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 octobre 2011, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse de nouvelles cotisations, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 29e jour de février 2012.
+Martine Maltais, traductrice
+Référence : 2012 CCI 17
+Date : 20120119
+Dossier : 2010-105(IT)I
+ENTRE :
+VINCENT KIT YAN LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] En 1995, l’appelant, son épouse et leurs deux enfants, ont quitté Hong Kong pour immigrer au Canada dans le cadre du Programme d’immigration des gens d’affaires du gouvernement fédéral. Selon son témoignage, l’appelant détenait approximativement un million de dollars en capital lorsqu’il est entré au Canada.
+[2] L’appelant a investi environ 150 000 $ pour acquérir des parts de société afin de répondre aux conditions du Programme d’immigration des gens d’affaires et il a payé 260 000 $ pour l’achat d’un condominium à Vancouver pour lequel il avait initialement contracté une hypothèque de 140 000 $.
+[3] L’appelant soutient qu’il a rencontré des difficultés pour trouver un emploi au Canada et qu’il a occupé des emplois peu spécialisés. Pour subvenir aux besoins de sa famille, il s’est trouvé dans l’obligation d’utiliser son capital pour payer les dépenses personnelles de sa famille, une situation qui a rapidement entraîné l’érosion de ce capital. Comme preuve de ce fait, il a fait valoir qu’il avait dû grever sa résidence de Vancouver d’une nouvelle hypothèque de 140 000 $.
+[4] En 1997, pour augmenter ses revenus, l’appelant a commencé à se livrer à ce qui est appelé de la spéculation à très court terme de titres négociables, ce qu’il a continué à faire pendant les années d’imposition en cause.
+[5] Pendant la période en question, l’appelant détenait deux comptes de banque personnels (les « comptes personnels ») et un certain nombre de comptes qu’il utilisait pour faire le commerce des valeurs mobilières (les « comptes de commerce des valeurs mobilières »).
+[6] Selon l’appelant, ses activités de commerce des valeurs mobilières ont entraîné des pertes importantes, lesquelles totalisent 154 508 $ pour une période de dix ans ayant commencé en 1997. L’appelant a imputé ces pertes à son capital; plus précisément, il a imputé à son capital une perte de 1 275,58 $ pour l’année d’imposition 2005 et une autre de 43 931,55 $ pour l’année d’imposition 2006.
+[7] Selon l’appelant, ces pertes, en plus des dépenses personnelles de sa famille, l’ont laissé sans capital et avec peu de moyens pour subvenir aux besoins personnels des siens. L’appelant a expliqué que l’effritement de son avoir net a entraîné des difficultés d’ordre personnel et qu’il vit maintenant séparé de sa femme et de ses enfants. L’appelant soutient également qu’il occupe maintenant un emploi de concierge à très bas salaire afin d’apporter un certain soutien à la famille avec laquelle il ne vit plus. La résidence principale de Vancouver a été vendue, et les membres de la famille de l’appelant vivent dans un logement loué.
+[8] L’Agence du revenu du Canada (l’« ARC ») a d’abord entrepris une vérification des activités de l’appelant afin de déterminer si lesdites activités pourraient être assujetties à la taxe sur les produits et services. Il est ressorti de cette vérification que tel n’était pas le cas. L’ARC a ensuite entrepris une vérification en matière d’impôt du revenu à l’égard de l’appelant pour les années d’imposition 2005 et 2006.
+[9] C’est M. Cen, un vérificateur de l’ARC détenant un baccalauréat en administration des affaires, qui supervisait le travail de vérification. M. Cen a conclu, en se fondant sur les statistiques établies par Statistiques Canada relativement aux dépenses d’une famille de quatre personnes, que l’appelant avait omis, pour les années d’imposition 2005 et 2006, de déclarer un revenu de 64 821 $ et un revenu de 107 786 $ respectivement. M. Cen a utilisé cette méthode parce qu’il n’était pas arrivé à obtenir les renseignements financiers et comptables demandés à l’appelant. Cependant, M. Cen reconnaît que, au moment de la vérification, l’appelant vivait à Hong Kong, et qu’il communiquait avec l’appelant par l’entremise du fils et de la fille de ce dernier, lesquels avaient de la difficulté à s’occuper des demandes qui avaient trait à la vérification des revenus de leur père. L’appelant a déclaré qu’il n’avait pas accès à ses dossiers financiers, étant donné que ces dossiers étaient au Canada et que lui‑même vivait à Hong Kong.
+[10] C’est M. Leong, agent des appels à l’ARC, qui a traité l’opposition de l’appelant aux nouvelles cotisations. Afin de reconstituer les revenus non déclarés de l’appelant pour la période en litige, M. Leong a mis de côté la méthode que M. Cen avait utilisée et s’est servi d’une méthode des dépôts modifiée.
+[11] L’intimée a établi de nouvelles cotisations à l’égard de l’appelant pour les années d’imposition 2005 et 2006 pour le motif que l’appelant avait omis de déclarer ses revenus pour les années en cause. L’intimée soutient que l’appelant n’avait pas subi les pertes de 1 275,58 $ qu’il a déclarées pour l’année 2005 et celles de 43 931,55 $ qu’il a déclarées pour l’année 2006. Selon l’intimée, l’appelant avait plutôt réalisé des gains de 4 704,87 $ pour l’année 2005 et de 2 185,92 $ pour l’année 2006. L’intimée a aussi établi à l’égard de l’appelant de nouvelles cotisations relatives à des revenus non déclarés de 27 222 $ pour l’année d’imposition 2005 (soit une somme de 13 143 $ correspondant à des dépôts non expliqués faits par l’appelant dans ses comptes personnels ainsi qu’une somme de 14 079 $ correspondant à des dépôts faits par l’appelant dans ses comptes personnels à partir de ses comptes de commerce des valeurs mobilières) et des revenus non déclarés de 83 218 $ pour l’année d’imposition 2006 (soit une somme de 13 501 $ correspondant à des dépôts non expliqués faits par l’appelant dans ses comptes personnels et une somme de 69 717 $ correspondant à des dépôts faits par l’appelant dans ses comptes personnels à partir de ses comptes de commerce des valeurs mobilières).
+[12] L’appelant a saisi la Cour d’une preuve documentaire substantielle, constituée pour la majeure partie de documents et de déclarations énumérant les opérations boursières que l’appelant a effectuées dans chacune des années en cause. Ces documents n’avaient pas été communiqués à l’agent des appels avant l’établissement des nouvelles cotisations, étant donné qu’ils ont été communiqués à l’avocat de l’intimée à un certain moment avant l’audience de l’appel interjeté par l’appelant.
+[13] En l’espèce, M. Leong a eu l’occasion d’examiner les documents. Comme je l’ai indiqué précédemment, les calculs détaillés de M. Leong démontrent que l’appelant a réalisé des gains de 4 704,87 $ pour l’année 2005 et de 2 185,92 $ pour 2006, plutôt que d’avoir subi les pertes de 1 275,58 $ et de 43 931,55 $ qu’il avait déclarées pour chacune de ces années.
+I. Position de l’appelant
+[14] L’appelant soutient que, selon la jurisprudence, il peut avoir gain de cause en l’espèce, pourvu que la preuve dont il a saisi la Cour lui permette de réfuter prima facie les hypothèses avancées par le ministre. Par exemple, l’appelant peut avoir gain de cause en établissant, selon la prépondérance des probabilités, des faits nouveaux dont le ministre n’avait pas tenu compte et qui démontreraient que l’appelant n’a pas gagné les revenus que l’intimée a considérés comme non déclarés par l’appelant. L’appelant peut aussi faire la démonstration que les hypothèses de fait du ministre sont fausses. Une fois établie la preuve prima facie de l’appelant, le fardeau de la preuve revient au ministre qui doit alors établir, selon la prépondérance des probabilités, les faits lui permettant de justifier l’établissement de nouvelles cotisations à l’égard de l’appelant.
+[15] L’appelant affirme qu’il a déclaré tous ses revenus pour la période en question, et il soutient sa position en indiquant que, pendant cette période, il a connu des difficultés financières. L’appelant soutient également que l’argent qu’il avait déposé dans ses comptes personnels ne provenait pas de sources imposables mais de capitaux qu’il avait transférés et de sommes qu’il avait empruntées en prélevant les sommes en question sur ses comptes de commerce des valeurs mobilières et sur le compte de banque de sa sœur. L’appelant soutient qu’il a réussi à établir une preuve prima facie qui démolit les hypothèses sur lesquelles s’est fondé le ministre pour établir les nouvelles cotisations qui font l’objet du litige. L’appelant a aussi indiqué que selon l’enquête de l’intimée elle‑même, les revenus qu’il a tirés de ses opérations boursières de négociation étaient très peu élevés.
+[16] L’appelant admet qu’il a produit tardivement les documents qu’il devait faire parvenir au ministre, en raison de circonstances indépendantes de sa volonté. Cependant, l’appelant soutient qu’en définitive, il a fait parvenir au ministre ainsi qu’à l’avocat de celui‑ci tous les dossiers financiers concernant ses opérations boursières, et ce, avant l’audience.
+II. Position de l’intimée
+[17] Comme je l’ai mentionné précédemment, selon l’intimée, au lieu d’avoir subi les pertes de 1 275,58 $ qu’il a déclarées pour l’année 2005 et celles de 43 931,55 $ qu’il a déclarées pour l’année 2006, l’appelant aurait plutôt réalisé des gains de 4 704,87 $ pour l’année 2005 et de 2 185,92 $ pour l’année 2006. L’intimée a aussi établi à l’égard de l’appelant de nouvelles cotisations relatives à des revenus non déclarés de 27 222 $ pour l’année 2005 (soit une somme de 13 143 $ correspondant à des dépôts non expliqués faits par l’appelant dans ses comptes personnels ainsi qu’une somme de 14 079 $ correspondant à des dépôts faits par l’appelant dans ses comptes personnels à partir de ses comptes de commerce des valeurs mobilières) et des revenus non déclarés de 83 218 $ pour l’année 2006 (soit une somme de 13 501 $ correspondant à des dépôts non expliqués faits par l’appelant dans ses comptes personnels ainsi qu’une somme de 69 717 $ correspondant à des dépôts faits par l’appelant dans ses comptes personnels à partir de ses comptes de commerce des valeurs mobilières). À l’appui des nouvelles cotisations établies à l’égard de l’appelant, l’intimée soutient que l’appelant n’a pas démoli l’hypothèse du ministre voulant que les dépôts non expliqués faits par l’appelant dans ses comptes personnels ainsi que les dépôts faits par l’appelant dans ses comptes personnels à partir de ses comptes de commerce des valeurs mobilières soient des revenus imposables.
+III. Analyse
+[18] Les malheurs que l’appelant a vécus en ce qui a trait à l’impôt sont largement causés par son omission de communiquer au vérificateur de l’ARC les documents demandés par ce dernier au stade de la vérification. L’appelant a offert à propos de son inaction une explication crédible, à savoir qu’il se trouvait à Hong Kong à l’époque de la vérification et que les documents dont il est question en l’espèce se trouvaient dans la résidence familiale de Vancouver. L’épouse de l’appelant n’était pas en mesure de traiter les demandes du vérificateur, et l’appelant a dû laisser l’affaire entre les mains de son fils et de sa fille, lesquels n’avaient pas d’expérience en ce qui concerne les dossiers financiers ou la façon de répondre à des demandes portant sur le respect des obligations fiscales. Cependant, il est reconnu que le ministre peut utiliser des méthodes de rechange pour déterminer le revenu d’un contribuable qui omet de produire ses déclarations de revenu, de tenir ou de conserver des registres et des dossiers fiables, ou, comme c’est le cas ici, de donner au ministre accès à ses dossiers financiers.
+[19] Dans le jugement Cantore c. La Reine[1], j’ai relevé l’affirmation suivante :
+[11] [. . .] Les deux méthodes les plus fréquemment utilisées sont communément appelées la méthode de l'avoir net et la méthode des dépôts. Le vérificateur qui utilise la méthode de l'avoir net calcule d'abord les actifs nets du contribuable (l'actif moins le passif) au début de la période pertinente. Il effectue le même calcul pour la fin de la période pertinente. Il est présumé que l'augmentation de l'avoir net, plus le coût de la vie estimatif pour le contribuable et les personnes à sa charge, moins le revenu déclaré du contribuable et de son conjoint, le cas échéant, représentent les revenus non déclarés du contribuable.
+[12] La méthode des dépôts est fondée sur une analyse de tous les dépôts effectués dans l'ensemble des comptes bancaires du contribuable. Le ministre suppose que les dépôts constituent des revenus imposables. Le revenu net est calculé en soustrayant les fonds virés entre les comptes bancaires du contribuable ainsi que les sommes empruntées par le contribuable. La Cour a reconnu que la méthode des dépôts est une méthode de vérification de rechange appropriée.
+[20] Dans la présente affaire, l’agent des appels a fondé son analyse sur une méthode des dépôts modifiée. L’agent n’a pas exclu de son analyse les dépôts faits dans les comptes personnels de l’appelant à partir des comptes de commerce des valeurs mobilières que l’appelant détenait, la raison en étant que l’agent n’avait pas les dossiers concernant ces comptes et qu’il n’a pas pu les examiner avant l’établissement des nouvelles cotisations à la suite de l’étude de l’opposition de l’appelant.
+[21] Dans l'article « Anatomy of a Net Worth Assessment », David E. Graham souligne que la méthode de l'avoir net donne souvent une représentation plus fiable du revenu du contribuable que la méthode des dépôts :
+[TRADUCTION]
+En général, l'analyse des dépôts ne constitue pas une méthode de calcul du revenu aussi précise que l'évaluation de l'avoir net. Il se peut que l'analyse des dépôts n'accorde pas assez d'importance à la provenance des sommes déposées dans les comptes bancaires (ce qui entraînerait une surimposition). De même, il se peut que l'analyse des dépôts ne tienne pas compte des sommes qui n'ont jamais été déposées dans les comptes bancaires (ce qui donnerait lieu à une sous‑imposition). Les contribuables qui font l'objet d'une analyse des dépôts devraient s'assurer que les fonds virés entre leurs comptes bancaires ne soient pas traités comme des dépôts[2].
+.
+[Non souligné dans l'original.]
+[22] La méthode que l'ARC a utilisée ne modifie pas le fardeau juridique qui incombe à l'appelant en l'espèce. Dans l’arrêt Hickman Motors Ltd. c. Canada[3], la Cour suprême du Canada fait l’examen des règles applicables au fardeau de la preuve dans les appels de nature fiscale[4] :
+· Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités.
+· Le contribuable a le fardeau initial de démolir[5] les présomptions exactes sur lesquelles le ministre s’est fondé pour l’établissement de sa cotisation, mais rien de plus.
+· Le contribuable se sera acquitté de cette charge initiale de démolir l’exactitude des présomptions du ministre lorsqu’il aura présenté une preuve prima facie[6].
+· Une fois que le contribuable a présenté sa preuve prima facie, le fardeau de la preuve passe alors au ministre qui doit réfuter la preuve prima facie faite par le contribuable en faisant la preuve de ses présomptions selon la prépondérance des probabilités[7].
+· Si le ministre ne produit pas de preuve satisfaisante, le contribuable obtiendra gain de cause[8].
+[23] Dans l’article intitulé « Onus of Proof and Ministerial Assumptions : The Role and Evolution of Burden of Proof in Income Tax Appeals », les auteurs donnent ce qui constitue, à mon avis, un résumé exact des règles applicables au fardeau juridique qui incombe aux contribuables dans les appels de nature fiscale :
+[TRADUCTION]
+6) Si la Couronne prétend que, pour établir la cotisation, le ministre s'est fondé sur des hypothèses de fait précises, le contribuable doit :
+a) soit prouver, selon la prépondérance des probabilités, que le ministre ne s'est pas fondé sur ces hypothèses de fait;
+b) soit démontrer que les hypothèses de fait énoncées par le ministre ne sont pas pertinentes;
+c) soit démolir les hypothèses de fait du ministre.
+7) La « démolition » des hypothèses de fait énoncées par le ministre exige tout simplement la présentation d'une preuve prima facie démontrant que ces hypothèses ne sont pas exactes.
+[...]
+9) Lorsque le contribuable a présenté une preuve prima facie permettant de réfuter les hypothèses du ministre, la charge de la preuve et la norme de preuve redeviennent celles qui s'appliquent normalement en matière civile[9].
+[24] J’ai ajourné l’audience de la présente affaire au 21 janvier 2011 pour permettre au représentant de l’intimée d’analyser les rapports financiers concernant les opérations boursières de l’appelant et d’évaluer la possibilité que l’appelant se serve de pertes subies pendant des périodes antérieures à la période en cause pour compenser les revenus non déclarés calculés par le ministre. Malheureusement, les parties ont été incapables de s’entendre sur l’incidence de ces éléments sur les nouvelles cotisations établies par le ministre.
+[25] Je me trouve ainsi amené à faire l’examen de la preuve. En premier lieu, l’appelant m’a donné l’impression d’être un témoin crédible et son témoignage est corroboré par la preuve dont il est question plus loin. La méthode des dépôts modifiée que l’intimée a utilisée comporte des défauts parce que l’intimée n’a pas pris en compte les virements effectués entre les divers comptes de l’appelant. Un virement de fonds entre deux comptes de banque détenus par le même particulier ne peut pas mener à la création de revenu. L’ARC elle-même a analysé les opérations que l’appelant a effectuées en matière de valeurs mobilières et elle a convenu que ces opérations n’avaient rapporté à l’appelant que des revenus modiques pour les années en cause. Il n’y a pas de preuve fiable que l’appelant disposait d’une autre source de revenus non déclarés. En considérant la preuve dans son ensemble, je suis d’avis que les revenus non déclarés de l’appelant se limitaient à 4 704,87 $ et à 2 185,92 $ pour les années d’imposition 2005 et 2006 respectivement.
+IV. Conclusion
+[26] Selon les conclusions que j’ai formulées ci-dessus, les revenus non déclarés de l’appelant sont de 4 704,87 $ et de 2 185,92 $ pour les années d’imposition 2005 et 2006 respectivement. Cependant, comme le montant d’impôt en litige pour l’année d’imposition 2006 excède 12 000 $ et que l’appelant a choisi que son appel soit régi par la procédure informelle, la diminution d’impôt auquel l’appelant a droit pour l’année en question ne peut pas excéder 12 000 $.
+[27] L’appel est accueilli et l’affaire est renvoyée au ministre du Revenu national pour qu’il l’examine à nouveau et établisse de nouvelles cotisations, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 29e jour de février 2012.
+Martine Maltais, traductrice
+RÉFÉRENCE : 2012 CCI 17
+NO DU DOSSIER DE LA COUR : 2010-105(IT)I
+INTITULÉ : VINCENT KIT YAN LEE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 17 octobre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 19 janvier 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2010 CCI 367, 2010 DTC 1242.
+[2] David E. Graham, « Anatomy of a Net Worth Assessment », 2007 British Columbia Tax Conference (Association canadienne d’études fiscales, 2007), 11:1-55, à la page 50.
+[3] [1997] 2 R.C.S. 336.
+[4] Ibidem, aux paragraphes 92 à 95.
+[5] Voir aussi : Johnston v. Minister of National Revenue, [1948] S.C.R. 486.
+[6] Voir aussi : Kamin v. M.N.R., 93 DTC 62 (CCI); Goodwin v. M.N.R., 82 DTC 1679 (C.R.I.).
+[7] Voir aussi : Magilb Development Corp. Ltd. v. The Queen, 87 DTC 5012 (C.F. 1re inst.), à la page 5018.
+[8] Voir aussi : MacIsaac v. M.N.R., 74 DTC 6380 (C.A.F.) à la page 6381.
+[9] William Innes & Hemamalini Moorthy, « Onus of Proof and Ministerial Assumptions: The Role and Evolution of Burden of Proof in Income Tax Appeals », (1998) Canadian Tax Journal, vol. 46, no 6, 1187, à la page 1210.

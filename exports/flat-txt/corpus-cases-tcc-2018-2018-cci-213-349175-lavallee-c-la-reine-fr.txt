@@ -1,0 +1,122 @@
+Title: Lavallee c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/349175/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-213-349175-lavallee-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-10-31
+
+# Lavallee c. La Reine
+
+- Citation: 2018 CCI 213
+- Decision date: 2018-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5016, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavallee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-10-31
+Référence neutre
+2018 CCI 213
+Numéro de dossier
+2018-989(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-989(IT)I
+ENTRE :
+LYNE LAVALLEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 septembre 2018, à Moncton (Nouveau-Brunswick)
+Devant : L'honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Rhoda Lemphers
+JUGEMENT
+Il est fait droit à l’appel visant les nouvelles déterminations du ministre du Revenu national (le ministre), faites le 19 mai 2017 sous le régime de la Loi de l’impôt sur le revenu (Canada), concernant l’Allocation canadienne pour enfants (ACE) versée à l’appelante pour les années d’imposition de base 2013, 2014 et 2015, sans frais; l’affaire est renvoyée au ministre pour nouvel examen et nouvelle(s) détermination(s) au motif que, pendant les périodes respectives de juillet 2014 à juin 2015, de juillet 2015 à juin 2016 et de juillet 2016 à juin 2017, l’appelante n’était pas un « parent ayant la garde partagée », étant donné qu’elle a consacré beaucoup plus de temps, par rapport au père, à prendre soin de ses enfants.
+Signé à Toronto (Ontario), ce 31e jour d’octobre 2018.
+« B. Russell »
+Le juge Russell
+Référence : 2018 CCI 213
+Date : 20181031
+Dossier : 2018-989(IT)I
+ENTRE :
+LYNE LAVALLEE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelante, Mme Lavallee, a interjeté appel des nouvelles déterminations du ministre du ministre du Revenu national (le ministre), faites le 19 mai 2017, concernant l’Allocation canadienne pour enfants (ACE) versée à l’appelante pour les années d’imposition de base 2013, 2014 et 2015. Les nouvelles déterminations étaient fondées sur l’hypothèse du ministre selon laquelle Mme Lavallee était un « parent ayant la garde partagée » pour les périodes respectives de juillet 2014 à juin 2015, de juillet 2015 à juin 2016 et de juillet 2016 à juin 2017.
+[2] Considérée comme un parent ayant la garde partagée, Mme Lavallee n’a reçu qu’une fraction de l’ACE à laquelle elle aurait eu droit si elle n’avait pas été considérée comme un parent ayant la garde partagée, tout en assurant la garde des enfants sur une base plus ou presque égale par rapport à l’autre parent (le père).
+[3] Dans sa réponse, l’intimée a soulevé les faits ci-dessous, sur lesquels le ministre s'est appuyé pour faire les nouvelles déterminations visées par le présent appel :
+a) Mme Lavallee et M. Marji sont les parents de trois enfants : M., K. et E., nés respectivement en 2003, 2004 et 2006;
+b) les deux parents ont cessé de faire vie commune au cours de l’année d’imposition 2007;
+c) à compter d’octobre 2013, les deux parents ont partagé la garde de leurs enfants :
+i. chacun d’eux a résidé avec les enfants en alternance, sur une base hebdomadaire;
+ii. Mme Lavallee s’est également occupée des enfants pendant les semaines où ils étaient sous la garde de M. Marji, soit de 7 h 15 à 8 h 25 (période à laquelle ils prenaient l’autobus) et après l’école, de 15 h à 17 h 30, à l’exception du mercredi, où ils terminent l’école à 14 h;
+iii. les deux parents ont eu la garde partagée des enfants 57,29 % et 42,71 % du temps, respectivement.
+[4] La question en l’espèce, comme il est mentionné ci-dessus, consiste à savoir si, au cours des périodes cumulatives de juillet 2014 à juin 2017, Mme Lavallee était ou n’était pas un « parent ayant la garde partagée ». Le terme « parent ayant la garde partagée » est défini à l’article 122.6 de la Loi :
+122.6 « parent ayant la garde partagée » S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » ne s’applique pas à celle-ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi-égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[5] La question précise est de déterminer si Mme Lavallee a respecté l’alinéa b) de cette définition, autrement dit, si elle a « résidé avec la personne à charge admissible [c.‑à‑d. chaque enfant] sur une base d’égalité ou de quasi-égalité » par rapport à l’autre parent.
+[6] Mme Lavallee a témoigné, tout comme son ex-époux et conjoint, M. Sami Marji, appelé par l’intimée. Sans surprise, la preuve portait en grande partie sur le temps que chacun des deux parents consacrait à la garde de leurs enfants. Une « décision » de la Cour du Banc de la Reine du Nouveau-Brunswick du 22 octobre 2013 a accordé à ces deux parents la garde partagée de leurs trois enfants. La décision prévoyait également qu’il y aurait [traduction] « une rotation hebdomadaire d’un lieu de résidence à l’autre, l’échange ayant lieu le vendredi à 17 h au lieu de résidence des parties [sic] ou à l’école des enfants, le cas échéant. » De plus, le même système de rotation devait être observé pendant les vacances scolaires estivales, excepté que chacun des deux parents aurait deux semaines consécutives [traduction] « pour faire des activités spéciales avec les enfants ». La garde lors des congés importants alternerait chaque année.
+[7] Un facteur important ayant influé sur la nature apparemment égale de l’entente était que M. Marji travaillait à temps plein (et aussi à temps partiel à un deuxième emploi) à tout moment important, contrairement à Mme Lavallee.
+[8] Par conséquent, pendant les semaines où les enfants vivaient avec leur père, M. Marji les déposait chez Mme Lavallee le matin, à environ 7 h 15, avant l’école. C’est là qu’ils déjeunaient (c’était le cas, du moins, pour les deux plus jeunes enfants). Ensuite, ils attrapaient leurs autobus scolaires pour se rendre à l’école. Ils retournaient ensuite après l’école à la maison de Mme Lavallee (plus tôt le mercredi et à l’exception d’un après-midi hebdomadaire où les enfants se rendaient chez leur grand-mère maternelle). Les enfants demeuraient chez Mme Lavallee jusqu’à ce que M. Marji passe les prendre vers 17 h 30 pour les ramener chez lui (ce dernier a parlé de 17 heures, alors que l'appelante a déclaré que les pouvaient parfois attendre jusqu’à 18 heures).
+[9] Voici une autre différence importante qui ressort de la preuve : pour l’équivalent de l’un des deux mois de vacances scolaires des enfants (l’autre mois d’été équivalant substantiellement aux deux périodes respectives de deux semaines mentionnées ci‑dessus pour les activités spéciales avec les enfants), M. Marji déposait quand même les enfants chez Mme Lavallee, durant chacune de ses deux semaines de garde en alternance, le matin avant le petit déjeuner. Mme Lavallee les recevait alors toute la journée, puisqu’il n’y avait pas d’école pendant l’été. M. Marji passait les prendre en rentrant du travail, comme d’habitude. Pendant les mois d’été, les enfants n’ont pas passé leur après-midi habituel chez leur grand-mère par semaine d’alternance.
+[10] Les deux parents ont témoigné au sujet de leur participation respective avec les enfants dans les sports, les rendez-vous médicaux et les rencontres scolaires avec les enseignants. Mme Lavallee n’avait pas de travail à l’extérieur et elle était prestataire de l’aide sociale. Les deux parents ont bien assuré la garde des enfants. La question porte toutefois sur les aspects quantitatifs comparables, c’est-à-dire les aspects temporels des soins de garde fournis par les parents respectifs, pour déterminer si Mme Lavallee était ou non un parent ayant la garde partagée.
+[11] Comme il a été mentionné ci-dessus, le ministre a supposé que les deux parents partageaient la garde mensuelle en proportion de 57,29 % pour Mme Lavallee et de 42,71 % pour M. Marji. Ces deux pourcentages reposent sur des calculs de temps écrits du ministre, que l'avocate de l’intimée a remis à la Cour (ainsi qu’à Mme Lavallee). Ces calculs montrent comment le ministre a calculé la proportion de 57,29 par rapport à 42,71, ce qui constitue encore une fois l’une des hypothèses de fait du ministre invoquées dans la réponse. Il ressort de ces calculs que cette proportion reposait sur des faits semblables à ceux qui précèdent, découlant de la preuve présentée à l’audience, à deux exceptions près. Une exception mineure est l’exclusion de l’après-midi d’une journée de semaine pendant chacune des semaines de garde de M. Marji pendant les mois qu’il ne prenait pas les enfants en charge après l’école chez leur grand-mère maternelle. La principale exception réside dans le fait que ce calcul ministériel ne tient pas compte des deux semaines estivales de garde supplémentaire qui revenaient à M. Marji, alors que c’est Mme Lavallee qui a gardé les enfants tous les jours pendant cette période, en raison des vacances scolaires d’été. J’estime de façon prudente que ces deux différences (la première assez inférieure à la seconde) modifieraient la répartition du temps à au moins 58 % (pour Mme Lavallee) et à 42 % (pour M. Marji).
+[12] Ces nombres de 58 % et de 42 % exprimant respectivement le temps de garde par la mère et par le père traduisent arithmétiquement la conclusion selon laquelle les enfants étaient sous la garde de l’appelante, Mme Lavallee, 38 % plus longtemps qu’ils n’étaient sous la garde de leur père. Du point de vue arithmétique, les chiffres hypothétiques du ministre de 57,29 % par rapport à 42,71 % amènent à conclure que Mme Lavallee avait la garde effective des enfants 34 % plus longtemps que leur père. Le chiffre de 38 % dépasse de loin le tiers (c.‑à‑d. 33,3 %) additionnel du temps total de garde de M. Marji. De plus, le chiffre de 34 % dépasse le même écart d’un tiers.
+[13] Comme il a été mentionné, la question en litige dans cette affaire consiste à déterminer si la garde réelle des enfants par Mme Lavallee est « égale ou presque égale » à celle de M. Marji. Dans l'affirmative, elle serait un parent ayant la garde partagée et son appel devrait être rejeté. D’après la jurisprudence, cette mesure est généralement d’ordre quantitatif (ce qui rejoint d’ailleurs le point de vue du ministre). En outre, j’ai déjà constaté l’absence de différence significative entre les deux parents en ce qui concerne le caractère qualitatif des soins de garde.
+[14] J’ai particulièrement tenu compte de la décision procédurale officieuse Morrissey c. R. (2016 CCI 178) de mon collègue, le juge Sommerfeldt, concernant l’application du terme législatif « égal ou presque égal » dans ce même contexte. Dans la présente affaire, je pense qu’il est utile d’aborder la différence entre les termes, c.-à-d. le pourcentage de temps qu’un parent a consacré aux soins des enfants par rapport à l’autre parent.
+[15] Sur le plan temporel (quantitativement), dans la situation où un parent assume la garde plus du tiers du temps par rapport à l’autre parent, je ne peux conclure que cette période de garde plus longue d’au moins un tiers demeure néanmoins « égale ou presque égale » à la période de garde plus courte. À mon avis, à la lumière de l’usage linguistique courant, l’expression « égale ou presque égale » ne s’appliquerait normalement pas à l’égard d’une comparaison qui donnerait un écart de plus de 25 %, sans parler des écarts de 38 % et de 34 % dont il a été question ici.
+[16] Par conséquent, j’accueille le présent appel et j’ordonne que chacune des nouvelles déterminations visées par l’appel soit renvoyée au ministre pour qu’il procède à un nouvel examen et à une nouvelle détermination, au motif qu’au cours des périodes respectives de juillet 2014 à juin 2015, de juillet 2015 à juin 2016 et de juillet 2016 à juin 2017, l’appelante n’était pas un « parent ayant la garde partagée » en raison de la période beaucoup plus longue qu’elle a consacrée, par rapport au père, à la garde de leurs enfants.
+Signé à Toronto (Ontario), ce 31e jour d’octobre 2018.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2018 CCI 213
+No DU DOSSIER DE LA COUR :
+2018-989(IT)I
+INTITULÉ :
+LYNE LAVALLEE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 14 septembre 2018
+MOTIFS DU JUGEMENT :
+L'honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 31 octobre 2018
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Rhoda Lemphers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,181 @@
+Title: Lebrun v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27517/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-648-27517-lebrun-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-10-18
+
+# Lebrun v. M.N.R.
+
+- Citation: 2005 TCC 648
+- Decision date: 2005-10-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 13, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lebrun v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-18
+Neutral citation
+2005 TCC 648
+File numbers
+2005-1847(EI)APP
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-1847(EI)APP
+BETWEEN:
+PIERRE LEBRUN,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on August 5, 2005, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Yves Savard
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+ORDER
+Having regard to the application made under subsection 103(1) of the Employment Insurance Act for an order extending the time for filing a notice of appeal;
+Having regard to the submissions of the parties;
+The Court hereby denies the application for an extension of time, in accordance with the reasons for order attached hereto.
+Signed at Ottawa, Canada, this 18th day of October 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 31st day of March, 2006.
+J. Poirier
+Citation: 2005TCC648
+Date: 20051018
+Docket: 2005-1847(EI)APP
+BETWEEN:
+PIERRE LEBRUN,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Tardif J.
+[1] The Applicant has applied for an extension of time for appealing from a ruling dated June 7, 2004.
+[2] The grounds in support of his application are set out in the letter from his counsel, which reads as follows: (Exhibit A-5):
+[TRANSLATION]
+Lévis, May 17, 2005
+...
+Dear Sir or Madam:
+With respect to the case of our client Pierre Lebrun, we are appealing the decision made by the appeals division of the Canada Customs and Revenue Agency on June 7, 2004.
+We are contesting the decision of June 7, 2004, with regard to the periods from May 8, 2000, to May 19, 2000, from June 19, 2000, to July 14, 2000, and from August 7, 2000, to August 11, 2000, on the ground that the decision is wrong in fact and law.
+You may contact me at our offices at 50 route Président-Kennedy, suite 265, Lévis, Québec, G6V 6W8 or by telephone at (418) 837-7777 or facsimile at (418) 837-1668.
+Our client, Pierre Lebrun, contacted us on May 10, 2005, to have us take the necessary steps to learn the results of the appeal he had filed on December 6, 2003.
+On May 10, 2005, we contacted Martin Croteau, a Canada Customs and Revenue Agency agent, for information about developments in our client's case.
+On May 11, 2005, I received, by facsimile, a copy of a decision made on June 7, 2004, dismissing our client's appeal.
+Mr. Lebrun had never received a copy of that decision, and so he was obviously unable to contest it without the time allowed.
+Accordingly, and having regard to this very unusual situation, we are requesting an extension of time so that our client can have an opportunity to present the grounds on which he contests the decision made on June 7, 2004.
+Accordingly, having regard to the circumstances, you will understand that our client will of course file his appeal as quickly as possible.
+We would ask that you send us a complete copy of the record as soon as it has been prepared so that we can familiarize ourselves with it before the hearing to be held. We attach an authorization for that purpose, signed by our client.
+We would also ask that you inform us of the hearing date as soon as it is set so that we can ensure that we are present to represent out client's interests.
+If any additional information relating to this matter seems to you to be necessary, please do not hesitate to contact me, and I will be pleased to answer your questions.
+I trust that this will be acceptable, and I will look forward to your reply.
+Yours very truly,
+YVES SAVARD, Advocate
+...
+[3] The Applicant explained that he had requested a review of the initial ruling in a letter dated December 16, 2003, which read as follows (Exhibit A-1):
+[TRANSLATION]
+Saint-Bruno, December 16, 2003
+Chief of Appeals
+Canada Customs and
+Revenue Agency
+...
+Mr. Alain Landry, I acknowledge receipt of your letter of October 16, 2003, informing me of your appeal [?] concerning the insurability decision for the periods from May 8, 2000, to May 19, 2000, from June 19, 2000, to July 14, 2000, and from August 7, 2000, to August 11, 2000. Decision numbers CE 0326 5141 1156, CE 0326 5141 4229, CE 0326 5141 7179.
+I hereby inform you that I contest your decision and I am appealing it. Because to make a decision like that (punishment), some important points that must be considered have been ignored, in my opinion.
+Of course I wish to attend the hearing in French. I will also be represented by my lawyer, Jérôme Carrier. Please note that I authorize my lawyer, Jérôme Carrier, to have access to the documents concerning my case.
+Contact information for my representative: Jérôme Carrier, lawyer
+...
+[4] The Applicant's letter refers to two important items. The first is that the Applicant was in no way at a disadvantage in terms of how to go about making his argument. Second, he had retained counsel to ensure that the matter proceeded according to the rules.
+[5] On December 16, 2003, it was foreseeable that a decision would be made. The Applicant then terminated the mandate he had given his lawyer.
+[6] An application for extension was made on May 17, 2005, more than 300 days after the decision. The only basis for his application is his contention that he never received the decision. According to the Applicant, the decision made on June 7, 2004, nearly six months after his letter of December 16, 2003, was made without his knowledge.
+[7] The Respondent called Nicole Bérubé, in her capacity as team leader and the person who signed the decision of June 7, 2004. Ms. Bérubé testified that the procedure was simple and reliable, and added that the process was rigorously followed and presented no problems. In the Applicant's submission, the procedure had obviously been ineffective, not only in respect of him, but also in respect of his representative, Jérôme Carrier, who did not testify.
+[8] The Applicant's argument is quite unique, and even implausible, having regard to the evidence presented as to the reliability of the system for sending out decisions.
+[9] Even were I to accept the Applicant's position, which is not the case, I am of the opinion that he could and should have acted earlier. In addition, it was entirely unreasonable to let so much time pass before reacting. His application for review was filed on December 16, 2003, and the decision was made on June 7, 2004.
+[10] He initially had 90 days, and possibly another 90 days, to file an appeal; this would have been nearly a year after his application for review. That lack of diligence, in itself, is sufficient reason to deny his application.
+[11] On the question of time, the Act is very clear:
+Employment Insurance Act
+103. (1) The Commission or a person affected by a decision on an appeal to the Minister under section 91 or 92 may appeal from the decision to the Tax Court of Canada in accordance with the Tax Court of Canada Act and the applicable rules of court made thereunder within 90 days after the decision is communicated to the Commission or the person, or within such longer time as the Court allows on application made to it within 90 days after the expiration of those 90 days.
+(1.1) Section 167, except paragraph 167(5)(a), of the Income Tax Act applies, with such modifications as the circumstances require, in respect of applications made under subsection (1).
+...
+Income Tax Act
+167. (1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+(2) An application made under subsection 167(1) shall set out the reasons why the appeal was not instituted within the time limited by section 169 for doing so.
+...
+(5) No order shall be made under this section unless
+...
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[12] Subsection 103(1) of the Employment Insurance Act ("Act") expressly provides that an application for an extension of time that may be granted by the Tax Court of Canada must be made within 90 days after the expiration of the first 90 days. This is a mandatory time limit that the Court has no power to extend.
+[13] The Applicant therefore had 180 days to apply for an extension of the time he had to appeal to the Tax Court of Canada from the decision dated June 7, 2004.
+[14] Plainly, a person cannot act if he or she does not have knowledge of a decision that concerns him or her. On the other hand, when a person is a party to a proceeding, he or she must demonstrate a minimum of diligence to ensure that the case is proceeding in the normal way.
+[15] In this case, the Applicant was obviously not without resources; he had retained a lawyer to represent him. The fact that the Applicant allowed nearly 300 days to pass before taking any concrete action seems to me to be entirely unreasonable and is in itself grounds for denying the application.
+[16] Parliament has provided for a mandatory time limit in this respect, and I do not have the power to extend that time.
+[17] In fact, the case law is virtually unanimous on this point. Section 103 of the Employment Insurance Act, which governs this case, is in most respects identical to section 70 of the former Unemployment Insurance Act, R.S.C. 1985, c. U-1, which explains why the precedents cited often refer to section 70.
+[18] In Sirois v. Canada (Minister of National Revenue - M.N.R.), [1995] T.C.J. No. 268 (QL), paragraph 4, Léger J. wrote:
+[TRANSLATION] I am not the one who makes the law, and it has been interpreted in the case law, which confirms that the Tax Court of Canada cannot extend that 90-day limit.
+[19] In Godin v. Canada(Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 706 (QL), paragraph 7, Somers J. said:
+[TRANSLATION] [I]n fact no good reason was offered to explain the delay. In the circumstances, the Court cannot grant an extension of time for appealing.
+[20] There are a number of other judgments to the same effect, including Murty v. Canada(Minister of National Revenue - M.N.R.), [1996] T.C.J. No. 1595 (QL).
+[21] Over the years, various arguments have been made in attempts to reverse those precedents.
+[22] For instance, it has been argued that form should not prevail over substance. Subsection 27(3) of the Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act, SOR/60-690, was argued, unsuccessfully, in Letemplier v. Canada (Minister of National Revenue - M.N.R.), [1995] T.C.J. No. 1709 (QL). In Pye v. Canada(Minister of National Revenue - M.N.R.), [1995] T.C.J. No. 1248 (QL), paragraph 3, Taylor J. said:
+There may be circumstances under which Section 27(3) of the Tax Court Act Rules (above) could be used to provide certain relief, but I am not persuaded that this simple application - and the lack of regular compliance with the 90 day limitation is one of those. Even if there existed substantial evidence of a real attempt to file by the Applicant - and it was not demonstrated in Court - that would not be of value in overcoming the time limit under Section 70(1) of the Act.
+[23] As well, article 2904 of the Civil Code of Québec, S.Q. 1991, c. 64, has also been cited, to interrupt the prescription because it was impossible to act. Unfortunately, that argument was not accepted, because while the Civil Code of Québec is indeed the jus commune for matters of civil law, it is not so for public law. In Dumoulin v. Canada(Minister of National Revenue - M.N.R.), [1998] T.C.J. No. 943 (QL), paragraphs 24-25, Archambault J. wrote:
+It involves the application of legislation passed by the Parliament of Canada ... . It does not involve a civil law matter ... . I also do not consider it necessary or appropriate to apply article 2904 C.C.[Q.], since Parliament has already set out the procedure to be followed if an affected person would like to have the time limit for appealing extended.
+[24] Subsection 70(1) of the Unemployment Insurance Act does not grant discretionary powers. It establishes a strict procedure, which limits the time for appealing to 90 days (now 180 days), thus firmly closing the door to any judgment based on "equity".
+[25] Where a time is stated or defined in a statute, each day is counted: Horowitz v. M.N.R., 62 DTC 1038; Lamarre v. Canada (Minister of National revenue - M.N.R.), [1997] T.C.J. No. 1063 (QL), paragraph 9; Chouinard v. Canada (Minister of National Revenue - M.N.R.), [1996] T.C.J. No. 1026 (QL).
+[26] In addition, the requirement that the Rules be "liberally construed" has also been cited, to ensure that [TRANSLATION] "the persons concerned are able to exercise their rights under subsection 5(1)".[1]
+[27] Lamarre Proulx J. did not accept that argument, relying on the decision of the Federal Court of Canada in Canada v. Blais, 64 N.R. 378, paragraphs 8 and 10, in which the issue was a mandatory time limit that could not be extended at the discretion of the Court, and adding that [TRANSLATION] "[a] regulation obviously cannot amend legislation".
+[28] As Léger J. rather colourfully remarked in Landry v. Canada(Minister of National Revenue - M.N.R.), [1993] T.C.J. No. 98 (QL), paragraph 18:
+[TRANSLATION] And so I'm sorry, but I am bound by the decisions of the Court. You see, this is so that there will be an end to it. ... [I]f you do not do it within 90 days, then goodbye, it's over and it's final. You are not entitled to be heard.
+[29] In conclusion, the Act is very clear on what will happen to an application for an extension that is not made within the 180 days.
+[30] For all these reasons, the application for an extension of time is dismissed.
+Signed at Ottawa, Canada, this 18th day of October 2005.
+"Alain Tardif"
+TardifJ.
+Translation certified true
+on this 31st day of March, 2006.
+J. Poirier
+CITATION: 2005TCC648
+DOCKET No.: 2005-1847(EI)APP
+STYLE OF CAUSE: Pierre Lebrun and M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 5, 2005
+REASONS FOR ORDER BY: The Honourable Justice Alain Tardif
+DATE OF ORDER: October 18, 2005
+APPEARANCES:
+Counsel for the appellant:
+Yves Savard
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the appellant:
+Name: Yves Savard
+Firm: Savard, Pigeon
+City: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tax Court of Canada Rules of Procedure respecting the Employment Insurance Act, SOR/60-690.

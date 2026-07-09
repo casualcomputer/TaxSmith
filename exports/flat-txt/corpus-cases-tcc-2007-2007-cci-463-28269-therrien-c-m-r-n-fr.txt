@@ -1,0 +1,149 @@
+Title: Therrien c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28269/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-463-28269-therrien-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-09-07
+
+# Therrien c. M.R.N.
+
+- Citation: 2007 CCI 463
+- Decision date: 2007-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2050, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Therrien c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-07
+Référence neutre
+2007 CCI 463
+Numéro de dossier
+2007-851(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-851(EI)
+ENTRE :
+GAËTAN THERRIEN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 2 août 2007, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Marie‑Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi concernant l'emploi exercé par l'appelant pour la société Développements Beaurivage inc., est rejeté et la décision du ministre du Revenu national, à l’effet que le travail exécuté par l’appelant, pendant la période du 20 mai au 22 décembre 2001, n’était pas un travail exécuté dans le cadre du contrat de louage de services, est confirmée.
+Signé à Ottawa, Canada, ce 27ième jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI463
+Date : 20070907
+Dossier : 2007-851(EI)
+ENTRE :
+GAËTAN THERRIEN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit de l’appel d’une décision en vertu de laquelle il a été statué que le travail exécuté par l’appelant, pendant la période allant du 20 mai au 22 décembre 2001, pour le compte de la société payeuse Développements Beaurivage inc., n’était pas un travail assurable.
+[2] Selon l’intimé, l’appelant exploitait, pendant cette période, sa propre entreprise en contrôlant de facto la totalité des actions de la société.
+[3] Pour prendre sa décision, l’intimé a tenu pour acquis les faits suivants :
+a) le payeur a été constitué en société le 26 mars 1996;
+b) l’appelant avait constitué la société, sans but non lucratif, pour un projet touristique qui ne s’est pas réalisé;
+c) l’appelant a cédé ses actions de la société, dans un premier temps, à Basile Bona et par la suite, selon le registraire des entreprises, Cidreq matricule 1149076946, l’actionnaire majoritaire du payeur était Gonzague Boily et l’actionnaire au deuxième rang était Nicole Gauthier;
+d) Nicole Gauthier était la conjointe de fait de l’appelant;
+e) Gonzague Boily, ingénieur retraité, est décédé le 11 février 2003;
+f) selon Nicole Legendre, veuve de Gonzague Boily, il aurait répondu à une annonce du payeur demandant un ingénieur civil;
+g) selon le registraire des entreprises, Cidreq matricule 1145639226, les administrateurs du payeur étaient l’appelant et ses deux fils Rémy Therrien et Daniel Therrien;
+h) l’appelant a déclaré à un représentant de l’intimé que ses fils n’avaient pas d’implication dans le payeur;
+i) au cours de la période en litige, le payeur exploitait une entreprise de [sic] d’entretien et de réparation de routes;
+j) le payeur a émis 17 relevés T-4 pour l’année 2001;
+k) l’appelant était conducteur et opérateur de machinerie lourde;
+l) l’appelant avait exploité une société d’excavation, Dan-My Inc. qui avait fait faillite;
+m) le 10 novembre 1998, l’appelant a fait une faillite personnelle et il n’avait plus droit d’exploiter une entreprise jusqu’en 2003;
+n) pour être en exploitation, l’entreprise du payeur avait besoin d’un répondant pour obtenir une licence d’opération;
+o) Gonzague Boily, ingénieur, qualifiait l’appelant pour la licence d’opération;
+p) le 27 septembre 2006, Nicole Legendre déclarait à un représentant de l’intimé que pour son mari son travail pour le payeur n’était pas un travail régulier, il n’allait pas sur les chantiers et que l’appelant était le propriétaire de l’entreprise;
+q) selon l’appelant, il travaillait comme contremaître pour le payeur;
+r) selon l’appelant, ses tâches consistaient à donner les niveaux, les alignements au laser et à gérer les chantiers;
+s) en réalité l’appelant prenait toutes les décisions pour le payeur;
+t) l’appelant signait les chèques du payeur;
+u) l’appelant avait signé une caution personnelle pour la compagnie qui assurait le payeur;
+v) un simple employé n’aurait pas cautionné le payeur;
+w) les bureau [sic] du payeur étaient situés à la résidence de l’appelant;
+x) l’appelant n’exigeait aucun loyer ou compensation financière pour les locaux mis à la disposition du payeur;
+y) l’appelant mettait à la disposition du payeur un camion d’une valeur d’environ 15 000 $ et un compacteur d’une valeur d’environ 10 000 $;
+z) l’appelant n’exigeait aucun loyer ou compensation financière pour les équipements mis à la disposition du payeur;
+aa) un simple employé n’aurait pas fourni un local et des équipements sans contrepartie;
+bb) Marie-Pier Gagnon a été embauché [sic] par le payeur comme secrétaire d’août à décembre 2001;
+cc) le 27 septembre 2006, Marie-Pier Gagnon déclarait à un représentant de l’intimé qu’elle a été engagée par l’appelant, que l’appelant lui donnait des directives, que l’appelant signait les chèques du payeur et que l’appelant était le patron de l’entreprise;
+dd) aucun élément au dossier n’établit un lien de subordination entre l’appelant et le payeur;
+ee) l'appelant était l’âme dirigeante du payeur et son ascendant sur le payeur est tel qu’il ne pouvait exister ce rapport d’indépendance nécessaire à la création d’un véritable lien de subordination entre les parties.
+[4] Parmi ces faits, l’appelant a admis les alinéas b), d), e), g), h), k), l), m), n), q), r), t), u), w), x), y) et z). Il n'a ni admis, ni nié les alinéas f), j), p), v), aa) et bb), et il a nié les alinéas a), i), s), cc), dd) et ee)
+[5] Seul l’appelant a témoigné au soutien de son dossier. Vif, articulé et manifestement bien préparé, l’appelant a soumis une importante preuve documentaire.
+[6] Pour éviter d'avoir à entendre des explications inutiles et non pertinentes, j’ai expliqué à l’appelant que la preuve devait essentiellement porter sur la période en question et concerner la façon dont le travail avait été exécuté de manière à ce que cette même preuve puisse contenir tous les éléments nécessaires pour aider la Cour à décider si le travail avait été exécuté ou non dans le cadre d’un contrat de louage de services.
+[7] L’appelant a fait valoir qu’il avait demandé et obtenu des prestations d’assurance‑emploi une seule fois dans sa vie et que ces prestations avaient été obtenues à la suite du travail en question, ajoutant que cela démontrait sa bonne foi, mais aussi son droit à de telles prestations.
+[8] L’appelant a manifestement très bien compris les explications que je lui ai fournies au sujet des exigences requises pour établir l'existence d’un contrat de louage de services.
+[9] En l’espèce, il s’agit principalement de déterminer s’il existait un lien de subordination entre l’appelant et la compagnie qui assumait la responsabilité de la rémunération.
+[10] Avant la période en question, l’appelant avait connu de graves problèmes financiers au point où il a dû faire cession de ses biens. Le statut de failli l’empêchait d’avoir les autorisations, permis ou attestations lui permettant d’exploiter une entreprise liée aux infrastructures, tels les routes, le réseau d’aqueduc etc., et ce, même s’il avait l’expertise et l’expérience nécessaires pour exploiter une telle entreprise.
+[11] L'appelant a ainsi expliqué avoir rencontré monsieur Basile Bona qui avait ce qu’il n’avait pas pour exploiter le genre d’entreprise dans laquelle il avait toujours œuvré et ce, même s’il possédait expérience et expertise.
+[12] Monsieur Bona n'ayant pas témoigné, il n’a pas été possible d’obtenir sa version des faits. Il eût été intéressant d'entendre sa version des faits, d'autant plus que l'enquêteur responsable du dossier a fait état, dans son témoignage, que monsieur Bona avait obtenu des relevés d'emploi établis par des sociétés que l'appelant contrôlait, contredisant ainsi les explications de l'appelant quant aux circonstances ayant mené à leur rencontre et aux liens qu'ils entretenaient. Il aurait été un témoin d’une très grande utilité.
+[13] Quant à l’absence de monsieur Gonzague Boily, autre acteur très important qui aurait pu faire la lumière sur les faits et circonstances ayant entouré l'exécution du travail, elle ne peut être imputée à l’appelant puisque monsieur Boily est décédé. La preuve a cependant révélé plusieurs faits très pertinents pour déterminer la nature du contrat de travail litigieux; je fais notamment référence à ce qui suit :
+· Les prétentions et représentations de l’appelant auprès de tiers quant à son statut d’entrepreneur général.
+· Le pouvoir de l’appelant de signer des chèques.
+· Le fait qu’il aurait mis à la disposition de son employeur les locaux administratifs sans exiger de frais ou de loyer.
+· Le fait qu’il utilisait également sans compensation un camion dont la valeur était relativement importante.
+· Le fait qu’il utilisait un compacteur sans compensation.
+· Les explications, commentaires et observations de mademoiselle Gagnon à l’effet que l’appelant exploitait sa propre entreprise.
+· Les circonstances non éclaircies de la signature contrefaite de mademoiselle Gagnon sur un relevé d’emploi.
+· Les différences importantes dans la version des témoignages sur la qualité de la relation entre l’appelant et monsieur Bona. L’appelant a affirmé avoir rencontré de façon fortuite monsieur Bona, ce dernier possédant ce qu’il ne pouvait avoir pour exploiter une entreprise. Le responsable du dossier a plutôt indiqué que l’appelant et monsieur Bona se connaissaient très bien et qu’en outre monsieur Bona avait reçu des relevés d’emploi d'une ou de plusieurs sociétés que l’appelant contrôlait.
+[14] La conjointe de monsieur Gonzague Boily, madame Nicole Legendre, a affirmé que son conjoint décédé avait rencontré l’appelant à la suite de la parution d'une annonce dans un journal au moment où il tentait de se trouver un travail comme consultant à temps partiel après avoir pris sa retraite de la fonction publique.
+[15] Conjointe durant plus de 40 ans dudit Gonzague Boily, elle a affirmé ne rien savoir quant à la participation de ce dernier dans la société. Elle est profondément convaincue que l'appelant était le seul maître à bord de cette entreprise. Selon elle, son conjoint n’était pas le principal intéressé dans cette société qui était plutôt l’affaire de l’appelant.
+[16] Même si la preuve est incomplète, je crois qu’il est plus raisonnable de retenir la version des faits de madame Nicole Legendre que celle de l’appelant; en effet, comment croire une version selon laquelle un individu à la retraite cherchant un travail à temps partiel devient soudainement actionnaire principal d’une société?
+[17] D’ailleurs, cette interprétation des faits est tout à fait conforme aux circonstances entourant le départ de monsieur Gonzague Boily. En effet, l'appelant a lui-même affirmé, qu'un bon matin, monsieur Boily a décidé de se retirer de la société. Pour ce faire, il a envoyé une simple lettre où il exprimait son intention de quitter la société. La lettre ne mentionne rien au sujet de la vente de ses actions, aucun protocole ou condition pour régler la question des engagements financiers, des cautions, des travaux en cours et, ingénieur de formation, fonctionnaire à la retraite, les faits et circonstances de son départ, décrites par l’appelant lui-même, sont totalement incohérentes avec les prétentions de l’appelant à l’effet que le même individu était actionnaire principal, seul gestionnaire et seul patron quant à ses faits et gestes.
+[18] Il est raisonnable de conclure que monsieur Boily avait été un actionnaire de complaisance découvert par l’appelant qui l’avait, de toute évidence, embarqué dans son aventure.
+[19] Enfin, strictement rien dans la preuve ne permet de conclure qu’il existait un quelconque lien de subordination entre l’appelant et la société qui lui payait une rémunération.
+[20] Par ailleurs, je ne crois pas que le montage a été pensé, élaboré et mis en place pour permettre à l’appelant de devenir admissible à des prestations d’assurance‑emploi.
+[21] Il a plutôt voulu organiser ses affaires pour continuer ses activités d’entrepreneur général à une période où son statut de failli l'en empêchait.
+[22] Réalisant la façon dont les documents étaient faits, il a vite compris qu’il pouvait ainsi obtenir des prestations d’assurance-emploi, il a ainsi profité de l'occasion qui se présentait étant donné que tous les documents étaient à l'effet que son statut en était un de contremaître salarié essentiellement.
+[23] Le fait que la question de l’assurabilité soit un élément secondaire ne change rien au fait qu’il n’était pas un véritable salarié, sauf aux termes de documents qui ne reflétaient aucunement la situation véritable.
+[24] La qualification de la nature d’un contrat de travail se fait non pas à partir de documents possiblement faits dans le cadre d'un trompe l'œil, mais essentiellement à partir des éléments et circonstances caractérisant la façon dont le travail a été exécuté.
+[25] En l’espèce, il n’y a aucun doute que l’appelant exploitait sa propre entreprise sous le couvert d’une société bidon qu’il contrôlait parce qu'il avait un ascendant évident sur ceux et celles qui avaient accepté d’agir comme actionnaires de complaisance.
+[26] Pour toutes ces raisons, l’appel est rejeté et la décision du ministre, à l’effet que le travail exécuté par l’appelant au service de la société Développements Beaurivage inc., pendant de la période du 20 mai au 22 décembre 2001, n’était pas un travail exécuté dans le cadre d'un contrat de louage de services est confirmée.
+Signé à Ottawa, Canada, ce 27ième jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI463
+Nº DU DOSSIER DE LA COUR : 2007-851(EI)
+INTITULÉ DE LA CAUSE : GAËTAN THERRIEN ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 2 août 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 27 septembre 2007
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

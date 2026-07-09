@@ -1,0 +1,166 @@
+Title: Shieh c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/317260/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-154-317260-shieh-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-07-30
+
+# Shieh c. La Reine
+
+- Citation: 2018 CCI 154
+- Decision date: 2018-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4912, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shieh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-30
+Référence neutre
+2018 CCI 154
+Numéro de dossier
+2016-1147(GST)I, 2016-904(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2016-1147(GST)I
+2016-904(IT)I
+ENTRE :
+CATHERINE SHIEH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 21 juin 2018, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+Michael Shieh
+Avocate de l’intimée :
+Me Kayla Baldwin
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie aux termes de la Loi de l’impôt sur le revenu à l’égard de l’avis de cotisation numéro 2577542, daté du 18 mars 2014, est rejeté.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi sur la taxe d’accise à l’égard de l’avis de nouvelle cotisation numéro 2577501, daté du 17 mars 2014, est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2018.
+« Campbell J. Miller »
+Le juge C. Miller
+Référence : 2018 CCI 154
+Date : 20180730
+Dossiers : 2016-1147(GST)I
+2016-904(IT)I
+ENTRE :
+CATHERINE SHIEH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Catherine Shieh interjette appel de deux décisions, soit celle rendue à l’égard de la nouvelle cotisation établie par le ministre du Revenu national (le ministre) conformément à l’article 325 de la Loi sur la taxe d’accise (la LTA) pour une somme de 15 600,25 $ et celle rendue à l’égard de la cotisation établie par le ministre du Revenu national conformément au paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « LIR »); les deux affaires ont trait au transfert d’un bien à l’appelante par le fils de cette dernière, Michael Shieh, en mars 2004.
+[2] Les dispositions en cause sont en partie rédigées ainsi :
+LTA
+325(1) La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A
+représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B
+l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+(3) Dans le cas où le cédant et le cessionnaire sont solidairement responsables de tout ou partie d’une obligation du cédant en vertu de la présente partie, les règles suivantes s’appliquent :
+a) un paiement fait par le cessionnaire au titre de son obligation éteint d’autant leur obligation;
+b) un paiement fait par le cédant au titre de son obligation n’éteint l’obligation du cessionnaire que dans la mesure où il sert à ramener l’obligation du cédant à un montant inférieur à celui dont le paragraphe (1) a rendu le cessionnaire solidairement responsable.
+(5) Au présent article, l’argent est assimilé à un bien.
+LIR
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[3] Il y a quatre conditions à respecter pour que le ministre invoque avec succès ces dispositions en vue d’établir une cotisation à l’égard de Catherine Shieh, la cessionnaire de biens, solidairement avec Michael Shieh, le cédant, relativement à l’établissement de la dette au titre de la LTA et de la LIR (appelées collectivement les « lois ») :
+Michael Shieh doit être tenu de payer un montant en application des lois au moment du transfert du bien;
+il doit y avoir transfert d’un bien;
+entre personnes ayant un lien de dépendance;
+la juste valeur marchande du bien doit être supérieure à la contrepartie que Catherine Shieh a donnée à Michael Shieh, d’au moins un montant excédant la dette de Michael Shieh.
+I. DETTE
+[4] Michael Shieh ne nie pas qu’il devait de l’argent au ministre aux termes des deux lois. Il soutient cependant qu’il avait remboursé la totalité de ce qu’il devait. Il m’a expliqué ses calculs, et il était clair qu’en déterminant qu’il avait remboursé la totalité de ce qu’il devait, il n’avait pas tenu compte de la partie liée aux intérêts et aux pénalités de la dette. Le calcul du montant en souffrance était complexe en raison de deux situations subséquentes : premièrement, un règlement a été conclu entre les parties en 2012, et deuxièmement, un allègement des intérêts avait été accordé en 2015. De plus, Michael Shieh a fourni des annexes de l’Agence du revenu du Canada (l’ARC) indiquant qu’un montant d’environ 6 000 $ représentant une dette au titre de la TPS qu’il croyait faire partie du règlement, n’avait pas diminué la dette aux termes de la LTA. Je ne suis pas étonné que Michael Shieh ait éprouvé une certaine confusion quant au montant dont il était redevable. La question clé que la Cour doit trancher est celle de savoir si Catherine Shieh a une obligation aux termes des lois, et non celle de déterminer le montant exact de la dette. Pour que cette condition soit remplie, l’obligation devait exister au moment du transfert, en 2004. Michael Shieh n’a pas nié qu’au moment du transfert du bien, il avait bien contracté une dette aux termes des lois. Cela suffit à satisfaire à la première condition.
+II. TRANSFERT DE BIENS
+[5] Il n’est pas contesté qu’il y a eu transfert d’un bien (3591 Ulsmore Avenue, à Richmond [C.-B.]) de Michael Shieh en faveur de Catherine Shieh en novembre 2004. Michael Shieh avait acquis la propriété en1998, avec l’aide de ses parents qui ont versé le paiement initial. Il a vécu dans cette maison pendant une courte période avant de déménager aux États-Unis, et par la suite, son frère a vécu dans le bien.
+[6] Pour expliquer le transfert du bien à sa mère, Michael Shieh a dit qu’il voulait donner à ses parents l’occasion de construire la maison de leurs rêves, et qu’il souhaitait leur rendre le soutien que ces derniers lui avaient offert pendant plusieurs années. J’estime que ces motifs ne sont pas très clairs, puisque ses parents ne se sont pas installés dans la maison de façon permanente ayant déjà une résidence. Michael Shieh a déclaré que sa mère a vécu dans la maison pendant une brève période, mais que son frère y a également vécu pendant un certain temps. La maison est également demeurée vacante pendant une certaine période. Les explications fournies par Michael Shieh quant à cet arrangement manquaient de clarté.
+[7] De toute façon, la deuxième condition est remplie.
+III. ENTRE PERSONNES AYANT UN LIEN DE DÉPENDANCE
+[8] Nul ne conteste le fait que le transfert a été effectué du fils à la mère, entre personnes ayant un lien de dépendance.
+IV. LA JUSTE VALEUR DU BIEN ÉTAIT-ELLE SUPÉRIEURE À LA CONTREPARTIE PAYÉE PAR CATHERINE SHIEH?
+[9] Il n’est également pas contesté que la juste valeur marchande du bien au moment du transfert, en novembre 2004, était de 302 000 $. Le ministre a reconnu que Catherine Shieh avait pris en charge le solde du prêt hypothécaire s’élevant à 160 725 $. À l’audience, il a été établi que le solde du prêt hypothécaire était en fait moins élevé, soit de 132 000 $.
+[10] Au moment du transfert, Catherine Shieh a signé une quittance ainsi libellée :
+[traduction] « Je soussignée, Catherine Shieh, domiciliée au 3591 Ulsmore Avenue, à Richmond (Colombie-Britannique), en contrepartie du transfert du bien en ma faveur [...] par mon fils Michael Shieh, en remboursement d’une dette totalisant environ 200 000 $ (dont la réception et la suffisance sont par les présentes reconnues), en mon propre nom et au nom de mes héritiers, exécuteurs, administrateurs, successeurs et ayants droit, libère par les présentes de façon permanente Michael Shieh […] »
+[11] Dans une lettre du cabinet d’avocats Campbell Froh May & Rice LLP adressée à Michael Shieh le 8 novembre 2004, il était indiqué ce qui suit :
+[traduction] « Nous confirmons votre visite récente à nos bureaux afin de signer les documents de transfert relatifs au bien en question en faveur de votre mère, en contrepartie de la remise du montant d’argent que vous lui deviez, soit environ 200 000 $, et de sa prise en charge du solde impayé à la Banque de Montréal sur le prêt hypothécaire […] »
+[12] Michael Shieh a déclaré que la dette de 200 000 $ mentionnée dans le document de transfert comprenait les prêts suivants :
+Prêt d’études 69 000 $
+Prêt automobile 26 500 $
+Prêt à l’entreprise 60 000 $
+Prêt personnel 18 200 $
+Prêt hypothécaire et impôts fonciers16 000 $
+Prêt pour frais juridiques 10 000 $
+[13] Michael Shieh n’a pas été en mesure de fournir des pièces justificatives à l’appui de ces prêts, à part un montant d’argent d’environ 10 000 $ qui apparaissait sur le registre des chèques de ses parents pour la période comprise entre 1993 et 2001. Catherine Shieh et son mari n’ont pas témoigné. Catherine Shieh ne parle pas bien anglais, elle est âgée et souffre de la maladie d’Alzheimer. Michael Shieh a déposé un affidavit non assermenté daté du 5 juin 2015 souscrit par ses parents que je ne reconnaîtrais pas en temps normal étant donné qu’il constitue une preuve par ouï-dire inadmissible, mais dans les circonstances, je suis disposé à en tenir compte. Catherine Shieh confirme qu’elle et son époux ont [traduction] « soutenu financièrement [leur] fils, Michael Shieh, pendant plusieurs années », [traduction] « nous l’avons aidé lorsqu’il est allé à l’Université de la Colombie-Britannique », [traduction] « nous l’avons aidé pour son cabinet comptable », [traduction] « nous l’avons aidé à acheter une BMW d’occasion », [traduction] « nous avons payé son prêt hypothécaire et ses impôts fonciers » et [traduction] « avons payé les frais juridiques ». Ils n’ont mentionné nulle part que l’aide financière était sous forme de prêt censé être remboursé.
+[14] Michael Shieh a reconnu que le soutien financier n’était documenté d’aucune façon et qu’il n’était assorti d’aucune modalité de remboursement. Il s’agissait d’un arrangement familial. Selon lui, les parents s’attendent à ce que leurs enfants les remboursent. Il confirme n’avoir jamais effectué de remboursements, à part le transfert du bien à sa mère.
+[15] L’avocate de l’intimée m’a renvoyé à une certaine jurisprudence traitant du fardeau de démontrer la contrepartie payée pesant sur un contribuable. Même si le témoignage de vive voix constitue une certaine preuve, il convainc davantage lorsqu’il est corroboré par un témoignage indépendant, ou, à défaut, par tout autre témoignage oral (en l’espèce, le père de Michael Shieh aurait pu témoigner), de même que par certaines pièces justificatives (par exemple, les documents de prêt – bien que je reconnaisse que ce soit plutôt rare dans les arrangements familiaux), des relevés bancaires, des documents attestant du montant du prêt, des chèques annulés – honnêtement, n’importe quel document serait utile. Michael Shieh n’a pas été en mesure de présenter d’autres éléments de preuve, à part son témoignage et l’affidavit souscrit par ses parents.
+[16] Je tire les conclusions suivantes de ces éléments de preuve :
+Les parents de Michael Shieh ont soutenu financièrement ce dernier sur les plans de l’éducation, professionnel, personnel et juridique.
+L’ampleur du soutien n’a pas été établie de façon certaine.
+Le soutien correspond à ce à quoi Michael Shieh s’attend d’un parent.
+Il n’y avait aucune obligation de rendre le soutien offert, à part une obligation morale et familiale suscitant une sorte d’espoir.
+[17] Bien que je comprenne le point de vue de Michael Shieh selon lequel un enfant doit rendre à ses parents le soutien qu’ils lui ont fourni, je ne suis pas d’avis que ce soit la contrepartie prévue dans les dispositions pertinentes des lois. La responsabilité morale est difficile à quantifier et il est difficile de la cerner concrètement. Je conclus que Catherine Shieh est solidairement responsable avec Michael Shieh aux termes des lois.
+[18] Je reconnais que Michael Shieh n’a pas été convaincu que l’ARC avait correctement calculé la somme en souffrance; il s’agit effectivement d’une cible changeante. Cependant, il s’agit d’une question de recouvrement. Catherine Shieh est responsable des sommes que Michael Shieh devait au moment du transfert du bien, moins les paiements effectués par ce dernier en diminution de la dette. De tels paiements réduiront la dette à laquelle sa mère est maintenant exposée. Le montant en souffrance doit être établi entre Michael Shieh et l’ARC : il n’appartient pas à la Cour d’agir comme comptable afin de déterminer la dette restante. Je note cependant la préoccupation de Michael Shieh concernant le transfert de 6 000 $, soit la valeur de la dette au titre de la TPS pour les années d’imposition 1998, 1999, 2000, 2001 et 2002. Il croyait comprendre que ces montants devaient tous être retranchés dans le contexte du règlement. J’estime qu’il s’agit là d’une question que les parties devront étudier plus à fond pour convaincre Michael Shieh que la dette a été calculée correctement.
+[19] Le mandat de la Cour consiste à déterminer si Catherine Shieh est solidairement responsable, et j’ai conclu qu’elle l’est, quel que soit le montant exact en souffrance.
+[20] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2018.
+« Campbell J. Miller »
+Le juge C. Miller
+RÉFÉRENCE :
+2018 CCI 154
+NOS DES DOSSIERS DE LA COUR :
+2016-1147(GST)I, 2016-904(IT)I
+INTITULÉ :
+CATHERINE SHIEH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 21 juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 30 juillet 2018
+COMPARUTIONS :
+Représentant de l’appelante :
+Michael Shieh
+Avocate de l’intimée :
+Me Kayla Baldwin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

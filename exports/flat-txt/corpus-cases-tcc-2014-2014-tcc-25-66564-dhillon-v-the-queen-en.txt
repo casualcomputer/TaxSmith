@@ -1,0 +1,185 @@
+Title: Dhillon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66564/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-25-66564-dhillon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-01-23
+
+# Dhillon v. The Queen
+
+- Citation: 2014 TCC 25
+- Decision date: 2014-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5998, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhillon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-23
+Neutral citation
+2014 TCC 25
+File numbers
+2013-2826(IT)I, 2013-3201(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2826(IT)I
+BETWEEN:
+JASWINDER DHILLON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Ravinderjit Dhillon 2013-3201(IT)I
+on January 15, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexandra Humphrey
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004, 2005 and 2006 taxation years is dismissed.
+Signed at Ottawa, Canada, this 23rd day of January, 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2013-3201(IT)I
+BETWEEN:
+RAVINDERJIT DHILLON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Jaswinder Dhillon 2013-2826(IT)I
+on January 15, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Jaswinder Dhillon
+Counsel for the Respondent:
+Alexandra Humphrey
+Tony Cheung
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2003, 2004, 2005 and 2006 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) she is entitled to deduct child care expenses of $4,000 in 2003, 2004 and 2005; and
+(b) the gross negligence penalties imposed in 2003, 2004, 2005 and 2006 are to be deleted.
+In all other respects, the Appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 23rd day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation : 2014TCC25
+Date: 20140123
+Docket: 2013-2826(IT)I
+BETWEEN:
+JASWINDER DHILLON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-3201(IT)I
+AND BETWEEN:
+RAVINDERJIT DHILLON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The appeals of Jaswinder Dhillon and Ravinderjit Dhillon were with respect to the reassessment of their 2004 to 2006 taxation years in which the Minister of National Revenue (the “Minister”) disallowed their claim for non-refundable tax credits in respect of alleged charitable donations.
+[2] The appeal of Ravinderjit Dhillon also involved the disallowance of child care expenses in her 2003 to 2006 taxation year. However, at the beginning of the hearing, the Respondent conceded the child care expenses for the 2003 to 2005 taxation years and the gross negligence penalties which had been imposed in the 2003 to 2006 taxation years in respect of the child care expenses.
+[3] The issues at the hearing of these appeals were:
+(a) Whether the Appellants made charitable donations in the following amounts to the following charities:
+Jaswinder Dhillon
+Ravinderjit Dhillon
+Charity
+2004
+$9,500
+$5,004
+Whit-Tee Youth Shelter Inc.
+2005
+14,500
+3,500
+Whit-Tee Youth Shelter Inc.
+2006
+5,100
+Whit-Tee Youth Shelter Inc.
+2006
+5,005
+1,855
+New Hope for Africa
+(b) In the alternative, whether the receipts for the alleged charitable donations satisfied the requirements of section 118.1 of the Income Tax Act (“Act”) and sections 3500 and 3501 of the Income Tax Regulations (“Regulations”); and
+(c) Whether Ravinderjit Dhillon paid child care expenses of $4,000 in 2006.
+[4] The appeals were heard on common evidence and both Appellants gave evidence. The Respondent called four witnesses – Staff Sergeant Roy Steinebach, RCMP; Rita Hirchliffe, Appeals Officer with the Canada Revenue Agency (“CRA”); Neal Swietlinski, investigator and auditor with the CRA; and, Tracey Cooper, Litigation Officer with the CRA.
+Charitable Donations
+Facts
+[5] The Appellants are spouses of one another. It was Ravinderjit Dhillon’s evidence that her spouse handled the preparation of their tax returns for each of the years under appeal. Jaswinder Dhillon stated that their 2004 tax returns were prepared by someone named Steve who was in the same building as Orbit Financial Services (“Orbit”) but Steve was not employed by Orbit. In 2005 and 2006, their tax returns were prepared by someone whose name he couldn’t remember. This person was located in the same building as the Tax Help Centre but was not employed by it.
+[6] The evidence disclosed that the Appellants’ 2004 income tax returns were e-filed using the e-file agent number D6302 which was registered to E.S. Services/Evelyn Serwaah. The evidence established that Isaac Amoako (“Amoako”) and Orbit filed some of its clients’ income tax returns by using the e-file agent number for E.S. Services (see exhibit R-32). Amoako was a director and officer of Orbit.
+[7] Amoako and Orbit were convicted of preparing and filing false income tax returns in which they claimed fraudulent charitable tax donations on behalf of their clients in the 2004 to 2006 taxation years.
+[8] The Appellants’ 2005 income tax returns were e-filed using the number E7117. That number was registered to SuSu Financials at 222-350 Rutherford Rd. South in Brampton and its contact person was Frank Osei. Mr. Osei was an associate of William Ankomah (“Ankomah”) who was with the Tax Help Centre. The address for the Tax Help Centre was the same as that of SuSu Financials.
+[9] Sergeant Roy Steinebach testified that a search warrant was executed by the RCMP and CRA against the Tax Help Centre and Ankomah on May 31, 2007. They seized documents, electronic data and computers from Ankomah. The documents included blank receipt books and letterhead for Whit-Tee Youth Shelter Inc. (“Whit-Tee”), New Hope for Africa (“New Hope”) and other charities. They found books which showed that Ankomah charged his clients 10% of the amount on the charitable donation receipt for the preparation and filing of their tax returns. The electronic data contained approximately 6000 tax records which the CRA later used for reassessment purposes.
+[10] After the search, the RCMP interviewed 23 clients of Ankomah. These clients stated that Ankomah offered to file their returns claiming false charitable tax donations; they did not receive the charitable donation receipts when their tax returns were prepared; they were not told the name of the charity which was used; and, they did not make the charitable donations claimed in their tax returns. They paid Ankomah 10% of the amount of the alleged charitable donation. I note that the Appellants were not interviewed by the RCMP.
+[11] Ankomah was convicted of fraud in respect of preparing and filing false income tax returns in which he claimed fraudulent charitable tax donations on behalf of his clients.
+[12] Rita Hirchliffe stated that she received a disc which had been seized from Ankomah. It contained all of the Appellants’ tax information for the 2005 and 2006 taxation years.
+[13] The Appellants’ 2006 tax returns were paper filed with the Minister.
+[14] The Appellants claimed that they made the charitable donations listed in paragraph 3(a) above in cash. It was Mr. Dhillon’s evidence that he went to Whit-Tee five or six times a year to personally deliver the cash. In 2004, he gave the money to a man called Dave; in 2005 he gave the cash to Dave or Oscar; in 2006 he dealt with Oscar. He stated that he didn’t receive a receipt for the money at the time he gave it; but, he personally kept track of his donations in a book he kept at his home. Mr. Dhillon also stated that he received the 2004 receipts in early 2005 and the 2005 receipts in early 2006. In 2004 and 2005, he delivered the cash to Whit-Tee’s office at 2095 Weston Road and in 2006 he delivered the cash to the office Whit-Tee had in a warehouse on Millcreek Road in Mississauga. New Hope and Whit-Tee were located in the same warehouse. At New Hope, he gave his money to Steve.
+[15] In support of his evidence, Mr. Dhillon submitted bank records which showed that he had made various cash withdrawals from his bank account.
+Analysis
+[16] It is my view that the Appellants have not given any credible evidence to demonstrate that they made charitable donations to Whit-Tee or New Hope. The bank records (exhibits A-1, A-2, and A-3) showed that the Appellants withdrew cash from their joint bank account or their parents’ bank account. There was no documentary evidence to connect the withdrawal of the cash with the alleged charitable donations. Although Mr. Dhillon stated that he kept personal records of his cash donations in a book, he did not bring that book to court with him. In addition, I find it difficult to believe that the Appellants would give $44,464 in cash over a three year period to people whose names they did not know and not receive a receipt for the cash at the time it was given.
+[17] I find that Mr. Dhillon was not credible. It was his evidence that he learned about Whit-Tee from a salesman at a Mercedes Benz dealership. He didn’t know the salesman’s name. He allegedly attended at Whit-Tee’s office on Weston Road in 2004 and 2005; but, records showed that Whit-Tee did not have an office on Weston Road until August 11, 2005. He allegedly went to Whit-Tee’s office on Millcreek Road in 2006. Records showed that Whit-Tee never had an office on Millcreek Road (see exhibit R-27). He said that prior to making his donations, he looked into Whit-Tee and New Hope to ascertain the programs they carried on to achieve their charitable purposes. His description of the programs carried on by Whit-Tee and New Hope was vague but the testimony of Neal Swietlinski and documents tendered by the Respondent proved that even these vague descriptions were incorrect.
+[18] Mr. Dhillon’s evidence with respect to when he received the charitable donation receipts for Whit-Tee was discredited by the evidence given by Neal Swietlinski who audited Whit-Tee. According to Mr. Swietlinski, Whit-Tee kept no accounting records, and no books and records of periodic donations made by persons. Whit-Tee could not have produced a receipt at the end of the year for the total donations.
+[19] The notices of objection filed by the Appellants do not support Mr. Dhillion’s evidence that their 2005 and 2006 returns were not prepared by Tax Help. Attached to each objection form is a letter from the Tax Help Centre which stated that their clients could not submit the documents for the charitable donations they had claimed in their returns because that information was now in the possession of the CRA as part of an ongoing investigation.
+[20] I also find that Ravenderjit Dhillon was not credible. At the hearing she claimed to have donated $5,004 to Whit-Tee in 2004. However, the Respondent presented documents which showed that on April 6, 2005, the CRA requested the official receipt for the charitable donation claimed by Ravinderjit Dhillon in her 2004 income tax return. This request was made prior to assessment and was sent to Evelyn Serwaah because her e-file agent number had been used to file the return. In response, a receipt was sent to the CRA which showed the charity to be Panafrican Canadian Multicultural Centre (“Panafrican”) and the amount of the donation was $5,004. Neither Appellant knew about the enquiry made by the CRA or about the receipt for Panafrican.
+[21] I have concluded from the evidence that the Appellants had their 2004 tax returns completed by Amoako and Orbit and their 2005 and 2006 returns prepared by Ankomah and his associates at Tax Help. I have also concluded that the Appellants did not make the charitable donations claimed in their income tax returns in 2004, 2005 and 2006. This conclusion is sufficient to dismiss the appeals with respect to the issue concerning the charitable donations and I do not have to address the Respondent’s alternative argument.
+Child Care
+[22] Mrs. Dhillon stated that she paid Sandy Duncan Williams $4,000 in cash in 2006 to baby-sit her son. She stated that she left the home at 6:30am to go to work and Ms. Duncan Williams babysat her son from 6:15am until 8:00am when he left for school. Mrs. Dhillon’s son was 15 years old at the time.
+[23] Mrs. Dhillon submitted a letter dated December 30, 2006 and addressed “To Whom It May Concern” from S.D.W. – Home Child Care Centre (“SDW”). The letter read that Ms. Sandy Duncan babysat “Mr. Ravinder Jit Dhillon’s” son for 32 weeks during the period January 2006 to December 2006 for a total cost of $4,000.
+[24] It was Mrs. Dhillon’s evidence that the cost for the babysitting was $120 per week. However, she did not pay any amount until December 2006. She could not specify the exact 32 weeks that Ms. Duncan Williams babysat.
+[25] The Respondent presented evidence that Ms. Duncan Williams reported T4 income in 2006 but not any child care income. She claimed child care expenses in 2006. In 2007, Ms. Duncan Williams reported child care income.
+[26] The Appellants stated that Ms. Duncan Williams was out of town and could not attend the hearing.
+[27] I find it implausible that Mrs. Dhillon hired a baby sitter to be with her son for one hour and forty-five minutes each school day. When asked why her son required a baby sitter in the mornings, Mrs. Dhillon’s response was that he was not 16. I also do not believe that Ms. Duncan Williams or any baby sitter would work for 32 weeks in a year and not receive any pay until December 30th of the year.
+[28] The letter from SDW could have been typed at any date. There was no opportunity to hear from Ms. Duncan Williams and test any of the statements she made in the letter. I have given no weight to the letter.
+[29] I find that Ravinderjit Dhillon has not shown that she incurred child care expenses in 2006. For this reason, Ravinderjit Dhillon’s claim for child care expenses of $4,000 in her 2006 taxation year is dismissed.
+[30] In conclusion, Jaswinder Dhillon’s appeal for his 2004, 2005 and 2006 taxation years is dismissed.
+[31] Ravinderjit Dhillon’s appeal is allowed as follows:
+(b) she is entitled to deduct child care expenses of $4,000 in 2003, 2004 and 2005; and
+(c) the gross negligence penalties imposed in 2003, 2004, 2005 and 2006 are to be deleted.
+[32] In all other respects, the appeal for Ravinderjit Dhillon is dismissed.
+Signed at Ottawa, Canada, this 23rd day of January 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2014TCC25
+COURT FILE NO.: 2013-2826(IT)I
+2013-3201(IT)I
+STYLE OF CAUSE: JASWINDER DHILLON
+RAVINDERJIT DHILLON
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 15, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: January 23, 2014
+APPEARANCES:
+For the Appellants:
+Jaswinder Dhillon
+Counsel for the Respondent:
+Alexandra Humphrey
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

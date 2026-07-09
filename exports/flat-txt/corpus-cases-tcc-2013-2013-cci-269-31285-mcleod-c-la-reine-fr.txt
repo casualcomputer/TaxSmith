@@ -1,0 +1,297 @@
+Title: McLeod c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31285/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-269-31285-mcleod-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-08-28
+
+# McLeod c. La Reine
+
+- Citation: 2013 CCI 269
+- Decision date: 2013-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4943, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLeod c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-28
+Référence neutre
+2013 CCI 269
+Numéro de dossier
+2010-114(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-114(IT)G
+ENTRE :
+STAN MCLEOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 9, 10, 11 et 12 juillet 2013,
+à Kelowna (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Terry S. Gill
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+a) pour l’année d’imposition 2003, le revenu non déclaré de M. McLeod est réduit de 83 088 $ à 53 088 $ et M. McLeod est passible d’une pénalité en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »);
+b) pour l’année d’imposition 2004, le revenu non déclaré de M. McLeod est réduit de 164 749 $ à 9 673 $ et M. McLeod n’est pas passible d’une pénalité en application du paragraphe 163(2) de la Loi.
+Signé à Ottawa, Canada, ce 28e jour d’août 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 25e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Dossier : 2009-3881(IT)G
+ENTRE :
+MONGOS GRILL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 9, 10, 11 et 12 juillet 2013,
+à Kelowna (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Terry S. Gill
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu de ce qui suit :
+a) pour l’année d’imposition 2003, le revenu non déclaré de l’appelante est réduit de 83 536 $ à 53 536 $ et l’appelante est passible d’une pénalité en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »);
+b) pour l’année d’imposition 2004, le revenu non déclaré de l’appelante est réduit de 165 428 $ à 84 428 $ et l’appelante est passible d’une pénalité en application du paragraphe 163(2) de la Loi.
+Signé à Ottawa, Canada, ce 28e jour d’août 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 25e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Dossier : 2010-115(GST)G
+ENTRE :
+MONGOS GRILL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 9, 10, 11 et 12 juillet 2013,
+à Kelowna (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Terry S. Gill
+Avocat de l’intimée :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu non déclaré de l’appelante s’élevait à 53 536 $ pour l’année d’imposition 2003 et à 84 428 $ pour l’année d’imposition 2004.
+Signé à Ottawa, Canada, ce 28e jour d’août 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 25e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 269
+Date : 20130828
+Dossier : 2010-114(IT)G
+ENTRE :
+STAN MCLEOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2009-3881(IT)G
+ENTRE :
+MONGOS GRILL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2010-115(GST)G
+ENTRE :
+MONGOS GRILL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Les trois présents appels découlent d’une cotisation fondée sur la valeur nette qui a été établie à l’égard de l’appelant, Stan McLeod. Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations tant à l’égard de Stan McLeod que de Mongos Grill Ltd. (« Mongos ») en application de la Loi de l’impôt sur le revenu (la « Loi »), augmentant ainsi leur revenu respectif de 83 098 $ pour 2003 et de 164 749 $ pour 2004 dans le cas de M. McLeod, et de 83 536 $ pour 2003 et de 165 428 $ pour 2004 dans le cas de Mongos, tout en leur imposant des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi. Une cotisation relative à la taxe sur les produits et services (la « TPS ») a également été établie à l’égard de Mongos, conformément aux conclusions relatives au revenu non déclaré qui ont été tirées dans le contexte de l’établissement de la cotisation d’impôt sur le revenu.
+[2] Selon l’appelant, quand le ministre a établi la cotisation fondée sur sa valeur nette, il s’est entièrement fondé sur un seul élément d’actif, à savoir le compte de prêts à l’actionnaire de M. McLeod dans Mongos, et il a omis de tenir compte de prêts qui avaient été consentis à M. McLeod : 155 000 $ de M. T. Day et 30 000 $ de Mme P. Crichton; si le ministre en avait tenu compte, cela aurait eu pour effet de réduire significativement le montant du revenu non déclaré que ce dernier a calculé. L’appelant soutient également que le gouvernement n’a pas tenu compte d’un rajustement de 74 000 $ effectué dans son compte de prêts à l’actionnaire, et que, s’il en avait tenu compte, cela aurait pour effet de réduire encore davantage le montant de la cotisation fondée sur la valeur nette.
+[3] À titre principal, le ministre affirme que l’augmentation considérable qui a été observée dans le compte de prêts à l’actionnaire de M. McLeod n’est pas le résultat de fonds que M. McLeod aurait injectés dans Mongos, mais le produit de simples entrées comptables internes qui ont eu pour effet de transférer le produit des ventes de Mongos dans le compte de prêts à l’actionnaire de M. McLeod, ce qui a ainsi généré un avantage à l’actionnaire au sens du paragraphe 15(1) de la Loi tout en dissimulant le revenu de Mongos. À titre subsidiaire, le ministre allègue que M. McLeod tirait son important revenu non déclaré d’autres sources.
+[4] L’issue du présent appel dépendra de la crédibilité que j’accorderai aux explications de M. McLeod, de M. Day, de M. Ellis (le neveu de Mme Crichton, lequel a pris les dispositions relatives au prêt de 30 000 $) et de M. Lotoski (le comptable de M. McLeod) relatives aux prêts et au rajustement effectué dans le compte de prêts à l’actionnaire.
+Le contexte général
+[5] En septembre 1999, M. McLeod a ouvert un restaurant mongolien, Mongos, à Kelowna. Il possédait 99 % de Mongos et en était l’administrateur, le dirigeant et essentiellement l’âme dirigeante. Il s’agissait d’un restaurant offrant aussi des services de traiteur. Il a été fermé pour rénovations de décembre 2002 à août 2003, afin d’y ajouter un bar à cigares et un bar-salon à martinis.
+[6] Les affaires n’ont pas marché aussi bien que M. McLeod l’avait espéré, même après les rénovations. En mai 2004, M. McLeod a retenu les services de M. Fay, qui avait de l’expérience comme chef cuisinier ainsi que comme cadre supérieur dans l’industrie alimentaire, et celui-ci a laissé entendre que l’entreprise n’était pas gérée adéquatement. Deux années d’exploitation plus tard, M. McLeod et M. Fay sont arrivés à la conclusion qu’il fallait vraiment fermer le restaurant; c’est ce qui a été fait en 2006. À cette époque, les actifs de l’entreprise ont été vendus à un tiers pour 159 000 $.
+La vérification
+[7] À l’été 2006, l’Agence du revenu du Canada (l’« ARC ») a entrepris sa vérification à l’égard de M. McLeod et de Mongos. M. Axelson, le vérificateur, a longuement témoigné au sujet du processus de vérification, mais je ne souhaite insister que sur les détails pertinents de son témoignage. Il est clair que M. Axelon n’a pas trouvé les appelants ou leurs conseillers aussi coopératifs qu’il l’aurait voulu.
+[8] La vérification n’a pas débuté comme une évaluation de la valeur nette, mais plutôt comme une analyse sommaire des dépôts effectués sur le compte bancaire de Mongos en comparaison du revenu tiré des ventes qui avait été déclaré. Un écart considérable à cet égard, ajouté au fait que l’appelant avait utilisé le compte de prêts à l’actionnaire de manière à enregistrer une telle différence, a porté le vérificateur à croire que les livres comptables de Mongos n’étaient pas fiables. Il a par conséquent entrepris de faire une évaluation de la valeur nette à l’égard de M. McLeod. Il a toutefois fait volte-face et s’est appuyé sur le compte de prêts à l’actionnaire qu’il avait jugé non fiable pour augmenter la valeur nette de M. McLeod de plus de 250 000 $.
+[9] M. Axelson n’a pas reçu de relevés bancaires personnels et n’a pas non plus eu l’occasion d’interroger M. McLeod. Je remarque qu’assez tôt dans le processus, le comptable de M. McLeod, M. Lotoski, a mentionné au vérificateur le fait que M. McLeod devait rembourser un prêt de 30 000 $; M. Lotoski n’a pas mentionné l’existence d’un quelconque autre prêt avant décembre 2007. À l’été 2007, M. Axelson a demandé à obtenir un questionnaire sur les dépenses personnelles, lequel lui a été fourni par M. Lotoski à en croire le témoignage de ce dernier. M. Axelson ne l’a jamais reçu. Peu de pièces justificatives ont été produites. Bien que M. Axelson ait envoyé une proposition à M. Lotoski en décembre 2007, il n’a clos le dossier et établi une nouvelle cotisation qu’en août 2008.
+[10] M. Axelson a établi que M. McLeod n’avait qu’un élément d’actif, à savoir son compte de prêts à l’actionnaire dans Mongos. Il a également établi que M. McLeod n’avait aucun passif, mais que le compte de prêts à l’actionnaire avait augmenté de plus de 250 000 $ pendant les deux années qui ont fait l’objet de la vérification.
+[11] En appel, une copie d’un chèque de 30 000 $ a été fournie à l’ARC, lequel constituait la preuve d’un prêt consenti par Mme Patricia Crichton, ainsi qu’un document d’une page provenant de M. T. Day, à savoir une lettre datée du 27 février 2008 confirmant que M. Day avait prêté la somme de 155 000 $ à M. McLeod aux fins de l’exploitation de Mongos.
+[12] Il ressort clairement de l’analyse de la valeur nette que le vérificateur a pris au pied de la lettre l’augmentation du compte de prêts à l’actionnaire, lequel est passé de 139 381 $ en janvier 2003 à 393 702 $ à la fin décembre 2004, et que cette augmentation représente la presque totalité du revenu non déclaré que le ministre soutient que Mongos a reçu en 2003 et en 2004. Comme il a été mentionné, le compte de prêts à l’actionnaire était le seul élément d’actif apparaissant sur le relevé de la valeur nette; il n’était question ni de biens immobiliers, ni d’investissements, ni de voitures, ni de rien d’autre. La cotisation fondée sur la valeur nette fait également état d’un passif égal à zéro. Les tribunaux ont décrit la cotisation fondée sur la valeur nette comme un instrument imprécis – il est particulièrement imprécis en l’espèce.
+[13] Il est intéressant de constater que, quand il a établi la cotisation à l’égard de M. McLeod, le ministre a établi que M. McLeod avait reçu de Mongos des avantages à l’actionnaire au sens du paragraphe 15(1) de la Loi de 83 088 $ en 2003 et de 167 749 $ en 2004. Le vérificateur a donné à entendre que les dépôts bancaires qui ont été effectués dans le compte de Mongos étaient des sommes exactes et qu’elles semblaient par conséquent tenir davantage d’un revenu que de prêts à l’actionnaire. Dans sa réponse, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+[…]
+y) les dépôts effectués sur le compte bancaire de la société excédaient largement le chiffre d’affaires déclaré pour les deux années – de 69 596 $ en 2003 et de 152 117 $ en 2004;
+z) les dépôts bancaires non identifiés correspondaient au chiffre d’affaires non déclaré de la société;
+aa) l’appelant a omis de déclarer une partie des revenus de la société;
+bb) l’appelant n’a fourni que le total du prétendu chiffre d’affaires mensuel à son comptable pour que ce dernier l’entre dans les livres comptables;
+cc) l’appelant a ordonné que la différence entre le montant correspondant au revenu total qu’il a communiqué à son comptable et le montant total des dépôts bancaires soit portée au crédit de son compte de prêts à l’actionnaire à titre de contribution;
+dd) au lieu de porter les ventes au crédit de l’entreprise, l’appelant s’est attribué le revenu non déclaré de la société en créditant le compte de prêts à l’actionnaire du montant du chiffre d’affaires non déclaré;
+ee) ainsi, le chiffre d’affaires de la société est devenu un montant dû à l’actionnaire;
+ff) l’appelant s’est approprié, pour son bénéfice personnel, le revenu d’entreprise non déclaré de la société tel qu’il a été défini dans la cotisation fondée sur la valeur nette;
+gg) en 2003 et en 2004, l’appelant s’est attribué les sommes de 83 088 $ et de 164 749 $, respectivement, lesquelles appartenaient à la société;
+hh) la société a conféré ces sommes de 83 088 $ et de 164 749 $ à l’appelant en sa qualité d’actionnaire;
+[…]
+Le ministre a ensuite décrit la question en litige de la manière suivante :
+[traduction]
+[…]
+a) en 2003 et en 2004, la société a conféré les sommes de 83 088 $ et de 164 749 $, respectivement, à l’appelant en sa qualité d’actionnaire; […]
+Cela ne me semble pas tant relever de la cotisation fondée sur la valeur nette que d’une attribution en application du paragraphe 15(1) de la Loi, si l’on tient compte du fait que Mongos a enregistré l’excédent des dépôts par rapport aux ventes, tel qu’il ressort du registre des ventes, comme constituant un prêt à l’actionnaire. Le ministre prétend qu’il s’agit de ventes dissimulées dans le compte de prêts à l’actionnaire. Comme il l’a énoncé dans la réponse, le ministre a adopté une approche à deux volets :
+[traduction]
+14. Les fluctuations annuelles de la valeur nette et des dépenses personnelles de l’appelant sont telles qu’elles apparaissent aux annexes I, II, III et IV. Les écarts entre ces sommes et le revenu que l’appelant a déclaré pour les années en cause s’expliquent par le revenu que l’appelant a gagné et omis de déclarer. Ainsi, l’appelant a gagné et omis de déclarer des revenus respectifs de 83 088 $ et de 164 749 $ en 2003 et en 2004, sommes qui ont été calculées en application de l’article 3 de la Loi.
+15. En 2003 et en 2004, la société a conféré les sommes de 83 088 $ et de 164 749 $ à l’appelant en sa qualité d’actionnaire. Par conséquent, ces sommes doivent être incluses dans le calcul du revenu de l’appelant en application du paragraphe 15(1) de la Loi.
+16. À titre subsidiaire, si en 2003 et en 2004 l’appelant ne s’est pas attribué, que ce soit en tout ou en partie, les sommes de 83 088 $ et de 164 749 $, qui appartenaient à la société, ce que l’appelant nie formellement, ces montants constituent des revenus d’entreprise non déclarés provenant d’une ou de plusieurs autres sources que l’appelant a gagnés, et ils doivent être inclus dans le calcul du revenu de l’appelant en application du paragraphe 9(1) de la Loi.
+[14] Pour être franc, quel que soit l’argument que le ministre avance, je conclus que l’examen de la question en litige revient à se pencher sur trois éléments :
+a) M. McLeod avait‑il une dette, sous la forme d’un prêt qui lui avait été accordé par M. T. Day et qui s’élevait à 155 000 $, somme qui a été injectée dans Mongos et versée dans le compte de prêts à l’actionnaire?
+b) M. McLeod avait‑il une dette, sous la forme d’un prêt qui lui avait été accordé par la tante de M. Ellis, Mme Crichton, somme qui a également été versée dans le compte de prêts à l’actionnaire?
+c) le compte de prêts à l’actionnaire pour la période en cause a-t-il été surestimé d’environ 74 000 $, comme il ressort d’un rajustement comptable effectué en 2005 sur lequel je reviendrai sous peu?
+J’examinerai les faits relatifs à chacune de ces questions les uns après les autres.
+Le prêt de 155 000 $
+[15] À la fin de l’année 2002, M. McLeod a eu des discussions avec son ami, M. Tim Day, ainsi qu’avec son frère au sujet d’un nouveau concept pour le restaurant : l’adjonction d’un bar à cigares et d’un bar‑salon à martinis de qualité. M. Day exploitait plusieurs autres entreprises, principalement dans l’industrie de l’impression, mais l’une d’elles était une entreprise de vente de cigares. M. Day m’a donné l’impression qu’il était un amateur dans l’industrie de la vente de cigares, et il a reconnu qu’il était son meilleur client – il aimait les cigares.
+[16] M. Day a déclaré qu’une fois, alors qu’il livrait des cigares à un bar, il avait été frappé par le montant d’argent liquide qui y était disponible. Il en a gardé une impression favorable, voyant là une occasion de profit pour le bar agrandi de M. McLeod. Il a affirmé qu’il avait ensuite fourni des fonds à M. McLeod pour l’aider à mener à bien les rénovations du bar.
+[17] M. Day a décrit son investissement dans Mongos comme constituant une entente assez floue. Aux termes de cette entente, M. Day et M. McLeod seraient associés, possédant chacun 50 % de l’entreprise, mais M. Day attendrait néanmoins de voir quels étaient les profits avant de finaliser cette entente. Dans les faits, les profits ne se sont jamais matérialisés, à tel point que M. Day est véritablement devenu copropriétaire de l’entreprise. L’argent qu’il a selon lui fourni à M. McLeod a par conséquent continué de s’apparenter à un prêt. M. Day et M. McLeod n’ont pas consigné les termes de leur entente par écrit, ce qui aurait constitué une preuve de son existence, exception faite d’un grand livre sur lequel je reviendrai sous peu. M. Day a affirmé que, comme M. McLeod était un bon ami, il était prêt à ce que cette entente soit scellée par une simple poignée de main.
+[18] M. Day a affirmé qu’il a avancé la somme de 155 000 $ en argent liquide, et que cette somme provenait d’une réserve qu’il avait accumulée au fil des ans et qu’il avait simplement conservée sous forme d’argent liquide. Il a soutenu qu’il n’avait pas voulu placer l’argent dans une banque et avoir à payer des impôts sur les intérêts que cet argent aurait générés. C’est une façon de voir les choses quelque peu singulière. Il croyait qu’il pourrait générer davantage de profits avec son argent en achetant et en vendant des entreprises. À cet égard, il a nommé quelques entreprises.
+[19] Je me penche maintenant sur le grand livre qui a été présenté comme étant la meilleure preuve de l’existence du prêt en cause. Cette preuve se présentait sous la forme d’un grand livre noir qui ne comptait qu’une page d’entrées intitulée [traduction] « prêt accordé à Stan McLeod en vue d’acheter 50 % du restaurant Mongos ». Le grand livre faisait ensuite état des entrées suivantes :
+[traduction]
+TOTAL
+Le 17 novembre 2002 20 000 $ 20 000 $
+Le 5 janvier 2003 15 000 $ 35 000 $
+Le 12 mars 2003 5 000 $ 40 000 $
+Le 25 mai 2003 10 000 $ 50 000 $
+Le 3 juillet 2003 5 000 $ 55 000 $
+Le 10 septembre 2003 5 000 $ 60 000 $
+Le 15 octobre 2003 5 000 $ 65 000 $
+Le 10 décembre 2003 10 000 $ 75 000 $
+Le 18 janvier 2004 25 000 $ 100 000 $
+Le 3 février 2004 10 000 $ 110 000 $
+Le 15 mars 2004 25 000 $ 135 000 $
+Le 3 mai 2004 20 000 $ 155 000 $
+TOTAL 155 000 $
+À la suite des deux colonnes, on trouve également deux en-têtes prévoyant l’apposition des initiales de M. McLeod et de M. Day : il semble que ces derniers aient apposé leurs initiales à côté de toutes les entrées. Il est clair qu’un stylo différent a été utilisé pour les différentes entrées. Ce document n’est apparu que la semaine précédant la tenue de l’instruction. Selon l’explication de M. Day, il a quitté le Canada et a déménagé au Costa Rica il y a de cela quelques années, et il y réside toujours. Il est revenu au Canada pour la première fois pour rendre visite à sa famille et à ses amis ainsi que pour assister à la présente instruction au début du mois de mai de cette année. Quand il a quitté le Canada, il a emporté des dossiers de ses entreprises et en a laissé d’autres chez sa fille, qui réside ici au Canada. D’après M. Day, ce n’est que lors de son récent retour, quand il a consulté ses dossiers qu’il avait laissés au Canada qu’il est tombé sur ce grand livre.
+[20] M. McLeod a confirmé qu’il avait apposé ses initiales sur ce grand livre, bien que lors de l’interrogatoire préalable il ait déclaré qu’il avait reçu de petits montants de la part de M. Day de 1 000 $, 2 000 $ ou 3 000 $, toujours en liquide. Cela n’est pas conforme aux inscriptions apparaissant dans le grand livre.
+[21] Il ressort des relevés de dépôts bancaires qu’aucun dépôt en argent liquide d’importance n’a été effectué dans le compte à l’époque où il est fait état d’avances dans le grand livre. M. McLeod a expliqué que l’argent était souvent directement remis aux entrepreneurs ou aux fournisseurs qui effectuaient les rénovations dans le restaurant. Les états financiers de Mongos ne font état d’une augmentation du coût des améliorations locatives que d’environ 81 000 $ au cours de la période en cause. M. McLeod a laissé entendre qu’une partie des fonds provenant de M. Day avait pu servir pour l’exploitation de l’entreprise, en dépit du fait que le restaurant est resté fermé pendant environ huit mois pour rénovations.
+[22] En ce qui a trait au remboursement du prêt, M. Day a déclaré qu’il avait reçu environ 48 000 $ de M. McLeod quand ce dernier avait liquidé les biens de Mongos en 2006. En outre, après que M. McLeod a vendu Mongos, M. Day a demandé à M. McLeod d’effectuer des rénovations pour son entreprise, OK Blue Printing, et le coût de ces rénovations a servi de compensation aux fins de remboursement du prêt. M. Day a déclaré qu’il avait tenu le compte de ces coûts afin de savoir quand ils équivaudraient à un remboursement, mais il n’a produit aucun document à cet égard. Il a donné à entendre qu’il avait été entièrement remboursé à l’été 2006.
+[23] Avant de donner l’explication que M. McLeod a fournie au sujet du remboursement du prêt, il est nécessaire de décrire les évènements qui se sont déroulés après la fermeture du restaurant en 2006. M. Day a demandé à M. McLeod de venir travailler avec lui dans le domaine de l’imprimerie, étant donné que M. Day avait le sentiment que M. McLeod avait de nombreux contacts à Kelowna. En novembre 2006, ils ont constitué une société en personne morale en Colombie‑Britannique aux fins de l’exploitation d’OK Blue Printing.
+[24] En juin 2008, ils ont vendu l’entreprise d’imprimerie et M. McLeod a reçu sa part, à savoir 223 250 $, de ce qui a été décrit dans les registres de la société comme un salaire de gestionnaire. En fait, cette somme, qui a bien été versée à M. McLeod, a été enregistrée comme une somme reçue par Mongos (qui s’appelle maintenant « S and R Industries Inc. ») et remise ensuite à M. McLeod pour rembourser son compte de prêts à l’actionnaire.
+[25] Compte tenu de ce contexte, je me penche maintenant sur l’explication que M. McLeod a fournie au sujet du remboursement, laquelle semble avoir fait l’objet de quelques transformations. Lors de l’interrogatoire préalable, M. McLeod a expliqué qu’il avait remboursé le prêt que M. Day lui avait consenti à partir des 223 250 $ qui représentaient le produit de la vente de sa participation dans la société constituée en Colombie‑Britannique. Dans les engagements qu’il a pris, il a expliqué qu’il travaillait pour OK Blue Printing afin de rembourser M. Day d’une manière non pécuniaire. Ensuite, dans une lettre datée de juillet 2013, il a corrigé cette réponse en faisant savoir qu’il avait pris à sa charge le coût des rénovations effectuées pour le compte d’OK Blue Printing, y compris la main‑d’œuvre et les matériaux, que M. Day en avait fait le suivi et qu’il les avait traités comme un remboursement complet du prêt que M. Day avait consenti à l’appelant. La somme de 223 250 $ que l’appelant a reçue par suite de la vente d’OK Blue Printing constituait sa part des profits qui lui étaient dus en sa qualité d’actionnaire et de fournisseur de services à l’entreprise OK Blue Printing.
+[26] Le comptable de M. McLeod, M. Lotoski, a déclaré qu’il savait que M. Day avait avancé de l’argent à M. McLeod, bien que la vérification ait été entreprise depuis longtemps quand il a soulevé la question pour la première fois auprès de l’ARC, nonobstant le fait qu’il gérait le litige en matière fiscale pour le compte de M. McLeod depuis le départ. C’est en 2006 que l’ARC a entamé la vérification en cause.
+[27] J’ai eu l’impression qu’il y avait une inimitié certaine entre M. Lotoski et les représentants de l’ARC. M. Lotoski a déclaré que, quand l’ARC l’avait interrogé au sujet des dépenses personnelles de M. McLeod, cela n’exigeait pas nécessairement qu’il fasse mention de prêts personnels; pourtant, quand il a rempli le questionnaire sur les dépenses personnelles, il y a inclus ces prêts. Cela m’est apparu comme contradictoire. Le questionnaire n’a été fourni à l’ARC que longtemps après le moment auquel M. Lotoski a déclaré que cela avait été fait.
+[28] Le frère de M. McLeod a témoigné succinctement. Je l’ai trouvé direct. Il a déclaré qu’il lui arrivait souvent de prêter de l’argent à son frère, afin que, pour reprendre ses termes, celui-ci puisse survivre.
+[29] Mme McLeod, mère de M. McLeod, qui tenait les comptes de Mongos, a également déclaré qu’elle savait que M. Day apportait son aide financière.
+[30] Ainsi, M. Day a-t-il prêté 155 000 $ à M. McLeod pour qu’il s’en serve aux fins de l’exploitation de Mongos? Il est clair que, si les sommes apparaissant dans le grand livre à titre d’avances ont été consignées aux dates mentionnées, entre 2002 et 2004, le récit de M. McLeod et M. Day s’en trouverait confirmé de manière significative. Toutefois, il existe plusieurs éléments qui laissent planer un doute quant à l’authenticité de ce document :
+a) il manque quelques pages au grand livre en tant que tel avant la page en question, et il n’y a ensuite plus aucune entrée;
+b) M. Day semble très satisfait d’avoir scellé l’entente qu’il a conclue avec son ami d’une poignée de main, mais il dispose néanmoins de ce grand livre d’une page dans lequel apparaissent des détails et des dates;
+c) le grand livre ne corrobore pas les explications que M. McLeod a données au sujet des sommes (en petites coupures) correspondant aux avances – on pourrait penser qu’il conviendrait de prendre note d’avances de 20 000 $ et de 25 000 $;
+d) cet élément de preuve crucial n’apparaît qu’une semaine avant la tenue de l’instruction en 2013, nonobstant le fait que la vérification a commencé sept ans auparavant et que l’appelant, ainsi que M. Lotoski à l’évidence, doivent avoir été à même de juger de combien il était important d’obtenir un tel élément de preuve.
+[31] Confronté aux doutes que ce document faisait naître, l’appelant a répondu, premièrement, qu’il ne voyait pas pourquoi M. Day contreferait quelque document que ce soit vu qu’il n’avait aucun intérêt dans l’affaire; deuxièmement, que, vu que M. Day était à l’extérieur du pays jusqu’à récemment, il était parfaitement plausible que le document ne soit apparu que récemment; et troisièmement, que M. McLeod avait souffert de commotions cérébrales au fil des années dans le contexte des activités sportives qu’il pratiquait ainsi que d’un travail de videur et que, par conséquent, sa mémoire s’en était trouvée affectée, ce qui expliquait le décalage entre son témoignage lors de l’interrogatoire préalable et le grand livre. Cette dernière raison n’a été avancée qu’à l’instruction.
+[32] J’ai mentionné aux avocats qu’un expert en graphologie ou en analyse de l’encre aurait pu être utile dans le contexte de l’examen du document. L’intimée a envisagé de présenter une demande d’ajournement de l’audience dans ce but, mais elle a finalement décidé de n’en rien faire. L’avocat de l’appelant a laissé savoir que son client était disposé à ce que l’on procède à une telle analyse.
+[33] Vu l’intérêt que M. Day nourrissait pour l’idée de M. McLeod, particulièrement en ce qui a trait à un bar à cigares, et vu que M. Day avait certains moyens (bien que je ne sois pas convaincu que ces moyens comprenaient une réserve en argent de 200 000 $), et vu le témoignage de Mme McLeod, que je trouve crédible, selon lequel elle savait que M. Day apportait son aide (bien qu’apparemment elle n’était pas au courant de nombreux détails), je suis convaincu que M. Day apportait bien une certaine aide financière à M. McLeod. Je n’ai toutefois pas été convaincu du fait que cette aide s’élevait nécessairement à 155 000 $. Je ne suis pas prêt à accepter la page du grand livre qui a été produite récemment comme étant une preuve définitive des prêts, selon les montants dont il a été fait état.
+[34] Les améliorations qui ont été apportées au restaurant et qui ont été effectuées de janvier 2003 à août 2003 ont été consignées dans les registres (bien que ce n’ait été fait qu’un an plus tard) comme s’élevant à environ 81 000 $. Aux dires de M. Day et de M. McLeod, une somme de 100 000 $ a été prêtée après la réouverture du restaurant rénové, à une époque où, selon M. McLeod, les affaires marchaient très bien. Cela n’a pas duré longtemps.
+[35] Par ailleurs, je ne suis pas préoccupé que par les divergences qui existent entre les histoires de M. Day et de M. McLeod eu égard au mode de remboursement du prêt, mais également par l’histoire changeante de M. McLeod. Non, les composantes de ce prêt de 155 000 $ ne s’emboîtent pas nettement les unes avec les autres.
+[36] Je suis confronté au dilemme que soulève la conclusion suivante : oui, M. Day a aidé financièrement M. McLeod, et par conséquent Mongos; mais je ne dispose alors pas de suffisamment d’éléments de preuve pour établir la mesure de cette aide financière. J’examinerai cette question après m’être penché sur le prêt de 30 000 $ ainsi que sur le fonctionnement du compte de prêts à l’actionnaire.
+Le prêt de 30 000 $
+[37] M. Ellis, agent immobilier agréé, était un voisin de M. McLeod. En fait, M. Ellis a vendu sa maison à M. McLeod pour environ 400 000 $, mais il a conservé la maison à son nom tandis que M. McLeod effectuait des paiements mensuels. Un contrat d’achat-vente daté du 15 août 2000 définissait les modalités de paiement. Ce n’est que maintenant, aux dires de M. McLeod, que les paiements finals ont été effectués en vue d’obtenir le transfert du titre de propriété.
+[38] M. Ellis prétend que sa tante, Patricia Crichton, cherchait à investir de l’argent quand elle a emménagé dans la vallée de l’Okanagan en 2002. M. Ellis savait que M. McLeod avait le projet d’agrandir Mongos et qu’il avait besoin d’aide financière. D’après M. Ellis, Mme Crichton nourrissait des craintes à l’égard du caractère instable d’un restaurant ainsi qu’à l’égard du fait que M. McLeod n’était pas propriétaire de sa maison.
+[39] En juin 2003, Mme Crichton a libellé un chèque de 30 000 $ à l’ordre de M. McLeod. En octobre 2003, d’après M. Ellis, en vue d’apaiser les craintes de sa tante, le document suivant a été établi et signé par M. Ellis, M. McLeod et Mme Crichton :
+[traduction]
+Le 31 octobre 2003
+Aux termes de la présente entente conclue entre Patricia Crichton et Stan McLeod, Mme Crichton convient de prêter à M. McLeod la somme de 30 000 $ afin que ce dernier termine les travaux du garage actuellement en construction au 512 Zdralek Cove, à Kelowna (C.‑B.).
+M. McLeod s’engage à rembourser le plein montant du prêt, auquel viendront s’ajouter des intérêts de 1 500 $, soit une somme totale de 31 500 $, le 1er avril 2004 au plus tard.
+En cas de défaut de remboursement, la somme due sera enregistrée à l’égard du bien situé au 512 Zdralek Cove, qui est actuellement enregistré au nom de Shawn Ellis et qui restera enregistré sous ce nom jusqu’au remboursement du prêt faisant l’objet du présent contrat.
+En cas de défaut de remboursement, tout montant dû fera l’objet d’une augmentation du taux d’intérêt de 2 % par mois.
+Le présent contrat, signé à Kelowna (C.-B.) ce 31e jour d’octobre 2003 est exécutoire.
+[40] L’entente fait référence au fait que l’argent doit être utilisé pour les travaux effectués dans le garage appartenant en propre à M. McLeod, et non aux fins de l’exploitation de Mongos. M. McLeod avait obtenu un permis de construction en vue de la construction d’un garage en 2003, pourtant, il a insisté sur le fait que l’argent avait servi à financer les rénovations apportées à Mongos et qu’il n’avait pas entrepris les rénovations de son garage avant 2004.
+[41] M. Ellis n’était pas certain de la manière dont le prêt avait été remboursé, et il a laissé entendre qu’il aurait pu être remboursé en 2004, ou peut-être qu’il avait payé sa tante et que M. McLeod l’avait simplement remboursé. M. Lotoski, le comptable de M. McLeod, a confirmé que M. Ellis a remboursé Mme Crichton. M. Lotoski a ensuite laissé entendre que M. Ellis avait antérieurement prêté la somme de 200 000 $ à M. McLeod et que cette dette avait été gonflée de 30 000 $, de telle sorte que, dans les faits, la dette que M. McLeod avait envers Mme Crichton avait été transférée à M. Ellis, dette qui aux dires de M. Lotoski a été remboursée récemment.
+[42] Une note manuscrite qui aurait été rédigée par Patricia Crichton et selon laquelle le prêt aurait été remboursé en 2009 apparaît sur l’entente datée du 31 octobre 2003.
+[43] L’appelant doit surmonter deux obstacles pour obtenir que le prêt de 30 000 $ diminue le montant de la cotisation fondée sur la valeur nette qui a été établie à son égard. Premièrement, il faut qu’il soit conclu que cet argent a été utilisé pour l’exploitation de Mongos et, par conséquent, qu’il a augmenté le compte de prêts à l’actionnaire. Ce n’est que dans ces conditions que cette somme pourra être considérée comme une dette venant réduire la valeur nette. Deuxièmement, ce prêt ne doit pas avoir été remboursé avant la fin de l’année 2004.
+[44] En ce qui a trait à la première question, le fait que l’entente datée d’octobre stipule que le prêt devait servir à la construction du garage et non à l’exploitation de Mongos, ajouté au moment où M. McLeod a obtenu un permis de construction, sont autant d’éléments qui jouent contre M. McLeod. Par contre, le témoignage de M. McLeod selon lequel il a utilisé les fonds dans Mongos, le témoignage de M. Ellis selon lequel c’était là l’usage prévu pour le prêt et, à sa connaissance, la manière que le prêt avait été employé, le témoignage de M. Ellis selon lequel l’entente a été rédigée d’une certaine manière afin de satisfaire sa tante, le témoignage de M. Lotoski selon lequel l’argent était nécessaire pour payer les fournitures et les entrepreneurs dont Mongos avait besoin, et les déclarations de M. McLeod, selon lesquelles les rénovations d’ordre personnel (garage et cabanon) n’ont pas été entreprises avant 2004, sont autant d’éléments qui jouent en faveur de M. McLeod.
+[45] Encore une fois, en ce qui a trait au prêt de 30 000 $, je parviens à une conclusion similaire à celle à laquelle je suis arrivé à l’égard du prêt de 155 000 $, c’est‑à‑dire qu’un prêt a bien été consenti, mais que se pose la question de savoir s’il y a suffisamment d’éléments de preuve en l’espèce pour établir si la totalité de la somme de 30 000 $ a été employée aux fins de l’exploitation de Mongos. Il est ressorti clairement des déclarations des témoins ainsi que de M. McLeod lui‑même que ce dernier n’avait pas un sens des affaires très prononcé. Il se fiait aux autres. Il était davantage doué pour les travaux manuels, la construction et les réparations, que pour tout ce qui concernait le travail de gestion inhérent à l’exploitation d’un restaurant. L’explication la plus plausible est que M. McLeod a simplement pris la somme de 30 000 $ et l’a utilisée à son gré, là où il en avait besoin à l’époque. Ce n’était vraiment pas la première fois qu’il empruntait de l’argent. Honnêtement, il ne recevait pas un bon service de la part de ses conseillers professionnels : la comptabilité des entrées et sorties d’argent de Mongos aurait pu être plus claire qu’elle ne l’était.
+[46] En ce qui concerne la seconde question, je suis prêt à donner le bénéfice du doute à M. McLeod et à conclure que le prêt n’a été remboursé qu’après la fin de l’année 2004. Cette conclusion s’inscrit dans le droit fil de l’explication de M. Lotoski et des souvenirs quelque peu flous de M. Ellis.
+Le compte de prêts à l’actionnaire
+[47] Le compte de prêts à l’actionnaire de Mongos se trouve au cœur du litige en l’espèce. Il s’agit du seul actif sur lequel l’ARC s’est fondée pour établir la cotisation fondée sur la valeur nette, et pourtant, l’ARC a exprimé de fortes préoccupations au sujet de la manière dont le compte de prêts à l’actionnaire avait été utilisé. Honnêtement, je trouve que l’explication de M. Lotoski n’est pas un modèle de clarté. Son explication me semble quelque peu arbitraire et, en fait, elle me semble constituer une méthode de comptabilité un peu trop commodément simplifiée. Cette méthode invite à l’examen dont elle a fait l’objet.
+[48] Je m’efforcerai d’abord de décrire comment M. McLeod et M. Lotoski ont laissé entendre que le compte de prêts à l’actionnaire était utilisé. Je me pencherai ensuite sur la somme de 74 000 $ qui a été entrée à titre de rajustement et qui selon l’appelant devrait être déduite du calcul de sa valeur nette.
+[49] En l’espèce, le véritable litige a trait au fait que l’ARC croit que le compte de prêts à l’actionnaire a été utilisé simplement pour dissimuler des revenus. L’appelant et ses conseillers laissent entendre que ce compte servait en quelque sorte de chambre de compensation, mais qu’au bout du compte, elle faisait état des fonds injectés par M. McLeod (y compris des deux prêts).
+[50] M. Lotoski a établi le compte provisoire de dépôts pour Mongos. Toutes les ventes et les taxes que Mme McLeod a consignées dans les registres de Mongos sont ajoutées à ce compte théorique. Il est fait état de dépôts mensuels dans le compte de contrepartie des ventes (à savoir le compte provisoire créditeur et le compte bancaire débiteur). De même, tout retrait était porté au crédit du compte provisoire et porté au débit du compte de prêts à l’actionnaire. Me Gill, avocat de Mongos, a offert la justification suivante : [traduction] « les petites entreprises prennent souvent de l’argent à partir de leurs ventes ou de leur caisse, paient leurs frais ou paient même leurs dépenses personnelles et ne rendent pas compte de ces transactions au moyen de reçus, de telle sorte qu’à la fin du mois, on va se trouver en présence d’un déficit, le compte provisoire de dépôts ne sera pas équilibré et ce déficit sera porté au compte de prêts à l’actionnaire, en en réduisant le solde. Si le contribuable en cause présente des reçus montrant l’utilisation qui a été faite de l’argent à son comptable, le rajustement est annulé et un crédit du montant de ces reçus est porté au compte de prêts à l’actionnaire. Le revers de la médaille est ce que nous avons observé en l’espèce. Il n’y avait pas de déficit à la fin de chaque mois, mais très souvent il y avait un excédent… et le comptable a traité cet excédent en portant un crédit au compte de prêts à l’actionnaire en partant de l’hypothèse selon laquelle, s’il y a davantage d’argent qu’il n’en est fait état dans les documents relatifs aux ventes, cela s’explique par le fait que l’actionnaire a apporté une contribution personnelle. »
+[51] Quand on examine ce compte provisoire dans le grand livre général de Mongos pour 2003, on peut voir que des dépôts bancaires ont été portés au crédit du compte en octobre 2002 par exemple, et qu’ils ont été suivis par un retrait d’argent provenant des ventes quotidiennes. À la fin de l’exercice (septembre 2003), le grand livre fait état d’un solde de 76 953 $, lequel, aux dires de l’appelant, montre que 76 953 $ de plus ont été déposés à la banque par rapport au produit des ventes. M. Lotoski équilibre alors le compte en ajoutant cette somme au compte de prêts à l’actionnaire.
+[52] Dans le grand livre général pour 2004, Me Gill a attiré mon attention sur le compte d’améliorations locatives et sur le compte de prêts à l’actionnaire, lesquels font état d’environ 81 000 $ en améliorations locatives et d’une addition équivalente dans le compte de prêts à l’actionnaire de M. McLeod, toutes les entrées étant datées du 30 juin 2004. Me Gill laisse entendre que c’est à cette date tardive que M. McLeod a probablement produit des reçus, nonobstant le fait que les travaux avaient été effectués l’année précédente. Je n’ai entendu aucun témoignage direct sur ce point.
+[53] Le dernier élément à examiner eu égard au compte de prêts à l’actionnaire est la gestion des revenus des services de traiteur. Mme McLeod a déclaré que, bien qu’elle ait tenu la comptabilité quotidienne, consigné les ventes effectuées par les serveurs du restaurant et préparé les entrées quotidiennes (exception faite de la période des rénovations qui s’est étendue de décembre 2002 à août 2003), les revenus tirés des services de traiteur n’étaient pas consignés dans les registres, mais déposés à la banque (c’était souvent la petite amie de M. McLeod qui s’en chargeait). D’après Mme McLeod, le cabinet de M. Lotoski s’occupait des revenus tirés des services de traiteur, et elle croyait que ce dernier versait ces revenus dans le compte de prêts à l’actionnaire. Aux dires de M. Lotoski, cela a donné lieu à une surestimation du compte de prêts à l’actionnaire, ce pour quoi il a effectué un rajustement en août 2005, soustrayant la somme de 74 076 $. M. Lotoski a reconnu qu’il ne pouvait pas véritablement établir à quelle période le revenu tiré des services de traiteur se rapportait. Honnêtement, la méthode qu’il a employée pour parvenir à la somme de 74 000 $ n’est pas ressortie clairement de son témoignage.
+[54] Après examen de ces registres, l’intimée est d’avis que, parce que les sommes qui ont été déposées ne sont pas des sommes rondes, elles tiennent davantage de revenus que d’injections dans le compte de prêts à l’actionnaire. Il semble s’agir davantage de spéculation que de faits. Je suis plus préoccupé par la manière dont l’argent que M. McLeod a reçu de M. Day ou de Mme Crichton a fini par se retrouver dans le compte de prêts à l’actionnaire, quand M. McLeod m’a donné l’impression qu’il avait obtenu de l’argent liquide de M. Day et qu’il avait payé des entrepreneurs et des matériaux avec cet argent.
+[55] L’intimée remet également en doute l’augmentation de près de 400 000 $ du compte de prêts à l’actionnaire survenue entre 1999 et la fin de 2004, jugeant qu’il n’est pas crédible que ce soit M. McLeod qui ait fourni les fonds. Selon l’intimée, il existe une autre source aux fonds qui ont été déposés dans le compte de prêts à l’actionnaire. L’intimée laisse entendre que soit M. McLeod s’est attribué les revenus de Mongos par le truchement du compte de prêts à l’actionnaire, soit il tirait des revenus de son autre entreprise, Stan’s Mechanical, revenus qu’il n’a pas déclarés en totalité. Il n’y a aucun élément de preuve relatif aux agissements ou aux omissions de Stan’s Mechanical.
+[56] Où tout cela nous mène‑t-il? Honnêtement, cela nous conduit à une évaluation fondée sur la valeur nette confuse, entièrement fondée sur un compte de prêts à l’actionnaire et qui ne tient compte d’aucun autre élément d’actif ou de passif. L’intimée a simplement adopté la position selon laquelle M. McLeod a vu son unique élément d’actif – son compte de prêts à l’actionnaire dans Mongos – augmenter de manière significative sans qu’une explication ne soit fournie pour cette augmentation. La position principale de l’intimée est que le compte de prêts à l’actionnaire ne se fait pas le miroir de prêts que M. McLeod aurait consentis à Mongos, mais constitue plutôt une attribution comptable du revenu de Mongos. À titre subsidiaire, l’intimée soutient que l’augmentation de la valeur nette provient d’une quelconque autre source. L’intimée n’a pas à définir cette source. Comme le juge Pelletier l’a déclaré dans l’arrêt Régent Lacroix v. Her Majesty the Queen[1] :
+[18] À mon avis, cette jurisprudence n’établit pas le principe selon lequel le ministre ne peut ajouter au revenu d’un contribuable le revenu non déclaré qu’il constate à la suite de l’application de la méthode de l’avoir net que s’il est en mesure d’établir la source de ce revenu. Notre système de perception d’impôt sur le revenu est fondé sur la déclaration du contribuable quant au revenu qu’il a touché au cours d’une année d’imposition. S’il arrive que le ministre doute, pour quelque raison que ce soit, de l’exactitude de la déclaration de revenu produite par le contribuable, il peut entreprendre l’enquête qui lui semble nécessaire. Il peut par la suite établir une nouvelle cotisation. Si le contribuable s’oppose à la nouvelle cotisation par voie d’avis d’appel, le ministre n’a pas à faire la preuve des faits à l’origine de la nouvelle cotisation. Il n’a qu’à étayer dans sa réponse à l’avis d’appel les faits qu’il a tenus pour acquis en établissant la nouvelle cotisation. Le contribuable, qui sait tout ce qu’il y a à savoir au sujet de ses affaires, a le fardeau de « démolir » les présomptions du ministre sinon ces présomptions sont présumées être vraies.
+Le juge Pelletier a ajouté ce qui suit :
+[29] Ce dernier passage met en relief la dialectique propre à certaines nouvelles cotisations par l’application de la méthode de l’avoir net. En l’instance, le ministre constate un revenu non déclaré qu’il demande au contribuable de justifier. Celui-ci fournit une explication que ni le ministre ni la Cour canadienne de l’impôt ne jugent crédible. Il n’y a donc pas d’hypothèse viable et raisonnable qui pourrait porter le décideur à accorder le bénéfice du doute au contribuable. La seule hypothèse offerte est jugée non crédible.
+[57] L’intimée soutient que l’appelant n’a pas offert d’explication crédible. En fait, l’intimée est d’avis qu’il ne faut accorder aucun crédit aux témoignages de M. McLeod, de M. Lotoski, de M. Day et de M. Ellis. Cela représente beaucoup de mensonges.
+[58] Ce n’est pas par hasard que les litiges relatifs aux évaluations fondées sur la valeur nette ne figurent pas en tête de liste des affaires préférées des juges de la Cour canadienne de l’impôt. L’intimée se fie souvent à son instinct, disposant de documents source insuffisants et devant souvent faire face à un faible niveau de coopération, et, par conséquent, elle doit souvent formuler des conjectures et se fonder sur de vagues hypothèses; par exemple, l’hypothèse selon laquelle M. McLeod n’avait qu’un seul élément d’actif et aucun élément de passif, sans compter que l’évaluation de cet élément d’actif est douteuse. Il ne s’agit pas d’un point de départ des plus solides.
+[59] L’appelant a souvent pâti d’un certain laxisme ou d’un manque d’attention aux détails ou aux livres de comptes, lesquels ont pu donner lieu à des déclarations de revenus inexactes, mais allègue qu’il est insensé d’accepter les montants énormes qui ont été mis en avant par l’ARC : par exemple, le fait qu’un restaurant ne marche pas bien, des rénovations qui se sont étendues sur huit mois et le fait de survivre pendant deux ans ne sont pas des éléments susceptibles de donner lieu à un revenu additionnel de 250 000 $ sur une période de deux ans, particulièrement quand, sur ces deux ans, le restaurant a été fermé pendant huit mois pour rénovations. Comme toujours, la réalité se trouve quelque part entre les positions adoptées par les deux parties. De telles affaires demandent à être réglées à l’amiable, ce que j’ai suggéré aux parties, mais ma suggestion s’est heurtée à une absence totale d’enthousiasme. En fait, chaque partie a fait part de son désir de présenter des observations relatives aux dépens en fonction de mon jugement.
+[60] J’examinerai d’abord le cas de l’appelant, M. McLeod. A-t-il expliqué l’augmentation d’environ 240 000 $ de sa valeur nette (à savoir, dans les faits, l’augmentation de son compte de prêts à l’actionnaire)? Il a soutenu qu’il avait reçu la somme de 185 000 $ sous forme de prêts, comme il a été décrit dans les présents motifs. Comme je l’ai mentionné, je crois que M. McLeod a bien reçu de l’aide financière. Par contre, eu égard au prêt de 155 000 $ consenti par M. Day, j’entretiens des doutes quant à l’exactitude de la somme avancée. Eu égard au prêt de 30 000 $ consenti par Mme Crichton, je me demande quelle partie de cette somme a servi aux fins de l’exploitation de Mongos et quelle partie a été utilisée par M. McLeod à des fins personnelles.
+[61] Pour conclure, vu l’intérêt de M. Day à apporter son aide dans les rénovations, et considérant que les registres faisaient état d’une injection d’environ 81 000 $ pour des améliorations locatives, j’accepte le fait que M. McLeod a emprunté à M. Day la somme de 81 000 $ aux fins de l’exploitation de Mongos, conformément à ce qui a été consigné dans les registres en 2004.
+[62] Tout bien considéré, j’accepte l’explication de M. Ellis relative à la nature du prêt de 30 000 $ que sa tante a consenti à M. McLeod, en ce sens que ce prêt devait aider M. McLeod dans l’exploitation de son restaurant, en 2003, nonobstant la forme de l’entente. L’époque à laquelle cette entente a été conclue cadre davantage avec le fait que M. McLeod a utilisé ces fonds aux fins de l’exploitation de son restaurant.
+[63] Je conclus que la somme de 74 076 $ a été ajoutée par erreur au compte de prêts à l’actionnaire de M. McLeod en 2004 et qu’elle correspondait à des revenus de services de traiteur, et j’accepte qu’un rajustement ait été apporté l’année suivante sous la forme de la suppression de cette entrée du compte de prêts à l’actionnaire aux fins de l’établissement d’une cotisation fondée sur la valeur nette à l’égard de M. McLeod. Ces conclusions ont pour effet de réduire le revenu non déclaré de M. McLeod en 2003 de 83 088 $ à 53 088 $ (le prêt de Mme Crichton) et de réduire son revenu non déclaré en 2004 de 164 749 $ à 9 673 $ (le prêt de 81 000 $ consenti par M. Day et enregistré en 2004, plus le rajustement de 74 076 $ effectué dans le compte de prêts à l’actionnaire). Vu l’importance du revenu non déclaré en 2003 par comparaison avec le revenu déclaré, je conclus que M. McLeod a commis une faute lourde, et, par conséquent, qu’il est passible de la pénalité prévue au paragraphe 163(2) de la Loi pour 2003.
+[64] En ce qui a trait à Mongos, je suis convaincu qu’on a omis de déclarer des revenus, très vraisemblablement des revenus tirés des services de traiteur, bien que cela n’ait pas eu l’ampleur que l’intimée a laissée entrevoir. Pour 2003, je réduis le revenu non déclaré de 83 536 $ à 53 536 $ et, pour 2004, je réduis le revenu non déclaré de 165 428 $ à 84 428 $. Le rajustement apporté par M. Lotoski en 2005, lequel consistait à soustraire 74 076 $ du compte de prêts à l’actionnaire est, j’imagine, une reconnaissance du fait que ce montant, du moins, correspondait au revenu tiré des services de traiteur en 2004. Je conclus que ce revenu était considérablement plus élevé. Des rajustements à la TPS devraient être apportés en conséquence.
+[65] En ce qui a trait aux pénalités, je conclus que Mongos est passible de la pénalité prévue au paragraphe 163(2) de la Loi pour 2003 et 2004, vu l’importance du revenu non déclaré.
+[66] Dans les circonstances, je n’adjugerai aucuns dépens, mais si l’une des parties souhaitait présenter des observations sur les dépens, je lui demanderais de le faire avant le 30 septembre 2013.
+Signé à Ottawa, Canada, ce 28e jour d’août 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 25e jour d’octobre 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2013 CCI 269
+NOS DES DOSSIERS DE LA COUR : 2010-114(IT)G, 2009-3881(IT)G et
+2010-115(GST)G
+INTITULÉS : Stan McLeod c. Sa Majesté la Reine
+Mongos Grill Ltd. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Les 9, 10, 11 et 12 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 28 août 2013
+COMPARUTIONS :
+Avocat des appelants :
+Me Terry S. Gill
+Avocat de l’intimée :
+Me Bruce Senkpiel
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Terry S. Gill
+Cabinet : Gill Tax Law
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2009 DTC 5029.

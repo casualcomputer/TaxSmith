@@ -1,0 +1,187 @@
+---
+title: "Richardson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/315930/index.do"
+last_modified: "2018-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 135"
+citation2: ""
+neutral_citation: "2018 TCC 135"
+decision_date: "2018-07-10"
+language: "en"
+item_id: "315930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4951
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:43:31.219000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "263fe9306fb32f38d2d0569ca2cc712d330f03d8a0010566894a256901067f5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Richardson v. The Queen
+
+- Citation: 2018 TCC 135
+- Decision date: 2018-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4951, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richardson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-07-10
+Neutral citation
+2018 TCC 135
+File numbers
+2016-925(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-925(IT)I
+BETWEEN:
+KELLY RICHARDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 20 and April 3, 2018, at Toronto, Ontario, and by way of telephone conference on April 13, 2018.
+Before: The Honourable Gaston Jorré, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Suranjana Bhattacharyya
+JUDGMENT
+For the attached reasons for judgment, the appeal from the reassessments made under the Income Tax Act for the 2010 and 2011 taxation years is dismissed, without costs.
+In view of my extensive references to the decision of Chao v. The Queen, 2018 TCC 72, for the convenience of the Appellant, I direct the registry to send a copy of that decision to the Appellant together with this judgment and these reasons.
+Signed at Ottawa, Ontario, this 10th day of July 2018.
+“Gaston Jorré”
+Jorré D.J.
+Citation: 2018 TCC 135
+Date: 20180710
+Docket: 2016-925(IT)I
+BETWEEN:
+KELLY RICHARDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré D.J.
+Introduction
+[1] The Appellant is employed in various film productions as a lighting technician who largely runs the lighting department of the productions. He reports to the director of lighting of each production. [1]
+[2] In his 2010 and 2011 taxation years the Appellant claimed a deduction for employment expenses of $4,013 and $4,436 respectively. These claims were denied by the Minister of National Revenue in reassessing and the Appellant appeals from those reassessments.
+[3] During the course of the hearing the Appellant withdrew his appeal with respect to the 2011 taxation year. [2]
+[4] The reassessment in issue of the 2010 taxation year was made on December 5, 2013 and the Appellant objected to that reassessment on December 11, 2013.
+[5] Three witnesses testified, 13 exhibits were filed and the hearing took more than a day. No issues of credibility arose.
+The Legal Framework
+[6] In order to deduct an employment expense: [3]
+17 . . . all of the following requirements must be met:
+(a) the Appellant must incur the expense,
+(b) the expense must be for the purpose of the employment,
+(c) the expense must meet the requirements of one of the paragraphs following subsection 8(1) of the Act, including the requirements as to the nature of the expenditure (for example, it must be for travel meeting certain criteria or for supplies consumed) and, in the case of meals, the requirements of subsection 8(4) of the Act must be met,
+(d) the employment contract must require that the employee pay for the expense,
+(e) the expense must not be reimbursed and
+(f) a T2200 form
+(i) must be filed with the tax return;
+(ii) however, if the Minister has waived the requirement to file, the form must be provided at the Minister’s request.
+18 The T2200 form is not determinative as to the conditions of employment if the evidence leads to different conclusions.
+Facts and Analysis
+Absence of a T2200 Form
+[7] The Appellant did not produce any T2200 forms.
+[8] There may be limited circumstances where the requirement for a T2200 form may be dispensed with if the individual made diligent and timely efforts prior to the tax return due date to obtain the form and if the circumstances are not circumstances where the employer refused to provide the form for a valid reason. [4]
+[9] Without such circumstances, the absence of a T2200 form is fatal to any claim for employment expenses under any of the provisions that may have application here. [5]
+[10] Although EP Canada provided a T4 slip covering the Appellant’s employment on 12 different film or TV projects for a number of production companies over the course of the 2010 taxation year, the evidence is quite clear that the Appellant worked for the production companies and not EP Canada, a company providing payroll services. [6]
+[11] The Appellant also worked for Ease Entertainment Services Canada, a production company. [7]
+[12] The Appellant’s testimony was that he tried to obtain T2200 forms after receiving a letter dated January 11, 2016 from the Canada Revenue Agency. [8] He was unable to obtain T2200 forms because he was unable to contact the production managers for the different projects he worked on. [9] Before receiving that letter, the Appellant was unaware that he needed the forms. [10]
+[13] This is five years after the end of the 2010 taxation year and does not constitute a timely effort to obtain the forms. As a result, this is not a circumstance where the production of the T2200 form may be dispensed with.
+[14] For this reason alone, failure to produce the required form, the appeal must be dismissed.
+General Comments
+[15] Although it is not necessary to do so, I will briefly make some general comments about the other requirements for deductibility.
+[16] There are quite a few difficulties regarding the expenses claimed. For the reasons outlined below, even if T2200 forms had been produced, I am not satisfied that the claimed expenses would be properly deductible. [11]
+[17] Exhibit A-7 consisted of copies of a number of restaurant receipts. All but one of these receipts were incurred in Toronto and cannot be claimed because of the requirements of subsection 8(4) of the Income Tax Act that an employee must be away from the metropolitan area of the employer establishment to which the employee ordinarily reported for work for a period of at least 12 hours.
+[18] The only other restaurant receipt is in London, Ontario, and related to a trip not in the course of employment; the Appellant made the trip to assist a friend who was making an independent film.
+[19] Exhibit A-10 consisted of receipts for transportation costs. Most of the receipts relate to Toronto Transit Commission fares, usually in the form of tokens or tickets, [12] and to taxi fares to or from home. These are expenses of getting to work and, as such, are not deductible given the absence of evidence showing these journeys fall into the unusual cases where travel to work is deductible. [13]
+[20] Exhibit A-10 also contains receipts for two trips to and from London, Ontario, one using Via Rail and one using Greyhound buses. These are not deductible because they were not incurred in the course of employment; they were incurred when the Appellant went to assist the friend previously referred to.
+[21] In that exhibit, there are three GO tickets which may well have been used to go to Hamilton in order to work on film projects there. Such an expense is related to work and potentially deductible.
+[22] However, I am not persuaded that under the contract of employment the Appellant was under the obligation to pay these costs of getting to Hamilton for two reasons. First, in the sample contractual documents in evidence there is nothing that states that the Appellant must bear his own travel costs. [14] Second, in the context of other receipts relating to gas and parking, the Appellant testified that generally when shooting a film at an out‑of‑town location transportation was available from the production office in Toronto to the out‑of‑town location; however, he often went by car with someone else because it was more convenient. [15]
+[23] In Exhibit A-9 there are receipts for gas. The Appellant explained that mostly this related to an arrangement he had with a co‑worker to travel to out‑of‑town locations. Under the arrangement he would share expenses and pay for the gas some of the time. For the same reason as stated in the previous paragraph with respect to the GO tickets, these expenses are not deductible. [16] In addition, there are receipts for parking expenses in Toronto in Exhibit A‑9; these are part of the cost of going to work and are not deductible.
+[24] There are 13 receipts for payments to a mobile phone company in Exhibit A-6. The totality of these amounts is claimed. The difficulty here is that the evidence does not support a conclusion that the Appellant was under a contractual obligation to pay for his own mobile phone costs. Apart from this, if any such costs were deductible, there would of course be the question of the appropriate quantum; the evidence does not satisfy me that the amount paid would have been 100% deductible even if the other requirements were met. [17]
+[25] There are also varied receipts claimed in Exhibit A-8. [18] Although the exhibit is headed “tools”, it contains a wide variety of items including footwear and clothes, a camcorder, computer‑related supplies, other supplies such as bulbs and tape and a flashlight. I do not doubt that these items were used [19] in the course of the Appellant’s employment, but I am not satisfied there was a contractual obligation on the Appellant to pay for these items.
+[26] In addition, in the case of clothing or footwear these items are generally considered personal unless they cannot be worn generally; most of those expenses appear to be for items that can be worn generally.
+[27] Finally, it also appears that, based on what the Appellant has since learned, he could have been reimbursed for some of these items. [20]
+Conclusion
+[28] As previously stated, because of the absence of any T2200 forms, the appeal of the 2010 taxation year will be dismissed. The appeal of the 2011 taxation year having been withdrawn, that appeal is also dismissed. There will be no order as to costs.
+Signed at Ottawa, Ontario, this 10th day of July 2018.
+“Gaston Jorré”
+Jorré D.J.
+CITATION:
+2018 TCC 135
+COURT FILE NO.:
+2016-925(IT)I
+STYLE OF CAUSE:
+KELLY RICHARDSON v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+March 20 and April 3, 2018
+April 13, 2018 (telephone conference)
+REASONS FOR JUDGMENT BY:
+The Honourable Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+July 10, 2018
+APPEARANCES:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Suranjana Bhattacharyya
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Using the terminology of the industry, he has the function of Best Boy and the director of lighting is the Gaffer.
+[2] Transcript of March 20, 2018, page 78.
+[3] The framework is set out at length in paragraphs 8 to 18 of my decision in Chao v. The Queen, 2018 TCC 72; the quoted text is from paragraphs 17 and 18 of that decision with the footnote omitted.
+[4] Again, see the Chao decision where the legal aspects of this are discussed in paragraphs 83 to 102.
+[5] The claims are for various expenses such as mobile phone expenses, gas, travel expenses, meals and tools/supplies. These all fall under provisions of section 8 of the Income Tax Act where pursuant to subsection 8(10) a T2200 form is a mandatory precondition to the expense claim.
+[6] This conclusion is based on the evidence of not only the Appellant and Sarah Donati but also on the basis of the sample documents for a production at Exhibit A-4, notably the “Crew Deal Memo” document which starts at the third page of A-4. Indeed, it is very clear that the Appellant saw the production companies as his employer — see pages 87 and 88 of the transcript. EP’s only role was to pay the Appellant on behalf of the production companies and to withhold source deductions. EP did not in any way direct the Appellant’s work. I would note that this evidence disproved the assumption made by the Minister in paragraph 8a)i) of the reply to notice of appeal, that EP was the Appellant’s employer; given the clear evidence, no question of onus arises and the original assumption does not have any effect on the outcome.
+[7] See the testimony of the Appellant at page 24 of the transcript.
+[8] Exhibit R-1.
+[9] Transcript of March 20, 2018, pages 85 to 89.
+[10] Transcript of March 20, 2018, page 89.
+[11] It should be noted that the total amount of the receipts submitted is somewhat less than the total amount claimed.
+[12] Some of which were bought at Shoppers Drug Mart according to the receipts.
+[13] See the discussion in Chao at paragraphs 43 to 50.
+[14] I note that the documents are incomplete since they indicate that they are subject to the union agreement — see Exhibit A-4, the second page of the Crew Deal Memo at clause 7. No copy of the union agreement is in evidence.
+[15] See pages 116 and 117 of the transcript of March 20, 2018. I also note that, more generally, the evidence does not support the conclusion that the Appellant had to pay costs himself under the contract of employment.
+[16] The decision not to use the provided transportation is a personal choice.
+[17] The sample contract does not show such an obligation; the four‑page document entitled “Conditions of Employment and Accounting Procedures” at the end of Exhibit A-4 on page 2 in the fourth bullet under the heading “Kit/Equipment Rentals/Cell Phone Use” says, inter alia: “. . . Any use of personal cellular phones for production purposes must first be approved by the PM. Original invoices must be submitted for payment, and payment will be made for business calls only. . . .” In addition, when the Appellant sought reimbursement a couple of times, he was told to use the set phone. It was apparently quite difficult to use set phones so he used his own. That is a personal choice. See pages 38, 39 and 100 of the transcript of March 20, 2018.
+Claims for mobile phone expenses, even if otherwise deductible, must be limited to a reasonable portion representing work‑related use as opposed to personal use.
+[18] I note that at the hearing the Appellant made it clear that the largest single amount in Exhibit A-8, an amount of $341.25, was not being claimed; see the transcript of March 20, 2018, at pages 127 and 128.
+[19] Depending on the item entirely or partially.
+[20] For example, see the transcript of March 20, 2018, at pages 131 and 132.

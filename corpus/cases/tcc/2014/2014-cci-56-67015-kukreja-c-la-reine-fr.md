@@ -1,0 +1,217 @@
+---
+title: "Kukreja c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67015/index.do"
+last_modified: "2014-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 56"
+citation2: ""
+neutral_citation: "2014 CCI 56"
+decision_date: "2014-02-24"
+language: "fr"
+item_id: "67015"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5965
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:07:01.356000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d1b36182999f459df1531c9cbc454378c8dcf87927e2d7a1e2b658418c68fdb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kukreja c. La Reine
+
+- Citation: 2014 CCI 56
+- Decision date: 2014-02-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5965, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kukreja c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-24
+Référence neutre
+2014 CCI 56
+Numéro de dossier
+2013-2774(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2774(GST)I
+ENTRE :
+SUJATA KUKREJA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 janvier 2014, à Toronto (Ontario).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Représentant de l’appelante :
+M. Danesh Luthra
+Avocate de l’intimée :
+Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie au titre de la Loi sur la taxe d’accise, dont l’avis est daté du 2 février 2012, est rejeté, sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de février 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 3e jour d’avril 2014.
+Alya Kaddour‑Lord, traductrice
+Référence : 2014 CCI 56
+Date : 20140224
+Dossier : 2013-2774(GST)I
+ENTRE :
+SUJATA KUKREJA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Il s’agit d’un appel relatif au remboursement de la taxe sur les produits et services et de la taxe de vente harmonisée pour habitations neuves.
+[2] En 2009, l’appelante a signé un contrat de vente pour la construction d’une maison sur Thorndale Road.
+[3] Bien que la vente ait été conclue, l’appelante n’a jamais emménagé dans la maison en question.
+[4] La question en litige en l’espèce est de savoir si, à l’époque où elle a signé le contrat, l’appelante achetait la maison avec l’intention de s’en servir comme lieu de résidence habituelle[1].
+[5] Si la réponse est affirmative, alors l’appelante a droit au remboursement pour habitations neuves et l’appel devra être accueilli. Dans le cas contraire, l’appel devra être rejeté.
+[6] L’affaire repose entièrement sur les faits. L’appelante a témoigné, tout comme son mari, son beau-frère et sa belle-mère.
+[7] Il est bien établi que, lorsqu’il est nécessaire de définir l’intention des parties, on ne doit pas s’en tenir à la seule intention déclarée d’une personne, mais également examiner toutes les circonstances factuelles.
+Les éléments de preuve
+[8] Il sera utile de commencer par établir où l’appelante résidait véritablement et quels biens immobiliers elle a achetés ou loués au cours d’une période de plusieurs années.
+Les résidences et les biens immobiliers
+2003-2009
+[9] Depuis un certain moment de l’année 2003 jusqu’à environ septembre 2009, l’appelante et sa famille vivaient avec le beau-frère de celle-ci et sa famille ainsi que sa belle‑mère dans une maison située sur Reindeer Crescent.
+2009
+[10] Quelque temps avant septembre 2009, l’appelante et sa famille ont appris que le beau-frère en question avait l’intention de vendre la maison de Reindeer Crescent.
+[11] Par conséquent, le mari de l’appelante a décidé de faire construire une maison sur Thorndale Road. Par la suite, il a décidé que c’était l’appelante qui devrait se porter acquéreur de la maison, et celle-ci a signé le contrat de vente relatif à la maison de Thorndale Road le 20 août 2009, pour un prix d’achat de 525 000 $. L’achat devait se conclure plus d’un an après. Par la suite, en mai 2010, le prix a été augmenté à 540 000 $ parce que l’appelante avait choisi certaines options pour la maison.
+[12] Autour de septembre 2009, le beau‑frère de l’appelante a emménagé dans une maison située sur Mallory Road. Après avoir vécu pendant une courte période dans la nouvelle résidence de son beau-frère, l’appelante et sa famille ont emménagé dans un appartement loué situé au 420 Greenview Road, où ils ont habité pendant environ un an.
+2010
+[13] En octobre 2010, l’appelante et sa famille ont déménagé en Inde en raison de difficultés financières découlant de problèmes dans l’entreprise familiale.
+[14] L’appelante a donné une procuration à son beau-frère pour qu’il puisse conclure l’achat de la maison située sur Thorndale Road.
+[15] L’achat de la maison située sur Thorndale Road a été conclu le 25 novembre 2010; le beau-frère et la belle-sœur de l’appelante ont utilisé des fonds qu’ils avaient ainsi que des fonds empruntés sur leurs marges de crédit pour conclure l’achat de cette maison pour le compte de l’appelante.
+[16] Étant donné que le beau-frère et la belle-sœur de l’appelante devaient rembourser les importantes sommes d’argent qu’ils avaient empruntées sur leurs marges de crédit pour conclure l’achat de la maison située sur Thorndale Road, l’appelante devait les rembourser rapidement, et elle a par conséquent dit à son beau‑frère de mettre la maison en vente.
+2011
+[17] On ne sait pas exactement quand le mari de l’appelante est revenu de l’Inde, mais c’était avant que l’appelante ne revienne, et il se peut qu’il soit revenu à la toute fin de 2010 ou au début de 2011.
+[18] Le 19 janvier 2011, l’appelante a reçu une offre d’achat pour la maison de Thorndale Road, et la vente a été conclue en février 2011[2].
+[19] L’appelante a vendu la maison pour un peu plus de 100 000 $ de plus que son prix d’achat. Selon l’appelante, le gain était en fait inférieur à cette différence du fait de diverses dépenses qu’elle avait faites, mais, même s’il est tenu compte de ses dépenses, l’appelante a enregistré un gain important.
+[20] Bien que la date précise ne ressorte pas clairement de la preuve, vers la fin de son séjour en Inde en 2010, ou peu de temps après son retour, l’appelante a décidé d’acheter une maison située sur Daden Oaks Drive.
+[21] À leur retour de l’Inde, l’appelante et sa famille ont de nouveau vécu chez le beau‑frère de l’appelante pendant quelques mois.
+[22] L’appelante et sa famille n’ont pas pu emménager dans la maison de Daden Oaks Drive à ce moment parce que, d’après leur témoignage, il y avait eu du retard avec la maison[3].
+[23] Ils ont alors tenté de louer un logement, mais ils n’ont pas pu en raison de la cote de crédit du mari de l’appelante, et l’appelante a donc acheté un appartement en copropriété sur Eglinton Avenue. La famille y a emménagé.
+2012
+[24] En avril 2012, l’achat par l’appelante de la maison située sur Daden Oaks Drive a été conclu et l’appelante et sa famille y ont emménagé. L’état des rajustements pour la maison de Daden Oaks Drive[4] montre que l’appelante a reçu le remboursement de la TPS/TVH pour habitations neuves pour cette maison.
+[25] L’appelante et son mari étaient dans l’impossibilité d’assumer les frais afférents aux deux habitations, celle d’Eglinton Avenue et celle de Daden Oaks Drive, et ils ont vendu l’appartement en copropriété d’Eglinton Avenue pour générer des fonds. La preuve ne montre pas quand l’appartement en copropriété d’Eglinton Avenue a été vendu.
+L’intention déclarée
+[26] Tant l’appelante que son mari ont déclaré que leur intention avait été d’emménager dans la maison située sur Thorndale Road. Ils s’attendaient à ne pas avoir de difficultés à obtenir une hypothèque à temps pour conclure l’achat.
+[27] L’appelante savait qu’à l’époque elle avait une bonne cote de crédit et elle était certaine qu’elle pourrait obtenir une hypothèque.
+[28] Le mari de l’appelante a déclaré qu’il avait décidé qu’ils devraient acheter la maison, qu’à l’époque, ses affaires marchaient bien et qu’il ne prévoyait pas qu’il lui serait difficile d’obtenir une hypothèque. Toutefois, il a également déclaré qu’il était lié par un contrat d’achat obligatoire et que, vu que son entreprise commençait à connaître des difficultés, il avait décidé de retirer son nom du contrat et de laisser l’appelante s’engager à acheter la maison à sa place; toutefois, il pensait toujours que cela pourrait marcher.
+[29] Ni l’appelante ni son mari n’avaient pris de dispositions en vue d’un prêt hypothécaire à l’époque où ils ont conclu le contrat de vente. Aucun d’eux n’avait préparé un budget ou fait une estimation de ce que seraient leurs coûts de propriété mensuels.
+[30] Ils s’attendaient aussi à ce que la belle-mère de l’appelante emménage avec eux et participe aux dépenses mensuelles, mais ils ne s’attendaient pas à ce qu’elle contribue à l’achat de la maison.
+[31] Selon l’appelante et son mari, ils ont dû renoncer à leur plan d’emménager dans la maison pour les raisons suivantes : (i) des problèmes financiers dans l’entreprise familiale, problèmes qui ont mené à la fermeture de l’entreprise; (ii) leur incapacité à obtenir une hypothèque; (iii) la décision de la belle‑mère de l’appelante de continuer de vivre avec le beau-frère de l’appelante.
+[32] La belle‑mère de l’appelante a déclaré qu’elle avait eu l’intention d’emménager avec l’appelante et son mari et qu’elle aurait participé aux dépenses mensuelles, mais qu’elle n’aurait pas contribué à l’achat de la maison.
+[33] La belle‑mère de l’appelante a décidé de rester chez le beau-frère de l’appelante quand il est devenu clair que l’appelante et sa famille n’emménageraient pas dans la maison de Thorndale Road.
+Les autres circonstances
+Le revenu familial
+[34] À ce stade, je devrais mentionner le fait que l’appelante a déclaré à maintes reprises qu’elle avait confiance en son mari et qu’elle se reposait sur lui pour tout ce qui était des questions financières. Elle ne se mêlait tout simplement pas de ces questions. C’est son mari qui prenait les décisions en la matière, y compris les décisions afférentes à l’achat d’une maison. Elle se conformait aux décisions de son mari.
+[35] L’entreprise familiale, qui était en partie une entreprise individuelle et en partie une personne morale, était la seule source du revenu familial. L’entreprise individuelle appartenait au mari de l’appelante et la personne morale à l’appelante[5]. La première s’appelait « Mr. Golfshirt » et la seconde « Mr. Golfshirts ».
+[36] La personne morale était une entreprise de vente au détail et elle achetait la plupart de ses marchandises auprès de l’entreprise individuelle.
+[37] L’appelante travaillait pour la personne morale et elle a déclaré les revenus suivants :
+Année
+Revenu
+2005
+8 250 $
+2006
+8 500 $
+2007
+9 500 $
+2008
+12 500 $
+2009
+12 000 $
+2010
+12 000 $
+2011
+12 500 $
+[38] Pour 2009, le mari de l’appelante a déclaré qu’il avait tiré de son entreprise individuelle un revenu brut de 78 200 $ et un revenu net de 13 148 $; l’entreprise individuelle était sa seule source de revenus en 2009. Au début de 2009, l’entreprise avait un stock d’une valeur de 51 600 $. Au cours de l’année 2009, l’entreprise a acheté pour 8 100 $ de stock, et, à la fin de la même année, il ne lui restait plus aucun stock[6].
+[39] En 2010, le mari de l’appelante a déclaré qu’il n’avait tiré aucun revenu brut ou net de l’entreprise individuelle ni quelque autre revenu. Manifestement, l’entreprise individuelle avait cessé ses activités quelque temps avant 2010[7].
+[40] En ce qui concerne 2008, le mari de l’appelante a déclaré que, bien que l’Agence du revenu du Canada ait prétendu à un certain moment qu’il avait gagné pour cette année un revenu d’environ 65 000 $, celle‑ci avait par la suite accepté que ce revenu s’élevait à environ 9 700 $. Le mari de l’appelante a déclaré que 9 700 $ était le juste montant.
+[41] La belle‑mère de l’appelante a déclaré qu’elle aurait pu participer aux dépenses à raison de 400 ou 500 $ par mois.
+[42] Aucune preuve n’a été présentée à l’égard de la situation financière de la personne morale. Le mari de l’appelante a déclaré que la personne morale avait cessé ses activités et que ses comptes n’avaient pas été mis à jour. Je note également que le mari de l’appelante a déclaré qu’ils n’avaient sorti aucun actif de la personne morale.
+[43] Il n’y avait aucune preuve du fait que l’appelante ou son mari avaient économisé une importante somme d’argent dans le passé[8].
+Les autres considérations
+[44] Le plan d’étage de la maison située sur Thorndale Road montre que la superficie était de quelque 3 800 pieds carrés, et que la maison comptait six chambres à coucher (dont un loft), quatre salles de bains complètes et une salle d’eau.
+[45] Quand on a demandé à l’appelante combien il y avait de chambres à coucher et de salles de bains dans la maison, elle n’en avait aucune idée. Quand on a posé la même question à sa belle‑mère, celle‑ci a répondu que la maison comptait quatre chambres à coucher.
+Analyse
+[46] Je n’accepte pas le témoignage de l’appelante relatif à son intention pour deux raisons.
+[47] La première raison, qui est aussi la raison essentielle, est la suivante. En 2008, l’année précédant l’achat, l’appelante et son mari avaient un revenu combiné inférieur à 23 000 $. En 2009, l’année au cours de laquelle l’appelante a signé le contrat de vente, ils avaient un revenu combiné inférieur à 26 000 $. Il est également clair que l’entreprise a commencé à connaître des difficultés financières au cours de cette année-là.
+[48] Je ne pense pas que l’appelante ou son mari, qui avaient aussi deux enfants à l’époque, pouvaient raisonnablement s’attendre à être en mesure de payer toutes leurs autres dépenses courantes tout en finançant l’achat d’une maison de 500 000 $, même avec de très faibles taux d’intérêt et l’aide modeste de la belle‑mère de l’appelante.
+[49] Bien que l’appelante et son mari aient déclaré que l’entreprise était prospère, la preuve ne montre pas que celle‑ci générait le genre de revenu qui aurait pu leur permettre d’effectuer un tel achat.
+[50] Le mari de l’appelante a laissé entendre qu’ils étaient peut-être des rêveurs et que cela expliquait qu’ils aient eu des attentes irréalistes, et que cela expliquait aussi le fait qu’ils aient connu des difficultés dans leur entreprise. Je n’accepte pas qu’ils aient pu être irréalistes à ce point.
+[51] Ma seconde raison, bien qu’elle ne soit pas concluante en soi, est qu’il est improbable que l’appelante ne se souvienne pas du nombre de chambres à coucher et de salles de bains de la maison. On peut penser que la perspective d’acheter une grande maison bien à elle était un projet stimulant pour la famille, et je me serais attendu à ce que l’appelante se souvienne d’éléments essentiels tels que le fait qu’elle aurait disposé de six chambres à coucher, soit de plus de chambres à coucher que nécessaire pour tout le monde.
+Conclusion
+[52] Vu que je n’accepte pas la preuve que l’appelante a présentée en matière d’intention, il en découle que je pense qu’elle n’a pas acheté la maison de Thorndale Road dans l’intention de s’en servir comme lieu de résidence habituelle, et je dois donc rejeter l’appel.
+Signé à Halifax (Nouvelle‑Écosse), ce 24e jour de février 2014.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 3e jour d’avril 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2014 CCI 56
+NO DU DOSSIER DE LA COUR : 2013-2774(GST)I
+INTITULÉ : Sujata Kukreja c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 janvier 2014
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 24 février 2014
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Danesh Luthra
+Avocate de l’intimée :
+Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] Il s’agit d’une des conditions préalables à l’obtention du remboursement pour habitations neuves. Elle est décrite à l’alinéa 254(2)b) de la Loi sur la taxe d’accise, qui est ainsi libellé :
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+(a) […]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui‑ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+c) […]
+[2] La pièce A-6 est une forme d’entente avec le courtier en immobilier. Bien que la date à laquelle cette entente a été signée par la partie vendeuse (l’appelante), ou pour le compte de celle‑ci, soit très difficile à lire, il semble qu’on puisse déchiffrer [traduction] « déc », ce que je considère comme une référence au mois de décembre 2010.
+[3] Ils ont acheté cette maison auprès de la même société qui leur avait vendu la maison située sur Thorndale Road. Ni l’appelante ni son mari n’ont expliqué la cause de ce retard, mais je suppose que c’est avec la construction de la maison qu’il y a eu du retard.
+[4] Pièce R-3.
+[5] Le mari de l’appelante a témoigné au sujet de l’historique de propriété de la personne morale. Son récit était le suivant. À l’origine, il a fondé la personne morale avec un de ses proches, et ils en étaient tous les deux les propriétaires; deux autres personnes sont alors devenues également propriétaires, et, par la suite, après que la personne morale a connu certaines difficultés, l’appelante en est devenue l’unique propriétaire. Plus tard dans son témoignage, le mari de l’appelante a déclaré que, après que l’appelante est devenue propriétaire de la personne morale, il en était redevenu l’unique propriétaire pendant un certain temps, et que, finalement, c’était sa femme qui était devenue l’unique propriétaire.
+[6] Pièce R-5, à la page 2 de l’État des résultats des activités d’une entreprise ou d’une profession libérale joint au relevé T1 du mari de l’appelante.
+[7] Pièce R-4, à la page 2.
+[8] Quand on a questionné le mari de l’appelante au sujet du versement initial de 30 000 $ effectué pour la maison de Thorndale Road, il a déclaré que ce montant venait de marges de crédit; il a également dit qu’ils étaient [traduction] « riches en stock », bien que je ne comprenne pas comment cela aurait pu les aider vu que (i) dans le cas de l’entreprise individuelle, le stock a été liquidé en 2009, vu que la déclaration de revenus pour cette année montre qu’il n’y avait aucun stock à la fin de l’exercice; (ii) dans le cas de la personne morale, le mari de l’appelante a déclaré qu’ils n’avaient jamais pris d’argent de la personne morale, et que le seul revenu tiré de celle‑ci était celui qui apparaissait dans la déclaration de revenus de l’appelante. Un peu plus tard dans son témoignage, le mari de l’appelante a déclaré que, vu qu’ils avaient payé certains frais relatifs à la maison située sur Reindeer Crescent, ils ont tiré de l’argent de la vente de cette maison. Il n’a toutefois jamais donné de chiffres, et le beau‑frère de l’appelante n’a jamais été questionné sur ce point.

@@ -1,0 +1,709 @@
+---
+title: "Howe c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26301/index.do"
+last_modified: "2004-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 719"
+citation2: ""
+neutral_citation: "2004 CCI 719"
+decision_date: "2004-10-29"
+language: "fr"
+item_id: "26301"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3313
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:53:12.647000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13a1dc04eab9047e02fb53f6f645500d361b7bfd71a7341316c93d7422dd1334"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Howe c. La Reine
+
+- Citation: 2004 CCI 719
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3313, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Howe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-29
+Référence neutre
+2004 CCI 719
+Numéro de dossier
+2001-2716(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001‑2716(IT)G
+ENTRE :
+DENIS HOWE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Timothy Gamble
+(2001‑3707(IT)G), Cameron W. D. White (2001‑3715(IT)G),
+Kenneth M. Hawley (2001‑3712(IT)G) et Craig Lodge (2001‑2718(IT)G)
+les 29 mars et 15 avril 2004 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge R. D. Bell
+Comparutions :
+Avocats de l’appelant :
+Mes David R. Davies et Samantha Mason
+Avocates de l’intimée :
+Mes Lynn M. Burch et Pam Meneguzzi
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu la Loi de l’impôt sur le revenu pour l’année d’imposition 1995 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation selon les motifs du jugement ci‑joints.
+Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 6e jour de mars 2006.
+Mario Lagacé, réviseur
+Dossier : 2001‑3707(IT)G
+ENTRE :
+TIMOTHY GAMBLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Denis Howe
+(2001‑2716(IT)G), Cameron W. D. White (2001‑3715(IT)G),
+Kenneth M. Hawley (2001‑3712(IT)G) et Craig Lodge (2001‑2718(IT)G)
+les 29 mars et 15 avril 2004 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge R. D. Bell
+Comparutions :
+Avocats de l’appelant :
+Mes David R. Davies et Samantha Mason
+Avocates de l’intimée :
+Mes Lynn M. Burch et Pam Meneguzzi
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995 et 1996 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation selon les motifs de jugement ci‑joints.
+Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 6e jour de mars 2006.
+Mario Lagacé, réviseur
+Dossier : 2001‑3715(IT)G
+ENTRE :
+CAMERON W. D. WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Timothy Gamble
+(2001‑3707(IT)G), Denis Howe (2001‑2716(IT)G),
+Kenneth M. Hawley (2001‑3712(IT)G) et Craig Lodge (2001‑2718(IT)G)
+les 29 mars et 15 avril 2004 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge R. D. Bell
+Comparutions :
+Avocats de l’appelant :
+Mes David R. Davies et Samantha Mason
+Avocates de l’intimée :
+Mes Lynn M. Burch et Pam Meneguzzi
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995 et 1996 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation selon les motifs de jugement ci‑joints.
+Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 6e jour de mars 2006.
+Mario Lagacé, réviseur
+Dossier : 2001‑3712(IT)G
+ENTRE :
+KENNETH M. HAWLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Timothy Gamble
+(2001‑3707(IT)G), Cameron W. D. White (2001‑3715(IT)G),
+Denis Howe (2001‑2716(IT)G) et Craig Lodge (2001‑2718(IT)G)
+les 29 mars et 15 avril 2004 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge R. D. Bell
+Comparutions :
+Avocats de l’appelant :
+Mes David R. Davies et Samantha Mason
+Avocates de l’intimée :
+Mes Lynn M. Burch et Pam Meneguzzi
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu la Loi de l’impôt sur le revenu pour l’année d’imposition 1996 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation selon les motifs de jugement ci‑joints.
+Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 6e jour de mars 2006.
+Mario Lagacé, réviseur
+Dossier : 2001‑2718(IT)G
+ENTRE :
+CRAIG LODGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Timothy Gamble
+(2001‑3707(IT)G), Cameron W. D. White (2001‑3715(IT)G),
+Kenneth M. Hawley (2001‑3712(IT)G) et Denis Howe (2001‑2716(IT)G)
+les 29 mars et 15 avril 2004 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge R. D. Bell
+Comparutions :
+Avocats de l’appelant :
+Mes David R. Davies et Samantha Mason
+Avocates de l’intimée :
+Mes Lynn M. Burch et Pam Meneguzzi
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu la Loi de l’impôt sur le revenu pour l’année d’imposition 1995 est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation selon les motifs de jugement ci‑joints.
+Les dépens sont adjugés à l’appelant.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 6e jour de mars 2006.
+Mario Lagacé, réviseur
+Référence : 2004CCI719
+Date : 20041029
+Dossier : 2001‑2716(IT)G
+ENTRE :
+DENIS HOWE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier : 2001‑3707(IT)G
+TIMOTHY GAMBLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier : 2001‑3715(IT)G
+CAMERON W. D. WHITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier : 2001‑3712(IT)G
+KENNETH M. HAWLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+Dossier : 2001‑2718(IT)G
+CRAIG LODGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+[1] Les points litigieux sont définis par les parties aux paragraphes 85 et 86 de l’exposé conjoint partiel des faits, mais ils sont repris ci‑dessous :
+1. Le droit au montant que les détenteurs respectifs d’unités de deux sociétés de personnes devaient recevoir, selon les offres que Vidatron était tenue de faire afin de mener à bonne fin l’échange de ses actions contre des unités, qui constituent des participations dans ces sociétés de personnes, a‑t‑il été accordé en vue de réduire l’effet « [...] d’une perte dont [les détenteurs d’unités] serai[ent] tenu[s] » au sens de l’alinéa 96(2.2)d), de façon à entraîner une réduction de la fraction « à risques » et, par conséquent, du montant que les associés peuvent déduire au titre de pertes de la société de personnes.
+2. Subsidiairement, les opérations conclues entre chacune des deux sociétés de personnes, NM I et NM II, et Vidatron constituaient‑elles des opérations d’évitement dont découlaient, directement ou indirectement, des avantages fiscaux pour les appelants au sens du paragraphe 245(2) et de l’alinéa 245(3)b) de la Loi?
+[2] Il appartient à la Cour de trancher la première question, mais, comme il en est fait mention au paragraphe 87 :
+[traduction] À l’exception de la question ci‑dessus énoncée à l’égard de l’alinéa 96(2.2)d) et de la disposition générale anti‑évitement, les parties s’entendent pour dire que les appelants auraient le droit de déduire leur part des pertes d’entreprise de NM I et de NM II conformément aux dispositions de la Loi.
+[3] Les parties ont déposé un exposé conjoint partiel des faits et des points en litige qui est rédigé comme suit. À cet exposé vient s’ajouter une preuve orale et certains extraits des interrogatoires préalables.
+[traduction]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+ET DES POINTS EN LITIGE
+Pour les besoins de l’instance engagée dans les affaires Timothy Gamble c. La Reine, CCI 2001‑3707(IT)G, Cameron W. D. White c. La Reine, CCI 2001‑3715(IT)G, Denis Howe c. La Reine, CCI 2001‑2716(IT)G, Kenneth M. Hawley c. La Reine, CCI 2001‑3712(IT)G et Craig Lodge c. La Reine, CCI 2001‑2718(IT)G et de tout appel en résultant, les appelants et l’intimée s’entendent sur les faits ci‑après énoncés :
+1. Vidatron Entertainment Group Inc. (« Vidatron ») est une société constituée en vertu des lois de la Colombie‑Britannique. Pendant la période pertinente, les actions ordinaires de Vidatron étaient cotées à la Bourse de Vancouver.
+2. Pendant la période pertinente, Vidatron s’occupait notamment de produire et de distribuer des films, des vidéos et de la programmation interactive pour les secteurs du marché des entreprises, de l’enseignement et du divertissement.
+Société en commandite New Media Marketing
+3. La société en commandite New Media Marketing (« NM I ») a été établie en tant que société en commandite le 15 mars 1995, en vertu des lois de la Colombie‑Britannique.
+4. Le commandité de NM I était New Media Finance Ltd. (Vidatron Marketing Ltd. était le commandité initial de NM I; elle a été remplacée par son ayant cause, New Media Finance Ltd.). Kathleen Martin et Shelley Kirk étaient administratrices du commandité. Kathleen Martin était présidente et unique actionnaire du commandité. Cameron White était secrétaire du commandité.
+5. NM I est l’une de plusieurs sociétés en commandite s’occupant de commercialisation dans lesquelles Vidatron était en cause : les autres sont Georgia Marketing Limited Partnership (1990), Georgia II Marketing Limited Partnership (1991), Vidatron Marketing (1993) Limited Partnership et New Media Marketing II Limited Partnership (1996).
+6. Le 15 mars 1995, Vidatron et plusieurs sociétés liées ont conclu avec NM I une entente de coentreprise (la « première entente ») par laquelle NM I s’engageait à mettre sur pied un programme de publicité et de commercialisation en vue de promouvoir les produits et services de Vidatron. La première entente a été modifiée par une entente datée du 15 octobre 1995.
+7. Le comité de gestion mentionné dans la première entente était composé de Shelley Kirk, de Kathleen Martin, de Tim Gamble et de Cameron White.
+8. Aux termes de la première entente, dans sa forme modifiée, NM I était tenue de dépenser au moins 485 000 $ et au plus 1 275 000 $ pendant la période allant du 15 mars au 31 décembre 1995. Vidatron a convenu d’engager un montant correspondant aux dépenses initiales engagées par NM I entre le 1er janvier 1996 et la fin de la première entente, le 31 décembre 2005.
+9. En échange des dépenses initiales engagées en vertu de la première entente et sous réserve de rajustements additionnels, Vidatron était tenue de verser à NM I une part correspondant à 8 p. 100 des « recettes nettes », au sens donné à cette expression dans la première entente, à compter du 1er janvier 1996.
+10. La fraction des recettes revenant à NM I devait faire l’objet d’un rajustement annuel additionnel basé sur les dépenses cumulatives engagées par NM I et par Vidatron dans le cadre du programme de commercialisation. On détermine le montant des recettes nettes à partager avec la société de personnes en déduisant d’abord des recettes brutes un montant de 7 000 000 $ représentant un rajustement des recettes de base. Le rajustement des recettes de base est une estimation des recettes qui seraient réalisées au cours de la durée du programme de commercialisation en l’absence de pareil programme (pendant la phase initiale et pendant les autres phases du programme).
+11. Aux termes de la première entente de commercialisation, Vidatron s’engageait à soumettre une offre en vue d’acquérir les unités en circulation de NM I après le 1er avril 1996 et avant le 31 août 1996. Vidatron s’engageait à soumettre l’offre à un prix égal au moindre des montants suivants :
+a) 1 080 $ l’unité;
+b) la juste valeur marchande de l’unité.
+La totalité du prix devait être payée au moyen d’actions ordinaires de Vidatron à leur prix moyen pondéré pendant les 20 séances à la bourse précédant le cinquième jour ouvrable avant la date à laquelle l’offre avait été soumise.
+12. La première entente prévoyait en outre que, si au moins 65 p. 100 des unités émises, à l’exclusion des unités appartenant à Vidatron, étaient remises en acceptation de l’offre d’échange, les autres commanditaires étaient tenus de vendre les unités qu’ils détenaient dans NM I et le commandité était tenu de vendre sa participation à Vidatron aux conditions stipulées dans la première entente.
+13. NM I a offert de vendre ses unités par l'entremise d’une notice d’offre datée du 15 octobre 1995. NM I a vendu 934 unités en tout, au prix de 1 000 $ l’unité, le produit brut de l’offre s’élevant à 934 000 $.
+14. L’exercice de 1995 de NM I prenait fin le 31 décembre 1995. Pour l’exercice 1995, les recettes de NM I étaient nulles et ses dépenses s’élevaient à 858 949 $, ce qui donnait une perte d’entreprise nette globale de 858 949 $.
+15. Les dépenses ayant donné lieu à la perte d’entreprise nette subie par NM I ont principalement été engagées aux fins ci‑après énoncées : frais de consultation versés à la direction et aux dirigeants de Vidatron, production de maquettes vidéo et de vidéos promotionnelles, publicité par correspondance, notamment des brochures, des dépliants et des propositions incorporant des illustrations et des textes, de la promotion générale, notamment pour des salons professionnels, des voyages, des vêtements, des repas, des représentations et de la publicité.
+16. Conformément à l’entente de société en commandite, un montant de 857 326 $ sur la perte nette subie par NM I en 1995 a été attribué aux commanditaires. Une perte de 917,90 $ a été attribuée à chaque unité de la société en commandite NM I.
+17. Le 31 juillet 1996, Vidatron a soumis une offre (l’« offre concernant NM I ») en vue d’acquérir les unités que les commanditaires détenaient dans NM I au prix de 1 080 $ l’unité (soit le moindre de 1 080 $ l’unité ou de la juste valeur marchande, de 1 627 $ l’unité) conformément aux exigences de la première entente. À ce moment‑là, les détenteurs d’unités ont reçu les documents suivants : offre d’achat, prospectus, rapport d’évaluation préparé par I.S. Grant & Associates en date du 7 juin 1996, états financiers de Vidatron pour la période de neuf mois ayant pris fin le 31 mai 1996, circulaire du conseil d’administration et lettre d’acceptation et de transmission. Les souscripteurs devaient transmettre leurs lettres d’acceptation à Vidatron au plus tard le 23 août 1996.
+18. L’évaluation prévue à l’article 2.16 de la première entente a été préparée par I.S. Grant & Company pour Vidatron.
+19. Conformément à l’offre concernant NM I, plus de 65 p. 100 de toutes les unités de la société en commandite ont été remises en acceptation de l’offre d’échange. Par conséquent, toutes les unités de NM I ont été remises à Vidatron, en échange de 473 538 actions de Vidatron en tout, au prix réputé de 2,13 $ l’action (soit le prix moyen pondéré des actions négociées à la Bourse de Vancouver pendant les 20 séances à la bourse précédant le cinquième jour avant la date à laquelle l’offre concernant NM I avait été annoncée).
+20. Les offres concernant NM I ont été acceptées comme il en a ci‑dessus été fait mention et la participation du commandité a été vendue à Vidatron avant que les recettes de base de 7 000 000 $ aient été réalisées.
+21. NM I a été dissoute après que Vidatron eut acquis toutes les unités de NM I.
+La société en commandite New Media Marketing II
+22. La société en commandite New Media Marketing II (« NM II ») a été établie en tant que société en commandite le 6 mars 1996, en vertu des lois de la Colombie‑Britannique.
+23. Le commandité de NM II était New Media Finance II Ltd. Kathleen Martin et Shelley Kirk étaient administratrices du commandité. Kathleen Martin était présidente et Shelley Kirk était secrétaire du commandité; elles possédaient ensemble la totalité des actions du commandité.
+24. NM II est l’une de plusieurs sociétés en commandite s’occupant de commercialisation dans lesquelles Vidatron était en cause : les autres sont Georgia Marketing Limited Partnership (1990), Georgia II Marketing Limited Partnership (1991), Vidatron Marketing (1993) Limited Partnership et New Media Marketing Limited Partnership (1995).
+25. Le 6 mars 1996, Vidatron et plusieurs sociétés liées ont conclu avec NM II une entente de coentreprise (la « seconde entente »), par laquelle NM II s’engageait à mettre sur pied un programme de publicité et de commercialisation en vue de promouvoir les produits et services de Vidatron.
+26. Le comité de gestion mentionné dans la seconde entente était composé de Shelley Kirk, de Kathleen Martin, de Tim Gamble et de Cameron White.
+27. Aux termes de la seconde entente, NM II était tenue de dépenser au moins 835 000 $ et au plus 1 700 000 $ pendant la période allant du 6 mars au 31 décembre 1996. Vidatron a convenu d’engager un montant correspondant aux dépenses initiales engagées par NM II entre le 1er janvier 1997 et la fin de la seconde entente, le 31 décembre 2006.
+28. En échange des dépenses initiales engagées en vertu de la seconde entente et sous réserve de rajustements additionnels, Vidatron était tenue de verser à NM II une part correspondant à 8 p. 100 des « recettes nettes » au sens donné à cette expression dans la seconde entente, à compter du 1er janvier 1997.
+29. La fraction des recettes revenant à NM II devait faire l’objet d’un rajustement annuel additionnel basé sur les dépenses cumulatives engagées par NM II et par Vidatron dans le cadre du programme de commercialisation. On détermine le montant des recettes nettes à partager avec NM II en déduisant d’abord des recettes brutes un montant de 11 000 000 $ représentant un rajustement des recettes de base. Le rajustement des recettes de base est une estimation des recettes qui seraient réalisées au cours de la durée du programme de commercialisation en l’absence de pareil programme (pendant la phase initiale et pendant les autres phases du programme).
+30. Aux termes de la seconde entente, Vidatron s’engageait à soumettre une offre en vue d’acquérir les unités en circulation de NM II après le 1er avril 1997 et avant le 31 août 1997. Vidatron s’engageait à soumettre l’offre à un prix égal au moindre des montants suivants :
+a) 1 080 $ l’unité;
+b) la juste valeur marchande de l’unité.
+La totalité du prix devait être payée au moyen d’actions ordinaires de Vidatron à leur prix moyen pondéré pendant les 20 séances à la bourse précédant le cinquième jour ouvrable avant la date où l’offre avait été soumise.
+31. La seconde entente prévoyait en outre que, si au moins 65 p. 100 des unités émises, à l’exclusion des unités appartenant à Vidatron, étaient remises en acceptation de l’offre d’échange, les autres commanditaires étaient tenus de vendre les unités qu’ils détenaient dans NM II et le commandité était tenu de vendre sa participation à Vidatron aux conditions stipulées dans la seconde entente.
+32. NM II a offert de vendre ses unités au moyen d’une notice d’offre datée du 15 juin 1996. NM II a vendu 1 999 unités en tout, au prix de 950 $ l’unité, le produit brut de l’offre s’élevant à 1 899 050 $.
+33. L’exercice 1996 de NM II prenait fin le 31 décembre 1996. Pour l’exercice 1996, NM II avait réalisé des recettes brutes s’élevant à 1 471 $ et avait subi une perte d’entreprise nette globale de 1 796 405 $. Une perte de 894,32 $ a été attribuée à chaque unité de la société en commandite NM I.
+34. Les dépenses ayant donné lieu à la perte d’entreprise nette subie par NM II ont principalement été engagées aux fins ci‑après énoncées : frais de consultation versés à la direction et aux dirigeants de Vidatron, production de maquettes vidéo et de vidéos promotionnelles, publicité par correspondance, notamment des brochures, des dépliants et des propositions incorporant des illustrations et des textes, de la promotion générale, notamment pour des salons professionnels, des voyages, des vêtements, des repas, des représentations et de la publicité.
+35. Le 11 juin 1997 ou vers cette date, Vidatron a soumis une offre (l’« offre concernant NM II ») en vue d’acquérir les unités que les commanditaires détenaient dans NM II au prix de 1 080 $ l’unité (soit le moindre de 1 080 $ l’unité ou de la juste valeur marchande de 1 886 $ l’unité), conformément aux exigences de la seconde entente. À ce moment‑là, les détenteurs d’unités ont reçu les documents suivants : offre d’achat, prospectus, circulaire du conseil d’administration, rapport d’évaluation d’I.S. Grant & Company Ltd. en date du 1er juin 1997, états financiers de Vidatron pour la période de six mois ayant pris fin le 28 février 1997 et lettre d’acceptation et de transmission. Les souscripteurs devaient transmettre leurs lettres d’acceptation au plus tard le 4 juillet 1997.
+36. Le rapport d’évaluation prévu à l’article 2.16 de la seconde entente a été préparé par I.S. Grant & Company pour Vidatron.
+37. Conformément à l’offre concernant NM II, le 4 juillet 1997, plus de 65 p. 100 des commanditaires ont accepté l’offre d’échange. Par conséquent, toutes les unités de la société en commandite ont été remises en échange de 423 042 actions de Vidatron en tout, au prix réputé de 5,25 $ l’action (soit le prix moyen pondéré des actions négociées à la Bourse de Vancouver pendant les 20 séances à la bourse précédant le cinquième jour avant la date à laquelle l’offre d’échange avait été annoncée).
+38. Les offres concernant NM II ont été acceptées comme il en a ci‑dessus été fait mention et la participation du commandité a été vendue à Vidatron.
+39. NM II a été dissoute après que Vidatron eut acquis toutes les unités de NM II.
+Timothy Gamble (« M. Gamble »)
+40. Pendant la période pertinente, M. Gamble était président et administrateur ou dirigeant de Vidatron et il était membre du comité de gestion du commandité.
+41. M. Gamble a acquis 25 unités de NM I au prix de 1 000 $ l’unité, le montant total s’élevant à 25 000 $. Il a souscrit aux unités de NM I le 28 décembre 1995 et il a payé les unités au moyen d’un chèque daté du 31 décembre 1995. Le commandité a accepté la souscription le 29 décembre 1995.
+42. La part de la perte d’entreprise de NM I attribuée à M. Gamble pour l’année d’imposition 1995 était de 917,90 $ l’unité, soit un montant de 22 947,45 $ en tout.
+43. M. Gamble a déduit sa part de la perte d’entreprise de NM I en calculant son revenu pour l’année d’imposition 1995 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+44. À la suite de l’offre que Vidatron avait faite en vertu de la première entente, M. Gamble a vendu à Vidatron les unités qu’il détenait dans NM I en échange de 12 676 actions ordinaires de Vidatron.
+45. Vidatron et M. Gamble ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi de l’impôt sur le revenu (Canada) (la « Loi ») à l’égard du transfert des unités de NM I que M. Gamble détenait pour une « somme convenue » de 82,102 $ l’unité, soit un montant de 2 052,55 $ en tout.
+46. Par un avis de nouvelle cotisation daté du 15 avril 1999, le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’année d’imposition 1995 de M. Gamble en vue de refuser la part de la perte d’entreprise de NM I qui était attribuée à M. Gamble (l’« avis de nouvelle cotisation de 1995 concernant M. Gamble »).
+47. En ratifiant la nouvelle cotisation relative à l’année d’imposition 1995 de M. Gamble, le ministre s’est appuyé sur la disposition générale anti‑évitement comme autre fondement en vue de refuser la déduction de la part de la perte d’entreprise de NM I qui avait été attribuée à M. Gamble pour l’année 1995.
+48. M. Gamble a acquis 25 unités de NM II au prix de 950 $ l’unité, le montant total s’élevant à 23 750 $. M. Gamble a payé par chèque le prix d’achat intégral de ses unités lors de la clôture.
+49. La part de la perte d’entreprise de NM II attribuée à M. Gamble pour l’année d’imposition 1996 s’élevait à 894,32 $ l’unité, soit un montant de 22 358,02 $ en tout.
+50. M. Gamble a déduit sa part de la perte d’entreprise de NM II en calculant son revenu pour l’année d’imposition 1996 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+51. À la suite de l’offre que Vidatron avait faite en vue d’acquérir les unités de la société New Media II détenues par M. Gamble en vertu de la seconde entente, M. Gamble a vendu à Vidatron les unités qu’il détenait dans NM II en échange de 5 150 actions ordinaires de Vidatron.
+52. Vidatron et M. Gamble ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi à l’égard du transfert des unités de NM II que M. Gamble détenait pour la « somme convenue » de 55,67 $ l’unité, soit un montant de 1 391,75 $ en tout.
+Cameron White (« M. White »)
+53. En 1995 et en 1996, M. White était directeur général et administrateur de Vidatron. Pendant la période pertinente, M. White était membre du comité de gestion des commandités en cause dans NM I et NM II. En 1995, il était également secrétaire du commandité.
+54. M. White a acquis 30 unités de NM I au prix de 1 000 $ l’unité, le montant total s’élevant à 30 000 $.
+55. La part de la perte d’entreprise de NM I attribuée à M. White pour l’année d’imposition 1995 était de 917,90 $ l’unité, soit un montant de 27 536,94 $ en tout.
+56. M. White a déduit sa part de la perte d’entreprise de NM I en calculant son revenu pour l’année d’imposition 1995 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+57. À la suite de l’offre que Vidatron avait faite en vertu de la première entente, M. White a vendu à Vidatron les unités qu’il détenait dans NM I en échange de 15 210 actions ordinaires de Vidatron.
+58. Vidatron et M. White ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi à l’égard du transfert des unités de NM I que M. White détenait pour la « somme convenue » de 82,102 $ l’unité, soit un montant de 2 463,26 $ en tout.
+59. Dans un avis de nouvelle cotisation daté du 20 mai 1999, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 1995 de M. White en vue de refuser la part de la perte d’entreprise de NM I qui était attribuée à M. White (l’« avis de nouvelle cotisation de 1995 concernant M. White »).
+60. En ratifiant la nouvelle cotisation relative à l’année d’imposition 1995 de M. White, le ministre s’est appuyé sur la disposition générale anti‑évitement comme autre fondement en vue de refuser la déduction de la part de la perte d’entreprise de NM I qui avait été attribuée à M. White pour l’année 1995.
+61. M. White a acquis 27 unités de NM II au prix de 950 $ l’unité, le montant total s’élevant à 25 650 $. M. White a payé par chèque le prix d’achat intégral de ses unités lors de la clôture. Il a souscrit aux unités de NM II le 30 août 1996, et le commandité a accepté sa souscription le même jour.
+62. La part de la perte d’entreprise de NM II attribuée à M. White pour l’année d’imposition 1996 était de 894,32 $ l’unité, soit un montant de 24 146,66 $ en tout.
+63. M. White a déduit sa part de la perte d’entreprise de NM II en calculant son revenu pour l’année d’imposition 1996 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+64. À la suite de l’offre que Vidatron avait faite en vue d’acquérir les unités de NM II détenues par M. White en vertu de la seconde entente, M. White a vendu à Vidatron les unités qu’il détenait dans NM II en échange de 5 562 actions ordinaires de Vidatron.
+65. Vidatron et M. White ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi à l’égard du transfert des unités de NM II que M. White détenait pour la « somme convenue » de 55,67 $ l’unité, soit un montant de 1 503,34 $ en tout.
+Denis Howe (« M. Howe »)
+66. M. Howe a acquis 13 unités de NM I au prix de 1 000 $ l’unité, le montant total s’élevant à 13 000 $. Il a souscrit aux unités de NM I le 19 décembre 1995. Le commandité a accepté la souscription le 20 décembre 1995.
+67. La part de la perte d’entreprise de NM I attribuée à M. Howe pour l’année d’imposition 1995 était de 917,898 $ l’unité, soit un montant de 11 932,67 $ en tout.
+68. M. Howe a déduit sa part de la perte d’entreprise de NM I en calculant son revenu pour l’année d’imposition 1995 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+69. À la suite de l’offre que Vidatron avait faite en vertu de la première entente, M. Howe a vendu à Vidatron les unités qu’il détenait dans NM I en échange de 6 591 actions ordinaires de Vidatron.
+70. Vidatron et M. Howe ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi à l’égard du transfert des unités de NM I que M. Howe détenait pour la « somme convenue » de 82,102 $ l’unité, soit un montant de 1 067,33 $ en tout.
+71. Dans un avis de nouvelle cotisation daté du 11 mars, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 1995 de M. Howe en vue de refuser la part de la perte d’entreprise de NM I qui était attribuée à M. Howe (l’« avis de nouvelle cotisation de 1995 concernant M. Howe »).
+72. En ratifiant la nouvelle cotisation relative à l’année d’imposition 1995 de M. Howe, le ministre s’est appuyé sur la disposition générale anti‑évitement comme autre fondement en vue de refuser la déduction de la part de la perte d’entreprise de NM I qui avait été attribuée à M. Howe pour l’année 1995.
+Kenneth M. Hawley (« M. Hawley »)
+73. M. Hawley a acquis 27 unités de NM II au prix de 950 $ l’unité, le montant total s’élevant à 25 650 $. Il a souscrit aux unités de NM II le 30 août 1996. Le commandité a accepté la souscription le 6 septembre 1996. M. Hawley a payé par chèque le prix d’achat intégral de ses unités lors de la clôture.
+74. La part de la perte d’entreprise de NM II attribuée à M. Hawley pour l’année d’imposition 1996 était de 894,32 $ l’unité, soit un montant de 24 146,66 $ en tout.
+75. M. Hawley a déduit sa part de la perte d’entreprise de NM II, d’un montant de 23 830 $, en calculant son revenu pour l’année d’imposition 1996 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+76. À la suite de l’offre que Vidatron avait faite en vue d’acquérir les unités de NM II détenues par M. Hawley en vertu de la seconde entente, M. Hawley a vendu à Vidatron les unités qu’il détenait dans NM II en échange de 5 562 actions ordinaires de Vidatron.
+77. Vidatron et M. Hawley ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi à l’égard du transfert des unités de NM II que M. Hawley détenait pour la « somme convenue » de 55,67 $ l’unité, soit un montant de 1 503,34 $ en tout.
+Craig Lodge (« M. Lodge »)
+78. M. Lodge a acquis 25 unités de NM I au prix de 1 000 $ l’unité, le montant total s’élevant à 25 000 $. Il a souscrit aux unités de NM I le 29 décembre 1995. Le commandité a accepté la souscription le 29 décembre 1995.
+79. La part de la perte d’entreprise de NM I attribuée à M. Lodge pour l’année d’imposition 1995 était de 917,90 $ l’unité, soit un montant de 22 947 $ en tout.
+80. M. Lodge a déduit sa part de la perte d’entreprise de NM I en calculant son revenu pour l’année d’imposition 1995 compte tenu du fait que la perte était déductible conformément à l’alinéa 96(1)g) de la Loi.
+81. À la suite de l’offre que Vidatron avait faite en vertu de la première entente, M. Lodge a vendu à Vidatron les unités qu’il détenait dans NM I en échange de 12 676 actions ordinaires de Vidatron.
+82. Vidatron et M. Lodge ont présenté un choix conjoint en vertu du paragraphe 85(1) de la Loi à l’égard du transfert des unités de NM I que M. Lodge détenait pour la « somme convenue » de 82,102 $ l’unité, soit un montant de 2 052,55 $ en tout.
+83. Dans un avis de nouvelle cotisation daté du 1er avril 1999, le ministre a établi une nouvelle cotisation à l’égard de l’année d’imposition 1995 de M. Lodge en vue de refuser la part de la perte d’entreprise de NM I qui était attribuée à M. Lodge (l’« avis de nouvelle cotisation de 1995 concernant M. Lodge »).
+84. En ratifiant la nouvelle cotisation à l’égard de l’année d’imposition 1995 de M. Lodge, le ministre s’est appuyé sur la disposition générale anti‑évitement comme autre fondement en vue de refuser la déduction de la part de la perte d’entreprise de NM I qui avait été attribuée à M. Lodge pour 1995.
+Points en litige :
+85. Il s’agit en premier lieu de savoir si le montant que les détenteurs respectifs d’unités avaient conditionnellement le droit de recevoir, selon les offres d’échange que Vidatron était tenue de faire, a été accordé à l’une des fins prévues à l’alinéa 96(2.2)d).
+86. Subsidiairement, il s’agit en outre de savoir ce qui suit :
+a) si les opérations conclues entre NM I, NM II et Vidatron étaient des opérations d’évitement, qui ont entraîné, directement ou indirectement, des avantages fiscaux pour les appelants au sens du paragraphe 245(2) et de l’alinéa 245(3)b) de la Loi;
+b) si le paragraphe 245(2) de la Loi est inapplicable à cause du paragraphe 245(4) de la Loi.
+87. À l’exception de la question ci‑dessus énoncée à l’égard de l’alinéa 96(2.2)d) et de la disposition générale anti‑évitement, les parties ont convenu que les appelants auraient le droit de déduire leur part des pertes d’entreprise de NM I et de NM II conformément aux dispositions de la Loi.
+Les parties conviennent qu’elles auront le droit de soumettre d’autres éléments de preuve (en plus du présent exposé conjoint partiel des faits ou du recueil conjoint de documents) ou de demander à la Cour canadienne de l’impôt de faire des inférences à partir de la preuve présentée, à condition que ces éléments additionnels ou ces inférences ne soient pas incompatibles avec le présent exposé conjoint partiel des faits.
+Les appelants et l’intimée conviennent de déposer en preuve devant la Cour des copies des documents suivants pour les besoins de la présente instance. Les parties conviennent que le dépôt de ces documents, conformément à la présente entente, n’est pas fait en vertu de l’article 145 des Règles de procédure générale concernant les experts.
+A1. Le présent exposé conjoint partiel des faits
+A2. Le recueil conjoint de documents.
+[4] SOMMAIRE DES PERTES D’ENTREPRISE DÉDUITES PAR LES CINQ APPELANTS :
+M. Gamble
+1995 22 947,45 $
+1996 22 358,02 $
+M. White
+1995 27 536,94 $
+1996 24 146,66 $
+M. Howe
+1995 11 932,67 $
+M. Hawley
+1996 24 146,66 $
+M. Lodge
+1995 22 947,00 $
+FAITS QUI RESSORTENT DE LA PREUVE PRÉSENTÉE À L’AUDIENCE
+[5] Lorsqu’on lui a demandé, pendant le contre‑interrogatoire, si la société s’attendait à ce que les détenteurs d’unités exercent leurs droits d’échanger leurs unités contre des actions lorsque Vidatron a soumis l’offre, M. White a répondu ce qui suit :
+[traduction] Eh bien, je ne sais pas quoi dire. Y avait‑il une attente? Ouais, il y avait – il y avait des chances que cela arrive, de bonnes chances que cela arrive, mais on ne sait jamais.
+[6] Le contre‑interrogatoire s’est poursuivi comme suit :
+[traduction]
+Q. Vidatron voulait certes que cela arrive, n’est‑ce pas?
+R. Eh bien, je crois avoir dit hier que je ne – la chose m’importait peu une fois que nous avions obtenu l’argent. C’était là mon principal objectif. Et par conséquent – par conséquent, au fur et à mesure que la société continuait à prendre de l’expansion, il était bon d’avoir la possibilité de racheter ces flux de revenu, mais en 1994 et en 1995 – ou en 1995 et 1996, lorsque nous l’avons fait, l’objectif principal était d’attirer des capitaux d’investissement.
+Q. Mais il était bon pour Vidatron d’obtenir les unités et de les échanger contre des actions?
+R. Eh bien, je ne sais pas. Je ne sais pas. Ce n’est qu’après coup que l’on peut savoir si c’était bon.
+[7] Lors du réinterrogatoire, l’échange de propos suivant a eu lieu :
+[traduction]
+Q. La société avait‑elle les ressources nécessaires, en l’absence de ces sociétés de personnes, pour aller de l’avant et entreprendre elle‑même ces programmes?
+R. Eh bien, non – en général, pas vraiment. Je veux dire qu’il n’y avait pas – et en fait je ne crois pas qu’au cours des années antérieures, il y ait eu un programme concerté. Il incombait simplement en bonne partie aux directeurs de chaque division d’essayer de faire leur possible, compte tenu de leurs ressources, pour accroître leurs activités.
+[8] Quant au témoignage de M. Gamble, voici les propos qui ont été échangés pendant l’interrogatoire principal :
+[traduction]
+Q. Avez‑vous déjà financé Vidatron autrement, par exemple au moyen de prêts d’actionnaires?
+R. Oui. Dès le premier jour, j’ai contracté un second prêt hypothécaire sur ma maison pour financer ses – pour financer le démarrage. Et j’ai toujours participé au financement de la société. J’estimais que si c’était bon pour les investisseurs, c’était également bon pour moi.
+Q. Je crois comprendre que Vidatron était en cause dans un certain nombre d’autres sociétés en commandite – ou dans des contrats de sociétés en commandite s’occupant de commercialisation au début des années 1990.
+R. Oui.
+Q. Pourquoi a‑t‑elle conclu ces contrats?
+R. Eh bien, avant tout, la société cherchait à se procurer de l’argent pour la commercialisation, afin de développer ses débouchés pour ses produits et services et c’était une façon pour la société d’attirer des capitaux d’investissement et de l’argent aux fins de la commercialisation et il était difficile de trouver de l’argent d’une autre façon. C’était – et par conséquent, cela semblait être une situation gagnante pour l’investisseur. C’était bon pour le client et c’était donc – cela semblait être une bonne structure financière pour réunir de nouveaux capitaux. [...]
+Q. En 1995, Vidatron a conclu une entente de coentreprise avec la société en commandite New Media Marketing; quelle était – selon la perspective de Vidatron, pourquoi a‑t‑elle conclu cette entente de coentreprise avec la société en commandite New Media Marketing?
+R. Eh bien, encore une fois, il s’agissait d’une relation d’affaires qui permettrait à la société d’obtenir de l’argent aux fins de la commercialisation. Et c’était donc – nous croyions que c’était un moment propice pour la société de réunir – d’avoir accès à de l’argent afin de commercialiser ses produits et services.
+Q. Pourquoi donc était‑il important pour la société d’obtenir de l’argent aux fins de la commercialisation?
+R. Eh bien, en fin de compte, pour revenir à notre projet initial, nous voulions être moins axés sur le client, mettre davantage l’accent sur le produit, et nous avions besoin de développer les débouchés pour nos produits et nous avions besoin d’être connus, il fallait faire de la commercialisation, assister aux salons professionnels, faire de la publicité, faire de la publicité par correspondance, de façon à être réellement en mesure de tirer parti de l’argent qui était investi dans les produits de notre entreprise. Nous croyions donc qu’il était extrêmement important d’avoir de l’argent aux fins de la commercialisation.
+Q. Et étiez‑vous d’avis que l’entente de coentreprise, l’entente conclue en 1995 entre Vidatron et la société en commandite New Media Marketing, que c’était également une bonne chose pour les investisseurs?
+R. Oui, tout à fait.
+Q. Et à votre avis – à votre avis, pourquoi la chose aurait‑elle été bonne pour les investisseurs?
+R. Eh bien, avant tout, parce que c’était de l’argent aux fins de la commercialisation et que cela leur permettait de participer à la croissance de l’entreprise et que c’était de l’argent qui entrait, qui venait d’entrer, mais les investisseurs participaient aux premières sommes réalisées par suite des efforts de commercialisation. Il ne s’agissait pas de R et D, il s’agissait de dépenses en matière de commercialisation, et les investisseurs participaient au succès, le cas échéant, des ventes de produits et de services. Nous croyions donc qu’il s’agissait réellement d’une situation gagnante pour les investisseurs et pour la société.
+[...]
+Q. D’accord, parlons maintenant de la possibilité de bénéficier du flux de revenu.
+R. Oui.
+Q. Comment cela fonctionnait‑il selon vous?
+R. Eh bien, selon moi, parce qu’ils avaient engagé les – parce qu’ils avaient avancé des fonds afin de permettre la commercialisation des produits et services, les investisseurs auraient droit à un pourcentage des recettes brutes réalisées par la société sur une période donnée.
+Q. Et vous savez qu’un échange était prévu dans les ententes.
+R. Oui.
+Q. – dans les ententes de coentreprise? Et comment envisagiez‑vous cet échange, et la façon dont on allait procéder?
+R. Eh bien, selon moi, les investisseurs auraient le choix de convertir leurs unités en actions ou de ne rien faire et de continuer à bénéficier d’un flux de redevances, d’un flux de revenu.
+Q. Et quelles étaient selon vous les conditions de l’offre d’échange?
+R. Eh bien, je ne connais pas trop le mécanisme lui‑même, mais l’offre d’échange devait être basée sur un chiffre, qui était d’environ 1 080 $, c’était le moindre de ce montant, et c’était donc – si l’évaluation était supérieure à ce montant, cela – les investisseurs recevraient 1 080 $, et si elle était inférieure à ce montant, ils recevraient moins.
+[...]
+Q. [...] à ce moment‑là, que saviez‑vous de la méthode d’évaluation qui serait utilisée aux fins de la détermination de la juste valeur marchande des unités dans le cadre de l’offre d’échange?
+R. Je ne savais rien de la méthode d’évaluation. C’était –
+Q. Et en ce qui concerne l’entente de coentreprise de 1996, que saviez‑vous au moment où cette entente a été conclue? Quelle – était la méthode d’évaluation qui devait être utilisée?
+R. Je ne savais rien au sujet de la méthode d’évaluation.
+Q. Selon ce que vous saviez des ententes de coentreprise, quel était le rendement minimum garanti qu’un investisseur devait obtenir du fait qu’il avait souscrit à des unités dans la société en commandite New Media Marketing?
+R. Eh bien, je ne – eh bien, je ne crois pas qu’un montant était garanti.
+Q. Pourquoi dites‑vous cela?
+R. Eh bien, c’est intéressant. L’investissement comportait trois éléments selon moi. Il y avait les déductions, un flux de revenu possible et les actions. Et la seule chose qui, selon moi, était garantie était qu’ils bénéficieraient de la déduction. Je ne sais pas s’il allait y avoir un flux de revenu acceptable ou s’il allait y avoir – ce que l’offre d’échange allait être, je ne – personne ne le savait à ce moment‑là. Je ne sais donc pas ce que devait être la garantie.
+Q. Et à votre avis, quel était le niveau de risque, si je puis m’exprimer ainsi, que comportait une souscription d’unités des sociétés New Media I et New Media II?
+R. Eh bien, encore une fois, je – il y avait de toute évidence un risque qui était associé à un investissement dans cette entreprise. Nous avons de fait essayé de – nous croyions créer une entreprise rentable. Nous croyions vraiment dépenser de l’argent aux fins de la commercialisation. Nous allions dépenser cet argent d’une façon judicieuse et nous croyions donc que la chose aurait un effet fort positif sur l’entreprise. Cependant, rien ne nous permettait de savoir dans quelle mesure l’argent consacré à la commercialisation allait porter fruit. Cependant, nous avons de fait géré cet argent d’une façon sensée et nous avons conclu – nous avons utilisé l’argent d’une façon judicieuse et nous avons donc obtenu de bons résultats. Cependant, à ce moment‑là, rien ne nous permettait de savoir quels seraient les résultats. [...]
+Q. Et jusqu’à quel point connaissiez‑vous M. Grant avant qu’il prépare les évaluations pour la société en commandite New Media Marketing I?
+R. Je ne le connaissais pas réellement. En fin de compte, nous avions des gens – en fin de compte, nous savions que nous avions – nous avions des gens que nous connaissions tous deux mais c’était à peu près tout.
+Q. Savez‑vous à quel moment M. Grant a réellement été embauché pour procéder à l’évaluation de la société en commandite New Media Marketing I?
+R. Je ne sais pas exactement à quelle date. [...]
+Q. Quelles instructions avez‑vous données à M. Grant lorsqu’il a été embauché pour faire l’évaluation?
+R. Je n’en ai pas donné – je n’ai pas donné d’instructions. [...]
+Q. À quel moment avez‑vous appris à combien M. Grant allait évaluer les unités de New Media Marketing I?
+R. Je ne crois pas l’avoir appris avant qu'il ne publie quelque chose et qu’il ne rédige quelque chose. [...]
+Q. Et quel effet les frais de commercialisation qui ont été engagés par la société New Media I et par la société New Media II, quel effet les frais de commercialisation ont‑ils eu pour Vidatron?
+R. Eh bien, je crois qu’ils – qu’ils ont eu des incidences énormes sur la croissance de la société. Certaines entreprises ont réellement prospéré. Les dépenses n’ont pas toutes porté fruit, certaines choses n’ont pas fonctionné aussi bien que d’autres. Cependant, dans l’ensemble cet argent était fort bien dépensé et cela a eu des incidences énormes sur la croissance de l’entreprise. [...]
+Q. Et de quelle façon Vidatron a‑t‑elle pris de l’essor ou a‑t‑elle changé entre 1995 et 1996?
+R. Eh bien, le fait d’avoir accès à de l’argent aux fins de commercialisation a sans aucun doute entraîné l’augmentation du chiffre d’affaires et des recettes et nous avons donc été en mesure de nous aventurer dans de nouveaux domaines. Nous nous sommes donc lancés dans le – nous avions de l’argent pour nous lancer dans le secteur de la télévision et du film; ce secteur a pris énormément d’expansion au cours des quelques années qui ont suivi et la chose était attribuable au fait que nous avions accès à de l’argent pour assister aux salons professionnels et pour commercialiser les produits existants et ainsi de suite.
+Q. Et de quelle façon Vidatron a‑t‑elle pris de l’essor ou a‑t‑elle changé de 1996 à 1997?
+R. Eh bien, elle devenait toujours – nos recettes étaient liées aux produits de notre entreprise. Par conséquent, l’aspect « service » de l’entreprise n’a pas beaucoup changé, mais nous avons alors pu – nous avions plus d’argent pour mettre au point et commercialiser des produits et le secteur en cause était en fait celui du film et de la télévision et par conséquent – et ce secteur prenait beaucoup d’essor.
+[...]
+Q. [...] Pourriez‑vous préciser de quelle façon le flux de revenu est lié au niveau du risque d’une souscription d’unités?
+R. Eh bien, en premier lieu, si l’investisseur choisissait – choisissait de continuer à bénéficier du flux de revenu, il n’y avait aucune garantie au sujet des revenus futurs. En fin de compte, à cause d’un certain nombre de facteurs, la société a connu un essor considérable. Cela aurait été un investissement fort intéressant si les investisseurs étaient restés et – avaient réussi à obtenir les revenus qui leur revenaient, mais on ne pouvait absolument pas savoir. Si l’entreprise a pris de l’essor, c’était principalement parce que le dollar canadien était passé de 74 à 64 cents et il y a donc eu une croissance énorme dans le secteur du film et de la télévision et on ne pouvait pas savoir que cela allait arriver à ce moment‑là.
+Q. Et de plus, en réponse à la question que j’ai posée au sujet du niveau du risque que comportait l’adhésion à l’entente de société de personnes, vous avez fait remarquer qu’il existait de l’incertitude au sujet des actions; pourriez‑vous expliquer à la Cour ce que vous entendiez par là?
+R. Eh bien – il y a deux facteurs – en premier lieu, on ne pouvait pas savoir combien d’unités – combien d’unités – de quelle façon les unités seraient converties, quelle allait être la valeur au moment de l’investissement, et en second lieu, on ne savait pas quelle serait la valeur des actions. Il y avait donc deux – deux aspects qui comportaient un risque. [...]
+Q. Et vous étiez au courant de l’aspect fiscal ‑‑
+R. Oui.
+[...]
+Q. Quelle était la principale raison qui vous a amené à souscrire à des unités dans les sociétés en commandite New Media I et New Media II?
+R. Eh bien, avant tout, j’ai toujours participé aux investissements avec les nouveaux investisseurs. J’estimais qu’il était très important d’être fidèle à mes principes et par conséquent de participer à l’investissement avec les investisseurs. Cependant, en fin de compte, c’était une – j’estimais que l’investissement était une occasion incroyable de participer à la croissance de la société. C’était une façon de participer à la croissance de l’entreprise et en même temps de bénéficier de certains – de certains avantages fiscaux. Mais ce qui m’amenait à agir, c’était le fait que je voulais avoir un investissement dans l’entreprise comme c’était le cas dès le début.
+Q. Avez‑vous accepté l’offre d’échange lorsqu’elle a été soumise, en vue de convertir vos unités ‑‑
+R. Oui.
+Q. En actions? Et pourquoi avez‑vous décidé d’échanger vos unités contre des actions?
+R. Eh bien, c’est une bonne question et en rétrospective, je – je n’aurais pas dû les échanger contre des actions, mais, à ce moment‑là, les actions connaissaient plus de vogue que les flux de revenu. S’il s’était agi de l’an 2000, après que les cours de la Bourse se furent effondrés ou s’il s’était agi de l’année 1998, après que les cours de la Bourse se furent effondrés, les investisseurs – c’est un flux de revenu qui m’aurait intéressé plutôt que des actions dans – dans une société liquide, et c’était simplement à cause du climat de l’économie. De plus, les actions étaient à la hausse à ce moment‑là, de sorte que cela semblait être une bonne – une bonne occasion.
+[9] Kathleen Martin (« Mme Martin »), qui avait été présidente et administratrice de New Media Finance Limited, le commandité de la société en commandite New Media Marketing I, un témoin des appelants, a échangé les propos suivants avec l’avocat des appelants :
+[traduction]
+Q. [...] Le commandité de New Media Marketing I a‑t‑il choisi l’évaluateur en vertu des dispositions de cette entente?
+R. Oui.
+Q. Et qui a‑t‑il donc choisi?
+R. Nous avions le choix entre trois personnes. Deux d’entre elles n’étaient pas disponibles et nous – nous avons choisi Ian S. Grant, de la firme Ian S. Grant & Associates.
+[...]
+Q. Saviez‑vous si certaines exigences réglementaires s’appliquaient à l’évaluation à laquelle l’évaluateur a procédé?
+R. L’évaluation devait être acceptée par la – par la Bourse de Vancouver, à ce moment‑là, parce que l’offre – l’offre d’échange comportait l’émission d’actions de trésorerie, de sorte que la Bourse devait – la Bourse devait examiner l’évaluation pour s’assurer qu’elle était juste eu égard aux circonstances.
+Q. Et quelles instructions avez‑vous données à M. Grant lorsqu’il a préparé son évaluation?
+R. Je ne lui ai pas donné d’instructions. Je ne lui ai pas donné d’instructions au sujet de la façon de préparer l’évaluation. Je lui ai dit qu’il fallait procéder à une évaluation. La méthode qu’il utilisait était laissée à sa discrétion. Cela n’avait – cela n’avait rien à voir avec moi. À coup sûr, il voulait probablement que je lui fournisse des renseignements, mais je ne lui ai pas donné d’instructions au sujet de la façon d’accomplir sa tâche.
+[...]
+Q. Et à quel moment le commandité a‑t‑il d’abord décidé de recommander l’acceptation de l’offre?
+R. Après avoir examiné le rapport d’évaluation, après avoir eu des discussions avec la direction de la société et après avoir examiné des sociétés comparables et avoir examiné le – le rendement des actions, c’est à ce moment‑là que nous avons fait la recommandation.
+Q. Au mieux de votre connaissance, y a‑t‑il eu des associés qui n’ont pas accepté l’offre en 1996?
+R. Oui, il y en a eu.
+Q. Savez‑vous combien?
+R. Je ne le sais pas. Je sais que dans chaque société de personnes, certaines personnes n’ont pas accepté l’offre. De toute évidence, la majorité des gens ont accepté parce qu’il y avait une conversion, mais je sais que dans chaque cas – il y avait des détenteurs d’unités de la société en commandite qui n’ont pas accepté l’offre.
+[10] M. Hawley, un conseiller financier qui a témoigné pour le compte des appelants, a fait l’objet d’un interrogatoire principal, dont voici des extraits :
+[traduction]
+Q. Et quelle était votre impression au sujet de l’entreprise après avoir rencontré les représentants de l’entreprise?
+R. Eh bien, j’avais fait certaines recherches et l’entreprise existait apparemment depuis environ neuf ou dix ans à ce moment‑là; elle avait connu des hauts et des bas et il semblait qu’elle commençait finalement à – à bien réussir et j’ai donc – les représentants m’ont impressionné et – et c’était une bonne occasion et il s’agissait d’un secteur qui n’était pas représenté dans mon portefeuille à ce moment‑là, de sorte que j’ai pensé devoir le prendre en considération.
+[...]
+Q. Que croyiez‑vous que la société de personnes allait faire, quelle était la relation entre la société de personnes et Vidatron?
+R. Je croyais comprendre que la société de personnes réunissait des capitaux afin d’aider l’entreprise à prendre de l’essor et à croître. Elle en était à une nouvelle étape de son initiative et ils allaient se servir de l’argent pour promouvoir leurs divers produits et services et accroître les recettes de la firme.
+[...]
+Q. Saviez‑vous qu’il s’agissait d’une offre d’échange que Vidatron était tenue de faire?
+R. Oui.
+Q. Et en quoi consistait l’offre selon vous?
+R. L’offre devait être soumise environ un an après la création de la société de personnes et l’investisseur allait avoir la possibilité d’échanger les unités qu’il détenait dans la société en commandite contre des actions de la société, selon une formule prévoyant qu’il obtiendrait le moindre de 1 080 $ l’unité ou de la juste valeur marchande des unités et ces – la juste valeur marchande de ces unités devait être déterminée par un évaluateur indépendant.
+[...]
+Q. Et au moment où vous avez souscrit à vos unités, le fait que 65 p. 100 des détenteurs d’unités ne voudraient peut‑être pas procéder à la conversion vous inquiétait‑il?
+R. Oui, à coup sûr, parce que je ne savais absolument pas qui étaient les autres détenteurs d’unités et il y avait beaucoup d’incertitude au sujet de ce qui allait se passer au cours des douze mois suivants, au sujet de ce que l’entreprise allait faire et – et il y avait donc – ouais, il y avait toujours beaucoup d’incertitude quant à la question de savoir si cela allait – si cela allait arriver.
+Q. Considériez‑vous que votre souscription d’unités de la société en commandite New Media Marketing II était un investissement spéculatif?
+R. Oui, à coup sûr.
+Q. Et pourquoi?
+R. Eh bien, pour un grand nombre de raisons, notamment parce qu’il s’agissait d’une jeune entreprise dynamique dans un – dans un type de secteur qui était – qui comportait beaucoup d’incertitude, mais dans – après avoir procédé à une enquête et à des recherches, en me fondant sur mon expérience, et en appréciant ce genre de circonstances, – on s’en remet énormément à la direction et aux acteurs en cause et les représentants de la firme m’impressionnaient et c’est donc pourquoi, même si c’était spéculatif, j’ai décidé que cela valait la peine et cela représentait une part minime de mon portefeuille, cela ne constituait pas une partie importante de mes investissements.
+Q. Lorsque vous avez investi – souscrit aux unités de la – de la société de personnes, quelle devait être selon vous la juste valeur marchande des unités au moment où l’offre d’échange serait faite?
+R. Je n’en avais pas la moindre idée et je ne sais pas – je crois qu’il était impossible de le savoir parce que cela dépendait de la juste valeur marchande telle qu’elle serait déterminée dans le rapport d’évaluation à ce moment‑là, de sorte que l’on savait que c’était le moindre de 1 080 $ ou de la juste valeur marchande, mais cette juste valeur marchande aurait pu être supérieure ou inférieure, et par conséquent – on ne le savait pas.
+Q. Saviez‑vous que votre investissement dans la société de personnes comportait un aspect fiscal?
+R. Oui, à coup sûr.
+Q. Et quel aspect – quel effet cet aspect fiscal a‑t‑il eu sur votre décision d’investir des capitaux dans la société de personnes?
+R. J’estimais qu’il s’agissait d’un avantage supplémentaire intéressant, mais cela n’était pas important aux fins de mon investissement. Je n’aurais pas investi d’argent dans la – dans cette société de personnes, si je n’avais pas cru que l’entreprise était viable et avait un bon potentiel et parce que j’avais été témoin d’un trop grand nombre de cas dans lesquels, en traitant avec des clients au fil des ans, il aurait été préférable qu’ils gardent au moins la moitié de l’argent et qu’ils paient l’impôt au lieu de perdre tout leur argent dans de mauvais placements simplement parce qu’il s’agissait d’un abri fiscal.
+[11] M. Lodge a également témoigné. Il a parlé d’un investissement dans une société en commandite, Fossil Hills, dans le domaine immobilier aux États‑Unis. Il a dit que l’entreprise avait fort bien réussi et qu’il avait pu bénéficier du flux de revenu tiré de ce placement depuis environ 14 ans au moment de son témoignage. Il a déclaré qu’il avait effectué un certain nombre de placements différents avec Ken Stroud, qui faisait partie de la haute direction de la firme de placement Plan Vest et qu’il avait été mis au courant de la possibilité ici en cause. Il a déclaré qu’un investissement possible dans les unités d’une société de personnes l’intéressait parce qu’il voulait diversifier les titres qu’il détenait et que, jusqu’à ce moment‑là, il n’avait pas songé à une entreprise dans le domaine du marketing et des médias et, en fin de compte, de l’industrie cinématographique. Voici ce qu’il a dit :
+[traduction]
+À ce moment‑là, Vancouver était connue sous le nom de Hollywood nord, et je croyais qu’il s’agissait d’une chose à laquelle je devrais prendre part, ne serait‑ce que pour diversifier mon portefeuille.
+[12] Il a également dit ce qui suit :
+[traduction]
+R. J’ai souscrit à ces unités parce que je me lançais dans ce nouveau secteur auquel je ne participais pas auparavant. C’était donc pour des raisons de diversification et à cause de la bonne expérience que j’avais eue avec le placement dans Fossil Hills trois ans auparavant. Je pensais que cela offrait des possibilités d’investissement, que la société prendrait de l’essor, que je recevrais une part du flux du revenu, comme cela avait été le cas pour Fossil Hills, de sorte que je me sentais à l’aise.
+[13] Les propos suivants ont ensuite été échangés avec l’avocat des appelants :
+[traduction]
+Q. Vous étiez – étiez‑vous au courant de l’aspect fiscal que comportait l’investissement?
+R. Oui. Il était également question de cet aspect et il va sans dire que, en plus de prendre part à la croissance possible d’une société, il y avait en outre la possibilité d’une réduction d’impôt.
+Q. Quel effet l’aspect fiscal a‑t‑il eu sur votre décision d’investir dans la société de personnes?
+R. Eh bien, c’était l’aspect prédominant auquel je songeais. Je n’aurais jamais investi dans quelque chose qui allait échouer. Je devais avant tout me demander s’il était raisonnablement possible que cet investissement ait un rendement positif et si je pouvais rester à long terme. Comme je l’ai dit, dans le cas de Fossil Hills, l’horizon était de cinq ans, et je considérais donc avant tout que cela présentait une occasion d’investissement et que je pourrais prendre part à la croissance de la société et, naturellement, il y avait en outre l’avantage additionnel sur le plan de l’impôt.
+[...]
+Q. Et selon vous, quel allait être le prix auquel l’offre d’échange serait faite?
+R. Je croyais que l’on procéderait à une évaluation des unités et que la chose n’était pas certaine – il restait à savoir à combien ces unités allaient être évaluées, mais c’était – c’était quelque chose qui pouvait fluctuer énormément. [...]
+Q. Pourquoi avez‑vous accepté l’offre d’échanger des unités contre des actions?
+R. Eh bien, il y avait avant tout un choix à faire et l’on m’a clairement expliqué qu’il m’incombait de décider si je devais aller de l’avant et choisir d’échanger mes unités, mais selon moi il est juste de dire que j’ai décidé de procéder à l’échange parce que c'est ce que M. Ken Stroud m'a conseillé de faire. Comme je l’ai dit, c’était – c’était – il y avait également l’aspect de la liquidité et c’était une chose dont je ne bénéficiais pas pour ce qui est de Fossil Hills. Quant à la question de savoir si, à ce moment‑là, j’ai accordé beaucoup d’importance à la liquidité, je ne puis vraiment dire maintenant si – si cela est entré en ligne de compte, mais il se peut fort bien – il se peut que cela ait été pris en compte, c’est fort bien possible.
+Q. Qui était – quel était votre avis au sujet de la nature, et j’entends par là le risque, de votre placement dans la société de personnes?
+R. Eh bien, j’aimerais simplement faire une remarque générale, je considérais que c’était fort risqué. En premier lieu, il s’agissait d’une petite société qui venait d’être créée, ce qui comporte en soi énormément de risques. En fait, un grand nombre de nouvelles sociétés s'effondrent dès les premières années, de sorte que je savais que le niveau de risque était élevé et je n’étais pas certain de pouvoir sortir mon argent de la société de personnes. L’opération aurait pu aller de travers, de sorte que le – le flux de revenu était sans aucun doute indéterminé. [...]
+Q. Monsieur, vous – vous avez déclaré pendant le contre‑interrogatoire que vous aviez compris d’après vos échanges avec M. Stroud que vous alliez obtenir un rendement acceptable sur les fonds investis dans la société de personnes.
+R. Oui.
+Q. Quelle garantie M. Stroud vous a‑t‑il donnée au sujet d’un taux de rendement acceptable?
+R. Il n’y avait pas de garantie. Ken a clairement dit que les investissements qui comportent un risque intrinsèque, il – il s’est assuré de ne pas minimiser la chose, de sorte qu’il n’a pas fait valoir qu’il existait une garantie quelconque.
+[14] Un certain Kenneth Stroud (« M. Stroud »), conseiller en placement principal chez Assante Capital, a témoigné pour le compte des appelants. Il était conseiller financier depuis 22 ans. M. Lodge était l’un de ses clients. Il a déclaré avoir 450 à 500 clients et avoir trouvé une trentaine de gens à qui il avait parlé de la possibilité d’un achat d’unités dans la société de personnes. Lorsqu’on lui a demandé pourquoi il n’en avait pas parlé à tous ses clients, voici ce qu’il a répondu :
+[traduction]
+Pour un certain nombre de raisons, mais il s’agissait principalement d’une question de tolérance du risque, de la capacité de – de l’aptitude à examiner un produit comme celui‑là, d’avoir les ressources financières nécessaires pour absorber le risque que comportait un produit comme celui‑là, de sorte que la clientèle est vite restreinte.
+[15] M. Stroud a dit qu’il y avait un [traduction] « double » risque. Il a déclaré qu’étant donné qu’une société en commandite était en cause, il n’y avait pas d’unités qui pouvaient immédiatement être vendues au stade de l’établissement initial. Il a également dit qu’une jeune société était en cause, de sorte qu’on ne pouvait pas être certain qu’elle réussirait à faire ce qu’elle affirmait pouvoir faire. Il a déclaré que 22 personnes en tout, six en 1995 et 16 en 1996, avaient participé à cet investissement. Il a dit que l’idée d’une entreprise cinématographique et d’un allègement fiscal plaisait à ses clients. Il a déclaré avoir été au courant de l’offre d’échange, mais qu’il ne pouvait pas évaluer la situation tant que l’échange n’avait pas réellement lieu. Il a affirmé qu’il faudrait attendre que l’entreprise se concrétise, que l’on pouvait vérifier la valeur des titres à la Bourse et que le prix des actions était à la hausse, mais que l’investisseur devait attendre qu’un évaluateur indépendant évalue les unités. Il a déclaré avoir laissé ses clients décider eux‑mêmes s’ils devaient procéder à l’échange ou conserver leurs unités. Il a affirmé qu’en 1995, lorsqu’il avait initialement examiné ce produit, il ne savait pas quelle serait l’évaluation l’année suivante. En ce qui concerne la question de savoir pourquoi il avait accepté l’offre, voici ce qu’il a répondu :
+[traduction] [...]
+J’étais déchiré entre deux décisions. Je croyais que le flux du revenu – ils n’avaient pas tout à fait atteint leur but, mais le prix des actions était à la hausse. Cela donnait peut‑être à entendre que les revenus allaient être réalisés et ils ont commencé à se manifester. Je suppose qu’en fin de compte, j’ai cru que la liquidité dont je pouvais bénéficier en acceptant l’offre me permettrait de prendre rapidement une décision d’une façon ou d’une autre.
+[16] Pendant le contre‑interrogatoire, en réponse à la question de savoir ce qui l’avait persuadé d’acheter les unités plutôt que les actions de Vidatron, il a répondu ce qui suit :
+[traduction]
+Eh bien, je crois que cela offrait des possibilités dans deux cas. Nous pouvions surveiller la façon dont la société pouvait prendre de l’essor. Nous avions la possibilité de participer à la réalisation de revenus, ce qui était un atout. Nous obtenions un allègement fiscal, ce qui constituait de toute évidence un atout, et il y avait en fin de compte certains choix que nous pouvions faire et nous étions en cause dans une société qui était – qui semblait s’occuper d’un secteur en plein essor à ce moment‑là.
+[17] Ian Stuart Grant (« M. Grant »), un témoin de l’appelant, était l’évaluateur dont il a ci‑dessus été fait mention. Les propos suivants ont été échangés pendant l’interrogatoire principal :
+[traduction]
+Q. Vous rappelez‑vous qui vous a chargé de préparer ce rapport?
+R. C’est le commandité qui m’aurait en théorie demandé de le faire, en théorie, mais en pratique, toutes les conversations que j’ai eues au sujet des – des questions importantes, j’aurais eu des conversations continues avec la haute direction de Vidatron.
+Q. D’accord. Et vous rappelez‑vous si vous – s’il y avait une indication quelconque au sujet du chiffre auquel vous deviez arriver en préparant cette évaluation?
+R. Non. Il n’en a jamais été question et on ne m’aurait jamais donné d’indication.
+Q. Saviez‑vous que ce rapport pouvait être examiné par la Bourse de Vancouver?
+R. Je le savais fort bien.
+[...]
+Q. Aviez‑vous par le passé préparé des évaluations qui avaient été examinées par la Bourse de Vancouver?
+R. Oui, j’en avais préparé.
+Q. Et cette évaluation a‑t‑elle été examinée par la Bourse de Vancouver?
+R. Non, elle ne l’a pas été.
+[18] L’avocat des appelants a informé la Cour que M. Grant n’avait pas été reconnu à titre de témoin expert et que sa preuve n’avait pas été présentée dans le cadre d’un rapport d’expert.
+[19] Le dernier témoin des appelants, Juliette Jones (« Mme Jones »), travaillait comme comptable chez Vidatron depuis 1991. Elle a déclaré que les activités de Vidatron elles‑mêmes ne permettaient pas de financer les frais généraux de l’entreprise. Les propos suivants ont été échangés pendant l’interrogatoire principal :
+[traduction]
+Q. Quels étaient les motifs de Vidatron, lorsqu’elle a convenu de conclure cette entente?
+R. Eh bien, nous voulions obtenir de l’argent pour la commercialisation parce que nous croyions qu’en consacrant de l’argent à la commercialisation, nous pourrions amener la société au niveau suivant, établir une société plus importante, plus forte, qui était davantage en mesure d’attirer l’attention des investisseurs, de réunir des capitaux additionnels, et simplement d’une façon générale, d’agrandir notre entreprise.
+Q. Et pourquoi avez‑vous décidé de consacrer cet argent à la commercialisation?
+R. Eh bien, plus précisément, nous croyions qu’en consacrant de l’argent à la commercialisation, nous pourrions accroître nos recettes et qu’en accroissant nos recettes, nous – est‑ce que je réponds à votre question?
+Q. Oui, veuillez poursuivre.
+R. En accroissant nos recettes, nous allions attirer l’attention des investisseurs. Au moment où nous avons – je crois qu’en 1994, nos recettes s’élevaient à environ un million et demi de dollars et les recettes ont continué à augmenter, si je ne me trompe, parce que nous avons pu nous adresser aux gens et raconter notre histoire, réaliser des recettes sur le plan de la commercialisation. Notre société pouvait prendre de l’essor, devenir plus forte, éveiller l’intérêt sur les marchés publics et éveiller l’intérêt lorsqu’il s’agissait de trouver de nouveaux contrats et d’attirer des clients.
+Mme Jones a déclaré ne pas avoir donné d’instructions à M. Grant en ce qui concerne la préparation de l’évaluation; elle a déclaré que M. Grant avait communiqué avec elle pour lui dire ce dont il avait besoin afin de procéder à l’évaluation. Mme Jones a affirmé n’avoir aucune indication de la valeur à laquelle M. Grant allait [traduction] « arriver » avant que celui‑ci produise son rapport. Elle a également affirmé ne jamais avoir discuté avec lui de la valeur cible à laquelle il devait [traduction] « arriver ». Le long contre‑interrogatoire de Mme Jones, qui s’est déroulé dans un climat de tension et d’hostilité, n’a rien changé à la preuve susmentionnée. Lors du réinterrogatoire, les propos suivants ont été échangés :
+[traduction]
+Q. On vous a référé aux prévisions de recettes que Vidatron avait faites en 1995 au sujet de la société de personnes, en 1995, et en 1996, au sujet de la société de personnes, en 1996. Saviez‑vous comment Ian Grant utilisait ces chiffres lorsqu’il est arrivé à son évaluation?
+R. Non.
+Q. Avez‑vous de quelque façon joué un rôle dans ses délibérations au sujet de la façon d’incorporer ces chiffres dans la formule qu’il utilisait?
+R. Non.
+[20] L’avocat des appelants a ensuite produit en preuve des extraits de l’interrogatoire préalable de T. Cillo, vérificateur à l’Agence des douanes et du revenu du Canada. Les passages suivants sont ici reproduits :
+[traduction]
+Q. Je crois que, dans ce document, vous dites ensuite que vous avez établi une nouvelle cotisation à l’égard de la société de personnes notamment parce qu’il avait été décidé à l’avance que les unités de la société de personnes seraient acquises par les associés et qu'ils en disposeraient par la suite.
+R. Oui.
+Q. Il était certain que ces opérations allaient être conclues?
+R. C’est exact.
+M. Cillo a déclaré que la valeur des unités avait baissé à environ 10 p. 100 par rapport au prix initial de souscription. Il a affirmé que l’échange des unités de la société de personnes contre des actions de Vidatron constituait un « transfert libre d’impôt » en vertu de l’article 85 de la Loi de l’impôt sur le revenu. Il a affirmé que la juste valeur marchande établie dans le rapport d’évaluation était beaucoup plus élevée que le montant de 1 080 $ et qu’en ce qui concerne l’opération visée à l’article 85, la somme choisie était le prix de base rajusté d’environ 10 p. 100, comme il en a ci‑dessus été fait mention. Les propos suivants ont été échangés :
+[traduction]
+Q. Vous avez dit plus tôt qu’à votre avis, cela a été inséré là à cause de la perte financière que quelqu’un pourrait subir?
+R. C’est exact.
+Q. Et vous avez également dit que le prix de base rajusté qui était indiqué dans les formulaires de choix visés à l’article 85, à savoir environ 10 p. 100 du prix initial de souscription, était représentatif de la valeur?
+R. Oui.
+Q. Ce n’était peut‑être pas le seul indicateur, mais cela était néanmoins représentatif de la valeur?
+R. C’est exact.
+Q. Par conséquent, lorsque vient le temps d’appliquer ce critère, à vos yeux du moins, en vertu de l’alinéa 96(2.2)d), vous considériez qu’un montant de 1 080 $ était offert, est‑ce exact?
+R. C’est exact.
+Q. Et vous avez comparé ce montant au prix de base rajusté des unités, qui correspondait à environ 10 p. 100 du prix initial de souscription?
+R. C’est exact.
+Q. Et à vos yeux, c’était la perte qui était mentionnée ou qui donnait lieu à une réduction par suite de cette offre d’échange?
+R. Oui.
+[21] M. Cillo a également dit que l’avantage fiscal était la possibilité de déduire ce qui [traduction] « était essentiellement des capitaux investis dans des actions » :
+[traduction]
+R. L’associé ou l’investisseur, quel que soit le terme que vous voulez employer, détiendrait ultimement des actions de la société.
+Q. Il s’agissait donc essentiellement d’investisseurs qui avaient au départ de l’argent dans leurs poches et qui, un an plus tard, avaient des actions dans leurs poches?
+R. Oui.
+Q. Et vous avez conclu que ces opérations devaient toutes s’évanouir en un millième de seconde, de sorte qu’elles seraient considérées comme donnant lieu à une acquisition d’actions?
+R. Eh bien, cela n’est pas tout à fait vrai. Bien sûr, nous analysons l’opération d’un bout à l’autre. Nous avons donc examiné les diverses opérations qui avaient eu lieu et nous sommes arrivés à la conclusion – je ne veux pas employer ce mot encore une fois, mais telle était l’intention.
+[22] M. Cillo a ensuite déclaré que la personne qui investit des capitaux n’a pas droit à une déduction complète. Il a affirmé que, par conséquent, l’alinéa 18(1)b) de la Loi de l’impôt sur le revenu s’appliquait, et que les opérations qui avaient eu lieu visaient à éviter cette disposition. Les questions et réponses ci‑après reproduites ont ensuite suivi :
+[traduction]
+Q. Eh bien, la règle générale anti‑évitement, par exemple, permet de requalifier les opérations et vous croyiez donc que ces opérations devaient être requalifiées compte tenu des circonstances?
+R. C’est exact.
+Q. Dans ces exposés de position, je ne puis voir aucune mention du fait que ces opérations constitueraient un trompe‑l’oeil.
+R. En effet.
+Q. Ou qu’elles n’avaient aucun effet légal. Il n’en est pas fait mention?
+R. En effet.
+Q. Par conséquent, lorsque vous dites qu’il s’agissait fondamentalement d’un achat d’actions, vous vous fondez en réalité sur les dispositions de nouvelle qualification de la règle anti‑évitement?
+R. Je crois bien, ouais.
+[...]
+Q. Bon. Puis‑je vous référer à cet exposé de position [...] Il y a un titre à un moment donné [...] voici ce qui est dit :
+[traduction]
+Toutefois, Vidatron était, et est encore, une société publique viable sur le plan commercial, et elle est en mesure de réunir des capitaux propres.
+Avez‑vous procédé à une enquête afin de déterminer la mesure dans laquelle Vidatron était en mesure de réunir des capitaux propres ou aviez‑vous de l’expérience à cet égard?
+R. Non.
+Q. Et par conséquent sur quoi avez‑vous basé cette déclaration? Sur le simple fait qu’il s’agissait d’une société publique?
+R. Je crois que oui.
+[23] L’avocate de l’intimée a ensuite produit en preuve certains passages de l’interrogatoire préalable de l’appelant, M. Howe. Les passages suivants sont ici reproduits :
+[traduction]
+Q. Et au cours de cette conversation, vous a‑t‑il dit que cet investissement initial vous permettrait d’obtenir une déduction fiscale pour votre année d’imposition 1995 qui représenterait environ la moitié de votre investissement initial?
+R. Il m’a dit que c’était une déduction fiscale. Il n’a pas vraiment donné de précisions à ce sujet.
+Pendant l’interrogatoire, M. Howe a ensuite fait savoir qu’il s’était rendu sur les lieux et qu’il voulait savoir exactement ce qu’ils faisaient et ce qu’ils envisageaient de faire. Il a déclaré avoir parlé à Kathleen Martin ou à Shelley Kirk au téléphone. Il a ensuite déclaré ce qui suit :
+[traduction] Ils m’ont donc fait visiter les lieux et ils m’ont expliqué des choses, et je suis ensuite parti et j’y ai songé pendant un certain temps parce que je voulais savoir exactement – comme vous le savez une déduction fiscale est très intéressante, mais il arrive que l’on ne revoie jamais son argent, et je voulais donc savoir ce que l’entreprise allait faire.
+Voici d’autres extraits :
+[traduction]
+Q. Je suppose que c’est ce que vous croyiez qu’il allait arriver une fois que vous auriez acheté les unités. Vous auriez une dépense déductible, calculée sur un investissement de 10 000 $, et compte tenu de cet investissement de 10 000 $, selon ce document, il y aurait immédiatement en 1995 une dépense déductible de 9 375 $. Et si l’on suit les différentes étapes, cela indiquait une économie d’impôt et un investissement net d’environ 4 900 $, n’est‑ce pas?
+R. C’est ce qui était indiqué. [...] Ils m’ont peut‑être remis un tas de documents, mais comme c’est le cas pour beaucoup d’autres choses, je ne lis pas tout. [...]
+Q. Saviez‑vous de quelle façon les unités que vous déteniez dans la société de personnes seraient évaluées pour les besoins de l’option d’échange qui devait avoir lieu avant le mois d’août 1996?
+R. Ouais. Je croyais comprendre que, pour chaque tranche de 1 000 $, j’obtiendrais en retour au moins 1 080 $. C’est ce que je croyais comprendre. [...]
+Q. Saviez‑vous qu’une évaluation serait effectuée à l’égard de la valeur, qu’une évaluation formelle serait effectuée à l’égard de la valeur des unités?
+R. Je ne le sais pas – Je ne comprends pas ce que vous voulez dire, une évaluation effectuée par qui?
+Q. Une évaluation effectuée par quelqu’un d’autre, une personne qui ne serait pas choisie par Vidatron ou par la société de personnes. Le saviez‑vous?
+R. Pas au moment où j’ai effectué l’achat. [...]
+Q. Eh bien, qu’est‑ce qui donnait lieu à votre déduction en 1995, selon vous?
+R. C’est parce que j’avais effectué un apport de 13 000 $ dans cette société de personnes et, pour une raison quelconque, il s’agissait d’une déduction fiscale et ils utilisaient mon argent et j’allais en échange obtenir la déduction.
+ANALYSE ET CONCLUSION
+[24] La première question concerne l’alinéa 96(2.2)d) tel qu’il se rapporte à l’obligation de Vidatron de soumettre une offre à tous les associés des deux sociétés de personnes pour un montant correspondant au moindre de 1 080 $ l’unité ou de la juste valeur marchande de chaque unité au moment de l’offre.
+[25] Aux fins qui nous occupent, cette disposition définit la « fraction à risques » comme étant le total du montant du prix de base rajusté, pour le contribuable, de sa participation dans la société de personnes, plus la part du revenu qui revient au contribuable pour l’exercice, moins certains montants, y compris celui qui est décrit à l’alinéa 96(2.2)d), dont la partie pertinente est rédigée comme suit :
+d) le montant ou l’avantage que le contribuable [...] a le droit, immédiat ou futur et conditionnel ou non, de recevoir – sous forme de remboursement, compensation, garantie de recettes, produit de disposition, ou autre – et qui est accordé en vue de supprimer ou réduire l’effet d’une perte dont le contribuable serait tenu en tant qu’associé de la société de personnes ou du fait qu’il a une participation dans la société de personnes ou qu’il en dispose, [...]
+(Je souligne)
+[26] Dans l’arrêt Peter Brown v. The Queen, 2003 DTC 5298, à la page 5303, la Cour d’appel fédérale a dit ce qui suit :
+[37] D’une façon générale, les dispositions concernant la fraction à risque de la Loi de l’impôt sur le revenu restreignent au capital de risque, aux fins de l’impôt, les pertes subies par les commanditaires à l’égard d’une société en commandite. [...]
+En vertu du paragraphe 96(2.1) de la Loi, les commanditaires peuvent uniquement déduire la part, dont ils sont tenus, d’une perte de la société de personnes, résultant d’une entreprise jusqu’à concurrence de leur « fraction à risques ».
+[27] Le seul « droit » en question dans ce cas‑ci se rapporte à l’offre d’échange. Vidatron était tenue de soumettre une offre en vue d’acquérir les unités de la société de personnes pour un montant correspondant au moindre de la juste valeur marchande ou de 1 080 $ l’unité. Selon cette formule, le prix offert par Vidatron ne pouvait jamais excéder la juste valeur marchande d’une unité au moment de l’offre. Les risques courus par les associés fluctuaient directement en fonction de la bonne fortune ou des revers de l’entreprise exploitée par la société de personnes. Comme il en a ci‑dessus été fait mention, le vérificateur a confondu « somme choisie » selon le choix prévu à l’article 85 – un montant égal au prix de base rajusté des unités de la société de personnes – et la juste valeur marchande des unités. Cela l’a amené à conclure à tort que Vidatron avait payé un prix trop élevé pour les unités. Les avocats des deux parties ont présenté des observations au sujet de la question de savoir si :
+[le but] de supprimer ou réduire l’effet d’une perte[1]
+exigeait que l’on procède à une analyse subjective ou à une analyse objective au sujet de ce but. Je ne vois pas en quoi il est utile de présenter et d’analyser ces observations parce qu’il est clair, étant donné que Vidatron était obligée de soumettre une offre pour un montant correspondant au moindre de 1 080 $ ou de la juste valeur marchande d’une unité, qu’il était impossible pour les appelants de recevoir un montant ou un avantage supprimant ou réduisant l’effet de la perte subie lors de la disposition de la participation dans la société de personnes. De fait, si le moindre des deux chiffres était un montant inférieur à 1 080 $, chaque associé aurait subi une perte financière. Il n’y a rien dans la formule ou dans la preuve mise à ma disposition qui permette de tirer une autre conclusion. L’avocate de l’intimée a procédé à de longs contre‑interrogatoires et s’est reportée aux dispositions des documents pertinents et à l’historique des sociétés de personnes antérieures en tentant de toute évidence, par des insinuations, de persuader la Cour que le montant qui devait être offert en échange d’une unité s’élèverait toujours à au moins 1 080 $. Cela n’est tout simplement pas conforme aux faits. Voici ce que l’avocate de l’intimée a déclaré dans ses observations :
+[traduction] Selon moi, lorsque le montant de l’avantage est déterminé ou qu’il peut l’être, le libellé de l’alinéa 96(2.2)d) est suffisamment large pour viser cet avantage.
+Le point faible de cet argument est qu’il n’est pas établi qu’au moment où le montant de l’offre d’échange a été fixé, la juste valeur marchande serait supérieure à 1 080 $. L’avocate de l’intimée a également dit ce qui suit :
+[traduction] [...]
+Les dirigeants de Vidatron savaient que la juste valeur marchande serait supérieure à 1 080 $. Ils le savaient. Et ils le savaient à cause de l’historique, ils le savaient parce que les valeurs des unités étaient fonction du flux de revenu futur [...]
+Il n’est pas établi que les dirigeants aient su que la juste valeur marchande allait être supérieure à 1 080 $. La même remarque peut être faite à l’égard d’une autre prétention de l’avocate de l’intimée, à savoir :
+[traduction] Et une fois que l’on examine l’ensemble des circonstances soumises en preuve et que l’on constate que le montant de 1 080 $ est bien la limite inférieure et qu’il ne s’agit pas d’un plafond, parce que tout le monde savait, ou tout le monde aurait pu savoir, en consultant les documents et en faisant des calculs, que la juste valeur marchande au cours de ces deux années, comme au cours des années précédentes, serait toujours supérieure à 1 080 $.
+De plus, l’avocate de l’intimée n’a même pas mentionné ou reconnu qu’un certain nombre de circonstances auraient pu se produire, lesquelles auraient pu influer d’une façon négative sur l’entreprise de la société, et auraient sérieusement pu influer sur la juste valeur marchande utilisée dans la formule.
+Pour ce qui est du but envisagé à l’alinéa 96(2.2)d), l’avocate de l’intimée a dit ce qui suit :
+[traduction] [...] selon le libellé de la disposition, le but ne doit pas nécessairement viser exclusivement à supprimer ou à réduire l’effet d’une perte que le contribuable peut subir.
+L’avocate a mentionné l’arrêt Ludco Enterprises Ltd. v. H.M.Q., 2001 DTC 505, de la Cour suprême du Canada. Elle a notamment soutenu ce qui suit :
+[traduction] Et l’arrêt Ludco nous apprend que, lorsque l’expression « en vue de » est employée, il n’est pas nécessaire qu’elle renvoie à une seule fin. Par conséquent, pour ce qui est du but, cela ne porterait pas un coup fatal à la cause de l’intimée si vous concluiez, eu égard aux faits, que le but visant la suppression ou la réduction d’une perte que ces contribuables peuvent par ailleurs avoir subie n’est pas l’unique but. Il peut y avoir plus d’un but. C’est là tout ce que je veux dire.
+J’ai lu à haute voix le passage pertinent de la disposition susmentionnée, pour ce qui est du droit du contribuable de recevoir un montant ou un avantage :
+[…] qui est accordé en vue de supprimer ou réduire l’effet d’une perte dont le contribuable serait tenu, […]
+Lorsque j’ai demandé à l’avocate quel but autre que celui de supprimer ou de réduire « l’effet d’une perte » serait pertinent aux fins d’un examen de ce passage, elle a répondu ce qui suit :
+[traduction] Je ne soutiens pas qu’il pourrait être pertinent d’examiner d’autres buts. Ce que je veux dire, c’est que j’ai cru comprendre que, selon l’argument que mon collègue a invoqué, le but était de réunir des capitaux en vue de permettre à Vidatron d’accroître ses activités dans le domaine de la commercialisation.
+Pour que la cotisation puisse être maintenue, un avantage doit clairement être « accordé en vue de supprimer ou réduire l’effet ». Il n’est pas opportun et il n’est pas nécessaire de procéder à quelque autre examen du but.
+POSITION SUBSIDIAIRE
+[28] À l’audience, la seconde avocate de l’intimée, après qu’il eut été question de l’« abus » de l’alinéa 18(1)b) de la Loi, a répondu comme suit à une question posée par la Cour :
+[traduction]
+Le juge : Eh bien, retirez‑vous cet argument?
+Me Meneguzzi : Oui, nous le retirons.
+Cela met fin à l’argument de l’intimée pour ce qui est de l’« abus ».
+[29] En ce qui concerne la question de savoir si, dans ce cas‑ci, les opérations ont entraîné des « abus dans l’application des dispositions de » la Loi de l’impôt sur le revenu, lue dans son ensemble, l’avocat de l’appelant a référé à l’argument de l’intimée selon lequel l’achat des unités de la société de personnes constituait en fait un achat d’actions de Vidatron, c’est‑à‑dire d’immobilisations; il a soutenu que l’alinéa 18(1)b) de la Loi interdisait la déduction des dépenses en capital. En mentionnant l’arrêt The Queen v. Canadian Pacific Limited, 2002 DTC 6742, l’avocat a soutenu ce qui suit dans ses observations écrites :
+[traduction]
+54. Toutefois, les opérations en cause ne peuvent pas d’abord s'évanouir pour devenir un achat d’actions, et ce, que ce soit selon l’analyse de la substance économique ou sur la base du paragraphe 245(5) de la Loi, comme prélude à l’application de la DGAE. La décision rendue par la Cour d’appel fédérale dans l’affaire Canadian Pacific porte directement sur la question. Dans cette affaire‑là, le contribuable avait emprunté des fonds en dollars australiens et néo‑zélandais à un taux d’intérêt relativement élevé, il avait immédiatement converti les fonds empruntés en dollars canadiens, et il avait couvert les remboursements qu’il devait effectuer aux termes des débentures. Le contribuable avait donc été obligé de payer un taux d’intérêt élevé sur les débentures, mais en raison de la vente à terme, il était certain de réaliser un gain en capital lorsque les débentures viendraient à échéance. Le ministre avait cherché à qualifier de principal une partie des paiements effectués au titre des intérêts prévus par les débentures, en affirmant qu’une partie des intérêts était l’équivalent financier du principal, étant donné que le taux d’intérêt était de beaucoup supérieur aux taux comparables applicables aux emprunts contractés en dollars canadiens. La Cour a statué ce qui suit :
+L’argument du ministre selon lequel il y a eu abus dans l’application des dispositions de la Loi lue dans son ensemble n’est pas recevable parce qu’il implique une requalification des versements d’intérêts en remboursements de principal. Il est donc inutile de s’étendre sur son argument concernant l’économie de la Loi.
+Le paragraphe précédent de ce jugement est rédigé comme suit :
+Cela ne signifie pas qu’il ne peut y avoir nouvelle qualification. La nouvelle qualification d’une opération est expressément autorisée par l’article 245, mais uniquement après qu’il a été établi qu’il y a eu opération d’évitement et qu’il y aurait par ailleurs abus. Une opération ne peut être définie comme quelque chose qu’elle n’est pas, et elle ne peut non plus être requalifiée de manière à devenir une opération d’évitement.
+L’avocat a ajouté ce qui suit :
+[traduction]
+55. Dans ce cas‑ci, la décision rendue par la Cour d’appel fédérale dans l’affaire Canadian Pacific répond complètement à l’argument du ministre. S’il n’est pas possible de requalifier d’abord les opérations en cause, l’économie de la loi qui s’appliquerait selon l’intimée – à savoir empêcher la déduction d’une dépense en capital – ne s’applique pas aux opérations conclues par les appelants dans ce cas‑ci, ces opérations n’ayant pas changé. Cela n’est pas pertinent.
+56. Les opérations qui ont en fait été conclues étaient tout à fait conformes aux dispositions de la Loi. Les appelants ont d’abord acquis des participations dans l’une ou l’autre, ou dans les deux, sociétés de personnes New Media. Les sociétés de personnes étaient des sociétés de personnes existantes valides et chacune exploitait une entreprise. Il n’est pas contesté que la société de personnes NM I exploitait une entreprise et qu’en exerçant ces activités commerciales, elle a subi, en 1995, une perte d’entreprise de 858 949 $ (paragraphe 14 de l’exposé conjoint des faits). Il n’est pas contesté que la société de personnes NM II exploitait une entreprise et qu’en exerçant ces activités commerciales, elle a subi, en 1996, une perte d’entreprise de 1 796 405 $ (paragraphe 33 de l’exposé conjoint des faits).
+[30] Les faits mentionnés au paragraphe 56 ont été établis par la preuve, en tant que faits convenus et tels qu’ils ont été présentés dans les dépositions orales des témoins, qui étaient selon moi crédibles. Il n’y a rien dans la Loi qui empêche la création de sociétés de personnes et d’ententes de coentreprise selon que des pertes d’entreprise ont été subies ou ne l’ont pas été.
+[31] Aux paragraphes 60, 61 et 62 de ses observations écrites, l’avocat de l’appelant dit ce qui suit :
+[traduction]
+60. Une fois qu’il est établi que les sociétés de personnes NM I et NM II ont subi des pertes d’entreprise, chaque associé de la société de personnes est réputé, en vertu de l’alinéa 96(1)g) de la Loi, avoir subi des pertes d’entreprise de cette même source, jusqu’à concurrence de sa part respective. En tant que corollaire du transfert des pertes d’entreprise des sociétés de personnes aux appelants, le prix de base rajusté pour les appelants de leurs participations dans les sociétés de personnes a été réduit du montant des pertes dont chaque appelant est tenu, en vertu du sous‑alinéa 53(2)c)(i) de la Loi. Cette disposition a pour effet de permettre de récupérer, sous la forme de gains en capital, toute perte fiscale transférée aux associés de la société de personnes qui n’est pas incluse dans des pertes financières sous‑jacentes afférentes aux actifs de la société de personnes.
+61. Le transfert aux associés des pertes d’entreprise subies par une société de personnes ne constitue pas une déduction de dépenses en capital. Une société de personnes est tout simplement un mécanisme permettant de transférer aux associés le revenu et les pertes d’entreprise. Le paragraphe 96(1) reconnaît qu’une société de personnes peut servir de mécanisme de transfert en considérant d’abord une société de personnes comme une personne aux fins restreintes du calcul du revenu (alinéa 96(1)a)), et en attribuant ensuite aux associés le revenu ou la perte d’entreprise jusqu’à concurrence de leur part (alinéas 96(1)f) et g)).
+62. En ce qui concerne l’offre d’échange, la constitution en société d’une société de personnes sur la base d’un report d’impôt est parfaitement conforme à l’économie de la loi. La Loi prévoit expressément deux moyens par lesquels les associés d’une société de personnes peuvent transformer une entreprise exploitée sous la forme d’une société de personnes en une entreprise exploitée sous la forme d’une société, sur la base d’un report d’impôt. L’un de ces moyens consiste à faire en sorte que tous les associés transfèrent à la société leurs participations dans la société de personnes et présentent des choix conjoints en vertu du paragraphe 85(1) de la Loi. La société de personnes cesse alors d’exister en droit, étant donné qu’à la suite des transferts, elle n’a qu’un associé. C’est le moyen par lequel la constitution en société a eu lieu dans ce cas‑ci. L’autre moyen de constituer en société une société de personnes est celui qui est prévu aux paragraphes 85(2) et (3) de la Loi, la société de personnes transférant d’abord tous ses actifs à la société en échange d’actions de la société et étant ensuite dissoute, les actions de la société étant alors distribuées aux associés.
+La preuve me convainc que les sociétés de personnes ont été établies dans les années d’imposition 1995 et 1996 afin de réunir des fonds à des fins précises, notamment, comme l’a dit M. Gamble :
+[traduction] [...] de développer les débouchés pour ses produits et services, ce qui était une façon pour la société d’attirer des capitaux et de l’argent aux fins de la commercialisation, étant donné qu’il était difficile d’obtenir de l’argent d’une autre façon.
+[32] La preuve montre clairement que les appelants n’étaient pas en cause dans une opération ou dans une série d’opérations au sens du paragraphe 245(3) étant donné qu’il est :
+[…] raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables – l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+(Je souligne)
+[33] Je conclus donc ce qui suit :
+a) les appelants n’avaient pas le droit, au sens de l’alinéa 96(2.2)d) de la Loi, de recevoir un montant ou un avantage accordé en vue de supprimer ou de réduire l’effet d’une perte qu’ils pouvaient subir du fait qu’ils avaient une participation dans la société de personnes ou qu’ils en disposaient et, par conséquent, le montant des pertes de la société de personnes dont ils étaient tenus n’a pas été réduit en vertu du paragraphe 96(2.1). Cette disposition prévoit que la perte d’une société de personnes dont le contribuable est tenu sera réduite d’un montant déterminé comme n’étant pas une « fraction à risques » en vertu du paragraphe 96(2.2);
+b) les dispositions générales anti‑évitement de l’article 245 ne s’appliquent pas aux appels.
+[34] Par conséquent, les appels sont accueillis, les cinq appelants ayant droit à un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 29e jour d’octobre 2004.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 6e jour de mars 2006.
+Mario Lagacé, réviseur
+RÉFÉRENCE :
+2004CCI719
+Nos DES DOSSIERS
+DE LA COUR :
+2001‑2716(IT)G; 2001‑3707(IT)G;
+2001‑3715(IT)G; 2001‑3712(IT)G et
+2001‑2718(IT)G
+INTITULÉ :
+Denis Howe et autres c. La Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Les 29 mars et 15 avril 2004
+MOTIFS DU JUGEMENT :
+L’honorable juge R. D. Bell
+DATE DU JUGEMENT :
+Le 29 octobre 2004
+COMPARUTIONS :
+Avocats de l’appelant :
+Mes David R. Davies et Samantha Mason
+Avocates de l’intimée :
+Mes Lynn M. Burch et Pam Meneguzzi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me David R. Davies
+Cabinet :
+Thorsteinssons
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Morris Rosenberg
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] En employant le mot « effet » on voulait sans aucun doute simplement parler du montant de la réduction de la perte financière.

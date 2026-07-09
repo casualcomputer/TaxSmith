@@ -1,0 +1,126 @@
+Title: Gravel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28098/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-646-28098-gravel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-10-03
+
+# Gravel c. La Reine
+
+- Citation: 2007 CCI 646
+- Decision date: 2007-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gravel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-03
+Référence neutre
+2007 CCI 646
+Numéro de dossier
+2007-2510(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2510(IT)I
+ENTRE :
+HORTENSE GRAVEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 3 octobre 2007, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l’appelante :
+Jean-Marc Samson
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004 et 2005 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI646
+Date : 20071109
+Dossier : 2007-2510(IT)I
+ENTRE :
+HORTENSE GRAVEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif aux années d’imposition 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004 et 2005.
+[2] Les questions en litige exposées dans la Réponse à l'avis d'appel sont les suivantes :
+L’appelante avait-elle le droit d’interjeter appel des cotisations ou nouvelles cotisations pour les années d’imposition 1995 à 2004.
+Le Ministre était-il justifié d’ajouter au revenu de pension de l’appelante, dans l’année d’imposition 2005, un montant de 7 072 $ qu’elle a reçu (dans l’année d’imposition 2005) à titre de prestations de sécurité sociale des États-Unis.
+Le Ministre était-il justifié de déduire du revenu imposable de l’appelante, dans l’année d’imposition 2005, un montant de 1 061 $ à titre de somme exonérée de l’impôt sur le revenu par l’effet d’une disposition d’une convention fiscale.
+[3] Les faits tenus pour acquis pour justifier les cotisations sont simples et n’ont pas fait l’objet de contestation. Ils se résument comme suit :
+a) L'appelante était résidente du Canada tout au long de l'année d'imposition 2005;
+b) En 2005, l'appelante a reçu des prestations de sécurité sociale des États‑Unis d'un montant de 5 845USD$ tel qu'indiqué sur le feuillet Form SSA-1099 – Social Security Benefit Statement soumis par l'appelante dans sa déclaration de revenu pour l'année d'imposition 2005;
+c) Le montant de 5 845USD$, converti en dollar canadien au taux moyen annuel de 1.211 (selon les données de la Banque du Canada), était de 7 072$;
+d) Les prestations de sécurité sociale des États‑Unis étaient imposables au Canada comme s'il s'agissait de prestations reçues en vertu du Régime de pension du Canada;
+e) De plus, une déduction de 15% des prestations de sécurité sociale des États‑Unis incluses au revenu pouvait être accordée dans le calcul du revenu imposable;
+f) L'appelante n'a pas inclus le montant de 7 072$ de prestations de sécurité sociale des États‑Unis dans son revenu de l'année d'imposition 2005 et n'a pas demandé de déduction à son égard;
+g) Par conséquent, le montant de 7 072$ de prestations de sécurité sociale des États‑Unis reçues par l'appelante dans l'année d'imposition 2005 a été ajouté à son revenu de pension pour cette année;
+h) De plus, un montant de 1 061$, représentant 15% des prestations de sécurité sociale des États‑Unis reçues par l'appelante dans l'année d'imposition 2005 a été accordé comme déduction dans le calcul de son revenu imposable de cette année.
+[4] L’appelante était représentée par son conjoint, qui avait très bien préparé un texte qu'il a lu; il avait joint plusieurs pièces et documents à son texte.
+[5] À plusieurs reprises, l’appelante a affirmé qu’il y avait discrimination et que son dossier n’avait pas été traité avec équité.
+[6] Citoyenne canadienne, l’appelante a longtemps vécu et travaillé aux États‑Unis. Elle y est propriétaire d’une résidence; elle s’y rend six mois par année.
+[7] Ayant travaillé plusieurs années aux États-Unis, elle a contribué à un régime de pensions et y a acquis des droits. Elle a toujours ajouté à ses revenus l'équivalent en dollars canadiens du montant reçu du régime de pensions américain dans sa déclaration de revenu annuelle qu’elle produit au Canada.
+[8] Après avoir lu la convention fiscale intervenue entre les États‑Unis et le Canada, elle a conclu que les montants reçus en vertu du régime de pensions américain ne sont pas imposables au Canada.
+[9] À l'appui de ses prétentions, elle se réfère à l'article XVIII, intitulé Pensions et rentes, de la convention fiscale de 1980 entre le Canada et les États-Unis d'Amérique (ci‑après « la convention »), notamment, aux paragraphes 1, 3 et 5, qui se lisent comme suit :
+1. Les pensions et les rentes provenant d'un État contractant et payées à un résident de l'autre État contractant sont imposables dans cet autre État, mais le montant d'une telle pension qui serait exclu du revenu imposable dans le premier État si le bénéficiaire y était un résident est exonéré d'impôt dans cet autre État.
+[...]
+3. Au sens de la présente Convention, le terme « pensions » comprend tout paiement en vertu d'une entente relative aux pensions de retraite ou autres pensions, une solde à la retraite des forces armées, les pensions et allocations d'ancien combattant et les montants payés en vertu d'un régime d'assurance contre la maladie, les accidents ou l'invalidité, mais ne comprend ni les paiements en vertu d'un contrat de rente à versements invariables, ni, sauf aux fins de l'article XIX (Fonctions publiques), les prestations visées au paragraphe 5.
+[...]
+5. Les prestations payées en vertu de la législation sur la sécurité sociale dans un État contractant (y compris les prestations de retraite de niveau 1 de chemin de fer (Tier 1 railroad retirement benefits) mais à l'exclusion des prestations d'assurance‑chômage) à un résident de l'autre État contractant ne sont imposables que dans cet autre État, sous réserve des conditions suivantes :
+a) Les prestations payées en vertu de la législation sur la sécurité sociale aux États‑Unis à un résident du Canada sont imposables au Canada comme s'il s'agissait de prestations en vertu du Régime de pensions du Canada, sauf que 15 p. 100 du montant des prestations est également exonéré de l'impôt canadien; et
+b) Les prestations payées en vertu de la législation sur la sécurité sociale au Canada à un résident des États-Unis sont imposables aux États‑Unis comme s'il s'agissait de prestations en vertu de la loi sur la sécurité sociale (Social Security Act), sauf que les types de prestations qui ne sont pas assujettis à l'impôt canadien lorsqu'elles sont payées à un résident du Canada sont également exonérés de l'impôt des États-Unis.
+[10] Affirmant avoir payé de façon injustifiée des montants fort importants à titre d'impôt, l'appelante en réclame le remboursement pour les années d’imposition 1995 à 2004 inclusivement, ainsi que les intérêts et certains frais engagés pour la préparation de son dossier.
+[11] Elle demande également au tribunal de rendre une ordonnance enjoignant à l’Agence des douanes et du revenu de considérer pour les années à venir le montant de sa pension américaine comme exempt d’impôt.
+[12] De son côté, l’intimée soutient que le litige ne doit porter que sur l’année d’imposition 2005.
+[13] Tout d'abord, il y a lieu de disposer de la demande relative aux années d'imposition 1995 à 2004 inclusivement. La compétence de la Cour canadienne de l'impôt se limite aux cotisations qui ont d'abord fait l'objet d'un avis d'opposition à la suite de leur établissement.
+[14] Les faits ne sont nullement en litige. Le fondement de l'appel de l'appelante repose sur son interprétation de la convention fiscale intervenue entre le Canada et les États-Unis.
+[15] Ainsi, pour ces années, je n'ai pas compétence, en vertu des articles 165 et 169 de la Loi de l'impôt sur le revenu (« Loi »).
+[16] Dans tous les cas, le jugement de cette Cour n'a trait qu'à la cotisation dont il est fait appel. La question des intérêts est également une matière sur laquelle cette Cour n'a pas compétence. Les intérêts sont dépendant de la cotisation et de sa date; la cotisation a donc un effet direct sur les intérêts. Cependant, cette Cour n'a pas le pouvoir d'annuler les intérêts sur une cotisation qui est confirmée en totalité ou en partie.
+[17] L'interprétation de l'appelante ne correspond pas au libellé pourtant très clair.
+[18] Il se pourrait, pour quelque raison que ce soit, que le revenu tiré d'une pension américaine ne soit pas imposé aux États-Unis. Dans ce cas, et seulement dans ce cas, il devrait être également exonéré d'impôt au Canada.
+[19] Ce qui est exonéré aux États‑Unis l'est au Canada; ce qui n'est pas exonéré aux États‑Unis ne l'est pas au Canada. En l'espèce, le montant en litige (la pension américaine) n'est pas exonéré aux États‑Unis.
+[20] En vertu du paragraphe 3 de l'article XVIII de la Convention fiscale de 1980 entre le Canada et les États-Unis d'Amérique, le terme « pension » comprend tout paiement en vertu d'une entente relative aux pensions de retraite ou autres pensions, mais ne comprend pas les prestations prévues au paragraphe 5.
+[21] Les prestations payées en vertu de la législation sur la sécurité sociale aux États‑Unis sont imposables au Canada comme s'il s'agissait de prestations reçues en vertu du Régime de pensions du Canada, sauf que 15 % du montant des prestations également est exonéré de l'impôt canadien.
+[22] La compétence de cette Cour se limite à analyser le dossier selon la preuve disponible et à décider si la cotisation a été établie en conformité avec les dispositions de la Loi, auquel cas la cotisation doit être simplement confirmée; sinon, la cotisation doit être annulée ou modifiée. Il est donc évident que la Cour canadienne de l'impôt n'a aucune compétence pour ordonner à l'Agence des douanes et du revenu du Canada de traiter d'une certaine façon les revenus d'une année autre que de celle dont elle est saisie.
+[23] En l'espèce, la cotisation était tout à fait bien fondée et conforme aux dispositions de la Loi. Je dois donc rejeter l'appel de l'appelante pour l'année 2005. Quant aux autres années, la Cour n'a pas compétence pour en traiter.
+[24] À la lecture de ce texte, il est facile de comprendre que les demandes de l'appelante sont irrecevables. D'autre part, la seule compétence de cette Cour est de décider si la cotisation à l'origine du présent appel est bien fondée en vertu des dispositions de la Loi.
+Signé à Ottawa, Canada, ce 9e jour de novembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI646
+Nº DU DOSSIER DE LA COUR : 2007-2510(IT)I
+INTITULÉ DE LA CAUSE : HORTENSE GRAVEL ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 3 octobre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 9 novembre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+Jean-Marc Samson
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

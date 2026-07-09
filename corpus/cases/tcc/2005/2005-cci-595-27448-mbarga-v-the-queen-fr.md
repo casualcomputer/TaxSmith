@@ -1,0 +1,164 @@
+---
+title: "Mbarga v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27448/index.do"
+last_modified: "2005-09-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 595"
+citation2: ""
+neutral_citation: "2005 CCI 595"
+decision_date: "2005-09-02"
+language: "fr"
+item_id: "27448"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 204
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:34:28.863000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0b1e82bca6b9f55e9227f8eab62c60c1ecf1a3784e23e3c121c10fa59a4f1b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mbarga v. The Queen
+
+- Citation: 2005 CCI 595
+- Decision date: 2005-09-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 204, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mbarga v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-02
+Référence neutre
+2005 CCI 595
+Numéro de dossier
+2004-3899(IT)I
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3899(IT)I
+ENTRE :
+JEAN-CALVIN MBARGA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 avril 2005, à Calgary (Alberta).
+Devant : L'honorable juge R.D. Bell
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Lesley Askt
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de septembre 2005.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 29e jour de mai 2006
+Jean David Robert, traducteur
+Référence : 2005CCI595
+Date : 20050902
+Dossier : 2004-3899(IT)I
+ENTRE :
+JEAN-CALVIN MBARGA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+Toutes les dispositions mentionnées sont contenues dans la Loi de l'impôt sur le revenu (la « Loi » ).
+QUESTION EN LITIGE
+[1] La question à trancher est de savoir si le montant de 21 930 $ doit être inclus dans le revenu de l'appelant pour l'année d'imposition 2001 conformément aux dispositions de l'alinéa 56(1)n). Dans son témoignage non contredit, l'appelant a affirmé que Alberta Human Resources and Employment a payé la somme de 22 430 $ à l'Université de Calgary pour qu'il suive un programme en technologie qui lui permettrait d'accroître ses compétences et qui l'aiderait à trouver un emploi.
+[2] L'appelant a omis d'inclure le montant précité de 22 430 $ dans sa déclaration de revenus pour l'année d'imposition 2001. Il a affirmé que Alberta Human Resources and Employment l'a avisé que cette somme n'était pas imposable. Il a aussi soutenu qu'il n'avait personnellement reçu aucun argent de cet organisme.
+[3] Dans la réponse à l'avis d'appel, l'intimée a affirmé à huit reprises que l'appelant avait reçu la somme susmentionnée.
+ANALYSE ET CONCLUSION
+[4] L'alinéa 56(1)n) est ainsi rédigé :
+Sommes à inclure dans le revenu de l'année
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+[...]
+n) Bourses d'études, de perfectionnement, etc. - l'excédent éventuel :
+(i) du total des sommes [...] reçues au cours de l'année par le contribuable à titre de bourse d'études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une oeuvre remarquable réalisée dans son domaine d'activité habituel, à l'exclusion d'une récompense visée par règlement,
+[sur :]
+(ii) l'exemption pour bourses d'études du contribuable pour l'année, calculée selon le paragraphe (3);
+Le paragraphe (3) prévoit, entre autres, ce qui suit :
+(3) Exemption pour bourses d'études, bourses de perfectionnement (fellowships) ou récompenses. Pour l'application du sous-alinéa (1)n)(ii), l'exemption pour bourses d'études d'un contribuable pour une année d'imposition correspond au plus élevé des montants suivants :
+a) 500 $,
+b) le moins élevé des montants suivants :
+(i) 3 000 $,
+(ii) le total des montants représentant chacun le montant inclus en application du sous-alinéa (1)n)(i) dans le calcul du revenu du contribuable pour l'année au titre d'une bourse d'études ou d'une bourse de perfectionnement (fellowship) reçue relativement à son inscription à un programme d'études pour lequel un montant est déductible en application du paragraphe 118.6(2) dans le calcul de son impôt payable pour l'année en vertu de la présente partie;
+c) [...]
+[5] Il faut d'abord décider si l'appelant a reçu la somme de 22 430 $. Comme je l'ai déjà dit, dans la réponse à l'avis d'appel l'intimée a déclaré que l'appelant avait reçu cette somme. Il s'agit d'une conclusion de droit, non de fait, parce que la somme n'a pas été payée à l'appelant mais à l'Université de Calgary. À cet égard, il est de jurisprudence constante que le sens du mot « réception » comprend la réception implicite. On peut lire ce qui suit à la page 5064 de la décision Morin v. The Queen, 75 DTC 5061 :
+[...] le mot recevoir ou toucher veut évidemment dire en bénéficier ou en profiter. En recevoir les avantages sans être obligé de l'avoir dans ses mains.
+Voir aussi Jones v. Canada, 2002 DTC 3875.
+[6] Par conséquent, la somme en cause, bien que payée par Alberta Human Resources and Employment à l'Université de Calgary, a été reçue par l'appelant.
+[7] La prochaine question à trancher est de savoir si la somme a été reçue
+[...] à titre de bourse d'études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une oeuvre remarquable réalisée dans son domaine d'activité habituel, à l'exclusion d'une récompense visée par règlement,
+[8] Le New Shorter Oxford English Dictionary définit l'expression « bourse d'études » ( « scholarship » en anglais) en ces termes :
+[traduction]
+La pension ou les émoluments d'un boursier qui obtient d'une école, d'un collège ou d'une université de l'aide financière destinée à l'aider à poursuivre ses études en récompense de ses réalisations scolaires.
+Le mot « émoluments » ( « emoluments » en anglais), tel qu'il est défini dans ce dictionnaire, implique un [traduction] « bénéfice, confort » . Selon sa définition plus traditionnelle, il signifie : [traduction] « profit ou gain tiré d'un poste ou d'un emploi; récompense, rémunération » .
+Une « bourse de perfectionnement » ( « fellowship » en anglais) est en partie définie comme [traduction] « la pension ou les émoluments d'un boursier chargé de cours dans un collège » .
+Qu'elle soit ou non visée par les définitions des expressions « bourse d'études » ( « scholarship » ) et « bourse de perfectionnement » ( « fellowship » ), la somme en cause ne correspond certainement pas à une « récompense couronnant une oeuvre remarquable réalisée dans son domaine d'activité habituel » . De plus, il ne s'agit pas d'une « récompense visée par règlement » . Cette expression est ainsi définie à l'article 7700 du Règlement de l'impôt sur le revenu :
+[...] celle reconnue par le public et décernée pour une oeuvre méritoire réalisée dans le domaine des arts ou des sciences ou dans le cadre de services au public, à l'exception des montants qu'il est raisonnable de considérer comme reçus en échange de services rendus ou à rendre.
+Cependant, la somme constitue une « bourse d'études » ( « bursary » en anglais) au sens que donne à cette expression le dictionnaire susmentionné :
+[traduction]
+Une dotation accordée à un étudiant.
+[9] Après avoir décidé que l'appelant a reçu la somme de 22 430 $ à titre de bourse d'études ( « bursary » ), il faut maintenant se demander si cette somme, dans la mesure où elle répond à la définition précitée, dépasse « l'exemption pour bourses d'études du contribuable [l'appelant] pour l'année, calculée selon le paragraphe (3) » . En vertu de la disposition susmentionnée, qui est reproduite ci-dessus, il est nécessaire de consulter le paragraphe 118.6(2) pour savoir si une partie des 22 430 $ est déductible. Ce paragraphe prévoit que le montant obtenu selon la formule donnée est déductible si les conditions suivantes sont remplies :
+[...] l'inscription du particulier doit être attestée par un certificat délivré par l'établissement - sur le formulaire prescrit contenant les renseignements prescrits - et présenté au ministre et, s'il s'agit d'un établissement d'enseignement agréé visé au sous-alinéa a)(ii) de la définition de cette expression au paragraphe (1), le particulier doit avoir atteint l'âge de 16 ans avant la fin de l'année et être inscrit au programme en vue d'acquérir ou d'améliorer sa compétence à exercer une activité professionnelle.
+L'appelant n'a pas présenté au ministre le certificat exigé. Par conséquent, il n'existe aucune somme visée par le sous-alinéa 56(3)b)(ii) à l'égard de laquelle une déduction peut être effectuée en application du paragraphe 118.6(2). Zéro étant moins élevé que 3 000 $, il n'est pas nécessaire de procéder au calcul visé à l'alinéa 56(3)c), le plus élevé du montant de 500 $, prévu à l'alinéa a), et de zéro, établi en vertu de l'alinéa b), étant 500 $.
+[10] Pour ces motifs, l'appelant doit inclure 21 930 $, soit 22 430 $ moins l'exemption de 500 $ prévue par la Loi, dans son revenu pour l'année d'imposition 2001. L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 2e jour de septembre 2005.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 29e jour de mai 2006
+Jean David Robert, traducteur
+RÉFÉRENCE : 2005CCI595
+N º DU DOSSIER DE LA COUR : 2004-3899(IT)I
+INTITULÉ : Jean-Calvin Mbarga et La Reine
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : Le 20 avril 2005
+MOTIFS DU JUGEMENT : L'honorable juge R.D. Bell
+DATE DU JUGEMENT : Le 2 septembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Lesley Askt
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

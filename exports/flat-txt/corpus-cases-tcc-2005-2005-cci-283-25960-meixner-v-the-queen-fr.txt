@@ -1,0 +1,174 @@
+Title: Meixner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25960/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-283-25960-meixner-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-05-31
+
+# Meixner v. The Queen
+
+- Citation: 2005 CCI 283
+- Decision date: 2005-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3758, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meixner v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-31
+Référence neutre
+2005 CCI 283
+Numéro de dossier
+2003-1997(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1997(IT)G
+ENTRE :
+KANDY L. MEIXNER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée. [TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 29 et 30 mars 2005 et jugement rendu oralement à St. Catharines (Ontario), le 1er avril 2005.
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Avocat de l'appelante :
+Me Malte von Anrep
+Avocat de l'intimée :
+Me Steven D. Leckie
+JUGEMENT
+Les appels des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996 et 1997 sont admis avec dépens et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte des faits que :
+a) l'appelante n'avait pas d'intérêt bénéficiaire dans le 59, avenue Plymouth;
+b) l'appelante avait un intérêt bénéficiaire à l'égard de la moitié du 47, promenade Lakeside, et elle a touché la moitié du produit à titre de capital;
+c) l'appelante n'a pas reçu de revenu de location en 1995, en 1996 et en 1997;
+d) des pénalités peuvent être imposées par suite de la faute lourde que l'appelante a commise en omettant de déclarer des gains en capital lors de la disposition de l'immeuble situé au 47, promenade Lakeside, en 1997.
+L'appelante n'a droit à aucune autre mesure de redressement.
+Signé à Ottawa, Canada, ce 31e jour de mai 2005.
+« Brent Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 12e jour de juin 2006.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI283 Date : 20050531 Dossier : 2003-1997(IT)G
+ENTRE :
+KANDY L. MEIXNER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à St. Catharines (Ontario), le 29 mars 2005.)
+Le juge Paris
+[1] Il s'agit d'un appel de nouvelles cotisations établies à l'égard des années d'imposition 1995, 1996 et 1997 de l'appelante, par lesquelles le ministre du Revenu national (le « ministre » ) a inclus certains montants dans le revenu de l'appelante au titre d'un revenu de location non déclaré, d'un gain en capital non déclaré et d'un revenu d'entreprise non déclaré. Les pénalités prévues au paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ), L.R.C. 1985 (5e suppl.), ch. 1, ont été imposées sur ces montants.
+[2] L'appelante conteste tous ces éléments et soutient également que les années visées par l'appel sont prescrites.
+[3] Tous les éléments qui ont donné lieu aux nouvelles cotisations se rapportent à des opérations concernant l'ancien mari de l'appelante, Mark DeMarco, dont l'appelante s'était séparée en l'an 2000 et avec lequel elle a divorcé en 2002. La séparation et le divorce ont été acrimonieux et deux ordonnances de non-communication rendues contre M. DeMarco ont été produites en preuve.
+[4] Monsieur DeMarco était un homme d'affaires qui, lorsqu'il était marié à l'appelante, exploitait un certain nombre d'entreprises et de magasins différents, notamment une bijouterie, un commerce de prêts sur gages, un magasin d'antiquités et d'objets usagés ainsi qu'un musée. Il vendait et achetait en outre des voitures et des immeubles.
+[5] L'appelante et M. DeMarco ont tous deux témoigné que les immeubles que M. DeMarco achetait étaient enregistrés au nom de l'appelante. On ne sait pas trop pourquoi il en était ainsi, mais il semble que la chose visait initialement à protéger les actifs de M. DeMarco contre les créanciers possibles et, par la suite, parce qu'il était plus facile d'obtenir du financement pour les immeubles à cause de l'emploi régulier exercé à plein temps par l'appelante et à cause de son dossier de crédit.
+[6] Le premier élément visé par l'appel est un gain en capital de 36 000 $ qui a donné lieu à une cotisation à l'encontre de l'appelante pour son année d'imposition 1995, à la suite de l'achat et de la vente d'une maison située au 59, promenade Plymouth, à St. Catharines. La maison appartenait à la mère de M. DeMarco, qui est décédée au mois d'août 1994. Dans son testament, Mme DeMarco léguait tous ses biens à ses deux enfants, Mark DeMarco et son frère, Murray. Murray DeMarco était l'exécuteur de la succession.
+[7] Au mois de février 1995, la succession a transféré à l'appelante l'immeuble situé au 59, promenade Plymouth. Selon l'acte de transfert, une contrepartie de 30 000 $ a été remise.
+[8] Au mois de novembre 1995, l'immeuble situé au 59, promenade Plymouth a été vendu à une personne non liée pour la somme de 66 000 $.
+[9] L'appelante et M. DeMarco ont tous deux témoigné que c'était Mark DeMarco qui avait versé la contrepartie de 30 000 $ à Murray DeMarco. L'opération a été conclue afin de payer Murray DeMarco à l'égard du droit qu'il possédait sur l'immeuble.
+[10] Il semble qu'au moment du transfert en faveur de l'appelante, l'immeuble ait valu environ 60 000 $ et que le droit de Murray DeMarco valait 30 000 $. Mark DeMarco et l'appelante ont tous deux dit que l'immeuble avait été enregistré au nom de l'appelante parce que c'était ce que M. DeMarco faisait pour tous ses immeubles.
+[11] Il était clair que M. DeMarco avait demandé aux avocats de préparer l'acte de transfert en faveur de l'appelante; M. DeMarco a affirmé l'avoir fait suivant les conseils de son avocat.
+[12] Quant à la vente ultérieure de l'immeuble situé au 59, promenade Plymouth, l'appelante a affirmé que le produit avait été remis à M. DeMarco, qui s'en était servi pour acheter un autre immeuble ou qui l'avait placé dans un dépôt à terme en attendant d'acheter un autre immeuble. L'appelante a affirmé que le produit n'avait pas été déposé dans son compte en banque.
+[13] L'appelante nie avoir réalisé un gain en capital lors de la vente, parce qu'elle affirme n'avoir jamais eu d'intérêt bénéficiaire dans le bien en question.
+[14] L'intimée fait valoir qu'étant donné qu'il n'y avait pas de déclaration écrite de fiducie entre M. DeMarco et l'appelante au sujet de l'acquisition et de la disposition de l'immeuble situé au 59, promenade Plymouth, il faut considérer que l'appelante a agi pour son propre compte et que le gain réalisé lors de la vente devrait donc être imposé à son égard.
+[15] En l'espèce, il n'y avait pas de déclaration expresse de fiducie, mais, à mon avis, la preuve montre que, selon l'intention de l'appelante et de M. DeMarco, l'appelante ne devait pas avoir d'intérêt bénéficiaire dans le 59, promenade Plymouth, l'immeuble étant plutôt détenu pour Mark DeMarco. De plus, c'est M. DeMarco qui a fourni toute la contrepartie à verser pour acheter l'immeuble de la succession. La chose n'a pas été contestée.
+[16] Ces circonstances sont suffisantes pour établir qu'il existait une fiducie par déduction en faveur de M. DeMarco à l'égard de l'immeuble, pendant que l'appelante possédait cet immeuble.
+[17] Une fiducie par déduction peut être créée lorsque les parties ont l' « intention commune » que la personne qui détient le titre de propriété ne doit pas avoir l'intérêt bénéficiaire. À l'appui de cette thèse, on peut mentionner l'arrêt Rathwell c. Rathwell, [1978] 2 R.C.S. 436, de la Cour suprême du Canada.
+[18] Il est possible de supposer une telle intention à partir de la conduite des parties, dont la plus pertinente, comme l'a dit la Cour suprême du Canada dans l'arrêt Pettkus c. Becker,[1980] 2 R.C.S. 834, se rapporte aux dispositions financières qui ont été prises lors de l'acquisition du bien.
+[19] La preuve montre également qu'en plus de fournir l'argent nécessaire aux fins de l'achat de l'immeuble situé au 59, promenade Plymouth, M. DeMarco a utilisé le produit de la vente pour effectuer d'autres placements immobiliers.
+[20] L'avocat de l'intimée affirme que l'argument relatif à la fiducie par déduction n'a pas été soulevé dans les actes de procédure, et ce, au détriment de l'intimée.
+[21] Je suis d'accord pour dire que l'appelante n'a pas expressément plaidé l'existence d'une fiducie par déduction ou par détermination de la loi, mais il n'est pas non plus fait mention d'une déclaration expresse de fiducie ou d'un rapport fiduciaire formel dans l'avis d'appel. Je crois que l'intimée a suffisamment été avisée de la position de l'appelante, à savoir qu'elle n'avait pas acquis d'intérêt bénéficiaire dans les biens et que des détails auraient pu être obtenus au sujet de cette position au moyen d'une demande de précisions ou lors de l'interrogatoire préalable.
+[22] L'avocat de l'intimée a également fait valoir que conformément à l'article 9 de la Loi relative aux preuves littérales, L.R.O. 1990, ch. S.19, les fiducies visant des immeubles doivent être établies par un écrit. Toutefois, l'article 10 de cette loi prévoit que cette exigence ne s'applique pas aux fiducies découlant de l'effet de la loi, comme une fiducie par déduction.
+[23] La deuxième question qui se pose en l'espèce se rapporte au transfert d'un autre immeuble de la succession de la mère de M. DeMarco en faveur de l'appelante. Dans ce cas, une maison située au 47, promenade Lakeside a été transférée à l'appelante le 13 novembre 1997 moyennant une contrepartie de 30 000 $ selon l'acte de transfert. L'immeuble a ensuite été transféré à une personne non liée le 14 novembre 1997 pour une somme de 206 400 $.
+[24] Le ministre a établi une cotisation à l'égard de la différence entre la contrepartie qui aurait été remise par l'appelante et le prix de vente ultérieur au titre d'un revenu d'entreprise en faveur de cette dernière.
+[25] L'appelante maintient encore une fois qu'elle ne devrait pas être assujettie à l'impôt à l'égard de cette opération parce qu'elle n'a jamais eu d'intérêt bénéficiaire dans le bien.
+[26] L'immeuble situé au 47, promenade Lakeside a initialement été acquis en 1974 par M. DeMarco, qui l'a transféré à sa mère en 1977. Monsieur DeMarco affirme avoir vendu l'immeuble à sa mère pour la somme de 29 000 $. Monsieur DeMarco a habité la maison située sur le terrain de 1974 à 1996, et l'appelante y a habité avec lui de 1982 à 1996. Pendant que l'appelante et M. DeMarco habitaient la maison, ils y ont apporté des améliorations importantes; ils ont notamment agrandi la maison, ils ont installé une piscine et ils ont rénové la cuisine et les salles de bains.
+[27] L'appelante et M. DeMarco ont habité la maison après le décès de Mme DeMarco, en 1994, et ce, jusqu'à ce qu'ils achètent une maison, chemin Lyons Creek, en 1996. Après le mois de mars 1996, la maison située au 47, promenade Lakeside est demeurée inoccupée jusqu'à ce qu'elle soit vendue au mois de novembre 1997.
+[28] L'immeuble situé au 47, promenade Lakeside faisait partie de la succession de Mme DeMarco, mais il n'était pas mentionné dans la requête de nomination à titre de fiduciaire de la succession, faite au nom de Murray DeMarco. Aucune explication n'a été donnée à ce sujet.
+[29] Il semble que l'immeuble ait été mis en vente au nom de l'appelante à la fin du mois d'août 1997, même s'il était encore enregistré au nom de Mme DeMarco. Une vente a été négociée, le prix s'élevant à 206 400 $ et la date de clôture étant fixée au 14 novembre 1997. Juste avant cette vente, un acte de transfert a été signé, par lequel l'immeuble était transféré au nom de l'appelante. Cet acte a été signé par M. DeMarco et par son frère, Murray, en leur qualité personnelle, et par Murray DeMarco, en sa qualité de fiduciaire de la succession et, comme il en a été fait mention, la contrepartie stipulée était de 30 000 $.
+[30] Selon l'appelante et M. DeMarco, aucune somme d'argent n'a changé de mains au moment du transfert en faveur de l'appelante. L'appelante a affirmé que M. DeMarco avait pris les dispositions voulues en vue de ce transfert et M. DeMarco a affirmé l'avoir fait selon les conseils de son avocat. Monsieur DeMarco n'a pas pu donner d'autre raison. Il a également dit que son frère n'avait pas présenté de réclamation à l'égard de l'immeuble et n'avait demandé que la moitié du produit de la vente de l'immeuble situé au 59, promenade Plymouth, représentant sa part des biens de la succession.
+[31] Monsieur DeMarco a affirmé que Murray avait reconnu que l'immeuble situé au 47, promenade Lakeside était un actif appartenant à M. DeMarco. Malheureusement, Murray DeMarco n'a pas été cité comme témoin pour éclaircir ce point.
+[32] Lorsque l'immeuble a été vendu au tiers le 14 novembre 1997, le produit a servi en partie au remboursement d'une hypothèque grevant la maison située au chemin Lyons Creek, ainsi qu'au remboursement d'un prêt que la mère de l'appelante avait consenti à cette dernière et à M. DeMarco, lequel avait servi à l'achat de la maison du chemin Lyons Creek.
+[33] Il n'a pas été démontré qu'il y ait eu une déclaration expresse de fiducie à l'égard du transfert de l'immeuble situé au 47, promenade Lakeside en faveur de l'appelante. L'avocat de l'appelante soutient encore une fois que M. DeMarco avait un intérêt bénéficiaire dans l'immeuble au moyen d'une fiducie par déduction ou par détermination de la loi.
+[34] À mon avis, les circonstances entourant ce transfert sont quelque peu différentes de celles qui se rapportent à l'immeuble situé au 59, promenade Plymouth. Je reconnais qu'aucune contrepartie en espèces n'a été versée pour l'immeuble, étant donné que c'est ce que se rappelaient l'appelante et M. DeMarco. Si une contrepartie avait été remise, elle l'aurait été par M. DeMarco et un tel paiement aurait étayé la position prise par l'appelante au sujet de l'existence d'une fiducie.
+[35] Je tiens également à faire remarquer qu'aux termes de l'article 9 de la Loi sur l'administration des successions, L.R.C. 1990, l'immeuble avait été dévolu à M. DeMarco et à son frère, Murray, au mois d'août 1997, soit trois ans après le décès de Mme DeMarco, étant donné que le fiduciaire n'avait pas vendu ou transféré l'immeuble dans ce délai de trois ans. Cela expliquerait pourquoi ils ont tous deux signé l'acte de transfert en faveur de l'appelante en leur qualité personnelle. Il est fait mention de l'article 9 de la Loi sur l'administration des successions à la deuxième page de l'acte. Cela veut donc dire que l'immeuble situé au 47, promenade Lakeside avait de fait été transféré à l'appelante par M. DeMarco et par Murray DeMarco personnellement, sans aucune contrepartie.
+[36] Quant au droit à l'égard de la moitié de l'immeuble que possédait M. DeMarco et qui a été transféré, M. DeMarco et l'appelante ont tous deux indiqué qu'ils avaient l'intention d'enregistrer l'immeuble au nom de cette dernière afin de le vendre au tiers. Il n'existait aucune intention de conférer d'intérêt bénéficiaire à l'appelante. Le fait que M. DeMarco n'a pas reçu de contrepartie pour sa moitié étaye leur témoignage sur ce point.
+[37] Enfin, M. DeMarco a également investi une bonne partie du produit dans d'autres immeubles. Cela indique l'intention de continuer à posséder un droit sur l'immeuble après son transfert en faveur de l'appelante et l'intention de partager le produit de la vente conclue avec le tiers.
+[38] Pour les mêmes raisons que celles qui ont été données à l'égard de l'immeuble situé au 59, promenade Plymouth, je conclus que le transfert par M. DeMarco de son droit à l'égard de la moitié de l'immeuble situé au 47, promenade Lakeside en faveur de l'appelante a entraîné la constitution d'une fiducie par déduction et que M. DeMarco a ainsi continué à avoir un intérêt bénéficiaire à l'égard de la moitié de l'immeuble.
+[39] Toutefois, je ne puis conclure que l'appelante détenait le reste de l'immeuble en fiducie pour M. DeMarco. Les mêmes éléments d'intention et de conduite ne s'appliquent pas dans le cas du droit à l'égard de la moitié de l'immeuble qui a été dévolu à Murray DeMarco avant le transfert en faveur de l'appelante. Il n'existe aucune preuve directe ni aucun élément convaincant montrant pourquoi Murray a transféré son droit à l'appelante sans aucune contrepartie, ou qu'il voulait que l'appelante possède son droit en fiducie pour M. DeMarco.
+[40] Pour qu'il y ait fiducie par déduction à l'égard de la moitié de l'immeuble situé au 47, promenade Lakeside qui a été dévolue à Murray DeMarco, il faudrait une preuve d'intention commune de la part de Murray et de l'appelante, selon laquelle l'appelante devait détenir le droit en fiducie. Or, cette preuve n'existe pas en l'espèce. En outre, l'appelante a bénéficié d'au moins une partie du produit de la vente de l'immeuble situé au 47, promenade Lakeside au moyen du remboursement d'un prêt que sa mère lui avait consenti et du remboursement d'une hypothèque grevant la résidence familiale.
+[41] Eu égard aux circonstances dans leur ensemble, je conclus que l'appelante a acquis un intérêt bénéficiaire à l'égard de la moitié de l'immeuble situé sur la promenade Lakeside et a ainsi acquis un droit sur la moitié du produit de la vente.
+[42] Il s'agit ensuite de savoir si le gain que l'appelante a réalisé par suite de cette disposition est imputable au capital ou au revenu. Le ministre a établi une nouvelle cotisation à l'égard de l'appelante au motif que cette opération (l'acquisition et la vente de l'immeuble situé au 47, promenade Lakeside) était un projet comportant un risque de caractère commercial.
+[43] L'avocat de l'intimée fait valoir que, selon les critères qui s'appliquent normalement lorsqu'il s'agit de savoir si une opération constitue un projet comportant un risque de caractère commercial, tels qu'ils sont énoncés dans la décision Happy Valley Farms c. La Reine, no T-6632-82, 16 juillet 1986, 86 D.T.C. 6421 (C.F. 1re inst.), la décision du ministre était correcte. Il est expressément fait mention de la brève période pendant laquelle l'appelante a été propriétaire dans ce cas-ci et du fait qu'il était certain que cette dernière allait réaliser un bénéfice au moment de la vente ultérieure. L'avocat me demande également d'imputer à l'appelante le motif qui a amené M. DeMarco à conclure l'opération, parce qu'il semblait être celui qui avait organisé la vente.
+[44] Je ne suis pas convaincu que les critères ordinaires permettant de savoir si une opération était un projet comportant un risque de caractère commercial s'appliquent eu égard aux circonstances inhabituelles de l'espèce.
+[45] Premièrement, l'immeuble n'a pas été acheté dans le cadre d'une opération sans lien de dépendance. Le contexte général de l'opération était la vente d'un immeuble qui avait été acquis par suite du décès d'un membre de la famille. L'opération ne porte pas la marque d'une entreprise spéculative de la part de l'appelante. L'actif était une immobilisation pour Mme DeMarcoet ensuite pour M. DeMarco et son frère. La vente de l'immeuble a été organisée avant que l'appelante acquière son droit à l'égard du bien et pendant qu'il s'agissait encore d'une immobilisation pour les deux bénéficiaires. Dans la décision Racine, Demers & Nolin c. M.R.N., 1965 D.T.C. 5098, le juge Noël, de la Cour de l'Échiquier, a dit ce qui suit à la page 5113 :
+L'inférence d'une intention de faire un profit par une revente rapide peut aussi découler du fait que l'acheteur en fait a revendu presque immédiatement à profit, mais seulement s'il n'existe pas d'explication satisfaisante de cette revente rapide. [...]
+[46] La preuve en l'espèce indique une autre raison justifiant la revente rapide : l'opération a été organisée avant que l'appelante acquière le titre. La vente faisait partie d'un projet général visant à permettre de disposer des immobilisations de la succession, plutôt que de constituer une entreprise visant à permettre à l'appelante de réaliser rapidement un bénéfice.
+[47] Selon moi, cette affaire est assimilable à l'affaire Continental Bank of Canada c. La Reine, no 91-684(IT), 29 janvier 1993, 94 D.T.C. 1858, dans laquelle il y avait eu disposition des parts d'une société de personnes; le juge Bowman (maintenant juge en chef de la Cour) a conclu que la disposition était imputable au capital, même si les parts n'avaient été détenues que pendant trois jours et même si, lors de l'acquisition, l'acquéreur savait qu'elles allaient être revendues moyennant un bénéfice dans ce délai de trois jours. À mon avis, l'immeuble situé au 47, promenade Lakeside n'a pas perdu son caractère d'immobilisation lors du transfert en faveur de l'appelante. Le gain réalisé par l'appelante lors de cette vente est donc imputable au capital.
+[48] L'appelante a soulevé la possibilité que l'exemption relative à la résidence principale s'applique à l'égard de ce gain, mais il est clair qu'elle n'a pas habité, et encore moins normalement habité, la résidence pendant la brève période où elle avait un intérêt bénéficiaire dans une partie de celle-ci. De plus, aucune désignation à titre de résidence principale n'a été présentée avec la déclaration de revenus de l'appelante conformément aux exigences de la Loi de l'impôt sur le revenu.
+[49] La troisième question qui se pose dans le présent appel se rapporte au revenu de location que l'appelante avait le droit de recevoir de M. DeMarco, selon le ministre, en 1995, en 1996 et en 1997, à l'égard de trois immeubles qu'elle possédait à Niagara Falls, en Ontario. Monsieur DeMarco utilisait les immeubles dans ses diverses entreprises; il a déduit des frais de location de 12 360 $ dans le calcul de son revenu d'entreprise pour l'année 1995. Monsieur DeMarco a affirmé que, pendant toutes les années en cause, il effectuait les versements hypothécaires et payait les impôts fonciers et les frais d'entretien des immeubles au lieu de verser un loyer. Monsieur DeMarco a admis ne pas avoir déduit de frais de location pour les immeubles en 1996 et en 1997, mais il a affirmé avoir déduit les impôts fonciers et les frais d'entretien directement dans le calcul de son revenu d'entreprise.
+[50] Monsieur DeMarco a fondé sa demande de déduction du loyer, en 1995, sur un document que l'appelante et lui avaient signé, lequel était intitulé [TRADUCTION] « Demande de location » et portait la date du 28 mars 1993. Le ministre s'était également fondé sur ce document pour établir la cotisation de l'appelante à l'égard du revenu de location, les montants en cause s'élevant en tout à 12 360 $ en 1995, à 12 360 $ en 1996 et à 15 960 $ en 1997.
+[51] L'appelante affirme ne jamais avoir conclu d'entente avec M. DeMarco en vue de louer à celui-ci les trois immeubles à Niagara Falls. Elle a déclaré ne pas avoir reçu de loyer de M. DeMarco et ne pas se rappeler qu'elle avait signé le formulaire de demande de location. Elle a témoigné que M. DeMarco payait tous les frais et s'occupait de toutes les dispositions financières qu'il fallait prendre.
+[52] Une hypothèque grevait l'un des trois immeubles qui étaient enregistrés au nom de l'appelante et l'appelante a affirmé que M. DeMarco lui remettait chaque mois une somme de 450 $ en argent comptant pour effectuer le versement hypothécaire.
+[53] Le témoignage que M. DeMarco a présenté au sujet de la demande de location était plutôt compliqué. Toutefois, M. DeMarco a admis ne pas avoir versé de loyer à l'appelante selon les conditions de la demande de location; il a affirmé avoir plutôt effectué les versements hypothécaires et avoir effectué des réparations à l'immeuble.
+[54] Monsieur DeMarco a également affirmé que le formulaire de demande de location avait été rédigé par suite d'une discussion qu'il avait eue avec un avocat, Me Nicoletti, peu de temps après l'achat de l'un des immeubles à Niagara Falls (le 4593, avenue Victoria). Maître Nicoletti était une connaissance de M. DeMarco et ne lui fournissait pas de services professionnels à ce moment-là.
+[55] Monsieur DeMarco a fait savoir à Me Nicoletti qu'il songeait, dans certaines circonstances, à louer l'immeuble situé au 4593, avenue Victoria au lieu de l'utiliser lui-même. Maître Nicoletti savait que M. DeMarco ne versait pas de loyer à l'appelante et qu'il effectuait les versements hypothécaires ainsi que les réparations et il a proposé à M. DeMarco de conclure une entente de location avec l'appelante, de façon que celle-ci semble recevoir un certain montant au titre du loyer pour l'immeuble. Maître Nicoletti croyait qu'il serait alors plus facile d'exiger d'un tiers ce montant de loyer. Monsieur DeMarco a également affirmé qu'il croyait que l'appelante était présente lors de ces discussions et qu'elle avait signé le formulaire de [TRADUCTION] « Demande de location » . L'appelante nie avoir eu connaissance de l'existence du formulaire ou des discussions évoqués par M. DeMarco dans son témoignage.
+[56] Je retiens le témoignage de l'appelante selon lequel elle n'a jamais voulu signer un bail à l'égard des immeubles. Quoi qu'il en soit, il est également clair que la présumée entente de location n'est pas une entente obligatoire du genre allégué par l'intimée. Il s'agit simplement d'une demande préliminaire en vue de louer les locaux et, selon ses conditions, il fallait que le propriétaire accepte et qu'une convention de location soit signée [TRADUCTION] « selon le formulaire habituel du propriétaire » une fois la demande acceptée. Or, aucune convention de location n'a par la suite été rédigée.
+[57] L'avocat de l'intimée soutient que les frais payés par M. DeMarco pour les immeubles devraient être considérés comme un versement de loyer et que ces montants peuvent justifier l'établissement de la cotisation visant l'appelante.
+[58] Toutefois, l'appelante n'a clairement rien reçu de M. DeMarco, que ce soit en argent ou en nature, en sus des frais d'entretien des immeubles et rien ne permet donc d'inclure un revenu net de location dans le revenu de l'appelante pour ces années-là.
+[59] Compte tenu des motifs susmentionnés, le seul élément parmi ceux ayant donné lieu à de nouvelles cotisations qui a été confirmé est celui qui se rapporte à l'inclusion d'un gain en capital tiré de la vente de l'immeuble situé au 47, promenade Lakeside, en 1997.
+[60] Je dois donc déterminer si l'omission de l'appelante d'inclure ce gain dans sa déclaration de revenus de 1997 constitue une présentation erronée des faits, par négligence, inattention ou omission volontaire, de sorte que le ministre peut établir une nouvelle cotisation en dehors de la période normale de nouvelle cotisation de trois ans mentionnée à l'alinéa 152(3.1)a) de la Loi de l'impôt sur le revenu.
+[61] Je dois également déterminer si les pénalités établies sur ce montant aux termes du paragraphe 163(2) de la Loi sont justifiées.
+[62] Il incombe à l'intimée de prouver le degré nécessaire de faute en application du sous-alinéa 152(4)a)(ii) et du paragraphe 163(2) de la Loi de l'impôt sur le revenu.
+[63] Comme l'a souligné l'avocat de l'appelante, le degré de faute visé par les deux dispositions est différent, le paragraphe 163(2) de la Loi exigeant la preuve d'une faute lourde.
+[64] Dans la décision Venne c. La Reine, no T-815-82, 9 avril 1984, 84 D.T.C. 6247, la Cour fédérale a dit que la faute lourde comporte un degré élevé de négligence qui correspond à une action délibérée, une indifférence au respect de la loi.
+[65] L'appelante ici en cause est une femme intelligente qui a terminé sa 12e année. Elle a connu du succès dans sa carrière et elle travaille comme cadre pour une grosse société. Elle se rendait compte qu'elle était partie à de nombreuses opérations immobilières avec son ancien mari, mais elle affirme ne pas avoir su que ces opérations comportaient des incidences fiscales. L'appelante avait accès à de l'aide professionnelle à l'égard de ces opérations et de la préparation de ses déclarations de revenus, mais elle n'a pas discuté des incidences fiscales de ces opérations commerciales avec ces conseillers ou même avec son mari.
+[66] Je ne retiens pas le témoignage de l'appelante lorsqu'elle affirme ne pas avoir su que sa participation à ces opérations avec son mari pouvait avoir des conséquences en matière d'impôt sur le revenu. Je suis d'accord avec l'avocat de l'intimée pour dire qu'une personne qui possède le niveau d'instruction et l'expérience de l'appelante aurait au moins eu une vague idée du fait que les opérations immobilières pouvaient avoir de telles conséquences. Je crois également que l'appelante doit avoir su que l'habitude qu'avait son ancien mari d'enregistrer les immeubles à son nom sortait de l'ordinaire. L'appelante a elle-même déclaré que cela l'inquiétait, parce que M. DeMarco avait fait enregistrer un si grand nombre d'immeubles à son nom, mais qu'elle n'avait fait aucun effort pour obtenir des conseils au sujet des incidences fiscales de ces opérations.
+[67] Compte tenu de la preuve dans son ensemble, je suis d'avis que l'appelante a fait preuve d'aveuglement volontaire quant aux obligations qui lui incombaient aux termes de la Loi de l'impôt sur le revenu en omettant d'informer son comptable, lorsqu'il préparait ses déclarations, des opérations immobilières auxquelles elle avait été partie, notamment en ce qui concerne l'immeuble situé au 47, promenade Lakeside. L'appelante a affirmé s'en être entièrement remise à son ancien mari pour qu'il s'occupe de ces questions, mais elle n'a apparemment jamais discuté de l'affaire avec lui.
+[68] Je ne saurais croire que l'ancien mari de l'appelante empêchait celle-ci de s'acquitter des obligations qui lui incombaient aux termes de la Loi de l'impôt sur le revenu. La preuve n'étaye tout simplement pas cette prétention. L'appelante a peut-être décidé de ne pas s'occuper de ces questions afin d'éviter des disputes avec son ancien mari, mais cela ne la dispense pas pour autant de s'acquitter de son obligation légale.
+[69] Je conclus que l'omission de l'appelante de déclarer la disposition de l'immeuble situé au 47, promenade Lakeside dans sa déclaration de revenus de 1997 équivalait à une faute lourde, justifiant l'imposition d'une pénalité en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu.
+[70] Cela étant, l'omission de déclarer l'opération constituait une négligence suffisante pour permettre au ministre d'établir une nouvelle cotisation en dehors de la période normale de trois ans.
+[71] L'appel est donc en partie admis avec dépens.
+Signé à Ottawa (Ontario), ce 31e jour de mai 2005.
+« Brent Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 12e jour de juin 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2005CCI283
+No DU DOSSIER DE LA COUR :
+2003-1997(IT)G
+INTITULÉ :
+Kandy L. Meixner c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+St. Catharines (Ontario)
+DATE DE L'AUDIENCE :
+Le 29 mars 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 31 mai 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Malte von Anrep
+Avocat de l'intimée :
+Me Steven D. Leckie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Malte von Anrep
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r. Sous-procureur général du Canada Ottawa (Ontario)

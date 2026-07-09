@@ -1,0 +1,384 @@
+---
+title: "Election to Deem Supplies to be Made for Nil Consideration"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-5/election-nil-consideration.html
+last_modified: 2023-06-20
+---
+# Election to Deem Supplies to be Made for Nil Consideration
+
+GST/HST memorandum 14-5 June 2023
+
+This memorandum does not reflect the [draft legislative and regulatory proposals](https://fin.canada.ca/drleg-apl/2022/ita-lir-0822-l-3-eng.html) relating to the GST/HST included in the Department of Finance Canada [news release](https://www.canada.ca/en/department-finance/news/2022/08/government-delivering-on-budget-2022-commitments-to-canadians.html) issued on August 9, 2022.
+
+This version replaces the one dated October 2012 and titled, “Election for Nil Consideration”. This memorandum was updated to include amendments to the definition of **qualifying member** under subsection 156(1) of the Excise Tax Act. It also cancels and replaces GST/HST Policy Statement P-255, Late-filed Section 156 Elections and Revocations.
+
+This memorandum explains the conditions in section 156 of the Excise Tax Act that permit specified members of a qualifying group of closely related corporations resident in Canada, closely related Canadian partnerships, or closely related Canadian partnerships and corporations resident in Canada to make a joint election to treat certain taxable supplies between them as having been made for no consideration.
+
+The rules for determining if two Canadian partnerships or a Canadian partnership and a corporation are closely related for purposes of section 156 are explained in [GST/HST Memorandum 14-8, Closely Related Canadian Partnerships and Corporations for Purposes of Section 156](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-8.html).
+
+The rules for determining if two corporations are closely related for purposes of section 156 (and for purposes of other GST/HST provisions) are explained in [GST/HST Memorandum 14-7, Closely Related Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-7.html).
+
+Except as otherwise noted, all statutory references in this publication are to the provisions of the Excise Tax Act (ETA), and all references to the Regulations are to the Amalgamations and Windings-up Continuation (GST/HST) Regulations. The information in this publication does not replace the law found in the ETA and its regulations.
+
+If this information does not completely address your particular situation, you may wish to refer to the ETA or relevant regulation, or call GST/HST Rulings at 1-800-959-8287 for additional information. If you require certainty with respect to any particular GST/HST matter, you may request a ruling. [GST/HST Memorandum 1-4, Excise and GST/HST Rulings and Interpretations Service](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/1-4.html), explains how to obtain a ruling or an interpretation and lists the GST/HST rulings centres.
+
+If you are located in Quebec and wish to request a ruling related to the GST/HST, please call Revenu Québec at 1-800-567-4692. You may also visit the Revenu Québec website at [revenuquebec.ca](https://www.revenuquebec.ca/en/) to obtain general information.
+
+For listed financial institutions that are selected listed financial institutions (SLFIs) for GST/HST or Quebec sales tax (QST) purposes or both, whether or not they are located in Quebec, the CRA administers the GST/HST and the QST. If you wish to make a technical GST/HST or QST enquiry related to SLFIs, please call 1-855-666-5166.
+
+**GST/HST rates**
+
+Reference in this publication is made to supplies that are subject to the GST or the HST. The HST applies in the participating provinces at the following rates: 13% in Ontario and 15% in New Brunswick, Newfoundland and Labrador, Nova Scotia and Prince Edward Island. The GST applies in the rest of Canada at the rate of 5%. If you are uncertain as to whether a supply is made in a participating province, refer to [GST/HST Memorandum 3-3-2, Place of Supply in a Province – Overview](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-3-2.html).
+
+## Table of Contents
+
+- [Nature and effect of the election](#_Toc92369842)
+
+- [Eligibility](#_Toc92369843)
+
+    - [Specified member](#_Toc92369844)
+
+    - [Qualifying group](#_Toc92369845)
+
+    - [Qualifying member](#_Toc92369846)
+
+    - [Temporary member](#_Toc92369847)
+
+    - [Resident in Canada](#_Toc92369848)
+
+    - [Canadian partnership](#_Toc92369849)
+
+    - [Registrant has property](#_Toc92369850)
+
+    - [Property other than financial instruments](#_Toc92369851)
+
+    - [Property other than property of nominal value](#_Toc92369852)
+
+    - [Consumption, use or supply exclusively in the course of commercial activity](#_Toc92369853)
+
+    - [Registrant has no property](#_Toc92369854)
+
+- [Exclusions from the election](#_Toc92369855)
+
+- [Input tax credits](#_Toc92369856)
+
+- [Election and revocation procedures](#_Toc92369857)
+
+    - [Timing and filing of an election or revocation of an election](#_Toc92369858)
+
+    - [Late-filed elections and revocations](#_Toc92369859)
+
+    - [When the election ceases to have effect](#_Toc92369860)
+
+- [Joint and several liability](#_Toc92369861)
+
+- [Mergers, amalgamations and windings-up](#_Toc92369862)
+
+## Nature and effect of the election
+
+1. Subsection 156(2) provides a joint election that permits two specified members of a qualifying group to elect to treat certain taxable supplies between them as having been made for nil (or no) consideration. The members filing such an election may include corporations that are resident in Canada and Canadian partnerships.
+
+2. The effect is that the supplier corporation or Canadian partnership does not need to account for GST/HST on these taxable supplies if the supplies are made at a time when the election is in effect. However, the eligibility of the supplier to claim input tax credits (ITCs) for the GST/HST paid or payable on property or services acquired, imported or brought into a participating province for consumption, use or supply in the course of its commercial activities is not affected by having made this election with the recipient of taxable supplies that are deemed to have been made for nil consideration (refer to paragraph 40 of this memorandum for more information).
+
+## Eligibility
+
+3. Persons making the election must be specified members of a qualifying group. A specified member of a qualifying group is either a qualifying member or a temporary member. Each of these terms is defined in subsection 156(1) and is discussed below.
+
+### Specified member
+
+4. Under subsection 156(1), **specified member** of a qualifying group includes either of the following:
+
+- a qualifying member of the group
+
+- a temporary member of the group during the course of the reorganization referred to in paragraph (f) of the definition of temporary member in subsection 156(1)
+
+5. The reference in paragraph (f) of the definition of temporary member is to a reorganization under subparagraph 55(3)(b)(i) of the Income Tax Act (ITA) that is commonly known as a **butterfly transaction**.
+
+6. A specified member must be a corporation or a Canadian partnership, meaning that any other type of entity, such as a trust or an individual, cannot be a specified member.
+
+### Qualifying group
+
+7. Under subsection 156(1), **qualifying group** means either of the following:
+
+- a group of corporations, each member of which is closely related, within the meaning assigned by section 128, to each other member of the group
+
+- a group of Canadian partnerships, or of Canadian partnerships and corporations, each member of which is closely related, within the meaning of section 156, to each other member of the group
+
+8. The rules for determining if corporations are closely related under section 128 are discussed in [GST/HST Memorandum 14-7, Closely Related Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-7.html). The rules for determining if a group of Canadian partnerships or a group of Canadian partnerships and corporations are closely related under subsection 156(1.1) are discussed in [GST/HST Memorandum 14-8, Closely Related Canadian Partnerships and Corporations for Purposes of Section 156](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-8.html).
+
+### Qualifying member
+
+9. Under subsection 156(1), **qualifying member** of a qualifying group means a registrant that is a corporation resident in Canada or a Canadian partnership and that meets the following conditions:
+
+- the registrant is a member of the group;
+
+- the registrant is not a party to an election under subsection 150(1); and
+
+- one of the following conditions is met:
+
+    - the registrant has property (other than financial instruments and property having a nominal value) and has last manufactured, produced, acquired or imported all or substantially all (generally 90% or more) of its property (other than financial instruments and property having a nominal value) for consumption, use or supply exclusively in the course of commercial activities of the registrant [refer to paragraphs 25 to 34 of this memorandum],
+
+    - the registrant has no property (other than financial instruments and property having a nominal value) and has made supplies and all or substantially all of the supplies made by the registrant are taxable supplies [refer to paragraphs 28 to 31 and 35 of this memorandum], or
+
+    - the registrant has no property (other than financial instruments and property having a nominal value) and has not made taxable supplies and it is reasonable to expect that
+
+          - the registrant will be making supplies throughout the next 12 months,
+
+          - all or substantially all of those supplies will be taxable supplies, and
+
+          - all or substantially all of the property (other than financial instruments and property having a nominal value) to be manufactured, produced, acquired or imported by the registrant within the next 12 months will be for consumption, use or supply exclusively in the course of commercial activities of the registrant [refer to paragraphs 28 to 31 and 36 of this memorandum].
+
+10. With respect to the definition of a qualifying member, a person is a registrant if the person:
+
+- is required to be registered for GST/HST under section 240, which generally requires that the person must make taxable supplies in Canada in the course of a commercial activity in Canada
+
+- if not otherwise required to be registered, is actually registered under one of the voluntary registration provisions in subsection 240(3)
+
+11. Refer to [GST/HST Memorandum 2-1, Required registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-1.html), for an explanation of who is required to be registered and to [GST/HST Memorandum 2-3, Voluntary registration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/2-3.html), which identifies persons who are eligible to apply for voluntary registration.
+
+12. Refer to paragraphs 32 to 34 of this memorandum and to [GST/HST Memorandum 8-1, General Eligibility Rules](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-1.html), for a discussion on the phrase **for consumption, use or supply exclusively in the course of commercial activities**.
+
+13. A registrant that is a party to an election under subsection 150(1) to deem certain taxable supplies to be supplies of financial services cannot be a specified member of a qualifying group.
+
+### Temporary member
+
+14. Under subsection 156(1), **temporary member** of a qualifying group “means a corporation
+
+- that is a registrant;
+
+- that is resident in Canada;
+
+- that is a member of the qualifying group;
+
+- that is not a qualifying member of the qualifying group;
+
+- that is not a party to an election made under subsection 150(1);
+
+- that receives a supply of property made in contemplation of a distribution made in the course of a reorganization described in subparagraph 55(3)(b)(i) of the Income Tax Act from the distributing corporation referred to in that subparagraph that is a qualifying member of the qualifying group;
+
+- that, before receiving the supply, does not carry on any business or have any property (other than financial instruments); and
+
+- the shares of which are transferred on the distribution.”
+
+15. Subsection 156(1) defines **distribution** to have the meaning assigned by subsection 55(1) of the ITA.
+
+16. Only a corporation can be a temporary member. Since a corporation that is a temporary member would generally not be required to be registered for purposes of the ETA (as it would not have carried on any business or have had any property before receiving the supply referred to in paragraph (f) of the definition of temporary member), a corporation that would otherwise be a temporary member is permitted to register voluntarily under paragraph 240(3)(f).
+
+### Resident in Canada
+
+17. To satisfy the definition of qualifying member or temporary member, a corporation must be resident in Canada in order to make the election. Similarly, to satisfy the definition of qualifying member, where a Canadian partnership has a member that is another partnership, the other partnership must be resident in Canada.
+
+18. The residence status of a person that is not an individual is determined according to common law residency rules, subject to the deeming provisions in section 132. The common law rules focus on whether the central management and control or mind and management of the person is in Canada. Section 132 sets out circumstances in which a person is deemed to be resident in Canada at any time for purposes of the GST/HST, regardless of whether the person would otherwise be considered to be resident under the common law rules.
+
+19. Under paragraph 132(1)(a), any corporation incorporated or continued in Canada and not continued elsewhere is deemed to be resident in Canada. Paragraph 132(1)(b) provides that a partnership is deemed to be resident in Canada at any time if the member of the partnership, or the majority of the members, having management and control of the partnership is or are resident in Canada at that time.[Footnote1](#fn1)
+
+20. For further information on determining if a person is resident in Canada, refer to [GST/HST Memorandum 3-4, Residence](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/3-4.html).
+
+### Canadian partnership
+
+21. For purposes of section 156, and in particular the definition of qualifying member, a **Canadian partnership** is defined in subsection 156(1) to mean “a partnership each member of which is a corporation or partnership and is resident in Canada.”
+
+22. Refer to paragraphs 17 to 20 of this memorandum for information regarding the residency rules for corporations and partnerships.
+
+23. Since typically only general partners have management and control of a partnership, where the general partners are corporations that are incorporated or continued in Canada and thus resident in Canada under paragraph 132(1)(a), the partnership will be deemed to be resident in Canada under paragraph 132(1)(b). In a multi-tiered partnership structure it will be necessary to identify the residency of the member or members that have management and control of the partnership.
+
+24. As all the partners of a Canadian partnership must be corporations or partnerships, if any partner of a partnership is an individual or an entity other than a corporation or partnership, the partnership does not satisfy the definition of Canadian partnership.
+
+### Registrant has property
+
+25. When, at the time a registrant wishes to make the election as a qualifying member, the registrant has property (aside from any financial instruments or property of nominal value), subparagraph (c)(i) of the definition of qualifying member in subsection 156(1) requires that the registrant must have last manufactured, produced, acquired or imported the property for consumption, use or supply exclusively in the course of commercial activities of the registrant. Therefore, the registrant must identify its commercial activities, at that time, for which it is holding its property.
+
+26. A determination of whether a registrant has certain property in situations where the registrant does not own that property can only be made on a case-by-case basis. For example, where a registrant enters into a lease of property that gives the registrant the right of exclusive possession of the property, the registrant thereby obtains a leasehold interest in the property. The registrant would be considered to have the property that the registrant has so acquired by way of such lease.
+
+27. In contrast, where a registrant enters into a licence to use particular property, the licence constitutes a personal right that does not create any interest in the particular property. In this case, the only property that the registrant has is the licence, and not the property that is the subject of the licence. For example, if a registrant has a licence to use real property or personal property such as a computer, the registrant would not be considered for GST/HST purposes to have the real property or the computer. However, the licence itself would constitute property that the person has for purposes of paragraph (c) of the definition of qualifying member, assuming it qualifies as a licence at law. Whether something constitutes a personal property right in the form of a licence can only be determined on a case-by-case basis.
+
+### Property other than financial instruments
+
+28. The term **property** is defined in subsection 123(1) to mean “any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money”. Property thus includes a financial instrument. However, the rules set out in the definition of qualifying member do not apply to property that is a financial instrument.
+
+29. **Financial instrument** is defined in subsection 123(1) to include, among other items, an interest in a partnership or any right in respect of such an interest, an equity security and a debt security. **Equity security** is also defined in subsection 123(1) and means “a share of the capital stock of a corporation or any interest in or right to such a share”. A **debt security** includes an interest in a loan.
+
+30. Shares of the capital stock of a corporation or an interest in a partnership, as well as any right to such a share or in respect of such an interest, or an interest in a loan are not the property that is relevant for the purposes of paragraph (c) of the definition of qualifying member or paragraph (g) of the definition of temporary member in subsection 156(1), since they are financial instruments and thus not part of the property test for the purposes of those paragraphs.
+
+### Property other than property of nominal value
+
+31. The determination of whether particular property that a registrant has is of nominal value can only be made on a case-by-case basis. Generally, this determination will be made with reference to the property’s significance relative to the commercial activity of the registrant and not based solely on the fair market value of the property itself.
+
+### Consumption, use or supply exclusively in the course of commercial activity
+
+32. Subsection 123(1) contains several definitions that are relevant for purposes of section 156:
+
+- **Business** is defined to include a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit. A business also includes any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, licence or similar arrangement.
+
+- **Commercial activity** includes a business carried on by a person or an adventure or concern in the nature of trade of the person, except to the extent that the business or adventure or concern in the nature of trade involves the making of exempt supplies by the person. A commercial activity also includes the making of a supply, other than an exempt supply, of real property by the person, including anything done by the person relating to that supply.
+
+- **Taxable supply** means “a supply that is made in the course of a commercial activity”.
+
+33. In general, subsection 141.01(2)[Footnote2](#fn2) provides that a person will be deemed to have acquired or imported property or a service for consumption or use in the course of a commercial activity to the extent that the person acquired or imported the property for the purpose of making taxable supplies for consideration. Similarly, subsection 141.01(3) provides that a person will be deemed to have consumed or used property or a service in the course of a commercial activity to the extent that the consumption or use of the property or service is for the purpose of making taxable supplies for consideration.
+
+34. Subsection 141.01(7) provides that where a provision of Part IX of the ETA deems a supply not to have been made or deems a supply to be made for no consideration, the supply is not also deemed as such for the purposes of subsections 141.01(2) and (3).[Footnote3](#fn3) When considering whether a registrant has made taxable supplies for consideration to satisfy the conditions of the definition of qualifying member at any time, including at the time that the election is made, that determination can only be made on a case-by-case basis.
+
+### Registrant has no property
+
+35. When, at the time a registrant wishes to make the election as a qualifying member, if the registrant has no property (aside from any financial instruments or property of nominal value) and has made supplies, subparagraph (c)(ii) of the definition of qualifying member in subsection 156(1) requires that all or substantially all of those supplies made by the registrant are taxable supplies (that is, supplies made in the course of commercial activities of the registrant). Therefore, the registrant must identify its commercial activities, at that time, in which it made taxable supplies.
+
+36. In order to make the election, if a registrant has no property (aside from any financial instruments and property of nominal value) and has not made taxable supplies before the date that the registrant wishes to commence using the election, the registrant must meet the condition set out in subparagraph (c)(iii) of the definition of qualifying member. Under that condition, the registrant must be able to demonstrate, at that time, that it is reasonable to expect that the registrant will be making supplies throughout the 12-month period immediately following the effective date of the election and that all or substantially all of those supplies will be taxable supplies. In addition, the registrant must be able to demonstrate at that time that it is reasonable to expect that all the property that the registrant will manufacture, produce, acquire or import within that 12-month period (aside from any financial instruments and property of nominal value) will be for consumption, use or supply exclusively in the course of commercial activities of the registrant.
+
+Corporation A and Corporation B are subsidiaries of Corporation C and all three corporations are closely related to each other within the meaning assigned by section 128. All three corporations have been engaged exclusively in commercial activities for several years and they form a qualifying group and are each members of that qualifying group.
+
+Corporation C establishes a new subsidiary corporation. NewCo is closely related to Corporation C as well as Corporations A and B within the meaning of section 128.
+
+NewCo performs activities in connection with the establishment of a commercial activity that it intends to carry on over the next few years. NewCo has not acquired property other than loans and property having a nominal value for carrying out start-up activities and has not yet made any taxable supplies. NewCo will acquire supply contracts by way of assignment for consideration from Corporation A for use in its commercial activity.
+
+NewCo and Corporation A want to make the joint election so that the supply of the contracts to NewCo would be deemed to be made for no consideration. Although NewCo and Corporation A are closely related under section 128, in order for NewCo to be a qualifying member of the same qualifying group that includes Corporation A, it must be reasonable to expect that as of the effective date of the election NewCo will meet the following conditions:
+
+- NewCo will commence making supplies and will continue to do so throughout the next 12 consecutive months
+
+- all or substantially all of those supplies will be taxable supplies
+
+- all or substantially all of the property (other than financial instruments and property having a nominal value) to be manufactured, produced and acquired by NewCo, including the property to be acquired by NewCo from Corporation A, within the next 12 months will be for consumption, use or supply exclusively in the course of NewCo’s commercial activities
+
+## Exclusions from the election
+
+37. Under subsection 156(2.1), notwithstanding the existence of a valid joint election between two specified members of a qualifying group, the effect of the election does not apply to the following types of supplies between the members:
+
+1. a supply by way of sale of real property
+
+2. a supply of property, or of a service, that is not acquired by the recipient for consumption, use or supply exclusively in the course of commercial activities of the recipient
+
+3. a supply made to a temporary member in the course of a reorganization described in subparagraph 55(3)(b)(i) of the ITA (that is, a butterfly transaction) where the supply is not a supply made in contemplation of a distribution
+
+38. The GST/HST treatment that would otherwise apply to the above types of supplies will continue to apply as if the election made between members was not in place.
+
+39. A supply by way of sale of real property and a supply of property that is not acquired by the recipient for consumption, use or supply exclusively in the course of commercial activities of the recipient continue to be excluded from the election even if they are among the supplies made to a temporary member as part of a butterfly transaction.
+
+Corporation AB undertakes a reorganization that involves a butterfly transaction as described in subparagraph 55(3)(b)(i) of the ITA. As part of this reorganization, another corporation satisfies the requirements for being a temporary member as set out in subsection 156(1). An election under section 156 is made between Corporation AB and the temporary member and property (including real property) is transferred from Corporation AB to the temporary member. Since transfers of real property by way of sale are excluded from the application of section 156, the election does not apply to the supply of real property.
+
+## Input tax credits
+
+40. The election has no effect on the ability of the electing specified members to claim ITCs in accordance with the general rules found in sections 169 and 141.01. In this regard, subsection 141.01(7) ensures that any provision deeming a supply to be made for no consideration does not apply for the purposes of determining the extent to which inputs used in making the supply are acquired, imported, used or consumed by the person for the purpose of making taxable supplies for consideration in the course of an endeavour of the person.
+
+41. For further information, refer to [GST/HST Memorandum 8-3, Calculating Input Tax Credits](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/8-3.html).
+
+Company D and Company E satisfy the requirements for making an election under section 156. Company D makes taxable supplies of equipment (some by way of lease and some by way of sale) to Company E, which uses this equipment exclusively in the course of its commercial activities. While an election is in effect between these two corporations, no GST/HST applies to these supplies of equipment made to Company E. Company D is eligible to claim ITCs in respect of inputs acquired for the purpose of making these taxable supplies provided the other requirements for claiming ITCs are satisfied.
+
+## Election and revocation procedures
+
+42. Subsection 156(4) provides that the election or revocation of the election must be made jointly between a specified member of a qualifying group and another specified member of the same group in prescribed form containing prescribed information and in prescribed manner. The prescribed form must specify the day on which the election is to become effective or, in the case of a revocation of the election, the day on which the revocation is to become effective.
+
+43. For this purpose, the specified members of the qualifying group who are making or revoking the election must give notice to the CRA by completing and filing [Form RC4616, Election or Revocation of an Election for Closely Related Corporations and/or Canadian Partnerships to Treat Certain Taxable Supplies as Having Been Made for Nil Consideration for GST/HST Purposes](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html).
+
+44. While the election or revocation of the election is between two specified members, [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) permits multiple elections and revocations to be filed together by appending to the form a list of all specified members that are a party to the election or revocation. Every combination of specified members, among the names included, will be considered to have made the election, or to have revoked the election, with respect to supplies made between them.
+
+### Timing and filing of an election or revocation of an election
+
+45. [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) must be completed and filed (that is, received by the CRA) on or before the earliest day on which an electing specified member is required to file a GST/HST return under Division V for the reporting period that includes the day on which the election or revocation of the election is to become effective.
+
+46. While there is no legislative requirement as to which specified member should file [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html), the form is designed such that the first member identified in Part A of the form would be the member filing the form. If the parties to the election or revocation of the election have the same reporting periods and the election or revocation of the election is to become effective in their current reporting period, either party could file Form RC4616 as long as it is filed on or before the due date of their GST/HST returns for that current reporting period. However, if the due date of the return for the reporting period in which the election or revocation of the election is to take effect is, in one party’s case, a date that is earlier than in the other party’s case, then Form RC4616 must be filed on or before that earlier date and the party with the earlier due date would ordinarily be the one to do the filing.
+
+Corporation X and Corporation Y are specified members of the same qualifying group and they want to make an election under subsection 156(2) to deem eligible taxable supplies made between them to have been made for no consideration, effective January 1, 2020. Corporation X has a quarterly reporting period based on calendar quarters and Corporation Y is an annual filer on a calendar-year basis.
+
+The earliest date on which a party to the election is required to file a GST/HST return for the period that includes the day on which the election is to become effective is April 30, 2020, the due date of the return for Corporation X. Therefore, to make the election with an effective date of January 1, 2020, [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) must be filed on or before April 30, 2020.
+
+Corporation X and Corporation Y subsequently wish to revoke their election effective February 1, 2020. Corporation X has a quarterly reporting period based on calendar quarters and Corporation Y is an annual filer on a calendar-year basis.
+
+The earliest date on which a party to the revocation is required to file a GST/HST return for the period that includes the day on which the revocation is to become effective is April 30, 2020, the due date of the return for Corporation X. To make the revocation with an effective date of February 1, 2020, [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) must be filed on or before April 30, 2020.
+
+### Late-filed elections and revocations
+
+47. One of the requirements of a valid election or revocation of an election is that [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) be completed and filed with the CRA on or before the due date, as noted in paragraphs 45 and 46 of this memorandum. When an election or revocation of the election is filed late (that is, Form RC4616 is filed after the particular due date), the CRA will not accept and process the election or revocation except in exceptional circumstances in which the CRA may exercise discretion, as provided for under subparagraph 156(4)(b)(ii).
+
+48. The CRA has the discretion to accept and process an election or a revocation of an election where [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) is filed after the due date as a result of the discretion provided in subparagraph 156(4)(b)(ii). An election or a revocation of an election may be accepted if the CRA is satisfied that the parties in fact made the election or revocation as of the effective date specified on Form RC4616, even though the form was not filed on time. This discretion applies only with respect to the timing of filing Form RC4616.
+
+49. Accordingly, the CRA must be satisfied that the effective date of the election or revocation specified in a late-filed [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) corresponds to the date on which the electing specified members in fact began, or ceased, to conduct their affairs as if the election was, or was no longer, in effect, as explained in paragraphs 50 to 52 of this memorandum.
+
+50. The CRA will consider a request to accept a late-filed election or revocation on a case-by-case basis within the context of the following guidelines:
+
+- A written request to allow the election or revocation of an election to be filed late must be submitted to the Assistant Director of Audit of the tax services office of the first specified member making or revoking the election as identified on [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html). A request to have a late-filed Form RC4616 accepted cannot be made electronically.
+
+- The written request must provide a clear explanation as to why the specified members have filed the election or revocation late and must include the completed and signed paper copy of [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html). The request must also be signed by the first specified member and include an undertaking that the first specified member will notify the other specified member whether or not the late-filed election or revocation is accepted by the CRA. In the case of multiple pairings of elections or revocations, the first specified member must notify all specified members listed on Form RC4616 and on any attached page(s).
+
+- In the case of making an election, the written request must indicate that both specified members meet all of the conditions for making the election as of the effective date indicated on [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html). The registrants must be specified members of the same qualifying group as of the requested effective date of the election. In the case of multiple elections, all of the specified members identified on Form RC4616 and on any attached page(s) must meet all of the conditions as of the requested effective date.
+
+- Since the election cannot be made retroactively such that the effective date indicated on [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) is earlier than the date on which the election was actually made (that is, when the parties began conducting themselves in accordance with the election being in effect), both parties to the election must demonstrate that, as of the indicated effective date, they have consistently treated the applicable supplies made between them as having been made for no consideration and have included a statement to that effect in the written request (that is, the supplier must not have charged the GST/HST and the recipient must not have paid the GST/HST in respect of the supplies). Both parties must have completed their GST/HST returns accordingly, whereby the supplier did not include any GST/HST collectible or collected in its GST/HST returns and the recipient did not claim any ITCs in respect of the supplies. In addition, the recipient must not have filed any rebate application in respect of the supplies. All GST/HST returns of both parties to the election must have been filed as required (that is, there must be no outstanding returns), all amounts owing must have been remitted and both parties must be fully compliant with the GST/HST legislation. Records must exist for the CRA to verify that both parties acted as if the election was in effect.
+
+- In the case of a revocation of the election, as of the indicated effective date for the revocation, both parties must have consistently treated the applicable supplies as if the election was not in effect and have included a statement to that effect in the written request (that is, the supplier must have charged the GST/HST and the recipient must have paid the GST/HST in respect of the supplies). The supplier must have completed its GST/HST returns accordingly, whereby the supplier must have included any GST/HST collectible or collected in its GST/HST returns. All GST/HST returns of both parties to the revocation must have been filed as required (that is, there must be no outstanding returns), all amounts owing must have been remitted and both parties must be fully compliant with the GST/HST legislation. Records must exist for the CRA to verify that both parties acted as if the revocation of the election was made.
+
+- The indicated effective date of a late-filed election or revocation of the election must not fall within a reporting period that is statute barred for either party.
+
+- The explanation as to why the notice of the election or revocation of the election was filed late must demonstrate to the satisfaction of the CRA that the parties were not negligent or careless in complying with the provisions of the ETA.
+
+- Each of the parties to the election or revocation must not have filed an objection or appeal relating to a GST/HST assessment in respect of a period that is, in whole or in part, within the period from the requested effective date of the election or revocation of the election to the day on which the request is made to file the election or revocation late, unless the CRA is satisfied that the election or revocation could not have any bearing on the objection or appeal.
+
+51. As part of a CRA review of any request to late file an election or revocation of the election, the first specified member may be contacted for additional information.
+
+52. Acceptance of a late-filed [Form RC4616](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4616.html) does not constitute confirmation that the election is valid. Where the CRA accepts a late-filed Form RC4616 and it is subsequently determined upon audit that the parties are not specified members of a qualifying group or that any other condition for making the election was not met, the election is not valid and has no effect. In such a case, the CRA will assess the parties for any GST/HST that was not accounted for and collected as required by the ETA in respect of taxable supplies made between the parties, together with interest and any applicable penalties.
+
+### When the election ceases to have effect
+
+53. Subsection 156(3) provides that an election under subsection 156(2) “made jointly by a particular member of a qualifying group and another member of the group ceases to have effect on the earliest of
+
+1. the day on which the particular member ceases to be a specified member of the group,
+
+2. the day on which the other member ceases to be a specified member of the group, and
+
+3. the day on which the election is revoked jointly by those members.”
+
+54. For example, a registrant will cease to be a specified member of the qualifying group if the registrant becomes a party to a subsection 150(1) election to deem certain taxable supplies to be supplies of financial services.
+
+55. When a particular person who has made the election under section 156 with one or more other specified members of a qualifying group no longer qualifies as a specified member of that qualifying group, each of the joint elections made between that person and another specified member of the qualifying group ceases to be in effect. The CRA should be notified of the change to ensure that the information under all of the parties’ respective business numbers indicates that the section 156 election no longer applies to supplies between the particular person and any of the specified members of the qualifying group as of the date that the particular person ceased to qualify.
+
+BankCo holds qualifying voting control and owns 100% of the issued and outstanding shares of the capital stock, having full voting rights under all circumstances, of Manager Corporation, which in turn holds qualifying voting control and owns 100% of the capital stock of OpCo1, OpCo2 and OpCo3. OpCo2 also holds 90% of the interest in Canadian Partnership OpCo2/OpCo3.
+
+Valid section 156 elections were made between Manager Corporation and each of the OpCos, as well as with Canadian Partnership OpCo2/OpCo3.
+
+BankCo and Manager Corporation subsequently enter into an election under subsection 150(1), effective June 15, 2020. Although Manager Corporation continues to be a member of the qualifying group, it ceases to qualify as a specified member of the group on the day the subsection 150(1) election becomes effective. Consequently, the section 156 election that Manager Corporation has with any other person ceases to be in effect on June 15, 2020.
+
+## Joint and several liability
+
+56. Subsection 156(5) provides that a particular specified member and another specified member are jointly and severally, or solidarily, liable for all GST/HST obligations that result from a failure to account for or pay as and when required an amount of GST/HST attributable to a supply made between them if:
+
+1. an election under subsection 156(2) made jointly by the particular specified member and the second specified member:
+
+    1. was in effect at the time that the supply was made, or
+
+    2. ceased to be in effect before that time but the two specified members have been conducting themselves as if the election were in effect at that time, or
+
+2. the particular specified member and the second specified member purport to have jointly made an election under subsection 156(2) before the time the supply was made and have been conducting themselves as if an election under subsection 156(2) made jointly by them were in effect at that time
+
+## Mergers, amalgamations and windings-up
+
+57. Where two or more corporations (the predecessors) are merged or amalgamated to form a new corporation and the merger or amalgamation occurs otherwise than by one corporation purchasing the property of the other corporation (such as where a business is acquired by way of an asset sale) or otherwise than by one corporation acquiring the property of the other corporation through a winding-up of the other corporation, paragraph 271(a) generally deems the new corporation to be a separate person from each of the predecessors for the purposes of the GST/HST.
+
+58. However, for prescribed purposes, the new corporation resulting from the merger or amalgamation is deemed under paragraph 271(b) to be the same corporation as, and a continuation of, each of the predecessors.
+
+59. The Regulations list the prescribed purposes for which the new corporation is deemed to be the same corporation as, and a continuation of, each of the predecessors. Section 156 is one of the prescribed purposes. Consequently, where a corporation had a section 156 election in effect with another specified member of the qualifying group and the corporation amalgamated with another corporation, the section 156 election will continue to be in effect between the new corporation formed as a result of the amalgamation and the other specified member of that qualifying group as long as the requirements for a section 156 election are met by the new corporation and the other member. Therefore, the new corporation is a specified member of the same qualifying group as the predecessor corporation.
+
+ParentCo has a valid section 156 election with Subco, its wholly owned subsidiary of which it also holds qualifying voting control. ParentCo subsequently amalgamates with Corporation X to form AmalCo, and the amalgamation meets the conditions of section 271. As a result of the amalgamation, AmalCo holds qualifying voting control and owns 100% of the issued and outstanding shares, having full voting rights under all circumstances, of the capital stock of SubCo.
+
+Since section 156 is included in the Regulations, the section 156 election that existed between ParentCo and SubCo also exists between AmalCo and SubCo where AmalCo and SubCo continue to meet the requirements for being specified members of the same qualifying group.
+
+60. Where a corporation (the subsidiary) is wound up into another corporation (the parent) that holds qualifying voting control and owns at least 90% of the issued shares of each class of the capital stock of the corporation that has been wound up, section 272 deems the parent corporation to be the same corporation as, and a continuation of, the subsidiary corporation for certain GST/HST purposes, including section 156 as prescribed in the Regulations.
+
+61. Consequently, where a subsidiary corporation had a valid section 156 election with another person who is a specified member of the qualifying group of which the subsidiary is also a member and the subsidiary is wound up into its parent corporation (which is also a specified member of the same qualifying group), the election will continue to exist between the parent corporation and the other person that was party to the election with the subsidiary, as long as the requirements for the election are met by the parent corporation and the other person.
+
+62. Where the section 156 election automatically carries over to the new corporation or parent following a merger, amalgamation or winding-up and the new corporation or parent meet the requirements of the election, the parties to the election will have to jointly file a revocation of the election should they not want the election to remain in effect following the merger, amalgamation or winding-up.
+
+63. The CRA should be provided with documentation regarding the merger, amalgamation or winding-up in order to update business number account information, as well as the information relating to the election made under section 156.
+
+## Further information
+
+All **GST/HST technical publications** are available at [GST/HST technical information](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call **Business Enquiries** at **1-800-959-5525**
+
+- for **GST/HST technical enquiries,**call **GST/HST Rulings** at **1-800-959-8287**
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/).
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST information for financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or:
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166**

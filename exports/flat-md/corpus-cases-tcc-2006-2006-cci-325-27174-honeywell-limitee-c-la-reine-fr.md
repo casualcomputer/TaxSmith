@@ -1,0 +1,204 @@
+---
+title: "Honeywell Limitee c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27174/index.do"
+last_modified: "2006-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 325"
+citation2: ""
+neutral_citation: "2006 CCI 325"
+decision_date: "2006-06-22"
+language: "fr"
+item_id: "27174"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1007
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:31:50.175000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a41a242228417b266882eb411203158aaa6e3bb7e8cbe3d145f00418249ae1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Honeywell Limitee c. La Reine
+
+- Citation: 2006 CCI 325
+- Decision date: 2006-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1007, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Honeywell Limitee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-22
+Référence neutre
+2006 CCI 325
+Numéro de dossier
+2005-2502(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2502(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante (intimée),
+et
+HONEYWELL LIMITÉE,
+intimée (appelante).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 31 mai 2006 à Toronto (Ontario).
+Devant : L'honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Martha MacDonald
+Avocats de l'intimée :
+Me Luther P. Chambers, c.r.
+Me Pascal Tétrault
+ORDONNANCE
+Vu la requête présentée par l'avocat de l'intimée en vue d'obtenir une ordonnance l'autorisant à modifier la réponse à l'avis d'appel, ainsi qu'une ordonnance annulant l'ordonnance de la Cour datée du 17 mars 2006 et enjoignant aux parties de communiquer avec la Cour dans les 30 jours suivant le prononcé de l'ordonnance définitive concernant les questions soulevées dans la requête afin d'établir un nouvel échéancier pour la poursuite de l'appel en application du paragraphe 152(9) de la Loi de l'impôt sur le revenu;
+Et vu les affidavits de Gordon Parr et de Marilyn Bartolome‑White déposés;
+Et vu les plaidoiries et les observations écrites des avocats des parties;
+La Cour ordonne que l'intimée soit autorisée à effectuer les modifications demandées dans la mesure indiquée dans les motifs de l'ordonnance, que l'ordonnance du 17 mars 2006 dans laquelle la Cour a établi un échéancier pour la poursuite de l'appel soit annulée et que les parties communiquent avec la Cour dans les 30 jours suivant la date du prononcé de la décision définitive sur la présente requête pour établir un nouvel échéancier.
+Les dépens suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme
+ce 16e jour de novembre 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI325
+Date : 20060622
+Dossier : 2005-2502(IT)G
+ENTRE :
+SA MAJESTÉ LA REINE,
+requérante (intimée),
+et
+HONEYWELL LIMITÉE,
+intimée (appelante).
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge en chef Bowman
+[1] Dans les présents motifs, afin d'éviter toute confusion, j'utiliserai les termes l'« intimée » ou la « Couronne » pour désigner Sa Majesté la Reine, qui est la requérante relativement à la requête et l'intimée dans l'appel, et les termes l'« appelante » ou « Honeywell » pour désigner Honeywell Limitée, qui est l'appelante et l'intimée relativement à la requête.
+[2] La Couronne présente la requête en vue d'obtenir l'autorisation de modifier ses actes de procédure pour soulever un nouvel argument à l'appui de la cotisation. Les modifications particulières qu'elle souhaite apporter sont énoncées dans une annexe à l'affidavit de Gordon Parr, qui a été déposé à l'appui de la requête. L'avocat de Honeywell a consenti à certaines modifications et en a contesté d'autres. La principale objection soulevée à l'égard des modifications concernait la tentative de la Couronne d'alléguer que les cotisations pouvaient être justifiées au moyen des règles relatives au revenu étranger accumulé tiré de biens (le « RÉATB ») (article 95). Qu'il s'agisse d'un nouvel argument à l'appui d'une cotisation aux termes du paragraphe 152(9) de la Loi de l'impôt sur le revenu ou d'un nouveau fondement pour justifier une cotisation, selon l'expression utilisée par le juge Bastarache dans la décision Banque Continentale du Canada c. Canada, [1998] 2 R.C.S. 358, en dernière analyse, il se peut que la distinction soit sans importance, parce que la Cour d'appel fédérale a statué qu'il n'y a pas de différence entre les deux. L'avocat de la Couronne renvoie à un passage de la décision Gould c. La Reine, no 2004-4449(IT)G, 2005 CCI 556, 2005 D.T.C. 1311 :
+[16] L'appelant affirme que le paragraphe 35 de la Réponse ne peut demeurer tel quel, parce que l'intimée ne peut faire valoir un nouveau fondement à l'égard de la cotisation pour l'année 2000 refusant une déduction pour 100 % du don au lieu de 80 %. De la manière que je comprends la décision de la Cour d'appel fédérale dans R. c. Charles B. Loewen, no A‑156‑03, 6 avril 2004, 2004 D.T.C. 6321 (C.A.F.), il n'y a pratiquement aucune restriction au sujet de ce que la Couronne peut alléguer dans une réponse à un avis d'appel et il n'y a aucune distinction entre un nouveau fondement à l'égard d'une cotisation (Continental Bank Leasing Corporation c. La Reine, [1998] 2 R.C.S. 298, 98 D.T.C. 6505) et un nouvel argument à l'appui de la cotisation (par. 152(9) de la Loi de l'impôt sur le revenu).
+[3] Voici le contexte factuel de la requête. Les faits énoncés ci‑dessous sont tirés de documents déposés à l'appui de la requête. Ils ne se veulent pas des conclusions de fait qui lieront le juge de première instance si l'affaire parvient à l'étape de l'instruction. Ils constituent simplement l'ensemble des faits sur lesquels je dois me fonder pour trancher la question relative à la demande de modification présentée par la Couronne.
+[4] Honeywell est une filiale canadienne de Honeywell Inc., une société américaine. Honeywell Inc. était propriétaire, directement ou indirectement, de plusieurs filiales européennes, notamment Honeywell B.V. (« BV »), une société néerlandaise, Honeywell S.A. (« SA ») et Honeywell Europe S.A. (« Europe »), les deux dernières sociétés étant des sociétés belges.
+[5] L'appelante a constitué en société une filiale en propriété exclusive aux Antilles néerlandaises, soit Honeywell Limited Finance N.V. (« NV »).
+[6] En décembre 1991, l'appelante a emprunté la somme de 115 000 000 $ et l'a investie dans NV en tant qu'apport de capital. NV a prêté l'argent à BV, et BV a payé des intérêts à NV. Ces intérêts constitueraient normalement un revenu étranger accumulé tiré de biens. Cependant, il y a exception quand les conditions de l'alinéa 95(2)a) sont satisfaites. Cette disposition est rédigée ainsi :
+(2) Détermination de certains éléments du revenu étranger accumulé tiré de biens. Aux fins de la présente sous‑section,
+a) il doit être inclus dans le calcul du revenu provenant d'une entreprise exploitée activement d'une corporation étrangère affiliée d'un contribuable
+(i) tout revenu provenant de sources situées dans un pays autre que le Canada qui serait autrement un revenu de biens ou d'une entreprise autre qu'une entreprise exploitée activement, dans la mesure où il appartient ou se rapporte de manière accessoire à l'exploitation active d'une entreprise exploitée dans un pays autre que le Canada par la corporation affiliée ou par toute autre corporation non résidante avec laquelle le contribuable a un lien de dépendance, et
+(ii) tout montant payé ou payable à la corporation affiliée et, dans le cas où celle‑ci est l'associée d'une société, sa part de tout montant payé ou payable à la société :
+(A) par une autre corporation étrangère affiliée du contribuable, ou
+(B) par une autre corporation non résidante avec laquelle le contribuable a un lien de dépendance
+dans la mesure où ce montant est ou serait déductible si la corporation non résidante était une corporation étrangère affiliée du contribuable, dans le calcul du montant prescrit comme étant son revenu tiré d'une entreprise exploitée activement autre qu'une entreprise exploitée par elle au Canada;
+[7] Au risque de trop simplifier les choses, cela signifie que si l'intérêt est payé à une filiale étrangère par une autre filiale étrangère ou par une société liée et qu'il concerne une somme d'argent empruntée pour être utilisée pour l'exploitation active d'une entreprise par le payeur, l'intérêt ne constitue pas un RÉATB de la filiale étrangère bénéficiaire.
+[8] Le ministre du Revenu national a conclu que toutes les exigences techniques de l'alinéa 95(2)a) avaient été satisfaites, mais il n'a pas aimé le résultat. Il a donc appliqué la disposition générale anti‑évitement (la « DGAÉ ») de l'article 245 de la Loi au motif que les opérations constituaient des opérations d'évitement et entraînaient un abus dans l'application du paragraphe 15(2.2) et de la division 95(2)a)(ii)(B) de la Loi. Par conséquent, il a qualifié autrement les opérations en cause et il a imposé l'appelante sur le revenu d'intérêts que NV a reçu de BV. Il a également exigé une retenue d'impôt sur le montant du prêt.
+[9] Le fait que le ministre a accepté que les exigences techniques du paragraphe 95(2) avaient été satisfaites entraîne implicitement l'hypothèse selon laquelle BV utilisait les fonds empruntés à NV pour exploiter activement une entreprise.
+[10] Le ministre allègue maintenant que, compte tenu d'autres documents qu'il a reçus de Honeywell, il n'aurait pas dû tenir pour acquis que BV utilisait les fonds empruntés pour exploiter activement une entreprise. BV était plutôt un intermédiaire par l'entremise duquel l'argent qui avait initialement été emprunté par l'appelante, investi dans NV et prêté à BV était acheminé à un groupe d'autres filiales étrangères de Honeywell Inc. et, finalement, à Honeywell Inc. Bref, il est allégué que cette opération faisait partie d'un stratagème compliqué où l'appelante avait emprunté de l'argent qui s'était retrouvé entre les mains de Honeywell Inc. Si cette façon d'envisager les choses est exacte, BV n'utilisait pas l'argent emprunté pour exploiter activement une entreprise. L'intérêt constitue donc un RÉATB de NV, et il n'était pas nécessaire d'invoquer la DGAÉ. Maître Chambers en convient, mais il dit que la DGAÉ peut également être utile en ce sens qu'elle permet à la Couronne de suivre le parcours des fonds à partir de BV aux diverses autres filiales européennes.
+[11] Je ne formule aucun commentaire concernant le bien‑fondé de ces affirmations. Ma seule fonction en tant que juge saisi de la requête est de décider si la Couronne a le droit de modifier sa réponse pour soulever ces nouveaux arguments.
+[12] La démarche générale que je suis en ce qui concerne les modifications apportées aux actes de procédure a été énoncée dans la décision Continental Bank Leasing Corporation c. La Reine, no 91‑684(IT), 29 janvier 1993, 93 D.T.C. 298, aux pages 7 et 9 :
+Depuis, les tribunaux ont appliqué un critère moins restrictif qui permet que des modifications soient apportées ou que des aveux soient rétractés, s'ils soulèvent une question de fait ou de droit pouvant être matière à procès et si la modification ou la rétractation ne causerait pas à la partie adverse un préjudice ne pouvant être compensé financièrement. Les avocats de l'appelante ont fait valoir qu'aucun élément de preuve n'a été produit pour montrer que les modifications proposées soulevaient une question pouvant être matière à procès. Je crois que cette observation découle d'une interprétation trop étroite des affaires. La Cour est, de toute évidence, saisie d'une question pouvant être matière à procès, soit la nature et le bien‑fondé du contrat de société; en outre, l'aveu énoncé au paragraphe 29 de l'avis d'appel ne cadre pas avec les autres allégations formulées dans la réponse, dont certaines figurent déjà dans les actes de procédure et d'autres doivent y être ajoutées selon les modifications proposées, et ce, sans que l'autre partie s'y oppose. Les nouveaux paragraphes 23 et 24 reprennent tout simplement en la développant la thèse fondamentale du ministre, dont la meilleure preuve est la cotisation elle‑même. Dans de telles circonstances, il n'est pas nécessaire de présenter d'autres preuves.
+On a également fait valoir qu'il incombait à la partie qui demande la modification de montrer que celle‑ci ne cause aucun préjudice à la partie adverse. Les avocats de l'appelante n'ont pas indiqué qu'il y avait préjudice; or, à mon avis, s'il existait un préjudice qui ne puisse être compensé financièrement, il serait raisonnable de s'attendre de la partie adverse qu'elle le prouve. En tout état de cause, il est difficile de voir quel préjudice sensible l'appelante a subi, si ce n'est le retard apporté à l'interrogatoire préalable d'un fonctionnaire de l'intimée et la perte d'un avantage stratégique, soit celui de ne pas avoir à prouver la véracité d'une allégation admise par inadvertance par l'intimée. L'allégation avancée au paragraphe 29 est soit vraie, soit fausse. Si elle est vraie, cela devrait pouvoir être prouvé facilement, en beaucoup moins de temps qu'il en a fallu pour examiner cette requête. Si elle est fausse, elle n'aurait pas dû être admise, et la Cour ne devrait pas être tenue de fonder sa décision sur une allégation de fait erronée. Bien que je ne mette pas en doute le pouvoir du procureur général du Canada de reconnaître certains faits comme avérés dans un litige auquel la Couronne est partie, il ne faut pas oublier que les appels en matière d'impôt sur le revenu mettent en jeu l'intérêt public, et la Cour devrait être en mesure de statuer en se fondant sur des faits exacts et sur des questions dûment définies. Le système judiciaire au Canada perdrait de sa crédibilité si les tribunaux étaient limités, dans leur examen du fond d'une affaire, par un aveu irréfléchi qui est incompatible avec une autre thèse avancée, en particulier si on tente de rétracter un tel aveu au début d'une instance. Cette affirmation tient, que ce soit le contribuable ou la Couronne qui tente de modifier sa thèse.
+Dans les affaires portées devant les tribunaux de l'Ontario et de la Colombie‑Britannique auxquelles on m'a renvoyé, un certain nombre de critères ont été élaborés — les faits ont‑ils été admis par inadvertance, la modification ou la rétractation d'un aveu soulève‑t‑elle une question pouvant être matière à procès et la partie adverse subirait‑elle un préjudice qui ne peut être compensé financièrement? À mon avis, ces critères ont été respectés. Mais je préfère tout de même examiner la question dans une perspective plus large : les intérêts de la justice seraient‑ils mieux servis si la demande de modification ou de rétractation était approuvée ou rejetée? Les critères mentionnés dans les affaires entendues par d'autres tribunaux sont évidemment utiles, mais il convient de mettre l'accent sur d'autres facteurs également, y compris le moment auquel est présentée la requête visant la modification ou la rétractation, la mesure dans laquelle les modifications proposées retarderaient l'instruction expéditive de l'affaire, la mesure dans laquelle la thèse adoptée à l'origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu'il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l'examen par la Cour du véritable fond du différend. Il n'existe aucun facteur qui soit prédominant, ou dont la présence ou l'absence soit nécessairement déterminante. On doit accorder à chacun des facteurs le poids qui lui revient dans le contexte de l'espèce. Il s'agit, en fin de compte, de tenir compte de la simple équité, du sens commun et de l'intérêt qu'ont les tribunaux à ce que justice soit faite.
+La Cour d'appel fédérale a souscrit à la dernière partie de cette citation dans l'arrêt R. c. Candarel Limited, no A‑421‑93, 5 août 1993, 93 D.T.C. 5357 à la page 5361.
+[13] Il y a essentiellement deux arguments qui pourraient être invoqués pour justifier le refus de la demande de modification. Le premier argument est que la Couronne établit un nouveau fondement pour justifier la cotisation et qu'elle n'a pas le droit de le faire compte tenu de la décision rendue par la Cour suprême du Canada dans l'arrêt Continental Bank Leasing Corporation c. La Reine, [1998] 2 R.C.S. 298, 98 D.T.C. 6505. Pour répondre brièvement à cet argument, selon l'interprétation donnée au paragraphe 152(9) par la Cour d'appel fédérale dans l'arrêt R. c. Charles B. Loewen, no A‑156‑03, 6 avril 2004, 2004 D.T.C. 6321, la Couronne peut faire ce qu'elle veut dans les actes de procédure, comme je l'ai fait remarquer dans la décision Gould, qui est citée ci‑dessus.
+[14] Le deuxième argument est que les renonciations signées par Honeywell sont rédigées ainsi :
+[TRADUCTION]
+Le revenu d'intérêts fait l'objet d'une nouvelle cotisation en vertu de l'alinéa 12(1)c) de la Loi de l'impôt sur le revenu, et ce, en raison de l'application de l'article 245 de la Loi de l'impôt sur le revenu.
+Par conséquent, l'inclusion dans le revenu de Honeywell de l'intérêt que NV a reçu de BV ne peut être fondée que sur l'article 245 et ne peut pas, à tout le moins lorsqu'il existe une renonciation, être justifiée de toute autre façon.
+[15] En fait, les nouvelles cotisations ont été établies en vertu de l'article 245 de la Loi. La Couronne allègue qu'il n'est pas raisonnable d'interpréter le sous‑alinéa 152(4)a)(ii) comme s'il signifiait que si la renonciation précise l'article 245 et l'alinéa 12(1)c), le ministre ne peut pas, après avoir établi une cotisation fondée sur la DGAÉ conforme à la renonciation, justifier le même montant d'impôt en invoquant un autre fondement. L'alinéa 152(4)a) est rédigé ainsi :
+(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l'année;
+Le sous‑alinéa 152(4.01)a)(ii) se lit en partie comme suit :
+(4.01) Cotisation à laquelle s'appliquent les alinéas 152(4)a) ou b). Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s'appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d'imposition ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à l'un des éléments suivants :
+a) en cas d'application de l'alinéa (4)a) :
+[...]
+ii) une question précisée dans une renonciation présentée au ministre pour l'année;
+[...]
+[16] La version anglaise est rédigée ainsi :
+(4.01) Assessment to which para. 152(4)(a) or (b) applies. Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a) or (b) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+(a) where paragraph (4)(a) applies to the assessment, reassessment or additional assessment,
+[...]
+(ii) a matter specified in a waiver filed with the Minister in respect of the year; and
+[...]
+[17] Il semble raisonnable de conclure que le fait de qualifier le revenu d'intérêts que NV a reçu de BV de revenu d'intérêts de l'appelante en vertu de l'alinéa 12(1)c) en raison de l'application de l'article 245 est visé de façon générale par le libellé des renonciations. De toute façon, dans la présente requête, personne ne prétend que la nouvelle cotisation établie par le ministre n'est pas conforme aux renonciations. Il est toutefois plus difficile de dire qu'il est raisonnable de conclure que le libellé de la renonciation englobe l'inclusion du revenu reçu par NV en tant que RÉATB en application de l'alinéa 95(2)a), si la DGAÉ n'est pas utilisée. À première vue, l'intérêt visé à l'alinéa 12(1)c), qui est fondé sur la nouvelle qualification qu'on donne à une opération en application de l'article 245, est bien différent du RÉATB dont il est question à l'alinéa 95(2)a).
+[18] Une des étapes de l'analyse serait de poser la question suivante :
+« Compte tenu du libellé des renonciations et des restrictions figurant dans celles‑ci et dans le paragraphe 152(4.01), le ministre aurait‑il pu établir une nouvelle cotisation en se fondant sur l'alinéa 95(2)a), mais sans avoir recours à l'article 245? »
+À mon avis, la réponse serait « non ». L'inclusion de l'intérêt dans le revenu en application de l'alinéa 12(1)c) en raison d'une nouvelle qualification donnée à cet intérêt en vertu de la DGAÉ est entièrement différente de l'inclusion du revenu hors exploitation d'une filiale étrangère dans le revenu d'une société canadienne au moyen des règles relatives au RÉATB. Toutefois, cela ne constitue pas une réponse complète ou satisfaisante à la question. Après avoir établi la cotisation selon le fondement précisé dans les renonciations, la Couronne peut‑elle maintenant chercher à justifier la cotisation établie en invoquant un fondement complètement différent? Si la réponse à cette question est affirmative, cela signifierait que la Couronne pourrait abandonner le fondement initial précisé dans la renonciation et appuyer la cotisation seulement sur le nouveau fondement.
+[19] Le savant avocat de la Couronne fait valoir que le montant à inclure en vertu des règles relatives au RÉATB est presque identique au montant inclus dans la cotisation conformément à la renonciation. J'en conviens, mais le fait que le même montant pourrait être exigible selon les deux fondements, soit selon le RÉATB et la DGAÉ, ne veut pas pour autant dire qu'il est raisonnable de considérer que l'inclusion d'un RÉATB se rapporte à la cotisation fondée sur la DGAÉ qui est précisée dans la renonciation.
+[20] Si j'ai raison sur ce point, l'intimée peut‑elle obtenir ce qu'elle veut en établissant la cotisation selon la manière permise par la renonciation (DGAÉ), puis en invoquant un tout nouveau fondement (RÉATB), qui a été expressément rejeté par le ministre lors de l'établissement de la cotisation, et en essayant de justifier cette façon de procéder au moyen du paragraphe 152(9)?
+[21] Je rejette cette idée pour plusieurs raisons :
+a) Cela reviendrait à faire complètement abstraction du paragraphe 152(4.01) de la Loi.
+b) Cela contreviendrait aux règles élémentaires d'équité. Le ministre a incité le contribuable à signer une renonciation en disant qu'il appliquerait seulement la DGAÉ et l'alinéa 12(1)c). Après avoir obtenu le fondement qu'il voulait pour la cotisation, le ministre dit maintenant qu'il est libre de faire ce qu'il veut. S'il n'y avait pas eu de renonciation, le ministre aurait peut‑être eu le genre de carte blanche mentionnée dans l'arrêt Loewen, mais comme il y a une renonciation, il faut tenir compte des restrictions imposées par le paragraphe 152(4.01). L'intimée ne peut pas faire abstraction de ces restrictions et employer des moyens détournés pour parvenir à ses fins.
+c) Je ne considère pas que l'expression « question précisée dans une renonciation » (« matter specified in a waiver ») renvoie simplement à une somme d'argent, et que la renonciation signifie « tout ce qui découle généralement de vos relations avec votre filiale Honeywell NV ». Il faut tenir compte des passages « raisonnable » et « que dans la mesure où [...] ». Je pense que le mot « question » au paragraphe 152(4.01) veut dire un point distinct ou une catégorie d'imposition distincte. Un exemple évident d'une telle situation serait un cas où un contribuable a signé une renonciation précisant que le ministre pouvait établir une nouvelle cotisation afin de considérer le produit d'une disposition de bien comme un revenu plutôt que comme un gain en capital. Le ministre pourrait‑il alors, après avoir établi la cotisation de la façon précisée dans la renonciation, alléguer que le montant net d'impôt établi pourrait être justifié au moyen du fondement selon lequel même si le produit de la disposition constituait un gain en capital, le contribuable avait déduit des dépenses qui n'étaient pas admissibles? Je ne crois pas. Il s'agit de questions différentes. De même, je pense que le fait de qualifier, en vertu de la DGAÉ, le revenu d'une filiale étrangère d'intérêt reçu par une société mère équivaut à faire intervenir un point ou une catégorie d'imposition fondamentalement différent d'une cotisation fondée sur un RÉATB, et donc une toute autre question.
+[22] Par conséquent, j'accueille dans la mesure suivante la requête visant à obtenir l'autorisation de modifier la réponse : paragraphe 5, paragraphe 8, paragraphe 8A, alinéa 13g), alinéa 13k), paragraphe 13A, paragraphe 15, paragraphe 17, paragraphe 21E et paragraphe 22A. (Les dispositions mentionnées renvoient au projet de réponse modifiée joint à l'affidavit de M. Parr.)
+[23] Je refuse d'autoriser les modifications demandées visant les paragraphes 18A, 21A, 21B, 21C et 21D.
+[24] L'ordonnance du 17 mars 2006 est annulée conformément à l'avis de requête.
+[25] Les dépens suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« D. G. H. Bowman »
+Le juge en chef Bowman
+Traduction certifiée conforme ce 16e jour de novembre 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI325
+NO DU DOSSIER DE LA COUR :
+2005-2502(IT)G
+INTITULÉ DE LA CAUSE :
+Sa Majesté la Reine c.
+Honeywell Limited
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 31 mai 2006
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 22 juin 2006
+COMPARUTIONS :
+Avocats de l'appelante
+(intimée dans la requête) :
+Me Al Meghji
+Me Martha MacDonald
+Avocats de l'intimée
+(requérante dans la requête) :
+Me Luther P. Chambers, c.r.
+Me Pascal Tétrault
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Avocat de l'appelante
+(intimée dans la requête) :
+Nom :
+Osler, Hoskin & Harcourt S.E.N.C.R.L./s.r.l.
+Cabinet :
+Avocats
+1 First Canadian Place
+Toronto (Ontario) M5X 1B8
+Avocat de l'intimée
+(requérante dans la requête) :
+John H. Sims, c.r.
+Sous-procureur général du Canada

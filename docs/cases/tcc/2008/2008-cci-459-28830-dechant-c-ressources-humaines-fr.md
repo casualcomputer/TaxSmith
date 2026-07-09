@@ -1,0 +1,160 @@
+---
+title: "Dechant c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28830/index.do"
+last_modified: "2008-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 459"
+citation2: ""
+neutral_citation: "2008 CCI 459"
+decision_date: "2008-08-12"
+language: "fr"
+item_id: "28830"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1340
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:29:32.010000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c492ce5d88d2e1c91ed4b0b35ce81f15af1877fdacac24241d27ae0f14b8644a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dechant c. Ressources Humaines
+
+- Citation: 2008 CCI 459
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1340, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dechant c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-12
+Référence neutre
+2008 CCI 459
+Numéro de dossier
+2006-46(OAS)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2006-46(OAS)
+ENTRE :
+HUBERT DECHANT,
+appelant,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT SOCIAL,
+intimé.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Grande Prairie (Alberta), le 11 juin 2008.
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me George F. Body
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse à l’égard de la période de paiement allant de juillet 2005 à juin 2006 est accueilli, sans dépens, et la décision du ministre des Ressources humaines et du Développement social est annulée.
+Signé à Vancouver (Colombie‑Britannique) ce 12e jour d’août 2008.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI459
+Date : 20080812
+Dossier : 2006-46(OAS)
+ENTRE :
+HUBERT DECHANT,
+appelant,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT SOCIAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Faits
+[1] L’appelant est producteur de céréales. La ferme de l’appelant est située à Hawk Hills, en Alberta. Hawk Hills se trouve à environ 18 milles au nord de la ville de Manning, dans la région de la rivière de la Paix, en Alberta.
+[2] L’appelant a affirmé que lui et sa famille sont propriétaires de 2 200 acres de terres cultivables. Environ 1 000 de ces acres sont loués à des tiers, et l’appelant et sa famille cultivent environ 1 200 acres. L’appelant a dit qu’il avait commencé à exploiter sa ferme en 1951.
+[3] L’appelant a choisi de déclarer les revenus qu’il tire de son entreprise agricole selon la méthode de comptabilité de caisse.
+[4] Le ministre des Ressources humaines et du Développement social (le « ministre ») a calculé que le revenu de l’appelant pour 2004 s’élevait à 9 679 $.
+[5] Compte tenu du revenu de l’appelant s’élevant à 9 679 $, le ministre a calculé que l’appelant avait droit à un supplément de revenu mensuel garanti de 165,24 $ pour la période de paiement. La période de paiement en cause allait du 1er juillet 2005 au 30 juin 2006.
+[6] Parce que l’appelant déclare les revenus qu’il tire de son entreprise agricole selon la méthode de comptabilité de caisse, il ne peut pas déduire ses dettes d’exploitation.
+[7] L’appelant a dit qu’il devait 31 000 $ à l’UFA de Grimshaw. L’appelant a reconnu qu’il n’avait pas remboursé cette somme durant l’année d’imposition 2004.
+B. Question en litige
+[8] La question est de savoir si le ministre a correctement calculé le revenu de l’appelant pour l’année d’imposition 2004.
+C. Analyse et décision
+[9] Le présent appel a été entendu à Grande Prairie, en Alberta. L’appel avait été interjeté au moyen d’un avis de renvoi déposé par le Bureau du commissaire des tribunaux de révision en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse (la « LSV »).
+[10] Le supplément de revenu garanti (le « SRG ») payable en vertu de la partie II de la LSV pour une période de paiement donnée est basé sur le revenu du contribuable, calculé conformément aux dispositions de la Loi de l’impôt sur le revenu (la « LIR »), pour l’année civile prenant fin avant le début de cette période de paiement.
+[11] Lorsque le ministre a calculé le SRG auquel l’appelant allait avoir droit pour la période de paiement en cause, il a utilisé le revenu que l’appelant avait déclaré pour l’année d’imposition 2004.
+[12] L’appelant ne remet pas en cause le revenu qu’il a déclaré pour l’année d’imposition 2004.
+[13] La question principale qui a fait l’objet du litige était de savoir si les 31 000 $ que l’appelant devait à l’UFA de Grimshaw étaient déductibles. Si l’appelant avait déduit les 31 000 $ dans le calcul de son revenu pour l’année d’imposition 2004, le SRG auquel il aurait eu droit pour la période de paiement en cause aurait été plus important.
+[14] Durant le procès, l’appelant a affirmé qu’il avait payé l’UFA de Grimshaw en 2005, et qu’il avait déclaré ce paiement dans sa déclaration de revenus pour l’année d’imposition 2005.
+[15] Selon le paragraphe 28(2) de la LIR, les agriculteurs peuvent déclarer les revenus qu’ils tirent de leur entreprise agricole selon la méthode de comptabilité de caisse. Si ces revenus sont déclarés selon la méthode de comptabilité de caisse, les dépenses doivent être déduites durant l’année où elles ont été payées.
+[16] Puisque l’appelant a décidé de déclarer les revenus qu’il tire de son entreprise agricole en utilisant la méthode de comptabilité de caisse, l’article 28 de la LIR prévoit qu’il doit continuer à utiliser cette méthode pour calculer ses revenus pour les années d’imposition postérieures, sauf s’il reçoit l’accord du ministre pour en choisir une autre, aux conditions précisées par ce dernier (voir le paragraphe 28(3) de la LIR).
+[17] À mon avis, l’appelant pourrait se servir de la méthode de comptabilité de caisse pour déclarer ses revenus aux fins de la LIR pour l’année d’imposition 2004, et il pourrait se servir de la méthode de comptabilité d’exercice pour l’application de la LSV. Si l’appelant se servait de la méthode de comptabilité d’exercice avec l’accord des représentants du ministre du Revenu national, il pourrait déduire les 31 000 $ qu’il devait à l’UFA de Grimshaw.
+[18] Lors du procès, Me George F. Body, l’avocat de l’intimé, a reconnu que l’appelant pouvait utiliser la méthode de comptabilité de caisse pour l’application de la LIR et la méthode de comptabilité d’exercice pour l’application de la LSV.
+[19] La position que j’ai exposée aux paragraphes [17] et [18] est appuyée par la décision Samuel Gerstel c. Canada (Ministre du Développement des ressources humaines), 2005 CCI 64.
+[20] Au paragraphe [16] de cette décision‑là, le juge Angers s’est exprimé de la sorte :
+À mon avis, l’appelant peut demander une DPA pour les besoins de la LSV et ne pas demander de DPA pour les besoins de l’impôt. […]
+Note : La décision du juge Angers a été confirmée par la Cour d’appel fédérale (voir Le ministre du Développement des ressources humaines c. Samuel Gerstel, 2006 CAF 93).
+[21] L’appel est accueilli, sans dépens. Si l’appelant veut adopter la solution que j’ai proposée, il doit communiquer avec les représentants du ministre du Revenu national et obtenir l’autorisation de tenir deux séries de livres comptables : une série selon la méthode de comptabilité de caisse pour l’application de la LIR, et une autre série selon la méthode de comptabilité d’exercice pour l’application de la LSV. Si l’appelant veut adopter l’approche que j’ai exposée ci‑dessus, il doit conclure un accord avec les représentants du ministre du Revenu national au plus tard le 31 décembre 2008.
+Signé à Vancouver (Colombie‑Britannique) ce 12e jour d’août 2008.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 26e jour de septembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI459
+No DU DOSSIER DE LA COUR :
+2006-46(OAS)
+INTITULÉ :
+Hubert Dechant et
+le ministre des Ressources humaines et du Développement social
+LIEU DE L’AUDIENCE :
+Grande Prairie (Alberta)
+DATE DE L’AUDIENCE :
+Le 11 juin 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 12 août 2008
+COMPARUTIONS :
+Pour l’appelant:
+L’appelant lui-même
+Avocat de l’intimé :
+Me George F. Body
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

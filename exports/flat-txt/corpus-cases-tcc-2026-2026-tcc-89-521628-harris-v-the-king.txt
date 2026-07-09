@@ -1,0 +1,211 @@
+Title: Harris v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521628/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-89-521628-harris-v-the-king.md
+Document type: case_law
+Last modified: 2026-05-22
+
+# Harris v. The King
+
+- Citation: 2026 TCC 89
+- Decision date: 2026-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5572, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harris v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-22
+Neutral citation
+2026 TCC 89
+File numbers
+2020-1717(GST)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2020-1717(GST)G
+BETWEEN:
+MICHAEL J HARRIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Written motion by the Appellant filed on June 6, 2024 under Rule 65 of the Tax Court of Canada Rules (General Procedure)
+Before: The Honourable Justice Jean Marc Gagnon
+Parties:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sandra K.S. Tsui
+Nandhini Padmanathan
+ORDER
+UPON reading the notice of motion filed by the Appellant on Jule 6, 2024, and other documentary materials, pursuant to section 65 of the Tax Court of Canada Rules (General Procedure), seeking an order for three remedies:
+(i)the discontinuance of further collection actions until this Court decides the matter under appeal;
+(ii)the return of all funds garnished by the Respondent in relation to the matter under appeal; and
+(iii)the provision of accurate records for “all 6 New Housing Rebate Business Numbers and the 1 GST/HST Business Numbers, detailing the entire history of amount owing, payments on account, and reimbursements from account, so the Taxpayer can understand what was considered owing by CRA, and what was paid by the Taxpayer to CRA.”
+AND UPON having read the parties’ written submissions;
+AND in accordance with the attached reasons;
+NOW THEREFORE it is ordered that:
+The motion is dismissed.
+The Respondent is entitled to costs on the motion in any event of the cause.
+On or before June 26, 2026, the parties shall submit, in writing, mutually agreeable time periods for the completion of additional steps in view for this Court to review the timetable submitted, and if appropriate, to issue an order confirming the date for each step of the litigation.
+The costs will be in accordance with the Tariff, and payable by June 26, 2026 to the Respondent by the Appellant.
+Signed this 22nd day of May 2026.
+“J.M. Gagnon”
+Gagnon J.
+Citation: 2026 TCC 89
+Date: 20260522
+Docket: 2020-1717(GST)G
+BETWEEN:
+MICHAEL J HARRIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Gagnon J.
+I. Introduction [1] On July 12, 2024, the Appellant filed a notice of motion (Motion) before this Court pursuant to section 65 of the Tax Court of Canada Rules (General Procedure) (Rules) seeking an order for three remedies (each Issue in Dispute or collectively the Issues in Dispute):
+(i)The discontinuance of further collection actions by the Respondent until this Court decides the matter under appeal.
+(ii)The return of all funds garnished by the Respondent in relation to the matter under appeal.
+(iii)The provision of accurate records by the Respondent for “all 6 New Housing Rebate Business Numbers and the 1 GST/HST Business Numbers, detailing the entire history of amount owing, payments on account, and reimbursements from account, so the Taxpayer can understand what was considered owing by CRA, and what was paid by the Taxpayer to CRA.”
+[2] The appeal of Mr. Harris pertains to reassessments of various reporting GST/HST periods between December 1, 2007 and July 31, 2013. The reassessments were issued under the provisions of the Act[1] based on the Minister of the National Revenue’s (Minister) view that Mr. Harris should have collected GST/HST on the sale of ten condominium units but failed to do so. Mr. Harris has also appealed other reassessments, but these appeals are not relevant to the Motion.
+[3] In the present case, Mr. Harris asserts that the Minister is garnishing funds from him in connection with his GST/HST appeal. He believes this is inappropriate because his appeal has not yet been determined by this Court yet. These actions by the Minister are preemptive while a final decision on the appeal has not been rendered.
+[4] The Respondent submitted written representations. The Respondent opposes the remedies sought by Mr. Harris. The Respondent asserts that the remedies sought are outside of this Court’s jurisdiction. However, the Respondent’s submissions do not specifically address the Issue in Dispute (iii).
+II. Analysis [5] This appeal is governed by the provisions of Part IX of the Act.
+[6] Prior to addressing the merits of the Appellant’s remedies, it must be confirmed whether this Court has jurisdiction to do so. If this Court has jurisdiction over any remedy claimed by the Appellant, the Court will then have to determine whether such remedy should be allowed. If this Court does not have jurisdiction over any remedy claimed by the Appellant, the Court will have to dismiss the Motion.
+[7] The Court must make clear from the outset that this Court has no discretion or authority, for simplicity or equity considerations, to remain charged with the hearing of the Motion in the event the Court determines it is not properly seized of it.[2] This Court is a statutory court, and the jurisdiction of this Court relies on a clear right to intervene regarding the matter at hand. The absence of an explicit power by Parliament prevents this Court from acting. Therefore, the Court must first determine whether the jurisdiction exists in the case at hand so it can consider the Appellant’s remedies.
+A. General powers of the Minister under the Act [8] The Act gives the Minister the power to assess the net tax, tax payable, penalties payable, and interest payable by a person.[3] Subject to being vacated on an objection or appeal, and subject to reassessment, an assessment is deemed to be valid and binding.[4] An assessment is deemed to be valid and binding notwithstanding any error, defect or omission.[5]
+[9] When the Minister sends a notice of assessment, the Act provides that any amount assessed that is then remaining unpaid is payable forthwith to the Receiver General for Canada.[6]
+[10] The Act provides multiple mechanisms for the Minister to collect tax debts.[7] However, the Minister may only engage in collection efforts after it has assessed the person it seeks to collect from.[8]
+[11] Section 317 of the Act governs garnishments. The basic framework is that if the Minister knows or suspects a particular person or entity is, or will soon be, liable to make a payment to a tax debtor, the Minister may, in certain circumstances, require the person or entity to transfer the payment to the Receiver General for Canada instead of the tax debtor.
+[12] Unlike the Income Tax Act, the Act does not have a statutory stay on collection activities while an objection or appeal is outstanding.[9] The Federal Court of Appeal held that the Minister may pursue collection actions before issuing a notice of assessment, provided that it has in fact conducted an assessment.[10]
+B. Jurisdiction of the Tax Court of Canada [13] Section 12 of the Tax Court of Canada Act[11] provides for the exclusive original jurisdiction to hear and determine references and appeals to this Court on matters arising under specific listed statutes or provisions under such statutes. For purposes herein, only subsection 12(1) is relevant:
+The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Canada Pension Plan, the Cultural Property Export and Import Act, Part IX of the Excise Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act, Part V.1 of the Customs Act, the Income Tax Act, the Employment Insurance Act, the Air Travellers Security Charge Act, the Excise Act, 2001, the Softwood Lumber Products Export Charge Act, 2006, the Disability Tax Credit Promoters Restrictions Act, Part 1 of the Greenhouse Gas Pollution Pricing Act, the Underused Housing Tax Act, the Select Luxury Items Tax Act, the Digital Services Tax Act and the Global Minimum Tax Act when references or appeals to the Court are provided for in those Acts.
+[Emphasis added.]
+[14] On that basis, this Court has jurisdiction under sections 166.2 and 169 of the Income Tax Act to hear applications and appeals under that statute. These provisions refer to specific powers granted to this Court to decide within the limits set by such provisions. For instance:
+Powers of Court
+166.2 (4) The Tax Court of Canada may grant or dismiss an application made under subsection 166.2(1) and, in granting an application, may impose such terms as it deems just or order that the notice of objection be deemed to have been served on the date of its order.
+Extension of Time to Appeal
+167 (1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+Appeal
+169 (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+Disposal of Appeal
+171 (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[15] Under the Act, a similar approach exists:
+Extension of Time by Tax Court
+304 (1) A person who has made an application under section 303 may apply to the Tax Court to have the application granted after either
+(a) the Minister has refused the application, or
+(b) ninety days have elapsed after service of the application under subsection 303(1) and the Minister has not notified the person of the Minister’s decision,
+but no application under this section may be made after the expiration of thirty days after the day the decision has been mailed to the person under subsection 303(5).
+Powers of Court
+304 (4) The Tax Court may dispose of an application made under subsection (1) by
+(a) dismissing it, or
+(b) granting it,
+and in granting an application, it may impose such terms as it deems just or order that the notice of objection or the request be deemed to be a valid objection or request as of the date of the order.
+Extension of Time to Appeal
+305 (1) Where no appeal to the Tax Court under section 306 has been instituted within the time limited by that provision for doing so, a person may make an application to the Tax Court for an order extending the time within which an appeal may be instituted, and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+Appeal
+306 A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+Disposition of Appeal
+309 (1) The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+[16] In Marine Atlantic, this Court has referred to its jurisdiction as being limited to what is expressly conferred on it by Parliament and what is necessarily implied from what is expressly conferred.[12]
+[17] On a different note, sections 17 and onwards of the Federal Courts Act[13] address what is the jurisdiction of the Federal Court. In particular, the following extracts of sections 17 and 18 of the Federal Courts Act grant the Federal Court the following jurisdiction:
+Relief against the Crown
+17 (1) Except as otherwise provided in this Act or any other Act of Parliament, the Federal Court has concurrent original jurisdiction in all cases in which relief is claimed against the Crown.
+[…]
+Extraordinary remedies, federal tribunals
+18 (1) Subject to section 28, the Federal Court has exclusive original jurisdiction
+(a) to issue an injunction, writ of certiorari, writ of prohibition, writ of mandamus or writ of quo warranto, or grant declaratory relief, against any federal board, commission or other tribunal; and
+(b) to hear and determine any application or other proceeding for relief in the nature of relief contemplated by paragraph (a), including any proceeding brought against the Attorney General of Canada, to obtain relief against a federal board, commission or other tribunal.
+[…]
+Remedies to be obtained on application
+(3) The remedies provided for in subsections (1) and (2) may be obtained only on an application for judicial review made under section 18.1.
+Application for judicial review
+18.1 (1) An application for judicial review may be made by the Attorney General of Canada or by anyone directly affected by the matter in respect of which relief is sought.
+Time limitation
+(2) An application for judicial review in respect of a decision or an order of a federal board, commission or other tribunal shall be made within 30 days after the time the decision or order was first communicated by the federal board, commission or other tribunal to the office of the Deputy Attorney General of Canada or to the party directly affected by it, or within any further time that a judge of the Federal Court may fix or allow before or after the end of those 30 days.
+Powers of Federal Court
+(3) On an application for judicial review, the Federal Court may
+(a) order a federal board, commission or other tribunal to do any act or thing it has unlawfully failed or refused to do or has unreasonably delayed in doing; or
+(b) declare invalid or unlawful, or quash, set aside or set aside and refer back for determination in accordance with such directions as it considers to be appropriate, prohibit or restrain, a decision, order, act or proceeding of a federal board, commission or other tribunal.
+[…]
+[18] From these extracts above, the Parliament refers to “exclusive original jurisdiction” when granting jurisdiction to this Court and to the Federal Court. This clearly separates the jurisdictions assigned to each court.
+[19] More specifically, it can be noticed that section 18 above confers to the Federal Court the exclusive jurisdiction to issue an injunction, writ of certiorari, writ of prohibition, writ of mandamus or writ of quo warranto, or grant declaratory relief, against any federal board, commission or other tribunal; and to hear and determine any application or other proceeding for relief in the nature of relief contemplated by this exclusive jurisdiction.[14]
+[20] Upon judicial review, the Federal Court may order a federal board[15], commission or other tribunal to act. Alternatively, the Federal Court may annul a decision, order, act or proceeding by or before the federal board, commission or other tribunal, or require the federal board, commission or other tribunal to reconsider its decision, order or act, with such directions it considers appropriate.
+[21] The requirement for a taxpayer to seek judicial review before the Federal Court to obtain a remedy under subsection 18(1) of the Federal Courts Act may be overridden by express provisions in an act of Parliament that provide a right of appeal to a different court.[16] However, no express provision exists that would confer such jurisdiction to this Court.
+[22] The Court notes that in the 861808 Ontario decision, the appellant sought an injunction against the Canada Revenue Agency (CRA) preventing the collection of unpaid taxes, interest and penalties. The CRA brought a motion to strike based on subsection 18(1) of the Federal Courts Act. The Ontario Superior Court of Justice granted the motion. Upon appeal, the Ontario Court of Appeal upheld the decision, noting that subsection 18(1) explicitly grants the Federal Court exclusive original jurisdiction to issue an injunction, and that this provision applies to all injunctions, including interim, interlocutory and permanent.[17]
+[23] As noted by this Court in Marine Atlantic, this Court’s jurisdiction “is limited to what is expressly conferred on it by Parliament and what is necessarily implied from what is expressly conferred.”[18]
+[24] Based on the foregoing review, the Court is unable to conclude that jurisdiction to handle the issues raised by the Appellant in Disputes in Issue (i) and (ii) has been expressly conferred on this Court, nor is it necessarily implied from the Court’s jurisdiction that it has been expressly conferred.
+[25] It is clear from section 12 of the Tax Court of Canada Act that this Court does not have jurisdiction to handle any and all matters.[19] This Court may only hear references or appeals on matters arising under an act of Parliament when references or appeals to this Court are provided for under the relevant act referred to in section 12, and what can be found from the provisions of the Act does not suggest that this Court has jurisdiction over garnishments or extraordinary remedies listed in section 18 of the Federal Courts Act that may prevent the CRA from collection/garnishment actions.
+[26] In addition, the Court is not persuaded that the Issue in Dispute (iii) serves the same purpose as the Issues in Dispute (i) and (ii). The Appellant’s intended effect with Issues in Dispute (i) and (ii) is to undermine the scope of the CRA’s authority to intervene in a debt collection context. While Issue in Dispute (iii) is aimed at obtaining information regarding the procedures undertaken by the CRA in the Appellant’s file.
+[27] On that last matter, the Court is not persuaded that the Motion is the appropriate means to achieve the objective behind Issue in Dispute (iii), at least not at this point. The Court notes that the parties have not yet submitted, in writing, mutually agreeable time periods for the completion of additional steps following the filing of the Appellant’s notice of appeal and the Respondent’s reply. These steps generally include the service of lists of documents, the completion of examinations for discovery, the satisfaction of undertakings made at discovery, and communicating with the court regarding the parties’ intentions for the further conduct of the appeal (Timetable Order).[20] The Court notes that the Respondent filed a list of documents in February 2025. However, this initiative was not completed through a Timetable Order issued by this Court confirming all the steps generally completed by the parties prior to hearing.
+[28] It must be determined whether the steps listed in the Timetable Order would allow the Issue in Dispute (iii) to be addressed without this Court’s assistance. Prior to completing the discovery of documents and examination for discovery, the Issue in Dispute (iii) remains premature.
+III. Conclusion [29] For all the above reasons, the Court orders as follows:
+(a)The Appellant’s Motion is dismissed with costs against the Appellant.
+(b)On or before June 26, 2026, the parties shall submit, in writing, mutually agreeable time periods for the completion of additional steps in view of the Court to review the timetable submitted, and if appropriate, to issue an Order confirming the date for each step of the litigation.
+(c)Costs will be in accordance with the Tarriff, and payable by June 26, 2026 to the Respondent by the Appellant.
+Signed this 22nd day of May 2026.
+“J.M. Gagnon”
+Gagnon J.
+CITATION:
+2026 TCC 89
+COURT FILE NO.:
+2020-1717(GST)G
+STYLE OF CAUSE:
+MICHAEL J HARRIS v. HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF ORDER:
+May 22, 2026
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Excise Tax Act, RSC, 1985, c E-15 [Act].
+[2] In response to comment made by the Appellant on the Respondent’s written representations on the Motion. The Respondent’s written representations were received by the Court on January 27, 2025, and the comments made by the Appellant were received June 6, 2025.
+[3] Section 296 of the Act.
+[4] Section 299 of the Act. The Federal Court of Appeal in Johnson v Canada, 2015 FCA 51 [Johnson] confirmed that subsections 299(3) and (4) of the Act provide that an assessment is valid, subject to it being vacated as a result of an objection or appeal under the Act or another reassessment being issued, either as a result of an objection or appeal under the Act or otherwise under the Act. The Tax Court of Canada has the exclusive jurisdiction to vacate an assessment (Obonsawin v The Queen, 2004 TCC 3). It is the correctness of the assessment that is the exclusive jurisdiction of the Tax Court of Canada.
+[5] Subsection 299(4) of the Act.
+[6] Section 315 of the Act.
+[7] See sections 316 to 321 of the Act. The Minister is responsible for enforcing the provisions of the Act, which include the collection of net taxes owing under the Act. See Johnson. Application for leave to appeal from the judgment of the Federal Court of Appeal dismissed August 13, 2015.
+[8] Subsection 315(1) of the Act.
+[9] Mason v Canada (Attorney General), 2015 FC 926, para 41.
+[10] Subsection 315(2) of the Act. See Johnson v Canada (MNR), 2013 FC 1032, paras 36-37, reversed by the Federal Court of Appeal at 2015 FCA 51. In paragraph 56, the Federal Court of Appeal confirms that since subsection 315(1) of the Act provides that an amount must be assessed before collection action can be taken, the date that such assessment is deemed to have been made is critical. By deeming the assessment to have been made on the date that it is sent by virtue of subsection 335(11) of the Act, the date that the information is entered into the CRA’s computer system and the assessment is processed by that system is not relevant. Sending the notice of assessment to the person assessed is the relevant act that determines the date of the assessment.
+[11] Tax Court of Canada Act, RSC, 1985, c T-2 [Tax Court of Canada Act].
+[12] Marine Atlantic Inc. v The Queen, 2016 TCC 46, para 38 [Marine Atlantic].
+[13] Federal Courts Act, RSC, 1985, c F-7 [Federal Courts Act].
+[14] A mandatory injunction directs a defendant to undertake a positive course of action. A prohibitive injunction restrains an individual from committing a specified act. See R v Canadian Broadcasting Corp., 2018 SCC 5 (CanLII), para 15. SC Prodal 94 SRL v Spirits International B.V., 2009 FCA 88, para 10. Awashish v Conseil des Atikamekw d’Opitciwan, 2019 FC 1131 (CanLII), para 16. An injunction is not its own cause of action but a remedy. See R v Canadian Broadcasting Corp., 2018 SCC 5 (CanLII), para 15.
+[15] The Minister of National Revenue is a federal board, commission or other tribunal. See JP Morgan Asset Management (Canada) Inc. v Canada (National Revenue), 2013 FCA 250, para 25.
+[16] Section 18.5 of the Federal Courts Act.
+[17] 861808 Ontario Inc. v Canada (Revenue Agency), 2013 ONCA 604, para 7 [861808 Ontario]. Application for leave to appeal to the Supreme Court of Canada dismissed March 13, 2014. In S. Suite Property Management Inc. v Canada Revenue Agency, 2013 ONSC 5249 (CanLII), paras 1, 17, 22 and 23, the Applicant brought an application to the Ontario Superior Court of Justice for (1) a declaration that funds held in certain bank accounts were the property of third parties; (2) a declaration that the CRA could not seize funds from those accounts; and (3) an order directing the CRA to return seized funds. Counsel for the CRA submitted that item (2) was in reality an injunction because it would prohibit the CRA from a certain action, while item (3) was in reality a mandatory injunction because it would require the CRA to do something. The court agreed with this characterization.
+[18] Marine Atlantic, para 38.
+[19] In Doussot v The King, 2023 TCC 26, Justice Boyle stated “Our Court is very familiar with its jurisdiction as it is set out by statute and our Court is legally and duty bound to not exceed that jurisdiction.”
+[20] The Court refers the parties to a letter dated November 19, 2021, from the registry of this Court to the parties.

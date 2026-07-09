@@ -1,0 +1,153 @@
+Title: Collette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28026/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-641-28026-collette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-22
+
+# Collette c. La Reine
+
+- Citation: 2006 CCI 641
+- Decision date: 2006-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1612, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-22
+Référence neutre
+2006 CCI 641
+Numéro de dossier
+2005-4096(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4096(IT)I
+ENTRE :
+JANICE COLLETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 octobre 2006, à Toronto (Ontario)
+Devant : L’honorable juge T. O'Connor
+Comparutions :
+Représentant de l’appelante :
+James G. Kelly
+Avocat de l’intimée :
+Me Josh Hunter
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation au motif que la déduction des frais de téléphone de 1 411,31 $ doit être accordée et que la déduction des frais liés à du matériel informatique de 1 650,72 $ doit être refusée. Le tout conformément aux motifs du jugement ci‑joints. Il n'y aura pas d'adjudication des dépens.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 2e jour de février 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI641
+Date : 20061122
+Dossier : 2005-4096(IT)I
+ENTRE :
+JANICE COLLETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Le juge O'Connor
+[1] Le présent appel concernait initialement le refus, pour l’année d’imposition 2003, de la déduction de certains frais de téléphone s’élevant à 1 411,31 $ ainsi que de la déduction de frais liés à du matériel informatique, laquelle fera l’objet d’une discussion plus approfondie plus loin. Au début de l’audience, l’avocat de l’intimée a indiqué que le ministre du Revenu national (le « ministre ») et l’appelante s’entendaient pour dire que la déduction des frais de téléphone devait être accordée.
+[2] La seule question qu’il reste à trancher est donc celle concernant les frais liés à du matériel informatique. Ces frais totalisaient 1 650,72 $, ce qui représente 12 versements mensuels de 137,56 $ payés en 2003. Le coût total de l’ordinateur et de ses accessoires était de 4 952,16 $. Il était composé du [traduction] « Prix de vente au comptant (y compris les taxes) » de 3 202,70 $ et du [traduction] « Coût total d’emprunt (frais de crédit) » de 1 749,46 $. Le montant total de 4 952,16 $ était payable en 36 versements mensuels égaux de 137,56 $, et 12 versements totalisant 1 650,72 $ ont été effectués en 2003.
+[3] En 2003, l’appelante a gagné un revenu d’emploi brut de 104 091 $, y compris un revenu de commissions de 20 000 $. Elle remplissait toutes les conditions requises pour la déduction des dépenses prévue à l’alinéa 8(1)f) de la Loi de l’impôt sur le revenu. La seule question à trancher est donc de savoir si le contrat que l’appelante a conclu avec Future Shop pour l’achat de l’ordinateur et de ses accessoires constitue une vente conditionnelle comme l’envisage le ministre, auquel cas la déduction des frais de 1 650,72 $ pour 2003 a été refusée à juste titre, ou bien s’il constitue un bail comme le prétend l’appelante, auquel cas, selon l’appelante, la déduction des frais aurait dû être accordée, compte tenu d’un argument subsidiaire du ministre selon lequel, dans les cas où il y a un bail, un montant représentant les « frais de crédit » devrait être soustrait du total des frais. Ledit contrat est daté du 26 janvier 2001 et est ci‑après appelé le « contrat avec Future Shop ».
+[4] L’appelante et son représentant, James G. Kelly, un comptable agréé (le « représentant »), ont témoigné.
+[5] Le contrat avec Future Shop a été déposé sous la cote A‑1. L’appelante a déposé, sous la cote A‑2, un document indiquant la cession par Future Shop du contrat conclu avec Future Shop (ou peut‑être de l’ordinateur) à Metro Leaseline Ltd. De plus, le représentant a déposé sous la cote A‑3 un exemple de bail utilisé par Dell Financial Services Canada (« Dell »).
+[6] L’appelante a déclaré dans son témoignage que son intention était de conclure un bail et qu’elle pensait que c’était ce qu’elle avait fait. Le représentant soutient que le bail de Dell était essentiellement similaire au contrat avec Future Shop et qu’un grand nombre de clauses dans les contrats étaient plus ou moins interchangeables. Il a allégué que le contrat avec Future Shop était en fait un bail même s’il n’était pas appelé ainsi. Il a également affirmé que la durée de vie utile d’un ordinateur était très courte et que, si on faisait le total de tous les paiements de location effectués au cours du terme de trois ans, on pouvait constater que l’ordinateur avait en fait été payé et qu’il était prévu que le titre de propriété serait transféré à l’appelante par Future Shop à la fin du bail moyennant un paiement symbolique. Le représentant allègue en outre que le fait que Future Shop a cédé le contrat à Metro Leaseline Ltd. renforce le témoignage de l’appelante selon lequel elle pensait qu’elle avait conclu un bail. Le représentant indique également les nombreuses clauses semblables qui figurent dans le contrat de Dell et le contrat avec Future Shop et soutient que cela est une autre indication que c’est véritablement un bail qui a été conclu.
+[7] Le représentant a présenté d’autres sources et définitions et a affirmé que celles‑ci étayaient également sa position selon laquelle c’est un bail qui avait été conclu en réalité.
+[8] L’avocat de l’intimée affirme que c’est une vente conditionnelle qui a été conclue. Le contrat avec Future Shop est intitulé [traduction] « Contrat de sûreté en garantie du prix de vente (BC) ». Dans ce dernier, les parties sont appelées [traduction] « fournisseur » ou [traduction] « vendeur » et [traduction] « acheteur » ou [traduction] « acquéreur ». Le nom de l’appelante est clairement indiqué sous la rubrique [traduction] « Nom de l’acquéreur » et celui de Future Shop est clairement indiqué sous la rubrique [traduction] « Vendeur ». De plus, sur la première page du contrat avec Future Shop, l’ordinateur et ses accessoires sont indiqués sous [traduction] « Description des biens vendus ».
+[9] Le détail des obligations de l’acheteur figure ci‑dessous :
+[traduction]
+FRAIS SUPPLÉMENTAIRES EN CAS DE DÉFAUT DE PAIEMENT
+1. Vous vous engagez à payer des frais de retard de 5 cents pour chaque tranche de 1 $ de la partie de tout versement non payé à la date d’échéance ou dans les cinq jours suivant.
+2. Vous vous engagez à payer une pénalité de 20 $ si vous payez par chèque et que le chèque est refusé par la banque.
+3. Vous vous engagez à payer des intérêts à un taux de 3,0 % par mois (36 % par année) après échéance de tout solde impayé restant. En cas de défaut de paiement, le contrat sera réputé être venu à échéance.
+Vous vous engagez à payer le solde dû en 36 versements mensuels égaux de 137,56 $ et à effectuer un dernier versement de 1 $, lesquels versements sont tous payables le même jour de chaque mois. Le premier versement est dû le 25 février 2001 (ou un mois après la date du contrat à moins d'indication contraire).
+[10] Dans l’arrêt Mitsui & Co. (Canada) Ltd. c. Banque Royale du Canada, [1995] 2 R.C.S. 187, la Cour suprême du Canada devait décider si un contrat particulier était une vraie vente conditionnelle, un bail qui constituait une vente conditionnelle déguisée ou un bail véritable où les paiements sont faits exclusivement pour utiliser les objets et ne constituent pas des versements échelonnés effectués en vue de l’achat éventuel des objets.
+[11] Dans l’arrêt Mitsui (précité), la Cour suprême a fait référence aux dispositions législatives de la Nouvelle‑Écosse, qui sont semblables aux dispositions législatives de l’Ontario applicables. La Cour a mentionné ce qui suit à ce sujet :
+II. Les dispositions législatives
+Conditional Sales Act
+[traduction] 2(1) Dans la présente loi
+[...]
+b) « vente conditionnelle » désigne
+i) un contrat de vente d'objets en vertu duquel la possession est ou doit être transmise à l'acheteur et la propriété des objets doit lui être dévolue à une date ultérieure à la suite du paiement de la totalité ou d'une partie du prix, ou de l'exécution de toute autre condition, ou
+(ii) un contrat de location d'objets aux termes duquel il est convenu que le locataire deviendra ou aura la faculté de devenir propriétaire des objets après avoir entièrement satisfait aux conditions du contrat;
+III. Jugements
+Cour suprême de la Nouvelle‑Écosse
+6 Le juge en chambre a conclu que les baux avaient conféré à Pegasus l'option de devenir, à leur expiration, propriétaire des hélicoptères. Les termes de l'article 32 conféraient au locataire le droit unilatéral de contraindre le bailleur à vendre et, partant, lui conféraient l'option de devenir propriétaire. Il a déclaré que les deux baux étaient des contrats de vente conditionnelle au sens, à la fois, de la Conditional Sales Act et de l'Instalment Payment Contracts Act, et il a rejeté la demande de l'intimée.
+Cour d'appel de la Nouvelle‑Écosse
+Le juge Freeman, au nom de la cour à la majorité
+7 Le juge Freeman a conclu qu'il n'était pas dans l'intention des parties que Pegasus devienne propriétaire des hélicoptères automatiquement ou moyennant une contrepartie symbolique, après qu'elle se fut acquittée de toutes ses obligations aux termes des baux. L'intimée conservait en tout temps la propriété des hélicoptères. Pegasus avait simplement le droit d'exiger que l'intimée établisse la juste valeur marchande raisonnable à laquelle elle était prête à vendre les hélicoptères. Pegasus était libre de rejeter ce prix. Aucun mécanisme n'était prévu pour établir un prix liant les deux parties. Il a conclu que l'intention prépondérante des parties était de conclure un bail et non un contrat de vente conditionnelle. L'article 32 créait un droit de préemption qui ne correspondait pas au type de mesure que le législateur voulait voir visé par le sous-al. 2(1)b)(ii) de la Loi. L'intimée avait le droit de reprendre les hélicoptères libres de toute réclamation des appelantes.
+Le juge Jones (dissident)
+8 Le juge Jones a conclu que le sous-al. 2(1)b)(ii) de la Loi s'appliquait aux baux comportant une option d'achat. Les baux comportaient une option d'achat parce que l'article 32 conférait au locataire le droit unilatéral de contraindre le bailleur à vendre. Les parties étaient libres d'établir les modalités de fixation du prix et les tribunaux pouvaient appliquer la stipulation de la « juste valeur marchande » contenue à l'article 32.
+IV. Le point en litige
+1. Les baux sont-ils des contrats de vente conditionnelle au sens du sous‑al. 2(1)b)(ii) de la Conditional Sales Act?
+V. Analyse
+Introduction
+9 Le présent pourvoi soulève la question de l'interprétation à donner au sous‑al. 2(1)b)(ii) de la Conditional Sales Act, qui définit une « vente conditionnelle » aux fins de la Loi. Il s'agit de déterminer si les baux sont visés par cette définition. Si les baux sont des contrats de vente conditionnelle au sens de la Loi, l'intimée perd alors sa priorité de rang parce qu'elle a omis de s'enregistrer. Par contre, ce n'est que si les baux sont des baux véritables que l'intimée aura droit à la possession des biens et à la priorité de rang. Deux questions se posent : un bail assorti d'une option d'achat à la juste valeur marchande est-il visé par le sous‑al. 2(1)b)(ii) de la Loi, et l'article 32 constitue‑t‑il une vraie option?
+La Conditional Sales Act
+10 Un contrat de vente conditionnelle est un contrat aux termes duquel les parties acceptent que, même si l'acquéreur prend possession du bien, il n'en obtiendra le titre de propriété qu'une fois payé le prix d'achat. Pour protéger son droit de propriété, le vendeur doit, dans le délai prescrit, enregistrer le contrat de vente conditionnelle dans un registre public.
+11 Au Canada, la Conference of Commissioners on Uniformity of Legislation a adopté, en 1922, une Conditional Sales Act uniforme. La Nouvelle-Écosse a adopté cette loi en 1930. Les conditions d'enregistrement prévues dans la Loi visaient à éviter que des tiers ne soient [traduction] « incités à acquérir des objets ou [...] à faire crédit à l'acquéreur à titre conditionnel sur la foi de sa propriété apparente des objets en question, en prescrivant l'enregistrement du contrat » (Jacob S. Ziegel, « Uniformity of Legislation in Canada : The Conditional Sales Experience » (1961), 39 R. du B. can. 165, à la p. 207). De par l'effet de la Loi, les contrats non enregistrés qui stipulaient que le vendeur conservait son titre de propriété n'étaient pas opposables aux acquéreurs subséquents, les créanciers hypothécaires et certains autres créanciers (G. V. La Forest, « Filing under the Conditional Sales Act : Is It Notice to Subsequent Purchasers? » (1958), 36 R. du B. can. 387, à la p. 396).
+12 Selon son libellé, la Loi s'applique aux baux qui comportent une option d'achat. Elle diffère des lois plus modernes sur les sûretés mobilières actuellement en vigueur dans un bon nombre de provinces. Ces lois se fondent sur l'article 9 de l'American Uniform Commercial Code et font appel à des notions, comme le « droit de sûreté » et les « contrats de sûreté », qui sont étrangères à la Conditional Sales Act. La question de savoir si un bail est conclu en guise de sûreté ou s'il constitue essentiellement un contrat de sûreté se pose sous le régime des lois sur les sûretés mobilières. La jurisprudence relative aux lois sur les sûretés mobilières ne s'applique pas à la présente affaire étant donné que cette dernière porte sur les dispositions quelque peu désuètes de la Conditional Sales Act.
+La portée de la Conditional Sales Act
+13 Il y a trois types de contrats qui sont visés par l'al. 2(1)b) de la Loi. Il y a d'abord le contrat de vente conditionnelle « véritable », où l'acquéreur consent à faire au vendeur des versements échelonnés sur une certaine période, et où le vendeur conserve le titre de propriété de l'objet jusqu'à son paiement complet. Il est évident, dès le départ, qu'à moins que l'acquéreur ne respecte pas ses engagements, le droit de propriété lui sera cédé à l'expiration de la période en cause.
+14 Le deuxième type de contrat visé par la Loi est le contrat de location avec option d'achat, où l'option est levée moyennant une contrepartie symbolique; il ressort clairement des conditions de ce contrat que l'option sera levée et que les paiements du « loyer » contribueront, en fait, à payer l'objet en question. Lorsque ce type de contrat de location avec option d'achat est signé, les parties veulent que les objets soient cédés au « locataire ». Ces contrats ont été décrits comme des contrats de vente conditionnelle déguisés et ils sont visés par la Loi.
+15 Il semble que l'inclusion des contrats de location avec option d'achat au sous‑al. 2(1)b)(ii) ait été une tentative explicite, de la part des commissaires qui ont rédigé la Conditional Sales Act uniforme, de s'assurer que les contrats de vente conditionnelle déguisés soient visés par la Loi. En rédigeant cette loi uniforme, les commissaires ont voulu annuler l'effet de décisions antérieures comme Mason c. Lindsay (1902), 4 O.L.R. 365 (C. div.), où on avait conclu que la Loi ne pouvait s'appliquer à un bail lorsque le locataire avait simplement l'option, mais non l'obligation légale, de devenir propriétaire, même si les parties avaient bien pu vouloir que le « locataire » devienne éventuellement propriétaire à l'expiration du « bail ». La définition générale de l'expression « vente conditionnelle », au sous‑al. 2(1)b)(ii) de la Loi, empêche les parties de se dérober aux conditions d'enregistrement simplement en donnant à un contrat de vente conditionnelle l'apparence d'un contrat de location.
+16 Le troisième type de contrat visé par la Loi est un contrat de location avec option d'achat « véritable ». Ce type de contrat n'est pas un contrat de vente conditionnelle déguisé. Les paiements du loyer sont faits exclusivement pour utiliser les objets loués et ils ne constituent pas des versements échelonnés en vue d'acquérir éventuellement les objets loués. Le prix de la levée de l'option à la fin du bail correspond à la juste valeur marchande et non à une somme symbolique.
+17 Les baux en cause dans la présente affaire tombent dans la troisième catégorie qui, selon ce que la Cour d'appel à la majorité a décidé, n'est pas visée par la Loi.
+[12] Dans la décision Horbay v. R., [2003] 2 C.T.C. 2248, le juge Beaubier devait faire une distinction qui ressemblait à la situation en l’espèce. Il a formulé les commentaires suivants :
+5 De l’avis de la Cour, il s’agit en partie de savoir si les intérêts hypothécaires peuvent être considérés comme du « loyer de bureau » en vertu [du sous‑alinéa 8(1)i)(ii)]. L’appelante soutient que sur le plan pratique, cela revient au même dans son cas.
+6 Malheureusement, le paragraphe 8(1), limité par le paragraphe 8(2), ne permet pas le traitement analogue des versements d’intérêts préconisé par l’appelante pour les employés. C’est malheureux de nos jours, alors que le travail à domicile est devenu monnaie courante en plus d’être souvent exigé par les employeurs soucieux d’économiser sur leurs frais généraux. Il s’agit peut-être là d’une autre situation où la Loi n’a pas évolué au même rythme que le milieu de travail.
+7 La Cour accepte l’interprétation proposée par le juge McNair, de la Cour fédérale, dans l’affaire Thompson c. Canada (Ministre du Revenu national) [1989] 3 C.F. 492, (89 D.T.C. 5439), un appel reposant sur des motifs identiques. Le juge McNair a cité le jugement du juge Rip, de la C.C.I., dans l’affaire Felton c. M.R.N., 89 D.T.C. 233 (C.C.I.), en affirmant aux pages 5443 et 5444 :
+Le motif formel du jugement est exposé aux pages 234 et 235 :
+[TRADUCTION] Les mots « loyer » et « rent » utilisés au sous‑alinéa 8(1)i)(ii) envisagent le cas d'un paiement effectué par un locataire à un propriétaire qui est propriétaire du bureau en contrepartie de la possession exclusive du bureau, le bien loué à celui-ci par celui-là.
+Les paiements faits par M. Felton à un prêteur d'argent pour les intérêts dus sur un prêt d'argent, à un fournisseur de services publics pour ces services, à des employés d'entretien pour l'entretien, à un assureur pour les assurances et à une municipalité pour ce qui concerne les taxes ne constituent pas des paiements effectués par un locataire à un propriétaire. Aucun de ces paiements n'a été effectué par M. Felton pour l'utilisation, l'occupation ou la possession d'un bien qui était la propriété d'une autre personne.
+[13] Selon moi, les observations de l’avocat de l’intimée sont correctes. Le contrat avec Future Shop est une vente conditionnelle qui prévoit le transfert du titre de propriété une fois tous les paiements effectués, y compris le paiement symbolique à la fin de la période de trois ans.
+[14] Il serait exagéré d’affirmer que le contrat avec Future Shop doit être considéré comme un bail, même s’il est appelé une vente, tout simplement parce que le contrat de Dell est un bail et que les deux comportent certaines similarités.
+[15] Il faut interpréter un contrat conformément à ses modalités, et une intention contraire aux modalités mêmes du contrat ne peut pas changer la nature du contrat. Cela est particulièrement vrai lorsque le contrat même comporte la mise en garde suivante : [traduction] « L’acheteur doit lire les modalités ci‑jointes attentivement ».
+[16] Pour conclure, le contrat est une vente conditionnelle.
+[17] Par conséquent, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation au motif que la déduction des frais de téléphone de 1 411,31 $ doit être accordée et que la déduction des frais liés à du matériel informatique de 1 650,72 $ doit être refusée. Le tout conformément aux présents motifs de jugement. Il n'y aura pas d'adjudication des dépens.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2006.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 2e jour de février 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2006CCI641
+NO DU DOSSIER DE LA COUR : 2005-4096(IT)I
+INTITULÉ DE LA CAUSE : JANICE COLLETTE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 31 octobre 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge T. O'Connor
+DATE DU JUGEMENT : Le 22 novembre 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+James G. Kelly
+Avocat de l’intimée :
+Me Josh Hunter
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

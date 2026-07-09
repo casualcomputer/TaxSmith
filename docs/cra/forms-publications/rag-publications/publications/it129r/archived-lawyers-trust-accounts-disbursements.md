@@ -1,0 +1,50 @@
+---
+title: "ARCHIVED - Lawyers' trust accounts and disbursements"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it129r/archived-lawyers-trust-accounts-disbursements.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Lawyers' trust accounts and disbursements
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-129R**
+
+DATE: November 7, 1986
+
+SUBJECT: INCOME TAX ACT**Lawyers' trust accounts and disbursements**
+
+REFERENCE: Subsection 9(1) (also paragraph 12(1)(b))
+
+This Bulletin replaces and cancels Interpretation Bulletin IT-129 dated October 31, 1973. Current revisions of significance are designated by vertical lines.
+
+1. The purpose of this Bulletin is to provide information for lawyers in practice on the proper method of reporting their incomes and expenses for income tax purposes with respect to trust funds and disbursements and with respect to funds held for clients involved in litigation. The following rules are considered applicable to all lawyers in practice who maintain trust accounts.
+
+2. With the exception of advances which the lawyer is entitled to treat as his or her funds by specific agreement with the client and retainers which the lawyer is entitled to keep whether or not services are rendered or disbursements are made, advances received from a client for services to be rendered or disbursements to be made are considered to be trust funds and are not income at the time of receipt. The first day when such advances can be legally withdrawn from the trust account for the use and benefit of the lawyer is regarded as the earliest day upon which an account could have been rendered for the purposes of subparagraph 12(1)(b)(ii) and paragraph 12(1)(a). However, the professional may elect to exclude work in progress from income under paragraph 34(a). (Refer to IT-457). Before 1985 a similar result was obtained under paragraphs 34(1)(b) and (c) subject to an election to exclude work in progress from income under paragraph 34(1)(d).
+
+3. Any amount transferred out of the trust account for the use and benefit of the lawyer must be included in income at the time of such transfer unless a corresponding amount in respect of the same services or disbursements was reported as income at some previous time.
+
+4. Disbursements on behalf of a client which are chargeable directly to funds advanced by a client, or would be so chargeable if such funds had been advanced, are essentially expenditures of the client and are not deductible by the lawyer. Examples of such disbursements that may be made on behalf of clients include amounts advanced to complete a real estate transaction or an investment transaction, amounts advanced to meet bail, amounts advanced to pay incorporation fees, etc.
+
+5. Similarly, disbursements which are properly chargeable to the client under the terms of an agreement (see 2 above) (such as travelling expenses), are normally charged directly to the trust account. If so charged, the lawyer's account is not affected. If a disbursement made on behalf of a client from whom an advance is received is not so charged in circumstances where it is reasonable to consider that eventually the lawyer can legally withdraw from the trust fund an amount equal to the amount of the disbursement, no amount is deductible by the lawyer for tax purposes in respect of the disbursement.
+
+6. Disbursements that a lawyer customarily makes in the ordinary course of practice which are not chargeable directly to funds advanced by clients are considered to be the lawyer's own expenses which may or may not be recoverable from the clients through regular billings. Consequently, such expenses of a business nature incurred in a taxation year are deductible in computing income for that year for income tax purposes unless the lawyer chooses to defer such expenses that relate to work in progress.
+
+Interest on Trust Accounts
+
+7. Interest on trust accounts which, by provincial law, is required to be paid to a law society or bar association or some foundation or fund related thereto is not taxable.
+
+8. Where no such law is applicable and no arrangement to the contrary exists between the lawyer and client, interest credited on a trust account to which the client's advances have been deposited belongs beneficially to the client; therefore the interest is income of the client and not of the lawyer.
+
+9. If there is a specific agreement between the lawyer and client that the interest credited to a particular trust account accrues to the lawyer's own use and benefit, then the interest is income of the lawyer at the time when it is credited to the account.
+
+Interest on Funds of Litigants
+
+10. Where funds deposited with a lawyer by a litigant or litigants for safekeeping and investment, pending a court order or settlement establishing their proper disposition, earn income the Department considers such income to be income of a trust and recognizes that the beneficial owner is the eventual recipient of the funds. Therefore, conditional upon waivers being filed by each of the litigants and the lawyer-trustee for the relevant taxation years, the Department will defer assessment of the income until the recipient is finally determined. (Refer to Information Circular 75-7R3, paragraph 5).

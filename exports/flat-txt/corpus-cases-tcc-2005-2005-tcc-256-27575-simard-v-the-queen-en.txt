@@ -1,0 +1,200 @@
+Title: Simard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27575/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-256-27575-simard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-17
+
+# Simard v. The Queen
+
+- Citation: 2005 TCC 256
+- Decision date: 2005-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 70, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-17
+Neutral citation
+2005 TCC 256
+File numbers
+2004-4204(GST)APP
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4204(GST)APP
+BETWEEN:
+PIERRE-YVES SIMARD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on common evidence with the application of
+Jacquelin Simard (2004-4205(GST)APP)
+on February 9, 2005, at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Applicant:
+Daniel Petit
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+ORDER
+Upon application by the Applicant under section 304 of the Excise Tax Act (the "Act") for an order extending the time for filing with the Minister of National Revenue a notice of objection to the assessment made under the Act;
+The application is dismissed, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of May 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Garth McLeod, Translator
+Docket: 2004-4205(GST)APP
+BETWEEN:
+JACQUELIN SIMARD,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on common evidence with the application of
+Pierre-Yves Simard (2004-4204(GST)APP)
+on February 9, 2005, at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Applicant:
+Daniel Petit
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+ORDER
+Upon application by the Applicant under section 304 of the Excise Tax Act (the "Act") for an order extending the time for filing with the Minister of National Revenue a notice of objection to the assessment made under the Act;
+The application is dismissed, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of May 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Garth McLeod, Translator
+Citation: 2005TCC256
+Date: 20050517
+Dockets: 2004-4204(GST)APP
+2004-4205(GST)APP
+BETWEEN:
+PIERRE-YVES SIMARD,
+JACQUELIN SIMARD,
+Applicants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Angers J.
+[1] These are two applications to extend the time for filing a notice of objection to the notices of assessment made on August 10, 2001 for each of the Applicants. The two notices of assessment were issued under the Excise Tax Act (the "Act") for the period from January 1, 1992, to September 30, 2000, and bear the numbers PQ-2001-6016 and PQ-2001-6018.
+[2] The events leading to the hearing of these applications can be summarized as follows:
+[TRANSLATION]
+(1) The Respondent issued a notice of assessment as described above in respect of each Applicant. The mailing date indicated on each notice is August 10, 2001, and the contact person for the Department of Revenue is shown as Jacques Dumais;
+(2) The address on each of the notices of assessment is the address of the Applicant in question;
+(3) On May 17, 2004, each of the Applicants received at their respective addresses a requirement to pay (final notice) signed by Étienne Marcoux from the Respondent's tax collection centre;
+(4) On May 26, 2004, each of the Applicants sent the Respondent a notice of objection stating the number of the notice and the reason for his objection, that is to say that he did not owe the amount claimed since he had not been a director since May 5, 2001, and the tax liability was statute-barred;
+(5) On May 28, 2004, the Respondent informed both Applicants that their notices of objection could not be accepted since they had not served them within the time period provided for by the Act and that they could not file an application for extension of time with the Respondent;
+(6) On June 4, 2004, the Applicants, through their counsel, filed such application with the Minister, relying on the fact that the corporation of which they had been directors had been inactive since 2001, that it was under the protection of the Bankruptcy and Insolvency Act and that they therefore had not had any opportunity to file the said objections;
+(7) On September 16, 2004, the Respondent informed the Applicants of her decision not to grant the application for extension of time since it had not been made in the year after the expiration of the deadline for filing an objection. She informed the Applicants that they could file a similar application with our court within 30 days following the date of the letter;
+(8) On October 12, 2004, the Applicants filed an application for extension of time with the Court. In support of their application, the Applicants provided the following reasons:
+[TRANSLATION]
+1. Construction Emma Inc. filed for bankruptcy on February 2, 2001;
+2. Your Appellant has not been a director of that company under the Bankruptcy Act since February 2, 2001;
+3. The Canada Customs and Revenue Agency (hereinafter "CCRA") filed a claim in the bankruptcy of Construction Emma Inc.;
+4. The CCRA received its payment;
+5. Upon filing a claim, the CCRA did not object to the discharge of the trustee, Raymond Chabot Inc.;
+6. Not being a director of the said company since February 2, 2001, being unable to act for the said company and not having access to any books of the said company and as all the property, assets and liabilities were in the hands of the trustee in bankruptcy, your Appellant was unable to file an objection in his capacity as director, and this since February 2, 2001;
+7. Your Appellant believes he owes the CCRA nothing because the CCRA should have been paid on a priority basis by the trustee in bankruptcy instead of the Bank of Montreal, in view of the fact that there was enough money to pay the debt owed to the CCRA;
+8. Your Appellant further believes that the CCRA's claim is time-barred;
+9. Your Appellant therefore asks to be heard in order to show that the tax liability claimed by the CCRA is statute-barred; that he was unable to act before the date on which he filed his notice of objection, in view of the fact that Construction Emma Inc. had been in bankruptcy since February 2, 2001, and the CCRA should have been paid on a priority basis by the trustee in bankruptcy.
+[3] In response to the applications for extension of time, the Respondent made the following points in her Replies:
+[TRANSLATION]
+1. On August 10, 2001, the Respondent issued, in respect of the Applicant, a notice of assessment bearing number PQ-2001-6016 [or PQ-2601-6018, as the case may be] for the period from January 1, 1992, to September 30, 2000;
+2. On or about May 26, 2004, the Applicant objected to that assessment;
+3. On or about May 28, 2004, the Respondent rejected the notice of objection on the ground that it had not been made within the time provided by law;
+4. On or about June 4, 2004, the Applicant filed an application for extension of time with the Minister under section 303 of the Excise Tax Act in order to file a notice of objection to the assessment bearing the number PQ-2001-6016 [or PQ-2601-6018, as the case may be];
+5. On September 16, 2004, upon considering the grounds stated in the application for extension of time under section 303 of the Excise Tax Act, the Minister refused the Applicant's application for extension of time;
+6. On or about October 12, 2004, the application for extension of time for filing a notice of objection with the Tax Court of Canada was filed with the Court Registry;
+7. The Respondent contends that that application for extension should be denied for the following reasons:
+(a) the application for extension of time was not filed within one year after the expiration of the time otherwise limited for objecting, as provided by subsection 304(5) of the Excise Tax Act;
+[4] These two applications were therefore made under section 304 of the Act. For their applications to be granted, the Applicants must meet the conditions set out in subsection 304(5) of the Act, which are as follows:
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person's name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 303(1) as soon as circumstances permitted it to be made.
+[5] At the hearing, both Applicants testified in a manner consistent with the reasons they had stated in their applications, that is to say mainly that they had been unable to file an objection since their corporation had been bankrupt since February 2, 2001, and the matter was in the hands of the trustee.
+[6] In the instant case, the notices of assessment in respect of which an extension of time for filing an objection is sought were made in respect of the Applicants personally, as directors of Emma Construction Inc., under subsection 323(1) of the Act. That subsection provides that the directors of a corporation such as that in the instant case are jointly and severally liable to pay the tax that the corporation was required to remit under the Act. The notices of assessment made in respect of the Applicants personally thus had nothing to do with the trustee, and their right to object did not depend on the trustee.
+[7] According to their testimony, the Applicants had the impression that the assets of the corporation would be sufficient to settle the corporation's tax liability. They had received assurances from the credit manager of their bank that selling the corporation's assets would make it possible to pay the amounts owed. However, it was not until they had received the requirement to pay letter on May 17, 2004 that they realized the extent of the tax liability.
+[8] The Applicants' main contentions are that they were unable to act as a result of the trustee and that the debt had been paid in full, or was at least statute-barred. As regards the matter of the Applicants' inability to act as a result of the bankruptcy, I asked counsel for the Respondent to submit cases in support of his claims, but in vain.
+[9] On the evidence adduced at the hearing, nothing in the fact that Construction Emma Inc. went bankrupt and that a trustee had been appointed since February 2001 could have prevented the Applicants from objecting to the notices of assessment made in respect of them on August 10, 2001. The right to object to the notices of assessment in the instant case was theirs alone, as was their decision in that regard.
+[10] This mistaken belief, together with the opinion of the credit manager of their bank, no doubt influenced the Applicants' decision; this Court can do nothing about that. In light of these facts, the Applicants clearly exceeded the time for filing their applications under subsection 303(1) of the Act. In the circumstances, neither the Minister nor this Court is able to grant the applications. (See Carlson v. The Queen, [2002] F.C.J. No. 573.)
+[11] Following the hearing, counsel for the Applicants told the Court in a written argument that the Applicants had neither received nor seen the notices of assessment in the instant case and that the burden was on the Respondent to prove that the notices of assessment had been issued. However, this matter was never at issue in the applications made to the Court, and the Applicants never alleged that they had not received the notices of assessment. Indeed, it is even strange that a taxpayer might assert that he has not received a notice of assessment, when he claimed that he was unable to object to it for the reasons given.
+[12] The Respondent has an obligation to prove that she has issued an assessment in respect of a person and that she has sent the notice of assessment to that person where that point is in issue. When the notices of assessment are filed in evidence and the Respondent has stated the date on which they were mailed, as in the instant case, she is entitled to rely on subsections 335(10) and (11), which establish the mailing date and the assessment date.
+[13] In the instant case, the Applicants did not clearly prove that they had neither received nor seen the notices of assessment. Their counsel did not ask them that question in examination. It was not until cross-examination that counsel for the Respondent ventured to ask it. After confirming the accuracy of the Applicants' mailing addresses, here is how Jacquelin Simard answered those questions (pages 16 to 18 of the transcript):
+[TRANSLATION]
+Q. You didn't know the amount. All right. And so the notice of assessment - I'm showing you your notice of assessment, Mr. Simard. This is Exhibit I-1, Your Honour.
+I-1: Notice of assessment of Jacquelin Simard
+A. Yes.
+Q. You admit you received this notice of assessment?
+A. Well, ...
+Q. Look at it; take the time to...
+A. The eighth month is... Yes.
+Q. So you admit you received this assessment?
+A. Oh, as to whether I received it, I can't swear that, because... I can't swear I received it because it's been... 2001. 2001, that's the eighth month of 2001; I can't swear to that.
+Q. All right.
+A. As to whether I can swear that that notice actually came, I can't swear to you that I received it. Right now, I'd have to think...
+Q. You remember that you...
+A. Yes.
+Q. ... received it one day, in fact, don't you?
+A. In any case, let's go on; I'll try to remember and see. But that's something that's quite hard.
+Q. All right. So, according to the date on the notice of assessment, it was issued in August 2001. Do you remember receiving the notice of assessment in 2001, and perhaps you said you spoke to the bank in order to determine whether there were any outstanding debts?
+A. It was supposed to be all cleaned up. With the sale of the company, honestly they were supposed to have cleaned all the dirty laundry. That's what they told me. They said: "Mr. Simard," he said, "we're selling, then we're keeping everything. Then there'll be money to close everything." Why? Where did that money go?
+[14] Jacquelin Simard therefore does not remember whether or not he in fact received the notice of assessment.
+[15] The Applicant Pierre-Yves Simard was more categorical and stated that he had not received the notice of assessment and referred instead to the requirement to pay letter of May 17, 2004, which he said he had read in August 2001, on the date of the notice of assessment. He also said that he had discussed this liability with Jacques Dumais of the Revenue Department and subsequently with Étienne Marcoux of the same department. However, Jacques Dumais was the contact person identified in the notice of assessment of August 10, 2001, and Étienne Marcoux was the author of the requirement to pay letter of May 17, 2004. It seems obvious to me that Pierre-Yves Simard's testimony is far from clear and specific about events and dates, but there is every reason to believe that he was in fact aware of this liability and of the assessment in August 2001, which is the date stated on the notice of assessment, since he apparently discussed it with Jacques Dumais.
+[16] It is therefore highly unlikely that the notices of assessment were not received, as the Appellants now claim, belatedly and in a manner contradicting their initial position. For these reasons, the applications are dismissed.
+Signed at Ottawa, Canada, this 17th day of May 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC256
+DOCKETS NOS: 2004-4204(GST)APP
+2004-4205(GST)APP
+STYLES OF CAUSE: Pierre-Yves Simard and Her Majesty The Queen
+Jacquelin Simard and Her Majesty The Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: February 9, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge François Angers
+DATE OF JUDGMENTS: May 17, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Daniel Petit
+Counsel for the Respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Daniel Petit
+Firm: Petit Beaudouin Gaucher Robert Rousseau
+et Vaillancourt
+Charlesbourg, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

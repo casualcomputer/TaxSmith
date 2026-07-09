@@ -1,0 +1,388 @@
+---
+title: "9178-3472 Québec inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361427/index.do"
+last_modified: "2019-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 15"
+citation2: ""
+neutral_citation: "2019 CCI 15"
+decision_date: "2019-01-17"
+language: "fr"
+item_id: "361427"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4336
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:35.758000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06c2b9a12a2e47dce243df71af1192d3662bfa9e3a43eafb7f7f09b8ec782e6d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9178-3472 Québec inc. c. M.R.N.
+
+- Citation: 2019 CCI 15
+- Decision date: 2019-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4336, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9178-3472 Québec inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-17
+Référence neutre
+2019 CCI 15
+Numéro de dossier
+2016-915(EI), 2017-1261(EI), 2017-1263(EI), 2017-2212(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2016-915(EI)
+2017-1261(EI)
+2017-1263(EI)
+ENTRE :
+9178-3472 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2017-2212(EI)
+ENTRE :
+9178-3472 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Martin Demers, Claude-Richard Carbonneau, Claude Larose,
+Georges Flahiff, Jacques Louis,
+intervenants.
+Appels entendus sur preuve commune
+les 22 et 23 octobre 2018, à Montréal (Québec)
+Devant : L'honorable Lucie Lamarre, juge en chef adjointe
+Comparutions :
+Avocat de l'appelante :
+Me James Bonhomme
+Avocat de l'intimé :
+Me Mathieu Tanguay
+Intervenants présents:
+Martin Demers, Claude Larose, Georges Flahiff
+JUGEMENT
+Les appels sont rejetés. Les décisions du ministre du Revenu national (Ministre) qui ont mené à l’établissement, à l’encontre de l’appelante, de cotisations au titre de l’assurance-emploi à l’égard de la rémunération assurable versée aux 218 travailleurs, dont les noms apparaissent à l’annexe A des motifs de jugement pour les années 2014, 2015 et 2016 dans le dossier 2017-2212(EI) sont maintenues. Les décisions rendues par le ministre dans les dossiers 2017-1263(EI), 2017-1261(EI) et 2016-915(EI) sont également confirmées. Le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2019.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+Référence : 2019 CCI 15
+Date : 20190117
+Dossiers : 2016-915(EI)
+2017-1261(EI)
+2017-1263(EI)
+ENTRE :
+9178-3472 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossier : 2017-2212(EI)
+ENTRE :
+9178-3472 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+Martin Demers, Claude-Richard Carbonneau, Claude Larose,
+Georges Flahiff, Jacques Louis,
+intervenants.
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+[1] Il s’agit d’appels de décisions du ministre du Revenu national (ministre) qui ont mené à l’établissement, à l’encontre de l’appelante, de cotisations au titre de l’assurance-emploi à l’égard de la rémunération assurable versée à 218 travailleurs, dont les noms apparaissent à l’annexe A des présents motifs, pour les années 2014, 2015 et 2016 (période du 1er janvier 2014 au 5 mai 2016) (dossier 2017-2212(EI)).
+[2] Il s’agit également d’appels portant sur la décision du ministre de déclarer assurables les emplois occupés par les neuf travailleurs dont les noms apparaissent à l’annexe B des présents motifs entre le 1er janvier 2014 et le 5 mai 2016 (dossier 2017-1263(EI)), l’emploi de Josée Casavant pour les périodes du 29 septembre 2014 au 26 octobre 2015 et du 1er février 2016 au 5 mai 2016 (dossier 2017-1261(EI)) et finalement celui de Aliaksandr Shytsikau pour les périodes du 14 au 20 mars 2014 et du 18 avril 2014 au 27 janvier 2015 (dossier 2016-915(EI)). Il est à noter que ces onze travailleurs pour lesquels des appels ont été logés séparément font déjà partie des 218 travailleurs pour lesquels des cotisations ont été établies et pour lesquels l’appel dans le dossier 2017-2212(EI) a été logé.
+[3] Dans tous les cas, le ministre a conclu que tous ces travailleurs occupaient un emploi assurable au cours des périodes en litige aux termes de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, alors qu’ils rendaient des services à l’appelante, ce qui est contesté par cette dernière, qui les considère comme des travailleurs autonomes.
+Faits
+[4] Il est admis que l’appelante exploite une entreprise de distribution de journaux sous le nom de Gama Média (Gama), lesquels sont distribués dans différents sites publics de la région de Montréal.
+[5] À cet égard, l’appelante a conclu une convention de distribution avec Messageries Dynamiques, une division de Réseau Québecor Média Inc.
+[6] Les travailleurs visés dans le présent litige ont été engagés par l’appelante pour faire la distribution du journal 24 HEURES dans les stations de métro de la région de Montréal. Ils ont tous été engagés verbalement. À part quelques exceptions, ils se sont tous fait dire par un représentant de l’appelante qu’ils étaient engagés en tant que travailleurs autonomes.
+[7] La question de l’assurabilité de ces travailleurs a été abordée en tout premier lieu suite à la demande d’assurance-emploi faite par Aliaksandr Shytsikau, après qu’il eut cessé de travailler pour Gama le 27 janvier 2015. La décision rendue par la division des appels de l’Agence du revenu du Canada (ARC) en décembre 2015 concluait à l’assurabilité de son emploi.
+[8] À la suite d’une demande de décision faite par la section de l’examen des comptes de fiducie, la division des décisions RPC/AE du Bureau des services fiscaux de l’Est du Québec a statué que les neuf travailleurs de l’annexe B occupaient également des emplois assurables. Cette décision a été confirmée par Arona Mbaye, l’agent des appels qui a témoigné à l’audience. Suite à cette décision et à une autre, rendue dans le dossier de Josée Casavant, M. Mbaye s’est penché sur le statut des 218 travailleurs énumérés à l’annexe A, lesquels incluent ces onze travailleurs pour lesquels une décision avait déjà été rendue. Dans le cadre de cette analyse, il a interrogé un certain nombre de personnes en fonction d’un échantillonnage de travailleurs ayant travaillé pour une période assez longue pour Gama.
+[9] J’ai entendu à l’audience le témoignage de huit travailleurs, de même que celui du président de Gama, M. Mario Gandolfo, et de l’agent des appels pour le ministre, M. Mbaye.
+Témoins de l’appelante
+[10] Je note qu’aucun des témoins de l’appelante ne semble faire partie des travailleurs faisant l’objet des cotisations en litige puisque leurs noms n’apparaissent pas dans l’annexe A.
+1er témoin: Hugo Bérubé
+[11] Il travaille comme crieur depuis 2016 pour Gama (le payeur). Il distribue des journaux.
+[12] Il a rencontré un dénommé Sami chez Gama et s’est fait offrir de travailler un bloc de trois heures, cinq jours par semaine, au salaire minimum (15 heures par semaine à 11,25 $ de l’heure en 2016), selon une entente verbale. Il ne fournit aucune facture.
+[13] Il reçoit un feuillet qui comprend tous les montants payés par dépôt direct dans l’année. Il ne reçoit aucun T4 ou T4A.
+[14] Il se déclare travailleur autonome.
+[15] Il a eu le choix de sa station de métro : d’abord la station McGill et ensuite Berri-UQAM quand elle s’est libérée. Il ne peut changer de station sans en parler avec Gama.
+[16] On ne lui a pas dit qu’il devait travailler exclusivement pour Gama. D’ailleurs, il travaille ailleurs à temps plein (40 heures par semaine) comme testeur vidéo.
+[17] Il travaille par bloc de trois heures, de 6 h à 9 h, du lundi au vendredi.
+[18] Il appelle le livreur avec son portable en arrivant pour l’informer qu’il a pris possession des journaux (300 en tout).
+[19] Quand il a fini de livrer ses journaux, il quitte. S’il reste des journaux à la fin de son bloc de trois heures, il appelle le livreur qui va venir les récupérer.
+[20] Il n’a reçu aucune formation et ne voit jamais personne de Gama.
+[21] Il ne distribuait pas de journaux pour d’autres.
+[22] S’il ne peut se présenter, il trouve un autre crieur pour le remplacer ou il appelle le livreur, qui se charge de trouver quelqu’un d’autre.
+[23] Il est arrivé une fois qu’il demande à un autre crieur de le remplacer et qu’il le paie. Ce crieur travaillait déjà pour Gama. Une autre fois, il n’a pas trouvé de remplaçant et il a joint le livreur pour que celui-ci trouve un remplaçant. S’il prend des vacances, c’est le livreur qui trouve le remplaçant.
+[24] Ses dépenses sont son cellulaire, sa carte d’autobus et ses vêtements qu’il utilise pour faire la distribution, qui se fait à l’extérieur des stations de métro.
+[25] Il se déclare travailleur autonome dans sa déclaration de revenus et réclame la déduction de ses dépenses de ses revenus. Il ne sait pas s’il est inscrit pour la TPS (c’est un comptable qui fait ses impôts).
+[26] Il ne reçoit ni bonus ni commission. Il n’y a pas moyen de faire plus de profit que le salaire payé pour son bloc de travail.
+[27] Il doit porter le dossard avec le logo du journal 24 HEURES.
+[28] Il n’a jamais reçu la visite d’un représentant de Gama.
+2e témoin: Mike St-Laurent
+[29] Mike travaille à la station Henri-Bourassa depuis trois ans pour Gama (depuis février 2016) et a fait auparavant le même travail pendant trois ans pour le compétiteur Metro. Mike a décidé de passer chez Gama parce que Metro ne lui garantissait plus deux blocs de six heures par semaine et limitait les crieurs à un seul bloc de trois heures, alors que Gama a accepté de lui donner deux blocs de six heures.
+[30] Mike était déjà travailleur autonome et a conservé ce statut, déclarant ses revenus ainsi et réclamant la déduction des dépenses pour ses vêtements (bottes, manteau, vêtements chauds).
+[31] Mike prend les journaux le matin pour les distribuer mais n’appelle personne pour signaler sa présence. Mike ne voit jamais personne de Gama et, une fois la distribution terminée, retourne à la maison.
+[32] Ce témoin dit ne pas avoir eu besoin de formation et dit pouvoir travailler pour d’autres, se considérant libre.
+[33] Mike reçoit une rémunération qui correspond à l’équivalent du salaire minimum, sans bonus ni commission, selon une entente verbale avec le dirigeant de Gama, Mario Gandolfo. Pour faire plus d’argent, il aurait fallu faire plus d’heures.
+[34] Aucun T4 ni T4A ne lui est délivré. Seule la liste des montants versés en fin d’année lui est envoyée. Le témoin n’a pu dire s’il était inscrit pour la TPS.
+[35] Son horaire de travail est de midi à 18 h et le témoin n’a jamais vu personne de Gama sur les lieux. S’il reste des journaux non distribués à la fin de son bloc, Mike ne reste pas pour les distribuer. Aucune facture ni aucune feuille de temps n’est remplie.
+[36] Mike porte le dossard qu’on lui fournit pour l’identifier mais cela ne l’empêche pas de parler à l’occasion avec les crieurs qui travaillent pour Metro.
+[37] Le témoin dit ne pas prendre de vacances.
+3e témoin: Sylvain Lapointe
+[38] Il était crieur pour Metro avant de se joindre à Gama en avril 2016. Il fait ce travail depuis 11 ans.
+[39] Il a négocié deux blocs de trois heures, non successifs pour avoir de la flexibilité (pour pouvoir s’occuper de sa mère malade), du lundi au vendredi.
+[40] Il commençait entre 5 h et 5 h 30 à la station Montmorency à Laval (600 journaux) et faisait un autre bloc de trois heures en après-midi (300 journaux) à la station de métro Cartier à Laval, où il commençait entre 14 h et 15 h 30. Ils étaient trois crieurs pour Gama et il y en avait un pour Metro à la station Montmorency.
+[41] Il lui arrivait aussi de travailler pour la société Intercontinental dans la distribution porte à porte de publi-sacs durant les week-ends. Dans ce cas, c’était des blocs de 10 heures.
+[42] Il change sa formule de présentation à chaque jour lorsqu’il fait la distribution de journaux.
+[43] Il n’a aucune interaction avec Gama et n’appelle pas pour signaler sa présence parce qu’il y a déjà deux autres crieurs présents. Il n’appelle pas non plus quand il quitte.
+[44] S’il doit se faire remplacer, il appelle un autre crieur et il paie lui-même ce dernier. En 2017, il s’est fait remplacer sept fois par un crieur de Gama et une fois par un crieur de Metro.
+[45] C’est important pour lui d’être un travailleur autonome car il a besoin d’avoir des heures flexibles.
+[46] Il a travaillé huit ou neuf ans pour Metro auparavant.
+[47] Il était rémunéré au salaire minimum, sans bonus ni commissions.
+[48] Il se déclare comme travailleur autonome dans ses déclarations fiscales et déduit ses dépenses (vêtements et passe de transport en commun). Il ne reçoit aucun T4 ou T4A et ne fait pas de factures. Il n’est pas inscrit pour la TPS.
+[49] Il porte le dossard, mais travaille quand même s’il ne l’a pas. Il n’appelle pas pour signaler sa présence à Gama. Une fois qu’il a distribué ses journaux, il quitte.
+[50] Il a pris trois semaines de vacances et il en a informé Gama, qui l’a fait remplacer pendant cette période.
+4e témoin : Mario Gandolfo (président de Gama)
+[51] Selon ce témoin, l’entreprise se spécialise dans la distribution de journaux, mais exerce aussi des activités dans les domaines du transport, de l’entreposage et du déménagement. Le journal 24 HEURES, qui était appelé avant le journal Montréal Métropolitain, existe depuis 2001.
+[52] Gama a une entente avec Québecor pour la distribution des journaux 24 HEURES. C’est le plus gros client de Gama (plus de la moitié de son chiffre d’affaires). Québecor a une entente avec la Société de transport de Montréal (STM) pour que ses journaux soient livrés dans les stations de métro. Il ne faut pas que ces journaux traînent à l’extérieur, à la demande de la STM.
+[53] Pour exécuter son contrat avec Québecor, Gama a conclu des ententes avec des crieurs pour faire la distribution des journaux dans les stations de métro de la ville de Montréal. Entre 2001 et 2011, les crieurs faisaient la distribution à l’intérieur des stations. Entre 2011 et 2016, la distribution se faisait tant à l’intérieur qu’à l’extérieur. On engage moins de crieurs à l’intérieur (90 crieurs) car il y a aussi des présentoirs dans lesquels les clients se servent directement. En février 2016, Gama n’a pu faire la distribution qu’à l’extérieur et elle a engagé 150 crieurs. Gama partage le marché de la distribution de journaux avec la société Metro.
+[54] Gama offre des blocs de trois heures selon des horaires spécifiques (de 5 h à 8 h, de 9 h à midi, de midi à 15 h et de 15 h à 18 h). On essaie de tenir compte des préférences des crieurs en les faisant travailler dans les stations de métro près de chez eux et selon les horaires qu’ils demandent, dans la mesure où il y a des postes vacants.
+[55] Les journaux sont livrés le matin à 4 h dans des sacs et on explique aux crieurs ce qu’on attend d’eux. Ils peuvent avoir à en mettre dans des présentoirs accessibles aux clients qui peuvent se servir eux-mêmes. Les crieurs doivent récupérer le restant des journaux et les distribuer.
+[56] Quand Gama engage les crieurs, on leur dit qu’ils sont engagés à titre d’entrepreneurs indépendants. Ils sont rémunérés au salaire minimum et ne sont pas payés les jours où ils ne travaillent pas (vacances, maladie, jours fériés).
+[57] Selon le témoin, le livreur passe entre 5 h et 6 h le matin pour s’assurer que les journaux ont été ramassés, mais il n’y a aucune supervision des crieurs. Lui-même se déplace également sur place pour voir si les journaux ne traînent pas. Il veut voir où le livreur a déposé les journaux et quelle quantité de journaux est disponible et voir sur le terrain comment cela fonctionne. Il regarde aussi comment fonctionne le compétiteur.
+[58] Toutefois, le témoin reconnaît que, selon l’entente avec Québecor, Gama doit veiller à ce que la distribution se fasse. Il est important pour Québecor qu’il y ait un crieur sur place. Il est arrivé au témoin de faire la distribution lui-même. Si un crieur ne peut se présenter, il doit aviser le livreur tôt le matin. Sinon, c’est le livreur qui va appeler le crieur absent. On demande au crieur de se trouver un remplaçant, que le crieur paie lui-même, mais s’il n’en trouve pas, c’est Gama qui s’en occupe en allant en chercher un dans sa banque de travailleurs occasionnels. Dans ce cas, c’est Gama qui paie ces travailleurs occasionnels. Si aucun crieur n’est disponible, le livreur va aller récupérer les journaux.
+[59] Selon le témoin, il y a certaines stations, comme celle de Berri-UQAM, où travaille Hugo Bérubé, où l’on demande au crieur d’appeler le livreur pour dire qu’il a pris possession des journaux. Il explique qu’on ne peut laisser traîner de journaux trop longtemps dans cette station très achalandée, pour des raisons de sécurité.
+[60] On demande aux crieurs de porter le dossard, à cause de l’entente avec Québecor, pour permettre de bien identifier les journaux 24 HEURES. Si le crieur l’a oublié, on lui prête un chandail avec le logo de 24 HEURES pour l’identifier. Apparemment, les crieurs d’eux-mêmes s’abstiennent de fumer ou de manger pendant la distribution. Ils font cela pendant des pauses quand l’achalandage est minime. Le témoin dit que les crieurs peuvent parler aux autres crieurs, qui travaillent pour le compétiteur, mais doivent se concentrer sur la distribution.
+[61] Le témoin dit qu’on n’exige pas des crieurs l’exclusivité parce qu’ils travaillent à temps partiel et sont autonomes. Toutefois, il reconnaît que pendant leur bloc de travail les crieurs ne peuvent travailler pour un compétiteur.
+[62] Le témoin dit que le crieur peut quitter avant la fin de son bloc horaire s’il n’a plus de journaux à distribuer.
+[63] Bruno, le frère du témoin, s’occupe de l’imprimerie et du transport. Il est arrivé à Bruno, ainsi qu’à un dénommé Sami, de faire des entrevues pour engager des crieurs.
+[64] En contre preuve, le témoin a reconnu que lui, son frère Bruno et Sami passaient régulièrement dans différentes stations (pas toutes parce qu’il y en a 68) pour voir si tout fonctionnait bien et faire la gestion du stock afin d’équilibrer le triage. Il a confirmé qu’il y avait 10 stations pour lesquelles on engageait plus que trois crieurs et que, dans les 58 autres, on n’envoyait qu’un seul crieur. Il a aussi confirmé qu’on voulait aussi s’assurer que les crieurs étaient sur place, présents. Si on ne recevait pas d’appel du crieur dans une station, le témoin ou un autre se rendait directement à la station pour voir si le crieur y était. Si le crieur n’y était pas, il essayait de le trouver et s’il demeurait sans nouvelles, il repartait avec les journaux.
+[65] Il n’y avait pas de consignes à donner aux crieurs sauf s’ils étaient nouveaux.
+[66] Le témoin a aussi mentionné qu’une grande proportion des crieurs quittaient Gama de leur propre chef. Il y a beaucoup de roulement dans ce travail.
+[67] Il a expliqué qu’en haute saison Gama distribuait 150 000 exemplaires par jour et que l’été cela baissait à entre 105 000 et 115 000.
+[68] Pour ce qui est de M. Levasseur (un témoin de l’intimé), qui a mentionné qu’on lui avait réduit ses heures en été parce qu’il n’y avait pas assez de journaux à distribuer, le témoin a mentionné que son frère Bruno lui avait sûrement proposé de lui en apporter d’autres et que M. Levasseur aurait décidé tout simplement de quitter. Bruno n’est pas venu témoigner.
+[69] Quant aux inspections-surprises, il a dit qu’il n’y en avait pas à sa connaissance et que c’était peut-être des représentants de Québecor qui en faisaient.
+[70] Dans la période en litige, Gama avait le contrat de distribuer à l’intérieur des stations et on engageait moins de crieurs (de 80 à 90 crieurs).
+[71] Selon lui, les trois crieurs appelés à la barre par Gama représentent plus fidèlement l’ensemble des crieurs que ceux appelés par l’intimé. On n’avait pas à les superviser (« coacher »); ils appelaient rarement; on allait les rencontrer; on n’avait pas de problème avec eux ; ils étaient autonomes.
+[72] Ils n’ont pas eu à suspendre un travailleur, à l’exception peut-être de M. Flahiff (un autre témoin de l’intimé).
+Témoins de l’intimé
+5e témoin : Claude Larose
+[73] Ce témoin a déposé un avis d’intervention.
+[74] Il a travaillé neuf mois pour Gama en 2014. Il s’est fait engager par Sami, qui était son superviseur, d’abord pour travailler à la station de métro Langelier, et ensuite à la station de métro Joliette pour monter la station. Il travaillait cinq blocs de trois heures par semaine, le matin de 6 h à 9 h. Il était payé le salaire minimum (10,35 $ de l’heure) et a reçu une rémunération supplémentaire pour le temps supplémentaire passé à Joliette pour monter la station (10 $ à 15 $ de plus sur sa paie hebdomadaire), où il commençait à travailler à 5 h 30. Cela lui prenait 30 minutes pour monter la station (prendre les journaux, les compter et les mettre dans les présentoirs et ensuite compter le nombre de journaux restant et les remettre dans des sacs ; il comptait aussi les journaux Metro). Il n’a rien négocié et a accepté les conditions qu’on lui imposait. Il appelait Sami chaque matin en arrivant, et aussi en partant pour lui dire la quantité restante de journaux et le nombre de journaux écoulés. Parfois il oubliait et Sami n’était pas content.
+[75] Il ne pouvait pas quitter avant la fin de son bloc horaire. S’il n’avait plus de journaux, il devait aller en prendre dans les présentoirs. Sami ne venait pas souvent (peut-être deux ou trois fois), mais il devait l’appeler chaque jour. Sami pouvait lui dire d’augmenter la distribution. Quand il ne pouvait faire son bloc d’heures, il appelait Sami, qui trouvait un remplaçant. Le témoin ne savait pas qu’il pouvait se trouver lui-même un remplaçant.
+[76] Il n’avait pas de contrat. Il ne donnait aucune facture. On lui a dit qu’il était un travailleur autonome. Il était payé par chèque. Il déclarait ses revenus sous « autres revenus » mais n’a réclamé la déduction d’aucune dépense. Il n’était pas inscrit pour la TPS.
+[77] Il ne faisait pas la distribution d’autres journaux.
+6e témoin : Georges Flahiff
+[78] Ce témoin a déposé un avis d’intervention.
+[79] Il a travaillé pour Gama cinq ou six mois en 2016 (du printemps au mois de décembre).
+[80] Il avait fait ce travail de camelot pour Metro pendant six ou sept ans. Il s’est fait engager par Bruno, qui lui avait dit qu’il était un travailleur autonome. Ce dernier lui aurait dit qu’il n’avait pas à déclarer ses revenus. Toutefois, il a admis qu’il n’avait jamais déclaré ses revenus lorsqu’il travaillait chez Metro et qu’on le considérait également comme un travailleur autonome.
+[81] Il était payé au salaire minimum, sans négociation. Il n’avait droit à aucun bonus ni commission. Il n’avait aucun contrat.
+[82] Son superviseur, Daniel Racette, était très exigeant. Le témoin travaillait de 6 h 30 à 9 h 30 et son superviseur pouvait lui demander de travailler en après-midi aussi. Il n’avait pas le droit de fumer ou de manger pendant la distribution et n’avait pas de pause-café. Il avait l’impression que M. Racette le surveillait de près, car il le croisait trois ou quatre fois dans la journée. Il ne savait pas toutefois que M. Racette faisait aussi de la distribution auprès de commerçants dans les mêmes environs. Mais il devait l’appeler en arrivant et M. Racette pouvait l’envoyer ailleurs pour écouler les journaux qui restaient. Il ne pouvait pas quitter avant la fin de son bloc horaire.
+[83] Il a travaillé dans l’ouest de la ville (stations Lucien-L’Allier, Guy‑Concordia et Berri-UQAM). Il ne pouvait pas parler trop longtemps à la clientèle et il lui était interdit de parler aux autres crieurs.
+[84] Il était payé au début par chèque et ensuite par dépôt direct. Il ne faisait pas de factures. Il n’était pas inscrit pour la TPS. Il a reçu une fiche faisant état de ses revenus totaux (5500 $). Il ne pouvait pas aller travailler pour le compétiteur.
+7e témoin : M. Arona Mbaye, agent des appels ARC
+[85] La première demande d’assurabilité est venue d’Aliaksandr Shytsikau, qui a fait une demande d’assurance-emploi. Il n’avait pas de relevé d’emploi, mais la décision a été rendue de le rendre assurable. L’examinateur des comptes en fiducie (agent ACF) a ensuite fait la demande pour neuf autres travailleurs et la décision a été de les rendre assurables.
+[86] Des cotisations ont ensuite été établies pour les 218 travailleurs. En appel de ces cotisations, M. Mbaye a dit qu’il avait effectué 20 entrevues (M. Mbaye a expliqué qu’il avait fait une sélection représentative de personnes qui avaient travaillé au moins un an, selon un échantillonnage de 10 sur 100 lui permettant de vérifier la régularité des réponses) et a conclu à l’assurabilité des 218 travailleurs. Il a ainsi confirmé les cotisations.
+[87] Aucune période en litige n’est contestée, ni le quantum de la cotisation. Seule l’assurabilité des travailleurs est en cause.
+[88] Pour M. Mbaye, il est clair que le payeur considérait tous les travailleurs comme des travailleurs autonomes. Quant aux travailleurs, certains ne savaient pas ce qu’était un travailleur autonome et s’ils se considéraient ainsi, ce n’était pas par choix. Parmi les autres, il y en avait qui se considéraient comme des employés et d’autres qui se considéraient comme des travailleurs autonomes.
+[89] Le témoin dit que la majeure partie des travailleurs acceptaient d’être autonomes non par choix mais parce qu’ils devaient travailler. La plupart étaient sur l’aide sociale. Beaucoup n’ont pas déclaré leurs revenus par peur de perdre l’aide sociale. D’autres s’étaient fait dire que ce n’était pas nécessaire de déclarer leurs revenus car on ne leur remettait pas de T4.
+[90] Tous travaillaient à temps partiel (généralement six heures, le maximum étant 25 heures). Tout le monde gagnait un revenu inférieur à 30000 $.
+[91] En ce qui concerne l’exécution du travail, une des personnes interrogées était chef d’équipe et crieur en même temps. S’il y avait plus de trois crieurs dans une station, il y avait un chef d’équipe désigné qui assurait la liaison avec le payeur. Daniel Levasseur, lui aussi témoin en l’instance, était l’un d’eux.
+[92] Tout le monde était payé le salaire minimum. C’était à accepter sans négociation. Tous étaient payés selon le nombre d’heures travaillées, la plupart par dépôt direct.
+[93] Selon la majorité, ils devaient appeler en arrivant, et en partant pour indiquer le nombre de journaux distribués. Il y avait au moins cinq personnes qui supervisaient. C’était le chef d’équipe qui transmettait l’information lorsqu’il y avait plus d’un crieur sur place.
+[94] Tous avaient un contrat verbal de durée indéterminée.
+[95] Selon le témoin, les crieurs travaillaient exclusivement pour Gama selon l’horaire déterminé. Ils ont pratiquement tous dit qu’ils ne pouvaient pas travailler en même temps pour le compétiteur.
+[96] Selon le témoin, il y avait un contrôle. Il fallait distribuer rapidement les journaux et ne pas manger ni fumer pendant les blocs horaires.
+[97] Il y avait intégration parce que le travail de ces crieurs était intégré aux activités économiques quotidiennes du payeur, dont la principale source de revenus était la distribution de journaux.
+[98] Les blocs d’heures étaient prédéterminés par le payeur et les crieurs choisissaient le bloc horaire. Ils étaient payés à l’heure et ne pouvaient quitter avant d’avoir complété leur bloc horaire, et ils devaient aviser le chef d’équipe ou le superviseur.
+[99] Aucune marge de profit n’était possible puisqu’ils étaient payés uniquement pour leurs heures de travail.
+[100] Les témoins qui ont dit s’être fait remplacer parlaient pour l’année 2017, qui n’est pas en litige.
+[101] Les travailleurs devaient se conformer à une ligne de conduite. Le témoin s’est fait dire que les travailleurs pouvaient être suspendus s’ils ne se conformaient pas aux consignes.
+[102] Il a reconnu en contre-interrogatoire que le cas d’Aliaksandr Shytsikau a été très déterminant dans sa prise de décision. Il a regardé tous les faits dans leur ensemble. Il était d’avis que Gama exerçait un certain contrôle. Il n’a pu dire à quelle fréquence on allait sur place faire des visites-surprises. Il n’a pas pu dire non plus si d’autres avaient été congédiés ou suspendus.
+8e témoin : Daniel Levasseur
+[103] Il a travaillé pour Gama d’octobre 2014 à juillet 2017. Au début, il a été engagé comme simple crieur. Il a d’abord eu une formation à la station de métro Henri-Bourassa d’une semaine et demie. Il a travaillé seul dans la station de métro Sauvé pendant un an et demi et ensuite à l’extérieur d’une autre station de métro avec d’autres crieurs.
+[104] Il a été désigné chef d’équipe par Gama et s’est fait expliquer qu’il devait veiller à ce que les autres crieurs portent le dossard et qu’il devait faire un rapport sur le nombre de journaux distribués dans la journée. Il a reconnu que ce rapport servait à des fins d’inventaire pour Gama, mais a aussi dit que Gama mettait de la pression sur lui et ses crieurs pour augmenter la distribution s’il restait trop de journaux.
+[105] Il était rémunéré au salaire minimum et ce, même en tant que chef d’équipe. Il ne recevait ni bonus ni commission. Pour faire plus d’argent, il fallait travailler plus de blocs d’heures. Il a lui-même travaillé trois blocs de trois heures par jour pendant quelques mois.
+[106] Le payeur l’a engagé comme un travailleur autonome et lui remettait en fin d’année une feuille résumant les gains de l’année pour qu’il puisse faire ses déclarations de revenus.
+[107] On lui assignait une station de métro et le bloc horaire. Lui-même se sentait plus un employé qu’un travailleur autonome. Il ne prenait aucune décision.
+[108] Comme chef d’équipe, il calculait le nombre de journaux (environ 2000 à 3000 en haute saison) qui devaient être écoulés dans le courant de la journée, vérifiait si tout le monde entrait à l’heure et appelait le superviseur pour l’en informer. Il appelait également le superviseur pour lui faire un compte rendu des journaux restant quand il quittait. Il devait les ramasser et les mettre à un certain endroit pour que le livreur vienne les récupérer.
+[109] Son superviseur était Bruno Gandolfo.
+[110] On demandait aux crieurs de porter un pantalon noir, qu’ils devaient se procurer à leurs frais. Gama fournissait le dossard — dans lequel le crieur devait insérer un journal dans une pochette dans le dos —, la casquette et le chandail. Si les crieurs ne portaient pas le costume, les conséquences se limitaient à des réprimandes verbales.
+[111] On leur demandait de ne pas fumer et on leur disait que fumer sur les lieux pouvait entraîner des conséquences sévères.
+[112] S’il devait se faire remplacer, c’était Gama qui s’en occupait. En deux ans, il s’est absenté deux fois. Il a pris des vacances aussi, à ses frais, et c’est Gama qui lui a trouvé un remplaçant. Il ne pouvait pas embaucher n’importe qui pour le remplacer. Il fallait passer par le bureau pour donner toutes sortes d’informations.
+[113] S’il n’y avait pas assez de journaux pour finir le bloc horaire, on essayait d’en trouver d’autres, et s’il n’y en avait plus, il quittait avant la fin du bloc horaire sans être payé pour le temps non travaillé. Ceci est arrivé l’été lorsqu’il y avait moins d’achalandage dans les métros et donc moins de journaux imprimés.
+[114] Les superviseurs passaient généralement pour voir le nombre de journaux et en laisser s’il en manquait. Ils pouvaient donner des conseils au passage et s’assurer que chacun portait son dossard pour être plus visible. Il semblait même dire qu’on pouvait aussi les observer de loin.
+[115] On leur mettait de la pression pour distribuer plus de journaux que le compétiteur. Mais il n’avait pas de consignes directes de ne pas travailler pour le compétiteur.
+[116] Il n’était pas inscrit pour la TPS et n’avait aucune dépense, même pas de téléphone cellulaire. Il appelait d’un téléphone public (c’était sa seule dépense).
+[117] Lui-même ne réprimandait pas les autres crieurs, mais il se faisait rappeler par le superviseur de le faire. Bruno passait en début et en fin de quart pour voir la quantité de journaux et en même temps vérifier si tout se passait bien et si les crieurs portaient le dossard.
+9e témoin : Martin Demers
+[118] Ce témoin a déposé un avis d’intervention.
+[119] Il travaille pour Gama depuis le 31 janvier 2012 et y travaille encore.
+[120] Il a été engagé par un dénommé Fouad alors qu’il voulait se sortir de l’aide sociale.
+[121] On lui a demandé de se présenter la première fois à la station Henri Bourassa pour rencontrer une certaine Nathalie, qui lui a expliqué ce qu’il avait à faire. Il a eu une formation d’une journée.
+[122] On lui a octroyé le salaire minimum sans négociation : pas de bonus ni de commission. Il ne faisait pas de factures et n’avait aucune dépense.
+[123] On ne lui a jamais dit qu’il était un travailleur autonome. Il s’est toujours cru un salarié jusqu’en 2016 quand il a reçu une lettre de l’ARC lui disant qu’il devait payer des cotisations d’assurance-emploi. Même s’il n’y avait pas de retenues à la source sur son salaire, il s’est toujours considéré comme un salarié et a ainsi déclaré ses revenus au fisc. Selon lui, il n’avait pas la responsabilité de demander à l’employeur de lui remettre un T4. Son obligation était de déclarer ses revenus, ce qu’il a fait.
+[124] Outre la distribution des journaux, ses tâches consistaient à compter les journaux en arrivant et en partant et à aviser son superviseur du nombre en se servant de son téléphone cellulaire. Son superviseur disait qu’il avait besoin de cette information pour ajuster le stock, mais il mettait toujours la même quantité de journaux chaque matin, que le témoin lui ait dit la veille qu’il en restait ou qu’il lui ait dit qu’il n’en restait pas.
+[125] Il n’avait pas réellement de consignes, sauf celles de parler fort, de ne pas fumer ni parler au téléphone et de porter le dossard ou le manteau fourni par Gama, de même qu’un pantalon noir. Il a reçu ces consignes d’abord de Nathalie et ensuite de son superviseur Serge. S’il ne les respectait pas, il se faisait réprimander. On lui demandait aussi d’avoir le moins de contacts possibles avec ceux qui travaillaient pour le compétiteur.
+[126] Son horaire de 6 h à 9 h a été décidé par Gama. Il n’était pas libre de le modifier. Il aurait aussi travaillé des semaines de trois blocs de cinq heures par semaine, totalisant quinze heures par semaine.
+[127] S’il devait s’absenter ou quitter plus tôt, il n’était pas payé le plein montant pour son bloc horaire. Il était payé uniquement pour les heures où il travaillait. Cela est arrivé plus de cinq fois.
+[128] Son superviseur Serge passait en personne presque tous les jours. Parfois, Serge ne faisait que saluer le témoin de la main. S’il ne passait pas, le témoin devait l’appeler.
+[129] On lui proposait des formules à dire aux clients en distribuant ses journaux.
+[130] C’est Gama qui déterminait dans quelle station il travaillait. Il a travaillé aux stations Crémazie, Mont-Royal et finalement Laurier, plus près de chez lui.
+[131] S’il ne pouvait faire son bloc de travail ou s’il prenait des vacances, il avisait Gama, qui lui trouvait un remplaçant.
+[132] Outre le dossard et le manteau, Gama fournissait aussi deux t-shirts, une casquette et une tuque.
+10e témoin : Aliaksandr Shytsikau
+[133] Il est un immigrant qui est arrivé au Canada en 2011.
+[134] Il a travaillé pour Gama du 14 mars 2014 au 20 mars 2014 et du 18 avril 2014 au 27 janvier 2015. On lui a dit qu’il était engagé comme travailleur autonome.
+[135] L’interruption entre le 20 mars 2014 et le 18 avril 2014 a été volontaire. Il est allé suivre une formation pour devenir préposé aux bénéficiaires, mais n’ayant pas réussi cette formation, il est revenu chez Gama ensuite.
+[136] Avant de travailler pour Gama, il avait travaillé comme camelot pour Distribution Métropolitain (Metro) dans les mêmes conditions, c’est-à-dire sans aucune retenue à la source comme travailleur autonome. Il a contacté Marc Bissonnette chez Gama.
+[137] On lui a offert le salaire minimum (tout comme chez Metro d’ailleurs). Il n’a signé aucun contrat et n’a rien négocié.
+[138] Il a travaillé à la station Angrignon près de chez lui et on lui a demandé d’être chef d’équipe. Il a demandé s’il pouvait avoir une augmentation de salaire comme chef d’équipe. En réponse, on lui aurait réduit le nombre d’heures de travail. Il dit qu’il travaillait sept heures par jour et, le lundi suivant sa demande d’augmentation, on lui a dit d’aller travailler à la station de métro Lasalle, où il était seul, pour un bloc de trois heures uniquement. Selon lui, il a été mis en disgrâce. Son superviseur Marc mettait lui-même les journaux dans les présentoirs à 6 h le matin et passait en voiture pour voir si le témoin y était. Ensuite, il a travaillé à la station de métro Jolicoeur et il mettait lui-même les journaux dans les présentoirs et son superviseur Marc passait plus souvent sur les lieux. Le témoin le contactait en rentrant chez lui (il n’avait pas de cellulaire) pour l’aviser du nombre restant de journaux.
+[139] Ses tâches consistaient à compter les journaux le matin, à mettre le nombre requis d’exemplaires dans les présentoirs et à aviser le superviseur du nombre d’exemplaires restants à la fin de son bloc horaire. Il arrivait à 5 h 30 et finissait à 9 h 30.
+[140] Il a reçu des consignes de Bruno, de Fouad et d’un autre. On lui a dit où s’installer pour la distribution (il y a trois sorties à la station Angrignon). Ils étaient deux ou trois crieurs et parfois quatre. Pour les vêtements, on lui demandait de porter un pantalon noir et des chaussures fermées. Il a dit que tous les crieurs connaissaient les consignes et lui-même n’intervenait pas si l’un d’eux ne s’y conformait pas.
+[141] Lorsqu’il s’est absenté pour sa formation au début de 2014, c’est Gama qui lui a trouvé un remplaçant.
+[142] Le 27 janvier 2015, sa dernière journée de travail, il a avisé Gama qu’il allait suivre une formation d’agent de sécurité d’une durée de deux jours. Il a dit à Marc que s’il réussissait il ne reviendrait pas. Quand il a rappelé Marc pour revenir travailler chez Gama, on lui a dit qu’il n’y avait plus de place.
+[143] C’est alors qu’il a demandé l’assurance-emploi. Il a reçu une lettre de l’ARC disant qu’il avait occupé un emploi assurable. C’est à ce moment qu’il s’est demandé ce qu’était la différence entre un travailleur autonome et un salarié. Il a alors réalisé qu’il était également un salarié quand il travaillait pour Metro.
+[144] Il a déclaré ses revenus soit comme revenus d’emploi, soit comme autres revenus dans les années en litige. Lorsqu’il a demandé un relevé d’emploi aux fins de l’assurance-emploi, on lui a envoyé à la place un relevé des montants qui lui avaient été versés dans l’année et un avis qu’il était un travailleur autonome.
+Arguments de l’appelante
+[145] L’appelante fait remarquer en tout premier lieu que l’intimé a admis dans sa réponse à l’avis d’appel que le travailleur n’était pas tenu de faire un compte rendu de son temps et de ses activités à l’appelante. L’appelante ne faisait que s’assurer que le travailleur se présentait à la station de transport en commun déterminée par les parties pour effectuer la distribution des journaux selon les termes de l’entente. En aucun temps, l’appelante ne dictait au travailleur la façon d’effectuer la distribution des journaux. Le travailleur était libre de distribuer les journaux de la façon qu’il jugeait la plus efficace dans les circonstances. De plus, l’appelante ne fournissait pas de formation au travailleur quant à la prestation de services (Avis d’appel, 2017-2212(EI) par. 16 ; Réponse à l’avis d’appel, 2017‑2212(EI) par. 1).
+[146] On a expliqué que si l’on accordait de l’importance à s’assurer que le crieur était sur place le matin, c’était tout simplement dans le but de s’assurer que les journaux ne traînent pas à l’entrée de la station de métro, à la demande de la STM.
+[147] Quant à la demande aux crieurs d’aviser Gama, à la fin de leur bloc horaire, du nombre d’exemplaires restants, on le faisait pour pouvoir gérer le stock et planifier le nombre de crieurs requis par station.
+[148] Par ailleurs, l’intimé a également admis dans sa réponse à l’avis d’appel que le travailleur était payé sur une base forfaitaire, équivalant à trois heures de travail au salaire minimum par jour et ce, même s’il était en mesure d’effectuer la distribution de journaux dans un délai plus court (Avis d’appel, 2017-2212(EI), par. 38 et Réponse à l’avis d’appel, 2017-2212(EI), par. 9).
+[149] Il a aussi été admis qu’on fournissait un manteau, un dossard et les journaux à distribuer au travailleur (Avis d’appel, par. 43 ; Réponse à l’avis d’appel, par. 11).
+[150] L’appelante soutient que ce sont les livreurs et non des superviseurs qui agissaient comme personnes ressources en cas d’absence ou en cas de manque de journaux. Ceci se faisait pour pallier les problèmes de logistique de stock. On demandait aux crieurs de signaler le nombre de journaux distribués, mais ceux-ci n’avaient aucun compte à rendre quant à l’exécution de la distribution.
+[151] Pour ceux qui ont témoigné avoir eu l’impression d’être surveillés, la preuve ne révèle aucune sanction ou aucune conséquence tangible en cas de non-respect des consignes. Quant aux réductions de la rémunération, la preuve ne révèle pas, sauf peut-être pour un cas, que le travailleur voyait diminuer sa rémunération s’il n’y avait pas assez de journaux à distribuer.
+[152] Quant au choix de la station, on donnait dans la mesure du possible la station qui convenait le mieux au travailleur.
+[153] L’appelante prétend également qu’on ne demandait pas aux travailleurs de travailler exclusivement pour elle, bien qu’elle reconnaisse qu’on ne voulait pas qu’ils s’engagent auprès d’une entreprise concurrente.
+[154] L’appelante soutient que l’intention des parties est primordiale et qu’il s’agit là d’un facteur déterminant lorsque les facteurs pertinents pour établir le statut d’un travailleur appuient avec autant de force l’existence d’un contrat d’emploi et l’existence d’un contrat d’entreprise (Wolf c. La Reine, 2002 CAF 96, par. 122).
+[155] L’appelante ajoute que les travailleurs dans cette industrie ont toujours été considérés comme des travailleurs autonomes (la preuve a révélé que les crieurs qui travaillaient pour Metro étaient aussi considérés comme autonomes). Elle soutient qu’il y a une décision rendue par la Commission de la santé et de la sécurité du travail selon laquelle celle-ci les considère comme autonomes (cette décision n’a toutefois pas été déposée en preuve).
+[156] L’appelant conclut en disant qu’il s’agissait somme toute d’un travail relativement simple pour lequel il n’y avait ni supervision ni contrôle.
+Arguments de l’intimé
+[157] De son côté, l’avocat de l’intimé est d’avis que, selon la prépondérance de la preuve, il existait un contrat de louage de services pour tous ces travailleurs. Il considère qu’il faut s’attarder à la crédibilité des témoignages.
+[158] D’une part, il n’y avait aucune entente écrite, seulement des ententes verbales.
+[159] Quant aux trois travailleurs appelés à la barre par l’appelante, l’intimé fait remarquer que deux de ces travailleurs ont commencé à travailler à la fin de la période en litige et que le troisième n’est pas un travailleur visé dans le présent litige. (En fait, aucun de ces travailleurs n’apparaît à l’Annexe A et donc ils ne sont pas visés par ce litige).
+[160] Ceux qui disent avoir sous-traité l’ont fait en 2017, soit après la période en litige (2014 à 2016).
+[161] De plus, M. Bérubé (un des témoins de l’appelante) a reconnu qu’il n’aurait pu aller travailler pour une entreprise concurrente. Cela démontre en quelque sorte l’exclusivité exigée des travailleurs.
+[162] L’intimé considère que M. Gandolfo a témoigné de façon contradictoire en preuve principale et en contre-preuve. Bien qu’il ait dit dans un premier temps qu’il n’y avait pas de supervision, il a reconnu en contre-preuve que lui ou d’autres pouvaient observer les crieurs. D’ailleurs, la preuve révèle que le contrat avec Québecor représente la plus grosse partie du chiffre d’affaires de Gama. L’intimé en infère qu’il soit normal que Gama exerce un certain contrôle sur le travail de ses crieurs.
+[163] Certains travailleurs ont mentionné qu’ils étaient supervisés par Bruno Gandolfo. L’intimé fait remarquer que ce dernier faisait partie de la liste des témoins de l’appelante et que celle-ci a décidé, sans explications, de ne pas le faire témoigner.
+[164] En ce qui concerne la baisse de rémunération, l’intimé souligne que des travailleurs ont dit qu’ils n’avaient pas été payés pour le bloc de trois heures au complet à certaines occasions (Claude Larose, Daniel Levasseur, Martin Demers). M. Gandolfo a commencé par dire qu’il n’était pas au courant de cela et a ensuite dit qu’il supposait que c’était suite à la décision du travailleur de ne pas rester pour tout le bloc horaire. Personne de Gama n’est venu contredire les trois témoins à ce sujet. Les témoins de l’appelante qui ont dit pouvoir quitter avant la fin du bloc de trois heures sans affecter leur rémunération ont dit que cela s’était passé en 2017 (après la période en litige).
+[165] L’intimé est d’avis que Gama exerçait une supervision sur les crieurs (par la petite formation qu’on leur donnait au début, par le dossard ou le manteau qu’on leur demandait de porter, par les exigences de ne pas fumer ni manger ni parler au téléphone, par le passage des superviseurs sur place et par les appels que les travailleurs devaient faire à chaque jour au superviseur).
+[166] Quant à l’intention d’être reconnu comme travailleur autonome, l’agent des appels a fait remarquer que certains travailleurs ne comprenaient pas, en commençant à travailler, ce que c’était un travailleur autonome et ont accepté les conditions imposées par Gama parce qu’ils voulaient tout simplement travailler. D’autres se considéraient comme des employés.
+[167] L’intimé se réfère à certaines décisions pour justifier le statut d’employé des crieurs. Il distingue tout d’abord les crieurs des livreurs dans l’arrêt Le Livreur Plus Inc. c. Canada, 2004 CAF 68. Dans cette affaire, les livreurs ont été considérés comme des travailleurs autonomes. Ils avaient tous un contrat écrit. Ils utilisaient leur propre véhicule automobile à leurs frais pour faire les livraisons de médicaments. Ils étaient responsables de la perte de médicaments ou du radio émetteur-récepteur qu’on leur fournissait. Ils assumaient donc une grande part de risque et, à l’opposé, bénéficiaient de possibilités de profit. Ils devaient également trouver une personne pour les remplacer en cas d’absence ou d’impossibilité de faire eux-mêmes les livraisons.
+[168] Dans l’affaire Millard c. Le ministre du Revenu national, 2008 CCI 353, la Cour a considéré un livreur pour un journal local comme étant un travailleur autonome. Le livreur achetait les journaux du payeur et les livrait selon son propre moyen de locomotion (en automobile ou à pied). Plus il avait de clients, plus il faisait d’argent. On a conclu qu’il agissait plus comme un grossiste et qu’il n’était pas intégré aux activités économiques du payeur.
+[169] L’intimé se réfère aussi à l’arrêt Grimard c. Canada, 2009 CAF 47, [2009] 4 R.C.F. 592. Dans cet arrêt, au paragraphe 36, la cour cite Robert P. Gagnon, qui écrit dans Le droit du travail du Québec, 5e éd., Cowansville (Qc), Yvon Blais, 2003, aux pages 66 et 67, que la notion de subordination juridique s’est assouplie pour prendre un sens plus large. Il n’est plus nécessaire d’établir que le payeur exerce une surveillance immédiate sur l’exécution du travail. On assimile la subordination à la faculté pour le payeur de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler, selon un certain nombre d’indices d’encadrement (tels que la présence obligatoire à un lieu de travail, l’assignation plus ou moins régulière du travail, l’imposition de règles de conduite ou de comportement, l’exigence de rapports d’activité et le contrôle de la quantité ou de la qualité de la prestation). Par ailleurs, l’intention n’est pas à elle seule déterminante quant à la qualification du contrat (par. 33, citant D & J Driveway Inc. c. M.R.N., 2003 CAF 453).
+[170] L’intimé est d’avis qu’il ressort de la preuve plusieurs éléments de contrôle dans l’exécution du travail (horaire imposé, vêtements requis, le fait d’avoir à signaler la présence des crieurs, formules suggérées à utiliser lors de la distribution, endroit de travail attribué par Gama, présence des superviseurs à l’improviste, consignes sur le tabac, la nourriture, le téléphone). On n’acceptait pas que les crieurs travaillent pour des concurrents.
+[171] Par ailleurs, c’est Gama qui s’occupait de remplacer les crieurs lorsqu’ils n’étaient pas disponibles. Aucune facture n’était soumise. Aucun crieur n’était inscrit pour la TPS. Il n’y avait aucune chance de profit ni aucun risque de perte. Les travailleurs faisaient partie intégrante de l’entreprise de Gama. Peu importe la quantité distribuée de journaux, les crieurs ne participaient pas aux profits de cette entreprise.
+Analyse
+[172] Dans l’arrêt Le Livreur Plus, précité, la Cour d’appel fédérale rappelait des principes juridiques régissant la détermination de la relation contractuelle entre les parties. La Cour se prononçait ainsi aux paragraphes 17 à 21:
+[17] La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D & J Driveway Inc. c. Le ministre du Revenu national, 2003 CAF 453. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenu national, 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 C.F. 396 (C.A.F.); Procureur général du Canada c. Les Productions Bibi et Zoé Inc., 2004 C.A.F. 54.
+[18] Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+[19] Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), 2002 F.C.A. 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur » .
+[20] Je suis d'accord avec les prétentions de la demanderesse. Un sous-entrepreneur n'est pas une personne libre de toute contrainte qui travaille à son gré, selon ses inclinations et sans la moindre préoccupation pour ses collègues co-contractants et les tiers. Ce n'est pas un dilettante à l'attitude cavalière, voire irrespectueuse, capricieuse ou irresponsable. Il oeuvre dans un cadre défini, mais il le fait avec autonomie et à l'extérieur de celui de l'entreprise de l'entrepreneur général. Le contrat de sous-traitance revêt souvent un caractère léonin dicté par les obligations de l'entrepreneur général : il est à prendre ou à laisser. Mais sa nature n'en est pas altérée pour autant. Et l'entrepreneur général ne perd pas son droit de regard sur le résultat et la qualité des travaux puisqu'il en assume la seule et entière responsabilité vis-à-vis ses clients.
+[21] Enfin, fixer la valeur de la rémunération, définir le but recherché ou effectuer le paiement des travaux par chèque ou autrement n'équivalent pas à contrôler un travail puisque ces éléments se retrouvent autant chez un contrat d'entreprise que chez un contrat de travail : Canada (Procureur général) c. Rousselle et al. (1990), 124 N.R. 339 (C.A.F.).
+[173] Par ailleurs, en droit civil québécois, on définit les éléments requis pour l’existence d’un contrat de travail (employeur/employé) ou d’un contrat d’entreprise (travailleur contractuel). L’article 2085 du Code civil du Québec (CcQ) exige, pour qu’il y ait un contrat de travail, une prestation de travail, une rémunération et un lien de subordination. L’article 2099 CcQ requiert pour le contrat d’entreprise l’absence de lien de subordination entre l’entrepreneur et le client quant à l’exécution du contrat. De plus, le législateur québécois ajoute dans la définition le libre choix par l’entrepreneur des moyens d’exécution du contrat.
+[174] Ainsi, la notion de contrôle est une caractéristique essentielle du contrat de travail (contrat d’emploi). Cette notion de subordination ou de contrôle fait appel à des indices d’encadrement que l’on qualifie de points de repère. Font partie de ces indices d’encadrement l’intégration du travailleur dans l’entreprise, les chances de profit et les risques de perte, de même que la propriété des instruments de travail (Grimard, précité, par. 37 à 42).
+[175] De plus, dans l’arrêt 1392644 Ontario Inc., S/N Connor Homes c. Le ministre du Revenu national, 2013 CAF 85, la Cour d’appel fédérale rappelle que l’intention expresse des parties est un élément essentiel à considérer lorsqu’il s’agit bien d’une intention commune (par. 33). Toutefois, il faut reconnaître que les parties ne sont pas toujours en position de négociation égale et dans ce contexte la situation juridique des parties ne peut être déterminée en fonction de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable (par. 35 et 37).
+[176] La première étape consiste donc à établir l’intention subjective de chacune des parties à la relation (on peut la déduire du comportement effectif de chacune d’elles, en examinant les factures pour les services rendus et en examinant si la personne s’est inscrite aux fins de la TPS et si elle a produit des déclarations de revenus en tant que travailleur autonome) (Connor Homes, par. 39).
+[177] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. En d’autres termes, est-ce que les modalités du contrat, selon les différents facteurs applicables, reflètent bien la qualification juridique que les parties ont donnée à leur relation (Connor Homes, par. 40 à 42).
+L’intention des parties
+[178] Ici, il est clair que l’appelante avait l’intention de retenir les services des crieurs comme travailleurs autonomes.
+[179] Cette intention n’est pas aussi claire du côté des crieurs. Bien qu’il semble qu’à peu près tous ont été informés par l’appelante qu’elle les engageait comme travailleurs autonomes, il ressort de la preuve des témoins de l’intimé qu’ils n’avaient pas vraiment d’autre choix que d’accepter cette qualification de leur contrat s’ils voulaient travailler. Certains ne comprenaient pas nécessairement ce que cela pouvait signifier. D’autres se considéraient carrément comme des salariés. Il y en a qui n’ont tout simplement pas déclaré leurs revenus, quelques‑uns ont déclaré un revenu d’emploi et la plupart ont déclaré leurs revenus comme « autres revenus » en réclamant la déduction des dépenses, telles que leurs vêtements ou leur carte d’autobus.
+[180] Les témoins de l’appelante se considéraient comme des travailleurs autonomes, mais n’étaient pas inscrits aux fins de la TPS. Aucun travailleur ne remettait de facture à l’appelante. Ils recevaient un salaire fixe prédéterminé.
+[181] Il faut aussi noter, toutefois, que tous ceux qui avaient travaillé auparavant pour le compétiteur Metro étaient également considérés comme des travailleurs autonomes par cette entreprise.
+[182] Dans ce contexte, il me faut analyser la réalité objective du contrat juridique qui existait entre l’appelante et ses crieurs.
+Contrôle
+[183] L’appelante insiste pour dire qu’elle n’exerçait aucune supervision sur ses crieurs. Selon elle, elle ne leur demandait d’appeler que pour qu’elle puisse s’assurer que les journaux ne traînent pas à l’extérieur des stations de métro et qu’elle puisse contrôler son stock de journaux. De plus, elle considère que ce n’est pas elle qui déterminait l’horaire de travail de ces crieurs puisqu’ils avaient l’option de choisir leur créneau horaire. Elle soutient également qu’elle ne contrôlait pas l’endroit où ils exerçaient leur travail dans la mesure où elle tentait de les placer dans une station de métro près de chez eux.
+[184] Les témoins de l’intimé ne voyaient pas cela ainsi. Ils ont dit devoir appeler l’appelante en arrivant à la station et en partant. L’un d’eux a dit que, peu importe la quantité de journaux qui restait à la fin de la journée, on livrait toujours la même quantité chaque matin. Les témoins de l’appelante ont dit qu’il n’y avait aucune supervision. L’un d’eux a toutefois mentionné qu’il devait appeler le matin pour dire qu’il était rendu à la station, et qu’il donnait le nombre de journaux récupérés.
+[185] Dans son témoignage, M. Gandolfo reconnaît que lui‑même et deux autres personnes représentant Gama (dont son frère Bruno) se déplaçaient dans les stations de métro pour voir comment cela se passait avec les crieurs, leur prodiguaient des petits conseils à l’occasion, évaluaient les quantités de journaux disponibles et les performances de distribution comparativement à celles des distributeurs de journaux concurrents. Il a lui-même reconnu que les crieurs ne pouvaient travailler en même temps pour une entreprise concurrente.
+[186] Les travailleurs ont dit qu’ils ne pouvaient pas changer de station selon leur volonté. Au bout du compte, même si l’appelante essayait dans la mesure du possible de leur donner ce qu’ils demandaient, c’est elle qui décidait ultimement de l’endroit où devaient se présenter les travailleurs.
+[187] À mon avis, l’appelante exerçait un contrôle sur les travailleurs. Ce n’est pas parce que certains travailleurs disent ne pas avoir été supervisés que l’appelante n’avait pas ce droit de contrôle. « “Ce qui est la marque du louage de services” (aujourd’hui « contrat de travail »), […] “ce n’est pas le contrôle que l’employeur exerce effectivement sur son employé, c’est plutôt le pouvoir que possède l’employeur de contrôler la façon dont l’employé exécute ses fonctions”» (D&J Driveway Inc., précité, par. 12 ; Wolf, précité, par. 74).
+[188] Je reconnais que le contrôle du résultat n’est pas la même chose que le contrôle que l’on peut exercer sur le travail d’un employé. Toutefois, il me semble ici qu’il ne s’agit pas simplement d’une vérification du résultat. On exige le port d’un dossard pour identifier clairement les travailleurs du journal 24 HEURES. On décide de la station où le travailleur se présente. Celui-ci ne peut décider de changer d’endroit de sa propre initiative. Le crieur doit appeler le livreur ou le superviseur en arrivant. La plupart des travailleurs ont mentionné qu’ils devaient rappeler en quittant. On ne permet pas aux travailleurs de travailler pour le concurrent. Les travailleurs doivent travailler dans le créneau horaire qu’on leur assigne. Ils étaient engagés pour travailler un certain nombre d’heures par semaine.
+[189] En ce sens, cette cause se distingue de la situation qui existait dans l’arrêt D & J Driveway, précité, où les livreurs recevaient des appels sporadiques de D & J Driveway leur demandant s’ils étaient intéressés à conduire un camion à destination en contrepartie d’un montant fixe déterminé en fonction de la distance à parcourir. Ces livreurs de camions n’étaient pas contraints d’être disponibles lorsqu’on les appelait. Ce n’est pas le cas ici, où l’on s’attend à ce que le crieur se présente régulièrement, à l’heure convenue, pour une période déterminée et à l’endroit indiqué. S’il ne peut pas se présenter, il doit aviser son superviseur ou le livreur dès que possible pour qu’on puisse le remplacer.
+[190] Tous ces faits combinés relèvent selon moi d’une subordination des travailleurs à l’appelante et ce, même si l’avocat de l’appelante a soulevé dans son argumentation le fait que l’intimé avait fait certaines admissions, lesquelles admissions, cependant, n’ont pas toutes été avérées par la preuve. Une telle subordination relève d’un contrat d’emploi.
+Propriété des instruments de travail
+[191] L’appelante fournissait le dossard, le manteau, la tuque, la casquette et les journaux.
+[192] Les travailleurs fournissaient généralement leur cellulaire et s’habillaient selon les consignes (pantalon noir, à leurs frais).
+[193] J’estime que ce facteur n’est pas déterminant en l’espèce.
+Chance de profit et risque de pertes
+[194] Les travailleurs n’avaient aucune chance de faire un profit. Ils étaient payés au salaire minimum pour leurs heures de travail. Aucune négociation n’était possible sur la rémunération, qui était dictée par l’appelante. Ces heures se calculaient par bloc de trois heures. Si le travailleur devait s’absenter pour des raisons personnelles, il n’était pas payé.
+[195] Quant aux dépenses, elles étaient minimes. La présente cause se distingue de l’arrêt Le Livreur Plus, précité, où les livreurs devaient livrer les médicaments en se servant de leur propre véhicule à leurs frais et devaient assumer la perte de médicaments ou du radio émetteur-récepteur. Ici, les travailleurs n’étaient pas responsables de la perte des journaux et n’assumaient pratiquement aucune dépense.
+[196] Selon ce critère, la relation entre l’appelante et les crieurs fait pencher la balance plutôt du côté d’un contrat d’emploi.
+Intégration
+[197] Ce critère s’analyse du point de vue du travailleur en fonction de la question de savoir si les services en question ont été rendus par le travailleur dans le cadre d’une entreprise qui lui appartient.
+[198] À mon avis, il est clair qu’aucun de ces travailleurs n’exploitait une entreprise de distribution de journaux. La preuve a révélé que le contrat signé entre Gama et Québecor pour la distribution de journaux était la source principale de revenus de l’appelante. L’appelante avait tout intérêt à ce que la distribution se fasse selon les termes de son entente avec Québecor. C’est elle qui était responsable de la quantité de journaux écoulés. Les travailleurs se contentaient de les distribuer pour et au nom de l’appelante. Ils n’avaient aucun intérêt financier ni aucun incitatif à en distribuer plus ou moins. Même si un représentant de Gama disait au crieur d’être plus efficace afin de distribuer plus de journaux, et que celui-ci réussissait à en distribuer plus, cela n’avait aucun impact sur son revenu. Si dans son bloc de trois heures, il n’y avait plus de journaux, le crieur devait appeler le superviseur, lequel voyait à ce que d’autres journaux lui soient livrés pour maximiser la distribution dans la période de temps où le crieur travaillait pour Gama.
+[199] De plus, si les travailleurs étaient à leur compte, ils auraient vu eux-mêmes à se trouver un remplaçant, sans passer par Gama. Un seul témoin, Hugo Bérubé, a dit avoir demandé lui-même à quelqu’un de le remplacer, et il a mentionné que cela n’était arrivé qu’une seule fois et qu’il avait demandé à un crieur travaillant déjà pour Gama. Les autres fois, il avait avisé Gama et c’est Gama qui a trouvé le remplaçant. L’autre témoin qui a dit avoir trouvé lui-même un remplaçant est Sylvain Lapointe, et cela s’est passé en 2017, une année qui n’est pas en litige. De plus, ni Sylvain Lapointe, ni Hugo Bérubé ne font partie des travailleurs énumérés à l’annexe A.
+[200] Il ne s’agit pas d’une situation comme dans l’arrêt Wolf, précité, où le travailleur a sacrifié délibérément sa sécurité d’emploi en échange de la possibilité d’un salaire beaucoup plus élevé (par. 118 et 123), car ici les travailleurs étaient engagés pour le salaire minimum, sans possibilité de négociation.
+[201] Selon ce critère, la relation existant entre les parties en est une que je qualifierais d’employeur-employé.
+Conclusion
+[202] La qualification juridique du contrat doit être déterminée par les conditions du contrat et par les circonstances (Wolf, précité, par. 112). Bien que l’intention des parties soit importante, la qualification du contrat se fera en fonction de ce que révèle la réalité factuelle et non de ce que prétendent les parties (Grimard, précité, par. 33). En l’espèce, je conclus, malgré le fait que l’intention de l’appelante et de certains travailleurs était de conclure une entente selon laquelle les crieurs devaient rendre en tant que travailleurs autonomes les services pour lesquels ils étaient engagés, que cette intention ne cadre pas avec la réalité juridique du contrat, du moins pour la période en litige. Il ressort en effet de la preuve prise dans son ensemble que la relation contractuelle entre l’appelante et les crieurs correspondait plutôt à une relation employeur-employé plutôt qu’à une relation de client à entrepreneur indépendant. J’estime donc que les travailleurs étaient des employés de l’appelante et occupaient un emploi assurable au cours des périodes en litige.
+Décision
+[203] Les appels sont rejetés. Les décisions du ministre du Revenu national (Ministre) qui ont mené à l’établissement, à l’encontre de l’appelante, de cotisations au titre de l’assurance-emploi à l’égard de la rémunération assurable versée aux 218 travailleurs, dont les noms apparaissent à l’annexe A des motifs de jugement pour les années 2014, 2015 et 2016 dans le dossier 2017-2212(EI) sont maintenues. Les décisions rendues par le ministre dans les dossiers 2017-1263(EI), 2017-1261(EI) et 2016-915(EI) sont également confirmées.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2019.
+« Lucie Lamarre »
+Juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2019 CCI 15
+Nº DU DOSSIER DE LA COUR :
+2016-915(EI), 2017-1261(EI),
+2017-1263(EI) et 2017-2212(EI)
+INTITULÉ DE LA CAUSE :
+9178-3472 QUÉBEC INC. c. LE MINISTRE DU REVENU NATIONAL ET MARTIN DEMERS,
+CLAUDE- RICHARD CARBONNEAU, CLAUDE LAROSE,
+GEORGES FLAHIFF, JACQUES LOUIS
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 22 et 23 octobre 2018
+MOTIFS DE JUGEMENT PAR :
+L'honorable Lucie Lamarre,
+juge en chef adjointe
+DATE DU JUGEMENT :
+Le 17 janvier 2019
+COMPARUTIONS :
+Avocat de l'appelante :
+Me James Bonhomme
+Avocat de l'intimé :
+Me Mathieu Tanguay
+Intervenants présents :
+Martin Demers, Claude Larose, Georges Flahiff
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me James Bonhomme
+Cabinet :
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

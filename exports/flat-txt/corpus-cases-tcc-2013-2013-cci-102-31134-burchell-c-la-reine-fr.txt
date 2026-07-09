@@ -1,0 +1,165 @@
+Title: Burchell c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31134/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-102-31134-burchell-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-09
+
+# Burchell c. La Reine
+
+- Citation: 2013 CCI 102
+- Decision date: 2013-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4782, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burchell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-09
+Référence neutre
+2013 CCI 102
+Numéro de dossier
+2012-2219(IT)I, 2012-2220(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2219(IT)I
+ENTRE :
+OLIVE N. BURCHELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 mars 2013, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Sameer Nurmohamed
+Avocat de l’intimée :
+Me Christian Cheong
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007, 2008 et 2009 sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+Dossier : 2012-2220(GST)I
+ENTRE :
+OLIVE N. BURCHELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 mars 2013, à Toronto (Ontario).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Sameer Nurmohamed
+Avocat de l’intimée :
+Me Christian Cheong
+____________________________________________________________________
+JUGEMENT
+L’appel qui aurait été interjeté en vertu de la Loi sur la taxe d’accise pour la période allant de juillet 2008 à juillet 2011 est annulé, vu qu’aucune cotisation n’a été établie en vertu de la Loi sur la taxe d’accise.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 102
+Date : 20130409
+Dossier : 2012-2219(IT)I
+2012-2220(GST)I
+ENTRE :
+OLIVE N. BURCHELL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Il s’agit d’une triste histoire qui oppose une belle‑mère, l’appelante, Mme Burchell, et sa belle‑fille, Mme Marchbank. Toutes deux font valoir leur droit à la prestation fiscale canadienne pour enfants (la « PFCE ») en application de l’article 122.61 de la Loi de l’impôt sur le revenu (la « Loi ») et au crédit pour la taxe sur les produits et services (le « CTPS ») en application du paragraphe 122.5(1) de la Loi, au motif que chacune d’elles était le particulier admissible relativement à la personne à charge admissible, S, fille de Mme Marchbank et petite‑fille de Mme Burchell. Mme Burchell a également interjeté appel en vertu de la Loi sur la taxe d’accise, ne sachant pas que le CTPS était visé par la Loi. L’appel interjeté en vertu de la Loi sur la taxe d’accise est par conséquent annulé.
+[2] La période de prestations en cause va de juillet 2008 à juillet 2011 et a trait aux années de base 2007, 2008 et 2009. En application d’une ordonnance provisoire de la Cour de justice de l’Ontario datée du 18 octobre 2007, la garde temporaire de S avait été confiée à l’appelante, sa grand‑mère. Le 23 janvier 2008, la Cour de justice de l’Ontario a rendu une nouvelle ordonnance, par laquelle la garde de S était restituée à la mère de celle‑ci, Mme Marchbank, et à son père, à la condition que ces derniers autorisent une travailleuse de Native Child and Family Services of Toronto (services aux enfants et aux familles autochtones de Toronto) à effectuer des visites à domicile, que ce soit après s’être annoncée ou à l’improviste. Mme Burchell soutient qu’elle a vu pour la première fois l’ordonnance du 23 janvier 2008 la semaine qui a précédé l’audience. Il ne me semble pas crédible que les dernières années se soient écoulées sans qu’elle sache que la garde de S avait été légalement restituée à la mère de celle‑ci.
+[3] La divergence d’opinions de Mme Burchell de de Mme Marchbank en ce qui concerne la période allant de janvier 2008 à l’été 2009 (la « première période ») repose sur la question de savoir si l’enfant est bien retournée résider avec sa mère à Toronto en janvier 2008, conformément à l’ordonnance, ou si elle est restée avec sa grand‑mère à Barrie. À cet égard, j’ai entendu deux versions diamétralement opposées de l’histoire. Pour ce qui est de la période allant de l’été 2009 à l’été 2011, la divergence d’opinions de Mme Burchell et de Mme Marchbank venait surtout du fait que chacune d’elles affirmait qu’elle était celle qui avait assumé principalement la responsabilité du soin et de l’éducation de S, alors qu’elles se trouvaient toutes sous le même toit, à Barrie.
+[4] Mme Burchell a déclaré que pendant la première période, S habitait avec elle à Barrie, et qu’elle conduisait S à Toronto une fois par mois pour qu’elle y passe toute une semaine avec sa mère et son père, celui‑ci étant le fils de Mme Burchell. Mme Marchbank a déclaré que sa fille vivait avec elle à Toronto pendant toute cette période. Mme Burchell a soutenu que, pendant cette période, pendant laquelle S habitait avec elle à Barrie, elle avait entièrement pris soin de sa petite‑fille, vu qu’elle s’en croyait principalement responsable. Quelqu’un ment.
+[5] Mme Marchbank affirme que sa fille a toujours été sous sa garde à compter de janvier 2008. Elle a fourni une copie d’un bail pour un logement situé à Toronto daté de mai 2007, sur lequel le nom de sa fille apparaissait à titre de locataire. Ce bail a toutefois été signé avant que la garde de sa fille lui soit retirée à l’automne pour être confiée à Mme Burchell. Ce document ne montre pas ce qui s’est passé en janvier 2008, quand Mme Marchbank a obtenu que la garde légale de sa fille lui soit restituée.
+[6] Mme Marchbank a déclaré que la travailleuse sociale lui avait rarement rendu visite après janvier 2008. Aucune des parties n’a appelé la travailleuse sociale pour qu’elle confirme ses dires, mais l’intimée a fourni une lettre de Native Child and Family Services of Toronto datée du 1er mars 2013 dans laquelle il était précisé que, selon les dossiers de l’organisme, S avait été rendue à sa mère en janvier 2008. L’intimée a également produit une lettre datée du 23 septembre 2010 de la travailleuse des services à l’enfance, Mme Lawrence, qui confirmait que S avait été sous la garde de sa mère du 23 janvier 2008 jusqu’à la date d’envoi de la lettre. Pour finir, il y avait deux lettres rédigées par le docteur Susan M. Shepherd, de Toronto, datées du 26 janvier 2011 et du 11 février 2013, qui confirmaient que S avait été sous la garde de sa mère depuis 2008. Même si je nourrissais des doutes quant à la recevabilité de ces lettres, vu que mon doute principal a trait à la question de savoir laquelle des deux parties a dit la vérité, et en l’absence d’autres éléments auxquels me fier, j’accepte ces lettres comme constituant des preuves corroborant la version de Mme Marchbank relative au lieu de résidence de sa fille.
+[7] Mme Marchbank prétend que sa mère s’est souvent occupée de S pendant la première période et qu’elle et sa fille ont vécu avec sa mère à Toronto pendant quelques semaines, pendant l’été 2009, avant qu’elle, S et le père de S déménagent à Barrie. Elle a également déclaré qu’à sa résidence de Toronto, S occupait la chambre à coucher tandis qu’elle dormait sur un canapé‑lit.
+[8] La mère de Mme Marchbank a témoigné, et bien qu’elle ait été trop nerveuse pour s’exprimer avec clarté sur quoi que ce soit, elle a tout de même déclaré qu’elle voyait S du lundi au vendredi après janvier 2008 et qu’elle croyait que S et ses parents avaient habité avec elle pendant deux ou trois mois en 2008. Je pense qu’elle voulait dire 2009. Je nourris des doutes quant à la véracité du témoignage tant de Mme Burchell que de Mme Marchbank, mais tout bien considéré, je conclus que l’enfant résidait avec sa mère, Mme Marchbank, pendant la période comprise entre le 23 janvier 2008 et la fin de l’été 2009.
+[9] Je me penche maintenant sur la période comprise entre la fin de l’été 2009 et le mois de juillet 2011 (la « seconde période »). À la fin de l’été 2009, Mme Marchbank a emménagé chez Mme Burchell, à Barrie, afin de terminer ses études. Elle louait une chambre à Mme Burchell pour 500 $ par mois. À partir d’août 2011, quand un locataire de Mme Burchell est parti et qu’une seconde chambre est devenue disponible, Mme Marchbank payait 150 $ par mois de plus à Mme Burchell pour la location de cette chambre, destinée à S.
+[10] Mme Burchell prétend que, pendant la seconde période, S dormait dans sa chambre. Mme Marchbank allait à l’école et Mme Burchell s’occupait donc de S, même si elle a admis que S avait fréquenté la garderie pendant un certain temps. Mme Burchell a affirmé que Mme Marchbank ne s’était jamais occupée de S, même si elle a convenu que Mme Marchbank emmenait S à ses rendez‑vous. Mme Burchell a déclaré qu’elle achetait tout ce dont S avait besoin alors que Mme Marchbank ne lui achetait rien, en dehors de quelques articles d’épicerie. Mme Burchell a prétendu que c’est elle qui s’occupait de S quand celle‑ci était malade. Mme Burchell soutient également qu’elle s’occupait entièrement de la préparation des repas.
+[11] La version que Mme Marchbank a donnée de la vie qu’elle et sa fille avaient menée à Barrie, quand elles habitaient avec Mme Burchell, est, comme il fallait s’y attendre, quelque peu différente. C’était Mme Marchbank qui faisait l’épicerie et nourrissait S. Elle convient du fait que S dormait bel et bien dans la chambre de Mme Burchell, étant donné qu’il s’y trouvait un lit pour enfant, mais plus tard en 2011, à partir du moment où S a obtenu sa propre chambre, elle y a dormi. Mme Marchbank a déclaré qu’elle gardait toutes les [traduction] « affaires » de S dans sa chambre. Elle a affirmé qu’elle accompagnait S à la garderie et qu’elle allait l’y chercher.
+[12] Il y avait considérablement plus d’éléments de preuve relatifs aux activités de Mme Marchbank pendant cette seconde période, comme le fait qu’elle allait à l’école et qu’elle participait à un programme pour jeunes parents par exemple. Toutefois, je conclus que tant la mère que la grand‑mère de S contribuaient aux soins et à l’éducation de celle‑ci. Devant une telle conclusion, quel est le droit applicable en matière de PFCE et de CTPS?
+[13] Pour l’application des dispositions relatives à la PFCE, le particulier qui demande la prestation doit être un particulier admissible au sens de l’article 122.6 de la Loi. Cette disposition est ainsi rédigée :
+S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne – père ou mère de la personne à charge – qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+c) elle réside au Canada ou, si elle est l’époux ou conjoint de fait visé d’une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l’année d’imposition qui comprend ce moment, y a résidé au cours d’une année d’imposition antérieure;
+d) elle n’est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l’immigration et la protection des réfugiés,
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration.
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement ;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[14] Il convient de noter que l’alinéa f) de cette définition constitue une présomption en faveur de Mme Marchbank si l’enfant réside avec elle, et j’ai conclu que c’était le cas. Cette disposition s’applique sous réserve des dispositions de l’article 6301 du Règlement de l’impôt sur le revenu (le « Règlement »):
+(1) Pour l’application de l’alinéa g) de la définition de « particulier admissible » à l’article 122.6 de la Loi, la présomption mentionnée à l’alinéa f) de cette définition ne s’applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu’elle réside avec le père de cette personne et qu’il est celui qui assume principalement la responsabilité pour le soin et l’éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d’un particulier admissible et chacun d’eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d’une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la personne à charge admissible;
+d) plus d’une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible qui réside avec chacune d’elles à des endroits différents.
+(2) Il demeure entendu qu’est assimilée à la personne qui présente un avis visé aux alinéas (1)b), c) ou d) la personne qui, en vertu du paragraphe 122.62(3) de la Loi, est soustraite à l’obligation de présenter un tel avis.
+[15] Aucune des exemptions prévues au paragraphe 6301 du Règlement ne s’applique, étant donné que Mme Marchbank était âgée de plus de 18 ans pendant la seconde période. Elle est par conséquent réputée être le particulier admissible. Mme Burchell a‑t‑elle réfuté cette présomption? Je conclus que non. Comme je l’ai déjà dit, Mme Marchbank et Mme Burchell se partageaient les responsabilités, mais cette dernière ne m’a pas convaincu qu’elle assumait principalement la responsabilité pour le soin et l’éducation de S. Elle a à de nombreux égards tenu lieu de gardienne pendant que Mme Marchbank se trouvait à l’école pendant la journée. Je ne suis pas entré dans les menus détails des faits susceptibles d’appuyer les prétentions de Mme Burchell ou de Mme Marchbank, vu que pour être franc, j’ai trouvé leurs deux témoignages flous, et je me contenterai de conclure que l’enfant résidait avec sa mère, et que rien dans les déclarations de Mme Burchell ne donnait à penser que cette dernière avait joué un plus grand rôle que Mme Marchbank en ce qui concerne le soin et l’éducation de S.
+[16] Pour résumer, en ce qui concerne la PFCE, je conclus que pendant la première période (de janvier 2008 à août 2009), S résidait avec Mme Marchbank, et non avec Mme Burchell, et que, par conséquent, Mme Burchell n’était pas le particulier admissible. Pour la seconde période, aucun élément n’est venu renverser la présomption selon laquelle la mère de S assumait principalement la responsabilité pour le soin et l’éducation de celle‑ci. Les appels interjetés par Mme Burchell relativement à la PFCE sont par conséquent rejetés.
+[17] En ce qui a trait au CTPS, les points à prendre en considération sont semblables. Pour que Mme Burchell soit considérée comme le particulier admissible et S comme sa personne à charge admissible, au sens du paragraphe 122.5(1) de la Loi sur la taxe d’accise, S aurait dû résider avec Mme Burchell. J’ai conclu que cela n’avait pas été le cas pendant la première période (de janvier 2008 à août 2009). En ce qui a trait à la seconde période, les faits donnent à entendre, comme je l’ai conclu, que S pourrait être considérée comme la personne à charge admissible tant de Mme Marchbank que de Mme Burchell. Dans ce cas, c’est le paragraphe 122.5(6) de la Loi qui s’applique, lequel est ainsi rédigé :
+La personne qui, en l’absence du présent paragraphe, serait la personne à charge admissible de plusieurs particuliers par rapport à un mois déterminé d’une année d’imposition est réputée être la personne à charge admissible par rapport à ce mois :
+a) soit de celui parmi ces particuliers sur lequel ceux-ci se sont mis d’accord;
+b) soit, en l’absence d’accord, des particuliers qui, au début de ce mois, sont des particuliers admissibles (au sens de l’article 122.6, le terme « personne à charge admissible » à cet article s’entendant au sens du paragraphe (1)) à son égard;
+c) soit, dans les autres cas, de nul autre que le particulier désigné par le ministre.
+[18] Cet article renvoie à la définition de « particulier admissible » pour l’application de la disposition relative à la PFCE, qui fait entrer en jeu la présomption relative à la mère. Le raisonnement qui s’applique à l’égard de la PFCE s’appliquerait donc de la même manière en ce qui concerne le CTPS. Les appels interjetés par Mme Burchell relativement au CTPS sont par conséquent également rejetés.
+[19] Pour résumer, l’appel interjeté en vertu de la Loi sur la taxe d’accise est annulé et les appels interjetés en vertu de la Loi sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2013.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 2e jour de mai 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 102
+NOS DES DOSSIERS DE LA COUR : 2012-2219(IT)I et 2012-2220(GST)I
+INTITULÉ : Olive N. Burchell c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 mars 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 9 avril 2013
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Sameer Nurmohamed
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

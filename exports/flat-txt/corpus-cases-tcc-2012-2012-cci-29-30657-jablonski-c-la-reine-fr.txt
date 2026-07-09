@@ -1,0 +1,143 @@
+Title: Jablonski c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30657/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-29-30657-jablonski-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-01-20
+
+# Jablonski c. La Reine
+
+- Citation: 2012 CCI 29
+- Decision date: 2012-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7215, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jablonski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-20
+Référence neutre
+2012 CCI 29
+Numéro de dossier
+2011-2681(IT)APP
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2681(IT)APP
+ENTRE :
+KARL JABLONSKI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 8 décembre 2011 à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant du requérant :
+M. John Jablonski
+Avocat de l’intimée :
+Me Craig Maw
+____________________________________________________________________
+ORDONNANCE
+Vu la demande présentée à la Cour en vue d’obtenir une ordonnance prorogeant davantage le délai pour déposer un avis d’opposition relativement à l’année d’imposition 2005;
+La demande est rejetée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 29
+Date : 20120120
+Dossier : 2011-2681(IT)APP
+ENTRE :
+KARL JABLONSKI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Miller
+[1] Il s’agit d’une demande présentée par Karl Jablonski en vue d’obtenir une ordonnance prorogeant le délai dans lequel il peut signifier un avis d’opposition concernant son année d’imposition 2005.
+[2] Le requérant était représenté à l’audience par son fils, John Jablonski, et ils ont tous deux témoigné.
+[3] L’intimée s’est opposée à la demande en faisant valoir que celle‑ci avait été déposée à la Cour après l’expiration du délai de prescription d’un an et 90 jours prévu par la Loi de l’impôt sur le revenu (la « Loi »). Au soutien de son argument, l’intimée a déposé un affidavit de Bruce Costigan, un représentant de l’Agence du revenu du Canada (l’« ARC ») travaillant au Bureau des litiges de Toronto. M. Costigan a également témoigné à l’audience.
+[4] Selon M. Costigan, le 31 juillet 2008, le requérant a fait l’objet d’une nouvelle cotisation pour son année d’imposition 2005. La date limite pour signifier un avis d’opposition au ministre du Revenu national (le « ministre ») était le 29 octobre 2008. Une demande en vue d’obtenir une prorogation de délai devait être présentée au ministre au plus tard le 29 octobre 2009.
+[5] Le requérant a soutenu qu’il n’avait pas reçu l’avis de nouvelle cotisation pour son année d’imposition 2005.
+[6] Les dispositions pertinentes de la Loi sont le sous‑alinéa 165(1)a)(ii), l’article 166.1 et les paragraphes 166.2(1) et (5). Elles sont, en partie, ainsi libellées :
+165(1) Opposition à la cotisation – Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(ii) le quatre-vingt-dixième jour suivant la date d’envoi de l’avis de cotisation;
+166.2(1) Prorogation du délai [pour faire opposition] par la Cour canadienne de l’impôt – Le contribuable qui a présenté une demande en application de l’article 166.1[(1)] peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+Historique
+[7] En 2005, le requérant a demandé une déduction d’un montant de 30 000 $ à titre de don de bienfaisance fait à Universal Donation Program (le « programme Universal »). Le requérant avait fait un don de 6 000 $ en espèces et de 24 000 $ en nature.
+[8] Le ministre a initialement établi une cotisation à l’égard du requérant pour l’année d’imposition 2005 au moyen d’un avis daté du 6 avril 2006.
+[9] Au moyen d’une lettre datée du 7 septembre 2006, l’ARC a avisé le requérant qu’elle effectuait une vérification à l’égard du programme Universal, et lui a demandé de remplir le questionnaire qui était joint à la lettre et de le retourner à l’ARC. Le questionnaire rempli avait été retourné à l’ARC le 30 septembre 2006 ou vers cette date.
+[10] Selon M. Bruce Costigan, en juillet 2007, le requérant a demandé un allègement des pénalités et des intérêts relativement à l’année 2005. Le requérant a été avisé au moyen d’une lettre datée du 12 septembre 2007 que sa demande ne pourrait être examinée qu’au terme de la vérification dont faisait l’objet le programme Universal.
+[11] Une lettre de proposition datée du 22 octobre 2007 a été envoyée au requérant pour l’aviser du fait que la vérification à l’égard du programme Universal était terminée, et que les crédits pour don de bienfaisance qu’il avait demandés dans sa déclaration de revenus pour 2005 seraient refusés.
+[12] Dans une lettre datée du 6 mars 2008, le ministre a avisé le requérant que les crédits pour don de bienfaisance qu’il avait demandés dans sa déclaration de revenus pour 2005 seraient refusés; que le requérant pouvait s’opposer à la nouvelle cotisation dans les 90 jours suivant la date d’établissement de la nouvelle cotisation et que la demande qu’il avait présentée en vue d’obtenir une annulation des intérêts et des pénalités était refusée.
+[13] Il ressort des documents présentés à l’audience que programme Universal avait remis au requérant un formulaire intitulé « avis d’opposition ». Le requérant avait daté ce formulaire du 28 mars 2008 et, le 11 avril 2008, il l’avait remis en mains propres à quelqu’un au Bureau des services fiscaux de l’ARC de Windsor.
+[14] L’ARC a envoyé au requérant une lettre datée du 29 avril 2008, dans laquelle elle l’informait du fait que l’avis d’opposition qu’il avait déposé le 11 avril 2008 n’était pas valide parce qu’il s’agissait d’une opposition à une décision visant à établir une nouvelle cotisation à l’égard de sa déclaration de revenus, et qu’un avis de nouvelle cotisation n’avait pas encore été délivré. Dans cette lettre, l’ARC précisait en outre que le requérant pourrait déposer un avis d’opposition une fois que l’avis de nouvelle cotisation serait délivré. La lettre précisait les délais pour déposer un avis d’opposition.
+[15] Une nouvelle cotisation a été établie à l’égard de l’année d’imposition 2005 du requérant, au moyen d’un avis daté du 31 juillet 2008. Les crédits pour dons de bienfaisance que le requérant avait demandés ont été réduits à zéro, au motif qu’aucun don n’avait été fait au sens de la Loi.
+[16] Dans des lettres datées du 23 octobre 2008 et du 8 février 2010, l’ARC a avisé le requérant qu’il demeurait responsable du paiement d’un montant d’impôt sur le revenu dû à l’égard de l’année d’imposition 2005.
+[17] Toutes les lettres que l’ARC a adressées au requérant ont été envoyées à l’adresse suivante : 2500 Poplar Crescent, Mississauga (Ontario) (l’adresse sur « Poplar Crescent »). Le requérant avait donné cette adresse à l’ARC dans sa déclaration de revenus pour 2005.
+[18] Le requérant a admis le fait que l’adresse sur Poplar Crescent était la bonne, et que cela faisait 25 ans qu’il vivait à cet endroit.
+[19] Le requérant a déclaré qu’il n’avait pas reçu l’avis de nouvelle cotisation et qu’il ne se souvenait pas du tout d’avoir reçu une quelconque lettre de l’ARC.
+[20] S’il avait reçu l’avis de nouvelle cotisation, affirme le requérant, il aurait appelé son fils pour l’en aviser.
+[21] John Jablonski a réaffirmé le témoignage de son père. Il a déclaré que, lorsque le requérant recevait du courrier qu’il ne comprenait pas, il l’appelait pour qu’il examine les documents et lui donne des conseils à ce sujet. John Jablonski a affirmé que son père ne lui avait demandé son avis qu’à l’égard de la lettre datée du 29 avril 2008. Toutefois, lors du contre‑interrogatoire, John Jablonski a déclaré qu’il ne se souvenait pas d’avoir discuté avec son père de la lettre du 29 avril 2008.
+[22] Rien dans la preuve ne me permettrait de conclure que l’avis de nouvelle cotisation pourrait avoir été envoyé à une adresse erronée.
+[23] Monsieur Costigan avait la responsabilité de tous les documents délivrés par l’ARC, qui étaient relatifs au requérant et à l’affaire portée devant la Cour. Il connaissait la procédure de l’ARC à l’égard des envois par la poste, et il a témoigné au sujet de cette procédure en ce qui a trait au requérant.
+[24] Je suis convaincue que l’avis de nouvelle cotisation daté du 31 juillet 2008 a été envoyé au requérant à l’adresse sur Poplar crescent.
+[25] Le requérant et son fils ont tous deux affirmé que le requérant était malade et qu’il présentait les premiers signes de démence.
+[26] La demande de prorogation de délai comportait une copie d’une lettre datée du 31 juillet 2011 provenant de George Skocylak, M.D., dans laquelle ce dernier a précisé qu’il était le médecin du requérant depuis 32 ans, et que ce dernier [traduction] « avait une multitude de problèmes médicaux ». Le Dr Skocylak a énuméré plusieurs maladies dont souffre le requérant, et il a déclaré à l’avant‑dernière phrase que, [traduction] « Aussi, il commence à présenter les premiers signes de démence sénile ».
+[27] Je tiens à signaler qu’aucune de ces déclarations n’équivaut à une preuve selon laquelle le requérant était atteint d’une incapacité mentale en 2008 lorsque l’avis de nouvelle cotisation a été envoyé. De plus, j’estime que l’incapacité mentale d’un contribuable ne change en rien les délais prévus aux articles 165, 166.1 et 166.2 de la Loi.
+[28] Dans la décision Gyimah c. La Reine, 2010 CCI 621, le juge Hershfield a récemment fait les observations suivantes :
+[37] Par ailleurs, l’intimée répond à l’argument tiré de l’incapacité en invoquant une jurisprudence constante suivant laquelle le délai commence à courir à la date de la mise à la poste. Si la réception n’est pas pertinente, la capacité d’agir ne l’est pas non plus. La Loi établit une règle qui empêche les oppositions et les appels d’engorger indéfiniment le système indépendamment de leur bien‑fondé. Si je suis empêché d’agir parce que le service postal ne me livre pas la cotisation qui m’est destinée, mon incapacité d’agir n’est pas moins excusable si je suis incapable d’agir parce que je suis mentalement incapable de répondre, et ce, même si j’avais reçu la cotisation en question.
+[38] Compte tenu des précédents qu’elle cite, il m’est difficile de m’opposer à ce qu’avance l’intimée. Elle invoque, par exemple, le jugement Chu c. Canada[17] dans lequel j’ai écrit ce qui suit :
+Cependant, avec égards pour l’opinion contraire, la disposition applicable en l’espèce est absolument claire et non équivoque. Elle ne permet nullement de penser que la réception d’un avis de cotisation est pertinente. Par exemple, on a conclu dans les arrêts que la preuve du fait qu’une omission du service postal était à l’origine de la non‑réception n’a aucune incidence sur la date à laquelle le délai fixé commence à courir. Cette conclusion a été confirmée par la Cour d’appel fédérale en 2000 dans l’arrêt Schafer c. Canada. Pour l’essentiel, les décisions de ce genre font obstacle à l’application de la doctrine de la possibilité de découverte. J’estime donc avoir les mains liées[18].
+[39] L’avocate de l’intimée semble assez solide dans ses prétentions lorsqu’elle soutient essentiellement que, si la réception n’est pas pertinente, l’état d’esprit de destinataire visé ne saurait faire de différence. Si la loi rend la réception non pertinente, la compréhension de la teneur de la cotisation ou la capacité d’y répondre ne sont pas pertinentes non plus et notre Cour n’a pas compétence pour récrire la loi.
+[29] Il est regrettable que le requérant souffre peut‑être de démence.
+[30] En l’espèce, aucun avis d’opposition n’a été signifié au ministre; aucune demande de prorogation de délai n’a été présentée au ministre comme l’exige l’article 166.1 de la Loi, et la demande de prorogation de délai présentée à la Cour a été déposée en dehors du délai d’un an et 90 jours fixé par la Loi.
+[31] La Cour n’a aucun pouvoir discrétionnaire lui permettant de proroger le délai d’un an et 90 jours pour signifier un avis d’opposition.
+[32] Pour les motifs exposés ci‑dessus, la demande est rejetée.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 15e jour de mars 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 29
+NO DU DOSSIER DE LA COUR : 2011-2681(IT)APP
+INTITULÉ : KARL JABLONSKI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 décembre 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE : Le 20 janvier 2012
+COMPARUTIONS :
+Représentant du requérant :
+M. John Jablonski
+Avocat de l’intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

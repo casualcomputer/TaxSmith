@@ -1,0 +1,67 @@
+Title: Kaupas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25906/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-808-25906-kaupas-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-11-07
+
+# Kaupas v. The Queen
+
+- Citation: 2003 CCI 808
+- Decision date: 2003-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3704, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaupas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-07
+Référence neutre
+2003 CCI 808
+Numéro de dossier
+2001-2572(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI808
+Date : 20031107
+Dossier : 2001-2572(IT)G
+ENTRE :
+DAVID KAUPAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Toronto (Ontario), le 17 octobre 2003.)
+La juge Woods
+[1] M. David Kaupas interjette appel à l'encontre de nouvelles cotisations fiscales pour les années d'imposition 1987, 1988, 1989 et 1990. Ces cotisations proviennent du refus d'une perte déductible au titre d'un placement d'entreprise s'élevant au montant de 145 823 $. M. Kaupas fait partie des plus de 400 personnes qui ont demandé un remboursement d'impôt sur le revenu dans le cadre d'un stratagème frauduleux entamé par M. Paul Butt. M. Butt a été condamné pour fraude fiscale relativement à ces opérations, à une peine de trois ans de prison. Une description générale du stratagème de fraude fiscale figure dans l'exposé conjoint des faits déposé à la procédure criminelle de M. Butt. Lors de cette procédure, M. Butt a plaidé coupable à deux chefs d'accusation. L'un des chefs est ainsi rédigé :
+DE PLUS, ledit Paul Wilfred BUTT, entre le 31e jour de décembre 1986 et le 3e jour de février 1993, dans ou près de la ville de Toronto, dans la région de Toronto, dans la province d'Ontario ou ailleurs au Canada, a commis une infraction allant à l'encontre de l'alinéa 239(1)d) de la Loi de l'impôt sur le revenu, L.R.C. 1952, ch. 148, dans sa version modifiée, lorsqu'il a volontairement, de quelque manière, éludé ou tenté d'éluder l'observation de ladite Loi ou le paiement d'une somme de 6 475 993,35 $ d'impôt, somme à laquelle sont redevables les personnes figurant à l'annexe « A » ci-jointe, et, faisant partie de la présente dénonciation, lorsqu'il a fourni aux personnes figurant à l'annexe « A » des faux certificats de pertes déductibles au titre d'un placement d'entreprise, dont la somme totale s'élève à 128 803 190,00 $. Ces certificats ont été produits avec le formulaire T1 afférent aux déclarations de revenus des particuliers ou avec la Demande de redressement T1A par les personnes figurant à l'annexe « A » pour les années d'imposition 1987, 1988, 1989, 1990 et 1991
+[...]
+[2] M. Kaupas faisait partie de la liste figurant à l'annexe « A » . Il a aussi admis qu'il a reçu des frais de commission pour avoir renvoyé d'autres personnes à M. Butt dans le cadre de ce stratagème.
+[3] Le présent appel traite des déductions demandées par M. Kaupas à l'égard d'une perte de 200 000 $ prétendument subie lors de l'année d'imposition 1990. La perte est censée avoir eu lieu dans le cadre d'un « investissement » dans Proaxi Industries Ltd. en vertu du paragraphe 50(1) de la Loi de l'impôt sur le revenu (la « Loi » . M. Kaupas a demandé une perte déductible au titre d'un placement d'entreprise s'élevant aux trois quarts de ce montant, soit 145 823 $, et il a demandé qu'une partie de ce montant soit reportée rétrospectivement aux années d'imposition 1987, 1988 et 1989 en tant que perte autre que perte en capital, pour réduire son revenu imposable desdites années.
+[4] Afin que le présent appel soit admis, il faut établir les faits suivants :
+1. que Proaxi Industries Ltd. avait une dette de 200 000 $ envers M. Kaupas;
+2. que la dette est devenue une créance irrécouvrable dans l'année d'imposition 1990;
+3. que la dette a été contractée dans le but de tirer un revenu;
+4. que Proaxi Industries Ltd. était soit une société fermée sous contrôle canadien et que les actifs dont elle disposait pour exploiter son entreprise se trouvaient principalement au Canada, soit qu'elle répondait par ailleurs aux critères de « société exploitant une petite entreprise » tels que le définit le paragraphe 248(1) de la Loi.
+[5] La demande de déduction de M. Kaupas relative à une perte déductible au titre d'un placement d'entreprise pour l'année d'imposition 1990 ne peut pas avoir gain de cause. À l'audience, on n'a soumis aucune description complète des opérations. Aussi, il n'y a pas de documentation suffisante pour établir l'existence d'un grand nombre d'opérations qui y étaient décrites.
+[6] M. Kaupas a signalé que les opérations étaient compliquées et qu'il ne les comprenait pas. Par exemple, M. Kaupas a signalé qu'il ne savait pas si les opérations comprenaient des billets à ordre. De plus, M. Kaupas a admis qu'il existait des documents relatifs aux opérations qui n'étaient plus en sa possession et qu'il ne pouvait décrire.
+[7] De surcroît, certains aspects essentiels des opérations ont été décrits en de termes généraux, mais la preuve était insuffisante pour établir leur existence. Par exemple, il a été soumis qu'il y avait des sociétés non résidentes qui agissaient pour le compte de Proaxi Industries Ltd. qui, elle, exploitait son entreprise au Canada. Pour établir cela, M. Kaupas a soumis des copies de lettres du cabinet d'avocats qui conseillaient M. Butt en matières fiscales. Cette correspondance est vraiment très insuffisante pour établir ces faits. Par exemple, l'auteur de ces lettres ne déclare pas posséder une connaissance directe des faits y inscrits.
+[8] Dans les circonstances, il n'est pas nécessaire que j'examine si les documents soumis à l'audience sont authentiques. S'ils le sont, il n'est pas nécessaire, non plus, que j'examine si les critères correspondant aux pertes déductibles au titre d'un placement d'entreprise seraient satisfaits. Il n'est pas nécessaire de dire que, si l'on tient compte des admissions de M. Butt lors de la procédure criminelle, tout document associé à ces opérations est plutôt douteux.
+[9] Pour ces motifs, l'appel sera rejeté avec dépens.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2003.
+« J. M. Woods »
+Juge J. M. Woods
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice

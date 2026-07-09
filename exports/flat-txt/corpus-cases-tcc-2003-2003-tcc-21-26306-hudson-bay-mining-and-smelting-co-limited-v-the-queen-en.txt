@@ -1,0 +1,188 @@
+Title: Hudson Bay Mining and Smelting Co. Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26306/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-21-26306-hudson-bay-mining-and-smelting-co-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-02-06
+
+# Hudson Bay Mining and Smelting Co. Limited v. The Queen
+
+- Citation: 2003 TCC 21
+- Decision date: 2003-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3318, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudson Bay Mining and Smelting Co. Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-06
+Neutral citation
+2003 TCC 21
+File numbers
+2000-4067(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+2000-4067(IT)G
+BETWEEN:
+HUDSON BAY MINING AND SMELTING CO., LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 4, 2002 at Winnipeg, Manitoba, by
+the Honourable Judge R.D. Bell
+Appearances
+Counsel for the Appellant: Sergio Pustogorodsky
+Counsel for the Respondent: Marley Dash
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1993 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 6th day of February, 2003.
+"R.D. Bell"
+J.T.C.C.
+Citation: 2003TCC21
+Date: 20030206
+Docket: 2000-4067(IT)G
+BETWEEN:
+HUDSON BAY MINING AND SMELTING CO., LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.T.C.C.
+ISSUES:
+[1] The issue is whether the Appellant was required by subparagraph 12(1)(x)(iv) of the Income Tax Act ("Act") to include in computing its income for its 1993 taxation year the amount of $454,060 received from the Government of the Province of Manitoba as a "new investment credit" ("NIC") by virtue of the provisions of The Mining Tax Act of Manitoba.
+[2] The pertinent part of paragraph 12(1)(x) reads as follows:
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+...
+(x) ...any amount ... received by the taxpayer in the year, in the course of earning income from a business or property, from
+...
+(ii) a government, municipality or other public authority
+where the amount can reasonably be considered to have been received
+(iii) as an inducement, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of inducement, or
+(iv) as a reimbursement, contribution, allowance or as assistance, whether as a grant, subsidy, forgivable loan, deduction from tax, allowance or any other form of assistance, in respect of the cost of property or in respect of an outlay or expense
+FACTS:
+[3] Counsel presented an agreed statement of facts to the Court. The relevant facts taken from it are as follows:
+1. The Appellant's principal business was exploring for minerals, mining and the processing of mineral ores.
+2. Inspiration Resources Corporation ("IRC") was a publicly traded company and was the controlling shareholder of the Appellant.
+3. The Appellant wanted to explore and develop certain mineral claims situated in Manitoba.
+4. IRC controlled several other Canadian exploration companies which had mineral leases upon which they wished to have exploration work conducted.
+5. Prior to 1993 IRC entered into "flow-through share" arrangements with certain limited partnerships. The monies raised pursuant to these agreements was used to fund exploration programs upon, inter alia, mineral leases owned by the Appellant. One of such Appellant's mineral claims was located at Namew Lake, Manitoba. An exploration shaft was drilled with the said flow-through share funds.
+6. The Appellant, an "operator" as defined in the Mining Tax Act, is subject to provincial tax on net income from mining and processing Manitoba minerals.
+7. In 1993 the Manitoba Mining Tax Branch completed an audit of the Appellant and determined
+...that the expenditures related to the sinking of the exploration shaft at Namew Lake constituted "depreciable assets" for purposes of the Mining Tax Act. Only expenditures which were considered to constitute "depreciable" assets resulted in new investment credits.
+8. Accordingly, the Manitoba Ministry of Finance granted the Appellant approximately $637,357 (5% of the approximately $12,747,149 spent on the shaft) of NIC's. It was agreed that NIC's are deductible to the extent of 50 percent of mining taxes payable in a taxation year and that unused balances could be carried forward to be applied to subsequent taxation years.
+9. The Appellant deducted a total of $454,060 of NIC's from mining tax in its 1988, 1989 and 1990 taxation years.
+10. The parties agreed that mining taxes paid by the Appellant to the Province of Manitoba are not deductible for purposes of the Income Tax Act ("Act").
+[4] Appellant's counsel submitted a book of documents which Respondent's counsel agreed were relevant. He also accepted the truth of their contents.
+[5] Gwendolyn Wendy Barth ("Barth"), gave evidence on behalf of the Appellant. She testified that the Appellant acted as the agent for IRC in performing the aforesaid exploration work. She stated that since the Appellant was acting as such agent, it did not claim any Canadian exploration expense in computing its income for income tax purposes. She stated further that the Appellant claimed no deductions in respect of the work done on the Namew Lake property with flow-through share proceeds. She testified further that no "tax pools" were set up by the Appellant respecting the expenditures and that no amount was recorded for capital assets. She also said that the Appellant deducted no portions of the Manitoba mining tax for federal income tax purposes.
+[6] Barth testified that the Appellant had claimed exploration expenses for Manitoba mining tax purposes. She stated further that although this was disallowed on the Manitoba audit, the Manitoba Ministry of Finance agreed that amounts expended for the exploration shaft at Namew Lake should be regarded as "depreciable assets" for purposes of the Mining Tax Act.
+[7] Barth also stated that the Appellant took the position that the $454,060 of NIC that had been deducted and that related to the Namew Lake mine shaft did not have to reduce any of the Appellant's tax pools or assets.
+[8] The Minister of National Revenue ("Minister") reassessed the Appellant for its 1993 taxation year by including the sum of $454,060, equal to the amount deducted by the Appellant from its Manitoba mining tax, in computing its income for that year pursuant to the provisions of subparagraph 12(1)(x)(iv) of the Act.
+APPELLANT'S SUBMISSIONS:
+[9] Appellant's counsel submitted that paragraph 12(1)(x) does not apply to the NIC's under the Manitoba Mining Tax Act. He said that the section has no application in the situation where although a monetary benefit is obtained, there is no acquisition of a deductible asset or expense. Counsel's position was, simply stated, that the "assistance" received from the Manitoba Ministry of Finance by way of NIC's which is deductible from Manitoba mining tax, was not received "in respect of the cost of property" or in respect of an "outlay or expense" as those terms are used in subparagraph 12(1)(x)(iv) above. He submitted that those words must be read in the context of the Income Tax Act. He said that in that context the Appellant received no assistance in respect of the cost of any property, none being acquired. He said further that the Appellant received no assistance in respect of an outlay or expense, which in the context of the Act it had not been incurred, it acting as an agent only for IRC.
+[10] Counsel submitted further that paragraph 12(1)(x) does not apply to the NIC's because the tax treatment of same is governed by the specific provisions of paragraph 66.1(6)(a) and (b). Paragraph 66.1(6)(a) defines "Canadian exploration expense" to include a number of activities such as geological, geophysical, or geochemical or drilling expense, but states specifically that:
+... any assistance that a taxpayer has received or is entitled to receive ... in respect of or related to his Canadian exploration expense shall not reduce the amount of any of the expenses described ...
+above. He then pointed out, by way of distinction, that paragraph 66.1(6)(b), dealing with the calculation of "cumulative Canadian exploration expense"[1], provides that any assistance is to be deducted to the extent that it relates to Canadian exploration expenses incurred after 1980. Specifically, the pertinent parts of the paragraph read as follows:
+"cumulative Canadian exploration expense" of a taxpayer ... shall be the amount, if any, by which the aggregate of ...
+(i) ... all Canadian exploration expenses made or incurred by him before that time ...
+exceeds the aggregate of all amounts each of which is ...
+(ix) any assistance that he has received or is entitled to receive in respect of any Canadian exploration expense incurred after 1980 or that can reasonably be related to Canadian exploration activities after 1980, to the extent that the assistance has not reduced his Canadian exploration expense by virtue of paragraph 9(g).
+Counsel pointed out that paragraph 9(g) deals with oil or gas wells and has no application to the mining industry. He submitted that the NIC's which the Appellant received were "assistance" of the kind contemplated by the foregoing paragraphs. He stated, however, that since subparagraph 66.1(6)(a)(vii) deemed the Appellant not to have incurred any of the exploration expense funded by the flow-through share agreements, the Appellant had no Canadian exploration expenses in respect of which it must deduct the amount of the assistance.[2]
+[11] Counsel then said:
+The scheme of the Income Tax Act in these provisions is to prevent a taxpayer from creating a deductible expense pool and at the same time not decreasing the amount of this tax pool by any assistance that it has received. In other words, the tax policy is to prevent a taxpayer from being able to deduct an amount as an expense, to the extent that the taxpayer was reimbursed all or a portion of this expense or received some kind of monetary benefit with respect to the expense.
+Since the Appellant earned no Canadian exploration expenses and acquired no depreciable assets for purposes of the Income Tax Act, that is, had no tax deductions available to it as the result of the exploration expenses funded with the flow-through share agreements, any new investment credits that it received from the Manitoba Government did not have to decrease its cumulative Canadian exploration expense or the capital cost of any assets. In other words, paragraph 66.1(6)(a) and (b) were working as they were meant to work and nothing was being done by the Appellant to circumvent the tax policy which these paragraphs embodied.
+[12] Counsel referred to West Coast Energy Inc. v. Her Majesty the Queen, [1991] 1 C.T.C. 471, a case dealing with damages received by the taxpayer for breach of contract and negligence, and quoted Mr. Justice Denault respecting paragraph 12(1)(x) as follows:
+This section was implemented in response to certain court cases, in particular The Queen v. Consumers' Gas Co., [1987] 2 F.C. 69, [1987] 1 C.T.C. 79, 87 DTC 5008 (A.D.); affg [1986] 1 C.T.C. 380, 86 DTC 6132 in which the taxpayer was in the business of distributing natural gas. The taxpayer received certain payments from third parties in respect of certain pipeline relocation carried out at the latters' request. The taxpayer treated the reimbursements as capital receipts which resulted in reducing the annual depreciation of the assets and the taxpayer's income was higher than it would have been had the reimbursements been taken into account. The Federal Court of Appeal held that 1) the corporation was not required to include that amount in its income and 2) it was also not required to adjust its capital cost base. This decision created an inequity to which Parliament addressed its attention. This is evidenced by the budget speech for 1985:
+It is a generally accepted commercial principle that the cost of an asset or the amount of an expense should be reduced by any reimbursement or similar payment received that relates to the acquisition of the asset or the incurring of the expense. For example, a commercial tenant who was reimbursed by a landlord for part or all of the cost of making leasehold improvements, would subtract the payment in computing the cost of such property. A similar result would arise with respect to the manufacturer's rebates.
+Recent court decisions have indicated that this principle may not apply for all income tax purposes.
+The budget proposes to require that all payments in the nature of reimbursements or inducements in respect of the acquisition of an asset or the incurring of a deductible expense be included in income for tax purposes unless the recipient elects to reduce the cost basis of the related property or the amount of related expense.
+After lengthy analysis the Court determined that the amount respecting damages was not a "reimbursement" within the meaning of paragraph 12(1)(x).
+[13] Appellant's counsel, in summary, stated that the Appellant did not, from its flow-through share activities, have any "property ... outlay or expense" in respect of which it sought a deduction. He said that the work done was a "nothing" for the purposes of the Act, the Appellant having incurred no Canadian exploration expense in the exploration funded by flow-through shares. He stated further that the NIC's were deducted from Manitoba mining taxes, an expense to the Appellant which was not deductible under the Income Tax Act.
+[14] Finally, counsel said that paragraph 12(1)(x) was a provision of general application which "would have to give way to a specific provision which applied to the facts". This provision, he said, is paragraph 66.1(6)(a) which deals with a flow-through share contract and what is to be done with any assistance that is received. He referred to the third edition of Driedger on the Construction of Statutes by Ruth Sullivan at page 186 as follows:
+Implied exception (generalia specialibus non derogant). Where two provisions are in conflict and one of them deals specifically with the matter in question while the other is of general application, the conflict may be avoided by applying the specific provision to the exclusion of the more general one. The specific prevails over the general; it does not matter which was enacted first.
+Counsel then submitted that:
+The conflict which exists between 12(1)(x) and 66.1(6)(a) and (b) is that the former provision requires the tax cost or expense, with respect to which the assistance was received, be decreased. The latter provision has already provided that there is no tax cost or expense and has also provided that the assistance would not decrease any tax cost or expense with respect to which the assistance was not received.
+Paragraph 12(1)(x) does not contain any reference to paragraphs 66.1(6)(a) or (b), so one cannot say that Parliament's intention was to give Paragraph 12(1)(x) priority.
+[15] Appellant's counsel also referred to paragraph 12(1)(x.1) which includes in income all amounts each of which is
+a fuel tax rebate received in the year by the taxpayer under subsection 68.4(3) of the Excise Tax Act ...
+His point was that had subparagraph 12(1)(x)(iv) been intended to include amounts which were benefits arising under a statute other than the Income Tax Act, the legislators would likewise have used appropriate inclusive language.
+RESPONDENT'S SUBMISSIONS:
+[16] Respondent's counsel said that, in effect, Appellant's counsel wanted to read subparagraph 12(1)(x)(iv) as having the word "deductible" in front of "cost of property" and "outlay or expense". He also stated that if the Minister could not tax the Appellant, the amount of benefit received by virtue of the NIC's would be a windfall.
+[17] Respondent's counsel also submitted that West Coast was distinguishable on the facts in that it dealt only with an award of damages which did not fall under paragraph 12(1)(x).
+[18] Counsel referred to Tioxide Canada Inc. v. The Queen, 93 DTC 1499 (T.C.C.) and 96 DTC 6296 (F.C.A.). This case dealt with a tax credit pursuant to the Quebec Income Tax Act, such credit taking the form of a reduction in Quebec income tax payable which it had incurred in connection with scientific research. The Minister included that amount in its income under paragraph 12(1)(x) of the Act and also reduced, by the amount of the credit, the balance in the taxpayer's "qualified expenditures" account for purposes of computing its federal investment tax credit. This Court dismissed Tioxide's appeal on the basis that the tax credit was, "properly included in calculating its income ... under paragraph 12(1)(x) of the Income Tax Act".
+ANALYSIS AND CONCLUSION:
+[19] Counsel agreed that the only matter in issue was whether the aforesaid sum of $454,060 was includable in the Appellant's income by virtue of subparagraph 12(1)(x)(iv). However, because of one comment made by this Court, not being the ratio decindendi, and because of the parties' apparent reliance on subparagraph 12(1)(x)(iii), I shall later refer to that comment.
+[20] In Tioxide, one of the facts stated in the Respondent's Reply to the Notice of Appeal, relied upon by the Minister, was that:
+... the tax credits were incentive payments made to the appellant during the years in question for research and development activities.
+(italics added)
+The Respondent advanced as a general proposition in that Reply that,
+... during the taxation years at issue the Appellant received governmental assistance as an inducement payment in the form of a tax deduction.
+(italics added)
+The Appellant argued that the tax credit it received under the Quebec legislation could not be government assistance within the meaning of paragraph 12(1)(x)
+"because those credits were not received from a government or other public authority"
+but rather
+"were granted by the Quebec Taxation Act"
+This Court determined that such amounts were "received".
+This Court then considered the question of whether the benefit resulting from the provincial tax credit was an inducement or assistance within the meaning of paragraph 12(1)(x) of the Act.
+The Court said:
+The purpose of paragraph 12(1)(x), which was added in 1986, is to require - subject to certain restrictions mentioned in the paragraph and certain exceptions covered by Part LXXIII of the Income Tax Regulations - the inclusion in a taxpayer's income from a business or property of inducement payments received in any form whatsoever and the value of certain benefits received in respect of the cost of a property or of an expense as a reimbursement, contribution or allowance or any form of assistance. ...
+The paragraph is designed to reverse a trend in the courts not to include certain types of payments in calculating a taxpayer's income on the ground that the amounts received were payments on capital account and also should not be taken into account in calculating the capital cost of property.
+The Court then said:
+In arguing that paragraph 12(1)(x) required the inclusion of the amounts of tax credits granted to it under the aforementioned Quebec legislation for those years, when calculating the Appellant's income for the years at issue, counsel for the Appellant relied mainly on subparagraph 12(1)(x)(iii). I, for one, am of the opinion that subparagraph 12(1)(x)(iv) applies equally well to the benefit received by the Appellant in the circumstances of the instant case.[3]
+(italics added)
+The Court went on, without specifying a subparagraph, to conclude that the tax credit amounts from which the Appellant benefited were properly included in calculating its income under paragraph 12(1)(x) of the Act.
+[21] I do not find this decision of assistance to the Respondent. Submissions respecting paragraph 12(1)(x) in that case appear to have been based solely upon the wording of subparagraph (iii) which required the amount so received[4] to be some form of inducement. It will be recalled that under subparagraph (iv) the NIC, in order to be included in income, must be an amount received from a government where the amount can reasonably be considered to have been received in respect of the cost of property or in respect of an outlay or expense.
+(italics added)
+[22] It is clear that the Appellant was acting as an agent for IRC in a "flow-through share arrangement" and that it therefore had no "Canadian exploration expense" and, accordingly, no "cumulative Canadian exploration expense" by virtue of the exploration work conducted by it. It is also clear that the "assistance" received by way of NIC's was not received "in respect of the cost of property" and was not in respect of "an outlay or expense". It made no outlay and incurred no expense in the context of the Act, having acted only as an agent for IRC.
+[23] This appeal would succeed on that basis alone. However, Appellant's counsel added that the "cumulative Canadian exploration expense" of a taxpayer means all Canadian exploration expenses made or incurred minus the amount of any assistance which the Appellant has received or is entitled to receive in respect of any Canadian exploration expense. His point was, as set out above, that paragraph 12(1)(x) was a provision of general application while the Act specifically provided for the treatment of "any assistance" in respect of Canadian exploration expense. I agree with counsel's submission that the specific provision would apply if the exploratory work expenditures were Canadian exploration expenses of the Appellant. They were not. This is consistent with and an example of the Driedger statement that the "specific prevails over the general".
+[24] The submission of Respondent's counsel that if not taxed, the amount of the benefit would be a windfall seems to presuppose that every receipt must be taxable or taken into account somehow in the determination of taxability. That submission simply cannot succeed.
+[25] This Court, in Tioxide, after hearing the Appellant's submissions respecting subparagraph 12(1)(x)(iii), said, without reasons,
+... that subparagraph 12(1)(x)(iv) applies equally well to the benefit received ...
+However, it appears not to have had the benefit of any submission on that subparagraph, the Appellant having relied mainly on its argument that subparagraph 12(1)(x)(iii) did not apply. The tax credit appears clearly to have been an "inducement" as that word in used in subparagraph 12(1)(x)(iii). In the absence of any submission respecting subparagraph 12(1)(x)(iv) there is no judicial comment on that provision The circumstances, including pertinent legislative provisions, being markedly different in the instant case, the appeal, for the above reasons, is allowed with costs.
+Signed at Ottawa, Canada this 6th day of February, 2003.
+"R.D. Bell"
+J.T.C.C.
+CITATION:
+2003TCC21
+COURT FILE NO.:
+2000-4067(IT)G
+STYLE OF CAUSE:
+Hudson Bay Mining and Smelting Co.
+Ltd. v. Her Majesty the Queen
+PLACE OF HEARING
+Winnipeg, Manitoba
+DATE OF HEARING
+November 4, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge R.D. Bell
+DATE OF JUDGMENT
+February 6, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Sergio Pustogorodsky
+Counsel for the Respondent:
+Marley Dash
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sergio Pustogorodsky
+Firm:
+Thompson Dorfman Sweatman
+Winnipeg, Manotiba
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The "pool" of expenses concept which has statutory additions and reductions.
+[2] This was not challenged by the Respondent.
+[3] This reference to subparagraph 12(1)(x)(iv) is the comment to which I referred above.
+[4] The Court determined that the application of the credit constituted a benefit received.

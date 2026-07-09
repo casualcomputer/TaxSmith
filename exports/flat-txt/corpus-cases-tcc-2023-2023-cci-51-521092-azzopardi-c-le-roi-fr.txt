@@ -1,0 +1,207 @@
+Title: Azzopardi c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521092/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-51-521092-azzopardi-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-05-10
+
+# Azzopardi c. Le Roi
+
+- Citation: 2023 CCI 51
+- Decision date: 2023-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5879, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Azzopardi c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-05-10
+Référence neutre
+2023 CCI 51
+Numéro de dossier
+2014-3806(IT)G
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3806(IT)G
+ENTRE :
+EMMANUEL AZZOPARDI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 27 mars 2023 à Windsor (Ontario).
+Devant : l’honorable juge David E. Spiro.
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimé :
+Me Lindsay Tohn et Me Marissa Figlarz
+JUGEMENT
+Les appels des nouvelles cotisations établies pour les années d’imposition 2001, 2003 et 2005, ainsi que l’appel de la cotisation établie pour l’année d’imposition 2011, tous interjetés sous le régime de la Loi de l’impôt sur le revenu, sont rejetés, avec dépens établis conformément au tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme ce 22e jour d’août 2024.
+Sébastien D’Auteuil, jurilinguiste
+Référence : 2023 CCI 51
+Date : 20230510
+Dossier : 2014-3806(IT)G
+ENTRE :
+EMMANUEL AZZOPARDI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] L’appelant, M. Emmanuel Azzopardi, a investi dans un abri fiscal dans le domaine du cinéma à titre d’associé d’une société de personnes. Il soutient qu’il est en droit d’avoir son mot à dire sur la manière dont l’Agence du revenu du Canada (l’« ARC ») a recalculé la perte pour l’année 2001 de cette société de personnes, Grosvenor Services 2001 Limited Partnership (la « société de personnes »), dans laquelle il détenait une participation de 0,114503 %.
+Aperçu [2] L’appelant a deux principaux motifs de plainte. Premièrement, il affirme que l’ARC a omis de l’inclure dans le processus d’opposition ayant mené à la nouvelle détermination de la perte de la société de personnes. Deuxièmement, il soutient que l’ARC ne lui a pas remis les documents nécessaires pour qu’il puisse contester cette nouvelle détermination devant notre Cour.
+[3] Malheureusement pour l’appelant, lorsque le ministre du Revenu national (le « ministre ») détermine le revenu ou la perte d’une société de personnes, un seul de ses associés est en droit de s’opposer à la décision. Dans la Loi de l’impôt sur le revenu (la « Loi »), cet associé est appelé l’« associé désigné ». Comme l’appelant n’a pas été désigné à cette fin ni n’a été autrement autorisé à agir ainsi par la société de personnes, il n’était pas en droit de s’opposer à la nouvelle détermination établie par le ministre ou de participer aux négociations ayant mené à la nouvelle détermination de la perte de la société de personnes pour l’année 2001.
+[4] La nouvelle détermination de la perte de la société de personnes liait tous les associés. Le ministre avait un an pour établir une nouvelle cotisation à l’égard de l’appelant en tenant compte de cette nouvelle détermination. Le ministre a établi une nouvelle cotisation à l’égard de l’appelant à l’intérieur de ce délai. Par conséquent, les appels de l’appelant doivent être rejetés.
+Les appels et le procès [5] L’appelant a interjeté appel des nouvelles cotisations établies à son égard pour les années d’imposition 2001, 2003 et 2005. Il a également interjeté appel de la cotisation établie à son égard pour l’année d’imposition 2011. Je commence par examiner la cotisation visant cette dernière année d’imposition.
+[6] L’appelant ne pouvait expliquer pour quelle raison il avait interjeté appel de la cotisation établie à son égard pour l’année d’imposition 2011. L’avis d’opposition concernant cette cotisation indiquait ce qui suit [traduction] : « Les gains en capital inclus dans le revenu indiqué sur le feuillet T5013 étaient surévalués[1] ». Or, l’appelant lui-même avait présenté une demande de redressement d’une T1 pour cette année afin d’inclure un gain en capital imposable de 99 575,19 $ sur la disposition de sa participation dans la société de personnes, soit exactement la somme que le ministre a utilisée pour établir la cotisation[2]. L’appelant a pour ainsi dire retiré son opposition quand il a admis que le [traduction] « bon gain en capital a été inclus[3] ». L’appel interjeté par l’appelant de la cotisation établie à son égard pour l’année d’imposition 2011 sera rejeté.
+[7] Les appels interjetés par l’appelant des nouvelles cotisations établies à son égard pour les années d’imposition 2003 et 2005 concernent des reports prospectifs de l’impôt minimum de remplacement découlant directement de la nouvelle cotisation établie à son égard pour l’année d’imposition 2001. L’issue des appels interjetés par l’appelant pour ces années dépend donc entièrement de l’issue de l’appel concernant l’année d’imposition 2001.
+[8] L’appelant n’était pas représenté par un avocat au procès. Son seul témoin était son comptable, M. Alexander Menzies. M. Menzies est la personne qui a fait connaître la société de personnes à l’appelant. La Couronne a cité à comparaître Mme Tarvinder Kaur, spécialiste des appels en matière d’impôt à la Direction générale des appels de l’ARC à Ottawa. Mme Kaur a offert un témoignage concernant l’« associé désigné » de la société de personnes.
+Le rôle de l’« associé désigné » d’une société de personnes lors d’une opposition [9] Le paragraphe 165(1.15) de la Loi dispose que, dans le cas où le ministre détermine le montant d’un revenu ou d’une perte d’une société de personnes, la seule personne autorisée à signifier un avis d’opposition au ministre concernant ce montant est l’associé de la société de personnes qui est a) désigné à cette fin dans la déclaration de renseignements présentée par la société de personnes ou b) expressément autorisé par la société de personnes à agir ainsi[4] :
+(1.15) Malgré le paragraphe (1), dans le cas où le ministre détermine un montant en application du paragraphe 152(1.4) relativement à l’exercice d’une société de personnes, seul est autorisé à faire une opposition concernant ce montant l’associé de la société de personnes qui est, selon le cas :
+a) désigné à cette fin dans la déclaration de renseignements présentée en application de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice;
+b) autrement expressément autorisé par la société de personnes à agir ainsi.
+[10] En se fondant sur cette disposition, la Cour d’appel fédérale a conclu que « seuls ont le droit de faire appel d’une détermination les associés désignés ou autorisés de la société de personnes[5] ». Dans l’arrêt Tedesco c. Canada, 2019 CAF 235, la Cour d’appel fédérale a examiné le cadre légal pertinent :
+[17] Une société de personnes ne paie pas d’impôts aux termes de la Loi. En effet, elle calcule plutôt son revenu (ou ses pertes) comme si elle était une personne, puis elle distribue à chaque associé sa part proportionnelle de ce revenu (ou de ces pertes). Par conséquent, il n’y a pas de cotisation ni de nouvelle cotisation concernant l’impôt payable par une société de personnes. Ainsi, si le ministre n’est pas d’accord avec le revenu ou les pertes déclarés par une société de personnes et distribués à ses associés, alors il doit procéder à une nouvelle cotisation pour chaque associé. Afin d’éviter que surgissent de nombreux différends avec les associés en ce qui a trait au revenu ou aux pertes d’une société de personnes particulière, le paragraphe 152(1.4) de la Loi a été ajouté pour permettre au ministre de déterminer le revenu ou les pertes d’une société de personnes. […]
+[18] Selon le paragraphe 165(1.15) de la Loi, seul est autorisé à présenter un avis d’opposition à une détermination d’un montant effectuée aux termes du paragraphe 152(1.4) l’associé de la société de personnes qui est désigné à cette fin ou autorisé à intervenir ainsi. […]
+[19] Selon le paragraphe 152(1.7) de la Loi, sous réserve des droits d’opposition et d’appel, la détermination effectuée par le ministre en vertu du paragraphe 152(1.4) de la Loi relativement au revenu ou aux pertes de la société de personnes lie le ministre et chacun de ses associés. Le paragraphe 152(1.7) de la Loi prévoit également que le ministre peut, malgré le paragraphe 152(4) de la Loi, procéder à une nouvelle cotisation pour chaque associé « avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau ».
+[Non souligné dans l’original.]
+[11] Dans la décision Lux Operating Limited Partnership c. La Reine, 2018 CCI 141 [Lux CCI], le juge Graham note que le ministre a le choix entre établir une cotisation ou une nouvelle cotisation pour chaque associé individuellement (le « processus traditionnel ») et établir une détermination ou une nouvelle détermination pour la société de personnes qui lie tous les associés et qui permet au ministre d’établir une cotisation ou une nouvelle cotisation pour chacun des associés afin de mettre en application la détermination ou la nouvelle détermination (le « processus simplifié »)[6] :
+[7] À de rares exceptions près, les sociétés de personnes ne sont pas des personnes et ne sont pas assujetties à l’impôt aux termes de la Loi. Toutefois, les sociétés de personnes sont tenues de produire des déclarations de renseignements sur un formulaire prescrit déclarant leurs revenus ou leurs pertes comme s’il s’agissait d’un contribuable (Règlement de l’impôt sur le revenu, article 229). Les associés de la société de personnes déclarent ensuite leur part du revenu ou de la perte de la société de personnes dans leurs propres déclarations de revenus (paragraphe 96(1)).
+[8] Le ministre dispose de trois ans à compter du jour où la déclaration de la société de personnes doit être produite et du jour où elle est effectivement produite pour contester les revenus ou les pertes indiqués dans la déclaration de renseignements (paragraphe 152(1.4)), selon la plus tardive des deux dates. Si le ministre n’est pas d’accord avec les revenus ou les pertes déclarés dans la déclaration de renseignements, le ministre a deux options.
+[9] L’option traditionnelle, moins efficace, consiste pour le ministre à établir une nouvelle cotisation pour chaque associé individuellement pour rajuster sa part des revenus ou des pertes de la société de personnes. J’appellerai cette option le « processus traditionnel ». Dans le cadre du processus traditionnel, si les associés ne sont pas d’accord avec le point de vue du ministre quant aux revenus de la société de personnes, ils peuvent individuellement s’opposer à leur nouvelle cotisation et interjeter appel de celle-ci. Le processus traditionnel était la seule option dont disposait le ministre avant l’introduction du paragraphe 152(1.4) et des dispositions connexes en 1998.
+[10] La deuxième option, plus simple, consiste pour le ministre à déterminer les revenus ou les pertes de la société de personnes (paragraphe 152(1.4)). J’appellerai cette option le « processus simplifié ». Le processus simplifié a l’avantage de résoudre tout différend au sujet des revenus ou des pertes de la société de personnes au niveau de la société de personnes. Si le ministre effectue une détermination aux termes du paragraphe 152(1.4), il envoie un avis de détermination à la société de personnes et à chaque contribuable qui était un associé de la société de personnes au cours de l’année d’imposition pertinente (paragraphe 152(1.5)). La détermination lie le ministre et chaque associé, à moins qu’elle ne fasse l’objet d’une opposition ou que le ministre n’établisse une nouvelle détermination (alinéa 152(1.7)a)). Les étapes suivantes du processus simplifié dépendent du fait que la société de personnes souhaite contester ou non la détermination. Si la société de personnes décide de ne pas contester la détermination, le ministre peut alors établir une nouvelle cotisation pour chacun des associés pour donner effet à la détermination. La nouvelle cotisation est une étape importante du processus parce que ce sont les associés, et non la société de personnes, qui paient les impôts. Si la société de personnes décide de s’opposer à la détermination, le différend suit la procédure habituelle. Les dispositions d’opposition et d’appel normalement applicables aux cotisations s’appliquent aux déterminations (paragraphe 152(1.2)). Toutefois, un associé, connu sous le nom d’associé désigné, conteste la détermination au nom de tous les associés (paragraphe 165(1.15)). Cet associé est généralement l’associé qui a été désigné à cette fin dans la déclaration de renseignements produite par la société de personnes. Si le différend est réglé d’une manière qui entraîne une modification des revenus ou des pertes de la société de personnes, le ministre peut établir une nouvelle cotisation pour chacun des associés afin de donner effet au règlement. Une fois de plus, la nouvelle cotisation est une étape importante du processus parce que ce sont les associés, et non la société de personnes, qui paient l’impôt.
+[11] Il est important de souligner que le processus traditionnel et le processus simplifié mènent tous deux au même résultat. La seule différence est que, dans le cadre du processus simplifié, l’opposition ou l’appel se fait collectivement par l’entremise de l’associé désigné, alors que dans le cadre du processus traditionnel, il est fait individuellement par chaque associé. Ainsi, bien que le processus simplifié soit généralement plus efficace pour toutes les parties, les deux processus permettent au ministre de cotiser le bon montant d’impôt et les deux processus garantissent que les associés ont des droits d’opposition et d’appel.
+[Non souligné dans l’original.]
+[12] Si le ministre utilise le processus simplifié, seul l’associé désigné est autorisé à contester la détermination en signifiant un avis d’opposition au ministre. Une fois le processus d’opposition achevé, tous les associés sont liés par la nouvelle détermination établie par le ministre et une cotisation ou une nouvelle cotisation est établie à leur égard en fonction de cette nouvelle détermination dans un délai d’un an[7].
+Les faits ayant mené à la nouvelle détermination en litige [13] En calculant son revenu imposable pour l’année d’imposition 2001, l’appelant a déduit sa part proportionnelle de la perte de la société de personnes pour l’exercice 2001. La société de personnes a établi sa perte pour cet exercice à 255 788 405 $. La part proportionnelle de cette perte revenant à l’appelant s’élevait à 292 859 $[8]. En mai 2002, le ministre a établi une cotisation à l’égard de l’appelant pour l’année d’imposition 2001 conformément à la déclaration produite[9].
+[14] Dans un avis daté du 30 mars 2005, le ministre a déterminé la perte de la société de personnes pour l’exercice 2001 et l’a fixée à 134 913 329 $ (la « détermination initiale »)[10].
+[15] Aux termes du paragraphe 152(1.4) de la Loi, la détermination initiale liait tous les associés de la société de personnes. De plus, le paragraphe 152(1.6) de la Loi dispose qu’une détermination effectuée en application du paragraphe 154(1.4) lie tous les associés, peu importe qu’ils aient reçu ou non un avis de détermination :
+(1.4) Le ministre peut déterminer le revenu ou la perte d’une société de personnes pour un exercice de celle-ci ainsi que toute déduction ou tout autre montant, ou toute autre question, se rapportant à elle pour l’exercice qui est à prendre en compte dans le calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un de ses associés, de l’impôt ou d’un autre montant payable par celui-ci, d’un montant qui lui est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par lui, en vertu de la présente partie. Cette détermination se fait dans les trois ans suivant le dernier en date des jours suivants :
+a) le jour où, au plus tard, un associé de la société de personnes est tenu par l’article 229 du Règlement de l’impôt sur le revenu de remplir une déclaration de renseignements pour l’exercice, ou serait ainsi tenu si ce n’était le paragraphe 220(2.1);
+b) le jour où la déclaration est produite.
+(1.5) Le ministre envoie un avis de la détermination effectuée en application du paragraphe (1.4) à la société de personnes concernée et à chaque personne qui en était un associé au cours de l’exercice.
+(1.6) La détermination effectuée en application du paragraphe (1.4) pour un exercice n’est pas invalidée du seul fait qu’une ou plusieurs personnes qui étaient des associés de la société de personnes concernée au cours de l’exercice n’ont pas reçu d’avis de détermination.
+[16] Dans un avis d’opposition signifié le 24 juin 2005, 1444932 Ontario Limited, à titre d’associée désignée, s’est opposée à la détermination initiale au nom de la société de personnes[11]. Le 15 novembre 2011, l’ARC et la société de personnes ont réglé l’opposition de la société de personnes pour l’exercice 2001 en signant un procès-verbal de la transaction[12].
+[17] Dans un avis daté du 2 avril 2012, le ministre a déterminé à nouveau la perte de la société de personnes pour l’exercice 2001 et l’a établie à 194 876 572 $ (la « nouvelle détermination »)[13]. La nouvelle détermination tenait compte du montant de la perte de la société de personnes sur lequel s’étaient entendues la société de personnes et l’ARC dans le procès-verbal de la transaction.
+[18] L’alinéa 152(1.7)a) de la Loi dispose que la nouvelle détermination lie tous les associés de la société de personnes. L’alinéa 152(1.7)b) de la Loi accorde ensuite au ministre un an à partir de la date à laquelle la nouvelle détermination est devenue définitive et exécutoire pour établir une cotisation ou une nouvelle cotisation à l’égard de chaque associé afin de tenir compte de la nouvelle détermination.
+(1.7) Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a)sous réserve des droits d’opposition et d’appel de l’associé de la société de personnes visé au paragraphe 165(1.15) relativement au montant déterminé ou déterminé de nouveau, la détermination ou nouvelle détermination lie le ministre ainsi que les associés de la société de personnes pour ce qui est du calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada des associés, de l’impôt ou d’un autre montant payable par ceux-ci, d’un montant qui leur est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par eux, en vertu de la présente partie;
+b)malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+La nouvelle cotisation établie à l’égard de l’appelant pour l’année d’imposition 2001 [19] Dans un avis daté du 19 novembre 2012, le ministre a établi une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2001 afin de tenir compte de sa part proportionnelle de la perte de la société de personnes rajustée par la nouvelle détermination[14].
+[20] L’effet net de la nouvelle cotisation a été de réduire de 69 746 $ la perte de 292 859 $ déclarée par l’appelant du fait de son investissement dans la société de personnes. Le revenu imposable de l’appelant pour l’année d’imposition 2001 a ainsi été revu à la hausse, pour s’établir à 388 409 $[15].
+[21] L’appelant n’a fait valoir ni par écrit ni oralement que la nouvelle cotisation de 2001 ne correspondait pas à sa part proportionnelle de la perte de la société de personnes calculée conformément à la nouvelle détermination effectuée par le ministre.
+Les arguments de l’appelant [22] À l’audience, l’appelant a présenté cinq arguments principaux[16] :
+1. Le ministre n’aurait pas dû accepter 1444932 Ontario Limited comme représentante de l’appelant [23] L’appelant a soutenu que, pour que la Couronne puisse avoir gain de cause, une preuve indiquant qu’il avait autorisé 1444932 Ontario Limited à le représenter devait être produite.
+[24] L’appelant a noté à juste titre que les éléments de preuve ne contiennent aucune procuration ou autre autorisation dans laquelle l’appelant nomme 1444932 Ontario Limited pour le représenter dans l’opposition à la détermination initiale. On n’y trouve également aucune notice d’offre ni aucun autre document par lequel les associés de la société de personnes, dont l’appelant, désignent 1444932 Ontario Limited comme représentante à cette fin. Enfin, les éléments de preuve ne contiennent aucun formulaire RC59 qui aurait autorisé l’ARC à négocier avec 1444932 Ontario Limited au nom de l’appelant[17].
+[25] Or, à la lumière de l’économie générale de la Loi, sur laquelle se sont penchées notre Cour et la Cour d’appel fédérale dans les décisions Lux CCI, Tedesco et Lux CAF, un tel élément de preuve n’est pas nécessaire. Lorsque le ministre utilise le processus simplifié, la société de personnes qui conteste une détermination désigne ou autorise autrement l’un de ses associés à faire opposition en son nom. C’est là le sens du paragraphe 165(1.15) de la Loi.
+[26] J’estime que 1444932 Ontario Limited était a) désignée dans la déclaration de renseignements produite aux termes de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice 2001 de la société de personnes ou b) autrement expressément autorisée par la société de personnes à agir ainsi. J’ai tiré cette conclusion selon la prépondérance des probabilités à la lumière des éléments de preuve suivants (la société de personnes est également appelée la [traduction] « société de personnes émettrice » dans certains documents) :
+Paragraphe 13 de l’avis d’opposition de la société de personnes (pièce R‑5) :
+[traduction]
+13. 1444932 Ontario Limited est l’associée de la société de personnes émettrice désignée pour s’opposer à la détermination établie par le ministre en vertu du paragraphe 165(1.15) de la Loi de l’impôt sur le revenu (Canada).
+Paragraphes 5, 6, 14 et 15 du procès-verbal de la transaction entre la société de personnes et l’ARC (pièce R-6) :
+[traduction]
+5. 1444932 Ontario Limited et Hazelton Films GP MMI Inc. sont les commanditées et les associées désignées de la société de personnes émettrice et des SCSP, respectivement;
+6. Au nom de leur société de personnes respective, 1444932 Ontario Limited et Hazelton Films GP MMI Inc. s’opposent aux déterminations mentionnées ci-dessus;
+[…]
+14. 1444932 Ontario Limited et Hazelton Films GP MMI Inc. comprennent qu’une fois que le ministre a produit les nouvelles déterminations tenant compte des rajustements présentés ci-dessus au paragraphe 10, le paragraphe 152(1.7) de la LIR empêche les associés de la société de personnes faisant l’objet de la nouvelle détermination de déposer un avis d’opposition ou de contester autrement les nouvelles cotisations des associés qui tiennent compte des nouvelles déterminations;
+15. Par la signature de leurs avocats, 1444932 Ontario Limited et Hazelton Films GP MMI Inc. confirment qu’elles sont autorisées à signer le procès-verbal de la transaction mettant en œuvre l’accord de règlement contenu dans ce procès-verbal et qu’elles signent le procès-verbal de la transaction au nom de leur société de personnes respective.
+L’ARC a envoyé l’avis de détermination à « Grosvenor Services 2001 Limited Partnership c/o 1444932 Ontario Limited » (pièce R-4);
+L’avis d’opposition à la détermination a été signifié au ministre par « Grosvenor Services 2001 Limited Partnership c/o 1444932 Ontario Limited » (pièce R-6);
+L’ARC a envoyé l’avis de nouvelle détermination à « Grosvenor Services 2001 Limited Partnership c/o 1444932 Ontario Limited » (pièce R-7);
+Mme Kaur a témoigné que l’ARC considérait que 1444932 Ontario Limited était l’associée désignée de la société de personnes[18];
+M. Menzies a témoigné qu’il ne disposait d’aucun renseignement indiquant que 1444932 Ontario Limited n’était pas l’associée désignée de la société de personnes[19].
+[27] Sur la base de tous ces éléments de preuve, je conclus que 1444932 Ontario Limited est l’« associée désignée » de la société de personnes au sens du paragraphe 165(1.15) de la Loi[20].
+2. Le ministre n’aurait pas dû prendre dix ans pour établir la nouvelle cotisation à l’égard de l’appelant[21] [28] L’appelant a souligné à juste titre qu’une cotisation avait été établie à son égard pour l’année d’imposition 2001 au printemps 2002, mais que le ministre n’a établi une nouvelle cotisation pour cette année d’imposition qu’à l’automne 2012. Il a soutenu que le délai de dix ans avant que le ministre établisse une nouvelle cotisation était injuste et déraisonnable.
+[29] Je trouve une réponse complète à cet argument à l’alinéa 152(1.7)b) de la Loi. Cette disposition accorde un an au ministre pour établir une nouvelle cotisation à partir du moment où la nouvelle détermination devient définitive et exécutoire. Comme le droit de la société de personnes de s’opposer à la nouvelle détermination datée du 2 avril 2012 venait à échéance le 2 juillet 2012, et comme le ministre a établi le 19 novembre 2012 une nouvelle cotisation tenant compte de la nouvelle détermination, le ministre respectait tout à fait le délai d’un an prescrit par l’alinéa 152(1.7)b) de la Loi.
+3. La Charte des droits du contribuable obligeait le ministre à aviser l’appelant que la société de personnes était un stratagème fiscal douteux[22] [30] L’appelant a affirmé que le ministre avait l’obligation de le mettre en garde contre la société de personnes parce qu’elle constituait un « stratagème fiscal douteux ». Pour appuyer son argument, il a renvoyé au paragraphe 14 de la Charte des droits du contribuable publiée par l’ARC :
+14. Vous êtes en droit de vous attendre à ce que nous vous mettions en garde contre des stratagèmes fiscaux douteux en temps opportun
+Vous pouvez vous attendre à ce que nous vous fournissions des renseignements opportuns sur les stratagèmes fiscaux douteux que nous examinons. Toutefois, nous ne pouvons faire de telles mises en garde qu’après avoir pris connaissance de ces stratagèmes et avoir pu établir leur nature douteuse.
+[31] Ni l’appelant ni la Couronne n’a affirmé que la société de personnes constituait un « stratagème fiscal douteux ». Quoi qu’il en soit, notre Cour n’a pas le pouvoir de mettre en application la Charte des droits du contribuable. Comme l’a souligné le juge Graham dans la décision Johnson c. La Reine, 2022 CCI 31 :
+[25] La Charte des droits du contribuable est un document administratif publié par l’ARC. Il s’agit essentiellement d’un engagement à offrir une certaine qualité de services aux contribuables canadiens. Ce document n’a pas force de loi. Il ne remplace ni ne complète la Loi de l’impôt sur le revenu.
+[…]
+[27] Le contribuable ne peut pas intenter une action contre l’ARC devant la Cour de l’impôt en raison d’un manquement allégué à la Charte des droits du contribuable. […]
+[28] Le simple fait que le ministre ait pu manquer à la Charte des droits du contribuable n’est pas, en soi, pertinent pour déterminer la validité ou la justesse des nouvelles cotisations de l’appelant.
+4. Le ministre était tenu d’informer l’appelant de la raison pour laquelle il a décidé de renoncer aux intérêts et doit produire tous les documents relatifs à cette décision [32] L’appelant a affirmé que le ministre était tenu de produire tous les documents concernant sa décision de renoncer à 37 mois d’intérêts pour la période allant du 1er avril 2005 au 1er mai 2008 pour tous les associés de la société de personnes[23].
+[33] Il s’agit d’une recherche à l’aveuglette pour obtenir des documents n’ayant rien à voir avec les questions soulevées dans l’acte de procédure. Mais même si l’appelant avait soulevé ce point comme question en litige, notre Cour n’a pas le pouvoir d’examiner les décisions discrétionnaires prises par le ministre concernant la renonciation aux intérêts[24].
+[34] L’appelant a également affirmé, de manière plus générale, que la Couronne l’avait privé du droit à une communication intégrale des documents avant le procès[25]. Si l’appelant était insatisfait du nombre de documents produits par la Couronne, il aurait pu présenter une requête à la Cour au moment où le problème est survenu. Sans me prononcer sur le bien-fondé de cet argument, je note qu’il est trop tard pour soulever la question à l’audience.
+5. La Couronne devrait assumer le fardeau de la preuve
+[35] L’appelant a affirmé qu’étant donné que tous les faits pertinents relèvent de la connaissance exclusive ou particulière du ministre, la Couronne devrait assumer le fardeau de la preuve. Il a soutenu ce qui suit :
+[traduction] En l’espèce, l’appelant a établi que tous les documents et la correspondance [...] concernant l’ensemble des questions, à l’exception des lettres produites par lui ou des déclarations de revenus de l’appelant, sont des documents produits par l’ARC. Donc, en l’espèce, le fardeau de la preuve incombe au gouvernement, à l’ARC, et non au contribuable[26].
+[36] Contrairement à ce qu’avance l’appelant dans ses observations, il est faux d’affirmer que tous les faits pertinents relèvent de la connaissance exclusive ou particulière du ministre. L’appelant était un associé de la société de personnes. En cette capacité, il avait accès aux faits et documents concernant les activités commerciales de la société de personnes. S’il a eu des difficultés à obtenir ces faits ou ces documents, il s’agit d’une affaire entre lui et la société de personnes, et non entre lui et l’ARC.
+[37] Quoi qu’il en soit, aucun fait n’était en litige dans l’acte de procédure. L’appelant a simplement affirmé que la loi empêchait le ministre de faire certaines choses (arguments 1 et 2 ci-dessus) ou que la loi obligeait le ministre à faire d’autres choses (arguments 3 et 4 ci-dessus). Les arguments de l’appelant concernent le droit, pas les faits. L’argument de l’appelant relativement au fardeau de la preuve n’est pas fondé.
+Conclusion
+[38] L’appel de l’appelant relativement à la nouvelle cotisation établie à son égard pour l’année d’imposition 2001 est rejeté. Comme les nouvelles cotisations établies à son égard pour 2003 et 2005 découlent directement de la nouvelle cotisation établie à son égard pour 2001, et comme il a admis que la cotisation établie à son égard pour 2011 était exacte, les appels seront rejetés, avec dépens établis conformément au tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 10e jour de mai 2023.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme ce 22e jour d’août 2024.
+Sébastien D’Auteuil, jurilinguiste
+RÉFÉRENCE :
+2023 CCI 51
+No DU DOSSIER DE LA COUR :
+2014-3806(IT)G
+INTITULÉ :
+EMMANUEL AZZOPARDI c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 27 mars 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 10 mai 2023
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocates de l’intimé :
+Me Lindsay Tohn et Me Marissa Figlarz
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Avis d’opposition à la cotisation établie à l’égard de l’appelant pour l’année d’imposition 2011, 8 novembre 2012 (pièce R-2).
+[2] Ligne 127 de la demande de redressement d’une T1 pour l’année d’imposition 2011 de l’appelant, 9 juillet 2012 (pièce R-1).
+[3] Voir l’avis de confirmation, 20 août 2013 (pièce R-3). Voir également la page 71, lignes 6 à 16, de la transcription.
+[4] Canada c. Lux Operating Limited Partnership, 2020 CAF 162, par. 29 [Lux CAF].
+[5] Ibid, par. 38.
+[6] Dans l’arrêt Lux CAF, la Cour d’appel fédérale a annulé l’ordonnance rendue par notre Cour pour trancher une question soulevée par les parties en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), au motif que la question était prématurée. Toutefois, la Cour d’appel fédérale a explicitement approuvé l’interprétation qu’avait faite notre Cour de l’objet des dispositions :
+[41] Je suis d’accord avec le juge de la Cour canadienne de l’impôt que l’objet du paragraphe 152(1.4) de la Loi et des paragraphes connexes est de permettre au ministre de déterminer un montant à l’égard des sociétés de personnes. […]
+[7] Le ministre est également lié par les déterminations et les nouvelles déterminations établies et doit donc s’assurer que les cotisations établies à l’égard de tous les associés de la même société de personnes sont a) cohérentes et b) conformes à la détermination ou la nouvelle détermination établie par le ministre à l’égard de la société de personnes pour un exercice donné.
+[8] Voir l’alinéa 23d) de la réponse.
+[9] Voir le paragraphe 12 de la réponse.
+[10] Avis de détermination pour Grosvenor Services 2001 Limited Partnership pour l’exercice clos le 31 décembre 2001, daté du 30 mars 2005 (pièce R-4).
+[11] Avis d’opposition à la détermination de la perte de Grosvenor Services 2001 Limited Partnership pour l’exercice clos le 31 décembre 2001, reçu par l’ARC le 24 juin 2005 (pièce R‑5).
+[12] Procès-verbal de transaction entre Grosvenor Services 2001 Limited Partnership (et 15 autres sociétés en commandite de services de production) et l’ARC, daté du 15 novembre 2011 (pièce R-6).
+[13] Avis de nouvelle détermination pour Grosvenor Services 2001 Limited Partnership pour l’exercice clos le 31 décembre 2001, daté du 2 avril 2012 (pièce R-7).
+[14] Avis de nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2001, daté du 19 novembre 2012 (pièce A-2).
+[15] Voir l’annexe A de la lettre de l’ARC à M. Menzies datée du 11 mars 2014 pour connaître le calcul utilisé afin d’établir la réduction de la part proportionnelle de l’appelant de la perte de la société de personnes pour l’exercice 2001 (pièce R-8). Voir l’avis de nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2001 pour connaître son revenu imposable revu pour cette année (pièce A-2).
+[16] En outre, l’appelant a affirmé, au paragraphe 3 de son avis d’appel, à la rubrique [traduction] « Points en litige », de même qu’à l’audience, qu’une décision anticipée en matière d’impôt sur le revenu devrait l’emporter. Comme il n’a pas été en mesure de produire de telle décision, je ne peux tenir compte de cet argument. Il a également renvoyé à d’autres décisions judiciaires n’ayant aucun lien pertinent avec les questions dont je suis saisi, y compris Leroux v. Canada Revenue Agency, 2014 BCSC 720, Agence du revenu du Québec c. Groupe Enico, 2016 QCCA 76, et Choptiany c. Le Roi, 2022 CCI 112. Enfin, au paragraphe 5 de son avis d’appel, à la rubrique [traduction] « Questions à soulever », il a soulevé une question relativement à l’existence, à l’envoi et à la réception de l’avis de détermination initiale. L’appelant n’a produit aucun élément de preuve sur ce point et n’a pas soulevé la question dans ses arguments (voir page 160 de la transcription, aux lignes 10 à 25).
+[17] Le formulaire RC59 était le formulaire autorisant l’ARC à négocier avec une personne ou une firme à titre de représentante du contribuable relativement aux renseignements sur le compte du contribuable.
+[18] Transcription, page 92, lignes 4 à 7.
+[19] Transcription, page 66, lignes 16 à 22.
+[20] Un élément de preuve était nécessaire parce que le ministre n’a formulé aucune hypothèse de fait selon laquelle 1444932 Ontario Limited était a) désignée dans la déclaration de renseignements présentée aux termes de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice 2001 de la société de personnes ou b) autrement expressément autorisée par la société de personnes à agir ainsi.
+[21] L’appelant a soulevé ce point au paragraphe 6 de son avis d’appel, à la rubrique [traduction] « Points en litige ».
+[22] L’appelant a soulevé ce point au paragraphe 1 de son avis d’appel, à la rubrique [traduction] « Points en litige ».
+[23] Voir la lettre de M. Mark Okonski de l’ARC à l’appelant datée du 3 avril 2012 (pièce A-1). L’appelant a déclaré (aux lignes 2 à 6 de la page 48 de la transcription) : [traduction] « Une décision a été prise [par le ministre du Revenu national] de renoncer [aux intérêts]. Je veux savoir comment ils en sont venus à cette décision, où sont les documents qui justifient cette décision ».
+[24] Voir, par exemple, Moledina c. La Reine, 2007 CCI 354, par. 6.
+[25] L’appelant a soulevé ce point au paragraphe 8 de son avis d’appel, à la rubrique [traduction] « Points en litige ».
+[26] Transcription, page 141, lignes 11 à 19.

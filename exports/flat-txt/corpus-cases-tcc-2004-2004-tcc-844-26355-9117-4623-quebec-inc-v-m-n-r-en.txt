@@ -1,0 +1,225 @@
+Title: 9117-4623 Quebec Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26355/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-844-26355-9117-4623-quebec-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-12-21
+
+# 9117-4623 Quebec Inc. v. M.N.R.
+
+- Citation: 2004 TCC 844
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3368, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9117-4623 Quebec Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-21
+Neutral citation
+2004 TCC 844
+File numbers
+2003-4399(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-4399(EI)
+BETWEEN:
+9088-9726 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SERGE ROY,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of 9117-4623 Québec Inc. (2003‑4579(EI)) on November 25, 2004, at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Pierre Chénier
+Counsel for the Respondent:
+Agathe Cavanagh
+Counsel for the Intervenor:
+Manon Leclerc
+JUDGMENT
+The appeal is dismissed, and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 21st day of December 2004.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 10th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+BETWEEN:
+Docket: 2003-4579(EI)
+9117-4623 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SERGE ROY,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of 9088-9726 Québec Inc. (2003‑4399(EI)) on November 25, 2004, at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Pierre Chénier
+Counsel for the Respondent:
+Agathe Cavanagh
+Counsel for the Intervenor:
+Manon Leclerc
+JUDGMENT
+The appeal is dismissed, and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 21st day of December 2004.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 10th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC844
+Date: 20041221
+Docket: 2003-4399(EI)
+BETWEEN:
+9088-9726 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SERGE ROY,
+Intervenor.
+AND
+Docket: 2003-4579(EI)
+9117-4623 QUÉBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SERGE ROY,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] These appeals were heard on common evidence at Montreal, Quebec, on November 25, 2004.
+[2] These appeals concern the insurability of the employment of Serge Roy, the worker, when he was employed by the Appellant, 9088-9726 Québec Inc., from November 25, 2002, to January 8, 2003, the first period at issue, and when he was employed by the Appellant, 9117-4623 Québec Inc., from January 13 to March 14, 2003, the second period at issue.
+[3] On September 8, 2003, the Minister of National Revenue (“the Minister”) informed the Appellant, 9088-9726 Québec Inc., of his decision that the worker had held insurable employment during the first period at issue and had accumulated 200 insurable hours and insurable earnings totalling $2,500 during that period.
+[4] On September 4, 2003, the Minister informed the Appellant, 9117-4623 Québec Inc., of his decision that the worker had held insurable employment during the second period at issue and had accumulated 360 insurable hours and insurable earnings totalling $4,500 during that period.
+[5] In rendering his decision regarding the first period at issue, the Minister relied on the following assumptions of fact:
+a) The Appellant, incorporated on March 20, 2000, operates a building construction business. (admitted)
+b) The Appellant’s sole shareholder was Mr. Bruce Zikman. (denied)
+c) During the period at issue, the Appellant constructed 6- and 12‑unit residential complexes in the city of Laval. (admitted)
+d) The worker had been hired as a supervisor to co‑ordinate the construction of buildings for the Appellant. (denied)
+e) The construction work had been done by sub-contractors paid by the Appellant, and the worker supervised their work shifts. (admitted in part)
+f) The worker worked under the supervision of Léo Marcotte, head supervisor. (admitted in part)
+g) The worker used the Appellant’s tools and equipment in carrying out his work. (in part)
+h) The Appellant claims that the worker worked between 35 and 40 hours per week, whereas the worker claims that he worked between 40 and 45 hours per week. (no knowledge)
+i) The worker received fixed remuneration of $500 net per week. (admitted in part)
+j) The worker received a monthly amount of $200 from the Appellant to cover his travel expenses and other expenses incurred in carrying out his work. (admitted in part)
+k) During the period at issue, the worker worked 200 hours, that is, five 40-hour weeks. (denied)
+[6] In rendering his decision regarding the first period at issue, the Minister relied on the following assumptions of fact:
+a) The Appellant, incorporated on June 1, 2002, operates a building construction business.
+b) The Appellant has its place of business at 100-4400 Côte de Liesse in Montreal.
+c) During the period at issue, the Appellant constructed 6- and 12‑unit residential complexes in the city of Laval.
+d) The Appellant had hired the worker as a supervisor assistant to co‑ordinate the construction of buildings.
+e) The worker was to supervise the work of the construction workers (electricians, carpenters, plumbers, etc.) of the Appellant’s sub‑contractors.
+f) The worker worked under the supervision of Léo Marcotte, the Appellant’s head supervisor.
+g) The worker generally worked from Monday to Friday, between 7:00 a.m. and 4:00 p.m., 40 hours per week.
+h) The Appellant provided the worker with all the tools needed for his work.
+i) The worker incurred no expenses in carrying out his work for the Appellant.
+j) The worker received weekly remuneration of $500.
+k) During the period at issue, the Appellant paid the worker $4,500, that is, nine weeks at $500 each.
+l) During the period at issue, the worker worked 360 hours, nine 40‑hour weeks.
+[7] The evidence revealed that the two Appellants are owned by a corporation controlled by Bruce Zikman and Gerry Frankel under the name Les services immobiliers Sétam enr.
+[8] The worker was a construction contractor and, as such, he had a construction licence and a number for GST and QST.
+[9] At the Appellants’ request, the worker met with Bruce Zikman and his accountant, Allan Zeesman, and received a job offer. This was further to some building development and construction projects formulated by the parties with the worker. The worker had allegedly found a piece of land to be purchased on which the Appellants planned to build, and he had been promised a commission on that sale. An agreement had been signed on March 11, 2002, between the worker, 9096‑9031 Québec Inc., and Pierre Chénier for a profit-sharing partnership. The worker had found the property, and the purchasers owed him a commission of $12,000, an amount he has had difficulty collecting. He claims that the Appellants still owe him $7,000.
+[10] After that, the parties, namely the Appellants and Services immobiliers Sétam enr., had worked on some development projects in St-Jérôme, but the project had been abandoned.
+[11] At that time, November 2002, the worker had been hired to ensure the management, along with Léo Marcotte, of two construction sites, which were at 4930 Chemin Queen Mary and on Jasmin Street.
+[12] The Appellants and Services immobiliers Sétam enr. had wanted to hire the worker as a self-employed worker and pay him upon the submission of invoices bearing the name of the worker’s company, which has a construction licence, in order to avoid paying SDs. To accept that arrangement, the worker had required remuneration of $1,200 to $1,500 per week. The Appellants had refused that remuneration, and the parties negotiated.
+[13] Without resolving the disagreement, the worker began to work for the Appellants during the first period at issue, starting on November 29, 2002. The worker says that the wages of $500 per week were his net wages, not gross.
+[14] Afterwards, according to the evidence, Bruce Zikman had hounded the worker to provide him with invoices in his company’s name and his GST and QST numbers. According to the worker, he did this 50 times (which was not contradicted by the Appellants), but the worker had refused to do so, and Construction Sétam and the Appellants had continued to pay the worker $500 per week with no deductions.
+[15] The worker has always worked at least 40 to 45 hours per week. He looked after the management of the Appellants’ sites, and when all the sub‑contractors were working and he had some free time, he would leave with Pierre Chénier, the operations manager for the two Appellants, to look for properties to purchase for the Appellants for future development and construction purposes. Mr. Zikman had also entrusted him with the responsibility of visiting other sites to find sub-contractors for the Appellants’ numerous sites. The worker was authorized to hire workers and make purchases. The costs of the purchases he made were reimbursed to him by the Appellants.
+[16] Mr. Zikman visited the sites every day. If the worker was not there, Mr. Zikman would call him on his cellular phone. Mr. Zikman was in regular contact with the site and the worker, even when he was on the ski slopes. The worker was also under Léo Marcotte’s supervision.
+[17] The worker had been employed by the Appellants until March 14, 2003, except for a two-week period of vacation during the Christmas holidays.
+[18] In the spring of 2003, the two Appellants each gave the worker, in his personal name, a T4A indicating earnings of $1,000 under the heading “Other income.”
+[19] Upon receipt of those documents filed in evidence as A-1, the worker had informed the Appellants that he did not want the documents since he had been working as an individual, not on behalf of a company. He had therefore requested ordinary T4s and had been told he would be given them later.
+[20] That had been followed by a phone call from Mr. Zikman, who asked him to hand in his keys after he finished working. His employment had been terminated with two hours notice. It was established that the worker had been receiving $200 from the Appellants per month to compensate for his travel.
+[21] Allan Zeesman, the Appellants’ accountant, testified that the worker’s work had been terminated because he had not fulfilled his obligations and had spent more time taking care of his personal business than the Appellants’ business. It was not specified, but Mr. Zeesman’s explanation did not exclude the reason identified by the worker. Mr. Zeesman also added that the worker had been given a T4A because he was a registered worker.
+[22] Éric Williston had been hired as a day worker by Habitation Sétam, which gave him a cheque for $312 on January 22, 2003, for 26 hours of work at $12 per hour. It was revealed that the hiring of Mr. Williston was to be authorized by Mr. Zikman. In his testimony, Mr. Zikman maintained that he did not know Mr. Williston and claimed that he had been hired by the worker. That is undoubtedly the case, since the worker had received the authorization to do so, but the cheque given to Mr. Williston renders Mr. Zikman’s testimony false when he says that his corporations do not have any employees and hire only sub‑contractors.
+[23] Indeed, in his testimony, Bruce Zikman maintained that his corporations do not have any employees and therefore have no deductions to make. He also said that the Appellants contracted everything out, and the persons who worked for the Appellants were sub-contractors. Furthermore, Mr. Zikman said that even his accountant is part of the corporation.
+[24] On the one hand, the Appellants maintain that, since the worker continued to work for them, this confirms the agreement according to which he carried out his duties as an independent contractor, as the Appellants originally wanted.
+[25] On the other hand, the worker said that he had continued to work because he needed to earn money, and the wages he received by no means represented remuneration for the work carried out by his company. He added that that is why he had objected when he had been given T4As instead of T4s. The thing that is strange and that supports the worker’s argument is that it was at that very time that he was laid off.
+[26] The Appellants’ evidence did not manage to prove the falsity of the Minister’s presumptions. In several respects, the testimonies of the Appellants’ witnesses are inconsistent with the facts. Mr. Zikman stresses the fact that the corporations he operates hire only sub-contractors, yet the evidence showed that the wages paid to the worker in his personal name, the circumstances surrounding his employment, the wages paid to Éric Williston, the supervision exercised over the worker by Léo Marcotte, the visits to the sites, Mr. Zikman’s phone calls to the worker on his cellular phone, and the reimbursement of the worker’s travel expenses all support the argument in favour of the employer‑employee relationship.
+[27] The work tools had been provided by the Appellant, who authorized the purchases and rentals made by the worker and then reimbursed him for those expenses.
+[28] The worker’s remuneration was fixed; he had not incurred any expenses in carrying out his duties. The worker’s duties had been connected – integrated into the Appellant’s business. Who does the business the worker provides services to belong to?
+[29] Paragraph 5(1)(a) of the Employment Insurance Act (“the Act”) defines insurable employment, but it does not define the criteria by which the conditions of employment must be analyzed. This has been established by case law. Wiebe Door Services v. M.N.R., [1986] 3 F.C. 553, has been recognized for ruling that the following criteria are used to determine whether a contract of service exists: control of the worker, ownership of the work tools, chance of profit or risk of loss, and integration of the worker’s work into the payer’s business.
+Control
+[30] The worker had always worked a minimum of 40 to 45 hours per week, according to a set schedule he had kept to. He had worked under the supervision of Léo Marcotte and Bruce Zikman, whose instructions he carried out. He had been reimbursed for purchases made for the Appellants and had been paid $200 per month for his travel expenses. He had been paid fixed wages of $500 per week.
+Ownership of tools
+[31] In his duties as a manager, the worker did not use many tools. The use of his car had been compensated for.
+Chance of profit or risk of loss
+[32] The evidence has established that the worker had no opportunity to earn a profit or incur a loss. He had been paid fixed wages, and all of his expenses had been reimbursed by the Appellants.
+Integration
+[33] The worker carried out his work for the Appellants’ businesses, not on his own account. He had no business. He did not use his company, and refused to use it in the service of the Appellants; that is the main reason he was laid off. He worked exclusively for the Appellants’ businesses and ensured their management, so his work was perfectly integrated into the Appellants’ businesses.
+[34] In accordance with this analysis, this court is of the opinion that, based on the above-mentioned criteria, the worker had been employed in insurable employment.
+[35] In this respect, the Court’s duty was supported by the case law cited by the Minister. After reviewing a similar issue, Pratte J., writing for the Federal Court of Appeal, stated the following in Gallant v. M.N.R., [1986] F.C.J., No. 330:
+The Tax Court of Canada found that the applicant did not hold insurable employment within the meaning of the Unemployment Insurance Act, 1971. It based this decision on two grounds, namely:
+(1) the applicant was employed under a contract for services rather than a contract of service;
+(2) the applicant's employment was excepted because it was of a casual nature other than for the purpose of the employer's business.
+Counsel for the respondent properly admitted that this second ground was without legal foundation. In the Court's view, the first ground is based on the mistaken idea that there cannot be a contract of service unless the employer actually exercises close control over the way the employee does his work. The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. If this rule is applied to the circumstances of the case at bar, it is quite clear that the applicant was an employee and not a contractor.
+[36] To reach its decision, this court turned to the principles stated by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, including the following passage, to shed some light on the situation:
+[...] The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[37] Mr. Zikman’s testimony reveals his intent to hire only workers who would carry out their work as sub-contractors. However, it happened that the circumstances set out in the evidence rendered his intent false. Thus the following passage from M.N.R. v. Emily Standing, [1992] A‑857-90, stated by Stone J. of the Federal Court of Appeal, should be considered (p. 2):
+[...] There is no foundation in the case law for the proposition that such a relationship may exist merely because the parties choose to describe it to be so regardless of the surrounding circumstances when weighed in the light of the Wiebe Door test.
+[38] It is settled law that the onus of proof in the case under review is on the Appellants, but they have not discharged this onus. Furthermore, the evidence has clearly shown that, during the periods at issue, the worker was employed in insurable employment when he was working for the Appellants within the meaning of the Act because a contract of service existed and, therefore, there was an employer-employee relationship between the Appellants and the worker.
+[39] As a result, these appeals are dismissed, and the Minister’s decisions are confirmed.
+Signed at Grand-Barachois, New Brunswick, this 21st day of December 2004.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 10th day of March 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC844
+COURT DOCKET NO.:
+2003-4399(EI), 2003-4579(EI)
+STYLE OF CASE:
+9088-9726 Québec Inc. v. M.N.R. and Serge Roy
+9117-4623 Québec Inc. v. M.N.R. and Serge Roy
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT
+December 21, 2004
+APPEARANCES:
+For the Appellants:
+Pierre Chénier
+For the Respondent:
+Agathe Cavanagh
+For the Intervenor:
+Manon Leclerc
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenor:
+Manon Leclerc
+Mont-Laurier, Quebec

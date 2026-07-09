@@ -1,0 +1,405 @@
+Title: Murji c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304841/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-7-304841-murji-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-01-09
+
+# Murji c. La Reine
+
+- Citation: 2018 CCI 7
+- Decision date: 2018-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7284, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murji c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-09
+Référence neutre
+2018 CCI 7
+Numéro de dossier
+2015-2200(IT)I, 2015-2355(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015‑2355(IT)G
+ENTRE :
+AL‑KARIM MURJI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de Karima Murji (2015‑2200(IT)I) et de Wahid Khan (2015‑3038(IT)I), le 23 juin 2017, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me April Tate
+JUGEMENT
+L’appel de la nouvelle cotisation datée du 16 mai 2011, établie au titre de la Loi de l’impôt sur le revenu par le ministre du Revenu national à l’égard de l’année d’imposition 2009 de l’appelant, est rejeté avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2018.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour de mars 2019.
+François Brunet, réviseur
+Dossier : 2015‑2200(IT)I
+ENTRE :
+KARIMA MURJI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels d’Al‑Karim Murji (2015‑2355(IT)G) et de Wahid Khan (2015‑3038(IT)I), le 23 juin 2017, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+M. Swarn Kumar Bahl
+Avocate de l’intimée :
+Me April Tate
+JUGEMENT
+L’appel de la nouvelle cotisation datée du 16 mai 2011, établie au titre de la Loi de l’impôt sur le revenu par le ministre du Revenu national à l’égard de l’année d’imposition 2009 de l’appelante, est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2018.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour de mars 2019.
+François Brunet, réviseur
+Dossier : 2015‑3038(IT)I
+ENTRE :
+WAHID KHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels d’Al‑Karim Murji (2015‑2355(IT)G) et de Karima Murji (2015‑2200(IT)I), le 23 juin 2017, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelant :
+M. Swarn Kumar Bahl
+Avocate de l’intimée :
+Me April Tate
+JUGEMENT
+L’appel de la nouvelle cotisation datée du 29 mars 2012, établie au titre de la Loi de l’impôt sur le revenu par le ministre du Revenu national à l’égard de l’année d’imposition 2009 de l’appelant, est rejeté, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2018.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour de mars 2019.
+François Brunet, réviseur
+Référence : 2018 CCI 7
+Date : 20180109
+Dossiers : 2015‑2355(IT)G,
+2015‑2200(IT)I, 2015‑3038(IT)I
+ENTRE :
+AL‑KARIM MURJI,
+KARIMA MURJI,
+WAHID KHAN,
+(collectivement appelés les « appelants »)
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les présents appels entendus sur preuve commune sont interjetés de nouvelles cotisations datées du 16 mai 2011, en ce qui concerne Al‑Karim Murji et Karima Murji, et du 29 mars 2012, en ce qui concerne Wahid Khan, établies au titre de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »), par le ministre du Revenu national à l’égard de l’année d’imposition 2009 des appelants.
+[2] Lorsqu’il a produit sa déclaration de revenus pour l’année d’imposition 2009, Al‑Karim Murji a déduit un don de bienfaisance de 100 358 $, a transféré une déduction pour don de 22 763 $ à son épouse, Karima Murji, et a reporté prospectivement la déduction pour don de 20 879 $ à des années d’imposition futures. La demande était fondée sur un reçu initial de 144 000 $ délivré par un organisme de bienfaisance enregistré, On Guard for Humanity, qui était composé de 18 000 $ en espèces et de dons en nature d’actions évaluées à 126 000 $.
+[3] Par nouvelle cotisation datée du 16 mai 2011, le ministre a réduit la déduction pour don d’Al‑Karim Murji, passant de 100 358 $ à 1 800 $ et a refusé la déduction pour don de 20 879 $ reportée prospectivement aux années d’imposition futures.
+[4] Lorsqu’elle a produit sa déclaration de revenus pour l’année d’imposition 2009, Karima Murji a déduit le don de 22 763 $ qui lui avait été transféré par son époux.
+[5] Au moyen d’une nouvelle cotisation datée du 16 mai 2011, le ministre a refusé la déduction pour don de 22 763 $.
+[6] Lorsqu’il a produit sa déclaration de revenus pour l’année d’imposition 2009, Wahid Khan a déduit des dons de bienfaisance qu’il avait faits à un organisme de bienfaisance enregistré, Pilgrim Feast Tabernacle, qui étaient composés de 7 000 $ en espèces et de dons en nature d’actions évaluées à 42 000 $, desquels 40 689 $ ont été déduits en 2009 et 8 311 $ ont été reportés prospectivement aux années d’imposition futures.
+[7] Par nouvelle cotisation datée du 29 mars 2012, le ministre a réduit la déduction d’impôt pour don, de 40 689 $ à 700 $, et a refusé la déduction d’impôt pour don reportée prospectivement aux années d’imposition futures.
+[8] Lorsqu’il a calculé l’obligation fiscale d’Al‑Karim Murji, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) au cours des dix années précédant l’année d’imposition 2009, le total des dons de bienfaisance de l’appelant s’élevait à 82 780 $; dont 80 155 $ ont été refusés par l’Agence du revenu du Canada et font l’objet d’une opposition. Les 80 155 $ sont associés aux dons déclarés en 2007 et en 2008, soit 35 044 $ et 45 111 $, respectivement, qui étaient liés à la participation de l’appelant au programme de dons Global Learning Gifting Initiative;
+Strategic Gifting Group
+b) Strategic Gifting Group (« Strategic ») était l’entreprise individuelle d’Abraham Herbert Grossman (ou Al Grossman);
+c) entre octobre 2009 et février 2011, Strategic a fait la promotion d’un arrangement qu’elle gérait et qui permettait au participant de déduire dans sa déclaration de revenus un don de bienfaisance de 4 $ à 12 $ pour chaque dollar qu’il versait (le « stratagème Strategic »);
+d) Strategic et/ou ses promoteurs faisaient valoir que le participant qui résidait en Ontario obtiendrait un rendement d’environ 46,41 p. 100;
+e) le ministre n’a pas délivré de numéro d’inscription d’abri fiscal en ce qui concerne Strategic;
+f) l’appelant n’a pas produit de numéro d’inscription d’abri fiscal en ce qui concerne les montants déduits à la suite de sa participation au stratagème Strategic et il n’a pas produit de formulaire T5004;
+g) le stratagème Strategic fonctionnait généralement ainsi :
+i) le contribuable participant versait un paiement en espèces à un organisme de bienfaisance participant (un « paiement en espèces »);
+ii) le philanthrope non‑résident fictif versait un montant équivalent au don du contribuable et faisait don d’actions dans Dixon Perrot & Champion Inc. (« Dixon ») au contribuable;
+iii) pendant la période pertinente, Dixon était une société canadienne constituée en personne morale en Ontario et inscrite sur le marché libre à la bourse de Francfort;
+iv) le contribuable faisait un don des actions dans Dixon à l’organisme de bienfaisance auquel il avait versé le paiement en espèces;
+v) la juste valeur marchande déclarée des actions dans Dixon était de 4 à 12 fois plus élevée que la valeur du paiement en espèces du contribuable;
+vi) si le contribuable choisissait de ne pas faire don des actions dans Dixon à un organisme de bienfaisance participant, les actions faisaient l’objet d’une période de retenue obligatoire de cinq ans;
+vii) l’organisme de bienfaisance délivrait à l’intention du contribuable un reçu de don pour le paiement en espèces et pour la valeur préétablie et fausse des actions dans Dixon;
+viii) l’organisme de bienfaisance versait 90 p. 100 du paiement en espèces du contribuable à Strategic au titre de paiement des frais de celle‑ci;
+h) Dixon avait des bénéfices non répartis négatifs pour les années prenant fin le 31 octobre 2007, 2008, 2009 et 2010;
+i) Dixon a fait son premier appel public à l’épargne sur le marché libre, à la bourse de Francfort, le 20 mai 2008;
+j) le marché libre à la bourse de Francfort n’est pas une bourse de valeurs désignée;
+k) il n’y avait aucun marché pour les actions dans Dixon, et elles n’avaient aucune valeur;
+l) Strategic a reçu 332 620 $ du stratagème Strategic;
+La participation de l’appelant au stratagème Strategic
+m) l’appelant a exécuté la série suivante d’opérations prédéterminées pendant l’année d’imposition 2009 :
+i) l’appelant a versé le montant de 18 000 $ à l’organisme de bienfaisance;
+ii) le 23 décembre 2009, l’appelant aurait fait don d’actions dans Dixon à l’organisme de bienfaisance;
+iii) le 31 décembre 2009, l’organisme de bienfaisance a délivré à l’appelant un reçu de don de 144 000 $ pour l’année d’imposition 2009, qui représentait un paiement en espèces de 18 000 $ et la juste valeur marchande prétendue de 126 000 $ des actions dans Dixon;
+iv) à partir du reçu de don de 144 000 $ délivré, l’appelant a déduit le don de 100 358 $ à l’organisme de bienfaisance pour l’année d’imposition 2009, a transféré un montant de 22 763 $ à son épouse et a déclaré le don de bienfaisance de 20 879 $ à reporter prospectivement aux années d’imposition futures;
+n) le 23 décembre 2009, les actions dans Dixon que l’appelant aurait données à l’organisme de bienfaisance n’avaient aucune valeur;
+o) du paiement en espèce de 18 000 $ versé par l’appelant, l’organisme de bienfaisance devait verser et a versé 16 200 $ à Strategic pour les frais de celle‑ci (les « frais »);
+p) le 16 mars 2011, l’organisme de bienfaisance a annulé le reçu de don de 144 000 $ et a délivré à l’appelant un nouveau reçu de don de 1 800 $, correspondant au montant en espèces net donné par l’appelant;
+[9] Afin de justifier la nouvelle cotisation datée du 16 mai 2011, le sous‑procureur général du Canada a déclaré en outre ce qui suit :
+[traduction]
+a) l’hypothèse du ministre selon laquelle l’appelant a versé 18 000 $ à l’organisme de bienfaisance est inexacte. Il déclare que l’appelant a versé 18 000 $ à Strategic (les « frais de participation »);
+b) en échange de ses frais de participation de 18 000 $, l’appelant a signé le verso d’un certificat d’actions dans Dixon;
+c) Strategic a déposé par voie électronique les frais de participation de l’appelant dans le compte bancaire de l’organisme de bienfaisance et elle a ensuite facturé à l’organisme de bienfaisance 90 p. 100 des frais de participation;
+d) Strategic a déclaré à l’organisme de bienfaisance qu’un agent de transfert, Select Fidelity Transfer Services Ltd., possédait le certificat d’actions dans Dixon et transférerait les actions dans Dixon à l’organisme de bienfaisance;
+e) Select Fidelity Transfer Services Ltd. n’était pas un émetteur assujetti en Ontario et n’était pas membre de la Securities Transfer Association of Canada;
+f) Christine Hewitt a déclaré à l’organisme de bienfaisance qu’elle était la présidente de Dixon;
+g) Mme Hewitt était une personne autorisée à produire des documents au nom de Dixon aux termes de la Loi sur les renseignements exigés des personnes morales (Ontario);
+h) Mme Hewitt était également la présidente et la directrice de Z2A Corp. (« Z2A »);
+i) en 2008, Z2A a participé à un arrangement de dons semblable géré par Innovative Gifting Inc.;
+j) le programme d’Innovative Gifting Inc. fonctionnait ainsi :
+i) Innovative Gifting Inc. a été constituée en personne morale en Ontario le 8 septembre 2008 sous le nom de Strategic Gifting Inc.;
+ii) Strategic Gifting Inc. a changé sa raison sociale en Innovative Gifting Inc. (« Innovative ») le 10 septembre 2008;
+iii) un contribuable participant versait un paiement en espèces à un organisme de bienfaisance participant;
+iv) le philanthrope non‑résident suisse fictif versait un montant équivalent au don du participant et faisait un don d’actions dans RCT Global Networks Inc. (« RCT ») au contribuable;
+v) RCT était une société ontarienne inscrite sur le marché libre à la bourse de Francfort en juin 2008;
+vi) RCT a émis des options d’achat d’actions en faveur de Mobiliare Argenti Ltd. (« Mobiliare »);
+vii) Z2A a acheté les actions dans RCT de Mobiliare;
+viii) Z2A a vendu les actions dans RCT à Innovative;
+ix) les organismes de bienfaisance participants ont conclu des contrats avec Innovative, aux termes desquels il était facturé aux organismes de bienfaisance des frais de collecte de fonds correspondant à 90 p. 100 des dons en espèces effectués par les participants;
+x) Z2A et Mme Hewitt ont délivré les certificats d’actions dans RCT au nom des participants;
+xi) les organismes de bienfaisance ont délivré aux contribuables participants des reçus de don pour leurs dons en espèces et pour une valeur préétablie et fausse des actions dans RCT;
+xii) il n’y avait aucun marché pour les actions dans RCT, et elles n’avaient aucune valeur;
+k) en raison de sa participation au stratagème Strategic, l’organisme de bienfaisance a délivré des reçus de don de 513 200 $ pour les actions dans Dixon;
+l) en raison de sa participation au stratagème Strategic, l’organisme de bienfaisance a reçu des paiements en espèces totaux de 80 900 $, a versé à Strategic des frais de 67 680 $ et a retenu 3 600 $ au titre de frais de Strategic en attendant la livraison des documents et des actions;
+m) les organismes de bienfaisance participant au stratagème Strategic ont délivré des reçus de don totalisant 2,2 millions de dollars.
+[10] Lorsqu’il a calculé l’obligation fiscale de Karima Murji pour l’année d’imposition 2009, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) l’époux de l’appelante a versé 18 000 $ à l’organisme de bienfaisance en 2009;
+b) l’époux de l’appelante a obtenu un reçu de l’organisme de bienfaisance consignant un don de 144 000 $;
+c) le reste du montant indiqué dans le reçu constituait un don allégué de valeurs mobilières négociables;
+d) la juste valeur marchande des valeurs mobilières était sept fois plus élevée que la valeur du don en espèces;
+e) les valeurs mobilières n’avaient aucune valeur et ne pouvaient être vendues;
+f) les détails sur les valeurs mobilières censées avoir été données n’étaient pas mentionnés sur le reçu;
+g) le montant payé par l’époux de l’appelante faisait partie d’un arrangement fiscal de dons non enregistré qui n’avait aucun numéro d’inscription d’abri fiscal;
+h) l’organisme de bienfaisance a retenu 10 p. 100 du montant versé par l’époux de l’appelante;
+i) le reste, 90 p. 100, du montant versé par l’époux de l’appelante à l’organisme de bienfaisance a été payé à un promoteur;
+j) l’organisme de bienfaisance a ensuite délivré de nouveau un reçu à l’époux de l’appelante pour l’année 2009 correspondant à 10 p. 100 du don en espèces;
+k) le premier reçu délivré à l’époux de l’appelante n’était pas valide;
+l) l’époux de l’appelant n’avait pas fait un don supérieur à 1 800 $ à l’organisme de bienfaisance dans l’année 2009;
+m) il n’y avait aucun montant disponible à transférer à l’appelante.
+[11] Lorsqu’il a calculé l’obligation fiscale de Wahid Khan pour l’année d’imposition 2009, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) avant l’année d’imposition 2009, l’appelant n’avait jamais demandé une déduction pour don de bienfaisance;
+Strategic Gifting Group
+b) Strategic Gifting Group (« Strategic ») était l’entreprise individuelle d’Abraham Herbert Grossman (ou Al Grossman);
+c) entre octobre 2009 et février 2011, Strategic a fait la promotion d’un arrangement qu’elle gérait et qui permettait au participant de déduire dans sa déclaration de revenus un don de bienfaisance de 4 $ à 12 $ pour chaque dollar qu’il versait (le « stratagème Strategic »);
+d) Strategic et/ou ses promoteurs faisaient valoir que le participant qui résidait en Ontario obtiendrait un rendement d’environ 46,41 p. 100;
+e) le ministre n’a pas délivré de numéro d’inscription d’abri fiscal en ce qui concerne Strategic;
+f) l’appelant n’a pas produit de numéro d’inscription d’abri fiscal en ce qui concerne les montants déclarés à la suite de sa participation au stratagème Strategic et il n’a pas produit de formulaire T5004;
+g) le stratagème Strategic fonctionnait généralement ainsi :
+i) le contribuable participant versait un paiement en espèces à l’organisme de bienfaisance participant (un « paiement en espèces »);
+ii) le philanthrope non‑résident fictif versait un montant équivalent au don du contribuable et faisait don d’actions dans Dixon Perrot & Champion Inc. (« Dixon ») au contribuable;
+iii) pendant la période pertinente, Dixon était une société canadienne constituée en personne morale en Ontario et inscrite sur le marché libre à la bourse de Francfort;
+iv) le contribuable faisait un don des actions dans Dixon à l’organisme de bienfaisance auquel il avait versé le paiement en espèces;
+v) la juste valeur marchande déclarée des actions dans Dixon était de 4 à 12 fois plus élevée que la valeur du paiement en espèces du contribuable;
+vi) si le contribuable choisissait de ne pas faire don des actions dans Dixon à un organisme de bienfaisance participant, les actions faisaient l’objet d’une période de retenue obligatoire de cinq ans;
+vii) l’organisme de bienfaisance délivrait à l’intention du contribuable un reçu de don pour le paiement en espèces et pour la valeur préétablie et fausse des actions dans Dixon;
+viii) l’organisme de bienfaisance versait 90 p. 100 du paiement en espèces du contribuable à Strategic pour les frais de celle‑ci;
+h) Dixon avait des bénéfices non répartis négatifs pour les années prenant fin le 31 octobre 2007, 2008, 2009 et 2010;
+i) Dixon a fait son premier appel public à l’épargne sur le marché libre à la bourse de Francfort le 20 mai 2008;
+j) le marché libre à la bourse de Francfort n’est pas une bourse de valeurs désignée;
+k) il n’y avait aucun marché pour les actions dans Dixon, et elles n’avaient aucune valeur;
+l) Strategic a reçu 332 620 $ du stratagème Strategic;
+La participation de l’appelant au stratagème Strategic
+m) l’appelant a effectué la série d’opérations prédéterminées suivante pendant l’année d’imposition 2009 :
+i) l’appelant a versé le montant de 7 000 $ à l’organisme de bienfaisance;
+ii) le 31 décembre 2009, l’appelant est censé avoir fait don d’actions dans Dixon à l’organisme de bienfaisance;
+iii) le 31 décembre 2009, l’organisme de bienfaisance a délivré à l’appelant un reçu de don de 49 000 $ pour l’année d’imposition 2009, qui représentait un paiement en espèces de 7 000 $ et la juste valeur marchande prétendue de 42 000 $ des actions dans Dixon;
+iv) en raison du reçu de don de 49 000 $ délivré, l’appelant a déduit un don de 40 689 $ à l’organisme de bienfaisance pour l’année d’imposition 2009 et a déclaré un don de bienfaisance de 8 311 $ à reporter prospectivement aux années d’imposition futures;
+n) le 31 décembre 2009, les actions dans Dixon que l’appelant est censé avoir données à l’organisme de bienfaisance n’avaient aucune valeur;
+o) du paiement en espèce de 7 000 $ versé par l’appelant, l’organisme de bienfaisance devait verser et a versé 6 300 $ à Strategic pour les frais de celle‑ci (les « frais »);
+p) le 8 juin 2011, l’organisme de bienfaisance a annulé le reçu de don de 49 000 $ et a délivré à l’appelant un nouveau reçu de don de 700 $, correspondant au montant en espèces net donné par l’appelant;
+[12] Afin de justifier la nouvelle cotisation datée du 29 mars 2012, le sous‑procureur général du Canada a déclaré en outre ce qui suit :
+[traduction]
+a) l’hypothèse du ministre selon laquelle l’appelant a versé 18 000 $ à l’organisme de bienfaisance est inexacte. Il déclare que l’appelant a versé 7 000 $ à Strategic (les « frais de participation »);
+b) en échange de ses frais de participation de 7 000 $, l’appelant a signé le verso d’un certificat d’actions dans Dixon;
+c) Strategic a envoyé un courriel à l’organisme de bienfaisance contenant le nom, l’adresse et les renseignements à inclure sur le reçu de don pour l’appelant.
+d) l’organisme de bienfaisance a produit un reçu de don pour l’appelant et l’a délivré, avec des reçus de don pour d’autres contribuables participants au stratagème Strategic, à Strategic;
+e) Strategic a envoyé le reçu de don à l’appelant;
+f) Strategic a déposé les frais de participation de l’appelant dans le compte bancaire de l’organisme de bienfaisance et elle a ensuite facturé à l’organisme de bienfaisance 90 p. 100 des frais de participation;
+g) Select Fidelity Transfer Services Ltd. Est censé avoir été l’agent de transfert en ce qui concerne les actions dans Dixon.
+h) Select Fidelity Transfer Services Ltd. n’était pas un émetteur assujetti en Ontario et n’était pas membre de la Securities Transfer Association of Canada;
+i) en raison de sa participation au stratagème Strategic, l’organisme de bienfaisance a délivré des reçus de don de 1 036 000 $ à l’égard des actions dans Dixon;
+j) en raison de sa participation au stratagème Strategic, l’organisme de bienfaisance a reçu des paiements en espèces totaux de 158 500 $, a versé à Strategic des frais d’environ 142 650 $ et a retenu 15 850 $;
+k) les organismes de bienfaisance participant au stratagème Strategic ont délivré des reçus de don totalisant 2,2 millions de dollars.
+[13] Conformément à l’ordonnance de la Cour canadienne de l’impôt datée du 2 février 2016, rendue dans le cadre d’une téléconférence préparatoire de gestion d’instance, l’avocate de l’intimée a signifié aux appelants les affidavits de :
+a) M. Alberto de Sousa Costa, président‑directeur général d’On Guard for Humanity (« On Guard »), souscrit le 10 mars 2016, auquel étaient jointes les pièces A à OO;
+b) Mme Chionyeduc Opia‑Evans, la directrice générale de Pilgrim Feast Tabernacle (« Pilgrim »), souscrit le 17 mars 2016, auquel étaient jointes les pièces A à S;
+c) Mme Bette Ann Speers, experte en évaluation d’entreprise de l’Agence du revenu du Canada (l’« ARC »), affirmé solennellement le 8 avril 2016, auquel était jointe la pièce A;
+d) M. James Moon, président‑directeur général d’All Group Financial Services Inc. (« All Group »), courtier, affirmé solennellement le 1er avril 2016, auquel étaient jointes les pièces A à J;
+e) M. Edmund Teelucksingh, anciennement vendeur de fonds communs de placement auprès de GP Wealth Management Corporation, affirmé solennellement le 8 avril 2016, auquel était jointe la pièce A.
+[14] Les appelants ont eu la possibilité de procéder à des contre‑interrogatoires des déposants. Ces affidavits ont été déposés et l’avocate de l’intimée les a invoqués lors de l’audition des appels en vertu de l’article 122 des Règles de la Cour canadienne de l’impôt (procédure générale).
+[15] M. Murji a témoigné à l’audience. Il a expliqué qu’il avait fait don du certificat d’actions dans Dixon Perrot & Champion Inc. (« Dixon ») à On Guard qui a accepté le transfert des actions et a délivré un reçu à fin fiscale. Il a affirmé qu’il incombait à On Guard de calculer la valeur des actions. M. Murji ne soutient pas que les actions avaient une valeur, mais il allègue qu’On Guard n’aurait pas dû délivrer un reçu à des fins fiscales si les actions n’avaient aucune valeur.
+[16] Pendant le contre‑interrogatoire de M. Murji, l’avocate de l’intimée a déposé sur consentement un recueil de documents portant sur les appels de M. Murji et de son épouse (pièce R‑1). M. Murji a également confirmé qu’il avait vu les affidavits de M. Alberto de Sousa Costa, de M. James Moon et de Mme Bette Ann Speers.
+[17] M. Murji a déclaré qu’il avait fait un don de 144 000 $ (c.‑à‑d. 18 000 $ en espèces et 126 000 en actions) à On Guard trois ou quatre jours avant la fin de l’année. Il a affirmé que son don était motivé sur le plan fiscal et qu’il ne connaissait rien au sujet d’On Guard et de ses activités de bienfaisance. Il avait simplement consulté le site Web de l’ARC pour s’assurer qu’On Guard était un organisme de bienfaisance enregistré.
+[18] M. Murji a confirmé que le ratio des actions par rapport aux espèces était de sept pour un en ce qui concerne son don de 2009 et ce ratio pouvait varier de quatre pour un jusqu’à huit pour un, selon la période de l’année pendant laquelle le don était fait.
+[19] M. Murji a expliqué que les actions dans Dixon lui avaient été données par un philanthrope non‑résident qui souhaitait faire un don à On Guard. Les actions dans Dixon ont été échangées à la bourse de Francfort.
+[20] M. Murji a également confirmé qu’il avait fait son don en envoyant un chèque de 18 000 $ à Strategic Gifting Group (« SGG ») qui a traité son don et s’est occupé des documents requis, y compris le certificat d’actions qui a fait l’objet du don et le formulaire d’autorisation de transfert de l’acte de donation de valeurs mobilières.
+[21] M. Murji a déclaré qu’il n’avait jamais vu la facture de SGG à On Guard, datée du 24 décembre 2009, au moyen de laquelle des frais de 16 200 $ ont été facturés à l’égard du don de 18 000 $ de M. Murji.
+[22] M. Murji a reconnu avoir reçu une lettre d’On Guard datée du 16 mars 2011 (il faut lire « 2010 » comme étant l’année exacte) l’informant que son reçu aux fins fiscales de 144 000 $ délivré le 31 décembre 2009 avait été révoqué et remplacé par un reçu à des fins fiscales de 1 800 $ correspondant à la valeur nette de la composante en espèces de son don fait par l’intermédiaire de SGG, moins les frais de celle‑ci de 16 200 $ facturés à On Guard. Cette lettre a été suivie d’une lettre datée du 26 avril 2010 provenant de l’ARC qui renvoyait au reçu à des fins fiscales de 1 800 $ révoqué et à un redressement passant de 100 358 $ à 1 800 $ à sa déduction de don de bienfaisance en 2009 et qui mentionnait que son montant non déduit de son reçu à des fins fiscales avait été réduit à zéro. En raison de ces lettres, M. Murji n’a pas produit de déclaration de revenus modifiée pour 2009, mais il a simplement produit un avis d’opposition et un avis d’appel devant notre Cour.
+[23] Dans sa déclaration de revenus pour 2009, M. Murji avait déclaré un revenu imposable de 144 322,96 $, déduit des crédits d’impôt pour don de 100 358 $, transféré des crédits d’impôt pour dons de 22 763 à son épouse et reporté prospectivement des crédits d’impôt pour don de 20 879 $.
+[24] Après le témoignage de M. Murji, M. Gary Huenemoeder a été cité à témoigner. Il est chef d’équipe du groupe de vérification des organismes de bienfaisance de l’ARC situé à Kitchener, en Ontario. M. Huenemoeder traitait de nombreux dossiers semblables à celui‑ci concernant SGG, dont l’un était celui d’Innovative Gifting Inc. qui est devenue IGI le 10 septembre 2008.
+[25] M. Huenemoeder a cité à la Cour la transaction conclue en mars 2011 entre le personnel de la Commission des valeurs mobilières de l’Ontario, Innovative Gifting Inc. et Terence Lushington qui décrivait le programme de don de bienfaisance d’IGI qui était en vigueur de septembre 2008 à janvier 2009, inclusivement.
+[26] M. Huenemoeder a également cité à la Cour une décision de la Cour supérieure de justice de l’Ontario datée du 18 mai 2010, dans laquelle il a été ordonné à Innovative Gifting Inc. de retourner à trois organismes de bienfaisance enregistrés 90 p. 100 des frais qu’elle avait demandés en contrepartie des dons en espèces, parce que les ententes à cet égard étaient contraires à l’ordre public et qu’elles étaient donc nulles et susceptibles d’annulation.
+[27] Le témoin a également renvoyé la Cour aux documents de promotion utilisés par SGG pour attirer des clients. Contrairement à ce que les documents indiquaient, il n’y avait aucun philanthrope non‑résident qui souhaitait faire un don d’actions à des organismes de bienfaisance canadiens enregistrés.
+[28] Le propriétaire unique de SGG, M. Abraham Herbert Grossman, a été condamné à une peine d’emprisonnement de 57 mois en 2011 pour diverses infractions relatives aux valeurs mobilières et pour fraude et, le 13 août 2012, il a été condamné à une autre peine d’emprisonnement de six mois pour avoir effectué des opérations sur valeurs mobilières (les actions dans Dixon) sans être inscrit auprès de la Commission des valeurs mobilières de l’Ontario. Dans l’exposé conjoint des faits cité dans la dernière décision judiciaire, il est signalé que SGG a livré les actions dans Dixon aux donateurs et qu’elle leur avait donné des renseignements selon lesquels ils pouvaient ensuite faire un don de ces actions à un organisme de bienfaisance et obtenir un reçu à des fins fiscales correspondant à une valeur de 4 à 12 fois plus élevée que la valeur du don en espèces. SGG a reçu 332 620 $, et des reçus aux fins fiscales de 2,2 millions de dollars ont été délivrés. Certains de ces reçus ont été révoqués et des reçus pour le véritable montant reçu par les organismes de bienfaisance (10 p. 100 du don en espèces) ont été délivrés à nouveau. Il se peut qu’il n’existe aucun marché pour les actions dans Dixon, mais SGG a déclaré aux donateurs que les actions se négociaient pour une valeur entre 0,40 et 1,27 euro.
+[29] M. Huenemoeder a également expliqué le rôle joué par M. Edmund Ancil Teelucksingh entre septembre et décembre 2009 qui a consisté à vendre, à formuler des recommandations, à envoyer ou à faciliter la vente des actions dans Dixon, un investissement qu’il n’avait pas l’autorisation de vendre, à titre de vendeur de fonds communs de placement chez GP Wealth Management Corporation, un membre de l’Association canadienne des courtiers de fonds mutuels, à 30 clients et à 17 autres particuliers.
+[30] M. Teelucksingh a admis son inconduite au cours de la procédure disciplinaire intentée contre lui dont les motifs de décision ont été rendus le 8 août 2013.
+[31] Lorsqu’il a été contre‑interrogé par M. Murji, M. Huenemoeder a expliqué qu’il existait environ 60 000 organismes de bienfaisance enregistrés à des fins fiscales et que, chaque année, environ 1 800 à 2 100 de ceux‑ci faisaient l’objet d’une vérification, ce qui représentait entre 0,75 et 1 p. 100 de tous les organismes de bienfaisance. Les plaintes déposées par le public constituent la source d’environ 40 p. 100 des vérifications. L’ARC ne cherche pas nécessairement à révoquer l’enregistrement des organismes de bienfaisance qui font l’objet d’une vérification et sa mission se limite habituellement à vérifier le caractère raisonnable des frais imposés par les promoteurs pour la collecte des fonds. L’ARC a des problèmes avec les organisations qui imposent des frais correspondant à 25 p. 100 ou plus des dons. Les organismes de bienfaisance sont tenus, aux termes de la Loi, de consacrer tous les fonds ou la presque totalité des fonds qu’ils reçoivent aux activités de bienfaisance. M. Huenemoeder a confirmé qu’On Guard avait fait l’objet de vérifications depuis le début de ses activités et qu’elle consacrait la majeure partie de son argent aux activités de bienfaisance légitimes.
+[32] M. Wahid Khan a également témoigné à l’audience. Il a expliqué qu’il avait fait son don à Pilgrim, un organisme de bienfaisance enregistré qui semblait appuyer une bonne cause. Sa principale motivation était l’avantage fiscal, un bon rendement du capital investi (180 p. 100 dans son cas).
+[33] En contre‑interrogatoire, M. Khan a expliqué que quelqu’un lui avait dit au travail que Pilgrim fournissait des médicaments aux enfants malades en Afrique. L’avocate de l’intimée lui a indiqué qu’au paragraphe 3 de son affidavit, Mme Chionyeduc Opia‑Evans, la directrice générale de Pilgrim, avait ainsi décrit les activités de bienfaisance de Pilgrim : [traduction] l’organisme de bienfaisance exploite une banque alimentaire, offre des programmes de mieux‑être aux aînés, aide les nouveaux immigrants aînés et offre des colloques ainsi que des programmes post scolaires aux jeunes âgés de sept à treize ans. M. Khan a expliqué qu’il n’avait pas vu cet affidavit, alors même qu’il avait été acheminé à son représentant en avril 2017.
+[34] M. Khan ne se rappelait pas s’il avait reçu le certificat d’actions dans Dixon ou la date à laquelle il l’avait reçu, s’il l’avait signé, ni à qui il l’avait envoyé. Il a également déclaré qu’il n’avait aucune idée de la valeur des actions dans Dixon qu’il avait données à Pilgrim et qu’il n’avait pas tenté de calculer la valeur de ces actions.
+[35] M. Khan a confirmé que sa déclaration de revenus pour 2009 indiquait un revenu imposable de 78 374 $, un montant total de dons de bienfaisance admissible de 49 000 $ et un impôt fédéral net de zéro. M. Khan a joint à sa déclaration de revenus de 2009 un reçu aux fins fiscales délivré par Pilgrim indiquant un don en espèces de 7 000 $ et un don d’actions d’une valeur de 42 000 $, donnant un montant de don total de 49 000 $. M. Khan a également confirmé qu’il n’avait fait aucun don au cours des dix années précédentes.
+[36] M. Khan a confirmé qu’un nouveau reçu daté du 6 juin 2011 lui avait été délivré par Pilgrim, lequel indiquait un montant de don admissible de 700 $ et que ce reçu remplaçait le reçu original qui était devenu nul. Après le témoignage de M. Khan, M. Huenemoeder a été appelé à témoigner à nouveau afin d’expliquer que le nouveau reçu avait été délivré par Pilgrim en raison du fait que des frais de 6 300 $ lui avaient été imposés par SGG à l’égard du don en espèces de 7 000 $ effectué par M. Khan. La copie de cette facture a été jointe en tant que pièce E à l’affidavit de Mme Chionyeduc Opia‑Evans.
+[37] Voici les questions à trancher en ce qui concerne l’appel de M. Murji :
+a) L’appelant a‑t‑il transféré des actions dans Dixon à On Guard en décembre 2009?
+b) L’appelant a‑t‑il transféré un montant supérieur à 1 800 $ à On Guard en décembre 2009?
+c) Si l’appelant a effectivement transféré des actions dans Dixon et un montant supérieur à 1 800 $ à On Guard en décembre 2009, l’appelant a‑t‑il fait un don de bienfaisance lorsqu’il a fait ces transferts?
+d) Si l’appelant a fait un don de bienfaisance d’actions dans Dixon à On Guard, combien d’actions l’appelant a‑t‑il données et quelle était la juste valeur marchande des actions dans Dixon le 23 décembre 2009?
+[38] En ce qui concerne l’appel de Mme Karima Murji, la Cour doit décider si le ministre a refusé à bon droit le crédit d’impôt non remboursable pour don de bienfaisance de 22 763 $ déduit dans l’année d’imposition 2009.
+[39] Voici les questions à trancher en ce qui concerne l’appel de M. Wahid Khan :
+a) L’appelant a‑t‑il transféré des actions dans Dixon à Pilgrim en décembre 2009?
+b) L’appelant a‑t‑il transféré un montant supérieur à 700 $ à Pilgrim en décembre 2009?
+c) Si l’appelant a effectivement transféré des actions dans Dixon d’une valeur supérieure à 700 $ à Pilgrim en décembre 2009, l’appelant a‑t‑il fait un don de bienfaisance lorsqu’il a fait ces transferts?
+d) Si l’appelant a fait un don de bienfaisance d’actions dans Dixon à Pilgrim, quelle était la juste valeur marchande des actions dans Dixon le 31 décembre 2009?
+Les dispositions législatives
+[40] Les dispositions qui sont pertinentes en l’espèce sont l’alinéa 118.1(2)a), le paragraphe 237.1(1) (définitions de l’« abri fiscal » et de l’« arrangement de don »), les paragraphes 237.1(2), (3), (4) et (6) ainsi que le paragraphe 248(1) (définition de la « bourse de valeurs désignée ») de la Loi, de même que l’article 3500 (définition du « reçu officiel ») et le paragraphe 3501(1) du Règlement de l’impôt sur le revenu (le « Règlement »). Elles prévoient ce qui suit :
+118.1(2) Attestation du don. Pour qu’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, son versement doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[...]
+237.1(1) Définitions
+abri fiscal
+a) Arrangement de don visé à l’alinéa b) de la définition de arrangement de don;
+b) arrangement de don visé à l’alinéa a) de la définition de arrangement de don ou bien (y compris le droit à un revenu), à l’exception des actions accréditives et des biens visés par règlement, pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement à l’arrangement ou au bien, que, si une personne devait conclure l’arrangement ou acquérir une part dans le bien, le montant visé au sous‑alinéa (i) serait, à la fin d’une année d’imposition qui se termine dans les quatre ans suivant le jour où l’arrangement est conclu ou la part, acquise, égal ou supérieur au montant visé au sous‑alinéa (ii) :
+(i) le total des montants représentant chacun :
+(A) un montant ou, dans le cas d’une participation dans une société de personnes, une perte qui est annoncé comme étant déductible dans le calcul du revenu de la personne pour l’année ou pour une année d’imposition antérieure au titre de l’arrangement ou de la part dans le bien (y compris, si le bien est un droit à un revenu, un montant ou une perte afférent à ce droit qui est déclaré ou annoncé comme étant ainsi déductible),
+(B) un autre montant qui est déclaré ou annoncé comme étant réputé, en vertu de la présente loi, être payé au titre de l’impôt payable par la personne, ou comme étant déductible dans le calcul de ses revenu, revenu imposable ou impôt payable en vertu de la présente loi, pour l’année ou pour une année d’imposition antérieure au titre de l’arrangement ou de la part dans le bien, à l’exclusion d’un montant ainsi déclaré ou annoncé qui est inclus dans le calcul d’une perte visée à la division (A),
+(ii) l’excédent éventuel du montant visé à la division (A) sur le total visé à la division (B) :
+(A) le coût, pour la personne, du bien acquis aux termes de l’arrangement, ou de la part dans le bien à la fin de l’année, déterminé compte non tenu de l’article 143.2,
+(B) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre du bien acquis aux termes de l’arrangement ou au titre de la part dans le bien.
+arrangement de don Arrangement aux termes duquel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement à l’arrangement, que, si une personne devait conclure l’arrangement, l’une des éventualités suivantes se produirait :
+a) un bien acquis par la personne aux termes de l’arrangement ferait l’objet d’un don à un donataire reconnu ou d’une contribution visée au paragraphe 127(4.1);
+b) la personne contracterait une dette à recours limité, déterminée selon le paragraphe 143.2(6.1), qu’il est raisonnable de considérer comme se rapportant à un don à un donataire reconnu ou à une contribution monétaire visée au paragraphe 127(4.1).
+237.1(2) Demande de numéro d’inscription. Tout promoteur doit, quant à un abri fiscal, demander au ministre, sur le formulaire prescrit contenant les renseignements prescrits, d’attribuer un numéro d’inscription à cet abri fiscal, sauf si demande en a déjà été faite.
+237.1(3) Renseignements à fournir. Sur demande faite en application du paragraphe (2), à laquelle doit être joint un engagement, que le ministre juge acceptable, selon lequel les livres et registres concernant un abri fiscal seront gardés et tenus en un lieu, au Canada, que le ministre juge aussi acceptable, celui‑ci doit attribuer un numéro d’inscription à l’abri fiscal.
+237.1(4) Numéro obligatoire pour vendre des parts dans un abri fiscal. Nul ne peut, que ce soit à titre de principal ou de mandataire, émettre ou vendre une part dans un abri fiscal, ou accepter un apport en vue de l'acquisition d'une telle part, avant que le ministre n'ait attribué à cet abri fiscal un numéro d'inscription.
+237.1(6) Indication du numéro par l’acquéreur. Une personne ne peut demander ou déduire un montant au titre d’un abri fiscal que si elle présente au ministre un formulaire prescrit contenant les renseignements prescrits, incluant le numéro d’inscription attribué à l’abri fiscal.
+248(1) Définitions
+bourse de valeurs désignée Bourse de valeurs, ou partie d’une bourse de valeurs, à l’égard de laquelle une désignation, effectuée par le ministre des Finances aux termes de l’article 262, est en vigueur.
+Le règlement
+3500. Définitions. Dans la présente partie,
+reçu officiel s’entend d’un reçu remis pour l’application des paragraphes 110.1(2) ou (3) ou 118.1(2), (6) ou (7) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502.
+3501(1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, le jour ou l’année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa e) ou e.1);
+g) le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+Analyse
+[41] Il ressort clairement des éléments de preuve découlant des témoignages et des documents produits par les appelants ainsi que d’autres circonstances pertinentes que les appelants n’avaient pas l’intention de s’appauvrir, mais, plutôt, de profiter de leur participation au programme que promouvait SGG.
+La définition du don
+[42] Selon l’article 118.1 de la Loi, le contribuable peut déduire un crédit d’impôt pour dons faits à des organismes de bienfaisance enregistrés afin de compenser son impôt sur le revenu à payer pour l’année.
+[43] La définition de ce que constitue le « don » ne figure pas dans la Loi, mais, selon la jurisprudence, le « don » est « le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie » (voir Friedberg v. R., 1991 CarswellNat 669 (CAF), confirmée par la Cour suprême du Canada, 1993 CarswellNat 959).
+[44] Voici les trois éléments requis d’un don :
+a) il doit y avoir transfert volontaire d’un bien;
+b) le bien doit appartenir au donateur;
+c) le donateur ne doit pas recevoir d’avantage ou de contrepartie, ce qui a été considéré comme voulant dire que le donateur doit avoir une « intention libérale ». Il est bien établi en droit qu’afin d’avoir une intention libérale, le donateur doit avoir l’intention de « s’appauvrir » en faisant son don (voir Mariano v. R., 2015 CarswellNat 5133 (CCI – Procédure générale), au paragraphe 19).
+[45] L’intention subjective du contribuable doit être prise en considération, mais son intention déclarée n’est pas déterminante et doit être fondée sur la réalité objective. Le contribuable qui a l’intention de s’enrichir en se prévalant d’un reçu de don gonflé n’a pas l’intention de s’appauvrir.
+[46] Selon la jurisprudence, « un avantage obtenu en échange d’une donation la vicie, que l’avantage provienne du donataire ou encore d’un tiers » (voir Kossow v. R., 2013 CarswellNat 4557 (CAF), au paragraphe 25) et de faux documents qui permettent au contribuable d’obtenir un bénéfice peut constituer un avantage qui vicie le don (voir Canada c. Berg, 2014 CAF 25).
+Absence d’intention libérale
+[47] M. Murji et M. Khan n’avaient nulle intention libérale, puisqu’ils n’avaient pas l’intention de s’appauvrir.
+[48] En contrepartie du don en espèces de 18 000 $ à On Guard par l’intermédiaire de SGG, M. Murji a reçu un certificat d’actions dont la valeur était multipliée par sept et il a obtenu un reçu aux fins fiscales pour son don en espèces ainsi que pour le don des actions. M. Murji a participé à l’arrangement afin de s’enrichir.
+[49] Avant 2009, M. Murji a demandé des dons de bienfaisance de 80 155 $ dans le cadre de sa participation au programme de dons Global Learning Gifting Initiative, lesquels ont été refusés par l’ARC. Outre cela, pendant les dix années précédant 2009, M. Murji a déduit des dons de bienfaisance totaux de 2 625 $. Dans les circonstances, il est irréaliste de penser que, en 2009, M. Murji aurait fait un don à On Guard correspondant à un montant inférieur de 322 $ du total de son revenu imposable pour l’année.
+[50] De même, M. Khan n’avait pas l’intention de s’appauvrir. Il a versé le montant de 7 000 $ à SGG ou à un des promoteurs de SGG afin d’obtenir un reçu aux fins fiscales de 49 000 $.
+[51] Pendant les dix années précédant 2009, M. Khan n’avait déclaré nul don de bienfaisance. Dans les circonstances, il est tout à fait irréaliste de croire qu’en 2009, il aurait fait un don correspondant à plus de 60 p. 100 de son revenu imposable pour l’année à un organisme de bienfaisance qu’il ne connaissait pas.
+[52] Lorsqu’ils ont fait des dons en espèces à On Guard et à Pilgrim, respectivement, M. Murji et M. Khan ont agi à titre d’« investisseurs ». Ce faisant, ils ont obtenu chacun un avantage important, ce qui vicie tout don en espèces qu’ils pouvaient avoir fait. L’avantage que M. Murji a obtenu était la réception du certificat d’actions dans Dixon qui était faussement évalué à 126 000 $ et lui permettait d’obtenir un rendement de 221 p. 100 de son investissement de 18 000 $. L’avantage que M. Khan a obtenu était la réception du certificat d’actions dans Dixon qui était faussement évalué à 42 000 $ et lui permettait d’obtenir un rendement de 180 p. 100 de son investissement de 7 000 $.
+Les montants de dons sont limités aux reçus de don de remplacement
+[53] M. Murji et M. Khan n’ont pas le droit de déduire des montants supérieurs à ceux précisés dans leurs reçus de don de remplacement.
+[54] Conformément au paragraphe 118.1(2) de la Loi, pour que le montant admissible du don soit inclus dans le total des dons de bienfaisance, le versement du don doit être attesté par la présentation au ministre des documents prescrits dans le Règlement. Le sous‑alinéa 3501(1)h)(i) du Règlement exige qu’un reçu précise le montant du don en espèces.
+[55] Ces exigences sont obligatoires. Le reçu qui énonce incorrectement le montant d’un don en espèces est réputé être inutilisable, ce qui signifie que le donateur ne peut demander le crédit d’impôt concernant le don (voir R. c. Castro, 2015 CarswellNat 5180 (CAF)).
+[56] M. Murji n’a pas transféré 18 000 $ à On Guard. Il a versé les 18 000 $ à SGG à titre de contrepartie de sa participation à l’arrangement de don. SGG n’a transféré que 1 800 $ à On Guard en déposant les 18 000 $ dans le compte bancaire d’On Guard et en facturant à celle‑ci des frais de 16 200 $. On Guard a annulé le reçu de don de 144 000 $ de M. Murji et lui a délivré un reçu de remplacement de 1 800 $. La nouvelle cotisation établie par le ministre a accordé le crédit de 1 800 $.
+[57] M. Khan n’a pas transféré 7 000 $ à Pilgrim. Il a versé les 7 000 $ à SGG à titre de contrepartie de sa participation à l’arrangement de don. SGG n’a transféré que 700 $ à Pilgrim en déposant les 7 000 $ dans le compte bancaire de Pilgrim et en facturant à celle‑ci des frais de 6 300 $. Pilgrim a annulé le reçu de don de 49 000 $ de M. Khan et lui a délivré un reçu de remplacement de 700 $. La nouvelle cotisation établie par le ministre a accordé le crédit de 700 $.
+Les actions dans Dixon n’avaient aucune juste valeur marchande
+[58] La preuve testimoniale et documentaire va dans le sens de la conclusion selon laquelle les actions dans Dixon n’avaient aucune juste valeur marchande. Selon l’opinion de Mme Speers, à titre d’experte, la juste valeur marchande des actions dans Dixon était insignifiante. M. Moon a déclaré qu’All Group avait déterminé que les actions dans Dixon n’avaient aucune valeur. M. Huenemoeder a déclaré dans son témoignage qu’après avoir examiné un certain nombre de facteurs, l’ARC avait conclu que les actions dans Dixon n’avaient aucune valeur. M. de Sousa Costa a témoigné au sujet des efforts infructueux d’On Guard de vendre les actions dans Dixon par l’intermédiaire de trois maisons de courtage de valeurs mobilières, de la façon dont il a essayé sans succès d’obtenir des renseignements de Dixon directement et de la façon dont il a essayé sans succès de créer un marché pour les actions dans Dixon. Mme Opia‑Evans a également témoigné au sujet des efforts infructueux de Pilgrim de vendre les actions dans Dixon par l’intermédiaire de trois maisons de courtage de valeurs mobilières.
+[59] Selon l’exposé conjoint des faits déposé devant la Cour de justice de l’Ontario dans l’affaire R. c. Grossman, le juge qui présidait l’audience a tiré la conclusion de fait qu’il n’existait aucun marché pour les actions dans Dixon.
+[60] Les appelants n’ont produit nul élément de preuve quant à la valeur des actions dans Dixon.
+L’arrangement de don offert par Strategic Gifting Group constituait un abri fiscal non enregistré
+[61] Selon la Loi, l’abri fiscal comprend un arrangement de don qui est promu comme un arrangement aux termes duquel un contribuable acquiert un bien, donne le bien à un organisme de bienfaisance et demande une déduction de son revenu pour un montant supérieur au coût d’acquisition du bien.
+[62] L’article 237.1 de la Loi énonce les exigences applicables aux promoteurs d’abris fiscaux et à ceux qui y participent. Tout promoteur doit, quant à un abri fiscal, demander au ministre, sur le formulaire prescrit contenant les renseignements prescrits, d’attribuer un numéro d’inscription à cet abri fiscal. Avant d’accepter une contrepartie à l’égard d’un abri fiscal, le promoteur doit avoir obtenu le numéro d’inscription de cet abri fiscal. Le promoteur doit ensuite déployer des efforts raisonnables pour fournir aux participants le numéro d’inscription d’un abri fiscal. Afin de pouvoir déduire ou demander un montant à l’égard d’un abri fiscal, le participant doit produire auprès du ministre un formulaire prescrit contenant les renseignements prescrits, y compris le numéro d’inscription de l’abri fiscal.
+[63] Selon les documents de promotion de SGG, les participants faisaient des dons à un organisme de bienfaisance, acquéraient des actions d’un philanthrope non‑résident et faisaient don des actions à l’organisme de bienfaisance. Ce faisant, les participants pouvaient demander, dans leurs déclarations de revenus, des déductions qui étaient de quatre à douze fois plus élevées que leur don en espèces et obtenir des crédits d’impôt gonflés. À l’évidence, l’arrangement de don offert par SGG était admissible à titre d’abri fiscal, selon la définition de la Loi.
+[64] Vu que l’arrangement de don offert par SGG constituait un abri fiscal non enregistré et que ni M. Murji ni M. Khan n’ont produit les formulaires prescrits, ils ne peuvent déduire aucun montant à l’égard de l’arrangement de don de SGG, y compris les montants accordés par le ministre.
+[65] Puisque la Cour ne peut pas augmenter les montants d’impôt établis par les nouvelles cotisations, ils doivent demeurer inchangés.
+Conclusion
+[66] Puisque M. Murji et M. Khan ne se sont pas acquittés de leur fardeau de prouver qu’ils ont fait des dons de bienfaisance à On Guard et à Pilgrim, respectivement, et qu’ils n’ont déposé aucune preuve dont il ressort que la valeur des actions dans Dixon était supérieure à zéro, ils ne se sont pas acquittés de leur fardeau de prouver que les nouvelles cotisations du ministre étaient erronées. En outre, le ministre a refusé à bon droit le crédit d’impôt non remboursable de 22 763 $ déduit par Mme Murji dans sa déclaration de revenus pour l’année d’imposition 2009.
+[67] Pour tous ces motifs, l’appel de M. Murji est rejeté avec dépens, et les appels de Mme Murji ainsi que de M. Kahn sont rejetés sans frais.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2018.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 6e jour de mars 2019.
+François Brunet, réviseur
+RÉFÉRENCE :
+2018 CCI 7
+NOS DES DOSSIERS DE LA COUR :
+2015‑2355(IT)G, 2015‑2200(IT)I,
+2015‑2200(IT)I
+INTITULÉ :
+Al‑Karim Murji et SMR
+Karima Murji et SMR
+Wahid Khan et SMR
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 juin 2017
+MOTIFS DE JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 9 janvier 2018
+COMPARUTIONS :
+Pour l’appelant Al‑Karim Murji :
+L’appelant lui‑même
+Représentant des appelants
+Karima Murji et Wahid Khan :
+Avocate de l’intimée :
+M. Swarn Kumar Bahl
+Me April Tate
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

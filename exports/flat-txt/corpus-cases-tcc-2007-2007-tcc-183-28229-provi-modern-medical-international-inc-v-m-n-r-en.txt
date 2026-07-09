@@ -1,0 +1,204 @@
+Title: Provi Modern Medical  International Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28229/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-183-28229-provi-modern-medical-international-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-04-20
+
+# Provi Modern Medical  International Inc. v. M.N.R.
+
+- Citation: 2007 TCC 183
+- Decision date: 2007-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2076, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Provi Modern Medical International Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-20
+Neutral citation
+2007 TCC 183
+File numbers
+2006-2681(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006‑2681(EI)
+BETWEEN:
+PROVI MODERN MEDICAL INTERNATIONAL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CÉLINE SENEZ,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 21, 2007, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Agent for the Appellant:
+Gérald Coss
+Agent for the Respondent:
+Isabelle Pipon
+(Articling student)
+For the Intervener:
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue under the Employment Insurance Act is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of April 2007.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of July 2007
+Mavis Cavanaugh (Translator)
+Citation: 2007TCC183
+Date: 20070420
+Docket: 2006‑2681(EI)
+BETWEEN:
+PROVI MODERN MEDICAL INTERNATIONAL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CÉLINE SENEZ,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] The Appellant is appealing from the decision of the Minister of National Revenue (the "Minister") that Céline Senez was employed by the Appellant in insurable employment for the period from January 5 to December 13, 2004.
+[2] The Intervener is intervening in support of the Minister's decision.
+[3] The facts on which the Minister relied in making his decision are set out as follows in paragraph 5 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Appellant incorporated on August 31, 1994.
+(b) The Appellant operated a business that sold dental and medical products to dentists in Quebec and Ontario on a wholesale and retail basis.
+(c) The Appellant carried on business under the name Denesca.
+(d) The worker was hired by the Appellant as a representative.
+(e) The worker's duties were to promote and distribute the Appellant's products.
+(f) On December 1, 2003, the Appellant and the worker signed a contract.
+(g) Under the terms of the contract, the worker was required to honour the pricing set by the Appellant for the equipment and supplies.
+(h) The worker was not allowed to alter the pricing.
+(i) The orders taken by the worker were subject to confirmation by the Appellant.
+(j) The worker could not commit the Appellant without its authorization.
+(k) Under the terms of the contract, the Appellant assigned the worker a territory, which encompassed the Beauce area, Victoriaville, Sherbrooke, Trois‑Rivières and Québec.
+(l) The Appellant provided the worker with a customer list.
+(m) The worker received her instructions from the Appellant.
+(n) The worker had to submit reports to the Appellant.
+(o) The worker had to attend training sessions given by the Appellant.
+(p) Under the terms of the contract, the worker could not work for a competitor of the Appellant.
+(q) The worker's remuneration was set by the contract.
+(r) The worker was paid a fixed salary of $2,840 per month from January to June 2004.
+(s) From July 2004 onward, the worker was paid a fixed commission of 9% of gross sales of dental supplies and 5 to 6% on gross sales of dental equipment.
+(t) The worker received her pay in two equal payments on the 15th and 30th days of the month following the sales.
+(u) The Appellant supplied the worker with the catalogues and brochures.
+(v) The worker supplied her vehicle.
+(w) The Appellant paid the worker $450 per month for the use of her vehicle.
+(x) The worker had to carry out her duties personally; she could not hire an assistant.
+(y) The worker did not make any investments in the Appellant.
+(z) The worker bore no financial risks in the performance of her duties.
+(aa) The customers were the Appellant's.
+(bb) Under the terms of the contract, the worker was to return all documents, notes and files in her possession to the Appellant in the event that her work was terminated.
+(cc) The worker's duties were well integrated into the Appellant's activities.
+(dd) Under the terms of the contract, the worker was designated as self‑employed, but that was not how she perceived her relationship with the Appellant.
+[4] The grounds of appeal are set out as follows in the Notice of Appeal:
+[translation]
+On the day that Céline Senez was hired, we entered into and signed an independent representative agreement (see the attached contract, and, in particular, section 1.5 thereof). She had no office at Provi Modern Medical International Inc. She had her customer list before joining the company. Her customers were located everywhere: she lived in the Beauce area and had customers in Sherbrooke, Montréal, Laval, St‑Georges‑de‑Beauce, etc. She was not required to attend meetings. She had no sales quotas to meet. We did not provide her with equipment such as a laptop. She saw however many customers she wished to see, whenever she wished. There were no restrictions on the number of weeks of vacation that she could take. For example, one month after signing the contract, she went on a two‑week vacation. She had another self‑employed occupation consisting of training horses. In fact, this is one of the reasons that she decided to be self‑employed. We gave her a commission on her sales plus federal and provincial taxes.
+It is important to note that our (tax) accountant Yves Toupin asked the Department of Revenue for the applicable requirements before the contract (agreement) with Céline Senez was drafted.
+It is important to note that she borrowed a fax machine from the company because hers was broken. We lent it to her for a while; thus, it did not constitute equipment supplied by the company.
+[5] Gérald Coss, the Appellant's president, represented the Appellant at the hearing. He was also the only witness.
+[6] He admitted to subparagraphs 5(a) through (c), 5(e) through (i), 5(k), 5(p) through (t), 5(v), 5(y) and 5(bb).
+[7] With respect to subparagraph 5(d), he claims that Ms. Senez was hired as an independent contractor. In this regard, he referred to the agreement between the Appellant and Ms. Senez dated December 1, 2003. The agreement was produced as Exhibit A‑1. Section 1.5 specifies that the agent, Céline Senez, is a self‑employed worker.
+[8] Mr. Coss explained that Ms. Senez had previously worked for a competitor and came to the Appellant with her own customer list. Mr. Coss stated that Ms. Senez was a horse enthusiast and that she wanted to be free to participate in any equestrian activities that she pleased. In addition, for personal reasons, she had decided to live in the Beauce area. According to Mr. Coss, the independent contractor agreement was drafted at Ms. Senez's request because that was the status that she wanted so that she could participate freely in her equestrian activities, continue to use her customer list, and work in various regions.
+[9] With respect to subparagraph 5(l), Mr. Coss stated that Ms. Senez already had a list of her own customers. The Appellant might occasionally have provided certain names of customers, but that it was usually up the representative to draw up his or her own list of customers, provided that those customers did not already belong to a co‑worker.
+[10] As for subparagraph 5(m), Mr. Coss stated that representatives are free to choose whatever methods they wish to use.
+[11] With respect to subparagraph 5(n), Mr. Coss stated that he probably spoke with Ms. Senez once or twice a week to see whether everything was going well. This was oral communication, and the worker did not have any reports to submit. Customers who were contacted by the representative contacted the Appellant's office directly to place orders. It was on these orders that commissions were paid to the representatives who had met with and advised the Appellant's customers.
+[12] With respect to subparagraph 5(o), Mr. Coss stated that these meetings were organized by the products' manufacturers. Thus, it was in the representatives' interest to attend these meetings, whether the representatives were self‑employed or employees.
+[13] As for subparagraph 5(s), the assertion made therein is consistent with the agreement. However, in practice, the agreement was amended by agreement between the parties to extend by three months the remuneration referred to in subparagraph 5(r) of the Reply.
+[14] Sections 2.6 and 2.7 of the agreement read:
+[TRANSLATION]
+2.6 The Principal shall pay a monthly amount of $2,840 for the months of January to June 2004. In addition, for the same period, the Principal shall pay an amount of $450.00 per month to defray the operational costs of her vehicle. All other expenses required for the performance of her duties shall be borne by her.
+2.7 After the month of June 2004, the Principal shall pay 9% on the gross sales of dental supplies (except a limited number of products with reduced margins such as Kodak products) and 5% and 6% on gross sales of dental equipment. Taxes are not included in the foregoing. granted.
+[15] The brochures referred to in subparagraph 5(u) were from the manufacturers. However, the Appellant publishes an annual dental and medical product catalogue intended for Quebec and Ontario dentists.
+[16] With respect to subparagraph 5(w), this amount was also paid for three months more than was originally contemplated in the agreement.
+[17] As for subparagraph 5(x), while it was denied, there was no evidence to the contrary provided by Mr. Coss.
+[18] With respect to subparagraph 5(z), Mr. Coss argued that there was an element of risk for a commissioned salesperson.
+[19] On cross‑examination, Mr. Coss stated that the representatives of his company were now employees. It was not clear at the hearing whether, at the time that Ms. Senez was recruited, the representatives were self‑employed or were employees. Mr. Coss reasserted that it was at Ms. Senez's request that an independent contracting agreement was entered into.
+[20] Céline Senez testified. She explained that, before she began working for the Appellant, she was employed as a representative by an Ottawa‑based company that did business in the same field. She wanted to work as an employee, but Mr. Coss told her that all the representatives of his business were self‑employed. Since she wanted employee status, this explains why her pay was based on a fixed amount every week. She admitted to being a horse enthusiast, but stated that she engaged in equestrian pursuits only in her free time. In fact, according to the agreement, she should have started to be paid by commission effective July 2004, but since she did not want to live with that kind of uncertainty, Mr. Coss agreed to extend the agreement, insofar as the remuneration method was concerned, by three months.
+[21] In response to a question asked by Mr. Coss, she admitted that she was not forced to sign the agreement, at least not physically, but that she was told that she had no choice. If she had had a choice, it would have been to be an employee.
+Analysis and conclusion
+[22] Where a sales representative essentially manages her own schedule and has no office at the place of business of the company that she represents, the determination as to whether she is an employee or a self‑employed worker is not a clear‑cut one.
+[23] In such circumstances, the parties' intention is important. I refer to paragraphs 1 and 2 of the decision of the Federal Court of Appeal in D & J Driveway Inc. v. Canada (Minister of National Revenue – M.N.R.), 2003 FCA 453:
+[1] The Court once again has to consider the difficult and elusive question of the insurability of employment. As is often the case, the question arises in a situation where the parties’ intention is not set down in writing, and where it has not been determined, or was not the subject of questions to witnesses, at the hearing in the Tax Court of Canada.
+[2] It should be noted at the outset that the parties' stipulation as to the nature of their contractual relations is not necessarily conclusive and the Court which has to consider this matter may arrive at a contrary conclusion based on the evidence presented to it: Dynamex Canada Inc. v. Canada, [2003] 305 N.R. 295 (F.C.A.). However, that stipulation or an examination of the parties on the point may prove to be a helpful tool in interpreting the nature of the contract concluded between the participants.
+[24] That decision confirms the importance of the parties' intention where the circumstances of the work do not clearly establish the nature of the working relationship. It also confirms that the parties' stipulation as to the nature of their contractual relations is not necessarily determinative and that a court that must consider this issue may arrive at a different determination based on the evidence presented to it.
+[25] I refer to paragraph 7 of the decision of the Federal Court of Appeal in 9041‑6868 Québec Inc. v. Canada (Minister of National Revenue – M.N.R.), [2005] F.C.J. No. 1720 (QL):
+[7] In other words, it is the Civil Code of Québec that determines what rules apply to a contract entered into in Quebec. Those rules are found in, inter alia, the provisions of the Code dealing with contracts in general (arts. 1377 C.C.Q. et seq.) and the provisions dealing with the "contract of employment" (arts. 2085 to 2097 C.C.Q.) and the "contract of enterprise or for services" (arts. 2098 to 2129 C.C.Q.). Articles 1378, 1425, 1426, 2085, 2098 and 2099 C.C.Q. are of most relevance for the purposes of this case:
+1378. A contract is an agreement of wills by which one or several persons obligate themselves to one or several other persons to perform a prestation.
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+1440. A contract has effect only between the contracting parties; it does not affect third persons, except where provided by law.
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor and the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[26] I refer to paragraphs 8 and 9 of the same decision, which instruct us that the Court may seek the true contractual relationship between the parties based on the way in which the parties interpreted the agreement or, in other words, the way in which they conducted themselves when they were performing it.
+[8] We must keep in mind that the role of the Tax Court of Canada judge is to determine, from the facts, whether the allegations relied on by the Minister are correct, and if so, whether the true nature of the contractual arrangement between the parties can be characterized, in law, as employment. The proceedings before the Tax Court of Canada are not, properly speaking, a contractual dispute between the two parties to a contract. They are administrative proceedings between a third party, the Minister of National Revenue, and one of the parties, even if one of those parties may ultimately wish to adopt the Minister’s position.
+[9] The contract on which the Minister relies, or which a party seeks to set up against the Minister, is indeed a juridical fact that the Minister may not ignore, even if the contract does not affect the Minister (art. 1440 C.C.Q.; Baudouin and Jobin, Les Obligations, Éditions Yvon Blais 1998, 5th edition, p. 377). However, this does not mean that the Minister may not argue that, on the facts, the contract is not what it seems to be, was not performed as provided by its terms or does not reflect the true relationship created between the parties. The Minister, and the Tax Court of Canada in turn, may, as provided by articles 1425 and 1426 of the Civil Code of Québec, look for that true relationship in the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage. The circumstances in which the contract was formed include the legitimate stated intention of the parties, an important factor that has been cited by this Court in numerous decisions (see Wolf v. Canada (C.A.), [2002] 4 FC 396, paras. 119 and 122; A.G. Canada v. Les Productions Bibi et Zoé Inc., 2004 FCA 54; Le Livreur Plus Inc. v. M.N.R., 2004 FCA 68; Poulin v. Canada (M.N.R.), 2003 FCA 50; Tremblay v. Canada (M.N.R.), 2004 FCA 175).
+[27] I also refer to the remarks of Décary J.A. in Wolf v. Canada, [2002] F.C.J. No. 375 (F.C.A.) (QL) at paragraphs 119‑120:
+[119] Taxpayers may arrange their affairs in such a lawful way as they wish. No one has suggested that Mr. Wolf or Canadair or Kirk‑Mayer are not what they say they are or have arranged their affairs in such a way as to deceive the taxing authorities or anybody else. When a contract is genuinely entered into as a contract for services and is performed as such, the common intention of the parties is clear and that should be the end of the search. Should that not be enough, suffice it to add, in the case at bar, that the circumstances in which the contract was formed, the interpretation already given to it by the parties and usage in the aeronautic industry all lead to the conclusion that Mr. Wolf is in no position of subordination and that Canadair is in no position of control. The "central question" was defined by Major J. in Sagaz as being "whether the person who has been engaged to perform the services is performing them as a person in business on his own account". Clearly, in my view, Mr. Wolf is performing his professional services as a person in business on his own account.
+[120] In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee‑type benefits, freedom of choice and mobility concerns.
+[28] Article 2085 of the Civil Code of Québec (the "Civil Code") defines a contract of employment as follows:
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[29] The contract of enterprise is defined as follows in article 2098 C.C.Q.:
+A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[30] In the case at bar, there is a written agreement that provides that the worker is self‑employed. However, one of the signatories to the agreement, namely, Ms. Senez, testified that this assertion did not reflect her intent and that the remuneration clause and the terms and conditions of her employment are indicative of her intent to be bound by a contract of employment.
+[31] Thus, there are two differing versions with respect to the worker's intent upon signing the agreement.
+[32] Let us look at the agreement. It provides that the worker was to be salaried, not commissioned, for the months of January to June and that a monthly amount would be paid to cover her automobile expenses. She was to be commissioned effective July. However, the former method of remuneration, at the worker's request, was extended for three additional months.
+[33] I must also bear in mind that, in carrying out the same functions before and after her work for the Appellant, the Intervener had employee status.
+[34] I am of the opinion that, based on the facts, that is to say, the method of remuneration that the Appellant wanted and her employee status both before and after the work in question, the Intervener's or the worker's position concerning her intention is the one that must be preferred.
+[35] I must now consider the Intervener's working relationship to determine whether the contract was a contract of employment or a contract of enterprise. Remuneration by salary is not always indicative of employee status, but it is surely indicative of an absence of risk. The potential for risk is normally a characteristic of a contract of enterprise. I do not see any risks being assumed in the case at bar.
+[36] The Appellant did not produce the template for the agreements that it entered into with its representatives during the period in issue. In fact, none of the Appellant's representatives came to testify about the way in which the Appellant operated. Nonetheless, one must bear in mind that the Appellant's agent stated during the hearing that all the Appellant's workers were now employees.
+[37] Sales representatives may have the flexibility to organize their own work schedule, but control characteristic of a relationship of subordination may still be exercised by the employer. For example, weekly or bi‑weekly communications with the worker may constitute means of control. Control may also be exercised with respect to sales volumes and customer satisfaction.
+[38] There was no detailed evidence with respect to the day‑to‑day work method of the Appellant. However, the evidence has disclosed that the worker personally carried out the agreed‑upon work within a framework set by the Appellant. She had to account to the Appellant for her actions each week. These circumstances are indicative of control by the Appellant over the worker, in the nature of a relationship of subordination.
+[39] In conclusion, since I am of the opinion that the worker's intention to be an employee was confirmed by the facts of this case and that the evidence has disclosed control by the Appellant over the worker in the nature of a relationship of subordination, the working relationship between the Appellant and the Intervener was a contract of employment, not a contract of enterprise.
+[40] The appeal is dismissed.
+Signed at Ottawa, Canada, this 20th day of April 2007.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of July 2007
+Mavis Cavanaugh
+CITATION: 2007TCC183
+COURT FILE NO.: 2006‑2681(EI)
+STYLE OF CAUSE: PROVI MODERN MEDICAL INTERNATIOANL INC. v. M.N.R. and CÉLINE SENEZ
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 21, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Louise Lamarre Proulx
+DATE OF JUDGMENT: April 20, 2007
+APPEARANCES:
+Agent for the Appellant:
+Gérald Coss
+Agent for the Respondent:
+Isabelle Pipon
+(articling student)
+For the Intervener:
+The Intervener herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervener:

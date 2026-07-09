@@ -1,0 +1,271 @@
+---
+title: "1882320 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405304/index.do"
+last_modified: "2019-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 81"
+citation2: ""
+neutral_citation: "2019 CCI 81"
+decision_date: "2019-04-26"
+language: "fr"
+item_id: "405304"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4395
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:20:26.536000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7b8e8d268895b38d46fdfa81c0d060c5737fcf517ac5f3a2c6c8510ad4ae90c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1882320 Ontario Inc. c. La Reine
+
+- Citation: 2019 CCI 81
+- Decision date: 2019-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4395, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1882320 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-26
+Référence neutre
+2019 CCI 81
+Numéro de dossier
+2018-860(GST)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-860(GST)I
+ENTRE :
+1882320 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 janvier 2019, à Hamilton (Ontario)
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentant de l’appelante :
+Obaro Akpomena
+Avocat de l’intimée :
+Me John Maskine
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie aux termes de la partie IX de la Loi sur la taxe d’accise pour la période du 1er septembre 2015 au 31 août 2016 est rejeté conformément aux motifs de jugement ci-joints.
+Signé à Kingston (Ontario), ce 26e jour d’avril 2019.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2019 CCI 81
+Date : 20190426
+Dossier : 2018-860(GST)I
+ENTRE :
+1882320 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] L’appelante était, pendant toute la période pertinente, une société ontarienne basée à Oakville, en Ontario. Ses activités consistaient en la vente de voitures d’occasion et de pièces de véhicules automobiles. L’appelante est inscrite aux termes de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, telle que modifiée (la Loi). Étant inscrite à la taxe sur les produits et services et la taxe de vente harmonisée (TPS/TVH), l’appelante était tenue de produire des déclarations de TPS/TVH sur une base annuelle.
+[2] L’unique actionnaire et administrateur de l’appelante était M. Obaro Akpomena. M. Akpomena a témoigné que l’appelante menait des activités d’achat et d’exportation de véhicules automobiles. Au cours de la période en question, du 1er septembre 2015 au 31 août 2016 (la « période»), l’appelante a réalisé des ventes s’élevant à environ 53 000 $. Ce montant découle de la vente de cinq voitures d’occasion achetées au Canada et supposément exportées au Nigéria. L’appelante a omis de percevoir et de verser la TPS/TVH dans le cadre de la vente de ces véhicules puisque, selon l’appelante, elles ont été achetées au Canada aux fins d’exportation au Nigéria et étaient donc des fournitures détaxées, ce qui signifie que la TPS/TVH n’était pas exigible.
+[3] Dans un avis de cotisation daté du 10 avril 2017, le ministre du Revenu national (le « ministre ») a établi une cotisation de TPS/THS pour un montant supplémentaire de 7 951,80 $ et a rejeté le crédit de taxe de vente sur les intrants (« CTI ») de 2 986,34 $ pour la période; le ministre a également imposé des intérêts et une pénalité pour défaut de production. Ces mesures ont été prises au motif que l’appelante n’a pas fourni les documents adéquats pour démontrer qu’elle a exporté les véhicules au Nigéria. Le 21 juin 2017, l’appelante a déposé un avis d’opposition concernant la cotisation. Le 22 février 2018, le ministre a confirmé la cotisation. D’où l’appel interjeté devant la Cour.
+[4] M. Akpomena a produit cinq pièces documentaires, qu’il soumet afin de démontrer que l’appelante a acheté ces véhicules au Canada et les a exportés au Nigéria, ce qui en fait des fournitures détaxées.
+[5] La pièce A-1 comporte cinq pages : un connaissement émis par la Mediterranean Shipping Company S.A. et portant le numéro MSCUM9872690, un avenant au connaissement, un document de suivi de deux pages et une facture se rapportant à la vente d’une Toyota Camry 2008 émise par Allomet Logistic Services Ltd. (« Allomet »), de Lagos, au Nigéria, au nom de M. et Mme Tunji Badmus, également de Lagos. L’avenant au connaissement concerne l’expédition de quatre véhicules, dont la Toyota Camry 2008 (qui est l’un des véhicules visés par le présent appel), décrits dans la facture émise par Allomet, qui a déjà été mentionnée. Tous ces véhicules sont identifiés dans l’avenant par leur numéro d’identification de véhicule (« NIV »). Le connaissement indique que l’expéditeur est Zion Auto Sales de Brampton, en Ontario. Le commissionnaire de transport est International Freight Forwarders, d’Etobicoke en Ontario. Le consignataire est Paul Agiliga Ubabudike de Lagos, au Nigéria. Il est important de souligner que l’appelante n’est identifiée nulle part comme une partie intéressée dans ces documents, pas plus que M. Akpomena.
+[6] La pièce A-2 comporte huit pages : un connaissement émis par la Mediterranean Shipping Company S.A. et portant le numéro MSCUM9801913, un avenant à ce connaissement faisant référence à quatre véhicules identifiés par marque, par modèle, par année et par NIV, un document de suivi de deux pages et quatre factures se rapportant à la vente des véhicules décrits dans l’avenant. Ces factures indiquent que les quatre véhicules ont été vendus par Allomet à des personnes au Nigéria. L’expéditeur indiqué sur le connaissement est Obaro Akpomena, de Toronto. Le consignataire est Vinefield Estates Ltd. de Lagos, au Nigéria, et le commissionnaire de transport est Absa Canada International. Encore une fois, il est important de souligner qu’aucun de ces documents ne désigne l’appelante comme une partie intéressée.
+[7] La pièce A-3 est un certificat de constitution de société indiquant qu’Allomet est une entreprise nigériane constituée sous le régime des lois du Nigéria en date du 18 novembre 2009. Dans son témoignage, M. Akpomena a indiqué qu’il détient Allomet en propriété exclusive.
+[8] La pièce A-4 est une convention de mandat non datée conclue entre l’appelante et M. Akpomena, dans laquelle l’appelante autorise M. Akpomena a assurer certains services en son nom. Ces services comprennent [Traduction] « [la]recherche et [l’]achat/expédition de véhicules et de pièces de véhicules automobiles au Nigéria ». La portée des pouvoirs est décrite comme suit : [Traduction] « Le mandataire est autorisé à signer des bons de commande et à organiser l’expédition et tout autre processus permettant d’expédier et de vendre les véhicules à tout endroit où ils peuvent être vendus avec un bénéfice » [extraits cités textuellement]. M. Akpomena explique que l’objet de cette convention de mandat était de faciliter l’exportation de véhicules et de mandater une autre entité pour finaliser les transactions de vente au Nigéria. Allomet est l’entité qui effectue des transactions au nom de l’appelante au Nigéria. M. Akpomena soutient que l’appelante n’est pas une entité juridique au Nigéria puisqu’elle n’est pas enregistrée et qu’elle ne peut donc pas effectuer de transactions dans ce pays. Allomet n’achète pas de véhicules automobiles auprès de l’appelante. Son rôle consiste à faciliter la vente de véhicules auprès des acheteurs finaux au Nigéria.
+[9] La pièce A-5 comporte sept pages. M. Akpomena a indiqué que la pièce A­5 décrit comment l’appelante achète et exporte des véhicules. Cette pièce comprend un avenant à un connaissement portant le numéro MSCUM9839376 (le connaissement lui-même n’a pas été soumis à la Cour). Cet avenant concerne quatre véhicules d’occasion (qui ne sont pas visés par le présent appel). Il y a également un document de suivi de deux pages. Les quatre dernières pages sont des actes de vente individuels pour ces quatre véhicules d’occasion, qui démontrent supposément leur achat par l’appelante au Canada. Toutefois, l’appelante n’est pas désignée comme l’acheteur. Tous ces actes de vente indiquent que l’acheteur est M. Obaro Akpomena et que le vendeur est Max Mayuku. M. Akpomena a acheté ces véhicules en mai, juillet et août 2016 et les actes de vente précisent que les véhicules ont été vendus comme tels dans le but de les exporter. Il a témoigné qu’il a acheté ces véhicules au nom de l’appelante et non en son propre nom. Toutefois, les actes de vente indiquent que M. Akpomena a acheté ces véhicules à titre personnel. Aucun document n’indique que l’acheteur était l’appelante ou que M. Akpomena agissait à titre de mandataire pour l’appelante.
+[10] Au cours de son contre-interrogatoire, M. Akpomena a témoigné qu’il avait acheté tous les véhicules au Canada, y compris ceux visés par le présent appel, à titre de mandataire agissant au nom de l’appelante. Il a payé les véhicules comptant et l’appelante l’a remboursé en argent comptant également. Toutefois, il faut noter que ni l’appelante ni M. Akpomena n’a produit de document retraçant le mouvement des fonds du compte bancaire commercial de l’appelante jusqu’à M. Akpomena. Il convient également de noter qu’aucun document ne montre comment l’argent passe des acheteurs finaux au Nigéria à l’appelante au Canada. M. Akpomena a indiqué qu’Allomet, son entreprise au Nigéria, a recouvré l’argent provenant de la vente des véhicules et lui a remis. L’argent est retourné à l’appelante par l’intermédiaire de bureaux de change. Toutes ces opérations sont effectuées en argent comptant. Aucun document n’a été soumis pour appuyer cette affirmation.
+[11] M. Akpomena affirme qu’il détient des factures démontrant que l’appelante a payé les frais d’expédition des véhicules, mais ces documents n’ont pas été produits et ne sont donc pas disponibles aux fins d’interrogatoire par la Cour.
+[12] Dans l’ensemble, la preuve ne comporte aucun document, comme des relevés bancaires, des traites de banque, des mandats de banque, des chèques, des reçus pour des espèces, des transferts électroniques, des virements télégraphiques ou des notes de débit ou de crédit, démontrant que l’appelante a payé les véhicules au Canada ou a reçu les produits de la vente de ces véhicules au Nigéria.
+[13] Il est important de noter également que les connaissements ne présentent aucune signature, date ou estampille de douane. Aucun des connaissements ne fait mention de l’appelante. Rien n’indique dans le connaissement inclus dans la pièce A-1 que Zion Auto Sales, désigné comme l’expéditeur, a des liens avec l’appelante ou agit en son nom. En ce qui concerne le connaissement inclus dans la pièce A-2, rien n’indique que M. Akpomena, qui est désigné comme l’expéditeur, a agi au nom de l’appelante. La preuve ne comporte aucun document émis par les autorités douanières du Nigéria concernant l’importation au Nigéria des véhicules visés par le présent appel.
+Thèse de l’appelante
+[14] L’appelante plaide qu’elle a acheté les véhicules d’occasion au Canada et versé de la TVH sur ces achats. Ces véhicules ont ensuite été exportés au Nigéria par l’appelante pour y être vendus. Les biens meubles corporels (les véhicules visés en l’espèce) qui sont exportés à l’extérieur au Canada sont des fournitures détaxées et, conformément à l’alinéa 142(2)a) de la Loi, l’appelante n’était pas tenue de percevoir et de verser la TPS/TVH sur la vente de ces véhicules au Nigéria. L’appelante soutient également qu’elle a droit au crédit de taxe de vente sur les intrants («CTI») réclamés au cours de la période en question.
+[15] Par conséquent, l’appelante fait valoir qu’elle n’aurait pas dû faire l’objet d’une cotisation de TPS/TVH de 7 951,80 $ et qu’elle a correctement réclamé le CIT de 2 986,34 $ qui a été rejeté. Par conséquent, l’appelante demande à la Cour d’accueillir son appel et de renvoyer l’affaire au ministre aux fins de réexamen et d’établissement de nouvelles cotisations.
+Thèse de l’intimée
+[16] L’intimée soutient que les documents fournis par l’appelante n’étaient pas adéquats et ne démontraient pas que les véhicules visés en l’espèce ont été achetés au Canada et exportés par l’appelante au Nigéria. Il incombe à l’appelante de conserver et de soumettre des documents adéquats et suffisants jugés satisfaisants par le ministre pour démontrer que les véhicules ont bel et bien été exportés par l’appelante du Canada au Nigéria. Aucun des documents fournis n’indique que l’acheteur était l’appelante ou que M. Akpomena agissait à titre de mandataire pour l’appelante.
+[17] Par conséquent, les fournitures de l’appelante n’étaient pas des fournitures détaxées au sens donné à ce terme au paragraphe 123(1) de la Loi.
+[18] L’appelante était tenue, conformément au paragraphe 221(1) de la Loi, d’imposer et de percevoir la TPS/TVH sur le prix de la vente des véhicules et des pièces de véhicules automobiles vendus, qui s’élève à 7 951,80 $. L’appelante ne l’a pas fait et est donc est responsable de ce montant, conformément au paragraphe 225(1) de la Loi. En outre, l’appelante n’avait pas le droit de réclamer un CIT au montant de 2 986,34 $ sur le prix d’achat des véhicules visés par le présent appel. L’intimée fait valoir qu’avant de produire la déclaration dans laquelle l’appelante réclamait un CIT, l’appelante n’a pas obtenu les documents contenant les renseignements prescrits par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (DORS/91­45) (le « Règlement »). De même, l’appelante n’a pas soumis de documents pour appuyer sa réclamation de CTI. Par conséquent, l’appelante n’est pas admissible à une réclamation de CTI, conformément au paragraphe 169(4) de la Loi.
+[19] L’intimée invite donc la Cour à rejeter l’appel de l’appelante.
+Questions en litige
+[20] Les questions litigieuses à trancher dans le présent appel sont ci-après énoncées :
+a. si l’appelante est responsable de la TPS/TVH non perçue en vertu de la Loi sur la vente de véhicules d’occasion au cours de la période;
+b. si l’appelante est admissible à un CTI de 2 986,34 $ pour la période.
+Analyse
+[21] Les dispositions applicables de la Loi sur la taxe d’accise L.R.C. 1985, ch. E-15, telle que modifiée, de la partie V de l’Annexe VI de la Loi et du Règlement sont jointes aux présents motifs du jugement en tant qu’annexe A.
+A. Fournitures détaxées
+[22] Conformément au paragraphe 165(1) de la Loi, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer la TPS/TVH sur la valeur de la contrepartie de la fourniture. Selon les articles 221 et 228, le fournisseur, en sa qualité de mandataire de Sa Majesté du chef du Canada, est tenu de percevoir et de verser au receveur général du Canada les taxes payables par l’acquéreur.
+[23] Certaines fournitures sont détaxées. Le paragraphe 165(3) prévoit que le taux de la taxe relative à une fourniture détaxée est nul. Les définitions d’une fourniture détaxée sont fournies à l’annexe VI. Les fournitures effectuées au Canada qui sont exportées sont généralement détaxées. Les dispositions pertinentes aux exportations sont énoncées dans la partie V. Les articles 1 et 12 de la partie V de l’annexe VI énoncent les exigences précises et strictes qui doivent être respectées pour qu’une vente soit considérée comme une vente à l’exportation et, par conséquent, une fourniture détaxée au sens de la Loi.
+[24] L’article 142 est la disposition générale servant à déterminer si une fourniture est réputée effectuée au Canada ou à l’extérieur du Canada. L’alinéa 142(1)a) de la Loi prévoit qu’un bien meuble corporel fourni par vente est réputé fourni au Canada s’il est, ou sera, livré à l’acquéreur au Canada ou y est, ou y sera, mis à sa disposition. L’alinéa 142(2)a) de la loi stipule que, s’agissant d’un bien meuble corporel fourni par vente, il est, ou sera, livré à l’acquéreur à l’étranger ou est, ou sera, mis à sa disposition à l’étranger.
+[25] L’article 12 de la partie V de l’Annexe VI de la Loi énonce que la fourniture d’un bien meuble corporel est détaxée si le fournisseur expédie le bien à une destination à l’étranger, précisée dans le contrat de factage visant le bien, ou si le fournisseur transfère la possession du bien à un transporteur public ou à un consignataire qui a été chargé d’expédier le bien à une destination à l’étranger au fournisseur pour le compte de l’acquéreur. Lorsqu’un bien meuble corporel est fourni par vente au Canada et que le fournisseur est la partie responsable de l’exportation du bien meuble corporel, plutôt que l’acquéreur, la fourniture est détaxée en vertu de l’article 12 de la partie V de l’annexe VI dans le cas où le fournisseur :
+a. expédie le bien meuble corporel à une destination à l’étranger, précisée dans le contrat de factage visant le bien;
+b. transfère la possession du bien meuble corporel à un transporteur public ou à un consignataire qui a été chargé par l’acquéreur ou l’employeur de l’acquéreur d’expédier le bien meuble corporel à une destination à l’étranger;
+c. envoie le bien meuble corporel par la poste ou messager à une adresse à l’étranger.
+[26] La tenue de registres détaillés et précis est absolument essentielle en vertu de la Loi. Le paragraphe 286(1) de la Loi énonce que toute personne qui exploite une entreprise au Canada ou y exerce une activité commerciale, toute personne qui est tenue, en application de la présente partie, de produire une déclaration ainsi que toute personne qui présente une demande de remboursement doit tenir des registres en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit. Plus précisément, on ne peut accorder une importance exagérée à la conservation d’éléments de preuve satisfaisants que le bien meuble corporel a été envoyé à l’étranger. Selon l’alinéa 1e) de la partie V de l’annexe VI de la Loi, les éléments de preuve que possède la personne doivent être considérés acceptables par le ministre. Les éléments de preuve de l’exportation doivent permettre de retracer le bien meuble corporel expédié de son origine au Canada jusqu’à sa destination à l’étranger.
+[27] Les documents considérés acceptables par le ministre pour établir que le bien meuble corporel a été exporté du Canada varient selon les circonstances, notamment le moyen de transport utilisé pour exporter le bien meuble corporel et la nature du bien meuble corporel. Les documents acceptables comprennent, sans toutefois s’y limiter, les suivants :
+a. des factures de vente ou des contrats d’achat identifiant le bien meuble corporel et l’acquéreur, qui doivent concorder avec les directives d’expédition ou de livraison figurant sur bon de commande;
+b. des connaissements émis par le transporteur ou en son nom, démontrant un contrat de factage ainsi qu’une preuve de livraison des biens à bord d’un navire;
+c. des factures de courtiers en douane ou de commissionnaires de transport;
+d. des documents d’importation exigés par le pays où les biens meubles corporels sont exportés;
+e. des copies des formulaires d’inscription des organismes de réglementation étrangers auprès desquels les biens comme les véhicules doivent être inscrits;
+f. tout autre élément de preuve qui n’est pas cité précédemment et qui est considéré acceptable par le ministre.
+[28] Une tenue adéquate des registres est importante puisque le système fiscal du Canada est fondé sur un régime d’autocotisation et d’autodéclaration. Dans le cadre des procédures devant la Cour, le fardeau de la preuve incombe à l’appelante et, généralement, l’appelante ne peut s’acquitter de ce fardeau qu’en produisant des éléments de preuve documentaires pertinents et convaincants. En l’espèce, il incombe à l’appelante de soumettre à la Cour des éléments de preuve documentaires suffisants et fiables qui établissent, selon la prépondérance des probabilités, que les véhicules vendus au cours de la période ont été exportés, soit parce que l’appelante a vendu les véhicules à un acquéreur autre qu’un consommateur, qui prévoyait exporter les véhicules (article 1), ou parce que l’appelante a exporté les véhicules par elle-même ou les a transférés à un transporteur public aux fins d’exportation (article 12).
+[29] Dans l’arrêt B.E.S.T. Linen Supply and Services Ltd c. La Reine, 2007 CCI 468, [2007] G.S.T.C. 123, le juge Paris de notre Cour s’est penché sur l’alinéa 1e) de la partie V de l’annexe VI de la Loi, qui prévoit que pour établir qu’une fourniture est détaxée, il faut que « la personne possède des preuves que le ministre estime acceptables de l’exportation du bien par l’acquéreur ». Dans le cadre des discussions portant sur les « preuves que le ministre estime acceptables », le juge Paris a émis le commentaire suivant au paragraphe 33 des motifs de sa décision :
+[33] La décision du ministre ici que la preuve de l’exportation n’était pas acceptable est une décision discrétionnaire. Dans l’arrêt Uranus Auto Sales c. La Reine [2002] G.S.T.C. 39, la Cour a conclu que le ministre est la seule personne à pouvoir déterminer si les éléments de preuve d’exportation fournis par le contribuable sont acceptables. La Cour ne peut intervenir à moins que les éléments de preuve démontrent que dans sa décision, le ministre a tenu compte de considérations étrangères, n’a pas tenu compte de facteurs pertinents, a enfreint des principes juridiques ou a agi de mauvaise foi.
+[30] Le juge Paris était d’avis que dans les circonstances de l’affaire dont il était saisi, l’appelante n’a pas réussi à démontrer que la Cour pourrait intervenir dans la décision du ministre selon laquelle les éléments de preuve d’exportation fournis par l’appelante n’étaient pas suffisants. Il est important de noter le fait que les factures produites par l’appelante ne fournissaient pas suffisamment de détails, comme l’adresse de l’acheteur et même, souvent, le nom de l’acheteur.
+[31] Dans l’affaire Nwaukoni v. The Queen, 2018 TCC 252, dont la décision a été rendue le 13 décembre 2018, la juge Lafleur de notre Cour s’est également penchée sur le cas d’un contribuable qui expédiait supposément des véhicules automobiles au Nigéria et au Ghana, et parfois au Cameroun. La juge Lafleur a tranché que dans l’affaire dont elle était saisie, l’appelant ne possédait pas d’éléments de preuve que le ministre estimait acceptables pour démontrer que les véhicules ont été exportés, tel que l’exige l’alinéa 1e). Elle a observé qu’aux termes du paragraphe 286(1) de la Loi, toute personne qui exploite une entreprise au Canada doit tenir des registres adéquats en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la Loi. Un appelant ne peut simplement affirmer que les fournitures vendues au cours de la période ont été exportées sans fournir des éléments de preuve adéquats et fiables de l’exportation des fournitures et exiger la TPS/TVH sur ces ventes. La juge Lafleur a cité des exemples de situations où les éléments de preuve fournis relativement à l’exportation sont insuffisants, par exemple, lorsqu’un avenant d’un connaissement est fourni sans le connaissement proprement dit ou lorsque le connaissement présente des lacunes (p. ex., il n’est pas estampillé, n’est pas daté ou est incomplet, le nom de l’appelant n’est pas indiqué) ou lorsque des documents sont fournis, mais ne permettent pas de retracer la vente des fournitures supposément exportées.
+[32] En l’espèce, j’estime que l’appelante n’a pas fourni à la Cour des éléments de preuve suffisants et fiables pour démontrer que les véhicules visés par le présent appel ont été exportés par l’appelante du Canada vers le Nigéria.
+[33] Voici une liste de facteurs que j’ai pris en compte pour en arriver à ma décision :
+a. Je ne dispose d’aucun élément de preuve pouvant m’indiquer que l’appelante a acheté les véhicules au Canada. Tous les éléments de preuve indiquent que M. Akpomena était l’acheteur des véhicules à titre personnel. M. Akpomena affirme qu’il agissait en tout temps comme le mandataire de l’appelante, mais aucun document lié aux véhicules visés par le présent appel n’en fait mention.
+b. L’achat des véhicules au Canada s’est fait en argent comptant. M. Akpomena affirme que l’appelante lui a remboursé ces achats en argent comptant. Toutefois, aucun document ne permet de retracer le mouvement des fonds du compte bancaire commercial de l’appelante jusqu’à M. Akpomena.
+c. Aucun document ne montre comment l’argent passe des acheteurs finaux au Nigéria à l’appelante au Canada. Si, comme l’affirme M. Akpomena, ces transactions ont été effectuées par l’intermédiaire de bureaux de change, il devrait y avoir des registres renvoyant aux véhicules exportés, mais aucun de ces documents n’a été produit (encore une fois, supposément parce que toutes ces transactions ont été effectuées en argent comptant).
+d. Les connaissements présentés à la Cour présentent des lacunes importantes. Aucun des connaissements n’est signé. Aucun des connaissements ne porte une estampille de douane. Aucun des connaissements n’est daté. La pièce A-1 indique que Zion Auto Sales est l’expéditeur, alors que la pièce A-2 indique que l’expéditeur est M. Akpomena lui-même. Un fait très important est qu’aucun des connaissements ne fait mention de l’appelante. À la lumière de ces documents, l’appelante semble n’avoir aucun lien avec l’exportation de ces véhicules. M. Akpomena affirme qu’il agissait en tout temps comme le mandataire de l’appelante, mais aucun des documents d’exportation ne fait mention de son statut de mandataire.
+e. Il n’existe aucune preuve documentaire indiquant que l’appelante a défrayé les coûts d’expédition.
+f. Il n’y a aucune déclaration des autorités douanières du Nigéria ni document du gouvernement du Nigéria indiquant que les véhicules sont entrés au pays.
+[34] L’appelante ne peut simplement affirmer que les véhicules vendus ont été exportés sans fournir d’éléments de preuve adéquats et fiables de l’exportation et être ainsi exemptée de la perception et du versement de la TPS/TVH. La Cour a indiqué de manière continue et cohérente que des éléments de preuve adéquats et fiables devaient être fournis. Lorsque ces éléments de preuve ne sont pas fournis, l’appelante ne peut s’acquitter du fardeau de la preuve.
+[35] Je ne suis pas convaincu que l’appelante a fourni des éléments de preuve adéquats et fiables pour démontrer qu’elle a exporté les véhicules en question. En outre, en l’espèce, je ne peux conclure que dans sa décision, le ministre a tenu compte de considérations étrangères, n’a pas tenu compte de facteurs pertinents, a enfreint des principes juridiques ou a agi de mauvaise foi.
+B. Réclamation du crédit de taxe sur les intrants
+[36] En l’espèce, l’appelante n’a pas démontré qu’elle est admissible au CTI réclamé au montant de 2 986,34 $. Aucun document n’a été fourni pour soutenir cette affirmation.
+Conclusion
+[37] En conclusion et pour les motifs qui précèdent, l’appel est rejeté.
+Signé à Kingston (Ontario), ce 26e jour d’avril 2019.
+« Rommel G. Masse »
+Le juge suppléant Masse
+ANNEXE A
+Les dispositions pertinentes de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, sont libellées comme suit :
+123(1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+[...]
+fourniture détaxée Fourniture figurant à l’annexe VI. (zero-rated supply)
+142(1) Pour l’application de la présente partie... un bien ou un service est réputé fourni au Canada si :
+a) s’agissant d’un bien meuble corporel fourni par vente, il est, ou sera, livré à l’acquéreur au Canada ou y est, ou y sera, mis à sa disposition;
+b) s’agissant d’un bien meuble corporel fourni autrement que par vente, sa possession ou son utilisation est accordée à l’acquéreur au Canada ou y est mise à sa disposition;
+[...]
+(2) Pour l’application de la présente partie, un bien ou un service est réputé fourni à l’étranger si :
+a) s’agissant d’un bien meuble corporel fourni par vente, il est, ou sera, livré à l’acquéreur à l’étranger ou est, ou sera, mis à sa disposition à l’étranger;
+b) s’agissant d’un bien meuble corporel fourni autrement que par vente, sa possession ou son utilisation est accordée à l’acquéreur à l’étranger ou est mise à sa disposition à l’étranger;
+[...]
+165(1) Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 5 % sur la valeur de la contrepartie de la fourniture.
+(2) Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée dans une province participante est tenu de payer à Sa Majesté du chef du Canada, outre la taxe imposée par le paragraphe (1), une taxe calculée au taux de taxe applicable à la province sur la valeur de la contrepartie de la fourniture.
+(3) Le taux de la taxe relative à une fourniture détaxée est nul.
+[...]
+169 (4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+c) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+d) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+221 (1) La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+225(1) Sous réserve des autres dispositions de la présente sous-section, la taxe nette pour une période de déclaration donnée d’une personne correspond au montant, positif ou négatif, obtenu par la formule suivante :
+A - B
+A représente le total des montants suivants :
+a) les montants devenus percevables et les autres montants perçus par la personne au cours de la période donnée au titre de la taxe prévue à la section II;
+b) les montants à ajouter aux termes de la présente partie dans le calcul de la taxe nette de la personne pour la période donnée;
+B le total des montants suivants :
+a) l’ensemble des montants dont chacun représente un crédit de taxe sur les intrants pour la période donnée ou une période de déclaration antérieure de la personne, que celle-ci a demandé dans la déclaration produite en application de la présente section pour la période donnée;
+b) l’ensemble des montants dont chacun représente un montant que la personne peut déduire en application de la présente partie dans le calcul de sa taxe nette pour la période donnée et qu’elle a indiqué dans la déclaration produite en application de la présente section pour cette période.
+228(1) La personne tenue de produire une déclaration en application de la présente section doit y calculer sa taxe nette pour la période de déclaration qui y est visée, sauf si les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration.
+(2) La personne est tenue de verser au receveur général le montant positif de sa taxe nette pour une période de déclaration dans le délai suivant, sauf les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration :
+a) si elle est un particulier auquel le sous-alinéa 238(1)a)(ii) s’applique pour la période, au plus tard le 30 avril de l’année suivant la fin de la période;
+b) dans les autres cas, au plus tard le jour où la déclaration visant la période est à produire.
+286(1) Toute personne qui exploite une entreprise au Canada ou y exerce une activité commerciale, toute personne qui est tenue, en application de la présente partie, de produire une déclaration ainsi que toute personne qui présente une demande de remboursement doit tenir des registres en anglais ou en français au Canada ou à tout autre endroit, selon les modalités que le ministre précise par écrit, en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit.
+L’annexe VI de la Loi porte sur les fournitures détaxées. Les sections 1 et 12 de la partie V de l’annexe VI portent sur les exportations. Conformément à ces sections, la fourniture d’un bien meuble corporel est détaxée si les biens sont achetés en vue de les exporter immédiatement (section 1) ou que les biens sont destinés à être expédiés hors du Canada (section 12). Selon ces sections, une fourniture détaxée se décrit comme suit :
+1 La fourniture d’un bien meuble corporel, sauf un produit soumis à l’accise, effectuée par une personne au profit d’un acquéreur, autre qu’un consommateur, qui a l’intention d’exporter le bien, si à la fois :
+a) [...]
+b) l’acquéreur exporte le bien dans un délai raisonnable après en avoir pris livraison de cette personne, compte tenu des circonstances entourant l’exportation et, le cas échéant, de ses pratiques commerciales normales;
+c) l’acquéreur n’acquiert pas le bien pour consommation, utilisation ou fourniture au Canada avant l’exportation;
+d) entre le moment de la fourniture et celui de l’exportation, le bien n’est pas davantage traité, transformé ou modifié au Canada, sauf dans la mesure raisonnablement nécessaire ou accessoire à son transport;
+e) la personne possède des preuves, que le ministre estime acceptables, de l’exportation du bien par l’acquéreur.
+[...]
+12 La fourniture d’un bien meuble corporel... dans le cas où le fournisseur, selon le cas :
+a) expédie le bien à une destination à l’étranger, précisée dans le contrat de factage visant le bien;
+b) transfère la possession du bien à un transporteur public ou à un consignataire qui a été chargé d’expédier le bien à une destination à l’étranger par l’une des personnes suivantes :
+i. le fournisseur pour le compte de l’acquéreur,
+ii. l’employeur de l’acquéreur;
+c) envoie le bien par courrier ou messager à une adresse à l’étranger.
+Les dispositions pertinentes du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91-45, sont libellées comme suit :
+2 Les définitions qui suivent s’appliquent au présent règlement.
+[...]
+pièce justificative Document qui contient les renseignements exigés à l’article 3, notamment :
+a) une facture;
+b) un reçu;
+c) un bordereau de carte de crédit;
+d) une note de débit;
+e) un livre ou registre de comptabilité;
+f) une convention ou un contrat écrits;
+g) tout registre faisant partie d’un système de recherche documentaire informatisé ou électronique ou d’une banque de données;
+h) tout autre document signé ou délivré en bonne et due forme par un inscrit pour une fourniture qu’il a effectuée et à l’égard de laquelle il y a une taxe payée ou payable. (supporting documentation)
+3 Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $
+i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément à l’article 241 de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n’est pas une fourniture détaxée, mais ne l’est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu’une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu’une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l’une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n’est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l’ensemble de ces fournitures auxquelles s’applique le même taux de taxe total,
+v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n’est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+i) les renseignements visés aux alinéas a) et b),
+ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+iii) les modalités de paiement,
+iv) une description suffisante pour identifier chaque fourniture.
+RÉFÉRENCE :
+2019 CCI 81
+No DU DOSSIER DE LA COUR :
+2018-860(GST)I
+INTITULÉ :
+1882320 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 26 avril 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Obaro Akpomena
+Avocat de l’intimée :
+Me John Maskine
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

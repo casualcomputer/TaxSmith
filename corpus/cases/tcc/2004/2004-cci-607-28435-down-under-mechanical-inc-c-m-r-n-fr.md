@@ -1,0 +1,144 @@
+---
+title: "Down Under Mechanical Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28435/index.do"
+last_modified: "2004-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 607"
+citation2: ""
+neutral_citation: "2004 CCI 607"
+decision_date: "2004-09-17"
+language: "fr"
+item_id: "28435"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1233
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:02:02.098000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "329ff7fadd1b957a879e5dc8fd2b6075b66eff98fc4658461c29701a1c855c5e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Down Under Mechanical Inc. c. M.R.N.
+
+- Citation: 2004 CCI 607
+- Decision date: 2004-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1233, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Down Under Mechanical Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-17
+Référence neutre
+2004 CCI 607
+Numéro de dossier
+2003-1372(EI), 2003-1373(CPP)
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2004CCI607
+Date : 20040917
+Dossier : 2003-1372(EI)
+2003-1373(CPP)
+ENTRE :
+DOWN UNDER MECHANICAL INC.,
+Appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé,
+Dossier : 2003-1377(EI)
+2003-1380(CPP)
+ET ENTRE :
+NUTS & BOLTS CONSTRUCTION INC.,
+Appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant pour l’appelant : V. Russo Avocat pour l’intimé : Me A'Amer Ather
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Donnés de vive voix à l’audience tenue
+à Toronto (Ontario) le 24 juin 2004)
+Le juge Bowie
+[1] Entre le 13 octobre 2001 et le 4 juin 2002, M. Michael Naugle a exécuté des travaux pour la Société Nuts & Bolts Construction Inc. (« Nuts & Bolts »). Il a également accompli des travaux pour l’entreprise Down Under Mechanical Inc. (« Down Under »).
+[2] Les appels sur lesquels je dois me prononcer ont été soumis par ces deux entreprises suite à ce qui avait été déterminé par le ministre du Revenu national (le « ministre »). Selon ces déterminations, l’exécution des travaux en question constituait un emploi assurable aux termes de la Loi sur l’assurance-emploi. Il s’agissait aussi d’un emploi ouvrant droit à pension en vertu du Régime de pensions du Canada. En d’autres termes, selon les deux entreprises appelantes, M. Naugle était un entrepreneur indépendant au moment où il a effectué des travaux pour leur compte. Toutefois, le ministre est d’avis contraire et considère que M. Naugle était un employé.
+[3] La seule preuve que j’ai entre les mains est celle qui a été déposée par M. Robert Moroney. À l’époque en question, il détenait toutes les actions de la Down Under et la moitié des actions de Nuts & Bolts. L’autre moitié appartenait à ce moment-là à M. Marty Gover. Ce dernier exploitait l’entreprise Nuts & Bolts presque sans aucun apport de capitaux de la part de M. Moroney. Il est malheureux que M. Gover n’ait pas été présent pour témoigner étant donné que la majorité des travaux exécutés pour ces deux entreprises l’ont été au profit de Nuts & Bolts. Ces travaux, selon l’estimation de M. Moroney, ont été réalisés pour 90 % au bénéfice de Nuts & Bolts et pour 10 % au bénéfice de Down Under. Il est également malheureux que M. Naugle n’ait pas été présent pour témoigner. Les entreprises appelantes ont demandé l’ajournement de l’audience parce que ce dernier n’était pas présent en cour. Ce que j’ai refusé. Cette affaire devait être entendue en février 2004 mais l’audience a alors été reportée parce que M. Naugle n’était pas disponible. C’était encore le cas cette semaine. Ni l’une ni l’autre partie ne l’ont cité à comparaître et maintenant ni l’une ni l’autre ne savent au juste où il se trouve. Il n’y avait aucune raison de croire que si j’autorisais l’ajournement on pourrait toujours le retrouver et lui signifier une citation à comparaître à une audience ajournée.
+[4] M. Moroney a témoigné que l’activité de l’entreprise Nuts & Bolts était la construction générale et celle de Down Under, la plomberie et le chauffage. Au cours de la période considérée, les deux entreprises ont versé globalement à M. Naugle 12 000 $ environ pour ses travaux, dont 90 %, comme je l’ai dit, ont été exécutés pour le compte de Nuts & Bolts et 10 % pour Down Under. Le témoignage de M. Moroney était très vague quant à la nature des travaux réalisés par M. Naugle. Il les a même qualifiés à un moment donné de travaux généraux, ce qui, à mon avis, est probablement une description exacte. M. Moroney a de plus mentionné qu’au départ M. Naugle avait communiqué avec M. Gover pour lui offrir ses services de même qu’il travaillait à l’occasion pour Nuts & Bolts et, dans une moindre mesure, pour Down Under. Il a ajouté qu’il était au courant que M. Naugle avait travaillé un certain temps pour une entreprise du nom de Stranway Construction.
+[5] Il me semble, d’après le témoignage de M. Moroney, que le curriculum vitae de M. Naugle n’était pas très impressionnant de même que M. Moroney et M. Gover lui faisaient vraiment une faveur en lui donnant la possibilité, si petite fut-elle, de travailler, même si ce n’était qu’occasionnellement. Cela vaut peut-être aussi pour M. Stranway; je ne saurais l’affirmer. M. Moroney a été incapable de nous dire quoi que ce soit d’important au sujet du travail que Naugle avait exécuté pour Stranway. Lorsqu’on l’a interrogé à propos de ce travail ainsi qu’à propos de la relation employeur-employé, M. Moroney a déclaré que lorsqu’il y avait un travail qui requérait les services d’un manœuvre, il communiquait avec M. Naugle et le lui offrait. Parfois M. Naugle l’acceptait, parfois le refusait.
+[6] Tous les travaux de Down Under s’effectuent en sous-traitance. M. Moroney présente des soumissions et se voit attribuer par des entrepreneurs généraux des contrats pour des travaux qui relèvent de sa sphère d’activité, travaux qu’il confie ensuite à des sous-traitants. Peut-être est-ce pour cette raison qu’il estimait que M. Naugle devait être considéré comme sous-traitant. Il a aussi déclaré que M. Naugle était non seulement réticent à donner son numéro d’assurance sociale mais également réticent à donner un numéro d'inscription au registre de la TPS. Aucune de ces questions n’a réellement une incidence sur le double problème de fait et de droit, à savoir que M. Naugle travaillant pour ces deux entreprises, était-il un entrepreneur indépendant ou simplement un manœuvre occasionnel embauché pour une courte durée en vertu d’un contrat de louage de services. Je ne doute nullement que ce soit la deuxième situation qui soit exacte.
+[7] Le critère à appliquer est bien établi. En fait, il n’y a pas si longtemps, c’est‑à‑dire en 2001, la Cour suprême du Canada, dans l’arrêt Sagaz Industries Canada Inc. c. 671122 Ontario Ltd.[1] a approuvé la décision de la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. M.N.R.[2]. Depuis 1986, ces deux cours appliquent constamment ce critère. En énonçant les motifs du jugement de la Cour suprême du Canada, le juge Major a traité de cette question aux paragraphes 25 et suivants. Bien que le point en litige dans cette affaire ait été celui de la responsabilité du fait d’autrui, la question à laquelle on doit répondre est exactement la même qui revient trop fréquemment dans le contexte de la Loi de l’assurance‑emploi. Le juge Major s’est reporté à la décision du juge MacGuigan dans l’arrêt Wiebe Door et à la remarque qu’il a faite selon laquelle la cour est tenue de considérer attentivement toute la preuve et de la soupeser en regard des quatre critères depuis longtemps établis : le premier étant la supervision et le contrôle; le deuxième, la possibilité d’un bénéfice; le troisième, le risque de perte et le quatrième, la propriété des outils, comme on le dit parfois.
+[8] Le juge Major a de plus, au paragraphe 44, approuvé expressément la synthèse du problème comme l’avait fait le juge Cooke dans l’arrêt Market Investigations, Ltd. c. Minister of Social Security,[3] décision précédemment confirmée et, en fait, critère particulier déjà confirmé lui aussi non seulement dans l’arrêt Wiebe Door mais aussi par le Conseil privé dans la cause Lee Ting Sang c. Chung Chi-Keung.[4] Voici comment le juge Cooke a formulé le critère :
+[TRADUCTION] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s’engage à accomplir ces tâches les accomplit-elle en tant que travaillant à son compte? ». Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n’a été dressée, peut-être n’est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche.
+Dans le contexte de la preuve en l’espèce, la réponse est évidente. On ne peut vraiment pas considérer M. Naugle comme étant entrepreneur. En ce qui a trait particulièrement aux facteurs si souvent énumérés, M. Moroney, je pense, a été un témoin honnête mais il a fait tout ce qu’il a pu pour présenter la preuve de façon à favoriser sa cause. Selon ses dires, lorsqu’une tâche avait été attribuée à M. Naugle, personne n’était là pour le superviser directement. On lui donnait tout simplement un travail à exécuter et on lui indiquait où il devait l’effectuer et il se rendait alors à l’endroit en question et s’en acquittait. Lorsqu’il travaillait pour le compte de Nuts & Bolts, il présentait une facture une fois la tâche terminée, le tarif horaire étant fixé au début à 12 $ et plus tard à 15 $, montant convenu entre eux. M. Gover vérifiait si le travail avait été exécuté de manière satisfaisante avant de régler la facture. Il vérifiait en outre si le nombre d’heures indiquées par M. Naugle sur la facture était raisonnable compte tenu de la tâche à accomplir. Ce n’était certainement pas là une supervision stricte de chaque heure de travail de M. Naugle, mais vu le contexte du genre de tâche qu’il accomplissait, une supervision plus serrée aurait probablement été exagérée.
+[9] En ce qui concerne les 90 % de son travail exécutés pour le bénéfice de Nuts & Bolts, selon la preuve soumise par M. Moroney, cette entreprise affectait d’autres employés au chantier dont un expérimenté. Même s’il ne s’est pas appesanti sur le fait que cet employé expérimenté supervisait directement M. Naugle, il est logique de présumer que ce dernier faisait l’objet d’une supervision à un degré quelconque comme tout autre travailleur sur le chantier.
+[10] Je ne vois pas ça comme un facteur important en l’espèce. Il vaut la peine de mentionner, toutefois, que dans la mesure où la preuve l’atteste, les instructions touchant le travail à exécuter étaient toujours communiquées verbalement à M. Naugle. Pas question de contrats écrits précisant les tâches à accomplir. On lui indiquait simplement de vive voix l’endroit où se rendre et le travail à effectuer. De la même façon, la propriété des outils, je pense, ne représente pas un facteur très influent ici. La jurisprudence montre clairement que l’importance de la propriété des outils en tant qu’un des quatre éléments du critère, pour employer l’expression du juge MacGuigan, réside dans le fait que cet élément donne une indication de l’investissement qui peut ou ne peut pas être considéré comme une entreprise commerciale.
+[11] Dans une affaire comme celle de Montreal c. Montreal Locomotive Works Ltd.,[5] de toute évidence le montant de l’investissement en cause est très important. Dans un cas comme celui qui nous concerne, il n’y a pas du tout d’investissement significatif. M. Naugle possédait quelques outils à main qu’il emportait avec lui à son lieu de travail et il semble qu’ils aient été les seuls dont il avait besoin. M. Moroney a affirmé très candidement que si on lui avait confié un travail requérant l’utilisation d’un marteau-piqueur, on en aurait loué un pour lui. Comme le montre une bonne partie de la preuve, et comme cela arrive fréquemment non seulement dans cette cause mais dans toutes les autres également, bon nombre des questions posées et des réponses données se rapportaient à des situations hypothétiques susceptibles de se présenter un jour ou l’autre mais qui, en fait, ne se sont jamais présentées entre l’employeur et l’employé ou entre l’entrepreneur et le sous-traitant, selon le cas. Je ne pense pas que les réponses alors fournies à de telles questions soient vraiment concluantes. Bien souvent, M. Moroney a posé des questions, celles‑ci, par exemple : Si quelqu’un se blessait sur le chantier, qui serait tenu responsable? S’il y avait des créances irrécouvrables, à qui incomberait l’obligation qui s’y rattache? Qui avait la responsabilité d’offrir une protection en souscrivant une assurance? M. Moroney a tenté de répondre le mieux possible à ces questions hypothétiques. Toutefois, le fait demeure qu’elles n’ont jamais été abordées. Rarement le sont-elles dans pareilles situations et fréquemment les réponses appellent, quoi qu’il en soit, des conclusions juridiques que le témoin n’est pas à même de formuler. Pourquoi les poser, je ne le sais pas. Mais comme je l’ai déjà dit, lorsqu’on parle de situations hypothétiques et de ce qui pourrait arriver « si », cela ne m’apparaît d’aucune utilité.
+[12] Maintenant, si l’on considère la question d’une possibilité de bénéfice et d’un risque de perte, ni l’une ni l’autre de ces éventualités ne sont mises en cause en l’espèce. Il est plus qu’évident que M. Naugle a été rémunéré au taux de 12 $ l’heure et plus tard, à celui de 15 $. La somme qui lui était versée était fonction du nombre d’heures qu’il affirmait avoir travaillées, du moins en ce qui concerne Down Under mais cette somme était seulement payée après que M. Gover s’était assuré que le nombre des heures censées avoir été travaillées n’était pas irraisonnable. Si M. Naugle avait exécuté la tâche plus rapidement, il aurait touché moins d’argent. Il n’avait aucune fonction de gestion et donc celle de gestion du travail n’entrait tout simplement pas en ligne de compte.
+[13] Considérant l’ensemble de ces facteurs, toute personne raisonnablement informée et intelligente ne répondrait à la question du juge Cooke autrement que par un « non ». Cela revient à dire que M. Naugle ne rendait pas ces services à titre de quelqu’un exploitant une entreprise pour son propre compte. Il travaillait pour deux ou trois employeurs, sur une base très occasionnelle. L’essentiel de l’argument du représentant de l’entreprise, M. Russo, réside en ceci : puisque M. Naugle travaillait pour trois entreprises différentes, il devait être un entrepreneur et non un employé. Cette affirmation n’a à mon avis absolument aucun fondement crédible. La question n’est pas de savoir combien une personne a d’employeurs mais bien celle de savoir quelle est la nature de la relation employeur-employé : la personne est-elle un entrepreneur qui possède sa propre entreprise?
+[14] Sans hésitation je conclus en l’espèce que M. Naugle était un employé de Nuts & Bolts de temps à autre et celui de Down Under également de temps à autre. Les appels sont, par conséquent, rejetés.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2004.
+« E.A. Bowie »
+Bowie J.
+Traduction certifiée conforme
+ce 1e jour d’avril 2005.
+Colette Dupuis-Beaulne, traductrice
+RÉFÉRENCE :
+2004CCI607
+NO DU GREFFE
+2003-1372(EI), 2003-1373(CPP)
+2003-1377(EI), 2003-1380(CPP)
+Intitulé
+Down Under Mechanical Inc. et Nuts & Bolts Construction Inc. et le ministre du Revenu national
+LIEU DE L’AUDIENCE
+Toronto (Ontario)
+DATE DE L’AUDIENCE
+22 juin 2004
+MOTIFS DU JUGEMENT PAR
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT
+29 juin 2004
+COMPARUTIONS :
+Représentant pour l’appelante :
+V. Russo
+Avocat de l’intimé :
+Me A'Amer Ather
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+S/O
+Entreprise :
+S/O
+Pour l’intimé :
+Me Morris Rosenberg
+Sous-procureur général du Canada,
+Ottawa, Canada
+[1] [2001] 2 S.C.R. 983.
+[2] 87 DTC 5025.
+[3] [1968] 3 All E.R. 732.
+[4] [1990] 2 A.C. 374.
+[5] [1947] 1 D.L.R. 161.

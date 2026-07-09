@@ -1,0 +1,189 @@
+---
+title: "Norman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27289/index.do"
+last_modified: "2006-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 472"
+citation2: ""
+neutral_citation: "2006 TCC 472"
+decision_date: "2006-09-25"
+language: "en"
+item_id: "27289"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 896
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:44:18.896000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c3fd38b8cf3a6bf8849c0c5c710a36d50483326757a7408e4df30a4e4db473f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Norman v. The Queen
+
+- Citation: 2006 TCC 472
+- Decision date: 2006-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 896, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-25
+Neutral citation
+2006 TCC 472
+File numbers
+2004-3953(GST)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3953(GST)G
+BETWEEN:
+ROBERT LARRY NORMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+Motion heard on August 14, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier
+ORDER
+Upon motion by the Respondent for an Order dismissing the appeal;
+And upon hearing what was alleged by the parties and having read the materials filed by the parties;
+The Respondent's motion is granted and the appeal is dismissed, with costs to the Respondent, payable forthwith in any event of the cause, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 25th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC472
+Date: 20060925
+Docket: 2004-3953(GST)G
+BETWEEN:
+ROBERT LARRY NORMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+O'Connor, J.
+[1] This Notice of Motion to dismiss the appeal was originally filed by the Respondent on April 24, 2006. This Court by letter dated June 2, 2006 notified the Appellant and the Respondent that the said Motion would be heard on Monday August 14, 2006 at 9:30 a.m. The Respondent on August 4, 2006 filed an Amended Notice of Motion but at the hearing on August 14, 2006, at which the Appellant was present, the Respondent withdrew the Amended Notice of Motion, presumably because the Appellant was not advised of it or of its hearing date.
+[2] Therefore I am concerned only with the original Notice of Motion filed April 24, 2006 ("Motion to Dismiss") which is supported by an Affidavit of Marie-Eve Aubry dated April 21, 2006 filed originally with the Court on April 24, 2006.
+[3] The Motion to Dismiss was filed under Sections 64 and 65 of the Tax Court of Canada Rules ("General Procedure"). It is a Motion for an Order:
+1. dismissing the appeal, ...
+2. granting such further and other relief as this Honourable Court deems just.
+The whole with costs payable to the Respondent forthwith in any event of the cause.
+[4] The grounds for the Motion to Dismiss are as follows:
+1. that the Respondent is not in default under the Rules;
+2. that the Appellant failed to provide the Respondent with the particulars requested;
+3. that the Appellant failed to comply with the Order from this Court of Mr. Justice T. O'Connor, dated December 6, 2005, ordering him to provide the Respondent with all particulars requested within thirty days of the said Order;
+4. that the Appellant failed to prosecute his appeal with due dispatch.
+[5] The chronology of the facts leading up to the Motion to Dismiss are best set forth in the following extracts from the Affidavit of Marie-Eve Aubry in support of the Motion to Dismiss dated April 21, 2006 and a further Affidavit of Marie-Eve Aubry dated November 23, 2005 filed in support of the Motion for particulars.
+Affidavit in Support of the Motion to Dismiss
+dated April 21, 2006, filed April 24, 2006
+...
+2. On February 15, 2005, Mr. Gatien Fournier ("Mr. Fournier"), counsel for the Respondent, sent to the Appellant, by priority post, a Demand for Particulars, with respect to some allegations found in the Notice of Appeal, pursuant to section 52 of the Tax Court of Canada Rules (General Procedure) and a draft consent to an extension of time to file the Reply. ...
+3. In the Demand for Particulars ..., Mr. Fournier requested that the particulars be supplied within thirty days from the date of the Demand.
+4. The Appellant received the Demand for Particulars and the draft consent on February 21, 2005. ...
+5. On February 24, 2005, the Appellant sent to Mr. Fournier, by fax, the draft consent signed by himself and dated February 24, 2005. ...
+6. The Appellant failed to supply the particulars within thirty days from the date of the Respondent's Demand for particulars. As a result, on March 24, 2005, the Respondent filed with the Court a Motion for Particulars. ...
+[Copies of all relevant documents are annexed to the Affidavit].
+Affidavit in Support of the Motion for Particulars
+dated November 23, 2005
+...
+2. The Respondent filed on March 24, 2005 and served on the Appellant a Notice of Motion providing that the Appellant delivers particulars with respect to allegations stated in the Notice of Appeal. A copy of the said Notice of motion has already been filed with the Tax Court of Canada.
+3. On March 30, 2005, the Tax Court of Canada sent a letter to the Appellant by which it asked him to provide the Court with any written representations/comments he may have concerning the Respondent's motion for particulars. A true copy of the said letter dated March 30, 2005 is attached as Exhibit "A" to my Affidavit.
+4. In the letter filed as exhibit "A", the Court gave the Appellant until April 20, 2005 to provide his response.
+5. On or about April 19, 2005, the Appellant filed with the Court a response to the Respondent's Motion for particulars. A true copy of the said response is attached as Exhibit "B" to my Affidavit.
+6. On May 5, 2005 the Court sent a letter to Mr. Gatien Fournier, Counsel for the Respondent, by which it enclosed the Appellant's response (Exhibit "B") and asked the Respondent to provide any further comments or submissions prior to May 20, 2005. A true copy of the Court's letter dated May 5, 2005 is attached as Exhibit "C" to my Affidavit.
+7. On May 19, 2005, the Respondent responded to the letter dated May 5, 2005 (Exhibit "C") and confirmed that, despite the answers provided by the Appellant, the questions found at paragraphs 1(a), 1(b) and 1(d) of the Respondent's motion remain unanswered as of that date. A true copy of the Respondent's letter dated May 19, 2005 is attached as Exhibit "D" to my Affidavit.
+8. On June 2, 2005, the Court sent a letter to the Appellant by which it asked him to provide comments concerning paragraphs 1(a), 1(b) and 1(d) of the Respondent's motion for particulars on or before June 17, 2005. A true copy of the said letter from the Court dated June 2, 2005 is attached as Exhibit "E" to my Affidavit.
+9. On July 4, 2005, the Court sent a second letter to the Appellant advising him that it had no record of having received his response to the June 2, 2005 letter and informing him that a response by July 15, 2005 would be appreciated. A true copy of the said letter from the Court dated July 15, 2005 is attached as Exhibit "F" to my Affidavit.
+10. On August 10, 2005, the Court sent a third letter to the Appellant by which it asked him to provide his comments on or before August 29, 2005. A true copy of the said letter from the Court dated August 10, 2005 is attached as Exhibit "G" to my Affidavit.
+11. By letter dated September 12, 2005, the Appellant responded to the letter of the Court (Exhibit "G"). A true copy of the said response is attached as Exhibit "H" to my Affidavit.
+12. On October 5, 2005, the Court sent a letter to Mr. Gatien Fournier by which it enclosed the Appellant's response dated September 12, 2005 (Exhibit "H"). A true copy of the Court's letter dated October 5, 2005 is attached as Exhibit "I" to my Affidavit.
+13. On November 4, 2005, the Court ordered that the Respondent's Notice of Motion for particulars be scheduled for hearing on November 28, 2005 in Belleville, Ontario. A copy of the said Order is attached as Exhibit "J" to my Affidavit.
+14. I am informed by Mr. Gatien Fournier that, as of today [November 23, 2005], the particulars requested at paragraphs 1(a), 1(b) and 1(d) of the Respondent's motion for particulars remain unanswered.
+Affidavit in Support of Motion to Dismiss
+dated April 21, 2006, filed April 24, 2006
+...
+7. On November 28, 2005, the Honourable Justice T. O'Connor heard the Respondent's Motion in Belleville, Ontario.
+8. On December 6, 2005, the Court granted the Respondent's Motion as drafted. A copy of said Order is attached as Exhibit "F" to my Affidavit.
+9. On January 4, 2006, the Appellant provided the Respondent with some of the information that was requested as explained in a letter dated same. A copy of the said letter and enclosed information is attached as Exhibit "G" to my Affidavit.
+10. On March 13, 2006, I sent a letter to the Appellant requesting that the remaining particulars be sent to the Respondent on or before March 24, 2006. A copy of the said letter is attached as Exhibit "H" to my Affidavit.
+11. On April 4, 2006, the Appellant sent a letter in response to the Respondent's letter dated March 13, 2006. A copy of the said letter is attached as Exhibit "I" to my Affidavit.
+12. On April 6, 2006, I sent a letter to the Appellant requesting that the remaining particulars be sent to the Respondent on or before April 20, 2006 before 4:00 p.m. A copy of the said letter is attached as Exhibit "J" to my Affidavit.
+13. I am informed by Mr. Fournier that, as of today [April 21, 2006], the Respondent has not received any other information or particulars from the Appellant.
+None of the allegations in the said Affidavits have been denied or proven false.
+[6] The particulars requested in the Motion for Particulars which are still missing are the following.
+A. The Notice of Appeal states in paragraphs 2 and 8 as follows:
+2. The Appellant is a beneficiary of the Simcoe Deed and other Treaties associated with MBQ.
+...
+8. Pursuant to the Simcoe Deed and any other Treaties associated with MBQ, the Appellant is not required to: (1) apply for a GST number, or (2) collect and remit GST in relation to business transactions on the territory of MBQ. The Treaty rights are recognized and confirmed by sec. 35 of the Constitution Act, 1982.
+[7] The Simcoe Deed has been supplied by the Appellant so that the particulars that have not been supplied in this respect are: what are the other Treaties associated with MBQ (Mohawks of the Bay of Quinte) which establish that the Appellant is a beneficiary of the other Treaties associated with MBQ and what are the other Treaties associated with MBQ which establish that the Appellant is not required to: (1) apply for a GST number, or (2) collect and remit GST in relation to business transactions on the territory of MBQ.
+B. The Notice of Appeal states in paragraphs 3 and 9 as follows:
+3. The Appellant is a beneficiary of Aboriginal rights associated with MBQ.
+...
+9. Pursuant to the Aboriginal rights associated with MBQ, the Appellant is not required to: (1) apply for a GST number, or (2) collect and remit GST in relation to business transactions on the territory of MBQ. The Aboriginal rights are recognized and confirmed by sec. 35 of the Constitution Act, 1982.
+[8] In this regard the particulars that have not been supplied are: how is the Appellant a beneficiary of Aboriginal rights associated with MBQ and how do those original rights associated with MBQ establish that the Appellant is not required to (1) apply for a GST number, or (2) collect and remit GST in relation to business transactions on the territory of MBQ.
+C. The Notice of Appeal states in paragraphs 6 and 12 as follows:
+6. The policies of CCRA exempt First Nation citizens from GST in certain circumstances.
+12. Pursuant to the policies of CCRA, the Appellant is not required to: (1) apply for a GST number, or (2) collect and remit GST in relation to business transactions on the territory of MBQ.
+[9] In this regard the particulars that have not been supplied are: What are the policies of CCRA which exempt First Nation citizens from GST in certain circumstances and what policies of CCRA establish that the Appellant is not required to apply for a GST number or collect and remit GST in relation to business transactions on the territory of MBQ.
+[10] It is clear from the above that the Appellant, notwithstanding numerous requests and delays granted, has not complied with the Order of the Court to furnish the required particulars and has failed to prosecute his appeal with due dispatch. Consequently, this constitutes a failure to comply with the Order of this Court dated December 6, 2005 as well as a failure to prosecute the appeal with due dispatch.
+[11] I have reviewed the authorities related to this matter and I am satisfied that these failures constitute a ground for dismissal of the appeal.
+[12] Consequently, the appeal is dismissed with costs to the Respondent payable forthwith in any event of the cause.
+Signed at Ottawa, Canada, this 25th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2006TCC472
+COURT FILE NO.:
+2004-3953(GST)G
+STYLE OF CAUSE:
+Robert Larry Norman and Her Majesty the Queen
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+August 14, 2006
+REASONS FOR ORDER BY:
+The Honourable Justice T. O'Connor
+DATE OF ORDER:
+September 25, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

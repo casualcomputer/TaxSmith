@@ -1,0 +1,634 @@
+---
+title: "IC78-18R7 Registered Retirement Income Funds"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html
+last_modified: 2025-06-05
+---
+# IC78-18R7 Registered Retirement Income Funds
+
+This version is only available electronically.
+
+This circular cancels and replaces Information Circular 78-18R6 dated March 6, 2002.
+
+**1.** This circular explains certain provisions of the *Income Tax Act* that apply to registered retirement income funds (RRIFs) and outlines the registration requirements of the Canada Revenue Agency (CRA) for carriers of RRIFs. The content of this circular was written for the carrier and the use of any second person pronoun (that is, you) in this document refers to the carrier.
+
+Annuitants and beneficiaries of RRIFs should consult [Registered Retirement Income Fund (RRIF)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-retirement-income-fund-rrif.html) for more information. You can find more information in the publications listed in [Part VIII](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html).
+
+This circular reflects the provisions of the law when this circular was published. You should check for any amendments to the legal provisions or court decisions that were issued after the publication date of this circular.
+
+## Authority
+
+**2.** The following sections of the*Income Tax Act* relate to RRIFs:
+
+- Section 146.3 of the Act contains the provisions governing RRIFs
+
+- Subsection 146.3(1) defines qualified investments for a trust governed by a RRIF and includes the prescribed investments in section 4900 of the *Income Tax Regulations*
+
+- Part XI.01 contains the tax rules for an advantage, non-qualified investment, and prohibited investment with respect to a RRIF
+
+This circular **does not explain**:
+
+- the qualified investment rules or the Part XI.01 tax rules
+
+- the rules for spousal or common-law partner RRIFs and the death of a RRIF annuitant
+
+You can find details on these and other topics in the publications listed in [Part VIII](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html).
+
+## Personal information
+
+**3.** Information we obtain for tax purposes is confidential. Only the taxpayer or a person the taxpayer or the law authorizes has access to this information. The *Privacy Act* and the *Access to Information Act* reinforce this protection.
+
+## Part I – What is a RRIF?
+
+**4.** Subsection 146.3(1) of the Act defines a RRIF as a retirement income fund (RIF) that the Minister of National Revenue has accepted for registration under the social insurance number (SIN) of the first annuitant under the fund. A RIF is an arrangement between a [carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) and an [annuitant](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) where you, as the carrier, agree to make payments to the annuitant and, if they so choose (elect), to their spouse or common-law partner after their death, in consideration for the transfer of property to you. The payments must begin no later than the first calendar year after the year in which the annuitant entered into the RIF.
+
+**5.** Each year, you must make one or more payments that, in total, are at least equal to the [minimum amount](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) under the RIF for the year. The minimum amount may be paid in a form other than cash as the Act does not prohibit an in-kind payment of the minimum amount. A minimum amount payment cannot be greater than the value of the property held in connection with the fund (see [paragraph 20](#pr20)) immediately before the payment.
+
+**6.** There are no timing restrictions on the election under which benefits can be paid to the spouse or common-law partner on the death of the annuitant. The election can be made under a provision of the deceased annuitant’s will. When the annuitant has made an election, the surviving spouse or common-law partner becomes the annuitant under the fund after the death of the first annuitant.
+
+**7.** The surviving spouse or common-law partner can also become the annuitant even if the first annuitant did not make an election, provided you undertake to make payments to the surviving spouse or common-law partner (referred to here as the survivor), and the legal representative for the deceased annuitant consents. In addition, a new spouse or common-law partner of the survivor can become the annuitant under the fund on the death of the survivor provided you undertake to make payments to the new spouse or common-law partner, and the legal representative of the deceased survivor consents. For information on reporting requirements on the death of a RRIF annuitant or survivor, refer to the Guide [T4079, Filing the T4RSP and T4RIF information returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4079.html), or information sheet [RC4178, Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html).
+
+### Annuitant
+
+**8.** An annuitant is the individual who receives benefits under the fund. It is the only term the Act recognizes for that individual. If it is necessary to use another term to describe the annuitant, such as owner, fund holder, policyholder or applicant, you must define this term according to the definition of annuitant in subsection 146.3(1) of the Act. You must then use the same term throughout your documents.
+
+### Carrier
+
+**9.** A RRIF carrier can be:
+
+- a company licensed to carry on an annuities business in Canada (such as an insurance company), also known as a licensed annuities provider
+
+- a Canadian trust company
+
+- a corporation approved by the Governor in Council to sell investment contracts for registered retirement savings plans (RRSPs)
+
+- a depositary, which is described in section 146 of the Act as:
+
+    - a member, or a person eligible to become a member, of the *Canadian Payments Association*
+
+    - a credit union that is a shareholder or member of a body corporate referred to as a “central” for purposes of the *Canadian Payments Act*
+
+### Minimum amount
+
+**10.** The minimum amount referred to in [paragraph 5](#pr5) is zero for the year the annuitant enters into the fund.
+
+For each subsequent year, the minimum amount is calculated by multiplying the fair market value (FMV) of the property (other than certain types of annuities) held in connection with the fund at the beginning of the year by a prescribed factor. Where the fund governs a trust, the result of the above calculation is added to the total of all amounts representing either:
+
+- a periodic payment received by the trust in the year under an annuity, the FMV of which is not included in the calculation of the minimum amount
+
+- an estimate of a periodic payment the trust would have received under such an annuity held at the beginning of the year if the trust had not disposed of the right to the payment during the year
+
+**11.** The prescribed factor can correspond to the age of the first annuitant under the fund or, if the first annuitant so elects before receiving any payments under the fund, the age of their spouse or common-law partner at that time. The prescribed factors, listed in section 7308 of the Regulations, are detailed below. The elections noted here and [paragraph 4](#pr4) are independent of each other. The annuitant can elect to use the prescribed factor corresponding to the age of the spouse or common-law partner to calculate the minimum amount even if the spouse or common-law partner is not designated to continue to receive payments under the RRIF after the annuitant’s death. Once the election is made it cannot be changed, even if the spouse or common-law partner dies. However, the annuitant can establish another RRIF by transferring funds and then make a new election for the other RRIF.
+
+**12.** RRIF payments can start in the year the annuitant enters into the arrangement, but any such payment made in that year exceeds the minimum amount and is subject to withholding taxes. Amounts exceeding the minimum amount can be transferred to another fund or plan or used to purchase an annuity (see [Part VI](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) for more information).
+
+### Prescribed factors for a qualifying RRIF
+
+**13.** A qualifying RRIF is a RRIF that was entered into before 1993 and the carrier has not accepted any property after 1992 other than property transferred from another qualifying RRIF. The prescribed factor for a qualifying RRIF is the factor in the following table that corresponds to the age in whole years (in the table referred to asX) of the individual at the beginning of the year, or the age the individual would have been at the beginning of the year if the individual had been alive then.
+
+| Age (X) | Factor | Age (X) | Factor |
+
+| --- | --- | --- | --- |
+
+| Under 72 | 1/(90 - X) | 84 | 0.0808 |
+
+| 72 | 0.0540 | 85 | 0.0851 |
+
+| 73 | 0.0553 | 86 | 0.0899 |
+
+| 74 | 0.0567 | 87 | 0.0955 |
+
+| 75 | 0.0582 | 88 | 0.1021 |
+
+| 76 | 0.0598 | 89 | 0.1099 |
+
+| 77 | 0.0617 | 90 | 0.1192 |
+
+| 78 | 0.0636 | 91 | 0.1306 |
+
+| 79 | 0.0658 | 92 | 0.1449 |
+
+| 80 | 0.0682 | 93 | 0.1634 |
+
+| 81 | 0.0708 | 94 | 0.1879 |
+
+| 82 | 0.0738 | 95 or older | 0.2000 |
+
+| 83 | 0.0771 |  |  |
+
+### Prescribed factors for all other RRIFs
+
+**14.** The prescribed factor for all other RRIFs (other than a qualifying RRIF) is the factor in the following table that corresponds to the age in whole years (in the table referred to as Y) of the individual at the beginning of the year, or the age the individual would have been at the beginning of the year if the individual had been alive then.
+
+| Age (Y) | Factor | Age (Y) | Factor |
+
+| --- | --- | --- | --- |
+
+| under 71 | 1/(90 – Y) | 83 | 0.0771 |
+
+| 71 | 0.0528 | 84 | 0.0808 |
+
+| 72 | 0.0540 | 85 | 0.0851 |
+
+| 73 | 0.0553 | 86 | 0.0899 |
+
+| 74 | 0.0567 | 87 | 0.0955 |
+
+| 75 | 0.0582 | 88 | 0.1021 |
+
+| 76 | 0.0598 | 89 | 0.1099 |
+
+| 77 | 0.0617 | 90 | 0.1192 |
+
+| 78 | 0.0636 | 91 | 0.1306 |
+
+| 79 | 0.0658 | 92 | 0.1449 |
+
+| 80 | 0.0682 | 93 | 0.1634 |
+
+| 81 | 0.0708 | 94 | 0.1879 |
+
+| 82 | 0.0738 | 95 or older | 0.2000 |
+
+## Part II – Registration
+
+### RIF specimen
+
+**15.** The CRA’s Registered Plans Directorate must approve a RIF specimen before you can register and sell any RIFs under that specimen. An RIF specimen is a true copy of all the documents that will be given to the client who wants to open a RRIF. You must identify the type of specimen you are submitting (individual, group general, group specific, or a combined individual/group fund) and whether the specimen is self-directed. You must [send to the Directorate all your documents (English and French) for approval](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html), before you print and market them. As well, we may ask you to send us the commercial copy of the specimen to make sure it follows industry standards.
+
+**16.** The following documents make up a RIF specimen:
+
+- For a trust – the annuitant application form and the declaration of trust that sets out the RIF’s terms and conditions
+
+- For an insurer – the annuitant application form, the policy (including all riders and schedules), and the endorsement that sets out the RIF’s terms and conditions
+
+- For a depositary – the annuitant application form and the RIF’s terms and conditions
+
+[Send us your RIF specimen for our approval.](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html)
+
+**17.** For an insurer’s specimen, the endorsement must include all the necessary provisions of subsection 146.3(2) of the Act the insurer did not include in the policy. As well, it must include an explicit statement saying that the endorsement overrides all provisions of the policy which are inconsistent with subsection 146.3(2). If the RIF provisions are in the policy, an endorsement is not required. For a depositary’s specimen, the RIF terms and conditions must provide that property accepted as consideration will be kept on deposit (that is, it cannot be self-directed).
+
+**18.** When we approve the specimen, we give it an identification number. This is not a registration number since the specimen itself is not registered. Only the actual RIFs you enter into with each annuitant are registered. You must use the identification number when you refer to the specimen or a RRIF based on that specimen. You use the annuitant’s social insurance number (SIN) and contract number (that is, the account, certificate, or other identifying number) when referring to a particular RRIF.
+
+### Statutory conditions
+
+**19.**The specimen’s text must comply with subsection 146.3(2) of the Act by including the following provisions:
+
+- 146.3(2)(a) – You make only those payments described in paragraphs 146.3(2)(d) and 146.3(2)(e), the definition of “retirement income fund” in subsection 146.3(1), and subsections 146.3(14) and 146.3(14.1) of the Act
+
+- 146.3(2)(b) – Any such payments may not be assigned in whole or in part
+
+- 146.3(2)(c) – If you are a depositary as referenced in section 146:
+
+    - you have no right of offset regarding the property held in connection with the fund (see [pararaph 20](#pr20)) for any debt or obligation owing to you, and
+
+    - the property held in connection with the fund cannot be pledged, assigned, or in any way alienated as security for a loan or for any purpose other than that of you making payments to the annuitant as described in 146.3(2)(a)
+
+- 146.3(2)(d) – Except when the annuitant’s spouse or common-law partner becomes the annuitant under the fund, you will, when the annuitant dies, distribute the property held in connection with the fund (see [paragraph 20](#pr20)) at the time of the annuitant’s death or an amount equal to the value of such property at that time
+
+- 146.3(2)(e) – At the direction of the annuitant, you will transfer all or part of the property held in connection with the fund (see [paragraph 20](#pr20)) or an amount equal to its value at the time of the direction [other than property required to be retained according to paragraphs 146.3(2)(e.1) or 146.3(2)(e.2)] together with all information necessary for the continuance of the fund, to a person who has agreed to be a carrier of another RRIF of the annuitant
+
+- 146.3(2)(e.1) – When an annuitant of a fund that does not govern a trust (or the fund governs a trust created before 1998 does not hold an annuity contract as a qualified investment for the trust) at any time directs you to transfer all or part of the property held in connection with the fund (see [paragraph 20](#pr20)) or an amount equal to its value at that time, to 1) another RRIF of the annuitant or 2) a money purchase provision of a registered pension plan (RPP) or a specified pension plan (SPP), an account under a pooled registered pension plan (PRPP), or an advanced life deferred annuity (ALDA) in line with subsection 146.3(14.1), you must retain an amount equal to whichever is less of:
+
+    - the fair market value (FMV) of a portion of the property, if its FMV does not decline after the transfer, that would ensure the minimum amount under the fund for the year in which the transfer is made can be paid to the annuitant in the year
+
+    - the FMV of all the property
+
+- 146.3(2)(e.2) – When an annuitant under a fund not covered under 146.3(2)(e.1) at any time directs you to transfer all or part of the property held in connection with the fund (see [paragraph 20](#pr20)) or an amount equal to its value at that time, to 1) another RRIF of the annuitant or 2) a money purchase provision of an RPP or an SPP, an account under a PRPP or an ALDA in line with subsection 146.3(14.1), you must retain property in the fund sufficient to ensure that the total of the two amounts below is not less than the amount (if any) by which the minimum amount for the annuitant for the year exceeds what has already been paid to the annuitant for the year:
+
+    - the FMV, immediately after the transfer, of a property that is either:
+
+          - property other than an annuity contract, or
+
+          - a commutable annuity contract
+
+    - the total of all amounts representing a reasonable estimate, at the time of the transfer, of the amount of an annual or more frequent periodic payment under a non-commutable annuity contract that the trust may receive after the transfer and in the year of the transfer
+
+- 146.3(2)(f) – You will not accept property as consideration, other than property transferred from:
+
+    - an RRSP under which the individual is the annuitant
+
+    - another RRIF under which the individual is the annuitant
+
+    - the individual only to the extent that the amount of the consideration was an amount described in paragraph 60(l)(v)
+
+    - a RRIF or RRSP of the individual’s spouse or common-law partner or former spouse or common-law partner under a decree, order, or judgment of a competent tribunal or under a written separation agreement, relating to a division of property between the individual and the individual’s spouse or common-law partner or former spouse or common-law partner in settlement of rights arising out of or on the breakdown of their marriage or common-law partnership
+
+    - a deferred profit sharing plan in line with subsection 147(19)
+
+    - an RPP of which the individual is a member (within the meaning assigned by subsection 147.1(1))
+
+    - an RPP in line with subsection 147.3(5) or 147.3(7)
+
+    - an SPP in circumstances to which subsection 146(21) applies
+
+    - a PRPP in line with subsection 147.5(21)
+
+    - an ALDA under which the individual is an annuitant, if the transfer is a refund described in paragraph (g) of the definition advanced life deferred annuity in subsection 146.5(1)
+
+    - a first home savings account (FHSA) in line with subsection 146.6(7)
+
+- 146.3(2)(h) – The fund must comply in all other respects with the Governor in Council’s regulations made on the recommendation of the Minister of Finance (As of March 1, 2025, there were no regulations)
+
+The terms of the RIF can be more restrictive than the terms required by the Act as long as those restrictions are clearly stated in the fund’s text. For example, you can include additional restrictions on what properties will be accepted as consideration.
+
+**20.**The term **property held in connection with the fund** as used in this circular means the value of property held by the carrier of the fund, and the value of earnings from that property, that are relevant in determining the amount payable to the annuitant under the fund.
+
+### Application form
+
+**21.** The application form must include a space for:
+
+- the number assigned to the fund (the contract, account, or identifying number)
+
+- the annuitant’s name, address, date of birth, and SIN
+
+- the date the annuitant enters into the fund with the carrier
+
+- the annuitant’s signature
+
+- the carrier’s name and address
+
+- the carrier’s signature
+
+**22.**On the application form, you must include a clause saying that the annuitant requests the carrier to apply for registration of the fund as a RRIF under section 146.3 of the Act. The annuitant’s signature confirms this request. If an organization (see [Group RIFs](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html)) sponsors the specimen, you must include a clause saying that the annuitant authorizes the sponsor to act as the annuitant’s agent and for what purpose.
+
+**23.**You cannot use the word **registered** or the term **RRIF** to refer to the name of the fund on the application form or other specimen documents, since the specimen is not registered. Only individual arrangements based on an approved specimen can be registered.
+
+**24.**We recommend that you include an area on the application form for the applicant to make either or both elections referred to in the definitions of RIF and minimum amount in subsection 146.3(1) of the Act (see [paragraphs 4, 6](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html), and [paragraph 11](#pr11) respectively).
+
+### RIF list for registration
+
+**25.**To register new RIFs, send your list to the Directorate and include **all**these items:
+
+- the name, address, and SIN of each annuitant (we will not register the RIF, regardless of the circumstances, if the annuitant’s SIN is missing from the list)
+
+- the contract number (for example, the account, certificate, or other identifying number) assigned to each fund
+
+- the specimen name and the number the Directorate assigned
+
+**26.** You must send all lists to the Directorate through Internet file transfer (IFT), and they must comply with our current approved eXtensible Markup Language (XML) schema. Before submitting your listings, ensure that the format meets the requirements. Go to [XML format](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/registered-retirement-savings-plans-registered-retirement-income-funds-rrsps-rrifs/xml-format.html) to learn about the requirements.
+
+**27.**You can submit lists on a quarterly or other basis, but not later than 60 days after the end of the calendar year you are requesting registration for. By submitting through IFT, you affirm that:
+
+- the annuitants of the RIFs listed have requested registration of their funds
+
+- the RIFs comply with the provisions of section 146.3 of the Act
+
+- the RIFs are the same in all respects to the specimen the Directorate approved
+
+As well, you must tell us in the XML schema how many RIFs are listed for each specimen and the identification number assigned to the specimen.
+
+**28.**You can register each RIF only once; therefore, the list should contain only RIFs that you have not registered before. If you have to correct the original data, you must submit a new listing containing only the necessary corrections. You cannot list a RIF for registration until the RIF has received property since the RIF does not exist if it does not hold any property.
+
+Information related to particular funds is sensitive information and must be handled securely.
+
+## Part III – RRIF administration
+
+### Agency agreement
+
+**29.** You may have an agreement with an agent, such as an investment broker, that allows them to provide certain administrative or investment functions. It is not necessary to submit the agency agreement with the specimen. If you appoint an agent as custodian of the securities and register the securities in the agent’s name, then you need to clearly disclose the agency agreement, the identity of the trustee, and the contract or identification number of the RRIF that governs the trust in the security registration form.
+
+**30.** The RIF specimen must state that you, the carrier, have ultimate responsibility for administering each RRIF under that specimen. The agent may not make changes to the approved specimen. You must deal directly with the CRA concerning all RIF matters and reporting requirements unless we have written authorization to deal with another person.
+
+### Group RIFs
+
+**31.** An association, employer, or other organization (throughout the rest of this document, we will use “organization” to mean all three) can sponsor a group RIF. A group RIF is essentially a collection of individual RRIFs for the employees or members of an organization. Individuals belonging to that organization or their spouses or common-law partners are eligible to participate. The organization can act as an agent for the annuitant for certain purposes. When this occurs, the text of the RIF arrangement and its application form must clearly show that the annuitant has authorized the organization to act as their agent and for what purpose. Under a trusteed group RIF, each individual RRIF must have a separate trust.
+
+**32.** When the organization acts as an agent for the annuitant, the text of the RIF arrangement must state that the ultimate responsibility for administering each fund remains with the carrier. The organization may not make changes to the approved specimen. As the carrier, you must deal directly with the CRA about all RIF matters and reporting requirements unless we have written authorization to deal with another person.
+
+### Amending the RIF specimen
+
+**33.** You must send all amendments or revisions to an approved specimen to the [Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) for approval before you can put the amendments into effect. When you amend a RIF specimen, all RRIFs based on that specimen will be amended as well. You must inform all the annuitants of this amendment. If you amend the specimen to allow the transfer of locked-in funds, you must send a copy of the locking-in addendum or supplementary agreement to the Directorate.
+
+**34.** You do not require our approval for the following changes before you print or market the application form. You must send any change not listed here to us for our approval.
+
+- changing the logo of the fund management company or investment dealer
+
+- changing the address, telephone number, or fax number of the fund management company or investment dealer, or adding an email address to the application
+
+- adding or deleting the name of a fund or an investment
+
+- adding or deleting the commission or fee options available to the applicant
+
+- adding, amending, or deleting specific details about an automatic re-alignment program
+
+- changing the information required about a distributor or sales representative
+
+- adding, amending, or deleting the banking information details on the application
+
+- adding, amending, or deleting specific details about an option to get a certificate for mutual fund securities for non-registered accounts on a consolidated application
+
+- amending the distribution option for non-registered accounts on a consolidated application
+
+- adding, amending, or deleting specific details about a provision regarding automatic switches between mutual funds
+
+### Terminating the RIF specimen
+
+**35.** You must inform the [Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) when you will no longer enter into any RIFs under a specimen. In addition, you must notify us when there are no longer any outstanding RRIFs under that specimen. This will allow us to update our records and close the file.
+
+### Locking-in provisions
+
+**36.** Provincial pension standards legislation and the federal *Pension Benefits Standards Act,1985* restrict the cash-out of pension benefits in an effort to ensure that members of a registered pension plan (RPP) have an income for life. In most pension jurisdictions, members who have reached a specified age or number of years of service can only cash out their benefits on termination of employment or at retirement if they transfer the funds to an acceptable arrangement. These funds are referred to as “locked-in.”
+
+**37.** The transfer options vary by jurisdiction. Generally, locked-in pension funds can be transferred from an RPP to one or more of the following:
+
+- another RPP
+
+- a licensed annuities provider (see [Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html)) to purchase a life annuity
+
+- a locked-in RRSP or locked-in retirement account (LIRA)
+
+- a locked-in RRIF (LRIF)
+
+- a life income fund (LIF)
+
+**38.** A LIRA is an arrangement that meets both the locking-in requirements under pension standards legislation and the requirements in the Act for RRSPs. The federal *Pension Benefits Standards Act, 1985* or the equivalent provincial law allows the transfer of property from a locked-in RRSP or LIRA to an LRIF or LIF. Refer to the relevant federal or provincial authorities for more information about locking-in legislation.
+
+**39.** An LRIF and a LIF are arrangements that meet both the locking-in requirements under pension standards legislation and the requirements in the Act for RRIFs. An LRIF and a LIF must pay out at least the minimum amount required by the Act each year but restricts the total payments in a year to a maximum set by pension standards legislation. The restrictions imposed by the standards legislation can be included in the RRIF document itself, or in an endorsement or addendum attached to the RRIF document.
+
+**40.** If a locking-in addendum or supplementary agreement is used together with an existing specimen, you must send a copy of the addendum or agreement to the [Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html). As well, you must keep separate accounts for the locked-in and non-locked-in portions. The Directorate does not review, approve, or assign a designation to locking-in addenda.
+
+### Online, electronic, or telephone applications
+
+**41.** You have various options for getting information from potential annuitants. When you gather client information using an online, electronic, or telephone (throughout the rest of this document, we will use “paperless” to mean all three) application process, you must meet the following requirements:
+
+- The information required on the paperless application must be the same as what is required on the paper application form of an approved specimen. As long as it captures the same information, you do not need to submit the paperless application for our review.
+
+- If you do not have an approved specimen and wish to capture information using a paperless application process then, in addition to the required specimen documents (declaration of trust; terms and conditions; or policy and endorsement (as applicable)), you must submit a hard copy of the screen shots, electronic form(s), or telephone script to the [Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) for our review and approval. In this situation, the regular specimen approval process will be followed.
+
+- You must provide the annuitant with the following:
+
+    - a copy of the declaration of trust, terms and conditions, or policy and endorsement (whichever applies) that is consistent with the approved specimen
+
+    - a contract number
+
+    - a confirmation of the date and time of application
+
+- You will consider the completed application to be a request to apply for registration once the annuitant has given consent. You are responsible for determining what constitutes consent (such as the electronic or digital signature, or acceptance by telephone).
+
+- Your records must abide by the retention requirements found in information circulars [IC78-10R, Books and Records Retention/Destruction](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-10.html) and [IC05-1R, Electronic Record Keeping](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic05-1.html).
+
+### Issuing receipts
+
+**42.** You should issue a receipt for property that you receive for a RRIF under paragraph 60(l). This includes:
+
+- funds directly transferred from a matured RRSP (commutation payment under an RRSP annuity)
+
+- amounts paid to a qualified beneficiary as a refund of premiums from an unmatured RRSP or as a designated benefit from another RRIF (only a spouse, common-law partner, or financially dependent child or grandchild can be a qualified beneficiary)
+
+The issuer of an annuity should also give the annuitant a receipt when an excess payment from a RRIF is used to purchase an annuity under paragraph 60(l).
+
+**43.** The document you issue as a receipt should clearly state that it refers to a RRIF or an annuity purchased with the single payment from the RRIF, and should instruct the annuitant to attach it to their personal income tax and benefit return. The document should include the following information:
+
+- your (carrier’s) name or name of issuer of the annuity
+
+- contract or arrangement number
+
+- annuitant’s name, address, and social insurance number
+
+- total amount of property received
+
+- date property received
+
+The signature (or facsimile signature) of an authorized official of the carrier is no longer required.
+
+**44.** For more information on when to issue receipts, see Appendix E of Guide [T4079, Filing the T4RSP and T4RIF information returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4079.html). It also provides information on reporting and deducting amounts paid, or considered to be paid, from a RRIF.
+
+## Part IV – Bulk transfers
+
+**45.** The following sections describe two methods for transferring RRIFs between RIF specimens.
+
+### Transfer by specimen amendment
+
+**46.** You can transfer RRIFs by specimen amendment only in these two situations:
+
+- You transfer all RRIFs under a specimen to another specimen
+
+- You transfer a portion of the RRIFs (identifiable as a group) under a specimen to another specimen. This situation is referred to as a **specimen split**. For example, you transfer all RRIFs for one particular employer in a group general specimen to another carrier’s specimen while you keep the remaining employers’ RRIFs under the original specimen
+
+In these two situations, the annuitants do not have to:
+
+- ask you to transfer their RRIFs from one specimen to another
+
+- complete new annuitant application forms
+
+As well, the successor carrier does not have to submit the RIFs for registration.
+
+**47.** The transfer of RRIFs can occur between specimens of the same carrier or between specimens of different carriers. The terms of the specimen must permit the transfer and, if it applies, a change of carrier. You can transfer the RRIFs to an existing specimen or to a new specimen the Directorate reviewed and accepted. If the transfer of RRIFs is between specimens of different carriers, the original carrier must relinquish its authority over the RRIFs being transferred out of its specimen and the new carrier must take over the RRIFs being transferred into its specimen.
+
+**48.** If you are a carrier opening a new specimen to receive the transferred RRIFs, you must first [submit the proposed specimen to the Directorate](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html) for approval. You may have to amend the terms of the original specimen to permit the transfer and, if it applies, the change of carrier. The transfer can take place only after we accept the new specimen and any amendments the original specimen may require.
+
+**49.** To process the transfer of RRIFs from one specimen to another specimen, we need the following information:
+
+- the effective date of the transfer
+
+- an outline of the situation explaining what changes you made and why
+
+- the names of any other carriers involved
+
+- the names and specimen numbers of all RIF specimens involved
+
+- the number of RRIFs you transferred
+
+- in the case of a specimen split, an explanation of how you determined the transferred RRIFs were an identifiable group
+
+Send the required information to the Directorate **within****60 days**of the effective date of the transfer so we can update our records.
+
+**50.** If the carrier has changed, the carriers must keep the following documentation on file:
+
+- a letter of resignation from the original carrier and a letter of acceptance from the new one showing they both agreed to the change, the effective date, and the reason for the change
+
+- confirmation that the original carrier told the annuitants about the transfer of their RRIFs to another specimen and the change in carrier, if that applies, and that they will send the annuitants a copy of the new declaration of trust, policy, or terms and conditions
+
+- confirmation from the new carrier that it has an internal process in place to cross-reference the annuitants' old account numbers with their new ones
+
+If any locked-in funds are to be transferred, the successor specimen must have the necessary locked-in addenda in place to accept these funds.
+
+**51.** If you transfer all RRIFs under one specimen to another specimen, we will need confirmation from you that no existing RRIFs remain under the original specimen after you complete the transfers and you are no longer marketing that specimen. This will allow us to close the specimen.
+
+### Individual transfer
+
+**52.** An individual transfer occurs when you transfer one or more RRIFs from one specimen to another and you cannot complete the transfer by specimen amendment. The transfer can occur between two of your specimens or between specimens of different carriers. Each annuitant is required to enter into a new RRIF and complete an application form, whether the RRIF is with you or a different carrier. You are not required to inform the Directorate of the transfer. The successor carrier must submit the new RIFs to us for registration.
+
+## Part V – Transfer of property from a RRIF
+
+### Transfer of RRIF property to another RRIF or RRSP
+
+**53.** If a RRIF annuitant wishes to transfer property from their RRIF to another retirement income fund (RIF) or a retirement savings plan (RSP) under which they are the annuitant, you and the annuitant must first ensure that the fund or plan you are transferring property to is registered, or that it will qualify for registration.
+
+**54.** If you transfer the RRIF property to a new RIF, whether it is under one of your specimen funds or a specimen fund of another carrier, the annuitant must ask you or the other carrier to apply for registration of the fund (see [paragraph 22](#pr22)). If the transfer is to an RSP, the annuitant must ask the issuer to apply for registration of the plan as outlined in Information Circular [IC72-22R, Registered Retirement Savings Plans](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic72-22.html).
+
+**55.** A RRIF annuitant can use Form [T2033, Direct Transfer Under Subsection 146.3(14.1), 147.5(21) or 146(21), or Paragraph 146(16)(a) or 146.3(2)(e)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2033.html), or any other method, to request a direct transfer of all or part of the property of the RRIF exceeding the minimum amount to another RRIF. The annuitant does not have to include the transferred amount in income.
+
+**56.** A RRIF annuitant can use Form [T2030, Direct Transfer Under Subparagraph 60(l)(v)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2030.html), or any other method, to request a direct transfer of the payment exceeding the minimum amount to an RRSP. The carrier of the RRIF must report the excess payment transferred and the minimum amount paid to the annuitant on a [T4RIF Statement of Income From a Registered Retirement Income Fund](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4rif.html). The issuer of the RRSP should issue a tax receipt for the excess payment received.
+
+**57.** You do not need to use Form T2033 if you are the carrier of both RRIFs, or Form T2030 if you are the carrier of the RRIF and the issuer of the RRSP, if all the information that otherwise would be supplied on either of these forms is recorded under the receiving fund or plan.
+
+**58.** Do not deduct income tax from funds properly transferred. You have to retain sufficient funds before the transfer to make the minimum amount payment for that year (see [Statutory conditions](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html)). You can find more information on the forms to use in Appendix E of our Guide [T4079, Filing the T4RSP and T4RIF information returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4079.html).
+
+### Transfer of RRIF property on breakdown of marriage or common-law partnership
+
+**59.** Use Form [T2220, Transfer from an RRSP, RRIF, PRPP or SPP to Another RRSP, RRIF, PRPP or SPP on Breakdown of Marriage or Common-law Partnership](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2220.html), to request a transfer of property under a written separation agreement or under a decree, order, or judgment of a competent tribunal relating to a division of property on breakdown of a marriage or common-law partnership. A RRIF annuitant can use this form to request a transfer of property from a RRIF to a RRIF or RRSP under which the annuitant’s spouse or common-law partner or former spouse or common-law partner is the annuitant. See Guide [T4079, Filing the T4RSP and T4RIF information returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4079.html), for more information on completing the transfer.
+
+## Part VI – Annuities
+
+### Purchasing an annuity
+
+**60.** A RRIF annuitant can use Form [T2030, Direct Transfer Under Subparagraph 60(l)(v)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2030.html), to request a direct transfer of a payment exceeding the minimum amount of the RRIF to a licensed annuities provider (see [Carrier](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html)) to purchase an annuity for the annuitant. You must report the minimum amount for the year and the transferred payment on a [T4RIF slip](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4rif.html). The issuer of the annuity should issue a receipt showing the date and amount of the single payment used to purchase the annuity.
+
+**61.** The annuity that is purchased can be for the life of the annuitant or for the lives jointly of the annuitant and the annuitant’s spouse or common-law partner, with or without a guaranteed term. The purchased annuity can also be a term annuity that provides benefits up to and including the age of 90. The guaranteed term for a life annuity and the term for a term annuity cannot be more than 90 years minus:
+
+- the annuitant’s age at the time of purchase, or
+
+- the age of the annuitant’s spouse or common-law partner at the time of purchase
+
+### Advanced life deferred annuity
+
+**62.** An RRIF annuitant can request a transfer of RRIF property to a licensed annuities provider to purchase an advanced life deferred annuity (ALDA) for the annuitant. An ALDA is a life annuity that allows annuity payments to start before the end of the year the annuitant turns 85 years of age. An ALDA is payable for as long as the annuitant lives. If it is a joint-lives annuity, an ALDA is payable for as long as the annuitant or their spouse or common-law partner lives. For more information, see [How to purchase an advanced life deferred annuity (ALDA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/alda.html).
+
+## Part VII – Taxation
+
+### Taxation of a trust
+
+**63.** A trust governed by a RRIF is exempt from tax except in the following situations:
+
+- A trust governed by a RRIF is taxable on all its taxable income for a tax year if any of the following apply:
+
+    - the trust was governed by a fund that became an “amended fund” as referred to in subsection 146.3(11) of the Act (see [paragraph 65](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-18/registered-retirement-income-funds.html))
+
+    - the trust borrowed money during the tax year or the trust borrowed money in a previous tax year that was not repaid before the beginning of the year
+
+    - the trust received a gift of property (other than a transfer from an RRSP or RRIF under which the individual is the annuitant) in the year or in a previous tax year and did not divest itself of the property, or any property substituted for it, before the beginning of the year.
+
+- When the last annuitant under a RRIF dies and all the funds are not paid out of the trust in the year of death, the trust is taxable on its taxable income for each year after the year following the year of death.
+
+- When a trust governed by a RRIF has carried on any business in a tax year and the first bullet above does not apply, the trust is taxable on its business income for the year, that is, its income for the year computed without reference to incomes or losses from sources other than the business.
+
+- When a trust governed by a RRIF has acquired a property that is not a qualified investment, the trust is subject to tax on its taxable income calculated on the assumption that:
+
+    - it only had income (including dividends described in section 83 of the Act) from non-qualified investments, and
+
+    - the taxable capital gains and allowable capital losses equalled the capital gains and capital losses, respectively, from the dispositions of only non-qualified investments.
+
+- When a trust governed by a RRIF enters into an agreement (except as a result of acquiring or writing an option listed on a designated stock exchange) to acquire a share of the capital stock of a corporation (except from the corporation) at a price that may differ from the fair market value (FMV) of the share at the time the share may be acquired, the trust is subject to tax during any month it is party to the agreement. The tax payable is equal to the amount of dividends paid on the share at a time in the month that the trust is a party to the agreement minus the amount of the dividends received by the trust.
+
+### Trust income tax returns
+
+**64.** A trust governed at any time in the year by a RRIF has to file Form [T3GR, Group Income Tax and Information Return for RRSP, RRIF, RESP, or RDSP Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3gr.html) each year. Form T3GR must be filed no later than 90 days after the end of the year.
+
+### Taxation of the annuitant – change in fund after registration
+
+**65.** If the fund is revised or amended, or a new fund is substituted for it, after registration, with the result that the fund fails to comply with the requirements of section 146.3, the RRIF will no longer be a RRIF. The fund is deemed an amended fund and, consequently, the annuitant has to include the FMV of the property of the fund as of the day of change in income for the year in which the fund becomes amended.
+
+### Taxation of the annuitant – property used as security for a loan
+
+**66.** When a RRIF trust uses or permits a property of the trust to be used as security for a loan, the annuitant under the fund at that time has to include in income for that tax year the FMV of the property that was used as security.
+
+**67.** When an annuitant has added to income the FMV of trust property used as security for a loan, the annuitant can deduct that FMV (less the net loss, excluding interest payments, incurred because of the use as security) from income in the year in which the property ceases to be used as security.
+
+### Taxation of the annuitant – purchase or sale of property for inadequate consideration
+
+**68.** If a RRIF trust acquires property for a consideration greater than the FMV of the property at the time of acquisition, or disposes of property for a consideration less than the FMV at that time or for no consideration, the annuitant of the RRIF at that time must include twice the difference between the FMV and the consideration, if any, in calculating their income for the tax year.
+
+## Part VIII – General information
+
+### Forms and publications
+
+**69.** The following forms and publications give information about RRIFs and related subject matter. They are available at [canada.ca/cra-forms-publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+[IC78-14R, Guidelines for trust companies and other persons responsible for filing T3GR, T3D, T3P, T3S, T3RI, and T3F returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic78-14.html)
+
+[T4040, RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html)
+
+[T4079, Filing the T4RSP and T4RIF information returns](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4079.html)
+
+[RC4178, Death of a RRIF Annuitant, PRPP Member, or ALDA Annuitant](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4178.html)
+
+[S3-F10-C1, Qualified Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c1-qualified-investments-rrsps-resps-rrifs-rdsps-tfsas.html)
+
+[S3-F10-C2, Prohibited Investments – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c2-prohibited-investments-rrsps-rrifs-tfsas.html)
+
+[S3-F10-C3, Advantages – RRSPs, RESPs, RRIFs, RDSPs, FHSAs and TFSAs](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-10-registered-plans-individuals/income-tax-folio-s3-f10-c3-advantages-rrsps-rrifs-tfsas.html)
+
+[T1-OVP-ALDA, Individual Tax Return for Excess Transfers to Purchase an ALDA](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-ovp-alda.html)
+
+[T3F, Investments Prescribed to be Qualified Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3f.html)
+
+[T3GR, Group Income Tax and Information Return for RRSP, RRIF, RESP, or RDSP Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t3gr.html)
+
+[T2030, Direct Transfer Under Subparagraph 60(l)(v)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2030.html)
+
+[T2033, Direct Transfer Under Subsection 146.3(14.1), 147.5(21) or 146(21), or Paragraph 146(16)(a) or 146.3(2)(e)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2033.html)
+
+[T2151, Direct Transfer of a Single Amount Under Subsection 147(19) or Section 147.3](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2151.html)
+
+[T2157, Direct Transfer from a Registered Plan to Purchase an ALDA](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2157.html)
+
+[IT528, Transfers of Funds Between Registered Plans (archived)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it528.html)
+
+### More information and help
+
+**70.** For more information about RRIFs, you can contact the Directorate or go to [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+#### Telephone:
+
+In Canada and the United States: **1-800-267-3100**
+
+If you are calling outside Canada and the United States, call us collect at **613-221-3105**. The Directorate accepts collect calls.
+
+Our telephone agents are available Monday to Friday (except holidays) from 8 am to 5 pm (Eastern Time). Any calls we receive after these hours will go to a voicemail system. We will return calls the next business day.
+
+#### Mail or courier:
+
+Registered Plans Directorate Canada Revenue Agency2215 Gladwin Crescent Ottawa ON K1B 4K9
+
+**Email:**
+
+**RPD.LPRA2@cra-arc.gc.ca** (The Directorate does not accept emails containing personal or plan-related information)
+
+### List of abbreviations and acronyms
+
+**71.** The list below contains the abbreviations, acronyms, and initialisms we use in this document.
+
+ALDA - advanced life deferred annuity
+
+CRA - Canada Revenue Agency
+
+Directorate - Registered Plans Directorate
+
+ESP - education savings plan
+
+FHSA - first home savings account
+
+FMV - fair market value
+
+IFT - Internet file transfer
+
+LIF - life income fund
+
+LIRA - locked-in retirement account
+
+LRIF - locked-in RRIF
+
+PRPP - pooled registered pension plan
+
+RDSP - registered disability savings plan
+
+RESP - registered education savings plan
+
+RIF - retirement income fund
+
+RPP - registered pension plan
+
+RRIF - registered retirement income fund
+
+RRSP - registered retirement savings plan
+
+RSP - retirement savings plan
+
+SIN - social insurance number
+
+SPP - specified pension plan
+
+TFSA - tax-free savings account
+
+XML - eXtensible Markup Language

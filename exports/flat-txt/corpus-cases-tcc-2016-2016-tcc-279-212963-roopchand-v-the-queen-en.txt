@@ -1,0 +1,232 @@
+Title: Roopchand v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/212963/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-279-212963-roopchand-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-12-08
+
+# Roopchand v. The Queen
+
+- Citation: 2016 TCC 279
+- Decision date: 2016-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2949, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roopchand v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-08
+Neutral citation
+2016 TCC 279
+File numbers
+2016-1860(IT)APP
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1860(IT)APP
+BETWEEN:
+MOHAN ROOPCHAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the applications of Maria Roopchand (2016-1865(IT)APP) and Eva Roopchand (2016‑1864(IT)APP)
+on August 16 and September 28, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+UPON reading the application for an order to extend the time within which a notice of objection may be filed with the Minister of National Revenue with respect to the reassessment dated August 14, 2014, made under the Income Tax Act for the applicant’s 2010 taxation year;
+AND UPON hearing both parties;
+The application is dismissed without costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of December 2016.
+“Réal Favreau”
+Favreau J.
+Docket: 2016-1864(IT)APP
+BETWEEN:
+EVA ROOPCHAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the applications of Mohan Roopchand (2016‑1860(IT)APP) and
+Maria Roopchand (2016-1865(IT)APP)
+on August 16 and September 28, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+UPON reading the application for an order to extend the time within which a notice of appeal may be filed with the Tax Court of Canada with respect to the reassessment dated April 5, 2012, made under the Income Tax Act for the applicant’s 2010 taxation year;
+AND UPON hearing both parties;
+The application is dismissed without costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of December 2016.
+“Réal Favreau”
+Favreau J.
+Docket: 2016-1865(IT)APP
+BETWEEN:
+MARIA ROOPCHAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on common evidence with the applications of Mohan Roopchand (2016-1860(IT)APP) and Eva Roopchand (2016‑1864(IT)APP)
+on August 16 and September 28 2016, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+UPON reading the application for an order to extend the time within which a notice of objection may be filed with the Minister of National Revenue with respect to the reassessment dated August 14, 2014, made under the Income Tax Act for the applicant’s 2010 taxation year;
+AND UPON hearing both parties;
+The application is dismissed without costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 8th day of December 2016.
+“Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 279
+Date: 20161208
+Docket: 2016-1860(IT)APP
+BETWEEN:
+MOHAN ROOPCHAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1864(IT)APP
+AND BETWEEN:
+EVA ROOPCHAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1865(IT)APP
+AND BETWEEN:
+MARIA ROOPCHAND,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The Minister of National Revenue (“the “Minister”) initially assessed each of the applicants for the 2010 taxation year based on the tax returns they had filed. The notices of assessment for Eva Roopchand (“Eva”) and for Mohan Roopchand (“Mohan”) were dated August 29, 2011. The notice of assessment for Maria Roopchand (“Maria”) was dated January 23, 2012.
+[2] The Minister reassessed each of the applicants for their 2010 taxation year by notices of reassessment dated April 5, 2012.
+[3] On July 9, 2012, Maria and Mohan served on the Minister, notices of objection with respect to the reassessments for the 2010 taxation year. On November 27, 2012, Eva filed an application for an extension of time to serve a notice of objection on the Minister. By letter dated January 2, 2013, the Minister informed Eva that her application was allowed and that her notice of objection was considered to have been filed on the date of that letter which was sent to Eva at the following address: 153 Saint Lucie Dr., North York, Ontario, M9M 1T4.
+[4] The Minister reassessed Maria’s and Mohan’s 2010 taxation year by notices of reassessment dated August 14, 2014.
+[5] By letter dated July 25, 2014 sent by Xpresspost to Eva Roopchand at 37 Little Drive, Scarborough, Ontario, M1B 1Y6, the Minister confirmed the reassessment of her 2010 taxation year and the gross negligence penalty imposed pursuant to paragraph 163(2) of the Act. As paragraph 5 of this letter is relevant for the determination of Eva’s application, it is appropriate in the circumstances to reproduce it in its entirety:
+Although you stated that it was your intention to reside in the above mentioned condominium, you were unable to substantiate your claim. As stated in our letter dated April 17, 2014, in order to consider the unit as principal residence, the unit has to be ordinarily inhabited by you. Hence, we had requested for additional documentation to support your claim that you ordinarily inhabited the property. We waited for the information to be provided by May 20, 2014. However, no documentation was received. On June 17, 2014 we spoke to your representative, Mr. Jerry Woznica to again request for information to which he requested for additional two weeks time extension.
+[6] The said letter further informed Eva that if she disagreed with the decision, she may appeal to the Tax Court of Canada within 90 days from the date that the notice of confirmation was sent to her. In addition, Information Form (RC‑4443‑2) on how to appeal to the Court was attached to that letter which was sent via regular mail to Mr. Jerry Woznica, a chartered accountant with Harris & Partners who was Eva’s representative.
+[7] Eva did not file a notice of appeal for the 2010 taxation year with the Tax Court of Canada within the time allowed by subsection 169(1) of the Act, the deadline being October 23, 2014.
+[8] Eva did not also file an application for an order extending the time within which a notice of appeal may be filed with the Tax Court of Canada under subsection 167(1) of the Act, the deadline being October 23, 2015.
+[9] Eva filed an application for an order extending the time within which a second notice of objection for the 2010 taxation year may be filed. This application was filed with the Tax Court of Canada on May 12, 2016 and not with the Minister.
+[10] Maria and Mohan did not serve on the Minister their notices of objection within the time limited by subsection 165(1) of the Act. The deadline was November 12, 2014. One year after the last day for serving the notices of objection was November 12, 2015.
+[11] On April 15, 2016, Paul Gupta & Associates, a legal and accounting firm, filed on behalf of Maria, an application under subsection 166.1(1) of the Act for an order extending the time within which a notice of objection may be served on the Minister for the 2010 taxation year.
+[12] The Minister refused Maria’s application as the notice of objection for the 2010 taxation year was received beyond the limitation period and notified Maria of her decision by letter dated May 2, 2016.
+[13] Maria then filed an application for an order extending the time within which a notice of objection for the 2010 taxation year may be served. The application was filed with the Tax Court of Canada on May 12, 2016.
+[14] Mohan purported to object the reassessment for the 2010 taxation year by notice of objection dated April 15, 2016.
+[15] Mohan did not file with the Minister, an application for an extension of time to object the reassessment on or before November 12, 2015.
+[16] Mohan filed an application for an order extending the time within which a notice of objection for the 2010 taxation year may be filed. The application was served on the Tax Court of Canada on April 14, 2016.
+[17] The Minister refused Mohan’s application as the notice of objection for the 2010 taxation year was received beyond the limitation period and the Minister notified Mohan accordingly by letter dated May 2, 2016.
+[18] Eva, Maria and Mohan Roopchand testified at the hearing.
+[19] Eva alleged that she did not receive the letter of confirmation to the reassessment dated July 26, 2014 and that her representative, Mr. Jerry Woznica, also did not receive it. She also alleged that the July 26, 2014 letter was sent to the wrong address. She stated that, on that date, she was living at 37 Little Leaf Street.
+[20] Maria and Mohan alleged that they did not receive the notices of reassessment dated August 14, 2014 as they were sent only to their representative, Mr. Woznica, who alleged that he did not receive them.
+[21] Mr. Roopchand explained that Mr. Woznica had been the family’s accountant for the last 25 years. As Mr. Woznica was not doing anything to solve the tax issues with the Canada Revenue Agency (the ”CRA”), Mr. Roopchand decided to use the services of a tax lawyer who referred him to a tax accountant, Mr. Paul Gupta. Mr. Roopchand does not remember the date on which he contacted Mr. Paul Gupta but he believes it was in 2013.
+[22] Mr. Roopchand said that he received an e-mail from Mr. Gupta’s firm advising him that notices of objection were filed on April 10, 2015. Soon after, he contacted the CRA to check if they received the documents. The CRA told him that it did not receive any documents similar to notices of objection. On April 10, 2016, Mr. Roopchand asked his new tax accountant to call the CRA and to again send the said notices of objection.
+[23] Mr. Jerry Woznica also testified at the hearing. He stated that he was involved in the filing of the notices of objection for the initial reassessments. He explained that he and his clients were late in gathering their materials to file the notices of objection on time due to Mrs. Roopchand’s illness and his own father’s death. He said that they asked for an extension of time and it was granted.
+[24] Mr. Woznica confirmed that he suggested to Mr. Roopchand to retain the services of a tax lawyer and that he did not file notices of objection for the last reassessments.
+[25] Mr. Woznica also stated that any documents he received pertaining to the Roopchand family, he would fax to them or would be picked up by them from his office.
+[26] Finally, Mr. Woznica said that he did not know the name of the tax lawyer retained by Mr. Roopchand until August 2016, when Mr. Roopchand came to his office and said that he did not think that the tax lawyer had done anything and asked Mr. Woznica to carry on with his file and see what he can do.
+[27] Mr. Harkirat Wadhawan of the firm Paul Gupta & Associates also testified at the hearing. He has been asked in September 2015 to review Mr. Roopchand’s file. Mr. Wadhawan said that he thought Mr. Roopchand’s file was still active with the CRA. There were no confirmation of the reassessments nor notices of reassessment in their file. He stated that he was not involved with the filing of the notices of objection on April 10, 2015 as he was not with Paul Gupta & Associates at the time.
+[28] In terms of documentary evidence, the applicants filed, as Exhibit A-1, the notices of objection dated April 15, 2015 which were faxed to CRA as a result of the notices of reassessment dated January 19, 2013 for the 2010 taxation year. In these same notices of reassessment, the CRA had told the applicants to reimburse the Harmonized Sales Tax rebates they obtained as they never lived in the properties and therefore never used them as their principal residences. The applicants also filed, as Exhibit A-2, a document prepared by Paul Gupta & Associates, summarizing the relevant information concerning their 2010 business income assessments and the Goods and Services Tax/Harmonized Sales Tax rebates claimed on the properties owned by the three applicants in 2010.
+Issues
+[29] The issues in these applications are whether Eva should be granted an extension of time to file a notice of appeal with this Court pursuant to section 167 of the Act and whether Maria and Mohan should be granted an extension of time to file a notice of objection with the Minister pursuant to section 166.1(1) of the Act.
+Law and Analysis
+A. The Situation of Eva Roopchand
+[30] Eva filed a notice of objection to the Minister on January 2, 2013. The Minister then mailed her a notice of confirmation on July 25, 2014. Eva had 90 days from the day the notice of confirmation was sent, to file her notice of appeal with this Court. Subsection 169(1) of the Act provides as follows:
+Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed, to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been sent to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[31] It is not disputed that Eva did not file a notice of appeal with this Court within the 90-day time limit and that she did not apply to this Court pursuant to section 167 of the Act for an order extending the time within which to file a notice of appeal. Paragraphs 167(1) and (5) of the Act provides as follows:
+(1) Extension of time to appeal.Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+. . .
+(5) When order to be made. No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[32] Instead of filing an application for an extension of time within which a notice of appeal may be filed with this Court, Eva filed with this Court an application for an extension of time within which a notice of objection may be filed with respect to her reassessment for the 2010 taxation year.
+[33] This process is totally obsolete and inappropriate in the circumstances.
+[34] I do not accept Eva’s allegation that she did not receive the letter of confirmation dated July 25, 2014 because it was sent to a wrong address for the following two reasons: firstly, Mr. Jerry Woznica, who was Eva’s representative at the time, was copied on the letter and the mailing address that CRA had at that time for Harris & Partners was 300 - 8920 Woodbine Avenue, which was the correct address. Mr. Woznica did not say in his testimony that he did not receive that letter but said that if he had received it, he would have transmitted it to his client. Secondly, the letter of confirmation specifically referred to a conversation held on June 17, 2014 between an officer of the CRA and Mr. Jerry Woznica who requested a two-week extension to provide proof that Eva ordinarily inhabited the condominium unit as her principal residence. As only Eva could provide such information, I must assume that Mr. Woznica must have spoken to Eva about it. By the same token, Mr. Woznica must have made her aware of the two-week extension and she should know to expect a letter of confirmation shortly thereafter if no information was provided to the CRA within that timeframe. In these circumstances, she should have made enquiries with Mr. Woznica and even with the CRA’s officer about the status of her file in the following weeks.
+B. The situation of Maria and Mohan Roopchand
+[35] Mohan and Maria are in the same situation. They were both reassessed on August 14, 2014 for the 2010 taxation year and no notice of objection was filed before the expiration of the 90-day timeframe pursuant to subsections 165(1) and no application for an extension of time to serve a notice of objection was made before the expiration of the one-year deadline pursuant to subsection 166.1(1) and paragraph 166.1(7)(a) or pursuant to subsection 166.2(1) and paragraph 166.2(5)(a) of the Act.
+[36] Subsection 165(1) of the Act provides as follows:
+Objections to assessment. A taxpayer who objects to an assessment under this Part may serve on the Minister a notice of objection, in writing, setting out the reasons for the objection and all relevant facts,
+(a) if the assessment is in respect of the taxpayer for a taxation year and the taxpayer is an individual (other than a trust) or a graduated rate estate for the year, on or before the later of
+(i) the day that is one year after the taxpayer's filing-due date for the year, and
+(ii) the day that is 90 days after the day of sending of the notice of assessment; and
+(b) in any other case, on or before the day that is 90 days after the day of sending of the notice of assessment.
+[37] Subsection 166.1(1) and paragraph 166.1(7)(a) of the Act provide as follows:
+(1) Extension of time by Minister.Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+. . .
+(7) When order to be made.No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[38] Subsection 166.2(1) and paragraph 166.2(5)(a) of the Act provide as follows:
+(1) Extension of time by Tax Court.A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+. . .
+(5) When application to be made.No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+[39] At the hearing, Mohan alleged that he was told by Mr. Gupta that notices of objection had been filed on his and on Maria’s behalf on April 10, 2015 concerning the reassessments for the 2010 taxation year. Such notices of objection were not filed as evidence in Court and Mr. Gupta did not appear either to corroborate this information. The CRA has no record of such notices of objection and confirmed by affidavit that they were unable to find any application for extension of time to object that was filed with the Minister on or before November 12, 2015, being the last day for making an application under paragraph 166.1(7)(a) of the Act.
+[40] I would also point out that, on April 10, 2015, Mohan and Maria should have each filed with the Minister, an application for extending the time within which a notice of objection may be filed since they were within the one-year time limit to do so. They had the opportunity to remedy to the late filing of their notices of objection but they did not follow the right process (assuming that they did file on that date, their notices of objection as they alleged).
+[41] No plausible explanation has been given as to why correspondence from CRA sent to Mr. Woznica on July 25, 2014 (the date of the notice of confirmation of the reassessment for Eva) and on August 14, 2014 (the date of the notices of reassessment for Mohan and Maria) were supposedly not received by Mr. Woznica in light of the fact that the CRA had Mr. Woznica’s correct address at Harris & Partners, in their files.
+[42] For the above reasons, the applications are dismissed without costs.
+Signed at Ottawa, Canada, this 8th day of December 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 279
+COURT FILE NOS.:
+2016-1860(IT)APP, 2016-1864(IT)APP, 2016-1865(IT)APP
+STYLES OF CAUSE:
+Mohan Roopchand and Her Majesty the Queen
+Eva Roopchand and Her Majesty the Queen
+Maria Roopchand and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+August 16 and September 28, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+December 8, 2016
+APPEARANCES:
+For the Applicants:
+The Applicants themselves
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

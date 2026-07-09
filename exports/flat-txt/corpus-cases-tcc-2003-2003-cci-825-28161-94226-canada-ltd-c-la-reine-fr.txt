@@ -1,0 +1,79 @@
+Title: 94226 Canada Ltd c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28161/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-825-28161-94226-canada-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-11-14
+
+# 94226 Canada Ltd c. La Reine
+
+- Citation: 2003 CCI 825
+- Decision date: 2003-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2007, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+94226 Canada Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-14
+Référence neutre
+2003 CCI 825
+Numéro de dossier
+2003-2779(GST)APP
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003‑2779(GST)APP
+ENTRE :
+94226 CANADA LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 14 octobre 2003 à Montréal (Québec)
+Devant : L’honorable juge Brent Paris
+Comparutions
+Avocat de la requérante :
+Me David Rosentzveig
+Avocat de l’intimée :
+Me Jean‑Louis Landry
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite afin d’obtenir une ordonnance prorogeant le délai dans lequel peut être signifié un Avis d’opposition à la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 29 septembre 2000 et porte le numéro 03407887;
+Et vu les allégations des parties;
+La demande est rejetée.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2003.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI825
+Date : 200311
+Dossier : 2003‑2779(GST)APP
+ENTRE :
+94226 CANADA LTD.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Rendus oralement à Montréal (Québec) le 14 octobre 2003.)
+Le juge Paris
+[1] Il s’agit d’une demande en vue d’obtenir une ordonnance prorogeant le délai pour signifier un Avis d’opposition à une cotisation établie à l’égard de la TPS daté du 29 septembre 2000. Il incombe à la requérante de montrer qu’elle respecte les conditions pour qu’on lui accorde une ordonnance prorogeant le délai pour déposer un avis d’opposition. Dans l’affaire en l’espèce, la requérante fait référence, dans la demande déposée devant la Cour, à l’Avis de cotisation no 03047887, et a joint à cette demande une copie dudit avis. La requérante est tenue de montrer qu’elle respecte les conditions énoncées au paragraphe 304(5) de la Loi sur la taxe d’accise (la « Loi ») pour qu’on lui accorde une ordonnance prorogeant le délai. Ces conditions sont les suivantes : 1) la requérante n’a pu agir dans le délai d’opposition imparti; 2) la requérante avait véritablement l’intention de faire opposition à la cotisation dans le délai d’opposition que prévoit la Loi.
+[2] Il incombait à la requérante de montrer qu’elle respectait ces deux conditions. Aucun témoin n’a été appelé à témoigner au nom de la requérante pour établir la preuve qu’elle avait satisfait ces conditions et, pour ces motifs, la demande est rejetée.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2003.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 10e jour de février 2004.
+Nancy Bouchard, traductrice

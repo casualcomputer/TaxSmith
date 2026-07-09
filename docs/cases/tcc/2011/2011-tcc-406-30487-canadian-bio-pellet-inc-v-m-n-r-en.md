@@ -1,0 +1,148 @@
+---
+title: "Canadian Bio Pellet Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30487/index.do"
+last_modified: "2011-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 406"
+citation2: ""
+neutral_citation: "2011 TCC 406"
+decision_date: "2011-08-26"
+language: "en"
+item_id: "30487"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7287
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:21:47.397000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8aa5f459a187435879a03d148e5acba0d68721af5c16fb2d72b75d53a73eb79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Bio Pellet Inc. v. M.N.R.
+
+- Citation: 2011 TCC 406
+- Decision date: 2011-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7287, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Bio Pellet Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-08-26
+Neutral citation
+2011 TCC 406
+File numbers
+2011-431(EI), 2011-432(CPP)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2011-431(EI)
+2011-432(CPP)
+BETWEEN:
+CANADIAN BIO PELLET INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPHER MAYCOCK,
+Intervener.
+____________________________________________________________________
+Appeal heard on August 19, 2011 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Stan Stasko
+Counsel for the Respondent:
+Annie Paré
+For the Intervener:
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal, with respect to decisions of the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan that Christopher Maycock was engaged in insurable and pensionable employment with the appellant from May 15, 2009 to March 1, 2010, is dismissed and the decisions are confirmed. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 26th day of August 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 406
+Date: 20110826
+Dockets: 2011-431(EI)
+2011-432(CPP)
+BETWEEN:
+CANADIAN BIO PELLET INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPHER MAYCOCK,
+Intervenor.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Christopher Maycock sought rulings from the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan as to whether he was engaged as an employee with Canadian Bio Pellet Inc. (CBP) during the period from May 15, 2009 to March 1, 2010.
+[2] The Minister concluded that Mr. Maycock was an employee. CBP has appealed the rulings and Mr. Maycock intervenes.
+[3] The essential question is whether Mr. Maycock was in business for himself when he worked for CBP. There is not a bright line test. One looks to factors such as control, tools, and profit and loss. One also looks to see if there was a common intent and whether the relationship was consistent with this.
+[4] I will refer to key individuals in these reasons by their first names (Chris, Stan and Dan). I mean no disrespect by this; it is to avoid confusion since two of the individuals have the same last name.
+Discussion
+[5] Stan and Dan Stasko are brothers who have a vision of developing a business of manufacturing and selling wood pellets. CBP was incorporated for this purpose. Extensive work was done to make the business a reality but project financing has been a stumbling block and has not yet been arranged.
+[6] As CBP was developing a business plan in 2008, it needed someone with manufacturing experience to help with the plan and to eventually be in charge of the plant. Chris was a friend of Dan’s and could fill this requirement.
+[7] Chris helped CBP out for about six months without remuneration, partly because he was receiving employment insurance benefits during a portion of this period. Chris then started receiving remuneration as of May 15, 2009. The lack of financing made it impossible to pay full remuneration and Chris accepted $5,000 per month on an interim basis. Chris eventually found out that source deductions had not been made and he terminated the relationship as of March 1, 2010.
+[8] Around the time that Chris started receiving remuneration, CBP negotiated an employment contract with him and CBP presented a formal written agreement.
+[9] There are two issues with respect to this agreement, whether it was ever formally accepted by Chris and whether it was intended to be in force before financing was obtained.
+[10] As for whether the agreement was formally accepted by Chris, I accept Chris’ testimony that it was. Stan testified on cross-examination that he was not aware that a signed contract was returned to CBP. Based on the evidence as a whole, I have concluded that the contract was formally accepted by Chris. I would note in particular that a signed contract was entered into evidence.
+[11] CBP also submits that the contract was not intended to be in force until financing was in place. The only support for this is Stan’s testimony, which is self-interested. The written contract, on the other hand, strongly suggests that the contract was intended to be in force regardless of whether financing was received. The contract did contain conditions, but financing was not one of them. Further, the evidence as a whole suggests that the contract was not conditional on financing. I do not accept Stan’s testimony to the contrary.
+[12] CBP submits that Chris should have known that the employment contract was not in force because he accepted reduced remuneration which, because it was a flat monthly amount of $5,000, suggests that source deductions were not made.
+[13] I do not agree with this submission. If CBP had intended that Chris not be an employee, it is likely that Stan or Dan would have communicated this explicitly to Chris. This was not done.
+[14] I find that CBP and Chris had a common intent that the relationship was an employment relationship.
+[15] It remains to be considered whether the conduct of the parties was consistent with this intent. Based on the evidence before me, I find that it was.
+[16] The ability of CBP to control the manner in which Chris’ work was done is a key factor in determining the nature of this relationship. The fact that the parties signed an employment contract suggests that they expected that CBP would have control. The contract also supports this by providing that Chris was to report to Dan. Based on the evidence as a whole, I find that the parties conducted themselves in accordance with the expectation that CBP could control. It appears that Dan gave Chris significant freedom, but that CBP always maintained the ability to dictate to Chris. I would also note that Stan was the only witness for CBP. Dan would have been in a better position to testify as to a lack of control.
+[17] The other factors usually considered, ownership of tools, chance of profit and risk of loss, are not as important in this case and they appear to be neutral.
+[18] The conclusion that I have reached is that Christopher Maycock was engaged by CBP as an employee during the relevant period.
+[19] The appeal will be dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 26th day of August 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 406
+COURT FILE NOS.: 2011-431(EI)
+2011-432(CPP)
+STYLE OF CAUSE: CANADIAN BIO PELLET INC. and THE MINISTER OF NATIONAL REVENUE and CHRISTOPHER MAYCOCK
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: August 19, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: August 26, 2011
+APPEARANCES:
+Agent for the Appellant:
+Stan Stasko
+Counsel for the Respondent:
+Annie Paré
+For the Intervener:
+The Intervener himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

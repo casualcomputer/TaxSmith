@@ -1,0 +1,159 @@
+Title: Tourangeau c.  Canada (Emploi et Développement social)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/483526/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-74-483526-tourangeau-c-canada-emploi-et-d-veloppement-social-fr.md
+Document type: case_law
+Last modified: 2020-08-04
+
+# Tourangeau c.  Canada (Emploi et Développement social)
+
+- Citation: 2020 CCI 74
+- Decision date: 2020-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4546, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tourangeau c. Canada (Emploi et Développement social)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-04
+Référence neutre
+2020 CCI 74
+Numéro de dossier
+2019-852(OAS)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2019-852(OAS)
+ENTRE :
+PAULETTE TOURANGEAU,
+appelante,
+et
+LE MINISTRE DE L'EMPLOI ET DU DÉVELOPPEMENT SOCIAL,
+intimé.
+Appel entendu le 13 janvier 2020, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimé :
+Me Annie Laflamme
+JUGEMENT
+L’appel de la décision rendue par le ministre de l’Emploi et du Développement social en date du 17 avril 2018 concernant la détermination du revenu de l’appelante aux fins du calcul des montants du supplément de revenu garanti en vertu de la Loi sur la sécurité de la vieillesse auxquels elle avait droit pour la période de paiement de juillet 2017 à juin 2018, est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 4e jour d’août 2020.
+« Réal Favreau »
+Juge Favreau
+Référence : 2020 CCI 74
+Date : 20200804
+Dossier : 2019-852(OAS)
+ENTRE :
+PAULETTE TOURANGEAU,
+appelante,
+et
+LE MINISTRE DE L'EMPLOI ET DU DÉVELOPPEMENT SOCIAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Madame Tourangeau se pourvoit à l’encontre d’une décision du ministre de l’Emploi et du Développement social (le « ministre ») concernant la détermination des montants du supplément de revenu garanti (le « SRG ») en vertu de la Loi sur la sécurité de la vieillesse L.R.C. (1985), ch. 0-9, telle que modifiée (la « LSV »).
+[2] Le SRG est déterminé à partir du revenu de la personne, tel que défini à l’article 2 de la LSV, c’est-à-dire en tenant compte de son revenu selon la Loi sur l’impôt du revenu (la « LIR ») après avoir appliqué certaines déductions spécifiées à l’article 2 de la LSV »
+[3] L’appelante conteste que les sommes retirées des fonds enregistrés de revenu de retraite hérités de son défunt conjoint (les « FERRs ») doivent être incluses dans son revenu selon l’article 2 de la LSV.
+[4] Afin d’établir le revenu de l’appelante dans le but de déterminer son admissibilité au SRG pour la période de paiement de juillet 2017 à juin 2018, le ministre a tenu pour acquis les faits suivants énoncés au paragraphe 3 de la réponse à l’avis d’appel :
+a) En janvier 2013, l’appelante a atteint l’âge de 65 ans.
+b) En février 2013, l’appelante a commencé à recevoir la pension de la Sécurité de la vieillesse (SV).
+c) En janvier 2016, l’appelante a commencé à recevoir le SRG.
+d) En janvier 2017, l’appelante a subi une diminution de son revenu de Fonds enregistré de revenu de retraite (FERR) annuel.
+e) En juillet 2017, l’appelante a été informée qu’à compter de juillet 2017, elle n’aurait plus droit au SRG, car ses revenus étaient trop élevés.
+f) Le 3 août 2017, le ministre a reçu la demande de réexamen de l’appelante.
+g) Par lettre datée du 17 avril 2018, le ministre a informé l’appelante qu’il maintenait sa décision de juillet 2017.
+h) Le 3 juillet 2018, l’appelante a présenté un avis d’appel devant le Tribunal de la sécurité sociale.
+i) En août 2018, l’appelante a soumis au ministre un formulaire intitulé « Déclaration du revenu prévu après la retraite ou après la diminution du revenu de pension – l’année 2017 » pour une diminution de revenus de pension (FERR) en janvier 2017.
+j) Le revenu estimatif de l’appelante pour les mois de janvier à juin 2017 (compris dans la période de paiement de juillet 2016 à juin 2017) et pour la période de paiement de juillet 2017 à juin 2018 était le suivant :
+REVENUS [sic] ESTIMATIF 2017
+SOURCE DE REVENU
+Régime des rentes du Québec (RRQ)
+7 903,00$
+Revenus de pension
+13 533,72$
+FERR annuel
+2 234,25$
+Pension étrangère
+625,00$
+TOTAL
+24 295,97$
+k) Pour les mois de janvier 2017 à juin 2017 (compris dans la période de paiement de juillet 2016 à juin 2017), il était plus avantageux pour l’appelante d’utiliser son revenu de l’année de référence 2015 de 2 155,00$ que son revenu estimatif 2017 de 24 295,97$
+l) L’appelante a donc eu droit au SRG pour les mois de janvier 2017 à juin 2017 (compris dans la période de paiement de juillet 2016 à juin 2017) en se fondant sur son revenu de l’année de référence 2015 de 2 155,00$.
+m) Pour la période de paiement de juillet 2017 à juin 2018, il était plus avantageux pour l’appelante d’utiliser son revenu estimatif de 24 295,97$ que son revenu de l’année de référence 2016 de 42 652,00$.
+n) L’appelante n’a pas eu droit au SRG pour cette période, puisque son revenu était plus élevé que le seuil maximal de 17 687,99$ donnant droit au SRG pour cette période pour une personne vivant seule.
+o) Le 21 février 2019, l’appelante a été informée que suite à sa demande d’option, son admissibilité au SRG pour les mois de janvier 2017 à juin 2017 (compris dans la période de paiement de juillet 2016 à juin 2017) serait calculée avec son revenu de l’année de référence 2015, car cela était à son avantage, et qu’un revenu estimatif 2017 de 24 295,97$ serait utilisé pour calculer son admissibilité au SRG pour la période de paiement de juillet 2017 à juin 2018.
+p) Dans la même lettre, elle a également été informée que son admissibilité au SRG pour la période de paiement de juillet 2018 à juin 2019 a été examinée avec son revenu estimatif 2018, mais que ce dernier était trop élevé pour lui donner droit au SRG pour cette période.
+q) Le 1er mars 2019, l’appel a été transféré à la Cour canadienne de l’impôt.
+[5] Madame Tourangeau a témoigné à l’audience et elle a précisé qu’elle était âgée de 71 ans et qu’elle vivait seule depuis décembre 2015 suite au décès de son conjoint.
+[6] Lors de son témoignage, madame Tourangeau a nié le paragraphe 3c) des faits dont le ministre a tenu compte en précisant qu’elle n’a commencé à recevoir le SRG qu’en janvier 2017 plutôt qu’en janvier 2016. Elle a demandé le SRG en 2016 mais elle ne l’a pas obtenu en 2016.
+[7] Madame Tourangeau a reçu le SRG pour la période de janvier à juin 2017 mais elle ne comprend pas pourquoi le SRG pour la période de juillet 2017 à juin 2018 lui a été refusé alors qu’un précédent a été créé et que son revenu total pour l’année 2017 est identique à son revenu total pour l’année 2016.
+[8] Madame Tourangeau a l’impression d’avoir été injustement traitée et demande une compensation pour des attentes de prestation nécessaires pour combler des besoins fondamentaux qui ne se sont pas matérialisées.
+[9] La question en litige consiste à déterminer si le ministre a correctement établi le revenu de l’appelante aux fins du calcul du SRG pour la période de paiement de juillet 2017 à juin 2018.
+I. Analyse
+[10] La prestation du SRG s’applique à une période de paiement, laquelle s’étend du 1er juillet de chaque année au 30 juin de l’année suivante et est fondée sur le revenu que le demandeur a touché pendant l’année civile qui précède le début de la période de paiement. L’année civile précédente est appelée l’ « année de référence », et le demandeur est tenu de fournir une déclaration de son revenu pour cette année de référence, relativement à chaque période de paiement.
+[11] Les paragraphes 14(2) à (6) de la LSV permettent également à un demandeur du SRG de produire une déclaration supplémentaire de son revenu estimatif pour l’année suivant l’année de référence s’il a cessé une activité rémunérée — charge, emploi ou exploitation d’une entreprise — ou s’il subit une suppression ou une réduction du revenu perçu au titre d’un régime de pension au cours de l’année. Ces dispositions permettent au ministre de tenir compte du fait que le revenu que le demandeur tire de ces sources sera inférieur à celui qu’il a touché au cours de l’année de référence. Cependant, une estimation du revenu tient quand même compte du montant de revenu que le demandeur a perçu de toutes autres sources durant l’année de référence.
+[12] L’article 2 de la LSV prévoit que le revenu d’une personne pour une année civile est, sous réserve de quelques exceptions non applicables en l’espèce, celui qui est calculé en conformité avec la LIR.
+[13] Dans le cas présent, madame Tourangeau a atteint l’âge de 65 ans en janvier 2013 et a commencé à recevoir la pension de sécurité de la vieillesse en février 2013. Les revenus de madame Tourangeau pour les années 2015, 2016 et 2017 ont été les suivants : 2 155$, 42 652$ et 24 296$ respectivement. Le revenu de 2016 comprenait des retraits de FERRs totalisant 17 871$ et le revenu de 2017 comprenait des retraits de FERRs totalisant 2 234,25$.
+[14] En 2016, madame Tourangeau a demandé de recevoir le SRG, ce qui lui fut accordé pour la période de paiement du 1er janvier 2017 au 30 juin 2017 (compris dans la période de paiement de juillet 2016 à juin 2017) sur la base de son revenu pour l’année de référence 2015 de 2 155$.
+[15] En 2017, madame Tourangeau a renouvelé sa demande de SRG pour la période de paiement de SRG pour la période de paiement du 1er juillet 2017 au 30 juin 2018, laquelle demande lui fut refusée parce que son revenu pour l’année de référence 2016 de 42 652$ dépassait le maximum de revenu permis pour être admissible au SRG.
+[16] En août 2018, madame Tourangeau a soumis au ministre le formulaire intitulé « Déclaration du revenu prévu après la retraite ou après la diminution du revenu de pension — l’année 2017 » pour tenir compte de la diminution de ses revenus provenant des FERRs à compter du mois de janvier de l’année 2017.
+[17] Madame Tourangeau avait le droit de produire une déclaration de revenu estimatif pour 2017 comme le prévoit le l’alinéa 14(6)b) de la LSV. Aux termes des sous-alinéas 14(6)b)(i) et (ii), elle était en droit d’estimer le revenu qu’elle percevrait au titre de tout régime de pension et au titre de toute activité rémunérée pour 2017. Par contre, le sous-alinéa 14(6)b)(iii) exigeait qu’elle ajoute, dans son estimation de revenu pour 2017, le revenu perçu de toutes les autres sources au cours de l’année de référence de 2016, compte non tenu du revenu perçu au cours de l’année de référence au titre de toute activité rémunérée ou de tout régime de pension.
+[18] L’alinéa 14(6)b) de la LSV se lit comme suit :
+Déclaration supplémentaire en cas de perte de revenu antérieure à la période de paiement en cours
+(6) Si la cessation d’une activité a eu lieu dans les cas visés au alinéas a) ou b), le demandeur — ou son époux ou conjoint de fait, dans le cas où celui-ci produit la déclaration visée à l’alinéa 15(2)a) — peut, s’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de tout régime de pension, produire au plus tard à la fin de la période de paiement suivant la période de paiement en cours, une seconde déclaration où figure :
+[…]
+b) si la perte est subie au cours d’un mois antérieur à la période de paiement et postérieur à l’année civile précédant celle-ci, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, lequel correspond alors au total des éléments suivants :
+(i) le produit de son revenu perçu au titre de tout régime de pension au cours de la partie de l’année civile qui suit le mois précédant celui de la perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année,
+(ii) son revenu perçu au titre de toute activité rémunérée pour cette année civile,
+(iii) son revenu pour l’année de référence, compte non tenu du revenu perçu au cours de celle-ci au titre de toute activité rémunérée ou de tout régime de pension.
+[19] Dans le cas de madame Tourangeau, la perte de revenu en 2017 a été occasionnée par une diminution des sommes retirées de ses FERRs, lesquelles sont, en vertu du paragraphe (f) de l’article 14 du Règlement sur la sécurité de la vieillesse C.R.C., ch. 1246 (le « Règlement »), comprises dans le revenu de pensions ou de pensions de retraite.
+[20] Le sous-alinéa 14(6)b)(iii) de la LSV exige que le revenu du demandeur pour l’année de référence soit calculé en tenant pour acquis que ce dernier n’a pas perçu de revenu au titre d’une activité rémunérée ou d’un régime de pension.
+[21] Pour déterminer l’admissibilité de l’appelante au SRG pour les mois de janvier à juin 2017 (compris dans la période de paiement de juillet 2016 à juin 2017) et pour la période de paiement de juillet 2017 à juin 2018, le ministre a calculé le revenu estimatif 2017 de l’appelante de la façon suivante :
+Régime des rentes du Québec (RRQ) : 7 903,00$
+Revenu de pension : 13 533,72$
+FERRs (montant minimum annuel) : 2 234,25$
+Pension étrangère : 625,00$
+Total 24 295,97$
+[22] En effectuant le calcul du revenu estimatif de l’appelante pour l’année 2017, le ministre n’a pas inclus le revenu de l’appelante pour l’année de référence 2015 pour les mois de janvier à juin 2017 et le revenu de l’appelante pour l’année de référence 2016 pour la période de paiement de juillet 2017 à juin 2018, comme l’exige le sous-alinéa 14(6)b)(iii) de la LSV.
+[23] L’ajout desdits montants n’auraient toutefois pas changé les conclusions de l’analyse, à savoir qu’il était plus avantageux pour l’appelante d’utiliser son revenu de l’année de référence 2015 pour la période du 1er janvier au 30 juin 2017 et d’utiliser son revenu estimatif de 2017 de 24 295,97$ plutôt que son revenu de référence de 2016 de 42 652$. Cependant, l’appelante ne peut avoir droit au SVG pour cette dernière période puisque, de toute façon, son revenu estimatif de 2017 est plus élevé que le seuil maximal de 17 687,99$ donnant droit au SVG pour cette période pour une personne vivant seule.
+[24] En rendant son jugement, la Cour a l’obligation de ne tenir compte que des dispositions législatives applicables au litige et ne peut se fonder sur la base d’arguments de besoins, de sympathie ou d’équité. La seule compétence de la Cour en cette matière consiste à déterminer si la décision du ministre à l’origine de l’appel a été prise conformément aux dispositions de la LSV et ne peut accorder de réparations.
+[25] Pour toutes ces raisons, l’appel doit être rejeté puisque la décision du ministre à l’origine de l’appel est bien fondée en vertu de la LSV.
+Signé à Montréal (Québec), ce 4e jour d’août 2020.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2020 CCI 74
+Nº DU DOSSIER DE LA COUR :
+2019-852(OAS)
+INTITULÉ DE LA CAUSE :
+Paulette Tourangeau et le ministre de l’Emploi et du Développement social
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 13 janvier 2020
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 4 août 2020
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Annie Laflamme
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

@@ -1,0 +1,192 @@
+Title: Aerovition Digital Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520904/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-27-520904-aerovition-digital-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-02-08
+
+# Aerovition Digital Inc. c. La Reine
+
+- Citation: 2022 CCI 27
+- Decision date: 2022-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4440, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aerovition Digital Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-02-08
+Référence neutre
+2022 CCI 27
+Numéro de dossier
+2021-2237(IT)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-2237(IT)I
+ENTRE :
+AEROVITION DIGITAL, INC.,
+AN AEROVITION CORP.,
+appelante,
+(requérante/intimée)
+et
+SA MAJESTÉ LA REINE,
+intimée.
+(requérante/intimée)
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes tranchées sur observations écrites
+Devant : L’honorable juge David E. Spiro
+Participants :
+Représentant de l’appelante :
+Shaw Rahman
+Avocate de l’intimée :
+Me Katherine T. Shelley
+ORDONNANCE MODIFIÉE
+VU la requête en radiation de la réponse à l’avis d’appel présentée par l’appelante;
+ET VU la requête de l’intimée en prorogation du délai de dépôt, par le ministre du Revenu national, de la réponse à l’avis d’appel;
+APRÈS AVOIR LU les documents écrits déposés par l’appelante à l’appui de sa requête et en réponse à la requête de l’intimée;
+ET APRÈS AVOIR LU les documents écrits déposés par l’intimée à l’appui de sa requête et en réponse à la requête de l’appelante;
+LA COUR ORDONNE :
+La requête de l’appelante radiation de la réponse est rejetée, sans dépens;
+La requête de l’intimée en prorogation du délai de dépôt, par le ministre du Revenu national, de la réponse est accueillie, sans dépens, et le délai de dépôt de la réponse est prorogé jusqu’au 17 novembre 2021.
+Le présent jugement modifié remplace le jugement daté du 3 février 2022.
+Signé à Toronto (Ontario), ce 8e jour de février 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 2e jour de septembre 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 27
+Date : 20220203
+Dossier : 2021-2237(IT)I
+ENTRE :
+AEROVITION DIGITAL, INC.,
+AN AEROVITION CORP.,
+appelante,
+(requérante/intimée)
+et
+SA MAJESTÉ LA REINE,
+intimée.
+(requérante/intimée)
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Spiro
+[1] Le présent appel porte sur le droit de l’appelante à la Subvention salariale d’urgence du Canada (« SSUC ») prévue par la Loi de l’impôt sur le revenu (la « LIR »). L’appel a été interjeté sous le régime de la procédure informelle, et est donc régi par les articles 18 à 18.28 de la Loi sur la Cour canadienne de l’impôt la « Loi sur la CCI »)[1].
+[2] Par inadvertance, le ministre du Revenu national (le « ministre ») a déposé la réponse à l’avis d’appel de l’appelante avec deux jours de retard. En raison de ce retard, l’appelante demande la radiation de la réponse, et l’intimée demande que le délai de dépôt de sa réponse soit prorogé de deux jours.
+[3] Aux termes du paragraphe 18.16(1) de la Loi sur la CCI, le ministre dispose d’un délai de 60 jours pour déposer une réponse suivant la transmission au ministre de l’avis d’appel par le greffe de la Cour. Si le ministre ne dépose pas de réponse à ce moment-là, il peut demander à l’appelant de consentir au dépôt tardif de la réponse ou à la Cour de rendre une ordonnance l’autorisant à déposer sa réponse tardivement. Si l’appelant donne son consentement ou si une ordonnance de prorogation du délai de dépôt est rendue, l’instance suit son cours normalement. Le paragraphe 18.16(1) de la Loi sur la CCI prévoit ce qui suit :
+18.16(1) Le ministre du Revenu national dispose de soixante jours suivant la transmission de l’avis d’appel par le greffe de la Cour pour y répondre; il peut, toutefois, répondre après ce délai avec le consentement de l’appelant ou la permission de la Cour; le consentement et la permission peuvent être demandés soit avant, soit après l’expiration du délai.
+[4] Toutefois, si la réponse est déposée après l’expiration du délai de 60 jours et que le ministre n’a pas obtenu le consentement de l’appelant ni une ordonnance de prorogation du délai de dépôt, les faits allégués dans l’avis d’appel de l’appelant sont réputés vrais aux finis de l’appel. Le paragraphe 18.16(4) de la Loi sur la CCI prévoit ce qui suit :
+18.16(4) Le ministre du Revenu national peut répondre à l’avis d’appel même après l’expiration des délais prévus aux paragraphes (1) [. . .] les allégations de fait énoncées dans l’avis d’appel sont alors réputées vraies aux fins de l’appel.
+[5] En l’espèce, un employé de l’Agence du revenu du Canada (l’« ARC ») a commis une erreur de calcul dans le délai de dépôt de la réponse. Par conséquent, la réponse a été déposée avec deux jours de retard. Le consentement au dépôt tardif de la réponse a été demandé par le ministre, et l’appelante a refusé de lui donner, donnant ainsi lieu à la requête de l’intimée en prorogation du délai de dépôt de la réponse par le ministre.
+Contexte et chronologie des événements
+[6] Pour situer le contexte, l’appelante a présenté une demande de SSUC à l’égard de trois périodes distinctes, allant du 15 mars au 6 juin 2020. Le ministre a rejeté les demandes au motif que l’appelante n’avait pas subi une diminution de revenus, nécessaire pour être admissible à la SSUC. Plus précisément, le ministre a conclu que l’appelante n’était pas une « entité admissible » au sens du paragraphe 125.7(1) de la LIR, et n’avait ni employé un employé admissible ni versé une rémunération à un tel employé[2].
+[7] Voici un bref résumé des événements se rapportant aux deux requêtes :
+L’avis d’appel est déposé.
+8 juillet 2021
+L’avis d’appel est transmis au ministre.
+16 septembre 2021
+La tâche est confiée à l’agent des litiges de l’Agence du revenu du Canada, qui finalement rédige la réponse après qu’un autre agent eut commis une erreur de calcul dans le délai de dépôt de la réponse.
+19 octobre 2021
+Délai pour le dépôt de la réponse par le ministre
+15 novembre 2021
+Réponse déposée par le ministre avec deux jours de retard
+17 novembre 2021
+Réponse envoyée à l’appelante par Postes Canada
+18 novembre 2021
+Le ministre demande à l’appelante de consentir au dépôt tardif de la réponse.
+22 novembre 2021
+L’appelante refuse de consentir au dépôt tardif de la réponse.
+22 novembre 2021
+L’intimée avise l’appelante et la Cour que sera déposée une requête en prorogation du délai de dépôt de la réponse.
+23 novembre 2021
+L’appelante demande la radiation de la réponse.
+25 novembre 2021
+L’appelante dépose une réfutation point par point de la réponse.
+30 novembre 2021
+L’appelante répond à la requête anticipée de l’intimée en prorogation du délai de dépôt de la réponse.
+3 décembre 2021
+L’intimée demande la prorogation du délai de dépôt de la réponse.
+10 décembre 2021
+L’appelante répond à la requête de l’intimée en prorogation du délai de dépôt de la réponse.
+12 décembre 2021
+L’intimée répond à la requête de l’appelante en radiation de la réponse.
+7 janvier 2022
+Requête de l’appelante en radiation de la réponse
+Arguments de l’appelante
+[8] L’appelante soutient que la réponse doit être radiée pour les motifs suivants :
+a)L’intimée a demandé à la Cour la permission de déposer tardivement la réponse après l’expiration du délai de dépôt de la réponse et après l’avoir en fait déposée;
+b)La réponse n’a pas été signifiée à l’appelante dans les trois jours suivant le dépôt.
+Arguments de l’intimée
+[9] En réponse, l’intimée soutient que la réponse ne devrait pas être radiée, car il n’existe aucun motif de radiation de l’acte de procédure[3]. L’intimée soutient que la réponse ne devrait pas être radiée, à moins qu’elle ne soit tellement futile que les positions qui y sont défendues n’aient aucune chance de succès[4].
+Requête de l’intimée en permission de dépôt tardif de la réponse
+Arguments de l’intimée
+[10] L’intimée soutient que :
+a) l’intention du ministre a toujours été de défendre la cotisation et une explication raisonnable justifie le retard;
+b) le retard était minime et n’a causé aucun préjudice apparent à l’appelante;
+c) l’appelante connaissait le contenu de la réponse et a eu le temps de préparer et d’envoyer un document détaillé réfutant la réponse, le 30 novembre 2021;
+d) le ministre a fait preuve de diligence afin de corriger l’erreur et obtenir le consentement de l’appelante;
+e) la réponse aide à préciser les questions en litige entre les parties, informe l’appelante des moyens qui lui sont opposés et précise la portée de la controverse devant la Cour;
+f) il est dans l’intérêt de la justice d’accueillir la requête en prorogation du délai de dépôt de la réponse jusqu’au 17 novembre 2021 pour assurer un règlement équitable sur le fond des véritables questions en litige.
+Arguments de l’appelante
+[11] En réponse, l’appelante affirme que le dépôt tardif de la réponse du ministre a non seulement violé la règle sur le dépôt en temps opportun de la réponse, mais qu’il lui a également porté préjudice.
+Discussion
+[12] En réponse à la requête de l’intimée visant à permettre le dépôt tardif de la réponse, l’appelante fait valoir qu’une demande de dépôt tardif d’une réponse doit être présentée avant l’expiration du délai de dépôt de la réponse. Toutefois, l’article 18.16 de la Loi sur la CCI est clair : une telle demande peut être présentée avant ou après le délai d’expiration du dépôt de la réponse. Le paragraphe 18.16(1) de la Loi sur la CCI dispose :
+18.16(1) Le ministre du Revenu national dispose de soixante jours suivant la transmission de l’avis d’appel par le greffe de la Cour pour y répondre; il peut, toutefois, répondre après ce délai avec le consentement de l’appelant ou la permission de la Cour; le consentement et la permission peuvent être demandés soit avant, soit après l’expiration du délai.
+[Non souligné dans l’original.]
+[13] Dans sa requête en radiation, l’appelante soutient que le fait que ministre ait déposé la réponse le 17 novembre 2021 plutôt que le 15 novembre 2021, comme l’exige la loi, lui a causé préjudice. Elle ne présente cependant aucun élément de preuve à l’appui de cette allégation. Avant qu’une date d’audience ait été fixée, on ne peut présumer qu’un simple retard de deux jours à déposer la réponse causera un préjudice. En effet, l’appelante connaissait suffisamment le contenu de la réponse pour être en mesure de préparer une réfutation point par point de cette réponse le 30 novembre 2021, moins de deux semaines après le dépôt de la réponse[5].
+[14] Je conclus que, dans les circonstances, le ministre a produit une explication raisonnable justifiant le retard et que la durée du retard était relativement négligeable dans le contexte de la présente instance; contexte dans lequel une date d’audience n’avait pas encore été fixée.
+[15] Il ne fait aucun doute que le régime législatif qui encadre les appels interjetés sous le régime de la procédure informelle vise à faciliter le règlement rapide de tels appels[6]. Plusieurs exemples représentent l’intention du législateur. L’acte introductif d’instance de l’appelante n’a qu’à énoncer, en termes généraux, les motifs de l’appel et les faits pertinents[7]. Le ministre dispose d’un délai de 60 jours pour déposer une réponse à l’acte introductif d’instance et, en l’absence de circonstances exceptionnelles, la Cour fixe une date d’audience au plus tard entre six mois et un an après l’expiration de ce délai[8]. Aucune liste de documents n’est communiquée et aucun interrogatoire préalable n’est tenu. En l’absence de circonstances exceptionnelles, la Cour rend une décision au plus tard 90 jours après l’audience[9]. Toutefois, même dans le contexte d’un régime législatif qui vise clairement à faciliter l’accès à la justice, un retard de deux jours n’est pas très important.
+[16] L’appelante demande à la Cour de radier la réponse, mais aucun fondement ne justifie cette demande. Elle soutient que la réponse doit être radiée, car le ministre ne l’a pas signifiée dans les trois jours suivant le dépôt. Le ministre n’est pas soumis à une telle obligation[10].
+Conclusion
+[17] Pour les motifs exposés ci-dessus, j’accueille la requête de l’intimée en prorogation du délai de dépôt de la réponse conformément au paragraphe 18.16(1) de la Loi sur la CCI, jusqu’au 17 novembre 2021, et je rejette la requête de l’appelante en radiation de la réponse, le tout sans frais.
+Signé à Toronto (Ontario), ce 3e jour de février 2022.
+« David E. Spiro »
+Le juge Spiro
+Traduction certifiée conforme
+ce 2e jour de septembre 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 27
+NO DU DOSSIER DE LA COUR :
+2021-2237(IT)I
+INTITULÉ :
+AEROVITION DIGITAL INC., AN AEROVITION CORP. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+S.O.
+DATE DE L’AUDIENCE :
+Requêtes tranchées sur observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Spiro
+DATE DE L’ORDONNANCE MODIFIÉE :
+Le 8 février 2022
+COMPARUTIONS :
+Représentant de l’appelante :
+Shaw Rahman
+Avocate de l’intimée :
+Me Katherine T. Shelley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] En ce qui concerne les appels des cotisations établies en vertu de la LIR, le paragraphe 18(1) de la Loi sur la CCI dispose que la procédure informelle est ouverte aux appelants lorsque l’ensemble de toutes les sommes en cause est égal ou inférieur à 25 000 $, et lorsque la détermination de la perte en cause est inférieure ou égale à 50 000 $.
+[2] Cette information est tirée de l’avis de confirmation du ministre que l’appelante a joint à son avis d’appel.
+[3] À cet égard, l’intimée se fonde sur les motifs énumérés au paragraphe 53(1) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[4] À l’appui de sa thèse, l’intimée cite la décision Cudmore v The Queen, 2010 TCC 318, au par. 53.
+[5] Dans ses documents, l’appelante soutient implicitement qu’un préjudice lui a été causé du fait de ne pas avoir reçu une copie de la réponse avant le 26 novembre 2021. Le paragraphe 6(2) des Règles de la Cour canadienne de l’impôt (procédure informelle) exige que le ministre signifie une copie de la réponse, par courrier recommandé, dans les cinq jours qui suivent le dépôt de la réponse. Dans la mesure où l’appelante tire grief du moment de la signification de la réponse, aucun recours ne lui est ouvert (voir, par exemple, la décision Jackson c. La Reine, 2019 CCI 63). Quoi qu’il en soit, peu importe le moment auquel la réponse a été signifiée, l’appelante était de mesure de préparer une réfutation point par point de la réponse, le 30 novembre 2021. Compte tenu de ce fait, il est difficile de déterminer qu’un préjudice a été causé à l’appelante.
+[6] L’intention du législateur est particulièrement bien illustrée dans le paragraphe 18.15(3) de la Loi sur la CCI :
+18.15(3) Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+[7] Paragraphe 18.15(1) de la Loi sur la CCI.
+[8] Paragraphe 18.17(1) de la Loi sur la CCI.
+[9] Paragraphe 18.22(1) de la Loi sur la CCI.
+[10] La seule obligation du ministre est de signifier la réponse par courrier recommandé dans les cinq jours suivant son dépôt, comme il est signalé dans la note de bas de page 5 ci-dessus.

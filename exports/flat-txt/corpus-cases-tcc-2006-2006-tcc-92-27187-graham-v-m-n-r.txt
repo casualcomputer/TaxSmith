@@ -1,0 +1,117 @@
+Title: Graham v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27187/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-92-27187-graham-v-m-n-r.md
+Document type: case_law
+Last modified: 2006-02-16
+
+# Graham v. M.N.R.
+
+- Citation: 2006 TCC 92
+- Decision date: 2006-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 990, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Graham v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-16
+Neutral citation
+2006 TCC 92
+File numbers
+2005-2452(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2452(IT)I
+BETWEEN:
+JEAN GRAHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 10, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed and the reassessment are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded the costs and disbursements respecting the appeal.
+Signed at Saskatoon, Saskatchewan, this 16th day of February 2006.
+“D.W. Beaubier”
+Beaubier J.
+Citation: 2006TCC92
+Date: 20060216
+Docket: 2005-2452(IT)I
+BETWEEN:
+JEAN GRAHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Calgary, Alberta, on February 10, 2006. The Appellant was the only witness.
+[2] Paragraphs 10 to 14 inclusive of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+10. In response to the Notice of Objection, the Minister confirmed the tax assessed for the 2003 taxation year. The tax assessed was confirmed as the Appellant did not move to start a job, a business or to attend a post secondary educational institution and the moving expenses did not quality as eligible medical expenses.
+11. In so reassessing the Appellant on December 13, 2004 and confirming the tax of the Appellant, the Minister relied on the same assumptions of fact, as follows:
+(a) in or about June 2003, the Appellant moved from Rocky Mountain House to Sylvan Lake, Alberta;
+(b) the Appellant incurred moving expenses of $17,159.00 in moving from Rocky Mountain House to Sylvan Lake;
+(c) in the 2001, 2002 and 2003 years the Appellant was employed by the Government of the Province of Alberta, operating Red Deer Regional Health Authority;
+(d) the Appellant’s work location was in Red Deer, both prior to and after the move;
+(e) the Appellant’s work location did not change during the 2003 year;
+(f) the move from Rocky Mountain House to Sylvan Lake did not enable the Appellant to be employed at a new work location or to operate a business at a new work location;
+(g) the Appellant did not relocate to Sylvan Lake to commence full-time attendance at a post-secondary educational institution;
+(h) the Appellant did not have any income from a new work location in the 2003 year;
+(i) the Appellant did not lack normal physical development and did not have a severe and prolonged mobility impairment;
+(j) the Appellant’s dwelling in Sylvan Lake was not more accessible by the Appellant than the Rocky Mountain House dwelling; and
+(k) the Appellant’s dwelling in Sylvan Lake did not allow the Appellant to be more mobile and functional than in the Rocky Mountain House dwelling.
+B. ISSUES (sic) TO BE DECIDED
+12. The issue to be decided is whether the Appellant is entitled to deduct moving expenses of $17,159.00.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+13. The Respondent relies on section 62, subsections 248(1) and paragraph 118.2(2)(1.5) of the Income Tax Act R.S.C. 1985, c.1 (5th Supp) (the “Act”).
+14. He submits that the Appellant is not entitled to moving expenses as the Appellant’s move was not in respect of an “eligible relocation” as defined in subsection 248(1) of the Act in that the Appellant did not relocate to enable her to carry on a business or to be employed and she did not relocate to commence full-time attendance at a post-secondary educational institution. The Appellant is not entitled to claim moving expenses pursuant to subsection 62(1) of the Act.
+[3] The Appellant abandoned the claim for a medical expense relating to the move during the Hearing.
+[4] Assumptions 11(a), (b), (g), (i), (j) and (k) were not refuted.
+[5] Respecting the remaining assumptions in paragraph 11:
+(c) The Appellant was an appointed officer, namely, Chair of the Red Deer Regional Health Authority (the “Region”). She was appointed to this office on March 28, 2003 to be effective from April 1, 2003 by Alberta’a Minister of Health and Wellness. (Exhibit A-1).
+(d) Effective April 1, 2003 the Region was expanded and became a new Region extending from the Saskatchewan to the British Columbia border (east-west) and from Drumheller to Drayton Valley (north-south) excluding metro Calgary and metro Edmonton. It also included the mental hospital at Ponoka. Its geographic size more than doubled.
+(e) A major part of the Appellant’s job is to travel throughout the Region and meet with a population of 300,000 and others in an area of 60,000 square kilometres and deal with their representations or complaints. She works out of Red Deer which is about 25 kilometres east of Sylvan Lake.
+(f) In fact and in law, effective April 1, 2003, the Appellant was newly appointed to a new job. She was never assured of the appointment and there were other candidates for the job. Moreover, the new Region effective April 1, 2003 was a completely different geographic entity and imposed more than double the distances which the Chair had to travel to meetings. The Appellant’s move was from Rocky Mountain House in the west centre of the new Region, about 100 kilometres west of Red Deer which is the headquarters of the Region. Red Deer was apparently the headquarters of the previous, much smaller region which the Appellant had chaired before April 1, 2003.
+(h) The Appellant was paid for each meeting which she attended and the Court finds that she had income from those meetings in 2003.
+[6] The Court finds that the Appellant was appointed to a new job on April 1, 2003. Her move from Rocky Mountain House to Sylvan Lake was an eligible relocation within the meaning defined in subsection 248(1). For this reason she is entitled to deduct her moving expenses incurred in 2003 for this move in the amount of $17,159.00.
+[7] The appeal is allowed. The Appellant is awarded the costs and disbursements respecting the appeal.
+Signed at Saskatoon, Saskatchewan, this 16th day of February 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC92
+COURT FILE NO.: 2005-1898(IT)I
+STYLE OF CAUSE: 715476 Alberta Ltd. v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 10, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: February 16, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darcie Charlton
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,131 @@
+Title: Cayouette c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27862/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-295-27862-cayouette-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-17
+
+# Cayouette c. M.R.N.
+
+- Citation: 2005 CCI 295
+- Decision date: 2005-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 337, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cayouette c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-17
+Référence neutre
+2005 CCI 295
+Numéro de dossier
+2004-4355(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4355(EI)
+ENTRE :
+FRÉDÉRIC CAYOUETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 23 mars 2005 à Bathurst (Nouveau-Brunswick)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Roland Couturier
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa (Canada), ce 17e jour de mai 2005.
+« François Angers »
+Juge Angers
+Référence : 2005CCI295
+Date : 20050517
+Dossier : 2004-4355(EI)
+ENTRE :
+FRÉDÉRIC CAYOUETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit de l’appel d’une détermination du ministre du Revenu national (le « ministre ») en date du 5 octobre 2004 à l’effet que l’appelant n’occupait pas un emploi assurable au sens de la Loi sur l’assurance-emploi (la « Loi ») au cours des périodes du 17 novembre 2002 au 6 décembre 2003 et du 2 février au 20 mars 2004, pendant lesquelles il exécutait du travail pour le compte de Roger Labonté Contracteur Général Inc. (la « payeuse »).
+[2] La payeuse exploite une entreprise dans le domaine forestier. L’appelant, de son côté, est propriétaire d’un tracteur d’une valeur de 55 000 $ et a été engagé par la payeuse pour construire des chemins dans les chantiers d’exploitation forestière. Dans leur entente, l’appelant devait fournir le tracteur nécessaire à son travail et était responsable de toutes les dépenses encourues pour le tracteur de même que des frais d’entretien et de réparation liés à son utilisation. Le taux horaire de l’appelant était de 84,00 $ en 2002 et de 86,00 $ en 2003 et 2004 pour l’utilisation de son tracteur. Cette rémunération était versée à l’appelant à chaque semaine, mais était répartie en deux chèques après déduction des montants suivants soit :
+a) un montant représentant une paye hebdomadaire de 749,70 $ pour conduire le tracteur;
+b) un montant représentant une paye de vacances de 8% soit 59,98 $;
+c) un montant d’une cotisation au RÉER appartenant de l’appelant;
+d) un montant pour l’assurance;
+e) un montant pour les frais de transport;
+f) un montant pour les frais de sécurité;
+g) la part de l’employeur des cotisations au régime de pensions du Canada;
+h) la part de l’employeur pour les cotisations d’assurance-emploi.
+[3] Le premier chèque émis à l’appelant représentait le montant net après toutes les déductions énoncées ci-haut et le deuxième représentait les montants de sa paye hebdomadaire et de vacances après les déductions normales retenues sur une paye d’un employé.
+[4] Il est admis que la payeuse n’avait pris à sa charge aucune des dépenses afférentes aux services de l’appelant et de son tracteur autre que le taux horaire de 84 $ et 86 $ l’heure. Le montant réel payé à l’appelant par la payeuse était basé sur le nombre d’heures actuellement travaillées par l’appelant avec son tracteur. Selon le registre de paye et le relevé d’emploi préparés par la payeuse, l’appelant recevait 16,66 $ l’heure pour 45 heures de travail par semaine, compte non tenu des heures réellement travaillées, plus une paye de vacances au taux de 8%. En fait, l’appelant facturait la payeuse les heures réellement travaillées à chaque semaine, lesquelles correspondaient aux heures de location du tracteur.
+[5] La payeuse n’effectuait aucun contrôle sur le nombre d’heures travaillées par l’appelant et se fiait uniquement sur les heures facturées par l’appelant pour l’usage de son tracteur. Son salaire provenait donc du taux horaire de la location du tracteur et était déduit des sommes dues pour la location. Les factures de location du tracteur étaient préparées afin de refléter cette entente. On y déduisait aussi les sommes identifiées plus haut.
+[6] L’appelant a déposé en preuve deux contrats d’emploi et deux contrats de location couvrant deux périodes différentes. Le premier contrat d’emploi et de location est daté du 10 juin 2002 et couvre la période du 10 juin 2002 au 7 février 2003 et le deuxième est daté du 9 juin 2003 et couvre la période du 9 juin 2003 au 20 mars 2004. À l’exception des dates et du taux horaire de location, les deux contrats d’emploi sont identiques, tout comme les deux contrats de location.
+[7] Dans les contrats d’emploi, il est précisé que la payeuse doit s’assurer que l’appelant est couvert par la C.S.S.I.A.T., soit la Commission de la santé, de la sécurité et de l’indemnisation des accidents au travail du Nouveau-Brunswick, pour les dommages causés dans le cadre de ses fonctions, y compris les blessures subies en faisant les réparations et l’entretien de l’équipement loué à la compagnie. Je dois noter ici que la C.S.S.I.A.T. ne couvre pas les dommages causés à un tiers par un employé dans l’exécution de ses fonctions. Le contrat précise aussi que, en cas de bris mécanique, si la payeuse a d’autres travaux à faire faire par l’appelant, celui-ci devra les effectuer en attendant que l’équipement soit réparé. Or, dans son témoignage, l’appelant a reconnu qu’il réparait lui-même son tracteur, sauf s’il s’agissait de problèmes touchant le moteur ou de la transmission. Dans ces cas là, il retirait la pièce défectueuse et l’apportait à un mécanicien pour qu’il effectue la réparation. Son salaire, durant les périodes où le tracteur subissait des réparations, provenait toujours du revenu de location du tracteur quand ce dernier est en état de fonctionner. Finalement, les modalités du contrat d’emploi sont presque mot à mot les mêmes que celles que l’on trouve dans le Bulletin d’assujettissement no 97-1 de politique d’assurance, sauf que le contrat ne fournit aucun détail sur chacune des conditions, sauf le mode de rémunération et le genre de travaux à exécuter.
+[8] Dans les contrats de location, le taux horaire de location est établi, auquel s’ajoute un horaire de 12 heures par jour et de 60 heures par semaine. La preuve soumise a démontré clairement que les heures de location par semaine variaient selon la facturation de l’appelant et non pas sur la base des contrats. Les règlements sur la constructions de chemins se lisent comme suit :
+L’opérateur-propriétaire (l’appelant) avec tracteur doit construire le chemin où le contremaître a placé ses rubans toujours sous surveillance du contremaître. Quand le chemin est terminé, le contremaître fait déménager le tracteur dans un autre secteur qui lui est déterminé. Cette opération doit être effectuée en conformité des lois et règlements sur les normes d’intervention et de toutes les lois et règlements de la province du Nouveau-Brunswick et du Gouvernement du Canada ainsi que les normes de Deniso Lebel Inc et/ou de la licence en rapport avec ses opérations.
+[9] L’appelant a déclaré être responsable des questions touchant l’environnement, mais lorsqu’il a été questionné sur les amendes ou les pénalités à payer en cas d’infraction, il a dit ne pas savoir qui serait le responsable à ce chapitre.
+[10] Dans les autres clauses du contrat, il est stipulé que font partie du matériel loué : le camion de l’appelant servant à son transport, ses outils de travail, une soudeuse, un compresseur, etc. Les pièces et le carburant sont la responsabilité de l’appelant. On y stipule également la location d’un espace de bureau dans la résidence personnelle et je présume ici qu’on veut dire celle de l’appelant pour les activités de l’entreprise et je présume encore ici qu’on fait référence à l’entreprise de l’appelant.
+[11] La clause 4 du contrat renferme les modalités suivantes :
+A) Le loueur doit fournir une assurance de responsabilité pour chaque équipement de deux millions pour la durée du contrat.
+B) Le loueur ne peut utiliser son équipement à d’autres fin à moins que le locataire en donne l’autorisation écrite au loueur.
+C) Le loueur est responsable de toute non-conformités environnementales et celles contre les principes de rendement soutenu commis par lui-même ainsi que toute autre personne sous sa responsabilité. Le loueur sera tenu responsable de réparer tout dommage à l’environnement occasionné par ces non-conformités. Le contremaître du chantier sera responsable de communiquer les non-conformités au loueur et d’en assurer la réparation. Dans le cas que les échéances de réparations ne sont pas respectées, le contracteur procédera à la réparation, et ce aux frais du loueur. Le loueur est responsable, lorsque justifiable, des pénalités si une amende est imposée par le Ministère des ressources Naturelle et de l’énergie. Exemples de non-conformités : dégâts d’huile non ramassés, opérer de l’équipement trop près d’un cours d’eau, gaspillage de fibre, déchets en forêt, sentiers de débusquage non respectés.
+D) Le Contracteur doit s’assurer que les opérations soient protégés par la C.S.S.I.A.T. dans les opérations ainsi qu’à l’entretien pour toutes les blessures et d’autres accidents qui peuvent survenir, selon les couvertures de la C.S.S.I.A.T.
+[12] L’appelant a témoigné qu’il n’était titulaire que d’un contrat d’assurance contre le feu et le vol et non d’un contrat d’assurance responsabilité. En fait, c’est la payeuse qui était la titulaire d’un tel contrat d’assurance, selon le témoin Roger Labonté.
+[13] Le contrat contient également une clause spécifiant les modalités où sont reprises, encore ici, mot à mot les modalités que l’on trouve dans le Bulletin d’assujettissement no 97-1 de politique d’assurance. À la toute fin, l’appelant reconnaît que, s’il ne travaille pas pour la payeuse, il travaille pour d’autres. L’appelant doit être membre du Syndicat canadien des Communications, de l’énergie et du Papier pour effectuer son travail.
+[14] Il s’agit donc de déterminer si, en l’espèce, il existe un véritable contrat de louage de services entre l’appelant et la payeuse. La Cour d’appel fédérale, dans l'arrêt Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] 3 C.F. 553, a fourni un guide utile pour distinguer un contrat de louage de services d'un contrat d'entreprise. La Cour suprême du Canada, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, a donné son aval à ce guide en résumant l'état du droit comme suit :
+47 Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[15] Le juge Marceau de la Cour d'appel fédérale, dans l'arrêt Charbonneau c. Canada, [1996] A.C.F. no 1337 (Q.L.), nous rappelle que les facteurs en question sont des points de repère qu'il est généralement utile de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice, qui est de rechercher la relation globale que les parties entretiennent entre elles.
+[16] Dans une décision récente, la Cour d'appel fédérale a exposé à nouveau les principes juridiques qui gouvernent la question de l'assurabilité d'un emploi. Dans Livreur Plus Inc. c. Canada, [2004] A.C.F. no 267, le juge Létourneau a résumé ces principes en ces termes aux paragraphes 18 et 19 de son jugement :
+Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, [1999] A.C.F. no 749, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D&J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 1454, 2002 FCA 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur ».
+[17] Récemment, le même juge Létourneau reprenait tous ces principes dans l’arrêt Tremblay c. Canada, [2004] A.C.F. 802, où il devait traiter de questions semblables à celle en l’espèce et en particulier de l’application du Bulletin d’Assujettissement no 97-1. Il résume très bien la raison d’être de ce bulletin en ces termes :
+Ce bulletin vise à clarifier la politique de Revenu Canada relative aux travailleurs oeuvrant dans le domaine forestier qui, en plus de leur prestation de services à un entrepreneur, louent leurs machineries lourdes à ce même entrepreneur. Le but recherché était de faciliter la détermination de l'assurabilité d'un emploi et de réduire les demandes d'assurabilité faites à Revenu Canada à l'égard de ces travailleurs.
+17 En un mot, le Bulletin que je reproduis ci-après permet à un opérateur-propriétaire d'une machinerie lourde de conclure deux contrats séparés avec un entrepreneur : un contrat de location de la machinerie et un contrat de travail que le Bulletin appelle louage de services. En principe, les ententes séparées doivent être écrites quoique celles verbales sont aussi acceptées, mais les demandes fondées sur des ententes verbales sont soumises à un examen particulier par Revenu Canada : voir aussi l'Addenda au Bulletin d'Assujettissement No. 97-1 de politique d'assurance qui confirme cela. Le contrat de location et celui d'emploi doivent respecter des conditions strictes, à défaut de quoi la demande d'assurabilité de l'emploi sera refusée :
+[18] Et plus loin, il ajoute :
+19 Au niveau du contrat de location, le Bulletin d'Assujettissement exige, à bon droit, que certaines clauses du contrat démontrent que le locataire assume le contrôle de la machinerie pour la durée de l'entente. En ce qui concerne le contrat d'emploi, celui-ci doit être distinct du contrat de location. En outre, les services de l'opérateur-propriétaire ne doivent pas être directement et exclusivement liés aux opérations de sa machinerie et l'employeur doit assumer la responsabilité pour les dommages ou blessures causés par l'opérateur dans le cadre de ses fonctions.
+[19] Il est évident que l’appelant et la payeuse, par leur façon de faire les choses, ont convenu de signer ces contrats dans le but de remplir les conditions requises pour permettre à l’appelant de devenir admissible aux prestations d’assurance-emploi conformément au Bulletin d’assujettissement no 97-1. Le but de ce bulletin est de faciliter la détermination de l’assurabilité d’un emploi et, comme l’a dit le juge Létourneau dans l’arrêt Tremblay précité, il est pertinent en ce qui concerne l’analyse de l’intention des parties quant à leurs relations contractuelles et leurs relations d’affaires.
+[20] Il est vrai, en l’espèce, que l’on trouve deux contrats, un contrat d’emploi et un contrat de location, mais il est évident, selon la preuve qui a été produite, qu’il ne s’agit pas de deux contrats distincts. Le contrat d’emploi dépend entièrement du contrat de location en ce sens que, si le tracteur ne fonctionne pas, il n’y a pas de revenu pour payer le salaire de l’appelant. En fait, non seulement le salaire de l’appelant en dépend, mais également toutes les dépenses liées à l’emploi et dont l’employeur est responsable. Les revenus de location servaient à payer les cotisations de l’employeur au régime de pensions du Canada et à l’assurance emploi, la paye de vacances et les cotisations de l’employeur à la Commission de la sécurité et des accidents au travail. Nous sommes loin ici de la norme que l’on trouve dans un contrat de louage de services où l’employeur absorbe les dépenses.
+[21] Il est évident que le relevé d’emploi et le livre de paye ne reflètent pas la réalité. L’appelant ne travaillait pas 45 heures par semaine puisqu’il travaillait le même nombre d’heures que son tracteur, et selon la facturation, ce nombre variait entre 0 et 63 heures par semaine. Il n’était payé que si son tracteur fonctionnait et, même s’il recevait un salaire hebdomadaire, cette dépense devait être soustraite de son revenu de location. En cas de bris de son tracteur, il n’y avait plus de revenu pour payer son salaire.
+[22] Dans le contrat de location, il était stipulé que l’appelant prenait à sa charge toutes les dépenses liées à son tracteur et donc tous les risques. L’appelant avait la responsabilité de l’entretien et de la réparation de tracteur. Quand on regarde ses déclarations de revenus, l’appelant prenait également à sa charge tous les frais d’exploitation tels que le carburant, l’huile et autres. Dans les contrats de location, on trouve des directives qui sont adressées à l’opérateur-propriétaire de tracteur sur le travail qu’il a à effectuer et ses responsabilités d’opérateur. Je les ai déjà reproduites au paragraphe 8. Il faut se demander ce que ces conditions font dans un contrat de location si ce n’est qu’on loue le tracteur avec un opérateur? L’appelant doit être titulaire d’un contrat d’assurance responsabilité prévoyant une couverture de deux millions de dollars pour chaque appareil. La preuve a révélé que c’est la payeuse qui était la titulaire de ce contrat d’assurance et que l’appelant lui remboursait cette dépense.
+[23] Au paragraphe 4(c) de l’entente, l’appelant assume toute la responsabilité en cas d’infractions aux normes de l’environnement ou d’amendes imposées en cas de contravention à celles-ci. Il est donc évident que l’appelant avait le contrôle de l’équipement et était responsable de son utilisation. Il s’agit ici, à mon avis, d’un contrat compatible avec celui d’un entrepreneur qui, à un taux horaire, fournit ses services et les outils nécessaires à la réalisation de travaux et qui prend à son compte les risques de pertes et les chances de profit. En soustrayant tous les frais d’exploitation, y compris ceux de la payeuse, il ne s’agit pas d’un véritable contrat de location, ni d’un véritable contrat d’entreprisee.
+[24] Il faut aussi se demander si, en l’espèce, la payeuse avait un pouvoir de contrôle sur les faits et gestes de l’appelante. À mon avis, il s’agit d’avantage d’un contrôle portant sur la qualité et sur le respect des normes environnementales.
+[25] À la lumière de ces faits et malgré la possibilité qu’offre le Bulletin d’asujettissement no 97-1 pour un opérateur-propriétaire de machinerie forestière d’exercer un emploi assurable, il m’est impossible, en l’espèce, de conclure qu’il existait entre la payeuse et l’appelant un véritable contrat de louage de service durant les deux périodes en question.
+[26] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa (Canada), ce 17e jour de mai 2005.
+Juge Angers
+RÉFÉRENCE : 2005CCI295
+Nº DU DOSSIER DE LA COUR : 2004-4355(EI)
+INTITULÉ DE LA CAUSE : Frédéric Cayouette et M.R.N.
+LIEU DE L’AUDIENCE : Bathurst (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 23 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 17 mai 2005
+COMPARUTIONS :
+Représentant de l'appelant :
+Roland Couturier
+Avocate de l'intimé :
+Me Stéphane Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

@@ -1,0 +1,142 @@
+---
+title: "Nigro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26059/index.do"
+last_modified: "2003-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 190"
+citation2: ""
+neutral_citation: "2003 TCC 190"
+decision_date: "2003-04-25"
+language: "en"
+item_id: "26059"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4054
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:14:20.077000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c21b785cce582862df6f280a0092028e8177482e0365a8e090d3cb7c67d8e090"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nigro v. The Queen
+
+- Citation: 2003 TCC 190
+- Decision date: 2003-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4054, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nigro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-25
+Neutral citation
+2003 TCC 190
+File numbers
+2000-746(IT)G
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-746(IT)G
+BETWEEN:
+SALVATORE NIGRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 19, 2003 at Toronto, Ontario
+Before: The Honourable Judge Michael J. Bonner
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrea Jackett
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1993 taxation year is dismissed with costs to the Respondent.
+Signed at Toronto, Ontario, this 25th day of April 2003.
+"Michael J. Bonner"
+T.C.J.
+Citation: 2003TCC190
+Date: 20030425
+Docket: 2000-746(IT)G
+BETWEEN:
+SALVATORE NIGRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, T.C.J.
+[1] This is an appeal from an assessment of tax and of penalty under s. 163(2) of the Income Tax Act (the "Act") for the 1993 taxation year.
+[2] During the year large amounts of money flowed through three bank accounts controlled by the appellant. Total deposits of approximately $2.7 million were made. Of that total all but $150,349 was found to have been paid out of the account to Guido Muto (Muto) or to persons selected by him. The Minister of National Revenue (the "Minister") found that the $150,349 was income of the appellant.
+[3] The appellant filed a return of income for 1993 in which he reported nil income. The Minister assessed a penalty under s. 163(2) of the Act in respect of the failure to disclose the income assessed.
+[4] The appellant's position in this appeal was that he did not receive the income assessed.
+[5] The appellant's evidence was that before 1993 he was in the travel business. He met Muto. The two "respected" each other. Muto was carrying on a travel business and an import export business. The appellant wanted to work with him. Muto asked the appellant to permit him to use the appellant's bank accounts and to assist in the conduct of Muto's business by finding investors who were prepared to lend Muto the money required to finance the businesses. In return the appellant expected to be given shares in the businesses.
+[6] I note at this point that nowhere in the evidence is there a clear and credible explanation of the reason why Muto did not open his own bank accounts. The appellant stated that he did not question Muto on the subject.
+[7] The appellant had three bank accounts. One was in his own name and was referred to in the evidence as his personal account. The other two were in the name of a proprietorship which had been registered by the appellant under the name Virgo Marketing and Sales Consultants.
+[8] The appellant testified that, in furtherance of the arrangement between him and Muto, money was deposited in the accounts and was paid out by means of blank cheques signed by the appellant and delivered to Muto for his use. As well, cash was withheld from the deposits.
+[9] The appellant said that he assisted Muto in borrowing money but that he had to stop when repayments to lenders ceased. The appellant said that the cash which was withheld from deposits and that obtained from cashing cheques was used to repay lenders. According to the appellant some lenders had advanced funds in cash and wanted to be repaid in cash. The loans made in cash were, he said, substantial in amount, $7,000 to $10,000. The appellant did not attempt to explain the preference for using cash.
+[10] The appellant testified that none of the money deposited in the accounts was for his personal use. On cross-examination he admitted that some funds were paid out of the personal account to cover his personal outlays but he said that the source of money so used was money loaned to him by his mother. It is not clear when or how that borrowed money found its way in the bank account.
+[11] The persons who loaned money to Muto did not receive promissory notes. None of the persons who were said to have made loans was called to give evidence. The appellant offered two explanations, first that he did not remember who they were and, second, that he thought they would not have come to testify.
+[12] According to the appellant no record was made to segregate deposits to his personal account between his own money and that of Muto.
+[13] Muto testified at the hearing of the appeal. In answer to leading questions asked by the appellant he confirmed that he had asked the appellant for permission to use the appellant's bank accounts; that he had made deposits and withdrawals from the accounts; that he had asked the appellant to cash cheques to repay lenders; that he did not compensate the appellant for the use of the accounts and that he promised the appellant a share in his businesses when they were "up and running". Although he was not shaken on cross-examinations his manner was guarded and I was not persuaded that he was entirely truthful.
+[14] Anna Muto, Muto's daughter, was called as a witness. She did recall that the appellant and Muto met in Muto's office. That aside, she responded to all questions by claiming that she could not recall.
+[15] The onus is on the appellant to establish on the balance of probabilities that the factual basis upon which an assessment of tax rests is in error. That burden might have been met in this case by calling credible evidence showing that all the money which flowed through the appellant's accounts was paid to or belonged to some person other than the appellant. The onus was not discharged. I do not accept the evidence of the appellant or of Muto. The story told by them was highly improbable and was not supported by any coherent written record. I formed the impression that the two sought to conceal the essence of the transactions which required the use by Muto of bank accounts held by the appellant. The appellant's story is weakened by the failure to call any of the supposed lenders to give evidence.
+[16] It seems unlikely that Muto would have used the appellant's bank accounts if he did not have something to hide. It is hard to imagine that the appellant would have collected and disbursed Muto's money without a more immediate and tangible reward than the promise of a future share in Muto's business. The appellant produced an unsigned shareholder's agreement which apparently was prepared in 1992. The document does not support the appellant's assertion that he served Mr. Muto in 1993 in the hope of earning a share in Muto's business. The Minister's action in including $150,349 on assessments was therefore not shown to be wrong.
+[17] By virtue of s. 163(3) of the Act, the burden of establishing facts justifying the assessment of the penalty is on the Minister. Here the appellant filed a return of income showing no income when in fact his income was $150,349. The failure to declare such a significant amount can hardly be attributed to ordinary negligence. In my view the appellant knowingly omitted that income from his return. The penalty is therefore warranted.
+[18] For the foregoing reasons the appeal will be dismissed with costs.
+Signed at Toronto, Ontario, this 25th day of April 2003.
+"Michael J. Bonner"
+T.C.J.
+CITATION:
+2003TCC190
+COURT FILE NO.:
+2000-746(IT)G
+STYLE OF CAUSE:
+Salvatore Nigro and H.M.Q
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 19, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge
+Michael J. Bonner
+DATE OF JUDGMENT:
+April 25, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

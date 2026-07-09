@@ -1,0 +1,192 @@
+---
+title: "Williams c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30190/index.do"
+last_modified: "2011-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 66"
+citation2: ""
+neutral_citation: "2011 CCI 66"
+decision_date: "2011-02-04"
+language: "fr"
+item_id: "30190"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7745
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:08:51.227000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6f5e148c193e7c0f9c90bc49e2a912d6056f261ad8573eb924e084233736afc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Williams c. La Reine
+
+- Citation: 2011 CCI 66
+- Decision date: 2011-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7745, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williams c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-04
+Référence neutre
+2011 CCI 66
+Numéro de dossier
+2010-2677(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-2677(IT)I
+ENTRE :
+LAURA T. WILLIAMS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 janvier 2011 à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Glenn Williams
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’appelante a droit, dans le calcul de son revenu pour 2008, à une déduction de 495 $ en vertu de l’alinéa 8(1)c) de la Loi de l’impôt sur le revenu.
+Signé à Halifax (Nouvelle‑Écosse), ce 4e jour de février 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 66
+Date : 20110204
+Dossier : 2010-2677(IT)I
+ENTRE :
+LAURA T. WILLIAMS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question à trancher dans le présent appel consiste à déterminer si un membre du clergé qui a satisfait à l’exigence concernant le statut prévue au sous‑alinéa 8(1)c)(i) de la Loi de l’impôt sur le revenu (la « Loi ») et à l’exigence concernant la fonction prévue au sous‑alinéa 8(1)c)(ii) de la Loi et qui a reçu une allocation de logement relativement à une maison louée avec son époux (ayant lui aussi droit à une déduction en application de l’alinéa 8(1)c) de la Loi), peut choisir de demander une déduction en vertu du sous‑alinéa (iii) ou du sous‑alinéa (iv) de l’alinéa 8(1)c) de la Loi.
+[2] Il n’est pas contesté en l’espèce que l’appelante était membre du clergé et qu’elle avait la charge d’une congrégation. L’appelante habitait avec son époux, lui aussi membre du clergé, qui avait également la charge d’une congrégation. En 2008, l’appelante et son époux ont reçu de leurs employeurs respectifs les montants totaux ci‑dessous au titre d’allocation de logement :
+Appelante
+Époux de l’appelante
+Allocation de logement
+19 805 $
+19 999 $
+[3] Le montant total payé par l’appelante et par son époux en 2008 pour le loyer et les services publics pour leur maison était de 20 493,87 $. Aucune partie dans cette cause n’a mentionné ou laissé entendre que le montant payé pour le loyer et les services publics ne correspondait pas à leur juste valeur marchande. Le montant total reçu par l’appelante et par son époux pour des allocations de logement était de 39 804 $ (19 805 $ + 19 999 $) pour 2008 et ce montant dépassait de 19 310 $ (39 804 $ - 20 494 $) le montant payé pour le loyer et les services publics relatifs à leur maison.
+[4] L’alinéa 8(1)c) de la Loi est ainsi libellé :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+c) lorsque le contribuable, au cours de l’année :
+(i) d’une part, est membre du clergé ou d’un ordre religieux ou est ministre régulier d’une confession religieuse,
+(ii) d’autre part :
+(A) soit dessert un diocèse, une paroisse ou une congrégation,
+(B) soit a la charge d’un diocèse, d’une paroisse ou d’une congrégation,
+(C) soit s’occupe exclusivement et à plein temps du service administratif, du fait de sa nomination par un ordre religieux ou une confession religieuse,
+le montant, n’excédant pas sa remuneration pour l’année provenant de sa charge ou de son emploi, égal :
+(iii) soit au total des montants, y compris les montants relatifs aux services publics, inclus dans le calcul de son revenu pour l’année en vertu de l’article 6 relativement à la résidence ou autre logement qu’il a occupé dans le cadre ou en raison de l’exercice de sa charge ou de son emploi, à titre de membre ou ministre qui ainsi dessert un diocèse, une paroisse ou une congrégation, a ainsi la charge d’un diocèse, d’une paroisse ou d’une congrégation ou est ainsi occupé à un service administratif,
+(iv) soit au loyer et aux services publics qu’il a payés pour son lieu principal de résidence (ou autre logement principal) qu’il a occupé habituellement au cours de l’année, ou à la juste valeur locative d’une telle résidence (ou autre logement) lui appartenant, ou appartenant à son époux ou conjoint de fait, jusqu’à concurrence du moins élevé des montants suivants :
+(A) le plus élevé des montants suivants :
+(I) le produit de la multiplication de 1 000 $ par le nombre de mois de l’année (jusqu’à concurrence de dix) au cours desquels il est une personne visée aux sous-alinéas (i) et (ii),
+(II) le tiers de sa rémunération pour l’année provenant de sa charge ou de son emploi,
+(B) l’excédent éventuel du montant visé à la subdivision (I) sur le montant visé à la subdivision (II) :
+(I) le loyer payé ou la juste valeur locative de la résidence ou du logement, y compris les services publics,
+(II) le total des montants représentant chacun un montant déduit, au titre de la même résidence ou du même logement, dans le calcul du revenu d’un particulier pour l’année provenant d’une charge, d’un emploi ou d’une entreprise (sauf un montant déduit par le contribuable en application du présent alinéa), dans la mesure où il est raisonnable de considérer que le montant se rapporte à tout ou partie de la période pour laquelle le contribuable a déduit un montant en application du présent alinéa;
+[5] Selon la thèse de l’appelante, en l’espèce, elle a le droit de choisir de demander une déduction en vertu du sous‑alinéa (iii) ou du sous‑alinéa (iv) de l’alinéa 8(1)c) de la Loi.
+[6] Le montant déductible suivant le sous‑alinéa (iv) (puisque l’appelante louait la maison) sera limité au loyer et aux services publics payés par la contribuable. D’après ce sous‑alinéa, la même limite s’appliquerait à l’époux de l’appelante. Suivant le sous‑alinéa (iv), l’appelante n’aurait pas droit à une déduction basée sur le loyer (et les services publics) payés par son époux et son époux n’aurait pas non plus droit à une déduction pour le loyer et les services publics qu’elle aurait payés. Chaque personne déterminerait sa propre déduction d’après ce qu’elle aurait payé pour le loyer et les services publics, comme le prévoit le début du sous‑alinéa (iv). Puisque l’on a permis à l’époux de l’appelante de demander une déduction de 19 999 $ en application de l’alinéa 8(1)c) de la Loi, si l’on prend pour acquis qu’il a déduit ce montant suivant le sous‑alinéa (iv), l’époux de l’appelante a dû payer 19 999 $ pour le loyer et les services publics. Si l’appelante avait payé le loyer et les services publics, alors l’époux de l’appelante n’aurait pas eu droit à une déduction de 19 999 $ suivant le sous‑alinéa (iv) puisque le montant déductible suivant ce sous‑alinéa est le montant « égal […] au loyer et aux services publics […] payés [par le contribuable] », ne dépassant pas le moindre des montants déterminés suivant les divisions (A) et (B). Puisque l’appelante ne contestait pas le fait que son époux avait le droit de déduire 19 999 $ dans le calcul de son revenu, si la disposition applicable est le sous‑alinéa (iv), alors l’époux de l’appelante a dû payer 19 999 $ en loyer et en services publics. Si l’on suppose que l’appelante a payé le solde du loyer et des services publics se chiffrant à 495 $ (20 494 $ - 19 999 $) au moyen de son allocation de logement, la déduction qu’elle demande en application du sous‑alinéa (iv) serait limitée à 495 $. Il me semble qu’il est plus probable qu’elle ait payé une partie du loyer et des services publics et je conclus qu’elle a donc payé 495 $ pour le loyer et les services publics.
+[7] Comme le début du sous‑alinéa (iv) fait référence « au loyer et aux services publics […] payés [par le contribuable] » et que la subdivision (B)(I) fait référence « au loyer payé […] y compris les services publics », il est impossible d’établir tout à fait clairement si cette seconde référence au loyer payé désigne uniquement le loyer payé par l’appelante ou si elle désigne le loyer total de la résidence, sans égard à la personne ayant payé le loyer. Il me semble que la limite prévue à la subdivision 8(1)c)(iv)(B)(I) de la Loi doit être interprétée comme si une limite était imposée en fonction du montant total payé en loyer et en services publics, aussi bien par l’appelante que par son époux, et non pas seulement en fonction du montant payé par l’appelante. Un exemple simple illustre le problème qui surviendrait si seulement le loyer (y compris les services publics) payé par l’appelante était utilisé pour déterminer le montant correspondant à la subdivision (B)(I).
+[8] En l’espèce, l’appelante et son époux ont reçu des allocations de logement de 19 805 $ et de 19 999 $ respectivement. Le montant total payé pour le loyer et les services publics était de 20 494 $. Si l’on présume que chacun d’entre eux a payé la moitié du loyer et des services publics, alors chacun aurait payé 10 247 $.
+[9] Aux fins de la détermination du montant que l’époux de l’appelante pourrait demander en application du sous‑alinéa (iv), le début de ce sous‑alinéa limiterait cette déduction au montant payé pour le loyer et les services publics, ou à 10 247 $ dans le présent exemple. D’autres limites sont prévues aux divisions (A) et (B) et la demande de l’époux serait limitée au moindre des montants suivants : 10 247 $, le montant calculé en application de la division (A) ou le montant calculé en application de la division (B) (puisque la demande de l’époux est égale au montant qu’il a payé, ce montant ne pouvant pas dépasser le moins élevé du montant correspondant à la division (A) ou du montant correspondant à la division (B)). Présumons que le montant calculé en application de la division (A) est supérieur à 10 247 $.
+[10] Aux fins de la détermination du montant correspondant à la division (B) pour l’époux de l’appelante, il ne serait pas important d’établir si le montant calculé en application de la subdivision (B)(I) correspond uniquement au loyer (y compris les services publics) payé par l’époux de l’appelante ou s’il s’agit de l’ensemble du loyer (y compris les services publics) payé relativement à la résidence puisque, dans cet exemple, le montant que l’époux de l’appelante pourrait demander serait déterminé en premier. Peu importe le montant utilisé, sa déduction demeurerait la même, soit 10 247 $.
+[11] Toutefois, pour déterminer, dans cet exemple, le montant que l’appelante pourrait déduire, il serait pertinent d’utiliser soit la portion du loyer payé par l’appelante, soit le loyer total. Si seulement le loyer (y compris les services publics) payé par l’appelante était utilisé pour déterminer le montant correspondant à la subdivision (B)(I), puisque l’époux de l’appelante avait demandé, dans cet exemple, une déduction de 10 247 $ pour la même résidence pour la même période, voici la façon dont le montant serait calculé en application de la division (B) :
+(I) Loyer payé (y compris les services publics) : 10 247 $
+Moins
+(II) Montant déduit par l’époux de l’appelante : 10 247 $
+(B) : 0
+[12] Puisque le montant que l’appelante peut déduire est limité au moins élevé du montant correspondant à la division (A) ou du montant correspondant à la division (B), le résultat de l’inclusion du montant payé par l’appelante seulement pour le loyer et les services publics dans le calcul du montant correspondant à la subdivision (B)(I) est que l’appelante n’aurait pas le droit de demander une déduction en vertu du sous‑alinéa (iv). Si, par contre, le montant inclus dans le calcul du montant correspondant à la subdivision (B)(I) était le montant total payé pour le loyer (y compris les services publics), voici comment on calculerait le montant en application de la division (B) :
+(I) Loyer payé (y compris les services publics) : 20 494 $
+Moins
+(II) Montant déduit par l’époux de l’appelante : 10 247 $
+(B) : 10 247 $
+[13] Il me semble que cela aurait été le résultat souhaité. Je ne crois pas que l’objectif était que, si les époux étaient tous les deux ministres du culte et que chacun payait la moitié du loyer et des services publics, un seul de ces individus aurait droit à une déduction de seulement la moitié du loyer et des services publics payés à l’égard de la résidence.
+[14] Par conséquent, je suis d’avis qu’en l’espèce, les montants qui figurent ci‑dessous sont ceux qui seraient calculés en application de la division (B) pour l’appelante :
+(I) Loyer payé (y compris les services publics) : 20 494 $
+Moins
+(II) Montant déduit par l’époux de l’appelante : 19 999 $
+(B) : 495 $
+[15] Puisque la déduction est limitée au moins élevé des montants correspondant à la division (A) ou du montant correspondant à la division (B), et puisque sa rémunération pour l’année tirée de son emploi était supérieure à 1 485 $, la déduction de l’appelante en application du sous‑alinéa (iv) serait limitée à 495 $.
+[16] Cependant, l’appelante soutient qu’elle a le droit de choisir de déduire 19 805 $ (le montant inclus dans son revenu en vertu de l’article 6) suivant le sous‑alinéa (iii). Je ne puis souscrire à la position de l’appelante. Il me semble que le sous‑alinéa (iii) comporte des conditions très précises. La déduction prévue à ce sous‑alinéa peut seulement être demandée pour ce qui est des « montants […] inclus dans le calcul […] [du] revenu […] relativement à la résidence […] [que le contribuable] a occupée dans le cadre ou en raison […] de son emploi. Par conséquent, la question en litige consiste à déterminer si l’appelante occupait cette résidence précise en 2008 dans le cadre ou en raison de son emploi.
+[17] Dans l’arrêt Workmen’s Compensation Board v. Boissonneault, [1977] N.B.J. No. 182, 18 N.B.R. (2d) 621, le juge en chef Hughes, de la Division d’appel de la Cour suprême du Nouveau‑Brunswick, a affirmé ce qui suit :
+[traduction]
+4 Dans Armstrong v. Redford, [1920] A.C. 757 (H.L.), l’expression « dans le cadre de son emploi » a été commentée par lord Parmoor, qui a dit ce qui suit à la p. 778 :
+La signification des mots « dans le cadre de son emploi » a été déterminée par la Cour dans Davidson v. M'Robb, [1918] A.C. 304. « Dans le cadre de l’emploi » ne signifie pas pendant la durée de l’embauche, mais pendant le travail pour lequel un travailleur est employé, ainsi que tout ce qui y est connexe.
+Dans l’arrêt Davidson v. M'Robb, lord Dunedin a dit ce qui suit au sujet de l’emploi : « Cela sous‑entend, à mon avis, l’idée que le travailleur ou l’employé fait quelque chose qui fait partie du service qu’il rend à son employeur ou à son supérieur. Il ne fait aucun doute qu’il n’est pas nécessaire qu’il s’agisse du travail en tant que tel mais, selon moi, il faut qu’il s’agisse de travail ou de ce qui y est connexe, p. ex. dans le cas du travailleur, le fait de prendre ses repas pendant les heures de travail ».
+5 Dans l’arrêt St. Helens Colliery Company Limited v. Hewitson, [1924] A.C. 59, lord Atkinson a commenté à la p. 71 : [*page 626]
+« […] un travailleur agit dans le cadre de son emploi […] lorsqu’il fait quelque chose pour s’acquitter de ses fonctions à l’endroit de son employeur, directement ou indirectement, qui lui sont imposées par son contrat de travail [...] »
+[18] Je ne crois pas que l’appelante occupait cette résidence dans le cadre de son emploi à titre de ministre du culte. À mon avis, pour occuper la résidence dans le cadre de son emploi, il faudrait qu’elle occupe la résidence pour son emploi ou comme condition d’emploi, et non seulement pendant qu’elle était employée. En l’espèce, la résidence qui était occupée par l’appelante n’avait pas été fournie par son employeur et il ne s’agissait pas non plus d’une résidence dans laquelle elle devait habiter. Il semble qu’il s’agissait seulement d’une maison dans laquelle son époux et elle avaient choisi d’habiter pendant qu’elle était employée. Par conséquent, elle n’a pas occupé la résidence dans le cadre de son emploi de ministre du culte en 2008.
+[19] Même si elle n’a pas occupé cette résidence dans le cadre de son emploi de ministre du culte en 2008, si elle occupait cette résidence en raison de son emploi comme ministre du culte, elle répond aux conditions prévues au sous‑alinéa (iii) concernant l’occupation de la résidence. Dans la décision Procureur général du Canada v. Hoefele, et al., 95 DTC 5602, le juge Linden, se prononçant au nom de la majorité des juges de la Cour d’appel fédérale, a affirmé ce qui suit :
+[…] La question qui doit être tranchée est celle de savoir si la partie du prêt hypothécaire contracté par chacun des contribuables à l’égard d’une maison à Toronto et à laquelle l’aide au paiement de l’intérêt s’appliquait a été reçue « en raison » ou « par suite » de l’emploi.
+Pour résoudre la question, il convient tout d’abord de remarquer que le paragraphe 80.4(1), qu’il s’agisse de l’ancienne ou de la nouvelle version, exige un lien étroit entre le prêt ou la dette et l’emploi, un lien beaucoup plus étroit que celui exigé à l’alinéa 6(1)a) entre l’avantage et l’emploi. Dans ce dernier cas, l’avantage peut être touché simplement « au titre » d’un emploi. L’expression « au titre [de] » n’implique qu’une relation ténue entre deux éléments et traduit l’intention du législateur de conférer une très large portée à la disposition. Dans Nowegijick c. La Reine, la Cour suprême du Canada dit ce qui suit concernant une expression équivalente à « au titre [de] » (en anglais, « in respect of ») :
+À mon avis, les mots « quant à » [« in respect of »] ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « quant à » qui est la plus large. [NOTE 19 : 1 R.C.S. 29, au part. 39, juge Dickson. Voir aussi le juge Linden, dans la décision de la Cour d’appel Blanchard.]
+Par contre, les expressions employées dans la version modifiée du paragraphe 80.4(1), « en raison » ou « par suite », de même que dans la version antérieure, « en raison », exigent un lien causal important. Je vois peu de différence de portée, et même aucune, entre « en raison ou par suite » et « en raison ». Chaque expression implique un lien causal important entre les sujets en cause, et non simplement un rapport ténu.
+[Non souligné dans l’original.]
+[20] Par conséquent, il me semble que l’expression « en raison de » du sous‑alinéa 8(1)c)(iii) de la Loi [traduction] « implique un lien causal important entre » l’occupation de la résidence et l’emploi de l’appelante. Le simple fait d’habiter dans une maison tout en étant employé ne serait pas suffisant. En l’espèce, il n’existe aucun lien causal important entre l’occupation de la maison par l’appelante et son emploi comme ministre du culte, puisque sa maison ne lui avait pas été fournie par son employeur et n’était donc qu’une maison dans laquelle l’appelante et son époux avaient choisi de demeurer. Il semble qu’elle ne faisait que vivre dans la maison alors qu’elle était employée en tant que ministre du culte et, par conséquent, elle n’occupait pas cette maison en raison de cet emploi.
+[21] Le représentant de l’appelante avait fait référence à une version précédente du formulaire T1223 F (04) publié par l’Agence du revenu du Canada, qui, au paragraphe (A) de la partie C, laisse entendre qu’une personne qui a reçu une allocation de logement n’a qu’à demander une déduction pour une telle allocation. Les calculs requis en ce qui concerne la déduction qui peut être demandée en vertu du sous‑alinéa 8(1)c)(iv) de la Loi sont établis dans la partie suivant le paragraphe (B) de la partie C de ce formulaire. Il est regrettable que le formulaire n’ait pas été plus clair; toutefois, celui‑ci ne peut changer les exigences de la Loi. Ce formulaire a été modifié en 2005 afin que la référence à la réception d’une allocation, au paragraphe (A) de la partie C soit supprimée.
+[22] Il me paraît qu’en ayant limité le montant qu’une personne pouvait déduire en vertu du sous‑alinéa (iv), si cette personne est propriétaire ou loue une résidence et que son épouse ou son époux demande aussi une déduction relativement à la même résidence, le Parlement ne peut pas avoir eu l’intention qu’une telle personne puisse ainsi contourner les limites établies par le sous‑alinéa (iv) simplement en déduisant un montant en vertu du sous‑alinéa (iii).
+[23] Par conséquent, le montant que l’appelante peut déduire doit être déterminé en vertu du sous‑alinéa 8(1)c)(iv) de la Loi et il est limité à 495 $.
+[24] L’appel est accueilli sans dépens, et l’affaire est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelante a droit, dans le calcul de son revenu pour 2008, à une déduction de 495 $ en vertu de l’alinéa 8(1)c) de la Loi.
+Signé à Halifax (Nouvelle-Écosse), ce 4e jour de février 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 22e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 66
+No DU DOSSIER DE LA COUR : 2010-2677(IT)I
+INTITULÉ : LAURA T. WILLIAMS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 20 janvier 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 4 février 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Glenn Williams
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

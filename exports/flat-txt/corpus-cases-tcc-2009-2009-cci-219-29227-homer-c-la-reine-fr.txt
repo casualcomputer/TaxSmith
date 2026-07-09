@@ -1,0 +1,264 @@
+Title: Homer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29227/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-219-29227-homer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-05-21
+
+# Homer c. La Reine
+
+- Citation: 2009 CCI 219
+- Decision date: 2009-05-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7028, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Homer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-05-21
+Référence neutre
+2009 CCI 219
+Numéro de dossier
+2007-1618(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1618(IT)G
+ENTRE :
+DAVID M. HOMER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Catherine M.C. Homer (2007-1542(IT)G) et
+d’Evelyn Leland (2007-4885(IT)G)
+le 25 février 2009, à Moncton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Dale T. Briggs
+Avocat de l’intimée :
+Me Stan W. McDonald
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu est accueilli, avec un seul mémoire de frais pour David M. Homer et Catherine M.C. Homer. La cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 29e jour de juin 2009.
+François Brunet, réviseur
+Dossier : 2007-1542(IT)G
+ENTRE :
+CATHERINE M.C. HOMER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+David M. Homer (2007-1618(IT)G) et
+d’Evelyn Leland (2007-4885(IT)G)
+le 25 février 2009, à Moncton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me Dale T. Briggs
+Avocat de l’intimée :
+Me Stan W. McDonald
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu est accueilli, avec un seul mémoire de frais pour Catherine M.C. Homer et David M. Homer. La cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 29e jour de juin 2009.
+François Brunet, réviseur
+Dossier : 2007-4885(IT)G
+ENTRE :
+EVELYN LELAND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+David M. Homer (2007-1618(IT)G) et de
+Catherine M.C. Homer (2007-1542 (IT)G)
+le 25 février 2009, à Moncton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocate de l’appelante :
+Me Susan K. Layton
+Avocat de l’intimée :
+Me Stan W. McDonald
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 29e jour de juin 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 219
+Date : 20090521
+Dossiers : 2007-1618(IT)G
+2007-1542(IT)G
+2007-4885(IT)G
+ENTRE :
+DAVID M. HOMER,
+CATHERINE M.C. HOMER,
+EVELYN LELAND,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les trois appelants ont fait l’objet de cotisations en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »), Evelyn Leland pour un montant de 22 000 $ et David et Catherine Homer pour un montant de 13 300 $. Les parties se sont entendues sur les faits qui ont donné lieu à ces cotisations dans leur exposé conjoint des faits; ces faits sont exposés ci‑dessous :
+[TRADUCTION]
+A. GÉNÉRALITÉS
+1. Nellie Isabelle Leland est décédée le 8 janvier 2000, en laissant son testament, daté du 13 octobre 1998, lequel a été enregistré au bureau d’enregistrement du comté de Charlotte, sous le no 10895697, livre 715, page 415, le 16 mars 2000.
+2. Feu Nellie Isabelle Leland a désigné Leonard James Leland, Helen McKinnon et Elinor Zetina comme exécuteurs testamentaires et de fiduciaires de sa succession.
+3. Helen McKinnon et Elinor Zetina ont renoncé à leurs droits d’administrer la succession pour les renonciations datées du 27 octobre et du 10 septembre 2000 respectivement. Leonard James Leland est l’unique exécuteur testamentaire.
+B. CATHERINE ET DAVID HOMER
+4. Pendant la période pertinente, à compter de l’acquisition, les appelants étaient copropriétaires de certains biens immeubles, situés dans la paroisse St. George, comté de Charlotte (Nouveau‑Brunswick), identifiés comme étant le lot 2002‑1, plan no 15801674, enregistré au bureau d’enregistrement du comté de Charlotte, le 11 février 2003 (la « propriété Homer »).
+5. Le 8 janvier 2000, ces appelants ont acquis la propriété Homer en vertu du testament de Nellie Isabelle Leland mentionné ci‑dessus au premier paragraphe.
+6. Avant l’acquisition par ces appelants, feu Nellie Isabelle Leland était l’unique propriétaire de la propriété Homer.
+7. Lors de l’acquisition, la juste valeur marchande de la propriété Homer était de 13 300 $.
+8. L’appelante Catherine M.C. Homer était la nièce de feu Nellie Isabelle Leland.
+9. Pendant la période pertinente, l’appelant David M. Homer était l’époux de Catherine M.C. Homer.
+10. La propriété Homer a été dévolue à ces appelants en vertu de l’article 19 de la Loi sur la dévolution des successions, L.R.N.‑B. 1973, ch. D‑9, au deuxième anniversaire du décès de feue Nellie Isabelle Leland, sans que ces appelants aient à faire quoi que ce soit.
+11. Ces appelants ont signé un acte en leur faveur à l’égard de la propriété Homer, lequel a été enregistré au bureau d’enregistrement du comté de Charlotte, sous le numéro 16462849, le 19 juin 2003.
+12. Lors de l’acquisition, la contrepartie donnée par ces appelants pour la propriété Homer était nulle.
+13. Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de ces appelants, au montant de 13 300 $, en ce qui concerne l’acquisition de la propriété Homer conformément à l’article 160 de la Loi.
+C. EVELYN LELAND
+14. Pendant la période pertinente, à compter de l’acquisition, l’appelante Evelyn Leland, était la propriétaire inscrite de certains biens immeubles situés dans la paroisse St. George, comté de Charlotte (Nouveau‑Brunswick), actuellement identifiés comme étant le lot 2002‑5 sur un plan de lotissement intitulé : « Nellie L. Leland lotissement 2002‑1 » enregistré au bureau d’enregistrement du comté de Charlotte le 11 février 2003, sous le numéro 15801625 (la « propriété Leland »).
+15. Cette appelante a acquis la propriété en vertu du testament de Nellie Isabelle Leland, mentionné ci‑dessus au premier paragraphe.
+16. La propriété Leland a été dévolue à cette appelante en vertu de l’article 19 de la Loi sur la dévolution des successions mentionnée ci‑dessus au paragraphe 11, au deuxième anniversaire du décès de feue Nellie Isabelle Leland, sans que cette appelante ait à faire quoi que ce soit.
+17. Cette appelante et son mari ont signé un acte en leur faveur pour la propriété Leland, lequel a été enregistré au bureau d’enregistrement du comté de Charlotte, sous le numéro 15714448, le 22 janvier 2003.
+18. Pendant la période pertinente, cette appelante était l’épouse de Dennis Leland.
+19. Dennis Leland, dont il est fait mention ci‑dessus au paragraphe 19, était le neveu de feu Nellie Isabelle Leland.
+20. Avant l’acquisition par cette appelante, feu Nellie Isabelle Leland était l’unique propriétaire de la propriété Leland.
+21. Lors de l’acquisition, la contrepartie donnée par cette appelante pour la propriété Leland était nulle.
+22. Le ministre a établi une nouvelle cotisation à l’égard de cette appelante, au montant de 22 000 $, en ce qui concerne l’acquisition de la propriété Leland conformément à l’article 160 de la Loi.
+[2] La juste valeur marchande (la « JVM ») du bien‑fonds (la « propriété Leland ») dans l’appel interjeté par Evelyn Leland est matière à controverse. Chaque partie a soumis une évaluation du bien transféré; je reviendrai plus tard dans les présents motifs sur la question de la valeur de ce bien‑fonds. Le total des montants que feu Nellie Leland devait payer en vertu de la Loi pour son année d’imposition 2000 ou pour toute année d’imposition antérieure a été établi par l’intimée comme étant d’au moins 34 078,92 $ à la date des actes de procédure. Le montant dû au 19 mai 2003, selon un état de compte, s’élevait à 28 577,65 $. Une copie du testament de feu Nellie Isabelle Leland a été produite en preuve.
+[3] Catherine Homer et Evelyn Leland ont témoigné à l’audience. Catherine Homer est la nièce de feu Nellie Leland, cette dernière étant la sœur de son père. Catherine Homer est née à Montréal et a déménagé à quelques reprises, mais elle réside à Riverview (Nouveau‑Brunswick) depuis 17 ans. Lorsqu’elle était plus jeune, elle voyait sa tante chaque année pendant environ deux semaines et, par la suite, d’une façon périodique, comme elle l’a dit. Au début des années 1970, elle la voyait de temps en temps pendant la fin de semaine, lorsqu’ils visitaient la famille, et par la suite elle ne voyait sa tante qu’une ou deux fois l’an, au cours de longues fins de semaine. Mme Homer a qualifié la relation qu’elle entretenait avec sa tante de typique, laquelle n'a jamais donné lieu à des discussions sur des questions personnelles. En fait, Mme Homer a témoigné n’avoir pris connaissance de la succession de sa tante qu’après le décès de celle-ci, lorsqu’elle a été informée qu’elle lui avait légué un bien‑fonds. Mme Homer admet avoir entretenu d’étroites relations avec sa tante, mais elle a été fort surprise d’apprendre qu’elle avait reçu quelque chose. Elle ne croyait pas que le bien‑fonds appartenant à sa tante devait être divisé et elle pensait que certains de ses cousins plus âgés auraient été plus susceptibles de se faire léguer cette la propriété.
+[4] Mme Homer a fait préparer un acte en sa faveur et en faveur de son mari sur les conseils de l’exécuteur testamentaire et de son avocat, après enregistrement du testament et après que la parcelle dont elle avait hérité lui eut été dévolue aux termes de la Loi sur la dévolution des successions.
+[5] Evelyn Leland est l’épouse de Dennis Leland, qui est le neveu de feu Nellie Leland. Evelyn Leland s’est mariée avec Dennis au mois d’avril 1979; ils vivent dans le sud du Maryland, aux États‑Unis. Mme Leland et son mari rendaient visite à cette tante une fois l’an, et parfois tous les deux ans, chaque fois pour des périodes de deux semaines. Ils restaient chez cette tante au cours de ces visites. Mme Leland et son mari entretenaient des rapports étroits avec elle, et le mari de Mme Leland était fort attaché à sa tante.
+[6] Evelyn Leland ne savait rien de la situation financière de la tante de son mari ou de la source de son revenu, si ce n’est qu’elle était infirmière et qu’elle était propriétaire d'une maison. Elle n’était pas au courant des dettes de la tante de son mari, mais elle admet que son mari parlait à sa tante de questions d'argent. Elle n’a personnellement jamais eu de discussions avec la tante de son mari au sujet de ses biens. La tante a demandé à son mari s’il voulait la maison et le bien‑fonds et il a répondu que d’autres personnes devraient peut‑être les obtenir. Mme Leland a uniquement été mise au courant de son legs lors de la lecture du testament et elle a été surprise d’apprendre que non seulement elle était légataire, mais aussi que la propriété devait être divisée, étant donné que d’autres lots étaient également légués. Elle n’était au courant que d'une chose : la tante de son mari avait envisagé de donner la propriété à son mari; ils n’ont été mis au courant du legs qu’après le décès de la tante.
+[7] Pour que l’article 160 s’applique, quatre conditions doivent être réunies :
+1. il doit y avoir transfert de bien;
+2. il ne doit pas y avoir de contrepartie donnée par le bénéficiaire à l’auteur du transfert, ou la contrepartie doit être insuffisante;
+3. l’auteur du transfert doit être redevable d’un montant envers l’Agence du revenu du Canada en vertu de la Loi pour l’année au cours de laquelle le bien a été transféré ou une année antérieure;
+4. l’auteur et le bénéficiaire du transfert doivent avoir entre eux un lien de dépendance.
+[8] Les appelants soutiennent que, eu égard aux circonstances de la présente affaire, ils ne sont pas bénéficiaires du transfert étant donné que les biens en question ne leur ont pas été transférés par l’exécuteur testamentaire. Ces biens leur ont plutôt été dévolus en application de la Loi sur la dévotion des successions du Nouveau‑Brunswick, et les actes que les appelants ont rédigés en leur faveur ne faisaient pas d’eux des bénéficiaires du transfert étant donné que ces actes ont été signés et enregistrés après que les biens en question leur eurent été dévolus en application de la Loi sur la dévotion des successions. Ils soutiennent également qu’ils n’avaient aucun lien de dépendance avec la testatrice étant donné qu’ils ne sont pas unis à celle‑ci par les liens du sang. Enfin, ils soutiennent qu’aucune fiducie n’existait ou n’avait validement été constituée étant donné que les biens en cause leur ont été légués irrévocablement ou sans aucune condition. Les appelants soutiennent en outre que, s’il existait une fiducie, ils n’avaient aucun lien de dépendance avec celle-ci.
+[9] Selon l’intimée, il y a eu transfert des biens par le testament de la testatrice. Elle ajoute que les appelants et la succession de feu Nellie Isabelle Leland sont réputés avoir entre eux un lien de dépendance aux termes de l’alinéa 251(1)b) de la Loi, de sorte que toutes les conditions du paragraphe 160(1) de la Loi sont réunies.
+[10] La Cour est appelée à trancher trois questions dans les présents appels. Y a‑t‑il eu transfert des biens aux appelants et par qui? Dans l’affirmative, y avait-il un lien de dépendance entre l’auteur et les bénéficiaires du transfert et, dans l’affirmative, quelle est la juste valeur marchande de la propriété Leland?
+[11] Selon le paragraphe 160(1) de la Loi, le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement de l’impôt ou de la partie de l’impôt que l’auteur du transfert doit payer en vertu de la Loi. La disposition pertinente se lit comme suit :
+Transfert de biens entre personnes ayant un lien de dépendance.
+(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance.
+[12] Dans l’arrêt Biderman et al. v. The Queen, 2000 DTC 6149, la Cour d’appel fédérale a résumé en ces termes l’objet du paragraphe 160(1) de la Loi, au paragraphe 37 :
+[...] L’article 160 de la Loi est une disposition anti‑échappatoire concernant les transferts. Son but est « d’empêcher un contribuable de faire échec à la réclamation par le ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle ». Il ne s’applique qu’une fois que la responsabilité fiscale, quelle qu’elle soit, et non pas uniquement pour les gains en capital, a été établie. Il traite du recouvrement effectif des impôts et élargit la gamme des personnes à qui Revenu Canada peut les réclamer. [...]
+[13] Le jour où Nellie Isabelle Leland est décédée, ses biens ont été dévolus à l’exécuteur testamentaire et au fiduciaire qu’elle avait désigné dans son testament. Peter W. Hogg, Joanne E. Magee et Jinyan Li, dans l’ouvrage intitulé Principles of Canadian Income Tax Law, 4e éd. (Toronto : Carswell, 2002), chapitre 17, décrivent le processus en ces termes, à la page 510 :
+[TRADUCTION]
+Il y a fiducie lorsque la gestion et le contrôle de biens sont dévolus à des personnes (les « fiduciaires ») alors que la jouissance des biens est dévolue à d’autres personnes (les « bénéficiaires »). Normalement, les formes juridiques par lesquelles ce partage entre la gestion et la jouissance d’un bien est effectué sont les suivantes : le titre légal des biens de la fiducie est détenu par le fiduciaire, alors que le titre en equity (ou le titre bénéficiaire) des biens de la fiducie est détenu par le bénéficiaire. Normalement, dans la mesure où il y a disjonction du titre légal et du titre bénéficiaire, il y a fiducie.
+[14] Les auteurs définissent la fiducie testamentaire ainsi, à la page 511 :
+[TRADUCTION]
+[...] Une fiducie testamentaire est une fiducie qui a été constituée « par suite [du] décès d’un particulier » (paragraphe 108(1)). La plupart des fiducies testamentaires sont créées par testament, lequel bien sûr ne prend effet qu’au moment du décès du testateur ou de la testatrice (qui est le disposant).
+[...]
+La fiducie testamentaire découle du décès du contribuable et les stipulations de la fiducie testamentaire sont généralement énoncées dans le testament du contribuable. Toutefois, la Loi de l’impôt sur le revenu (la « Loi ») ne fait pas de distinction entre la « fiducie » et la « succession », ce qui donne parfois lien également à une certaine confusion; le terme « fiducie » désigne les deux (paragraphe 104(1)). Aux fins de la Loi, il importe peu de savoir si celui qui administre des biens pour d’autres le fait à titre de représentant personnel (fiduciaire successoral) ou à titre de fiduciaire.
+[15] Les auteurs expliquent la notion de succession en ces termes, aux pages 511 et 512 :
+[TRADUCTION]
+Qu’est‑ce qu’une succession? Lorsqu’une personne décède, son actif et son passif constituent la succession du défunt. La succession du défunt est transmise au représentant personnel (ou au représentant légal, soit l’expression employée dans la Loi). En droit des successions, le représentant personnel est désigné par l'expression "fiduciaire successoral". Le fiduciaire successoral est la personne qui est désignée par le testament du défunt, ou par le tribunal si le défunt n’a pas laissé de testament (s’il est décédé ab intestat) ou si le testament du défunt ne désigne pas de fiduciaire successoral ou encore si le fiduciaire successoral désigné refuse d’agir à ce titre. Le représentant personnel est chargé d’administrer la succession du défunt (et notamment de faire l’inventaire des actifs et de les rassembler, de rembourser les dettes, de produire les déclarations de revenus et de payer les impôts, de payer les frais funéraires et les frais d’administration et, d’une manière générale, de mettre la succession en état aux fins de distribution des biens aux personnes qui y ont droit selon les stipulations du testament [...]).
+Si le défunt est décédé ab intestat, ou si le testament prévoit la distribution immédiate des biens du défunt, l'intervention finale du représentant personnel consiste à distribuer les biens aux bénéficiaires de la succession. Cependant, si le testament institue une fiducie (auquel cas, on parle d’un testament portant fiducie), l'intervention finale du représentant personnel consiste à transférer les actifs donnés en fiducie à la personne qui est désignée comme fiduciaire par le testament. Par la suite, le fiduciaire détiend les actifs en fiducie pour les bénéficiaires désignés par le testament. En pratique, c’est souvent les mêmes personnes qui sont désignées dans le testament comme fiduciaires successoraux et de fiduciaires d’une fiducie particulière créée par le testament. En pareil cas, au moment où ces personnes ont achevé la liquidation de la succession, elles cessent d’être des fiduciaires successoraux administrant une succession et elles deviennent fiduciaires. Il est souvent difficile de déterminer à quel moment se produit cette transformation mystérieuse, mais il est rarement nécessaire de le faire parce qu’il y a si peu de différences entre le représentant personnel et le fiduciaire que la question de savoir si l'intéressé agit à titre de représentant personnel ou plutôt à titre de fiduciaire ne se pose habituellement pas. Aux fins de l’impôt, la définition d’une fiducie englobe une succession (paragraphe 104(1)), de sorte que la distinction subtile entre la succession et la fiducie a rarement une incidence sur le plan fiscal.
+[16] Les mêmes auteurs expliquent en ces termes les cas dans lesquels la fiducie est instituée, à la page 518 :
+[TRADUCTION]
+En cas de décès, le contribuable est réputé avoir disposé, immédiatement avant son décès, de chacune de ses immobilisations et avoir reçu de leur disposition un produit égal à leur juste valeur marchande (alinéa 70(5)a)). Tout gain en capital imposable en résultant (ou toute perte en capital déductible) doit être comptabilisé à titre de revenu (ou de perte) du défunt pour la période d’imposition qui a pris fin à son décès (l’année finale du défunt). La succession est donc réputée avoir acquis les biens du défunt au coût égal à leur juste valeur marchande. Ces règles s’appliquent à toutes les immobilisations du défunt, et notamment aux biens laissés en fiducie.
+[17] Il est judicieux de citer un autre extrait d'un autre ouvrage doctrinal, en particulier en ce qui concerne la distinction entre la fiducie et la succession. Larry H. Frostiak, John E.S. Poyser et Grace Chow, dans l’ouvrage intitulé Practitioner’s Guide to Trusts, Estates and Trust Returns, édition 2007‑2008 (Toronto : Thomson Carswell, 2007), pages 16 à 18, font les observations suivantes :
+[TRADUCTION]
+La fiducie n’est pas assimilable à une succession. Le représentant personnel de la succession acquiert le titre afférent aux biens du défunt et il est obligé de s’occuper de ces biens en agissant de bonne foi, à peu près comme le fiduciaire, mais il n'y a démembrement de la propriété, qui est l’une des caractéristiques d’un rapport fiduciaire. Le bénéficiaire de la fiducie détient le titre en equity à l’égard des biens de la fiducie, alors que le fiduciaire détient le titre légal y afférent. Toutefois, le bénéficiaire de la succession n'a pas, en règle générale, de droit à titre de bénéficiaire sur les actifs pendant que ceux‑ci sont administrés et font partie de la succession.
+Le moment où le titre bénéficiaire est transmis peut être important. En général, les bénéficiaires du reliquat n’ont pas de droit, à titre bénéficiaire, sur les actifs dont est composé le reliquat tant que les dettes ne sont pas établies et remboursées, et donc tant que le reliquat n'est pas déterminé, ni sur les biens particuliers faisant partie du reliquat tant que ces biens ne leur sont pas « attribués » ou assignés. Le titre bénéficiaire peut être transmis plus tôt dans le cas d’un legs précis ou lorsque le reliquat n’est dû qu’à un seul bénéficiaire. Lorsqu’une loi vise un cas précis et qu’elle est réputée prévoir une dévolution immédiate ou à bref délai, cette loi s’applique. Le moment précis où le titre bénéficiaire est transmis peut être crucial en matière de dévolution irrévocable, comme ce pourrait être le cas lorsque l’on demande le traitement fiscal à titre de fiducie testamentaire en faveur du conjoint, ou lorsqu’il y a des réclamations de la part de créanciers, lesquelles ne seront imputées aux actifs de la succession qu’au moment où le débiteur‑bénéficiaire en aura le titre bénéficiaire.
+Les fonctions du fiduciaire et du représentant personnel de la succession sont très semblables, mais elles ne sont pas identiques. La législation provinciale encadrant les fiduciaires vise souvent les représentants personnels sous la rubrique « fiduciaire », mais elle ne donne pas à ces termes la même portée. La distinction peut être importante :
+Aux fins de certaines lois, on a tendance à assimiler l’exécuteur testamentaire ou les autres représentants personnels au fiduciaire, mais les fonctions des fiduciaires et des représentants personnels sont généralement fort différentes, et il peut régner énormément de confusion si, indépendamment des textes législatifs, les représentants personnels sont considérés comme détenant les actifs d’une succession à titre de fiduciaires. Les fiduciaires sont chargés de la garde et de la gestion des actifs au profit des bénéficiaires de la fiducie; par contre, la principale responsabilité du représentant personnel consiste à liquider la succession du défunt en rassemblant les biens de celui‑ci et en réglant toutes les réclamations qui sont faites contre elle.
+La succession et la fiducie sont deux choses différentes, mais dans bien des cas, le testament stipule qu’il faut établir une fiducie qui détiendra tout ou partie des actifs de la succession après que la succession en tant que telle aura été liquidée. Dans les testaments où cette intention n’est pas clairement exprimée, il peut être difficile de déterminer la date à laquelle la succession prend fin et celle où la fiducie prend naissance, en particulier si les représentants personnels de la succession et les fiduciaires de la fiducie se confondent.
+[18] Cela dit, il est juste de dire que, en l'espèce, les biens en question ont été dévolus au fiduciaire et représentant personnel de la succession à la suite du décès de Nellie Isabelle Leland et que ces biens n’étaient pas assujettis à quelque transfert de la part du fiduciaire et représentant personnel aux fins de l’administration de la succession. En fait, les biens ont été finalement dévolus aux divers appelants peu application des dispositions de l’article 19 de la Loi sur la dévolution des successions du Nouveau‑Brunswick, L.R.N.‑B., 1973, ch. D‑9, dont voici le texte:
+Dévolution de biens non aliénés par le représentant. L’argent et les sûretés en garantie de sommes d’argent jusqu’à concurrence de deux mille cinq cents dollars, les « personal chattels » ou les biens réels qui n’ont pas été aliénés par les représentants personnels ou transférés aux ayants droit bénéficiaires ou divisés ou partagés entre eux dans les deux années de la date du décès, que l’homologation ou les lettres d’administration aient ou n’aient pas été obtenues, sont, à compter de cette date, dévolus aux ayants droit bénéficiaires en vertu du testament ou du fait de la succession ab intestat, ou à leurs ayants droit, sans qu’il y ait lieu à transfert par les représentants personnels.
+[19] Les biens en question ont donc été dévolus aux personnes qui en avaient le titre bénéficiaire (c’est‑à‑dire les appelants) sans qu’il y ait eu transfert de la part du fiduciaire ou du représentant personnel de la succession. Dans l’arrêt Harris v. Harris, [1991] A.N.‑B. no 574 (QL), la Cour du Banc de la Reine du Nouveau‑Brunswick a statué que les pouvoirs que l’exécuteur testamentaire avait implicitement aux termes du testament, ou aux termes de la Loi sur la dévolution des successions, de vendre les biens afin de distribuer les actifs de la succession expirait au deuxième anniversaire du décès du défunt à moins que le testament ne prévoie expressément ou implicitement que l’exécuteur testamentaire continuait à détenir le titre y afférent après cette période de deux ans. Voici le passage pertinent de l’arrêt Harris :
+[TRADUCTION]
+Dans Re Anthony’s Will (1977), 17 N.B.R. (2d) 364, le testament autorisait expressément le fiduciaire successoral à vendre et à convertir, ou à conserver le reliquat de la succession, ou à reporter la conversion de ce reliquat. Le juge Stratton a conclu que l’article 19 de la Loi ne modifiait pas ces pouvoirs et que les biens immeubles n’avaient pas été dévolus aux bénéficiaires aux termes de cette disposition. Dans la décision Becker v. Cleland’s Estate (1979), 25 N.B.R. (2d) 328, le juge en chef Hughes a cité cette jurisprudence. Il a signalé que le juge Stratton avait suivi des jurisprudences de l’Ontario dans lesquelles étaient en cause des dispositions législatives différentes. Même en faisant abstraction de ces dispositions, il était d’avis que lorsque le testament prévoit la dévolution du titre afférent à la succession en faveur des exécuteurs testamentaires en des termes qui, expressément ou implicitement, indiquent que ceux‑ci doivent conserver le titre après la période fixée par la loi, la disposition législative retirant le titre à l’expiration de la période de deux ans est inopérante et les exécuteurs testamentaires peuvent continuer à détenir le titre même si cette période est expirée.
+Or, aucune stipulation du testament de Mme Harris ne prévoit expressément ou implicitement que l’exécuteur testamentaire conserve le titre après la période de deux ans. Même au cours de cette période, toute vente conclue par l’exécuteur testamentaire aux fins de distribution aurait été visée par les articles 9 et 10 de la Loi et n’aurait pas été valide en ce qui concerne les bénéficiaires, à moins que ceux‑ci n’y aient consenti.
+Je conclues donc que les pouvoirs que l’exécuteur testamentaire de la succession avait, implicitement en vertu du testament ou en vertu de la Loi, de vendre les biens aux fins de la distribution des actifs de la succession ont pris fin au deuxième anniversaire du décès de Mme Harris, soit le 29 juin 1990.
+[20] En l’espèce, rien n'indique que le testament de feu Nellie Isabelle Leland prévoyait expressément ou implicitement que le fiduciaire conserverait le titre au bout de deux ans. Par conséquent, au deuxième anniversaire du décès de feu Nellie Isabelle Leland, les biens ont été dévolus d’une façon irrévocable aux divers appelants aux termes de la Loi sur la dévolution des successions. Je suis d'avis que c’est à ce moment que le transfert a eu lieu.
+[21] Vu cette conclusion, je dois maintenant rechercher qui est l’auteur du transfert eu égard à ces circonstances? La réponse a une grande importance lorsqu’il s’agit d’établir s'il y avait entre l’auteur et le bénéficiaire du transfert un lien de dépendance. Le paragraphe 251(1) de la Loi définit l’expression « lien de dépendance » ainsi :
+Lien de dépendance.
+(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) un contribuable et une fiducie personnelle (sauf une fiducie visée à l’un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1)) sont réputés avoir entre eux un lien de dépendance dans le cas où le contribuable, ou une personne avec laquelle il a un tel lien, aurait un droit de bénéficiaire dans la fiducie si le paragraphe 248(25) s’appliquait compte non tenu de ses subdivisions b)(iii)(A)(II) à (IV);
+c) en cas d’inapplication de l’alinéa b), la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[22] L’intimée convient que l’alinéa 251(1)a) n'est pas applicable en l'espèce. Elle se fonde plutôt sur la disposition déterminative figurant à l’alinéa 251(1)b). Pour que l’alinéa 251(1)b) soit applicable, l’auteur du transfert doit être la fiducie testamentaire ou la succession, la fiducie et la succession étant assimilées l’une à l’autre en vertu du paragraphe 104(1) de la Loi. Toutefois, si les biens sont dévolus irrévocablement aux bénéficiaires du transfert (les appelants) aux termes de la Loi sur la dévolution des successions, de sorte que les pouvoirs conférés à l’exécuteur testamentaire, au représentant personnel ou au fiduciaire successoral ont peut‑être pris fin au deuxième anniversaire du décès de Nellie Isabelle Leland, on ne saurait dire, à mon avis, que l’auteur du transfert est la fiducie ou la succession. Étant donné qu’aucune stipulation du testament de Nellie Isabelle Leland ne prévoit expressément ou implicitement que l’exécuteur testamentaire ou le fiduciaire continue à détenir le titre (légal) à la fin de la période de deux ans, les dispositions de la Loi sur la dévolution des successions retirent aux exécuteurs testamentaires, aux représentants personnels et aux fiduciaires le titre légal qu’ils détenaient à l’égard des biens, et tous leurs pouvoirs ont donc pris fin. À mon avis, on ne saurait dire que la fiducie ou la succession est partie au transfert des biens. Cela dit, la présomption de établie l’alinéa 251(1)b) n'est pas applicable.
+[23] En l’espèce, il serait possible de soutenir que l’auteur du transfert est feu Nellie Isabelle Leland, mais il est constant qu’elle n’était pas liée aux appelants au sens de la définition des personnes liées figurant dans la Loi et, par conséquent, la présomption énoncée à l’alinéa 251(1)a) n'est pas applicable. Vu les circonstances, l’article 160 n'est pas applicable en l'occurrence, étant donné qu’il est impossible de conclure que, entre l’auteur et le bénéficiaire du transfert, il y avait un lien de dépendance.
+[24] L’intimée se fonde également sur l’alinéa 251(1)c) pour soutenir qu'il y avait entre l’auteur et le bénéficiaire du transfert un lien de dépendance. Selon cette disposition, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait. Il faut donc déterminer ce moment particulier si l'on veut suivre certains des critères que la jurisprudence a généralement retenus pour établir si des personnes non liées entre elles n’ont aucun lien de dépendance.
+[25] En l'occurrence, il y a à mon avis trois moments particuliers concevables : a) le moment où le testament a été rédigé; b) le moment du décès de Nellie Isabelle Leland, qui est celui où le testament prend effet; ou c) le moment où les biens ont été dévolus, c’est‑à‑dire au deuxième anniversaire du décès de Nellie Isabelle Leland. Étant donné les critères à suivre, le réalisme dicte la conclusion: le moment en question est celui où le testament a été rédigé; or, rien n'indique que l’un ou l’autre des appelants ait alors exercé une influence sur feu Nellie Isabelle Leland.
+[26] Vu ces éléments, je suis endroit d'accueillir les appels et d’annuler les cotisations dont les appelants ont fait l’objet. Bien que cela ne soit pas nécessaire, j’aborderai néanmoins la question de la JVM de la propriété Leland. Chaque partie a produit une évaluation d'expert de cette propriété. Or, aucun de ces experts n’a été cité à témoigner à l’audience. Selon l’expert des appelants, la JVM de la propriété est de 9 645 $, alors que selon l’expert de l’intimée, elle est de 22 000 $.
+[27] La propriété Leland est une parcelle de terrain vacant, d’une superficie de 18 acres en tout; elle est située du côté nord du chemin Mascarene, comté de Charlotte (Nouveau‑Brunswick). Le bien‑fonds est décrit comme un terrain déboisé extrêmement marécageux. Selon l’évaluation de la propriété aux fins de l’impôt, le terrain valait 13 500 $ au mois de novembre 2004. Le rapport préparé par l’évaluateur des appelants est bien mieux documenté que le rapport produit par l’intimée et il est étayé de comparables, puisqu’il avait été conclu que la méthode des comparables était celle qu’il convenait d’employer dans ce cas‑ci. L’évaluateur des appelants avait initialement évalué la propriété à 14 000 $, mais ce montant a par la suite été ramené à 9 645 $ à la suite de certains rajustements. Le rapport de l’intimée est moins détaillé, l’évaluateur de l’intimée s’étant fondé sur des renseignements obtenus au moyen d’une inspection faite depuis la route, de photographies aériennes et de plans provinciaux, ainsi que sur des renseignements relatifs à l’évaluation, lesquels, dans ces conditions, semblent tous beaucoup moins fiables.
+[28] La date de l’évaluation des appelants était le 30 novembre 2004. La date de l’évaluation de l’intimée était le 19 juin 2003, et l’évaluation aux fins de l’impôt foncier avait été établie au mois de février 2003. La date du transfert était le 8 janvier 2002, soit deux ans après le décès de Nellie Isabelle Leland. Je conclus que l’évaluation aux fins de l’impôt foncier et l’évaluation des appelants étaient les plus fiables et les plus probables. Je conclus donc que la JVM de la propriété Leland était de 11 500 $ au moment du transfert. Je réduirais de moitié le montant de la cotisation dont l’appelante Evelyn Leland a fait l’objet puisque celle-ci a reçu un droit pour la moitié seulement sur la propriété Leland, qui avait été transférée à elle et à son mari.
+[29] Les appels sont accueillis, avec un mémoire de frais pour Catherine et David Homer et un mémoire de frais pour Evelyn Leland.
+Signé à Ottawa, Canada, ce 21e jour de mai 2009.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 29e jour de juin 2009.
+François Brunet, réviseur
+RÉFÉRENCE : 2009 CCI 219
+Nos DES DOSSIERS DE
+LA COUR : 2007-1618(IT)G, 2007-1542(IT)G,
+2007-4885(IT)G
+INTITULÉS : David M. Homer c. SMR
+Catherine M.C. Homer c. SMR
+Evelyn Leland c. SMR
+LIEU DE L’AUDIENCE : Moncton (Nouveau‑Brunswick)
+DATE DE L’AUDIENCE : Le 25 février 2009
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 21 mai 2009
+COMPARUTIONS :
+Avocat des appelants
+David M. Homer et Catherine M.C. Homer :
+Avocate de l’appelante Evelyn Leland :
+Me Dale T. Briggs
+Me Susan K. Layton
+Avocat de l’intimée :
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants
+David M. Homer et
+Catherine M.C. Homer :
+Nom : Dale T. Briggs
+Cabinet : Cox & Palmer
+Moncton (Nouveau‑Brunswick)
+Pour l’appelante
+Evelyn Leland :
+Nom : Susan K. Layton
+Cabinet : Clark Drummie
+Saint John (Nouveau‑Brunswick)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

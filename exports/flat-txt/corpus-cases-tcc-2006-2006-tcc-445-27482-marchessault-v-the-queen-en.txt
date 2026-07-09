@@ -1,0 +1,183 @@
+Title: Marchessault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27482/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-445-27482-marchessault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-08-18
+
+# Marchessault v. The Queen
+
+- Citation: 2006 TCC 445
+- Decision date: 2006-08-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 41, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marchessault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-18
+Neutral citation
+2006 TCC 445
+File numbers
+2005-2725(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2725(IT)I
+BETWEEN:
+JACQUES V. MARCHESSAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 30, 2006, at Montreal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2003 taxation year is allowed without costs and the assessment under appeal is referred back to the Minister for reconsideration and reassessment on the basis that the appellant's tax liability for the 2003 taxation year arising from income earned by, or accrued to, him on or before the proposal for protection from bankruptcy was filed on May 20, 2003, shall be governed by the terms of the proposal and be assessed separately from the income earned by, and accrued to, him after the proposal, which income shall be dealt with in a post-proposal assessment.
+Signed at Montreal, Quebec, this 18th day of August 2006.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2006TCC445
+Date: 20060818
+Docket: 2005-2725(IT)I
+BETWEEN:
+JACQUES V. MARCHESSAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal concerning the appellant's 2003 taxation year. On May 20, 2003, the appellant filed a proposal for protection from bankruptcy, which was ratified by the Quebec Superior Court on July 10, 2003. The appellant met his obligations under the proposal and so never filed for personal bankruptcy during the 2003 taxation year. The appellant sought to split the 2003 taxation year into two distinct periods: pre-proposal and post-proposal. To that end he filed two income tax returns: the pre-proposal return and the post-proposal return. The Minister of National Revenue ("Minister") only assessed one income tax return for the 2003 taxation year, thus refusing to assess the post-proposal return. The appellant objects and asks that the Minister assess both the pre-proposal return and the post-proposal return as filed, so that any tax liability arising from income earned by him on or before the date of the proposal (May 20, 2003) will be governed by the terms of the proposal and the Canada Customs and Revenue Agency ("CCRA" as it then was) will be barred from pursuing any remedy relating to income earned by, or accrued to, the appellant before that date.
+[2] The Minister submits that, since the appellant was not a bankrupt at any time during the 2003 taxation year, he was correct in refusing to assess the post-proposal return, as there are no provisions in the Income Tax Act ("ITA") that oblige the Minister to assess such returns.
+[3] The appellant, on the other hand, argues that subsection 128(2) of the ITA, which specifically provides for a deemed year-end in cases of bankruptcy, should apply equally in cases of proposals to creditors. In support of this submission the appellant cites two cases, one decided by the Ontario Superior Court of Justice and one by the Quebec Court of Appeal, namely: Gollner v. CCRA, 2003 DTC 5608, [2004] 1 C.T.C. 254 (Ont. Sup. Ct. J.), and Bernier (Syndic) c. MRQ, [2000] R.D.F.Q. 7.
+Preliminary Remark
+[4] The respondent raised the question of this Court's jurisdiction with respect to this appeal. The Tax Court of Canada ("TCC") has jurisdiction over appeals against income tax assessments. A court having jurisdiction under the Bankruptcy and Insolvency Act ("BIA") has jurisdiction to make a declaratory order splitting the taxation year in two in the case of a proposal, but not to determine the actual amounts owing under each resulting assessment: that falls under the exclusive jurisdiction of the TCC (see Gollner and Bernier, supra).
+[5] In Roper v. The Queen, 2000 DTC 2213, [2000] 3 C.T.C. 2437 (TCC), Judge Mogan said the following at paragraph 10:
+When a taxpayer appeals to this Court from an assessment under the Income Tax Act, the Court has jurisdiction to consider and decide all issues which are collateral to the appeal itself. In this appeal, the presiding judge may have to decide whether a certain liability of the Appellant has been extinguished under the Bankruptcy and Insolvency Act if that precise question has not already been decided by a court having jurisdiction in bankruptcy matters.
+[6] Thus, if a court of competent jurisdiction in BIA matters has not already decided the issue, the TCC has jurisdiction to decide non-tax issues incidental to the tax appeal. Such is the case in this appeal.
+Law
+[7] The relevant statutory provisions are the following:
+Income Tax Act
+128 (2) Where individual bankrupt. Where an individual has become a bankrupt, the following rules are applicable:
+. . .
+(d) except for the purposes of subsections 146(1), 146.01(4) and 146.02(4) and Part X.1,
+(i) a taxation year of the individual is deemed to have begun at the beginning of the day on which the individual became a bankrupt, and
+(ii) the individual's last taxation year that began before that day is deemed to have ended immediately before that day;
+248 (1) "bankrupt" has the meaning assigned by the Bankruptcy and Insolvency Act;
+Taxation Act, R.S.Q., c. I-3.
+779. Taxation year of a bankrupt -- Except for the purposes of sections 752.0.2, 752.0.7.1 to 752.0.10, and 752.0.11 to 752.0.13.0.1, Title VII of Book V, sections 935.4 and 935.15 and Divisions II.11.1 and II.12.1 to II.19 of Chapter III.1 of Title III of Book IX, the taxation year of a bankrupt is deemed to begin on the date of the bankruptcy and the current taxation year is deemed to end on the day immediately before the date of the bankruptcy.
+Bankruptcy and Insolvency Act, R.S., c. B-3
+INTERPRETATION
+Definitions
+2. In this Act,
+. . .
+"bankruptcy" means the state of being bankrupt or the fact of becoming bankrupt;
+Binding on Her Majesty
+4.1 This Act is binding on Her Majesty in right of Canada or a province.
+Determination of claims
+62 (1.1) Except in respect of claims referred to in subsection 14.06(8), where a proposal is made in respect of an insolvent person, the time with respect to which the claims of creditors shall be determined is the time of the filing of
+(a) the notice of intention; or
+(b) the proposal, if no notice of intention was filed.
+. . .
+On whom approval binding
+(2) A proposal accepted by the creditors and approved by the court is binding on creditors in respect of
+(a) all unsecured claims, and
+(b) the secured claims in respect of which the proposal was made and that were in classes in which the secured creditors voted for the acceptance of the proposal by a majority in number and two thirds in value of the secured creditors present, personally or by proxy, at the meeting and voting on the resolution to accept the proposal,
+but does not release the insolvent person from the debts and liabilities referred to in section 178, unless the creditor assents thereto.
+. . .
+Stay of proceeding - notice of intention
+69. (1) Subject to subsections (2) and (3) and sections 69.4 and 69.5, on the filing of a notice of intention under section 50.4 by an insolvent person,
+(a) no creditor has any remedy against the insolvent person or the insolvent person's property, or shall commence or continue any action, execution or other proceedings, for the recovery of a claim provable in bankruptcy,
+(b) no provision of a security agreement between the insolvent person and a secured creditor that provides, in substance, that on
+(i) the insolvent person's insolvency,
+(ii) the default by the insolvent person of an obligation under the security agreement, or
+(iii) the filing by the insolvent person of a notice of intention under section 50.4,
+the insolvent person ceases to have such rights to use or deal with assets secured under the agreement as he would otherwise have, has any force or effect,
+(c) Her Majesty in right of Canada may not exercise Her rights under
+(i) subsection 224(1.2) of the Income Tax Act, or
+(ii) any provision of the Canada Pension Plan or of the Employment Insurance Act that
+(A) refers to subsection 224(1.2) of the Income Tax Act, and
+(B) provides for the collection of a contribution, as defined in the Canada Pension Plan, or an employee's premium or employer's premium, as defined in the Employment Insurance Act, and of any related interest, penalties or other amounts,
+in respect of the insolvent person where the insolvent person is a tax debtor under that subsection or provision, and
+(d) Her Majesty in right of a province may not exercise her rights under any provision of provincial legislation in respect of the insolvent person where the insolvent person is a debtor under the provincial legislation and the provision has a similar purpose to subsection 224(1.2) of the Income Tax Act, or refers to that subsection, to the extent that it provides for the collection of a sum, and of any related interest, penalties or other amounts, where the sum
+(i) has been withheld or deducted by a person from a payment to another person and is in respect of a tax similar in nature to the income tax imposed on individuals under the Income Tax Act, or
+(ii) is of the same nature as a contribution under the Canada Pension Plan if the province is a "province providing a comprehensive pension plan" as defined in subsection 3(1) of the Canada Pension Plan and the provincial legislation establishes a "provincial pension plan" as defined in that subsection,
+until the filing of a proposal under subsection 62(1) in respect of the insolvent person or the bankruptcy of the insolvent person.
+. . .
+Stay of proceedings - Division I proposals
+69.1 (1) Subject to subsections (2) to (6) and sections 69.4 and 69.5, on the filing of a proposal under subsection 62(1) in respect of an insolvent person,
+(a) no creditor has any remedy against the insolvent person or the insolvent person's property, or shall commence or continue any action, execution or other proceedings, for the recovery of a claim provable in bankruptcy, until the trustee has been discharged or the insolvent person becomes bankrupt;
+(b) no provision of a security agreement between the insolvent person and a secured creditor that provides, in substance, that on
+(i) the insolvent person's insolvency,
+(ii) the default by the insolvent person of an obligation under the security agreement, or
+(iii) the filing of a notice of intention under section 50.4 or of a proposal under subsection 62(1) in respect of the insolvent person,
+the insolvent person ceases to have such rights to use or deal with assets secured under the agreement as the insolvent person would otherwise have, has any force or effect until the trustee has been discharged or the insolvent person becomes bankrupt;
+(c) Her Majesty in right of Canada may not exercise Her rights under subsection 224(1.2) of the Income Tax Act or any provision of the Canada Pension Plan or of the Employment Insurance Act that refers to subsection 224(1.2) of the Income Tax Act and provides for the collection of a contribution, as defined in the Canada Pension Plan, or an employee's premium, or employer's premium, as defined in the Employment Insurance Act, and of any related interest, penalties or other amounts, in respect of the insolvent person where the insolvent person is a tax debtor under that subsection or provision, until
+(i) the trustee has been discharged,
+(ii) six months have elapsed following court approval of the proposal, or
+(iii) the insolvent person becomes bankrupt; and. . . .
+Analysis
+[8] In Gollner, supra, referred to by the appellant, Gollner filed a notice of intention to make a proposal to his creditors under the BIA. His main creditor was the CCRA. The proposal was accepted by the creditors and received court approval. Gollner earned professional income in the pre-proposal period and, in accordance with Directive RCD 95-07 issued by Revenue Canada on October 27, 1995, the CCRA sought to allocate the debtor's income during the year of the proposal on a pro rata basis over the calendar year. The prorating formula attributes part of the tax liability to the pre-proposal period and the rest is attributed to the post-proposal period. The deemed tax liability for the pre-proposal period is subject to the terms of the proposal, while the tax liability for the post-proposal period is not. The court found that the Directive is arbitrary in the sense that it does not take into account when the income is actually earned. In The Queen v. Simard-Beaudry Inc., [1971] F.C. 396, 71 DTC 5511 (FCTD), cited with approval in The Queen v. Wesbrook Management Ltd., 96 DTC 6590 (FCA), it is stated that tax liability is not created by an assessment, it is merely confirmed by it. Thus liability for income tax arises when income is earned, not when an assessment is issued. The court looked as well at the statutory scheme of the ITA regarding bankrupts and determined that prorating was inappropriate in the circumstances; rather, one had to look at the evidence as to when the income was actually earned. If the income was earned prior to the proposal date, the CCRA was bound by the terms of the proposal as far as pre-proposal tax liability was concerned and was barred from pursuing any remedy against the taxpayer for that pre-proposal income.
+[9] In Bernier, supra, also referred to by the appellant, Bernier filed a proposal to his creditors which was duly accepted and approved by the court. The trustee sought to split the assessment into two parts representing the pre- and post-proposal periods. The Minister, however, made one assessment for the whole year. The Superior Court, agreeing with the trustee, stated that pre-proposal tax liability is a provable claim under the BIA and ordered the Minister to divide the assessment into two parts. The Minister appealed. The Court of Appeal in upholding the decision of the Superior Court looked at the general scheme and object of the BIA with respect to proposals and stated that object to be the financial rehabilitation of the debtor and the equitable treatment of all creditors. The court concluded that section 779 of the QuebecTaxation Act (the equivalent of subsection 128(2) of the ITA), which provided for a deemed year-end in the case of bankruptcy, implicitly refers to proposals also. Therefore, the Minister should assess for two periods: pre-proposal and post-proposal. The court expressed itself in the following terms at paragraphs 43 to 45:
+[TRANSLATION]
+43. It must therefore be concluded that the term "bankruptcy" in section 779 of the Taxation Act refers implicitly to a "proposal".
+44. This conclusion would also appear to be more consonant with the objectives of the Bankruptcy and Insolvency Act. Parliament's primary aim is the financial rehabilitation of the debtor and equitable treatment of all the creditors. The exclusion of tax debts would thwart the attainment of these objectives by making it more difficult to rehabilitate the debtor and also by giving the tax department preferential treatment to the detriment of the other creditors.
+45. But that is not all. Parliament's method of choice for achieving the aforementioned objectives is the proposal, which Professor Bohémier calls the [TRANSLATION] "modern bankruptcy procedure par excellence". Parliament's intent in this regard is particularly evident in the 1992 reform of the legislation, which dealt to a considerable degree with proposals. Now, as is pointed out in the respondent's written submissions, the Deputy Minister's position would lead to the incongruous result that it would be to a debtor's advantage to declare bankruptcy rather than to make a proposal to his creditors:
+The Bankruptcy and Insolvency Act seeks to encourage the turnaround of businesses and, by that very fact, favours debtors and creditors coming to an agreement that will avoid bankruptcy through the proposal mechanism.
+To interpret the Taxation Act in such a fashion as to exclude from the proposal any debt owed to the Deputy Minister of Revenue for the year of the proposal would create a situation inconsistent with the scheme of the Bankruptcy and Insolvency Act. It would in fact be more advantageous to a taxpayer to declare bankruptcy than to make a proposal, since in the latter case he would not be discharged with respect to his tax liability for the year in which he filed his proposal. The proposal would then not have the preventive effect that it should be given.
+Moreover, through the exclusion of a tax debt owed by the debtor for the taxation year in which he filed the proposal, the creditor to whom that debt was owed would have an advantage over the other creditors. Such an interpretation would run counter to the Bankruptcy and Insolvency Act since the proposal mechanism, like bankruptcy, is intended to ensure equality among the creditors.
+. . .
+43. Il faut donc conclure que le mot « faillite » à l'article 779 de la Loi sur le impôts réfère implicitement à « proposition concordataire » .
+44. Cette conclusion paraît également plus conforme avec les objectifs de la Loi sur la faillite et l'insolvabilité. Le législateur cherche avant tout la réhabilitation financière du débiteur et le traitement équitable de tous les créanciers. Si on exclut les dettes de nature fiscale, on contrevient à ces objectifs d'une part en rendant plus difficile la réhabilitation du débiteur et d'autre part en favorisant le fisc au détriment des autres créanciers.
+45. Mais, il y plus. Pour l'atteinte de ces objectifs, le législateur privilégie le concordat, qualifié, par le professeur Bohémier de « procédure de faillite moderne par excellence » . Cette intention du législateur est particulièrement manifeste à la suite de la réforme apportée à la législation en 1992 qui a porté en très grande partie sur le concordat. Or, comme l'illustre l'intimé dans son mémoire, la prétention du sous-ministre mènerait au résultat incongru où le débiteur aurait avantage à faire faillite plutôt que de présenter une proposition à ses créanciers :
+La Loi sur la faillite et l'insolvabilité favorise le redressement d'entreprise et, par le fait même, favorise l'intervention d'une entente entre un débiteur et ses créanciers afin de lui éviter la faillite, par le biais du mécanisme de la proposition concordataire.
+En interprétant la Loi sur les impôts de façon à exclure l'assujettissement d'une créance du sous-ministre du Revenu pour l'année de la proposition, cela créerait une situation contraire à l'économie de la Loi sur la faillite et l'insolvabilité. En effet, il serait alors plus avantageux pour un contribuable de faire faillite que de faire une proposition puisque dans le dernier cas il ne serait pas libéré des dettes fiscales de l'année au cours de laquelle il a déposé sa proposition. La proposition concordataire n'aurait alors pas l'effet préventif qui doit lui être consacré.
+De plus, en excluant la créance du débiteur fiscal pour l'année d'imposition au cours de laquelle il a déposé une proposition, le créancier bénéficierait d'un avantage sur les autres créanciers. Cette interprétation irait à l'encontre de la Loi sur la faillite et l'insolvabilité puisque le mécanisme de la proposition, tout comme celui de la faillite, vise à assurer l'égalité entre les créanciers.
+[10] Both the Gollner and Bernier cases seem to support the appellant's position that, despite the fact that subsection 128(2) of the ITA refers only to bankruptcy, it is also applicable to proposals. Furthermore, according to the CCRA's own administrative policy with respect to proving a provisional claim in a proposal filed by a tax debtor under the BIA, as set out in their above-mentioned Directive RCD 95-07,[1] in cases of proposals pre-proposal tax liability must be treated differently than post-proposal tax liability. Indeed, that policy indicates that the tax liability under the pre-proposal assessment is subject to the proposal.
+[11] Counsel for the respondent referred to Agard v. The Queen, 94 DTC 1232 (TCC), [1994] 1 C.T.C. 2407, a case in which Judge Sobier, on a strict interpretation of the word "bankruptcy" contained in the ITA and in the Bankruptcy Act (now the "BIA"), held that subsection 128(2) applies only to bankrupts and not to people making a proposal.
+[12] However, in Jones v. The Queen, 2003 DTC 5663, at paragraph 12, the Ontario Court of Appeal distinguished Agard in the following manner:
+I would pause to note parenthetically that in the case of a bankruptcy, a new taxation year is deemed to begin on the day the taxpayer becomes a bankrupt (see ss. 128(1)(d) and (2)(d) of the ITA). That option is not available, however, where the taxpayer is not a bankrupt: Agard v. M.N.R. (1994), 94 DTC 1232 (T.C.C.). As there is no specific legislative provision deeming that a new taxation year begins at the date of the proposal by an insolvent person, the question raised on this appeal falls to be determined on the basis of the general provisions of the BIA relating to proposals and the terms of the proposal.
+[13] The Ontario Court of Appeal then looked at subsection 62(1.1) of the BIA, which provides that for the purposes of determining the claims of creditors the relevant time is the time of the proposal. The Court of Appeal went on to consider sections 69 and 69.1, which provide for a stay of proceedings by any creditor when there is a proposal, and subsection 62(2), which provides that a proposal accepted by the creditors and approved by the court is binding on all unsecured creditors; this would include the CCRA. The court further stated at paragraphs 16 and 17:
+It is clear under the terms of the proposal that the ordinary creditors' claims are to be satisfied by the pro rata distribution of the proposal amount of $176,992 payable by Jones during the 48-month term of the proposal (less administrative expenses and preferred claims). It is also clear that the CCRA's claim for income tax owing as of the date of the proposal falls in the category of claims covered by those terms. Jones' additional duty to meet his current tax obligations during the term of the proposal by making installment payments and filing returns does not add to or detract from this distribution scheme. The approach taken by the CCRA in assessing Jones is, in my view, contrary to this scheme of distribution because it would permit the CCRA to satisfy part of his pre-proposal debt at the post-proposal rate of 100 cents on the dollar.
+. . . the CCRA has no basis for having its claim for pre-proposal debt satisfied in a different manner than the debt of any other ordinary unsecured creditor. . . . To do otherwise, as noted above, would permit the CCRA to receive more than anticipated by the terms of the proposal. This result could undermine Jones' ability to meet his obligations under the proposal and result in prejudice to the other creditors.
+[14] Thus, just as in Bernier and Gollner, the court concluded that the tax liability arising from operations that took place in the pre-proposal period is subject to the terms of the proposal.
+[15] I agree with these decisions and therefore conclude that,even if subsection 128(2) of the ITA does not refer specifically to a proposal, the effect of the provisions of the BIA taken together and the general scheme of both the BIA and the ITA lead to the conclusion that in cases of proposals two assessments are to be made: a pre-proposal assessment and a post-proposal assessment, with the first being subject to the terms of the proposal.
+[16] The appeal is therefore allowed and the assessment under appeal is referred back to the Minister for reconsideration and reassessment on the basis that the appellant's tax liability for the 2003 taxation year arising from income earned by, or accrued to, him on or before the proposal was filed on May 20, 2003, shall be governed by the terms of the proposal and be assessed separately from the income earned by, and accrued to, him after the proposal, which income shall be dealt with in a post-proposal assessment.
+Signed at Montreal, Quebec, this 18th day of August 2006.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2006TCC445
+COURT FILE NO.: 2005-2725(IT)I
+STYLE OF CAUSE: Jacques V. Marchessault v. The Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 30, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: August 18, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] As of February 1, 2004, the CCRA has been applying in this regard Standard of Professional Practice 03-1 of the Canadian Association of Insolvency and Restructuring Professionals.

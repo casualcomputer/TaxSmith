@@ -1,0 +1,269 @@
+Title: Bandi v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31250/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-230-31250-bandi-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-25
+
+# Bandi v. The Queen
+
+- Citation: 2013 TCC 230
+- Decision date: 2013-07-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5122, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bandi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-25
+Neutral citation
+2013 TCC 230
+File numbers
+2011-688(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-688(IT)I
+BETWEEN:
+HARI K. BANDI,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeal heard on September 12, 2012 and May 17, 2013,
+at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant himself
+Agent for the appellant:
+Raymond Wiseman
+Counsel for the respondent:
+Michael Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached reasons for judgement.
+Signed at Magog, Quebec, this 25th day of July 2013.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2013 TCC 230
+Date: 20130725
+Docket: 2011-688(IT)I
+BETWEEN:
+HARI K. BANDI,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview
+[1] The directors of the Aurora Foundation (the “Foundation”), a registered charity, established a gifting arrangement known as the Charitable Technology Trust Gifting Program (the “Charitable Technology Gifting Program” or “Program”). The appellant, Hari K. Bandi, participated in the Program and claimed a charitable donation tax credit in respect of an alleged gift made to the Foundation in his 2003 taxation year.
+[2] The alleged gift totalled $5,996 and consisted of a cash payment of $1,872 and a purported gift of four software licences having an alleged fair market value of $4,124. The Minister of National Revenue (the “Minister”) initially allowed the credit but subsequently reassessed the appellant to disallow it. The issue in this appeal is whether the appellant is entitled to claim a tax credit in respect of all or part of the alleged donation.
+II. Factual Background
+[3] The facts relied on by the Minister in denying the appellant’s tax credit claim are summarized in the amended reply to the appellant’s notice of appeal, as follows:
+Relevant Parties
+(a) the Foundation was incorporated pursuant to the Canada Business Corporations Act on December 13, 1996;
+(b) at all material times, the Foundation was a registered Canadian charity for purposes of the Income Tax Act;
+(c) at all material times, the Foundation’s directors were Greg Carrington, Richard Gozdek and John Bruder, all residents of British Columbia;
+(d) Carrington was the Foundation’s Executive Director;
+(e) 6103316 Canada Ltd. (the “Promoter”) was incorporated pursuant to the Canada Business Corporations Act on June 3, 2003;
+(f) the Promoter was incorporated primarily to act as the promoter of a tax shelter charitable gifting arrangement known as the “Charitable Technology Trust Gifting Program” (the “Gifting Plan”);
+(g) the shareholders and directors of the Promoter were Carrington and Jacques Denomee, also a resident of British Columbia;
+(h) Wolf Ventures Corp. (“Wolf Ventures”) was incorporated pursuant to the laws of British Columbia on September 19, 2002;
+(i) Gozdek and Denomee were the shareholders of Wolf Ventures, and Gozdek was its director;
+(j) Multisolve Networks Corporation (“Multisolve”) was incorporated pursuant to the laws of Barbados on November 17, 2003;
+(k) the shares of Multisolve were held by a trustee in the Cayman Islands;
+(l) Multisolve owned the eComdata Office Suite Pro computer software program (the “Software”), which software was intended to be the subject of the Gifting Plan;
+(m) Michael King, a resident of British Columbia, developed the Software and was the sole director of Multisolve;
+(n) the Charitable Technology Trust (the “Trust”) was intended to be a trust used in the Gifting Plan;
+(o) Bruder was intended to be the Trustee of the Trust and its sole income beneficiary;
+(p) the class of capital beneficiaries of the Trust was intended to be open;
+(q) capital beneficiaries of the Trust were intended to be a class of individuals who indicated a willingness to support charitable organizations, as demonstrated either by past donations or services to charities, or by a willingness to do so in the future;
+(r) as Trustee, Bruder was intended to have discretion to appoint individual capital beneficiaries of the Trust;
+(s) as Trustee, Bruder was also intended to have discretion to make distributions of capital to capital beneficiaries of the Trust as he saw fit;
+Outline of the Gifting Plan
+(t) on September 18, 2003, the Promoter applied to the CRA for a tax shelter identification number for the Gifting Plan;
+(u) on September 19, 2003, the CRA issued the Gifting Plan the tax shelter identification number TS 068411;
+(v) the Promoter intended to implement the Gifting Plan in the following manner:
+i) Jeffrey King, the son of Michael King and a resident of Grand Cayman Island, would settle the Trust by transferring $100 to Bruder and executing a trust deed;
+ii) individuals who wished to participate in the Gifting Plan (the “Donors”) would be required to apply to become capital beneficiaries of the Trust;
+iii) in their applications, the Donors would indicate how many software licenses (the “Licenses”) they would like to receive from the Trust if accepted;
+iv) Bruder would appoint prospective Donors to be capital beneficiaries of the Trust;
+v) before the end of 2003; Michael King would cause Multisolve to convey Licenses, equal to the total number of Licenses requested by Donors, to Jeffrey King;
+vi) each License would convey the right to install the Software on one computer and to use it for an unlimited amount of time;
+vii) the Licenses would be transferable;
+viii) each License would have a retail value of $1,499;
+ix) Multisolve would sell the Licenses to Jeffrey King for a bulk wholesale price of $468 each;
+x) Multisolve would agree to defer payment by Jeffrey King and instead to take vendor take-back charges over the Licenses in the amount of $468 per license (the “Liens”);
+xi) the terms of the Liens would be limited-recourse in that Multisolve’s only recourse upon default would be to cancel a License and disable the associated copy of the Software;
+xii) after purchasing the Licenses, Jeffrey King would gift them to Bruder, subject to the Liens, to be added to the capital of the Trust;
+xiii) before the end of 2003, Bruder as Trustee would distribute the Licenses – still subject to the Liens – to the Donors as capital beneficiaries of the Trust, as gifts for no consideration;
+xiv) upon receipt of the Licenses, the Donors would make two donations to the Foundation:
+1) cash donations of $468 per License in order to discharge the Liens held by Multisolve, and
+2) donations of the Licenses themselves, still subject to the Liens;
+xv) the Foundation would issue the Donors two donation receipts per License:
+1) a receipt for $468, and
+2) a receipt for $1,031, being the $1,499 retail value of the License less the Lien of $468;
+xvi) the Foundation would transfer $468 per License to Multisolve in order to discharge the Liens;
+xvii) the Foundation would then use the Licenses for charitable purposes;
+Marketing and Sales of the Gifting Plan
+(w) Wolf Ventures marketed the Gifting Plan to the public, for which it received commissions from Multisolve out of Lien payments received from the Foundation;
+(x) the Gifting Plan was marketed as giving Donors an after-tax cash benefit that significantly exceeded the cash donation, in rangethe of 25-26% depending on a Donor’s province of residence;
+(y) at the time of applying to become beneficiaries of the Trust, Donors were required to pay cash of $468 per License to the Foundation;
+(z) at the time of applying to become beneficiaries of the Trust, Donors were also required to complete two different Deed of Gift forms:
+i) a “Deed of Gift (Cash)” providing for a purported gift of $468 per software license to the Foundation, and
+ii) a “Deed of Gift (Asset)” providing for a purported donation of Licenses to the Foundation;
+(aa) the Deed of Gift forms presented to Donors were pre-printed with the Foundation as the recipient of the purported Gifts;
+(bb) Donors were advised that the cash payments to the Foundation were required to be made because the Foundation would not accept gifts of property that might expose it to financial liabilities like the Liens;
+(cc) the Gifting Plan marketed to the public from October to December, 2003;
+(dd) the Gifting Plan stopped accepting new Donors on December 15, 2003;
+(ee) during that period, 109 Donors, including the Appellant, participated in the Gifting Plan;
+The Appellant’s Participation in the Gifting Plan
+(ff) the Appellant applied for four Licenses pursuant to the Gifting Plan;
+(gg) pursuant to the Gifting Plan, the Appellant purported to donate $1,872 in cash plus the four Licenses to the Foundation in 2003;
+(hh) the Appellant did actually pay the Foundation $1,872 pursuant to the Gifting Plan;
+(ii) in his 2003 income tax return, the Appellant reported charitable donations of $5,996 ($1,499 x 4);
+(jj) in the 2003 taxation year, the Appellant claimed total federal and provincial non refundable tax credits of $2,576.95, giving a “return on cash” of 37.66% ([$2,576.95 - $1,872) ÷ $1,872] x 100%);
+The Gifting Plan was not a Registered Tax Shelter
+(kk) the Gifting Plan as the Promoter actually implemented it was a tax shelter within the meaning of section 237.1 of the Income Tax Act;
+(ll) the Gifting Plan as the Promoter actually implemented it was not the gifting arrangement for which the Promoter had obtained a tax shelter identification number from the CRA;
+(mm) the Gifting Plan as the Promoter actually implemented it differed from the Gifting Plan for which the Promoter had obtained a tax shelter identification number in the following fundamental ways:
+Proposed
+Implemented
+Software Company
+eComdata Solutions Ltd.
+Multisolve Networks Corp.
+Location of software company
+Belize
+Barbados
+Software program
+eComdata Office Suite Pro version 5.0
+eComdata Office Suite Pro version 6.0
+Nature of the tax shelter property
+Copies of the software
+Licenses to use the software
+Settlor of the Trust
+Jerry Coats
+Jeffrey King
+Residence of the Settlor
+Mexico
+Cayman Islands
+Relationship of the settlor to the software vendor
+Arm’s length
+Non-arm’s length
+Cost of the tax shelter property
+$999
+$1,499
+Financing arrangements
+Settlor to pay vendor $678 cash plus promissory note for $312
+Settlor to pay nothing but give lien for $468
+Trust property
+Settlor to contribute copies of software plus notes owing
+Settlor to contribute software licenses subject to liens
+Cost to Donors
+Donate software plus $312 to repay note
+Donate software license plus $468 to extinguish lien
+Disposition of software
+To be donated to other charities
+Never acquired by Foundation; alternate software acquired from other supplier
+(nn) the Promoters did not amend the application for a tax shelter identification number for the gifting arrangement to reflect any of the differences between the arrangement originally described to the Minister and the arrangement actually implemented;
+The Gifting Plan as Implemented was not Effective
+(oo) the Deed of Settlement intended to constitute the Trust was never executed;
+(pp) no property was actually settled upon Bruder;
+(qq) Jeffrey King did not have the requisition [sic] intention to create the Trust;
+(rr) the Trust was not validly constituted;
+(ss) under the intended terms of the Trust, no beneficiary would have had any interest in the Trust property until being appointed by the Trustee;
+(tt) the potential class of capital beneficiaries was unlimited and could not possibly be identified;
+(uu) under the Gifting Plan, Donors who received Licenses from the Trust could have retained the Licenses for their own use absolutely;
+(vv) the purpose of the Trust was not a charitable purpose, but instead was merely to benefit persons who support charities;
+(ww) the Software did not actually exist;
+(xx) if the Software did exist, Jeffrey King did not at any time acquire ownership of any Licenses and he did not at any time convey any such Licenses to Bruder;
+(yy) neither Bruder, as Trustee, nor the Donors, as beneficiaries, ever acquired ownership of any Licenses;
+(zz) if any Donors did acquire ownership of any Licenses, that acquisition did not occur until after the 2003 year;
+(aaa) the Foundation did not at any time acquire ownership of any Licenses;
+(bbb) the Foundation did not distribute any Licenses to other registered charities;
+(ccc) in 2004, the Foundation purchased replacement software from a different supplier;
+(ddd) there was numerous inconsistencies in the documents prepared to implement the Gifting Plan, including:
+i) the documents purporting to transfer Licenses to capital beneficiaries of the Trust referred to a different individual than Jeffrey King as the settlor of the Trust;
+ii) the documents purporting to transfer Licenses to capital beneficiaries of the Trust stated that the Trust property consisted of 2,041 Licenses, whereas Multisolve, the purported vendor, claimed to have sold only 1,349 Licenses to Jeffrey King;
+iii) the documents purporting to transfer Licenses to capital beneficiaries of the Trust stated that the Licenses were issued by eCom Software Company, a division of Redfox Isles Limited, a company resident in the Isle of Man, UK, rather than by Multisolve, the purported vendor of the Software;
+iv) the License certificates issued to the Donors identified Redfox Isles Limited, not Multisolve, as the issuer of the Licenses;
+v) the License certificates issued to the Donors differed in form from the Licenses issued by Multisolve;
+vi) the Lien certificates provided to the Donors identified eCom Software Company, rather than Multisolve, as the secured party holding the Lien;
+vii) the Foundation made Lien payments to Multisolve and a Lien Payment Agreement between the Foundation and Multisolve was prepared, even though the actual License and Lien certificates state that Redfox Isles Limited held the Liens;
+The Purported Donations were not Valid Gifts
+(eee) the documents prepared to implement the Gifting Plan were prepared in advance and the Donors were required to sign them at the time of applying to become beneficiaries of the Trust;
+(fff) Donors were not able to become beneficiaries of the Trust without making cash payments to the Foundation;
+(ggg) Donors expected to receive benefits for making cash payments to the Foundation by receiving Licenses for no consideration upon becoming beneficiaries of the Trust;
+(hhh) the Donors did not make the cash payments to the Foundation voluntarily because the payments were pre-ordained by the Promoter;
+The Fair Market Value of the Licenses was Nil
+(iii) if the Software did in fact exist, the fair market value of the Software at all times was nil;
+(jjj) the fair market value of the Licenses purportedly acquired by the Donors and donated to the Foundation was at all times nil; and
+(kkk) accordingly, the fair market value of a valid donation made pursuant to the Gifting Plan, if any were made, is nil.
+III. Respondent’s Position
+[4] The respondent argues that the appellant is not entitled to a tax credit for the following reasons:
+(a) According to the respondent, the promoters of the Charitable Technology Gifting Program obtained a tax shelter identification number and then proceeded to implement a totally different plan that amounted to an unregistered tax shelter. Therefore, no one can claim a tax credit in respect of gifts made to the Foundation.
+(b) There is no evidence that the software that was allegedly gifted to the Foundation existed.
+(c) There is no evidence that the trust through which the appellant was to acquire the software licences for the purpose of gifting them to the Foundation existed.
+(d) The appellant’s cash payment to the Foundation cannot be treated as a separate transaction because of the interconnection between it and the proposed acquisition of the software licences by the appellant for no consideration. This expected benefit nullified the appellant’s donative intent.
+IV. Appellant’s Position
+[5] The appellant takes the contrary position.
+V. Analysis
+(a) Tax Shelter
+[6] The respondent argues that the Charitable Technology Gifting Program is a tax shelter within the meaning of subsection 237.1(1) of the Income Tax Act (the “ITA”). The appellant does not dispute this claim. The parties disagree, however, on whether the Program was properly registered as a tax shelter by the promoters. The respondent claims it was not. The appellant takes the opposite view.
+[7] The respondent argues that the promoters of the Charitable Technology Gifting Program implemented an arrangement that is materially different from the gifting arrangement described in their application for a tax shelter identification number. The respondent observes that the two arrangements differ in the following particulars: (a) the identity and residence of the software vendor; (b) the identity and residence of the settlor of the trust; (c) the nature of the property to be acquired and donated; (d) the value of the property; (e) the participants’ cost of participating in the arrangement; and (f) the ultimate use of the software by the registered charity.[1]
+[8] The purpose of the tax shelter rules is to ensure that the promoter of a tax‑sheltered investment registers the arrangement and obtains a tax identification number before the investment is marketed to potential investors. In addition, the promoter must provide the Canada Revenue Agency (the “CRA”) with a list of investors or participants, including their names, social insurance numbers and other prescribed information. A participant in a tax shelter is required to disclose the identification number in his or her tax return, failing which the participant will be denied the tax benefit. It is clear that the registration scheme does not constitute a pre-clearance of the arrangement by the CRA. The registration in and of itself does not entitle the participants to any of the benefits that are claimed by the promoters to be associated with the tax shelter. The objective of the registration scheme is to facilitate the audit by the CRA of all taxpayers who have participated in the same tax-sheltered arrangement.
+[9] I understand that in the present case the registration scheme worked as intended, as the CRA was able to audit all of the participants in the Charitable Technology Gifting Program. A literal interpretation of the provisions relied on by the respondent would impose on promoters of tax shelters an obligation to abandon an existing registration and reapply for a new number each time a change was made to the arrangement. At the hearing, I asked counsel for the respondent how a taxpayer can ascertain that all changes made to the tax-sheltered investment have been properly disclosed to the CRA. Counsel admitted that the registration forms are not posted online. The only information a taxpayer can obtain is the fact that the tax shelter number disclosed to the taxpayer by the promoters corresponds to a number issued by the CRA. In my opinion, if Parliament had favoured a dynamic reporting regime, it would have introduced a registration system that affords taxpayers the possibility of determining whether changes have been properly disclosed to the CRA by promoters.
+VI. Gift of Software
+[10] According to the promotional material presented to him, the appellant was to acquire the software licences in the following manner:
+(a) The appellant would become a capital beneficiary of the Charitable Technology Trust (the “Trust”).
+(b) Multisolve Network Corporation would transfer the licences to Jeffrey King.
+(c) Jeffrey King would transfer the licences to the Trust.
+(d) The appellant would acquire those licences as a capital beneficiary of the Trust.
+[11] It is well established that, in assessing tax within the normal assessment period, the Minister is entitled to make assumptions of fact. On appeal the assumptions are taken to be accurate unless the appellant leads evidence to establish a prima facie case that the assumptions are wrong. As noted above, the appellant led no evidence to establish that the software existed and/or that he gifted it to the Foundation.
+[12] The appellant acknowledged that he did not receive any software licences or a copy of the software. He admitted that he had no knowledge whether the software existed. The appellant led no evidence to rebut the Minister’s assumptions that the software did not exist and that the Charitable Technology Gifting Program was not properly implemented in the appellant’s 2003 taxation year. While this alone is sufficient for the respondent to defend the Minister’s assessment, the respondent presented compelling evidence to show that the software licences were not acquired by the appellant, which made it impossible for him to have gifted the licences to the Foundation in his 2003 taxation year.
+VII. Gift of Cash
+[13] The appellant maintains that he is entitled to a tax credit for his alleged cash gift made to the Foundation in 2003. The respondent counters that the appellant did not make a valid gift of cash to the Foundation because he gifted the cash as part of an integrated scheme under which he was to receive valuable software licences.
+[14] I note that the term “gift” is not defined in the ITA. It is however well established that “a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor”.[2]
+[15] The marketing material presented to the appellant shows that the Charitable Technology Gifting Program was promoted on the basis that the appellant would acquire software licences having a fair market value in excess of the amount of the appellant’s alleged cash donation. The material also indicates that the appellant could keep the software for his own use or, as expected, he could gift it to the Foundation in return for promised enhanced tax credits. The tax credits were shown to exceed the appellant’s alleged cash donation so that he was expected to earn a positive after-tax cash benefit. While the appellant did not reap that benefit because of the promoter’s failure to properly implement the Program, I conclude that the appellant’s expectation in that regard is sufficient to nullify his alleged donative intent.
+[16] The appellant insists that his cash donation should be considered separately from the alleged gift of the software licences. I disagree. In Maréchaux v. The Queen,[3] the Federal Court of Appeal agreed that it is inappropriate to separate transactions forming part of an integral arrangement into their cash and non-cash parts.
+[17] Considering the evidence as a whole, I find that the appellant would not have paid the cash to the Foundation without the understanding that he would receive software licences from the Trust which he could then gift to the Foundation for an enhanced tax credit. The marketing material relied on by the appellant makes it clear that his cash donation was earmarked for the discharge of the liens on the software, a step that was required in order for him to transfer his software to the Foundation.
+[18] In summary, the evidence shows that the appellant’s goal was not to enrich himself. Rather, he intended to profit by participating in the Program through the acquisition of software that could be gifted to a charity for an enhanced tax benefit.
+[19] The appellant’s expectations in this regard nullified his donative intent. His alleged cash gift cannot be considered in isolation from the overall plan, which the evidence shows was not properly implemented.
+[20] For all of these reasons, the appellant’s appeal is dismissed.
+Signed at Magog, Quebec, this 25th day of July 2013.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2013 TCC 230
+COURT FILE NO.: 2011-688(IT)I
+STYLE OF CAUSE: HARI K. BANDI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 12, 2012 and May 17, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: July 25, 2013
+APPEARANCES:
+For the Appellant:
+Agent for the appellant:
+The appellant himself
+Raymond Wiseman
+Counsel for the respondent:
+Michael Taylor
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 36, Respondent’s Written Argument.
+[2] The Queen v. Friedberg, 92 DTC 6031 (FCA) at page 6032.
+[3] 2010 FCA 287, 2020 DTC 5174 at paragraph 12.

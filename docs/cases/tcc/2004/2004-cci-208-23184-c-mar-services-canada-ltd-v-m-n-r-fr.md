@@ -1,0 +1,181 @@
+---
+title: "C-MAR Services (Canada) Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/23184/index.do"
+last_modified: "2004-03-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 208"
+citation2: ""
+neutral_citation: "2004 CCI 208"
+decision_date: "2004-03-09"
+language: "fr"
+item_id: "23184"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2147
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:43:08.856000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "11ae4c01e449f6dd0e2f3be383c2760630f2b19cfa04ad243b8a8002dac9147a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# C-MAR Services (Canada) Ltd. v. M.N.R.
+
+- Citation: 2004 CCI 208
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2147, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C-MAR Services (Canada) Ltd. v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-09
+Référence neutre
+2004 CCI 208
+Numéro de dossier
+2002-2689(EI)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2004CCI208
+Date : 20040309
+Dossier : 2002-2689(EI), 2002-2690(CPP), 2002-3218(EI), 2002-3219(CPP)
+2002-3223(EI), 2002-3224(CPP), 2002-3225(EI), 2002-3226(CPP)
+2002-3227(EI), 2002-3228(CPP), 2002-3230(EI), 2002-3231(CPP)
+2002-3232(EI), 2002-3234(CPP), 2002-3238(EI), 2002-3239(CPP)
+2002-3240(EI), 2002-3241(CPP), 2002-3242(EI), 2002-3243(CPP)
+2002-3245(EI), 2002-3246(CPP), 2002-3248(EI), 2002-3249(CPP)
+2002-3251(EI), 2002-3252(CPP), 2002-3253(EI), 2002-3254(CPP)
+2002-3255(EI), 2002-3256(CPP), 2002-3258(EI), 2002-3259(CPP)
+2002-3261(EI), 2002-3262(CPP), 2002-3263(EI), 2002-3264(CPP)
+et 2002-3276(EI), 2002-3278(CPP)
+ENTRE :
+C-MAR SERVICES (CANADA) LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Ces appels portent sur des questions visant à déterminer si deux personnes, Kevin Walsh et Jeffrey Langille, occupaient un emploi assurable en vertu de la loi sur l'assurance-emploi ( « Loi sur l'AE » ) et un emploi ouvrant droit à pension en vertu du Régime de pensions du Canada ( « RPC » ). L'appelante a interjeté 19 appels en vertu de la Loi sur l'AE relativement à 19 personnes, ainsi que 19 appels en vertu du RPC relativement aux mêmes 19 personnes. Kevin Walsh et Jeffrey Langille sont deux de ces 19 personnes. Au début de l'audience, les avocats des deux parties ont convenu que nous allions examiner uniquement les appels concernant Kevin Walsh et Jeffrey Langille, et que tous les appels concernant les 17 autres personnes seraient jugés d'après l'issue des appels de Walsh et Langille.
+[2] L'appelante fait partie d'une organisation basée au Royaume-Uni et connue sous le nom de C-Mar Group, qui a été fondée aux environs de 1987 pour fournir des services à l'industrie du pétrole dans la mer du Nord. Plus tard, elle a pris de l'expansion et s'est établie au Canada et, en 2003, elle avait des bureaux dans six ou sept pays différents avec environ 100 employés sédentaires et 500 employés de bord. La seule personne qui a témoigné est Denis Mair, qui est président, directeur et actionnaire de l'appelante. Les antécédents professionnels de M. Mair tournent autour de la vie marine. Il a grandi au R.-U. et a été apprenti dans une compagnie de transport international. Il a été nommé troisième officier puis est passé au rang de capitaine, et il détient un brevet de capitaine. Il a occupé le poste de capitaine de navire pendant environ huit ans jusqu'à la moitié des années 1990. Il a travaillé sur le pont Northumberland qui relie l'Île-du-Prince-Édouard et le Nouveau-Brunswick jusqu'en 1996, lorsqu'il a fondé la société appelante, une filiale canadienne du C-Mar Group (R.-U.).
+[3] L'appelante offre une variété de services maritimes aux clients, qui sont généralement des propriétaires, des affréteurs ou des gestionnaires de navires, ou des compagnies pétrolières. M. Mair a indiqué dans son témoignage que dans le pire des cas, l'appelante fait tout sur ou pour un navire, sauf en être propriétaire. Dans le meilleur des cas, l'appelante peut assurer la gestion, l'embauche de l'équipage, la consultation et les réparations. Elle peut agir comme courtier pour la vente d'un navire et l'affréter, mais n'en est pas propriétaire. Au Canada, l'appelante a été particulièrement efficace dans la fourniture de personnel maritime, dans les vérifications, les enquêtes et le positionnement dynamique (une technologie relativement nouvelle). L'appelante a établi le premier centre de formation en positionnement dynamique au Canada. L'appelante a un bassin d'employés qui ont été formés et se sont qualifiés au Canada et qui y résident. M. Mair a compris rapidement que sur le marché international, les officiers canadiens sont très respectés et sont recherchés, pour autant qu'ils soient concurrentiels vis-à-vis de ceux des autres nationalités.
+[4] Dans une situation type, l'appelante reçoit une demande d'un client (propriétaire de navire, gestionnaire de navire ou compagnie pétrolière) par téléphone ou par courrier électronique recherchant une personne ayant des compétences particulières (p. ex. deuxième mécanicien ou troisième officier de navigation) dont il a besoin dans un court délai - peut-être en 24 heures. Si le client a besoin d'un employé dans un court délai, c'est probablement parce qu'il y a eu sur le navire un cas de maladie, de blessure ou de cessation d'emploi d'un employé ayant les mêmes compétences. Si le client veut que le poste soit pourvu rapidement, M. Mair consulte sa base de données d'employés disponibles et commence à appeler les candidats pour voir si quelqu'un est disponible pour répondre à cette demande particulière. La recherche d'un employé peut prendre jusqu'à une demi-journée. Il communique alors au candidat éventuel les modalités de l'emploi et tous les autres renseignements reçus du client : durée de l'emploi, lieu de travail, nom du navire. Si le candidat éventuel dit « oui » , M. Mair promet de le rappeler dans l'heure qui suit pour lui communiquer les renseignements relatifs au vol, l'aéroport de destination finale, et le nom du représentant de la compagnie maritime qui l'attendra à l'aéroport et le conduira sur le navire. Si le temps le permet, M. Mair parle du contrat au travailleur et le lui transmet par télécopieur pour qu'il le signe, s'il dispose d'un télécopieur à la maison. Autrement, le travailleur accepte le contrat verbalement, et les formalités administratives sont traitées plus tard. Les formalités administratives consistent en la signature d'un « contrat de travail » entre l'appelante et le travailleur.
+[5] La pièce A-1 est une reliure contenant des documents, dont 19 contrats d'emploi (ou ententes employeur/employé) conclus entre l'appelante et les 19 travailleurs qui font l'objet respectivement des 19 doubles appels (AE et RPC) interjetés devant la Cour. À la pièce A-1, onglet 2, se trouve le contrat conclu avec Kevin Walsh, qui a été retenu comme contrat type. Le document entier comporte six pages, avec un espace réservé aux signatures à la page 6. Ce serait trop long de le citer en entier, mais en voici les trois premiers paragraphes :
+[TRADUCTION]
+1. NATURE DE L'EMPLOI :
+L'employeur emploie l'employé conformément aux dispositions du présent contrat et de l'annexe I la plus récente jointe au présent contrat. L'employé accepte en plus de se conformer aux politiques de l'employeur en matière de sécurité, de drogue et d'alcool, telles qu'elles sont annexées au présent contrat ou telles qu'elles sont modifiées par l'employeur de temps à autre.
+2. LIEU DE TRAVAIL ÉLOIGNÉ :
+L'emploi exige que l'employé voyage pour se rendre au travail à des intervalles de six semaines ou d'autres intervalles semblables que peut lui communiquer l'employeur le cas échéant. Le lieu du travail est déterminé par l'employeur et précisé dans la plus récente annexe I jointe au présent contrat ou est établi à un endroit que l'employeur peut communiquer à l'employé le cas échéant.
+3. DURÉE DE L'EMPLOI :
+L'employé est réputé commencer à être au service de l'employeur à la date indiquée dans l'annexe I la plus récente jointe au présent contrat et il continue de l'être jusqu'à la date indiquée dans la plus récente annexe I jointe au présent contrat ou, dans le cas où aucune date de cessation d'emploi n'est prévue dans la plus récente annexe jointe au présent contrat, jusqu'à ce que le service de l'employé ne soit plus nécessaire dans le cadre du projet auquel l'employé a été affecté, sous réserve d'un préavis de trois jours.
+[6] Les trois paragraphes précédents tirés du contrat de Kevin Walsh font tous mention de « l'annexe I la plus récente » , car une nouvelle annexe I est établie et paraphée chaque fois qu'un travailleur donné est affecté à un nouveau navire. Selon l'onglet 2, annexe I, Kevin Walsh a été affecté au navire « DSV Balmoral Sea » et les précisions suivantes ont été énoncées à l'annexe I :
+[TRADUCTION]
+ANNEXE I
+La présente annexe fait partie intégrante du contrat de travail entre l'employé désigné ci-dessous et C-MAR Services (Canada) Limited.
+Contrat de travail pour :
+Kevin Walsh
+Poste :
+3e ingénieur naval
+Lieu de travail :
+* DSV Balmoral Sea
+Date de début :
+17 septembre 1998
+Durée :
+6 semaines de travail / 6 semaines de congé
+Fin du contrat :
+Au gré du client
+Salaire journalier :
+315,00 $ par jour travaillé, payé selon le temps de présence
+L'employé convient que si le navire travaille dans les eaux norvégiennes, l'impôt norvégien sera retenu conformément aux lois fiscales de la Norvège.
+Paraphe de C-MAR __ « D.M. » __
+Paraphe de l'employé __________
+* DSV - Diving Support Vessel (Bâtiment de soutien des opérations de plongée)
+[7] M. Mair a expliqué que l'expression « payé selon le temps de présence est une norme de l'industrie. Elle signifie que le travailleur reçoit un salaire journalier dès le moment où il quitte la maison (normalement sur la côte Atlantique du Canada) jusqu'au moment de son retour à la maison après une période de quatre, six ou huit semaines à bord du navire. Chaque travailleur était payé par l'appelante, mais le travailleur rendait ses services sur un navire appartenant à un client de l'appelante, ou géré ou affrété par ce client, et le travailleur recevait tous les jours des directives directement ou indirectement du capitaine du navire. Selon la politique générale, pour chaque jour de travail, le travailleur devait avoir une journée de congé. Dans une situation typique, lorsqu'un contrat de six semaines devenait un poste à temps plein, une personne travaillait pendant six semaines et rentrait à la maison pour six semaines. M. Mair a dit que certains des travailleurs de l'appelante restaient sur le même navire pendant deux ou trois ans en faisant une rotation toutes les six semaines. Lors du contre-interrogatoire, une question relative à la période d'emploi a été posée à M. Mair; sa réponse se trouve aux pages 67-68 de la transcription :
+[TRADUCTION]
+Q. : Maintenant, vous avez mentionné ce matin que ces contrats, en particulier certains d'entre eux, avaient une durée de six semaines. Est-ce exact?
+R. : En fait, il s'agissait essentiellement de contrats ouverts. La période de service que l'on peut trouver dans tout contrat peut être de six semaines, elle peut être de huit semaines, mais en même temps il faut comprendre qu'au cours de cette période, si le client détermine qu'après quatre semaines il n'a plus besoin des services de cette personne, il peut renvoyer cette personne à la maison.
+[8] Eu égard aux 19 travailleurs qui font l'objet des appels dans la présente affaire, les navires auxquels ils étaient affectés n'étaient pas situés dans les eaux canadiennes et n'étaient pas exploités dans les eaux canadiennes dans aucune des périodes respectives de paie des travailleurs. De plus, ces navires n'appartenaient pas à des Canadiens et n'étaient pas enregistrés au Canada ni contrôlés par des personnes résidant au Canada pendant toute la période pertinente. Il revient au travailleur d'obtenir l'attestation nécessaire et de la garder à jour, mais l'appelante peut, à l'occasion, pour certains travailleurs de longue date, fournir l'aide financière pour mettre à niveau ou renouveler une attestation donnée.
+[9] L'avocat de l'appelante a demandé à M. Mair si l'un ou l'autre des 19 travailleurs avaient dû signer un contrat avec le navire en ce qui concerne le travail effectué sur le navire. Les propos échangés se retrouvent aux pages 52 et 53 de la transcription :
+[TRADUCTION]
+Q. : Maintenant, Monsieur, revenons au moment où ces personnes voyagent pour se rendre au navire sur lequel elles ont été affectées par C-MAR, d'accord. Y a-t-il un moment, pendant cette période ou dans un autre temps (juste avant ou juste après), où ces personnes auraient eu à signer un contrat avec le navire ou avec l'équipage, un contrat avec le navire en ce qui concerne le travail effectué sur le navire?
+R. : Oui.
+Q. : Expliquez.
+R. : L'équipage en soi, les officiers et les matelots, qui font partie intégrante de la mise à la bande de l'équipage du bâtiment ou du navire signent ce qu'on appelle des rôles d'équipages avec le capitaine.
+Q. : À quel moment cela se fait-il par rapport à la séquence que vous avez décrite à laquelle se conforme C-MAR?
+R. : En principe, cela devrait se faire au moment où ils quittent la passerelle ou lorsqu'ils arrivent à bord du navire et se présentent au capitaine.
+Q. : Alors, est-ce que ça se passe au Canada ou en dehors du Canada?
+R. : Ces - tous ces employés sont en dehors du Canada, alors les navires sont en dehors du Canada, et donc cela se passe en dehors du Canada. Je voudrais simplement ajouter que certains employés, qui sont aussi embauchés par nos soins, ne font pas partie de l'équipage du navire. Par exemple, les techniciens et les représentants de compagnies, ils sont à bord du navire et contribuent à la bonne marche du navire, mais ils ne font pas partie de l'équipage du navire. Par conséquent, ils ne signent pas de rôles d'équipages.
+Q. : Très bien. Et pourquoi ne sont-ils pas considérés comme des membres de l'équipage du navire?
+R. : Je suppose que c'est parce que pour naviguer du point A au point B en toute sécurité et efficacement, un navire a besoin de X membres d'équipage; mais dans l'industrie côtière, ce navire peut effectuer quelques opérations sous-marines pour lesquelles on a besoin d'employés supplémentaires en plus de l'équipage du navire.
+Q. : Ainsi, le navire auquel ces techniciens sont affectés peut nécessiter la signature d'une entente avec l'équipage, pour les membres appropriés de l'équipage et les officiers, mais les techniciens ne font pas partie de l'équipage - ils ne sont pas inclus dans cette catégorie d'employés.
+R. : Ils ne le seraient pas, non.
+Les « techniciens » et l' « industrie côtière » auxquels M. Mair fait allusion sont des personnes qui s'occupent de l'exploration pour le pétrole et le gaz, et qui ne participent pas directement à la navigation du navire du point A au point B.
+[10] Voici d'autres dispositions du « contrat de travail » (pièce A-1, onglet 2) que je trouve pertinentes :
+[TRADUCTION]
+5. RÉMUNÉRATION
+5.3 Dans le cas où l'employé travaille en dehors du Canada ou qu'il est obligé à un moment donné d'effectuer son travail à un endroit ou à des endroits autres que les installations de l'employeur et qu'il ne s'acquitte pas de son travail en raison d'une absence pour un motif autre que la maladie ou qu'il met fin à son emploi dans des circonstances où l'employeur a des obligations contractuelles envers un tiers, alors, si l'employeur engage des frais pour envoyer un employé de remplacement à tel endroit, il est donc convenu que sans aucun préjudice aux autres droits et recours de l'employeur, celui-ci pourra légitimement déduire des montants dus ou non remboursés à l'employé les frais de déplacement aller-retour du remplaçant.
+11. INCONDUITE GRAVE ET QUESTIONS CONNEXES :
+11.1 Au cas où l'employé :
+11.1.7 Est trouvé en possession ou sous l'influence de drogues ou d'alcool sur le chantier ou au cours de son voyage vers le chantier ou en provenance du chantier, ou s'il refuse de se soumettre à un test de dépistage des drogues ou à une analyse alcoolométrique si on le lui demande en vertu des règlements de sécurité en vigueur sur le chantier.
+Alors l'employeur peut renvoyer l'employé immédiatement sans préavis ou salaire tenant lieu de préavis.
+Analyse
+[11] Dans la Réponse, l'intimé s'est basé sur les articles 4 et 5 du Règlement sur l'AE mais, lors de l'audience, l'avocat de l'intimé a admis que l'appelante n'est pas visée par les dispositions de l'article 4. Par conséquent, pour ce qui est de la Loi sur l'AE, il n'y a que l'article 5 du Règlement qui m'intéresse, et cet article dit ce qui suit :
+5. L'emploi exercé à l'étranger, autre que celui exercé à bord d'un navire conformément à l'article 4, est inclus dans les emplois assurables s'il satisfait aux exigences suivantes :
+a) il est exercé par une personne qui réside habituellement au Canada;
+b) il est exercé entièrement ou partiellement à l'étranger au service d'un employeur qui réside ou a un établissement au Canada;
+c) il serait un emploi assurable s'il était exercé au Canada;
+d) il n'est pas un emploi assurable selon les lois du pays où il est exercé.
+[12] J'examinerai seulement les deux premières conditions de l'article 5. Il va sans dire que tous les travailleurs visés par ces appels résident habituellement au Canada. C'est la deuxième condition qui pose problème :
+b) il est exercé entièrement ou partiellement à l'étranger au service d'un employeur qui réside ou a un établissement au Canada;
+Indépendamment des mots utilisés dans les 19 contrats qui se trouvent à la pièce A-1, j'ai conclu que l'appelante n'était pas l'employeur des 19 travailleurs qui sont visés par ces appels. L'employeur des 19 travailleurs était le propriétaire ou l'exploitant du navire auquel les travailleurs étaient affectés. Il n'y a aucune preuve qu'une personne qui était propriétaire ou exploitant d'un navire (auquel l'un ou l'autre des 19 travailleurs était affecté) était résident du Canada ou avait un établissement au Canada pendant toute la période pertinente.
+[13] Pour dire les choses simplement, l'appelante ne satisfait pas aux critères de la common law relatifs au statut d'employeur. Les critères de base ont été résumés par la Cour d'appel fédérale dans l'affaire Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025 et, plus récemment, par la Cour suprême du Canada dans l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. La Cour suprême a statué au paragraphe 47 que le « contrôle » sera toujours un facteur déterminant. L'appelante n'avait aucun contrôle sur le lieu, le moment ou la façon dont le travailleur effectuait son travail. L'appelante, à mon avis, est un mandataire ou un courtier qui est prêt à fournir des services pour l'embauche de travailleurs maritimes qualifiés et de personnes qualifiées pour exploiter des navires dans les eaux internationales.
+[14] Dans les contrats qui se trouvent à la pièce A-1, l'appelante se définit comme « employeur » et définit le travailleur comme un « employé » , mais c'est l'exploitant du navire qui détermine le lieu de travail du travailleur, le moment où le travailleur doit se présenter au travail, et la façon dont le travailleur doit effectuer son travail. M. Mair n'a pas été interrogé ni contre-interrogé en ce qui concerne le fait que l'appelante a essayé de se définir comme un « employeur » ; par conséquent, je ne peux que déduire les raisons justifiant cette nomenclature. Il y a deux raisons possibles. Premièrement, l'appelante veut protéger les exploitants des navires et sa propre réputation de fiabilité : l'appelante veut que le travailleur accepte une politique interdisant les drogues et l'alcool (voir paragraphe 11.1.7 du contrat type); l'appelante veut aussi examiner l'attestation du travailleur pour s'assurer que ses titres et qualifications sont à jour.
+[15] Deuxièmement, l'appelante veut protéger le travailleur contre un exploitant de navire irresponsable ou malhonnête qui pourrait abandonner un travailleur sur une côte étrangère sans salaire : l'appelante perçoit les paiements de l'exploitant du navire puis paie le travailleur au taux journalier convenu. Il est probablement plus facile pour l'appelante, en tant que mandataire ou courtier, de rendre ces services à ces deux clients (les exploitants de navire et les travailleurs) si elle porte le chapeau d' « employeur » même si, du point de vue juridique, elle n'est pas l'employeur. Pour faire un dernier commentaire sur la question du contrôle, je fais référence à la réponse qu'a donnée M. Mair, telle qu'elle est citée au paragraphe 8 ci-dessus, où il affirme que l'exploitant du navire peut renvoyer le travailleur chez lui.
+[16] Aux paragraphes 14 et 15 ci-dessus, j'ai examiné uniquement le critère du « contrôle » . Les autres critères rejettent aussi le statut d'employeur de l'appelante vis-à-vis des travailleurs. Concernant les outils, l'appelante n'en a en fait fourni aucun. Le travailleur a fourni son propre certificat de qualification professionnelle, et l'exploitant du navire a fourni le navire et tout le matériel à bord. Concernant la possibilité de profit et le risque de perte, le travailleur n'en avait aucun au sens commercial du terme, parce qu'il n'avait pas de clients ni de frais généraux. Tous ses frais de déplacement étaient pris en charge par l'appelante, qui recevait un remboursement de l'exploitant du navire. Je ne traiterai pas du critère de l' « intégration » parce que la présente affaire ne porte pas sur un choix entre les statuts d'employé et d'entrepreneur indépendant. Les parties avouent que le travailleur est un employé. La question, comme je l'envisage, est de déterminer qui est l'employeur. J'estime que l'exploitant du navire est l'employeur.
+[17] Les contrats qui se trouvent à la pièce A-1 présentent tous l'appelante comme « employeur » et le travailleur comme « employé » . Par conséquent, je vais parler brièvement de la récente décision de la Cour d'appel fédérale dans l'affaire Wolf v. La Reine, 2002 DTC 6853. Bien que l'affaire Wolf relève de la Loi de l'impôt sur le revenu, il était important de déterminer si, dans cette affaire, M. Wolf était un employé ou un entrepreneur indépendant. Dans le contrat qu'il a conclu avec Canadair en 1990, M. Wolf était présenté comme un « entrepreneur indépendant » . En admettant l'appel de M. Wolf et en statuant qu'il était un entrepreneur indépendant, la Cour d'appel fédérale a accordé un poids particulier à l'intention contractuelle des parties (c.-à-d. M. Wolf et Canadair). Cependant, il est important de souligner que les critères juridiques applicables dans l'arrêt Wolf avaient à peu près le même poids. À mon avis, les propos suivants du juge Noël de la Cour d'appel qui sont énoncés au paragraphe 122 sont essentiels pour comprendre l'arrêt rendu dans l'affaire Wolf :
+[122] [...] Je reconnais que la façon dont les parties décident de décrire leur relation n'est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l'autre direction. Mais, dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté. (c'est moi qui souligne)
+[18] Lorsque le juge Noël de la Cour d'appel parle des « critères juridiques applicables » et des « facteurs pertinents » , je pense qu'il fait allusion aux facteurs énoncés dans l'arrêt Wiebe Door et confirmés dans l'arrêt Sagaz : le contrôle, les instruments/les outils, la possibilité de profit/le risque de perte, la gestion des biens et (éventuellement) l'intégration. C'est seulement dans les cas où ces facteurs pointent dans les deux directions avec autant de force que l'on doit examiner l'intention contractuelle des parties. Autrement, les parties pourraient toujours imposer le résultat.
+[19] Dans ces appels, la question n'était pas de choisir entre le statut d'employé et le statut d'entrepreneur indépendant parce que toutes les parties étaient d'accord pour dire que les travailleurs étaient des employés. La question était de déterminer si l'appelante était l'employeur ou si l'exploitant d'un navire étranger était l'employeur. Tous les facteurs désignent l'exploitant d'un navire étranger comme l'employeur.
+[20] La législation relative au RPC est assez différente de la Loi sur l'AE et du Règlement sur l'AE. Les parties pertinentes des articles 15 et 16 du Règlement sur le RPC sont indiquées ci-dessous.
+15. (1) Dans la présente partie,
+« emploi dans le transport international » désigne l'emploi d'une personne au cours d'une période de paie
+a) sur un navire,
+b) sur un aéronef utilisé dans l'exploitation d'un service de transport commercial par air par une personne qui est classée comme voiturier international par air en vertu du Règlement sur les transporteurs aériens,
+c) sur un train de marchandises ou de voyageurs, ou
+d) à l'égard d'un véhicule automobile qui est immatriculé pour fonctionner dans une ou plusieurs provinces du Canada et dans un ou plusieurs états des États-Unis,
+lorsqu'un tel emploi constitue l'emploi auquel s'adonne principalement cette personne dans la période de paie et que cet emploi s'exerce partiellement au Canada et partiellement hors du Canada;
+16. (1) L'emploi ouvrant droit à pension comprend l'emploi hors du Canada (sauf l'emploi dans le transport international) qui ouvrirait droit à pension s'il était exercé au Canada, si l'employé qui l'occupe
+a) se présente ordinairement au travail à un établissement de son employeur situé au Canada;
+b) est un résident du Canada et reçoit son salaire à un établissement de son employeur situé au Canada ou dudit établissement;
+c) [...]
+[21] Le Règlement sur l'AE ne s'applique ni à Kevin Walsh, ni à Jeffrey Langille, ni à aucun des 17 autres travailleurs pour les motifs énoncés ci-après. J'ai déjà statué que chaque travailleur est employé par l'exploitant d'un navire étranger en dehors du Canada et non par l'appelante. Au sens de l'alinéa 16(1)a), le travailleur ne se présente pas ordinairement au travail à un établissement de son employeur situé au Canada parce que l'exploitant du navire étranger n'a pas d'établissement au Canada. De même, au sens de l'alinéa 16(1)b), le travailleur ne reçoit pas son salaire à un établissement de son employeur situé au Canada parce que l'exploitant du navire étranger n'a pas d'établissement au Canada. Les appels sont admis.
+Signé à Ottawa, Canada, ce 9e jour de mars 2004.
+« M.A. Mogan »
+Le juge Mogan
+Traduction certifiée conforme
+ce 21e jour de juin 2005.
+Joanne Robert, traductrice

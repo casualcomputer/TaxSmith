@@ -1,0 +1,173 @@
+Title: Robitaille c. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27990/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-404-27990-robitaille-c-m-n-r-fr.md
+Document type: case_law
+Last modified: 2003-06-10
+
+# Robitaille c. M.N.R.
+
+- Citation: 2003 CCI 404
+- Decision date: 2003-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1772, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robitaille c. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-10
+Référence neutre
+2003 CCI 404
+Numéro de dossier
+2002-3350(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-3350(EI)
+ENTRE :
+JOCELYNE ROBITAILLE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 8 mai 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 10e jour de juin 2003.
+«J.F. Somers»
+J.S.C.C.I.
+Référence : 2003CCI404
+Date : 20030610
+Dossier : 2002-3350(EI)
+ENTRE :
+JOCELYNE ROBITAILLE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Québec (Québec), le 8 mai 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le «Ministre»), selon laquelle l'emploi exercé au cours des périodes en cause, soit du 2 décembre 1997 au 10 novembre 2000 et du 30 mars au 16 décembre 2001, auprès de J.A. Roby Inc., le payeur, est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi (la «Loi») au motif qu'il existait un lien de dépendance entre elle et le payeur.
+[3] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[4] Les paragraphes 5(2) et 5(3) de la Loi sur l'assurance-emploi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i):
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de lien « personnes liées ». Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]
+[6] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[7] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes, lesquelles ont été admises ou niées par l'appelante :
+a) Le payeur, constitué en société depuis 1984, exploite une entreprise de fabrication et de vente de foyers et de poêles à bois; il est aussi distributeur de cheminées et d'accessoires. (admis)
+b) M. Alain Robitaille, conjoint de l'appelante, était le seul actionnaire du payeur. (admis)
+c) Le payeur exploite son entreprise à l'année longue avec des périodes de pointe au niveau des ventes de poêles et de cheminées. (admis)
+d) La fabrication de foyers et de poêles se fait durant les mois d'août à novembre alors que la vente s'effectue à l'année. (admis)
+e) Le payeur a un chiffre d'affaires d'environ 1,3 millions. (admis)
+f) Le payeur emploie de 2 à 12 personnes. (admis)
+g) Le payeur occupe un immeuble : l'usine de fabrication et la salle de montre se situent au rez-de-chaussée et les bureaux administratifs se trouvent au premier étage. (admis)
+h) L'appelante rend des services au payeur comme commis-comptable depuis 1989. (admis)
+i) Les principales tâches de l'appelante consistent à faire la tenue des livres comptables du payeur, assistée de l'ordinateur, et de s'occuper de quelques tâches de secrétariat (états de comptes, dépôts). (nié)
+j) En plus de l'appelante, le payeur embauchait une comptable de l'extérieur pour préparer les états financiers de fin d'année et, jusqu'à l'année 2000, pour aussi s'occuper des fins de mois. (admis)
+k) En 1999, le payeur a embauché Mme Josée Boudreau pour seconder l'appelante à la comptabilité. (admis)
+l) Mme Boudreau était rémunérée 11,50 $ l'heure. (admis)
+m) Le 13 décembre 2001, dans une déclaration statutaire signée, l'appelante déclarait que Josée Boudreau est plus qualifiée qu'elle. (nié)
+n) Depuis l'embauche d'une autre personne à la comptabilité, l'appelante s'occupait surtout du secrétariat. (admis)
+o) En 2001, l'appelante se serait occupée à refaire le catalogue des produits et des listes de prix du payeur et se serait occupée du recouvrement. (admis)
+p) Contrairement aux autres travailleurs du payeur, l'appelante n'avait pas à inscrire ses heures de travail; son horaire pouvait varier en fonction des besoins du payeur. (admis)
+q) En 1999, la rémunération de l'appelante est passée de 13,29 $ l'heure à 15 $ l'heure le 10 mai et à 20 $ l'heure le 25 octobre. (nié)
+r) En 1999, l'appelante a reçu un bonus de 5 000 $ le 22 août et un deuxième bonus de 2 000 $ le 19 décembre. (nié)
+s) En 2000, l'appelante a travaillé pour le payeur du 21 février au 21 mai sans rémunération car le payeur connaissait des problèmes financiers. (admis)
+t) Ensuite, la rémunération de l'appelante est passée de 250 $ par semaine du 22 mai au 30 juillet à 400 $ par semaine du 1er au 27 août, à 600 $ par semaine du 28 août au 17 septembre et à 800 $ par semaine du 18 septembre au 12 novembre. (admis)
+u) De plus, en 2000, l'appelante a reçu un bonus de 1 000 $ le 27 août et un bonus de 1 000 $ par semaine, entre le 17 septembre et le 29 octobre en plus d'un bonus de 2 $ l'heure entre le 29 mai et le 12 novembre. (admis)
+v) Le 10 novembre 2000, l'appelante est mise à pied. (admis)
+w) En 2001, l'appelante reprend le travail à raison de 6 heures par semaine entre le 25 mars et le 2 juin, 20 heures par semaine entre le 3 juin et le 14 juillet et finalement 40 heures par semaine du 15 juillet au 17 novembre et ce, sans aucune modification justifiée au niveau de ses tâches. (nié)
+x) En 2001, l'appelante recevait une rémunération de 16 $ l'heure; elle a reçu un bonus de 1 $ l'heure du 16 septembre au 17 novembre, un bonus de 2 000 $ le 22 septembre et des bonus de 753 $ les 10 et 17 novembre. (nié)
+y) Le payeur ferme ses portes durant les 2 semaines de vacances de la construction et contrairement aux autres travailleurs, l'appelante continuait de recevoir sa rémunération durant cette période. (nié)
+[8] Seule l'appelante a témoigné au soutien de son appel.
+[9] Le payeur, constitué en société depuis 1984, exploite une entreprise de fabrication et de vente de foyers et de poêles à bois; il est aussi distributeur de cheminées et d'accessoires. Le conjoint de l'appelante était le seul actionnaire du payeur.
+[10] L'entreprise du payeur est exploitée à l'année longue avec des périodes de pointe au niveau de la vente de poêles à bois et de cheminées. La fabrication des foyers et des poêles à bois se fait durant les mois d'août à novembre alors que la vente s'effectue à l'année longue. Le payeur emploie de 2 à 12 personnes et a un chiffre d'affaires d'environ 1 000 000 $. L'usine de fabrication et la salle de montre se situent au rez-de-chaussée de l'immeuble occupé par le payeur et les bureaux administratifs sont situés au premier étage.
+[11] L'appelante rend des services au payeur comme commis-comptable depuis 1989. Ses principales tâches consistent à faire la tenue des livres comptables du payeur assistée de l'ordinateur, exécuter quelques tâches de secrétariat (états de comptes, dépôts), établir la liste des prix et faire la promotion des produits du payeur auprès des clients.
+[12] Le payeur a embauché un comptable de l'extérieur pour préparer les états financiers de fin d'année et, jusqu'en 2000, pour aussi s'occuper des fins de mois. En 1999, Josée Boudreau a été engagée par le payeur pour seconder l'appelante dans ses tâches reliées à la comptabilité. Josée Boudreau recevait une rémunération de 11, 50 $ l'heure du payeur.
+[13] L'appelante a admis avoir signé une déclaration statutaire dans laquelle elle a déclaré que Josée Boudreau était plus compétente qu'elle et lors de son témoignage à la Cour elle a déclaré que Josée Boudreau parlait mieux l'anglais qu'elle, ce qui, selon son opinion, la rendait plus compétente.
+[14] Depuis l'embauche d'une autre personne à la comptabilité, l'appelante s'occupait surtout des tâches de secrétariat. En 2001, l'appelante se serait occupée à refaire le catalogue des produits et des listes de prix du payeur en plus de faire du recouvrement.
+[15] Contrairement aux autres travailleurs à l'emploi du payeur, l'appelante ne comptabilisait pas ses heures de travail et son horaire pouvait varier en fonction des besoins du payeur.
+[16] En 2000, l'appelante a travaillé pour le payeur du 21 février au 21 mai sans rémunération car le payeur connaissait des problèmes financiers. Par la suite la rémunération hebdomadaire de l'appelante est passée de 250 $ du 22 mai au 30 juillet à 400 $ du 1er août au 27 août, à 600 $ du 28 août au 17 septembre et à 800 $ du 18 septembre au 12 novembre. De plus, en 2000, l'appelante a reçu un bonus de 1 000 $ le 27 août, un bonus de 1 000 $ par semaine entre le 17 septembre et le 29 octobre en plus d'un bonus de 2 $ l'heure entre le 29 mai et le 12 novembre.
+[17] L'appelante a affirmé qu'en 1999 son salaire horaire était de 14 $ pour environ 15 semaines, 15 $ à compter du 10 mai et 20 $ à partir du 30 octobre. Quant à ses bonus, elle a expliqué qu'elle avait reçu 5 000 $ en décembre 1999 et que l'autre de 2000 $ représentait le 8 pour cent de son salaire pour ses vacances.
+[18] Selon l'appelante, en 2001 elle a repris son travail le 25 mars jusqu'au 2 juin et oeuvrait, durant cette période, six heures par semaine; entre le 3 juin et le 14 juillet elle travaillait 20 heures par semaine et entre le 15 juillet et le 17 novembre, 40 heures par semaine et exécutait les mêmes tâches.
+[19] Toujours en 2001, l'appelante a reçu une rémunération de 16 $ l'heure, un bonus de 1 $ l'heure du 16 septembre au 17 novembre et des bonus de 2 000 $ le 22 septembre et de 753 $ les 10 et 17 novembre.
+[20] En contre-interrogatoire, l'appelante a expliqué que d'autres employés du payeur avaient également reçu des bonus qui étaient basés sur la surcharge de travail et leur performance.
+[21] Selon un document intitulé «Revenu Jocelyne Robitaille», déposé sous la cote A-1, l'appelante a reçu durant les années 1998 à 2001 la somme de 20 656,78 $ en bonus et la somme de 31 822,88 $ en «vacances versées».
+[22] Selon un autre document intitulé «Revenu Michel Côté» déposé sous la cote A-2, ce travailleur, à l'emploi du payeur depuis six ans et en charge de la production et des commandes, a reçu de 1998 à 2001 la somme de 3 282,50 $ en bonus et le montant de 21 761,84 $ en «vacances versées». Selon ce même document (pièce A-2), un autre employé du payeur, Richard Racine, a reçu pour les mêmes années 2 169 $ en bonus et 19 108,51 $ en vacances. Josée Boudreau, embauchée par le payeur pour seconder l'appelante, a, quant à elle, reçu de 1999 à 2000 un montant de 55 $ en bonus et 4 039,66 $ en vacances.
+[23] L'appelante a reconnu avoir reçu un bonus de 8 000 $ à l'automne 2000 en compensation pour les semaines durant lesquelles elle avait travaillé sans rémunération au printemps de la même année; par contre, elle a reconnu que le salaire qui lui était dû pour lesdites semaines totalisait 11 000 $.
+[24] L'appelante a reconnu que l'entreprise n'était pas en exploitation durant les deux semaines de vacances de la construction et que les employés en congé avaient reçu leur 4 pour cent de vacances alors qu'elle a reçu son plein salaire. Elle a ajouté que parfois elle recevait 4 pour cent de vacances. Elle a également admis que les bonus horaires octroyés aux autres employés du payeur étaient mois élevés que les siens.
+[25] L'appelante a également reconnu que Michel Côté, employé du payeur depuis 6 ½ ans, recevait un salaire horaire de 15 $ alors que le sien variait entre 13,29 $ et 20 $ et a expliqué que son salaire était plus élevé car il était basé sur son ancienneté, soit 14 ans au service du payeur.
+[26] Nathalie Dorais-Pagé, agente des appels, a témoigné à l'audition de cet appel et a déposé en preuve son rapport sur un appel (pièce I-1) ainsi qu'un tableau (pièce I-2) et des extraits du journal des salaires (pièce I-3) démontrant les sommes versées aux travailleurs, à l'appelante et à Alain Robitaille, conjoint de l'appelante et actionnaire unique du payeur. Selon l'agente des appels qui a rencontré Alain Robitaille et l'appelante, cette dernière bénéficiait de conditions plus avantageuses que les autres employés du payeur. L'appelante a reconnu qu'elle était traitée différemment des autres employés et a expliqué ce fait par ses 14 années de service chez le payeur.
+[27] L'agente des appels a déclaré que les travailleurs à l'emploi du payeur devaient poinçonner une carte de temps alors que l'appelante n'était pas soumise à cette obligation. Selon les faits recueillis, le salaire de l'appelante était déterminé en fonction de la situation financière du payeur, ses bonus étaient plus élevés que ceux octroyés aux autres employés et, lors des vacances de Noël, elle recevait son plein salaire contrairement aux autres travailleurs.
+[28] En 2000, l'appelante et son conjoint étaient inscrits aux livres des salaires alors que les autres employés ne l'étaient pas. Du 27 février au 21 mai 2000, l'appelante et son conjoint n'ont pas été rémunérés alors que l'appelante travaillait et pendant cette même période Josée Boudreau est inscrite aux livres des salaires.
+[29] La Cour d'appel fédérale dans la cause Ferme Émile Richard et Fils Inc. c. M.R.N., [1994] A.C.F. no 1859, a indiqué que lorsqu'il s'agit d'appliquer le sous‑alinéa 3(2)c)(ii) de la Loi sur l'assurance-chômage, maintenant le paragraphe 5(3) de la Loi sur l'assurance-emploi, la Cour doit se demander si la décision du Ministre «résulte d'un exercice approprié de son pouvoir discrétionnaire. La Cour doit exiger dans un premier temps que «l'appelant fasse la preuve d'un comportement capricieux ou arbitraire du Ministre».
+[30] L'appelante s'est référée à la décision rendue par le juge en chef adjoint Bowman de notre Cour dans la cause Judy A. Steeves et M.R.N. en date du 20 mars 2001 (dossier 2000-3619(EI)). Le soussigné retient les principes suivants énoncés dans cette décision :
+La Cour d'appel fédérale a déclaré à plusieurs reprises que les mots «si le ministre [...] est convaincu [...]» accordent à ce dernier une forme de pouvoir administratif discrétionnaire et qu'un processus en deux étapes est nécessaire dans les appels interjetés à l'encontre d'une telle décision.
+La première étape consiste à décider si le pouvoir discrétionnaire a été correctement exercé. Dans l'affirmative, la cour n'a pas le droit de substituer son jugement à celui du ministre.
+[31] La Cour se doit de reconnaître que les faits relatés dans la cause Steeves, ci‑haut, ne sont pas analogues à ceux dans la cause sous étude.
+[32] Le salaire de l'appelante a augmenté selon la capacité financière du payeur alors que le salaire de Josée Boudreau était stable. L'appelante a expliqué que son salaire était plus élevé que les autres employés du payeur à cause de ses 14 ans au service du payeur et non pas à cause de ses tâches. Les employés du payeur ont toujours été rémunérés alors que l'appelante a oeuvré durant une certaine période en 2000 sans être payée.
+[33] L'appelante a reconnu qu'elle était traitée différemment des autres employés. Les autres employés du payeur devaient poinçonner une carte de temps alors que l'appelante n'était pas soumise à cette obligation. L'appelante a reçu des bonus considérablement plus élevés que ceux octroyés aux autres employés, en particulier Michel Côté. Lors des vacances de la construction, l'appelante a reçu son plein salaire. Les autres travailleurs recevaient seulement 4 pour cent de leur salaire tenant lieu de vacances alors que l'appelante recevait 8 pour cent.
+[34] Pour les raisons précitées, l'appelante n'a pas réussi à établir, selon la prépondérance de la preuve, que le Ministre a agi d'une façon capricieuse ou arbitraire. Les conditions de travail de l'appelante n'auraient pas été semblables si elle et le payeur n'avaient pas eu entre eux de lien de dépendance.
+[35] En conséquence, l'emploi de l'appelante est exclu des emplois assurables selon l'alinéa 5(2)i) et le paragraphe 5(3) de la Loi.
+[36] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Ottawa, Canada, ce 10e jour de juin 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003TCC404
+No DU DOSSIER DE LA COUR :
+2002-3350(EI)
+INTITULÉ DE LA CAUSE :
+Jocelyne Robitaille et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 8 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+Le 10 juin 2003
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

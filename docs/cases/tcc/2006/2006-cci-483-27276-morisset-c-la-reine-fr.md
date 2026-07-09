@@ -1,0 +1,199 @@
+---
+title: "Morisset c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27276/index.do"
+last_modified: "2006-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 483"
+citation2: ""
+neutral_citation: "2006 CCI 483"
+decision_date: "2006-09-07"
+language: "fr"
+item_id: "27276"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 883
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:46:42.606000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "afd20356f726447610618778b7e74c9b6b4f9d82bb44cca6ab12ae9a102dd3e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morisset c. La Reine
+
+- Citation: 2006 CCI 483
+- Decision date: 2006-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 883, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morisset c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-07
+Référence neutre
+2006 CCI 483
+Numéro de dossier
+2004-3802(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3802(IT)G
+ENTRE :
+DENIS MORISSET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 17 août 2006, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Susan Shaughnessy
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'impositions 2001 et 2002 sont admis sans frais et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant doit inclure dans ses revenus 20 % des revenus de chiropractie qui lui ont été attribués par le Ministre par les cotisations sous appel et qui sont établis au paragraphe 21 et aux annexes 2 et 4 de la réponse à l'avis d'appel. Les dépenses qui avaient été accordées à l'appelant par ces mêmes cotisations à l'encontre des revenus de chiropractie seront ajustées dans la même proportion.
+Les montants ajoutés au revenu de l'appelant à titre d'avantage conféré à l'actionnaire de même que les dépenses refusées par ces cotisations demeurent inchangés.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2006CCI483
+Date : 20060907
+Dossier : 2004-3802(IT)G
+ENTRE :
+DENIS MORISSET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelant exerce la profession de chiropractie et est actionnaire unique du « Centre chiropratique Morisset Inc. » ( « Centre » ). Au cours des années d'imposition 2000 et 2001, il n'a pas déclaré de revenus provenant de sa pratique de chiropractie dans ses déclarations de revenu personnelles. Il a plutôt déclaré tous les revenus découlant de la chiropractie et autres revenus dans la déclaration de revenu du Centre. Le ministre du Revenu national ( « Ministre » ) a recotisé l'appelant pour ces deux années afin d'inclure dans ses revenus personnels les revenus provenant de l'exercice de la chiropractie, en faisant les ajustements nécessaires quant aux dépenses et en incluant également dans le revenu personnel de l'appelant des montants dont il a bénéficié comme avantages à titre d'actionnaire.
+[2] L'appelant dit faire de la manipulation comme telle en chiropractie, environ une heure par semaine.
+[3] Il dit être présent au Centre les mardis et vendredis matin. Sinon, il demeure disponible pour consultation en tout temps. La majeure partie de son temps, il s'occupe de la réparation d'équipement, de l'électronique et de l'entretien du Centre. Il travaille avec sa conjointe, laquelle exerce aussi la profession de chiropractie, un professionnel en éducation physique et deux autres employés (étudiants du secondaire V) formés par lui. La clientèle du Centre est constituée dans un pourcentage de 90 % d'employés d'entreprises qui contractent avec l'appelant pour qu'il prodigue des soins de chiropractie à leurs employés, mais aussi pour exercer la prévention en milieu de travail avec l'élaboration d'un programme d'exercice physique. Une proportion de 10 % de la clientèle s'inscrit au Centre pour s'entraîner, sans avoir de problèmes médicaux. Chaque client du Centre reçoit une carte-santé, laquelle sert à enregistrer le nombre de fois que l'individu se présente au Centre. C'est le Centre qui facture directement les employeurs, ou les compagnies d'assurance, ou la Commission de la santé et sécurité au travail ( « CSST » ) pour les employés qui sont couverts par un programme offert par ces institutions. En général, c'est un tarif forfaitaire qui est chargé et l'employé(e) peut se présenter au Centre pour s'entraîner aussi souvent qu'il ou elle le désire. Certains organismes sont facturés pour un montant global qui comprend les manipulations de chiropractie et l'entraînement offert par le Centre. D'autres organismes, comme la CSST, demandent que la facturation détaille le coût des manipulations et le coût de fréquentation du Centre. Le système informatique du Centre ne fait pas toutefois la distinction entre les recettes provenant de l'exercice de la chiropractie comme telle et celles provenant de la fréquentation du Centre pour l'entraînement physique.
+[4] Le Ministre a refusé d'inclure les revenus reliés à l'exercice de la chiropractie, incluant les plans offerts comprenant l'examen préliminaire pour les soins de la chiropractie et l'accès illimité au Centre, dans les revenus du Centre. L'intimée s'appuie sur la Loi sur la chiropratique, L.R.Q., chapitre C-16, et sur le Code de déontologie des chiropraticiens, R.Q., c. C-16, r.2, pour soutenir qu'un professionnel de la chiropractie ne peut partager ses honoraires avec une personne qui n'est pas membre de « l'Ordre des chiropraticiens du Québec » . Or, comme l'appelant soutient que la chiropractie ne comprend pas uniquement les manipulations, mais aussi tout l'aspect préventif que constitue l'entraînement physique au Centre, le Ministre a considéré que tous les revenus tirés de l'exploitation du Centre, devaient être inclus dans les revenus de l'appelant, ce que conteste ce dernier.
+[5] Par ailleurs, en incluant les revenus reliés à l'exploitation du Centre et à l'exercice de la chiropractie comme telle dans le revenu de l'appelant, le Ministre a accordé à l'appelant les dépenses admissibles qui s'y rattachent. Comme le Centre est propriétaire de la bâtisse qui contient tout l'équipement nécessaire à l'exploitation de la clinique et du centre sportif, et que cette bâtisse contient aussi des logements résidentiels loués, seuls les revenus de location ont été inclus dans les revenus du Centre. Le salaire versé par le Centre à l'appelant pour les travaux de réparation de la bâtisse a été considéré comme une dépense du Centre. Les taxes et permis reliés à l'exercice de la chiropractie ont été déduits à l'encontre du revenu de l'appelant, alors que le solde réclamé à ce poste de dépense a été déduit à l'encontre du revenu du Centre. Ainsi, on retrouve aux onglets 6 et 7 de la pièce I-1, toutes les dépenses qui ont été réparties par le Ministre entre le Centre et l'appelant, le Centre se voyant attribuer uniquement les dépenses reliées à la location de la bâtisse, et l'appelant toutes les dépenses reliées à l'exercice de la chiropractie, incluant l'exploitation du Centre.
+[6] Des ajustements ont été faits au niveau de la vérification, que l'on retrouve aux onglets 11 et 12 de la pièce A-1. Ainsi, les salaires non expliqués ou non justifiés ont été refusés de même que les dépenses personnelles et non justifiées. Pour les frais de repas et d'hébergement, on a accepté une portion de 50 % en conformité avec la Loi de l'impôt sur le revenu ( « Loi » ).
+[7] Par ailleurs, le Ministre a inclus dans le revenu de l'appelant à titre d'avantage conféré à l'actionnaire, des montants payés par le Centre pour son avantage personnel. Ces montants se retrouvent à l'onglet 5 de la pièce A-1, et sont constitués des primes d'assurance-vie au profit de l'appelant (onglets 15 à 17), des bonis non déclarés (onglet 13) et des dépenses personnelles (que l'on retrouve à l'onglet 24). Parmi les dépenses personnelles, on compte les dépenses payées par le Centre pour le véhicule automobile qui appartient à l'appelant personnellement. On a toutefois accordé des frais de déplacement à l'appelant, lesquels comprennent les frais d'usure. Toutes les dépenses payées par le Centre sur la carte de crédit de l'appelant sur un solde résiduel qui n'a pas été expliqué (voir onglet 22 à titre d'exemple), sont également comprises dans l'avantage conféré à l'actionnaire. Des frais de déplacement et de gestion qui ont été justifiés, ont toutefois été accordés à l'appelant (onglets 25 et 26, pièce A-1).
+[8] L'appelant n'a pas réellement contesté le traitement de ces dépenses et n'a apporté aucune preuve pour contredire le Ministre à ce sujet.[1]
+[9] Le noeud du litige réside principalement dans le calcul du revenu relié à l'exercice de la chiropractie et de l'exploitation du Centre.
+[10] L'intimée soumet que seule une personne inscrite à « l'Ordre des chiropraticiens » peut poser des gestes de chiropractie. Elle s'appuie sur les dispositions législatives suivantes :
+L.R.Q., chapitre C-16
+LOI SUR LA CHIROPRATIQUE
+SECTION 1
+DÉFINITIONS
+1. Dans la présente loi et dans les règlements adoptés sous son autorité, à moins que le contexte n'indique un sens différent, les termes suivants signifient :
+[...]
+c) « chiropraticien » ou « membre de l'Ordre » : quiconque est inscrit au tableau;
+[...]
+e) « tableau » : la liste des membres en règle de l'Ordre dressée conformément au Code des professions.
+[...]
+EXERCICE DE LA CHIROPRATIQUE
+6. Constitue l'exercice de la chiropratique tout acte qui a pour objet de pratiquer des corrections de la colonne vertébrale, des os du bassin ou des autres articulations du corps humain à l'aide des mains.
+Traitement chiropratique.
+7. Un chiropraticien est autorisé à déterminer, par l'examen clinique et radiologique de la colonne vertébrale, des os du bassin et des autres articulations du corps humain, l'indication du traitement chiropratique.
+[...]
+10. Nul ne peut exercer la chiropratique sous un nom autre que le sien.
+[...]
+CODE DE DÉONTOLOGIE DES CHIROPRATICIENS c. C-16, r.2
+[...]
+3.05.05. Un chiropraticien doit s'abstenir de partager ses honoraires avec une personne qui n'est pas membre de l'Ordre ou de les lui remettre.
+[...]
+L.R.Q., chapitre C-26
+CODE DES PROFESSIONS
+[...]
+32. Nul ne peut de quelque façon prétendre être [...] chiropraticien, [...] ni utiliser l'un de ces titres ou un titre ou une abréviation pouvant laisser croire qu'il l'est, ou s'attribuer des initiales pouvant laisser croire qu'il l'est, ni exercer une activité professionnelle réservée aux membres d'un ordre professionnel, prétendre avoir le droit de le faire ou agir de manière à donner lieu de croire qu'il est autorisé à le faire, s'il n'est titulaire d'un permis valide et approprié et s'il n'est inscrit au tableau de l'ordre habilité à délivrer ce permis, sauf si la loi le permet.
+[...]
+Code de déontologie.
+87. Le Bureau doit adopter, par règlement, un code de déontologie imposant au professionnel des devoirs d'ordre général et particulier envers le public, ses clients et sa profession, notamment celui de s'acquitter de ses obligations professionnelles avec intégrité. Ce code doit contenir, entre autres :
+1o des dispositions déterminant les actes dérogatoires à la dignité de la profession;
+2o des dispositions définissant, s'il y en a, les professions, métiers, industries, commerces, charges ou fonctions incompatibles avec la dignité ou l'exercice de la profession;
+[11] L'avocate de l'intimée soutient que le Centre n'est pas apte à facturer pour les gestes posés par l'appelant dans le cadre de sa profession. Elle se réfère à l'arrêt Lebel c. Pharmacentres Cumberland (Merivale) ltée, [2002] J.Q. no 4595 (CAQ), dans lequel il s'agissait de deux pharmaciennes qui s'étaient plaintes auprès du Syndic de l'Ordre des pharmaciens, du paiement de redevances à « Cumberland » , un non-pharmacien, à même les honoraires ou les bénéfices provenant de la vente de médicaments, et ce, contrairement au Code de déontologie des pharmaciens dont la disposition pertinente se lit comme suit :
+DEVOIRS ET OBLIGATIONS ENVERS LA PROFESSION
+1. Actes dérogatoires
+4.01.01. En outre des actes dérogatoires mentionnés aux articles 57 et 58 du Code des professions (L.R.Q., c. C-26), est dérogatoire à la dignité de la profession, le fait pour un pharmacien de :
+[...]
+t) partager ses honoraires ou les bénéfices provenant de la vente des médicaments avec un non pharmacien.
+[12] La Cour d'appel du Québec se prononçait ainsi aux paragraphes 16 à 20 :
+¶ 16 Ceci étant, c'est à bon droit que le juge de première instance a déterminé que la structure contractuelle créée par Cumberland fait en sorte que les pharmaciennes partagent leurs honoraires (ou leurs bénéfices) avec le franchiseur et ce, contrairement aux dispositions de leur Code de déontologie. Le juge de première instance écrit :
+Le tribunal est d'avis que Cumberland a mis sur pied une structure ou un système permettant d'éluder la loi compte tenu qu'en l'espèce, comme nous le verrons ci-après, la preuve ne démontre pas que les redevances exigées en vertu des clauses du contrat de franchise sont une contrepartie de juste valeur marchande pour des services effectivement fournis par le franchiseur.
+¶ 17 L'article 4.01.01 t) du Code de déontologie des pharmaciens, qui interdit le partage des honoraires ou des bénéfices d'un pharmacien avec un non-pharmacien, est indéniablement d'ordre public [Voir Note 3 ci-dessous]. Il a été adopté en conformité de l'article 87 du Code des professions [Voir Note 4 ci-dessous] :
+Note 3 : Robert Laforce Inc. c. Bellemare (C.A.), [1989] A.Q. no. 874 (Quicklaw); Marie-France BICH, « Le professionnel salarié : considérations civiles et déontologiques » , dans Journées Maximilien-Caron (1994), Montréal, Les Éditions Themis, 1994, p. 45; Pauzé c. Gauvin, [1954] R.C.S. 15.
+Note 4 : L.R.Q., c. C-26.
+87.
+Le Bureau doit adopter, par règlement, un code de déontologie imposant au professionnel des devoirs d'ordre général et particulier envers le public, ses clients et sa profession, notamment celui de s'acquitter de ses obligations professionnelles avec intégrité. Ce code doit contenir, entre autres [...]
+¶ 18 L'article 4.01.01 t) est d'ordre public de direction puisqu'il vise, notamment, la protection de l'intérêt public, en général et non des pharmaciens, en particulier. On veut, indirectement, empêcher un non-pharmacien de devenir propriétaire d'une pharmacie. L'exercice de la profession de pharmacien, comme celle de médecin, se rattache directement à la protection de la vie et de la santé des personnes. À titre de principe général, les lois sur les corporations professionnelles relèvent de l'ordre public politique (de direction) [Voir Note 5 ci-dessous] :
+Note 5 : J.-L. BAUDOUIN, Les obligations, 4e éd, Cowansville, Les Éditions Yvon Blais Inc., 1993, p. 79-81.
+Relèvent donc de l'ordre public politique les lois portant sur l'administration de la justice, les lois sur l'organisation de l'État, les lois administratives et fiscales, les lois d'organisation des corporations professionnelles [...]. Les parties ne peuvent y faire échec ou s'y soustraire par convention particulière et le contrat qui a pour effet de le faire est frappé de nullité absolue.
+¶ 19 Ceci étant, le juge de première instance a eu raison d'écrire :
+Le Tribunal est d'avis que la disposition en cause déborde le cadre strictement de l'intérêt privé du pharmacien ou de la seule relation contractuelle entre un pharmacien et son client. Il s'agit d'une mesure de protection de portée beaucoup plus générale qui vise l'intégrité de la profession et la protection du public.
+¶ 20 En conséquence de ce qui précède, nous sommes d'avis que le juge de première instance n'a commis aucune erreur de droit ni aucune erreur mixte de fait et de droit en concluant à la nullité de la partie des clauses 3.1.17 et 10.2 du contrat de franchise qui ont trait aux revenus perçus par les propriétaires de la pharmacie à titre d'honoraires ou de bénéfices.
+[13] Dans le cas présent, la Loi sur la chiropratique établit que l'exercice de la chiropratique est constitué de tout acte qui a pour objet de pratiquer des corrections de la colonne vertébrale, des os du bassin ou des autres articulations du corps à l'aide des mains.
+[14] L'Ordre des chiropraticiens du Québec donne sur son site internet une description générale du champ de pratique du « chiropraticien » , dont je vais relater ci-après quelques passages :
+DESCRIPTION GÉNÉRALE DU CHAMP DE PRATIQUE DU
+CHIROPRATICIEN:
+[...]
+4) le chiropraticien exécute et prescrit des tests, des examens et des analyses de l'état de santé de son patient en vue d'évaluer l'indication et l'efficacité de son propre traitement, ou dans le cadre de son programme de prévention des maladies. Il est également tenu de procéder aux examens périodiques de contrôle et de réévaluation qui sont nécessaires pour déterminer les progrès du patient en cours de traitement et pour maintenir à jour sa connaissance du cas de chaque patient;
+[...]
+7) le chiropraticien exécute et peut faire exécuter diverses formes de thérapies physiques qui ont pour objet de compléter et d'optimaliser les effets des traitements chiropratiques. Ces thérapies peuvent inclure, par exemple, l'utilisation de tractions, de diathermie, de courants galvaniques, d'infrarouge de rayons ultraviolets, d'ultrasons, de massages, de bains de paraffine, d'enveloppements chauds et froids, de thérapies méridiennes, d'orthèses et de moulages.
+[...]
+8) le chiropraticien conseille son patient sur ses habitudes de vie, son attitude mentale, sa vie affective, sa sécurité, ses conditions de travail et ses loisirs. Il lui prodigue des conseils sur toute autre activité courante, susceptible d'affecter, en bien ou en mal, l'efficacité du traitement chiropratique. Il importe de noter que les soins chiropratiques s'effectuent selon une approche complète et globale du patient et ont une influence sur sa santé (physique, mentale et sociale), son bien-être et sa survie;
+9) le chiropraticien effectue des évaluations et donne des conseils aux personnes et aux professionnels oeuvrant dans le monde du travail et dans le domaine de la prévention des accidents du travail, des maladies professionnelles ainsi que des accidents d'automobile et de la route;
+[...]
+12) le chiropraticien peut exercer la chiropratique en général ou concentrer sa pratique dans le traitement de certains types de problèmes ou de certains types de clientèles. Par exemple, il peut privilégier le traitement des enfants ou des aînés, le traitement des maladies professionnelles, des blessures sportives ou des problèmes de santé liés à l'emploi. Alors que certains chiropraticiens se consacrent aux traitements de types particuliers de déficiences de la santé, d'autres concentrent leurs activités professionnelles dans le traitement des désordres musculosquelettiques.
+[...]
+[...] Le chiropraticien, que l'on désigne également comme docteur en chiropratique, peut exercer seul ou en société, ou encore être à l'emploi d'un ou de plusieurs chiropraticiens.
+[15] Selon la preuve, l'appelant offre ses services par l'intermédiaire du Centre à divers organismes. Ainsi, l'appelant a soumis en preuve des exemples d'entente (que l'on retrouve dans la pièce A-2) dans lesquelles l'appelant s'engage à offrir un abonnement au Centre aux employés de diverses entreprises pour un certain tarif, lequel tarif est défrayé par les employés eux-mêmes. Par ailleurs, dans la même entente, l'employeur s'engage à payer les frais reliés à l'évaluation de la condition physique des employés incluant l'évaluation posturale ainsi qu'un programme d'entraînement pour un tarif spécifique indiqué (voir à titre d'exemple l'entente intervenue entre le CSSS de la Mitis et le CSC Morisset).
+[16] On voit que par ces ententes, l'appelant distingue clairement les frais chargés par le Centre pour l'abonnement semestriel ou annuel au Centre et les frais reliés à l'exercice de la chiropractie. Le problème qui se pose ici, c'est que l'appelant n'a pas compilé les revenus provenant de chacune de ces sources séparément.
+[17] À mon avis, l'intimée est justifiée de vouloir inclure les revenus provenant de l'exercice de la chiropractie (incluant tout ce qui est relié au programme d'entraînement) dans les revenus de l'appelant, puisque ce dernier ne peut facturer ses honoraires par le biais du Centre. Toutefois, les revenus provenant des abonnements au Centre ne font pas partie de la pratique de la chiropractie comme tel.
+[18] L'appelant a dit que 10 % de la clientèle du Centre n'avait aucun problème médical. Il a dit qu'il consacrait deux matinées par semaine en moyenne à prodiguer des conseils de chiropractie ou des manipulations de dos. Il est toutefois disponible en tout temps. Selon l'information que l'on retrouve sur la carte-santé (dont une photocopie est reproduite à la pièce A-2), le Centre est ouvert cinq jours par semaine de 6 h à 21 h et le samedi de 9 h à 12 h donc 78 heures par semaine. Le bureau est ouvert trois jours par semaine pendant six heures chacun de ces jours, donc 18 heures par semaine. Je considère donc que l'appelant offre ses services de chiropractie 23 % du temps pour 90 % de sa clientèle.
+[19] N'ayant pas d'autres chiffres à l'appui, j'estime qu'environ 20 % des revenus du Centre provient de l'exercice de la chiropractie et ces revenus doivent être inclus dans les revenus de l'appelant.
+[20] L'appel est donc admis sur la base que ce dernier doit inclure dans ses revenus uniquement 20 % des revenus de chiropractie qui lui ont été attribués par le Ministre par les cotisations sous appel et qui sont établis au paragraphe 21 et aux annexes 2 et 4 de la réponse à l'avis d'appel. Les dépenses accordées à l'appelant par ces mêmes cotisations à l'encontre des revenus de chiropractie seront ajustées dans la même proportion.
+[21] Les montants ajoutés au revenu de l'appelant à titre d'avantage conféré à l'actionnaire de même que les dépenses refusées par ces cotisations demeurent inchangés.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2006.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2006CCI483
+N º DU DOSSIER DE LA COUR : 2004-3802(IT)G
+INTITULÉ DE LA CAUSE : DENIS MORISSET c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 17 août 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 7 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Susan Shaughnessy
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le Ministre avait calculé un avantage à l'actionnaire sur la valeur du loyer qu'aurait dû verser l'appelant au Centre pour le logement qu'il occupait gratuitement avec sa famille. Cet avantage n'apparaît pas au revenu recotisé de l'appelant parce que le Ministre a réduit le poste « dû à l'actionnaire » aux livres du Centre. L'appelant a contesté ce point en disant que le logement lui appartenait. Or, il n'a pas contesté que c'est le Centre qui était propriétaire de toute la bâtisse. Il confond de toute évidence les actifs du Centre et ses propres actifs. Comme le traitement fiscal de cet avantage n'a aucun impact sur le revenu de l'appelant pour les années d'imposition en litige, et que le Centre n'a pas fait appel de sa propre cotisation, je ne me prononcerai pas plus avant sur la question de l'avantage conféré par l'occupation du logement par l'appelant.

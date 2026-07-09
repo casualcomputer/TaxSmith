@@ -1,0 +1,145 @@
+Title: Caballero c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29334/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-390-29334-caballero-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-08-06
+
+# Caballero c. La Reine
+
+- Citation: 2009 CCI 390
+- Decision date: 2009-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7073, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caballero c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-06
+Référence neutre
+2009 CCI 390
+Numéro de dossier
+2007-4945(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4945(IT)G
+ENTRE :
+RICHARD CABALLERO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 14 juillet 2009, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée
+Me Paolo Torchetti
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est accueilli partiellement, avec dépens, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour d’août 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 23e jour d’octobre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 390
+Date : 20090806
+Dossier : 2007-4945(IT)G
+ENTRE :
+RICHARD CABALLERO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] M. Caballero travaillait comme cadre au sein d’une importante société canadienne de création de logiciels et gagnait un salaire d’au moins 100 000 $. En 2002, alors qu’il travaillait encore pour cette société, M. Caballero a commencé des démarches pour démarrer une entreprise. Au début de 2003, il a quitté son emploi pour consacrer tout son temps, toutes ses énergies et toutes ses ressources financières à sa nouvelle entreprise. Vers le milieu de 2003, M. Caballero a recommencé à travailler à temps plein pour des raisons financières, mais il a néanmoins continué de se consacrer à sa nouvelle entreprise. Vers la fin de 2004, il a conclu que l’impossibilité d’obtenir du financement vouait son entreprise à l’échec. Peu après, M. Caballero a cessé d’exploiter son entreprise. En 2003 et 2004, il a engagé des dépenses totalisant environ 33 000 $ à l’égard de son entreprise, principalement pour obtenir des services professionnels de comptabilité, d’étude de marché et de création de marque et pour acquérir d’autres actifs incorporels auprès de professionnels. M. Caballero a demandé la déduction de ces dépenses‑là à titre de pertes résultant de l’entreprise. L’Agence du revenu du Canada (l’« ARC ») soutient que M. Caballero n’avait pas encore commencé à exploiter son entreprise lorsqu’il a mis fin à ses activités, et que, par conséquent, il n’avait aucune entreprise dont des pertes auraient pu résulter. De plus, la Couronne soutient que, même si une entreprise avait alors existé, toutes les dépenses engagées par M. Caballero étaient des dépenses en capital. À la fin du procès, la question du montant des dépenses faites à l’égard de l’entreprise n’était plus en litige.
+[2] L’entreprise que M. Caballero a essayé de mettre sur pied devait offrir des services de massothérapie à des entreprises en se rendant sur place avec de grands autocars bien équipés et pourvus d’employés qualifiés. M. Caballero a mené ses démarches de façon professionnelle et comme l’aurait normalement fait une personne d’affaires.
+[3] M. Caballero est instructeur de conditionnement physique agréé, et c’est peut‑être cette formation qui l’a mené à croire qu’il avait découvert une possibilité d’affaires. Il voulait engager des massothérapeutes autorisés (les « MA ») pour fournir des services de massothérapie qui sont remboursés par plusieurs régimes de soins médicaux. M. Caballero avait l’intention d’utiliser de grands autocars Prévost qui coûtaient chacun 500 000 $. Avant qu’un autocar puisse servir à l’entreprise, il aurait fallu débourser 500 000 $ de plus pour le modifier et l’équiper. En tout, l’entreprise aurait donc dû débourser 1 000 000 $ pour chaque autocar. M. Caballero cherchait donc à obtenir du financement équivalant à ce montant pour chaque autocar dont il allait avoir besoin. Dans son plan d’affaires, il visait à déployer un certain nombre d’autocars à Toronto et à Vancouver lors des premières années, en commençant par un autocar à Toronto, qui devait rapidement être suivi d’un deuxième.
+[4] M. Caballero avait compris que l’obtention de financement était une condition essentielle au lancement de son entreprise, et que, pour ce faire, il lui fallait élaborer un plan d’affaires complet, en plus de pouvoir, entre autres, présenter des prévisions concrètes quant aux coûts et à la structure de l’entreprise, garantir l’embauche d’un nombre suffisant de MA, obtenir des déclarations d’intérêt de la part de clients et présenter des projections financières crédibles. Pour accomplir cette tâche, M. Caballero a pris les mesures suivantes :
+1) il a dépensé environ 3 000 $ pour faire mener une étude de marché, dont il a reçu le rapport à la fin d’octobre 2003;
+2) il a élaboré, avec l’aide de professionnels, un plan d’affaires daté du 3 novembre;
+3) pour l’aider à élaborer son plan d’affaires, il a engagé un cabinet de comptables agréés pour préparer des projections financières pour les trois premières années d’activités de l’entreprise; il a dépensé environ 6 000 $ pour obtenir les services et les conseils du cabinet de comptables;
+4) il a dépensé presque 7 000 $ pour des services professionnels de création de marque relativement à ses marques d’entreprise : Wellness Dimensions et Serenergy Health.
+5) il a dépensé environ 3 000 $ pour obtenir des renseignements s’apparentant à des listes de distribution;
+6) il a fait appel à un courtier immobilier pour trouver un local commercial à louer au centre‑ville de Toronto, dans un immeuble permettant de stationner les autocars à l’intérieur et comprenant quelques locaux de bureau;
+7) il a communiqué avec un représentant du Centennial College – lequel est situé à Toronto et forme des MA – pour trouver une source d’employés qualifiés et agréés; il s’est entendu avec un MA d’expérience pour que celui‑ci se joigne à l’entreprise une fois celle‑ci active;
+8) il a travaillé avec une entreprise de modification d’autocars pour trouver le modèle de véhicule approprié à son entreprise et pour établir les devis et les dessins techniques nécessaires à la modification des autocars; il a obtenu une proposition ou une estimation écrite quant aux autocars et à leur modification;
+9) il a communiqué avec un certain nombre d’entreprises importantes qui étaient des clientes potentielles en vue d’obtenir des déclarations d’intérêt; la plupart de ces entreprises voulaient attendre de voir un autocar modifié avant de s’engager, mais il a réussi à obtenir une déclaration d’intérêt écrite;
+10) il a communiqué avec des prêteurs et des investisseurs potentiels, de même qu’avec des fournisseurs d’équipement potentiels, au sujet du financement des autocars nécessaires à l’exploitation de son entreprise;
+11) il avait obtenu un aperçu des activités de l’entreprise, daté de mai 2004, qui avait été préparé par la même entreprise qui avait mené l’enquête de marché pour lui;
+12) il avait fait créer un site web et avait fait imprimer les cartes professionnelles et s’était procuré les articles de bureau habituels.
+[5] En l’espèce, je suis convaincu que M. Caballero a commencé à exploiter son entreprise en 2003 et qu’il a continué à le faire en 2004, et ce, même si l’entreprise n’avait jamais commencé ses activités. Il a démarré son entreprise avec diligence et professionnalisme, dans un court laps de temps et, dans une grande mesure, à temps plein. M. Caballero a engagé la quasi‑totalité des dépenses en cause pour obtenir des services professionnels incorporels auprès de tiers reconnus. L’entreprise ne constituait pas un passe‑temps et n’avait pas de composante personnelle. Les actifs incorporels acquis par M. Caballero ne pouvaient pas être revendus en cas d’échec de l’entreprise – la situation aurait été différente s’il avait apporté des améliorations à des immeubles ou acheté de l’équipement et des fournitures. Manifestement, M. Caballero avait l’intention d’exploiter son entreprise de façon professionnelle et comme l’aurait normalement fait une personne d’affaires, et c’est d’ailleurs ce qu’il a fait.
+[6] Aux fins de la Loi de l’impôt sur le revenu (la « Loi »), il est possible de commencer à exploiter une entreprise avant le début de ses activités. On peut s’attendre à ce qu’au cours de son existence, une entreprise ait différents types et niveaux d’activités. Les activités menées par une entreprise pendant les phases de démarrage et de fermeture peuvent être très différentes de ses activités pendant la phase d’exploitation. Il se peut même qu’une entreprise soit relativement inactive si ses activités normales sont interrompues.
+[7] Le passage suivant est tiré de ma décision dans Spasic c. La Reine, 2009 CCI 193 :
+[10] L’ancien juge en chef de la Cour, le juge Bowman, dans sa décision de 1998, Kaye v. The Queen, 98 DTC 1659, décrivait en termes simples le critère à appliquer : « Y‑a‑t‑il une entreprise véritable? » Puis il tenait les propos suivants :
+[…] Il faut se demander : « Est‑ce qu’une personne raisonnable qui examine une activité en particulier et applique des normes courantes de gestion d’entreprise affirmerait qu’il s’agit bien d’une entreprise? » Pour répondre à la question, la personne raisonnable fictive examinerait entre autres choses la structure du capital, les connaissances du participant et le temps consacré à l’activité. Elle évaluerait également si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement.
+[…]
+En fin de compte, les choses se résument à évaluer, en faisant preuve de sens pratique, l’ensemble des facteurs, en accordant à chacun l’importance qui convient dans le contexte global. Bien entendu, on ne doit pas faire fi de la vision et de l’imagination de l’entrepreneur, mais ce sont là deux aspects qui sont difficiles à évaluer à prime abord. En d’autres termes, si vous voulez qu’on vous traite comme un homme d’affaires, agissez en homme d’affaires.
+[11] Dans l’arrêt Stewart c. Canada, 2002 CSC 46, 2002 DTC 6969, la Cour suprême du Canada parle de la nécessité de considérer la nature commerciale ou non de l’activité en cause.
+[8] Dans Gartry v. The Queen, 94 DTC 1947, une décision maintes fois citée, l’ancien juge en chef Bowman s’est penché sur la question de savoir quand un contribuable avait commencé à exploiter son entreprise de pêche commerciale dans une affaire où le bateau qu’il était en train d’acheter et qui devait servir à l’exploitation de l’entreprise avait coulé avant que le contribuable n’en soit devenu propriétaire. Le contribuable avait alors renoncé à exploiter son entreprise et avait demandé la déduction de diverses dépenses qu’il avait engagées à l’égard de l’entreprise, notamment pour obtenir des actifs incorporels (par exemple, des frais juridiques, des frais comptables et des frais d’assurances, etc.). Le juge Bowman s’est exprimé de la sorte au paragraphe 16 de Gartry :
+[16] […] Pour ce qui est de la détermination du moment où une entreprise débute, il n’est pas réaliste de dire que c’est au moment où l’on commence à tirer de l’argent du commerce ou de la fabrication d’un bien ou de la prestation d’un service ou, à l’autre extrême, que c’est au moment où l’on a pour la première fois eu l’intention de lancer l’entreprise. Chaque cas dépend des faits qui lui sont propres, mais, lorsqu’un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l’entreprise, il est juste de conclure que l’entreprise avait démarré. Assurément, tel est le cas ici. L’appelant avait emprunté de l’argent, convenu d’acheter le navire, recruté un équipage, obtenu les permis nécessaires, pris des arrangements avec un nombre appréciable de propriétaires de bateau titulaires de permis de classe « G » pour qu’ils utilisent ses services lorsque le navire serait prêt, commandé et payé des modifications devant être apportées au navire et souscrit à une assurance. À mon avis, l’entreprise avait débuté et était bien avancée lorsque les dépenses en question ont été faites. Les bulletins d’interprétation n’ont évidemment pas force de loi, et il convient d’y faire référence avec circonspection. Toutefois, les observations formulées dans le bulletin d’interprétation IT-364 quant à savoir quand une entreprise débute ont beaucoup de bon sens tant du point de vue du droit que du point de vue de la réalité commerciale. L’appelant a satisfait aux critères énoncés dans ce bulletin. […]
+[9] Bien que l’entreprise de M. Caballero n’était pas aussi « bien avancée » que l’était celle du contribuable dans Gartry, vu l’ensemble des faits, je suis convaincu que l’entreprise de M. Caballero avait débuté.
+[10] Le bulletin d’interprétation IT‑364 de l’ARC, intitulé « Début de l’exploitation d’une entreprise », prévoit ce qui suit au paragraphe 2 de la section « Date à laquelle l’entreprise débute » :
+2. Il n’est pas possible de déterminer le moment précis auquel une entreprise envisagée devient une entreprise de fait. En général, le ministère estime qu’une entreprise débute lorsque s’engage une opération importante qui constitue une activité régulière du processus de gain de ce genre d’entreprise ou un prélude essentiel à exploitation normale. Pour conclure qu’une entreprise a commencé, il faut nécessairement qu’on puisse déterminer assez clairement le genre de l’activé devant être exercée et qu’une structure organisationnelle suffisante ait été établie pour permettre d’entreprendre au moins les activités préliminaires essentielles. Cela est nécessaire à la fois lorsque l’entreprise envisagée doit se poursuivre sur une base continue et lorsqu’il ne doit s’agir que d’une transaction unique, comme dans le cas d’un risque de nature commerciale. Si une activité ne consiste qu’en une étude de diverses possibilités commerciales dans la perspective ou l’espoir d’obtenir des renseignements qui justifieront l’établissement d’une entreprise quelconque, une telle activité ne constitue pas le début d’une entreprise. On estimerait qu’une entreprise n’était qu’envisagée si aucun effort sérieux ou raisonnablement continu n’était tenté afin d’amorcer son exploitation normale. […]
+[11] En l’espèce, il est manifeste que les efforts faits par M. Caballero pour lancer son entreprise dépassaient largement la simple phase de la conception; il faisait des travaux préliminaires plutôt qu’un simple examen optimiste de possibilités d’affaires. M. Caballero faisait des efforts sérieux et raisonnables, de manière soutenue, pour permettre à son entreprise de commencer ses activités normales. Contrairement au contribuable dans Brunet v. The Queen, 2008 DTC 4207 (confirmée par 2008 DTC 5450), M. Caballero faisait plus que rêver.
+[12] Le paragraphe 3 du bulletin d’interprétation IT‑364 de l’ARC est ainsi rédigé :
+3. […] On estime même que l’entreprise a débuté […] si des enquêtes de marché de portée suffisamment considérable ont été effectuées afin de déterminer de quelle façon ou à quel endroit il conviendrait le mieux d’exploiter l’entreprise. Toutes les mesures concrètes et continues par lesquelles on tente d’introduire un produit particulier dans un marché souhaité constituent des activités d’exploitation même si elles précèdent la création du service des ventes de l’entreprise. […]
+[13] Les efforts de M. Caballero satisfont aussi à cette exigence de l’ARC.
+[14] Après avoir conclu que M. Caballero avait commencé l’exploitation d’une entreprise, il me reste à décider si les dépenses d’entreprises en cause sont des dépenses courantes ou des dépenses en capital. Les principales dépenses engagées pour l’entreprise, décrites ci‑dessus, ont servi à obtenir des services pendant la phase préliminaire de création de l’entreprise. Dans un cas comme celui‑ci, les dépenses engagées pour créer une entreprise ou une organisation commerciale constituent des dépenses en capital. Comme il s’agit de dépenses en capital, ces dépenses ne sont pas déductibles à titre de dépenses courantes, et ce, même si des dépenses semblables peuvent être déduites lorsqu’elles sont engagées par un contribuable exploitant déjà une entreprise, à condition de servir à l’expansion ou à la diversification de l’entreprise. Les autres dépenses d’entreprise dont M. Caballero a demandé la déduction, que ce soit des frais de véhicule à moteur ou des frais de représentation, ont toutes servi à obtenir les services et les renseignements que j’ai déjà qualifiés de dépenses en capital, et ces autres dépenses doivent donc elles aussi être considérées comme des dépenses en capital.
+[15] Quoique les dépenses en cause constituent des dépenses en capital, et qu’elles ne puissent donc pas être déduites à titre de dépenses courantes, elles peuvent être déduites à titre de dépenses en capital. La question de la nature des dépenses en cause – à savoir s’il s’agit de dépenses en capital admissibles – n’a pas été longuement abordée dans la présente affaire. Le paragraphe 2 du bulletin d’interprétation IT‑143R3 de l’ARC, intitulé « Sens de l’expression “dépense en capital admissible” », résume assez bien la question :
+2. Une « dépense en capital admissible », expression qui est définie au paragraphe 14(5), peut être décrite d’une façon générale comme une dépense engagée ou effectuée par un contribuable :
+a) relativement à une entreprise;
+b) par suite d’une opération réalisée après 1971;
+c) à titre de dépense en capital;
+d) en vue de tirer un revenu de l’entreprise (peu importe si la dépense engagée ou effectuée donne effectivement lieu à un revenu).
+[16] Le paragraphe 7 du bulletin d’interprétation IT‑364 mentionné ci‑dessus prévoit ce qui suit :
+7. […] Les dépenses engagées dans le but de gagner un revenu sont normalement déductibles pour l’année durant laquelle elles sont engagées même si, après tous les efforts que cela suppose, le projet d’entreprise doit être abandonné avant sa réalisation. Quant aux droits et aux autres frais engagés aux fins de l’acquisition envisagée d’immobilisation et qui seraient normalement ajoutés au coût des immobilisations à la suite de l’acquisition de celles-ci, ils doivent être classés comme dépenses de capital admissibles si les biens ne sont pas effectivement acquis, pour cause d’abandon d’affaires par exemple. […]
+[17] L’appel interjeté par M. Caballero pour les années d’imposition 2003 et 2004 est partiellement accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 6e jour d’août 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 23e jour d’octobre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009 CCI 390
+No DU DOSSIER DE LA COUR :
+2007-4945(IT)G
+INTITULÉ :
+Richard Caballero et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 juillet 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 6 août 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Paolo Torchetti
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

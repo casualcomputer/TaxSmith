@@ -1,0 +1,122 @@
+Title: Arseneau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27370/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-739-27370-arseneau-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-11-23
+
+# Arseneau v. The Queen
+
+- Citation: 2004 CCI 739
+- Decision date: 2004-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 158, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arseneau v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-23
+Référence neutre
+2004 CCI 739
+Numéro de dossier
+2004-125(GST)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-125(GST)I
+ENTRE :
+ELAINE B. ARSENEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 juin 2004, à Toronto (Ontario).
+Devant : L'honorable juge A.A. Sarchuk
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Jenna Clark
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 24 avril 2003 et porte le numéro 21670, est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon le motif qu'au 19 novembre 1998, la valeur du bien situé au 50 de la promenade Greyhound à Willowdale (Ontario) était de 221 000 $ et qu'à ce moment-là, la valeur nette réelle du bien pour l'appelante était de 18 174 $.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 7e jour de juin 2005.
+Nathalie Boudreau
+Référence : 2004CCI739
+Date : 20041123
+Dossier : 2004-125(GST)I
+ENTRE :
+ELAINE B. ARSENEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Pour l'appelante : L'appelante elle-même
+Avocate de l'intimée : Me Jenna Clark
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Rendus oralement à l'audience à Toronto (Ontario), le 10 juin 2004
+Le juge Sarchuk
+[1] Il s'agit d'un appel interjeté par Elaine B. Arseneau à l'égard d'une cotisation de taxe sur les produits et services de 22 175,19 $, qui était exigible du mari de l'appelante au 19 novembre 1998. Les faits suivants relatifs à cette cotisation ne sont pas contestés. L'appelante et son mari, Michael Joseph Arseneau, étaient tenants conjoints du bien situé au 50 de la promenade Greyhound à Willowdale (Ontario), et ce, depuis qu'ils ont été enregistrés comme tels en juin 1997. Le 19 novembre 1998 ou vers cette date, l'appelante et son mari, à titre de tenants conjoints, ont transféré le bien à l'appelante à elle seule en contrepartie de son [TRADUCTION] « affection naturelle » . Pendant toute la période pertinente, le mari de l'appelante était inscrit aux fins de la Loi sur la taxe d'accise et exploitait une entreprise à propriétaire unique dont l'activité principale était de fournir des services relatifs à la conception et aux systèmes informatiques et des services connexes. Au moment du transfert, le mari de l'appelante avait une obligation fiscale au titre de la taxe sur les produits et services de 22 175,19 $. Le ministre du Revenu national a établi une cotisation en fonction du fait que le mari a transféré à l'appelante un bien dont la valeur nette réelle pour lui était de 20 174 $ ainsi que du fait que la cotisation à l'égard de l'appelante était exacte et que l'appelante est tenue de payer ce montant conformément aux articles 123 et 325 de la Loi sur la taxe d'accise.
+[2] La cotisation établie à l'égard de l'appelante représentait sa moitié de la valeur nette réelle du bien. La cotisation a été établie en fonction de la détermination du ministre selon laquelle la valeur du bien au 19 novembre 1998 était de 225 000 $, moins la valeur de l'hypothèque, soit 184 652 $, ce qui a donné une valeur nette réelle totale de 40 348 $, dont la moitié a été prise en compte dans l'établissement de la cotisation de l'appelante.
+[3] La seule question dont je suis saisi est la valeur du bien en fonction duquel la cotisation du ministre a été établie. Le problème qui se pose pour l'appelante est que, de façon générale, ce sont des évaluateurs agréés qui évaluent les biens. Ils utilisent des méthodes qui reposent sur des pratiques et des principes reconnus en ce qui concerne la façon dont la juste valeur marchande est établie, et les tribunaux acceptent ces pratiques et ces principes depuis un certain nombre d'années. Dans la théorie de l'évaluation, il a été accepté que la définition de « juste valeur marchande » est tout simplement le prix probable estimé en argent que le bien rapporterait s'il était à vendre dans un marché où la concurrence peut librement s'exercer par un vendeur qui agit en toute liberté et qui dispose d'un délai raisonnable pour trouver un acheteur qui, lui aussi, agit en toute liberté, dans des circonstances où ni l'une ni l'autre des deux parties n'agit sous la contrainte et où les deux parties sont pleinement au fait de ce à quoi le bien sert et de ce à quoi il peut servir et font preuve de jugement raisonnable. Pour évaluer les biens, les évaluateurs tiennent compte du délai qui pourrait être nécessaire pour vendre le bien ainsi que d'autres facteurs, comme, le cas échéant, les événements qui influent sur le marché et les tendances du marché et, finalement, compte tenu de tous ces éléments d'information, ils établissent la juste valeur marchande du bien. Il ne s'agit pas d'une science exacte; ce n'est pas comme si on additionnait simplement deux et deux pour obtenir quatre. Cependant, le fondement sur lequel repose ce genre d'analyse est solide et est accepté par les tribunaux. En règle générale, la seule façon de s'opposer avec succès au rapport d'un évaluateur est de prouver sa position au moyen d'autres preuves, préférablement des preuves fournies par un autre évaluateur, qui donnerait à la Cour son estimation de la juste valeur marchande ainsi que ce sur quoi il s'est fondé pour l'établir.
+[4] Toutefois, dans l'appel interjeté devant la Cour, l'appelante s'est fiée à des évaluations municipales, qui ont été produites à titre de preuve. De façon générale, ce genre d'évaluation n'est pas convenable pour déterminer ce que le bien vaudrait dans un marché de pleine concurrence. Mis à part le fait que ces évaluations ne sont pas faites chaque année - je ne suis pas certain si l'évaluation qui m'a été présentée a été faite dans l'année en question ou non - selon le témoignage de M. Eustace, elles sont faites selon un fondement complètement différent de celui sur lequel reposent les évaluations des évaluateurs agréés et ne sont pas nécessairement faites par des évaluateurs agréés. De plus, M. Eustace a signalé que la formule utilisée dans les évaluations municipales n'est pas du tout semblable et ne se compare pas du tout à la méthode utilisée pour produire un rapport d'évaluateur. Les évaluateurs doivent suivre des étapes bien précises lorsqu'ils produisent leurs rapports.
+[5] Dans cet appel, une seule juste valeur marchande établie par un évaluateur agréé m'a été présentée. Cependant, aucune preuve forte visant à réfuter l'évaluation en question et aucun élément de preuve sur lequel on pourrait raisonnablement se fier pour obtenir une différente évaluation du bien n'a été présentée. Par conséquent, dans les faits, on demande à la Cour de rejeter les preuves présentées par le témoin expert qui a été appelé à témoigner par l'intimée en se fondant uniquement sur ce qui semble être une estimation approximative de la valeur du bien au 19 novembre 1998 qui ne tient pas nécessairement compte de toute l'information. Les éléments de preuve ne donnent aucun motif valable qui permet à la Cour de faire cela. La Cour reconnaît que les frais à engager pour retenir les services d'un évaluateur pour établir la juste valeur marchande du bien auraient pu empêcher l'appelante d'engager un évaluateur, surtout qu'il est bien possible que la valeur établie par l'évaluateur engagé par l'appelante n'aurait pas été très différente de la valeur établie par l'évaluateur engagé par le ministre.
+[6] En rendant ma conclusion, j'ai fait le commentaire suivant :
+[TRADUCTION]
+[...] néanmoins, la seule preuve acceptable qui m'a été présentée en ce qui concerne la juste valeur marchande du bien à la date pertinente est celle de l'évaluateur engagé par le ministre.
+Pour ce motif, l'appel doit être rejeté.
+Lorsque j'ai rendu cette conclusion, j'ai commis une erreur parce que, bien que la cotisation reposait sur la détermination du ministre selon laquelle la juste valeur marchande était de 225 000 $, l'avocate de l'intimée a dit ce qui suit :
+[TRADUCTION]
+[...] Nous voulons qu'il soit clair que la position du ministre est que la bonne valeur du bien était de 221 000 $, conformément au rapport de M. Eustace.
+L'appel aurait dû être admis en fonction de ce montant, sans plus. Par conséquent, l'appel est admis, et la cotisation est déférée au ministre selon le motif qu'au 19 novembre 1998, la valeur du bien situé au 50 de la promenade Greyhound à Willowdale (Ontario) était de 221 000 $ et que la valeur nette réelle du bien pour l'appelante était de 18 174 $.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 7e jour de juin 2005.
+Nathalie Boudreau
+RÉFÉRENCE :
+2004CCI739
+NO DU DOSSIER :
+2004-125(GST)I
+INTITULÉ DE LA CAUSE :
+Elaine B. Arseneau et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 10 juin 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge A.A. Sarchuk
+DATE DU JUGEMENT MODIFIÉ :
+Le 23 novembre 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Jenna Clark
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

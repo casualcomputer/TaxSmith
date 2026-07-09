@@ -1,0 +1,147 @@
+---
+title: "Salvino v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28476/index.do"
+last_modified: "2008-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 100"
+citation2: ""
+neutral_citation: "2008 TCC 100"
+decision_date: "2008-02-11"
+language: "en"
+item_id: "28476"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1274
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:32:25.477000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b758deb2ccf01dab0a2bf591c40b38b7d88b155ae120f75f335a73bf685ae16"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salvino v. The Queen
+
+- Citation: 2008 TCC 100
+- Decision date: 2008-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1274, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salvino v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-11
+Neutral citation
+2008 TCC 100
+File numbers
+2006-3468(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3468(IT)I
+BETWEEN:
+LOU A. SALVINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+MACRINA SALVINO,
+Third Party.
+Appeals heard on December 7, 2007, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharon Lee
+Counsel for the Third Party:
+Gordon E. Watkin
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2002, 2003, 2004 and 2005 taxation years are dismissed.
+Signed at Ottawa, Canada, this 11th day of February, 2008.
+“E.A. Bowie”
+Bowie J.
+Citation: 2008TCC100
+Date: 20080211
+Docket: 2006-3468(IT)I
+BETWEEN:
+LOU A. SALVINO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and,
+MACRINA SALVINO,
+Third Party.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Salvino appeals from his assessments under the Income Tax Act[1] (the Act) for the taxation years 2002, 2003, 2004 and 2005. The assessment history for these four years is somewhat convoluted, the Minister of National Revenue having changed his mind more than once as to the appellant’s right to deduct child support payments of $12,000 for each of these years. For present purposes, it is sufficient to say that the last assessment or reassessment for each year was made on the basis that the appellant was not entitled to the child support deduction that he had claimed. The subject matter of these appeals, therefore, is his claim that he is entitled to deduct child support payments made to his former spouse during each of those years. It is not disputed that he made the payments of $1,000 per month in each year.
+[2] Generally, child support payments made pursuant to a court order or a written separation agreement that predates May 1997 are (if certain other conditions are satisfied) taxable in the hands of the recipient and deductible by the payer. If the separation agreement or court order is made after April 1997, then the payments are neither taxable nor deductible. That is the effect of paragraphs 56(1)(b) and 60(b) of the Act. The determining factor is whether the agreement or order under which the payments are made has a commencement day after the end of April 1997. The expression “commencement day” is defined for the purposes of both section 56 and section 60 in subsection 56.1(4) of the Act:
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[3] The appellant’s former spouse, Macrina Salvino, was the recipient of the payments, and she was added as a party to the appeals by the Order of Campbell J. made under paragraph 174(3)(b) of the Act. The provisions of paragraphs 56(1)(b) and 60(b) of the Act mirror each other, so that if the payments are deductible from income by the payor they must be included in income by the recipient.
+[4] The appellant and Macrina were married in 1982, and they had two children, born in 1985 and 1989. They both gave evidence. There is some conflict in their evidence as to the time at which their marriage broke down, and also as to whether, at some point, there was a reconciliation. It is clear, however, that they executed two separation agreements, which I shall call agreement #1 and agreement #2.
+[5] Agreement #1 says at the top of the first page that it is “… made this 29th day of October, 1992.” It was executed, however, on the 17th day of November 1995. Both parties had counsel, and their certificates of independent legal advice are dated November 17, 1995 and November 20, 1995. A divorce was granted on the petition of the appellant on December 2, 1999, to take effect on January 2, 2000. Macrina Salvino began an action in the Ontario Superior Court of Justice under the Family Law Act of Ontario in 2000, and a final judgment was given in that action, apparently on consent, on November 6, 2001. From the Order of Justice Nelson made on November 6, 2001 that is Exhibit A-3, it appears that an interim Order was made in that action on May 28, 2001. Part of Exhibit A-3 is a handwritten agreement between the parties dealing with some issues as to access and property, but not support, and it refers to a settlement conference to be held on August 21, 2001. Exhibit A-4 is agreement #2. It states on the first page that it was “… made as of the 6th day of November, 2001.” It is executed by both parties on page 14, but no date appears there. The appellant’s solicitor made an affidavit of execution and certificate of independent legal advice; it is silent as to the date of execution of the agreement, but it was sworn by the solicitor on November 29, 2001. Also attached to the document is a certificate of independent legal advice and affidavit of execution, signed by the solicitor for Macrina, but undated and not sworn.
+[6] The amount of child support to be paid by the appellant under each of the two agreements is $500.00 per child, that is $1,000.00, per month. In agreement #2, as in the Order of Justice Nelson made under the Family Law Act, it is expressed to be $823.00 per month based on the Federal Child Support Guidelines, together with $177.00 per month on account of prepaid extraordinary expenses. I do not agree with Mr. Watkin when he argues that this amounts to a change in the child support amounts payable. The amount payable under each agreement is $1,000.00, although arrived at differently in each case. There are some significant differences between the agreements in other respects, however, to which I shall return.
+[7] At the hearing before me the competing positions of the parties came down to this. The appellant asserts that the child support payments that he made in the years 2002 to 2005 inclusive were all made pursuant to agreement #1; as agreement #1 was executed in November 1995, and was never varied, it could not have a commencement day within the meaning of that expression as it is used in subsection 56.1(4) and paragraph 60(b) of the Act, and so the payments should be treated for income tax purposes under the Act as it was prior to the amendments made in 1997. The effect of those amendments was that child support payments were for the first time made neither assessable as income in the hands of the recipient nor deductible from income by the payer. The respondent’s position, supported by Macrina, is that the payments in question were made pursuant to agreement #2, or the final Order made by the Ontario Superior Court in the Family Law Act action, or both. As both agreement #2 and that final Order were made after April 1997, there is a commencement day, the post-April 1997 provisions apply, and the payments are therefore neither deductible by the appellant nor taxable in the hands of Macrina.
+[8] There are some conflicts in the evidence given by the appellant and Macrina. The appellant testified that they separated in 1995, and that no reconciliation ever took place. He said, too, that he made the child support payments from the time of their separation until the summer of 2007 under the agreement signed in 1995. He had no explanation for the fact that a second separation agreement was entered into in 2001, other than to say that he was asked to sign it, and that his lawyer suggested that he do so in order to make the litigation go away. On cross‑examination, he agreed that he made support payments for his daughter well past her 22nd birthday, until she completed her university education in the summer of 2007.
+[9] Macrina testified that she and the appellant did not separate until 1997, at which time they and their two children had been living with her parents for about a year. Between 1995 and 1997 the appellant gave her money for the household expenses, but it was not until 1999 that he made child support payments, some voluntarily, and later pursuant to the Order of Justice Nelson. She said too that she signed agreement #2 on the understanding that agreement #1 was void because of a clause in it that rendered it void in the event of a reconciliation for a period of more than 90 days.
+[10] Memories, particularly in relation to the dates of events, tend to fade with the passage of time. As these events took place from eight to twelve years ago. I am not surprised that there are discrepancies in the sequence of events as recalled by the appellant and Macrina It seems unlikely to me that the parties would have signed agreement #1 in 1995 if they had not separated at that time. The appellant chose not to cross-examine Macrina, and so I am inclined to accept her evidence where their evidence conflicts, except to the extent that the appellant’s evidence is supported by the documents, as it is in respect of the initial date of separation. The probability is that there was a period of separation in 1995 when agreement #1 was signed, followed by a period of reconciliation that rendered the first agreement void by its terms. Macrina was correct, then, when she testified that agreement #2 was signed because agreement #1 was no longer effective. The payments for the years under appeal therefore were made under agreement #2, and it had a commencement day in November 2001. While the exact day is unclear, it certainly was long after April 1997.
+[11] Even if agreement #1 was still in force when agreement #2 was signed, I would have to conclude that agreement #2 created a new and different obligation, and that the payments from November 2001 forward were made under it. I reach this conclusion on two bases. First, agreement #1 made specific provision in the clause dealing with child support for the appellant to pay $500.00 per month for each child, while living with the mother, until the child becomes 18 and ceases to be in fulltime attendance at an educational institution, or becomes 21 years of age. In agreement #2 this provision was changed to provide that the appellant would pay support for a child in fulltime attendance at an educational institution until the age of 23. On the appellant’s own evidence, he made the payments in respect of the older child for more than a year after her 21st birthday, and in this appeal he claims to deduct those payments, and therefore that the agreement required him to make them by the agreement. That could only be so if the effective agreement was agreement #2.
+[12] The other significant difference between the agreements is that agreement #1 required the appellant to pay $1,000.00 per month initially, but increased annually by the increase in the Consumer Price Index (CPI) for the City of Toronto from the base year 1995. Agreement #2 provided for payments of $1,000.00 per month, but without indexing of any kind. The evidence was quite clear that the appellant has never paid any more than $1,000.00 per month for child support, and his position is that he complied with his legal obligation at all times. It is a notorious fact that the CPI has not been static during the last decade. It follows that the governing agreement must have been the one that did not provide for indexed payments.
+[13] For all these reasons, I conclude that the appellant’s obligation to make child support payments during the years 2002, 2003, 2004 and 2005 was derived from agreement #2. As that agreement was made after April 1997 its commencement day is the day it was made, which was a day in November 2001. Consequently, the appellant is not entitled to deduct his payments of child support for the years under appeal, and his appeals must be dismissed.
+Signed at Ottawa, Canada, this 11th day of February, 2008.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2008TCC100
+COURT FILE NO.: 2006-3468(IT)I
+STYLE OF CAUSE: LOU A. SALVINO and
+HER MAJESTY THE QUEEN
+and MACRINA SALVINO
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 7, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: February 11, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sharon Lee
+Counsel for the Third Party:
+Gordon E. Watkin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, (5th supp.) c. 1, as amended.

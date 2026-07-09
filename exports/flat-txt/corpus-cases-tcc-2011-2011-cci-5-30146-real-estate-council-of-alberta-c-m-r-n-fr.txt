@@ -1,0 +1,480 @@
+Title: Real Estate Council of Alberta c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30146/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-5-30146-real-estate-council-of-alberta-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-01-05
+
+# Real Estate Council of Alberta c. M.R.N.
+
+- Citation: 2011 CCI 5
+- Decision date: 2011-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Real Estate Council of Alberta c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-05
+Référence neutre
+2011 CCI 5
+Numéro de dossier
+2010-384(CPP)
+Juges et Officiers taxateurs
+Dwayne W. Rowe
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2010-384(CPP)
+ENTRE :
+REAL ESTATE COUNCIL OF ALBERTA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er novembre 2010, à Calgary (Alberta).
+Devant : L’honorable juge suppléant D.W. Rowe
+Comparutions :
+Avocat de l’appelant :
+Me Thomas M. Ryder
+Avocat de l’intimé :
+Me Jeff Watson
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel est accueilli et les évaluations établies par le ministre du Revenu national relativement aux années d’imposition 2004, 2005 et 2006, telle qu’elles ont été confirmées par une lettre datée du 13 novembre 2009, sont par les présentes annulées compte tenu de ce qui suit :
+– Beverly Andre-Kopp n’occupait pas une charge auprès du Real Estate Council of Alberta pendant la période du 1er janvier 2004 au 31 décembre 2006 et elle n’exerçait pas un emploi ouvrant droit à pension au sens de l’article 2 du Régime de pensions du Canada.
+Signé à Sidney (Colombie-Britannique), ce 5e jour de janvier 2011.
+« D.W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 29e jour de mars 2011.
+Marie‑Christine Gervais
+Référence : 2011 CCI 5
+Date : 20110105
+Dossier : 2010-384(CPP)
+ENTRE :
+REAL ESTATE COUNCIL OF ALBERTA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Rowe
+[1] L’appelant, le Real Estate Council of Alberta (le « RECA » ou le « conseil »), interjette appel de la confirmation, par une lettre datée du 13 novembre 2009, d’évaluations relatives à certaines sommes visant des cotisations faites dans le cadre du Régime de pensions du Canada (le « Régime ») à l’égard de Beverly Andre‑Kopp pour les années d’imposition 2004, 2005 et 2006, parce qu’elle occupait une charge et donc un emploi ouvrant droit à pension auprès du RECA. La question a été réglée en application du paragraphe 27.2(3) du Régime, sur le fondement de l’alinéa 6(1)a) et de l’article 2 de ce texte législatif.
+[2] Au paragraphe 1a) de la réponse à l’avis d’appel, l’intimé a reconnu l’exactitude des faits énoncés aux paragraphes 2, 3, 4 et 7 de l’avis d’appel, et à la deuxième phrase du paragraphe 5 :
+[traduction]
+2. Pendant la période frappée d’appel, Mme Andre-Kopp était membre et a agi comme présidente du Real Estate Council of Alberta (ci‑après quelquefois le « conseil »). Le conseil est un organisme d’origine législative chargé de l’autoréglementation du secteur de l’immobilier en Alberta, y compris les courtiers en immeubles et en hypothèques. Le conseil a notamment pour objectifs d’énoncer et d’appliquer les normes de conduite ainsi que d’appliquer la Alberta Real Estate Act en vue de promouvoir l’intégrité du secteur de l’immobilier.
+3. Les membres du conseil, dont Mme Andre‑Kopp (collectivement, y compris Mme Andre‑Kopp, quelquefois désignés comme les « membres ») ne sont pas des employés de l’appelant.
+4. Les membres du conseil assistent à des réunions du conseil, à des réunions des comités, à des audiences et à d’autres activités en vue de poursuivre les objectifs du conseil et ils reçoivent pour leur participation des sommes prévues dans un barème de taux établi par le conseil.
+5. […] Les membres reçoivent une allocation de présence au taux fixe prévu par le barème mentionné au paragraphe A.4 uniquement s’ils assistent à des réunions, à des audiences et à des réceptions reconnues. Ils reçoivent en outre des sommes fondées sur des taux prévus par barème pour certaines autres activités connexes et administratives et ils obtiennent remboursement pour les dépenses autorisées.
+7. Mme Andre‑Kopp a reçu les sommes de 10 275 $, de 11 875 $ et de 19 975 $ relativement aux années 2004, 2005 et 2006 respectivement pour ses activités à titre de membre ou de présidente du conseil.
+[3] Dans son témoignage, Bob Myroniuk (« M. Myroniuk ») a mentionné qu’il est administrateur dirigeant du RECA. Il s’agit d’un poste établi en vertu de la Real Estate Act, R.S.A. 2000, ch. R‑5. Il remplit également la charge de directeur général et il rend compte aux douze membres du conseil, dont la travailleuse désignée dans le cadre de l’appel – Beverly Andre‑Kopp (« Mme Andre‑Kopp ») – est membre. Cette dernière est en outre désignée comme Beverly Andre (sans e accent aigu) dans certains documents. Selon ce texte législatif et dans le contexte de l’autoréglementation, le RECA a été constitué à titre de personne morale sans but lucratif ayant le mandat de réglementer certains domaines du secteur de l’immobilier, notamment les agents œuvrant dans les domaines de la location, des immeubles résidentiels et des immeubles commerciaux ainsi que les courtiers en hypothèques et les évaluateurs. Le RECA est responsable de la délivrance des permis. Le conseil se compose de membres nommés de la façon suivante, conformément au paragraphe 6(1) de la Real Estate Act, dont voici le texte :
+[traduction]
+6(1) Le conseil se compose de douze membres nommés de la façon suivante :
+a) le ministre nomme un membre, lequel doit être étranger au secteur de l’immobilier;
+a.1) abrogé 2007, ch. 39, art. 4;
+b) l’Alberta Mortgage Brokers’ Association nomme un membre, lequel doit être courtier en hypothèques;
+c) l’Alberta Real Estate Association nomme six membres de la façon suivante :
+(i) un membre qui doit être un courtier en immeubles dont les activités intéressent le secteur immobilier industriel et commercial et les immeubles de placement et dont les activités peuvent ou non intéresser la gestion immobilière;
+(ii) un membre qui doit être un courtier en immeubles dont les activités intéressent le secteur immobilier résidentiel;
+(iii) à partir des candidatures proposées par le Calgary Real Estate Board, un membre, qui doit être courtier en immeubles;
+(iv) à partir des candidatures proposées par l’Edmonton Real Estate Board, un membre, qui doit être courtier en immeubles;
+(v) à partir des candidatures proposées par d’autres chambres immobilières en Alberta, deux membres, qui doivent être courtiers en immeubles;
+d) abrogé 2007, ch. 39, art. 4;
+e) les membres nommés suivant les alinéas b) et c) nomment conjointement deux membres de la façon suivante :
+(i) à partir des candidatures proposées par des membres du secteur de l’immobilier qui ne sont pas membres de l’Alberta Real Estate Association, un membre, lequel doit être un membre du secteur de l’immobilier;
+(ii) à partir des candidatures proposées par le grand public, un membre, lequel doit être étranger au secteur de l’immobilier;
+f) les membres nommés suivant les alinéas a) à e) nomment conjointement deux membres de la façon suivante :
+(i) à partir des candidatures proposées en conformité avec les règlements d’application, un membre qui doit être évaluateur de biens immobiliers;
+(ii) à partir des candidatures proposées en conformité avec les règlements d’application, un membre, lequel doit être gestionnaire immobilier.
+[4] M. Myroniuk a mentionné que les personnes nommées au RECA ne sont pas représentatives de leur groupe et que, selon une certaine disposition du texte législatif, elles doivent être indépendantes et agir dans l’intérêt public. Les membres du RECA assistent à des réunions du conseil et des comités lorsqu’ils sont choisis à cet effet par le président. Lorsqu’un membre est nommé par le président ou le vice‑président, il peut faire partie d’un organisme d’enquête, assister à des colloques, à des congrès et à divers événements à titre de représentants du RECA ou suivre des cours de droit administratif. Avant les réunions du conseil, les membres reçoivent une trousse de renseignements dont ils doivent prendre connaissance. Des notes de synthèse, des rapports et d’autres documents sont remis sept jours avant la tenue d’une réunion. Cependant, les services rendus ne donnent pas tous droit à un paiement et ceux énumérés dans le barème des honoraires sont rémunérés selon un tarif précis. Les membres reçoivent un remboursement pour certaines dépenses données qui sont prévues par les politiques du RECA.
+[5] Le principal établissement du RECA est situé à Calgary et compte un effectif de 40 à 50 personnes. Son avocat réside à Red Deer. Le RECA dispose également, à Edmonton, d’un établissement où travaillent deux personnes. Les réunions et les audiences se tiennent dans des installations particulières de l’établissement situé à Calgary, mais le conseil se réunit parfois à l’extérieur de Calgary, le plus souvent à Edmonton. Selon la Real Estate Act et ses règlements d’application, le RECA doit tenir une réunion tous les trois mois. Au cours de la période de 2002 à 2006, inclusivement, le conseil a tenu le nombre de réunions suivant :
+2004 – 7
+2005 – 6
+2006 – 6
+[6] Le quorum du conseil est constitué de sept membres. Les membres ne sont pas tenus de participer à une réunion du conseil mais, après trois absences consécutives sans raison valable ni approbation du président ou d’un remplaçant désigné, l’ensemble du conseil devrait se réunir pour décider de l’opportunité de destituer la personne en cause. Cela ne s’est encore jamais produit.
+[7] Il existe trois sortes de comités permanents :
+· Finances – seuls les membres du conseil peuvent en faire partie;
+· Vérification – comprend deux membres de l’AREA et un membre du conseil nommé par l’ensemble de celui‑ci;
+· Audiences – composé de membres du conseil sous réserve d’un « membre externe » du secteur de l’immobilier. Ce comité établit les politiques et n’entend aucune affaire disciplinaire puisque cette tâche relève d’un organisme d’enquête.
+[8] Il existe en outre divers comités appartenant à cinq catégories distinctes :
+· Immeubles commerciaux;
+· Immeubles résidentiels;
+· Gestion immobilière;
+· Courtage en hypothèques;
+· Évaluation de biens immobiliers.
+[9] Ces comités sont mis sur pied pour faire le lien entre ces différents domaines du secteur global qui sont régis par le conseil. Il s’agit de faire en sorte que le président de chacun de ces comités possède des connaissances spécialisées dans le domaine visé. Le président d’un comité est toujours un membre du conseil et il rend compte au président du conseil. Un comité de sept personnes peut se composer entièrement de membres spécialisés dans un domaine particulier, y compris de deux membres du RECA qui ont également des connaissances spécialisées dans ce domaine.
+[10] Il n’y a aucun nombre minimal de réunions du comité, à l’exception du comité chargé des finances, lequel doit gérer un budget. La fréquence des réunions des comités responsables de la vérification et des audiences sera fonction des questions soulevées au cours d’une période donnée. Ainsi, de nombreuses réunions se sont révélées nécessaires par suite des récentes allégations de fraude formulées à l’endroit d’un courtier en hypothèques à Calgary. Après avoir été nommé par le président, un membre du conseil n’est pas tenu d’assister à une quelconque réunion du comité dont il est membre. Certains membres font partie de deux à quatre comités, mais il arrive que les membres nouvellement nommés ne fassent partie d’aucun comité. Le président et l’administrateur dirigeant sont des membres d’office de tous les comités et ils ont le droit de participer aux activités de ceux‑ci. La travailleuse en l’espèce, Mme Andre‑Kopp, a agi comme présidente de novembre 2005 jusqu’à la fin octobre 2006. Elle était auparavant membre ordinaire du conseil pendant la période pertinente.
+[11] En qualité d’administrateur dirigeant, M. Myroniuk doit faire enquête sur les plaintes, et le personnel du RECA compte des enquêteurs. Il peut rejeter une plainte ou adresser une réprimande à la personne fautive. Chacune des parties – le plaignant comme la personne visée par la plainte – peut interjeter appel à une formation composée de trois personnes, notamment le président du comité responsable des audiences, lequel doit être un membre du conseil nommé par le président du RECA. Aucun membre du conseil n’est tenu de participer à une telle formation. Une formation est constituée pour chaque audience. Ce genre d’audience vise simplement à décider si l’administrateur dirigeant était justifié à rejeter la plainte ou de prendre des mesures en vue d’adresser une réprimande ou d’infliger une amende.
+[12] Une autre sorte d’audience a lieu lorsque la question a été soumise à une formation qui entend la preuve, reçoit les observations, prononce une décision quant à la culpabilité et fixe la sanction appropriée, laquelle peut aller de la réprimande à la révocation du permis. Toutes les décisions des formations sont rendues par écrit. Certaines audiences se terminent en une demi‑journée tandis que d’autres nécessitent plusieurs jours. Une audience a déjà duré un total de 20 jours. Le travail de la formation est tributaire des plaintes et, en 2008–2009 – soit après la période pertinente, mais le volume de travail aux deux époques était comparable –, la formation a approuvé 21 jugements sur consentement et tenu douze audiences contestées. Du 1er janvier 2009 jusqu’à la date de l’audition du présent appel, 22 consentements ont été approuvés et huit audiences contestées ont eu lieu. Une formation peut approuver, modifier ou rejeter n’importe quel règlement proposé.
+[13] D’une manière générale, l’on ne fixe qu’une seule audience par jour et la composition des formations varie habituellement selon les particularités du domaine visé ou pour des raisons, entre autres, d’incompatibilité, de conflit d’horaire pour un membre ou de connaissances spécialisées particulières – ou l’absence de celles‑ci. Il est en outre possible d’interjeter appel d’une décision rendue par une formation chargée d’une audience à une formation d’appel, laquelle se compose de trois membres qui ne faisaient pas partie de la formation initiale. La formation d’appel est composée de trois membres du conseil qui sont nommés par le président. Nul n’est tenu d’être membre d’une formation d’appel. Un membre de la Law Society of Alberta peut être nommé pour faire partie d’une formation d’appel si le président du conseil le juge opportun. Peu de formations d’appel sont constituées au cours d’une année et la durée de l’audition d’un appel ne dépasse pas quelques jours, tout au plus.
+[14] Aucun membre du conseil ne sera nommé à une formation chargée de tenir une audience ou à une formation d’appel à moins d’avoir terminé certains cours offerts par la Foundation of Administrative Justice. Les membres du conseil peuvent choisir d’assister à certains colloques ou congrès ou encore de s’inscrire à une formation de perfectionnement professionnel. Ils ne sont pas obligés d’assister à des activités spéciales, comme les cérémonies de remise de prix, à titre de représentant du RECA, mais un membre qui souhaite y assister recevra une somme fixe et le remboursement de ses dépenses réelles.
+[15] M. Myroniuk a affirmé que la politique relative aux honoraires est adoptée par résolution du conseil. Un barème des paiements (pièce A‑1 ci‑jointe à l’annexe A) a été établi et ces taux étaient applicables pendant toute la période pertinente à l’exception des six derniers mois. La partie du bas montre les nouveaux honoraires déterminés ainsi que certains paiements supplémentaires pour des services qui n’étaient pas inclus de 2004 jusqu’au milieu de 2006. Seuls les services énumérés donnent droit aux membres de recevoir un paiement. Si l’on n’assiste pas à une réunion du conseil, peu importe la raison, aucun paiement n’est versé. Dans le passé, il est arrivé qu’un membre ne puisse se présenter aux réunions pendant près d’un an et aucune somme ne lui a été payée. En raison de l’éventail des honoraires et de la possibilité pour les membres de choisir de ne pas assister aux réunions ou de refuser de faire partie d’un comité, d’une formation chargée d’une audience ou d’une formation d’appel, l’étendue de la participation à des activités admissibles et le montant total des paiements varient énormément, comme le révèlent les pièces A‑2 et A‑3. La première ligne de la pièce A‑3 (ci‑jointe à l’annexe B) précise les gains touchés par Mme Andre‑Kopp en 2004, en 2005 et en 2006. La pièce A‑4 fait état de ses activités en sa qualité de membre du RECA. Après le 1er juillet 2006, des honoraires fixes de 150 $ étaient payés au membre et au président se réunissant pour rendre une décision en appel. D’autres services ont été ajoutés au barème des paiements, y compris la nomination et l’établissement du calendrier pour les formations chargées d’une audience ou les formations d’appel, les demandes d’ajournement ainsi que les questions de procédure et d’administration générale, pour lesquels les membre recevaient la somme de 100 $ – sous réserve des demandes d’ajournement qui commandaient des honoraires de 150 $ – et le président recevait une somme supplémentaire de 50 $ pour chacun de ces services, à l’exception de la catégorie visant l’administration générale, pour laquelle il recevait la même somme qu’un membre ordinaire. Seules les activités énumérées dans les barèmes ou les tableaux rendaient un membre admissible à recevoir un paiement. Aucun paiement n’est versé à un membre, quel qu’il soit, s’il n’a pas assisté à une réunion, à une audience ou à une autre activité reconnue, peu importe la raison. La participation par téléphone ou par un autre moyen électronique à certaines réunions relatives à des questions de procédure permet aux membres d’obtenir la somme prévue.
+[16] Pendant le contre‑interrogatoire effectué par l’avocat de l’intimé, M. Myroniuk a reconnu que les renseignements publiés sur le site Web du RECA étaient les mêmes que ceux figurant sur l’imprimé produit à titre de pièce R‑1. Un barème des honoraires, révisé en novembre 2009, se trouve à la page 30. La durée du mandat d’un membre est de trois ans. Les membres doivent présenter une demande de paiement. Bien que certains le fassent presque immédiatement, d’autres attendent beaucoup plus longtemps. Le paiement est approuvé par M. Myroniuk à titre d’administrateur dirigeant ou, en son absence, par un autre directeur. Le paiement est traité de façon distincte de la paie ordinaire des employés. Un chèque émis à l’ordre d’un membre est signé par deux personnes, soit le directeur des services de gestion et M. Myroniuk, à titre d’administrateur dirigeant, ou un autre directeur qu’il désigne. Le chèque est tiré sur le même compte bancaire que ceux émis à l’ordre des employés ordinaires.
+[17] L’avocat de l’appelant fait valoir la thèse selon laquelle même si la travailleuse occupait un « poste » au sens où ce terme est employé dans la disposition applicable du Régime, la question en litige est celle de savoir à quoi avait droit le membre au moment de sa nomination.
+[18] L’avocat de l’appelant a soutenu que la Loi de l’impôt sur le revenu (la « Loi ») ne vise que le résultat obtenu après que le revenu a été gagné et qui, manifestement, ne peut être vérifié qu’à la fin de l’année d’imposition ou ultérieurement. Or, la nomination d’un membre au RECA ne lui donne, en soi, droit à rien. La rémunération éventuellement reçue n’est connue que lorsque certaines fonctions ont été remplies et le membre a droit à un paiement fondé sur la prestation de ces services, lesquels le rendent admissible à une rémunération. L’avocat de l’appelant a affirmé que les termes « déterminée ou constatable » doivent avoir une signification et qu’ils visaient la nomination en tant que telle. Autrement, les honoraires gagnés par la suite seront connus au moment où il faudra produire une déclaration de revenus puisqu’un revenu constitue du revenu peu importe sa source. L’avocat de l’appelant s’est appuyé sur la preuve voulant que l’on ignore le nombre exact de réunions tenues pendant une quelconque période donnée et que la présence des membres ne soit pas obligatoire. Il se peut qu’un membre ne soit pas nommé pour faire partie d’un comité ou d’une formation et, s’il est nommé, il peut choisir de ne pas participer à la réunion ou à l’audience. La somme payée peut être tributaire de la durée d’une réunion ou d’une audience particulière, et certains services ne sont pas rémunérés. L’avocat a renvoyé à une affaire où un taux horaire avait été fixé et où il aurait dû être relativement aisé d’effectuer les calculs requis, mais le tribunal avait néanmoins conclu que la rémunération n’était pas déterminée ni constatable.
+[19] L’avocat de l’intimé a fait valoir que l’article 6 de la Real Estate Act établissait que les membres avaient un mandat d’une durée de trois ans. Il a soutenu que la nomination au RECA est une occasion de gagner une rémunération dont le montant est constatable selon un barème une fois qu’un service ou une série de services particuliers ont été rendus. La formule permettant de déterminer le droit à une rémunération est bien établie et est, ou devrait être, connue d’un présumé membre avant sa nomination puisque toutes les sommes sont publiées. L’ensemble de la rémunération est susceptible de détermination et le service de comptabilité du RECA confirmait l’exactitude des demandes de paiement présentées avant d’émettre un chèque. Selon l’avocat de l’intimé, la preuve montre que le barème précis des honoraires applicables pour divers services rendus, en particulier depuis les modifications apportées en juillet 2006, permet de déterminer la rémunération avec un haut degré d’exactitude. Le barème permet donc de répondre à la définition des termes « fonction » ou « charge » donnée à l’article 2 du Régime, et le ministre du Revenu national (le « ministre ») était justifié à établir les cotisations relatives à Mme Andre‑Kopp puisqu’elle occupait une charge auprès du RECA pendant la période du 1er janvier 2004 au 31 décembre 2006.
+Dispositions législatives pertinentes
+[20] Les dispositions applicables dans le cadre du présent appel sont le paragraphe 248(1) de la Loi et l’article 2 du Régime :
+248(1) « charge » Poste qu’occupe un particulier et qui lui donne droit à un traitement ou à une rémunération fixes ou vérifiables, y compris une charge judiciaire, la charge de ministre de la Couronne, la charge de membre du Sénat ou de la Chambre des communes du Canada, de membre d’une assemblée législative ou de membre d’un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu au suffrage universel ou bien choisi ou nommé à titre représentatif, et comprend aussi le poste d’administrateur de société; « fonctionnaire » ou « cadre » s’entend de la personne qui détient une charge de ce genre, y compris un conseiller municipal et un commissaire d’école;
+2.(1) Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« fonction » ou « charge » et « fonctionnaire »
+« fonction » ou « charge » Le poste qu’occupe un particulier, lui donnant droit à un traitement ou à une rémunération déterminée ou constatable. Sont visés par la présente définition une charge judiciaire, la charge de ministre, de lieutenant‑gouverneur, de membre du Sénat ou de la Chambre des communes, de membre d’une assemblée législative ou d’un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu par vote populaire ou est élu ou nommé à titre de représentant, y compris le poste d’administrateur de personne morale; « fonctionnaire » s’entend d’une personne détenant une telle fonction ou charge;
+[21] La définition du terme « charge » prévue dans la Loi de 1948 était presque identique à celle actuellement donnée dans le Régime sauf pour la présence des termes « la charge […] de lieutenant‑gouverneur ». Malgré les longs débats auxquels les modifications apportées à la Loi en 1948 ont donné lieu à la Chambre des communes, il n’a jamais été question de la définition du terme « charge ».
+[22] Dans la décision Pro-Style Stucco & Plastering Ltd. c. Canada, 2004 CCI 32, M. le juge Rip (tel était alors son titre) a conclu qu’un administrateur de personne morale gagnait un revenu tiré d’une charge et qu’il exerçait donc un emploi ouvrant droit à pension pour l’application du Régime. La principale question en litige était celle de savoir si l’unique actionnaire et administrateur de la société était un employé malgré le contrat qu’il avait conclu avec sa société possédée en propriété exclusive à titre d’administrateur, compte tenu du fait qu’il recevrait une allocation de présence pouvant atteindre [traduction] « jusqu’à concurrence de 80 pour 100 environ (quatre‑vingt pour cent) du profit net de la société ». Au paragraphe 19 de son jugement, le juge Rip tient les propos suivants :
+19 Il m’est difficile, bien que cela ne soit pas nécessairement impossible, de croire qu’une société qui n’a qu’un seul actionnaire, qui est aussi l’unique administrateur, puisse exploiter une entreprise dans l’industrie de la construction sans engager des employés et même de n’avoir que ce seul administrateur. Le représentant de l’appelante, M. Mason, m’a rappelé que l’intention des parties signataires d’un accord est importante et que celle des parties qui ont conclu l’Accord, notamment l’entreprise Pro‑Style et M. Marocco, est claire : les parties voulaient créer une relation contractuelle. M. Mason a fait valoir que M. Marocco assumaient plusieurs fonctions, mais aucune d’elles ne relevait de celles d’un employé de l’entreprise Pro‑Style.
+[23] Au paragraphe 22, il poursuit en ces termes :
+22 Il se peut que l’Accord conclu entre M. Marocco et l’entreprise Pro‑Style soit censé être un contrat en vertu duquel M. Marocco s’est engagé à fournir ses services à l’entreprise Pro‑Style, mais les parties ont également convenu que M. Marocco serait l’administrateur de l’entreprise Pro‑Style2. Il existe des dispositions législatives qui désignent M. Marocco comme un employé de l’entreprise Pro‑Style parce qu’il est un administrateur de la société et qu’il agit à ce titre en plus d’être son président. Par exemple, le RPC définit un employé de manière à inclure les fonctionnaires. Un fonctionnaire s’entend d’une personne qui détient une telle fonction ou charge « lui donnant droit à un traitement ou à une rémunération déterminée ou constable […] y compris le poste d’administrateur de personne morale »3. La disposition 1.1a) de l’Accord donne droit à M. Marocco à un traitement constable pour les services qu’il fournit à titre d’administrateur. Le RPC définit également un « emploi » de manière à inclure « la période d’occupation d’une fonction ». Un « employeur » est une personne « tenue de verser un traitement, un salaire, ou une autre rémunération pour des services accomplis dans un emploi. Est assimilée à un employeur, dans le cas d’un fonctionnaire, la personne qui lui verse sa rémunération »4. Dans l’affaire en l’espèce, l’employeur est l’entreprise Pro-Style.
+[24] Cette décision est invoquée principalement à l’appui de l’assertion selon laquelle il est difficile d’établir une distinction entre un employé et un entrepreneur dans le cas de personnes morales n’ayant qu’un seul actionnaire et administrateur.
+[25] Dans la décision Payette c. Canada (Ministre du Revenu national – M.R.N.), 2002 CarswellNat 4668, [2002] A.C.I. no 386, M. le juge Dussault était saisi des appels de membres d’un comité provincial d’aide juridique et de la question de savoir si ces derniers étaient tenus de verser des cotisations sous le régime de la Loi sur l’assurance‑emploi vu qu’ils exerçaient un emploi assurable. Ils recevaient des honoraires fixés selon un taux horaire de 50 $. Le juge Dussault a examiné les décisions plus anciennes aux paragraphes 16 à 20, inclusivement :
+16 La définition de « charge » que l’on retrouve dans la Loi de l’impôt sur le revenu a été analysée à quelques occasions par les tribunaux. Trois décisions présentent un certain intérêt à cet égard. Il s’agit des décisions dans les affaires Guérin v. M.N.R., 52 DTC 118, MacKeen v. M.N.R., 67 DTC 281 et Merchant v. The Queen, 84 DTC 6215.
+17 Dans l’affaire Guérin, l’appelant, un juge de la Cour des sessions de la paix, avait, au cours de l’année 1949, été membre de plusieurs conseils d’arbitrage concernant des conflits de travail. L’appelant a inclus la rémunération reçue dans son revenu, mais a réclamé des dépenses comme si ses services avaient été rendus dans le cadre d’une entreprise et non d’une charge ou d’un emploi, comme le prétendait le Ministre. Il est à noter qu’il avait été mis en preuve que l’appelant devait payer lui‑même pour une secrétaire à temps partiel, pour la papeterie et autres fournitures de bureau, pour l’utilisation d’une dactylo et qu’il devait aussi engager d’autres dépenses, notamment pour le transport. Le président Monet de la Commission d’appel de l’impôt sur le revenu détermina rapidement que l’appelant n’était pas un employé. La question se posait toutefois de savoir s’il occupait une charge.
+18 Dans sa décision, le président Monet fit d’abord remarquer que l’appelant avait été expressément autorisé à faire partie de tels conseils d’arbitrage par le Procureur général du Québec. Étant alors considéré en congé sans solde, ce n’était donc pas à titre de juge qu’il faisait partie de ces conseils. Bien que la rémunération prévue avait été fixée à 12,50 $ par séance d’un conseil d’arbitrage, le nombre de séances auxquelles l’appelant était appelé à participer n’était pas connu à l’avance, de sorte que le président Monet a décidé que la rémunération n’était ni fixe ni véritable au point de départ. Voici en quels termes il s’exprimait à cet égard à la page 121 :
+[traduction]
+[...] Selon la définition susmentionnée, un contribuable ne doit pas être considéré comme s’il exerçait une charge simplement parce qu’il occupe un poste. Le poste doit lui donner droit à un traitement ou à une rémunération. Dans le cas contraire, le poste n’est pas une « charge » au sens de la Loi de l’impôt sur le revenu. Le poste qu’occupe l’appelant lorsqu’il agit comme membre d’un conseil d’arbitrage lui donne‑t‑il droit à un traitement ou à une rémunération déterminée ou constatable? Je ne le crois pas. Même si l’on a établi que l’appelant a droit à des honoraires de 12,50 $ pour chaque audience du conseil à laquelle il participe, j’estime que ce fait, à lui seul, n’est pas suffisant. Je ne crois pas qu’il soit possible, parce qu’une rémunération déterminée se rattache au fait de tenir séance, de conclure qu’une rémunération déterminée se rattache également au poste lui‑même. Pour tirer une conclusion en ce sens il nous faudrait dire que le fait de tenir séance constituait en soi le poste, ce qui, à mon avis, est absurde. La rémunération de l’appelant est fixée en fonction de deux facteurs distincts. Premièrement, un facteur connu, la rémunération de 12,50 $ versée à l’appelant chaque fois qu’il participait à une audience et, deuxièmement, un facteur inconnu, le nombre d’audiences nécessaires pour que le conseil d’arbitrage puisse mener à terme les travaux qui lui sont confiés. Dans la mesure où le deuxième facteur demeure inconnu, et ce sera le cas jusqu’à ce que la dernière audience soit tenue, il est impossible d’établir la rémunération que recevra l’appelant. Rien, il me semble, ne pourrait être plus indéterminé.
+Par les mots « poste donnant droit à un traitement ou rémunération déterminée ou constatable », le législateur, à mon sens, entend un poste dont la rémunération est telle que celui qui l’accepte, en l’acceptant, connaît exactement la rémunération qu’il recevra pour les services qu’il est appelé à rendre. Je pense qu’il s’agit là du véritable sens à donner au terme « charge » tel qu’il est défini à l’alinéa 127(1)aa) reproduit plus haut, compte tenu des personnes énumérées dont les fonctions constituent une charge. Je crois également que le terme « charge », tel qu’il est défini, évoque une continuité et une permanence; l’on ne peut certainement pas dire qu’il y a continuité ou permanence dans les fonctions confiées au membre d’un conseil d’arbitrage.
+[...]
+[Non souligné dans l’original.]
+19 Dans l’affaire MacKeen précitée, il s’agissait de déterminer si l’appelant, nommé membre d’une commission royale d’enquête, exerçait une charge ou un emploi ou avait plutôt rendu ses services dans le cadre d’une entreprise, comme il le prétendait. Ici encore, la déduction de certaines dépenses était au cœur du débat puisque les règles applicables n’étaient pas les mêmes. La rémunération de l’appelant avait été établie par arrêté en conseil à 100 $ par jour, plus 20 $ par jour lorsqu’il était absent du lieu de sa résidence habituelle au service de la commission. Il était prévu que ses dépenses pour frais de transport lui seraient aussi remboursées sur présentation de pièces justificatives. Le commissaire Boisvert de la Commission d’appel de l’impôt décida que l’appelant n’était pas un employé et qu’il n’occupait pas non plus une charge. Sur ce dernier point, on trouve le commentaire suivant à la page 284 :
+[traduction]
+[...]
+Dans son ouvrage intitulé Law of Income Tax, Surtax and Profits Tax, (1962), l’auteur G.S.A. Wheatcroft mentionne ce qui suit à la page 1057, 1-107 : « Le terme "charge" dénote un poste durable, permanent et important qui existe indépendamment de la personne qui l’occupe, et qui continue d’exister et d’être occupé successivement par des titulaires successifs ». Le fait d’agir comme commissaire d’une commission spéciale et restreinte, que ce soit une commission d’enquête parlementaire ou autre, dont le mandat et la durée sont limités, ne revêt aucune des caractéristiques associées à une charge ou à un emploi.
+[...]
+20 C’est ensuite en se référant notamment au passage précédemment cité de la décision dans l’affaire Guérin que le commissaire Boisvert en arriva à la décision que l’appelant n’occupait pas une charge et que son revenu provenait plutôt d’une entreprise.
+[26] Le juge Dussault a ensuite examiné l’effet du jugement rendu par Mme la juge Reed dans la décision Merchant v. The Queen, 84 DTC 6215, et il a fait les observations suivantes aux paragraphes 21 à 24, inclusivement :
+21 La décision dans l’affaire Guérin précitée, de même que celle dans l’affaire MacKeen précitée, ont toutes deux été critiquées par le juge Reed de la Section de première instance de la Cour fédérale dans l’affaire Merchant précitée, dans laquelle il s’agissait de savoir si les dépenses engagées par un candidat à la course au leadership d’un parti politique étaient déductibles. Ainsi, concernant la décision dans l’affaire MacKeen précitée, le juge Reed a affirmé à la page 6217 :
+[traduction]
+[…]
+La Commission est arrivée à cette conclusion pour un certain nombre de raisons (dont le fait que le poste de commissaire n’était pas permanent et que le contribuable avait accepté, au moment de sa nomination, le montant alloué par le gouvernement au titre des frais de déplacement). Par conséquent, je n’accorde pas trop d’importance à la partie de la décision qui statue que le revenu du contribuable n’était pas vérifiable. En fait, j’estime qu’il l’est. À mon avis, ce terme signifie qu’il doit être possible de préciser ou de déterminer le montant, et non que la personne occupant la charge doit savoir, au moment où elle entre en fonction, la somme exacte qu’elle recevra. Il faut que ce terme signifie autre chose que "fixe" sinon il devient tout à fait redondant.
+[...]
+22 Quand à la décision rendue dans l’affaire Guérin précitée, le juge Reed l’a commentée dans les termes suivants, aux pages 6217 et 6218 :
+[traduction]
+Je ne suis pas convaincue qu’un contribuable doive connaître, dès son entrée en fonction, le montant qu’il recevra. Il me semble qu’une indemnité journalière fixe ou un montant précis pour chaque séance confère au revenu un caractère suffisamment vérifiable pour qu’il corresponde à la définition contenue au paragraphe 248(1). Toutefois, dans l’affaire Guérin, d’autres facteurs rendaient le revenu non vérifiable et auraient dû, à mon avis, être au centre de la décision :
+Il a été prouvé que l’appelant doit payer lui‑même les services d’une secrétaire qu’il emploie à des journées et à des heures irrégulières, qu’il doit également payer la papeterie dont il a besoin, payer pour l’usage d’un clavigraphe et tout autre accessoire nécessaire pour l’accomplissement de son travail [...] Il est encore prouvé que, en maintes circonstances, l’appelant doit acquitter le coût du transport de sa secrétaire et d’autres personnes agissant comme conseillers et qu’à plusieurs reprises il a dû acquitter le coût de repas pour des assistants et des aviseurs.
+Selon moi, ces facteurs sont décisifs et font qu’on ne peut déterminer précisément la rémunération attachée au poste d’arbitre.
+23 Compte tenu de l’insuffisance de la preuve présentée, le juge Reed a conclu qu’il n’était pas possible, dans les circonstances, d’établir que la rémunération du poste auquel prétendait l’appelant était vérifiable.
+24 Toutefois, dans ses commentaires sur la décision dans l’affaire Guérin précitée, le juge Reed semble tenir pour acquis que la rémunération dans ce cas n’était pas vérifiable principalement en raison des dépenses que devait assumer l’appelant. Je ne suis pas d’accord avec cette position. Les termes « traitement » et « rémunération » s’entendent de montants bruts et non de revenu net une fois les dépenses déduites. Ceci apparaît clairement du libellé du paragraphe 5(1) de la Loi de l’impôt sur le revenu. Par ailleurs, l’utilisation du qualificatif « véritable » ou « constatable » doit, il me semble, référer à quelque chose qu’il est possible de vérifier ou de constater a priori car autrement ces qualificatifs n’auraient aucune portée puisque tout peut être vérifié ou constaté a posteriori. Ainsi, si le « traitement » ou la « rémunération » n’est pas fixe, encore faut-il pouvoir l’établir à l’avance avec un minimum d’exactitude par l’utilisation d’une formule quelconque ou la référence à certains éléments déterminés. C’est là, à mon avis, le sens des décisions dans les affaires Guérin et MacKeen précitées.
+[27] Au moment de conclure que le poste occupé par les appelants ne pouvait être assimilé à un emploi assurable, le juge Dussault a tenu les propos suivants aux paragraphes 25 et 26 :
+25 Dans le cas présent, le paragraphe 22k) de la Loi sur l’aide juridique prévoit que la Commission des services juridiques doit former un Comité chargé d’effectuer les révisions prévues aux articles 74 et 75 de cette loi. Par ailleurs, l’article 74 de la même loi prévoit que toute demande de révision est décidée par trois membres dont au moins un est avocat. L’Avis d’appel nous apprend que les membres du Comité de révision sont tous des avocats, qu’ils sont nommés pour un an par la Commission et que leur mandat est renouvelable (paragraphe 8). Il nous apprend aussi que les membres sont rémunérés à vacation, c’est-à-dire, uniquement lorsqu’ils siègent pour entendre les demandes de révision ou lorsqu’ils délibèrent et rédigent leurs décisions (paragraphe 12). Leur rémunération est fixée à 50 $ l’heure (paragraphe 13). Par ailleurs, l’Avis d’appel fait état que le Comité de révision rend mille (1 000) décisions par année en quarante et une (41) séances (paragraphe 15). Par entente, tous ces faits sont admis par l’intimé.
+26 C’est sans trop de difficultés que je pourrais conclure que les appelants, membres du Comité de révision, occupent une charge. En effet, le Comité de révision est une institution permanente de la Commission des services juridiques. Le fait d’être nommé membre pour un an, de même que celui d’avoir d’autres occupations professionnelles ailleurs, n’impliquent aucunement qu’on ne peut occuper un poste pour une durée déterminée et à temps partiel. On peut à la fois pratiquer le droit et être administrateur d’une société par actions et même de plusieurs. Je ne vois là rien d’incompatible. On ne peut affirmer qu’une personne n’occupe pas un poste parce que son activité professionnelle dominante s’exerce ailleurs qu’à la Commission. Toutefois, il n’est pas suffisant d’occuper un poste, encore faut-il que ce poste donne droit à un « traitement ou à une rémunération déterminée ou constatable » selon les termes de la définition du paragraphe 2(1) du Régime de pensions du Canada. Or, dans la présente instance, il est évident que le poste ne donne pas droit à un traitement ou à une rémunération fixe. Par ailleurs, j’estime qu’il est impossible d’en arriver à la conclusion que la rémunération est constatable, puisque les faits énoncés à l’Avis d’appel et admis par l’intimé sont insuffisants à cet égard. On ne sait pas combien de fois chaque membre est appelé à siéger sur le Comité de révision ou combien de jours ou d’heures sont consacrés à cette activité dans une année. Les informations concernant le nombre de séances du Comité de révision et le nombre de demandes de révision entendues annuellement ne permettent pas de connaître de paramètre certain pour les membres pris individuellement. Je n’ai aucune idée du « traitement » ou de la « rémunération » que les membres du Comité de révision étaient susceptibles de recevoir pour rendre leurs services et aucune information n’a d’ailleurs été fournie à cet égard sinon qu’ils sont rémunérées à vacation à un taux horaire de 50 $. À mon avis, cette simple indication du taux horaire décidé par la Commission des services juridiques n’est pas suffisante pour établir que le poste lui-même donnait droit à un « traitement » ou à une « rémunération » qui était « déterminée ou constatable » . Ainsi, j’estime que l’intimé qui a simplement admis les faits énoncés à l’Avis d’appel ne s’est aucunement déchargé de son fardeau d’établir que les appelant(e)s, membres du Comité de révision de la Commission des services juridiques, occupaient une fonction ou une charge au sens du paragraphe 2(1) du Régime de pensions du Canada. Le sous‑alinéa 6f)(iii) du Règlement ne peut donc être applicable en l’espèce pour inclure dans les emplois assurables le poste occupé par les appelant(e)s.
+[28] Dans la décision Guyard c. Canada, 2007 CCI 231, [2007] A.C.I. no 183, le juge Angers a tranché l’affaire sur le fondement que le poste occupé par l’appelant ne possédait pas le degré de permanence nécessaire. Aux paragraphes 33 et 34 de son jugement, le juge Angers s’est exprimé en ces termes :
+33 En l’espèce, l’appelant est un urbaniste à la retraite qui offre ses services à titre de consultant. Ses services sont retenus sur une base journalière de 8 heures à un taux per diem établi par le Comité de transition de la Ville de Québec. Il détermine lui‑même ses jours de travail qui s’établissent à un maximum de 261 jours par année. Il peut travailler à domicile ou au bureau du Comité. Il doit présenter un compte d’honoraires pour être payé et est un inscrit aux fins de la taxe sur les produits et services. Il est professeur à l’Université Laval et travaille à contrat pour d’autres municipalités tout en étant membre du Comité. Il gère son temps et planifie son travail en conséquence. Le Comité à qui il rend ses services a été créé pour un court lapse de temps, contrairement aux membres d’une assemblée législative, du Sénat ou du Lieutenant‑Gouverneur, dont les charges ont une existence propre indépendamment de la personne qui occupe ces postes. En fait, à la question de savoir si l’appelant aurait été remplacé s’il avait démissionné, il a répondu que cela aurait peut-être été facile en début de mandat, mais pas en cours de mandat. Il faut aussi noter que le Comité lui‑même existe de façon temporaire. À mon avis, l’intention du législateur était donc de ne viser que des personnes occupant une charge ou une fonction ayant un certain degré de permanence, ce qui n’est pas le cas en l’espèce. Les sous‑alinéas 6 f) (ii) et (iii) n’ont donc pas application en l’espèce.
+34 L’appelant n’occupait pas un emploi assurable au sens de la Loi. L’appel est donc accueilli.
+[29] Plus haut dans ses motifs, le juge Angers examine la question touchant la « rémunération déterminée ou constatable ». Il mentionne ce qui suit aux paragraphes 22 et 23 :
+22 Étant donné ma conclusion, il ne serait pas nécessaire d’analyser la dernière condition, mais je crois qu’il est important pour les fins du dossier d’en faire l’analyse. Est-ce que l’appelant avait droit à une rémunération « déterminée ou constatable » dans le cadre de ses fonctions auprès du comité au sens de la définition du terme fonction ou charge au paragraphe 2(1) du Régime? Je suis d’avis, comme le juge Dussault dans la décision Payette, précitée, que la jurisprudence relative à la notion de fonction et charge que l’on trouve dans la Loi de l’impôt sur le revenu est applicable en l’espèce.
+23 À la question de savoir quelle était l’intention du législateur lorsqu’il a utilisé les mots « déterminée ou constatable », l’avocat de l’intimé soumet que l’intention était de couvrir la situation d’une personne qui ressemble beaucoup à un employé avec la seule différence que le titulaire de fonction ou de charge n’est pas supervisé. Selon l’avocat de l’intimé, une personne qui gagne 10 $ l’heure ou 678 $ par jour reçoit une rémunération fixe. L’appelant, en déterminant le nombre de jours qu’il allait travailler en fonction du travail à accomplir, était en mesure avec un minimum d’exactitude de déterminer sa rémunération. Cette situation, selon l’avocat de l’appelant, se distingue des causes traitant de ce même sujet, en occurrence l’affaire Payette, précitée, et les décisions Guérin c. M.N.R., 52 DTC 118, Mackeen c. M.N.R., 67 DTC 281 et l’arrêt Merchant c. La Reine, 84 DTC 6215.
+[30] Dans la première phrase du paragraphe 24, lorsqu’il s’est appuyé sur le jugement de la juge Reed, le juge Angers a toutefois mentionné qu’il s’agissait d’une décision de la Cour d’appel fédérale. C’est peut‑être la raison pour laquelle il a déclaré que « [l]’arrêt Merchant, précité, résume l’état actuel du droit sur cette question ».
+[31] Dans la décision Churchman c. Canada, 2004 CCI 191, M. le juge Beaubier était saisi d’un appel interjeté par une avocate qui rendait des services à Développement des ressources humaines Canada (« DRHC ») à titre de présidente d’un conseil arbitral dans le cadre de deux contrats d’une durée de trois ans. La principale question en litige était celle de savoir si la contribuable était un employé ou un entrepreneur indépendant ayant le droit de déduire certaines dépenses engagées en vue de tirer un revenu d’une entreprise. L’appelante touchait une somme quotidienne de 300 $ et, à d’autres moments, de 350 $ à la condition qu’elle préside une audience. Elle ne touchait aucune somme lorsqu’elle acceptait les dates fixées pour la tenue des audiences, lorsque des dossiers lui étaient envoyés à son bureau à domicile, lorsqu’elle examinait ceux‑ci ou lorsqu’elle élaborait une ébauche des décisions devant être rédigées et rendues dans leur forme définitive après l’audience. Si une audience était ajournée, la contribuable ne recevait rien. Au moment de trancher l’appel relatif à la première question, le juge Beaubier a conclu que la contribuable visait à tirer un bénéfice de l’exercice du droit et qu’elle engageait certaines dépenses pour gagner un revenu. Quant au point de savoir si le revenu que DRHC versait à la contribuable constituait un revenu tiré d’une charge, le juge Beaubier a renvoyé à la définition donnée au paragraphe 248(1) de la Loi et il a ajouté ce qui suit au paragraphe 12 :
+12 L’avocat de l’appelante a mis l’accent sur la question de savoir si le montant quotidien touché par l’appelante était « un traitement ou une rémunération fixes ou vérifiables ». Dans la négative, il ne s’agissait pas d’une « charge » au sens de la Loi. Il ne s’agissait pas d’un montant « fixe ». Il s’agissait plutôt d’un montant quotidien accordé uniquement pour les jours d’audience.
+[32] Au paragraphe suivant, le juge Beaubier a fait sien le raisonnement suivi par le juge Dussault dans la décision Payette, précitée, aux paragraphes 24 et 26, lesquels sont reproduits plus haut dans les présents motifs.
+[33] Dans la décision McMillan Properties Inc. c. Le ministre du Revenu national, 2005 CCI 654, 2005 CarswellNat 3444, j’étais saisi d’un appel d’une cotisation établie à l’égard de la société contribuable relativement à des cotisations au titre du Régime visant M. Kelebay, son unique actionnaire, dirigeant et administrateur. Au paragraphe 31 du jugement, je conclus que M. Kelebay a reçu des fonds de l’appelante, à titre d’employé de celle‑ci, et qu’il exerçait un emploi ouvrant droit à pension. Je me penche par ailleurs sur une autre question dans les deux paragraphes suivants :
+32 Au cas où je n’aurais pas raison de conclure que M. Kelebay était un employé de la MPI en vertu d’un contrat de louage de services et que – par conséquent – il occupait un emploi ouvrant droit à pension, je conclus que même s’il lui a été versé en sa qualité d’administrateur, son revenu était constatable au sens de la définition des termes « fonction » et « charge » à l’article 2 du Régime. La méthode choisie par la MPI pour rémunérer M. Kelebay pour ses services en tant que responsable de la gestion d’un immeuble d’appartements reposait sur un facteur déterminant qui pouvait fournir un montant non équivoque, même si ce montant pouvait varier d’une année à l’autre. La rémunération annuelle de M. Kelebay s’élevait à un montant égal au profit net de la MPI tiré de l’exploitation de l’immeuble d’appartements au cours d’une année donnée; ni plus, ni moins. En ce sens, elle n’entre pas dans la même catégorie que celle des membres du comité d’aide juridique dans l’affaire Payette, précitée, où le juge Dussault a conclu qu’il était impossible, d’après les faits, de conclure que la rémunération était constatable même si un traitement horaire de 50 $ avait été établi, car, à lui seul, ce facteur était insuffisant compte tenu des circonstances globales.
+33 Il pourrait y avoir beaucoup de situations où le simple fait d’être un administrateur ne donne pas le droit à une personne de recevoir quoi que ce soit. Parfois, il se peut que des honoraires fixes soient établis dès le début pour l’occupation d’un tel poste ou qu’il y ait un barème des honoraires et une liste de réunions auxquelles le titulaire du poste doit assister afin de recevoir le traitement en question. Pour trancher l’appel, il n’est pas nécessaire que je tire une conclusion concernant la question de savoir si un administrateur qui ne reçoit pas de rémunération est automatiquement un employé de la société en question pour l’application du Régime.
+[34] Dans l’arrêt Rumford c. Canada (CAF), [1993] A.C.F. no 1359, la Cour d’appel fédérale a entendu une demande de contrôle judiciaire visant une décision de la Cour canadienne de l’impôt. Les faits sont énoncés aux paragraphes 2, 3 et 4 du jugement de la Cour prononcé par le juge suppléant Gray :
+2 Pendant l’année d’imposition 1988, le requérant occupait la charge de « travailleur commendataire » au sein de l’assemblée ou de l’église Plymouth Brethen. Toutefois, son travail ne se limitait pas à satisfaire aux besoins spirituels de cette assemblée. Il prêchait également dans d’autres chapelles et donnait des cours à l’école biblique; de plus, il a passé 143 heures à conseiller des membres d’autres congrégations, et il a fait 147 sermons dans d’autres congrégations.
+3 La somme de 27 755 $ que la chapelle biblique Erindale a versée au requérant était composée de deux éléments : a) la somme de 14 640 $ allouée par les anciens de la chapelle et b) le solde, composé des contributions volontaires totales que les membres de la congrégation de la chapelle avaient insérées dans des enveloppes sur lesquelles le nom de celui-ci était inscrit. À l’instruction, le requérant a allégué que le solde des recettes, soit environ 54 500 $, constituait, comme il l’avait déclaré dans sa déclaration, un revenu de travail indépendant, à savoir le travail qu’il avait effectué à titre d’évangéliste itinérant.
+4 Dans sa déclaration de revenus de 1988, le requérant a déclaré la somme de 27 755 $ que lui avait versée la chapelle biblique Erindale à titre de revenu d’une charge ou d’un emploi. De plus, il a déclaré un revenu brut de profession libérale de 54 494,83 $ et un revenu net de profession libérale de 32 034,27 $. Le montant de la déduction réclamée en vertu de l’alinéa 8(1)c) était de 18 600 $.
+[35] Il s’agissait de savoir si le contribuable pouvait déduire de son revenu le montant de son loyer, ou l’équivalent, en application de l’alinéa 8(1)c) de la Loi. Aux paragraphes 7 à 10, inclusivement, le juge suppléant Gray tient les propos suivants :
+7 Dans ses motifs de jugement, le savant juge de première instance a dit ceci :
+Je ne puis accepter que la somme totale que l’appelant a touchée, en sa qualité de travailleur commendataire, de pareilles sources de soutien était véritable au sens de la définition figurant à l’article [sic] 148.
+Le juge a ensuite cité les motifs de jugement qu’il avait lui-même prononcés dans Ralston c. le ministre du Revenu national (12 mai 1989), Cour canadienne de l’impôt, non publié (page 3) :
+La rémunération n’est pas vérifiable au sens de la définition simplement parce qu’il est possible de déterminer le montant des recettes totales en ajoutant, à la fin de l’année, les honoraires touchés pendant l’année. Dans l’arrêt Merchant c. La Reine [1984] 2 C.F. 197, le juge Reed, dans le cadre d’un examen de la jurisprudence concernant le sens de l’expression « vérifiable » a dit ceci, à la p. 202 :
+À mon avis, ce terme signifie qu’il doit être possible de préciser ou de déterminer le montant, et non que la personne occupant la charge doit savoir, au moment où elle entre en fonction, la somme exacte qu’elle recevra. Il faut que ce terme signifie autre chose que « fixe » sinon il devient tout à fait redondant.
+En l’espèce, les membres de la congrégation font des contributions qui constituent une partie très importante de la rémunération de l’appelant et le montant n’est connu qu’en le calculant à la fin de l’année.
+À mon avis, le poste que l’appelant occupait ne constituait donc pas une charge. [...]
+8 À mon avis, le savant juge de première instance a commis une erreur en concluant que le poste que le requérant occupait n’était pas visé par la définition susmentionnée de « charge ». Il ressort de la lettre que la chapelle biblique Erindale a envoyée au requérant le 24 avril 1988 que la rémunération fixe de ce dernier, en 1988, était de 14 640 $. La lettre est en partie ainsi libellée :
+[TRADUCTION] Cette lettre confirme les dispositions financières que la chapelle a prises à votre égard en 1988.
+En 1988, les anciens ont affecté la somme de 14 640 $ à votre ministère, la somme de 3 660 $ devant être versée à chaque trimestre...
+9 On ne peut pas dire que la somme additionnelle que le requérant a touchée provient d’une « charge », parce qu’elle n’est pas « fixe ou vérifiable », conformément au paragraphe 248(1) précité. Par conséquent, le requérant a le droit de faire, en vertu de l’alinéa 8(1)c), une déduction qui n’excède pas le montant de sa rémunération vérifiable, à savoir la somme de 14 640 $.
+10 L’appel est donc en partie accueilli et la cotisation pour l’année d’imposition 1988 est renvoyée au ministre du Revenu national pour qu’une nouvelle cotisation soit établie compte tenu du fait que le requérant a le droit de déduire la somme de 14 640 $ de son revenu pour l’année d’imposition 1988, conformément aux dispositions de l’alinéa 8(1)c) de la Loi de l’impôt sur le revenu.
+[36] Dans l’arrêt Succession Vachon c. Canada, 2009 CAF 375, [2009] A.C.F. no 1630, la Cour d’appel fédérale était saisie de l’appel de 16 appelants qui travaillaient pour des conseils centraux à titre de militants syndicaux. La question en litige portait sur le traitement fiscal de certaines allocations que leur versaient les conseils centraux. Le ministre avait conclu que ces allocations étaient imposables en vertu des articles 5 et 6 de la Loi. Selon la décision de la Cour canadienne de l’impôt, les allocations n’étaient ni imposables ni assurables puisqu’elles n’avaient pas été versées dans le cadre d’une charge ou d’un emploi, mais plutôt en raison de l’exercice de fonctions syndicales remplies à titre bénévole. Au paragraphe 38 de l’arrêt Vachon, M. le juge Noël s’exprime en ces termes :
+38 L’existence de ce deuxième critère est assujettie à deux conditions. La charge ou le poste occupé doit « donner droit » à une rémunération, et cette rémunération doit être « fixe ou vérifiable » ou « déterminée ou constatable ». L’aspect fixe ou vérifiable de la rémunération semble acquis puisque les militants connaissaient avec précision les conditions monétaires rattachées à leur libération syndicale dès qu’ils posaient leur candidature à un poste syndical (Témoignage de Pierre Morel, dossier d’appel, vol. III, p. 707).
+[37] Avant de conclure que les appels devaient être accueillis, le juge Noël a mentionné ce qui suit aux paragraphes 39 à 42, inclusivement :
+39 Par contre, la condition selon laquelle le poste ou la charge doit « donner droit » à cette rémunération était, selon le juge de la CCI, absente. Le juge de la CCI tire cette conclusion principalement parce qu’il n’existe aucune relation contractuelle ni de statuts ou règlements des Conseils centraux qui donnent droit à cette rémunération (motifs, para. 54).
+40 Avec égards, le fait qu’il n’existe aucune relation contractuelle entre les militants et les Conseils centraux donnant droit à cette rémunération, ou que leurs statuts ou règlements ne prévoyaient pas cette rémunération, est sans conséquence. La seule question consiste à déterminer si les militants étaient payés pour leurs activités en tant que dirigeants syndicaux pendant leur libération syndicale (voir à cet égard la décision de la juge Lamarre Proulx dans Duguay c. Canada, [2000] A.C.I. no 381 (QL) au paragraphe 37, où elle identifie cette question de la même façon dans un contexte comparable).
+41 À mon humble avis, poser la question, c’est y répondre. Les militants bénéficiaient de leur plein salaire et de tous les avantages sociaux prévus à leur convention collective malgré le fait qu’ils ne rendaient aucun service à leur employeur habituel. L’employeur habituel pour sa part se voyait rembourser par les syndicats respectifs et le coût de cette rémunération était ultimement assumé par les Conseils centraux. Seuls les services que rendaient les militants en tant que dirigeants syndicaux peuvent expliquer pourquoi ils recevaient leur rémunération habituelle pendant leur libération syndicale et seul le fait que les employeurs habituels étaient remboursés explique pourquoi ils acceptaient de payer la rémunération même si aucun service ne leur était rendu.
+42 Le fait que la rémunération était versée par l’intermédiaire de l’employeur habituel ne change rien à l’analyse. Contrairement à ce qu’affirme le procureur des intimés, il ne s’agit pas ici de donner une nouvelle qualification aux rapports juridiques entre les parties (Shell, supra, para. 39), mais bien de constater l’existence de ces rapports pour ce qu’ils sont. Or, il est clair que les employeurs habituels agissaient pour le compte des syndicats respectifs et ultimement les Conseils centraux lorsqu’ils acceptaient de verser la rémunération aux militants pendant leur libération syndicale.
+[38] L’avocat de l’appelant a soutenu que les termes « déterminée ou constatable » doivent avoir une signification. J’en conviens. Une règle d’interprétation législative prévoit que l’« on doit […] présumer que chaque terme, chaque phrase, chaque alinéa, chaque paragraphe ont été rédigés délibérément en vue de produire quelque effet. Le législateur est économe de ses paroles : il ne "parle pas pour ne rien dire"[1] ». Une autre règle d’interprétation législative consiste en la présomption de cohérence. Comme il est signalé plus haut, les définitions du terme « charge » données dans le Régime et dans la Loi sont à peu de choses près identiques. Comme la Cour d’appel fédérale l’a précisé dans l’arrêt Soper c. Canada, [1998] 1 CF 124, « [p]lus concrètement, la présomption de cohérence des lois entre elles se manifeste avec d’autant plus d’intensité que les lois en question portent sur la même matière, sont in pari materia, comme on a l’habitude de dire. »
+[39] Selon le Régime, un emploi ouvrant droit à pension s’entend de services accomplis aux termes d’un contrat de louage de services ou d’apprentissage, y compris la période d’occupation d’une charge dans la mesure où cette charge donne droit à son titulaire à un traitement ou à une rémunération déterminée ou constatable. Dans chaque cas, le particulier est payé par une autre partie. L’employeur paye l’employé, le maître paye l’apprenti et le titulaire d’une charge est payé par un tiers à moins que le paiement ne soit fait à titre personnel en conformité avec les règles en matière de fiducie. La prestation de services dans le cadre d’un contrat de louage de services ne peut constituer une entreprise. Un apprenti est soumis au maître et ne peut, habituellement, exercer le métier visé sans l’approbation de ce dernier ou sans surveillance. Une charge n’existe pas pour le bénéfice de son titulaire, et elle doit revêtir une certaine permanence.
+[40] La paye versée au titre de l’emploi et de l’apprentissage était, traditionnellement à tout le moins, fixée à l’avance. Dans le monde du travail actuel, cette situation a quelque peu changé en raison de la diversité des primes de rendement offertes – qu’il soit question du nombre de buts marqués et de mentions d’aide, de notations plus ou moins, de coups de circuit, d’options d’achat d’actions ou encore de gratifications et de régimes d’avantages indirects – et dont la valeur n’est connue qu’au moment de leur réception. Cependant, le facteur commun à la majorité des emplois tient au fait que le montant de la rémunération est fixé par quelqu’un d’autre que l’employé. Les titulaires d’une charge nommés sous le régime d’un texte législatif ou réglementaire connaissent les conditions de leur nomination, y compris la rémunération, puisqu’elles sont prévues dans ce texte. Les administrateurs de société doivent rendre compte à leurs actionnaires et les titulaires d’une charge élective ne peuvent généralement pas fixer leur propre salaire seuls et doivent plutôt le faire en accord avec d’autres titulaires de charge élective.
+[41] Dans les affaires examinées dans les présents motifs, à l’exception des décisions Payette, Rumford et Vachon, les observations relatives au droit d’un particulier « à un traitement ou à une rémunération déterminée ou constatable » n’étaient qu’incidentes. Or, dans les trois décisions susmentionnées, l’issue reposait carrément sur la signification de ces termes puisqu’il s’agissait de la principale question en litige dans ces appels. Il ressort sans équivoque des arrêts Rumford et Vachon que la Cour d’appel fédérale a accordé beaucoup d’importance au fait que, lorsque la rémunération n’est pas fixée, le caractère constatable doit alors exister a priori, c’est‑à‑dire qui est imaginé ou conçu à l’avance, qui participe ou découle d’un raisonnement fondé sur une assertion qui va de soi, et non a posteriori, c’est‑à‑dire qui participe ou découle d’un raisonnement fondé sur des faits observés.
+[42] Dans la présente affaire, l’examen du barème des honoraires, pièce A‑1, révèle que, pendant les années en cause, peu de renseignements auraient permis aux membres du RECA de connaître à l’avance le montant de leur rémunération. Il aurait fallu connaître le nombre d’audiences ainsi que leur durée. Les personnes nommées ne savaient pas si le président du conseil allait les nommer à un quelconque comité ou leur demander de participer à des congrès, à des colloques, à des cérémonies ou à d’autres événements à titre de représentants du RECA. Tant qu’ils n’avaient pas acquis un certain degré de connaissances spécialisées en droit administratif auprès de sources approuvées par le conseil, les membres ne pouvaient en aucun cas être saisis de questions disciplinaires. Comme en fait état la pièce A‑2, intitulée [traduction] « Participation des membres pour la période du 1er janvier 2007 au 31 décembre 2009 », la participation aux réunions du conseil et à des événements spéciaux s’étalait sur 3 à 16 jours, à des réunions de comités, sur 1,5 à 15,5 jours, et à des congrès, sur 0 à 17,5 jours. La participation à des formations chargées des audiences et à des formations d’appel allait de 0 à 12,5 jours et la présence à des cours de formation et à des colloques variait de 0 à 5 jours. Il ressort de la pièce A‑3, intitulée [traduction] « Analyse des honoraires », que le revenu de Mme Andre‑Kopp pour les années 2004, 2005 et 2006 se chiffrait à 10 275 $, à 11 875 $ et à 19 975 $, respectivement. En 2004, trois membres n’ont gagné aucune rémunération tirée d’audiences et un membre n’a gagné que 75 $. Un membre n’a participé à aucune audience pendant toute la période pertinente. En 2005 et en 2006, un membre n’a rien gagné. Au cours de ces mêmes années, deux membres n’ont participé à aucune réunion du conseil et n’ont donc rien gagné à ce titre, bien que l’un d’eux ait tiré un certain revenu de sa participation à des audiences. Un membre a gagné une somme totale de 1 500 $ en 2006 tandis que la rémunération d’autres membres ordinaires se situait entre 2 700 $ et 16 000 $, huit membres ayant gagné moins de 6 000 $.
+[43] Si le conseil avait été obligé de payer aux membres une somme minimale, qui aurait pu correspondre à un certain nombre de jours ou de demi‑journées, ou de verser des honoraires pour mise en attente ou pour annulation dans le cas où une audience n’avait pas lieu, ces sommes minimales, à tout le moins, auraient alors été constatables suivant Rumford. Selon le barème des paiements révisé, qui s’appliquait du 1er juillet au 31 décembre 2006, certaines des nouvelles activités admissibles donnaient droit aux membres à des honoraires fixes de 100 $ ou de 150 $. Il n’en demeure pas moins que ces services devaient être rendus. À mon avis, le fait d’être nommé au conseil ne donnait droit aux membres, y compris Mme Andre‑Kopp, à aucune rémunération. L’insigne honneur découlant de la nomination elle‑même tenait au fait que son récipiendaire, dans la mesure où il fournissait une pièce de deux dollars, pouvait s’offrir un café de taille moyenne.
+[44] Je ne suis saisi d’aucun élément de preuve me permettant de conclure qu’une quelconque partie de la rémunération versée à Mme Andre‑Kopp se fondait sur un service pour lequel des honoraires fixes étaient payables au titre de services rendus, même après le 1er juillet 2006. L’actuel barème des honoraires, aux pages 30 et 31 de la pièce R‑1, a pris effet en novembre 2009 et il englobe les services donnant droit au paiement d’honoraires fixes.
+[45] À la lumière des faits, et après avoir examiné la jurisprudence, je suis convaincu que Mme Andre‑Kopp n’occupait pas une charge auprès du RECA pendant la période du 1er janvier 2004 au 31 décembre 2006 et qu’elle n’exerçait pas un emploi ouvrant droit à pension au sens de l’article 2 du Régime.
+[46] L’appel est accueilli et les évaluations établies par le ministre relativement aux années d’imposition 2004, 2005 et 2006, telles qu’elles ont été confirmées par une lettre datée du 13 novembre 2009, sont annulées.
+Signé à Sidney (Colombie-Britannique), ce 5e jour de janvier 2011.
+« D.W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 29e jour de mars 2011.
+Marie‑Christine Gervais
+Annexe A
+REAL ESTATE COUNCIL OF ALBERTA
+Activités reconnues et sommes à payer
+2004, 2005 et 2006
+1er janvier 2004 au 30 juin 2006
+Activité admissible
+Honoraires applicables
+Présence aux réunions du conseil et des comités
+150 $ pour les réunions de 4 heures ou moins (« demi‑journée ») et 250 $ pour les réunions de plus de 4 heures (« journée complète »)
+Audience (présence)
+150 $ (demi-journée)
+250 $ (journée complète)
+Appel (présence)
+150 $ (demi-journée)
+250 $ (journée complète)
+Présidence du conseil, d’un comité, d’une formation chargée d’une audience ou d’une formation d’appel
+350 $ (journée complète)
+1er juillet 2006 au 31 décembre 2006
+Activité admissible
+Honoraires applicables
+Présence aux réunions du conseil et des comités
+250 $ (demi-journée)
+350 $ (journée complète)
+Audience (présence)
+250 $ (demi-journée)
+350 $ (journée complète)
+Appel (présence)
+250 $ (demi-journée)
+350 $ (journée complète)
+Présidence du conseil ou d’un comité
+350 $ (demi-journée)
+500 $ (journée complète)
+MEMBRE
+PRÉSIDENT
+Appel (préparation et examen des éléments)
+250 $ (demi-journée)
+350 $ (journée complète)
+300 $ (demi-journée)
+500 $ (journée complète)
+Réunion visant la décision en appel
+150 $ (honoraires fixes)
+150 $ (honoraires fixes)
+Décision en appel (rédaction)
+150 $
+150 $
+Audience (étape 1 et étape 2)
+250 $ (demi-journée)
+350 $ (journée complète)
+300 $ (demi-journée)
+500 $ (journée complète)
+Formation – audience ou appel (nomination et calendrier)
+100 $
+150 $
+Demande d’ajournement
+150 $
+200 $
+Question de procédure
+100 $
+150 $
+Administration générale (courriels et télécopies – examen et réponses)
+100 $
+100 $
+Annexe B
+REAL ESTATE COUNCIL OF ALBERTA
+Analyse des honoraires
+T4 sommaire – 2004 à 2006
+2004
+2005
+2006
+Nom
+Conseil
+Audience
+Total
+Conseil
+Audience
+Total
+Conseil
+Audience
+Total
+Andre
+Bev
+8 475
+1 800
+10 275
+9 675
+2 200
+11 875
+16 925
+3 050
+19 975
+Chopko
+Andy
+750
+750
+5 800
+5 800
+4 000
+-
+4 000
+Downey
+Graham
+4 550
+1 100
+5 650
+-
+1 200
+1 200
+2 700
+2 700
+Hicks
+David
+6 525
+6 950
+13 475
+-
+-
+-
+Jensen
+Norm
+4 750
+150
+4 900
+6 650
+1 150
+7 800
+4 650
+500
+5 150
+Ladner
+Kevan
+5 700
+1 250
+6 950
+4 600
+1 600
+6 200
+4 200
+2 800
+7 000
+Parker
+Richard
+1 450
+1 450
+5 000
+1 000
+6 000
+7 300
+2 650
+9 950
+Patrick
+Lynn
+8 400
+2 250
+10 650
+17 800
+6 350
+24 150
+6 200
+9 800
+16 000
+Peat
+Jack
+3 500
+75
+3 575
+4 750
+140
+4 890
+4 050
+-
+4 050
+Rudiger
+Pat
+4 950
+250
+5 200
+8 950
+450
+9 400
+6 500
+1 500
+8 000
+Stewart
+Eric
+4 800
+4 800
+8 600
+900
+9 500
+14 450
+600
+15 050
+Sutherland
+Charlotte
+3 750
+500
+4 250
+5 500
+1 150
+6 650
+1 500
+-
+1 500
+Zaharko
+Ted
+13 700
+500
+14 200
+4 900
+350
+5 250
+4 250
+1 100
+5 350
+Dredge
+Allan
+6 400
+3 800
+10 200
+6 450
+3 550
+10 000
+Salomans
+Ralph
+-
+350
+-
+350
+Higa
+Les
+-
+350
+-
+350
+RÉFÉRENCE : 2011 CCI 5
+No DU DOSSIER DE LA COUR : 2010-384(CPP)
+INTITULÉ : Real Estate Council of Alberta c. M.R.N.
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 1er novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge suppléant D.W. Rowe
+DATE DU JUGEMENT : Le 5 janvier 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Thomas M. Ryder
+Avocat de l’intimé :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Thomas M. Ryder
+Cabinet : Parlee McLaws LLP
+3400 Suncor Energy Centre
+150 – 6e Avenue SO
+Calgary (Alberta)
+T2P 3Y7
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+ANNEXE A
+ANNEXE B
+[1] Côté, Pierre-André. Interprétation des lois, 3e éd., Édition Thémis, 1999, p. 350. La Cour suprême du Canada a renvoyé à l’ouvrage de M. Côté une centaine de fois; voir, par ex., Schreiber c. Canada (PG), 2002 CSC 62, par. 73, [2002] 3 RCS 269.

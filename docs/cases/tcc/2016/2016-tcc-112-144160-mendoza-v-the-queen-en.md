@@ -1,0 +1,135 @@
+---
+title: "Mendoza v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/144160/index.do"
+last_modified: "2016-04-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 112"
+citation2: ""
+neutral_citation: "2016 TCC 112"
+decision_date: "2016-04-06"
+language: "en"
+item_id: "144160"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3076
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:55:05.374000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f34f32d703d34872cb0a8f32420772902d0b90cc27250027216b6f09b304b75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mendoza v. The Queen
+
+- Citation: 2016 TCC 112
+- Decision date: 2016-04-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3076, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mendoza v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-06
+Neutral citation
+2016 TCC 112
+File numbers
+2015-4051(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2016 TCC 112
+Docket: 2015-4051(IT)I
+BETWEEN:
+RUBEN MENDOZA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+EDITED TRANSCRIPT OF
+ORAL REASONS FOR JUDGMENT, WITH FOOTNOTES
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at Hamilton, Ontario on April 6th, 2016, be filed. I have edited the transcript for clarity and to make minor corrections, as well as adding footnotes not contained in the transcript. I did not make any substantive changes to my Reasons for Judgment.
+_________________”J.E. Hershfield”_________________
+Hershfield J.
+Signed at Ottawa, Ontario on May 4, 2016.
+Court File No. 2015-4051(IT)I
+TAX COURT OF CANADA
+BETWEEN:
+RUBEN MENDOZA
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+EDITED ORAL REASONS WITH FOOTNOTES ADDED
+Delivered by THE HONOURABLE JUSTICE HERSHFIELD
+at the hearing held at the Unified Family Court,
+55 Main Street West, Hamilton, Ontario,
+on Wednesday, April 6, 2016 at 12:17 p.m.
+APPEARANCES:
+Mr. Ruben Mendoza Self-Represented
+Mr. Gregory B. King for the Respondent
+Also Present:
+Mr. Colin Nethercut Court Registrar
+Ms. Lisa Nguyen Court Reporter
+A.S.A.P. Reporting Services Inc. © 2016
+200 Elgin Street, Suite 1105 333 Bay Street, Suite 900
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5H 2T4
+(613) 564-2727 (416) 861-8720
+Hamilton, Ontario
+--- Upon commencing the excerpt on Wednesday, April 6th,
+2016 at 12:17 p.m.
+ORAL REASONS JUSTICE HERSHFIELD: The Appellant appeals an assessment of his 2013 year. His appeal is in respect of two parts of the assessment. Firstly, the assessment assessed a penalty in the amount of $148.80 for the 2013 taxation year pursuant to subsection 163(1) of the Income Tax Act for repeated failures to report income. Admissions by the Appellant require a finding that the facts relied on by the Respondent in assessing this penalty were correct. Accordingly, the appeal on that point must be dismissed. The dismissal is required notwithstanding that I accept that the Appellant's failure to report certain taxable amounts relating to his employment income was inadvertent.
+The second issue relates to the denial of a non‑refundable tax credit in respect of a transit pass credit for the subject year. The requirement for the credit to apply is detailed in certain definitions as set out in paragraph 118.02(1) of the Act. This issue will turn on the nature of the pass in question and acquired and used by the Appellant in the subject year to commute to and from his place of employment.
+Turning to the Minister's assumptions and the Appellant's testimony, I make the following findings:
+Throughout the 2013 taxation year, the Appellant used a PRESTO card for his commute from his residence in Oakville, Ontario to his work in downtown Toronto, the card being issued by the TTC.
+I am satisfied that the card acquired by the Appellant was for payment of his transit to and from work for some 200 or more one‑way trips made exclusively for this commute. Indeed, considering that usage of the card is in two directions, I am satisfied that the Appellant would have used the card some 400 times or more in the subject year.
+The Appellant gave uncontested and credible evidence that he acquired the subject commuter transit services using his Presto card. He acquired such services from TTC outlets using his credit card for payment. He produced an exhibit showing transit purchases
+throughout the year sufficient to take him to work and back each working day of the year. I accept his testimony that the pass (the acquired commuter transit services) entitled him to go only between the two stations that were the start and end of his daily commute to and from work.
+The exhibit showed the credit card transaction number for all the purchases.[1] While he did not have the credit card monthly statements in court, I accept his un-contradicted and uncontested testimony that he provided the CRA with copies of these statements for the entire year to evidence that he was the person who acquired and paid for the subject transit services.
+The Appellant further testified that he relied on the CRA General Income Tax and Benefit Guide to see what was required of him to claim the subject tax credit. He also testified that he was not asked to support his claim for the public transit credit until 2015 in a letter dated June 26, 2015.
+The Appellant tried to get the TTC records as set out in this letter as being required to obtain the credit. The records sought would identify the Appellant as the person who paid for and used the card. The Appellant testified that the TTC could not produce the required records. He said the TTC said it could only produce such records on a going‑forward basis.[2]
+The Respondent does not deny any of the facts asserted by the Appellant but relies on the wording of the legislation. Firstly, the Respondent pointed to two types of transportation cards defined in the Act. To get the credit, the Appellant must have acquired one of these two types of cards as well as meeting the usage and documentation requirements set out in each such definition.
+I am satisfied that the PRESTO card acquired and used by the Appellant fit the definition of an “eligible electronic payment card”. As such, the requirement for the credit as set out in the legislation ‑‑ and I am reading from that portion of subsection 118.02(2) of the Act that defines that particular card. It is a card that is:
+"a) used by an individual for at least 32 one‑way trips, between the place of origin of the trip and its termination, during an uninterrupted period not exceeding 31 days; and
+"b) issued by or on behalf of a qualified Canadian transit organization, which organization records and receipts the cost and usage of the electronic payment card and identifies the right, of the individual who is the holder or owner of such a card, to use public commuter transit services of that qualified Canadian transit organization."
+I do not believe the requirement as set out in paragraph (a) is in dispute. As to paragraph (b), I have no doubt that the TTC is a qualified Canadian transit organization (as defined in ss 118.02(1)) and is an organization which records and receipts the cost and usage of the electronic payment card and identifies the right of the individual who is the holder or owner of such card to use public commuter transit services.[3]
+Literally speaking, the requirements of that section are thereby met but for the issuance requirement which is a TTC obligation. However, there is no specific requirement in the Act for the taxpayer to obtain and produce the record.[4] One might almost suggest that is the end of the matter (as described in footnote 2). Of course it is going to be said that that definition which includes the issuance of the record necessarily implies that the records referred to as being required must be produced and given to the taxpayer so that the taxpayer can produce the record to the CRA. Admittedly, this seems to be a necessary inference, but I do underline that that is not literally what the definition says which could invite a more purposive approach to the CRA administrative practices.
+The problem we have here is that the TTC would not or could not release the required information unless it had been requested in advance of the record date requested. The Appellant, as I said, testified that based on the guidelines that he had read, he had no idea as to the requirements that would be imposed by the CRA administratively until more than a year later when he received the June letter in 2015. By that time, of course, according to the systemic issues within the TTC, he could not produce the required records.
+It strikes me that if the TTC, a third party beyond the control of the taxpayer, will not release the necessary records, it is necessary to impose a duty on the Appellant to produce other evidence that amounts to what I would call substantial compliance with the requirements of the Act.[5] To deny TTC users the credit because of a systemic issue within this qualifying Canadian transit organization is an unreasonable extension of the issuance requirement to find that there is, by necessary implication, an implied requirement in the Act, that the transit organization produce the required records on the taxpayer’s request and actually give them to the taxpayer, failing which the taxpayer loses the credit.
+A transit user cannot be taken to understand or have control over these systemic problems. Even if the CRA were, with knowledge of the systemic problem, to still insist on the taxpayer’s production of the records maintained by the transit organization, there would be an obligation on the CRA to make its position known to the public. The guide that we have referred to does not set anything like that out and the unwary taxpayer has fallen into a denial of access of an intended legislative benefit by virtue of a systemic problem within an outside organization referred to in the legislation. The CRA has some obligation to direct taxpayers of its compliance requirements positions well in advance of a filing requirement.
+Turning to the CRA’s compliance requirements or administrative position, it strikes me as somewhat odd that the letter of June 26th, in referring to different types of cards, does not use the technical terms used in the Act. It just refers to what it calls a “transit pass” and a “cost‑per‑trip electronic payment card” or “smart card”. There is no reference to the pass defined in the Act as an ”eligible public transit pass”. I am willing to concede that, by the sound of it at least, a cost‑per‑trip electronic payment card would be what the Appellant in this case acquired, namely a Presto card. As I said earlier, it also sounds to me like an eligible public transit pass.[6]
+And here, the CRA's letter in attempting to apply the legislation says, in the case of a cost-per-trip electronic payment card, that the qualified Canadian transit organization must give a usage report giving the rider's name and the cost and usage of the card. On the other hand, interestingly, in the case of the other pass (the transit pass) the letter says if the required documentation setting out listed information (such as the period that the pass is valid for, the organization that is issuing it, the cost of the trip and the rider's name or a unique identifier) is not available then the evidence required to establish these requirements could be your credit card statement.
+So depending on the type of card, we have two different methods where taxpayers can establish their right to this legislated, intended, credit.
+As I have said, I think substantial compliance in a case where a third party qualifying transit organization, over which the taxpayer has no control, has the ability to provide that which legislation requires it to provide and otherwise meets the requirements of the legislation, then there has to be some guideline by the CRA on an administrative basis that allows for substantial compliance using other evidentiary means where that organization fails to issue the required documentation. I am referring to there being substantial compliance where the taxpayer provides the relevant information which the legislation requires (albeit in a different form).
+I think these remarks are sufficient to give the parties the reasons for my decision to allow the appeal in respect of this second issue.
+As I said, (speaking to the Appellant) the judgment that I will sign will just simply say the only thing that you're allowed is the credit. It will not likely mention anything to do with the penalty because it is not allowed. So the judgment speaks only to that which is allowed. If it is not mentioned, it is not allowed. I say this so you will understand that.[7]
+[1] The exhibit set out all the information required to obtain the credit. Indeed, the Appellant distinguished himself in terms of his ability to present excellent records as reflected in this exhibit. Going one step further, while I did not consider this when I read my reasons, much of the evidence shown on the exhibit would necessarily have come from (been issued by) the TTC via its outlets. That was not sufficiently pursued at trial for me to now say it met the issuance requirements of the Act discussed later in this transcript. However, it seems that some if not much of the evidentiary requirements to be set out in a document to be issued by the eligible transit authority was indirectly provided by the Appellant’s self-assembled exhibit.
+[2] This systemic problem suggests that the making of a timely request will be impossible in a vast number of cases.
+[3] I do not believe there is any doubt that the TTC records the subject information. The issue appears to be its ability or more likely its willingness to produce them without a request made prior to the date of the record requested.
+[4] This sentence was not recorded in the transcript but is added to give clarity to the view being expressed. It is a necessary clarification to make considering the next sentence in the transcript suggests that - the failure in the Act to place the burden on the taxpayer to produce that which is not, in the normal course, in his possession or obtainable on a timely basis – might almost be the end of the matter. By “the end of the matter” I mean the end of the relevance of the issuance requirement. As my reasons go on to suggest, if there is this gap in the legislation to expressly require the taxpayer to obtain and produce a TTC record, the CRA should accept substantial compliance from records within the taxpayer’s control to evidence that which the TTC record would have evidenced. This also leads to the question of a shift in the onus of proof. I will address this question in a further note.
+[5] There is a long-standing principle in tax law that when something is within the knowledge of the Minister, the onus of proof shifts from the taxpayer to the Minister to prove it. That does not suggest that that which is outside the taxpayer’s knowledge should shift the onus but there lurks in this line of jurisprudence a suggestion that the burden of proof might lighten or that the nature of the evidence otherwise required be necessarily altered. A good example of this type of suggestion would be the Federal Court of Appeal decision in Anchor Pointe Energy Ltd. v Canada, 2007 FCA 188, where Justice Létourneau states why the burden of proof does not usually shift away from the taxpayer. He said:
+35 --------- “There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see Anderson Logging Co. v. British Columbia, (1925) S.C.R. 45, Pollock v. Canada (Minister of National Revenue) (1993), 161 N.R. 232 (F.C.A.), Vacation Villas of Collingwood Inc. v. Canada (1996) 133 D.L.R. (4th) 374 (F.C.A.), Anchor Pointe Energy Ltd. v. Canada, 2003 FCA 294. It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self-reporting system. ----.” [Emphasis Added]
+I did not cite this case in my oral reasons and citing it here is only to support a purposive administrative practice that would give the intended benefit of the transit credit to persons like the taxpayer. That message is clearly set out later in this transcript of my oral reasons.
+[6] It was not contested that the Presto card came into existence after all the relevant defining terms were enacted. It appears to be a regrettable coincidence for the taxpayer that it meets the definition of an eligible public transit pass.
+[7] The transcript goes on to discuss whether I would give written reasons with my signed judgment. I suggested I would not attach written reasons unless before signing judgment I received a request for a transcript of my oral reasons. In that case, I said I would attach written reasons to my judgment. The Crown requested the transcript after judgment was signed. That being the case, I have provided the transcript as edited for clarity and to a lesser extent, as evidenced by my footnotes, to more fully explain the substance of a few of the statements made in the reasons read from the bench. I did not intend on giving written reasons in this case. While it might be influential if published as written reasons, my intended message, as I told Respondent’s counsel in my closing remarks, was one to be passed on to his client: namely, the TTC practice that denies the transit credit requires addressing at the CRA level where the very evidence to be provided by the TTC under the Act can be and is provided by a diligent taxpayer in a form as reliable as if issued by the TTC directly. I suggested as well in those closing remarks that the CRA look to improving its guide.

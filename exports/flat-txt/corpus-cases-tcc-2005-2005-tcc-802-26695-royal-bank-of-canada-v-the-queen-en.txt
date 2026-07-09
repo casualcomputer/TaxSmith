@@ -1,0 +1,187 @@
+Title: Royal Bank of Canada v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26695/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-802-26695-royal-bank-of-canada-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-20
+
+# Royal Bank of Canada v. The Queen
+
+- Citation: 2005 TCC 802
+- Decision date: 2005-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3441, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Royal Bank of Canada v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-20
+Neutral citation
+2005 TCC 802
+File numbers
+2002-2478(GST)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+2002-2478(GST)G
+BETWEEN:
+ROYAL BANK OF CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 21, 2005, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+James Warnock
+Counsel for the Respondent:
+Harry Erlichman and John McLaughlin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act notice of which is dated August 19, 1999, and bears number 05B 6491, for the period November 1, 1993 to October 31, 1997 is dismissed, with costs.
+Signed at Ottawa, Canada, this 20th day of December, 2005.
+"E.A Bowie"
+Bowie J.
+Citation: 2005TCC802
+Date: 20051220
+Docket: 2002-2478(GST)G
+BETWEEN:
+ROYAL BANK OF CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] The Appellant is a chartered Bank; it carries on a banking business under the provisions of the Bank Act.[1] Royal Mutual Funds Inc. (RMFI) is a wholly owned subsidiary of the Appellant. RMFI entered into contracts with the Royfund Equity Ltd., a public mutual fund corporation, and with Royal Trust Company, the trustee of certain unincorporated mutual funds, in 1994. Under those contracts, RMFI became the manager of the various mutual funds that make up what is known as the Royal group of mutual funds, with the obligation to provide to those funds all manner of management and administrative services, including distribution, or arranging for the distribution, of units of the funds. RMFI subsequently entered into an agreement, called the Master Servicing Agreement (MSA), with the Appellant, the Royal Trust Company, and the Royal Trust Corporation of Canada whereby the Appellant provided to RMFI what are called "branch services", in order to permit or enable it to carry out its functions as manager of the various Royal mutual funds, specifically with respect to the sale of mutual fund units to the public, and to the provision of continuing customer service. At issue in this appeal is whether those branch services were taxable supplies under part IX of the Excise Tax Act[2] (the Act).
+[2] The Appellant has consistently taken the position that the branch services are taxable supplies. In its GST returns for the period between November 1, 1993 and October 31, 1997 it treated them as such, collecting and remitting tax at the rate of 7% on the consideration it received for them, and claiming input tax credits (ITCs) in respect of them. In August 1999, the Minister of National Revenue (the Minister) assessed the Appellant to recover those ITCs, together with interest and a penalty of $2,006,504.71 under section 280 of the Act. It is not in dispute that if they were financial services then they were exempt services, the tax was paid by the bank in error, and the ITCs were also claimed in error.
+[3] The issues in the appeal therefore are this:
+(i) Are the branch services "financial services"?
+(ii) If so, is the Appellant subject to the penalty provided for in a section 280 of the Act?
+[4] There are two matters that I should deal with before addressing the main issues. The first concerns the contractual framework. Due to certain changes in the corporate structure of the Royal Bank's corporate group there is a part of the period covered by the assessment when different service contracts were in force and different corporate entities were providing some of the services involved. The relevant contractual language is common to them all, however, and the appeal was argued on the basis that there is no practical significance to these differences. I shall proceed on that basis in these Reasons, and I shall therefore refer to the language of the contract that governed during most of the period, and to the Bank and RMFI as the parties to that contract.
+[5] The second concerns the amount of tax in dispute. According to the Notice of Assessment the net tax assessed is $24,583,652; the Notice of Appeal alleges the that the additional amount assessed was $10,469,807; according to the Reply it is $6,206,037; that is the amount referred to in the Minister's notice of decision responding to the Appellant's notice of objection as being the incremental ITCs claimed by the Minister. As the quantum was not raised during the hearing, I assume that it is not in dispute. If it is, and if it becomes necessary to do so, then the matter may be spoken to.
+[6] The distribution of mutual fund securities is a highly regulated activity. Banks are precluded from distributing them by the provisions of the Bank Act. RMFI exists as a subsidiary of the Bank to carry out the functions of distribution and management of the funds. The distribution function is provincially regulated. RMFI is required to be, and is, licensed by the provincial securities commissions to carry out that activity. Individuals who act on its behalf in the distribution function must also be provincially licensed to do so. Those provincial regulators, through a body known as the Canadian Securities Administrators, publish Principles of Regulation (the Principles) that govern the manner in which subsidiaries of federally regulated financial institutions may carry on their securities business through agreements with their parent companies of the type with which this case is concerned. Under those Principles it is provided, among other things, that the individuals in branch offices of the banks may be "dually employed", but they and the bank must take care to ensure that members of the public with whom they interact in the course of distributing mutual funds are fully aware that in relation to the purchase of mutual funds they are dealing with the provincially licensed subsidiary, and not the bank or any other federally licensed financial institution. It is within this framework that the Appellant provided branch services to RMFI. There was evidence that RMFI also had contracts with a number of securities dealers who undertook the distribution function for it, within certain defined limits.
+[7] The branch services in question are defined in the MSA in this way:
+"Branch Services" means the provision of Personnel, branch offices, computer services and other necessary services of the [Appellant] to permit the sale of Royal Trust Mutual Funds and RoyFunds and continuing customer service;
+[8] To implement this notion of dual employment, one or more employees in each branch office of the bank are designated to function as the individuals who provide the branch services to RMFI by dealing with the members of the public who wish to purchase, surrender, or otherwise deal with Royal mutual funds. These people are trained by RMFI head office staff in those functions that make up the services, such as explaining the attributes of the funds, completing the purchase and surrender documents, and dealing with enquiries. They are also licensed to sell mutual funds by the appropriate provincial licensing authorities under the sponsorship of RMFI, which is itself provincially licensed. When they deal with the public in relation to mutual funds they do so in an office, cubicle, or other area of the branch that is not specifically set aside exclusively for that purpose. Typically, it does have signage that identifies it as being used for the business of RMFI, however. The literature dealing with mutual fund availability and the forms used to open accounts and make sales all identify RMFI as being the entity with whom the public is dealing. The individuals who are licensed to sell mutual funds all have business cards that identify them on one side as bank employees, and on the other as RMFI employees. RMFI has directors and officers, and it has head office employees who carry out the head office functions of the company, but it does not have any employees performing functions at the branch office level, other than those supplied by the bank under the MSA. Nor does it own or lease any office space where branch office functions are performed, apart from the use that is made of the bank's branches under the MSA. All this is designed to comply with the regulatory requirements that prevent the bank from engaging in the distribution of mutual fund units, and those that require that to be done by a separate, provincially regulated and licensed subsidiary and provincially licensed employees.
+[9] A customer who wishes to purchase Royal mutual fund units at the bank is referred to one of the designated employees, who will discuss the transaction with the customer and complete the paperwork required for the transaction. Once completed and signed, the paperwork is forwarded to RMFI, together with the payment. These employees also answer inquiries as to such matters as unit valuation, and complete the paper work for customers who wish to surrender units. The remuneration paid by RMFI to the bank for the branch services is in no way related to the actual amount of time spent by its employees, or to the actual amount of space in branches that is utilized to provide the branch services during any week, month or year. Instead the remuneration is payable as a percentage of the net asset value of the funds from time to time.
+[10] It is common ground that the Act requires a supplier of services that are subject to tax to collect the tax from the recipient of the services at the rate of 7% of the consideration for the services, and the Act also provides that the supplier is entitled to input tax credits in respect of the tax it has paid on supplies that are inputs to those services. Nor is it disputed that the Appellant has collected and remitted the tax in respect of the supply to RMFI of the branch services for the period in question here, and claimed the corresponding ITCs. The question whether it was entitled to those ITCs is answered not by whether it collected and remitted the tax, however, but by whether it was obliged by the Act to do so. That question turns on whether the services supplied by it are exempt services, and that in turn depends upon whether the services fall within the definition of "financial services" found in section 123 of the Act, as financial services are exempt by reason of their inclusion in Schedule V, Part VII of the Act. The relevant parts of that definition read as follows:
+"financial service" means
+...
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument,
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+(m) a prescribed service,
+But does not include
+...
+(t) a prescribed service;
+« service financier »
+...
+d) l'émission, l'octroi, l'attribution, l'acceptation, l'endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d'un effet financier;
+L'éc
+l) le fait de consentir à effectuer un service visé à l'un des alinéas a) à i) ou de prendre les mesures en vue de l'effectuer;
+m) un service visé par règlement.
+La présente définition exclut :
+...
+t) les services visés par règlement.
+[11] The Minister assessed the Appellant on the basis that the branch services fall within this definition by reason of paragraphs (d) and (l), because it arranges for "the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment" of mutual fund units, which, it is agreed, are financial instruments. The Appellant's position is that it does none of these things, nor does it arrange for them, and that the services it supplies to RMFI are administrative services, and so, in any event, would be specifically excluded from the definition of financial services by paragraph (t).
+[12] Paragraph (t) of the definition must be read along with subsections 4(2) and (3) of the Financial Services (GST/HST) Regulations;[3]
+4(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act:
+(a) the transfer, collection or processing of information, and
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+4(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+(a) a person at risk,
+(b) a person that is closely related to a person at risk, where the recipient of the service is not the person at risk or another person closely related to the person at risk, or
+(c) an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person closely related to the person at risk.
+4(2) Sous réserve du paragraphe (3), pour l'application de l'alinéa t) de la définition de « service financier » , au paragraphe 123(1) de la Loi, sont visés les services suivants, sauf ceux mentionnés à l'article 3 :
+a) la communication, la collecte ou le traitement de renseignements;
+b) les services administratifs, y compris ceux reliés au paiement ou au recouvrement de dividendes, d'intérêts, de capital, de créances, d'avantages ou d'autres montants, à l'exclusion des services ne portant que sur le paiement ou le recouvrement.
+4(3) Pour l'application de l'alinéa t) de la définition de « service financier » , au paragraphe 123(1) de la Loi, ne sont pas visés les services mentionnés au paragraphe (2) et fournis relativement à un effet par :
+a) la personne à risque;
+b) la personne étroitement liée à la personne à risque, si l'acquéreur du service n'est ni la personne à risque, ni une autre personne étroitement liée à celle-ci;
+c) le mandataire, le vendeur ou le courtier qui prend des mesures en vue de l'émission, du renouvellement, de la modification ou du transfert de propriété de l'effet pour le compte de la personne à risque ou d'une personne étroitement liée à celle-ci.
+[13] The Appellant's argument may be summarized this way. It is precluded by the provisions of section 415 of the Bank Act and of paragraph 2(d) of the Securities Dealing Restrictions (Bank) Regulations[4] (the Regulations) from engaging in the distribution of mutual funds. These read as follows:
+415 A bank shall not deal in Canada in securities to the extent prohibited or restricted by such regulations as the Governor in Council may make for the purposes of this section.
+2 A bank shall not deal in Canada in securities to the extent that the securities dealings consist of:
+...
+(d) acting as a selling agent in connection with the distribution of mutual funds.
+What the bank provides, it argues, is the services of personnel, together with the use of the space within which the personnel work, as provided for in paragraph 3.1 of the MSA. That paragraph reads:
+3.1 Provision of Branch Services
+The [Appellant] agree[s] with RMFI to provide RMFI with Branch Services for the purposes of facilitating the distribution of the Royal Trust Mutual Funds and the RoyFunds. It is understood and agreed between RMFI and the [Appellant] that Personnel are employees of the [Appellant] and are only nominally employees of RMFI when such Personnel engage in mutual fund sales activities requiring registration under the Securities Acts. RMFI shall not be responsible in any way for payment of any salaries, benefits or other compensation directly to Personnel.
+"Personnel" is a defined term in the agreement:
+"Personnel" means persons who are engaged by RMFI to distribute Royal Trust Mutual Funds and RoyFunds and provide customer service to investors in respect of such Funds and includes persons who are also employed by the [Appellant] pursuant to the provisions of the Principles of Regulation;
+In the Appellant's view of it, these provisions in the contract effectively make the bank staff "dual employees" - that is, when selling or otherwise dealing with mutual funds they are acting on behalf of and are employed by RMFI as well as by the Appellant.
+[14] I do not accept the Appellant's characterization of the relationship of the individual employees to RMFI as being in the nature of temporary employees provided to it by the bank - what the Appellant calls "Kelly Girl Services". Quite clearly, the individuals who work in the bank branches are employees of the bank, and this does not change when they sit down with a potential buyer of mutual funds. While the parties to contracts are free to arrange their affairs as they wish, and provincial regulators may use whatever nomenclature they wish, they cannot change the legal character of relationships simply by saying that they are something other than what at law they are. For the Appellant and its subsidiary to say that the bank's employees are "nominally employees of RMFI" at certain times does not create the legal relationship of employer and employee between RMFI and those employees of the Appellant who are selected to be trained and licensed for this task. The evidence does not suggest that RMFI in any way instructed or controlled the employees in carrying out the functions making up the branch services, other than as part of the training they undertook before becoming licensed to perform those services. Nor does it appear from the evidence that the employees ever agreed to enter into a contract of employment with RMFI. They are not paid by RMFI, nor does it reimburse the Appellant for their salaries in proportion to their time spent on providing services to RMFI. Similarly, the Appellant does not provide office space to RMFI. There is no lease, or even license, entitling RMFI to occupy space in the branches of the bank. The arrangement is simply that the employees deal with the mutual fund business of RMFI in the branch where they do their other work for the bank.
+[15] It is necessary to decide what the Appellant provided in return for the consideration it received. The ordinary meaning of the verb "to arrange" is found in the Canadian Oxford Dictionary at page 69:
+2. plan or provide for; cause to occur
+It is not for me to decide, of course, whether the arrangements between the Appellant and RMFI that I have described conform to the federal and provincial regulatory requirements. I am satisfied, however, that the Appellant did not simply provide personnel services and the use of branch office space to RMFI. The individuals who provided the services to RMFI were at all times employees of the bank, and were not employees of RMFI. The locations in which they worked were premises of the bank, and there is no basis on which I could find that RMFI had the right to occupy any of that space for its own purposes, even temporarily. The service that the Appellant provided to RMFI was that of arranging for the distribution of mutual funds, together with providing ongoing customer service, including responding to customers' inquiries and completing surrender documents for customers when requested to do so. There is no basis in the evidence upon which I could apportion the consideration between arranging for sale of units and the continuing customer service; nor did either party suggest that there was anything other than a single supply involved. To the extent that the evidence dealt with it at all, it suggests that arranging for sale of mutual funds was the dominant element of the activity.
+[16] The Appellant relies on the decision of the Judicial Committee of the Privy Council on appeal from the New Zealand Court of Appeal in Inland Revenue Commissioner v. Databank Systems Ltd.[5] In that case, Databank supplied computer services to the bank to facilitate the clearing of cheques. The majority of the Judicial Committee held that this was not a financial service, drawing a distinction between the bank's supply of a financial service to its customer, and the supply by Databank to the bank of computer services to enable it to make that supply. The latter, it held, was not a financial service to the customer, but simply an input to the supply of a financial service by the bank. That decision has no application to the facts of this case, however. The major element of the branch services that the Appellant supplied to RMFI is the very service that RMFI had contracted to supply to the Funds under clause (c) of Article 3.01 of the Master Management Agreement (Exhibit A-1, Tab 3):
+(c) distribute or arrange for the distribution of Units of the Funds;
+The Appellant also relies on the Canada Revenue Agency's Policy P-239, titled Meaning of the term "arranging for" as provided in the definition of "financial service". That policy opines that:
+c) A service acquired by an intermediary from a third party for use by the intermediary in providing the "arranging for" service will not in itself qualify as an "arranging for" service. Again, this service is only an input to the intermediary.
+Immediately following this statement in the policy the Agency gives the example of an investor engaging a domestic broker to purchase shares listed on a foreign exchange; the domestic broker must work with a foreign broker to complete the transaction. The Agency's opinion is that in such a case:
+... both brokers are directly involved in "arranging for the purchase of the shares for the investor. Both services will qualify as "arranging for" services.
+While I do not give much weight to policy documents of this kind, which after all are only the opinion of one of the parties to the litigation before me, it does appear that the facts of the present case are much closer to the second of these examples than to the first.
+[17] Nor do I find persuasive the Appellant's argument that it cannot be distributing or arranging for the distribution of mutual funds because it is precluded from dealing in securities by the provisions of the Bank Act and the Regulations made under it. As I have said, it is not for me to decide whether the Appellant's activity amounts to a violation of the Bank Act, but it is clear from the decision of the Supreme Court of Canada in Continental Bank[6] that the activity is what it is, whether or not it contravenes the Bank Act.
+[18] The Appellant argues that, in any event, the branch services cannot come within the definition of financial service because they are administrative services, and therefore are specifically excluded from the definition by paragraph (t) and section 4 of the Regulation.[7] This provision has been considered only twice by this Court,[8] and neither case sheds any light on the meaning of the expression "any administrative service" ("les services administratifs"). The Canadian OxfordDictionary (2nd Ed.) gives this definition at page 17:
+administrative: concerning or relating to the management of affairs.
+Other dictionaries, both French and English, are no less vague. Clearly this expression is both broad and elastic in meaning, but it seems clear that when read in its context within the statutory scheme of Part IX of the Act, and relative to the definition of "financial service" ("service financier") in particular, it is intended to exclude from that definition such ancillary services as data processing, record keeping and the like, but not those activities enumerated specifically in the first part of the definition for inclusion within it, of which arranging for the distribution of securities is certainly one. In my view paragraph (t) of the definition and the Regulations have no application in this case.
+[19] For the foregoing reasons, I conclude that the branch services were financial services exempt from tax, and that the inputs to them therefore did not give rise to an entitlement to ITCs.
+[20] There remains the issue of the penalty assessed by the Minister. It is now well settled that the penalty that is provided for in section 280 of the Act is subject to a defence of due diligence.[9] The evidence is that the Appellant decided not to avail itself of an election under section 150 of the Act that would have had the effect of deeming the branch services to be financial services, preferring instead to treat them as taxable, with the concomitant right to ITCs in respect of the inputs. There was no evidence, however, of steps having been taken by the Appellant to obtain a ruling, or even an independent opinion, as to the proper treatment of the transactions for GST purposes. Apparently there had been an earlier assessment by which the issue was raised, and that gave rise to an appeal that was settled before trial. In spite of this, the Appellant chose to claim the ITCs in question throughout the period of this assessment, apparently relying solely on the view of its tax department that the branch services were taxable supplies.
+[21] In Locator of Missing Heirs Inc. v. Canada,[10] the present Chief Justice of this Court, after considering the decisions of the Supreme Court of Canada in R. v. Sault Ste Marie[11] and of the Ontario Court of Appeal in R. v. Richardson,[12] said this:
+... In dealing with penalties that administratively appear to be routinely and automatically imposed under a statute as complex as the Excise Tax Act, I can see no reason in principle for saying that a taxpayer who has taken all reasonable steps to determine the correct interpretation of the law should be penalized simply because that taxpayer reasonably believed in the correctness of an interpretation that turns out to be different from that which the Minister or the court ultimately believes it to be. In the context of a due diligence defence to a penalty imposed under s. 280 of the Act, I think that the distinction between a mistake of law and a mistake of fact is not meaningful, however much it may be relevant for other purposes.
+The evidence here falls far short of showing that the Appellant took all reasonable steps to determine the correct interpretation of the law. The defence of due diligence has not been established.
+[22] The appeal will be dismissed, with costs.
+Signed at Ottawa, Canada, this 20th day of December, 2005.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2005TCC802
+COURT FILE NOS.:
+2002-2478(GST)G
+STYLE OF CAUSE:
+Royal Bank of Canada and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+December 20, 2005
+APPEARANCES:
+Counsel for the Appellant:
+James Warnock
+Counsel for the Respondent:
+Harry Erlichman and John McLaughlin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James Warnock
+Firm:
+McCarthy Tetrault
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c. B-1.01.
+[2] R.S. 1985 c. E-15, as amended.
+[3] SOR/91-26 (as amended).
+[4] SOR/92-279.
+[5] [1990] J.C.J. No. 35.
+[6] Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298.
+[7] Supra at paragraph 10.
+[8] Skylink Voyages Inc. v. The Queen, [1999] CanLII 431; Drug Trading Comany Limited v. The Queen [2001] CanLII 526.
+[9] Canada(Attorney General) v. Consolidated Canadian Contractors, [1999] 1 F.C. 209 (FCA).
+[10] [1995] G.S.T.C. 63 (TCC).
+[11] [1978] 2 S.C.R. 1299.
+[12] 34 O.R. (2d) 438.

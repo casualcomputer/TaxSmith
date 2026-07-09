@@ -1,0 +1,250 @@
+---
+title: "Forrest c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521661/index.do"
+last_modified: "2026-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 CCI 121"
+citation2: ""
+neutral_citation: "2026 CCI 121"
+decision_date: "2026-06-26"
+language: "fr"
+item_id: "521661"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5234
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-07-01T09:02:18.376000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88ade5dbd8cf68f5b4286acf98c4b57558b78c9a03f058d11d35a8ca64261918"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forrest c. Le Roi
+
+- Citation: 2026 CCI 121
+- Decision date: 2026-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5234, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forrest c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2026-06-26
+Référence neutre
+2026 CCI 121
+Numéro de dossier
+2025-2746(IT)I
+Juges et Officiers taxateurs
+Michael U. Ezri
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2025-2746(IT)I
+ENTRE :
+NORMAN FORREST,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête entendue le 5 mai 2026, et observations écrites déposées les 20 et 29 mai 2026, à Montréal (Québec).
+Devant : l’honorable juge Michael U. Ezri.
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Valentina G. Danielova
+ORDONNANCE
+La requête présentée par l’intimée sollicitant la radiation de l’appel de l’appelant est rejetée.
+Les parties ont 30 jours à partir de la date de la présente ordonnance soit pour déposer un consentement à jugement, soit pour retirer l’appel, faute de quoi l’affaire sera inscrite au rôle pour audience.
+Signé ce 26e jour de juin 2026.
+« Michael Ezri »
+Juge Ezri
+Référence : 2026 CCI 121
+Date : 20260626
+Dossier : 2025-2746(IT)I
+ENTRE :
+NORMAN FORREST,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+Le juge Ezri
+I. Motifs [1] Le ministre du Revenu national (le « ministre ») peut-il abroger les droits d’appel d’un contribuable en établissant une cotisation au titre des dispositions d’équité du paragraphe 152(4.2) de la Loi de l’impôt sur le revenu (la « LIR ») lorsque cette cotisation comprend une augmentation de l’impôt qui échapperait ensuite à tout examen par les tribunaux? C’est la question qui se pose par suite de l’historique procédural peu commun de la présente affaire. Pour les motifs qui suivent, je conclus que la cotisation du ministre a été établie seulement en partie au titre du paragraphe 152(4.2) de la LIR et n’abroge pas tous les droits d’appel de l’appelant.
+II. Le contexte [2] L’appelant a déposé sa déclaration de revenus pour l’année 2020 en avril 2021. La cotisation a été établie le 13 avril 2021 conformément à la déclaration produite. Cette date est importante, car elle marque le commencement des trois ans de la « période normale de nouvelle cotisation » prévue au paragraphe 152(3.1) de la LIR.
+[3] Il semble que le logiciel de préparation de déclarations de revenus utilisé par M. Forrest ait comporté une anomalie qui produisait une déclaration inexacte quant aux gains en capital lors de la disposition d’actions. L’ARC a procédé à une vérification et l’appelant a répondu notamment en déposant une déclaration de revenus modifiée et en demandant un report de la déduction pour gains en capital. L’ARC a répondu qu’il n’y avait pas de tel montant à reporter et a établi une nouvelle cotisation (la « NC no 1 ») le 8 septembre 2023, dans laquelle elle augmentait le gain en capital et diminuait la perte en capital. L’effet total a été une augmentation de 12 000 $ du gain en capital imposable.
+[4] L’appelant a déposé un avis d’opposition le 10 novembre 2023, auquel était jointe une demande de redressement d’une T1 sollicitant une déduction pour gains en capital.
+[5] Il ne s’est rien passé avec l’opposition et, pendant que la poussière s’accumulait, la période normale de nouvelle cotisation a expiré le 13 avril 2024. L’ARC a néanmoins conservé le pouvoir d’établir une nouvelle cotisation en réponse à l’opposition en vertu du paragraphe 165(3) de la LIR et d’établir une nouvelle cotisation en réponse à une demande de redressement présentée par un contribuable en vertu du paragraphe 152(4.2) de la LIR.
+[6] En août 2024, l’appelant a déposé une demande de redressement qui était sans lien avec les faits ci-dessus. Il a demandé des crédits d’impôt non remboursables pour personne à charge ayant une déficience et pour des dépenses de soins de préposé.
+III. Tout déraille [7] Le 7 mars 2025, l’ARC a écrit à l’appelant pour l’informer que son opposition serait acceptée en entier. Le 17 mars 2025, l’ARC a établi un avis de nouvelle cotisation (la « NC no 2 »). Cette nouvelle cotisation infirmait complètement la NC no 1 du 8 septembre 2023 et accordait au contribuable tout ce qu’il avait demandé. Toutefois, elle ne faisait pas mention des crédits d’impôt non remboursables. La lettre de décision du 7 mars 2025 comportait ce passage :
+« Nous avons accepté votre opposition en entier. »
+[8] Tout le monde était content.
+[9] Puis une drôle de chose s’est produite. Quelqu’un à l’ARC s’est rendu compte que la NC no 2 du 17 mars 2025 était complètement erronée et à l’opposé de ce que l’ARC aurait dû faire.
+[10] La correspondance comprend une lettre étrange du 25 avril 2025, qui reprend le passage que j’ai cité plus haut et qui ensuite refuse certains des montants accordés à l’appelant :
+La ministre a pris la décision suivante en fonction d’un examen des renseignement disponibles.
+Nous avons accepté votre opposition en entier. [Non souligné dans l’original.]
+Suite à notre conversation datée du 25 avril, 2024[1], une nouvelle cotisation serait émise. Nous allons retirer la perte en capital de $58,000 de votre déclaration de revenus de 2020. De plus, une déduction pour gain en capital de $12,136 sera accordée à la ligne 25400 de votre déclaration de revenus de 2020. [Non souligné dans l’original.]
+[11] L’ARC a ensuite établi une troisième nouvelle cotisation (la « NC no 3 ») le 23 mai 2025, qui infirmait complètement la NC no 2 et qui rétablissait les montants de la NC no 1 établie en septembre 2023 et n’accordait aucune déduction pour gains en capital. La NC no 3 augmentait le revenu brut de l’appelant par plus de 12 000 $.
+[12] Le lecteur attentif aura remarqué, bien sûr, que la NC no 3 a été établie plus d’un an après l’expiration le 13 avril 2024 de la période normale de nouvelle cotisation. Ce détail semble avoir échappé à l’ARC. La NC no 3 ne mentionne aucunement le fait qu’elle aurait été établie au motif qu’il y avait eu fausse déclaration ou négligence. La NC no 3 aurait plutôt été établie en réponse à l’avis d’opposition du 10 novembre 2023, malgré le fait que la NC no 2 avait été établie au même titre, ce qui vraisemblablement avait épuisé les pouvoirs du ministre d’établir une cotisation au titre du paragraphe 165(3). Quant au fondement ostensible de l’établissement de la NC no 3, je cite directement cette dernière :
+« Nous avons fait un changement en fonction de paragraphe 165(3) de la loi de l’impôt sur le revenue en réponse à votre avis d’opposition déposé le 10 novembre 2023. »
+Après examen des faits et des documents fournis, nous ne pouvons pas vous accorder la déduction pour gains en capital pour l’année d’imposition 2020.
+[13] Cependant, l’ARC a également profité de la NC no 3 pour accorder à l’appelant les crédits non remboursables pour personne à charge, mais apparemment pas ceux pour soins de préposé.
+[14] L’ARC a envoyé une lettre de décision le 30 mai 2025 portant sur les deux questions. Encore une fois, il est instructif de citer la lettre :
+Cette lettre fait suite à votre opposition concernant la nouvelle cotisation d'impôt sur le revenu datée du 8 septembre 2023, pour l’année 2020.
+La ministre a pris la décision suivante en fonction d’un examen des renseignements disponibles.
+Nous avons accepté une partie de votre opposition.
+Le fondement de votre opposition est que vous demandez le redressement de l’avis de cotisation daté du 8 septembre 2023, pour l’année d'imposition 2020, afin de tenir compte de la déduction pour gain en capital admissible de $12,136 relativement & une société exploitant une petite entreprise. Vous demandez également I ‘octroi du crédit d’impôt pour personnes handicapées d’un montant de 8,576 $ pour cette même année.
+Après examen des faits et des documents fournis, nous ne pouvons pas vous accorder la déduction pour gains en capital pour l’année d'imposition 2020.
+[Non souligné dans l’original.]
+[15] La lettre du 30 mai 2025 avisait l’appelant qu’il pouvait soit déposer un autre avis d’opposition, soit interjeter appel devant la Cour canadienne de l’impôt.
+[16] L’appelant a déposé un nouvel avis d’opposition, daté du 7 août 2025, s’opposant encore une fois à la NC no 2 du 8 septembre 2023 et maintenant aussi à la NC no 3 du 23 mai 2025.
+[17] Jointes à l’avis d’opposition se trouvaient deux autres demandes de redressement d’une T1. La première portait sur les gains en capital et la seconde était une copie signée à nouveau de la demande d’août 2024 de crédits d’impôt non remboursables pour les soins à une personne à charge et les dépenses de soins de préposé.
+IV. La remarquable lettre de l’ARC du 29 août 2025 [18] Dans une lettre datée du 29 août 2025, l’ARC a affirmé répondre à des observations de l’appelant datées du 22 mai 2025. Si de telles observations ont véritablement été envoyées, elles n’ont jamais été produites devant moi.
+[19] Quoi qu’il en soit, la lettre de l’ARC du 29 août 2025 informait l’appelant que ses observations du 22 mai 2025 ne pouvaient être acceptées comme étant une opposition valide. L’appelant avait déjà déposé une opposition le 10 novembre 2023 et l’ARC avait confirmé la cotisation de 2020 par une lettre datée du 30 mai 2025.
+[20] Il est impossible de concilier la lettre du 30 mai 2025 invitant l’appelant à déposer un autre avis d’opposition avec la lettre du 29 août 2025 niant la validité de cette opposition.
+[21] La lettre du 29 août 2025 invitait l’appelant à interjeter appel devant la Cour canadienne de l’impôt.
+V. La quatrième nouvelle cotisation de l’ARC [22] Le 18 septembre 2025, l’ARC a établi une quatrième nouvelle cotisation (la « NC no 4 »). Le seul changement dans cette nouvelle cotisation était que les crédits d’impôt non remboursables pour soins de préposé étaient accordés. Elle n’accordait aucune déduction pour gains en capital.
+[23] Il était précisé explicitement dans la NC no 4 que celle-ci avait été établie en réponse aux demandes de redressement de l’appelant et qu’elle ne pouvait pas faire l’objet d’un avis d’opposition.
+VI. L’effet juridique de la NC no 3 et de la NC no 4 [24] Quels que soient les autres éléments en litige, ce qui suit ne fait aucun doute :
+Peu importe que l’ARC ait eu le droit d’établir la NC no 3 ou qu’il y ait eu prescription, la NC no 3 était réputée, par l’effet du paragraphe 152(8) de la LIR, valide et exécutoire à moins qu’elle ne soit annulée ou remplacée par une autre nouvelle cotisation;
+Conformément à un courant jurisprudentiel de longue date, qui comprend la décision 684761 B.C. Ltd.[2], la NC no 3 annulait toutes les cotisations et nouvelles cotisations antérieures. Elle déterminait le montant brut et le montant net de l’impôt de l’appelant; elle modifiait ses crédits d’impôt non remboursables et elle modifiait l’impôt à payer pour 2020. Tant que la NC no 3 était en vigueur, toutes les cotisations et nouvelles cotisations antérieures étaient nulles;
+La NC no 4 est venue à son tour remplacer et rendre nulle la NC no 3. La NC no 4 a explicitement maintenu les augmentations du revenu et de l’impôt qui avaient été établies dans la NC no 3. La NC no 4 venait également modifier les crédits d’impôt non remboursables de l’appelant. Comme la NC no 3, la NC no 4 est réputée valide et exécutoire par l’effet du paragraphe 152(8) de la LIR. Cela demeure vrai que la NC no 4 ait été établie au titre du paragraphe 152(4.2) ou même en violation du paragraphe 152(4.2), à tout le moins jusqu’à ce que la violation soit reconnue par l’intimé ou constatée par notre Cour.
+[25] Donc la NC no 4 est la seule cotisation qui est encore valide. C’est la seule qui peut être portée en appel devant notre Cour, à supposer que l’appel soit recevable. C’est cette dernière question qui fait l’objet du reste des présents motifs.
+VII. Le présent appel vise la NC no 4 [26] L’avis d’appel de l’appelant n’est pas un modèle de limpidité. Cela se comprend, étant donné la complexité de l’historique procédural que j’ai décrit plus haut et le fait que l’appelant n’est pas représenté par un avocat.
+[27] Une chose qui ressort clairement des éléments de preuve dont je dispose est que l’appelant a fait d’importants efforts pour préserver le plus possible ses droits, notamment en déposant et en redéposant des demandes de redressement d’une T1 et en s’opposant à la NC no 1 et à la NC no 3.
+[28] Dans son avis d’appel déposé le 13 novembre 2025, l’appelant a tenté de faire appel de ce qu’il a nommé la décision de l’ARC du 29 août 2025 concernant les déductions pour gains en capital au titre du paragraphe 48.1(1) de la LIR ainsi que du refus de l’ARC d’autoriser l’utilisation des pertes en capital pour réduire son gain en capital de 2020. Cet argument suffirait à M. Forrest à former un appel contre la NC no 3, mais, puisque la NC no 3 est nulle, il ne lui est d’aucune aide.
+[29] L’appelant a inclus en pièce jointe à son avis d’appel un document qui serait soi-disant une demande d’appel informel de la décision du 29 août 2025 adressé au chef des appels. Ce document renvoie ensuite à la NC no 4 datée du 18 septembre 2025. Je crois que ce document fait en réalité partie de l’avis d’appel adressé à la Cour canadienne de l’impôt, lequel interjette appel sous le régime de la procédure informelle. Je tire la conclusion de fait que cet appel vise non seulement la NC no 3, mais également la NC no 4.
+[30] Par conséquent, notre Cour dispose donc d’un avis d’appel contestant la NC no 4 du 18 septembre 2025.
+VIII. L’appel interjeté est-il valide? [31] L’intimé, qui est la partie requérante dans la présente requête, soutient que l’appel visant la NC no 4 est invalide parce que la NC no 4 a été établie au titre du paragraphe 152(4.2) de la LIR pour donner effet aux demandes de redressement d’une T1 de l’appelant. L’intimé soutient que, puisque les cotisations établies au titre du paragraphe 152(4.2) de la LIR ne peuvent pas faire l’objet d’une opposition et que le dépôt d’une opposition valide est une condition préalable au dépôt d’un avis d’appel, le présent appel est invalide et doit être annulé.
+[32] Il est vrai que les nouvelles cotisations établies au titre du paragraphe 152(4.2) de la LIR ne sont pas susceptibles d’appel[3]. Toutefois, les montants établis dans la NC no 4 font plus que donner effet aux demandes de redressement d’une T1 de l’appelant au titre du paragraphe 152(4.2). L’appelant n’a certainement pas demandé que son revenu soit augmenté de 12 000 $. L’essentiel du litige consiste donc à déterminer si la NC no 4 a été établie au titre du paragraphe 152(4.2) de sorte qu’elle ne peut pas faire l’objet d’une opposition ni d’un appel.
+[33] Par souci de précision, ajoutons qu’il est sans importance que la NC no 4 n’ait pas augmenté le revenu brut de l’appelant au-delà de ce qui était établi dans la NC no 3 et ait en fait diminué l’impôt à payer par rapport la NC no 3 en raison de l’octroi de crédits d’impôt non remboursables additionnels. Il est vrai que les revenus brut et net n’ont pas changé de la NC no 3 à la NC no 4, mais il est tout aussi vrai que le revenu brut et l’impôt établis dans la NC no 3 et la NC no 4 étaient plus élevés que dans la NC no 2. La NC no 2 est importante, car c’est la dernière nouvelle cotisation dont l’existence ne découlait manifestement pas de l’application du paragraphe 152(4.2) de la LIR. Il ne fait aucun doute qu’elle a été établie au titre du paragraphe165(3) de la LIR en réponse à un avis d’opposition.
+[34] Selon la NC no 2, le revenu était de 58 000 $ et l’impôt fédéral était de seulement 5 535 $. Selon la NC no 4, le revenu était de 70 548 $ et l’impôt fédéral était de 6 079 $.
+IX. Le problème avec la NC no 4 et peut-être avec la NC no 3 [35] Le principal problème avec la NC no 4 est que, si elle a été établie au titre du paragraphe 152(4.2) de la LIR, alors il n’y a pas de droit d’appel. L’appelant avait peut-être un droit d’appel lorsque l’ARC a augmenté son revenu et son impôt à payer en établissant la NC no 3, mais ce droit a été abrogé lorsque la NC no 3 a été annulée par la NC no 4.
+[36] Il en résulte que l’appelant a vu son impôt augmenter, mais qu’il n’a aucun recours judiciaire même si le paragraphe 152(4.2) de la LIR est censé être une exception à la « période normale de nouvelle cotisation » édictée pour aider les contribuables, et non pour leur nuire. Dire au contribuable qu’il obtient un crédit d’impôt dans une cotisation établie au titre du paragraphe 152(4.2) et ajouter en passant qu’il doit payer plus d’impôt qu’avant la nouvelle cotisation n’est pas l’intention qu’avait le législateur.
+X. La NC no 4 a-t-elle été établie au titre du paragraphe 152(4.2)? [37] Le critère servant à déterminer si une cotisation a été établie au titre du paragraphe 152(4.2) de la LIR se trouve dans la décision Reyes et l’intimé y renvoie :
+La nouvelle cotisation est établie après la fin de la période normale de nouvelle cotisation;
+La nouvelle cotisation a pour but de déterminer le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction de la somme payable pour l’année en vertu de la partie I;
+Le contribuable présente une demande en vue d’obtenir une telle détermination;
+La demande est présentée au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition[4].
+[38] Nous pouvons examiner ces facteurs un par un.
+La nouvelle cotisation est établie après la fin de la période normale de nouvelle cotisation [39] Il est satisfait à ce facteur. Tant la NC no 3 que la NC no 4 ont été établies après le 13 avril 2024, qui était la fin de la période normale de nouvelle cotisation.
+La nouvelle cotisation a pour but de déterminer le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction de la somme payable pour l’année en vertu de la partie I [40] À première vue, la NC no 4 a été établie pour déterminer un remboursement ou pour réduire l’impôt à payer. Par rapport à la NC no 3, elle ne fait que ça, puisque la NC no 4 accorde un crédit d’impôt non remboursable additionnel.
+[41] Toutefois, ce second facteur doit être interprété à la lumière du libellé du paragraphe 152(4.2), reproduit ci-dessous, sans les passages superflus :
+(4.2) Malgré les paragraphes (4), (4.1) et (5) pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier […] — pour une année d’imposition, le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+[Non souligné dans l’original.]
+(4.2) Notwithstanding subsections (4), (4.1) and (5) for the purpose of determining — at any time after the end of the normal reassessment period, of a taxpayer who is an individual…, in respect of a taxation year — the amount of any refund to which the taxpayer is entitled at that time for the year, or a reduction of an amount payable under this Part by the taxpayer for the year, the Minister may, if the taxpayer makes an application for that determination on or before the day that is 10 calendar years after the end of that taxation year,
+a) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year; and
+…
+[Emphasis added]
+L’analyse textuelle, contextuelle et téléologique pèse contre l’augmentation de l’impôt au titre du paragraphe 152(4.2) [42] Une analyse de l’alinéa 152(4.2)a) reposant sur une interprétation textuelle, contextuelle et téléologique conformément à l’arrêt Hypothèques Trustco[5] révèle une ambiguïté[6]. Le sens ordinaire des mots « établir de nouvelles cotisations » à l’alinéa a) du paragraphe 152(4.2) peut en fait viser autant une nouvelle cotisation à la hausse qu’une nouvelle cotisation à la baisse. On pourrait considérer que le libellé est ambigu, car il y a ambiguïté lorsqu’un mot est raisonnablement susceptible de donner lieu à plus d’une interprétation[7]. Dans la présente affaire, la nouvelle cotisation peut être autant à la hausse qu’à la baisse. Cependant, la disposition existe dans le contexte de l’article 152, qui à la fois confère au ministre le pouvoir d’établir des cotisations et impose des limites à ce pouvoir.
+[43] L’alinéa 152(4)a) interdit l’établissement de nouvelles cotisations après la période normale de nouvelle cotisation[8] sauf s’il y a eu présentation erronée des faits du type prévu dans cette disposition.
+[44] Le paragraphe 165(3) autorise l’établissement de nouvelles cotisations après la période normale de nouvelle cotisation pour donner effet aux décisions prises en réponse à des oppositions, mais le paragraphe 152(5) interdit l’ajout de montants dans le calcul après la période normale de nouvelle cotisation[9].
+[45] Le paragraphe 152(4.2) s’applique malgré les paragraphes 152(4), (4.01) et (5). Cela peut vouloir dire qu’au titre du paragraphe 152(4.2), la cotisation peut être établie pour augmenter l’impôt « malgré » les limites imposées par ces paragraphes. Cependant, selon les notes techniques de mai 1991, l’objet du paragraphe (4.2) est uniquement d’accorder des remboursements ou de réduire l’impôt :
+Le nouveau paragraphe 152(4.2) […] confère au ministre du Revenu national un pouvoir discrétionnaire qui lui permet d’établir une nouvelle cotisation ou de déterminer un montant de nouveau, sur demande présentée par un particulier […] après l’expiration de la période normale de nouvelle cotisation, et ainsi d’accorder un remboursement au contribuable ou de réduire son impôt payable. De même, le particulier qui, après l’expiration de la période normale de nouvelle cotisation, se rend compte qu’il n’a pas demandé, par inadvertance, une déduction ou un crédit auquel il avait droit pourra demander au ministre d’établir une nouvelle cotisation à l’égard de sa déclaration afin de remédier à la situation.
+[Non souligné dans l’original.]
+The purpose of new subsection 152(4.2)… is to give the Minister of National Revenue discretion to make a reassessment or a redetermination beyond the normal reassessment period when so requested by a taxpayer… in order to give the taxpayer a refund, or to reduce taxes payable. Thus, for example, if, after the expiration of the normal reassessment period an individual became aware that a claim for a deduction or a credit to which the individual was entitled was inadvertently not made, the Minister would have the discretion to reassess the return and give the taxpayer the benefit of the deduction or credit.
+[Emphasis added.]
+Interpréter le paragraphe 152(4.2) comme autorisant les redressements à la hausse « malgré » les paragraphes 152(4) ou (5) créerait une faille qui permettrait au ministre d’éviter les limites qui y sont imposées et aussi qui mettrait les cotisations en découlant à l’abri des oppositions et de tout examen judiciaire par notre Cour. C’est une interprétation absurde d’une disposition réparatrice conçue pour la réduction de l’impôt et l’octroi de crédits.
+[46] Le contexte et l’objet du paragraphe 152(4.2) révèlent qu’il faut restreindre la portée des mots « malgré les paragraphes (4), (4.1) et (5) » au paragraphe 152(4.2) et « établir de nouvelles cotisations » à l’alinéa 152(4.2)a) pour qu’ils signifient que, malgré les limites à l’établissement de nouvelles cotisations imposées aux paragraphes 152(4), (4.1) et (5) de la LIR, seules de nouvelles cotisations apportant des redressements à la baisse peuvent être établies au titre de l’alinéa 152(4.2)a).
+[47] Une nouvelle cotisation établie au titre du paragraphe 152(4.2) ne peut donc pas fixer un montant de revenu ou d’impôt qui est plus élevé que celui qui existait avant la fin de la période normale de nouvelle cotisation ou qui a été fixé à la suite d’une nouvelle cotisation établie en réponse à une opposition présentée au titre du paragraphe 165(3) de la LIR, parce qu’elle constituerait un moyen de contourner les exigences des paragraphes 152(4) et (5).
+Les arguments de l’intimé selon lesquels la NC no 4 peut augmenter l’impôt : la décision Morton [48] L’intimé aborde indirectement la possibilité d’augmenter l’impôt dans une nouvelle cotisation établie au titre du paragraphe 152(4.2) en invoquant dans ses observations écrites une décision qui semble autoriser un tel résultat. Il s’agit de la décision Morton[10], où il est écrit ce qui suit au paragraphe 17 :
+[17] [...] L’alinéa 152(4.2)a), reproduit ci‑dessus, fait référence aux pénalités et, dans son sens manifeste, il ne limite pas l’intervention du ministre à la « réduction » d’un montant payable : il peut aussi « établir de nouvelles cotisations » concernant l’impôt, les intérêts et les pénalités.
+[49] Je conviens qu’à première vue, le paragraphe 17 de la décision Morton peut donner l’impression que des pénalités peuvent être imposées au titre du paragraphe 152(4.2) et que, par analogie, l’impôt peut être augmenté au titre de cette disposition. Cependant, une lecture plus attentive de la décision Morton révèle que la Cour n’a pas conclu que l’alinéa 152(4.2)a) constituait le fondement ayant permis l’imposition de la pénalité pour faute lourde.
+[50] Dans l’affaire Morton, le contribuable a déposé de fausses demandes de redressement d’une T1 après l’expiration de la période normale de nouvelle cotisation. Le ministre, plutôt que d’établir une nouvelle cotisation ajustant à la baisse le revenu et l’impôt, a établi des cotisations imposant des pénalités pour faute lourde au titre du paragraphe 163(2) de la LIR[11]. Deux points intéressants ressortent de la décision Morton :
+Le premier point, et le plus important, est que la Cour n’a pas annulé les appels, mais les a jugés sur le fond et les a rejetés. Si la Cour avait véritablement été d’avis que les pénalités avaient été imposées au titre de l’alinéa 152(4.2)a), elle aurait simplement annulé les appels conformément à la décision Groulx[12], au motif que les cotisations établies au titre de l’alinéa 152(4.2)a) ne sont pas susceptibles d’opposition ni d’appel;
+La Cour a ensuite examiné si les demandes de redressement d’une T1 étaient des « déclarations » pour l’application du paragraphe 163(2) de la LIR. La Cour a conclu que les demandes de redressements étaient des « déclarations »[13]. Ainsi, les faux énoncés qui y figuraient pouvaient justifier l’imposition de pénalités pour faute lourde. Toutefois, au risque de souligner l’évidence, je précise que le paragraphe 163(2) n’est pas une disposition qui autorise l’établissement de cotisations quand il y a prescription. La cotisation établie au titre du paragraphe 163(2) après la fin de la période normale de nouvelle cotisation doit être fondée sur une autre disposition autorisant l’établissement d’une cotisation, laquelle est invariablement l’alinéa 152(4)a) de la LIR.
+[51] Puisqu’il est conclu dans la décision Morton que les demandes de redressement d’une T1 sont des déclarations, il s’ensuit que les faux énoncés qu’elles contiennent peuvent justifier l’établissement d’une nouvelle cotisation au titre de l’alinéa 152(4)a). Ensuite, si les faux énoncés sont suffisamment graves, la nouvelle cotisation qui en découle peut inclure des pénalités imposées au titre du paragraphe 163(2) de la LIR, voire ne faire qu’imposer de telles pénalités.
+[52] Donc, dans l’affaire Morton, les nouvelles cotisations n’ont pas été établies au titre du paragraphe 152(4.2) et n’étaient pas à l’abri d’une opposition ou d’un appel, mais ont plutôt été établies au titre de l’alinéa 152(4)a) et étaient susceptibles d’opposition et d’appel de la manière ordinaire.
+[53] Au cas où j’aurais tort et que le paragraphe 17 de la décision Morton étaye le principe voulant que l’alinéa 152(4.2)a) puisse servir à imposer des pénalités ou à augmenter l’impôt à payer, alors j’hésiterais à le suivre, parce que :
+Le paragraphe 17 est une remarque incidente. La décision Morton aboutirait au même résultat sans le paragraphe 17. Comme je viens de le mentionner, il est reconnu au paragraphe 22 de la décision Morton que les demandes de redressement d’une T1 sont des déclarations. Donc, les nouvelles cotisations n’avaient pas à être et n’ont pas été établies au titre du paragraphe 152(4.2) de la LIR; elles ont été établies au titre de l’alinéa 152(4)a);
+La conclusion au paragraphe 17 est contraire au sens du paragraphe 152(4.2), qui prévoit l’établissement de nouvelles cotisations pour aider les contribuables, et non pour leur nuire, comme le montre mon analyse textuelle, contextuelle et téléologique ci-dessus;
+La nécessité de se protéger contre les demandes de redressement d’une T1 frauduleuses n’est pas un motif suffisant pour justifier qu’on interprète le paragraphe 152(4.2) comme conférant le pouvoir d’imposer des pénalités ou d’augmenter l’impôt lorsque l’interprétation contextuelle mène de toute évidence à la conclusion opposée. Notre Cour ne peut pas interpréter les dispositions pour y trouver des politiques tacites[14]. S’il s’avérait que les demandes de redressement d’une T1 ne sont pas des déclarations auxquelles l’alinéa 152(4)a) s’applique, alors il reviendrait au législateur, et non pas à notre Cour, de régler le problème en adoptant des mesures législatives conférant les pouvoirs de supervision nécessaires, avec les protections nécessaires encadrant l’exercice de ces pouvoirs;
+La décision Morton a été rendue sous le régime de la procédure informelle, de sorte qu’elle n’a pas valeur de précédent.
+Conclusion sur le deuxième facteur [54] La NC no 4 est conforme au deuxième facteur seulement en partie. L’octroi de crédits d’impôt non remboursables est conforme à l’alinéa 152(4)a), mais l’établissement d’un revenu supérieur à celui établi dans la NC no 2 n’est pas conforme à cette disposition, donc n’est pas assujetti aux restrictions en matière d’opposition et d’appel. Puisque l’appelant s’est déjà opposé aux questions concernant les gains et les pertes en capital, il n’est pas nécessaire qu’il dépose une autre opposition et l’affaire peut être entendue par la Cour.
+[55] Cette conclusion me permet de trancher la requête de la Couronne, mais, par souci d’exhaustivité, je vais quand même examiner les autres facteurs.
+Troisième facteur : Le contribuable présente une demande en vue d’obtenir une telle détermination [56] La NC no 4 ne répond qu’à une demande, celle concernant les soins de préposé. Il est utile d’examiner chacune des demandes auxquelles renvoie l’intimé.
+La demande de novembre 2023 [57] L’avis d’opposition de l’appelant était accompagné d’une demande de redressement d’une T1 datée du 13 novembre 2023[15], où il demandait une déduction pour gains en capital de 29 166,75 $. Cette demande a été présentée dans les délais et, quoiqu’il en soit, la NC no 2 y a pleinement répondu. Elle n’est plus pertinente pour les besoins de la présente analyse.
+Les demandes d’août 2024 [58] Les prochaines demandes sont les demandes de crédits d’impôt non remboursables présentées le 21 août 2024. La NC no 2 n’y répond pas, mais la NC no 3 accordait des crédits pour les soins à une personne à charge. Le montant pour les soins de préposé à ce stade n’avait toujours pas fait l’objet d’une réponse.
+Les demandes d’août 2025 Les deux dernières demandes ont été présentées le 7 août 2025 :
+La première demande concernait les gains en capital et réitérait le montant de 29 166,75 $; il y était aussi demandé une perte déductible au titre d’un placement d’entreprise (PDTPE) de 12 136,00 $. Ces demandes ne sont pas pertinentes. Ces montants n’ont pas été accordés dans la NC no 2, et ils ne sont à l’origine d’aucune partie de la NC no 4. Si le ministre utilise son pouvoir discrétionnaire pour donner droit à une demande de redressement d’une T1, il établit une nouvelle cotisation. S’il décide de ne pas le faire, la décision n’est pas communiquée dans une nouvelle cotisation, mais dans une décision qui est susceptible de contrôle judiciaire devant la Cour fédérale. Donc, la décision de rejeter les demandes relatives aux pertes en capital du 7 août ne sont pas communiquées dans la NC no 4;
+La deuxième demande était un double de la demande de crédits pour soins à une personne à charge et soins de préposé. Les crédits pour soins à une personne à charge avaient déjà été accordés. Les crédits pour soins de préposé ont été accordés dans la NC no 4. Il s’agit manifestement d’un redressement qui relève du paragraphe 152(4.2) de la LIR. Donc, pour cet aspect seulement, la NC no 4 a été rendue au titre du paragraphe 152(4.2) de la LIR.
+[59] Le fait que seulement un des éléments de la NC no 4 soit conforme au paragraphe 152(4.2) ne signifie pas que toute la NC no 4 l’est aussi, et encore moins qu’elle met à l’abri de toute contestation les autres éléments de la NC no 4 qui, selon le contribuable, constituent une nouvelle cotisation qui a pour effet d’augmenter son impôt à payer.
+Quatrième facteur : La demande est présentée au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition [60] Ce facteur n’est pas en litige. Toutes les demandes de redressement d’une T1 ont été présentées dans le délai de dix ans.
+XI. Décision sur la requête [61] La requête en annulation présentée par l’intimé doit être rejetée. La NC no 4 n’est pas uniquement une nouvelle cotisation établie au titre du paragraphe 152(4.2) de la LIR qui n’est pas susceptible d’appel, car elle établit des montants de revenu et d’impôt supérieurs à ceux établis au titre du paragraphe 165(3) de la LIR dans la NC no 2. L’appelant a le droit limité de faire appel de la NC no 4 pour réduire son impôt fédéral en demandant que soient rétablis les montants de ses revenus brut, net et imposable établis dans la NC no 2, mais là s’arrête son droit d’appel.
+XII. Décision sur l’appel [62] Je me suis demandé si, étant donné ma décision sur la présente requête, je devrais accueillir de façon sommaire le présent appel et renvoyer la NC no 4 pour redressement des revenus brut, net et imposable de l’appelant de manière à les ramener à ceux établis dans la NC no 2.
+[63] Le revenu et l’impôt ont été augmentés dans la NC no 3 et la NC no 4, qui ont été établies après la période normale de nouvelle cotisation, et ces nouvelles cotisations n’invoquaient pas de présentation erronée des faits et n’en faisaient aucune mention, et d’ailleurs aucune présentation erronée des faits n’a été plaidée. Selon les paragraphes 152(5) et 165(3) de la LIR et la jurisprudence à leur sujet[16], il n’était pas loisible au ministre ni à l’intimé d’augmenter l’impôt ou de justifier par un nouveau fondement une nouvelle cotisation établie après la période normale de nouvelle cotisation. Je conclus également plus haut que l’impôt ne peut pas être augmenté au titre du paragraphe 152(4.2). Par conséquent, il semble n’exister aucun fondement justifiant que la NC no 4 augmente le revenu ou l’impôt par rapport à la NC no 2, ni aucun fondement justifiant que soit accordé à l’appelant à l’égard des questions de gains en capital qu’il aurait voulu soulever un redressement supplémentaire en plus de ce qu’il a déjà obtenu par la NC no 2.
+[64] Toutefois, je préfère ne pas accueillir l’appel à ce stade. Je crois que cela pourrait mener à un manquement à l’équité procédurale si les parties n’avaient pas la chance de réfléchir à leur position et à la façon dont elles souhaitent donner suite à l’affaire. Les parties auront 30 jours à compter de la date de la présente ordonnance pour déposer un consentement à jugement ou pour retirer l’appel selon les modalités qui selon elles conviennent le mieux, conformément aux présents motifs, faute de quoi l’affaire sera inscrite au rôle pour audience.
+XIII. Postscriptum : les observations écrites de l’appelant et la jurisprudence inexistante qui y est citée [65] Dans ses observations du 29 mai 2026, l’appelant renvoie à deux affaires qui sont fictives et vraisemblablement le produit d’hallucinations de l’IA : Anand c. Canada, 2019 CAF 141 et Beydoun c. Canada, 2018 CAF […]
+[66] Le 11 juin 2026, environ deux semaines après la date limite à laquelle l’appelant devait présenter ses observations et après des échanges avec l’intimé, qui a attiré son attention sur le problème, l’appelant a voulu envoyer des observations remplaçant totalement ses observations précédentes. Il va sans dire que l’intimé s’est opposé à cette substitution.
+[67] Malheureusement, les observations de l’appelant n’étaient pas particulièrement utiles, étant donné la nature hautement technique des questions dont je suis saisi, le fait que l’appelant semble n’avoir aucune formation en droit et le fait que l’IA ne peut pas remplacer un véritable avocat. Par conséquent, je n’accorde aucun poids aux observations originales ni aux observations de substitution. Toutefois, cela ne soustrait pas l’appelant – ni toute autre partie non représentée par un avocat – de l’obligation de s’assurer que la jurisprudence qu’il cite est véritable et de présenter une analyse qui est la sienne. Cela dit, en l’espèce, je n’ordonnerai pas de dépens contre l’appelant.
+Signé ce 26e jour de juin 2026.
+« Michael Ezri »
+Juge Ezri
+RÉFÉRENCE :
+2026 CCI 121
+Nº DU DOSSIER DE LA COUR :
+2025-2746(IT)I
+INTITULÉ DE LA CAUSE :
+NORMAN FORREST ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 5 mai 2026
+DATES DES OBSERVATIONS ÉCRITES :
+Les 20 et 29 mai 2026
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Michael U. Ezri
+DATE DE L’ORDONNANCE :
+Le 26 juin 2026
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Valentina G. Danielova
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant:
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Marie-Josée Hogue
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Il n’est pas clair si cette date devrait être le 25 avril 2025.
+[2] 684761 BC Ltd. c. R., 2015 CCI 288.
+[3] La jurisprudence est résumée avec concision dans la décision Ryes c. R, 2023 CCI 31, au paragraphe 22, qui renvoie en particulier à la décision Groulx c. La Reine, 2008 CCI 445, conf. par 2009 CAF 10.
+[4] Ibid., par. 24
+[5] Hypothèques Trustco Canada c. R., 2005 CSC 54, par. 10
+[6] Ibid., par. 47.
+[7] Bell Express Vu Limited Partnership c. Canada (PG), 2002 CSC 42, par. 29.
+[8] Définie au paragraphe 152(3.1).
+[9] Voir aussi Foster c. R., 2015 CCI 334, par. 32 à 36.
+[10] Morton c. R., 2014 CCI 72, par. 17.
+[11] Il n’est pas précisé dans la décision si les cotisations supplémentaires ne faisaient qu’imposer des pénalités ou si elles étaient des cotisations générales qui confirmaient les montants d’impôt antérieurs en plus d’imposer des pénalités.
+[12] Groulx, précitée à la note 3.
+[13] Morton, précitée à la note 9, par. 23.
+[14] Cheema c. R., 2018 CAF 45, par. 74, 75 et 97.
+[15] Dans l’affidavit de l’ARC, la demande de redressement d’une T1 est appelée la pièce D, datée du 10 novembre 2023, mais la date de la signature de la demande de redressement d’une T1 figurant à la pièce D est le 13 novembre 2023.
+[16] Foster, précitée à la note 8.

@@ -1,0 +1,154 @@
+---
+title: "557755 BC Ltd. S/N VI Fitness Centre c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27057/index.do"
+last_modified: "2005-10-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 663"
+citation2: ""
+neutral_citation: "2005 CCI 663"
+decision_date: "2005-10-13"
+language: "fr"
+item_id: "27057"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 602
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:26:07.116000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b0634092b88de4d1541c447c3958c3c80fd3ec1ada1b8e21edbb2a5a2bdf5a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 557755 BC Ltd. S/N VI Fitness Centre c. M.R.N.
+
+- Citation: 2005 CCI 663
+- Decision date: 2005-10-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 602, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+557755 BC Ltd. S/N VI Fitness Centre c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-13
+Référence neutre
+2005 CCI 663
+Numéro de dossier
+2005-954(CPP)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2005-954(CPP)
+2005-955(EI)
+ENTRE :
+557755 BC LTD. s/n VI FITNESS CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Nanaimo (Colombie‑Britannique), le 5 août 2005
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Représentante de l'appelante :
+Mme Susan Stevens
+Avocat de l'intimé :
+Me David Everett
+________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel interjeté en vertu de l'article 28 du Régime de pensions du Canada est rejeté et la décision rendue par le ministre du Revenu national à l'égard de la demande qui lui a été présentée aux termes de l'article 27 du Régime est confirmée.
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision que le ministre du Revenu national a rendue à l'égard de l'appel interjeté en vertu de l'article 92 de cette loi est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2005.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 12e jour de mars 2007.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI663
+Date : 20051103
+Dossiers : 2005-954(CPP)
+2005-955(EI)
+ENTRE :
+557755 BC LTD. s/n VI FITNESS CENTRE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge McArthur
+[1] Les appels ont été interjetés à l'encontre de décisions rendues le 26 janvier 2005 par l'Agence du revenu du Canada en application de la Loi sur l'assurance‑emploi et du Régime de pensions du Canada. Le ministre du Revenu national a déterminé que Santino Mario DiToro, dont l'appelante a retenu les services pour entraîner ses clients à son centre de conditionnement physique, exerçait un emploi assurable pendant la période allant du 23 mars 2004 au 27 juillet 2004[1]. L'appelante soutient que M. DiToro était un entrepreneur indépendant.
+[2] L'appelante possédait et exploitait des installations de conditionnement physique et un gymnase à Nanaimo, en Colombie‑Britannique. Monsieur DiToro est un jeune homme qui possède de nombreux talents et exerce plusieurs métiers. Il est enseignant au niveau secondaire, restaurateur et entraîneur personnel diplômé, et il possède son propre centre de conditionnement physique. Son centre de conditionnement physique n'est pas lié à l'appelante. De temps à autre, il travaillait pour l'appelante, il entraînait ses clients, il entretenait le matériel et il assurait le suivi auprès de ces clients. Il était payé 8 $ l'heure pour donner des cours d'orientation et 12,50 $ l'heure pour les entraînements personnels.
+[3] L'appelante n'a pas appelé de témoin. Monsieur DiToro est la seule personne qui est venue témoigner et il l'a fait pour le ministre. L'appelante soutenait que M. DiToro n'exerçait pas un emploi assurable pendant la période en question au sens de l'alinéa 5(1)a) de la Loi sur l'assurance‑emploi. L'avis d'appel est très court et déclare ce qui suit :
+[TRADUCTION]
+Monsieur DiToro a déjà été un employé, mais il ne l'était pas du 23 mars au 27 juillet 2004. Monsieur DiToro est un entraîneur personnel qui fait affaire sous le nom de Body Basics Fitness. En fait, il a beaucoup insisté pour que les chèques soient faits au nom de Body Basics Fitness, ce qui donne clairement à penser qu'il offrait ses services en tant qu'entrepreneur indépendant, et non pas en tant qu'employé.
+Le ministre soutient simplement que M. DiToro exerçait un emploi assurable pour l'appelante aux termes d'un contrat de louage de services au sens de l'alinéa 5(1)a).
+[4] L'appelante avait le fardeau de prouver sa position. Elle n'a présenté aucun élément de preuve à part le témoignage de M. DiToro, lequel était le témoin du ministre.
+[5] Monsieur DiToro possédait beaucoup d'expérience en matière d'entraînement et il n'avait besoin que de très peu d'encadrement pour ce qui est de la formation, même s'il était parfois supervisé par les employés de l'appelante. Il travaillait pendant des périodes de quatre heures quand il était disponible et quand l'appelante avait besoin de ses services. La plupart du temps, l'appelante fournissait les instruments de travail et le matériel dont M. DiToro avait besoin. Il entraînait seulement les clients de l'appelante. Ses émoluments étaient établis par l'appelante et il n'engageait pas de frais personnels.
+[6] Avant le 31 mars 2004, M. DiToro était traité comme un employé dans les documents comptables de l'appelante. Sur l'avis de son comptable, l'appelante a reclassifié M. DiToro et a changé son statut d'employé pour celui d'entrepreneur indépendant sans changer les conditions de son emploi. Monsieur DiToro pouvait exercer d'autres fonctions quand il ne travaillait pas pour l'appelante. Aucun élément de preuve ne permet d'établir que les parties ont conclu un accord indiquant que leur relation n'était pas une relation employeur‑employé. La façon dont les parties ont choisi de décrire leur relation ne permet pas, en soi, de déterminer la nature de leur relation. Quoi qu'il en soit, la reclassification a été effectuée unilatéralement par l'appelante. Il n'y a pas eu d'accord contractuel mutuel. Il faut examiner dans son ensemble la relation qui existe effectivement entre les parties, et non pas comment une des parties décrit cette relation.
+[7] Monsieur DiToro se considérait comme un employé. Le fait qu'il ait demandé que ses chèques de paye soient émis au nom de sa société ne permet pas de déterminer la relation qu'il y a entre les parties. Il entraînait les clients de l'appelante dans les locaux de l'appelante et au moyen du matériel de l'appelante, il était payé selon un taux horaire établi par l'appelante et il était supervisé par les employés de l'appelante. Les possibilités de profit et les risques de perte de M. DiToro étaient très faibles, voire même nuls. Il était payé selon un taux horaire précis pour chaque heure de travail et ses dépenses étaient payées par l'appelante. L'appelante, et non pas M. DiToro, souscrivait une assurance au cas où quelqu'un se blesserait pendant que M. DiToro travaillait dans les locaux de l'appelante.
+[8] L'arrêt de la Cour d'appel fédérale dans l'affaire Wiebe Door Services Ltd. c. M.R.N.,[2] établit quatre critères : le contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte, ainsi que l'intégration. Ces critères ont été confirmés par la Cour suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Ltd.[3] L'importance de chacun des critères doit être envisagée dans le contexte global de l'ensemble des faits. En général, les cours ont de la difficulté à appliquer le critère de l'intégration. La situation doit être examinée dans son ensemble. Comme l'a dit le juge Major dans l'affaire Sagaz, le juge de première instance doit tenir compte de la réponse à la question « à qui appartient l'entreprise? ».
+[9] J'ai appliqué les critères de l'arrêt Wiebe Door et je crois que le critère du contrôle n'est pas concluant. Les autres critères, y compris celui de la propriété des instruments de travail et celui de la possibilité de profit et du risque de perte, appuient clairement la position du ministre. Pour répondre à la question « à qui appartient l'entreprise? », je n'hésite pas à conclure qu'il s'agissait de l'entreprise de l'appelante.
+[10] Monsieur DiToro était un spécialiste de l'entraînement et il n'avait besoin que de peu d'encadrement pour accomplir son travail, sinon aucun, mais l'appelante décidait de l'endroit où il entraînait les clients, les personnes qu'il entraînait et le matériel qu'il utilisait.
+[11] Comme il a été indiqué, il faut tenir compte de l'intention des parties, mais il faut particulièrement déterminer quelle est la relation factuelle entre les parties, étant donné qu'en l'espèce, l'intention des parties n'est pas la même. L'appelante possédait tous les instruments de travail – le gymnase et tout le matériel, ainsi que les clients. Ce critère appuie la position du ministre. L'appelante établissait le taux horaire. Les parties s'étaient entendues sur les heures de travail. Ce critère appuie la position du ministre. Il s'agissait sans contredit de l'entreprise de l'appelante et, bien que M. DiToro décidait de la façon dont il entraînait les clients de l'appelante, l'appelante dirigeait la situation de façon globale. L'appelante a engagé M. DiToro pour satisfaire ses besoins et elle pouvait le renvoyer quand elle le voulait. Le tableau général qui se dégage est que M. DiToro travaillait pour l'appelante au sein de l'entreprise de l'appelante.
+[12] En conclusion, M. DiToro était un employé et l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2005.
+« C, H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 12e jour de mars 2007.
+Yves Bellefeuille, réviseur.
+RÉFÉRENCE :
+2005CCI663
+NO DU DOSSIER DE LA COUR :
+2005-954(CPP) et 2005-955(EI)
+INTITULÉ DE LA CAUSE :
+557755 BC Ltd. s/n VI Fitness Centre c. Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Nanaimo (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 5 août 2005
+MOTIFS DU JUGEMENT MODIFIÉS PAR :
+L'honorable juge C. H. McArthur
+DATE DU JUGEMENT MODIFIÉ :
+Le 3 novembre 2005
+COMPARUTIONS :
+Représentante de l'appelante :
+Susan Stevens
+Avocat de l'intimé :
+Me David Everett
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Dans le paragraphe 2 de la réponse à l'avis d'appel de l'intimé, la période dont il est fait mention va du 9 septembre 2003 au 27 juillet 2004. Ces dates ne concordent pas avec les dates figurant dans la lettre du 26 janvier 2005 que l'ARC a envoyée à l'appelante ni avec celles mentionnées dans l'avis d'appel de l'appelante, daté du 24 mars 2005. Les présents motifs portent sur la période appropriée qui va du 23 mars 2004 au 27 juillet 2004.
+[2] [1986] 3 C.F. 553.
+[3] [2001] 2 R.C.S. 983.

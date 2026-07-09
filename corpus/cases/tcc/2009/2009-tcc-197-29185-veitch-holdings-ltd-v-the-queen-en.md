@@ -1,0 +1,174 @@
+---
+title: "Veitch Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29185/index.do"
+last_modified: "2009-04-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 197"
+citation2: ""
+neutral_citation: "2009 TCC 197"
+decision_date: "2009-04-17"
+language: "en"
+item_id: "29185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6682
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:22:07.516000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9024fd06a7ed65a52083255eab85e0f7ebd096dfd1dd13b22689f7f16e02142c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Veitch Holdings Ltd. v. The Queen
+
+- Citation: 2009 TCC 197
+- Decision date: 2009-04-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6682, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Veitch Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-17
+Neutral citation
+2009 TCC 197
+File numbers
+2006-1838(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1838(GST)I
+BETWEEN:
+VEITCH HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on March 26, 2009 at Winnipeg, Manitoba
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Scott Gray
+Counsel for the Respondent:
+Gérald Chartier
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for an Order of this Court to strike the Appellant’s Notice of Appeal, without leave to amend, from the assessment made under the Excise Tax Act;
+The motion is dismissed.
+Costs of the motion are in the discretion of the trial judge.
+Signed at Halifax, Nova Scotia, this 17th day of April 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC197
+Date: 20090417
+Docket: 2006-1838(GST)I
+BETWEEN:
+VEITCH HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] This is a motion by the Respondent for an Order to strike out the Notice of Appeal, without leave to amend; an Order granting such further and other relief as the court considers just; and, an Order granting costs of this motion. The Grounds for the Motion are that:
+(a) The Notice of Appeal discloses no reasonable grounds for appeal;
+(b) It is frivolous and scandalous;
+(c) It is an abuse of process of the court; and,
+(d) It contains legal argument which the Appellant does not have the requisite standing to assert.
+The Respondent has referenced sections 4, 53, 58 and 65 of the Tax Court of Canada Rules (General Procedure) (the “Rules”).
+[2] At the hearing of the motion, counsel for the Respondent stated that he did not rely on those sections of the Rules which he had referenced in his Notice of Motion. However, his Written Representations are replete with references to the various sections of the Rules and it is my opinion that counsel did in fact rely on those sections which he had referenced in the Notice of Motion.
+[3] Counsel for the Respondent acknowledged that the Appellant had elected the informal procedure to apply to its appeal. He relied on the decision of Bowie, J in Hinz v. M.N.R.[1] for the principle that this court has the inherent jurisdiction to control its proceedings.
+[4] I note that at paragraph 4 of Hinz, Justice Bowie opined that only on occasions when a procedure is required, should the Tax Court of Canada Rules (General Procedure) be used in informal procedure appeals. He specifically stated that the Rules should not be used to affect the rights of individuals. He stated:
+Resort to the General Rules of Procedure in informal appeals, and in EIA and CPP appeals, should be limited to those occasions when a procedure is required; there is no mandate to apply the General Rules of Procedure to every situation in which the Rules Committee has not seen fit to make provision in the Informal Procedure Rules or the EI and CPP Rules. That is especially so where the matter at hand affects established rights and not simply the procedure to be followed. (emphasis added)
+[5] I agree with Justice Bowie. The Respondent should not be allowed recourse to the Rules to strike out pleadings in an appeal that is brought under the informal proceedings. If the Respondent wanted the Rules to apply to this appeal, the Attorney General could have requested, pursuant to section 18.3002, that the General Procedure apply. This was not done.
+[6] When an appeal is filed with this court under the informal procedure, no special form is required. See section 18.15 of the Tax Court of Canada Act. The notice must only state in general terms, the reasons for the appeal and the relevant facts. The Notice of Appeal in this case conforms to this standard.
+[7] The chronology of events in this appeal is as follows:
+a) The Notice of Appeal was filed on June 22, 2006;
+b) The Reply to Notice of Appeal was filed on August 28, 2006;
+c) A Notice of Hearing dated May 22, 2007, was sent to the parties to inform them that the appeal was scheduled for hearing on September 19, 2007;
+d) On September 11, 2007, counsel for the Appellant requested an adjournment of the hearing. In his letter he wrote that in order to put forward the best case for his clients, he would require expert evidence. He had not been able to retain an expert and he suggested that an appropriate rescheduling date was mid-January or early February, 2008.
+e) By letter dated September 11, 2007, the Respondent did not oppose the request for an adjournment. In this letter, counsel stated that he had been in touch with counsel for the Appellant with respect to the proposed testimony. The Respondent requested that he receive a copy of the expert report as soon as it was ready and in any case not less than 30 days prior to the hearing date, notwithstanding that the Informal Procedure Rules apply. The Appellant agreed.
+f) On September 13, 2007, the request for an adjournment was granted. The court asked the Appellant to provide a Status Report in writing no later than January 31, 2008.
+g) By letter dated January 31, 2008, counsel for the Appellant informed the court and the Respondent that the expert report was not available. Counsel had been successful in obtaining an expert, but that person was very busy and would not be able to work on his client’s case until June, 2008. He projected that the report would be available by September 15, 2008. With his letter, counsel included the curriculum vitae of the proposed expert.
+h) On February 8, 2008, counsel for the Respondent informed the court that he did not oppose the filing of the expert report on September 15, 2008 and that he would require sufficient time to file a response to the expert report. He indicated that he would make himself available for a case management conference call.
+i) On February 13, 2008, the court granted the Appellant’s request for an extension of time until September 15, 2008 to file the expert report. A case management conference call was scheduled for September 5, 2008.
+j) On August 20, 2008, counsel for the Appellant informed the court that the expert report would not be completed until October.
+k) There were two case management conference calls with the court. They were held on September 5 and November 18. At the November 18 conference call, counsel for the Respondent stated that he had received the expert report on October 31 and that he had written to counsel for the Appellant on November 14 to inform him that he intended to bring a motion to strike the Notice of Appeal on the basis that the Appellant did not have standing to assert aboriginal rights.
+[8] At the hearing, counsel for the Respondent stated that he was no longer relying on the ground that the Appellant did not have standing.
+[9] If it is plain and obvious that the Notice of Appeal discloses no reasonable grounds for appeal and it is frivolous and scandalous, why did it take the Respondent over two years to file a motion to strike? The Appellant has incurred the expense of hiring an individual who has prepared an expert report. It was not until the report was sent to counsel for the Respondent that the Respondent decided to bring this motion. I think that it is too late. This is an informal procedure matter and the Appellant should not be denied its day in court.
+[10] Counsel for the Respondent stated that as soon as it became apparent that the Appellant was raising an issue that would be resource intensive, the Respondent brought its motion. This is not a proper reason to bring a motion to strike pleadings.
+[11] I realize that there have been situations where pleadings under the informal procedure have been struck. However, a review of the reported decisions disclosed that in those appeals one of the following conditions existed:
+a) There were no grounds stated for the appeal[2]; or,
+b) It was an appeal of a nil assessment[3]; or,
+c) The pleadings totally failed to meet the requirements of subsection 18.15[4].
+[12] A motion to strike pleadings will only be granted when it is “plain and obvious” that the notice of appeal discloses no reasonable cause of action. The Supreme Court of Canada stated the test at page 980 of Hunt v. Carey Canada Inc.[5]:
+…assuming that the facts as stated in the statement of claim can be proved, is it "plain and obvious" that the plaintiff's statement of claim discloses no reasonable cause of action? As in England, if there is a chance that the plaintiff might succeed, then the plaintiff should not be "driven from the judgment seat". Neither the length and complexity of the issues, the novelty of the cause of action, nor the potential for the defendant to present a strong defence should prevent the plaintiff from proceeding with his or her case. Only if the action is certain to fail because it contains a radical defect ranking with the others listed in Rule 19(24) of the British Columbia Rules of Court should the relevant portions of a plaintiff's statement of claim be struck out under Rule 19(24)(a).
+[13] As well, Justice Bonner, as he then was, in Morris v. R[6]., summarized the principles that govern motions to strike pleadings:
+7 Certain principles emerge from the cases dealing with applications to strike out pleadings or parts thereof.
+1. Generally speaking, allegations of fact in a statement of claim should be taken as being true or capable of being proven. The reference for that is Unterreiner v. Wilson (1982), 40 O.R. (2d) 197, 142 D.L.R. (3d) 588 (H.C.), which was later affirmed by the Court of Appeal ( (1983), 41 O.R. (2d) 472).
+2. There is a heavy burden on the attacking party to show that it is clear and obvious that the pleading is scandalous, frivolous or vexatious, or that it is otherwise an abuse of the process of the Court. The authority for that proposition is Erasmus v. Canada, [1991] 1 C.T.C. 337, 91 D.T.C. 5415 (F.C.T.D.).
+3. "Embarrassing" means that the allegations are so irrelevant that to allow them to stand would involve useless expense and would also prejudice the trial of the action by involving the parties in a dispute that is wholly apart from the issues. "In order that allegations should be struck out from the defence upon that ground, it seems to me that their irrelevancy must be quite clear and, so to speak, apparent at the first glance. It is not enough that on considerable argument it may appear that they do not afford a defence." That is a quotation from City of London v. Horner (1914), 111 L.T. Rep. 512 (C.A.) at 514, a decision of Pickford, L.J.
+[14] The issue raised by the Notice of Appeal is whether the land on which the Appellant is situated is a reserve. In the Notice of Appeal, counsel for the Appellant stated three alternative reasons to support its position. It is these three reasons or alternatively some portion of them that the Respondent seeks to have struck.
+[15] The reasons given by the Appellant are:
+a) The land description on the Certificate of Title establishes that the Appellant is situated on a reserve;
+b) The 1906 surrender of land to the Federal Crown was invalid;
+c) Estoppel.
+[16] The Respondent’s main arguments with respect to the motion were: (1) The Certificate of Title doesn’t say that the land is vested in the Queen or held aside which it must assert if the land is a reserve; (2) The court would have to make a declaration in order to resolve reasons one and two as stated by the Appellant. This court does not have the jurisdiction to make a declaration.
+[17] On reviewing all of the Respondent’s arguments, I am of the opinion that these are arguments which should properly be made at the hearing of the appeal not by way of an interlocutory proceeding on a motion to strike. They deal with the substantive issue before the court and require evidence.
+[18] The Respondent’s argument that the court must make a declaration to decide the issue is incorrect. This will require the court to make a finding of fact. See the decision in Jeddore v. The Queen[7].
+[19] For all these reasons the motion to strike is dismissed. Costs of the motion are in the discretion of the trial judge.
+Signed at Halifax, Nova Scotia, this 17th day of April 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC197
+COURT FILE NO.: 2006-1838(GST)I
+STYLE OF CAUSE: VEITCH HOLDINGS LTD. AND THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: March 26, 2009
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: April 17, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Scott Gray
+Counsel for the Respondent:
+Gérald Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Scott Gray
+Firm: Mirwaldt & Gray
+403 – 171 Donald Street
+Winnipeg, Mb
+R3C 1M4
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 TCC 727
+[2] MacLeod v. The Queen, [2006] 5 C.T.C. 2549
+[3] MacLeod v. The Queen, 2006 TCC 434
+[4] Sykes v. The Queen, [1998] 1 C.T.C. 2639; Howard v. The Queen, [1997] 3 C.T.C. 2641; Tuck, 2007 TCC 418
+[5] [1990] 2 S.C.R. 959
+[6] 93 D.T.D. 316 (TCC)
+[7] 2001 TCC 962182

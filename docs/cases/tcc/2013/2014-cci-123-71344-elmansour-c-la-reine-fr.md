@@ -1,0 +1,365 @@
+---
+title: "Elmansour c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71344/index.do"
+last_modified: "2013-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 123"
+citation2: ""
+neutral_citation: "2014 CCI 123"
+decision_date: "2013-03-25"
+language: "fr"
+item_id: "71344"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5288
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:25:14.916000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "256e73062f36d4307ce651a000079571a0b22801681fa53c969925b28ce9696e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Elmansour c. La Reine
+
+- Citation: 2014 CCI 123
+- Decision date: 2013-03-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5288, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elmansour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-03-25
+Référence neutre
+2014 CCI 123
+Numéro de dossier
+2010-3469(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3469(IT)G
+ENTRE :
+NIMER ELMANSOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Basmah Elmansour (2010-3471(IT)G) les 26 et 27 mars 2013,
+à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Simon Petit
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004 et 2005 sont accueillis, dans la mesure où les liquidités doivent être rajustées pour les années visées par l’appel.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 25e jour de juillet 2014.
+Mario Lagacé, jurilinguiste
+Dossier : 2010-3471(IT)G
+ENTRE :
+BASMAH ELMANSOUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de
+Nimer Elmansour (2010-3469(IT)G) les 26 et 27 mars 2013,
+à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Simon Petit
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis, et les appels relatifs aux années d’imposition 2004, 2005, 2006 et 2007 sont rejetés.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 25e jour de juillet 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 123
+Date : 20140425
+Dossier : 2010-3469(IT)G
+ENTRE :
+NIMER ELMANSOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2010-3471(IT)G
+ENTRE :
+BASMAH ELMANSOUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+Aperçu [1] Les appels de M. Nimer Elmansour (« M. Elmansour ») et de Mme Basmah Elmansour (« Mme Elmansour ») ont été entendus sur preuve commune. Les appelants sont mari et femme.
+[2] Pour ses années d’imposition portées en appel, soit 2002, 2003, 2004 et 2005, M. Elmansour a déclaré les montants suivants à titre de revenu :
+2002
+1 $[1]
+2003
+(403 $)
+2004
+1 $
+2005
+1 $
+[3] Par des nouvelles cotisations datées du 2 avril 2009, le ministre du Revenu national (le « ministre »), en recourant à la méthode de l’avoir net, a ajouté les montants qui suivent au revenu de M. Elmansour :
+2002
+81 379 $
+2003
+394 596 $
+2004
+58 388 $
+2005
+4 240 $[2]
+[4] Pour ses années d’imposition portées en appel, soit 2002, 2003, 2004, 2005, 2006 et 2007, Mme Elmansour a déclaré les montants qui suivent à titre de revenu :
+2002
+1 $[3]
+2003
+1 $
+2004
+1 $
+2005
+1 $
+2006
+1 $
+2007
+1 $
+[5] Par des nouvelles cotisations datées du 2 avril 2009, pour les années d’imposition 2002, 2003, 2004 et 2005, ainsi que par des cotisations datées du 8 avril 2009, pour les années d’imposition 2006 et 2007, le ministre, en recourant à la méthode de l’avoir net, a ajouté les montants qui suivent au revenu de Mme Elmansour :
+2002
+14 831 $
+2003
+1 534 $
+2004
+34 451 $
+2005
+48 196 $
+2006
+52 905 $
+2007
+51 501 $
+[6] Le ministre a établi les nouvelles cotisations relatives aux années d’imposition 2002, 2003 et 2004 de M. et de Mme Elmansour après l’expiration de la période normale de nouvelle cotisation de trois ans en vertu du paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi »).
+[7] Le ministre a imposé des pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi pour les années d’imposition visées par les appels de M. et de Mme Elmansour.
+[8] Le ministre a également imposé une pénalité en vertu du paragraphe 162(1) de la Loi à Mme Elmansour pour avoir omis de produire sa déclaration de revenus au plus tard le 30 avril 2007 pour son année d’imposition 2006, et au plus tard le 30 avril 2008 pour son année d’imposition 2007.
+Les questions à trancher 1. Le ministre était-il en droit d’établir une nouvelle cotisation à l’égard de M. et de Mme Elmansour après l’expiration de la période normale de nouvelle cotisation pour les années d’imposition 2002, 2003 et 2004? Si ce n'est pas le cas, je n’ai pas à répondre aux autres questions portant sur les années d’imposition 2002, 2003 et 2004.
+2. Le ministre a-t-il à juste titre établi une nouvelle cotisation à l’endroit de M. Elmansour en ajoutant à son revenu les montants qui suivent?
+2002
+81 379 $
+2003
+394 596 $
+2004
+58 388 $
+2005
+4 240 $
+3. Le ministre a-t-il établi à juste titre une nouvelle cotisation à l’endroit de Mme Elmansour en ajoutant à son revenu les montants qui suivent?
+2002
+14 831 $
+2003
+1 534 $
+2004
+34 451 $
+2005
+48 196 $
+2006
+52 905 $
+2007
+51 501 $
+4. Le ministre a-t-il imposé à juste titre des pénalités en vertu du paragraphe 163(2) de la Loi pour toutes les années visées par les appels de M. et de Mme Elmansour?
+5. Le ministre a-t-il imposé à juste titre des pénalités pour production tardive en vertu du paragraphe 162(1) de la Loi pour le défaut de Mme Elmansour d’avoir produit ses déclarations de revenus concernant les années 2006 et 2007 dans le délai que prescrit l’alinéa 150(1)d) de la Loi?
+Le fardeau de la preuve [9] En ce qui concerne la première question, pour que l’on puisse confirmer les nouvelles cotisations relatives aux années d’imposition 2002 à 2004, le ministre doit prouver que les Elmansour, au moment de produire leurs déclarations de revenus, ont fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou qu’ils ont commis une fraude lorsqu’ils ont produit leurs déclarations ou fourni des informations au titre de la Loi.
+[10] En ce qui concerne les deuxième et troisième questions, le fardeau de la preuve pèse sur les épaules des Elmansour. Pour avoir gain de cause, ils doivent prouver que le ministre a augmenté à tort leurs revenus pour les années portées en appel.
+[11] En ce qui concerne la quatrième question, les pénalités imposées en vertu du paragraphe 163(2) de la Loi seront confirmées si le ministre prouve que les Elmansour, lorsqu’ils ont produit leurs déclarations de revenus, y ont fait sciemment ou dans des circonstances équivalant à faute lourde un faux énoncé ou une omission.
+[12] Quant à la cinquième question, le ministre doit prouver que Mme Elmansour a produit sa déclaration de revenus pour 2006 après le 30 avril 2007 et sa déclaration de revenus pour 2007 après le 30 avril 2008.
+Les éléments de preuve [13] Les Elmansour ont immigré au Canada en 1994 à titre d’immigrants-investisseurs. Avant d’arriver au pays, ils vivaient aux Émirats arabes unis, où M. Elmansour travaillait comme ingénieur dans le secteur pétrolier.
+[14] Ils sont arrivés au Canada avec leurs cinq enfants : Ayman, Anas, Essam, Rawan et Bashar.
+[15] Ayman est né en 1979, Anas en 1980, Essam en 1982, Rawan en 1984 et Bashar en 1987. De ce fait, en 2002, soit la première année portée en appel, Ayman était âgé de 23 ans, Anas de 22 ans, Essam de 20 ans, Rawan de 18 ans et Bashar de 15 ans.
+[16] M. Elmansour a déclaré que ses enfants vivaient avec lui et son épouse. Il subvenait aux besoins des enfants, mais il n’a pas payé leurs droits de scolarité universitaire. Il a expliqué qu’aux alentours de 2001‑2002, ses fils aînés - Ayman, Anas et Essam - ont déménagé à Toronto pour y faire leurs études. En 2003, ces trois fils vivaient dans une maison que M. Elmansour avait achetée à Ajax, près de Toronto. En 2005, Anas est revenu de Toronto pour finir ses études à Montréal, et il a vécu dans la maison familiale. Au cours des années portées en l’appel, Rawan et Bashar vivaient eux aussi dans la maison familiale.
+[17] M. Elmansour a déclaré que, selon les conditions de son visa à titre d’immigrant‑investisseur, il était obligé d’investir au Canada. C’est ainsi que, le 3 décembre 1998, il a constitué la société 9071‑1607 Québec Inc. (« la société 9071 »). La société 9071 était exploitée sous le nom d’El-Mansour Import & Export, et M. Elmansour en était l’unique actionnaire et administrateur.
+[18] La société 9071 importait et exportait des vêtements entre le Canada et le Moyen‑Orient, principalement le Qatar. M. Elmansour a déclaré qu’il avait investi 20 000 $ de ses propres fonds dans cette entreprise. Il travaillait à temps plein et il avait embauché deux personnes à temps partiel.
+[19] Les états financiers de la société 9071 pour l’année d’imposition 1999 font état d’un revenu brut de 71 396 $ et d’une perte de 4 359 $. M. Elmansour, en tant qu’unique actionnaire et administrateur, n’a produit aucune déclaration de revenus pour le compte de la société 9071. L’entreprise d’import‑export a duré environ deux ans.
+[20] Selon M. Elmansour, Citoyenneté et Immigration Canada était insatisfait de l’investissement qu’il avait fait au Canada. Le 16 juillet 1999, une mesure d’interdiction de séjour a été prise à l’endroit de M. Elmansour, de son épouse et de leurs cinq enfants. Pour éviter d’être expulsé, il a décidé d’investir plus d’argent.
+[21] À la fin de décembre 2001, M. Elmansour a acheté un dépanneur à Scarborough (Ontario), au prix de 26 500 $.
+[22] Au début, le dépanneur était exploité par la société 9071. M. Elmansour a toutefois été informé par son comptable que ce serait moins compliqué si le dépanneur était exploité en tant qu’entreprise individuelle. C’est donc sous cette forme que le dépanneur a été exploité par M. Elmansour .
+[23] Le dépanneur a tout d’abord été exploité sous le nom de Friendly Mart; ce nom a plus tard été changé pour Smokey‑Way Discount. M. Elmansour a déclaré qu’il avait embauché une personne pour travailler à temps plein au dépanneur Smokey‑Way Discount et que lui‑même et l’un de ses fils y travaillaient à temps partiel.
+[24] Les états financiers du dépanneur Smokey‑Way Discount pour l’année d’imposition 2002 font état d’un revenu de brut de 71 994 $ et d’un revenu net de 7 480,07 $. Le montant de 7 480,07 $ n’a pas été inclus à titre de revenu dans la déclaration de revenus que M. Elmansour a produite pour son année d’imposition 2002.
+[25] Le revenu brut de 71 396 $ qui découlait des ventes réalisées par la société 9071 dans le cadre de l’entreprise d’import‑export au cours de l’année d’imposition 1999 n’apparaît pas dans le compte bancaire de la société 9071. Presque aucun dépôt n’a été fait dans ce compte. Cela vaut aussi pour le dépanneur Smokey‑Way Discount. Comme il s’agissait d’une entreprise individuelle, on se serait attendu à voir dans le compte personnel de M. Elmansour des dépôts correspondant au revenu brut que le dépanneur Smokey‑Way Discount avait gagné au cours de l’année d’imposition 2002, soit 71 994 $. Les dépôts qui ont été faits dans les comptes bancaires des deux entreprises étaient tous justes suffisants pour couvrir les dépenses.
+[26] Le 3 mars 2003, M. Elmansour a fait l’achat d’une maison à Ajax, au prix de 385 000 $. Il a déclaré l’avoir payée sans aucun financement, grâce à des investissements personnels qu’il avait transférés au Canada en 2003, depuis la Banque Nationale d’Abou Dhabi.
+[27] M. Elmansour a dit avoir acheté la maison d’Ajax afin de montrer à Citoyenneté et Immigration Canada que son projet d’investissement au Canada était sérieux. Du même coup, ses enfants auraient un endroit où vivre pendant qu’ils se trouvaient à Toronto. Il a vécu aussi dans cette maison quand il travaillait au dépanneur Smokey‑Way Discount.
+[28] Le dépanneur Smokey‑Way Discount a été vendu en septembre 2003; M. Elmansour a réalisé sur cette vente un gain en capital de 30 000 $. Ce gain en capital n’a pas été inclus dans la déclaration de revenus de M. Elmansour concernant son année d’imposition 2003.
+[29] Vers le mois de novembre 2003, M. Elmansour a ouvert une autre entreprise : Mioceen Carpet Cleaning (« Mioceen »). Cette entreprise de nettoyage de tapis et de meubles capitonnés a été exploitée par la société 9071. Elle était située dans des locaux loués, au 6830, avenue du Parc, à Montréal. M. Elmansour a signé un bail d’un an pour le compte de la société 9071. Après son expiration, le bail n’a pas été renouvelé. M. Elmansour a déménagé son bureau à sa maison, à Dollard‑des‑Ormeaux.
+[30] M. Elmansour a obtenu la citoyenneté canadienne en août 2004.
+[31] M. Elmansour a déclaré qu’après avoir obtenu sa citoyenneté, il a fermé Mioceen parce que cette entreprise n’était pas rentable.
+[32] Mme Elmansour a déclaré que, depuis son arrivée au Canada, elle n’a jamais travaillé à l’extérieur du foyer.
+[33] Mme Elmansour a déclaré que, depuis qu’elle a immigré au Canada, sa famille et elle vivent de l’argent que son époux a accumulé pendant qu’il travaillait dans les Émirats arabes unis. Elle a ajouté qu’elle avait reçu des fonds de son frère ainsi que d’un héritage.
+[34] Mme Elmansour a reçu de 1115411 Ontario Ltd. (« Ontario Ltd. ») des chèques libellés à son ordre. Un de ces chèques, daté du 16 novembre 2004, s’élevait à 5 470 $, et deux autres chèques, datés du 19 novembre 2005, s’élevaient à 5 677 $ et à 6 300 $. Ces chèques ont été déposés dans son compte bancaire. Elle a déclaré que les fonds découlaient d’un travail que son époux avait effectué pendant qu’il se trouvait en Ontario.
+[35] En 2005, Mme Elmansour a rempli une demande de carte de crédit American Express Costco. Sur la demande, elle a inscrit qu’elle était gérante de « Cleaning Inc. » et que son revenu était de 54 000 $ par année.
+[36] En 2006, Mme Elmansour a rempli une demande de carte de crédit de Canadian Tire. Sur la demande, elle a inscrit qu’elle travaillait pour Nimer Elmansour à titre de vice‑présidente depuis deux ans et qu’elle gagnait un revenu de 30 000 $ par année.
+[37] En 2008, Mme Elmansour a présenté une demande de carte Visa CIBC. Sur la demande, elle a inscrit qu’elle était employée de Mioceen Carpet depuis trois ans. Pour ce qui était du revenu, elle a indiqué que son revenu d’emploi mensuel était de 1 100 $ et que son revenu mensuel d’autres sources s’élevait à 2 000 $.
+[38] Mme Elmansour a signé les demandes de carte de crédit, mais elle a déclaré que c’était ses enfants qui avaient rempli les formulaires et qu’elle n’avait pas porté attention à ce qu’ils y avaient inscrit.
+L’analyse Question no 1 – Années frappées de prescription – Le ministre était-il en droit d’établir une nouvelle cotisation à l’égard de M. et de Mme Elmansour après l’expiration de la période normale de nouvelle cotisation pour les années d’imposition 2002, 2003 et 2004?
+[39] Je suis d’avis que le ministre était en droit d’établir une nouvelle cotisation à l’endroit de M. Elmansour pour les années d’imposition 2002, 2003 et 2004, car il a prouvé que M. Elmansour, en produisant ses déclarations de revenus, avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+[40] Pour ce qui est de Mme Elmansour, je suis d’avis que le ministre était en droit d’établir à son égard une nouvelle cotisation pour l’année d’imposition 2004 parce qu’il a prouvé que Mme Elmansour, lorsqu’elle a produit sa déclaration de revenus pour 2004, a fait une présentation erronée des faits par négligence, inattention ou omission volontaire; ce n’est toutefois pas le cas pour les années d’imposition 2002 et 2003.
+M. Elmansour [41] Lorsqu’il a produit ses déclarations de revenus pour les années 2002, 2003 et 2004, M. Elmansour a fait des présentations erronées des faits par négligence, inattention ou omission volontaire. Par exemple :
+− à la page 2 de ses déclarations de revenus, il n’a pas indiqué qu’au cours des années portées en appel il détenait plus de 100 000 $ en investissements à l’étranger, même s’il ressortait clairement de la preuve qu’il savait qu’il possédait plus de 100 000 $ d’investissements aux Émirats arabes unis;
+− il n’a déclaré dans aucune de ses déclarations de revenus les intérêts gagnés sur ces investissements à l’étranger;
+− il n’a pas déclaré les revenus gagnés grâce au dépanneur Smokey‑Way Discount, pas plus qu’il n’a déclaré le gain en capital réalisé sur la vente de ce dépanneur en 2003;
+− jamais, à titre d’unique actionnaire et de président de la société 9071, a-t-il produit des déclarations de revenus pour la société 9071;
+− dans sa demande d’une carte de crédit Platine de Visa RBC, M. Elmansour a indiqué qu’il avait gagné 24 000 $ en 2005 en travaillant pour Mioceen. Selon le témoignage de M. Elmansour, Mioceen n’exploitait plus d’activités en 2005. S’il était vrai que Mioceen était encore active en 2005, M. Elmansour n’a pas déclaré la somme de 24 000 $ à titre de revenu d’emploi;
+− M. Elmansour n’a pas dit dans son témoignage qu’il avait exploité une entreprise sous la raison sociale de 1115411 Ontario Ltd. Y a-t-il eu non-déclaration du revenu qu’Ontario Ltd. a gagné? Mme Elmansour a reçu une série de chèques d’Ontario Ltd en 2004 et en 2005; elle a témoigné qu’il s’agissait de fonds que M. Elmansour avait gagnés à l’époque où il travaillait en Ontario.
+[42] De plus, M. Elmansour n’a pas expliqué de manière crédible de quelle façon il était capable de subvenir à ses besoins et à ceux de sa famille sans gagner un revenu quelconque. Il va de soi qu’il ne pouvait pas subvenir aux besoins d’une famille de cinq enfants sans revenu aucun.
+Mme Elmansour [43] Pour ce qui est de Mme Elmansour, je suis d’avis que le ministre n’a pas prouvé qu’elle avait fait une présentation erronée de son revenu lorsqu’elle a produit ses déclarations de revenus pour les années d’imposition 2002 et 2003. La plupart des preuves documentaires auxquelles l’avocat de l’intimée a fait référence avaient trait aux années d’imposition 2004, 2005, 2006 et 2007. Les années d’imposition 2005, 2006 et 2007 ont fait l’objet d’une nouvelle cotisation dans le délai que prescrit le paragraphe 152(4) de la Loi.
+[44] Au cours de l’année d’imposition 2004, Mme Elmansour a reçu des chèques d’Ontario Ltd. Quand l’intimée lui a demandé pourquoi, elle a éludé la question en répondant qu’il s’agissait d’argent que son époux aurait gagné pendant qu’il travaillait en Ontario. Les chèques ont été faits à son ordre par Ontario Ltd., et non par son époux. C’est elle qui les a déposés dans son propre compte bancaire. Mme Elmansour n’a pas fait état des montants qu’elle a reçus d’Ontario Ltd. dans sa déclaration de revenus pour 2004. De plus, elle n’a pas pu expliquer pourquoi le solde de ses comptes bancaires était passé de 4 522 $ en 2003 à 37 951 $ en 2004. Il y a une différence considérable entre le revenu nul qu’elle a déclaré et le revenu qu’elle aurait dû déclarer, soit 34 451 $ en 2004. Le ministre était donc en droit d’établir une nouvelle cotisation à l’égard de l’année d’imposition 2004 de Mme Elmansour après l’expiration de la période normale de nouvelle cotisation.
+Questions nos 2 et 3 – la valeur nette [45] Le ministre a-t-il à juste titre établi une nouvelle cotisation à l’endroit des Elmansour en ajoutant à leurs revenus les montants qui suivent?
+Années
+M. Elmansour
+Mme Elmansour
+2002
+81 379 $
+14 831 $
+2003
+394 596 $
+1 534 $
+2004
+58 388 $
+34 451 $
+2005
+4 240 $
+48 196 $
+2006
+52 905 $
+2007
+51 501 $
+[46] Comme il est indiqué au paragraphe 152(7) de la Loi, le ministre n’est pas lié par une déclaration ou des renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis, fixer l’impôt à payer.
+[47] Dans la décision Ramey c. La Reine, 93 DTC 791, [1993] ACI no 142 (QL), le juge Bowman explique le concept de la cotisation fondée sur la valeur nette (appelée « cotisation d’actif net » dans la citation ci‑dessous) ainsi que les circonstances dans lesquelles le ministre recourt à cette méthode de cotisation. Il indique, dans ses motifs du jugement (à la page 793 DTC) :
+[...] Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur. […]
+[48] Le juge Bowman, dans la décision Bigayan c. La Reine, 2000 DTC 1619, [1999] ACI no 778 (QL), ajoute, au paragraphe 3 :
+Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. […]
+[49] Tant pour M. Elmansour que pour Mme Elmansour, la cotisation fondée sur la valeur nette a été établie en fonction de données réelles et non d’estimations. Le vérificateur de l’Agence du revenu du Canada (« ARC ») a obtenu de nombreux documents. Outre les documents que les Elmansour ont fournis, le vérificateur a obtenu des informations additionnelles en envoyant des demandes péremptoires de renseignements. Je ne mentionnerai pas tous les documents que le vérificateur a obtenus parce qu’ils sont trop nombreux. Cependant, certains de ceux qui ont été obtenus pour les années d’imposition portées en appel ont contribué à déterminer le revenu des Elmansour, et il s’agit de relevés de compte bancaires, de relevés de carte de crédit, de demandes de carte de crédit, d’immatriculations d’automobile auprès de la Société de l’assurance automobile du Québec, de contrats d’achat de véhicules auprès de concessionnaires, de contrats d’assurance, de documents de constitution en société, de documents d’entreprise du CIDREQ, de factures liées aux entreprises de M. Elmansour, d’états financiers, de documents relatifs à la maison d’Ajax, ainsi que de rapports d’Equifax. Une cotisation fondée sur la valeur nette n’est jamais parfaite, mais celles qui ont été établies dans le cas présent étaient bien documentées.
+M. Elmansour [50] À l’exception des liquidités qui s’appliquent à l’année de référence 2001, M. Elmansour n’a pas contesté les montants liés à des biens qui figuraient dans le relevé de la valeur nette. Quant aux éléments de passif, il n’en avait aucun.
+[51] Au chapitre des dépenses, le ministre a majoré la valeur nette de M. Elmansour par l’ajout de dépenses personnelles de 34 801 $ pour 2002, de 19 900 $ pour 2003, de 3 129 $ pour 2004 et de 19 269 $ pour 2005. Ces montants étaient fondés sur des dépenses que M. Elmansour avait effectuées. Le vérificateur de l’ARC a analysé chaque relevé de compte bancaire en vue de déterminer les dépenses de M. Elmansour.
+[52] Selon le témoignage de M. Elmansour, ses dépenses personnelles se chiffraient à environ 1 839 $ par mois, ou 22 068 $ par année. Sauf pour l’année 2002, à l’égard de laquelle le montant des dépenses personnelles a été fixé à 34 801 $, les dépenses indiquées dans le relevé de la valeur nette sont inférieures à l’estimation que M. Elmansour a fournie. Il n’y a donc pas lieu de rajuster les dépenses indiquées dans le relevé de la valeur nette.
+[53] M. Elmansour a fait valoir qu’il faudrait rajuster les liquidités apparaissant dans le relevé de la valeur nette pour tenir compte de ses investissements aux Émirats arabes unis.
+[54] Je conviens, et l’intimée aussi, qu’il est nécessaire de modifier la valeur nette afin de tenir compte des investissements que M. Elmansour détenait aux Émirats arabes unis. Ces investissements n’ont pas été pris en compte lors de la détermination de la valeur nette. L’avocat de l’intimée a déclaré qu’on ne lui a pas fourni avant l’audience les documents relatifs à ces investissements.
+[55] En conséquence, la question à trancher consiste à savoir quelles étaient les liquidités détenues par M. Elmansour au cours des années visées par l’appel.
+[56] M. Elmansour a fait valoir qu’il avait 527 000 $ en liquidités. Il n’a pas expliqué clairement de quoi se composait cette somme. L’intimée a fait valoir que les liquidités devraient s’élever à 466 796 dirhams (200 255 $ CAN)[4].
+[57] D’après ce que j’ai pu comprendre du témoignage de M. Elmansour, la somme de 527 000 $ se composerait d’une somme d’environ 250 000 $ qu’il a amenée avec lui des Émirats arabes unis quand il a immigré au Canada en 1994, ainsi que de la somme de 597 281 dirhams (environ 256 233 $ CAN) qu’il détenait le 5 février 2003 dans ses comptes à la Banque Nationale d’Abou Dhabi.
+[58] À mon avis, la somme de 250 000 $ ne devrait pas être incluse dans la valeur nette à titre de liquidités. Lors de son témoignage, M. Elmansour a déclaré qu’il s’était servi des 250 000 $ pour subvenir aux besoins de sa famille. Il devait subvenir aux besoins de son épouse et de cinq enfants. En 1994, ses enfants étaient jeunes et vivaient avec lui. Ce n’était qu’en 2001 que ses trois enfants les plus âgés étaient partis étudier à Toronto, et il avait payé leur logement. De plus, sur la somme de 250 000 $, il avait également pris 20 000 $ pour investir dans l’entreprise d’import‑export de vêtements en 1998. En 2002, la somme de 250 000 $ devait être épuisée.
+[59] La somme de 597 281 dirhams (256 233 $ CAN) se trouvait dans des comptes différents que M. Elmansour détenait à la Banque Nationale d’Abou Dhabi. L’un des comptes était en dollars US, un autre en livres sterling et un autre encore en dirhams. En 2003, il a fait virer les fonds se trouvant dans ces trois comptes à un autre compte qu’il détenait déjà à la Banque Nationale d’Abou Dhabi. Il a retiré de ce dernier compte la somme de 597 281 dirhams (256 233 $ CAN) et a fait virer ce montant au Canada. Il s’est servi des fonds comme acompte pour la maison achetée à Ajax.
+[60] L’avocat de l’intimée a porté à mon attention des preuves montrant que, le 6 octobre 2002, M. Elmansour détenait dans son compte en dirhams la somme de 237 235 dirhams. Le 14 octobre 2002, il avait 367 784 dirhams dans ce compte, soit 130 548 dirhams (55 900 $ CAN) de plus. L’avocat se demandait quelle était la source des 130 548 dirhams. Autrement dit, d’où cette somme provenait-elle?
+[61] M. Elmansour a déclaré que les 130 548 dirhams étaient un emprunt qu’il avait obtenu de la Banque Nationale d’Abou Dhabi. Il n’a produit aucun document prouvant qu’il s’agissait d’un emprunt.
+[62] L’avocat de l’intimée a exprimé l’avis que les 130 548 dirhams faisaient partie de ses revenus canadiens non déclarés. Les montants non déclarés auraient été transférés depuis le Canada et déposés à Abou Dhabi. Quand l’avocat de l’intimée lui a parlé de revenus non déclarés déposés à l’étranger, M. Elmansour a répondu de manière évasive : [traduction] « Non, non je veux dire. Je vous ai remis tous les documents ».
+[63] La position de l’avocat de l’intimée n’est pas sans fondement; il fallait que l’argent vienne de quelque part. Il n’existe toutefois aucune preuve que des montants ont été virés du Canada aux Émirats arabes unis.
+[64] Le fardeau de la preuve incombait à M. Elmansour; il devait réfuter la présomption de fait du ministre quant aux revenus non déclarés. Il devait expliquer de manière crédible quelle était la source des 130 548 dirhams. Dans le présent appel, la crédibilité de M. Elmansour a été mise en doute. Vu l’absence de tout document corroborant l’existence d’un emprunt, je n’accepte pas le témoignage de M. Elmansour selon lequel il s’agissait d’un emprunt. Il lui aurait été facile de prouver qu’il avait emprunté cette somme à la Banque Nationale d’Abou Dhabi. Il n’a pas réfuté la présomption de fait du ministre, à savoir qu’il s’agissait de revenus non déclarés. En conséquence, la somme de 130 548 dirhams ne devrait pas être incluse dans les liquidités au moment de la détermination de la valeur nette.
+[65] Les liquidités qu’il faudrait inclure dans la détermination de la valeur nette s’élèvent donc à 466 796 dirhams, (200 255 $ CAN).
+Mme Elmansour [66] Compte tenu de ma décision selon laquelle le ministre n’était pas en droit d’établir une nouvelle cotisation à l’endroit de Mme Elmansour pour ses années d’imposition 2002 et 2003, je n’ai pas à examiner ces années d’imposition là. Il me faut toutefois examiner sa valeur nette pour ses années d’imposition 2004, 2005, 2006 et 2007.
+[67] Mme Elmansour a soutenu que le calcul de la valeur nette ne tenait pas compte d’un héritage de 80 000 $ qu’elle avait reçu de sa mère.
+[68] Elle a également soutenu que, en 2005, en 2006 et en 2007, elle avait reçu des cadeaux de son frère, qui vivait aux Émirats arabes unis. Les documents présentés en preuve au sujet de ces cadeaux étaient des copies de documents d’une société appelée Habib Exchange Company, à Abou Dhabi. Les documents en question font état de montants de 1 645 $ en 2005, de 7 300 $ en 2006 et de 2 000 $ en 2007.
+[69] Mme Elmansour a fait valoir de ce fait que les liquidités, pour la détermination de la valeur nette, devraient être rajustées en conséquence.
+[70] Quant à ses dépenses personnelles, Mme Elmansour a déclaré qu’elles étaient d’environ 3 000 $ par mois et qu’il fallait donc changer les dépenses inscrites dans son relevé de la valeur nette. Elle n’a pas expliqué comment elle était arrivée au chiffre de 3 000 $ par mois.
+[71] Pour ce qui est de l’héritage de 80 000 $ que Mme Elmansour a dit avoir reçu de sa mère, elle a déclaré que son frère le lui avait envoyé en plusieurs versements. Elle n’a pas pu se souvenir de l’année dans laquelle elle avait reçu les versements en question, ni du montant des versements que son frère lui avait envoyés. De plus, elle n’a produit aucun document prouvant qu’elle avait reçu un héritage de sa mère. Elle n’a pas produit non plus de documents prouvant qu’elle avait reçu des versements de son frère en ce qui concerne son héritage. Comme elle ne pouvait pas se souvenir de la somme d’argent qu’elle avait reçue de son frère ou du moment où elle avait reçu les versements, et comme elle n’a pas produit de documents corroborant la réception de cet héritage, aucun rajustement ne sera apporté à la valeur nette de Mme Elmansour en ce qui concerne l’héritage.
+[72] Pour ce qui est des cadeaux, les seuls documents produits émanent de la Habib Exchange Company.
+[73] L’avocat de l’intimée a fait valoir que ces documents ne prouvent pas que les fonds que Mme Elmansour a reçus d’Abou Dhabi étaient des cadeaux de son frère. Il a renvoyé la Cour à la décision Sturzer c. La Reine, 2009 CCI 1, 2009 DTC 1131. L’appelant, M. Sturzer, a déclaré dans cette affaire que le calcul que le ministre avait fait de sa valeur nette aurait dû prendre en compte des cadeaux qu’il avait reçus de son père. Le juge Bédard a exprimé l’avis que les documents produits en preuve n’étaient pas suffisants pour prouver que le père avait fait des cadeaux à son fils. Il a déclaré, aux paragraphes 14 et 15 de ses motifs du jugement :
+[14] Je rappelle que l’appelant a soutenu que le ministre aurait dû tenir compte dans son calcul de l’avoir net des dons qu’il avait reçus de son père (qui serait âgé de 80 ans et qui vivait en Autriche) pendant les années en litige. La preuve de l’appelant à cet égard reposait sur son témoignage et sur deux documents déposés en preuve sous les cotes A‑9 et A‑20, documents qui (en supposant même qu’ils soient admissibles en preuve), à mon avis, ne démontrent nullement que monsieur Dominkovits (qui serait le père de l’appelant) avait déposé dans le compte conjoint des sommes totalisant 750 000 $ pendant les années en litige. Le témoignage de l’appelant à l’égard des prétendues donations pourrait se résumer ainsi : son père, un retraité (depuis environ 20 ans) qui avait fait fortune dans le domaine de la construction, avait déposé pendant les années en litige des sommes totalisant environ 750 000 $, sommes que l’appelant avait en partie utilisées pendant ces années pour payer les coûts de construction de sa résidence située dans la municipalité de Morin-Heights, au Québec. L’appelant a expliqué qu’il ne pouvait demander à son père de venir témoigner compte tenu de son âge et de son état de santé. Enfin, l’appelant a témoigné qu’il ne pouvait déposer en preuve des documents bancaires établissant que son père avait déposé de telles sommes dans le compte conjoint puisque les documents des banques autrichiennes ne reflètent aucunement un tel renseignement. L’appelant a même ajouté que les banques autrichiennes ne fournissent même pas à leurs clients des relevés mensuels faisant état de toutes les transactions effectuées par leurs clients pendant un mois donné dans leurs comptes bancaires.
+[15] Je souligne immédiatement qu’il m’apparaît invraisemblable que les banques autrichiennes ne fournissent pas à leurs clients des relevés périodiques faisant état de leurs transactions effectuées (dépôts et retraits) dans leurs comptes. Le dépôt en preuve des relevés bancaires du père et des relevés bancaires du compte conjoint, étayé par le témoignage d’un représentant de ces institutions bancaires, aurait pu établir la vraisemblance des dépôts par le père dans le compte conjoint. L’appelant aurait aussi pu fournir une preuve adéquate établissant l’état du patrimoine de son père (en supposant même que monsieur Dominkovits soit le père de l’appelant qui, je le souligne, porte un nom de famille bien différent de son père) et donc de la vraisemblance de la capacité financière de son père de faire des dons aussi astronomiques. L’appelant était en mesure de fournir une telle preuve. Il ne l’a pas fait. J’en déduis que cette preuve lui aurait été défavorable. Puisque j’ai décidé précédemment que je n’accorderai aucune valeur probante au témoignage de l’appelant sans preuve concordante ou probante sous forme de documentation fiable ou de témoignages crédibles, je dois conclure en l’espèce que monsieur Dominkovits n’avait pas fait à l’appelant des dons totalisant environ 750 000 $ pendant les années en litige.
+[74] Comme dans l’affaire Sturzer, les documents que Mme Elmansour a produits ne prouvent pas que son frère lui a fait des cadeaux en argent. Le nom de ce dernier n’apparaît pas dans les documents de la Habib Exchange Company. La seule chose que les documents prouvent est que des montants ont été transférés à Mme Elmansour depuis Abou Dhabi à une date précise.
+[75] À l’audience, Mme Elmansour a témoigné de façon vague et intéressée. En l’absence de preuves corroborantes ou probantes, sous la forme de documents fiables ou d’un témoignage digne de foi, je ne puis accepter son témoignage selon lequel son frère lui a fait des cadeaux en argent.
+[76] En ce qui concerne les dépenses, le vérificateur de l’ARC a analysé les relevés relatifs à chacun des comptes bancaires de Mme Elmansour afin de déterminer quelles étaient ses dépenses. Il a énuméré toutes les dépenses qu’il avait incluses dans le calcul de sa valeur nette. Elle n’en a contesté aucune. Le fardeau de la preuve lui incombait; elle avait à prouver que les chiffres utilisés au titre des dépenses étaient inexacts.
+[77] Par conséquent, en ce qui concerne les dépenses, il n’y aucun rajustement à apporter à la valeur nette de Mme Elmansour pour les années d’imposition 2004, 2005, 2006 et 2007.
+Question no 4 – Pénalités pour faute lourde – Le ministre a-t-il imposé à juste titre des pénalités en vertu du paragraphe 163(2) de la Loi pour toutes les années visées par les appels de M. et de Mme Elmansour? [78] Dans l’arrêt Lacroix c. La Reine, 2008 CAF 241, 2009 DTC 5029, une décision unanime de la Cour d’appel fédérale, le juge Pelletier a expliqué de quelle façon le ministre peut s’acquitter du fardeau que lui impose le paragraphe 163(2) de la Loi. Au paragraphe 32 de ses motifs, il a déclaré :
+[32] Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenus. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3).
+M. Elmansour [79] M. Elmansour n’a déclaré aucun revenu pour les années d’imposition portées en appel. Une preuve directe a été produite en vue de prouver que M. Elmansour avait décidé de ne pas le faire. Sans répéter ce que j’ai écrit au paragraphe 41 des présents motifs, M. Elmansour savait qu’il n’avait pas déclaré le revenu qu’il avait tiré du dépanneur Smokey‑Way Discount. Il n’a pas non plus déclaré le gain en capital qu’il avait réalisé au moment de la vente du dépanneur. Il n’a jamais déclaré le revenu d’emploi qu’il avait touché à l’époque où il travaillait pour l’entreprise d’import‑export de vêtements; il n’a pas non plus déclaré le revenu d’emploi qu’il avait gagné pendant qu’il travaillait pour Mioceen.
+[80] De plus, il n’a pas pu expliquer pourquoi ses comptes bancaires ne comportaient pas de montants de revenu gagnés par ses entreprises. Par ailleurs, il n’a jamais produit de déclaration de revenus pour le compte de la société 9071.
+[81] De plus, il n’a déclaré dans aucune de ses déclarations de revenus qu’il avait des investissements à l’étranger de plus de 100 000 $. Il a omis également de déclarer les revenus d’intérêts gagnés sur ces investissements aux Émirats arabes unis.
+[82] À l’audience, M. Elmansour a témoigné de façon vague et intéressée. Il a éludé certaines des questions posées en répondant toujours de la même manière. Quand on lui a demandé s’il avait inclus le revenu de 7 400 $ qu’il avait touché du dépanneur Smokey‑Way Discount, il a répondu :
+[traduction] Je ne m’en souviens pas, mais c’était la même réponse. Le comptable, il … s’occupait de tout ça.
+[83] Quand on lui a demandé ce qu’il avait fait pour s’assurer que son entreprise produise sa déclaration de revenus pour 1999, sa réponse a été :
+[traduction] En réalité, je confiais tout ça au comptable. C’est ce que je… une partie de l’entreprise, je dois avoir recours au comptable pour tous les services de comptabilité.
+[84] De plus, M. Elmansour devait subvenir aux besoins d’une famille de cinq enfants. Même si l’on rajustait de quelque manière la valeur nette de M. Elmansour, il y a une différence considérable entre ce qu’il a déclaré, c’est-à-dire un revenu nul, et ce qu’il aurait dû déclarer.
+[85] Dans la décision Venne c. La Reine, 84 DTC 6247, [1984] ACF no 314 (QL), le juge Strayer a déclaré ce qui suit au sujet des pénalités pour faute lourde que prévoit le paragraphe 163(2) de la Loi (à la page 6265 DTC) :
+Quant à la possibilité d’une faute lourde, j’ai conclu, après hésitation, qu’elle n’a pas non plus été établie ici. La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[Non souligné dans l’original.]
+[86] M. Elmansour est une personne instruite. À mon avis, son comportement faisait montre d’un degré important de négligence; il a également fait preuve d’indifférence quant au fait de savoir s’il se conformait à la loi ou non. De ce fait, le ministre a imposé à juste titre les pénalités pour les années portées en appel.
+Mme Elmansour [87] Les pénalités ont été imposées à juste titre à Mme Elmansour à l’égard de ses années d’imposition 2004, 2005, 2006 et 2007. Quand Mme Elmansour a répondu que les chèques qu’elle avait reçus d’Ontario Ltd. représentaient de l’argent que son époux avait gagné pendant qu’il était en Ontario, elle éludait la question. Elle n’a pas expliqué pourquoi elle recevait de tels montants d’Ontario Ltd., ni pourquoi ces montants n’avaient pas été inclus dans son revenu.
+[88] Même si elle a déclaré dans son témoignage n’avoir jamais travaillé à l’extérieur du foyer, lorsqu’elle a présenté une demande de carte de crédit en 2005, elle a déclaré qu’elle était au service de « Cleaning Inc. » et que son revenu était de 54 000 $ par année. En 2006, lorsqu’elle a demandé une autre carte de crédit, elle a déclaré qu’elle était au service de Nimer Elmansour et que son revenu était de 30 000 $ par année. Ces montants de revenu n’ont pas été inclus dans ses déclarations de revenus concernant les années 2005 et 2006. De plus, elle n’a pas pu expliquer pourquoi ses soldes de comptes bancaires avaient considérablement augmenté entre 2003 et 2004.
+[89] Ses dépenses personnelles se chiffraient à 62 361 $ en 2005, à 50 443 $ en 2006 et à 42 538 $ en 2007. Elle n’a pas expliqué de manière crédible de quelle façon elle aurait pu dépenser de tels montants sans aucune source de revenus. La différence entre ce qu’elle a déclaré à titre de revenu, soit la somme de zéro, et ce qu’elle aurait dû déclarer était considérable dans toutes les années en question.
+[90] De ce fait, le ministre a imposé à juste titre les pénalités pour faute lourde à l’égard des années d’imposition 2004, 2005, 2006 et 2007.
+Question no 5 – Pénalités pour production tardive – Le ministre a-t-il imposé à juste titre des pénalités pour production tardive en vertu du paragraphe 162(1) de la Loi pour le défaut de Mme Elmansour d’avoir produit ses déclarations de revenus concernant les années 2006 et 2007 dans le délai que prescrit l’alinéa 150(1)d) de la Loi? [91] L’avocat de l’intimée a prouvé que Mme Elmansour avait produit le 27 février 2009 ses déclarations de revenus concernant les années d’imposition 2006 et 2007. Sa déclaration de revenus concernant l’année 2006 aurait dû être produite au plus tard le 30 avril 2007, et sa déclaration concernant l’année 2007 au plus tard le 30 avril 2008. Comme Mme Elmansour a produit les deux déclarations en retard, le ministre a imposé à juste titre la pénalité que prévoit le paragraphe 162(1) de la Loi.
+La décision M. Elmansour [92] L’appel de M. Elmansour est accueilli dans la mesure où les liquidités doivent être rajustées pour les années portées en appel. Les dépens sont adjugés à l’intimée.
+Mme Elmansour
+[93] L’appel de Mme Elmansour est accueilli pour les années d’imposition 2002 et 2003 et il est rejeté pour les années d’imposition 2004, 2005, 2006 et 2007, et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2014.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 25e jour de juillet 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 123
+NOS DE DOSSIER DE LA COUR :
+2010-3469(IT)G
+2010-3471(IT)G
+INTITULÉ :
+NIMER ELMANSOUR c. SA MAJESTÉ LA REINE
+BASMAH ELMANSOUR c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+Les 26 et 27 mars 2013
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 25 avril 2014
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l’intimée :
+Me Simon Petit
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Aucun revenu n’a été déclaré. Le montant d’un dollar qui est inscrit est destiné aux dossiers de l’ARC et il dénote qu’une déclaration de revenus a été produite.
+[2] M. Elmansour n’a pas porté en appel les années d’imposition 2006 et 2007.
+[3] Aucun revenu n’a été déclaré pour les années portées en appel. Le montant d’un dollar qui est inscrit est destiné aux dossiers de l’ARC et il dénote qu’une déclaration de revenus a été produite.
+[4] La conversion est basée sur un taux de 0,429. Il faudra que les parties confirment ce taux.

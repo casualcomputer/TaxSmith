@@ -1,0 +1,144 @@
+---
+title: "Hiscock v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27944/index.do"
+last_modified: "2006-07-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 560"
+citation2: ""
+neutral_citation: "2006 TCC 560"
+decision_date: "2006-07-18"
+language: "en"
+item_id: "27944"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1760
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:55:28.800000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7557a73aa2923fa2f1844ac23a33b202073df01f8da20f929eec1a3a1aceba96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hiscock v. The Queen
+
+- Citation: 2006 TCC 560
+- Decision date: 2006-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1760, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hiscock v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-18
+Neutral citation
+2006 TCC 560
+File numbers
+2006-613(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC560
+COURT FILE NO. 2006-613(IT)I
+IN THE TAX COURT OF CANADA
+IN THE MATTER OF The Income Tax Act
+BETWEEN:
+CAROL ANN HISCOCK
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+______________________________________________________
+R E A S O N S F O R J U D G M E N T
+______________________________________________________
+HEARD BEFORE: The Honourable Justice D. Campbell
+PLACE HEARD: Sydney, Nova Scotia
+DATE HEARD: Tuesday, July 18, 2006
+APPEARANCES: Ms. Carol Ann Hiscock
+Self-represented
+Mr. Ron MacPhee
+Solicitor for the Respondent
+______________________________________________________
+THE REGISTRAR: Ms. Patricia Cantle
+______________________________________________________
+Recorded by:
+Drake Recording Services Limited
+1592 Oxford Street
+Halifax, NS B3H 3Z4
+Per: Ms. Patricia Cantle, CCR
+I N D E X O F P R O C E E D I N G S
+PAGE NO.
+HER HONOUR - REASONS FOR JUDGMENT........................ 3
+‑‑‑ Upon commencing at 9:00 a.m.
+HER HONOUR - REASONS FOR JUDGMENT: Good morning. Mr. Hiscock, Mrs. Hiscock if you would like to come up to the front seats you are welcome. And good morning and thank you both for coming in to hear my reasons respecting the Respondent’s motion and your reply to that motion. And good morning, counsel.
+Let the record show, Madame Registrar, that I am delivering reasons in respect to the appeals of Carol Ann Hiscock –- and specifically the Respondent’s motion in respect to the appeals.
+The Respondent’s motion is for dismissal of the Appellant’s appeals for the 2002 and 2003 taxation years on the ground that the Court has no jurisdiction to hear the appeals. The only matter which the Appellant puts forth as being at issue in her Notice of Appeal is whether she was a resident for tax purposes of the Province of Nova Scotia or a resident of Nunavut for the taxation years in question.
+The position of the agent for the Appellant is basically that CRA officials directed the Appellant to this Court from the very outset when she sought to challenge the assessments. In support of this position I was referred to one of supposedly several letters of direction from CRA officials advising the Appellant of the option to file an appeal with this Court. In addition if I understood the Appellant’s agent correctly, the Minister made residency the issue.
+The Respondent’s position is basically that the case law and the legislation supports its motion and that this Court has no jurisdiction because the Supreme Court of Nova Scotia has exclusive jurisdiction to deal with the issue of provincial residency in determining the amount of provincial tax applicable.
+The Reply to the Notice of Appeal has not yet been filed in this matter. I have only the Respondent’s motion record and the Appellant’s Notice of Appeal but it is clear from the Notice of Appeal that the Appellant considers her only issue to be one of provincial residency in the taxation years 2002 and 2003. There is a very concise and clear statement of this issue at the top of page 4 of the Notice of Appeal.
+This Court is a statutory body or Court and therefore by its very nature it is limited in scope or jurisdiction by the Statute that creates it. Subsection 12(1) of the Tax Court of Canada Act gives this Court exclusive jurisdiction to hear appeals pursuant to the Federal Income Tax Act. The sole question before me is whether this Court has jurisdiction to hear the Appellant’s appeals. Unfortunately I must conclude that it does not have that jurisdiction.
+Subsections 64(1) and (2) of the Nova Scotia Income Tax Act clearly confers the jurisdiction for the determination of a residency issue to the Supreme Court of Nova Scotia. That subsections state and I quote:
+64(1) Section 169 of the Federal Act applies for the purposes of this Act.
+64(2) An appeal from an assessment under this Act may be taken in respect of any question relating,
+(a) in the case of an individual to the determination of
+(i) the individual’s residence for the purposes of this Act.
+The Federal Court of Appeal in the case of Gardner v. The Queen, 2002 DTC 6776 clearly states that both the Provincial and Federal governments have jurisdiction to enact Income Tax laws and specifically at paragraph 16 of that Decision the Federal Court goes on to say, and I quote:
+… The Tax Court has jurisdiction with respect to provincial income tax only to the extent that jurisdiction is conferred upon it by the province. It is open to the province to reserve onto itself jurisdiction to decide particular issues with respect to its income tax… (emphasis added)
+And this is exactly what the Province of Nova Scotia has done here when it enacted subsections 64(1) and (2) which I just referred to. This Court has no jurisdiction therefore to hear these appeals where the only issue is whether the Appellant is or is not a resident of the Province of Nova Scotia. The proper forum therefore for the Appellant to bring her appeals is not the Tax Court but the Supreme Court of Nova Scotia pursuant to the relevant sections of the Income Tax Act, R.S.N.S. 1989, c. 217, as amended.
+On a final note in respect to the Appellant’s position that she has been misdirected by the CRA, it would appear the Appellant was directed inappropriately to this Court by the CRA. Although I do not condone this I cannot ignore the legislation and the case law even though I would like to be able to assist the Appellant in light of the misdirection by the CRA. I would request that Respondent counsel pass along my comments to the appropriate officials so that this can be addressed within the Department and hopefully avoided in the future.
+Unfortunately this does not assist the present Appellant and accordingly, I must grant the Respondent’s motion and quash the appeals in this Court.
+(CONCLUDES)
+CERTIFICATE OF COURT REPORTER
+I, Sandy Adam, Court Reporter, certify that I have transcribed the foregoing and that it is a true and accurate transcript of the evidence given in this matter, Carol Ann Hiscock (Appellant) v Her Majesty the Queen (Respondent), taken by way of electronic recording, pursuant to Section 15 of the Court Reporters Act.
+_________________________
+Sandy Adam
+Certified Court Reporter
+Monday, September 11, 2006 at Halifax, Nova Scotia
+CITATION:
+2006TCC560
+COURT FILE NO.:
+2006-613(IT)I
+STYLE OF CAUSE:
+Carol Ann Hiscock and
+Her Majesty the Queen
+PLACE OF HEARING:
+Sydney, Nova Scotia
+DATE OF HEARING:
+July 17, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT: July 18, 2006
+APPEARANCES:
+Agent for the Appellants:
+Robert Hiscock
+Counsel for the Respondent:
+Ron MacPhee
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

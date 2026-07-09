@@ -1,0 +1,134 @@
+Title: Whitford v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28722/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-359-28722-whitford-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-16
+
+# Whitford v. The Queen
+
+- Citation: 2008 TCC 359
+- Decision date: 2008-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1446, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whitford v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-16
+Neutral citation
+2008 TCC 359
+File numbers
+2007-4153(GST)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-4153(GST)I
+BETWEEN:
+DOUGLAS WHITFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 29, 2008 at Moncton, New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lindsay D. Holland
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the Respondent requesting the dismissal of the appeal;
+And upon hearing from the parties;
+It is ordered that the Respondent’s motion is granted and the Appellant’s appeal is quashed.
+Signed at Ottawa, Ontario, this 16th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC359
+Date: 20080616
+Docket: 2007-4153(GST)I
+BETWEEN:
+DOUGLAS WHITFORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb J.
+[1] The Respondent has brought a motion to dismiss the Appellant's appeal on the basis that the Appellant did not file a notice of objection in relation to the assessment that the Respondent indicates was issued against the Appellant.
+[2] In the appeal that was filed to this Court the Appellant states that:
+Revenue Canada originally assessed Truro Compact Tri Star Agencies Limited where I was a director. Five years ago they started taking half of my Canada Pension.
+I am asking the Courts to hear this appeal because I never received an assessment telling me they were taking half of my pension or why, also I knew nothing about Tax Court of Canada.
+[3] The Appellant at the hearing of the Motion confirmed that it is his position that he was never assessed. It is therefore obvious that the Appellant never filed a notice of objection, which he also confirmed at the hearing of the motion.
+[4] The assessment in question arises under the Excise Tax Act ("Act"). Section 302 of the Act provides as follows:
+302. Where a person files a notice of objection to an assessment and the Minister sends to the person a notice of a reassessment or an additional assessment, in respect of any matter dealt with in the notice of objection, the person may, within ninety days after the day the notice of reassessment or additional assessment was sent by the Minister,
+(a) appeal therefrom to the Tax Court; or
+(b) where an appeal has already been instituted in respect of the matter, amend the appeal by joining thereto an appeal in respect of the reassessment or additional assessment in such manner and on such terms as the Tax Court directs.
+[5] Section 306 of the Act provides as follows:
+306. A person who has filed a notice of objection to an assessment under this Subdivision may appeal to the Tax Court to have the assessment vacated or a reassessment made after either
+(a) the Minister has confirmed the assessment or has reassessed, or
+(b) one hundred and eighty days have elapsed after the filing of the notice of objection and the Minister has not notified the person that the Minister has vacated or confirmed the assessment or has reassessed,
+but no appeal under this section may be instituted after the expiration of ninety days after the day notice is sent to the person under section 301 that the Minister has confirmed the assessment or has reassessed.
+[6] Both sections 302 and 306 include a prerequisite that a person must have filed a notice of objection to an assessment before the person may appeal the assessment to this Court. This is similar to the requirement under the Income Tax Act. Subsection 169(1) of the Income Tax Act provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[7] In Bormann v. The Queen, 2006 DTC 6147, the Federal Court of Appeal stated as follows:
+3 Section 169(1) of the Income Tax Act obliges a taxpayer to serve Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+4 As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Ministry to extend the time to file a Notice of Objection.
+5 Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+Minuteman Press of Canada Company Limited v. M.N.R., 88 DTC 6278, (F.C.A.).
+6 As a result, there is no basis upon which it can be said that the Tax Court Judge erred in quashing the appellant's appeals for the 1992 to 1998 taxation years.
+[8] In this case as well there was no evidence that the Appellant had made any application to extend the time to file a notice of objection and in fact maintained his position that he was never assessed. In the affidavit that was filed with the Respondent's motion it is stated that:
+5. The Appellant was assessed with respect to the failure of Truro Compact Tristar Agencies Limited to remit [sic] next tax for the period ended June 30, 1999, by Notice of Assessment No. 58261, dated October 17, 2001 and believed to be mailed on the same date in accordance with the practice of the CRA.
+[9] The Appellant's notice of appeal to this Court was dated July 23, 2007. The timing of the notice of assessment as set out in the affidavit filed in relation to this motion appears to correspond with the timing of the garnishment of the Appellant's Canada Pension which, he stated in his appeal, started about five years prior to July 23 2007, which would have been in the summer of 2002.
+[10] As noted by the Federal Court of Appeal in relation to appeals under the Income Tax Act (which are governed by a similarly worded section) filing a notice of objection is a condition precedent to filing an appeal to this Court. In determining whether a person has a right to appeal an assessment to this Court the circumstances related to a failure to file a notice of objection are not relevant. Without first filing the notice of objection, there can be no appeal of an assessment to this Court. The position of the Appellant appears to be that the Canada Revenue Agency has garnished one-half of his Canada Pension without first assessing him personally for any liability under the Act. This is not a matter for this Court.
+[11] Section 309 of the Act provides that:
+309. (1) The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+[12] The wording of this subsection is the same as the wording of subsection 171(1) of the Income Tax Act which provides that:
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[13] Justice Sobier made the following comments on the powers of this Court in Sunil Lighting Products v. Minister of National Revenue, [1993] T.C.J. No. 666:
+18 The jurisprudence clearly affirms that the Tax Court of Canada is not a court of equity and its jurisdiction is based within its enabling statute. In addition, the Court cannot grant declaratory relief given that such relief is beyond the jurisdiction of the Court. In an income tax appeal, the Court's powers are spelled out in subsection 171(1) of the Income Tax Act. Consequently, these powers essentially entail the determination of whether the assessment was made in accordance with the provisions of the Income Tax Act.
+[14] These comments are equally applicable to an assessment under the Act as the wording of subsection 309(1) of the Act is essentially the same as the wording of subsection 171(1) of the Income Tax Act. Therefore the only remedies that this Court can grant are related to the validity of the assessment itself and whether the tax as assessed is owing under the Act. If a person is taking the position that no assessment was issued, this is not a matter that can be dealt with by this Court.
+[15] As it is a condition precedent to appealing to this Court that a person file a notice of objection and since it is clear that the Appellant did not file a notice of objection in relation to the assessment in question, there is no jurisdiction in this Court in relation to his appeal and therefore, the Appellant's appeal is quashed.
+Signed at Ottawa, Ontario, this 16th day of June 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC359
+COURT FILE NO.: 2007-4153(GST)I
+STYLE OF CAUSE: DOUGLAS WHITFORD AND THE QUEEN
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: May 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 16, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lindsay D. Holland
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

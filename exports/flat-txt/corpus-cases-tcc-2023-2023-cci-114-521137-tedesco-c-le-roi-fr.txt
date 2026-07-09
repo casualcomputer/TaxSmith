@@ -1,0 +1,582 @@
+Title: Tedesco c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521137/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-114-521137-tedesco-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-08-03
+
+# Tedesco c. Le Roi
+
+- Citation: 2023 CCI 114
+- Decision date: 2023-08-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5474, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tedesco c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-03
+Référence neutre
+2023 CCI 114
+Numéro de dossier
+2012-2925(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2925(IT)G
+ENTRE :
+ANTHONY TEDESCO,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2917(IT)G
+ET ENTRE :
+JAMES SHAW,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+et
+Dossier : 2012-2918(IT)G
+ET ENTRE :
+STANLEY HARVEY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2919(IT)G
+ET ENTRE :
+SANDRA INGLIS,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2920(IT)G
+ET ENTRE :
+MURRAY J. MCPHAIL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2921(IT)G
+ET ENTRE :
+JEFF GILLAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2922(IT)G
+ET ENTRE :
+ROBERT BORG OLIVIER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2926(IT)G
+ET ENTRE :
+AHMAD YAQEEN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2927(IT)G
+ET ENTRE :
+ROSA MILITANO,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2928(IT)G
+ET ENTRE :
+MAURIZIO MARCHIONI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2929(IT)G
+ET ENTRE :
+PAUL WATT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2979(IT)I
+ET ENTRE :
+GERALD JAMES,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2980(IT)I
+ET ENTRE :
+LYNN JAMES,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-3102(IT)G
+ET ENTRE :
+SARAH BORG OLIVIER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 décembre 2022, à Toronto (Ontario), et
+observations écrites reçues le 27 janvier 2023.
+Devant : l’honorable juge K. Lyons.
+Comparutions :
+Avocat des appelants :
+Me Maurizio Marchioni
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+JUGEMENT
+Les appels interjetés par les appelants pour leurs années d’imposition respectives, soit 2000 ou 2001, sont accueillis et les nouvelles cotisations sont annulées.
+Un seul mémoire de dépens est payable par l’intimé aux appelants. Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens, faute de quoi les parties disposeront d’un délai de 30 jours pour déposer des observations écrites sur les dépens d’au plus 10 pages.
+Signé à Ottawa, Canada, ce 3e jour d’août 2023.
+« K. Lyons »
+Le juge Lyons
+Référence : 2023 CCI 114
+Date : 20230803
+Dossier : 2012-2925(IT)G
+ENTRE :
+ANTHONY TEDESCO,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2917(IT)G
+ET ENTRE :
+JAMES SHAW,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+et
+Dossier : 2012-2918(IT)G
+ET ENTRE :
+STANLEY HARVEY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2919(IT)G
+ET ENTRE :
+SANDRA INGLIS,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2920(IT)G
+ET ENTRE :
+MURRAY J. MCPHAIL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2921(IT)G
+ET ENTRE :
+JEFF GILLAN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2922(IT)G
+ET ENTRE :
+ROBERT BORG OLIVIER,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2926(IT)G
+ET ENTRE :
+AHMAD YAQEEN,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2927(IT)G
+ET ENTRE :
+ROSA MILITANO,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2928(IT)G
+ET ENTRE :
+MAURIZIO MARCHIONI,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2929(IT)G
+ET ENTRE :
+PAUL WATT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2979(IT)I
+ET ENTRE :
+GERALD JAMES,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-2980(IT)I
+ET ENTRE :
+LYNN JAMES,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé,
+Dossier : 2012-3102(IT)G
+ET ENTRE :
+SARAH BORG OLIVIER,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Lyons
+[1] Les appelants, Jeff Gillan, Sandra Inglis, Murray J. McPhail, Anthony Tedesco, Rosa Militano, Robert Borg Olivier, Sarah Borg Olivier, James Shaw, Paul Watt, Ahmad Yaqeen, Stanley Harvey, Gerald James, Lynn James et Maurizio Marchioni (collectivement, « les appelants »), étaient des commanditaires de la société de personnes en commandite TSI 1 (la « société de personnes »)[1]. Les appelants interjettent appel des nouvelles cotisations établies par le ministre du Revenu national, qui a rejeté la perte déclarée par chaque appelant pour les années d’imposition 2000 ou 2001 (les « années en cause ») en fonction de leur participation respective dans la société de personnes et des pertes d’entreprise de celle‑ci (les « nouvelles cotisations »).
+[2] Le ministre a établi une nouvelle cotisation à l’égard des appelants après avoir décidé de refuser les pertes d’entreprise de 941 840 $ et de 2 193 463 $ déclarées par la société de personnes (les « pertes ») pour les années d’imposition 2000 et 2001 (années civiles), respectivement.
+[3] Les appels, consolidés conformément à l’article 26 des Règles de la Cour canadienne de l’impôt (procédure générale), soulèvent la même question et les mêmes faits. Les présents motifs s’appliquent à chacun des appelants.
+[4] Sauf indication contraire, tous les renvois aux dispositions qui suivent concernent la Loi de l’impôt sur le revenu.
+[5] Les paragraphes 152(1.4) à (1.8) décrivent la procédure de détermination d’une perte d’une société de personne. Le paragraphe 152(1.4) a été ajouté pour permettre au ministre de déterminer une seule fois le montant du revenu ou de la perte d’une société de personnes. Le paragraphe 152(1.5) prévoit qu’une fois la détermination effectuée en application du paragraphe 152(1.4), le ministre envoie un avis de détermination à la société de personnes et à chaque associé (c’est-à-dire toute personne qui était un associé de la société de personnes au cours de l’exercice)[2]. Ces dispositions, ainsi que d’autres, sont exposées ci-après ou à l’annexe I des présents motifs.
+[6] Les dispositions applicables en l’espèce sont les paragraphes 152(1.4) et 152(1.7). Ils sont ainsi rédigés :
+[7] Les dispositions applicables en l’espèce sont les paragraphes 152(1.4) et 152(1.7). Ils sont ainsi rédigés :
+Montant déterminé relativement à une société de personnes
+152(1.4) Le ministre peut déterminer le revenu ou la perte d’une société de personnes pour un exercice de celle-ci ainsi que toute déduction ou tout autre montant, ou toute autre question, se rapportant à elle pour l’exercice qui est à prendre en compte dans le calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada d’un de ses associés, de l’impôt ou d’un autre montant payable par celui-ci, d’un montant qui lui est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par lui, en vertu de la présente partie. Cette détermination se fait dans les trois ans suivant le dernier en date des jours suivants :
+a) le jour où, au plus tard, un associé de la société de personnes est tenu par l’article 229 du Règlement de l’impôt sur le revenu de remplir une déclaration de renseignements pour l’exercice, ou serait ainsi tenu si ce n’était le paragraphe 220(2.1);
+b) le jour où la déclaration est produite.
+Ministre et associés liés
+152(1.7) Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) sous réserve des droits d’opposition et d’appel de l’associé de la société de personnes visé au paragraphe 165(1.15) relativement au montant déterminé ou déterminé de nouveau, la détermination ou nouvelle détermination lie le ministre ainsi que les associés de la société de personnes pour ce qui est du calcul, pour une année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada des associés, de l’impôt ou d’un autre montant payable par ceux-ci, d’un montant qui leur est remboursable ou d’un montant réputé avoir été payé, ou payé en trop, par eux, en vertu de la présente partie;
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+[8] Le paragraphe 152(1.4) autorise le ministre à déterminer le revenu ou la perte d’une société de personnes (ou tout autre montant relatif à la société de personnes) pour un exercice de celle-ci dans les trois ans suivant le dernier en date des jours suivants : a) le jour où, au plus tard, un associé de la société de personnes est tenu de remplir une déclaration de renseignements pour l’exercice; ou b) le jour où la déclaration est produite[3].
+[9] Le paragraphe 152(1.7) prévoit que la détermination effectuée par le ministre en application du paragraphe 152(1.4) lie chaque associé de la société de personnes (et le ministre) aux fins de la détermination de l’impôt à payer par les associés, sous réserve des droits d’opposition et d’appel prévus au paragraphe 165(1.15). En outre, le ministre peut, dans un délai d’un an après l’extinction ou la détermination des droits d’opposition et d’appel, établir une cotisation à l’égard de tout associé de la société de personnes pour une année d’imposition pour tenir compte du montant déterminé ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+[10] Dans la décision Cummings, la Cour s’est exprimé ainsi au sujet de l’alinéa 152(1.7)b) :
+L’alinéa 152(1.7)b) de la Loi a clairement pour objet la prorogation du délai dont dispose le ministre pour établir de nouvelles cotisations dans les cas visés. Cette prorogation ne joue pas à l’initiative du ministre, mais bien à celle du contribuable, qui choisit ou non de s’opposer ou d’interjeter appel des décisions du ministre (ici, la détermination). Si le contribuable fait opposition ou interjette appel, le délai du ministre pour établir de nouvelles cotisations est fixé à un an après la date où l’opposition ou l’appel fait l’objet d’une décision. Si le contribuable reste inactif, le délai du ministre est fixé à une année après le dernier jour où le contribuable aurait pu agir[4].
+I. QUESTION EN LITIGE [11] La seule question en litige en l’espèce est celle de savoir si les années d’imposition 2000 et 2001 des appelants sont prescrites[5].
+[12] Afin de trancher cette question, il est nécessaire de déterminer si la société de personne a produit sa « déclaration de renseignements des sociétés de personnes » le 25 mai 2001 pour l’année d’imposition 2000 et le 29 avril 2002 pour l’année d’imposition 2001, ou si ces deux déclarations ont plutôt été produites le 16 février 2005 (la « déclaration de renseignements de 2000 », la « déclaration de renseignements de 2001 » et, collectivement, les « déclarations de renseignements »)[6].
+[13] Les appelants ont appelé Dean Jones à témoigner. L’intimé a appelé Rick Newson à témoigner. Ce dernier, qui est à la retraite, approchait les 70 ans lors de l’audience.
+II. LES FAITS [14] Dean Jones, comptable professionnel agréé, a obtenu un diplôme en administration des affaires de l’Université York en 1989 et a ensuite travaillé pendant plus d’un an pour la société de courtage Burns Frye. Il a travaillé pendant deux ans chez KPMG, dans les domaines de la comptabilité, de l’audit et de la fiscalité, et pendant deux ans pour le vérificateur général de l’Ontario. Il a rejoint la société de courtage Ross Beaty où il a travaillé pendant six mois et, depuis 1995, il dirige Jones and Associates, dont il est l’unique associé, et effectue des travaux de comptabilité et de fiscalité pour des entreprises et des particuliers. Vers la fin 1999 ou en 2000, il a été invité en tant que consultant pour mettre de l’ordre dans le système comptable de la société de personnes, un abri fiscal.
+[15] Rick Newson, qui a pris sa retraite du bureau de l’ARC à Hamilton (l’« ARCH ») en 2013, a été vérificateur de l’impôt sur le revenu et a travaillé pour la division de l’évasion fiscale entre 2000 et 2006. Il a aidé Dominic Consoli, vérificateur chargé de la lutte contre l’évitement fiscal pour l’ARCH, qui avait initialement été chargé d’effectuer la vérification de la société de personnes. La vérification a plus tard été confiée à David Robbins, un vérificateur en matière d’évitement fiscal à l’ARC à Ottawa (l’« ARCO »).
+Société de personnes [16] M. Jones était l’unique actionnaire et administrateur de 1451958 Ontario Inc., qui était la commanditée initiale de la société de personnes. TQI Health Care Inc. est ensuite devenue la commanditée.
+[17] M. Jones travaillait comme comptable pour plusieurs des appelants et préparait leurs déclarations de revenus.
+[18] Les appelants ont acheté des unités et étaient donc détenteurs d’unités de la société de personnes.
+[19] À la fin de l’exercice, la société de personnes calcule son revenu ou sa perte, puis attribue à chaque commanditaire (détenteur d’unités) la part proportionnelle de ce revenu ou de cette perte qui lui revient.
+[20] Pour les années en cause, le calcul effectué par la société de personnes a abouti aux pertes définies précédemment et réclamées dans ses déclarations de renseignements. La société de personnes avait réparti les pertes entre les appelants selon le pourcentage d’unités qu’ils détenaient. À titre de détenteurs d’unités, les appelants ont réclamé leur part respective des pertes dans leur déclaration de revenus pour l’année 2000 ou 2001.
+[21] Conformément aux déterminations du ministre, les pertes déclarées ont été rejetées (les « déterminations »). La société de personnes a remis à M. Jones les avis de détermination datés du 29 mars 2006[7]. Ce dernier a d’abord affirmé que la société de personnes s’était opposée aux déterminations en 2006, alors que les avis d’opposition sont datés du 23 mars 2007[8]. En contre-interrogatoire, il a précisé que les confirmations relatives aux années en cause de la société de personnes avaient été envoyées par l’ARC à la société de personnes en réponse aux avis d’opposition.
+[22] Le ministre a établi une nouvelle cotisation à l’égard des appelants rejetant les pertes qu’ils avaient réclamées, ce à quoi les appelants se sont opposés.
+[23] Après le dépôt des avis d’opposition par la société de personnes et les appelants, le ministre a confirmé les nouvelles cotisations et les déterminations, et il a délivré des avis de confirmation datés du 18 avril 2012.
+[24] L’annexe II des présents motifs énumère pour chaque appelant le montant de la perte réclamée, l’année d’imposition et les dates de l’avis de nouvelle cotisation, de l’avis d’opposition et de l’avis de confirmation. Cette annexe énumère également les pertes réclamées par la société de personnes, les années d’imposition et les dates des avis de détermination, d’opposition et de confirmation.
+[25] La société de personnes a interjeté appel de ces déterminations devant la Cour, pour ensuite se désister de son appel. Celui-ci est donc réputé avoir été rejeté le 24 juin 2016[9].
+[26] Après le désistement, l’intimé a présenté une requête en radiation des avis d’appel des appelants, qui a été accueillie par le juge saisi des requêtes, sans autorisation de modification. Les appelants ont interjeté appel de cette décision.
+[27] La Cour d’appel fédérale a accueilli les appels des appelants et a conclu que ceux-ci étaient en droit de faire valoir que les déterminations étaient prescrites au motif que la société de personnes s’était désistée de son propre appel. Par conséquent, chaque associé pouvait faire valoir que les déterminations étaient prescrites dans le cadre de son appel à titre individuel.
+Première page, déclaration de renseignements de 2000 [28] Dans son témoignage, M. Jones a identifié une copie de la première page de la déclaration de renseignements de la société de personnes visant la période du 1er janvier 2000 au 31 décembre 2000, datée du 23 février 2001, portant sa signature ainsi que le timbre de l’ARCH où apparaît la mention [traduction] « Reçu au comptoir du service à la clientèle » et daté du 25 mai 2001 (la « copie de la première page de la déclaration de renseignements de 2000 »)[10]. Il n’était pas certain d’avoir préparé la déclaration de renseignements de 2000, mais il en aurait eu connaissance et l’aurait examiné.
+Rencontre du 25 mai 2001 [29] M. Jones se souvient des événements entourant la copie timbrée de la première page de la déclaration de renseignements de 2000 parce qu’il avait participé à une rencontre au bureau de l’ARCH avec une vérificatrice de la TPS, Mme Jennifer Harper (« vérificatrice de la TPS ») et M. Newson le 25 mai 2001.
+[30] Après la rencontre, il a demandé à M. Newson où se trouvait la salle du courrier, en raison des rénovations. M. Newson lui a répondu qu’il devait aller par là et l’a accompagné jusqu’à la salle du courrier. M. Jones a remis à M. Newson l’enveloppe contenant la déclaration de renseignements de 2000 et la copie de la première page de cette déclaration. M. Newson ou un membre du personnel de la salle du courrier a pris ces documents, puis M. Newson est revenu et a remis à M. Jones la copie de la première page de la déclaration de renseignements de 2000 portant le timbre original de l’ARCH. Il ne se souvenait pas d’avoir envoyé à la société de personnes une copie de la déclaration de renseignements de 2000 portant le timbre original, mais a déclaré qu’il doit l’avoir fait.
+[31] M. Jones a parlé de la salle du courrier, mais le timbre indique « comptoir du service à la clientèle », ce qui ne concorde pas.
+[32] M. Newson a déclaré qu’en 2001, il effectuait la vérification de Prolessons (première année) et que M. Jones était le promoteur de cet abri fiscal. Au même moment, M. Jones faisait l’objet d’une vérification de la TPS. M. Newson, la vérificatrice de la TPS et leurs superviseurs ont assisté à la rencontre préliminaire à double objectif avec M. Jones; il s’en souvient parce qu’il leur a été nécessaire de trouver une salle plus grande. M. Newson souhaitait que M. Jones lui explique de manière générale comment fonctionnait l’abri fiscal; Prolessons n’avait aucun lien avec la société de personnes. Pour autant que M. Newson s’en souvienne, cette réunion a eu lieu le 23 août 2001 et il s’agissait de sa première rencontre avec M. Jones. Il a produit une lettre qu’il a envoyée à M. Jones en date du 21 octobre 2002, confirmant leur rencontre du 23 août 2001.
+[33] M. Newson croit qu’il n’était pas présent à la rencontre du 25 mai 2001. Premièrement, s’il avait reçu la demande de renseignements de 2000, il l’aurait apporté au service du courrier, l’aurait envoyé au bon endroit et l’aurait timbré[11]. Ensuite, quelqu’un d’autre aurait enregistré la réception du document, ce qui aurait été inscrit dans la base de données de l’ARC, Option LL[12]. Deuxièmement, les délais sont [traduction] « étranges », « semblent serrés » et des mesures supplémentaires auraient été nécessaires pour lui permettre d’organiser la rencontre du mois de mai. Troisièmement, l’accès au comptoir de la salle du courrier de l’ARCH est réservé au personnel et n’est pas accessible au public, à moins d’être escorté par un employé de l’ARC.
+[34] L’avocat des appelants a présenté un extrait de la transcription de l’interrogatoire préalable de M. Newson, le représentant de l’intimé. L’extrait suivant cite les questions posées et les réponses données relativement à la procédure à suivre lorsqu’une déclaration est produite au cours d’une rencontre avec l’ARC[13] :
+[traduction]
+Q. Puis-je produire une déclaration pendant une rencontre qui se tiendrait entre moi, vous, Jennifer Harper et quelqu’un d’autre, si j’apporte une déclaration de société de personnes ou de société en commandite et si je vous la remets? Est-ce que cela est considéré comme une production de déclaration?
+R. Je crois que oui.
+Q. Et pourquoi dites-vous cela? Comment feriez-vous [...] y apposeriez-vous un timbre?
+R. Je le timbrerais.
+Q. Donc, si une personne est d’avis qu’une déclaration a été produite à une certaine date, elle détiendrait une déclaration avec un timbre indiquant la date de réception, n’est-ce pas?
+R. Oui; pour clarifier, lorsque vous m’avez demandé si j’apposerais un timbre, je l’apporterais au service du courrier et demanderais qu’un timbre soit apposé, à condition que...à condition qu’elle soit bien remise au service pour être transmise.
+Le timbre indique la date de réception de l’enveloppe, donc oui, je me rendrais au service du courrier et leur demanderais d’apposer le timbre et de l’envoyer.
+[…]
+Q. Connaissiez-vous bien le timbre utilisé par les bureaux de Hamilton en 2001?
+R. Non, je ne le connaissais pas.
+Q. Vous ne savez donc pas si cela ressemble au timbre utilisé ou non?
+R. Je ne me souviens pas si c’était le timbre utilisé.
+Q. Permettez-moi de vous poser la question suivante, car vous venez de répondre à cette question de deux manières différentes. Votre première réponse a été que vous ne connaissiez pas ce timbre. C’était une réponse sincère, n’est-ce pas?
+R. Non. Je connais ce timbre.
+Q. Vous affirmez bien le connaître, maintenant?
+R. Oui, je suis désolé.
+Q. D’accord. Et celui qui figure sur le formulaire et qui semble porter la date du 25 mai 2001, ressemble-t-il au timbre utilisé par les bureaux dans le cas où je devais déposer un document en personne?
+R. Oui.
+[35] Lors du contre-interrogatoire de M. Newson, il a été établi que s’il y avait eu une rencontre le 25 mai 2001, il aurait été possible qu’un formulaire T2020 (notes au dossier) ait été rédigé pour consigner les communications de ce jour-là. Pendant l’interrogatoire préalable de M. Newson, un engagement a été pris de rechercher le formulaire T2020 relatif à la rencontre du 25 mai 2001. La réponse a été qu’aucun formulaire T2020 [traduction] « concernant une rencontre qui aurait eu lieu le 25 mai 2001 n’a été trouvé. Le dossier de vérification de Prolessons 1 Limited Partnership a été détruit. » M. Newson a confirmé que lorsqu’il a demandé les dossiers à l’ARC (par l’intermédiaire d’un employé actuel de l’ARC), il a découvert que l’ARC avait détruit ces dossiers en 2017. S’il y avait un formulaire T2020, il a été détruit.
+Première page, déclaration de renseignements de 2001 [36] M. Jones a identifié une copie de la première page de la déclaration de renseignement de 2001 pour la période du 1er janvier 2001 au 31 décembre 2001, portant un timbre de l’ARCH daté du 29 avril 2002[14]. Conformément à sa pratique ou à celle de son cabinet comptable en matière de production de documents à l’ARCH, la déclaration de renseignements de 2001 aurait été remise en mains propres dans une enveloppe à la salle de courrier de l’ARCH, où la première page de la déclaration de renseignements de 2001 aurait été timbrée.
+[37] M. Jones a obtenu une copie de la première page de la déclaration de renseignements de 2001 timbrée, des copies des déclarations de renseignements portant le timbre original ont été envoyées à la société de personnes, et il a confirmé que les numéros d’identification de l’entreprise et de l’abri fiscal de la société de personnes figurant sur les déclarations de renseignements sont ceux attribués par l’ARC. Ni lui ni personne de son bureau ou de la société de personnes n’a apposé le timbre de l’ARCH sur la copie de la première page de la déclaration de renseignements de 2000 ou de la déclaration de renseignements de 2001.
+Communications de l’ARC [38] Dans son témoignage, M. Newson a mentionné un courriel daté du 28 mars 2003 qui lui a été envoyé par M. Consoli, qui indique ce qui suit [traduction] : « D’après ce que j’ai lu dans les dossiers d’Ottawa, il semble que » la société de personnes n’a pas produit les déclarations de renseignements pour les années en cause. Le lendemain, le superviseur de M. Newson a répondu [traduction] : « Je crois que nous devrions rendre obligatoire le dépôt des déclarations de la société de personnes »[15]. Lorsqu’on lui a demandé pendant le contre-interrogatoire si une telle demande avait été envoyée, il a répondu [traduction] : « Pas à ma connaissance. »
+Lettre de septembre 2003 [39] Environ six mois plus tard, M. Consoli a envoyé une lettre datée du 5 septembre 2003 à Jones & Associates, avec copie à M. Robbins (la « lettre de septembre »). Le paragraphe 1 énonce notamment ce qui suit :
+[traduction]
+[...] Comme nous en avons discuté, nous effectuons une vérification de la société de personne désignée précédemment. Une vérification consiste à examiner les livres et les registres de la société de personnes afin de déterminer si les revenus et les dépenses déclarés sont liés à l’activité de l’entreprise et s’ils sont raisonnables conformément aux dispositions de la Loi de l’impôt sur le revenu. La vérification de la société de personnes peut entraîner des ajustements des déclarations de revenus T1 des investisseurs individuels (c’est-à-dire des commanditaires) en fonction du pourcentage respectif des unités qu’ils détiennent.
+Les quatre lettres de l’ARCO [40] De novembre 2003 à mars 2005, M. Robbins a envoyé quatre lettres à M. Jones, soit à lui directement, soit en copie conforme (les « quatre lettres »)[16]. Il a souligné que l’objet de ces lettres renvoyait à trois des exercices fiscaux de la société de personnes s’étant terminés entre le 31 décembre 2000 et le 31 décembre 2002.
+Lettre du 19 novembre 2003 (la « lettre de novembre ») [41] M. Jones a compris, à la lecture de la lettre de novembre, que l’ARCO souhaitait obtenir des éclaircissements et des renseignements supplémentaires concernant la vérification. La lettre mentionnait également les éléments examinés par l’ARCO ainsi que les renseignements qui avaient été fournis ou qui étaient manquants. Il a affirmé que la troisième page de la lettre confirmait que les déclarations de renseignements pour les années en cause avaient été reçues par l’ARC, comme l’a reconnu M. Robbins au paragraphe TSI 4.1 :
+[traduction]
+Déclarations de renseignements de la société de personnes (T5013) depuis sa création
+État d’avancement actuel : Fourni; voir les questions à TS1 2.1
+[42] Lorsqu’on a demandé à M. Newson, lors du contre-interrogatoire, s’il était d’accord pour dire qu’en lisant la déclaration de M. Robbins, on pouvait en déduire que les déclarations de renseignements pour les années en cause avaient été fournies, M. Newson a répondu qu’il n’en était pas certain, qu’il n’était pas l’auteur de la lettre et qu’il ne savait pas ce que pensait M. Robbins. Il a aussi souligné que le paragraphe TSI 2.1 soulevait des questions à ce sujet. L’avocat des appelants l’a renvoyé à un extrait de son interrogatoire préalable concernant la déclaration et la réponse précédente qu’il avait donnée aux questions qui lui avaient été posées[17] :
+[traduction]
+Q. M. Newson, à la lecture de cette lettre, vous semble-t-il que les déclarations T5013 avaient été fournies à la date, au moins à la date de la lettre?
+R. Je ne sais pas si elles ont été fournies à la date de cette lettre.
+Q. Ce n’était pas ma question.
+R. Désolé.
+Q. Ma question était la suivante : Vous, en lisant cela maintenant, est-ce que cela vous indique, ou est-ce que vous interprétez cela comme indiquant que ces déclarations ont été reçues ou fournies?
+R. Oui.
+Lettre du 14 avril 2004 (la « lettre d’avril ») [43] La lettre d’avril contenant la lettre de proposition de l’ARCO a été envoyée [traduction] « à chacun des 48 commanditaires » et à d’autres personnes[18]. Lorsqu’on lui a demandé comment l’ARC obtenait les noms et les coordonnées des détenteurs d’unités, M. Jones a répondu que ces renseignements figuraient dans les déclarations de renseignements produites. L’ARC aurait également pu obtenir ces renseignements directement auprès de la société de personnes, mais, à sa connaissance, cela n’avait pas été le cas. M. Newson a indiqué que l’ARC trouve [traduction] « généralement » les renseignements dans les déclarations de renseignement, mais qu’elle ne s’y limite pas, car il existe d’autres outils de vérification. Il a convenu qu’il est également possible que les déclarations de renseignements aient été produites et que les noms des 48 commanditaires figuraient sur les pièces jointes à ces déclarations.
+Lettre du 16 décembre 2004 (la « lettre de décembre ») [44] M. Jones a déclaré que la lettre de décembre, tout comme celle de novembre, indique que les références aux déclarations de renseignements sont les mêmes que celles figurant dans les pièces A1 et A2[19]. Dans la lettre de décembre, il mentionne que l’ARCO cherche des [traduction] « copies » des déclarations de renseignements déjà envoyées concernant les déclarations de renseignements produites pour les années en cause, et confirme avoir reçu toutes les déclarations de renseignements. Il précise que l’ARC essaie de faire le rapprochement entre les déclarations de renseignements en sa possession et les formulaires envoyés aux détenteurs d’unités, mais que le dossier pour l’année 2002 est toujours en suspens. L’ARC a ajouté qu’il s’agissait des formulaires ou des feuillets de la société de personnes qu’elle avait délivrés aux associés.
+[45] Les points 13 et 20 de la lettre de décembre indiquent respectivement [traduction] « Copies des formulaires T5013 complémentaires envoyés » et « Copies des déclarations de renseignements T5013 pour toutes les années de la société de personnes correspondant aux formulaires complémentaires T5013 demandés au point 13 ». Bien que cela ne soit pas tout à fait clair, j’ai l’impression qu’en faisant référence à des « copies » dans chaque cas, les deux types de formulaires T5013 avaient été fournis précédemment à l’ARC conformément à la lettre de novembre.
+Lettre du 7 mars 2005 (la « lettre de mars ») [46] La lettre de mars fait référence à une rencontre qui s’est tenue le 16 février 2005. L’annexe A de cette lettre reprend mot pour mot le point 13 de la lettre de décembre. Toutefois, le point 20 (à l’annexe A) diffère de la version précédente en ce qu’il indique [traduction] « Copies des déclarations de renseignements T5013 pour toutes les années de la société de personnes correspondant aux formulaires complémentaires T5013 demandés au point 13 (seulement les années 2000 et 2001 ont été fournies) ».
+[47] Étant donné que la lettre de mars a été envoyée après la rencontre de 2005, la mention [traduction] « seulement les années 2000 et 2001 ont été fournies » pourrait être interprétée comme confirmant que les déclarations de renseignements ont été fournies antérieurement, ce qui serait conforme au contenu de la lettre de novembre, ou que les déclarations de renseignements ont été fournies pendant la rencontre de 2005. Il est difficile de savoir à quoi M. Robbins faisait référence et, à mon avis, il n’est pas possible d’en tirer une conclusion. La seule chose qui est claire, c’est que la déclaration de renseignement de la société de personnes de 2002 n’avait pas encore été produite (ce qui n’est pas en litige dans le présent appel).
+III. POSITIONS DES PARTIES [48] L’intimé affirme que les déclarations de renseignements de la société de personnes pour les années 2000 et 2001 ont été produites en 2005 et qu’elles n’étaient donc pas prescrites. Les appelants affirment qu’elles ont été produites en 2001 et 2002 et qu’elles sont par conséquent prescrites.
+[49] Les appelants soutiennent que les déterminations pour les années en cause sont prescrites parce que les déclarations de renseignements de 2000 et 2001 ont été produites le 25 mai 2001 et le 29 avril 2002 respectivement. Puisque les avis de détermination de la société de personnes sont datés du 29 mars 2006, ils dépassent le délai de trois ans suivant la date à laquelle la déclaration de renseignements devait être remplie ou de la date de production de la déclaration de renseignements, selon la plus tardive des deux. Par conséquent, la possibilité pour le ministre d’effectuer une détermination aux termes du paragraphe 152(1.4) de la Loi de l’impôt sur le revenu est prescrite. Dans ces circonstances, le paragraphe 152(1.7) ne peut s’appliquer et les années en cause sont prescrites, de sorte que les nouvelles cotisations doivent être annulées.
+[50] À l’audience, l’intimé a fait valoir que les déclarations de renseignements de 2000 et 2001 n’avaient été produites que le 16 février 2005, pendant une rencontre entre l’ARC et M. Jones. Par conséquent, les années en cause n’étaient pas prescrites et le ministre était autorisé à délivrer les avis de détermination conformément au paragraphe 152(1.4). Ainsi, par application du paragraphe 152(1.7), les déclarations de 2000 et 2001 ne seraient pas prescrites.
+[51] D’après les hypothèses de fait et la position adoptée par l’intimé dans toutes ses réponses, je remarque que la ou les dates précises auxquelles les déclarations de renseignements auraient été produites diffèrent de celles invoquées à l’audience. Les hypothèses de fait et la position de l’intimé exprimées dans une réponse représentative sont les suivantes[20] :
+[traduction]
+9p) : la société de personnes a produit sa déclaration de renseignements pour l’année d’imposition 2000 le 15 février 2005;
+9q) : la déclaration de renseignements de la société de personnes pour l’année d’imposition 2001, qui était datée du 15 février 2005, a été fournie à l’ARC après cette date.
+15. La déclaration de renseignements de la société de personnes pour l’année d’imposition 2000 a été produite le 15 février 2005 et sa déclaration pour l’année d’imposition 2001 a été fournie au ministre après cette date.
+[52] Les hypothèses constituent le fondement d’une cotisation ou d’une nouvelle cotisation. La jurisprudence établit que les hypothèses doivent être invoquées avec précision, exhaustivité et honnêteté. Il semble que l’intimé ait commis une erreur à la lumière de la lettre du mois de mars. Par ailleurs, il n’est pas contesté par les parties que la rencontre a eu lieu le 16 février 2005.
+IV. ANALYSE [53] Avant de me pencher sur la question en litige, j’aimerais faire remarquer que les deux parties ont été confrontées à des difficultés en raison de la durée considérable des présents appels et du temps qui s’est écoulé depuis leur dépôt, ce qui a probablement nui à la capacité des témoins à se remémorer clairement les événements. Je rappelle également l’indisponibilité d’un des témoins et les difficultés relatives à la production de la preuve auxquelles les parties ont dû faire face.
+Rencontre du 16 février 2005 [54] Là encore, le litige porte sur la question de savoir si les déclarations de renseignements de 2000 et 2001 ont été produites par M. Jones lors d’une rencontre avec l’ARCO tenue le 16 février 2005 (la « rencontre de 2005 ») ou si elles ont été produites en 2001 et 2002, respectivement.
+Opposition des appelants aux documents contestés [55] Lorsque l’intimé a cherché à présenter certains documents en preuve lors du contre-interrogatoire de M. Jones afin d’étayer l’hypothèse selon laquelle les déclarations de renseignements avaient été déposées lors de la rencontre de 2005, l’avocat des appelants s’y est opposé au motif que M. Jones avait indiqué qu’il ne reconnaissait pas ces documents, qu’il ne les avait pas préparés et qu’il niait les avoir remis à l’ARCO lors de la rencontre de 2005.
+[56] M. Jones a déclaré qu’il ne se souvenait pas précisément de la rencontre de 2005. Toutefois, peu de temps après cette rencontre, il a envoyé une lettre à l’ARCO reconnaissant qu’il lui avait fourni, lors de la rencontre de 2005, des documents et des renseignements demandés par l’ARC à l’égard de la société de personnes pour les années en cause[21]. Selon cette lettre, il a reconnu avoir fourni deux ensembles de documents photocopiés en réponse à toutes les demandes de renseignements et de documents formulées par l’ARCO dans sa lettre de décembre 2004. Il y indique toutefois ne pas avoir fourni tous les documents figurant dans les onglets 40 et 41 de la production de l’intimé. Il s’agit des pages 5100-1 (la déclaration de renseignements des sociétés de personnes pour l’année 2000) et 6130-1 (la déclaration de renseignements des sociétés de personnes pour l’année 2001, collectivement appelées les « documents contestés »)[22]. Bien qu’il ait reconnu que son nom figurait à la section B – Attestation, page 5100-1, il a nié que lui ou son bureau l’ait préparée. Il a fait les mêmes dénégations en ce qui concerne la page 6130-1. Je réserve ma décision sur l’admissibilité des documents contestés.
+[57] Au cours du contre-interrogatoire, l’avocat de l’intimé a tenté de démontrer une contradiction entre les déclarations faites par M. Jones au cours du procès et celles faites lors des interrogatoires préalables concernant la page 5100-1, en lui présentant un extrait de la transcription de son interrogatoire préalable afin de discréditer son témoignage. L’intimé n’y est pas parvenu. On retrouve dans cet extrait des échanges généraux concernant la personne qui enregistre les renseignements dans son système (lui-même ou un assistant), la manière dont il vérifie si son nom figure sur un document et le logiciel qui met automatiquement à jour les documents lorsqu’ils sont imprimés à partir du système. Une de ces déclarations indique qu’ils ont imprimé tous les renseignements qu’ils pouvaient et les ont fournis à l’ARC, de qui ils ont appris qu’il était plus facile pour les vérificateurs d’avoir accès à une [traduction] « copie » de la déclaration de renseignements que de consulter le système interne de l’ARC. Il semble que les déclarations de renseignements se trouvaient déjà dans le système de l’ARC[23]. L’intimé soutient que la déclaration de renseignements de 2000 semble avoir été imprimée à partir du système de M. Jones. Bien que cela ait semblé être le cas dans un premier temps, il s’est finalement rétracté. Ce qu’il a réellement dit est que la page 5100-1 [traduction] « ressemblait » à une copie de la déclaration de renseignements de 2000, mais lorsqu’on lui a demandé s’il l’avait préparée, il a répondu [traduction] : « Je ne sais pas si c’est seulement quelque chose qui a été imprimé à partir de mon système. » Peu après ces déclarations, il a fait remarquer dans la transcription de l’interrogatoire préalable qu’il ne savait pas d’où provenaient les documents contestés ni s’ils se trouvaient dans la boîte. Cela correspond à ce qu’il avait déclaré lors du contre-interrogatoire.
+[58] Même si un document est pertinent (pour prouver ou réfuter un fait important en litige), il convient, lorsqu’on traite de la preuve documentaire, d’examiner l’authenticité du document et la véracité de son contenu, ainsi que l’usage qui peut en être fait au cours du procès[24]. Les parties conviennent souvent qu’un document est authentique parce qu’il a été préparé et signé par le témoin à la date qui y est indiquée, ce qui élimine les problèmes d’authenticité. Les parties ne sont pas parvenues à un tel accord en l’espèce, et M. Jones a nié que les déclarations de renseignements aient été présentées lors de la rencontre de 2005.
+[59] Étant donné que le ministre a produit les documents contestés, qu’il a présumé qu’ils avaient été préparés par M. Jones et qu’il a présumé qu’ils avaient été obtenus lors de la rencontre de 2005, l’authenticité de ces documents et ce qui s’est passé lors de la rencontre sont en litige. Il était impératif, dans de telles circonstances, que le ministre dispose d’un témoin qui était sur place, qu’il s’agisse de M. Robbins, aujourd’hui à la retraite, ou d’un autre témoin, pour témoigner au sujet de ces documents et de la rencontre de 2005. Il ne s’agit pas d’une affaire où aucun témoin n’était disponible. Au contraire, l’intimé avait prévu et s’était efforcé de faire venir un témoin, mais il a informé la Cour pendant l’audience qu’il y avait des retards administratifs dans la procédure de l’ARC et que le témoin ne se présenterait pas[25].
+[60] Le témoignage de M. Jones n’a pas été contesté; sa crédibilité demeure intacte. Je constate qu’il est seulement nommé à la page 5100-1 et qu’à la page 6130‑1, Alton Plager est nommé comme étant la personne ayant signé le document en question. En outre, M. Plager aurait rencontré l’ARCO séparément le lendemain de la rencontre de 2005. Aucune page n’est signée et chaque page indique un bureau principal différent. Les documents contestés ne portent pas le timbre de l’ARCO et ne sont pas annotés, contrairement à la procédure de l’ARC lorsque des documents sont produits lors d’une rencontre[26]. À la lumière des éléments de preuve, je ne suis pas convaincu de l’authenticité des documents contestés et je ne dispose d’aucune autre preuve que la version des faits donnée par M. Jones concernant la rencontre de 2005. Les documents contestés ne sont pas admissibles en preuve.
+Déclarations de renseignements des sociétés de personnes pour les années 2000 et 2001 [61] Les appelants affirment qu’après la rencontre du 25 mai 2001, M. Newson a aidé M. Jones à produire la déclaration de renseignements de la société de personnes pour l’année 2000, qu’il s’est rendu à la salle du courrier et que le timbre de l’ARCH a été apposé. En outre, la déclaration de renseignements de la société de personnes pour l’année 2001 a été produite conformément à la pratique de Jones & Associates et porte le timbre de la salle du courrier de l’ARCH daté du 29 avril 2002, et M. Jones a confirmé que son bureau avait reçu la page timbrée datée du 29 avril 2002.
+[62] L’intimé soutient que pour retenir la version des appelants, il faudrait croire que l’ARC aurait omis d’enregistrer les déclarations de renseignements dans sa base de données et qu’elle en aurait perdu la trace à deux occasions distinctes pour deux années d’imposition.
+[63] L’une des difficultés de cette observation réside dans le fait qu’elle ne tient pas compte des timbres de l’ARCH apposés sur la copie de la première page des déclarations de renseignements de 2000 et 2001 à deux occasions distinctes. Les deux témoins ont reconnu qu’il s’agissait des timbres utilisés à l’époque. Comme l’ont souligné les appelants, aucune preuve n’a été présentée pour soutenir que les timbres étaient des faux. L’observation ne tient pas non plus compte de la correspondance ultérieure de l’ARCO dans laquelle il était reconnu que les déclarations de renseignements pour les années en cause avaient été fournies, ce que j’aborde plus loin.
+[64] En ce qui concerne la base de données, M. Newson a fait des vérifications dans Option LL pour s’assurer qu’il y avait bien eu une rencontre le 25 mai 2001. S’il est vrai qu’il n’a trouvé aucune trace de la production des déclarations de renseignements, il a mentionné qu’Option LL avait changé après son départ à la retraite en avril 2013. Son témoignage me donne l’impression que les modifications apportées au système ont pu affecter les résultats de la recherche qu’il a effectuée plusieurs années après 2013. Les systèmes ne sont pas infaillibles.
+[65] M. Newson a déclaré qu’il ne se souvenait pas d’avoir reçu la déclaration de renseignements de 2000, qu’il ne pensait pas avoir assisté à une rencontre en mai 2001 et qu’il était en très bonne santé et qu’on ne lui avait jamais diagnostiqué de problèmes de mémoire. Lors de son contre-interrogatoire, il a affirmé qu’il ne se souvenait pas de la rencontre de mai, et non pas qu’elle n’avait jamais eu lieu.
+[66] L’opinion de M. Newson semble moins fiable, car elle repose en grande partie sur des conjectures, et son témoignage est affaibli par les éléments suivants.
+[67] Le timbre de l’ARCH a été apposé sur la déclaration de renseignements de 2000.
+[68] Le commentaire moins catégorique de M. Consoli, à savoir qu’il [traduction] « semble » que les déclarations de renseignements (de 2000 et 2001) n’ont pas été produites, est antérieur au commentaire plus catégorique de M. Robbins dans la lettre de novembre, selon lequel les déclarations de renseignements ont été fournies. Comme il était responsable de la vérification de la société de personnes pour les années en cause, c’est lui qui aurait probablement été le plus familier avec l’état d’avancement de la vérification. À la connaissance de M. Newson, aucune exigence n’a été émise.
+[69] La lettre de septembre et les quatre lettres de l’ARCO indiquent que la société de personnes fait l’objet d’une vérification pour les années en cause. Dans de nombreux cas, quoique pas toujours, cela signifie que les déclarations ont été produites. M. Jones avait compris que la lettre de septembre était une reconnaissance par l’ARC que les déclarations de renseignements avaient été produites, puisqu’elle commence par la mention d’informations figurant dans les déclarations de renseignements produites par la société de personne et l’examen de la documentation produite à l’appui de ce qui a été déclaré dans les déclarations de renseignements.
+[70] L’intimé affirme que la lettre de septembre ne fait aucune mention de la production des déclarations de renseignements et, dans ses observations écrites, il déclare [traduction] « qu’en dépit des demandes de l’ARC, les renseignements et les documents justificatifs n’ont pas été fournis ». Il est vrai que l’ARC a formulé de telles demandes, mais, conformément à ce que M. Jones a compris, la lettre indique également que les demandes ont été faites pour [traduction] « justifier les montants déclarés par la société de personnes » et « vérifier les montants déclarés » par celle-ci afin que l’ARC puisse poursuivre la vérification. Compte tenu de ces remarques, il est plus plausible que les déclarations de renseignements aient été produites, suivies peu de temps après par la lettre de novembre. Le silence de l’ARC pourrait également être considéré comme signifiant que l’ARC avait déjà les déclarations de renseignements en sa possession.
+[71] Le témoignage de M. Jones concernant l’objectif de la lettre de novembre est conforme au paragraphe 1 de la lettre, qui mentionne que [traduction] « cette lettre a pour objet de fournir un rapport sur l’état de la liste initiale et de demander des clarifications et des renseignements supplémentaires si nécessaire » afin de pouvoir faire progresser la vérification. Le paragraphe TSI 2.1 le confirme. Dans ce paragraphe, l’ARC détaille la [traduction] « situation actuelle » concernant non seulement la société de personnes, mais également les actionnaires figurant dans le registre des actionnaires, d’autres entités, des personnes précises, les « 10 commanditaires initiaux » et aborde une série de points relatifs à ces personnes, puis indique les renseignements ou les éclaircissements qu’elle souhaite obtenir à cet égard.
+[72] Il est important de noter que le paragraphe TSI 4.1 de cette lettre indique ce qui suit : [traduction] « État actuel des déclarations de renseignements de la société de personnes (T5013) depuis sa création : fournies; voir les questions du paragraphe TSI 2.1 ». En examinant le paragraphe TSI 2.1, je ne vois rien qui vienne nuancer la déclaration de M. Robbins selon laquelle les déclarations de renseignements ont été « fournies ».
+[73] En outre, le paragraphe TSI 2.1 fait référence aux pertes déclarées sur les formulaires T5013. Il est également reconnu que la société de personnes a fourni des documents comme les formulaires T5015 – Rapprochement du compte de capital de chaque associé et T5013 – État des revenus d’une société de personnes pour l’année 2000. M. Newson a expliqué que ces types de documents accompagnent le dépôt d’une déclaration de renseignements. Il semble donc que l’ARCO reconnaît qu’elle disposait de ces renseignements, du moins pour l’année d’imposition 2000, ce qui constitue une indication supplémentaire que les déclarations de renseignements ont été « fournies »[27].
+[74] En tout respect, il ne m’apparaît pas clairement en quoi la lettre de décembre nuance la lettre de novembre et permette de confirmer que les déclarations de renseignements n’avaient pas été produites, comme le fait valoir l’intimé. Dans son témoignage résumé au paragraphe 44 des présents motifs, M. Jones souligne que la lettre de décembre de l’ARCO demande simplement des [traduction] « copies » démontrant que les déclarations de renseignements ont été produites. Sans bénéficier de la clarification de M. Robbins, je ne considère pas que la lettre de décembre nuance la lettre de novembre, ni qu’elle apporte la confirmation suggérée par l’intimé. J’estime que les déclarations de renseignements pour les années en cause ont été fournies à l’ARC avant la lettre de novembre[28].
+[75] Je ne rejette pas les observations de l’intimé concernant la mauvaise qualité des déclarations de renseignements et des pièces A1 et A2, ni ses divers autres commentaires. Il s’agit de l’une des difficultés qui se posent en matière de preuve, compte tenu du temps qui s’écoule. Je sais par contre que M. Jones a tenté de remédier à cette situation. Il a déclaré que plus de dix ans plus tard, il avait contacté Alton Plager et lui avait demandé des copies des déclarations de renseignements portant les timbres originaux. M. Plager n’a pas répondu à sa demande et n’a pas non plus expliqué si des copies avaient été trouvées ou pourquoi elles ne l’avaient pas été.
+[76] Les lettres de novembre (13 pages), décembre (10 pages) et mars illustrent une affaire complexe sur le plan factuel, faisant intervenir une multitude de personnes physiques et morales et diverses affaires entremêlées. Cette situation, de même que le manque de clarté de certaines parties de la correspondance, indique qu’il était essentiel que M. Robbins, ou un autre témoin bien informé, témoigne pour faire la lumière sur les questions soulevées. Le résultat aurait pu être différent si cela s’était produit.
+[77] Compte tenu de la preuve, selon la prépondérance des probabilités, je conclus que la déclaration de renseignements de la société de personnes pour l’année 2000 a été produite le 25 mai 2001 et que celle pour l’année 2001 a été produite le 29 avril 2002, et qu’elles portent le timbre « Reçu » apposé par l’ARCH, compte tenu également de l’indication dans la correspondance de l’ARCO selon laquelle ces documents avaient été « fournis » avant la lettre de novembre.
+[78] Étant donné que les déterminations relatives aux années d’imposition 2000 et 2001 de la société de personnes ont été prises en 2006, ces années d’imposition sont prescrites, car le ministre a dépassé le délai légal de trois ans prévu au paragraphe 152(1.4) de la Loi de l’impôt sur le revenu. Par conséquent, les années d’imposition 2000 et 2001 sont également prescrites pour les appelants.
+V. CONCLUSION [79] Les appels interjetés par les appelants pour leurs années d’imposition respectives sont accueillis et les nouvelles cotisations sont annulées.
+[80] Les appelants ont droit à un seul mémoire de dépens[29].
+Signé à Ottawa, Canada, ce 3e jour d’août 2023.
+« K. Lyons »
+Le juge Lyons
+ANNEXE I Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.)
+Avis de détermination
+152(1.5) Le ministre envoie un avis de la détermination effectuée en application du paragraphe (1.4) à la société de personnes concernée et à chaque personne qui en était un associé au cours de l’exercice.
+Absence d’avis
+152(1.6) La détermination effectuée en application du paragraphe (1.4) pour un exercice n’est pas invalidée du seul fait qu’une ou plusieurs personnes qui étaient des associés de la société de personnes concernée au cours de l’exercice n’ont pas reçu d’avis de détermination.
+Période normale de nouvelle cotisation
+152(3.1) Pour l’application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d’imposition s’étend sur les périodes suivantes :
+a) quatre ans suivant soit la date d’envoi d’un avis de première cotisation en vertu de la présente partie le concernant pour l’année, soit, si elle est antérieure, la date d’envoi d’une première notification portant qu’aucun impôt n’est payable par lui pour l’année, si, à la fin de l’année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu’une société privée sous contrôle canadien;
+b) trois ans suivant celle de ces dates qui est antérieure à l’autre, dans les autres cas.
+Cotisation et nouvelle cotisation
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi [...].
+Sociétés de personnes
+165(1.15) Malgré le paragraphe (1), dans le cas où le ministre détermine un montant en application du paragraphe 152(1.4) relativement à l’exercice d’une société de personnes, seul est autorisé à faire une opposition concernant ce montant l’associé de la société de personnes qui est, selon le cas :
+a) désigné à cette fin dans la déclaration de renseignements présentée en application de l’article 229 du Règlement de l’impôt sur le revenu pour l’exercice;
+b) autrement expressément autorisé par la société de personnes à agir ainsi.
+Associés
+244(20) Les règles suivantes s’appliquent dans le cadre de la présente loi :
+a) la mention de la dénomination d’une société de personnes dans un avis ou autre document vaut mention de tous les associés de la société de personnes;
+b) un avis ou autre document est réputé remis à chaque associé de la société de personnes si l’avis ou le document est posté, signifié ou autrement envoyé à la société de personnes :
+(i) à sa dernière adresse connue ou à son dernier lieu d’affaires connu,
+(ii) à la dernière adresse connue :
+(A) s’il s’agit d’une société de personnes en commandite, de l’un de ses associés dont la responsabilité, à titre d’associé, n’est pas limitée,
+(B) dans les autres cas, de l’un de ses associés.
+ANNEXE II
+Appelants
+Année d’imposition
+Perte déclarée
+Nouvelles cotisations (avis daté)
+Avis d’opposition
+Jeff Gillan
+2000
+46 400 $
+23 février 2007
+30 avril 2007
+Sandra Inglis
+2001
+40 000 $
+23 février 2007
+30 avril 2007
+Murray J. McPhail
+2001
+21 000 $
+12 mars 2007
+16 mai 2007
+Anthony Tedesco
+2001
+21 000 $
+3 mai 2007
+20 juin 2007
+Rosa Militano
+2001
+40 000 $
+7 mai 2007
+20 juin 2007
+Robert Borg Olivier
+2001
+38 720 $
+7 mai 2007
+26 juillet 2007
+Sarah Borg Olivier
+2001
+41 000 $
+7 mai 2007
+26 juillet 2007
+James Shaw
+2001
+46 200 $
+7 mai 2007
+11 juin 2007
+Paul Watt
+2000
+40 000 $
+7 mai 2007
+26 juin 2007
+Ahmad Yaqeen
+2001
+56 000 $
+7 mai 2007
+20 juin 2007
+Stanley Harvey
+2001
+56 000 $
+10 mai 2007
+19 juin 2007
+Gerald James
+2001
+14 000 $
+10 mai 2007
+26 juin 2007
+Lynn James
+2001
+14 000 $
+10 mai 2007
+26 juin 2007
+Maurizio Marchioni
+2001
+42 000 $
+10 mai 2007
+19 juin 2007
+BLANC
+BLANC
+BLANC
+BLANC
+BLANC
+Société de personnes
+BLANC
+Pertes déclarées
+Déterminations
+(avis datés)
+Avis d’opposition
+BLANC
+2000
+2001
+941 840 $
+2 193 463 $
+29 mars 2006
+23 mars 2007
+Les avis de confirmation des appelants et de la société de personnes sont datés du 18 avril 2012.
+RÉFÉRENCE :
+2023 CCI 114
+Nos DES DOSSIERS DE LA COUR :
+2012-2925(IT)G
+2012-2917(IT)G
+2012-2918(IT)G
+2012-2919(IT)G
+2012-2920(IT)G
+2012-2921(IT)G
+2012-2922(IT)G
+2012-2926(IT)G
+2012-2927(IT)G
+2012-2928(IT)G
+2012-2929(IT)G
+2012-2979(IT)I
+2012-2980(IT)I
+2012-3102(IT)G
+INTITULÉ :
+ANTHONY TEDESCO c. SA MAJESTÉ LE ROI
+JAMES SHAW c. SA MAJESTÉ LE ROI
+STANLEY HARVEY c. SA MAJESTÉ LE ROI
+SANDRA INGLIS c. SA MAJESTÉ LE ROI
+MURRAY J. MCPHAIL c. SA MAJESTÉ LE ROI
+JEFF GILLAN c. SA MAJESTÉ LE ROI
+ROBERT BORG OLIVIER c. SA MAJESTÉ LE ROI
+AHMAD YAQEEN c. SA MAJESTÉ LE ROI
+ROSA MILITANO c. SA MAJESTÉ LE ROI
+MAURIZIO MARCHIONI ET SA MAJESTÉ LE ROI
+PAUL WATT c. SA MAJESTÉ LE ROI
+GERALD JAMES c. SA MAJESTÉ LE ROI
+LYNN JAMES c. SA MAJESTÉ LE ROI
+SARAH BORG OLIVIER c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 décembre 2022
+DATE DE DÉPÔT DES OBSERVATIONS :
+Le 27 janvier 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 3 août 2023
+COMPARUTIONS :
+Avocat des appelants :
+Me Maurizio Marchioni
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Maurizio Marchioni
+Cabinet :
+March Law
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] À l’exception d’Ahmad Yaqeen, tous les appelants sont représentés par Me Marchioni. L’avocat de l’intimé a indiqué qu’il s’était entretenu avec M. Yaqeen avant l’audience et a déclaré que la décision concernant les appels interjetés par les appelants s’appliquerait également à l’appel de M. Yaqeen.
+[2] Le paragraphe 152(1.6) prévoit qu’aucune détermination n’est invalidée du seul fait qu’un ou plusieurs associés de la société de personnes concernée n’ont pas reçu d’avis de détermination. Aux termes du paragraphe 244(20), l’avis est réputé remis à chaque associé de la société de personnes si l’avis ou le document est posté, signifié ou autrement envoyé à la société de personnes à sa dernière adresse connue ou à son dernier lieu d’affaires connu, ou à la dernière adresse connue de l’un des associés d’une société de personnes en commandite dont la responsabilité, à titre d’associé, n’est pas limitée.
+[3] Dans l’arrêt Sentinel Hill Productions IV Corp c. R, 2014 CAF 161, au paragraphe 7, la Cour d’appel fédérale explique que le paragraphe 152(1.4) permet au ministre de calculer le revenu ou les pertes de la société de personnes afin de fixer l’impôt dont est redevable un de ses associés. Ainsi, l’avis de détermination n’est qu’un moyen de calculer le revenu d’une société de personnes et d’imposer ce calcul à ses associés. Il n’assujettit pas la société de personnes à l’impôt.
+[4] Cummings c. La Reine, 2009 CCI 310, par. 17.
+[5] Au début de l’audience, l’avocat des appelants a indiqué que ces derniers renonçaient aux autres questions soulevées dans leurs avis d’appel.
+[6] La déclaration de renseignements des sociétés de personnes de l’ARC est également désignée sous le numéro T5013E sur le formulaire. L’ARC utilise également le numéro T5013 sur d’autres formulaires, mais ceux-ci sont de nature différente. Par exemple, il existe un formulaire T5013 intitulé « État des revenus d’une société de personnes ». Pour éviter toute confusion, je préfère utiliser le terme « déclaration de renseignement » pour décrire les documents dont il est question dans les appels.
+[7] Pièces A3 et A4.
+[8] Pièce R2.
+[9] Avis de désistement déposé le 2 mai 2016. L’appel est réputé avoir été rejeté en application du paragraphe 16.2(2) de la Loi sur la Cour canadienne de l’impôt.
+[10] Pièce A1.
+[11] Procédure : il appose le timbre sur la déclaration de renseignements, place celle-ci dans une enveloppe interservices adressée à une unité désignée à Sudbury, soit celle où sont traitées les T4 et T5 et dont le personnel est chargé d’enregistrer les déclarations dans la base de données de l’ARC, joint un formulaire de suivi en quatre parties avec les coordonnées de la personne à contacter et reçoit une page en retour.
+[12] Option LL enregistre la première demande de renseignements produite pour une société de personnes lorsque le centre fiscal la reçoit.
+[13] Interrogatoire préalable, questions et réponses 87 à 89 inclusivement, et 98 à 102 inclusivement.
+[14] Pièce A2.
+[15] Pièce R3.
+[16] La lettre de novembre a été envoyée à Alton Plager, administrateur du commandité; la lettre d’avril a été envoyée à 48 commanditaires, à M. Jones et à d’autres personnes; les lettres de décembre et de mars ont été adressées à M. Jones.
+[17] Interrogatoire préalable, questions et réponses 115 à 117 inclusivement.
+[18] Pièce A7. M. Consoli a également envoyé des lettres aux détenteurs de parts en juin 2003.
+[19] Pièce A8, lettre de décembre.
+[20] Réponse de Jeff Gillan, hypothèses aux alinéas 9p) et q) et position au paragraphe 15.
+[21] Lettre du 11 mars 2005.
+[22] Les documents contestés se trouvent dans le recueil de documents de l’intimé, volume 1, aux onglets 40 et 41.
+[23] Pièce R-5, Transcription de l’interrogatoire préalable de M. Jones (19 août 2014), Questions et réponses 183 à 205 inclusivement.
+[24] Cette preuve implique des considérations relatives à la règle contre le ouï-dire et aux exceptions à cette règle. Bien entendu, un document peut être déposé simplement pour prouver son existence, sans admettre qu’il fait preuve de son contenu.
+[25]L’audition des appels a été fixée neuf mois avant la date de l’audience. En outre, d’autres difficultés indépendantes de la volonté de l’intimé se sont manifestées au moment de l’audience.
+[26] En outre, la page 5100-1 renvoie à un exercice de neuf mois commençant le 1er mars 2000 et les deux pages indiquent un numéro d’entreprise incorrect.
+[27] Il a indiqué que le formulaire T5013 comprend une page de résumé, des annexes et des états financiers et que le formulaire T5015 constitue un état des revenus de la société de personnes.
+[28] Je souscris aux observations écrites de l’intimé au paragraphe 68, selon lesquelles la lettre de novembre [traduction] « n’a pas pour objet d’établir une date de commencement pour la période de trois ans », et je ne crois pas non plus que ce soit l’argument des appelants. Il s’agit plutôt d’une confirmation de l’ARC que des déclarations de renseignements avaient été produites avant l’envoi de cette lettre.
+[29] Les appelants demandent des dépens fondés sur une indemnisation substantielle.

@@ -1,0 +1,229 @@
+---
+title: "Khullar Au Gourmet International Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26965/index.do"
+last_modified: "2003-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 383"
+citation2: ""
+neutral_citation: "2003 TCC 383"
+decision_date: "2003-06-03"
+language: "en"
+item_id: "26965"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 575
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:05:52.937000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c14ac68ef1540d4f068590352c3aa14d4daba9113c4e2ccce39485e46c24b03c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khullar Au Gourmet International Ltd. v. The Queen
+
+- Citation: 2003 TCC 383
+- Decision date: 2003-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 575, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khullar Au Gourmet International Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-03
+Neutral citation
+2003 TCC 383
+File numbers
+1999-1649(GST)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 1999-1649(GST)I
+BETWEEN:
+KHULLAR AU GOURMET INTERNATIONAL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Khullar Gourmet Foods Ltd. (1999-1650(GST)I), on December 12 and 13, 2002, at Montréal, Québec,
+By: The Honourable Judge C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Allan J. Gold
+Counsel for the Respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 27, 1996, and bears number 1P0016, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment but only to the extent of what the Minister conceded to at the hearing that, the amount of $44,546 was for personal loans made to the Appellant by family members. In all other respects, the appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of June, 2003.
+J.T.C.C.
+Docket: 1999-1650(GST)I
+BETWEEN:
+KHULLAR GOURMET FOODS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Khullar Au
+Gourmet International Ltd. (1999-1649(GST)I),
+on December 12 and 13, 2002, at Montréal, Québec,
+By: The Honourable Judge C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Allan J. Gold
+Counsel for the Respondent:
+Martine Bergeron
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated September 27, 1996 and bears number 1P0015 is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment but only to the extent of what the Minister conceded to at the hearing that, the amount of $94,500 was for personal loans made to the Appellant by family members. In all other respects, the appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of June, 2003.
+J.T.C.C.
+Citation: 2003TCC383
+Date: 20030603
+Docket: 1999-1649(GST)I 1999-1650(GST)I
+BETWEEN:
+KHULLAR AU GOURMET INTERNATIONAL LTD.,
+and KHULLAR GOURMET FOODS LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The Minister of National Revenue assessed the Appellants under the Excise Tax Act for failing to report and remit goods and services tax during the period July 1, 1992 to March 31, 1996. Also, the amounts for input tax credits claimed by the Appellants in their GST returns were in dispute. The appeals were heard on common evidence.
+[2] Mr. Khullar is the operator and sole shareholder of the Appellants' two convenience stores in the City of Montréal which he ran as a consolidated operation of two companies, Khullar Au Gourmet International Ltd. ("International") and Khullar Gourmet Foods Ltd. ("Foods").[1] The Appellants sold both taxable and exempt supplies within the meaning of the Act. Some revenue was derived from the conversion of foreign currency into Canadian funds. Mr. Khullar submits that the Appellants were remitting GST and Quebec Sales Tax at all relevant times.
+[3] In the spring of 1996, Yvette Lambert, a Canada Customs and Revenue Agency auditor, conducted an audit of the Appellants' accounts with respect to GST and QST for the period under appeal. At that time, Mr. Khullar was asked to provide documents relating to the purchases and sales of the Appellants, including their books of accounts, bank account statements, cash register receipts, etc. Mr. Khullar gave her a notebook he used to record such information along with a bag containing 173 receipts dating from January to April 1996. The receipts were in disarray and the information contained in the notebook was, for the most part, unintelligible. Mr. Khullar admitted that he did not keep either his invoices or the cash register receipts.
+[4] In the absence of the necessary documentation required to ascertain the sales of the Appellant, as a last resort the audit was based on bank deposits to the corporate accounts. The auditor arrived at the amount of total sales by adding the total deposits and deducting the transfers to the three accounts[2] which were deposits from the Appellants' lines of credit, certain corrections and returned goods.
+[5] The auditor did not accept Mr. Khullar's explanation that a number of the deposits were attributed to loans from his brother or other family members as he had no documentation or other proof of such loans. She estimated the Appellants' total sales to be $2,637,526 for Foods and $2,438,427 for International. The percentage of sales attributable to taxable supplies she estimated to be 81.64%. The Minister then calculated that the Appellants failed to remit GST for Foods in the amount of $81,784 and for International in the amount of $74,869. The second part of the audit dealt with the determination of the amount of the Appellants' input tax credits. Based on existing invoices, the auditor allowed the additional amount of $2,548.26 for Foods and nil for International.
+[6] On December 20, 1996, the Appellants filed Notices of Objection to the assessments. Mr. Khullar was given time to refute the Minister's assessments. He submits that in May 1998, most of his documents were destroyed in a flood at the Sherbrooke Street premises. Subsequently, he made substantial efforts to obtain duplicate receipts from his suppliers, with limited success. The assessments were confirmed on December 11, 1998 and the Minister assessed penalties and interest pursuant to sections 280 and 285 of the Act. The Appellants subsequently filed Notices of Appeal. In June 2001, the Appellants submitted further receipts. Additional input tax credits were recognized in the amounts of $26,314 and $11,260 for Foods and International, respectively.
+[7] The issues include:
+(i) Did the Appellants refute the Minister's GST assessments?
+(ii) Are the Appellants entitled to further input tax credits?
+(iii) Can the Minister assess the Appellants' GST liabilities past the normal period of reassessment regarding the period July and August 1992? and
+(iv) Did the Minister properly assess penalties and interest pursuant to sections 280 and 285 of the Act?
+[8] I will now deal with the first issue. Subsection 286(1) of the Act imposes the obligation to keep books and records sufficient to enable the Minister to determine the person's liabilities, obligations and entitlements under Part IX. Should the necessary information be inadequate or unavailable, the Act stipulates under subsection 299(1) that the Minister is not bound by any return and may make his or her own assessment.
+[9] Because the Appellants did not keep proper records, the auditor, as a last resort, completed a modified net worth of the Appellants as documented in their bank transactions. Under the circumstances, this approach was acceptable and necessary. The auditor concluded that the Appellants' total sales were $2,637,526 for Foods and $2,438,427 for International. Applying a percentage of 81.64% in the auditor's calculations,[3] this yielded GST liabilities of $81,784 and $74,869 for Foods and International, respectively. This method operates primarily on the assumption that all the amounts deposited were from the Appellants' sales. Counsel for the Appellants vigorously challenged the Minister's methodology.
+[10] In commenting on the use of a similar method under subsection 152(7) of the Income Tax Act which is the counterpart of subsection 299(1) in the Excise Tax Act, Judge Bowman summarized the problems a taxpayer faces when a net worth method is applied in the case of Ramey v. The Queen:[4]
+... The net worth method of estimating income is an unsatisfactory and imprecise way of determining a taxpayer's income for the year. It is a blunt instrument of which the Minister must avail himself as a last resort. A net worth assessment involves a comparison of a taxpayer's net worth, i.e., the cost of his assets less his liabilities, at the beginning of a year, with his net worth at the end of the year. To the difference so determined there are added his expenditures in the year. The resulting figure is assumed to be his income unless the taxpayer establishes the contrary. Such assessments may be inaccurate within a range of indeterminate magnitude but unless they are shown to be wrong they stand. It is almost impossible to challenge such assessments piecemeal. The only truly effective way of disputing them is by means of a complete reconstruction of a taxpayer's income for a year. A taxpayer whose business records and method of reporting income are in such a state of disarray that a net worth assessment is required is frequently the author of his or her own misfortunes. ...
+The Minister's reliance on this imprecise method of calculating the Appellants' GST liability was because of the lack of proper business records. As stated by Judge Bowman, although the resulting tax liability may be questionable, unless shown wrong, it stands. The Minister has the right to challenge the legitimacy of the taxpayer's numbers if they are suspect. The onus falls on the taxpayer to show that the figures of the Minister are incorrect.
+[11] By virtue of subsection 299(3) of the Act, an assessment is deemed to be valid unless it is vacated on an objection or appeal. To be successful, the Appellant must demonstrate on a balance of probabilities that the assessment is incorrect.[5] Bonner, J. of this Court in Fletcher v. The Queen[6]gives a good description of a taxpayer's burden of proof, stating:
+In an appeal from an assessment of income tax the onus is on the taxpayer to establish on the balance of probabilities that the assessment is too high having regard to the law and the relevant facts. It is not enough for the taxpayer to show that the assessment might conceivably be too high. He must adduce credible evidence showing that on a proper and complete net worth his income is lower than the Minister found it to be. Where a taxpayer has placed himself in a position in which a direct and accurate measurement of income is impossible he can hardly complain in the course of an appeal from a net worth assessment of the inaccuracies inherent in that method.
+Appellants' Evidence
+[12] The Appellants admitted that their records were either non-existent or in disorder. Mr. Khullar attempted at great length to re-create the Appellants' respective financial situations. He produced five large boxes of evidence containing forty exhibits, some of which had sub-exhibits. They included: (i) a large number of invoices from some of the Appellants' larger suppliers (Molson's Breweries, Provigo, Messageries de Presse Benjamin, among others); (ii) provision agreements; (iii) a great number of cancelled cheques; (iv) bank documents (originals and photocopies); (v) photocopies of journal entries presumably made by Mr. Khullar; (vi) handwritten lists outlining loans made to the Appellants and the lending parties; and (vii) the lease agreements of the Appellants and their respective stores' floor plans.
+[13] Some items, such as the lease agreements and floor plans, were of little assistance. I would add to this category the letters and faxes sent by the Appellants to suppliers asking for copies of past invoices, the lists of unintelligible figures submitted without explanatory notes, and the numerous photocopies of bank tellers' stamps on otherwise blank deposit stubs.
+[14] Of interest were the handwritten and computer-generated spreadsheets composed by Mr. Khullar containing his version of the Appellants' purchases. Unfortunately, even the most pertinent pieces of Mr. Khullar's evidence were riddled with errors which not only have the effect of discrediting the evidence he put forward but also placing Mr. Khullar's own mathematical abilities in doubt. For instance, Mr. Khullar referred to invoices from Provigo, bringing several examples to the Court's attention, in the hope of illustrating that the percentage of the Appellants' sales attributable to taxable supplies was far less than the 81.64% calculated by the Minister. However, the determination of the liabilities for GST should be calculated by multiplying the total taxable sales by seven percent, not the total of taxable purchases. The method selected by Mr. Khullar was more illustrative of the GST liability of Provigo than that of the Appellants. Even if Mr. Khullar could show that the figure of 81.64% was not representative of the percentage attributable to taxable supplies on the Provigo invoices, this would only impact the amount the Appellants would receive as input tax credits. Ironically, he may be doing himself a disservice by arguing that this percentage is lower as it is the equivalent of arguing that the Appellants should receive less money from the Minister in ITCs.
+[15] Further, Mr. Khullar committed basic mathematical errors in failing to subtract the GST from the total amount of the invoice before determining the percentage attributable to taxable supplies. The result is that his figure for the total amount of taxable purchases is divided by 107% of the total purchase price instead of 100%. Consequently, the resulting percentages in Mr. Khullar's calculations are approximately 10% lower than that should be (i.e. when he says 50%, the actual amount is closer to 60%). In any event, these mathematical errors pale in comparison to the conceptual errors made by Mr. Khullar. His method of examining the invoices of the Appellants' suppliers fails to take into account the Appellants' mark-up. This significant factor affects the Appellants' respective percentages of total sales attributable to taxable products. There is nothing to indicate that this mark-up was the same for all supplies, whether taxable or not. The only documents which can illustrate the true percentage of sales attributable to taxable products would be the Appellants' cash register receipts. In the absence of this evidence, the method of the net worth analysis had to be used.
+[16] The Appellants' claims that the net worth analysis does not take into account loans made to them by various parties is well-founded. They had the burden of proving that such loans exist. The only evidence was the disjointed, handwritten spreadsheet submitted as Exhibit A-20. It was recreated from Mr. Khullar's memory several years after the events in question. Despite the testimony from Mr. Khullar's brother, who was vaguely aware of some loans made to the Appellants by members of the Khullar family, these figures were completely uncorroborated. Rather generously during the hearing of the appeals, the Minister conceded unilaterally that $94,500 and $44,546 were loans made to Foods and International, respectively. With respect to the GST liability, I therefore conclude that the Minister's reassessment is correct. In conclusion, the appeal with respect to the GST liability issue is allowed only to deduct these loan amounts from the Minister's total sales calculation.
+Input Tax Credits
+[17] Pursuant to subsection 169(1) of the Act, GST registrants who make taxable supplies are entitled to input tax credits for the tax paid on purchases of any property or service for use in the course of their commercial activities. These claims are computed on a self-assessing basis. Paragraph 169(4)(a) of the Act requires that registrants, before filing their returns, obtain sufficient evidence to determine the amount of input tax credits allowable. The Input Tax Credit Information Regulations in the Act (the "Regulations") set out the required evidence in section 3, and define "supporting documentation" in section 2, as follows:
+"supporting documentation" means the form in which information prescribed by section 3 is contained and includes:
+(a) an invoice,
+(b) a receipt,
+(c) a credit card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of the supply made by the registrant in respect of which there is tax paid or payable;
+[18] Subsection 169(4) of the Act and the Regulations are clear and the Courts have adopted the position that a registrant is not entitled to input tax credits claimed without having provided the supporting documentation required.[7] In these appeals, the Minister alleges that the Appellants failed to provide sufficient documentary evidence that would entitle them to the input tax credits claimed during the period under appeal. Unlike the determination of GST liabilities, in determining the amount of allowable input tax credits, the Minister does not attempt to attribute a percentage representing taxable supplies to the total amount of purchases made by each respective Appellant. The amount is assumed to be nil, until the registrant adduces the documentation described.
+[19] At the outset, International presented no required documentation to the auditor and she concluded that the amount of allowable input tax credits was nil. Subsequently, $11,260 was allowed after Mr. Khullar provided a number of invoices which specified the amount of GST paid for International's purchases. Similarly, the figure for Foods was raised from $2,548 to $26,314. The amounts claimed and received by International and Foods before the audit were $25,401 and $29,600, respectively. The Appellants argued that these amounts should be increased. Mr. Khullar presented in evidence multiple spreadsheets, both handwritten and computer-generated, which address the purchases made by each Appellant in the period under appeal. As was the case with the evidence produced in the determination of the Appellants' GST liabilities, there are several problems with the evidence submitted by Mr. Khullar.
+[20] One major problem, which was explored by counsel for the Respondent in cross-examination, was Mr. Khullar's arbitrary divisions from suppliers who provided the Appellants with both taxable and exempt supplies ("non-taxable" items, to use the term employed by Mr. Khullar). His spreadsheet contained separate columns for taxable and non-taxable purchases. He divided the Appellants' purchases between the two, depending on the type of supply provided by the company in question.
+[21] The difficulty arises with invoices from suppliers of both taxable and non-taxable items such as Provigo.[8] In acknowledging the overlap, Mr. Khullar divided the purchases between the two columns. In some cases, for example in his spreadsheet for purchases made by Foods between October 1992 and September 1993, 50% of a purchase would appear under the "taxable" column, and the other 50% of that purchase would appear under the "non-taxable" column. For Foods' next taxation year, the amounts under the "taxable" column doubled those of the "non-taxable" column, indicating a 66% to 33% ratio. For their following taxation year, this ratio was reversed to 33% "taxable" and 66% "non-taxable". This latter ratio was applied to the majority of the spreadsheets submitted for International.
+[22] This method did not withstand close scrutiny. In cross-referencing receipts furnished by Mr. Khullar with the entries on his spreadsheets, the amounts attributable to taxable supplies varied greatly for each purchase.[9] I believe Mr. Khullar made his arbitrary allocations in order to simplify his task. It did not illustrate a true representation of the Appellants' taxable and non-taxable purchases.
+[23] Further, thespreadsheets contained the most basic mathematical errors. For instance, the monthly spreadsheet for purchases made by International in April 1994 contains two lines of totals, neither of which reflects the amounts in either the "taxable" or "non-taxable" columns. Just as troubling, the monthly totals for purchases made by Foods from October 1992 to September 1993 and for purchases made by International from October 1993 to September 1994 do not add up to the total yearly amounts indicated. Given these basic faults, Mr. Khullar's credibility is questionable. I accept the Minister's reassessments subject to the subsequent adjustments referred to earlier. It is the most accurate of the two calculations.
+[24] I turn now to the question of the application of the limitation period in these appeals. By virtue of subsection 298(1) of the Act, the Minister, in the ordinary course of events, is limited to assessing registrants for their GST liability no later than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed. The Appellants contend that the period under appeal is from July 1, 1992 to December 31, 1996, but the reassessments were dated September 27, 1996. As a result, the two months of July and August 1992 were already beyond the limit of four years. The Respondent asserts in the Replies to the Notices of Appeal that the Minister may assess the GST liability of a registrant under subsection 298(4) at any time where the person to be assessed has made a misrepresentation that is attributable to the person's neglect, carelessness or wilful default. This provision requires the Minister to show that a misrepresentation in respect of the matter has been made, and that this misrepresentation was attributable to neglect, carelessness or wilful default.
+[25] Under the Income Tax Act, the onus lies on the Minister to prove on a balance of probabilities that the Appellants made a misrepresentation that is attributable to neglect, carelessness or wilful default or that they committed any fraud in filing their income tax return.[10]
+[26] The first element to be established by the Minister is that there was a misrepresentation made on behalf of the Appellants. The term 'misrepresentation' was defined by Cameron J. in M.N.R. v. Taylor[11] as follows:
+I have reached the conclusion that the words 'any misrepresentation', as used in the section, must be construed to mean any representation which was false in substance and in fact at the material date, and that it includes both innocent and fraudulent misrepresentations.
+In light of the evidence presented at trial which indicated that the Appellants committed numerous errors in their calculations and estimates, I have no hesitation in concluding that these were misrepresentations. In disposing of cash register receipts and invoices, the Appellants' misrepresentations are attributable to their neglect and carelessness and therefore, there is no time limit for reassessment.
+[27] In assessing the Appellants for penalties, the Minister relies on subsection 280(1) of the Act, which provides:
+280(1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+Penalties imposed under this subsection fall within the category of strict liability offences and can be challenged where the taxpayer demonstrates due diligence.[12] As stated, the Appellants did not exercise "reasonable care" in filing their GST returns. This raises the point of whether exercising "reasonable care" and the common law defence of "due diligence" are synonymous, or whether there exists a hierarchy of terms. In the reasons of Robertson, J.A. in Consolidated, he equated the two concepts as follows:
+...an implied due diligence defence with respect to s. 280 places the onus on the registrant to establish that he or she had exercised reasonable care in remitting the correct amount of GST.
+[28] The Appellants' negligence was as a result of Mr. Khullar's inability to retain documentation to substantiate the amount of GST he was remitting and the input tax credits he was claiming. There is nothing odd or burdensome about keeping cash register receipts and other pertinent documents in the course of running a business. This is an entirely reasonable practice, consistent with basic business principles. While the Appellants made great effort following the audit, it was too late. They did not exercise "due diligence" during the period under appeal. The penalties assessed under section 280 are justified.
+[29] With regard tothe imposition of interest pursuant to paragraph 280(1)(b) of the Act, the Court can provide no relief against the assessment of interest and that the only relief available is where the Minister decides to exercise his discretion under subsection 280(1).[13] The concessions made by the Respondent upon the examination of the evidence submitted by the Appellants in the period leading up to these appeals will impact the amount of penalties and interest.
+[30] Mr. Khullar had to go to great lengths to provide evidence with respect to the actual financial situations of the Appellants because of his negligence and carelessness in the first instance. Had he simply kept his invoices, cash register receipts and made appropriate documentation of the alleged loans made to the Appellants, the auditor could have been presented with a much clearer picture. Had this been done, Mr. Khullar's objections to the auditor's conclusions, not to mention these appeals, would have been unnecessary. Unfortunately, he was the author of his own misfortune. As Judge Bonner stated in Fletcher,[14] how can he now complain of possible inaccuracies by the Minister?
+[31] Counsel for the Appellants went to great length in portraying the Minister's assessment as a "travesty of justice",[15] referring not only to policy, but also to the Canadian Charter of Rights and Freedoms.[16] It has been frequently held that fairness and equity have nothing to do with tax law.[17]
+[32] Finally, it is worth mentioning that the Appellants, both in their written and oral submissions, mentioned that this matter should have been resolved long ago. I agree. It has been more than six years since the initial audit took place, and more than ten years since the beginning of the period in question (July 1992). However, if one were to examine the causes for delay - whether it be the inadequate maintenance of records, the destruction of records, the health of Mr. Khullar, or boxes of evidence arriving on the day this matter was to go to trial - there is no doubt that the Appellants are not without fault.
+[33] My findings are consistent with the decisions in cases such as Louie v. The Queen[18]and Entrepreneur Peintre J.L. Inc. v. The Queen[19] wherein the taxpayers were found not to keep adequate records in the course of operating their businesses. Counsel for the Appellants stated that there were outstanding ITCs unclaimed by the Appellants including ITCs on the rents and public utilities paid for the business premises. No specifics were given and there was no evidence whatsoever that they had not been claimed previously or what amounts had not been claimed. The Appellants' pleadings made no reference to this and of course, the Respondent did not address it. Again, failing specifics and documentation, no finding is made with respect to ITCs.
+[34] For the above reasons, the appeals are dismissed, but for the amounts conceded by the Respondent during the hearing.
+Signed at Ottawa, Canada, this 3rd day of June, 2003.
+"C.H. McArthur"
+J.T.C.C.
+CITATION:
+2003TCC383
+COURT FILE NO.:
+1999-1649(GST)I and 1999-1650(GST)I
+STYLE OF CAUSE:
+Khullar Au Goumet International Ltd. and Khullar Gourmet Foods Ltd. and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+December 12 and 13, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge C.H. McArthur
+DATE OF JUDGMENT:
+June 3, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Allan J. Gold
+Counsel for the Respondent:
+Martine Bergeron
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Allan J. Gold
+Firm:
+Wolosfky, Gold
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+International operated a store on Park Avenue and Foods operated a store on Sherbrooke Street, both in Montréal.
+[2] There was an account for each Appellant corporation and Mr. Khullar's personal account used in part for the two convenience stores.
+[3] This is a somewhat arbitrary percentage based on the auditor's overall view of the GST exempt products of the Appellants in the stores and upon CCRA's experience with similar convenience stores in Montréal and area.
+[4] 93 DTC 791 (T.C.C.).
+[5] The Tax Court of Canada has confirmed this principle in many GST cases such as Ming Financial Corporation v. The Queen, 95 G.S. T.C. 2021 (T.C.C.). This principle has also been upheld by the Federal Court of Appeal in Vacation Villas of Collingwood Inc. v. The Queen, [1996] G.S.T.C. 13 (F.C.A.) in which case Judge Stone indicated that the Appellant had the burden of disproving the assumptions made in the Minister's pleadings.
+[6] [1994] T.C.J. No. 837, paragraph 4.
+[7] The Federal Court of Appeal in Design Build Ltd. v.Canada, [1997] G.S.T.C. 96 refused to interfere with the Tax Court of Canada decision that had denied an input tax credit claim due to lack of supporting documentation. However, two conflicting decisions have recently been rendered by the Tax Court of Canada as to the strictness of the requirements imposed by paragraph 169(4)(a) of the Excise Tax Act. In Tremblay v. The Queen, [2001] T.C.J. 99, Lamarre, J. found that the documentation requirements imposed by paragraph 169(4)(a) of the Act were merely directory and not mandatory. More recently, in Helsi Construction Management Inc. v. The Queen, 2001 GTC 396, Bowman A.C.J. held that the documentation requirements for input tax credits claims are mandatory and not merely directory.
+[8]
+Wholesale and retail grocery supermarket.
+[9] The samples I chose ranged from about 25% to 85%.
+[10] Jet Metal Products Ltd. v. M.N.R., 79 DTC 624.
+[11] 61 DTC 1139 (Ex.Ct.) at 1141.
+[12] See Judge Bowman's decision in Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49 (T.C.C.). The Federal Court of Appeal confirmed the application of the due diligence defence in Attorney General of Canada v. Consolidated Canadian Contractor's Inc., 98 G.S.T.C. 6303 (F.C.A.), [1998] G.S.T.C. 91 (F.C.A.).
+[13] Somnus Enterprises No. 1 Limited v. The Queen, [1995] G.S.T.C. 4 (T.C.C.).
+[14]
+supra.
+[15] Trial transcript, December 13, 2002, page 61, line 17
+[16] Canadian Charter of Rights and Freedoms, enacted as Schedule B to the Canada Act 1982 (U.K.) 1982, c.11.
+[17] Shewchuck v. The Queen, [2000] 3 C.T.C. 2738 (T.C.C.) and Feigenbaum v. The Queen (1999), [2000] 2 C.T.C. 2720 (T.C.C.).
+[18] (2002) G.S.T.C. 177-58 (T.C.C.).
+[19] 99 G.S.T.C. 3153

@@ -1,0 +1,169 @@
+---
+title: "Tremblay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27273/index.do"
+last_modified: "2006-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 487"
+citation2: ""
+neutral_citation: "2006 CCI 487"
+decision_date: "2006-09-14"
+language: "fr"
+item_id: "27273"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 880
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:45:27.477000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "86f20c7f18009c45ac988322981b9d70a12bae97d34ceb638b7e73673f994dc8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay c. La Reine
+
+- Citation: 2006 CCI 487
+- Decision date: 2006-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 880, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-14
+Référence neutre
+2006 CCI 487
+Numéro de dossier
+2006-1321(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1321(IT)I
+ENTRE :
+FRANCIS TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 23 août 2006, à Chicoutimi (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 est rejeté sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI487
+Date : 20060914
+Dossier : 2006-1321(IT)I
+ENTRE :
+FRANCIS TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel des cotisations établies par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » )pour les années d'imposition 2000 et 2001. Le ministre du Revenu national (le « ministre » ) a déterminé que l'appelant avait bénéficié d'un avantage provenant de l'utilisation d'un véhicule qui était la propriété de la société dont il détenait la totalité des actions.
+[2] La question en litige consiste à déterminer si le ministre était justifié d'ajouter un montant de 10 566 $ pour l'année d'imposition 2000 et de 11 077 $ pour l'année d'imposition 2001, à titre d'avantage provenant de l'utilisation d'un véhicule automobile d'une société.
+[3] Pour établir la cotisation à l'égard ces années d'imposition, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) Au cours des années d'imposition en litige, l'appelant était l'unique actionnaire, administrateur et employé de la société 9028-6493 Québec (ci-après la « société » ) Inc.; (admis) avec correction
+b) L'appelant n'a tenu aucun registre relativement à l'utilisation de ce véhicule; (admis)
+c) Au cours des années d'imposition en litige, la société a mis à la disposition de l'appelant un véhicule de marque Ford F-350 acquis le 19 avril 1999 pour la somme de 46 585 $; (admis)
+d) La résidence de l'appelant est située à 5 km de la place d'affaires de la société; (admis)
+e) La vérification a considéré que l'appelant effectuait le trajet entre sa résidence et la place d'affaires de la société 2 fois par jour, cinq jours par semaine, 48 semaines par année pour un total de 2 400 km par année; (nié)
+f) Le vérificateur a estimé à 23 % l'utilisation personnelle de ce véhicule par l'appelant; (ni nié ni admis)
+g) Les frais raisonnables pour l'usage d'un véhicule automobile de l'appelant s'élevaient à 10 566 $ pour l'année d'imposition 2000 et à 11 077 $ pour l'année d'imposition 2001.
+[4] L'appelant, à qui incombait le fardeau de la preuve, a admis le contenu des alinéas a) à d).
+[5] Il a témoigné à l'effet que le véhicule visé par la cotisation était un imposant véhicule requérant une immatriculation spéciale. Il a d'ailleurs affirmé avoir fait l'objet d'une contravention étant donné que le véhicule en question n'avait pas été immatriculé adéquatement, l'obligeant à immobiliser le camion pendant une longue période. Il a aussi expliqué qu'il avait intenté une poursuite contre la compagnie Ford étant donné qu'il avait été induit en erreur quant aux caractéristiques du camion.
+[6] Il a également admis que le véhicule était en sa possession et qu'il était disponible à des fins personnelles, car il était stationné à sa résidence privée en tout temps, et cela, pour éviter notamment les problèmes de vandalisme plus susceptibles de se produire si le camion avait été stationné à la place d'affaires de la société. Malgré cette admission, l'appelant a affirmé qu'il n'avait pas utilisé le camion à des fins personnelles.
+[7] L'appelant a énergiquement contesté le calcul effectué par le ministre quant à l'usage personnel du véhicule; l'usage personnel a été établi à 23% à raison de deux trajets par jour de sa résidence à l'atelier et s'élevant à 2 400 km/année sur une utilisation totale de 10 812 km.
+[8] À l'appui de sa contestation, il a affirmé ne pas avoir utilisé le véhicule en question durant la saison hivernale. Cependant, il a admis que le camion conservait son immatriculation et que la couverture d'assurance demeurait en vigueur. Par ailleurs, il a affirmé que le camion est demeuré longtemps immobilisé à cause de sa mauvaise immatriculation.
+[9] Un carnet de bord était conservé à bord du camion conformément à la réglementation routière au même titre que les très gros poids lourds et que les camions qui traînent de longues remorques. Malgré cette obligation, l'appelant n'a pas jugé à propos de tenir également un registre pour y inscrire les trajets ou l'utilisation de nature personnelle.
+[10] La Cour n'a donc pas été en mesure de chiffrer l'importance de l'utilisation personnelle à partir des explications soumises par l'appelant. Chose certaine, les trajets entre sa résidence et l'atelier étaient de nature essentiellement personnelle et ce, de façon incontestable.
+[11] De son côté, l'intimée a fait témoigner monsieur Richard Perron. Ce dernier, à l'emploi de Revenu Québec, a expliqué avoir été celui qui avait évalué le kilométrage effectué à titre personnel. Il a expliqué avoir d'abord vérifié d'une façon fiable le kilométrage parcouru par le véhicule sur une base annuelle.
+[12] Dans un deuxième temps, il a essentiellement multiplié le kilométrage effectué de façon quotidienne entre la résidence privée de l'appelant et l'atelier. Finalement, il a soustrait le kilométrage déterminé personnel (trajet entre la résidence et l'atelier) du kilométrage total parcouru par le véhicule et a ainsi obtenu le pourcentage de 23 % à titre personnel.
+[13] Dans l'arrêt Adams c. Canada, [1998] A.C.F. no 477, (QL), les juges Strayer, Décary et Robertson s'expriment ainsi aux paragraphes 1, 8 et 17 :
+[. . .] Aux termes de l'alinéa 6(1)e), et des paragraphes 6(2) et 6(2.1) de la Loi de l'impôt sur le revenu, le ministre a établi une nouvelle cotisation pour les contribuables en s'appuyant sur les « frais pour droit d'usage » d'une automobile ayant été « mise à [leur] disposition » par leur employeur au cours des années d'imposition en question. Les dispositions pertinentes sont rédigées dans les termes suivants :
+Article 6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+6(1)e) lorsque son employeur ou une personne liée à son employeur a mis au cours de l'année une automobile à sa disposition (ou à la disposition d'une personne qui lui est liée), l'excédent éventuel de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) la somme qui représente les frais raisonnables pour droit d'usage de l'automobile pendant le nombre de jours de l'année où elle était ainsi à sa disposition,
+(ii) le total des sommes dont chacune représente une somme (autre qu'une dépense liée au fonctionnement de l'automobile) payée au cours de l'année à l'employeur ou à la personne liée à l'employeur par le contribuable ou par la personne qui lui est liée pour l'usage de l'automobile;
+[...]
+6(2) Pour l'application de l'alinéa 1e), la somme qui représente les frais raisonnables pour droit d'usage d'une automobile pendant le nombre total de jours d'une année d'imposition durant lesquels l'employeur d'un contribuable ou une personne liée à l'employeur a mis l'automobile à la disposition du contribuable ou d'une personne qui lui est liée est réputée égale au montant calculé selon la formule suivante :
+A x [2 % x (C x D) + 2 x (E - F)] -- --
+B 3
+où
+A
+représente le moins élevé des éléments suivants :
+a) le nombre de kilomètres parcourus par l'automobile, autrement que dans l'accomplissement des fonctions de la charge de l'emploi du contribuable, pendant le nombre de jours ci-dessus;
+b) le montant représenté par l'élément B; toutefois, le nombre visé à l'alinéa a) est réputé égal au montant représenté par l'élément b), sauf si l'employeur ou la personne liée à celui-ci exige du contribuable qu'il utilise l'automobile dans l'accomplissement des fonctions de sa charge ou de son emploi et si la totalité, ou presque, de la distance parcourue par l'automobile pendant le nombre de jours ci-dessus est parcourue dans l'accomplissement de la charge ou de l'emploi;
+B le produit de 1 000 par le quotient de la division, par 30, du nombre de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur;
+C le coût de l'automobile pour l'employeur ou pour la personne qui lui est liée si l'un ou l'autre est propriétaire de l'automobile à un moment de l'année;
+D le quotient de la division, par 30, du nombre de jours où l'employeur ou la personne qui lui est liée est propriétaire de l'automobile, compris dans le nombre total de jours ci-dessus, ce quotient étant, s'il est supérieur à un, arrondi, le cas échéant, au nombre entier le plus proche, les résultats ayant cinq au plus en première décimale l'étant à l'entier inférieur
+E le total des montants qu'il est raisonnable de considérer comme payables à un bailleur par l'employeur ou par la personne qui lui est liée, pour la location de l'automobile, pendant le nombre de jours où l'automobile est louée à l'employeur ou à la personne qui lui est liée, compris dans le nombre total de jours ci-dessus;
+F la partie du total représenté par l'élément E qu'il est raisonnable de considérer comme payable au bailleur au titre de tout ou partie du coût, pour celui-ci, de l'assurance
+a) contre la perte de l'automobile ou les dommages à celle-ci;
+b) pour la responsabilité qui peut découler de son utilisation ou de son fonctionnement.
+[...]
+6(2.1) Lorsque, au cours d'une année d'imposition, l'emploi d'un contribuable consiste principalement à vendre ou à louer des automobiles et que l'employeur du contribuable a mis au cours de l'année à la disposition du contribuable ou d'une personne liée à celui-ci une automobile lui appartenant, et enfin que l'employeur a acquis une ou plusieurs automobiles au cours de l'année, la somme qui représente les frais raisonnables pour droit d'usage de l'automobile est, au choix de l'employeur et malgré le paragraphe (2), calculé comme si :
+a) d'une part, le pourcentage de « 2 % » qui figure à ce paragraphe était remplacé par le pourcentage « 1 % » ;
+b) d'autre part, le coût, pour l'employeur, de l'automobile était le plus élevé des montants suivants :
+(i) le quotient de la division, par le nombre d'automobiles neuves que l'employeur a acquises au cours de l'année en vue de les vendre ou de les louer dans le cours des activités de son entreprise, du coût de ces automobiles neuves pour l'employeur
+(ii) le quotient de la division, par le nombre d'automobiles que l'employeur a acquises au cours de l'année en vue de les vendre ou de les louer dans le cours des activités de son entreprise, du coût de ces automobiles pour l'employeur. [non souligné dans l'original]
+8 [. . .] En bref, une automobile est mise à la disposition d'un employé s'il peut s'en servir et qu'il y a un droit d'usage concomitant. En fait, l'usage réel qu'en fait l'employé, pour des fins personnelles ou commerciales, n'est pas une condition expresse. Il suffit qu'il y ait un droit d'usage, et nous reviendrons ci-dessous sur cette expression. Dans ce contexte, il m'apparaît clairement que la formulation large et sans réserve que l'on retrouve dans les deux versions de l'alinéa 6(1)e) renforce l'argument du ministre selon lequel l'usage non restreint d'une automobile n'est pas une condition préalable à l'application de cette disposition. [. . .]
+17 En résumé, la formulation large utilisée dans les deux versions de l'alinéa 6(1)e), jumelée à son historique législatif, appuie la position du ministre. En toute déférence, l'usage non restreint ou exclusif de l'automobile d'un employeur n'est pas une condition préalable à l'imposition des frais pour droit d'usage. L'usage réel n'est pas non plus requis, que ce soit à des fins personnelles ou à des fins commerciales. Ce qui est exigé, c'est qu'un employeur ait mis une automobile à la disposition d'un employé et, corrélativement, que cet employé ait eu le droit d'utiliser l'automobile. Cette conclusion n'est que logique puisque le paragraphe 6(2) suppose qu'un employé a fait un usage personnel de l'automobile de son employeur, sans chercher à savoir s'il en a réellement fait usage. À mon avis, les dispositions relatives aux frais pour droit d'usage ont été soigneusement rédigées afin d'en favoriser la certitude, au détriment de la souplesse. Cela dit, les conséquences rigoureuses qui découlent d'une disposition déterminative sont atténuées par l'exception « pour usage personnel minimal » qui a été greffée au paragraphe 6(2) par suite de la décision de la présente Cour dans Harman. C'est à ce moment que l'usage réel et les fins pour lesquelles l'automobile a été mise à la disposition de l'employé deviennent des facteurs pertinents.
+[14] La façon de faire pour arriver à déterminer l'usage personnel du véhicule était somme toute fort raisonnable, d'autant plus que l'absence d'un registre faisait en sorte qu'il s'agissait-là de la seule façon de faire.
+[15] Certes, le véhicule n'a pas été utilisé pendant une certaine période; par contre, il a, de toute évidence, été utilisé à des fins personnelles, notamment lors des trajets entre l'usine et la résidence. Il s'agit là d'un aspect où il n'y a aucun doute quant à l'utilisation personnelle puisque les trajets entre la résidence de l'appelant et l'usine où il travaillait constituaient des déplacements de nature essentiellement personnelle.
+[16] D'autre part, l'appelant a admis formellement que la société dont il était le seul actionnaire avait mis à sa disposition le véhicule de marque Ford F-350 acquis le 19 avril 1999 pour une somme de 46 585 $.
+[17] L'appelant n'ayant pu démontrer d'une manière convaincante que le kilométrage effectué à des fins personnelles se chiffrait bien en deçà de celui sur lequel était fondé la cotisation et la façon dont le ministre a établi le kilométrage étant raisonnable, la Cour n'a pas d'autre choix que de confirmer le bien-fondé de la cotisation.
+[18] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI487
+N º DU DOSSIER DE LA COUR : 2006-1321(IT)I
+INTITULÉ DE LA CAUSE : Francis Tremblay et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 23 août 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 14 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

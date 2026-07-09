@@ -1,0 +1,219 @@
+---
+title: "McBride v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/108100/index.do"
+last_modified: "2015-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 31"
+citation2: ""
+neutral_citation: "2015 TCC 31"
+decision_date: "2015-02-16"
+language: "en"
+item_id: "108100"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2752
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:30:03.063000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "966ee9a1ad3aa9b11dae1eee54fcf2c88a411e4bbb005fcbb71b4011e93432f6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McBride v. The Queen
+
+- Citation: 2015 TCC 31
+- Decision date: 2015-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2752, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McBride v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-16
+Neutral citation
+2015 TCC 31
+File numbers
+2014-2631(IT)I
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2631(IT)I
+BETWEEN:
+CATHRYN MCBRIDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 8, 2015, at Toronto, Ontario
+Before: The Honourable Justice John R. Owen
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kaylee Silver
+Rita Araujo
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2012 taxation year by notice dated March 6, 2014 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of February 2015.
+“J.R. Owen”
+Owen J.
+Citation: 2015 TCC 31
+Date: 20150216
+Docket: 2014-2631(IT)I
+BETWEEN:
+CATHRYN MCBRIDE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+I. Introduction [1] This is an appeal by Cathryn McBride of a reassessment of her 2012 taxation year by a notice of reassessment dated March 6, 2014. The reassessment included in Ms. McBride’s income the amount of $13,964 on the basis that this amount was a “support amount”, as defined in subsection 56.1(4) of the Income Tax Act (the “ITA”), received by Ms. McBride during 2012. The $13,964 in issue comprised 12 monthly payments each in the amount of $1,163.70.
+II. The Facts [2] Ms. McBride testified on her own behalf. Ms. McBride provided the court with a collection of documents that included a separation agreement signed by her ex-husband together with a cover letter from her ex-husband’s lawyer, a conference notice for a case conference, a conference brief and net family property statement and two orders of the Superior Court of Justice. With the exception of the net family property statement, the Respondent provided the same documents in her book of documents. Ms. McBride also provided a copy of an affidavit prepared in furtherance of a motion for contempt filed by her against her ex-husband, an Endorsement of the Superior Court of Justice in respect of that motion and a statement of account from the Family Responsibility Office of the Ministry of Community and Social Services dated August 11, 2014, which provides a summary of the payments received from her ex-husband to August 1, 2014.
+[3] Following the conclusion of the hearing on January 8, 2015, I determined that the first order of the Superior Court of Justice tendered into evidence by both parties made reference to minutes of settlement (see excerpt from the order below). As well, the affidavit in support of the contempt motion referred to a copy of the minutes of settlement as being attached thereto as Exhibit A, and the Endorsement referred to minutes of settlement as the basis for the wording of the first order. The minutes were not tendered by either party at the hearing but Ms. McBride provided a copy after a request for them was made to the parties.
+[4] The minutes are on a standard form and are signed by Ms. McBride (on September 27, 2010) and her ex-husband (on September 24, 2010) (the “Minutes of Settlement”). In light of the multiple references to these minutes in documents tendered into evidence at the hearing and the role of the minutes identified by the Superior Court of Justice in the Endorsement, and considering subsection 18.15(3) of the Tax Court of Canada Act, I have taken into account these minutes in reaching my conclusions in this appeal.
+[5] Ms. McBride testified that she had separated from her husband in 2009 and had retained a lawyer to represent her in the divorce proceedings. In the first half of 2010, a separation agreement was prepared that addressed the equalization of net family property only. Ms. McBride tendered a copy of the agreement (the “Separation Agreement”) together with a cover letter from her ex-husband’s lawyer dated June 4, 2010. The cover letter stated in part:
+As a sign of his good faith in wishing to resolve the issues, I am mailing to you four copies of a signed Separation Agreement in respect of Equalization Only, a copy of which is attached.
+[6] The copy of the Separation Agreement provided by both parties was signed by the ex-husband but not by Ms. McBride. Ms. McBride testified that she also signed the agreement. Section 3 of the Separation Agreement states:
+Upon the completion of the sale of the matrimonial home, Eric will make an equalization payment to Cathryn of $38,995.89 from his proceeds of the sale.
+[7] Section 4 of the Separation Agreement addressed the couple’s debt. Ms. McBride was to be responsible for one-half of the debt owing at the time of separation and her ex-husband was to be responsible for the balance (including any advances on the line of credit made after separation).
+[8] Section 5 of the Separation Agreement stated:
+Eric and Cathryn acknowledge that they are in the process of negotiating to enable them to address the balance of the outstanding issues, including not but [sic] limited to support-related issues.
+[9] Ms. McBride testified that she did not seek alimony and that the equalization payment and the division of the debt were the only compensation that she sought from her ex-husband.
+[10] The ex-husband did not make the equalization payment required by section 3 of the Separation Agreement and Ms. McBride had to resort to a court proceeding to enforce her right to that payment. She tendered a copy of a Case Conference Notice that provided for a case conference hearing before the Superior Court of Justice (Ontario) on September 28, 2010. The Notice stated that the conference had been arranged at the request of the applicant (i.e., Ms. McBride) to deal with the following issues: “Equalization of Net Family Property; Spousal Support”. Ms. McBride also tendered a copy of a Case Conference Brief together with a cover letter from her lawyer dated September 21, 2010 (Exhibit A-3). The cover letter stated in part:
+Please confirm that Eric agrees that his share of the net proceeds of sale of the matrimonial home in the amount of $6,669.90 will be released to Cathryn forthwith.
+Enclosed please find a copy of our Case Conference Brief which was served on Eric . . . by courier yesterday at the address indicated on his pleadings.
+When you have clarified Eric’s position regarding the house proceeds, I will review same together with your letter dated September 17, 2010 with my client and advise of her position.
+[11] The Case Conference Brief indicates in section 6 in Part 2 thereof that the issues that had not yet been settled were “spousal support”, “equalization of net family property”, “Repayment of joint Scotia Visa and joint Scotia line of credit”, “Maintenance of life insurance as security for support and the equalization payment” and “Costs”. In Part 3, section 11 of the Case Conference Brief, the issues for the case conference are described as being:
+1. Equalization Payment
+2. Payment of Joint Debts owing to Scotiabank for line of credit and Visa.
+3. Spousal Support
+[12] The Case Conference Brief then provides details regarding these issues in a series of numbered sentences included in section 11. The position on the equalization payment was that the parties had agreed that the ex-husband would make an equalization payment to Ms. McBride of $38,995.89. The proposal by Ms. McBride was that the ex-husband’s one-half share of the proceeds from the sale of the matrimonial home of $13,339.81 (i.e., $6,669.90) would be applied to reduce the equalization payment to $32,325.99. His half of the proceeds would be paid to Ms. McBride forthwith.
+[13] With respect to the two debts (the Scotiabank line of credit and the Scotiabank Visa), Ms. McBride requested an order that they be refinanced and that each party assume sole responsibility for one-half of each debt.
+[14] With respect to spousal support, the Brief states: “The Respondent earns substantially more than the Applicant and can afford to pay support.” It then states their respective incomes. Ms. McBride stated in cross-examination that in her mind no such support was sought and that the inclusion of spousal support in the Brief was simply a matter of strategy.
+[15] Section 11, paragraph 14 of the Brief addresses a life insurance policy held by the ex-husband. Ms. McBride sought particulars regarding the policy and an order that her ex-husband maintain the policy for her benefit to secure his “support obligation and obligation to make the equalization payment.”
+[16] In section 12 of the Brief, Ms. McBride seeks the following in order to resolve the issues:
+(a) An Order that the Respondent’s share of the net proceeds of sale of the matrimonial home of $6,669.90 be released to the Applicant forthwith and that the balance of the equalization payment in the amount of $32,325.99 be paid on terms to be ordered by the court.
+(b) An Order that the joint Scotia line of credit and Scotia Visa be refinanced into two separate loans with each party to assume responsibility for one-half of each debt.
+(c) An Order that the Respondent pay spousal support in the amount of $1,000 per month[.]
+(d) An Order that the Respondent maintain the Applicant as irrevocable beneficiary of his group life insurance policy to secure any support obligation.
+[17] The Superior Court of Justice issued an order (the “Order”) dated September 28, 2010. The Order states:
+. . . on reading the signed Minutes of Settlement
+THE COURT ORDERS THAT:
+1. The net proceeds of sale of the matrimonial home in the amount of $14,348.45 shall be released forthwith to the Applicant.
+2. The joint Scotia line of credit and joint Scotia Visa Account #942 039 shall be refinanced by the parties such that each party assumes responsibility for one-half of the balance currently owing in relation to each of the aforesaid debts. The parties shall proceed forthwith to refinance the aforesaid debts and each shall provide proof to the other no later than October 4, 2010 of the fact that his or her one-half share of each of the aforesaid debts has been paid off or refinanced by a loan owed solely by that party.
+3. The Respondent shall pay non-variable and non-taxable spousal support to the Applicant in the amount of $685.58 per month for a period of 48 months commencing October 1, 2010 to and including September 1, 2014.
+4. The Respondent shall maintain a life insurance policy or policies having a face amount of at least $35,000.00 naming the Applicant as irrevocable beneficiary as long as he is required to pay support to the Applicant. The Respondent shall provide the Applicant’s solicitor with proof of such coverage within 14 days by October 8, 2010. If the Respondent dies without the life insurance required by this provision in effect, his obligation to support the Applicant shall be a first charge against his estate.
+5. Unless the support order is withdrawn from the Family Responsibility Office, it shall be enforced by the Director and amounts owing under the order shall be paid to the Director, who shall pay them to the person to whom they are owed. A support deduction order will be issued.
+6. The Respondent shall forthwith withdraw his Answer and the Applicant shall proceed with the divorce on an uncontested basis.
+7. Each party shall pay his or her own costs of this proceeding.
+8. This order bears post-judgment interest at the Courts of Justice Act rate, effective from the date of this order. Where there is a default in payment the payment in default shall bear interest only from the date of default.
+[18] The Minutes of Settlement provide as follows:
+The parties agree to settle all issues in this matter on a final basis, as follows:
+1. The net proceeds of sale of the matrimonial home in the amount of $14,348.45 shall be released forthwith to the Applicant.
+2. The joint Scotia line of credit and joint Scotia Visa Account #942 039 shall be refinanced by the parties such that each party assumes responsibility for one-half of the balance currently owing in relation to each of the aforesaid debts. The parties shall proceed forthwith to refinance the aforesaid debts and each shall provide proof to the other no later than October 4, 2010 of the fact that his or her one-half share of each of the aforesaid debts has been paid off or refinanced by a loan owed solely by that party.
+3. The Respondent shall pay non-variable and non-taxable spousal support to the Applicant in the amount of $685.58 per month for a period of 48 months commencing October 1, 2010 to and including September 1, 2014.
+4. Subject to the payment in full of the support owing by the Respondent at paragraph 3 herein and subject to each of the parties complying with paragraph 2 herein, the parties release and discharge each other from any entitlement to an equalization payment pursuant to Part 1 of the Family Law Act.
+5. The Respondent shall maintain a life insurance policy or policies having a face amount of at least $35,000.00 naming the Applicant as irrevocable beneficiary as long as he is required to pay support to the Applicant. The Respondent shall provide the Applicant’s solicitor with proof of such coverage within 14 days of signing these Minutes of Settlement. If the Respondent dies without the life insurance required by this provision in effect, his obligation to support the Applicant shall be a first charge against his estate.
+6. The support shall be enforced by the Director and amounts owing under the order shall be paid to the Director, who shall pay them to the person to whom they are owed. A support deduction order will be issued.
+7. The Respondent shall forthwith withdraw his Answer and the Applicant shall proceed with the divorce on an uncontested basis.
+8. Each party shall pay his or her own costs of this proceeding.
+[19] In the Order, paragraphs 1, 2, 3, 5, 7 and 8 of the Minutes of Settlement are adopted essentially without modification. As well, paragraph 6 is adopted in the Order subject only to a caveat about the withdrawal of the Order.
+[20] The ex-husband did not meet his obligations under the Order and Ms. McBride was forced to bring before the Superior Court of Justice a motion for contempt on the basis that the ex-husband did not comply with paragraphs 2 and 4 of the Order. The motion was heard on January 6, 2011 and the Superior Court of Justice issued an Endorsement on January 7, 2011 (2011 ONSC 174). The Court found the ex-husband in contempt with respect to paragraph 2 of the Order and ordered the parties to return to court on January 13, 2011 for the following purposes:
+i) To determine whether the respondent has by then complied with paragraph 4 of the order;
+ii) To determine whether the respondent is able to purge his contempt by complying with paragraph 2 of the order;
+iii) To determine the order that will be imposed to address the respondent’s contempt;
+iv) To determine costs of this motion.
+With respect to (iii) above, I invite submissions by counsel with respect to the potential remedy raised by the court at the conclusion of argument of this motion, which, in addition to any other order permissible under r.31(5), might be an award of damages to the applicant for breach of the agreement to be paid as a spousal support payment.
+[21] On January 13, 2011, the Superior Court of Justice issued a new order (the “New Order”) that stated:
+1. The Respondent shall pay non-variable and non-taxable spousal support to the Applicant in the amount of $1,163.70 commencing October 1, 2010 for a period of 48 months, to and including September 1, 2014, and the Order of September 28, 2010 is so varied.
+2. The Respondent shall continue to maintain the Applicant as a beneficiary of his group benefits life insurance policy to the extent of $35,000.00 coverage. In the event that the policy is no longer available to him he shall obtain a replacement policy for the same amount of coverage and provide proof of the new coverage within 20 days of losing his existing policy.
+3. If the Respondent dies without this insurance in place any spousal support payments remaining due under this Order shall be a first charge on his estate.
+4. The Respondent shall pay costs in the amount of $5,189.00 payable in 30 days.
+5. Unless the support order is withdrawn from the Family Responsibility Office, it shall be enforced by the Director and amounts owing under the order shall be paid to the Director, who shall pay them to the person to whom they are owed. A support deduction order will be issued.
+6. This order bears post-judgment interest at the Courts of Justice Act rate, effective from the date of this order. Where there is a default in payment the payment in default shall bear interest only from the date of default.
+[22] The New Order addresses the ex-husband’s share of the family debt by increasing the monthly payments to Ms. McBride from $685.58 to $1,163.70. The increase of $478 is equal to one-half of the amount of the Scotiabank debt identified in paragraph 21 of the Endorsement divided by 48. The approach of adding the ex-husband’s share of the family debt to the spousal support payments is consistent with the general approach identified in the last paragraph of the Endorsement.
+[23] Ms. McBride testified that the monthly payments provided for in paragraph 3 of the Order were intended to provide her with the equivalent of an equalization payment. Similarly, the monthly payments provided for in paragraph 1 of the New Order were intended to provide her with the equivalent of an equalization payment and her ex-husband’s share of the family debt. In cross-examination, Ms. McBride admitted that the monthly payments were referred to in the two orders as “spousal support” and that there were no restrictions on her use of the monthly payments.
+A. The Appellant’s Position [24] The Appellant argued that the 48 monthly payments required by paragraph 1 of the New Order were simply another way of paying the equalization payment and her ex-husband’s share of the family debt. She submitted that the two orders must be read in their entirety and that, in substance, the New Order was providing for the payment of these two amounts over time. The Appellant further submitted that, if paid as a lump sum, the equalization payment and the ex-husband’s share of the family debt would not be taxable in her hands and that the payment of these amounts over time should be treated no differently. The Appellant argued that the statement in both orders that the monthly payments were “non-variable and non-taxable” was intended to reflect this fact.
+B. The Respondent’s Position [25] The Respondent cited Gagnon v. The Queen, [1986] 1 S.C.R. 264 at 267 as support for the existence of four conditions for an amount to be a “support amount” as defined in subsection 56.1(4) of the ITA:
+. . . First, the amount paid by the taxpayer has to be paid pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement. Second, the amount paid has to be paid as alimony or other allowance payable for the maintenance of the recipient, children of the marriage or both the recipient and children of the marriage. Third, the amount has to be paid on a periodic basis. Fourth, at the time the payment was made and throughout the remainder of the year, the taxpayer had to be living apart from, and be separated pursuant to a divorce, judicial separation or written separation agreement from, his spouse or former spouse to whom he was required to make the payment.
+[26] The Respondent submitted that the terms of the Order and the New Order were clear and dispositive of the issue as the orders provided for the payment of monthly spousal support payments that the Appellant could use as she saw fit and that were received while the Appellant and her ex-husband were divorced and living apart. In light of the clear words used in the orders, the payments could not be considered to be equalization payments or the payment of the debt. The Respondent submitted that, in the case of the Order, this interpretation was supported by the fact that the total of the 48 support payments provided for therein did not match the amount that was originally proposed to be paid as an equalization payment.
+[27] The Respondent submitted that the original application to the Superior Court of Justice asked for an equalization payment and for spousal support and that the payment of spousal support was therefore contemplated by the parties. The Respondent also noted that the Appellant was represented by counsel in the divorce proceedings. If the Appellant had any doubt regarding the wording of the orders then the remedy was to appeal the wording of the orders. The Respondent cited Yourkin v. The Queen, 2008 TCC 686 for the proposition that the Tax Court of Canada has no authority to collaterally attack or amend an order of the Superior Court of Justice.
+[28] Finally, the Respondent cited paragraph 16 of Bates v. The Queen, [1998] T.C.J. No. 660 (QL), 98 DTC 1919, for the proposition that the statement in the orders to the effect that the support payments are “non-taxable” is not binding on the Tax Court of Canada.
+III. The Law [29] Paragraph 56(1)(b) of the ITA states in part:
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B+C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+[B and C are not relevant to this case.]
+[30] The term “support amount” is defined in subsection 56.1(4) as follows:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+IV. Analysis [31] The New Order provides for the payment to Ms. McBride of monthly spousal support of $1,163.70. Ms. McBride conceded that there are no restrictions placed on the use of the monthly payments.
+[32] The Minutes of Settlement indicate that, immediately prior to the hearing on September 28, 2010, Ms. McBride and her ex-husband negotiated a settlement that waived Ms. McBride’s right to the equalization payment previously agreed to in exchange for the monthly payments described in paragraph 3 of the Minutes. The wording describing the payments in the Minutes of Settlement was adopted without modification in paragraph 3 of the Order.
+[33] The Minutes of Settlement further indicate that the monthly spousal support payments were to be made instead of an equalization payment. This is made clear by paragraph 4 in which the parties release and discharge each other from “any entitlement to an equalization payment”. This interpretation is also supported by the fact that the total amounts do not match: the equalization payment payable under the Separation Agreement is $31,821.67 (i.e., $38,995.89 less one-half of $14,348.45) while the sum of the monthly payments under the Order is $32,907.84. Ms. McBride was not able to explain the reason for this difference.
+[34] The monthly spousal support payment was increased in paragraph 1 of the New Order by $478 to compensate Ms. McBride for her ex-husband’s share of the family debt. The last paragraph of the Endorsement, reproduced above, identifies the logic behind this approach:
+With respect to (iii) above, I invite submissions by counsel with respect to the potential remedy raised by the court at the conclusion of argument of this motion, which, in addition to any other order permissible under r.31(5), might be an award of damages to the applicant for breach of the agreement to be paid as a spousal support payment.
+[35] I have concluded from the totality of the evidence that the parties accepted the Court’s suggestion that the ex-husband’s share of the family debt should be paid in the form of additional support payments. No doubt, Ms. McBride did not take issue with this because the payments were described in the Minutes of Settlement and in the two orders as “non-taxable”.
+[36] The monthly payments made to Ms. McBride in 2012 in accordance with paragraph 1 of the New Order fall squarely within the definition of “support amount” in subsection 56.1(4) of the ITA. The payments were to be made monthly (i.e., on a periodic basis) to Ms. McBride. The New Order describes the payments as “spousal support” and there are no restrictions on the use of the payments, which factors together imply that the payments were an allowance for the maintenance of Ms. McBride and were not for some other, specific purpose. The payments were made to Ms. McBride by her former spouse pursuant to an order of the Superior Court of Justice. Ms. McBride received the payments while she was living separate and apart from her former spouse because of a breakdown of their marriage. I also note that the payments were made through, and enforced by, the Director of the Family Responsibility Office, and the report from that office dated August 11, 2014 describes each payment as an “Amount of recurring support obligation under a court order or contract”.
+[37] The orders of the Superior Court of Justice do say that the monthly spousal support payments are non-taxable but such a statement is not determinative of the status of the payments under the ITA as taxable or non-taxable receipts. In Bates v. The Queen, supra, the Tax Court of Canada referred to an earlier judgment of the Federal Court, Trial Division (as it then was) and then stated, at paragraph 13:
+In my view, Jerome, A.C.J. has correctly summarized the law when he states that the liability for tax does not spring from a separation agreement or a Court Order. The liability for tax is determined by the provisions of the Income Tax Act and, more particularly, by section 56.
+[38] In the circumstances, I find that the 12 monthly payments in the aggregate amount of $13,964 received by Ms. McBride from her ex-husband in 2012 pursuant to the order of the Superior Court of Justice dated January 13, 2011, are to be included in her income for that taxation year pursuant to paragraph 56(1)(b) of the ITA because each of the 12 payments is a “support amount” as defined in subsection 56.1(4) of the ITA.
+[39] For the foregoing reasons, the appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 16th day of February 2015.
+“J.R. Owen”
+Owen J.
+CITATION:
+2015 TCC 31
+COURT FILE NO.:
+2014-2631(IT)I
+STYLE OF CAUSE:
+CATHRYN MCBRIDE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 8, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+February 16, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Kaylee Silver
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

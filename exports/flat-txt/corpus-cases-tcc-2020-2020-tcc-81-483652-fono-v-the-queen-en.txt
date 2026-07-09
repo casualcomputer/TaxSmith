@@ -1,0 +1,148 @@
+Title: Fono v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483652/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-81-483652-fono-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-06
+
+# Fono v. The Queen
+
+- Citation: 2020 TCC 81
+- Decision date: 2020-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4547, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fono v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-06
+Neutral citation
+2020 TCC 81
+File numbers
+2019-3774(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-3774(IT)I
+BETWEEN:
+GABRIEL LAROUX FONO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 20 and 24, 2020, at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Judith Lemieux
+JUDGMENT
+The appeal from the reassessment issued under the Income Tax Act for the 2005 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the previously allowed reduction in rental income will be amended from $19,190 to $19,219, a reduction of $29.
+In all other regards, the reassessments previously issued by the Minister of National Revenue for the 2004, 2006, 2007 and 2008 taxation years remain unchanged.
+Signed at Ottawa, Canada, this 6th day of August 2020.
+"Johanne D'Auray"
+D'Auray J.
+Citation: 2020 TCC 81
+Date: 20200806
+Docket: 2019-3774(IT)I
+BETWEEN:
+GABRIEL LAROUX FONO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D'Auray J.
+[1] On January 12, 2017, Associate Chief Justice Lamarre of this Court rendered a judgment in accordance with a consent to judgment filed by the parties with respect to the 2004, 2005, 2006, 2007 and 2008 taxation years (the years at issue).
+[2] Following that judgment, the Minister of National Revenue (Minister) made errors in establishing the assessments. The reassessments (assessments), notice of which is dated June 30, 2017, are inconsistent with the judgment rendered by this Court. Since the assessments are inconsistent with the judgment, the appellant has no choice but to object to the assessments made by the Minister for the years at issue. In that regard, the appellant filed a notice of objection with the Minister on March 21, 2018.
+[3] After the appellant filed the notice of objection, the Minister found that the assessments, notice of which is dated June 30, 2017, are inconsistent with the judgment. To correct that situation, the Minister issued assessments for the years at issue, notices of which are dated July 19, 2019. The following changes were made to the assessments:
+Taxation year
+Rental income
+Increase in non‑refundable tax credit
+2004
+$0
+$3,125
+2005
+($219)
+$0
+2006
+$1,485
+$0
+2007
+$1,485
+$0
+2008
+$1,656
+$0
+[4] However, the assessments dated July 19, 2019, are still inconsistent with the judgment. Consequently, on October 18, 2019, the appellant filed an appeal with this Court. The appellant argues that the notices of assessment dated July 19, 2019, do not reflect all the terms of the judgment rendered by this Court on January 12, 2017.
+[5] After the appellant filed the notice of appeal, the Minister found that the assessments, notices of which are dated July 19, are not consistent with all the terms of the judgment. To correct that situation, the Minister issued assessments, notices of which are dated November 19, 2019, for the 2008 taxation year and November 27, 2019, for the 2006 and 2007 taxation years. The following changes were made to the assessments:
+Taxation year
+Rental income
+2006
+($2,970)
+2007
+($2,970)
+2007
+($3,312)
+[6] Furthermore, during the hearing, the respondent admitted that another change needs to be made for the 2005 taxation year. The reduction in rental income should be $19,219, whereas the notice of assessment states $19,190. Therefore, an additional reduction of $29 applies to the 2005 taxation year.
+ISSUE
+[7] Are the assessments issued by the Minister consistent with the judgment rendered by this Court on January 12, 2017, with respect to the 2004, 2005, 2006, 2007 and 2008 taxation years?
+ANALYSIS
+[8] In light of these facts, it is easy to understand that the appellant has lost confidence in the Minister's ability to issue correct assessments for the years at issue. At the hearing, the appellant asked whether the assessments issued by the Minister are final or whether the Minister has the authority to issue increased assessments. I explained to the appellant that the Minister does not have the authority to issue increased assessments. Moreover, res judicata applies in this appeal, with a judgment having been rendered on January 12, 2017, and, in any event, the years are time barred.
+[9] After having analyzed the terms of the judgment rendered on January 12, 2017, I am of the opinion that the various assessments issued by the Minister are consistent with the judgment. I have also considered the respondent's admission during the hearing regarding the 2005 taxation year. In that regard, the appellant admitted at the hearing that all of the terms of the judgment are now reflected in the various assessments.
+[10] Following the questioning of the appellant, I am also of the view that the Minister correctly assessed the appellant's GST tax credit provided for in section 122.5 of the Income Tax Act (the Act) and the Canada Workers Benefit [1] provided for in section 122.7 of the Act. In other words, in making the assessments, the Minister considered the reduction in the appellant's income in calculating his tax credits.
+[11] During the hearing, the appellant also requested that I order that the Minister cancel the interest payable. The appellant also raised questions concerning the recovery of debts prior to the years at issue. This Court does not have jurisdiction to order the Minister to cancel interest payable by a taxpayer. This Court also does not have jurisdiction to decide issues concerning the recovery of tax debts. This Court's jurisdiction is limited to appeals from assessments issued by the Minister under section 171 of the Act.
+[12] However, with respect to interest, I referred the appellant to subsection 220(3.1) of the Act. That provision enables a taxpayer to apply to the Minister to cancel or waive interest. As I mentioned above, this Court cannot order the Minister to cancel or waive interest. However, the Court can recommend that the Minister exercise the discretion to cancel or waive interest payable.
+[13] In this case, the parties consented to the judgment on December 21, 2016. This Court rendered a judgment approving that consent to judgment on January 12, 2017. The Minister had to issue four assessments to make them consistent with this Court's judgment. The most recent assessments are dated from November 2019. Moreover, another error slid through the cracks concerning the 2005 taxation year. I do not see why the appellant should pay interest for errors made by the Canada Revenue Agency. The first assessment following this Court's judgment, notice of which is dated June 30, 2017, ought to have been consistent with the judgment rendered by this Court. The appellant is not responsible for the delay resulting from the issuance of incorrect assessments.
+[14] Subsection 220(3.1) of the Act authorizes the Minister to exercise the discretion to waive interest. The relevant excerpt of that provision reads as follows:
+220 (3.1) The Minister may, on or before the day that is ten calendar years after the end of a taxation year of a taxpayer . . . waive or cancel all or any portion of any . . . interest . . . payable under this Act by the taxpayer . . . in respect of that taxation year . . .
+[15] In Bozzer v. Canada [2] , Justice Stratas of the Federal Court of Appeal interpreted subsection 220(3.1) of the Act. He found that this subsection authorizes the Minister to exercise the discretion to cancel interest accrued during any taxation year ending in the 10 years preceding the taxpayer's request for relief. Therefore, the year in which the tax debt was incurred is irrelevant.
+[16] In this case, I do not know the date on which the appellant applied to the Minister to have the interest payable cancelled. If the appellant is still within the time limits, I recommend that the Minister exercise the discretion and cancel the interest payable in light of the facts of this case.
+[17] If the 10‑year time limit has elapsed, I recommend that the Minister issue a remission order.
+[18] Consequently, the appeal is allowed. The reassessment for the 2005 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that the previously allowed reduction in rental income will be amended from $19,190 to $19,219, a reduction of $29.
+[19] In all other regards, the reassessments previously issued by the Minister for the 2004, 2006, 2007 and 2008 taxation years remain unchanged.
+[20] Without costs.
+Signed at Ottawa, Canada, this 6th day of August 2020.
+"Johanne D'Auray"
+D'Auray J.
+CITATION:
+2020 TCC 81
+COURT FILE NO.:
+2019-3774(IT)I
+STYLE OF CAUSE:
+GABRIEL LAROUX FONO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+July 20 and 24, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT:
+August 6, 2020
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Judith Lemieux
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Working Income Tax Benefit was introduced in 2007 by subsection 32(1) of S.C. 2007, c. 35, and applies to the 2007 and subsequent taxation years. In 2018, the Working Income Tax Benefit became the Canada Workers Benefit.
+[2] Bozzer v. Canada, 2011 FCA 186.

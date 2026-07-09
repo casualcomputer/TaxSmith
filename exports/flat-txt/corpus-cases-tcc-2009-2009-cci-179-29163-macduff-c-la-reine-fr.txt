@@ -1,0 +1,124 @@
+Title: Macduff c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29163/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-179-29163-macduff-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-31
+
+# Macduff c. La Reine
+
+- Citation: 2009 CCI 179
+- Decision date: 2009-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6723, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Macduff c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-31
+Référence neutre
+2009 CCI 179
+Numéro de dossier
+2008-1574(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008‑1574(IT)I
+ENTRE :
+MARK MACDUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 mars 2009, à Winnipeg (Manitoba)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Cam Regehr
+____________________________________________________________________
+JUGEMENT
+Les appels formés contre les nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 31e jour de mars 2009.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009CCI179
+Date : 20090331
+Dossier : 2008‑1574(IT)I
+ENTRE :
+MARK MACDUFF,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question soulevée dans le présent appel est de savoir si les sommes payées par l’appelant à The Laureate Academy en 2005 et 2006 sont des frais médicaux, selon ce que prévoit l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu (la Loi).
+[2] L’appelant était l’unique témoin. Il a déclaré que sa fille Kelsey était atteinte de dyslexie. Elle a de la difficulté à lire, à comprendre et à saisir. Il sait personnellement les obstacles auxquels se heurte une personne atteinte de dyslexie, puisque lui‑même est dyslexique.
+[3] Il a dit que le réseau scolaire ordinaire n’offre aucun programme pouvant aider les élèves atteints de dyslexie. À The Laureate Academy, les classes étaient de taille modeste, et Kelsey pouvait obtenir un enseignement personnalisé. Elle a réussi à obtenir ses certificats de neuvième année et de dixième année, ainsi qu’une unité de valeur en vue de son certificat de onzième année.
+[4] L’alinéa 118.2(2)e) de la Loi prévoit ce qui suit :
+(2) Frais médicaux -- Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+e) [école, institution, etc.] -- pour le soin dans une école, une institution ou un autre endroit — ou le soin et la formation — du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qu’une personne habilitée à cette fin atteste être quelqu’un qui, en raison d’un handicap physique ou mental, a besoin d’équipement, d’installations ou de personnel spécialisés fournis par cette école ou institution ou à cet autre endroit pour le soin — ou le soin et la formation — de particuliers ayant un handicap semblable au sien;
+[5] Pour déduire des frais selon cet alinéa, l’appelant doit pouvoir répondre aux critères suivants énoncés dans la décision Collins c. Canada[1] :
+1. Le contribuable doit payer des frais pour le soin dans une école, une institution ou un autre endroit — ou le soin et la formation — du particulier.
+2. Le particulier doit avoir un handicap mental.
+3. L'école, institution ou autre endroit doit fournir au particulier ayant le handicap de l'équipement, des installations ou du personnel spécialisés pour le soin — ou le soin et la formation — de particuliers ayant le même handicap.
+4. Une personne habilitée à cette fin doit attester que le handicap physique ou mental est la raison pour laquelle le particulier a besoin que l'école fournisse l'équipement, les installations ou le personnel spécialisés pour le soin — ou le soin et la formation — de particuliers ayant le même handicap.
+[6] L’intimée a admis que l’appelant répondait aux deux premières exigences.
+[7] L’appelant n’avait pas de documents en sa possession car ils avaient été détruits. J’ai prié l’intimée de présenter les documents qui avaient été examinés par l’Agence du revenu du Canada (l’ARC) à l’étape de l’opposition.
+[8] Ces documents comprenaient une lettre de The Laureate Academy datée du 3 avril 2007, dans laquelle le directeur général de cet établissement écrit ce qui suit :
+[TRADUCTION]
+La qualification, comme frais médicaux, des frais de scolarité payés à The Laureate Academy a été examinée par Revenu Canada en septembre 1996. À cette date, il a été jugé que The Laureate Academy avait l’équipement, les installations et/ou le personnel spécialisés requis pour s’occuper adéquatement des élèves handicapés que nous servons. M. Vincent Wold, du Centre fiscal de Revenu Canada à Winnipeg, a conclu que « les frais de scolarité payés à The Laureate Academy seront considérés par Revenu Canada comme des frais médicaux ».
+[9] Je n’ai pas accepté que la lettre établissait que l’appelant remplit le troisième critère, étant donné que l’intimée n’a pas eu la possibilité de contre‑interroger l’auteur de la lettre.
+[10] La Cour d'appel fédérale a jugé quant à elle que, aux fins de savoir si une institution fournit des soins spécialisés ainsi que le prévoit l’alinéa 118.2(2)e), le critère à appliquer est un critère d’objet[2]. Aucune preuve n’a été produite à propos de l’objet de The Laureate Academy.
+[11] S’agissant de savoir si une personne qualifiée a certifié que la fille de l’appelant avait besoin de l’équipement, des installations ou du personnel spécialisés fournis par The Laureate Academy, le juge Trudel écrivait ce qui suit, dans l’arrêt Canada c. Scott[3] :
+23 Cependant, il faut une véritable attestation : une attestation qui précise le handicap mental ou physique qu’a le patient, et l’équipement, les installations ou le personnel dont le patient a besoin afin d’obtenir le soin ou la formation nécessaire pour faire face à ce handicap : Canada c. Title, Succession, [2001] A.C.F. no 530, au paragraphe 5.
+[12] Parmi les documents examinés par l’ARC, figurait une lettre datée du 29 mai 2007, écrite par un certain Dr Robinson. Il écrivait ce qui suit :
+[TRADUCTION]
+Kelsey a fréquenté The Laureate Academy de septembre 2005 à juin 2007, et elle a tiré profit de cette ressource supplémentaire. Cela lui a permis d’élever ses résultats scolaires à un niveau acceptable.
+[13] Cette lettre n’équivaut pas à une attestation.
+[14] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 31e jour de mars 2009.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 12e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009CCI179
+N° DU DOSSIER DE LA COUR : 2008‑1574(IT)I
+INTITULÉ : MARK MACDUFF ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 26 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 31 mars 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Cam Regehr
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1998] A.C.I. n° 396.
+[2] Lister c. Canada, 2006 CAF 331.
+[3] 2008 CAF 286.

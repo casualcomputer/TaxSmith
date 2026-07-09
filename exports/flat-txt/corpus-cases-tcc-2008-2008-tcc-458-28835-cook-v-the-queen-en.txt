@@ -1,0 +1,180 @@
+Title: Cook v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28835/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-458-28835-cook-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-08-12
+
+# Cook v. The Queen
+
+- Citation: 2008 TCC 458
+- Decision date: 2008-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1345, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cook v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-12
+Neutral citation
+2008 TCC 458
+File numbers
+2007-4273(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4273(IT)I
+BETWEEN:
+SHELAGH JEAN COOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 5, 2008 and June 20, 2008
+at Vancouver, British Columbia
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Agent for the Appellant:
+John Cook
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the Appellant’s 2005 taxation year is allowed with respect to the legal fees in the amount of $3441.17 and the spousal amount of $7344.00, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+In all other respects, the appeal is dismissed.
+The Appellant is not entitled to any further relief.
+Signed at New Glasgow, Nova Scotia, this 12th day of August 2008.
+“T. E. Margeson”
+Margeson J.
+Citation: 2008TCC458
+Date: 20080812
+Docket: 2007-4273(IT)I
+BETWEEN:
+SHELAGH JEAN COOK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.
+[1] The appellant initially filed a notice of appeal with respect to her 2001, 2002, 2003, 2004, 2005 and 2006 taxation years. At the beginning of the trial in all of these matters, the respondent moved for dismissal of the appeals for the 2001, 2002 and 2004 taxation years and this motion was allowed.
+[2] An order dismissing these appeals was signed on the 28th day of March 2008.
+[3] The hearing of the appeals for the remaining years went ahead on March 5, 2008 and was concluded on June 20, 2008.
+[4] The Minister conceded that the appeal should be allowed with respect to legal fees in 2005 in the amount of $3441.17 and the spousal amount of $7344.00 in computing her non-refundable tax credits for the 2005 taxation year, pursuant to paragraph 118(1)(a) of the Act.
+[5] That leaves for decision the claim for deduction of the business expenses in 2005, the non-refundable tax credit for mental or physical impairment, transferred from spouse in 2003 and 2005 and the late filing penalty of $628.02 for the 2005 taxation year pursuant to sub-section 162(1) of the Act.
+Evidence
+[6] John James Alexander Cook said that the appellant was involved in a new type of marketing program which went nowhere. It involved placing material on a disc and distributing it. No revenue was received from it. It was his wife’s business but he tried to run it. She was only claiming part of the expenses incurred and only for the year 2005.
+[7] His wife was claiming a portion of the interest on the mortgage of their home. The amount being claimed was $1151.88
+[8] In cross-examination he said that they had a business plan (but he did not have it in Court), there were no sales and there was no income earned. The idea was his, but his wife provided the money. The expenses were paid by him including the telephone and utilities of $131.21. These were not personal expenses.
+[9] With respect to the expenses relative to the home, he did not have the receipts with him. The only basis for saying that the expenses were those of the appellant was that it was her money. She was not involved in the business.
+[10]The appellant did not testify, but the Minister agreed not to ask the Court to draw any unfavourable inferences from her failure to testify in regard to the disallowed expenses.
+[11]The witness was recalled after the adjournment to June 20, 2008. He said that he ran in an election in January of 2006 as Jack Cook. He was a serious candidate. He ran as an independent. He was opposing the other candidate and was also testing a marketing concept.
+[12]He had materials for advertising. He had a D.V.D. which talked about his background and negative statements about the other candidate.
+[13]He presented the cover of the D.V.D. into evidence as R2 and the D.V.D. as R1. It was recorded in 2005 and was done professionally. 38,000 copies were produced. They were mailed out to constituents through Canada Post. He also had a website.
+[14]Exhibit R3 was introduced. It was part of the website.
+[15]He had an official agent and was required to report to Elections Canada. These were introduced as exhibit R4. The invoice of the official agent was for $37,900.
+[16]Exhibit R5 was the invoice for $46,662.48 from Sprite Computers.
+[17]He agreed that at the hearing in March he had said that this was a business receipt for marketing but agreed that this was used in the election campaign. His explanation was that it was used as a marketing concept to show that it could be used in an election campaign and it was successful. Then he said that he was not asked about it in March.
+[18]He agreed that the receipts A-2 were presented in March as business receipts and all except one were claimed as election expenses. The receipt for $66.87 to Shoppers had nothing to do with the marketing business. The $18.83 claim for work in the office was not in 2005 and should not have been used. The $5888.89 for Canada Post was an election expense and was not in 2005. The $2500 deposit was for the campaign. Then he said that the expenses in 2006 were not claimed in 2005.
+[19]He was referred to the statement of business activities, A3, and said that the $1151.88 amount for mortgage interest was for business only but he had no receipt. They calculated it.
+[20]The amount of $2251.33 for interest was pro-rated. He had no receipt for the $131.21. The $2739.40 listed as other expenses were campaign expenses. He did not know what portion was for the campaign.
+[21]The total of these amounts was $22,000, plus or minus. He claimed $24,152.49
+[22]He claimed $2120.38 for business use of the house but he had no documents and no breakdown. Then he said “we sent it in.” They sent the receipts in with the disability tax certificate and they were not returned, according to him.
+[23]The disability tax certificate filed was not the original one that he sent in to the Canada Revenue Agency.
+[24]Exhibit A4 was admitted by consent, subject to weight.
+[25]With respect to his mental disability, he said that his troubles started in 2003. He was sleeping 20 hours per day, he lost over 30 pounds and had no interest in life, his family of business. He showed outbursts towards his family. His wife advised him to go to counselling. He went to see his doctor, then to another doctor who assigned him to Dr. Wilson and met him several times.
+[26]He was given drugs for 2 years. These had some side effects. He felt like he was in a bubble. By the latter part of 2005 he felt much better, but could only deal with one issue. He was unable to multi-task anything. If anything was too complicated, he walked away from it.
+[27]He hired a lawyer to take on his responsibilities. By 2005 he was off drugs and doing better. He needed to do something and became more focused on life. He “could not down load” small problems from his mind.
+[28]At first the drugs made him combative and angry. His blood pressure was up. He did not improve until he got the second drug which was in about six months.
+[29]By the latter part of 2004 things started to change but “he did not know what it was.”
+[30]He was involved in a business in 2003, the “Segway” business. In 2004 he started a legal action in the British Columbia Supreme Court. He had counsel, he swore affidavits, had a writ of summons issued in May of 2004 as well as a statement of claim.
+[31]He swore an affidavit on February 7, 2005 which was introduced as Exhibit R-6.
+[32]He said that for 70% of the time, or all or almost all of the time, he was affected. The latter part of 2003 and almost all of 2004 was the worst period of his life.
+[33]By the mid part of 2005 he may have been able to conduct a business deal.
+[34]He reiterated that with respect to the business there were no sales. It did not progress beyond the idea stage. They test drove the marketing idea, got no sales but tried to get sales. The appellant had no involvement in the business. The account was in his name. His wife financed it. The house and mortgage were in her name.
+Argument on behalf of the Respondent
+[35]Apart from those points conceded, the remainder of the appeal should be dismissed. The claim for the loss of $24,000 and other claimed expenses related to the D.V.D. There was no income from it.
+[36]With respect to the expenses claimed in schedules D and E in the Reply, they should be disallowed as there were no receipts and they were personal.
+[37]The evidence does not support the position that they were deductible. These expenses related to his election campaign.
+[38]Credibility is an issue here. In March he said that the expenses were for the business and in June he said that they were for the election campaign. The onus is on the appellant. If there was a D.V.D. marketing business, it was the husband’s and not the appellant’s.
+[39]The expenses were not for a business. It was his business. The evidence does not support the position that it ever got off the ground. It was only at the idea stage. The only marketing done was for his election campaign.
+[40]There was no other credible evidence to back up that of the husband regarding the expenses. The burden has not been met. Apart from Exhibit A2 every other expense was for the husband’s election campaign.
+[41]There are no receipts that add up to the amounts referred to in Schedule “D” in the Reply.
+[42]If the Court finds that the appellant was in business in 2005 then late filing penalties should be reduced by 6 weeks.
+[43]The RRSP amounts will be calculated based upon the results of the appeal, including the fact that the legal expenses were allowed.
+[44]With respect to the disallowed disability tax credits, the appellant’s husband was not markedly restricted in 2003 and 2005. Therefore his wife is not entitled to the deduction.
+[45]The threshold is very high. It is rigorous. There is not much room to manoeuvre. The burden has not been met. A certificate alone may not be enough.
+[46]The certificate does not speak to the year 2003. The doctor did not meet with the husband until 2004. The doctor did not testify.
+[47]The husband did not suffer on a continuous basis for 12 months, according to his evidence. His condition was up and down. He could function at times. He has not met the requirements of paragraph 118.4(1)(a).
+[48]Under paragraph 118.4(1)(b) “all or substantially all of the time” is more than 70% of the time. According to the husband, he suffered about 70% of the time. There was no evidence given otherwise.
+[49]The evidence with respect to the year 2003 suggests that he was not impaired all or substantially all of the time.
+[50]With respect to the Certificate, it should be given no weight for 2003. The year 2004 is not before this Court.
+[51]With respect to the year 2005, without the evidence of the doctor or his wife, his evidence does not amount to very much at all.
+[52]In 2005 he was good enough to do this marketing concept and was considering running for public office.
+[53]In cases where the appeal was allowed, the situation was much different from here.
+[54]Mr. Cook’s impairment does not rise to the level of impairment established in the cases where the appeal was allowed.
+[55]The husband’s condition was serious, but without more evidence to explain the certificate and without his wife’s testimony, the onus has not been met.
+[56]There should be an unfavourable inference drawn because the wife did not testify about his disability and none of his doctors testified.
+[57]The appeal should be dismissed.
+Argument on behalf of the appellant
+[58]The husband argued that there are many different levels of mental illness. Not only one factor is involved. He did not file an appeal against a million dollar tax case because he could not address the issue. The ability to perform the functions of daily living was missing from his life.
+[59]Further, it is stressful for the appellant to be here. It should not be held against her.
+[60]It takes a while to establish income from a business. The primary purpose was to establish a marketing concept, the campaign was secondary, to prove that the product worked.
+[61]The respondent argued that the husband did not say that there was a campaign when he testified in March. However, all of the receipts indicated that.
+[62]It was past the idea concept and was actually tested.
+[63]There were no documents presented with respect to the house, but any responsible person would know that there are expenses and these receipts were sent.
+[64]The appellant’s primary argument is that the appellant financed the business.
+[65]The appeal should be allowed.
+Analysis and Decision
+[66]The Court is satisfied, that apart from the matters conceded by the Minister, the burden is on the appellant to show on a balance of probabilities that the other expenses claimed were business expenses in the year that they were claimed, that they were expended and that they were not personal expenses. The evidence given by the only witness called on behalf of the appellant falls far short of meeting these requirements.
+[67]The receipts produced were inadequate in many respects but where they were indicative of expenditures, they very clearly showed that they related to the personal election campaign of the appellant’s husband, in many cases, and had nothing to do with a business allegedly operated by the appellant.
+[68]It is clear from the evidence of the husband himself that he ran the operation from the beginning to the end and the only part played by the appellant was in “bankrolling” the husband’s adventure.
+[69]The husband’s own testimony showed clearly that he claimed many of the expenses as part of his election campaign and the Court disagrees with the argument that the expenses claimed could be for both the election and any business which the husband claimed to operate.
+[70]If the appellant loaned money to the husband’s business there may very well have been another avenue for her to claim these amounts, but it was not by claiming to operate a business which she was clearly not doing.
+[71]Counsel for the respondent raised the issue of credibility in indicating that on the first day of trial the husband was indicating that all of the expenses related to business and on the second day of trial he said they were claimed as election expenses. This gave the Court some concern when it heard his evidence on the second day of trial and this concern was not alleviated by the husband’s indication that they could be for both. The Court takes him to have meant that if they had been allowed by the returning officer as election expenses, then they would not have been claimed as business expenses.
+[72]It does appear to the Court that the attempt to claim these as business expenses did not come about until the husband realized that he was not going to be reimbursed for the expenses by the returning officer.
+[73]Apart from the unconvincing evidence of the husband, there was no credible evidence that would entitle the Court to conclude that these claimed expenses were deductible.
+[74]The Court agrees that there were no proper receipts which added up to the amounts claimed in Schedules “D” and “E” of the reply.
+[75]In argument, the husband made light of the fact that the Minister was questioning the claim for home expenses by saying that any responsible person would know that these were expenses. However, this is not evidence which goes to establishing what the expenses were for and what was their total.
+[76]The husband’s primary argument was that the appellant financed the operation. However, that does not entitle her to claim that these expenses, which were clearly those of her husband, were deductible by her as claimed here.
+[77]With respect to the claimed expenses, the Court is satisfied that except as to those points conceded by the Minister, the appeal should be dismissed.
+[78]With respect to the disallowed disability tax credits, the Court is satisfied that the evidence is insufficient to establish on a balance of probabilities that the husband was “markedly restricted” in the years 2003 and 2005 in accordance with the requirements of paragraph 118.4(1)(a) and 118.4(1)(b).
+[79]The points raised by Counsel for the respondent on these issues are well taken. The husband’s evidence, when considered in toto, does not establish that he suffered on “a continuous basis” during those years.
+[80]Further, his condition did not persist “all or substantially all of the time” as those terms have come to be understood. The Court agrees that 70% of the time does not meet the threshold.
+[81]The Court is not required to accept the certificate as being definitive on this issue, particularly where, as here, the evidence given in Court runs contrary to the opinion set our in the certificate.
+[82]If the person who signed the certificate had been able to elaborate on its contents, that may have been sufficient, but he was not called.
+[83]Further, the appellant did not testify as to the husband’s condition and clearly her evidence could have been significant in either corroborating the certificate or calling its conclusion into question.
+[84]Certainly, the evidence given by the husband himself as to certain legal matters that he attested to in the years in question would call into question whether he was as incapacitated as both he and the certificate suggested.
+[85]There can be no doubt that the appellant had a serious mental impediment during part of the years in question, but the evidence falls short of satisfying the Court that he came within the narrow parameters of the provisions in question.
+[86]In the end result, the appeal is allowed with respect to the legal fees in 2005, in the amount of $3441.17 and the spousal amount of $7344.00 in 2005. The matter is remitted to the Minster for re-assessment and reconsideration, based upon these findings.
+[87]In all other respects, the appeal is dismissed.
+Signed at New Glasgow, Nova Scotia, this 12th day of August 2008.
+“T. E. Margeson”
+Margeson J.
+CITATION: 2008TCC458
+COURT FILE NO.: 2007-4273(IT)I
+STYLE OF CAUSE: SHELAGH JEAN COOK AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 5, 2008 and June 20, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: August 12, 2008
+APPEARANCES:
+For the Appellant:
+John Cook
+For the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John Cook, Agent
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

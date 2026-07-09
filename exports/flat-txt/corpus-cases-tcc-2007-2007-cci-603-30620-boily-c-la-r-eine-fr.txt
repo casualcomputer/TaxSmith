@@ -1,0 +1,232 @@
+Title: Boily c. La R eine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30620/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-603-30620-boily-c-la-r-eine-fr.md
+Document type: case_law
+Last modified: 2007-11-13
+
+# Boily c. La R eine
+
+- Citation: 2007 CCI 603
+- Decision date: 2007-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7114, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boily c. La R eine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-13
+Référence neutre
+2007 CCI 603
+Numéro de dossier
+2005-96(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-96(IT)I
+ENTRE :
+MARIO BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 7 septembre 2007 à Chicoutimi (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l’appelant :
+Yvan Tremblay
+Avocate de l'intimée :
+Me Janie Payette
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI603
+Date : 20080121
+Dossier : 2005-96(IT)I
+ENTRE :
+MARIO BOILY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bédard
+[1] Il s’agit d’un appel entendu sous le régime de la procédure informelle, d'une nouvelle cotisation établie à l’encontre de l’appelant par laquelle le ministre du Revenu national (le « ministre ») a ajouté au revenu de l’appelant pour son année d’imposition 1999 la somme de 34 500 $ à titre de revenu provenant d’un régime enregistré d’épargne-retraite (« REER »), et ce, conformément au paragraphe 146(10) de la Loi de l’impôt sur le revenu (la « Loi »). Par cette nouvelle cotisation, le ministre a aussi établi à néant le crédit pour la taxe sur les produits et services et l’allocation de chauffage.
+Remarques préliminaires
+[2] L’appelant était représenté par son comptable, monsieur Yvan Tremblay. Je souligne que seul monsieur Michel Leduc, un enquêteur de l’Agence des douanes et du revenu du Canada, a témoigné dans la présente affaire. Je note aussi que le représentant de l’appelant a admis que la société 9063‑3223 Québec Inc., dont la raison sociale était, en 1998 et 1999, Services financiers Mackenzie (« SFM »), n’avait en aucun temps consenti un prêt à son client et que la compagnie de Fiducie MRS (« Fiducie MRS »), une fiducie régie par un REER, n’avait en aucun temps utilisé à titre de garantie d’un prêt un bien quelconque du REER de l’appelant ou n'en avait permis l’utilisation. Une fois ces admissions faites, l’avocate de l’intimée a modifié, avec mon accord, la Réponse à l’avis d’appel modifié de façon à retirer toutes les allégations de l’intimée à l’égard d’un prêt qui aurait été consenti par SFM à l’appelant et des biens du REER de l’appelant qui auraient été utilisés à titre de garantie d’un prêt. Conséquemment, l’avocate de l’intimée a modifié la Réponse à l’avis d’appel modifié de façon à ne plus invoquer les dispositions prévues aux alinéas b) et d) du paragraphe 146(10) de la Loi.
+Les faits
+[3] En 1998, l’appelant détenait un REER immobilisé auprès de la Banque Royale du Canada. Le 25 octobre 1998, l’appelant transférait son REER à Fiducie MRS.
+[4] Le 1er décembre 1998, l’appelant signait une lettre (pièce I-1, onglet 1) adressée à Fiducie MRS aux termes de laquelle il demandait à cette dernière d’acquérir, sans délai, 34 500 actions de catégorie « B » de Les Immeubles R.V. (1986) Inc. (« RV ») au prix de 1,00 $ chacune, d’émettre un chèque de 34 500 $ à cette dernière et de lui faire parvenir ce chèque. Le 1er décembre 1998, l’appelant signait une offre d’achat d’actions. (pièce I-1, onglet 4) adressée à RV, aux termes de laquelle il offrait d’acheter 34 500 actions de catégorie « B » de RV au prix de 1,00 $ l’action. Il convient de souligner que la signature de RV n’apparaît pas sur cette offre. Toujours le 1er décembre 1998, l’appelant signait un contrat de vente (pièce I-1, onglet 5) aux termes duquel il se portait acquéreur de 34 500 actions de catégorie « B » de RV, au prix de 1,00 $ l’action. Je note que ce contrat ne fut pas signé par RV, l’autre partie à ce contrat de vente. Le 1er décembre 1998, madame Lucie Lauzon signait une lettre (pièce I‑1, onglet 7) adressée à Fiducie MRS dans laquelle elle attestait que les actions de RV constituaient un « placement admissible » au sens de la Loi. Le 1er décembre 1998, l’appelant signait une lettre d’indemnité (pièce I-1, onglet 8) rédigée par Fiducie MRS dont la partie pertinente se lit comme suit :
+Conformément aux termes du Régime d’épargne-retraite autogéré numéro 6043947 et à la définition donnée dans la déclaration de fiducie du régime type 417-013, le rentier déclare par les présentes que le placement de 34 500 parts/actions dans Immeubles RV est conforme aux règlements de la Loi de l’impôt sur le revenu (Canada) et aux modifications qui y ont été apportées. Le rentier reconnaît qu’il a donné l’ordre à MRS de verser paiement pour les biens de la petite entreprise avant réception d’un certificat, et qu’il est seul et unique responsable de la livraison au moment voulu du certificat à MRS Le rentier dégage le fiduciaire de toute responsabilité en cas de perte, frais, commissions et dépenses de toutes sortes que le rentier, ou ses héritiers, exécuteurs, administrateurs et ayants-droit pourraient subir ou avoir à payer du fait de ce placement dans Immeubles RV, ainsi que pour tout impôt ou pénalité supplémentaire imposé par la Loi de l’impôt sur le revenu (Canada) ou toute autre loi fiscale applicable.
+Le 1er décembre 1998, RV émettait un certificat d’actions (pièce A‑3) attestant que Fiducie MRS, fiduciaire pour Mario Boily REER #6043947, détenait 34 500 actions de catégorie « B » de RV. Je note que le certificat indique que ces actions sont soumises à une convention unanime d’actionnaires. Par ailleurs, le talon de ce certificat d’action (pièce I‑1, onglet 6) indique que le certificat a été émis à l’appelant et à Fiducie MRS. Je note que ce talon indique que le certificat d’action a été livré à l’appelant le 1er décembre 1998. Enfin, le 1er décembre 1998, l’appelant signait une convention unanime des actionnaires de RV (pièce I‑2, onglet 3), laquelle ne fut pas signée par madame Lisette Lalancette, l’autre partie à la convention.
+[5] Le 19 janvier 1999, l’appelant signait une lettre adressée à Fiducie MRS (pièce I‑1, onglet 9) qui se lisait comme suit :
+Je vous demande sur réception de cette lettre, d’envoyer un chèque à la compagnie Les Immeubles R.V. (1986 inc.) au montant de 34 500,00 $ à l’adresse suivante : 1174 Boul. Sacré-Cœur St-Félicien G8B 2R2. Ceci en échange de certificats d’actions de la compagnie pour 34 500,00 $ d’action de catégories B.
+Pour plus d’information, communiquer avec mon représentant.
+Merci de votre attention,
+Mario Boily
+915 Robert Jean
+Alma
+G8B 7J6
+Le 25 janvier 1999, Fiducie MRS tirait un chèque de 34 500 $ payable à l’ordre de RV (pièce I-1, onglet 10). Le 3 février 1999, l’appelant recevait un chèque de 18 360 $ (pièce I-3, onglet 2) émis par SFM. Le ou vers le 9 septembre 2007, Fiducie MRS faisait parvenir à l’appelant le certificat d’actions représentant les 34 500 actions de catégorie « B » de RV émises à Fiducie MRS. Enfin, il convient de souligner que RV a été radié d’office le 5 août 1999 (pièce I-2, onglet 2).
+Témoignage de monsieur Leduc
+[6] Il ressort du témoignage de monsieur Leduc et des pièces I‑2, onglet 3, I‑2, onglet 4, I-4, I-5, I‑6, I-7, I-8 et I-9, déposées en preuve à l’appui du témoignage de ce dernier, que :
+i) monsieur Jacques Gagné et SFM, dont l’actionnaire principal était General Ventures Capital Management et dont l’adresse était alors aux Bahamas et qui avait aussi, à cette époque, un établissement dans la ville de St-Hubert, avaient été les principaux artisans et promoteurs d'un stratagème de dépouillement de REER qui avait profité à ces derniers ainsi qu’à plusieurs rentiers, dont l'appelant. L'objet de ce stratagème de dépouillement de REER était de permettre aux rentiers de REER de recevoir de l'argent de leur REER sans conséquence fiscale;
+ii) SFM avait permis qu’une somme de 681 400 $ sorte ainsi de ces REER. Monsieur Leduc a expliqué qu’il avait trouvé dans les comptes bancaires de RV des dépôts provenant de REER de rentiers et s’élevant à 681 400 $. Cette somme avait été versée pour de prétendues souscriptions d’actions de RV. Monsieur Leduc a ajouté que la plus grande partie des renseignements provenaient de documents saisis par le ministre à la résidence de monsieur Gagné;
+iii) RV avait remis à SFM 659 998 $, soit environ 97% des sommes recueillies par RV auprès des rentiers de REER;
+iv) RV n’avait pas produit de déclarations de revenu pour les années subséquentes à son année d’imposition 1996;
+v) RV n’avait pas produit d'états financiers pour les années 1998 et suivantes. Je rappelle que RV a été radié d’office le 8 mai 1999;
+vi) Des chèques totalisant 355 399 $ payables à l’ordre des rentiers (dont un chèque de 18 630 $ payable à l'ordre de l’appelant) de REER avaient été tirés sur les comptes bancaires de SFM. Monsieur Leduc a expliqué que les rentiers de REER avaient ainsi reçu en franchise d'impôt (n'eût été des cotisations établies subséquemment par le ministre) environ 54% des montants investis dans leur REER. Par ailleurs, monsieur Leduc a ajouté qu’il n’avait trouvé aucun document constatant que la somme de 355 399 $ avait été versée par SFM aux rentiers de ces REER dans le cadre de prêts qui leur auraient été consentis par cette dernière;
+vii) L’état des profits et pertes de SFM au 31 mai 1999 ne montre aucun revenu, mais indique seulement des dépenses totalisant 48 073 $ pour une perte de 48 073 $. Quant au bilan à la même date, le total de son actif indiqué s’élève à 116 269 $ et son passif à 162 242 $. Le seul capital-actions qui y apparaît est 100 $. Il n’y a donc aucune trace des 659 998 $ versés par RV à SFM et qui aurait pu refléter un placement par RV dans SFM.
+[7] En juin 2007, la Cour recevait un avis d’appel modifié qui se lit comme suit :
+PROCÉDURE INFORMELLE
+AVIS D'APPEL MODIFIÉ-COUR CDN
+À la lecture des jugements rendus dans les clauses Lisette Lalancette et Sa Majesté la Reine et Don Nunn et Sa Majesté la Reine, de même que l'examen des documents demandés dans notre lettre datée du 26 septembre 2002, nous comprenons qu'il serait difficile de continuer de prétendre à l'admissibilité du placement en actions fait dans la société Les Immeubles R.V. (1986) Inc (RV) par la Compagnie de Fiducie MRS en 1999.
+Cependant, une question demeure toujours sans réponse et c'est la manière pour M. Boily de traiter fiscalement la perte subie, que nous appelerons « commission payée au facilitateur », suite au transfert par le fiduciaire de l'argent détenu dans un fonds de retraite immobilisé afin de servir de garantie pour l'obtention d'une compensation/prêt de Service financiers Mackenzie (SFM).
+Les documents relatifs au « stratagème » démontrent clairement que la somme de $34,500 transférée de MRS à RV a été déposée au compte bancaire de RV et par la suite transférée en totalité à SFM. Un chèque au montant de $18,630 avait alors été remis à M. Boily par SFM.
+Le certificat d'actions représentant la somme de $34,500 qui a été remis en contre‑partie à MRS avait donc une valeur nulle dès sa réception par MRS puisque RV était une entreprise inopérante, qu'elle ne possédait pas d'avoirs justifiant une valeur de $1/action, que la somme de $34,500 n'avait pas été retenue par RV mais plutôt retournée intégralement à SFM pour laquelle elle n'avait pas de comptabilité de recevable à ce chapitre, que le livre des procès‑verbaux de RV faisait mention aucunement de l'émission desdites actions, etc... Les paragraphes 12 et 13 du jugement de Me Archambault font foi amplement de ce qui précède et en aucun temps, on a voulu faire fructifier les fonds par l'achat d'un placement rentable; ce n'était pas le but visé d'ailleurs.
+À notre avis, le décaissement de la somme de $34,500 a plutôt servie indirectement pour toucher une somme de $18,630, moyennant le paiement d'une « commission » de $15,670 et non pour l'achat d'un placement admissible ou non. Parce que le fonds de $34,500 a servi de garantie, il est désenregistré automatiquement, la fiducie cesse d'exister et M. Boily doit inclure la somme de $34,500 dans ses revenus de 1999.
+Comme le fonds n'a pas servi à acheter un placement non admissible, l'article 146(10) ne s'applique pas. Ce serait l'article 146(7) qui devrait s'appliquer et M. Boily, selon cet article, devrait pouvoir diminuer la somme de $15,670 de son revenu additionnel de $34,500 à titre de perte relative à la garantie fournie à SFM ou à titre de « commission payée au facilitateur ».
+Nous demandons donc à la Cour canadienne de l'impôt de se prononcer sur l'éligibilité de la somme de $15,670 à être diminuée du revenu de $34,500 en 1999.
+À la fin d’avril 1997, la Cour recevait un autre avis d’appel modifié qui se lit comme suit :
+PROCÉDURE INFORMELLE
+AVIS D'APPEL MODIFIÉ-MODIFIÉ-COUR CDN IMPÔT
+AVIS AU LECTEUR: Lire cet avis d'appel comme si la totalité du texte qui suit avait été souligné afin d'en indiquer les changements par rapport à l'avis d'appel modifié daté du 17 avril 2007.
+L'achat des 34,500 actions B de Les immeubles R.V. (1986) Inc (RV) par la Compagnie de fiducie MRS (MRS), fiduciaire du REER immobilisé/autogéré du rentier Mario Boily et le prêt de $18,630 consenti à Mario Boily par Services financiers Mackenzie (SFM) sont deux transactions qui doivent être analysées distinctement.
+Dans un premier temps, à la demande de Mario Boily, MRS a fait l'acquisition de 34,500 actions B de RV au prix de $1 chacune. Le certificat d'actions porte le numéro B017 et il a été émis par RV le 1 décembre 1998. Le rentier en a accusé réception et transmis ledit certificat à MRS par l'intermédiaire de son conseiller en placement. Le 25 janvier 1999 MRS a adressé un chèque de $34,500 à RV pour le paiement complet des titres. Le certificat d'actions est toujours détenu par MRS selon le relevé de compte de décembre 2006, mais fait l'objet d'aucun frais annuel de fiducie depuis 2002.
+Suite à la réception du chèque de MRS, RV a placée la totalité du produit de la vente de ses actions B, soit $34,500, dans un fonds de placement quelconque avec SFM. Les écritures comptables dans les livres de RV pourraient être les suivantes:
+Caisse
+Placement avec SFM
+Caisse
+Capital-actions B
+$
+34,500
+34,500
+$
+34,500
+34,500
+de même que l'écriture comptable dans les livres de SFM pourrait être la suivante:
+Caisse
+Fonds détenus en fiducie pour RV
+34,500
+34,500
+Mis à part le fait que le placement a été reconnu non admissible pour les fins du REER immobilisé/autogéré, les écritures comptables ci-haut, qui auraient dû normalement apparaître dans les livres de RV et de SFM, démontrent une situation normale et aucun revenu ne se dégage de ces transactions. Et de ce fait, aucune perte n'a été subie par le rentier, comme nous l'avions prétendu auparavant.
+Dans un deuxième temps SFM a attribué le 3 février 1999 un prêt de $18,630 à Mario Boily dans le cadre de ses activités régulières à titre d'intermédiaire financier pour RV. Le prêt semble avoir été consenti sans intérêt ni modalité de remboursement et sans garantie aucune, n'ayant en notre possession aucun document pour affirmer le contraire.
+La lettre adressée à Mario Boily par l'Agence des douanes et du revenu du Canada (ARC), le 2 août 2002 donne entre autres comme raison pour l'inclusion du montant de $34,500 dans ses revenus de 1999 que... « dans la limite où ce prêt existe, que la propriété de votre REER constituait une garantie du prêt. »
+Tel que nous l'avons souligné précédemment, RV pouvait investir le produit de la vente de ses actions B où on lui semblait même si l'ARC décrète que les fonds détenus dans le REER immobilisé/autogéré qui ont servis à acquérir un placement dans RV, constituaient une garantie au prêt consenti à Mario Boily.
+Nous savons également que le certificat d'actions B017 est toujours détenu par MRS en date de ce jour et par conséquent, qu'aucun transfert dudit certificat n'a été autorisé par Mario Boily en faveur de SFM puisque l'espace réservé à cette fin n'a pas été complété et que MRS n'a pas fait parvenir de T4RSP à Mario Boily en 1999. Donc, le certificat d'actions B détenu dans le REER immobilisé/autogéré de Mario Boily n'a pas servi de garantie pour le prêt consenti par SFM, celui‑ci ayant été attribué dans le cadre des activités régulières de SFM. C'est en raison uniquement du fait que les fonds du REER immobilisé/autogéré ont servi à acquérir un placement jugé non admissible que Mario Boily doit inclure un revenu additionnel de $34,500 à ses revenus de 1999 et non parce que le certificat d'actions B a servi à garantir un prêt.
+À son origine le REER immobilisé/autogéré totalisait $34,986.35 selon le relevé de compte de MRS de décembre 1999. Le compte était composé du placement dans RV ($34,500) et d'espèces ($486.35). AU fil des ans, le fiduciaire a prélevé des frais de fiducie annuel de $187.25 à même le compte, ce qui fait que dès 2002 l'argent comptant a été totalement épuisé, laissant apparaître uniquement le placement dans RV. En janvier 2004, le relevé de compte de MRS reflétait uniquement une dévaluation du placement dans RV à zéro.
+Il est raisonnable de penser que la fiducie régissant le compte en espèces a cessé d'exister en 2002 à un moment où l'argent comptant a fini par être totalement utilisé pour payer les frais annuels du fiduciaire. Il n'en est pas de même selon nous pour la fiducie régissant le placement dans RV, nous prétendons que la fiducie régissant le placement dans RV a cessée son existence dès que le placement est devenu non admissible soit en 1999, conduisant à son désenregistrement et à l'imposition du rentier.
+À compter du moment où le placement est devenu non admissible, le rentier devait s'imposer sur le montant de $34,500 selon le paragraphe 146(10) LIR et se charger lui‑même de débarrasser son REER immobilisé/autogéré du placement non admissible. Selon le paragraphe 146(7) LIR Mario Boily avait la possibilité de retourner à son REER immobilisé/autogéré le produit de disposition de son placement dans RV et obtenir en retour un crédit d'impôt du même montant l'année de sa disposition. Or, comme il s'agissait d'actions d'une petite entreprise, qu'aucun marché n'était disponible pour les transiger et que RV était insolvable, lesdites actions B n'ont pu être vendues par Mario Boily.
+Nous considérons donc le placement désenregistré en 1999 comme étant revenu à cette date un placement d'entreprise éligible à la déduction d'une perte à ce titre en vertu du choix prévu au paragraphe 50(1) LIR. En vertu de ce choix les 34,5000 actions B de RV sont réputées avoir été vendues pour un produit de disposition nul et que la petite entreprise était insolvable à la fin de l'année d'imposition et que ni la société ni une société qu'elle contrôlait n'exploitait une entreprise. Une lettre signée par Mario Boily attachée au présent avis d'appel modifié‑modifié confirme le choix prévu au paragraphe 50(1) LIR.
+En conclusion, nous demandons à la Cour canadienne de l'impôt de se prononcer sur l'éligibilité de la partie de $34,500 subie selon le paragraphe 50(1) à être reconnue comme perte déductible au titre d'un placement d'entreprise (PDTPE) en 1999. Advenant sa reconnaissance par la Cour, nous demandons que cette PDTPE soit appliquée en totalité à l'encontre des revenus additionnels de 1999.
+[8] Lors de sa plaidoirie, le représentant de l’appelant a repris une partie des arguments invoqués dans les deux avis d’appel modifiés en plus d’invoquer l’application du paragraphe 146(12) de la Loi. Comme nous pouvons le constater, la position de l’appelant a possiblement évolué dans le temps. Ne sachant plus à quelle enseigne logeait le représentant lors de sa plaidoirie, je traiterai de tous les arguments avancés par l’appelant dans ses deux avis d’appel modifiés et des arguments additionnels avancés par le représentant de l'appelant lors de sa plaidoirie. Enfin, je souligne que je traiterai des alinéas b) et d) du paragraphe 146(10) de la Loi et du paragraphe 146(7) de la Loi et ce, même si le représentant de l’appelant a admis que SFM n’avait pas prêté à son client la somme de 18 630 $.
+Analyse et conclusion
+[9] Les dispositions pertinentes à l'article 146 de la Loi se lisent comme suit :
+146(1) « placement admissible » Dans le cas d'une fiducie régie par un régime enregistré d'épargne-retraite :
+a) placement qui serait visé à l'un des alinéas a), b), d) et f) à h) de la définition de « placement admissible » à l'article 204 si la mention « fiducie » y était remplacée par la mention de la fiducie régie par le régime enregistré d'épargne‑retraite;
+b) obligation, billet ou autre titre semblable d'une société dont les actions sont cotées à une bourse de valeurs au Canada visée par règlement;
+c) rente visée à la définition de « revenu de retraite » relativement au rentier en vertu du régime, si elle a été achetée d'un fournisseur de rentes autorisé;
+c.1) contrat relatif à une rente établi par un fournisseur de rentes autorisé, si les conditions suivantes sont réunies :
+(i) la fiducie est la seule personne qui, s'il est fait abstraction d'un transfert subséquent du contrat par la fiducie, a droit ou peut avoir droit à des paiements de rente dans le cadre du contrat,
+(ii) le titulaire du contrat a le droit d'exiger le rachat de celui-ci à tout moment pour un montant qui, s'il n'était pas tenu compte de frais de vente et d'administration raisonnables, correspondrait à peu près à la valeur des fonds qui pourraient servir par ailleurs à financer des paiements périodiques futurs dans le cadre du contrat;
+c.2) contrat relatif à une rente établi par un fournisseur de rentes autorisé, si les conditions suivantes sont réunies :
+(i) des paiements à effectuer périodiquement à intervalles ne dépassant pas un an sont ou peuvent être versés au titulaire dans le cadre du contrat,
+(ii) la fiducie est la seule personne qui, s'il est fait abstraction d'un transfert subséquent du contrat par la fiducie, a droit ou peut avoir droit à des paiements de rente dans le cadre du contrat,
+(iii) ni le montant d'un paiement prévu par le contrat, ni le moment de son versement, ne peuvent varier en raison de la durée d'une vie, sauf s'il s'agit de la vie du rentier en vertu du régime (appelé « rentier du REER » dans la présente définition),
+(iv) le versement des paiements périodiques a commencé ou doit commencer au plus tard à la fin de l'année dans laquelle le rentier du REER atteint 72 ans,
+(v) selon le cas :
+(A) les paiements périodiques sont payables au rentier du REER à titre viager sans durée garantie aux termes du contrat ou pour une durée garantie, commençant à la date du début du versement des paiements, égale ou inférieure à la différence entre 90 et le moindre des âges suivants :
+(I) l'âge en années accomplies à cette date du rentier du REER, à supposer qu'il soit vivant à cette date,
+(II) l'âge en années accomplies à cette date de l'époux ou conjoint de fait du rentier du REER, à supposer que l'époux ou conjoint de fait du rentier au moment de l'achat du contrat soit son époux ou conjoint de fait à cette date,
+(B) les paiements périodiques sont payables pour un nombre d'années égal au nombre suivant :
+(I) 90 moins l'âge visé à la subdivision (A)(I),
+(II) 90 moins l'âge visé à la subdivision (A)(II),
+(vi) les paiements périodiques sont égaux entre eux, ou ne le sont pas en raison seulement d'un ou de plusieurs rajustements soit qui seraient conformes aux sous-alinéas (3)b)(iii) à (v) si le contrat était une rente prévue par un régime d'épargne-retraite, soit qui découlent d'une réduction uniforme du droit aux paiements périodiques par suite d'un rachat partiel des droits à ces paiements;
+d) tout autre placement qui peut être prévu par règlement pris par le gouverneur en conseil, sur recommandation du ministre des Finances.
+146(1) « placement non admissible » Dans le cas d'une fiducie régie par un régime enregistré d'épargne-retraite, s'entend des biens acquis par la fiducie après 1971 et qui ne constituent pas un placement admissible pour cette fiducie.
+Règlement 4900(6) [Placement dans une petite entreprise] -- Pour l'application des sous-alinéas 146(1)g)(iv) et 146.3(1)d) de la Loi, sous réserve des paragraphes (8) et (9), un bien est un placement admissible pour une fiducie régie par un régime enregistré d'épargne-retraite ou fonds enregistré de revenu de retraite à une date quelconque si, à cette date, le bien est :
+a) une action d'une société admissible, au sens du paragraphe 5100(1), sauf si le rentier en vertu du régime ou du fonds est un actionnaire désigné de la société;
+[…]
+4900(12) [Société exploitant une petite entreprise] -- Pour l'application de l'alinéa d) de la définition de « placement admissible » au paragraphe 146(1) de la Loi, de l'alinéa c) de la définition de « placement admissible » au paragraphe 146.3(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d'épargne-retraite ou un fonds enregistré de revenu de retraite s'il constitue l'un des biens suivants au moment où la fiducie l'acquiert et si le rentier du régime ou du fonds immédiatement après ce moment n'est pas alors un actionnaire rattaché des société visées aux alinéas a) à c) :
+a) une action du capital-actions d'une société, sauf une société coopérative, qui, au moment où la fiducie l'acquiert ou à la fin de la dernière année d'imposition de la société terminée avant ce moment, serait une société exploitant une petite entreprise si le passage de la définition de « société exploitant une petite entreprise » au paragraphe 248(1) de la Loi précédant l'alinéa a) était remplacé par le passage « S'entend à une date donnée, sous réserve du paragraphe 110.6(15), d'une société canadienne (sauf une société alors contrôlée, directement ou indirectement de quelque manière que ce soit, par au moins une personne non-résidente) dont la totalité, ou presque, de la juste valeur marchande des éléments d'actif est alors attribuable à des éléments qui sont »;
+[...]
+5100(1) « entreprise admissible exploitée activement » Entreprise exploitée principalement au Canada par une société à une date quelconque, à l'exclusion :
+a) d'une entreprise (sauf une entreprise de louage de biens qui ne sont pas des biens immeubles) dont l'objet principal est de tirer un revenu de biens (y compris les intérêts, dividendes, loyers et redevances);
+[...]
+5100(1) « société admissible » Est une société admissible à un moment donné :
+a) une société donnée qui est une société canadienne imposable dont la totalité ou la presque totalité des biens sont, à une date quelconque :
+(i) utilisés dans une entreprise admissible exploitée activement par la société contrôlée par celle‑ci,
+(ii) des actions du capital-actions d'une ou de plusieurs sociétés admissibles liées à la société donnée ou des titres de créance émis par ces sociétés admissibles, ou
+(iii) une combinaison quelconque des biens visés aux sous-alinéas (i) et (ii);
+146(6) Disposition d'un placement non admissible -- Lorsque, au cours d'une année d'imposition, une fiducie régie par un régime enregistré d'épargne-retraite dispose d'un bien qui, au moment où il a été acquis, était un placement non admissible, il est permis de déduire, dans le calcul du revenu du contribuable qui est le rentier du régime, pour l'année d'imposition, une somme égale au moins élevé des montants suivants :
+a) le montant qui était, en vertu du paragraphe (10), inclus dans le calcul du revenu de ce contribuable à l'égard de l'acquisition de ce bien;
+b) le produit de disposition du bien.
+146(7) Recouvrement de biens utilisés comme garantie -- Lorsque, au cours d'une année d'imposition, un prêt pour lequel une fiducie régie par un régime enregistré d'épargne-retraite a utilisé ou a permis que soient utilisés des biens de la fiducie comme garantie cesse d'exister, et que la juste valeur marchande des biens ainsi utilisés a été incluse, en vertu du paragraphe (10), dans le calcul du revenu du contribuable qui est le rentier en vertu du régime, peut être déduite, dans le calcul du revenu du contribuable pour l'année d'imposition, la somme qui resterait après que :
+a) la perte nette (à l'exclusion des paiements faits par la fiducie au titre des intérêts) subie par la fiducie par suite du fait qu'elle a utilisé ou a permis que soient utilisés ces biens comme garantie du prêt et non par suite du changement de la juste valeur marchande des biens,
+serait déduite :
+b) du montant ainsi inclus dans le calcul du revenu du contribuable par suite du fait que la fiducie a utilisé ou a permis que soient utilisés les biens comme garantie du prêt.
+146(9) Dispositions de biens par une fiducie -- Lorsque, au cours d'une année d'imposition, une fiducie régie par un régime enregistré d'épargne‑retraite :
+a) soit dispose de biens en échange d'une contrepartie d'une valeur inférieure à la juste valeur marchande que ces biens avaient au moment de la disposition, ou sans aucune contrepartie;
+b) soit acquiert des biens en échange d'une contrepartie d'une valeur supérieure à la juste valeur marchande que ces biens avaient au moment de l'acquisition,
+toute différence entre cette juste valeur marchande et la contrepartie doit être incluse dans le calcul du revenu, pour l'année d'imposition, du rentier qui bénéficie de ce régime.
+146(10) Acquisition d'un placement non admissible par une fiducie -- Lorsque, à un moment donné d'une année d'imposition, une fiducie régie par un régime enregistré d'épargne-retraite :
+a) acquiert un placement non admissible;
+b) utilise à titre de garantie d'un prêt un bien quelconque de la fiducie ou en permet l'utilisation,
+la juste valeur marchande :
+c) du placement non admissible au moment de son acquisition par la fiducie;
+d) du bien utilisé à titre de garantie, au moment où il a commencé à être ainsi utilisé,
+selon le cas, doit être incluse dans le calcul du revenu, pour l'année, du contribuable qui est le rentier en vertu du régime à ce moment.
+146(12) Modification du régime après enregistrement -- Lorsque, à une date postérieure à l'acceptation aux fins d'enregistrement par le ministre d'un régime d'épargne-retraite pour l'application de la présente loi, le régime est révisé ou modifié ou un nouveau régime lui est substitué — l'un et l'autre étant appelés « régime modifié » au présent paragraphe — et que le régime modifié ne répond pas aux conditions d'enregistrement prévues au présent article, les règles suivantes s'appliquent sous réserve du paragraphe (13.1) :
+a) le régime modifié est réputé, pour l'application de la présente loi, ne pas être un régime enregistré d'épargne-retraite;
+b) le contribuable qui était rentier du régime avant que celui-ci ne devienne un régime modifié doit ajouter comme revenu reçu à ce moment une somme égale à la juste valeur marchande de tous les biens du régime immédiatement avant ce moment, dans le calcul de son revenu pour l'année d'imposition qui comprend ce moment.
+[10] D’abord, à la lumière de la preuve, je conclus qu’en souscrivant aux 34 500 actions de catégorie « B » de RV, Fiducie MRS (une fiducie régie par un REER) avait acquis un placement non admissible tel que défini au paragraphe 146(1) de la Loi. En effet, la preuve a révélé hors de tout doute que RV n’exploitait aucune entreprise et qu’elle ne détenait aucune participation dans une société exploitant activement une entreprise ni aucun titre de créance émis par une telle société.
+[11] Les alinéas a) et c) du paragraphe 146(10) de la Loi prévoient que, si une fiducie régie par un REER acquiert dans une année d’imposition donnée un placement non admissible, le rentier de ce REER doit inclure dans le calcul de son revenu pour cette année la juste valeur marchande (« JVM ») du placement non admissible au moment de son acquisition par la fiducie. Donc, l’appelant devait inclure, dans le calcul de son revenu, la JVM des 34 500 actions de catégorie « B » au moment de leur acquisition. Nous examinerons ultérieurement la question de savoir si ces actions avaient été acquises en 1998 ou en 1999.
+[12] Quelle était la JVM des 34 500 actions de catégorie « B » de RV au moment de leur acquisition par Fiducie MRS? L’intimée a allégué dans la Réponse à l’avis d’appel modifié que ces actions avant été acquises en 1999 et que leur JVM était de 34 500 $ au moment de leur acquisition. Je souligne que la preuve de l’appelant à l’égard de la JVM de ces actions était inexistante. Par conséquent, je conclus que la JVM de ces actions au moment de leur acquisition était de 34 500 $. De toute façon, je souligne que les dispositions prévues au paragraphe 146(9) de la Loi rendent à toutes fins pratiques théorique toute discussion relative à la JVM des actions au moment de leur acquisition. En effet, le paragraphe 146(9) de la Loi prévoit que, si une fiducie régie par un REER dispose d’un bien dans une année donnée en échange d’une contrepartie d’une valeur inférieure à la JVM que ce bien avait au moment de la disposition ou sans aucune contrepartie, toute différence entre cette JVM et la contrepartie doit être incluse dans le calcul du revenu, pour cette année, du rentier qui bénéficie du REER. Ainsi, si la JVM des 34 500 actions de catégorie « B » était nulle au moment de leur acquisition, la somme de 34 500 $ devait être tout de même incluse dans le calcul du revenu de l’appelant pour l’année d’imposition où elles avaient été acquises, et ce, non pas en vertu des alinéas a) et c) du paragraphe 146(10) de la Loi mais bien en vertu du paragraphe 146(9) de la Loi.
+[13] Par contre, lorsqu’au cours d’une année d’imposition, une fiducie régie par un REER dispose d’un bien qui, au moment où il a été acquis, était un placement non admissible, le paragraphe 146(6) de la Loi prévoit que le rentier peut déduire, dans le calcul de son revenu pour cette année d’imposition, une somme égale au moins élevé du produit de disposition du bien ou du montant qui a été, en vertu du paragraphe 146(10), inclus dans le calcul du revenu du rentier à l’égard de l’acquisition de ce placement non admissible. Est-ce que Fiducie MRS a disposé des 34 500 actions de catégorie « B » de RV? En l’espèce, la preuve a révélé qu’en 2007, Fiducie MRS avait remis à l’appelant le certificat d’actions émis par RV le 1er décembre 1998 attestant que Fiducie MRS détenait 34 500 actions de catégorie « B » de RV. La preuve a aussi révélé que RV avait été radiée d’office le 8 mai 1999. Il convient maintenant de poser les deux questions suivantes : est-ce que la remise du certificat d’actions en 2007 constituait une disposition en 2007 et, en admettant qu’on puisse disposer et acquérir des actions d’une compagnie qui n’a pas d’existence légale et en disposer, quel était alors le produit de disposition pour Fiducie MRS et le prix d'acquisition pour l'appelant? À mon avis, la remise du certificat d’actions en 2007 ne constitue pas en l’espèce une disposition. Par ailleurs, si j’ai conclu à tort que la remise du certificat en 2007 ne constituait pas une disposition, il n'en demeure pas moins que le produit de disposition et le prix d'acquisition pour l'appelant était à néant en l’espèce et qu’ainsi l’appelant ne pourra déduire aucun montant dans le calcul de son revenu au titre d'une perte en vertu du paragraphe 146(6) de la Loi.
+[14] Le représentant de l’appelant a aussi prétendu que le paragraphe 146(7) de la Loi s’appliquait dans la présente affaire. Je suis d’avis que le paragraphe 146(7) de la Loi ne peut s’appliquer en l’espèce parce que l’appelant n’a pas fait la preuve qu’un prêt existait, que Fiducie MRS avait utilisé ou permis que soient utilisées les 34 500 actions de catégorie « B » de RV comme garantie d’un prêt et que ce prêt avait cessé d’exister. Je rappelle que le représentant de l’appelant a admis lors de l’audience que SFM n’avait pas consenti un prêt à l’appelant et que Fiducie MRS n’avait pas donné les 34 500 actions de catégorie « B » de RV à titre de garantie du remboursement d’un prêt.
+[15] Enfin, le représentant de l’appelant a prétendu qu'en raison de l'acquisition par Fiducie MRS d'un placement non admissible le REER ne répondait plus, à partir de ce moment, aux conditions d'enregistrement prévues à l'article 146 de la Loi. Il a soutenu que, dans un tel cas, le paragraphe 146(12) de la Loi prévoit que :
+i) le régime est réputé ne plus être un REER. Le représentant de l'appelant a expliqué qu'à partir de ce moment, tous les biens du REER sont réputés avoir fait l'objet d'une disposition en échange d'une contrepartie égale à leur JVM et que le rentier est alors réputé les avoir acquis à un coût égal à leur JVM à ce moment. Conséquemment, le représentant de l'appelant a soutenu que son client était réputé avoir acquis les 34 500 actions de catégorie « B » de RV à un coût de 34 500 $, soit la JVM de ces actions au moment où le régime avait cessé d'être un REER;
+ii) le rentier devait ajouter à son revenu de l'année où le régime avait été réputé ne plus être un REER, une somme égale à la JVM de tous les biens du régime immédiatement avant le moment où le régime avait été réputé ne plus être un REER.
+[16] Le représentant de l'appelant a alors soutenu que son client pourra déduire en 2007 une perte au titre d'un placement d'entreprise puisque RV est insolvable, qu'elle n'exploite plus une entreprise et qu'elle a été radiée d'office.
+[17] À mon avis, le raisonnement du représentant de l'appelant à l'égard de l'application du paragraphe 146(12) de la Loi dans la présente affaire n'a aucun fondement. Je rappelle que les alinéas a) et c) du paragraphe 146(10) de la Loi s'appliquent lorsqu'une fiducie régie par un REER acquiert un placement non admissible et que le paragraphe 146(6) de la Loi s'applique lorsque la même fiducie dispose de ce placement non admissible.
+[18] Enfin, à la lumière de l’arrêt Nunn[1], je ne vois pas comment je pourrais conclure à l’existence d’un simulacre et qu’ainsi il n'est pas approprié en l’espèce d’appliquer le paragraphe 146(10) de la Loi, et qu’il faut plutôt appliquer le paragraphe 146(8) de la Loi et ajouter au revenu de l’appelant les sommes réellement reçues de son REER, soit 18 630 $.
+[19] En résumé, je suis d’avis que Fiducie MRS a acquis, en souscrivant à 34 500 actions de catégorie « B » de RV, un placement non admissible dont la JVM au moment de la souscription était de 34 500 $ et que l’appelant devait ajouter à son revenu, pour l’année d’imposition où les actions ont été ainsi acquises, 34 500 $, et ce, conformément aux alinéas a) et c) du paragraphe 146(10) de la Loi. Je suis aussi d’avis qu’en l’espèce l'appelant ne pouvait et ne pourra déduire dans le calcul de son revenu quelque perte que ce soit en regard de ces actions.
+[20] Toutefois, une question demeure : est‑ce que Fiducie MRS s’est portée acquéreur des 34 500 actions de catégorie « B » de RV en 1998 ou en 1999? Cette question m’apparaît importante puisque, si je conclus que ces actions avaient été acquises en 1998, je n’aurai d’autre choix que d’accueillir l’appel.
+[21] À mon avis, la date à laquelle les actions de RV ont été acquises par Fiducie MRS doit être examinée à la lumière du droit corporatif applicable en l’espèce. Martel définit ainsi le contrat d’acquisition d’actions[2] :
+« Un contrat constitué par l’engagement d’une personne de prendre les actions de la compagnie (appelé souscription) et l’acceptation de cet engagement par la compagnie (appelée émission et répartition), signifiée à cette personne. »
+[22] Donc, pour qu’il y ait acquisition d’actions, on doit retrouver trois éléments. Le premier élément du contrat d’acquisition, c’est l’engagement, l’offre d’une personne de prendre les actions de la compagnie. L’offre peut être effectuée soit oralement, soit par écrit. Le deuxième élément du contrat d’acquisition d’actions, c’est l’émission des actions visées par la souscription. Ce second élément est généralement simultané à la conclusion du premier, les administrateurs procédant à l’émission et à la répartition des actions en même temps qu’ils décident d’accepter la souscription. Par émission, on entend que les actions sont prises dans le capital-actions pour être remises à quelqu'un. Par répartition, on entend que les actions émises sont assignées, accordées à des personnes. Il convient de souligner que le souscripteur peut demander à ce que les actions souscrites par lui soient réparties à une autre personne. Par ailleurs, il y a une distinction à faire entre l’émission des actions et l’émission des certificats d’actions. On doit aussi comprendre que le conseil d'administration de la compagnie effectue généralement l’émission et la répartition des actions, que des certificats soient alors émis ou non. Toutefois, le souscripteur ou la personne à qui les actions doivent être réparties, selon le cas, ne deviendra propriétaire des actions que s'il est avisé qu’il y a eu émission. J’ajouterai que dès que les actions sont émises et que ce souscripteur ou la personne à qui les actions ont été réparties est avisé de cette émission, elles deviennent la propriété du souscripteur ou de la personne, peu importe si le souscripteur ou la personne les a payées.
+[23] La première question qu’il faut se poser dans la présente affaire est la suivante : qui était le souscripteur ou, autrement dit, qui a fait l’offre d’acheter les actions de RV? La lettre du 1er décembre 1998 (pièce I‑1, onglet 1) et l’émission du certificat d’actions (pièce A-3) attestant que Fiducie MRS détenait, au 1er décembre 1998, 34 500 actions de catégorie « B » de RV me laisse croire, faute de preuve plus probante, que le souscripteur était Fiducie MRS. L'émission des certificats d'actions me laisse croire aussi, faute de preuve plus probante, que l'offre d'achat d'actions de Fiducie MRS avait été acceptée par RV le 1er décembre 1998. Toutefois, l’avocate de l’intimée a soutenu que Fiducie MRS n’était pas devenue pour autant propriétaire des actions en 1998 puisque rien dans la preuve soumise ne démontrait que Fiducie MRS avait été avisée en 1998 d’une telle émission. L’avocate de l’intimée a soutenu qu’un souscripteur ne pouvait devenir propriétaire d’actions même si son offre avait été acceptée par la compagnie tant et aussi longtemps qu’il n’avait pas été avisé qu’il y avait eu émission et qu’ainsi son offre d’achat avait été acceptée. L’avocate de l’intimée a soutenu que la seule preuve soumise qui démontrait que Fiducie MRS avait été avisée qu’il y avait eu émission des 34 500 actions de catégorie « B » de RV et qu’ainsi RV avait accepté son offre d’achat d’action était l’encaissement en 1999 par RV du prix des actions souscrites par Fiducie MRS. Conséquemment, je conclus que Fiducie MRS a acquis, en 1999, un placement non admissible, en l'espèce 34 500 actions de catégorie « B » de RV dont la JVM au moment de l'acquisition était de 34 500 $ et qu'ainsi l'appelant devait ajouter à son revenu, pour l'année d'imposition 1999, la somme de 34 500 $, et ce, conformément aux alinéas a) et c) du paragraphe 146(10) de la Loi.
+[24] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI603
+Nº DU DOSSIER DE LA COUR : 2005-96(IT)I
+INTITULÉ DE LA CAUSE : Mario Boily et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 7 septembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 21 janvier 2008
+COMPARUTIONS :
+Représentant de l’appelant :
+Yvan Tremblay
+Avocate de l'intimée :
+Me Janie Payette
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Nunn c. Canada, 2006 CAF no 1852.
+[2] Précis de droit sur les compagnies au Québec, ère édition 2000, Paul Martel, WIlson & Lafleur.

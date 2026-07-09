@@ -1,0 +1,181 @@
+Title: Berger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110339/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-153-110339-berger-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-19
+
+# Berger c. La Reine
+
+- Citation: 2015 CCI 153
+- Decision date: 2015-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2651, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-19
+Référence neutre
+2015 CCI 153
+Numéro de dossier
+2014-4251(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4251(IT)I
+ENTRE :
+HOWARD BERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 3 juin 2015, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Brad Burgess
+Avocat de l’intimée :
+Me Adam Gotfried
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2011 et 2012 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que l’appelant exploitait une entreprise à l’égard de laquelle il avait le droit de déduire les pertes d’entreprises demandées autres que celles relatives aux frais de repas de 1 100 $, lesquels ne sont pas déductibles.
+Signé à Ottawa, Canada, ce 19e jour de juin 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 31e jour d’août 2015.
+M.-C. Gervais
+Référence : 2015 CCI 153
+Date : 20150619
+Dossier : 2014-4251(IT)I
+ENTRE :
+HOWARD BERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] M. Howard Berger interjette appel, sous le régime de la procédure informelle, des cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2011 et 2012. Le ministre a refusé les pertes d’entreprises de 26 540 $ et de 37 866 $ que l’appelant a déduites pour ces années en tenant pour acquis qu’il n’avait pas exercé d’activités commerciales, c’est‑à‑dire, en langage fiscal, qu’il n’avait aucune source de revenu.
+[2] M. Berger n’a terminé qu’une année du programme en journalisme de trois ans au Humber College, car il a décroché un emploi au journal Etobicoke Guardian. L’appelant était clairement passionné par le journalisme sportif, et il a entrepris de travailler comme pigiste dans ce domaine avant d’être recruté, en 1988, à 29 ans, par la station de radio torontoise FAN 590, dont Telemedia était alors propriétaire. En 1992, FAN 590 est devenue une station axée entièrement sur le sport, et M. Berger, qui couvrait initialement tous les sports, est devenu journaliste attitré au hockey dès 1994, plus particulièrement à l’équipe des Maple Leafs. Il présentait régulièrement des reportages sur les ondes de FAN 590, à raison de deux fois par jour, et il s’est attiré de fidèles amateurs de sports avides de ses commentaires sur le hockey et sur les Maple Leafs. Une partie de son travail, à titre d’employé comme journaliste sportif, consistait à assister aux pratiques et aux parties de l’équipe, y compris à celles qu’elle disputait à l’extérieur. Il a tissé un nombre considérable de liens avec le personnel des relations avec les médias auprès des équipes de l’ensemble de la Ligue nationale de hockey.
+[3] En 2002, Rogers a fait l’acquisition de FAN 590 et, à la suite du ralentissement économique de 2008, une nouvelle équipe de gestion a été mise en place, laquelle, selon M. Berger, avait adopté une approche différente. Des cadres supérieurs ont été mis à pied, et les budgets de déplacement ont été coupés, notamment celui qui était accordé à M. Berger. Dans son témoignage, M. Berger a expliqué qu’il était devenu de plus en plus inquiet quant à ses perspectives d’emploi chez FAN 590.
+[4] À partir de 2006, une partie de son travail chez FAN 590 consistait à rédiger trois ou quatre billets par semaine sur un blogue du site Web de FAN 590 : en fait, il a expliqué que cette tâche devenait une partie importante de son travail. Compte tenu de ses préoccupations persistantes au sujet de ses perspectives d’emploi chez FAN 590, il a élaboré un plan qui lui permettrait de continuer d’écrire un blogue sur le hockey et d’en faire son gagne-pain dans l’éventualité où il perdrait son emploi. Son plan était simple : il rédigerait un blogue de qualité sur le hockey, lequel attirerait un lectorat suffisamment important pour que des commanditaires souhaitent afficher de la publicité sur son site.
+[5] L’inévitable s’est produit le 1er juin 2011 lorsque M. Berger a effectivement été licencié par FAN 590. Il a rédigé son premier billet sur son blogue ce même mois, et n’a cessé de bloguer depuis.
+[6] Les recherches qu’il a initialement menées laissaient entendre qu’il serait plus économique de créer un blogue sur Google, à l’aide de la plateforme logicielle en ligne Blogspot.com, dont il s’est servi pour mettre son site sur pied.
+[7] Cependant, après quelques mois, il a décidé de créer un site Web plus professionnel et, en septembre 2011, il a fait appel aux services de Rank Xpress à cette fin, et l’entreprise a répondu à sa demande. Il a créé son propre site Web (Bergerbytes.ca).
+[8] M. Berger a continué à suivre les Maple Leafs lors des parties que ceux-ci disputaient à l’extérieur, en comptant sur les liens qu’il avait établis avec les directeurs des relations avec les médias des différentes équipes de la LNH afin d’avoir un accès, car il ne bénéficiait plus de l’accréditation des médias dont il disposait lorsqu’il travaillait pour FAN 590. M. Berger a expliqué que le fait de pouvoir se déplacer avec l’équipe était considéré comme un critère d’excellence dans le milieu du journalisme sportif. Le revenu et les dépenses de M. Berger pour les années 2011 et 2012 figurent dans les tableaux suivants :
+2011
+Revenu brut/revenu déclaré
+0 $
+Dépenses déduites
+Billets d’avion et location d’auto
+16 279 $
+Hébergement
+8 107 $
+Conception d’un blogue
+1 500 $
+Rapprochement des pertes déduites
+654 $
+Total des dépenses d’entreprise
+26 540 $
+Revenu net avant rajustements
+(26 540) $
+Moins : bureau à domicile
+0 $
+Revenu net (pertes)
+(26 540) $
+2012
+Revenu brut/revenu déclaré
+7 500 $
+Dépenses déduites
+Billets d’avion et location d’auto
+19 110 $
+Hébergement
+14 759 $
+Repas (2 200 $ x 50 %)
+1 100 $
+Frais de véhicule à moteur
+2 897 $
+Total des dépenses d’entreprise
+37 866 $
+Revenu net avant rajustements
+(30 366) $
+Moins : bureau à domicile
+3 000 $
+Revenu net (pertes)
+(33 366) $
+[9] Il est clair que les principales dépenses de M. Berger sont celles qui ont trait aux déplacements. L’appelant a témoigné qu’il avait payé ses dépenses avec son indemnité de départ, mais il a reconnu que celle-ci a depuis été utilisée en entier. Il est récemment venu à la conclusion qu’il n’était plus économiquement viable de se déplacer autant.
+[10] M. Berger a maintenu qu’il avait mis l’accent sur la production d’un blogue de qualité croyant, encore à ce jour, que cela aurait pour effet d’accroître son lectorat et d’attirer des commanditaires. Il n’a pas communiqué directement avec de possibles commanditaires. La seule commandite qu’il a obtenue au fil des ans provenait d’un avocat, M. Bogoroch, qu’il avait rencontré, lors d’une fête, en juillet 2011. Dans un courriel daté de juillet 2011, M. Bogoroch avait informé M. Berger que son idée avait piqué sa curiosité et qu’il souhaitait le rencontrer. M. Berger ne croyait pas avoir un lectorat suffisant et voulait améliorer son site, ce qu’il a fait en septembre, c’est pourquoi il n’a pas répondu à M. Bogoroch avant décembre. M. Bogoroch était prêt à payer 7 500 $ pour que son logo soit affiché sur Berger Bytes durant les séries éliminatoires de la Coupe Stanley de 2012, et il a demandé à M. Berger d’assister directement aux parties. M. Berger n’a cherché aucun autre commanditaire en 2011 ou en 2012, ni depuis.
+[11] L’appelant a fait parvenir un courriel à environ 500 contacts, notamment à des personnes telles que Don Cherry et Ron MacLean, pour les informer de l’existence de son blogue.
+[12] Non seulement M. Berger rédigeait les chroniques de son blogue, mais il ajoutait également des photos des joueurs, des arénas, des conférences de presse, ainsi que des photos de sites dans les villes visitées, voire plusieurs pages de photos prises à partir du hublot d’un avion, entre autres. Il avait pris des photos pour le blogue de FAN 590 antérieurement.
+[13] L’appelant a fait valoir que, de façon générale, son lectorat augmentait, mais il n’a pas été en mesure de fournir des chiffres détaillés. Une pièce se rapportait au nombre de visites quotidiennes du site pour une brève période en 2014, soit une moyenne d’un peu plus de 5 000 visites par jour. M. Berger a reconnu qu’il y en aurait eu moins en 2011 et en 2012.
+[14] En raison de l’approche qu’il avait adoptée, M. Berger a convenu qu’il n’était pas payant pour lui de faire des reportages : il ne vendait pas d’abonnements dans les faits. Son revenu devait provenir de commanditaires convaincus que son site allait attirer un nombre important de lecteurs et, par conséquent, de clients potentiels pour eux.
+[15] M. Berger n’a pas préparé de plan d’affaires ni de budget officiels, et n’a pas fait de projections financières. Comme il le souligne, tous ses efforts ont été consacrés au contenu, un processus qui est toujours en cours.
+[16] Les parties ont convenu que les montants des dépenses n’étaient pas en cause, à l’exception du montant de 1 100 $ déduit à titre de frais de repas. La seule question en litige était de savoir si M. Berger avait une source de revenu, en d’autres termes : exploitait-il une entreprise?
+[17] Les deux parties on fait référence à l’arrêt de principe que la Cour suprême du Canada a rendu en 2002 dans l’affaire Stewart c R.[1], dans lequel la Cour suprême a remplacé l’ancien critère de l’« expectative raisonnable de profit » et a énoncé un nouveau processus pour traiter ce type de question.
+[18] Selon les directives de la Cour suprême du Canada, la première question qu’il convient de se poser est celle de savoir si l’activité est clairement de nature commerciale, auquel cas il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. Deuxièmement, s’il y a un aspect personnel, il faut se demander si le contribuable avait l’intention d’exercer une activité en vue de réaliser un profit, et s’il existe des éléments de preuve étayant cette intention. La Cour suprême du Canada souligne que, même si une activité peut s’inscrire dans une démarche personnelle, elle sera considérée comme une source de revenu si elle est exercée d’une manière suffisamment commerciale. Dans cette analyse, la Cour explique que « [c]ela oblige le contribuable à établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux ». La Cour poursuit en citant les facteurs objectifs qui doivent être pris en considération, tels que :
+1. l’état des profits et pertes pour les années antérieures;
+2. la formation du contribuable;
+3. la voie sur laquelle le contribuable entend s’engager;
+4. la capacité de l’entreprise de réaliser un profit;
+5. tout autre facteur.
+[19] Me Burgess, l’avocat de M. Berger, fait valoir que je ne dois pas pousser mon examen plus loin que la première question, car cette entreprise est clairement de nature commerciale et elle ne s’inscrit dans aucune démarche personnelle. Me Gotfried, l’avocat de la Couronne, soutient le contraire, c’est‑à‑dire que le fait qu’un amateur de sports comme M. Berger se déplace partout en Amérique du Nord pour suivre une équipe de hockey permet en tant que tel de conclure à l’existence d’un élément personnel important.
+[20] Me Burgess allègue que l’activité liée au blogue est la seule que je dois examiner pour décider si elle est de nature commerciale. En toute déférence, je ne souscris pas à cet argument. Je dois examiner la nature de l’entreprise, soit tout ce qui a trait à l’entreprise commerciale alléguée. La Cour suprême du Canada a donné deux exemples d’activités de nature clairement commerciale : un cabinet d’avocat et un restaurant. La Cour donne à penser qu’il n’est pas raisonnable de considérer que l’exercice de telles activités commerciales constitue un passe‑temps. L’entreprise de M. Berger n’avait pas trait uniquement à une activité de blogage, mais elle consistait également à assister à des parties, à des pratiques et à des conférences, à prendre des photos, à afficher des reportages et des photos sur le blogue, à attirer des lecteurs et à vendre de la publicité. Voilà en quoi consistait l’activité en question. Je reconnais l’aspect commercial de ces activités, dans leur ensemble, mais je conclus également que, pour un amateur de sports comme M. Berger, le fait de se rendre dans la ville de New York, par exemple, pour voir les Maple Leafs affronter les Rangers, comporte un élément personnel, tout comme le blogage en tant que tel. En fait, bien qu’on ne m’ait pas présenté d’élément de preuve à cet égard, il est conforme au bon sens de considérer que la nature du « blogage » relève tant du loisir que de la pratique commerciale. J’en conclus que les activités de M. Berger comportent un élément personnel : elles ne sont pas clairement de nature commerciale, tel que ce concept a été défini par le raisonnement suivi dans l’arrêt Stewart. Il est clair, selon cet arrêt, que l’existence d’un élément personnel important n’est pas requise : le poids de l’aspect personnel comparativement à celui de l’aspect commercial de l’entreprise fait l’objet de la prochaine étape de l’analyse. Comme je l’ai déjà souligné, des attributs de nature commerciale suffisants sont susceptibles de l’emporter sur l’élément personnel et de quand même m’amener à conclure qu’il s’agit d’une source de revenus.
+[21] En passant maintenant au second aspect de l’analyse, et en faisant référence au critère élaboré par la Cour suprême du Canada, la question est maintenant de savoir si M. Berger a établi que son intention prédominante était de tirer profit de l’activité, et si celle-ci a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux.
+[22] Me Burgess a souligné, à juste titre, que cette étape de l’analyse n’a pas pour but de critiquer le sens des affaires du contribuable : le fait de prendre de mauvaises décisions d’affaires ne signifie pas qu’une personne n’est pas dans les affaires. Je souscris à cette position, mais, en même temps, je m’inspire de la Cour suprême du Canada pour traiter des normes objectives de comportement d’homme d’affaires sérieux. La ligne est parfois mince entre la prise de mauvaises décisions commerciales et l’incapacité à respecter ces normes objectives. En fait, les décisions sont-elles si mauvaises qu’aucun homme d’affaires exerçant des activités conformément à des normes objectives de comportement d’homme d’affaires sérieux ne les aurait prises? Dans le cas de M. Berger, il s’agirait d’un jugement sévère à porter envers une personne qui est dans les affaires depuis 18 mois seulement. Nous discuterons davantage de cette question plus loin.
+[23] Je traiterai des facteurs énoncés par la Cour suprême du Canada en évaluant la question relative au comportement d’homme d’affaires sérieux de M. Berger.
+État des profits et pertes pour les années antérieures [24] Il ne s’agit pas d’un facteur important pour la raison évidente que nous n’avons pas à nous pencher sur des années antérieures. Les années en cause, 2011 et 2012, représentent les 18 premiers mois des activités de M. Berger et, en 2011, la saison du hockey n’a duré que quatre mois. En termes commerciaux, M. Berger était dans la phase de démarrage, et la nature de l’activité était telle que la réalisation de profits immédiats était peu probable dans ce type d’entreprise liée aux médias. Tout comme pour un artiste qui peine à joindre les deux bouts (chanteur, danseur, écrivain…), durant les premières phases d’une carrière, certaines entreprises mettent nécessairement plus de temps à démarrer que d’autres.
+Formation du contribuable [25] En l’espèce, il ne s’agit pas du cas d’un amateur de hockey qui pense pouvoir exercer la profession de journaliste sportif. Il s’agit d’un journaliste sportif professionnel qui croit pouvoir être un homme d’affaires. La formation de M. Berger, bien que limitée du point de vue de l’instruction, est vaste du point de vue de l’expérience. M. Berger a été payé pendant plus de 20 ans pour faire des reportages ayant trait aux sports, principalement à l’égard des Maple Leafs (je ne peux m’empêcher d’ajouter qu’il me faut faire preuve d’une immense retenue pour m’abstenir de formuler un commentaire sur l’« héritage » actuel des Leafs). L’intimée s’est cependant empressée de me rappeler que M. Berger ne vendait pas ses reportages sportifs, qu’il n’y avait pas d’abonnement comme tel. Il gagnait de l’argent en vendant de la publicité sur son blogue. M. Berger a répondu qu’il pouvait attirer de la publicité seulement s’il avait un nombre suffisant de lecteurs, ce qu’il n’aurait qu’en produisant des reportages sportifs hors pair.
+[26] Je retiens certainement l’argument de l’intimée selon lequel M. Berger avait reçu une « formation » suffisante en matière de reportage sportif, mais qu’il n’avait ni l’instruction ni l’expérience pour vendre de la publicité ou pour diriger une entreprise relative aux médias. Je conclus cependant que cela n’est pas fatal. M. Berger a exercé une activité commerciale, le journalisme sportif, pour laquelle il a été payé pendant 20 ans, et il a profité de cette expérience pour tenter de continuer à gagner un revenu. Comme je l’ai mentionné plus tôt, il ne s’agit pas d’un amateur de sports qui a décidé de faire de sa passion un métier. M. Berger a un parcours impressionnant, lequel justifie qu’il ait adopté cette approche.
+Voie sur laquelle le contribuable entend s’engager [27] Premièrement, il faut mettre en contexte la voie sur laquelle M. Berger entendait s’engager : voici un homme dans la cinquantaine, qui constate qu’il risque de perdre son emploi et qui fonde sa capacité à gagner un revenu sur le journalisme sportif depuis plus de 20 ans. Il a acquis une certaine expérience en matière de blogage alors qu’il était encore employé chez FAN 590 et, lorsque l’inévitable s’est produit, il a pris la décision de se servir de son point fort, le journalisme sportif, pour gagner sa vie.
+[28] Quel était son plan? Dans son témoignage, M. Berger a expliqué que son plan était simple : continuer de suivre les Leafs, rédiger un blogue de qualité et accroître son lectorat pour attirer des commanditaires qui paieraient pour faire de la publicité sur son blogue. Il n’a pas préparé de plan d’affaires officiel, ni fait de projections financières. Il s’est concentré sur le produit et, après avoir utilisé Blogspot.com pendant une courte période, il a retenu les services de professionnels pour la création d’un site Web. Il a fait parvenir 500 courriels à des intervenants importants dans le milieu des médias en matière de hockey pour les informer de l’existence de son blogue.
+[29] L’intimée a mis l’accent sur ce qui manquait dans le contexte de la voie sur laquelle M. Berger entendait s’engager : aucun plan actif en matière de sollicitation auprès des annonceurs, et aucune planification financière. Il n’a fait que continuer à faire ce qu’il faisait, en payant les dépenses engagées au moyen de son indemnité de départ en espérant que des annonceurs voudraient communiquer avec lui. Selon l’intimée, il ne s’agit pas là de la voie d’un homme d’affaires sérieux. M. Berger a gagné un revenu sans faire d’efforts actifs.
+[30] Le premier facteur était neutre. Le deuxième facteur laissait entendre que M. Berger exploitait une entreprise. Le présent facteur est source d’un dilemme, soit celui qui consiste à porter un jugement sur le sens des affaires de M. Berger ou, simplement, à comparer les actes qu’il a posés aux normes objectives de comportement d’homme d’affaires sérieux. Le comportement d’homme d’affaires sérieux qu’il convient d’analyser plus particulièrement est celui qui porte sur la recherche de commanditaires. En espérant que son produit se vende sans plus d’effort, M. Berger n’a posé aucun acte. Et que s’est-il passé dans la présente affaire au cours des 18 premiers mois en question? Un commanditaire s’est effectivement manifesté, ce qui a confirmé le point de vue de M. Berger selon lequel une bonne idée, bien présentée, ne manquerait pas d’attirer des commanditaires. Aucune preuve ne m’a été présentée en ce qui a trait à la norme applicable en matière de vente de [traduction] « publicité sur un blogue », mais je suis influencé par deux facteurs : premièrement, il s’agissait des toutes premières étapes d’une « entreprise » qui venait de naître et la décision de choisir de mettre l’accent sur un produit de qualité afin d’attirer des lecteurs (ce qui est étayé par le fait que M. Berger a retenu les services de professionnels pour créer un site Web) est une décision que prendrait un homme d’affaires sérieux, et qui n’est pas sans être dénuée de fondement. Deuxièmement, l’idée de M. Berger et son produit ont fini par attirer un commanditaire. À mon avis, la voie qu’il entendait prendre (ou son inaction) faisait montre d’un mauvais sens des affaires, mais le fait de conclure que l’entreprise était de nature personnelle, sans plus, n’équivaut pas pour autant à manquer de jugement en affaires. Tout bien considéré, je conclus que M. Berger avait l’intention de réaliser un profit et qu’il a pris, dans les 18 mois en question, des mesures commerciales pour ce faire. Cependant, après avoir poursuivi sur cette voie sans qu’aucun commanditaire ne se soit manifesté, le jour viendra où M. Berger en arrivera à la conclusion que ses attentes en affaires ne sont pas à la hauteur de ses rêves personnels. On ne m’a pas présenté de renseignements sur les années ultérieures à 2012.
+Capacité de réaliser un profit [31] M. Berger a omis à cet égard de me fournir des projections, des chiffres sur le lectorat, quoi que ce soit, à vrai dire, qui me permettrait d’évaluer correctement la capacité de l’entreprise à réaliser des profits. Tout cela relève de la conjecture. Aucune donnée fiable, seulement un simple indice que son lectorat était à la hausse. Ce facteur milite à l’encontre de la position de M. Berger selon laquelle il ne s’agit pas d’un passe-temps, mais d’une entreprise. Les entreprises sont mises sur pieds pour réaliser des gains, dont les montants et la mesure dans laquelle elles sauront y parvenir sont généralement prévisibles. M. Berger ne semble pas maîtriser cet aspect. Ce qui m’amène à m’interroger sur la question de savoir si un lectorat constant, de quelques milliers de lecteurs, est suffisant pour attirer des commanditaires pour couvrir des dépenses de l’ordre de 30 000 $ à 40 000 $ par année.
+[32] Je conclus que le manque de preuve sur cet aspect n’est d’aucun secours à M. Berger, mais qu’il ne lui est pas non plus fatal. Je n’ai simplement pas été convaincu, d’une façon ou d’une autre, que cette entreprise est capable de réaliser un profit. Cependant, compte tenu du stade précoce de son entreprise et, lorsque l’activité est prise en considération avec les autres facteurs, je conclus qu’il ne s’agit pas seulement d’un loisir. J’en arrive à la conclusion que M. Berger avait comme intention principale de tirer un profit et qu’il s’est comporté, à cette fin, comme le ferait un homme d’affaires sérieux au cours des 18 premiers mois. Comme j’espère l’avoir exprimé clairement à M. Berger, mon opinion se limite à la phase de démarrage de cette entreprise.
+[33] Les appels sont accueillis et les questions sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que M. Berger exploitait une entreprise à l’égard de laquelle il avait le droit de déduire les pertes d’entreprises demandées pour les années d’imposition 2011 et 2012, autres que celles relatives aux frais de repas de 1 100 $, lesquels ne sont pas déductibles, comme en ont convenu les parties.
+Signé à Ottawa, Canada, ce 19e jour de juin 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 31e jour d’août 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 153
+Nº DU DOSSIER DE LA COUR :
+2014-4251(IT)I
+INTITULÉ :
+HOWARD BERGER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 3 juin 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 19 juin 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Brad Burgess
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Brad Burgess
+Cabinet :
+Lockyer Campbell Posner
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2002 CSC 46.

@@ -1,0 +1,205 @@
+Title: Trieste c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30753/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-91-30753-trieste-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-03-21
+
+# Trieste c. La Reine
+
+- Citation: 2012 CCI 91
+- Decision date: 2012-03-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7491, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trieste c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-21
+Référence neutre
+2012 CCI 91
+Numéro de dossier
+2008-331(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-331(IT)G
+ENTRE :
+george trieste,
+appelant
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 26 janvier 2012, à Toronto (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Avocat de l’appelant :
+Me John David Buote
+Avocat de l’intimée :
+Me Brent Cuddy
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001, 2002 et 2003 sont rejetés avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 31e jour de mai 2012.
+Erich Klein, réviseur
+Référence : 2012 CCI 91
+Date : 20120321
+Dossier : 2008-331(IT)G
+ENTRE :
+george trieste,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’appels de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 2000, 2001, 2002 et 2003. Dans ses déclarations de revenus canadiennes pour ces années, l’appelant a indiqué qu’il était non‑résident et a déclaré un revenu imposable de zéro.
+[2] L’avis de ratification (pièce A-1, onglet 28) énonce que le ministre a considéré que l’appelant était un résident du Canada en vertu de l’article IV de la Convention Canada-États-Unis en matière d’impôts (la « Convention ») et qu’il était donc assujetti à l’impôt au Canada en vertu de l’article 2 de la LIR.
+[3] La seule question dont je suis saisie est celle de savoir si, durant la période en cause, l’appelant était un résident des États‑Unis (les « É.-U. »), comme il l’affirme, ou un résident du Canada, comme l’affirme l’intimée, suivant l’article IV de la Convention. Les dispositions pertinentes de l’article IV sont ainsi rédigées :
+Convention Canada-États-Unis en matière d’impôts
+Article IV
+Résidence
+1. Au sens de la présente Convention, l’expression « résident d’un État contractant » désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l’impôt dans cet État, en raison de son domicile, de sa résidence, de son siège de direction, de son lieu de constitution ou de tout autre critère de nature analogue mais, dans le cas d’une succession ou d’une fiducie, seulement dans la mesure où les revenus que tire cette succession ou cette fiducie sont assujettis à l’impôt dans cet État, soit dans ses mains soit dans les mains de ses bénéficiaires.
+2. Lorsque, selon les dispositions du paragraphe 1, une personne physique est un résident des deux États contractants, sa situation est réglée de la manière suivante :
+a) Cette personne est considérée comme un résident de l’État contractant où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux États ou ne dispose d’un tel foyer dans aucun des États, elle est considérée comme un résident de l’État contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+b) Si l’État contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, elle est considérée comme un résident de l’État contractant où elle séjourne de façon habituelle;
+c) Si cette personne séjourne de façon habituelle dans les deux États ou si elle ne séjourne de façon habituelle dans aucun des États, elle est considérée comme un résident de l’État contractant dont elle possède la citoyenneté; et
+d) Si cette personne possède la citoyenneté des deux États ou si elle ne possède la citoyenneté d’aucun d’eux, les autorités compétentes des États contractants tranchent la question d’un commun accord.
+[4] L’appelant est un citoyen américain, et il n’est pas contesté qu’il était réputé être un résident du Canada en vertu de l’alinéa 250(1)a) de la LIR, étant donné qu’il a séjourné au Canada plus de 183 jours au cours de chacune des années en cause. Cependant, selon le paragraphe 250(5) de la LIR, l’appelant sera réputé ne pas être un résident du Canada s’il est un résident des É.‑U. en vertu de la Convention, d’où l’importance de la détermination de la résidence de l’appelant selon l’article IV de la Convention.
+[5] Les paragraphes 2(1) et (2), l’alinéa 250(1)a) et le paragraphe 250(5) de la LIR sont ainsi rédigés :
+IMPÔT SUR LE REVENU
+SECTION A — ASSUJETTISSEMENT À L’IMPÔT
+2(1) Impôt payable par les personnes résidant au Canada — Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, pour chaque année d’imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l’année.
+(2) Revenu imposable — Le revenu imposable d’un contribuable pour une année d’imposition est son revenu pour l’année plus les ajouts prévus à la section C et moins les déductions qui y sont permises.
+[…]
+250(1) Personne réputée résider au Canada — Pour l’application de la présente loi, une personne est réputée, sous réserve du paragraphe (2), avoir résidé au Canada tout au long d’une année d’imposition si :
+a) elle a séjourné au Canada au cours de l’année pendant une période ou des périodes dont l’ensemble est de 183 jours ou plus;
+[…]
+250(5) Personne réputée non-résidente — Malgré les autres dispositions de la présente loi (sauf l’alinéa 126(1.1)a)), une personne est réputée ne pas résider au Canada à un moment donné dans le cas où, à ce moment, si ce n’était le présent paragraphe ou tout traité fiscal, elle résiderait au Canada pour l’application de la présente loi alors que, en vertu d’un traité fiscal conclu avec un autre pays, elle réside dans ce pays et non au Canada.
+[6] Les faits sur lesquels le ministre s’est fondé et que l’appelant a admis sont exposés comme suit au paragraphe 6 de la réponse à l’avis d’appel :
+[traduction]
+6. Pour déterminer la dette fiscale de l’appelant pour la période, le ministre a formulé les hypothèses de fait suivantes :
+a) à toutes les époques pertinentes, l’appelant était un citoyen des États‑Unis d’Amérique;
+b) l’appelant est venu au Canada en mai 1999, et il a commencé à travailler à temps plein comme entrepreneur indépendant en vertu d’un contrat avec Onsite Engineering and Management Inc. (« Onsite ») ayant pour objet la prestation de services personnels au site d’Ontario Power Generation Inc. (« OPG ») à Pickering, en Ontario, pour une durée indéterminée;
+c) la totalité du revenu d’entreprise de l’appelant pour les années d’imposition 2000, 2001, 2002 et 2003, s’élevant aux montants de 232 878 $, de 380 513 $, de 334 824 $ et de 242 917 $ respectivement (les « montants »), a été tiré de services fournis au Canada;
+d) l’appelant est demeuré au Canada pendant 333 jours en 2000, 331 jours en 2001, 333 jours en 2002 et 337 jours en 2003;
+e) du 18 mai 1999 à novembre 2002[1], l’appelant a loué et habité un bien locatif situé Royal Avenue, à Pickering, en Ontario;
+f) en novembre 2002[2], l’appelant a acheté et habité un bien situé au 183, Lake Drive, unité 219, à Ajax, en Ontario (le « bien »);
+g) l’appelant a vendu le bien le 27 février 2006;
+h) l’appelant possède des effets personnels et des articles ménagers, dont une voiture, au Canada;
+i) l’appelant possédait des comptes bancaires auprès d’institutions financières canadiennes et des cartes de crédit émises par des institutions financières canadiennes;
+j) l’appelant est couvert par le régime d’assurance‑hospitalisation et d’assurance‑maladie de la province d’Ontario;
+k) l’appelant a demandé, au moyen du formulaire 2555, dans chacune de ses déclarations de revenus des particuliers américaines pour les années d’imposition 2000, 2001, 2002 et 2003 l’exclusion d’un montant de revenus gagnés à l’étranger;
+l) l’appelant a continué à travailler et à vivre au Canada après le 31 décembre 2003.
+[7] Il est incontesté que l’appelant disposait d’un foyer d’habitation permanent dans les deux États. La question que je dois trancher est donc celle de savoir avec quel État les liens personnels et économiques de l’appelant étaient les plus étroits (dans quel État il avait le centre de ses intérêts vitaux) et, si je ne parviens pas à trancher cette question, dans quel État l’appelant a séjourné de façon habituelle durant ces années. Si je ne parviens pas non plus à trancher cette dernière question, l’appelant sera considéré comme ayant été un résident des États‑Unis en raison de sa citoyenneté américaine.
+Faits présentés à l’audience
+[8] L’appelant, qui ne possède pas de diplôme d’études postsecondaires, a travaillé à bord de sous-marins nucléaires sur un chantier naval aux É.‑U. pendant 13 ans. Il a ensuite travaillé dans des centrales nucléaires à différents endroits aux É.‑U. La plupart des postes qu’il a occupés au cours des 25 dernières années de sa carrière ont été des postes temporaires, qui l’ont obligé à beaucoup de déplacements et à de nombreux déménagements (réinstallations) aux É.‑U. Avant de venir au Canada, l’appelant avait travaillé pendant environ cinq ans à titre contractuel pour Onsite Engineering & Management Inc. (« Onsite ») dans les établissements nucléaires au Colorado et à Oak Ridge, au Tennessee, où il vivait. L’appelant et son épouse ont acheté une maison à Oak Ridge le 2 juillet 1999 (pièce A-1, onglet 9).
+[9] Le 30 avril 1999, l’appelant a été engagé par Onsite pour réaliser des travaux pour Ontario Power Generation (« OPG ») en Ontario (pièce A-1, onglet 1). Selon l’appelant, il s’agissait d’un contrat de 18 mois (transcription, pp. 32‑33). L’appelant a obtenu une autorisation d’emploi de Citoyenneté et Immigration Canada pour la période du 15 mai 1999 au 15 mai 2000 (pièce A-1, onglet 2). Il a emménagé au début du mois de mai 1999 dans un condominium loué, où il est demeuré pendant environ six mois, habitant avec deux personnes qui avaient également travaillé avec lui auparavant à Oak Ridge.
+[10] Le 1er janvier 2000, Onsite et l’appelant ont conclu une entente de consultation d’une durée indéterminée ayant pour objet la prestation de services de génie et de gestion à OPG dans le cadre d’un projet de nettoyage de chaudière à la centrale nucléaire de Pickering (pièce A-1, onglet 4). Il semble que cette autorisation d’emploi de l’appelant a été prolongée jusqu’au 31 décembre 2005 (pièce A-1, onglets 6 et 7). À partir de juin 2000, l’épouse de l’appelant a vécu périodiquement avec lui au Canada, et ils ont acheté un condominium (le « bien Cumberland ») à Ajax, en Ontario, qui a été vendu en décembre 2000 (comme l’indique le gain en capital déclaré dans leur déclaration de revenus américaine conjointe, pièce A-1, onglet 23, p. 84). Il y a eu mainlevée de l’hypothèque grevant ce bien le 28 février 2001 (pièce A-1, onglet 12). À ce moment, l’épouse de l’appelant est retournée au Tennessee pour recevoir des soins médicaux. Les époux avaient gardé à leur disposition leur maison à Oak Ridge, au Tennessee, et leurs effets personnels se trouvaient là-bas.
+[11] Le 8 décembre 2000, l’appelant a acheté un condominium sur Lake Driveway à Ajax, en Ontario. Son épouse lui a rendu visite et est restée avec lui à cet endroit quelques fois. L’appelant retournait à sa maison à Oak Ridge, au Tennessee, une fois par mois ainsi que pour les congés (Noël et le Nouvel An, la fin de semaine du 4 juillet et la fin de semaine de la fête du Travail). Il continuait à voir sa famille et ses amis aux É.‑U. et à s’y adonner, lors de ses visites, à son principal passe-temps, le tir au pigeon d’argile, au club de tir dont il était membre au Tennessee.
+[12] Au Canada, l’appelant avait quelques amis du travail avec qui il partageait des intérêts communs, comme le ski et le vélo. Il conduisait sa voiture, qui était immatriculée et assurée aux É.‑U., et utilisait son permis de conduire américain. Son épouse avait sa propre voiture au Tennessee.
+[13] L’appelant avait plusieurs placements aux É.‑U. Il a conservé ces placements ainsi que ses cartes de crédit américaines et ses comptes bancaires américains, dans lesquels sa rémunération d’Onsite était déposée directement. Au Canada, il a ouvert un compte bancaire personnel et un compte hypothécaire pour les condominiums et s’est muni d’une carte de crédit canadienne. Il était admissible à la protection de l’Assurance-santé de l’Ontario du 4 novembre 2003 au 31 décembre 2005 (pièce A‑1, onglet 20). Il semble que, durant la période de 2000 à 2003, l’appelant a eu presque toutes ses consultations médicales dans une clinique à Pickering, en Ontario (pièce A-1, onglet 21). Durant cette même période, il a conservé son assurance‑maladie au Tennessee, tel qu’il appert du rapport de réclamations de la Blue Cross Blue Shield of Tennessee (pièce A-1, onglet 22).
+[14] Le contrat entre l’appelant et Onsite relativement aux travaux dans les installations d’OPG a pris fin en 2005, et il semblerait que l’appelant soit alors retourné au Tennessee. Il a témoigné que, durant toute la période où il a travaillé au Canada, il n’avait jamais eu l’intention de demeurer au pays par la suite. Il a continué à envoyer des curriculum vitae à différentes sociétés aux É.‑U. dans une tentative pour rejoindre sa famille.
+[15] L’appelant a produit des déclarations de revenus aux É.‑U. durant toute la période en cause. Cependant, il a demandé des crédits d’impôt au titre du revenu étranger en se prévalant, sur le formulaire 2555 des É.-U. rempli pour chacune des années en cause et sur lequel il indiquait que son domicile fiscal était au Canada pour les années 2001, 2002 et 2003, de l’exclusion de revenus gagnés à l’étranger (pièce R-2, onglet 21). En conséquence, l’Internal Revenue Service (l’« IRS ») américain a refusé d’accorder une attestation de résidence aux É.-U. et n’a pas considéré l’appelant comme un résident des É.‑U. pour les années 2002 et 2003 (pièce R-2, onglet 11).
+[16] M. Gord Arsenault, qui était analyste des coûts et des délais à la centrale nucléaire de Pickering à l’époque où l’appelant y a travaillé, a témoigné. Il a dit que l’appelant faisait partie d’un groupe d’Américains qui étaient venus travailler à différents projets pour Ontario Hydro pour une très bonne rémunération. M. Arsenault a dit qu’aucun de ces travailleurs n’était ici à titre permanent et que, en ce qui avait trait plus particulièrement à l’appelant, M. Arsenault avait toujours eu l’impression que l’appelant retournerait aux É.‑U.
+[17] Mme Giorgiana Vaughan, la fille de l’appelant, a confirmé que son père retournait chez lui au Tennessee une fois par mois et pour les congés. Elle a dit que, durant les années en cause, chaque fois qu’il retournait, il travaillait à des projets comme la construction d'une terrasse derrière la maison. Mme Vaughan s’est occupée des affaires bancaires américaines de son père durant ces années.
+Analyse
+[18] Comme je l’ai dit au début, les parties ont convenu que la seule question en litige est celle de savoir si l’appelant était un résident du Canada en vertu de l’article IV de la Convention.
+[19] Les deux parties admettent que l’appelant disposait d’un foyer d’habitation permanent dans les deux pays.
+[20] La prochaine étape consiste donc à déterminer l’État dans lequel l’appelant avait le centre de ses intérêts vitaux.
+[21] Je conviens avec l’avocat de l’appelant que l’appelant a maintenu des liens personnels et économiques avec les É.‑U. La maison au Tennessee qu’il a gardé à sa disposition et où se trouvaient ses effets personnels et où son épouse est demeurée pendant qu’elle suivait un traitement médical, la protection qu’avait l’appelant en matière de santé, son appartenance à son club de tir, ses comptes bancaires dans lesquels sa rémunération était déposée, ses placements et ses cartes de crédit aux É.‑U., ainsi que ses véhicules immatriculés et assurés aux É.‑U., démontrent tous son attachement, à la fois personnel et économique, à ce pays.
+[22] Toutefois, je conviens également avec l’avocat de l’intimée que l’appelant avait aussi des liens personnels et économiques avec le Canada durant la période en cause. Certes, il travaillait pour une société américaine (Onsite), mais les services étaient fournis à OPG à Pickering, en Ontario, et c’était OPG qui payait Onsite pour ces services en fin de compte. De plus, le contrat en vertu duquel ces services ont été fournis était d’une durée indéterminée. L’appelant a acheté deux condominiums au Canada, lesquels lui ont permis de réaliser un gain en capital ou, à tout le moins, l’un d’eux, le premier, lui a rapporté un gain en capital, comme il l’a indiqué dans sa déclaration de revenus américaine. Il avait un compte bancaire personnel au Canada ainsi qu’un compte hypothécaire pour ses biens-fonds. Il avait une carte de crédit canadienne. Il a tissé des liens personnels avec quelques personnes au travail, et il est allé faire du ski et du vélo avec une d’entre elles dans ses temps libres. Il a fini par obtenir la protection de l’Assurance‑maladie de l’Ontario. Dans ses déclarations de revenus américaines, il a demandé les crédits d’impôt au titre du revenu étranger offerts aux citoyens américains non-résidents.
+[23] La question est donc la suivante : avec quel État les liens personnels et économiques de l’appelant étaient‑ils les plus étroits? Je conviens avec l’intimée que cette question ne peut recevoir de réponse claire. L’appelant a cité l’arrêt Gaudreau c. Canada, 2005 CAF 388, 2005 CarswellNat 3818, confirmant 2004 CCI 840, 2004 CarswellNat 4775. C’est moi qui ai instruit cette affaire en première instance, et lorsque je me suis penchée sur la question du centre des intérêts vitaux, j’ai cité le Modèle de convention fiscale concernant le revenu et la fortune de l’OCDE, en affirmant ce qui suit au paragraphe 37 de ma décision :
+37 Le modèle de convention fiscale de l’OCDE est reconnu mondialement comme un document de référence fondamental pour l’application et l’interprétation des conventions fiscales (voir le jugement rendu par la Cour suprême du Canada sous l’intitulé The Queen v. Crown Forest Industries Limited et al., 95 DTC 5389 (Crown Forest Industries Ltd. c. Canada, [1995] 2 R.C.S. 801), à la page 5398. Dans sa version condensée du 28 janvier 2003, le paragraphe 15 des commentaires sur l’article 4 énonce ce qui suit :
+15. Lorsque la personne physique a un foyer d’habitation permanent dans les deux États contractants, il y a lieu de rechercher dans les faits celui des deux États avec lequel les liens personnels et économiques sont les plus étroits. Seront ainsi pris en considération les relations familiales et sociales de l’intéressé, ses occupations, ses activités politiques, culturelles ou autres, le siège de ses affaires, le lieu d’où il administre ses biens, etc. Les circonstances doivent être examinées dans leur ensemble; mais il est évident cependant que les considérations tirées du comportement personnel de l’intéressé doivent spécialement retenir l’attention. Si une personne qui a une habitation dans un État établit une deuxième habitation dans un autre État, tout en conservant la première, le fait que l’intéressé conserve cette première habitation dans le milieu où il a toujours vécu, où il a travaillé et où il garde sa famille et ses biens peut, avec d’autres éléments, contribuer à démontrer qu’il a conservé le centre de ses intérêts vitaux dans le premier État.
+[24] Je crois que les faits en l’espèce diffèrent de ceux de l’affaire Gaudreau. Ici, l’appelant a témoigné que lui et sa famille avaient déménagé de nombreuses fois dans le passé. Son habitation au Tennessee a été achetée en juillet 1999, soit après qu’il fut venu pour la première fois au Canada pour son premier contrat de travail avec Onsite à Pickering, en Ontario. Dans l’affaire Gaudreau, le contribuable et son épouse étaient des citoyens canadiens qui possédaient la maison paternelle héritée des parents de l’épouse au Canada. Le contribuable n’avait pas acheté de propriété en Égypte, le pays où du travail lui avait été assigné, tandis que l’appelant en l’espèce a acheté deux condominiums durant son affectation au Canada, et nous savons que l’un d’eux lui a permis de réaliser un gain en capital. L’appelant avait également des relations et activités sociales au Canada.
+[25] À mon avis, il n’est pas possible de déterminer avec quel pays les liens personnels et économiques de l’appelant étaient les plus étroits, et je conviens avec l’intimée que cette question ne peut être déterminante relativement à la question litigieuse en l’espèce.
+[26] En conséquence, la prochaine étape consiste à déterminer dans quel pays l’appelant séjournait de façon habituelle.
+[27] L’appelant a dit qu’il avait séjourné de façon habituelle dans les deux pays. L’intimée est d’avis que l’appelant séjournait de façon habituelle au Canada. L’arrêt Lingle c. R., 2010 CAF 152, 2010 CarswellNat 2835, confirmant 2009 CCI 435, 2009 CarswellNat 4382, traite directement de cette question. La Cour d’appel fédérale a dit ce qui suit aux paragraphes 6, 7 et 8 :
+6 Il serait imprudent de tenter de formuler une règle ou une série de critères pouvant s’appliquer dans toutes les situations. Le choix du critère approprié dépend des faits et des circonstances de chaque cas. La version française de « habitual abode », plus claire que la version anglaise, comporte des notions de fréquence, de durée et de régularité de séjours de qualité qui sont plus que temporaires (en français : « séjourne de façon habituelle »). Autrement dit, cette règle nécessite qu’une personne séjourne dans un État assez longtemps et de façon régulière pour permettre de conclure qu’il s’agit de l’endroit où le contribuable vit habituellement.
+7 Cette interprétation est conforme à la définition du mot « habituelle » tirée du dictionnaire Le Petit Robert 2006 :
+1. Qui tient à l’habitude par sa régularité, sa constance.
+2. Qui est constant, ou très fréquent.
+8 Cette interprétation est également conforme au commentaire formulé dans le Modèle de l’OCDE concernant le paragraphe IV(2) où il est indiqué que lorsqu’il s’agit de comparer les séjours d’une personne dans deux États pour déterminer si elle a « séjourn[é] de façon habituelle » et dans quel état elle a ainsi séjourné, « [l]a comparaison doit porter sur une période suffisamment longue pour permettre d’apprécier si la résidence dans chacun des deux États est habituelle et d’apprécier aussi la périodicité des séjours » : voir le Modèle de Convention fiscale concernant le revenu et la fortune de l’OCDE, Comité des affaires fiscales de l’OCDE, vol. 1, juillet 2008, page C(4)-6.
+[28] M. Lingle était également un citoyen américain. Il avait travaillé pour OPG à sa centrale nucléaire de Pickering durant les années 2004 et 2005.
+[29] En première instance, la juge Campbell de la Cour a conclu que M. Lingle n’avait pas séjourné de façon habituelle aux É.‑U. pour l’application de la Convention. Elle a affirmé ce qui suit aux paragraphes 20 à 30 inclusivement :
+[20] Les paragraphes pertinents, soit les paragraphes 16 à 20 du Commentaire concernant le paragraphe IV(2) du Modèle de l’OCDE, prévoient ce qui suit :
+16. L’alinéa b) établit un critère secondaire pour deux situations bien distinctes et différentes, à savoir :
+a) le cas où la personne physique dispose d’un foyer d’habitation permanent dans chacun des États contractants et où on ne peut déterminer celui de ces États où elle a le centre de ses intérêts vitaux;
+b) le cas où la personne physique ne dispose d’un foyer d’habitation permanent dans aucun des États contractants.
+Préférence est donnée à l’État contractant où la personne physique séjourne de façon habituelle.
+17. Dans la première situation visée, à savoir le cas où la personne physique dispose d’un foyer d’habitation permanent dans chacun des États, le fait du séjour habituel dans un État plutôt que dans l’autre apparaît donc comme la circonstance qui, en cas de doute quant à l’endroit où l’intéressé a le centre de ses intérêts vitaux, fait pencher la balance du côté de l’État où il séjourne le plus souvent. Doivent être pris en considération, à cet égard, les séjours faits par l’intéressé non seulement au foyer d’habitation permanent de l’État considéré mais aussi à tout autre endroit du même État.
+18. La deuxième situation envisagée est le cas d’une personne physique qui ne dispose d’un foyer d’habitation permanent dans aucun des États contractants, comme par exemple une personne passant d’un hôtel à l’autre. Dans ce cas, également, tous les séjours faits dans un État doivent être pris en considération, sans qu’il faille en rechercher la raison.
+19. En disposant que, dans les deux situations qu’il envisage, la préférence est donnée à l’État contractant où la personne physique séjourne de façon habituelle, l’alinéa b) ne précise pas sur quelle période doit avoir lieu la comparaison. La comparaison doit porter sur une période suffisamment longue pour permettre d’apprécier si la résidence dans chacun des deux États est habituelle et d’apprécier aussi la périodicité des séjours.
+20. Lorsque, dans les deux situations visées à l’alinéa b), la personne physique séjourne de façon habituelle dans chacun des États contractants, ou lorsque l’intéressé ne séjourne de façon habituelle dans aucun d’eux, préférence est donnée à l’État dont la personne physique possède la nationalité. Si, toujours dans ces cas, l’intéressé possède la nationalité de chacun des États contractants, ou s’il ne possède la nationalité d’aucun d’eux, l’alinéa d) confie aux autorités compétentes le soin de trancher la difficulté d’un commun accord, selon la procédure amiable prévue à l’article 25.
+[21] L’intimée soutient que le Commentaire, et en particulier le paragraphe 17, montre clairement qu’une personne séjourne de façon habituelle dans l’État où elle « séjourne le plus souvent ». Si l’on applique le critère énoncé dans le Commentaire et s’il est tenu compte du nombre total de séjours effectués par l’appelant au Canada et aux États‑Unis, le lieu de séjour habituel de l’appelant est au Canada, selon l’intimée, parce que c’est dans ce pays que l’appelant « séjourne le plus souvent ».
+[22] Toutefois, l’examen minutieux des paragraphes pertinents du Commentaire n’étaye pas l’interprétation stricte que l’intimée donne à ces dispositions. Le paragraphe 16 du Commentaire explique que le séjour habituel est le critère secondaire qui permet de déterminer la résidence du contribuable lorsque l’analyse initiale concernant le foyer d’habitation permanent et le centre des intérêts vitaux n’est pas concluante. Le paragraphe 17 explique que le séjour habituel détermine la résidence d’une personne lorsque cette dernière dispose d’un foyer d’habitation permanent dans chacun des deux États, mais qu’elle séjourne de façon habituelle dans un État, mais non dans l’autre. En pareil cas, la personne séjourne le plus fréquemment là où elle a son unique lieu de séjour habituel. Ce paragraphe précise que la fréquence du séjour est pertinente lorsqu’il s’agit de savoir si une personne séjourne de façon habituelle dans un État donné. Toutefois, ce paragraphe ne va clairement pas jusqu’à donner à entendre que la fréquence du séjour ou le nombre de séjours dans chaque État est le facteur déterminant ou l’unique facteur à prendre en considération.
+[23] À mon avis, le paragraphe 19 du Commentaire est plus pertinent lorsqu’il s’agit d’interpréter ce qu’on entend par « séjour habituel ». Cette disposition précise que : « La comparaison doit porter sur une période suffisamment longue pour permettre d’apprécier si la résidence dans chacun des deux États est habituelle. » [Non souligné dans l’original.]
+[24] L’analyse concernant le séjour habituel que John F. Avery Jones et coll. ont faite dans l’article intitulé : « Dual Residence of Individuals: The Meaning of the Expressions in the OECD Model Convention », [1981] British Tax Review 15, étaye l’approche susmentionnée. À la page 113, il est dit ce qui suit :
+[traduction]
+Quant au troisième critère concernant l’État dans lequel le contribuable séjourne de façon habituelle, le mot « abode » (séjour) a, en anglais, deux sens qui sont pertinents : un endroit tel qu’une maison ou une notion plus abstraite de la résidence, dont voici un exemple :
+May never glorious sun reflex his beam
+Upon the country where you make abode.
+(Puisse le glorieux soleil ne jamais réfléchir ses rayons sur le pays dans lequel vous séjournez.)
+Ce mot n’est pas d’usage courant, dans un sens ou dans l’autre, quoiqu’il ne soit pas qualifié de désuet dans l’Oxford English Dictionary. L’emploi de l’adjectif « habitual » (habituel) montre clairement que c’est le dernier emploi qui s’applique, étant donné que la mention d’une maison habituelle ne veut rien dire. La version française officielle est beaucoup plus claire : où elle séjourne de façon habituelle. [...]
+À la page 116 figure la remarque suivante, qui est particulièrement intéressante :
+[traduction]
+Selon le Modèle de l’OCDE, la bonne façon d’appliquer le critère consiste à se demander, pour chaque État, si le contribuable y séjourne de façon habituelle, de la même façon que l’on se demande si celui-­ci dispose d’un foyer d’habitation permanent. D’autre part, le commentaire donne à entendre que le critère se rapporte plus précisément à la question de savoir avec quel État les liens personnels et économiques du contribuable sont les plus étroits, c’est-à-dire qu’il s’agit d’un critère comparatif : dans quel État le contribuable séjourne-t-il de façon habituelle? Il s’agit probablement d’un résultat inattendu du commentaire, qui dit ensuite : « La comparaison doit porter sur une période suffisamment longue pour permettre d’apprécier si la résidence dans chacun des deux États est habituelle [...] » Le passage que nous avons mis en italiques est, selon nous, le critère à appliquer en vertu de l’alinéa b), et le fait qu’il est mentionné qu’il s’agit d’une comparaison est trompeur. Cette interprétation est également étayée par le fait que le Modèle de l’OCDE parle ensuite de la situation du contribuable qui séjourne de façon habituelle dans les deux États; si le critère comportait simplement une comparaison du temps passé dans chaque État, cela pourrait uniquement se produire lorsque le contribuable a passé autant de temps ou presque autant de temps dans chaque État, ce qui ne semble pas avoir été l’intention. Il semble que l’expression « de façon habituelle » s’entende de la question de savoir si le fait d’habiter dans chaque État est normal. [...]
+[Non souligné dans l’original.]
+[25] Lorsqu’une convention comporte deux versions officielles dans deux langues différentes, la Convention de Vienne sur le droit des traités (R.T.Can. 1980, no 37), paragraphe 33(4), permet de comparer les textes afin d’adopter « [...] le sens qui, compte tenu de l’objet et du but du traité, concilie le mieux ces textes [...] ». L’alinéa IV(2)b) de la version française de la Convention prévoit ce qui suit :
+b) Si l’État contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, elle est considérée comme un résident de l’État contractant où elle séjourne de façon habituelle;
+[Non souligné dans l’original.]
+[26] La version française supprime en bonne partie toute ambiguïté susceptible d’exister dans la version anglaise.
+[27] Le mot « habitual » (habituel) est défini comme suit dans le Canadian Oxford Dictionary (2e éd. 2004) : [traduction] « qui est constant ou tient de l’habitude » ou [traduction] « régulier, continuel, usuel ». Dans le Black’s Law Dictionary (5e éd. 1979), ce mot est défini comme suit : [traduction] « coutumier, usuel, de la nature d’une habitude ». L’appelant soutient que l’interprétation à donner du mot « habitual » n’exige pas qu’il y ait un élément de fréquence. Au paragraphe 5.9 de son argumentation écrite, il dit ce qui suit :
+[traduction] Le mot « habituel » ne comporte aucun « élément de fréquence ». Selon les circonstances, le contribuable peut faire un séjour « de façon habituelle » s’il séjourne à l’endroit en question, une fois par semaine, une fois par mois ou une fois par année.
+[28] Je souscris à la thèse selon laquelle l’interprétation du séjour habituel comporte plus que la simple détermination de la question de savoir dans quel État une personne « séjourne le plus souvent ». Toutefois, je ne suis pas d’accord pour dire que la « fréquence » n’est pas pertinente aux fins de l’interprétation du séjour habituel. Les paragraphes 9 et 10 du Commentaire concernant le paragraphe IV(2) illustrent le contexte dans lequel les règles de départage doivent être prises en considération :
+9.Le paragraphe vise le cas où, en vertu des dispositions du paragraphe 1, une personne physique est un résident des deux États contractants.
+10. Pour résoudre ce conflit, il faut établir des règles spéciales qui donnent la prépondérance aux liens rattachant le contribuable à un État plutôt qu’à l’autre. Dans la mesure du possible, le critère de référence doit être tel qu’il ne fasse pas de doute que l’intéressé ne remplit les conditions requises que dans un État seulement; en même temps, le critère devra être tel que le lien retenu fasse paraître normale l’attribution à l’État considéré du droit de lever l’impôt. […]
+[Non souligné dans l’original.]
+Le Commentaire s’applique également aux règles de départage du paragraphe IV(2) de la Convention. Il s’ensuit logiquement que, si une personne séjourne dans un État de façon constante et répétitive un jour par année, bien que dans un sens ces séjours soient de la nature d’une habitude ou d’une nature coutumière, ces séjours n’indiqueraient pas l’existence d’un lien avec cet État à un point tel que le droit d’imposition soit normalement attribué à cet État particulier, lorsque les critères du foyer d’habitation permanent et du centre des intérêts vitaux ne sont pas concluants. Cette approche s’accorderait avec l’objet et le but des dispositions de la Convention, lesquelles visent notamment à régler les cas d’éventuelle double imposition.
+[29] Le paragraphe 31(1) de la Convention de Vienne sur le droit des traités établit l’approche suivante aux fins de l’interprétation d’une convention :
+1. Un traité doit être interprété de bonne foi suivant le sens ordinaire à attribuer aux termes du traité dans leur contexte et à la lumière de son objet et de son but. [Non souligné dans l’original.]
+Cela est conforme à la décision rendue par la Cour suprême du Canada dans l’arrêt Crown Forest [Crown Forest Industries Ltd. c. Canada, [1995] 2 R.C.S. 802], où l’accent était mis sur la nécessité de considérer le langage utilisé dans les dispositions ainsi que l’intention des rédacteurs de ces dispositions.
+[30] Il s’ensuit que l’approche qu’il convient d’adopter pour déterminer si l’appelant séjournait de façon habituelle aux États‑Unis consiste à se demander s’il résidait dans ce pays de façon habituelle, en ce sens qu’il vivait aux États‑Unis d’une façon régulière, coutumière ou usuelle. Les paragraphes 27 à 32 de l’exposé conjoint des faits et du point en litige renferment des énoncés pertinents qui aident à déterminer si l’appelant « vivait normalement » aux États‑Unis. Les parties ont convenu que l’appelant [traduction] « retournait la plupart du temps, de façon constante et répétitive, à sa maison au Canada, pendant la période en cause ». Dans sa vie quotidienne, « il vivait régulièrement, normalement et habituellement au Canada ». L’appelant [traduction] « n’avait pas d’autres contrats, d’autres clients ni d’autres entreprises aux É.-U. ». De plus, au cours de la période pertinente, il n’a passé que 69 jours sur 623 chez lui aux États‑Unis. Il est intéressant de noter que les énoncés sur lesquels les parties se sont entendues disent en toutes lettres que l’appelant [traduction] « vivait normalement au Canada » – ce qui répond à la définition qui est proposée dans l’article d’Avery Jones, à l’égard du mot « habitual » (de façon habituelle). Les séjours de l’appelant à la maison de Ransom étaient de la nature de visites périodiques, et son lieu de résidence [traduction] « normal » étant au Canada pendant toute la période. L’appelant ne séjournait pas de façon habituelle aux États‑Unis pour l’application de la Convention parce qu’il n’y vivait pas régulièrement, habituellement ou normalement. Compte tenu de l’ensemble des faits qui ont été portés à ma connaissance, les liens que l’appelant avait avec les États‑Unis étaient faibles comparativement à sa vie quotidienne au Canada. Par conséquent, l’appelant résidait au Canada pendant la période en cause et, cela étant, il est assujetti à l’impôt pour ce qui est du revenu d’entreprise qu’il avait gagné à titre d’expert‑conseil.
+[30] Comme la juge Campbell l’a conclu, avec l’approbation subséquente de la Cour d’appel fédérale, la méthode qu’il convient d’employer pour déterminer si l’appelant séjournait de façon habituelle aux É.‑U. consiste à vérifier s’il résidait dans ce pays de façon habituelle, en ce sens qu’il y vivait d’une façon régulière, coutumière ou usuelle durant la période en cause. En l’espèce, l’appelant a passé beaucoup plus de temps au Canada, n’a pas travaillé ailleurs durant cette période, et, dans sa routine de vie, il a vécu régulièrement et habituellement au Canada tout en retournant périodiquement aux É.‑U. Comme la Cour d’appel fédérale l’a affirmé, « “séjourne[r] de façon habituelle” […] nécessite qu’une personne séjourne dans un État assez longtemps et de façon régulière pour permettre de conclure qu’il s’agit de l’endroit où le contribuable vit habituellement » (paragraphe 6). Je conclus que, même si l’appelant retournait périodiquement aux É.‑U. – une fois par mois et pour les congés –, sa routine de vie, durant les années en cause, était établie au Canada et non aux É.‑U. Tout comme il a été conclu au sujet du contribuable dans Lingle, précité, l’appelant en l’espèce n’a pas séjourné de façon habituelle aux É.‑U. pour l’application de la Convention.
+[31] En conséquence, l’appelant était un résident du Canada au sens de l’article IV de la Convention durant les années 2000, 2001, 2002 et 2003 et, à ce titre, il était assujetti à l’impôt au Canada sur le revenu qu’il a tiré de ses contrats de consultant au Canada.
+[32] Les appels sont donc rejetés avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 31e jour de mai 2012.
+Erich Klein, réviseur
+RÉFÉRENCE : 2012 CCI 91
+NO DU DOSSIER DE LA COUR : 2008-331(IT)G
+INTITULÉ DE CAUSE : george trieste c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 26 janvier 2012
+MOTIFS DU JUGEMENT PAR : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 21 mars 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John David Buote
+Avocat de l’intimée :
+Me Brent Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me John David Buote
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] À l’audience, l’appelant a affirmé qu’il avait vécu dans le bien locatif jusqu’en juin 2000.
+[2] L’acte de transfert indique que le bien a été acheté le 8 décembre 2000 (pièce R-1, onglet 12).

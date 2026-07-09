@@ -1,0 +1,168 @@
+Title: Flood v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24959/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-186-24959-flood-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-03-29
+
+# Flood v. The Queen
+
+- Citation: 2006 CCI 186
+- Decision date: 2006-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2514, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Flood v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-29
+Référence neutre
+2006 CCI 186
+Numéro de dossier
+2005-446(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-446(IT)I
+ENTRE :
+ROBERT W. FLOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 7 mars 2006 à Kingston (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Pour l’appelant : L’appelant lui‑même
+Avocat de l’intimée : Me Pascal Tétrault
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de façon à autoriser la déduction de 9 109,76 $.
+Signé à Ottawa, Canada, ce 29e jour de mars 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 12e jour de février 2008.
+Maurice Audet, réviseur
+Référence : 2006CCI186
+Date : 20060329
+Dossier : 2005-446(IT)I
+ENTRE :
+ROBERT W. FLOOD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Le présent appel est interjeté à l’encontre d’une cotisation établie à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 relativement au coût lié au dépôt d’un avis d’opposition à une cotisation d’impôt sur le revenu établie à l’égard de la succession de sa mère, dont il était l’exécuteur et un bénéficiaire. M. Robert Flood est un avocat principal spécialisé en immobilier ainsi qu’en successions et en fiducies, à Brockville (Ontario).
+[2] Les faits et les arguments sont énoncés de façon très succincte et précise dans l’avis d’appel, et les faits allégués sont bien étayés par le témoignage de vive voix de M. Flood ainsi que par les éléments de preuve documentaire présentés.
+[3] L’ensemble de l’avis d’appel est rédigé ainsi :
+[traduction]
+FAITS
+1. Robert W. Flood est l’exécuteur et fiduciaire de la succession d’Irene Flood. Celle-ci (mère de Robert W. Flood) est décédée le 10 juillet 1998.
+2. Le 19 janvier 1999 : Robert W. Flood, en tant qu’exécuteur et fiduciaire de la succession d’Irene Flood, a produit la déclaration de revenus T1 (finale) pour 1998 à l’égard d’Irene Flood. Un gain en capital découlant de la disposition réputée (au décès d’Irene Flood) d’un bien immeuble représentant un fonds de terre vacant d’environ 32,4 acres a été déclaré dans cette déclaration de revenus. Un produit réputé de 71 000 $ a été déclaré (qui est la valeur moyenne du bien calculée entre la valeur du bien établie dans une lettre d’opinion fournie par un courtier en immeubles et la valeur imposable du bien).
+3. Le 15 mars 1999 : Un avis de cotisation a été envoyé à l’égard de la déclaration de revenus susmentionnée.
+4. Le 6 octobre 1999 : Robert W. Flood, en tant qu’exécuteur de la succession d’Irene Flood, a demandé un certificat de décharge en vertu de l’article 159 de la Loi de l’impôt sur le revenu.
+5. Le 10 janvier 2001 : Robert W. Flood a téléphoné à l’ADRC pour se renseigner sur l’état du certificat de décharge qui avait été demandé le 6 octobre 1999. L’ADRC a informé Robert W. Flood qu’elle avait obtenu une évaluation interne du bien immeuble, en estimant la valeur à 500 000 $, et que le dossier avait été renvoyé aux Enquêtes spéciales pour qu’elles étudient la possibilité de porter une accusation de fraude fiscale contre Robert W. Flood.
+6. Le 26 janvier 2001 : Robert W. Flood a obtenu une évaluation du bien immeuble, laquelle estimait que le bien immeuble avait une valeur de 260 000 $.
+7. Le 31 janvier 2001 : Robert W. Flood a retenu les services d’un avocat (Me Charles M. Rotenberg du cabinet d’avocats Rasmussen Starr Ruddy).
+8. À partir du 31 janvier 2001, Me Charles M. Rotenberg a communiqué avec l’ADRC au moyen de lettres, de téléphones et de réunions pour faire valoir que la question fiscale n’était pas une question de fraude fiscale, mais simplement de juste valeur marchande (JVM) du bien immeuble. Il fallait donc la traiter comme une question de nature civile en établissant pour le bien immeuble une JVM qui serait acceptable pour l’ADRC et le contribuable. Dans le cas où les parties seraient incapables de s’entendre en ce qui concerne la JVM, un avis de nouvelle cotisation serait envoyé, et la procédure civile qui s’ensuivrait permettrait de tirer une conclusion quant à la JVM. L’ADRC a décidé d’obtenir encore une autre évaluation, cette fois‑ci, d’un évaluateur externe.
+9. Le 25 janvier 2002 : L’ADRC a obtenu une évaluation externe, laquelle indiquait que le bien immeuble avait une JVM de 200 000 $.
+10. Le 11 mars 2002 : Après avoir rencontré l’ADRC, l’évaluateur externe qui avait fourni l’évaluation de 200 000 $ a écrit une lettre à l’ADRC pour dire que la JVM pourrait être de 260 000 $.
+11. a) Le 24 avril 2002 : Rasmussen Starr Ruddy (Me Charles M. Rotenberg) a envoyé un relevé de compte de 3 808,40 $ à la succession d’Irene Flood pour services professionnels rendus entre le 30 juillet 2001 et le 17 avril 2002. Ce relevé de compte comportait l’énoncé suivant :
+« Selon l’alinéa 60o) de la Loi de l’impôt sur le revenu, ces frais sont déductibles dans l’année où ils ont été payés. Ils sont déductibles par la personne qui les a payés, même s’il ne s’agit pas du contribuable dont la cotisation d’impôt a été portée en appel. »
+b) Le relevé de compte daté du 24 avril 2002 a été payé par Robert W. Flood.
+12. Le 29 avril 2002 : Une citation a été signifiée à Robert W. Flood. Dans cette citation, Robert W. Flood est accusé d’avoir éludé le paiement de l’impôt sur le revenu fédéral en vertu de l’alinéa 239(1)d) de la Loi de l’impôt sur le revenu en déclarant en moins le gain en capital imposable qu’il a réalisé à la disposition réputée du bien immeuble déclaré dans la déclaration de revenus T1 d’Irene Flood pour l’année 1998. L’accusation au criminel de fraude fiscale contre Robert W. Flood a été rejetée le 8 avril 2004. L’ADRC n’a pas porté la décision en appel. Le tribunal criminel n’a pas tiré de conclusion concernant la JVM du bien immeuble. Dans son jugement, il souligne que l’établissement de la JVM est une question qui doit être tranchée dans le cadre d’une procédure civile.
+13. Le 29 mai 2002 : Un avis de nouvelle cotisation a été envoyé concernant la déclaration de revenus T1 d’Irene Flood pour l’année 1998, lequel tient compte d’une révision du produit réputé, qui est passé à 260 000 $.
+14. Le 2 juillet 2002 : Me Charles M. Rotenberg a déposé un avis d’opposition à la nouvelle cotisation datée du 29 mai 2002.
+15. a) Le 15 septembre 2002 : Rasmussen Starr Ruddy (Me Charles M. Rotenberg) a envoyé un relevé de compte de 5 301,36 $ à la succession d’Irene Flood pour services professionnels rendus entre le 19 avril 2002 et le 16 août 2002. Ce relevé de compte comportait l’énoncé suivant :
+« Selon l’alinéa 60o) de la Loi de l’impôt sur le revenu, ces frais sont déductibles dans l’année où ils ont été payés. Ils sont déductibles par la personne qui les a payés, même s’il ne s’agit pas du contribuable dont la cotisation d’impôt a été portée en appel. »
+b) Le relevé de compte daté du 15 septembre 2002 a été payé par Robert W. Flood.
+16. Le 16 avril 2003 : La déclaration de revenus T1 de Robert W. Flood pour l’année 2002 a été produite, et une déduction de 9 109,76 $ a été demandée pour les relevés de comptes de services d’avocat de Rasmussen Starr Ruddy (Me Charles M. Rotenberg) datés du 24 avril 2002 et du 15 septembre 2002. L’avis de cotisation pour cette déclaration de revenus est daté du 15 mai 2003.
+17. a) Le 26 février 2004 : Un avis de nouvelle cotisation a été envoyé à l’égard de la déclaration de revenus T1 de Robert W. Flood pour l’année 2002. L’avis de nouvelle cotisation comportait l’énoncé suivant :
+« Nous avons effectué un rajustement conformément à la lettre que nous vous avons envoyée récemment. »
+b) L’ADRC a envoyé une lettre datée du 18 février 2004 à Robert W. Flood. La lettre comportait ce qui suit :
+« Nous avons rajusté à 0,00 $, la déduction de 9 109,76 $ demandée, pour la (les) raison(s) suivante(s) :
+- Refus de votre déduction demandée au titre des frais judiciaires engagés pour préparer et présenter une opposition à une cotisation d’impôt. Selon l’alinéa 60o) de la Loi de l’impôt sur le revenu, les frais judiciaires ne sont déductibles que s’ils ont été engagés aux fins de tirer un revenu d’une entreprise ou d’un bien et s’ils ne constituent pas des dépenses ayant un caractère de capital. Par conséquent, vous n’avez pas le droit de déduire les frais judiciaires que vous avez engagés afin de déposer une opposition à une cotisation d’impôt établie à l’égard d’une déclaration d’une succession. Toutefois, les frais peuvent être déduits dans la déclaration de la succession.
+18. Le 6 avril 2004 : Robert W. Flood a déposé un avis d’opposition à l’avis de nouvelle cotisation daté du 26 février 2004.
+19. Le 28 octobre 2004 : L’ADRC a envoyé à Robert W. Flood une lettre comportant les énoncés suivants :
+« En ce qui concerne les frais judiciaires payés, nous sommes d’avis que vous ne pouvez pas les déduire. »
+« Le relevé de compte que vous avez reçu de votre avocat, Me Rotenberg, fait état de conversations avec M. O’Neill, chef des Enquêtes du Bureau des services fiscaux de Kingston. J’ai parlé à M. O’Neill et il m’a avisé que la succession avait été poursuivie et qu’il avait eu des rapports avec Me Rotenberg à cet égard. »
+« Si la succession a engagé des frais judiciaires admissibles pour présenter un avis d’opposition, nous sommes d’avis que ces frais peuvent être déduits par la succession et non pas par vous personnellement. »
+20. a) Le 22 novembre 2004 : L’ADRC (Bureau des services fiscaux de Belleville) a envoyé à Robert W. Flood une lettre indiquant ce qui suit :
+« À la suite de notre examen, nous avons modifié la cotisation établie pour l’année 2000. Nous vous enverrons sous pli distinct les “avis de nouvelle cotisation” expliquant notre décision. »
+b) La mention de l’année 2000 dans la lettre susmentionnée semble être une erreur : ce devrait être l’année 2002.
+c) Dans la lettre susmentionnée, la mention d’une modification de la cotisation semble concerner une toute autre affaire (crédit pour impôt étranger) dans l’avis d’opposition. Le crédit pour impôt étranger demandé a été accordé et n’est plus une question en litige.
+21. Le 22 novembre 2004 : Un avis de cotisation indiquant ce qui suit a été envoyé :
+« Nous vous enverrons sous pli distinct une explication relative à la nouvelle cotisation dans les dix jours suivant la date du présent avis. »
+22. Le 16 décembre 2004 : Robert W. Flood a téléphoné à l’ADRC pour demander les explications mentionnées dans l’avis de nouvelle cotisation daté du 22 novembre 2004. L’ADRC lui a indiqué qu’il devrait recevoir les explications d’ici cinq à dix jours ouvrables. Jusqu’à maintenant, la seule explication qu’il a reçue est la suivante :
+« Aucun changement apporté au revenu total ayant fait l’objet de la cotisation précédente. »
+MOTIFS D’APPEL
+1. a) La lettre de l’ADRC datée du 18 février 2004 et adressée à Robert W. Flood indique que la déduction des frais judiciaires payés relativement à la préparation et à la présentation d’une opposition à une cotisation d’impôt est refusée pour la raison suivante :
+« Selon l’alinéa 60o) de la Loi de l’impôt sur le revenu, les frais judiciaires sont déductibles seulement s’ils sont engagés aux fins de tirer un revenu d’une entreprise ou d’un bien et s’ils ne constituent pas des dépenses ayant un caractère de capital. »
+b) Rien dans l’alinéa 60o) de la Loi de l’impôt sur le revenu ne ressemble, même de loin, à l’énoncé ci‑dessus relatif aux dispositions de l’alinéa 60o).
+2. a) La lettre de l’ADRC datée du 28 octobre 2004 et adressée à Robert W. Flood indique ce qui suit :
+« Si la succession a engagé des frais judiciaires admissibles pour présenter un avis d’opposition, nous sommes d’avis que ces frais peuvent être déduits par la succession et non pas par vous personnellement. »
+b) Le sous‑alinéa 60o)(i) de la Loi de l’impôt sur le revenu permet à un contribuable de déduire les honoraires et les frais payés par le contribuable au sujet d'une cotisation à l'égard de l'impôt, des intérêts et des pénalités en vertu de la présente loi. Le sous‑alinéa 60o)(i) n’exige pas que les sommes payées par le contribuable soient relatives à une cotisation établie à son égard. Il permet à Robert W. Flood de demander la déduction dans sa déclaration de revenus, même si les honoraires et les frais ont trait à la cotisation établie à l’égard de la déclaration de revenus d’Irene Flood.
+3. a) La lettre de l’ADRC datée du 28 octobre 2004 et adressée à Robert W. Flood indique ce qui suit :
+« Le relevé de compte que vous avez reçu de votre avocat, Me Rotenberg, fait état de conversations avec Noel O’Neill, chef des Enquêtes du Bureau des services fiscaux de Kingston. J’ai parlé à M. O’Neill et il m’a avisé que la succession avait été poursuivie et qu’il avait eu des rapports avec Me Rotenberg à cet égard. »
+b) La succession n’a pas été poursuivie. Robert W. Flood a été poursuivi pour fraude fiscale.
+c) Si les frais judiciaires ne sont pas déductibles par Robert W. Flood en vertu de l’alinéa 60o)(i), ils sont déductibles par Robert W. Flood en tant que dépenses engagées pour tirer un revenu d’une entreprise.
+d) Robert W. Flood, Barrister & Solicitor, exerce le droit en cabinet (son entreprise) à titre individuel. Afin de tirer un revenu de l'exercice de sa profession, Robert W. Flood doit être membre en règle du Barreau du Haut‑Canada. Selon le Code de déontologie du Barreau du Haut‑Canada, la perpétration d’un acte criminel, comme la fraude fiscale, serait considérée comme une conduite indigne d’un avocat et pourrait entraîner la radiation de Robert W. Flood du Barreau du Haut‑Canada et la révocation de son statut de membre. Une telle mesure disciplinaire empêcherait Robert W. Flood de tirer un revenu de l’exercice de sa profession. Il était indispensable que Robert W. Flood se défende contre l’accusation au criminel de fraude fiscale. Robert W. Flood a engagé les frais judiciaires pour se défendre contre l’accusation au criminel de fraude fiscale afin de pouvoir conserver le droit de tirer un revenu de l’exercice de sa profession.
+_____________________________________
+Robert W. Flood Le 8 février 2005
+[4] L’alinéa 60o) de la Loi de l’impôt sur le revenu est rédigé ainsi :
+o) Frais judiciaires [ou autres] et extrajudiciaires [relatifs à une opposition ou à un appel] — les sommes payées au cours de l'année par le contribuable au titre des honoraires ou frais engagés pour préparer, présenter ou poursuivre une opposition ou préparer, interjeter ou poursuivre un appel au sujet :
+(i) d'une cotisation à l'égard de l'impôt, des intérêts ou des pénalités en vertu de la présente loi ou d'une loi provinciale imposant un impôt semblable à celui qui est imposé par la présente loi,
+(ii) d'une décision de la Commission de l'emploi et de l'assurance du Canada, de la Commission de l'emploi et de l'immigration du Canada, d'un conseil arbitral ou d'un juge‑arbitre en vertu de la Loi sur l'assurance‑chômage ou de la Loi sur l'assurance‑emploi,
+(iii) d'une cotisation de tout impôt sur le revenu qu'il peut déduire en vertu de l'article 126 ou de toute peine ou de tout intérêt y afférent,
+(iv) d'une cotisation ou d'une décision rendue en vertu du Régime de pensions du Canada ou d'un régime provincial de pensions au sens de l'article 3 de cette loi;
+[5] La position de la Couronne est que la seule personne qui peut déduire les frais liés à l’opposition à une cotisation en vertu de l’alinéa 60o) est la personne à l’égard de laquelle la cotisation a été établie. Je crois que la Couronne a inutilement donné une interprétation stricte à la disposition.
+[6] Tout d’abord, l’alinéa 60o) ne comporte aucune restriction de ce genre. Ensuite, je pense qu’il ne serait pas raisonnable de permettre à un étranger ou à un bénévole qui n’avait aucun intérêt pécuniaire à déduire les frais engagés pour s’opposer à la cotisation d’une autre personne. Toutefois, si une personne a un intérêt pécuniaire ou autre dans l’issue de l’opposition qui n’est pas trop éloigné, je ne vois aucune raison de lui interdire de déduire les frais qu’elle a engagés. Je note, par exemple, le commentaire figurant dans l’édition de la Loi de l’impôt sur le revenu annotée par Sherman :
+Il convient de souligner que l’alinéa 60o)(i) ne fait pas référence à « une cotisation à l’égard d’un contribuable ». Par conséquent, les sommes payées par un actionnaire administrateur pour contester une cotisation établie à l’égard d’une société devraient être également déductibles. Voir Theodore Sherman (Walbi Trust), [1976] C.T.C. 2207 (C.R.I.).
+Les frais judiciaires et extra‑judiciaires peuvent également être déduits dans le calcul du revenu tiré d’une entreprise et d’un bien, conformément aux principes comptables généralement reconnus. Voir les Notes sous le par. 9(1). Pour les autres dispositions qui permettent la déduction de frais judiciaires spécifiques ou qui accordent un crédit à l’égard de ces frais, voir les al. 8(1)b), 89(1)f), 20(1)e), 20(1)cc), 60o.1), 62(3)f), le s.‑al. 118.2(2)l.1)(i) et le par. 152(1.2). Voir le bulletin d’interprétation IT‑99R5.
+[7] Indépendamment de l’alinéa 60o), il est clair que M. Flood peut déduire ces frais en tant que dépense d’entreprise ordinaire. Rien ne donne à penser qu’il s’agit d’une dépense en capital. Ces frais découlent directement de son travail en tant qu’avocat spécialisé en successions. Ce qui est remis en question dans le cadre de cette cotisation ainsi que de la poursuite mal fondée, ce n’est pas seulement les pratiques d’évaluation qu’il a suivies pendant des années, mais aussi sa réputation et son intégrité en tant que membre du barreau. Voir la décision St‑Germain v. M.N.R., 83 DTC 36. Le dépôt d’un avis d’opposition était une partie essentielle de sa défense contre l’accusation de fraude fiscale. Je souligne en passant que les frais judiciaires qui ont été engagés pour retenir les services d’un avocat spécialisé en droit criminel ont été admis à titre de déductions.
+[8] L’appel est accueilli avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation de façon à autoriser la déduction de 9 109,76 $.
+Signé à Ottawa, Canada, ce 29e jour de mars 2006.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 12e jour de février 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2006CCI186
+NO DU DOSSIER DE LA COUR :
+2005-446(IT)I
+INTITULÉ DE LA CAUSE :
+Robert W. Flood c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Kingston (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 mars 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT :
+Le 29 mars 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Pascal Tétrault
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

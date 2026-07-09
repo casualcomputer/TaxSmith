@@ -1,0 +1,175 @@
+Title: O'Dwyer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/68558/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-90-68558-o-dwyer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-03-21
+
+# O'Dwyer c. La Reine
+
+- Citation: 2014 CCI 90
+- Decision date: 2014-03-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5320, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Dwyer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-21
+Référence neutre
+2014 CCI 90
+Numéro de dossier
+2011-3234(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3234(IT)G
+ENTRE :
+THOMAS O’DWYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête concernant les dépens instruite sur dossier
+Par : L’honorable juge Randall S. Bocock
+Avocat de l’appelant :
+Me Alistair G. Campbell
+Avocats de l’intimée :
+Me William L. Softley
+Me Darcie Charlton
+___________________________________________________________________
+ORDONNANCE
+APRÈS AVOIR PRIS CONNAISSANCE des observations écrites de l’appelant et de l’intimée concernant les dépens liés à l’appel :
+LA COUR ORDONNE :
+1. Conformément aux motifs ci‑joints, l’appelant a droit aux dépens à l’égard de l’appel interjeté devant la Cour dans lequel il a eu gain de cause de la manière suivante :
+a. Un montant forfaitaire fixe de 33 519 $ qui représente environ quatre‑vingt‑dix pour cent (90 %) de ses dépens procureur‑client;
+b. Les dépens de la présente requête sont fixés à 1 500 $.
+Signé à Vancouver (Colombie‑Britannique), ce 21e jour de mars 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 15e jour de juillet 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 90
+Date : 20140321
+Dossier : 2011-3234(IT)G
+ENTRE :
+THOMAS O’DWYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+I Introduction
+[1] L’appelant a introduit la présente requête au moyen d’observations écrites en vue d’obtenir une adjudication des dépens en sa faveur de la manière suivante :
+a) Sur la base procureur‑client, un montant de 37 243 $ représentant le total de l’ensemble des frais juridiques, dépens et taxes supportés dans l’appel;
+b) Subsidiairement, une adjudication forfaitaire de dépens de 33 519 $, représentant 90 % des dépens de l’appelant calculés sur une base procureur‑client;
+c) Subsidiairement encore, une adjudication de 80 % des frais juridiques réels, s’élevant à 23 013 $, supportés par l’appelant dans l’appel après la date de signification d’une offre de règlement, ainsi que les dépens prévus par le tarif relativement aux frais supportés avant la présentation d’une telle offre;
+d) Des dépens de 1 500 $ qui doivent être fixés relativement à la présente requête.
+II Contexte factuel
+[2] L’appelant, M. O’Dwyer, s’est vu imposer une pénalité concernant un abri fiscal en vertu du paragraphe 237.1(7.4) de la Loi de l’impôt sur le revenu (la « Loi »). Cette pénalité de 2 352 500 $ imposée à titre personnel relativement à un abri fiscal ainsi que des intérêts courus de 485 312,34 $ ont trait à certaines opérations à l’égard desquelles l’appelant a agi en tant que conseiller en comptabilité en 2006.
+[3] En mai 2012, l’appelant a présenté à la Cour une requête visant à contraindre l’intimée de répondre à certaines demandes de précisions relativement à la réponse déposée ou, à titre subsidiaire, de radier des parties de la réponse ou la totalité de la réponse de l’intimée. La présente requête est fondée sur les allégations selon lesquelles la réponse ne décrivait pas suffisamment le bien, les annonces qui auraient été faites concernant l’abri fiscal et le rôle joué par l’appelant dans la promotion de l’abri fiscal.
+[4] La Cour a radié la réponse compte tenu du fait qu’elle ne révélait aucune cause valable d’opposition à l’appel. Pour arriver à cette décision, la Cour a conclu que la réponse ne présentait pas de faits qui permettraient d’établir les éléments nécessaires de l’infraction et le rôle joué par l’appelant pour qu’une pénalité soit imposée en vertu des dispositions applicables.
+[5] L’intimée a interjeté appel à l’encontre de cette ordonnance décisive et définitive. La détermination du montant des dépens a été suspendue en attendant l’audition de l’appel.
+[6] Le 6 septembre 2013, la Cour d’appel fédérale a rejeté les appels interjetés par l’intimée (il y a eu deux ordonnances) compte tenu du fait que la réponse ne révélait aucune cause raisonnable d’opposition à l’appel, étant donné que la réponse contenait :
+a) des faits allégués insuffisants quant à l’exigence concernant des annonces faites par l’appelant;
+b) des faits allégués insuffisants pour ce qui est du rôle joué par l’appelant relativement à la promotion de l’abri fiscal.
+[7] Quant au moyen d’appel concernant la description du bien, même si la Cour d’appel fédérale a conclu que les allégations factuelles de l’intimée n’étaient pas fondées, une telle erreur, prise isolément, ne justifierait pas par ailleurs que la réponse soit entièrement radiée. Quoi qu’il en soit, l’appel interjeté par l’intimée a été rejeté en fonction des deux autres motifs.
+[8] Par conséquent, la Cour doit maintenant trancher la question de l’adjudication des dépens en fonction de la requête originale présentée par l’appelant, laquelle vise à obtenir qu’une réponse soit donnée à la demande de précisions ou que la réponse déposée en mai 2012 soit radiée.
+III Dispositions légales
+[9] L’extrait suivant est tiré des dispositions pertinentes concernant les dépens énoncées dans les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») applicables pour trancher la question des dépens :
+147(1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+147(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+[….]
+j) de toute autre question pouvant influer sur la détermination des dépens.
+147(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+147(3.1) Offres de règlement
+a) À moins que la Cour n’en ordonne autrement et sous réserve de l’alinéa c), lorsque l’appelant fait une offre écrite de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et à une somme équivalant aux dépens sur une base procureur-client après cette date, plus les débours raisonnables et les taxes applicables;
+b) À moins que la Cour n’en ordonne autrement et sous réserve de l’alinéa c), lorsque l’intimé fait une offre écrite de règlement et que l’appelant obtient un jugement qui est moins favorable que l’offre de règlement, ou qu’il est débouté, l’intimé a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et à une somme équivalant aux dépens sur une base procureur-client après cette date, plus les débours raisonnables et les taxes applicables.
+c) Les alinéas a) et b) ne s’appliquent que si l’offre de règlement
+(i) est faite par écrit et déposée à la Cour, dans les deux jours suivant sa signification, dans une enveloppe cachetée et datée;
+(ii) est signifiée au moins 90 jours avant le début de l’audience;
+(iii) n’est pas retirée;
+(iv) n’expire pas moins de 30 jours avant le début de l’audience.
+[Non souligné dans l’original.]
+[10] La Cour tient à préciser que, par suite d’un décret adopté en février 2014, le paragraphe 147(3.1) des Règles, ci‑dessus souligné, est récemment entré en vigueur en tant que règle de la Cour, contrairement à son statut antérieur par lequel il était assujetti à une directive sur la procédure de la Cour.
+IV Analyse raisonnée de divers ordres de priorité des dépens
+i) Totalité des dépens procureur‑client – 37 243 $
+[11] L’intimée soutient que les dépens procureur‑client n’ont pas à être accordés sur la base d’une indemnisation complète, sauf en cas de conduite répréhensible, scandaleuse ou outrageante liée au litige, ou lorsqu’il existe des éléments de preuve indéniables selon lesquels une partie ou un avocat a fait montre d’une telle conduite avant l’introduction de l’action : les décisions LeRiche v. Her Majesty the Queen, 2012 TCC 19, Miller v. Canada, 2003 DTC 6 (CCI) et Alberta Printed Circuits v. Her Majesty the Queen, 2011 TCC 305. Dans l’analyse qui suit, la Cour examine l’intransigeance tactique de la Couronne lorsque celle‑ci a omis d’apprécier les lacunes liées aux faits de son affaire. Néanmoins, il faudrait recourir à une interprétation très large en l’espèce pour qualifier la conduite de la Couronne de répréhensible, de scandaleuse ou d’outrageante plutôt que d’une conduite à l’aveuglette, obstinée et qui ne repose que sur des conjectures. Cela a été le cas au cours de l’étape d’établissement de la cotisation et de l’étape du litige et, à cet égard, des exemples ont été présentés par l’avocat de l’appelant dans ses observations : période de ratification allongée, établissement de l’avis de ratification sans consultation et réponse comportant des lacunes quant aux faits. Toutefois, compte tenu du fait que l’inconduite, contrairement à l’obstination, est une condition préalable à l’octroi de dépens procureur‑client sur la base d’une indemnisation complète, la Cour conclut que de tels dépens, qui peuvent être entièrement recouvrés, ne devraient pas être adjugés en l’espèce.
+ii) Exercice du pouvoir discrétionnaire de la Cour pour l’adjudication de dépens majorés
+[12] L’intimée soutient ensuite qu’il n’y a aucun fondement qui justifie, en premier lieu, que la Cour accorde des dépens majorés et, subsidiairement, qu’elle accorde les montants demandés par l’appelant. En outre, la Cour devrait renoncer à exercer son pouvoir discrétionnaire pour accorder des dépens supérieurs à ceux par ailleurs prévus par le tarif B concernant une instance de la catégorie C (le « tarif ») ou pour donner d’autres directives quant aux dépens. Selon l’intimée, le tarif convient en l’espèce pour ce qui est des dépens de l’appelant. Le paragraphe 147(3) des Règles donne manifestement à la Cour l’autorisation d’analyser les facteurs qui sont énumérés à cette disposition selon des principes établis et, si cela s’avère justifié après analyse, d’exercer son pouvoir discrétionnaire pour adjuger des dépens supérieurs à ceux prévus par le tarif afin de parvenir à une « solution raisonnée, équilibrée et juste » : Daishowa‑Marubeni International Ltd c. La Reine, 2013 CCI 275, au paragraphe 4.
+[13] La Cour reconnaît que le pouvoir discrétionnaire d’adjuger des dépens supérieurs à ceux prévus par le tarif doit être exercé selon des principes établis, en gardant à l’esprit que ceux‑ci doivent être pertinents à la finalité pour laquelle la discrétion est exercée : Canada c. Landry, 2010 CAF 135, et Alberta Circuits, précitée. En l’espèce, la Cour exercera son pouvoir discrétionnaire pour analyser les facteurs particuliers mis à sa disposition à l’article 147 des Règles afin de trancher la question de savoir si des dépens supérieurs à ceux prévus par le tarif devraient être adjugés.
+a) Les résultats
+[14] L’appelant a entièrement eu gain de cause. Le redressement subsidiaire demandé par l’appelant est devenu théorique en raison de cette issue non équivoque. L’ordonnance qui a été rendue était entièrement déterminante et tranchait définitivement un appel dans lequel l’appelant a eu gain de cause. À un stade préliminaire, et à la suite du seul recours dont disposait l’appelant à ce moment‑là, à savoir l’introduction d’une requête visant à obtenir une réponse à la demande de précisions ou à radier la réponse, l’appelant a entièrement eu gain de cause devant la Cour. Ce qui avait commencé comme un processus interlocutoire est devenu un résultat final. Compte tenu de ce résultat, la jurisprudence citée par l’intimée selon laquelle seule l’adjudication des dépens prévus par le tarif devrait s’appliquer à des questions interlocutoires n’est pas pertinente : Banque Canadienne Impériale de Commerce c. Canada, 2013 CAF 122, aux paragraphes 7 et 81.
+b) Les sommes en cause
+[15] L’appelant s’est vu imposer une pénalité destinée à un tiers selon la Loi. L’établissement d’une cotisation à titre de pénalité ne se rapporte pas à une nouvelle cotisation établie à l’égard de l’appelant relativement à sa déclaration de revenus, mais concerne une pénalité imposée à l’égard de services professionnels rendus à d’autres personnes. Il s’agit d’un des principaux types de cotisation que le ministre peut unilatéralement établir en vertu de la Loi. La pénalité devient une dette fiscale, mais elle ne concerne en rien les propres revenus de l’appelant ni ses déclarations fiscales. Par conséquent, mis à part la présentation de la requête, l’appelant se trouvait face à deux choix difficiles : continuer à poursuivre l’appel en l’absence d’une réponse adéquate ou payer personnellement la pénalité supérieure à 3 000 000 $. L’importance relative des montants en jeu, appréciée en fonction des moyens de subsistance, des ressources financières et de la réputation professionnelle du contribuable, était considérable. En réalité, il est difficile de concevoir un autre événement dans sa vie professionnelle qui aurait pu autant affecter le reste de sa carrière et de sa santé financière. Cette énorme pénalité imposée à titre personnel milite fortement en faveur du droit de l’appelant d’être informé dans la réponse du fondement factuel de la pénalité imposée unilatéralement contre lui. Ce droit est davantage renforcé par le fait que la pénalité elle‑même ne concerne pas les affaires personnelles de l’appelant à l’égard desquelles, tout comme à l’égard de cotisations ordinaires, il serait par ailleurs réputé avoir une connaissance personnelle et approfondie.
+c) L’importance des questions en litige
+[16] La Cour n’est pas souvent saisie de la question des pénalités imposées aux promoteurs d’un abri fiscal en vertu du paragraphe 237.1(7.4) de la Loi. Les actes de procédure défectueux de l’intimée témoignent du fait que l’analyse et la présentation des allégations factuelles pour ce qui est des pénalités imposées aux promoteurs d’un abri fiscal qui sont des sociétés de personnes en commandite ne sont pas non plus fréquentes. Deux parties étaient présentes devant la Cour : l’une, dont les moyens de subsistance étaient en péril en raison de l’imposition d’une pénalité fiscale non liée à son entreprise ou à sa situation fiscale personnelle et l’autre, à savoir le gouvernement, qui cherchait à établir la forme, les critères et la méthodologie qui sous-tendent ces dispositions à caractère entièrement punitif. La Cour fait observer que de tels enjeux et principes étaient importants pour les deux parties, aussi bien sur le plan public que personnel.
+d) L’offre de règlement
+[17] Une offre de règlement a été signifiée par l’appelant plus de 30 jours avant la présentation de la requête. Elle prévoyait que l’intimée annule les pénalités sans frais jusqu’à la date de l’offre et, par la suite, que l’intimée paye à l’appelant 75 % des dépens entre parties auxquels il avait droit à partir de la date de l’offre jusqu’à l’acceptation. Ce genre d’offre est communément appelé une offre « à prendre ou à laisser » quant à l’issue de l’appel principal. Toutefois, en l’espèce, la décision du ministre d’imposer des pénalités était aussi une proposition à prendre ou à laisser. Dans ce genre de situation où une personne se voit imposer une pénalité destinée à un tiers, la seule offre de règlement que pouvait faire l’une ou l’autre partie relativement à l’appel en dernier ressort était une offre « à prendre ou à laisser ». Il n’existe pas de situations possibles entre la détermination de la responsabilité et l’absence de détermination de responsabilité. La première situation exige l’imposition de la pénalité prévue par la loi telle qu’elle a été prédéterminée et préétablie par la disposition pertinente de la Loi. La deuxième situation entraîne l’annulation de la pénalité. Il n’y a tout simplement pas de pouvoir discrétionnaire que le ministre peut exercer, sauf une exception qu’il convient de mentionner : il doit entreprendre un examen minutieux des faits qui sous‑tendent l’affaire et décider s’il faut persister, en particulier lorsqu’il se trouve en présence d’une telle offre à un stade aussi précoce en vue de l’introduction d’une requête visant à obtenir une radiation de la réponse.
+[18] Logiquement, si des offres de règlement, « à prendre ou à laisser » ne doivent pas du tout être considérées, alors il n’est jamais loisible à l’intimé ou à l’appelant dans aucune affaire dont la Cour est saisie de recourir à une offre de règlement ayant des conséquences sur la taxation des dépens lorsqu’il faut déterminer la responsabilité sur la base du critère « à prendre ou à laisser ». Si l’on suppose que l’appelant avait fait une offre au ministre pour que la pénalité destinée à un tiers promoteur d’un abri fiscal qui lui a été imposée soit réduite de moitié, le ministre n’aurait pas pu l’accepter : CIBC World Markets Inc c. La Reine, 2012 CAF 3, au paragraphe 22. Si des offres « à prendre ou à laisser » ne peuvent jamais être considérées, alors les dispositions en matière de dépens relatives aux offres de règlement sont inapplicables en pareilles circonstances, même si les Règles ne comportent aucune interdiction expresse à ce sujet.
+[19] Pour attribuer un sens au libellé large de l’alinéa 147(3)d) et du paragraphe 147(3.1) des Règles, la question qui se pose n’est pas de savoir si une offre de règlement sur la base du critère « à prendre ou à laisser » peut ou ne peut pas être faite lorsqu’il y a des conséquences sur la taxation des dépens. Au contraire, dans des cas où seule une telle offre peut être faite, il conviendrait de lui accorder du poids lorsque, finalement, une partie obtient entièrement gain de cause et lorsqu’un redressement provisoire et subsidiaire a été demandé. Cette méthode raisonnable ajoute du « poids » à l’offre faite en l’espèce, pour plusieurs raisons. Premièrement, si le redressement subsidiaire avait été accordé à l’appelant (c’est‑à‑dire si la demande de précisions avait été exécutée ou si seules des parties de la réponse avaient été radiées), l’affaire aurait suivi son cours, le principe en matière de dépens concernant les affaires interlocutoires aurait été appliqué et le critère de l’offre de règlement n’aurait pas été rempli. Deuxièmement, une « offre à prendre ou à laisser » faite à la clôture des actes de procédure est une sonnette d’alarme tirée à l’intention de la partie adverse sur le fait qu’un examen, une analyse et un nouvel examen de l’affaire qui devraient avoir été déjà faits doivent être entrepris. Parallèlement, lorsque l’auteur d’une offre place la barre aussi haut à la clôture des actes de procédure (abandon de l’opposition à l’appel), il est peu probable que des dépens majorés, qui sont habituellement accordés, soient adjugés, mais cela devrait permettre au destinataire de l’offre de se méfier des faits conjonctifs, à savoir la préparation et la signification de l’offre qui ont été faites très tôt dans la procédure et qui sont directement liées à la requête en radiation. Enfin, le compromis qui a été fait dans l’offre sur la question des dépens était quantifiable, non seulement à l’égard de la date de l’offre (pas de dépens), mais en cas d’acceptation (75 % seulement sur la base partie‑partie). Ces faits constituent un contrepoids pour l’utilisation de l’offre comme guide, sans qu’il soit porté atteinte à d’autres principes en matière de dépens qui, habituellement, réduisent ou annulent les effets d’une offre « à prendre ou à laisser », parce qu’aucune autre part de compromis n’était possible : décision Mckenzie c. La Reine, 2012 CCI 329.
+e) La charge de travail
+[20] Bien que le travail effectué par l’appelant relativement à la présente affaire ait été considérable, il ne s’est pas étalé sur une longue période. Cela se traduit par le montant des dépens relativement faible, même sur la base d’une indemnisation complète, qui totalise 37 243 $. Toutefois, si l’appelant avait choisi de ne pas présenter la requête et de permettre que l’affaire fasse l’objet d’un interrogatoire préalable et d’une audience complète devant la Cour, l’issue de l’instance n’aurait pas été différente, mais les frais de l’appelant auraient été considérablement plus élevés. Cela ne veut pas dire que le fait que l’appelant ait présenté la requête justifie que la Couronne soit reconnaissante et se réjouisse de payer des dépens majorés. Néanmoins, il s’agit d’un facteur dont il est tenu compte pour évaluer la charge de travail réduite et les frais connexes qui ont été supportés par tous à ce moment‑ci, de manière importante et efficace, plutôt que de manière passive et prolongée si l’affaire avait été instruite en l’absence d’une requête. En outre, un examen particulier des comptes de l’avocat de l’appelant (présentés avec les documents) illustre une démarche méthodique, mesurée et négociable lors de la signification intermittente et par étape de documents, dans les discussions avec l’avocat de la partie adverse et dans le passage, par la suite, aux étapes suivantes. Une telle démarche révèle que, si l’affaire avait fait l’objet d’un règlement avant l’audition de la requête, l’appelant aurait supporté des frais d’une manière progressive et économique. La démarche a réellement permis de réduire les frais au moyen d’une évaluation progressive de la charge de travail et des dépenses de l’avocat de l’appelant en fonction des répliques de l’intimée jusqu’à l’audition de la requête.
+f) La complexité des questions en litige
+[21] Bien que les questions de droit, en soi, ne soient ni extraordinaires ni complexes en ce qui concerne une requête visant la radiation d’une réponse ou l’exécution d’une demande de précisions, il convient de noter que l’intimée s’est opposée avec acharnement à tous les aspects de la requête. Les observations formulées à l’audition de la requête ainsi que devant la Cour d’appel fédérale en sont la preuve. De même, les éléments de droit et de fait se rapportant aux dispositions sur les pénalités imposées aux promoteurs d’un abri fiscal ne sont pas non plus simples ni fréquemment invoqués devant les tribunaux. Par conséquent, la complexité des questions de droit présentées dans l’appel principal, sur lesquelles la requête était fondée, était beaucoup plus importante que d’habitude.
+g) La conduite des parties
+[22] Bien que l’intimée ne se soit pas conduite d’une manière inappropriée, vexatoire ou inutile, elle n’a pas procédé à un examen adéquat des fondements factuels et des aspects juridiques de la pénalité destinée à un tiers, promoteur d’un abri fiscal, ainsi que de la capacité, contenue dans la réponse, d’une telle affaire à résister au genre de requête préliminaire présentée par l’appelant. L’appréciation de la conduite de l’intimée vaut donc, même après qu’elle a adéquatement reçu l’avis, la mise en garde et la possibilité d’adopter une solution de compromis plus stable ou, comme cela a été constaté, à défaut de demander une telle protection, d’annuler les pénalités. Le fait que l’intimée n’ait pas voulu consacrer du temps et des efforts à cet égard a essentiellement entraîné la présentation de la requête et la décision finale quant à celle‑ci.
+h) Le refus d’admettre d’une partie
+[23] Il s’agissait d’une affaire interlocutoire (bien qu’elle ait été décisive) et, ainsi, la question précise qu’est l’admission des faits n’est pas pertinente.
+i) La conduite inappropriée ou la négligence
+[24] La Cour a déjà établi que, dans l’instance, il n’y a pas eu de conduite inappropriée, vexatoire ou inutile. Toutefois, dès le début et tout au long de la procédure, l’intimée a refusé d’apprécier adéquatement le bien‑fondé de l’affaire, sa propre thèse ainsi que les faits requis. Le défaut de l’intimée d’apprécier effectivement l’absence de faits, qui sont par ailleurs nécessaires pour établir les allégations précises portées contre l’appelant, c’est‑à‑dire le rôle qu’il a joué dans la promotion de l’abri fiscal et le lien entre ce rôle et la pénalité imposée, a été au centre de la radiation de la réponse. En outre, même à l’égard de la conclusion concernant la définition de la société de personnes en tant que bien, il est évident que, même si la Cour d’appel fédérale n’avait pas confirmé la décision de la Cour de radier la réponse sur ce seul fondement, elle a fait ressortir dans plusieurs paragraphes de sa décision qu’une telle formulation dans la réponse était une erreur de droit.
+[25] Compte tenu des faits et de la jurisprudence récente dans laquelle des dépens majorés ont été accordés, la conduite de l’intimée, en tant que facteur, se situe quelque part entre l’inconduite (Leriche et Miller, précitées) et la négligence, le retard ou l’intransigeance, qui sont des éléments que l’on ne peut pas apprécier (Reynold Dickie v. The Queen, 2012 CCI 327, Alberta Circuits et Daishowa‑Marubeni, précitées). En situant la conduite de l’intimée en l’espèce en fonction des éléments susmentionnés, il semblerait qu’elle se rapproche plus du caractère inapproprié que du caractère neutre.
+V Conclusion
+[26] En conséquence, la Cour a conclu aisément, en ce qui concerne l’analyse de la majorité des facteurs susmentionnés, qu’elle devrait exercer son pouvoir discrétionnaire pour accorder à l’appelant des dépens majorés beaucoup plus élevés que ceux prévus par le tarif. Compte tenu du fait que les circonstances en l’espèce font partie intégrante de toute analyse des facteurs, l’adjudication des dépens prévus par le tarif serait nettement insuffisante : arrêt Consorzio del Proscuitto c. Maple Leaf Meats, 2002 CAF 417.
+[27] La Cour, en appliquant les facteurs susmentionnés, établit que la plupart d’entre eux, sinon tous, militent fortement en faveur d’une adjudication de dépens majorés à l’appelant : le risque que le contribuable subisse des conséquences financières dramatiques découlant de la pénalité, l’importance de la question soulevée pour l’intimée et pour l’appelant, la complexité relative des dispositions concernant les pénalités, l’efficacité, à l’étape de la plaidoirie, de débattre de la question des lacunes dans la réponse, l’offre de règlement faite par écrit (bien qu’elle soit de la nature d’une « offre de règlement à prendre ou à laisser ») ainsi que la conduite de l’intimée qui, bien qu’elle ne puisse pas être qualifiée de conduite inappropriée, a consisté tout au long de la procédure en une appréciation insuffisante, superficielle et hâtive du bien‑fondé de la cotisation (ce qui transparaît finalement dans la réponse). En outre, le dernier facteur, concernant la conduite de l’intimée, était une omission déterminante à l’égard de l’ensemble de l’appel. Cette omission a découlé de demandes légitimes faites à l’intimée et s’est poursuivie à cet égard, ainsi que lorsque des occasions subséquentes lui ont été offertes, d’évaluer, de modifier ou d’annuler les pénalités imposées quand elles ont été remises en question à divers stades de la procédure aussi bien par l’appelant que par la Cour.
+[28] En conséquence, l’examen de tous ces facteurs justifie que des dépens soient adjugés à l’appelante sur la base d’une somme forfaitaire de 33 519 $, représentant environ 90 % de ses dépens procureur‑client. En outre, tel qu’il l’a demandé, l’appelant aura droit à ses dépens concernant la présente requête.
+Signé à Vancouver (Colombie-Britannique), ce 21e jour de mars 2014.
+« R. S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 15e jour de juillet 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 90
+No DU DOSSIER DE LA COUR : 2011-3234(IT)G
+INTITULÉ : THOMAS O’DWYER c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 13 janvier 2012
+MOTIFS DU JUGEMENT : L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 21 mars 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Alistair G. Campbell
+Avocats de l’intimée :
+Me William L. Softley
+Me Darcie Charlton
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Alistair G. Campbell
+Cabinet : Legacy Tax and Trust Lawyers
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

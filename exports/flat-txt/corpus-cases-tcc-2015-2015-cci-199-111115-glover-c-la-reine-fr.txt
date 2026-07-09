@@ -1,0 +1,147 @@
+Title: Glover c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111115/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-199-111115-glover-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-08-06
+
+# Glover c. La Reine
+
+- Citation: 2015 CCI 199
+- Decision date: 2015-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2624, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glover c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-06
+Référence neutre
+2015 CCI 199
+Numéro de dossier
+2011-931(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011‑931(IT)I
+ENTRE :
+JAMES GLOVER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 19 et 20 mai 2015, à Vancouver, (Colombie‑Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelant :
+M. Raymond F. Wiseman
+Avocat de l’intimée :
+Me Michael Taylor
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté sans frais, conformément aux motifs du jugement ci‑joints.
+Signé à Summerside (Île‑du‑Prince‑Édouard), ce 6e jour d’août 2015.
+« D. Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de septembre 2015.
+M.‑C. Gervais
+Référence : 2015 CCI 199
+Date : 20150806
+Dossier : 2011‑931(IT)I
+ENTRE :
+JAMES GLOVER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+Introduction [1] L’appelant n’a pas assisté à l’audience relative à l’appel. Son représentant, Raymond Wiseman, qui avait recommandé l’arrangement de don fiscal à M. Glover, a témoigné pour son compte. M. Wiseman a remis l’affidavit de l’appelant à la Cour selon lequel son représentant était autorisé à présenter les éléments de preuve pour son compte. Compte tenu de l’âge et de l’état de santé de M. Glover, j’ai permis que l’on procède de cette façon.
+[2] L’appelant a demandé un crédit d’impôt pour don de bienfaisance pour l’année d’imposition 2003 en application du paragraphe 118.1(3) de la Loi de l’impôt sur le revenu (la « Loi »). Le crédit d’impôt relatif à la participation de l’appelant à un arrangement de don qui comportait le don de licences d’utilisation de logiciel à un organisme de bienfaisance canadien enregistré, Canadian Single Adult Ministry Inc. (« CSAM »). Les donateurs présentaient une demande afin de devenir les bénéficiaires du capital d’une fiducie et, si la demande était acceptée, la fiducie distribuait le logiciel aux bénéficiaires qui pouvaient ensuite en faire don à un organisme de bienfaisance enregistré. Selon le régime de CSAM, l’appelant a fait un don en espèces de 29 952 $ et a présenté une demande de 64 licences d’utilisation de logiciel dont la valeur au détail individuelle aurait été de 1 499 $. Quarante‑huit donateurs, y compris l’appelant, devaient payer 468 $ par licence, censément pour obtenir la mainlevée du privilège grevant le logiciel. Chaque donateur a obtenu un reçu pour le paiement en espèces et un reçu pour la juste valeur marchande de la licence, moins le montant du privilège.
+[3] Dans les arguments qui ont été présentés par écrit et reçus après l’audience, l’appelant a abandonné la question portant sur le don en nature des licences d’utilisation de logiciel et a fait valoir un argument ayant trait au paiement en espèces de l’appelant de 29 952 $. Par conséquent, les présents motifs ne porteront pas sur la question de savoir si la fiducie était dûment constituée, si le logiciel existait ou avait une valeur ou si les reçus relatifs au logiciel étaient insuffisants.
+La question en litige [4] La question en litige dans le présent appel est de savoir si l’appelant avait droit aux crédits d’impôt non remboursables à l’égard du paiement en espèces et plus précisément :
+a) si l’arrangement de don auquel l’appelant a participé était un abri fiscal dûment inscrit;
+b) si le paiement en espèces de l’appelant était un don valide.
+La preuve [5] Le représentant de l’appelant, Raymond Wiseman, a témoigné à l’égard du processus de demande du donateur, de ses communications avec les promoteurs et de la diligence raisonnable dont il a fait preuve pour l’examen des divers documents et de l’ensemble du processus. Il a obtenu des avis juridiques et des avis concernant l’appréciation de la valeur en ce qui concerne l’arrangement de don et il les a déposés en preuve (pièces A‑8 à A‑10) afin d’appuyer son argument de diligence raisonnable en qualité de représentant de l’appelant. Cependant, les dispositions législatives en matière d’abris fiscaux contenues dans la Loi ne font pas mention d’une défense fondée sur la diligence raisonnable ni d’une évaluation du caractère raisonnable de l’arrangement de don.
+[6] Les faits dans cet appel sont presque les mêmes que ceux qui sont consignés dans l’arrêt Bandi c La Reine, 2013 CCI 230, 2013 DTC 1192. Cependant, le contribuable dans ce cas avait versé un don à l’Aurora Fondation (« Aurora ») plutôt qu’à CSAM. M. Wiseman a reconnu qu’Aurora était l’organisme de bienfaisance enregistré original. En 2003, ses administrateurs ont établi un arrangement de dons de bienfaisance servant d’abri fiscal connu sous le nom de Charitable Technology Trust Gifting Program (le « régime de dons »). Wolf Ventures a commercialisé et vendu ce régime au public. Les particuliers qui souhaitaient contribuer au régime de dons devaient présenter une demande pour devenir bénéficiaires du capital de cette fiducie avant de pouvoir acheter des licences d’utilisation de logiciel d’un programme logiciel connu sous le nom d’eComdata Office Suite Pro, qui appartenait à Multisolve Networks Corporation (« Multisolve »). Chaque licence avait une valeur au détail de 1 499 $, mais Multisolve avait convenu de vendre les licences à chaque auteur de la fiducie à un prix de gros en vrac de 468 $ et d’accorder un prêt garanti par un privilège du même montant à l’égard de chaque licence. Dès réception des licences, les donateurs effectuaient un don en espèces de 468 $ par licence à Aurora afin d’obtenir la mainlevée du privilège ainsi que le don des licences elles‑mêmes. En contrepartie, Aurora attribuait un reçu pour le don en espèces ayant permis d’obtenir la mainlevée du privilège et un reçu pour la valeur nette de la licence, soit l’entière valeur au détail de 1 499 $, moins le montant du privilège de 468 $. Aurora payait Multisolve pour obtenir la mainlevée du privilège et les licences devaient être utilisées à des fins de bienfaisance.
+[7] Le 19 septembre 2003, l’Agence du revenu du Canada (l’« ARC ») a attribué au régime de dons un numéro d’inscription d’abri fiscal. Tous les dons effectués par l’intermédiaire du régime de dons étaient acheminés à Aurora, qui délivrait les reçus officiels. Le 15 décembre 2003, Aurora a cessé de participer au régime de dons. Wolf Ventures a tenté de trouver un autre organisme de bienfaisance pour remplacer Aurora et a continué de commercialiser le régime auprès du public. Du 15 au 31 décembre 2003, Wolf Ventures a communiqué avec CSAM afin qu’elle contribue à l’arrangement de don comme organisme de bienfaisance enregistré. Un nouveau fiduciaire a été nommé et le régime de CSAM a été commercialisé auprès du public.
+[8] L’appelant a présenté une demande pour l’obtention de 64 licences au titre du régime de CSAM et a fait un don en espèces de 29 952 $ plus les licences, dont la valeur nette prétendue était de 65 984 $. L’intimée a convenu que l’appelant avait réellement payé le montant en espèces à CSAM (hypothèse de fait, alinéa 11uu), énoncée dans la réponse à l’avis d’appel).
+[9] Le régime de CSAM a été commercialisé et vendu, après qu’Aurora se fut retiré de l’arrangement de don, utilisant le même numéro d’inscription d’abri fiscal que celui qui lui avait été attribué à l’origine pour l’arrangement auquel Aurora avait participé à titre d’organisme de bienfaisance canadien enregistré.
+[10] M. Wiseman a affirmé dans son témoignage qu’il avait été informé qu’Aurora avait cessé d’accepter des demandes, mais qu’un organisme de bienfaisance à vocation analogue, CSAM, accepterait les demandes provenant de donateurs à l’égard du même programme de dons pour l’utilisation du logiciel. À son avis, après avoir examiné tous les documents pertinents, la seule différence par rapport aux documents promotionnels originaux, était le changement d’organisme de bienfaisance, Aurora ayant été remplacée par CSAM (transcription, volume 1, page 42). M. Wiseman a recommandé à l’appelant d’effectuer un don en espèces, étant entendu qu’il ne serait pas nécessairement approuvé comme bénéficiaire du capital de la fiducie et qu’il ne recevrait peut‑être pas le logiciel.
+[11] Paul Stepto, chef d’équipe, Vérification, à l’ARC, a donné un aperçu du programme consistant en un stratagème de dons. Son témoignage était essentiellement du ouï‑dire et une bonne partie était inutile, puisque l’appelant a abandonné la question du don en nature.
+Thèse de l’appelant [12] Le changement d’organisme de bienfaisance désigné, d’Aurora à CSAM, était la seule différence fondamentale par rapport au régime de dons qui avait été présenté à l’ARC à l’origine. L’appelant maintient que, lorsque l’ARC attribue un numéro d’inscription d’abri fiscal, aucune disposition dans la Loi n’oblige les contribuables à informer l’ARC des modifications qui sont apportées à l’arrangement. Les opérations au comptant et en matière de logiciels peuvent être séparées et le don en espèces peut donc être considéré comme un don pour un service communautaire, pour l’éducation et pour venir en aide aux pauvres. Le don en nature de logiciels était une opération distincte qui avait trait à la participation de l’appelant à la fiducie.
+Thèse de l’intimée [13] Puisque l’arrangement n’est pas un abri fiscal inscrit, comme l’exige l’article 237.1 de la Loi, un contribuable ne peut pas déduire quelque montant que ce soit à ce titre. Un numéro d’inscription aux fins de l’impôt avait été attribué au régime original. Le régime de CSAM était tout simplement une modification non divulguée de l’arrangement original et il est donc demeuré un abri fiscal non inscrit. Le régime de CSAM était tellement différent du régime original à maints égards qu’il était fondamentalement un régime différent.
+[14] L’intimée a également fait valoir que l’appelant n’avait pas effectué un don valide, parce qu’il n’était pas opportun de séparer l’opération en éléments distincts. Ce stratagème était entièrement intégré et le paiement en espèces avait donc été effectué afin de permettre à l’appelant de prendre part au stratagème en entier et d’en tirer profit en recevant de plus gros crédits d’impôt du gouvernement fédéral et du gouvernement provincial.
+Analyse [15] Après avoir examiné tous les éléments de preuve, j’en suis arrivé à la conclusion que l’appelant n’a pas le droit de demander un crédit d’impôt pour don de bienfaisance à l’égard du paiement en espèces, parce qu’il n’a pas effectué un don valide, comme l’exige la définition du « total des dons de bienfaisance » énoncée au paragraphe 118.1(1) de la Loi. Bien que le mot « don » ne soit pas défini dans la Loi, sa signification a été établie dans la jurisprudence. Dans l’arrêt La Reine c Friedberg, 92 DTC 6031, à la page 6032, la Cour d’appel fédérale a décrit un don ainsi :
+[…] un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie (voir le juge Heald dans La Reine c. Zandstra [74 DTC 6416] [1974] 2 C.F. 254, à la p. 261). L’avantage fiscal qui est conféré par un don n’est généralement pas considéré comme un « avantage » au sens où on l’entend dans cette définition car s’il en était ainsi, bien des donateurs seraient dans l’impossibilité de se prévaloir des déductions relatives aux dons de charité.
+[16] Dans la décision Webb c La Reine, 2004 CCI 619, au paragraphe 16, le juge Bowie a affirmé que l’intention d’un donateur devait être entièrement libérale :
+[16] Il s’est écrit beaucoup de documents au sujet des dons de bienfaisance au cours des années. Cependant, la loi est selon moi très claire. Je suis lié par la décision de la Cour d’appel fédérale dans l’affaire La Reine c. Friedberg, entre autres. Ce cas et les autres du genre indiquent clairement que pour qu’un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu’il n’y ait d’avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu’il n’y ait d’attente d’avantage ou de contrepartie. En d’autres mots, l’intention du donateur doit être entièrement libérale.
+[Non souligné dans l’original.]
+[17] Dans la décision Maréchaux c La Reine, 2009 CCI 587, 2009 DTC 1379, la juge Woods s’est penchée sur l’idée de séparer une opération en parties aux paragraphes 48 et 49:
+[48] Dans certaines conditions, il peut être approprié de partager une opération en deux parties, de sorte qu’il y a d’une part un don et d’autre part quelque chose d’autre.
+[49] Eu égard aux faits particuliers de la présente affaire, il n’est pas approprié de partager ainsi l’opération. Dans ce cas‑ci, il n’y a qu’un seul arrangement interdépendant, et aucune partie de cet arrangement ne peut être considérée comme un don que l’appelant a effectué sans s’attendre à quoi que ce soit en échange. Sur ce point, je me suis fondée sur la décision suivante que l’avocat de l’intimée a citée : Hudson Bay Mining and Smelting Co. v. The Queen, 89 DTC 5515 (C.A.F.).
+[18] Les conclusions formulées par le juge Hogan aux paragraphes 15 à 19 de la décision Bandi en ce qui concerne le don d’argent dans cette affaire s’appliquent également aux faits dont je suis saisie :
+[15] Selon les documents promotionnels présentés à l’appelant, le Programme de dons de bienfaisance pour la technologie permettait à l’appelant d’acquérir des licences d’utilisation d’un logiciel ayant une juste valeur marchande supérieure à son don d’argent allégué. Les documents révélaient également que l’appelant pouvait conserver le logiciel en pleine et absolue propriété; il pouvait aussi, comme il était prévu, en faire don à la Fondation en échange des crédits d’impôt d’une valeur supérieure qui lui avaient été promis. Il était indiqué que ces crédits d’impôt dépassaient le montant du don d’argent qu’aurait fait l’appelant, de sorte que celui‑ci pouvait s’attendre à réaliser un bénéfice après impôt. Bien que l’appelant n’ait jamais touché l’avantage promis en raison du défaut du promoteur de procéder à une mise en œuvre conforme du Programme, je conclus que l’attente qu’il a nourrie à cet égard suffit à annuler son intention libérale alléguée.
+[16] L’appelant insiste sur le fait que son don en argent devrait être examiné séparément du don allégué de licences d’utilisation du logiciel. Je ne suis pas de cet avis. Dans l’arrêt Maréchaux c. La Reine3, la Cour d’appel fédérale a reconnu qu’il n’était pas indiqué de séparer des opérations faisant partie d’un arrangement interdépendant selon qu’elles ont été effectuées en argent ou non.
+[17] Au vu de l’ensemble de la preuve, j’estime que l’appelant n’aurait pas versé l’argent à la Fondation s’il ne s’était pas attendu à recevoir de la Fiducie des licences d’utilisation du logiciel dont il pourrait ensuite faire don à la Fondation en vue d’obtenir un crédit d’impôt d’une valeur supérieure. Les documents de promotion sur lesquels l’appelant s’est fondé pour prendre sa décision sont clairs : son don d’argent devait servir à obtenir la mainlevée des privilèges grevant le logiciel, une mesure sans laquelle il ne pouvait transférer son logiciel à la Fondation.
+[18] En somme, la preuve démontre que l’objectif poursuivi par l’appelant n’était pas de s’enrichir. Il cherchait plutôt à obtenir un avantage en participant au Programme par l’acquisition de logiciels dont il pourrait ensuite faire don à un organisme de bienfaisance en échange d’un avantage fiscal plus important.
+[19] Les attentes de l’appelant à cet égard sont venues annuler son intention libérale. Son don d’argent allégué ne peut plus être considéré isolément de l’ensemble du régime, régime qui, selon ce que démontre la preuve, n’a pas été correctement mis en œuvre.
+[19] Bien que le représentant de l’appelant ait fait valoir que la décision dans la l’affaire Bandi ne s’appliquait pas (argumentation écrite de l’appelant, aux paragraphes 40 à 52), ses arguments étaient circulaires. Par exemple, au paragraphe 42, il a soutenu que les documents promotionnels dont le juge Hogan était saisi dans l’affaire Bandi étaient essentiellement différents des documents promotionnels visés dans la présente affaire. Pourtant, au paragraphe 51, il concède que les mêmes brochures avaient été prises en compte.
+[20] Dans l’arrêt Kossow c La Reine, 2013 CAF 283, 2014 DTC 5017, au paragraphe 29, la Cour d’appel fédérale a conclu que les cas de même nature devaient être traités de la même façon :
+[…] Selon moi, les faits pertinents de l’espèce s’apparentent tellement à ceux de l’arrêt Maréchaux que la juge n’a pas commis d’erreur de droit en arrivant à la même conclusion. Le principe même de la justice exige que des cas semblables soient traités de la même façon.
+[21] Compte tenu de la preuve en l’espèce, l’appelant s’est fondé sur un arrangement de don qui a été commercialisé auprès des participants à partir du fait que des licences d’utilisation de logiciel, dont la valeur était de loin supérieure au paiement en espèces, seraient distribuées. S’il participait à l’arrangement, l’appelant devait recevoir des crédits d’impôt du gouvernement fédéral et du gouvernement provincial qui excédaient d’au moins 23 pour 100 le don en espèces. L’attente inhérente à ce don en espèces, qui devait servir à obtenir la mainlevée du privilège grevant le logiciel, était fondée sur la promesse d’une acquisition de licences d’utilisation du logiciel qui pourraient ensuite être données à l’organisme de bienfaisance et permettre l’obtention d’un plus gros crédit d’impôt. Le don en espèces était requis pour que l’appelant puisse être accepté comme bénéficiaire du capital dans le cadre du programme. L’appelant avait l’intention de s’enrichir en se servant de reçus pour dons de bienfaisance gonflés à l’égard du logiciel et, partant, de tirer profit de demandes gonflées de crédit d’impôt. L’intention de l’appelant n’était pas entièrement de nature libérale, parce qu’il s’attendait à recevoir un avantage ou une contrepartie en échange de sa participation à cet arrangement de don.
+[22] Au cours du contre‑interrogatoire, le représentant de l’appelant a été interrogé au sujet de l’intention libérale de l’appelant. Les réponses de M. Wiseman appuient mes conclusions en ce qui concerne l’intention de l’appelant. À la page 60 de la transcription, M. Wiseman a confirmé que l’appelant et lui‑même comprenaient qu’il fallait verser un don en espèces à CSAM afin de pouvoir recevoir le logiciel au titre de la demande visant à devenir bénéficiaire du capital.
+[traduction]
+A Son intention et mon intention consistaient à verser le don en espèces à l’organisme de bienfaisance, à devenir bénéficiaires du capital par la suite et à recevoir un avantage fiscal supplémentaire découlant de ce qui pourrait être reçu à titre de bénéficiaire du capital de la fiducie.
+(Transcription, volume 1, page 60, lignes 23 à 27.)
+[23] Bien que le représentant de l’appelant ait soutenu que l’intention était de verser un don en espèces à l’organisme de bienfaisance enregistré [traduction] « […] en espérant avoir droit au logiciel qui comporterait également une valeur comme don de bienfaisance » (transcription, volume 1, page 62, lignes 4 à 5), le témoignage présenté à cet égard était douteux et contenait de nombreuses incohérences.
+[24] M. Wiseman a également insisté sur le fait que l’opération en entier pouvait être séparée et que le don en espèces pouvait être pris en compte indépendamment du don allégué ou des alléguées licences d’utilisation du logiciel. Dans l’arrêt Maréchaux c La Reine, 2010 CAF 287, 2010 DTC 5174, la Cour d’appel fédérale a conclu qu’il était inapproprié de séparer des opérations qui font partie d’un arrangement intégré en leurs composantes en espèces et autres qu’en espèces. Compte tenu des éléments de preuve dont je dispose, l’appelant n’aurait pas payé le montant en espèces sans avoir la certitude de recevoir les licences d’utilisation du logiciel dont il aurait pu faire don par la suite pour obtenir un plus gros avantage fiscal. En fait, certaines parties du témoignage de M. Wiseman au cours du contre‑interrogatoire appuient ma conclusion :
+[traduction]
+A Bien, je suis certainement d’accord pour dire qu’il a effectué le paiement… Alors, son intention était – son intérêt dans cette situation était d’avoir ces deux composantes…
+Il n’isole pas simplement la composante en espèces de la composante du logiciel. Il désirait sans aucun doute verser le don en espèces et il espérait avoir le droit de recevoir le logiciel afin de pouvoir en faire don également...
+(Transcription, volume 1, page 61, lignes 14 à 25.)
+Bien que le représentant de l’appelant ait soutenu que le don en espèces visait à appauvrir l’appelant considérablement, il a également admis que la possibilité d’être accepté au programme était une [traduction] « partie de la raison justifiant le don en espèces » (argumentation écrite de l’appelant, paragraphe 90).
+[25] Par conséquent, l’appelant n’avait pas l’intention libérale requise pour l’application de l’article 118.1 de la Loi. L’intention de l’appelant était de s’enrichir en présentant une demande afin de devenir bénéficiaire du capital de la fiducie et son objectif consistait à obtenir et à se servir de reçus gonflés pour dons de bienfaisance dans le but de tirer profit de crédits d’impôt gonflés. Compte tenu des faits dont je suis saisie, la composante en espèces ne peut être séparée de l’opération relative au logiciel, puisqu’elles font partie d’un seul arrangement interdépendant selon lequel, de l’aveu du représentant de l’appelant, le don en espèces était requis pour présenter une demande d’adhésion au programme. C’est à l’appelant qu’il incombe de réfuter les hypothèses de fait contenues dans la réponse à l’avis d’appel. Ces hypothèses sont réputées être exactes quant aux faits, à moins que l’appelant puisse présenter des éléments de preuve qui appuieraient une conclusion selon laquelle les hypothèses de fait principales ne sont pas correctes. L’appelant n’a pas réussi à présenter une preuve prima facie qui me convaincrait que les hypothèses de fait du ministre du Revenu national (le « ministre ») sont incorrectes ou ne peuvent être appuyées. Pour ces motifs, je rejette l’appel parce que le paiement en espèces n’est pas un don valide.
+[26] Étant donné que les parties ont consacré un certain temps à traiter les modifications apportées au régime enregistré original et la question des abris fiscaux non inscrits, je commenterai brièvement ces aspects, bien que j’aie statué sur cet appel sur une base tout à fait différente. L’article 237.1 donne les grandes lignes d’un régime détaillé en matière d’abris fiscaux et des crédits d’impôt connexes. L’intimée a fait valoir que, selon une interprétation franche de cet article, [traduction] « chaque arrangement séparé constituera un abri fiscal distinct » (argumentation écrite de l’intimée, paragraphe 27). Le régime de CSAM n’a pas obtenu son propre numéro d’inscription. Le ministre a supposé que le régime de CSAM était fondamentalement différent de l’arrangement de don d’Aurora contenu dans la demande originale de numéro d’inscription pour l’abri fiscal dans plus d’une douzaine d’aspects, notamment l’identité et la résidence du vendeur du logiciel et de l’auteur de la fiducie, la nature et la valeur du bien acquis et cédé à titre de don, l’identité du fiduciaire, les ententes de financement et l’organisme de bienfaisance destinataire (hypothèses de fait, alinéa 11ddd) de la réponse à l’avis d’appel). Les éléments de preuve de l’appelant n’ont pas réussi à réfuter toutes ces hypothèses. Par conséquent, la question à trancher consiste à établir si les modifications apportées à l’abri fiscal inscrit original peuvent invalider tous les crédits d’impôt connexes. Dans la décision Bandi, le juge Hogan n’a pas accepté l’argument de l’intimée à cet égard, mais l’intimée a noté que l’organisme de bienfaisance original, Aurora, avait été réellement utilisé dans ce cas, ce qui a permis au ministre de continuer à effectuer un suivi des dons des contribuables. Le changement d’organisme de bienfaisance, d’Aurora à CSAM, aurait dû attirer l’attention de l’appelant sur le fait qu’il se pouvait que l’inscription de l’abri fiscal pose problème. L’intimée a soutenu qu’un numéro d’inscription attribué par l’ARC s’appliquait à un arrangement en particulier et ne pouvait être utilisé pour d’autres arrangements (argumentation écrite de l’intimée, paragraphe 31). Je souscris au point de vue de l’intimée. Cependant, cela ne signifie pas d’entrée de jeu que des modifications mineures qui sont apportées à un arrangement nécessiteraient l’attribution d’un numéro d’inscription entièrement nouveau et différent aux fins de l’impôt. Alors, en quoi consiste un changement important? Dans la décision Bandi, le juge Hogan a constaté qu’il n’y avait pas de système de déclaration proactif permettant au contribuable de vérifier auprès de l’ARC si des changements avaient été déclarés. L’article 237.1 ne traite pas de cette question. Cependant, une interprétation pourrait donner à penser que les modifications apportées à un arrangement doivent être traitées conformément aux dispositions du paragraphe 237.1(7.4) régissant les pénalités. Du point de vue du ministre, il peut être erroné ou trompeur de mettre en œuvre un arrangement qui est différent de celui qui avait été communiqué à l’ARC. Si une pénalité est imposée conformément au paragraphe 237.1(7.4), tous les crédits pourraient être refusés au titre du paragraphe 237.1(6.1). À moins que l’application du paragraphe 237.1(6.1) ne soit déclenchée en ce qui a trait au régime modifié, lorsqu’un numéro d’inscription existe, le numéro original suffit pour se conformer à la disposition du paragraphe 237.1(6). Aucun élément de preuve ne m’a été présenté à l’égard d’une autre interprétation possible de cet article. Par contre, le changement d’organisme de bienfaisance, d’Aurora à CSAM, conjugué au fait que l’appelant était au courant de ce changement, est probablement suffisant pour refuser les crédits liés à l’arrangement de CSAM, compte tenu du fait qu’il s’agissait d’un abri fiscal non inscrit. L’intimée fait valoir que, bien que les contribuables qui prennent part à des abris fiscaux soient admissibles à des avantages importants, le système d’inscription permet au ministre d’effectuer un suivi des abris fiscaux et de les vérifier ainsi que de vérifier les avantages demandés. Le fait de permettre aux promoteurs de remanier l’arrangement original qui a été inscrit et, en particulier, de leur permettre d’utiliser le numéro d’inscription d’un arrangement alors que le ministre avait attribué ce numéro à un programme distinct va à l’encontre de l’objet du système d’inscription et fait obstacle à la capacité du ministre d’effectuer un suivi de ces arrangements et de les vérifier. Cela explique en partie l’intention du parlement lorsqu’il a adopté ces dispositions.
+Signé à Summerside (Île‑du‑Prince‑Édouard), ce 6e jour d’août 2015.
+« D. Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 4e jour de septembre 2015.
+M.‑C. Gervais
+RÉFÉRENCE :
+2015 CCI 199
+Nº DU DOSSIER DE LA COUR :
+2011‑931(IT)I
+INTITULÉ :
+JAMES GLOVER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Les 19 et 20 mai 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 6 août 2015
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Raymond F. Wiseman
+Avocat de l’intimée :
+Me Michael Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant : s.o.
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

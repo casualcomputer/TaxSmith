@@ -1,0 +1,159 @@
+Title: WRD Borger Construction Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/498502/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-40-498502-wrd-borger-construction-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-06-09
+
+# WRD Borger Construction Ltd. c. La Reine
+
+- Citation: 2021 CCI 40
+- Decision date: 2021-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4482, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+WRD Borger Construction Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-06-09
+Référence neutre
+2021 CCI 40
+Numéro de dossier
+2018-3605(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3605(IT)I
+ENTRE :
+WRD BORGER CONSTRUCTION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 septembre 2020, à Calgary (Alberta)
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Représentant de l’appelante :
+M. Jim Craig
+Avocat de l’intimée :
+Me Adam Pasichnyk
+JUGEMENT
+L’appel de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2015 est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 9e jour de juin 2021.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+Ce 27e jour de juillet 2021
+Philippe Lavigne‑Labelle, traducteur
+Référence : 2021 CCI 40
+Date : 20210609
+Dossier : 2018-3605(IT)I
+ENTRE :
+WRD BORGER CONSTRUCTION LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction
+[1] Le point en litige en l’espèce est de savoir si l’appelante a exercé des activités de recherche scientifique et de développement expérimental (« RSDE ») dans le cadre de travaux/d’efforts réalisés en 2015, en vue de bloquer le débit d’eau dans un grand ponceau à dalot sous-terrain.
+[2] En 2015, l’appelante a présenté une demande pour deux projets de RSDE, intitulés respectivement [traduction] « Étanchéité améliorée entre les surfaces crépies immergées » et [traduction] « Bouchons amovibles activés par pression pour les grands ponceaux à dalot » [1] .
+[3] Le ministre du Revenu national a déclaré que les activités liées au second projet ne répondaient pas à la définition de RSDE et a donc refusé les dépenses de RSDE s’y rapportant.
+II. Contexte factuel
+[4] L’appelante fait partie du groupe Borger Group of Companies, fondé en 1919. Le directeur général de l’appelante, Ahmed Kalaf, a expliqué dans son témoignage que l’appelante se spécialisait dans les services publics en profondeur, le terrassement et, plus récemment, les transports. Il a déclaré que l’appelante travaillait avec quelques-uns des plus grands promoteurs de la région de Calgary et qu’elle desservait de 3 000 à 5 000 lots durant une bonne année. Il a estimé que l’appelante installait de 130 000 à 150 000 m de conduites d’eau principales et d’un à six ponceaux à dalot chaque année. Il a mentionné que la largeur des ponceaux à dalot variait de 900 mm à 3 m.
+[5] À la lumière du témoignage de M. Kalaf, je décrirais le projet de construction à grande échelle d’une durée de trois ans comme la création d’une série ou d’un réseau de ponceaux à dalot, c’est-à-dire l’installation de nouveaux ponceaux et de leur raccordement à des ponceaux existants. L’intérieur des ponceaux existants et des nouveaux ponceaux se situait sous le niveau de l’eau. En 2015, la tâche particulière dont devait s’acquitter l’appelante (et l’objet du présent appel) consistait à bloquer le débit d’eau dans un ponceau à dalot de 2,4 m x 2,4 m (7,8 pi x 7,8 pi) sur une longueur de 500 m afin que les travailleurs de l’appelante puissent travailler à l’intérieur du ponceau et installer les raccords nécessaires. Habituellement, les eaux pluviales s’accumulent à une extrémité du ponceau et s’écoulent sur une pente descendante de 0,28 % jusque dans un lac collinaire, de sorte que l’intérieur du ponceau se trouve sous le niveau normal de l’eau de ce lac [2] .
+[6] M. Kalaf a déclaré que les ponceaux étaient généralement installés au-dessus du niveau de l’eau, donc dans le cas en question, le fait que le radier (c.-à-d. la partie inférieure de la paroi interne) était situé à environ 4 m sous la surface du lac constituait un défi particulier. Il a expliqué que l’eau du lac exercerait une pression de refoulement (c.-à-d. la pression causée par son poids) sur tout dispositif de blocage qui pourrait être utilisé. Par conséquent, il fallait que le dispositif de blocage puisse supporter une pression de refoulement de 4 m (13 pi). Il a également déclaré que le drainage du lac n’était pas possible dans ce cas, car il leur était interdit d’en perturber la végétation. Il a ajouté que le fond du lac était inégal en raison d’une couche de perré, qui est un enrochement servant à protéger de l’érosion les prises d’eau et les décharges du lac.
+[7] La contrainte annulaire était un autre facteur physique à prendre en considération. M. Kalaf a expliqué qu’il s’agissait de la tension exercée sur un mécanisme cylindrique (dans ce cas, le ponceau en tant que tel et le barrage à vessie gonflable dont il sera question ci-dessous). Aux fins du présent appel, il est pertinent de noter que le niveau de pression exercée sur le cylindre, la largeur du cylindre et l’épaisseur de la paroi du cylindre influent sur la contrainte annulaire; par exemple, l’épaississement de la paroi du cylindre diminue la contrainte annulaire.
+[8] M. Kalaf a déclaré que l’appelante s’était renseignée au sein de son industrie pour savoir comment/si d’autres entreprises avaient vécu cette situation, et qu’elle avait effectué des recherches sur Internet. Il a affirmé que les deux sources de renseignements n’avaient donné que très peu de réponses et que l’appelante avait finalement essayé un barrage à vessie gonflable (également appelé batardeau gonflable ou portable) et un obturateur rigide à tire de dispositifs de blocage.
+[9] M. Kalaf a mentionné qu’en 2014, l’appelante avait essayé de poser un obturateur en acier rigide à l’avant (sur l’ouverture) du ponceau, qui était lui-même incliné et qui s’ouvrait sur le lac; cependant, l’obturateur en acier s’était déformé sous la pression de refoulement. En 2015, l’appelante a acheté un barrage à vessie/batardeau portable de l’entreprise Dam-It Dams au Michigan.
+[10] La facture d’achat de Dam-It Dams indiquait que le barrage mesurait 8 pi x 50 pi, et le vendeur y avait ajouté une remarque selon laquelle le barrage de 8 pi retiendrait un maximum de 6 pi d’eau stagnante en tenant compte de la sédimentation [3] . La facture comprenait une fiche d’évaluation du chantier qui demandait s’il y avait des objets présents qui pourraient endommager la surface de contact du barrage; la réponse [traduction] « non » est encerclée, et la fiche d’évaluation est signée par un représentant de l’appelante [4] .
+[11] Lors du contre-interrogatoire, M. Kalaf a déclaré que l’appelante avait vraisemblablement répondu [traduction] « non » à cette question parce qu’une réponse affirmative aurait probablement bloqué la vente. Il a reconnu que les barrages gonflables étaient idéalement adaptés à chaque projet et qu’ils pouvaient être faits sur mesure, mais a ajouté que l’appelante faisait face à des contraintes de temps et de financement.
+[12] L’appelante a ancré le barrage à vessie non gonflé au niveau du sol et l’a enfilé dans un regard d’une largeur de 1,2 m au-dessus du ponceau dans le but de le gonfler en longueur une fois qu’il serait à l’intérieur du ponceau [5] . M. Kalaf a déclaré que leur plan avait été contrarié par la forme carrée du ponceau et la pression de refoulement existante; le barrage gonflable ne pouvait pas prendre forme de manière à sceller complètement le ponceau, et la pression de refoulement les empêchait de gonfler pleinement le barrage. Il a ajouté que la friction (ou son absence) avait causé deux problèmes : la surface intérieure mouillée du ponceau avait fait en sorte que le barrage glissait d’avant en arrière, tandis que des sections inégales ou irrégulières de la surface intérieure du ponceau avaient causé des déchirures dans le barrage.
+[13] M. Kalaf a affirmé que l’appelante avait ensuite essayé de poser un obturateur en béton rigide, qui avait résisté à la pression de refoulement, mais qui n’avait pas entièrement scellé l’avant du ponceau [6] . Il a ajouté qu’elle avait finalement scellé les brèches en envoyant des plongeurs insérer de petits objets (comme des morceaux de bois) dans les vides, en vue de bloquer physiquement la fuite; l’appelante avait ensuite utilisé des pompes pour retirer les infiltrations restantes/continues. En fin de compte, l’appelante avait utilisé une combinaison d’obturateur en béton, de petits objets tels que des morceaux de bois et des pompes pour assécher le ponceau carré.
+[14] En ce qui concerne la procédure et la tenue de registres de l’appelante, M. Kalaf a convenu lors du contre-interrogatoire que son processus en était un d’essais et d’erreurs et que ses registres permanents étaient composés de cartes de pointage et d’observations sur le terrain saisies dans un système quotidien servant à surveiller l’ensemble de ses projets de construction.
+[15] M. Kalaf a déclaré qu’il avait obtenu un baccalauréat ès sciences en 2007 et a reconnu qu’il n’était pas un ingénieur civil. Il a commencé à travailler pour le Borger Group of Companies en tant qu’ouvrier et, après avoir obtenu son baccalauréat, il a travaillé à titre d’estimateur, de gestionnaire de projets, d’estimateur en chef et de directeur de l’exploitation pour le compte de l’appelante, avant de finalement en devenir le directeur général.
+III. Cadre juridique
+[16] Aux fins du présent appel, l’expression RSDE signifie :
+Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+[…]
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent [7] . […]
+[17] Les critères utilisés pour déterminer si un ensemble d’activités répond à cette définition sont bien établis [8] :
+a) Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+Si le problème peut être résolu à l’aide des procédures habituelles ou des études techniques courantes, il n’y a pas d’incertitude technologique [9] .
+b) La personne qui prétend faire de la RSDE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+Les cinq étapes sont : 1) l’observation de l’objet du problème; 2) la formulation d’un objectif clair; 3) la détermination et la formulation de l’incertitude technologique; 4) la formulation d’une hypothèse ou d’hypothèses destinées à réduire ou à éliminer l’incertitude; 5) la vérification méthodique et systématique des hypothèses [10] .
+c) La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+La méthode décrite au point b) doit être adoptée en vue d’éliminer une incertitude technologique au moyen de la formulation et de la vérification d’hypothèses innovatrices non vérifiées. Ce n’est pas uniquement l’adhésion à des pratiques systématiques [11] .
+d) Le processus a-t-il abouti à un progrès technologique?
+Un progrès technologique est un progrès en ce qui concerne la compréhension générale. En d’autres termes, c’est quelque chose qui fait avancer ce que les personnes qui s’y connaissent dans le domaine savent ou qu’elles peuvent savoir. Le rejet d’une hypothèse après l’essai constitue un progrès [12] .
+e) Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[18] D’après leur libellé, les cinq critères ne sont pas mutuellement exclusifs.
+IV. Analyse
+[19] Je ne crois pas que les activités de l’appelante respectent les cinq critères de la RSDE. Je qualifierais les efforts de l’appelante d’ingénieux, compte tenu des contraintes de temps et d’argent qu’elle subissait, mais ils n’étaient pas innovateurs.
+[20] Il est évident qu’il y avait de l’incertitude quant à la manière dont l’appelante pourrait résoudre le problème auquel elle faisait face. Cependant, cette incertitude n’équivalait pas à un risque ou à une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes. L’appelante a tenté des procédures d’assèchement existantes concernant le barrage à vessie gonflable et l’obturateur rigide. Elle a finalement eu recours à l’obturateur en béton, a inséré des objets physiques pour bloquer toute brèche restante et a contrôlé les infiltrations continues à l’aide de pompes. Je considère que cette utilisation des objets physiques et des pompes constitue un usage habituel [13] .
+[21] Dans cette situation, l’approche de l’appelante ressemblait davantage à une résolution de problème par essais et erreurs qu’à la formulation d’hypothèses et à leur vérification systématique en vue de réduire ou d’éliminer une incertitude technologique. Ses efforts étaient systématiques, en ce sens que l’appelante pouvait seulement essayer une option à la fois et qu’elle se consacrait entièrement à chaque option au moment où elle la testait. M. Kalaf a été un témoin très crédible, et le fait qu’il a convenu lors du contre-interrogatoire que le processus de l’appelante en était un d’essais et d’erreurs n’est pas un facteur à prendre en considération.
+[22] À titre d’exemple de processus d’essais et d’erreurs, l’appelante a acheté un barrage à vessie gonflable de 8 pi x 50 pi qui, selon les spécifications du fabricant, pouvait contrôler 6 pi d’eau stagnante [14] . Le ponceau en tant que tel mesurait 2,4 m x 2,4 m (7,8 pi x 7,8 pi) et subissait une pression de refoulement de 4 m (13 pi) exercée par l’eau du lac. La surface intérieure du ponceau n’était pas lisse, mais l’appelante a répondu au vendeur qu’il n’y avait pas d’objets présents pouvant endommager la surface de contact du barrage [15] . Compte tenu de ces paramètres et de ces contre-indications, il semble qu’il était très peu probable que le processus soit un succès dès le départ. Le processus n’équivalait pas non plus à réfuter une hypothèse scientifique, car le barrage à vessie a été utilisé aux fins pour lesquelles il avait été créé (c.-à-d. bloquer l’eau) et les variables excédaient les capacités déjà prévues par le fabricant.
+[23] Le fait que la tenue de registres de l’appelante se limitait à des cartes de pointage et à des observations quotidiennes sur le terrain saisies dans son système de surveillance étaye la conclusion selon laquelle l’appelante n’a pas exercé d’activités de développement expérimental dans l’intérêt du progrès technologique en créant quelque chose de nouveau, ou en améliorant quelque chose qui existait déjà. Il n’était pas nécessaire de faire le suivi de la progression des activités comme on le ferait dans le cadre d’une expérience scientifique, car il n’y avait pas d’hypothèse.
+[24] Dans le cas présent, l’appelante a résolu un problème avec succès, malgré les contraintes de temps et d’argent qu’elle subissait et, d’après le témoignage de M. Kalaf, elle s’est révélée ingénieuse et engagée. Toutefois, il n’y a pas eu de progrès dans le domaine du génie civil pour l’application des dispositions relatives à la RSDE.
+V. Conclusion
+[25] L’appel sera rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 9e jour de juin 2021.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+Ce 27e jour de juillet 2021
+Philippe Lavigne‑Labelle, traducteur
+RÉFÉRENCE :
+2021 CCI 40
+NO DU DOSSIER DE LA COUR :
+2018-3605(IT)I
+INTITULÉ :
+WRD BORGER CONSTRUCTION LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 3 septembre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 9 juin 2021
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Jim Craig
+Avocat de l’intimée :
+Me Adam Pasichnyk
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Réponse à l’avis d’appel, alinéa 5e)
+[2] Pièce A-1, document 2-2 (diagramme du ponceau dessiné à la main); Réponse à l’avis d’appel, alinéas 5g) et 5i)
+[3] Pièce R-1, copie d’un courriel de Dam-It Dams, daté du 23 avril 2014, contenant la facture en pièce jointe
+[4] Pièce R-1, copie d’un courriel de Dam-It Dams, daté du 23 avril 2014, contenant la fiche d’évaluation du chantier en pièce jointe
+[5] Pièce A-1, document 2-2 (diagramme du ponceau dessiné à la main)
+[6] Pièce A-1, document 2-2 (diagramme du ponceau dessiné à la main)
+[7] Loi de l’impôt sur le revenu, paragraphe 248(1)
+[8] Kam-Press Metal Products Ltd. v. Canada, 2021 FCA 88, 2021 CarswellNat 1288, par. 7, confirmant 2019 CCI 46; C.W. Agencies Inc. c. Canada, 2001 CAF 393, par. 17; R&D Pro-Innovation Inc. c. Canada, 2016 CAF 152, par. 4; Jentel Manufacturing Ltd. c. Canada, 2011 CAF 355, par. 6; Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI), par. 16.
+[9] Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI), par. 16.
+[10] Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI), par. 16.
+[11] Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI), par. 16.
+[12] Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI), par. 16.
+[13] Northwest Hydraulic Consultants Ltd. c. La Reine, 1998 CanLII 553 (CCI), par. 31.
+[14] Pièce R-1, copie d’un courriel de Dam-It Dams, daté du 23 avril 2014, contenant la facture en pièce jointe
+[15] Pièce R-1, copie d’un courriel de Dam-It Dams, daté du 23 avril 2014, contenant la fiche d’évaluation du chantier en pièce jointe

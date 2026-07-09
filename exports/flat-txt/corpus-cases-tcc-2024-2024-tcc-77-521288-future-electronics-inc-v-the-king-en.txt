@@ -1,0 +1,317 @@
+Title: Future Electronics Inc. v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521288/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-77-521288-future-electronics-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-05-28
+
+# Future Electronics Inc. v. The King
+
+- Citation: 2024 TCC 77
+- Decision date: 2024-05-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5504, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Future Electronics Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-28
+Neutral citation
+2024 TCC 77
+File numbers
+2021-1171(GST)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2021-1171(GST)G
+BETWEEN:
+FUTURE ELECTRONICS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on January 24, 25, and 26, 2023, at Montréal, Quebec.
+Amended motion heard on February 15 and 24, 2023, at Ottawa, Ontario.
+Amended motion brought on November 13, 2023, at Montréal, Quebec.
+Written submissions filed on September 29 and November 13, 2023.
+Submissions heard at the hearing on February 12, 13, and 14, 2024, at Montréal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the Appellant:
+Dominic C. Belley
+Jonathan Lafrance
+Mareine Gervais-Cloutier
+Juliana Succès
+Counsel for the Respondent:
+Huseyin Akyol
+Vasil Naydenov
+ORDER
+In accordance with the attached Reasons, the Court:
+GRANTS Future Electronics’s motion for the issuance of the permanent confidentiality order;
+ORDERS that the interim confidentiality order be replaced by this permanent confidentiality order;
+ORDERS that the original hearing transcripts be retained in the Court record, along with a copy of this order, to be accessible solely to the Court and its personnel, the parties and their counsel, and the Agence du revenu du Québec;
+ORDERS that the copy of the transcripts, in which the information described in Annex A has been redacted by the parties and which was entered in the Court record on November 14, 2023, for the January 24 and 26, 2023 hearing days and on November 27, 2023, for the January 25, 2023 hearing day, be accessible to individuals other than those mentioned earlier;
+ORDERS that, if a person other than the parties, their counsel, and the Agence du revenu du Québec hires a stenographer to produce the transcript of the hearing, the confidential information described in Annex A be redacted by the official stenographer hired to produce the transcript;
+REQUIRES the Court Registrar and any official stenographer to take all necessary measures to ensure compliance with this order;
+WITHOUT costs.
+Signed at Ottawa, Canada, this 28th day of May 2024.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 31st day of March 2026.
+Melissa Paquette
+Citation: 2024 TCC 77
+Date: 20240528
+Docket: 2021-1171(GST)G
+BETWEEN:
+FUTURE ELECTRONICS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Ouimet J.
+I. INTRODUCTION [1] On January 24, 2023, during the trial and under Rule 16.1 of the Tax Court of Canada Rules (General Procedure)[1] (the “Rules”), Future Electronics Inc. (“Future Electronics”) brought a motion for a permanent confidentiality order. The initial motion sought to seal certain documents entered in the Court record to maintain their confidentiality, as well as to redact certain information contained in the testimony of Steven Adams (“Mr. Adams”) and recorded in the trial transcripts in order to keep it confidential.
+[2] At the opening of the trial, the Court issued an interim confidentiality order orally. In accordance with this order, the entire contents of the Court record were temporarily sealed, excluding pleadings. The temporary order remained in force until the Court could issue a permanent order, which is typically done after the trial ends, for practical reasons. That is what was done in this case.
+[3] On February 10, 2023, during a teleconference, Future Electronics amended its motion to narrow its scope. According to the motion, Future Electronics was requesting solely that certain information from Mr. Adams’s testimony that had been recorded in the trial transcripts be kept confidential. The presentation of the motion continued during a second teleconference held on February 15, 2023.
+[4] On February 23, 2023, during a third teleconference, Future Electronics once again amended its motion to further narrow its scope. Future Electronics requested that the Court issue a permanent confidentiality order to maintain the confidentiality of certain information recorded in the trial transcripts. The information in question was the following:
+the names of its suppliers and clients;
+information regarding its business model and its commercial partnerships; and
+the home addresses of three witnesses who testified during the trial.[2]
+To this end, Future Electronics requested that the excerpts from the trial transcripts containing this information be redacted.
+[5] On April 21, 2023, at the Court’s request, Future Electronics provided it with a copy of the excerpts from the trial transcripts, in which the information described at paragraph 4 above had been redacted.
+[6] On August 31, 2023, the Court requested that the parties file written submissions regarding the motion. The Court also asked Future Electronics to review the redaction of the excerpts from the trial transcripts that were sent to it on April 21, 2023, as the redaction appeared inadequate in light of the submissions made on February 23, 2023.
+[7] On September 29, 2023, Future Electronics sent the Court its written submissions. In these submissions, Future Electronics contends as follows:
+-The issue on appeal is whether the GST assessment made by the Minister of National Revenue in relation to the operation of the cafeteria at the Future Electronics headquarters was well founded. More specifically, it had to be determined whether employees received a taxable benefit when using the cafeteria.
+-According to Future Electronics, its employees receive no benefit as regards their use of the headquarters cafeteria.
+-The Minister of National Revenue erroneously assessed GST in relation to what the Minister claims to be a benefit with respect to the cafeteria for the following reasons:
+No significant difference between the prices of meals provided at the cafeteria and the prices of similar meals available elsewhere.
+The cafeteria’s pivotal role in its business model and financial performance. To substantiate its case theory, Future Electronics must provide evidence of certain core elements of its business model as well as its business strategies, including the names of certain suppliers and clients. According to Future Electronics, this information is confidential. Furthermore, in an extremely competitive international market, Future Electronics closely and legitimately guards this information.
+If this information were disclosed to the public as part of the trial (and thus made accessible to its competitors), Future Electronics would incur serious harm.
+[8] On September 29, 2023, Future Electronics submitted to the Court a new copy of excerpts from the trial transcripts with the proposed redactions.
+[9] On October 6, 2023, His Majesty the King (“HMTK”) filed his written submissions with the Court. In these submissions, HMTK contends as follows:
+In its written submissions, Future Electronics does not mention the reason(s) the home addresses of the witnesses should be kept confidential.
+Future Electronics redacted the name of the company for which one of the witnesses worked in 1986 and 1987. Future Electronics did not request in its motion that this information be kept confidential.
+Future Electronics did not mention the law applicable to confidentiality orders respecting the names and addresses of witnesses.
+[10] On October 13, 2023, the Court concluded that Future Electronics’s September 29, 2023 submissions were inadequate. The Court asked Future Electronics to amend its motion to address the following points:
+the reason(s) the home addresses of the witnesses who testified at trial should be kept confidential; and
+the reason(s) Rule 16.1 can be invoked in support of Future Electronics’s motion, as it pertains solely to the excerpts from the trial transcripts.
+Furthermore, the Court asked Future Electronics to provide it with a new copy of the excerpts from the trial transcripts with the proposed redactions to comply with the Court’s directions.
+[11] On November 13, 2023, Future Electronics submitted to the Court an amended motion, new written submissions, and a new copy of the excerpts from the redacted trial transcripts. In its motion, Future Electronics requested that the Court issue a permanent confidentiality order to keep the following information confidential:
+the names of its suppliers and clients mentioned during the trial on January 24, 25, and 26, 2023; and
+the information regarding the core elements of its business model and strategic decisions mentioned during the trial on January 24, 25, and 26,2023.
+[12] On November 24, 2023, HMTK filed new written submissions with the Court. HMTK pointed out that the new copy of the excerpts from the trial transcripts provided by Future Electronics included certain redactions pertaining to the name of the company where one of the witnesses worked in 1986 and 1987. The name of this company was also redacted without reason in another place in the transcripts.
+[13] On November 27, 2023, following HMTK’s submissions, Future Electronics informed the Court that it had made a mistake and that a previous version of the transcripts had been sent to it. Subsequently, the Court received a new version of the redacted transcripts that complied with its directions.
+II. ISSUE [14] The issue is as follows:
+-Should the following information be kept confidential and thus be subject to a permanent confidentiality order?
+The names of the suppliers and clients of Future Electronics mentioned during the trial on January 24, 25, and 26, 2023.
+The information regarding the core elements of Future Electronics’s business model and strategic decisions mentioned during the trial on January 24, 25, and 26, 2023.
+[15] To answer this question, the Court will have to answer the following questions:
+Does the disclosure of this information pose a serious risk to an important public interest?
+Is the order sought necessary to prevent a serious risk to the public interest(s) invoked by Future Electronics because reasonably alternative measures will not prevent this risk?
+As a matter of proportionality, do the benefits of the order sought outweigh its negative effects?
+III. DISCUSSION A. Which Rule applies to obtain a confidentiality order when the information that a party would like to keep confidential is contained in the trial transcripts? [16] According to Rule 16.1, after a motion is brought, the Court may order that part of a document be treated as confidential. Rule 16.1 reads as follows:
+Confidentiality Order
+16.1 (1) On motion, the Court may order that a document or part of a document shall be treated as confidential at the time of filing of the document and determines the conditions in relation to its reproduction, destruction and non-disclosure.
+(2) Where the Court makes an order pursuant to subsection (1), a party or solicitor of record may have access to the confidential document or part of the confidential document only on conditions determined by the Court in relation to its reproduction, destruction and non-disclosure.
+(3) The order remains in effect until the Court orders otherwise.
+[17] In this case, in its motion, Future Electronics is asking the Court to issue a permanent confidentiality order to keep certain information recorded in the trial transcripts confidential. Although the transcripts are recorded in writing, so in documents, the information that is the subject of the motion is from Mr. Adams’s testimony.[3] Given this fact, the Court is of the opinion that, at first glance, Rule 16.1 does not apply in this case because Mr. Adams’s testimony is not a document filed in evidence during the trial and, in the Court’s view, Rule 16.1 pertains to documents submitted in evidence as part of a trial.
+[18] That said, Rule 4 provides that, where matters are not provided for in the Rules, judges of this Court have the discretion to liberally construe the Rules and determine the practice they consider appropriate. Rule 4 provides as follows:
+Interpretation
+4 (1) These rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.
+(2) Where matters are not provided for in these rules, the practice shall be determined by the Court, either on a motion for directions or after the event if no such motion has been made.
+[19] Given the wording of Rule 4 and considering that Rule 16.1 does not expressly describe how to obtain a confidentiality order pertaining to transcripts, the Court is of the opinion that it must broaden the scope of Rule 16.1 to make it applicable. The Court considers this the simplest way to address this procedural gap.
+[20] The Court concludes that the scope of Rule 16.1 must be broadened to make it applicable to transcripts. Therefore, the Court finds that Future Electronics used the correct procedural vehicle since its motion was brought under Rule 16.1.
+B. Motion for a confidentiality order (1) Open court principle [21] As a general rule, the public can attend hearings and consult court files, and the press is also free to inquire and comment on the workings of the courts.[4] To obtain permission to override this principle, a party must meet a significant burden of proof.[5] Public access to hearings will be barred only when the disclosure of evidence would truly subvert important interests and impair the proper administration of justice.[6]
+[22] In Canada (Citizenship and Immigration) v. Harkat,[7] the Supreme Court of Canada stated that the open court principle is a hallmark of a democratic society. That is why, in its view, the applicable test in the case at hand is so strict and requires proper consideration leading to a delicate exercise of discretion.[8] The Supreme Court of Canada has repeatedly recognized that the open court principle is protected by the constitutionally-entrenched right of freedom of expression.[9]
+[23] In Sherman Estate v. Donovan,[10] the Supreme Court of Canada stated the following on this matter:
+Court openness is protected by the constitutional guarantee of freedom of expression and is essential to the proper functioning of our democracy (Canadian Broadcasting Corp. v. New Brunswick (Attorney General), [1996] 3 S.C.R. 480, at para. 23; Vancouver Sun (Re), 2004 SCC 43, [2004] 2 S.C.R. 332, at paras. 23–26) Reporting on court proceedings by a free press is often said to be inseparable from the principle of open justice. “In reporting what has been said and done at a public trial, the media serve as the eyes and ears of a wider public which would be absolutely entitled to attend but for purely practical reasons cannot do so” (Khuja v. Times Newspapers Ltd., [2017] UKSC 49, [2019] A.C. 161, at para. 16, citing Edmonton Journal v. Alberta (Attorney General), [1989] 2 S.C.R. 1326, at pp. 1339–40, per Cory J.). Limits on openness in service of other public interests have been recognized, but sparingly and always with an eye to preserving a strong presumption that justice should proceed in public view (Dagenais v. Canadian Broadcasting Corp., [1994] 3 S.C.R. 835, at p. 878; R. v. Mentuck, 2001 SCC 76, [2001] 3 S.C.R. 442, at paras. 32–39; Sierra Club, at para. 56). The test for discretionary limits on court openness is directed at maintaining this presumption while offering sufficient flexibility for courts to protect these other public interests where they arise (Mentuck, at para. 33). The parties agree that this is the appropriate framework of analysis for resolving this appeal.[11]
+[24] Therefore, the courts’ discretion to limit the openness of court proceedings through a confidentiality order must be exercised carefully and sparingly, with an eye to preserving a strong presumption that justice should proceed in public view.
+(2) Exception to the open court principle – Conditions to meet for any type of information to be kept confidential [25] An individual may request that the Court make an exception to the open court principle and keep certain information confidential.
+[26] In Sherman, the Supreme Court of Canada reconsidered the criteria that it had previously set out itself in Sierra Club of Canada v. Canada (Minister of Finance)[12] regarding the exercise of a court’s discretion in relation to court openness.
+[27] According to the Supreme Court of Canada, a person asking a court to exercise discretion in a way that limits the open court presumption and to issue a confidentiality order for that purpose must establish that:
+court openness poses a serious risk to an important public interest;
+the order sought is necessary to prevent this serious risk to the identified interest because reasonably alternative measures will not prevent this risk; and
+as a matter of proportionality, the benefits of the order sought outweigh its negative effects.[13]
+[28] Only where all three of these prerequisites have been met can a discretionary limit on openness—for example, a sealing order, a publication ban, an order excluding the public from a hearing, or a redaction order—properly be ordered.[14]
+[29] Therefore, to issue the confidentiality order, the Court must apply a test through which it must answer the following questions:
+Does court openness pose a serious risk to an important public interest?
+If so, is the order sought necessary to prevent this serious risk to the identified interest because reasonably alternative measures will not prevent this risk?
+If so, do the benefits of the order sought, as a matter of proportionality, outweigh its negative effects?
+[30] These three questions must be examined consecutively. Only where the Court answers each of them in the affirmative can the requested confidentiality order be granted.
+(a) Does court openness pose a serious risk to an important public interest? [31] In Sherman, the Supreme Court of Canada reiterated that there is no closed list of important public interests. Determining what is an important public interest can be done in the abstract at the level of general principles that extend beyond the parties to the particular dispute. The relevant passage of Sherman reads as follows:
+42 While there is no closed list of important public interests for the purposes of this test, I share Iacobucci J.’s sense, explained in Sierra Club, that courts must be “cautious” and “alive to the fundamental importance of the open court rule” even at the earliest stage when they are identifying important public interests (para. 56). Determining what is an important public interest can be done in the abstract at the level of general principles that extend beyond the parties to the particular dispute (para. 55). …[15]
+[32] In the same decision, the Supreme Court of Canada further clarified that the determination of whether a “serious risk” poses a threat to an important public interest is a fact-based finding that must be made in context. The judge must first identify an important interest and, second, determine the seriousness of the risk to that interest. The relevant passage of Sherman reads as follows:
+… By contrast, whether that interest is at “serious risk” is a fact‑based finding that, for the judge considering the appropriateness of an order, is necessarily made in context. In this sense, the identification of, on the one hand, an important interest and, on the other, the seriousness of the risk to that interest are, theoretically at least, separate and qualitatively distinct operations. An order may therefore be refused simply because a valid important public interest is not at serious risk on the facts of a given case or, conversely, that the identified interests, regardless of whether they are at serious risk, do not have the requisite important public character as a matter of general principle.[16]
+[33] As for the risk in question, it must be real and substantial, and the evidence must enable the judge to conclude that it poses a serious threat to the interest.[17] Determining the significance of the harm, or of the “serious risk” to the public interest, is a fact-based exercise that necessarily depends on the context.[18]
+[34] It should be noted that purely personal risks, such as negative media publicity, damage to personal reputation, embarrassment or potential economic harm, are not sufficient to displace the open court principle.[19]
+(b) Is the order sought necessary to prevent this serious risk to the identified important public interest because reasonably alternative measures will not prevent this risk? [35] As established in Sierra Club and reiterated in Sherman, the order’s necessity must be assessed by considering whether there are alternatives to the order sought and requires the judge to restrict the order as much as reasonably possible to prevent the serious risk, while safeguarding the important public interest.[20]
+[36] The courts have recognized on several occasions that reasonably alternative measures can include redaction, publication bans, sealing orders, and hearings held in camera.[21]
+(c) As a matter of proportionality, do the benefits of the order sought outweigh its negative effects? [37] When courts have to determine whether, as a matter of proportionality, the benefits of the order sought outweigh its negative effects, it is also relevant to ask whether the information that the order sought is intended to protect is incidental or fundamental to the court proceeding.
+[38] In Sierra Club, the Supreme Court of Canada stated the following regarding the notion of proportionality in this context:
+As stated above, at this stage, the salutary effects of the confidentiality order, including the effects on the appellant’s right to a fair trial, must be weighed against the deleterious effects of the confidentiality order, including the effects on the right to free expression, which in turn is connected to the principle of open and accessible court proceedings. This balancing will ultimately determine whether the confidentiality order ought to be granted.[22]
+[39] As for the negative effects, particularly on the right to freedom of expression, the Supreme Court of Canada mentioned the following in the same decision:
+Granting the confidentiality order would have a negative effect on the open court principle, as the public would be denied access to the contents of the Confidential Documents. As stated above, the principle of open courts is inextricably tied to the s. 2(b) Charter right to freedom of expression, and public scrutiny of the courts is a fundamental aspect of the administration of justice: New Brunswick, supra, at paras. 22–23. Although as a general principle, the importance of open courts cannot be overstated, it is necessary to examine, in the context of this case, the particular deleterious effects on freedom of expression that the confidentiality order would have.[23]
+[40] To assist the courts in determining the impact of a confidentiality order on the right to freedom of expression, the Supreme Court of Canada listed the core values underlying freedom of expression, namely:
+-seeking the truth and the common good;
+-promoting self-fulfillment of individuals by allowing them to develop thoughts and ideas as they see fit; and
+-ensuring that participation in the political process is open to all persons.[24]
+C. Future Electronics’s motion [41] To obtain the desired order, Future Electronics had to demonstrate that the disclosure of the commercial information that it wants to keep confidential poses a serious risk to an important public interest. Therefore, Future Electronics had to identify the relevant important public interest(s) in this case and show that there is a serious risk to one or more of them.
+[42] A commercial interest can be considered an important public interest, but only under certain circumstances. In Sierra Club, the Supreme Court of Canada stated that to qualify as an “important commercial interest”, an interest cannot merely be specific to the party requesting the confidentiality order; the interest must be one which can be expressed in terms of a public interest in confidentiality. The Supreme Court of Canada provided the example of a private company, which cannot argue simply that the existence of a contract should not be made public because to do so would cause the company to lose business, thus harming its commercial interests. However, if exposure of information would cause a breach of a confidentiality agreement, then the commercial interest affected can be characterized more broadly as the general commercial interest of preserving confidential information. The relevant passage of Sierra Club reads as follows:
+55 In addition, the phrase “important commercial interest” is in need of some clarification. In order to qualify as an “important commercial interest,” the interest in question cannot merely be specific to the party requesting the order; the interest must be one which can be expressed in terms of a public interest in confidentiality. For example, a private company could not argue simply that the existence of a particular contract should not be made public because to do so would cause the company to lose business, thus harming its commercial interests. However, if, as in this case, exposure of information would cause a breach of a confidentiality agreement, then the commercial interest affected can be characterized more broadly as the general commercial interest of preserving confidential information. Simply put, if there is no general principle at stake, there can be no “important commercial interest” for the purposes of this test. Or, in the words of Binnie J. in F.N. (Re), [2000] 1 S.C.R. 880, 2000 SCC 35, at para. 10, the open court rule only yields “where the public interest in confidentiality outweighs the public interest in openness” (emphasis added).[25]
+[43] In such a case, according to the Supreme Court of Canada, then the commercial interest affected can be characterized more broadly as the general commercial interest of preserving confidential information.[26] Therefore, it can be concluded that the disclosure of information protected by a confidentiality agreement is an “important commercial interest” and thus an important public interest.[27]
+[44] In Sherman, the Supreme Court of Canada added that harm to a particular business interest is not sufficient to make it an important public interest, but that the general commercial interest of preserving confidential information is an important interest because of its public character.[28]
+[45] In addition, according to the Supreme Court of Canada, courts must be cautious in determining what constitutes an “important commercial interest”. A confidentiality order suggests an infringement on freedom of expression. Although the balancing of the commercial interest with freedom of expression takes place under the second branch of the test, courts must be alive to the fundamental importance of the open court rule.[29]
+[46] In Shell Canada Limited v. The Queen,[30] this Court identified five important commercial interests that are important public interests and that therefore can be protected.[31] These interests are as follows:
+-the general commercial interest of preserving confidential information;[32]
+-the general public interest of protecting the right to a fair trial, also described as the public interest of enabling “commercial litigants to vindicate their legal rights without exposing themselves to the real risk of harm”;[33]
+-the public interest of enabling a litigant, when compelled by the rules of discovery to divulge sensitive and confidential information, to maintain the confidentiality of that information;[34]
+-the public interest of promoting commercial certainty and protecting proprietary information;[35] and
+-the public interest of protecting fair competition.[36]
+[47] According to this Court, this is not an exhaustive list. These are important public interests related to commercial or business activities.[37] Furthermore, as mentioned in Shell, there is an element of similarity or overlap among some of the important commercial interests listed above.[38] I have nonetheless decided to structure the discussion by addressing them one by one. The important public interests invoked by Future Electronics all figure in this list.
+[48] In the case at hand, the Court must first determine whether disclosing the names of Future Electronics’s suppliers and clients and/or information pertaining to its business strategies poses a serious risk to any of the important public interests outlined above or to another important public interest (given that the above list is not exhaustive) that must be protected in the context of commercial activities. To this end, the Court will examine the important public interests cited by Future Electronics in its submissions and determine whether the disclosure of information that Future Electronics claims must be kept confidential poses a serious risk to one or more of those interests.
+(1) Does court openness pose a serious risk to an important public interest? (a) The general commercial interest of preserving confidential information [49] In Sierra Club, the Supreme Court of Canada stated that the preservation of confidential information constitutes a sufficiently important commercial interest, and therefore an important public interest, in certain circumstances.[39] The conditions set forth by the Supreme Court of Canada are as follows:
+60 … Such an order requires the applicant to demonstrate that the information in question has been treated at all relevant times as confidential and that on a balance of probabilities its proprietary, commercial and scientific interests could reasonably be harmed by the disclosure of the information: AB Hassle v. Canada (Minister of National Health and Welfare) (1998), 83 C.P.R. (3d) 428 (F.C.T.D.), at p. 434. To this I would add the requirement proposed by Robertson J.A. that the information in question must be of a “confidential nature” in that it has been “accumulated with a reasonable expectation of it being kept confidential” as opposed to “facts which a litigant would like to keep confidential by having the courtroom doors closed” (para. 14).[40]
+[50] Therefore, according to the foregoing, in order to obtain the confidentiality order sought, Future Electronics must demonstrate that:
+1-the names of its suppliers and clients, as well as the information regarding its business strategies, have always been considered and treated as confidential, and therefore are of a confidential nature; and
+2-on a balance of probabilities its proprietary and commercial interests could reasonably be harmed by the disclosure of the information.[41]
+[51] According to Mr. Adams’s testimony, the names of Future Electronics’s suppliers and clients, as well as the information regarding its business strategies, have always been considered and treated as confidential by the company and its employees. According to Mr. Adams, this information is vital and central to the business model and provides Future Electronics with a competitive advantage. Future Electronics is a private company that is considered the fourth-largest distributor of electronic components in the world. Its competitors are public companies that wonder about its business model and about why it has been so successful. That is why Future Electronics, as a private company, pays particular attention to information that could become public. Mr. Adams also stated that it is impossible to ascertain whether certain suppliers and clients agree to have their connections with Future Electronics disclosed to other suppliers and clients.
+[52] According to Mr. Adams, if this information were to become public, Future Electronics could lose its distribution rights with its suppliers, which might cause it to lose revenue; this would damage its competitiveness and would therefore undermine its commercial interests. In such a scenario, which involves losing distribution rights with a supplier, Future Electronics can no longer purchase that supplier’s product. Mr. Adams also mentioned that it is likely that some of Future Electronics’s suppliers do business with its competitors, to whom it sells their products at different prices. If the suppliers’ names were to become known, third parties might question their selling prices, which could negatively impact its business relationships and the prices it pays for certain goods; this could consequently affect its competitiveness, which would be contrary to its commercial interests.
+[53] Considering the explanations Mr. Adams provided during his testimony, the Court is of the opinion that, on the balance of probabilities, the information concerning Future Electronics’s business strategies had to be treated and was treated as confidential by the company and its employees. Furthermore, it is reasonable to believe that disclosure of the information would risk compromising its proprietary and commercial rights. Therefore, since the information is treated as confidential and Mr. Adams has satisfactorily explained to the Court that it is of interest to Future Electronics’s competitors, the Court finds that the disclosure of this information poses a serious risk to this important public interest.
+(b) The general public interest of protecting the right to a fair trial, also described as the public interest of enabling “commercial litigants” to vindicate their legal rights without exposing themselves to the real risk of harm [54] This important commercial interest was identified by Future Electronics as being at risk. To draw a conclusion on this point, the Court must determine whether not issuing the confidentiality order would compel Future Electronics to choose between its obligations and its right to full answer and defence.[42] Should Future Electronics be impeded from presenting evidence on account of a confidentiality agreement with one of its suppliers or clients, for example, its right to full answer and defence, which is of public interest, would inevitably be infringed upon unless a confidentiality order is granted.
+[55] In this case, according to Future Electronics, the sole risk of harm lies in the fact that if the names of its suppliers and clients, as well as the information regarding the core elements of its business model, were not kept confidential and therefore became known to its competitors, its competitors would be given a competitive advantage. Given this, and considering that fair competition is itself an important commercial risk that has been identified by the courts as requiring protection, the Court will consider Future Electronics’s arguments regarding this important commercial interest.
+(c) Promoting commercial certainty and protecting proprietary information [56] To draw a conclusion regarding this important commercial interest, the Court must determine whether disclosing the information would expose its owner to serious financial harm. In Sierra Club of Canada v. Canada (Minister of Finance),[43] the Federal Court of Appeal stated the following on this matter:
+12 … Obviously this overarching consideration has no application to the present case and so it is that the law governing the issuance of confidentiality orders must respond to a plethora of factual patterns. However, the task of isolating an analytical framework is greatly simplified in the present case once it is recognized that the present law already provides an exception for confidential information which qualifies as a “trade secret”. According to established principles, a trade secret constitutes a species of property which can be protected by way of injunction. For this reason, the law will not permit disclosure of a trade secret during the course of a trial when to do so would have the effect of destroying the owner’s proprietary right and exposing him or her to irreparable harm in the form of a financial loss. This explains why the jurisprudence holds that a confidentiality order must issue where “the subject matter of the action would be destroyed” if the doors of the courtroom were to remain open.
+13 While the present case does not involve a trade secret, I cannot think of any reason why similar treatment cannot be extended to cases involving commercial or scientific information which can be reasonably viewed as having been acquired or accumulated on a confidential basis. More often than not such information is of value to a party’s competitors.[44] …
+[57] Future Electronics argues that there is an important public commercial interest in ensuring that the identities of third parties, namely its suppliers and clients, are not disclosed, both for its own benefit and theirs.
+[58] In this case, according to Mr. Adams’s testimony, the names of Future Electronics’s suppliers and clients, as well as the information regarding the core elements of its business model and strategic decisions, are considered trade secrets by the company. During his testimony, Mr. Adams demonstrated that it could be advantageous to third parties in the industry, such as former suppliers, to obtain access to the list of Future Electronics’s current suppliers and clients. Conversely, Future Electronics’s current suppliers and clients do not want their business relationship with the company to be known to all. That is why Future Electronics closely guards this confidential and proprietary information.
+[59] On the basis of the explanations provided by Mr. Adams and on the balance of probabilities, the Court finds that in light of the market in which Future Electronics operates, the names of its suppliers and clients, as well as its business strategies, constitute proprietary commercial information and must therefore be kept confidential.
+(d) Protecting fair competition [60] The general public interest of protecting the right to a fair trial was not directly invoked by Future Electronics as a basis for its motion. That said, given the content of Mr. Adams’s testimony, the Court must take it into consideration.
+[61] As established in Resolve Business Outsourcing Income Fund v. Canadian Financial Wellness Group Inc.[45] and reiterated by this Court in Shell, there is an important public interest in fair competition.[46]
+[62] In RJG Construction Ltd. v. Marine Atlantic Inc.,[47] the Court of Appeal of Newfoundland and Labrador concluded that not granting the confidentiality order would provide a commercial advantage to a party’s competitors, as they would have access to sensitive commercial and financial information which they could use to their own advantage and to the party’s disadvantage:
+27 Failing to grant a confidentiality order in this case would provide an advantage to RJG’s competitors by giving them RJG’s sensitive commercial and financial information which they could use to their own advantage and to RJG’s disadvantage. The open court principle cannot be blind to this reality, and in my view, cannot be permitted to expose a litigant’s vulnerability in the absence of good reason. In Sierra Club, the Court stipulated that if a court grants a confidentiality order on the basis of an important commercial interest, the commercial interest cannot merely be specific to the party requesting the order, but must be one which can be expressed in terms of a public interest in confidentiality. As I see it, the public interest at stake in cases like this is the ability of commercial litigants to vindicate their legal rights without exposing themselves to the real risk of harm.
+[63] Therefore, there may be an important public interest in maintaining and protecting competitiveness within specific industries if it is important for the Canadian economy, such as the banking or energy sectors.[48] Given the significance of the electronic components distribution sector to the Canadian economy and Future Electronics’s status as one of the world’s largest companies in this industry, the Court is of the opinion that there is a public interest in maintaining competition within this sector.
+[64] Indeed, on the basis of the information provided to the Court, it is reasonable to conclude that if the names of Future Electronics’s suppliers and clients, as well as the information regarding the core elements of its business model and strategic decisions, were not kept confidential, its competitors would gain access to them. This would pose a serious risk of granting these competitors a competitive advantage, which would be contrary to the important public interest of fair competition.[49] Consequently, there would be a serious risk of fostering unfair competition to Future Electronics’s detriment if the confidential information in question were to be disclosed during legal proceedings on an entirely different matter. Thus, the Court finds that there would be a serious risk to the protection of fair competition should the information not be kept confidential.
+(e) Conclusion [65] For the reasons mentioned in paragraphs 49 to 64 above, the Court concludes that if the names of Future Electronics’s suppliers and clients, along with the information pertaining to the core elements of its business model and strategic decisions mentioned during the trial on January 24, 25, and 26, 2023, were made public, there would be a serious risk to the following important public interests:
+the general commercial interest of preserving confidential information;
+the public interest of promoting commercial certainty and protecting proprietary information; and
+the public interest of protecting fair competition.
+(2) Is the order sought necessary to prevent this serious risk to the identified interest because reasonably alternative measures will not prevent this risk? [66] To answer this question, the Court must determine whether there are reasonably alternative measures to granting the order sought that could be implemented to prevent the serious risk. If a reasonably alternative measure is possible, the confidentiality order cannot be granted.
+[67] Future Electronics did not mention any possible alternative measure. Future Electronics maintains that redacting certain passages of the trial transcripts is necessary and that this measure is the most reasonable under the circumstances. Future Electronics argues that redacting certain passages of the transcripts would result in the least infringement on the open court principle, since any member of the public would be able to access the redacted transcripts and understand the nature of the issues, the parties’ positions, and the concerns that were raised.
+[68] Considering the limited amount of information that needs to be redacted, and being unable to identify a less restrictive measure, the Court concludes that redacting the names of Future Electronics’s clients and suppliers, as well as information regarding its business model, is the most appropriate measure under the circumstances. The Court is of the opinion that redacting excerpts from the trial transcripts will not hinder the overall understanding of the dispute between the parties.
+(3) As a matter of proportionality, do the benefits of the order sought outweigh its negative effects? [69] At this stage, the Court must determine whether the benefits of the confidentiality order sought outweigh its negative effects.
+[70] Future Electronics argues that the public, its suppliers, and its clients have a real and substantial interest in the confidentiality order being granted. According to Future Electronics, it is in the public interest that confidential commercial information be protected. In its opinion, the proposed redaction allows Future Electronics to fully assert its rights before the Court in exchange for a minimal infringement on the open court principle. Future Electronics argues that it is in the interests of justice to grant the confidentiality request in light of the absence of a reasonably alternative measure and because, as a matter of proportionality, the benefits of the order sought outweigh its negative effects.
+[71] In this case, the information that the order sought is intended to protect is incidental to the court proceeding, and maintaining its confidentiality will not prevent the public from understanding the dispute. In fact, according to Mr. Adams’s testimony and in the Court’s opinion, the only people who might have an interest in accessing this information are Future Electronics’s competitors, for reasons unrelated to the issue in dispute.
+[72] Therefore, if this order is not granted, the negative effects to Future Electronics outlined in paragraph 71 outweigh by far the potential departure from the open court principle. Given the limited amount of information that must be kept confidential, its redaction represents a minimal infringement on the open court principle, which, in my opinion, is more than reasonable.
+[73] The Court concludes that the proportionality criterion is satisfied. The information that Future Electronics is seeking to protect is incidental to the dispute and does not compromise the open court principle, as the public would still have access to the Court record as well as the redacted trial transcripts and would be able to understand the essence of the dispute despite the redaction. The benefits of the order outweigh the negative effects. Confidential information is necessary to ensure the proper holding of the appeal, and Future Electronics would risk significant harm regarding the preservation of its trade secrets if that information were not protected. Therefore, the infringement on the public interest of court openness is minimal since the confidential information relates to a limited segment of the total evidence.
+IV. CONCLUSION [74] In light of the commercial interests raised by Future Electronics in this case, namely the general commercial interest of preserving confidential information, the promotion of commercial certainty and protection of proprietary information, as well as the protection of fair competition, the Court considers that Future Electronics has demonstrated that there is a serious risk to several important public interests. The order sought is necessary to prevent a serious risk to each of these interests, as no reasonably alternative measure would make it possible to prevent them. Therefore, the Court concludes that the order is necessary to protect these interests. Lastly, the benefits of such an order outweigh its negative effects.
+[75] FOR THESE REASONS, THE COURT:
+GRANTS Future Electronics’s motion for the issuance of the permanent confidentiality order;
+ORDERS that the interim confidentiality order be replaced by this permanent confidentiality order;
+ORDERS that the original hearing transcripts be retained in the Court record, along with a copy of this order, to be accessible solely to the Court and its personnel, the parties and their counsel, and the Agence du revenu du Québec;
+ORDERS that the copy of the transcripts, in which the information described in Annex A has been redacted by the parties and which was entered in the Court record on November 14, 2023, for the January 24 and 26, 2023 hearing days and on November 27, 2023, for the January 25, 2023 hearing day, be accessible to individuals other than those mentioned earlier;
+ORDERS that, if a person other than the parties, their counsel, and the Agence du revenu du Québec hire a stenographer to produce the transcript of the hearing, the confidential information described in Annex A be redacted by the official stenographer hired to produce the transcript;
+REQUIRES the Court Registrar and any official stenographer to take all necessary measures to ensure compliance with this order;
+WITHOUT costs.
+Signed at Ottawa, Canada, this 28th day of May 2024.
+“Sylvain Ouimet”
+Ouimet J.
+Translation certified true
+on this 31st day of March 2026.
+Melissa Paquette
+ANNEX A
+Transcripts:
+Lines 3–4 and 12–15 on page 86, as well as the reference to the Appellant’s credit rating found at line 20 on page 102 of the transcript of the hearing held on June 3, 2019.
+CITATION:
+2024 TCC 77
+COURT FILE NO.:
+2021-1171(GST)G
+STYLE OF CAUSE:
+FUTURE ELECTRONICS INC. V. HIS MAJESTY THE KING,
+PLACES OF HEARING:
+Montréal, Quebec and Ottawa, Ontario
+DATES OF HEARING:
+January 24, 25, and 26, 2023, February 15 and 24, 2023, November 13, 2023, September 29 and February 12, 13 and 14, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+May 28, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Dominic C. Belley
+Jonathan Lafrance
+Mareine Gervais-Cloutier
+Juliana Succès
+Counsel for the Respondent:
+Huseyin Akyol
+Vasil Naydenov
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dominic C. Belley
+Jonathan Lafrance
+Mareine Gervais-Cloutier
+Juliana Succès
+Firm:
+Norton Rose Fulbright Canada L.L.P.
+For the Respondent:
+Huseyin Akyol
+Larivière Meunier
+Montréal, Canada
+[1] SOR/90-688a.
+[2] Transcript of the February 23, 2023 teleconference.
+[3] It is important to note that the public cannot obtain a copy of a trial’s audio recording from the Court Registry or the company hired to produce the transcripts without first submitting a request. Consequently, an audio recording of a trial containing a witness’s testimony does not require a confidentiality order. If such a request were to be made, the judge who heard the case and issued the confidentiality order would have to amend the confidentiality order as necessary.
+[4] Sherman Estate v. Donovan, 2021 SCC 25 at para. 1 [Sherman].
+[5] Pakzad v. The Queen, 2017 TCC 83 at para. 7 [Pakzad].
+[6] Toronto Star Newspapers Ltd. v. Ontario, 2005 SCC 41 at para. 4 [Toronto Star Newspapers].
+[7]Canada (Citizenship and Immigration) v. Harkat, 2014 SCC 37 at para. 24
+[8] Pakzad at para. 7.
+[9] Sherman at para. 1.
+[10] Sherman, supra footnote 3.
+[11] Sherman at para. 30.
+[12] Sierra Club of Canada v. Canada (Minister of Finance), 2002 SCC 41 [Sierra Club].
+[13] Sherman at para. 38.
+[14] Sherman at para. 38.
+[15] Sherman at para. 42.
+[16] Sherman at para. 42.
+[17] Sierra Club at para. 54.
+[18] Sherman at para. 42.
+[19] Pakzad at para. 11.
+[20] Sherman at para. 105; Sierra Club at para. 57.
+[21] Sherman at para. 38; Shell Canada Limited v. The Queen, 2022 TCC 39 at para. 33 [Shell].
+[22] Sierra Club at para. 69.
+[23] Sierra Club at para. 74.
+[24] Sierra Club at para. 75.
+[25] Sierra Club at para. 55.
+[26] Sierra Club at para. 55.
+[27] Shell at para. 32(a).
+[28] Sherman at para. 41.
+[29] Sierra Club at para. 56. See generally Eli Lilly and Co. v. Novopharm Ltd., [1994] F.C.J. No. 1141, 56 C.P.R. (3d) 437 (F.C.T.D.) at para. 2, Muldoon J.
+[30] Shell, supra footnote 21.
+[31] Shell at para. 32.
+[32] Shell at para. 32; Sierra Club at para. 55; Resolve Business Outsourcing Income Fund v. Canadian Financial Wellness Group Inc., 2014 NSCA 98 at para. 36 [Resolve Business].
+[33] Shell at para. 32; RJG Construction Limited v. Marine Atlantic Inc., 2018 NLCA 25 at para. 27.
+[34] Shell at para. 32; Mediatube Corp. v. Bell Canada, 2018 FC 355 at para. 22.
+[35] Shell at para. 32; Medicine Shoppe Canada Inc. v. Devchand, 2012 ABQB 375 at para. 36.
+[36] Shell at para. 32; PearTree Securities Inc. v. NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455 at para. 12.
+[37] Shell at para. 17.
+[38] Shell at para. 17.
+[39] Sierra Club at para. 59.
+[40] Sierra Club at para. 60.
+[41] Sierra Club at para. 60.
+[42] Shell at para. 22.
+[43] Sierra Club of Canada v. Canada (Minister of Finance), [2000] F.C.J No. 732, [2000] 4 F.C. 426, 187 D.L.R. (4th) 231, 256 NR 1.
+[44] Sierra Club of Canada v. Canada (Minister of Finance) at paras 12–13.
+[45] Resolve Business, supra footnote 32.
+[46] Shell at para. 29; see also Resolve Business at para. 31.
+[47] RJG Construction Ltd v. Marine Atlantic Inc., 2018 NLCA 25 at para. 27.
+[48] Shell at para. 31; Royal Bank of Canada v. Westech Appraisal Services Ltd., 2017 BCSC 773 at para. 12.
+[49] Shell at para. 30; see PearTree Securities Inc. v. NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455 at para. 12; see also RJG Construction Ltd. v. Marine Atlantic Inc., supra footnote 33 at para. 27.

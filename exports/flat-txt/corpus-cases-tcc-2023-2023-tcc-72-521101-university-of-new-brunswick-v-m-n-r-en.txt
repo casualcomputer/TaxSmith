@@ -1,0 +1,148 @@
+Title: University of New Brunswick v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521101/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-72-521101-university-of-new-brunswick-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2023-05-25
+
+# University of New Brunswick v. M.N.R.
+
+- Citation: 2023 TCC 72
+- Decision date: 2023-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5839, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+University of New Brunswick v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-25
+Neutral citation
+2023 TCC 72
+File numbers
+2021-2764(EI), 2021-2765(CPP)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2021-2764(EI)
+2021-2765(CPP)
+BETWEEN:
+THE UNIVERSITY OF NEW BRUNSWICK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Evidence in the Appeal heard on December 5, 2022, at Fredericton, New Brunswick with subsequent written submissions concluded on February 24, 2023.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Paul M. Harquail
+Counsel for the Respondent:
+Sam Perlmutter Stan McDonald
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in these appeals on this date;
+NOW THEREFORE the appeals disputing the Minister of National Revenue’s decision dated August 6, 2021 made under the Employment Insurance Act, SC 1996, c.23 and Canada Pension Plan, RSC 1985, c. C-8, are allowed, without costs.
+Signed at Ottawa, Canada, this 25th day of May, 2023.
+“R.S. Bocock”
+Bocock J.
+Citation: 2023 TCC 72
+Date: 20230525
+Docket: 2021-2764(EI)
+2021-2765(CPP)
+BETWEEN:
+THE UNIVERSITY OF NEW BRUNSWICK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION [1] The Minister made a decision that a certain post-doctoral fellow (“PDF”) was an employee of the Appellant, the University of New Brunswick (the “University”), during March, 2018 until August, 2020 (the “period”).
+[2] The University appeals that decision. Four witnesses testified at the hearing. The PDF herself, Dr. Suzanne Lanery, was called as a witness by the Respondent and two faculty professors and the manager of the Office of the VP Research were called by the University.
+[3] Post-Doctoral Fellows (“PDFs”) are PhD recipients hired by, through and at universities to pursue studies, research and experimentation, as the case may be, in their respective fields of intellectual expertise. In doing so, PDFs sharpen their scholastic skills and enhance the University’s general environment of higher learner. As is seen in these reasons, within this exalted platitude rests a more base questions: who benefits most from the PDF work?
+II. FACTS [4] The factual evidence was largely uncontested. The disparity lay in the emphasis and interpretation of the simple, unvarnished question posed above.
+PDF’s right to stay and study in Canada
+[5] In this appeal, the PDF, Dr. Lanery, was neither a Canadian nor a resident of Canada. Hence, she needed a work permit. Her immigration work permit was produced at trial. The work permit skirts the issue of the nature of status and duties at the University. Particularly, was the contract one “for” or “of” service. Its title, “work permit”, and the described occupation “Post-Doctoral Fellow” beg the very question. On the permit, the pre-printed information of “Employer” and employment location both apply to foreign workers engaged in contracts “of” and “for” service. Interestingly, the PDF was issued a University identity card which labelled her “faculty/staff”.
+What the work of a PDF entails according to the written agreement?
+[6] The vague and anachronistic world of academia also provides indeterminate guidance. The relevant agreement does not provide much more assistance. The original PDF offer and extension contained elements of both employment and a contract for service. The expanded description of “post-doctoral fellowship” harkens of communal brainstorming. Remuneration is described as an annual award. In contrast, deductions were made from income by the University and a T4 information slip was issued.
+[7] The PDF “award sum” was specifically circumscribed: “it does not constitute employment income, it is not subject to deductions for CPP, EI,.. or other [University] faculty benefits…”. PDFs receive credit and have responsibility for research and retain ownership of same. A royalty free licence to use such intellectual property (IP) is reserved by the University.
+[8] The PDF’s specific contractual responsibility is to “continue your work on conducting research in projective quantum field theory and applications to quantum theory”, Dr. Lanery’s field. Clearly, the PDF is responsible for the “research”; the questions for whom, when and to what end remain undescribed.
+Who pays the PDF’s remuneration?
+[9] The source of the PDF “award” is not as simple as it seems. The University effects payment of each bi-weekly deposit to the PDF’s bank account. Behind that curtain, the source of funds springs from various places at various times. In Dr. Lanery’s first year, the tripartite source of funds from various funding agencies was different than in the second year. University administrators and faculty members were in a perpetual scramble to match sources of funds with the need to pay the PDF’s “annual award”. Should funding not have been matched, the Court does not doubt that the PDF would otherwise have been paid, and afterwards the accounting “chips” would have fallen where they may. However vague, the source of funds was enumerated on a schedule to the PDF offer and agreement, accompanied by liberally applied illegible, handwritten arrows, figures and notations.
+What were the “specific” tasks and who “supervised” the PDF’s?
+[10] PDFs received minimal oversight and supervision. All witnesses were consistent on this. The range of descriptors of the position (aside from the teaching employment income) was broad. The gamut spanned aspirational goals: (i) opportunity for … [PDFs]… to carry on individual research; to participate fully in .. research, teaching and supervisory activities at the .. [University];… to enhance their future opportunities for research and teaching; and, conduct … research and disseminate the results through tasks and papers, and organizing weekly group meetings.
+[11] The witnesses used equally “fluffy” language updated to modern colloquia. PDF’s were to “freely engage in blue sky research”, to “broadly research without limitations on scope” and be part of a research skills “incubator” which would “grow” academic expertise generally.
+[12] A specific “supervisor” was assigned and supervised very little. Testimony made clear that unless there was an extended absence of effort -- no presence either on campus or otherwise and a gaping inattention to generic research -- then no criticism or consequences ever occurred. Unless these “red flags” appeared, the PDF was free to explore academic research as, when and how the PDF wished.
+[13] Consistent with this “free range” approach, there were no academic “time clocks”, hours of attendance or mandatory reviews. Weekly discussions were held to exchange concepts and findings derived from this open research environment.
+[14] The PDFs were not constrained from pursuing other work or activities: teaching roles were available, but not mandatory. Since working days were not defined, PDFs were free to pursue other opportunities and seek other input wherever and whenever each wanted.
+Who provided what to whom?
+[15] Briefly, PDFs received the benefits of an academy at which one could pursue open research (in one’s chosen field of expertise) towards a goal of refining academic research skills and expression. This was achieved through academic collegiality with the academy comprised of faculty and other PDFs and staff. Each was paid an “award” by costed funding sources to afford the open research.
+[16] In contrast, the benefit to the University was the presence of more junior academics, graduate PhDs to provide heft to the faculty; young, agile thinkers who honed their craft through discussions and conferences, their thought and enhanced, scholarship and ideas. Practically, it also provided a stable of junior teachers and tutorial leaders, although these positions were separately contracted and remunerated.
+Unionization of PDF’s: coincidence or corollary?
+[17] The curious twist to this appeal is that it is likely the last of its kind for the University. The appeal period applies to Dr. Lanery’s work term of March, 2018 until August, 2020.
+[18] In September of 2020, the University executed a collective bargaining agreement (CBA) with a collective bargaining unit (CBU) for PDFs. By such written agreement, the CBA unionized all PDFs with certain other employees at the University within the CBU. After that date, the CBA, in contrast to the previous PDF engagement letters, contractually states that all PDFs are employees.
+[19] Coincidentally, the Respondent’s witness, Dr. Lanery, was a member of the negotiating team for the CBU and was a representative signatory to the CBA. Not surprisingly, her view is and has always been that PDFs are and were employees of the University.
+III. THE ISSUE [20] The parties within their written submissions generally agree that the issue to be decided is the dominant characteristic or purpose of the payments made to Dr. Lanery during the period. Was the dominant characteristic of the payments paid to Dr. Lanery for:
+1. her work provided to, or for the benefit of, the University; or
+2. the furtherance of her academic studies or research?
+IV. THE LAW [21] The parties also agree that the correct test to be applied in this appeal is reflected in Caropreso v. HMQ, 2012 TCC 212 (“Caropreso”). At paragraph 20 in that appeal, specifically involving PDFs, Justice Woods states:
+The root of the difficulty is that payments to postdoctoral research fellows often have dual elements. The payments further the education of research fellows and they also provide compensation for work performed. If the payments are received by virtue of employment, this takes precedence. However, in making this determination, it is relevant to consider the dominant characteristic of the payments, whether it is compensation for work or student assistance.
+[22] Interpreting Justice Wood’s test has led to different outcomes. The task of this Court is to assess the evidence and determine whether the payments were either dominant:
+a) in the nature of financial assistance, as was determined in Bekhor v. MNR, 2005 TCC 443 (“Bekhor”); or,
+b) in the nature of income for work and services provided to the educational institution, as was determined in Chabaud v. HMQ, 2011 TCC 438.
+[23] In Caropreso, Justice Woods did not specifically list factors or indicia critical to determining which outcome was dominant, and deductively which was subsidiary. Various cases have analyzed, as the case may be, the sources of funding for PDF compensation, control over the PDF’s activities, furtherance of education and the parties’ intention (and the subsequent concordant or discordant reality). Further, the other usual factors of tools, chance of profit/risk of loss and who benefits from the activities may also play a role in the analysis.
+[24] What the jurisprudence distills for this Court, in the absence of a definitive Federal Court of Appeal decision and preference, is the need for analysis of the evidence to achieve a decision on one of two dominant purposes: whether on balance the payments were made on account of monetary assistance to enhance the PDF’s education and research skills or paid as income in consideration of various services provided by the PDF to the University.
+V. ANALYSIS Weight of certain evidence
+[25] On a preliminary note, the evidence of the witnesses was reliable and not meaningfully disputative, with one limited exception. Occasionally, in examination, Dr. Lanery, while not a party, transformed from witness to advocate in the area of the CBA and the CBU. Certain simple questions on cross-examination became protracted. Ultimately, this was of no consequence. The CBA did not legally include PDFs, such as Dr. Lanery, until September, 2020. By then, her term as a PDF and the period had ended. To the extent answers were otherwise advocated by the witness, the Court has appropriately weighted them, as it indicated it may be required to do to the witness and counsel during testimony.
+Source of funds
+[26] The Court now considers the evidence and the scalable factors to determine the dominant purpose and characteristic of the payments.
+[27] The University was avidly concerned with the source of funds for the payments. It engaged the PDF to apply for the funds. It reflected the sources, perhaps in its own internal code, but nonetheless, of the funds. And, if and when a potential risk to such full funding from any particular source arose, its financial administrative staff, in conjunction with faculty, filled the gap with alternative moneys from other funding sources.
+Control of work product
+[28] The control and ownership of the PDF’s work product, whatever it came to be, always resided with the PDF. This was enumerated in the original agreement. The language merely reserved a limited licence to use such PDF owned IP in furtherance of the University’s role as educational institution. There was no other evidence of a tangible benefit to the University, save for some collaborative contribution to a website platform development. Limited evidence was before the Court as to whether that contribution related to a non-academic skill set or a collaboration. In any event, from the evidence, the website work product comprised a comparatively limited amount of effort.
+Supervision and control
+[29] The supervisory and academic environment was very much “free style”. The Minister’s reply referred to the Vice President Research as the direct supervisor of the PDF. Not a scintilla of evidence confirmed this. His name may have been mentioned once in passing. Dr. Lanery’s evidence itself conjured an overall laissez -faire approach to reporting: verbal when desired by the PDF at meetings held once a week; to attendance: there was no requirement; to absences: no need to justify unless for weeks a time; and, to evaluations: there were none. The constraints imposed on Dr. Lanery, by her own testimony, were self-imposed based upon her view of the University’s unexpressed requirements, needs and expectations. The witnesses, best positioned to enumerate their views of such worker constraints concerning control, suggested the University sought no real control.
+Intention of the parties from the agreement
+[30] The first indication of the intention of the parties is the documents. These specified no obligation of the PDF to provide laboratory, tutorial, teaching or research assistance to the University. There was no linkage between the “award” and the provision of services or assistance to the University by the PDF. There was no requirement for attendance, presence or academic writing. The organization of the faculty seminars, held once a week, fell and were shared among various PDFs. PDFs and faculty attending the seminars mutually benefitted from the expressed exchange of ideas and discoveries. The ID card issued reflected a category of staff/faculty, as opposed to student. No witness suggested Dr. Lanery was a student, but this does not contribute to the analysis of the dominant object of the payments. The agreement slightly militates towards the furtherance of education versus benefit to the University.
+Intention of the parties as reflected in actions
+[31] The second source of information concerning intention is the actions of the parties themselves. There is no evidence that services, assistance or activities of Dr. Lanery to University were connected, rendered or provided in consideration of the payments. There simply were no identifiable, direct or measurable services or activities delivered by Dr. Lanery to the University. On this issue of tools, the University provided a library and its associated services and facilities. It also provided the same to faculty, students, staff and alumni, some of whom were employees receiving income and some of whom were not. This benefit was not exclusive, unique or identifiable in relation to services provided by PDFs to the University. The library services are as essential to enhancing learning and research opportunities generally as they would be to any research assistant who is an employee.
+[32] The opportunity to profit/risk of loss factor itself has an awkward fit. It is susceptible to arguments either way and is dependent upon the time horizon measured. Further, it is simply not relevant in the decision calculus in this appeal.
+[33] In conclusion, the most dominant object of the payments is furtherance of education or research skills for the PDF. The documents, intention, actions and conduct created, reflected and pursued by all actors in this appeal echo one sentiment: the University exhorted its PDFs, and Dr. Lanery in any event, to pursue research, discussion and research in order to enhance Dr. Lanery’s long term academic skills for the benefit of her learning generally.
+[34] From the evidence in this appeal, the Court concludes that the furtherance of her education and research was the dominant object, goal and outcome of the PDF program and also the award payments made to entice Dr. Lanery to do just that during the period.
+VI. CONCLUSION AND COSTS [35] The annual award was paid with the dominant characteristic of furtherance of the education and learning of Dr. Lanery, the PDF, during the period March 1, 2018 to August 31, 2020. Consequently and based on the principles above applied to the evidence, Dr. Lanery was not an employee and the appeal is allowed.
+[36] In keeping with the jurisprudence on CPP and EI appeals, there shall be no costs.
+Signed at Ottawa, Canada, this 25th day of May, 2023.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 72
+COURT FILE NO.:
+2021-2764(EI); 2021-2765(CPP)
+STYLE OF CAUSE:
+UNIVERSITY OF NEW BRUNSWICK AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Fredericton, New Brunswick
+DATE OF HEARING:
+December 5, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+May 25, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Paul J.M. Harquail
+Counsel for the Respondent:
+Sam Perlmutter Stan McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Paul J.M. Harquail
+Firm:
+Stewart McKelvey
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

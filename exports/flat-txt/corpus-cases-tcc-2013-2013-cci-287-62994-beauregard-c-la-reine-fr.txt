@@ -1,0 +1,225 @@
+Title: Beauregard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62994/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-287-62994-beauregard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-09-20
+
+# Beauregard c. La Reine
+
+- Citation: 2013 CCI 287
+- Decision date: 2013-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6075, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beauregard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-20
+Référence neutre
+2013 CCI 287
+Numéro de dossier
+2011-2652(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2652(IT)I
+ENTRE :
+DENIS BEAUREGARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Valérie Pelchat (2011-2654(IT)I), le 5 juin 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu et datées du 19 juillet 2010 à l’égard de l’année d’imposition 2007 et du 27 mai 2011 à l’égard de l’année d’imposition 2008 sont accueillis et le tout est déféré au ministre pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joint afin que:
+a) le montant des dépenses déductibles pour l'année 2007 soit établi à 8 163 $; et
+b) le montant des dépenses déductibles pour l'année 2008 soit établi à 5 344 $.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2013.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2011-2654(IT)I
+ENTRE :
+VALÉRIE PELCHAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Denis Beauregard (2011-2652(IT)I, le 5 juin 2013, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante:
+l'appelante elle-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu et datées du 19 juillet 2010 à l’égard de l’année d’imposition 2007 et du 27 mai 2011 à l’égard de l’année d’imposition 2008 sont accueillis et le tout est déféré au ministre pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joint afin que :
+a) le montant des dépenses déductibles pour l'année 2007 soit établi à 8 163 $; et
+b) le montant des dépenses déductibles pour l'année 2008 soit établi à 5 344 $.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2013.
+« Réal Favreau »
+Juge Favreau
+Référence : 2013 CCI 287
+Date : 20130920
+Dossier : 2011-2652(IT)I
+ENTRE :
+DENIS BEAUREGARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ENTRE :
+Dossier : 2011-2654(IT)I
+VALÉRIE PELCHAT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’appels entendus sur preuve commune selon les règles de la procédure informelle à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi ») et datées du 19 juillet 2010 à l’égard de l’année d’imposition 2007 et du 27 mai 2011 à l’égard de l’année d’imposition 2008.
+[2] Par ces nouvelles cotisations, le ministre a refusé à l’appelant et à l’appelante des pertes d’entreprises de 11 995 $ pour l’année d’imposition 2007 et de 6 420 $ pour l’année d’imposition 2008 et a ajouté aux revenus de l’appelant et de l’appelante un gain en capital imposable non déclaré de 12 651 $.
+[3] Afin de fixer l’impôt payable, le ministre a tenu pour acquis les conclusions et les hypothèses de fait suivantes, à savoir :
+a) Durant les années en litige, l’appelant travaillait à temps plein pour le Cirque du Soleil inc; (admis)
+b) durant ces mêmes années, il a réclamé des pertes d’entreprise, mais n’a déclaré aucun revenu brut provenant de ladite entreprise; (admis)
+c) le 1er mars 2007, l’appelant a acquis, à participation égale avec sa conjointe, Madame Valérie Pelchat, un terrain vacant connu et désigné comme étant le lot (97-44) du cadastre officiel « Paroisse de Saint-Luc » dans la circonscription foncière de Saint-Jean; (admis)
+d) l’appelant a affirmé avoir acquis le terrain dans le but d’en tirer un revenu d’entreprise en y construisant éventuellement un immeuble à bureaux; (admis)
+e) le prix d’acquisition du terrain s’élevait à 98 000 $; (admis)
+f) l’appelant affirme avoir engagé certaines dépenses préalables à la réalisation de son projet, entre autres, pour les plans d’architecture et pour l’acompte garantissant le début des travaux de construction; (admis)
+g) selon l’état des résultats des activités de l’entreprise, l’appelant réclame les montants suivants à titre de dépenses d’exploitation : (admis)
+2007
+2008
+Frais d’intérêt
+6 726 $
+-
+Frais de livraison et transport
+284 $
+-
+Frais de gestion et d’administration
+80 $
+228 $
+Déduction en biens en immobilisation admissible
+5 145 $
+-
+Dépense abonné honoraire
+2 518 $
+2 150 $
+Impôt foncier
+2 400 $
+1 069 $
+Publicité
+180 $
+103 $
+Frais d’entretien et réparation
+900 $
+651 $
+Frais d’honoraires professionnels
+4 677 $
+8 637 $
+Fournitures
+1 079 $
+-
+TOTAL
+23 989 $
+12 838 $
+Quote-part de l’appelant (50%)
+11 995 $
+6 420 $
+h) dû à la conjoncture économique peu favorable, l’appelant a renoncé à réalisation de son projet; (admis)
+i) le 25 septembre 2008, le terrain a été vendu au prix de 172 755 $, d’où l’ajout d’un gain en capital imposable de 12 651 qui a été calculé comme suit : (admis)
+Produit de disposition : 172 755 $
+Moins :
+Coût d’acquisition 98 000 $
+TPS et TVQ payées 13 671 $
+Droit de mutation 730 $
+Commission 9 750 $
+Gain en capital 50 604 $
+Quote-part (50%) 25 302 $
+Gain en capital imposable 12 651 $
+j) le contrat de vente indiquait que la disposition du terrain n’était pas effectuée dans le cadre de l’entreprise; (admis)
+k) les pertes d’entreprise ont été refusées car l’appelant n’a pas démontré qu’il avait engagé ou effectué des dépenses en vue de tirer un revenu d’une entreprise ou d’un bien. (ignoré)
+[4] Monsieur Beauregard et madame Pelchat ont témoigné à l'audience et ils ont expliqué que lors de l'acquisition du terrain, ils n'avaient pas d'expertise en immobilier. Leur commune intention était d'ériger sur ledit terrain, qui était zoné « commercial », un centre de santé sur deux étages regroupant notamment un chiropracticien, des psychologues et les activités professionnelles de travailleuse sociale de madame Pelchat.
+[5] Le terrain commercial a été acquis le 1er mars 2007 et le prix d'acquisition de 98 000 $, a été financé par un prêt hypothécaire de la Caisse Desjardins de la Chaudière. Un compte entreprise conjoint a été ouvert à cette fin le 1er mars 2007 auprès de la Caisse Desjardins de la Chaudière. Monsieur Beauregard et madame Pelchat ont affirmé avoir remis à la Caisse Desjardins un plan d'affaires comprenant une évaluation sommaire de l'immeuble à être érigé et une estimation des revenus futurs dans le but d'obtenir le financement nécessaire pour faire l'acquisition du terrain. Ce plan d'affaires n'a pas été déposé à la Cour.
+[6] Monsieur Beauregard et madame Pelchat ont mentionné qu'ils avaient demandé et obtenu un numéro de compte aux fins de la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) et leur inscription est entrée en vigueur le 26 février 2007 (pièce A-1, onglet 12).
+[7] Monsieur Beauregard et madame Pelchat ont de plus affirmé qu'ils ont fait préparer des plans d'architecte pour la construction d'un immeuble à bureaux sur le terrain dont ils avaient fait l'acquisition. Des plans préliminaires ont été obtenus le 10 septembre 2007 et des plans techniques aux fins de la demande de permis de construction ont été obtenus le 30 octobre 2007. Les témoins ont mis en preuve les deux (2) factures d'honoraires de l'architecte, les trois (3) pages de plans d'architecte et la demande de permis de construction datée du 25 janvier 2008.
+[8] Monsieur Beauregard et madame Pelchat ont contacté trois (3) entreprises de construction afin d'obtenir des soumissions pour la construction de l'immeuble à bureaux. Ils ont retenu la soumission de Construction Systec datée du 17 décembre 2007 au montant de 495 682,50 $ (taxes incluses) et le 14 février 2008, ils ont fourni à l'entreprise de construction un acompte de 5 000 $ pour initier les travaux. La soumission et la facture ont été respectivement produites comme pièce A-2 et pièce A-1, onglet 6.
+[9] Le 23 janvier 2008 et le 6 février 2008, monsieur Beauregard et madame Pelchat ont fait paraître de la publicité dans un journal local « Le Canada Français » pour louer des bureaux de l'immeuble à être érigé. Les deux (2) factures pour cette publicité ont été produites comme pièce A-1, onglet 5.
+[10] Monsieur Beauregard et madame Pelchat ont mandaté la firme Baillargeon Bergeron Deneault et Associés Inc. dans le but d'obtenir une évaluation de la valeur marchande de l'immeuble à construire sur le lot 97 — 44, boulevard Saint‑Luc à Saint-Jean-sur-Richelieu. La firme d'évaluateurs agréés a émis l'opinion motivée, qu'en date du 28 avril 2008, la valeur marchande de l'immeuble à construire était de 532 000 $. Le rapport d'évaluation a été produit comme pièce A‑1, onglet 1, tandis que la facture d'honoraires de la firme d'évaluateurs datée du 14 mai 2008 au montant de 1 241,63 $ a été produite comme pièce A-1, onglet 7.
+[11] Suite à la réception dudit rapport d'évaluation, monsieur Beauregard et madame Pelchat ont constaté que l'immeuble à bureaux devait être loué en totalité pour être rentable. Ils se sont dits être préoccupés par la crise économique qui s'annonçait et par le fait que, malgré leur publicité, aucun bail ferme pour des bureaux dans l'immeuble n'a été signé. Qui plus est, le chiropracticien qui devait prendre le premier étage de l'immeuble au complet s'est désisté au mois de février 2008. Tous leurs efforts de location de bureaux n'ont pas produit de résultats et la Caisse Desjardins n'était pas prête à financer les coûts de construction de l'immeuble, estimés à 500 000 $, sans des engagements fermes de location.
+[12] Monsieur Beauregard et madame Pelchat ont mandaté le Groupe Sutton-Millénia au début de l'été de l'année 2008 pour vendre le terrain et la vente s'est concrétisée le 25 septembre 2008 au prix de 172 755 $. Monsieur Beauregard et madame Pelchat ont payé à Groupe Sutton-Millénia une commission de 9 749,86 $ (taxes incluses).
+[13] Dans l'acte de vente du terrain, les vendeurs ont fait la déclaration suivante relative à la taxe sur les produits et services (TPS) et la taxe de vente du Québec (TVQ):
+Le vendeur déclare que l'immeuble n'était pas immédiatement avant la signature des présentes OU immédiatement avant la date de possession par l'acquéreur, une immobilisation du vendeur utilisée principalement dans son entreprise, que la vente n'est pas effectuée dans le cadre de son entreprise, et qu'il n'a pas présenté et s'engage à ne pas présenter le choix suivant la forme prescrite par les autorités concernées, en vertu de l'alinéa 9 b)(ii), partie I de l'annexe V de la Loi sur la taxe d'accise, et de l'alinéa 102 20 b) de la Loi sur la taxe de vente du Québec.
+En conséquence, la présente vente est exonérée selon les dispositions de la Loi sur la taxe d'accise et de la Loi sur la taxe de vente du Québec.
+Position des parties
+[14] Selon monsieur Beauregard et madame Pelchat, ils ont entrepris des démarches importantes, sérieuses et continues afin de mener leur projet à terme. Toutes ces démarches ont été effectuées dans le but de tirer un revenu d'entreprise ou de bien.
+[15] Pour l'intimée, le ministre était justifié de refuser les pertes d'entreprise de 11 995 $ pour l'année 2007 et de 6 420 $ pour l'année 2008 parce que les appelants n'exploitaient pas d'entreprise; l'immeuble n'ayant jamais été construit et aucun revenu n'ayant été généré par les activités des appelants.
+Analyse et conclusion
+[16] Le terme « entreprise » est défini au paragraphe 248(1) de la Loi de la façon suivante :
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l'application de l'alinéa 18(2)c), de l'article 54.2, du paragraphe 95(1) et de l'alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l'exclusion toutefois d'une charge ou d'un emploi.
+[17] Des règles fondamentales concernant le calcul du revenu ou de la perte provenant d'une entreprise ou d'un bien sont énoncées à l'article 9 de la Loi qui se lit comme suit :
+9.(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+(2) Sous réserve de l'article 31, la perte subie par un contribuable au cours d'une année d'imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l'année relativement à cette entreprise ou à ce bien, calculée par l'application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+(3) Dans la présente loi, le revenu tiré d'un bien exclut le gain en capital d'un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant de la disposition de ce bien.
+[18] La restriction générale concernant la déductibilité des dépenses aux fins du calcul du revenu d'un contribuable tiré d'une entreprise ou d'un bien est énoncée à l'alinéa 18(1)a) de la Loi de la façon suivante :
+18.(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[19] Pour que l'article 9 de la Loi puisse s'appliquer, le contribuable doit d'abord démontrer qu'il a une source de revenu constituée soit d'une entreprise, soit d'un bien.
+[20] Dans l'arrêt Stewart c. Canada, 2002 CSC 46, les juges Iacobucci et Bastarache ont suggéré d'appliquer la méthode en deux volets pour trancher la question de l'existence d'une source :
+50 […]
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s'il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d'entreprise ou de bien.
+[21] Au paragraphe 52 de l'arrêt Stewart, précité, la Cour a précisé que le critère de l'existence d'une source « en vue de réaliser un profit » ne doit faire l'objet d'une analyse que dans les situations où l'activité en cause comporte un aspect personnel ou récréatif, ce qui n'est pas le cas dans les présents appels. Les activités des appelants ayant trait à l'acquisition, au développement et à la vente du terrain ont été exercées d'une manière suffisamment commerciale en vue de réaliser un profit et ce, conformément à des normes objectives du comportement d'homme d'affaires sérieux, pour que ces activités soient considérées comme une source de revenu aux fins de l'application de la Loi. Il y a lieu de rappeler ici que les appelants (i) ont fait préparer des plans de construction de l'immeuble à bureaux (ii) ont soumis une demande de permis de construction à la municipalité concernée (iii) ont retenu les services d'un entrepreneur en construction et lui ont remis un acompte de 5 000 $, (ix) ont encouru des dépenses de publicité pour trouver des locataires et (v) ont fait préparer une évaluation de l'immeuble à être érigé dans le but d'obtenir de financement nécessaire pour défrayer les coûts de construction de l'immeuble.
+[22] Sur la base des témoignages de monsieur Beauregard et de madame Pelchat, je ne crois pas que le seul but de l'acquisition du terrain était une vente subséquente du bien. À mon avis, les appelants avaient vraiment l'intention de faire construire un immeuble à bureaux et de l'exploiter. Lorsque les appelants ont réalisé qu'ils ne pouvaient trouver de locataires et que, sans locataire, ils ne pouvaient obtenir le financement des coûts de construction de l'immeuble, ils n'ont pas eu d'autres alternatives que de vendre le terrain moins de vingt (20) mois après en avoir fait l'acquisition. Dans un tel contexte, il y a lieu de considérer que l'achat et la vente subséquente du terrain constituent à tout le moins un projet comportant un risque ou une affaire de caractère commercial. Le manque de ressources financières et l'amorce d'une récession économique ont amené les appelants à se former une nouvelle intention, soit la vente du terrain, et à abandonner leur intention initiale.
+[23] Selon les témoignages des appelants, la déclaration dans l'acte de vente du terrain à l'effet que la vente était exonérée selon les dispositions de la Loi sur la taxe d'accise et de la Loi sur la taxe de vente du Québec était erronée et résultait d'une erreur de la part du notaire et de l'agent immobilier ayant effectué la vente. La transaction était taxable et les taxes auraient dû être perçues.
+[24] Concernant la déductibilité des dépenses réclamées par les appelants à l'égard des années d'imposition 2007 et 2008, il y a lieu de rappeler ici que la déductibilité des dépenses présuppose l'existence d'une source de revenu. Le passage suivant tiré du paragraphe 57 de la décision de la Cour suprême du Canada rendue dans l'arrêt Stewart, précité, est pertinent aux fins des présentes :
+[…] Si la déductibilité d'une dépense particulière est en cause, ce n'est pas l'existence d'une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu'une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n'influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question.
+[25] Parmi les dépenses réclamées par les appelants, qui ont préparé eux-mêmes leurs déclarations de revenu, il y a lieu de soustraire la déduction pour bien en immobilisation admissible au montant de 5 145 $ en 2007 puisqu'il s'agit de l'aveu même des appelants d'une erreur et la dépense « abonné honoraire » aux montants de 2 518 $ en 2007 et au montant de 2 150 $ en 2008 puisque les appelants n'ont pas été en mesure d'expliquer la nature exacte de cette dépense.
+[26] L'ajout d'un gain en capital imposable de 12 651 $ dans le revenu de chacun des appelants pour l'année d'imposition 2008, réalisé suite à la vente du terrain, n'a pas fait l'objet d'une contestation de la part des appelants lors de l'audience.
+[27] Pour ces raisons, les appels des appelants sont accueillis et le tout est déféré au ministre pour nouvel examen et nouvelles cotisations afin que :
+a) le montant des dépenses déductibles pour l'année 2007 soit diminué de 7 663 $ et soit établi à 16 326 $ au total, soit à 8 163 $ pour chacun des appelants; et
+b) le montant des dépenses déductibles pour l'année 2008 soit diminué de 2 150 $ et soit établi à 10 688 $ au total, soit à 5 344 $ pour chacun des appelants.
+Signé à Ottawa, Canada, ce 20e jour de septembre 2013.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2013 CCI 287
+Nº DU DOSSIER DE LA COUR : 2011-2652(IT)I
+2011-2654(IT)I
+INTITULÉ DE LA CAUSE : Denis Beauregard et Sa Majesté la Reine
+Valérie Pelchat et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 5 juin 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 20 septembre 2013
+COMPARUTIONS :
+Pour l'appelant :
+Pour l’appelante :
+l'appelant lui-même
+l’appelante elle-même
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

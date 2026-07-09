@@ -1,0 +1,320 @@
+---
+title: "Chafetz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27320/index.do"
+last_modified: "2005-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 803"
+citation2: ""
+neutral_citation: "2005 CCI 803"
+decision_date: "2005-12-20"
+language: "fr"
+item_id: "27320"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 860
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:11:54.293000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "795d40ab38cd5c19fc76f591818634a519a35987b74e35224d10c8d6be21411a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chafetz v. The Queen
+
+- Citation: 2005 CCI 803
+- Decision date: 2005-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 860, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chafetz v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-20
+Référence neutre
+2005 CCI 803
+Numéro de dossier
+2003-797(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-797(IT)G
+ENTRE :
+ISRAEL CHAFETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels de Donald Jordan (2003-800(IT)G) et de
+James Taylor (2003-802(IT)G) à Vancouver (Colombie-Britannique), les 23 et 24 novembre 2005
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l'appelant :
+Me Roslyn Goldner et Me Donald J. Jordan
+Avocates de l'intimée :
+Me Lynn Burch et Me Margaret Clare
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1992 et 1993 sont rejetés, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 16e jour d'octobre 2006.
+Mario Lagacé, jurilinguiste
+Dossier : 2003-800(IT)G
+ENTRE :
+DONALD JORDAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels d'Israel Chafetz (2003-797(IT)G) et de
+James Taylor (2003-802(IT)G) à Vancouver (Colombie-Britannique), les 23 et 24 novembre 2005
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l'appelant :
+Me Roslyn Goldner et l'appelant lui-même
+Avocates de l'intimée :
+Me Lynn Burch et Me Margaret Clare
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1992 et 1993 sont rejetés, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 16e jour d'octobre 2006.
+Mario Lagacé, jurilinguiste
+Dossier : 2003-802(IT)G
+ENTRE :
+JAMES TAYLOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec les appels d'Israel Chafetz (2003-797(IT)G) et de
+Donald Jordan (2003-800(IT)G) à Vancouver (Colombie-Britannique), les 23
+et 24 novembre 2005
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l'appelant :
+Me Roslyn Goldner et Me Donald J. Jordan
+Avocates de l'intimée :
+Me Lynn Burch et Me Margaret Clare
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 1992 et 1993 sont rejetés, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 16e jour d'octobre 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2005CCI803
+Date : 20051220
+Dossiers : 2003-797(IT)G
+2003-800(IT)G
+2003-802(IT)G
+ENTRE :
+ISRAEL CHAFETZ,
+DONALD JORDAN et
+JAMES TAYLOR,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] En 1992 et en 1993, MM. Taylor, Jordan et Chafetz ( « les appelants » ), trois avocats associés, ont investi des fonds dans une coentreprise, Sierra Trinity. Ils ont déduit des frais d'exploration au Canada (les « FEC » ) pour les années en cause à l'égard de la coentreprise. Ils ont fait l'objet d'une vérification et on leur a demandé de signer des renonciations, ce qu'ils ont fait en 1996 et en 1997. Les renonciations faisaient mention de « frais d'exploration et d'aménagement au Canada » (les « FEAC » ). En 2001, les appelants ont fait l'objet de nouvelles cotisations par lesquelles la déduction des FEC était refusée pour les années 1992 et 1993. Les appelants soutiennent qu'il n'est pas raisonnable de considérer que les nouvelles cotisations se rapportent aux questions précisées dans les renonciations et que le ministre ne peut donc pas établir de nouvelles cotisations à l'égard des FEC pour les années 1992 et 1993, et ce, parce qu'il y a prescription. Je conclus que les renonciations sont applicables et que le ministre n'est pas empêché, en raison de la prescription, d'établir de nouvelles cotisations à l'égard des années d'imposition 1992 et 1993 des appelants.
+Les faits
+[2] En 1992 et en 1993, les appelants ont investi des fonds dans la coentreprise Sierra Trinity. M. Taylor était l'associé ayant fait le plus de recherches sur ce placement; il savait de quoi il s'agissait, à savoir l'acquisition de données sismiques.
+[3] Les appelants ont déduit des FEC dans leurs déclarations de revenu relatives aux années 1992 et 1993 à l'égard du placement effectué dans Sierra Trinity. Dans leurs déclarations, ils n'ont pas déduit de frais d'aménagement au Canada (les « FAC » ) ni de frais à l'égard de biens canadiens relatifs au pétrole et au gaz (les « FBCPG » ). Sauf pour les frais financiers, les FEC étaient la seule déduction effectuée à l'égard de la coentreprise. Cette déduction se rapportait au coût des données sismiques.
+[4] Les appelants ont certifié que leurs déclarations de revenu relatives aux années 1992 et 1993 étaient exactes sans avoir examiné les montants élevés qui avaient été déduits au titre des FEC. Pour placer la chose dans son contexte, disons que M. Taylor avait déduit de son revenu de 300 000 $ (principalement tiré de la pratique du droit) un montant d'environ 75 000 $ au titre des FEC pour l'année 1992. Les trois appelants ont témoigné que leurs comptables respectifs avaient préparé leurs déclarations, qu'ils ont tout simplement signées après avoir vérifié le montant qu'ils devaient.
+[5] Au mois d'avril 1996, M. S.W. Holmes, de Revenu Canada, a écrit aux appelants pour leur poser 14 questions au sujet de la coentreprise, en faisant plus précisément mention des FEC, des FAC et des FBCPG. Sur réception de cette lettre, les appelants ont retenu les services de Me Ian J. Gamble, un fiscaliste travaillant chez Thorsteinssons à Vancouver, en Colombie-Britannique, un cabinet spécialisé en droit fiscal. Ni Me Gamble ni les appelants n'ont répondu aux 14 questions.
+[6] À ce moment-là, le cabinet Thorsteinssons agissait dans une affaire qui était en instance devant la Cour canadienne de l'impôt, concernant la qualification du coût d'acquisition de données sismiques à titre de FEC. Les appelants avaient plus ou moins connaissance de la chose; il suffit de dire qu'ils savaient que les tribunaux avaient été saisis d'une affaire qui, sur le fond, soulevait la même question que celle à laquelle ils faisaient face. M. Taylor a également reconnu que les FEC étaient leur [TRADUCTION] « meilleur argument » comme il l'a dit. M. Taylor s'y connaissait quelque peu en matière de FEC, étant donné qu'il avait déjà représenté des clients dans une affaire de FEC, même s'il avait sagement demandé conseil à des avocats fiscalistes.
+[7] Le 9 juillet 1996, M. Holmes a envoyé à Me Gamble la lettre suivante[1] :
+[TRADUCTION]
+Objet : Coentreprise Sierra Trinity
+(Frais d'exploration au Canada (les FEC))
+Messieurs,
+Par suite de la conversation téléphonique que nous avons eue aujourd'hui, vous trouverez ci-jointes des renonciations concernant :
+Donald J. Jordan
+Israel Chafetz
+James P. Taylor
+Veuillez nous faire savoir immédiatement si nous recevrons les renonciations concernant les contribuables susmentionnés, étant donné qu'il y aura prescription à l'égard de leurs déclarations de revenu de 1992 le 25 juillet 1996 ainsi que les 2 et 9 août 1996 respectivement. Si on ne nous fournit pas les renonciations, nous nous verrons obligés de prendre des mesures en vue d'établir de nouvelles cotisations. Dans le cas de M. Jordan, ce serait le 18 juillet 1996, alors que pour MM. Chafetz et Taylor, ce serait le 26 juillet 1996. Comme nous l'avons dit, nous n'avons reçu à ce jour aucune réponse aux lettres que nous avions envoyées aux contribuables.
+Votre coopération et votre aide dans cette affaire sont grandement appréciées.
+Veuillez agréer l'expression de mes meilleurs sentiments.
+_ « S.W. Holmes » ___________________
+Revenu Canada
+Bureau des services fiscaux de Vancouver
+[8] Les renonciations elles-mêmes sont rédigées comme suit :
+[TRADUCTION]
+Renonciation
+Il est, par la présente, renoncé à la période normale de nouvelle cotisation prévue au paragraphe 152(4) de la Loi de l'impôt sur le revenu pendant laquelle le ministre peut établir une nouvelle cotisation ou des cotisations supplémentaires ou fixer des impôts, intérêts ou pénalités, aux termes des parties I, I.1 et I.2 de la Loi, pour l'année d'imposition susmentionnée, à l'égard :
+du revenu net, aux fins de l'impôt sur le revenu, tel qu'il est touché par l'application des frais d'exploration et d'aménagement au Canada ou des frais à l'égard de biens canadiens relatifs au pétrole et au gaz, en ce qui concerne Sierra Trinity Inc.
+Frais financiers à la ligne 221.
+[9] Sur réception des renonciations, les appelants se sont rencontrés pour discuter des mesures à prendre. M. Taylor a fait savoir aux deux autres appelants que, selon lui, on ne leur demandait pas de renoncer au FEC. Il a témoigné qu'il ne savait pas quelle était la définition des frais d'exploration et d'aménagement au Canada (les « FEAC » ), mais qu'il croyait comprendre que cela était différent des FEC et des FAC. Il n'a pas consulté la Loi pour connaître la définition de ces termes. M. Taylor a en outre témoigné qu'il savait qu'une affaire similaire était en instance devant les tribunaux à l'égard du coût d'acquisition de données sismiques et que cela avait joué dans la décision de signer les renonciations. Les appelants étaient d'accord pour dire qu'il convenait de signer les renonciations, ce qu'ils ont fait. Ils ont témoigné qu'ils croyaient que Revenu Canada avait besoin de plus de temps pour examiner certains frais, mais pas les autres. MM. Jordan et Chafetz s'en sont entièrement remis à M. Taylor pour arriver à leur décision. Ils n'ont pas estimé nécessaire d'en parler à leur avocat spécialisé en droit fiscal, Me Gamble.
+[10] Au mois de décembre 1996, M. Holmes a de nouveau écrit à Me Gamble pour lui demander des renseignements au sujet des FEC.
+[11] Au mois de mars 1997, les appelants ont reçu de M. Holmes, de Revenu Canada, une autre lettre qui était libellée comme suit[2] :
+[TRADUCTION]
+OBJET : Vérification de la coentreprise
+Frais d'exploration au Canada (les FEC)
+Monsieur,
+[...]
+Toutefois, étant donné qu'il y aura prescription légale le 27 juin 1997 pour votre déclaration de 1993, il peut s'avérer nécessaire de délivrer un avis de nouvelle cotisation avant cette date.
+Par conséquent, vous voudrez peut-être signer et nous retourner (sans aucune modification) une renonciation au plus tard le 18 avril 1997. Cela vous permettra de présenter des observations ou des documents additionnels à notre bureau en vue de faire en sorte qu'il soit pleinement tenu compte de tous les faits avant la prise de toute autre mesure. L'omission de fournir une renonciation (sans aucune modification) au plus tard à la date précisée entraînera l'établissement d'une nouvelle cotisation à l'égard de votre déclaration de revenu de 1993, et ce, sans autre avis.
+[12] Les renonciations qui étaient jointes à la lettre étaient identiques quant au libellé aux premières renonciations, sauf que c'était l'année d'imposition 1993 qui était mentionnée, par opposition à l'année d'imposition 1992. Les appelants ont signé ces renonciations sur la même base que les premières renonciations.
+[13] Au mois de février 1999, les appelants ont reçu une lettre de proposition de M. Holmes à l'égard de leurs années 1992 et 1993, indiquant que Revenu Canada avait l'intention de refuser la déduction des frais. Voici ce que M. Holmes a écrit[3] :
+[TRADUCTION]
+Objet : Vérification de la coentreprise - Année d'imposition 1992
+Monsieur,
+[...]
+À la suite de notre lettre de proposition en date du 24 avril 1996, nous n'avons reçu aucun document indiquant que des travaux d'exploration avaient été exécutés sur les données sismiques acquises par la prétendue coentreprise. La simple possession de données sismiques en soi ne rend pas la dépense admissible à titre de FEC aux termes de la Loi de l'impôt sur le revenu (la « LIR » ). Pour être admissible en tant que FEC, la dépense doit être engagée « en vue de déterminer l'existence, la localisation, l'étendue ou la qualité d'un gisement de pétrole ou de gaz naturel au Canada » . Selon les renseignements que nous avons reçus de Sierra Trinity Inc., rien ne montre que les données sismiques ont été utilisées à des fins d'exploration. Aucun document justificatif ne nous a été fourni en vue de nous permettre de vérifier si des baux avaient été acquis, si des puits avaient été forés ou si des lettres d'appel de liquidités additionnelles avaient été envoyées à des investisseurs.
+Les cotisations ont été établies en 2001; au mois d'avril 2001, les appelants ont présenté des avis d'opposition dans lesquels ils alléguaient que les renonciations étaient irrégulières. Or, c'était la première fois que les appelants informaient Revenu Canada qu'ils prenaient cette position.
+[14] M. Holmes, de Revenu Canada, a témoigné avoir rédigé les renonciations. Il a utilisé l'expression « frais d'exploration et d'aménagement au Canada » pour abréger les choses, au lieu d'écrire « frais d'exploration au Canada » et « frais d'aménagement au Canada » au complet. À ce moment-là, il ne savait pas qu'il y avait une expression définie pour les FEAC et que cette expression datait d'avant l'année 1975. Lorsqu'il avait parlé des renonciations à Me Gamble, il avait uniquement été question des frais financiers.
+Analyse
+[15] Les dispositions pertinentes concernant les FEAC et les FEC figurent aux paragraphes 66(15) et 66.1(6) de la Loi de l'impôt sur le revenu (voir l'appendice A). Les dispositions pertinentes concernant les renonciations figurent aux sous-alinéas 152(4)a)(i) et (ii) ainsi qu'aux sous-alinéas 152(4.01)a)(i) et (ii) de la Loi; elles sont rédigées comme suit :
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration:
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l'année;
+[...]
+152(4.01) Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s'appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d'imposition ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans la mesure où il est raisonnable de considérer qu'elle se rapporte à l'un des éléments suivants:
+a) en cas d'application de l'alinéa (4)a):
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenu de celui-ci pour l'année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi,
+(ii) une question précisée dans une renonciation présentée au ministre pour l'année;
+[...]
+[16] La question à trancher est de savoir s'il est raisonnable de considérer que les nouvelles cotisations que le ministre a établies pour les années d'imposition 1992 et 1993 des appelants, par lesquelles la déduction des FEC était refusée, se rapportent à une « question précisée » dans les renonciations que les appelants ont signées. Je divise cette question en deux éléments : en premier lieu, quelle est la « question précisée » dans la renonciation et, en second lieu, est-il raisonnable de considérer que les nouvelles cotisations s'y rapportent?
+(i) La « question précisée »
+[17] Les mots figurant dans la renonciation qui constituent le noeud du litige sont les mots « frais d'exploration et d'aménagement au Canada » . S'il y avait une intention mutuelle entre l'intimée et les appelants au sujet du sens de ces mots, je pourrais rapidement passer au second volet de l'examen. Cependant, il n'existe aucune interprétation commune de ce genre. L'intimée voulait parler des frais d'exploration au Canada et des frais d'aménagement au Canada - cela est parfaitement clair. Les appelants ne savaient pas ce que cela voulait dire, mais ils ont affirmé savoir que cela ne voulait pas dire les FEC. Je conclus que le témoignage des appelants, lorsqu'ils ont déclaré qu'ils [TRADUCTION] « savaient » que cela ne s'appliquait pas aux FEC, était exagéré. Sans examiner la définition des FEAC, les appelants auraient au mieux pu supposer qu'elle ne s'appliquait pas aux FEC. Cette supposition a amené M. Taylor à croire qu'il ne renonçait pas aux FEC, une croyance qu'il a transmise à ses associés.
+[18] Cela étant, puisque les parties ont des opinions différentes au sujet de ce qu'est la question précisée, il est utile de se rendre compte que la renonciation elle-même n'est ni celle des appelants ni celle de l'intimée : il s'agit d'une renonciation qui avantage mutuellement les parties (voir la décision Cal Investments Limited v. The Queen[4]). Je conclus donc qu'il ne suffit pas d'accepter l'intention d'une partie comme étant déterminante. En particulier, j'ai des réserves lorsqu'il s'agit d'accepter l'intention déclarée des appelants, soit qu'ils savaient que les FEC n'étaient pas visés par les renonciations. Les appelants n'ont pas rédigé les renonciations et ils ne savaient pas ce à quoi ils renonçaient. Ils croyaient que cela ne comprenait pas les FEC. Il ne s'agit pas d'une preuve convaincante de l'intention de ne pas renoncer aux FEC; je dirais plutôt qu'il s'agit d'un voeu pieux, à savoir que la renonciation ne s'appliquait pas aux FEC. Je ne nie pas que les appelants se soient persuadés qu'il en était ainsi; ils étaient des témoins crédibles. Toutefois, je remets en question la force du fondement de cette conviction.
+[19] Si je ne suis pas prêt à accepter l'intention déclarée de l'une ou l'autre des parties au sujet de qu'est la question précisée, il m'appartient de déterminer objectivement ce que ces mots veulent dire. Compte tenu de la nature même d'une renonciation, une « question précisée » dans une renonciation doit comporter une question de fond qui oppose les parties. Comme il en a été fait mention dans la décision Solberg v. Canada[5], qui est souvent citée, lorsque les deux parties savent ce qui est en litige, une erreur technique n'invalidera pas la renonciation. Il est également clair (voir la décision Mah v. Canada)[6] que le ministre ne peut pas fonder une nouvelle cotisation sur une question de fond qui n'est pas précisée dans la renonciation. Ces décisions m'amènent à conclure que, pour déterminer ce qu'est la question précisée, je dois me demander ce qu'est la question de fond. Cette interprétation de la « question » est conforme à la définition donnée dans le Black's Law Dictionary, soit [TRADUCTION] « un sujet à l'étude » .
+[20] M. Jordan affirme que la question de fond peut uniquement être examinée en tenant compte des mots mêmes que l'intimée a employés dans les renonciations - FEAC (une définition donnée dans la Loi qui s'applique uniquement aux frais d'exploration datant d'avant 1975). En outre, il fait valoir que, s'il existe une ambiguïté, la question doit être tranchée en faveur du contribuable (voir les décisions Solberg et Gagné v. The Queen[7]). Cette approche m'inquiète, en ce sens qu'elle mène à une absurdité : la question en litige n'a rien à voir avec des frais datant d'avant 1975. M. Jordan fait valoir que l'expression « FEAC » est en majuscules (dans la version anglaise) et que, cela étant, elle peut uniquement être interprétée comme un terme défini, et ce, même si cela donne un résultat insensé. Selon M. Jordan, je ne dois pas tenir compte du résultat. M. Jordan affirme que le terme défini veut dire ce qu'il veut dire - ni plus, ni moins - et il m'a référé à un certain nombre de décisions dans lesquelles l'emploi de termes définis a été limité à leur sens (voir par exemple l'arrêt Yellow Cab Ltd. c. Alberta[8]). Les décisions mentionnées ne traitent pas d'un terme défini employé dans une renonciation, où les mots visent à identifier la question de fond qui est l'objet de la renonciation.
+[21] Le litige sous-jacent qui opposait les parties se rapportait au coût d'acquisition de données sismiques et à sa déductibilité. Les appelants savaient que telle était la question en litige. Ils ne savaient pas sur le plan technique si, aux fins de l'impôt sur le revenu, il s'agissait de FEAC, de FBCPG, de FEC ou de FAC. Ils savaient que les FEC constituaient leur meilleur argument. Tout cela veut dire que la question de fond ne suscitait aucun doute; c'est la caractérisation précise des frais qui suscitait des doutes.
+[22] Je n'ai pas à m'appuyer sur une preuve extrinsèque pour conclure qu'une renonciation, pour les années 1992 et 1993, à l'égard d'un terme défini qui s'applique uniquement à une période antérieure à l'année 1975 commande un examen plus approfondi du terme défini. Cela étant, le fait que le mot FEAC est en majuscules (dans la version anglaise) n'est pas suffisant pour empêcher une autre interprétation. Il existe une interprétation qui est à la fois raisonnable et sensée : par FEAC, dans une renonciation concernant les années 1992-1993, on peut uniquement entendre les FEC et les FAC. M. Jordan soutient que, sur le plan de la grammaire, le mot « expense » (frais) figurant dans la version anglaise devrait être au pluriel pour que ce résultat puisse être accepté. Il s'agit d'une distinction trop subtile pour justifier que l'on ignore une interprétation fondée sur le bon sens. Je conclus que le terme FEAC dans le contexte d'une renonciation qui s'applique aux années 1992 et 1993 n'est pas ambigu : ce terme vise les FEC et les FAC.
+(ii) Est-il raisonnable de considérer que les nouvelles cotisations se rapportent à la question précisée dans les renonciations?
+[23] Puisque j'ai conclu que la « question précisée » porte sur les FEC, il s'ensuit qu'une nouvelle cotisation concernant les FEC non seulement se rapporte à la question précisée - il s'agit de la question précisée. Par conséquent, la renonciation est applicable et il n'y a pas prescription.
+[24] Au cas où je me tromperais dans mon interprétation de la question précisée dans les renonciations, et au cas où les appelants auraient raison d'affirmer que les FEAC, tel qu'il en est fait mention dans les renonciations, peuvent uniquement se rapporter à la définition de 1974, je tiens à examiner le second volet de l'examen sur cette base.
+[25] Selon le premier volet de l'examen, M. Jordan a soutenu que les mots [TRADUCTION] « à l'égard » figurant dans les renonciations limitent la question au terme défini. Je crois que M. Jordan évite la véritable question qui se pose dans le cadre du second volet de l'examen, à savoir le sens des mots « il est raisonnable de considérer qu'elles se rapportent à » . Comme il en a été fait mention dans la décision Mah[9] :
+[13] Dans la décision Stone Container, j'étais préoccupé avec les mots « à l'égard de » figurant dans le formulaire de renonciation. En l'espèce, je suis également préoccupé avec le libellé du sous-alinéa 152(4.01)a)(ii) et avec la question de savoir si la disposition autorise qu'une nouvelle cotisation soit établie au motif « qu'il est raisonnable de considérer qu'elle se rapporte à [...] une question précisée dans » une « renonciation » . Les mots « à l'égard de » figurant dans le formulaire normalisé de renonciation limitent l'application de la renonciation à la question précisée et, en vertu du sous-alinéa 152(4.01)a)(ii), toutes autres questions à l'égard desquelles il est raisonnable de considérer qu'elle se rapporte à la question précisée. En d'autres termes, les mots « à l'égard de » qui figurent dans la renonciation représentent simplement l'expression du lien raisonnable exigé par le sous-alinéa 152(4.01)a)(ii). Il est évident que le ministre ne peut pas fonder une nouvelle cotisation sur une question de fond qui n'est pas précisée dans la renonciation, ou dont il n'est pas raisonnable de considérer qu'elle se rapporte à la question de fond précisée dans la renonciation.
+[26] Je ne crois pas élargir la portée de la définition des FEAC en concluant qu'une chose qui n'est pas visée par la définition se rapporte raisonnablement à la définition. De fait, si l'on suivait l'approche restrictive préconisée par M. Jordan, les mots « il est raisonnable de considérer qu'elles se rapportent » seraient dénués de sens. M. Jordan fait valoir que, pour déterminer s'il est raisonnable de considérer que la cotisation se rapporte aux renonciations, je ne peux pas encore une fois me fonder sur la preuve extrinsèque, mais que je dois m'en tenir aux mots eux-mêmes. À coup sûr, si je m'appuyais sur la preuve extrinsèque, celle-ci indiquerait d'une façon écrasante un rapport entre la question pendante des FEC et les renonciations. C'est ce qui ressort de toute évidence des lettres échangées entre Revenu Canada et les appelants. Cependant, si la thèse de M. Jordan était retenue, des frais d'exploration qui, en 1992 et en 1993, étaient peut-être admissibles à titre de FEC ou qui ne l'étaient peut-être pas pourraient-ils raisonnablement être considérés comme se rapportant à une définition qui s'applique aux frais d'exploration relatifs à une période antérieure à l'année 1974? En examinant l'historique de ces définitions techniques, je considère les FEAC comme les prédécesseurs des FEC et des FAC. Un nouveau régime a été adopté après 1974 et des taux différents ont été appliqués à ces frais, selon qu'il s'agissait de FEC ou de FAC. Je ne puis concevoir un rapport plus étroit entre les FEC et les FEAC qui existaient antérieurement. Dans les deux cas, il s'agit de frais d'exploration et seules des considérations de temps les séparent. Je conclus qu'il est raisonnablement possible de considérer que le refus d'accorder une déduction pour des frais d'exploration qui, en 1992, n'étaient pas admissibles à titre de FEC se rapporte à une définition qui s'applique aux frais d'exploration relatifs à une période antérieure. Sur cette base, je conclurais également que le ministre peut se fonder sur les renonciations et qu'il n'y a pas prescription.
+[27] La conclusion que j'ai tirée cause-t-elle un préjudice aux appelants? Non. Il est clair que, s'ils avaient refusé de signer les renonciations, ils auraient fait l'objet de cotisations et que la déduction des FEC aurait été refusée. Il est également clair que, s'ils avaient entrepris une enquête ne serait-ce que sommaire sur la portée des renonciations (par exemple, en se renseignant auprès de leur propre avocat fiscaliste, en lisant les définitions ou en s'adressant au représentant de l'Agence du revenu du Canada), ils auraient parfaitement su qu'ils renonçaient aux FEC. Ces faits n'ont peut-être rien à voir avec l'interprétation des renonciations, mais ils ont trait à la question de savoir si les appelants ont subi un préjudice. Or, je conclus qu'ils n'en ont subi aucun.
+[28] Je rejette les appels et j'adjuge les dépens à l'intimée.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 16e jour d'octobre 2006.
+Mario Lagacé, jurilinguiste
+Appendice A
+66(15) Les définitions qui suivent s'appliquent au présent article.
+[...]
+« frais d'exploration et d'aménagement au Canada » Relativement à un contribuable, les frais suivants, s'ils sont engagés avant le 7 mai 1974:
+a) tous frais d'exploration ou de forage, y compris tous frais généraux d'étude géologique ou géophysique qu'il a engagés après 1971 pour l'exploration ou le forage faits en vue de la découverte de pétrole ou de gaz naturel au Canada;
+b) tous frais de prospection, d'exploration ou d'aménagement qu'il a engagés après 1971 dans la recherche de minéraux au Canada;
+c) le coût, pour lui, de tout avoir minier canadien qu'il a acquis après 1971;
+d) sa part des frais d'exploration et d'aménagement au Canada, engagés après 1971 par tout association, société de personnes ou syndicat au cours d'un exercice de ceux-ci, si à la fin de cet exercice il en était membre ou associé;
+e) tous frais que le contribuable a engagés après 1971 en conformité avec une convention conclue avec une société et en vertu de laquelle il a engagé ces frais uniquement en contrepartie d'actions du capital-actions de cette société émises en sa faveur par cette dernière ou de toute part ou droits afférents à ces actions, dans la mesure où ces frais ont été engagés au titre du coût:
+(i) des activités d'exploration ou de forage, y compris toutes activités générales de nature géologique ou géophysique, touchant directement ou indirectement l'exploration ou le forage entrepris en vue de la découverte de pétrole ou de gaz naturel au Canada,
+(ii) des activités de prospection, d'exploration ou d'aménagement afférents à la recherche de minéraux au Canada,
+(iii) de l'acquisition d'avoirs miniers canadiens;
+f) tout versement annuel effectué par le contribuable pour préserver un avoir minier canadien;
+il est toutefois entendu que le terme ne vise pas:
+g) une contrepartie fournie par le contribuable en vue de l'acquisition de toute action ou part ou droit y afférents, sauf comme il est prévu à l'alinéa e);
+h) des frais visés à l'alinéa e) et engagés par un autre contribuable dans la mesure où ces frais étaient, en vertu de cet alinéa, des frais d'exploration et d'aménagement au Canada de cet autre contribuable.
+66.1(6) Les définitions qui suivent s'appliquent au présent article.
+[...]
+« frais d'exploration au Canada » Relativement à un contribuable, les dépenses suivantes, engagées après le 6 mai 1974:
+a) une dépense, y compris une dépense à des fins géologiques, géophysiques ou géochimiques, engagée par le contribuable (à l'exception d'une dépense engagée pour le forage ou l'achèvement d'un puits de pétrole ou de gaz, la construction d'une route d'accès temporaire au puits ou la préparation d'un emplacement pour un tel puits) en vue de déterminer l'existence, la localisation, l'étendue ou la qualité d'un gisement de pétrole ou de gaz naturel (à l'exception d'une ressource minérale) au Canada;
+b) une dépense (à l'exclusion d'une dépense engagée pour le forage ou l'achèvement d'un puits de pétrole ou de gaz ou pour la construction d'une route d'accès temporaire au puits ou la préparation d'un emplacement en vue d'un tel puits) engagée par le contribuable, d'une part, après mars 1985 en vue d'amener un gisement naturel de pétrole ou de gaz naturel (à l'exclusion d'une ressource minérale) situé au Canada au stade de la production et, d'autre part, avant le début de la production en quantités commerciales raisonnables (autrement que d'un puits de pétrole ou de gaz) provenant d'un tel gisement, y compris:
+(i) les frais de défrichage et d'enlèvement du terrain de couverture,
+(ii) les frais de fonçage d'un puits et de construction d'une galerie ou d'une autre entrée souterraine;
+c) une dépense, d'une part, engagée avant avril 1987 pour le forage ou l'achèvement d'un puits de pétrole ou de gaz au Canada, la construction d'une route d'accès temporaire au puits ou la préparation d'un emplacement pour un tel puits et, d'autre part, engagée par le contribuable:
+(i) soit au cours de l'année,
+(ii) soit au cours d'une année antérieure si elle est incluse par le contribuable dans le calcul de ses frais d'aménagement au Canada pour une année d'imposition antérieure,
+si, dans les six mois suivant la fin de l'année, le forage du puits est achevé et:
+(iii) soit il est établi que le puits est le premier susceptible d'une production en quantités commerciales à partir d'un gisement de pétrole ou de gaz naturel (à l'exception d'une ressource minérale) jusque-là inconnu,
+(iv) soit il est raisonnable de s'attendre à ce que le puits ne produise pas de quantités commerciales dans les douze mois suivant son achèvement;
+d) une dépense engagée par le contribuable après mars 1987 et au cours d'une année d'imposition du contribuable, pour le forage ou l'achèvement d'un puits de pétrole ou de gaz au Canada, la construction d'une route d'accès temporaire au puits ou la préparation d'un emplacement pour un tel puits, à condition, selon le cas:
+(i) que le forage ou l'achèvement du puits soit la cause de la découverte qu'un réservoir souterrain naturel contient du pétrole ou du gaz naturel, si, à la fois:
+(A) avant la découverte, aucune personne ou société de personnes n'avait découvert que le réservoir contenait du pétrole ou du gaz naturel,
+(B) la découverte s'est produite avant l'expiration de la période de six mois suivant la fin de l'année,
+(ii) que le puits soit abandonné au cours de l'année ou des six mois suivant la fin de l'année sans avoir jamais produit de pétrole ou de gaz sinon à une fin admise,
+(iii) que le terme de la période de 24 mois commençant le jour d'achèvement du forage du puits tombe au cours de l'année, que la dépense soit engagée durant cette période et au cours de l'année et que le puits n'ait pas produit de pétrole ou de gaz durant cette période sinon à une fin admise,
+(iv) que soit présentée au ministre, au plus tard six mois après la fin de l'année d'imposition du contribuable au cours de laquelle le forage du puits a commencé, une attestation délivrée par le ministre des Ressources naturelles portant que, compte tenu des éléments de preuve qui lui ont été présentés, il est convaincu:
+(A) d'une part, que le total des dépenses engagées et à engager pour le forage ou l'achèvement du puits, la construction d'une route d'accès temporaire au puits et la préparation d'un emplacement pour le puits dépassera 5 000 000 $,
+(B) d'autre part, que le puits ne produira pas de pétrole ou de gaz sinon à une fin admise dans la période de 24 mois commençant à la date où le forage du puits est terminé;
+e) une dépense réputée par le paragraphe (9) être des frais d'exploration au Canada engagés par le contribuable;
+f) une dépense engagée par le contribuable (à l'exception d'une dépense engagée pour le forage ou l'achèvement d'un puits de pétrole ou de gaz, la construction d'une route d'accès temporaire au puits ou la préparation d'un emplacement pour le puits) en vue de déterminer l'existence, la localisation, l'étendue ou la qualité d'une ressource minérale au Canada, y compris:
+(i) les frais de prospection,
+(ii) les frais d'étude géologique, géophysique ou géochimique,
+(iii) les frais de forage au moyen d'un appareil rotatif ou à diamant, par battage ou d'autres méthodes,
+(iv) les frais de creusage de tranchées, de creusage de trous d'exploration et d'échantillonnage préliminaire,
+à l'exclusion:
+(v) des frais d'aménagement au Canada,
+(vi) d'une dépense qu'il est raisonnable de considérer comme rattachée soit à une mine qui a commencé à produire des quantités commerciales raisonnables, soit à un prolongement potentiel ou réel de cette mine;
+g) une dépense engagée par le contribuable après le 16 novembre 1978 en vue d'amener une nouvelle mine, située dans une ressource minérale au Canada, au stade de la production en quantités commerciales raisonnables, mais avant l'entrée en production de cette mine en de telles quantités; sont compris parmi ces dépenses les frais de déblaiement, d'enlèvement des terrains de couverture, de dépouillement, de creusage d'un puits de mine et de construction d'une galerie à flanc de coteau ou d'une autre entrée souterraine;
+g.1) les frais liés aux énergies renouvelables et à l'économie d'énergie au Canada engagés par le contribuable;
+h) sous réserve de l'article 66.8, la part revenant au contribuable d'une dépense visée à l'un des alinéas a) à d) et f) à g.1) qu'une société de personnes a engagée au cours d'un de ses exercices, dans le cas où le contribuable était un associé de la société de personnes à la fin de cet exercice;
+i) une dépense visée à l'un des alinéas a) à g) et engagée par le contribuable conformément à une convention écrite conclue avec une société avant 1987 par laquelle le contribuable n'engage la dépense qu'en paiement d'actions de la société - à l'exclusion des actions visées par règlement - émises en sa faveur ou de droits afférents à de telles actions;
+RÉFÉRENCE : 2005CCI803
+No DU DOSSIER DE LA COUR : 2003-797(IT)G, 2003-800(IT)G et
+2003-802(IT)G
+INTITULÉ : Israel Chafetz, Donald Jordan et
+James Taylor
+c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Les 23 et 24 novembre 2005
+MOTIFS DU JUGEMENT : L'honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 20 décembre 2005
+COMPARUTIONS :
+Avocats des appelants :
+Me Roslyn Goldner et Me Donald J. Jordan
+Avocates de l'intimée :
+Me Lynn Burch et Me Margaret Clare
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Roslyn Goldner et Donald J. Jordan
+Cabinet : Taylor Jordan Chafetz
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglet 5.
+[2] Pièce A-1, onglet 10.
+[3] Pièce A-1, onglet 19.
+[4] 90 DTC 6556 (C.F. 1re inst.).
+[5] 92 DTC 6448 (C.F. 1re inst.).
+[6] 2003 DTC 1312 (C.C.I.).
+[7] 2003 DTC 807.
+[8] [1980] 2 R.C.S. 761.
+[9] Précitée.

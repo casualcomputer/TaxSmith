@@ -1,0 +1,161 @@
+Title: Podlesny v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28935/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-591-28935-podlesny-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-27
+
+# Podlesny v. The Queen
+
+- Citation: 2008 TCC 591
+- Decision date: 2008-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1375, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Podlesny v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-27
+Neutral citation
+2008 TCC 591
+File numbers
+2007-2582(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2582(IT)I
+BETWEEN:
+SLAWOMIR PODLESNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2008 at London, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2003 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) a deduction should be allowed for $148.73 in respect of textbooks;
+(b) a deduction should be allowed for $930.08 in respect of photo supplies;
+(c) a deduction should be allowed for $3,518.67 in respect of legal fees;
+(d) capital cost allowance in respect of a Honda Accord should be allowed in the amount of $7,925, subject to a pro-ration for personal use;
+(e) a deduction should be allowed for $722.88 in respect of interest;
+(f) a deduction should be allowed for $849.05 in respect of contributions for Canada Pension Plan and employment insurance;
+(g) motor vehicle expenses in respect of three vehicles should be computed on the basis that the business use is: 62.61 percent for the Cadillac, 71.05 percent for the Honda and 78.68 percent for the BMW; and
+(h) the penalties should be vacated.
+The appellant is entitled to his costs in accordance with the tariff, if there are any.
+Signed at Toronto, Ontario this 27th day of October 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC591
+Date: 20081027
+Docket: 2007-2582(IT)I
+BETWEEN:
+SLAWOMIR PODLESNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on October 23, 2008)
+Woods J.
+[1] Please let the record show that these are reasons delivered orally in the matter of Slawomir Podlesny and Her Majesty the Queen.
+[2] In his notice of appeal, Mr. Podlesny appeals a reassessment dated December 11, 2006 which was made in response to an objection to an earlier reassessment. Both reassessments relate to the 2003 taxation year. I mention this procedural history because there was some debate during the hearing as to which reassessment was under appeal. I am satisfied that the reassessment dated December 11, 2006 is properly before this Court pursuant to s. 165(7) of the Income Tax Act.
+[3] The appeal concerns the deductibility of expenses related to Mr. Podlesny’s practice as a physiotherapist. During the relevant year, that practice was carried on in two ways, as an employee of Para-Med Health Services and as an independent practitioner with the taxpayer having his own patients.
+[4] There are many issues in the appeal and I will attempt to deal with each in turn in these reasons.
+Office expenses
+[5] I will first deal with office expenses. Certain of the items claimed as office expenses in Mr. Podlesny’s income tax return have been disallowed. The total amount disallowed is $1,268.79 and the items are detailed in Exhibit R-4.
+[6] The first item identified in the exhibit is an amount of $189.98 for undocumented items. The disallowance of these items was not disputed at the hearing and no adjustment will be made for it.
+[7] The second of the disallowed items is an expense for textbooks in the amount of $148.73. At the hearing, the deductibility of this amount was conceded by the Crown and therefore it will be allowed.
+[8] The last of the office expense items in dispute is described in the exhibit as photo supplies and cartridge. The total amount is $930.08.
+[9] The taxpayer submits that the photo expenses are proper business expenses because he takes photographs of his patients for various business reasons. The reasons include showing photographs of the therapy to the patients’ families at conference meetings, for use at a nursing home as marketing material, and for training assistant therapists. A large number of photographs were entered into evidence to support this testimony.
+[10] I believe that the CRA did not have the benefit of the photographs during the audit and did not have time to consider them before the hearing. In any event, at the hearing the Crown took the position that the photographs do not adequately demonstrate a business purpose.
+[11] I have concluded that the deduction claimed for photo supplies should be allowed. Although it is troubling if the photographs were not provided to the CRA during the audit, the taxpayer’s explanation for the purpose of the photographs is plausible and I will accept it.
+[12] I would also comment that it is not clear to me whether the photos relate to the taxpayer’s business or his employment. As there was no discussion of this during argument, I have not considered it, nor have I considered whether this makes a difference as regards to deductibility.
+[13] I think that deals with all of the disputed office expenses. To summarize, the taxpayer will be allowed two additional deductions. The first is $148.73 for textbooks and the second is $930.08 for photo supplies.
+Legal fees
+[14] The next issue relates to legal fees in the amount of $3,518.67. This item relates to fees paid to a lawyer in London to represent the taxpayer at a hearing in Toronto in a claim against the taxpayer’s former employer. The claim was unsuccessful.
+[15] The question is whether the legal fees qualify for deduction under paragraph 8(1)(b) of the Act. Under this section, legal fees are deductible if they are incurred to collect or establish a right to salary or wages owed.
+[16] The applicable legal principle as to whether an amount is deductible under paragraph 8(1)(b) is stated in Loo v. The Queen, a Federal Court of Appeal decision reported in 2004. At paragraph 5 of that decision Justice Sharlow makes it clear that it is not relevant in considering paragraph 8(1)(b) as to whether wages or salary are actually owed or not. It is the purpose for incurring the fees that is the relevant question. If the purpose is to pursue a claim for salary or wages owed, then the deduction is allowed.
+[17] This is relevant because it appears that the auditor did not apply this test and disallowed the deduction solely because the taxpayer had not been successful in his claim and therefore there was no salary actually owed. I refer to a letter from the auditor dated May 25, 2005, which is part of Exhibit A-2. I would also note that the auditor, in taking this approach, was following the administrative practice as set out in Interpretation Bulletin IT 99–R5.
+[18] Although the auditor applied the wrong legal test, this does not mean that the taxpayer should necessarily succeed on the legal fees issue. But the actions of the auditor are significant because the Crown has the burden to prove facts if they were not assumed at the assessment or objection stage. In this case, the assumption made by the Minister to support the reassessment was that there was not in fact any wages owed. I refer to paragraph 7(m) of the Reply.
+[19] Because this assumption does not support the reassessment, it follows that the Crown has the burden at the hearing to establish the facts that would support the reassessment.
+[20] The Crown has failed to satisfy that burden. In fairness to counsel for the Crown, she did not realize at the hearing that she had this burden. The Loo decision was not brought to my attention by either party and I only reviewed it after the hearing.
+[21] After having concluded that the Crown should bear the burden, I now turn to the evidence regarding the purpose of the lawsuit. Unfortunately it is murky. The taxpayer introduced a letter that he wrote to his former employer on September 23, 2002 in which he complained about an increased workload and made an application for severance pay. However, I do not know what relation this letter has to the actual claim that was adjudicated. The taxpayer chose not to put into evidence the actual decision of the tribunal even though it appears that he had it with him in the courtroom. During his testimony, I asked the taxpayer what the nature of his claim was. He indicated that he was not clear on that point although he indicated that part of it was likely for severance.
+[22] It appears that what has happened in this case is that neither the taxpayer nor the Crown focused on the proper test as set out in Loo and therefore neither introduced sufficient evidence on which I could determine the nature of the lawsuit. Based on the evidence as introduced, it does seem possible that the taxpayer did make a claim for unpaid salary based on an increased workload.
+[23] In these circumstances, I conclude that the Crown has not satisfied the burden of establishing that the purpose of the lawsuit did not include a claim for unpaid salary. Therefore the taxpayer’s claim for a deduction for the legal fees should succeed.
+CCA on Honda
+[24] The next issue concerns the appropriate amount of capital cost allowance for a Honda Accord which was used for business purposes.
+[25] The background regarding this issue is as follows. The Honda was purchased in 2001 and the taxpayer began to use it for business purposes in 2002. His claim for capital cost allowance in the 2002 taxation year was allowed, subject to the half‑year rule.
+[26] Mr. Podlesny submits that an arithmetic error has been made in the CCA calculation for the 2003 taxation year and that an adjustment should be made.
+[27] I have spent considerable time trying to piece together the background to this issue based on the limited evidence before me. There was no mention of this issue in the Reply.
+[28] I have concluded that some adjustment should be made to the capital cost allowance. I come to this conclusion with some reluctance because the matter could have been, and should have been, more clearly elucidated by the taxpayer.
+[29] I have concluded, though, that the matter was sufficiently raised in the taxpayer’s letter of August 1, 2006 (Exhibit A-5) and in the notice of appeal and that it should be considered in this appeal.
+[30] I have concluded that capital cost allowance on the Honda Accord for the 2003 taxation year should be computed in accordance with Mr. Podlesny’s letter dated August 1, 2006. This results in capital cost allowance of $7,925, subject to the pro-ration for personal use which is discussed below.
+[31] Counsel for the Crown argued that this result does not properly take into account the effect of the change of use rule in paragraph 13(7)(b). The Crown may be correct in this but I do not think it would be appropriate to take this into account because the issue was not discussed in the Reply. I do not think that it would be fair to make this type of adjustment without giving Mr. Podlesny an opportunity to consider it.
+[32] Finally, before concluding on this issue, I would comment that because the evidentiary record on this issue is poor, my conclusion should not be considered as binding on the calculation of capital cost allowance for later taxation years. In particular, I was not able to reconcile the cost of the vehicle as submitted by the taxpayer with the invoice for the Honda that was introduced into evidence. There may be some explanation for this, but it was not discussed at the hearing.
+Cadillac interest
+[33] I now turn to the next issue which concerns a deduction for interest incurred to finance a Cadillac automobile.
+[34] In his income tax return, the taxpayer claimed a deduction for interest incurred to finance the acquisition of a Cadillac CTS which was used for employment purposes. The interest amount claimed, which was $722.88, was disallowed.
+[35] The reason for the disallowance was not specifically stated in the Reply. During her testimony, the auditor stated that during the audit the taxpayer presented an invoice for the Cadillac but it was in the daughter’s name and not the taxpayer’s. At the hearing, the taxpayer introduced what appears to be the same invoice and it included the name of the taxpayer in handwriting.
+[36] I do not think that this is sufficient reason to disallow the interest. Capital cost allowance on this vehicle has been allowed to Mr. Podlesny and there is no real doubt that he paid the cost of the vehicle and any financing charges associated with it. The interest deduction will be allowed.
+CPP/EI contributions
+[37] I now turn to the issue of a deduction for CPP/EI contributions. Mr. Podlesny seeks a deduction in the amount $849.05 for contributions made to CPP and EI.
+[38] This issue, like the issue with the CCA on the Honda Accord, took counsel for the Crown by surprise at the hearing. It was not discussed in the Reply.
+[39] However, the issue was clearly raised by the taxpayer in his letter to the CRA dated August 1, 2006 and inferentially it was raised in the notice of appeal. I conclude that it should have been raised in the Reply.
+[40] The Crown did not provide a satisfactory explanation for why this deduction should be disallowed and accordingly I propose that the deduction be allowed.
+Business use of automobiles
+[41] I now turn to the issue of the business versus personal use of three vehicles owned by Mr. Podlesny.
+[42] In his income tax returns for the 2003 taxation year, Mr. Podlesny claimed deductions for the business and employment use of three automobiles, a Cadillac CTS, a Honda Accord, and a BMW. He claimed that he used all these vehicles in the course of his work as a physiotherapist.
+[43] The reassessment has allowed expenses with respect to all three vehicles but it reduced the expenses on the basis that the business and employment use of the vehicles had been overestimated by the taxpayer.
+[44] Subsequent to the hearing, I discovered that there was some background to this issue in a decision of then Associate Chief Justice Bowman. His decision dealt with automobile expenses for the 2000 and 2001 taxation years of Mr. Podlesny. It would have assisted me greatly if either party had brought this decision to my attention but neither did. I assume that both thought that the decision was not relevant but it certainly provided useful background.
+[45] The only issue that the Crown has raised with respect to the vehicles in this appeal is whether the taxpayer has overstated his estimate of business and employment mileage for the three vehicles. The Crown submits that the mileage is grossly overstated and has imposed penalties on the basis that the overstatement was made knowingly.
+[46] In making the assessment, the Minister assumed that the distances recorded in the taxpayer’s travel log book were exaggerated.
+[47] This assumption is presumed to be true unless the taxpayer can establish otherwise and the taxpayer has not convinced me that this assumption is incorrect.
+[48] There are several reasons for this.
+[49] First, the purported business and employment use of the three vehicles is extremely high: 98.30 percent for the Cadillac, 88 percent for the Honda and 97.50 percent for the BMW. I would also note that the taxpayer did not have another automobile available for personal use. This in itself is not sufficient to dismiss the taxpayer’s claim but it does require the taxpayer to submit convincing evidence that his figures are accurate. This has not been done.
+[50] In addition, I consider it very significant that the taxpayer did not keep a contemporaneous record of the distance traveled for business or employment. The auditor testified that during the audit she had to give the taxpayer time to come up with an estimate of the mileage based on appointments listed in the taxpayer’s appointment book. Further she stated that the appointment book was not provided to her, even though she had requested it. I accept the auditor’s evidence on this point and prefer it to the taxpayer’s because it was much more detailed and cogent.
+[51] The taxpayer admitted that he refused to provide the appointment book to the auditor and gave reasons of confidentiality for this. On the other hand, deductions claimed by taxpayers need to be verified on audit from reliable records and this was not done in this case.
+[52] In addition, I note that the auditor had checked a number of the distances claimed by the taxpayer and the auditor determined that the distances had been grossly inflated, often being double the distance it took the auditor to drive the route.
+[53] The taxpayer explained that he often did not take a direct route to his work because he sought out routes that were less traveled and therefore they were more reliable in terms of time and they were safer.
+[54] The main problem that I have with the taxpayer’s testimony on this point is that it is self-interested testimony which has not been corroborated in any way. I do not find the self-serving evidence sufficiently convincing in the circumstances of this case. The taxpayer could have arranged for an independent witness to check the routes and provide some support for this testimony but this was not done.
+[55] I conclude that the taxpayer’s estimates have been exaggerated. However, that does not mean that the business and employment use as computed by the Minister should be accepted. The CRA used distances from mapquest for this purpose and applied it to the trips that the taxpayer purported to have made.
+[56] I believe that the CRA was wrong to simply apply mapquest distances. I think it is very plausible that the taxpayer would sometimes take a route different than a direct route for the reasons that he stated. The problem that I have, though, is that there is no reliable evidence as to what routes were actually taken.
+[57] In these circumstances, I have concluded that an arbitrary adjustment should be made to the reassessment. I conclude that it is appropriate to increase the business and employment percentage by ten percent over the figures that the CRA used for purposes of the reassessment. That would mean that the percentages should be 62.61 percent for the Cadillac, 71.05 percent for the Honda and 78.68 percent for the BMW.
+[58] The remaining issue is the penalties which have been imposed with respect to this issue. I have concluded that they should be vacated. I have also come to this conclusion reluctantly because the very low percentage of personal use claimed by the taxpayer defies common sense. However, business mileage is very difficult to determine after the fact. The main problem that Mr. Podlesny has is that he did not keep a contemporaneous travel log. However, I do not think that this justifies the imposition of gross negligence penalties. The claim that Mr. Podlesny made appears to be aggressive indeed, but I am not satisfied that it reaches a standard of gross negligence.
+[59] That concludes my reasons in this matter. I will issue a judgment allowing the appeal and referring it back to the Minister for reassessment.
+Signed at Toronto, Ontario this 27th day of October 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC591
+COURT FILE NO.: 2007-2582(IT)I
+STYLE OF CAUSE: SLAWOMIR PODLESNY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 20, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: October 27, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

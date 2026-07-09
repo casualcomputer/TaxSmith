@@ -1,0 +1,187 @@
+---
+title: "Michaluk v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521043/index.do"
+last_modified: "2023-01-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 15"
+citation2: ""
+neutral_citation: "2023 TCC 15"
+decision_date: "2023-01-25"
+language: "en"
+item_id: "521043"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5777
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:52:44.524000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2569a349ff916fba6b1d25cb5576590876378a2c12ac8a9228d4feeb9b822fc4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Michaluk v. The King
+
+- Citation: 2023 TCC 15
+- Decision date: 2023-01-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5777, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Michaluk v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-01-25
+Neutral citation
+2023 TCC 15
+File numbers
+2017-3876(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3876(IT)I
+BETWEEN:
+JOHN MICHALUK,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 17, 2022, at Toronto, Ontario
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Avery Kalpin
+Jeff Kirshen
+Counsel for the Respondent:
+George Lin
+JUDGMENT
+The Appellant’s appeal from the reassessments dated October 20, 2016 made by the Minister of National Revenue by virtue of the Income Tax Act concerning the 2014 and 2015 taxation years is dismissed, without cost, in accordance with the attached reasons for judgment.
+Signed at Montréal, Canada, this 25th day of January 2023.
+“Réal Favreau”
+Favreau J.
+Citation: 2023 TCC 15
+Date: 20230125
+Docket: 2017-3876(IT)I
+BETWEEN:
+JOHN MICHALUK,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the reassessments dated October 20, 2016 made by the Minister of National Revenue (the “minister”) by virtue of the Income Tax Act, R.S.C. 1985 c.1 (5th Supp.) as amended (the “Act”) concerning the 2014 and 2015 taxation years of the Appellant.
+[2] By virtue of the said reassessments, the minister denied employment expenses claimed by the Appellant of $17,604.50 for the 2014 taxation year and $20,407.60 for the 2015 taxation year.
+[3] The issue in this appeal is whether the Appellant is entitled to deduct the employment expenses that he claimed in his 2014 and 2015 taxation years.
+[4] The parties filed a Statement of Agreed Facts (Partial) which included the following material facts:
+The material period comprises January 1, 2014 to December 31, 2015, inclusive, encompassing the Appellant’s 2014 and 2015 taxation year.
+During the material period, the Appellant, John Michaluk, was an employee of Bombardier Transportation Inc. (“Bombardier”) as a commuter train operator.
+As a commuter train operator, the Appellant was required to work from various train stations across Ontario.
+The Appellant resided in the unincorporated community of Picton, located in Prince Edward County, in the Province of Ontario.
+Bombardier’s home terminal was Union Station in the administrative district of Etobicoke, in the City of Toronto, in the Province of Ontario.
+The Appellant electronically filed his 2014 and 2015 income tax returns on May 7, 2015 and on April 30, 2016, respectively.
+In computing the Appellant’s net income for the 2014 and 2015 taxation years, the Appellant:
+Claimed a deduction for employment expenses of $17,605 and $20,407, respectively; and
+Reported taxable income of $130,640 and $110,729, respectively.
+The Appellant claimed employment expenses in the following amounts:
+2014
+2015
+Lodging
+$11,082.00
+$14,695.60
+Other Business Expenses
+$547.00
+N/A
+Meals
+$5,975.50
+$5,712.00
+Total
+$17,604.50
+$20,407.60
+The minister initially assessed the Appellant’s 2014 and 2015 taxation years as filed; the notices were dated May 19, 2015 and May 9, 2016, respectively. Please see attached Schedule “A” and Schedule “B”.
+The Minister of National Revenue (the “Minister”) reassessed the Appellant for the 2014 and 2015 taxation years, in accordance with the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “Act”). The Notices of Reassessments (“Reassessments”) were dated October 20, 2016. Please see attached Schedule “C”.
+In her reassessments, the Minister denied employment expenses claimed by the Appellant of $17,604.50 for the 2014 tax year, and $20,407.60 for the 2015 tax year.
+On November 3, 2016, the Appellant served the Minister with a Notice of Objection to the Minister’s reassessments of his 2014 and 2015 tax years. Pleases see attached Schedule “D”.
+The Minister confirmed the reassessments and issued a Notice of Confirmation, dated August 17, 2017. Please see attached Schedule “E”.
+The Parties agree that the Appellant incurred expenses of $17,604.50 and $20,407.60 for 2014 and 2015 taxation years, respectively.
+The Appellant’s employer, Bombardier, provided the Appellant with T2200 forms for the subject years. Please see attached Schedule “F” and Schedule “G”.
+Under the “Conditions of Employment Section”, Bombardier stated that the Appellant was required to travel to locations that were not his place of business during the course of performing his employment duties. It also noted that it required the Appellant to be away for at least twelve (12) consecutive hours from the municipality and metropolitan area of its business where the employee routinely reported for work.
+At the same time, Bombardier stated on the T2200 forms that it does not reimburse employment expenses incurred by its employees.
+The parties agree that the T2200 form does not allow the Appellant to claim telecommunication expenses.
+[5] Mr. Michaluk testified at the hearing. He explained that, in an usual working week, he would leave Picton on Sunday afternoon for Oshawa by driving his car and would returned back home on Friday evening after his shift. The driving distance between Picton and Oshawa is approximately 160 kilometres which represents a driving time between 1h45 minutes to 2 hours.
+[6] The Appellant further explained that in 2014 and 2015 he usually started and finished work at the Oshawa Go Train Station and not at Bombardier’s home terminal located at Etobicoke in the City of Toronto.
+[7] While away from home, he stayed at the Travelodge Oshawa which was closed to the Oshawa Go Train Station. However, the Appellant mentioned that, in 2014, he rented an apartment in Pickering for a period of 6 to 7 months at a cost of $9,500 and that, in 2015, he rented another apartment for an undetermined period at a cost of $5,520. He said that the apartments at Pickering were closed to the Pickering Go Train Station and that, even when he stayed in the City of Pickering, he continued to report to work at the Oshawa Go Train Station.
+[8] The Appellant explained that, as a commuter train operator, he was required to work from various train stations forming part of the Go Transit located in the Province of Ontario.
+[9] As stated in the Statement of Agreed Facts (Partial), Bombardier, the Appellant’s employer provided the Appellant with T2200 forms for the subject years. When cross-examined about the forms, the Appellant stated that he did prepare the forms and did submit them to his employer for signature.
+[10] The Appellant’s employer also signed forms TL2 “Claims for meals and lodging expenses” that the Appellant attached to his tax returns for 2014 and 2015. Again, the Appellant stated that he did prepare the forms and that he did submit them to his employer for signature. The signatory of the said forms did not require receipts for the amounts of expenses claimed.
+[11] During his testimony, the Appellant declared that his daily work shift was more than 12 hours per day and he reported information about specific routes showing that. When cross-examined concerning his daily work shift, the Appellant recognized that many routes last less than 12 hours and were subject to split shifts with interruption times of between 2 to 4 hours.
+[12] The Respondent is relying on paragraph 8(1)g) and subsection 8(2) of the Act to deny the Appellant’s claims of employment expenses. Paragraph 8(1)g) and subsection 8(2) of the Act read as follows:
+Transport employee’s expenses
+(g) where the taxpayer was an employee of a person whose principal business was passenger, goods, or passenger and goods transport and the duties of the employment required the taxpayer, regularly,
+(i) to travel, away from the municipality where the employer’s establishment to which the taxpayer reported for work was located and away from the metropolitan area, if there is one, where it was located, on vehicles used by the employer to transport the goods or passengers, and
+(ii) while so away from that municipality and metropolitan area, to make disbursements for meals and lodging,
+amounts so disbursed by the taxpayer in the year to the extent that the taxpayer has not been reimbursed and is not entitled to be reimbursed in respect thereof;
+General limitation
+(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer’s income for a taxation year from an office or employment.
+[13] Paragraph 8(1)g) provided relief to those individuals employed in the transportation industry who are regularly required to be away from their home municipality.
+[14] In Robert Elwood v. The Queen (2012 TCC 313), Justice Campbell described the conditions of application of paragraph 8(1)g) as follows:
+9 The preconditions, that must be met if paragraph 8(1)(g) is to be applied, are: (1) The employer's principal business must be transporting passengers, goods or a combination of passengers and goods. (2) The taxpayer is required by his or her duties of employment to regularly travel away from the municipality where the employer's establishment, to which the taxpayer reported to work, was located. (3) The taxpayer must be travelling on vehicles used by the employer to transport those goods or passengers. (4) The taxpayer is required by his or her duties of employment to regularly travel away from the metropolitan area, if there is one, where the employer's establishment, to which the taxpayer reported to work, was located. (5) Finally, the taxpayer is required by his or her duties of employment to make disbursements for meals and lodging while so away from that municipality and metropolitan area. If these preconditions are met, a taxpayer may deduct amounts disbursed to the extent the taxpayer was not reimbursed and is not otherwise entitled to be reimbursed in respect thereof.
+[15] In cases of this kind, the onus is on the Appellant to show that the reassessment is in error and this can be established on a balance of probability. Furthermore, because paragraph 8(1)g) is an exception to the general limitation rule of subsection 8(2) of the Act, it should be strictly interpreted.
+[16] Based on the evidence before me, the Appellant has not established that his duties of employment required him, regularly, to travel away from Oshawa and away from the metropolitan area where his employer is located and while so away to make disbursements for meals and lodging.
+[17] The City of Oshawa is in the Durham Region which is in the Greater Toronto Area. The Appellant has not established that the employment expenses that he claimed were incurred outside the metropolitan area where he reported to work.
+[18] The deductions under paragraph 8(1)g) of the Act is not intended for employees who decide, for personal reasons, not to return to their homes at the end of each working day.
+[19] For all these reasons, the appeal is dismissed without costs.
+Signed at Montréal, Québec, this 25th day of January 2023.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2023 TCC 15
+COURT FILE NO.:
+2017-3876(IT)I
+STYLE OF CAUSE:
+JOHN MICHALUK AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 17, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+January 25, 2023
+APPEARANCES:
+Counsel for the Appellant:
+Avery Kalpin
+Jeff Kirshen
+Counsel for the Respondent:
+George Lin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Avery Kalpin
+Jeff Kirshen
+Firm:
+Rosen Kirshen Tax Law
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,156 @@
+Title: Hogg c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301478/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-231-301478-hogg-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-22
+
+# Hogg c. La Reine
+
+- Citation: 2017 CCI 231
+- Decision date: 2017-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7838, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hogg c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-22
+Référence neutre
+2017 CCI 231
+Numéro de dossier
+2013-1146(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1146(IT)G
+ENTRE :
+DOUGLAS HOGG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 octobre 2017,
+à Hamilton, en Ontario.
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée
+Me David I. Besler
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2017.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 21e jour de septembre 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 231
+Date : 20171122
+Dossier : 2013-1146(IT)G
+ENTRE :
+DOUGLAS HOGG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] M. Hogg a demandé la déduction d’une perte d’entreprise fictive de 316 225 $ dans une modification à sa déclaration de revenus pour l’année d’imposition 2008. Il a aussi demandé le report rétrospectif aux années d’imposition 2005, 2006 et 2007 des pertes autres qu’en capital inutilisées découlant de la perte d’entreprise alléguée.
+[2] Le ministre du Revenu national (le « ministre ») n’a pas accepté la demande de redressement ni la demande de report rétrospectif des pertes de M. Hogg et, dans une nouvelle cotisation établie pour l’année d’imposition 2008, lui a imposé une pénalité de 44 733,51 $ en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard des demandes trompeuses.
+[3] M. Hogg avoue qu’il n’a pas subi la perte d’entreprise dont il avait demandé la déduction dans la demande de redressement et qu’il n’avait aucune perte autre qu’en capital qui pouvait être reportée rétrospectivement aux années d’imposition antérieures. Il fait appel uniquement de la pénalité.
+[4] M. Hogg a déclaré dans son témoignage avoir été victime de manœuvres frauduleuses commises par certaines personnes, dont l’une, Muntaz Rasool, avait prétendument déjà été fonctionnaire de l’Agence du revenu du Canada (l’« ARC »). M. Hogg a affirmé qu’il savait que certains de ses collègues qui avaient eu recours aux services de ces personnes avaient reçu des remboursements d’impôt élevés et qu’il croyait donc que les activités de M. Rasool et de ses associés étaient légitimes. Il a affirmé que, une fois qu’il a appris que les pertes déclarées dans la demande de redressement étaient fausses, il a coopéré avec l’ARC et il a été informé que la pénalité qui serait imposée serait [traduction] « modérée ».
+Les dispositions légales applicables
+[5] Quiconque, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans une déclaration, un formulaire, un certificat, un état ou une réponse rempli, produit ou présenté, selon le cas, pour une année d’imposition est passible d’une pénalité en application du paragraphe 163(2). Cette disposition est ainsi libellée :
+Faux énoncés ou omissions
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+a) l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) l’excédent éventuel de l’impôt qui serait payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui seraient réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, s’il était ajouté au revenu imposable déclaré par cette personne dans la déclaration pour l’année la partie de son revenu déclaré en moins pour l’année qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission et si son impôt payable pour l’année était calculé en soustrayant des déductions de l’impôt payable par ailleurs par cette personne pour l’année, la partie de ces déductions qu’il est raisonnable d’attribuer au faux énoncé ou à l’omission,
+(ii) l’excédent éventuel de l’impôt qui aurait été payable par cette personne pour l’année en vertu de la présente loi sur les sommes qui auraient été réputées par les paragraphes 120(2) et (2.2) payées au titre de l’impôt de la personne pour l’année, si l’impôt payable pour l’année avait fait l’objet d’une cotisation établie d’après les renseignements indiqués dans la déclaration pour l’année;
+[…]
+Les faits
+[6] M. Hogg a 12 ans de scolarité et travaille comme ouvrier dans une fonderie. Il élève aussi avec son épouse des veaux de boucherie dans leur ferme près de Durham, en Ontario.
+[7] À un moment donné en 2009, il a appris qu’un certain nombre de ses collègues avaient obtenu des remboursements d’impôt sur le revenu allant jusqu’à 40 000 $ après avoir fait préparer leurs déclarations de revenus par une personne qui avait travaillé à l’ARC. Il n’est pas établi clairement si M. Hogg avait été informé du nom de cette personne – M. Rasool –, mais il n’est pas contesté que c’est effectivement M. Rasool qui a préparé les déclarations.
+[8] M. Hogg, comme ses collègues le lui avaient suggéré, a rencontré Tom Thompson, l’associé de M. Rasool, qui lui a dit qu’il pouvait demander certaines déductions qui lui permettraient d’obtenir un remboursement d’impôt élevé. M. Thompson a jouté qu’il pouvait prendre des dispositions pour faire préparer la demande pour M. Hogg.
+[9] On n’a pas dit à M. Hogg en quoi consistaient ces déductions, et il ne l’a pas non plus demandé. Il a simplement autorisé M. Thompson à prendre des dispositions pour faire préparer la demande et il a fourni comme on le lui avait demandé des copies de ses déclarations de revenus et de ses cotisations des 10 années précédentes. Il a signé une entente par laquelle il paierait 30 % du remboursement reçu pour l’année d’imposition 2008 et 45 % des remboursements reçus à l’égard du report rétrospectif des pertes.
+[10] Lors d’une réunion subséquente avec M. Thompson, M. Hogg a signé un formulaire « Demande de redressement d’une T1 » indiquant qu’il avait des revenus d’entreprise de - 316 225 $. Il a aussi signé un formulaire « Demande de report rétrospectif d’une perte » demandant que des pertes autres qu’en capital de 71 551 $, de 74 479 $ et de 78 752 $ soient appliquées à ses déclarations des années d’imposition 2005, 2006 et 2007 respectivement. On lui a aussi montré un formulaire intitulé [traduction] « État des résultats des activités de mandataire », sur lequel il a écrit son nom en lettres moulées et qui accompagnait le formulaire de demande de redressement d’une T1 qui a été envoyé à l’ARC. Cet état des résultats des activités de mandataire était censé étayer la demande de déduction de la perte d’entreprise, mais il contient des renseignements illogiques et indique une perte (298 549 $) qui ne correspond pas, en fait, au montant de la perte d’entreprise inscrit dans le formulaire de demande de redressement.
+[11] M. Hogg a affirmé avoir signé les formulaires sans les lire. Il a affirmé qu’il avait l’habitude de signer ses déclarations d’impôt sans les lire parce qu’il ne comprend pas les questions liées à l’impôt sur le revenu. Il croyait que les demandes faites dans les formulaires étaient légitimes parce qu’il croyait que l’ARC n’aurait pas donné de remboursements d’impôt à ses collègues si on avait décelé quelque problème que ce soit dans les déclarations qui avaient été présentées pour eux. Il a toutefois reconnu en contre‑interrogatoire qu’il savait en quoi consistait une perte d’entreprise et qu’il savait qu’il n’avait pas subi une perte d’entreprise de 300 000 $ en 2008.
+[12] M. Hogg a toujours fait préparer ses déclarations de revenus par un comptable, pour toutes ses années d’imposition jusqu’en 2008 inclusivement. Il n’a pas questionné le comptable qui a préparé sa déclaration de revenus de 2008 au sujet de la demande de redressement d’une T1 ou de la demande de report rétrospectif d’une perte, et il n’a pas cherché à découvrir comment ce comptable avait pu omettre les déductions qu’il pouvait réclamer aux dires de M. Thompson. Il n’a pas demandé non plus à ses collègues pour quelle raison ils avaient droit aux remboursements qu’ils avaient reçus.
+[13] L’ARC a rejeté les demandes de redressement et de report rétrospectif d’une perte de M. Hogg, et ce dernier a été informé de la possibilité que des pénalités soient imposées. Il a affirmé que c’est à ce moment qu’il s’est rendu compte que MM. Thompson et Rasool étaient des [traduction] « escrocs » et qu’il a offert de témoigner contre eux. Il a coopéré à l’enquête de l’ARC et a affirmé qu’on lui avait dit que les pénalités qui seraient imposées ne seraient pas élevées. Cependant, lorsque la nouvelle cotisation a été établie, le total des pénalités fédérales et provinciales et des intérêts applicables s’est élevé à plus de 70 000 $.
+[14] M. Hogg est d’avis qu’il n’aurait pas fait appel à MM. Thompson et Rasool si l’ARC n’avait pas versé des remboursements d’impôt à ses collègues qui avaient eu recours aux services de ces messieurs pour préparer leurs déclarations de revenus. Il fait aussi observer qu’il a coopéré à l’enquête de l’ARC et que l’ARC a déjà retenu plus de 17 000 $ en remboursements d’impôt qui lui sont dus pour les années subséquentes. Il demande aussi à la Cour de considérer le fait que son épouse et son enfant ont de sérieux problèmes de santé comme une circonstance qui justifierait l’annulation de la pénalité.
+Discussion
+[15] La seule question que la Cour doit trancher est celle de savoir si M. Hogg a, sciemment ou dans des circonstances équivalant à faute lourde, fait une demande relativement à la perte d’entreprise fictive.
+[16] Le paragraphe 163(3) de la Loi dispose que le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[17] Dans la décision Arbuckle c. La Reine, 2017 CCI 181, j’ai résumé ainsi le critère à appliquer pour établir si la conduite d’un contribuable constitue une « faute lourde » au sens du paragraphe 163(2) :
+[42] La définition la plus fréquemment citée de la faute lourde au sens du paragraphe 163(2) de la Loi est celle qui se trouve dans la décision Venne c. Canada, [1984] ACF no 314 (QL), 84 DTC 6247 (C.F. 1re inst.). Le juge Strayer y expliquait que la faute lourde « doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable ». « Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi […] »
+[43] Dans l’analyse du concept de faute lourde, au sens du paragraphe 163(2) de la Loi, qu’elle expose au paragraphe 60 de l’arrêt Guindon c. Canada, 2015 CSC 41, la Cour suprême du Canada cite les observations suivantes formulées dans la décision Sidhu c. La Reine, 2004 CCI 174, par notre Cour :
+Les actions « qui correspondent » à des actions réalisées intentionnellement sont celles pour lesquelles on peut présumer une intention, comme les actions qui démontrent « une indifférence au respect de la Loi ». [...] Le fardeau de la preuve ne consiste pas à prouver au‑delà du doute raisonnable l’intention coupable de se soustraire au paiement de l’impôt, mais à prouver selon la prépondérance des probabilités une telle indifférence à l’égard de la diligence appropriée et raisonnable dans le contexte d’un système d’autocotisation qui contredit et insulte le sens commun […] [Au paragraphe 23.]
+[44] La jurisprudence porte que, pour établir la distinction entre la négligence « ordinaire » et la faute « lourde », il faut examiner plusieurs facteurs :
+a) l’importance de l’assertion inexacte par rapport au revenu déclaré;
+b) la possibilité qu’avait le contribuable de découvrir l’erreur;
+c) le niveau d’instruction du contribuable et son intelligence apparente;
+d) la sincérité de l’effort d’observation de la Loi.
+[45] Aucun de ces facteurs n’est prédominant. Il faut accorder à chacun le poids voulu dans le contexte de la situation d’ensemble que révèle la preuve. Voir la décision DeCosta c. La Reine, 2005 CCI 545.
+[18] Je ferais aussi mienne la déclaration que la Cour a faite dans la décision Lauzon c. La Reine, 2016 CCI 71 :
+Les pénalités prévues à l’article 163 de la Loi ont été établies pour assurer l’intégrité de notre régime d’autocotisation et d’autodéclaration et pour inciter le contribuable à faire preuve de minutie et d’exactitude dans la préparation de sa déclaration de revenus, même si un tiers la prépare.
+(Au paragraphe 19.)
+[19] En l’espèce, M. Hogg a avoué qu’il n’avait pas lu le formulaire « Demande de redressement d’une T1 » ni le formulaire « Demande de report rétrospectif d’une perte » avant de les signer et de les faire produire auprès de l’ARC. Sa signature suit immédiatement une déclaration, figurant sur chacun de ces formulaires, selon laquelle il attestait que les renseignements donnés dans les formulaires et dans tous les documents annexés étaient exacts et complets.
+[20] La Cour a jugé à maintes reprises que le contribuable qui n’examine pas ses déclarations de revenus avant de les déposer commet une faute lourde.
+[21] Dans la décision Brown c. La Reine, 2009 CCI 28, le juge Bowie a déclaré :
+Par ailleurs, pour ce qui est des pénalités pour faute lourde imposées à l’appelant en vertu de la Loi de l’impôt sur le revenu, l’appelant a lui‑même clairement affirmé au début de son témoignage qu’il n’avait jamais porté attention aux revenus et aux dépenses indiqués dans les déclarations pour les quatre années en cause lorsqu’il les signait. L’appelant a dit qu’il conservait ses dossiers, préparait des tableaux de ventilation à partir de ses dossiers et qu’il donnait les tableaux à une spécialiste en déclarations de revenus, qui se servait des documents qu’elle recevait de l’appelant pour préparer les déclarations de revenus de ce dernier. La spécialiste n’a pas témoigné, mais, si l’on se fie à la version des faits de l’appelant, il reste que l’appelant était quand même tenu d’examiner ses déclarations de revenus avant de les signer et de les produire auprès du ministre. La déclaration que le contribuable fait lorsqu’il signe sa déclaration de revenus est ainsi rédigée :
+J’atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus [...]
+Le fait de signer une déclaration de revenus et de faire, par le fait même, la déclaration précitée sans même vérifier le contenu de la déclaration – ce qu’a fait l’appelant, si j’ai bien compris son témoignage – constitue, à lui seul, une faute lourde qui justifie l’imposition des pénalités.
+(Au paragraphe 20.)
+[22] De même, dans la décision Bhatti c. La Reine, 2013 CCI 143, le juge C. Miller a écrit :
+[…] Il est tout simplement insuffisant d’affirmer ne pas avoir vérifié ses déclarations. Confier aveuglément ses obligations à quelqu’un d’autre sans même une vérification minimale de l’exactitude de la déclaration va au‑delà de l’imprudence. Donc, même si elle n’a pas sciemment omis de déclarer le revenu, elle a certainement adopté l’attitude cavalière du laisser‑aller. […]
+(Au paragraphe 30.)
+(Voir aussi les décisions Laplante c. La Reine, 2008 CCI 335, et Brochu c. La Reine, 2011 CCI 75.)
+[23] Cette jurisprudence s’applique également dans les cas, comme en l’espèce, où le contribuable présente, pour l’application de la Loi, des formulaires qui contiennent de faux énoncés.
+[24] Je ne souscris pas à la thèse selon laquelle M. Hogg aurait dû avoir des connaissances en matière d’impôt sur le revenu meilleures que celles qu’il possédait déjà pour être capable de comprendre que les formulaires en question contenaient de faux énoncés. Le formulaire « Demande de redressement d’une T1 » montre clairement que les revenus d’entreprise sont passés de 0 à - 316 225 $, et le formulaire « Demande de report rétrospectif d’une perte » indique une perte de 316 225 $ à la ligne « Revenus d’entreprise ». De son propre aveu, M. Hogg savait en quoi consistait une perte d’entreprise et il savait qu’il n’avait pas subi une perte d’entreprise de 316 225 $ en 2008. S’il avait pris ne serait-ce qu’un moment pour lire ces formulaires, je suis convaincu qu’il aurait vu tout de suite qu’ils contenaient de faux énoncés.
+[25] J’estime que M. Hogg a abdiqué sa responsabilité d’inscrire des renseignements exacts dans les formulaires et que la conduite qu’il a adoptée dans la production de ces formulaires constituait une faute lourde.
+[26] La coopération de M. Hogg à l’enquête de l’ARC après la découverte des faux énoncés n’est pas pertinente. Le moment qui compte pour ce qui est d’établir si la conduite de M. Hogg constituait une faute lourde est celui où il a signé et produit les formulaires contenant les faux énoncés. Je ne peux pas non plus tenir compte de la situation de sa famille ni de la retenue des remboursements d’impôt relatifs aux années d’imposition subséquentes. La Cour n’est pas un tribunal d’equity, et je ne peux pas réduire le montant de la pénalité une fois que j’ai conclu qu’elle a été imposée en conformité avec la loi.
+[27] Pour l’ensemble de ces motifs, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2017.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 21e jour de septembre 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017 CCI 231
+No DU DOSSIER DE LA COUR :
+2013-1146(IT)G
+INTITULÉ :
+DOUGLAS HOGG c. SA MAJESTÉ LA REINE
+LIEU ET DATE DE L’AUDIENCE :
+Hamilton (Ontario)
+Le 24 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 22 novembre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée
+Me David I. Besler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s. o.
+Cabinet :
+s. o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

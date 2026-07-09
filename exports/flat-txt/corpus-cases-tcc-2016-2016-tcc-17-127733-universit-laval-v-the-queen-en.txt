@@ -1,0 +1,244 @@
+Title: Université Laval v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127733/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-17-127733-universit-laval-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-01-20
+
+# Université Laval v. The Queen
+
+- Citation: 2016 TCC 17
+- Decision date: 2016-01-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3059, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Université Laval v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-01-20
+Neutral citation
+2016 TCC 17
+File numbers
+2013-3231(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+File: 2013­3231(GST)G
+BETWEEN:
+UNIVERSITÉ LAVAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 14, 2015, at Québec, Quebec.
+Before: The Honourable Mr. Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Bernard Gaudreau
+René Roy
+Counsel for the Respondent:
+Louis Riverin
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the periods between January 1, 2008 and June 30, 2011, whose notice is dated November 3, 2011, is dismissed, with costs to the Respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 20th day of January 2016.
+“Alain Tardif”
+Tardif J
+Translation certified true
+on this 16th day of June 2016.
+François Brunet, Revisor
+Citation: 2016 TCC 17
+Date: 20160120
+File: 2013­3231(GST)G
+BETWEEN:
+UNIVERSITÉ LAVAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Justice Tardif
+[1] This is an appeal of an assessment issued against Université Laval on November 3, 2011. The assessment concerned the taxability of the subsidy paid by the City of Québec to the Appellant for reporting periods between January 1, 2008 and June 30, 2011.
+[2] The appeal was heard September 14, 2015, in Québec.
+[3] The Appellant, Université Laval, is a public institution of higher education located in Québec.
+[4] The Appellant operates some sports and leisure facilities as part of its academic mission.
+[5] The University’s Physical Education and Sports Pavilion (PEPS) is undergoing expansion to meet growing demand and extend its outreach.
+[6] The city supported the project by providing a subsidy; however, it required that city residents have access to the new facilities under certain conditions.
+[7] Following meetings and discussions between the City and the University, two agreements were signed on September 23, 2010, one regarding the subsidy, the other concerning public access.
+[8] The first was a Memorandum of Understanding[1] stipulating that the City of Québec would grant the University a $10-million subsidy for the PEPS expansion project.
+[9] The second agreement regarding access and use of infrastructure and equipment[2] (hereinafter “Access agreement”) outlined the parties’ obligations and terms and conditions of engagement.
+[10] Both agreements gave rise to the assessment at issue in this appeal; the parties interpret the content and surrounding circumstances in a completely different manner.
+Université Laval’s position [11] The Appellant submits that the $10-million amount obtained from the City of Québec was a direct subsidy without any consideration, and that, consequently, the University did not make a taxable supply to the City.
+[12] The Appellant maintained that the subsidy was granted essentially and exclusively to implement the PEPS expansion project in the public interest, since its facilities were located on city land.
+[13] It also submits that the agreement on access and use of infrastructure and equipment was completely independent of the subsidy paid, and, as a result, could not constitute consideration for the subsidy. In this regard, the Appellant submits that the subsidy did not allow the City of Québec to use future PEPS facilities free of charge or at lower cost.
+[14] The Appellant submits that the City of Québec would have to assume the operating and occupancy costs of future PEPS facilities by its residents, adding that this is evidence of the absence of a relationship or interrelationship between the two agreements.
+[15] Subsidiarily, it argues that if the Court were to conclude that the subsidy was for consideration, the consideration in no way reflected the total $10-million amount.
+[16] Furthermore, the Appellant also argues that if the Court were to conclude that the subsidy was for consideration, it then amounts to the supply of intangible personal property exempt under Section 2 of Part VI of Schedule V of the Excise Tax Act (ETA).
+Respondent’s position [17] The Respondent submits that the $10-million subsidy granted by the City of Québec was issued as consideration for a supply to the City.
+[18] The Respondent submits that the subsidy paid constituted consideration for a supply; the supply was the right to utilize real property. This right consisted in obtaining some access to PEPS facilities under an agreement.
+[19] The Respondent also submits that the City of Québec had an obligation to supply and provide access to sports facilities for its residents. To this end, the City could grant subsidies to any person or organization involved in these activities to enable the City to meet the needs of its residents in accordance with the Charter of the Ville de Québec.[3]
+[20] The Respondent submits that the two agreements entered into by the Appellant and the City of Québec established a direct connection between the subsidy and the University’s obligations to the City.
+[21] In this regard, the Respondent submits that this supply is deemed to be a supply of real property under subsection 136(1) of the ETA.
+[22] In the alternative, the respondent adds that, under Section 25 of Part VI of Schedule V of the ETA, if the Court were to conclude that the subsidy was granted for consideration, that supply was not exempt because it was primarily used in the course of the Appellant’s commercial activities.
+Issues [23] The first issue is whether the amount paid by the City of Québec to Université Laval constitutes consideration for a supply.
+[24] In the alternative, if the Court were to conclude that the subsidy was provided for consideration, the issue is then to determine whether the entire subsidy was provided for consideration.
+[25] Also, in the alternative, if the Court were to conclude that the subsidy was provided for consideration, it will have to answer the following question: is this an exempt supply?
+Consideration for a supply [26] First, the Court must determine whether the subsidy paid by the City of Québec to Laval University constitutes consideration for a supply.
+[27] According to the ETA’s definition of consideration, a subsidy can constitute consideration if it is directly related to the supply provided. In this regard, the definition of supply leads us to ask whether Laval University must supply goods and/or services in exchange for the amount received as a subsidy from the City of Québec. If so, the subsidy will then be deemed the consideration for a supply.
+[28] The answer to this fundamental question is found in the content of the two agreements between the parties: the Memorandum of Understanding regarding the subsidy and the Access agreement regarding access to PEPS infrastructure and equipment.
+[29] It is important to examine these two agreements to understand exactly what the parties intended.
+[30] First, we note that the two agreements were signed on the same day, September 23, 2010, by the same parties, Université Laval and the City of Québec.
+[31] Also, the two agreements refer to one another. The Memorandum of Understanding refers to a second agreement to be signed, the Access agreement, which also refers to the Memorandum of Understanding.
+[32] First, we will address the Memorandum of Understanding and then we will move on to the Access agreement.
+Memorandum of Understanding [33] Page 2 of the Memorandum of Understanding[4] stipulates that the City of Québec supports the University so as to benefit from the facilities to be built, which will resolve the lack of sports equipment on city land and enable the City to meet its obligations owed to the population.
+[34] Section 1 of the Memorandum of Understanding[5] stipulates that the purpose of the memorandum is to define the parties’ obligations and terms and conditions regarding the payment of a subsidy to the University, including provincial and federal taxes.
+[35] The obligations and responsibilities of the parties outlined in Sections 3 and 4 of the Memorandum[6] specify that the University will provide the City with access to the PEPS sports facilities under certain terms and conditions.
+[36] With respect to the obligations of the parties, Section 4.3 of the Memorandum of Understanding[7] is particularly interesting, but also relevant:
+[translation]
+The University’s obligations
+4.3 Provide the City with access to the sports facilities to be built as part of the PEPS expansion project as a proportion of the periods to be reserved for the City as a priority, i.e. 70% of its hours of operation, in accordance with the parameters set out in an agreement to be signed on the access and use of sports infrastructure and equipment as part of the PEPS expansion project.
+[37] Under this section, it seems obvious to me that the parties reached an agreement stipulating and clearly establishing a link, i.e. that the subsidy was granted in consideration for the right to benefit from the sports facilities built with the subsidy granted by the City.
+[38] In other words, the City agrees to pay a $10­million subsidy provided that the subsidy not be used exclusively for the construction and renovation of PEPS facilities, but also to provide City of Québec residents with privileged access to the sports facilities.
+[39] I can only emphasize the fact that the purpose of this memorandum is, first, to set out the parties’ obligations with respect to the subsidy, and second, the University’s obligation to provide city residents with privileged access.
+[40] The terms and conditions of payment of the subsidy are set out in Section 5 of the Memorandum:[8]
+[translation]
+5. Terms and conditions of the subsidy
+In consideration of the University’s obligations and engagements stipulated under this Memorandum of Understanding, the City agrees to pay the University a subsidy for the total amount of $9 million, including provincial and federal taxes as well as the still unpaid balance stipulated in the first Memorandum of Understanding identified under WHEREAS number 5 of this Memorandum of Understanding […].
+[Underlining added for emphasis.]
+[41] Upon reading this section, it is very clear that in consideration for the City’s grant, the University will provide City of Québec residents with privileged access to its sports facilities.
+[42] The second agreement signed the same day, September 23, 2010, is also decisive with respect to the issues.
+Agreement on access to the facilities [43] First, the purpose of the Agreement on access[9] is found in Section 1:
+[translation]
+1. Purpose of the agreement
+The purpose of the Agreement between the City and the University is to set out the main obligations and terms and conditions of engagement regarding City residents’ access to the University’s sports facilities, with regard to funding of the operating costs of facilities built as part of the PEPS expansion project (the “facilities”), as well as funding of the costs relating to the City’s use of the sports facilities. The facilities are described in greater detail in Appendix C attached to the Memorandum to make it part of the document.
+[Underlining added for emphasis.]
+[44] The funding in question in this Section is the $10­million subsidy.
+[45] The University’s obligations are set out in Section 3.2 of the agreement.[10] Furthermore, it seems quite obvious that this Section is based on Section 4.3 of the Memorandum because it also refers to City residents having access to the facilities for 70% of their hours of operation:
+[translation]
+3.2 Provide the City with access to its sports facilities for 70% of their hours of operation. Hours of use will have to be set for normal peak hours for sports equipment, days, evenings and weekends.
+[Underlining added for emphasis.]
+[46] It seems clear that the purpose of this agreement is to set out and define the parties’ obligations and responsibilities with respect to the subsidy. Under these stipulations, there is no doubt as to the Appellant’s obligations to provide access to City of Québec residents.
+[47] The link between the two agreements is also clearly defined in Section 4.4 of the Agreement;[11] it states that any commitments by the City are subject to the entry into force of a lending by­law relating to the Memorandum of Understanding.
+[48] In addition, an extract of the minutes[12] of a City council session indicates that the City agrees to give the remaining $9-million amount and that for its part, the University must, inter alia, provide City residents with priority privileged access.
+[49] Gilles D’Amboise, director of the sports activities service from 1997 to 2012, was the only witness. His testimony provides a good understanding of the letter, and the spirit and intent clearly expressed by both parties in the agreements entered into by the City of Québec and Université Laval. Some extracts of his testimony are provided below:
+[translation]
+JUSTICE TARDIF: But am I to understand that these are two separate files completely independent from one another?
+Mr. D’AMBOISE: According to us, those are two completely different files. These two files have nothing to do with one another.
+[…]
+Mr. D’AMBOISE: […] We always told the City that we are initiating a PEPS expansion operation. The University needs to expand. We are going to – we are asking you to associate yourself with the City because we are going to provide services for your residents. So we are asking you for 10 million.
+We are going to, in terms of operating costs, we are going to make room for you. We are going to make you – we will guarantee you 70 percent of priority time slots. In return, you will have to pay 70 percent of operating costs and occupancy costs. That’s how it worked.
+[…]
+And when we submitted the project to the City of Québec, asking for a $10­million contribution, we were submitting a construction project to the City.
+Then – and they – if you read all the submission documents, you will see in the submission documents that we are asking the City to contribute to the construction at –
+JUSTICE TARDIF: Without any conditions?
+Mr. D’AMBOISE: Well that’s not the way we put it. We told the City that we are asking you for 10 million and we will open the doors to provide you with a – with access for residents up to 70 percent of the hours of operation, but in return you will have to pay for the occupancy costs and the operating costs.
+[Underlining added for emphasis.]
+[50] Based on Mr. D’Amboise’s entire testimony, there is no doubt about the direct link between the two agreements; indeed, that interpretation fully validates the clear, and even obvious contents of both agreements. Based on the contents of these two agreements, the intent of the parties is so clearly expressed that it leaves no room for interpretation; the parties are mutually required to fulfill obligations and provide a service.
+[51] They are mutually bound so that each party’s obligation is correlated to the other party’s obligation. Each party derives an advantage in exchange for the obligation.
+[52] Any interpretation to the contrary is essentially based on assumptions and speculation. When one or more written agreements clearly express the will of the parties, the Court must stand by the language agreed to by the parties. In this case, both agreements were reached through meetings, discussions and negotiations. The final written version, prepared by qualified skilled professionals, correctly expressed the clear will of the parties. Contradicting or distorting the contents of valid written instruments requires very specific evidence based on a solid foundation. However, in this case, the situation is completely different and there is no doubt as to the meaning and scope of the two agreements.
+[53] In addition, the contents of these agreements are precise and consistent. As such, I do not believe it is possible to counter what they so clearly express. The amounts involved are considerable. Those who prepared the agreement clearly defined the rights and obligations of the parties. The precision, clarity and consistency of the contents of the two agreements completely rule out any other interpretation.
+[54] In this regard, the criterion of the direct link was reviewed and examined in Regina (City) v. The Queen, [2001] T.C.J. No. 315 (QL):
+[28] The author of Part I of T.I. Bulletin B­067 explains that “if there is a direct link between a transfer payment received by a person and a supply provided by that person, either to the grantor of the transfer payment or to third parties, the transfer payment will be regarded as consideration for the supply”. The Bulletin emphasizes that “[a] direct link may not always be apparent and therefore it will be necessary to consider the circumstances surrounding each case”. Relevant circumstances may include: the agreement between the parties; the conduct of the parties; the objectives or policy statements of the grantor; and the legislation, by­laws and any applicable regulation under which the payment is made.
+[29] Part II of T.I. Bulletin B­067 states policy guidelines to clarify whether a direct link exists between a transfer payment and a supply and, therefore, whether the transfer payment is consideration. According to these guidelines, where a supply takes place in respect of a transfer payment, there will be a direct link between the supply and the transfer payment if the supply is provided to the grantor for a “purchase purpose” as opposed to a “public purpose”. The Bulletin refers to a “purchase purpose” as “one which benefits the grantor or a specific third party and may be of a commercial nature” and to a “public purpose” as “one which benefits the general public or a particular segment of the general public”.
+[55] In the same case, the Court closely examined the case of a subsidy for consideration of supply under a contract:
+[32] The concept of direct link permits one to recognize if consideration was paid for a supply. Normally, when a supplier contracts to provide a supply, the cost or consideration for that supply appears in the contract. An unconditional subsidy does not identify a specific purpose or cause for funding. If a person can reasonably determine that there is a specific object for the grant, as it is usually described in a contract, then linkage between the grant and the supply exists and the amount of the grant is consideration for the supply for purposes of the Act. Linkage, therefore, serves as a valuable tool to determine if there is consideration. […]
+[33] […] Similarly, the City argued, an agreement existed between it and the Government of Saskatchewan that the City would build connector routes, even though the grants to fund the connector routes were unconditional. There was an accepted practice or an implied agreement between the City and Province that varying portions of unconditional grants were to be used, and were used, for construction of connector routes, as well for other things.
+[56] In Meadow Lake Swimming Pool Committee Inc. v. Canada, [1999] T.C.J. No. 723 (QL), the Court ruled that a grant constitutes consideration when a municipality provides funds to a non­profit organization to operate a pool owned by the municipality. The judge reviewed the pool construction plans of both parties and concluded that there was a direct link between the grant and the supply provided by the organization.
+[57] In Commission scolaire Des Chênes v. Canada, [2000] T.C.J. No. 71 (QL), the Court ruled that a subsidy is deemed consideration if it is directly linked to the price of the supply provided. The Court also examined this link in Sydney Mines Firemen’s Club v. The Queen, 2011 TCC 403:
+[36] In an earlier decision, the Federal Court of Appeal in Commission scolaire Des Chênes v. The Queen, 2001 FCA 264, found that a subsidy for transportation purposes was consideration although it did not fully cover the cost of the goods or services for which the subsidy is given. Justice Noël determined that there was a sufficient link between the subsidy paid by the Province of Quebec and the services provided by the school board for students. A subsequent decision by the Federal Court of Appeal in Calgary (City) v The Queen, 2010 FCA 127, appears to narrow Des Chênes to the terms of the written agreements that exist between the province and a public sector body. However, neither Des Chênes nor Calgary (City) considered Section 10.
+[58] Thus, I cannot accept the Appellant’s submission that no supply was provided as consideration for the subsidy, that the subsidy agreement is simply a subsidy agreement, that the Agreement on access is independent from the subsidy and, as such, there cannot be any consideration for the subsidy.
+[59] In my opinion, the Appellant is on the wrong track when it submits that these two agreements are completely independent. In fact and in law, there is a clear and direct link between the two agreements. I must therefore conclude that a subsidy was paid as consideration for a supply.
+[60] Given that the subsidy is consideration for a supply, I must now qualify the supply by determining whether or not it is a taxable supply.
+[61] Before conducting a review to determine whether the supply is exempt within the meaning of the ETA, I will respond to the sub­question raised by the Appellant. Is the subsidy equal to the value of the supply? In other words, is there a difference in the value of each party’s obligations?
+[62] The Appellant argues that if the Court were to conclude that the supply was taxable, the matter should then be returned to the Canada Revenue Agency to establish the fair market value before applying it to the cost of the facilities.
+[63] The value of the supply versus the consideration is an issue that involves the parties in a transaction. In a normal situation where the parties are completely responsible, and even more clearly, when they are supported by experts, the value of the supply cannot be questioned.
+[64] In this case, not only did the very well-advised parties agree throughout the agreements, they also specifically and expressly indicated the value of the supply to be made for consideration.
+[65] As a result, there is no reason for this Court to investigate the value of the supply that was to be taxed.
+Qualification of the supply [66] To qualify the supply, the Court must first look at the following definitions of subsection 123(1) of the ETA:
+commercial activity of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+[…]
+exempt supply means a supply included in Schedule V.
+taxable supply means a supply that is made in the course of a commercial activity.
+[67] In this case, we are dealing with a public sector body, as defined in subsection 123(1) of the ETA:
+public service body means a non­profit organization, a charity, a municipality, a school authority, a hospital authority, a public college or a university.
+public sector body means a government or a public service body.
+[68] It is therefore necessary to refer to Part VI of Schedule V of the ETA and in particular to Sections 2 and 25 to determine which supplies are exempt with respect to public sector bodies.
+[69] In addition, to qualify the supply, it is also necessary to look at the following definitions of subsection 123(1) of the ETA:
+personal property means property that is not real property.
+[…]
+real property includes
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+(c) a mobile home, a floating home and any leasehold or proprietary interest therein.
+[70] Subsection 136(1) of the ETA defines the right to use real property as a supply of real property, and the same principle applies to the right to use tangible personal property:
+136 (1) For the purposes of this Part, a supply, by way of lease, licence or similar arrangement, of the use or right to use real property or tangible personal property shall be deemed to be a supply of real property or tangible personal property, as the case may be.
+[71] Section 2 of Part VI of Schedule V of the ETA provides that a supply made by a public institution of any personal property or a service is an exempt supply, notwithstanding the exceptions listed in this section.
+[72] Thus, the issue is whether the University’s supply is a supply of personal property, services or real property.
+[73] In this case, the agreements clearly refer to a right of access to PEPS facilities and real property. This right to use real property could be considered intangible personal property.
+[74] However, subsection 136(1) of the ETA clearly provides that when there is an agreement on the use or right to use real property, the supply is then deemed to be a supply of this asset, the supply of real property. In this case, the service is the right to utilize the real property to be constructed. Finally, the service in question is deemed to be a taxable supply. The City was required to pay the tax; it paid the tax and even made that provision in the Memorandum in Sections 1 to 3 and 5.
+[75] Given that the supply in question is the supply of real property, the next step is to verify whether or not this supply is exempt.
+[76] We should therefore look at Section 25 of Part VI of Schedule V of the ETA, which deals with exempt supplies and more specifically the supply of real property by a public service body.
+[77] Section 25 provides that this type of supply can be exempt, unless the property is used primarily in the Appellant’s commercial activities.
+[78] The Respondent argues that the real property was used for commercial purposes 66% of the time, and the Appellant itself determined that the rate of commercial use was 69%.
+[79] Mr. D’Amboise, as director of PEPS sports activities, testified for the Appellant regarding this issue; he confirmed that since September 2010 the PEPS was used for commercial purposes over 50% of the time.
+[80] On the balance of probabilities, it is permissible, if not necessary, to conclude that the real property is used primarily in the course of the Appellant’s commercial activities; consequently, it is not an exempt supply.
+[81] For all these reasons, the appeal is dismissed because the assessment that gave rise to the appeal is well founded. The whole with costs to the Respondent.
+Signed at Ottawa, Canada, this 20th day of January 2016.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 16th day of June 2016.
+François Brunet, Revisor
+CITATION:
+2016 TCC 17
+DOCKET:
+2013­3231(GST)G
+STYLE OF CAUSE:
+LAVAL UNIVERSITY v. THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+September 14, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Alain Tardif
+DATE OF JUDGMENT:
+January 20, 2016
+APPEARANCES:
+Counsel for the appellant:
+Bernard Gaudreau
+René Roy
+Counsel for the Respondent:
+Louis Riverin
+SOLICITORS OF RECORD:
+For the appellant:
+Bernard Gaudreau
+Law firm:
+Norton Rose Fulbright Canada
+Québec, Quebec
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Memorandum of Understanding between the City of Québec and Université Laval regarding payment of a subsidy for Laval University’s Physical Education and Sports Pavilion (PEPS) expansion project, September 23, 2010, tab 3 of the Respondent’s book of exhibits.
+[2] Agreement between the City of Québec and Université Laval regarding access and use of sports infrastructure and equipment to be installed as part of Université Laval’s Physical Education and Sports Pavilion (PEPS) expansion project, September 23, 2010, tab 4 of the Respondent’s book of exhibits.
+[3] Charter of Ville de Québec, chapter C­11.5, Sections 121 and 169.
+[4] Memorandum of Understanding, supra note 1, page 2.
+[5] Memorandum of Understanding, supra note 1, Section 1, page 2.
+[6] Memorandum of Understanding, supra note 1, Sections 3 and 4, pages 3 and 4.
+[7] Memorandum of Understanding, supra note 1, Section 4.3, page 4.
+[8] Memorandum of Understanding, supra note 1, Section 5, page 4.
+[9] Agreement on access, supra note 2, Section 1, page 4.
+[10] Agreement on access, supra note 2, Section 3.2, page 4.
+[11] Agreement on access, supra note 2, Section 4.4, page 6.
+[12] Extract of the minutes of a City of Québec council session dated July 9, 2010, Appellant’s book of exhibits, tab 10, Appendix E, page 2.

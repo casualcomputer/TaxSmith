@@ -1,0 +1,160 @@
+Title: Mule v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26028/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-518-26028-mule-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2004-07-23
+
+# Mule v. M.N.R.
+
+- Citation: 2004 CCI 518
+- Decision date: 2004-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4088, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mule v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-23
+Référence neutre
+2004 CCI 518
+Numéro de dossier
+2001-4556(EI)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2001-4556(EI)
+ENTRE :
+DORA MULE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel fixé pour audition le 21 juin 2002, à Hamilton (Ontario),
+Par : L'honorable M.A. Mogan
+Comparutions :
+Représentant de l'appelante :
+M. Thomas Coulson Troy
+Avocat de l'intimé :
+Me James Rhodes
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu le représentant de l'appelante et l'avocat de l'intimé prétendre que la Cour n'a pas compétence pour statuer sur la question soulevée dans l'avis d'appel;
+La Cour ordonne qu'il soit mis fin à l'appel interjeté en application de la Loi sur l'assurance-emploi.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 10e jour de mars 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI518
+Date : 20040723
+Dossier : 2001-4556(EI)
+ENTRE :
+DORA MULE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Mogan
+[1] Le présent appel devait être entendu à Hamilton (Ontario), le vendredi 21 juin 2002. Lorsque l'appel a été fixé pour audition, le représentant de l'appelante et l'avocat de l'intimé ont tous deux fait état de leur récente conclusion voulant que la Cour n'ait pas compétence pour statuer sur la question soulevée dans l'avis d'appel. À la suite d'un long débat devant la Cour, l'avocat de l'intimé (Me Rhodes) s'est engagé à fournir des observations écrites sur la question de la compétence. J'ai pu lire les observations de Me Rhodes, lesquelles, bien que reçues peu de temps après le 21 juin 2002, ont malheureusement été égarées.
+[2] Comme la question de la compétence était une condition préalable à l'audition de l'appel, aucun élément de preuve n'a été présenté, même si l'appelante, Dora Mule, a comparu devant le tribunal le 21 juin. Je vais donc m'en remettre aux actes de procédure et à une reliure de huit documents produits par l'avocat de l'intimé ainsi qu'à certaines assertions formulées en Cour le 21 juin 2002 pour exposer les faits essentiels de la présente affaire.
+[3] L'appelante était employée à temps plein à titre de préposée au nettoyage au Hamilton Wentworth Catholic District School Board (le « conseil scolaire » ). Elle travaillait au Cardinal Newman High School (l' « école secondaire » ). La Saltfleet Public Library (la « bibliothèque » ) (gérée par la ville de Stoney Creek) était située à l'intérieur du bâtiment abritant l'école secondaire. Pendant l'année scolaire normale, l'appelante travaillait six heures par jour (du lundi au vendredi), soit cinq heures à nettoyer l'école et une heure à nettoyer la bibliothèque. Du 15 juillet au 5 septembre 2000, le temps de travail de l'appelante a été réduit à une heure par jour (du lundi au vendredi), laquelle était consacrée au seul nettoyage de la bibliothèque puisque l'école était fermée. Apparemment, l'appelante n'était rémunérée que par le conseil scolaire; il existait une entente distincte voulant que la bibliothèque paye le conseil scolaire pour les services de nettoyage.
+[4] Le 9 juillet 2000, le conseil scolaire a établi un relevé d'emploi selon lequel l'appelante était « mise à pied » pour la période allant du 15 juillet au 5 septembre 2000. Sur le fondement de ce relevé d'emploi, l'appelante a présenté une demande de prestations d'assurance-emploi (onglet 4) en application de la Loi sur l'assurance-emploi (la LAE). La Commission de l'assurance-emploi du Canada (la « Commission » ) a fait droit à la demande et l'appelante a reçu des prestations d'assurance-emploi pendant la période pertinente. Dans une lettre datée du 3 novembre 2000, la Commission a notifié l'appelante de sa décision d'annuler sa demande de prestations au motif qu'elle n'avait pas subi un arrêt de rémunération (sept jours consécutifs sans travail ni rémunération) avant le début de la période visée par la demande, soit le 17 juillet 2000. Par conséquent, l'appelante n'était pas admissible à des prestations d'assurance-emploi. La Commission a en outre signalé que le relevé d'emploi mentionnant que l'appelante était « mise à pied » avait été établi par erreur. L'appelante était donc contrainte de rembourser les prestations qu'elle avait reçues pour la période du 15 juillet au 5 septembre 2000.
+[5] L'appelante a interjeté appel de la décision de la Commission auprès d'un conseil arbitral. Le 30 janvier 2001, la Commission a demandé à l'Agence des douanes et du revenu du Canada (l' « ADRC » ) de décider (onglet 1) si la ville de Stoney Creek constituait un employeur distinct. En d'autres termes, l'appelante avait-elle deux employeurs en juillet et en août 2000? Le 28 mars 2001, l'ADRC a conclu (onglet 2) que l'appelante était uniquement employée par le conseil scolaire pendant la période en cause et qu'elle n'avait pas subi un « arrêt de rémunération » lui donnant droit à des prestations au titre de la LAE. L'appel de l'appelante au conseil d'arbitrage a été reporté au 19 avril 2001 pour permettre à l'appelante de porter la décision de l'ADRC en appel devant le ministre du Revenu national. L'appelante a interjeté appel au ministre au moyen d'une lettre datée du 22 juin 2001.
+[6] Le 21 septembre 2001, le ministre a confirmé (onglet 3) la décision du 28 mars 2001. Par une lettre datée du 17 décembre 2001, l'appelante a interjeté appel à la Cour de la confirmation prononcée par le ministre. C'est dans le cadre de cet appel introduit le 17 décembre 2001 que je dois trancher le point de savoir si la Cour a compétence pour examiner le bien-fondé de la confirmation du ministre et, éventuellement, la question de savoir si l'ADRC avait le pouvoir de rendre sa décision. À la page sept de l'avis d'appel (lettre du 17 décembre 2001), l'appelante soulève deux questions : La ville de Stoney Creek était-elle son employeur à un quelconque moment pertinent ? et L'appelante a-t-elle subi un « arrêt de la rémunération » provenant de son emploi entre le 15 juillet et le 5 septembre 2000 ? À l'audience tenue à Hamilton le 21 juin 2002, le représentant de l'appelante a renoncé à la première question, à savoir si la ville de Stoney Creek était l'employeur de l'appelante à un quelconque moment pertinent. Il ne reste donc qu'à décider si l'appelante a subi un arrêt de rémunération.
+[7] La LAE prévoit deux moyens différents de résolution des litiges selon que l'objet visé par celui-ci est (i) l'admissibilité à des prestations ou (ii) l'assurabilité. Je vais d'abord me pencher sur l'admissibilité à des prestations.
+Droit à des prestations
+[8] La disposition législative fondamentale à cet égard est l'article 7.
+7(1) Les prestations de chômage sont payables, ainsi que le prévoit la présente partie, à un assuré qui remplit les conditions requises pour les recevoir.
+7(2) L'assuré autre qu'une personne qui devient ou redevient membre de la population active remplit les conditions requises si, à la fois :
+a) il y a eu arrêt de la rémunération provenant de son emploi;
+b) il a, au cours de sa période de référence, exercé un emploi assurable pendant au moins le nombre d'heures indiqué au tableau qui suit en fonction du taux régional de chômage qui lui est applicable. [Tableau omis.]
+Suivant l'article 48, la Commission peut décider si une personne remplit ou non les conditions requises pour recevoir des prestations.
+48(1) Une personne ne peut faire établir une période de prestations à son profit à moins qu'elle n'ait présenté une demande initiale de prestations conformément à l'article 50 et aux règlements et qu'elle n'ait prouvé qu'elle remplit les conditions requises pour recevoir des prestations.
+48(2) Aucune période de prestations ne peut être établie à moins que le prestataire n'ait fourni, sous la forme et de la manière fixées par la Commission, des précisions sur son emploi et sur la raison de tout arrêt de rémunération, ainsi que tout autre renseignement que peut exiger la Commission.
+48(3) Sur réception d'une demande initiale de prestations, la Commission décide si le prestataire remplit ou non les conditions requises pour recevoir des prestations et lui notifie sa décision.
+[9] L'article 52 permet à la Commission d'examiner de nouveau, dans un certain délai, la décision qu'elle a prise antérieurement au sujet d'une demande de prestations.
+52(1) Malgré l'article 120 mais sous réserve du paragraphe (5), la Commission peut, dans les trente-six mois qui suivent le moment où des prestations ont été payées ou sont devenues payables, examiner de nouveau toute demande au sujet de ces prestations.
+52(2) Si elle décide qu'une personne a reçu une somme au titre de prestations pour lesquelles elle ne remplissait pas les conditions requises ou au bénéfice desquelles elle n'était pas admissible, ou n'a pas reçu la somme pour laquelle elle remplissait les conditions requises et au bénéfice de laquelle elle était admissible, la Commission calcule la somme payée ou payable, selon le cas, et notifie sa décision au prestataire. Cette décision peut être portée en appel en application de l'article 114.
+L'appel prévu à l'article 114 et visé au paragraphe 52(2) est interjeté à un « conseil arbitral » au sens où cette expression est définie au paragraphe 2(1).
+114(1) Quiconque fait l'objet d'une décision de la Commission, de même que tout employeur d'un prestataire faisant l'objet d'une telle décision, peut, dans les trente jours suivant la date où il en reçoit communication, ou dans le délai supplémentaire que la Commission peut accorder pour des raisons spéciales dans un cas particulier, interjeter appel de la manière prévue par règlement devant le conseil arbitral.
+La décision du conseil arbitral peut, suivant l'article 115, être portée en appel à un « juge-arbitre » au sens où ce terme est défini au paragraphe 2(1).
+115(1) Toute décision d'un conseil arbitral peut, de plein droit, être portée en appel devant un juge-arbitre par la Commission, le prestataire, son employeur, l'association dont le prestataire ou l'employeur est membre et les autres personnes qui font l'objet de la décision.
+Assurabilité
+[10] La disposition législative fondamentale à cet égard est l'article 5 :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+b) l'emploi du genre visé à l'alinéa a), exercé au Canada au service de Sa Majesté du chef du Canada;
+c) [...]
+5(2) N'est pas un emploi assurable :
+a) l'emploi occasionnel à des fins autres que celles de l'activité professionnelle ou de l'entreprise de l'employeur;
+b) l'emploi d'une personne au service d'une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+c) [...]
+La première demande qui vise à obtenir une décision tranchant la question de savoir si un emploi donné est assurable est présentée en application de l'article 90.
+90(1) La Commission, de même que tout employé, employeur ou personne prétendant être l'un ou l'autre, peut demander à un fonctionnaire de l'Agence des douanes et du revenu du Canada autorisé par le ministre de rendre une décision sur les questions suivantes :
+a) le fait qu'un emploi est assurable;
+b) la détermination de la durée d'un emploi assurable, y compris ses dates de début et de fin;
+c) la détermination de la rémunération assurable;
+d) la détermination du nombre d'heures exercées dans le cadre d'un emploi assurable;
+e) l'existence de l'obligation de verser une cotisation;
+f) la détermination du montant des cotisations à verser;
+g) l'identité de l'employeur d'un assuré;
+h) le fait qu'un employeur est un employeur associé;
+i) le montant du remboursement prévu à l'un ou l'autre des paragraphes 96(4) à (10).
+[11] La décision visée à l'article 90 peut faire l'objet d'autres appels prévus aux articles 91, 92, 103 et 104.
+91 La Commission peut porter la décision en appel devant le ministre à tout moment, et tout autre intéressé, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit notification de cette décision.
+92 Lorsque le ministre a évalué une somme payable par un employeur au titre de l'article 85, l'employeur peut, dans les quatre-vingt-dix jours suivant la date à laquelle il reçoit l'avis d'évaluation, demander au ministre de reconsidérer l'évaluation quant à la question de savoir s'il y a matière à évaluation ou quel devrait être le montant de celle-ci.
+103(1) La Commission ou une personne que concerne une décision rendue au titre de l'article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l'impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l'expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l'impôt de la manière prévue par la Loi sur la Cour canadienne de l'impôt et les règles de cour applicables prises en vertu de cette loi.
+104(1) La Cour canadienne de l'impôt et le ministre ont le pouvoir de décider toute question de fait ou de droit qu'il est nécessaire de décider pour rendre une décision au titre de l'article 91 ou 103 ou pour reconsidérer une évaluation qui doit l'être au titre de l'article 92, ainsi que de décider si une personne est ou peut être concernée par la décision ou l'évaluation.
+Analyse
+[12] Comme il est énoncé au paragraphe 6 susmentionné, il ne reste qu'à décider si l'appelante a subi un arrêt de rémunération. Il s'agit d'une des principales conditions fixées au paragraphe 7(2). Voir plus haut. Le point de savoir si une personne a subi un arrêt de la rémunération provenant de son emploi n'est pas une des questions énoncées au paragraphe 90(1) - voir plus haut - soit la première étape à franchir pour donner compétence au ministre (article 91) puis à la Cour canadienne de l'impôt (article 103).
+[13] À la lumière des faits dont je suis saisi, la Commission a initialement décidé que l'appelante était admissible à recevoir des prestations d'assurance-emploi et ces prestations ont été versées. En application de l'article 52 de la LAE, la Commission a examiné à nouveau la demande de l'appelante et elle a conclu que cette dernière ne remplissait pas les conditions requises pour recevoir des prestations parce qu'il n'y avait pas eu arrêt de rémunération. Suivant le paragraphe 52(2), c'est la décision de la Commission qui peut être portée en appel devant un conseil arbitral en application de l'article 114. L'appelante a en réalité interjeté appel à un conseil arbitral, mais la Commission a ensuite demandé à l'ADRC de décider si la ville de Stoney Creek constituait un employeur distinct. C'est la demande faite par la Commission à l'ADRC qui est à l'origine des mesures ayant mené l'appelante devant la Cour. Voir les faits résumés aux paragraphes 5 et 6 susmentionnés.
+[14] L'article 48 de la LAE confère à la Commission le pouvoir de décider si un prestataire remplit les conditions requises pour recevoir des prestations d'assurance-emploi. La condition fondamentale que doit remplir le prestataire est d'avoir subi un arrêt de la rémunération provenant de son emploi. La décision que la Commission a demandée à l'ADRC de prendre (à savoir si la ville de Stoney Creek était un employeur distinct) était accessoire à la question essentielle de savoir si la prestataire avait subi un arrêt de rémunération. Par conséquent, la Commission pouvait, dans le cadre de la compétence globale qui lui est conférée de juger s'il y a eu arrêt de la rémunération, décider si la ville de Stoney Creek était un employeur distinct.
+[15] Sous le régime de la LAE, la compétence de la Cour se fonde sur les articles 90, 91, 92 et 103. Le point de savoir si un prestataire donné a subi un arrêt de rémunération ne fait pas partie des questions énoncées au paragraphe 90(1). En conséquence, le ministre du Revenu national (dans la partie IV de la LAE) et la Cour n'ont pas compétence pour décider si un prestataire a subi un arrêt de la rémunération provenant de son emploi. Je prononcerai une ordonnance mettant fin à l'appel interjeté en l'espèce.
+Signé à Ottawa, Canada, ce 23e jour de juillet 2004.
+« M.A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 10e jour de mars 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI518
+NO DE DOSSIER DE LA COUR :
+2001-4556(EI)
+INTITULÉ DE LA CAUSE :
+Dora Mule c. Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Hamilton (Ontario)
+DATE DE L'AUDIENCE :
+Le 21 juin 2002
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable M.A. Mogan
+DATE DE L'ORDONNANCE :
+Le 23 juillet 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Thomas Coulson Troy
+Avocat de l'intimé :
+Me James Rhodes
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom :
+N/A
+Cabinet :
+N/A
+Pour l'intimé :
+Me Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,173 @@
+---
+title: "Cheng c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/484803/index.do"
+last_modified: "2020-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 95"
+citation2: ""
+neutral_citation: "2020 CCI 95"
+decision_date: "2020-09-01"
+language: "fr"
+item_id: "484803"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4560
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:58:25.830000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "187479b2db2dd6b9655371f0b417d6032c4080f64edf40c200912e86cea01902"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cheng c. La Reine
+
+- Citation: 2020 CCI 95
+- Decision date: 2020-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4560, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheng c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-09-01
+Référence neutre
+2020 CCI 95
+Numéro de dossier
+2018-4289(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4289(IT)I
+ENTRE :
+MAGDALENA CHENG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 16 et 22 janvier 2020, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelante :
+Me Brian Y.K. Cheng
+Avocat de l’intimée :
+Me Natasha Tso
+Me Chase Blair
+JUGEMENT
+Le présent appel des nouvelles cotisations établies le 26 octobre 2017 à l’égard des années d’imposition 2007 à 2014, inclusivement, de l’appelante, est rejeté, sans dépens. Le prétendu appel de la nouvelle cotisation établie le 26 octobre 2017 à l’égard de l’année d’imposition 2006 de l’appelante est annulé, car il s’agit d’une nouvelle cotisation nulle.
+Signé à Halifax (Nouvelle-Écosse), ce 1er jour de septembre 2020.
+« B. Russell »
+Le juge Russell
+Référence : 2020CCI95
+Date : 20200901
+Dossier : 2018-4289(IT)I
+ENTRE :
+MAGDALENA CHENG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] L’appelante dans le présent appel déposé sous le régime de la procédure informelle demande un jugement annulant les nouvelles cotisations établies le 26 octobre 2017 par le ministre du Revenu national (le ministre) aux termes de la Loi de l’impôt sur le revenu (la Loi) à l’égard de ses années d’imposition 2006 à 2014 inclus.
+[2] La requête de l’intimée visant à annuler la nouvelle cotisation établie à l’égard de l’année d’imposition 2006 déposée en début d’audience, sans opposition de la part de l’appelante, a été accueillie, car le solde de la nouvelle cotisation était nul.
+[3] Les autres nouvelles cotisations visées par le présent appel, à l’exception de l’année d’imposition 2014, ont été établies au-delà de leurs périodes normales de nouvelle cotisation respectives de trois ans, ce qui les rend potentiellement non valides en raison de la prescription. La justification invoquée par l’intimée pour ces nouvelles cotisations tardives (soit les années d’imposition 2007 à 2013 inclusivement) est fondée sur le sous-alinéa 152(4)a)i) de la Loi. Cette disposition permet d’établir une nouvelle cotisation au-delà de la période normale de nouvelle cotisation applicable lorsqu’au cours de l’année d’imposition en question :
+a) le contribuable ou la personne produisant la déclaration :
+soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi, [...]
+[4] L’intimée a le fardeau de preuve d’établir selon la prépondérance des probabilités que le sous-alinéa 152(4)a)i) s’applique aux nouvelles cotisations prescrites visées par les appels, c.-à-d. que le contribuable ou la personne produisant la déclaration pour l’année d’imposition donnée a fait une fausse déclaration imputable à la négligence, à l’inattention ou à l’omission volontaire. Dans le présent appel, l’intimée soutient que l’appelante (la contribuable) a fait une fausse déclaration imputable à la négligence ou à l’inattention dans chacune de ses déclarations pour les années d’imposition en cause, et ce, conformément au sous-alinéa 152(4)a)(i).
+[5] Les nouvelles cotisations établies pour les années d’imposition 2007 à 2013 qui ont fait l’objet de l’appel ont chacune annulé une déduction pour REER demandée par l’appelante dans sa déclaration de revenus et accordée dans la cotisation initiale établie pour cette année d’imposition particulière, établie par le ministre plus de trois ans avant l’établissement de la nouvelle cotisation en question.
+[6] À l’audition du présent appel, la Cour a entendu deux témoignages; soit ceux de l’appelante et de Mme T. Richardson, une vérificatrice de l’Agence du revenu du Canada (Agence). De plus, des documents ont été déposés comme éléments de preuve.
+I. Faits :
+[7] En résumé, les éléments de preuve démontrent, comme je l’indique dans les paragraphes suivants, qu’à partir de 2005, l’appelante avait occupé des postes à responsabilités importantes, plus récemment en tant que superviseure de la restauration d’un hôpital, gérant 40 employés. Son parcours professionnel comprend des postes antérieurs d’infirmière et de diététicienne.
+[8] En 2006, le ministre a établi une cotisation pour l’année d’imposition 2005 de l’appelante et a autorisé des cotisations à un REER de 44 825 $. L’appelante avait demandé une déduction pour REER de 24 347 $ pour cette année-là et, selon l’Agence, et il lui restait 20 478 $ (c.-à-d., 44 825 $ moins 24 347 $) à titre de cotisations à un REER inutilisées pouvant être reportées et déduites dans les années à venir. Toutefois, l’appelante nie avoir déclaré des cotisations à un REER de 44 825 $ dans sa déclaration de revenus pour l’année d’imposition 2005.
+[9] L’Agence ne disposait plus de la déclaration d’impôt produite pour l’année d’imposition 2005 ni d’une copie conforme de celle-ci. L’Agence ne conserve pas indéfiniment les copies d’origine ou authentiques des déclarations fiscales. Au lieu de cela, la procédure de l’Agence consiste à faire transcrire le contenu important d’une déclaration fiscale en format électronique et, le cas échéant, à l’imprimer sous la forme d’un document appelé « option C ». L’imprimé de l’option C offre une lecture plutôt cryptique pour un profane. En dépit des efforts préalables de l’avocat de l’intimée, l’avocat de l’appelante a seulement pu voir l’imprimé l’option C de l’Agence concernant la déclaration de revenus de sa cliente pour l’année d’imposition 2005 le matin même de l’audience. Ce document a été présenté à titre d’élément de preuve (sous réserve de la pondération de notre Cour) dans le cadre du témoignage de Mme Richardson, vérificatrice de l’Agence, ce à quoi s’est opposé l’avocat de l’appelante. Mme Richardson a témoigné que ce document montrait que dans sa déclaration de l’année d’imposition 2005, l’appelante avait déclaré une contribution à un REER totalisant 44 825 $, bien que, comme indiqué ci-dessus, l’appelante ait témoigné qu’elle avait déclaré une contribution à un REER de seulement 24 347 $ – soit 20 478 $ de moins dans la différence – et avait entièrement déduit cette somme pour REER, ne laissant aucune contribution à un REER inutilisée pour une utilisation future.
+[10] L’avocat de l’appelante a fait valoir que l’imprimé de l’option C aurait dû être présenté par l’intermédiaire d’un élément de preuve d’expert expliquant la technologie qui aurait fait de ce document une transcription fidèle du contenu d’origine de la déclaration de l’année d’imposition 2005. Mme Richardson, bien qu’elle ne soit pas qualifiée d’experte, a témoigné qu’elle avait traité ce type de commentaires à de nombreuses reprises sans aucune indication ou suggestion d’erreur dans ces documents. En contre-interrogatoire, sous l’instance de l’avocat de l’appelante, elle s’est sentie incapable de dire de manière définitive que ces imprimés seraient absolument toujours sans erreur.
+[11] L’avocat de l’appelante s’est appuyé sur le fait que le fardeau de preuve incombait à l’intimée. L’appelante n’a pas fait témoigner son propre comptable, celui qui avait préparé la déclaration pour l’année d’imposition 2005, et n’a pas non plus produit de copie de l’annexe de cette déclaration qui aurait dû indiquer le montant total de la contribution au REER déclaré. Elle a produit elle-même la copie de sa déclaration de 2005, sans les annexes. Le comptable, et les documents pertinents, auraient présumément pu être cités à comparaître par l’intimée.
+[12] L’avis de cotisation de l’appelante établi à l’égard de son année d’imposition 2005 le 4 août 2006 (pièce A-5), indiquait sous la rubrique « État du maximum déductible au titre des REER » ce qui suit : « Vous avez 20 478 $ (B) en cotisations inutilisées au titre des REER/RPAC disponibles pour 2006. Si ce montant dépasse le montant (A) ci-dessus, vous pourriez avoir à payer de l’impôt sur les cotisations excédentaires ». Au-dessus de cette somme, l’avis indique : « Maximum déductible au titre du REER pour 2006... 0 $ (A) ».
+[13] L’année suivante (2007), l’appelante a produit sa déclaration de revenus pour l’année d’imposition 2006 en ne demandant aucune déduction au titre du REER. Cela était conforme à la déclaration susmentionnée dans son avis de cotisation de 2005 selon laquelle son plafond de déduction REER pour 2006 était de zéro.
+[14] De plus, l’avis de cotisation du 5 mai 2007 pour l’année d’imposition 2006 de l’appelante (pièce A-6) indiquait à nouveau (sous la rubrique « État du maximum déductible au titre des REER pour 2007 ») qu’elle disposait de 20 478 $ de cotisations REER inutilisées pour 2007 et d’un maximum déductible au titre du REER pour 2007 de 1 160 $ correspondant à 18 % de son revenu gagné en 2006.
+[15] Il convient de souligner que ni en 2006 ni en 2007, l’appelante n’a communiqué avec l’Agence pour l’informer que l’énoncé figurant dans chacun de ses avis de cotisation de 2005 et 2006, selon lequel elle avait 20 478 $ de cotisations inutilisées à un REER, était erroné. Cette absence d’action tend à corroborer le fait que l’appelante avait déclaré 20 478 $ de cotisations REER inutilisées dans sa déclaration de 2005, comme l’affirme l’intimée.
+[16] L’année suivante (2008), l’appelante a produit sa déclaration pour l’année d’imposition 2007, réclamant 1 160 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2006, selon lequel son plafond de déduction pour REER pour 2007 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant apparemment sur les déclarations antérieures selon lesquelles elle disposait de 20 478 $ de droits de cotisation à un REER non utilisés, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[17] L’avis de cotisation du 16 juin 2008 pour l’année d’imposition 2007 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2007 ») qu’elle disposait de 19 318 $ de cotisations inutilisées d’un REER pour 2008 et d’un maximum déductible au titre du REER pour 2008 de 2 321 $ correspondant à 18 % de son revenu gagné en 2007. Le relevé de 19 318 $ de cotisations inutilisées d’un REER mentionne exactement les 20 478 $ de cotisations inutilisées d’un REER initialement indiqués, moins la déduction de la cotisation au REER de 1 160 $ mentionnée dans la déclaration de l’appelante pour 2007.
+[18] L’année suivante (2009), l’appelante a produit sa déclaration pour l’année d’imposition 2008, déduisant 2 321 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2007, selon lequel son plafond de déduction pour REER pour 2008 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[19] L’avis de cotisation du 28 mai 2009 pour l’année d’imposition 2008 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2009 ») qu’elle disposait de 16 997 $ de cotisations inutilisées d’un REER pour 2009 et d’un maximum déductible au titre du REER pour 2009 de 1 877 $ correspondant à 18 % de son revenu gagné en 2008.
+[20] De même, l’année suivante (2010), l’appelante a produit sa déclaration pour l’année d’imposition 2009, déduisant 1 877 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2008, selon lequel son plafond de déduction pour REER pour 2009 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[21] L’avis de cotisation du 3 juin 2010 pour l’année d’imposition 2009 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2010 ») qu’elle disposait de 15 120 $ de cotisations inutilisées d’un REER pour 2010 et d’un maximum déductible au titre du REER pour 2010 de 2 235 $ correspondant à 18 % de son revenu gagné en 2009.
+[22] De même, l’année suivante (2011), l’appelante a produit sa déclaration pour l’année d’imposition 2010, déduisant 2 235 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2009, selon lequel son plafond de déduction pour REER pour 2010 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[23] L’avis de cotisation du 24 mai 2011 pour l’année d’imposition 2010 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2010 ») qu’elle disposait de 12 885 $ de cotisations inutilisées d’un REER pour 2011 et d’un maximum déductible au titre du REER pour 2011 de 2 330 $ correspondant à 18 % de son revenu gagné en 2010.
+[24] De même, l’année suivante (2012), l’appelante a produit sa déclaration pour l’année d’imposition 2011, déduisant 2 330 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2010, selon lequel son plafond de déduction pour REER pour 2011 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[25] L’avis de cotisation du 14 mai 2012 pour l’année d’imposition 2011 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2012 ») qu’elle disposait de 10 555 $ de cotisations inutilisées d’un REER pour 2012 et d’un maximum déductible au titre du REER pour 2012 de 2 846 $ correspondant à 18 % de son revenu gagné en 2011.
+[26] De même, l’année suivante (2013), l’appelante a produit sa déclaration pour l’année d’imposition 2012, déduisant 2 846 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2011, selon lequel son plafond de déduction pour REER pour 2012 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[27] L’avis de cotisation du 30 mai 2013 pour l’année d’imposition 2012 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2012 ») qu’elle disposait de 7 709 $ de cotisations inutilisées d’un REER pour 2013 et d’un maximum déductible au titre du REER pour 2013 de 239 $ correspondant à 18 % de son revenu gagné en 2012.
+[28] De même, l’année suivante (2014), l’appelante a produit sa déclaration pour l’année d’imposition 2013, déduisant 239 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2012, selon lequel son plafond de déduction pour REER pour 2013 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[29] L’avis de cotisation du 16 juin 2014 pour l’année d’imposition 2013 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2014 ») qu’elle disposait de 7 470 $ de cotisations inutilisées d’un REER pour 2014 et d’un maximum déductible au titre du REER pour 2014 de 130 $ correspondant à 18 % de son revenu gagné en 2013.
+[30] De même, l’année suivante (2015), l’appelante a produit sa déclaration pour l’année d’imposition 2014, déduisant 130 $ de déductions au titre du REER, conformément aux renseignements figurant sur son avis de cotisation pour l’année d’imposition 2013, selon lequel son plafond de déduction pour REER pour 2014 était cette somme. Elle n’a déclaré aucune cotisation à un REER cette année-là, se fondant ainsi apparemment sur les déclarations antérieures selon lesquelles elle disposait de droits de cotisation inutilisés à un REER, sur lesquels elle pouvait se fonder pour demander ladite déduction au titre du REER.
+[31] L’avis de cotisation du 8 juin 2015 pour l’année d’imposition 2014 de l’appelante (pièce A-6) indiquait (sous la rubrique « État du maximum déductible au titre des REER pour 2014 ») qu’elle disposait de 7 340 $ de cotisations inutilisées d’un REER pour 2015 et d’un maximum déductible au titre du REER pour 2015 de 135 $ correspondant à 18 % de son revenu gagné en 2014.
+II. Discussion :
+[32] L’intimée affirme que l’appelante a fait une fausse déclaration dans chacune de ses déclarations de revenus de 2007 à 2013, soit en demandant une déduction au titre d’un REER sur un montant de cotisations inutilisées d’un REER inutilisées qui, en réalité, n’existait pas (réponse, paragraphe 17g).
+[33] Le problème a commencé avec l’année d’imposition 2005 de l’appelante, au cours de laquelle le ministre a estimé que l’appelante avait déclaré une cotisation à un REER de 20 478 $, pour laquelle elle n’avait pas demandé de déduction pour REER au cours de cette même année. L’appelante nie avoir déclaré une cotisation à un REER inutilisée au cours de cette année.
+[34] J’estime que l’appelante a fait une fausse déclaration dans sa déclaration de revenus pour l’année d’imposition 2005, selon laquelle elle disposait de 20 478 $ de droits de cotisation inutilisés à un REER. À cet égard, je m’appuie particulièrement sur la déclaration figurant dans chacun des avis de cotisation de l’appelante pour les années d’imposition 2005 et 2006 selon laquelle elle disposait de ce montant de cotisations REER inutilisées, déclaration que l’appelante n’a pas tenté de corriger à ce moment-là (et pas avant 2017, soit bien après les années d’imposition en cause). Je reconnais que cette déclaration erronée dans la déclaration de l’année d’imposition 2005 n’a pas été faite délibérément, mais qu’elle est plutôt imputable à la négligence ou à l’inattention.
+[35] Entre-temps, l’appelante a demandé des déductions annuelles, en utilisant ce prétendu montant de droits de cotisation inutilisés à un REER qui était en fait inexistant. Une déduction au titre d’un REER peut seulement être valablement demandée lorsqu’il y a bel et bien eu une cotisation à un REER. Le sous-alinéa 60(i) de la Loi permet de déduire du revenu toute somme déductible aux termes de l’article 146 de la Loi. Le paragraphe 146(5) autorise une déduction dans la mesure où le contribuable a versé une cotisation à un REER qui n’est pas inférieure au montant de la déduction prévue, comme cela est par ailleurs autorisé. Cette relation entre la déduction et la contribution est un concept de base et non technique que les contribuables possédant des REER connaissent assez bien. Il faut avoir cotisé à un REER pour pouvoir obtenir la déduction.
+[36] L’appelante prétend qu’étant donné que le ministre a déclaré sur les avis de cotisation successifs qu’elle disposait de droits de cotisation inutilisés à un REER, elle était encline à croire que le ministre devait avoir raison et elle a demandé des déductions au titre des REER en conséquence.
+[37] À mon avis, ces demandes de déduction annuelle sont des fausses déclarations faites par l’appelante, ou au nom de celle-ci, dans ses déclarations de revenus annuelles. Il s’agit de fausses déclarations, car elles ont été faites alors que l’appelante aurait dû savoir qu’elles étaient fausses, c.-à-d. qu’elle n’y avait pas de droits de cotisations à un REER inutilisés. L’appelante est une personne intelligente et compétente, comme le montrent les postes à responsabilité qu’elle a occupés. Je remarque que les particuliers sont généralement bien informés de leur situation précise en matière de REER. À mon avis, ces fausses déclarations annuelles (en plus de la fausse déclaration de l’année d’imposition 2005) de l’appelante étaient imputables à la négligence ou à l’inattention. Conformément au système fiscal d’autodéclaration au Canada, les contribuables doivent assumer la responsabilité ultime de l’exactitude de leurs déclarations fiscales.
+[38] Je prends note des propos du juge Bowie de notre Cour dans la décision College Park Motors Ltd. c. La Reine, 2009 CCI 409, paragraphe 13 :
+[...] il importe de se rappeler que le sous-alinéa 152(4)a)(i) vise simplement à préserver le droit du ministre d’établir une nouvelle cotisation lorsque le contribuable n’a pas divulgué tout ce qu’il aurait dû divulguer aussi exactement qu’il aurait dû le faire et qu’il a, ce faisant, privé le ministre de la possibilité d’établir avec précision l’obligation fiscale totale du contribuable lors du premier avis de cotisation. Elle n’a nullement pour objet d’établir une quelconque culpabilité de la part du contribuable.
+III. Conclusion :
+[39] Je conclus que le ministre a respecté les limites du sous-alinéa 152(4)a)(i) de la Loi en établissant les nouvelles cotisations contestées pour les années d’imposition 2007 à 2013 au-delà de leurs périodes normales de nouvelles cotisations respectives. De plus, je conclus que la nouvelle cotisation contestée de l’année d’imposition 2014 est valable. L’appelante n’a soulevé aucune jurisprudence établissant le contraire.
+[40] Le présent appel déposé sous le régime de la procédure informelle relativement aux nouvelles cotisations établies le 26 octobre 2017 à l’égard des années d’imposition 2006 à 2014, inclusivement, de l’appelante, est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 1er jour de septembre 2020.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2020 CCI 95
+NO DU DOSSIER DE LA COUR :
+2018-4289(IT)I
+INTITULÉ :
+MAGDALENA CHENG c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 16 et 22 janvier 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 1er septembre 2020
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Brian Y.K. Cheng
+Avocat de l’intimée :
+Me Natasha Tso
+Me Chase Blair
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Brian Y.K. Cheng
+Cabinet :
+[en blanc]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

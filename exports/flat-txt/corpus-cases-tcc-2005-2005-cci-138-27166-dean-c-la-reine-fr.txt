@@ -1,0 +1,146 @@
+Title: Dean c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27166/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-138-27166-dean-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-02-18
+
+# Dean c. La Reine
+
+- Citation: 2005 CCI 138
+- Decision date: 2005-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1035, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dean c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-18
+Référence neutre
+2005 CCI 138
+Numéro de dossier
+2004-3004(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3004(IT)I
+ENTRE :
+GEOFFREY DEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 février 2005, à Calgary (Alberta).
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Galina M. Bining
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2002 est admis, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L'appelant a droit aux débours qu'il a engagés dans la poursuite du présent appel, y compris aux frais d'affranchissement, de photocopie, d'appel téléphonique et de déplacement pour se rendre à Calgary de Rocky Mountain House pour assister à l'audience; le montant des débours est fixé à 350 $.
+Signé à Saskatoon, Saskatchewan, ce 18e jour de février 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de septembre 2005.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI138
+Date : 20050218
+Dossier : 2004-3004(IT)I
+ENTRE :
+GEOFFREY DEAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, qui a été interjeté sous le régime de la procédure informelle, a été entendu à Calgary (Alberta) le 10 février 2005. L'appelant était le seul témoin.
+[2] Les paragraphes 2 à 9 inclusivement de la réponse à l'avis d'appel décrivent en détail les questions en litige. Les voici :
+[TRADUCTION]
+2. Au moment de calculer son obligation fiscale pour l'année d'imposition 2002, l'appelant a demandé, dans le calcul de ses crédits d'impôt non remboursables et de l'impôt payable, des montants de 28 525 $ à titre de crédit d'impôt pour frais de scolarité et de 2 000 $ à titre de crédit d'impôt pour études relativement à un cours qu'il a suivi à l'Institut de technologie Nelson Marlborough situé en Nouvelle-Zélande (ci-après appelé « Nelson » ).
+3. La déclaration de revenus pour l'année d'imposition 2002 a initialement fait l'objet d'une cotisation le 5 juin 2003.
+4. Au moment d'établir une cotisation à l'égard de l'appelant pour l'année d'imposition 2002, le ministre a refusé le crédit d'impôt pour frais de scolarité et le crédit d'impôt pour études demandés par l'appelant. La position adoptée par le ministre était que :
+a) l'appelant ne fréquentait pas une université située à l'étranger où il suivait des cours conduisant à un diplôme et n'avait donc pas droit au crédit d'impôt pour frais de scolarité;
+b) l'appelant n'était pas inscrit à un programme de formation admissible comme étudiant à temps plein dans un établissement d'enseignement agréé et n'avait donc pas droit au crédit d'impôt pour études.
+5. L'appelant a déposé un avis d'opposition daté du 17 juillet 2003 relativement à la cotisation.
+6. Le ministre a ratifié la cotisation au moyen d'un avis de ratification daté du 28 avril 2004.
+7. Dans la cotisation qu'il a établie à l'égard de l'année d'imposition 2002 de l'appelant et au moment de ratifier cette cotisation, le ministre s'est fondé sur les faits suivants :
+a) l'appelant fréquentait Nelson comme étudiant à temps plein pendant l'année d'imposition 2002;
+b) l'appelant était inscrit à Nelson à un programme d'une durée de plus de 13 semaines consécutives;
+c) l'appelant était inscrit à Nelson en vue d'obtenir sa licence de pilote d'hélicoptère commercial;
+d) Nelson n'est pas une université;
+e) Nelson n'est pas un établissement où sont décernés des grades ou des diplômes;
+f) l'appelant n'était pas inscrit à un cours conduisant à un diplôme décerné par Nelson pendant l'année d'imposition 2002.
+B. QUESTIONS EN LITIGE
+8. La question en litige est de savoir si l'appelant peut demander la déduction du crédit d'impôt pour frais de scolarité et du crédit d'impôt pour études dans le calcul de ses crédits d'impôt non remboursables et de son impôt payable pour l'année d'imposition 2002.
+C. DISPOSITIONS DE LA LOI, MOYENS INVOQUÉS ET RÉPARATIONS SOLLICITÉES
+9. Il invoque les articles 118.5 et 118.6 et le paragraphe 248(1) de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi » ), dans sa version modifiée pour l'année d'imposition 2002.
+[3] Les hypothèses a) à c) du paragraphe 7 sont correctes. Toutefois, Nelson décerne bien un diplôme : le baccalauréat en commerce. Les cours que l'appelant a suivis en 2002-2003 auraient conduit au baccalauréat en commerce si l'appelant avait choisi de les faire appliquer aux fins de ce baccalauréat (pièce A-1 : règlements du programme, par. 3.14.3). Les hypothèses e) et f) sont fausses parce que Nelson était un établissement qui décernait des diplômes à l'époque en cause et parce que l'appelant était inscrit à des cours conduisant à un diplôme que décernait Nelson.
+[4] L'appelant n'a pas obtenu de diplôme en sciences de l'aviation (hélicoptère) ou de baccalauréat en commerce auxquels conduisent les cours qu'il a suivis. Il a plutôt quitté l'université lorsqu'il avait suivi assez de cours pour obtenir une licence de pilote d'hélicoptère commercial et a obtenu un emploi comme pilote d'hélicoptère.
+[5] Il a obtenu un emploi comme pilote d'hélicoptère à Rocky Mountain House (Alberta), où il travaille sept mois par an. Il travaille dans les champs de pétrole les cinq mois par an restants. Il a 24 ans.
+[6] L'alinéa 118.5(1)b) de la Loi de l'impôt sur le revenu donne les critères que l'appelant doit réunir afin d'obtenir gain de cause en partie dans le présent appel. Il est rédigé comme suit :
+118.5(1) Crédit d'impôt pour frais de scolarité - Les montants suivants sont déductibles dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[...]
+b) [université située à l'étranger] - si, au cours de l'année, le particulier fréquente comme étudiant à plein temps une université située à l'étranger, où il suit des cours conduisant à un diplôme, le produit de la multiplication du taux de base pour l'année par le total des frais de scolarité payés à l'université pour l'année, à l'exception des frais qui ont été :
+(i) soit payés pour des cours d'une durée inférieure à 13 semaines consécutives;
+(ii) soit payés pour son compte par son employeur dans la mesure où ils ne sont pas inclus dans le calcul de son revenu;
+(iii) soit payés pour son compte par l'employeur de son père ou de sa mère, dans la mesure où ces frais ne sont pas inclus dans le calcul du revenu de son père ou de sa mère par application du sous-alinéa 6(1)b)(ix); et [...]
+[7] Par conséquent, le dernier critère auquel l'appelant doit satisfaire pour obtenir gain de cause dans le présent appel a trait à la question de savoir si Nelson était une université.
+[8] Le juge Mogan a dû statuer sur cette question dans la décision Gilbert c. Canada, 1998 A.C.I. no 1091 et [1999] 2 CTC 2127. Au paragraphe 14, il a dit ce qui suit :
+Le mot « université » n'est pas défini dans la Loi, mais l'intimée m'a fourni trois définitions de dictionnaire du mot anglais « university » (université), soit des définitions qui disent toutes qu'il doit s'agir d'un établissement qui décerne un diplôme. Le Dictionary of Canadian Law définit comme suit le mot « university » :
+[TRADUCTION]
+La principale caractéristique qui distingue une université d'autres établissements d'enseignement tient au pouvoir de décerner des titres ou des diplômes.
+Dans le Webster's Third New International Dictionary (soit un dictionnaire américain), le mot « university » est défini comme suit :
+[TRADUCTION]
+Corps de personnes réunies en un lieu particulier pour la dissémination et l'assimilation de connaissances dans des domaines d'études avancées; établissement de haut savoir offrant des installations pour l'enseignement et la recherche et autorisé à décerner des diplômes d'études.
+Enfin, le Black's Law Dictionary en donne la description suivante :
+[TRADUCTION]
+Établissement de haut savoir qui consiste en un ensemble de collèges constitué en personne morale, qui dispense un enseignement dans le domaine des arts et des sciences, y compris les professions intellectuelles, et qui décerne des diplômes.
+[9] L'intimée a déposé un affidavit d'un de ses agents qui indique que diverses publications ne mentionnent pas Nelson comme établissement d'enseignement agréé pour l'application de l'article 118.6. Toutefois, la documentation de Nelson, présentée par l'appelant dans la pièce A-1, indique que Nelson décerne le baccalauréat en commerce et que les cours qu'a suivis l'appelant conduisent au baccalauréat en commerce. La Cour considère que cette documentation et le témoignage de l'appelant qui l'appuie établissent que, pendant la période en litige, l'appelant était inscrit à temps plein à une université située à l'étranger à un programme conduisant à un diplôme.
+[10] Vu l'affidavit déposé par l'intimée, la déduction demandée par l'appelant en vertu de l'article 118.6 est refusée parce que Nelson n'était pas un établissement d'enseignement agréé au sens de la Loi de l'impôt sur le revenu pendant la période en litige.
+[11] Toutefois, comme Nelson était une université, la déduction demandée par l'appelant en vertu de l'alinéa 118.5(1)b) est accordée, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conséquence. L'appelant a droit aux débours qu'il a engagés dans la poursuite du présent appel, y compris aux frais d'affranchissement, de photocopie, d'appel téléphonique et de déplacement pour se rendre à Calgary de Rocky Mountain House pour assister à l'audience; le montant des débours est fixé à 350 $.
+Signé à Saskatoon (Saskatchewan), ce 18e jour de février 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de septembre 2005.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2005CCI138
+NO DU DOSSIER :
+2004-3004(IT)I
+INTITULÉ :
+Geoffrey Dean c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 10 février 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 18 février 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Galina M. Bining
+COUNSEL OF RECORD:
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-orocureur général du Canada
+Ottawa, Canada

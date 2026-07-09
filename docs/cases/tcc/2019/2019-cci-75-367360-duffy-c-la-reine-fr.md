@@ -1,0 +1,373 @@
+---
+title: "Duffy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/367360/index.do"
+last_modified: "2019-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 75"
+citation2: ""
+neutral_citation: "2019 CCI 75"
+decision_date: "2019-04-04"
+language: "fr"
+item_id: "367360"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4325
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:21:57.745000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6dac922b5ee3c461e4431c2d69ab68c65b8c6e27c4a4c809d70eccb68c7e995b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duffy c. La Reine
+
+- Citation: 2019 CCI 75
+- Decision date: 2019-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4325, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duffy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-04
+Référence neutre
+2019 CCI 75
+Numéro de dossier
+2016-1697(IT)G, 2016-1703(IT)G, 2016-1705(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Contenu de la décision
+Dossier : 2016-1697(IT)G
+ENTRE :
+MICHAEL DUFFY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1703(IT)G
+ENTRE :
+PAMELA DUFFY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1705(IT)G
+ENTRE :
+1218769 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 13 mars 2018, à Hamilton (Ontario)
+Observations écrites déposées le 13 avril 2018
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat des appelants :
+Me Glen W. McCann
+Avocat de l’intimée :
+Me Stan W. McDonald
+JUGEMENT
+Les appels sont accueillis, avec dépens, et les nouvelles cotisations faisant l’objet des appels sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints et en fonction des concessions respectives des parties, le tout tel qu’il est exposé dans lesdits motifs.
+Les parties disposent d’un délai de 30 jours suivant la date du présent jugement pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi les appelants disposeront d’un délai supplémentaire de 30 jours pour déposer des observations écrites sur les dépens et l’intimée aura ensuite 30 jours additionnels pour déposer une réponse écrite. De telles observations ne doivent pas dépasser cinq pages. Si, dans les délais impartis, les parties n’informent pas la Cour qu’elles sont parvenues à un accord et si elles ne déposent pas d’observations, les dépens seront adjugés aux appelants, conformément au tarif.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2019.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+ce 4e jour de décembre 2020.
+Erich Klein, réviseur
+Référence : 2019 CCI 75
+Date : 20190404
+Dossier : 2016-1697(IT)G
+ENTRE :
+MICHAEL DUFFY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1703(IT)G
+ENTRE :
+PAMELA DUFFY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2016-1705(IT)G
+ENTRE :
+1218769 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs se rapportent aux appels interjetés par Michael Duffy, Pamela Duffy et 1218769 Ontario Inc. (121ON) concernant diverses nouvelles cotisations (les nouvelles cotisations) établies à leur égard par l’Agence du revenu du Canada (l’ARC) au nom du ministre du Revenu national (le ministre) après avoir effectué une analyse de la valeur nette. Sont ici en cause divers revenus qui n’auraient pas été déclarés, des revenus qui auraient été mal qualifiés et des dépenses dont la déduction a été refusée. Le litige porte également sur les questions de savoir si l’ARC était en droit d’établir de nouvelles cotisations pour certaines années d’imposition frappées de prescription et si l’imposition de pénalités en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la LIR) [1] était justifiée. Les appels concernent les années d’imposition 2010, 2011 et 2012 des appelants ainsi que l’année d’imposition 2009 de 121ON, dont l’exercice se termine le 30 septembre.
+II. NOUVELLES COTISATIONS
+[2] Le 3 mai 2011, le 14 juin 2012 et le 9 mai 2013, respectivement, le ministre a établi à l’endroit de M. Duffy les premiers avis de cotisation concernant les années d’imposition 2010, 2011 et 2012. Au moyen d’avis de nouvelle cotisation datés du 6 mars 2015, le ministre a établi de nouvelles cotisations concernant l’obligation fiscale de M. Duffy pour 2010, 2011 et 2012.
+[3] Le 3 mai 2011, le 14 juin 2012 et le 9 mai 2013, respectivement, le ministre a établi à l’endroit de Mme Duffy les premiers avis de cotisation concernant les années d’imposition 2010, 2011 et 2012. Au moyen d’avis de nouvelle cotisation datés du 6 mars 2015, le ministre a établi de nouvelles cotisations concernant l’obligation fiscale de Mme Duffy pour 2010, 2011 et 2012.
+[4] Le 6 novembre 2009, le 4 avril 2011, le 15 décembre 2011 et le 18 mars 2013, respectivement, le ministre a établi à l’endroit de 121ON les premiers avis de cotisation concernant les années d’imposition 2009, 2010, 2011 et 2012. Au moyen d’avis de nouvelle cotisation datés du 5 mai 2015, le ministre a établi de nouvelles cotisations concernant l’obligation fiscale de 121ON pour 2009, 2010, 2011 et 2012.
+[5] Les parties reconnaissent que les avis de nouvelle cotisation à l’égard de M. et de Mme Duffy pour l’année d’imposition 2010 et à l’égard de 121ON pour les années d’imposition 2009, 2010 et 2011 ont été établis après la période normale de nouvelle cotisation pour ces années d’imposition de chacun des appelants.
+III. CONCESSIONS
+[6] Au début de l’audition des appels, l’avocat de l’intimée a informé la Cour que l’intimée faisait plusieurs concessions, à savoir :
+a) À l’égard de 121ON, l’intimée a concédé ce qui suit :
+i. les appels concernant les années d’imposition 2009, 2010 et 2011 (lesquelles étaient frappées de prescription) devraient être accueillis dans leur intégralité;
+ii. le montant du revenu d’entreprise non déclaré pour l’année d’imposition 2012 (établi en fonction de l’analyse de la valeur nette effectuée par l’ARC relativement à M. et à Mme Duffy) devrait être réduit à 27 237,90 $;
+iii. 121ON devrait être autorisée à déduire dans le calcul de son revenu pour 2012 des frais de véhicule supplémentaires de 900 $.
+b) À l’égard de M. Duffy, l’intimée a concédé ce qui suit :
+i. l’appel concernant l’année d’imposition 2010 (laquelle était frappée de prescription) devrait être accueilli dans son intégralité;
+ii. le montant des avantages conférés à un actionnaire non déclarés de M. Duffy en 2012, établi en fonction de l’analyse de la valeur nette, devrait être réduit à 13 618,90 $;
+iii. M. Duffy devrait être autorisé à déduire, dans le calcul de son revenu pour 2012, des frais de location supplémentaires de 4 000 $;
+iv. les gains réalisés lors de la vente de deux propriétés (les propriétés Pelham), situées sur la rue Pelham à Fonthill (Ontario), devraient être qualifiés de gains en capital plutôt que de revenus d’entreprise.
+c) À l’égard de Mme Duffy, l’intimée a concédé ce qui suit :
+i. l’appel concernant l’année d’imposition 2010 (laquelle était frappée de prescription) devrait être accueilli dans son intégralité;
+ii. le montant des avantages conférés à un actionnaire non déclarés de Mme Duffy en 2012, établi en fonction de l’analyse de la valeur nette, devrait être réduit à 13 618,90 $;
+iii. Mme Duffy devrait être autorisée à déduire, dans le calcul de son revenu pour 2012, des frais de location supplémentaires de 4 000 $;
+iv. les gains réalisés lors de la vente des propriétés Pelham devraient être qualifiés de gains en capital plutôt que de revenus d’entreprise [2] .
+[7] Les appelants ont aussi fait plusieurs concessions, à savoir :
+a) M. et Mme Duffy ont réalisé dans un compte Qtrade divers gains, qu’ils ont déclarés comme des gains en capital, mais que l’ARC a considérés comme des revenus d’entreprise en établissant une nouvelle cotisation. M. et Mme Duffy ont concédé que ces gains pouvaient être imposés comme des revenus d’entreprise plutôt que comme des gains en capital [3] .
+b) Pendant l’audience, l’avocat des appelants a informé la Cour que M. et Mme Duffy avaient décidé de ne pas demander, pour 2012, une déduction de frais de location en sus des frais de location supplémentaires de 4 000 $ faisant l’objet de la concession de l’intimée à l’égard de chacun d’eux [4] .
+c) Comme il est expliqué ci-dessous, lors de l’audience, M. et Mme Duffy ont décidé de concéder que le remboursement de loyers qu’ils avaient déduit dans le calcul de leur revenu pour 2012 n’était pas déductible en réalité [5] .
+IV. QUESTIONS EN LITIGE
+[8] Les questions en litige qui demeurent, après les concessions décrites ci-dessus, sont les suivantes :
+a) La société 121ON a-t-elle eu un revenu non déclaré de 27 237,90 $ dans l’année d’imposition s’étant terminée le 30 septembre 2012?
+b) Dans le calcul de son revenu de 2012, 121ON avait-elle droit à la déduction de frais de véhicule supérieurs aux 900 $ faisant l’objet de la concession de l’intimée?
+c) En 2012, M. Duffy a-t-il eu un revenu non déclaré de 13 618,90 $ tiré d’avantages conférés à un actionnaire?
+d) En 2012, Mme Duffy a-t-elle eu un revenu non déclaré de 13 618,90 $ tiré d’avantages conférés à un actionnaire?
+e) Les pénalités imposées aux appelants pour 2012 en vertu du paragraphe 163(2) de la LIR étaient-elles justifiées?
+V. CONTEXTE FACTUEL
+[9] Au cours des années d’imposition pertinentes, M. et Mme Duffy possédaient chacun 50 % des actions émises du capital-actions de 121ON, qui exploitait une entreprise de couverture sous le nom commercial de Duffy Roofing.
+[10] Dans le cadre de la vérification des années d’imposition 2010, 2011 et 2012 de M. et de Mme Duffy, l’ARC a effectué une analyse de la valeur nette et a finalement conclu qu’en 2010 et en 2012 (mais pas en 2011), M. et Mme Duffy avaient reçu différents avantages conférés à un actionnaire qu’ils n’avaient pas inclus dans le calcul de leur revenu dans les déclarations de revenus qu’ils ont produites pour ces années. En conséquence, l’ARC a établi de nouvelles cotisations de manière à inclure dans le calcul du revenu de M. et de Mme Duffy les avantages qui leur auraient été conférés. En outre, l’ARC a présumé que la source de ces avantages conférés à un actionnaire était des revenus de 121ON et que 121ON avait omis de déclarer ces revenus. L’ARC a donc établi une nouvelle cotisation relative à l’impôt payable par 121ON à l’égard des revenus qu’elle n’aurait pas déclarés.
+[11] En préparant les nouvelles cotisations, l’ARC a divisé le montant des présumés avantages conférés à un actionnaire également entre M. et Mme Duffy. Le montant du revenu que 121ON n’aurait pas déclaré était égal au total des avantages conférés à un actionnaire. De même, à la suite des concessions faites par l’intimée, le montant du présumé avantage conféré à M. et à Mme Duffy en tant qu’actionnaires en 2012 était de 13 618,90 $ pour chacun d’eux, et le montant du présumé revenu non déclaré de 121ON pour son année d’imposition 2012 était de 27 237,90 $ (environ 2 x 13 618,90 $) [6] .
+[12] En 2009, M. et Mme Duffy se sont servis d’argent emprunté (garanti par une hypothèque sur leur maison, dont ils étaient copropriétaires) pour investir 200 000 $ dans un compte d’investissement Qtrade. Sur une période de trois ans, 564 opérations ont été effectuées dans ce compte. M. et Mme Duffy ont déclaré comme gains en capital les gains réalisés dans le compte, mais, comme il est indiqué plus haut, le ministre a établi de nouvelles cotisations en tenant pour acquis que ces gains étaient du revenu ordinaire. Comme il est également indiqué plus haut, M. et Mme Duffy ont concédé ce point et ils ne contestent plus la qualification de ces gains comme un revenu par le ministre.
+[13] À un moment donné, M. et Mme Duffy ont fait l’acquisition de quatre terrains à Fonthill, en Ontario, dont les adresses municipales étaient 1127, 1129, 1131 et 1133, rue Pelham. Ils ont construit des immeubles locatifs au 1131 et au 1133, rue Pelham. Lorsque M. et Mme Duffy se sont portés acquéreurs des terrains, ils avaient aussi l’intention de construire des immeubles locatifs au 1127 et au 1129, rue Pelham, mais, en raison d’un ralentissement économique et de la baisse des activités de l’entreprise de couverture de 121ON, ils ont accepté une offre spontanée de la part du frère de M. Duffy (qui exploitait une entreprise de construction domiciliaire) d’acheter les terrains situés au 1127 et au 1129, rue Pelham. Ces terrains n’avaient pas été mis en vente, et M. Duffy a dit les avoir vendus à contrecœur. M. et Mme Duffy ont déclaré le produit de la vente comme un gain en capital, mais, ainsi qu’il est mentionné ci-dessus, l’ARC a établi de nouvelles cotisations en tenant pour acquis qu’il s’agissait d’un gain réalisé au titre du revenu. Comme il est indiqué plus haut, l’intimée a maintenant concédé que le produit devrait être imposé à titre de gain en capital.
+VI. PRINCIPES JURIDIQUES
+A. Cotisations fondées sur la valeur nette
+[14] Les principes sous-jacents à la méthode de la valeur nette ont été résumés comme suit par le juge Bonner :
+La cotisation suivant la valeur nette présuppose la mesure indirecte du revenu gagné au cours d’une période déterminée. La valeur nette d’un particulier, c’est‑à‑dire l’excédent de son actif sur son passif, est calculée au début et à la fin d’une période. La cotisation repose sur l’hypothèse que la totalité d’une augmentation quelconque de la valeur nette durant la période en question (dans la mesure où cette augmentation n’est pas attribuable à des sources non imposables, telles qu’un don ou un héritage), plus les dépenses faites au cours de cette période à des fins personnelles, constituent le montant du revenu de la personne pour la période en question [7] .
+Dans l’arrêt Hsu, la Cour d’appel fédérale a adopté l’énoncé suivant, fait par le juge Bowman (tel était alors son titre) dans la décision Bigayan, de la méthodologie suivie pour l’établissement d’une cotisation fondée sur la valeur nette :
+[...] [La méthode de la valeur nette] repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année à sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus-values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. [8]
+[15] Lorsque le ministre établit une cotisation, y compris une cotisation fondée sur la valeur nette, aux termes du paragraphe 152(7) de la LIR, il existe une présomption de validité en faveur de la cotisation [9] . Autrement dit, une cotisation fondée sur la valeur nette est présumée valide, à moins que le contribuable ne parvienne à démontrer que les calculs du ministre sont erronés [10] .
+[16] Pour démontrer qu’une cotisation fondée sur la valeur nette est erronée, un contribuable doit produire des éléments de preuve précis [11] , convaincants [12] et crédibles démontrant l’erreur contenue dans la cotisation [13] .
+B. Pénalités
+[17] La partie liminaire du paragraphe 163(2) de la LIR prescrit ce qui suit :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration [...] rempli[e], produit[e] ou présenté[e] [...] pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...]
+Puis les alinéas 163(2)a) à g) de la LIR prévoient une méthode, à caractère de formule, de calcul du montant de la pénalité.
+[18] Concernant le fardeau de la preuve relativement à la pénalité prescrite au paragraphe 163(2) de la LIR, le paragraphe 163(3) prévoit ce qui suit :
+163(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article [...], le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+VII. ANALYSE
+[19] Lors de son interrogatoire principal, M. Duffy a contesté l’analyse de la valeur nette effectuée par l’ARC, ce qu’il a fait en présentant des éléments de preuve concernant plusieurs des éléments d’actif, des éléments de passif et des dépenses personnelles dont l’ARC a tenu compte pour effectuer cette analyse [14] . Ces éléments sont résumés ci-dessous, dans l’ordre où ils ont été abordés lors de l’audience.
+A. Compte Qtrade : conversion de devises
+[20] En 2012, le compte Qtrade de M. Duffy consistait en des comptes sur marge comprenant des placements et dettes canadiens et des placements et dettes américains [15] . À la fin de 2011, la valeur des éléments d’actif dans le compte sur marge canadien et le compte sur marge américain s’élevait à 191 177 $CAN et à 248 098 $US respectivement, et les montants des passifs s’élevaient à 466 $CAN et à 248 123 $US respectivement. Ces mêmes montants constituaient aussi les soldes d’ouverture pour 2012.
+[21] En faisant sa cotisation fondée sur la valeur nette, l’ARC a converti en devise canadienne le montant du passif dans le compte sur marge américain en utilisant un taux de change de 1,0183.
+[22] L’ARC n’a pas converti en devise canadienne la valeur au 31 décembre 2011 des placements dans le compte sur marge américain. Cela a eu pour conséquence l’utilisation par l’ARC d’une valeur réduite comme solde d’ouverture pour 2012 en ce qui concerne le compte sur marge combiné. En effet, l’ARC a indiqué un montant de 439 275 $CAN comme valeur du compte sur marge combiné, tandis que M. Duffy, après avoir converti en devise canadienne les éléments d’actif et de passif du compte sur marge américain, a indiqué une valeur de 443 837 $CAN.
+[23] Au 31 décembre 2012, la valeur des actifs dans les comptes sur marge canadien et américain s’élevait à 196 663 $CAN et à 265 102 $US respectivement, et celle des passifs s’élevait à 52 286 $CAN et à 217 399 $US respectivement. L’ARC a utilisé un taux de conversion de 0,9938 pour convertir les passifs américains de 217 399 $US en 216 051 $CAN. Toutefois, l’ARC n’a pas converti en devise canadienne la valeur des actifs dans le compte sur marge américain. Par conséquent, l’ARC a indiqué 461 765 $CAN comme valeur des actifs du compte sur marge combiné au 31 décembre 2012, tandis que M. Duffy a indiqué une valeur de 460 121 $CAN.
+[24] Lors de son interrogatoire principal, la vérificatrice de l’ARC a reconnu que la valeur des actifs dans le compte sur marge américain au 31 décembre 2011 et au 31 décembre 2012 aurait dû être convertie en devise canadienne [16] . En conséquence, le solde d’ouverture utilisé par l’ARC était sous-évalué de 4 562 $ (c’est-à-dire 443 837 $ − 439 275 $) et le solde de fermeture était surévalué de 1 644 $ (c’est-à-dire 461 765 $ − 460 121 $). Ainsi, l’augmentation de la valeur nette du compte sur marge combiné en 2012, selon le calcul de l’ARC, était trop élevée de 6 206 $ (c’est-à-dire 4 562 $ + 1 644 $).
+B. Compte Visa et compte bancaire
+[25] Dans son analyse de la valeur nette, l’un des éléments de passif dont l’ARC a tenu compte était les cartes de crédit Visa de M. et de Mme Duffy. Le relevé mensuel envoyé par Visa au début de janvier 2013, couvrant la période du 5 décembre 2012 au 4 janvier 2013, indiquait un solde impayé de 4 588,80 $. Deux dépenses indiquées sur le relevé ont été engagées le 1er janvier 2013; il s’agit de montants de 90,75 $ et de 62,14 $, pour un total de 152,89 $ [17] . Comme ces dépenses ont été engagées après 2012, le passif doit être réduit en conséquence.
+[26] Le 31 décembre 2012, M. Duffy a fait un paiement de 1 700 $, lequel a été inscrit en diminution du solde impayé du compte Visa. Le paiement n’a été porté à son compte Visa que le 2 janvier 2013 [18] . M. Duffy fait valoir que, comme le paiement n’a été porté à son compte Visa que le 2 janvier 2013, le montant de sa dette Visa au 31 décembre 2012 était supérieur à 4 588,80 $. Or, je suis d’avis qu’aux fins d’une analyse de la valeur nette, c’est en règle générale la date de la transaction plutôt que la date à laquelle elle est portée au compte qui devrait être retenue.
+[27] M. Duffy a fait valoir un autre point concernant le paiement de 1 700 $. Il a renvoyé la Cour au relevé de son compte bancaire personnel à la RBC pour la période du 7 décembre 2012 au 8 janvier 2013 [19] . Ce relevé indique qu’un virement bancaire en ligne de 1 700 $ a été effectué le 2 janvier 2013. M. Duffy a précisé que ce virement se rapportait au paiement fait relativement à son compte Visa. Au 31 décembre 2012, le solde du compte personnel était de 26 782,88 $. Dans son analyse de la valeur nette, l’ARC a utilisé pour ce compte le montant de 26 783 $ comme valeur de l’actif à la fin de l’année. Ainsi, le montant utilisé par l’ARC comme solde du compte comprenait les 1 700 $ utilisés pour payer Visa. M. Duffy prétend que l’ARC a comptabilisé des montants en double et que l’élément de passif que représente son compte Visa devrait être augmenté de 1 700 $ ou que la valeur de l’élément de son actif que représente son compte bancaire personnel devrait être réduit de 1 700 $.
+[28] Parlant de cette situation pendant son interrogatoire principal, la vérificatrice de l’ARC a déclaré ce qui suit :
+[traduction]
+Eh bien, la valeur nette est un état des soldes à une date précise et, au 31 décembre, le solde figurant au relevé était celui indiqué sur l’état de la valeur nette. Je suis bien consciente qu’il y a un rajustement pour le 152, qui représente deux opérations effectuées le 1er janvier, mais mes renseignements sont fondés sur ce que j’ai, et les documents produits indiquaient ce solde au 31 décembre [20] .
+Je crois comprendre que, lorsque la vérificatrice a parlé du « 152 », elle voulait dire le montant de 152,89 $, soit le total des deux dépenses engagées le 1er janvier 2013 (voir le paragraphe 25 ci-dessus). Il semble aussi qu’elle reconnaissait peut-être qu’un rajustement devrait être effectué pour le montant de 152,89 $, d’autant plus qu’elle a admis par la suite avoir utilisé le solde du compte Visa au 4 janvier 2013 plutôt que de calculer celui au 31 décembre 2012 [21] .
+[29] Il ressort clairement de mon examen du relevé du compte Visa et du relevé du compte bancaire personnel [22] de M. Duffy que l’ARC a traité le paiement de 1 700 $ comme ayant réduit le passif de M. Duffy au 31 décembre 2012. Toutefois, l’ARC a aussi inclus ce montant de 1 700 $ dans l’actif de M. Duffy au 31 décembre 2012. Or, je ne pense pas que l’ARC puisse gagner sur les deux tableaux. Par conséquent, reconnaissant que l’ARC a traité le paiement de 1 700 $ comme ayant réduit le passif de M. Duffy au 31 décembre 2012, je suis d’avis que l’actif de M. Duffy au 31 décembre 2012 devrait être rajusté à la baisse de 1 700 $. De plus, le passif de M. Duffy au 31 décembre 2012 devrait être rajusté de manière à le réduire de 152,89 $ (c’est‑à‑dire 90,75 $ + 62,14 $), étant donné que les dépenses en question ont été engagées en 2013. Il en résulte que la valeur nette de M. Duffy au 31 décembre 2012 est diminuée de 1 547,11 $ (c’est-à-dire 1 700 $ – 152,89 $).
+C. Impôt foncier des propriétés de la rue Pelham
+[30] En 2012, M. et Mme Duffy possédaient deux immeubles locatifs situés au 1131 et au 1133, rue Pelham, à Fonthill, en Ontario. M. Duffy a produit des imprimés provenant du service des impôts fonciers de la ville de Pelham. D’après ces imprimés, les soldes de l’impôt foncier impayé pour les deux propriétés au 31 décembre 2012 s’élevaient respectivement à 2 766,66 $ et à 1 118,66 $, soit une dette impayée totale de 3 952,32 $ [23] . Selon M. Duffy, l’ARC, dans son analyse de la valeur nette, n’a pas pris en compte cette dette au titre de l’impôt foncier.
+[31] Au cours de son interrogatoire principal, la vérificatrice de l’ARC a déclaré que, durant la vérification, M. et Mme Duffy n’avaient pas fourni de renseignements à l’ARC concernant la dette d’impôt foncier pour les propriétés susmentionnées. Elle a dit qu’elle ne savait pas trop à quoi ce montant (c’est-à-dire celui de 3 952,32 $) se rapportait [24] . Quoique son témoignage à ce sujet n’ait pas été concluant, elle a tout de même admis qu’il était possible que l’ARC n’ait pas tenu compte de la dette d’impôt foncier de 3 952,32 $.
+[32] Comme la vérificatrice de l’ARC n’a fourni aucun élément de preuve démontrant que l’ARC avait pris en compte la dette d’impôt foncier de 3 952,32 $ en effectuant son analyse de la valeur nette, je retiens le témoignage de M. Duffy (qui n’a pas été contre-interrogé) selon lequel l’ARC n’a pas tenu compte de la dette d’impôt foncier en calculant les dettes impayées de M. et de Mme Duffy au 31 décembre 2012. Je ne critique pas l’ARC pour cette omission, puisqu’il semble que M. et Mme Duffy n’aient peut-être pas fourni à l’ARC en temps opportun au cours de la vérification la documentation relative à l’impôt foncier. Néanmoins, aux fins de l’espèce, le montant combiné des dettes impayées de M. et de Mme Duffy au 31 décembre 2012 devrait être augmenté de 3 952,32 $, soit le montant de la dette d’impôt foncier impayée.
+D. Compte Qtrade : frais d’intérêts
+[33] En 2012, M. Duffy a eu à payer des frais d’intérêts de 3 392,47 $CAN relativement à son compte sur marge canadien et de 9 533,56 $US relativement à son compte sur marge américain [25] . M. Duffy a dit qu’aux fins de l’analyse de la valeur nette, l’ARC a traité le montant de 12 926,03 $ (c’est-à-dire 3 392,47 $ + 9 533,56 $) [26] comme une dépense personnelle. Il a témoigné que les intérêts étaient prélevés automatiquement sur le compte, de sorte qu’il n’avait pas à utiliser de fonds provenant d’une autre source pour payer les intérêts. Selon lui, le montant de 12 926,03 $ n’aurait pas dû être traité comme une dépense personnelle, étant donné qu’il n’a pas utilisé de fonds personnels pris ailleurs que dans le compte Qtrade pour payer ces intérêts. Il a aussi exprimé l’opinion selon laquelle l’ARC avait traité le montant de 12 926,03 $ à la fois comme une dépense dans le compte de courtage et comme une dépense personnelle, ce qu’il considère comme une double comptabilisation [27] .
+[34] La vérificatrice de l’ARC a expliqué que, dans l’analyse de la valeur nette, l’ARC a considéré les intérêts du compte Qtrade comme une dépense personnelle, mais que l’ARC a également augmenté d’autant le passif de M. et de Mme Duffy. Selon la vérificatrice, la dépense personnelle au titre des intérêts et le passif au titre des intérêts se compensent [28] .
+[35] Bien que M. Duffy soit d’avis que le traitement par l’ARC de la dépense d’intérêts dans le compte Qtrade ait entraîné une double comptabilisation plutôt qu’une compensation, il ne m’a renvoyé à aucun document de travail ni à aucun autre document de l’ARC pour démontrer qu’il y a bien eu double comptabilisation. En l’absence d’une preuve claire de double comptabilisation, j’accepte l’explication de la vérificatrice de l’ARC selon laquelle les frais d’intérêts pour le compte Qtrade sont compensés par l’augmentation du passif.
+E. Obligation fiscale
+[36] La T1 Générale — Déclaration de revenus et de prestations produite par M. Duffy pour 2012 indiquait que son solde dû était de 6 014,35 $ pour cette année d’imposition. [29] La T1 Générale — Déclaration générale de revenus et de prestations produite par Mme Duffy pour 2012 indiquait que son solde dû était de 5 362,44 $ pour cette année d’imposition [30] .
+[37] M. Duffy a témoigné que sa femme et lui avaient chacun un arriéré d’impôt sur le revenu pour des années précédentes, lesquels arriérés, ajoutés aux montants qu’ils doivent pour 2012 (y compris les intérêts), donnent en tout pour les deux une dette fiscale impayée de 26 819 $ au 31 décembre 2012, dont, selon M. Duffy, l’ARC a omis de tenir compte dans son analyse de la valeur nette [31] .
+[38] Lors de son témoignage, la vérificatrice de l’ARC a déclaré que l’ARC ne tient pas compte de l’impôt sur le revenu exigible lorsqu’elle effectue une analyse de la valeur nette, puisque cela l’obligerait à indiquer une dépense personnelle compensatrice du même montant que l’impôt exigible. Au contraire, dans l’analyse de la valeur nette, l’ARC comptabilise l’impôt sur le revenu lorsqu’il est payé, plutôt qu’au moment où il devient exigible [32] .
+[39] Dans le contexte d’une cotisation fondée sur la valeur nette, une façon de déterminer le traitement approprié d’une dette actuelle d’impôt sur le revenu (c’est-à-dire l’impôt exigible pour l’année faisant l’objet de la vérification) consiste à considérer le cas d’un contribuable hypothétique qui fait l’objet d’une analyse de la valeur nette et dont le taux combiné (fédéral et provincial) moyen d’impôt sur le revenu est de 40 %. Supposons que la valeur nette de ce contribuable est de 500 000 $ au début de l’année d’imposition dont il s’agit. Supposons aussi que le contribuable a gagné un revenu de 100 000 $ au cours de l’année, mais que sa valeur nette n’a connu aucun autre changement, de sorte qu’à la fin de l’année, sa valeur nette est de 600 000 $ (c’est‑à-dire 500 000 $ + 100 000 $). Supposons en outre qu’aucune dépense n’a été engagée à des fins de consommation personnelle au cours de l’année. L’impôt payable sur le revenu de 100 000 $ est de 40 000 $ (c’est-à-dire 40 % de 100 000 $).
+[40] M. Duffy soutient que la dette d’impôt sur le revenu pour l’année en cours devrait, comme tout autre élément de passif, être soustrait dans le calcul de la valeur nette à la fin de l’année. Si M. Duffy a raison, la dette d’impôt sur le revenu de 40 000 $ serait soustraite de la valeur nette à la fin de l’année du contribuable hypothétique, de sorte que sa valeur nette serait de 560 000 $ (c’est‑à‑dire 600 000 $ – 40 000 $). Ainsi, il faudrait conclure que son revenu pour l’année n’est que de 60 000 $ (c’est-à-dire 560 000 $ – 500 000 $), plutôt que de 100 000 $, comme il est indiqué au paragraphe précédent.
+[41] Une autre difficulté tient à ce que la thèse de M. Duffy entraîne la circularité puisque la dette fiscale au titre d’un revenu de 60 000 $ serait de 24 000 $ (c’est-à-dire 40 % de 60 000 $). Se poserait alors la question de savoir si la dette fiscale de 24 000 $ devrait être soustraite d’une valeur nette préliminaire de fin d’année de 600 000 $ ou de 560 000 $. Chaque approche produit une valeur nette différente de fin d’année, ce qui aurait pour conséquence un montant de revenu différent pour l’année et un montant d’impôt payable différent, et ainsi de suite. Je préfère donc la thèse de la vérificatrice de l’ARC, expliquée ci-dessus, selon laquelle l’impôt sur le revenu payable pour l’année en cours ne doit pas être pris en compte dans l’analyse de la valeur nette.
+[42] En ce qui concerne l’arriéré d’impôt sur le revenu pour des années d’imposition précédentes, si le montant de l’arriéré est le même tant au début qu’à la fin de l’année d’imposition faisant l’objet de l’analyse de la valeur nette, il n’y a aucun effet net sur le calcul de la valeur nette du contribuable, que l’arriéré d’impôt sur le revenu soit pris en compte ou non dans l’analyse de la valeur nette.
+[43] L’approche décrite ci-dessus est conforme à l’énoncé suivant dans l’article susmentionné, présenté lors de la conférence sur la fiscalité de 2007 de la Colombie-Britannique :
+[traduction]
+Les dettes d’impôt sur le revenu ne doivent pas être considérées comme des éléments de passif. Cela est vrai même si elles existent au début de la période visée par la vérification. La raison de cette exclusion est que l’ARC choisit de traiter les paiements d’impôt sur le revenu comme des dépenses personnelles pour l’année dans laquelle ils sont effectués; ainsi, les traiter aussi comme un élément de passif entraînera une double comptabilisation lorsque cet élément de passif est réduit [33] . [Notes de bas de page omises.]
+Au sujet de la dette d’impôt sur le revenu pour l’année d’imposition faisant l’objet de la cotisation fondée sur la valeur nette, l’article dit ce qui suit :
+[traduction]
+Les dettes d’impôt sur le revenu résultant de la cotisation fondée sur la valeur nette ne tombent dans aucune des quatre catégories d’éléments de passif acceptables et, par conséquent, elles doivent être écartées [34] .
+Ainsi, les appelants n’ont pas réussi à démontrer que l’ARC a commis une erreur en ne tenant pas compte de la dette d’impôt sur le revenu de 2012 ou de l’arriéré d’impôt sur le revenu pour des années antérieures.
+F. Dépenses engagées au Mexique
+[44] En 2012, M. et Mme Duffy étaient propriétaires d’un appartement en copropriété au Mexique, où ils se sont rendus à cinq ou six reprises cette année-là. Afin de s’assurer de disposer de liquidités lorsqu’il se trouvait au Mexique, M. Duffy, avant de quitter le Canada, déposait ou virait généralement des fonds dans un compte personnel à la Banque de Nouvelle-Écosse (la Banque Scotia). Ensuite, lorsque sa femme ou lui avait besoin d’argent au Mexique, ils retiraient des pesos d’un guichet automatique bancaire (un GAB). Il semble que le montant total des retraits en pesos effectués dans un GAB au Mexique en 2012 correspondait à environ 4 694 $CAN [35] .
+[45] Chaque fois que M. et Mme Duffy rentraient au Canada après un voyage au Mexique, s’il y avait à ce moment dans le compte à la Banque Scotia des fonds dont ils avaient besoin ailleurs, ils retiraient des dollars au Canada ou les viraient dans un autre compte bancaire canadien. En 2012, le montant total des retraits et des virements en dollars s’élevait à 3 703 $. M. Duffy a indiqué que ce montant comprenait des frais de service de 3 $ et que le solde de 3 700 $ correspondait au montant des retraits faits au Canada [36] .
+[46] Lors de son analyse de la valeur nette, l’ARC a traité le montant total des retraits du compte à la Banque Scotia faits en 2012, soit 8 897 $ (4 694 $ + 3 703 $), comme une dépense personnelle.
+[47] M. Duffy prétend que, puisqu’il n’a retiré au Mexique que des pesos équivalant à 4 694 $ en devise canadienne, seul ce montant devrait être considéré comme une dépense personnelle.
+[48] La vérificatrice de l’ARC a affirmé que, dans l’analyse de la valeur nette, l’ARC a considéré la totalité des fonds retirés du compte à la Banque Scotia comme ayant été utilisés pour des dépenses personnelles. Selon l’ARC, il importait peu, aux fins de l’analyse de la valeur nette, que les fonds aient été retirés au Mexique ou au Canada [37] .
+[49] Sur la question de la pertinence, aux fins de l’analyse de la valeur nette, des retraits totalisant 3 700 $ effectués au Canada, l’échange suivant a eu lieu lors de l’audience :
+[traduction]
+La Cour : [...] le montant de 3 700 $ qui a été retiré au Canada, comment cela entrait-il en ligne de compte dans l’analyse de la valeur nette?
+L’avocat des appelants : Eh bien, nous ne le savons pas [...] ce sommaire des dépenses personnelles est –– [...] les chiffres sous la rubrique « ARC » représentent l’analyse des dépenses personnelles effectuée par l’ARC. Et on dit voilà ce sur quoi vous avez dépensé. Et on dit que vous avez dépensé 8 897 $ au Mexique. Quant à l’autre 3 000 $, il n’y a pas de catégorie dans laquelle on peut le ranger. On ne prétend pas qu’il existe quelque autre dépense personnelle que ce soit. Nous présumons que les autres dépenses sont comprises dans les autres lignes. [38]
+Bien que M. Duffy et son avocat aient fait valoir que le montant de 3 700 $ a été comptabilisé deux fois à titre de dépenses personnelles, ils ne m’ont présenté aucun document démontrant qu’il y a vraiment eu une telle comptabilisation en double. En l’absence d’éléments de preuve corroborants, la simple hypothèse que cela ait pu se produire est insuffisante pour que cet aspect de l’analyse de la valeur nette soit modifié [39] .
+G. Dépenses d’emploi remboursées
+[50] M. Duffy a expliqué qu’en octobre 2012, 121ON a mis en œuvre une nouvelle procédure pour rembourser ses employés (y compris M. Duffy) des dépenses qu’ils engageaient au nom de 121ON. M. Duffy a produit des copies de reçus pour des dépenses totalisant 1 434,05 $ qu’il a faites personnellement au nom de 121ON en septembre et en octobre 2012 [40] . Le 31 octobre 2012, 121ON a émis un chèque de 1 434,05 $ à l’ordre de M. Duffy en remboursement de ces dépenses.
+[51] M. Duffy soutient que le montant de ce remboursement constituait des fonds non imposables additionnels qu’il a reçus en 2012 et dont l’ARC aurait dû tenir compte dans son analyse de la valeur nette.
+[52] La vérificatrice de l’ARC a témoigné que l’analyse de la valeur nette qui a été effectuée ne comprenait pas une analyse des dépenses faites en espèces. Par conséquent, selon elle, le remboursement des dépenses en octobre 2012 n’aurait eu aucune incidence sur l’analyse de la valeur nette.
+[53] Comme il est mentionné ci-dessus, M. Duffy soutient que le montant remboursé de 1 434,05 $ constituait des [traduction] « fonds additionnels » dont il disposait et dont l’ARC n’a pas tenu compte dans son analyse de la valeur nette [41] . Ce que je vois de problématique dans l’argument de M. Duffy, c’est qu’il n’a présenté aucun élément de preuve pour démontrer en quoi l’omission de l’ARC de tenir compte du remboursement a eu une incidence sur l’analyse de sa valeur nette. Si je comprends bien, avant que M. Duffy n’utilise son propre argent pour payer des dépenses de 1 434,05 $ au nom de 121ON, ses ressources financières comprenaient les 1 434,05 $ qu’il a par la suite utilisés pour payer ces dépenses. Après le paiement des dépenses, l’argent comptant dont il disposait a été réduit de 1 434,05 $, mais cette somme a été remplacée par une créance du même montant (c’est-à-dire le droit d’obtenir de 121ON un remboursement de 1 434,05 $). Par suite de ce remboursement, fait le 31 octobre 2012, la créance a été remplacée par les fonds remboursés, et la situation financière globale de M. Duffy était la même qu’avant qu’il n’engage les dépenses. On ne m’a donc pas convaincu que le traitement par l’ARC des dépenses remboursées a eu une incidence sur le calcul de la valeur nette de M. Duffy au 31 décembre 2012.
+H. Compte Qtrade : remboursement de capital
+[54] M. Duffy a témoigné qu’en 2012 il détenait dans son compte sur marge Qtrade des placements dans certaines fiducies de fonds commun de placement qui faisaient des versements fixes périodiques. On s’attendait à ce que les versements périodiques viennent des revenus de chaque fiducie, mais si le revenu gagné au cours d’une période donnée était insuffisant, la fiducie comblerait le déficit en incluant dans le versement une distribution de capital. Dans son témoignage, M. Duffy a déclaré que le montant en capital distribué en 2012 était indiqué à la case 42 des feuillets T3 – État des revenus de fiducie (répartitions et attributions) que les fiducies lui ont remis. M. Duffy a produit deux feuillets T3 indiquant à la case 42 des montants de 11 649,36 $ et de 987,56 $ respectivement, pour une distribution de capital totale de 12 636,92 $ selon la case 42 [42] . M. Duffy soutient que l’ARC n’aurait pas dû inclure cette distribution de capital dans son revenu.
+[55] La vérificatrice de l’ARC a déclaré qu’un feuillet T3 indique une source de revenu imposable et qu’elle ne croyait pas qu’un feuillet de renseignements fiscaux soit utilisé pour indiquer un remboursement des propres fonds d’un investisseur. Elle a dit aussi qu’elle ignorait l’effet de l’indication d’un montant à la case 42 [43] .
+[56] Les copies de deux feuillets T3 produits en preuve par M. Duffy ne présentent que la première page du formulaire et non la page contenant les instructions ainsi que les descriptions des différentes cases. Comme le feuillet T3 – État des revenus de fiducie (répartitions et attributions) est un formulaire prescrit, je suis d’avis que je peux tenir compte de sa deuxième page, bien qu’elle n’ait pas été produite en preuve. À la deuxième page du formulaire, la case 42 est décrite comme suit :
+Case 42 – Montant nécessitant un rajustement du prix de base — Ce montant représente une distribution ou un remboursement de capital de la fiducie. [44]
+[57] Ainsi, la description de la case 42 que donne le formulaire prescrit correspond au témoignage de M. Duffy selon lequel le montant de 12 636,92 $ (c’est-à-dire 11 649,36 $ + 987,56 $) représentait une distribution ou un remboursement de capital plutôt qu’une attribution de revenu. En conséquence, le montant du revenu de M. Duffy pour 2012 calculé par l’ARC doit être réduit du montant de 12 636,92 $.
+I. Remboursement potentiel de loyers
+[58] Comme il est mentionné ci-dessus, l’une des propriétés locatives de M. et de Mme Duffy était située au 1133, rue Pelham, à Fonthill, en Ontario. Cette propriété a été louée à un locataire d’environ juillet 2012 jusqu’à septembre 2013, quand le locataire a acheté la propriété. M. Duffy a témoigné que, lorsqu’il s’est initialement entendu avec le locataire sur la location de la propriété à celui-ci, le loyer a été fixé à 1 500 $ par mois, mais il était prévu que, si le locataire achetait la propriété, il recevrait un crédit de 500 $ pour chaque mois de loyer payé. En 2012, M. et Mme Duffy ont perçu des loyers totalisant 9 000 $ (c’est-à-dire 1 500 $ x 6). En septembre 2013, lorsque le locataire s’est porté acquéreur de la propriété, il a reçu un crédit de 7 500 $ (c’est-à-dire 500 $ x 15). M. Duffy a fait valoir que seulement un montant de 6 000 $ (c’est‑à‑dire 1 000 $ x 6) de revenu locatif aurait dû être inclus dans le calcul de son revenu pour 2012.
+[59] La position de la vérificatrice de l’ARC a été que l’option ne pouvait être exercée qu’en 2013 et que, comme le locataire n’a acheté la propriété qu’en septembre 2013, le remboursement de 500 $ par mois n’était que conditionnel en 2012, de sorte que le montant à inclure dans le revenu pour 2012 était 9 000 $.
+[60] Après le témoignage de la vérificatrice de l’ARC, l’avocat des appelants a essentiellement informé la Cour que M. et Mme Duffy avaient décidé de concéder ce point [45] et de reconnaître que le revenu locatif en 2012 pour la propriété située au 1133, rue Pelham, était de 9 000 $ (et non 6 000 $).
+J. Frais de véhicule à moteur
+[61] En faisant sa vérification pour 2012, l’ARC a établi que 121ON avait engagé les frais de véhicule suivants :
+Essence et huile
+16 059,97 $
+Réparations et entretien
+1 388,67 $
+Total des frais de véhicule
+17 448,64 $
+En outre, l’ARC a établi que M. et Mme Duffy, à titre d’actionnaires de 121ON, avaient engagé personnellement des frais de véhicule de 10 635,44 $, lesquels leur ont été remboursés par 121ON [46] .
+[62] M. Duffy a témoigné que Mme Duffy possédait un véhicule de marque Nissan qu’elle utilisait à des fins personnelles. M. Duffy a aussi déclaré que, lorsqu’il avait besoin d’utiliser un véhicule à des fins personnelles, il empruntait soit la Nissan, soit la Jeep de son fils, laquelle était garée à l’une des propriétés de M. Duffy.
+[63] Selon le témoignage de M. Duffy, 121ON possédait quatre véhicules en 2012, soit des camionnettes des années 1992, 2007 et 2011 ainsi qu’une fourgonnette de l’année 2004. Il conduisait la camionnette de l’année 2011 aux fins de son emploi. Il a déclaré n’avoir jamais une seule fois utilisé les véhicules appartenant à l’entreprise (y compris la camionnette de l’année 2011) à des fins personnelles.
+[64] M. Duffy a témoigné que toutes les dépenses relatives à la Nissan de Mme Duffy avaient été payées par eux deux personnellement et que 121ON ne les leur avait pas remboursées. En conséquence, M. Duffy a soutenu que 121ON pouvait déduire dans le calcul de son revenu pour 2012 la totalité du montant de 17 448,64 $. Ils n’ont jamais, selon lui, présenté à 121ON, pour paiement ou remboursement, de facture se rapportant à la Nissan.
+[65] La vérificatrice de l’ARC a témoigné que la plupart des frais de véhicule à moteur avaient été payés par M. et Mme Duffy, mais c’est 121ON qui a demandé la déduction au titre de ces frais. Lors de la vérification, la vérificatrice a décidé que les frais de véhicule à moteur devaient être répartis entre et ses actionnaires (c’est-à-dire M. et Mme Duffy). Cette répartition visait à attribuer certains des frais de véhicule à moteur à M. et à Mme Duffy à titre de dépenses personnelles. Pour 2012, le montant ainsi attribué était de 3 265 $, dont la déduction a alors été refusée à 121ON [47] . Quand la vérificatrice expliquait cette attribution pendant son interrogatoire principal, l’échange suivant a eu lieu :
+[TRADUCTION]
+Q. Pourquoi ce montant [c’est-à-dire 3 265 $]? Comment êtes-vous parvenue à ce montant?
+R. Je crois qu’il ne s’agissait que d’une attribution.
+Q. Que voulez-vous dire par là?
+R. Je n’ai pas avec moi la documentation pour étayer ces documents. Elle faisait partie de ma vérification et je n’ai pas avec moi le dossier de vérification au complet. [48]
+[66] Comme la vérificatrice de l’ARC n’a pas expliqué pourquoi la déduction d’un montant de 3 265 $ à titre de dépenses a été refusée à 121ON et ce même montant inclus dans l’analyse de la valeur nette comme représentant des dépenses personnelles de M. et de Mme Duffy, et comme la vérificatrice n’avait pas son dossier de vérification avec elle à l’audience, de sorte qu’elle n’était pas en mesure d’expliquer davantage cette attribution, je suis porté à conclure que rien n’étayait l’attribution des 3 265 $ à M. et à Mme Duffy à titre de dépenses personnelles. En outre, comme il est mentionné ci-dessus, l’avocat de l’intimée n’a pas contre-interrogé M. Duffy. N’a pas été contestée, par conséquent, l’allégation de ce dernier selon laquelle Mme Duffy et lui payaient eux-mêmes tous leurs frais de véhicule à moteur et selon laquelle 121ON ne les leur remboursait pas. Ainsi, aux fins de l’analyse de la valeur nette, le revenu combiné de M. et de Mme Duffy pour 2012 devrait être réduit de 3 265 $ et le revenu de 121ON devrait être réduit d’autant.
+K. Résumé
+[67] Les appelants ont réussi à démontrer que le revenu combiné de M. et de Mme Duffy pour 2012, établi selon l’analyse de la valeur nette effectué par l’ARC, devrait être réduit du montant de chacun des éléments suivants :
+Compte Qtrade : conversion de devises
+6 206,00 $
+Compte Visa et compte bancaire
+1 547,11 $
+Impôt foncier des propriétés de la rue Pelham
+3 952,32 $
+Compte Qtrade : remboursement de capital
+12 636,92 $
+Frais de véhicule à moteur
+3 265,00 $
+Total
+27 607,35 $
+[68] Comme il est indiqué plus haut, une fois prises en compte les concessions faites par l’intimée au début de l’audience, le montant du revenu combiné de M. et de Mme Duffy encore en litige était de 27 237,80 $ (c’est-à-dire 13 618,90 $ x 2). De même, le montant du revenu de 121ON encore en litige était de 27 237,90 $ (ou peut-être 27 237,80 $, selon le calcul — le mien ou celui de l’ARC — que l’on utilise). Comme j’ai conclu que le montant du revenu établi par l’ARC dans son analyse de la valeur nette était trop élevé de 27 607,35 $, il s’ensuit qu’en ce qui concerne le revenu non déclaré, les appels des appelants doivent être accueillis.
+L. Pénalités
+[69] Puisque j’ai conclu qu’aucun des appelants n’a omis de déclarer la totalité de ses revenus pour 2012, il s’ensuit qu’aucun d’eux n’a fait un faux énoncé ou une omission dans sa déclaration de revenus pour 2012. Cela étant, rien ne justifiait l’imposition de pénalités aux termes du paragraphe 163(2) de la LIR relativement à l’année d’imposition 2012.
+[70] En outre, comme il est mentionné plus haut, aux termes du paragraphe 163(3) de la LIR, le ministre a la charge d’établir les faits qui justifient l’imposition d’une pénalité en vertu du paragraphe 163(2). L’avocat de l’intimée n’a pas contre-interrogé M. Duffy et l’intimée n’a produit aucun élément de preuve indiquant que l’un ou l’autre des appelants avait sciemment, ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration de revenus, ou y avait participé, y avait consenti ou y avait acquiescé. Par conséquent, les pénalités imposées aux appelants n’étaient pas justifiées et devraient être annulées.
+VIII. CONCLUSION
+[71] Les appels sont accueillis, avec dépens, et les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelle cotisation conformément aux présents motifs, lesquels tiennent compte des concessions respectives des parties, le tout tel qu’il est exposé ci-dessus.
+[72] Les parties disposent d’un délai de 30 jours suivant la date du jugement tranchant les appels pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi les appelants disposeront d’un délai supplémentaire de 30 jours pour déposer des observations écrites sur les dépens et l’intimée aura ensuite 30 jours additionnels pour déposer une réponse écrite. De telles observations ne doivent pas dépasser cinq pages. Si, dans les délais impartis, les parties n’informent pas la Cour qu’elles sont parvenues à un accord et si elles ne déposent pas d’observations, les dépens seront adjugés aux appelants conformément au tarif.
+Signé à Ottawa, Canada, ce 4e jour d’avril 2019.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+ce 4e jour de décembre 2020.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2019 CCI 75
+NO DU DOSSIER DE LA COUR :
+2016-1697(IT)G, 2016-1703(IT)G,
+2016-1705(IT)G
+INTITULÉ :
+MICHAEL DUFFY, PAMELA DUFFY et 1218769 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 13 mars 2018
+DATE DE DÉPÔT DES OBSERVATIONS :
+Le 13 avril 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 4 avril 2019
+COMPARUTIONS :
+Avocat des appelants :
+Me Glen W. McCann
+Avocat de l’intimée :
+Me Stan W. McDonald
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Glen W. McCann
+Cabinet :
+Sullivan Mahoney LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), modifiée.
+[2] Lettre du 28 mars 2018 de l’avocat de l’intimée au greffier de la Cour; transcription de l’audience, de la ligne 16 de la page 4 à la ligne 3 de la page 8.
+[3] Lettre du 13 avril 2018 de l’avocat des appelants au greffier de la Cour, à la page 2, paragraphe b).
+[4] Ibid., page 2, paragraphe a); transcription de l’audience, de la ligne 3 de la page 78 à la ligne 4 de la page 79. Même si à l’audience on ne s’est pas focalisé sur l’année d’imposition 2011, je crois comprendre, me fondant sur les commentaires de l’avocat des appelants, que le montant de la déduction au titre des frais de location que M. et Mme Duffy peuvent demander dans le calcul de leur revenu pour 2011 se limite à 2 131,50 $ pour chacun d’eux.
+[5] Ibid., lignes 9 à 24 de la page 102. Voir également les paragraphes 58 à 60 ci-dessous.
+[6] À vrai dire, je pense que le montant du présumé revenu non déclaré de 121ON devrait être de 27 237,80 $ (c’est-à-dire 2 x 13 618,90 $).
+[7] Fletcher c. La Reine, 93-847(IT)G (décision de la Cour canadienne de l’impôt en date du 28 septembre 1994, à la page 2), [1995] 1 CTC 2274, aux pages 2275 et 2276, 95 DTC 134, à la page 135. Voir aussi les décisions Luprypa c. La Reine, [1997] 3 CTC 2363 (CCI), au paragraphe 19, et Trieu c. La Reine, [2000] 1 CTC 2163, 2000 DTC 1422 (CCI), au paragraphe 4.
+[8] Hsu c. La Reine, 2001 CAF 240, au paragraphe 17, citant Bigayan c. La Reine, [2000] 1 CTC 2229, à la page 2230, 2000 DTC 1619, à la page 1619 (CCI).
+[9] Morrow c. La Reine, [1992] 2 CTC 111, à la page 113, 92 DTC 6380, à la page 6381 (CAF); Hsu, précité, note 8, au paragraphe 23; Boroumand c. La Reine, 2015 CCI 239, au paragraphe 52; et Mehravaran c. La Reine, 2015 CCI 209, au paragraphe 10.
+[10] Lai c. La Reine, 2005 CCI 774, [2006] 1 CTC 2441, 2005 DTC 1823, au paragraphe 29.
+[11] Malik c. La Reine, 2011 CCI 224, au paragraphe 25.
+[12] Luprypa, précité, note 7, au paragraphe 22.
+[13] Lai, précité, note 10, au paragraphe 29.
+[14] L’avocat de l’intimée n’a pas contre-interrogé M. Duffy. Voir la transcription de l’audience, lignes 21 à 24 de la page 85 et lignes 13 à 15 de la page 88.
+[15] Dans une analyse de la valeur nette, des complications peuvent survenir si un compte de courtage est traité comme un seul actif. Selon David E. Graham, dans « Anatomy of a Net Worth Assessment » 2007 British Columbia Tax Conference (Canadian Tax Foundation/Fondation canadienne de fiscalité, 2007), 11:1, aux pages 11:12-13, il est généralement préférable de traiter séparément chaque placement et chaque élément de passif d’un compte de courtage. Comme cette approche n’a été suggérée ni par les appelants ni par l’intimée, je ne l’appliquerai pas en l’espèce. Je ne crois pas que l’adoption d’une approche combinée, plutôt que de procéder élément par élément, posera problème en l’espèce, puisque la seule question en litige concerne le manque d’uniformité dans la conversion en devise canadienne, par l’ARC, des montants (en devise américaine) des placements et des passifs dans le compte sur marge américain.
+[16] Transcription de l’audience, lignes 13 à 27 de la page 90.
+[17] Pièce A-1, onglet 37, à la page 2.
+[18] Ibid.
+[19] Pièce A-1, onglet 38.
+[20] Transcription de l’audience, lignes 3 à 9 de la page 91. Il semble que, lorsqu’elle faisait sa vérification, la vérificatrice n’avait peut-être pas accès à tous les documents se rapportant au compte bancaire.
+[21] Ibid., lignes 16 à 27.
+[22] Pièce A-1, onglets 37 et 38.
+[23] Pièce A-1, onglet 36. Lors de l’interrogatoire principal de M. Duffy, son avocat et lui ont tous deux indiqué que le 1131 et le 1133, rue Pelham se trouvaient à Fonthill, en Ontario; toutefois, les documents concernant l’impôt foncier ont été établis par le service de l’impôt foncier de la ville de Pelham. Il semble que Fonthill soit une localité dans la ville de Pelham.
+[24] Transcription de l’audience, lignes 8 et 9 de la page 92.
+[25] Pièce A-1, onglet 20.
+[26] L’ARC n’a pas converti le montant de 9 533,56 $US en devise canadienne, mais a plutôt traité ce montant d’intérêts dans le compte sur marge américain comme s’il s’agissait de 9 533,56 $CAN.
+[27] Transcription de l’audience, lignes 7 à 9 de la page 54.
+[28] Transcription de l’audience, lignes 5 à 23 de la page 93. À supposer que cette compensation existe, je ne pense pas qu’il soit nécessaire de procéder à un rajustement pour tenir compte de l’omission de l’ARC de convertir le montant d’intérêts de 9 533,56 $US en devise canadienne.
+[29] Pièce A-1, onglet 61, déclaration de 2012, à la page 4. À l’onglet 61 de la pièce A-1 se trouvent les déclarations de revenus et de prestations de 2010 et 2011 de Mme Duffy et la déclaration de revenus et de prestations de 2012 de M. Duffy.
+[30] Pièce A-1, onglet 60, déclaration de 2012, à la page 4. À l’onglet 60 de la pièce A-1 se trouvent les déclarations de revenus et de prestations de 2010 et 2011 de M. Duffy et la déclaration de revenus et de prestations de 2012 de Mme Duffy.
+[31] Transcription de l’audience, de la ligne 10 de la page 56 à la ligne 9 de la page 59.
+[32] Ibid., de la ligne 24 de la page 93 à la ligne 15 de la page 94, et de la ligne 26 de la page 99 à la ligne 15 de la page 101.
+[33] Graham, précité, note 15, à la page 11:20.
+[34] Ibid., à la page 11:20, note de bas de page 22. L’article de Graham souligne que les quatre seules catégories de dettes qui devraient être incluses dans l’analyse de la valeur nette sont les dettes qui existaient au début de la période visée par la vérification, les dettes résultant de l’acquisition d’éléments d’actif au cours de la période visée par la vérification, les dettes résultant du paiement d’autres dettes au cours de la période visée par la vérification et les dettes résultant de dépenses personnelles engagées pendant que se faisait la vérification. Ibid., à la page 11:15.
+[35] Transcription de l’audience, de la ligne 14 de la page 59 à la ligne 5 de la page 62, et pièce A-1, onglet 65. La deuxième page à l’onglet 65 de la pièce A-1 indique deux chiffres presque identiques, soit 4 693,67 $ et 4 693,87 $, comme montant total des retraits effectués au Mexique en 2012. Je crois que le bon montant est peut-être un troisième chiffre, soit 4 693,69 $. Compte tenu de l’incertitude concernant ce montant, je l’arrondirai tout simplement à 4 694 $.
+[36] Transcription de l’audience, lignes 23 à 27 de la page 61.
+[37] Transcription de l’audience, lignes 22 à 25 de la page 94.
+[38] Transcription de l’audience, lignes 6 à 17 de la page 63.
+[39] Voir les décisions Haniff c. La Reine, 2011 CCI 112, aux paragraphes 19 à 22; Baker c. La Reine, 2007 CCI 106, aux paragraphes 24 et 25; et 620247 Ontario Ltd. v. The Queen, [1995] GSTC 22, aux paragraphes 8 et 12.
+[40] Pièce A-1, onglet 67.
+[41] Transcription de l’audience, lignes 13 et 14 de la page 65. Cette affirmation a été faite par l’avocat de M. Duffy.
+[42] Pièce A-1, onglet 66, deux dernières pages.
+[43] Transcription de l’audience, de la ligne 24 de la page 95 à la ligne 26 de la page 96.
+[44] Formulaire prescrit générique : feuillet T3 – État des revenus de fiducie (répartitions et attributions) pour 2012, page 2.
+[45] Transcription de l’audience, lignes 10 à 24 de la page 102. Voir le paragraphe 7c) ci‑dessus.
+[46] Pièce A-1, onglet 53.
+[47] Transcription de l’audience, de la ligne 21 de la page 97 à la ligne 16 de la page 98.
+[48] Ibid., lignes 17 à 23 de la page 98.

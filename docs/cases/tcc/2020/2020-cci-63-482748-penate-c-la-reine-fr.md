@@ -1,0 +1,158 @@
+---
+title: "Penate c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482748/index.do"
+last_modified: "2020-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 63"
+citation2: ""
+neutral_citation: "2020 CCI 63"
+decision_date: "2020-07-20"
+language: "fr"
+item_id: "482748"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4592
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:01:52.577000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c1569359f48e4b3a05ac20a6d7607590f672a33547ac252db374799d4752ab5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Penate c. La Reine
+
+- Citation: 2020 CCI 63
+- Decision date: 2020-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4592, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Penate c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-20
+Référence neutre
+2020 CCI 63
+Numéro de dossier
+2017-612(GST)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-612(GST)G
+ENTRE :
+KARLA PENATE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 février 2020, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentante de l’appelante :
+Guadalupe Sibrian
+Avocate de l’intimée :
+Me Karen Truscott
+JUGEMENT
+L’appel interjeté aux termes de la partie IX de la Loi sur la taxe d’accise et daté du 27 octobre 2015, portant sur l’avis de cotisation no 3492985, est accueilli avec dépens en faveur de l’appelant. L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et établissement d’une nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 20e jour de juillet 2020.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 19e jour d'août 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 63
+Date : 20200720
+Dossier : 2017-612(GST)G
+ENTRE :
+KARLA PENATE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Le présent appel porte sur un avis de cotisation daté du 27 octobre 2015 dans lequel le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelante, à titre d’administratrice de Delphina Enterprises Ltd. (la « société »), concernant la TPS/TVH nette non versée, plus les pénalités et les intérêts, pour les périodes de déclaration allant du 1er janvier 2010 au 31 décembre 2012 (la « période »).
+[2] L’entreprise a été constituée en société le 20 mai 2008. L’appelante était la seule administratrice et actionnaire de la société. Dans une industrie à prédominance masculine par ailleurs, elle était la seule femme propriétaire d’une entreprise de toiture au Canada à cette époque. D’après les éléments de preuve, non seulement elle participait activement aux activités quotidiennes d’installation de toiture ([traduction] « [...] J’étais sur le toit [...] » [transcription, à la page 15]), mais elle formait aussi les employés et s’occupait des clients. L’appelante a retenu les services de Guadalupe Sibrian comme directrice générale du bureau pratiquement dès le début de ses activités commerciales. L’une des premières choses que Mme Sibrian a faites a été de conseiller à l’appelante d’engager un comptable externe pour s’assurer que soient adoptées de bonnes pratiques comptables. Hernandez Financials a été engagé en 2008 pour établir les livres et remplir les déclarations de revenu et de TPS/TVH annuelles. Cette entreprise a rempli ces déclarations jusqu’en 2011. Mme Sibrian a témoigné qu’elle rencontrait la comptable externe deux ou trois fois par an pour s’assurer qu’elle tenait correctement les livres.
+[3] La question des versements de la TPS/TVH est devenue un problème en août 2010 lorsque Mme Sibrian a remarqué que 8 000 $ avaient été retirés du compte de la société par l’Agence du revenu du Canada (« Agence »). D’après les éléments de preuve, plusieurs contrats d’entreprise ont été bloqués parce que la société ne pouvait pas remplir ses obligations en matière de versement de salaires. L’appelante a communiqué avec plusieurs de ses employés de confiance qui ont accepté de continuer à travailler sans être rémunérés, jusqu’à ce que la société puisse de nouveau générer un flux de trésorerie en recouvrant plusieurs de ses comptes en souffrance. À cette époque, en 2010, Mme Sibrian s’est renseignée auprès de Business Plans Canada (pièce A-1) et a préparé un plan d’affaires pour la société. Elle a également suivi une formation en comptabilité en ligne pour mieux gérer le bureau (pièce A-2)).
+[4] Début 2011, le cabinet comptable externe a informé l’appelante et Mme Sibrian qu’il y avait des irrégularités relativement à la TPS concernant l’année 2010. C’est alors qu’elles ont décidé d’engager une comptable à plein temps, Dawn Eyben. Mme Eyben a été engagée parce qu’elle comptait plus de 20 ans d’expérience dans la gestion de plusieurs entreprises, notamment dans le secteur de la toiture où elle s’occupait des estimations, de l’établissement des prix et du recouvrement des comptes. Selon les éléments de preuve, elle a été engagée précisément pour régler la question des versements de la TPS.
+[5] Dans son témoignage, Mme Sibrian a affirmé qu’elle était en communication constante avec Mme Eyben au sujet des versements et que, selon les dossiers, la société aurait dû être en mesure de s’acquitter de ses obligations annuelles en matière de production. Cependant, comme l’ont dit l’appelante et Mme Sibrian dans leur témoignage, Mme Penate a été contrainte de faire face au harcèlement de plusieurs entrepreneurs, qui ont retenu le paiement d’un travail de toiture que la société avait effectué en sous-traitance et exigé d’elle des faveurs sexuelles, dont un baiser, un rendez-vous et une proposition de mariage. Même lorsque le paiement, dans certains cas, a finalement été reçu, il a eu des répercussions sur les activités commerciales qui ont résulté en des problèmes de trésorerie dans l’intervalle. Une partie de l’argent n’a jamais été recouvrée. Mme Penate ne pouvait plus se rendre dans des lieux, parfois éloignés, pour effectuer elle-même les estimations en raison des avances sexuelles continues des entrepreneurs. Elle a d’abord confié un poste de préposé aux devis à son frère, mais en raison de la discrimination exercée par plusieurs propriétaires, qui interdisaient par exemple aux équipes d’utiliser la plomberie extérieure d’une maison pour obtenir de l’eau, un préposé aux devis caucasien a dû être engagé.
+[6] Il ressort des éléments de preuve que, bien que l’une des responsabilités du comptable ait été de s’occuper de l’encaissement des paiements contractuels à temps, ces efforts ont été continuellement entravés par une discrimination et un harcèlement sexuel permanents. À cette époque, Mme Sibrian a affirmé avoir décidé que les paiements seraient faits à la société sur le chantier, plutôt que d’envoyer des factures et d’attendre le paiement (pièce A-3). Cependant, lorsque le coût établi pour la mise en œuvre de ce programme s’est élevé à plusieurs milliers de dollars, elle a déclaré dans son témoignage que la décision avait été prise de plutôt verser des paiements à l’Agence.
+[7] L’appelante et Mme Sibrian ont toutes deux étudié la possibilité que la société prenne ses propres décisions en matière de commercialisation et de contrats plutôt que d’intervenir à titre de sous-traitantes (pièce A-5) afin d’éviter les retards et parfois, le non-paiement des sommes contractuellement dues à la société. Elles examiné les coûts relatifs à cette initiative ainsi qu’à de la publicité sur la chaîne CTV (pièce A-6), mais ceux-ci étaient encore une fois trop élevés pour la société. Mme Sibrian a affirmé dans son témoignage : [traduction] « [...] si nous devons dépenser ou investir de l’argent pour de la publicité, elle préférait que nous versions cet argent à l’Agence plutôt que de produire de la publicité ». [Transcription, à la page 36]. Ils ont également rencontré une professionnelle du développement commercial pour obtenir des conseils sur la manière dont l’appelante pourrait contourner le harcèlement pratiqué par d’autres entrepreneurs et être payée pour les travaux réalisés (pièce A-7).
+[8] Selon son témoignage, elles étaient en communication constante avec l’Agence au sujet des mesures qu’elles prenaient pour trouver des solutions aux problèmes de harcèlement et de discrimination, mais elles n’ont jamais détourné de recettes pour exercer des activités commerciales. À la page 77 de la transcription, Mme Sibrian a déclaré ce qui suit :
+[traduction]
+[...] Et à l’époque où j’essayais de parvenir à une entente de paiement avec l’ARC, j’ai également communiqué avec elle au sujet des étapes à suivre. En effet, on vous demande toujours quelles sont les démarches que vous faites pour effectuer ces paiements. Je lui en ai donc parlé et elle m’a dit que quitte à faire des paiements de la sorte, nous devrions alors plutôt verser des paiements à l’ARC.
+[9] Mme Sibrian a témoigné que la société a également tenté de conclure une alliance avec un autre entrepreneur, Len Meyer, rencontré lors d’un événement ayant trait à la commercialisation (pièce A-8). La société a effectué des travaux de toiture pour M. Meyer; toutefois, il a refusé de payer les travaux et a plutôt prétendu que la société lui devait de l’argent. Interrogée en contre-interrogatoire au sujet de la somme d’argent qui lui était due, Mme Sibrian a répondu : [traduction] « Eh bien, nous sommes les sous-traitants. Comment se fait-il que nous lui devions de l’argent alors que nous faisons le toit pour lui, pour son client avec qui le contrat a été conclu? C’est pourquoi je dis que ces réclamations sont fictives [...] » [transcription, à la page 81]. Bien que l’appelante se soit rendue chez le propriétaire de la maison en question pour l’informer qu’elle n’avait pas été payée par M. Meyer pour les travaux effectués sur la maison, à aucun moment le montant des travaux de toiture de près de 20 000 $ et le coût supplémentaire des matériaux utilisés n’ont été payés à la société.
+[10] Mme Sibrian a affirmé dans son témoignage qu’elle était en communication constante avec l’Agence, pendant toute la période en cause. Dès qu’elle avait des fonds disponibles pour effectuer un paiement, la société a fait le versement en priorité. Plusieurs comptes n’ayant pu être recouvrés, elle a demandé à plusieurs reprises à l’Agence un état de compte des paiements effectués entre 2010 et 2012, mais la société n’a reçu que son avis de cotisation. Les relevés bancaires de la société n’ont pas été produits devant la Cour parce que la société, ainsi que les dossiers, a été cédée au frère de l’appelante.
+[11] Comme la société ne parvenait pas à obtenir le paiement de plusieurs de ses contrats de sous-traitance, il a été décidé de réduire les coûts salariaux et la comptable a été congédiée. Un étudiant en commerce de l’UBC (pièce A-10) a été embauché pour remplacer Mme Eyben. Qui plus est, l’appelante avait présenté des demandes de prêts auprès de la RBC et de la Vancity Credit Union pour payer l’Agence. Ces demandes ont été refusées (pièces A-11 et A-12).
+[12] Après 2011, Mme Sibrian a téléphoné à l’Agence au nom de l’appelante, demandant que les versements soient effectués trimestriellement et non annuellement, afin que les versements soient toujours à jour, mais cette demande a été rejetée. Toujours en 2011, la comptable de l’époque, Mme Eyben, avait suggéré que la société ouvre un compte distinct pour les montants de la TPS. Mme Sibrian, qui avait le pouvoir de signature au nom de la société, a suivi ce conseil, et a immédiatement rencontré un directeur de compte de la RBC et a ouvert un compte distinct. Selon le témoignage de Mme Sibrian, elles ont fait plusieurs propositions à l’Agence, concernant les modalités de paiement de ces versements de TPS/TVH, mais l’Agence a refusé et a indiqué que la totalité du montant d’argent devait être payée. Malgré cela, Mme Sibrian a affirmé dans son témoignage que des paiements avaient été effectués, bien qu’il n’y ait aucun document pour étayer cette affirmation. Elle a soutenu avoir présenté plusieurs demandes à l’Agence pour obtenir un état de compte de ces paiements, en vain.
+[13] À partir milieu de l’année 2012 et tout au long de l’année 2013, l’appelante et Mme Sibrian ont eu la chance d'interagir avec la même agente de recouvrement, Brianna Westhaver, plutôt qu’avec différents agents. Vers la fin de l’année 2013, la société a obtenu un [traduction] « très gros contrat », mais [traduction] « il a finalement été annulé, l’entrepreneur ayant refusé de la payer parce qu’elle ne voulait pas l’embrasser ». [Transcription, à la page 44]. À ce moment-là, Mme Penate n’était plus prête à poursuivre son activité commerciale en raison d'un harcèlement sexuel permanent, et s’est adressée à son frère pour qu’il reprenne l’entreprise qui, en retour, serait responsable des versements de la TPS/TVH. Son frère a investi 40 000 $ dans l’entreprise, ce dont l’agente de recouvrement, Mme Westhaver, a été informée. Mme Penate a démissionné de son poste d’administratrice le 1er novembre 2013 (pièce A-13). Mme Sibrian a déclaré qu’elle et l’appelante étaient en communication constante avec l’agente de recouvrement pendant le transfert de propriété de la société. Elle a produit une lettre datée du 20 juin 2013 de la part de Mme Westhaver [pièce A-14] qui demandait des renseignements financiers supplémentaires à la société. Mme Sibrian a déclaré que ces renseignements ont été envoyés à Mme Westhaver et qu’elle a accepté d’autoriser l’injection de fonds dans la société, à condition que Mme Sibrian continue d’assurer la liaison avec l’Agence pour veiller à ce que les versements soient effectués. En juin 2014, le frère de l’appelante avait obtenu un contrat important, mais il y a eu un changement d’agente à l’Agence et, selon les éléments de preuve de Mme Sibrian, Sarah Nelson, la nouvelle agente de l’Agence affectée au dossier, a refusé de respecter l’entente que Mme Sibrian et Mme Westhaver, l’ancienne agente de recouvrement, avaient conclue. Par conséquent, Mme Nelson a saisi les comptes de l’entreprise en 2015, forçant de fait la société à fermer ses portes.
+Discussion
+[14] La seule question en litige dans le présent appel est de savoir si Mme Penate, en tant qu’unique administratrice de la société, est responsable de la TPS/TVH nette non versée, plus les pénalités et les intérêts. Étant donné que l’appelante était l’administratrice au cours de la période pertinente, puisqu’elle n’a pas cessé d’être administratrice au cours de la période de deux ans, et que la dette sous-jacente de la société n’était pas directement controversée, la question de sa responsabilité, en tant qu’administratrice, reposait uniquement sur la question de savoir si elle pouvait utilement invoquer avec succès le moyen de défense de diligence raisonnable, aux termes du paragraphe 323(3) de la Loi sur la taxe d’accise (la Loi), qui est presque identique à l’article connexe 227.1 de la Loi de l’impôt sur le revenu.
+[15] La disposition législative pertinente est rédigée ainsi :
+323 (3) Diligence [défense fondée sur la diligence raisonnable] – L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+Cependant, le législateur avait clairement l’intention de ne pas imposer de responsabilité absolue à l’administrateur d’une entreprise.
+[16] Si l’appelante doit invoquer le moyen de défense prévu par cette disposition, elle doit démontrer qu’elle s’est préoccupée des versements de la TPS/TVH et qu’elle s’est acquittée de son obligation de soin, de diligence et de compétence afin de prévenir le manquement de la société à l’obligation de verser les montants visés. (Canada c. Buckingham, 2011 CAF 142, 2011 DTC 5078, au paragraphe 40). La Cour d’appel fédérale dans l’arrêt Buckingham a observé que la norme de soin, de diligence et de compétence exigée au paragraphe 323(3) est la norme objective telle qu’elle est définie par la Cour suprême du Canada dans l’arrêt Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 C.S.C. 68, [2004] 3 RCS 461. La Cour d’appel fédérale, s’appuyant sur le paragraphe 62 de cette décision de la Cour suprême, a fait l'observation suivante :
+[39] Une norme objective ne signifie toutefois pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ». […]
+[17] Le paragraphe 323(3) de la Loi est axé sur la prévention des manquements à l’obligation de remise et le fait de ne pas « [...] encourager de tels défauts de versement [...] en espérant remédier plus tard à ces défauts ». (Buckingham, au paragraphe 49). « Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés. » (Buckingham, au paragraphe 52).
+[18] Il a également été reconnu que, dans des circonstances exceptionnelles, l'administrateur peut toujours utilement invoquer le moyen de défense de diligence raisonnable lorsque l’entreprise est exploitée en sachant qu’un défaut de versement peut être probable (Worrell c. La Reine, 52 DTC 1783). Dans la décision Worrell, la banque a exercé de fait un contrôle sur les finances de la société, empêchant ainsi le paiement des versements. Je suis d'avis que le présent appel contient [traduction] « des circonstances et des faits exceptionnels » qui me permettent de conclure que Mme Penate peut utilement invoquer le moyen de défense de diligence raisonnable. Il ne s’agissait pas d’une affaire où l’appelante s’est contentée de poursuivre ses activités de toiture en espérant que le sort de l’entreprise s’améliorerait en cas de relance l’économie. Rien dans les faits dont je suis saisi ne me permet de conclure que la société n’était pas occupée à honorer des contrats de toiture ou qu’elle exerçait ses activités dans un environnement économique difficile. Le harcèlement sexuel et la discrimination raciale étaient les principaux problèmes de la société. Mme Penate et sa directrice de bureau, Mme Sibrian, ont toutes deux tenté de faire face à ces problèmes de front et de les surmonter. Jusqu’à ce que Mme Penate se lance en affaires, au Canada, cette industrie était entièrement composée d’hommes. Rien ne prouve que les versements de TPS/TVH aient été détournés pour profiter aux activités commerciales. Il était simplement impossible pour Mme Penate, en tant que femme chargée du second œuvre, d’obtenir les paiements des contrats de sous-traitance achevés de la société auprès de plusieurs entrepreneurs sans accepter de rendre des faveurs sexuelles en contrepartie.
+[19] Les deux témoins étaient crédibles, en particulier Mme Sibrian, qui a fait preuve de minutie et de préparation dans son témoignage. Elle n’avait rien à gagner en cas d’accueil du présent appel. Aucun témoin n’a été appelé à réfuter les éléments de preuve qu’elles ont produits et qui n’ont pas été contestés en contre-interrogatoire. Une comptable externe a été engagée presque immédiatement pour remplir les déclarations d’impôt sur le revenu et de TPS/TVH. Après plusieurs années, lorsque la société a commencé à prendre du retard dans ses versements, une gestionnaire de bureau expérimentée a été engagée pour prêter main-forte à la comptabilité et, en particulier, pour tenter de recouvrer les comptes des entrepreneurs qui refusaient de payer à moins que des faveurs sexuelles ne leur soient accordées. Elle comptait 20 ans d’expérience dans le domaine de la toiture et dans les domaines d’expertise pour lesquels elle a été engagée. Ne parvenant pas à recouvrer les fonds, un étudiant de l’UBC a été engagé pour la remplacer et limiter les dépenses. Un préposé aux devis caucasien a été engagé pour répondre à la fois aux problèmes de discrimination et de harcèlement, afin que Mme Penate n’ait pas à se rendre dans des lieux d’affaires éloignés pour rencontrer plusieurs de ces entrepreneurs. À un moment donné, lorsque l’Agence a prélevé 8 000 $ sur le compte de l’entreprise avant la date d’échéance annuelle du versement, Mme Penate a réussi à obtenir de ses employés qu’ils patientent avant d’être payés jusqu’à ce que les fonds soient être disponibles aux fins de versements. Les deux témoins ont déclaré que les versements étaient toujours une priorité absolue et qu’elles étaient en communication constante avec les fonctionnaires de l’Agence au cours de toute la période. Elles ont tenté d’obtenir des prêts pour régler les versements de fonds auprès de deux établissements de crédit différents, mais leurs demandes ont été refusées. Elles se sont renseignées sur les possibilités de publicité et de commercialisation, mais il a été décidé d’effectuer les versements avec les fonds disponibles plutôt que de réinvestir ces montants d’argent dans l’entreprise.
+[20] Vu les faits, la priorité de Mme Penate était d’effectuer les versements. La société n’a pas fait de choix qui auraient pu lui profiter, préférant être en mesure de réserver les fonds aux versements. En raison de faits exceptionnels de harcèlement sexuel et de discrimination, la société n’a pas pu obtenir des sommes contractuelles essentielles. Rien n’indique qu’un revenu ait été perçu et affecté à d’autres postes pour maintenir les activités et le financement de la société. Par conséquent, Mme Penate peut utilement invoquer le moyen de défense de diligence raisonnable prévu par le paragraphe 323(3) de la Loi, compte tenu de mes conclusions de fait.
+[21] L’appel est accueilli, avec dépens adjugés à l’appelante.
+Signé à Summerside (Île-du-Prince-Édouard), ce 20e jour de juillet 2020.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 19e jour d'août 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 63
+Nº DU DOSSIER DE LA COUR :
+2017-612(GST)G
+INTITULÉ :
+KARLA PENATE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 10 février 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 20 juillet 2020
+COMPARUTIONS :
+Représentante de l’appelante :
+Guadalupe Sibrian
+Avocate de l’intimée :
+Me Karen Truscott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

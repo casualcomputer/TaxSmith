@@ -1,0 +1,210 @@
+Title: Whelan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25094/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-680-25094-whelan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-10-08
+
+# Whelan v. The Queen
+
+- Citation: 2004 CCI 680
+- Decision date: 2004-10-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2503, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whelan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-08
+Référence neutre
+2004 CCI 680
+Numéro de dossier
+2004-2554(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2554(IT)I
+ENTRE :
+GREGORY WHELAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus à Saskatoon (Saskatchewan), le 3 septembre 2004.
+Devant : L'honorable D.W. Beaubier
+Comparutions :
+Avocat de l'appelant :
+Me Patrick Loran
+Avocat de l'intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont rejetés selon les motifs de jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 8e jour d'octobre 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI680
+Date : 20041008
+Dossier : 2004-2554(IT)I
+ENTRE :
+GREGORY WHELAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été entendu à Saskatoon (Saskatchewan), le 3 septembre 2004. L'appelant a été la seule personne à témoigner.
+[2] Les paragraphes 10 à 20 de la réponse à l'avis d'appel énoncent les questions en litige. Ils sont rédigés comme suit :
+[traduction]
+10. Les premiers avis de cotisation pour les années d'imposition 2001 et 2002 étaient datés du 9 décembre 2002 pour l'année 2001 et du 7 avril 2003 pour l'année 2002; ils ont été envoyés à l'appelant par la poste à ces dates.
+11. En établissant les cotisations de l'appelant pour les années d'imposition 2001 et 2002, le ministre du Revenu national (le « ministre » ) :
+a) a admis la déduction concernant la pension alimentaire, d'un montant de 18 200 $, qui avait été demandée pour l'année 2001; et
+b) a réduit d'un montant de 14 400 $ la déduction effectuée au titre de la pension alimentaire, la pension passant de 16 800 $ à 2 400 $ pour l'année 2002.
+12. En établissant, le 2 octobre 2003, les nouvelles cotisations de l'appelant pour les années d'imposition 2001 et 2002, le ministre :
+a) a réduit d'un montant de 1 400 $ la déduction effectuée au titre de la pension alimentaire, la pension passant de 18 200 $ à 16 800 $ pour l'année 2001; et
+b) a augmenté d'un montant de 13 000 $ la déduction effectuée au titre de la pension alimentaire, la pension passant de 2 400 $ à 15 400 $ pour l'année 2002.
+13. En établissant, le 3 novembre 2003, les nouvelles cotisations de l'appelant pour les années d'imposition 2001 et 2002, le ministre :
+a) a réduit d'un montant de 14 400 $ la déduction effectuée au titre de la pension alimentaire, la pension passant de 16 800 $ à 2 400 $ pour l'année 2001; et
+b) a réduit d'un montant de 14 400 $ la déduction effectuée au titre de la pension alimentaire, la pension passant de 15 400 $ à 1 000 $ pour l'année 2002.
+14. Le montant de 14 400 $ dont la déduction a été refusée pour chaque année, comme il en est fait mention au paragraphe 13 ci-dessus, se rapportait à une pension alimentaire pour enfants qui avait été payée à l'égard des enfants à charge. La déduction relative à la pension alimentaire pour enfants a été refusée parce qu'elle avait été payée aux termes d'une ordonnance rendue après le mois d'avril 1997.
+15. Le 8 janvier 2004, l'appelant a signifié au ministre un avis d'opposition à l'égard des nouvelles cotisations en date du 3 novembre 2003 relatives aux années d'imposition 2001 et 2002.
+16. Par un avis de ratification daté du 19 mars 2004, le ministre a ratifié les nouvelles cotisations en date du 3 novembre 2003 concernant les années d'imposition 2001 et 2002.
+17. En établissant ainsi les nouvelles cotisations de l'appelant pour les années d'imposition 2001 et 2002 et en ratifiant ainsi les nouvelles cotisations, le ministre a émis les hypothèses de fait suivantes dans les deux cas :
+a) l'appelant et Dianne Whelan (l' « ex-épouse » ) sont les parents de cinq enfants à charge :
+Alison Nicole Whelan, née le 10 juillet 1985 ( « Alison » )
+Andrea Renee Whelan, née le 10 juillet 1987 ( « Andrea » )
+August Gregory Whelan, né le 16 novembre 1989 ( « August » )
+Ashley Marianne Whelan, née le 20 mars 1991 ( « Ashley » )
+Andrew Jonathan Michael Whelan, né le 10 juin 1993 ( « Andrew » )
+b) l'appelant et son ex-épouse ont divorcé;
+c) aux termes d'un accord écrit conclu entre l'appelant et son ex-épouse le 31 août 1993 (l' « accord écrit » ) :
+(i) l'appelant a convenu de verser à son ex-épouse une pension alimentaire pour enfants à l'égard des enfants à charge, d'un montant de 1 200 $ par mois, à compter du 28 janvier 1993; et
+(ii) l'appelant a convenu de verser directement à son ex-épouse sa part d'une dette consolidée d'un montant de 193,50 $;
+d) la pension alimentaire pour enfants qui devait être payée aux termes de l'accord écrit se rapportait aux cinq enfants à charge, comme il en est fait mention à l'alinéa 17a) ci-dessus;
+e) conformément à un jugement rendu par la Cour du Banc de la Reine, Centre judiciaire de Saskatoon, le 27 novembre 1997 (le « jugement » ) :
+(i) l'ex-épouse s'est vu attribuer la garde d'Andrea, d'August, d'Ashley et d'Andrew;
+(ii) l'appelant s'est vu attribuer la garde d'Alison;
+(iii) l'appelant était tenu de verser à son ex-épouse une pension alimentaire à l'égard des quatre enfants à charge, d'un montant de 1 200 $ par mois, à compter du 1er décembre 1997; et
+(iv) l'appelant était tenu de verser à son ex-épouse une pension alimentaire pour conjoint d'un montant de 200 $ par mois à compter du 1er décembre 1997;
+f) aux termes d'une ordonnance rendue par la Cour du Banc de la Reine, Centre judiciaire de Saskatoon, le 24 novembre 2000 (l' « ordonnance » ), il a été ordonné que le jugement soit modifié en vue de remplacer l'alinéa 2d) du jugement portant sur la question de la pension alimentaire pour enfants par l'alinéa suivant :
+[traduction]
+d. Les parties reconnaissent qu'elles ont conclu un accord concernant la pension alimentaire pour enfants le 31 août 1993, lequel devait prendre effet le 28 janvier 1993, et selon lequel le requérant devait effectuer des paiements au titre de la pension alimentaire pour enfants le 1er jour de chaque mois tant que les enfants continueraient à être des enfants à charge au sens de la Loi sur le divorce. Les parties reconnaissent que tous les paiements effectués depuis le 28 janvier 1993 ont été faits conformément aux dispositions de cet accord et que les paiements doivent continuer à être effectués conformément à cet accord. Ce jugement ne modifie pas les dispositions relatives à la pension alimentaire pour enfants qui figurent dans cet accord.
+g) aux termes d'un jugement modifié rendu par la Cour du Banc de la Reine, Centre judiciaire de Saskatoon, le 24 novembre 2000 (le « jugement modifié » ), le jugement a été modifié conformément à l'ordonnance dont il est fait mention à l'alinéa 17f) ci-dessus;
+h) le 11 novembre 2001, l'ex-épouse a déposé un avis d'appel auprès de la Cour canadienne de l'impôt;
+i) selon l'avis d'appel qui a été déposé par l'ex-épouse, il s'agissait de savoir si les montants que l'ex-épouse a reçus au titre de la pension alimentaire pour enfants dans les années d'imposition 1997, 1998 et 1999 étaient à inclure dans le revenu;
+j) le 27 février 2003, le juge D.W. Beaubier, de la Cour canadienne de l'impôt, a rendu un jugement dans lequel il admettait l'appel interjeté par l'ex-épouse et renvoyait les nouvelles cotisations au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour le motif que les montants payés au titre de la pension alimentaire pour enfants n'étaient pas à inclure dans le revenu de l'ex-épouse pour les années d'imposition 1997, 1998 et 1999;
+k) en rendant sa décision, le juge Beaubier a statué que la définition de l'expression « pension alimentaire » figurant au paragraphe 56.1(4) de la Loi de l'impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1 (la « Loi » ) doit être interprétée comme s'entendant d'un montant payable ou à recevoir pour chaque enfant. En se fondant sur cette interprétation de la définition de l'expression « pension alimentaire » , le juge Beaubier a en outre conclu qu'il y avait une « date d'exécution » au sens de la définition figurant au paragraphe 56.1(4) de la Loi étant donné qu'aux termes de l'accord écrit, l'ex-épouse avait reçu au titre de la pension alimentaire un montant total de 1 200 $, soit 240 $ par mois pour chacun des cinq enfants, alors qu'en vertu du jugement du 27 novembre 1997, l'ex-épouse avait la garde de quatre enfants seulement et que le montant qu'elle recevait au titre de la pension alimentaire correspondait à 300 $ par mois pour chaque enfant.
+B. QUESTION À TRANCHER
+18. Il s'agit de savoir si l'appelant a droit, au titre de la pension alimentaire pour enfants, à une déduction de 14 400 $ pour les années d'imposition 2001 et 2002.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES ET RÉPARATION DEMANDÉE
+19. Il se fonde sur les paragraphes 56.1(4) et 60.1(4) ainsi que sur l'alinéa 60b) de la Loi telle qu'elle a été modifiée pour les années d'imposition 2001 et 2002.
+20. Il soutient qu'il y avait une « date d'exécution » au sens de la définition figurant au paragraphe 56.1(4) de la Loi étant donné qu'aux termes de l'accord écrit, l'ex-épouse recevait, au titre de la pension alimentaire, un montant total de 1 200 $, soit 240 $ par mois pour chacun des cinq enfants, alors qu'en vertu du jugement modifié, l'ex-épouse avait la garde de quatre enfants seulement et que le montant qu'elle recevait au titre de la pension alimentaire s'élevait à 300 $ par mois pour chaque enfant. Il soutient que l'appelant n'a donc pas droit à la déduction relative à la pension alimentaire pour enfants qui a été refusée, d'un montant de 14 400 $ pour les années d'imposition 2001 et 2002, étant donné que la pension alimentaire pour enfants qui a été payée après la date d'exécution n'est pas déductible conformément à l'alinéa 60b) de la Loi.
+[3] Aucune des hypothèses énoncées au paragraphe 17 de la réponse à l'avis d'appel n'a été réfutée par la preuve.
+[4] L'accord initial qui a été conclu entre le mari et la femme a été produit sous la cote A-1; il est rédigé comme suit:
+[traduction]
+ACCORD
+Il est convenu que Greg Whelan versera à Dianne Whelan une somme forfaitaire mensuelle de 1 200 $ destinée à subvenir aux besoins des enfants.
+Il est convenu que ce montant sera versé deux fois par mois, les deuxième et quatrième jeudi de chaque mois. Cet accord prendra effet le jeudi, 28 janvier 1993.
+Cet accord a été révisé le 31 août 1993.
+Il est convenu que Greg Whelan versera sa part de la dette consolidée (193,50 $) directement à Dianne Whelan.
+Il est également convenu que cet arrangement sera révisé le 31 octobre 1993.
+Signature : « Gregory Whelan »
+Gregory Whelan
+« Dianne Whelan »
+Dianne Whelan
+Fait : « le 31 août 1993 »
+L'accord n'est pas scellé et n'indique pas le nom des enfants et le nombre d'enfants. Cela étant, et compte tenu des hypothèses énoncées aux alinéas 17a) et e), la Cour conclut que le 31 août 1993, Gregory n'avait pas la garde d'Alison Nicole Whelan, née le 10 juillet 1985, et ce, jusqu'au 27 novembre 1997, soit la date du jugement rendu par le juge M.Y. Carter (pièce A-2), par lequel la garde d'Alison était accordée à Gregory (alinéa 2b)) et lequel précisait que la somme mensuelle de 1 200 $ était versée aux fins de [traduction] « l'entretien des quatre enfants à charge [...] » , et ce, [traduction] « [...] tant que les enfants continueraient à être des enfants à charge [...] » (alinéa 2d)).
+[5] Le 24 novembre 2000, le juge Laing a rendu une ordonnance (pièce A-3) qui était rédigée comme suit :
+[traduction]
+Les avocats de la demanderesse et du défendeur ayant été entendus, les affidavits déposés par les parties ayant été lus, les actes de procédure ayant été déposés dans l'action et puisque je suis convaincu que les montants ont été inclus dans le jugement initial par simple inadvertance, je suis convaincu que les paiements effectués au titre de la pension alimentaire pour enfants devaient continuer à être faits conformément aux dispositions de l'accord du 31 août 1993 et que le jugement devrait indiquer cette intention.
+PAR CONSÉQUENT, LA COUR ORDONNE :
+1. Conformément à l'article 343A des Règles de la Cour du Banc de la Reine, le jugement qui a été rendu le 27 novembre 1997 dans la présente affaire est modifié en vue d'y substituer le paragraphe 2d suivant :
+d. Les parties reconnaissent qu'elles ont conclu un accord concernant la pension alimentaire pour enfants le 31 août 1993, lequel devait prendre effet le 28 janvier 1993, et selon lequel le requérant devait effectuer des paiements au titre de la pension alimentaire pour enfants le 1er jour de chaque mois tant que les enfants continueraient à être des enfants à charge au sens de la Loi sur le divorce. Les parties reconnaissent que tous les paiements effectués depuis le 28 janvier 1993 ont été faits conformément aux dispositions de cet accord et que les paiements doivent continuer à être effectués conformément à cet accord. Le présent jugement ne modifie aucune des dispositions relatives à la pension alimentaire pour enfants qui figurent dans cet accord.
+2. La question de la pension alimentaire pour conjoint est ajournée jusqu'au 26 janvier 2001.
+3. La demande que Mme Whelan a présentée en vue de faire modifier la pension alimentaire pour enfants pour qu'elle corresponde aux montants prévus par les lignes directrices est ajournée pour une période indéfinie, la demande devant être présentée sur préavis de trois jours de l'une ou l'autre partie.
+[6] Il importe de noter que, dans l'ordonnance qui a été produite en preuve, le juge Laing dit que les avocats des deux parties ont comparu devant lui, ce qui constitue une différence importante par rapport à la conclusion que j'ai tirée au paragraphe [3] de la décision concernant l'ex-épouse de l'appelant ici en cause, Dianne Kim Whelan et la Reine 2002-32(IT)I, dans laquelle j'ai dit que [traduction] « la Cour ne dispos[ait] d'aucune preuve claire montrant que l'appelante et son avocat [avaie]nt reçu signification des actes de procédure qui [avaie]nt donné lieu à la modification » , laquelle est reproduite au complet sous la cote A-3. Par conséquent, la preuve en l'espèce est fort différente de celle qui existait dans l'affaire de Dianne Kim Whelan.
+[7] L'ordonnance du juge Laing modifie le jugement du juge Carter en prévoyant que [traduction] « [l]e présent jugement ne modifie aucune des dispositions relatives à la pension alimentaire pour enfants qui figurent dans cet accord » . Or, si la chose est prise au pied de la lettre, l'accord (pièce A-1) ne mentionne pas le nombre d'enfants; il y est uniquement question [traduction] d' « une somme forfaitaire mensuelle de 1 200 $ destinée à subvenir aux besoins des enfants » . Il n'est pas fait mention, dans l'accord (pièce A-1) ou dans l'ordonnance du juge Laing (pièce A-3), du nombre d'enfants pour lesquels la somme de 1 200 $ est payée.
+[8] Le paragraphe 56.1(4) de la Loi de l'impôt sur le revenu est rédigé en partie comme suit :
+56.1(4) Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« date d'exécution » Quant à un accord ou une ordonnance :
+[...]
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+[...]
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[11] Selon la preuve mise à la disposition de la Cour, les [traduction] « dispositions relatives à la pension alimentaire pour enfants » de l'accord du 31 août 1993 n'ont pas été modifiées; le montant y afférent était encore de 1 200 $. Toutefois, comme il en est ici fait mention, le nombre d'enfants dont le bénéficiaire de la pension alimentaire pour enfants avait la garde était passé de cinq à quatre. Par conséquent, le montant annuel par enfant est passé de 2 880 $ l'an à 3 600 $ l'an à la date du jugement rendu par le juge Carter, soit le 27 novembre 1997, alors que la somme forfaitaire annuelle payée par Gregory au titre de la pension alimentaire pour enfants est demeurée la même.
+[12] Dans la décision Miller v. The Queen, [2003] DTC 1449, le juge Mogan a dit ce qui suit aux paragraphes [9], [10] et [11] :
+[9] Étant donné que l'ordonnance de base n'a pas été établie après avril 1997, mais le 15 novembre 1996 (pièce R-1), selon la définition de « date d'exécution » , le présent appel est régi par le paragraphe b). Le paragraphe b) prévoit quatre situations. J'examinerai d'abord la première et la dernière situation parce qu'il est facile de les mettre de côté. Si le payeur et le bénéficiaire signent un choix conjoint et le présentent au ministre dans le formulaire prescrit, ils peuvent choisir une date d'exécution en vertu de l'alinéa b)(i). L'appelant et Lola Marie n'ont pas signé de choix conjoint. En vertu de l'alinéa b)(iv), l'accord ou l'ordonnance peuvent préciser un jour comme la date d'exécution pour l'application de la Loi de l'impôt sur le revenu. Aucune date d'exécution n'est précisée dans la deuxième ordonnance. Les alinéas b)(i) et b)(iv) ne s'appliquent pas.
+[10] Il me reste à examiner les deux autres alinéas, soit les alinéas b)(ii) et b)(iii) :
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance, [...]
+Il y a une similarité évidente entre les dispositions dans les alinéas (ii) et (iii) parce dans l'alinéa (ii) on trouve les mots « touchant le montant de la pension alimentaire pour enfants » et, dans l'alinéa (iii), les mots « de changer le total des montants de pension alimentaire pour enfants » . L'alinéa b)(ii) s'applique si un accord ou une ordonnance « fait l'objet d'une modification » tandis que l'alinéa b)(iii) s'applique s'il y a un accord ou une ordonnance subséquent. Dans le présent appel, nous avons ce qui semble être une modification parce que, dans la deuxième ordonnance, Mme la juge MacKenzie conclut :
+[traduction]
+« LA PRÉSENTE COUR ORDONNE que l'ordonnance de l'honorable juge Holmes, rendue le 15 novembre 1996, soit modifiée de la façon suivante : » (Je souligne.)
+Dans l'hypothèse où l'ordonnance du 15 novembre 1996 fait seulement « l'objet d'une modification » , l'alinéa b)(ii) s'applique dans le cas de l'appelant. La deuxième ordonnance n'a pas modifié les montants de pension alimentaire pour enfants payables par mois par enfant. Les deux ordonnances sont rédigées à peu près de la même façon. La première ordonnance de novembre 1996 prévoit « une pension alimentaire de 475 $ par mois par enfant pour un total de 1 425 $ par mois » . La deuxième ordonnance stipule ce qui suit « le montant de 475 $ par mois par enfant pour un montant total de 950 $ par mois » . Il est parfaitement évident que, s'il y a cessation de l'obligation de payer une pension alimentaire à l'égard de l'un des trois enfants, il y aura diminution du montant. Mais cela n'est pas ce que l'alinéa b)(ii) de la définition de « date d'exécution » vise. L'alinéa b)(ii) vise le cas où l'ordonnance fait l'objet d'une modification « touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire » .
+[11] Selon moi,l'alinéa b)(ii) s'applique seulement si un accord ou une ordonnance antérieur fait l'objet d'une modification touchant le montant payable par enfant. Dans la deuxième ordonnance, parce que Heather (l'enfant le plus âgé) avait atteint un certain âge ou niveau d'instruction, s'était mariée, était partie ou pour quelque autre raison que ce soit, l'appelant n'était plus tenu de payer 475 $ par mois à son égard après le 5 octobre 1999. Il était, par contre, tenu aux termes de la deuxième ordonnance, de continuer à payer pour chacun des deux plus jeunes enfants exactement le même montant que le tribunal lui avait précédemment ordonné de payer dans l'ordonnance du 15 novembre 1996. Selon mon interprétation des deux ordonnances du tribunal, celle du 15 novembre 1996 et celle du 16 décembre 1999, il n'y a pas de date d'exécution en ce qui concerne l'appelant et les paiements qu'il a effectués à son ancienne épouse en 1999, 2000 et 2001. Comme il n'y a pas de date d'exécution, il continue, tout comme c'était le cas avant le 16 décembre 1999, à avoir le droit de déduire les paiements mensuels.
+(Je souligne.)
+[11] Selon l'analyse que le juge Mogan a faite, les sous-alinéas de l'alinéa b) de la définition de « date d'exécution » donnée au paragraphe 56.1(4) dont il est ici question sont les sous-alinéas (ii) et (iii). L'ordonnance rendue par le juge Laing le 24 novembre 2000 est nunc pro tunc au jugement que le juge Carter a rendu le 27 novembre 1997.
+[14] J'ai déjà examiné la question dans la décision Dianne Kim Whelan v. The Queen, 2002-32(IT)I, où les paragraphes [5] à [9] inclusivement étaient rédigés comme suit :
+[traduction]
+[5] Les formulaires d'ordonnance concernant la pension alimentaire pour enfants en l'espèce sont semblables (mais non identiques) à ceux de la plupart des ordonnances judiciaires de ce genre. Il est ordonné que certains montants soient versés chaque mois à l'appelante. Le paragraphe 56.1(4) parle de « montant » . La Cour interprète le mot « montant » comme se rapportant aux paiements mensuels qui sont habituellement effectués en vertu de pareilles ordonnances, lesquels sont faits sur la base d'une année civile. Toutefois, au paragraphe 56.1(4), il est fait mention du total des montants à payer au titre de la pension alimentaire « pour chaque enfant » individuel. Or, dans ce cas-ci, les dispositions qui existaient avant le mois d'avril 1997 se rapportaient à cinq enfants, un montant mensuel de 1 200 $ devant être payé, ce qui correspond à un montant mensuel de 240 $ pour chaque enfant. La modification effectuée le 24 novembre 2000 et le jugement rendu le 27 novembre 1997 se rapportaient à quatre enfants, le montant mensuel à payer étant de 1 200 $, ce qui correspond à un montant mensuel de 300 $ pour chaque enfant.
+[6] De l'avis de la Cour, le paragraphe 56.1(4) doit être interprété comme se rapportant à un « enfant » individuel. Les paiements mensuels pour chaque enfant peuvent donc varier, mais à la fin de l'année, le total est le même pour chaque enfant individuel; il n'y a pas de changement.
+[7] Toutefois, en l'espèce, le total pour chaque enfant a été porté à 300 $, ce qui, multiplié par 12, représente un montant annuel de 3 600 $. Telle doit être l'interprétation qu'il convient de donner à l'égard des ordonnances judiciaires après le mois d'avril 1997; autrement, l'appelante continuerait à recevoir un montant de 1 200 $ par mois, alors qu'il n'y a que deux enfants, ou simplement Andrew, qui est né le 10 juin 1993, dont elle a la garde, tous les autres enfants étant partis. Une telle interprétation n'est pas logique et on ne saurait interpréter ainsi les ordonnances judiciaires ou appliquer ainsi le paragraphe 56.1(4).
+À l'appui de cette interprétation, il faut également noter que l'ordonnance modificative du 24 novembre 2000 se rapporte aux « enfants » , au pluriel. Malgré ce libellé différent, le mot « enfants » , dans une telle ordonnance judiciaire, doit se rapporter au nombre d'enfants dont l'appelante avait alors la garde, soit quatre enfants.
+[8] Les ordonnances judiciaires du 27 novembre 1997 et du 24 novembre 2000 effectuent donc un changement et constituent donc une nouvelle ordonnance rendue après le mois d'avril 1997.
+[9] Par conséquent, les montants reçus par l'appelante à compter du 1er décembre 1997 ne sont pas à inclure dans le calcul du revenu de cette dernière.
+[15] La conclusion tirée par le juge Mogan dans la première phrase du paragraphe [11] correspond à la conclusion que j'ai tirée dans la décision Dianne Kim Whelan. Le sous-alinéa b)(ii) de la définition de « date d'exécution » donnée au paragraphe 56.1(4) s'applique si l'accord antérieur est [traduction] « modifié en vue de changer le montant payable pour chaque enfant » . C'est ce qu'a fait le juge Carter. En effet, dans le jugement qu'il a rendu, le nombre d'enfants dont Dianne avait la garde est passé de cinq à quatre. La somme forfaitaire est demeurée la même - 1 200 $ par mois. Cependant, le jugement du juge Carter, s'il est lu au complet, montre que le montant mensuel de 240 $ payable pour chaque enfant a été porté à 300 $ par mois.
+[16] Pour ces motifs, l'appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 8e jour d'octobre 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 16e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI680
+No DU DOSSIER DE LA COUR :
+2004-2554(IT)I
+INTITULÉ :
+Gregory Whelan c. La Reine
+LIEU DE L'AUDIENCE
+Saskatoon (Saskatchewan)
+DATE DE L'AUDIENCE :
+Le 3 septembre 2004
+MOTIFS DU JUGEMENT :
+L'honorable D.W. Beaubier
+DATE DU JUGEMENT :
+Le 8 octobre 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Patrick Loran
+Avocat de l'intimée :
+Me Lyle Bouvier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Patrick Loran
+Cabinet :
+McKercher, McKercher et Whitmore
+Saskatoon (Saskatchewan)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

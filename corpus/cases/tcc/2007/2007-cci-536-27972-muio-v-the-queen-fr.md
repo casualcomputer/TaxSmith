@@ -1,0 +1,227 @@
+---
+title: "Muio v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27972/index.do"
+last_modified: "2007-08-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 536"
+citation2: ""
+neutral_citation: "2007 CCI 536"
+decision_date: "2007-08-16"
+language: "fr"
+item_id: "27972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1820
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:23:28.793000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c34450f92d8b00c1fb8dd1ca0fa29bbb3df6f616fd28934d3e640b1dbd092c7a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Muio v. The Queen
+
+- Citation: 2007 CCI 536
+- Decision date: 2007-08-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Muio v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-16
+Référence neutre
+2007 CCI 536
+Numéro de dossier
+2003-1906(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1906(IT)I
+ENTRE :
+LOUIS MUIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 août 2007, à Sault Ste. Marie (Ontario)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Marie-Eve Aubry
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997, 1998 et 1999 et à l’encontre de la cotisation établie pour l’année d’imposition 2000 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 6e jour de septembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI536
+Date : 20070906
+Dossier : 2003-1906(IT)I
+ENTRE :
+LOUIS MUIO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller
+[1] Le présent appel est interjeté à l’encontre des avis de nouvelle cotisation datés du 28 février 2002 pour les années d’imposition 1997, 1998 et 1999 et à l’encontre de l’avis de cotisation daté du 7 mars 2002 pour l’année d’imposition 2000. Pour établir ces cotisations, le ministre du Revenu national (le « ministre ») a attribué à l’appelant des montants de revenu d’intérêt, de revenu de dividendes et de gain en capital qui avaient été déclarés par l’épouse de l’appelant. Le ministre a également inclus dans le revenu de l’appelant des montants de gain en capital que celui‑ci n’avait pas déclaré, comme il est indiqué dans les annexes ci‑jointes.
+[2] Lors de l’audience, l’appelant a mentionné qu’il avait reçu les actions de St. Mary’s Paper et les actions de 716202 Ontario en raison de l’emploi qu’il occupait chez St. Mary’s Paper. Il a donc reconnu que la totalité du revenu de dividendes, des gains en capital et de la perte en capital découlant de ces actions devrait être incluse dans son revenu.
+[3] La question en litige en l’espèce est de savoir si le ministre a attribué à juste titre le revenu d’intérêt, le revenu de dividendes et les gains en capital à l’appelant en application des articles 74.1 et 74.2 de la Loi de l’impôt sur le revenu (la « Loi »).
+[4] Pour établir les cotisations, le ministre s’est fondé sur les hypothèses de fait énoncées au paragraphe 6 de la réponse à l’avis d’appel, qui était rédigé en ces termes :
+[traduction]
+6. Pour établir les cotisations à l’égard de l’appelant, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant et son épouse se sont mariés en 1971;
+b) l’appelant a reçu un revenu d’intérêt, un revenu de dividendes et des gains en capital provenant de divers comptes de placement;
+c) les comptes de placement étaient au nom de l’appelant seulement;
+d) avant les années d’imposition en litige, l’épouse avait un revenu minime ou nul;
+e) le capital pour les comptes de placement était fourni par l’appelant;
+f) l’épouse n’a rien investi dans les comptes de placement;
+g) l’appelant a transféré une partie des comptes de placement au profit de son épouse sans contrepartie.
+[5] L’appelant n’accepte pas les hypothèses soulevées aux alinéas 6c), d), e), f) et g). Toutefois, la preuve appuyait toutes les hypothèses formulées par le ministre.
+[6] Il faut tout d’abord noter qu’il y avait des comptes de placement qui étaient détenus conjointement par l’appelant et son épouse, des comptes de placement détenus seulement par l’appelant et des comptes de placement détenus seulement par son épouse. Les seuls montants qui ont fait l’objet d’une nouvelle cotisation par le ministre étaient les montants où le compte de placement était au nom de l’appelant seulement et pour lesquels l’appelant avait, dans sa déclaration de revenu, attribué à parts égales un revenu d’intérêt, un revenu de dividendes ou des gains entre son épouse et lui. Les documents et le témoignage de l’appelant appuyaient la conclusion selon laquelle les comptes de placement étaient détenus seulement par l’appelant. Celui‑ci a indiqué qu’il avait des problèmes conjugaux et que, après 1990, il s’était assuré que 80 % de tous les comptes de placement soient à son nom seulement, étant donné qu’il ne voulait pas [traduction] « se réveiller un matin et découvrir que tout avait disparu ». L’appelant voulait gagner sur tous les plans. Il voulait que la majorité des comptes de placement soient à son nom seulement, mais il voulait que son épouse supporte avec lui la charge fiscale relative à ces comptes de placement.
+[7] M. Eric Durand, un chef d’équipe à l’Agence du revenu du Canada (l’« ARC »), a témoigné qu’il avait effectué une recherche au moyen d’un ordinateur de l’ARC. Cela lui avait permis de constater que l’épouse de l’appelant n’avait pas déclaré de revenu d’emploi pour les années 1987 à 1993 et que, pour les années 1994 à 2000, son revenu d’emploi moyen était de 10 000 $, alors que celui de l’appelant était de 75 187 $, de 106 640 $, de 163 183 $ et de 102 176 $ pour les années d’imposition 1997, 1998, 1999 et 2000, respectivement. Je conclus que le capital pour les comptes de placement était fourni par l’appelant. Rien dans la preuve n’indiquait que l’épouse de l’appelant avait contribué quoi que ce soit pour l’acquisition des comptes de placement en cause. L’épouse de l’appelant n’a pas témoigné à l’audience.
+[8] Les articles 74.1 et 74.2 ont pour objet d’éviter le fractionnement du revenu. Les comptes de placement qui font l’objet du litige en l’espèce ont été acquis par l’appelant et ont toujours été détenus par lui. Le revenu d’intérêt, le revenu de dividendes et les gains en capital en cause ont été inclus à juste titre dans le revenu de l’appelant.
+[9] L’appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 6e jour de septembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 22e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Annexe A
+Année d’imposition 1997
+Intérêt
+Déclaré
+Nouvelle cotisation
+Merrill Lynch 483208
+14 049 $
+28 099 $
+Dividendes
+Atlas
+Néant
+57 $
+Gain en capital
+Hydro Québec
+1 573 $
+3 146 $
+Obligations de la province d’Ontario
+3 921 $
+7 841 $
+Atlas
+Néant
+10 667 $
+BNS Mtg
+Néant
+228 $
+716202 Ontario
+Néant
+(10 000 $)
+Année d’imposition 1998
+Intérêt
+Déclaré
+Nouvelle cotisation
+Merrill Lynch 483208
+19 625 $
+39 249 $
+Dividendes
+St. Mary’s Paper
+46 725 $
+93 449 $
+Année d’imposition 1999
+Intérêt
+Déclaré
+Nouvelle cotisation
+Merrill Lynch 483208
+22 960 $
+45 920 $
+Merrill Lynch 48AASS
+2 779 $
+5 557 $
+Dividendes
+St. Mary’s Paper
+14 000 $
+28 000 $
+Gain en capital
+Compagnie de la Baie d’Hudson
+800 $
+1 450 $
+Telesystem International
+2 905 $
+5 570 $
+Canada
+777 $
+3 555 $
+Russels
+(250)
+(500)
+Année d’imposition 2000
+Intérêt
+Déclaré
+Cotisation
+Merrill Lynch 483208
+19 959 $
+39 918 $
+Merrill Lynch 48AASS
+5 644 $
+11 288 $
+Gain en capital
+St. Mary’s Paper
+11 246 $
+22 492 $
+BCE SR14
+Néant
+1 280 $
+BCE SR14
+Néant
+1 198 $
+RÉFÉRENCE : 2007CCI536
+NO DU DOSSIER : 2003-1906(IT)I
+INTITULÉ : Louis Muio c. La Reine
+LIEU DE L’AUDIENCE : Sault Ste. Marie (Ontario)
+DATE DE L’AUDIENCE : Le 16 août 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 6 septembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Marie-Eve Aubry
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,247 @@
+---
+title: "Commission Scolaire des Découvreurs c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25059/index.do"
+last_modified: "2003-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 295"
+citation2: ""
+neutral_citation: "2003 CCI 295"
+decision_date: "2003-04-29"
+language: "fr"
+item_id: "25059"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2534
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:15:17.909000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce4c3ac0c0cd534675a3cba5f9a7894aae9cf03953a4d8e37896506e64cbf300"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Commission Scolaire des Découvreurs c. La Reine
+
+- Citation: 2003 CCI 295
+- Decision date: 2003-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2534, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Commission Scolaire des Découvreurs c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-29
+Référence neutre
+2003 CCI 295
+Numéro de dossier
+2001-1139(GST)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-1139(GST)G
+ENTRE :
+COMMISSION SCOLAIRE DES DÉCOUVREURS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 4 novembre 2002 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocat de l'intimée :
+Me Michel Morel
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation de la taxe sur les produits et services établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 20 juillet 1999 et qui porte le numéro 9213376, est rejeté, avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d'avril 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+Référence : 2003CCI295
+Date : 20030429
+Dossier : 2001-1139(GST)G
+ENTRE :
+COMMISSION SCOLAIRE DES DÉCOUVREURS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx, C.C.I.
+[1] Il s'agit d'un appel d'une cotisation pour la période du 1er avril 1996 au 28 février 1997 établie en vertu de la Loi sur la taxe d'accise (la « Loi » ).
+[2] La question en litige est de savoir si une somme de 880 660 $, versée par la Ville de Québec à titre de subvention relativement aux travaux de rénovation et d'agrandissement de l'école Sainte-Monique, est la contrepartie d'une fourniture d'un immeuble par bail, au sens de l'alinéa 25f) de la partie VI de l'annexe V de la Loi.
+[3] Madame Chantal Dolbec, directrice générale de l'appelante, a été le premier témoin.
+[4] De 1992 à 1997, elle était directrice générale de la Commission scolaire des Belles-Rivières. En 1998, dans le cadre d'une fusion de commissions scolaires, la majeure partie de la Commission scolaire des Belles-Rivières a été intégrée à la Commission scolaire des Découvreurs. C'est ainsi que madame Dolbec est devenue directrice-générale de l'appelante et c'est ainsi que l'appelante agit présentement aux droits de l'ancienne Commission scolaire des Belles-Rivières.
+[5] Madame Dolbec a expliqué qu'il y a toujours eu et il y a encore des ententes de partenariat entre la Ville de Québec et les commissions scolaires afin que les locaux et les installations sportives des écoles et de la ville servent aux fins municipales et scolaires moyennant le paiement des coûts excédentaires.
+[6] À l'école Sainte-Monique, une école de la Commission scolaire des Belles-Rivières, il y avait une grande salle qui était appelée gymnase. Il y avait une entente avec la ville pour l'usage de la grande salle selon la modalité des coûts excédentaires. Toutefois la grande salle n'était pas un gymnase équipé comme un gymnase véritable. La commission scolaire ne pouvait pas à elle seule financer la construction d'un gymnase. Les parties ont convenu de la construction d'un gymnase et d'une salle communautaire.
+[7] Le témoin explique que les coûts excédentaires signifient les coûts d'entretien ménager, le chauffage, l'électricité et autres coûts excédant les coûts de l'utilisation faite par la commission scolaire.
+[8] L'agrandissement et la partie rénovée de l'école ont pris le nom de « Le Centre communautaire Des Saules » . Le plan a été déposé comme pièce A-1.
+[9] Les coûts totaux d'environ 1 260 000 $ ont été partagés dans la proportion des 2/3 pour la ville et de 1/3 pour la commission scolaire. Les paiements au montant respectif de 440 330 $ ont été faits le 16 avril 1996 et le 11 février 1997.
+[10] La convention entre la Ville de Québec et la Commission scolaire des Belles-Rivières (la « Convention » ) a été déposée comme pièce A-2. Cette Convention a été signée le 19 mars 1996. À la demande de l'avocat, le témoin a lu les clauses préliminaires de la Convention :
+ATTENDU que « La Commission » est propriétaire de l'école Ste-Monique sise au 4120, De Musset, Les Saules, Québec;
+ATTENDU que « La Ville » et « La Commission » reconnaissent les avantages d'une collaboration étroite entre elles, en vue d'une meilleure utilisation des équipements et locaux disponibles;
+ATTENDU que « La Commission » désire agrandir l'école Ste-Monique d'un plateau de gymnase avec services et apporter certaines améliorations à la bâtisse existante;
+ATTENDU que « La Ville » a besoin dans le secteur concerné de locaux spécialisés et polyvalents et d'un gymnase;
+ATTENDU que « La Commission » désire louer gratuitement à « La Ville » les espaces dont elle a besoin dans l'école Ste-Monique rénovée et agrandie;
+ATTENDU que « La Ville » est autorisée en vertu des pouvoirs qui lui sont conférés par les articles 303, 312a) de sa Charte et l'article 72 du chapitre 86 des Lois du Québec de 1969 à verser des subventions pour l'établissement de terrains de jeux et de centres de loisirs dans les limites de son territoire;
+ATTENDU qu'en fonction de l'engagement de la « La Commission » « La Ville » est prête à lui verser une subvention de 880 660 $ pour lui permettre de réaliser les travaux de rénovation et d'agrandissement de l'école Ste-Monique selon les plans et devis préparés pour « La Commission » qui auront été approuvés et acceptés préalablement par « La Ville » ;
+ATTENDU que pour atteindre ces objectifs, il est nécessaire de définir les engagements des deux parties, en ce qui concerne l'utilisation des locaux et leur aménagement ainsi que les priorités à établir dans l'utilisation de ceux-ci;
+[11] Elle a par la suite lu plusieurs alinéas de l'article 2 de la Convention qui décrit les engagements de la commission. Les alinéas 2 a) et 2 b) de la Convention.
+2- « La Commission » s'engage :
+a) à rénover et agrandir l'école le tout selon le cahier des directives générales des établissements scolaires ainsi que les procédures et instructions du ministère de l'Éducation du Québec et conformément aux plans et devis du Groupe-conseil Bisson et Poulin, architectes, dont copies sont joints en annexe des présentes pour en faire partie intégrante. Si suite à l'ouverture des soumissions, une révision budgétaire était nécessaire, « La Commission » recommencera, à ses frais, le processus de préparation des plans et devis ainsi que les appels d'offres le tout après consultation auprès de « La Ville » et ce de façon à respecter les budgets fixés préalablement;
+b) à louer gratuitement à « La Ville » , pour une durée de trente (30) ans les locaux de l'école rénovés et agrandis plus particulièrement les espaces suivants : une grande salle numéro E-102, un local numéro E-115, un local polyvalent situé au premier étage de l'école avant agrandissement numéro E-206, un gymnase numéro 166 et ses annexes, une salle d'animation numéros 259 et 261, un local spécialisé numéro 152 et deux locaux polyvalents numéros 252 et 256 situés dans les locaux agrandis, le tout pour permettre à la Ville de bénéficier d'une superficie de plus ou moins 1 250 mètres carrés de locaux, avec option de renouvellement pour une période additionnelle de trente (30) ans aux conditions à être déterminées entre les parties, les locaux à louer apparaissant en liséré vert au plan joint en annexe des présentes pour en faire partie intégrante;
+L'utilisation prioritaire des salles numéros E-102, E-115, du local polyvalent du premier étage numéro E-206 situé à l'intérieur de l'école ainsi que le gymnase numéro 166 et les locaux numéros 259 et 261 situés dans les locaux agrandis est accordée à la Ville de 18 h 00 à 23 h 00 pendant les journées scolaires et de 07 h 00 à 23 h 00 tous les autres jours;
+Pour ce qui est de la salle d'animation numéro 152 et des locaux polyvalents numéros 252 et 256 situés dans les locaux agrandis l'utilisation est accordée à la Ville de 07 h 00 à 23 h 00 en tout temps;
+[12] Le témoin a expliqué qu'il y avait deux sortes de locaux. Quelques-uns étaient à l'usage exclusif de la ville. Mais pour la plus grande partie des locaux, la ville n'avait droit de les utiliser qu'en dehors de l'horaire régulier des élèves. Elle payait les coûts excédentaires liés à ces utilisations.
+[13] Les articles 2 d), 2 f), 2 g), 2 h), 2 j) et 2 k) de la Convention se lisent comme suit :
+...
+d) à ne faire ni ne permettre que soit effectuée aucune modification dans les locaux mentionnés à l'article 2 b) sans avoir obtenu au préalable un consentement écrit de « La Ville » ;
+...
+f) à effectuer la surveillance des travaux de rénovation et d'agrandissement et de rénovation de l'école ;
+g) à investir un montant de 385 000 $ dans la réalisation du projet d'agrandissement conjointement avec « La Ville » ;
+h) à utiliser toute la subvention versée par « La Ville » pour défrayer une partie des coûts d'agrandissement et de rénovation de l'école;
+...
+j) à maintenir en vigueur pendant toute la durée des travaux et ultérieurement du bail à être signé une assurance-incendie couvrant l'école et les travaux où « La Ville » et « La Commission » seront désignées conjointement comme bénéficiaires des indemnités;
+k) à acquitter tous les coûts d'opérations des locaux loués, seuls les coûts excédentaires à être définis au bail à être signé seront acquittés par « La Ville » ;
+...
+[14] Le témoin lit aussi quelques alinéas de l'article 3, article qui décrit les engagements de la ville. Elle lit aussi 3 a), 3 b) et 3 c) de la Convention :
+...
+a) à verser à « La Commission » une subvention de 880 660 $ payable pour cinquante pour cent (50%) lors la signature de la convention par toutes les parties et le solde lorsque les travaux prévus aux présentes auront été complétés et que le bail aura été signé par toutes les parties;
+b) à louer gratuitement de « La Commission » les locaux mentionnés à l'article 2 b) pour une durée de trente (30) ans avec option de renouvellement pour une période additionnelle de trente (30) ans aux conditions à être déterminées;
+...
+Article 6 :
+La participation financière de « La Ville » au projet réalisé dans le cadre de la convention doit être clairement identifiée. Pour ce faire « La Commission » s'engage à maintenir sur place en tout temps durant la réalisation des travaux une affiche indiquant que les travaux sont réalisés en collaboration avec « La Ville » .
+[15] Par la suite en date du 7 février 1997, une entente de bail (pièce A-3) est intervenue entre la ville et la commission. Le témoin lit les trois derniers attendus :
+...
+ATTENDU que les travaux de rénovation et d'agrandissement à l'école ci-haut mentionné sont déjà réalisés;
+ATTENDU que la Ville de Québec occupe depuis le vingt-neuf (29) janvier mil neuf cent quatre-vingt-seize (1996) les « lieux loués » ;
+ATTENDU que le locataire a versé au locateur partie ce jour et partie avant ce jour la somme de HUIT CENT QUATRE-VINGT-MILLE SIX CENT SOIXANTE DOLLARS (880 660 $) somme que le locateur reconnaît avoir reçu du locataire dont quittance totale et finale.
+[16] Madame Dolbec explique, qu'à l'instar des autres ententes de la commission avec la ville, les locaux en cause sont loués gratuitement à la ville. Les seules sommes à payer sont les coûts excédentaires. De même, quand c'était la ville qui était propriétaire des locaux, dont l'utilisation était permise à la commission scolaire, cette dernière ne payait que les coûts excédentaires.
+[17] Le témoin conclut en disant qu'il s'agissait d'un projet commun où chacun y trouvait son compte.
+Contre-interrogatoire
+[18] La pièce I-1 est une résolution de la commission scolaire passée le 8 août 1995. À la demande de l'avocat de l'intimée, madame Dolbec lit les trois attendus :
+...
+ATTENDU que le budget prévu pour l'agrandissement-rénovation école Sainte-Monique et Centre communautaire Les Saules est de 1 265 000 $;
+ATTENDU que la participation de la Ville de Québec au projet est de 880 660 $ et que celle de la Commission scolaire des Belles-Rivières est de 385 000 $, le tout étant encadré à l'intérieur d'un projet de convention et de bail dont les termes et les conditions sont complétés entre les parties;
+ATTENDU que le plus bas soumissionnaire conforme sur le projet est Construction Genfor ltée au montant de 1 178 000 $;
+...
+[19] Le témoin réitère son explication des faits. La commission scolaire avait besoin d'un gymnase conforme au programme d'étude, donc sa première démarche a été d'interpeller la ville pour avoir un gymnase conforme. La ville a signifié son besoin d'infrastructure communautaire dans le secteur. L'ensemble des besoins a été analysé et le projet en est sorti.
+[20] Le deuxième témoin de l'appelante a été monsieur Alain Méthivier, Directeur du service des ressources financières et du transport scolaire à la Commission scolaire Des Découvreurs. À l'époque en litige, il était le Directeur du service des ressources financières de l'ancienne Commission scolaire des Découvreurs. Il n'a pas eu connaissance du dossier à l'époque. C'est lui qui a reçu la cotisation dont il y a appel et qui a été produite comme pièce A-4. La taxe est de 61 646,20 $, les pénalités 11 585,94 $, les intérêts 7 983,08 $. La cotisation est en date du 20 juillet 1999 et la période du 1er avril 1996 au 28 février 1997. L'avis d'opposition est en date du 12 octobre 1999 et a été déposé comme pièce A-5.
+[21] La décision sur opposition a été déposée comme pièce A-6. Le motif de la décision est que le montant de 880 660 $, versé par la Ville de Québec à la Commission scolaire constitue la contrepartie d'une fourniture taxable à l'égard de laquelle la Commission scolaire était tenue de percevoir et de remettre la taxe conformément aux dispositions des articles 165, 221, 225 et 228 de la Loi sur la taxe d'accise..
+[22] Le troisième témoin de l'appelante a été monsieur Réal Lévesque, récréologue, fonctionnaire de la Ville de Québec. À l'époque en litige, il était au service de la culture, loisir et du communautaire de la Ville de Québec. Il a expliqué que, lorsque la Ville de Québec veut se doter d'équipement de loisirs ou de salles communautaires, elle peut construire elle-même l'équipement, mais dans la majorité du temps, c'est de développer un partenariat avec le milieu et faire en sorte que ces équipements soient au service de l'ensemble de la population. La première hypothèse est de chercher un partenariat au niveau de l'aménagement et de la construction. Cela peut se faire avec des commissions scolaires ou avec le privé.
+[23] Une facture en date du 18 décembre 2000 a été déposée comme pièce A-7. L'objet de la facture concerne les « coûts excédentaires reliés au bail de l'école Ste-Monique, période du 1er janvier au 30 juin 2000, 7 500 $, période du 1et juillet au 31 décembre 2000, 7 500 $ » . La TPS et la TVQ ont été imposées sur ces montants.
+[24] L'avocat de l'intimée a fait remarquer que la facture était faite par la Commission scolaire de la Capitale et non pas par l'appelante. L'avocat de l'appelante explique que les dettes et obligations de l'ancienne Commission scolaire des Belles Rivières ont été transférées et prises en charge par la Commission scolaire des Découvreurs, mais qu'en ce qui concerne le partage territorial, l'école Ste-Monique a été transférée à la Commission scolaire de la Capitale.
+[25] À la demande de l'avocat de l'intimée, il a lu l'article 4 de la pièce A-3 qui décrit les coûts excédentaires, qui doivent être payés par la ville :
+4. LOYER
+Vu le versement d'une somme de HUIT CENT QUATRE-VINGT-MILLE SIX CENT SOIXANTE DOLLARS (880 660 $) par le locataire au locateur, cette location est consentie à titre gratuit par le locateur au locataire pour toute la durée du bail et de son renouvellement, s'il y a lieu.
+Nonobstant ce qui est dit le locataire s'engage et s'oblige envers le locateur;
+- à lui payer annuellement, sur présentation des pièces justificatives appropriées, les coûts d'opération à savoir l'entretien, l'électricité, le chauffage pour l'utilisation exclusive de la salle d'animation numéro 152 et des locaux polyvalents numéros 252 et 256. Ces trois locaux ont une superficie totale de trois cent seize mètres carrés (316m2).
+- à lui payer annuellement, sur présentation des pièces justificatives appropriées, VINGT POUR CENT (20%) des coûts énergétiques total de la superficie utilisée par le locataire à l'exclusion des parties exclusives.
+- à payer CENT POUR CENT (100%) des coûts d'entretien requis hors la cédule d'entretien convenue entre les parties et encourus par le locateur à la demande du locataire pour les « lieux loués » .
+- à payer, le cas échéant, 71.5 % POUR CENT de la prime déboursée par le locateur pour maintenir une police d'assurance tous risques en conformité avec l'article 8.1 du présent bail.
+[26] Il explique que les loyers à verser à la commission scolaire, sont les éléments identifiés pour les frais couvrant l'entretien, chauffage, électricité et aussi les frais pour l'utilisation et l'entretien pendant la période estivale et des frais supplémentaires pour l'entretien, tel que demandé à la ville au besoin.
+[27] L'avocat de l'intimée lui demande d'expliquer le terme conjointement utilisé au paragraphe 2 f) de la pièce A-2 (reproduit au paragraphe 13 de ces motifs).
+[28] Selon le témoin, le mot « conjointement » signifie que dans les ententes de partenariat avec les commissions scolaires lors des travaux, la ville a toujours quelqu'un sur place pour s'assurer que le tout sera conforme à la demande, vu son intérêt dans le versement de la subvention.
+[29] Monsieur Jean Cloutier, fonctionnaire de la Ville de Québec, a été le dernier témoin. Il est Directeur de la section des équipements pour l'arrondissement Limoilou. Il a expliqué que, quand il s'agit d'équipement récréatif, la Ville de Québec tente de développer de plus en plus de toute façon les partenariats avec les commissions scolaires, de façon à ce que l'on puisse maximiser l'utilisation des équipements disponibles sur les territoires de la ville.
+[30] Il dépose comme pièce A-8 une facture en date du 26 novembre 1999 et à l'attention de monsieur Jean Cloutier : location de locaux de septembre à décembre 1999. Cette facture, qui provient de la Commission scolaire de la capitale, concerne différentes écoles, dont le Centre communautaire Les Saules, au montant de 11 000 $.
+[31] Le témoin explique qu'en général, lorsqu'il y a investissement ou mise en place d'équipement récréatif en partenariat avec les commissions scolaires, il y a un protocole d'entente qui détermine d'une part les accès aux locaux d'une façon prioritaire, les heures d'accès et la façon de compenser les coûts des commissions scolaires lorsque la ville utilise des locaux qui leur appartiennent et lorsque ces dernières utilisent ceux de la ville. Ces coûts sont les coûts excédentaires concernant les frais de chauffage, l'entretien, entretien ménager, entretien de bâtiment, etc.
+Argument
+[32] L'avocat de l'appelante s'appuie d'abord sur l'interprétation à donner à l'alinéa 25f) de la partie VI de l'annexe V, qui selon lui devrait s'interpréter restrictivement.
+[33] L'avocat de l'appelante s'appuie sur la nature du paiement fait par la ville à la commission scolaire. Il s'agit d'une subvention. Cette subvention n'est pas le paiement d'un loyer car le loyer n'était, essentiellement, que les coûts excédentaires, et sur ces coûts la taxe a été chargée et payée. La destination du bâtiment était liée. Il s'agissait d'un projet conjoint. La ville et la commission scolaire se sont fourni à elles-mêmes un nouvel édifice. La subvention avait pour but l'intérêt public : le nouveau bâtiment profite aux élèves et à la ville.
+[34] L'avocat de l'appelante se réfère à l'article 303 de la Charte de la Ville de Québec qui se lit comme suit :
+303. La ville est autorisée à verser des subventions ou à accorder une assistance sous forme de prêt ou autrement à toute personne ou à tout organisme, y compris une fondation, poursuivant des fins nationales, patriotiques, religieuses, philanthropiques, charitables, scientifiques, artistiques, culturelles, littéraires, sociales, professionnelles, athlétiques ou sportives, ayant pour but la protection de l'environnement ou la conservation des ressources ou poursuivant d'autres fins d'intérêt public non spécialement prévues qui sont dans l'intérêt de la ville ou de celui de ses citoyens et leur confier l'organisation et la gestion d'activités servant des fins municipales et relatives aux buts qu'ils poursuivent.
+[35] Il se réfère également à l'article 312 a) de la Charte de la Ville de Québec qui se lit comme suit :
+312 a) La ville est autorisée à accorder à même son budget des subventions pour l'établissement et le maintien de terrains de jeux et de centres de loisirs dans les limites de son territoire.
+[36] Selon l'avocat de l'intimée, ce qui est pertinent, c'est de savoir s'il y a un lien direct entre le paiement de la subvention et la fourniture de l'immeuble par bail prévoyant la possession ou l'utilisation continues de l'immeuble pour une durée de moins d'un mois.
+[37] L'avocat de l'intimée fait valoir en ce qui concerne l'interprétation à donner à l'alinéa 25f), que cet alinéa a été modifié à la suite d'une décision de la Cour d'appel fédérale dans Attorney General of Canada c. Metropolitain Toronto Hockey League, [1995] A.C.F. no 944 (Q.L.). Cette modification spécifie que la fourniture d'un immeuble par bail par un organisme de service public est taxable lorsque la période pendant laquelle la possession ou l'utilisation continues de l'immeuble est d'une durée de moins d'un mois.
+[38] L'avocat de l'intimée se réfère aux articles 2, 2.1 et 2.2 du bail en date du 7 février 1997, pièce A-3, qui démontrent clairement une possession et une utilisation continues de l'immeuble pour moins d'un mois.
+[39] La fourniture d'immeuble par bail prévoyant la possession et l'utilisation continues d'un immeuble pour une période de moins d'un mois est taxable car elle est visée par l'exception prévue à l'alinéa 25f). Le montant de la subvention est la contrepartie de cette fourniture aux termes des articles du contrat ci-dessus.
+Conclusion
+[40] Le paragraphe 165(1) de la Loi prévoit que l'acquéreur d'une fourniture taxable effectuée au Canada est tenu de payer une taxe sur la valeur de la contrepartie de la fourniture.
+[41] Une fourniture taxable est définie au paragraphe 123(1) de la Loi comme toute fourniture effectuée dans le cadre d'une activité commerciale. Dans la Loi, activité commerciale a un sens vaste, surtout en ce qui concerne une entité morale. Au paragraphe 123(1) de la Loi, constitue des activités commerciales, l'exploitation d'une entreprise, sauf dans la mesure où l'entreprise comporte la réalisation de fournitures exonérées. Il n'y a pas eu d'argument à l'effet que la fourniture des immeubles ne constituait pas une fourniture effectuée dans le cadre d'une entreprise. Il n'y a en fait pas de doute là-dessus. Il s'agit de déterminer si la fourniture en litige est exonérée et si elle ne l'est pas si le montant de la subvention en était la contrepartie.
+[42] Au paragraphe 123(1) de la Loi, une fourniture exonérée est définie comme étant une fourniture figurant à l'annexe V. La partie VI de cette annexe V concerne les organismes du secteur public. L'article 25 de cette partie VI de l'annexe V de la Loi décrit les fournitures d'immeubles qui sont exonérées et celles qui ne le sont pas. La situation qui nous concerne est celle prévue à l'alinéa 25f) qui se lit comme suit :
+25 La fourniture d'immeubles par un organisme de services publics (sauf une institution financière ou un gouvernement), à l'exclusion des fournitures suivantes :
+...
+f) les immeubles, sauf les logements provisoires, fournis soit par bail prévoyant la possession ou l'utilisation continues de l'immeuble pour une durée de moins d'un mois, soit par licence, si la fourniture est effectuée dans le cadre de l'exploitation d'une entreprise par l'organisme;
+...
+[43] Cet alinéa a été modifié par L.C. 1997, c. 10 par. 116(1) et cette modification s'applique aux fournitures effectuées en application d'une convention conclue après le 14 septembre 1992. L'alinéa 25f) se lisait auparavant comme suit :
+f) les immeubles, sauf les logements provisoires, fournis soit par bail pour une période de moins d'un mois, soit par licence, si la fourniture est effectuée dans le cadre de l'exploitation d'une entreprise par l'organisme;
+[44] C'est en regard de ce libellé que s'est ainsi exprimée la Cour d'appel fédérale dans la décision Metropolitan Toronto Hockey League c. Canada (précitée) :
+... En conséquence, il n'est pas déraisonnable de considérer la fourniture prévue par chaque convention comme une fourniture unique qui vise l'ensemble de la saison de hockey et qui, en tant que telle, n'est pas exclue par l'expression « pour une période de moins d'un mois » contenue à l'alinéa 25f), même si cette fourniture est discontinue au sens que nous avons déjà attribué à ce terme. ...
+[45] Les notes explicatives concernant la modification ci-dessus mentionnée disent ce qui suit :
+En vertu de l'alinéa 25f), les fournitures effectuées par bail d'une durée de moins d'un mois sont exclues de l'exonération visant les fournitures d'immeubles effectuées par un organisme de services publics. Cette modification précise que ce critère repose sur la période de possession ou d'utilisation continue.
+[46] La fourniture des locaux de l'appelante à la Ville de Québec est faite par bail prévoyant la possession ou l'utilisation continues de ces locaux pour des durées de moins d'un mois. La fourniture en litige tombe dans l'exception prévue à cet alinéa 25f) et est en conséquence une fourniture taxable. C'est ainsi que l'appelante elle-même le comprend puisqu'elle perçoit la taxe sur les coûts excédentaires payés par la Ville de Québec pour la location des lieux.
+[47] Il y a dans les lieux loués des lieux qui sont à l'usage exclusif de la Ville de Québec, mais toutefois l'utilisation de ces locaux est accordée au locataire de 7 h 00 à 23 h 00 en tout temps. On ne m'a pas fait d'argumentation spécifique pour ces lieux. Il me semble par ailleurs qu'ils doivent se retrouver dans l'exception prévue au susdit alinéa 25f), car la durée de l'utilisation ne dépasse pas une journée.
+[48] Il s'agit maintenant de déterminer si le montant de la subvention est une contrepartie pour la fourniture par bail des immeubles. Au cours de l'audience, je considérais le paiement de la subvention au montant de 880 660 $ comme un paiement en capital pour les fins de la construction qui n'était pas de la nature d'une contrepartie d'un bail. La preuve qui m'était présentée faisait état d'ententes de partenariat et de location des lieux à titre gratuit moyennant le paiement des coûts excédentaires.
+[49] S'il n'y avait eu comme ententes signées entre La Commission scolaire des Belles-Rivières et la Ville de Québec que celle intitulée « Convention » , j'aurais pu considérer que le susdit paiement n'était qu'une aide financière à la construction de locaux et n'était pas une contrepartie pour la fourniture par bail d'un immeuble et qu'il s'agissait vraiment des ententes habituelles.
+[50] Toutefois dans cette entente de Convention les parties convenaient à la clause 4 intitulée « Bail » de signer un contrat de location. Ce contrat de location qui est la pièce A-3 prévoit à la clause 6 que dans les cas de destruction des lieux, il y aura reconstruction des lieux loués ou remboursement de la somme de 880 660 $ au prorata du nombre d'années restantes jusqu'au 28 janvier 2026. La clause 7 qui prévoit le cas d'aliénation et la clause 9 qui concerne l'expropriation prévoient le même remboursement du montant de 880 660 $ au prorata du nombre d'années restantes.
+[51] Il devient donc clair que la subvention n'a pas été payée que pour la construction des locaux, mais pour la fourniture par bail de ces locaux. Il ne s'agit pas d'une assistance financière qui est de la nature du don. La subvention a été faite à l'encontre de la fourniture par bail d'un immeuble. Elle était la contrepartie de la fourniture par bail prévoyant la possession ou l'utilisation continues de l'immeuble pour une durée de moins d'un mois.
+[52] Le plein montant de la subvention est-il celui de la contrepartie?
+[53] Au paragraphe 123(1) de la Loi le terme « contrepartie » est ainsi défini :
+123(1) Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+...
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture.
+...
+[54] Dans les notes explicatives on explique ainsi cette disposition :
+La définition de « contrepartie » est ajoutée afin qu'aucun doute ne subsiste : les montants qui auraient fait clairement partie de la contrepartie d'une fourniture, si un contrat avait été conclu, sont réputés des contreparties aux fins de la partie IX et des annexes V, VI et VII de la Loi. C'est le cas, par exemple, lorsque des services sont rendus à une personne sans qu'une convention à cet égard ait été conclue et que cette personne est tenue, par la loi, de payer la juste valeur des services reçus. Le montant exigible serait considéré comme une contrepartie. Dans tous les cas, pour être réputé contrepartie, un montant exigible doit porter sur une « fourniture » . Par conséquent, les montants payés, par exemple, sous forme de taxes, d'amendes ou de dons d'une administration publique ou d'une personne, que ce soit par effet de la loi ou en vertu d'une entente, continueront de ne pas être considérés comme contrepartie, cas ils ne portent pas sur une fourniture.
+[55] Il ne s'agit donc pas d'une définition du terme « contrepartie » mais d'une clarification dans le cas d'une situation non contractuelle. Dans une telle situation, on doit donner à ce terme son sens juridique normal. Dans le Vocabulaire Juridique, (Gérard Cornu) PUF 2e édition 1990, il est dit que ce terme est dans un contrat synallagmatique synonyme de contre-prestation. Si nous allons à la définition de « contre-prestation » dans le même livre, nous y lisons :
+Contrepartie fournie par celui qui reçoit une prestation dans le contrat synallagmatique; prestation réciproque (et regardée comme équivalente) mise à la charge d'un contractant. Ex. le salaire relativement au travail, le prix relativement à la chose vendue
+[56] Dans les deux ententes en question, la prestation de l'appelante était de construire et de fournir les locaux. Quelle devait être la prestation de la ville pour la fourniture des immeubles. L'article 1435 du Code civil du Québec nous indique que dans l'interprétation d'un contrat, on doit rechercher quelle a été la commune intention des parties. On voit à la lecture des ententes (pièces A-2 et A-3) que la commune intention des parties est que si les lieux sont détruits, aliénés ou expropriés le plein montant de la subvention soit 880 660 $ doit être remboursé au pro-rata des années restantes. Il me faut donc conclure que ce montant est la contrepartie de la fourniture par bail, fourniture qui n'est pas exonérée comme nous l'avons dit plus haut.
+[57] L'appel doit donc être rejeté. Les dépens sont en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 29e jour d'avril 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI295
+No DU DOSSIER DE LA COUR :
+2001-1139(GST)G
+INTITULÉ DE LA CAUSE :
+Commission scolaire des Découvreurs
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 4 novembre 2002
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 29 avril 2003
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocat de l'intimée :
+Me Michel Morel
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Daniel Bourgeois
+Étude :
+Pothier Delisle, Société d'avocats
+Sainte-Foy (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

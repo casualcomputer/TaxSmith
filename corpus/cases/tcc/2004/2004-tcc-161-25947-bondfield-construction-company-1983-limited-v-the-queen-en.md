@@ -1,0 +1,179 @@
+---
+title: "Bondfield Construction Company (1983) Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25947/index.do"
+last_modified: "2004-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 161"
+citation2: ""
+neutral_citation: "2004 TCC 161"
+decision_date: "2004-02-18"
+language: "en"
+item_id: "25947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3680
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:46:42.817000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cf9a024c6ba00e45b33fda71b26bb9a88b4024bc7d7dd7f3d505e7d533e0fae1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bondfield Construction Company (1983) Limited v. The Queen
+
+- Citation: 2004 TCC 161
+- Decision date: 2004-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3680, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bondfield Construction Company (1983) Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-18
+Neutral citation
+2004 TCC 161
+File numbers
+2001-967(GST)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-967(GST)G
+BETWEEN:
+BONDFIELD CONSTRUCTION COMPANY (1983) LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by way of conference call on February 9, 2004 at
+Ottawa, Ontario,
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Timothy Danson and Robert Zigler
+Counsel for the Respondent:
+André LeBlanc
+____________________________________________________________________
+ORDER
+Upon Motion by counsel for the Respondent for an order granting leave to amend the Reply to Amended Notice of Appeal:
+And upon reading the Book of Authorities, filed;
+And upon hearing counsel for the parties;
+The Motion is allowed to permit Respondent's proposed amendments respecting paragraphs 19 and 20 of the Reply to Amended Notice of Appeal. In all other respects the Motion is dismissed in accordance with the attached Reasons for Order.
+The Appellant shall have one set of costs of this application in any event of the cause.
+Signed at Ottawa, Canada, this 18th day of February 2004.
+"Diane Campbell"
+Campbell, J.
+Citation: 2004TCC161
+Date: 20040218
+Docket: 2001-967(GST)G
+BETWEEN:
+BONDFIELD CONSTRUCTION COMPANY (1983) LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell, J.
+[1] This is a motion by the Respondent pursuant to section 54 of the Tax Court of Canada Rules (General Procedure) to amend the Reply to the Amended Notice of Appeal. Prior to the hearing of this motion, Respondent filed a Book of Authorities. Due to a mix-up in addresses, counsel for the Appellant did not receive the Book of Authorities. The hearing proceeded on the basis that if counsel felt there was any resulting prejudice, we would deal with this issue if it arose.
+[2] As a brief background to this motion, a Notice of Appeal was first filed with this Court on March 14, 2001, with a Reply to Notice of Appeal filed on May 18, 2001. The Notice of Appeal was amended by consent and filed on March 5, 2003. A Reply to the Amended Notice of Appeal was filed on March 17, 2003. The appeal is in respect to a reassessment under Part IX of the Excise Tax Act, R.S.C. 1985, c.E-15, as amended, for the period January 1, 1991 to November 30, 1995. The appeal came on for hearing in Toronto on September 22, 2003 for three days and continued on October 21, 2003 for two more days. On October 22, 2003, Respondent counsel advised that she was taking a leave of absence and would be replaced forthwith by other departmental counsel. The matter was scheduled to resume during the week of February 23, 2004 for the purpose of calling two final witnesses on behalf of the Respondent and for hearing summations. Mr. André LeBlanc advised that he received the files mid-November of 2003 from the original Respondent counsel. On January 26, 2004, Mr. LeBlanc filed the Notice of Motion to amend the Reply. I heard the Motion on February 9, 2004.
+[3] The Appellant carries on a general contracting business as an institutional builder of schools, hospitals, government buildings and other commercial and industrial buildings. One of the issues in this appeal involves what has been termed "back-charges". These charges arose when a sub-contractor's work was deficient. The Appellant, or third parties hired by the Appellant, remedied the deficient work and then sought a reduction in the sub-contract price with that sub-contractor in respect to these correction costs. Prior to the hearing of this motion, the issues as contained in the Reply to Amended Notice of Appeal stated:
+16. The issues to be decided are whether, for the Period, the Minister properly reassessed the Appellant:
+a) for the period January 1, 1991 to June 5, 1994 pursuant to subsection 298(4) of the Act;
+b) to disallow ITC's over-claimed in respect of the back-charges;
+c) interest and penalties pursuant to section 280 of the Act.
+[4] In addition under the heading "Statutory Provisions, Grounds Relied On And Relief Sought", the Reply contained the following paragraphs concerning income tax credits (the ITC's) on back-charges:
+18. He respectfully submits that the Minister properly reassessed the Appellant for the Period in respect of the back-charges as the Appellant over claimed ITC's in amount of $153,648.88 in connection with the back-charges pursuant to the provisions of sections 165, 168, 169, 221, 222 and 225 of the Act.
+19. He respectfully submits that the Minister properly reduced the amount of the Appellant's claim for ITC's for the Period in respect of the back-charges as the Appellant issued debit notes to its contractors in instances of deficient work and failed to adjust the amount of ITC's claimed as required by section 232 of the Act.
+...
+21. He respectfully submits that the Minister properly assessed the Appellant for the Period under subsection 298(4) of the Act as in filing its GST returns during the Period and over-claiming ITC's on the back charges, in under-remitting GST on the PST Portion of the Contractors' Invoices and in remitting its net tax one month late for the period January 1, 1991 to April 30, 1992, the Appellant made a misrepresentation that is attributable to neglect, carelessness or wilful default.
+[5] Respondent counsel proposes the following amendments to the aforesaid paragraphs contained in the Reply to Amended Notice of Appeal:
+16. The issues to be decided are whether, for the Period, the Minister properly reassessed the Appellant:
+a) for the period January 1, 1991 to June 5, 1994 pursuant to subsection 298(4) of the Act;
+b) for under-remitting the amount of $153,648.88 collected as or on account of tax or to disallow ITC's over-claimed in the same amount in respect of the back-charges;
+c) interest and penalties pursuant to section 280 of the Act.
+...
+18. He respectfully submits that the Minister properly reassessed the Appellant for the Period in respect of the back-charges as the Appellant collected as or on account of tax in connection with the back-charges the amount of $153,648.88 and failed to remit the amount so collected as required by sections 222, 225 and 228 or, in the alternative, as the Appellant over claimed ITC's in amount of $153,648.88 in connection with the back-charges pursuant to the provisions of sections 165, 168, 169, 221, 222 and 225 of the Act.
+19. He respectfully submits that the Minister properly reduced the amount of the Appellant's claim for ITC's for the Period in respect of the back-charges as the Appellant issued debit notes to its contractors in instances of deficient work and failed to adjust the amount of ITC's claimed as required by section 232 of the Act.
+...
+21. He respectfully submits that the Minister properly assessed the Appellant for the Period under subsection 298(4) of the Act as in filing its GST returns during the Period and under-remitting GST or over-claiming ITC's on the back charges, in under-remitting GST on the PST Portion of the Contractors' Invoices and in remitting its net tax one month late for the period January 1, 1991 to April 30, 1992, the Appellant made a misrepresentation that is attributable to neglect, carelessness or wilful default.
+[6] The Respondent also seeks to amend paragraph 20, which reads as follows:
+20. He respectfully submits that the Minister properly assessed the Appellant interest for the period January 1, 1991 to April 30, 1992 pursuant to subsection 280(1) as the Appellant failed to remit its net tax as and when required by sections 228 and 245 of the Act.
+[7] Respondent concedes that the Minister did not properly assess the Appellant interest for the period January 1, 1991 to April 30, 1992. This amendment by way of concession by the Respondent during the hearing of the motion shall be permitted and the original wording of paragraph 20 shall now be replaced by the following:
+20. He concedes that respectfully submits that the Minister did not properly assessed the Appellant interest for the period January 1, 1991 to April 30, 1992 pursuant to subsection 280(1) as the Appellant did not failed to remit its net tax as and when required by sections 228 and 245 of the Act.
+[8] Paragraph 19 of the Reply shall also be deleted in its entirety as Respondent counsel advised during the hearing of the motion that the Minister no longer wished to take this position regardless of the outcome of the motion.
+[9] I am left then to deal with the request for the proposed amendments to paragraphs 16, 18 and 21.
+[10] Rule 54 of the Tax Court of Canada Rules (General Procedure) states:
+A pleading may be amended by the party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may impose such terms as are just.
+[11] Respondent counsel requests this amendment to enable the Minister to advance the position that the amount of $153,648.88 is an amount that was collected by the Appellant as tax or on account of tax and therefore should have been remitted by the Appellant. If this proposed amendment were allowed, then Respondent would argue as an alternative position that the ITC's were over claimed by the Appellant in the same amount. In essence the Respondent wants to be able to argue that this money represents an amount that has been collected by the Appellant on account of tax and therefore must be remitted. Only if this position failed would Respondent then argue that the Appellant over claimed ITC's in the same amount.
+[12] Respondent counsel argued that the proposed amendment was simply an alternative position which was advanced for the purpose of determining the real questions or issues with respect to the back-charges. His position was that these proposed amendments clarified the issue, did not raise any additional facts, required no further evidence, and resulted in no injustice to the Appellant.
+[13] Respondent counsel referred me to a number of cases in support of this motion. Most of these cases however deal with amendments at the discovery stage in the proceedings or at least at the commencement. Because this present motion has not been brought in a timely manner, the cases quoted can be distinguished and should be.
+[14] The generally accepted rule for granting amendments was laid out by the Federal Court of Appeal in the case of The Queen v. Canderel Limited, [1994] 1 F.C. 3; 93 DTC 5357 (F.C.A.), Décary, J. at page 5360 states:
+...the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.
+[15] Associate Chief Justice Bowman in Continental Bank Leasing Corporation et al. v. The Queen, [1993] T.C.J. No. 18; 93 DTC 298, in discussing the term 'interests of justice' stated the following at page 302:
+...I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court's consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.
+[16] This passage was quoted with approval by the Federal Court of Appeal in Canderel. At page 5361-2, the Federal Court of Appeal went on to state:
+While it is true that leave to amend may be sought at any stage of a trial, it is safe to say that the nearer the end of the trial a motion to amend is made, the more difficult it will be for the applicant to get through both the hurdles of injustice to the other party and interests of justice. ...
+[17] This case has a very long history with this Court including five or six adjournments. There has been ample time for all parties to have taken a serious look at the adequacy of their pleadings. This request has not come in the early stages of the proceedings. In fact we are closer to the end than to the middle of the hearing. Most of the evidence is in and we are on the eve of its conclusion. It is simply too late in the day to permit these proposed amendments when we are on the homestretch.
+[18] Respondent counsel argued that the amendment would not prejudice the Appellant because all of the documentary evidence respecting the back charges was before the Court. He argued that there would be no need to hear from additional witnesses as the documents speak for themselves. It was Respondent's contention that the proposed alternative position could be decided based on the documentary evidence already before the Court.
+[19] I do not believe it is open to the Respondent to second-guess the Appellant's approach to this amendment and to suggest the Appellant would have framed its case and marshalled its evidence in the same way even if the amendment had been allowed early on. That is pure speculation on the part of Respondent counsel. It would be highly prejudicial to any Appellant to permit an amendment such as this when discoveries are completed, strategies planned for the hearing, and when most of the witnesses have been examined and cross-examined. If this motion had been brought and permitted at the discovery stage for example, counsel for the Appellant may or may not have taken an alternative approach to this hearing. We will never know that. However one thing is certain - at this stage in the hearing the Appellant is now absolutely prevented from pursuing any possibility of re-evaluating and re-focusing their strategy if the proposed amendments were allowed. This places the Appellant in a very precarious position. Where there is even a hint of unfairness or potential for prejudice to a taxpayer, a matter such as this must be resolved in favour of the taxpayer. When I view this proposed amendment in terms of the "simple fairness, common sense, and the interest that the courts have that justice be done" (in the words of Associate Chief Justice Bowman in the case of Continental Banking), it is too late to permit the amendment. Certainly if this motion had been brought in a more timely fashion at the discovery stage or during the early stage of the hearing itself, I may have reached a different conclusion. It would just be simply wrong to allow the proposed amendment in the circumstances of this case.
+[20] The motion is allowed to permit the deletion of paragraph 19 of the Reply to Amended Notice of Appeal and to allow the proposed amendment to paragraph 20. In all other respects the motion is dismissed.
+[21] The Appellant shall have one set of costs of this application in any event of the cause.
+Signed at Ottawa, Canada, this 18th day of February 2004.
+"Diane Campbell"
+Campbell, J.
+CITATION:
+2004TCC161
+COURT FILE NO.:
+2001-967(GST)G
+STYLE OF CAUSE:
+Bondfield Construction Company (1983) Limited and
+Her Majesty the Queen
+PLACE OF CONFERENCE CALL:
+Ottawa, Ontario
+DATE OF CONFERENCE CALL:
+February 9, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice
+Diane Campbell
+DATE OF ORDER:
+February 18, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Timothy Danson and
+Robert Zigler
+Counsel for the Respondent:
+André LeBlanc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Timothy Danson and
+Robert Zigler
+Firm:
+Danson, Recht & Freedman
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

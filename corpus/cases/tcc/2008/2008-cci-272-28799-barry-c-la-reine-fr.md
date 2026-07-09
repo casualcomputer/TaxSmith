@@ -1,0 +1,125 @@
+---
+title: "Barry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28799/index.do"
+last_modified: "2008-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 272"
+citation2: ""
+neutral_citation: "2008 CCI 272"
+decision_date: "2008-04-30"
+language: "fr"
+item_id: "28799"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1519
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:49:41.210000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01194f809e918abb83f0942312b89fc0622754eb9d891f39bd34c64bae2b861f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barry c. La Reine
+
+- Citation: 2008 CCI 272
+- Decision date: 2008-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1519, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-30
+Référence neutre
+2008 CCI 272
+Numéro de dossier
+2007-3974(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3974(IT)G
+ENTRE :
+PETER BARRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+Après avoir lu l’avis de requête déposé par l’appelant le 28 avril 2008 en vue d’obtenir une ordonnance le dispensant du contre‑interrogatoire qu’il doit subir le 2 mai 2008, et après avoir lu la déclaration sous serment de l’appelant jointe à l’avis de requête;
+Et après avoir lu les observations écrites de l’intimée en opposition à la requête de l’appelant;
+La Cour ordonne que la requête de l’appelant soit rejetée.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour de juillet 2008.
+Sandra de Azevedo, LL.B.
+Référence : 2008CCI272
+Date : 20080430
+Dossier : 2007-3974(IT)G
+ENTRE :
+PETER BARRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+[1] L’appelant a interjeté appel à la Cour. L’intimée a déposé un avis de requête en vue d’obtenir une ordonnance radiant l’avis d’appel au motif que, pour la plupart des années visées par l’appel, l’appelant avait renoncé par écrit à son droit d’appel et que, pour l’une des années visées par l’appel, aucun avis d’opposition n’avait été déposé. L’appelant a déposé une réponse à cet avis de requête, notamment sa propre déclaration sous serment. La requête doit être entendue à Hamilton le 3 juin 2008.
+[2] L’appelant a déposé un avis de requête en vue d’obtenir une ordonnance le dispensant du contre‑interrogatoire qu’il doit subir le 2 mai 2008. Il ressort de la déclaration sous serment de l’appelant que l’intimée lui a signifié un avis d’interrogatoire lui enjoignant de se présenter, le 2 mai 2008, à un interrogatoire au cours duquel l’intimée le contre‑interrogera au sujet de la déclaration sous serment qu’il a déposée relativement à la requête de l’intimée.
+[3] Dans son avis de requête, l’appelant a demandé que sa requête soit tranchée sur la base des observations écrites et sans comparution des parties. L’intimée a déposé des observations écrites en opposition à la requête de l’appelant. L’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale) (« Règles ») prescrit ce qui suit :
+69. (1) La partie qui dépose un avis de requête peut, au moment du dépôt ou par la suite, présenter une demande écrite pour que la requête soit tranchée sur la base des observations écrites et sans comparution des parties.
+(2) Une copie de la demande et des observations écrites doit être signifiée à toutes les parties visées par l'avis de requête.
+(3) Une partie à qui la requête a été signifiée dispose de vingt jours pour
+a) produire et signifier des observations écrites en opposition à la requête,
+b) déposer et signifier une demande écrite d'audience.
+(4) Lorsque toutes les parties à qui la requête a été signifiée ont donné leur réponse ou que le délai est expiré, la Cour peut
+a) accorder le jugement sans audience;
+b) ordonner la tenue d’une audience;
+c) ordonner le dépôt d’observations écrites.
+[4] L’article 74 des Règles prescrit ce qui suit :
+74. Le déposant d'une déclaration sous serment peut être contre-interrogé au sujet de la déclaration sous serment par une partie opposée à la requête, et le témoignage qui en découle peut être utilisé lors de l'audition de la requête.
+[5] Cette disposition est claire. En conséquence, ainsi que l’a demandé l’appelant, un jugement sera accordé sans audience dans la présente affaire. L’appelant ayant déposé sa propre déclaration sous serment, il peut être contre‑interrogé au sujet de celle‑ci par l’intimée dans le présent dossier. En conséquence, la requête de l’appelant visant à obtenir une ordonnance le dispensant du contre‑interrogatoire est rejetée.
+[6] Il y a lieu de noter que l’article 74 des Règles s’applique aux deux parties. Si l’appelant souhaite contre‑interroger le déposant de la déclaration sous serment déposée par l’intimée, il a donc le droit de le faire en vertu de l’article 74 des Règles. La question de l’équité procédurale mentionnée dans l’avis de requête de l’appelant — à savoir qu’il serait injuste de permettre à l’intimée de le contre‑interroger sans qu’elle‑même ne fasse comparaître le déposant de sa déclaration sous serment aux fins d’un contre‑interrogatoire — est réglée à l’article 74 des Règles, qui permet à toute partie opposée à la requête de contre‑interroger le déposant d’une déclaration sous serment qui a été déposée. Par conséquent, ainsi qu’il a été indiqué précédemment, l’appelant a le droit de contre‑interroger le déposant de la déclaration sous serment de l’intimée, si c’est ce qu’il souhaite faire.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 16e jour de juillet 2008.
+Sandra de Azevedo, LL.B.
+RÉFÉRENCE : 2008CCI272
+No DU DOSSIER DE LA COUR : 2007-3974(IT)G
+INTITULÉ : PETER BARRY ET LA REINE
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE ET
+DES MOTIFS : Le 30 avril 2008
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

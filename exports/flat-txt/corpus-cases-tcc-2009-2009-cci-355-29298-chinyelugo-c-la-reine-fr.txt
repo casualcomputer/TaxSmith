@@ -1,0 +1,189 @@
+Title: Chinyelugo c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29298/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-355-29298-chinyelugo-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-08
+
+# Chinyelugo c. La Reine
+
+- Citation: 2009 CCI 355
+- Decision date: 2009-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7099, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chinyelugo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-08
+Référence neutre
+2009 CCI 355
+Numéro de dossier
+2008-3779(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3779(IT)I
+ENTRE :
+IZUCHUKWU ERNEST CHINYELUGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 25 juin 2009, à Lethbridge (Alberta)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Valerie Meier
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2002, 2003 et 2004 sont accueillis conformément aux motifs de jugement ci‑joints. L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi pour l’année d’imposition 2005 est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 8e jour de juillet 2009.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 11e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 355
+Date : 20090708
+Dossier : 2008-3779(IT)I
+ENTRE :
+IZUCHUKWU ERNEST CHINYELUGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Lethbridge (Alberta), le 25 juin 2009. Seul l’appelant a témoigné.
+[2] Au début de l’audience, l’avocate de l’intimée a déposé l’exposé des concessions suivant sur lequel les parties s’étaient entendues :
+[traduction]
+Concessions faites par l’intimée Sa Majesté la Reine dans l’affaire Izuchukwu Ernest Chinyelugo c. Sa Majesté la Reine, 2008-3779(IT)I
+Questions concédées
+L’intimée consent à ce que la Cour rende un jugement accueillant l’appel relatif à :
+a) l’année d’imposition 2002 et annulant l’avis de nouvelle cotisation qui a été établi après la période normale de nouvelle cotisation pour cette année‑là;
+b) l’année d’imposition 2003 et renvoyant l’affaire au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, étant entendu que l’appelant ne fait pas l’objet de pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu pour cette année‑là;
+c) l’année d’imposition 2004 et renvoyant l’affaire au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, étant entendu que l’appelant a droit à un crédit d’impôt non remboursable brut relativement à un don de bienfaisance de 406 $ fait à la Christian Children’s Fund of Canada. (Remarque : Il s’agit d’un autre organisme de bienfaisance que celui à l’égard duquel les dons demeurent en litige.)
+Question qui demeure en litige
+La question qui demeure en litige est de savoir si le ministre du Revenu national a refusé à juste titre d’accorder les crédits demandés concernant les dons de bienfaisance à la Christ Ascension Church of Canada qui auraient été faits par l’appelant :
+a) 2 000 $ au cours de l’année d’imposition 2003;
+b) 3 000 $ au cours de l’année d’imposition 2004;
+c) 4 000 $ au cours de l’année d’imposition 2005.
+[3] Par conséquent, les seules questions en litige sont les crédits pour don de bienfaisance demandés par l’appelant pour les années d’imposition 2003, 2004 et 2005, comme il est précisé au dernier paragraphe de la concession.
+[4] Les autres questions en litige sont mentionnées aux paragraphes 10, 11, 12 et 13 de la réponse, qui sont rédigés ainsi :
+[traduction]
+10. Pour établir l’impôt à payer par l’appelant pour chacune des années d’imposition 2002, 2003, 2004 et 2005, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant n’a pas fait de don, que ce soit un don en espèces (ou par chèque) ou un don en nature, à quelque fondation de bienfaisance enregistrée que ce soit, au cours des années d’imposition 2002, 2003, 2004 ou 2005, y compris les sommes afférentes à la CACC pour lesquelles un crédit est demandé;
+b) l’appelant n’a pas fourni de reçu officiel pour don de bienfaisance au sens des articles 3500 et 3501 du Règlement, à l’égard des dons qu’il aurait faits à des fondations de bienfaisance, pour chacune des années d’imposition 2002, 2003, 2004 et 2005.
+11. Pour établir la nouvelle cotisation après la période frappée de prescription pour l’année d’imposition 2002 et pour imposer les pénalités en application du paragraphe 163(2) de la Loi, pour chacune des années d’imposition 2002 et 2003, le ministre s’est fondé sur les autres faits suivants :
+a) l’appelant et la CACC n’ont pu fournir aucune preuve de versement par l’appelant des dons qui auraient été faits, comme il est mentionné dans les documents sur lesquels l’appelant se fonde pour appuyer ses prétentions;
+b) le revenu et les frais de subsistance de l’appelant ne permettent pas d’appuyer les sommes qu’il soutient avoir données;
+c) lorsqu’il a demandé les crédits d’impôt non remboursables pour l’année d’imposition 2002 à l’égard des dons de bienfaisance qu’il n’avait pas faits, l’appelant a fait une présentation erronée des faits par négligence ou omission volontaire et savait ou, subsidiairement, aurait dû savoir qu’il n’avait pas droit aux crédits qu’il demandait;
+d) lorsqu’il a demandé les crédits d’impôt non remboursables à l’égard des dons de bienfaisance qui auraient été faits au cours des années d’imposition 2002 et 2003, l’appelant, sciemment ou, subsidiairement, dans des circonstances équivalant à faute lourde, dans l’exercice d’une obligation prévue à la Loi, a fait de faux énoncés ou des omissions dans les déclarations de revenus produites pour chacune de ces années d’imposition, ou y a participé, consenti ou acquiescé, de sorte que l’impôt qui aurait été à payer, lequel a été établi selon les renseignements fournis dans les déclarations de revenus de l’appelant qui ont été produites pour les années d’imposition 2002 et 2003, était inférieur à l’impôt qui était en fait à payer d’un montant de 276 $ et de 554 $ respectivement.
+B. AUTRES FAITS PERTINENTS
+12. L’enregistrement de la CACC à titre d’organisme de bienfaisance a été révoqué le 4 août 2007.
+C. POINTS EN LITIGE
+13. Les questions en litige sont les suivantes :
+a) Le ministre a‑t‑il refusé à juste titre d’accorder les crédits d’impôt non remboursables bruts demandés concernant les dons de bienfaisance qui auraient été faits par l’appelant pour chacune des années d’imposition 2002, 2003, 2004 et 2005, respectivement?
+b) Le ministre avait‑il le droit d’établir une nouvelle cotisation à l’égard de l’appelant après la période normale de nouvelle cotisation pour l’année d’imposition 2002?
+c) Le ministre a‑t‑il imposé à juste titre une pénalité en vertu du paragraphe 163(2) de la Loi pour ce qui est du refus d’accorder les crédits d’impôt non remboursables pour don de bienfaisance pour les années d’imposition 2002 et 2003?
+La « CACC » est la Christ Ascension Church of Canada, qui est, dans ce cas‑ci, située à Toronto (Ontario).
+[5] L’intimée a abandonné les hypothèses 11c) et 11d) dans la concession. L’appelant a fourni des reçus à l’Agence du revenu du Canada et à la Cour concernant l’hypothèse 11a), qui sera examinée de façon approfondie. D’après le témoignage de l’appelant au sujet de l’hypothèse 11b), celui‑ci mène une vie très simple et sobre au Canada et vient en aide à des membres de sa famille à l’étranger. Il a également témoigné que des représentants de la CACC l’avaient persuadé de faire les dons allégués en cause parce que cela l’aiderait à établir une bonne réputation, ce qui lui permettrait plus facilement d’obtenir sa citoyenneté canadienne. La Cour ajoute foi à son témoignage, sauf pour ce qui est des montants des dons qui auraient été faits pour lesquels des éléments de preuve additionnels sont nécessaires. Lors du contre‑interrogatoire, l’appelant a admis que son revenu net approximatif pour les années en cause était de :
+[TRADUCTION]
+2005 30 000 $
+2004 17 000 $
+2003 20 000 $
+[6] La Cour est donc disposée à accueillir l’appel dans la mesure où l’appelant peut fournir des reçus valides et acceptables pour les dons de bienfaisance qui auraient été faits. Les reçus doivent comporter tous les renseignements exigés à l’article 3501 du Règlement de l’impôt sur le revenu (le « Règlement »), comme il est mentionné à l’alinéa 118.1(2)a) de la Loi de l’impôt sur le revenu. L’article 3501 du Règlement est libellé ainsi :
+3501. (1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+b) le numéro d’enregistrement attribué par le ministre à l’organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, le jour ou l’année où le don a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa e) ou e.1);
+g) le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+(1.1) Tout reçu officiel délivré par un autre bénéficiaire d’un don doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse de l’autre bénéficiaire d’un don;
+b) le numéro de série du reçu;
+c) le lieu ou l’endroit où le reçu a été délivré;
+d) lorsque le don est un don en espèces, le jour ou l’année où le don a été reçu;
+e) lorsque le don est un don de biens autres que des espèces,
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) le jour où le reçu a été délivré, si ce jour diffère du jour visé à l’alinéa d) ou e);
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+i) la signature, ainsi qu’il est prévu au paragraphe (2) ou (3.1), d’un particulier responsable qui a été autorisé par l’autre bénéficiaire d’un don à accuser réception des dons;
+j) le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
+(2) Sous réserve du paragraphe (3) ou (3.1), tout reçu officiel doit être signé personnellement par un particulier visé à l’alinéa (1)i) ou (1.1)i).
+(3) Lorsque toutes les formules de reçu officiel d’une organisation enregistrée sont
+a) revêtues d’une impression distinctive comprenant le nom, l’adresse au Canada et le numéro d’enregistrement de l’organisation,
+b) numérotées en série au moyen d’une presse à imprimer ou d’une machine à numéroter, et
+c) conservées à l’endroit mentionné au paragraphe 230(2) de la Loi jusqu’à ce qu’elles soient remplies à titre de reçu officiel,
+les reçus officiels peuvent porter une signature fac‑similaire.
+(3.1) Lorsque toutes les formules de reçu officiel d’un autre bénéficiaire d’un don sont
+a) revêtues d’une impression distinctive comprenant le nom et l’adresse de l’autre bénéficiaire d’un don,
+b) numérotées en série au moyen d’une presse à imprimer ou d’une machine à numéroter, et
+c) s’il y a lieu, conservées à l’endroit visé au paragraphe 230(1) de la Loi jusqu’à ce qu’elles soient remplies à titre de reçus officiels,
+les reçus officiels peuvent porter une signature autographiée.
+(4) Un reçu officiel délivré pour remplacer un reçu officiel délivré antérieurement doit indiquer clairement qu’il remplace le reçu initial et, en plus de son propre numéro de série, il doit aussi indiquer le numéro de série du reçu qui avait été délivré en premier.
+(5) Une formule de reçu officiel qui est gâchée doit porter l’inscription « annulée » et cette formule ainsi que son duplicata doivent être conservés par l’organisation enregistrée ou par l’autre bénéficiaire d’un don en tant que partie de ses registres.
+(6) Toute formule de reçu officiel sur laquelle
+a) le jour auquel le don a été reçu,
+b) l’année dans laquelle le don a été reçu, ou
+c) le montant du don,
+a été inscrit de façon inexacte ou illisible doit être considérée comme gâchée.
+[7] Aucun reçu n’a été produit pour 2003.
+[8] En ce qui concerne le crédit de 3 000 $ demandé pour 2004, l’appelant a déposé sous la cote A‑2 un reçu qui aurait été délivré par la CACC. Toutefois, contrairement à l’alinéa 3501(1)d) du Règlement, le reçu n’indique pas le lieu ou l’endroit où le reçu a été délivré; contrairement à l’alinéa e), le reçu n’indique pas l’année où le don allégué a été reçu; et contrairement à l’alinéa f), le reçu n’indique pas l’année ou la date où le reçu a été délivré. La pièce A‑2 n’est pas conforme à l’article 3501 du Règlement.
+[9] Pour l’année 2005, l’appelant a déposé sous la cote A‑3 un reçu de la CACC pour un don de 4 000 $ qui aurait été fait. Contrairement à ce qui est prévu à l’alinéa 3501(1)f) du Règlement, le reçu ne comporte pas la date (c.‑à‑d. le « jour ») à laquelle le reçu a été délivré. Il est seulement indiqué [traduction] « Janv. 2006 ».
+[10] Lorsque l’on tient compte des millions de reçus pour don de bienfaisance corrects que les organismes de bienfaisance légitimes délivrent chaque année, cette série de reçus incorrects semble avoir été délivrée de façon intentionnelle par la CACC.
+[11] Aucun des reçus produits n’est acceptable. Pour ce motif, l’appel est accueilli pour les années d’imposition 2002, 2003 et 2004 seulement à l’égard des questions que l’intimée a concédées dans les concessions citées au paragraphe 2 des présents motifs. L’appel interjeté à l’encontre de l’année 2005 est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 8e jour de juillet 2009.
+« D.W. Beaubier »
+Juge suppléant Beaubier
+Traduction certifiée conforme
+ce 11e jour d’août 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 355
+NO DU DOSSIER DE LA COUR : 2008-3779(IT)I
+INTITULÉ : IZUCHUKWU ERNEST CHINYELUGO ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Lethbridge (Alberta)
+DATE DE L’AUDIENCE : Le 25 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 8 juillet 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Valerie Meier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

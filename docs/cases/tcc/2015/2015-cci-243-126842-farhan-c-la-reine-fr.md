@@ -1,0 +1,224 @@
+---
+title: "Farhan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126842/index.do"
+last_modified: "2015-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 243"
+citation2: ""
+neutral_citation: "2015 CCI 243"
+decision_date: "2015-11-25"
+language: "fr"
+item_id: "126842"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2693
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:16:31.297000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e282e2fc188edfdf789956671551496ed4cf5acb462289a252a5cf4742cee7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Farhan c. La Reine
+
+- Citation: 2015 CCI 243
+- Decision date: 2015-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2693, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Farhan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-25
+Référence neutre
+2015 CCI 243
+Numéro de dossier
+2013-2506(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2506(IT)G
+ENTRE :
+AHMAD FARHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 26 mars 2015, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Anthony Karkar
+Avocate de l'intimée :
+Me Natalie Goulard
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu en date du 22 juin 2011 concernant les années d’imposition 2003, 2004, 2005, 2006 et 2007 est rejeté avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 243
+Date : 20151125
+Dossier : 2013-2506(IT)G
+ENTRE :
+AHMAD FARHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « Loi ») en date du 22 juin 2011 concernant les années d’imposition 2003, 2004, 2005, 2006 et 2007 de l’appelant.
+[2] En vertu des nouvelles cotisations du 22 juin 2011, le ministre a ajouté aux revenus de l’appelant les montants de 58 421 $, 22 853 $, 28 795 $, 123 545 $ et 98 324 $ pour les années d’imposition 2003, 2004, 2005, 2006 et 2007 respectivement.
+[3] Pour fixer l’impôt payable par l’appelant pour les années d’imposition 2003 à 2007, le ministre a tenu pour acquis les faits suivants :
+a) l’appelant est conseiller en matière d’immigration au Canada. Il sollicite ses clients en Arabie Saoudite, où il vit en moyenne 5 mois par année;
+b) l’appelant participe aussi à une entreprise de lave-auto avec ses 3 fils à Varennes au Québec;
+c) l’appelant est résident canadien;
+d) au cours des années 2003 à 2007, l’appelant n’a pas tenu les registres et livres de comptes nécessaires pour l’application de la Loi de l’impôt sur le revenu;
+e) selon la méthode de l’analyse des dépôts bancaires, le revenu brut provenant des activités de l’appelant à titre de conseiller en immigration était de 81 081 $ en 2003, 50 784 $ en 2004, 62 208 $ en 2005, 166 009 $ en 2006 et 132 851 $ en 2007;
+f) l’appelant a engagé les dépenses suivantes pour tirer un revenu de ses activités de conseil en immigration au cours des années en litige :
+2003
+2004
+2005
+2006
+2007
+Logement
+6 731 $
+6 398 $
+6 460 $
+6 427 $
+5 517 $
+Voyages
+2 000 $
+2 000 $
+2 000 $
+2 000 $
+1 000 $
+Frais d’avocats
+2 500 $
+1 500 $
+2 750 $
+2 000 $
+1 500 $
+Télécommunications
+663 $
+465 $
+354 $
+465 $
+399 $
+Frais -gouvernements
+8 083 $
+70 $
+4 357 $
+3 824 $
+5 096 $
+Services postaux
+962 $
+896 $
+837 $
+1 203 $
+477 $
+Véhicule
+1 031 $
+960 $
+930 $
+926 $
+794 $
+Frais - visa de travail
+687 $
+640 $
+620 $
+617 $
+530 $
+Total
+22 657 $
+12 929 $
+18 309 $
+17 463 $
+15 312 $
+g) le revenu d’entreprise net de l’appelant était de 58 423 $ en 2003, 37 855 $ en 2004, 43 898 $ en 2005, 148 546 $ en 2006 et 117 538 $ en 2007.
+[4] Dans son avis d’appel, l’appelant a fourni les explications suivantes quant aux sources de fonds :
+a) une somme de 120 000 $ a été obtenue suite à un don du père de sa conjointe;
+b) une somme de 115 000 $ provient d’emprunts contractés par l’appelant auprès de ses connaissances entre les années 2005 et 2007 et déposés dans ses comptes de banque de la RBC et de la CIBC;
+c) au cours des années 2003, 2004 et 2005, l’appelant a reçu une somme d’environ 61 596 $ à titre de boni de fin de contrat auprès d’une société oeuvrant en Arabie Saoudite pour qui il a travaillé pendant 23 ans.
+[5] L’appelant n’a pas contesté dans son avis d’appel le fait que les nouvelles cotisations ou certaines d’entre elles aient été établies après la période normale de nouvelle cotisation, ni le fait que des pénalités en vertu de paragraphe 163(2) de la Loi aient été imposées.
+[6] Monsieur Farhan a témoigné à l’audience. Il a expliqué qu’il a immigré au Canada en 1999 avec sa conjointe et ses quatre enfants en provenance de l’Arabie Saoudite et qu’il a débuté son entreprise de consultation en immigration au Canada en 2003 avec un avocat comme partenaire. À compter de 2004, il a exploité seul son entreprise.
+[7] Au cours des années d’imposition 2003 à 2007, l’appelant tirait la totalité de son revenu de l’exploitation de son entreprise, exception faite du boni de fin de contrat auprès de la société saoudienne pour laquelle il a travaillé pendant 23 ans. Son entreprise consistait a recruté des personnes résidant en Arabie Saoudite qui étaient intéressées à immigrer au Canada. Il s’agissait dans la majorité des cas de travailleurs spécialisés ou d’investisseurs. Pour ses services, l’appelant chargeait à ses clients des montants variant de 3 000 $ à 4 000 $ (en dollars américains) selon le statut des clients (seul ou avec famille, investisseur ou travailleur spécialisé). Les frais exigés comprenaient les frais d’un avocat canadien de 250 $ pour une personne seule et de 500 $ pour un couple et des frais du gouvernement canadien de 550 $ pour un adulte, de 150 $ pour un enfant et de 490 $ pour un immigrant permanent. Les frais de services étaient déposés dans un compte de banque de l’appelant en Arabie Saoudite. Selon l’appelant, une dizaine de dossiers étaient traités à chaque année. Chaque client devait signer un formulaire en trois copies dont une copie était remise à la banque, une copie était remise au service d’immigration canadien et une copie était gardée par le client.
+[8] Monsieur Farhan a également indiqué qu’il passait cinq mois par année en Arabie Saoudite et qu’il y maintenait un bureau avec une secrétaire dans un appartement meublé de l’hôtel Al-Khaldia Hotel Palace. Il avait l’habitude de louer une voiture pour ses déplacements. Il faisait de la promotion pour ses services par des annonces dans les journaux locaux.
+[9] Monsieur Farhan a fait l’objet d’une vérification au début de l’année 2011 et le vérificateur a constaté que les livres et registres de l’entreprise étaient inexistants ou à tout le moins déficients, d’où le recours à la méthode alternative de l’analyse des dépôts bancaires. Monsieur Farhan possédait en 2003 deux comptes de banque, un en Arabie Saoudite et un autre au Canada. Les relevés bancaires de ces deux comptes et ceux qu’il a ouverts par la suite ont été remis à l’Agence du Revenu du Canada (l’« ARC ») par l’appelant.
+[10] Au cours des années en litige, monsieur Farhan et sa conjointe ont produit des déclarations de revenu indiquant des pertes annuelles de 2,00 $ pour 2003, de 15 002 $ pour 2004, de 15 102 $ pour 2005, de 25 001 $ pour 2006 et de 19 214 $ pour 2007.
+[11] Vu l’absence de dossiers de comptabilité, l’appelant a fait préparer en 2011 par un de ses fils des états financiers pour l’année 2003. Les dépôts dans le compte de banque en Arabie Saoudite ont totalisé 98 562,16 $ alors que les dépenses encourues pour gagner ce revenu auraient été de 49 909,12 $ pour un revenu net total de 48 653 $. Les dépenses ont été reconstituées sans la production des factures originales et étaient estimées sur la base des coûts moyens pour les années 2005, 2006 et 2007 et parfois sur le coût moyen pour l’année 2007 seulement ou pour l’année 2010 seulement.
+[12] Lors de son contre-interrogatoire, monsieur Farhan a reconnu avoir fait construire en 2007 une résidence dans le quartier 10-30 à Brossard dont le coût de construction était d’environ 600 000 $ et dont le coût du terrain était d’environ 50 000 $. Il a alors expliqué que l’un de ses fils s’était occupé de payer le coût du terrain, qu’il avait utilisé le don de 120 000 $ provenant du père de sa conjointe pour payer une partie du coût de construction de la résidence et qu’il avait contracté un prêt de 115 000 $ auprès de monsieur Ibrahim Al-Kabsi. L’appelant a produit au niveau des oppositions une déclaration assermentée faisant état du don de 120 000 $ et du prêt de 115 000 $ contracté auprès de monsieur Al-Kabsi. Il a également produit une déclaration assermentée de sa conjointe confirmant le don, de même qu’une déclaration assermentée de la sœur de sa conjointe confirmant également le don. Une déclaration assermentée de monsieur Al-Kabsi confirmant le prêt a également été déposée par l’appelant. Selon l’appelant, le don de 120 000 $ aurait été versé à sa conjointe par des transferts de fonds réalisés au moyen de chèques de voyage à différentes dates au cours des années 2005, 2006 et 2007, lesquels fonds auraient été déposés par sa conjointe dans les comptes de banque de la RBC et de la CIBC de l’appelant.
+[13] Monsieur Benjamin Blanchard, le vérificateur de l’ARC qui a effectué la vérification de l’entreprise de l’appelant, a également témoigné à l’audience. Il a expliqué que l’appelant avait, en premier lieu, mentionné qu’il avait transféré 120 000 $ au Canada au cours des années 2005, 2006 et 2007 pour effectuer un acompte pour la construction de la résidence sise sur la rue Lafitte à Brossard, laquelle somme provenait en partie d’un compte d’épargne en Arabie Saoudite et en partie du boni de la fin de son contrat de service auprès de la société saoudienne pour laquelle il a travaillé.
+[14] Monsieur Blanchard a également expliqué que les transferts d’argent provenant de l’Arabie Saoudite étaient effectués soit par des transferts électroniques, soit par des chèques de voyage ou au comptant. Ces méthodes de transfert ne peuvent prouver les montants retirés de l’Arabie Saoudite, ni les achats de dollars canadiens.
+[15] Monsieur Blanchard a accordé à l’appelant 5/12 des dépenses encourues par l’appelant en Arabie Saoudite parce que ce dernier a déclaré dans une entrevue initiale qu’il y séjournait environ cinq mois par année. Concernant le boni pour la fin du contrat de service de l’appelant, seulement 5/23 du montant obtenu par l’appelant a été considéré comme taxable au Canada parce que l’appelant n’a été un résident canadien qu’au cours des cinq dernières années de la période de 23 ans au cours de laquelle il a travaillé pour la société saoudienne.
+Analyse [16] Le paragraphe 230(1) de la Loi exige de quiconque exploite une entreprise de tenir des registres et des livres de comptes à son lieu d’affaires ou de résidence au Canada renfermant les renseignements qui permettent d’établir le montant des impôts payables. Le paragraphe 230(1) se lit comme suit :
+230.(1) Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[17] Le paragraphe 152(7) de la Loi énonce le principe que le ministre n’est pas lié par les déclarations de renseignements fournis par un contribuable et qu’il peut, indépendamment des déclarations fournies, fixer l’impôt à payer. Le paragraphe 152(7) se lit comme suit :
+(7) Le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+[18] Le paragraphe 152(8) de la Loi établit une présomption de validité des cotisations du ministre en ces termes :
+(8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toutes omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+[19] Il y a d’abord lieu de préciser que l’intimée n’était pas tenue d’invoquer les faits justifiant l’application du sous-alinéa 152(4)a)(i) de la Loi vu l’absence de contestation de la part de l’appelant dans son avis d’appel ou lors de l’instruction devant la Cour quant aux nouvelles cotisations pour le motif qu’elles ont été établies après l'expiration de la période normale de nouvelle cotisation. Il en est de même pour les faits justifiant l’application des pénalités prévues au paragraphe 163(2) de la Loi à défaut d’allégations dans l’avis d’appel de l’appelant ou lors de l’instruction devant la Cour à l’effet que l’intimée n’avait pas fait la preuve qu’il avait fait une présentation erronée des faits (voir Naguib v. R., 2004 CAF 40 et Last v. R., 2014 CAF 129).
+[20] Le recours à une méthode indirecte de vérification, à savoir l’examen des dépôts bancaires, était pleinement justifié dans le cas en l’espèce compte tenu de l’absence de documents confirmant les activités de l’entreprise de l’appelant, de l’importance des transactions effectuées au comptant et de l’insouciance totale à l’égard de la tenue de livres.
+[21] Dans les circonstances, il incombe donc au contribuable de démontrer à la Cour au moyen d’une preuve crédible, cohérente et corroborée que ses prétentions et explications sont probables (voir Haniff v. R., 2011 CCI 112, paragraphe 14).
+Don et prêts [22] L’appelant prétend que son épouse a reçu un don de 120 000 $ de son père. L’appelant a produit en preuve deux déclarations assermentées, l’une signée par les deux sœurs de la conjointe de l’appelant et l’autre signée par la conjointe de l’appelant, faisant référence au don de 120 000 $ consenti au cours des années 2005 à 2008. La conjointe de l’appelant et ses sœurs n’ont pas témoigné lors de l’instruction pour corroborer les modalités du don. De plus, le vérificateur de l’ARC a déclaré lors de son témoignage qu’il n’a pas vu les dépôts bancaires effectués suite à la réception des versements du don. Par conséquent, les prétentions de l’appelant à l’égard du don n’ont pas été corroborées par une preuve cohérente et crédible.
+[23] L’appelant prétend avoir obtenu un prêt totalisant 115 000 $ de monsieur Ibrahim Al-Kabsi effectué par des versements échelonnés au cours des années 2005 à 2007, lequel prêt devait être remboursé par versements. Pour prouver cette allégation, l’appelant a produit une déclaration assermentée de monsieur Al‑Kabsi mais monsieur Al-Kabsi n’a pas été appelé comme témoin à l’audience. La prétention de l’appelant à l’égard de ce prêt n’a pas été corroborée par une preuve cohérente et crédible. Les dates exactes des déboursés du prêt ne sont pas connues, les transferts d’argent dans les comptes de banque de l’appelant n’ont pas été vus par le vérificateur et les modalités du prêt (taux d’intérêt, échéance, dates de remboursements) n’ont pas été fournies par l’appelant.
+Les dépenses engagées en Arabie Saoudite [24] Aucune facture et aucun reçu n’ont été produits pour appuyer la déductibilité des dépenses encourues par l’appelant dans le cours de l’exploitation de son entreprise en Arabie Saoudite. Le vérificateur a accordé la déduction de 5/12 des dépenses sur la base que l’appelant séjournait cinq mois par année en Arabie Saoudite et ce, même si plusieurs de ces dépenses (frais de location d’un appartement, frais de télécommunication) étaient assimilables à des frais personnels ou de substance généralement non déductibles dans le calcul du revenu d’un contribuable. Le vérificateur a affirmé lors de son témoignage qu’il n’avait jamais été question dans le cadre de sa vérification que l’appelant maintenait un bureau et bénéficiait d’un service de secrétariat en Arabie Saoudite. Aucun montant n’a initialement été réclamé à cet égard par l’appelant.
+[25] Le coût des billets d’avion pour les vols vers ou en provenance de l’Arabie Saoudite a été accepté sur la base des montants réclamés initialement, soit 2 000 $, parce qu’aucune preuve de paiement de montants supérieurs n’a été produite. Les frais de location d’une automobile ont été accordés en partie (15%) et ce, même si aucune preuve quant au pourcentage d’utilisation pour fins d’affaires n’a été fournie par l’appelant.
+Boni de fin de contrat [26] L’appelant allègue que le boni de fin de contrat auprès de la société saoudienne a totalisé 78 606 $, lequel montant fut déposé dans son compte de banque en Arabie Saoudite par tranches, soit 36 432$ en 2003, 23 757 $ en 2004 et 18 415 $ en 2005. Selon l’appelant, le vérificateur n’aurait soustrait que la partie non imposable du boni, soit 18/23, qu’à l’égard du montant reçu en 2003. La même règle aurait dû être appliquée à l’égard des montants reçus en 2004 et en 2005.
+[27] Selon le vérificateur, les nouvelles cotisations ont été établies sur la base des informations fournies par l’appelant lui-même concernant les montants qu’il a reçus à titre de boni de fin de contrat au cours de chacune des années d’imposition en litige. Le rapport de vérification indique clairement que les montants de 26 629 $, 7 226 $ et 31 730 $ ont été déduits au cours des années 2003, 2005 et 2006 respectivement. L’ARC a accordé des déductions totalisant 65 585 $ à l’égard des années 2003, 2005 et 2006, alors que l’appelant réclame des déductions totalisant 61 517,74 $ à l’égard des années d’imposition 2003, 2004 et 2005. L’ARC a donc accordé un montant de déduction plus élevé que le montant de déduction réclamé par l’appelant mais sur une période légèrement différente.
+[28] Au stade de l’opposition, les prétentions de l’appelant n’ont pas été acceptées parce que l’appelant n’a pas fourni la preuve des paiements reçus à titre de boni de fin de contrat. À l’appui de ses prétentions, l’appelant n’a fourni qu’une liste de dépôts effectués dans son compte de banque en Arabie Saoudite au cours des années 2003, 3004 et 2005 en indiquant par des annotations les dépôts provenant supposément du boni de fin de contrat. À mon avis, cette preuve n’est pas fiable et est clairement insuffisante pour que des modifications soient apportées aux nouvelles cotisations.
+[29] Pour ces motifs, l’appel à l’encontre des nouvelles cotisations datées du 22 juin 2011 concernant les années d’imposition 2003, 2004, 2005, 2006 et 2007 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 243
+Nº DU DOSSIER DE LA COUR :
+2013-2506(IT)G
+INTITULÉ DE LA CAUSE :
+Ahmad Farhan et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 26 mars 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 25 novembre 2015
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Anthony Karkar
+Avocate de l'intimée :
+Me Natalie Goulard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Anthony Karkar
+Cabinet :
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

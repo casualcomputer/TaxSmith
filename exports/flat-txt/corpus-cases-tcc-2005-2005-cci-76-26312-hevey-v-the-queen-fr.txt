@@ -1,0 +1,158 @@
+Title: Hevey v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26312/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-76-26312-hevey-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-01-21
+
+# Hevey v. The Queen
+
+- Citation: 2005 CCI 76
+- Decision date: 2005-01-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3324, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hevey v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-21
+Référence neutre
+2005 CCI 76
+Numéro de dossier
+2001-2641(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2001-2641(IT)G
+ENTRE :
+CHARLES JAMES HEVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu à London (Ontario), le 23 août 2004.
+Devant : L'honorable juge E. A. Bowie
+Comparutions :
+Avocats de l'appelant :
+Mes Keith M. Trussler et Rebecca Krasnor
+Avocats de l'intimée :
+Mes Ernest Wheeler et IfeanyichukwuNwachukwu
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 21e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI76
+Date : 20050121
+Dossier : 2001-2641(IT)G
+ENTRE :
+CHARLES JAMES HEVEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel concerne le droit du ministre du Revenu national (le « ministre » ) d'établir une nouvelle cotisation à l'égard d'un contribuable après que la période normale de nouvelle cotisation de trois ans a expiré selon le paragraphe 152(4.3) de la Loi de l'impôt sur le revenu (la « Loi » ), qui est rédigé comme suit :
+152(4.3)
+Malgré les paragraphes (4), (4.1) et (5), lorsqu'une cotisation ou une décision d'appel a pour effet de modifier un solde donné applicable à un contribuable pour une année d'imposition donnée, le ministre peut ou, si le contribuable en fait la demande par écrit, doit, avant le dernier en date du jour d'expiration de la période normale de nouvelle cotisation pour une année d'imposition subséquente et de la fin du jour qui tombe un an après l'extinction ou la détermination de tous les droits d'opposition ou d'appel relatifs à l'année donnée, établir une nouvelle cotisation à l'égard de l'impôt, des intérêts ou des pénalités payables, ou déterminer de nouveau un montant réputé avoir été payé, ou payé en trop, en vertu de la présente partie par le contribuable pour l'année subséquente, mais seulement dans la mesure où il est raisonnable de considérer que la nouvelle cotisation ou la détermination se rapporte à la modification du solde donné applicable au contribuable pour l'année donnée.
+152(4.3)
+Notwithstanding subsections (4), (4.1) and (5), where the result of an assessment or a decision on an appeal is to change a particular balance of a taxpayer for a particular taxation year, the Minister may, or where the taxpayer so requests in writing, shall, before the later of the expiration of the normal reassessment period in respect of a subsequent taxation year and the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the particular year, reassess the tax, interest or penalties payable, or redetermine an amount deemed to have been paid or to have been an overpayment, under this Part by the taxpayer in respect of the subsequent taxation year, but only to the extent that the reassessment or redetermination can reasonably be considered to relate to the change in the particular balance of the taxpayer for the particular year.
+Plus précisément, le résultat de l'appel sera régi par le sens à attribuer au texte figurant à la fin de la disposition en question, que j'ai indiqué en gras. Cette disposition doit être lue avec le paragraphe 152(4.4) :
+152(4.4)
+Pour l'application du paragraphe (4.3), le solde applicable à un contribuable pour une année d'imposition correspond au revenu, au revenu imposable, au revenu imposable gagné au Canada ou à une perte du contribuable pour l'année, à l'impôt ou autre montant payable par lui pour l'année, à un montant qui lui est remboursable pour l'année ou à un montant réputé avoir été payé, ou payé en trop, par lui pour l'année.
+152(4.4)
+For the purpose of subsection (4.3), a "balance" of a taxpayer for a taxation year is the income, taxable income, taxable income earned in Canada or any loss of the taxpayer for the year, or the tax or other amount payable by, any amount refundable to, or any amount deemed to have been paid or to have been an overpayment by, the taxpayer for the year.
+[2] L'appelant est administrateur de nombreuses sociétés. Il a de temps à autre emprunté de l'argent de l'une ou l'autre d'entre elles et il a de temps à autre remboursé les sommes que celles-ci lui avaient prêtées. Les remboursements n'ont pas toujours été effectués dans l'année qui a suivi la fin de l'année d'imposition de l'appelant au cours de laquelle le prêt avait été consenti. Par conséquent, l'appelant était tenu à divers moments d'inclure les sommes en question dans son revenu en application du paragraphe 15(2) de la Loi, et il avait à divers moments le droit de déduire certains montants de son revenu en application de l'alinéa 20(1)j) par suite des remboursements qu'il avait effectués. Pour les années 1991 à 1995, l'appelant a inclus les montants suivants dans son revenu en application du paragraphe 15(2) et il a effectué les déductions suivantes en application de l'alinéa 20(1)j) :
+Montants inclus en application du par. 15(2)
+Montants déduits en application de l'al. 20(1)j)
+1991
+243 333 $ *
+0 $
+1992
+587 790
+0
+1993
+250 158
+0
+1994
+633 368
+1 082 281
+1995
+149 245
+662 684
+1 863 894 $
+1 744 965 $
+* Il s'agit du montant mentionné par l'appelant. Dans la réponse à l'avis d'appel, il est allégué que le montant en cause s'élevait à 243 538 $. Il importe peu de savoir quel est le montant exact.
+[3] Par la suite, le ministre a établi de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 1991, 1992, 1993 et 1994. Ce faisant, le ministre a réduit les montants que l'appelant avait déclarés au titre du revenu en application du paragraphe 15(2) pour ses années d'imposition 1991, 1992, 1993 et 1994 et a réparti ces montants autrement, et il a refusé tous les montants que l'appelant avait déduits en application de l'alinéa 20(1)j) pour ces années. La cotisation et la nouvelle cotisation concernant l'année 1994 n'incluaient pas de montants dans le revenu en application du paragraphe 15(2), et aucune déduction n'était admise en application de l'alinéa 20(1)j).
+[4] Ainsi, à la fin du mois de juin 1996, l'appelant avait fait l'objet de nouvelles cotisations pour les années d'imposition 1991, 1992, 1993 et 1994. Le résultat de ces nouvelles cotisations, en ce qui concerne les montants inclus et les montants déduits au titre de prêts à un actionnaire, est résumé dans le tableau qui figure ci-dessous. L'année d'imposition 1995 avait fait l'objet d'une cotisation selon la déclaration que l'appelant avait produite. Cette année n'a pas fait l'objet d'une nouvelle cotisation et aucune opposition n'a été soulevée à l'égard de la cotisation. Toutefois, des oppositions étaient en instance pour les années 1993 et 1994.
+Montants inclus en application du par. 15(2)
+Montants déduits en application de l'al 20(1)(j)
+1991
+289 372,36 $
+0 $
+1992
+385 885,22
+0
+1993
+280 125,78
+0
+1994
+0,00
+0
+1995
+149 045,00
+662 684
+Total
+1 104 428,36 $
+662 684 $
+La preuve présentée par les deux témoins et la pièce A-1, onglet 42, établissent que ce tableau indique d'une façon exacte les montants ayant fait l'objet de cotisations au titre des prêts consentis à un actionnaire à ce moment-là.
+[5] L'avocat de l'appelant et l'agent des appels du ministre ont ensuite négocié en vue d'arriver à un règlement au sujet des oppositions en instance pour les années 1993 et 1994. D'autres questions se posaient en plus de la question des prêts consentis à un actionnaire, et les négociations se sont prolongées, mais à la fin du mois de février 1999, on croyait être arrivé à un règlement qui serait mis en oeuvre au moyen de nouvelles cotisations établies à l'égard de l'appelant pour les années d'imposition 1993, 1994 et 1995.
+[6] Je ferai maintenant une digression pour dire que le désaccord qui existait entre l'appelant et l'intimée au sujet des montants à inclure dans le revenu de l'appelant en application du paragraphe 15(2) de la Loi n'était pas attribuable à une conduite coupable de la part de l'appelant. Le différend découle du fait qu'en sa qualité de particulier, M. Hevey déclare son revenu en se fondant sur l'année civile, alors que l'exercice de la société auprès de laquelle il contractait les emprunts prenait fin le 31 mars. Le comptable de la société, qui agissait également comme comptable de M. Hevey, a délivré des feuillets T4 et a préparé les déclarations de l'appelant à l'égard des opérations liées aux prêts à un actionnaire en se fondant sur l'exercice de la société plutôt que sur l'année civile. Le vérificateur du ministre a calculé à bon droit les montants inclus et les montants déduits en se fondant sur l'année civile.
+[7] Comme il en a été fait mention, les négociations relatives aux oppositions pour les années 1993 et 1994 ont abouti à une entente, comme le croyaient du moins les parties à ce moment-là. En vertu de cette entente, qui a été signée le 26 février 1999, la question des prêts à un actionnaire devait être réglée comme suit :
+[TRADUCTION]
+1994
+Admettre, en application de l'alinéa 20(1)j), une déduction de 755 319 $, compte tenu des remboursements effectués à vos comptes de prêt à un actionnaire.
+Ajouter un avantage au titre des intérêts [les détails y afférents ne sont pas pertinents ici].
+1995
+Admettre, en application de l'alinéa 20(1)j), une déduction de 200 064 $, compte tenu des remboursements effectués à votre compte de prêt à un actionnaire.
+Ajouter un avantage au titre des intérêts [les détails y afférents ne sont pas pertinents ici].
+[8] En se fondant sur cette entente signée, l'appelant a renoncé au droit d'interjeter appel des nouvelles cotisations qui devaient être établies en conséquence. Lorsque le ministre a établi ces nouvelles cotisations le 28 mai 1999, l'appelant et son avocat ont été surpris de constater que la nouvelle cotisation concernant l'année 1995 était fondée sur l'inclusion d'un montant de 149 045 $ (que l'appelant avait déclaré) en application du paragraphe 15(2), mais que la déduction totale effectuée en application de l'alinéa 20(1)j) s'élevait à 200 064 $ plutôt qu'au montant de 662 684 $ (soit le montant déclaré et ayant antérieurement fait l'objet d'une cotisation) plus un montant de 200 064 $ (le montant du « règlement » pour l'année 1995), soit le montant de 862 748 $ auquel ils s'attendaient.
+[9] L'appelant s'est opposé à cette nouvelle cotisation pour l'année 1995, d'où le présent appel. Au début de l'audience, les avocats m'ont informé qu'ils s'entendent maintenant pour dire qu'il n'y a jamais eu d'entente au sujet des conditions du règlement pour l'année 1995 - chaque partie interprétait d'une façon différente l'entente qu'elle avait signée, de sorte qu'il n'y a pas eu entente. Dans son exposé préliminaire, l'avocat de l'appelant a clairement dit que son client n'invoquait qu'un seul motif d'appel, à savoir que la nouvelle cotisation concernant l'année 1995 était prescrite. L'avocat n'a pas avancé de preuve au sujet des montants remboursés au titre de prêts à un actionnaire en 1995.
+[10] De son côté, l'avocat de l'intimée a clairement dit qu'il défendait la nouvelle cotisation uniquement compte tenu du fait qu'elle résultait de la nouvelle cotisation établie le même jour pour l'année 1994. L'avocat ne s'est pas fondé sur l'entente de règlement, et il n'a pas allégué qu'il y avait eu présentation erronée des faits.
+[11] Monsieur William Scott est l'agent des appels qui a négocié le règlement avec l'avocat de l'appelant et qui a ensuite établi les nouvelles cotisations du 28 mai 1999 pour les années d'imposition 1993, 1994 et 1995. Il a témoigné que la nouvelle cotisation concernant l'année 1995 résultait de la nouvelle cotisation concernant l'année 1994, de la façon suivante. Comme le montre le tableau figurant au paragraphe 4 ci-dessus, les montants qui ont été inclus dans le revenu de l'appelant en application du paragraphe 15(2) de la Loi pour les années 1992, 1993 et 1994 s'élèvent en tout à 955 383 $, et il croyait qu'avant l'année 1992, aucun montant n'avait été inclus dans le revenu en application de cette disposition. Étant donné qu'un montant peut uniquement être déduit en application de l'alinéa 20(1)j) s'il a auparavant été inclus dans le revenu en application du paragraphe 15(2), les déductions permises en application de l'alinéa 20(1)j) jusqu'à l'année 1995 inclusivement ne pouvaient pas excéder 955 383 $ au total. Une fois que les parties avaient convenu qu'aucune déduction ne serait effectuée en application de l'alinéa 20(1)j) pour l'année 1993, et que la déduction pour l'année 1994 serait de 755 319 $, la déduction maximale permise pour l'année 1995 était nécessairement de 955 383 $ - 755 319 $ = 200 064 $. Étant donné que la cotisation initiale pour l'année 1995 permettait à l'appelant de déduire le plein montant demandé de 662 684 $ en application de l'alinéa 20(1)j), il fallait établir une nouvelle cotisation à l'égard de cette année-là en vue de ramener le montant à 200 064 $.
+[12] L'avocat de l'appelant a soutenu qu'étant donné que le paragraphe 152(4.3) est intitulé « Cotisation corrélative » , son utilisation doit être strictement limitée aux cas dans lesquels il y a dans un solde une modification qui est reportée d'une année à l'année suivante et qui doit figurer dans la déclaration de revenus du contribuable. Il en serait ainsi dans le cas d'une modification apportée à une réserve ou au solde de la fraction non amortie du coût en capital d'une catégorie de biens. L'avocat étaye cet argument en se reportant aux notes explicatives publiées par le ministère des Finances en 1994, lorsque cette disposition a été ajoutée à la Loi, et il cite les passages suivants :
+mai 1994, NE : Le paragraphe 152(4.3) permet au ministre du Revenu national d'établir une nouvelle cotisation après l'expiration de la période normalement prévue à cette fin lorsqu'il est nécessaire de tenir compte d'un redressement apporté à un montant déduit ou inclus dans le calcul du « solde » , au sens du paragraphe 152(4.4), applicable à un contribuable pour une autre année d'imposition.
+[...]
+La nouvelle cotisation ne peut être établie que si le montant déduit ou inclus dans le solde de l'autre année a été redressé en raison d'une cotisation établie pour cette année ou en raison d'une décision rendue dans un appel visant une cotisation pour cette année. [...] Une telle cotisation ne peut être établie que si la loi exige l'inclusion, ou permet la déduction, dans le calcul du solde du contribuable pour l'année ultérieure d'un montant afférent au montant qui a fait l'objet du redressement pour l'année antérieure.
+[...]
+La disposition peut s'appliquer, par exemple, lorsque la décision rendue dans un appel a changé le montant d'une réserve demandée pour une année d'imposition et qu'une année d'imposition ultérieure à l'égard de laquelle un montant relatif à cette réserve doit être inclus ou peut être déduit dans le calcul du revenu a été frappée de prescription et ne peut plus faire l'objet d'une nouvelle cotisation.
+[13] L'avocat s'est également reporté à la décision rendue par la Cour d'appel fédérale dans l'affaire Sherway Centre Limited c. Canada[1] ainsi qu'à la décision rendue par la présente cour dans l'affaire Bulk Transfer Systems Inc. c. La Reine[2], mais ni l'une ni l'autre n'est selon moi utile en l'espèce étant donné que la disposition en question n'y est pas interprétée.
+[14] À mon avis, l'application du paragraphe 152(4.3) ne pose guère de problème dans le contexte de la présente affaire. Il faut examiner les questions suivantes :
+i) Y a-t-il eu cotisation ou décision d'appel?
+ii) Dans l'affirmative, a-t-elle pour effet de modifier un solde donné au sens qu'a ce mot selon la définition figurant au paragraphe 152(4.4)?
+iii) Dans l'affirmative, est-il raisonnable de considérer que la nouvelle cotisation se rapporte à la modification du solde donné pour l'année antérieure?
+À mon avis, il faut clairement répondre par l'affirmative à chacune de ces questions. Une cotisation a été établie pour l'année d'imposition 1994, plus précisément la nouvelle cotisation du 28 mai 1999 par laquelle il était donné suite au règlement et qui n'a pas été portée en appel. Elle a pour effet de modifier plusieurs soldes selon la définition figurant au paragraphe 152(4.4) - le revenu du contribuable, son revenu imposable et son impôt payable pour l'année d'imposition 1994. Les modifications apportées à ces soldes étaient en partie attribuables à une augmentation du montant remboursé au titre des prêts à un actionnaire que l'appelant était autorisé à déduire en 1994. Selon la preuve soumise par M. Scott, il est certain que cette augmentation pouvait uniquement être effectuée au moyen du transfert, de l'année 1995 à l'année 1994, d'un montant quelconque remboursé au titre d'un prêt qui avait été admis, lors de l'établissement de la cotisation, à titre de déduction en application de l'alinéa 20(1)j), de sorte qu'il fallait établir une nouvelle cotisation corrélative pour l'année 1995 en vue de réduire d'un montant équivalent la déduction au titre du remboursement du prêt pour cette année-là. Par conséquent, la nouvelle cotisation concernant l'année 1995 ne se rapportait pas simplement aux modifications apportées aux soldes du revenu, du revenu imposable et de l'impôt payable de l'appelant pour l'année 1994, mais elle en résultait entièrement. Malgré les paragraphes 152(4), 152(4.1) et 152(5), le ministre pouvait donc à bon droit établir la nouvelle cotisation qu'il a établie pour l'année 1995.
+[15] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de janvier 2005.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 21e jour décembre 2005.
+Yves Bellefeuille, réviseur
+[1] C.A.F., no A-707-01, 21 janvier 2003, [2003] 2 C.T.C. 123.
+[2] C.C.I., no 2000-3781(IT)G, 9 mars 2004, [2004] 2 C.T.C. 2995.

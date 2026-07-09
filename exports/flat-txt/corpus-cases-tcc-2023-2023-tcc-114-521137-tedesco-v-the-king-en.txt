@@ -1,0 +1,573 @@
+Title: Tedesco v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521137/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-114-521137-tedesco-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-08-03
+
+# Tedesco v. The King
+
+- Citation: 2023 TCC 114
+- Decision date: 2023-08-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5474, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tedesco v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-08-03
+Neutral citation
+2023 TCC 114
+File numbers
+2012-2925(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2925(IT)G
+BETWEEN:
+ANTHONY TEDESCO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2917(IT)G
+AND BETWEEN:
+JAMES SHAW,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+and
+Docket: 2012-2918(IT)G
+AND BETWEEN:
+STANLEY HARVEY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2919(IT)G
+AND BETWEEN:
+SANDRA INGLIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2920(IT)G
+AND BETWEEN:
+MURRAY J. MCPHAIL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2921(IT)G
+AND BETWEEN:
+JEFF GILLAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2922(IT)G
+AND BETWEEN:
+ROBERT BORG OLIVIER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2926(IT)G
+AND BETWEEN:
+AHMAD YAQEEN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2927(IT)G
+AND BETWEEN:
+ROSA MILITANO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2928(IT)G
+AND BETWEEN:
+MAURIZIO MARCHIONI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2929(IT)G
+AND BETWEEN:
+PAUL WATT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2979(IT)I
+AND BETWEEN:
+GERALD JAMES,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2980(IT)I
+AND BETWEEN:
+LYNN JAMES,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-3102(IT)G
+AND BETWEEN:
+SARAH BORG OLIVIER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on December 14, 2022, at Toronto, Ontario and
+Written Submissions received on January 27, 2023
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellants:
+Maurizio Marchioni
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+The appellants’ appeals for their respective taxation years, either 2000 or 2001, are allowed and the Reassessments are vacated.
+One set of costs is payable to the appellants by the respondent. The parties shall have 30 days from the date of this Judgment to reach an agreement on costs. Failing that, the parties shall have 30 days to file written submissions on costs. Submissions shall be no more than 10 pages.
+Signed at Ottawa, Canada this 3rd day of August 2023.
+“K. Lyons”
+Lyons J.
+Citation: 2023 TCC 114
+Date: 20230803
+Docket: 2012-2925(IT)G
+BETWEEN:
+ANTHONY TEDESCO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2917(IT)G
+AND BETWEEN:
+JAMES SHAW,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+and
+Docket: 2012-2918(IT)G
+AND BETWEEN:
+STANLEY HARVEY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2919(IT)G
+AND BETWEEN:
+SANDRA INGLIS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2920(IT)G
+AND BETWEEN:
+MURRAY J. MCPHAIL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2921(IT)G
+AND BETWEEN:
+JEFF GILLAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2922(IT)G
+AND BETWEEN:
+ROBERT BORG OLIVIER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2926(IT)G
+AND BETWEEN:
+AHMAD YAQEEN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2927(IT)G
+AND BETWEEN:
+ROSA MILITANO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2928(IT)G
+AND BETWEEN:
+MAURIZIO MARCHIONI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2929(IT)G
+AND BETWEEN:
+PAUL WATT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2979(IT)I
+AND BETWEEN:
+GERALD JAMES,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-2980(IT)I
+AND BETWEEN:
+LYNN JAMES,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2012-3102(IT)G
+AND BETWEEN:
+SARAH BORG OLIVIER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] The appellants, Jeff Gillan, Sandra Inglis, Murray J. McPhail, Anthony Tedesco, Rosa Militano, Robert Borg Olivier, Sarah Borg Olivier, James Shaw, Paul Watt, Ahmad Yaqeen, Stanley Harvey, Gerald James, Lynn James, and Maurizio Marchioni (collectively, “the appellants”), were Limited Partners in the TSI 1 Limited Partnership (the “Partnership”).[1] The appellants appeal against the reassessments made by the Minister of National Revenue in disallowing the loss each appellant had claimed for either the 2000 or 2001 taxation years (“relevant years”) based on their respective interest held in the Partnership and as it pertains to the Partnership’s business losses (“Reassessments”).
+[2] The Minister reassessed the appellants predicated on the determinations made by the Minister to disallow the business losses claimed by the Partnership in the amounts of $941,840 and $2,193,463 (“Losses”) for the 2000 and 2001 (calendar) taxation years, respectively (“relevant years”).
+[3] The appeals, consolidated pursuant to section 26 of the Tax Court of Canada Rules (General Procedure), raise the same issue and facts. These reasons will apply to each of the appellants.
+[4] All references to provisions that follow are to the Income Tax Act unless otherwise stated.
+[5] Subsections 152(1.4) to (1.8) describe the process regarding the determination of a partnership loss. Subsection 152(1.4) was added to allow the Minister to make one determination of the amount of any income or loss of a partnership. Subsection 152(1.5) provides, once a determination is made under subsection 152(1.4), the Minister must send a notice of the determination to the partnership and to each partner (that is, a person who was member of the partnership during the fiscal period).[2] These and other provisions are set out below or at Appendix I to these reasons.
+[6] The relevant provisions in this appeal are subsections 152(1.4) and (1.7). These read:
+[7] The relevant provisions in this appeal are subsections 152(1.4) and (1.7). These read:
+Determination in respect of a partnership
+152(1.4) The Minister may, within 3 years after the day that is the later of
+(a) the day on or before which a member of a partnership is, or but for subsection 220(2.1) would be, required under section 229 of the Income Tax Regulations to make an information return for a fiscal period of the partnership, and
+(b) the day the return is filed,
+determine any income or loss of the partnership for the fiscal period and any deduction or other amount, or any other matter, in respect of the partnership for the fiscal period that is relevant in determining the income, taxable income or taxable income earned in Canada of, tax or other amount payable by, or any amount refundable to or deemed to have been paid or to have been an overpayment by, any member of the partnership for any taxation year under this Part.
+Binding effect of determination
+152(1.7) Where the Minister makes a determination under subsection 152(1.4) or a redetermination in respect of a partnership,
+(a) subject to the rights of objection and appeal of the member of the partnership referred to in subsection 165(1.15) in respect of the determination or redetermination, the determination or redetermination is binding on the Minister and each member of the partnership for the purposes of calculating the income, taxable income or taxable income earned in Canada of, tax or other amount payable by, or any amount refundable to or deemed to have been paid or to have been an overpayment by, the members for any taxation year under this Part; and
+(b) notwithstanding subsections 152(4), 152(4.01), 152(4.1) and 152(5), the Minister may, before the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the determination or redetermination, assess the tax, interest, penalties or other amounts payable and determine an amount deemed to have been paid or to have been an overpayment under this Part in respect of any member of the partnership and any other taxpayer for any taxation year as may be necessary to give effect to the determination or redetermination or a decision of the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada.
+[8] Subsection 152 (1.4) authorizes the Minister to determine the income or loss of a partnership (or any other amount in respect of the partnership) for a fiscal period within 3 years after the later of: (a) the day on or before which an information return for the fiscal period is required to be filed; and (b) the day the return is actually filed.[3]
+[9] Subsection 152(1.7) provides where a determination is made by the Minister under subsection 152(1.4), the determination is binding on each member of the Partnership (and the Minister) for purposes of determining the tax liability of the members, subject to the rights of objection and appeal under subsection 165(1.15). Further, the Minister may, within 1 year after the date on which all rights of objection and appeal expire or are determined, assess any member of the partnership for any taxation year to give effect to the determination or a decision of the Tax Court of Canada, Federal Court of Appeal, or the Supreme Court of Canada.
+[10] In Cummings, the Court stated the following regarding paragraph 152(1.7)(b):
+The purpose of paragraph 152(1.7)(b) is clearly to extend the time in which the Minister may reassess in the given circumstances. That extension is triggered not by the Minister himself but by the taxpayer's own action or inaction in objecting or appealing the Minister's moves (in this case the determination) or in failing to do so. If the taxpayer objects or appeals the Minister's time for reassessing is extended to one year after the time when that objection or appeal is determined; if the taxpayer does nothing, the Minister's time for reassessment is extended to one year after the last day on which the taxpayer could have acted.[4]
+I. ISSUE [11] The sole issue is whether the 2000 and 2001 taxation years are statute-barred as it relates to the appellants.[5]
+[12] To determine that, the question is whether the Partnership filed its “Partnership Information Return” for each of the 2000 and 2001 taxation years on May 25, 2001 and on April 29, 2002, respectively, or if both Partnership Information Returns were filed on February 16, 2005 (“2000 PIR”, “2001 PIR” and collectively the “PIRs”).[6]
+[13] The appellants called Dean Jones to testify. The respondent called Rick Newson to testify. He is retired and at the time of the hearing was approaching 70 years of age.
+II. FACTS [14] Dean Jones, a chartered professional accountant, obtained a business degree from York University in 1989 and subsequently worked at Burns Frye brokerage for over a year. He was employed for two years at KPMG, in accounting, auditing and tax work, and for two years at the Ontario provincial auditors’ office. He joined Ross Beaty brokerage for six months. Since 1995 he has operated Jones and Associates, is the sole partner, and does accounting and tax work for companies and individuals. In late 1999 or 2000, he was invited as a consultant to sort out the accounting system for the Partnership, a tax shelter.
+[15] Rick Newson, retired from CRA, Hamilton (“CRAH”) in 2013, was an income tax auditor and in the tax avoidance section between 2000 to 2006. He helped Dominic Consoli, a tax avoidance auditor at CRAH, who was initially assigned to audit the Partnership. Later, the audit was re-assigned to David Robbins, a tax avoidance auditor at CRA Ottawa (“CRAO”).
+Partnership [16] Mr. Jones was the sole shareholder and director of 1451958 Ontario Inc.; it was the original General Partner of the Partnership. Subsequently, TQI Health Care Inc. became the General Partner.
+[17] Mr. Jones was the accountant for a number of the appellants and prepared their tax returns.
+[18] The appellants purchased units in and were unit holders of the Partnership.
+[19] At year-end, the Partnership computes its income or loss then allocates to each limited partner (unit holder) that partner’s proportionate share of such income or loss.
+[20] For the relevant years, the Partnership’s computation resulted in the Losses, as earlier defined, claimed in filing its PIRs. The Partnership had made allocations of the Losses to the appellants based on the percentages of units each appellant held. As unit holders, the appellants had claimed their respective share of the Losses on their individual income tax returns in either 2000 or 2001.
+[21] Pursuant to the determinations made by the Minister, the Losses were disallowed (the “Determinations”). The Partnership provided the notices of determination dated March 29, 2006 to Mr. Jones.[7] He initially suggested that the Partnership objected to the Determinations in 2006, however, the notices of objections are dated March 23, 2007.[8] He confirmed in cross-examination that the confirmations in respect of the Partnership’s relevant years were sent by CRA to the Partnership in response to the notices of objection.
+[22] The Minister reassessed the appellants to disallow their claims. They objected.
+[23] After the Partnership and appellants filed objections, the Minister confirmed the Reassessments and confirmed the Determinations, respectively, and issued notices of confirmation dated April 18, 2012.
+[24] Appendix II to these reasons list for each appellant the amount of the loss claimed, the taxation year and the dates of the notice of Reassessment, objection and confirmation. It also lists for the Partnership the Losses, the taxation years and the dates of the notices of Determination, objection and confirmation.
+[25] The Partnership appealed the Determinations to this Court. The Partnership subsequently discontinued its appeals and these were deemed to be dismissed on June 24, 2016.[9]
+[26] After discontinuance, the respondent brought a motion to strike the appellants’ Notices of Appeal, which was granted by the motions judge without leave to amend. The appellants appealed.
+[27] The Federal Court of Appeal allowed the appellants’ appeals finding that they were not estopped from arguing that the Determinations were statute-barred on the basis that the Partnership discontinued its own appeal. Therefore, each partner could argue that the Determinations were statute-barred in the context of their individual appeals.
+Front Page, 2000 PIR [28] In his testimony, Mr. Jones identified a copy of the front page of the Partnership Information Return, for the period January 1, 2000 to December 31, 2000 dated February 23, 2001, that bears his signature and CRAH’s stamp “Received Counter Client Services” dated May 25, 2001 (“copy of the front page of 2000 PIR”).[10] He was not positive he prepared the 2000 PIR but would have been aware of it and would have reviewed it.
+May 25, 2001 meeting [29] Mr. Jones recalls the events surrounding the stamped copy of front page of 2000 PIR because he had attended a meeting at CRAH with a GST auditor, Jennifer Harper (“GST auditor”) and Mr. Newson on May 25, 2001.
+[30] After the meeting, he asked Mr. Newson where the mail-room is located, because of renovations. Mr. Newson responded he had to go that way and accompanied Mr. Jones to the mail-room. Mr. Jones handed the envelope containing the 2000 PIR and copy of the front page of the 2000 PIR to Mr. Newson. Either he or mailroom staff took these and Mr. Newson returned and handed the copy of the front page of the 2000 PIR with CRAH’s original stamp on it to Mr. Jones. He did not recall having sent a copy of the 2000 PIR with the original stamp on it to the Partnership but said he would have.
+[31] Although Mr. Jones spoke of the mail-room, that is inconsistent with the stamp showing “counter client services.”
+[32] Mr. Newson testified that in 2001 he was auditing Prolessons (first year) and Mr. Jones was the promoter of that tax shelter. At the same time, Mr. Jones was undergoing a GST audit. Mr. Newson, the GST auditor and their supervisors attended the introductory dual purpose meeting with Mr. Jones; he recalls it because a larger room was needed. Mr. Newson wanted a general explanation from Mr. Jones of how that tax shelter worked; Prolessons was unrelated to the Partnership. To the best of his recollection, August 23, 2001 was the date of that meeting and the first time he met Mr. Jones. He produced a letter he had sent to Mr. Jones dated October 21, 2002 confirming their meeting on August 23, 2001.
+[33] Mr. Newson’s belief is he was not at the May 25, 2001 meeting. First, if he had received the 2000 PIR, he would have taken it to the mailroom, sent it to the right place and stamped it.[11] Later, someone else would record receipt of it which ends up in CRA’s database, Option LL.[12] Second, timelines are “odd”, “seem tight” and in order for him to facilitate the May meeting additional steps would have been required. Third, access to CRAH’s mail-room counter is restricted to staff only and unless escorted by a CRA employee, it is not accessible to the public.
+[34] Appellants’ counsel submitted an excerpt from the transcript of the examination for discovery of Mr. Newson, the respondent’s nominee. The following questions were asked and answered in the excerpt below that relate to the procedure where a return is filed at a meeting with CRA:[13]
+Q. Can I file a return at a meeting, if me, you, Jennifer Harper and somebody else had a meeting and I brought a partnership, limited partnership return, if I handed it to you, is that filing it?
+A. I believe it is.
+Q. And, why would you say that? How would you – would you stamp it?
+A. I would stamp it.
+Q. So if someone is taking the position that a return was filed on a certain date, they would have a return with a stamp on it reflective of the date it was received, correct?
+A. Yes, to clarify, when you asked if I would stamp it, I would take it to the mailroom and ask that they stamp it, provided that – provided that it is being, indeed, given to the department for forwarding.
+The stamp is a record of the date that envelope is received, so yes, I would go to the mailroom and ask them to stamp it and forward it.
+…
+Q. And were you familiar with the stamp that was being utilized by the Hamilton offices back in 2001?
+A. No, I wasn’t.
+Q. So you don’t know if that looks like the stamp that was being utilized or it doesn’t?
+A. I don’t recall if that was the stamp that was being used.
+Q. Let me ask you this because you just answered that question in two ways. Your first answer was you weren’t familiar with that stamp. That was a truthful answer, correct?
+A. No. I am familiar with the stamp.
+Q. Now you are familiar with it?
+A. Yes, sorry.
+Q. Okay. And the one that’s on the form that appears to have a date, May 25th, 2001 on it, does that look like the stamp that was utilized by the offices if I were to file something in person?
+A. Yes.
+[35] It was established during cross-examination of Mr. Newson, if there was a May 25, 2001 meeting, it would be possible that a T2020 Memo to File would have been generated recording communications for that day. At the discovery of Mr. Newson, an undertaking was given to search for the T2020 pertaining to the May 25, 2001 meeting. The response was that no T2020 “concerning a meeting that would have occurred on May 25, 2001 has been identified or found. The audit file of Prolessons 1 Limited Partnership has been destroyed.” Mr. Newson had confirmed that by the time he had asked CRA for records (through a current CRA employee), he discovered that CRA had destroyed such records in 2017. If there was a T2020, it was destroyed.
+Front Page, 2001 PIR [36] Mr. Jones identified a copy of the front page of the 2001 PIR for the period January 1, 2001 to December 31, 2001 with CRAH’s stamp dated April 29, 2002.[14] Consistent with his or his accounting firm’s practice for filing documents in CRAH, the 2001 PIR would have been hand-delivered in a package to CRAH’s mailroom and would have had the front page of the 2001 PIR filed stamped.
+[37] A copy of the front page of the stamped 2001 PIR came into his possession, copies of the PIRs with the original stamp went to the Partnership and he confirmed the Partnership’s business and tax shelter identification numbers shown on the PIRs are those assigned by CRA. Neither he nor anyone from his office or the Partnership applied the CRAH stamp to the copy of the front page of the 2000 PIR or the 2001 PIR.
+CRA communications [38] In his testimony, Mr. Newson referenced an email dated March 28, 2003 sent to him by Mr. Consoli which indicates “From what I’ve read from the Ottawa records it appears that …” the Partnership did not file the PIRs for the relevant years. The next day, Mr. Newson’s supervisor, responded “I think we should issue a requirement to file the partnership returns.”[15] When asked in cross-examination if such requirement was sent, he responded not to my knowledge.
+September 2003 Letter [39] About six months later, Mr. Consoli sent a letter dated September 5, 2003 to Jones & Associates, copied to Mr. Robbins (“September letter”). Paragraph 1 states in part:
+…As previously discussed, we are conducting an audit of the above-noted Limited Partnership (LP). An audit consists of reviewing the books and records of the LP to determine if the income and/or expenses, as claimed, are business related and are reasonable in accordance with the provisions of the Income Tax Act. The audit of the LP may result in adjustments being made to the T1 Tax Returns of the individual investors (re: the limited partners) based on their respective percentage of the units held.
+CRAO’s four letters [40] From November 2003 to March 2005, Mr. Robbins sent four letters that were either addressed to Mr. Jones or copied to him (the “four letters”).[16] He highlighted that the subject line of these letters refer to three of the Partnership fiscal periods ending December 31, 2000 to December 31, 2002.
+November 19, 2003 letter (“November letter”) [41] Mr. Jones understood from the November letter CRAO was seeking clarification, further information regarding the audit and was outlining items CRAO is looking at and whether information had been provided. He said the third page of the letter confirms PIRs for the relevant years had been received by CRA, as acknowledged by Mr. Robbins in section TSI 4.1.in stating:
+Partnership information returns (T5013) from inception
+Current Status: Provided; see questions in TS1 2.1
+[42] When asked in cross examination if Mr. Newson agreed if one reads Mr. Robbins statement it would be interpreted as the PIRs for the relevant years were provided, he said he is not sure, nor authored the letter, does not know what Mr. Robbins was thinking and commented it is subject to questions in paragraph TSI 2.1. Appellants’ counsel referred him to an excerpt from his discovery regarding the statement and the previous answer he had given in response to questions asked as follows:[17]
+Q. Mr. Newson, to you, reading this, does it say to you that the T5013 returns have been provided as of the date, at least as of the date of the letter?
+A. I don’t know if they have been provided as of the date of this letter.
+Q. Wasn’t my question.
+A. Sorry.
+Q. My question was: You, reading this now, is it saying to you, or do you interpret it as saying to you that those returns had been received or provided?
+A. Yes.
+April 14, 2004 letter (“April letter”) [43] The April letter containing CRAO’s proposal letter was sent to “each of the 48 Limited Partners” and others.[18] When asked how CRA obtains unit holders names and information, Mr. Jones said these would have been in the PIRs filed. Alternatively, CRA could have obtained information from the Partnership directly but to his knowledge that did not occur. Mr. Newson indicated that CRA “typically” finds the information in PIRs but it is not limited to looking at the PIRs as other screening tools exist. He agreed another option is that the PIRs were filed and the 48 limited partners were shown on attachments to the PIRs.
+December 16, 2004 letter (“December letter”) [44] Mr. Jones’ testified that the December letter, consistent with the November letter, indicates the reference to the PIRs are the same as the documents in Exhibits A1 and A2.[19] In the December letter, he said CRAO is looking for “Copies” of the PIRs already sent in regards to the PIR’s filed for the relevant years and it had received all PIRs and information returns and it was trying to reconcile between PIRs that they have and the forms that were sent to the unitholders but 2002 was still outstanding. CRA added these are the Partnership’s forms or slips it issued to the Partners.
+[45] Items 13 and 20 of the December letter states “Copies of T5013 supplementary forms sent” and “Copies of the T5013 Information Returns for all the years of the LP that reconcile to the T5013 supplementary forms requested in Item 13”, respectively. Although not entirely clear, my impression is that in referring to “Copies” in each instance, both types of T5013’s had been provided previously to CRA consistent with the November letter.
+March 7, 2005 letter (“March letter”) [46] The March letter refers to a meeting on February 16, 2005. Schedule A of that letter repeats verbatim Item 13 of the December letter. However, Item 20 (in Schedule A) differs from previously in that it states “Copies of T5013 Information Returns for all years of the LP that reconcile to the T5013 supplementary forms requested in Item 13 (2000 and 2001 only provided)”.
+[47] Recognizing the March letter was sent after the 2005 meeting, the reference to “2000 and 2001 only provided” could be construed as either confirming the PIRs were previously provided consistent with the November letter or the PIRs were provided during the 2005 meeting. It is unclear what Mr. Robbins was referring to and is inconclusive in my view. The only thing that is clear is that the 2002 Partnership Information Return was outstanding (not in issue in these appeals).
+III. PARTIES’ POSITIONS [48] The respondent asserts that the Partnership’s 2000 and 2001 PIRs were filed in 2005, therefore were not statute-barred. The appellants assert these were filed in 2001 and 2002 and were statute-barred.
+[49] The appellants’ argue the Determinations for the relevant years are statute‑barred because the 2000 and 2001 PIR’s were filed on May 25, 2001 and April 29, 2002, respectively. Since the Partnerships’ Determination notices are dated March 29, 2006, these are beyond the three years of the later of the due date or the filing date of the PIR’s, therefore the limitation period expired for the Minister to make a determination under subsection 152(1.4) of the Income Tax Act. Accordingly, subsection 152(1.7) cannot apply, and the relevant years would be statute-barred such that the Reassessments should be vacated.
+[50] At the hearing, the respondent argues the 2000 and 2001 PIRs were filed only on February 16, 2005 at a meeting with CRA and Mr. Jones. Hence the relevant years were not statute-barred and the Minister was permitted to issue the Determination notices pursuant to subsection 152(1.4). Consequently, by operation of subsection 152(1.7), the appellants 2000 and 2001 would not have been statute-barred.
+[51] According to the assumptions of fact and position taken by the respondent in all the replies, I note the specific date(s) the PIRs were said to be filed differ from what was argued at the hearing. The assumptions of fact and the position in a representative Reply state:[20]
+9(p): the Limited Partnership filed its Partnership Information Return for the 2000 taxation year on February 15, 2005;
+9(q): the Limited Partnership’s Partnership Information Return for the 2001 taxation year, which was dated February 15, 2005, was provided to the CRA after that date.
+15. The Limited Partnership’s Partnership Information Return for the 2000 taxation year was filed on February 15, 2005 and its Return for the 2001 taxation year was provided to the Minister after that date.
+[52] Assumptions underpin and are the foundation on which an assessment or reassessment rests. The jurisprudence establishes that assumptions must be pleaded accurately, fully and honestly. It seems the respondent erred in light of the March letter and it is undisputed between the parties the meeting occurred on February 16, 2005.
+IV. ANALYSIS [53] Before turning to the issue, I observe that both parties faced challenges because of the lengthy history and passage of time in these appeals thus likely hampered witnesses’ ability to recall or clearly recall events, a witness was unavailable and documentary difficulties.
+February 16, 2005 meeting [54] Again, the dispute centres on whether the 2000 and 2001 PIRs were filed by Mr. Jones at a meeting with CRAO on February 16, 2005 (the “2005 meeting”) or filed these in 2001 and 2002, respectively.
+Appellants’ objection to impugned documents [55] When the respondent sought to tender certain documents into evidence during cross-examination of Mr. Jones to support the assumption of filing the PIRs at the 2005 meeting, Appellants’ counsel objected on the basis Mr. Jones had indicated he did not recognize nor prepare the documents and denied he gave these to CRAO at the 2005 meeting.
+[56] Mr. Jones’ evidence was he did not specifically recall the 2005 meeting but shortly after he had sent a letter to CRAO acknowledging he had provided documentation and information to CRAO during the 2005 meeting that CRA had requested for the Partnership for the relevant years.[21] Based on his letter, he agreed he provided two packages of photocopied documents that would have responded to all CRAO’s requests for information and documents in its December 2004 letter. However, he indicated he did not provide all documents in Tabs 40 and 41 of the Respondent’s production. Namely, pages 5100-1 (a partnership information return for 2000) and 6130-1 (a partnership information return for 2001 and collectively the “impugned documents”).[22] While he acknowledged his name is “pegged in” Area B – Certification on page 5100-1, he denied that he or his office prepared it. He made the same denials with respect to page 6130-1. I reserved ruling on the admissibility of the impugned documents.
+[57] During cross-examination, respondent counsel sought to demonstrate a contradiction between statements he made during trial and examinations for discovery regarding page 5100-1, by confronting Mr. Jones with an excerpt from the transcript of his discovery in an attempt to discredit his evidence. The respondent did not accomplish that. In the excerpt, there were general exchanges regarding who inputs information into his system (he or an assistant), how he would check if is name was on a document and software automatically updated documents when printed from the system. One statement is to the effect they printed whatever information they could and provided it to CRA as it told them it was easier for them to provide a “copy” of the PIR than auditors going through CRA’s internal system. The request suggests CRA already had the PIRs in its system.[23] The respondent submits that the 2000 PIR appears to have been printed out of Mr. Jones’ system. While that initially appeared to be the case, he ultimately retracted that. And, what he actually said was that page 5100-1 “looks like” a copy of the 2000 PIR, but when asked had he prepared it, he said “I don’t know if this was just something printed out of my system.” Shortly after these statements, he remarked in the transcript from the discovery he did not know where the impugned documents came from or if these were in the box. This is in line with what he had said during cross-examination.
+[58] Even if a document is relevant (to prove or disprove a material fact in issue), when dealing with documentary evidence proof of authenticity of the document and proof of truth of contents of the document, together with the use to which a document may be put during the trial, must be addressed.[24] Parties often agree a document is authentic based on the document having been prepared and signed by the witness on the date the document bears thus dispenses with concerns of authenticity. No such agreement was made in the present situation and Mr. Jones denied the PIRs were presented at the 2005 meeting.
+[59] Since the Minister produced the impugned documents, presumed these to be prepared by Mr. Jones and assumed these were acquired at the 2005 meeting, authenticity and what transpired at the meeting are in issue. It was imperative, in such circumstances, for the Minister to have a percipient witness, whether Mr. Robbins, now retired, or some other witness, available to testify regarding these documents and the 2005 meeting. This is not a case where no such witness was available. Rather, the respondent had planned and endeavoured to arrange for a witness to attend but informed the Court during the hearing there were administrative delays in CRA’s process and the witness would not be attending.[25]
+[60] Mr. Jones’ evidence went unchallenged, his credibility intact. I note he is named only on page 5100-1 and Alton Plager is named on page 6130-1 as the person to sign the respective document. Also, Mr. Plager allegedly met with CRAO separately the day after the 2005 meeting. Each page is unsigned and each page shows a different head office. There is no CRAO stamp nor notation on the impugned documents, according to CRA’s procedure when documents are filed at a meeting.[26] Based on the evidence, I am not satisfied as to the authenticity of the impugned documents and have no evidence other than Mr. Jones’ version of events regarding the 2005 meeting. The impugned documents are not admissible into evidence.
+2000 and 2001 Partnership Information Returns [61] The appellants assert that subsequent to the May 25, 2001 meeting Mr. Newson helped Mr. Jones file the Partnership’s 2000 PIR, went to the mail room and CRAH’s stamp was applied. Further, the Partnership’s 2001 PIR was filed in accordance with Jones & Associates practise, bears CRAH’s mail room stamp dated April 29, 2002 and Mr. Jones’ confirmed his office had received the stamped page dated April 29, 2002.
+[62] The respondent submits that for the appellants’ version to be accepted, one would have to believe that CRA would have failed to log the PIRs on its database and would lose track on two separate occasions for two taxation years.
+[63] One difficulty with that submission is it does not account for the CRAH’s stamps applied on the copy of the front page of the 2000 and 2001 PIRs on two separate occasions. Both witnesses recognized these as the stamps used at that time. As noted by the appellants, no evidence was offered to suggest the stamps were forgeries. Nor does the submission factor in CRAO’s subsequent correspondence acknowledging the PIRs for the relevant years were provided which I will address shortly.
+[64] As to the database, Mr. Newson had checked Option LL to satisfy himself as to whether there was a meeting on May 25, 2001, and although he found no record the PIRs were filed, he mentioned that Option LL had changed after his retirement in April 2013. I had the impression from what he had intimated, that the change in the system might have affected the results from the search he conducted which occurred several years after 2013. Systems are not infallible.
+[65] Mr. Newson testified he had no recollection of receiving the 2000 PIR, did not believe he was at a meeting in May 2001 and said he is in very good health and has not been diagnosed with any issues involving his memory. In cross‑examination, he confirmed that his evidence is that he did not remember the May meeting, not that it did not take place.
+[66] Mr. Newson’s belief seems less reliable, his reasons for his belief are based largely on conjecture and his evidence is undermined by the following aspects.
+[67] CRAH’s stamped received was on the 2000 PIR.
+[68] Mr. Consoli’s less definitive comment it “appears” the PIRs (2000 and 2001) had not been filed, pre-dates Mr. Robbins more definitive comment in the November letter, the PIRs were provided. Tasked with responsibility for the audit of the Partnership for the relevant years, he would have likely been most familiar with the status. To Mr. Newson’s knowledge, no requirement was issued.
+[69] The September letter and the CRAO’s four letters indicate the Partnership’s relevant years are under audit. In many cases, though not always, that would signify returns had been filed. Mr. Jones’ had understood the September letter to be recognition by CRA that the PIRs had been filed because it starts out with information that was filed by the Partnership in the PIRs and looks at documentation to support what was reported in the PIRs.
+[70] The respondent asserts the September letter is silent concerning the filing of the PIRs and in written submissions states “that despite requests from the CRA, the information and supporting documentation have not been provided.” Admittedly, CRA had made such requests but, and consistent with Mr. Jones understanding, the letter also says the requests were made to “substantiate the amounts claimed by the LP” and “to verify the amounts reported” by it so CRA can carry on with the audit. Given those remarks, it is more plausible that the PIRs had been filed which was followed a short time later by the November letter. CRA’s silence could equally be viewed as CRA already had the PIRs in its possession.
+[71] Mr. Jones’ evidence regarding the purpose of the November letter is congruent with paragraph 1 of the letter in stating “The purpose of this letter is to provide a status report on the original list and seek clarification and further information where necessary” so that it can advance the audit. Section TSI 2.1 confirms that. In reviewing that section, CRA details the “Current Status” involving not only the Partnership but shareholders in the Shareholders Ledger, other entities, specific individuals, the “original 10 limited partners” and addresses a host of items pertaining to those specified then pinpoints information or clarification it is seeking in that regard.
+[72] Of import, paragraph TSI 4.1 of that letter states, “Partnership information returns (T5013) from inception Current Status: Provided; see questions in TSI 2.1”. Looking at the TSI 2.1 section, I do not see anything that qualifies Mr. Robbins statement that the PIRs had been “Provided.”
+[73] Further, included in section TSI 2.1 are references to losses reported on the T5013 slips. Also, there is an acknowledgement the Partnership provided documentation such as a T5015 Reconciliation of Partner’s Capital Account and T5013 Statements of Partnerships Income for 2000. Mr. Newson’s had explained that these types of documents accompany the filing of a PIR. It seems therefore, that CRAO is acknowledging it had such information at least for the 2000 taxation year thus is a further indicator the PIRs had been “Provided.”[27]
+[74] Respectfully, it is not readily apparent to me that the December letter qualified the November letter thus effectively confirmed the PIRs had not been filed as submitted by the respondent. In Mr. Jones’ testimony, summarized at paragraph 44 of these reasons, he points out CRAO’s December letter merely asks for “Copies” showing the PIRs had been filed. Without the benefit of having had Mr. Robbins clarify matters, I do not construe the December letter as qualifying the November letter nor provides the confirmation suggested by the respondent. I find that the PIRs for the relevant years were provided to CRA before the November letter.[28]
+[75] I do not disagree with the respondent’s submissions regarding the PIRs, Exhibits A1 and A2, are of poor quality and various other comments. This is one of the evidentiary challenges given the passage of time. I am cognizant an attempt, however, was made by Mr. Jones’ to remedy this. He said that over 10 years later, he contacted Alton Plager and requested copies of the PIRs with the original stamps. That was not forthcoming nor was an explanation given by Mr. Plager as to whether copies were found or why copies could not be found.
+[76] The letters of November (13 pages), December (10 pages) and March illustrate a factually complex matter involving a multitude of individuals, corporate entities and a variety of intermingled matters. This and the lack of clarity in parts of the correspondence underscores that it was critical to have Mr. Robbins, or another knowledgeable witness, testify to shed light on the matters highlighted. The result might have been different had that occurred.
+[77] Based on the evidence, on balance I find and conclude that the Partnership’s 2000 Partnership Information Return was filed on May 25, 2001 and its 2001 Partnership Information Return was filed on April 29, 2002, stamped “Received” by CRAH, and having regard to the indication in CRAO’s correspondence that these were “Provided” before the November letter.
+[78] Since the Determinations for the Partnership’s 2000 and 2001 taxation years were made in 2006, those taxation years are statute-barred as the Minister was beyond the three year statutory time limit under subsection 152(1.4) of the Income Tax Act. As a result, the 2000 and 2001 taxation years would also be statute-barred for the appellants.
+V. CONCLUSION [79] The appellants’ appeals for their respective taxation years are allowed and the Reassessments are vacated.
+[80] The appellants are awarded one set of costs.[29]
+Signed at Ottawa, Canada, this 3rd day of August 2023.
+“K. Lyons”
+Lyons J.
+APPENDIX I Income Tax Act, RSC 1985, c 1 (5th Suppl)
+Notice of determination
+152(1.5) Where a determination is made under subsection 152(1.4) in respect of a partnership for a fiscal period, the Minister shall send a notice of the determination to the partnership and to each person who was a member of the partnership during the fiscal period.
+Absence of notification
+152(1.6) No determination made under subsection 152(1.4) in respect of a partnership for a fiscal period is invalid solely because one or more persons who were members of the partnership during the period did not receive a notice of the determination.
+Definition of normal reassessment period
+152(3.1) For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) if at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends four years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends three years after the earlier of the day of sending of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of sending of an original notification that no tax is payable by the taxpayer for the year.
+Assessment and reassessment
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or willful default or has committed any fraud in filing the return or in supplying any information under this Act, or…
+Partnership
+165(1.15) Notwithstanding subsection 165(1), where the Minister makes a determination under subsection 152(1.4) in respect of a fiscal period of a partnership, an objection in respect of the determination may be made only by one member of the partnership, and that member must be either
+(a) designated for that purpose in the information return made under section 229 of the Income Tax Regulations for the fiscal period; or
+(b) otherwise expressly authorized by the partnership to so act.
+Members of partnerships
+244(20) For the purposes of this Act,
+(a) a reference in any notice or other document to the firm name of a partnership shall be read as a reference to all the members thereof; and
+(b) any notice or other document shall be deemed to have been provided to each member of a partnership if the notice or other document is mailed to, served on or otherwise sent to the partnership
+(i) at its latest known address or place of business, or
+(ii) at the latest known address
+(A) where it is a limited partnership, of any member thereof whose liability as a member is not limited, or
+(B) in any other case, of any member thereof.
+APPENDIX II
+Appellants
+Taxation Year
+Loss Claimed
+Reassessments (notice dated)
+Notice of Objections
+Jeff Gillan
+2000
+$46,400
+February 23, 2007
+April 30, 2007
+Sandra Inglis
+2001
+$40,000
+February 23, 2007
+April 30, 2007
+Murray J. McPhail
+2001
+$21,000
+March 12, 2007
+May 16, 2007
+Anthony Tedesco
+2001
+$21,000
+May 3, 2007
+June 20, 2007
+Rosa Militano
+2001
+$40,000
+May 7, 2007
+June 20, 2007
+Robert Borg Olivier
+2001
+$38,720
+May 7, 2007
+July 26, 2007
+Sarah Borg Olivier
+2001
+$41,000
+May 7, 2007
+July 26, 2007
+James Shaw
+2001
+$46,200
+May 7, 2007
+June 11, 2007
+Paul Watt
+2000
+$40,000
+May 7, 2007
+June 26, 2007
+Ahmad Yaqeen
+2001
+$56,000
+May 7, 2007
+June 20, 2007
+Stanley Harvey
+2001
+$56,000
+May 10, 2007
+June 19, 2007
+Gerald James
+2001
+$14,000
+May 10, 2007
+June 26, 2007
+Lynn James
+2001
+$14,000
+May 10, 2007
+June 26, 2007
+Maurizio Marchioni
+2001
+$42,000
+May 10, 2007
+June 19, 2007
+BLANK
+BLANK
+BLANK
+BLANK
+BLANK
+Partnership
+BLANK
+Losses Claimed
+Determinations
+(notices dated)
+Notice of Objections
+BLANK
+2000 2001
+$941,840 $2,193,463
+March 29, 2006
+March 23, 2007
+Notices of Confirmation for the appellants and the Partnership are dated April 18, 2012.
+CITATION:
+2023 TCC 114
+COURT FILE NOS.:
+2012-2925(IT)G
+2012-2917(IT)G
+2012-2918(IT)G
+2012-2919(IT)G
+2012-2920(IT)G
+2012-2921(IT)G
+2012-2922(IT)G
+2012-2926(IT)G
+2012-2927(IT)G
+2012-2928(IT)G
+2012-2929(IT)G
+2012-2979(IT)I
+2012-2980(IT)I
+2012-3102(IT)G
+STYLE OF CAUSE:
+ANTHONY TEDESCO AND HIS MAJESTY THE KING
+JAMES SHAW AND HIS MAJESTY THE KING
+STANLEY HARVEY AND HIS MAJESTY THE KING
+SANDRA INGLIS AND HIS MAJESTY THE KING
+MURRAY J. MCPHAIL AND HIS MAJESTY THE KING
+JEFF GILLAN AND HIS MAJESTY THE KING
+ROBERT BORG OLIVIER AND HIS MAJESTY THE KING
+AHMAD YAQEEN AND HIS MAJESTY THE KING
+ROSA MILITANO AND HIS MAJESTY THE KING
+MAURIZIO MARCHIONI AND HIS MAJESTY THE KING
+PAUL WATT AND HIS MAJESTY THE KING
+GERALD JAMES AND HIS MAJESTY THE KING
+LYNN JAMES AND HIS MAJESTY THE KING
+SARAH BORG OLIVIER AND HIS MAJESTY THE KING
+PLACES OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+December 14, 2022
+DATE OF SUBMISSIONS:
+January 27, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+August 3, 2023
+APPEARANCES:
+Counsel for the Appellants:
+Maurizio Marchioni
+Counsel for the Respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Maurizio Marchioni
+Firm:
+March Law
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Except for Ahmad Yaqeen, all appellants are represented by Mr. Marchioni. Respondent counsel indicated he had spoken with Mr. Yaqeen before the hearing, and said the disposition of the appellants’ appeals would apply equally to Mr. Yaqeen’s appeal.
+[2] Subsection 152(1.6) provides no determination is invalid solely because one or more members of the partnership did not receive a notice of the determination. Under subsection 244(20), if the notice was mailed to, served on, or otherwise sent to the partnership at its last known address or place of business, or the last known address of a member of a limited partnership whose liability is not limited, each member of the partnership is deemed to have been provided the notice.
+[3] In Sentinel Hill Productions IV Corp v R, 2014 FCA 161, at paragraph 7, the Court explained that subsection 152(1.4) allows the Minister to determine the income or losses of the partnership in order to determine the tax payable by any member of that partnership. As such, a notice of determination is simply a method of computing income at the partnership level and binding the members of the partnership to that computation but does not make a partnership liable to pay taxes.
+[4] Cummings v R, 2009 TCC 310 at paragraph 17.
+[5] At the outset of the hearing, appellants’ counsel indicated the appellants are no longer pursuing the other issues pled in their Notices of Appeal.
+[6] CRA’s Partnership Information Return is also identified as T5013E on the face of the form. CRA also uses T5013 on other forms but are different in nature. For example, there is a form T5013 Statement of Partnership Income. To avoid confusion, I prefer to use PIR or PIRs in describing the documents debated in these appeals.
+[7] Exhibits A3 and A4.
+[8] Exhibit R2.
+[9] Notice of Discontinuance filed May 2, 2016. Deemed dismissed pursuant to subsection 16.2(2) of the Tax Court of Canada Act.
+[10] Exhibit A1.
+[11] Procedure: he stamps the PIR, puts it in an inter-office envelope addressed to a designated unit in Sudbury, the T4,T5 registry responsible for logging returns into CRA’s database, attaches a four part tracking form with contact information and he receives a page back.
+[12] Option LL records the first PIR filed for a limited partnership when the Taxation Centre receives it.
+[13] Examination for Discovery, questions 87 to 89 inclusive and 98 to 102 inclusive with corresponding answers.
+[14] Exhibit A2.
+[15] Exhibit R3.
+[16] November letter sent to Alton Plager, director of the General Partner, the April letter sent to 48 Limited Partners, Mr. Jones and others and the December and March letters were addressed to Mr. Jones.
+[17] Examination for Discovery, questions 115 to 117 inclusive with corresponding answers.
+[18] Exhibit A7. In June 2003, Mr. Consoli had also sent letters to unit holders.
+[19] Exhibit A8, December letter.
+[20] Jeff Gillan Reply, assumptions at paragraphs 9(p) and (q) and position at paragraph 15.
+[21] Letter March 11, 2005.
+[22] The impugned documents are at RBOD, Volume 1, in Tabs 40 and 41.
+[23] Exhibit R-5, Transcript of the Examination for Discovery of Mr. Jones (19 August 2014) Questions 183 to 205 inclusive and answers.
+[24] The latter involves considerations involving the rule against hearsay and exceptions to that rule. Of course, a document can be entered to merely prove the existence of the document, without admitting proof of contents.
+[25]Appeals were scheduled nine months in advance of the hearing date. Also, other difficulties beyond the respondent’s control surfaced around the time of the hearing
+[26] Also, page 5100-1 refers to a nine month fiscal period commencing March 1, 2000 and both pages show the incorrect business number.
+[27] He mentioned a T5013 includes a one page summary page, attached supplementaries, financial statements and a T5015 partnership capital statement.
+[28] I agree with the respondent’s written submission at paragraph 68 that the November letter “does not have the purpose of establishing a starting point date for the 3 year period” nor do I believe that is the appellants’ argument. Rather, it is confirmation from CRA that PIRs had been filed before this letter.
+[29] The appellants ask for costs on a substantial indemnity basis.

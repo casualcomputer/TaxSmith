@@ -1,0 +1,152 @@
+---
+title: "Wood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30269/index.do"
+last_modified: "2011-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 168"
+citation2: ""
+neutral_citation: "2011 TCC 168"
+decision_date: "2011-03-15"
+language: "en"
+item_id: "30269"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7991
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:46:00.115000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ec8d6319764ca8ad59a8b64290c4c751bbb5f17e15af429f31a2a09c6fd0c50"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wood v. The Queen
+
+- Citation: 2011 TCC 168
+- Decision date: 2011-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7991, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-15
+Neutral citation
+2011 TCC 168
+File numbers
+2010-2036(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2036(IT)I
+BETWEEN:
+TAWNI WOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 7, 2011 at Winnipeg, Manitoba
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Rachelle Nadeau
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed, without costs.
+Signed at Ottawa, Ontario, this 15th day of March, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC168
+Date: 20110315
+Docket: 2010-2036(IT)I
+BETWEEN:
+TAWNI WOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this appeal is whether the Appellant is entitled to claim a disability tax credit pursuant to section 118.3 of the Income Tax Act (the “Act”) for 2008. In particular the issue is whether the Appellant has established that she has satisfied the requirements of paragraph 118.4(1)(b) of the Act. This paragraph provides that:
+118.4 (1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+…
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+[2] The Appellant was working in a laboratory in 2007 when, while she was making a chemical solution, the flask broke and some of the solution went in her eyes. A short while after this happened she started to have migraine headaches. It seems clear that while she was experiencing the migraine headaches she was unable to perform a basic activity of daily living. Paragraphs 118.4(1)(c) and (c.1) of the Act provide that:
+(c) a basic activity of daily living in relation to an individual means
+(i) mental functions necessary for everyday life,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(c.1) mental functions necessary for everyday life include
+(i) memory,
+(ii) problem solving, goal-setting and judgement (taken together), and
+(iii) adaptive functioning;
+[3] It seems obvious that when she was having a migraine headache that she was suffering a great deal and would be unable to perform mental functions necessary for everyday life. However the issue in this case is whether “all or substantially all of the time, …[the Appellant was] unable … to perform a basic activity of daily living”.
+[4] The Appellant was not specific in describing how often she would get migraine headaches or how long they would last. She indicated that the frequency and duration would vary. Generally she would get a migraine headache two or three times a week. A copy of the Disability Tax Credit Certificate completed by her doctor and dated March 10, 2009 was submitted. In Part B – Effects of impartment, her doctor stated that:
+Gets migraines. – H/A can last for 1 – 3 [sic] dys. Pt is able to work between headaches – Last time off work 2 weeks ago. She has seen [sic] Neuolgy (see enclosed). Migraines occur 2/week ± .
+[5] In a subsequent report that was dated June 17, 2009, the following question was raised by the Canada Revenue Agency and the following response was provided by her doctor:
+Does your patient require an “inordinate amount of time” to perform the mental functions necessary for everyday life by himself/herself, using as needed, any appropriate therapy, medication and devices?
+…
+Yes __√__ No ______ N/A ­­­­­______
+… When has migraine, which occur 2 – 3 times a week, she cannot function for 2 + hours.
+[6] The following question, with three proposed responses (to which the Appellant’s doctor chose the first response), was posed immediately after the question referred to above:
+To the best of your knowledge, the limitations described in the previous question are present:
+a) _√__ intermittently (e.g., depending on the task or during periods of exacerbation)
+b) _____ all or substantially all of the time, despite the use of appropriate medication and therapy.
+c) _____ N/A
+[7] The report from her doctor does not support a finding that “all or substantially all of the time, …[the Appellant was] unable … to perform a basic activity of daily living” as her doctor indicated that the limitations were only present intermittently.
+[8] The Appellant submitted a document identified as a “Sworn Statement” from her mother. However the statement was not sworn and was simply signed by her mother. Her mother did not testify during the hearing. In this letter, her mother stated that:
+Most days I would go to Tawni’s home to do her everyday routine like, feed her pets, laundry, clean, take care of her finances and most of all to take care of her because she was unable to get out of bed. Her windows were blacked out because sunlight would only magnify her migraines and cause more nausea. When cleaning I could only use water with mild dish soap because any kind of fumes would also antagonize the situation. Many days I would even have to assist her to get out of bed and freshen her up. Even trying to keep Tawni hydrated due to the nausea was a task during this period. On occasion I would have to drive her to the hospital to get a pain killer injection because the migraine medication was not enough. This was done under the instructions of her doctor.
+So I would like to testify that Tawni was very sick and unable to perform daily routine activities for an extended period after her accident at work.
+[9] This statement does not assist the Appellant. No time period is specified and the vague reference to “an extended period after her accident” does not help in determining whether the requirement that “all or substantially all of the time, …[the Appellant was] unable … to perform a basic activity of daily living” is satisfied. The letter is not specific with respect to how many days the Appellant was unable to get out of bed nor is it specific with respect to how long this condition would last during the day.
+[10] It seems clear that the Appellant was unable to perform a basic activity of daily living for several periods of time throughout 2008. However determining with any precision the amount of time that the Appellant was unable to perform a basic activity of daily living in 2008 is not possible based on the evidence as presented. However it seems to me that it is more likely than not that it was not all or substantially all of the time in 2008. The statements made by the Appellant’s doctor do not support a finding that this was all or substantially all of the time in 2008. While the migraines were frequent in 2008 and she may have satisfied the test under a disability insurance policy, in order to claim the disability tax credit under the Act, the requirement that must be satisfied is that “all or substantially all of the time, …[the Appellant was] unable … to perform a basic activity of daily living”. I find that the Appellant has not established that she was unable to perform a basic activity of daily living all or substantially all of the time in 2008.
+[11] As a result the Appellant’s appeal is dismissed, without costs.
+Signed at Ottawa, Ontario, this 15th day of March, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC168
+COURT FILE NO.: 2010-2036(IT)I
+STYLE OF CAUSE: TAWNI WOOD AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: February 7, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: March 15, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Rachelle Nadeau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

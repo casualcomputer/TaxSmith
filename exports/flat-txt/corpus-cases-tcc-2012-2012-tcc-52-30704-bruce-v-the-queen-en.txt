@@ -1,0 +1,111 @@
+Title: Bruce v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30704/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-52-30704-bruce-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-02-14
+
+# Bruce v. The Queen
+
+- Citation: 2012 TCC 52
+- Decision date: 2012-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7507, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bruce v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-14
+Neutral citation
+2012 TCC 52
+File numbers
+2010-2738(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2738(IT)I
+BETWEEN:
+VIDA BRUCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 20, 2012 at Toronto, Ontario
+Before: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Lloyd Bruce
+Counsel for the Respondent:
+Sina Akbari
+____________________________________________________________________
+JUDGMENT
+IT IS ORDERED THAT:
+1. the appeal with respect to assessments of Part I tax under the Income Tax Act for taxation years from 1994 to 2010, inclusive, is dismissed;
+2. the appeal with respect to assessments of Part X.1 tax under the Income Tax Act for taxation years from 1994 to 2002 and from 2008 to 2010, inclusive, is dismissed;
+3. the appeal with respect to assessments of Part X.1 tax under the Income Tax Act for taxation years from 2003 to 2007, inclusive, is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Part X.1 tax for those years should be: $1,169.68 for 2003, $1,178.26 for 2004, $984.84 for 2005, $623.68 for 2006 and nil for 2007; and
+4. the parties shall bear their own costs.
+Signed at Toronto, Ontario this 14th day of February 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 52
+Date: 20120214
+Docket: 2010-2738(IT)I
+BETWEEN:
+VIDA BRUCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal by Vida Bruce concerns assessments made under the Income Tax Act relating to excess contributions to, and withdrawals from, registered retirement savings plans. The assessments are for the 1994 to 2010 taxation years, inclusive, and relate to tax under Parts I and X.1 of the Act.
+Preliminary objection re February 22, 2011 Order
+[2] The respondent submits that the appeal should be quashed with respect to certain taxation years pursuant to an order of Justice Bowie dated February 22, 2011. The order denied an application to extend time to appeal with respect to certain assessments and it allowed the application with respect to others.
+[3] With respect to assessments relating to Part I tax for the 1994 to 2007 taxation years, Justice Bowie denied the application to extend time, except for the 2006 taxation year for which an extension was granted.
+[4] With respect to assessments relating to Part X.1 tax for the 1994 to 2007 taxation years, Justice Bowie denied the application with respect to the 1994 to 2002 taxation years, inclusive, and granted the application with respect to the 2003 to 2007 taxation years, inclusive.
+[5] In light of this order, the appeal will be quashed with respect to assessments for which an extension of time was denied.
+[6] Lloyd Bruce, who represented his wife at the hearing, submits that I should reopen these applications. He submits that he now has relevant documentation that was not presented at the hearing before Justice Bowie.
+[7] In my view, it would not be appropriate to reopen the matters that were dealt with in Bowie J.’s Order. The issue was not properly raised in the pleadings and counsel for the respondent indicated that he was not aware that it was going to be raised. I would also note that no appeal was taken from Justice Bowie’s Order.
+Other preliminary objections
+[8] The respondent submits that the appeal with respect to Part I tax for the 2008 and 2010 taxation years should be quashed because no notices of objection were filed. It is also submitted that the appellant was not assessed Part I tax for these years in respect of the matters in dispute because no RRSP withdrawals were made in those years.
+[9] The appellant does not take issue with the latter submission. The appeal will therefore be dismissed with respect to assessments relating to Part I tax for the 2008 and 2010 taxation years.
+[10] The respondent further submits that the appeal with respect to assessments relating to Part X.1 tax with respect to the 2008, 2009 and 2010 taxation years should be quashed on the basis there was no assessment of Part X.1 tax for any of these years. The appellant does not take issue with this. The appeal relating to these assessments will therefore be quashed.
+Remaining assessments
+[11] The assessments that remain to be considered relate to assessments of Part I tax for the 2006 and 2009 taxation years and assessments of Part X.1 tax for the 2003 through 2007 taxation years, inclusive.
+[12] The appellant has had a lengthy dispute with the Canada Revenue Agency (CRA) concerning contributions to, and withdrawals from, registered retirement savings plans.
+[13] It appears that the dispute over the amount of tax payable was finally resolved shortly before the hearing. At the opening of the hearing, counsel for the respondent informed the Court that it was conceding that Part X.1 tax should be reduced to the following amounts: $1,169.68 for 2003, $1,178.26 for 2004, $984.84 for 2005, $623.68 for 2006 and nil for 2007.
+[14] In light of these concessions, the appellant did not dispute the calculation of tax under either Part 1 or X.1. However, Mr. Bruce submits that there should be a remedy for the conduct of the CRA during the audit and objection stages which led to such a protracted and bitter dispute.
+[15] I am genuinely sympathetic to the concerns expressed by Mr. Bruce. It appears that the applicable legislative provisions were difficult to apply in the appellant’s particular circumstances. It would not be surprising if there were confusion on the part of both parties as to the proper application of these provisions.
+[16] Unfortunately for the appellant, this Court is not the proper forum for the relief that is sought. The Tax Court of Canada has no authority to grant relief for conduct of the CRA during the audit and objection stages. It also has no authority to waive tax, interest or penalties on grounds of fairness or in respect of a decision of the Minister under subsection 204.1(4) of the Act. Any such authority rests with the Federal Court.
+[17] The appeal must therefore be dismissed.
+[18] Mr. Bruce also sought costs in respect of the actions of the CRA. Costs in respect of appeals in this Court are not intended to compensate for actions of the CRA during the audit and objection stages. It is not appropriate to grant costs to the appellant, in my view. The parties shall bear their own costs.
+Signed at Toronto, Ontario this 14th day of February 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 52
+COURT FILE NO.: 2010-2738(IT)I
+STYLE OF CAUSE: VIDA BRUCE and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 20, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: February 14, 2012
+APPEARANCES:
+Agent for the Appellant:
+Lloyd Bruce
+Counsel for the Respondent:
+Sina Akbari
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

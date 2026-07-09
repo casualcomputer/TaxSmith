@@ -1,0 +1,379 @@
+Title: Canadian Imperial Bank of Commerce v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31187/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-170-31187-canadian-imperial-bank-of-commerce-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-15
+
+# Canadian Imperial Bank of Commerce v. The Queen
+
+- Citation: 2013 TCC 170
+- Decision date: 2013-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5084, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Imperial Bank of Commerce v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-15
+Neutral citation
+2013 TCC 170
+File numbers
+2012-1261(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-1261(GST)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Motions heard on February 15, 2013, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+Martha MacDonald
+Andrew Jun
+Counsel for the respondent:
+Marilyn Vardy
+Craig Maw
+____________________________________________________________________
+ORDER
+Upon motion made by the respondent for an order directing the parties to file and serve on the opposing party a full list of documents;
+Upon motion made by the appellant for an order granting leave to file a second amended notice of appeal;
+Upon hearing the parties;
+And upon review of the materials filed by the parties;
+For the reasons attached hereto, the Court orders as follows:
+1. With respect to the appellant’s motion to file a second amended notice of appeal (the “amended amended notice of appeal”), the motion is granted on condition that the appellant provide, separately, particulars of the facts and reasons upon which it relies in respect of the amendments.
+2. With respect to the respondent’s motion for a full list pursuant to Rule 82, each party shall provide a full list in accordance with Rule 82 subject to the following terms:
+(a) In the case of the appellant, the search for documents will be restricted to documents found in the records of the Legal, Tax and Finance Departments, the Card Services Division and/or Card Products Division and the offices of the persons to whom the named departments or divisions report to as well as, if they are not already covered, the offices of the positions held by Richard Venn and E.C. Johannson on April 16, 2003 and the office of the Chief Executive Officer.
+(b) In the case of the respondent, the search for documents will be restricted to documents found in the file of the review of the rebate application and the appeals file dealing with the notice of objection.
+(c) However, prior to conducting a search in compliance with the above:
+(i) The parties shall exchange the documents in their existing lists and the respondent shall examine the appellant’s documents in relation to quantum and determine whether, at this stage, they still seek more in respect of quantum. If the documents are satisfactory, the respondent shall so advise the appellant and this order shall not apply to documents that relate only to quantum.
+(ii) If the documents are not satisfactory, the parties shall attempt to see if they can reach an agreement informally on the disclosure process for the purely quantum related documents. If they are successful, that arrangement will replace this order in respect of documents that relate only to quantum.
+(iii) If they are unsuccessful, this order will apply to the quantum related documents.
+(iv) However, the appellant, should it simply prefer to produce the quantum related documents, is free to so advise the respondent and the provisions in (i) to (iii), above, shall not apply.
+3. If the parties can reach an agreement on a proposed timetable for the next steps, they may submit it through the registry. If they are not able to do so within a reasonable time, not exceeding two months from the date of this order, either party may advise the registry and arrangements will be made for a hearing by telephone conference to set a schedule.
+Costs are left for the trial judge to decide.
+Signed at Montréal, Québec, this 27th day of May 2013.
+“Gaston Jorré”
+Jorré J.
+Citation: 2013 TCC 170
+Date: 20130527
+Docket: 2012-1261(GST)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR ORDER
+Jorré J.
+Introduction
+[1] There are two motions before me in this matter.
+[2] First, the appellant seeks to file an amended amended notice of appeal. I shall refer to this as the second amended notice of appeal.
+[3] Secondly the respondent seeks what is referred to as a full list of documents pursuant to Rule 82 of the Tax Court of Canada Rules (General Procedure).
+[4] This is a GST appeal that relates to the reporting periods from March 25, 2005 to February 26, 2007.
+[5] The amounts in issue were not claimed in the original GST returns. The appellant filed a rebate application on March 26, 2007 and that claim was assessed pursuant to section 297 of the Excise Tax Act (ETA).[1]
+[6] The appellant subsequently filed a notice of objection and appealed directly to the Court pursuant to paragraph 306(b) of the ETA prior to the Minister acting on the objection.
+[7] The matter is at an early stage. Discoveries have not been held and, while Rule 81 lists have been exchanged, as of the date of the hearing, the parties had not yet exchanged documents.
+[8] There is a substantial amount at stake, approximately, $45 million in this appeal and, approximately, another $80 million in respect of other periods which are at the objection stage.
+Nature of the Dispute
+[9] In the periods in issue the appellant and Aeroplan were involved in what is referred to in the pleadings as the Aeroplan program. The appellant made certain payments to Aeroplan in relation to the program and paid approximately $45 million in respect of the goods and services tax on those payments.
+[10] Subsequently, the appellant made a rebate claim in respect of that $45 million amount which rebate claim was denied by the Minister. The appellant says that no GST should be levied on the payments in question and submits various reasons in support.
+[11] The claim is described more fully in paragraphs 2 to 22 of the first amended notice of appeal. The key portions read as follows:
+2. The Minister denied CIBC’s rebate claim in the Assessment under appeal . . . for the period March 25, 2005 to February 26, 2007 . . . in respect of payments of Goods and Services Tax . . . on amounts paid . . . to Aeroplan Limited Partnership . . . .
+. . .
+5. CIBC is a “financial institution” under the Act and is resident in Canada.
+Aeroplan Program
+6. Aeroplan and CIBC shared responsibility for the “Aeroplan Program”, pursuant to which a person (a “Cardholder”) holding both an Aeroplan Card and a co‑branded CIBC VISA Card such as the CIBC Aerogold VISA Card (a “Co‑Branded VISA Card”) would earn “Aeroplan Miles” on the use of the Co‑Branded VISA Card and would be entitled to redeem the Aeroplan Miles as consideration for the cost of travel.
+7. Aeroplan was required to grant to any Cardholder membership in the Aeroplan Program and was required to credit Aeroplan Miles to such a Cardholder.
+8. Aeroplan arranged for Aeroplan members and other members of the public to apply for a Co-Branded VISA Card.
+9. Aeroplan and CIBC established and paid for equally an annual pool of Aeroplan Miles to be used for Cardholder retention programs.
+10. CIBC was required to consult with Aeroplan prior to implementation or deletion of optional features on the Co-Branded VISA Cards.
+11. Aeroplan and CIBC were required to mutually develop the design of the Co‑Branded VISA Cards and mutually consent to changes thereto.
+12. All advertising and promotion of the Co-Branded VISA Cards or Aeroplan benefits available through the Co-Branded VISA Cards were subject to the prior approval of both CIBC and Aeroplan.
+13. Aeroplan and CIBC agreed to share equally the cost of all future changes required by Aeroplan to the CIBC system, and future changes required for reasons of market competitiveness would be cost shared as mutually agreed.
+14. Substantially all of the revenue to be derived by Aeroplan and CIBC in relation to the Aeroplan Program was dependent on the success of the Aeroplan Program, as measured by the use of the Co-Branded VISA Cards by Cardholders.
+IV. ISSUES TO BE DECIDED
+15. The issue in this Appeal is whether the Aeroplan Payments were consideration for a taxable supply made by Aeroplan to CIBC or, instead, were:
+(A) consideration for Aeroplan’s exempt supply of a financial service made to CIBC;
+(B) in the alternative, Aeroplan’s share of the revenues from a joint venture, the Aeroplan Program; or
+(C) in the further alternative, consideration for Aeroplan’s issuance or sale of a “gift certificate”.
+V. STATUTORY PROVISIONS RELIED ON
+16. CIBC relies on sections 123, 165, 181.2, 261, and 296 of the Act, Part VII of Schedule V to the Act, and Part IX of Schedule VI to the Act.
+VI. REASONS THE APPELLANT INTENDS TO ADVANCE
+Exempt Supply of a Financial Service
+17. CIBC says that any supply made by Aeroplan to CIBC constituted an exempt supply of a “financial service” pursuant to paragraphs (i) or (l) of the definition of “financial service” or by a combination thereof and was not excluded from the definition by paragraphs (n) to (t) thereof, so GST was not exigible thereon.
+Joint Venture
+18. In the alternative, CIBC says that the Aeroplan Program was a joint venture between Aeroplan and CIBC; as joint venturers, Aeroplan and CIBC shared in the responsibilities and the revenues of the Aeroplan Program, pursuant to which supplies were made to the Cardholders but not to CIBC.
+19. The Aeroplan Payments constituted Aeroplan’s share of the revenue earned by Aeroplan and CIBC as joint venturers under the Aeroplan Program; the Aeroplan Payments did not constitute consideration for a supply made to CIBC, so GST was not exigible thereon.
+Gift Certificate
+20. In the further alternative, the only supply made by Aeroplan to CIBC under the Aeroplan Program was the issuance or sale of Aeroplan Miles, which constitute a “gift certificate” under the Act.
+21. Pursuant to section 181.2 of the Act, the issuance or sale of a gift certificate for consideration is deemed not to be a supply, so GST was not exigible thereon.
+VII. RELIEF SOUGHT
+22. CIBC requests that this Appeal be allowed with costs and that the Minister vacate the Assessment and allow CIBC’s rebate claim in the amount of $44,784,563, plus interest.
+[Underlining in original.]
+The Motion to Amend
+[12] Rule 54 says:
+54 A pleading may be amended by the party filing it, at any time before the close of pleadings, and thereafter either on filing the consent of all other parties, or with leave of the Court, and the Court in granting leave may impose such terms as are just.
+[13] The proposed changes in the second amended notice of appeal relate to three paragraphs. The first of these paragraphs is in the issues section of the appeal; the other two are in the reasons section.
+[14] The first of these is paragraph 15. It currently reads:
+15. The issue in this Appeal is whether the Aeroplan Payments were consideration for a taxable supply made by Aeroplan to CIBC or, instead, were:
+(A) consideration for Aeroplan’s exempt supply of a financial service made to CIBC;
+(B) in the alternative, Aeroplan’s share of the revenues from a joint venture, the Aeroplan Program; or
+(C) in the further alternative, consideration for Aeroplan’s issuance or sale of a “gift certificate”.
+[15] Under the proposed amendment in subparagraph 15(B), “a joint venture,” would be deleted.
+[16] There would also be changes to the heading just above paragraph 18 and to paragraphs 18 and 19. Currently, this reads:
+Joint Venture
+18. In the alternative, CIBC says that the Aeroplan Program was a joint venture between Aeroplan and CIBC; as joint venturers, Aeroplan and CIBC shared in the responsibilities and the revenues of the Aeroplan Program, pursuant to which supplies were made to the Cardholders but not to CIBC.
+19. The Aeroplan Payments constituted Aeroplan’s share of the revenue earned by Aeroplan and CIBC as joint venturers under the Aeroplan Program; the Aeroplan Payments did not constitute consideration for a supply made to CIBC, so GST was not exigible thereon.
+[17] In the proposed second amended notice of appeal, this would read as follows:
+Joint Supply
+18. In the alternative, CIBC says that Aeroplan and CIBC shared in the responsibilities and the revenues of the Aeroplan Program, pursuant to which they made a single supply to the Cardholders.
+19. The Aeroplan Payments constituted Aeroplan’s share of the revenue earned by Aeroplan and CIBC under the Aeroplan Program; the Aeroplan Payments did not constitute consideration for a supply made by Aeroplan to CIBC, so GST was not exigible thereon.
+Respondent’s Opposition
+[18] The respondent opposes the amendments on two grounds.
+First Reason
+[19] Briefly, the respondent’s first reason for opposing the amendments is:
+(a) that no legal relationship is pleaded that would give rise to a sharing of revenues and to the absence of a supply to the appellant, leaving the respondent to guess as to the nature of the legal relationship,
+(b) that no underlying facts supporting the sharing of revenues and the absence of a supply to the appellant are pleaded, and, further,
+(c) that, as a result, with respect to the proposed second issue, subparagraph 15(B), and the two related paragraphs to be amended, paragraphs 18 and 19, no cause of action is set out.
+[20] The respondent says that this is contrary to the objectives of pleadings, which include: clarifying the controversy, giving the other party notice of the case it has to meet and assisting the Court.
+[21] The respondent also refers to Odgers’ Principles of Pleading and Practice and the passage which says: “If vague and general statements were allowed, nothing would be defined; the issue would be ‘enlarged’, as it is called; and neither party would know, when the case came on for trial, what was the real point to be discussed and decided.”[2]
+[22] I agree.
+[23] I also accept that I can consider whether an amendment conforms to the rules of pleading.[3]
+[24] When I examine the factual portion of the proposed second amended notice of appeal and the reasons relied on, I have some difficulty in seeing how those paragraphs, assuming them to be proven, would give rise to the conclusion that there was a relationship resulting in the sharing of revenues.
+[25] Indeed if I examine the facts in the current notice of appeal, the first amended notice of appeal, I have some difficulty understanding how they support the current alternative allegation that there is a joint venture sharing revenues.
+[26] Accordingly, there is merit in the respondent’s point.
+[27] However, I am not convinced that refusing the amendments is necessarily the appropriate remedy.
+[28] As a result of the affidavits there is a fair amount of supporting material before me. The material includes what appears to be the key agreement between the appellant and Air Canada, a document entitled “Credit Card Agreement” dated April 16, 2003.[4]
+[29] I note that at clause 20 of the agreement it states that the parties do not intend to create a partnership, joint venture or similar relationship.
+[30] While such an arrangement is not apparent to me on the face of the agreement, especially when I look at appendix D, it may be that the appellant takes the position that the agreement creates a contractual relationship whereby the parties share revenues.
+[31] It may also be that there are other relevant facts or contractual documents.
+[32] Leaving aside the second objection raised by the respondent for the moment, refusing the amendments is not the most effective way to deal with the deficiency.
+[33] If the amendments are refused, the refusal may very well trigger another application to amend that will provide more facts and reasons in accordance with the requirements for pleading contained in Rule 48 and in paragraphs (c) and (f) of Form 21(1)(a) of the Rules.
+[34] Since the Court may impose such terms as are just pursuant to Rule 54, the practical solution that would keep things moving would be to order that the appellant provide particulars of the facts and reasons supporting the proposed amendments. This will help make the discovery process more effective and efficient.[5]
+[35] I note that there is at least some authority for the proposition that particulars in this Court are limited to facts under Rule 52. Assuming that to be the state of the law, I do not see any such limitation in terms of appropriate conditions that may be imposed under Rule 54.
+[36] However, before following such a course of action, I must consider the second objection raised by the respondent.
+Second Reason
+[37] The respondent says that the amendments should be rejected because the appellant is prohibited from raising the issue by reason of subsection 306.1(1) of the ETA.
+[38] The relevant portions of subsection 306.1(1) read as follows:
+306.1(1) [Where a specified person] has filed a notice of objection . . ., the person may appeal to the Tax Court . . ., or a reassessment made, only with respect to
+(a) an issue in respect of which the person has complied with subsection 301(1.2) or (1.21) in the notice, or
+(b) . . .
+and . . . the person may so appeal only with respect to the relief sought in respect of the issue as specified by the person in the notice.
+[39] In turn the relevant portions of subsection 301(1.2) read as follows:
+301(1.2) Where a person objects to an assessment in respect of which the person is a specified person, the notice of objection shall
+(a) reasonably describe each issue to be decided;
+(b) specify in respect of each issue the relief sought, expressed as the change in any amount that is relevant for the purposes of the assessment; and
+(c) provide the facts and reasons relied on by the person in respect of each issue.
+[40] There is no dispute that the appellant is a specified person.
+[41] More specifically, the respondent says:
+(a) that the proposed amendments raise a new issue, which the respondent describes as the “no supply” issue,
+(b) that the appellant did not reasonably describe the new issue in its notice of objection as required,
+(c) that the appellant did not provide the facts and reasons it relied on in the notice of objection as required by subsection 301(1.2) of the ETA.
+and that, as a result, it is precluded from raising this issue and making the proposed amendments.
+[42] The merits of the respondent’s submission turn on the following questions:
+(a) What is the meaning of the word “issue” in the context of sections 301 and 306.1?
+(b) Has the appellant raised a new issue within the meaning of those sections?
+(c) If the appellant is not raising a new issue, did the appellant comply with paragraph 301(1.2)(c)?
+(d) Finally, if it turns out that new reasons are raised rather than new issues, and if the appellant has complied with paragraph 301(1.2)(c), at the appeal stage can the appellant provide further facts and reasons in support of its position in relation to the issues?
+[43] The word “issue” has a variety of meanings many of which do not fit in this context.
+[44] The online edition of the Oxford English Dictionary provides numerous definitions of the word “issue”.[6]
+[45] The ones that are most applicable are the eleventh to thirteenth definitions:
+11.
+a. Law. The point in question, at the conclusion of the pleadings between contending parties in an action, when one side affirms and the other denies.
+issue of fact, an issue raised by denying something averred as a fact. issue of law, an issue raised by a demurrer or analogous proceedings, conceding the fact alleged, but denying the application of the law as claimed. general issue . . . . special issue, an issue raised by denying part of the allegations.
+b. transf. A point on the decision of which something depends or is made to rest; a point or matter in contention between two parties; the point at which a matter becomes ripe for decision. Esp. in to put to (†on, upon, an, the) issue and similar phrases: to bring to a point admitting of decision.
+c. A matter or point which remains to be decided; a matter the decision of which involves important consequences.
+d. A choice between alternatives, a dilemma.
+12. at issue.
+a. In Law: . . . . Hence gen. of persons or parties: In controversy; taking opposite sides of a case or contrary views of a matter; at variance.
+b. Of a matter or question: In dispute; under discussion; in question. Also, rarely, in issue.
+13. to join issue. . . .
+a. Law. Of the parties: To submit an issue (sense 11) jointly for decision; also, of one party, To accept the issue tendered by the opposite party.
+b. transf. To accept or adopt a disputed point as the basis of argument in a controversy; to proceed to argument with a person on a particular point, offered or selected.
+c. To take up the opposite side of a case, or a contrary view on a question.
+d. . . . .
+[46] The word “issue” also has a certain elastic quality.
+[47] At one level, the “issue” in an income tax appeal is whether the Minister has correctly assessed a particular amount of tax, interest and, if applicable, penalties. Similarly, in one sense, the issue in a GST appeal of a registrant is whether the Minister has assessed the correct amount of net tax, interest and, if applicable, penalties.
+[48] With references to “each issue” in sections 301 and 306.1, it is clear on the face of the statute that issue has to be understood as being at a more detailed level than simply: Overall, how much tax is owing?
+[49] At the other extreme, the word “issue” may refer to every disputed point of fact, procedure and law.
+[50] Clearly, “issue” cannot be understood at such a detailed level.[7] It would unduly limit the scope of “facts” and “reasons” and does not fit the scheme of the provisions. It would also be extremely difficult to comply with.
+[51] In the context of sections 301 and 306.1, the word “issue” has to be understood as referring to some intermediate level of detail which recognizes that not every disputed fact or reason is an issue.
+[52] While “issue” may not be susceptible of the precise definition in this context, guidance is available from the scheme of subsection 301(1.2) insofar as it requires that a taxpayer:
+(a) reasonably describe each issue to be decided;
+(b) specify in respect of each issue the relief sought, expressed as the change in any amount that is relevant for the purposes of the assessment; and
+(c) provide the facts and reasons relied on by the person in respect of each issue.
+[53] It is clear from the section that “issues” are different from “facts” and from “reasons”.
+[54] Paragraph (b) is interesting because it suggests that a particular “issue” will to some extent be tied to a particular financial impact in terms of the assessment.
+[55] While it may be that two distinct “issues” might coincidentally have the same quantitative impact, the fact that something which is alleged to be a different “issue” has exactly the same impact may well be an indicia that it is really the same “issue”.
+[56] Here, the second amendment does not seek any change in the financial consequence. The relief sought is the same as at page 12 of the statement of facts and reasons attached to and forming part of the notice of objection dated June 22, 2011.
+[57] It is also helpful to consider the reasons behind these provisions. They were set out in a paper by R.M. Beith quoted by the Federal Court of Appeal in Canada v. Potash Corporation of Saskatchewan:[8]
+4 The Large Corporation Rules were enacted in 1995 to discourage large corporations from engaging in a full reconstruction of their income tax returns for a particular year, after the objection or appeal process had started, based on developing interpretations and the outcome of court decisions in litigation involving other taxpayers. The reasons for these subsections are well-stated by R.M. Beith in his paper entitled “Draft Legislation on Income Tax Objections and Appeals” as outlined in the Report of Proceedings of the Forty-Sixth Tax Conference, 1994 Conference Report (Toronto: Canadian Tax Foundation, 1995), 34:2.
+One of the reasons for the legislation is to identify disputed issues much sooner so that a taxation year’s ultimate tax liability can be determined in a timely way.
+Owing to the complexity of the law and the number of issues, for many years a number of large corporations have had some of their taxation years left open through outstanding notices of objection or appeals, so that they have been able to raise new issues based on emerging interpretations and the outcome of court decisions challenged by other taxpayers.
+Recently, a particular problem was identified by the auditor general and the Public Accounts Committee. A case dealing with the calculation of the “resource allowance” which was decided against the department, resulted in claims not only based on the particular facts decided by the court but in respect of a new issue concerning the calculation of the “resource allowance”. These claims, both directly and indirectly from the court decision, involved significant amounts of tax and interests.
+In summary, it is essential that revenues be more predictable and therefore that potential liabilities be identified and resolved within a more reasonable time.
+Simply put, Parliament wants the Minister of National Revenue (the Minister) to be able to assess at the earliest possible date both the nature and quantum of pending tax litigation and its potential fiscal impact.
+[58] The Federal Court of Appeal also said in Potash Corporation:
+5 The parties advance opposing theories as to the scope of these two subsections. The appellant says the Large Corporation Rules are a statutory bar which restricts an appeal to the Tax Court solely to the issues and relief clearly raised in the large corporation’s notice of objection. The amount of the relief sought can never increase above that claimed in the notice of objection, except to allow the correction of minor arithmetical and technical errors.
+6 On the other hand, PCS argues that these subsections are merely procedural rules that cannot fetter a large corporation’s right to be taxed in accordance with the substantive rules which expressly govern the calculation of its income under, for example, subsection 2(1), section 3, paragraph 20(1)(vi) and section 65 of the Act. PCS argues that the granting of the amendment is a reasonable exercise of the Judge’s discretion.
+[59] In that case there were various items of miscellaneous income, foreign exchange income and farm income which the Minister had excluded from the computation of resource profits. Potash Corporation challenged all those changes in its notice of objection and its notice of appeal.
+[60] Subsequently, during the course of the appeal as a result of the examinations for discovery, Potash Corporation discovered additional amounts of miscellaneous income, foreign exchange income and farm income that it believed should belong in its notice of appeal. As a result it sought and obtained an amendment to its notice of appeal.
+[61] It is in this context that the Federal Court of Appeal said in Potash Corporation:
+21 The Large Corporation Rules place further requirements on large corporations that object to an assessment by the Minister. The main issue in this case is the meaning to be given to the words “each issue” in the phrase “reasonably describe each issue to be decided” in paragraph 165(1.11)(a). In interpreting those words, the Judge wrote:
+The issue is the legal matter which the taxpayer contests with the CCRA. It is not required to be described exactly, but if it was, it could be expressed in section numbers of the Income Tax Act, or in words taken from or paraphrased from those sections.
+22 I do not agree with this statement. While a large corporation is not required to describe the issue “exactly”, as the Judge states, it is required to describe the issue “reasonably”. What is reasonable will differ in each case and will depend on what degree of specificity is required to allow the Minster to know each issue to be decided.
+23 In reassessing PCS, the Minister set out the precise items of income which were being disallowed as part of resource profits (see paragraph 8). In filing its notice of objection, PCS objected to the disallowance of these same items of income, describing them in the same fashion as the Minister. That complied with paragraph 165(1.11)(a) because it gave sufficient certainty as to what issues were then under objection.
+24 Contrary to the Judge’s suggestion, it would not have been reasonable to simply say that the computation of “Resource Allowance” or “resource profits” was in issue, without specifying the particular elements of that computation that required a determination by the Minister or the Tax Court, as the case may be. That level of generality would render the Large Corporation Rules meaningless, defeating the purpose of their enactment.
+[Emphasis added.]
+[62] The situation here is quite different from that in Potash Corporation.
+[63] In Potash Corporation, there was an amendment to include entirely new amounts to the computation of the allowance, increasing the allowance.
+[64] Here, with or without the amendments, we are talking about the exact same amounts of GST paid on the same payments from the appellant to Aeroplan Limited Partnership and whether those particular payments are subject to GST.
+[65] What is being changed is part of the reasons and, possibly, part of the facts relied upon by the appellant. There is no change to the “issue” in the sense used by the sections in question.[9]
+[66] The respondent also cited the Federal Court of Appeal decision in Canada v. Telus Communications (Edmonton) Inc.[10] In that case the Minister assessed the appellant in excess of $2 million in additional net GST. Interest and a penalty pursuant to subsection 280(1) of the ETA were added to the assessment as well.
+[67] The appellant taxpayer had challenged the additional $2 million in tax for various reasons.
+[68] In its objection the appellant did not challenge the penalty, as such, although it was accepted by all that if there was a reduction in the amount of net tax a corresponding reduction of penalty and interest would follow.
+[69] Later, the appellant sought to amend its notice of appeal and challenged the entire penalty on the basis of the due diligence defense.
+[70] The amendment was refused by the trial judge. On appeal, the Federal Court of Appeal, with respect to subsections 306.1(1) and 301(1.2), held that the amendment raising a due diligence defense did raise a new issue and as a result could not be advanced by the appellant.
+[71] In Telus, while success, in part or in whole, in the challenge to the net tax would necessarily bring about a reduction in the penalty to the same extent, if the appellant failed in its challenge to the net tax but succeeded on due diligence, the penalty would be eliminated even though the net tax remained unchanged. The due diligence defense clearly raises a new issue.
+[72] That situation is very different from the one here. Here, the “no supply” approach has the same consequence as the approach in subparagraphs 15(A) and (C) of the proposed second amended notice of appeal. Subparagraph (A), proposed subparagraph (B) and subparagraph (C) are all reasons in support of the issue raised in the preamble of paragraph 15, “whether the Aeroplan Payments were consideration for a taxable supply made by Aeroplan to CIBC”.
+[73] Before concluding on this point, I should deal with Pétromont and Company, Limited Partnership v. Ontario (Minister of Finance),[11] a decision of the Ontario Superior Court of Justice.
+[74] In Pétromont, the appellants sought a reimbursement of retail sales tax in respect of railway tank cars they leased and that travelled through Ontario.
+[75] The appellants raised a number of grounds. First, there was a constitutional issue. Secondly, they argued that their use of the railcars in Ontario was transitory and did not bring them into the charging section.
+[76] Finally, they argued that if the use of the cars did fall into the charge then the formula for calculating the taxable value should take account of the fact that about half of the journeys were empty return journeys.
+[77] The Ontario Retail Sales Tax Act[12] has provisions similar to the ones in issue here; they are set out in paragraphs 55 and 56 of Pétromont:
+55 Section 24(1.1) of the Act provides that where a taxpayer files a Notice of Objection, the Notice of Objection,
+... shall clearly describe each issue raised, and fully set out the facts and reasons relied upon in respect of each issue.
+56 Once the Minister has rendered a decision, the taxpayer may choose to appeal, whereupon section 25(2.1) of the Act provides that,
+A person is entitled to raise by way of appeal only those issues raised by the person in a notice of objection to the assessment being appealed and in respect of which the person has complied or was deemed to have complied with subsection 24(1.1).
+These provisions are different in one respect; they do not require the specification of the relief sought.
+[78] In Pétromont, the Court, following Telus, held that the empty return journey issue could not be raised because it had not been raised in the notice of objection.
+[79] The Pétromont decision[13] went on to say that, if the return journeys were not a new issue but simply an amplification of what was raised in the objection, it would not change the outcome.
+[80] Unfortunately, if I understand the facts and arguments correctly, I am unable to share the view of the Ontario Superior Court in Pétromont on the new issue question because I would have thought that the return journey argument amounted to additional reasons, or, as the Ontario Superior Court in Pétromont put it, an amplification of what had been raised in the objection, not a new issue.
+[81] I note that in British Columbia Transit v. The Queen,[14] a GST case, the appellant was denied input tax credits on the basis that it did not make taxable supplies for consideration because certain grants it received under the contractual arrangements were not consideration. The appellant disputed this. Later, the appellant also took the position that certain property taxes paid on its behalf constituted consideration. The respondent took the position that because of subsection 306.1(1) the appellant was precluded from arguing the point.
+[82] Both parties proceeded on the basis that the property tax argument constituted additional facts and reasons, not an additional issue.[15]
+[83] I am of the view that the situation here is analogous to BC Transit in that what is raised here are additional reasons, not a new issue.
+Can the appellant provide further facts and reasons at the appeal stage which were not raised in the notice of objection?
+[84] There is no question that the notice of objection did provide facts and reasons in support of the appeal. Is an appellant who is a specified person precluded at the appeal stage from raising additional facts and reasons in support of any issue already raised?
+[85] I agree with Justice C. Miller of this Court who, in BC Transit, held that subsections 306.1(1) and 301(1.2) were not a bar to an amendment in circumstances where what had been shown was a failure with respect to providing all facts and reasons as opposed to a failure to state the issue and the relief sought in the objection.
+[86] This result is clear from the sections. They do not require that every reason invoked on appeal by an appellant be spelled out in the notice of objection. This is apparent from subsection 306.1(1) which says only that the appellant (i) must comply with subsection 301(1.2) and is limited to (ii) the issues raised and (iii) the relief sought; the subsection does not say the person is limited to the facts and reasons in the notice of objection.
+[87] As a result I am satisfied that the proposed amendments do not raise new issues contrary to subsection 306.1(1).[16]
+[88] The amendments shall be allowed subject to the condition that the appellant separately provide particulars of the facts and reasons in support of the proposed amendments.
+The Motion for Full Disclosure
+[89] The respondent seeks a full list under Rule 82 or, if it fails to obtain that, an order for production of a somewhat more limited set of documents.
+[90] The appellant takes the position that the issue in the motion is whether the Court should order a full disclosure of documents at this time. It opposes the application. It says a full list would place an undue cost and time burden on it.
+[91] In correspondence exchanged by the parties prior to this motion, the appellant did try to propose an intermediate course of action whereby it would produce a more limited set of documents beyond its Rule 81 list.
+[92] In support of its opposition to the order, the appellant says that full disclosure is being sought before the appellant has been asked to produce the documents in its list, that the respondent has not articulated what documents it seeks, how they are relevant, and why they are necessary to a fair and efficient hearing of the matter and that the respondent cannot show any difficulty in otherwise obtaining the documents during the discovery process. The appellant argues that the motion should be dismissed as premature and that, in any event, the principle of proportionality does not favour full disclosure.
+[93] Chief Justice Bowman sets out the basic principle in Mintzer v. The Queen:[17]
+14 . . . In this court making an order for full disclosure under Rule 82 is not unusual if the party seeking the order can demonstrate reasonable grounds for such an order. There should however be some basis for putting the other party to the expense and trouble of assembling a large number of documents. . . .
+[94] Among the considerations in deciding such an application are the facts in dispute as set out in the pleadings.[18]
+[95] It is also possible for a court to order that a party make documentary disclosure beyond the scope of the party’s own Rule 81 list without ordering a full list.[19]
+[96] One can view such an order as either as a Rule 82 list on terms limiting its scope or as an alternate remedy that is different from either a Rule 81 or 82 list.
+[97] It does not really matter how one describes such an order but I shall refer to it as a Rule 82 list on terms because, while it is more restrictive in scope than a full list under Rule 82, it does have a key feature of Rule 82, that it includes the relevant documents as opposed to just those a party relies on.
+[98] I would also note that, of course, the refusal of a Rule 82 order or the granting of a partial one does not preclude the possibility of applying to the Court for further documentary discovery; it also does not preclude seeking documents at the oral examination for discovery.
+[99] Rule 82 does not set mandatory requirements at the very high level suggested by the appellant before a party can obtain a Rule 82 list.
+[100] While a Rule 82 list is not automatic, there is no mandatory requirement that a party must always “. . . [articulate] what documents it would like to obtain through full disclosure, how they are relevant, and why they are necessary for a fair and efficient hearing of the matter”.[20]
+[101] Such a requirement presumes that a party already knows what documents the other party has. While there may be occasions where that is true, it will often not be the case. Indeed, one would not normally expect a party to be aware of all the documents held by the opposite party.
+[102] Similarly, while oral examination for discovery is often a useful means for obtaining documents, there is no requirement that a party necessarily use such efforts first, especially since a party may not be aware of very relevant documents that, given the circumstances, the party might have no reason to suspect their existence. A party is not required to guess what the other side has.
+[103] The appellant places great reliance on Long v. The Queen.[21] In Long, Justice Campbell of this Court found that Mr. Long’s motion was premature in the particular circumstances of that case. Mr. Long, who had been subject to a criminal investigation which led to charges that were later stayed, was subsequently assessed for unreported income. Mr. Long alleged various Charter violations and sought a very lengthy list of documents including documents in the hands of third parties, one of which was the RCMP.
+[104] While the Federal Court of Appeal, in the decision written by Justice Evans, upheld the decision of the trial judge, it did not establish a set of requirements to be met in all circumstances.
+[105] The decision on a Rule 82 application is necessarily very much based on a consideration of the particular circumstances of the case and the objectives of the rules of procedure. These objectives include enabling each party to discover not only the other party’s case but relevant evidence the other party may have.
+[106] Those objectives also include not only considerations of efficiency but also of effectiveness. It is also relevant to consider practicality and the need to get on with litigation. Closely related are considerations of proportionality, which I shall come to in a moment.
+[107] There is clearly a basis here for going beyond a Rule 81 list in this case. On the face of the pleadings there are significant factual disputes. There is a significant amount of money in dispute. When the rebate claim was being reviewed the respondent says it was only able to obtain invoices for a small part of the amount of approximately $45 million claimed. The second amendment to the notice of appeal raises new reasons and possibly new facts.
+[108] There is also no question that a fuller exchange of documents before discovery may help make that discovery more effective and reduce the chance that a second round of discoveries may be needed.
+[109] Both parties have significant resources, there is a good deal of tax at stake and there appears to be significant and serious issues at stake. In the sense proportionality is often discussed, it is probably not an issue here.
+[110] However, there is a long tradition in tax of trying to keep down, if possible, the amount of time and effort spent on pretrial stages of the proceeding. It is reflected in the choice of Rule 81 as the default rule. Arguably, this tradition is also a kind of consideration of proportionality although, to my knowledge, discussions of proportionality started much more recently than this tradition.
+[111] In very large organizations reasonable efforts to ensure all relevant documents have been found can take significant efforts given not only that sometimes documents are misfiled or sent to the wrong person but, occasionally, a person in an unexpected part of an organization may have been drawn in by reason of particular knowledge or expertise.
+[112] It is also worth bearing in mind that with the advent of e-mail often far more copies of documents are now sent out within organizations and that relevance for the purpose of discovery is of wider scope than at trial.
+[113] Considering these factors, considering as well that, as I said earlier, there is a basis for going beyond Rule 81, and considering that parties may seek further documents at the examination for discovery or by later motions, the appropriate approach in these circumstances is to make an order on terms.
+[114] There is merit in the approach that the appellant was trying to work out restricting the scope of the search for documents in terms of location to those parts of the appellant most likely to have relevant documents. I think there is also merit in trying to treat quantum issues slightly differently.
+[115] While I will issue an order, it will be limited in scope as to the places to be searched by the appellant.
+[116] In his affidavit, Stephen Bobkin sets out the structure of the appellant and his efforts to determine the most likely places to locate documents relevant to the appeal. In paragraph 19 of the affidavit he states that the most likely place for documents relevant to the appeal are the Card Services Division and the Legal, Tax and Finance Departments. Elsewhere in the affidavit there is reference to the Card Products Division; I do not know if this is different from the Card Services Division or simply a different name for the same thing.
+[117] I note that the April 16, 2003 agreement between the appellant and Air Canada is signed on behalf of the appellant by Richard Venn, Senior Executive Vice-President, and E.C. Johannson, Vice-President, Marketing and Business Development.[22] In the 2012 annual report of the appellant, Mr. Venn is listed as Senior Executive Vice-President, Advisor to the CEO Office.[23] While Mr. Venn may have held a different Senior Executive Vice-President position, it appears to indicate that the agreement was approved at more senior levels than the four departments or divisions referred to in paragraph 19 of Mr. Bobkin’s affidavit.
+[118] The Rule 82 order will be limited in scope to documents in the Legal, Tax and Finance Departments, the Card Services Division and/or Card Products Division and the offices of the persons to whom the named departments or divisions report to as well as, if they are not already covered, the offices of the positions held by Mr. Venn and Mr. Johannson on April 16, 2003 and the office of the CEO.
+Quantum Dispute
+[119] The terms just stated shall also apply to documents relating to the quantum dispute.
+[120] However, additional preconditions would be appropriate.
+[121] One would expect both Aeroplan and the appellant to have good records. It should be straightforward to produce invoices or other documents that resulted in the payments and the GST in issue and any adjustments thereto. It should also be straightforward to produce documents or records showing the corresponding payments from the appellant to Aeroplan. Perhaps they are in the documents already in the appellant’s list.
+[122] Indeed, I find it surprising that there would have been difficulties producing documentation at the stage where the rebate claim was being reviewed.
+[123] However, one would hope that the documentation was readily available and that issues regarding quantum related documents could be easily resolved between the parties.
+[124] Accordingly, before there is production of documents in accordance with the order, in the hope of making that portion of the order dealing with quantum related documents unnecessary, the order shall contain directions ordering the parties to first make a further attempt at an informal resolution of production of the quantum related documents.
+Conclusion
+[125] Rule 82 provides for an order made to both parties. In the case of the respondent the scope will be restricted to documents in the file of the review of the rebate application and the appeals file dealing with the notice of objection.
+[126] Success on these motions is mixed and I will leave costs to the trial judge.
+[127] If the parties can reach an agreement on a proposed timetable for the next steps, they may submit it through the registry. If they are not able to do so, arrangements will be made for a hearing by telephone conference to set a schedule.
+Signed at Montréal, Québec, this 27th day of May 2013.
+“Gaston Jorré”
+Jorré J.
+CITATION: 2013 TCC 170
+COURT FILE NO.: 2012-1261(GST)G
+STYLE OF CAUSE: CANADIAN IMPERIAL BANK OF COMMERCE v. THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 15, 2013
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF ORDER: May 27, 2013
+APPEARANCES:
+Counsel for the appellant:
+Martha MacDonald
+Andrew Jun
+Counsel for the respondent:
+Marilyn Vardy
+Craig Maw
+COUNSEL OF RECORD:
+For the appellant:
+Name: Martha MacDonald
+Andrew Jun
+Firm: Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] R.S.C., 1985, c. E-15.
+[2] Casson and Dennis, Odgers’ Principles of Pleading and Practice in Civil Actions in the High Court of Justice, 22nd edition, (London: Stevens & Sons, 1981), page 113.
+[3] See the decision of Justice V. Miller in Romanuk v. The Queen, 2012 TCC 58, under appeal.
+[4] This document is some 35 pages long, not counting appendices A to J, and is an attachment to the appellant’s notice of objection, a copy of which is at Tab A of the affidavit of Clara Massara.
+[5] It is interesting to consider the decision of the Federal Court of Appeal in Fredericton Housing Ltd. v. The Queen, 73 DTC 5329, even though the situation is quite different from here. In that case the Minister had started an appeal de novo from the Tax Review Board to the Federal Court — Trial Division. The taxpayer sought to have the statement of claim struck out for several reasons, one of which was that the appeal did not comply with the rule requiring that “[e]very pleading must contain a precise statement of the material facts on which the party pleading relies”.
+The Federal Court — Trial Division judge was satisfied that the material facts were set out. On this point the Federal Court of Appeal commented:
+The part of the memorandum that indicates the precise ground on this aspect of the matter reads as follows:
+In the Statement of Claim there is a single allegation that the defendant sold “an 80 acre parcel of land” and that the profit from such sale was income from a business or venture in nature of trade. The material facts on which this allegation is based are not set out.
+On this point, we did not find it necessary to call on the respondent. At most, as I read this complaint, it is a ground for demanding particulars. I cannot see any ground for striking out the Statement of Claim in the complaint as so formulated.
+Clearly, in Fredericton Housing, the Federal Court of Appeal thought that where someone provides incomplete information sometimes the best solution is to have the information gaps filled in rather than potentially set off a cycle of interlocutory motions that will eventually lead to the provision of further information.
+[6] The definitions were obtained at http://www.oed.com on May 12, 2013.
+[7] If the respondent were correct, every different legal argument (legal reason) in support of a particular treatment of a particular amount would constitute a different issue and the scope of the “reasons relied on by the person in respect of each issue” in paragraph 301(1.2)(c) of the ETA would become very narrow indeed.
+[8] 2003 FCA 471.
+[9] At page 2 of the statement of facts and reasons attached to and forming part of the notice of objection dated June 22, 2011, one finds as a statement of the issue:
+The issue for determination is whether CIBC is entitled to the Rebate because it paid the amounts that are the subject of the Rebate in error as GST. This issue, in turn, requires a determination as to whether GST was exigible on the Subject Payments.
+Whether in the amended or in the proposed second amended notice of appeal, the preamble of paragraph 15, the appellant’s statement of the issues to be decided is consistent with that statement in the notice of objection:
+The issue in this Appeal is whether the Aeroplan Payments were consideration for a taxable supply made by Aeroplan to CIBC or, instead, were:
+(A) consideration for Aeroplan’s exempt supply of a financial service made to CIBC;
+(B) in the alternative, Aeroplan’s share of the revenues from a joint venture, the Aeroplan Program; or
+(C) in the further alternative, consideration for Aeroplan’s issuance or sale of a “gift certificate”.
+While subparagraphs (A), (B) and (C) above are in a sense legal "issues", they are not “issues” in terms of subsections 306.1(1) and 301(1.2); in terms of those subsections, they are the “reasons” relied on.
+See also British Columbia Transit v. The Queen, 2006 TCC 437, discussed below.
+[10] 2005 FCA 159. The respondent relies particularly on paragraphs 17, 18, 20 and 21 of the decision.
+[11] [2008] O.J. No. 612 (QL).
+[12] R.S.O. 1990, c. R.31.
+[13] [2008] O.J. No. 612 (QL), paragraph 65.
+[14] 2006 TCC 437.
+[15] BC Transit, paragraph 38.
+[16] Unfortunately there is probably no “bright line” between facts, reasons and issues. In some circumstances, it will be a judgment to be made in all the circumstances. For the purposes of this matter it is not necessary for me to answer the question whether there may be limited circumstances where the trial judge is better placed to decide such a question.
+[17] 2008 TCC 72. Among other circumstances, Mr. Mintzer had been charged with committing fraud and obtaining $258,000 thereby. He pleaded guilty thereto and was assessed for $258,000 in income. In the particular circumstances of the case, Chief Justice Bowman declined to issue an order under Rule 82.
+[18] See, for example, paragraph 13 of Fletcher Challenge Investments Inc. v. The Queen, 98 DTC 1721 (TCC).
+[19] See, for example, paragraphs 13 to 15 of Fletcher.
+[20] Appellant’s written submissions (respondent’s motion for full disclosure), paragraph 1. I shall deal below with Long v. The Queen, 2010 TCC 197, aff’d 2011 FCA 85, leave to appeal to the Supreme Court of Canada refused.
+[21] 2010 TCC 197, aff’d 2011 FCA 85, leave to appeal to the Supreme Court of Canada refused.
+[22] Stephen Bobkin’s affidavit, Tab A, page 46.
+[23] Mr. Bobkin’s affidavit, Tab B, page 71.

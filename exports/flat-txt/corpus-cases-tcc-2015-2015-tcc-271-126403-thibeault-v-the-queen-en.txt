@@ -1,0 +1,306 @@
+Title: Thibeault v.  The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126403/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-271-126403-thibeault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-11-05
+
+# Thibeault v.  The Queen
+
+- Citation: 2015 TCC 271
+- Decision date: 2015-11-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2678, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thibeault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-05
+Neutral citation
+2015 TCC 271
+File numbers
+2013-3741(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2013-3741(IT)G
+BETWEEN:
+SYLVIO THIBEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 12 and 13, 2015, at Québec, Quebec
+Before: The Honourable Judge Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dany Leduc
+JUDGMENT
+The appeal from the new assessments issued pursuant to the Income Tax Act for the 2008 and 2010 taxation years is dismissed, with costs.
+Signed at Montréal, Quebec, this 5th day of November 2015.
+"Johanne D’Auray"
+D’Auray, J.T.C.C.
+Translation certified true
+On this 14th day of July 2016
+François Brunet, Revisor
+Citation: 2015 TCC 271
+Date: 20151105
+Docket: 2013-3741(IT)G
+BETWEEN:
+SYLVIO THIBEAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray, J.T.C.C.
+Facts common to the 2008 and 2010 taxation years at issue
+[1] Since 1973, the Appellant has been active in the pleasure boating industry.
+[2] Over the years, the Appellant incorporated companies that offered the general public marine tours and whale watching cruises. In 1984, the Appellant created Croisières Navimex inc. for this very purpose.
+[3] Croisières Navimex inc., along with Croisières AML, was one of the largest whale watching companies in Quebec. The vessels used by Croisières Navimex inc. were held by Investissements Navimex inc. The Appellant was the sole shareholder and director of these companies.
+[4] In 1996, the Appellant sold Croisières Navimex inc. and Investissements Navimex inc. to Croisières AML.
+[5] Following that transaction, the Appellant incorporated the company 3891721 Canada inc., which operated under the name Recherches et Travaux Maritimes ("RTM"). RTM's operations included the construction, sale and repair of marine vessels. The Appellant was the sole shareholder, director and directing mind of RTM. At the time of the hearing, RTM was still in operation.
+[6] In 2003, the Appellant incorporated a new company, Croisière Charlevoix inc.
+[7] Croisière Charlevoix inc. offers cruise packages to the general public in the Saguenay—St. Lawrence Marine Park ("Marine Park").
+[8] The Appellant holds approximately 80 percent of the shares of Croisière Charlevoix inc. His partner, Mr. Pierre Tremblay, and the Appellant's son, Mr. Frédéric Thibeault, hold the remainder of the shares.
+[9] The Appellant is the sole director of Croisière Charlevoix inc.
+[10] The Appellant also personally owns certain vessels, including the Grand Charlevoix, built by RTM.
+[11] The Appellant holds five permits allowing him to operate marine tour companies within the Marine Park. Parks Canada is the government organization responsible for issuing permits.
+[12] Under section 5 of the Marine Activities in the Saguenay-St. Lawrence Marine Park Regulations, SOR/2002-76, a marine tour permit covers only one vessel. The name of the vessel indicated on each permit can be changed, however, by simple notification to the Marine Park Section.
+[13] During the 2008 taxation year, the five permits were assigned to the following vessels:
+Business name
+Vessel name
+Permit validity period
+Pionniers des baleines (3 permits)
+Pionnier IV – Zodiac
+April 1, 2009 to March 31, 2011
+Pionnier P-22 – Zodiac
+Pionnier P-23 – Zodiac
+Exceptionnelle Aventure (1 permit)
+Grand Charlevoix – Explorathor P-70
+Oursin (1 permit)
+Pionnier I – Bayliner 22
+(At time of sale-P-28 Zodiac)
+A. 2008 TAXATION YEAR Facts pertaining to the 2008 taxation year [14] In 2008 and 2009, the Exceptionnelle Aventure permit and the vessel it covered, the Grand Charlevoix, were leased out under a contract between the Appellant and Croisière Charlevoix inc. ("the Contract").
+[15] That renewable Contract extended over a period of three months beginning on June 15, 2008. The lease payment was $20,000 if at least 11,000 passengers were carried during the term of the lease. The lease payment then rose by $2 for each additional person. If fewer than 11,000 people were carried, Croisière Charlevoix inc. did not have to pay the Appellant. Since there were fewer than 11,000 passengers in 2009, Croisière Charlevoix inc. paid no rent to the Appellant.
+[16] In calculating his income for the 2008 taxation year, the Appellant claimed a business loss of $78,216, detailed as follows:
+2008
+Rental revenue – Grand Charlevoix
+$20,000
+(Less)
+Capital cost allowance – Grand Charlevoix
+$96,000
+Professional fees expenses
+$2,216
+Net business loss
+($78,216)
+[17] On December 17, 2012, under a new assessment, the Minister of National Revenue ("the Minister") rejected the capital cost allowance ("CCA") claimed by the Appellant for the 2008 taxation year. The Minister maintained that the CCA claimed could not exceed the net leasing revenue, an amount of $17,784 ($20,000 - $2,216).
+[18] Aside from the $20,000 amount that the Appellant received from Croisière Charlevoix inc. for lease of the vessel Grand Charlevoix, the Appellant received no other leasing revenue from the vessels or permits held in his own name, for the 2008, 2009 and 2010 taxation years.
+Issue [19] The issue to be resolved for the 2008 taxation year is whether the Minister was justified in rejecting a $96,000 CCA for the vessel Grand Charlevoix and thus whether the Appellant could claim a net business loss of $78,216.
+Submissions of the parties [20] The Appellant submits that during the 2008 taxation year, he used the Grand Charlevoix in a leasing business that he operated that year, which he supervised personally and continuously. The Appellant maintains that he invested great effort into his personal business. Therefore, the Appellant submits that subsection 1100(17.3) of the Income Tax Regulations ("ITR") applies. Hence, he submits that subsection 1100(15) of the ITR, meant to limit the amount of the CCA a taxpayer may claim, does not apply. In addition, the Appellant submits that he may claim a CCA of $96,000 for the 2008 taxation year.
+[21] The Respondent submits that in 2008, the Appellant leased his vessel Grand Charlevoix to Croisière Charlevoix inc. He therefore "leased" the vessel Grand Charlevoix, pursuant to subsections 1100(17) and 1100(17.2) of the ITR.
+[22] The Respondent maintains that the exception in paragraph 1100(17.3)(b) of the ITR does not apply to the facts in the instant case since the Appellant did not operate a ship leasing business during the 2008 taxation year.
+[23] Consequently, the Respondent argues that the $20,000 amount received by the Appellant from Croisière Charlevoix inc. was revenue earned from property, not a business. The Respondent, therefore, maintains that the CCA for the 2008 taxation year must be limited to the net leasing revenue.
+Analysis [24] To decide the issue, I must determine whether, for the 2008 taxation year, the vessel Grand Charlevoix was a "leasing property" within the meaning of subsection 1100(15) of the ITR.
+[25] Subsection 1100(17) of the ITR defines a "leasing property" and subsection 1100(17.2) of the ITR considers as rent derived from property services offered to a company that are accessory to use or occupancy of property.
+[26] Paragraph 1100(17.3)(b) of the ITR provides that subsection 1100(17.2) of the ITR does not apply to property owned by an individual if that property is used in a business operated by that individual during the year and personally and continuously supervised by him throughout the part of the year when the business is normally operated.
+[27] Therefore, if I rule that paragraph 1100(17.3)(b) of the ITR applies in the instant case, the Appellant could claim the full CCA in respect of the Grand Charlevoix, because that property would not be a "leasing property." However, if I conclude that paragraph 1100(17.3)(b) of the ITR does not apply, the CCA claimed by the Appellant could not exceed his net leasing revenue, that is, $17,784 pursuant to subsection 1100(15) of the ITR.
+[28] It is therefore important to analyze the provisions of the Income Tax Act ("ITA") and the provisions of the ITR that apply in the instant case.
+[29] Paragraph 20(1)(a) of the ITA allows a taxpayer to claim a CCA. Paragraph 20(1)(a) reads as follows :
+20. (1) Deductions permitted in computing income from business or property -- Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+a) Capital cost of property [CCA] -- such part of the capital cost to the taxpayer of property, or such amount in respect of the capital cost to the taxpayer of property, if any, as is allowed by regulation;
+[...]
+[Emphasis added]
+[30] The provisions of the ITR that are relevant in the instant case are subsections 1100(1), 1100(15), 1100(17), 1100(17.2) and 1100(17.3).
+[31] Subsection 1100(1) of the ITR provides as follows:
+1100. (1) [Deductions] - For the purposes of paragraphs 8(1)(j) and (p) and 20(1)(a) of the Act, the following deductions are allowed in computing a taxpayer’s income for each taxation year:
+[...]
+[32] In view of subsection 1100(15) of the ITR, the total deduction a taxpayer may claim for property in a prescribed category that is "leasing property" may not exceed the net revenue for the year earned from lease of that property.
+(15) Leasing Properties -- Notwithstanding subsection (1), in no case shall the aggregate of deductions, each of which is a deduction in respect of property of a prescribed class that is leasing property owned by a taxpayer, otherwise allowed to the taxpayer under subsection (1) in computing his income for a taxation year, exceed the amount, if any, by which
+a) the aggregate of amounts each of which is
+(i) his income for the year from renting, leasing or earning royalties from, a leasing property or a property that would be a leasing property but for subsection (18), (19) or (20) where such property is owned by him, computed without regard to paragraph 20(1)(a) of the Act, or
+[...]
+[Emphasis added]
+[33] Subsection 1100(17) of the ITR defines the phase "leasing property" as all depreciable property where this is the property of the taxpayer and has been used by the taxpayer primarily to earn gross revenue consisting of rent, royalty or leasing revenue.
+(17) ["Leasing property"] -- Subject to subsection (18), in this section and section 1101, “leasing property” of a taxpayer or a partnership means depreciable property other than
+(a) rental property,
+(b) computer tax shelter property, or
+(c) property referred to in paragraph (w) of Class 10 or in paragraph (n) of Class 12 in Schedule II,
+where such property is owned by the taxpayer or the partnership, whether jointly with another person or otherwise, if, in the taxation year in respect of which the expression is being applied, the property was used by the taxpayer or the partnership principally for the purpose of gaining or producing gross revenue that is rent, royalty or leasing revenue, but for greater certainty, does not include a property leased by the taxpayer or the partnership to a lessee, in the ordinary course of the taxpayer’s or partnership’s business of selling goods or rendering services, under an agreement by which the lessee undertakes to use the property to carry on the business of selling, or promoting the sale of, the taxpayer’s or partnership’s goods or services.
+[Emphasis added]
+[34] Subsection 1100(17.2) of the ITR expands the scope of the word "rent" in subsection 1100(17) of the ITR. The subsection is worded as follows:
+(17.2) [Presumed rental] -- For the purposes of subsections (1.11) and (17), gross revenue derived in a taxation year from
+(a) the right of a person or partnership, other than the owner of a property, to use or occupy the property or a part thereof, and
+(b) services offered to a person or partnership that are ancillary to the use or occupation by the person or partnership of the property or the part thereof
+shall be considered to be rent derived in the year from the property.
+[Emphasis added]
+[35] However, paragraph 1100(17.3)(b) of the ITR allows a taxpayer to exclude the application of subsection 1100(17.2) of the ITR if the individual uses the property in a business he operates in the year and supervises personally and continuously. He may then be excluded from the restrictions governing the CCA.
+(17.3) [Presumed rental-exception] -- Subsection (17.2) does not apply in any particular taxation year to property owned by
+(a) a corporation, where the property is used in a business carried on in the year by the corporation;
+(b) an individual, where the property is used in a business carried on in the year by the individual in which he is personally active on a continuous basis throughout that portion of the year during which the business is ordinarily carried on; or
+[...]
+[Emphasis added]
+[36] Given the language of paragraph 1100(17.3)(b) of the ITR, I first must determine whether the Appellant's property (the vessel Grand Charlevoix) was used in a business that the Appellant operated during the 2008 taxation year, and then determine whether the Appellant personally and continuously supervised that business throughout that part of the year in which the business operated.
+[37] In Stewart v Canada[1], Judges Iacobucci and Bastarache of the Supreme Court of Canada, in a unanimous ruling, ruled that for a commercial activity to be recognized under section 9 of the ITA, the taxpayer must show that a source of revenue exists.
+[38] Once the taxpayer has shown that a source of revenue exists, that source must be classified, in other words, is it derived from revenue earned by a business or property?
+[39] In the instant case, I do not have to answer the first question, to determine whether a source of revenue exists, because, at the hearing, the Respondent indicated that when making the assessment, the Minister had taken the position that a source of revenue did exist.
+[40] As to whether the source derives from revenue generated by a business or arising from the use of property, in Stewart [supra], Judges Iacobucci and Bastarache stated that the distinction between revenue generated by a business and that arising from use of property is generally based on the fact that a business requires a higher level of activity by a taxpayer. They write as follows at paragraph 51 of their reasons:
+51 Equating “source of income” with an activity undertaken “in pursuit of profit” accords with the traditional common law definition of “business”, i.e., “anything which occupies the time and attention and labour of a man for the purpose of profit”: Smith, supra, at p. 258; Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240. As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+[Emphasis added]
+[41] In Oke v Canada,[2] the Federal Court of Appeal examined the concept of operating a business in subsection 1100(17.3) of the ITR. The Court had thereby to determine whether the revenue earned by Mr. Oke had been generated by a business or property. Mr. Oke had purchased a recreational vehicle and had placed it in a fleet of recreational vehicles that a third party, Coast-to-Coast, rented to film production companies. Under the agreement signed by Coast-to-Coast and Mr. Oke, the latter had to look after regular maintenance of his recreational vehicle and ensure that it was insured. Over the years in issue, Mr. Oke had been active in the business of Coast-to-Coast, performing several duties related to the rental of recreational vehicles, including his own. Mr. Oke specifically took part in public presentations to promote the fleet of vehicles among film producers. He also helped oversee the transfer of recreational vehicles between Coast-to-Coast and the producers, in addition to reviewing certain rental contracts between the parties.
+[42] From the outset, Judge Pelletier stated that revenue earned from leasing generally constitutes revenue arising from the use of property. He specified, however, that leasing revenue may constitute business revenue when the services provided extend beyond those normally provided as part of a rental. On this point, he set out the following principles:
+[26] As noted above, there is a distinction between commercial activity and personal activity. As between these two alternatives, the threshold for business is very low, as demonstrated by the statutory definition which refers to “an undertaking of any kind whatsoever.” When the issue is the characterization of a given commercial activity, the test is somewhat more demanding. In Stewart, above at para. 51, the Supreme Court of Canada, briefly touched upon the relevant considerations:
+Equating "source of income" with an activity undertaken "in pursuit of profit" accords with the traditional common law definition of "business", i.e., "anything which occupies the time and attention and labour of a man for the purpose of profit": Smith, supra, at p. 258; Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240.
+[27] The focus on the level of activity is reflected in a line of jurisprudence dealing with real estate rental properties: Wertman v. M.N.R., [1964] C.T.C. 252, 64 D.T.C. 5158 (Ex. Ct.); Walsh v. M.N.R., [1965] C.T.C. 478, 65 D.T.C. 5293 (Ex. Ct.); Burri v. The Queen, [1985] 2 C.T.C. 42, 85 D.T.C. 5287 (F.C.T.D.) – and the case Canadian Marconi Co. v. The Queen, [1986] 2 S.C.R. 522, [1986] 2 C.T.C. 465, 86 D.T.C. 6526 (S.C.C.) [Canadian Marconi] which applied this line of reasoning more broadly.
+[28] The cumulative effect of these cases was summarized by Peter W. Hogg, Joanne E. Magee and Jinyan Li, Hogg et al., Principles of Canadian Income Tax Law, 7th ed. (Toronto: Carswell, 2010) at 160:
+Prima facie, of course, the rents derived from letting an apartment building, office building or shopping centre, are income from property. The rents are paid for the use of the property, not services provided by the landlord. The difficulty arises from the fact that a landlord will often supply to tenants, in addition to the right to occupy the rented premises, services of various kinds. Where the services supplied consist of only those services which are of a kind customarily included with rented premises, for example, maintenance of building, heating, air conditioning, water, electricity, and parking, the rent is still regarded as income from property. But if the services supplied go beyond those which are customary for an office building or apartment building or shopping centre (or whatever the property is), it becomes more plausible to characterize the owner’s operation as a business rather than the mere letting of property. Services provided by an apartment building that would be indicative of a business classification would include services normally provided by a hotel, i.e., housekeeping, laundry service, restaurant and room service, etc. The extreme case is, of course, a hotel, where the extent of the services supplied to guests makes it obvious that it is a business. Where the range of services supplied by the landlord falls below hotel level, it becomes a question of degree whether the nature and extent of the services makes it appropriate to characterize the income as earned from a business.
+[Emphasis added]
+[43] At paragraph 29 of his reasons, Judge Pelletier advocates a comparative approach to determine whether revenue is generated by a business or arises from the use of property.
+[29] This line of cases supports a comparative approach to the question of whether income is generated by a business or arises from the use of property. The higher the level of activity, the more likely it is that one is engaged in a business; the lower the level of activity the more likely it is that the income derives from the use of property.
+[44] In the light of the comparative approach in Oke, Judge Pelletier found that there is no significant difference between the level of activity or services rendered by Mr. Oke in respect of his own recreational vehicle and those of the other owners. He therefore ruled that the revenue arose from the use of property and was not generated by a business, and that the exception set out in paragraph 1100(17.3)(b) of the ITR did not apply. The property therefore was "leasing property" within the meaning of subsection 1100(17) of the ITR. The CCA claimed by Mr. Oke consequently was limited to the net leasing revenue under subsection 1100(15) of the ITR.
+[45] I therefore will use the comparative approach advocated by Judge Pelletier in Oke to determine whether the Appellant in the instant case operated a vessel leasing business.
+[46] The Contract signed on February 18, 2008, by the Appellant as lessor and by the Appellant as representative of Croisière Charlevoix inc., is worded as follows:
+[TRANSLATION]
+Québec, February 11, 2008
+Contract
+Made at Québec
+By and Between
+Party of the First Part Croisière Charlevoix Inc.
+Represented by Sylvio Thibeault
+47 Dalhousie Street, Québec
+Hereinafter called "the Lessee"
+And
+Party of the Second Part Sylvio Thibeault
+47 Dalhousie Street, Québec, Quebec
+G1K 8S3
+Hereinafter called "the Lessor"
+Whereas the Lessee operates a business providing cruise packages intended for the general public;
+Whereas the Lessor is an individual who has developed solid expertise in the field and contributes to management and promotion, and owns a shipyard;
+In consideration of the foregoing statements, which form an integral part of the present contract and in consideration of the following statements, the parties covenant as follows:
+Object of the agreement: Lease of the Grand Charlevoix for a period of three (3) months commencing June 15 and ending September 10
+The vessel shall remain available to promote the sale of this type of vessel and also as a prototype on trial.
+Monthly payment: The amount of rent paid by the Lessee is $20,000 for the period.
+Rent: $20,000 if more than 11,000 passengers
+$2 for each additional passenger
+Payable at end of lease
+Residual value: at the end of this Contract, the residual value of the vessel shall be the sole responsibility of the Lessor.
+Insurance: Agreement has been reached on $1,000,000 of insurance coverage. The Lessee agrees to maintain in force a "Hull and machinery" vessel insurance policy in an amount not less than the market value of the vessel, and to designate the Lessor as Co-insured and mortgage creditor. This coverage shall not be changed without prior notice of thirty (30) days to the Lessor.
+Maintenance: The Lessee personally covenants to perform maintenance on the vessel consistent with accepted industry standards and practices.
+The Lessee takes personal responsibility for the operation and the maintenance of the vessel. He assumes the cost of restoring the vessel to perfect working condition. He shall supply the crew, but the Lessor may request replacement of a crew member at any time. The Master shall be Frédéric Thibeault.
+The Lessor warrants and covenants to:
+1. Deliver the vessel at Petite-Rivière-Saint-François on or about June 15;
+2. Provide the Lessee with a detailed maintenance program, indicating the required frequencies, for the vessel as well as its components and systems, such as the engines. Upon delivery, provide any person identified by the Lessee, at the Lessor's expense, with training on the mechanics and operation of the vessel. If he desires, the Lessor may have the vessel's condition inspected by a person from his technical unit and, if necessary, may make recommendations, all at the Lessee's expense. The Lessor is responsible for the sound operability of the vessel at the time of its delivery, without "latent defects";
+3. Provide promotional material to the Lessee;
+4. Grant the Lessee a licence to use the trademark or name "Explorathor" in its advertising material, at no cost;
+5. The Lessor is responsible for expenses resulting from normal wear and tear.
+The Lessee covenants to:
+1. Leave the word "Explorathor" on the sides of the vessel during the term of the Leasing Contract;
+2. Provide the Lessee, at no cost, promotional material on the vessel, such as video and photos taken by the Lessor, at its discretion, during the term of this Leasing Contract. The Lessee must display the Lessor's name as credit for the photos used.
+This Contract constitutes the entire agreement between the parties.
+In the event of incompatibility, differences, or difficulties of interpretation between the terms and conditions of this Contract and those of any other document between the parties, the terms and conditions of this Contract shall prevail and take precedence.
+Signed on the date and in the place indicated at the start of this document for the purpose of each party binding itself,
+This Contract is renewable.
+_______________________ _______________________
+Croisière Charlevoix Inc. Sylvio Thibeault
+[47] It is noted that apart from certain clauses in the Leasing Contract between the Appellant and Croisière Charlevoix inc., the contract clauses reiterate the principles set out in the provisions of Chapter V, Book V of the Civil Code of Québec on "Affreightment." There is nothing unusual in the Contract, then, regarding the Lessor's obligations as part of leasing a vessel.
+[48] Two clauses in the Contract, however, are unusual. The first stipulates that the Lessor covenants to grant a licence to the Lessee to use the trademark or name "Explorathor" in its advertising material and that the Lessee must leave the name "Explorathor" on the sides of the vessel for the term of the Leasing Contract. Moreover, the Lessor covenants to provide the Lessee with promotional material on the vessel. The Contract also stipulates that the vessel must remain available for promoting sales of this type of vessel.
+[49] In my opinion, these obligations are not relevant in the instant case. Indeed, these obligations serve only one purpose, to promote the sale of vessels by RTM, of which the Appellant is the sole shareholder. As I have already noted, the Grand Charlevoix was built by RTM. Thus, promotion focused on selling this type of vessel is of no benefit whatsoever to Croisière Charlevoix inc. or to the Appellant's leasing activities, but only to the Appellant's company RTM.
+[50] The second unusual clause in the Contract requires the Appellant to provide promotional material to Croisière Charlevoix inc.
+[51] In his testimony, the Appellant explained all the work he did when leasing the Grand Charlevoix to Croisière Charlevoix inc. The Appellant participated in the development of pamphlets and promotional videos and the design of the Croisière Charlevoix inc. transactional website. In that capacity, the Appellant checked the number of users and the keywords searched by browsers every day, to improve the Croisière Charlevoix inc. website.
+[52] The Appellant also said that he visited all the tourism establishments in Charlevoix to ensure that the Croisière Charlevoix inc. advertising brochures were available. He stated as well that he looked after construction of a stand for the Croisière Charlevoix inc. ticket office and the landscaping surrounding this stand. In addition, he searched for a catering service and had emergency repairs made to the Grand Charlevoix.
+[53] The Appellant submits that he personally operated a vessel leasing business. Not only did he lease out the Grand Charlevoix, but he also offered a wide range of services that he personally and continuously oversaw during the term of the lease.
+[54] According to the Respondent, the Appellant did not operate a leasing business. The Appellant held five permits yet only one permit and one vessel were leased out. According to the Respondent, the evidence showed that the Appellant made no effort to lease his other vessels.
+[55] Moreover, the Respondent argued that the supply of promotional material by the Appellant was not sufficient activity in the case of a vessel leasing business to qualify the leasing revenue as business revenue rather than revenue arising from use of a property. The Respondent argued further that the work performed by the Appellant was undertaken as a shareholder in Croisière Charlevoix inc., not for his personal business activities related to vessel leasing.
+[56] I noticed during the Appellant's testimony that he made no distinction between the companies in which he held shares and the activities related to the vessels and permits he held personally. According to the Appellant, it mattered little whether the work was done for Croisière Charlevoix inc. or for his personal vessel leasing business activities.
+[57] In this regard, the Appellant submits that his case is the same as that in C.J. Bouchard Réparation Ltée. c Canada.[3] The Appellant cites paragraph 5 of Judge Dussault's reasons, which reiterates paragraph 15(r) of the Respondent's Reply to the Notice of Appeal, setting out one of the facts assumed by the Minister in establishing the assessment. The Appellant submits that these facts apply to his case.
+[TRANSLATION]
+15(r) the Minister considered that the appellant was carrying on a business during the fiscal year ending on October 31, 1995, since, in addition to renting the ship, it provided Navimex with a cruise marketing service by means of its only employee, Guy Gagnon;
+[58] The Appellant submits that, just as for Mr. Gagnon in the CJ Bouchard case, he provided the cruise marketing service.
+[59] It is difficult for me to use a paragraph in the Respondent's Reply to the Notice of Appeal in the CJ Bouchard case to find for the Appellant without knowing the factual background in that case and the terms of the leasing contract between the parties at that time.
+[60] It should be noted that the reasons for the decision in CJ Bouchard bear on other tax years, not on the period covered by paragraph 15(r) of the Reply to the Notice of Appeal. For the tax years in issue, Judge Dussault ruled that the revenue from "bare boat" lease of the vessel constituted revenue arising from the use of property.
+[61] In the instant case, of the five vessels and permits held by the Appellant personally, only the Grand Charlevoix linked to the Exceptionnelle Aventure permit was leased out. There is no evidence showing that the Appellant attempted to lease his other vessels.
+[62] If I use the comparative approach set out in Oke and compare the facts in the instant case with the Burstow v The Queen[4] case, where Judge O’Connor of this Court ruled that Mr. Burstow operated a leasing business, I conclude that in Burstow, the vessel in question was leased under an all-inclusive arrangement. The services accessory to the leasing of a vessel, such as mooring, cleaning, maintenance, insurance, promotion, as well as the hiring of staff, were all provided by Mr. Burstow.
+[63] In the instant case, beyond that part of promotion provided personally by the Appellant through the supply of promotional material, all the other activities related to leasing a vessel were handled by the Lessee, Croisière Charlevoix inc. It was responsible for supplying the vessel's crew. It was also responsible for operating the vessel and covering the costs inherent in commercial operation of the vessel, specifically the maintenance costs, docking fees, insurance premiums, as well as the piloting and labour costs. Furthermore, Croisière Charlevoix inc. remained liable for any losses or damage that might result from its commercial operation.
+[64] In addition, based on Oke, for a source of revenue to constitute revenue from a business, the services provided by the taxpayer must exceed what is usually provided as part of leasing. In the instant case, the basic accessory services, such as the inherent commercial operating expenses that I mentioned in paragraph 63 of these reasons, were not provided by the Appellant. It is therefore difficult, in my view, to find that the services provided by the Appellant exceeded what is normally provided as part of leasing a vessel.
+[65] In any event, I believe that the supply of promotional material is not an activity sufficient for the purposes of subsection 1100(17.3) of the ITR.
+[66] In reference to the other activities carried out by the Appellant that were not specified in the Contract, including the distribution of pamphlets, construction of a stand for the Croisière Charlevoix inc. ticket office, landscaping around the stand and selection of a caterer, I find after reviewing all the evidence that these activities are not relevant to the analysis of subsection 1100 (17.3) of the ITR. Those activities were carried out by the Appellant in his capacity as shareholder of Croisière Charlevoix inc. Some of these activities are unrelated to a vessel leasing business. Moreover, the Appellant admitted that those activities were aimed at customers of Croisière Charlevoix inc. It is also interesting to note that when Croisière Charlevoix inc. was sold to Mr. Tremblay in 2010, the website and the stand were sold as property of Croisière Charlevoix inc.
+[67] The evidence also shows that the Appellant did not attempt to lease out any of his other vessels. In my opinion, the Appellant therefore cannot successfully claim that he operated a vessel leasing business in 2008.
+[68] Given all the facts mentioned in these reasons, I believe that the income earned by the Appellant from leasing the vessel Grand Charlevoix is income arising from the use of property.
+[69] The Appellant therefore "leased" the Grand Charlevoix to Croisière Charlevoix inc. under subsection 1000(17) of the ITR. Consequently, a CCA of $78,216 was rightly rejected by the Minister pursuant to subsection 1100(15) of the ITR, and subsection 1100(17.3) of the ITR does not apply in the instant case.
+B. 2010 TAXATION YEAR Facts related to the 2010 taxation year [70] In May 2010, the Appellant sold the shares he held in Croisière Charlevoix inc. as well as all its assets to his partner, Mr. Pierre Tremblay, for the sum of $170,000. In his income tax return for the 2010 taxation year, the Appellant reported a capital gain of $153,070.
+[71] In 2010, the Appellant also sold the Grand Charlevoix to Croisières du Fjord for the sum of $750,000. The Appellant then reported a capital gain of $197,405 on his income tax return for 2010. However, the Appellant purchased a smaller vessel, the Cap Éternité, from Croisières du Fjord.
+[72] In 2010, the Appellant also sold the Oursin business, consisting of the marine tours permit and the Zodiac P 28, which was linked to the Oursin permit prior to the sale, for the sum of $167,712. The Appellant deemed the properties sold an "eligible capital property" within the meaning of subsection 14(5) and section 54 of the ITA. The revenue from the eligible capital property account was on the order of $58,656. On his income tax return for the 2010 taxation year, the Appellant reported a loss of $4,588, as shown in the table below.
+2010
+Sale of Oursin licence
+$58,656
+(Less)
+Depreciation – Equipment
+$1,705.15
+Depreciation – Cap Éternité
+$45,851.22
+Depreciation – P 34
+$9,221.52
+Depreciation – Permit: Excep. Av.
+$6,666.00
+Net business loss
+($4,588)
+[73] The Respondent submits that the Appellant may not claim $63,444 as CCA for the 2010 taxation year, for several reasons.
+[74] First, at paragraph 30 of its Reply to the Notice of Appeal, the Respondent claims that the Appellant does not operate a business.
+[75] The Respondent further argues that the Appellant is unable to claim a CCA in respect of the vessels Cap Éternité, P 34 and the Exceptionnelle Aventure permit. According to the Respondent, the capital cost of this property is unrelated to the source of revenue generated by the sale of the Oursin business.
+[76] Finally, the Respondent also submits that the Appellant obtained a capital gain from the sale of marine tours pursuant to paragraphs 39(1)(a) and 40(1)(a) of the ITA. The Respondent submits that these assets are depreciable property, not eligible capital property.
+[77] The Appellant submits that all his vessels and permits must be deemed a single leasing business that he operates on a personal basis. He therefore believes the CCA can be claimed against his business revenue, for all the property reported in his income tax return.
+Issue
+[78] Was the Minister justified in denying the Appellant the CCA of $63,444 that the Appellant deducted from the profit earned on the sale of the Oursin permit and the Zodiac P 28?
+Analysis [79] I believe that the Appellant is not entitled to depreciation deductions in the amount of $63,444, for the following reasons.
+[80] First, the Appellant cannot claim that he operated a vessel leasing business during the 2010 taxation year. No leasing activity took place in 2010 and no leasing revenue was reported by the Appellant. When the Appellant failed to reach agreement with Mr. Tremblay on the price to lease the vessel Cap Éternité, the Appellant did not attempt to lease it, but instead placed the Cap Éternité in storage shortly after buying it in 2010.
+[81] The evidence also reveals that the Appellant did not attempt to lease his other vessels during the 2010 taxation year. Thus, the Appellant did not operate a leasing business in 2010. Moreover, the restriction in subsection 1100(15) of the ITR applies and the CCA must be reduced to nil due to the lack of net leasing revenue for 2010.
+[82] We also note from subsection 20(1) of the ITA that the deduction under this subsection must be linked to the revenue source. The Appellant admitted that there was no link between both the permit and the vessels he depreciated and the revenue source, that is, the revenue generated by the sale of the Oursin permit and the Zodiac P 28.
+[83] I am of the view that, for all these reasons, the Appellant is not entitled to the CCA requested in 2010.
+Conclusion [84] The appeal for the 2008 and 2010 tax years is dismissed, with costs.
+Signed at Montréal, Quebec, this 5th day of November 2015.
+"Johanne D’Auray"
+D'Auray, J.T.C.C.
+Translation certified true
+On this 14th day of July 2016
+François Brunet, Revisor
+CITATION:
+2015 TCC 271
+COURT FILE NO.:
+2013-3741(IT)G
+STYLE OF CAUSE:
+SYLVIO THIBEAULT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 12, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Johanne D'Auray
+DATE OF JUDGMENT:
+November 5, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 SCC 46 [Stewart].
+[2] 2010 FCA 350 [Oke].
+[3] C.J. Bouchard v The Queen, [2003] 2 TCC 2622 [CJ Bouchard].
+[4] [1997] 3 TCC 2540.

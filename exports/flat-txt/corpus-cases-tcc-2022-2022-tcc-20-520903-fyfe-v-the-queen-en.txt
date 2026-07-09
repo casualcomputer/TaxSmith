@@ -1,0 +1,236 @@
+Title: Fyfe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520903/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-20-520903-fyfe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-02-16
+
+# Fyfe v. The Queen
+
+- Citation: 2022 TCC 20
+- Decision date: 2022-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4439, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fyfe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-02-16
+Neutral citation
+2022 TCC 20
+File numbers
+2020-1441(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-1441(IT)I
+BETWEEN:
+SERGE FYFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 24, 2021, at Montreal, Quebec
+Presiding: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Representative for the appellant:
+Sylvain Huet
+Counsel for the respondent:
+Anna Kirk
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), for the 2015, 2016 and 2017 taxation years is allowed, and the matter is referred back to the Minister of National Revenue for reassessment given that the appellant was carrying on a business during the taxation years, which entitled him to Working Income Tax Benefits (WITB) pursuant to section 122.7 of the Act.
+Signed at Kingston, Canada, this 16th day of February 2022.
+"Rommel G. Masse"
+Deputy Judge Masse
+Citation: 2022 TCC 20
+Date: 20220216
+Docket: 2020-1441(IT)I
+BETWEEN:
+SERGE FYFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Masse
+[1] The only issue in this case is whether the appellant, Serge Fyfe, was entitled to the Working Income Tax Benefit (WITB) for the 2015, 2016 and 2017 taxation years. The WITB is only available to taxpayers insofar as a taxpayer earns a certain level of employment or business income.
+[2] The Minister of National Revenue (the Minister) issued initial assessments to the appellant on March 10, 2016, June 12, 2017, and July 23, 2018, for the 2015, 2016 and 2017 taxation years, respectively.
+[3] On February 28, 2019, the Minister issued reassessments to make certain adjustments to the tax returns. The reassessments denied the WITB that the appellant had claimed for the taxation years.
+[4] On May 9, 2019, the appellant objected to the reassessments. In response to the objection, the Minister confirmed the reassessments by Notice of Confirmation dated February 12, 2020, which led to this appeal.
+[5] The following table presents the adjustments made in the reassessments.
+[EN BLANC]
+2015
+2016
+2017
+[EN BLANC]
+Reported
+$
+Revised
+$
+Reported
+$
+Revised
+$
+Reported
+$
+Revised
+$
+Gross business income
+13,200
+0
+10,350
+0
+10,500
+0
+Net business income
+11,406
+0
+10,350
+0
+10,500
+0
+Other income
+0
+13,200
+0
+10,350
+0
+10,500
+Deduction from the Quebec Pension Plan for self-employed persons
+415
+0
+383
+0
+378
+0
+Amount entitling self-employed persons to the credit for Québec Pension Plan contributions
+415
+0
+383
+0
+378
+0
+WITB
+1,634
+0
+1,653
+0
+1,661
+0
+[6] The reason that the Minister gave for denying the appellant the WITB was that the income earned by the appellant was not derived from services related to the carrying on of a business because the appellant was not actively carrying on a business and did not earn any working income entitling him to the WITB, in accordance with subsection 122.7(1) of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp) (the Act).
+Background
+[7] The appellant testified. In my opinion, he is an honest and credible man. I believe him and accept his testimony as true. I note the following from his testimony.
+[8] Serge Fyfe is now a resident of the province of Prince Edward Island. He lives in a trailer with his partner, Karen Watts. The couple lives very modestly. The appellant operates a construction business. Today, his business is small scale, but his turnover is increasing year by year.
+[9] He is a man of independent spirit. He had several jobs. He was a singer at a bar in Montreal. He worked in IT. He worked in construction and renovation. He bought houses to renovate and flip them. During the taxation years, he operated a small maintenance and renovation business.
+[10] He has known Sylvain Huet since he was a child. They are very good friends. Mr. Huet is a tax specialist. He is also the appellant's representative in this case. Mr. Huet prepared the income tax returns at issue in this case. Mr. Huet owns several buildings. When Mr. Huet purchased his first six-unit building, he asked the appellant for help in maintaining and renovating the building. The appellant accepted. Today, Mr. Huet owns several buildings.
+[11] Mr. Huet was the appellant's only client in 2015 and 2016. The appellant continued to work for Mr. Huet in 2017. However, he also had other clients, because he had moved to Prince Edward Island with his partner to establish a small construction and renovation company there.
+[12] The appellant was Mr. Huet's handyman. He did all kinds of work in Mr. Huet's buildings, which included renovating bathrooms, installing floors, repairing flood damage, plumbing, electrical work, building porches or balconies — everything related to renovation or maintenance. He did all sorts of odd jobs. He was paid by the job. He admitted that he does not have a construction card or licence number, although he works in construction. He thought that he did not earn enough income to need a contractor's card or licence.
+[13] At the time, the appellant only worked in the summer in order to earn enough money to allow him to spend the winter on a sailboat in the Bahamas. In the summer he lived with his girlfriend, and in the winter he lived on his sailboat. He did not need a lot of money because he did not have any dependents. He had very few personal expenses. A modest income was enough to support his lifestyle.
+[14] During the years at issue, he reported business income of only $10,000 to $13,500, because he had spent six months a year sailing down south. He did not incur any business expenses, because his customers bought all the building materials. The appellant almost never provided building materials and if he did, the amount was minimal.
+[15] Mr. Huet paid him in cash. The appellant did not keep any documentation of the income he earned. He only operated a small business and did not keep any records. [1] Mr. Huet took care of the accounting because Mr. Huet was his tax specialist. The Appellant did not deposit all of his income in his bank account but claims that he reported all of his income to the Canada Revenue Agency (the Agency).
+[16] All the appellant's bank statements for the taxation years were adduced for the Court's consideration (Exhibit A-1, Tabs 10, 11 and 12). Some of the deposits listed in the statements were annotated to indicate their origin. There were multiple monthly deposits of $350. The appellant and Mr. Huet contradicted one another with respect to these deposits. The appellant said he had agreed with Mr. Huet to set a monthly amount of $350 for work to be done, but this did not work out well because there were too many adjustments. Mr. Huet said these deposits were contributions that the appellant's mother (Suzanne Gamache) made to cover housing expenses because she lived with the appellant. On this point, I prefer and accept Mr. Huet's testimony.
+[17] Some of the amounts deposited were not income, but loans from his father, Mr. Huet and two other individuals. The appellant was building his own house. The Caisse Desjardins lent him money for this project, but his father and Mr. Huet also lent him money in case he needed the extra money before he received advances for construction from the Caisse. His father lent him $5,000 and Mr. Huet lent him $15,000 just to pay for the doors and windows before the Caisse carried out the inspection required to provide him with an advance. [2] A $4,000 deposit dated December 29, 2015, was a loan from Daniel Gauthier. This loan allowed him to finish his winter trip. This loan was not otherwise documented, because Mr. Gauthier is a very good friend. All loans received from Mr. Huet, his father Yvon Fyfe, and Mr. Gauthier were deposited into his bank account and annotated on the bank statements. The were no records or terms and conditions regarding loans between family members or friends. The appellant claimed he had repaid all these loans.
+[18] A certain Germain Noiseux lent him large amounts. Mr. Huet said these loans were documented by notarial acts and were annotated on the appellant's bank statements. These loans were all repaid when the appellant sold his houses.
+[19] The appellant had a house in Sainte Martine. He sold this house in 2016 for about $309,000. His father was taking care of it because the appellant was in the Bahamas. His father moved in and helped the appellant pay for the mortgage and maintenance. The appellant built another house in Beauharnois. When he sold the house in Sainte Martine, he moved to Beauharnois with his mother. He needed to replace his truck, and Mr. Noiseux loaned him $10,000. He bought a sailboat in 2007 and replaced it with another in 2017.
+[20] He parked his sailboat in Florida for five months during the summer. Annual expenses for his sailboat were approximately $5,000. In winter, he sailed on the sea, and it cost him nothing to live. He ate what he caught and only purchased food, such as rice or sometimes a chicken, from time to time. Life on the ocean is not expensive. It cost him no more than $500 to feed him all winter and maybe $200 to $300 of diesel fuel for the season. Life on his sailboat in the south is the best there is; it is heaven on earth.
+[21] He did not remember the deposits marked "unknown", so he and Mr. Huet concluded that these deposits were income.
+[22] Sylvain Huet testified. He is a professional tax specialist. Mr. Huet prepared the appellant's income tax returns. He was also the appellant's main, if not sole, customer during the taxation years. He was very familiar with the appellant's tax situation. He testified that the appellant lives on an extremely modest income.
+[23] Mr. Huet obtained all of the appellant's bank account statements for the taxation years (Exhibit A-1, Tabs 10, 11 and 12). Although there were substantial deposits in this bank account, they were not taxable income. Mr. Huet compiled a list of deposits with amounts, dates and rationales annotated on the side (Exhibit A-1, Tab 1). For example, the annotation for a $10,931.93 deposit made on January 26, 2015, read "multi-projects". This represented an increase in the Caisse's mortgage loan for the construction of the appellant's house. This increase was reflected on the third page of the account statement under the heading "residential mortgage loan". It was therefore a loan and not working income. Mr. Huet also identified deposits that represented loans that he allegedly made to the appellant. These were undocumented cash loans. There were other loans that he deposited in Mr. Fyfe's bank account because Mr. Fyfe was down south. These four deposit slips are under tab 2. He identified loans from Yvon Fyfe, the appellant's father, a loan from Daniel Gauthier, a friend ($4,000 on December 29, 2015), $60,000 and $50,000 mortgage loans from Germain Noiseux (see notarial acts under tabs 3 and 5 and deposits of $55,731.14 dated February 24, 2016, and $39,265.57 dated September 29, 2016). He also identified two deposits of $67,155.55 and $165,666.13 dated May 3, 2016, which represented the proceeds from the sale of the residence in Sainte Martine (see Notarial Act, Memorandum of Distributions and Statement of Receipts and Disbursements under tab 6); a deposit representing the sale of his sailboat on May 23, 2017, for $22,900 (see sales contract under tab 7); and the sale of a trailer for $4,700 dated January 4, 2017. Mr. Huet also noted $13,000 and $16,000 cash withdrawals dated February 26, 2016, to repay loans that Mr. Huet made to the appellant, and a withdrawal dated December 29, 2015, in the amount of $4,000 to repay a loan Mr. Gauthier made to the appellant.
+[24] As I have already indicated, Mr. Huet did the appellant's accounting. When he paid the appellant, he paid him in cash. Mr. Huet noted the work or the amounts paid to the appellant on a small calendar, and recorded them at the end of the year. The deposit dates shown on the account statements do not necessarily reflect the dates when the work was performed. When the appellant sold his house, he repaid all his creditors. Today, he has no records showing the payments he made to the appellant. However, he told us that when the Agency audited his records, all the expenses were allowed, including the payments made to the appellant. Given that the appellant is his best friend, his record-keeping was not as thorough as it should have been. The amounts annotated as "unknown" on the bank statements were amounts whose sources were unknown. Therefore, he inferred that these deposits were income from an employment contract. Even if the deposits were made while the appellant was abroad, they represented additional income.
+[25] In summary, the appellant was Mr. Huet's handyman. The appellant operated a small renovation, maintenance and repair business. Mr. Huet was his main customer. The appellant worked when required and was paid in cash for each job. He has no dependents. He lives almost six months a year on his sailboat down south. He can live on next to nothing. When he is down south, he lives by fishing and harvesting. This explains his very modest standard of living.
+Issues
+[26] The respondent clearly defined the issues as follows:
+Did the Minister have grounds to consider the $13,200, $10,350 and $10,500 of income reported by the appellant for the 2015, 2016 and 2017 taxation years respectively as not being income related to the carrying on of a business?
+Consequently, was the Minister justified in disallowing the amounts of $1,634, $1,653 and $1,661 that the appellant claimed as WITBs for the 2015, 2016 and 2017 taxation years, respectively?
+[27] The Minister argued that the appellant was not entitled to claim the amounts at issue as WITBs for the taxation years because he was not actively carrying on a business pursuant to subsection 9(1) of the Act. Therefore, the appellant did not earn any working income entitling him to the WITB, in accordance with subsection 122.7(1) of the Act.
+[28] The appellant stated that he simply had a small business and worked almost exclusively for Mr. Huet and therefore carried on a business entitling him to the WITB.
+Analysis
+[29] Counsel for the respondent provided a good explanation of the WITB plan. The WITB is set out in Section 122.7 of the Act. Having a job can put some people in a worse financial situation than if they did not have a job. As a result, the WITB was designed to encourage low-income Canadians to integrate into the labour market. To be eligible for the WITB, a taxpayer must report employment or business income and must earn a minimum amount of income. In the taxation years at issue, this amount was $2,400 for a person without a spouse or dependent. The WITB begins to decrease beyond a certain income threshold. This amount was approximately $10,500 during the taxation years. The benefit decreases as income increases. The following table shows the income where the WITB is maximized and the WITB decreases to zero for a person without an eligible spouse or dependant.
+Taxation year
+Income at which maximum WITB is reached
+Income at which WITB is reduced to zero
+2015
+$11,902
+$20,272
+2016
+$12,067
+$20,333
+2017
+$11,816
+$20,125
+[30] The respondent submitted two arguments while making her oral representations at the hearing: 1) the income reported by the appellant was not related to the carrying on of a business or employment, and 2) in the alternative, if the appellant actually earned business or employment income, the actual earned income exceeded the maximum limits stipulated by the WITB program, and therefore the appellant was not eligible for the WITB.
+[31] According to the second argument, the respondent's argument assumed that the appellant reported an income low enough not to pay tax and an income high enough to maximize the tax benefit.
+[32] I would point out that the respondent did not plead this point in her Reply to the Notice of Appeal. At paragraph 6 of the Reply to the Notice of Appeal, the respondent supported the findings and assumptions of fact on which the Minister relied in denying the appellant the WITB:
+6. In assessing the tax payable by the appellant for the 2015, 2016 and 2017 taxation years, the Minister took the following facts for granted:
+a) When filing his income tax returns for the taxation years at issue, the appellant stated that he operated a building maintenance and renovation business;
+b) The appellant did not have any books and records;
+c) The appellant did not incur any expenses in relation to the activities he claimed to have carried out;
+d) The appellant did not provide any maintenance and repair services;
+e) The $13,200, $10,350 and $10,500 of income reported by the appellant for the 2015, 2016 and 2017 taxation years respectively did not come from services related to the carrying on of a business.
+[33] If the respondent wanted to rely on the assumption that the appellant's income exceeded the maximum eligibility limits for the WITB, she should have specifically proved this assumption. She did not prove this assumption. Also, she could have filed a motion to amend the Reply. She did not file such a motion. A taxpayer is not required to "demolish" or rebut an argument that the Minister has not submitted. I will therefore not consider this argument.
+[34] The respondent submitted that the evidence provided by the appellant was neither credible nor reliable. The evidence was rife with inconsistencies. The appellant operated a cash-only business. He did not keep any records. He did not adduce any documents to support his claims. The appellant and Mr. Huet relied almost solely on their memory which is inherently unreliable. Furthermore, the appellant failed to call important witnesses. The respondent argued that I should therefore dismiss the evidence provided by the appellant and Mr. Huet and dismiss the appeal. It goes without saying that there are weaknesses in the appellant's evidence as shown by counsel for the respondent. However, I must consider all the evidence to assess the credibility and reliability of the appellant's testimony.
+[35] I have been referred to case law containing certain principles and influencing factors that I must consider in my deliberations. I will discuss this in the following paragraphs.
+Burden of proof
+[36] Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336 taught us that the Minister, in making assessments, proceeds on assumptions and that the initial onus is on the taxpayer to demolish the Minister's assumptions. The taxpayer must make at least a prima facie case refuting the accuracy of those assumptions. The burden of proof imposed on the taxpayer must not be shifted lightly or arbitrarily considering that the taxpayer's business is involved. Therefore, the onus is on the appellant to persuade me that he was carrying on a business and that the income he reported was generated by that business.
+Credibility
+[37] In this case, credibility is of utmost importance. If the court believes the appellant's testimony on a balance of probabilities, the court will rule in his favour because the appellant has demolished the Minister's assumptions.
+[38] How should the court assess the appellant's credibility? The common law has established certain principles, or might I say guidelines, that a trial judge can use when weighing the testimony of a witness. My colleague, Madam Justice Miller, provided a clear summary of these principles in Nichols v. The Queen, 2009 TCC 334:
+22. This is a case where the decision depends entirely on my findings of credibility taken in the context of all the evidence adduced at the hearing. I must determine whether the Appellant has shown on a balance of probabilities that the Minister’s assessments are incorrect. In considering the evidence adduced, I may believe all, some or none of the evidence of a witness or accept parts of a witness' evidence and reject other parts.
+23. In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead this Court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[39] I keep Judge Miller's words in mind in assessing the credibility of witnesses.
+Lack of documentation
+[40] The appellant did not keep any books, records or supporting documents. In a self-assessment system like we have in Canada, keeping books and records is very important. Subsection 230(1) of the Act stipulates that every person carrying on a business shall keep records and books of account containing such information as will enable the taxes payable under this Act to be determined. Failure to comply with subsection 230(1) does not of itself result in the dismissal of an appeal, but it could interfere with an appellant's ability to discharge the burden of proof on him to show that the assessment is erroneous: R. v. Watts, 2005 TCC 651 So, although documentation is very important, the lack of documentation is not necessarily decisive.
+Absence of important witnesses
+[41] In Schafer v. The Queen, 1998 CanLll 414 (TCC), Justice Mogan stipulated the following:
+27. There is a well‑recognized rule that the failure of a party or a witness to give evidence, which was in the power of the party or witness to give and by which the facts might have been elucidated, justifies a court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed. . . .
+Cash-basis accounting
+[42] In Garage Gilles Gingras v. The Queen, 2010 TCC 343, Justice Tardiff stated the following:
+[74] Using cash is legal and legitimate, but it does frankly raise scepticism, being a common practice in work under the table, tax avoidance, etc. Cash leaves no or so few traces that a plausible explanation can always be given depending on the context.
+[75] Cash‑basis accounting is not illegal and does not necessarily indicate tax avoidance.
+[43] All these factors were involved in Pierre Juneau Rénovations v. The Queen, 2020 TCC 54, in which I dismissed the appeal by applying these principles. Coincidentally, Mr. Huet represented the appellant in Juneau Rénovations. The respondent argued that the case at issue was comparable. Although it is true that there are quite significant parallels between Juneau Rénovations and the case at bar, there are also material differences. Mr. Juneau ran a business with a turnover in the hundreds of thousands of dollars. Mr. Fyfe ran a very small business that earned about $10,000 a year. Neither Mr. Juneau nor Mr. Fyfe had a reliable accounting system. However, I am of the view that an accounting system is more important for a large-scale business than a small-scale business. Juneau Rénovations underwent an indirect audit described as an extraordinary and complete work. The auditor performed efficient, detailed, methodical, fair and equitable, truthful and reliable work. The results of this audit were indisputable. On the other hand, Mr. Fyfe was not audited and the assessments against him were completely arbitrary. In Juneau Rénovations, business expenses were at issue, whereas in this case, the issue is the source of Mr. Fyfe's income, and not his expenses, which were minimal. Pierre Juneau got involved in a rather shady cash deal with his subcontractor because the subcontractor wanted to avoid using the services of a bank. However, the subcontractor did not testify that he actually received cash payments for subcontracted work. On the other hand, Mr. Fyfe's testimony was corroborated by the sworn testimony of Mr. Huet, his main customer, with respect to the most important issue — the existence of a business. Pierre Juneau lacked credibility and reliability whereas Mr. Fyfe, despite the apparent weaknesses in his evidence, is honest and credible, and I accept his evidence.
+[44] Was the income reported by the appellant related to a job or the carrying on of a business? Having considered all of the evidence, I am of the opinion that it was. Although he only operated a small business for only six months a year and basically only had one customer, that does not mean he was not carrying on a business. The appellant's testimony was corroborated by his customer, Mr. Huet, and I accept their testimony. I therefore find that the appellant was entitled to the WITB.
+Conclusion
+[45] For these reasons, the appeal from the reassessments made under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), for the 2015, 2016 and 2017 taxation years is allowed, and the matter is referred back to the Minister of National Revenue for reassessment given that the appellant was carrying on a business during the taxation years, which entitled him to Working Income Tax Benefits (WITB) pursuant to section 122.7 of the Act.
+Signed at Kingston, Canada, this 16th day of February 2022.
+"Rommel G. Masse"
+Deputy Judge Masse
+CITATION:
+2022 TCC 20
+DOCKET:
+2020-1441(IT)I
+STYLE OF CAUSE:
+SERGE FYFE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 24, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+February 16, 2022
+APPEARANCES:
+Representative for the appellant:
+Sylvain Huet
+Counsel for the respondent:
+Anna Kirk
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Sylvain Huet
+Law firm:
+Huet, Huet & Associés
+For the respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He has since realized the importance of keeping records and all supporting documents.
+[2] The first three inspections were free of charge, but there was a fee for each subsequent inspection.

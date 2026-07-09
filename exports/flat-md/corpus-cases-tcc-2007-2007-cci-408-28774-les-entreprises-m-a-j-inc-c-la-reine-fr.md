@@ -1,0 +1,111 @@
+---
+title: "Les Entreprises M.A.J. Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28774/index.do"
+last_modified: "2007-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 408"
+citation2: ""
+neutral_citation: "2007 CCI 408"
+decision_date: "2007-05-28"
+language: "fr"
+item_id: "28774"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1561
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:38:23.058000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ffcf5fd0ea358c937cb3489b6fe3590179adcbef5f89bf9cc478486763a332a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Entreprises M.A.J. Inc. c. La Reine
+
+- Citation: 2007 CCI 408
+- Decision date: 2007-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1561, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Entreprises M.A.J. Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-28
+Référence neutre
+2007 CCI 408
+Numéro de dossier
+2006-1956(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+COUR CANADIENNE DE L'IMPÔT
+RE : LOI SUR LA TAXE D’ACCISE
+2006-1956(GST)I
+ENTRE : LES ENTREPRISES M.A.J. INC.
+Appelante
+-et-
+SA MAJESTÉ LA REINE
+Intimée
+Tenue devant l'honorable BRENT PARIS, Cour canadienne de l’impôt, Chicoutimi (Québec), le 28 mai 2007.
+--------------------
+MOTIFS DE JUGEMENT
+COMPARUTIONS :
+M. ANDRÉ MARTEL
+pour l'appelante.
+Me ROBERTO CLOCCHIATTI
+pour l'intimée.
+Greffier/technicien : Claude Lefebvre
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215, rue Saint-Jacques,
+bureau 328
+Montréal (Québec)
+H2Y 1M6
+GST-4984 JEAN LAROSE, s.o.
+DÉBUT DES MOTIFS DE JUGEMENT : 13 h 49
+MOTIFS DE JUGEMENT
+MONSIEUR LE JUGE :
+Ce sont les motifs de jugement dans l’affaire Les Entreprises M.A.J. incorporée c. Sa Majesté la Reine 2006-1956(GST)I. Il s’agit d’un appel d’une nouvelle cotisation émise par le ministre du Revenu national relative à la TPS payable par l’appelante pour la période du 1er juin 2001 au 28 février 2005.
+La question en litige est de savoir si l’appelante a omis de déclarer des fournitures taxables au montant de 25 860 $ pendant ladite période.
+Les faits tenus pour acquis par le ministre en établissant la nouvelle cotisation se trouvent au paragraphe 6 de la réponse à l’avis d’appel qui fera partie intégrale de ces motifs sans que je les lise.
+Il incombe à l’appelante de démontrer sur la prépondérance des probabilités que ces faits sont incorrects, en particulier en l’espèce, il incombe à l’appelante de me satisfaire que le montant de 25 860 $ déposé dans le compte de banque de l’appelante le 21 juin 2004 ne provenait pas de fournitures taxables effectuées par l’appelante dans le cours de son entreprise.
+L’unique actionnaire de l’appelante, monsieur André Martel a témoigné que ce dépôt était une mise de fonds faite à partir de l’argent qu’il gardait à la maison dans un coffre-fort. Au moment du dépôt, il était hospitalisé, il voulait assurer à sa société une liquidité suffisante pour rencontrer les montants qui devenaient dus et payables par la société.
+Il aurait demandé à son fils de chercher l’argent chez lui et de le déposer à la banque. Suite au dépôt, son fils aurait préparé une résolution de conseil d’administration de l’appelante, la pièce A-2, pour enregistrer le prêt fait à la société.
+Monsieur Martel a d’abord maintenu que le dépôt n’avait jamais été inscrit comme des revenus de l’appelante dans ses registres mais a dû admettre en contre-interrogatoire qu’à un moment donné, son comptable aurait inclus le montant comme du revenu. Ceci découle du fait que le comptable a reclassé le montant comme dépôt de fonds, dépôt de monsieur Martel le 30 novembre 2004.
+Monsieur Martel n’était pas en mesure de fournir la date ou le montant qui avait été originalement inscrit dans les revenus de la société. Monsieur Martel dit d’avoir toujours gardé de l’argent liquide chez lui et que ces montants étaient ses économies. Il dit d’avoir déjà fait des mises de fonds dans l’appelante de cet argent mais il n’avait pas de détail de ces dépôts. De toute façon, les autres mises de fonds auraient été pour des montants nettement inférieurs à celle du 21 juin 2004.
+La question sur laquelle je dois me prononcer, est une question de fait selon toute la preuve qui a été présentée.
+Pour les motifs qui suivent, je suis d’avis que l’appelante n’a pas réussi à démolir l’hypothèse du ministre, que le montant en question provenait des fournitures taxables faites par l’appelante.
+Tout d’abord, les circonstances dans lesquelles le dépôt de 25 860 $ a été fait à la banque et inscrit dans les registres de l’appelante comme revenus n’ont pas été expliquées de façon adéquate, ils n’ont pas été étayées par une preuve corroborative ni de la part du fils de monsieur Martel ni par son comptable. Tout comme noté par le procureur de l’intimée, il n’était pas clair pourquoi la résolution A-2, la pièce A-2, supposément préparée par le fils de monsieur Martel au moment du dépôt ou peu après, aurait montré une mise de fonds de 25 000 $ tandis que le montant correct était 25 860 $. La suggestion que son fils n’aurait pas été au courant du montant exact du dépôt est invraisemblable vu que son fils est supposément allé chercher l’argent et l’a déposé à la banque.
+Il n’est pas clair non plus quand la résolution a été créée bien que monsieur Martel dit que son fils l’ai préparée en juin 2004, le vérificateur, monsieur Riou n’avait aucun souvenir de l’avoir vue au cours de sa vérification et son rapport de vérificateur précise que les dépôts dont celui en litige aujourd’hui sont restés à la conclusion de la vérification sans explication et sans pièce justificative.
+En l’absence d’une preuve qu’une copie de la résolution ait été fournie par les représentants de l’appelante qui ont rencontré monsieur Riou, je tire l’inférence que ce document n’a pas été présenté par l’appelante au stade des oppositions, bien après le moment où on aurait attendu sa production.
+Le fait que le comptable de l’appelante aurait en premier lieu inscrit le montant comme revenu d’entreprise n’a pas été suffisamment expliqué. Il me semble plus probable que si le montant était une mise de fonds, il y aurait eu des instructions fournies par monsieur Martel à son comptable dès le départ à cet effet mais ceci n’a pas apparemment été fait et le comptable n’aurait pas reçu une copie de la résolution du 21 juin 2004 non plus.
+Ces incohérences sont d’autant plus remarquables étant donné que le revenu déclaré de l’appelante pour cette année-là ne remontait qu’à 28 000 $ et que le montant de dépôt qui aurait été classé comme revenu par son comptable était presque d’un montant égal au revenu total pour l’année.
+Le témoignage de monsieur Martel voulant que le 25 860 $ consistait de ses économies est difficile à accepter sans preuve additionnelle. Même si monsieur Martel avait un compte de banque personnel, il n’a pas tenté de démontrer qu’il ne gardait pas d’argent dans ce compte. De plus, il n’a pas précisé sur quelle période il avait accumulé les fonds ni le niveau de ses propres revenus qui lui aurait permis d’accumuler cet argent.
+Somme toute, je trouve le témoignage de monsieur Martel trop vague et par moment, trop invraisemblable pour en conclure qu’il a réussi à renverser le fardeau de la preuve qui lui incombe.
+Pour tous ces motifs, l’appel est rejeté.
+FIN DES MOTIFS DE JUGEMENT
+*******************
+SERMENT
+Je, soussigné, JEAN LAROSE, sténographe officiel, certifie que les feuilles qui précèdent sont et contiennent la transcription de bandes d'enregistrement mécanique, de l'audience en cette cause. Le tout conformément à la Loi.
+J'ai signé,
+JEAN LAROSE, S.O.

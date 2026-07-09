@@ -1,0 +1,170 @@
+Title: Aitchison Professional Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/212770/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-281-212770-aitchison-professional-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-12-01
+
+# Aitchison Professional Corporation c. La Reine
+
+- Citation: 2016 CCI 281
+- Decision date: 2016-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2945, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aitchison Professional Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-12-01
+Référence neutre
+2016 CCI 281
+Numéro de dossier
+2014-844(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-844(IT)G
+ENTRE :
+AITCHISON PROFESSIONAL CORPORATION,
+requérante (appelante),
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 21 novembre 2016, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocats de la requérante (appelante) :
+Me Adrienne K. Woodyard,
+Me David C. Nathanson, c.r.
+Avocate de l’intimée :
+Me Samantha Hurst
+ORDONNANCE TRANCHANT UNE QUESTION EN APPLICATION DE L’ARTICLE 58 DES RÈGLES DE LA COUR CANADIENNE DE L’IMPÔT (PROCÉDURE GÉNÉRALE)
+La requête en ordonnance tranchant une question présentée en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) est rejetée. L’audience se tiendra sans que les parties aient à régler la question de l’évaluation du bien, laquelle sera examinée à la date ultérieure que déterminera le juge du procès. Si les parties estiment qu’il n’est pas nécessaire de scinder l’appel, elles en aviseront la Cour par écrit, au moins 30 jours avant la date d’audience. Les dépens afférents à la présente demande sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2016.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 16e jour de mai 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2016 CCI 281
+Date : 20161201
+Dossier : 2014-844(IT)G
+ENTRE :
+AITCHISON PROFESSIONAL CORPORATION,
+requérante (appelante),
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge C. Miller
+[1] Aitchison Professional Corporation, l’appelante (la « requérante »), demande que des questions soient tranchées avant l’audience en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Une demande de cette nature comporte deux étapes. Le juge détermine d’abord s’il est approprié de trancher les questions soulevées, puis il tranche les questions proprement dites. Il s’agit de la première étape de la procédure.
+[2] L’article 58 des Règles est ainsi rédigé :
+58(1) Sur requête d’une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l’audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l’admissibilité de tout élément de preuve.
+(2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+(3) L’ordonnance rendue en application du paragraphe (1) contient les renseignements suivants :
+a) la question à trancher avant l’audience;
+b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+c) le délai pour la signification et le dépôt d’un mémoire comprenant un exposé concis des faits et du droit;
+d) la date, l’heure et le lieu pour l’audience se rapportant à la question à trancher;
+e) toute autre directive que la Cour estime appropriée.
+[3] Les questions à trancher, qui constituent des questions de droit selon la requérante, sont les suivantes :
+a) de 2007 à 2010, James Aitchison a‑t‑il transféré à la requérante le droit de facturer ses services juridiques?
+b) dans l’affirmative, ce droit constitue‑t‑il un « bien » au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu (collectivement, les « questions »).
+[4] Par un avis de cotisation daté du 26 janvier 2012 (la « cotisation »), le ministre du Revenu national (le « ministre ») a établi une cotisation de 2 097 770 $ à l’égard de la requérante en application du paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[5] Pour établir la cotisation, le ministre s’est fondé sur l’hypothèse de fait selon laquelle James Aitchison avait transféré à la requérante un « bien », au sens du paragraphe 248(1) de la Loi, de plus de 2 000 000 $. Le « bien » que James Aitchison a transféré à la requérante, selon le ministre, est le [traduction] « droit de facturer des services juridiques » du 1er janvier 2007 au 30 septembre 2010.
+[6] La requérante soutient que les faits importants ci‑après qui sous‑tendent les questions à trancher ne sont pas contestés :
+[traduction]
+a) La requérante est une société professionnelle constituée sous le régime des lois de l’Ontario en 2003, qui a été établie dans le but d’exercer le droit en Ontario;
+b) Les administrateurs et actionnaires de la requérante sont James Aitchison et ses filles, Kelly et Laurie Aitchison, qui sont tous des avocats autorisés à exercer le droit en Ontario;
+c) De 2007 à 2010, Kelly, Laurie et James Aitchison ont fourni des services juridiques pour la requérante, et cette dernière a facturé et perçu des honoraires se rapportant à ces services juridiques, mais elle n’a versé aucun dividende à James Aitchison; en outre, elle ne lui a accordé qu’un traitement et un salaire symboliques, sinon nuls;
+d) Une partie des honoraires que la requérante a perçus pendant toute cette période était exclusivement attribuable à des services juridiques fournis par James Aitchison (les « honoraires de JA »), lesquels, selon l’hypothèse du ministre, s’élevaient à plus de trois millions de dollars;
+e) La somme de 2 097 770 $ représente la moins élevée des sommes suivantes : a) la somme que la requérante a reçue de James Aitchison, selon le ministre; b) la somme que doit James Aitchison au titre de l’impôt, des intérêts, des cotisations au RPC et des pénalités;
+f) Pour établir la cotisation, le ministre s’est fondé notamment sur les hypothèses de fait suivantes :
+(i) les clients à l’égard desquels James Aitchison avait fourni des services juridiques étaient des clients de la requérante;
+(ii) néanmoins, c’était James Aitchison, et non la requérante, qui avait le « droit de facturer » ces clients;
+(iii) James Aitchison a transféré à la requérante le « droit de facturer » ses services juridiques du 1er janvier 2007 au 30 septembre 2010;
+(iv) le « droit de facturer » de James Aitchison était un « bien », au sens du paragraphe 248(1) de la Loi;
+(v) la juste valeur marchande du « bien » était égale au montant des honoraires de JA que la requérante a perçus de 2007 à 2010.
+[7] Dans ses observations, l’intimée qualifie d’inusitée l’entente prise par M. Aitchison de [traduction] « ne pas être payé » et établit un lien entre cette disposition et le fait que, depuis 1992, M. Aitchison n’a payé aucun impôt fédéral sur le revenu et que, depuis 2007, il doit plus de 2 000 000 $ au ministre. Toutefois, il ressort des documents financiers de la requérante que M. Aitchison a généré des revenus de 911 391 $, de 750 249 $, de 847 108 $ et de 701 926 $, de 2007 à 2010, respectivement.
+[8] Les deux parties ont reconnu que les questions à trancher ont été soulevées dans les actes de procédure. Par conséquent, conformément à l’article 58 des Règles, la Cour doit déterminer s’il appert que de trancher les questions pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle‑ci ou résulter en une économie substantielle de frais.
+[9] La requérante soutient que la première question, énoncée à l’alinéa 3a), comporte deux volets : tout avocat qui fournit des services par l’entremise d’une société professionnelle a‑t‑il le droit inhérent de les facturer? Dans l’affirmative, ce droit peut‑il être transféré? Selon la requérante, ces deux volets sont des questions de droit. La requérante fait aussi valoir que la seconde question, celle de savoir si le droit de facturer constitue un bien au sens du paragraphe 248(1) de la Loi, est également une question de droit.
+[10] La requérante avance qu’une réponse négative à l’une ou l’autre des questions permettrait de régler l’appel. Elle est d’avis que, si l’on répondait par l’affirmative aux deux questions, il ne resterait qu’à statuer sur la valeur du bien, ce qui donnerait vraisemblablement lieu à un règlement plutôt qu’à une audience. Elle fait remarquer que la question de l’évaluation pourrait être longue à trancher, car il faudrait avoir recours à une preuve d’expert. La requérante s’inquiète du fait qu’en l’absence de décision rendue en application de l’article 58 des Règles, elle devrait consacrer du temps et de l’argent au règlement de la question de l’évaluation à l’audience.
+[11] La requérante a avancé qu’il serait possible de trancher les questions sur preuve par affidavit, car il suffit de traiter les faits importants précédemment.
+[12] L’intimée est d’avis que l’on n’abrégerait l’instance que si l’on répondait par la négative aux questions à trancher. Je ne souscris pas à cette thèse, à laquelle je préfère celle de la requérante, selon laquelle l’une ou l’autre réponse abrégerait l’instance. Ce qui me pose problème, toutefois, c’est de savoir si le processus permettant de trancher les questions serait lui‑même plus court qu’une audience. Ce serait certes le cas si l’on recourait à la preuve par affidavit, mais est‑ce la bonne façon de faire que de limiter le processus à la preuve par affidavit? Je ne le crois pas.
+[13] C’est à cet égard que l’intimée m’a invité à examiner les facteurs pertinents suivants :
+a) Quel genre de questions la requérante demande‑t‑elle que l’on tranche?
+b) Quel genre d’éléments de preuve faudra‑t‑il prendre en considération si une requête présentée en vertu de l’article 58 des Règles est accueillie, et y a‑t‑il des questions de fait en litige?
+c) Quelle est la procédure proposée?
+d) Une requête présentée en vertu de l’article 58 des Règles portera‑t‑elle préjudice à l’une ou l’autre des parties?
+[14] Pour ce qui est du genre de questions, l’intimée soutient qu’il s’agit de questions mixtes de fait et de droit et non pas seulement de questions de droit.
+[15] Je suis d’accord avec l’intimée. La question de savoir s’il s’agit d’un transfert ne peut être tranchée qu’en procédant à un examen exhaustif des circonstances de fait entourant l’entente conclue entre la requérante et M. Aitchison. À titre d’exemple, il me semble que la manière dont on s’est occupé de la facturation serait importante. Par ailleurs, quelles étaient les intentions de la requérante et de M. Aitchison? Il n’y a pas que les faits importants relevés par la requérante qui doivent être mis au clair. Et la meilleure façon de le faire est de recourir au processus ordinaire d’interrogatoire et de contre‑interrogatoire. Ce seul élément suffit à ce que je conclue qu’il ne convient pas de trancher les questions uniquement sur preuve par affidavit. Cette conclusion étant tirée, il me semble évident qu’une décision fondée sur des témoignages de vive voix nécessite autant de temps et d’argent qu’une audience. La différence, comme l’a souligné la requérante, est que cette décision ne porterait pas sur l’évaluation. Toutefois, le simple fait de scinder l’appel réglerait facilement ce problème.
+[16] Je suis par ailleurs conforté dans mon opinion selon laquelle il est nécessaire de procéder à une audience complète pour traiter les questions à trancher par les observations qu’a formulées la Cour d’appel fédérale dans l’arrêt Manrell c. Canada [1] , où elle discute la notion de biens :
+24. Dans l’ouvrage intitulé Principles of Property Law, 3e éd. (Scarborough : Carswell, 2000), le professeur Ziff dit ce qui suit au sujet de la question des biens (à la page 2) :
+[traduction] Les biens sont parfois qualifiés d’ensemble de droits. Cette simple métaphore est une façon utile d’examiner le concept de base. Elle indique que les biens ne sont pas une chose, mais un droit, ou encore mieux, une collection de droits (sur des choses) qu’il est possible d’exercer contre d’autres personnes. Autrement dit, le mot « biens » signifie un ensemble de relations entre personnes qui se rapportent à la revendication d’objets corporels et d’objets incorporels. [Soulignement ajouté.]
+25. Cette notion de « biens » donne implicitement à entendre que le mot « biens » doit comporter ou entraîner quelque droit exclusif de présenter une demande contre quelqu’un d’autre. Le droit général de faire une chose que n’importe qui peut faire, ou un droit possédé par chacun, n’est pas le « bien » de qui que ce soit. En l’espèce, la seule chose que M. Manrell possédait avant de signer l’entente de non-concurrence et qu’il ne possédait pas par la suite était le droit qu’il partageait avec toute autre personne d’exploiter une entreprise. Quel que soit ce à quoi M. Manrell avait renoncé en signant cette entente, il ne s’agissait pas d’un « bien » au sens ordinaire de ce mot.
+[17] L’établissement de l’ensemble de relations, comme le dit le professeur Ziff, ne peut être déterminé de manière entière et équitable qu’en interrogeant et en contre‑interrogeant les principaux intervenants. Je ne conviens pas avec la requérante qu’un nombre restreint de faits importants suffit pour qu’un tribunal tranche en bonne et due forme cette question en litige entre les parties.
+[18] Je conviens avec l’intimée que les questions à trancher soulèvent [traduction] « de nombreux faits sous‑jacents », dont certains sont litigieux, de l’avis de l’intimée, notamment les réponses aux questions suivantes :
+[traduction]
+a) Les clients ont-ils retenu les services de M. Aitchison ou ceux de l’appelante?
+b) M. Aitchison détenait‑il, pour ses services juridiques, un droit exclusif de facturation qu’il pouvait céder ou transférer?
+c) Les règles du Barreau du Haut‑Canada régissant l’exercice de la profession d’avocat imposent‑elles des restrictions quelconques à la facturation des services juridiques?
+d) Les déclarations de revenus de l’appelante sont‑elles véridiques et exactes?
+e) Les factures de l’appelante sont‑elles véridiques et exactes?
+[19] Je ne croie pas être enclin à citer mes propres motifs, mais j’ai déjà fait part de mon point de vue sur les décisions rendues en application de l’article 58 des Règles dans la décision HSBC Bank Canada c. R. [2] , et je le réitère ici :
+[traduction]
+10. M. Kroft me presse d’examiner cet article à la lumière de ce qu’il qualifie d’objectif des Règles de la Cour canadienne de l’impôt, soit trouver des moyens de régler des questions sans audience. Il souligne que nos nouvelles règles sur les conférences préparatoires à l’audience et sur les conférences de règlement illustrent cette orientation. Je souscris à cette idée, mais je persiste à croire que trancher des questions avant l’audience ne remplace pas l’audience. Il s’agit d’un point de vue qui a été exprimé dans Carma Developers Ltd. c. H.M.Q.[1]. L’appelante soutient que la présente demande n’est pas censée se substituer à une audience, mais reconnaît toutefois que les deux parties devront peut‑être produire des preuves pour que les questions soient tranchées.
+11. Il ressort également de la jurisprudence que, lorsqu’il est statué sur des questions avant l’audience, les faits qui sous‑tendent les questions de droit à trancher ne devraient pas être contestés. L’appelante a insisté considérablement sur les changements apportés en 2004 à l’article 58 des Règles, lequel vise dorénavant les questions de fait et les questions mixtes de fait et de droit. Elle faisait ainsi valoir que, maintenant, cet article envisage expressément que, pour trancher des questions de droit, il peut être nécessaire de trancher au préalable des questions de fait. À mes yeux, cela ressemble beaucoup à une audience.
+[…]
+13. […] L’appelante invite l’intimée à produire des éléments de preuve pour que soient tranchées les questions avant l’audience. Malgré le nouveau libellé de l’article 58 des Règles, je ne conviens pas qu’il y a lieu de produire de tels éléments de preuve à l’étape où je dois trancher les douze questions de droit dont je suis saisi. La question relative à la SADC, telle qu’elle est formulée dans la réponse, est une question de fait : les frais ont‑ils été engagés dans le but – ce qui constitue un élément essentiel – de produire un revenu? Détail intéressant, l’appelante a structuré la question à trancher comme une question de droit – les frais supportés par les parents sont‑ils déductibles par rapport aux dépôts qu’assure la SADC? La question de droit ne peut être tranchée qu’en répondant à la question de fait, et il s’agit là, indépendamment du nouveau libellé de l’article 58 des Règles, d’une conclusion à ce point fondamentale pour l’appel en général que seul une audience complète, qui procure tous les avantages des règles et des procédures alors applicables, est le mécanisme qui convient pour trancher de telles questions.
+14. […] Cela touche au cœur même de ce que doit entendre un juge du procès, avec toutes les règles et les procédures de preuve dont il dispose. Non, je conclus que la demande de l’appelante en vue de régler la question relative à la SADC est une tentative de scinder les appels, de sorte qu’un juge des requêtes peut être contraint de tirer des conclusions sur des faits qui devraient, et doivent, faire l’objet d’une audience équitable, et d’arriver à ces conclusions en l’absence des protections quant à la preuve dont bénéficient les deux parties lors d’une audience. On ne m’a tout simplement pas convaincu que les parties peuvent puiser dans cette masse complexe de documents et de circonstances environnantes pour n’en retirer que les faits qui sont requis pour répondre à la question relative à la SADC. Ça ne peut tout simplement pas fonctionner.
+[20] Je conviens avec l’intimée que la question que soulève la cotisation en cause en l’espèce est nouvelle et que, cela étant, une audience en bonne et due forme est l’option qui servirait le mieux l’intérêt de la justice, par l’établissement potentiel d’un précédent. Je ne souscris pas à l’avis de la requérante selon lequel il est inutile d’aller au‑delà du régime législatif complet (la Loi sur les sociétés par actions et la Loi sur le Barreau) pour déterminer la relation. La Cour doit connaître toutes les circonstances.
+[21] Il reste à établir si le fait d’exiger des preuves, d’expert ou d’une autre nature, pour régler la question de l’évaluation lors de l’audience entraînerait un gaspillage de temps et d’argent. La requérante soutient qu’en raison de la complexité de l’affaire, une telle démarche exigerait beaucoup de temps et des dépenses considérables, de même que des preuves d’expert. À vrai dire, la question de l’évaluation n’est pas si complexe que cela à mes yeux. L’intimée considère que la valeur du [traduction] « droit de facturation » est égal au montant des factures elles-mêmes, exclusion faite de l’impôt à payer sur ces montants. J’aurais pensé que les parties, sans déployer d’énergie excessive, auraient pu régler cette question entre elles sans avoir besoin de l’aide d’experts.
+[22] Je souscris au point de vue de l’intimée selon lequel la manière dont elle aborde la situation fiscale de la requérante et de M. Aitchison est nouvelle et complexe. Cela, à mon humble avis, n’est pas dû à quelque grande difficulté que poserait la valeur, mais plutôt aux questions concernant la notion même de biens, ce que sont les droits et ce qui est transférable.
+[23] Je suis disposé à scinder l’appel et à permettre aux parties d’aller de l’avant sans traiter la question de l’évaluation. Il appartiendra au juge du procès de fixer un échéancier pour la question de l’évaluation, si en fin de compte il se révèle nécessaire de le faire. Si les deux parties décident qu’elles n’ont pas besoin que l’appel soit scindé, elles devront en aviser la Cour au moins 30 jours avant la date fixée pour l’audience. Les dépens afférents à la présente requête sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2016.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 16e jour de mai 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 281
+No DU DOSSIER DE LA COUR :
+2014-844(IT)G
+INTITULÉ :
+AITCHISON PROFESSIONAL CORPORATION ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 novembre 2016
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Campbell J. Miller
+DATE DE L’ORDONNANCE :
+Le 1er décembre 2016
+COMPARUTIONS :
+Pour la requérante (appelante) :
+Me Adrienne K. Woodyard,
+Me David C. Nathanson, c.r.
+Avocate de l’intimée:
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante (appelante) :
+Nom :
+Adrienne K. Woodyard, David C. Nathanson, c.r.
+Cabinet :
+DLA Piper (Canada) LLP
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2003 CAF 128.
+[2] 2011 TCC 37.

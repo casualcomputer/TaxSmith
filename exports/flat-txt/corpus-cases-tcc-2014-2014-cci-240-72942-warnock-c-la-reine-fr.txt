@@ -1,0 +1,140 @@
+Title: Warnock c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72942/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-240-72942-warnock-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-07-24
+
+# Warnock c. La Reine
+
+- Citation: 2014 CCI 240
+- Decision date: 2014-07-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5358, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warnock c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-24
+Référence neutre
+2014 CCI 240
+Numéro de dossier
+2013-4399(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4399(IT)I
+ENTRE :
+KRISTIN WARNOCK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 juillet 2014, à Edmonton (Alberta).
+Devant : L’honorable juge Woods
+Comparutions :
+Représentante de l’appelante :
+Mme Margaret Gavigan
+Avocate de l’intimée :
+Me Paige MacPherson
+JUGEMENT
+La Cour ordonne que l’appel interjeté à l’encontre d’une cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2011 soit rejeté.
+Signé à Ottawa (Ontario), ce 24e jour de juillet 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 240
+Date : 20140724
+Dossier : 2013-4399(IT)I
+ENTRE :
+KRISTIN WARNOCK,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel interjeté par Kirstin Warnock porte sur une demande de crédit d’impôt pour frais médicaux engagés relativement à un contrat de grossesse visant à permettre à l’appelante et à son époux d’avoir un enfant. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation pour l’année d’imposition 2011 afin de faire en sorte que certaines dépenses soient déduites et que d’autres soient refusées.
+[2] L’appelante a demandé le crédit relativement à trois types de services : (1) les services médicaux fournis directement à l’appelante, (2) les services médicaux fournis directement à la mère porteuse, Penny Warnock, qui est la belle‑sœur de l’appelante, et (3) les frais judiciaires liés à un contrat de grosse obligatoire.
+[3] L’appelante interjette appel relativement aux montants dont la déduction a été refusée, à savoir 2 861,88 $ pour les services juridiques obtenus, 696 $ pour les échographies subies par la mère porteuse et 318,88 $ pour des médicaments sur ordonnance pris par la mère porteuse.
+[4] L’appelante était représentée à l’audience par sa mère, Margaret Gavigan, qui travaille à l’Agence du revenu du Canada (l’« ARC »). Mme Gavigan a précisé à la Cour qu’elle avait eu connaissance, dans le contexte de son travail, d’une situation semblable dans laquelle le crédit d’impôt avait été accordé (Zieber c La Reine, 2008 CCI 328). Naturellement, l’appelante s’attendait à ce que l’ARC suive la décision et lui accorde aussi le crédit d’impôt. Tel n’a pas été le cas.
+[5] La Couronne m’a renvoyée à une autre décision (Carlson v The Queen, 2012-3063(IT)I) dans laquelle la décision Zieber n’a pas été suivie. Les motifs de la décision Carlson n’ont pas été publiés et, par conséquent, l’appelante n’a pas pu les consulter. La Couronne a obtenu une transcription de la décision Carlson pour les besoins de la présente audience.
+I. Régime législatif [6] Le crédit d’impôt pour frais médicaux est prévu au paragraphe 118.2(1) de la Loi de l’impôt sur le revenu (la « Loi »). En général, le crédit accorde un modeste allégement fiscal pour des « frais médicaux », selon la définition de cette expression, engagés à l’égard du contribuable, ou à l’égard de son époux ou de son enfant âgé de moins de 18 ans.
+[7] La disposition est en partie ainsi libellée :
+118.2(1) La somme obtenue par la formule ci‑après est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A x [(B - C) + D]
+où :
+A représente le taux de base pour l’année;
+B le total des frais médicaux du particulier, engagés à son égard ou à l’égard de son époux ou conjoint de fait ou de son enfant qui n’a pas atteint l’âge de 18 ans avant la fin de l’année et qui, à la fois :
+[…]
+[Non souligné dans l’original.]
+[8] Les types de services qui donnent droit au crédit sont généralement énoncés au paragraphe 118.2(2) de la Loi. Les alinéas 118.2(2)a), l.1), n) et o) de la Loi sont pertinents en l’espèce et sont reproduits ci‑après.
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l’année d’imposition où les frais ont été engagés;
+[…]
+118.2(2)l.1) au nom du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qui doit subir une transplantation de la moelle épinière ou d’un organe :
+(i) pour les frais raisonnables, excluant les frais visés au sous‑alinéa (ii) mais incluant les frais judiciaires et les primes d’assurance, engagés dans la recherche d’un donneur compatible et dans les préparatifs de la transplantation,
+(ii) pour les frais raisonnables de déplacement, de pension et de logement, à l’exclusion des frais visés aux alinéas g) et h), du donneur (et d’une autre personne qui l’accompagne) et du particulier (et d’une autre personne qui l’accompagne) engagés relativement à la transplantation;
+[…]
+118.2(2)n) pour ce qui suit :
+(i) les médicaments, les produits pharmaceutiques et les autres préparations ou substances, sauf s’ils sont déjà visés à l’alinéa k), qui répondent aux conditions suivantes :
+(A) ils sont fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d’une maladie, d’une affection ou d’un état physique anormal, ou de leurs symptômes, ou en vue de rétablir, de corriger ou de modifier une fonction organique,
+(B) ils ne peuvent légalement être acquis afin d’être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a) que s’ils sont prescrits par un médecin ou un dentiste,
+(C) leur achat est enregistré par un pharmacien,
+(ii) les médicaments, les produits pharmaceutiques et les autres préparations ou substances qui sont visés par règlement;
+118.2(2)o) pour les actes de laboratoires, de radiologie ou autres actes de diagnostic et les interprétations nécessaires, sur ordonnance d’un médecin ou d’un dentiste, en vue de maintenir la santé, de prévenir les maladies et de diagnostiquer ou traiter une blessure, une maladie ou une invalidité du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a);
+II. Analyse [9] J’examinerai d’abord les frais judiciaires supportés par l’appelante relativement au contrat de grossesse obligatoire. Il s’agit de l’élément le plus important en litige.
+[10] Les frais judiciaires donneront droit au crédit en application de l’alinéa 118.2(2)l.1) s’ils sont engagés pour le compte du « particulier, de son époux ou conjoint de fait ou d’une personne à charge du particulier », selon la définition de ces termes, qui doit subir une transplantation d’un organe, et si les frais en question sont raisonnablement engagés dans les préparatifs de la transplantation.
+[11] Dans la décision Zieber, la Cour a conclu que les frais liés au contrat de grossesse donnaient droit au crédit d’impôt parce que la transplantation d’embryon constituait une « transplantation d’organe » pour l’application de l’alinéa 118.2(2)l.1) de la Loi. Ce qui m’empêche de suivre la décision Zieber, c’est qu’elle n’examine pas tous les aspects pertinents de l’alinéa 118.2(2)l.1) de la Loi.
+[12] J’aimerais également souligner que la décision Zieber a été rendue sous le régime de la procédure informelle et qu’elle ne constitue pas un précédent jurisprudentiel. Il est rare que la Couronne interjette appel à l’encontre de décisions rendues sous le régime de la procédure informelle, et la prudence s’impose lorsqu’il faut se fonder sur ces décisions.
+[13] Je suis arrivée à la conclusion que, si l’alinéa 118.2(2)l.1) de la Loi est examiné dans son ensemble, il ne s’applique pas aux contrats de grossesse.
+[14] Pour les besoins du présent appel, il n’est pas nécessaire de trancher la question de savoir si un embryon est un « organe ». Le problème qui se pose est que la personne qui subit la transplantation n’est pas l’appelante, mais la mère porteuse. Par définition, la mère porteuse n’est pas un particulier, son époux ou conjoint de fait ou une personne à charge du particulier.
+[15] L’alinéa 118.2(2)l.1) de la Loi exige qu’un « particulier, […] son époux ou conjoint de fait ou […] une personne à charge [du particulier] » ait besoin de subir une transplantation. À l’alinéa 118.2(2)a) de la Loi, précité, il est précisé que la personne visée est le particulier qui demande le crédit d’impôt ou son époux ou une personne à la charge du particulier. En l’espèce, c’est la mère porteuse qui a reçu la transplantation et elle n’est pas un particulier, son époux ou conjoint de fait ou une personne à charge du particulier, comme l’exige l’alinéa 118.2(2)l.1) de la Loi.
+[16] Dans la décision Carlson non publiée, le juge Archambault a décidé que la disposition en question n’était pas censée s’appliquer aux contrats de grossesse. Je souscris à cette conclusion.
+[17] Lorsque je me penche sur les frais pour les séances d’échographie et les médicaments sur ordonnance supportés par l’appelante pour le compte de la mère porteuse, je me heurte à des difficultés semblables. Les dispositions pertinentes, à savoir les alinéas 118.2(2)n) et o) de la Loi, précités, renvoient toutes les deux à un particulier, à son époux ou conjoint de fait ou à une personne à charge du particulier. À mon avis, le législateur a voulu que ces types de services soient prescrits pour le particulier, son époux ou conjoint de fait ou une personne à charge du particulier, selon la définition de ces termes. En l’espèce, la mère porteuse n’est pas une telle personne.
+[18] Pour les motifs exposés ci‑dessus, j’ai conclu que les dispositions pertinentes ne s’appliquent pas aux frais en cause. Bien que la situation en l’espèce suscite de la compassion, l’appel doit être rejeté.
+Signé à Ottawa (Ontario), ce 24e jour de juillet 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2014 CCI 240
+NO DU DOSSIER DE LA COUR :
+2013-4399(IT)I
+INTITULÉ :
+KRISTIN WARNOCK et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 16 juillet 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Woods
+DATE DU JUGEMENT :
+Le 24 juillet 2014
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Margaret Gavigan
+Avocate de l’intimée :
+Me Paige MacPherson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S/O
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa (Ontario)

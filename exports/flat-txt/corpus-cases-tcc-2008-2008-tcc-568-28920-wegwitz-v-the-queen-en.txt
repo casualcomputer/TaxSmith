@@ -1,0 +1,107 @@
+Title: Wegwitz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28920/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-568-28920-wegwitz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-15
+
+# Wegwitz v. The Queen
+
+- Citation: 2008 TCC 568
+- Decision date: 2008-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1428, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wegwitz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-15
+Neutral citation
+2008 TCC 568
+File numbers
+2007-3956(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3956(IT)I
+BETWEEN:
+LEONARD WEGWITZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 8, 2008, at Lethbridge, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Barrie G. Broughton
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act of the Appellant’s tax for 2005 is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 15th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC568
+Date: 20081015
+Docket: 2007-3956(IT)I
+BETWEEN:
+LEONARD WEGWITZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant has appealed the inclusion of $10,132 in his income in 2005. He does not dispute that this income was earned in 2005 but it is his position that this was not his income but rather that this income was earned by his corporation, Southern Gem Enterprises Inc.
+[2] The Appellant is 75 years old, and therefore would have been 72 in 2005. The Appellant worked at various jobs before 2005. For 36 years he worked for the Federal Government with the Department of Agriculture. Following his retirement from this position he ran a ranch for approximately two years and worked at other jobs. In 2003 he formed Southern Gem Enterprises Inc., as he wanted to use this company to provide services. This company provided services to Midwest Laundry Equipment and Goodlife Foods. However both of these companies were cutting back and when he saw an advertisement in the paper for a security guard he decided to apply. He had never worked as a security guard but he had decided that he would try this. He responded to this ad and was successful in securing a position as a security guard. The amount that was paid in 2005 by G4S Security Services (Canada) Ltd. ($10,132) is the amount of income that is in issue in this case.
+[3] There are references to different companies in relation to the payer - G4S Security Services (Canada) Ltd., Group 4 Securitas (Canada) Ltd., and Group 4 Falck (Canada) Ltd. The Appellant, in his Notice of Appeal, identified G4S Security Services (Canada) Ltd. as the payer and the person who issued the T4 slip for 2005. The Respondent, in the Reply, agrees that this company issued the T4 slip and paid the amounts that are in question. The Employment Application form refers to “Group 4 Securitas (Canada) Ltd.” and other forms refer to “Group 4 Falck (Canada) Ltd.”. Therefore it appears that the payer was simply using forms that had been prepared for various companies that are part of the same group of companies. Since the parties agree that the person making the payments was G4S Security Services (Canada) Ltd., there is no dispute with respect to the identity of the payer under the contract for security guard services and the payer will be referred to herein as “G4S”. In order for the Appellant to succeed in this case, the Appellant will need to establish that the security guard services were to be provided by Southern Gem Enterprises Inc. to G4S (and not by the Appellant to G4S).
+[4] A copy of the letter that the Appellant had submitted in response to the advertisement in the newspaper was submitted into evidence. The letter is dated August 31, 2004. The letter is signed by the Appellant personally. The only reference to Southern Gem Enterprises Inc. in the letter is in the paragraph which states as follows:
+If it is convenient to you, if hired I could work on contract basis, I have incorporated co. (Southern Gem Enterprises Inc.). Can be available on short notice.
+[5] This paragraph is conditional. It starts by providing “if it is convenient to you” and then states that he could work on contract basis. It does not insist that he must work on contract basis or that the person seeking to provide the security guard services was Southern Gem Enterprises Inc. Rather, only if it was convenient for the payer, the Appellant could work on a contract basis or his company could do so. This is not conclusive evidence that the person with whom G4S had contracted was Southern Gem Enterprises Inc. as it only raises the possibility that the services could be provided by Southern Gem Enterprises Inc.
+[6] Following the Appellant’s interview with G4S, he completed a number of different forms in his own handwriting and signed these forms. In the Employment Application form the Appellant inserted his own name as the name of the employee and this was repeated for each of the other forms. He did not insert the name of Southern Gem Enterprises Inc. in any of these forms. The Appellant inserted Midwest Laundry Equipment and Goodlife Foods as the identity of previous employers in the Employment Application form. Both of these companies were companies to which services were provided by Southern Gem Enterprises Inc. but there was nothing on this form that indicated that Southern Gem Enterprises Inc. was providing the services to these two companies.
+[7] The Appellant recently changed his address to which his pay stubs would be sent to one that still shows the name of the Appellant but states that the document is to be sent to him in care of Southern Gem Enterprises Inc. However, this reference to Southern Gem Enterprises Inc. is simply part of the address where the payment information should be sent and simply inserting the name of the company as part of the address cannot change the identity of the person who is a party to the contract.
+[8] Ms. Heilman, the district manager of G4S for the territory that includes Lethbridge, also testified. She was a credible witness and I accept her testimony. She indicated that although the national company has hired individuals as independent contractors, her branch has never retained the services of any security guard as an independent contractor. If an individual were to be hired as an independent contractor, different forms would have to be completed than the ones that were used in this case. Ms. Heilman stated that the first time she heard of Southern Gem Enterprises Inc. was sometime after the Appellant was retained and was in preparing for this hearing. It clearly is her position that the contract was with the Appellant and not Southern Gem Enterprises Inc. and that the Appellant was hired as an employee.
+[9] Employment Insurance premiums and income tax were deducted from the payments made by G4S and a T4 slip was issued at the end of the year identifying the Appellant as the employee of G4S and stating the amount of income and deductions. This is consistent with the position of G4S that the Appellant was an employee of G4S and is consistent with all of the forms completed by and signed by the Appellant.
+[10] The payments made by G4S were made directly to the bank account for Southern Gem Enterprises Inc. However, this would simply be the bank account designated for the direct deposit of the payments and does not establish that Southern Gem Enterprises Inc. was the party to the contract with G4S. Since the Appellant had designated this account, G4S could assume that payments to the Appellant could be deposited into this account and would be treated as payments to the Appellant. Simply having the deposits made to an account of Southern Gem Enterprises Inc. does not make Southern Gem Enterprises Inc. the party to the contract with G4S.
+[11] The Appellant attempted to link the payments to Southern Gem Enterprises Inc. by having a resolution adopted by the directors of this company. This resolution provided as follows:
+Topic: Revenue received by Southern Gem Enterprises Inc. from services rendered to Group 4 Falk Security, paid in the name of Len Wegwitz, direct deposited to Southern Gem Enterprises Inc. bank account.
+Reason: A Security Guard license issued by provincial Solicitor General has to be issued to a person rather than a corporation. Southern Gem Enterprises Inc. agrees to the necessitated procedure of Group 4 Security’s method of payment for services rendered.
+[12] A unilateral resolution signed by the directors of Southern Gem Enterprises Inc. cannot change the relationship between G4S and the Appellant. This resolution does, however, acknowledge that the payments being made by G4S were being made to the Appellant as the Appellant was the person who held the security guard licence.
+[13] The reference to the security guard licence is related to the requirements of the Private Investigators and Security Guards Act of Alberta R.S.A. 2000, c. P-23. Subsections 4(1) and (2) of this Act provide as follows:
+4(1) No person shall engage in the business of providing security guard services for hire or reward without a security guard agency licence issued under this Act.
+(2) No person shall act as a security guard for a person who is in the business of providing security guard service without a security guard licence issued under this Act.
+[14] The Appellant had acquired a security guard licence referred to in subsection 4(2) of the Private Investigators and Security Guards Act of Alberta. The Appellant clearly acknowledged that Southern Gem Enterprises Inc. had not obtained a security guard agency licence (referred to in subsection 4(1) of the Private Investigators and Security Guards Act of Alberta), which would have been required if Southern Gem Enterprises Inc. would have been providing security guard services to G4S. Southern Gem Enterprises Inc. could not have obtained a security guard licence (referred to in subsection 4(2) of the Private Investigators and Security Guards Act of Alberta) as the Private Investigators and Security Guards Regulation Alta. Reg. 71/1991, by prescribing a certain type of form to be used to obtain a security guard licence, restricts a security guard licence to individuals. Southern Gem Enterprises Inc. would have needed a security guard agency licence (at a cost of $400) in addition to the security guard licence that the Appellant obtained (at a cost of $30) if the Appellant would have been working for Southern Gem Enterprises Inc. as a security guard and Southern Gem Enterprises Inc. would have been providing security guard services to G4S.
+[15] In this case, the parties to the contract pursuant to which security guard services were provided in 2005 were G4S and the Appellant. Therefore, the $10,132 was properly included in the income of the Appellant in 2005. The Appellant had argued that he was hired as an independent contractor and not as an employee. Regardless of whether the Appellant was an employee or an independent contractor, he was paid $10,132 in 2005 and this amount will, subject to any expenses that he may be entitled to claim, be included in his income for 2005. The only relevance of whether the Appellant was an employee or an independent contractor in relation this appeal under the Income Tax Act would be in relation to certain expenses that he may be entitled to claim as an independent contractor that he could not claim as an employee. However no details of any expenses that were incurred by the Appellant were submitted and therefore the amount that will be included in his income for 2005 will be $10,132, regardless of whether he was an employee or an independent contractor.
+[16] The appeal is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 15th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC568
+COURT FILE NO.: 2007-3956(IT)I
+STYLE OF CAUSE: LEONARD WEGWITZ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: October 8, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 15, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Barrie G. Broughton
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Barrie G. Broughton
+Firm: North & Co. LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

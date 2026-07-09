@@ -1,0 +1,157 @@
+---
+title: "Millard c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28743/index.do"
+last_modified: "2008-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 353"
+citation2: ""
+neutral_citation: "2008 CCI 353"
+decision_date: "2008-06-27"
+language: "fr"
+item_id: "28743"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1497
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:37:01.331000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2424befbc4fff4b010e45fbf0c83270e4f898fe63c3f1a4211d0ad6943ab32f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Millard c. M.R.N.
+
+- Citation: 2008 CCI 353
+- Decision date: 2008-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1497, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Millard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-27
+Référence neutre
+2008 CCI 353
+Numéro de dossier
+2008-133(EI)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2008 CCI 353
+Date : 20080627
+Dossiers : 2008-132(CPP)
+2008-133(EI)
+ENTRE :
+KEITH MILLARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CONTINENTAL NEWSPAPERS (CANADA) LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 2 mai 2008,
+à Thunder Bay (Ontario).)
+Le juge suppléant Mogan
+[1] Il s’agit d’un appel d’une décision du ministre du Revenu national (le « ministre ») portant que l’appelant n’exerçait pas un emploi assurable au sens attribué à cette expression dans la définition figurant dans la Loi sur l’assurance‑emploi et, de plus, qu’il n’avait pas de gains ouvrant droit à pension au sens du Régime de pensions du Canada. En l’espèce, mes remarques ne porteront que sur la Loi sur l’assurance‑emploi étant donné que la décision rendue dans l’appel y afférent s’appliquera à l’appel interjeté en vertu du Régime de pensions du Canada.
+[2] L’appelant était livreur pour le Chronicle Journal, qui est le journal quotidien à Thunder Bay (Ontario) (le « journal »). Un témoignage détaillé a été donné par l’appelant lui‑même ainsi que par Harry Brown, dirigeant du journal, au sujet des conditions qui s’appliquent aux livreurs. M. Brown a déclaré qu’ils annoncent dans le journal les parcours qui sont offerts aux livreurs. Les personnes qui veulent gagner de l’argent en livrant le journal présentent une demande pour un parcours, la plupart du temps lorsque ce parcours est situé près de chez elles et qu’il est pratique de livrer les journaux dans ce secteur. C’est ainsi que l’appelant est devenu livreur pour le journal. Il a demandé et obtenu un parcours. Avec le temps, l’appelant a acquis d’autres parcours jusqu’à ce que, selon son témoignage, il se soit occupé, si je comprends bien, de cinq ou six parcours.
+[3] L’appelant a commencé à livrer les journaux le 23 mai 1999 et il a continué à le faire jusqu’au 3 décembre 2005, lorsqu’il a cessé d’être livreur. L’appelant a témoigné qu’à la fin, cela l’embêtait et qu’il trouvait la tâche lourde, compte tenu des circonstances que j’examinerai ci‑dessous.
+[4] La relation entre le livreur et le journal commence lorsque le livreur signe une entente (pièce R‑1, onglet 9). Il s’agit d’un document fort simple parce que certains livreurs sont des adultes comme l’appelant, alors que d’autres, des adolescents ou des adolescentes par exemple, ne sont pas des adultes. Par conséquent, il s’agit d’un document fort rudimentaire qui peut être lu en deux ou trois minutes. L’« entente concernant le livreur » que l’appelant a signée est reproduite ci‑dessous :
+[traduction]
+Je, Keith Millard, m’engage à agir comme livreur ou comme vendeur indépendant pour le parcours 1315 à compter du 20 janvier 2002, pour une période d’au moins trois mois; je m’engage en outre à assurer la livraison à titre de livreur le matin sept jours sur sept. En ma qualité de livreur m’occupant de la livraison le matin sept jours sur sept, je m’engage à effectuer les livraisons tous les jours avant 8 h. Je continuerai à payer mon compte au complet par chèque, au taux normal applicable aux livreurs, pendant chaque période de facturation, et je donnerai au Chronicle Journal un préavis d’au moins deux semaines correspondant à une période de facturation avant de renoncer à mon parcours. Le Chronicle Journal effectue deux livraisons hebdomadaires, le jeudi et le dimanche, chez des personnes qui ne sont pas abonnées. Le Chronicle Journal est également autorisé à retenir chaque semaine un dépôt hebdomadaire de deux dollars pour une période de dix semaines à compter du moment où je commence à agir comme livreur ou vendeur indépendant. Le montant sera ramené à un dollar par semaine au cours de la onzième semaine où j’agirai comme livreur ou vendeur indépendant, et ce montant continuera à être retenu tant que le montant accumulé ne correspondra pas au plus élevé des deux montants suivants : trois périodes de facturation ou 500 $. Le montant accumulé me sera remis dans le mois qui suivra le jour où je renoncerai au parcours. Toutefois, le Chronicle Journal est autorisé à imputer toute partie du montant accumulé à tout solde impayé que je devrai lorsque je cesserai d’effectuer le parcours. Je reconnais en outre que, si mon revenu annuel tiré de toutes sources est supérieur à 30 000 $, je serai tenu de verser la taxe sur les produits et services sur les ventes qui auront été conclues.
+La pièce R‑1, onglet 13, comprend les conditions de l’entente, lesquelles se passent de commentaires. Ces conditions prévoient que :
+· L’intéressé doit présenter une demande pour obtenir un parcours.
+· L’intéressé décide du moment où les journaux sont livrés.
+· L’intéressé fixe ses propres heures de travail.
+· L’intéressé achète les journaux, qui lui sont ensuite facturés.
+· L’intéressé utilise ses propres instruments de travail pour livrer les journaux.
+· L’intéressé recouvre l’argent des clients ou les clients peuvent payer le journal directement.
+[5] Je me reporterai également au document intitulé [traduction] « Manuel de renseignements à l’intention du livreur » (pièce R‑1, onglet 10), qui est lui aussi rédigé en termes fort simples de manière à ce que les adultes et les adolescents puissent comprendre ce à quoi ils s’engagent s’ils acceptent de travailler comme livreurs. À la page 10 figurent quatre calculs simples indiquant comment le livreur peut déterminer ce qu’il gagne; il s’agit des calculs suivants :
+Vous recouvrez de chaque
+client aux deux semaines………………………………….….8,10 $
+Vous devez payer un prix de
+gros pour ces journaux
+(4007 x 14 jours)……………………………………………..5,61 $
+TPS à 7 p. 100 exigée
+sur votre prix de détail
+pour les journaux (0,5407 x 14 jours x 7%)…………….……0,53 $
+Votre bénéfice, par client, pour chaque période
+de recouvrement de deux semaines………….………………1,96 $
+[6] Pour chaque client, le livreur recouvre 8,10 $ aux deux semaines. De toute évidence, ce montant change si le prix du journal change, mais tel était le montant utilisé pendant la période en cause. Un prix de gros est exigé du livreur pour les journaux, soit environ 40 cents l’exemplaire, ce qui est indiqué comme représentant 5,61 $ pour 14 jours. La TPS, de 53 cents par journal, est ensuite exigée. Par conséquent, le montant de 5,61 $ que le livreur doit verser au journal, avec la TPS de 53 cents, est le prix de gros. Si nous déduisons ce montant, (6,14 $) du montant de 8,10 $, le livreur gagne 1,96 $ par journal sur une période de deux semaines. Puis, il y a un calcul selon lequel, en pratique, si le livreur compte 40 clients sur une période de deux semaines, soit un parcours à peu près normal pour un garçon ou une fille de 12 à 16 ans qui gagne 1,96 $ par client, le livreur fait un bénéfice de 78,40 $. Telle est l’idée clairement exprimée dans le manuel, laquelle s’applique à tous les livreurs, qu’il s’agisse d’un adulte comme l’appelant ou d’une personne plus jeune. Toutefois, si le livreur est âgé de moins de 18 ans, l’entente concernant le livreur comporte une disposition voulant que le père ou la mère, ou le tuteur, doive approuver le contrat.
+[7] Je ferai également certaines remarques au sujet du formulaire de facturation produit sous la cote R‑1, onglet 20. M. Brown, pour le compte du journal, a donné une description utile de la facture qui s’appliquait au parcours 1227. En fait, M. Brown a indiqué les frais et crédits ainsi qu’un montant reporté d’une facture précédente de 35,09 $. Il y avait des frais de trois dollars que le livreur paie au cours des premiers mois où il travaille pour créer ce qui est appelé un cautionnement, qui est en fait une garantie de 400 $ détenue en fiducie par le journal pour le compte du livreur, de sorte que lorsque la relation avec le journal prend fin, ce montant peut au besoin être affecté à tout montant que le livreur doit au journal, ou remis au livreur qui ne doit rien.
+[8] Il y a une facturation pour les journaux, indiquant 560 journaux sur une période de deux semaines pour 40 clients, des frais pour la TPS (23,29 $) et ensuite un crédit pour les clients qui ne paient pas le livreur. Un grand nombre de clients veulent que le journal leur envoie la facture directement, et il arrive qu’ils effectuent leurs paiements tous les trois ou six mois, ou encore un fois l’an. Ces clients ne paient pas le livreur parce qu’ils estiment qu’il est plus pratique de payer le journal directement. Par conséquent, le livreur n’a pas à acheter et à payer les 40 journaux chaque jour puisque certains clients paient directement le journal. Le livreur se voit donc accorder un crédit, qui est ainsi décrit dans la facture :
+[traduction]
+PIO quotidien Chronicle Journal 26.
+Cette comptabilité semble compliquée, mais cela n’est pas mon domaine. Étant donné que le journal compte de 700 à 1 000 livreurs, dont 600 dans la région de Thunder Bay, ainsi qu’environ 300 livreurs dans les villes où le journal est livré, comme Kenora, Geraldton, Fort Francis et Dryden, il s’agit d’une méthode éprouvée pour le journal.
+[9] À mon avis, la facture est importante aux fins du règlement des présents appels parce qu’elle décrit la relation financière existant entre l’appelant et le journal : le livreur est un intermédiaire. En effet, le livreur achète en gros et vend au détail, et c’est ainsi que le fournisseur le traite, à savoir comme un acheteur du produit et un vendeur au détail. Le livreur doit également rendre compte du produit au fournisseur et, de fait, tel est le libellé utilisé dans le manuel du livreur, onglet 10, dont il a ci‑dessus été fait mention :
+[traduction]
+Vous recouvrez de chaque client aux deux semaines [...] – Vous devez payer un prix de gros –
+Par conséquent, le livreur est clairement un grossiste, et la TPS est exigée de lui au taux demandé au client.
+[10] Si je juxtapose les mots [traduction] « comment calculer votre bénéfice » et la façon dont fonctionne la facturation, telle que l’a décrite M. Brown, le livreur est fondamentalement un intermédiaire. Je conclus donc que le livreur ne peut pas être un employé parce qu’il a créé une entreprise qui lui est propre. De fait, si nous supposons qu’un livreur livre des journaux à 40 clients, et qu’aucun de ceux‑ci ne paie le journal directement, le livreur fera un bénéfice ou atteindra le seuil de rentabilité selon qu’il réussit ou non à recouvrer son argent, en s’assurant qu’il le recueille auprès des clients, qu’il paie le journal et qu’il conserve le produit, qui est pour lui un produit net. Le livreur est dans un certain sens un entrepreneur.
+[11] Le livreur qui est efficace, qui talonne les clients pour recouvrer l’argent et qui élimine les clients qui ne paient pas prend le genre de décision, au sujet des bénéfices et des pertes, que toute personne qui exploite une entreprise doit prendre pour survivre. Le livreur doit s’assurer qu’il recouvre l’argent des clients qui sont en mesure de payer et qui vont payer, de façon à avoir à sa disposition le produit de la vente afin de payer le journal qui lui fournit le produit.
+[12] En ce qui concerne la preuve, le fait que l’avocat de l’intervenante, le journal, a interrogé l’appelant et lui a fait examiner la réponse à l’avis d’appel et l’avis d’intervention est révélateur. L’avocat a expressément traité des hypothèses de fait sur lesquelles le ministre s’était fondé dans la réponse, ainsi que des allégations de fait que le Chronicle Journal avait énoncées dans son avis d’intervention. Dans presque tous les cas, l’appelant a convenu avec Me Bickford de l’exactitude des faits énoncés dans les deux documents. À mon avis, le fait le plus important était que le livreur pouvait demander à quelqu’un d’autre de faire le travail, à condition que les journaux soient livrés avant 8 h. C’était la seule condition imposée par le journal.
+[13] Comme M. Brown l’a dit, aucune supervision n’était exercée sur les livreurs, et on ne leur donnait pas d’instructions. La seule condition était qu’ils devaient livrer le journal à l’adresse de l’abonné avant 8 h. Aucune formation n’était assurée et aucun instrument de travail, mis à part un sac en grosse toile que l’appelant a décidé de ne pas utiliser, n’était fourni. M. Brown a affirmé que la plupart des livreurs étaient des jeunes, mais qu’il y avait également un grand nombre de livreurs adultes. Par conséquent, le fait que l’on ne donnait pas d’instructions est une chose. D’autre part, le journal n’enregistrait pas le nombre d’heures effectuées. Le journal n’a pas la moindre idée du temps qu’il faut à un livreur particulier pour effectuer les livraisons sur son parcours. En outre, il importe peu au journal qu’un livreur livre en même temps d’autres journaux, et peut‑être le journal d’un concurrent, dans la mesure où le Chronicle Journal est livré avant 8 h et où le livreur réussit à recouvrer l’argent des clients afin de faire un bénéfice.
+[14] En ce qui concerne le critère que l’on utilise pour savoir si on est en présence d’un employé ou d’un entrepreneur indépendant, il est souvent question du contrôle, de la propriété des instruments de travail, de l’intégration du travail aux activités du payeur, ainsi que des chances de bénéfice ou des risques de perte. L’avocat de l’intervenante m’a renvoyé à l’arrêt bien connu de la Cour suprême du Canada, 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, où le juge Major a donné une liste de critères qui étaient en fait tirés de l’arrêt rendu par la Cour d’appel fédérale dans l’affaire Wiebe Door Services Ltd. c. M.N.R., 87 DTC 5025. Il s’agit des critères habituels. Cependant, en deux mots, si j’applique ces critères au livreur ici en cause, je constate qu’ils militent tous en faveur d’une relation avec un entrepreneur indépendant, et qu’ils n’indiquent jamais l’existence d’un emploi. Je vais brièvement examiner ces critères.
+[15] En ce qui concerne le contrôle, le Chronicle Journal n’exerce aucun contrôle sur le livreur quant à la façon dont celui‑ci livre les journaux ou quant au moment où celui‑ci livre les journaux, à condition qu’il le fasse avant 8 h. Aucun instrument de travail n’est ici en cause, si ce n’est que le journal fournit un sac en grosse toile, que le livreur peut utiliser s’il le juge pratique. Certaines personnes effectuent la livraison en voiture à 3 ou 4 h, alors que d’autres livrent le journal en tirant un chariot, mais on ne saurait dire qu’un instrument de travail important est en cause.
+[16] Les activités du livreur ne sont pas intégrées à celles du journal. M. Brown a donné une brève description de ce que le Chronicle Journal fait, de la façon dont les nouvelles sont recueillies et assemblées, ainsi que de la façon dont le journal est préparé, imprimé, mis dans des camions et livré aux endroits où se trouvent les livreurs. Telles sont les activités de ce journal. La facture qui figure à l’onglet 20 décrit les activités du livreur. Le livreur achète les journaux du Chronicle Journal, il les emporte, il les livre à ses clients et il recouvre l’argent des clients. Je crois qu’il s’agit d’activités tout à fait distinctes, et on ne saurait dire que les activités du livreur sont intégrées à celles du journal.
+[17] Enfin, il y a la question des chances de bénéfice et des risques de perte, dont il a déjà été fait mention. La facture montre clairement que si le livreur est efficace, s’il a de la chance et s’il a des clients réguliers qui honorent leurs dettes et qui paient, il peut y avoir un flux régulier de revenu permettant au livreur de faire un bénéfice. Si le livreur n’a pas de chance et si les gens n’acquittent pas leurs dettes et ne respectent pas les obligations qu’ils ont envers le livreur, le livreur fait face à des problèmes. Le livreur qui n’est pas assez ferme pourrait en fin de compte perdre de l’argent. Cependant, c’est ce qui arrive dans de nombreuses entreprises si le vendeur a des clients qui attendent trop longtemps avant de payer et que les comptes clients s’accumulent.
+[18] Par conséquent, il y a en l’espèce un élément d’entrepreneuriat qui est évoqué dans l’arrêt Sagaz, précité, élément donnant lieu à des chances de bénéfice et à des risques de perte. À mon avis, cela représente la situation dans laquelle le livreur se trouve. Je conclus donc que la décision du ministre est tout à fait étayée par la preuve et par la loi. J’ai tenu compte d’une décision rendue par le juge Porter, de la Cour, dans l’affaire Thomson Canada Ltd. (s/n Winnipeg Free Press) c. Canada (Ministre du Revenu national), [2001] A.C.I. no 374. La question dont le juge Porter était saisi était de savoir si un livreur qui livrait des journaux et des encarts était un employé ou un entrepreneur indépendant. En décidant que le travailleur n’était pas un employé, le juge Porter a tiré une conclusion semblable à celle que je tire en l’espèce.
+[19] L’affaire est tout à fait claire. Je regrette d’avoir à transmettre ce message à l’appelant, mais le résultat du présent appel correspond par ailleurs exactement à celui de l’appel qu’il a interjeté devant le ministère du Travail de l’Ontario, dans lequel il avait présenté une demande en vertu de la Loi sur les normes d’emploi. À l’onglet 13 de la pièce R‑1 figure une décision de l’agent d’enquête qui avait conclu, contrairement aux prétentions de M. Millard, qu’aucun emploi n’était exercé. À la troisième page de cette pièce, sous le titre [traduction] « Conclusions », l’agent d’enquête a tiré la conclusion suivante :
+[traduction]
+Lorsqu’une demande est déposée contre un employeur et que la violation de la Loi sur les normes d’emploi est alléguée, il incombe à l’employeur de prouver qu’il n’a pas enfreint la Loi. Compte tenu des renseignements qui m’ont été fournis, je conclus à l’absence de relation employeur‑employé, et la Loi sur les normes d’emploi ne s’applique donc pas.
+[20] Cette décision ne me lie pas, mais elle est fort convaincante, parce qu’elle a été rendue par une personne autorisée faisant partie d’une institution parallèle, qui essayait de rendre le même genre de décision que celle que la Cour doit rendre en l’espèce, à savoir décider si un emploi est exercé. Je suis conforté par le fait que, lorsque la situation a été soumise à un autre tribunal, soit le gouvernement de l’Ontario, celui‑ci a tiré la même conclusion que celle à laquelle je suis arrivé indépendamment de cette conclusion, eu égard à la preuve présentée devant moi aujourd’hui.
+[21] Par conséquent, je confirme la décision du ministre. L’appel interjeté en vertu de la Loi sur l’assurance‑emploi sera rejeté. Comme je l’ai indiqué ci‑dessus, l’appel fondé sur le Régime de pensions du Canada sera également rejeté.
+Signé à Ottawa, Canada, ce 27e jour de juin 2008.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 11e jour d’août 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008 CCI 353
+No DU DOSSIER DE LA COUR : 2008-132(CPP)
+2008-133(EI)
+INTITULÉ : Keith Millard
+et
+M.R.N. et Continental Newspapers (Canada) Ltd.
+LIEU DE L’AUDIENCE : Thunder Bay (Ontario)
+DATE DE L’AUDIENCE : Le 2 mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 7 mai 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Me Melissa Danish
+Avocat de l’intervenante :
+Me Fred Bickford
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet: s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,114 @@
+Title: Caron v. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27771/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-284-27771-caron-v-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-24
+
+# Caron v. M.R.N.
+
+- Citation: 2005 CCI 284
+- Decision date: 2005-05-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 273, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caron v. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-24
+Référence neutre
+2005 CCI 284
+Numéro de dossier
+2004-3288(EI)
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3288(EI)
+ENTRE :
+JEAN-LUC CARON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 21 février 2005, à Montréal (Québec).
+Devant : L'Honorable juge Gerald J. Rip
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour de mai 2005.
+"Gerald J. Rip"
+Juge Rip
+Référence : 2005CCI284
+Date : 20050524
+Dossier : 2004-3288(EI)
+ENTRE :
+JEAN-LUC CARON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+[1] Il s'agit d'un appel où il faut déterminer si l'appelant, Jean‑Luc Caron (« Jean‑Luc »), exerçait un emploi assurable en vertu des paragraphes 5(1) et 5(3) et de l'alinéa 5(2)i) de la Loi sur l'assurance‑emploi (la « Loi ») dans les périodes du 15 mai 2000 au 27 octobre 2000 et du 15 mai 2001 au 12 octobre 2001, lorsqu'il était au service de 9049‑3214 Québec Inc. (le « payeur »). L’appelant prétend qu’il exerçait un emploi assurable pendant ces périodes. L'Agence des douanes et du revenu du Canada (« ADRC ») a conclu que son emploi n'était pas assurable parce qu'il existait un lien de dépendance entre Jean‑Luc Caron et le payeur : alinéa 5(2)i) de la Loi.
+[2] Il n’est pas contesté que, pendant les périodes en cause, Martin Caron (« Martin »), le frère de Jean‑Luc, était l’actionnaire unique du payeur. Par conséquent, aux fins du présent appel, l’appelant et la personne qui contrôle le payeur sont des personnes liées et le payeur et l’appelant ont entre eux un lien de dépendance.
+[3] Le payeur exploitait sous la dénomination sociale « Paysagiste Nord Est » une entreprise offrant des services de paysagiste, et de déneigement en hiver.
+[4] L'appelant était l'actionnaire unique du payeur quand celui-ci a été constitué en société le 22 avril 1997. Malheureusement, l'appelant a fait faillite le 16 février 1999. Néanmoins, son frère Martin a acheté au syndic les actifs du payeur, dont un tracteur et deux vieilles camionnettes. Martin est aussi devenu le seul actionnaire du payeur.
+[5] Jean-Luc a reconnu qu’il avait travaillé pour le payeur comme paysagiste. Il était rémunéré pour son travail. Il était l’un de trois employés et il supervisait les autres. Il a expliqué que son frère était enseignant et avait besoin d’une personne de confiance qui travaillerait pour le payeur. Jean-Luc lui-même ne pouvait pas être propriétaire du payeur. Il a mentionné un contrat avec la Ville de Mirabel qui stipulait que, si l’entrepreneur commettait un acte de faillite, s’il faisait une proposition concordataire ou s'il devenait insolvable, le contrat serait annulé. Jean-Luc a également dit avoir touché des prestations d’assurance‑emploi dans une année antérieure et s'est plaint en demandant pourquoi le gouvernement a changé d’avis pour ce qui concerne les périodes en cause.
+[6] L’appelant a déclaré que le ministre du Revenu national (« ministre ») a commis une erreur, qu'il ne s’était pas servi d'une camionnette Ford F-350 du payeur pour déneiger; il a dit qu’il n’avait utilisé la camionnette que pendant l’été alors qu’il travaillait pour le payeur, et qu'il ne s'en servait jamais pendant l’hiver. Il a également nié avoir déneigé pour le compte du payeur. Il n’était pas rémunéré l’hiver.
+[7] L’appelant a reconnu qu’il faisait la tenue des livres comptables du payeur et qu’il effectuait des dépôts bancaires pour ce dernier. Toutefois, a-t-il expliqué, il ne consacrait qu’une ou deux heures par semaine à ces tâches. Il a également dit qu’il aidait souvent son frère, sans être payé, et que c'était là une bonne chose à faire pour son frère.
+[8] Enfin, Jean‑Luc a témoigné que quand il travaillait l’été, il faisait 40 heures par semaine et ne bénéficiait d'aucun avantage que les autres employés du payeur n'avaient pas.
+[9] L’avocat de l’intimé a interrogé l’appelant au sujet d’une déclaration qu’il avait faite à un employé de Développement des ressources humaines Canada (« DRHC ») le 11 septembre 2003. L'appelant a déclaré notamment :
+Mon frère ne travaillait pas dans la cie. C'était le bailleur de fonds seulement. En fait, c'était moi qui gérais cette entreprise depuis son ouverture [...] C'est moi qui faisais la tenue de livres, dépôts bancaires. C'est mon frère qui faisait les chèques car je n'avais pas le droit de signer jusqu'à environ 2 ans après ma faillite. [...]
+[10] Au procès, l’appelant a dit qu’on avait usé d'intimidation pour l'amener à signer la déclaration et qu’en fin de compte, il a refusé de signer d’autres documents. L’intimé a également produit des copies de contrats de déneigement, dont certains étaient des renouvellements, pour l’hiver 2000-2001, contrats qui avaient été signés par Jean-Luc pour le compte du payeur.
+[11] Martin a témoigné pour son frère. Il est enseignant. En 1999, a-t-il dit, il n’avait pas obtenu un poste permanent et pensait pouvoir exploiter une petite entreprise pendant son temps libre. Il a donc acheté l’entreprise au syndic de faillite. Il a dit que durant l’hiver il déneigeait lui-même pendant quatre ou cinq heures, si nécessaire, et qu’il n’employait qu’un seul camion.
+[12] Les fonctionnaires de DRHC ont également demandé à Martin de faire une déclaration. Monsieur Guy Dion de DRHC a transcrit la prétendue déclaration de Martin mais ce dernier a refusé de signer; lui aussi a dit qu’il avait été intimidé; il avait l’impression d’être un suspect, se rappelait-il.
+[13] Monsieur Dion, qui a également témoigné, est un enquêteur de DRHC. Il a dit qu’il avait rencontré Jean-Luc à deux reprises et qu’il avait rencontré Martin aussi. Il a insisté pour dire qu’il n’y avait eu aucune intimidation; les gens sont libres de quitter les bureaux de DRHC.
+[14] Monsieur Sylvain Archambault de DRHC était présent avec monsieur Dion au moment où Martin aurait fait sa déclaration. Monsieur Archambault a dit qu'il y avait eu une bonne discussion entre les deux parties et que, même si Martin n’a signé la déclaration, il avait néanmoins dit qu’il acceptait son contenu.
+[15] Selon le brouillon de la déclaration de Martin fait par monsieur Dion, Martin travaillait à plein temps, 40 heures par semaine, comme enseignant. Il a dit qu’il n’avait pas d’employés l’hiver, que la camionnette Ford F-350 du payeur était garée chez Jean-Luc et que ce dernier était en possession du téléphone cellulaire de la compagnie. Au procès, Martin a dit qu'il existait entre les clients de la compagnie et son frère des relations qui se sont maintenues après la faillite de ce dernier.
+[16] Monsieur Dion a préparé un tableau indiquant les chèques déposés par Jean-Luc et les chèques remis par les clients pour les services de déneigement et de paysagiste rendus de janvier 1999 à avril 2002. Ces chèques indiquent que le payeur était actif toute l’année et que Jean-Luc travaillait pour le payeur l'hiver comme l'été.
+[17] Monsieur Dion a également produit des copies de reçus de stations‑service qui révèlent que le payeur utilisait au moins deux camions en février 2001. Par exemple, les reçus indiquent que le plein d’essence a été fait pour un camion à 20 h 41 le 19 février et encore à 21 h 33. Cela ne concorde pas avec le témoignage de Martin selon lequel le payeur n’utilisait qu’un seul camion pour le déneigement. L’ADRC a supposé que Jean-Luc se servait du deuxième camion et je crois qu’elle a eu raison.
+[18] En outre, les commandes et reçus relatifs aux camions, aux réparations du matériel de remorquage et aux achats étaient tous signés par Jean-Luc. Jean-Luc était apparemment responsable de l’entretien des camions et de la machinerie du payeur.
+[19] Le 30 avril 2002, Martin a transféré à Jean‑Luc toutes les actions du payeur sans contrepartie de valeur.
+[20] Dans l’exercice de son pouvoir discrétionnaire en vertu de l’alinéa 5(3)b) de la Loi, le ministre a décidé que, pour les périodes en litige, non seulement l'appelant travaillait pour le payeur, mais il exploitait comme seul propriétaire une entreprise de paysagiste sous la dénomination sociale Multi‑Services des Moulins et il donnait en sous‑traitance au payeur des contrats qu'avaient signés Multi‑Services des Moulins. Il n'y a eu aucune preuve du contraire.
+[21] L’appelant prétend qu’il ne travaillait pas pendant l’hiver et que, par conséquent, il n’était pas payé pendant l'hiver. Je constate que les mois d’hiver ne font pas partie des périodes visées par l’appel. L’intimé déclare que Jean-Luc rendait des services au payeur durant l’hiver sans être inscrit au journal des salaires du payeur.
+[22] Le ministre a conclu qu’une personne non liée avec le payeur n’aurait pas travaillé pour le payeur pendant l’hiver sans être rémunérée.
+[23] Le 8 novembre 2000, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 15 mai 2000 et comme dernier jour de travail le 29 octobre 2000, et faisait état de 960 heures assurables et d'une rémunération assurable de 10 800 $. Le 19 octobre 2001, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 15 mai 2001 et comme dernier jour de travail le 12 octobre 2001, et faisait état de 1 040 heures assurables et d'une rémunération assurable de 11 566 $. Les heures indiquées, dit l'intimé, ne correspondaient pas aux heures réellement travaillées.
+[24] Le ministre a conclu que pour une personne non liée avec le payeur la rémunération, la durée du travail et les modalités d'emploi n'auraient pas été les mêmes que celles de l'appelant.
+[25] Selon moi, le ministre a eu raison de décider que Jean‑Luc était un employé du payeur pendant les périodes en cause mais que sa relation avec celui‑ci n'était pas celle d'un employé sans lien de dépendance au sens de l’alinéa 5(3)b) de la Loi.
+[26] J’ai observé tant Jean‑Luc que Martin. Je doute qu’un fonctionnaire quelconque puisse intimider Jean‑Luc. Son interprétation des événements ne me semble pas exacte; son témoignage contredisait les documents produits au procès. En réalité, il dirigeait la compagnie et les opérations commerciales de celle-ci. Il décidait quand il travaillerait, comment il travaillerait, quand il serait payé et quand il ne le serait pas. D’ailleurs, sauf pour le changement de l’actionnaire inscrit comme propriétaire des actions de la compagnie, apparemment rien n’a changé depuis la faillite de Jean-Luc. En fait, même si cela n’est pas pertinent en l’espèce, l’attitude de Jean-Luc donne à penser que Martin n’agissait que comme prête-nom pour Jean-Luc, afin de permettre à ce dernier de continuer à exploiter l’entreprise après sa faillite. Et le fait que Martin a transféré les actions de la compagnie à Jean-Luc sans contrepartie vient appuyer fortement cette conclusion.
+[27] Il n’y a aucune preuve crédible que le ministre n’a pas exercé régulièrement son pouvoir discrétionnaire en vertu de l’alinéa 5(3)b) ou que la conclusion tirée par lui dans l’exercice de son pouvoir discrétionnaire était erronée.
+[28] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de mai 2005.
+"Gerald J. Rip"
+Juge Rip
+RÉFÉRENCE : 2005CCI284
+Nº DU DOSSIER DE LA COUR : 2004-3288(EI)
+INTITULÉ DE LA CAUSE : Jean-Luc Caron c. M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 21 février 2005
+MOTIFS DU JUGEMENT PAR : Gerald J. Rip
+DATE DU JUGEMENT : le 24e mai 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,308 @@
+---
+title: "Leriche c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30611/index.do"
+last_modified: "2010-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 416"
+citation2: ""
+neutral_citation: "2010 CCI 416"
+decision_date: "2010-08-23"
+language: "fr"
+item_id: "30611"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7138
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:38:37.610000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fcf58e70419039a96cbba3063a7af55eab019df2744c9213912d2bfc91a089e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Leriche c. La Reine
+
+- Citation: 2010 CCI 416
+- Decision date: 2010-08-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7138, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leriche c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-23
+Référence neutre
+2010 CCI 416
+Numéro de dossier
+2007-3170(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3170(IT)G
+ENTRE :
+GORDON LERICHE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 2, 3 et 4 septembre 2009 à Toronto (Ontario),
+et le 10 novembre 2009 à Ottawa (Ontario).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Jeffrey Radnoff
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2003 est accueilli avec dépens adjugés à l’appelant. La nouvelle cotisation, datée du 28 décembre 2005, est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant avait le droit, en vertu de l’alinéa 8(1)f) de la Loi, de déduire 77 630 $ de son revenu imposable pour l’année d’imposition 2003.
+Signé à Antigonish (Nouvelle-Écosse), ce 23e jour d’août 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 23e jour de novembre 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 416
+Date : 20100823
+Dossier : 2007-3170(IT)G
+ENTRE :
+GORDON LERICHE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge D’Arcy
+[1] Il s’agit de déterminer, en l’espèce, la déductibilité, en vertu de l’alinéa 8(1)f) de la Loi de l’impôt sur le revenu (la « Loi »), de certaines dépenses engagées par l’appelant, en tant que vendeur à commission.
+[2] L’appelant, qui a commencé à vendre de l’assurance il y a plus de 40 ans, est un spécialiste chevronné en matière d’assurance chez CIBC Wood Gundy. Il est titulaire d’un grade de l’Université Sir-George-Williams (l’actuelle Université Concordia) et il détient plusieurs titres professionnels (assureur‑vie agréé [AVA], planificateur financier accrédité « certified financial planner »[CFP], conseiller financier agréé [CFA], et expert en fiducies et successions « trust and estate practitioner » [TEP]).
+[3] Au début de sa carrière, en 1969, l’appelant vendait de l’assurance à la London Life à Montréal. Il a exploité des maisons de courtage indépendantes entre 1975 et 1990, année où il s’est joint à la société d’avantages sociaux pour employés KRG Insurance. En 1998, il a été recruté par Midland Walwyn, que Merrill Lynch a acquise à la fin de cette année. À la fin de 2001, Merrill Lynch a vendu les opérations de vente au détail de Midland Walwyn à l’employeur actuel de l’appelant, CIBC Wood Gundy.
+[4] En 2003, l’appelant s’acquittait d’importantes fonctions à la CIBC Wood Gundy, notamment la prestation de conseils en planification successorale à la clientèle de la société dans les succursales de Simcoe, de St. Catharines, de Hamilton, de Burlington et de Mississauga (deux succursales). Il offrait aussi un soutien en planification successorale aux 67 conseillers en placements dans ces succursales.
+[5] De plus, l’appelant assurait la gestion de sept ou huit spécialistes en planification successorale dans les succursales de la CIBC Wood Gundy à London, à Toronto (trois succursales), à Mississauga, à Barrie et à Brampton.
+[6] L’appelant et trois adjointes voyaient à la bonne marche des activités de ce dernier dans des bureaux de la CIBC Wood Gundy à Mississauga.
+[7] L’intimée a affirmé que les trois adjointes étaient employées par la CIBC Wood Gundy, mais l’appelant a témoigné que la CIBC Wood Gundy employait une des adjointes seulement (Mme Stevens) et qu’il employait les deux autres (Mme Werner et son épouse, Mme LeRiche). Je retiens le témoignage de l’appelant. L’appelant employait Mmes Werner et LeRiche, et la CIBC Wood Gundy voyait uniquement à l’administration de la paie pour le compte de l’appelant[1].
+[8] Il semble qu’en déclarant, sur le feuillet T4, le revenu de M. LeRiche après déduction des sommes versées à Mmes Werner et LeRiche, la CIBC Wood Gundy a omis d’inclure ces sommes dans le revenu de commissions brut de l’appelant[2]. Comme je l’expliquerai ci-après, l’erreur n’a aucune incidence sur ma décision.
+[9] Lorsqu’il a produit sa déclaration de revenus pour l’année d’imposition 2003, l’appelant a déclaré un revenu de commissions de 119 957,07 $ et déduit des dépenses d’emploi de 108 193,30 $[3].
+[10] Le ministre du Revenu national (le « ministre ») a établi la nouvelle cotisation de l’appelant le 28 décembre 2005, dans laquelle il a réduit à 34 526 $ le montant des dépenses d’emploi déductibles. Le ministre a ratifié la nouvelle cotisation dans l’avis de ratification du 18 avril 2007, dont l’appelant a interjeté appel.
+[11] À l’audience, l’appelant a présenté plus de 140 documents pour justifier la quasi-totalité des montants déduits dans sa déclaration de revenus. Pendant les trois jours qu’ont duré l’interrogatoire principal et le contre-interrogatoire, les témoins ont examiné, dans les moindres détails, presque toutes les pièces.
+Le droit
+[12] En application du paragraphe 8(2) de la Loi, un employé a seulement le droit de déduire de son revenu d’emploi les dépenses dont la déduction est expressément autorisée à l’article 8[4].
+[13] L’alinéa 8(1)f) autorise la déduction de certaines dépenses engagées par les vendeurs à commission et porte ce qui suit :
+8(1)f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous‑alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous-alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+[14] La disposition autorise la déduction des dépenses admissibles lorsque les cinq conditions suivantes sont réunies :
+1. Le contribuable était employé au cours de l’année pour vendre des biens ou négocier des contrats pour son employeur.
+2. Il était tenu, aux termes de son contrat, d’acquitter ses propres dépenses.
+3. Il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur.
+4. Sa rémunération consistait en tout ou en partie en commissions.
+5. Il ne recevait pas d’allocation non imposable pour ses frais de déplacement en vertu du sous-alinéa 6(1)b)(v).
+[15] Dans son plaidoyer final, l’avocate de l’intimée a fait remarquer que, durant l’année d’imposition 2003, l’appelant satisfaisait aux cinq conditions. La Déclaration des conditions de travail, remplie par l’employeur de l’appelant et déposée par l’intimée, étaye cette conclusion[5]. Il y est indiqué que l’appelant devait acquitter ses propres frais, travailler hors des locaux de l’employeur, aménager un bureau dans son domicile, acquitter des dépenses pour lesquelles il ne recevait pas d’allocation ni de remboursement (fournitures, matériel informatique, dépenses en personnel), rémunérer une adjointe et payer des fournitures utilisées directement pour exercer ses fonctions. Il y est aussi indiqué que la CIBC Wood Gundy versait une commission à l’appelant selon le volume des ventes effectuées ou les contrats négociés.
+[16] Il ressort clairement de la preuve que l’appelant remplissait toutes les conditions énoncées à l’alinéa 8(1)f). Je dois maintenant déterminer si les dépenses en l’espèce sont déductibles en vertu de l’alinéa 8(1)f).
+[17] Une dépense peut seulement être déductible, en application de l’alinéa 8(1)f), si elle a été engagée au cours de l’année par le contribuable pour gagner un revenu d’emploi et qu’elle n’était pas :
+· une dépense, une perte ou un remplacement de capital ou un paiement au titre du capital (à l’exception des frais déductibles afférents à un véhicule à moteur ou à un aéronef en vertu de l’alinéa 8(1)j));
+· une dépense non déductible en application de l’aliéna 18(1)l) (dépenses relatives aux loisirs);
+· une somme décrite au sous-alinéa 8(1)f)(vii) relative aux frais pour droit d’usage d’une automobile énoncés à l’alinéa 6(1)e);
+· déraisonnable dans les circonstances[6].
+[18] L’alinéa 8(1)f) limite le montant total à déduire du revenu de commissions touché au cours de l’année.
+[19] Pour déterminer si une dépense est déductible en application de l’alinéa 8(1)f), il faut d’abord appliquer le critère de l’objet visé, à savoir si la somme a été engagée par le contribuable pour gagner un revenu provenant de son emploi.
+[20] Invariablement, les tribunaux ont reconnu que le critère de l’objet de l’alinéa 8(1)f) est similaire à celui de l’alinéa 18(1)a), soit de savoir si une dépense a été engagée ou effectuée par le contribuable pour tirer un revenu de l’entreprise ou du bien. Comme l’a souligné la Cour d’appel fédérale dans Verrier v. M.N.R.[7] :
+[traduction]
+L’objet de cette disposition est évident. Le contribuable qui compte entièrement sur des commissions qui sont directement liées au volume de ses ventes et qui ne peut demander le remboursement de ses frais à son employeur est, à de nombreux égards pertinents pour l’économie générale de la Loi de l’impôt sur le revenu, plus assimilable à un travailleur indépendant qu’à un employé salarié ordinaire.
+[21] Cela ne signifie pas que les critères utilisés pour déterminer la déductibilité des dépenses d’un employé à commission admissible sont identiques à ceux servant à déterminer la déductibilité des dépenses d’entreprise. Comme l’a souligné la Cour suprême dans l’arrêt Symes[8], la déduction de ces dépenses est autorisée en application du paragraphe 9(1); les dispositions du paragraphe 18(1) sont de nature restrictive seulement[9].
+[22] Quoi qu'il en soit, l’alinéa 8(1)f) autorise la déduction de certaines dépenses assumées par un vendeur à commission. Cet alinéa ne renferme pas de critère de bénéfice. Le seul critère est celui de l’objet de l’alinéa 8(1)f), à savoir si les sommes ont été engagées par le contribuable au cours de l’année pour gagner un revenu provenant de son emploi.
+[23] Même si, hypothétiquement, il peut y avoir des différences entre la détermination de la déductibilité des dépenses d’entreprise et de celles d’un vendeur à commission, à toutes fins utiles, les différences ne sont pas appréciables.
+[24] Pour déterminer si une dépense satisfait au critère de l’objet de l’alinéa 8(1)f), la Cour s’inspire des propos suivants du juge Iacobucci dans l’arrêt Symes[10] :
+Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances. C’est pourquoi il n’est pas possible de formuler une liste fixe de circonstances qui permettront de prouver d’une façon objective que le contribuable visait à tirer un revenu ou à faire produire un revenu [...]
+[25] Il faut, premièrement, pour l’application du critère de l’objet de l’alinéa 8(1)f), établir les dépenses personnelles. Dans la majorité des cas, si une dépense en litige n’est pas de nature personnelle, on peut conclure qu’elle a été engagée pour gagner un revenu de commissions, mais cela n’est pas toujours le cas. À titre d’exemple, en l’espèce, l’appelant a engagé des dépenses non personnelles pour le compte d’autres employés de la CIBC Wood Gundy. Il ne les a donc pas engagées pour gagner un revenu d’emploi.
+[26] Pour établir la cotisation de l’appelant, le ministre a distingué 16 catégories de dépenses et a rejeté tout ou partie des dépenses déduites par l’appelant dans six de celles-ci. La déduction de ces dépenses a été rejetée pour l’une ou l’autre des raisons suivantes : les dépenses n’ont pas été engagées pour tirer un revenu d’un emploi, elles ont été effectuées au titre du capital ou elles n’étaient pas raisonnables dans les circonstances.
+[27] Je vais maintenant examiner chacune des six catégories de dépenses en litige.
+Publicité et promotion
+[28] Le montant en litige est de 7 610 $ et est calculé comme suit :
+Montant déduit par l’appelant
+12 647 $[11]
+Moins :
+Montant admis après la vérification
+(2 989)[12]
+Montant convenu par l’intimée à l’audience
+(2 048)[13]
+Montant en litige
+7 610 $
+[29] L’appelant a produit environ 100 reçus pour justifier la déduction de 6 657,02 $ en dépenses déclarées inadmissibles par le ministre[14]. L’avocat de l’appelant a présenté à la Cour une feuille de calcul où les reçus étaient regroupés selon les catégories de dépenses suivantes, désignées sous le vocable de « relations » : conseillers en placements (la plus importante), clients, clients actuels et clients éventuels, collègues, personnel du siège social, fournisseurs de l’assureur, personnel de bureau, clients éventuels, employés, employés et clients, et alliances stratégiques[15].
+[30] À l’audience, l’intimée a admis la déduction de 2 047,70 $[16] à l’égard des dépenses inscrites dans la feuille de calcul, laquelle correspondait au total des reçus présentés pour les frais de promotion engagés relativement aux clients, aux clients éventuels et aux alliances stratégiques.
+[31] De l’avis de l’intimée, les autres dépenses dans la feuille de calcul (4 609 $)[17] n’étaient pas déductibles. Il s’agissait de dépenses principalement engagées au titre des conseillers en placements et du personnel. L’intimée a refusé d’accorder les déductions au motif que l’appelant pouvait [traduction] « seulement déduire les frais de publicité et de promotion pour des articles donnés aux clients actuels et éventuels. Les cadeaux à des employés, à des covendeurs, à des collègues ainsi qu’à des membres de la famille ne sont pas admissibles. Comme lui, les conseillers en placements, avec lesquels l’appelant partage les commissions, sont des employés de la CIBC World Markets et ne peuvent pas être considérés comme des clients »[18]. L’avocate de l’intimée a soutenu qu’il n’était pas raisonnable que l’appelant déduise des dépenses relatives à son personnel ou aux conseillers en placements ou qu’il engage de frais promotionnels relativement à ces derniers étant donné qu’ils pouvaient seulement aiguiller des clients vers les conseillers en assurance de la CIBC.
+[32] La preuve produite à l’audience n’appuie pas la position de l’intimée.
+[33] Les conseillers en placements de la CIBC ont souvent aiguillé des clients vers l’appelant. De fait, ils représentaient une importante source d’affaires pour ce dernier. Il se peut que ces conseillers aient été tenus d’aiguiller des clients vers les conseillers en assurance de la CIBC; quoi qu'il en soit, l’appelant n’était pas le seul conseiller en assurance de la CIBC. Il était en concurrence avec les autres conseillers en assurance de la société pour les affaires des conseillers en placements. De plus, l’appelant a affirmé que, par le passé, la majorité des conseillers en placements ne faisaient pas appel à des conseillers en planification successorale. Par conséquent, il lui importait de rencontrer les conseillers en placements pour leur expliquer les services et les produits qu’il pouvait offrir à leurs clients.
+[34] Durant son témoignage, Mme Power, conseillère en placements de la CIBC, a expliqué qu’il était important pour l’appelant d’entreprendre des démarches auprès des conseillers en placements pour les informer des produits d’assurance qu’il vendait et des services qu’il pouvait offrir à leurs clients.
+[35] En ce qui concerne les employées de l’appelant, il ressort clairement de la preuve, particulièrement du témoignage de ce dernier, qu’elles jouaient un rôle crucial dans ses activités. Elles géraient son bureau, s’occupaient de ses clients et exerçaient de nombreuses fonctions administratives.
+[36] Après avoir examiné la preuve, surtout les témoignages de l’appelant et de Mme Power, il est évident, à mon avis, qu’il a engagé les dépenses figurant dans la pièce A-6 en vue de gagner un revenu de commissions dans le cadre de son emploi. Les dépenses relatives aux conseillers en placements de la CIBC et au personnel de l’appelant ont servi à maintenir et à augmenter son revenu de commissions. Elles satisfont donc au critère de l’objet de l’alinéa 8(1)f). Les montants indiqués étaient déductibles à la fois parce qu’ils étaient raisonnables et qu’ils n’étaient pas des dépenses en capital. Bref, l’appelant pouvait déduire 4 609 $ du montant en litige.
+Hébergement
+[37] Le montant en litige est de 2 481 $[19], soit la différence entre le montant déduit par l’appelant (3 509 $) et celui admis pendant la vérification. L’appelant a déposé des reçus[20] et a livré un témoignage à l’appui de sa position selon laquelle il pouvait déduire 1 639,44 $ à l’égard du montant en litige.
+[38] Je suis d’accord avec l’avocate de l’intimée pour dire que les frais d’hébergement aux hôtels Marriott et Holiday Inn à Montréal étaient essentiellement des dépenses personnelles. Il est question de la déductibilité des frais engagés à l’hôtel Westin-Prince sous la rubrique Formation.
+[39] L’autre élément concerne les frais d’hébergement au Westin-Harbour-Castle, à Toronto. L’appelant a engagé des frais de 332,64 $ pour assister à la conférence d’affaires nationale de la CIBC. Par conséquent, ces frais ont été engagés dans le cadre de ses activités de planification successorale et sont déductibles en application de l’alinéa 8(1)f).
+Fournitures
+[40] Le montant en litige est de 12 895 $, soit le montant dont l’appelant a demandé la déduction dans sa déclaration de revenus[21].
+[41] Dans ses observations finales, l’avocate de l’intimée a avancé que cette somme n’était pas déductible parce que la CIBC Wood Gundy fournissait des fournitures à l’appelant et que c’était lui qui avait choisi d’acheter d’autres fournitures parce qu’il n’aimait pas celles de la société. Subsidiairement, elle a soutenu qu’un certain nombre de dépenses étaient au titre du capital.
+[42] L’appelant a produit des reçus totalisant 10 401 $ relativement aux dépenses en litige[22]. Les reçus se rapportaient à environ 35 dépenses différentes, dont certaines de moins de 100 $. Dans son témoignage, l’appelant a expliqué la nature de chacune des dépenses et les raisons pour lesquelles il les avait engagées.
+[43] Comme susmentionné, l’application du critère de l’objet de l’aliéna 8(1)f) doit être fondée sur des facteurs objectifs. D’ailleurs, la Cour ne doit pas remettre en question le jugement du contribuable sur le plan commercial. Comme l’a observé l’ancien juge en chef Bowman dans la décision Nichol[23], la Cour, qui dispose du recul nécessaire, ne doit pas substituer son jugement à celui du contribuable. L’appelant a décidé qu’il avait besoin de fournitures supplémentaires, en plus de celles fournies par la CIBC Wood Gundy, pour exercer efficacement ses activités. Il s’agit d’une décision d’affaires et non d’une erreur de jugement déraisonnable qui inciterait la Cour à remettre en question le jugement de l’appelant sur le plan commercial.
+[44] Après avoir examiné chacune des factures et pris en compte le témoignage de l’appelant, j’ai conclu qu’il a engagé chaque dépense, à l’exclusion de deux dépenses personnelles totalisant 441,60 $[24], en vue de tirer un revenu de commissions dans le cadre de son emploi.
+[45] Toutefois, j’estime que les dépenses se chiffrant à 4 453 $ effectuées pour l’achat de matériel et de logiciels, d’une imprimante laser et d’un projecteur étaient des dépenses en capital et qu’elles n’étaient donc pas déductibles en application de l’alinéa 8(1)f).
+[46] Bref, l’appelant avait le droit de déduire 5 506 $ en ce qui concerne les dépenses inscrites aux dernières pages de la pièce A-8 sous la rubrique Fournitures.
+Formation
+[47] Le montant en litige est de 10 642 $, soit la différence entre le montant déduit par l’appelant (11 035 $)[25] et celui dont a convenu l’intimée à l’audience (393 $)[26].
+[48] On peut répartir les montants en litige relativement aux frais de formation dans les catégories suivantes :
+· Perfectionnement personnel de l’appelant (Accompagnement professionnel stratégique et vision d’entreprise « Strategic Coach and Corporate Vision ») – 8 079 $[27]
+· Livres et cédéroms – 362 $[28]
+· Frais payés à des organismes professionnels (incluant des séminaires et une formation en informatique) – 2 512 $[29].
+[49] Premièrement, je dois déterminer si des dépenses ont été effectuées au titre du capital.
+[50] Par le passé, la Cour a reconnu[30] que les principes généraux à appliquer pour déterminer si des frais de formation sont des dépenses en capital ou non sont décrits correctement dans le Bulletin d’interprétation IT-357R2[31], dont le paragraphe suivant résume les principes :
+Les frais de formation ne sont pas déductibles comme frais courants s’ils constituent des dépenses en capital. On considère qu’il s’agit de dépenses en capital lorsque la formation procure un avantage durable pour le contribuable, c’est-à-dire lorsqu’une nouvelle compétence ou un nouveau titre est acquis. Par contre, on ne considère pas que les frais de formation sont des dépenses en immobilisations lorsqu’ils n’ont été engagés que pour conserver, mettre à jour ou améliorer une compétence ou un titre existant.
+[51] Après avoir examiné le témoignage de l’appelant et la preuve documentaire devant la Cour, je suis parvenu aux conclusions suivantes au sujet des montants en litige :
+· L’appelant a suivi les cours de perfectionnement personnel pour apprendre à utiliser de nouveaux systèmes et acquérir des compétences afin d’améliorer ses techniques de présentation, sa gestion du temps et ses habiletés en expression orale. Ainsi, grâce à ces cours, il a acquis des aptitudes durables. Par conséquent, ces dépenses étaient considérées comme des dépenses en capital et n’étaient pas déductibles.
+· Les dépenses restantes ont été engagées pour maintenir, améliorer ou mettre à jour les compétences existantes de l’appelant ou de son personnel ou constituaient des frais promotionnels. Les livres et les cédéroms ont été achetés soit pour améliorer les compétences en affaires générales de l’appelant, soit en guise de cadeaux pour des clients. Les montants versés aux organismes professionnels pour le compte de l’appelant et de son personnel se rapportaient à une formation en informatique et à divers séminaires visant à améliorer leurs connaissances des questions liées à la planification successorale pour les personnes âgées. Aucune de ces dépenses n’a été effectuée au titre du capital et elles ont toutes été engagées pour gagner un revenu de commissions dans le cadre de l’emploi de l’appelant. Elles sont donc déductibles.
+[52] Bref, je conclus que l’appelant avait le droit de déduire 2 874 $ du montant en litige.
+Location de matériel
+[53] La somme faisant l’objet du litige est de 16 819 $, c’est-à-dire la différence entre le montant déduit par l’appelant (25 417 $)[32] et celui dont a convenu l’intimée à l’audience (8 598 $)[33].
+[54] Cette somme se rapporte à la location par l’appelant de diverses choses, comme des ordinateurs, des serveurs, du matériel audiovisuel, des appareils photo, des imprimantes et des agendas électroniques.
+[55] Après avoir établi la nouvelle cotisation, le ministre a refusé d’accorder la déduction demandée pour tous les paiements de location. À l’audience, l’intimée a consenti à la déduction de paiements de location totalisant 8 598 $, lesquels paiements figurent dans la convention de location produite à l’onglet 4 de la pièce A-3. Dans son plaidoyer final, l’avocate de l’intimée a fait valoir que les paiements de location dans les autres conventions n’étaient pas déductibles étant donné qu’ils concernaient du matériel en double, qu’ils n’étaient pas raisonnables et qu’ils n’avaient pas été effectués pour gagner un revenu de commissions.
+[56] Je ne peux retenir cet argument. Je crois que l’avocate, en invoquant le « caractère raisonnable », me demande encore une fois de substituer mon jugement à celui de l’appelant. Comme je l’ai mentionné précédemment, là n’est pas le rôle de la Cour, à moins qu’une erreur de jugement déraisonnable n’ait été commise, ce qui n’est pas le cas en l’espèce.
+[57] L’appelant a fourni des copies des conventions de location en cause[34] et, dans son témoignage, a décrit le matériel loué, en a précisé l’utilisateur et a expliqué la raison pour laquelle chaque article avait été loué.
+[58] L’appelant a confirmé que la CIBC lui fournissait du matériel (ordinateur de bureau, téléphone et accès à une imprimante réseau). Il a cependant affirmé que ce matériel ne répondait pas à ses besoins ni à ceux de ses employées. C’est pourquoi il a loué le matériel supplémentaire, dont des ordinateurs portatifs, des imprimantes locales, des projecteurs, des écrans, des télécopieurs et des serveurs.
+[59] Après examen de la preuve, j’ai tiré les conclusions suivantes au sujet des conventions de location faisant l’objet du litige :
+· Convention à l’onglet 1 de la pièce A-3 : Aucune somme supplémentaire dans cette convention n’était déductible par l’appelant. Il n’existe pas de preuve qu’il a utilisé le matériel loué pour exercer ses activités. Le matériel avait surtout été utilisé par d’autres employés de la CIBC, qui travaillaient auparavant avec l’appelant.
+· Convention à l’onglet 2 de la pièce A-3 : L’appelant pouvait déduire les deux tiers des paiements de location effectués au cours de l’année d’imposition. Selon son témoignage, j’estime que les deux tiers environ du matériel loué étaient utilisés par l’appelant pour ses activités et le reste, par d’autres employés de la CIBC.
+· Convention à l’onglet 3 de la pièce A-3 : L’appelant pouvait déduire 60 % des paiements de location, car il avait utilisé la majorité de l’équipement loué pour ses activités. Toutefois, un appareil photo avait presque exclusivement été utilisé à des fins personnelles, et un employé de la CIBC qui ne travaillait pas avec l’appelant en 2003 avait utilisé l’une des imprimantes.
+· Convention à l’onglet 5 de la pièce A-3 : L’appelant pouvait déduire 40 % des paiements de location. Il a précisé que trois articles loués lui avaient servi à exercer ses activités; ils représentaient environ 40 % de l’équipement figurant dans la convention.
+[60] Compte tenu de ce qui précède, j’estime que l’appelant était autorisé à déduire 9 464 $ du montant en litige à l’égard du matériel loué.
+Dépenses en personnel (ou autres frais de déplacement)
+[61] Le montant en litige est de 7 403 $, soit le montant déduit par l’appelant (12 178 $)[35] moins celui auquel a consenti l’intimée à l’audience (4 775 $)[36].
+[62] Cette catégorie renferme les dépenses engagées pour les trois adjointes de l’appelant : Mmes Stevens, Werner et LeRiche.
+[63] Mmes Stevens et Werner ont engagé 2 976,84 $ pour acheter des cellulaires et leurs supports et acquitter des péages autoroutiers ainsi que divers débours. Il a été déterminé à l’audience que ce montant avait été déduit deux fois, la première comme dépenses engagées par le personnel et la seconde comme salaire d’une adjointe. Le ministre avait autorisé la seconde déduction. Bref, aucun montant supplémentaire n’était déductible en ce qui concerne le montant de 2 976,84 $ versé à Mmes Stevens et Werner.
+[64] Les autres sommes déduites au titre des dépenses en personnel étaient les allocations d’automobile accordées par l’appelant à son personnel. Ces allocations étaient fonction de l’estimation des kilomètres parcourus par chaque employée pour exercer ses fonctions. À l’audience, l’intimée a admis la déduction pour les allocations versées à Mme Stevens, étant donné qu’il s’agissait de frais de déplacement raisonnables. Toutefois, l’intimée a maintenu sa position au sujet de la non-déductibilité des allocations accordées à Mmes Werner et LeRiche.
+[65] Dans son argument, l’avocate de l’intimée semblait prétendre que ces sommes étaient déraisonnables étant donné que Mmes Werner et LeRiche ne tenaient pas de registre de kilométrage.
+[66] Je ne puis voir pourquoi la déduction de l’appelant devrait être refusée du simple fait que ses employées n’avaient pas tenu de registre de kilométrage. La déductibilité est subordonnée au critère de l’objet de l’alinéa 8(1)f) et à la détermination du caractère raisonnable des sommes versées sous forme d’allocations.
+[67] Mmes Stevens, Werner et LeRiche ont témoigné à tour de rôle à l’audience. Elles ont expliqué la nature de leurs fonctions et l’utilisation de leur automobile pour les exercer. À la lumière de la preuve, j’ai conclu que l’appelant a engagé des dépenses au titre des allocations pour gagner un revenu de commissions, que ces dépenses étaient raisonnables et qu’il avait le droit de déduire les allocations versées à Mmes Werner et LeRiche.
+[68] En résumé, l’appelant pouvait déduire 4 426 $ du montant en litige[37].
+Résumé
+[69] Pour établir son revenu pour l’année d’imposition 2003, l’appelant pouvait déduire 77 630 $ en application de l’alinéa 8(1)f), montant qui est calculé ainsi :
+Montant admis par le ministre
+34 526 $
+Montant dont a convenu l’intimée à l’audience
+15 892 $
+Montants admis par la Cour :
+Publicité et promotion
+4 609 $
+Hébergement
+333 $
+Fournitures
+5 506 $
+Formation
+2 874 $
+Location de matériel
+9 464 $
+Dépenses en personnel
+4 426 $
+Montant total admis par la Cour
+27 212 $
+Montant total déductible en application de l’alinéa 8(1)f)
+77 630 $
+[70] Le montant déductible de 77 630 $ est inférieur au revenu de commissions total de 119 957,07 $ déclaré par l’appelant et est donc pleinement déductible en vertu de l’alinéa 8(1)f). Nous obtiendrions aussi ce montant si le revenu de commissions de l’appelant était calculé comme revenu brut avant déduction des sommes payées à Mmes Werner et LeRiche[38].
+Conclusion
+[71] Pour tous les motifs qui précèdent, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli avec dépens adjugés à l’appelant. La nouvelle cotisation datée du 28 décembre 2005 est renvoyée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant avait le droit, en vertu de l’alinéa 8(1)f), de déduire 77 630 $ de son revenu imposable pour l’année d’imposition 2003.
+Signé à Antigonish (Nouvelle-Écosse), ce 23e jour d’août 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 23e jour de novembre 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 416
+No DU DOSSIER DE LA COUR : 2007-3170(IT)G
+INTITULÉ : LERICHE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+Ottawa (Ontario)
+DATE DE L’AUDIENCE : Les 2, 3 et 4 septembre 2009
+et le 10 novembre 2009
+MOTIFS DU JUGEMENT
+MODIFIÉS : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT
+MODIFIÉ : Le 23 août 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Jeffrey Radnoff
+Avocate de l’intimée :
+Me Suzanne M. Bruce
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Jeffrey Radnoff
+Cabinet : Radnoff Law Offices
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Mme Power, conseillère en placements à la CIBC World Markets Inc., a témoigné que ses adjoints étaient rémunérés selon un système similaire (elle employait l’un des adjoints et la CIBC employait les deux autres et administrait la paie des trois).
+[2] Voir l’onglet 2 de la pièce R-1.
+[3] Pièce R-1, pages 2 et 36.
+[4] Gifford c. Canada, 2004 CSC 15, [2004] 1 R.C.S. 411.
+[5] Pièce R-1, onglet 5.
+[6] Article 67; la dépense est seulement déductible dans la mesure où elle était raisonnable dans les circonstances.
+[7] Verrier v. M.N.R., 1990 CarswellNat 259, paragr. 9, [1990] 1 C.T.C. 313 (C.A.F.). Voir aussi Gifford, précité; Ross c. La Reine, 2005 CCI 286, 2005 DTC 663; Paes c. La Reine, 2007 CCI 311, 2007 DTC 837.
+[8] Symes c. Canada, [1993] A.C.S. no 131 (QL), [1993] 4 R.C.S. 695 (C.S.C.).
+[9] D’après la Cour suprême, la logique de cette disposition est mise à mal par le fait qu’on ne sait généralement pas clairement quels sont les genres de dépenses dont la déduction est autorisée en application du paragraphe 9(1), mais interdite en vertu de l’alinéa 18(1)a) ou b). Symes, précité, paragr. 35.
+[10] Symes, précité, paragr. 68.
+[11] Réponse à l’avis d’appel, paragr.7.
+[12] Ibid.
+[13] Pièce R-3. Le montant de 77,18 $ au titre de la publicité et de la promotion figurant dans la pièce R-3 n’était pas inclus dans la feuille de calcul de l’appelant.
+[14] Pièces A-1 et A-6.
+[15] Pièce A-6.
+[16] Note en bas de page 13, précitée.
+[17] 6 657 $ moins 2 048 $.
+[18] Pièce R-1, page 86.
+[19] Réponse à l’avis d’appel, paragr. 7.
+[20] Pièce A-2, et pièce A-8, page 1.
+[21] Réponse à l’avis d’appel, paragr. 7.
+[22] Pièce A-2 et pièce A-8, pages 4 à 6.
+[23] Nichol v. The Queen, 93 DTC 1216, p. 1219.
+[24] Système d’alarme installé au domicile de l’appelant et cadeau de 97 $.
+[25] Réponse à l’avis d’appel, paragr. 7.
+[26] Pièce R-3.
+[27] Pièce A-2, onglets 2, 5, 13 et 17. Le montant comprend 469 $ en frais d’hébergement à l’hôtel Westin-Prince mentionné à la section Frais d’hébergement.
+[28] Pièce A-2, onglets 3, 7, 11, 49 et 50.
+[29] Pièce A-8; l’appelant a produit une preuve documentaire et a livré un témoignage à l’appui de la déduction de 10 887 $ en frais de formation.
+[30] Voir Setchell c. La Reine, 2006 CCI 37, 2006 DTC 2279; Douthwright c. La Reine, 2007 CCI 560, 2007 DTC 1614.
+[31] Agence du revenu du Canada, Bulletin d’interprétation IT-357R2, Frais de formation (6 novembre 1989).
+[32] Réponse à l’avis d’appel, paragr. 7.
+[33] Pièce R-3.
+[34] Pièce A-3, Analyse des dépenses en location de matériel (pièce A-3).
+[35] Réponse à l’avis d’appel, paragr. 7.
+[36] Pièce R-3.
+[37] Montant en litige (7 403 $) moins le montant déduit deux fois (2 977 $).
+[38] Voir l’onglet 2 de la pièce R-1.

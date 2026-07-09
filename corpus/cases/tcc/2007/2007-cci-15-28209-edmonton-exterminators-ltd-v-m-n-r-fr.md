@@ -1,0 +1,216 @@
+---
+title: "Edmonton Exterminators LTD v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28209/index.do"
+last_modified: "2007-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 15"
+citation2: ""
+neutral_citation: "2007 CCI 15"
+decision_date: "2007-02-16"
+language: "fr"
+item_id: "28209"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2023
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:57:56.174000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a277ccc50a9c2dabd55174fb7b733c9f5c95a54cb2116663b1fd3dc8f1784d14"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Edmonton Exterminators LTD v. M.N.R.
+
+- Citation: 2007 CCI 15
+- Decision date: 2007-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2023, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Edmonton Exterminators LTD v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-16
+Référence neutre
+2007 CCI 15
+Numéro de dossier
+2005-2531(EI)
+Juges et Officiers taxateurs
+Michael H. Porter
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2005-2531(EI)
+ENTRE :
+EDMONTON EXTERMINATORS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 12 décembre 2006, à Edmonton (Alberta).
+Devant : L’honorable juge suppléant M.H. Porter
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocat de l’intimé :
+Me Darcie Charlton
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée conformément aux motifs ci-joints.
+Signé à Edmonton (Alberta), ce 25e jour de janvier 2007.
+« M.H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 25e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI15
+Date : 20070125
+Dossier : 2005-2531(EI)
+ENTRE :
+EDMONTON EXTERMINATORS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Porter
+[1] En l’espèce, la question est de savoir si le ministre du Revenu national (le « ministre ») a décidé à bon droit que Jim Schultz (le « travailleur ») occupait un emploi assurable en vertu de la Loi sur l’assurance-emploi (la « LAE ») entre le 1er janvier 2001 et le 31 décembre 2003.
+[2] Les parties s’entendent pour dire que le travailleur a été engagé par l’appelante en vertu d’un contrat de travail. La mère du travailleur possède 59 p. 100 des actions de l’appelante. Tom Schultz, frère de celui-ci, est propriétaire des 41 p. 100 restants. À première vue, le travailleur exerçait un « emploi exclu » en vertu de la LAE en tant que personne liée. Toutefois, dans une lettre en date du 8 juillet 2005, le ministre a indiqué que, conformément aux alinéas 5(1)a) et 5(3)b) de la LAE, il était convaincu que l’appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Aux termes du paragraphe 93(3) de la LAE, le ministre a donc rejeté l’appel formé par l’appelante à l’encontre de la décision de l’agent des décisions selon laquelle le travailleur exerçait un emploi assurable. L’appelante a par la suite appelé de cette décision devant la Cour.
+Les dispositions législatives
+[3] Les articles pertinents de la LAE sont rédigés dans les termes suivants :
+5(2) N’est pas un emploi assurable :
+a) [...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] Dans l’arrêt Légaré c. Canada, [1998] ACF no 878, le juge Marceau de la Cour d’appel fédérale, a déclaré ceci :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[5] Dans un autre arrêt de la Cour d’appel fédérale, Denis c. Canada (Ministre du Revenu national), [2004] CAF 26, le juge en chef Richard déclarait ceci :
+Le rôle du juge de la Cour canadienne de l'impôt dans un appel d'une détermination du ministre sur les dispositions d'exclusion contenues aux paragraphes 5(2) et (3) de la Loi est de s'enquérir de tous les faits auprès des parties et les témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre paraît toujours raisonnable. Toutefois, le juge ne doit pas substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus (voir Pérusse c. Canada (ministre du Revenu national - M.R.N.), 2000 A.F.C. no 310, 10 mars 2000).
+[6] Comme l’avocat de l’appelante l’a signalé dans ses observations de clôture, la norme est bien entendue la même, que l’appelant (souvent l’employé) essaie de se faire inclure dans la catégorie des « emplois assurables » ou qu’il s’efforce de s’en dissocier. Néanmoins, ces causes semblent démontrer, de la part du ministre, une plus grande propension à exercer son pouvoir discrétionnaire lorsqu’une partie cherche à se faire exclure de la catégorie que lorsqu’elle tente de réclamer des avantages. Dans ces derniers cas, une norme beaucoup plus rigoureuse semble souvent avoir été appliquée, alors que dans les premiers, la norme a souvent semblé assez permissive. Selon ce que je comprends, le devoir de la Cour est de s’assurer que ce degré de subjectivité ne s’immisce pas dans le processus décisionnel et de veiller à ce que la décision du ministre semble raisonnable, d’un point de vue objectif, compte tenu de tous les faits nouveaux révélés par la preuve entendue au cours de l’appel.
+Les faits
+[7] Dans le présent appel, seul le travailleur a témoigné. Ni sa mère ni son frère n’ont été appelés à la barre et l’avocat du ministre a signalé que le témoin n’avait pas fait preuve de collaboration. Toutefois, j’estime que le travailleur a été très franc et, à mon avis, il est un témoin crédible, même si son témoignage était quelque peu intéressé. Je suis tout à fait disposé à accepter son témoignage.
+[8] Le questionnaire signé par le travailleur a également été déposé en preuve. C’est sur la base de ce questionnaire, en partie du moins, que le ministre semble avoir fondé sa décision.
+Les faits sur lesquels le ministre semble également s’être appuyé au paragraphe 9 de la réponse à l’avis d’appel sont les suivants :
+[traduction]
+a) l’appelante exploitait une entreprise de lutte antiparasitaire;
+b) la répartition des actions de l’appelante était la suivante :
+Tom Schultz 41 p. 100 (le fils)
+Gladys Schultz 59 p. 100 (la mère)
+c) Tom Schultz et Gladys Schultz étaient les administrateurs de l’appelante;
+d) le travailleur était le fils de Gladys Schultz;
+e) le travailleur et l’appelante étaient liés au sens de la Loi de l’impôt sur le revenu (la « Loi »), L.R.C. 1985 (5e suppl.) ch. 1, et ses modifications;
+f) le travailleur accomplissait les tâches d’un exterminateur;
+g) les tâches du travailleur incluaient des services de lutte antiparasitaire chez des clients résidentiels et industriels;
+h) le travailleur était à l’emploi de l’appelante depuis août 2000;
+i) le travailleur touchait un salaire fixe de 2 000 $ par mois, qui a graduellement été augmenté à 2 600 $ par mois;
+j) l’appelante payait le travailleur deux fois par mois;
+k) l’appelante fixait le taux de rémunération du travailleur;
+l) l’employé non lié à l’appelante touchait également un salaire mensuel;
+m) le travailleur a également reçu les primes suivantes :
+juin 2001 3 500 $
+juin 2002 4 000 $
+juin 2003 5 000 $
+n) le taux de rémunération du travailleur était comparable aux normes de l’industrie;
+o) le taux de rémunération du travailleur était raisonnable;
+p) l’appelante a remis au travailleur des T4 indiquant les gains suivants :
+2001 29 432 $
+2002 31 346 $
+2003 36 122 $
+q) le travailleur prenait des vacances payées;
+r) aucun des employés de l’appelante, y compris le travailleur, ne touchait de rémunération pour des heures supplémentaires;
+s) le travailleur ne rendait pas de services non rémunérés à l’appelante;
+t) l’appelante payait le travailleur sur une base régulière et continue;
+u) si les revenus de l’appelante étaient faibles, le travailleur était quand même payé;
+v) si le travailleur était dans l’impossibilité de fournir ses services pour une certaine période, il était quand même payé; toutefois, cela ne s’est pas produit pendant la période à l’étude;
+w) le travailleur travaillait normalement de 8 h à 16 h;
+x) le travailleur était également en disponibilité;
+y) l’appelante déterminait les heures de travail du travailleur;
+z) le travailleur travaillait en moyenne 40 heures par semaine;
+aa) les heures de travail du travailleur n’étaient ni consignées ni contrôlées;
+bb) les heures de travail de l’employé non lié à l’appelante n’étaient ni consignées ni contrôlées;
+cc) l’appelante conservait le droit de contrôler le travailleur;
+dd) l’appelante assignait des tâches au travailleur;
+ee) l’appelante remettait au travailleur une liste de tâches à accomplir;
+ff) le travailleur n’était pas supervisé étant donné qu’il avait reçu une formation complète;
+gg) le travailleur ne pouvait pas aller et venir à sa guise;
+hh) quand le travailleur était absent du travail d’autres employés accomplissaient ses tâches;
+ii) le travailleur exécutait ses tâches chez les clients de l’appelante;
+jj) le travailleur n’engageait pas de dépenses dans l’exercice de son travail;
+kk) le travailleur était employé par l’appelante en vertu d’un contrat de travail;
+ll) le ministre a examiné l’ensemble des faits pertinents qui lui ont été fournis, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli;
+mm) le ministre était convaincu qu’il était raisonnable de conclure que le travailleur et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[9] Le travailleur a semblé accepter les points a) à m), mais il a réfuté dans son témoignage les points n), o), q), v), w), x), y), z), dd), ee), ff), gg), hh) et s’est dit d’accord avec le reste.
+[10] Après avoir entendu le témoignage du travailleur et avoir conclu qu’il était un témoin crédible, particulièrement sur les points où son témoignage contredisait les hypothèses sur lesquelles le ministre s’était appuyé, j’estime que le ministre s’est appuyé sur des faits inexacts pour parvenir à sa décision.
+[11] Dans l’ensemble, le travailleur a indiqué dans son témoignage que, quand il est devenu insatisfait de son poste de gestion à Postes Canada en 2000, sa mère, en particulier, l’a intégré à l’entreprise familiale. Elle était l’actionnaire principale et exerçait le contrôle sur l’entreprise depuis le décès de son époux. De toute évidence, elle menait l’affaire de main de fer. Toutefois, le travailleur était le benjamin de la famille, et il semble que sa mère avait un faible pour lui et était prête à lui permettre de faire à peu près tout ce qu’il voulait dans l’entreprise, pourvu qu’il y reste.
+[12] Ainsi, même si le travailleur recevait ce qui pouvait être un salaire normal dans l’industrie, il était payé sur une base mensuelle, comme tous les autres employés de la compagnie, contrairement aux travailleurs d’entreprises concurrentes qui étaient généralement rémunérés à l’heure ou à la pièce.
+[13] Là où il y a une différence, c’est dans la façon dont le travailleur travaillait et la quantité de travail qu’il accomplissait pour toucher ce salaire. Ainsi, même si le bureau était ouvert de 8 h à 16 h et que les travailleurs ne faisant pas partie de la famille travaillaient pendant ces heures d’ouverture, ce qu’on attendait d’eux, le travailleur lui-même ne prenait, par exemple, que deux rendez-vous par jour au lieu des quatre rendez-vous normaux.
+[14] Il a admis être paresseux et a déclaré que, quand il en avait terminé de ses rendez-vous, plutôt que d’appeler au bureau (sa mère), comme les employés non liés étaient tenus de le faire, il prenait tout simplement congé pour l’après-midi. Il allait jouer au soccer, comme joueur ou entraîneur, ou il allait à la pêche ou chez le ferrailleur pour défaire des pièces d’automobile en vue de les vendre sur e-bay. Il a ainsi indiqué que, plus souvent qu’autrement, il travaillait la moitié du temps, mais touchait son plein salaire.
+[15] Qui plus est, quand il a été malade pendant cinq semaines, il a touché son plein salaire de même que pour la sixième semaine où il n’a travaillé qu’à temps partiel. Selon lui, les autres travailleurs n’auraient pas été traités de cette façon. Le ministre affirme que cela ne s’est pas produit pendant la période à l’étude, mais en 2001, cela s’est manifestement produit. À cet égard, le ministre a commis une erreur (point v).
+[16] Le ministre a dit que le travailleur était aussi en disponibilité (point x). Manifestement, il n’était jamais en disponibilité, pas plus que personne d’autre.
+[17] Le ministre a déclaré que l’appelante fixait les heures de travail du travailleur (point y). Cela est manifestement erroné, étant donné que le travailleur allait et venait à sa guise. Il était également clair qu’il ne travaillait pas 40 heures par semaine, mais plus vraisemblablement de 25 à 30 heures. Toutefois, il était payé sur une base de 40 heures de travail par semaine.
+[18] Bien que sa mère ait eu le droit de contrôler le travailleur en tant qu’employé, en fait, elle ne le faisait pas et elle acceptait tout simplement la manière dont il travaillait et les heures où il choisissait de travailler. Selon lui, un employé régulier aurait été congédié par sa mère s’il avait agi comme il l’a fait.
+[19] Il est vrai que la mère assignait les tâches au travailleur en lui laissant une fiche de travail, mais cependant, elle ne lui assignait que la moitié du travail habituellement confié aux autres employés.
+[20] Le travailleur avait reçu une formation complète et avait son permis du gouvernement de l’Alberta, qu’il a obtenu après avoir terminé ses études et réussi ses examens. Toutefois, il a dit que cela n’était pas la raison pour laquelle il n’était pas supervisé (point ff), mais que cela était plutôt parce qu’il était de la famille.
+[21] Le ministre a commis une erreur quand il a présumé que le travailleur ne pouvait pas aller et venir à sa guise (point gg). En fait, c’est exactement ce que le travailleur faisait.
+[22] De même, quand le travailleur s’absentait, son frère prenait la relève pour un ou deux de ses contrats réguliers; toutefois, les autres tâches étaient tout simplement remises à un autre jour.
+[23] En plus de ce qui a été dit ci-dessus, le travailleur a déclaré que son frère lui avait acheté un ordinateur, à même les fonds de la compagnie. L’ordinateur devait servir à faire le commerce des pièces de voitures d’occasion sur e‑bay. Le travailleur a déclaré exercer cette activité pendant ses heures de travail. Cela n’est pas du tout compatible avec la situation d’un employé non lié.
+[24] Le travailleur a dit qu’il entreposait même des objets dans les locaux de l’entreprise, notamment des séries de bandes dessinées qu’il avait collectionnées et ses pièces de voitures d’occasion, étant donné que c’était plus facile pour lui de les vendre sur e-bay s’il les avait sous la main. Il pouvait également se servir du camion de la compagnie pour son usage personnel, de même que de son téléphone cellulaire. Les employés réguliers ne bénéficiaient pas de ces privilèges.
+[25] Le travailleur touchait également une prime annuelle qui n’avait rien à voir avec une évaluation objective de son travail et des résultats obtenus. Qui plus est, il semble que cette prime était plus importante que celle octroyée aux autres employés. Il utilisait cette prime pour payer ses taxes foncières annuelles.
+[26] Le travailleur se faisait payer par la compagnie la portion de ses médicaments d’ordonnance qui n’était pas remboursée par le régime d’assurance-maladie de sa fiancée. Les autres employés non liés n’avaient pas cet avantage.
+[27] Sa mère lui faisait confiance en lui remettant des chèques en blanc signés pour payer des factures à des fournisseurs. Une telle confiance n’était pas témoignée aux autres employés. Ces éléments ont été jugés suffisants dans d’autres causes citées devant la Cour pour en arriver à la conclusion qu’un employé n’exerçait pas un emploi assurable.
+Conclusion
+[28] Je ne peux m’empêcher de faire remarquer que, si l’on regardait cette situation par l’autre bout de la lorgnette et que le travailleur cherchait à se faire inclure dans la catégorie des personnes exerçant un emploi assurable, la Cour n’aurait eu absolument aucune difficulté à appuyer la décision du ministre si celui-ci avait décidé qu’il n’était pas raisonnable de conclure que les parties auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[29] J’ai tenu compte de l’opinion de l’avocat qui a parlé au nom du ministre, selon lequel la Loi ne dit pas « exactement le même » mais plutôt « à peu près semblable ». Toutefois, ayant maintenant entendu l’ensemble de la preuve qui a été présentée, il serait difficile d’imaginer un cas plus patent d’employé lié à son employeur. Comme l’a dit le travailleur tout au long de son témoignage, c’est parce qu’il était un membre de la famille qu’il a pu agir comme il l’a fait et particulièrement parce qu’il était le benjamin.
+[30] Il est clair que bien des faits saillants n’étaient pas à la disposition du ministre quand il a pris sa décision et que bon nombre de ses hypothèses sont totalement erronées.
+[31] Il est inconcevable de penser que, si le ministre avait disposé de tous les faits exacts, tels qu’ils ont été énoncés dans la preuve présentée au procès, il aurait pu légitimement et raisonnablement conclure comme il l’a fait, en examinant la situation d’un point de vue tout à fait objectif. Comme je l’ai dit, il serait difficile de trouver une situation qui puisse plus clairement entrer dans la catégorie des « emplois exclus ». Ces personnes exploitaient leur propre entreprise et assumaient le risque de subvenir à leurs propres besoins si les choses tournaient mal.
+[32] Pour les motifs précités, l’appel est accueilli et la cotisation est annulée.
+Signé à Edmonton (Alberta), ce 25e jour de janvier 2007.
+« M.H. Porter »
+Juge suppléant Porter
+Traduction certifiée conforme
+ce 25e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI15
+No DU DOSSIER DE LA COUR : 2005-2531(EI)
+INTITULÉ : Edmonton Exterminators Ltd.
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 12 décembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.H. Porter
+DATE DU JUGEMENT : Le 25 janvier 2007
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocat de l’intimé :
+Me Darcie Charlton
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Deryk W. Coward
+Cabinet : D’Arcy & Deacon LLP
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

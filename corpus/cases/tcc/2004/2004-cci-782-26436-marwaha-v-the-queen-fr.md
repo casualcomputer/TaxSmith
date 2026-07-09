@@ -1,0 +1,155 @@
+---
+title: "Marwaha v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26436/index.do"
+last_modified: "2004-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 782"
+citation2: ""
+neutral_citation: "2004 CCI 782"
+decision_date: "2004-12-09"
+language: "fr"
+item_id: "26436"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3187
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:46:03.254000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "15c1b0a10629e017e5fef97551c0fc4c12563fd85c5e48e51a7cdfa3ac71f11a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marwaha v. The Queen
+
+- Citation: 2004 CCI 782
+- Decision date: 2004-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3187, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marwaha v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-09
+Référence neutre
+2004 CCI 782
+Numéro de dossier
+2003-3037(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3037(IT)I
+ENTRE :
+SUSHMA MARWAHA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 6 août 2004, à Toronto (Ontario)
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Représentant de l'appelante :
+Yash Marwaha
+Avocat de l'intimée :
+Me John Grant
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999 et 2000 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation selon les motifs du jugement ci-joints et dans la mesure énoncée dans ces motifs.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+Référence : 2004CCI782
+Date : 20041209
+Dossier : 2003-3037(IT)I
+ENTRE :
+SUSHMA MARWAHA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Ces appels concernant les années d'imposition 1998, 1999 et 2000 soulèvent de nombreuses questions. Après l'audience, comme la Cour l'avait demandé, l'avocat de l'intimée a déposé devant la Cour des observations écrites en date du 7 octobre 2004, et l'appelante a déposé ses observations, par une lettre adressée à la Cour, en date du 20 octobre 2004. Ces observations se rapportaient dans les deux cas au présent appel interjeté par Sushma Marwaha, dossier 2003-3037(IT)I, ainsi qu'aux appels interjetés par Yash Marwaha, dossier 2003-4125(IT)I, et par Premwati Marwaha, dossier 2003-3613(IT)I. En outre, par une lettre en date du 25 novembre 2004 adressée à la Cour, l'avocat de l'intimée a soumis des observations additionnelles au sujet des cotisations portant qu'aucun impôt n'était payable, mais cette question ne concerne pas les appels de Sushma Marwaha.
+[2] Voici un résumé des questions en litige dans les appels interjetés par Sushma Marwaha et de leur règlement :
+1. Pour chacune des années 1998, 1999 et 2000, la question qui se pose est de savoir de quelle façon une pension alimentaire d'un montant de 8 400 $ dans chaque année devrait être traitée. Au moyen d'observations écrites datées du 7 octobre 2004, l'avocat de l'intimée a convenu, avec le consentement de l'appelante et de son mari que, même si l'appelante, Sushma Marwaha, vivait dans la même résidence que son mari, Yash Marwaha, les époux étaient néanmoins considérés comme vivant séparément, aux termes d'un accord écrit, de sorte que le montant de 8 400 $ dans chacune des trois années en cause doit être inclus dans le revenu de Yash Marwaha et doit être déduit du revenu de l'appelante, Sushma Marwaha, comme le prévoient les articles 56 et 60 de la Loi de l'impôt sur le revenu (la Loi). Le présent jugement confirme cette détermination.
+2. Comme l'appelante, Sushma Marwaha, et son mari, Yash Marwaha, en ont convenu à l'audience et comme l'avocat de l'intimée l'a reconnu dans les observations écrites datées du 7 octobre 2004, c'est l'appelante, Sushma Marwaha, et non son mari, Yash Marwaha, qui a le droit de déduire les dépenses relatives à la pension alimentaire pour enfants, d'un montant de 2 987,50 $ dans l'année d'imposition 1998, de 3 100 $ dans l'année d'imposition 1999, et de 3 900 $ dans l'année d'imposition 2000, le tout conformément à l'article 63 de la Loi. Le présent jugement confirme cela.
+3. Des crédits d'impôt non remboursables demandés par l'appelante pour l'équivalent du montant pour conjoint prévu à l'alinéa 118(1)b) de la Loi d'un montant de 5 380 $ pour l'année 1998, de 5 718 $ pour l'année 1999, et de 6 140 $ pour l'année 2000 ont été refusés dans les nouvelles cotisations datées du 1er février 2002. Cependant, l'avocat de l'intimée, dans ses observations écrites datées du 7 octobre 2004, a confirmé et convenu que Sushma Marwaha avait droit aux crédits d'impôt non remboursables pour les trois années en question en fonction des nouveaux éléments de preuve factuelle présentés lors de l'audience qui établissent que Sushma Marwaha et son mari, Yash Marwaha, habitaient bel et bien séparément. Le présent jugement confirme cette détermination.
+4. Pour l'année d'imposition 1998, l'appelante, Sushma Marwaha, a demandé un crédit non remboursable pour des frais médicaux à l'égard de frais médicaux d'un montant de 9 460 $ demandés pour Premwati Marwaha, la belle-mère de Sushma Marwaha. Le crédit est calculé selon la formule fournie au paragraphe 118.2(1) de la Loi. Ce calcul est fondé sur diverses variables comprenant le montant des frais médicaux, le revenu de la personne pour laquelle les frais sont déboursés, et certains pourcentages et montants fixes qui varient généralement d'une année à l'autre. Ce paragraphe, tel qu'il s'applique à l'année d'imposition 1998, prévoit ce qui suit :
+118.2(1) Le résultat du calcul suivant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+A(B-C)-D
+où :
+A représente le taux de base pour l'année;
+B le total des frais médicaux du particulier, attestés par des reçus présentés au ministre [...];
+C le moins élevé de 1 500 $ et de 3 % du revenu du particulier pour l'année;
+D 68 % du total des montants représentant chacun l'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b) :
+a) le revenu pour l'année d'une personne, sauf le particulier et son conjoint, pour laquelle un montant est inclus dans le calcul de la déduction du particulier pour l'année en vertu du présent article;
+b) le montant applicable pour l'année selon l'alinéa 118(1)c).
+Pour 1998, le taux de base prévu en A était de 17 %. Personne n'a contesté le fait que les frais médicaux de Premwati Marwaha étaient de 9 460 $ et que son revenu s'élevait à 11 722 $ pour l'année d'imposition 1998. Donc :
+C = 3 % de 11 722 $ = 351,66 $
+D = 68 % (11 722 $ - 6 456 $) = 3 580,88 $
+(il est à noter que 6 456 $ est le montant de 1998 applicable pour l'année selon l'alinéa 118(1)c)) .
+La formule révèle que l'appelant n'a pas droit à un crédit pour frais médicaux à l'égard de Premwati Marwaha parce que :
+A B C D
+17% (9 460 $ - 351,66 $) - 3 580,88 $ = - 2 032, 46 $
+Étant donné que l'application de la formule produit un résultat négatif, l'appelante, Sushma Marwaha, n'a pas droit à un crédit d'impôt non remboursable pour frais médicaux pour l'année d'imposition 1998.
+5. Pour l'année d'imposition 1998, l'appelante, Sushma Marwaha, a demandé un crédit d'impôt non remboursable d'un montant de 2 353 $ pour une personne à charge âgée de 18 ans ou plus et ayant une déficience, soit Premwati Marwaha, sa belle-mère. Ce crédit est prévu à l'alinéa 118(1)d) de la Loi et était applicable en 1998, à moins que le revenu de la personne à charge pour cette année-là dépasse 6 456 $. Étant donné que le revenu de Premwati Marwaha en 1998 était de 11 722 $, l'appelante, Sushma Marwaha, n'a pas droit au crédit.
+6. En ce qui a trait aux pertes de location déduites et aux revenus de location déclarés, l'appelante, Sushma Marwaha, a déduit des montants de 2 900 $ et de 110 $ pour les années 1998 et 2000, respectivement, et a déclaré des revenus nets de location de 255 $ en 1999 pour ce qui est de la location présumée d'une chambre à la belle-mère de l'appelante, Premwati Marwaha, et d'une chambre au sous-sol au mari de l'appelante, Yash Marwaha, au 1207, promenade Killaby, à Mississauga en Ontario, résidence détenue en copropriété avec Yash Marwaha. Compte tenu des éléments de preuve présentés, à mon avis, la location n'était pas de nature commerciale et il n'y avait pas d'attente de profit. La location était essentiellement de nature personnelle, et elle avait pour but de réduire le coût de la vie dans la résidence commune. Par conséquent, l'appelante n'a pas le droit de déduire de son revenu les présumées pertes de location enregistrées en 1998 et en 2000. Par ailleurs, elle n'est pas obligée d'inclure dans son revenu les revenus nets de location gagnés en 1999 et mentionnés ci-dessus.
+7. Pour l'année 2000, l'appelante a déduit une perte autre qu'en capital de 7 868,18 $, qui avait été reportée prospectivement de l'année d'imposition 1994 de l'appelante et qui était décrite comme étant un [TRADUCTION] « report prospectif des dépenses de 1994 liées à un bureau à domicile » . Aucun élément de preuve n'a été présenté pour venir appuyer cette déduction. L'hypothèse énoncée à l'alinéa 24dd) de la réponse à l'avis d'appel n'a pas été détruite, et aucun élément de preuve n'a été présenté pour contredire cette hypothèse. Par conséquent, la déduction pour la perte autre qu'en capital reportée prospectivement n'est pas admise.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2004CCI782
+No DU DOSSIER DE LA COUR :
+2003-3037(IT)I
+INTITULÉ DE LA CAUSE :
+Sushma Marwaha et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 6 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge T. O'Connor
+DATE DU JUGEMENT :
+Le 9 décembre 2004
+COMPARUTIONS :
+Représentant de l'appelante :
+Yash Marwaha
+Avocat de l'intimée :
+Me John Grant
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

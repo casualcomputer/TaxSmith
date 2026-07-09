@@ -1,0 +1,329 @@
+---
+title: "Sévigny c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26823/index.do"
+last_modified: "2004-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 250"
+citation2: ""
+neutral_citation: "2004 CCI 250"
+decision_date: "2004-04-19"
+language: "fr"
+item_id: "26823"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 694
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:34:35.465000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c494ed18f2e2e1918fecc97268a552d1fc12daefc8496bf09413f84aae13cc1e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sévigny c. M.R.N.
+
+- Citation: 2004 CCI 250
+- Decision date: 2004-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 694, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sévigny c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-19
+Référence neutre
+2004 CCI 250
+Numéro de dossier
+2003-586(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-586(EI)
+ENTRE :
+CLÉMENT SÉVIGNY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 novembre 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant S.J. Savoie
+Comparutions :
+Avocat de l'appelant :
+Me Frédéric St-Jean
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé au Grand-Barachois (Nouveau-Brunswick), ce 19e jour d'avril 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI250
+Date : 20040419
+Dossier : 2003-586(EI)
+ENTRE :
+CLÉMENT SÉVIGNY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Québec (Québec), le 25 novembre 2003.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant pour la période du 15 août 1998 au 3 février 2001, lorsqu'au service de la payeuse, madame Céline Drolet, au sens de la Loi de l'assurance-emploi (la « Loi » ).
+[3] Le 19 novembre 2002, le ministre du Revenu national (le « Ministre » ) a informé l'appelant de sa décision selon laquelle cet emploi n'était pas assurable parce qu'un contrat de travail à peu près semblable n'aurait pas été conclu entre lui et la payeuse s'il n'y avait pas eu de lien de dépendance.
+[4] À l'audience, l'avocate du Ministre a présenté un avis de requête visant à obtenir la permission de déposer une réponse modifiée à l'avis d'appel.
+[5] Cette requête a été accordée par la Cour.
+[6] En rendant sa décision, le Ministre s'est fondé sur les hypothèses de fait suivantes :
+5a) La payeuse exploite, depuis décembre 1996, un dépanneur sous la raison sociale de « Dépanneur M.I.A. » . (admis)
+b) La payeuse est la seule propriétaire du commerce. (admis)
+c) En 1996 et 1997, la payeuse a exploité le commerce avec l'aide de sa fille, Marilyne. (admis)
+d) De 1998 à 2002, la payeuse embauchait de 3 à 5 personnes dont l'appelant, son conjoint. (admis)
+e) Le commerce était ouvert de 6 h 30 à 23 h 00, 7 jours par semaine. (avec précisions)
+f) Jusqu'en décembre 1996, l'appelant travaillait à la fabrication et installation d'armoires. (admis)
+g) L'appelant a reçu des prestations d'assurance-emploi entre décembre 1996 et juillet 1997. (admis)
+h) Dès janvier 1997, il a commencé à se rendre régulièrement au commerce de la payeuse; il y rencontrait des gens et rendait des services à la payeuse sans rémunération. (nié)
+i) Avant d'être inscrit au registre de paie de la payeuse pour la première fois en août 1998, l'appelant avait commencé à discuter avec certains fournisseurs du commerce et s'occupait de la location d'espaces de plancher, il signait certaines factures de fournisseurs et effectuait des travaux dans le commerce. (nié)
+j) Le 9 août 1998, la payeuse inscrivait l'appelant au registre des salaires. (admis)
+k) Les principales tâches de l'appelant consistaient à préparer les commandes et compléter les ententes avec les fournisseurs, faire les inventaires et placer des produits sur les étagères. (à parfaire)
+l) Les heures de travail de l'appelant n'ont jamais été comptabilisées par la payeuse. Initialement, l'appelant a été inscrit au registre des salaires pour 24 heures par semaine et, à partir du 11 juin 2000 jusqu'au 28 janvier 2001, il a été inscrit pour 40 heures par semaine. (nié)
+m) Du 9 août 1998 au 10 juin 2000, l'appelant recevait une rémunération de 10 $ de l'heure; du 11 juin 2000 au 28 janvier 2001, il recevait une rémunération horaire de 14,25 $ et d'avril à novembre 2001, il recevait 13,75 $ de l'heure. (admis avec précisions)
+n) Les autres employés de la payeuse étaient rémunérés au salaire minimum, sauf Marilyne Sévigny qui à partir de septembre 1998 a reçu 7,80 $ de l'heure et 8,05 $ de l'heure en 2001. (admis)
+o) L'appelant était le seul employé rémunéré à salaire fixe. Tous les autres avaient un salaire calculé à l'heure. (nié)
+p) Dans une déclaration statutaire signée et datée du 5 avril 2002, l'appelant a déclaré
+· « ...il ne peut pas compter ses heures, c'est familial et quand il n'a pas de salaire, le travail qu'il fait est carrément bénévole et ce n'est pas du temps accumulé » .
+· « ...il n'aurait jamais travaillé autant d'heures bénévolement, entre décembre 1996 et novembre 2001, si le commerce n'avait pas été à sa conjointe » .
+· « ...Quand on dit 40 heures ou 24 heures, ce sont des chiffres sommaires; il faisait bien plus que ça et c'est sur la demande du chômage qui demandait d'inscrire le nombre d'heures » . (ignoré)
+q) En 2000, l'appelant a été inscrit au registre des salaires pour 40 heures par semaine alors qu'en 2001 il n'était inscrit que pour 8 à 13 heures par semaine, bien qu'il travaillât à temps plein. (nié)
+r) Les recettes de la payeuse en 2001 étaient supérieures à celles de 2000, bien que l'appelant figure au registre de paye pour moins d'heures en 2001 qu'en 2000. (nié)
+s) Cette différence au niveau des heures inscrites entre 2000 et 2001 s'explique entre autres par un manque d'argent de la payeuse qui ne pouvait pas lui verser son plein salaire. (nié)
+t) L'appelant était rémunéré en fonction de la capacité de payer de la payeuse et non en fonction des heures réellement travaillées. (nié)
+6) À ce stade-ci, l'intimé se base sur les faits suivants:
+a) La durée officielle du travail de l'appelant pour chacune des années en litige aurait été plus longue n'eut été le manque de liquidité de la payeuse. (nié)
+b) L'appelant effectuait le même volume de travail qu'il soit inscrit au livre de paye ou non. (nié)
+[7] L'appelant, par l'intermédiaire de son procureur, a admis les hypothèses de fait du Ministre exposées aux alinéas 5 a) à d), f), g), j) et n); il a nié les hypothèses exposées aux alinéas 5 h), i), l), o), q) à t) et 6 a) et b). Il a voulu apporter certaines précisions aux hypothèses exposées aux alinéas 5 e), k) et m) et, finalement, il a choisi d'ignorer les hypothèses du Ministre énoncées à l'alinéa 5 p).
+[8] À l'hypothèse exposée à l'alinéa 5 e), l'appelant a voulu préciser que le commerce, dans les premières semaines de son opération, ouvrait le matin à 7 h 00; par après, cependant, à la demande des clients, l'ouverture se faisait à compter de 6 h 30. À l'alinéa 5 k) il a précisé que ses tâches, en plus de celles reconnues par le Ministre, consistaient à aller chercher les produits chez les fournisseurs ainsi que faire l'étalage sur les planchers des produits lourds. À l'alinéa 5 m), il a voulu ajouter à l'hypothèse du Ministre que contrairement aux autres employés, il était payé à salaire, et non pas à l'heure. Cette précision, il l'a ajoutée lui-même à la fin de sa déclaration qu'il a faite devant Daniel Lévesque le 5 avril 2002.
+[9] Il convient de reproduire en entier les déclarations de l'appelant et de la payeuse faites aux agents d'enquête de Développement des ressources humaines Canada (DRHC), puisque les parties à l'audition ne s'entendent pas sur leur portée.
+[10] Plus loin dans ces motifs, je ferai l'exposé des représentations faites par l'appelant et le Ministre sur les circonstances entourant le recueil de ces déclarations et l'importance qu'elles représentent dans la détermination de ce litige. Avant de recueillir la déclaration de Clément Sévigny et de Céline Drolet, monsieur Lévesque leur à fait part de la mise en garde et de leur droit à l'avocat et les deux ont renoncé au recours à l'avocat.
+[11] Les déclarations sont sous la forme de questions/réponses. La déclaration de Clément Sévigny a été faite le 5 avril 2002 devant l'agent autorisé Daniel Lévesque. Cette déclaration se lit comme suit:
+Question 1 : Acceptez-vous que votre comptable Alain Rousseau assiste à l'entrevue?
+Réponse : Oui.
+Question 2 : Reconnaissez-vous votre signature du 28 novembre 1996 sur une demande de prestations à votre nom?
+Réponse : Oui.
+Question 3 : Reconnaissez-vous votre signature du 14 février 2001 sur une demande de prestations d'assurance-emploi faite avec le relevé d'emploi #A70182574?
+Réponse : Oui.
+Question 4 : Reconnaissez-vous votre signature sur les cartes de chômage INS-3151 signées entre le 6/12/1996 au 1/8/1997?
+Réponse : Oui mon cher monsieur.
+Question 5 : Connaissez-vous une dame du nom de France Sévigny qui travaille ici au DRHC de Charny?
+Réponse : Oui, c'est ma soeur.
+Question 6 : Avez-vous déjà eu à communiquer avec elle relativement à des renseignements pour vos demandes de chômage?
+Réponse : Jamais et la question est bien simple, nous ne nous sommes pas parlé depuis 1988.
+Question 7 : Reconnaissez-vous votre signature sur les diverses factures obtenues du « dépanneur MIA » entre décembre 1996 au mois de novembre 2001?
+Réponse : Oui.
+Question 8 : Comment se fait-il que selon ces documents (factures) et la déclaration obtenue de votre conjointe Céline Drolet, vous êtes régulièrement au commerce et qu'à certaines périodes, aucun salaire ne vous est versé?
+Réponse : Bien c'est très facile, mon cher monsieur, au début quand j'ai terminé pour Mod-Art, c'est Céline et ma fille qui faisaient les heures. Quand les grosses commandes de bière arrivaient j'allais donner un coup de main. C'est normalement [sic] que j'y allais c'était ma femme. Quand j'étais sur le chômage je ne recevais aucun salaire du commerce (1996-1997), quand on a commencé, c'était une épicerie et un changement a été fait pour devenir un dépanneur. Quand ma conjointe a commencé à l'opérer à son compte en 1996, il était techniquement impossible de me verser un salaire. Au moment d'acheter le dépanneur, on a toujours rêvé de travailler ensemble.
+Question 9 : Quelle était la fréquence de vos présences au dépanneur MIA?
+Réponse : Bien c'est certain que je suis toujours là en même temps que ma femme, surtout de jour du lundi au vendredi et même le samedi et dimanche. Le matin je vais porter ma femme et peut aller déjeuner et revenir passer les journées avec elle au dépanneur.
+Question 10 : Qui prenait les décisions de commencer à vous verser un salaire de soit 24 heures en août 1998, 40 heures en juin 2000 et plus rien à partir du début février 2001?
+Réponse : Ça, quand on avait décidé ensemble de me verser un salaire (Céline et moi) c'est qu'un employé du nom de Michel Boudreau buvait sur la job et quand on s'en est aperçu, nous avons dû vérifier et un moment donné un accident est arrivé à Breakeyville et nous sommes allés au dépanneur pour fermer et l'employé était chaud. Nous l'avons mis à pied à ce moment (il a donné sa démission) et lui faisait les lundi et mardi soirs et les dimanches à l'occasion quand quelqu'un se portait malade. (accident = panne de courant).
+Question 11 : Est-il exact que vous recevez un salaire selon la capacité de payer du dépanneur?
+Réponse : Bien c'est certain, on ne peut pas compter nos heures, c'est familial et quand je n'ai pas de salaire, le travail que je fais est carrément bénévole et ce n'est pas du temps accumulé. Aucune voiture fournie ni rien d'autre.
+Question 12 : Auriez-vous travaillé autant d'heures bénévolement entre décembre 1996 à novembre 2001 si le commerce « Dépanneur MIA » n'avait pas été à votre conjointe?
+Réponse : Jamais, pas pour un autre.
+Question 13 : Est-ce que votre conjointe aurait dû embaucher quelqu'un d'autre à votre place pour le temps bénévole que vous avait [sic] fait?
+Réponse : Bien c'est certain qu'elle aurait dû prendre quelqu'un à ma place, elle ne pouvait pas en faire plus.
+Question 14 : Quel était votre intérêt face au « Dépanneur MIA » ?
+Réponse : Mon intérêt mon cher monsieur, était de trouver une job à ma femme et mes enfants. On voulait s'acheter un commerce pour nous faire travailler et c'est exactement ce qui est arrivé avec ma fille Marie-Lyne qui a travaillé avec nous depuis le début.
+Question 15 : Avez-vous été rappelé par votre employeur « Menuiserie Mod-Art Inc. » ?
+Réponse : Oui il m'a rappelé à deux reprises je pense. J'avais une bonne expérience dans ce domaine (les comptoirs) et je pense que c'était au mois de mai 1997 et c'était pour de l'installation et ça prenait des cartes de menuisier pour ça et moi j'en avais pas et j'ai refusé car j'aurais été responsable des amendes.
+Question 16 : Pendant votre période de prestations de février 2001 à novembre 2001, comment se fait-il qu'encore une fois vous recevez un salaire de seulement 8 ou 13 heures par semaine et même aucun salaire entre février à la fin mars 2001?
+Réponse : Pour nous autres à ce moment là, ça été bien difficile financièrement, on avait des gros comptes à payer à cause des deals de bière d'avant les Fêtes et notre comptable avait dit d'essayer de couper les dépenses, la marge de crédit était loadée et j'allais quand même au dépanneur avec ma femme. Quand on dit 40 heures ou 24 heures, ce sont des chiffres sommaires, je fais bien plus que ça et c'est sur la demande de chômage qui demandait d'inscrire le nombre d'heures et j'ai fait une moyenne.
+Question 17 : Comment se fait-il qu'avant le début des opérations du « Dépanneur MIA » vous étiez à l'emploi pour d'autres employeurs et que maintenant vous ne travaillez qu'au dépanneur (de 1996 à novembre 2001)?
+Réponse : Bien mon cher monsieur, j'ai toujours eu à coeur d'aider ma femme au dépanneur. Je n'ai jamais compté mes heures bénévoles et j'ai toujours payé mes impôts et si je n'avais pas fait ça, il y en aurait eu 5 ou 6 employés sur le chômage. Comme à l'été 2001 le chiffre d'affaire a augmenté malgré les travaux effectués par la municipalité à cause qu'un autre dépanneur a fermé en septembre 2000 et nous avons eu beaucoup d'activités extérieures en commandite (St-Jean-Baptiste, Tournois de balle, etc.).
+Question 18 : Si le dépanneur avait eu les moyens financiers de vous verser un salaire depuis décembre 1996, qu'auriez-vous fait?
+Réponse : Mon cher monsieur je me serais fait payer et je n'aurais jamais fait ça si ça n'avait pas été familial et ça n'avait pas été ma femme.
+Question 19 : Pourquoi n'avoir jamais déclaré votre travail fait entre décembre 1996 au 26 juillet 1997 sur vos cartes de chômage?
+Réponse : L'ignorance mon cher monsieur, Je ne savais pas qu'il fallait déclarer du travail bénévole. Pour mon chômage reçu en 2001, c'est la même chose. Je déclarais les heures pour lesquelles j'étais payé et non pas les heures bénévoles.
+Déclaration faite librement mais je voudrais rajouter que j'ai été payé à la semaine et non pas à l'heure. J'ai relu la déclaration de 5 pages avec monsieur Lévesque avant signature et rien d'autre à ajouter.
+[12] La déclaration de Céline Drolet a été faite le 3 avril 2002 devant l'agent autorisé Daniel Lévesque. Cette déclaration se lit comme suit :
+Question 1 : Acceptez-vous que votre comptable Alain Rousseau assiste à cette entrevue?
+Réponse : Oui.
+Question 2 : Reconnaissez-vous votre signature du 5 février 2001 sur le relevé d'emploi #A70182574 émis au nom de Clément Sévigny?
+Réponse : Oui.
+Question 3 : Est-ce que c'est vous qui l'avez complété?
+Réponse : Oui.
+Question 4 : Depuis quand est-ce que le Dépanneur MIA est-il en opération?
+Réponse : Décembre 1996.
+Question 5 : Expliquez-moi un peu les débuts de l'ouverture de ce commerce?
+Réponse : Je me cherchais une job comme caissière et le propriétaire Gilles Robin qui opérait sous le nom de AXEP m'a offert le commerce car lui virait son commerce en dépanneur. Il m'a offert de l'acheter à ce moment.
+Question 5 [sic] : Quand avez-vous pris possession?
+Réponse : Le 14 décembre 1996, entre juin 1996 à décembre 1996. Je travaillais comme caissière pour monsieur Robin. Je pratiquais.
+Question 6 : Combien d'heures était ouvert le dépanneur après votre prise de possession du 14 décembre 1996?
+Réponse : Dans les premières semaines d'opération c'était 7 h 00 à 23 h 00. À la demande de nos clients, nous avons changé l'heure d'ouverture pour 6 h 30 a.m. du lundi au vendredi. Nous sommes ouverts 7 jours sur 7 mais les samedis et dimanches nous ouvrons à 7 h 00 et fermons à 23 h 00.
+Question 7 : Quel a été l'investissement pour ce commerce?
+Réponse : 25 000,00 $.
+Question 8 : Est-ce que vous êtes la seule actionnaire?
+Réponse : Oui et c'est le seul investissement qu'il y a eu.
+Question 9 : Combien d'heures travaillez-vous au dépanneur depuis les débuts?
+Réponse : Je suis là de 6 h 30 a.m. à 16 h 30 du lundi au vendredi et je faisais de 7 h 00 à midi le samedi et dimanche et depuis quelques mois je fais ouvrir seulement la fin de semaine de 7 h 00 à 9 h 30 environ.
+Question 10 : Quelles étaient les fonctions de Clément Sévigny pendant la période couverte par le relevé d'emploi soit du 15/08/1998 au 03/02/2001?
+Réponse : Bien, Clément faisait mes commandes de bière, faisait des contrats comme aller chercher des commandites car nous sommes trois dépanneurs dans un petit village et la compétition est forte.
+Question 11 : Qui s'occupe de placer le stock dans le dépanneur?
+Réponse : C'est Clément.
+Question 12 : Depuis quand s'occupe-t-il de placer le stock au dépanneur?
+Réponse : Depuis le début, depuis qu'il ne travaille plus car avant ça il travaillait dans les armoires de cuisine.
+Question 13 : Après le début des opérations en 1996, qui s'occupait des commandes de bière?
+Réponse : C'est moi.
+Question 14 : Reconnaissez-vous la signature de Clément Sévigny sur diverses factures obtenues du dépanneur entre 1996 à 2002?
+Réponse : Oui, oui c'est lui.
+Question 15 : Qui est Clément Sévigny en rapport à vous?
+Réponse : C'est mon conjoint.
+Question 16 : Comment expliquez-vous qu'entre décembre 1996 au 8 août 1998 selon vos registres des salaires, aucun salaire n'est versé au nom de Clément Sévigny et nous retrouvons des factures signées par lui à chaque semaine?
+Réponse : C'est certain que Clément est souvent au dépanneur, il m'aide quand je suis dans le jus au comptoir avec des clients et si un fournisseur passait, il signait les factures. C'est certain que Clément est toujours au dépanneur et durant cette période nous avions convenu de ne pas lui verser de salaire.
+Question 17 : Pourquoi avoir commencé à versé un salaire de 24 heures par semaine entre le 9 août 1998 au début juin 2000?
+Réponse : Bien, c'est que Clément est toujours là, il est toujours au dépanneur et signer des factures ce n'est pas sa job, il m'aide en faisant ça. Il est au dépanneur en même temps que moi mais surtout pendant la semaine.
+Question 18 : Avez-vous d'autres explications à ce sujet?
+Réponse : L'idée était de ne pas manger le fond de roulement du commerce, selon la capacité du commerce, un salaire lui était versé et nous avions convenu de lui verser un salaire à partir d'août 1998 mais Clément ça faisait longtemps qu'il en voulait un.
+Question 19 : Comment se fait-il qu'à partir de juin 2000, il reçoit un salaire de 40 heures par semaine?
+Réponse : C'était selon la capacité de payer mais il faisait toujours la même affaire pour le dépanneur.
+Question 20 : Avait-il des horaires déterminés?
+Réponse : Non mais il travaillait toujours de jour.
+Question 21 : Après sa mise à pied du 3 février 2001, comment se fait-il que le chiffre d'affaire demeure stable et qu'aucun salaire ne lui est versé entre le 4 février 2001 au 24 mars 2001 alors que nous retrouvons encore des factures signées par Clément Sévigny?
+Réponse : Bien un moment donné, c'est difficile et selon les recommandations de mon comptable il fallait que je coupe les dépenses et j'ai coupé son salaire mais si j'avais été capable de le payer, je l'aurais fait.
+Question 22 : Aviez-vous une entente de prise avec Clément Sévigny pour lui verser un salaire plus tard pour des heures effectuées sans salaire à certaines périodes?
+Réponse : Non, c'était du travail bénévolat [sic], c'est une entreprise familiale et un jour, ça va lui revenir.
+Question 23 : Reconnaissez-vous que le premier jour de travail du 15/08/1998 inscrit sur le relevé d'emploi n'est pas véridique suite aux documents obtenus (factures) lors de l'enquête?
+Réponse : Moi j'ai inscrit le premier jour que j'ai commencé à le payer même s'il travaillait au dépanneur depuis les débuts.
+Question 24 : Comment expliquez-vous le motif « A » manque de travail au 3 février 2001 sur le même relevé d'emploi #A70182574?
+Réponse : Bien c'est plus un manque de liquidité qu'un manque de travail à ce moment.
+Question 25 : Est-ce que Clément Sévigny a retiré d'autres avantages que du salaire du dépanneur?
+Réponse : Non.
+Question 26 : Si votre conjoint Clément Sévigny n'avait pas rendu des servies pour le dépanneur, auriez-vous été dans l'obligation d'embaucher quelqu'un d'autre à sa place?
+Réponse : Oui.
+Question 27 : Saviez-vous que Clément Sévigny recevait des prestations d'assurance-emploi dans les débuts d'opération du commerce au début de 1997?
+Réponse : Oui il venait de finir de travailler chez Mod-Art.
+Question 28 : Reconnaissez-vous que sans le lien familial, Clément Sévigny n'aurait peut-être pas travaillé autant sans salaire?
+Réponse : Bien c'est certain, c'est comme quand nous nous sommes fait voler (à quelques reprises) il fouillait pour aller chercher le coupable, il prend le commerce à coeur.
+Question 29 : Est-il retourné travaillé chez Mod-Art depuis décembre 1996?
+Réponse : Non.
+J'ai fait cette déclaration librement après l'avoir relue au complet, je n'ai rien à modifier ou ajouter.
+[13] Le témoignage de l'appelant Clément Sévigny a établi les faits suivants : il est agé de 40 ans et pendant la période de 1980 à 1996, il a travaillé périodiquement pour la société Mod-Art. Il a perdu son emploi en 1996 mais ce même employeur lui a offert le travail d'installeur, mais il a dû refuser en raison du fait qu'il ne possédait pas sa carte de compétence.
+[14] À partir de 1996 jusqu'au mois de juin 1998, il passait son temps au dépanneur de sa conjointe, madame Céline Drolet. Selon lui, il visitait sa conjointe et passait beaucoup de temps à jaser avec des amis dans la section du dépanneur réservée à la vente de produits vidéo. Il prenait le café avec des amis et jasait mais ne se plaçait pas derrière le comptoir mais au devant où il n'y avait pas de chaise.
+[15] Il a été embauché par la payeuse au mois d'août 1998 pour travailler 24 heures par semaine. Il a travaillé du mois d'août jusqu'au mois de juin 2000 à 10 $ l'heure. Au mois de juin, les autres dépanneurs de la région, leur compétition, ont fermé leurs portes ce qui a représenté une forte hausse de l'achalandage du commerce de sa conjointe. Il y a travaillé de juin 2000 à février 2001 à raison de 40 heures par semaine à 14,25 $ l'heure. Ses tâches consistaient à aller chercher le stock chez les fournisseurs, faire l'étalage sur le plancher et négocier les ententes avec les fournisseurs.
+[16] Mais une fois les ententes négociées avec les fournisseurs, il n'avait plus rien à faire au dépanneur. Il a donc été mis à pied en février 2001. Il a affirmé qu'en février et mars 2001 il n'a pas travaillé mais il était présent quand même au dépanneur où il rencontrait des amis et ceux-ci passaient leur temps à jaser et appelaient leur association la « ligue du vieux poêle » . Il visitait sa conjointe et signait les factures du commerce, ce qui, soutient-il, n'exigeait pas 40 heures de travail par semaine. Au mois d'avril, alors qu'il était en chômage, il a travaillé trois semaines de 24 heures qu'il a déclarées sur ses cartes de chômage. Il remplaçait la payeuse qui avait subi une opération. Il a déclaré dans son témoignage n'avoir pas travaillé à temps plein puisque l'achalandage ne le justifiait pas.
+[17] Pendant la période estivale de l'été, la municipalité a entrepris des travaux d'aqueduc qui ont causé une baisse considérable de l'achalandage en raison d'un détour de 15 à 20 kilomètres qui fermait le commerce à la circulation.
+[18] Clément Sévigny et Céline Drolet ont tous les deux fait leur déclaration devant Daniel Lévesque. Monsieur Lévesque a été décrit comme un enquêteur expérimenté à qui on confie la charge de dossiers délicats impliquant parfois des politiciens ou, comme le cas présent, le lien de parenté entre l'appelant et une employée de DRHC. Monsieur Lévesque a 12 à 15 ans d'expérience.
+[19] Il a été établi que lors des deux entrevues, le comptable de l'entreprise était présent et assistait les personnes interviewées, c'est-à-dire l'appelant et la payeuse, avec chiffres à l'appui. Selon Michel Mathieu, un autre représentant du ministère, qui assistait aussi à l'entrevue, le comptable aurait appuyé les affirmations de son client selon lesquelles le dépanneur éprouvait souvent des difficultés financières et n'avait pas la capacité de payer le salaire de l'appelant.
+[20] L'appelant a prétendu que monsieur Lévesque, à la fin de l'entrevue lui aurait dit:
+1. « Vous vous êtes fait avoir »
+2. « ... tu es fait à l'os »
+3. « ... ce que tu as reçu en prestations, tu vas le rembourser »
+[21] Ce sont là de sérieuses accusations, faites peut-être de façon irréfléchie par l'appelant, puisque celles-ci ont été vigoureusement démenties par l'agent d'enquête senior Michel Mathieu qui assistait à l'entrevue.
+[22] Michel Mathieu a par ailleurs précisé que les deux entrevues se sont déroulées très bien, sur un ton un peu familier et ouvert dans le cas de l'appelant, et sur un ton d'affaire, sans animosité pour ce qui concerne l'entrevue avec madame Drolet. Monsieur Mathieu a ajouté que l'appelant et sa conjointe ont relu leur déclaration et l'ont signée. Dans le cas de l'appelant, celui-ci a été informé que la question du lien de dépendance serait déterminée par un autre Ministre, mais qu'il était possible qu'il y ait eu un trop payé et que des réclamations pourraient êtres faites, bref, comme l'indique la mise en garde lue au préalable aux personnes interviewées.
+[23] Pour sa part, Michel Mathieu a fermement démenti l'affirmation de l'appelant selon laquelle il aurait dit à celui-ci lors du recueil de la déclaration :
+Ne vous en faites pas, on a reçu une plainte [...] vous avez droit au service d'un avocat, mais puisque c'est une entrevue de routine [...]
+[24] Monsieur Mathieu a ajouté que si on avait dit à l'appelant que c'était une enquête de routine, c'est qu'effectivement c'était une enquête de routine.
+[25] L'appelant a aussi reproché à l'intimé de n'avoir pas fait entendre monsieur Lévesque à l'audition. La procureure du Ministre a fait savoir au Tribunal qu'on avait demandé la remise de cette audition en raison de la non disponibilité de monsieur Lévesque qui participait à une perquisition en Ontario. Elle a soutenu, à bon droit, que l'appelant avait le droit d'assigner monsieur Lévesque comme témoin, mais qu'il ne l'avait pas fait. La payeuse Céline Drolet a également témoigné à l'audition. En contre-interrogatoire, on l'a questionnée sur sa déclaration faite à monsieur Lévesque le 3 avril 2002. On lui a demandé en particulier d'expliquer sa réponse à la question 16 qui se lit comme suit :
+Question 16 : Comment expliquez-vous qu'entre décembre 1996 au 8 août 1998 selon vos registres des salaires, aucun salaire n'est versé au nom de Clément Sévigny et nous retrouvons des factures signées par lui à chaque semaine?
+Réponse : C'est certain que Clément est souvent au dépanneur, il m'aide quand je suis dans le jus au comptoir avec des clients et si un fournisseur passait, il signait les factures. C'est certain que Clément est toujours au dépanneur et durant cette période nous avions convenu de ne pas lui verser de salaire.
+[26] À la question posée à l'audition, madame Drolet a répondu que sa réponse donnée à l'enquêteur avait été mal interprétée.
+[27] En contre-interrogatoire, Céline Drolet a reconnu avoir relu et signé sa déclaration. Mais elle prétend s'être sentie piégée par l'enquêteur. Elle a prétendu que l'enquêteur avait écrit la déclaration à sa façon, voulant démontrer que sa déclaration représente plus au moins ce qu'elle a répondu aux questions posées. Lorsqu'on lui a suggéré que son comptable soit présent lors de l'entrevue, elle a affirmé que celui-ci ne lui a pas aidé, sauf pour les chiffres.
+[28] On lui rappelle alors qu'elle a eu l'occasion d'apporter des modifications à sa déclaration lorsqu'on l'a rappelée pour faire suite à sa déclaration et elle a répondu qu'elle n'a pas pu profiter de l'occasion puisqu'elle était occupée et que le « dépanneur était plein de monde » . Elle a ajouté qu'elle était naïve. Elle a prétendu que « les bons bouts, (l'enquêteur) ne les écrivait pas, que les vraies réponses il ne les a pas écrites » . Elle admet cependant ne pas avoir porté plainte.
+[29] Dans son cas, comme dans celui de l'appelant, le comptable, monsieur Rousseau, s'il eut été sommé à comparaître, aurait pu lui venir en aide, en corroborant peut-être les prétentions de l'appelant et de la payeuse sur l'attitude et le comportement de l'enquêteur.
+[30] Mais monsieur Rousseau n'a pas témoigné. Celui-ci aurait pu jeter un peu de lumière sur les circonstances entourant la prise des déclarations de l'appelant et de la payeuse par monsieur Lévesque.
+[31] Cette Cour doit tenir compte du commentaire de la procureure du Ministre quand elle affirme que le Tribunal, en l'absence de ce témoin, peut en déduire que la preuve du témoin eut été au désavantage de l'appelante, comme le veut le principe établi dans la jurisprudence, tel l'arrêt Lévesque c. Comeau, [1970] R.C.S. 1010 et l'ouvrage de Sopinka and Lederman, The Law of Evidence in Civil Cases (Toronto: Butterworths, 1974) dans lequel les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+(TRADUCTION)
+Dans l'affaire Blatch c. Archer (1774), 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'application de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve.
+[32] En contre-preuve, le procureur de l'appelant a fait entendre madame Lyne Courcy, agent des appels. C'est elle qui a fait l'enquête suite à laquelle elle a fait sa recommandation à son superviseur qui l'a approuvée.
+[33] Madame Courcy a aussi rencontré l'appelant et la payeuse au bureau du représentant de l'appelant le 24 octobre 2002. Elle a témoigné qu'à son avis, les parties interviewées avaient apporté à peu près les mêmes précisions que celles faites par eux dans leur témoignage à l'audition. Elle a ajouté que lors de l'entrevue, toutes les questions déjà posées dans leur déclaration précédentes avaient été repassées et que les clients avaient eu l'opportunité d'apporter des modifications, ce qu'ils n'ont pas fait.
+[34] Elle a affirmé qu'après cet exercice elle se devait de retenir principalement la version de ces déclarations et que ce qu'elle a entendu à l'audition ne lui a pas fait changer d'avis, parce qu'elle n'a rien entendu de nouveau.
+[35] Le procureur de l'appelant a nié certaines présomptions exprimées par le Ministre dans sa Réponse à l'avis d'appel. Voici ce que retient cette Cour après avoir examiné la preuve présentée tant orale que documentaire portant sur ces alinéas.
+[36] L'alinéa 5 h) a été nié, mais cette Cour doit conclure que la preuve de cette présomption a été faite et se situe dans la déclaration de l'appelant, en réponse aux questions numéros 8 et 18; elle se situe également dans la déclaration de la payeuse dans ses réponses aux questions numéros 12, 14, 16 et 23.
+[37] Pour ce qui concerne l'alinéa 5 i), la preuve n'a pas été faite comme tel que l'appelant avait avant août 1998 commencé à discuter avec certains fournisseurs du commerce et qu'il s'occupait de la location d'espace de plancher. Cependant, il a été prouvé qu'il signait des factures et effectuait plusieurs travaux au dépanneur de la payeuse.
+[38] L'alinéa 5 l) a été prouvé par l'appelant, en réponse aux questions 8, 9, 11, 17 et 19 dans sa déclaration et par la payeuse dans ses réponses aux questions 16 à 20 dans sa déclaration.
+[39] L'alinéa 5 o) a été prouvé selon la déclaration de l'appelant, à la toute fin de sa déclaration lorsqu'il a ajouté à la déclaration écrite par monsieur Lévesque qu'il était payé à la semaine et non à l'heure.
+[40] Pour ce qui concerne l'alinéa 5 p), il a été prouvé puisque les deux déclarations de l'appelant et de la payeuse ont été produites à l'audience.
+[41] Pour ce qui concerne l'alinéa 5 q), la présomption du Ministre a été prouvée pour la période de cinq semaines. Cette preuve se situe également dans la déclaration de la payeuse dans sa réponse à la question numéro 21.
+[42] L'alinéa 5 s) est prouvé dans la déclaration du travailleur dans ses réponses aux questions numéros 11, 16 et 18 et dans la déclaration de la payeuse à la question numéro 24.
+[43] La présomption exprimée par le Ministre dans l'alinéa 5 t) est prouvée dans la déclaration du travailleur aux réponses fournies aux questions numéros 11, 12 et 13 et dans celle de la travailleuse à la question numéro 24.
+[44] Pour ce qui concerne la présomption contenue à l'alinéa 6 a), la preuve se situe dans les réponses fournies par la payeuse dans sa déclaration aux questions numéros 16, 18, 21, 23 et 24.
+[45] Pour ce qui concerne la présomption contenue à l'alinéa 6 b), la preuve se situe dans la réponse de l'appelant à la question numéro 8 de sa déclaration et dans la déclaration de la payeuse dans ses réponses données aux questions numéros 12, 14, 16, 23 et 24.
+[46] L'appelant fait appel à cette Cour pour renverser la décision prise par le Ministre. Or, le pouvoir de révision de cette Cour a fait l'objet de l'analyse par la Cour d'appel fédérale qui en a défini l'obligation, la limite et la portée dans plusieurs arrêts dont certains des plus récents, tels Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. No 878; Pérusse c. Canada (ministre du Revenu national - M.R.N.), [2000] A.C.F. No 310; Massignani c. Canada (ministre du Revenu national - M.R.N.), [2003] A.C.F. No 542. Dans l'arrêt Légaré c. Canada, supra, le juge Marceau, au paragraphe 4, s'exprimait en ces termes :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[47] À la lumière de la preuve recueillie, il ressort assez nettement que l'appelant, Clément Sévigny, fournissait une prestation de travail très importante durant la période en cause. À l'égard des services qu'il a rendus durant plusieurs semaines au cours de la période qui nous concerne, il n'a pas reçu de rémunération parce que la payeuse n'avait pas suffisamment de ressources financières.
+[48] À l'appui de ces prétentions, le procureur de l'appelant a cité l'arrêt Théberge c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. No 464 et particulièrement le paragraphe 19 reproduit ci-dessous :
+Ce que fait un prestataire en dehors de la période pendant laquelle il exerce un emploi que le ministre reconnaît être un emploi assurable peut être pertinent aux fins, par exemple, de vérifier son état de chômage, de calculer le montant de ses prestations ou d'établir sa période de chômage. Aux fins, toutefois, de l'application de l'exclusion prévue à l'alinéa 3(2)c) de la Loi, ce que fait le prestataire en dehors de sa période d'emploi sera de peu de pertinence lorsqu'il n'est pas allégué, comme en l'espèce, que le salaire versé pendant la période d'emploi tenait compte du travail accompli en dehors de cette période, que le demandeur avait inclus dans les heures consacrées à son emploi assurable des heures de travail qu'il avait effectuées en dehors de la période ou encore que du travail accompli en dehors de sa période d'emploi avait été inclus dans le travail accompli pendant sa période d'emploi. Il me paraît aller de soi, ce que confirme la preuve, que dans le cas d'entreprises familiales consacrées à du travail saisonnier, le peu de travail qu'il reste à faire en dehors de la période active est généralement fait, sans rémunération, par les membres de la famille. Exclure un emploi saisonnier, dans une entreprise familiale agricole, au motif que la traite des vaches continue à l'année, c'est à toutes fins utiles priver d'assurance-chômage les membres de la famille qui se qualifient en travaillant pendant la période active et c'est ignorer les deux caractéristiques principales d'une telle entreprise, soit son caractère familial et son caractère saisonnier.
+[49] Il faut noter que dans l'arrêt Théberge, supra, il s'agissait d'un travail dans une entreprise familiale et saisonnière. Ici, il ne s'agit pas d'une entreprise familiale comparable à une ferme agricole. Il est permis de considérer le commerce de la payeuse comme une entreprise a caractère familial mais de là à la comparer à une entreprise familiale agricole saisonnière, il y a une marge. En outre, dans la cause sous étude, il ne s'agit pas de quelques heures en dehors des périodes, comme c'est souvent le cas dans les entreprises agricole où la traite des vaches, par exemple, continue pendant la période hivernale, souvent en dehors de la période de travail du travailleur. Selon la preuve, l'appelant, dans la cause sous étude, était plus ou moins à temps plein de 1996 à 1998.
+[50] Au terme de l'analyse de la preuve présentée, cette Cour doit conclure, comme l'a fait le Ministre, que l'appelant n'occupait pas un emploi assurable au sens de la Loi parce qu'un contrat de travail à peu près semblable n'aurait pas été conclu s'il n'y avait pas eu de lien de dépendance entre lui et la payeuse.
+[51] Après analyse de cette preuve, il est pertinent de se poser certaines questions, par exemple :
+1. Sans lien de dépendance, l'appelant aurait-il fait autant de bénévolat auprès de la payeuse?
+2. Sans lien de dépendance, l'appelant aurait-il utilisé sa voiture sans que sa dépense soit assumée par la payeuse?
+3. Sans lien de dépendance, l'appelant aurait-il travaillé sans salaire au dépanneur à partir de décembre 1996 jusqu'au mois d'août 1998?
+4. Sans lien de dépendance, l'appelant aurait-il accepté de travailler pour le même salaire peu importe le nombre d'heures travaillées?
+5. Sans lien de dépendance, la payeuse aurait-elle payé un salaire à un travailleur sans que celui-ci suive un horaire de travail?
+6. Sans lien de dépendance, l'appelant continuerait-il de travailler sans salaire parce que la payeuse a décidé de couper les dépenses?
+7. Sans lien de dépendance, la payeuse aurait-elle payé à salaire fixe le travailleur mais tous les autres employés au taux horaire?
+[52] Dans sa réponse à la question 23 de sa déclaration, la payeuse a admis que le relevé d'emploi de l'appelant était faux. À la question 24, elle a fait le même aveu pour ce qui concerne le relevé d'emploi puisque l'appelant a été mis à pied non pas à cause d'un manque de travail mais à cause d'un manque de liquidité. En outre, la payeuse a admis qu'elle savait que l'appelant, pendant qu'il travaillait pour elle, recevait des prestations d'assurance-emploi. Ceci se trouve dans sa réponse à la question numéro 27. Dans sa réponse à la question 28, la payeuse reconnaît que sans le lien de dépendance l'appelant n'aurait pas travaillé autant sans salaire.
+[53] Il est opportun de noter que le régime d'assurance-emploi a été mis sur pied pour venir en aide aux travailleurs qui ont perdu leur emploi. La preuve présentée à l'audition, dont les déclarations de la payeuse et de l'appelant, a été particulièrement accablante pour eux. Confrontés à celles-ci, l'appelant et sa conjointe ont tenté de mettre en doute l'intégrité des enquêteurs dans leur fonction. Cette tactique ne les a pas servis. Au contraire, elle a fortement mis en doute leur crédibilité.
+[54] Cette Cour doit conclure que le Ministre, dans l'exercice de son mandat sous le paragraphe 5(3) de la Loi, s'est acquitté de sa tâche tel que l'exige la Loi, c'est-à-dire, que les faits retenus par lui sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus.
+[55] À mon avis, compte tenu de ce qui précède, cette Cour doit conclure que la décision du Ministre paraît toujours raisonnable.
+[56] L'emploi exercé par l'appelant, pendant la période en litige, n'était pas assurable, puisqu'il existait un lien de dépendance entre lui et la payeuse, conformément aux dispositions de l'alinéa 5(2)i) de la Loi et les articles 251 et 252 de la Loi de l'impôt sur le revenu.
+[57] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé au Grand-Barachois (Nouveau-Brunswick) ce 19e jour d'avril 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI250
+No DU DOSSIER DE LA COUR :
+2003-586(EI)
+INTITULÉ DE LA CAUSE :
+Clément Sévigny
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 25 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+le 19 avril 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Frédéric St-Jean
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Frédéric St-Jean
+Étude :
+Sainte-Foy (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

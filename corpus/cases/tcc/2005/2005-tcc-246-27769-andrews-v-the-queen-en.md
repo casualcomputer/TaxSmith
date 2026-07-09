@@ -1,0 +1,302 @@
+---
+title: "Andrews v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27769/index.do"
+last_modified: "2005-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 246"
+citation2: ""
+neutral_citation: "2005 TCC 246"
+decision_date: "2005-04-13"
+language: "en"
+item_id: "27769"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 290
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:49:41.910000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "de402e37844bd1330f4319b6ba98ca02e78ec104677cadf1b2d5ce10a02e5b87"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Andrews v. The Queen
+
+- Citation: 2005 TCC 246
+- Decision date: 2005-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 290, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-13
+Neutral citation
+2005 TCC 246
+File numbers
+2004-916(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-916(IT)I
+BETWEEN:
+ROSS ANDREWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 10, 2005 at Kitchener, Ontario
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed and the assessments for the taxation years 2000, 2001 and 2002 are referred back to the Minister for reconsideration and reassessment to allow the appellant to exclude from his income the amounts of $5,780, $6,672 and $6,792 respectively, being the portion of his pension that he paid to his former spouse as an equalization payment under the Family Law Act of Ontario.
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 13th day of April, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2005TCC246
+Date: 20050413
+Docket: 2004-916(IT)I
+BETWEEN:
+ROSS ANDREWS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from assessments for the appellant’s 2000, 2001 and 2002 taxation years. They involve the appellant’s claim to deduct $5,780.00, $6,672.00 and $6,792.00, which amounts were paid by the appellant to his former spouse. As will be apparent from the reasons that follow, the issue is not simply deductibility. A separate and alternative issue is whether the amounts should be excluded from the appellant’s income rather than deducted.
+[2] The facts are a little complex and the law is not as clear as it might be. I shall start by setting out the relevant provisions of the Income Tax Act. In general it is relevant, where periodic payments following the break-up of a marriage are concerned, to consider the position of the payor as well as the payee, simply because the provisions of the Act relating to such payments are premised, to some degree at least, on a symmetrical treatment of the spouses.[1] The amounts in issue represent a portion of the appellant’s pension from his former employer (IBM) and therefore I am setting out the provisions of the Act that deal not only with support amounts but also with pension benefits.
+56.(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+.....
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer’s income for a preceding taxation year;
+Section 56.1
+(4) The definitions in this subsection apply in this section and section 56.
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+60. There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable:
+...
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+...
+(c) [Repealed by S.C. 1997, c. 25, s. 10(1).]
+...
+(c.1) [Repealed by S.C. 1994, c. 7, Sch. VIII, s. 20(2).]
+...
+(c.2) an amount paid by the taxpayer in the year or one of the 2 preceding taxation years under a decree, order or judgment of a competent tribunal as a repayment of an amount included under paragraph 56(1)(b) or 56(1)(c), or under paragraph 56(1)(c.1) (as it applies, in computing the taxpayer’s income for the year or a preceding taxation year, to decrees, orders and judgments made before 1993) to the extent that it was not so deducted for a preceding taxation year;
+...
+s.60.1(4)
+The definitions in subsection 56.1(4) apply in this section and section 60.
+[3] The facts giving rise to the issue here are as follows. The appellant and his then spouse Margaret Gail Andrews entered into a separation agreement on June 3, 1987. Two provisions in the agreement are of interest:
+OTHER PENSIONS
+The husband and wife acknowledge that each has a retirement pension with his or her employer.
+The husband and wife agree that for purposes of equalization of the net family property, each shall be entitled to receive, either directly from the employer of the other, or directly from the other, upon the other receiving the pension payments, a sum calculated according to the following formula:
+½ X Number of Months of cohabitation
+while contributing to the Plan_________ X Pension Payment
+Number of months contributing to the Plan Received.
+or participation in the Plan
+The husband and wife agree that at each other’s request they will provide documentary evidence of the pension payments received and the full particulars of the duration of the pension and all other matters concerning the pension plan each has with their respective employer.
+Each of the parties will execute any documents and do all further things, at the cost of the other, that is reasonably required from time to time to give effect to the terms and intent of these subparagraphs so that each shall receive a portion of the pension of the other for purposes of equalization of net family property.
+. . . . .
+On the 28th day of January, 1987 and on the 28th day of each and every month following until and including the 28th day of the month when the child Lesley Korin is no longer attending or enrolled in a full time program of education at a university or college, the husband shall pay to the wife for her maintenance and support and the maintenance and support of the child Lesley Korin, the sum of Fourteen Hundred ($1,400.00) Dollars per month. The payments on the 28th day of the month shall be deemed to be for the following month, the first of such payment having taken place on January 28, 1987 and being deemed payment for the month of February 1987, so that the husband shall be entitled for taxation year 1987 to include in his income a deduction for 11 X $1,400.00, provided he has paid the same to the wife, and the wife shall include in her income for the year 1987, having received payments of 11 X $1,400.00, provided the husband paid the same to her.
+Upon the child Lesley Korin ceasing to be in full time enrolment in a program of education at a college or university, the monthly support payments shall decrease to the sum of One Thousand ($1,000.00) Dollars.
+[4] At that time both spouses had jobs and did not expect that their pensions would begin for many years. The appellant seems to have been under the impression that the support payments were to have terminated in 1996 and he found to his surprise that he had to pay support in 1997. Even more disconcerting to the appellant was the fact that since he had left his employment with IBM in 1995 (earlier than he had originally anticipated), he started receiving a pension from IBM and therefore the equalization formula set out above in the separation agreement became applicable. The result was an overlap of the support payments and the equalization payments.
+[5] In October 1997, the spouses entered into an amending agreement which varied some of the provisions relating to support and the division of the pension.
+[6] The amending agreement read in part as follows:
+PART 3 – VARIATION OF SPOUSAL SUPPORT TERMS
+TIME-LIMITED SPOUSAL SUPPORT
+14.1 The current spousal support payable by the ex‑husband to the ex‑wife in the amount of $1000.00 per month shall continue as per the Separation Agreement up to and including a final payment on December 28, 1997.
+14.2 The aforesaid spousal support shall terminate with the said final payment on December 28, 1997, after which there shall be no further spousal support paid to the ex-wife under any circumstances whatsoever, and the ex-wife forever releases any rights to any further or other form of financial support thereafter.
+14.3 There shall be no variation or extension of the amount or duration of spousal support payable in accordance with the terms herein even in the event of material, substantial, radical, or catastrophic changes in the circumstances of the parties or either of them, nor shall there be any variation by reason of any change in the cost of living.
+14.4 Except for rights arising under this agreement, each of the parties forever releases and discharges the other from all rights to, and claims for, support that he or she may have under the laws of any jurisdiction, and in particular all rights to, and claims for, financial support under the Family Law Act and the Divorce Act.
+14.5 The ex-wife specifically acknowledges and agrees that by the time her spousal support terminates she will be financially independent and will not require any financial assistance from the ex-husband. She further specifically acknowledges and agrees that even if she is not financially independent by the time her spousal support terminates, she alone will bear the consequences of such fact and will not request any financial assistance from the ex‑husband under any circumstances.
+14.6 Each of the parties releases the other from all obligations of financial support for the other pursuant to any federal or provincial statute now or hereafter in force, or under the common law, except under the terms of this agreement. In particular, the ex‑wife releases all rights to claim from the ex-husband, or obtain from the ex-husband, any form of financial support, including interim support, for herself pursuant to any federal or provincial statute now or hereafter in force, or under the common law; and whether based on need or as compensation for contributions to career advancement or economic advantages or disadvantages.
+14.7 The parties realize and acknowledge that their respective financial circumstances may change in the future by reason of their health, the cost of living, their employment, or otherwise. No such change, whether causally connected to the marriage or not, and no matter how significant, material, profound, radical, drastic, catastrophic, or otherwise, will give either party the right to claim or obtain from the other any further or other form of financial support, or the right to claim a variation of the release of support provisions contained above, pursuant to the Family Law Act, Divorce Act, or the common law, or any law of any jurisdiction. This paragraph may be pleaded as and shall constitute a full defence in answer to such claims.
+PART 4 – PARTIAL WAIVER OF PENSION PAYMENTS
+PENSION PAYMENTS
+15.1 The ex-wife agrees and acknowledges that she waives any and all pension payments that she would otherwise be entitled to under the provision in the Separation Agreement entitled “Other Pensions” until the payment due for January 1998; that is, she waives all such payments up to and including the payment that would otherwise have been due for December 1997.
+15.2 The parties specifically agree that from and after January 1998 all pension payments payable pursuant to the Separation Agreement shall be payable strictly in accordance with the terms thereof, including the pension payment due for January 1998.
+[7] Mr. Andrews attempted, in November 1997, following the execution of the amending agreement, to have IBM pay the formula amount under the pension equalization clause directly to his ex-wife.
+[8] Towers Perrin, the pension administrator, advised that it could not do so. The internal communication from Towers Perrin reads as follows:
+MARRIAGE BREAKDOWN – ROSS ARMAND ANDREWS
+This letter is in response to the letter Rob Weagle received from Mr. Andrews, dated November 18, 1997. We have reviewed the separation agreement (the “Agreement”) dated June 3, 1987 as well as the amending agreement (the “Amendment”) dated October 30, 1997, between the parties, Mr. Ross Armand Andrews and Ms. Margaret Gail Andrews.
+Based on our review of these documents and of the Pension Benefits Act (Ontario) (the “PBA”), IBM may administer the Agreement and the Amendment, as we will describe below. We do however have some concerns regarding both documents. In this respect, you may wish to forward a copy of our letter to both parties.
+Division of Pension Payments
+As per the section entitled “Other Pensions” of the Agreement, Mr. Andrews must provide Ms. Andrews with half of the pension accrued in respect of the period of cohabitation of the parties, that will be in payment at retirement. As stated in the Agreement, the payment can be made “either directly from the employer” or “directly from the other, upon receiving the pension payments”.
+Any pension division effected directly by IBM must be in accordance with the PBA. Section 51(2) of the PBA permits that 50 percent of the pension benefits “accrued by a member or former member during the period when the party and the member or former member were spouses” be divided. Regulation 56 of the PBA states that “the pension benefits accrued during the period a member had a spouse shall be determined as if the member terminated employment at the valuation date in accordance with the terms of the plan at that date and without consideration of future benefits, salary or changes to the plan”. The “valuation date” in this case is the date stated in Subsection 9.5 of the Amendment, which is May 26, 1988.
+Consequently, the amount the IBM Plan can pay Ms. Andrews directly is $445.31 per month. This amount is determined as follows:
+½ x accrued pension on May 26, 1988 x reduction factor for early retirement x reduction factor for
+66 2/3% survivor benefit = ½ x $1,417.96 x 0.70 x 10.3238 = $444.10 per month
+11.5369
+As required by the legislation, this amount is based on the IBM Plan provisions effective on the valuation date. For your convenience we have summarized the relevant provisions, the data and assumptions used in the pension calculation as of May 26, 1988 in the attached Exhibit I.
+For the total amount stated under the Agreement to be paid to Ms. Andrews, additional payments will need to be effected by Mr. Andrews directly, outside of the registered pension plan and thereby not involving IBM. This seems to have been provided for in the Agreement.
+[9] Presumably since Towers Perrin considered that it was prohibited under the Pension Benefits Act from paying the full formula amount to Mr. Andrews’ ex‑spouse, Mr. and Mrs. Andrews signed minutes of settlement which read as follows:
+The parties hereby agree to settle all outstanding issues in this proceeding on the basis of the following terms and conditions:
+1. The Respondent shall forthwith transfer from his Registered Retirement Savings Plan the sum of $15,000.00 into the Applicant’s Registered Retirement Savings Plan by way of tax-free spousal roll-over.
+2. Commencing on the 1st day of September, 2000, the Respondent shall pay to the Applicant the sum of $556.00 per month as further equalization of the Respondent’s pension. Such sum shall be tax deductible to the Respondent and taxable in the hands of the Applicant.
+3. The Applicant shall continue to receive the sum of $444.00 per month from Towers Perrin, which sum is her entitlement pursuant to the Pension Benefits Act.
+4. The Applicant thereafter waives any further entitlement to share in the pension of the Respondent and accepts the above sums as full and final settlement with respect to equalization.
+5. The Respondent shall forthwith pay to the Applicant the sum of $3,000.00 in costs.
+6. The parties agree to a Judgment being issued in accordance with these terms.
+7. There shall be no further support or equalization payable from one to the other.
+8. Neither party shall make any further claim against the other as a result of their marriage and separation and agree that all matters have now been finally determined.
+DATED at Owen Sound, Ontario this 30 day of January, 2001.
+[signed by]
+________________________
+[Debbie Robertson] MARGARET GAIL ANDREWS
+WITNESS
+[10] Judgment was issued by Mr. Justice G.B. Smith of the Ontario Superior Court of Justice incorporating precisely the words of the minutes of settlement except that each paragraph commences with the words “This Court Orders that” and paragraph 6 of the minutes of settlement is left out of the judgment.
+[11] The appellant contends that he is entitled to deduct the $556.00 per month paid by him to his ex-spouse pursuant to the judgment. The respondent contends that the $556.00 per month is not deductible as a “support amount” but rather is an equalization payment in which property is divided up between the spouses. Property is defined in section 4 of the Family Law Act of Ontario as follows:
+“property” means any interest, present or future, vested or contingent, in real or personal property and includes,
+(a) property over which a spouse has, alone or in conjunction with another person, a power of appointment exercisable in favour of himself or herself,
+(b) property disposed of by a spouse but over which the spouse has, alone or in conjunction with another person, a power to revoke the disposition or a power to consume or dispose of the property, and
+(c) in the case of a spouse’s rights under a pension plan that have vested, the spouse’s interest in the plan including contributions made by other persons; (“bien”)
+[12] I agree with the respondent. The $556.00 paid by the appellant to his ex‑spouse is not a support amount. It is paid as an equalization payment in a division of family property. It is not stated to be a support payment. Support payments are dealt with elsewhere in the 1987 agreement and the 1997 amending agreement. The minutes of settlement and judgment differentiate between support amounts and equalization payments.
+[13] If the taxability of the amounts of $556.00 per month in the hands of the recipient is a relevant consideration, in my view the payments of $556.00 per month are not superannuation or pension benefits in the hands of the appellant’s former wife. This expression is defined in section 248 of the Act as follows:
+“superannuation or pension benefit” includes any amount received out of or under a superannuation or pension fund or plan and, without restricting the generality of the foregoing, includes any payment made to a beneficiary under the fund or plan or to an employer or former employer of the beneficiary thereunder
+(a) in accordance with the terms of the fund or plan,
+(b) resulting from an amendment to or modification of the fund or plan, or
+(c) resulting from the termination of the fund or plan;
+[14] It is true, the definition does not purport to be exhaustive, because of the word “includes” but I can think of no extended meaning of the expression that would include a payment by an ex-spouse of a portion of his pension to his ex‑wife as an equalization of a family property. I make no comment on the apparent assumption of both the appellant and the respondent, as well, presumably, of the ex‑wife, that the $444.00 per month which Mrs. Andrews received from Towers Perrin is a pension benefit and is taxable in her hands.
+[15] The matter has been considered on a number of occasions in the courts. In Turner v. The Queen, [1997] 2 C.T.C. 2670, Hamlyn J. dealt with a situation where the court in the original decree nisi judgment ordered as follows:
+a) All the Respondent’s pension and benefits and accretions thereto under the Canadian Forces Superannuation Act and Supplementary Retirement Benefits Act and amendments thereto or subsequent or similar legislation is a family asset and the Petitioner is entitled to a percentage interest or share as tenant‑in‑common in and to the same (hereinafter called the “Petitioner’s interest”);
+Payments fell into arrears and a further order was made:
+THIS COURT FURTHER ORDERS that this Order shall in no way affect the provisions for pension division contained in the said Decree Nisi, which shall continue in full force and effect and the Respondent shall pay to the Petitioner all sums due to the Petitioner as her share of his pension (presently $287.25 per month plus incremental increases as and when the same become payable).
+Hamlyn J. said:
+The “Pension” Characterization
+18 The pension clause of the judgment by way of decree nisi (February 5, 1987) envisaged Turner receiving the full pension payment and remitting the Appellant's monthly share to the Appellant. At the end of each year, the Appellant upon being so advised was to remunerate Turner for any tax liability incurred for him receiving the Appellant's share (based on the Appellant's marginal tax rate).
+19 The Appellant's interest in the pension was specified as a family asset and was fixed; her percentage interest or share was stated as a tenant in common. It is important to note the ordered “pension” arrangement was between the Appellant and Turner and not the Appellant, Turner and the Canadian Forces Superannuation authority. There was no provision for Turner to assign directly the Appellant's interest in the pension to the Appellant. Turner was to hold the Appellant's share in trust for the Appellant and Turner was to protect the Appellant's interest in the pension including provision for the Appellant's interest in the event of the death of Turner.
+20 The lack of assignment possibility and the precise income tax stipulations take this case beyond the cited decision of Walker v. Canada, [1994] T.C.J. 982.
+21 It is clear the judgment by way of decree nisi did not envisage the pension being split at source (i.e. allocated separately at source) and indeed it was not. It is clear from the Order that Turner was to send the Appellant's income tax paid share of the pension to the Appellant subject to an annual tax adjustment indemnification to Turner by the Appellant of tax paid to the limit of the Appellant's margin at tax rate. Because the payment made by Turner to the Appellant as stated under the judgment by way of decree nisi is in the form of a stipulated income tax paid payment from a family asset it is not to be included in the income of the Appellant under paragraphs 56(1)(a), (b) or (c).
+[16] In Manuel v. The Queen, [1999] 4 C.T.C. 2281, Watson D.J. dealt with a similar situation where a former husband was required to share his Armed Forces pension with his ex-wife, the appellant. He held that the amounts received by the appellant were “after‑tax payments from a family asset” and were not taxable in her hands.
+[17] He referred to the decision of the Supreme Court of Canada in Clarke v. Clarke, [1990] 2 S.C.R. 795, where Wilson J., speaking for the Court, said at pages 809 to 811.
+Turning to the maintenance option, which is the appellant's third issue, I note that it arises out of the statements made by Pace J.A. in the Court of Appeal. He expressed the view that even although the pension benefit was not a matrimonial asset, the appellant might still be entitled to participate in it through an award of maintenance should the need for maintenance arise. The pension in this context would be income in the hands of the recipient spouse.
+The appellant submits that maintenance is not an acceptable alternative to a share of a capital asset, the former being contingent on continuing need on the one hand and ability to pay on the other. I think the appellant's submission is sound. Cameron J.A., in Tataryn v. Tataryn (1984), 38 R.F.L. (2d) 272 (Sask. C.A.), clearly identified the difference between the two interests at pp. 285-86:
+In my respectful view, the term "maintenance asset" has no place in determining whether a right to a pension is, or is not, matrimonial property within the meaning of s. 2(h) of the Act. Nor can a pension entitlement, if it constitutes matrimonial property, be excluded from distribution on the footing it is a source of income from which alimony or maintenance obligations can be paid.
+A matrimonial property right is not to be confused with a right to alimony or maintenance. The two differ fundamentally. Not only do they depend for their existence on different enactments and spring from different assumptions, their legal character is wholly dissimilar; the first is proprietary in nature, and concerns capital and its division: the other is personal, and involves income and the support of one spouse by the other.
+The statutory right of a married woman to share in the property accumulated during her marriage is rooted in the modern view of marriage as a partnership, and derives from the presumption of the Matrimonial Property Act that each of the partners contributed equally and independently to the acquisition of the marital property. Neither the conduct or condition, nor the needs or means, of either of the partners to the marriage have anything to do with the earned right of each of them to share in the property of the marriage — except to the limited extent that these factors may incidentally touch upon the existence and extent of an exemption, exception, or equitable consideration mentioned in the Act. Generally speaking this Act, which provides for an orderly dissolution of the economic partnership on marriage breakdown, envisages a complete accounting and final sharing of the marriage capital following the breakdown.
+A married woman's right to alimony and maintenance is, of course, a very different matter. It is anchored, historically, in the notion that marriage imposed a duty upon the husband to support his dependent wife according to his means as long as she did not absent herself without cause. The rights to alimony and maintenance ... remain altogether dependent upon the behaviour of the wife, and on the condition, means and other circumstances of each of the spouses. And, generally speaking, there is little finality to the right of support; if it exists it survives separation and divorce, and remains, at all times, subject to review as circumstances change.
+All of this is not to say that the two rights are altogether unrelated, for obviously they are not, but in my respectful opinion they have to be kept separate when determining whether a given thing is or is not matrimonial property. [Emphasis added.]
+I agree with Cameron J.A.'s analysis. Discretionary support payments are a wholly inadequate and unacceptable substitute for an entitlement to share in the assets accumulated during the marriage as a result of the combined efforts of the spouses.
+[18] This decision, together with the two decisions of this court referred to above, should be conclusive against the appellant’s position. The result is that an amount paid monthly by a husband to his ex-spouse as a division of a matrimonial asset, the husband’s pension, is neither a support amount nor a pension benefit in the hands of the recipient spouse nor is it deductible by the payor as a support amount.
+[19] The question is not, however, susceptible of quite so simple a resolution and I therefore turn to the alternative issue mentioned in the first paragraph of these reasons. Counsel for the respondent very fairly drew my attention to a decision of the Federal Court of Appeal in Walker v. The Queen, [2000] DTC 6025. The court dismissed an appeal from a judgment of Mogan J. ([1995] 1 C.T.C. 2408; 95 DTC 753).
+[20] The issue before Mogan J. was whether the appellant, Carol Ann Walker, was required to include in her income a portion of the gross proceeds of her spouse’s pension income paid to her under a separation agreement. The parties agreed to the following facts:
+12. Roy S. Shattock’s gross military service pension is not indexed and is paid at the rate of $836.84 per month, making an annual amount of $10,042.08.
+13. Commencing April 1988, Carole Ann Walker received $418.42 each month from Roy S. Shattock by cheque usually dated the first day of each month, making an annual amount of $5,021.04.
+[21] The relevant portions of the separation agreement read as follows:
+9. SUPPORT OBLIGATIONS
+Neither party, subject to the other provisions of the agreement, shall be obligated to make any payment or payments of any kind whatsoever, directly or indirectly, to or for the benefit of the other, and each party hereby expressly renounces any right or claim which she or he has had, now has or will in the future have or acquire, whether at law or in equity or under the provisions of any Statute past, present or future, including the Family Law Act and amendments thereto, for alimony, support, maintenance or otherwise . . .
+10. CHILD SUPPORT
+The wife shall pay to the husband for the care, support and maintenance of the child, the monthly sum of two hundred and twenty five ($225.00) dollars on the first day of each and every month, beginning on the first day of April, 1988 . . .
+14. EQUALIZING PAYMENT – NET FAMILY PROPERTY
+The husband and the wife agree that during their marriage certain items of property were acquired by both of them and that those items of property were used by the family without regard to the identity of the person acquiring the property. It is agreed that all property has been divided between them to their mutual satisfaction and that subsequent to the equalizing payment set out below that each may keep the property in their possession free of any claim of the other.
+From the net proceeds of the sale of the matrimonial home, the husband shall pay to the wife the sum of seven thousand and thirty eight dollars and seventy five cents ($7,038.75). The husband shall further pay to the wife the sum [of] five hundred and eighty dollars and twenty six cents ($580.26) representing the differential between the wife’s share of the husband’s pension benefits for the first three months of 1988 and the support monies due by the wife to the husband for the support of the child of the marriage.
+The husband shall assign one half of the gross proceeds of his pension income from his military service and until such time as the payments resulting from the assignment are processed and reach the wife, the husband shall pay to the wife the sum of four hundred and eighteen dollars and forty two cents ($418.42) per month on the first day of every month commencing on the first day of April, 1988. The wife may elect to set off monies payable to the husband for child support against pension income until the assignment is perfected but must advise the husband of such election prior to the twenty fifth of the previous month. The husband warrants that he will proceed with due diligence to process such assignment.
+The former husband was added as a third party under section 174 of the Income Tax Act.
+[22] In dismissing the appeal Mogan J., after quoting a portion of the separation agreement set out above, said at pages 757-8:
+To me, the above words are a clear indication that the husband and wife (i.e. the Third Party and the Appellant) intended that the military pension be allocated at the source so that the administrator of the pension would issue two cheques each month: one to the husband for $418.42 and one to the wife for $418.42. How else can I interpret words like: "and until such time as the payments resulting from the assignment are processed and reach the wife, the husband shall pay to the wife ..."? Also, the last sentence of section 14 supports my interpretation: "The husband warrants that he will proceed with due diligence to process such assignment". If the assignment had been processed immediately causing the administrator to issue two cheques each month, the Appellant and the Third Party would have each reported annual income of $5,021 with respect to the military pension.
+I understand from comments by counsel that the husband (Third Party) did attempt to process the assignment but that certain federal legislation prevented the administrator of the military pension from giving effect to the assignment. Counsel also indicated that such legislation was being amended (or perhaps has now been amended) to permit such an assignment. In my view, the inability of the administrator of the military pension to give effect to the assignment in 1988 and 1989 cannot nullify what the parties achieved in their separation agreement. Under subsection 4(1) of the FLA, pension benefits are included in "property". And under the separation agreement, the Appellant and the Third Party agreed to divide such property into two equal portions. They did not attempt to divide the present value of the pension (with or without a discount for income tax) as in Marsham, but they did in fact divide the stream of future payments so that each would be entitled to one-half of the gross proceeds of the pension month by month.
+The Appellant and the Third Party each received independent legal advice when negotiating and settling the terms of the separation agreement. If the Marsham decision was well known in March 1988 by lawyers practising in the field of family law (as suggested by counsel for the Appellant), why is there no reference to income tax in section 14 of the separation agreement along the lines of item 12 in the directions given by Walsh, J. at the end of his reasons in Marsham? If the Third Party were to pay all of the income tax on the full annual pension of $10,042 and then pay a tax-free annual amount of $5,021 to the Appellant, the Third Party would be left with very little cash residue each year from the pension. If the parties intended such an unreasonable result in section 14, it ought to have been explicitly stated in single syllable words. Because the parties were dividing equally a stream of future payments (i.e., the gross proceeds of the pension) which clearly had the character of income for income tax purposes, I think it was their intention that each would include half of the gross proceeds of the pension in the computation of his/her income and each would pay the resulting income tax. This is the more reasonable interpretation of section 14.
+As a consequence of section 14 of the separation agreement, the wife (Appellant) was entitled from and after April 1988 to receive one-half of the gross proceeds of the military pension each month. If the administrator of the military pension was unable (for whatever reason) to give effect to the husband's assignment, and if the administrator continued to pay the gross proceed to the husband each month, then the husband received one-half of the gross proceed as agent for or in trust for his wife (the Appellant). For income tax purposes, the husband (Third Party) was required to report on an annual basis only one-half ($5,021) of the gross proceeds as pension income under subparagraph 56(1)(a)(i) of the Income Tax Act; and the wife (Appellant) was also required to report on an annual basis one‑half ($5,021) of the gross proceeds as pension income under subparagraph 56(1)(a)(i) of the Income Tax Act. I can now respond to the two questions in the Minister's application under section 174 of the Income Tax Act.
+I. Is the amount of $5,021 which Carole Ann Walker received in each of the taxation years 1988 and 1989 from Roy S. Shattock pursuant to their separation agreement (made as of the 9th day of March, 1988) to be included in the computation of her income under the provisions of the Income Tax Act?
+Answer: Yes
+II. If the amounts referred to in Question I are not to be included in computing the income of Carole Ann Walker for the 1988 and 1989 taxation years, are those amounts to be included in computing the income of Roy S. Shattock for the 1988 and 1989 taxation years?
+Answer: Not required because of the answer to Question I.
+The appeals of the Appellant for 1988 and 1989 are dismissed. In all the circumstances of this case, no costs are awarded.
+[23] It is significant that earlier in his reasons Mogan J. expressly rejected the argument that all of the pension would initially be included in the husband’s income but that he would be entitled to a deduction under paragraph 60(b) of the Income Tax Act. He rejected the argument:
+“because it is not supported by the terms of the separation agreement. In section 9, the husband and wife expressly renounce any claim for alimony, support or maintenance”
+I am in respectful agreement with Mogan J. on this point. His observations are equally applicable to this case. As stated above, I do not think the amounts are deductible as support amounts.
+[24] The oral judgment of the Federal Court of Appeal was delivered by McDonald J.. It reads in its entirety as follows:
+[1] In spite of the able argument of counsel for the appellant we have not been convinced that the learned Tax Court Judge made any error which would warrant our interference.
+[2] The simple issue before us is whether the portion of a pension paid to the wife pursuant to the equalization of property required by the Family Law Act ("FLA") is taxable as income to the recipient.
+[3] The separation agreement here clearly calls for the husband to assign one half of the gross proceeds of his pension income from his military service. The Tax Court Judge characterizes this as the last act by the parties in "equalizing the net family properties" under the FLA. If the assignment had been processed at source by the military authorities, as contemplated in the separation agreement, two separate cheques would have been issued. Each party would then have reported annual income from this source in the amount of $5,021.00.
+[4] It was the inability to proceed in this manner which resulted in the situation where the husband made payment of half the gross pension income directly to the wife.
+[5] We believe it was the intention of the parties at the time the separation agreement was executed that each would pay income tax on the gross amount received with the result that each would be left with their share of the pension (the property in this case) after taxes.
+[6] The appellant argued that she is in a worse position having to pay tax on her share of the pension when it was paid out, than she would have been if the pension had been valued and divided at the time of separation. However, such a valuation would have taken into account the cost of future taxes in calculating the value of the pension. The appellant then would have received half of the pension’s value after taxes. The appellant is in no worse a position now. She will receive half the value of the pension after tax.
+[7] The appeal is dismissed without costs.
+[25] When one analyses the reasoning of Mogan J. and of the Federal Court of Appeal one is forced to ask “why was Mrs. Walker taxable on a division of family property?” If there had been, as Mogan J. observes, an actuarial calculation of the present value of the husband’s pension and a lump sum paid to her by her husband, the lump sum would clearly not have been taxable, either as a pension benefit or as a support amount. I do not think that even the decision of the majority of the Supreme Court of Canada in Tsiaprailis v. Canada, 2005 S.C.C. 8, would have taxed her on the lump sum. Clearly the amount paid to Mrs. Walker by her husband was not a pension amount because it was not paid out of a superannuation or pension fund or plan. It is clear as well that the parties did not intend it to be a support amount and, as noted above, Mogan J. rejected the argument that it was a support payment. Then why is it taxable?
+[26] Justice Mogan put his decision on the basis that since the rules did not permit the pension to be split by the administrator and paid directly to the wife, the husband received a portion of the pension as agent for the wife. The reasoning appears to be, therefore, not that it was deductible by the husband under any particular provision of the Act, but rather that the portion that he paid to his wife was received by him as her agent and never formed part of his income in the first place. In other words, by agreeing to pay her a portion of the pension that he received he did what the pension administrator could not do, that is to say, split the pension at source so that he was taxable only on the portion that he retained and she was in effect receiving the portion received from her husband directly from the pension administrator.
+[27] This analysis was not adopted by the Federal Court of Appeal in its oral judgment. The ratio of the Federal Court of Appeal’s judgment seems to be contained in paragraph 5 of the reasons which reads:
+[5] We believe it was the intention of the parties at the time the separation agreement was executed that each would pay income tax on the gross amount received with the result that each would be left with their share of the pension (the property in this case) after taxes.
+There is, I suppose, a sort of rough justice in making estranged spouses abide by the tax consequences that they agreed to but I had always been under the impression that the tax consequences of transactions had to be determined in accordance with the law and not in accordance with the deals people made. After all, if the Minister of National Revenue is not bound by deals his officials make with taxpayers (Cohen v. The Queen, 80 DTC 6250; Consoltex Inc. v. The Queen, 97 DTC 724; cf. Smerchanski et al. v. M.N.R., 76 DTC 6247) it is difficult to see how the incidence of taxation of a particular transaction that the parties agree to should bind the Minister if it is not in conformity with the Act.
+[28] While I have some difficulty with the legal reasoning in Walker, nonetheless I am bound by the rule of stare decisis to follow the decision of the Federal Court of Appeal because it is for all practical purposes indistinguishable from this case. Moreover, the result is not an unfair one.
+[29] The parties here agreed that each would pay tax on a portion of the husband’s pension and they incorporated that agreement in a consent order. [I should mention that I am not aware that a superior court of a province has the power to declare what the federal income tax consequences of a transaction should be.] The reason for the appellant paying his wife a portion of the pension that he received was the same as in the Walker case, and that was because the pension administrator did not believe that it could split the pension in a manner that differed from that permitted by law.
+[30] I shall endeavour to summarize my reasons for concluding that the appellant should succeed. Here we have an agreement between the spouses that they will share the husband's pension. Part of the split is made before the money leaves the pension administrator's hands and $444.00 is paid directly by the administrator to the wife. The assumption appears to be that this amount is owned ab initio by the wife under subparagraph 56(1)(a)(i) of the Act and never forms part of the husband's income. Therefore the question of deductibility by the husband never arises.
+[31] The parties also agreed that a further portion of the husband's pension ($556.00) would be paid monthly by him to his wife:
+"as further equalization of the Respondent's pension. Such sum shall be tax deductible to the Respondent and taxable in the hands of the Applicant."
+[32] Leaving aside the question of the effectiveness of the agreement to dictate the tax consequences of this arrangement, the provision is at least clear evidence of the intent of the parties and this brings it within paragraph 5 of the Federal Court of Appeal judgment in Walker, quoted above.
+[33] I can find no provision in the Income Tax Act that would permit the deduction of the monthly $556.00 equalization payments. Therefore to be consistent with Walker if the appellant is to succeed it must be on the basis that the portion of his pension received by the appellant and paid to his wife did not form part of his income. As will be apparent from my remarks earlier in these reasons, I find the reasoning in Walker difficult to reconcile with certain concepts that I have always believed to be firmly entrenched in income tax law:
+(a) absent sham, the form of a transaction prevails over notions of "substance" or "economic reality".
+(b) the tax consequences of a transaction are to be determined on the basis of what was in fact done not what might have been done.
+(c) the parties to a transaction cannot bind either the Court or the Minister by an agreement as to the tax consequences of the transaction.
+[34] I could perhaps distinguish Walker on a variety of grounds.
+(a) the agreement in Walker involved an "assignment" rather than an agreement to pay.
+(b) there was a finding by Mogan J. that the husband was an agent of the wife. I do not know what evidence was before Mogan J. that would justify this conclusion. It was unquestionably a convenient solution to a somewhat perplexing problem and it enabled him to achieve a fair result. It was not, it might be noted, the basis of the Federal Court of Appeal decision.
+(c) the Walker case dealt with income inclusion and this case deals with deductibility in which the rules are different. The argument would be that in Walker something analogous to the surrogatum principle discussed recently in Tsiaprailis was the inarticulate major premise upon which the judgment was based whereas in questions of deductibility there is no such thing as the converse of the surrogatum principle.
+[35] I do not think that these somewhat subtle distinctions justify my not following Walker. The principle that I deduce from the Walker decision is that effect should be given to agreements that parties enter into. It is that principle that I am bound to follow.
+[36] The appeals are allowed and the assessments for the taxation years 2000, 2001 and 2002 are referred back to the Minister for reconsideration and reassessment on the basis that the portion of the appellant’s pension that he paid to his former spouse as an equalization payment under the Family Law Act of Ontario is not to be included in his income.
+[37] The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 13th day of April, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION: 2005TCC246
+COURT FILE NO.: 2004-916(IT)I
+STYLE OF CAUSE: Ross Andrews and Her Majesty The Queen
+PLACE OF HEARING: Kitchener, Ontario
+DATE OF HEARING: March 10, 2005
+REASONS FOR JUDGMENT BY: D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT: April 13, 2005
+APPEARANCES:
+For the Appellant::
+The Appellant himself
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] This view is expressed as well by Hugessen J.A. (Pratte & Urie, JJ.A. concurring) in The Queen v. McKimmon, 90 DTC 6088, where he said at p. 6090.
+The problem of distinguishing between periodic payments made as an allowance for maintenance, which are deductible for income tax purposes, and periodic payments made as instalments of a lump or capital sum, which are not so deductible, is one which has given rise to considerable discussion and jurisprudence. It is not dissimilar, and is indeed related to the problem, common in income tax law, of determining if sums of money expended or received are of an income or of a capital nature. As with that problem there can be very few hard and fast rules. On the contrary, the Court is required to look at all the circumstances surrounding the payment and to determine what, in the light of those circumstances, is its proper characterization. Because of the correlation between paragraphs 60(b) and 56(1)(b), a finding that a payment is deductible by the payer will normally result in its being taxable in the hands of the recipient. Conversely, a determination that a payment is not so deductible will result in the recipient having it free of tax.
+Following this passage he sets out a list of criteria to be used in making such a determination.

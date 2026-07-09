@@ -1,0 +1,156 @@
+---
+title: "James Wootton"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27983/index.do"
+last_modified: "2007-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 545"
+citation2: ""
+neutral_citation: "2007 CCI 545"
+decision_date: "2007-09-13"
+language: "fr"
+item_id: "27983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1765
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:17:53.546000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7115b71894d8304b49f1e8f340b1e177a0d310321b4fd47dcd6dec92a720d1f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# James Wootton
+
+- Citation: 2007 CCI 545
+- Decision date: 2007-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1765, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+James Wootton
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-13
+Référence neutre
+2007 CCI 545
+Numéro de dossier
+2007-890(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-890(GST)I
+ENTRE :
+JAMES WOOTTON et ANN WOOTTON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 août 2007, à Halifax (Nouvelle-Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant des appelants :
+James A. Wootton
+Avocate de l’intimée :
+Me Devon Peavoy
+JUGEMENT
+L’appel de l’avis de cotisation portant le numéro 01CB0103751 et daté du 12 juin 2006 est accueilli intégralement, et cette cotisation est annulée, avec dépens.
+Signé à Toronto (Ontario), ce 13e jour de septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI545
+Date : 20070913
+Dossier : 2007-890(GST)I
+ENTRE :
+JAMES WOOTTON et ANN WOOTTON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige en l’espèce consiste à savoir si les appelants devaient exiger la TVH relativement à certains services qu’ils fournissaient pendant la période du 1er janvier 2004 au 31 décembre 2005 ou si ces services constituaient des fournitures exonérées de services de garde d’enfants selon le paragraphe 1 de la partie IV de l’annexe V de la Loi sur la taxe d’accise (la « Loi »).
+[2] Les appelants exploitaient une ferme de plaisance dénommée « Boulderwood Stables » pendant la période frappée d’appel.
+[3] Les appelants offraient divers services, y compris de l’équitation, des fêtes pour entreprises et des fêtes avec traiteur, des randonnées dans des sentiers, la location d’un manège et une piscine, et ils vendaient diverses marchandises, comme des boissons gazeuses, des jus, de l’eau et des tee‑shirts. La question en litige en l’espèce intéresse un programme de camp de jour offert par les appelants.
+[4] Ce programme de camp de jour s’adressait aux enfants d’âge scolaire, ce qui englobait à la fois les enfants âgés de plus de 14 ans et ceux âgés de moins de 14 ans. Cependant, les appelants traitaient la fourniture du programme de camp de jour différemment selon l’âge du participant et selon que ce dernier était confié à leurs soins. Si l’enfant était âgé de plus de 14 ans, la TVH était exigée sur la somme payée pour le programme de camp de jour. Si l’enfant était âgé de 14 ans ou moins, et que le parent ou la personne ayant reconduit l’enfant laissait ce dernier pour toute la journée, aucune TVH n’était perçue. Si le parent ou l’autre personne ayant reconduit l’enfant restait avec ce dernier pendant la journée, les appelants percevaient la TVH.
+[5] Le programme de camp de jour débutait vers 9 h, bien que certains parents, parce qu’ils devaient se rendre à leur travail, reconduisaient l’enfant plus tôt. En principe, le camp se terminait à 16 h mais, dans certains cas, les parents venaient chercher leur enfant plus tard en raison de leur horaire de travail. Dans le cadre du programme de camp de jour, les enfants participaient à diverses activités relatives aux chevaux. Ils pouvaient aider les responsables à ramener les chevaux du champ, à vérifier l’état de ces derniers, à les brosser et à participer à d’autres activités liées au soin des chevaux. Les enfants faisaient une randonnée dans les sentiers le matin et une autre l’après‑midi. Chaque randonnée durait environ une heure. On donnait en outre aux enfants des directives et des leçons concernant les chevaux. Ils avaient une pause déjeuner pendant laquelle ils mangeaient le repas qu’ils avaient apporté avec eux. Si un enfant perdait son repas, on lui en fournissait un. Les enfants avaient également le temps de profiter de la piscine située sur le terrain.
+[6] La question est celle de savoir si les services de camp de jour à l’égard desquels aucune TVH n’était perçue constituaient des fournitures exonérées sous le régime de la Loi. Le paragraphe 1 de la partie IV de l’annexe V de la Loi prévoit que les services suivants sont des fournitures exonérées pour l’application de la Loi :
+1. La fourniture de services de garde d’enfants qui consistent principalement à assurer la garde et la surveillance d’enfants de quatorze ans ou moins pendant des périodes d’une durée normale de moins de vingt-quatre heures par jour. Est exclue la fourniture d’un service qui consiste à surveiller un enfant non accompagné, effectuée par une personne à l’occasion de la fourniture taxable par celle-ci d’un service de transport de passagers.
+[7] La Cour doit donc se demander en premier lieu si les services fournis en l’espèce constituaient des services de garde d’enfants. L’expression « services de garde d’enfants » n’est pas définie dans la Loi, mais elle figure également dans la Loi de l’impôt sur le revenu. Dans la décision Bailey c. La Reine, 2005 CCI 305, 2005 DTC 673, [2005] 3 C.T.C. 2170, M. le juge Rip (tel était alors son titre) a formulé les observations suivantes en ce qui concerne les frais de garde d’enfants visés par la Loi de l’impôt sur le revenu :
+[7] Le paragraphe 63(3) de la Loi de l’impôt sur le revenu donne la définition suivante de l’expression « frais de garde d’enfants » :
+« frais de garde d’enfants » Frais engagés au cours d’une année d'imposition dans le but de faire assurer au Canada la garde de tout enfant admissible du contribuable, en le confiant à des services de garde d’enfants, y compris des services de gardienne d’enfants ou de garderie ou des services assurés dans un pensionnat ou dans une colonie de vacances, si les services étaient assurés :
+a) d’une part, pour permettre au contribuable, ou à la personne assumant les frais d’entretien de l’enfant pour l’année, qui résidait avec l’enfant au moment où les frais ont été engagés d’exercer l’une des activités suivantes :
+(i) remplir les fonctions d’une charge ou d’un emploi,
+[…]
+toutefois ne constituent pas des frais de garde d’enfants :
+[...]
+d) pour plus de précision, les frais médicaux visés au paragraphe 118.2(2) et les autres frais payés au titre des soins médicaux ou hospitaliers, de l’habillement, du transport, de l’éducation et de la pension et du logement, sauf dispositions contraires à la présente définition.
+[8] Pour déterminer la signification de l’expression « frais de garde d’enfants » ( « child care expenses » en anglais ), il est utile d’examiner la définition du mot « garde ». Le Canadian Oxford English Dictionary définit le mot « garde » ( « care » ) de la façon suivante : [traduction] « action de veiller sur une personne ou une chose, de subvenir aux besoins d’une personne ou d’entretenir une chose; la fourniture de ce qui est nécessaire pour la santé ou la protection ».
+[9] La version française confirme l’importance de la protection de l’enfant, étant donné que l’équivalent de l’expression anglaise « child care expenses » est « frais de garde d’enfants » , ce qui veut dire les coûts engagés pour surveiller les enfants.
+[8] Dans la décision Jones c. La Reine, 2006 CCI 501, 2006 DTC 3531, [2007] 1 C.T.C. 2137, Mme la juge Woods tient les propos suivants :
+[14] Dans un bon nombre de ces décisions, la preuve n’indiquait pas clairement que l’activité récréative était vraiment nécessaire pour permettre aux parents de travailler. Mais les tribunaux ont aussi constaté que des activités récréatives telles que des leçons de piano et des cours de gymnastique ne comportent pas, en règle générale, une caractéristique essentielle de la garde d’enfants, qui consiste à « veiller sur » ou à « protéger » l'enfant.
+[15] Pour décider si une activité est un « service de garde d’enfants » dans une cause donnée, j’accepte le critère décrit récemment par le juge Rip dans la décision Bailey v. The Queen, 2005 D.T.C. 673 (C.C.I.). La question essentielle est de savoir quelle est la principale raison pour laquelle l’enfant a été inscrit à l’activité.
+[9] Dans la décision Bell v. The Queen, [2001] 1 C.T.C. 2308, M. le juge Campbell reproduit un extrait tiré de la décision rendue par M. le juge Archambault dans l’affaire Levine :
+[11] L’appelant et l’intimée ont fait référence à l’affaire Levine c. Sa Majesté La Reine, C.C.I., no 94-1495(IT)I, 30 mars 1995 ([1996] 2 C.T.C. 2151) afin d’appuyer leur position respective. À la page 2151 de cette décision, le juge Archambault de la présente cour a déclaré, et je cite :
+Ces frais d’ordre récréatif n’ont pas été engagés dans le but de veiller sur les enfants pour les protéger, donc pour permettre aux parents de tirer un revenu d’emploi. Ils ont été engagés pour le développement des aptitudes physiques, sociales et artistiques des enfants. Que les parents aient travaillé ou non, ces frais auraient été engagés. [...] Le fait que ces activités se soient étalées sur une période limitée d’une heure à une heure et demie par semaine pendant quelques semaines seulement dans certains cas étaye également cette conclusion. Inscrire des enfants à une leçon d’une heure peut difficilement être considéré comme une façon efficace de veiller sur les enfants pour les protéger. C’est toutefois un moyen très efficace de les initier à de nouvelles activités physiques et artistiques.
+[10] Monsieur le juge Campbell arrive ensuite à la conclusion suivante :
+[16] Je suis d’accord avec la décision rendue dans l’affaire Keefer dans laquelle il est énoncé que pour être déductibles au titre des frais de garde d’enfants, les dépenses doivent être liées aux éléments essentiels de tutelle, de protection et de soins donnés aux enfants. Le législateur n’a jamais eu l’intention d’inclure les dépenses liées aux activités d’ordre récréatif dans les frais de garde d’enfants étant donné que ces activités d’ordre récréatif n’ont pas comme objectif de donner des soins aux enfants. Si l’on demandait à un entraîneur bénévole de hockey travaillant auprès de jeunes enfants si sa tâche principale consiste à agir comme tuteur de ces enfants ou à leur fournir des soins, je ne crois pas que sa réponse serait affirmative. La protection et les soins font certainement partie de cette activité, mais ce ne sont que des éléments secondaires et connexes à la fonction principale qu’un entraîneur de hockey considérerait être la sienne, à savoir enseigner les techniques de base du hockey.
+[11] Un aspect distinctif de la présente affaire tient au fait que les appelants avaient la responsabilité de veiller sur les enfants pendant au moins sept heures. Bien que l’horaire du programme ait été de 9 h à 16 h, il ressort de la preuve que des parents reconduisaient leurs enfants en se rendant à leur travail avant 9 h et qu’ils n’étaient pas toujours en mesure de venir les chercher avant 16 h. Les seuls services de camp de jour pour lesquels aucune TVH n’était perçue étaient ceux qui étaient offerts lorsque le parent (ou la personne qui reconduisait les enfants à l’établissement des appelants) confiait les enfants aux soins des appelants. Comme les enfants se trouvaient alors chez les appelants sans que les parents ne soient présents, les appelants devaient être tenus de les protéger et de veiller sur eux pendant cette période. Or, cette période où les enfants étaient confiés à la garde et aux soins des appelants était trop longue pour ne pas conclure que l’élément prépondérant de ce programme consistait en la garde, la protection et le soin des enfants pendant cette période.
+[12] Le fait que les appelants offraient aux enfants la possibilité de participer à des activités était entièrement raisonnable et prévisible puisqu’ils devaient s’occuper d’eux pendant une longue période. Les fournitures liées aux activités des enfants, y compris la fourniture de promenades à cheval, faisaient partie de la fourniture des services de garde d’enfants suivant l’article 138 de la Loi puisqu’elles étaient fournies pour une contrepartie unique et qu’elles étaient accessoires à la fourniture des services de garde d’enfants. On s’attend de quiconque est responsable de la garde et du soin d’enfants âgés de 14 ans ou moins pendant une période de sept heures qu’il prévoit des activités à leur intention, et il serait déraisonnable d’avancer que cette disposition de la partie IV de l’annexe V de la Loi s’applique uniquement aux situations où le seul service offert est la garde et le soin d’enfants et où aucune activité n’est prévue pour eux. Cela ne pouvait être l’intention du législateur. De même, il convient de signaler que les notes techniques publiées en mai 1990 relativement au paragraphe 1 de la partie IV de l’annexe V précisent ce qui suit :
+Cet article exonère les services de garde d’enfants destinés essentiellement aux enfants de 14 ans et moins. Cette exonération est applicable aux centres de loisirs et aux autres services de garderie pour enfants admissibles à la déduction pour frais de garde d’enfants en vertu de la Loi de l’impôt sur le revenu.
+[13] Le législateur avait donc manifestement envisagé que cette disposition englobe les camps de jour. Dans l’arrêt Silicon Graphics Ltd. c. La Reine, 2002 CAF 260, 2002 DTC 7112, [2002] 3 C.T.C. 527, la Cour d’appel fédérale a formulé les observations suivantes au sujet de l’utilisation des notes techniques :
+[50] Bien entendu, les notes techniques ne lient pas les tribunaux, mais elles peuvent être examinées. Voir Canada c. Succession Ast, [1997] 3 C.F. 86 (C.A.), au paragraphe 27 :
+Les interprétations administratives, comme les notes techniques, ne lient pas les tribunaux, mais elles peuvent avoir un certain poids et même constituer un facteur important dans l’interprétation des lois. Les notes techniques sont très largement acceptées par les tribunaux pour aider à l’interprétation des lois. L’importance accordée aux notes techniques au niveau de l’interprétation est particulièrement grande lorsque, au moment où une modification était à l’étude, le législateur était conscient que cette modification pouvait donner lieu à une interprétation administrative particulière, et qu’il a néanmoins décidé de l’adopter.
+[14] L’avocate de l’intimée a fait valoir que l’Agence du revenu du Canada (l’« ARC ») ne se fonde plus sur cette note technique. Cependant, comme la note a été publiée au moment de l’adoption de cette disposition législative et comme la partie en cause de cette disposition n’a pas fait l’objet de modification, il n’est pas évident de savoir comment l’ARC pourrait changer ce qui est prévu dans la note technique, laquelle visait à refléter l’intention du législateur au moment de la rédaction de cette disposition. C’est l’intention qu’avait le législateur au moment d’adopter ce paragraphe de la partie IV de l’annexe V de la Loi qu’il faut interpréter et non l’intention de l’ARC.
+[15] Comme il est mentionné plus haut, étant donné que la seule fourniture en cause est celle des services de camp de jour à l’égard desquels les appelants n’ont pas exigé de TVH et qu’il s’agissait donc de fournitures de services de camp de jour à des enfants âgés de 14 ans ou moins qui étaient confiés aux soins des appelants, ces fournitures avaient manifestement pour principal objet de fournir des services de garde et de surveillance à des enfants âgés de 14 ans ou moins. De même, comme le camp de jour débutait vers 9 h pour se terminer vers 16 h, les périodes duraient habituellement moins de 24 heures par jour, et les services de camp de jour à l’égard desquels aucune TVH n’était exigée satisfaisaient aux exigences fixées au paragraphe 1 de la partie IV de l’annexe V de la Loi, et comme il s’agissait de fournitures exonérées, il convenait de ne pas exiger la TVH sur celles‑ci.
+[16] Par conséquent, l’appel est accueilli, avec dépens, et la cotisation visant la TVH liée aux services de camp de jour fournis par les appelants à l’égard desquels ces derniers n’ont pas perçu de TVH est annulée.
+Signé à Toronto (Ontario), ce 13e jour de septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI545
+NO DU DOSSIER DE LA COUR : 2007-890(GST)I
+INTITULÉ DE LA CAUSE : JAMES WOOTTON, ANN WOOTTON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 30 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 13 septembre 2007
+COMPARUTIONS :
+Représentant des appelants :
+James A. Wootton
+Avocate de l’intimée :
+Me Devon Peavoy
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,246 @@
+---
+title: "McLarty v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29704/index.do"
+last_modified: "2010-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 141"
+citation2: ""
+neutral_citation: "2010 TCC 141"
+decision_date: "2010-03-08"
+language: "en"
+item_id: "29704"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6209
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:34:26.680000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f4efe057472eca83d36ab4565b59a1a15e6dae70afbd9dc776e6bff563feb33"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McLarty v. The Queen
+
+- Citation: 2010 TCC 141
+- Decision date: 2010-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6209, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLarty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-08
+Neutral citation
+2010 TCC 141
+File numbers
+97-3628(IT)G
+Judges and Taxing Officers
+Barbara Tanasychuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 97-3628(IT)G
+BETWEEN:
+ALLAN MCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM OF $64,827.40.
+Signed at Toronto, Ontario, this 8th day of March 2010.
+“B.G. Tanasychuk”
+Taxing Officer
+Citation: 2010 TCC 141
+Date: 20100308
+Docket: 97-3628(IT)G
+BETWEEN:
+ALLAN MCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Barbara Tanasychuk, T.O., T.C.C.
+[1] This taxation came on for hearing by way of a telephone conference call on October 15, 2009. It follows a Judgment of the Honourable Justice L.M. Little dated January 26, 2005, wherein appeals from assessments made under the Income Tax Act for the 1992 and 1994 taxation years were allowed, with costs. The Appellant was represented by Mr. Jehad Haymour and Ms. Wendy Burnham represented the Respondent.
+[2] For use at this hearing, the Appellant filed Affidavits of Elaine Hutchinson, sworn April 2nd, 2009 (“the Appellant’s first Affidavit”) and October 14th, 2009 (“the Appellant’s second Affidavit”). The Respondent filed an Affidavit of Deborah Horowitz, affirmed October 9th, 2009 (“the Respondent’s Affidavit”).
+[3] Ms. Burnham stated that there was no dispute with respect to the counsel fees claimed in the amount of $26,175.00. As agreed, the amount of $26,175.00 for counsel fees is allowed.
+[4] Ms. Burnham further stated that the following disbursements were not disputed:
+Filing fee
+$250.00
+Witness fees and expenses (7 witnesses, 11 days @ $50/day)
+$350.00
+Expert witnesses (2 witnesses, 3 days @ $350/day)
+$1,050.00
+PPR filing fees and search
+$60.00
+Research materials – CAPP Statistical Handbook
+$150.00
+External photocopies
+$1,433.47
+As agreed, the amount of $3,293.47 (plus GST) for disbursements is allowed.
+[5] The following disbursements are in dispute:
+Consultant Services Fees
+$13,475.50
+Expert witness fees
+$15,450.00
+Court reporter for examinations for discovery and trial transcripts
+$16,024.00
+Fax and courier delivery
+$2,102.90
+Postage
+$190.42
+Long distance charges
+$464.38
+Photocopies
+$13,467.35
+Travel and accommodation
+$17,173.64
+Meals
+$548.07
+Taxi charges
+$633.40
+Parking
+$75.60
+APPELLANT’S SUBMISSIONS
+[6] Mr. Haymour provided a brief history of the file. The Notice of Appeal was filed in 1997 and related to assessments for the 1992 and 1994 taxation years. The Appellant was one of several investors who entered into a joint venture, which joint venture subsequently purchased an interest in a seismic database. The Appellant’s List of Documents contained in excess of six hundred documents, examinations for discovery were held over eight days with one hundred and thirty-three undertakings given. The Appellant filed an expert report and two rebuttal reports. The hearing of the appeal took place over fourteen days in September, 2003 and the decision of the Tax Court of Canada was ultimately affirmed by the Supreme Court of Canada in June, 2008.
+[7] Mr. Haymour further stated that Mr. McLarty’s appeal was a test case, in that the other investors in the joint venture were ultimately re-assessed on the basis of the decision in Mr. McLarty’s appeal.
+CONSULTANT SERVICES FEES
+[8] The Appellant seeks to recover the amount of $13,475.50 for consultant services fees. The fees represent amounts paid to six consultants who testified at trial, as follows:
+Brian Curts of Curts Seismic Consultants Ltd.
+$937.50
+Carl Ringdahl
+$3,000.00
+Christopher Talbot
+$4,000.00
+Ted Webb of Citadel Engineering Ltd.
+$3,338.00
+Ray Jaskela of Jaskela Resource Consulting Ltd.
+$400.00
+George Fairs of 746757 Alberta Ltd.
+$1,800.00
+[9] Mr. Haymour stated that it was necessary to retain these consultants to review their prior work and prepare to testify at the hearing. Without the assistance of the consultants, it would have been impossible to properly prepare the Appellant’s case.
+EXPERT WITNESS FEES
+[10] Mr. Haymour stated that the Appellant was entitled to recover the amount of $15,450.00, representing fees paid for the services of an expert witness, Wade Brillon of Divestco.com. Mr. Brillon’s expert and rebuttal reports were filed with the Court and Mr. Brillon testified at trial. Mr. Haymour stated that following Ms. Burnham’s cross-examination of Mr. Brillon as to his qualifications, counsel for the Appellant withdrew the request to have him qualified as an expert on valuation. Although the witness was withdrawn as an expert in valuation, Mr. Brillon’s expert reports were not restricted to the issue of valuation. It is the Appellant’s position that, notwithstanding the fact that Mr. Brillon did not testify as to valuation, he did give expert testimony and the fees paid to him are recoverable. He further stated Mr. Brillon’s fees were reasonable and were incurred for the purpose of advancing the Appellant’s position.
+COURT REPORTER FEES
+[11] The Appellant’s claim for court reporter fees in the amount of $16,024.00 included court reporter fees for examinations for discovery, transcripts thereof and transcripts of the hearing which were prepared on an expedited basis. Mr. Haymour stated that the trial transcripts were required to assist counsel in preparing for final argument.
+FAX AND COURIER DELIVERY, POSTAGE AND LONG DISTANCE CHARGES
+[12] The amounts claimed for fax and courier delivery charges are $2,102.90, postage $190.42 and long distance charges of $464.38. Mr. Haymour stated that any costs associated with the Respondent’s Rule 58 motion and reporting to the client were not included in these amounts. To support the amounts claimed, copies of his firm’s internal accounting records were attached as Exhibits “G”, “H” and “I” to the Appellant’s first Affidavit. Mr. Haymour stated that the expenses incurred were reasonable and essential for the conduct of the litigation.
+PHOTOCOPIES
+[13] The Appellant’s claim for the cost of photocopies in the amount of $13,467.35 represented the cost of photocopies made in the offices of counsel for the Appellant. Mr. Haymour stated that the cost of photocopies related to the Respondent’s motion under Rule 58 were excluded from the amount claimed, as well as copies related to reports to the client. The amount claimed was supported by copies of his firm’s internal accounting records, Exhibit “J” to the Appellant’s first Affidavit.
+TRAVEL AND ACCOMMODATION
+[14] Mr. Haymour stated that considerable travel and accommodation expenses were incurred by counsel. Mr. Carman R. McNary was co-counsel for the Appellant and his office was in Edmonton, Alberta, while Mr. Haymour’s office was in Calgary, Alberta. The claim for reimbursement of expenses incurred by Mr. McNary included the cost of flights from Edmonton to Calgary for meetings, trial preparation, conduct of the hearing and one trip to Ottawa for the purpose of settlement discussions. In addition, two trips were made to Ottawa by Mr. Haymour for settlement discussions with counsel for the Respondent. Receipts to support the amounts claimed were attached as Exhibit “L” to the Appellant’s first Affidavit. Mr. Haymour stated that the expenses incurred were both reasonable and essential for the conduct of the litigation.
+MEALS, TAXI CHARGES AND PARKING
+[15] Mr. Haymour stated that the claim for meals, taxi charges and parking totalling $1,257.07 related to expenses incurred by counsel during their trips to Ottawa, during the trial and during Mr. McNary’s various trips to Calgary. Mr. Haymour stated that the expenses were reasonable and necessary for the conduct of the litigation.
+RESPONDENT’S SUBMISSIONS
+[16] Ms. Burnham stated that Mr. McLarty’s appeal was not a test case. She submitted that while there were a number of taxpayers involved in the joint venture, there was no formal agreement between the parties that other taxpayers would be bound by the results of Mr. McLarty’s appeal.
+[17] Ms. Burnham also stated that the materials produced to support the disbursements claimed were not presented in an organized manner, which made it difficult to determine what the documents related to and whether the amounts claimed were justified.
+CONSULTANT SERVICES FEES
+[18] Ms. Burnham stated that three of the consultants, Brian Curts, Ray Jaskela and Ted Webb were hired in 1992 to prepare valuations of the seismic data. They were retained to establish the value of the seismic data, to justify the deduction of Cumulative Canadian Exploration Expenses.
+[19] Ms. Burnham stated that Carl Ringdahl was an employee of Compton Resource Corporation. Compton Resource Corporation was the corporation which was responsible for the gathering of investors to join it in the purchase of the seismic database.
+[20] Ms. Burnham stated that Christopher Talbot and George Fairs were involved with finding the seismic database and testified about their involvement in that process.
+[21] Ms. Burnham’s position was that there was no provision for the allowance of fees paid to consultants. Ms. Burnham stated that these consultants were fact witnesses and the allowable amount for a fee paid to a fact witness was $50.00 per day.
+[22] In addition, Ms. Burnham stated that subsection 4(2) of Tariff A of Schedule II of the Tax Court of Canada Rules (General Procedure) permits the payment to a witness in excess of $50.00 per day. However, once such a payment is made, the party must advise the Court. To her knowledge, this was not done.
+EXPERT WITNESS FEES
+[23] Ms. Burnham stated that the Appellant’s expert, Wade Brillon, was hired to prepare a valuation of the seismic data. Ms. Burnham stated that following her cross-examination of Mr. Brillon as to his qualifications, counsel for the Appellant withdrew Mr. Brillon as an expert on valuation. As a result, Mr. Brillon’s testimony was restricted to a very small portion of what was contained within his report. Ms. Burnham further stated that because Mr. Brillon was withdrawn as an expert on valuation, the amount claimed for his services should be reduced to zero.
+[24] In the alternative, Ms. Burnham stated that because Mr. Brillon’s testimony was restricted to a small and insignificant issue, the $15,450.00 claimed for Mr. Brillon’s services should be reduced by at least seventy-five percent, to reflect the value of his evidence to the Court.
+[25] In the further alternative, Ms. Burnham stated that the most that should be allowed for Mr. Brillon’s services was $300.00 per day. Despite the fact that there were no time sheets produced for Mr. Brillon, Ms. Burnham suggested that he be allowed fees for one day in Court, ten days consulting and an additional six days all at $300.00 per day, for a total of $5,100.00.
+COURT REPORTER FEES
+[26] Ms. Burnham stated that approximately $14,000.00 of the $16,024.00 claimed for transcripts related to the cost of expedited transcripts of the trial proceedings. Ms. Burnham stated that the Appellant had three lawyers in attendance at the hearing and that the expedited transcripts were not necessary. It was her position that the Appellant should only be allowed $1,800.00, representing fees paid to the court reporter for the examinations for discovery.
+FAX AND COURIER DELIVERY, POSTAGE AND LONG DISTANCE CHARGES
+[27] Ms. Burnham stated that the only documents produced to support the amount claimed for faxes consisted of printouts of long lists of internal accounting records from Mr. Haymour’s law firm. The printouts did not contain any indication of what the charges were for, how they related to the proceedings and the reasons for the expenses.
+[28] In reviewing the printouts for courier expenses, Ms. Burnham stated that some of the expenses claimed were incurred after the conclusion of the hearing, prior to the filing of the Notice of Appeal and others related to the hearing of the Rule 58 motion.
+[29] Ms. Burnham’s submissions regarding the amount claimed for long distance and postage charges were similar to her comments regarding the amounts claimed for faxes and couriers. Insofar as the long distance charges were concerned, the documentation offered no explanation as to who was called, how the calls related to the trial of this action and the printouts included post trial charges. The printouts of charges for postage offered no details as to what was mailed and why.
+PHOTOCOPIES
+[30] Ms. Burnham stated that the $13,467.35 claimed for photocopies
+was unreasonable. In addition, there was no proof provided that all of the copies were necessary for the conduct of the appeal.
+[31] Ms. Burnham referred to paragraphs 11(b) and (c) of the Appellant’s second Affidavit, wherein it was stated that all costs for copies related to the Rule 58 application and client reporting were excluded. In addition, paragraph 11(d) of the Appellant’s second Affidavit stated that the cost for photocopying was adjusted to the rate of twenty cents per page. However, Ms. Burnham stated that when she totalled the amounts set out on the internal accounting records at Exhibit “J” to the Appellant’s first Affidavit, the total came to $13,467.35, which is the amount claimed on the Bill of Costs.
+[32] Ms. Burnham stated that a more reasonable amount for photocopies was $4,660.00. That figure was contained on an earlier version of the Appellant’s Bill of Costs, Exhibit “B” to the Respondent’s Affidavit, wherein the documents copied, the number of copies made and the amount charged per page were identified.
+TRAVEL AND ACCOMMODATION
+[33] Ms. Burnham stated that the travel costs associated with the trips to Ottawa by Messrs. Haymour and McNary to discuss settlement were not allowable amounts and should be excluded from the $17,173.64 claimed. Included in the receipts attached as Exhibit “L” to the Appellant’s first Affidavit was an airfare receipt for a return trip to Ottawa made by Mr. John Brussa in the amount of $3,183.25. Ms. Burnham stated that the Appellant was not entitled to reimbursement for the cost of this trip. Mr. Brussa was a lawyer who developed the plan that was used for the purchase of the seismic data and was not counsel for the Appellant.
+MEALS
+[34] Ms. Burnham stated that paragraph 18 of the Appellant’s first Affidavit indicated that the claim for $548.07 represented the cost of meals for counsel during their trips to Ottawa and during the trial. Ms. Burnham stated that while there are some receipts for meals, most of the documents attached as Exhibit “M” to the Appellant’s first Affidavit are internal accounting records from Mr. Haymour’s firm. Ms. Burnham stated that some of the receipts related to expenses incurred prior to trial and one record indicated that the expense was incurred after the trial. Ms. Burnham’s position was that the documents provided to support the claim were so deficient, it was impossible to determine what expenses should be allowed.
+TAXI CHARGES
+[35] Ms. Burnham stated that while paragraph 19 of the Appellant’s first Affidavit stated that the $633.40 claimed for taxis related to charges incurred during the trips by counsel to Ottawa and Calgary, the documents produced at Exhibit “N” included claims for taxis taken at other times. Included with the documentation were printouts of internal accounting records with no actual receipts to support the amount claimed. As such, Ms. Burnham stated that the entire amount claimed for taxis should be disallowed.
+PARKING
+[36] Ms. Burnham stated that paragraph 20 of the Appellant’s first Affidavit indicated that the $75.60 claimed for parking represented parking charges incurred as a result of attending settlement meetings in Ottawa and travelling to Calgary. However, she noted that a $42.00 receipt included with the materials at Exhibit “O” to the Appellant’s first Affidavit was for a charge incurred for two days of parking at the Calgary airport at the same time that the Federal Court of Appeal heard the appeal of the decision on the Rule 58 motion in Edmonton, Alberta.
+POST-JUDGMENT INTEREST
+[37] With respect to the post-judgment interest claimed, Ms. Burnham stated that any award of post-judgment interest should run from May 22, 2008, which is the date on which the Supreme Court of Canada issued its decision upholding the Judgment of the Tax Court of Canada.
+DECISION
+[38] The manner in which the receipts and invoices submitted to support the disbursements claimed did not lend much assistance to me. I was faced with a mass of paper, with very little explanation as to what it represented. After hearing submissions of counsel and reviewing the materials submitted, my decision follows.
+CONSULTANT SERVICES FEES
+[39] The details of the $13,475.50 claimed for the services of six consultants who testified at the hearing are set out in paragraph 8 above. Copies of their invoices are marked as Exhibit “B” to the Appellant’s first Affidavit.
+[40] A review of the Court file disclosed that these six consultants testified as fact witnesses at trial. The Appellant has claimed $50.00 for each of these six witnesses and counsel for the Respondent has consented to the $300.00 claimed.
+[41] Mr. Haymour referred to the decision of the Nova Scotia Court of Appeal in D.W. Matheson & Sons Contracting Ltd. v. Canada (Attorney General), 2000 NSCA 44, [2000] N.S.J. No. 96. In that case, the plaintiff was seeking to recover fees paid to two engineers that were called to testify as fact witnesses. It was determined that the Court had the discretion to make an allowance for fees paid to fact witnesses and referred the matter back to the trial judge to determine whether that discretion should be exercised in the plaintiff’s favour.
+[42] The Court’s discretion is much broader than that of a Taxing Officer. I do not have the discretion to allow the fees paid to the six consultants who appeared as fact witnesses. I will tax off the amount of $13,475.50 claimed for consultant services fees.
+EXPERT WITNESS FEES
+[43] Mr. Brillon’s expert witness report was filed and he testified at trial. After Mr. Brillon was called to the witness box and following Ms. Burnham’s cross-examination as to his qualifications, counsel chose to withdraw Mr. Brillon as an expert qualified to testify as to the value of the seismic database.
+[44] I do not accept Ms. Burnham’s suggestion that the allowable amount for Mr. Brillon’s services should be reduced to zero. Nor do I accept her alternate arguments. While Mr. Brillon did not give expert testimony as to all of the matters dealt with in his report, the decision to withdraw Mr. Brillon as an expert on valuation was made by counsel once the trial was in progress. It is well established law that fees paid to expert witnesses who are not called to testify are recoverable on a party and party taxation. I am satisfied that the fees paid to Mr. Brillon are reasonable and I will allow the full amount of the claim in the amount of $15,450.00 (plus GST).
+COURT REPORTER FEES
+[45] The Appellant’s claim for $16,024.00 is comprised of $1,798.95 for the examinations for discovery and $14,225.05 for transcripts of the hearing, which were produced on an expedited basis. In the decision of RMM Canadian Enterprises Inc. and Equilease Corporation v. Her Majesty the Queen, 97 DTC 420, former Chief Justice Bowman of this Court disallowed the cost of the transcript of the cross-examination of two witnesses and stated:
+To have these transcripts available may have been helpful but I do not regard them as essential.
+[46] I have no doubt that the expedited transcripts were of assistance to counsel in preparing for final argument, but I am not convinced that this was an essential disbursement, the cost of which is recoverable on a party and party taxation of costs. I will accordingly tax off the amount of $14,225.05 and allow the amount of $1,798.95 (plus GST) for court reporter fees.
+FAX AND COURIER DELIVERY
+[47] The claim for $2,102.90 for fax and courier charges were supported by the documents at Exhibit “G” to the Appellant’s first Affidavit, which consisted of Fraser Milner Casgrain (“FMC”) cost recap summaries and disbursement lists. Those documents listed charges incurred for sending materials via fax and courier.
+[48] I do not question the necessity to send documents via fax and delivery by courier, but I have no idea what was sent, why and to whom. In the absence of such information, I will not allow the full amount claimed. I will allow fifty percent of the amount claimed for a total of $1,051.45 (plus GST).
+POSTAGE
+[49] The materials produced to support the $190.42 claimed for postage are attached as Exhibit “H” to the Appellant’s first Affidavit. Those documents are copies of FMC’s internal accounting records consisting of cost recap summaries and disbursement lists. From my review of the cost recap summaries produced, it appears that $190.42 is the amount FMC billed the Appellant for postage. The disbursement detail lists contain entries totalling $219.42 for postage. The two page disbursement detail lists appear to cover the period March 25, 1999 to March 28, 2007 and the handwritten note “excluded” appears next to four figures which total $73.36.
+[50] It would be illogical to disallow the entire amount claimed for postage, but the documentation produced to support the claim is so deficient it is tempting to do so. I will allow the amount of $117.06 (plus GST) for postage. This figure represents the amount claimed of $190.42 less $73.36, which is the total of the amounts on the disbursement detail list on which the note “excluded” has been made.
+LONG DISTANCE CHARGES
+[51] Counsel for the Appellant and Respondent were not only in different cities, but different provinces. There is no doubt that long distance charges were incurred. While Ms. Burnham stated that some of the charges on the records were for calls placed prior to the filing of the Notice of Appeal and after the hearing, my review of the disbursement lists attached as Exhibit “I” to the Appellant’s first Affidavit disclosed that not all of the items on the lists were included in the $464.38. I will allow the sum of $464.38 (plus GST) for long distance charges as I am satisfied that this is a reasonable amount for long distance charges and a necessary expense for the conduct of the appeal.
+PHOTOCOPIES
+[52] The Appellant has claimed $13,467.35 for photocopies. The documentation produced to support this claim consisted of close to 100 sheets of internal accounting records from FMC found at Exhibit “J” to the Appellant’s first Affidavit. Those records appeared to be a listing of all of the photocopies made, some of which were charged at twenty-five cents per page and others at thirty cents per page. The records provided no explanation as to what was photocopied and why.
+[53] From my review of Exhibit “J” to the Appellant’s first Affidavit, it appears that the Appellant is seeking to recover the cost of each and every photocopy made. Due to the lack of detail contained within the supporting documents produced, I am not prepared to allow the full amount claimed for photocopies. An earlier version of the Appellant’s Bill of Costs, Exhibit “B” to the Respondent’s Affidavit, included a claim of $4,660.00 for photocopies, together with a breakdown of what was copied, the number of copies made, all at twenty cents per page. In the absence of detailed information to substantiate the $13,467.35 claimed, I will allow the amount of $4,660.00 (plus GST) for photocopies.
+TRAVEL AND ACCOMMODATION
+[54] The hearing of this appeal took place in Calgary, Alberta. The Appellant was represented by Messrs. McNary, Haymour and Kwan, all of FMC. Mr. McNary worked from the Edmonton office of FMC, while Messrs. Haymour and Kwan worked from FMC’s Calgary office.
+[55] The appellant has claimed $17,173.64 for travel expenses. A portion of that amount related to expenses incurred by Mr. McNary for his travel to Calgary for various meetings and the hearing before Justice Little. Additional expenses for travel and accommodation were incurred by Messrs. McNary and Haymour in travelling to Ottawa for settlement discussions with counsel for the Respondent.
+[56] A substantial amount of paper was produced at Exhibit “L” to the Appellant’s first Affidavit to support the amount claimed for travel and accommodation. The documents produced to support the claim for travel and accommodation expenses do not total $17,173.64. In addition, there was no breakdown provided as to who travelled, where, when and why. Intermingled within the materials were handwritten expense claims, taxi receipts and restaurant receipts. It was very difficult to determine what, if any of the amounts of these various receipts were included in the $17,173.64, in that meals and taxis were claimed as separate items on the Bill of Costs.
+[57] Also included with the documents at Exhibit “L” was an invoice in the amount of $3,183.25 for a return trip to Ottawa made by Mr. John Brussa on May 16, 2001. It was not clear to me whether the cost of this trip was actually included in the $17,173.64 claimed. In any event, counsel for the Appellant admitted that this was not a recoverable expense and the claim for it was withdrawn.
+[58] While Ms. Burnham stated that the Respondent should not be responsible for Mr. McNary’s travel costs, I disagree. In the case of Ross v. Canada, 2007 TCC 208, [2007] T.C.J. No. 155, the Taxing Officer allowed the expenses incurred by counsel based in Montreal for travel to Toronto for discoveries and the hearing of the appeal.
+[59] I will allow the cost of Mr. McNary’s air travel to and from Edmonton to Calgary for the hearing of the appeal. The Appellant was entitled to hire counsel of his choice and that choice should not be restricted by the venue for the hearing of his appeal. According to my review of the receipts produced, the cost of Mr. McNary’s airfare for travel to and from Calgary for the hearing was $1,357.24 (plus GST), which amount is allowed.
+[60] The invoice in the amount of $3,503.79 for Mr. McNary’s hotel accommodations during the trial covered the period September 5, 2003 to September 25, 2003. Based on the receipts for airfare, it appears that Mr. McNary returned to Edmonton each weekend, but maintained his hotel room over each weekend for a total of twenty-one nights. The hotel invoice also included charges for laundry, parking, telephone calls and room service. Of the total amount of the invoice for accommodations during the trial, I will allow accommodation for seventeen nights at $129.00 per night for a total of $2,193.00 (plus GST).
+[61] Mr. Haymour made two trips to Ottawa on March 27, 2000 and May 16, 2001 to discuss settlement with counsel for the Respondent. Ms. Burnham suggested that the costs associated with these trips were not recoverable expenses, in that the meetings were held at the request of counsel for the Appellant. I do not agree. Settlement of litigation, without the necessity of proceeding to trial is always preferable. The travel costs associated with the settlement meetings are minimal when compared to the costs associated with the ultimate appeal of this Court’s decision to the Supreme Court of Canada.
+[62] Mr. Haymour’s trips to Ottawa were made in what is now known as “executive class”. The receipt for Mr. Haymour’s first trip contained a handwritten note “1/2 of invoice – $1,619.55”. The total cost of the airfare was $3,238.89 which included $211.89 for GST and an airport improvement fee of $20.00. Based on the handwritten note, I have assumed that fifty percent of the cost of this flight was included in the $17,173.64. The invoice for the airfare for the second trip on May 16, 2001 was in the amount of $3,429.35, which included GST of $224.35 and an airport improvement fee of $20.00.
+[63] I will allow the airfare for Mr. Haymour’s two trips to Ottawa, but at a reduced rate. While executive class travel affords travellers a great deal of comfort, it is an extravagance, the cost of which is not justified for domestic travel and recoverable on a party and party taxation. I was unable to find historical data to determine what the cost of these trips in a lower class of fare would have been at the time these trips were made. However, current full fares are approximately one half of executive class fares, which is what I will allow, as follows:
+March 27, 2000 Trip – $771.75, plus GST, which includes the $20.00 airport improvement fee
+In view of the handwritten note on the invoice referred to in paragraph 62 above, the amount allowed represents twenty-five percent of the total amount of the airfare
+May 16, 2001 Trip – $1,612.50, plus GST, which includes the $20.00 airport improvement fee
+[64] I will also allow the cost of a hotel room for two nights. The first invoice from the Château Laurier indicated that the room rate was $219.00 and included a handwritten note “1/2 charged”. I have assumed that fifty percent of the cost of the hotel accommodation was included in the total amount claimed. I will allow $114.98 for the hotel room in Ottawa in March, 2000 and $177.45 for the hotel room in Ottawa in May, 2001, for a total of $292.43 (plus GST).
+[65] Mr. McNary accompanied Mr. Haymour to Ottawa for the second meeting with counsel for the Respondent in May, 2001. As co-counsel for the Appellant, I will allow the costs associated with his trip. Mr. McNary travelled in first class and I will reduce the airfare by fifty percent. The quality of the invoice produced to support this claim was poor and as best as I can determine, the airfare was $2,977.00, and I will allow $1,488.50, (plus GST).
+[66] I will also allow the cost of Mr. McNary’s hotel room for his trip to Ottawa in May, 2001 at $177.45 (plus GST).
+[67] It appeared that Mr. McNary made trips to Calgary on May 14, 2001, May 28, 2003 and August 28, 2003 as receipts for airfare, two nights of accommodation and taxis were included with the materials at Exhibit “L” to the Appellant’s first Affidavit. Based on my review of the receipts, I am not aware of the purpose of Mr. McNary’s trips on May 14, 2001 and May 28, 2003 and I will not allow the costs associated with those two trips.
+[68] I will allow the costs associated with Mr. McNary’s trip to Calgary in August, 2003, as I am satisfied that this was a necessary trip made for the purpose of trial preparation. The amounts allowed are $354.58 for airfare, $135.45 for accommodation for one night for a total of $490.03 (plus GST).
+[69] To summarize paragraphs 54 to 68, the total amount allowed for travel and accommodation is $8,382.90 (plus GST).
+MEALS
+[70] I have disregarded the receipts produced at Exhibit “M” to support the $548.07 claimed for meals. Assuming that the claim for meals had been submitted using the rates established by the Treasury Board of Canada Secretariat, the allowable amount for meals would have been substantially higher. I will allow the amount of $548.07 (plus GST) for meals.
+TAXI CHARGES
+[71] The claim for taxis in the amount of $633.40 was supported by Exhibit “N” to the Appellant’s first Affidavit, being internal accounting records of FMC, with no actual receipts produced. Having reviewed the documents, I will allow $316.70 (plus GST), being one half of the total amount claimed. Taxi expenses were incurred by Mr. McNary while in Calgary and approximately one half of the amount claimed related to expenses incurred by him during the relevant time period.
+PARKING
+[72] I will allow $40.76 (plus GST) for parking. Having reviewed the receipts produced at Exhibit “O” to the Appellant’s first Affidavit, I have determined that $40.76 related to charges for parking incurred during the hearing and at the time of the March, 2000 settlement meeting with counsel for the Respondent in Ottawa.
+POST-JUDGMENT INTEREST
+[73] The Bill of Costs contained a claim for interest on the costs. Ms. Burnham submitted that any award of interest on the costs awarded should run from the date of the Judgment of the Supreme Court of Canada. Mr. Haymour stated that interest on costs should run from the date of the Judgment of the Tax Court of Canada and that there should be no adjustment made. Neither party made reference to any jurisprudence with respect to the award of interest on the costs.
+[74] Notwithstanding the fact that the only dispute with respect to interest on the costs is the date from which interest starts to run, I do not believe that I have the authority to award interest on costs. Neither the Tax Court of Canada Act nor the Rules contain provisions for the allowance on interest on an award of costs. As a result, I will not allow any amount for interest on costs.
+[75] The Bill of Costs of the Appellant is taxed. The amounts agreed to for fees are $26,175.00 and $3,293.47 (plus GST) for disbursements. Having allowed the further amount of $32,830.27 (plus GST) for disbursements, the total amount allowed is $64,827.40. A Certificate in that amount will be issued.
+Signed at Toronto, Ontario, this 8th day of March 2010.
+“B.G. Tanasychuk”
+Taxing Officer

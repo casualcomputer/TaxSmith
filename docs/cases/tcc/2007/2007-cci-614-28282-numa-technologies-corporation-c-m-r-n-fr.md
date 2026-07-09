@@ -1,0 +1,223 @@
+---
+title: "Numa Technologies Corporation c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28282/index.do"
+last_modified: "2007-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 614"
+citation2: ""
+neutral_citation: "2007 CCI 614"
+decision_date: "2007-10-15"
+language: "fr"
+item_id: "28282"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1866
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:10:37.772000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a511f864c4e2747e5673c45b62daa93b8b7e4d0a3c608ed1201e5fe7ecfbb983"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Numa Technologies Corporation c. M.R.N.
+
+- Citation: 2007 CCI 614
+- Decision date: 2007-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1866, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Numa Technologies Corporation c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-15
+Référence neutre
+2007 CCI 614
+Numéro de dossier
+2006-3131(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2006-3131(EI)
+ENTRE :
+NUMA TECHNOLOGIES CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Numa Technologies Corporation (2006-3134(CPP)) le 9 octobre 2007,
+à Saskatoon (Saskatchewan).
+Devant : L’honorable juge suppléant D.W. Beaubier
+Comparutions :
+Représentant de l’appelante :
+M. Bernard Lau
+Avocate de l’intimé :
+Me Myra Yuzak
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Toronto (Ontario), ce 15e jour d’octobre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2006-3134(CPP)
+ENTRE :
+NUMA TECHNOLOGIES CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Numa Technologies Corporation (2006-3131(EI)) le 9 octobre 2007,
+à Saskatoon (Saskatchewan).
+Devant : L’honorable juge suppléant D.W. Beaubier
+Comparutions :
+Représentant de l’appelante :
+M. Bernard Lau
+Avocate de l’intimé :
+Me Myra Yuzak
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Toronto (Ontario), ce 15e jour d’octobre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI614
+Date : 20071015
+Dossiers : 2006-3131(EI)
+2006-3134(CPP)
+ENTRE :
+NUMA TECHNOLOGIES CORPORATION,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Beaubier
+[1] Ces appels ont été entendus ensemble sur preuve commune, à Saskatoon (Saskatchewan), le 9 octobre 2007. Bernard Lau, administrateur de l’appelante, a témoigné pour le compte de celle‑ci. L’intimé a cité le présumé employé, Robert Nesdole (le « travailleur »).
+[2] Les paragraphes 10 et 11 de la réponse à l’avis d’appel qui a été déposée dans le dossier 2006‑3131(EI) énoncent les faits qui sont contestés. Ces paragraphes sont rédigés comme suit :
+[traduction]
+10. En réponse à l’appel, le ministre a décidé que le travailleur exerçait auprès de l’appelante un emploi aux termes d’un contrat de louage de services au cours de la période allant du 20 juin 2005 au 17 mars 2006.
+11. En tirant cette conclusion, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante s’occupait de technologie de l’information;
+b) le travailleur a été embauché à titre de représentant; il était notamment chargé, dans l’exercice de ses fonctions, de commercialiser et de vendre les produits et services de l’appelante, de s’occuper de la programmation et d’effectuer du travail en ligne pour les clients de l’appelante;
+c) le travailleur et l’appelante ont conclu une « entente d’emploi contractuel » écrite, qui prévoyait notamment les modalités suivantes :
+(i) le travailleur s’engage à promouvoir et à vendre les produits et services de TI de l’appelante;
+(ii) le travailleur s’engage à communiquer sans tarder les listes de clients potentiels et les commandes à l’appelante;
+(iii) le travailleur s’engage à informer le directeur des ventes des problèmes qui se posent dans le territoire de vente;
+(iv) le travailleur ne représentera en aucun cas une entreprise rivale;
+(v) le travailleur s’engage à téléphoner à l’appelante à une fréquence raisonnable en vue de parler des ventes dans le territoire;
+(vi) l’appelante s’engage à verser au travailleur des honoraires mensuels de 1 600 $;
+(vii) l’appelante s’engage à fournir au travailleur des cartes professionnelles, des brochures, des catalogues et des échantillons de produits;
+(viii) l’appelante s’engage à fixer des quotas mensuels minimaux;
+d) le travailleur touchait un salaire mensuel fixe de 1 600 $;
+e) le travailleur pouvait également toucher une commission si les ventes qu’il concluait dépassaient un quota mensuel fixe;
+f) l’appelante décidait du taux de rémunération du travailleur;
+g) l’appelante décidait des prix des produits et des services;
+h) l’appelante rémunérait le travailleur sur une base mensuelle régulière;
+i) les heures de bureau de l’appelante étaient normalement de 9 à 17 h, du lundi au vendredi;
+j) le travailleur travaillait normalement pendant les heures de bureau de l’appelante;
+k) l’appelante donnait des directives et des instructions au travailleur;
+l) l’appelante exerçait un contrôle sur le travailleur pour ce qui est de l’établissement des prix;
+m) l’appelante donnait des instructions au travailleur au sujet de l’endroit où celui‑ci devait solliciter des clients;
+n) l’appelante fournissait normalement une liste de clients au travailleur;
+o) le travailleur était tenu de faire sans tarder rapport à l’appelante au sujet des commandes;
+p) le travailleur devait faire approuver les transactions ou les offres par l’appelante;
+q) le travailleur soumettait des rapports à l’appelante;
+r) le travailleur représentait l’appelante lorsqu’il fournissait ses services;
+s) le travailleur ne pouvait pas travailler pour un concurrent pendant qu’il fournissait des services à l’appelante;
+t) le travailleur ne pouvait pas se faire remplacer;
+u) l’appelante fournissait au travailleur un lieu de travail, et notamment un bureau, un téléphone, une imprimante, un télécopieur et des fournitures de bureau;
+v) l’appelante fournissait au travailleur des cartes professionnelles, des brochures, des catalogues et des échantillons de produits;
+w) le travailleur fournissait son propre véhicule;
+x) le travailleur engageait des frais à l’égard du véhicule;
+y) les frais engagés par le travailleur étaient assimilables à des dépenses d’emploi;
+z) le travailleur n’avait pas de possibilité de profit ou de risque de perte;
+aa) l’intention du travailleur, pendant qu’il fournissait des services à l’appelante, était de travailler à titre d’employé;
+bb) le travailleur n’avait pas d’appellation ni de nom commercial;
+cc) le travailleur n’exigeait pas la TPS de l’appelante;
+dd) le travailleur n’exploitait pas une entreprise pour son propre compte pendant qu’il fournissait des services à l’appelante.
+[3] Toutes les hypothèses, sauf celles qui feront l’objet de remarques, ont été établies ou n’ont pas été réfutées. Les remarques à faire, pour chaque alinéa, sont les suivantes :
+11c) Le « contrat » écrit a été signé, mais ni l’une ni l’autre des parties ne respectait les conditions y afférentes. Les deux parties ont une copie du contrat en leur possession quelque part, mais ni l’une ni l’autre n’a songé à apporter une copie signée à l’audience.
+11c)(v) Cette modalité est vraie, mais le travailleur se présentait aux bureaux de l’appelante chaque jour où il travaillait.
+11c)(vi) Cette modalité était précisée dans l’« entente d’emploi contractuel » écrite (pièce R‑1). Cependant, le travailleur n’a jamais conclu un nombre suffisant de ventes pour être admissible au montant minimal de 1 600 $ qui était garanti, si ses commissions étaient calculées. Par conséquent, le travailleur touchait de 1 200 à 1 500 $ par mois, selon les commissions gagnées.
+11c)(vii) Telle était l’entente, mais cela ne s’est jamais produit.
+11d) Le travailleur n’a jamais touché ou reçu ce « salaire ».
+11n) Le travailleur recevait parfois une liste de clients, mais à d’autres moments, on lui remettait une section des Pages jaunes.
+11t) Les deux parties ont déclaré que le travailleur pouvait se faire remplacer, à condition que son remplaçant connaisse la ligne de produits. Or, la ligne de produits était composée de nouvelles technologies et il fallait avoir une expérience « pratique » étant donné que l’appelant n’avait pas de brochures de produits à sa disposition. En pratique, seul un travailleur de l’appelante possédant l’expérience requise pouvait remplacer M. Nesdole.
+11(v) Cela ne s’est jamais produit.
+11(y) Cette hypothèse n’est pas vraie. Le travailleur devait téléphoner à de petites entreprises et parcourir Saskatoon pour vendre les services technologiques de l’appelante. Dans un cas il s’agissait de temps publicitaire sur un site Web; dans les autres cas, il fallait que le personnel de l’appelante effectue un apport technologique. Dans tous les cas, le travailleur devait se rendre dans les locaux des petites entreprises pour vendre les services. Il utilisait à cette fin son propre véhicule, à ses frais.
+11x), j) et k) Le nombre de ventes conclues par le travailleur était peu élevé. Compte tenu des frais afférents au véhicule, le travailleur avait une possibilité de profit et un risque de perte. Selon la preuve, le travailleur n’était pas un représentant ou un courtier entreprenant. Le travailleur se présentait au bureau pour commencer à travailler entre 9 et 10 h et il quittait le bureau vers 15 ou 16 h. On devait lui dire où joindre les clients et on lui remettait ensuite un annuaire téléphonique. Le personnel de l’appelante travaillait chaque jour de 9 à 17 h au moins. Il n’est pas établi que l’appelante ait réprimandé le travailleur en ce qui concerne les heures effectuées par celui‑ci. Le travailleur a témoigné qu’il téléphonait, par politesse, à l’appelante les jours où il ne se présentait pas au bureau.
+11aa), cc) et (dd) Le travailleur affirme qu’il voulait travailler à titre d’employé. L’appelante voulait qu’il travaille comme entrepreneur. Le travailleur n’a jamais gagné plus de 30 000 $ l’an.
+[4] Compte tenu des éléments portés à la connaissance de la Cour, il faut trancher les questions suivantes :
+1. Le contrôle
+Aucun contrôle n’était exercé sur le travailleur à titre d’employé. Le travailleur n’effectuait pas les mêmes heures que les employés de l’appelante et il n’était pas réprimandé à l’égard des heures effectuées ou à l’égard du temps qu’il passait dans les locaux de l’appelante, ou quant à son rendement. Rien ne montre qu’on ait indiqué au travailleur comment effectuer des ventes ou qu’on lui ait donné des directives, mis à part le fait qu’on lui remettait parfois une liste de clients éventuels ou les Pages jaunes. On s’en remettait au travailleur; le travailleur touchait des commissions en fonction de son rendement.
+2. Les instruments de travail
+Les seuls instruments de travail utilisés par le travailleur étaient un ordinateur quelconque permettant l’accès au site Web de l’appelante et la propre voiture du travailleur. On n’a pas établi à qui appartenait l’ordinateur. La Cour conclut que les deux parties fournissaient à parts égales les instruments de travail. Le travailleur n’avait même pas de cartes de l’appelante à sa disposition. Il se présentait au public à titre de conseiller en TI plutôt qu’à titre d’employé de l’appelante.
+3. L’intégration
+Le travailleur ne vendait pas de produits qui faisaient concurrence à ceux de l’appelante. Toutefois, la Cour croit M. Lau lorsqu’il déclare que le travailleur avait le droit de vendre d’autres produits et services de TI qui ne faisaient pas concurrence à ceux de l’appelante. De plus, le travailleur était un étudiant diplômé et il était en train de poursuivre des études de maîtrise. À cet égard, les parties n’ont pas observé le document non signé produit sous la cote R‑1; en effet, quant à certains points cruciaux, les deux parties ont fait des choses qui allaient à l’encontre de cette présumée « entente ». Les deux parties conviennent de l’existence d’une entente de ce genre ou qu’elles ont toutes deux signé l’entente. Le document produit sous la cote A‑1 est simplement un document intéressé rédigé par M. Lau après le début de l’enquête menée en matière d’assurance‑emploi.
+4. La possibilité de profit et le risque de perte
+Compte tenu des agissements des parties et de leurs intentions au cours de la période en cause, il y avait pour le travailleur une réelle possibilité de profit et un réel risque de perte. Le travailleur était libre de se livrer à ses activités commerciales comme il l’entendait, et c’est ce qu’il a fait. Il y avait réellement des frais associés au véhicule et un amortissement, que le travailleur assumait lui‑même. Le travailleur allait solliciter des clients à sa guise. Il se présentait au bureau ou il communiquait avec le bureau à sa guise, sans être réprimandé. Il était rémunéré à commission en fonction des ventes. Cependant, il devait réussir à conclure des ventes. S’il fallait effectuer un remboursement, la commission touchée par le travailleur était réduite ou annulée.
+[5] Compte tenu de ces faits, le travailleur exploitait‑il sa propre entreprise? Le travailleur se présentait aux bureaux de l’appelante presque tous les jours. Contrairement à ce qui serait le cas pour un employé, le travailleur ne recevait pas de directives et il ne faisait pas l’objet d’un contrôle. Le travailleur fournissait sa propre voiture, soit un instrument de travail important. Il y avait réellement pour le travailleur une possibilité de profit et un risque de perte. Le travailleur n’était pas intégré aux activités de l’appelante de la même façon que les autres employés.
+[6] Eu égard aux faits particuliers de la présente affaire, le travailleur exploitait une entreprise pour son propre compte.
+[7] Les appels sont accueillis. Les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation, et les conclusions du ministre sont modifiées conformément aux présents motifs.
+Signé à Toronto (Ontario), ce 15e jour d’octobre 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 21e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI614
+Nos DES DOSSIERS DE LA COUR : 2006-3131(EI) et 2006-3134(CPP)
+INTITULÉ : Numa Technologies Corporation
+c.
+Ministre du Revenu national
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 9 octobre 2007
+MOTIFS DU JUGEMENT : L’honorable juge suppléant D.W. Beaubier
+DATE DU JUGEMENT : Le 15 octobre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Bernard Lau
+Avocate de l’intimé :
+Me Myra Yuzak
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

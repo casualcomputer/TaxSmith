@@ -1,0 +1,114 @@
+Title: Vaynshteyn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25927/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-573-25927-vaynshteyn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-09-24
+
+# Vaynshteyn v. The Queen
+
+- Citation: 2004 TCC 573
+- Decision date: 2004-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3660, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vaynshteyn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-24
+Neutral citation
+2004 TCC 573
+File numbers
+2004-625(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-625(IT)I
+BETWEEN:
+ESFIRA VAYNSHTEYN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 12, 2004 at Edmonton, Alberta
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John-Paul Hargrove
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC573
+Date: 20040924
+Docket: 2004-625(IT)I
+BETWEEN:
+ESFIRA VAYNSHTEYN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant Mrs. Vaynshteyn is appealing her assessment for the 2002 taxation year. At issue is whether she is entitled to claim a non-refundable tax credit for the in-home care she provided to her elderly parents at various times throughout 2002. To succeed in her appeal, Mrs. Vaynshteyn has the onus of proving wrong the assumptions upon which the Minister of National Revenue based his decision; in particular, the assumptions set out in paragraphs 7(d) and (e) of the Reply to the Notice of Appeal:
+(d) during the Period, the Appellant maintained a self-contained domestic establishment at 114 Wolf Ridge Place, Edmonton, which was her ordinary place of residence, and
+(e) during the Period, the Parents maintained a self-contained domestic establishment at 414, 8956-156 Street, Edmonton, which was their ordinary place of residence.
+The position of the Minister is that the Appellant is not entitled to this deduction because she did not "maintain" a "self-contained domestic establishment" which was concurrently her and her parents' "ordinary place of residence" at any time during 2002.[1]
+[2] Mrs. Vaynshteyn testified that until her parents, Sofya and Mikhail Levin, began to experience health problems in 2002, she resided with her husband and two grown children in their house at Wolf Ridge Place in Edmonton, Alberta. Since immigrating to Canada some 15 years ago, Mr. and Mrs. Levin have lived in Edmonton and in 2002 were residing in an apartment on 156th Street which they owned jointly with Mrs. Vaynshteyn. Early in 2002, Mr. Levin began to experience health problems. Mrs. Levin, who was not well herself, was finding it increasingly difficult to cope on their own. This was of great concern to the family. Although it would have been more convenient for Mrs. Vaynshteyn (who runs a home-based business) to move her parents in with her, this was not an option as her father could not negotiate the stairs at the Wolf Ridge Place house. It was finally decided that the best solution would be for Mrs. Vaynshteyn to come to stay with them at the 156th Street apartment.
+[3] As it turned out, Mrs. Vaynshteyn was required to stay with her parents at their apartment not once but three times in 2002: from January 18, 2002 to March 30, 2002, from May 2, 2002 to July 12, 2002, and from September 7, 2002 to October 21, 2002. On each occasion, Mrs. Vaynshteyn left her Wolf Ridge house and relocated herself at the 156th Street apartment. Her name was posted in the apartment directory. She had her own room with its own bathroom where she installed herself and all the personal items one would need for a prolonged stay of indefinite duration. She shared living expenses, including grocery costs and condo fees, with her parents. Though she left the apartment regularly to work out of her home office at Wolf Ridge Place and to take care of errands such as grocery shopping, during the relevant periods, Mrs. Vaynshteyn returned to eat and sleep at the apartment.
+[4] In October 2002, the situation changed. Mr. Levin's health had deteriorated to the point he needed to be cared for in a nursing home. Mrs. Levin's health was also failing and she could not remain alone in the apartment. Now, however, no longer having to take her father's mobility needs into account, Mrs. Vaynshteyn decided to return to her Wolf Ridge Place house and to move her mother in with her and her family. Mrs. Levin brought all the things needed for a long stay, including items for cooking. Mrs. Vaynshteyn looked after her mother in her own home from October 22 to December 31, 2002.
+[5] The Minister concedes that in 2002, Mrs. Vaynshteyn met most of the requirements of paragraph 118(1)(c.1) in that she provided care during certain periods to parents who were over 65 years of age. He contends, however, that Mrs. Vaynshteyn did not provide in-home care in a "self-contained domestic establishment which was the ordinary place of residence" of Mrs. Vaynshteyn and her parents.
+[6] Whether this is so is a question of fact. Both Mrs. Vaynshteyn and Mrs. Levin were credible witnesses. I am satisfied on a balance of probabilities that during the relevant periods in 2002, they were maintaining a self-contained domestic establishment which was their ordinary place of residence. Specifically, I find that during the three periods from January 18, 2002 to October 21, 2002, Mrs. Vaynshteyn had established as her ordinary place of residence the 156th Street apartment that she shared with her parents. She was taking her meals there, providing care to her parents, sleeping at and working from the 156th Street apartment. Although legal title does not in itself determine a place of residence, Mrs. Vaynshteyn's position is further strengthened, in my view, by her joint ownership of her parents' apartment. Conversely, she could not reasonably be expected to divest herself of her legal interest in the Wolf Ridge Place house merely to shore up her claim for a deduction: her husband and children were resident there, her business was located there and she had no way of knowing how long her ailing parents would require her care. It seems to me that it is the unpredictable nature of when, and for how long care will be required to which the words "... at any time in the [taxation] year ..." in paragraph 118(1)(c.1) are directed. The legislation does not specify a minimum period of care, only that it occur in the year, thus recognizing both the necessity of such care and its transitory quality. In Mrs. Vaynshteyn's situation, this proved to be the case; after October 21, 2002 when, sadly, her father's health had deteriorated to the point where appropriate care could only be provided in a nursing home, her presence at the apartment (in so far as he was concerned) was no longer needed. It was then she resumed her residency at Wolf Ridge Place. For all of these reasons, I am satisfied that Mrs. Vaynshteyn and her parents were maintaining the 156th Street apartment as their ordinary place of residence for each of the periods between January 18, 2002 and October 21, 2002.
+[7] If I am wrong in so deciding, I further find Mrs. Vaynshteyn was providing in-home care for her mother within the meaning of the legislative provision at Wolf Ridge Place from October 22, 2002 to December 31, 2002. The uncontradicted evidence of Mrs. Vaynshteyn and her mother is that Mrs. Levin moved into her daughter's home with the intention of establishing residency there during her period of ill health. She brought her cooking things with her and enough clothes and personal items for a long stay. She is not fluent in English; she gave her testimony through a translator at the hearing. Although not as restricted in her movement as her husband had been, Mrs. Levin had and continues to have her own difficulties in getting around on her own. It is unreasonable to conclude that from October 22, 2002 to December 2002 she was flitting between the two addresses. Given the state of her health and her reliance on her daughter for, among other things, her ability to maintain contact with her husband in the nursing home, I am satisfied that for the period October 22, 2002 to December 2002, she and her daughter Mrs. Vaynshteyn were maintaining as their ordinary place of residence the house at Wolf Ridge Place.
+[8] Accordingly, the appeal is allowed, with costs, and the reassessment is referred back to the Minister for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 24th day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC573
+COURT FILE NO.:
+2004-625(IT)I
+STYLE OF CAUSE:
+Esfira Vaynshteyn and H.M.Q.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+September 24, 2004
+APPEARANCES:
+Counsel for the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John-Paul Hargrove
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to s. 118(1)(c.1) of the Income Tax Act which reads: In-home care of relative - in the case of an individual who, at any time in the year alone or jointly with one or more persons, maintains a self-contained domestic establishment which is the ordinary place of residence of the individual and of a particular person
+(i) who has attained the age of 18 years before that time,
+(ii) who is
+(A) the individual's child or grandchild, or
+(B) resident in Canada and is the parent, grandparent, brother, sister, aunt, uncle, nephew or niece of the individual or of the individual's spouse or common-law partner, and
+(iii) who is
+(A) the individual's parent or grandparent and has attained the age of 65 years before that time, or
+(B) dependent on the individual because of the particular person's mental or physical infirmity,
+...

@@ -1,0 +1,167 @@
+---
+title: "Sveinson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30168/index.do"
+last_modified: "2011-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 34"
+citation2: ""
+neutral_citation: "2011 CCI 34"
+decision_date: "2011-01-20"
+language: "fr"
+item_id: "30168"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7818
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:11:43.225000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3800a6f3f55187f16ee93624d91394c39f13da86985e50ee5b196afffe04535b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sveinson c. La Reine
+
+- Citation: 2011 CCI 34
+- Decision date: 2011-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7818, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sveinson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-20
+Référence neutre
+2011 CCI 34
+Numéro de dossier
+2010-905(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-905(IT)I
+ENTRE :
+SVEINN S. SVEINSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 2 décembre 2010 à Winnipeg (Manitoba).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Dhara Drew
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Toronto (Ontario), ce 20e jour de janvier 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 34
+Date : 20110120
+Dossier : 2010-905(IT)I
+ENTRE :
+SVEINN S. SVEINSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, Sveinn Sveinson, a fait l’objet d’une nouvelle cotisation visant à réduire le montant auquel il avait droit, au titre de crédit pour personnes âgées suivant le paragraphe 118(2) de la Loi de l’impôt sur le revenu. L’année d’imposition pertinente est 2008.
+[2] Le calcul du crédit pour personnes âgées tient compte du revenu du contribuable pour l’année visée. La question en litige en l’espèce est de savoir si un montant forfaitaire reçu par l’appelant conformément à la législation sur l’indemnisation des victimes d’accidents du travail est inclus dans le revenu pour les besoins du crédit pour personnes âgées.
+[3] Le contexte pertinent est énoncé ci‑dessous.
+[4] L’appelant a été pendant longtemps un employé de Service correctionnel du Canada avant de prendre sa retraite en 2001.
+[5] En 1984, l’appelant a été mêlé à plusieurs incidents violents concernant des détenus à la prison où il travaillait. Ces incidents ont causé chez l’appelant des symptômes graves liés au stress et, pendant les 24 années qui ont suivi, l’appelant a tenté d’obtenir réparation pour remédier à la situation.
+[6] En fin de compte, l’appelant a reçu un diagnostic de trouble de stress post‑traumatique qui, d’après ce que l’on a déterminé, avait été causé par les incidents ayant eu lieu dans la prison. L’appelant, qui avait droit à une indemnité pour accidents du travail, a reçu à la mi‑décembre 2008 un chèque de 35 036,74 $ émis par la Commission des accidents du travail du Manitoba. Une partie de ce montant constituait un paiement en remplacement de paiements futurs.
+[7] Conformément au régime législatif d’imposition des indemnités pour accidents du travail, le ministre du Revenu national a inclus l’indemnité pour accidents du travail dans le revenu de l’appelant et, dans le calcul du revenu imposable, il a admis une déduction pour un montant équivalent. Le ministre a aussi considéré le montant comme un revenu pour les besoins du crédit pour personnes âgées, et le crédit est passé de 5 276 $ à 305 $.
+[8] Le régime législatif pertinent a été décrit en détails par le juge Little dans la décision Nicholas c. La Reine, 2003 CCI 189, [2003] 3 CCI 2429. L’appelant ne conteste pas cette description et, plus précisément, il ne s’oppose pas au fait que le crédit pour personnes âgées soit réduit si l’indemnité pour accidents du travail constitue un revenu.
+[9] Dans l’avis d’appel initial de l’appelant, celui‑ci cherchait à obtenir une mesure de redressement pour des motifs d’équité. Il a affirmé ce qui suit :
+[traduction]
+Il est étrange que même si l’indemnité pour accidents du travail est censée ne pas être imposable, j’ai payé 1 379,34 $ en impôt. Il est extrêmement triste que ceux qui ont besoin d’un petit surplus, comme les personnes âgées, bénéficient d’une exemption supplémentaire, mais soient ainsi pénalisées.
+[10] Cet argument n’a pas été soulevé à l’audience et, quoi qu’il en soit, il n’aurait pas été possible d’accorder une mesure de redressement pour ce motif.
+[11] L’appelant a soulevé un deuxième argument dans une modification de l’avis d’appel. Le fondement de l’argument est illustré sous la forme du commentaire suivant, qui figure dans le Guide général d’impôt et de prestations (le « Guide ») de 2008, à la page 15 :
+Montants non imposables
+Vous n’avez pas à déclarer certains montants, qui comprennent notamment
+[…]
+- les indemnités reçues d’une province ou d’un territoire pour compenser les victimes d’actes criminels ou d’accidents d’automobile;
+[12] L’énoncé de l’Agence du revenu du Canada ci‑dessus semble appuyer dans une certaine mesure la thèse de l’appelant. Ce dernier a présenté de nombreux éléments de preuve à l’audience afin de démontrer qu’il avait été victime d’actes criminel et que ces actes étaient liés directement à sa maladie et lui ont permis de recevoir une indemnité de la Commission des accidents du travail.
+[13] Le problème de la thèse de l’appelant est que les énoncés de l’Agence du revenu du Canada ne constituent pas des lois et ne peuvent pas être appliqués par la Cour s’ils ne sont pas soutenus par les dispositions législatives actuelles.
+[14] Je tiens également à souligner que le Guide est publié pour fournir une aide générale aux contribuables. Il n’est pas censé décrire en détail les dispositions législatives.
+[15] En l’espèce, les dispositions pertinentes sont l’alinéa 81(1)q) de la Loi de l’impôt sur le revenu, le sous‑alinéa 6501c)(i) du Règlement de l’impôt sur le revenu et le paragraphe 6(1) de la Loi sur l’indemnisation des victimes de crimes (Manitoba), 1970. Ces dispositions sont reproduites ci‑dessous :
+81(1) Ne sont pas inclus dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+q) une somme versée à un particulier à titre d’indemnité en vertu d’une disposition, précisée par règlement, de la législation provinciale.
+6501 Aux fins de l’alinéa 81(1)q) de la Loi, « disposition prescrite de la loi d’une province » désigne
+[…]
+c) pour ce qui est de la province du Manitoba
+(i) le paragraphe 6(1) de la Loi sur l’indemnisation des victimes de crimes, S.M. 1970, ch. 56, […]
+[traduction]
+6(1) Si une personne est blessée ou tuée, selon le cas :
+a) du fait d’un acte ou d’une omission d’une autre personne, survenu au Manitoba, qui correspond à la description de l’une quelconque des infractions criminelles énoncées à l’annexe 1 :
+b) alors qu’elle tentait :
+(i) soit d’arrêter une personne ou de maintenir la paix,
+(ii) soit de prêter assistance à un agent de la paix dans l’exercice de ses fonctions d’application de la loi au Manitoba,
+La Commission peut, sur réception d’une demande écrite, rendre une ordonnance en conformité avec la présente loi pour le versement d’une indemnité à l’une des personnes suivantes :
+c) à la personne blessée ou à son bénéfice;
+d) à la personne chargée de l’entretien de la victime en réparation du préjudice pécuniaire qu’elle a subi ou en remboursement des dépenses qu’elle a engagées en raison des blessures causées à la victime;
+e) à une ou plusieurs personnes à charge de la victime.
+[16] L’exemption prévue aux dispositions ci‑dessus n’est pas applicable au montant forfaitaire reçu en l’espèce parce que le paiement a été fait conformément à la législation sur l’indemnisation des victimes d’accidents du travail et non à la législation visant en particulier les victimes d’actes criminels.
+[17] La disposition pertinente relative au paiement fait à l’appelant est l’alinéa 56(1)v) de la Loi de l’impôt sur le revenu. Il prévoit clairement que les indemnités pour accidents du travail doivent être incluses dans le revenu. L’alinéa est ainsi libellé :
+56(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+v) une indemnité reçue en vertu d’une loi sur les accidents du travail du Canada ou d’une province à l’égard d’une blessure, d’une invalidité ou d’un décès;
+[18] Puisque la législation pertinente prévoit clairement que le montant en cause doit être inclus dans le revenu, je dois, à regret, rejeter l’appel.
+Signé à Toronto (Ontario), ce 20e jour de janvier 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 34
+No DU DOSSIER DE LA COUR : 2010-905(IT)I
+INTITULÉ : SVEINN S. SVEINSON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 2 décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 20 janvier 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Dhara Drew
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

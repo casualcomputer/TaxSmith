@@ -1,0 +1,123 @@
+Title: Delaney c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26476/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-248-26476-delaney-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-04-15
+
+# Delaney c. La Reine
+
+- Citation: 2004 CCI 248
+- Decision date: 2004-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3160, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delaney c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-15
+Référence neutre
+2004 CCI 248
+Numéro de dossier
+2003-3637(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-3637(IT)I
+ENTRE :
+ROBERT DELANEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu par M. le juge François Angers à
+Vancouver (Colombie-Britannique), le 24 février 2004
+Comparutions :
+Avocat de l'appelant :
+Me John Dore
+Avocat de l'intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1997 est rejeté conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2004.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI248
+Date : 20040415
+Dossier : 2003-3637(IT)I
+ENTRE :
+ROBERT DELANEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers, C.C.I.
+[1] Il s'agit d'un appel d'une cotisation établie par le ministre du Revenu national (le ministre) à l'égard de l'année d'imposition 1997 de l'appelant. Le ministre a imposé le bénéfice tiré par l'appelant de la vente de certains lots, à savoir un montant de 44 360 $, en tant que revenu d'entreprise plutôt que de gain en capital.
+[2] L'appelant exploite un service d'entretien d'immeubles. En 1997 et au cours des années ultérieures, il tirait presque tout son revenu de travaux de réparation d'appartements et de condominiums; il tirait également un revenu de trois biens locatifs qu'il possédait ces années-là. Il avait également possédé des biens locatifs pendant une quinzaine d'années avant l'année 1997; il a apparemment vendu trois immeubles au cours des 20 dernières années, y compris une maison et un lot attenants aux lots ici en cause.
+[3] Le 7 décembre 1984, l'appelant ainsi qu'un certain M. et une certaine Mme McBurnie ont acquis ce qui était alors connu sous le nom de lot no 9, situé au 1226, 160e rue, (la propriété), à Surrey (Colombie-Britannique). Les McBurnie et l'appelant possédaient chacun une part de cinquante pour cent dans la propriété. Monsieur McBurnie était lui-même courtier en immeubles. Il y avait une maison sur cette propriété, mais étant donné la superficie du lot, il était possible de diviser la propriété et de créer un autre lot. La maison était louée et, le 28 mars de l'année suivante, les propriétaires ont soumis au district de Surrey un projet de plan de lotissement de la propriété sous la forme d'un croquis préliminaire dessiné par M. McBurnie. Dans une note interservice en date du 13 mai 1985 que l'ingénieur municipal adjoint avait envoyée au directeur de la planification du district figurait une liste de conditions à remplir aux fins de l'approbation du projet de lotissement. Dans une lettre en date du 30 mai 1985 envoyée aux propriétaires par le directeur de la planification, les conditions d'approbation du lotissement étaient énoncées; ces conditions étaient passablement nombreuses. Il n'est pas nécessaire de les énoncer, mais il convient de mentionner que le plan préliminaire était valide pour une période de 180 jours, l'approbation finale devant être obtenue dans ce délai. Selon le plan préliminaire, une allée et une route devaient être construites le long des lots adjacents en vue de permettre l'accès, ce qui exigeait la participation des voisins. Les propriétaires n'ont pas donné suite à l'affaire à ce moment-là et l'approbation conditionnelle est devenue caduque.
+[4] Au mois de septembre 1986, les McBurnie ont vendu au père de l'appelant la part de cinquante pour cent qu'ils possédaient dans la propriété. Le père de l'appelant était un capitaine de remorqueur; la propriété devait lui fournir un revenu supplémentaire lorsqu'il prendrait sa retraite. En 1991, la propriété a été grevée d'une hypothèque et les fonds ont en partie été utilisés aux fins du remboursement d'une première hypothèque qui avait été consentie lors de l'achat. En 1995, les voisins ont commencé à s'intéresser au projet de lotissement et ils ont communiqué avec l'appelant et son père à cette fin. Une demande concernant le lotissement de la propriété ainsi que des lots adjacents nos 7 et 8 a été soumise aux autorités municipales pour approbation. Une autre hypothèque d'un montant de 85 000 $ a été consentie par l'appelant et par son père, afin de financer le coût du lotissement, qui a finalement été achevé en 1997. Une fois lotie, la propriété avait comme adresse le 1226, 160e rue pour le lot no 1, qui comprenait la maison, et le 1235, 160e rue « A » pour le lot no 2, qui était non bâti. Le plan de lotissement final est fort semblable au plan initial qui avait été soumis la première fois que l'on avait tenté d'obtenir l'approbation.
+[5] Les travaux qu'il fallait exécuter pour se conformer à toutes les conditions de lotissement imposées par les autorités municipales coûtaient fort cher et ont exigé beaucoup d'efforts de la part des demandeurs. Pendant que ces travaux étaient exécutés, l'appelant et son père ont acquis une option d'achat à l'égard du lot adjacent situé au 1245, 160e rue « A » , afin de protéger les capitaux investis dans le projet de lotissement. Il fallait le faire parce que le propriétaire de ce lot, qui avait amorcé le projet, faisait face à des problèmes financiers et qu'il lui était difficile de payer sa part des coûts. L'option a en fin de compte été levée par l'appelant et par son père et juste après, les deux lots non bâtis ont été vendus le 14 avril 1997 pour la somme de 160 000 $ par l'entremise d'un agent immobilier. Le coût réel de lotissement était d'environ 90 000 $. Ce montant englobait les frais d'ingénierie ainsi que les frais de construction des rues, des trottoirs, des égouts et d'autres frais accessoires. C'est le bénéfice même tiré de la vente de ces deux lots non bâtis qui est en litige. Devrait-il être considéré comme un revenu tiré d'une entreprise ou comme un gain en capital? Il s'agit d'une question mixte de droit et de fait, qui doit être tranchée eu égard aux faits qui lui sont propres.
+[6] Au fil des ans, les tribunaux judiciaires ont élaboré plusieurs critères destinés à faciliter la détermination de cette question. Dans la décision Happy Valley Farms Ltd. c. Sa Majesté la Reine, 86 DTC 6421, la Cour fédérale a reproduit ces critères et les a résumés comme suit :
+Depuis que l'impôt sur le revenu a été introduit au Canada, l'expression « un projet comportant un risque ou une affaire de caractère commercial » figurant dans la définition générale du terme « entreprise » , dans le paragraphe 248(1) de la Loi de l'impôt sur le revenu, a fait l'objet de nombreux arrêts. Selon la disposition législative en question, le terme « entreprise ou affaire » comprend une profession, un métier, un commerce, une manufacture ou une activité de quelque genre que ce soit et comprend « un projet comportant un risque ou une affaire de caractère commercial mais ne comprend pas une charge ni un emploi » . L'examen le plus complet de l'expression « projet comportant un risque de caractère commercial » se trouve dans l'arrêt Minister of National Revenue v. Taylor, 56 DTC 1125, [1956] C.T.C. 189 (C. de l'Éch.), dans lequel la Cour a énoncé un certain nombre de critères devant s'appliquer afin de déterminer dans quels cas une opération, qui ne constitue pas en soi un commerce ou une entreprise, peut être considérée comme « un projet comportant un risque ou une affaire de caractère commercial » . La décision montre clairement que dans des cas de ce genre, il s'agit de savoir si le bien a ou non été acquis par le contribuable à titre d'investissement. Dans la négative, tout gain retiré par le contribuable par suite de la vente du bien est imposable au titre de revenu. Pour déterminer si un bien a été acquis à titre d'investissement, il faut tenir compte de tous les faits de l'affaire en cause, et notamment du comportement du contribuable, de la nature de la propriété en cause, de la probabilité qu'un revenu soit tiré du bien sans qu'il soit nécessaire de revendre celui-ci et de la ressemblance de l'opération en question avec une opération commerciale.
+Plusieurs critères, dont un bon nombre sont semblables à ceux qui ont été énoncés par la Cour dans l'arrêt Taylor, ont été utilisés par les tribunaux afin de déterminer si un gain constitue un revenu ou s'il est imputable au capital. Mentionnons, entre autres choses, les critères suivants :
+1. La nature du bien qui est vendu. Presque tous les biens, quels qu'ils soient, peuvent être acquis pour qu'on en fasse le commerce, mais certains genres de biens, comme les produits manufacturés, qui sont en général commercialisés seulement, font rarement l'objet d'un investissement. Il y a plus de chances pour qu'un bien qui ne rapporte à son propriétaire aucun revenu ou qui ne lui procure aucune satisfaction personnelle du simple fait qu'il lui appartient soit acquis afin d'être vendu que le bien qui rapporte pareil revenu ou procure pareille satisfaction.
+2. La durée de la possession. En règle générale, les biens destinés à faire l'objet d'un commerce sont convertis en espèces peu de temps après avoir été acquis. Néanmoins, il existe de nombreuses exceptions à cette règle générale.
+3. La fréquence ou le nombre d'opérations similaires effectuées par le contribuable. Si des biens d'une catégorie particulière ont été vendus à maintes reprises pendant un certain nombre d'années ou si plusieurs ventes ont eu lieu vers la même époque, on peut présumer qu'il s'agissait d'opérations commerciales.
+4. Les améliorations faites sur le bien converti en espèces ou se rapportant à pareil bien. Si le contribuable s'efforce de mettre le bien dans un état qui lui permet de le vendre plus facilement pendant qu'il en est propriétaire, ou s'il fait un effort particulier afin de trouver ou d'attirer des acheteurs (par exemple, en ouvrant un bureau ou en faisant de la publicité), la chose tend à prouver l'existence d'une opération commerciale.
+5. Les circonstances qui ont entraîné la vente du bien. Il peut exister certaines explications, comme un cas urgent ou une occasion nécessitant de l'argent en espèces, qui feront qu'il sera impossible de conclure que le bien a initialement été acquis à des fins commerciales.
+6. Le motif. Dans tous les cas de ce genre, le motif du contribuable est toujours pertinent. L'intention au moment de l'acquisition d'un bien, déduite à partir des circonstances et de la preuve directe, constitue l'un des éléments les plus importants aux fins de la détermination de la question de savoir si un gain constitue un revenu ou s'il est imputable au capital.
+Tous les facteurs précités ont été examinés par les tribunaux, mais c'est le dernier facteur, soit le motif ou l'intention, qui a été le plus étudié. Ce facteur, en plus de l'examen du comportement du contribuable dans son ensemble lorsqu'il avait le bien en sa possession, constitue ce qui, en fin de compte, influe sur la conclusion de la Cour.
+Ce critère a été précisé par les tribunaux canadiens et est devenu ce qui est généralement appelé le critère de l' « intention secondaire » . Cela a voulu dire, dans certains cas, que même s'il pouvait être établi que le contribuable avait principalement l'intention d'effectuer un investissement, un gain retiré par suite de la vente du bien serait jugé imposable à titre de revenu si la cour croyait qu'au moment de l'acquisition, le contribuable envisageait la possibilité de vendre le bien si pour quelque raison que ce soit, son projet d'investissement ne se matérialisait pas. Dans l'arrêt Racine, Demers and Nolin v. Minister of National Revenue, 65 DTC 5098 (C. de l'Éch.), le juge Noël a résumé comme suit le critère de l'intention secondaire, à la p. 5103 :
+[traduction]
+[...] le fait qu'une personne achetant un bien en vue de l'utiliser à titre de bien en immobilisations pourrait être portée à le revendre, si un prix suffisamment élevé lui était offert, ne suffit pas pour en faire un projet comportant un risque de caractère commercial. De fait, ce n'est pas là ce qu'il faut entendre par « intention secondaire » , si je puis employer cette expression.
+Pour qu'une transaction qui implique l'acquisition de capitaux soit en même temps une initiative de caractère commercial, l'acheteur doit avoir l'intention, lors de l'achat, de revendre et ce doit être le motif de l'achat; c'est-à-dire qu'il doit avoir l'intention de revendre le bien à profit au lieu de l'immobiliser dès que surviendront certaines circonstances. D'une façon générale, si l'on décide qu'un tel motif existe, l'on doit se fonder sur des présomptions découlant des circonstances qui entourent la transaction plutôt que sur la déposition de l'acheteur quant à son intention.
+[7] La Cour fédérale mentionne maintenant ces critères comme facteurs à prendre en considération aux fins de pareille détermination. Ces critères sont énoncés dans l'arrêt Rivermede Developments Ltd. c. R. [1993] A.C.F. no 778 et ont été repris dans les bulletins d'interprétation. Comme le juge Teitelbaum l'a dit dans la décision Rivermede, précitée, aucun des facteurs n'est concluant à lui seul.
+[8] En l'espèce, l'appelant s'y connaît en matière d'acquisitions et de ventes d'immeubles. La preuve montre qu'à part son service d'entretien d'immeubles, il a acquis des biens locatifs et vendu certains de ces biens au fil des ans. En ce qui concerne l'achat de la propriété ici en cause, il était associé à un courtier en immeubles. La preuve ne donnait pas de détails au sujet de la participation de l'associé dans l'entreprise immobilière, mais le fait d'être un courtier en immeubles indique en soi que le particulier en cause s'y connaît dans ce domaine. Lorsqu'il a acheté la propriété, l'appelant voulait générer un revenu de location, mais étant donné la superficie et la forme du lot, on ne saurait omettre de tenir compte de la possibilité de le diviser, de créer un nouveau lot et de le vendre. De fait, l'appelant et son associé ont étudié cette possibilité presque immédiatement après avoir acheté le lot en soumettant une demande aux fins du lotissement. La participation des voisins et les nombreuses conditions imposées par le district de Surrey faisaient obstacle à leur projet, qui a dû être abandonné pendant un certain temps. Lorsque les voisins ont finalement été prêts à partager les coûts afférents à un projet de lotissement, l'appelant et son nouvel associé ont commencé à s'intéresser au projet. Même si le plan final de lotissement était peut-être différent du plan initial qui avait été soumis, l'intention de diviser le lot et de vendre le lot non bâti existait toujours. Dans ce cas-ci, je ne crois pas que le temps pendant lequel l'appelant a été propriétaire soit un facteur étayant la position selon laquelle la propriété a été achetée à des fins d'investissement, donnant lieu à un gain en capital. En l'espèce, il s'agissait d'obtenir la coopération des propriétaires des fonds de terre voisins afin de partager les coûts et, par conséquent, d'obtenir un bénéfice plus élevé.
+[9] L'appelant n'a peut-être pas entamé le projet de lotissement même qui a abouti à la vente de ces lots, mais sa conduite, au moment de l'achat, en 1985 ou juste après, démontre clairement que son associé et lui songeaient à lotir la propriété dans l'intention de tirer un bénéfice de la vente de ces lots. La preuve n'indique pas que le projet de lotissement et de vente était le résultat d'événements imprévus. C'était plutôt l'aboutissement de ce que l'on entendait faire. La propriété a en fin de compte été mise dans un état où elle pouvait être mise en vente grâce aux efforts concertés de tous les intéressés. L'achat de la part de certaines des personnes qui ont participé au lotissement et la vente immédiate du lot indiquent également des risques associés à une entreprise commerciale. Je conclus que la conduite de l'appelant est compatible avec une activité commerciale. Les demandes initiales de renseignements qui ont été faites au sujet d'un lotissement possible, le lotissement lui-même, les frais associés au lotissement, la construction de routes et de trottoirs ainsi que l'achat et la vente d'un lot adjacent pour sauver le projet indiquent tous l'existence de circonstances sur lesquelles l'appelant exerçait un contrôle, et ce, même si celui-ci a déclaré avoir acheté le lot au complet aux fins d'un investissement. À mon avis, ces activités ne sont pas compatibles avec la possession de la propriété simplement aux fins d'un investissement.
+[10] Je conclus donc que la vente de la propriété était une entreprise ou un risque de caractère commercial et qu'elle a donc à juste titre fait l'objet d'une cotisation. L'appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2004.
+« François Angers »
+J.C.C.I.
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI248
+No DU DOSSIER DE LA COUR :
+2003-3637(IT)I
+INTITULÉ :
+Robert Delaney et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 24 février 2004
+MOTIFS DU JUGEMENT :
+M. le juge François Angers
+DATE DU JUGEMENT :
+le 15 avril 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Me John Dore
+Avocat de l'intimée :
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

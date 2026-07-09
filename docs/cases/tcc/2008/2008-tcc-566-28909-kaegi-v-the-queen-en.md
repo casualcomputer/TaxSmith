@@ -1,0 +1,216 @@
+---
+title: "Kaegi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28909/index.do"
+last_modified: "2008-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 566"
+citation2: ""
+neutral_citation: "2008 TCC 566"
+decision_date: "2008-10-07"
+language: "en"
+item_id: "28909"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1417
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:45:02.631000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fe694b611df3d4510453788b139ea95d715e39472094223cf0dcacf59f671693"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kaegi v. The Queen
+
+- Citation: 2008 TCC 566
+- Decision date: 2008-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1417, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kaegi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-07
+Neutral citation
+2008 TCC 566
+File numbers
+2007-4500(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4500(IT)I
+BETWEEN:
+STEPHEN KAEGI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on July 16, 2008, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Peter Aprile
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years are allowed, with costs in the amount of $500, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct business losses of $30,793, $29,138 and $22,972, respectively.
+Signed at Ottawa, Canada, this 7th day of October 2008.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2008 TCC 566
+Date: 20081007
+Docket: 2007-4500(IT)I
+BETWEEN:
+STEPHEN KAEGI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Stephen Kaegi appeals by way of the Informal Procedure the Minister of National Revenue’s assessment of his 2003, 2004 and 2005 taxation years. The Minister denied the deduction of business losses claimed by Mr. Kaegi of $30,793, $29,138 and $22,972, respectively, in those years. The basis for the assessments, confirmed in testimony by the Appeals Officer who drafted the Minister’s Reply to the Notice of Appeal, was that Mr. Kaegi was not carrying on a business and therefore had no source of income. The parties made it clear at the outset that this was the only issue, and that the reasonableness of the expenses (section 67 of the Income Tax Act)[1] or whether they were personal or living expenses (paragraph 18(1)(h) of the Act) were not at issue, notwithstanding those sections were mentioned in the Reply. The Minister framed the issue as follows in the Reply.
+14 The issue is whether the Appellant is entitled to deduct the claimed Musician Business losses in computing his income for the 2003, 2004 and 2005 taxation years.
+…
+16 He submits that at all material times, the Appellant was operating a personal endeavour and a non-commercial activity in respect of his purported Musician Business.
+17 He respectfully submits that the Appellant’s claimed Musician Business does not constitute a source of income and that the expenses disallowed by the Minister were not outlays or expenses incurred for the purpose of earning income from a business or property as the Appellant did not carry on any business or commercial activity in respect of the Musician Business, and that the Appellant was properly reassessed for the 2003, 2004 and 2005 taxation years in accordance with sections 3, 4 and 9 and paragraphs 18(1)(a) and 18(1)(h) of the Act.
+[2] For the reasons that follow I find the Appellant is entitled to deduct those business losses in 2003, 2004 and 2005.
+The Facts
+[3] In 1997, Mr. Kaegi and his wife started down the road to achieve musical fame and fortune. Ms. Kaegi (professionally known as Elise Dallaire) had a background in singing and composing. Mr. Kaegi was the Chief Administrative Officer of the Township of the Archipelago. Mr. Kaegi and Ms. Kaegi were partners in this new endeavour. Ms. Kaegi supplied the creative and musical side, while Mr. Kaegi acted as financier and manager. They testified that they entered into a written understanding whereby Mr. Kaegi paid all expenses and was to recoup such expenses from revenues, with profits thereafter being distributed 75% to Ms. Kaegi and 25% to Mr. Kaegi. The written agreement was not produced at trial.
+[4] Mr. Kaegi proceeded to research the music industry. He contacted Socan, studios and other artists. He was left with the impression that making it in the music industry in Canada was a long process. He estimated 10 to 20 years to break into it. In 1997, the Kaegis produced their first compact disc (CD), consisting of songs written and performed by Ms. Kaegi. A second CD was produced in 1999. The Kaegis relied on the same promoter for these first two CDs, an organization known as Hillcrest. Hillcrest would send songs to radio stations throughout North America and Europe to get as much exposure or air time as possible. The Kaegis changed promoters after the second CD and moved to an organization named Comstar.
+[5] Mr. Kaegi’s role was to provide the funds for the venture and to manage the business side of dealing with promoters, studios, radio stations, creating a website, design, etc., while Ms. Kaegi composed and performed.
+[6] In 2001, there were two significant events: Canada Revenue Agency audited Mr. Kaegi, and the Kaegis suffered through a house fire, which destroyed a lot of their work. The Canada Revenue Agency determined that Mr. Kaegi was in the start-up phase of a business in 1998 and 1999 and allowed the business losses he claimed.
+[7] Mr. Kaegi reported the following for 1997 to 2005:
+Revenue
+Expenses
+Claimed Losses
+1997
+$ Nil
+$26,286
+$ 26,286
+1998
+Nil
+$23,272
+$ 23,272
+1999
+Nil
+$30,457
+$ 30,457
+2000
+Nil
+$22,264
+$ 22,264
+2001
+Nil
+$ 8,109
+$ 8,109
+2002
+Nil
+$10,533
+$ 10,533
+2003
+Nil
+$30,793
+$ 30,793
+2004
+Nil
+$29,138
+$ 29,138
+2005
+$ 597
+$23,569
+$ 22,972
+Total claimed losses for nine years
+$203,824
+[8] Given the lack of royalties and sales on the first two CDs, and the losses from the fire, the Kaegis determined to try a new approach to their musical project. As Mr. Kaegi put it - they had plateaued. They decided to move from more traditional country and western music to historical folk music, by creating songs about ships and shipwrecks of the Great Lakes region. They researched the subject and decided to create a CD of a historical folk nature, which was produced in 2004, entitled “Date with Destiny”. Mr. Kaegi also came up with the idea of distributing the CD as a package with small replica wooden boats.
+[9] Mr. Kaegi testified that his wife’s songs were getting good air time in North America and abroad, and provided play lists from various years to support this position. While there was no financial success, he considered the exposure a success of some sort.
+[10] Mr. Kaegi also provided a number of articles and reviews about Ms. Kaegi’s CDs, as well as her performances. To promote the new historical folk approach, the Kaegis contacted museums and marinas throughout the Great Lakes region. Mr. Kaegi created a promotional pamphlet. Ms. Kaegi gave performances. The Kaegis set up a booth three days a week at the Parry Sound dock. They contacted Sobeys, created posters and also constructed a web page. Mr. Kaegi was encouraged by positive responses, but this did not convert to sales or royalties. It was clear, however, from their testimony, that the exposure was key. They both believed the exposure would lead to either a contract with a major recording label, or with a renowned artist adopting one of Ms. Kaegi’s songs.
+[11] The Kaegis produced a fourth CD in 2006. Mr. Kaegi indicated his resources to put into the venture were not bottomless, and he believed he could only continue to fund the venture for another couple of years. The Kaegis continue to be hopeful.
+Analysis
+[12] The Respondent’s argument was that, notwithstanding that the Government allowed Mr. Kaegi to deduct losses for the first three years of the business, he is now many years into the activity and has shown no profit, and consequently, he cannot be engaged in a business: his activity can only be viewed as a personal endeavour. When asked to describe the personal nature of the endeavour, the Crown’s response was that it was for Mr. Kaegi to make his wife happy. Not only was there no evidence from Mr. Kaegi or his wife that the motivation to incur $200,000 in expenses over nine years was to make Ms. Kaegi happy, I find this proposition could lead to a most unreasonable bar to couples convincing the Government that they are carrying on a business. It is perhaps romantic to hold the belief, in these days of high divorce rates, that all husbands want to make their wives happy, and vice versa. But for the Government to deny a business existed on this basis, where there is overwhelming evidence of commerciality, is untenable. When pressed by Appellant’s counsel to identify the personal endeavour and non‑commercial activity, Mr. Varden, the Appeals Officer, could only point to the lack of revenue. With respect, I believe Mr. Varden has not fully appreciated the import of the Supreme Court of Canada’s reasoning in the case of Stewart v. R.[2] This was the only case relied on by the Crown.
+[13] The Supreme Court of Canada in Stewart stated:
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51 Equating “source of income” with an activity undertaken “in pursuit of profit” accords with the traditional common law definition of “business,” i.e., “anything which occupies the time and attention and labour of a man for the purpose of profit”: Smith, supra, at p. 258, Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240. As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.’s reference to “reasonable expectation of profit” in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as “indicia of commerciality” or “badges of trade”: Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer’s venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53 We emphasize that this “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. With respect, in our view, courts have erred in the past in applying the REOP test to activities, such as law practices and restaurants, where there exists no such personal element: see, for example, Landry, supra, Sirois, supra, Engler v. R. (1994), 94 D.T.C. 6280 (Fed. T.D.). Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income, by definition, exists, and there is no need to take the inquiry any further.
+[14] So to be clear, the first stage of an inquiry in a case of this nature is to determine whether the activity is of a commercial or personal nature. This is determined by indicia of commerciality. The success or failure of the business, determined by profit, is not the issue at this stage of the inquiry. The objective factors cited by the Supreme Court of Canada of profit and loss experience, taxpayer’s training, intended course of action and capability to show a profit arise only where there is an element of personal endeavour. The Supreme Court of Canada also went on to emphasize the distinction between the pursuit of profit test, applicable to activities with a personal element, and the specific deductions that the taxpayer might associate with the source. Review of specific deductions arises only when there exists a source of business income. This case does not deal with this latter issue. Indeed, I was given no detailed information of the nature of the expenses.
+[15] In addressing the initial stage of the analysis, that is, whether there is any personal element which would require further examination of the pursuit of profit test, I am mindful of the nature of the activity at issue – the music industry. In this regard, it is helpful to consider comments of former Chief Justice Bowman in a number of cases, commencing with Donyina v. Canada:[3]
+When to start a business and when to abandon it are business decisions in which neither the taxing authorities nor the court should intervene (Nichol). Nonetheless if losses go on being incurred year after year for an inordinate length of time sooner or later one has to apply what I shall call the "Enough is enough" principle and decide that what might have been a viable business has, with the effluxion of time, became hopeless and the best thing to do with it is to give it a decent burial. Nonetheless, a businessman's judgment to maintain a business must be treated with great respect.
+[16] Also, in the case of Tramble v. R.,[4] former Chief Justice Bowman stated, commenting on his statement in Donyina:
+6 The statement is probably true enough, as far as it goes, as a practical guideline – certainly I did not intend it to be a principle of law – but it has to be applied with some care and there must be taken into account the nature of the business with which one is dealing. Artistic endeavour is something that may require a lifetime before the artist is recognized. We can all think of artists and composers who died penniless only to have their work recognized by later generations long after their death.
+[17] Also, in the case of Bodanis v. R.,[5] the former Chief Justice Bowman commented:
+14 …Cases involving musicians are particularly difficult for a couple of reasons. For one thing there is always the possibility that there is a personal element by the very nature of artistic endeavour. This, as has been observed above, is not fatal. The fact that one derives enjoyment from one’s work does not detract from the work being a business. Nonetheless the possibility that the activity is predominantly a personal hobby is something of which one must be aware and it adds to the difficulties in deciding this type of case. Second, the music business is, as I mentioned in Leblanc, going through a difficult time in Canada. For every performer, musician and composer who makes vast amounts of money there are many who can barely make a living or who must look to other forms of work to sustain their musical endeavours. I think this court should be very careful about dismissing appeals of musicians who are down on their luck or suffering from the current problems in the music industry.
+[18] With that brief review of case law, I turn now to consider Mr. Kaegi’s position. It was clear from both his and his wife’s evidence that they were partners in this venture. They claim to have had a written agreement since 1997, destroyed by the house fire in 2001. They formally registered their partnership in 2004. Mr. Kaegi and Ms. Kaegi were in the activity together – she was the creative, artistic side and he was the financial and management side. There were not two separate activities: it was all one. That activity was the creation, production and distribution of Ms. Kaegi’s songs with a view to obtain royalties, sell CDs, sign a deal with a major recording studio or sell a song to a major recording star. From Mr. Kaegi’s testimony, and from a review of their track record to date, significant profits seemed unlikely from the sale of CDs, some profits might accrue from royalties, but the treasure at the end of the rainbow was either signing a deal or attracting a star to sing one of Ms. Kaegi’s songs.
+[19] I inquired of the parties if my finding that there was a partnership impacted on their arguments. Specifically, could one partner claim all of the losses. Neither party was prepared to argue this issue. I later asked for written submissions on this point, which I will address at the end of these reasons.
+[20] Was there a personal element to Mr. Kaegi’s activity, or were there sufficient indices of commerciality to make it unnecessary to delve into the pursuit of profit factors? I am satisfied there was only a commercial aspect to Mr. Kaegi’s activities and no element of personal endeavour. I have already commented on the suggestion that making his wife happy was the personal element – that is simply a non-starter. There were no other personal elements identified by the Crown. I weigh that against the following indices of commerciality:
+· the actual production of four CDs from 1998 to 2006 with all songs created by Ms. Kaegi;
+· releasing of songs for air time to radio stations in North America and abroad;
+· preparing promotional material for performances and CDs;
+· advertising;
+· contacting record companies and promoters;
+· creating a web page;
+· approaching museums and historical groups regarding the CD,“A Date with Destiny”;
+· performances at Cottage Life and Home shows and other festivals;
+· in 2005, manning a booth at Parry Sound dock three days a week promoting the CD and sale of wooden boats;
+· the application to the Ontario Arts Council for grants; and
+· submission to the Northern Ontario Music and Film Awards Program.
+[21] I wish to comment on the dilemma the Government has to face in determining whether artists are indeed in business. The Government concluded in its first audit of Mr. Kaegi that he was in business in the early years of his endeavours, but in a start-up phase. As more years went by, without any revenue, the Government’s position changed. Too much time elapsed to consider the endeavours to still be in the start-up phase of the business. Thus, concludes the Government, it can now only be seen as some personal endeavour. I reject their “enough is enough” approach in this case for two reasons. First, as was clear from comments of Chief Justice Bowman cited earlier, the musician trying to get a break in the music industry is caught in a different timeframe. Mr. Kaegi acknowledged that, from his research, it would not be unusual for an artist to take 10 to 20 years to get established. He and Ms. Kaegi are only now in that time period and Mr. Kaegi testified he is only prepared to support this activity for a couple of more years. This is his business decision to make, and in the domain of the music industry it does not seem to be an unreasonable one.
+[22] The second reason I find the Kaegis have not yet run afoul of the “enough is enough” principle is because I believe that they have tried shifting gears in 2002 to attempt to capture a different market – the historical song market. In the years in question, they were still in the early stages of marketing that new and novel approach. This could be viewed as a start-up of a new musical venture, and could very much be considered to still be in the start-up phase, in line with Canada Revenue Agency’s earlier audit.
+[23] For these reasons, I conclude Mr. Kaegi did have a business that constituted a source of income.
+[24] The Minister assessed Mr. Kaegi and framed the issue in such a way as to preclude any inquiry into the nature of the expenses that created the losses. The Minister simply asks – is the Appellant entitled to deduct the claimed losses on the basis the Appellant had a business? I find the Appellant had a business. He is entitled to deduct the losses. The Minister’s counsel suggested at the outset that should I find there was a business it was open to the Minister to reassess invoking section 67 and paragraph 18(1)(h). With respect, the Minister appears to have pleaded himself out of that option. The Minister did not frame the issue as to whether or not there was a business, and in the alternative if there was, whether the expenses were deductible. I have answered affirmatively the Minister’s question whether Mr. Kaegi is entitled to deduct the losses. That should be the end to the years in issue.
+[25] Having reached this conclusion, I was troubled by the fact the Canada Revenue Agency had not addressed the issue of whether Mr. and Ms. Kaegi operated as a partnership. Mr. Kaegi reported his income as a proprietor and it was on this basis the Canada Revenue Agency determined he was not carrying on business (i.e., did not have a source of income). Having now heard Mr. and Ms. Kaegi’s evidence, I have no difficulty concluding there was a business, and further concluding that the business was carried on in partnership. I therefore asked the parties to provide written submissions as to how a finding of partnership might impact on the determination of Mr. Kaegi’s losses. I need go no further than the Respondent’s submissions, which stated it was not open to me to decide the case on the basis of a partnership, and in any event, there was not sufficient evidence to support such a finding. The Crown submitted that in using the term partnership I must have meant “jointly, in friendly association, a joint venture, or pursuing the same objective”. That is not what I meant.
+[26] This is an informal case. Having taken the horse to water, I am not going to flog it to make it drink. If the Crown’s position remains that the case is to be determined solely on the basis of whether Mr. Kaegi had a source of income, a business, I am prepared to decide on that basis. The appeal is allowed and the matter is referred back to the Minister for reassessment on the basis Mr. Kaegi is entitled to his claimed business losses for 2003, 2004 and 2005 of $30,793, $29,138 and $22,972, respectively, as well as costs in the amount of $500.
+Signed at Ottawa, Canada, this 7th day of October, 2008.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2008 TCC 566
+COURT FILE NO.: 2007-4500(IT)I
+STYLE OF CAUSE: STEPHEN KAEGI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: October 7, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Peter Aprile
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Peter Aprile
+Firm: Fitzsimmons & Company
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. 1 (5th Supp.), as amended.
+[2] 2002 SCC 46.
+[3] [2001] 3 C.T.C. 2741.
+[4] [2001] 4 C.T.C. 2160.
+[5] [2002] 3 C.T.C. 2064.

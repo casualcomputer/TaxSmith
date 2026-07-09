@@ -1,0 +1,174 @@
+Title: Spectrol Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29993/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-390-29993-spectrol-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-07-22
+
+# Spectrol Inc. c. La Reine
+
+- Citation: 2010 CCI 390
+- Decision date: 2010-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7998, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spectrol Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-07-22
+Référence neutre
+2010 CCI 390
+Numéro de dossier
+2010-216(IT)APP
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-216(IT)APP
+ENTRE :
+SPECTROL INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 29 juin 2010 à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de la requérante :
+M. Patrick Murphy
+Avocats de l’intimée :
+Me Ernesto Caceres
+Me Carol Calabrese
+____________________________________________________________________
+ORDONNANCE
+La demande présentée par la requérante en vue d’obtenir une prorogation du délai pour signifier un avis d’opposition aux cotisations établies à l’égard de la requérante pour les années d’imposition 2003 et 2004 est accueillie, sans dépens, et l’avis d’opposition est réputé signifié à la date de la présente ordonnance.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour de juillet 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour d’octobre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 390
+Date : 20100722
+Dossier : 2010-216(IT)APP
+ENTRE :
+SPECTROL INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] La requérante a déposé un document à la Cour le 16 avril 2009 dans lequel, bien que le document ait été désigné comme un avis d’appel, il était indiqué que la requérante demandait une prorogation du délai pour signifier un avis d’opposition aux cotisations établies à l’égard de la requérante pour les années d’imposition 2003 et 2004. La requérante a ensuite déposé à la Cour, le 18 janvier 2010, un bref document présenté comme une demande de prorogation du délai pour interjeter appel.
+[2] Une audience a été tenue afin de déterminer si l’appel porté devant la Cour par la requérante pouvait suivre son cours. L’intimée s’est opposée à l’appel de la requérante en invoquant l’argument selon lequel la requérante n’avait pas signifié un avis d’opposition aux cotisations établies à son égard pour les années d’imposition 2003 et 2004. Toutefois, il me semble que l’interprétation correcte de la demande faite par la requérante réside dans le fait qu’il s’agissait d’une demande de prorogation du délai pour signifier un avis d’opposition et non d’une demande de prorogation du délai pour interjeter appel devant la Cour. Aux paragraphes (B) et (D) du document déposé le 16 avril 2009 (lequel document a été incorporé par renvoi dans le document déposé le 18 janvier 2010), la requérante demande une prorogation du délai pour signifier un avis d’opposition et non une prorogation du délai pour interjeter appel.
+[3] La requérante avait produit ses déclarations de revenu pour 2003 et 2004 dans les délais prescrits. Il semble qu’étant donné que la requérante avait demandé une déduction relativement à des activités de recherche scientifique et de développement expérimental (la « RS&DE »), la cotisation pour l’année 2003 n’avait pas été établie avant le 26 mars 2008 et celle pour 2004 n’avait pas été établie avant le 7 mai 2008.
+[4] La requérante a produit une lettre de l’Agence du revenu du Canada (l’« ARC ») datée du 16 septembre 2008 dans laquelle il était mentionné que des avis de nouvelle cotisation seraient envoyés à la requérante sous pli séparé. La requérante a produit cette lettre pour mettre en doute le fait que les cotisations initiales avaient été établies le 26 mars 2008 et le 7 mai 2008. Toutefois, la lettre datée du 16 septembre 2008 concernait l’examen des déclarations de revenu de sociétés de l’Ontario et non les déclarations de revenu fédérales. Les nouvelles cotisations mentionnées dans la lettre avaient été établies en vertu des lois de l’Ontario et non en vertu de la Loi de l’impôt sur le revenu (Canada) (la « Loi »).
+[5] Le président de la requérante a déclaré que cette dernière n’avait reçu l’avis de cotisation pour l’année 2003 qu’à la suite d’une demande faite en 2009. Il semble aussi évident que la requérante n’avait pas reçu l’avis de cotisation pour 2004 avant le dépôt du document à la Cour le 16 avril 2009. J’accepte le témoignage de la requérante et je conclus qu’elle n’avait pas reçu l’avis de cotisation pour 2003 avant le mois d’avril 2009. Peu de temps après qu’elle a reçu une copie de l’avis de cotisation pour 2003 au mois d’avril 2009, la requérante a produit le document qui est déclaré comme étant l’avis d’appel. M. Ray Kapoor, le président de la requérante, a déclaré qu’au moment où il avait interjeté l’appel devant la Cour, il avait aussi envoyé un document à l’ARC.
+[6] M. Sadruddin Suleman, un agent des litiges à l’ARC, a aussi témoigné. Il a déclaré qu’il n’y avait aucun document qui indiquait que l’ARC avait reçu un avis d’opposition ou une demande de prorogation du délai pour signifier un avis d’opposition relativement à la cotisation établie pour 2003 ou à la cotisation établie pour 2004, autre que les avis d’opposition aux cotisations établies pour 2003 et 2004 reçus le 5 mai 2010 – plus de deux ans après l’établissement de la cotisation pour 2003 et presque deux ans après l’établissement de la cotisation pour 2004.
+[7] Lors du contre‑interrogatoire, M. Ray Kapoor a reconnu qu’il n’avait pas personnellement envoyé les documents à l’ARC. Il est toutefois évident que M. Ray Kapoor et le comptable de la requérante étaient fortement préoccupés par les demandes de déduction relatives à la RS&DE de la requérante pour les années 2003 et 2004, et par le temps que prenait l’ARC pour établir les cotisations de la requérante pour les années d’imposition 2003 et 2004. La requérante avait reçu une lettre de l’ARC datée du 30 mai 2007 dans laquelle il lui était proposé divers rajustements aux demandes de déduction relatives à la RS&DE. Le 31 juillet 2007, le comptable de la requérante a envoyé un courriel à Elizabeth Sahsuvar de l’ARC dans lequel il mentionnait que la requérante avait répondu à la proposition que l’ARC avait faite à la requérante, plusieurs semaines plus tôt. Dans ce courriel, il faisait aussi part à Elizabeth Sahsuvar de ses préoccupations au sujet de l’examen des demandes de déduction relatives à la RS&DE. Il semble évident que la requérante était fortement préoccupée par les demandes de déduction relatives à la RS&DE et qu’elle voulait protéger son droit d’appel. Il me semble que, selon toute vraisemblance, la requérante avait envoyé à l’ARC en avril 2009 le même document qui avait été déposé à la Cour à ce moment‑là, et je conclus que la requérante avait bien envoyé le même document à l’ARC en avril 2009.
+[8] Il semble que la requérante avait déjà fait l’objet d’une vérification au sujet de demandes de déduction relatives à la RS&DE. Il n’est pas évident que les questions relatives aux vérifications antérieures avaient été réglées au stade de la vérification ou seulement après la signification d’un avis d’opposition. Le comptable de la requérante a reconnu qu’à la réception de la copie de l’avis de cotisation pour 2003 en avril 2009, il savait, aussi bien que la requérante, que le délai pour signifier un avis d’opposition avait expiré et qu’il leur fallait obtenir une prorogation du délai pour signifier un avis d’opposition. En conséquence, un document a été rédigé et déposé à la Cour le 16 avril 2009, et il avait été aussi envoyé à l’ARC.
+[9] Le document qui a été déposé à la Cour le 16 avril 2009 est clairement mentionné comme étant un avis d’appel à la Cour. La moitié supérieure de la première page est rédigée de la façon suivante :
+[traduction]
+FORMULE 21(1)a)
+AVIS D’APPEL – PROCÉDURE GÉNÉRALE
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+SPECTROL INC.
+350, chemin Brunel
+Mississauga (Ontario) L4Z 2C2
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+AVIS D’APPEL
+[10] Toutefois, il est mentionné aux paragraphes (A) et (B) du document les renseignements suivants :
+[traduction]
+(A) Moi, SPECTROL INC., située au 350, chemin Brunel, Mississauga (Ontario)
+(B) Vous demande par la présente une PROROGATION du délai pour signifier un avis d’opposition aux cotisations établies à mon égard pour les années d’imposition 2003 et 2004, et dans lesquelles me sont refusées en partie les déductions demandées relativement aux activités de recherche scientifique et de développement expérimentalen raison du caractère insuffisant des documents fournis.
+[Souligné dans l’original.]
+[11] Comme le document avait été présenté et établi comme un avis d’appel présenté à la Cour, l’ARC aurait facilement pu ne pas l’accepter en tant qu’une demande de prorogation du délai pour signifier un avis d’opposition et, partant, l’ARC aurait pu ne pas l’enregistrer en tant que tel dans ses dossiers. Tout ce que l’agent des litiges de l’ARC a pu confirmer, c’est qu’il n’y avait aucun document dans les dossiers de l’ARC pouvant confirmer qu’une demande de prorogation du délai pour signifier un avis d’opposition avait été reçue. Si la demande avait été reçue, mais qu’elle n’avait pas été enregistrée en tant que telle, alors elle ne figurerait pas dans les dossiers de l’ARC. Mais cela n’aurait rien changé au fait que la demande avait été reçue.
+[12] La procédure à suivre lorsqu’un contribuable veut s’opposer à une cotisation (ou à une nouvelle cotisation) est prévue par la Loi. L’article 165(1) de la Loi prévoit ce qui suit :
+165 (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l’avis de cotisation.
+[13] En l’espèce, étant donné que la requérante est une société, le délai pour signifier au ministre un avis d’opposition aux cotisations établies pour 2003 et 2004 est de 90 jours suivant la date de mise à la poste des avis de cotisation. Comme il est indiqué plus haut, lorsque la requérante a reçu la copie de l’avis de cotisation pour 2003 au mois d’avril 2009, elle savait qu’elle ne pouvait pas signifier un avis d’opposition à ce moment‑là, étant donné que le délai de 90 jours suivant la date de l’établissement de la cotisation (laquelle date serait, en l’absence de toute preuve contraire, celle de la mise à la poste de l’avis de cotisation) était expiré. Même si la requérante n’a pas reçu l’avis de cotisation initial, il semble que cet avis avait été mis à la poste en 2008. La date de mise à la poste (et non la date de réception) détermine le délai dans lequel un avis d’opposition peut être signifié.
+[14] L’article 166.1 de la Loi indique la procédure à suivre pour un contribuable qui demande une prorogation du délai pour signifier un avis d’opposition. Voici le libellé de l’article 166.1 :
+166.1 (1) Le contribuable qui n’a pas signifié d’avis d’opposition à une cotisation en application de l’article 165 ni présenté de requête en application du paragraphe 245(6) dans le délai imparti peut demander au ministre de proroger le délai pour signifier l’avis ou présenter la requête.
+(2) La demande doit indiquer les raisons pour lesquelles l’avis d’opposition n’a pas été signifié ou la requête, présentée dans le délai par ailleurs imparti.
+(3) La demande, accompagnée d’un exemplaire de l’avis d’opposition ou de la requête, est envoyée au chef des Appels d’un bureau de district ou d’un centre fiscal de l'Agence du revenu du Canada soit par personne, soit par courrier.
+(4) Le ministre peut faire droit à la demande malgré l’inobservation des modalités prévues au paragraphe (3).
+(5) Sur réception de la demande, le ministre, avec diligence, l’examine et y fait droit ou la rejette. Dès lors, il avise le contribuable de sa décision par écrit.
+(6) S’il est fait droit à la demande, l’avis d’opposition est réputé signifié ou la requête, présentée le jour de la mise à la poste de la décision du ministre au contribuable.
+(7) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande est présentée dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[15] La procédure à suivre pour demander une prorogation du délai pour signifier un avis d’opposition consiste à présenter une telle demande au ministre, pas à la Cour. Si le ministre rejette la demande ou si le délai de 90 jours expire sans que le ministre ait pris une décision, alors (et seulement alors) le contribuable peut demander à la Cour de faire droit à la demande de prorogation du délai pour signifier un avis d’opposition.
+[16] L’article 166.2 de la Loi prévoit ce qui suit :
+166.2 (1) Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre,
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+(2) La demande se fait par dépôt au greffe de la Cour canadienne de l’impôt, conformément à la Loi sur la Cour canadienne de l’impôt, de trois exemplaires des documents visés au paragraphe 166.1(3) et de trois exemplaires de l’avis visé au paragraphe 166.1(5).
+(3) La Cour canadienne de l’impôt envoie une copie de la demande au bureau du commissaire du revenu.
+(4) La Cour canadienne de l’impôt peut rejeter la demande ou y faire droit. Dans ce dernier cas, elle peut imposer les conditions qu’elle estime justes ou ordonner que l’avis d’opposition soit réputé signifié à la date de l’ordonnance.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[17] Nul appel ne peut être interjeté auprès de la Cour à moins qu’un avis d’opposition ait d’abord été signifié [1] . Le paragraphe 169(1) de la Loi est ainsi libellé :
+169 (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[18] En l’espèce, lorsque la requérante a déposé le document à la Cour le 16 avril 2009, il n’y avait pas de décision du ministre relativement à une demande de prorogation du délai pour signifier un avis d’opposition (le ministre ne reconnaît même pas avoir reçu cette demande) et le délai de 90 jours suivant la date où la requérante avait envoyé le document à l’ARC n’avait pas encore expiré, étant donné que la requérante a affirmé qu’elle avait envoyé le document à la Cour et à l’ARC au même moment. Par conséquent, le document qui a été déposé le 16 avril 2009 ne constitue pas une demande valide présentée à la Cour aux termes de l’article 166.2 de la Loi.
+[19] Toutefois, la requérante a déposé un autre document à la Cour le 18 janvier 2010, lequel aurait été déposé plus de 90 jours suivant l’envoi du document à l’ARC en avril 2009. Bien qu’il était mentionné dans ce document que la requérante demandait l’obtention d’une ordonnance de prorogation du délai pour interjeter appel contre les cotisations établies pour 2003 et 2004, il avait été intégré par renvoi, dans ce document, le document qui avait été déposé le 20 avril 2009. Il est précisé dans le document déposé le 20 avril 2009 qu’il s’agit d’une demande de prorogation du délai pour déposer un avis d’opposition. Il me semble que l’interprétation correcte à accorder à ce document est qu’il constitue une demande de prorogation du délai pour signifier un avis d’opposition. Au paragraphe (B), au début du document et au paragraphe (D), vers la fin du document, la requérante parle de la demande de prorogation du délai pour déposer un avis d’opposition.
+[20] Pour que la Cour puisse faire droit à la demande de la requérante visant la prorogation du délai pour signifier un avis d’opposition, les conditions du paragraphe 166.2(5) de la Loi doivent être remplies. Selon la première condition, la demande de la requérante présentée en application du paragraphe 166.1(1) de la Loi (la demande présentée au ministre) doit avoir été présentée dans l’année suivant l’expiration du délai imparti pour signifier un avis d’opposition. Il a été satisfait à cette condition puisque la demande a été envoyée à l’ARC en avril 2009 et que le délai d’un an mentionné ci‑dessus ne pouvait pas expirer avant juin 2009 (ce serait 90 jours plus une année après la date du 26 mars 2008 – la date de l’établissement de la cotisation pour 2003). Il est évident que la raison pour laquelle la requérante n’a pas signifié un avis d’opposition dans les 90 jours suivant la date du 26 mars 2008 est que la requérante n’avait par reçu l’avis de cotisation pour 2003 avant avril 2009.
+[21] Il est évident que la requérante avait véritablement l’intention d’interjeter appel. La requérante avait répondu à la lettre dans laquelle des propositions lui étaient faites et elle avait exprimé ses préoccupations au sujet de l’examen des demandes de déduction relatives à la RS&DE avant l’établissement des cotisations. Il semble évident aussi que, si la requérante avait reçu les cotisations établies pour 2003 et 2004 lorsqu’elles avaient été envoyées en 2008, elle aurait déposé un avis d’opposition à ce moment‑là. La requérante n’a reçu une copie de l’avis de cotisation établi pour 2003 que lorsqu’elle en a fait la demande en 2009. Très peu de temps après avoir reçu la copie de l’avis de cotisation pour 2003 (laquelle copie avait été envoyée le 2 avril 2009), la requérante a envoyé à la Cour et à l’ARC une demande de prorogation du délai pour signifier un avis d’opposition. Par conséquent, cette demande présentée à l’ARC aurait été envoyée le 16 avril 2009 ou vers cette date, ou dans les deux semaines suivant la réception de la copie de l’avis de cotisation pour 2003.
+[22] Il me semble aussi qu’il est juste et équitable dans les circonstances de faire droit à la demande.
+[23] En conséquence, la demande présentée par la requérante en vue d’obtenir une prorogation du délai pour signifier un avis d’opposition aux cotisations établies à l’égard de la requérante pour les années d’imposition 2003 et 2004 est accueillie, sans dépens, et l’avis d’opposition est réputé signifié à la date de la présente ordonnance.
+[24] La requérante avait aussi formulé certaines autres demandes au paragraphe (D) du document daté du 16 avril 2009. Ces demandes confirment que la requérante cherchait à obtenir de l’ARC un examen de l’affaire et, partant, qu’elle demandait une prorogation du délai pour signifier un avis d’opposition. Toutefois, comme ces demandes n’ont pas été soulevées au cours de l’audience, je ne me prononcerai pas là‑dessus.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour de juillet 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 14e jour d’octobre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 390
+NO DU DOSSIER DE LA COUR : 2010-216(IT)APP
+INTITULÉ : SPECTROL INC.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 29 juin 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 22 juillet 2010
+COMPARUTIONS :
+Représentant de la requérante :
+M. Patrick Murphy
+Avocats de l’intimée :
+Me Ernesto Caceres
+Me Carol Calabrese
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan,
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bormann c. La Reine, 2006 DTC 6147 (CAF)

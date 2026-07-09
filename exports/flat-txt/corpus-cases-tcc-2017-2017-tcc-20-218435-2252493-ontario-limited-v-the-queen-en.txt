@@ -1,0 +1,231 @@
+Title: 2252493 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218435/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-20-218435-2252493-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-01-31
+
+# 2252493 Ontario Limited v. The Queen
+
+- Citation: 2017 TCC 20
+- Decision date: 2017-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2966, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2252493 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-01-31
+Neutral citation
+2017 TCC 20
+File numbers
+2014-3841(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-3841(GST)G
+BETWEEN:
+2252493 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 29, 2016, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Louise R. Summerhill
+Meghan A. Cowan
+Counsel for the Respondent:
+Laurent Bartleman
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal against the reassessment dated February 15, 2013 for the reporting period August 5, 2012 to October 31, 2012 is dismissed on the basis that the Appellant was required to collect harmonized sales tax in respect of its sale of real property, municipally known as 840 Yonge Street, Toronto, Ontario, under the provisions of section 221 of Division II of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended. Costs are awarded to the Respondent in accordance with the applicable tariff subject to the Court’s receipt of representations in writing by either party within 30 days of the date of this judgment.
+Signed at Ottawa, Canada, this 31st day of January 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017TCC20
+Date: 20170131
+Docket: 2014-3841(GST)G
+BETWEEN:
+2252493 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction and GST on Real Property
+[1] Under the Excise Tax Act, R.S.C. 1985, c E‑15, as amended (the “ETA”), a person who makes a taxable supply shall collect goods and services tax, now referred to in Ontario as harmonized sales tax (“HST”). This requirement is contained in the general charging provision under subsection 221(1). There are exceptions in respect of real property, whereby the “supplier” of real property need not collect and remit HST under certain conditions. A critical condition to the exception requires the “recipient” of the supply to be a registrant under paragraph 221(2)(b) of the ETA. When that and other conditions (not relevant to this appeal) are met, the recipient of the supply of the real property assesses itself for HST and pays the Receiver General directly.
+[2] In this appeal, the Appellant, 2252493 Ontario Limited, the supplier (vendor) of the commercial real property, states that a certain party was both a recipient of the supply and a registrant under the ETA. The Minister of National Revenue (“Minister”) states the recipient was a different party and a non‑registrant. Since, the registrant status of either party’s ascribed recipient is not in dispute, the identity of the recipient of the supply is the sole issue to be determined by this Court. If the non-registrant recipient is who the Minister says, then, the sum of $416,881.83 (the “HST Amount”) was payable by the Appellant on the sale of the commercial real property and the reassessment stands.
+II. Facts
+a) Witnesses
+[3] Testimony before the Court was provided for the Appellant through three witnesses: Mr. Corazon Tan (“Mr. Tan”), a principal shareholder, officer and director of the Appellant; Mr. Yee, a solicitor who acted for the Appellant on the sale of the real property located at 840 Yonge Street in Toronto (the “Property”); and Mr. Ambrose, an accountant who acted for the principals of both of the companies asserted by the Appellant to have been the registrant-recipients. For the Respondent, Ms. Tsioubris, a Canada Revenue Agency (“CRA”) officer testified. Cumulatively, from the testimony of these witnesses, mainly concerning the legal documentation memorializing the sale and ownership of the Property, the factual basis for determining the correct identity of the recipient emerges.
+b) A sale of Property
+[4] In the late summer of 2011, Mr. Tan was approached by a then unknown real estate agent regarding the sale of the Property to a then unknown buyer. An agreement of purchase and sale (“APS”) was concluded on October 29, 2011. The purchase price was the sum of $3,200,000.00. It was payable in full on the closing date of August 29, 2012. The APS contained the usual terms printed on or inserted within the Ontario Real Estate Association standard commercial form of APS. Section 7 provided:
+7. GST/HST: If the sale of the property (Real Property as described above) is subject to Goods and Services Tax (GST) or Harmonized Sales Tax (HST), then such tax shall be in addition to the Purchase Price. The Seller will not collect GST or HST if the Buyer provides to the Seller a warranty that the Buyer is registered under the Excise Tax Act (“ETA”), together with a copy of the Buyer’s ETA registration, a warranty that the Buyer shall self‑assess and remit the GST or HST payable and file the prescribed form and shall indemnify the Seller in respect of any GST or HST payable. The foregoing warranties shall not merge but shall survive the completion of the transaction. If the sale of the property is not subject to GST or HST, Seller agrees to certify on or before closing, that the transaction is not subject to GST or HST. Any HST on chattels, if applicable, is not included in the purchase price.
+The APS described the “Buyer” as Mayling Holding Inc. (“Mayling”). Other than Mayling and the Appellant, no other party executed or was referenced in the APS or in a related written amendment which waived certain conditions concerning due diligence.
+c) The Closing and Documentation
+[5] On the day fixed for closing, August 29, 2012 (the “closing date”), the parties’ legal documents were exchanged. The documents were prepared in some cases by Mr. Yee and, in others, by Mr. Romanelli of Bratty & Co., solicitors for Mayling and the other related “purchasing” parties. Among those documents, Mayling executed and delivered a document entitled a “Direction Re Title” addressed to the Appellant and Mr. Yee’s firm. The document was dated and executed by the president of Mayling. It defined Mayling Holding Inc. as Purchaser of the Property and directed that “the deed or transfer” be engrossed as follows:
+840 YONGE STREET HOLDINGS INC.
+Address for service:
+c/o 7501 Keele Street
+Suite 200
+Vaughan, ON L4K 1Y2
+Attention: Anthony Romanelli
+[6] The following operative closing documents were also executed and delivered by the Appellant:
+i) Direction for closing funds, executed August 27, 2012 by the Appellant;
+ii) Warranty regarding the Property, executed on August 27, 2012 by Mr. Tan for the Appellant;
+iii) Bill of Sale for the Property, executed August 27, 2012 by Mr. Tan for the Appellant;
+iv) Declaration of Possession of the Property, executed August 27, 2012 by Mr. Tan in his capacity as president of the Appellant;
+v) Statutory Declaration, executed August 27, 2012 by Mr. Tan;
+vi) Vendor’s Assignment of Leases and Tenancies granted by the Appellant in favour of 840 Yonge Street Inc. (“840 Holdings”), executed August 27, 2012 by Mr. Tan as president;
+vii) Notice and Direction to Tenants (Sale Transaction), executed August 27, 2012 by Mr. Tan as president of the Appellant describing 840 Holdings as the “Purchaser”;
+viii) Statutory Declaration sworn by Mr. Tan, August 27, 2012;
+ix) Two distinct Tenant Acknowledgments providing for the warranties of two commercial tenants concerning rental terms and confirming receipt of a notice of the sale of the Property and new addressee and payee for rents.
+[7] Aside from the very last described Tenant Acknowledgments, all documents defined or identified 840 Holdings as the purchaser.
+[8] In addition to the direction re: title, the following closing documents were delivered by Mayling and/or 840 Holdings:
+i) Statutory Declaration regarding HST, sworn the 28th day of August, 2012 by Anthony Romanelli as an authorized signing officer of 840 Holdings;
+ii) Declaration and Indemnity concerning self-assessment, remittance and indemnification for loss regarding HST arising from the sale of the Property executed by Mr. Romanelli as an authorized signing officer of 840 Holdings and dated as of the 28th day of August, 2012.
+[9] With respect to the two Tenant Acknowledgements, each was addressed to “Mayling or its assigns (the “Purchaser”)”, as purchaser. Each Tenant Acknowledgment confirmed the status of the underlying lease, rental payments, deposits and good standing status.
+[10] The Appellant alone executed the above-noted assignment of Leases and Tenancies addressed to the Appellant as “assignee” and referencing Mayling as the “Purchaser” assuming the existing tenants. An excerpt from the document’s recitals provided as follows:
+WHEREAS by Agreement of Purchase and Sale dated October 29, 2011, as amended from time to time, (hereinafter called the “Purchase Agreement”) the Assignor, as vendor agreed to sell to Mayling Holdings Inc. (the “Purchaser”) as purchaser, and the Purchaser agreed to purchase from the Assignor those lands located in the City of Toronto, in the Province of Ontario, and legally described as Part of Lot 4 and 5, Plan 355, Yorkville as in CT906968, Toronto and comprising PIN 21197‑0149 (LT) (hereinafter called the “Lands”);
+AND WHEREAS the Purchase Agreement provides that the Purchaser agrees to assume the existing tenants on the Lands;
+AND WHEREAS the Purchaser by way of Title Direction dated the 27th day of August, 2012, directed title to the Lands to the Assignee;
+[11] The transfer for the Property was registered on August 30, 2012 and provided the following registration particulars:
+Transferee: 840 Yonge Street Holdings Inc.
+[12] The Land Transfer Tax Affidavit was sworn by Mr. Romanelli, as the “Transferee – 840 YONGE STREET HOLDINGS INC.”, “(e) The President, Vice‑President, Manager, Secretary, Director, or Treasurer authorized to act for 840 YONGE STREET HOLDINGS INC. described in paragraph(s) (c) above.” Box (b) of the Land Transfer Tax Affidavit containing the words “A trustee named in the above‑described conveyance to whom the land is being conveyed” was not checked as applicable.
+[13] The Statement of Adjustments remained dated August 29, 2012 and reflected payment of the purchase price and adjustments for rent, but no collection of HST on the supply of the Property. Mr. Yee testified HST was not collected because he was of the opinion the Direction Re: Title made 840 Holdings the recipient. Further, a statutory declaration was provided containing 840 Holdings’s HST registration number and a HST Registry Search dated August 29, 2012 confirmed 840 Holdings’s registrant status. Accordingly, Mr. Yee concluded the self-assessing provisions of the APS applied to 840 Holdings. Therefore, it was legally required to self‑assess and remit the HST on the sale of the Property. More importantly the Appellant, his client, was not and did not. Peculiar is the fact that 840 Holdings’ HST registrant status was retroactively revoked, by its request, in January, 2013, effective August 23, 2012.
+[14] Although all documents were delivered and payments were tendered in time for registration on the closing date, August 29, 2012, testimony at trial confirmed that registration and release occurred on August 30, 2012. No closing documents, including the statement of adjustments, were amended to reflect a closing date other than August 29, 2012.
+d) Post‑closing Reassessment
+[15] After reviewing the documents during an audit and on the assumption that Mayling was the recipient of the Property and a non-registrant for HST purposes, the Appellant was reassessed by the Minister on February 15, 2013 for its reporting period August 5, 2012 to October 31, 2012.
+[16] After the reassessment, the following documentation was gathered and/or furnished by counsel or representatives of 840 Holdings and/or the asserted recipients to the Appellant:
+Document Title
+Date
+Summary Description of Contents
+Amended and Restated Co‑tenancy Agreement (“Co-Tenancy Agreement”) among:
+Bazis YYC Inc. (“Bazis YYC”);
+Plazacorp Holdings Limited (“Plazacorp”);
+840 Holdings;
+846 Yonge Street Holdings Ltd.
+“Made effective as of the 28th day of August, 2012”
+This restated agreement revises an “original” co-tenancy agreement and reflects the following terms:
+a) creates “Nominee” status for both 840 Holdings and another company 846 Yonge Street Holdings Inc. (“846 Yonge”);
+b) designates the beneficial ownership of the Property and other properties for Bazis YYC and Plazacorp (“members”);
+c) apportions the distribution of profits, assets and liability among the members;
+d) details the powers regarding the ongoing management of properties; and
+e) grants 846 Yonge’s responsibility as HST collector and remitter.
+Purchaser’s Statutory Declaration sworn by President of Bazis YYC and indemnity agreement executed by authorized offices of 840 Holdings and Bazis YYC re: Harmonized sales tax
+“Dated as of the 30th August, 2012”
+This standard document provides within its terms that:
+1. 840 Holdings is purchasing the Property as trustee on behalf of Bazis YYC;
+2. Bazis YYC is a HST registrant;
+3. HST is payable on the purchase and the “undersigned” “having paid or agreed to pay HST” are liable for HST;
+4. Both 840 Holdings and Bazis YYC indemnify the Appellant, as vendor.
+Statutory Declaration of Michael Gold, President of Bazis YYC
+August 30, 2012
+This standard declaration confirms Bazis YYC’s HST registrant status, GST number and confirms the use of the Property for commercial purposes and that “the corporation will file on or before the due date of the corporation’s HST return…, the tax return for the acquisition of real property as set out under subsections 221(2)…of the Act”
+GST/HST Registry Search Result
+for Bazis YYC
+October 20, 2012
+The search conducted October 20, 2012, reveals Bazis YYC was a HST registrant as of August 29, 2012
+GST/HST Registry Search Result for Plazacorp
+November 27, 2014
+The search conducted November 27, 2014 reveals Plazacorp was a HST registrant as of August 30, 2012
+[17] All of the Co-Tenancy Agreement, Purchaser’s Statutory Declaration and Indemnity re: HST, were challenged at the hearing by Respondent’s counsel as to their authenticity regarding dating and therefore for the truth of their contents as of that date. Mr. Yee, admitted in testimony that neither he nor the Appellant had any knowledge of these documents nor the existence or involvement of Bazis YYC or Plazacorp until after the Minister’s reassessment was issued.
+[18] Additionally, provincial ministry records were adduced into evidence regarding incorporation dates. 840 Holdings and Bazis YYC were incorporated after the APS was executed, but before the closing date. Plazacorp subsisted before the APS was executed.
+III. The Statutory Provisions
+[19] The applicable and relevant extracts from the ETA are as follows [underlining added for emphasis]:
+Collection of tax
+221(1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+Exception
+(2) A supplier (other than a prescribed supplier) who makes a taxable supply of real property by way of sale is not required to collect tax under Division II payable by the recipient in respect of the supply where
+. . .
+(b) the recipient is registered under Subdivision d and,
+…
+Self-assessment on acquisition of real property
+228(4) Where tax under Division II is payable by a person in respect of a supply of real property and the supplier is not required to collect the tax and is not deemed to have collected the tax,
+(a) where the person is a registrant and acquired the property for use or supply primarily in the course of commercial activities of the person, the person shall, on or before the day on or before which the person’s return for the reporting period in which the tax became payable is required to be filed, pay the tax to the Receiver General and report the tax in that return; and
+. . .
+subsection 123(1), definition of “recipient” and definition of “supply” provides:
+recipient of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration.
+…
+and lastly, section 133 speaks to the deemed timing of the supply:
+Agreement as supply
+133 For the purposes of this Part, where an agreement is entered into to provide property or a service,
+(a) the entering into of the agreement shall be deemed to be a supply of the property or service made at the time the agreement is entered into; and
+(b) the provision, if any, of property or a service under the agreement shall be deemed to be part of the supply referred to in paragraph (a) and not a separate supply.
+IV. Parties’ Legal Submissions
+a) Appellant’s submissions
+[20] Appellant’s counsel asserts that the recipient of the supply is not Mayling, but Bazis YYC and/or PLazacorp on the following basis: i) at the time of the closing of the sale of the Property, August 29, 2012 (the “closing date”), the Appellant was directed to put title in the name of 840 Holdings. ii) 840 Holdings was a GST/HST registrant at that time; iii) at a later date, and as a result of receiving a copy of the Co-tenancy Agreement, the Appellant was advised that 840 Holdings had acquired the Property in trust as a bare trustee, nominee or agent on the closing date for Bazis YYC and/or Plazacorp who were equal beneficial owners (“Beneficial Owners”) and/or principals; iv) the Beneficial Owners paid the consideration; and, v) the Beneficial Owners were GST/HST registrants as of the closing date and self‑assessed for HST arising from the sale and purchase of the Property.
+[21] Notwithstanding that Mayling was described as the purchaser within the APS, the Appellant submits that because the Beneficial Owners of the Property were the recipients of the supply and GST/HST registrants at the closing date, the Appellant was not required to collect GST/HST under subparagraph 221(1)(b) of the ETA. Although acknowledged by both parties as irrelevant to the reassessment, the Appellant also noted that the HST Amount has been self‑assessed and paid by the Beneficial Owners. As a result of the reassessment, the sale of the Property has been twice subject to HST. This represents a windfall for the Respondent.
+[22] To substantiate these assertions, Appellant’s counsel referenced the CRA’s various publications which state that “where a transaction is made by the trustee as an undisclosed agent, the beneficial owner, as principal, will be liable for the collection and remittance of the tax”. This statement is reflected in GST/HST Policy Statement P‑105, “Treatment of Bare Trusts Under the Excise Tax Act”, July 20, 1992. Similarly, the Appellant contends various other publications throughout the last two or more decades have indicated that where a bare trust exists, the beneficial owner has the liability and the responsibility to self‑assess and remit the HST: CRA Technical Information Bulletin B‑068, “Bare Trusts” (20 January 1993); CRA GST/HST Memorandum 8.1, “General Eligibility Rules” (May 2005), s. 69; David M. Sherman, “221(2) Obligation to Collect Tax – Exceptions” (2016), p. 221‑211, Thomson Reuters Canada Ltd. (Canada GST Service); CCRA and ICAA GST/HST Roundtable (May 2005), Question 2; CRA and ICAA GST Roundtable, December 2009, no. 4, p. 4; CRA GST Roundtable, April 2016, nos. 8‑9, p. 25‑26; and Blair Nixon & Vincent M. Bjorndahl, “GST and Business Trusts: Filling the Gaps” (1996) 44:3 Canadian Tax Journal at 742.
+[23] In short, the Appellant states that, given the unequivocal and longstanding CRA publications surrounding bare trust and agencies, the Respondent’s assertion that the party named as in the APS purchaser who, as in this case, never acquires an interest in land is inconsistent, inequitable and unsettles a long held administrative perspective of the CRA.
+[24] Authorities also support this administrative view. The Appellant referenced the following: Peragine v. R., 2012 TCC 348, which allocated a capital gain to a beneficial owner rather than the acquiring, title-holding bare trustee; De Mond v. R., [1999] 4 C.T.C. 2007, where losses from real property were allocated to the beneficial owner entitled to the profit rather than the acquiring, title-holding bare trustee; Cheema v. R., 2016 TCC 251 (under appeal), where the Court that determined that ultimate liability of a beneficial owner defeats a nominal legal interest of two joint purchasers and title-holders, in respect of a GST new housing rebate; Javaid v. R., 2015 TCC 94, where the Court held that a co-acquiring and title-holding guarantor party was a mere agent and, therefore the principal would satisfy the GST rebate conditions; and lastly, Samuel C. Young Professional Corp. v. R., [2007] G.S.T.C. 13, where the Court recognized the beneficial owner as the recipient of the supply and, accordingly, the acquiring and title-holding “agent” purchaser was not required to remit GST.
+b) Reply Submissions of Respondent
+[25] The Respondent asserts that plainly and simply, Mayling was, during the entire period from execution until, and at, the closing date, the party liable under the APS. As such, it was the recipient. The contention that 840 Holdings, Bazis YYC or Plazacorp were recipients is not legally possible; firstly, none of them were parties to the APS and none became liable under the APS. This is borne out in the Appellant’s own notice of appeal which never suggests any of these parties were the purchaser or party obligated under the APS.
+[26] Further, the documentation is clear. The APS obligates Mayling to self‑assess for and remit the HST. The APS contains a paramountcy clause over ancillary documents and confidentiality provisions as between the two parties. The APS was fully performed in accordance with its terms. The mere direction of title provided to the Appellant directing title to 840 Holdings is neither legally or factually an assignment of Mayling’s rights nor, more importantly, an assumption by 840 Holdings as a liable obligant of Mayling’s obligations. Such an assumption of liability required the written consent of both Mayling and the Appellant, the only parties to the APS, to specifically amend its terms. This did not occur.
+[27] The Respondent contends the any assertion that Bazis YYC was liable as a principal of an agency or beneficiary of a trust at the time the supply arose, the date of the APS, is more remote. The same is true of 840 Holdings ability to have been an agent or trustee at that time. The reason is simple. At the time of the APS’s execution, neither entity existed. The supply legally arose at that time by virtue of section 133 of the ETA. 840 Holdings and Bazis YYC were never liable under the APS, the post‑facto delivered trust agreement, statutory declaration and indemnity are suspect and, moreover, irrelevant because neither Bazis YYC nor Plazacorp were recipients under the APS. The evidence before the Court regarding Plazacorp’s capacity was non-existent.
+V. Issue Refined
+[28] The sole issue, slightly refined is: who was the recipient of the supply and the person liable under the APS to pay the purchase price?
+[29] To this end, the Appellant characterizes 840 Holdings as a bare trustee or agent acquiring or holding the Property through what has been described almost interchangeably as a bare trust, naked trust or undisclosed agency for either or both of Bazis YYC or Plazacorp. In so doing, and for clarity, the Appellant does not suggest that Mayling, the legally described purchaser, was any of the bare trustee, nominee or principal. This is clear when the Appellant submits that 840 Holdings had acquired the Property in trust as a bare trustee or nominee for Bazis YYC and/or Plazacorp the (“Beneficial Owners”).
+[30] To slightly restate the basis of the appeal, for the Appellant to succeed, the Court must find that neither Mayling, the described purchaser under the APS, nor 840 Holdings, the “on-closing” directed title-holder, was the recipient of the supply and bore the obligation to complete the supply under the APS. In addition, given the sequence of who was a registrant at closing, the Court must find that 840 Holdings was a mere bare trustee, nominee or agent at the time of closing in favour of the Beneficial Owners. In short, was there at that time a trust or agency in favour of Bazis YYC and/or Plazacorp?
+[31] For the following reasons the Court cannot so conclude.
+VI. Analysis and Decision
+[32] At the time the APS was executed, neither Bazis YYC nor 840 Holdings existed. Factually, neither of the purported agent or bare trustee nor principal or Beneficial Owner existed when the APS was executed. The reasons which follow concerning the documentary evidence and intention of the parties up until the closing date regarding the existence of a trust applies equally to the concept of agency.
+[33] The suggestion that broad assertions made after a subject transaction is closed, may transform a directed transferee, such as 840 Holdings, into a trustee, or Bazis YYC and/or Plazacorp into a beneficiary and obligor under all of the APS, closing documentation or non-merging covenants is neither factually nor legally correct in the absence of documentation.
+[34] All CRA publications direct and assume that uncontroverted or, at least, predominant evidence concurrently existing at the closing date need consistently reveal a trust (bare or otherwise) or, for that matter, an agency relationship. The words “where a trust or where an agency exists” are interlineated throughout these CRA publications. The following factual findings in this case fail to approach an indication of such existence at or before the closing date:
+(a) there is no assumption by 840 Holdings or consent by Mayling of anything approaching liability under the APS, the closing documentation or land transfer tax affidavit: Lounsbury Co. v. Duthie [1957] SCR 590 at paragraphs 13 and 14. At law, Mayling was not relieved of its obligations under the APS by any identifiable document. Furthermore, the Appellant is not asserting it was a beneficiary, but an agent and/or bare trustee;
+(b) there is no settlement or settling by Mayling of the Property or the right to legally hold same upon 840 Holdings as a trustee or agent for the alleged Beneficial Owners. As such, no documentation suggests that anyone other than Mayling was liable to pay the consideration to the Appellant or assume the leases: Y.S.I.’s Yacht Sales International Ltd. v. R., 2007 TCC 306 at paragraph 57 and Merchant Law Group v. R., 2010 FCA 206 at paragraphs 12-14;
+(c) the dated “as of August 30, 2012” Co-tenancy Agreement and revamped statutory declaration and indemnity, contemporarily produced for the first time after the reassessment was issued or threatened, are given little weight for several reasons. First, there is no clear indication when the “original co-tenancy agreement”, which the Co-tenancy Agreement replaced, was actually executed or when temporally the Property was actually settled upon the “trust”. Second, this document references nowhere within it how 840 Holdings acquired is title, rights or assumed its obligations from Mayling to, in turn, hold same for the Beneficial Owners. Consistently, Mayling is neither mentioned in this document nor a signatory to it. Third, the statutory declaration and indemnity of Bazis YYC are not dated on the date fixed for closing, August 29, 2012, but on August 30, 2012. This indicates these documents were executed and/or sworn post the actual closing date because they employ the actual registration date. This date was unknown to the parties when all effective closing documentation was otherwise prepared, executed and delivered. This strongly suggests a subsequent intention and action inconsistent with either Beneficial Owners being the recipient of the Property on the closing date;
+(d) further, all documentation delivered to effect the closing on the closing date is equally as consistent, and is no more preposterous with the conclusion that, at the time of closing, 840 Holdings became both beneficial and legal owner of the Property or became a trustee or agent for the beneficiary, Mayling. If either of these interpretive scenarios be true, then the appealed assessment is still correct and the appeal shall fail. Factually, neither Mayling nor 840 Holdings was ultimately a HST registrant at the closing date. Quite apart from these alternative speculations, the fact remains that no closing documentation indicates that anyone other than Mayling remained the obligant to the Appellant under the APS at the time of its execution, during the period leading up to its closing, at the time all other closing documents were exchanged and at the closing date. Moreover, there is no documentation executed or even memorialising, in advance or concurrently with closing, that Bazis YYC or Plazacorp were obligants, beneficial owners or principals: Ritopecki v. Breslow Kantor Inc. et al., 1983 Carswell Ont 3429 at paragraphs 37 and 38. Is it the Appellant who must satisfy itself based upon the documentation delivered to it at closing as to the recipient of the supply and obligant under the agreement for supply at the applicable time.
+[35] In conclusion, trusts (even bare ones) and agencies (however cursory) are not aspirational constructs formed by imprecise intention or inchoate plans: Baldasossarra v. MNR, 1990 CarswellNat 537 at paragraph 12 and Low v. HMQ, 1993 CarswellNat 996. This is especially true when the time for determination of the recipient and obligant is fixed: the time the contract for supply arises and the closing date. Section 133 of the Act makes this clear.
+[36] Moreover, cases where a bare trust or agency have been found to exist, and are interpreted by CRA to exist, require some documentary or evidential disclosure of the various parties to the supplier at the time of supply. As an example, in GST new housing rebate cases, where the Court has found that among named parties in an agreement of purchase of sale, only one was the beneficial owner and the other a mere agent or bare trustee, both such parties executed or were inextricably concerned with the document(s) creating the supply and related obligations.
+[37] In the present case, none of Bazis YYC or Plazacorp, the alleged Beneficial Owners and principals, nor 840 Holdings, the alleged trustee or agent, executed the APS, was described in such capacity to the Appellant or was reliably described in other contemporareous collateral documents as such. These facts are clearly distinguishable from the facts in the following authorities: Rochefort v. HMQ, 2014 TCC 34 at paragraphs 11 and 24; Javaid v. HMQ, 2015 TCC 94 at paragraph 22; Cheema v. HMQ, 2016 TCC 251 at paragraph 54 (as to documentation only).
+[38] In summary, some inceptive documentation and actual foundation is required to engage the assistance of the publications authored by CRA, the authorities and, most importantly, the law of agency or trusts. While either relationship need not be disclosed or extensively documented, either relationship must be factually reflected during the relevant time in some effective form to fulfill their respective legal elements: Canpar Developments Inc. v. HMQ, 2011 TCC 353 at paragraphs 8 and 9 (as to trusts); Y.S.I.’s Yacht Sales, supra, at paragraphs 41 through 49 (as to agencies). Similarly, the vendor of commercial real property, such as the Appellant in respect of the Property, is required to ascertain at that relevant time: i) who is the recipient within the meaning of the ETA; ii) and whether the recipient is a registrant in order to relieve itself, as supplier, of the obligation of collecting the HST on the supply. Where the ostensible recipient, the person obligated to pay the consideration, is named in the APS as “purchaser”, then something more concurrent with closing than a one page unilateral direction regarding title is necessary to dislodge the countervailing, mutual agreement, patent facts, logical conclusions and legal obligations in the APS.
+[39] The documentation in this case need not have been onerous or complex. A one or two page assignment and assumption agreement, a simple declaration of trust or co-execution of the APS as between Mayling and 840 Holdings. A then current and accurate disclosure of the Beneficial Owners as obligants would also have gone a long way. None of these documents were requested by the Appellant or given by Mayling, 840 Holdings or the Beneficial Owners on or before the closing date. As a result, there is simply no factual, documentary or deductive basis to conclude that the Appellant ought to have concluded any party other than Mayling was the recipient of the supply at the closing date. In summary, the conditional words, “where a trust or where an agency exists” do not apply to this appeal.
+[40] Mayling remained the purchaser until closing and, as such, obligated to pay the consideration. This satisfies the definition and conditions for the recipient to collect and remit the HST under the ETA provided Mayling was a registrant. It was not. Therefore both the ETA and APS required the Appellant to collect and remit the HST. It did not. The reassessment is therefore correct.
+[41] Beyond this conclusion, there is nothing factually to suggest that at or before the closing date, the asserted Beneficial Owners, Bazis YYC or Plazacorp were considered by the Appellant as obligated to pay the consideration or face suit for failure to do so. This is consistent with all testimony at the hearing which revealed no HST Registry searches were done before the closing date by the Appellant against either of Bazis YYC or Plazacorp as a possible recipient until after the reassessment.
+[42] The appeal is accordingly dismissed with costs awarded to the Respondent in accordance with the applicable tariff subject to representations in writing by either party within 30 days of the date of this judgment.
+Signed at Ottawa, Canada, this 31st day of January 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017TCC20
+COURT FILE NO.:
+2014-3841(GST)G
+STYLE OF CAUSE:
+2252493 ONTARIO LIMITED v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 29, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+January 31, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Louise R. Summerhill
+Meghan A. Cowan
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Louise R. Summerhill
+Firm:
+Aird & Berlis, LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

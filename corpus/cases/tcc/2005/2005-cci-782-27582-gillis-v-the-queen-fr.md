@@ -1,0 +1,204 @@
+---
+title: "Gillis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27582/index.do"
+last_modified: "2005-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 782"
+citation2: ""
+neutral_citation: "2005 CCI 782"
+decision_date: "2005-12-09"
+language: "fr"
+item_id: "27582"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 76
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:13:34.113000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20815a83fbf23fe944d32bbbac5ceb40efa3b563b3fd951a8afd27279128bea4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gillis v. The Queen
+
+- Citation: 2005 CCI 782
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 76, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-09
+Référence neutre
+2005 CCI 782
+Numéro de dossier
+2005-1323(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1323(IT)I
+ENTRE :
+DUNCAN E. GILLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Sydney (Nouvelle-Écosse), le 15 novembre 2005
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Edward R. Sawa
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis sans frais et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de décembre 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 11e jour de septembre 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI782
+Date : 20051209
+Dossier : 2005-1323(IT)I
+ENTRE :
+DUNCAN E. GILLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS :
+[1] L'appelant est le président-directeur général, l'actionnaire principal et l'employé de Gillis Truckways Inc.
+[2] Gillis Truckways Inc. ( « Truckways » ) est une société constituée sous le régime des lois de la Nouvelle-Écosse.
+[3] Truckways vend différents types de remorques routières dans l'ensemble des Maritimes depuis 1987.
+[4] Pendant la période pertinente, l'appelant était le représentant commercial principal de Truckways.
+[5] L'appelant a déclaré dans son témoignage que Truckways avait réalisé le chiffre d'affaires suivant au cours des années indiquées :
+Année d'imposition
+Chiffre d'affaires brut annuel
+1999
+5 500 000 $
+2000-2005
+Entre 3 000 000 $
+et 4 500 000 $
+[6] Le 18 mai 2000, Truckways a acheté une carte de membre d'entreprise du Bell Bay Golf Club ( « Bell Bay » ) à Baddeck, en Nouvelle-Écosse, pour 12 000 $, plus la TVH de 1 800 $, pour un total de 13 800 $ (voir la pièce A1).
+[7] L'appelant a dit que bien des gens considéraient Bell Bay comme un des meilleurs terrains de golf des Maritimes.
+[8] Le formulaire de demande de carte de membre d'entreprise signé par Truckways indiquait que l'appelant et son épouse, Beth, étaient les personnes désignées pour Truckways. L'appelant a témoigné que, grâce à la carte de membre d'entreprise, lui et son épouse pouvaient jouer autant de parties de golf qu'ils le voulaient à Bell Bay et obtenir des frais d'entrée réduits pour leurs invités.
+[9] Truckways n'a pas essayé de radier le montant de 13 800 $ qui avait été payé pour la carte de membre d'entreprise à titre de dépense aux fins de l'impôt dans le calcul de son revenu pour l'année d'imposition 2000.
+[10] Des fonctionnaires de l'Agence du revenu du Canada (l' « ARC » ) ont effectué une vérification de Truckways. Les fonctionnaires de l'ARC ont déterminé que la carte de membre d'entreprise que Truckways avait achetée au cours de l'année d'imposition 2000 constituait un avantage imposable conféré à l'appelant par Truckways.
+[11] Le ministre du Revenu national (le « ministre » ) a établi une nouvelle cotisation pour l'année d'imposition 2000 de l'appelant et le montant de 13 800 $ a été ajouté au revenu de l'appelant en tant qu'avantage imposable.
+B. LA QUESTION EN LITIGE :
+[12] L'appelant a-t-il reçu un avantage imposable de 13 800 $ au cours de l'année d'imposition 2000, lorsque Truckways a acheté une carte de membre d'entreprise du terrain de golf?
+C. ANALYSE :
+[13] L'appelant a déclaré dans son témoignage qu'il était le représentant commercial principal de Truckways et qu'il divertissait souvent des clients et des clients potentiels de Truckways en leur payant les frais d'entrée lorsqu'il jouait une partie de golf avec eux.
+[14] L'appelant a également déclaré dans son témoignage qu'étant donné que Truckways possédait une carte de membre d'entreprise de Bell Bay, les frais d'entrée pour les invités de Truckways passaient de 65 $ à 40 $ par partie de golf.
+[15] L'appelant a estimé avoir joué environ 50 parties de golf par année à Bell Bay au cours des années 2000, 2001, 2002, 2003, 2004 et 2005. L'appelant a dit qu'il avait joué environ 30 parties par année (ou 60 % du temps) avec des clients ou des clients potentiels de Truckways et environ 20 parties par année (ou 40 % du temps) avec son épouse ou des amis intimes.
+[16] L'appelant a mentionné qu'étant donné que Truckways possédait une carte de membre d'entreprise de Bell Bay, elle avait économisé beaucoup d'argent en ce qui concerne les frais d'entrée. L'appelant a estimé que Truckways avait réalisé les économies suivantes :
+Année
+Nombre estimatif de parties de golf par année
+Économies par partie de golf (3 x 25 $)
+Économies estimatives
+par année
+2000
+30
+75,00 $
+2 250,00 $
+2001
+30
+75,00
+2 250,00
+2002
+30
+75,00
+2 250,00
+2003
+30
+75,00
+2 250,00
+2004
+30
+75,00
+2 250,00
+2005
+30
+75,00
+2 250,00
+13 500,00 $
+[17] L'appelant a dit que selon ses documents comptables, au cours des cinq dernières années, Truckways avait vendu pour plus de 5 750 000 $ aux clients de Truckways avec qui il avait régulièrement joué au golf à Bell Bay.
+[18] L'appelant a dit que la conjoncture économique au Cap-Breton était très difficile et que Truckways était obligée de chercher des clients à qui vendre ses remorques dans l'ensemble des Maritimes. L'appelant a dit qu'il pouvait utiliser le golf pour présenter Truckways aux clients sous un jour favorable.
+[19] L'appelant a ajouté dans son témoignage que Truckways pouvait rendre sa carte de membre d'entreprise à Bell Bay à des prix précisés. Autrement dit, si Truckways rendait sa carte de membre d'entreprise, une partie du paiement qu'elle avait effectué pour sa carte lui serait remboursé. L'appelant a également déclaré dans son témoignage que, selon l'entente avec Bell Bay, Truckways a le droit de vendre la carte de membre d'entreprise à un tiers si le transfert est approuvé par Bell Bay. L'appelant a dit que, selon cette entente, Truckways a la possibilité de recevoir ultérieurement une somme importante pour la carte de membre d'entreprise si elle la vend à un tiers. L'appelant a dit que lorsqu'il a acheté la carte de membre d'entreprise pour Truckways, il croyait que sa valeur augmenterait et que la carte de membre d'entreprise serait un bien de grande valeur pour Truckways.
+[20] La nouvelle cotisation relative à l'avantage imposable a été établie en application du paragraphe 15(1) de la Loi de l'impôt sur le revenu. Ce paragraphe prévoit que la valeur de l'avantage qu'une société confère à un actionnaire doit être incluse dans le revenu de l'actionnaire. Pour déterminer si la nouvelle cotisation est correcte, je dois déterminer la « valeur » de l'avantage.
+[21] Compte tenu du témoignage de l'appelant, je suis convaincu que l'appelant a réussi à établir des relations d'affaires très utiles pour Truckways en jouant au golf avec des clients et des clients potentiels.
+[22] Compte tenu de la preuve présentée, je suis convaincu que la carte de membre d'entreprise du terrain de golf achetée par Truckways conférait un avantage personnel à l'appelant. Toutefois, compte tenu du témoignage de l'appelant, je suis convaincu que Truckways a obtenu un avantage important en achetant la carte de membre d'entreprise, parce que Truckways a pu vendre des remorques à un grand nombre des clients qui se sont divertis sur le terrain de golf de Bell Bay.
+[23] Je crois que la valeur de l'avantage personnel obtenu par l'appelant en raison de l'achat de la carte de membre d'entreprise doit être calculée de la façon suivante :
+Coût de la carte de membre d'entreprise
+Déduction de l'avantage obtenu par Truckways
+Avantage personnel
+reçu par l'appelant
+13 800 $
+60 % de 13 800 $
+ou 8 280 $
+40 % de 13 800 $
+ou 5 520 $
+[24] L'appel interjeté par l'appelant pour l'année d'imposition 2000 est admis sans frais et une nouvelle cotisation sera établie à l'égard de l'appelant afin d'inclure le montant de 5 520 $ dans son revenu pour l'année d'imposition 2000.
+Signé à Vancouver (Colombie-Britannique), ce 9e jour de décembre 2005.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 11e jour de septembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI782
+NO DU DOSSIER DE LA COUR :
+2005-1323(IT)I
+INTITULÉ DE LA CAUSE :
+Duncan E. Gillis c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sydney (Nouvelle-Écosse)
+DATE DE L'AUDIENCE :
+Le 15 novembre 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 9 décembre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Edward R. Sawa
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,190 @@
+Title: 6149812 Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29379/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-442-29379-6149812-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-03
+
+# 6149812 Canada Inc. c. La Reine
+
+- Citation: 2009 CCI 442
+- Decision date: 2009-09-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6870, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6149812 Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-03
+Référence neutre
+2009 CCI 442
+Numéro de dossier
+2008-1242(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1242(IT)G
+ENTRE :
+6149812 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Vincent Boivin, 2007-3503(IT)G et de Maurice Boivin ès qualité de liquidateur de la succession de feue Gabrielle Gauthier, 2007-3623(IT)G,
+le 13 février 2009, à Ottawa (Ontario).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l’appelante :
+Me Pierre McMartin
+Avocat de l’intimée:
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation dont l'avis est daté du 25 juillet 2007 et porte le numéro 46818, est accueilli, sans dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2009.
+« B.Paris »
+Juge Paris
+Dossier : 2007-3503(IT)G
+ENTRE :
+VINCENT BOIVIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de 6149812 Canada Inc., 2008‑1242(IT)G et de Maurice Boivin ès qualité de liquidateur de la succession de feue Gabrielle Gauthier 2007‑3623(IT)G,
+le 13 février 2009, à Ottawa (Ontario).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me Pierre McMartin
+Avocat de l’intimée:
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation dont l'avis est daté du 1er décembre 2005 et porte le numéro 42321, est rejeté, sans dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2009.
+« B.Paris »
+Juge Paris
+Dossier : 2007-3623(IT)G
+ENTRE :
+MAURICE BOIVIN ÈS QUALITÉ DE LIQUIDATEUR DE LA SUCCESSION DE FEUE GABRIELLE GAUTHIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Vincent Boivin, 2007‑3503(IT)G et de 6149812 Canada Inc., 2008-1242(IT)G,
+le 13 février 2009, à Ottawa (Ontario).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me Pierre McMartin
+Avocat de l’intimée:
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation dont l'avis est daté du 12 juillet 2005 et porte le numéro 19922, est rejeté, sans dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2009.
+« B.Paris »
+Juge Paris
+Référence : 2009 CCI 442
+Date : 20090903
+Dossiers : 2008-1242(IT)G
+2007-3503(IT)G
+2007-3623(IT)G
+ENTRE :
+6149812 CANADA INC.,
+VINCENT BOIVIN,
+MAURICE BOIVIN ÈS QUALITÉ DE LIQUIDATEUR DE LA SUCCESSION DE FEUE GABRIELLE GAUTHIER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Les présents appels visent trois cotisations établies par le ministre du Revenu national en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »). Les cotisations concernent un transfert de 203 075,54 $ de Maurice Boivin à la succession de Gabrielle Gauthier (la « succession »), ainsi que deux transferts faits subséquemment par la succession, à savoir : un transfert de 40 000 $ en faveur de Vincent Boivin et un transfert de 30 000 $ à 6149812 Canada Inc. (la « société »). Le ministre a établi une cotisation à l’égard de la succession au motif que le transfert effectué par Maurice Boivin l’a été sans contrepartie à une époque où il avait une dette fiscale.
+[2] Vincent Boivin et la société ont fait l’objet de cotisations au motif que les transferts qu’ils ont reçus de la succession ont été faits sans contrepartie à une époque où la succession avait, en vertu de l’article 160 de la Loi, une dette du fait du transfert fait par Maurice Boivin à la succession.
+[3] Les appelants contestent les cotisations pour le motif que le bien initialement transféré à la succession était « insaisissable » suivant la disposition applicable du Code civil du Québec (le « Code civil ») et pour le motif que l’article 160 de la Loi ne s’applique pas aux biens insaisissables.
+[4] Pour le cas où la Cour conclurait que le bien transféré à la succession par Maurice Boivin n’était pas insaisissable, la société fait valoir que le paiement qu’elle a reçu de la succession constituait d’un prêt plutôt qu’un transfert sans contrepartie.
+[5] Pour l’essentiel, les faits de l’espèce ne sont pas contestés.
+[6] Gabrielle Gauthier était l’épouse de Maurice Boivin et la mère de Vincent Boivin. Madame Gauthier et Maurice Boivin étaient les actionnaires de la société. Madame Gauthier est décédée le 4 novembre 2003. Maurice Boivin était son exécuteur testamentaire et était désigné dans son testament comme l’unique héritier de ses biens. Selon ce testament, tous les biens légués au moyen du testament ainsi que ceux acquis au moyen du produit de ces biens sont insaisissables.
+[7] L’article 8 du testament est ainsi rédigé :
+Article huitième
+Tous les biens présentement légués ainsi que ceux acquis en remploi et les fruits et revenues en provenant sont légués à titre d’aliments et seront insaisissables pour quelques dettes que ce soit de mes légataires à moins qu’ils ne consentent à les rendre saisissables en tout ou en partie.
+Cette insaisissabilité est accordée afin de conserver l’objet des legs dans la famille et pour toute la vie de mon ou mes légataires.
+[8] Au moment de son décès, madame Gauthier était la seule propriétaire enregistrée de la résidence familiale.
+[9] Le 16 novembre 2004, Maurice Boivin a fait une proposition en vertu de l’article 50 de la Loi sur la faillite et l’insolvabilité.
+[10] Le 1er mars 2005, la succession a transféré la résidence familiale à Maurice Boivin en tant qu’héritier désigné dans le testament de Gabrielle Gauthier. Le même jour, Maurice Boivin a vendu la résidence à des acheteurs avec qui il n’avait pas de lien de dépendance. Il a déposé le produit de la vente, soit un montant net de 203 075,54 $ dans son compte personnel. Le 5 avril 2005, il a retiré cette somme de son compte et l’a déposée dans le compte de la succession.
+[11] Le 6 avril 2005, la succession a remis un chèque de 40 000 $ à Vincent Boivin et, le 15 juin 2005, elle a remis un chèque de 30 000 $ à la société.
+[12] Le 5 avril 2005, Maurice Boivin avait une dette fiscale d’au moins 160 257,91 $. Le 12 juillet 2005, la succession a fait l’objet d’une cotisation de ce montant établie en application du paragraphe 160(1) de la Loi. Vincent Boivin a été l’objet d’une cotisation de 40 000 $ établie en vertu du même paragraphe le 1er décembre 2005 et la société a été l’objet d’une cotisation de 30 000 $ établie le 25 juillet 2007.
+[13] Les appelants soutiennent que la somme reçue par Maurice Boivin à la suite de la vente de la résidence est insaisissable en vertu de l’article 8 du testament de madame Gauthier et que, par conséquent, le paragraphe 160(1) de la Loi ne trouve pas application.
+[14] L’intimée ne conteste pas que la propriété léguée par feue madame Gauthier à son époux était insaisissable suivant l’article 8 du testament. L’intimée dit, cependant, que le caractère insaisissable de la propriété ne s’étendait pas au produit de la vente de celle-ci (le bien acquis en remploi). Selon l’intimée, après la vente de la résidence, le produit de la vente n’était pas insaisissable en soi.
+[15] Pour le cas où il serait conclu que le produit n’était pas insaisissable, les appelants soutiennent également que le dépôt du produit de la vente dans le compte bancaire de la succession ne constituait pas un transfert au sens du paragraphe 160(1) de la Loi. L’avocat des appelants a dit que Maurice Boivin avait déposé l’argent dans le compte afin de pouvoir reconnaître le produit de la vente et qu’il a utilisé les fonds à ses propres fins plutôt qu’à une fin quelconque liée à la succession. En outre, le compte lui-même n’a jamais servi, après le dépôt, à une fin quelconque liée à la succession. L’avocat a aussi soutenu que Maurice Boivin n’avait jamais essayé de mettre ses biens à l’abri du ministre pour contrecarrer la perception de sa dette fiscale, puisque les biens en question étaient déjà insaisissables.
+Analyse
+[16] La première question en litige est de savoir si l’article 8 du testament de madame Gauthier rend insaisissable les biens acquis en remploi de l’immeuble légué à Maurice Boivin.
+[17] L’article 553(3) du Code de procédure civile du Québec prévoit que les biens légués sous condition d’insaisissabilité sont insaisissables sauf par un créancier postérieur à l’ouverture du legs, qui peut les saisir avec la permission d’un juge et pour la portion que le juge détermine.
+[18] L’article 553(3) est rédigé comme suit:
+553. Sont insaisissables:
+3° Les biens donnés ou légués sous conditions d'insaisissabilité; néanmoins, ces biens peuvent être saisis à la poursuite des créanciers postérieurs à la donation ou à l'ouverture du legs, avec la permission du juge et pour la portion qu'il détermine;
+[19] L’article 2649 du Code civil prévoit trois conditions de validité pour une stipulation d’insaisissabilité : elle doit être faite dans un acte à titre gratuit; elle doit avoir un caractère temporaire; elle doit être justifiée par un intérêt sérieux et légitime.
+[20] L’article 2649 se lit comme suit :
+2649. La stipulation d'insaisissabilité est sans effet, à moins qu'elle ne soit faite dans un acte à titre gratuit et qu'elle ne soit temporaire et justifiée par un intérêt sérieux et légitime; néanmoins, le bien demeure saisissable dans la mesure prévue au Code de procédure civile.
+Elle n'est opposable aux tiers que si elle est publiée au registre approprié.
+[21] Il n’est pas contesté que ces conditions sont remplies en l’espèce en ce qui concerne l’immeuble légué à Maurice Boivin par madame Gauthier. L’intimée prétend, cependant que l’insaisissabilité ne s’étend pas au bien acquis en remploi, même si madame Gauthier l’a stipulée.
+[22] Les appelants ont invoqué de la jurisprudence où il a été décidé que les biens acquis en remploi d’un don ou legs insaisissable étaient insaisissables même en l’absence d’une stipulation d’insaisissabilité à l’égard de tels biens dans l’acte de donation ou dans le testament (voir Lacroix v. Corbeil, [1955] C.S. 219.) Toutefois, cette décision ne contient pas d’analyse de cette question, ce qui permet de douter qu’elle fasse autorité en la matière.
+[23] Plus récemment, dans l’affaire Robinovitch c. Banque de Montréal, [1999] R.D.I. 160 (C.Q.), la Cour du Québec a laissé entendre, en obiter dictum que, dans le cas d’une donation testamentaire, les biens acquis en remplacement des biens stipulés insaisissables ne seraient pas insaisissables en l’absence d’une stipulation d’insaisissabilité à l’égard des biens de remplacement dans le testament. Dans l’affaire Robinovitch, la requérante avait hérité de son oncle 125 000 $ en argent sous condition d’insaisissabilité. La requérante a acheté un immeuble qu’elle a payé en partie, avec cet argent. La Cour a conclu que l’immeuble était saisissable en disant :
+[…]
+C’est volontairement que la requérante a décidé de la confondre avec une autre somme d’argent et d’acquérir un immeuble ne faisant pas l’objet d’une protection particulière. Ce faisant, elle a clairement modifié la nature du bien stipulé insaisissable, entraînant du coup la perte du caractère d’insaisissabilité. […]
+[24] Pour sa part, l’intimée s’est référé à l’appel Poulin c. Serge Morency et associés Inc., [1997] J.Q. no 2950 (QL) où la Cour d’appel du Québec s’est prononcée sur une question d’insaisissabilité. La question en litige était de savoir si des sommes détenues dans un régime de retraite conservaient leur caractère d’insaisissabilité à la suite de leur transfert dans un REER. La Cour (dont la décision a été confirmée par la Cour suprême du Canada : [1999] 3 R.C.S. 351) a conclu que ces sommes étaient saisissables selon la juge Deschamps aux paragraphes 44, 52, 57 et 74 de la décision:
+La saisissabilité est la règle. L’insaisissabilité est l’exception et doit être autorisée par la loi. Une personne ou des parties ne peuvent décider ou convenir de mettre des biens à l’abri de créanciers autrement que dans la mesure prévue par la loi.
+[…]
+Les cas de remploi sont exceptionnels. Ils sont spécifiquement prévus par la loi en matière de patrimoine familial […] et de succession […].
+[…]
+Comme le remploi est exceptionnel, le créancier des droits protégés ne peut donc invoquer l’insaisissabilité que pendant que les sommes conservent les caractéristiques qui font que la loi les protège. Il ne peut plus lorsque leur nature est changée.
+[…]
+Les dispositions sur l’insaisissabilité sont limitées aux biens choisis par le législateur. Tant que la créance n’est pas entrée dans le patrimoine du débiteur, elle conserve son identité. Si le paiement ou la remise se fait en utilisant un véhicule ou en acquérant un bien protégé contre l’insaisissabilité, le produit de l’opération sera lui aussi insaisissable. S’il y a encaissement ou transformation en un bien qui n’est pas privilégié par le législateur, la protection sera perdue.
+[Je souligne.]
+[25] Alors, la Cour suprême en confirmant la décision de la Cour d’appel dans l’arrêt Poulin, rejette l’existence d’une règle générale d’insaisissabilité en matière de remploi et limite l’insaisissabilité des biens acquis en remploi aux cas où elle est explicitement prévue par la loi.
+[26] Ceci est la conclusion tirée par Jacques Auger, professeur titulaire à la Faculté de droit de l’Université de Sherbrooke dans son article « Les clauses d’insaisissabilité sous la loupe des tribunaux » Revue du notariat, vol. 109, mars 2007, 87-106. À la page 96 de son article il dit :
+[…]
+Rappelant le principe selon lequel les biens sont saisissables et l’insaisissabilité l’exception, le tribunal refuse de maintenir le caractère d’insaisissabilité des sommes transférées faute d’une disposition législative expresse à cet effet.
+Appliquée aux clauses d’insaisissabilité, le ratio decidendi de cet arrêt entraîne la même conclusion. En effet, les dispositions des alinéas 3 et 4 de l’article 553 du Code de procédure civile – lesquels déclarent insaisissables les biens légués ou donnés sous condition d’insaisissabilité ou à titre d’aliments – ne prévoient pas l’extension de l’insaisissabilité aux biens acquis en remploi. L’insaisissabilité étant l’exception, elle n’existe que lorsque la loi le prévoit et la volonté d’un testateur ou d’un donateur ne peut rien y changer.
+[Je souligne.]
+[27] À la lumière de la décision de la Cour suprême dans l’arrêt Poulin, je dois conclure que la stipulation dans le testament de madame Gauthier concernant l’insaisissabilité des biens acquis en remploi des biens légués à Maurice Boivin et n’a donc pas d’effet en droit. Par conséquent, la somme reçue par Maurice Boivin de la vente de l’immeuble n’est pas insaisissable et peut faire l’objet d’une cotisation en vertu du paragraphe 160(1) de la Loi.
+[28] Les appelants ont aussi prétendu, subsidiairement que le transfert à la succession par Maurice Boivin du produit de la vente de l’immeuble n’était pas un transfert visé par le paragraphe 160(1) de la Loi parce qu’il n’avait pas l’intention d’essayer d’échapper aux réclamations du ministre du Revenu national.
+[29] Je ne peux retenir cet argument. En premier lieu, le paragraphe 160(1) ne requiert pas une intention d’éviter le paiement de la dette fiscale. (Addision & Leyen Ltd c. Canada, 2006 FCA 107, Canada v. Rose, 2009 FCA 93). En second lieu, la preuve ne m’a pas convaincu que Maurice Boivin n’avait pas l’intention de mettre les biens en question hors de la portée du ministre. La raison qu’il a donnée pour le transfert, c'est-à-dire pour garder séparés les fonds provenant de la vente de l’immeuble, n’explique pas pourquoi l’argent a été transféré au compte de la succession et non pas dans un compte à part de Maurice Boivin lui-même.
+[30] En ce qui concerne la société à dénomination numérique, Maurice Boivin a témoigné que le transfert des 30 000 $ était un prêt à cette société. À l’appui de ses dires, il a présenté un extrait des registres de la société qui démontre que celle-ci a traité le montant reçu de Maurice Boivin comme un prêt d’actionnaire. Cette preuve n’a pas été contredite et j’accepte qu’il s’agissait d’un prêt plutôt que d’un transfert sans contrepartie au sens du paragraphe 160(1). Il me semble que des sommes avancées à une société seraient soit des prêts, soit des avances de capital, plutôt que des transferts sans contrepartie.
+[31] Pour tous ces motifs, l’appel de la cotisation établie à l’égard de la société sera accueilli et les deux autres appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 3e jour de septembre 2009.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE : 2009 CCI 442
+Nºs DES DOSSIERS DE LA COUR : 2008-1242(IT)G, 2007-3503(IT)G,
+2007-3623(IT)G
+INTITULÉ DE LA CAUSE : 6149812 CANADA INC., VINCENT BOIVIN, MAURICE BOIVIN ÈS QUALITÉ DE LIQUIDATEUR DE LA SUCCESSION DE FEUE GABRIELLE GAUTHIER ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 13 février 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge B. Paris
+DATE DU JUGEMENT : le 3 septembre 2009
+COMPARUTIONS :
+Avocat des appelants:
+Me Pierre McMartin
+Avocat de l’intimée:
+Me Pascal Tétrault
+AVOCAT INSCRIT AU DOSSIER :
+Pour :
+Nom : Me Pierre McMartin
+Cabinet : Beaudry, Bertrand
+Gatineau (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

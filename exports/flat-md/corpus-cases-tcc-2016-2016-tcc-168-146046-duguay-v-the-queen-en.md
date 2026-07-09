@@ -1,0 +1,193 @@
+---
+title: "Duguay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/146046/index.do"
+last_modified: "2016-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 168"
+citation2: ""
+neutral_citation: "2016 TCC 168"
+decision_date: "2016-07-08"
+language: "en"
+item_id: "146046"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2922
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:46:09.852000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f592d999fb13b0eea76b757021d44089d8f34979794f704cd677ba143ad6814b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duguay v. The Queen
+
+- Citation: 2016 TCC 168
+- Decision date: 2016-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2922, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duguay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-08
+Neutral citation
+2016 TCC 168
+File numbers
+2015-5010(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+[ENGLISH TRANSLATION]
+Docket: 2015-5010(IT)I
+BETWEEN:
+NORMAND DUGUAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 14, 2016, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon Vincent
+JUDGMENT
+The appeal from the assessment dated September 25, 2014, made by the Minister of National Revenue under the Income Tax Act with respect to the 2013 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Canada, this 8th day of July 2016.
+“Réal Favreau”
+Favreau J.
+[ENGLISH TRANSLATION]
+Citation: 2016 TCC 168
+Date: 20160708
+Docket: 2015-5010(IT)I
+BETWEEN:
+NORMAND DUGUAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure from the assessment dated September 25, 2014, made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C., 1985 c. 1 (5th Supp.), as amended (the “Act”) with respect to the appellant’s 2013 taxation year.
+[2] Based on the assessment dated September 25, 2014, the Minister disallowed the $10,000 charitable donation deduction for the purposes of calculating the non-refundable tax credits.
+[3] In order to issue and uphold the assessment for the appellant’s 2013 taxation year, the Minister relied on the following facts:
+a) the appellant is retired;
+b) the appellant resides at 527-815 rue de Villers in Québec, in housing owned by Manoir Laure-Gaudreault (hereinafter the “Manoir”);
+c) when filing his income tax return for the taxation year at issue, the appellant claimed an amount of $10,000 as a charitable donation made to the Manoir;
+d) The Manoir has been a registered charity since January 1, 1978;
+e) The Manoir offers low-income housing and a seniors’ residence;
+f) during the taxation year at issue, the appellant purchased construction materials totalling $20,153;
+g) these construction materials were used exclusively for renovations to the appellant’s apartment;
+h) on November 18, 2013, the Manoir issued two cheques (#2030 and #2031), each in the amount of $10,000, to the appellant as reimbursement for the construction materials;
+i) that same day, the appellant endorsed cheque #2030 in the amount of $10,000 and returned it to the Manoir; the Manoir deposited it into its bank account on November 26, 2013;
+j) on November 18, 2013, the Manoir issued a charitable donation receipt to the appellant in the amount of $10,000;
+k) the Minister calculated the eligible amount in respect of a gift as follows:
+The appellant’s monetary contribution (cheque #2030)
+$10,000
+Less the value of the advantage received by the appellant (repairs)
+($10,000)
+Eligible amount in respect of a gift
+$0
+l) the donation receipt issued to the appellant by the Manoir for the 2013 taxation year does not include the following information:
+i) the donor’s address;
+[4] At the outset of the hearing, counsel for the respondent informed the Court that the Reply to Notice of Appeal had to be amended because the receipt issued by the Manoir to the appellant was in compliance with the requirements under the Act and sections 3500 and 3501 of the Income Tax Regulations. Consequently, paragraph (l) of the assumptions of fact made by the Minister must be removed.
+[5] The facts in this case are not in dispute. More specifically, the respondent is not contesting that the materials purchased by the appellant in the amount of $20,153 were used exclusively to renovate his Manoir apartment. Moreover, the parties acknowledged that on November 18, 2013, the Manoir issued two cheques, each in the amount of $10,000, made out to the appellant to reimburse him for the construction materials and that, that same day, the appellant endorsed one of the two $10,000 cheques and returned it to the Manoir to be deposited, for which the Manoir issued the appellant a charitable donation receipt in the amount of $10,000.
+[6] The appellant testified at the hearing and explained that he had entered into an agreement with the former Manoir administration, under which the Manoir would reimburse the appellant for 50% of the cost of the work and issue him a charitable receipt for the remaining 50% of the cost of the work, to take into account the value of the materials that the appellant would have to leave behind should he vacate the premises.
+[7] A copy of the 14-month lease signed by the appellant and his spouse on July 24, 2013, beginning on May 1, 2013, and ending on June 30, 2014, was entered into evidence. One of the lease provisions authorized the appellant to renovate the dwelling at his expense. The monthly rent payable by the appellant was $765, whereas the lowest rent paid for the dwelling during the 12 months before the lease began was $810 per month.
+[8] Solange Castonguay, the current general manager of the Manoir, testified at the hearing and explained that the Manoir was a non-profit organization that offered affordable housing to low-income individuals. The Manoir has 135 units, half of which have never been renovated since 1979. The Manoir’s current policy is to cover all renovation costs, which are around $10,000 per unit. The renovations consist primarily in removing the carpeting and replacing it with floating floors.
+[9] Ms. Castonguay also mentioned that she had been informed that there had been past cases in which charitable receipts were issued for renovations but that this practice had been abandoned following a notice from the Régie du logement.
+[10] Ms. Castonguay did not understand how the appellant could have qualified to live at the Manoir when his net income for the 2013 taxation year was $52,248.
+Analysis [11] After the hearing, the parties prepared notes to respond to the Court regarding the issue of whether the notion of a gift in civil law is different from that held in common law. This is a relevant question because the Act does not define the word “gift.”
+[12] At the hearing, the respondent specifically referred to the following passage in Maréchaux v. The Queen, 2009 TCC 587.
+[31] Some of the relevant judicial decisions have a tendency to describe what a gift is in slightly different ways. It is not necessary for purposes of this appeal to discuss these nuances. It is sufficient to refer to the description of “gift” that was stated by Linden J.A. in The Queen v. Friedberg, 92 DTC 6031 (FCA), at 6032:
+The Income Tax Act does not define the word “gift”, so that the general principles of law with regard to gifts are utilized by the Courts in these cases. As Mr. Justice Stone explained in The Queen v. McBurney, 85 DTC 5433, at p. 5435:
+The word gift is not defined in the statute. I can find nothing in the context to suggest that it is used in a technical rather than its ordinary sense.
+Thus, a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (see Heald, J. in The Queen v. Zandstra [74 DTC 6416] [1974] 2 F.C. 254, at p. 261.) The tax advantage which is received from gifts is not normally considered a “benefit” within this definition, for to do so would render the charitable donations deductions unavailable to many donors.
+[32] In applying the above definition to the facts of this appeal, it is clear that the appellant did not make a gift to the Foundation because a significant benefit flowed to the appellant in return for the Donation.
+[33] The benefit is the financing arrangement. The $80,000 interest-free loan that was received by the appellant, coupled with the expectation of the Put Option, was a significant benefit that was given in return for the Donation. The financing was not provided in isolation to the Donation. The two were inextricably tied together by the relevant agreements.
+[My emphasis.]
+[13] It was certainly helpful that the respondent reproduced the relevant provision of the Civil Code of Québec (CCQ), namely article 1806, which stipulates the following:
+Gift is a contract by which a person, the donor, transfers ownership of the property by gratuitous title to another person, the donee; a dismemberment of the right of ownership, or any other right held by a person, may also be transferred by gift.
+Gifts may be inter vivos or mortis causa.
+[My emphasis.]
+[14] However, as Justice Archambault of this Court stated in Gonthier v. La Reine, 2003 CANLII 1659, at paragraph 9, the definition of the word “gift” provided in the CCQ corresponds to that used in common law.
+[translation] As can be seen, this definition corresponds to that used in common law. Whether reference is made to the CCQ or to definitions taken from common law, the very essence of a gift is a transfer of property by gratuitous title, without consideration.
+[15] In both civil law and common law, the notion of donative intent must clearly exist for a legal act to qualify as a donation. In Martin v. Dupont, 2016 QCCA 475, the Court of Appeal of Quebec described the notion of donative intent as follows:
+[27] [translation] Note also that the onus is on the individual who claims that a legal act is a donation to show evidence thereof; otherwise, the act is presumed to be non-gratuitous,7 as Professor Brière points out:
+[translation] From a broader view, donative intent implies knowing that one will not receive consideration and the deliberate intent of receiving nothing in exchange, i.e. the conscious willingness to grow poorer.... It will be necessary for the donee to prove that this donative intent is unequivocal.8
+[Court’s emphasis.]
+[28] Thus, the donation requires that two elements be present: the material element and the mental element.
+... there is no liberality in the absence of the intellectual or mental element, the animus donandi, and in the absence of the material element, the transfer of value without an equivalent consideration.9
+[29] The mental element, or animus donandi, has been defined as a “real desire to alienate property for the benefit of a third person, without deriving any advantage.”
+[30] The donation thus implies the intent to grow poorer without receiving anything in return, apart from expecting gratitude from the donee.11 It is also imperative that the donor derives no material benefit.
+[31] Both elements are mandatory; the absence of one of them is sufficient to conclude that the act is not a donation.
+[16] As we have already seen, the Act does not define a gift. However, the Act does contain provisions aimed at reducing the amount of a gift by the amount of the advantage received by the donor. These provisions were adopted in June 2013, retroactive to December 21, 2002 (see Technical Tax Amendments Act, 2012, S.C. 2013, c. 34, at subsections 358(30) and (54).
+[17] The provisions in question define the eligible amount of a gift and the amount of the advantage in respect of a gift. Subsections 248(31) and 248(32) of the Act are worded as follows:
+Eligible amount of gift or monetary contribution
+(31) The eligible amount of a gift or monetary contribution is the amount by which the fair market value of the property that is the subject of the gift or monetary contribution exceeds the amount of the advantage, if any, in respect of the gift or monetary contribution.
+Amount of advantage
+(32) The amount of the advantage in respect of a gift or monetary contribution by a taxpayer is the total of
+(a) the total of all amounts, other than an amount referred to in paragraph (b), each of which is the value, at the time the gift or monetary contribution is made, of any property, service, compensation, use or other benefit that the taxpayer, or a person or partnership who does not deal at arm’s length with the taxpayer, has received, obtained or enjoyed, or is entitled, either immediately or in the future and either absolutely or contingently, to receive, obtain, or enjoy
+(i) that is consideration for the gift or monetary contribution,
+(ii) that is in gratitude for the gift or monetary contribution, or
+(iii) that is in any other way related to the gift or monetary contribution, and
+(b) the limited-recourse debt, determined under subsection 143.2(6.1), in respect of the gift or monetary contribution at the time the gift or monetary contribution is made.
+[18] The amount of the advantage in respect of a gift includes the total of the amounts, each of which is the value, at the time the gift was made, of any property that the taxpayer enjoyed, or is entitled, either immediately or in the future and either absolutely or contingently, to enjoy, and which is consideration for the gift or monetary contribution, in gratitude for the gift or monetary contribution, or in any other way related to the gift or monetary contribution.
+[19] In this case, at the time of the gift, the appellant was entitled to immediately enjoy the renovations made to his apartment, and that advantage was granted to him in relation to the gift made to the Manoir. Occupancy of the renovated apartment was not granted in isolation to the gift. The occupancy of the renovated apartment and the gift were inextricably linked through a prior verbal agreement with the Manoir made before the renovation work began.
+[20] It should also be noted that the appellant acknowledged at the hearing that the rent he paid to occupy his apartment was lower than the market value of rent required to live in that type of unit. Moreover, there was evidence that the rent paid by the appellant was even lower than the rent paid by the apartment’s previous tenant before the renovations were carried out.
+[21] Furthermore, contrary to what the appellant suggests, the concept of the advantage received in consideration of the gift must be analyzed based on the donor’s perspective, and not that of the donee. Therefore, it is not relevant to question whether the Manoir benefitted or will benefit from the gift in the future when the appellant vacates his apartment.
+[22] At the hearing, the respondent commented on the opportunity to divide the gift into an eligible part and a part ineligible for the charitable donation credit. Given that this point was not raised by the appellant and that no method was suggested to divide the alleged $10,000 charitable donation, under the circumstances of this case, there is no reason to share the gift or contribution for one part to qualify as a charitable donation.
+[23] For all of these reasons, the appeal is dismissed.
+Signed at Montréal, Canada, this 8th day of July 2016.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 168
+COURT FILE NO.:
+2015-5010(IT)I
+STYLE OF CAUSE:
+NORMAND DUGUAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+March 14, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+July 8, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Simon Vincent
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

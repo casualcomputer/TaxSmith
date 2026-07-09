@@ -1,0 +1,112 @@
+Title: Thompson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29905/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-381-29905-thompson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-19
+
+# Thompson v. The Queen
+
+- Citation: 2010 TCC 381
+- Decision date: 2010-07-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6395, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-19
+Neutral citation
+2010 TCC 381
+File numbers
+2010-277(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-277(IT)I
+BETWEEN:
+CHRISTINA THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 16, 2010, at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal in relation to the assessment of the penalty imposed pursuant to subsection 163(1) of the Income Tax Act in relation to the income tax return that she filed for 2007 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty imposed pursuant to subsection 163(1) of the Income Tax Act in relation to the income tax return that she filed for 2007 is deleted.
+The Respondent shall pay costs to the Appellant in the amount of $500.
+Signed at Halifax, Nova Scotia, this 19th day of July, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC381
+Date: 20100719
+Docket: 2010-277(IT)I
+BETWEEN:
+CHRISTINA THOMPSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this appeal is whether the Appellant can rely on a defence of due diligence in relation to a penalty that was imposed pursuant to subsection 163(1) of the Income Tax Act (the “Act”) in relation to certain investment income that the Appellant failed to include in her tax return that she filed for 2007. This subsection provides as follows:
+163. (1) Every person who
+(a) fails to report an amount required to be included in computing the person's income in a return filed under section 150 for a taxation year, and
+(b) had failed to report an amount required to be so included in any return filed under section 150 for any of the three preceding taxation years
+is liable to a penalty equal to 10% of the amount described in paragraph (a), except where the person is liable to a penalty under subsection (2) in respect of that amount.
+[2] The penalty under subsection 163(1) of the Act is imposed on a person who fails to report, in that person’s tax return that was filed for a particular year, an amount of income that should have been included in that person’s tax return and also failed to report in a tax return that was filed for any one of the three preceding taxation years an amount of income that should have been included in that tax return. The Appellant acknowledged in her Notice of Appeal that she had failed to report an amount of income in her 2006 income tax return. The amount that she failed to include in reporting her income for 2006 was $868.
+[3] In the Reply it is stated that the Appellant failed to include dividend income of $3,336 and interest income of $17,043 in her tax return for 2007. Only the Appellant testified during the hearing. Throughout her testimony the only amount that she referred to as the amount that she failed to include in her tax return for 2007 was $17,043. The type of income was not identified. It was only established that it was income that would be reported on a T5 slip. The Appellant stated that she did not receive the T5 slip for this income and I accept her testimony.
+[4] The Appellant did, however, include with her book of documents, the Notice of Reassessment that she received for 2007. This Notice of Reassessment indicates that the additional income that was not reported in her tax return for 2007 was $20,829 (which is $450 more than the sum of $3,336 and $17,043). The type of income is not identified in the Notice of Reassessment. Since I have concluded that the Appellant has satisfied the due diligence defence, it is not necessary to determine the exact amount that would be used to determine the amount of the penalty.
+[5] After the Appellant had been reassessed for failing to report investment income in 2006 the Appellant wanted to ensure that the problem did not arise again. TD Waterhouse holds and manages the Appellant’s investments. Her financial adviser at TD Waterhouse is Paul Debanne and he has been her advisor for several years. When she met with him in November 2007 she expressed her concern that she had not received the T3 slip for 2006. Her father had also not received a T3 slip for investment income for 2006 and was also reassessed. The Appellant did not want to miss any tax slips in filing her tax returns in the future. Paul Debanne suggested to her that she contact his assistant in April 2008 to ensure that she had all of the information slips for 2007 before she filed her tax return for 2007.
+[6] On April 7, 2008 the Appellant sent an e-mail to Paul Debanne’s assistant (Tina Lucas) to confirm that the Appellant had all of the necessary tax slips. She attached a schedule which identified six T3 slips, two T4RIF slips and two T5 slips with the name of the issuer, the type of income and the amount of income. The total amount for all of the tax slips identified in the schedule was $51,237. Tina Lucas confirmed by an e-mail (also sent on April 7, 2008) that the tax slips as identified by the Appellant matched up to the amounts for her account.
+[7] The Appellant deferred all of the investment decisions in her account to her financial advisor and simply received a monthly amount of $3,500 (which would be $42,000 in total for the year). While the Appellant noticed that her income as reported by her for 2007 (approximately $50,000) was less than her total income for 2006 (approximately $57,600), she stated that she had assumed that this was because of a decrease in the market. Her reported total income for 2007 was approximately 87% of her total income for 2006. While there was a decrease of 13%, her income was paid into her TD Waterhouse account and therefore she did not directly receive the income. TD Waterhouse, who did receive the income, had confirmed that she had all of the tax slips for 2007. By confirming that she had all of her tax slips for 2007 TD Waterhouse would be confirming that she would be reporting all of her investment income if she reported the income on these tax slips. The missing income was not income that was included in these tax slips.
+[8] In Saunders v. The Queen, 2006 TCC 51, 2006 D.T.C. 2267, [2006] 2 C.T.C. 2255, Justice Woods stated that:
+12 The penalty in subsection 163(1) is one of strict liability, although this Court has held that it can be vacated if the taxpayer can establish due diligence.
+[9] Justice Boyle in Dunlop v. The Queen, 2009 TCC 177, 2009 D.T.C. 650, [2009] 6 C.T.C. 2223 reiterated that the penalty will not apply if the taxpayer “can demonstrate he exercised a requisite degree of due diligence”.
+[10] In the recent decision of the Federal Court of Appeal in Les Résidences Majeau Inc. v. The Queen, 2010 FCA 28, Justice Létourneau, on behalf of the Federal Court of Appeal, stated as follows:
+7 As far as the penalty is concerned, we are satisfied that the judge did not make any mistake in upholding it. To avoid this penalty, the appellant had to establish that it was duly diligent.
+8 According to Corporation de l'école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: that the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+9 A reasonable mistake of fact requires a twofold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+10 As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[11] Although the penalty in issue is not identified in the decision of the Federal Court of Appeal, it appears from the decision[1] which was appealed to the Federal Court of Appeal that the penalty in issue is the penalty that was, prior to April 1, 2007, imposed under section 280 of the Excise Tax Act. The imposition of this penalty was also subject to the due diligence defence (see Pillar Oilfield Projects Ltd. v. The Queen, [1993] G.S.T.C. 49).
+[12] It seems to me that the Appellant has established that she was duly diligent. The Appellant was mistaken with respect to the factual situation of whether she had received all of the tax slips for her investments with TD Waterhouse. She believed that she had all of the slips and therefore was reporting all of her investment income when she reported the income that was on these tax slips. It was reasonable for her to assume that she had all of her slips (and therefore all of her investment income) as she checked with TD Waterhouse (who held her investments) to confirm that she had all of her slips. They confirmed that she did. Her mistake in failing to report the income as disclosed in the missing T5 slip was innocent and a reasonable person in the same circumstances would have made the same mistake.
+[13] It also seems to me that the Appellant took all reasonable precautions to avoid any failure to report any investment income. As noted she confirmed with TD Waterhouse that she had all of the tax slips for her investment income in April 2008 before she filed her tax return for 2007. Since all of her investments were held by TD Waterhouse, TD Waterhouse is the person who would have received the investment income and is the person who ought to know what investment income the Appellant would have earned in 2007 and therefore what tax slips the Appellant should have received for 2007.
+[14] As a result the appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty imposed pursuant to subsection 163(1) of the Income Tax Act in relation to the income tax return that she filed for 2007 is deleted.
+[15] The Respondent shall pay costs to the Appellant in the amount of $500.
+Signed at Halifax, Nova Scotia, this 19th day of July 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC381
+COURT FILE NO.: 2010-277(IT)I
+STYLE OF CAUSE: CHRISTINA THOMPSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: July 19, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 TCC 286, [2009] G.S.T.C. 90, [2009] 2009 G.S.T.C. 118.

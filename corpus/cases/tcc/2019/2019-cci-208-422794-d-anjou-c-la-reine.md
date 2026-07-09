@@ -1,0 +1,282 @@
+---
+title: "D'Anjou c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/422794/index.do"
+last_modified: "2019-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 208"
+citation2: ""
+neutral_citation: "2019 CCI 208"
+decision_date: "2019-10-04"
+language: "fr"
+item_id: "422794"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4193
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:02:27.513000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "05badfe9ad7deafe10064b318145cb07def5be8676e4c55673a3e5cef6217d59"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# D'Anjou c. La Reine
+
+- Citation: 2019 CCI 208
+- Decision date: 2019-10-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4193, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Anjou c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-04
+Référence neutre
+2019 CCI 208
+Numéro de dossier
+2018-720(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-720(IT)I
+ENTRE :
+RÉAL D'ANJOU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel fixé pour audition le 11 juin 2019, à Sherbrooke (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Dominic Bédard-Lapointe
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu en date du 27 novembre 2017 à l’égard de l’année d’imposition 2012 de l’appelant est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2019.
+« Réal Favreau »
+Juge Favreau
+Référence : 2019 CCI 208
+Date : 20191004
+Dossier : 2018-720(IT)I
+ENTRE :
+RÉAL D'ANJOU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi ») par le ministre du Revenu national (le « ministre »), datée du 27 novembre 2017 concernant l’année d’imposition 2012 de l’appelant.
+Historique du dossier
+[2] Le 30 avril 2013, l’appelant a produit sa déclaration de revenu pour l’année d’imposition 2012 en déclarant, entre autres, un gain en capital d’un montant de 98 577 $ relativement à la disposition d’un terrain désigné comme étant le lot 1257530, Paroisse Saint-Ambroise (ci-après le « terrain »).
+[3] Le 28 mai 2013, le ministre a établi à l’égard de l’appelant une cotisation initiale pour l’année d’imposition 2012 conformément à la déclaration de revenu produite.
+[4] Le 24 novembre 2016, le ministre a établi à l’égard de l’appelant une nouvelle cotisation pour l’année d’imposition 2012 par laquelle il a apporté les redressements suivants :
+[5] Le 27 novembre 2017, en réponse à un avis d’opposition, le ministre a établi une deuxième nouvelle cotisation afin d’apporter les redressements suivants :
+i) diminuer le gain en capital d’un montant de 5 749 $ pour établir le gain en capital à un montant de 227 113 $ et le gain en capital imposable à un montant de 113 557 $; et
+ii) appliquer, à la demande de l’appelant, une perte en capital nette à l’encontre du gain en capital d’un montant de 9 949 $ provenant de l’année d’imposition 2015.
+Les questions en litige
+[6] Le ministre était-il justifié d’établir une nouvelle cotisation pour l’année d’imposition 2012 après l’expiration de la période normale d’établissement de nouvelle cotisation?
+[7] Le ministre était-il justifié d’augmenter le gain en capital imposable de l’appelant d’un montant de 64 269 $ (113 557 $ - 49 288 $) pour l’année d’imposition 2012?
+Les hypothèses de faits du ministre
+[8] Pour fixer l’impôt payable par l’appelant pour l’année d’imposition 2012, le ministre a tenu pour acquis les faits suivants, énoncés au paragraphe 7 de la réponse à l’avis d’appel :
+Calcul du gain en capital par le Ministre :
+(a) Le 28 août 1997, l’appelant a acquis le terrain au prix de 180 000 $.
+(b) Lors de l’acquisition, l’appelant a engagé les frais ci-après inhérents à cette acquisition :
+honoraires professionnels d'un montant de 5 893 $ qui ont été payés à une société au nom d’EnvirAqua inc.
+ii. droit de mutation d’un montant de 1 550 $;
+(c) Le 26 septembre 2012, l’appelant a disposé du terrain au produit de 425 000 $.
+(d) L’appelant a engagé les frais ci-après inhérents à cette disposition :
+honoraires du notaire d’un montant de 4 695 $;
+ii. commissions d’agent immobilier d’un montant de 5 749 $;
+(e) L’appelant n’a pas utilisé le terrain à des fins commerciales;
+(f) Le Ministre a déterminé, le gain en capital imposable du terrain de la manière suivante :
+Réclamation de dépenses additionnelles
+(g) À l’étape de l’opposition, l’appelant a demandé de réduire son gain en capital d’un montant additionnel de 224 295 $ ce que le ministre a refusé.
+(h) Ce montant se détaille de la manière suivante :
+Taxe municipale de ville de Québec de 1997 à 2012
+92 064
+Taxe de la Commission scolaire de la Capitale de 1997 à 2012
+7 484
+Frais d’entretien et de maintenance de 1997 à 2012
+57 600
+Honoraires professionnels
+19 147
+Intérêt et frais financiers
+48 000
+Total
+224 295$
+(i) Le montant de 19 147 $ réclamé à titre d’honoraires professionnel se détaille de la manière suivante :
+Description
+Montant
+Martin Roy avocat
+4 695
+Notaire à l’achat
+1 870
+Leonard & Labrecque
+1 770
+Techni-Génie
+1 680
+Gestion Logim
+7 833
+Frais de main levée
+1 300
+Total
+19 147$
+(j) L’appelant n’a pas engagé les dépenses additionnelles indiquées au sous-paragraphe 7 h) sauf les montants suivants :
+Taxe municipale de la Ville de Québec :
+Année
+Montant
+1999
+5 754
+2000
+5 754
+2001
+5 726
+Total
+17 234$
+ii. Taxe de la Commission scolaire de la capitale:
+Année
+Montant
+1999
+490
+2000
+490
+Total
+980$
+[9] Pour déterminer que l’appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant sa déclaration de revenus pour l’année d’imposition 2012, le ministre s’est appuyé sur les faits suivants :
+(a) le redressement est important par rapport au revenu total déclaré par l’appelant pour l’année d’imposition 2012.
+(b) l’appelant aurait dû savoir que son revenu était sous-estimé lors de la production de sa déclaration de revenus pour l’année d’imposition 2012.
+[10] À ce stade des procédures, le PGC ajoute ce qui suit pour déterminer que l’appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant sa déclaration de revenus pour l’année d’imposition 2012 :
+(a) l’appelant est ingénieur de formation;
+(b) l’appelant a été impliqué auparavant dans des vérifications fiscales;
+(c) l’appelant a été impliqué auparavant dans des transactions fiscales notamment des roulements pour lesquelles il a fait recours à des spécialistes.
+[11] Monsieur D’Anjou a témoigné à l’audience pour expliquer les circonstances entourant l’acquisition du terrain sur lequel il prévoyait construire le projet commercial de la Place Armand Viau dans la région de Québec.
+[12] Monsieur D’Anjou a une formation d’ingénieur en génie civil et il œuvrait auprès de la société EnvirAqua inc., un bureau d’ingénieurs situé à Saint-Hyacinthe. Monsieur D’Anjou était également le seul actionnaire, administrateur, dirigeant et fondé de pouvoir de la société Les Placements Réal D’Anjou Inc., une société de portefeuille constituée le 8 juillet 1987 en vertu de la Loi sur les compagnies Partie 1A du Québec.
+[13] Monsieur D’Anjou est devenu propriétaire du terrain dont la disposition fait l’objet du présent litige le 28 août 1997 pour l’avoir acquis de la société Les Placements Réal D’Anjou Inc. pour un prix de 180 000 $. Les Placements Réal D’Anjou Inc. avait elle-même acquis ce terrain de Gestions Logim Inc. le 16 novembre 1992 en dation en paiement d’un prêt de 210 000 $ garanti par une hypothèque immobilière sur le terrain.
+[14] Monsieur D’Anjou n’a pas expliqué les raisons pour lesquelles il a acquis le terrain de la société Les Placements Réal D’Anjou Inc.
+[15] Le terrain a été vendu à la société Boutique Contact Inc., le 26 septembre 2012 pour un prix de 425 000 $. À l’acte de vente notarié, le terrain est décrit comme un terrain vague à l’égard duquel une servitude réelle et perpétuelle d’aqueduc et d’égout a été enregistrée en faveur de la Ville de Québec le 7 janvier 1997 et publiée le lendemain. Le vendeur a déclaré que le terrain était, immédiatement avant la signature de l’acte de vente, une immobilisation du vendeur utilisée principalement dans le cadre d’activités commerciales. En conséquence, la vente était taxable selon les dispositions de la Loi sur la taxe d’accise.
+[16] De 1997 à 2012, monsieur D’Anjou prétend avoir encouru des dépenses décrites aux paragraphes 8 (h) et (i) ci-dessus qui ne sont pas inhérentes à la vente du terrain. Pendant cette période, monsieur D’Anjou n’a tiré aucun revenu de ce terrain qui a servi de stationnement pour l’entrepreneur qui s’occupait de l’entretien du terrain.
+[17] Pour les taxes municipales et scolaires, l’appelant a dû estimer les montants puisqu’il n’avait pas tous les relevés de taxes. Pour les taxes municipales, le véritable montant est de 67 828,05 $ (incluant les services spécifiques). Pour les taxes scolaires, le véritable montant pour la période est de 6 165,06 $.
+[18] Pour les frais d’entretien et de maintenance, monsieur D’Anjou les a estimés à 57 600 $, soit 3 600 $ par année pendant 16 ans. Pour appuyer sa réclamation, monsieur D’Anjou n’a produit que deux lettres de Gilles Therriault datées du 25 octobre et du 4 novembre 2004 qui indiquent des travaux effectués à un coût de 700 $.
+[19] Les honoraires professionnels encourus au cours de la période de 1997 à 2012 pour la préparation de plans, pour la réalisation de différentes études et pour l’obtention d’avis juridiques se répartissent comme suit :
+Groupe EnvirAqua
+5 892,70 $
+Martin Roy, avocat
+4 694,90 $
+Léonard Labrecque, notaires
+1 770,00 $
+Techni-Génie (inspection du site)
+1 680,00 $
+Gestions Logim (étude de rentabilité et de prêt hypothécaire)
+7 833,00 $
+Total :
+21 870,60 $
+[20] Au soutien des honoraires des Gestions Logim, l’appelant a produit une facture datée du 2 avril 2002 qui comporte un montant de taxe sur les produits et services d’un montant qui ne correspond pas au taux alors en vigueur et sur laquelle le numéro de téléphone de Gestions Logim a été raturé. De plus, la société Les Gestions Logim Inc. a été dissoute le 16 janvier 1993 pour non-production des rapports annuels.
+[21] Concernant les services rendus par EnvirAqua inc., l’appelant a produit une facture datée du 7 août 1999 indiquant notamment des honoraires professionnels au montant de 5 400 $ sans description des services rendus et sans taxe de vente du Québec.
+[22] Dans les dépenses décrites au paragraphe 8 (h) ci-dessus, un montant de 48 000 $ est réclamé pour des intérêts et frais financiers. Monsieur D’Anjou a expliqué que cette somme représentait des intérêts calculé à un taux annuel de 3% sur un emprunt de 100 000 $ contracté auprès de plusieurs institutions dont Les Placements Réal D’Anjou, la Banque Nationale du Canada, la Banque canadienne impériale de Commerce et Gestions Logim ( 100 000 $ x 3 % = 3 000 $ par an pendant 16 ans = 48 000 $). L’appelant n’a produit aucune preuve documentaire à cet égard.
+[23] Madame Rebecca Hardy, agente des appels auprès de l’Agence du Revenu du Canada (l’« ARC »), a également témoigné à l’audience. Elle a relaté le fait que monsieur D’Anjou n’avait pas rapporté un gain en capital de 200 000 $ en 2001. Elle a expliqué que monsieur D’Anjou a également fait l’objet d’une vérification par l’Agence du Revenu du Québec pour la même période et qu’il ne s’est pas opposé au montant du gain en capital révisé de 232 862 $ qui a été cotisé parce qu’il avait des pertes en capital reportables. Au niveau fédéral, il n’avait qu’une perte en capital nette de 9 949 $ provenant de l’année d’imposition 2015.
+Les dispositions de la Loi applicables
+[24] Les dispositions de la Loi qui sont applicables au présent litige sont l’article 9, l’alinéa 18(1)(a), le paragraphe 18(2), les alinéas 53(1)(h) et 152(4)(a), lesquelles sont ci-après reproduites :
+Revenu
+9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+Exclusion des gains et pertes en capital
+(3) Dans la présente loi, le revenu tiré d’un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant d’un bien exclut la perte en capital résultant de la disposition de ce bien.
+Exceptions d’ordre général
+18 (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+Restriction relative à certains intérêts et impôts fonciers
+(2) Malgré l’alinéa 20(1)c), dans le calcul du revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition, un montant n’est déductible quant à une dépense engagée par le contribuable au cours de l’année au titre :
+a) soit des intérêts sur une dette concernant l’acquisition d’un fonds de terre;
+b) soit des impôts fonciers — à l’exclusion des impôts sur le revenu ou sur les bénéfices et des impôts afférents au transfert de biens — payés ou payables par le contribuable sur un fonds de terre à une province ou à une municipalité du Canada,
+que si, compte tenu des circonstances, y compris le coût du fonds de terre pour le contribuable en rapport avec le revenu brut qu’il en tire pour l’année donnée ou en a tiré pour une année d’imposition antérieure, il est raisonnable de considérer que le fonds est au cours de l’année donnée :
+c) soit utilisé dans le cours des activités d’une entreprise que le contribuable exploite au cours de l’année donnée — à l’exclusion des activités d’entreprise dans le cours normal desquelles le fonds est principalement détenu en vue de revente ou d’aménagement;
+d) soit principalement détenu afin que le contribuable tire un revenu du fonds pour l’année donnée,
+sauf dans la mesure du total des montants suivants :
+e) l’excédent éventuel du revenu brut tiré du fonds par le contribuable pour l’année donnée sur le total des montants déduits dans le calcul du revenu qu’il tire du fonds pour l’année donnée;
+f) s’il s’agit d’une société dont l’activité d’entreprise principale consiste à louer, à vendre ou à faire de l’aménagement en vue de louer ou de vendre des biens immeubles ou réels dont elle est propriétaire, à une personne avec laquelle elle n’a aucun lien de dépendance ou pour cette personne, la déduction de base de la société pour l’année donnée.
+53(1)h) lorsque le bien est un fonds de terre du contribuable, toute somme versée par ce dernier ou par un autre contribuable à l’égard duquel le contribuable était une personne, société ou société de personnes visées aux sous-alinéas b)(i), (ii) ou (iii) de la définition de intérêts sur une dette concernant l’acquisition d’un fonds de terre au paragraphe 18(3), après 1971 et avant ce moment du fait d’une obligation légale de payer :
+(i) soit, au sens du paragraphe 18(3), des intérêts sur une dette concernant l’acquisition d’un fonds de terre,
+(ii) soit des impôts fonciers (sauf l’impôt sur le revenu ou sur les bénéfices ou l’impôt afférent au transfert des biens fonciers) sur ce bien, à une province ou à une municipalité canadienne,
+dans la mesure où cette somme, par l’effet du paragraphe 18(2), selon le cas :
+(iii) n’était pas déductible dans le calcul du revenu du contribuable tiré du fonds de terre ou d’une entreprise pour une année d’imposition commençant avant ce moment,
+(iv) n’était pas déductible dans le calcul du revenu de l’autre contribuable et n’était pas comprise dans le coût d’un bien pour lui, ou ajoutée à ce coût, autrement que par l’effet de l’alinéa d.3) ou du sous-alinéa e)(xi);
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+Analyse
+[25] Dans un premier temps, il y a lieu de considérer si le ministre était justifié d’établir une nouvelle cotisation pour l’année d’imposition 2012, soit après l’expiration de la période normale de nouvelle cotisation.
+[26] Selon les dispositions du paragraphe 152(4) de la Loi, pour que le ministre puisse procéder à l’établissement d’une nouvelle cotisation, le contribuable ou la personne produisant la déclaration de revenu du contribuable doit avoir fait une présentation erronée des faits dans ladite déclaration par négligence, inattention ou omission volontaire.
+[27] Dans le cas présent, l’appelant a déclaré un gain en capital de 98 577 $ alors qu’il aurait dû être de 227 113 $, ce dernier ayant mal estimé le prix de base rajusté du terrain.
+[28] À mon avis, cela est suffisant pour engager la responsabilité de l’appelant puisqu’il s’agit d’une présentation erronée des faits par négligence ou inattention.
+[29] L’appelant connaissait très bien les règles applicables pour calculer le prix de base rajusté du terrain en ce qui a trait aux taxes scolaires et municipales et aux intérêts sur les sommes empruntées pour acquérir l’immeuble puisqu’il a fait face au même problème pour les années d’imposition 2001, 2002 et 2003 suite à la disposition d’un terrain vacant situé à Saint-Hyacinthe (voir à ce sujet la décision D’Anjou c. Québec (Sous ministre du Revenu), 2008 QCCQ 7197 (Cour du Québec)).
+[30] Dans les circonstances, la présentation erronée des faits n’est pas attribuable à une erreur involontaire mais est plutôt attribuable à la négligence de l’appelant.
+[31] Par conséquent, le ministre était justifié de cotiser l’appelant après la période normale de nouvelle cotisation.
+[32] Dans un deuxième temps, il y a lieu de considérer si le terrain était détenu à des fins commerciales pendant la période de détention par l’appelant, soit pendant une période de 16 ans.
+[33] Selon l’appelant, le but et les intentions réelles pour l’acquisition du terrain étaient de réaliser et développer un centre commercial décrit comme étant « La Place Armand Viau. » Le projet impliquait la construction d’un bâtiment dont les locaux seraient loués pour des bureaux, des commerces et des entrepôts.
+[34] L’appelant allègue avoir encouru de nombreuses dépenses pour réaliser le projet dont des esquisses d’un édifice, des estimations de coûts de construction (avec ou sans l’acquisition d’un terrain adjacent) et de conditions de financement et des estimés de grilles de loyers. Toutes ces études ont été réalisées par Les Gestions Logim Inc. qui apparaît être le promoteur dans la documentation remise aux locataires potentiels rencontrés.
+[35] Selon la preuve, le projet de construction d’un édifice commercial n’a jamais vu le jour et le terrain est demeuré vacant jusqu’à ce qu’il soit vendu. Le terrain n’a pas été utilisé par l’appelant dans le cadre de l’exploitation d’une entreprise et n’a généré aucun revenu pendant la période de détention par l’appelant. Par conséquent, le terrain doit être considéré comme une immobilisation puisqu’il n’a pas servi à gagner du revenu d’entreprise, ni du revenu de bien.
+[36] Comme le paragraphe 9(3) de la Loi prévoit que le revenu tiré d’un bien exclut le gain en capital réalisé à la disposition de ce bien, les dépenses additionnelles réclamées par l’appelant d’un montant de 224 295 $ ne peuvent être déduites dans le calcul de son revenu parce qu’elles n’ont pas été engagées ou effectuées par l’appelant en vue de tirer un revenu d’une entreprise ou d’un bien, comme l’exige l’alinéa 18(1)(a) de la Loi.
+[37] De plus, les dépenses additionnelles d’une montant de 224 295 $ réclamées par l’appelant ne constituent pas des dépenses en capital qui peuvent être ajoutées au coût du terrain parce qu’elles n’ont pas été encourues ou engagées pour acquérir un bien ou dans le but d’apporter une amélioration du terrain.
+[38] Concernant le calcul du prix de base rajusté du terrain, le ministre a eu raison de refuser l’ajout des taxes municipales et scolaires et les déboursés des frais de financement au prix de base rajusté du terrain.
+[39] L’alinéa 53(1)(h) de la Loi prévoit l’augmentation du prix de base rajusté d’un bien qui est un fonds de terre du contribuable dans les cas où la déduction des impôts fonciers ou des intérêts sur une dette concernant l’acquisition d’un fonds de terre a été refusée en raison de l’application du paragraphe 18(2) de la Loi.
+[40] Dans le cas présent, la déduction des taxes foncières des frais d’intérêts n’a pas été refusée en raison du paragraphe 18(2) de la Loi mais plutôt parce que ces dépenses n’ont pas été faites ou encourues en vue de tirer un revenu d’une entreprise ou d’un bien.
+[41] Pour ces motifs, l’appel de monsieur D’Anjou est rejeté.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2019.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2019 CCI 208
+Nº DU DOSSIER DE LA COUR :
+2018-720(IT)I
+INTITULÉ DE LA CAUSE :
+RÉAL D'ANJOU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L’AUDIENCE :
+le 11 juin 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 4 octobre 2019
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Dominic Bédard-Lapointe
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+n/a
+Cabinet :
+n/a
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

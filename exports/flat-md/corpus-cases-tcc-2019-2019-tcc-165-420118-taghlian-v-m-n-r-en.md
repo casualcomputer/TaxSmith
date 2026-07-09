@@ -1,0 +1,224 @@
+---
+title: "Taghlian v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420118/index.do"
+last_modified: "2019-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 165"
+citation2: ""
+neutral_citation: "2019 TCC 165"
+decision_date: "2019-08-14"
+language: "en"
+item_id: "420118"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4223
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:06:28.225000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a9e2393fb852734b41ccc33d10521cd8bb8d10749ecbf233545ce33ccc121c89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Taghlian v. M.N.R.
+
+- Citation: 2019 TCC 165
+- Decision date: 2019-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4223, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taghlian v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-14
+Neutral citation
+2019 TCC 165
+File numbers
+2018-1689(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2018-1689(EI)
+BETWEEN:
+LINDA TAGHLIAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on January 15, 2019, at Montréal, Québec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabriel Girouard
+JUDGMENT
+The appeal from the Minister of National Revenue’s determination regarding the insurability of the Appellant’s employment with 9249-7403 Québec Inc. during the period of August 7, 2017 to November 30, 2017 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of August 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 165
+Date: 20190814
+Docket: 2018-1689(EI)
+BETWEEN:
+LINDA TAGHLIAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the determination by the Minister of National Revenue (the “Minister”) that the Appellant did not hold insurable employment based on paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act, S.C. 1996, c.23 (the “EIA”) while the Appellant worked for 9249-7403 Québec Inc. during the period of August 7, 2017 to November 30, 2017.
+[2] The Minister was of the opinion that the Appellant was related to 9249-7403 Québec Inc. as that company was controlled by her common-law spouse, Mr. El-Khoury, that the Appellant did not have an arm’s length relationship with 9249-7403 Québec Inc. and that, if the Appellant and 9249-7403 Québec Inc. had been dealing at arm’s length, the Appellant would not have entered into a substantially similar contract of employment that the Appellant did in fact enter into.
+[3] Paragraphs 5(2)(i) and 5(3)(a) and (b) of the EIA read as follows:
+5(2) Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+...
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[4] In making his determination, the Minister relied on the following assumptions of fact:
+(a) the Payer operated an IT consulting services business;
+(b) the Payer's business operated on a year-round basis;
+(c) the Payer was a corporation;
+(d) the Payer incorporated on August 12, 2011;
+(e) the sole shareholder of the Payer was Simon El-Khoury ("Mr. El-Khoury");
+(f) Mr. El-Khoury controlled the day-to-day operations of the Payer;
+(g) the Appellant was Mr. El-Khoury's common-law spouse;
+(h) the Appellant was hired by the Payer under a verbal agreement;
+(i) the Appellant was hired as an employee of the Payer's business;
+(j) the Appellant and Mr. Khoury were the Payer's only employees;
+(k) the Appellant was hired by the Payer to provide services as an executive assistant;
+(l) the Payer offered the job to the Appellant as she had helped with the business in the past, without remuneration;
+(m) the Payer did not consider any other individuals for the position;
+(n) the Appellant began providing her services to the Payer in 2013;
+(o) the Appellant's duties included:
+(i) verifying documents;
+(ii) researching for potential clients online;
+(iii) organizing the office;
+(iv) completing data entry;
+(v) completing the Payer's banking; and
+(vi) running errands;
+(p) the Appellant completed her duties from the Payer's office space;
+(q) the Payer's office space was located in the Appellant's family residence;
+(r) the Payer trained the Appellant on an as-needed basis;
+(s) the Payer's accountant completed the duties related to source deductions, GST/HST, accounts receivable and payable, payroll, financial statements and invoicing;
+(t) the Appellant had two young children, born in 2015 and 2016;
+(u) during the Period, the Appellant cared for her children at home and on a full-time basis;
+(v) the Payer and the Appellant determined the Appellant's schedule;
+(w) the Appellant worked Monday to Friday, from 9am to 6pm;
+(x) the Appellant worked 45 hours per week;
+(y) the Appellant occasionally worked after her regular hours, or on the weekend if needed;
+(z) the Appellant was available to the Payer at all times;
+(aa) the Appellant did not record her hours of work;
+(bb) the Payer determined the Appellant's rate of pay;
+(cc) the Appellant was paid $5,000 per month;
+(dd) the Appellant was paid by cheque on a monthly basis;
+(ee) the Appellant was paid the same amount regardless of the number of hours she worked;
+(ff) the Appellant received a bonus from the Payer in the amount of $10,500;
+(gg) the bonus was issued to the Appellant as the Payer intended to shut down the business;
+(hh) the Appellant used a company car to run errands on a year-round basis;
+(ii) the Appellant used a company cell phone on a year-round basis;
+(jj) the car and cell phone were paid for by the Payer;
+(kk) the Appellant left on maternity leave in 2015 and again in 2016:
+(ll) while on maternity leave, the Payer did not replace the Appellant;
+(mm) the Payer assumed the Appellant's duties while she was on maternity leave;
+(nn) the Appellant returned from maternity leave in August of 2017;
+(oo) during the Period, the Payer did not report any sales;
+(pp) during the Period, the Payer did not have any client contracts;
+(qq) according to GST/HST returns, the Payer's business reported no sales since October 31, 2016;
+(rr) the Appellant was laid off in November of 2017 as the Payer's business had no work;
+(ss) the Appellant continued to use the Payer's tools of work (ex. car and cell phone) after the Period; and
+(tt) the Appellant continued to provide occasional services to the Payer on an as-needed basis, without remuneration, after the Period.
+[5] Ms. Taghlian testified at the hearing. She agreed with all the assumptions of fact on which the Minister relied upon that are listed in paragraph 8 of the Reply to her Notice of Appeal except for the following:
+a) at paragraph (l), she stated that she had helped with the business of her spouse in the past, without remuneration but that it has not been done on a regular basis;
+b) at paragraph (m), she denied it because her spouse did interview other persons for the job;
+c) at subparagraph (o)(v), she denied it because she did not have access to the bank account of 9249-7403 Québec Inc. nor to its accounting;
+d) at paragraph (u), she denied it because in 2016 her daughter was in daycare;
+e) with respect to paragraphs (v) and (x), she stated that she was normally working from 9:00 a.m. to 5:00 p.m. every day for a total of 40 to 45 hours per week and occasionally in evenings if extra work was needed;
+f) at paragraph (ee), she stated that she received a fixed pay of $5,000 per month but that she always worked more than 40 hours per week;
+g) with respect to paragraphs (ff) and (gg), she stated that the $10,500 bonus was received in 2017 and she denied it because 9249-7403 Québec Inc. was not then shutting down its business;
+h) paragraphs (oo) and (qq) were ignored because she did not know if the statements were correct;
+i) paragraph (pp) was denied because 9249-7403 Québec Inc. always had contracts with clients;
+j) at paragraph (rr), she stated that she was laid off in December of 2017 and that she applied for employment insurance at the end of December of that year.
+[6] During her testimony, Ms. Taghlian further explained that she had been on maternity leave in 2015 and 2016 and that she received maternity benefits in each of those years. She also stated that no one replaced her while she was on maternity leave.
+[7] Ms. Taghlian described her duties as including the verification of documents and their translation from French to English, the preparation of presentations to potential clients, the research on line, the data entries, the organization of the office, the running of the errands twice a week and some bookkeeping. She considered herself as being an executive assistant although the accountant of 9249-7403 Québec Inc. was taking care of the deductions at source, the Goods and Services tax returns, the accounts payable and receivable, the financial statements and the invoicing of clients.
+[8] In performing her duties, she used all year round a company car to run errands and a company cellphone at the company’s expense.
+[9] When cross-examined, Ms. Taghlian recognized that, during the years 2016 and 2017, her spouse was hired as a full-time employee of the National Bank of Canada and that he had contracts with the bank since 2011. She further said that, despite the reduction in the number of contracts during the years 2016 and 2017, she was still working 40 hours per week for 9249-7403 Québec Inc.
+[10] Mrs. Claire Grant, a rulings officer with the Canada Revenue Agency (the “CRA”), testified at the hearing to introduce into evidence the following documents:
+- the ruling report requested by Service Canada, which ruling has been appealed and confirmed in this case;
+- the list of T4s issued by 9249-7403 Québec Inc. from 2012 to 2017;
+- the GST/HST reports of 9249-7403 Québec Inc. showing the sales from August 31, 2014 to October 31, 2018; and
+- the income tax return summary for the taxation years ending on July 31, 2012, 2013, 2014, 2015, 2016 and 2017.
+Analysis and Conclusion
+[11] It is clear from the facts that the parties intended to establish an employer/employee relationship and that the Appellant was engaged by 9249-7403 Québec Inc. under a contract of service for the period under review.
+[12] It is also clear that the Appellant was not dealing at arm’s length with 9249-7403 Québec Inc. because she was related to her common-law spouse who was the sole shareholder of 9249-7403 Québec Inc. For income tax purposes, the Appellant is related to her common-law spouse and to the company that her common-law spouse controlled and persons related to each other are deemed not to be dealing at arm’s length by virtue of paragraph 251(1)(a) of the Income Tax Act.
+[13] Consequently, the Appellant’s employment with 9249-7403 Québec Inc. is excluded from insurable employment pursuant to paragraph 5(2)(i) of the EIA because the Appellant and 9249-7403 Québec Inc. are deemed not to be dealing with each other at arm’s length during the period under review.
+[14] Paragraph 5(3)(b) of the EIA provides for an exception to the above-mentioned rule. It provides that an employer and a related employee are deemed to deal with each other at arm’s length if the Minister is satisfied that, having regard to all circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[15] The functions of the Tax Court of Canada judge in an appeal from determination by the Minister on the exclusion provisions contained in subsection 5(2) and (3) of the EIA has been described by Chief Justice Richard (as he then was) of the Federal Court of Appeal in Denis v. Canada (Minister of National Revenue – M.N.R.), 2004 FCA 26 in the following terms:
+… is to inquire into all the facts with the parties and the witnesses called for the first time to testify under oath, and to consider whether the Minister's conclusion still seems reasonable. However, the judge should not substitute his or her own opinion for that of the Minister when there are no new facts and there is no basis for thinking that the facts were misunderstood …
+[16] The analysis of all the facts relating to this appeal, including the oral and documentary evidence and the terms and conditions of the Appellant’s employment, reveals that there are no new facts that were not taken into account by the Minister in making his determination and, I find no indication that the facts were misunderstood or misapplied by the Minister.
+[17] A review of all the circumstances of the Appellant’s employment, with specific reference to the terms and condition, the remuneration, and the nature and importance of the work performed, indicates that it would not be reasonable to conclude that 9249-7403 Québec Inc. would have entered into a substantially similar contract of employment with a person with whom it had been dealing with at arm’s length.
+[18] In particular, the following terms and conditions of the Appellant’s employment clearly indicate that they were not reasonable:
+- the working hours were not recorded;
+- the work was performed on an as-needed basis and was not necessarily paid both before and after the period in review;
+- the Appellant was babysitting at least one of her children while working;
+- the Appellant was more available than a non-related person;
+- the Appellant had use all year round of a cellphone and car belonging to 9249-7403 Québec Inc.;
+- the Appellant received an executive assistant salary but her tasks did not justify such a remuneration;
+- the Appellant received in 2017 a bonus of $10,500 while 9249-7403 Québec Inc. was closing down its operations. No sales and no GST were reported by 9249-7403 Québec Inc. in 2017;
+- the work performed by the Appellant was not essential to 9249-7403 Québec Inc. since during her two maternity leaves, no replacement has been hired by 9249-7403 Québec Inc.
+[19] For all these reasons, I would dismiss the appeal.
+Signed at Ottawa, Canada, this 14th day of August 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 165
+COURT FILE NO.:
+2018-1689(EI)
+STYLE OF CAUSE:
+LINDA TAGHLIAN AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+January 15, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+August 14, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

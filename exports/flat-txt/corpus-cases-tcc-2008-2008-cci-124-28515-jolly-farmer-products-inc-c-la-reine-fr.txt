@@ -1,0 +1,134 @@
+Title: Jolly Farmer Products Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28515/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-124-28515-jolly-farmer-products-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-27
+
+# Jolly Farmer Products Inc. c. La Reine
+
+- Citation: 2008 CCI 124
+- Decision date: 2008-02-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1244, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jolly Farmer Products Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-27
+Référence neutre
+2008 CCI 124
+Numéro de dossier
+2005-1804(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1804(IT)G
+ENTRE :
+JOLLY FARMER PRODUCTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue par conférence téléphonique le 25 février 2008,
+à Ottawa (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l’appelante :
+Me John Townsend
+Avocat de l’intimée :
+Me Cecil Woon
+____________________________________________________________________
+ORDONNANCE
+UNE REQUÊTE ayant été présentée par l’appelante en vue de l’obtention d’une ordonnance radiant certaines hypothèses figurant dans la réponse à l’avis d’appel ou, subsidiairement, d’une ordonnance portant que l’intimée a la charge de prouver ces hypothèses;
+La requête est rejetée.
+La question des dépens de la requête sera tranchée après l’instruction.
+L’instruction des présents appels aura lieu le lundi 23 juin 2008, à 9 h 30, aux bureaux de la Cour canadienne de l’impôt, Westmorland Place, 82, rue Westmorland, Fredericton (Nouveau‑Brunswick).
+Signé à Ottawa, Canada, ce 27e jour de février 2008.
+« D.G.H. Bowman »
+D.G.H. Bowman, juge en chef
+Traduction certifiée conforme
+ce 10e jour d’avril 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI124
+Date : 20080227
+Dossier : 2005-1804(IT)G
+ENTRE :
+JOLLY FARMER PRODUCTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Bowman
+[1] La présente requête a été entendue par conférence téléphonique. De longs affidavits et de nombreuses décisions faisant autorité ont été soumis.
+[2] L’appelante cherche à faire radier certaines hypothèses figurant dans la réponse à l’avis d’appel. Selon les faits exposés dans les actes de plaidoirie (lesquels peuvent être différents de ceux qui seront établis à l’instruction), l’appelante possédait une terre à Northampton (Nouveau‑Brunswick). L’appelante exploitait une entreprise agricole et une serre. Elle comptait environ 80 actionnaires et jusqu’à 200 employés qui n’étaient pas des actionnaires.
+[3] Sur la terre appartenant à l’appelante, il y avait apparemment un « village » et un bâtiment appelé les « dépendances » où l’on entreposait de l’équipement. Il s’agit principalement de savoir si l’appelante a droit à une déduction pour amortissement pour le village, les dépendances et l’équipement qui s’y trouve, et si certains frais de défrichage du terrain peuvent être déduits.
+[4] Selon la position prise par la Couronne, la terre n’a pas été acquise en vue de produire un revenu et le coût de défrichage du terrain n’était pas une dépense engagée afin de générer un revenu. Il s’agit strictement d’une question factuelle.
+[5] Les paragraphes que l’appelante veut faire radier sont les suivants :
+[traduction]
+m) tous les actionnaires de l’appelante doivent être membres d’une communauté chrétienne qui mène une vie spirituelle et temporelle stricte (l’« Église »);
+n) tous les actionnaires de l’appelante doivent suivre les règles et enseignements de l’Église;
+p) tous les actionnaires de l’appelante sont tenus d’avoir un train de vie simple et d’être aussi autonomes que possible;
+q) un actionnaire de l’appelante peut être renvoyé et l’appelante a le droit de racheter les actions d’un actionnaire qui ne suit pas les règles et enseignements de l’Église ou qui ne vit pas dans les locaux de l’appelante;
+r) pendant la période pertinente, George Eversfield était chef de l’Église;
+ddd) pendant la période pertinente, le village, la ferme, les dépendances et l’exploitation agricole extérieure permettaient aux actionnaires de l’appelante de vivre conformément aux règles et enseignements de l’Église;
+eee) pendant la période pertinente, le village, la ferme, les dépendances et l’exploitation agricole extérieure permettaient aux actionnaires de l’appelante de vivre dans une communauté fondée sur un ensemble de valeurs religieuses communes, y compris les valeurs mentionnées à l’alinéa p);
+[6] Les moyens invoqués à l’égard de la requête visant la radiation des alinéas en question sont les suivants :
+[traduction]
+a) Les hypothèses énoncées dans les alinéas en question peuvent compromettre ou retarder l’instruction équitable de l’appel;
+b) Les hypothèses énoncées dans les alinéas en question sont scandaleuses, frivoles et vexatoires;
+c) Les hypothèses énoncées dans les alinéas en question constituent un recours abusif à la Cour;
+d) Les hypothèses énoncées dans les alinéas en question ne sont ni importantes ni pertinentes en ce qui concerne les questions en litige;
+e) Les hypothèses énoncées dans les alinéas en question représentent l’avis d’un répartiteur;
+f) Les hypothèses énoncées dans les alinéas en question sont si peu pertinentes que si elles étaient maintenues, cela entraînerait des dépenses inutiles et compromettrait l’appel du fait que les parties seraient engagées dans un différend qui n’a absolument rien à voir avec les questions en litige;
+g) Tout autre moyen que l’avocat juge bon d’invoquer;
+h) L’appelante se fondera sur l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[7] Me Woon a contesté la requête pour le compte de l’intimée. Il a soutenu que l’appelante avait pris de nouvelles mesures après le dépôt de la réponse et qu’en vertu de l’article 8 des Règles de la Cour canadienne de l’impôt (procédure générale), l’appelante ne pouvait pas contester l’acte de plaidoirie sans l’autorisation de la Cour. Cette position est fondée, mais je préfère ne pas baser ma décision sur ce motif.
+[8] Me Townsend fait valoir que si les alinéas contestés ne sont pas radiés, l’affaire durera beaucoup plus longtemps puisqu’il se verra obligé de présenter en preuve les croyances et pratiques religieuses des actionnaires de l’appelante. J’en doute vraiment. Les hypothèses en question me semblent plutôt anodines. Même si elles étaient admises, il semble qu’elles ne porteraient pas atteinte à la cause de l’appelante et qu’elles ne renforceraient pas celle de l’intimée.
+[9] Puisque j’ai dit dans un certain nombre de décisions qu’il est erroné pour la Couronne d’omettre complètement de plaider toutes les hypothèses émises lors de l’établissement de la cotisation, j’hésiterais à radier les hypothèses dans le cadre d’une requête préliminaire pour le motif qu’elles ne sont pas pertinentes. De fait, il serait malheureux que la Couronne décide unilatéralement d’omettre de communiquer à l’appelante une hypothèse parce qu’elle l’estime non pertinente. Ce qui peut sembler non pertinent aux yeux du rédacteur de la réponse de la Couronne peut être fort pertinent pour l’appelante. En outre, si le ministre fonde une cotisation sur un fait non pertinent, un appelant pourrait vouloir plaider que cela en soi est un fait pertinent lorsqu’il s’agit d’examiner le bien‑fondé de la cotisation. En d’autres termes, si un fondement important dans une cotisation n’est pas pertinent, cela peut contribuer fortement à laisser planer un doute sur la cotisation elle‑même.
+[10] Me Woon soutient que les pratiques et croyances religieuses des actionnaires sont une considération pertinente dans le contexte des hypothèses considérées dans leur ensemble. À l’heure actuelle, je ne suis pas convaincu de leur pertinence. À mon avis, la pertinence des croyances religieuses des actionnaires de l’appelante, en ce qui concerne la question de savoir si ce qu’il en coûte pour construire ou acquérir une propriété ou pour défricher un terrain vise à générer un revenu, ne saute pas aux yeux, compte tenu des éléments qui ont été déposés dans la présente requête. Toutefois, la pertinence de ces croyances peut ressortir de l’ensemble de la preuve et je préfère laisser la question de la pertinence être tranchée à l’instruction.
+[11] Me Townsend a également soutenu que les [traduction] « hypothèses religieuses », comme il les a appelées, n’avaient pas été communiquées à l’appelante avant l’établissement de la cotisation. Je ne crois pas que cela justifie leur radiation ou que cela ait pour effet de transmettre à l’intimée la charge de prouver quelque chose qui relève d’une façon toute particulière de la connaissance de l’appelante. Voir Orly Automobiles Inc. v. R., [2005] G.S.T.C. 200, confirmé [2004] G.S.T.C. 57.
+[12] Par conséquent, la requête est rejetée. La question des dépens sera tranchée après l’instruction, qui doit avoir lieu le lundi 23 juin 2008, à 9 h 30, aux bureaux de la Cour canadienne de l’impôt, Westmorland Place, 82, rue Westmorland, Fredericton (Nouveau‑Brunswick).
+Signé à Ottawa, Canada, ce 27e jour de février 2008.
+« D.G.H. Bowman »
+D.G.H. Bowman, juge en chef
+Traduction certifiée conforme
+ce 10e jour d’avril 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI124
+No DU DOSSIER DE LA COUR : 2005-1804(IT)G
+INTITULÉ : Jolly Farmer Products Inc.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+(CONFÉRENCE TÉLÉPHONIQUE)
+DATE DE L’AUDIENCE : Le 25 février 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef D.G.H. Bowman
+DATE DE L’ORDONNANCE ET
+DES MOTIFS DE
+L’ORDONNANCE : Le 27 février 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John Townsend
+Avocat de l’intimée :
+Me Cecil Woon
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Cox & Palmer, avocats
+Cabinet : Barker House, bureau 502
+570, rue Queen
+Fredericton (Nouveau-Brunswick)
+E3B 5E3
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada

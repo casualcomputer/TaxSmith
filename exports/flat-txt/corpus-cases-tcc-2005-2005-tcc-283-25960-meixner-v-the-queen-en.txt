@@ -1,0 +1,162 @@
+Title: Meixner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25960/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-283-25960-meixner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-31
+
+# Meixner v. The Queen
+
+- Citation: 2005 TCC 283
+- Decision date: 2005-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3758, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meixner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-31
+Neutral citation
+2005 TCC 283
+File numbers
+2003-1997(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1997(IT)G
+BETWEEN:
+KANDY L. MEIXNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on March 29 and 30, 2005 and judgment rendered orally on April 1, 2005 at St. Catharines, Ontario
+Before: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellant:
+Malte von Anrep
+Counsel for the Respondent:
+Steven D. Leckie
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995, 1996 and 1997 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessments on the basis that:
+a) The Appellant had no beneficial interest in 59 Plymouth Avenue;
+b) The Appellant had a 1/2 beneficial ownership in 47 Lakeside Drive, receiving 1/2 proceeds on capital account;
+c) The Appellant received no rental income in 1995, 1996 and 1997;
+d) Penalties imposable for Appellant's gross negligence in failing to report capital gains in disposition of 47 Lakeside Drive in 1997.
+The Appellant is entitled to no further relief.
+Signed at Ottawa, Canada, this 31st day of May, 2005.
+"Brent Paris"
+Paris, J.
+Citation: 2005TCC283
+Date: 20050531
+Docket: 2003-1997(IT)G
+BETWEEN:
+KANDY L. MEIXNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on March 29, 2005, at St. Catharines, Ontario.)
+Paris, J.
+[1] This is an appeal from reassessments of the Appellant's 1995, 1996 and 1997 taxation years, by which the Minister of National Revenue (the "Minister") included amounts in the Appellant's income as unreported rental income, an unreported capital gain and unreported business income. Penalties under subsection 163(2) of the Income Tax Act (the "Act"), R.S.C. c.1 (5th Supp.)were imposed on these amounts.
+[2] The Appellant disputes all of these items and argues, as well, that the years under appeal were statute-barred.
+[3] All of the items that were reassessed relate to transactions involving the Appellant's former husband, Mark DeMarco, from whom the Appellant separated in 2000 and whom she divorced in 2002. The separation and divorce were acrimonious and two restraining orders against Mr. DeMarco were put into evidence.
+[4] Mr. DeMarco was a businessman who, in the course of his marriage to the Appellant, operated a number of different stores and businesses. These included a jewelery store, pawnbroker, an antique and second hand store and a museum. He also bought and sold cars and real estate.
+[5] The Appellant and Mr. DeMarco both gave evidence that any real estate he bought would be put in the Appellant's name. Although it was not entirely clear why this was done, it appears that it was originally to protect Mr. DeMarco's assets from potential creditors and, later on, because it made it easier to get financing for the properties, because of the Appellant's regular full-time employment and her credit record.
+[6] The first item under appeal is a capital gain of $36,000 that has been assessed to the Appellant in her 1995 taxation year, in respect of the purchase and sale of a house located at 59 Plymouth Drive in St. Catharines. The house was the home of Mr. DeMarco's mother, who died in August, 1994. Under Mrs. DeMarco's will, she left all of her property to her two children, Mark DeMarco and his brother, Murray. Murray DeMarco was the executor of the estate.
+[7] In February of 1995, the estate transferred 59 Plymouth to the Appellant. According to the transfer deed, consideration of $30,000 was given.
+[8] In November, 1995, 59 Plymouth was sold for $66,000 to an unrelated party.
+[9] Both the Appellant and Mr. DeMarco gave evidence that the $30,000 consideration for the property was paid by Mark DeMarco to Murray DeMarco. The transaction was carried out to pay Murray DeMarco for his interest in the property.
+[10] It appears that the value of the property, when it was transferred to the Appellant, was approximately $60,000 and Murray DeMarco's interest was worth $30,000. Mark DeMarco and the Appellant both said that the property was put in the Appellant's name because this was what Mr. DeMarco did with all his properties.
+[11] It was clear that Mr. DeMarco provided the instructions to the lawyers to prepare the transfer to the Appellant and Mr. DeMarco said it was done on the advice of his lawyer.
+[12] With respect to the subsequent sale of 59 Plymouth, the Appellant said that the proceeds went to Mr. DeMarco, who used them to purchase another property or to put it into a GIC until he bought another property. She said the proceeds were not deposited in her bank account.
+[13] The Appellant denies that she had a capital gain on the sale because she says she never had beneficial ownership of the property.
+[14] The Respondent contends that since there was no written trust declaration between Mr. DeMarco and the Appellant regarding the acquisition and disposition of 59 Plymouth, that the Appellant must be found to have been acting on her own account and therefore, the gain on the sale should be taxed in her hands.
+[15] Although there was no express declaration of trust here, in my view the evidence shows that the Appellant and Mr. DeMarco both intended that the Appellant would not have beneficial ownership of 59 Plymouth and that it was being held for Mark DeMarco. As well, all of the consideration for the purchase of the property from the estate was provided by Mr. DeMarco. This was not contested.
+[16] These circumstances are sufficient to make out a resulting trust in respect of the property in favour of Mr. DeMarco, while it was being held by the Appellant.
+[17] A resulting trust may arise in circumstances where the parties have a "common intention" that the beneficial interest should not belong to the person holding legal title. Authority for this proposition can be found in the decision of the Supreme Court in Rathwell v. Rathwell [1978] 2 S.C.R. 436.
+[18] Such an intent can be inferred from the conduct of the parties, the most relevant of which, according to the Supreme Court in Pettkus v. Becker [1980] 2 S.C.R. 834, is that pertaining to the financial arrangements in the acquisition of the property.
+[19] In addition to providing the purchase money for 59 Plymouth, the evidence also shows that the proceeds from its sale were used by Mr. DeMarco to make further investments in property.
+[20] Counsel for the Respondent suggests that the resulting trust argument was not raised in the pleadings and that the Respondent was disadvantaged as a result.
+[21] While I agree that the Appellant did not specifically plead resulting or constructive trust, there is no reference to an express declaration of trust or formal trust relationship in the Notice of Appeal either. I believe that the Respondent was put on sufficient notice of the Appellant's position that she did not acquire beneficial ownership of the properties and that the specifics of that position could have been obtained through a request for particulars or on the examination for discovery.
+[22] Resondent's counsel also argued that pursuant to section 9 of the Statute of Frauds, R.S.O. 1990, C. S. 19, trusts in respect of real property must be put in writing. Section 10 of that statute provides however that this requirement is not applicable to trusts arising by operation of law, such as a resulting trust.
+[23] The second issue in this case involves the transfer of another property from the estate of Mr. DeMarco's mother to the Appellant. In this case, a house at 47 Lakeside Drive was transferred to the Appellant on November 13th, 1997 for consideration stated on the transfer deed of $30,000. The property was then transferred to an unrelated party on November 14th, 1997, for $206,400.
+[24] The Minister assessed the difference between the stated consideration given by the Appellant and the subsequent sale price as business income to her.
+[25] The Appellant maintains, once again, that she should not be taxed on this transaction because she was never the beneficial owner of the property.
+[26] 47 Lakeside was originally acquired by Mr. DeMarco in 1974 and transferred to his mother in 1977. According to Mr. DeMarco, he sold the property to his mother for $29,000. Mr. DeMarco lived in the house on the property from 1974 to 1996, and the Appellant lived there with him from 1982 to 1996. While the Appellant and Mr. DeMarco were living in the house, they made substantial improvements to it, including putting on an addition, installing a swimming pool and renovating the kitchen and bathrooms.
+[27] The Appellant and Mr. DeMarco lived in the house after Mrs. DeMarco's death in 1994 until they bought a house on Lyons Creek Road in 1996. After March of 1996, the house at 47 Lakeside remained vacant until it was sold in November, 1997.
+[28] Although 47 Lakeside formed part of Mrs. DeMarco's estate, it was not shown in the Application for Appointment of the Estate Trustee, made in the name of Murray DeMarco. No explanation was given for this.
+[29] It appears that the property was listed for sale at the end of August, 1997 in the name of the Appellant, despite the fact that the property was still registered in the name of Mrs. DeMarco. A sale was negotiated for $206,400 with a closing date of November 14th, 1997. Immediately prior to that sale, a transfer deed was executed, transferring the property into the name of the Appellant. It was signed by Mr. DeMarco and his brother, Murray, in their personal capacity and by Murray DeMarco as trustee of the estate and, as indicated, showed consideration of $30,000.
+[30] According to both the Appellant and Mr. DeMarco, no money changed hands when the transfer to the Appellant occurred. The Appellant said that Mr. DeMarco arranged for this transfer and Mr. DeMarco said that he did so on the advice of his lawyer. He could not give any other reason for doing so. He also said that his brother did not make any claim to the property and only asked for half of the proceeds from the sale of 59 Plymouth as his share of the estate.
+[31] Mr. DeMarco said that Murray accepted that 47 Lakeside was Mr. DeMarco's asset. Unfortunately, Murray DeMarco was not called as a witness to shed any light on this question.
+[32] When the property was sold to the third party on November 14th, 1997, the proceeds were used in part to pay off a mortgage on the house on Lyons Creek Road and to pay off a loan to the Appellant and Mr. DeMarco from the Appellant's mother, that had been used in the purchase of the Lyons Creek Road house.
+[33] No express declaration of trust was shown to have existed in respect of the transfer of 47 Lakeside to the Appellant. The Appellant's counsel again contends that Mr. DeMarco was the beneficial owner of the property through a resulting or constructive trust.
+[34] In my view, the circumstances surrounding this transfer are somewhat different than those relating to 59 Plymouth. I accept that no cash consideration was paid for the property, given that this was both the Appellant's and Mr. DeMarco's recollection. If any had been provided, it would only have come from Mr. DeMarco and such a payment would have bolstered the Appellant's position regarding the existence of a trust.
+[35] I would also note that by virtue of the operation of section 9 of the Estates Administration Act, R.S.O. 1990, the property had vested in Mr. DeMarco and his brother, Murray, in August, 1997, being three years after the death of Mrs. DeMarco, there having been no sale or transfer of the property by the trustee within those three years. This would explain why they both signed the transfer deed to the Appellant in their personal capacity. Reference to Section 9 of the Estates Administration Act is made on page 2 of the Deed. This means, then, that the transfer of 47 Lakeside to the Appellant was, in effect, made from Mr. DeMarco and Murray DeMarco personally for no consideration.
+[36] With respect to Mr. DeMarco's half interest that was transferred, both he and the Appellant indicated that their intention was to put the property in her name for the purpose of the sale to the third party. There was no intention for her to have beneficial ownership. The fact that Mr. DeMarco did not receive any consideration for his half interest would support their evidence in this respect.
+[37] Finally, Mr. DeMarco also used much of the proceeds to invest in other properties. This is indicative of an intention to have a continuing interest in the property after it was transferred to the Appellant and an intention to share in the proceeds from the sale to the third party.
+[38] I find, for the same reasons as given for 59 Plymouth, that the transfer of Mr. DeMarco's half interest in 47 Lakeside to the Appellant, gave rise to a resulting trust, and that Mr. DeMarco thereby retained beneficial ownership of that half interest.
+[39] However, I am unable to find that the Appellant held the remainder of the property in trust for Mr. DeMarco. The same factors of intention and conduct are not applicable in the case of the half interest which was vested in Murray DeMarco prior to the transfer to the Appellant. There is no direct or convincing evidence of why Murray transferred his interest to the Appellant for no consideration, or that he intended the Appellant to hold it in trust for Mr. DeMarco.
+[40] In order for a resulting trust to arise in respect of half of the 47 Lakeside property that was vested in Murray DeMarco, there would need to be evidence of a common intention between Murray and the Appellant that she was to hold it in trust. This evidence was lacking in the case. Furthermore, the Appellant benefited from at least part of the proceeds from the sale of 47 Lakeside through repayment of a loan that she had received from her mother, and repayment of a mortgage on the family residence.
+[41] In all the circumstances, I find that the Appellant acquired a beneficial ownership of one half of the Lakeside property and thereby became entitled to one half of the proceeds on sale.
+[42] The next issue is whether the gain realized by her on that disposition is on capital or income account. The Minister has re-assessed the Appellant on the basis that this transaction (the acquisition and sale of 47 Lakeside) was an adventure in the nature of trade.
+[43] The Respondent's counsel argues that, according to the normal tests that are applied to determine whether a transaction constitutes an adventure in the nature of trade or not, as set out in the case Happy Valley Farms v. The Queen, 86 DTC 6421, the Minister's determination was correct. He refers specifically to the short period of ownership here and the certainty the Appellant had of making a profit on the subsequent sale. Counsel also asks me to impute Mr. DeMarco's motive in the transaction to the Appellant because he appeared to be the party who arranged the sale.
+[44] I am not convinced that the ordinary tests for determining whether a transaction was a trading venture apply in the unusual circumstances here.
+[45] Firstly, the property was not purchased in an arm's length transaction. The overall context of the operation was the sale of a property that had been acquired as a result of the death of a family member. It does not bear the hallmarks of a speculative venture by the Appellant. The asset was a capital asset in the hands of Mrs. DeMarco and then in the hands of Mr. DeMarco and his brother. A sale of the property was arranged prior to the Appellant acquiring her interest in it and, while it was still capital property to the two beneficiaries. In the case of Racine Demers & Nolin v. M.N.R. 1965 DTC 5098, Mr. Justice Noel of the Exchequer Court said at page 5105:
+"The inference of an intention to make a profit by a rapid resale can also flow from the fact that the purchaser did, in fact, resell almost immediately at a profit, but only if there exists no satisfactory explanation for this rapid resale...."
+[46] The evidence here shows another reason for the rapid resale - the transaction was arranged prior to the Appellant taking title. The sale was part of an overall plan to dispose of capital property of the estate, rather than as part of a venture by the Appellant to earn a quick profit.
+[47] This is similar, in my respects, to the disposition of partnership units in the case of Continental Bank of Canada v. The Queen, 94 DTC 1858, which Bowman, J., as he then was, found to be on capital account, despite the units having been held for only three days and having been acquired with the knowledge that they would be resold in that three day period for a profit. I do not find that 47 Lakeside lost its character as capital property in the transfer to the Appellant. Therefore, her gain on that sale is on capital account.
+[48] The Appellant raised the possibility that she would be entitled to a principal residence exemption for this gain, but it is clear that she did not inhabit, let alone ordinarily inhabit, the property during the brief period she had beneficial ownership of part of it. As well, no designation of the property as principal residence was filed with her return of income as required by the Income Tax Act.
+[49] The third issue in the appeal relates to rental income that the Minister alleges the Appellant was entitled to receive from Mr. DeMarco in 1995, 1996 and 1997 on three properties she owned in Niagara Falls, Ontario. Mr. DeMarco used the properties in his various businesses and deducted a rent expense of $12,360 in the calculation of his business income for 1995. He said that he paid the mortgage, property taxes and maintenance on the properties in lieu of rent for all the years. He admitted that he did not claim a rent expense for the properties in 1996 or 1997, but said that he claimed the property tax and maintenance expenses directly in the calculation of his business income.
+[50] Mr. DeMarco based his claim for the rent deduction taken in 1995 on a document which was signed by him and the Appellant entitled "Rental Application" dated March 28th, 1993. This document was also the basis on which the Minister assessed the Appellant for rental income totalling $12,360 in 1995, $12,360 in 1996 and $15,960 in 1997.
+[51] According to the Appellant, she never entered into an agreement with Mr. DeMarco to rent him the three properties in Niagara Falls. She said she did not receive any rent from him and did not recall signing the rental application form. It was her evidence that Mr. DeMarco paid all of the expenses and dealt with all of the financial arrangements.
+[52] There was a mortgage on one of the three properties that was in the Appellant's name and the Appellant said that Mr. DeMarco would give her $450 per month in cash to make the mortgage payment.
+[53] Mr. DeMarco's evidence relating to the rental application agreement was somewhat convoluted. He admitted, however, that he did not pay any rent to the Appellant according to the terms in the rental application; instead, he said he made the mortgage payments and made repairs to the property.
+[54] He also said that the rental application form was drawn up as a result of a discussion he had with a lawyer, Mr. Nicoletti, shortly after one of the Niagara Falls properties (4593 Victoria Avenue) was purchased. Mr. Nicoletti was an acquaintance of Mr. DeMarco's and was not providing professional services to him at the time.
+[55] Mr. DeMarco indicated to Mr. Nicoletti that he might think of putting 4593 Victoria up for rent in certain circumstances rather than using it himself. Mr. Nicoletti was aware of the fact that Mr. DeMarco was not paying rent to the Appellant, and that he was paying the mortgage and repairs and suggested that Mr. DeMarco set up a rental agreement with the Appellant in order to make it appear that she was receiving a certain level of rent from the property. Mr. Nicoletti thought that this would make it easier to charge that amount of rent to a third party. Mr. DeMarco also said he believed that the Appellant was present for these discussions and signed the "Rental Application" form. The Appellant denies having any knowledge of the form or the discussions as related by Mr. DeMarco.
+[56] I accept the Appellant's evidence that she never intended to enter into a lease of the properties. In any event, it is also clear that the alleged rental agreement is not a binding agreement of the kind suggested by the Respondent. It is simply a preliminary application to rent the premises and according to its terms, it required acceptance by the landlord and the execution of a tenancy agreement "in the landlord's usual form" subsequent to the acceptance of the application. No subsequent tenancy agreement was ever drawn up.
+[57] Respondent's counsel suggests that the amounts of expenses paid by Mr. DeMarco on the properties should be considered the payment of rent, and that these amounts can support the assessment against the Appellant.
+[58] It is clear, though, that the Appellant did not receive any amounts, either in money or money's worth from Mr. DeMarco in excess of the expenses of maintaining the properties and, therefore, there is no basis for including any net rental income in her income for those years.
+[59] As a result of the preceding reasons, the only item of those reassessed which has been upheld is the inclusion of a capital gain from the sale of 47 Lakeside Drive in 1997.
+[60] Therefore, I must determine whether the Appellant's failure to include this gain on her 1997 tax return amounted to a misrepresentation which is attributable to her neglect, carelessness or wilful default such that the Minister may reassess beyond the normal reassessment period of 3 years referred to in paragraph 152(3.1)(a) of the Income Tax Act.
+[61] I must also determine whether the penalties on this amount under subsection 163(2) of the Act are warranted.
+[62] The onus is on the Respondent to prove the requisite degree of fault under both subparagraph 152(4)(a)(ii) and subsection 163(2) of the Income Tax Act.
+[63] As pointed out by counsel for the Appellant, the degree of fault under the two sections is different, with subsection 163(2) of the Act requiring proof of gross negligence.
+[64] According to the Federal Court in Venne v. The Queen, 84 DTC 6247, gross negligence involves a high degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not.
+[65] Here, the Appellant is an intelligent individual with a Grade 12 education. She has been successful in her career and works in a managerial capacity in a large company. She appreciated that she was involved in many property transactions with her former husband, but claims that she was unaware that those transactions had tax implications. Although she had access to professional assistance in those transactions and in preparing her tax returns, she did not discuss the tax implications of her business dealings with those advisors or even with her husband.
+[66] I do not accept the Appellant's testimony that she did not know that her participation in these dealings with her husband could have income tax consequences. I agree with Respondent's counsel that a person with the Appellant's level of education and experience would have had at least a basic idea that property transactions could have such consequences. I also believe that the Appellant must have been aware that her former husband's practice of putting properties in her name was out of the ordinary. She herself said that she was worried because he had put so many properties in her name, but she did not make any effort to get advice on the tax implications of those transactions.
+[67] On the whole of the evidence, it is my view that she was wilfully blind to her obligations under the Income Tax Act in failing to advise her accountant, when he was preparing her returns, of the property transactions she had been involved in, including the one dealing with 47 Lakeside. She said that she relied entirely on her former husband to take care of these matters, but did not apparently ever raise the matter with him.
+[68] I do not accept that the Appellant was prevented from fulfilling her obligations under the Income Tax Act by her former husband. The evidence simply does not support this contention. She may have chosen not to deal with these matters to avoid arguments with her former husband, but this does not excuse her from carrying out her legal duty.
+[69] I find that the Appellant's failure to report the disposition of 47 Lakeside on her 1997 tax return amounted to gross negligence, justifying the imposition of a penalty under subsection 163(2) of the Income Tax Act.
+[70] By extension, the failure to report the transaction amounted to negligence sufficient to allow the Minister to reassess beyond the normal three-year period.
+[71] The appeal is therefore allowed in part with costs.
+Signed at Ottawa, Ontario, this 31st day of May 2005.
+"B. Paris"
+Paris, J.
+CITATION: 2005TCC283
+COURT FILE NO.: 2003-1997(IT)G
+STYLE OF CAUSE: KANDY L. MEIXNER AND
+PLACE OF HEARING: St. Catharines, Ontario
+DATE OF HEARING: March 29, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 31, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Malte von Anrep
+Counsel for the Respondent:
+Steven D. Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Malte von Anrep
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

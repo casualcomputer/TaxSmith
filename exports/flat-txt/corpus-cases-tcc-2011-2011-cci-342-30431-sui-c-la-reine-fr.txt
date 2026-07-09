@@ -1,0 +1,141 @@
+Title: Sui c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30431/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-342-30431-sui-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-07-07
+
+# Sui c. La Reine
+
+- Citation: 2011 CCI 342
+- Decision date: 2011-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7961, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sui c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-07
+Référence neutre
+2011 CCI 342
+Numéro de dossier
+2011-345(IT)APP
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-345(IT)APP
+ENTRE :
+ERWIN SUI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 30 mai 2011 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+____________________________________________________________________
+ORDONNANCE
+La demande de prorogation du délai imparti pour déposer un avis d’appel concernant l’année d’imposition 1999 est rejetée, sans dépens, conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de juillet 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 342
+Date : Le 7 juillet 2011
+Dossier : 2011-345(IT)APP
+ENTRE :
+ERWIN SUI,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. LES FAITS
+[1] Le requérant a présenté une demande de prorogation du délai imparti pour déposer un avis d’appel en application du paragraphe 167(1) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de son année d’imposition 1999.
+[2] Le requérant est un avocat spécialisé dans le droit des valeurs mobilières. Il a actuellement des appels en instance concernant ses années d’imposition 1998 et 2000 à 2007.
+[3] Le requérant a déclaré qu’il est dans une situation juridique difficile. Il a précisé qu’en 1998, il a été a contraint de quitter la société d’avocats « Chitiz Sui Pundit Pathak & Sokoloff », qui avait un bureau à Toronto.
+[4] Selon le requérant, la dispute avec ses anciens associés lui a causé des pertes financières importantes en 1998. Toutefois, il n’était pas en mesure de déterminer le montant des pertes étant donné que ses anciens associés avaient refusé de lui communiquer les renseignements financiers pertinents.
+[5] En raison de ce problème concernant les pertes, le requérant n’a pas produit ses déclarations de revenus pour 1998 et 1999.
+[6] Le 18 janvier 2000, le ministre du Revenu national (le « ministre ») a demandé au requérant de produire ses déclarations de revenus pour les années d’imposition 1998 et 1999.
+[7] Le requérant a avisé le ministre qu’il ne pouvait pas produire ses déclarations de revenus pour 1998 et 1999, étant donné qu’il n’était pas capable de déterminer le montant des pertes subies relativement à la société d’avocats.
+[8] Le ministre a demandé que la déclaration de revenus pour 1999 soit produite étant donné qu’en application du paragraphe 154(4.2) de la Loi, il serait possible de rajuster cette déclaration une fois que les pertes subies par le requérant à l’égard de l’année 1998 auraient été établies.
+[9] Le requérant a produit sa déclaration de revenus pour 1999, dans laquelle il a établi sa cotisation d’impôt à 24 000 $.
+[10] Le 19 mars 2001, le ministre a établi une nouvelle cotisation à l’égard du requérant pour l’année d’imposition 1999 et a déterminé que le montant d’impôt à payer était de 59 810,44 $. Selon le ministre, étant donné que le requérant n’avait produit aucune déclaration de revenus pour l’année d’imposition 1998, sa provision pour le revenu de 62 173,14 $ pour 1995 était réputée épuisée et ne pouvait pas être utilisée pour compenser le revenu pour 1999.
+[11] Le 20 juillet 2001, le ministre a accepté une demande de prorogation de délai pour déposer un avis d’opposition à l’égard de l’année d’imposition 1999 du requérant. Dans une conversation téléphonique qui a eu lieu le 23 juillet 2001, la représentante du ministre a avisé le représentant du requérant que la cotisation serait ratifiée, étant donné que la provision sur le revenu pour 1995 était épuisée du fait que la déclaration de revenus pour 1998 n’avait pas été produite. Toutefois, la représentante du ministre a également signalé qu’une fois la déclaration de revenus pour 1998 produite, il serait possible de demander une modification de la déclaration de revenus pour 1999. En conséquence, une lettre ratifiant la cotisation (la « lettre contestée ») a été envoyée au requérant le 25 juillet 2001. Voici la teneur de cette lettre :
+[traduction]
+Division des appels, BSF de Burnaby-Fraser
+Erwin Sui Le 25 juillet 2001
+3347, rue Trutch
+Vancouver (C.‑B.) V6L 2T3 Numéro de compte
+XXX-XXX-XXX
+Monsieur,
+Objet : Votre opposition à l’égard de l’année d’imposition 1999
+La présente fait suite à la conversation téléphonique du 23 juillet 2001 que votre représentant a eue avec Joanne Siemens de la Division des appels.
+Nous avons examiné votre opposition à l’égard de l’année mentionnée ci‑dessus. Comme convenu, nous ratifions par la présente la cotisation établie au titre de l’article 165(3) de la Loi de l’impôt sur le revenu.
+Recevez, Monsieur, nos salutations distinguées.
+L. Melissa
+Chef d’équipe
+[12] Le requérant n’a pas déposé d’avis d’appel à la Cour après réception de cette lettre.
+[13] Le requérant a déclaré, à l’audience, que le litige l’opposant à ses anciens associés était encore en cours.
+[14] Pendant cette période, de 2001 jusqu’aujourd’hui, il n’y a eu aucun recouvrement de la dette fiscale impayée. Le requérant croyait qu’il s’était entendu avec la représentante du ministre sur le fait que d’autres déclarations de revenus auraient besoin d’être modifiées une fois que la situation juridique concernant l’année d’imposition 1998 serait tirée au clair.
+[15] Au début de 2008, le représentant du ministre qui s’occupait du dossier du requérant a pris sa retraite et il a été remplacé par un autre représentant. Ce dernier a demandé au requérant de produire toutes les déclarations de revenus qui ne l’avaient pas été jusqu’alors.
+[16] Au mois de mars 2009, le requérant avait produit des déclarations de revenus pour 2000, 2001, 2002 et 2003, sans connaître les pertes pour 1998 ni les provisions pertinentes.
+[17] En septembre 2009, le ministre a accepté les déclarations de revenus pour les années d’imposition 2000 à 2003 telles qu’elles avaient été produites, et il a établi des cotisations pour les années d’imposition 1998 et 2004 à 2007 sans déclarations de revenus.
+[18] En réponse, le requérant a déposé des avis d’opposition le 30 novembre 2009 à l’égard des années d’imposition 1998 à 2007. Tous les avis d’opposition ont été acceptés et envoyés à la Division des appels, sauf l’avis concernant l’année d’imposition 1999.
+[19] Le ministre soutient que l’année d’imposition 1999 est frappée de prescription, étant donné que le délai d’un an et quatre‑vingt‑dix jours suivant la mise à la poste de l’avis de ratification le 25 juillet 2001 est écoulé.
+B. LA QUESTION EN LITIGE
+[20] La question en litige est de savoir si le requérant est autorisé à déposer à la Cour, un avis d’opposition à l’égard de l’année d’imposition 1999.
+C. L’ANALYSE ET LA DÉCISION
+[21] La lettre mentionnée ci‑dessus constitue le point principal à examiner dans cette demande. Si la lettre est une ratification valide, alors le fait que le requérant n’a pas déposé sa demande dans le délai d’un an et quatre‑vingt‑dix jours suivant la date de la lettre est déterminant, et la demande doit être rejetée. Ce délai est strict. Toutefois, le requérant soutient que la lettre contestée n’est pas un avis de ratification, étant donné qu’elle n’énonçait pas les motifs de la décision à ratifier ni les droits d’appel du requérant. Malheureusement, la décision concernant la validité de cet avis pourrait avoir une conséquence majeure sur le requérant en raison du temps écoulé. Si l’avis est valide, l’obligation fiscale du requérant à l’égard de l’année 1999 cristallise à 59 810,44 $, sans aucune possibilité d’appliquer à ce montant les provisions ou les pertes antérieures, étant donné que le délai de dix ans prévu pour demander des modifications aux déclarations de revenus pour 1999 a expiré le 31 décembre 2009. Ce délai de 10 ans est prévu au paragraphe 152(4.2) de la Loi qui est ainsi libellé :
+152(4.2) Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier, autre qu’une fiducie, ou fiducie testamentaire — pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+[22] Le paragraphe 165(3) de la Loi établit l’obligation du ministre de ratifier la cotisation sur réception de l’avis d’opposition. Cette disposition est ainsi libellée :
+165(3) Sur réception de l’avis d’opposition, le ministre, avec diligence, examine de nouveau la cotisation et l’annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+[23] Il convient de signaler que l’unique exigence contenue dans la disposition est d’aviser le contribuable par écrit. Le requérant renvoie à Johnston c. La Reine, 2006 CCI 128, 2006 D.T.C. 2830, au soutien de la thèse selon laquelle un avis de ratification est nul s’il ne respecte pas les exigences de la Loi. Toutefois, l’exigence dont parlait le juge Beaubier dans Johnston était l’envoi de l’avis de ratification à la bonne adresse. Tel n’est pas le cas en l’espèce, étant donné que l’appelant reconnaît avoir reçu la lettre contestée.
+[24] La lettre envoyée par le ministre au requérant faisait mention d’une communication téléphonique antérieure entre les parties au cours de laquelle la position du ministre avait été expliquée.
+[25] J’ai conclu que la lettre du ministre datée du 25 juillet 2001 constitue un avis de ratification valide. J’ai également conclu que le requérant ne peut pas interjeter appel de sa cotisation d’impôt sur le revenu pour 1999, étant donné qu’il n’est pas possible de proroger le délai pour introduire un appel en dehors du délai d’un an et quatre‑vingt‑dix jours suivant la date de mise à la poste de l’avis de ratification.
+[26] Bien que le requérant ait introduit la présente demande en se fondant sur le fait qu’il n’avait pas reçu, dans la lettre du 25 juillet 2001, de motifs pour la ratification ni d’explication concernant ses droits d’appel, j’estime que sa véritable question en est une d’équité, c’est‑à‑dire s’il a été traité avec équité par le ministre. C’est le changement brusque de la position du ministre en 2008, lorsqu’il a demandé que des déclarations de revenus soient produites et que le processus de recouvrement soit mis en œuvre, que le requérant conteste. J’ai conclu que la Cour ne peut pas accorder de redressement, étant donné qu’elle a établi que la lettre du 25 juillet 2001 constituait un avis de ratification valide. Cela ne veut pas dire, pour autant, que le requérant ne dispose d’aucune mesure de redressement possible à l’égard de son problème. La Cour d’appel fédérale pourrait être disposée à accorder au requérant le redressement souhaité dans une action fondée sur les attentes légitimes, la préclusion promissoire ou une décision déraisonnable du ministre. À titre subsidiaire, étant donné que je reconnais que les circonstances du requérant suscitent de la compassion, je suggère au requérant d’écrire à l’ombudsman des contribuables pour un redressement éventuel. Il n’est pas certain que les deux solutions seront utiles, mais compte tenu du fait que les deux instances disposent de pouvoirs plus étendus que ceux de la Cour, le requérant pourrait envisager de se prévaloir de ces recours.
+[27] La demande est rejetée sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de juillet 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 24e jour d’août 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 342
+No DU DOSSIER DE LA COUR : 2011-345(IT)APP
+INTITULÉ : Erwin Sui c. Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 30 mai 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge L.M. Little
+DATE DE L’ORDONNANCE : Le 7 juillet 2011
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui-même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

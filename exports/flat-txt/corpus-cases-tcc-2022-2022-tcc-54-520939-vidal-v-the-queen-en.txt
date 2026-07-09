@@ -1,0 +1,186 @@
+Title: Vidal v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520939/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-54-520939-vidal-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-06-03
+
+# Vidal v. The Queen
+
+- Citation: 2022 TCC 54
+- Decision date: 2022-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4531, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vidal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-06-03
+Neutral citation
+2022 TCC 54
+File numbers
+2020-161(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2020-161(IT)I
+BETWEEN:
+SALVADOR SANTIAGO VIDAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 21, 2022, at Ottawa, Ontario
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+For the Appellant:
+Marcia Waldron
+Counsel for the Respondent:
+Emma Taline Noradounkian
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, for the 2016, 2017 and 2018 taxation years is quashed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of June 2022.
+“R. MacPhee”
+MacPhee J.
+Citation: 2022 TCC 54
+Date: 20220603
+Docket: 2020-161(IT)I
+BETWEEN:
+SALVADOR SANTIAGO VIDAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+OVERVIEW
+[1] This is an appeal from reassessment made by the Minister of National Revenue (the “Minister”) whereby the foreign tax credits the Appellant claimed in the computation of his tax payable for the 2016, 2017, and 2018 taxation years were disallowed.
+ISSUES
+[2] The issues in this Appeal are:
+a) Whether the Appeals for the 2016, 2017 and 2018 taxation years are properly before the Court. The Respondent alleges that the Appellant has not filed a valid Notice of Objection for the years under appeal, so therefore the Appeal must be quashed.
+b) If I find that the Appeal is properly before the Tax Court, the second issue is whether the Appellant is entitled to a deduction or a foreign tax credit for contributions made in the 2016, 2017 and 2018 taxation years.
+FACTS
+[3] The Appellant was a resident of Canada for tax purposes in the 2016, 2017 and 2018 taxation years (the “Relevant Period”).
+[4] The Appellant was employed by the Labour Minister of Spain working in the Spanish Embassy in Ottawa. The Appellant earned and reported income from his employer in Canada during the Relevant Period.
+[5] For the 2016 taxation year, the Appellant claimed a foreign tax credit of $842.
+[6] For the 2017 taxation year, the Appellant claimed a foreign tax credit of $2,527.
+[7] For the 2018 taxation year, the Appellant claimed a foreign tax credit of $2,545.
+[8] The amounts claimed as foreign tax credits consisted of mandatory contributions to a nationally run pension plan in Spain.
+Procedural History of the Relevant Period
+[9] For the 2016 taxation year, the following are key dates:
+a) the Minister initially assessed the Appellant for the 2016 taxation year on May 18, 2017;
+b) the Minister reassessed the Appellant to disallow the claimed foreign tax credit, by notice dated February 2, 2018;
+c) it is in dispute as to whether the Appellant filed a valid Notice of Objection with the Minister for the 2016 taxation year.
+[10] Complicating matters is that on November 14, 2017, the Minister sent out, from their Processing Review Centre, a request for information, in order to verify their assessment of the Appellant for the 2016 taxation year. The review dealt solely with the claim by the Appellant for a foreign tax credit.
+[11] The Appellant responded to this request for information (and subsequent requests for information) on March 14, 2018. In his response the Appellant stated, in part, “…This letter is a reply to the Notice of Reassessment dated February 2nd 2018, which I got from your Agency, asking to pay $876.37. …In order to justify my $842 claim for foreign tax credit on my 2016 tax declaration. …In order to support my claim, enclosed please find the following documents, asked in said 14th Nov letter.” It is this correspondence that the Appellant relies upon to support his claim that a Notice of Objection was filed for the 2016 taxation year.
+[12] This response came after the notice of reassessment, dated February 2, 2018. It appears that the Appellant was responding to both the request for information from the CRA as well as the Notice of Reassessment in the same correspondence.
+[13] On January 13, 2019, the CRA’s Processing Review Centre received another letter from the Appellant concerning his claim for a foreign tax credit in the 2016 taxation year. In the correspondence, the Appellant again referred to the Notice of Reassessment dated February 2, 2018.
+[14] For the 2017 taxation year, the following are key dates:
+a) the Minister initially assessed the Appellant for the 2017 taxation year on June 7, 2018;
+b) the Minister reassessed the Appellant to disallow the claimed foreign tax credit, by notice dated June 13, 2019;
+c) the Minister disallowed the Appellant’s adjustment request to allow the foreign tax credit, by letter dated July 24, 2019; and
+d) the Appellant did not file a Notice of Objection to the Minister for the 2017 taxation year.
+[15] For the 2018 taxation year, the following are key dates:
+a) the Minister initially assessed the Appellant for the 2018 taxation year on May 28, 2019;
+b) the Minister reassessed the Appellant to disallow the claimed foreign tax credit, by notice dated October 18, 2019; and
+c) the Appellant did not file a Notice of Objection to the Minister for the 2018 taxation year.
+POSITIONS OF THE PARTIES
+Position of the Appellant
+[16] The Appellant submits that his appeal is properly before the Tax Court and that he is entitled to claim foreign tax credits for his contributions to the Spanish pension plan. In support of this position, he submits that no regulation required the tax treaty between Canada and Spain to explicitly include foreign pension plan payments in order for a taxpayer to claim a foreign tax credit for the payments.
+Position of the Respondent
+[17] The Respondent submits that the appeal for the 2016, 2017 and 2018 taxation years ought to be quashed on the basis that the Appellant did not first serve on the Minister a Notice of Objection as required by subsection 169(1) of the Act for any of the years in question. Further, the Respondent pleads that the Appellant did not apply to the Minister to extend the time for serving Notices of Objection.
+[18] In regards to the foreign tax credit, the Respondent submits that if the Court finds that valid Notices of Objections were filed for the years in question, then the payments made by the Appellant to the social security and general civil service mutual insurance program in Spain were not non-business income tax for the purposes of paragraph 126(1)(a) of the Income Tax Act (the “Act”).
+ANALYSIS
+PRELIMINARY ISSUE: JURISDICTION OF THE TAX COURT
+[19] Section 165 of the Act provides that a taxpayer who wishes to object to an assessment may deliver or mail a written Notice of Objection to the Minister. The Notice of Objection must be served on or before the later of: i) the day one year after the taxpayer’s “filing-due date” for the year, and ii) the day 90 days after the day of sending the Notice of Assessment.
+[20] A taxpayer may apply to the Minister under section 166.1, within one year after the expiration of the time otherwise limited by the Act for serving a Notice of Objection, for an extension of time for serving such notice. The extension will be only be granted where the taxpayer demonstrates that:
+a) within the time otherwise limited, the taxpayer was either unable to act or instruct someone to do so, or had a bone fide intention to object to the assessment;
+b) it would be just and equitable to grant the application; and
+c) the application was made as soon as circumstances permitted.
+[21] Pursuant to subsection 169(1), an appeal to the Tax Court may be made in either of the following circumstances:
+a) where, after receiving the taxpayer’s Notice of Objection, the Minister has reconsidered the assessment and has either reassessed the taxpayer or has notified the taxpayer that the Minister has confirmed the assessment as made, or
+b) where 90 days have elapsed after the service of the Notice of Objection and the Minister has not notified the taxpayer that the assessment has been confirmed or vacated, or that the Minister has reassessed.
+[22] The first issue that I must deal with is whether the March 14, 2018, letter from the Appellant to the CRA Processing Centre constitutes a Notice of Objection.
+[23] The requirements of a Notice of Objection are set out in section 165 of the Act. An objection need not use any particular form, but must be in writing to be valid [1] .
+[24] The Federal Court of Appeal has stated the following in respect of the requirements for a properly filed a Notice of Objection:
+The statutory requirements for the filing of a valid Notice of Objection are minimal but must nevertheless be complied with. It must be addressed to the Chief of Appeal [sic] of the relevant district (subsection 165(2)) and subsection 165(1) merely requires that the objection, in addition to being in writing, set out the reasons for the objection and the relevant facts [2]
+[25] The Minister has discretion to accept a document that does not meet the formal requirements of a Notice of Objection. Subsection 165(6) of the Act provides that the Minister may accept a Notice of Objection that was served under section 165 but that was not served in the manner required by subsection 165(2). I have no authority to direct the Minister how to apply this discretion.
+[26] Therefore, I must apply a two-part test in determining whether a valid Notice of Objection was filed for the 2016 taxation. The first question I must answer is whether the document, which the Appellant argues is a Notice of Objection, in addition to being in writing, sets out the reasons for the objection and the relevant facts.
+[27] In this instance, I accept that the March 14, 2018 letter from the Appellant meets the first part of this test. To be a Notice of Objection, a document must include an actual objection to an assessment, or at least some indication that the particular taxpayer is objecting to an assessment. [3]
+[28] While far from perfect, the March 14, 2018, letter, mailed to an office within the CRA, did make it clear that it was the 2016 reassessment that was being contested by the Appellant, and, furthermore, that the Appellant wished to claim $842 as a foreign tax credit. This document is short on reasons and relevant facts, but it would suffice to meet the first requirement of a Notice of Objection.
+[29] Subsection 165(2) of the Act also states that a Notice of Objection shall be served by a taxpayer by being addressed to the Chief of Appeals in a district office or a taxation center of the CRA and delivered or mailed to that office or center.
+[30] Unfortunately for the Appellant, this did not occur. The letter relied upon by the Appellant was mailed to the T1 Processing Review Centre in Shawinigan, Quebec.
+[31] In brief reasons, by way of a judgment delivered from the bench in McClelland, the FCA considered a situation in which the taxpayer had sent a letter to a CRA Collection Enforcement Officer, as opposed to the Chief of Appeals in a district office or a taxation center, and stated:
+The Income Tax Act required that a Notice of Objection must be sent to the Chief of Appeals. Therefore a letter sent to the Collection Enforcement Officer would not suffice [4] .
+[32] Unfortunately, for the Appellant, he did not meet this requirement. I find that the Appellant did not serve a valid Notice of Objection for the 2016 taxation year.
+[33] A taxpayer's right to appeal an assessment under the Act is rooted in section 169(1). Pursuant to s. 169(1) of the Act, a taxpayer may only appeal to the Tax Court where they have served a Notice of Objection under section 165 of the Act. That has not happened for any of the 2016, 2017 or 2018 taxation years; therefore, the Appeal for these years is not properly before the Court and must be quashed.
+[34] Furthermore, the Appellant is outside of the statutory period provided to apply to the Minister for an extension of time to file a Notice of Objection.
+ISSUE #1: FOREIGN TAX CREDIT
+Law
+[35] I will deal with the Foreign Tax Credit claimed by the Appellant as if the Appellant’s Notice of Appeal was properly before the Court.
+[36] To avoid double taxation on income earned from foreign sources, section 126 of the Act allows taxpayers to deduct from their taxes otherwise payable an amount equal to the tax paid to the foreign jurisdiction. This amount is capped at the maximum otherwise payable in Canada, which the taxpayer would have paid.
+[37] In this matter, there is no question that the Appellant had a source of income from outside of Canada.
+[38] The Appellant claims the amounts in issue were withheld by the government in Spain, and therefore should be treated as tax paid to a foreign jurisdiction. In order to decide this matter, one must first determine if the amounts withheld in Spain were a tax.
+[39] In Lawson, the Supreme Court of Canada listed the following four characteristics of a “tax”: [5]
+a) enforceable by law;
+b) imposed under the authority of the legislature;
+c) imposed by a public body; and
+d) made for a public purpose.
+[40] The evidence at trial on these issues was scant, and at times nonexistent. Very little description was provided by either side as to the mechanics of collecting these funds, the authority under which it was done, and whether the deductions are subtracted from the gross income of the Appellant as part of his tax filings in Canada.
+[41] Despite this lack of evidence, I am able to conclude that the first three components of the test set out in Lawson test are met. Simply put, I accept the evidence demonstrates that the amounts being claimed by the Appellant were more likely than not withheld by the Spanish government because of legislation in Spain making the payment compulsory. It is the final component of the Lawson test that is fatal for the Appellant’s argument.
+[42] It was the Appellant’s evidence that the amounts in issue were deducted in Spain in order to contribute to a Spanish national pension plan. The Appellant is not certain as to what benefits he will receive from this plan, but he did acknowledge he will receive some payments in the future.
+[43] This issue has been tried previously in the Tax Court. In Yates, the Court was clear that the Act contains no provision to allow a deduction of contributions paid to a foreign insurance plan. [6]
+[44] In Zong, the Tax Court held that contributions to a foreign insurance plan are not a tax for public purposes, in part because the payor receives a direct personal and financial benefit in the future for their contributions. [7]
+[45] In Nadeau, a similar claim for a foreign tax credit was made by the appellant, concerning the premiums paid to the Maine State Retirement System (“MSRS”). The Tax Court concluded as follows:
+In the case at bar, the Appellant's MSRS premiums meet the first three criteria in Eurig Estate (Re) in that there is an enabling statute, the amount is imposed under the authority of the legislature and it is levied by a public agency, i.e. the State of Maine. The difficulty posed by the premiums is the last criterion, for a public interest. As I previously indicated, the MSRS is a retirement and benefit fund for teachers and employees of the State of Maine only and its objective is to encourage the residents of this State to work for the state by establishing these benefits. The premiums therefore are not imposed for the purpose of a public interest, that is, in order to generate income for the state. The premiums, in my opinion, are not a tax for the purposes of section 126 of the Act and should not be included in the foreign tax deduction. The Minister therefore correctly assessed the Appellant. [8]
+[46] In the matter at hand, I also find that the amounts collected by the government in Spain do not meet the definition of a tax, in that they were not collected for a public interest. As best that I can interpret, from the limited evidence at trial, the pension deductions were made by the Spanish government for the future benefit of the contributor, in this case Mr. Vidal. These payments were not made in order to generate income for the state. The payments in issue therefore do not qualify for a foreign tax credit. Therefore, the appeal must be denied on this ground as well.
+CONCLUSION
+[47] The appeal for the 2016, 2017 and 2018 taxation years must be quashed because the Appellant failed to meet the requirements of the Act in not filing a Notice of Objection for any of the years before the Court.
+[48] If the above conclusion is wrong, the Appellant is not entitled to the foreign tax credit for the years before the court because the contributions made by the Appellant were not taxes being collected by the government in Spain. Therefore, no deduction is allowed pursuant to section 126 of the Act.
+Signed at Ottawa, Canada, this 7th day of June 2022.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2022 TCC 54
+COURT FILE NO.:
+2020-161(IT)I
+STYLE OF CAUSE:
+SALVADOR SANTIAGO VIDAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 21, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+June 3, 2022
+APPEARANCES:
+For the Appellant:
+Marcia Waldron
+Counsel for the Respondent:
+Emma Taline Noradounkian
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank/ En blanc
+Firm:
+Blank/ En blanc
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Alex Ihama-Anthony v The Queen, 2018 TCC 262 at paragraph 14 (the overall analysis in this decision was particularly helpful); Natarajan v The Queen, 2010 TCC 582.
+[2] 870 Holdings Ltd. V. R. 2003 FCA 460(F.C.A.) at para. 2.
+[3] Ihama-Anthony, supra note 1 at paragraph 17
+[4] McClelland v The Queen, 2004 FCA 315 at paragraph 5.
+[5] Lawson v Interior Tree Fruit & Vegetable Committee of Direction (1930), [1931] SCR 357 (SCC).
+[6] Yates v R, [2001] 3 CTC 2565, 2001 DTC 761.
+[7] Zong v R, 2019 TCC 270.
+[8] Nadeau v The Queen, 2004 TCC 433 at paragraph 11.

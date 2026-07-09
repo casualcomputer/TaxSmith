@@ -1,0 +1,212 @@
+---
+title: "Whissell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99649/index.do"
+last_modified: "2014-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 350"
+citation2: ""
+neutral_citation: "2014 CCI 350"
+decision_date: "2014-11-21"
+language: "fr"
+item_id: "99649"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5220
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:38:03.492000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4b27e0b15616815736795b8e077fe82286935427fbb8d9b552294d77e9865f4f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Whissell c. La Reine
+
+- Citation: 2014 CCI 350
+- Decision date: 2014-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5220, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whissell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-21
+Référence neutre
+2014 CCI 350
+Numéro de dossier
+2012-4374(GST)G, 2012-4375(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-4374(GST)G
+ENTRE :
+JOHN WHISSELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 avril 2014 à Edmonton (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Douglas J. Forer
+Avocate de l’intimée :
+Me Valerie Meier
+JUGEMENT
+L’appel relatif à la cotisation établie en vertu de la Loi sur la taxe d’accise -dont l’avis porte le no 1387235 et est daté du 27 avril 2011 - est rejeté, et la décision du ministre du Revenu national est confirmée.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2014.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 27e jour de février 2015.
+Mario Lagacé, jurilinguiste
+Dossier : 2012-4375(IT)G
+ENTRE :
+JOHN WHISSELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 avril 2014 à Edmonton (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocat de l’appelant :
+Me Douglas J. Forer
+Avocate de l’intimée :
+Me Valerie Meier
+JUGEMENT
+L’appel relatif à la cotisation établie en vertu de la Loi de l’impôt sur le revenu – dont l’avis porte le no 1398067 et est daté du 11 mai 2011 – est rejeté.
+Les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2014.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 27e jour de février 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 350
+Date : 20141121
+Dossier : 2012-4374(GST)G
+2012-4375(IT)G
+ENTRE :
+JOHN WHISSELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] L’appelant interjette appel d’une cotisation datée du 11 mai 2011 selon laquelle il est redevable du versement de retenues à la source impayées au titre de l’impôt sur le revenu fédéral et provincial, de cotisations d’assurance-emploi et de cotisations au Régime de pensions du Canada, ainsi que d’intérêts et de pénalités. Le montant total de la cotisation s’élève à 513 644,70 $, et le montant établi en vertu de l’article 227.1 de la Loi de l’impôt sur le revenu (la « LIR ») s’élève à 151 890,62 $. La cotisation a été établie à l’endroit de l’appelant parce qu’il était l’administrateur de Canadian Aggregate Co. Ltd. (la « Société ») à l’époque où celle-ci a omis de faire des versements au Receveur général, soit en 2002, 2003, 2004 et 2005. Il interjette appel aussi d’une cotisation datée du 27 avril 2011 et établie en vertu de l’article 323 de la Loi sur la taxe d’accise (la « LTA »), qui le rend redevable d’un montant de taxe nette non versée, ainsi que d’une pénalité et d’intérêts connexes, de 103 181,60 $, que la Société a omis de verser pour diverses périodes en 2003 et en 2004.
+[2] Les cotisations sous-jacentes, ainsi que le montant de ces dernières, ne sont pas contestées. La seule question en litige dans les présents appels consiste à savoir si, pour prévenir le manquement, l’appelant a agi avec autant de soin, de diligence et de compétence que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[3] L’appelant n’a produit à l’audience aucun document et, semble-t-il, sa liste de documents était vide. L’intimée a produit un seul document : l’affidavit de l’appelant, daté du 13 août 2001. Ont témoigné à l’audience l’appelant et son père, George Whissell.
+[4] George Whissell a récapitulé brièvement les circonstances dans lesquelles l’appelant est devenu l’administrateur de la Société. Il a décrit également la participation de la famille Whissell à l’entreprise de construction et de production de granulat en Alberta.
+[5] George Whissell a déclaré que lui-même, son père et ses frères et sœurs ont commencé à travailler dans le secteur de la construction routière à l’automne de 1954. Au départ, ils faisaient affaire sous le nom de Whissell Enterprises Ltd. Au fil des ans, leur entreprise a pris de l’expansion, au point de devenir l’une des plus grosses entreprises de construction du nord de l’Alberta. En 1978, la famille s’est lancée dans le secteur du granulat, une activité qui consiste à fournir du sable et du gravier. À mesure que les affaires prenaient de l’ampleur, George Whissell a fait créer de nouvelles entreprises en vue d’exécuter divers projets (le « Groupe Whissell »). Son père et ses frères et sœurs n’ont pas pris part à ces nouvelles entreprises.
+[6] Au début des années 1980, lorsque la récession a commencé, le chiffre d’affaires du Groupe Whissell est tombé d’un sommet de 90 000 000 $ en 1980 à environ 20 000 000 $ en 1982-1983. Les ventes ont continué de faiblir dans les années 1990. George Whissell a toutefois continué de constituer de nouvelles entreprises en société, de sorte que, au début des années 1990, le Groupe Whissell comptait huit à dix entreprises actives dans le secteur de la construction. Ces entreprises avaient réduit le plus possible leurs activités mais elles avaient de la difficulté à respecter leurs engagements. Au milieu des années 1990, elles devaient plus de 20 000 000 $ à des tiers, et leur chiffre d’affaires était d’environ 25 000 000 $. George Whissell a mis fin aux activités de certaines de ses entreprises et a fait constituer la Société en 1994.
+[7] Les seuls actionnaires de la Société étaient les fils de George Whissell : Brian et l’appelant, qui en détenaient chacun 50 %. Brian était l’unique administrateur. Ce n’est qu’en 2010, semble-t-il, que l’on a dit à l’appelant qu’il était actionnaire de la Société.
+[8] Le 2 octobre 1995, George Whissell a été l’objet d’une requête en faillite, et il n’a été libéré de cette dernière que le 29 juillet 2002. Cependant, durant toute cette période et par la suite, il a continué de faire constituer des sociétés et d’exploiter le Groupe Whissell.
+[9] En 2001, la Société avait une dette au titre de la TPS de 175 636,79 $ et, le 6 juin 2001, l’Agence du revenu du Canada (« ARC ») a saisi de l’équipement dans cinq ou six endroits où les entreprises Whissell exploitaient leurs activités. La majeure partie de cet équipement appartenait, semble-t-il, au Groupe Whissell, mais une partie aussi à des tiers. Quand la saisie a finalement été réglée, l’huissier, l’ARC et la famille Whissell ont dû payer les frais d’entreposage de l’équipement.
+[10] En 2001, la banque avec laquelle la Société faisait affaire [traduction] « lui a demandé de partir », c’est-à-dire qu’elle a refusé de faire affaire avec la Société. Brian avait démissionné comme administrateur en1998 et la Société devait ouvrir un compte bancaire. Elle avait besoin d’un administrateur qui pouvait signer en son nom. George Whissell a demandé à l’appelant d’être l’administrateur de la Société. Ce dernier a accepté et s’est fait faire un timbre portant sa signature, qu’il a remis à George Whissell et à Laurie Sabatier, la comptable de la Société.
+[11] La Société a exploité ses activités jusqu’en 2005. Elle n’a produit aucune déclaration de revenus. Elle a tout de même produit quelques déclarations de TPS. Elle n’a jamais produit d’états financiers, et ne possédait aucun dossier d’entreprise. Quand elle a mis fin à ses activités, celles-ci ont été reprises par Keephills Aggregate Company Ltd. (« Keephills »), une autre entreprise du Groupe Whissell. Keephills avait été constituée le 12 décembre 2001, et l’appelant en était l’unique administrateur.
+[12] Selon George Whissell, chaque fois qu’il y avait un risque que l’on saisisse de l’équipement ou qu’[traduction] « on coupe les vivres », les ressources étaient détournées de façon à ce que l’entreprise puisse poursuivre ses activités. Selon mon interprétation, cela signifie que l’équipement était transféré à une autre entreprise, que les activités étaient poursuivies sous une autre raison sociale ou que l’on détournait les fonds de l’entreprise; c’est ce qui explique pourquoi de nombreuses entreprises ont été constituées. Selon la preuve, l’appelant a ouvert plusieurs comptes bancaires d’entreprise au cours de cette période.
+[13] George Whissell a témoigné que Laurie Sabatier et lui exploitaient le Groupe Whissell. Il n’a pas informé l’appelant des sommes que la Société devait à l’ARC.
+[14] L’appelant a déclaré qu’il a commencé à travailler dans l’entreprise familiale peu après avoir fini ses études secondaires. Il a toujours travaillé comme journalier. Son premier contact avec le financement d’une entreprise a eu lieu en 2001, lorsqu’il a constitué en société Canadian Transportation Systems, qui a fait l’achat de trois camionnettes de marque GMC à utiliser dans le cadre des activités de la Société.
+[15] En 2001, l’appelant vivait chez ses parents et il travaillait dans une gravière pour la Société.
+[16] L’appelant a décrit une situation qui est survenue le 6 juin 2001, le jour où l’ARC a saisi de l’équipement appartenant au Groupe Whissell. Il a déclaré qu’il s’était présenté au bureau de la Société et avait voulu poser des questions. On l’avait exclu de la réunion qui s’y déroulait.
+[17] Il a déclaré qu’il n’est devenu administrateur de la Société que pour pouvoir ouvrir un compte bancaire pour cette dernière, comme son père le lui avait demandé. Il est devenu l’administrateur de la Société le 21 juin 2001. Il pense qu’il a tout d’abord signé quelques chèques pour la Société mais, plus tard, il s’est fait faire un timbre de signature qu’il a remis à George Whissell ou à Laurie Sabatier pour qu’ils puissent continuer d’exploiter les activités de la Société.
+[18] L’appelant a déclaré qu’à ce moment-là il ignorait ce que c’était que d’être administrateur. Il faisait entièrement confiance à son père et à Laurie Sabatier, qui était comme une mère pour lui. Il ne connaissait pas la situation financière de la Société, et il n’avait pas posé la question, mais il pensait que l’entreprise était viable. Il savait que l’ARC avait saisi l’équipement de la Société et il présumait que l’ARC avait également saisi son compte bancaire. Il pensait toutefois que le problème avec l’ARC était chose du passé.
+[19] L’appelant a déclaré qu’il travaillait comme journalier pour la Société. Il supervisait les autres journaliers qui travaillaient à la gravière avec lui et il signait leurs feuilles de présence. Il ne s’occupait pas de la paie ou des décisions financières concernant la Société. C’était Laurie Sabatier et George Whissell qui dirigeaient les entreprises du Groupe Whissell. Son père était l’âme dirigeante des activités de la Société.
+[20] L’appelant a déclaré qu’il n’était qu’un [traduction] « soldat digne de confiance » pour sa famille, qui faisait tout ce que celle-ci lui demandait.
+[21] En 2007, l’appelant a commencé à prendre en charge certaines fonctions de son père et il a rencontré des fonctionnaires de l’ARC au sujet de la dette fiscale de 20 ou 25 entreprises du Groupe Whissell. En 2011, a-t-il déclaré, il contrôlait la totalité des entreprises que comptait le Groupe.
+Les dispositions législatives applicables [22] Le libellé de l’article 227.1 de la LIR est presque identique à celui de l’article 323 de la LTA. Les dispositions applicables de l’article 227.1 sont les suivantes :
+Responsabilité des administrateurs pour défaut d’effectuer les retenues
+227.1 (1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+[…]
+(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[23] Les dispositions applicables de l’article 323 de la LTA sont les suivantes :
+323. (1) Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l’exige l’article 230.1, un montant au titre d’un remboursement de taxe nette qui lui a été payé ou qui a été déduit d’une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[…]
+Diligence
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+La thèse de l’appelant [24] L’avocat de l’appelant a fait valoir que la norme de soin dont font état les paragraphes 227.1(3) de la LIR et 323(3) de la LTA est de nature objective. Cependant, pour décider si l’appelant a fait preuve de la norme de soin requise, il me faut aussi tenir compte des circonstances qui existaient à l’époque où la Société a omis de verser des fonds au ministre du Revenu national. Une approche contextuelle à l’égard de ces dispositions m’oblige à prendre en compte les « conditions socio-économiques existantes ». L’avocat a invoqué les paragraphes 63 et 64 de l’arrêt Re Magasins à rayons Peoples inc. (Syndic de), 2004 CSC 68 :
+63 Dans l’arrêt Soper c. Canada, [1998] 1 C.F. 124, par. 41, le juge Robertson de la Cour d’appel fédérale a décrit la norme de diligence énoncée à l’al. 122(1)b) de la LCSA comme étant une norme « objective subjective ». Même s’il portait sur l’interprétation d’une disposition de la Loi de l’impôt sur le revenu, cet arrêt est pertinent en l’espèce parce que le libellé de la disposition établissant la norme de diligence est identique à celui de l’al. 122(1)b) de la LCSA . Nous estimons pour notre part que le fait, pour le juge Robertson, de qualifier la norme par l’expression « objective subjective » peut semer la confusion. Nous préférons la décrire comme une norme objective. Ainsi, il devient évident que dans le cas de l’obligation de diligence prévue à l’al. 122(1)b), ce sont les éléments factuels du contexte dans lequel agissent l’administrateur ou le dirigeant qui sont importants, plutôt que les motifs subjectifs de ces derniers, qui sont l’objet essentiel de l’obligation fiduciaire prévue à l’al. 122(1)a) de la LCSA.
+64 La méthode contextuelle dictée par l’al. 122(1)b) de la LCSA fait ressortir non seulement les faits primaires mais elle permet aussi qu’il soit tenu compte des conditions socio‑économiques existantes. […]
+[25] L’avocat a soutenu que, en l’espèce, les conditions socio-économiques dénotent que l’appelant n’a pas fait fi de ses responsabilités; si on lui demandait, par exemple, d’ouvrir un compte bancaire, il le faisait. Il faisait tout ce que lui demandaient sa famille et ses proches conseillers. Il n’a pas fait fi de ses fonctions. Il n’était tout simplement pas au courant de ses responsabilités en tant qu’administrateur.
+[26] Les circonstances qui existaient à l’époque étaient que l’ARC avait saisi de l’équipement du Groupe Whissell, mais la mainlevée de cet équipement a plus tard été accordée. La Société, l’ARC et l’huissier ont dû payer les frais d’entreposage, et l’appelant a eu le sentiment que l’ARC avait une dent contre George Whissell. Il ignorait que des versements n’avaient pas été faits et il pensait qu’on avait réglé la question de la dette fiscale parce qu’il y avait eu mainlevée de l’équipement de la Société.
+La thèse de l’intimée [27] L’intimée a fait valoir que l’appelant n’a rien fait pour éviter que la Société omette de verser les retenues à la source et le montant net de TPS. Il n’y avait aucune preuve que l’appelant avait pris des décisions quelconques; il n’y avait aucune preuve qu’il avait posé des questions quelconques. Il y avait une preuve que la Société avait des difficultés financières en 2001 et, pourtant, l’appelant n’avait posé aucune question ou ne s’était pas soucié d’éviter le défaut de versement. L’appelant n’avait rien fait, et cela ne peut satisfaire à l’obligation d’éviter que l’on omette de verser les retenues à la source et le montant net de TPS.
+L’analyse [28] Dans l’arrêt Buckingham c. R., 2011 CAF 142, le juge Mainville a analysé en détail la décision rendue dans l’affaire Magasins à rayon Peoples, dans la mesure où elle s’appliquait aux paragraphes 227.1(3) de la LIR et 323(3) de la LTA. Il a comparé ces deux paragraphes à l’alinéa 122(1)b) de la Loi canadienne sur les sociétés par actions, L.R.C. 1985, ch. C‑44, et a déclaré :
+31 Bien qu’elles soient similaires, les dispositions de l’alinéa 122(1)b) de la LCSA et des paragraphes 227.1(3) de la Loi de l’impôt sur le revenu et 323(3) de la Loi sur la taxe d’accise ont des objets foncièrement différents. Les objets différents visés par ces diverses dispositions doivent avoir une incidence sur la norme de soin, de diligence et d’habileté applicable dans chaque cas.
+[29] Au paragraphe 37 de sa décision, le juge Mainville a conclu que la norme de soin, de diligence et d’habileté que requièrent les paragraphes 227.1(3) de la LIR et 323(3) de la LTA est de nature objective. Et, a-t-il ajouté :
+38 […] Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction : Kevin P. McGuinness, Canadian Business Corporations Law, 2e édition (Markham, Ontario: LexisNexis Canada, 2007), à la page 11.9.
+39 Une norme objective ne signifie toutefois pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérés au regard de la norme objective d’une « personne raisonnablement prudente ». […]
+[…]
+40 L’objectif de l’examen prévu aux paragraphes 227.1(3) de la Loi de l’impôt sur le revenu et 323(3) de la Loi sur la taxe d’accise différera toutefois de celui qu’exige l’alinéa 122(1)b) de la LCSA, car les premières dispositions requièrent que l’administrateur s’acquitte de son obligation de soin, de diligence et d’habileté de manière à prévenir les défauts de versement. Pour invoquer ces moyens de défense, l’administrateur doit par conséquent démontrer qu’il s’est préoccupé des versements requis et qu’il s’est acquitté de son obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés. [Non souligné dans l’original.]
+[30] La norme objective écarte le principe selon lequel les gestes d’un administrateur doivent être « jugé[s] suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci » : Buckingham (précité), au paragraphe 38. Cependant, les articles 227.1 de la LIR et 323 de la LTA n’imposent pas une responsabilité absolue. Comme l’a écrit le juge Mainville :
+52 Le Parlement n’a pas requis des administrateurs qu’ils soient assujettis à une responsabilité absolue relativement aux versements de leurs sociétés. En conséquence, le Parlement accepte qu’une société puisse, dans certaines circonstances, ne pas effectuer des versements sans que la responsabilité de ses administrateurs ne soit engagée. Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[31] L’appelant aura donc établi le bien-fondé d’une « défense de diligence raisonnable » s’il a présenté des preuves montrant qu’il a essayé d’éviter que la Société omette de verser des retenues à la source ou un montant net de TPS pendant les périodes en cause.
+[32] Dans le cas présent, l’appelant n’a rien fait pour éviter l’omission de versement pendant la période en cause et, à mon avis, il n’a pas établi le bien-fondé d’une « défense de diligence raisonnable ».
+[33] L’appelant était âgé de 23 ans quand il est devenu administrateur de la Société, le 21 juin 2001. Il a déclaré qu’il ne savait rien des retenues à la source. Dans son esprit, la TPS était une chose que l’on payait au magasin quand on achetait un article. Il ne connaissait rien des obligations d’un administrateur, avant que son avocat le mette au courant de la responsabilité d’une telle personne à [traduction] « la fin de 2001 ou 2002 ». Pourtant, même après avoir été mis au courant de ses obligations, l’appelant n’a rien fait. Il ne peut pas maintenant fonder sa défense sur le fait qu’il n’était qu’un journalier. De son propre aveu, son avocat l’a informé en 2001 et en 2002 de ses obligations en tant qu’administrateur.
+[34] Les circonstances de l’espèce sont telles que l’appelant savait que la Société avait une dette fiscale en souffrance. Il y avait une preuve que l’ARC avait saisi l’équipement de la Société le 6 juin 2001. Il n’y avait aucune preuve quant à la date à laquelle cet équipement avait fait l’objet d’une mainlevée. Cependant, l’appelant savait aussi, dès le 13 août 2001, que la Société avait fait opposition à une cotisation de TPS nette et que l’ARC avait délivré des demandes formelles de paiement à deux des clients de la Société. À cette date, il avait signé un affidavit à l’appui de la demande présentée par la Société à la Cour fédérale pour faire annuler les demandes formelles de paiement de l’ARC. Une « personne raisonnablement prudente » se serait informée de l’issue de la demande, ainsi que de l’issue de l’opposition à la cotisation. Il aurait plutôt voulu que je croie qu’il n’avait rien fait parce qu’il était le [traduction] « fidèle soldat de la famille ».
+[35] Selon moi, depuis la décision de la Cour d’appel fédérale dans l’affaire Buckingham, un administrateur ne peut pas établir le bien-fondé d’une « défense de diligence raisonnable » en indiquant qu’il n’était qu’un journalier et qu’il se fiait à un autre membre de la famille ou qu’il ne faisait que ce qu’on lui disait de faire. Dans les circonstances, la norme de soin est une norme objective qui repose sur le principe de la personne raisonnablement prudente.
+[36] Dans les circonstances de l’espèce, il n’est ni suffisant ni raisonnable de la part de l’appelant de dire qu’il s’est fié à son père et à Laurie Sabatier. L’obligation qu’a l’administrateur de veiller à ce que les versements soient effectués quand l’entreprise a des difficultés financières est plus exigeante : D’Amore c. R., 2012 CCI 373, au paragraphe 31. Dans le cas présent, l’appelant a renoncé à toutes ses obligations en tant qu’administrateur et a remis à son père un timbre de signature pour qu’il s’en serve comme bon lui semble.
+[37] Un administrateur établit le bien-fondé de la « défense de diligence raisonnable » lorsqu’il prouve qu’il a pris des mesures positives pour éviter l’omission de versement. En l’espèce, l’appelant, de son propre aveu, n’a rien fait. Il n’a pas satisfait à la norme de soin que requièrent les paragraphes 227.1(3) de la LIR et 323(3) de la LTA.
+[38] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2014.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 27e jour de février 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 350
+No DU DOSSIER DE LA COUR :
+2012-4374(GST)G
+2012-4375(IT)G
+INTITULÉ :
+JOHN WHISSELL ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 17 avril 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 21 novembre 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Douglas J. Forer
+Avocate de l’intimée :
+Me Valerie Meier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Douglas J. Forer
+Cabinet :
+McLennan Ross LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

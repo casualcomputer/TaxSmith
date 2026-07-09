@@ -1,0 +1,150 @@
+---
+title: "Solomon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28062/index.do"
+last_modified: "2007-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 654"
+citation2: ""
+neutral_citation: "2007 TCC 654"
+decision_date: "2007-10-26"
+language: "en"
+item_id: "28062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1582
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:36:26.300000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "783ebbe3285f2d8111ce08b2d96155a7814e136b010066f138098d7b8d169c1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Solomon v. The Queen
+
+- Citation: 2007 TCC 654
+- Decision date: 2007-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1582, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Solomon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-26
+Neutral citation
+2007 TCC 654
+File numbers
+2006-1560(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1560(IT)I
+BETWEEN:
+SULAM SOLOMON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 5, 2007 at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justin Kutyan
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation year is dismissed.
+Signed at Toronto, Ontario this 26th day of October, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2007TCC654
+Date: 20071026
+Docket: 2006-1560(IT)I
+BETWEEN:
+SULAM SOLOMON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] Mr. Solomon, a non-resident of Canada, appeals the notices of assessment issued to him for the 2001, 2002 and 2003 taxation years. During this period Mr. Solomon resided in Switzerland. At all relevant times he received pension income from the University of Waterloo and social security income under the Old Age Security Act and the Canada Pension Plan. The issue is whether Mr. Solomon was properly assessed tax on the Canadian source income that he received for the years under appeal. I find that he was properly assessed.
+[2] It was determined that Mr. Solomon was a non-resident of Canada as of December 6, 1998. He was informed by letter dated October 8, 1999 that as a non-resident he may be subject to a withholding tax on various types of income including pension income and that the Canadian payer was responsible for withholding 25% of the gross amount from these types of income. He was also informed that if the country where he resides has a tax treaty with Canada, then the treaty may reduce the rate of withholding tax.
+[3] The relevant tax treaty is the Convention Between Canada and the Swiss Federal Council for the Avoidance of Double Taxation With Respect to Taxes on Income and on Capital, Canada Gazette Part II, Volume 132, No. 20, SI/TR/98-94 which is applicable to amounts paid or credited to non-residents on or after January 1, 1998 (the “1998 Convention”) The relevant provision is paragraph 1 of Article 18 which reads as follows:
+ARTICLE 18
+Pensions and Annuities
+1. Pensions and annuities arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in the State in which they arise, and according to the law of that State. However, in the case of periodic pension or annuity payments (except lump-sum payments arising on the surrender, cancellation, redemption, sale or other alienation of an annuity, and payments of any kind under an annuity contract the cost of which was deductible, in whole or in part, in computing the income of any person who acquired the contract), the tax so charged shall not exceed 15 per cent of the gross amount of the payment. For the purposes of this Article, the term "pension" does not include payments under the social security legislation in a Contracting State. (emphasis added)
+[4] Prior to the 1998 Convention, Canada and Switzerland had used the phrase “social security legislation” in Article 2 of the Convention on Social Security between Canada and the Swiss Confederation, Canada Gazette Part II, Volume 129, No. 22, SI/TR/95-112. In that convention the phrase is defined as follows:
+Article 2
+1. This Convention shall apply:
+(a) with respect to Switzerland:
+i) to the Federal Law on Old Age and Survivors Insurance of December 20, 1946;
+ii) to the Federal Law on Disability Insurance of June 19, 1959;
+(b) with respect to Canada:
+i) to the Old Age Security Act;
+ii) to the Canada Pension Plan.
+The Convention on Social Security between Canada and the Swiss Confederation came into force on October 1, 1995. It is my opinion that the phrase “social security legislation” has the same meaning in both the 1998 Convention and the Convention on Social Security between Canada and the Swiss Confederation. See as well the decision Dumoulin v. The Queen, [2002] 4 C.T.C. 2031 (TCC).
+[5] It is clear from the 1998 Convention that the University of Waterloo should have withheld 15% from the pension income that it paid to Mr. Solomon. The payments made pursuant to the Canada Pension Plan and Old Age Security Act are taxed at the rate of 25% in accordance with subsection 212(1) of the Income Tax Act (the “Act”) which reads:
+212. (1) Tax -- Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+….
+This interpretation is confirmed when one notes that subparagraphs 212(1)(h)(i) and (ii) of the Act, which excluded payments under the Canada Pension Plan and the Old Age Security Act from Part XIII tax, were repealed effective January 1996.
+[6] Mr. Solomon’s complaint is that he told the University of Waterloo that he was a non-resident and the onus was on it to deduct 15% from the pension it paid to him. He says that for the 2001 and 2002 taxation years the University of Waterloo should be liable for the amount of taxes not deducted and the interest which accrued as a result. In support of his assertion, Mr. Solomon tendered a letter from the University of Waterloo to him dated January 26, 2000 which acknowledged that he was a non-resident of Canada.
+[7] He also stated that the Canada Revenue Agency (“CRA”) informed him in January 2002 that it had advised Human Resources and Development Canada (“HRDC”) to withhold non-resident Part XIII tax on future payments of Canada Pension and Old Age Security. Mr. Solomon tendered a document from the CRA dated January 14, 2002 to support his statement. Consequently, he stated that for the 2002 and 2003 taxation years HRDC should be liable for the amount of taxes not deducted from his Canada Pension and Old Age Security and for the interest which accrued on the taxes.
+[8] The withholding and remittance of Part XIII tax is contained in section 215 of the Act and the relevant subsections are as follows:
+215. (1) Withholding and remittance of tax -- When a person pays, credits or provides, or is deemed to have paid, credited or provided, an amount on which an income tax is payable under this Part, or would be so payable if this Part were read without reference to subsection 216.1(1), the person shall, notwithstanding any agreement or law to the contrary, deduct or withhold from it the amount of the tax and forthwith remit that amount to the Receiver General on behalf of the non-resident person on account of the tax and shall submit with the remittance a statement in prescribed form.
+(6) Liability for tax – Where a person has failed to deduct or withhold any amount as required by this section from an amount paid or credited or deemed to have been paid or credited to a non-resident person, that person is liable to pay as tax under this Part on behalf of the non-resident person the whole of the amount that should have been deducted or withheld, and is entitled to deduct or withhold from any amount paid or credited by that person to the non-resident person or otherwise recover from the non-resident person any amount paid by that person as tax under this Part on behalf thereof.
+[9] Subsection 215(6) does not shift the tax burden to the University of Waterloo and the HRDC. The University of Waterloo and the HRDC are liable for the tax they failed to deduct; however, this does not aid Mr. Solomon as both entities can recover the taxes from him. As well, Mr. Solomon is jointly and severally liable for any accrued interest on the outstanding taxes in accordance with subsections 227(8.1) and (8.3) of the Act:
+(8.1) Joint and several liability -- Where a particular person has failed to deduct or withhold an amount as required under subsection 153(1) or section 215 in respect of an amount that has been paid to a non-resident person, the non-resident person is jointly and severally liable with the particular person to pay any interest payable by the particular person pursuant to subsection (8.3) in respect thereof.
+(8.3) Interest on amounts not deducted or withheld -- A person who fails to deduct or withhold any amount as required by subsection 135(3), 135.1(7), 153(1) or 211.8(2) or section 215 shall pay to the Receiver General interest on the amount at the prescribed rate, computed
+(a) in the case of an amount required by subsection 153(1) to be deducted or withheld from a payment to another person, from the fifteenth day of the month immediately following the month in which the amount was required to be deducted or withheld, or from such earlier day as may be prescribed for the purposes of subsection 153(1), to,
+(i) where that other person is not resident in Canada, the day of payment of the amount to the Receiver General, and
+(ii) where that other person is resident in Canada, the earlier of the day of payment of the amount to the Receiver General and April 30 of the year immediately following the year in which the amount was required to be deducted or withheld;
+(b) in the case of an amount required by subsection 135(3) or 135.1(7) or section 215 to be deducted or withheld, from the day on which the amount was required to be deducted or withheld to the day of payment of the amount to the Receiver General; and
+(c) in the case of an amount required by subsection 211.8(2) to be withheld, from the day on or before which the amount was required to be remitted to the Receiver General to the day of the payment of the amount to the Receiver General.
+[10] I have concluded that Mr. Solomon was correctly assessed tax on his Canadian source income. Unfortunately I must dismiss Mr. Solomon’s appeal. However, this is a situation where the Minister of National Revenue ought to exercise his discretion to waive the interest for those years where the University of Waterloo and the HRDC knew or ought to have known that they were to withhold taxes as Mr. Solomon was a non-resident.
+[11] The appeal is dismissed.
+Signed at Toronto, Ontario this 26th day of October, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2007TCC654
+COURT FILE NO.: 2006-1560(IT)I
+STYLE OF CAUSE: Sulam Solomon v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 26, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

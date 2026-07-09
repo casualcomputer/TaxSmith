@@ -1,0 +1,173 @@
+---
+title: "Taupier Girard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28701/index.do"
+last_modified: "2008-05-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 176"
+citation2: ""
+neutral_citation: "2008 CCI 176"
+decision_date: "2008-05-09"
+language: "fr"
+item_id: "28701"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1491
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:48:02.302000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aeeac0ad04b97100f8c25d5fd809fd48171aae534d5bfcf80f93f4fbbeb823bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Taupier Girard c. La Reine
+
+- Citation: 2008 CCI 176
+- Decision date: 2008-05-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1491, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Taupier Girard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-09
+Référence neutre
+2008 CCI 176
+Numéro de dossier
+2007-3348(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3348(IT)I
+ENTRE :
+GINETTE TAUPIER GIRARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 mars 2008, à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations, établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005, est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Edmundston, Nouveau-Brunswick, ce 9e jour de mai 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI176
+Date : 20080509
+Dossier : 2007-3348(IT)I
+ENTRE :
+GINETTE TAUPIER GIRARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel de nouvelles cotisations établies à l’encontre de l’appelante le 19 juin 2006 pour l’année d’imposition 2005 et le 29 janvier 2007 pour l’année d’imposition 2004. L’appelante s’est vue refuser par le ministre du Revenu national (le ministre) la déduction des dépenses d’emploi de 7 461 $ pour l’année d’imposition 2004 et de 15 867 $ pour l’année d’imposition 2005.
+[2] Au cours des deux années en question, l’appelante travaillait pour une agence de voyages, soit « l’Agence aux Cinq Continents inc. » (l’Agence). Ses revenus pour chacune des années étaient de 32 418 $ en 2004, dont 7 461 $ étaient des revenus de commissions, et de 32 337 $ en 2005, dont 7 295 $ étaient des revenus de commissions.
+[3] L’appelante a été embauchée en octobre 2003 à titre de conseillère en voyages. Elle devait travailler 40 heures par semaine à un taux horaire de 12 $. De plus, elle avait convenu avec son employeur qu’il lui serait possible de travailler à titre d’agente externe à commission, celle-ci devant être partagée à raison de 60 % à l’appelante et de 40 % à l’Agence. Il faut comprendre qu’à titre d’agente externe, l’appelante devait passer par l’Agence pour la facturation puisque seule cette dernière possédait le permis d’agence de voyages et avait le droit d’utiliser un compte en fidéicommis, entre autres choses.
+[4] L’Agence et l’appelante n’ont cependant signé un contrat de travail que le 17 septembre 2004 pour une durée d’un an. Dans ce contrat, il est prévu, tel qu’énoncé ci-haut, que l’Agence versera à l’appelante un salaire de base au montant brut de 12 $ l’heure. Il est aussi convenu que l’Agence versera à l’appelante 60 % de la commission provenant des ventes de produits de voyages effectuées par l’appelante. On y a ajouté en notes manuscrites qu’il s’agit de ventes dites « personnelles ». L’appelante a expliqué lors de son témoignage que la commission était versée sur des ventes de voyages qu’elle effectuait à ses clients et non à ceux de l’Agence. C’est effectivement cette clause qui est à l’origine des malentendus entre l’Agence et l’appelante.
+[5] Selon l’appelante, lorsqu’elle a commencé son emploi à l’Agence, elle possédait déjà une liste de clients et c’est au sujet de l’exploitation de cette liste qu’elle a négocié le partage des commissions que l’on connaît. Cependant, elle soutient que l’Agence lui interdisait de travailler sur ses dossiers personnels et de rencontrer ses clients personnels durant ses heures de travail habituelles. Ce fait a en quelque sorte été confirmé par la représentante de l’Agence, madame Lafond, lorsqu’elle a expliqué qu’il n’était pas rentable pour l’Agence de verser une commission à l’appelante sur des ventes faites à ses clients personnels si les ventes étaient faites durant les heures où l’appelante était au service de l’Agence.
+[6] L’appelante a donc installé chez elle avec un ordinateur, un téléphone cellulaire, des fournitures de bureau et a encouru des dépenses pour frais de formation, bureau à domicile, promotions et autres. Toutes ces dépenses font l’objet du présent appel pour les deux années d’imposition en question et ont été refusées par le ministre du Revenu national.
+[7] Selon l’appelante, elle devait travailler sur ses dossiers personnels et rencontrer ses clients personnels ailleurs qu’à l’Agence, ce qui explique pourquoi elle a installé son bureau à la maison et a encouru les dépenses dont elle demande la déduction. Madame Lafond a témoigné que la seule exigence imposée à l’appelante était que cette dernière exécute le travail pour ses clients personnels en dehors de ses 40 heures de travail à l’Agence. L’appelante a d’ailleurs admis que l’Agence n’a jamais exigé que l’appelante ou ses autres employés aménagent un bureau à domicile.
+[8] La relation entre l’Agence et l’appelante s’est détériorée avec le temps de sorte que les conditions ont changé. Selon madame Lafond, le taux horaire de l’appelante a été majoré et on a mis fin aux paiements de commissions. L’appelante aurait cependant continué à faire des ventes de voyages à ses clients personnels en passant par l’entremise d’une autre agence de voyages. Lorsque madame Lafond a découvert ce fait, l’appelante aurait quitté son emploi à l’agence. L’appelante soutient cependant qu’elle aurait été congédiée.
+[9] En 2004, l’Agence a signé le formulaire TP-64.3 (Conditions générales d’emploi) pour le Ministère du Revenu du Québec. Le formulaire équivalent, soit le T‑2200, aurait également été signé par l’Agence pour l‘année d’imposition 2004 mais sa copie n’a pas été déposée en preuve. On soutient de part et d’autre que les réponses aux questions sont les mêmes. Les conditions générales d’emploi en 2004 indiquent que l’appelante a touché un revenu de commissions de 7 644,98 $, que l’appelante n’a reçu aucune allocation ni aucun remboursement, et qu’aucun paiement n’a été fait à l’appelante pour le loyer du bureau, le salaire d’un adjoint, d’un remplaçant ou pour des fournitures. Selon le formulaire, l’appelante ne devait pas exercer la totalité ou une partie de ses fonctions ailleurs qu’au lieu d’affaires de l’employeur.
+[10] Les réponses aux questions numéro 5, 9, 10, 11, 12, 15 et 17 ont toutes été modifiées. Madame Lafond a signé ce formulaire au nom de l’Agence. Aux questions numéro 5 et 9, elle aurait répondu le contraire de ce qui est inscrit et, quant aux autres changements, elle dit qu’elle les aurait paraphés si elle les avait faits elle-même. À titre d’exemple, à la question numéro 5, on demande si l’employé doit se déplacer durant ses heures de travail. La réponse sur le formulaire est oui alors que madame Lafond dit que la réponse est non. À la question 9, on demande si l’employé doit fournir un véhicule à moteur. La réponse est oui alors que madame Lafond dit que la réponse est non. Selon la question numéro 12, l’appelante devait tenir un bureau hors de l’établissement de l’employeur dans le but de tirer un revenu d’emploi de façon exclusive, ainsi que pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exercice de ses fonctions. La première réponse était non et elle a été modifiée par la suite par un oui. Le même scénario se répète à la question numéro 15, où on demande si l’appelante devait acheter des fournitures à utiliser dans l’exercice de ses fonctions. La réponse est maintenant oui. À la question 17, on a répondu que l’appelante devait payer certaines autres dépenses, mais aucune n’est précisée.
+[11] Pour ce qui est de l’année d’imposition 2005, aucun formulaire n’a été signé par l’Agence. L’appelante soutient qu’elle est devant la Cour parce que madame Lafond refuse de signer le formulaire T‑2200 au nom de l’Agence. Un formulaire rempli mais non signé a été déposé en preuve.
+[12] L’appelante a cependant allégué dans son avis d’appel qu’elle se considère comme une travailleuse autonome en ce qui concerne son revenu de commissions sur les ventes effectuées à ses clients personnels. Si tel est le cas, l’appelante n’aurait donc pas besoin d’une attestation de son employeur pour être admissible aux déductions à titre de vendeuse à commission. Il devient donc nécessaire, à mon avis, de clarifier la relation qui existait entre l’Agence et l’appelante en ce qui a trait aux ventes personnelles effectuées par cette dernière.
+[13] Il faut donc avoir recours aux dispositions du Code civil du Québec pour déterminer l’existence d’un contrat de travail. Les articles 2085, 2086, 2098 et 2099 sont les dispositions les plus pertinentes. Elles se lisent comme suit :
+Contrat de travail
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d’entreprise ou de service
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne]
+[14] Cela étant dit, la preuve avancée démontre clairement que l’appelante travaillait, dans le cadre de son emploi, sous la direction de l’Agence. Le contrat de travail conclu par l’Agence et l’appelante fait foi de leur intention et surtout du fait que l’appelante devait travailler à temps plein pour l’Agence même si la rémunération était différente en ce qui concerne les ventes faites aux clients personnels de l’appelante. L’appelante était incapable d’exécuter des ventes personnelles sans passer par l’Agence puisqu’elle ne détenait pas de permis délivré en vertu de la Loi sur les agents de voyages, L.R.Q. ch. A-10. Cette loi prévoit à l’article 5 que l’employé d’un employeur, pour le compte ou le bénéfice duquel un permis est détenu, peut effectuer les opérations d’un agent de voyages sans lui‑même être titulaire d’un permis pourvu que ces opérations soient accomplies pour le compte de l’employeur et non pour le compte personnel de l’employé. Il est donc évident que l’appelante se devait d’effectuer ses ventes de voyages à ses clients par l’entremise de l’Agence, de sorte que c’est l’Agence qui assume toutes les responsabilités à l’égard du client et qui doit respecter les obligations prévues par la Loi sur les agents de voyages, telle la tenue des livres, des registres et des comptes, notamment d’un compte en fidéicommis.
+[15] Il est donc évident que l’Agence a toujours conservé son pouvoir de direction ou de contrôle sur l’exécution du travail de l’appelante. Il y a donc en l’espèce une prestation de travail rémunérée de deux façons distinctes, ainsi qu’un lien de subordination qui caractérise le contrat de travail.
+[16] L’appelante travaillait donc en vertu de deux contrats de travail distincts, soit celui de conseillère en voyages pour les clients de l’Agence à un taux horaire et celui de conseillère en voyages pour ses clients personnels, mais dont les modalités prévoyaient qu’elle devait passer par l’Agence pour toucher une commission. La difficulté qui sous-tend cet appel est le fait que les modalités de travail n’ont jamais été clairement établies, ce qui explique les nombreux malentendus et les difficultés qu’ont connues les deux parties.
+[17] Pour déduire des dépenses dans le cadre de son travail, en ce qui a trait à ses revenus de commissions pour les deux années d’imposition en question, l’appelante doit remplir les conditions que l’on trouve à l’alinéa 8(1)f) de la Loi de l’impôt sur le revenu (la « Loi »). Je souligne d’emblée que les dépenses déductibles se limitent à celles qui ont été engagées pour permettre à l’appelante d’obtenir des revenus de commissions, soit 7 644,98 $ et 7 295 07 $, pour les années d’imposition 2004 et 2005 respectivement. L’alinéa 8(1)f) prévoit ces conditions que je résume ainsi :
+1. emploi lié à la vente ou à la négociation de contrats;
+2. l’employé doit être tenu, en vertu de son contrat de travail, d’acquitter ses propres dépenses d’emploi;
+3. l’employé doit être habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur;
+4. l’employé doit être rémunéré entièrement ou partiellement par le biais de commissions;
+5. l’employé ne doit pas recevoir d’allocation pour frais de déplacement.
+[18] Le paragraphe 8(10) de la Loi prévoit en outre que le contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii)(iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, soit le T‑2200 signé par son employeur, attestant que les conditions énoncées à la disposition applicable ont été remplies. Les alinéas (1)h) et h.1) concernent des frais de déplacement et des frais afférents à un véhicule à moteur. L’appelante demande aussi la déduction des dépenses liées à son bureau à domicile et au coût des fournitures prévus à l’alinéa 8(1)i) de la Loi. Je reproduis ci-après le paragraphe 8(10), l’alinéa 8(1)h) et 8(1)h.1) de la Loi :
+8(10)
+(10) Attestation de l'employeur -- Un contribuable ne peut déduire un montant pour une année d'imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s'il joint à sa déclaration de revenu pour l'année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l'année.
+8(1)h)
+h) Frais de déplacement -- lorsque le contribuable, au cours de l'année, à la fois :
+(i) a été habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d'emploi, d'acquitter les frais de déplacement qu'il a engagés pour l'accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu'il a dépensées pendant l'année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l'effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n'est pas incluse dans le calcul de son revenu pour l'année,
+(iv) demandé une déduction pour l'année en application des alinéas e), f) ou g);
+8(1)h.1)
+h.1) Frais afférents à un véhicule à moteur -- dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, les sommes qu'il a dépensées au cours de l'année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l'effet de l'alinéa 6(1)b), n'est pas incluse dans le calcul de son revenu pour l'année,
+(ii) demandé une déduction pour l'année en application de l'alinéa f);
+[19] Je dois également signaler les exigences du paragraphe 8(13) de la Loi et les limites que ce paragraphe impose concernant le travail à domicile :
+8(13)
+(13) Travail à domicile -- Malgré les alinéas (1)f) et i) :
+a) un montant n'est déductible dans le calcul du revenu d'un particulier pour une année d'imposition tiré d'une charge ou d'un emploi pour la partie d'un établissement domestique autonome où le particulier réside que si cette partie, selon le cas :
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l'emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l'emploi et est utilisée pour rencontrer des clients ou d'autres personnes de façon régulière et continue dans le cours normal de l'exécution des fonctions de la charge ou de l'emploi;
+b) si une partie de l'établissement domestique autonome du particulier répond à l'une des conditions énoncées aux sous-alinéas a)(i) ou (ii), le montant déductible pour cette partie d'établissement dans le calcul du revenu du particulier pour l'année tiré de la charge ou de l'emploi ne peut dépasser son revenu ainsi tiré pour l'année, calculé compte non tenu d'une déduction pour cette partie d'établissement;
+c) tout montant qui, par le seul effet de l'alinéa b), n'est pas déductible pour une partie d'établissement domestique autonome dans le calcul du revenu du particulier pour l'année d'imposition précédente tiré de la charge ou de l'emploi est réputé être un montant qui est par ailleurs déductible au titre de la partie de l'établissement dans le calcul du revenu du particulier pour l'année tiré de la charge ou de l'emploi et qui est, sous réserve de l'alinéa b), déductible dans le calcul de ce revenu.
+[20] L’appelante répond aux conditions 1, 4 et 5 que l’on trouve au paragraphe 16 des présents motifs en ce qui concerne les années d’imposition 2004 et 2005.
+[21] Pour l’année 2004, l’appelante aurait produit avec sa déclaration de revenu le formulaire T‑2200 dont le contenu serait identique à celui produit avec sa déclaration de revenu à Revenu Québec, soit le TP‑64‑3 déposé en preuve. Selon ce formulaire, il est précisé par l’Agence, à la question visant les frais de voyage et de véhicule à moteur, que l’appelante n’avait pas à exercer la totalité ou une partie de ses fonctions ailleurs qu’au lieu d’affaires de l’Agence ou à différents endroits. Le témoignage de madame Lafond a d’ailleurs confirmé ce fait lorsqu’elle a souligné que sa seule exigence était que l’appelante ne s’occupe pas de ses clients personnels durant ses heures de travail pour l’Agence. Selon ce même témoignage, les locaux et le matériel de l’Agence étaient disponibles après les heures de travail de l’appelante pour servir ses clients. Quant aux questions du T-2200 dont les réponses ont été modifiées, ces réponses sont incompatibles avec le fait que l’appelante n’avait pas à travailler ailleurs qu’au lieu d’affaires de l’Agence, l’appelante ne devait donc pas se déplacer durant ses heures de travail, ni utiliser un véhicule à moteur, ni engager des frais de voyage.
+[22] Quant aux frais de bureau et au coût des fournitures, les réponses sur le formulaire ont également été modifiées. Selon madame Lafond, elle aurait paraphé les changements si elle en avait été l’auteure. L’appelante n’était donc pas tenue d’avoir un bureau hors du lieu d’affaires de l’Agence. Même si elle l’avait été, selon la preuve entendue, il est certain qu’elle ne l’utilisait pas pour tirer un revenu d’emploi de façon exclusive ainsi que pour rencontrer des clients de façon régulière et continue dans le cours normal de l’exercice de ses fonctions.
+[23] L’Agence ne l’a pas tenu non plus d’acheter des fournitures telles qu’un ordinateur, logiciel ou autres dans l’exercice de ses fonctions. Il s’agit encore ici d’une réponse à une question qui fut modifiée.
+[24] Les témoignages entendus et les modalités du contrat déposés en preuve ne m’ont pas convaincu que l’appelante était tenue d’exercer les fonctions de son emploi habituellement ailleurs qu’au lieu d’affaires de l’Agence. Quoiqu’il soit raisonnable de conclure que l’appelante a engagé des dépenses d’emploi liées à ses ventes pour ses clients et qu’elle a fait du travail à domicile, elle n’était pas tenue par l’Agence de le faire. Cette condition est essentielle pour l’application de l’alinéa 8(1)f). Même si l’appelante y avait été tenue, il lui faudrait établir qu’elle utilisait son bureau à domicile pour accomplir principalement les fonctions de sa charge ou de son emploi. La preuve a révélé que les ventes à commission de l’appelante ne représentent que 10 à 15 % de toutes les ventes qu’elle a effectuées pour l’Agence. Le Ministre était donc justifié de refuser les montants déduits par l’appelante à titre de dépenses d’emploi pour l’année 2004.
+[25] En ce qui concerne l’année d’imposition 2005, les modalités et conditions d’emploi n’ont pas changé. L’Agence n’a pas exigé que l’appelante ait un bureau à domicile et cette dernière n’était pas tenue d’exercer ses fonctions ailleurs qu’au bureau de l’Agence. Conséquemment, le Ministre était donc également justifié de refuser les dépenses déduites pour l’année d’imposition 2005.
+[26] Pour ces motifs, l’appel est rejeté.
+Signé à Edmundston, Nouveau-Brunswick, ce 9e jour de mai 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI176
+Nº DU DOSSIER DE LA COUR : 2007-3348(IT)I
+INTITULÉ DE LA CAUSE : Ginette Taupier Girard et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 4 mars 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 9 mai 2008
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

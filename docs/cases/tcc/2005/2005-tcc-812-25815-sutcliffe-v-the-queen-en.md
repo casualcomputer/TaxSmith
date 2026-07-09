@@ -1,0 +1,498 @@
+---
+title: "Sutcliffe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25815/index.do"
+last_modified: "2005-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 812"
+citation2: ""
+neutral_citation: "2005 TCC 812"
+decision_date: "2005-12-22"
+language: "en"
+item_id: "25815"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3891
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:59:26.508000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c220bf5ca6dfbeec61db5362c8a53906d66467a25e3527c73c7fe90592a1939b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sutcliffe v. The Queen
+
+- Citation: 2005 TCC 812
+- Decision date: 2005-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3891, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutcliffe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-22
+Neutral citation
+2005 TCC 812
+File numbers
+2001-2556(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC812
+Date: 20051222
+Docket: 2001-2556(IT)G
+BETWEEN:
+MARK SUTCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Mark Sutcliffe, a former Air Canada pilot, concerning remuneration received by him during a period that he was a non-resident of Canada. The assessments were made under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended, (the "Act") and pertain to the 1996, 1997 and 1998 taxation years.[1]
+[2] The assessments issued to the appellant are not unique. After receiving an inquiry from a Member of Parliament, the Canada Revenue Agency (the "Agency") undertook a review of the taxation of pilots employed by Air Canada and Canadian Airlines (as it then was) who filed tax returns on the basis that they were non-residents of Canada. The Agency's review culminated in the development of an assessing policy that was communicated to the appellant by letter dated December 7, 1998.
+[3] Several pilots, including the appellant, received reassessments pursuant to the assessing policy described in the letter. In some cases, the Agency challenged the residence status of the pilot while in others the pilot's status as a non-resident was accepted and the reassessments only increased the amount of remuneration that was subject to tax.
+[4] The reassessments issued to the appellant are in the latter category. The Minister accepted that the appellant was a non-resident and issued assessments that increased his "taxable income earned in Canada."
+[5] In addition to challenging the computation of federal tax, the appellant sought leave to appeal the allocation of income for provincial tax purposes. The provincial allocation issue is not part of this appeal because the appellant's application to amend the notice of appeal to include this issue has been disallowed: The Queen v. Sutcliffe, [2005] 1 C.T.C. 149 (F.C.A.).[2]
+[6] The main issue in the appeal is how remuneration should be allocated to duties performed in Canada. There are three aspects to the dispute. The first concerns international flights, in which the appellant takes the position that remuneration received for these flights is not subject to tax, even to the extent of the "domestic portion" of the flights. The second concerns domestic flights, in which the respondent takes the view that the remuneration is fully taxable, even with respect to the "foreign portion" of the domestic flights that overflew the United States. The last issue concerns remuneration such as vacation and sickness pay that is not linked to specific duties. The appellant submits that remuneration that is not linked to specific duties is not taxable.
+[7] Both parties gave numerous arguments in support of their respective positions and these are discussed at some length below. In general, I have concluded that the positions above taken by the appellant and the respondent are not supported by the clear words of the Act or the Canada-United States Income Tax Convention (1980) (the "Convention.").
+Facts
+(a) General
+[8] Throughout the relevant period, the appellant was employed by Air Canada as a pilot and was a resident of the United States. He became a non-resident in 1994 when he moved from Canada to Lewiston, New York, which is within commuting distance of the Toronto airport.
+[9] The appellant had the ranks of captain and first officer on DC9 and A320 aircraft. His flight assignments, which were made under a bidding system, were made on the basis of groups of flights called "pairings." All of the pairings assigned to the appellant began and ended in Toronto, which was his base of operations for employment purposes.
+[10] The appellant flew over 1,000 flights during the period under appeal. They were each listed in pay summaries that were issued by the airline, with the flights being identified by airport code. It appears that most of the flights were either between two points in Canada (domestic flights) or between a point in Canada and a point in the United States (international flights). The appellant also had a small number of flights to Caribbean destinations. Based on my cursory review of the list of flights, the most frequent cities that the appellant flew to, other than Toronto, were Boston, Newark, New York, Chicago, Ottawa, Montreal, Winnipeg and Halifax.
+(b) Description of employment duties
+[11] The terms of the appellant's employment were governed by collective agreements negotiated by The Air Canada Pilots Association. There were two agreements in force during the relevant period (the "Collective Agreements").
+[12] The primary duties that the appellant had consisted of flying passenger aircraft, either as a captain or first officer. In addition to operating the aircraft, the appellant had duties on the ground before and after each flight. In general, the appellant was on duty commencing approximately 60 minutes before takeoff until 30 minutes after landing.
+[13] The conditions of employment also required:
+· that the appellant attend training sessions involving practice flying ("line indoctrination"), ground school and simulator training;
+· that the appellant fly as a passenger when he was not already in the city where a flight was to depart from ("deadheading");
+· that the appellant be away from home for periods of time between flights ("layovers");
+· that flights assigned to the appellant could be reassigned to pilots with more seniority ("displacement"). In the event of a displacement, the appellant was given reasonable notice before leaving home for the airport; and
+· that the appellant be on "reserve duty," meaning that the appellant had to be available to fly if asked, but he could decline if a pilot with less seniority were available.
+(c) Description of remuneration
+[14] The provisions in the Collective Agreements dealing with the remuneration of pilots are complex. In general, the appellant's remuneration had some similarity to a fixed annual salary because he was paid during periods such as sickness and vacation when duties were not performed. His pay cheques were not fixed amounts, however. The remuneration varied depending on the nature of the duties performed and the type of off-duty period. For example, the appellant received amounts determined by a formula for time spent in flying, deadheading or training. He also received different amounts for periods during which duties were not performed, such as when he was on reserve duty, was displaced, was on vacation or was sick.
+[15] The following summarizes the types of remuneration received by the appellant during the relevant period. The descriptions are general, but are sufficient for purposes of the issues in the appeal.
+[16] Flying pay - Flying pay was an amount paid for each flight, determined primarily on the basis of flight time.[3] The time was determined in minutes, starting with when the aircraft pushed back from the departure gate and ending when it came to a stop at the arrivals gate.[4] Many other factors also figured into the calculation of flying pay, such as whether the flight was an overseas flight, whether the pilot flew at night and the type of aircraft. Although the appellant was required to be on duty for a period of time before and after each flight for duties connected with the flight, the preparation time was not included in the computation of flight minutes which were used to compute flying pay.[5] The amount of flying pay that could be earned for a month was subject to a minimum and maximum, which varied depending on the circumstances. To illustrate, flying pay could be adjusted for minimum and maximum flying times of between 70 and 78 hours, respectively.
+[17] Deadheading - A certain amount was paid when the appellant flew as a passenger for employment purposes. The amount was determined as a percentage of flying pay.
+[18] Training - A certain amount was paid for periods when the appellant undertook training. Generally, the amount paid was a percentage of flying pay.
+[19] Displacement - If the appellant was displaced (that is, bumped from a flight assignment by a pilot with more seniority), an amount was paid equal to the amount of flying pay that the appellant would have earned if he had taken the assignment. The flight time was determined not by the actual time of the flight but by the flight time listed in Air Canada's published schedule.
+[20] Vacation - A certain amount was paid for each day of vacation. The amount was calculated, generally, as a percentage of flying pay.
+[21] Sickness - A certain amount was paid for each day that the appellant was unable to perform duties because of sickness. The amount was calculated in accordance with a formula that depended on a number of factors. For example, if a pilot who had been scheduled to fly on a particular day was sick, the pilot might be paid as if he had flown the flight and the time was determined by the flight times listed in Air Canada's published schedule.
+[22] Guarantees - The appellant received minimum amounts, generally referred to in the Collective Agreements as guarantees. Three different types of guarantees are relevant to the appeal:
+· Monthly minimum guarantee - When the appellant had only a few flight assignments in a particular month, he received additional flying pay. This was often paid when the appellant was on reserve duty. The amount was calculated based on a minimum number of hours of flying pay per month, which was pro-rated if the appellant was on reserve duty for only part of a month.
+· Duty period guarantee - For every "period" of flight duty, the appellant received a minimum amount of flying pay. This top up amount compensated the appellant for periods when the actual flying time on a particular flight assignment was small.
+· Trip hour guarantee - The appellant received additional compensation during layovers. The payments were structured as a guarantee so that the appellant would receive, in general, a minimum of one hour of flying pay for every four hours that the appellant was away from his home base during a pairing.
+[23] The total remuneration received by the appellant in the relevant taxation years is set out in the following chart which separates flying pay, domestic and international, and other types of pay:[6]
+Domestic
+flying pay
+Intl.
+Flying pay
+Other
+pay
+1996
+$47,663
+$51,144
+$36,887
+1997
+$48,491
+$86,138
+$35,910
+1998
+$45,475
+$92,952
+$46,215
+(d) The appellant's income tax returns
+[24] In the appellant's income tax returns for the first two of the three taxation years under appeal, he computed "taxable income earned in Canada" by excluding flying pay for international flights and much of the remuneration listed as "Other Pay" in the above chart. He did not provide a complete list of the types of remuneration that were included or excluded. I believe that tax was paid generally on remuneration for domestic flights and training (other than practice flying on international flights).
+[25] The appellant testified that, for the third taxation year under appeal, he prepared his income tax return in a manner that attempted to comply with the Agency's new assessing policy.
+(e) The reassessments
+[26] The reassessments that were issued to the appellant were made on the basis outlined in a letter from the Agency dated December 7, 1998. In general, the appellant's remuneration was divided into taxable portions and non-taxable portions, with the taxable portion being remuneration that was reasonably attributed to duties performed in Canada. The allocation was based on actual information where it was known, and on assumptions where the relevant facts were not known.
+[27] I have set out below extracts from the December 1998 letter which explains in some detail how the appellant was reassessed.
+The Department's position is that the income earned by a non-resident employee employed by a Canadian based airline is taxable in Canada on the following basis:
+a) Flying Pay
+[...] We are of the view that remuneration for domestic flights is wholly taxable in Canada regardless of whether or not the flight path between the two points in Canada crosses over the United States border.
+[...] The portion of an international flight originating or terminating in Canada which is flown in Canadian airspace is taxable in Canada. [...]
+In determining the domestic component attributable to international flights the Department has prepared the attached schedule. The information compiled is based on average flight paths and is not flight specific. However, the following assumptions are included in the calculations:
+i) average flight paths are determined as the most direct route between the point of origin and the destination using conventional navigation e.g. great circle routes,
+ii) distance in Canada is computed by distance from the point of origin (or destination) to (or from) the point on the border or in territorial waters where the flight leaves (or enters) Canada, which is determined from the average flight path,
+iii) the distance for the flight path is from data received from a Canadian airline, and was cross-referenced to an independent third-party source,
+iv) time in Canada is determined by dividing the distance in Canada by airspeed,
+v) airspeed is the average airspeed throughout the flight determined by reference to the distance and minutes for the flight as indicated by the airline.
+vi) a minimum of 15 minutes in Canada on any flight to cover taxiing and departure.
+[...]
+b) Training
+[...] For tax purposes, such remuneration is considered sourced where the training took place and should be allocated on the basis of working days. Where training includes actual flying (domestic and/or international flights) the applicable remuneration should be allocated in accordance with a) above.
+c) Deadheading
+It is the Departments position that deadhead pay should be allocated on the same basis as a) above, regardless of the fact that you may or may not have taken the deadhead trip. The basis for this position is that you receive this remuneration because you are under your employer's order to deadhead; otherwise you would not receive this pay. As a result, you are considered to be providing services to your employer even though you may or may not have taken the deadhead trip.
+[...]
+f) Vacation Pay, Sick Pay, Displacement, Bank Time, Minimum Guarantee pay and Other Pay
+These amounts are considered non-service-related amounts, and as such cannot be related to a specific location. As a result, they are considered taxable to the extent the other services that you provide to Air Canada are performed in Canada. Therefore, such income should be allocated on the following ratio:
+Total of items a) to e) earned in Canada
+x
+Total of items f) for the year
+Total of items a) to e) above for the year
+Where applicable, any incidental amounts such as Duty Pay Guarantee, Navi-Aid, Overseas Operations Pay, Trip Hour Guarantee, etc., should be included in items a) through to f) * above to which they specifically relate. If they cannot be attributed to a specific item in a) to e), then the amounts should be included in f).
+[*The reference to f) should perhaps be to e).]
+[28] In the case of the appellant, it appears that, in making the reassessments, flying pay, training pay, deadhead pay and duty period guarantees were allocated to locations where duties were performed and that the other remuneration received by the appellant was pro-rated in accordance with f) above.
+[29] In the case of flying pay for international flights, the remuneration was allocated to Canada on the basis of flight minutes that the flight was determined to be in Canadian territory (the "domestic portion"). For example, if on a flight between Toronto and New York it is assumed that the flight was in Canada for ten percent of the time, then ten percent of the remuneration paid for that flight would be allocated to Canadian duties.
+[30] Using this methodology, the Minister allocated a relatively small portion of the flying pay for international flights to Canada. The following chart summarizes, for each year, the total remuneration for international flights and the taxable portion computed for purposes of the reassessments.
+Income from
+international
+flights
+Amounts
+attributable to
+duties in Canada
+1996
+$51,144
+$10,001 (20%)
+1997
+$86,138
+$16,023 (19%)
+1998
+$92,952
+$13,849 (15%)
+(f) Other facts
+(i) Domestic flights
+[31] All flying pay for domestic flights was attributed to duties performed in Canada in the reassessments, regardless of whether or not the flight paths crossed the United States border.
+[32] There are three routes for which this is relevant - Torontobeing at one end of each route and Vancouver, Montreal and Halifax being at the other end. According to the testimony of the appellant, which I accept in this regard, flights between Toronto and Montreal or between Toronto and Halifax usually overfly the United States and flights between Toronto and Vancouver sometimes overfly the United States.
+(ii) Fifteen minute rule
+[33] In the event that the flying time apportioned to Canada for a particular flight was determined to be less than 15 minutes, the Minister increased the flying time to 15 minutes. An official of the Agency, Rene Fleming, explained that this was a reasonable adjustment to make because it accounted in a very small way for the pilot's duties on the ground, such as flight preparation and taxiing. The adjustment was made to several of the appellant's flights, such as flights from Toronto to New York, where the distance from Toronto to the border is very small.
+(iii) Evidence regarding accuracy of assessments
+[34] Both parties led evidence regarding the accuracy, or inaccuracy, of the reassessments.
+[35] For the appellant, several Air Canada pilots and a dispatcher testified. In general, they described the Agency's methodology as being grossly oversimplified, based as it is on the idea of "average flight paths" and speeds which are essentially fictional.[7] It also does not take into account delays in either take offs or landings.
+[36] According to the testimony, pilots are presented with flight plans prepared by dispatchers prior to the departure of a flight. The dispatchers use a computerized system for calculating the shortest distance between two points modified with reference to restricted airspace, weather patterns, and the jet stream. Those flight plans inevitably change once the flight has begun due to changes in weather and wind patterns. Fuel is very expensive, so taking advantage of tail winds and avoiding head winds is important to routing. The pilots testified that the actual flight path and time of each flight is inherently unpredictable as a result of these variables. As a result, the Agency's methodology was highly artificial, according to the pilots.
+[37] In support of the assessments, the respondent suggested that a number of the assumptions that the Agency used were in the appellant's favour. For example, the assessments did not take into account duties on the ground before and after each flight.[8] Duties on the ground obviously take place in both domestic and foreign locations. The failure to take these duties into account on either end is presumably in the appellant's favour because of the relatively small amount of remuneration allocated to Canada. The percentage of remuneration allocated to Canada would increase if duties on the ground were taken into account.
+[38] In terms of support from independent sources, the respondent introduced a chart prepared by Canadian Airlines that had apportioned remuneration to the provinces. No one representing the airline testified at the hearing and there was no evidence led as to how the apportionment had been done. In light of this, I did not find that the chart was very helpful.
+[39] The respondent also introduced actual flight data that was obtained from Nav Canada, a non-profit corporation that is charged with air control in Canada and parts of the northern Atlantic.
+[40] Sometime after the assessments had been issued, the Agency became aware that Nav Canada keeps extensive records of actual points of entry to and exit from Canada on every international flight.
+[41] The Agency sought Nav Canada's assistance in order to check the accuracy of its assumptions regarding the distances that the appellant had flown in Canada on international flights. An official from Nav Canada collected information from actual flights during a 12-month period ending October 31, 2003 on the same international routes that the appellant had flown.
+[42] The respondent introduced into evidence a chart[9] prepared by the Agency that shows how the income would differ if the distances were computed using Nav Canada's records for the 12-month period of collected data instead of the distance assumptions that the Agency had used (usually, great circle distances). The chart compared the appellant's taxable income earned in Canada with respect to international flights using these two methods. It included all of the appellant's international flights except those for which the 15 minute rule was applied (e.g., New York).
+[43] The following is an excerpt from that chart. It illustrates that the taxable income earned in Canada is similar under both methods. I would note, though, that
+a large number of international flights are excluded, presumably because the 15 minute rule applied to them.[10]
+Income as per assessments
+Income as per NavCan data
+1996
+$4,442
+$4,438
+1997
+$6,115
+$6,214
+1998
+$4,724
+$5,405
+[44] The respondent also introduced a chart prepared by the Agency[11] that compares distances as recorded by Nav Canada and distances assumed by the Agency on selected routes flown by the appellant. Excerpts from this chart are provided in Appendix A. Although the chart has limited usefulness because the Agency used "selected" flights, I have included it in these reasons because it is instructive to see the difference in mileage for particular flights.
+Positions of parties
+[45] Both parties presented several arguments in support of their respective positions. The following summary is based on their written submissions.[12]
+(a) Position of appellant
+[46] It is the position of the appellant that the relevant provisions are subparagraph 115(1)(a)(i) of the Act and Article XV of the Convention.
+[47] He submits that, by virtue of these provisions, he is not taxed on remuneration that is attributable to international flights or remuneration that is in the nature of "benefits" which is not paid for duties performed.
+[48] With reference to international flights, the appellant submits that the unique nature of air travel makes it impractical for pilots to accurately measure remuneration from duties performed in Canada on flights that cross borders. He submits that this problem is recognized throughout the world and that countries generally do not tax remuneration for international flights outside the pilots' country of residence. Canada should follow this practice, it is suggested, in order to avoid double taxation and administrative complexity. The appellant further suggests that it is appropriate to exclude remuneration for international flights because this was the method of apportionment that was followed by his employer for source deduction purposes.
+[49] The appellant argues in the alternative that there should be a consistent basis of taxation with respect to international and domestic flights. The appellant submits that if he is taxed on remuneration for international flights that he should be allowed to exclude the portion of remuneration for domestic flights that is attributable to the period that the aircraft was not in Canadian territory.
+[50] As for remuneration for periods when duties have not been performed, such as sickness and vacation pay, the appellant suggests that this remuneration is not taxable because it is not attributable to duties performed in Canada. Further, being in the nature of "benefits," the appellant submits that the remuneration is exempt from tax under Article XV of the Convention.
+(b) Position of respondent
+[51] The respondent takes the position that the assessments are correct because they have reasonably allocated remuneration to duties performed in Canada in accordance with subparagraph 115(1)(a)(i) of the Act and Article XV of the Convention. What is reasonable in the circumstances of this case, according to the respondent, is that the appellant is taxed on all remuneration paid for domestic flights, the portion of remuneration for international flights that is attributable to the "domestic portion" of those flights, and a pro-rata portion of other remuneration that either is not attributable to specific duties or is not attributable to known locations.
+[52] Even if the assessments do not reasonably apportion the appellant's remuneration, the respondent argues, the assessments should be upheld because the appellant has not suggested a reasonable alternative.
+[53] In reference to domestic flights, the respondent suggests that remuneration attributable to them is fully taxable even if some of the duties take place outside Canada. The position is based on a contextual interpretation of subparagraph 115(1)(a)(i) of the Act and Article XV of the Convention, taking into account the fact that domestic flights have a substantial connection to Canada. The respondent also suggests that it is inappropriate to vary the assessments because there is an insufficient factual foundation to establish that any of the domestic flights flown by the appellant actually crossed into the United States.
+[54] As for remuneration that is not attributable to specific duties, the respondent suggests that it is reasonable to allocate a portion of this remuneration to duties performed in Canada. Alternatively, the respondent suggests that there should not be an apportionment at all and that this remuneration is fully taxable in Canada. The argument relies on the application of subparagraph 115(1)(a)(v) of the Act instead of subparagraph 115(1)(a)(i).
+Analysis
+(a) General scheme
+[55] The general scheme of taxation applicable to employment income earned by a resident of the United States is that the remuneration is subject to tax as "taxable income earned in Canada" to the extent that the remuneration is attributable to duties performed in Canada.
+[56] The main provisions are subparagraph 115(1)(a)(i) of the Act and paragraph 1 of Article XV of the Convention which read:
+Section 115
+(1) For the purposes of this Act, the taxable income earned in Canada for a taxation year of a person who at no time in the year is resident in Canada is the amount, if any, by which the amount that would be the non-resident person's income for the year under section 3 if
+(a) the non-resident person had no income other than
+(i) incomes from the duties of offices and employments performed by the non-resident person in Canada [...]
+[Emphasis added]
+Article XV
+1. Subject to the provisions of Article XVIII (Pensions and Annuities) and XIX (Government Service), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+[Emphasis added]
+[57] Overriding this general scheme is a special exemption in the Convention for employees who work in international transportation. The exemption does not apply to the appellant, however, because it is limited to pilots who work for airlines that are resident in the United States.
+[58] The exemption is in paragraph 3 of Article XV which reads:
+Article XV
+3. Notwithstanding the provisions of paragraphs 1 and 2, remuneration derived by a resident of a Contracting State in respect of an employment regularly exercised in more than one State on a ship, aircraft, motor vehicle or train operated by a resident of that Contracting State shall be taxable only in that State.
+[59] The general scheme is clear. Remuneration that relates to duties in Canada is subject to Part 1 tax as "taxable income earned in Canada." How this applies to the types of remuneration earned by the appellant is the question in this appeal. I will begin the analysis with remuneration paid for international flights.
+(b) International flights
+(i) General
+[60] Neither the Act nor the Convention provides rules of apportionment that apply to employees who perform only part of their duties in Canada. In this case the taxable portion may be computed on any reasonable basis.
+[61] In Interpretation Bulletin IT-420R3,[13] Non-residents - Income earned in Canada, the Agency suggests that pilots engaged in international flight may allocate remuneration to Canada on the basis of time or distance. The following is an excerpt from paragraph 7:
+[...] For a non-resident who is employed in the transportation of passengers or goods partly inside and partly outside Canada such as by rail, bus, truck or aircraft (and who is not exempt from Canadian tax under a tax treaty), the income allocation may be calculated either on the basis of time or kilometres travelled. [...]
+[62] This position is not binding on taxpayers of course but it does provide notice to the appellant as to the general assessing position of the Agency.
+[63] It is not in dispute that the appellant performed some duties of employment in Canada in connection with international flights. Part of each flight was in Canada[14] and the appellant was required to perform duties on the ground before and after each flight.
+[64] It is important to note that the appellant does not take the position that duties performed in the air over Canadian territory are not duties in Canada for purposes of this appeal.[15] I have assumed, then, that these duties are performed "in Canada."
+[65] Notwithstanding this, the appellant suggests that no remuneration for international flights be allocated to Canada.
+[66] The evidence of the appellant focused on flaws with the Agency's assumptions used in apportioning remuneration to Canada. In considering differing methods of apportionment, though, the question is not whether there are flaws with a particular method. The question is which of the parties' methods is more reasonable.[16]
+[67] In comparing the two methods proposed by the parties, it is clear that the Minister's approach results in a much closer approximation than the approach suggested by the appellant.
+[68] Moreover, the appellant has not provided any evidence that would support a more accurate allocation. It is not sufficient for the appellant to establish that the Minister's apportionment is inaccurate. He has not provided any reasonable basis to vary the assessments as they relate to international flights.
+[69] The appellant suggests that if I reject his position regarding international flights, an allocation should be made based on actual flight paths. This proposition is patently unreasonable because there is no evidence that records of actual flight paths still exist. To the contrary, the evidence on this point suggests that the flight plans filed by pilots after each flight are retained by the airline only for a short period.
+[70] Before turning to some of the specific arguments raised by the appellant, I would comment that if the appellant's method were accepted, the practical effect would be to extend the exemption in paragraph 3 of Article XV of the Convention to all pilots resident in the United States. This interpretation is not justified given the clear language in paragraph 3.
+[71] I now turn to specific arguments raised by the appellant regarding international flights.
+(ii) Is appellant's method of allocating flying pay generally recognized around the world?
+[72] The appellant submits that it is reasonable to pay tax on remuneration for domestic flights and not international flights because this is an accepted practice around the world. Counsel refers to this approach as the "traditional method" and suggests that great harm ("double tax and chaos") would follow if Canada did not follow this international practice.
+[73] According to the appellant, the "traditional method" was accepted by the Agency until 1998 when the Agency's assessing practice changed. And it only changed, he suggests, for pilots of Air Canada and Canadian Airlines. Pilots of other airlines are still not required to pay tax on remuneration for international flights.
+[74] In support of this argument, testimony was provided by Dr. Brian Campbell, a business consultant who specializes in the aviation industry. According to Dr. Campbell's curriculum vitae, he has spent a large part of his 35-year career "heavily concentrated in the economic elements of commercial air transportation." In addition to being an independent consultant, Dr. Campbell co-founded two start-up airlines, Midway Airlines, Inc. and Air Chicago.
+[75] I would note that Dr. Campbell did not testify as an expert witness and he acknowledged that he was not qualified to give an opinion on taxation laws. Further, there is no indication from Dr. Campbell's curriculum vitae or from his testimony that he had any specialized knowledge of taxation, apart from what he had learned from his general financial experience.
+[76] Dr. Campbell testified as to his knowledge about the taxation of pilots around the world. In general, his view is reflected in the following excerpt from his examination-in-chief:
+Q. [...] is [the Agency's method] used or practised in the United States or in any other countries that you know of?
+A. I have never seen evidence of it practised in the United States; I have never seen evidence of it practiced in any other country with which I am familiar.
+[77] It is not clear to me that the taxation practices in other countries have any bearing on the interpretation of provisions of the Act or the Convention. Apart from this, though, I am not satisfied that Dr. Campbell is knowledgeable as to those taxation practices.
+[78] Although Dr. Campbell has impressive credentials, they were not in the highly specialized area of taxation. Dr. Campbell admittedly was not an expert in the laws of taxation and there is no indication from his evidence that he had an in-depth knowledge of the taxation of pilots. I find that his testimony is not sufficient to establish even on a prima facie basis[17] that the method of allocation suggested by the appellant is an international practice that has been accepted around the world.
+[79] Another problem that I have with the appellant's submission is that there was no evidence properly before me regarding the domestic tax laws of other countries or income tax conventions other than the Canada-United States Income Tax Convention (1980). The failure of the appellant to present any expert evidence regarding foreign tax laws or practice is not helpful to his submission. In addition, the appellant did not refer to the Model Tax Convention published by the Organisation for Economic Co-operation and Development (OECD), which has "has world-wide recognition as a basic document of reference in the negotiation, application and interpretation of multilateral or bilateral tax conventions.[18]
+[80] Further, I would note that if there is an accepted international practice as the appellant suggests, it is not reflected in Canada's income tax conventions. Canada has an extensive network of income tax conventions with other countries. As noted above, the only income tax convention that I was referred to was the convention with the United States. From a cursory review of other income tax conventions to which Canada is a party, these conventions seem to adopt the same, or a similar, approach to that set out in paragraph 3 of Article XV of the income tax convention with the United States.
+[81] What may be inferred from Canada's income tax conventions is that Canada and its treaty partners have considered concerns about double taxation of pilots involving international flights. In order to address these concerns, they have provided a general exemption for remuneration for international flights but it is limited to situations where the pilot works for an airline based in his country of residence. The policy appears to balance two competing objectives - on the one hand, the desirability of avoiding complexity and double taxation for pilots engaged in international flights and, on the other hand, the recognition of a country's right to tax remuneration earned by pilots working for airlines based in their country. The appellant's position runs counter to the latter objective.
+[82] As for Canada's assessing practice, the appellant argues that prior to 1998 Canada allowed non-resident pilots to exclude remuneration for international flights. I do not accept this submission because IT-420R3 suggests just the opposite. It was the Agency's policy during the relevant period, as suggested by the bulletin, to impose tax to the extent that duties were performed in Canada, unless relief was provided by an income tax convention.
+[83] For these reasons, I reject the proposition that it is reasonable to exclude remuneration for international flights on the basis that it is in accordance with international practice.
+(iii) Are other methods of allocation too complex?
+[84] The appellant submits that an interpretation that requires remuneration to be allocated based on where duties are performed should be rejected as being too complex and requiring onerous record-keeping.
+[85] The appellant stresses the severe administrative burden on pilots if they are required to keep records that would enable an accurate apportionment of remuneration. This submissionmisapprehends what is required to comply with subparagraph 115(1)(a)(i).
+[86] If an income-generating activity is carried on in more than one country, it is often necessary to apportion income on some reasonable basis. An appropriate method of apportionment should strive for accuracy but also adopt a practical approach to record-keeping. The use of sampling and estimations are some of the methods that might be acceptable in any particular case to reduce administrative complexity.
+[87] In the appellant's circumstances, the use of sample flight paths and sample flight times might have avoided much of the complexity that the appellant refers to and yet provide a reasonable estimation of remuneration from duties performed in Canada. Accordingly, I reject the suggestion that the appellant's method should be accepted because other methods are too complex.
+(iv) Are other methods prone to double taxation?
+[88] The appellant suggests that the Agency's approach leads to serious double taxation issues for all pilots around the world.
+[89] First, I do not accept the proposition that the effect of the decision in this appeal will have a significant impact on the taxation of all pilots around the world. If other countries have provided exemptions for pilots similar to that in paragraph 3 of Article XV of the Convention, then the concern that the appellant raises is restricted in a practical sense to pilots who, like the appellant, are residents of a different country than the residence of the airline that they work for.
+[90] Moreover, if there are serious double taxation concerns, these are proper matters for Parliament to address through changes to the Act and Canada's income tax conventions. As noted earlier, it appears that Parliament has considered the issues of complexity and double taxation that the appellant raises and has provided the relief that is contained in paragraph 3 of Article XV of the Convention. It is not the role of the courts to expand the relief that has been specifically provided for.
+(v) Should the appellant be entitled to rely on employer's method of allocation?
+[91] The appellant submits that it is reasonable for him to rely on the allocation method used by Air Canadafor source deduction purposes. He suggests further that the Act contemplates that the employer has the responsibility for proper record-keeping and that no such obligation is imposed on employees.
+[92] I would comment first that employers are generally not required under the Act to apportion remuneration to different countries. An employer is generally obligated to withhold tax in respect of an employee's entire remuneration, regardless of whether it is subject to tax in Canada or not.[19] It is possible for an employer to withhold tax on a reduced basis, but this generally requires the consent of the Agency.[20]
+[93] As for the obligations of employees, it is generally not sufficient for an employee to report income based on the source deduction method used by the employer if the employer has used an unreasonable method. It is a basic requirement of the Act that taxpayers report the proper amount of income or taxable income earned in Canadain their annual return of income.[21]
+[94] Further, employees are obligated to keep appropriate records so that the correct amount of tax can be verified.[22]
+[95] Neither party referred to the Sumner decision above. In it, Bowman C.J. suggests that an allocation made by an employer is prima facie evidence of a reasonable allocation. The Chief Justice suggests that the reason for this is that the employer generally is in a good position to evaluate the various methods of allocation.
+[96] No one from the administration of Air Canadatestified at the hearing and the airline's rationale for the source deductions that it made is not known. Assuming that the source deductions are nevertheless prima facie evidence of a reasonable allocation, I find that any method that excludes all remuneration paid for international flights is not reasonable. In my view, it is not sufficient for the appellant to rely on the source deductions made by Air Canada.
+[97] For all these reasons, I conclude that the allocation method proposed by the appellant with respect to remuneration for international flights is not reasonable and that there is no basis to disturb the assessments as they relate to this remuneration.
+(c) Domestic flights
+[98] The conclusion that I have reached with respect to international flights applies equally in my view to domestic flights. The result is that remuneration for domestic flights should not be taxed to the extent that the aircraft passes through the United States.
+[99] The appellant did not suggest this as a primary submission but suggested it in the alternative in the event that his submission with respect to international flights was not accepted.
+[100] The respondent suggests that domestic flights have such a substantial connection to Canada that the entire remuneration attributable to them should be included in taxable income earned in Canada. Counsel suggests that this interpretation is consistent with the scheme of the Act and the Convention and that it is supported by judicial authorities.
+[101] As I mentioned previously, the scheme of the Act and the Convention with respect to the taxation of remuneration is clear in my view. The only relevant factor to be considered is whether the remuneration is attributable to duties performed in Canada. It makes no difference that the remuneration has other connecting factors to Canada. If the remuneration is not attributable to duties performed in Canada, it is not subject to tax.
+[102] The respondent argues that the scheme of the Act with respect to international transportation is revealed in other provisions. Counsel refers to paragraph 81(1)(c), which provides an exemption for certain income earned by a non-resident person who carries on business as an operator of ships or aircraft used in international traffic. Because paragraph 81(1)(c) does not apply to domestic flights, counsel argues that the overall scheme of the Act is that income from domestic flights is generally taxable.
+[103] The problem with this argument is that the general legislative scheme for the taxation of operators of ships and aircraft is not the same as the scheme for the taxation of employees engaged in transportation. There is no one overall scheme of taxation applicable to transportation. If Parliament had intended that a similar taxation regime apply to operators and to pilots, it would have provided for it.
+[104] The respondent also argues that this interpretation is consistent with Article XV of the Convention and refers to the commentary to the OECD Model Convention in support.
+[105] The OECD Model Convention[23] contains provisions similar to Article XV of the Convention. The relevant provisions of the Model Convention are paragraphs 1 and 3 of Article 15, Income from Employment, which read:
+1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in the State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+3. Notwithstanding the preceding provisions of this Article, remuneration derived in respect of an employment exercised aboard a ship or aircraft operated in international traffic, or aboard a boat engaged in inland waterways transport, may be taxed in the Contracting State in which the place of effective management of the enterprise is situated.
+[106] The general rule in paragraph 1 of the Model Convention is very similar to the general rule in Article XV of the Convention. There is a difference, though, in the special rule that applies to employment exercised aboard a ship or aircraft. Paragraph 3 of Article 15 gives complete jurisdiction to tax to the country where the airline is managed. This is broader than the equivalent provision in the Convention.
+[107] I also note the following excerpts from the commentary to the Model Convention:
+1. Paragraph 1 establishes the general rule as to the taxation of income from employment (other than pensions), namely, that such income is taxable in the State where the employment is actually exercised. Employment is exercised in the place where the employee is physically present when performing the activities for which the employment income is paid. [...]
+[Emphasis added]
+9. [...] Paragraph 3 applies to the remuneration of crews of ships or aircraft operated in international traffic, or of boats engaged in inland waterways transport, a rule which follows up to a certain extent the rule applied to the income from shipping, inland waterways transport and air transport, that is, to tax them in the Contracting State in which the place of effective management of the enterprise concerned is situated. [...] Such a provision [Article 8], as well as that of paragraph 3 of Article 15, assumes that the domestic laws of the State on which the right to tax is conferred allows it to tax the remuneration of a person in the service of the enterprise concerned, irrespective of his residence. [...]
+[Emphasis added]
+[108] If the Convention had followed the language used in paragraph 3 in the Model Convention, Canada would be allowed to impose tax on all of the remuneration earned by the appellant, or at least all of the remuneration for international flights. As the above commentary to the Model Convention notes, though, the domestic taxation laws must contemplate this result. Canada has not enacted this legislation. Accordingly, even if the Convention had a rule similar to the Model Convention, it would not be effective unless Canada's domestic laws were changed.
+[109] The respondent's position with respect to domestic flights seems to be based on the broader scheme of taxation provided for in paragraph 3 of Article 15 of the Model Convention. Neither the Act nor the Convention have adopted this scheme.
+[110] The respondent also refers to a book on the interpretation of treaties by Klaus Vogel.[24] The passage cited in respondent's argument is as follows:
+The remuneration paid to crews of ships or aircraft operated exclusively in inland traffic is governed by the provisions of Art. 15(1) and (2). The State of employment is that in which the ship or aircraft is operated.
+[111] In my view, the above passage does not support the position of the respondent with respect to domestic flights. Professor Vogel indicates that the state of taxation with respect to domestic flights is the state where the aircraft operates. In this case, the aircraft operates in more than one state in respect of domestic flights. The logical implication of Professor Vogel's comment is that a state can impose tax to the extent that the aircraft operates in that state. It does not support the respondent's position.
+[112] The respondent also relies on a Supreme Court of Canada decision that concerns the extraterritorial reach of a provision in the Copyright Act: Society of Composers, Authors and Music Publishers of Canada v. Canadian Association of Internet Providers, [2004] 2 S.C.R. 427 ("SOCAN").
+[113] In that decision, the Court applied a rule of interpretation referred to as the "real and substantial connection" test. This is a judge-made rule that can be applied as an aid in interpreting statutes that have some extraterritorial effect. At paragraph 54, Binnie J. states:
+While the Parliament of Canada, unlike the legislatures of the Provinces, has the legislative competence to enact laws having extraterritorial effect, it is presumed not to intend to do so, in the absence of clear words or necessary implication to the contrary. [...]
+[114] I do not see a basis to apply this rule to give subparagraph 115(1)(a)(i) the meaning suggested by the respondent. The application of the "real and substantial connection" test in the manner suggested by the respondent would have the effect of expanding the scope of subparagraph 115(1)(a)(i). The rule is not intended to have that effect. If the income is attributable to duties performed outside Canada, the income is, quite simply, outside the ambit of the legislation and is not taxable.
+[115] Finally, the respondent refers in written argument to domestic tax laws of the United States and the United Kingdom that provide specific rules of allocation with respect to air travel. The respondent suggests that the provisions of the Act should be interpreted in harmony with these foreign laws.
+[116] The foreign laws were not proven by expert testimony, but in any event they do not support the position of the respondent. While harmonizing domestic tax legislation in different countries may be a desirable result, it is a matter for Parliament to consider whether Canada should adopt specific allocation rules applicable to pilots as other countries may have done.
+[117] In the alternative, the respondent submits that the remuneration earned by the appellant from domestic flights should be taxed in full because the appellant has not established that any of the appellant's domestic flights were flown outside Canada.
+[118] I also do not agree with this submission. The evidence establishes that it was highly probably that the appellant flew partly over the United States on flights between Toronto and Montreal and Toronto and Halifax and that his aircraft may have flown through the United States on some flights between Toronto and Vancouver.
+[119] The following are excerpts from the testimony of the appellant, which I accept:[25]
+You cannot fly from Toronto to Halifax without flying over the United States. Unless you want to go hundreds of miles to avoid the United States for whatever reason.
+But you enter the United States on a standard routing to Halifax, over - anywhere from Watertown, New York, to Massena, New York, and then you cross over New York, you cross over the State of Maine, and then you re-appear in Canada in Nova Scotia.
+... the most common flight an Air Canada pilot can do would be Toronto - Montreal. ... You cannot get there without passing over Massena New York.
+[120] I am satisfied that the appellant flew partly through the United States on some domestic flights. Remuneration paid to appellant that is attributable to the United States portion of those flights is not subject to tax.
+(d) Reasonable overall result
+[121] Both parties made alternative submissions that their respective positions provide a reasonable overall result. The appellant suggests that any underpayment of tax on remuneration for international flights is compensated by an overpayment of tax on remuneration for domestic flights. The respondent takes the converse position, that is, that any overpayment on domestic flights is compensated by an underpayment on international flights.
+[122] I reject both these submissions on the basis of lack of evidence. As for domestic flights, there is not sufficient evidence before me on which I could reasonably estimate an overpayment of tax on domestic flights. The evidence was particularly weak in relation to flights between Toronto and Vancouver.
+[123] As for international flights, it appears that certain aspects of the Agency's method of allocation were favourable to the appellant,[26] but there was not sufficient evidence to evaluate the accuracy of the Agency's method as a whole. In addition, the respondent's alternative argument was not raised in its pleadings and the appellant might have provided additional evidence if he had known that the underpayment of tax on international flights was an issue.
+[124] For these reasons, I am not satisfied that either party's position provides a reasonable overall result. I now turn to other types of remuneration.
+(e) Remuneration not related to specific duties
+(i) Is remuneration in the course of employment?
+[125] The Minister assessed tax on remuneration paid to the appellant that was not related to specific duties on the basis of a pro-rata allocation to the various locations where duties were performed.
+[126] The appellant submits that this remuneration is not subject to tax because there is no income-earning process in Canada. The appellant was paid, according to counsel's oral argument, because he was sick or was on vacation and not because duties were performed.
+[127] The question that is raised is whether this remuneration is income from duties performed in Canada within the meaning of subparagraph 115(1)(a)(i).
+[128] Although income such as sickness and vacation pay are received because of sickness and vacation in the sense of accruing during these periods, the remuneration is also received because the employee has agreed to perform services for the employer. The appellant would not be entitled to any sickness or vacation pay if he had not agreed to perform duties as a pilot.
+[129] The only reasonable interpretation of subparagraph 115(1)(a)(i) in my view is that the appellant's remuneration that accrues during off-duty periods, including statutory vacation pay, is from duties performed. The essence of the relationship between an employee and employer is that services are rendered in consideration of payment for those services.
+[130] The connection between remuneration paid and services rendered enables employers to deduct remuneration paid and requires employees to be taxed on it. I reject the argument of the appellant that some portion of the remuneration has no income-earning nexus in Canada.
+[131] The appellant submits that his position is supported by the decision of the Supreme Court of Canada in New Brunswick v. Canadian Pacific Railway Co., [1952] 2 S.C.R. 359. The Supreme Court had to decide in that case whether workers' compensation benefits were payable to an employee who suffered serious injuries in a swimming accident that occurred while the employee was off-duty. The Court held that acts done by a person during off-duty periods are not "in the course of employment."
+[132] The appellant refers to the following passage from the decision of Rand J. at page 370:
+[...] the fallacy, in my opinion, of the argument addressed to us, lies in this: it treats all privileges accorded an employee by reason of the employment, exercisable on the employer's premises, as incidents of the work the employee is to perform. The privilege of swimming from the jetty was conferred on the young woman as a member of the staff; so was that of golfing and of tennis: it might have been of shooting in an adjoining wood, or of travelling under a pass on the railway of the company: but from that fact it did not follow that those activities were incidents of her work.
+[133] I do not see how this decision is helpful to the appellant. The question in this appeal is whether remuneration that was not related to specific duties is from duties performed. Remuneration paid to an employee is clearly earned "in the course of employment." The Supreme Court's decision supports the view that none of the remuneration earned by an employee is related to off-duty activities, such as being in a sick bed or sitting on a beach during vacation.
+(ii) Is remuneration in the nature of "salary, wages or other similar remuneration"?
+[134] The appellant submits that remuneration that is not related to specific duties is exempt from tax under Article XV of the Convention because it is in the nature of "passive benefits, privileges or incidents of employment" and is not "salary, wages or other similar remuneration."
+[135] Paragraph 1 of Article XV reads:
+1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+[Emphasis added]
+[136] I would comment first that the position of the appellant is contrary to the commentary published by the OECD in respect of the equivalent article in the Model Convention. Paragraph 2.1 of the commentary to Article 15 reads:
+Member countries have generally understood the term "salaries, wages and other similar remuneration" to include benefits in kind received in respect of an employment (e.g. stock-options, the use of a residence or automobile, health or life insurance coverage and club memberships).
+[137] I also note that the Federal Court of Appeal has considered whether the broad definition of "salary or wages" in subsection 248(1) of the Act applies for purposes of similar language used in the Canada-United Kingdom Income Tax Convention and held that this is an open question.[27]
+[138] The law may be unsettled as to whether what are commonly referred to as "benefits" are exempt from tax under Article XV of the Convention. However, that is not relevant to the issue before me. In my view, the regular cash remuneration received by the appellant is clearly contemplated by the ordinary meaning of the phrase "salary, wages or other similar remuneration."
+[139] "Salary" and "wage" are defined in Black's Law Dictionary, eighth edition, as follows:
+salary. An agreed compensation for services - esp. professional or semiprofessional services - usu. paid at regular intervals on a yearly basis, as distinguished from an hourly basis. [...]
+wage, Payment for labor or services, usu. based on time worked or quantity produced; specif., compensation of an employee based on time worked or output of production. [...]
+[140] The remuneration paid to Air Canadapilots under the Collective Agreements is typical of what is commonly thought of as salary. It consists of cash payments regularly made.
+[141] What is perhaps unusual about this remuneration is that the payments vary depending on a great number of factors. In my view, this feature does not change the general nature of the remuneration. It is essentially salary. In any event, it is certainly described by the phrase "salary, wages or similar remuneration."
+[142] The appellant refers to the decisions of Hurd v. The Queen, 81 D.T.C. 5140 (F.C.A.) and Jarlan v. The Queen, 84 D.T.C. 6452 (F.C.T.D.). These decisions are distinguishable on their facts. The remuneration that is at issue in this appeal consists of cash remuneration paid on a regular basis in consideration of services rendered. The Hurd decision considered the taxation of benefits received under a stock option agreement and Jarlan considered the taxation of royalties for the use of patents.
+[143] For these reasons, I do not accept the appellant's submission that he is exempt from tax on remuneration that is not related to specific duties.
+[144] The apportionment of the remuneration to duties in Canadafor purposes of the assessments has not been challenged by the appellant and accordingly it is not necessary that I consider it. The Minister allocated the remuneration on a pro-rata basis to duties performed in Canada based on the limited facts that the Minister had.
+(f) Subparagraph 115(1)(a)(v)
+[145] Although the Minister relied on subparagraph 115(1)(a)(i) in making the assessments, counsel for the respondent submitted in argument that subparagraph 115(1)(a)(v) should have been applied.[28] The latter provision requires all remuneration to be included in "taxable income earned in Canada" except to the extent that it relates to duties performed outside Canada.
+[146] The relevant provisions of the Act are subparagraph 115(1)(a)(v), paragraphs 115(2)(d) and (e), paragraphs 115(2)(c) and (c.1) (for the 1996 and 1997 taxation years) and paragraph 115(2)(c.1) (for the 1998 taxation year).
+[147] The key provision is paragraph 115(2)(e) which reads in part as follows:
+(e) for the purposes of subparagraph (1)(a)(v), the total determined under this paragraph in respect of the non-resident person is the total of
+(i) any remuneration in respect of an office or employment that was paid to the non-resident person directly or indirectly by a person resident in Canada and was received by the non-resident person in the year, except to the extent that the remuneration is attributable to the duties of an office or employment performed by the non-resident person anywhere outside Canada [...]
+[Emphasis added]
+[148] According to the respondent, remuneration that accrued during off-duty periods does not relate to any duties whatsoever. Accordingly, the appellant should have been taxed, according to this argument, on remuneration such as sickness and vacation pay in their entirety and not simply on a pro-rata basis.[29]
+[149] I have concluded that it is not necessary to consider this argument in detail because the appellant's "taxable income earned in Canada" is the same regardless of whether it is computed under subparagraph 115(1)(a)(i) or (v).
+[150] The respondent submits that subparagraph 115(1)(a)(v) results in a greater amount of "taxable income earned in Canada" because it includes remuneration that is not attributable to duties performed. For the reasons discussed in the previous section, I am of the view that all of the appellant's remuneration that is at issue is "from" duties performed. To the extent that the remuneration does not relate to specific duties, it should be apportioned on a reasonable basis to duties performed inside, and outside, of Canada as the Minister has done in making the assessments. The result is that "taxable income earned in Canada" is the same regardless of which subparagraph is applied.
+[151] In light of this conclusion, it is not necessary that I consider any of the several arguments that the appellant made with respect to this issue. These submissions included that the respondent's argument is a new basis of assessment that is statute-barred, that the statutory provisions read in context do not apply to the appellant because he was employed in Canada during the relevant taxation years, and that the respondent's position is inconsistent with the Convention.
+Conclusions and Disposition
+[152] The conclusions that I have reached in this appeal are dependent on the facts that were presented. Based on those facts and the relevant law, I have concluded that the assessments should be upheld except to the extent that they fail to take into account remuneration attributable to duties performed outside Canada on domestic flights. This would affect not only the taxable portion of flying pay for domestic flights but also the calculation of the pro-rata allocation.
+[153] I asked the parties for their positions on how to effect an adjustment for domestic flights because there was insufficient evidence at the hearing on this point.
+[154] Counsel for the respondent vigorously opposed sending the matter back for reconsideration and reassessment. In his view, the appellant had ample opportunity to present evidence on this issue and chose not to. It would be unfair to allow the appellant to drag out this appeal out further, he suggests.
+[155] There is merit in counsel's argument. I understand that this litigation began as a so-called "test" case. In all the circumstances of this appeal, the appellant should have provided detailed evidence on the breakdown of duties on domestic flights.
+[156] On the other hand, the position that the Minister took with respect to domestic flights is not supported by the relevant legislation. If the appeal is prolonged further, both parties must bear some of the blame.
+[157] I have concluded that the assessments should be referred back to the Minister for reconsideration and reassessment to exclude from the computation of taxable income earned in Canada remuneration reasonably attributable to duties performed outside Canada with respect to domestic flights. In other respects, the appeal is dismissed.
+[158] In order that the appeal not be prolonged more than necessary, I will delay issuing a formal judgment until the outstanding issue is resolved. I would be prepared to hear further evidence on it if the parties cannot come to an agreement expeditiously.[30] Either party may request that the appeal be reopened for this purpose.
+[159] I would also be prepared to receive submissions as to costs.
+Signed at Toronto, Ontario, this 22nd day of December, 2005.
+"J. Woods"
+Woods J.
+Appendix A
+Excerpt from Agency's chart comparing distances collected by Nav Canada with distances assumed by the Agency
+Route
+NavCanmiles
+in Canada, adjusted
+CRA miles
+in Canada
+Tor- Atlanta
+86
+90
+145
+90
+92
+90
+148
+90
+110
+90
+97
+90
+101
+90
+84
+90
+Tor- Houston
+127
+150
+129
+150
+136
+150
+173
+150
+101
+150
+158
+150
+Tor- Laguardia
+34
+28
+39
+28
+35
+28
+Tor- Philadelphia
+77
+28
+78
+28
+86
+28
+Tor- Seattle
+1625
+126
+204
+126
+1632
+126
+1560
+126
+1639
+126
+1919
+126
+Tor- San Francis
+156
+126
+146
+126
+174
+126
+Notes: 1. The difference in the Toronto - Seattle route is very large in favour of the appellant. However, it appears that the appellant had very few flights to Seattle during the relevant period.
+2. The numbers have been adjusted slightly by the Agency to account for the fact that Canadian-controlled airspace (relevant to Nav Canada) and Canadian territory (relevant for tax purposes) are different.
+CITATION: 2005TCC812
+COURT FILE NO.: 2001-2556(IT)G
+STYLE OF CAUSE: Mark Sutcliffe and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: February 2 to 10, February 16 and May 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: n/a
+APPEARANCES:
+Counsel for the Appellant:
+Emilio S. Binavince
+Michael Eng
+Counsel for the Respondent:
+Marley Dash
+David G. Frayer, Q.C.
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Emilio S. Binavince
+Firm: Binavince and Associates
+Ottawa, Canada
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant also filed an appeal for the 1995 taxation year but the parties have agreed that this assessment was statute barred. Based on the written submissions of the parties, I have assumed that the assessment has been vacated and that it is not necessary for me to deal with it.
+[2] The appellant raised a number of incidental issues in the notice of appeal. Since they were not referred to in the appellant's written submissions, I have not discussed them in these reasons.
+[3] Flying pay was determined by the greater of actual flight time or the flight time according to the airline's published schedule.
+[4] The time was determined electronically.
+[5] It was not clear from the evidence how the preparation time was remunerated. It is possible that it was "buried" in the hourly rates for flying pay but this is purely speculation. It was clear from the evidence, though, that preparation time was not included in determining flight minutes.
+[6] These figures are from the Reply.
+[7] The appellant presented a great deal of evidence on this point but this brief summary should be sufficient for the purpose of the appeal.
+[8] A very small adjustment for duties on the ground (and taxiing) was made pursuant to the assumption that a minimum 15 minutes of flying pay should be attributed to Canada in respect of every flight.
+[9] Exhibit R12, Tab B
+[10] The figures may be compared with the total remuneration allocated to Canada on international flights which is set out above.
+[11] Exhibit R12, Tab D
+[12] I wish to note that written submission of the respondent was particularly well-organized and comprehensive.
+[13] IT-420R3 is dated March 30, 1992. Paragraph 7 was amended by special release dated February 20, 1995.
+[14] There is no issue in this appeal concerning international flights between cities outside Canada. The assessments did not include any flying pay from these flights.
+[15] The notice of appeal stated that the appellant intended to rely on the insignificance of the appellant's duties in Canada. This was not argued further.
+[16] This approach was used by Bowman A.C.J. (as he then was) in Sumner v. The Queen, 2000 D.T.C. 1667 (T.C.C.).
+[17] The burden is on the appellant to establish a prima facie case. The respondent did not introduce any admissible evidence with respect to this issue except to make reference to Canada's administrative practice as reflected in IT-420R3.
+[18] The Queen v. Crown Forest Industries Ltd., [1995] 2 C.T.C. 64 (S.C.C.), at 80.
+[19] Subsection 153(1) of the Act and Part 1 of the Income Tax Regulations.
+[20] Subsection 153(1.1) of the Act.
+[21] Subsection 150(1) of the Act.
+[22] Subsection 230(1) of the Act.
+[23] Changes to the OECD Model Convention were approved on July 15, 2005 but the changes do not affect the issues in this appeal.
+[24] Klaus Vogel, Klaus Vogel on Double Taxation Conventions, third edition, at 917.
+[25] Transcript, p. 69, 70.
+[26] For example, the Agency did not allocate remuneration to duties performed before and after each flight, except for the 15 minute rule.
+[27] Hale v. The Queen, 92 D.T.C. 6473 (F.C.A.), at 6475.
+[28] This argument was not referred to in the original Reply but was included in the Re-Amended Reply filed on January 30, 2004.
+[29] Although the assessments were not made on this basis, it appears that the respondent is making this argument, at least in part, so that there would be a cushion in the event that I conclude that some portion of the assessments are too high.
+[30] A similar approach was taken by Bowman A.C.J. (as he then was) in McCoy v. The Queen, 2003 D.T.C. 660 and 2003 D.T.C. 1559.

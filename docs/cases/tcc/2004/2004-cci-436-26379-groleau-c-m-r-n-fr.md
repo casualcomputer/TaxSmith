@@ -1,0 +1,157 @@
+---
+title: "Groleau c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26379/index.do"
+last_modified: "2004-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 436"
+citation2: ""
+neutral_citation: "2004 CCI 436"
+decision_date: "2004-06-28"
+language: "fr"
+item_id: "26379"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3362
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:17:48.403000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "61a4e6de8e64f9e2215d69a963d9dccbdec0ec26262c66938d256a7f62793a82"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Groleau c. M.R.N.
+
+- Citation: 2004 CCI 436
+- Decision date: 2004-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3362, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groleau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-28
+Référence neutre
+2004 CCI 436
+Numéro de dossier
+2003-2154(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2154(EI)
+ENTRE :
+CHARLOTTE GROLEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 mars 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de juin 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI436
+Date : 20040628
+Dossier : 2003-2154(EI)
+ENTRE :
+CHARLOTTE GROLEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 24 mars 2004.
+[2] Il s'agit d'un appel portant sur l'assurabilité de la somme de 10 000 $ versée à l'appelante au moment de son embauche par Corporation de Tissus Classique, le payeur, pour l'inciter à revenir au travail.
+[3] Le 21 mars 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle la somme de 10 000 $ faisait partie de sa rémunération assurable pour la raison suivante :
+[...] Vous étiez une employée de Corporation de Tissus Classique/Classic Fabrics Corp. et à l'égard de cet emploi toute somme reçue et que vous avez bénéficié et qui fut versée par votre employeur fait partie de la rémunération assurable tel que définit [sic] dans le paragraphe 2(1) du Règlement sur la rémunération assurable et la perception des cotisations.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les présomptions de fait suivantes :
+a) Le payeur exploite une entreprise d'importation de tissus pour les manufactures de vêtements. (admis)
+b) Avant la période en litige, l'appelante avait travaillé pendant 20 ans pour des entreprises similaires. (admis avec précisions)
+c) Suite au décès de son conjoint, l'appelante avait cessé son travail mais le payeur voulait obtenir ses services. (admis)
+d) Afin de l'inciter à revenir au travail, le payeur a offert un boni de 10 000 $ au moment de son embauche. (admis)
+e) Les principales tâches de l'appelante consistaient à assister la gérante du payeur, faire du travail de bureau et transiger avec les clients du payeur. (admis avec précisions)
+f) Durant la période en litige, l'appelante rendait des services au payeur, en vertu d'un contrat de louage de services à raison de 3 jours ou de 25 heures par semaine. (admis)
+g) L'appelante a effectivement reçu du payeur, en début d'emploi en 2001, une somme de 10 000 $, en un seul versement. (admis avec précisions)
+h) L'appelante décrit la somme reçue du payeur comme un « boni de bienvenue » . (admis)
+i) En 2001, l'appelante a reçu du payeur une rémunération assurable totalisant 30 712 $, incluant le boni de 10 000 $. (admis avec précisions)
+[5] Lors de son témoignage à l'audition de cet appel, l'appelante a précisé que l'une des entreprises pour laquelle elle avait travaillé pendant 20 ans était celle du payeur. Quant aux tâches qu'elle exécutait chez le payeur, elle a ajouté à celles qui ont été reconnues par le Ministre celle d'assistance au contrôleur Mark Tobin. Elle a voulu préciser que du montant de 10 000 $ versé par l'employeur en 2001 elle n'a touché que la somme nette de 6 829,25 $. En outre, elle a voulu préciser que sa rémunération assurable en 2001 totalisait non pas 30 712 $ mais 20 678,83 $, tel qu'il appert à la feuille de paie déposée sous la cote A-2.
+[6] La seule tâche de cette Cour consiste à déterminer si le montant de 10 000 $ touché par l'appelante en 2001 constitue un montant assurable.
+[7] Le législateur a prévu une façon de régler cette question. Il a prescrit ce qui suit à l'alinéa 2(1)a) du Règlement sur la rémunération assurable et la perception des cotisations (le « Règlement » ):
+2. (1) Pour l'application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l'application du présent règlement, le total de la rémunération d'un assuré provenant de tout emploi assurable correspond à l'ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l'assuré reçoit ou dont il bénéficie et qui lui est versé par l'employeur à l'égard de cet emploi;
+[8] Le litige se situe au niveau de l'interprétation de la phrase « à l'égard de cet emploi » dans le libellé de cet alinéa.
+[9] Selon le dictionnaire Le Petit Robert, « à l'égard de » signifie :
+1. pour ce qui concerne, regarde quelque chose;
+2. quant à;
+3. relativement à.
+[10] L'appelante a soutenu que le montant de 10 000 $ n'est pas assurable parce qu'il représente un « boni de bienvenue » et non pas un salaire.
+[11] Pour circonscrire davantage le litige, il s'agit de savoir si le sens de la phrase a une portée suffisamment large pour inclure ou englober la somme versée à l'appelante « à l'égard de cet emploi » .
+[12] À mon avis, la définition du Petit Robert supporte la conclusion que le Ministre a bien interprété le sens et la portée de cette phrase.
+[13] L'appelante avait le fardeau de prouver la fausseté des présomptions du Ministre ainsi que son interprétation fautive de l'alinéa 2(1)a) du Règlement sur lequel il s'est appuyé.
+[14] La preuve de l'appelante n'a pas réussi à démontrer que le Ministre en avait mal interprété le sens et la portée. Il incombait à l'appelante de démontrer, selon la prépondérance de la preuve, que la décision du Ministre était mal fondée. Elle ne l'a pas fait.
+[15] L'appelante a également soutenu qu'elle avait reçu de l'Agence des douanes et du revenu du Canada, suite à sa demande, un avis selon lequel le montant de 10 000 $ n'était pas assurable. La procureure du Ministre a répondu à cet argument en disant que s'il est vrai que l'appelante a reçu cette information du ministère, celle-ci était erronée et, comme tel, elle n'engage en rien ni le Ministre ni cette Cour. Elle s'est appuyée sur l'arrêt Kennedy c. Canada, [2001] A.C.I. no 486 dans lequel le juge Bowie de cette Cour s'exprimait en ces termes :
+Enfin, l'appelante a avancé un argument selon lequel les versements de rente qu'elle a reçus constitueraient un indicateur lui permettant d'être admissible au crédit pour pension. Il ne m'a pas été précisé clairement si l'indicateur en question avait été offert par le ministre du Revenu national ou par un service privé. On ne m'a pas non plus précisé comment cet indicateur (qui figure dans un extrait de la pièce A-4) amènerait quelqu'un à la même conclusion que celle à laquelle est parvenue l'appelante. Poussant cet argument à son extrême, je suis prêt à supposer que les fonctionnaires du ministre ont en réalité informé l'appelante, au moyen de ce document, que son revenu de pension la rendait admissible au crédit qu'elle demandait. Un tel avis, s'il a été donné, était manifestement erroné, mais les avis erronés, qu'ils proviennent des fonctionnaires du ministre, du ministre lui-même ou d'une source privée, ne peuvent tout simplement modifier le droit tel qu'il a été libellé par le législateur et conférer le droit à des crédits d'impôt qui, en réalité, ne figure pas dans le texte de la Loi : voir l'affaire M.R.N. c. Inland Industries Limited, [[1974] R.C.S. 514, aux pages 523 et 524 (72 D.T.C. 6013, à la page 6017)].
+[16] L'appelante ne s'est pas acquittée du fardeau de la preuve qui reposait sur elle et n'a pas réussi à démontrer le bien-fondé de l'intervention de cette Cour.
+[17] En conséquence, cette Cour doit conclure que la somme de 10 000 $ touchée par l'appelante et versée par le payeur faisait partie de sa rémunération assurable pour l'année 2001. Donc, l'appelante a reçu du payeur en 2001 une rémunération assurable totalisant 30 712 $ incluant le boni de 10 000 $.
+[18] Pour ces motifs, l'appel est rejeté et la décision du Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de juin 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI436
+No DU DOSSIER DE LA COUR :
+2003-2154(EI)
+INTITULÉ DE LA CAUSE :
+Charlotte Groleau et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 24 mars 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+le 28 juin 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,180 @@
+---
+title: "Blackburn v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26581/index.do"
+last_modified: "2005-08-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 433"
+citation2: ""
+neutral_citation: "2005 CCI 433"
+decision_date: "2005-08-18"
+language: "fr"
+item_id: "26581"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3555
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:38:22.591000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf45767f128ccaf472ac0e761b9d0234f3eb5418c3492d879bce527b9936a548"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blackburn v. M.N.R.
+
+- Citation: 2005 CCI 433
+- Decision date: 2005-08-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3555, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackburn v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-18
+Référence neutre
+2005 CCI 433
+Numéro de dossier
+2004-3334(EI)
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3334(EI)
+ENTRE :
+MEICHLAND BLACKBURN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Kitchener (Ontario), le 19 mai 2005.
+Devant : l’honorable juge T. E. Margeson
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté conformément au paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et la décision que le ministre a rendue à la suite de l’appel interjeté devant lui en vertu de l’article 91 de la Loi est confirmée.
+Signé à New Glasgow (Nouvelle-Écosse), ce 18e jour d’août 2005.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 14e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2005CCI433
+Date : 20050818
+Dossier : 2004-3334(EI)
+ENTRE :
+MEICHLAND BLACKBURN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] L’appelant a interjeté appel d’une décision que le ministre du Revenu national lui avait transmise au moyen d’une lettre datée du 8 juin 2004 et dans laquelle il concluait que, pendant la période en question, l’appelant avait exercé un emploi assurable auprès du Service correctionnel (l’« employeur ») du gouvernement du Canada, aux termes d’un contrat de louage de services et que sa rémunération assurable était de 4 990,20 $, alors que le nombre d’heures d’emploi assurable s’élevait à 195. Cette décision se rapportait à la période en question, qui allait du 1er juin 1998 au 22 décembre 2003.
+Les faits
+[2] Les faits sont plutôt simples; ils sont exposés dans la réponse à l’avis d’appel; lors de l’appel, l’appelant y a fondamentalement souscrit, sauf qu’il a affirmé situer la période en question entre le 1er juin 1998 et le 11 février 2002.
+[3] Les faits peuvent être énoncés comme suit :
+Au mois de mai 1997, l’appelant a pris un congé autorisé d’un an de l’employeur afin de chercher à être réintégré dans le Service de police régional du Niagara; le congé devait prendre fin le 31 mai 1998. Le 1er juin 1998, l’employeur a suspendu l’appelant sans rémunération, en attendant le règlement d’accusations portées au criminel contre celui-ci à Hamilton. Le 8 février 2001, l’appelant a été acquitté des accusations criminelles, à Hamilton, mais il n’a pas repris son emploi auprès de l’employeur. Le 21 janvier 2002, l’employeur a demandé à l’appelant de retourner au travail le 11 février 2002. Le 11 février 2002, l’appelant est retourné travailler pour l’employeur; il a présenté une demande de congé dans laquelle il demandait un congé de maladie pour une période indéfinie sans rémunération et il a quitté l’employeur.
+[4] Le 21 février 2002, l’employeur a informé l’appelant qu’il avait été mis fin à son emploi le 11 février 2002. Par suite du licenciement, l’appelant a déposé un grief. Le 20 juin 2003, la Commission des relations de travail dans la fonction publique a conclu qu’il avait été mis fin à l’emploi de l’appelant sans motif valable et elle a ordonné sa réintégration, avec tous les avantages et droits prévus par la convention collective.
+[5] Du 1er juin 1998 au 11 février 2002, l’appelant était employé par le Service de police régional du Niagara, qui lui versait un salaire et lui accordait des avantages sociaux. Pour la période allant du 17 novembre au 22 décembre 2003, l’employeur lui a remis un relevé d’emploi indiquant que sa rémunération assurable était de 4 990,20 $ et qu’il avait accumulé 195 heures d’emploi assurable auprès de l’employeur, ce qui représentait une période de congé annuel payé. Pendant la période pertinente, l’appelant n’a pas accompli de services pour l’employeur.
+Le point litigieux
+[6] Il s’agit de savoir si l’emploi que l’appelant exerçait auprès de l’employeur était assurable pour la période ici mentionnée et, en outre, de déterminer la rémunération assurable et les heures d’emploi assurable.
+Position de l’appelant
+[7] Dans ses conclusions, l’appelant a contesté la décision de Développement des ressources humaines Canada (« DRHC ») en date du 23 décembre 2003, selon laquelle il avait exercé un emploi assurable pendant la période du 1er juin 1998 au 8 décembre 2003, cette période ayant plutôt pris fin le 11 février 2002, selon l’appelant; la décision portait également que l’appelant n’avait pas accumulé d’heures assurables et qu’il n’y avait pas de rémunération assurable pendant cette période. Par une lettre, pièce A-5, l’appelant a été informé que, conformément à l’article 9.1 du Règlement sur l’assurance-emploi, lorsque rémunération d’une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d’heures qu’elle a effectivement travaillées et pour lesquelles elle a été rétribuée. La disposition en question indiquait également la façon dont le ministre avait calculé la rémunération assurable en vertu du Règlement sur la rémunération assurable et la perception des cotisations.
+[8] L’appelant s’est également opposé au fait que l’employeur avait délivré un autre relevé d’emploi, pièce A-8, uniquement après que DRHC l’ait demandé. Ce relevé d’emploi indique que, durant la période en question, la rémunération assurable était de 4 990,20 $ et le nombre total d’heures assurables, de 195.
+[9] Aucun autre relevé d’emploi qui soit pertinent dans la présente instance n’a été produit en preuve. Toutefois, l’appelant a pris la position selon laquelle le relevé d’emploi était inexact.
+[10] L’appelant s’est reporté à la pièce A-7, un relevé d’emploi le concernant, à Service correctionnel Canada, pour la période allant du 30 novembre 1992 au 26 mai 1997. L’appelant a tenté d’utiliser ce relevé d’emploi pour indiquer ce qu’il gagnait sur une base annuelle et ce que cela représentait au point de vue de la rémunération assurable sur la base annuelle, tel qu’il est énoncé dans la pièce A-7. La position de l’appelant était que, par suite de la décision, on lui avait accordé 16 mois d’emploi assurable, ce qui représenterait environ 400 autres heures. En fin de compte, l’appelant aurait accumulé environ 2 000 heures assurables.
+[11] Toutefois, l’appelant ne demandait pas ce nombre d’heures, mais uniquement 639 heures de congé de maladie et de congé annuel au titre des heures assurables, ce qui le rendait admissible aux prestations parentales, pour lesquelles il ne fallait que 600 heures.
+[12] L’appelant a pris la position selon laquelle la pièce A-8 n’indiquait pas ce qu’il a appelé [traduction] « les heures remises à l’agent Blackburn » par suite de la décision qu’il avait obtenue, pièce A-1.
+[13] L’appelant a affirmé que l’employeur avait décidé de lui demander de présenter de nouveau une demande de congé portant les dates figurant sur le relevé d’emploi, pièce A-8, aux fins de la tenue de dossiers, pour qu’il touche une paie de vacances. L’appelant a affirmé que l’employeur lui avait dit qu’il devait présenter la demande de congé en indiquant ces dates et qu’il s’y était opposé. Ils allaient lui verser de l’argent, de sorte qu’il a consenti. L’appelant a affirmé qu’il ne pouvait pas les empêcher d’agir ainsi. Il a admis avoir reçu un paiement pour 195 heures assurables. Selon lui, il avait reçu un crédit de 195 heures assurables seulement, alors qu’il aurait dû en recevoir un d’au moins 639 heures.
+[14] L’appelant a mentionné l’article 9.1 de la partie I du Règlement sur l’assurance-emploi, mais il a déclaré que cette disposition ne s’appliquait pas à lui parce qu’il n’avait pas effectivement travaillé les heures en question. Il a ensuite mentionné l’article 10.1. Il a affirmé que cette disposition s’appliquait à son cas parce qu’il s’était vu accorder des crédits de congé de maladie à la place d’une période de congé. L’appelant est donc réputé avoir exercé un emploi assurable pendant le nombre d’heures qu’il aurait normalement travaillées et pour lesquelles il aurait normalement été rémunéré ou rétribué durant cette période.
+[15] La Cour suppose que l’appelant a conclu que, comme il avait reçu une rétribution partielle, il était réputé avoir exercé un emploi assurable pour la période durant laquelle il aurait normalement été employé. Au dire de l’appelant, si l’on applique les dispositions de l’article 2 de la partie I du Règlement sur la rémunération assurable et la perception des cotisations et les dispositions de l’article 10.1, concernant les prestations de chômage et les heures d’emploi assurable, on devrait lui accorder un crédit pour toutes ces heures en tant qu’heures assurables.
+[16] L’appelant a déclaré que l’employeur et DRHC ne l’avaient pas fait, et qu’il avait été décidé qu’il n’avait pas accumulé d’heures assurables parce qu’il n’avait pas physiquement travaillé et n’avait pas été rétribué. Cette affaire est encore en instance devant la Cour.
+[17] Selon la position prise par l’appelant, il n’y a pas de distinction à faire entre les congés et la rémunération de vacances aux fins du calcul du nombre d’heures assurables. L’appelant a parlé de [traduction] « crédits de congé » et il a dit que ces crédits représentaient 639 heures. Il a déclaré que l’on essayait de faire une distinction entre les heures assurables et les crédits de congé et qu’on ne pouvait pas le faire.
+[18] En fin de compte, l’appelant a conclu qu’il aurait accumulé 2 844 heures assurables entre le 1er juin 1998 et le 22 décembre 2003, ainsi qu’un certain nombre d’heures additionnelles qu’il n’a pas réussi à calculer. Il a calculé que, jusqu’au 11 février 2002, il avait accumulé 2 844 heures assurables que son employeur n’avait pas créditées.
+Arguments invoqués pour le compte de l’intimé
+[19] Dans le cadre de l’argumentation, l’avocat de l’intimé s’est reporté à la définition de la rémunération assurable contenue à l’article 2 de la partie I du Règlement sur la rémunération assurable et la perception des cotisations ainsi qu’au paragraphe 2(3) de cette disposition à l’égard de la définition de la « rémunération ». L’article 2 est rédigé comme suit :
+(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+b) le montant de tout pourboire que l’assuré doit déclarer à l’employeur aux termes de la législation provinciale.
+[...]
+(3) Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+a) les avantages autres qu’en espèces, à l’exception, dans le cas où l’employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi;
+[20] Selon l’avocat de l’intimé, ces dispositions sont importantes et portent un coup fatal à la position prise par l’appelant.
+[21] L’appelant a soutenu que, pendant l’audience, de nombreux faits avaient été divulgués, lesquels ne touchaient pas le cœur de l’affaire et ne sont pas pertinents. Quant à lui, il s’agissait simplement de savoir si l’emploi qu’il exerçait auprès de l’employeur était assurable pour la période mentionnée dans la décision, quelle était la rémunération assurable et quel était le nombre d’heures d’emploi assurable pendant cette période.
+[22] En ce qui concerne le premier argument, il est certain que l’Agence des douanes et du revenu du Canada a décidé qu’il s’agissait d’un emploi assurable. Tel n’est pas le point litigieux. Toutefois, il a été conclu que l’appelant avait accumulé 195 heures assurables seulement et c’est ce qui était indiqué dans le relevé d’emploi.
+[23] La décision du Conseil du Trésor n’accordait rien de plus à l’appelant. Pendant le contre-interrogatoire, on a demandé à l’appelant d’indiquer quel passage de la décision lui donnait plus que le nombre d’heures assurables qui lui avaient été accordées, et l’appelant n’a pas pu l’indiquer. L’avocat n’a pas pu trouver ce sur quoi l’appelant se fondait dans cette décision à l’appui de sa position.
+[24] Il incombe à l’appelant de prouver sa cause et de soumettre des éléments de preuve dignes de foi à l’appui de ses arguments, et ce, selon la prépondérance des probabilités; l’appelant doit essentiellement contester l’exactitude du relevé d’emploi. Il se fondait probablement sur les dispositions du paragraphe 298 du jugement rendu par le Conseil du Trésor, selon lequel il était en congé non payé lorsqu’il avait été suspendu. Le congé de l’appelant prenait fin le 31 mai 1998 et c’était à ce statut qu’il devait retourner pour cette période. L’appelant soutenait essentiellement que, pour la période allant du 25 mai 1998 au 11 février 2002, son statut était celui d’un employé en congé non payé.
+[25] Toutefois, il s’agit essentiellement de savoir [traduction] « ce qu’il a obtenu qui lui donnerait droit à des heures assurables », selon cette décision. Il ressort du relevé d’emploi mis à la disposition de la Cour que l’appelant a été rémunéré en espèces, comme le prévoit la définition. Par suite de la décision, l’appelant a reçu une paie de vacances de 195 heures. Cela se rapporte à la question finale dont la Cour est ici saisie.
+[26] La seule chose que l’avocat pouvait déduire de l’argument de l’appelant était que celui-ci se fondait sur la paie de vacances qu’il avait reçue, y compris un montant de 285 $ représentant un crédit de vacances et 354 heures de congé de maladie. Or, il n’y avait rien qui puisse justifier la chose. Le relevé d’emploi permet de réfuter cet argument.
+[27] En fin de compte, ce que l’appelant a reçu en espèces, c’était un paiement se rapportant à la paie de vacances pour les heures assurables que son employeur avait calculées et c’est là ce que l’employeur lui a payé. Même s’il y a d’autres questions qui n’ont pas encore été tranchées devant d’autres tribunaux et même s’il reçoit finalement un crédit pour des congés de maladie futurs et une paie de vacances qu’il n’a pas encore reçue, l’appelant n’aurait néanmoins pas accumulé un plus grand nombre d’heures assurables que celui que lui attribue le relevé d’emploi, et ce, à cause de la législation en cause. Les crédits ne seraient pas des heures assurables.
+[28] L’appelant aurait pu comparaître devant la Cour et présenter des talons de chèque de paie ou des renseignements de Service correctionnel Canada, ou encore des représentants de Service correctionnel Canada pour témoigner au sujet des avantages qui lui avaient été reconnus et des sommes qu’il avait reçues par suite de la décision. Un lien aurait alors pu être établi entre ce qu’il a reçu et la Loi et il aurait été possible de déterminer la façon dont cela lui aurait donné droit à un plus grand nombre d’heures assurables. Cependant, l’appelant s’est contenté de témoigner qu’il avait obtenu une quantité « x » d’heures et une quantité « y » d’heures; or, cela ne satisfait pas à la charge qui lui incombe.
+[29] Si l’on applique d’une façon raisonnable la décision du Conseil du Trésor, l’appelant n’a rien obtenu de plus en espèces par suite de cette décision-là que ce dont il a été fait mention pour la paie de vacances et il n’y a rien d’autre dans la décision qui ait pour effet d’attribuer à l’appelant un plus grand nombre d’heures assurables.
+Analyse et décision
+[30] La Cour est convaincue que le point litigieux en l’espèce est passablement simple. Il s’agit de savoir si, pendant la période en question, l’appelant exerçait un emploi assurable, quel était le nombre d’heures assurables qu’il avait accumulées et quel était le montant de la rémunération assurable.
+[31] Le relevé d’emploi qui a été produit devant la Cour sous la cote A-7 constitue la meilleure preuve en ce qui concerne les trois questions. La pièce A‑7 indique clairement que, pendant la période en question, l’appelant avait accumulé 195 heures assurables en tout, et que le montant total de la rémunération assurable s’élevait à 4 990,20 $. La Cour ne peut rien trouver dans la décision du Conseil du Trésor, pièce A-1, qui indique le contraire.
+[32] Les remarques qui sont faites aux paragraphes 298 et 299 ainsi qu’aux autres paragraphes de la décision ne réfutent pas le relevé d’emploi et ne visent pas à le réfuter. L’appelant n’a rien dit devant la Cour qui permette de réfuter le relevé d’emploi et, de fait, il n’a pas présenté de témoins pour établir que le relevé d’emploi était inexact. De toute évidence, l’appelant a lu dans la décision du Conseil du Trésor quelque chose qui ne s’y trouvait pas.
+[33] Les renseignements contenus dans le relevé d’emploi ont été corroborés par le témoin, Sasa Danicic, qui était chargé d’examiner le présent appel pour DRHC. Ce témoin a déclaré avoir examiné le dossier et l’historique des demandes que l’appelant avait faites au titre de l’assurance-emploi. Il a déclaré que DRHC avait reçu le relevé d’emploi de l’employeur et que le relevé indiquait avec exactitude le nombre d’heures assurables et le montant de la rémunération assurable. Ils se sont fondés sur le relevé d’emploi fourni par l’employeur.
+[34] Il n’y avait pas de relevé d’emploi qui puisse étayer la demande de l’appelant pour la période de référence. Le témoin n’a rien vu dans la preuve que l’appelant avait présentée à la Cour qui lui fasse changer d’idée au sujet du nombre d’heures assurables ou du montant de la rémunération assurable.
+[35] Le témoin a bien reconnu que le relevé d’emploi, pièce A-8, avait été reçu à la suite d’une demande faite par le ministre. Selon lui, le relevé d’emploi indiquait les crédits de congé annuel que l’appelant avait obtenus et le témoin n’était au courant d’aucun autre crédit auquel l’appelant aurait eu droit.
+[36] La Cour est convaincue que l’appelant a mal interprété la portée de la décision du Conseil du Trésor; contrairement aux assertions de l’appelant, il n’y a rien dans cette décision-là qui puisse être interprété comme attribuant à l’appelant un plus grand nombre d’heures assurables.
+[37] Quoi qu’il en soit, même si c’était le cas, il serait interdit à l’appelant de demander un plus grand nombre d’heures assurables, compte tenu de la loi. Il ressort clairement des dispositions de l’article 2 de la partie I du Règlement sur la rémunération assurable et la perception des cotisations que, pour qu’un montant soit considéré comme une rémunération provenant d’un emploi assurable, le montant en question doit être versé à l’assuré par l’employeur à l’égard de cet emploi. De toute évidence, l’appelant a été rétribué pour 195 heures seulement; cette rétribution s’élève à 4 990,20 $ et c’est le montant pour lequel un crédit lui a été accordé.
+[38] La Cour est convaincue que l’appelant a mal interprété l’importance des mots « partiellement en espèces », et le fait qu’il a reçu une partie du montant, comme l’indique le relevé d’emploi, ne veut pas dire qu’il est réputé avoir reçu tout le montant qu’il aurait normalement reçu s’il avait travaillé ou s’il avait reçu une paie de vacances.
+[39] De toute évidence, la disposition en question s’entend du montant total que l’appelant a reçu et qui lui a été versé par l’employeur à l’égard de l’emploi. Le montant en question s’élevait clairement à 4 990,20 $.
+[40] En outre, la Cour est convaincue que l’appelant a mal interprété l’effet combiné de l’article 2 de la partie I du Règlement sur la rémunération assurable et la perception des cotisations et de l’article 10.1 de la partie I concernant les dispositions sur les prestations d’emploi. Selon l’article 10.1, l’appelant n’est pas réputé avoir reçu plus que ce qu’il a réellement reçu de son employeur et dont fait foi le relevé d’emploi, et la preuve a confirmé la chose. Cette disposition peut uniquement vouloir dire que, lorsqu’il reçoit de son employeur une rétribution pour une période de congé payé, l’appelant est réputé avoir exercé un emploi assurable pendant le nombre d’heures qu’il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué compte tenu du montant de la rétribution qu’il a de fait reçue.
+[41] L’appelant n’est pas réputé avoir reçu un montant plus élevé que celui qu’il a de fait reçu. Si cette disposition était interprétée autrement, cela détruirait complètement les dispositions de l’article 2, qui indiquent que, pour constituer une rémunération provenant d’un emploi assurable selon la définition de la « rémunération assurable » figurant au paragraphe 2(1) de la Loi pour l’application du Règlement, le montant en question doit avoir été versé à la personne par l’employeur à l’égard de l’emploi.
+[42] La Cour est convaincue que l’appelant n’a pas prouvé, selon la prépondérance des probabilités, que la cotisation établie par le ministre était inexacte et il n’a pas démontré l’inexactitude du relevé d’emploi présenté en preuve. L’appelant n’a pas satisfait à la charge de la preuve qui lui incombait selon la prépondérance des probabilités.
+[43] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à New Glasgow (Nouvelle-Écosse), ce 18e jour d’août 2005.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 14e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2005CCI433
+No DU DOSSIER DE LA COUR : 2004-3334(EI)
+INTITULÉ : MEICHLAND BLACKBURN
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Kitchener (Ontario)
+DATE DE L’AUDIENCE : Le 19 mai 2005
+MOTIFS DU JUGEMENT : L’honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 18 août 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Ronald MacPhee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

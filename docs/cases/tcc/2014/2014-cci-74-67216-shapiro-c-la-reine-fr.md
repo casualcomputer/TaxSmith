@@ -1,0 +1,153 @@
+---
+title: "Shapiro c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/67216/index.do"
+last_modified: "2014-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 74"
+citation2: ""
+neutral_citation: "2014 CCI 74"
+decision_date: "2014-03-07"
+language: "fr"
+item_id: "67216"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5397
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:05:31.258000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "abe4496cd8447ee49ed9a2336d3b3409dde0d997bbb69e16e9826ea9e51ef0fc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shapiro c. La Reine
+
+- Citation: 2014 CCI 74
+- Decision date: 2014-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5397, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shapiro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-07
+Référence neutre
+2014 CCI 74
+Numéro de dossier
+2012-3132(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3132(IT)I
+ENTRE :
+RACHEL SHAPIRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 novembre 2013 à Toronto (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me Robert Shapiro
+Avocate de l’intimée :
+Me Rita Araujo
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté contre la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté sans frais conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de mars 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 14e jour d’avril 2014.
+S. Tasset
+Référence : 2014 CCI 74
+Date : 2014-03-07
+Dossier : 2012-3132(IT)I
+ENTRE :
+RACHEL SHAPIRO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] L’appelante, Rachel Shapiro, a, dans sa déclaration de revenus de 2010, demandé un crédit d’impôt pour frais médicaux en application du paragraphe 118.2(1) de la Loi de l’impôt sur le revenu (la « LIR ») à l’égard de frais engagés pour l’entreposage de sang de cordon ombilical. Le ministre du Revenu national (le « ministre ») a refusé le crédit d’impôt pour frais médicaux, concluant que le traitement et l’entreposage du sang de cordon ombilical n’entraient pas dans les frais médicaux admissibles.
+[2] L’appel a été entendu sous le régime de la procédure informelle.
+Résumé des faits
+[3] L’appelante a donné naissance à un enfant en 2009. Compte tenu des antécédents de cancer dans la famille de l’appelante, elle et son époux ont choisi d’envisager la mise en banque de sang de cordon ombilical.
+[4] De façon générale, la mise en banque de sang de cordon ombilical suppose la collecte de sang contenant des cellules souches prélevé du cordon ombilical de l’enfant et du placenta après l’accouchement. Le sang de cordon ombilical est ensuite traité et entreposé pour usage éventuel. Le sang de cordon ombilical peut servir dans les thérapies à base de cellules souches et le traitement de maladies du sang comme la leucémie.
+[5] L’appelante a choisi d’entreposer le sang de cordon ombilical de son enfant dans un laboratoire d’hématologie exploité par Progenics.
+[6] Progenics est une entreprise privée à but lucratif.
+[7] En 2009 et 2010, le fils de l’appelante était en santé et l'on n’avait pas besoin d’utiliser le sang de cordon ombilical pour traiter une maladie.
+Analyse
+[8] L’appelante soutient que les frais de banque de sang de cordon ombilical sont visés à l’alinéa 118.2(2)o) de la LIR. Cette disposition a trait aux frais médicaux :
+118.2(2)o) pour les actes de laboratoires, de radiologie ou autres actes de diagnostic et les interprétations nécessaires, sur ordonnance d’un médecin ou d’un dentiste, en vue de maintenir la santé, de prévenir les maladies et de diagnostiquer ou traiter une blessure, une maladie ou une invalidité du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a);
+[Non souligné dans l’original.]
+[9] Quatre conditions doivent être satisfaites pour que les frais puissent être déduits en vertu de cette disposition. Les frais doivent être engagés :
+a) pour des actes de laboratoire, de radiologie ou autres actes de diagnostic et les interprétations nécessaires;
+b) en vue de maintenir la santé, de prévenir les maladies et de diagnostiquer ou traiter une blessure, une maladie ou une invalidité;
+c) du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a);
+d) sur ordonnance d’un médecin.
+Un acte de laboratoire, de radiologie ou autre acte de diagnostic et les interprétations nécessaires
+[10] Même si le premier membre de la phrase est relativement clair (il est question d’actes de diagnostic), la formulation « et les interprétations nécessaires » (le « générique ») crée une certaine ambiguïté. Cela vaut à la fois pour la version française et pour la version anglaise de la disposition. En appliquant les principes de base de l’interprétation législative, on peut conclure que la formulation comprend les épreuves médicales et actes de nature analogue aux actes de diagnostic, par exemple les actes de laboratoire ou de radiologie.
+[11] Selon cette interprétation, le stockage de cellules souches du sang placentaire ou du cordon ombilical est admissible à titre d’acte médical ou service de même nature que des épreuves de laboratoire ou radiologiques. Il faut un médecin pour extraire le sang contenant des cellules souches du placenta ou du cordon ombilical (habituellement, l’obstétricien/gynécologue qui procède à l’accouchement). Le sang prélevé est dûment conditionné pour être acheminé à un laboratoire de cryogénie où la fraction contenant les cellules souches est extraite du sang. On mène une analyse pour établir la numération de cellules souches et leur viabilité. Selon cette description, le stockage des cellules souches provenant du sang placentaire ou du sang de cordon ombilical semblerait analogue à d’autres actes de laboratoire et, par conséquent, satisferait aux exigences découlant de la première condition.
+En vue de maintenir la santé, de prévenir les maladies et de diagnostiquer ou traiter une blessure, une maladie ou une invalidité
+[12] Le sens ordinaire de cette partie de la disposition est relativement clair. L’objet de la catégorie d’actes ou services médicaux en question doit être de maintenir la santé, de prévenir les maladies et de diagnostiquer ou traiter une blessure, une maladie ou une invalidité. En bref, il ne serait pas nécessaire que la personne soit malade ou qu'elle doive attendre jusqu’à ce qu’il y ait un diagnostic, ni qu'elle soit génétiquement prédisposée à une maladie.
+[13] Même s’il faut se demander si les cellules souches extraites seraient un jour nécessaires pour traiter une maladie, c’est une situation analogue à celle où on a recours à diverses analyses de diagnostic pour la prévention ou le dépistage hâtif des maladies. Par exemple, la mammographie, souvent faite de routine après un certain âge, est admissible au titre de la déduction en vertu de la disposition en question si toutes les conditions sont satisfaites, peu importe que la personne ait ou non reçu un diagnostic de cancer du sein.
+Du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a)
+[14] L’avocate de la Couronne soutient que, dans le cas qui nous occupe, il n’y a pas de « patient » (le mot patient est utilisé dans la version anglaise de la disposition), car ni l’enfant ni les parents n’étaient malades à quelque moment au cours de l’année d’imposition visée. Dans la version française de la disposition, le législateur a utilisé « du particulier, de son époux ou de son conjoint de fait ou d’une personne à charge visée à l’alinéa a) », au lieu du mot « patient » tout simplement. La version française n’appuie pas l’interprétation voulant que la personne visée doive être un patient et souffrir d’une maladie au cours de l’année d’imposition en question. L’argument de l’intimée, en outre, omet de tenir compte du fait que la disposition permet les déductions dont l’objet est de maintenir la santé et de prévenir la maladie. Il n’est exigé dans aucun de ces cas que la personne soit malade. Par conséquent, le fait que ni l’enfant ni la mère n’étaient malades au cours de l’année d’imposition visée n’est pas pertinent.
+Sur ordonnance d’un médecin
+[15] L’obstétricien de l’appelante n’a pas été invité à témoigner. Il ne nous a été présenté aucun élément de preuve de l’obstétricien de l’appelante permettant de croire que la procédure a été demandée ou recommandée par ce médecin.
+[16] Lors de sa plaidoirie, l’avocat de l’appelante a mentionné que, puisque le médecin de l’appelante a prélevé le sang de cordon ombilical, il faut conclure que ce médecin a prescrit l’intervention, ainsi que l’entreposage du sang de cordon ombilical.
+[17] Je ne souscris pas à cette interprétation. À mon sens, « sur ordonnance » signifie que l’acte ou le service doit être recommandé par un médecin. Il ressort de la preuve que l’appelante et son époux ont choisi eux-mêmes de faire traiter et entreposer le sang de cordon ombilical de leur enfant. Ils l’ont fait en raison d’antécédents de cancer dans la famille. D’après les éléments de preuve, l’appelante et son époux ont effectué une recherche sur les banques de sang de cordon ombilical et ont choisi Progenics pour le traitement du sang de cordon ombilical et son entreposage. L’appelante n’a pu me convaincre que l’obstétricien a joué un rôle pour ce qui est de recommander le traitement et l’entreposage du sang de cordon ombilical.
+[18] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de mars 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 14e jour d’avril 2014.
+S. Tasset
+RÉFÉRENCE : 2014 CCI 74
+NO DU DOSSIER DE LA COUR : 2012-3132(IT)I
+INTITULÉ : RACHEL SHAPIRO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 novembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 7 mars 2014
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Robert Shapiro
+Avocate de l’intimée :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Robert Shapiro
+Cabinet : Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

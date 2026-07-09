@@ -1,0 +1,332 @@
+---
+title: "Rheaume V. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28293/index.do"
+last_modified: "2007-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 591"
+citation2: ""
+neutral_citation: "2007 TCC 591"
+decision_date: "2007-11-01"
+language: "en"
+item_id: "28293"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1877
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:35:15.704000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "67381413e719c4519373bdf68f2b9e782f42b208959f4b9f5d9c25453b339528"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rheaume V. M.N.R.
+
+- Citation: 2007 TCC 591
+- Decision date: 2007-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1877, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rheaume V. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-01
+Neutral citation
+2007 TCC 591
+File numbers
+2007-1255(EI)
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-1255(EI)
+BETWEEN:
+CHANTAL RHÉAUME,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JULIE FAUCHER,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 29, 2007, at Québec, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Vlad Zolia
+Counsel for the Intervener:
+Denys Saindon
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision made by the Minister of National Revenue is amended having regard to the fact that the Appellant's employment with Ms. Faucher during the relevant period was an insurable employment for the purposes of subsection 5(1) of the Employment Insurance Act, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of November 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 21st day of November 2007.
+Brian McCordick, Translator
+Citation: 2007TCC591
+Date: 20071101
+Docket: 2007-1255(EI)
+BETWEEN:
+CHANTAL RHÉAUME,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JULIE FAUCHER,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Chantal Rhéaume is appealing from a decision made by the Minister of National Revenue ("the Minister") in respect of the insurability, for the purposes of the Employment Insurance Act ("the Act"), of her employment with Julie Faucher from September 6, 2005, to April 13, 2006 ("the relevant period"). The Minister determined that it did not constitute insurable employment because it was a contract for services, not a contract of employment. Ms. Faucher intervened in Ms. Rhéaume's appeal in order to support the Minister's decision, and was represented by counsel.
+[2] In making his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The Payor is a kinesiologist. (admitted)
+(b) The Payor operated a fitness centre, in the Quebec City area, for older adults aged 50 and up. (admitted)
+(c) The Payor registered the business name "Rest'actif" on June 9, 1999. (proven)[1]
+(d) The Payor was the sole proprietor of the business. (proven)
+(e) The Payor gave fitness classes, using subcontractors where the number of classes made this necessary.[2]
+(f) The Appellant found out about a job opportunity with the Payor on the Université Laval website. (admitted)
+(g) The Appellant was awarded a Bachelor's degree in kinesiology in June 2005. (admitted)
+(h) On October 5, 2005, the Appellant and the Payor signed a contract for services for the Fall 2005 term. (admitted)
+(i) The contract specified the days, times, locations and number of the Appellant's classes for the entire term, setting her remuneration at $18.00 per hour. (admitted)
+(j) The contract for services for the Winter 2006 term, under which the Appellant's remuneration was set at $22.00 per hour, was signed only by the Payor. (admitted)
+(k) The contract contained clauses forbidding her to compete against the Payor's business or solicit the participants. (admitted)
+(l) Each class was roughly one hour long, and the number of participants varied from 10 to 25. (admitted)
+(m) The Payor also offered the Appellant opportunities to fill in for other instructors, and she was free to accept or decline. (admitted)
+(n) The Appellant had complete freedom with respect to the way in which she taught her classes, as the Payor did not impose any work method on the Appellant. (denied)[3]
+(o) The Appellant prepared the courses, choosing the exercises to be done. (admitted)
+(p) The Appellant supplied her own music cassettes. (admitted)
+(q) The Appellant could not change her class times. (admitted)
+(r) Due to her professional status, the Appellant could not get a person of her choice to replace her. (admitted)
+(s) The Appellant had no reports to submit to the Payor. (denied)[4]
+(t) The Appellant was paid every two weeks by the Payor. (admitted)
+(u) The Appellant was responsible for her own expenses and travel costs. (admitted with respect to the travel costs)
+(v) The Appellant signed a single, all-inclusive service invoice for the entire term. (admitted)
+(w) The Payor withheld the last payment of the Winter 2006 term due to a dispute with the Appellant. A claim was then lodged with the Commission des normes du travail du Québec. A payment ended the dispute. (admitted)
+(x) During the period in issue, the Appellant taught physical fitness classes at the CSST as a self-employed worker. (admitted)
+[3] Ms. Rhéaume and Ms. Faucher were the only witnesses at the hearing. Ms. Faucher operates her business under the name Rest'Actif. As stated in her advertising flyer, [TRANSLATION] "Rest'Actif offers fitness training sessions to people aged 50 and up. The sessions are structured and varied, and every person can work at his or her pace." However, contrary to what the flyer states, not all Rest'Actif trainers have university degrees in kinesiology or physical education: Ms. Faucher also hires students in these fields. Ms. Faucher has operated this business on her own since 1999. According to the advertising flyer, the sessions [TRANSLATION] "are offered in different cities, clubs, sports centres and residences."
+[4] Ms. Rhéaume obtained a Bachelor's degree in kinesiology in June 2005. She received her instruction at the Faculty of Medicine of Université Laval. Ms. Rhéaume says that she began three jobs in September 2005. The most important one was with Énergie Cardio, where she worked 20 to 25 hours a week. Her work consisted of assessing physical activity readiness and ascertaining the objectives of the company's clients. She was considered an employee (under a contract of employment) because Énergie Cardio made all the source deductions for taxes, Québec Pension Plan contributions, and Employment Insurance (EI) premiums. Ms. Rhéaume's second job was with a person who had obtained a contract from the Commission de la santé et de la sécurité du travail (CSST) [the Quebec workers' compensation board] to train its employees in the basement of one of its buildings. In addition to providing fitness instruction, she supervised the training room and planned programs. She devoted three to five hours a week to this job. Ms. Rhéaume says that she was paid as an independent contractor but considered herself an employee.
+[5] Ms. Rhéaume's third job was with Ms. Faucher. She described the circumstances of her hiring as follows. She learned about a fitness‑trainer job opportunity on the Internet (probably the Université Laval website). She met Ms. Faucher in late August 2005, and, in a one-hour interview, Ms. Faucher told her what the work entailed. The job was to give fitness classes to people aged 50 and up. Ms. Faucher specified, at this time, that she was retaining Ms. Rhéaume's services as an independent contractor, and she told her about the benefits of deducting one's expenses for tax purposes. In addition, she allegedly told her that there would be no paid vacations. Ms. Rhéaume said that she did not see the difference between being hired as an employee and being hired as an independent contractor. The only differences that she perceived were from a tax standpoint. She does not recall whether Ms. Faucher addressed the issue of EI premiums. This was the first time that Ms. Rhéaume was hired as an independent contractor.
+[6] Ms. Faucher offered Ms. Rhéaume the opportunity to teach ten training courses effective September 14, 2005. Given her limited availability, Ms. Rhéaume took on only six courses, which were to be taught in four different locations. The agreed price for each course was $18 per session. Ms. Rhéaume and Ms. Faucher signed a written contract dated October 5, 2005 (Exhibit A‑1). The contract stipulates as follows:
+[TRANSLATION]
+Service Contract
+Between:
+Rest'Actif
+4 Champagnat Street
+Lévis, Quebec G6V 2A5
+Represented by Julie Faucher
+And:
+Chantal Rhéaume
+1065 Bertin Street
+Cap-Rouge, Quebec G1Y 2G5
+Hereinafter "the Practitioner"
+1. On behalf of Rest'Actif, the Practitioner shall teach the physical fitness sessions set out in the following table for the Fall 2005 term at a rate of $18.00 per session.
+Day of week
+Time
+First day
+Location
+Number of sessions
+1
+Monday
+6 pm
+19-09-05
+Sillery
+12
+2
+Tuesday
+7 pm
+20-09-05
+Ste-Ursule rec. corp.
+12
+3
+Wednesday
+11:40 am
+14-09-05
+Revenue – Dorchester St.
+12
+4
+Wednesday
+6 pm
+21-09-05
+Sillery
+12
+5
+Thursday
+10 am
+22-09-05
+Sillery (Walking club)
+12
+6
+Thursday
+7 pm
+22-09-05
+Ste-Ursule rec. corp.
+12
+Total:
+72
+2. The Practitioner shall prepare his/her courses in a manner consistent with Rest'Actif's objectives in order to meet the clients' needs. The Practitioner shall be punctual and shall treat Rest'Actif's clientele respectfully and professionally.
+3. The Practitioner is responsible for the equipment lent by Rest'Actif and shall reimburse Rest'Actif for any breakage, loss or theft thereof.
+4. Requests for substitute instructors for one (1) or more sessions must be submitted five (5) working days before the session(s) concerned and are subject to approval by Rest'Actif. Absences without valid cause are not tolerated. Rest'Actif may, if necessary, request a document attesting to the validity of any absence due to illness (e.g. medical certificate) and such a document is mandatory for sports injuries.
+5. The Practitioner exonerates Rest'Actif from any liability for damage, injury, loss or theft that he/she may incur.
+6. The Practitioner agrees to refrain from competing against Rest'Actif, whether directly or indirectly, alone or through another business, in the operations and objectives of Rest'Actif, for a period of two (2) years following the signing of this contract.
+7. Rest'Actif shall pay the Practitioner based on the number of sessions completed. Cheques, covering two weeks of instruction, shall be issued every two weeks commencing October 3, 2005.
+8. Rest'Actif reserves the right to change or cancel the location and the number of sessions set out in section 1 if a group of participants does not consider the Practitioner suitable.
+9. In addition, Rest'Actif reserves the right to terminate this contract without prior notice if the Practitioner does not comply with all the terms and conditions hereof or for any other valid cause whatsoever.
+10. Upon the signing of this contract, the Practitioner shall submit his/her invoice to Rest'Actif for the total number of sessions in this term.
+. . .
+[Emphasis added.]
+[7] Another contract was prepared for 2006. It is signed only by Ms. Faucher, and is not dated (Exhibit A‑3). Ms. Rhéaume's failure to sign it is probably attributable to neglect.
+[8] Before starting her classes, Ms. Rhéaume was invited to attend what Ms. Faucher claims to have called an [TRANSLATION] "observation session". But Ms. Rhéaume asserts that Ms. Faucher told her: [TRANSLATION] "I will give you training." During this session, which took place one week before her courses began — it is not certain whether the date was September 5 or September 6, 2005 — Ms. Rhéaume watched Ms. Faucher as she gave a class to a group of participants. After the class, Ms. Faucher told her that she had to arrive, appropriately dressed, 10 minutes before each class began. She told her what to tell the participants: at the first meeting, she was to ask them to fill out a physical activity readiness questionnaire and tell them to bring running shoes, water bottles and appropriate athletic clothing. They were to be given a consent form in which they acknowledged the risks of physical activity. The classes were to begin with a warm-up. It is alleged that Ms. Faucher even specified the type of exercises to be done and the time that breaks should be taken.
+[9] In addition to this September 2005 observation/training session, Ms. Faucher accompanied Ms. Rhéaume to her first class with Revenu Québec employees on Dorchester Street in Québec. Ms. Faucher said that the employees in question would be performing exercises with a gym ball, but that the balls would not be available for the first class. However, when Ms. Rhéaume reported for the class, the gym balls were available, but were not inflated. The class was therefore delayed so that the participants could inflate them. Ms. Rhéaume says that the class did not go well. She felt humiliated because she was not prepared for a class in which gym balls would be used, and she stuttered. The participants left the class disappointed. Ms. Faucher was seated at the back of the room to observe her. After the session, she criticized Ms. Rhéaume's work and told her that she should have presented the class differently. She also criticized her for her lack of confidence.
+[10] Ms. Faucher was also with Ms. Rhéaume during her first fitness class with a group from a seniors' residence. She apparently told her what to do and assessed her work after the class. According to Ms. Rhéaume, Ms. Faucher considered this approach appropriate. As far as the second class was concerned, Ms. Rhéaume arrived three or four minutes late, prompting the seniors' residence manager to complain. Ms. Faucher spoke with Ms. Rhéaume to register her disapproval. She reminded her that the contract contained a punctuality clause and that she was to report for her classes ten minutes before the start time. This conversation took place at the Sainte-Ursule recreational corporation on the third time that Ms. Faucher's visited a class led by Ms. Rhéaume. Due to the complaint that she received from the seniors' residence, Ms. Faucher was not in a good mood. In addition, she noticed that Ms. Rhéaume was wearing running shoes, and was concerned about whether she had boots to cover them, because it was raining outside. This comment made Ms. Rhéaume feel like a [TRANSLATION] "little child".
+[11] Ms. Faucher says that the observation/training session was not mandatory for Ms. Rhéaume. She cites another self-employed worker, just out of university, as an example. That worker did not attend any observation/training sessions. However, Ms. Faucher acknowledges that she attended three or four classes taught by that person, during which she observed her.
+[12] In addition to the sessions in which Ms. Faucher observed Ms. Rhéaume's work, one must also bear in mind that Ms. Faucher and Ms. Rhéaume phoned each other to keep Ms. Faucher informed about how Ms. Rhéaume's classes were going.
+[13] Under the service contract, Ms. Rhéaume had to notify Ms. Faucher five days in advance if she wanted someone to fill in for her. Ms. Rhéaume was unavailable on one occasion, and she told Ms. Faucher a few days beforehand. At the very last minute, Ms. Faucher demanded that Ms. Rhéaume phone each of the participants, because she was unable to find someone to fill in for Ms. Rhéaume.
+[14] During a subsequent session at the seniors' residence, Ms. Rhéaume decided let the participants hold on to some bodybuilding elastics, as it appeared that one of the two groups that she was teaching was very interested in using them. When Ms. Faucher found out about this, she instructed Ms. Rhéaume not to let those seniors hold on to the elastics because she felt that it was not safe for such individuals to use such equipment without supervision. It should be mentioned that Ms. Faucher had taken out liability insurance in the event that one of the participants got injured in one of her training sessions; naturally, this insurance covered all trainers that she hired, even so-called independent contractors.
+[15] There were several instances in which Ms. Rhéaume would have wanted to contact the managers of the various recreation departments to which Ms. Faucher's business offered services. However, she had to be content to go through Ms. Faucher. Ms. Rhéaume feels that the fact that she had to go through several intermediaries when a complication arose posed a problem. This included instances where supplies or equipment normally provided by Ms. Faucher's institutional clients were unavailable, or in which Ms. Rhéaume ran into a problem at the wrong time. Counsel for Ms. Faucher submits that this procedure was necessary because it reduced the risk that Ms. Faucher would lose a client to one of her subcontractors.
+[16] In fact, a dispute arose between Ms. Faucher and Ms. Rhéaume because Ms. Rhéaume contacted the manager of the Sainte‑Ursule recreational corporation to discuss an issue raised by her group's participants, who were complaining that the training costs had increased even though their session time had been reduced from 75 to 60 minutes. Ms. Rhéaume says that she would have been willing to extend her classes, but that Ms. Faucher would not allow it. This is when Ms. Rhéaume learned that Ms. Faucher was paid a lot more for the training sessions that she taught personally: she received $45 per hour, whereas Ms. Rhéaume earned only $18 per hour. It appears that the representative of the Sainte‑Ursule recreational corporation was also annoyed by the situation, and that he decided to stop doing business with Ms. Faucher. Apparently, since Ms. Faucher was going to lose that contract in any event, and since someone else was going to provide courses to the Sainte‑Ursule recreational corporation, she allowed Ms. Rhéaume to offer her services directly to that organization, provided she did not solicit any of Ms. Faucher's other clients. It is also possible that the need for Ms. Rhéaume's services for the Spring 2006 term encouraged Ms. Faucher to accept this compromise. Since Ms. Rhéaume was unable to come to an agreement with Ms. Faucher with respect to an increase in remuneration, their relationship subsequently deteriorated: a default notice was sent to Ms. Rhéaume, demanding that she fulfil her contractual obligations, including the obligation not to solicit Ms. Faucher's clients. Ms. Faucher even decided to withhold $266.38 from Ms. Rhéaume's fees. Ms. Rhéaume filed a complaint with the Commission des normes du travail. Following an investigation, the Commission apparently concluded that Ms. Rhéaume was a salaried employee; however, no official decision was made, because Ms. Faucher agreed to pay Ms. Rhéaume the $266.38.
+[17] Ms. Rhéaume testified that she also provides fitness courses to the Cégep de Ste‑Foy and the Québec YWCA, both of which consider her an employee. Counsel for Ms. Faucher objected to any question concerning the provision of Ms. Rhéaume's services to these two organizations. However, there was no hesitation about asking Ms. Rhéaume about the services that she provided to the CSST and the Sainte-Ursule recreational corporation on a self-employed basis.
+[18] Ms. Rhéaume acknowledges that Ms. Faucher did not vet her course plan, and that she was free to teach the course as she saw fit, provided, of course, that it was in keeping with Rest'Actif's objectives. According to Ms. Rhéaume, she had the same freedom at her teaching jobs at the Cégep de Ste‑Foy and the YWCA. Ms. Rhéaume also acknowledges that no evaluation questionnaire was given to Rest'Actif participants at the end of her training sessions. However, she says that there were no such questionnaires for the courses that she taught as an employee at the YWCA either. As for the Cégep de Ste‑Foy, a questionnaire of this type was given to participants, but she says that it was not given any serious consideration.
+[19] In order to document the payment of her remuneration, Ms. Rhéaume signed invoices covering an entire term: there was one invoice for Fall 2005, and one invoice for Winter 2006. Ms. Rhéaume says that the invoices were prepared by Ms. Faucher.
+[20] Generally, the equipment was supplied by Rest'Actif's clients or by Ms. Faucher. This included CD players, resistance machines, gym balls, etc. However, Ms. Rhéaume could use her own music CDs for her classes.
+Analysis
+[21] The issue is whether Ms. Rhéaume was employed in insurable employment for the purposes of the Act. The relevant provision is paragraph 5(1)(a) of the Act, which provides:
+5(1) Subject to subsection (2), insurable employment includes
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise.
+[Emphasis added.]
+[22] This provision defines insurable employment as employment under a contract of service (or, in more modern parlance, a contract of employment). However, the Act does not define the concept of a contract of employment. Section 8.1 of the Interpretation Act addresses circumstances such as the one in the case at bar:
+Property and Civil Rights
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+[23] The provisions most relevant to the task of determining whether a contract of employment exists in Quebec, and distinguishing such a contact from a contract for services, are articles 2085, 2086, 2098 and 2099 of the Civil Code of Québec ("Civil Code" or "C.C.Q."):
+Contract of employment
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+Contract of enterprise or for services
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+[24] Upon analysing these provisions of the Civil Code, it is clear that three essential conditions must be met in order for a contract of employment to exist: (i) prestation of work by the employee; (ii) remuneration paid by the employer for this prestation; and (iii) a relationship of subordination. The factor that clearly distinguishes a contract for services from a contract of employment is the existence of a relationship of subordination, that is to say, the employer's power of direction or control over the worker.
+[25] Legal scholars have reflected on the concept of "power of direction or control", and, from the reverse perspective, the "relationship of subordination". Robert P. Gagnon writes as follows:[5]
+[TRANSLATION}
+(c) Subordination
+90 — A distinguishing factor – The most significant characteristic of an employment contract is the employee's subordination to the person for whom he or she works. This is the element that distinguishes a contract of employment from other onerous contracts in which work is performed for the benefit of another for a price, e.g. a contract of enterprise or for services governed by articles 2098 et seq. C.C.Q. Thus, while article 2099 C.C.Q provides that the contractor or provider of services remains "free to choose the means of performing the contract" and that "no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance," it is a characteristic of an employment contract, subject to its terms, that the employee personally perform the agreed upon work under the direction of the employer and within the framework established by the employer.
+. . .
+92 — Concept – Historically, the civil law initially developed a "strict" or "classical" concept of legal subordination that was used for the purpose of applying the principle that a master is civilly liable for damage caused by his servant in the performance of his duties (article 1054 C.C.L.C.; article 1463 C.C.Q.). This classical legal subordination was characterized by the employer's direct control over the employee's performance of the work, in terms of the work and the way it was performed. This concept was gradually relaxed, giving rise to the concept of legal subordination in the broad sense. The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to include the ability of the person who became recognized as the employer to determine the work to be performed, and to control and monitor the performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc. The fact that a person works at home does not mean that he or she cannot be integrated into a business in this way.
+[Emphasis added.]
+[26] It must be noted that the characteristic of a contract of employment is not the fact that the direction or control was effectively performed by the employer (the strict or classical concept) but the fact that the employer had the power to do so (the broadened concept). In Gallant v. M.N.R., [1986] F.C.J. No. 330, Pratte J.A. of the Federal Court of Appeal stated:
+. . . The distinguishing feature of a contract of service is not the control actually exercised by the employer over his employee but the power the employer has to control the way the employee performs his duties. . . .
+[Emphasis added.]
+[27] In addition, in Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (M.N.R.), 2002 FCA 144, (2002), 291 N.R. 389, Noël J.A. writes:
+5. The question the trial judge should have asked was whether the company had the power to control the way the workers did their work, not whether the company actually exercised such control. The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+[Emphasis added.]
+[28] The following comments by the Minister of Justice concerning article 2085 C.C.Q., which accompanied the draft Civil Code and which I quoted in my article entitled "Contract of Employment: Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It" at page 2:26, should be added:[6]
+[TRANSLATION]
+The article restates the rule enacted by article 1665(a) C.C.L.C. The definition contained in the new article establishes more clearly the difference between a contract of employment and a contract for services or contract of enterprise. The sometimes fine line between the two kinds of contracts has caused difficulties both in the scholarly literature and in the case law.
+The definition indicates the essentially temporary nature of a contract of employment, thus enshrining the first paragraph of article 1667 C.C.L.C., and highlights the chief attribute of such a contract: the relationship of subordination characterized by the employer's power of control, other than economic control, over the employee with respect to both the purpose and the means employed. It does not matter whether such control is in fact exercised by the person holding the power; it also is unimportant whether the work is material or intellectual in nature.
+[Emphasis added.]
+[29] In my opinion, the rules governing the contract of employment in Quebec law are not identical to the common law rules, and thus, it is not appropriate to apply common law decisions such as Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553 (F.C.A) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, 2001 SCC 59.[7] At common law, "there is no universal test to determine whether a person is an employee or an independent contractor . . . The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account."[8] As Major J. Held in Sagaz:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan, J.A. that a persuasive approach to the issue is that taken by Cooke, J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[Emphasis added.]
+[30] Consequently, at common law, it is possible to hold that a contract of employment exists without even deciding the factual question of whether a power of control or direction exists.
+[31] In Quebec, unlike the common law situation, the central question is whether there is a relationship of subordination, that is to say, a power of control or direction. Courts have no choice but to determine whether or not there is a relationship of subordination in order to determine whether a contract constitutes a contract of employment or a contract for services. That is the approach that Létourneau J.A. of the Federal Court of Appeal adopted in D & J Driveway, [9] where he determined that there was no contract of employment based on the provisions of the Civil Code, and, in particular, his finding that there was no relationship of subordination, which he described as "the essential feature of the contract of employment." [10]
+[32] In addition to the decision in D & J Driveway, I would point out the decision of the Federal Court of Appeal in 9041‑6868 Québec Inc. v. Canada (Minister of National Revenue), [2005] F.C.A. No. 1720 (QL), 2005 FCA 334, where Décary J.A. writes as follows at paragraphs 2 and 3:[11]
+2 With respect to the nature of the contract, the judge's answer was correct, but, in my humble opinion, he arrived at it incorrectly. He did not say anything about the provisions of the Civil Code of Québec, and merely referred, at the end of his analysis of the evidence, to the common law rules stated in Wiebe Door Services Ltd. v. Canada (Minister of National Revenue), [1986] 3 FC 533 (FCA) and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] 2 S.C.R. 983. I would hasten to point out that this mistake is nothing new and can be explained by the vacillations in the case law, to which it is now time to put an end.
+3 When the Civil Code of Québec came into force in 1994, followed by the enactment of the Federal Law - Civil Law Harmonization Act, No. 1, S.C. 2001, c. 4 by the Parliament of Canada and the addition of section 8.1 to the Interpretation Act, R.S.C., c. I-21 by that Act, it restored the civil law of Quebec to its rightful place in federal law, a place that the courts had sometimes had a tendency to ignore. On this point, we need only read the decision of this Court in St-Hilaire v. Canada, [2004] 4 FC 289 (FCA) and the article by Mr. Justice Pierre Archambault of the Tax Court of Canada entitled "Why Wiebe Door Services Ltd. Does Not Apply in Quebec and What Should Replace It", recently published in the Second Collection of Studies in Tax Law (2005) in the collection entitled The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism, to see that the concept of "contract of service" in paragraph 5(1)(a) of the Employment Insurance Act must be analyzed from the perspective of the civil law of Quebec when the applicable provincial law is the law of Quebec.
+[Emphasis added.]
+[33] Lastly, before finishing this statement of the rules that govern the determination of whether Ms. Rhéaume held insurable employment, we should recall the remarks made by Picard J. of the Quebec Superior Court in 9002‑8515 Québec Inc.,[12] which I reproduced at paragraph 121, page 2:82 of my paper:
+15 In order for there to be a contract of enterprise, there must be no relationship of subordination and the Agreement contains several elements showing a relationship of subordination. A sufficient number of indicia exists in this case of a relationship of authority.
+[34] We must now apply these relevant legal rules to the facts of the instant case. In order to determine the nature of the contract between the parties, it is helpful to begin by ascertaining the intention of the parties at the relevant time. Looking at the matter from Ms. Faucher's point of view, it is clear that her intention was to enter into a service contract, not an employment contract. In fact, she told Ms. Rhéaume that she would be self-employed. Moreover, the written contract expressly states that it is a service contract. As for Ms. Rhéaume, she said that she saw no difference between an employment contract and a service contract; she thought that the only consequences of this distinction were tax-related. One must recall that Ms. Rhéaume had just graduated from university and was entering the job market. Consequently, she had little experience to understand the meaning of this type of contract. Thus, it is far from clear that Ms. Rhéaume understood that, in Quebec, a contract of employment is one in which a person performs services under the direction or control of another person, the employer. In fact, I doubt that many workers know that the existence of a relationship of subordination is what distinguishes an employment contract from a service contract. The existence of some vacillation in the case law, alluded to by Décary J.A. in 9041‑6868 Québec Inc, supra, does not help the situation. Thus, under the circumstances of this appeal, one can conclude that it is doubtful that Ms. Rhéaume truly acquiesced in a service contract, since she was not familiar with the conditions essential to the existence of such a contract.
+[35] Even if one had to find that Ms. Rhéaume gave her fully informed consent to a service contract under which the work would not be performed under Ms. Faucher's direction or control and she would be free to chose the means of performing the contract, it would still be the court's duty to ensure that the contract, as worded, correctly reflects the parties' intention and that the parties behaved in a manner that is consistent with their intent. I wrote the following about this issue in my paper, at page 2:63:
+[TRANSLATION]
+[97] Even if the contracting parties have manifested their intention in their written or oral contract or if their intention can be inferred from their conduct, this does not necessarily mean that the courts will view it as determinative. As Décary J.A. indicated in Wolf, supra, performance of the contract must be consistent with this intention. Thus, the fact that the parties have called their contract a "contract for services" and have stipulated both that the work will be done by an "independent contractor" and that there is no employer-employee relationship does not necessarily make the contract a contract for services. As article 1425 C.C.Q. states, one must look to the real common intention of the parties rather than adhere to the literal meaning of the words used in the contract. The courts must also verify whether the conduct of the parties is consistent with the statutory requirements for contracts. According to Robert P. Gagnon:
+[TRANSLATION]
+91 — Factual assessment — Subordination is verified by reference to the facts. In this regard, the case law has always refused to simply accept the parties' description of the contract:
+In the contract, the distributor himself acknowledges that he is working on his own account as an independent contractor. There is no need to return to this point, since doing so would not alter the reality; furthermore, what one claims to be is often what one is not.
+[Emphasis added.]
+[98] In D & J Driveway, Létourneau J.A. of the Federal Court of Appeal wrote:
+2 It should be noted at the outset that the parties' stipulation as to the of the contractual relations is not necessarily conclusive and that the Court which has to consider this matter may arrive at a contrary conclusion based on the evidence presented to it: Dynamex Canada Inc. v. Canada (2003), 305 N.R. 295 (F.C.A). However, that stipulation or an examination of the parties on the point may prove to be a helpful tool in interpreting the nature of the contract concluded between the participants.
+[Emphasis added.]
+[99] Judges may therefore recharacterize the contract so that its name reflects reality. In France, the recharacterization of a contract results from the application of the reality principle.[13] The Cour de cassation has adopted an approach similar to the Canadian one:
+[TRANSLATION]
+Whereas the existence of an employment relationship depends neither on the expressed will of the parties nor on the name they have given to their agreement but rather on the factual conditions in which the workers' activity is performed; . . .
+[100] In my opinion, this verification that the actual relationship and the parties' description of it are consistent is necessary when interpreting contracts of employment since the parties may have an interest in disguising the true nature of the contractual relationship between the payer and the worker. Experience shows, in fact, that some employers, wanting to reduce their fiscal burden with respect to their employees, sometimes decide to treat them as independent contractors. This decision can be made either at the outset of the contractual relationship or later on. Similarly, some employees could have an interest in disguising their contract of employment as a contract for services because the circumstances are such that they do not foresee that they will need employment insurance benefits and they want to eliminate their employee contributions to the employment insurance program, or they desire more freedom to deduct certain expenses in computing their income under the Income Tax Act.
+[101] Since the EIA generally authorizes the payment of employment insurance benefits only to employees who lose their employment, the courts must be on the alert to unmask false self-employed workers. The courts must also ensure that the employment insurance fund, which is the source of these benefits, receives premiums from everyone who is required to pay them, including false self‑employed workers and their employers.
+[Footnotes omitted.]
+[36] In the case at bar, does the Service Contract comply with the conditions essential to the existence of such a contract? As we have seen, article 2099 C.C.Q. states that the provider of services must be free to choose the means of performing the contract, and that there must be no relationship of subordination in respect of such performance.
+[37] As counsel for the Respondent acknowledges, there are several stipulations in the Service Contract that show that Ms. Faucher reserved a right of direction or control over Ms. Rhéaume's work. It should be noted that, pursuant to paragraph 2 of the contract, Ms. Rhéaume had to prepare courses [TRANSLATION] "in a manner consistent with Rest'Actif's objectives." Moreover, Ms. Rhéaume agreed to be punctual and to treat Rest'Actif's clientele respectfully and professionally. Paragraph 4 stipulates that absences without a valid reason will not be tolerated, and that a document attesting to the validity of an absence due to illness may be requested. Lastly, requests for a substitute had to be approved by Rest'Actif. It should be added that Rest'Actif reserved the right to change Ms. Rhéaume's places of work.
+[38] Apart from these contractual provisions, Ms. Faucher's conduct in supervising Ms. Rhéaume's work provides further direct evidence of her control over Ms. Rhéaume. This control manifested itself when Ms. Faucher reprimanded Ms. Rhéaume for showing up late for one of her classes. It also manifested itself when she showed up several times to observe Ms. Rhéaume as she taught her classes, and when she ensured that Ms. Rhéaume was taking appropriate measures to avoid using wet sneakers during her classes. She also exercised her right of direction when she instructed Ms. Rhéaume not to leave elastics with customers so that they could use them outside the training sessions. The control was also shown when Ms. Faucher gave her instructions during the training that she dispensed right after hiring Ms. Rhéaume. This included telling her to have the participants fill out the physical activity readiness questionnaires and the consent forms concerning the risks of physical activity. Control was also shown when she said when it was appropriate to take breaks and that warm-up exercises were to be done at the beginning of her sessions.
+[39] Ms. Faucher also exercised her power of control when she criticized Ms. Rhéaume's performance with the employees of the Ministère du Revenu du Québec and when she informally obtained reports about what happened by phoning Ms. Rhéaume or by showing up where the fitness instruction was being given.
+[40] Her power of direction was also made plain when she limited Ms. Rhéaume's contacts with her clients to a strict minimum: Ms. Faucher generally did not allow Ms. Rhéaume to contact them; she did so herself. This power of direction was also exercised when Ms. Faucher refused to allow Ms. Rhéaume to prolong her fitness classes for a few minutes more than what had been agreed with the clients.
+[41] It is not surprising that Ms. Faucher reserved the right to exercise a power of control and direction over Ms. Rhéaume's work or that she exercised that power, because Ms. Rhéaume was performing services for Rest'Actif's clients. I cannot see how Ms. Faucher's business could have survived without exercising these rights of control over the work done by the kinesiologists that she hired. Ms. Faucher was not operating a simple kinesiologist placement business that offered services to its clients. Rather, it was offering its clients physical fitness training courses.
+[42] The fact that Ms. Rhéaume had some latitude in selecting activities suggests a certain degree of autonomy. However, as Picard J. reminds us in 9002‑8515 Québec Inc., and, as stated in article 2099 C.C.Q., there must be no relationship of subordination between Ms. Rhéaume and Ms. Faucher in respect of the performance of the work. But the record discloses the existence of a relationship of subordination. Indeed, "[a] sufficient number of indicia exists in this case of a relationship of authority" and thus, the contract in issue cannot be a contract for services within the meaning of the Civil Code of Québec. It is, rather, a contract of employment. I would note that many instructors at the primary, secondary, college and university levels have considerable independence with respect to the manner in which they teach their subject matter, but are considered employees. As Noël J.A. stated in Pinsonneault, supra, the important thing is to determine whether the payor had the right to exercise control or direction over the work done by the workers, not whether such contract was actually exercised, and it is clear that school boards, colleges and universities have this power of control and direction over the work done by their professors. In my opinion, Ms. Rhéaume's work was in the same situation.
+[43] Although it is only a minor fact, I should note in closing that I do not know many contractors and service providers who ask their clients to prepare invoices for them. In my opinion, the contractor in this instance was Ms. Faucher, and Ms. Rhéaume was merely an employee.
+[44] For all these reasons, Ms. Rhéaume's appeal is allowed, and it is my determination that her employment with Ms. Faucher, during the relevant period, constituted insurable employment for the purposes of subsection 5(1) of the Act.
+Signed at Ottawa, Canada, this 1st day of November 2007.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 21st day of November 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC591
+COURT FILE NO.: 2007-1255(EI)
+STYLE OF CAUSE: CHANTAL RHÉAUME v. M.N.R. and JULIE FAUCHER
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: November 1, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Vlad Zolia
+Counsel for the Intervener:
+Denys Saindon
+COUNSEL OF RECORD
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Where Ms. Rhéaume has not admitted to a fact, and evidence to the contrary has been adduced, I shall state that the fact was not proven. However, since the onus was on Ms. Rhéaume to prove that the facts relied upon by the Minister were not true, I shall state that a fact has been proven if positive evidence establishing that fact was adduced, or if Ms. Rhéaume adduced no evidence to the contrary.
+[2] The evidence discloses that Ms. Faucher offered roughly 50 classes and used 5-12 part-time workers to teach the classes that her business provided to its various clients. Ms. Faucher personally taught three of these 50 classes, and, when necessary, she filled in for the workers whose services she retained.
+[3] I will come back to this element of fact in my analysis.
+[4] I will come back to this element of fact in my analysis as well.
+[5] Robert P. Gagnon, Le droit du travail du Québec, 5th ed. (Cowansville, Qc.: Yvon Blais, 2003).
+[6] In The Harmonization of Federal Legislation with Quebec Civil Law and Canadian Bijuralism: Second Collection of Studies in Tax Law (2005) (Montréal: Association de planification fiscale et financière and Department of Justice Canada, 2005).
+[7] See my paper, supra, for a more detailed analysis.
+[8] Major J. in Sagaz, at paragraphs 46-47.
+[9] D & J Driveway Inc. v. Canada (M.N.R.), [2003] F.C.J. No. 1784 (QL), 2003 FCA 453. See also Charbonneau v. Canada, [1996] F.C.J. No. 1337 (QL) (F.C.A.); Sauvé v. Canada, [1995] F.C.J. No. 1378 (QL) (F.C.A.); Lagacé v. Canada (M.N.R.), [1994] F.C.J. No. 885 (QL) (F.C.A.), confirming [1991] T.C.J. No. 945 (QL). It should, however, be stated that, in D & J Driveway and Charbonneau, the Federal Court of Appeal did not expressly reject Wiebe Door, but it determined that a service contract existed because there was no relationship of subordination, thereby following the rules set out in the Civil Code.
+[10] Paragraph 16 of the decision.
+[11] It should be mentioned that Pelletier and Létourneau JJ.A. concurred in the decision of Décary J.A. However, in a more recent decision, namely Combined Insurance Company of America v. M.N.R. and Mélanie Drapeau, 2007 FCA 60, written by Nadon J.A. and also concurred in by Pelletier and Létourneau JJ.A., the Court refers to Wiebe Door once again. But there is no reference to 9041‑6868 Québec Inc. in Combined Insurance, and nowhere in Combined Insurance is it stated that the interpretation adopted by Décary J.A. is no longer the law in Quebec. The Supreme Court of Canada refused leave to appeal from Combined Insurance on October 25, 2007.
+[12] Commission des normes du travail c. 9002‑8515 Québec Inc., REJB 2000‑18725. See also the comments by the Minister of Justice, reproduced at paragraph 42 of my article, to the effect that the provider of services must "enjoy virtually total independence concerning the manner in which the contract is performed."
+[13] Jean‑Maurice Verdier, Alain Coeuret and Marie‑Arnelle Souriac, Droit du travail, 12th ed. (Paris: Dalloz, 2002) at page 315.

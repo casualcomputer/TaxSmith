@@ -1,0 +1,178 @@
+---
+title: "766743 Ontario Limited c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71437/index.do"
+last_modified: "2014-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 133"
+citation2: ""
+neutral_citation: "2014 CCI 133"
+decision_date: "2014-05-02"
+language: "fr"
+item_id: "71437"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5298
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:58:56.236000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33dae54a8e88d8a909484c53c582c8ad339c1f211b80e72e15164813cee02ead"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 766743 Ontario Limited c. M.R.N.
+
+- Citation: 2014 CCI 133
+- Decision date: 2014-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5298, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+766743 Ontario Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-02
+Référence neutre
+2014 CCI 133
+Numéro de dossier
+2013-1344(CPP)
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2013-1344(CPP)
+2013-1345(EI)
+ENTRE :
+766743 ONTARIO LIMITED
+SOBEN MGMT. LTD.,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 mars 2014 à Toronto (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats des appelantes :
+Me Jeffery Randoff/ Me Symon Zucker
+Avocate de l’intimé :
+Me Rita Araujo
+____________________________________________________________________
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, les appels sont rejetés, compte tenu du fait que la travailleuse occupait un emploi ouvrant droit à pension et assurable aux termes des dispositions des paragraphes 2(1) et 5(1) du Régime de pensions du Canada et de la Loi sur l’assurance-emploi, respectivement.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de mai 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+Ce 11e jour de juin 2014.
+C. Laroche
+Référence : 2014 CCI 133
+Date : 2014-05-02
+Dossiers : 2013-1344(CPP)
+2013-1345(EI)
+ENTRE :
+766743 ONTARIO LIMITED
+SOBEN MGMT. LTD.,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction
+[1] Les appelantes interjettent appel à l’encontre du règlement d’une question par le ministre, selon lequel Mme Balastros, hygiéniste dentaire (la « travailleuse »), occupait un emploi assurable et ouvrant droit à pension à la clinique dentaire Unite Here Wellness and Dental Centre (la « clinique dentaire ») des appelantes.
+[2] Tous les hygiénistes dentaires travaillant à la clinique dentaire étaient décrits comme étant des entrepreneurs indépendants. En établissant la nouvelle cotisation, le ministre a qualifié les services de Mme Balastros comme étant fournis aux termes d’un contrat de louage de services, plutôt que d'un contrat d’entreprise ou, dans un langage plus courant, en tant qu’employée et non comme entrepreneure indépendante. Il s’agit de la distinction applicable en droit pour les besoins du paragraphe 2(1) du Régime de pensions du Canada, L.C. 1996, ch. 23 (le « RPC ») et du paragraphe 5(1) de la Loi sur l’assurance-emploi, L.R.C. 1985, ch. C-8 (la « LAE »). La clinique dentaire était exploitée aux seules fins de fournir des services d’hygiène dentaire et des soins dentaires connexes aux employés syndiqués de divers hôtels de Toronto faisant partie de la section locale 75 du syndicat Unite Here. Travaillaient à la clinique dentaire divers dentistes, hygiénistes dentaires, denturologues et fournisseurs auxiliaires de soins de santé dentaire.
+II. Les critères juridiques et l’analyse prescrite
+[3] Les principes juridiques, les critères et la jurisprudence utilisés au fil du temps par la Cour pour se prononcer sur cette question qui lui a été maintes fois soumise ont été tout récemment exposés dans deux arrêts de la Cour d’appel fédérale.
+[4] L’arrêt TBT Personnel Services Inc. c. MRN, 2011 CAF 256, aux paragraphes 8 et 9, a établi que Wiebe Door Services Ltd. c. MRN, [1986] 2 C.T.C. 200, approuvé par la CSC dans 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, renforce la question centrale, qui est de savoir si la personne fournissant les services les fournit en tant que personne travaillant à son compte. Bien que le niveau de contrôle qu’exerce le bénéficiaire des services soit pertinent, d’autres facteurs doivent être pris en compte concernant le travailleur : surveillance et contrôle, fourniture de l’équipement, risque financier, responsabilités et gestion, et possibilité de tirer profit dans l’exécution, la manipulation et l'exploitation des services fournis, notamment. La Cour d’appel fédérale rapproche l’intention commune des parties, considérée comme un facteur dans Wolf c. R, [2002] A.C.F. no 375, et Royal Winnipeg Ballet c. MRN, 2006 CAF 48, déclarant que l’intention subjective des parties est une preuve dont il faut tenir compte, mais que la prise en considération des facteurs énoncés dans Wiebe Door demeure le critère clé concernant l’intention expresse des parties.
+[5] Plus récemment et peut-être de façon plus complète, la Cour d’appel fédérale, dans 1392644 Ontario Limited c. MRN, 2013 CAF 85, sub nomine Connor Homes, a analysé le critère « trompeusement simple » appliqué et exposé dans Sagaz pour établir si la personne assure les services « en tant que personne travaillant à son compte » (paragraphe 23). Le critère en quatre volets de Wiebe Door doit être pris en compte en ce qui a trait au travailleur, dans la totalité de l’entreprise (paragraphe 28). Cette liste non exhaustive de facteurs adoptée dans Sagaz (paragraphe 29) est le prisme à travers lequel on mesure l’intention des parties qui est significative dans Wolf et Royal Winnipeg Ballet. Lorsqu’une intention commune est établie, l’analyse des facteurs énoncés dans Wiebe étaye-t-elle ou contredit-elle cette intention (paragraphe 33)? Bien que les parties puissent établir leur intention au moyen d'un contrat (explicite ou implicite), un énoncé intéressé prima facie de ce qu'il doit être ne suffit pas pour qu’il en soit ainsi; l’analyse des facteurs objectifs énoncés dans Wiebe Door doit révéler, reprendre et faire ressortir l’intention subjective des parties (paragraphes 36 et 37).
+[6] En bref, TBT Personnel c. Services Inc. et Connor Homes établissent un processus en deux étapes permettant de déterminer si un travailleur est en fait une personne travaillant à son propre compte. Premièrement, l’intention subjective des parties a-t-elle été établie ou reflétée par écrit et/ou dans les actes? Deuxièmement, la réalité objective, après une analyse des facteurs énoncés dans Wiebe Door, confirme-t-elle ou réfute-t-elle l’intention subjective des parties?
+III. L’intention des parties
+[7] Les personnes qui ont témoigné à l’audience concernant l’intention des parties étaient l’hygiéniste dentaire des travailleurs, Mme Balastros, le directeur de la clinique dentaire, le Dr Iperifanou, et une autre hygiéniste dentaire des travailleurs, Kathy Peak.
+[8] Mme Balastros a commencé à travailler pour la clinique dentaire une journée par semaine en 2006. Cette entente verbale rapportait à la travailleuse 38 $ l’heure. Finalement, elle a commencé à travailler 2,5 jours par semaine et, en 2011, elle gagnait 38,59 $ l’heure et son taux de rémunération est demeuré le même depuis. Le 31 janvier 2011, les appelantes ont demandé que tous les travailleurs signent un document intitulé « Employment Letter » (ou « Lettre d’emploi ») contenant des conditions précises (la « lettre d’emploi »).
+[9] Après avoir signé l’entente écrite, le salaire de Mme Balalstros n’a pas augmenté; elle, comme tous les autres travailleurs de la clinique dentaire, a reçu 500 $ pour avoir signé l’entente. En même temps, elle a reçu une description de travail écrite intégrant presque mot à mot le code de déontologie de l’Ordre des hygiénistes dentaires de l’Ontario (l’« OHDO »).
+[10] L’entente de janvier 2011 contenait certaines stipulations pertinentes :
+i) confirmation, dans l’ensemble du document, du statut d’« entrepreneur indépendant » et non de celui d’« employé »;
+ii) le droit des appelantes de modifier à leur seule discrétion les horaires de travail;
+iii) le titre du document était [traduction] « Lettre d’emploi des hygiénistes »;
+iv) la signature de l’entente était obligatoire pour le maintien en poste;
+v) l’établissement d’une description de travail écrite susceptible d’être modifiée unilatéralement de temps à autre par les appelantes;
+vi) une déclaration expresse de [traduction] « non rémunération » en cas d’absence du travail et, en cas d’absence de plus d’une journée, une note du médecin était requise;
+vii) à la résiliation de l’entente, les dispositions minimales de rémunération à la cessation d’emploi de la Loi sur les normes d’emploi s’appliqueraient;
+viii) une disposition concernant les conflits d’intérêts régissant les [traduction] « intérêts personnels directs ou indirects » du travailleur et l’obligation, pour le travailleur, de déclarer promptement ses « intérêts personnels » à la clinique dentaire;
+ix) le non-respect de l’obligation de fournir une note du médecin (voir (vi) ci-dessus) constituerait un manquement et un motif de cessation d’emploi sans préavis ni paiement en tenant lieu.
+[11] Même si le reste de l’analyse concernant l’intention expresse des parties se situe dans la section V des présents motifs, « Analyse et décision », les parties ont affirmé directement que leur intention était que la relation soit celle d’un entrepreneur indépendant. La travailleuse percevait la relation de cette façon, car elle a dit dans son témoignage que la lettre d’emploi ne lui offrait aucun autre choix. Même en ne tenant pas compte du nom du document, les modalités de la lettre d'emploi, en elles-mêmes, n’étaient pas sans équivoque ou déterminantes en ce qui a trait à la relation juridique entre la travailleuse et les appelantes.
+IV. L’intention subjective par rapport à la réalité objective et vérifiable
+[12] Voici une analyse des constatations de faits relativement aux facteurs objectifs dont il faut tenir compte selon la jurisprudence citée ci-dessus à la section II.
+a) La supervision et le contrôle
+[13] Dans les faits, il n’a pas été contesté que l’OHDO était l’autorité principale assurant la surveillance réglementaire globale de la travailleuse. Le gagne-pain de la travailleuse dépendait du respect du code de déontologie et des normes professionnelles de l’OHDO. Les entrevues menées occasionnellement sur place par l’OHDO constituaient une surveillance qui, lorsqu’elle avait lieu, attirait l’attention de la travailleuse ainsi que de la clinique dentaire.
+[14] Les patients pouvaient demander les services de la travailleuse, mais ils demeuraient les patients de la clinique dentaire, qui choisissait l’hygiéniste que le patient voyait, en tenant compte dans la mesure du possible des demandes de ce dernier. Le dentiste traitant voyait chaque patient à un certain moment pendant la séance de travail de l’hygiéniste dentaire, afin de pouvoir effectuer un examen buccal. Cela contribuait probablement au lien qu’avait chaque patient avec le dentiste, plutôt qu’avec la travailleuse.
+[15] Les horaires de travail étaient établis par la clinique dentaire, sur préavis de la travailleuse. Le travail supplémentaire devait faire l’objet d’une discussion, comme tout changement à l’horaire. La travailleuse pouvait travailler ailleurs, à l’extérieur de son horaire établi. Dans le cas présent, c’est ce que la travailleuse a fait, à titre d’employée. Les congés prolongés étaient autorisés, sous réserve d’un préavis suffisant. La travailleuse était encouragée à assister à certaines réunions du personnel tenues par la clinique dentaire pour la lutte contre les infections ainsi que pour les annonces et modifications importantes relativement aux politiques.
+[16] La travailleuse payait ses propres uniformes, ses frais de scolarité à l’éducation permanente et ses frais de permis d'exercice. Les travaux de restauration découlant d’erreurs étaient planifiés par la clinique dentaire, exécutés par la travailleuse, mais au tarif habituel payé à celle-ci par la clinique dentaire. En cas de non-respect des politiques de l’OHDO, la travailleuse s'exposait à des mesures disciplinaires de l’OHDO et au renvoi de la clinique dentaire.
+[17] En ce qui a trait à la routine quotidienne de la travailleuse, elle utilisait les locaux, les ordinateurs, les tableaux et les fiches quotidiennes de la clinique dentaire, assistant le dentiste de l’équipe et le personnel de la réception de manière à s’acquitter des services qu’elle devait fournir entièrement sur place. La travailleuse a décrit son travail comme étant non [traduction] « supervisé », mais [traduction] « interdépendant » des autres services fournis par la clinique dentaire à l'appui de ses efforts.
+b) La propriété des outils et de l’équipement
+[18] Au début, la travailleuse pouvait apporter un ou deux détartreurs qu’elle préférait, mais il a été mis fin à cette pratique de façon à garantir des techniques uniformes de stérilisation. Autrement, la totalité des outils et de l’équipement étaient fournis, entretenus et remplacés par les appelantes. La travailleuse payait ses droits de permis, son assurance, ses frais de formation continue et ses uniformes. La travailleuse ne payait pas de frais de location ou d’utilisation pour l’usage de l’équipement et des outils. La Cour a relevé certaines divergences de témoignage sur la question de savoir si le taux de rémunération horaire de la travailleuse était réduit d’un montant représentant les coûts indirects de l’équipement, mais aucun élément de preuve clair ou précis n’a été offert concernant les détails de ce calcul. Le coût de réparation en cas de dommage à l’équipement était assumé par les appelantes.
+c) La possibilité de profit
+[19] La travailleuse n’a investi aucun capital dans la clinique dentaire et ne pouvait manipuler ou exploiter les coûts de main-d’œuvre ou de production pour augmenter ses profits. La travailleuse pouvait, comme toujours, travailler plus ou moins d’heures pour augmenter son revenu. Elle n’avait pas de carte de visite, de matériel publicitaire, non plus que de nom commercial, de société, d’entreprise enregistrée et/ou de numéro d’identification d’entreprise. La travailleuse n’avait aucune possibilité de recruter à sa guise, directement ou en sous-traitance, des travailleurs en remplacement. Ces remplacements, et les paiements afférents, relevaient directement de la clinique dentaire.
+d) Le risque de perte et la responsabilité
+[20] Les appelantes ont laissé entendre que la responsabilité professionnelle liée à la négligence constituait un risque de perte pour la travailleuse. En réalité, c’était également une condition imposée par l’OHDO, qui exigeait une assurance obligatoire contre la faute professionnelle afin qu'une négligence personnelle n’impose pas aux patients le risque de ne recevoir aucune indemnisation à l’égard des dommages découlant de la négligence de la travailleuse. Tout hygiéniste dentaire en Ontario, qu’il soit employé ou entrepreneur indépendant, aurait la même responsabilité et aurait besoin de la même assurance offerte par l’Ordre. En fait, si le choix était offert et qu’un entrepreneur indépendant pouvait librement refuser cette assurance, le refus de cette assurance obligatoire pourrait être une preuve de risque de perte, mais tel n’était pas le cas. De plus, la Cour soupçonne que la clinique dentaire s’opposerait vivement à cette liberté de choix et imposerait probablement comme règle une assurance obligatoire de son choix en tant que clause contractuelle.
+V. Analyse et décision
+[21] L’analyse des facteurs objectifs, jumelée aux directives dictées par une tierce partie superposée, à savoir l’OHDO, chasse l’intention objective des parties, qui était déjà moins que claire en raison de la documentation ambiguë. L’avocat des appelantes a rédigé la lettre d’emploi, sans participation de la travailleuse concernant les conditions, et celle-ci n’a vu aucune possibilité de négociation. La lettre d’emploi intégrait par renvoi le code de déontologie de l’OHDO, qui était on ne peut plus clair et complet quant aux tâches et aux méthodes pour s’en acquitter. De plus, se mêlaient au document des éléments à la fois d’un contrat d’entreprise et d’un contrat de louage de services. On y souligne à maintes reprises que l’intention est d’établir une relation d’entrepreneurs indépendants, chacun responsable du paiement des impôts, taxes et versements. Toutefois, on y relève également des conditions constituant l’indice d’un emploi : le titre [traduction] « Lettre d’emploi », le droit unilatéral des appelantes de modifier les horaires de travail, la signature du document comme condition préalable du maintien de la relation, l’exigence d’un avis si un travailleur ne se présenta pas au travail, sans droit de sous-traitance et avec l’obligation de produire un certificat de médecin si la personne est malade plus d’une journée.
+[22] Au mieux, ce document légèrement hybride exprime une intention muette comparativement à une intention expresse d’entrepreneur indépendant à apprécier en fonction des facteurs objectifs. Néanmoins, l’intention subjective, même si elle n’est pas claire, gravite un peu plus en faveur d’une situation d’entrepreneur indépendant.
+[23] L’analyse qui suit des facteurs énoncés dans Wiebe Door n’est ni un exercice mathématique, ni un test à choix multiples; l’appréciation des facteurs doit reposer sur la totalité de l’entente : Sagaz, au paragraphe 48.
+[24] La supervision et le contrôle, lorsqu’ils ne sont pas interdits par la couche supplémentaire que constitue le code de déontologie de l’OHDO et la supervision de celui-ci en qualité d’ordre de réglementation obligatoire, placent la Cour devant une situation où chaque patient était également vu par un dentiste autorisé au cours de chaque nettoyage effectué par la travailleuse. La clinique dentaire s’occupait de l’organisation concernant les patients, des réservations, des travailleurs de remplacement, des réunions du personnel, des congés, des absences ainsi que des interventions, et organisait la tenue des travaux de réparation et en effectuait le paiement.
+[25] Les outils et l’équipement, à l’exception de certains outils manuels préférés (ceux-ci désormais interdits) étaient, de façon uniforme et constante, fournis, entretenus, nettoyés et remplacés par la clinique dentaire. Peu importe qu’il y ait eu des frais masqués de rétrofacturation pour ces outils et équipements, ils semblent avoir été comptabilisés de façon plus tangible dans le modèle d’affaires de la clinique dentaire que dans tout ajustement précis et marqué du taux de rémunération de la travailleuse.
+[26] Si ce n’est de travailler plus d’heures ou de travailler ailleurs, il n'y avait pour la travailleuse aucune possibilité d’augmenter son revenu ou de réduire ses coûts par la manipulation et l’exploitation du capital, de la main-d’œuvre et du matériel. La travailleuse était présente à la clinique dentaire, travaillait les heures prévues et retournait chez elle. Il était interdit à la travailleuse de se faire remplacer en sous-traitance. Il n’existait aucune autre entreprise accessoire ou connexe liée à la bénéficiaire du service (la clinique dentaire) prouvant que les clients étaient ceux de la travailleuse ou qu’il y avait prestation de services à valeur ajoutée. La Cour n’a relevé aucune autre entreprise commerciale distincte : nom commercial, société ou entreprise individuelle, factures remises, numéro d’identification d’entreprise ou autre structure, coutume ou tractation commerciale reconnaissable.
+[27] Il n’existait aucun risque de perte. L’assurance responsabilité professionnelle obligatoire n’est pas une preuve de risque de ce genre dans ce contexte. Tel que mentionné antérieurement dans les présents motifs, la travailleuse ne risquait ni capital, ni main-d’œuvre ni matériel. Le risque d’entreprise en question touche l’obligation d’un entrepreneur indépendant de fournir les services visés par le contrat, même si les revenus négociés reçus pour ces services peuvent ne pas dépasser par une marge suffisante (ou ne pas dépasser du tout) les coûts de main-d’œuvre, d’immobilisation et/ou de matériel entrant dans la production et la prestation des services. Il s’agissait de coûts nominaux, proportionnés à ceux d’un employé, et non d’une personne en affaires. Si les coûts des services en question ne comprennent pas les frais d’exécution et/ou de production, conclure objectivement à l’existence d’une entreprise distincte devient plus difficile. À l’exception du coût des uniformes de travail, du renouvellement du permis d’exercice et des frais de transport quotidiens entre le lieu de travail et le domicile, qui sont autant de coûts fixes assumés tant par un employé que par un entrepreneur indépendant, il n’y avait pas d’autres coûts ayant une influence sur un éventuel profit ou un risque connexe de perte pour la travailleuse.
+[28] En nous fondant sur la totalité de l’entente tel qu’elle ressort de l’analyse des facteurs objectifs, il n’existe en l'espèce qu’une seule entreprise : la clinique dentaire. Les trois derniers facteurs analysés ci-dessus dressent clairement un tableau dans ce cadre bien particulier. La hiérarchie de contrôle et de surveillance des « services » peut faire l’objet d’un classement des priorités : le niveau supérieur relevait surtout du pouvoir de réglementation supplanté par l’OHDO; le deuxième était exercé de façon secondaire par la clinique dentaire pour protéger son entreprise et le niveau inférieur de contrôle relevait de la travailleuse, en exécution de son travail quotidien habituel et planifié à titre d’hygiéniste dentaire autorisée travaillant à temps partiel à la clinique dentaire.
+[29] En conclusion, même si l’entente entre les parties était un peu équivoque en ce qui a trait à l’intention subjective (du moins dans la mesure où cela est précisé dans la lettre d’emploi), l’analyse des facteurs énoncés dans Wiebe Door ne l’était pas; la réalité objective des faits laisse découvrir des indices beaucoup plus forts pointant vers un emploi que vers un travail d’entrepreneure indépendante en affaires pour son propre compte.
+[30] Pour ces motifs, les appels sont rejetés.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour de mai 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+Ce 11e jour de juin 2014.
+C. Laroche
+RÉFÉRENCE : 2014 CCI 133
+NOS DES DOSSIERS DE LA COUR : 2013-1344(CPP)
+2013-1345(EI)
+INTITULÉ : 766743 ONTARIO LIMITED, SOBEN MGMT. LTD. et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 4 mars 2014
+MOTIFS DU JUGEMENT : L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 2 mai 2014
+COMPARUTIONS :
+Avocats des appelantes :
+Me Jeffery Randoff/Me Symon Zucker
+Avocate de l’intimée :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom : Jeffery Randoff/Symon Zucker
+Cabinet : Radnoff Law
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

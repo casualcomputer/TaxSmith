@@ -1,0 +1,127 @@
+Title: Bastien c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25646/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-24-25646-bastien-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-01-16
+
+# Bastien c. La Reine
+
+- Citation: 2004 TCC 24
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3822, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bastien c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-16
+Neutral citation
+2004 TCC 24
+File numbers
+2002-2801(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2801(IT)I
+BETWEEN:
+JEAN-MARIE BASTIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on December 1 and 2, 2003, at Montréal, Quebec
+Before: The Honourable Judge P. R. Dussault
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Dany Leduc and Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1990, 1991 and 1992 taxation years are dismissed.
+Signed at Ottawa, Canada, this 10th day of December 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 12th day of April 2004.
+Sharlene Cooper, Translator
+Citation: 2004CCI24
+Date: 20040116
+Docket: 2002-2801(IT)I
+BETWEEN:
+JEAN-MARIE BASTIEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Reasons delivered orally on December 2, 2003, at Montréal, Quebec
+and edited at Ottawa, Ontarioon January 16, 2004)
+Dussault, J.
+[1] I think I have followed everything that could be submitted by both sides as oral and documentary evidence and I do not believe that considerable reflection on the applicable principles is necessary to render a decision in this case.
+[2] Thus, I believe I am ready to render my decision now. First, I would like to comment on the observations made by Mr. Bastien concerning the responsibility of tax authorities.
+[3] First, I will say that the Court's jurisdiction with regard to income tax is essentially, with the exception of some incidental proceedings, to verify the validity of assessments. If taxpayers have complaints to make against tax authorities, insomuch as the actions of these authorities have no impact, as such, on assessments, this is not the Court's responsibility. Thus, essentially, it is my duty to determine the validity of the assessments for 1990, 1991 and 1992. I will come back to this point in a moment.
+[4] So, that being said, and I believe this is extremely important, Mr. Leduc pointed out the delays that Mr. Bastien claimed to have experienced, delays on the part of tax authorities to confirm the assessments. I think that the Income Tax Act ("Act") is very clear; in cases where a taxpayer has objected to an assessment he has the absolute right to appeal from that assessment if the Minister of National Revenue ("Minister") does not respond within 90 days. The taxpayer has the right to do so the day after the expiration of the time period, or he may choose to wait six months, a year, a year and a half, two years. It is entirely up to the taxpayer.
+[5] Now I shall address your observations, Mr. Bastien, with regard to the ombudsman's recommendations or conclusions. First, the ombudsman reviewed the situation based on the actions of the Quebec tax authorities, and the legislative provisions that he refers to, including section 94, are part of An Act Respecting the Ministère du Revenu (of Quebec) and not the Income Tax Act (federal).
+[6] If I remember correctly, I believe the counterpart for section 94 is found in section 220(3.1) of the Act (that is, the federal Act), in which the Minister has the authority to cancel or reduce penalties or interest.
+[7] First, the taxpayer must request what is referred to as a Fairness Package. A request must be made to the Minister. I believe I discussed this point at the start yesterday morning. Thus, if a request is made to the Minister under subsection 220(3.1) of the Act, that is, to reduce the interest, for example, because it took so long to issue the confirmations of the assessments, given the large number of cases to process and the complexity of such cases, and the fact that the result is unsatisfactory, it is possible to have the Federal Court review this decision.
+[8] Therefore, in spite of the fact that the Tax Court of Canada obtained the status of a Superior Court on July 2, 2003, its jurisdiction in this regard did not change. Who knows? It may change in the future, but for now, the Federal Court, and not the Tax Court of Canada, may review a decision made by the Minister, in which the Minister exercises discretion.
+[9] I shall now address the assessments. There are assessments for 1990, 1991 and 1992. In 1990, the Appellant invested $14,000 in the research company Système Expert enregistrée (Système Expert). On his 1990 income tax return, the Appellant claimed a business loss of $11,760 and an investment tax credit of $2,352. In the 1990 reassessment, dated April 28, 1994, the $11,760 loss that was claimed was disallowed, the investment tax credit that was claimed was disallowed and a loss of $14,000 was awarded, which represents the amount of the investment, as the Appellant was deemed to be a member of a partnership, albeit a member who was not actively engaged.
+[10] The 1991 reassessment, dated August 29, 1994, disallowed a capital loss of $1,960, which had been claimed, and added a capital gain of $6,300 for the year, following the disposition of shares in Système Expert.
+[11] The assessment was made on the basis that the Appellant is a specified member and that he was not actively engaged in the activities of the partnership on a regular, continuous and substantial basis throughout that part of the period or year of the partnership, other than the financing. In this regard, it is necessary to refer to the definition of "specified member" found in subsection 248(1), paragraph (b).
+[12] The new grounds for disallowing the Appellant's claims, particularly the investment credit since a loss of $14,000 was indeed granted, were that there was no genuine partnership, as there was no intention to work together for the benefit of all of the members of the partnership, and that the company was not seeking commercial profit, but merely a tax reduction.
+[13] Additional ground. There was no genuine business. The partnership had no activities, so there was no business.
+[14] In 1991, the Appellant invested $14,000 in the research company Systèmes Interactifs enregistrée (Systèmes Interactifs) and claimed a business loss of $12,768 and an investment tax credit of $2,553. A reassessment for the 1991 taxation year, the Notice for which is dated April 7, 1995, disallowed this loss of $12,768, disallowed the investment tax credit of $2,553 and granted the Appellant a partnership loss of $14,000, as a member who is not actively engaged in the partnership.
+[15] For 1992, a capital gain of $6,860 was added following the disposition of the Appellant's shares in the partnership.
+[16] The initial ground is the same as the one for Système Expert and the new grounds raised are the same as those raised for Système Expert.
+[17] There is agreement between the parties concerning the tax treatment of Systèmes Interactifs in the sense that the parties agree that the tax treatment that applies to the investment in Systèmes Interactifs also applies to the investment in Système Expert. Consequently, the evidence was limited and only the nature of the investment in Systèmes Interactifs was reviewed.
+[18] In 1992, the Appellant invested $20,000 in the company Alcapoly II, and he claimed a loss of $20,000. The reassessment, the Notice for which is dated February 28, 1996, disallowed the loss.
+[19] This involves a scheme to purchase and redeem company shares in which the investor recovers 68% of his initial investment through a parallel process of purchasing and redeeming shares. The fact was raised that, in the end, the Appellant only paid 32% of the loss claimed. In this case, it was pointed out that no research was conducted, that there is no genuine partnership because, as in the other two cases, there is no intention, that no profit was sought either and that there is no genuine business, as the goal was merely to reduce taxes or to obtain a tax benefit. In addition, in this case, no tax shelter number was obtained from the authorities.
+[20] The Respondent submitted, through numerous witnesses and through considerable documentary evidence, all of the ins and outs of the investments in the said companies.
+[21] The documentary evidence is quite impressive and clearly demonstrates the flow of funds and their use.
+[22] With regard to Systèmes Interactifs, indeed the conclusion is that according to the criteria identified and analyzed by Garon J. in McKeown v. Canada, [2001] T.C.J. No. 236 (Q.L.), there is actually no genuine partnership. There is a lot of paperwork; however, the essential elements for the formation of a genuine partnership are absent, that is, first of all, intention, and second, seeking what may be referred to as commercial profit and not a tax reduction.
+[23] It is also noted that Systèmes Interactifs has no activity, as such, with the exception of recruiting investors and collecting money, as a research mandate was conferred on the company Intersuivi almost immediately following the formation of Systèmes Interactifs.
+[24] That being the case, there is obviously no need for me to address the other aspects. In such a case, the Appellant should not have been entitled to any deduction whatsoever. That is my determination. However, since the Court does not have the authority to increase the assessments, the Appellant will obviously be allowed to keep what has already been awarded.
+[25] If one wanted to go a step further and acknowledge that there is a partnership and that this partnership has activities, one would need to, as Mr. Dupuis pointed out, conduct an analysis to determine whether or not the Appellant was what is referred to as an active member, that is, pursuant to the definition of "specified member" in subsection 248(1), paragraph (b), of the Act. One would need to determine whether he was engaged on a regular, continuous and substantial basis in the activities of the partnership business. If it were necessary to take the analysis that far, I believe the answer would be negative, contrary to the opinion provided by the accounting firm, which indicates very few facts. Indeed, in the opinion of the firm Arel Drouin et associés, reading at the last paragraph on page 1, it is evident that the language used is extremely vague and does not shed any true light on the nature of the activities. I quote:
+[translation]
+Upon becoming a member of the partnership, each partner was not only engaged in the activities of the partnership, but also in some of the activities associated with defining and validating software and user interface characteristics.
+[26] This statement is quite general, quite vague. I shall continue reading:
+[translation]
+The companies' suppliers solicited these activities in order to perfect their scientific research and experimental development work. To gain a clear understanding of the activities the members performed compared to those of the companies, we created a flow chart, which is included in the Appendix. In light of the information on the preceding page, we believe that the members cannot be deemed to be "specified members" within the meaning of section 1 of the Taxation Act for the following reasons.
+And here it refers to section 1 of the Taxation Act; it says:
+[translation]
+(a) The members are not limited partners of the partnership within the meaning of section 613.6. Members who are not actively engaged in those activities of the partnership business that are other than the financing cannot be deemed to be members of a partnership.
+[27] To speak of an opinion of members who are not actively engaged is not nearly strict enough, as the Act speaks of engagement that is; I will read the text starting at subsection 248(1) of the Act, paragraph (b), at the definition of "specified member." It reads as follows:
+"specified member" of a partnership in a fiscal period or taxation year of the partnership, as the case may be, means
+(a) ...
+(b) any member of the partnership, other than a member who is
+(i) actively engaged in those activities of the partnership business which are other than the financing of the partnership business, or
+(ii) carrying on a similar business as that carried on by the partnership in its taxation year, otherwise than as a member of the partnership,
+on a regular, continuous and substantial basis throughout that part of the period or year during which the business of the partnership is ordinarily carried on and during which he is a member of the partnership.
+[28] Thus, when an opinion simply states, "actively engaged in those activities of the partnership," three important words are missing: "regular, continuous and substantial." I do not think that three meetings, two of which related somewhat to financing, and answering two questionnaires that were also submitted as evidence, even if there is the intention to answer them seriously, in addition to some telephone conversations, are sufficient elements to meet the conditions set out in the definition of "specified member." However, as I said earlier, I do not think it is necessary to go that far.
+[29] Mr. Leduc's arguments, in light of the evidence submitted, are the most important arguments and I agree with him entirely.
+[30] With regard to the treatment given by the Minister, I believe, as Mr. Leduc pointed out, that the Minister was generous under the circumstances. Actually, I believe that if it had to be done over again today, Mr. Bastien would not be entitled to any loss.
+[31] With regard to the company Alcapoly II in 1992, this is not the same system at all. The investment is different here in that, in tandem with this investment, there is a system, if I may refer to it as such, or a [translation] "process," as Mr. Bastien referred to it, of purchasing and redeeming shares, a process whereby everything occurs within a very short time period, within one month actually, and whereby the investment, the purchase and redemption of shares, are all made in two stages. Everything is completed within one month such that the investors, and Mr. Bastien in particular, actually only had to pay 32% of the initial investment or initial amount, which is equal to the amount of the loss claimed.
+[32] Here again, no evidence could be submitted that it was a genuine partnership in the sense that there was an intention to work together for the common benefit of the members of the partnership and in seeking commercial profit. Second, there is no evidence whatsoever that this partnership carried on any activity at all. It did not even receive cheques. They were made by investors to research management companies.
+[33] The evidence revealed the flow of funds and it is important to note that no funds were invested for scientific research either. Vendors and a number of partnerships collected the remaining money, that is, 32%, for all kinds of purposes. Finally, there is really nothing that could be shown that went toward scientific research.
+[34] The final point of all of this is the absence of a tax shelter number. Obviously, the system or process in Alcapoly II, as presented to investors and as carried out in such a short time period, leaves no doubt about the fact that this is a tax shelter, whereby the investor, taking into account the announcements or statements made, can expect his loss to be much greater than the reduced cost of the benefit resulting from the system or process of purchasing and redeeming shares.
+[35] Since no tax shelter number was provided or even requested under the circumstances, section 237.1 of the Act, at subsection 6, gives us the answer for such a case. There is no opportunity to claim any deduction whatsoever. Subsection 237.1(6) of the Act reads as follows:
+No amount may be deducted or claimed by a person in respect of a tax shelter unless the person files with the Minister a prescribed form containing prescribed information, including the identification number for the tax shelter.
+[36] Thus, for these reasons, I find that the appeals from the assessments for the three years must be dismissed.
+Signed at Ottawa, Canada this 16th day of January 2004.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 12th day of April 2004.
+Sharlene Cooper, Translator

@@ -1,0 +1,196 @@
+---
+title: "Vandonkersgoed nee Holz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29751/index.do"
+last_modified: "2010-04-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 208"
+citation2: ""
+neutral_citation: "2010 TCC 208"
+decision_date: "2010-04-16"
+language: "en"
+item_id: "29751"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6526
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:27:36.499000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4080db5bc49958da6c0b8cf4fcd30002b0582365069120e834fb69bfc4a7a51b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vandonkersgoed nee Holz v. The Queen
+
+- Citation: 2010 TCC 208
+- Decision date: 2010-04-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6526, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vandonkersgoed nee Holz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-16
+Neutral citation
+2010 TCC 208
+File numbers
+2009-2093(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2093(IT)I
+BETWEEN:
+RENATE CAROLINE VANDONKERSGOED NEE HOLZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 24, 2010, at
+Kelowna ,
+British Columbia
+.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Matthew Canzer
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the appellant’s 2004, 2005 and 2006 taxation years are allowed in part, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached hereto.
+Signed at
+Ottawa ,
+Canada
+, this 16th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 208
+2009-2093(IT)I
+BETWEEN:
+RENATE CAROLINE VANDONKERSGOED NEE HOLZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR JUDGMENT
+Let the attached edited transcript of the Reasons for Judgment delivered orally from the Bench at
+Kelowna
+,
+British Columbia
+, on March 24, 2010, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive change.
+Signed at
+Ottawa ,
+Canada
+, this 16th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 208
+Date: 20100416
+Docket: 2009-2093(IT)I
+BETWEEN:
+RENATE CAROLINE VANDONKERSGOED NEE HOLZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF REASONS FOR JUDGMENT
+[delivered orally from the Bench at
+Kelowna
+,
+BC
+, on March 24, 2010]
+Boyle J.
+[1] These are my oral Reasons in this morning’s informal appeal heard in
+Kelowna
+by Mrs. Van Donkersgoed against her 2004 through 2006 reassessments in respect of her bed and breakfast tourist home operations.
+[2] Mrs. Van Donkersgoed represented herself in this appeal. She is a widow of almost 70 and did a fine job. Her credibility was not put in issue by the Crown and the Court fully accepts the truthfulness of her testimony.
+[3] Mrs. Van Donkersgoed operated a very successful bed and breakfast style tourist accommodation named Villa Blanca in the rural mountainside of
+British Columbia ’s Okanagan area. Following the devastating
+B.C.
+Anarchist
+Mountain
+forest fire in July of 2003, her business was seriously adversely affected. For the several years following that, the surrounding area, including the area adjacent to Villa Blanca, was devastated and had lingering blowing ash and the smells of the fire, ash and smoke. Mrs. Van Donkersgoed nonetheless continued to operate Villa Blanca through 2006. Following the fire, business at Villa Blanca was down 80 percent from years prior to the fire. It is not surprising that losses resulted in these years. Nonetheless, Mrs. Van Donkersgoed continued to fully maintain and market the business at Villa Blanca. She kept it open and ready for guests throughout those years. However, she only had guest bookings for somewhat more than 100 nights each year, and most of those cancelled upon arriving in the area and seeing the devastation surrounding Villa Blanca. She only had guests in Villa Blanca between 30 and 40 nights per year in the three years following the fire.
+[4] The principal questions raised in this appeal are (i) the extent to which paragraph 18(12)(b) applies to restrict losses arising from the business use of one’s home, and (ii) whether the allocation between business and personal use of expenses was correct.
+[5] Villa Blanca was a three‑storey home of 4,868 square feet. The ground, basement level floor, consisted of a large guest family suite, which was not used for any personal purposes.
+[6] The main floor had two guest rooms with bathrooms, living and dining rooms, a hot tub area, as well as a kitchen. Only the kitchen on this floor was shared personal and business use, as the third floor private residence did not have its own kitchen.
+[7] The third, top floor, private area was entirely the personal living quarters of Mrs. Van Donkersgoed and her late husband. This floor was 956 square feet, approximately one‑half of the size of each of the other two floors. It had three large rooms for living, dining and sleeping, and two bathrooms. Except for the need to use the kitchen for meal preparation on the main floor, the top floor was the self‑contained living quarters for the taxpayer and her husband.
+[8] Based on the square footage of the property, the personal living quarters on the top floor accounted for slightly less than 20 percent of the Villa Blanca. This does not account for the use of the kitchen. After consulting with her chartered accountant, who also testified, Mrs. Van Donkersgoed prepared her business income statement throughout allocating 30 percent of the expenses related to the upkeep of Villa Blanca as personal.
+[9] The taxpayer filed her returns on the basis that paragraph 18(12)(b) did not apply to her business. The Canada Revenue Agency (“CRA”) reassessed and applied paragraph 18(12)(b) on the basis that the entire property was her self‑contained domestic establishment. At the objection stage the CRA reassessed to apply paragraph 18(12)(b) on the basis that the ground floor suite did not form part of the self‑contained domestic establishment.
+[10] I find that the self‑contained domestic establishment at Villa Blanca comprised the top floor private residence area only and none of that was used in her business, nor were any expenses associated with that area deducted by her. The Villa Blanca set‑up is remarkably similar to that in this Court’s 2007 decision in Denis v. The Queen, 2007 TCC 656, 2008 DTC 2004. In Denis the former Chief Justice Bowman held that a shared‑use kitchen does not necessarily expand a self‑contained domestic establishment, nor does it prevent the remaining private living quarters from being a self‑contained domestic establishment. I wholeheartedly agree with our former Chief Justice, and the other cases of this Court he referred to, and find that reasoning entirely applicable on the particular facts of this case.
+[11] Mrs. Van Donkersgoed’s appeal should be allowed to the extent of completely removing the application of the paragraph 18(12)(b) loss restrictions.
+[12] As stated, Mrs. Van Donkersgoed used a 30 percent allocation in respect of the personal use portion of the Villa Blanca property related expenses. I find this was entirely reasonable on the evidence, given that the private quarters constituted less than 20 percent of the floor space. That allowed for the shared‑use of the kitchen for meal preparation and similar factors thatought to be recognized. The Crown said it felt a 60 percent allocation was perhaps more reasonable, but I saw no evidentiary foundation for that. Mrs. Van Donkersgoed’s appeal on this point is allowed and the Minister will reassess to the extent that anything more than 30 percent of the total Villa Blanca property related expenses, being insurance, interest, maintenance and repairs, property tax and utilities, were treated by the CRA as non‑deductible personal residence expenses. It appears from paragraphs 11 (k), (l) and (m) of the Reply that no such adjustment may in fact be necessary.
+[13] I am also satisfied on the evidence of the taxpayer that her motor vehicle expense allocation of 70 percent to the business, 30 percent personal, was reasonable in the circumstances. She described clearly the extent of her use of the vehicle in obtaining supplies regularly, promoting her business at local tourism establishments and tourist attractions, et cetera. She described the use of a 1995 half‑ton pick‑up suitable for rural mountainside gravel road conditions, notwithstanding all of its apparent cost inefficiencies. The Crown’s position that only about 30 percent should be allowed only recognized the purchasing of supplies aspects since it was based entirely upon the number of days that she had guests or last‑minute cancellations. I do agree that the CRA properly disallowed the car rental expenses in her motor vehicle expenses from her trips to
+Palm Springs and
+Los Angeles
+.
+[14] I am satisfied that the modest amount of business‑related meals and entertainment were properly accounted for in her testimony and her income statement filed with her return.
+[15] Adjustments, however, are warranted to the travel expenses she claimed. I am not certain that the
+Costa Rica
+birding trip of 2005 related to her business, or to a new business she had started, or to a new business she was only thinking of starting. It appeared to be a personal venture in considering whether to start a new business. However, the Crown has indicated that perhaps 10 percent of it should be allowed. Accordingly, I will allow $1,000 of travel expenses in 2005.
+[16] The 2005
+Berlin trip related entirely to the taxpayer manning a local
+British Columbia table at a major European tourism fair. She did not deduct anything beyond airfare and travel expenses, as her room and board were covered. She did not stay on before or after the three‑day fair. Accordingly, her entire 2006 travel expense of just under $2,000 should properly be allowed as a business expense.
+[17] Adjustments are also warranted to her Costco and British Columbia Automobile Association membership fees. These should only be 70 percent deductible, not the 100 percent claimed, nor the 60 percent reassessed. Similarly, the 2006 appraisal costs were properly reassessed at 70 percent instead of the 100 percent claimed.
+[18] The CRA should have allowed all of the other business expenses claimed by Mrs. Van Donkersgoed in her business income statements without adjustments and is ordered to reassess accordingly.
+[19] I will be ordering the CRA to reconsider and reassess in accordance with these reasons. I will order a transcript of these reasons to be sent to each of the taxpayer and the respondent with my judgment.
+[20] Mrs. Van Donkersgoed has been substantially successful in her appeal today and I am awarding costs in her favour fixed at $250.
+[21] Thank you Mrs. Van Donkersgoed and Mr. Canzer. Thank you Madam Court Reporter and Madam Registrar. We are adjourned.
+Signed at
+Ottawa ,
+Canada
+, this 16th day of April 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 208
+COURT FILE NO.: 2009-2093(IT)I
+STYLE OF CAUSE: RENATE CAROLINE VANDONKERSGOED NEE HOLZ
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Kelowna ,
+British Columbia
+DATE OF HEARING: March 24, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: April 16, 2010
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Matthew Canzer
+ALSO PRESENT:
+Court Registrar:
+Julia Platt
+Court Reporter:
+Annalee Lannigan
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa ,
+Canada

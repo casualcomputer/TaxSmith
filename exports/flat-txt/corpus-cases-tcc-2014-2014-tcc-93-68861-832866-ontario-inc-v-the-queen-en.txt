@@ -1,0 +1,157 @@
+Title: 832866 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/68861/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-93-68861-832866-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-26
+
+# 832866 Ontario Inc. v. The Queen
+
+- Citation: 2014 TCC 93
+- Decision date: 2014-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5325, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+832866 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-26
+Neutral citation
+2014 TCC 93
+File numbers
+2013-2695(GST)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2695(GST)I
+BETWEEN:
+832866 ONTARIO INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 26, 2014, at London, Ontario
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Linda Smits
+Counsel for the Respondent:
+Christopher Kitchen
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under Part IX of the Excise Tax Act, notice of which is dated March 1, 2012, with respect to the reporting period from January 1, 2006 to March 31, 2006, is dismissed.
+Signed at Ottawa, Canada, this 26th day of March 2014.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2014 TCC 93
+Date: 20140326
+Docket: 2013-2695(GST)I
+BETWEEN:
+832866 ONTARIO INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] The sole issue in this appeal from an assessment of Goods and Services Tax ("GST") is whether the taxpayer "made a misrepresentation that is attributable to the person's neglect, carelessness or wilful default" within the meaning of subsection 298(4) of the Excise Tax Act ("Act") when it made and filed a GST return for the period January 1, 2006 to March 31, 2006.[1]
+[2] At all relevant times the corporation was a builder of custom homes. It had been in business for over 20 years. It continues to carry on business under the name and style "Carriage Hills Construction" although now it is primarily in the renovation business. It was the appellant's practice to obtain financing to purchase several lots in a subdivision and then build a model home for prospective purchasers to view. It did not build on speculation but only when it received an agreement to purchase a home.
+[3] In 2006, the taxpayer's shares were owned by Mr. and Mrs. DeMarco, each as to 50%. Mr. DeMarco, who studied to be a draftman at Ryerson, supervised construction and dealt with customers and lawyers. Both he and Mrs. DeMarco negotiated contracts with suppliers. Mr. DeMarco died in April 2011. Mrs. DeMarco scheduled the trades and attended at the office. She had worked for a management team at Bell Canada for 17 years. Her position at Bell Canada did not entail bookkeeping.
+[4] In 2005 business was slow. The DeMarcos were having difficulty maintaining the home in which they resided and a model home owned by the taxpayer. In early 2006, the DeMarcos chose to sell their home and move with their children into the model home which had been vacant since completion in 2004. The model home, said Mrs. DeMarco, was for sale during the time the family lived in it.
+[5] Apparently unknown to both Mr. and Mrs. DeMarco, once the family moved into the model home the status of model home would be changed from investment to rental property. The move, for purposes of the Act, resulted in a self‑supply and GST became exigible.
+[6] Ms. Sherry Aul, a GST auditor with the Canada Revenue Agency ("CRA") testified on behalf of the Crown. The Crown has the onus of proving that the omission of the self‑supply in the GST return was due to the appellant's "neglect" or "carelessness". There was no allegation that the omission was due to "wilful default" or that the appellant committed fraud in the making or filing of the return.
+[7] In 2010 Ms. Aul was assigned the appellant's GST file for audit of the period in issue. The sale of the model home by the appellant to a Mr. and Mrs. Meloche had come to CRA's attention. An Agreement of Purchase and Sale was signed on November 12, 2009. The Agreement provided for payment of GST of $15,988.37. However, a new Agreement between the same parties was signed on November 28, 2009 omitting any reference to a GST payment.
+[8] In filing the corporation's GST return on April 20, 2006 for the period ending on March 31, 2006, Mrs. DeMarco included all sales by the corporation for the period except for the model home. In reviewing the GST rturn filed by the appellant Ms. Aul discovered that the change of use of the model home was not reflected in the company's financial statements. Mr. Peter Benson, chartered accountant, who prepared "note to reader" financial statements for the appellant confirmed that the model home remained on inventory during the time the DeMarcos resided in the model home.
+[9] In the course of the audit Ms. Aul interviewed Mr. and Mrs. DeMarco as well as the appellant's accountant, Mr. Benson. After Mr. DeMarco died she continued to discuss the audit with Mrs. DeMarco and Mr. Benson and a member of Mr. Benson's firm, Crista Wilkem. Ms. Aul confirmed that the DeMarcos resided at the model home from March 1, 2006 to May 2009.
+[10] In a reply to Ms. Aul's request for information, Mr. Benson, by letter dated October 11, 2011, informed Ms. Aul that the appellant used the accounting and bookkeeping services of Dorian Drakos and it was Ms. Drakos who prepared "all the GST returns during [the] period and the taxpayer had no reason to believe that they were not being prepared accurately and correctly." He further stated that "the taxpayer was unaware that any omission had occurred and was reasonably relying upon the experience of the bookkeeping accountant, Dorian Drakos."
+[11] Ms. Dorian Drakos has been a bookkeeper for 27 years. She "probably" started working for the appellant in late 1990s until May 2005 "when they stopped calling me." She stated that it was "uncomfortable" working with the appellant and "did not seek to return." She complained files had missing notes and papers. The appellant owed a "lot of money" and "[Mrs. DeMarco] was very angry." Ms. Drakos' work was mainly to balance bank records and she "never offered advice" on the treatment of the model homes. She did not work for the appellant in 2006.
+[12] In fact, the appellant's GST return for the period in issue was prepared by Ms. Nancy Drew, a self‑employed bookkeeper. Ms. Drew provided service to the appellant after Ms. Drakos' departure in 2005. Ms. Drew was an experienced bookkeeper with a myriad of clients but only one client, the appellant, in the construction business. Ms. Drew insisted she "did not do taxes". She would attend monthly at the appellant's office which was located in a room in the DeMarcos' residence at any time, including the model home.
+[13] Mrs. De Marco described her work in preparing the GST returns: she would input all invoices for GST on the software program "Simply Accounting" and make adjustments. This would be done the first week following the reporting period. All the information for reporting GST would have been in a folder. Ms. Drew would "pull the data" for accounting and prepare the GST return. Mrs. DeMarco would review Ms. Drew's work only if Ms. Drew had a question and would refer her to their lawyer or accountant. "Simply Accounting" provided the information for the GST return.
+[14] The appellant used a software program, "Simply Accounting" to prepare its accounts. Mrs. DeMarco would have made the original entries. Before preparing the GST return, Ms. Drew said she would "print off all items during the period" from the program. She would confirm opening balances and check for any "glaring entries". She would verify balances and look for any "upcoming events". She would ask questions. Ms. Drew said she presented her work to Mrs. DeMarco in an organized way. She acknowledged that if anything was missing from the ledger, she would not know.
+[15] Ms. Drew could not recall when she was ever aware if the DeMarco family lived in what was a model home until "some point" after the move. She had visited the DeMarcos' previous residence.
+[16] Finally Ms. Drew agreed that she was not qualified to give tax advice and did not offer such service.
+[17] Mr. Benson said that he had informed the DeMarcos that there was a change of use of the model home when they began using it as a personal residence and that they should pay rent to the corporation to avoid being assessed a taxable benefit for purposes of the Income Tax Act. The date Mr. Benson gave this advice is not in evidence. He did not inform Mr. or Mrs. DeMarco, nor did either of them query him, of any GST consequences as a result of the change in use.
+[18] Ms. Aul found that although the DeMarcos reported rent on their personal tax returns, rent was not included in the corporation's income statements. It appears, Ms. Aul stated, that the rental was reported as employment income to the DeMarcos or as a taxable benefit on the basis of a rent of $250 per month to each of Mr. and Mrs. DeMarco, that is, $500, in 2006. No "T4" statement was attached to either income tax return.
+[19] In the 2007 income tax returns, no benefit was reported. In 2008 a benefit of $3,000 was included in each of Mr. and Mrs. DeMarco's tax return, and in 2009 a "T4" statement reflecting a benefit was included with each of their tax returns.
+[20] The CRA publishes guides to assist taxpayers to understand the GST regime. Ms. Aul referred to the reverse side of a GST return which refers the taxpayer to the guide called "General Information for GST/HST Registrants" published in 2005 and a guide entitled "GST/HST for the Construction Industry", also published in 2005. She pointed to the self‑supply rules described on page 9 of the latter guide. The former guide refers persons in building real property to the latter guide.
+[21] In cross‑examination of Ms. Aul, appellant's counsel referred her to the GST return for the period in issue. Counsel asked Ms. Aul where the amount of the self‑supply should be placed on the return, at Line 101, total sales and other revenue, or at Line 105, total amount of other GST/HST to be self‑assessed. Counsel pointed out that the form did not have a line specifically for "self‑supplies" and noted that a change of use sale is not the same as a regular sale. Counsel intimated that the GST return is not as detailed as a personal income tax return which refers to specific types of income.
+[22] Mrs. DeMarco says she is now aware that GST ought to have been paid by the corporation when she and her family moved into the model home. But she claims she and her husband were unaware that the move triggered any GST consequence. She also says she was not neglectful or careless in signing the return on behalf of the corporation and omitting the value of the home from the return.
+[23] One of Mrs. DeMarco's duties was to make the necessary entries in the appellant's journal. She did not make any entry for payments of rent for the model home during the reporting period. She agreed that if rent was not entered, the bookkeeper had no way of knowing that rent was paid.
+[24] Mrs. DeMarco was queried on the sale of the model home to Mr. and Mrs. Meloche and why no GST was paid. Mrs. De Marco stated Mr. DeMarco, Mr. Benson or the lawyer would have made a decision not to charge GST. Ms. Aul produced the solicitor's reporting letter dated January 11, 2010 on the sale to the Meloches and related documents that were sent to Ms. Aul by facsimile by Mr. Benson on or about February 1, 2011. In his reporting letter, Mr. Perry Ambrogio, the appellant's solicitor, refers to the first agreement to be "inclusive of net GST" but after discussion with the appellant's accountant it was determined no GST ought to be payable by the purchaser "since GST would have been payable by the company once you began to use the dwelling as your family residence". On the facsimile cover page Mr. Ambrogio states that he "was under the impression that either the company had already remitted the GST or you would be making arrangements to remit the GST which ought to have been paid when you began to live in the house".
+[25] Mrs. DeMarco's evidence is that she did not ask Mr. Benson for guidance with respect to GST returns nor did she make any inquiries to the CRA or refer to any of its publications. She relied on the bookkeeper. Mrs. DeMarco simply signed the return with amounts recorded by Ms. Drew without any review. She relied on Ms. Drew to ask questions if anything was missing. She believed all was in order. (It was not suggested that Mr. DeMarco may have been aware of the appellant's GST liability.)
+[26] Mr. Benson testified that it was only in 2009, when the model home was sold, that he discussed the GST problem with Mr. DeMarco. He believed that the appellant's lawyer had first raised the issue at time of the Meloche sale with Mr. DeMarco. He said he "assumed" GST had been paid.
+[27] Paragraph 298(4)(a) of the Act reads as follows:
+An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+Une cotisation peut être établie à tout moment si la personne visée a :
+(a) made a misrepresentation that is attributable to the person’s neglect carelessness or wilful default;
+a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+[28] The bulk of reported cases concerning reassessments made after the normal assessing period are with respect to subparagaph 152(4)(a)(i) of the Income Tax Act. Subparagraph 152(4)(a)(i) and paragraph 298(4)(a) are similar but are not mirror images. Subparagraph 152(4)(a)(i) permits an assessment of income tax beyond the normal reassessment period in respect of the year:
+… only if
+… que dans les cas suivants :
+(a) the taxpayer or person filing the return
+a) le contribuable ou la personne produisant la déclaration :
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[29] Paragraph 298(4)(a) refers to a misrepresentation in respect of a matter that is the subject of an assessment, not specifically to a misrepresentation in filing a return. In the appeal at bar, the "matter" is the misrepresentation by omission of an amount in a GST return and that is the subject of the assessment. The case law in respect of subparagraph 152(4)(a)(i) and as it read in earlier years is authority for interpreting paragraph 298(4)(a) of the Act.[2]
+[30] Misrepresentation for purposes of paragraph 298(4)(a) takes place when the return is made and the misrepresentation is based on neglect, carelessness or wilful default at that time. And the misrepresentation cannot be erased or otherwise affected due to any subsequent action or inaction by the taxpayer who made the misrepresentation. Thus the fact that Mr. DeMarco may have become aware only in 2009 that GST was payable when the family moved into the model home or that Mrs. DeMarco may have learned of the appellant's GST liability as late as February 2011 is of no consequence. The question is what did she know or should have known as a reasonable person at the time she made and filed the return.
+[31] In Nesbitt v. The Queen,[3] the Federal Court of Appeal dismissed an appeal where the appellant's income tax return contained an arithmetic error even though the error was evident on working pages attached to the return. Strayer J.A. held that:
+… one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is a misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. …
+[32] Similarly in College Park Motors Ltd. v. The Queen,[4] Bowie J. held that even though the taxpayer disclosed his error to the fisc, the misrepresentation made in the return did not vanish. The taxpayer's misrepresentation was attributable to the neglect of the taxpayer at time of filing notwithstanding efforts to remedy his error.[5]
+[33] Mrs. DeMarco's position is that Ms. Drew prepared the GST return. Mrs. DeMarco had no knowledge that the appellant made a self‑supply. Ms. DeMarco simply signed the return without reviewing it and without asking Ms. Drew any questions. Ms. Drew described herself as a bookkeeper who is not qualified to give tax advice and did not give tax advice. Mrs. DeMarco testified that if Ms. Drew had any questions in preparing the appellant's books, she would refer Ms. Drew to the appellant's accountant or lawyer. Ms. Drew prepared the appellant's accounts with the help of "Simply Accounting". However, all initial entries were made by Mrs. DeMarco; Ms. Drew relied on these entries.
+[34] A leading case concerning the standard of care required of a taxpayer, once the Minister's burden is satisfied to establish that a misrepresentation on an income tax return was not made through neglect or carelessness, is Venne v. The Queen.[6] Strayer J., as he then was, explained at paragraph 16:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under subparagraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words "misrepresentation that is attributable to neglect" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort. …
+[35] The facts before me are not wholly similar to any of those in the reported cases referred to me by appellant's counsel. In Aridi v. The Queen,[7] the taxpayer followed the advice of his accountant after a thorough discussion before deciding to defer reporting the disposition of half of a property until the other half was disposed of. The taxpayer was successful.
+[36] In College Park,[8] the taxpayer was unsuccessful in its appeal because the person who signed the tax returns, as prepared by the appellant's accountant, failed to review "the draft returns as carefully as a wise and prudent taxpayer would". Had he done so he would have read questions on the return relating to a particular tax (Part 1.3 tax) and would have queried the accountant what that tax was and would have discovered that the accountant also did not know what the tax was and inquiries could have been made.
+[37] And in Fukushima v. The Queen,[9] accountants, who knew what they ought to have included in income, failed to include in income amounts of work in progress deducted in the previous year under section 34 of the Income Tax Act. The taxpayer and his partner did not exercise reasonable care in completing and filing their respective tax returns which contained a misrepresentation.
+[38] The Federal Court held that in confused circumstances the error committed by the taxpayer was one which a normally wise and cautious taxpayer could have committed and did not involve negligence: Minister of Revenue v. Bisson.[10]
+[39] Mrs. DeMarco was not a former CRA employee knowledgeable about GST as was the principal of Construction Daniel Provencher Inc.[11] nor was she a professional accountant herself. A GST return does not ask many questions as does an income tax return and her counsel submitted that it is questionable whether a review of the GST return by Mrs. DeMarco would have raised any questions. This is not a reason for not taking proper precautions to at least attempt to ensure the proper making of the return.
+[40] On the other hand, Mrs. DeMarco did not use the services of a person familiar, if not professionally qualified, with tax in general or GST in particular. The appellant had engaged the services of a chartered accountant but she did not even touch base with him. Nor did she consult with CRA or any of its publications. It was she who made the initial entries into the software and journal from which the bookkeeper extrapolated the information to prepare accounts and the GST return. It was when the original entries were being made that the misrepresentation was conceived. She simply made the entries and signed the GST return without review.
+[41] Unlike the taxpayer in Bondfield Construction Co. (1983) Ltd. v. The Queen,[12] the appellant, who relied wholly on its accountants, both internal and external, did not engage "every possible internal and external control to ensure compliance …" Indeed, she engaged in none. The fact that the move by the family into the model home was a transaction the DeMarcos and the appellant had never experienced before in the over the 20 years existence of the company, or at least since the start of the GST, did not disturb her sufficiently to ask questions.
+[42] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of March 2014.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2014 TCC 93
+COURT FILE NO.: 2013-2695(GST)I
+STYLE OF CAUSE: 832866 ONTARIO INC
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: February 26, 2014
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: March 26, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Linda Smits
+Counsel for the Respondent:
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Keith M. Trussler
+Firm: McKenzie Lake Lawyers LLP
+London, Ontario
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In these reasons, for simplicity, reference is to the Goods and Services Tax (GST) rather than the Harmonized Sales Tax (HST) notwithstanding both taxes are in issue. The heading of the return is "Goods and Services Tax/Harmonized Sales Tax (GST/HST) Return for Registrants". The notice of assessment itself was not produced.
+[2] It is in paragraph 298(4)(b) that there is a connection between the commission of fraud and the making or filing of a return and fraud is not alleged in this appeal.
+[3] 96 DTC 6588; 1996 CarswellNat 1916, par. 8. The period within which the Minister could reassess an income tax return in 1981 was four years from the date of assessment, but:
+Subject to subsection (5), the Minister may at any time assess tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, and may
+(a) at any time, if the taxpayer or person filing the return
+(i)has made any misrepresentation that is attributable to neglect, carelessness or willful default or has committed any fraud in filing the return or in supplying any information under this Act, or …
+[4] 2009 DTC 1469, 2009 CarswellNat 2405. Taxation years in issue were 1999 and 2000.
+[5] Earlier in Regina Shoppers Mall Ltd. v. The Queen, 91 DTC 5101, the Federal Court of Appeal held that subparagraph 152(4)(a)(i) is of no assistance to the Minister in reassessing the taxpayer in circumstances where the facts giving rise to the reassessment were not only known to the Minister but central to an ongoing dispute between them in respect of assessments for earlier years.
+[6] 84 DTC 6247 (F.C.T.D.), 1984 CarswellNat 210.
+[7] 2013 TCC 74, 2013 DTC 1123 (Fr.); 2013 DTC 1189 (Eng.), per Hogan J.
+[8] Op cit.
+[9] 99 DTC 553, 1999 CarswellNat 190, per Sarchuk J.
+[10] 72 DTC 6224, 1972 CarswellNat 148, per Pratte J.
+[11] Construction Daniel Provencher Inc. v. The Queen, 2007 CCI 147 (Fr.); 2007 TCC 147 (Eng.), 2007 CarswellNat5271.
+[12] 2005 TCC 78, [2005] G.S.T.C. 110, 2005 CarswellNat 1444, par. 113 per Campbell J.

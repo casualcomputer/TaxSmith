@@ -1,0 +1,253 @@
+---
+title: "Watts c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25977/index.do"
+last_modified: "2004-08-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 535"
+citation2: ""
+neutral_citation: "2004 CCI 535"
+decision_date: "2004-08-19"
+language: "fr"
+item_id: "25977"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3775
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:08:19.291000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "200ee85d9ca497b405a9813bfc913f3b0ce156279a51cfdbb00986ac1bbe9600"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Watts c. La Reine
+
+- Citation: 2004 CCI 535
+- Decision date: 2004-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3775, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Watts c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-19
+Référence neutre
+2004 CCI 535
+Numéro de dossier
+1999-3504(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 1999-3504(IT)I
+1999-4799(IT)I
+ENTRE :
+JONATHAN R. WATTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 16 juin 2004, à Kingston, en Ontario.
+Devant : L’honorable D.G.H. Bowman, juge en chef adjoint
+Comparutions :
+Avocat de l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Jennifer Neill
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que les appels relatifs aux cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 1992, 1993 et 1994 soient accueillies et que les cotisations fassent l’objet d’un renvoi au ministre du Revenu national pour réexamen et pour établissement d’une nouvelle cotisation conformément aux motifs du jugement.
+L’appelant a droit aux dépens de l’appel conformément au tarif.
+Signé à Ottawa, Canada, le 19 août 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 20e jour de juillet 2005.
+Caroline Tardif, traductrice
+Référence : 2004CCI535
+Date : 20040819
+Dossiers : 1999-3504(IT)I
+1999-4799(IT)I
+ENTRE :
+JONATHAN WATTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowman
+[1] Les présents appels portent sur des cotisations faites par l’appelant pour les années d’imposition 1992, 1993 et 1994. Les faits ne sont pas contestés et la question en litige est circonscrite et d’ordre plutôt technique.
+[2] L’appelant occupait un emploi à la Chambre des communes. Il souffre d’un problème cardiaque et de diabète. Il a été hospitalisé en 1988. Il a demandé et obtenu des prestations du régime d’invalidité de longue durée de la Chambre des communes (Régime d’assurance pour les cadres de gestion de la fonction publique, ou RACGFP). Ce régime est financé par l’employeur et l’employé. L’émetteur est la Nationale du Canada, Compagnie d’assurance-vie (La Nationale vie).
+[3] En plus des prestations reçues au titre du RACGFP, l’appelant a demandé et obtenu des prestations d’invalidité du Régime de pensions du Canada. Les prestations du RPC ont réduit le montant des prestations qu’il était en droit de recevoir sous le régime du RACGFP.
+[4] L’appelant a quitté le Canada en 1989 pour des motifs liés à la qualité des soins de santé au Canada et à la possibilité de recevoir une greffe du cœur aux États-Unis. On ne lui donnait que cinq ans à vivre mais ce diagnostic était manifestement erroné. Il est toujours non-résident du Canada.
+[5] En 1993, la Nationale vie, se fondant sur un rapport rédigé par un professionnel de la santé qui n’avait jamais vu l’appelant et qui a seulement examiné son dossier, a cessé de verser les prestations prévues au RACGFP. Il a intenté une poursuite et a finalement bénéficié du rétablissement de ses prestations.
+[6] Après avoir conclu un règlement avec la Nationale vie, l’Agence des douanes et du revenu du Canada a écrit à l’appelant pour lui demander de produire ses déclarations de revenus pour les années 1991, 1992, 1993, 1994 et 1995.
+[7] L’appelant a produit ses déclarations de revenus pour les années 1992, 1993 et 1994. Des cotisations ont été établies.
+[8] Dans le calcul de son revenu pour ces années, l’appelant a déclaré avoir reçu des prestations du régime d’assurance-salaire, prévues aux termes du RACGFP, d’un montant de 29 870 $, de 30 542 $ et de 23 307 $ respectivement, ainsi que des montants de 6 943 $, de 7 068 $ et de 7 202 $ du RPC.
+[9] Il a également demandé, pour chacune de ces années, les montants de crédits d’impôt non remboursables suivants : montant personnel de base : 6 456 $; montant pour conjoint : 5 380 $; montant pour revenu de pension : 1 000 $; montant pour invalidité : 4 233 $. Il a aussi demandé des montants de crédits d’impôt non remboursables pour frais médicaux de l’ordre de 16 048 $ et de 18 123 $ respectivement. De plus, il a réclamé un montant de 5 900 $ à titre de dons de bienfaisance en 1992.
+[10] Le 9 octobre 1997, lorsqu’il a procédé à l’établissement de la cotisation pour les années 1992, 1993 et 1994, le ministre du Revenu national a soustrait du revenu les montants des paiements des prestations d’invalidité dans le cadre du RPC et a rejeté tous les crédits d’impôt non remboursables demandés sauf le montant pour invalidité. Il a établi que les cotisations pour ces années étaient de 6 859,68 $, de 7 064,75 $ et de 5 025,99 $.
+[11] Le 10 novembre 1997, le ministre a établi une nouvelle cotisation et a appliqué l’article XVIII de la Convention en matière d’impôt sur le revenu Canada-États-Unis (1980), ce qui avait ainsi pour effet de limiter l’impôt pour ces années à 15 % des prestations sous le régime d’assurance-salaire, soit des montants de 4 480,50 $, de 4 581,30 $ et de 3 496,05 $.
+[12] Dans ses observations écrites, l’avocate de l’intimée expose que la question en litige est de savoir si les paiements effectués au titre du RPC sont visés par l’alinéa 6(1)f) de la Loi de l’impôt sur le revenu et donc considérés comme un revenu afférent à une charge ou à un emploi. Je conviens que c’est la principale question en litige. Cependant, une question accessoire se pose quant à savoir si « la totalité ou une partie importante de son revenu sont à inclure dans le calcul de son revenu imposable au Canada » même si les paiements du RPC ne sont pas considérés comme un revenu afférent à une charge ou à un emploi.
+[13] La seconde question ne sera soulevée que si je tranche la première question en faveur de l’intimée. Une telle décision exigerait que les paiements du RC ne soient pas considérés comme un revenu afférent à une charge ou à un emploi.
+[14] En qualité de non-résident, l’appelant doit payer, en vertu de la partie I de la Loi de l’impôt sur le revenu, un impôt sur son revenu gagné au Canada. Le paragraphe 2(3) précise ce qui suit :
+Un impôt sur le revenu doit être payé, ainsi qu’il est prévu par la présente loi, sur son revenu imposable gagné au Canada pour l’année, déterminé conformément à la Section D, par la personne non imposable en vertu du paragraphe (1) pour une année d’imposition et qui, à un moment donné de l’année ou d’une année antérieure, a :
+a) soit été employée au Canada;
+b) soit exploité une entreprise au Canada;
+c) soit disposé d’un bien canadien imposable.
+Le sous-alinéa 115(1)a)(i) prévoit ce qui suit :
+Pour l'application de la présente loi, le revenu imposable gagné au Canada pour une année d'imposition d'une personne qui ne réside au Canada à aucun moment de l'année correspond à l'excédent éventuel du montant qui représenterait son revenu pour l'année selon l'article 3 :
+a) si elle n'avait pas de revenu autre :
+(i) que les revenus tirés des fonctions de charges et d'emplois exercées par elle au Canada,
+L’alinéa 6(1)f) est ainsi libellé :
+Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+. . . . .
+f) le total des sommes qu'il a reçues au cours de l'année, à titre d'indemnité payable périodiquement pour la perte totale ou partielle du revenu afférent à une charge ou à un emploi, en vertu de l'un des régimes suivants dans le cadre duquel son employeur a contribué :
+(i) un régime d'assurance contre la maladie ou les accidents;
+(ii) un régime d'assurance invalidité,
+(iii) un régime d'assurance de sécurité du revenu,
+le total ne peut toutefois dépasser l'excédent éventuel du total visé au sous-alinéa (iv) sur le total visé au sous-alinéa (v) :
+(iv) le total des sommes qu'il a ainsi reçues avant la fin de l'année et :
+(A) lorsqu'une de ces sommes a été, en vertu du présent alinéa, incluse dans le calcul de son revenu pour une année d'imposition antérieure se terminant après 1971, après cette année,
+(B) sinon, après 1971,
+(v) le total des cotisations verses par le contribuable dans le cadre du régime avant la fin de l’année et :
+(A) lorsqu’une de ces sommes a été, en vertu du présent alinéa, incluse dans le calcul de son revenu pour une année d’imposition antérieure se terminant après 1971, après cette année,
+(B) sinon, après 1967;
+[15] L’intimée soutient que les sommes versées par la Nationale vie, en vertu du régime d’assurance-salaire, sont clairement visées par l’alinéa 6(1)f) puisqu’elles sont payées en application d’un régime d’assurance invalidité auquel l’employeur de l’appelant a contribué. Par contre, l’intimée prétend que les paiements dans le cadre du RPC ne sont pas visés par l’alinéa 6(1)f) puisque le RC n’est aucunement un régime d’assurance mais plutôt un régime de pension. Elle allègue que les paiements du RPC s’apparentent davantage à des prestations de sécurité sociale, et elle s’appuie sur des observations formulées dans l’affaire Hausmann Estate c. Canada, [1998] 4 C.T.C. 2232.
+[16] L’avocate étaye son argument en faisant référence à l’alinéa 56(1)a) qui ce lit en partie comme suit :
+56. (1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+(i) d'une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède :
+(A) une pension, un supplément et une allocation à l'époux ou conjoint de fait, servis en vertu de la Loi sur la sécurité de la vieillesse, et un paiement semblable fait en vertu d'une loi provinciale,
+(B) une prestation prévue par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l'article 3 de cette loi,
+Elle soutient que les dispositions spécifiques de l’alinéa 56(1)a) l’emportent sur les dispositions plus générales de l’alinéa 6(1)f).
+[17] Indépendamment des arguments écrits extrêmement étoffés et convaincants présentés par M. Watts sur cette question, je suis d’accord avec l’avocate de l’intimée. Cependant, il est vrai que, lorsque le bénéficiaire de prestations du RCP est un employé, ce dernier et son employeur doivent payer des cotisations. Toutefois, je n’aurais pas cru que l’on puisse considérer le régime de sécurité sociale, dont le RPC fait intégralement partie au Canada, comme un régime d’assurance. Le terme « assurance » a été défini de différentes façons, mais je ne connais aucune définition qui engloberait un régime de pension géré par le gouvernement. Comme le juge Stone l’a fait observer dans l’affaire Consolidated‑Bathurst Ltd. c. La Reine, [1987] 1 C.T.C. 55, à la page 63 :
+[. . .] l'assurance comporte le transfert et la répartition de risques.
+Dans l’affaire Re Bendix Automotive Ltd. and U.A.W., Local 195, [1971] 3 O.R. 263, le juge Pennell a fait référence à quelques définitions du terme « assurance ». Il indique aux pages 268 et 269 :
+[TRADUCTION] On trouve dans les manuels et la jurisprudence beaucoup d’autres définitions du terme « assurance », lesquelles sont, pour l’essentiel, semblables à celle qui figure dans la Loi sur les assurances. Il serait peut-être utile à ce stade de donner un certain nombre de ces définitions pour faire ressortir leur similarité.
+Dans l’affaire Prudential Insurance Co. c. Commissioners of Inland Revenue, [1904] 2 K.B. 658, le juge Channell, à la p. 663, a défini le contrat d’assurance de la façon suivante :
+[TRADUCTION] Il doit s’agir d’un contrat en vertu duquel, moyennant un certain paiement, généralement mais non nécessairement des paiements périodiques appelés primes, vous vous assurez un bénéfice, généralement mais non nécessairement, le paiement d’une somme d’argent, dès la réalisation d’un événement donné. Il faut également que cet événement comporte un certain degré d’incertitude. La réalisation de l’événement doit être incertaine ou, si l’événement doit se réaliser à un moment donné, ce moment doit être incertain. Le dernier élément essentiel est celui auquel a fait référence le procureur général lorsqu’il a indiqué que l’assurance doit être contractée en échange de la prise en charge d’un risque. Un contrat qui autrement constituerait un simple pari peut se transformer en une assurance si l’assuré porte un intérêt dans l’événement visé— c’est-à-dire que l’événement incertain nécessaire pour que le contrat devienne une assurance doit, à première vue, être contraire à l’intérêt de l’assuré.
+Je souligne en passant que le dernier élément essentiel a été modifié par la Cour d’appel dans l’affaire Gould c. Curtis, [1913] 3 K.B. 84, par Cozens‑Hardy, M.R., à la page 92.
+Jenks, A Digest of English Civil Law, 3e éd. (1938), à la p. 285, définit le terme assurance de la façon suivante :
+705. [TRADUCTION] Contrat par lequel une partie (« l’assureur ») s’engage à l’égard d’une autre (« l’assuré »), moyennant un paiement ou une série de paiements (« primes »), à payer à celle-ci, à son représentant ou à toute personne désignée une somme ou des sommes d’argent dans le cas d’un décès ou de la réalisation d’un événement incertain à la suite duquel il est prévu qu’une perte ou des dépenses seront encourues par l’assuré ou la personne désignée (« intérêt » ou « intérêt assurable ») ou pourraient l’être.
+Une autre définition établit par les tribunaux figure dans la décision du juge Lawrence, dans l’affaire Lucena c. Craufurd (1806), 2 Bos. & Pul. (N.R.) 269 à la page 301, 127 E.R. 630 :
+. . . [TRADUCTION] Le terme « assurance » se définit comme un contrat par lequel une partie, moyennant une contrepartie qui lui est accordée en fonction du risque encouru, s’engage à indemniser l’autre partie de toute perte, dommage ou préjudice subi à la suite de la réalisation d’un sinistre auquel celle-ci pourrait être exposé.
+L’avocat du demandeur s’est également fondée sur l’affaire Livingstone c. Western Assurance Co. (1868), 14 Gr. 461, par Spragge, V.‑C., à la page 463; infirmée par 16 Gr. 9, mais sans toucher le passage cité, et l’affaire Mitchell c. City of Toronto (1921), 50 O.L.R. 585 à la page 592, 64 D.L.R. 569 aux pages 574 et 575, par le juge d’appel Hodgins, dissident. Il ne serait pas utile de citer les définitions figurant dans ces affaires car, pour l’essentiel, elles sont semblables à celles déjà citées.
+Les éléments fondamentaux communs à toutes ces définitions sont les suivants :
+i) engagement d’une personne;
+ii) d’indemniser une autre personne;
+iii) moyennant une contrepartie convenue;
+iv) par suite d’une perte subie ou d’une obligation contractée à l’égard d’un événement;
+v) dont l’éventualité est incertaine.
+[18] Une assurance se définit essentiellement comme une entente contractuelle conclue entre un assuré et un assureur qui comprend l’obligation pour ce dernier de payer, moyennant le paiement de primes, une prestation en cas de la réalisation d’un événement dont l’éventualité est incertaine. Le régime prévu par la loi, administré par le RPC, ne contient aucun de ces éléments. Les paiements effectués en vertu de ce régime ne constituent donc pas un revenu afférent à une charge ou à un emploi comme l’indique l’alinéa 6(1)f) de la Loi de l’impôt sur le revenu. Au contraire, ces paiements sont imposables en tant que revenu par l’application de l’alinéa 56(1)a).
+[19] Le droit du Canada de rendre imposable ces deux types de paiements est circonscrit par l’article XVIII de la Convention en matière d’impôt sur le revenu Canada-États-Unis (1980) qui prévoit notamment ce qui suit :
+1. Les pensions et les rentes provenant d'un État contractant et payées à un résident de l'autre État contractant sont imposables dans cet autre État, mais le montant d'une pension qui est inclus dans le revenu aux fins d'imposition dans cet autre État n'excède pas le montant qui serait inclus dans le premier État si le bénéficiaire était un résident de ce premier État.
+2. Toutefois :
+a) Les pensions sont aussi imposables dans l'État contractant d'où elles proviennent et selon la législation de cet état, mais si un résident de l'autre État contractant est le bénéficiaire effectif d'un paiement périodique de pension, l'impôt ainsi établi ne peut excéder 15 p. 100 du montant brut de ce paiement; et
+b) Les rentes sont aussi imposables dans l'État contractant d'où elles proviennent et selon la législation de cet État, mais si un résident de l'autre État contractant est le bénéficiaire effectif d'un paiement de rente, l'impôt ainsi établi ne peut excéder 15 p. 100 de la fraction de ce paiement qui est assujetti à l'impôt dans le premier État.
+3. Au sens de la présente Convention, le terme « pensions » comprend tout paiement en vertu d'un régime de pensions de retraite ou d'autres pensions, une solde à la retraite des Forces armées, les pensions et allocations d'ancien combattant et les montants payés en vertu d'un régime d'assurance contre la maladie, les accidents ou l'invalidité, mais ne comprend ni les paiements en vertu d'un contrat de rente à versements invariables ni les prestations visées au paragraphe 5.
+4. Au sens de la Convention, le terme « rentes » désigne une somme déterminée payée périodiquement à échéances fixes, à titre viager ou pendant un nombre d'années déterminé, en vertu d'un engagement d'effectuer les paiements en échange d'une contrepartie pleine et suffisante (autre que pour des services rendus), mais ne comprend pas un paiement qui n'est ni un paiement périodique ni une rente dont le coût était déductible aux fins d'imposition de l'État contractant où elle a été acquise.
+5. Les prestations payées en vertu de la législation sur la sécurité sociale dans un État contractant à un résident de l'autre État contractant ou à un citoyen des États-Unis ne sont imposables que de la façon suivante :
+a) ces prestations ne sont imposables que dans cet autre État;
+b) nonobstant les dispositions de l'alinéa a), la moitié du montant total d'une telle prestation payée au cours d'une aimée d'imposition est exonérée d'impôt dans cet autre État.
+[20] Je n’ai pas repris les explications techniques de chacune de ces dispositions. Je conclus que les paiements du régime d’assurance-salaire effectués par la Nationale vie sont visés par l’alinéa 6(1)f) de la Loi de l’impôt sur le revenu. De plus, ils satisfont à la définition du terme « pension » figurant au paragraphe 3 de l’article XVIII de la Convention en matière d’impôt sur le revenu Canada-États-Unis (1980), et le Canada peut les rendre imposables. En vertu du paragraphe de l’article XVIII, le Canada a droit d’assujettir le paiement à un impôt n’excédant pas 15 %.
+[21] En ce qui concerne les paiements du RPC, ils sont imposables, par l’application du paragraphe 5 de l’article XVIII, uniquement aux États-Unis puisqu’ils constituent, à mon avis, des prestations versées en application de la législation de sécurité sociale du Canada.
+[22] Je conclus donc que les paiements du régime d’assurance-salaire constituent un revenu afférent à une charge ou à un emploi et qu’ils sont imposables au Canada à un taux de 15 %. Les paiements du PC reçus par l’appelant, un non‑résident, ne sont pas imposables au Canada.
+[23] L’article 118.94 de la Loi de l’impôt sur le revenu se lit comme suit :
+Les articles 118 et 118.2, les paragraphes 118.3(2) et (3) et les articles 118.6, 118.8 et 118.9 ne s'appliquent pas au calcul de l'impôt payable en vertu de la présente partie pour une année d'imposition par un particulier qui ne réside au Canada à aucun moment de l'année, sauf si la totalité, ou presque, du revenu du particulier pour l'année est incluse dans le calcul de son revenu imposable gagné au Canada pour l'année.
+Il reste à établir si la totalité, ou presque, du revenu de l’appelant est incluse dans le calcul de son revenu imposable gagné au Canada. L’avocate de l’intimée soutient que, pour les années 1993 et 1994, dans le cas où les paiements du RPC sont exclus du revenu de l’appelant, la réponse à cette question est négative.
+[24] Voici les revenus de l’appelant tirés des deux sources, suivant les déclarations de revenu qu’il a produites :
+Année 1992 1993 1994
+a) Prestations d’assurance-salaire 29,870 $ 30,542$ 23,307$
+b) RPC 6,943 $ 7,068$ 7,202$
+c) Total 36,813 $ 37,610 $ 30,509$
+d) Pourcentage de a) par rapport à c) 81,139 % 81,207 % 76,309 %
+[25] Cependant, dans les pièces jointes à sa déclaration de revenu, il a indiqué que ses revenus de toutes provenances différaient légèrement pour les années 1992, 1993 et 1994, soit 34 309 $, 39 624 $ et 31 157 $, respectivement. Si j’avais accepté ses chiffres, les pourcentages seraient 87 %, 77 % et 74,8 %. L’intimée a accepté l’argument de l’appelant pour l’année 1992 en ce qui concerne les frais médicaux mais non en ce qui concerne le montant de la pension (en raison de son âge). Est-ce que les écarts entre les pourcentages justifient un traitement différent pour les années 1993 et 1994? Je devais me fonder sur l’hypothèse voulant que les bons pourcentages soient 81,139 %, 81,207 % et 76,309 %. Ces chiffres découlent d’une comparaison entre les prestations d’assurance-salaire et le total de ces prestations et les paiements du RPC. Il n’y a simplement aucune preuve de revenu supplémentaire (ou de sa nature) en 1993 et 1994 ou de perte pour l’année 1992 découlant d’autres sources. On a fait valoir aucune hypothèse relativement à un revenu ou une perte de revenu découlant d’autres sources.
+[26] Il existe un grand nombre d’écrits sur l’expression plutôt imprécise « la totalité ou presque ». La règle non officielle du ministère est qu’il s’agit d’un pourcentage de 90 %, cependant le sens de cette expression ne devrait pas être déterminé sur le fondement d’un pourcentage arbitraire.
+[27] Dans l’affaire Pronovost c. La Reine, 2003 TCC 139, on a fait observer que :
+[19] Dans les décisions Ruhl (W.) c. Canada, C.C.I. no 96-3597(GST)I, le 25 novembre 1997([1998] G.S.T.C. 4), et Lim c. Canada, C.C.I. no 1999-3180(GST)I, le 4 janvier 2000 ([2000] G.S.T.C. 1), la Cour s'est penchée sur la signification des termes « la totalité, ou presque » et « en grande partie ». Dans l'arrêt Ruhl, la Cour a fait remarquer que ces termes étaient élastiques et « qu'ils ne rendaient pas très bien l'idée d'une proportion du total susceptible d'être déterminée. Il n'est pas nécessaire de leur accoler un pourcentage ou un chiffre absolus. »
+[20] La règle des 90 p. 100 utilisée par l'ADRC n'a aucun fondement législatif, bien qu'il se peut qu'un certain critère rigide doive être appliqué par l'administration. Cela ne signifie pas que la Cour doive la respecter. La règle des 90 p. 100, même si elle était prévue par une loi, est en elle-même défectueuse, car elle n'indique pas de quoi il s'agit : 90 p. 100 du temps, du kilométrage, du nombre ou du poids des passagers, ou des biens transportés?
+[28] Dans l’affaire Lim c. La Reine, j’ai fait les commentaires suivants sur la signification des termes « substantial » (« important ») ou « substantial completion » (« achevé en grande partie »)
+[11] Je vais donc examiner brièvement le concept que vise l'expression « substantial completion » (« achevé en grande partie »). Les termes « substantial » (« important ») ou « substantially » (« en grande partie ») figurent dans de nombreuses lois, notamment dans la Loi de l'impôt sur le revenu et dans les lois provinciales sur le privilège des constructeurs et des fournisseurs de matériaux. Ils ont fait l'objet de commentaires dans diverses décisions rendues par les tribunaux. Déterminer leur signification dans une loi en particulier a souvent posé des difficultés. Ces termes sont dans une certaine mesure souples et relatifs, et leur signification dépend du contexte dans lequel ils sont employés et des faits en l'espèce.
+[12] Il est utile de lire ce que le vicomte Simon a dit dans l’affaire Palser c. Grinling, [1948] A.C. 291 aux pages 316 et 317 :
+(5.) Que signifie « substantial portion » (« partie importante »)? Pour le savoir, il est clair qu'il faut comparer avec l'expression "loyer complet" et que le loyer complet signifie tout le loyer payable par le locataire aux termes du contrat en contrepartie de l'occupation de l'établissement ainsi que le respect de tous ses engagements envers le propriétaire. « Substantial » (« important ») dans ce contexte n'a pas la même signification que « not unsubstantial » (« non négligeable »), c'est-à-dire juste assez pour éviter l'application du principe de minimis non curat lex. D'après une de ses principales acceptions, le mot équivaut à considérable, solide, grand. C'est dans ce sens que l'on parle d'une fortune importante, d'un repas important, d'un homme important, d'un argument ou d'un motif de défense important. Il faut donc laisser au juge des faits le pouvoir discrétionnaire de déterminer le mieux qu'il peut ce que signifie « partie importante du loyer » selon les circonstances de chaque affaire. Le propriétaire doit démontrer ce qui constitue une partie importante du loyer. S'il fallait comprendre le jugement de la Cour d'appel dans l'affaire Palser comme déterminant, les pourcentages constituant la mesure prévue dans la loi, cela aurait comme effet d'aller au-delà des pouvoirs des tribunaux. Dire par exemple que toute partie excédant 20 pour cent du loyer devrait être considérée comme une partie importante du loyer signifierait que les tribunaux jouent le rôle du législateur : si le Parlement juge bon de modifier la loi et de déterminer des pourcentages, il le fera. Il y a longtemps, Aristote a fait remarquer que le degré de précision atteignable dépend du sujet traité. La Chambre des lords n'a aucune raison de tirer une conclusion différente de celle selon laquelle, dans les deux affaires en instance, la partie du loyer n'était pas importante, mais cette conclusion est justifiée par un examen des faits et non par une détermination de pourcentages d'application générale.
+[13] Le ministère du Revenu national emploie le pourcentage de 90 p. 100 comme critère pour déterminer si la construction est achevée en grande partie. Comme procédé empirique administratif, il peut fort bien être louable d'établir un critère pour tenter de préciser dans une certaine mesure un concept flou, mais appliquer le critère est une chose difficile en pratique. Une des questions soulevées est la suivante : 90 p. 100 de quoi? Du temps, de l'argent, de l'apparence de l'immeuble? Je pense que nous devrions tenir compte de l'avertissement du vicomte Simon sur l'emploi de pourcentages.
+[29] L’expression a été examinée dans d’autres affaires, notamment en Australie. Dans l’affaire A. E. Terry’s Motors Ltd. c. Rinder, [1948] S.A.S.R. 167 à la page 180, le juge Mayo a exposé ce qui suit :
+[TRADUCTION] « Qu’entend-on par « substantial part » (« partie importante ») et « remaining part » (« partie restante ») de l’établissement? Le terme « substantial » (« important ») n’a pas la même signification dans tous les contextes. Dans certaines circonstances, il peut être employé pour mettre l’accent sur le sentiment de solidarité ou de force. Il peut être lié à l’apparence de certains objets matériels. Selon d’autres concepts, il peut se rapporter au poids, au volume ou à l’aire. Il peut également être utilisé pour indiquer la valeur ou la stabilité. Dans un contexte de comparaison, l’analyse de « substantial part » (« partie importante ») par rapport à « remaining part » (« partie restante ») révèle une dichotomie entre la partie importante et celle qui ne l’est pas, un contraste, selon le cubage ou l’aire entre le plus et le moins, ainsi qu’entre l’essentiel et ce qui est subordonné ou accessoire. Dans son ouvrage satirique de l’emploi moderne intitulé : « What a Word », A P Herbert donne au terme « substantial » (« important ») un sens quantitatif, le définissant comme l’équivalent de « much » (« beaucoup ») ou même de « some » (« quelque ») dans la langue courante moderne. Il s’agit d’un outil insatisfaisant pour exposer une idée relative à une proportion déterminable de l’ensemble ».
+De la même façon, le juge Deane dans l’affaire Tillmanns Butcheries Pty. Ltd. c. Australasian Meat Industry Employees’ Union and Others, (1979) 42 F.L.R. 331 à la page 348 affirme ce qui suit :
+[TRADUCTION] « Le terme "substantial" « important ») est non seulement susceptible d’entraîner une ambiguïté, mais il est aussi utilisé pour dissimuler une imprécision. Dans l’expression « substantial loss or damage » (perte ou préjudice important), ce terme peut signifier, dans un contexte approprié, réel ou substantiel contrairement à éphémère ou nominal. Il peut également signifier gros, lourd ou grand. Il peut être utilisé dans un sens relatif ou indiquer une signification, une quantité ou une grandeur absolue. Les difficultés et les incertitudes que pourrait entraîner l’usage de ce terme sont bien illustrées dans les directives données par Viscount Simon dans l’affaire Palser c. Grinling [précité] dans laquelle, après avoir conclu que, dans le contexte de cette affaire, la signification du terme était équivalente à « considerable, solid or big » (« considérable, solide ou gros », il a indiqué ce qui suit : " En employant le terme dans ce sens, on doit laisser au juge des faits le pouvoir discrétionnaire de décider du sens, au meilleur de ses connaissances, selon les circonstances propres à chaque affaire" [. . .] Dans le contexte du paragraphe 45D(1) de la [Trade Practices] Act 1974‑1986 (Cth), le terme « substantial » (« important ») est employé dans un sens relatif c’est-à-dire que, peu importe qu’il signifie d’une part, gros ou lourd ou d’autre part, réel ou substantiel par opposition à éphémère ou nominal, il serait nécessaire de connaître dans une certaine mesure la nature et la portée de la société en question avant de conclure que la perte ou le préjudice spécifique, réel ou potentiel était important. Comme il est conseillé en l’espèce, je suis plutôt d’avis que l’expression, perte ou préjudice important, prévue au paragraphe 45(D)(1) vise la perte ou le préjudice qui, dans les circonstances, est réel ou substantiel et non une perte substantielle ou nominale ».
+[30] Je crois qu’il serait absurde de conclure que les droits de l’appelant, prévus dans la Loi de l’impôt sur le revenu, devraient dépendre de la détermination d’un pourcentage arbitraire découlant de l’expression « la totalité ou presque ». Cet exercice mécanique va à l’encontre du bon sens.
+[31] Dans l’affaire Re Olympia & York and Hiram Walker, 59 O.R. (2d) 254, le juge Montgomery a cité, en y souscrivant, l’affaire Gimbel c. Signal Companies, Inc., 316 A.2d 599, de la Delaware Chancery Court, aux pages 605 et 608 :
+^TRADUCTION] [. . .] Une fois encore, il n’est pas nécessaire d’aller au-delà de la loi. Cette dernière exige que les actionnaires approuvent la vente de « la totalité, ou presque » des actifs d’une société. C’est le seul critère qui s’applique. Même s’il est vrai que ce critère ne se prête pas dans tous les cas à l’application d’une norme mathématique stricte, le facteur qualitatif peut, dans une certaine mesure, être défini indépendamment de la décision restrictive du Delaware. Toutefois, la définition doit du début à la fin se rapporter bien entendu à nos textes législatifs.
+Le juge Montgomery a poursuivi ensuite en ces termes :
+Il est trompeur de prétendre que, lorsqu’une société de portefeuille formée de trois divisions distinctes vend l’une de celles-ci pour un montant de 2,6 milliards de dollars sur une valeur totale de six milliards de dollars, il est possible que cette dernière soit visée par le par. 183(3).
+La Cour divisionnaire de l’Ontario a confirmé la décision du juge Montgomery.
+[32] Je fait remarquer, de façon incidente que, dans l’affaire Gimbel, la Delaware Chancery Court a mentionné une autre de ses décisions, l’affaire Philadelphia National Bank c. B.S.F. Co., 41 Del.Ch. 509, dans laquelle elle avait conclu que 75 % des actifs de la société représentaient « la totalité ou presque » de ceux-ci.
+[33] Dans de nombreuses affaires jugées par cette Cour, on a examiné le sens de l’expression « la totalité ou presque ». Ces dernières font constamment état de l’élasticité et de l’ambiguïté de l’expression et de l’inopportunité de recourir à un pourcentage arbitraire, tel que celui fixé à 90 %. Par exemple, le juge Rip dans l’affaire McDonald c. La Reine, 98 DTC 2151, à la page 2154, a affirmé ce qui suit :
+[TRADUCTION]
+[18] Le mot « presque » n'est pas défini dans les dictionnaires comme représentant une partie fixe d'un tout. Le critère dit « règle des 90 p. 100 » est un guide approximatif qui est sans aucun doute pratique pour les répartiteurs et les conseillers fiscaux dans la détermination de ce qui constitue des frais raisonnables pour droit d'usage.
+[19] Le Oxford English Dictionary définit le mot « substantially » (correspondant à « presque ») comme significant, entre autres choses :
+b. essentiellement, intrinsèquement
+c. effectivement, réellement
+[20] Le même dictionnaire définit le mot « substantial » comme s'appliquant notamment à « une somme, une quantité ou des dimensions importantes ou considérables ».
+[21] Dans la version française du paragraphe 6(2), les termes correspondant aux mots anglais « all or substantially all » sont « la totalité, ou presque ». Le mot « presque » est défini par Le Petit Robert comme signifiant « à peu près ». Le Robert & Collins, dictionnaire français-anglais anglais-français n'inclut pas les mots anglais « substantial » ou « substantially » parmi les équivalents anglais du mot français « presque ». Les termes inclus sont : « almost » et « nearly ». Le mot anglais « substantially » est traduit dans le Robert & Collins par « considérablement » et « en grande partie ».
+[22] Ces définitions de dictionnaire confirment que le terme « substantially » (presque), comme le faisait remarquer le juge Bowman, C.C.I., dans l'affaire Ruhl c. Canada, est élastique et ne convient guère pour exprimer l'idée d'une proportion déterminable de l'ensemble. Les termes anglais « substantially all » dans le contexte de l'alinéa 6(2)d) dans la version anglaise de la Loi n'ont pas à être interprétés comme correspondant à une proportion de 90 p. 100 ou plus; ils peuvent désigner une proportion moindre de l'ensemble, selon les faits. En l'espèce, au moins 85 p. 100 de la distance qui a été parcourue l'a été dans l'accomplissement des fonctions de l'emploi de M. McDonald et, à mon avis, cela représente presque la totalité de la distance parcourue par l'automobile pendant le nombre total de jours au cours de laquelle celle-ci était à la disposition de M. McDonald.
+[34] Voir également l’affaire Keefe c. M.N.R., 2003 DTC 1526, dans laquelle le juge Sheridan a conclu que 81 % représentait « la totalité ou presque ». On a conclu que 80 % équivalait à « la totalité ou presque » dans l’affaire McKay c. R., 2000 G.S.T.C. 93 et Ruhl (W.) c. Canada, [1998] G.S.T.C. 4.
+[35] La différence entre 81, 77 et 76 (ou 81, 81 et 76) pour cent n’est pas assez grande pour justifier un traitement différent pour les trois années. Dans les présentes circonstances, les sommes reçues à titre de prestations d’assurance-salaire au titre du RACGFP représentent la totalité ou presque du revenu pour les trois années.
+[36] Les présents appels sont accueillies et les cotisations sont renvoyées au ministre du Revenu national pour réexamen et établissement d’une nouvelle cotisation conformément aux motifs du jugement. L’appelant a droit aux dépens de l’appel, le cas échéant, conformément au tarif.
+Signé à Ottawa, Canada, le 19 août 2004.
+« D.G.H. Bowman »
+Juge Bowman
+Traduction certifiée conforme
+ce 20e jour de juillet 2005.
+Caroline Tardif, traductrice
+RÉFÉRENCE :
+2004CCI535
+NO DU DOSSIER DE LA COUR :
+1999-3504(IT)I
+1999-4799(IT)I
+INTITULÉ DE LA CAUSE :
+Jonathan Watts et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Kingston (Ontario)
+DATE DE L’AUDIENCE :
+Le 16juillet 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable D.G.H. Bowman, juge en chef adjoint
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 19 août 2004
+COMPARUTIONS :
+Avocat de l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Jennifer Neill
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

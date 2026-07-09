@@ -1,0 +1,193 @@
+---
+title: "Norejko v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28468/index.do"
+last_modified: "2005-01-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 829"
+citation2: ""
+neutral_citation: "2004 TCC 829"
+decision_date: "2005-01-06"
+language: "en"
+item_id: "28468"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1201
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:24:39.562000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7beddc6764eaa425369af437f31046bb348589f6667a979e53eec8ce3e524953"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Norejko v. The Queen
+
+- Citation: 2004 TCC 829
+- Decision date: 2005-01-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1201, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Norejko v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-06
+Neutral citation
+2004 TCC 829
+File numbers
+2004-2800(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2800(IT)I
+BETWEEN:
+VITO NOREJKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on December 13, 2004 at London, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+ORDER
+Upon Motion by the Respondent for an Order to quash the Appellant's appeals with respect to his 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002 and 2003 taxation years pursuant to Rule 58(3)(a) of the Tax Court of Canada Rules (General Procedure);
+And upon hearing the submissions of the Appellant and counsel for the Respondent;
+The appeals for the 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002 and 2003 taxation years are quashed for the reasons set forth in the attached Reasons for Order.
+Signed at Ottawa, Canada, this 6th day of January 2005.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC829
+Date: 20050106
+Docket: 2004-2800(IT)I
+BETWEEN:
+VITO NOREJKO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+O'Connor, J.
+Issues
+[1] The Appellant appeals his income tax assessments and or reassessments for the years 1988 through 1999. He also claims that he is exempt from the payment of income tax in those years as well as in the years 2000 through 2003 for which latter years there are no assessments or reassessments.
+[2] The position of the Appellant is set forth in the following extracts from his Notice of Appeal dated April 13, 2004:
+... I hereby file an objection as allowed under the provisions of the Income Tax Act. Through this submission, I request an exemption from the payment of personal income tax.
+The basis for my request is centred on the fundamental freedom of conscience and religion granted by the Canadian Charter of Rights and Freedoms. I make this objection at this time because the current legislative circumstances can no longer be tolerated by me without remedial action. For the most part, I refer to the absence of a law to protect the most innocent human beings in Canada from being victimized as a result of a legislative and/or constitutional flaw in our nation. ...
+Up to the time of the 1988 Supreme Court ruling, which deemed the 1969 abortion law as being unconstitutional, the enwombed children were at least afforded some measure of protection and respect for their immeasurable value and worthiness as human beings. ... the Supreme Court of Canada ruling invited Parliament to introduce a new law on abortion which to this day has not been fulfilled by our legislators. ...
+Since 1988, the abrogation of responsibility by our federal legislators (in the meantime, resulting in instances of an assortment of law-forming actions by the judiciary) has led to abortion becoming a health care procedure funded by the Ontario government (and by other provinces as well). Because of my strong beliefs against abortion, I object to personally financing this life-taking medical procedure through the collection of income tax from me by the provincial and federal governments. The lack of success in resolving the abortion issue in Parliament alludes to its complex, divisive nature; and in turn, reveals how out of place this type of coercion is under these circumstances in a democracy. Most objectionable are the abortions procured as contraceptive measures. ...
+I thereby call for the refund of all my (net) income tax payments to the government, retroactive to 1988. Furthermore, I seek the application of this objection to all my future income until such time that the situation described is remedied by legislation. ...
+In closing, as factual circumstances pertinent to this case, I inform you of my decision against filing my income tax returns since the taxation year of 2000. ... This decision has the same basis as for the situation outlined herein. ...
+[3] The Appellant also refers to income tax advantages to be accorded to homosexual relationships and raises that issue as another reason for his appeals. This latter issue was not pressed by the Appellant, whose main concern relates to the abortion issue. In any event, the decision in these appeals is equally applicable to both issues.
+[4] The Appellant also filed with the Court a written submission dated December 13, 2004 and the following extracts from that submission will attempt to summarize the highlights thereof:
+...
+On the matter of killing a human being no doubt exists as to the abhorrence of such an act of God and man alike. I put to the court that this obviously extends to the human being within a mother's womb. Our common sense and reasoning, applied honestly, leads us to this conclusion and no other. How can the enwombed child be considered as something else before being born and all of a sudden, as if by magic, spring into a human life form – attaining the full privileges and rights of a human being granted by the laws of our land exclusively through birth?
+...
+It is my understanding that scientific evidence examining the humanity of enwombed children was not considered to any significant degree at the time of the debates and formulation of the 1969 abortion law. Since that time, technological developments have further established the humanity of enwombed children in a more visible way. ... Over the span of the past thirty years or so, such advancements have without doubt swayed many people into recognizing the humanity of enwombed children.
+...
+Upon reaching the conclusion being advanced, there possibly remains one aspect that might trouble one's conscience. It is related to the concern regarding the will of the mother over the life of the child that she carries inside her womb.
+...
+[The Appellant offers his own quotation]
+... "doesn't the actuality of our present world – as evidenced by abortion statistics - cry out for protecting innocent human life even at the cost of compromising a mother's will over her enwombed child?".
+[The Appellant offers certain statistics establishing that at least in 1997 abortion was the leading cause of death in Canada. The Appellant also asserts that abortion is contrary to the will of God; and continues]
+...
+For the purposes of court procedures, I hereby request leave to appeal on the basis that my freedom of conscience is being infringed upon through the payment of income tax which is subsequently used by the government to fund abortions and associated services. As I have explained, I believe abortion is the cruel annihilation of a precious, innocent human being and I do not wish to be party to such an act, in any way – even indirectly, as through the payment of income tax.
+[5] The Respondent's Motion is for an Order quashing the Appellant's appeals on the following grounds, inter alia:
+a) The Tax Court of Canada does not have jurisdiction to grant the remedy of an exemption from the payment of income tax; this ground is raised pursuant to Rule 58(3)(a) of the Tax Court of Canada Rules (General Procedure) ("Rules") which provides that the respondent may apply to have an appeal dismissed on the ground that the Court has no jurisdiction over the subject matter of an appeal. The Motion may also be considered to be pursuant to Rule 58(1)(b) of the Rules which provides that a party may apply to strike a pleading because it discloses no reasonable grounds for appeal.
+b) There are no valid Notices of Objection filed with respect to the 1988 through 1999 taxation years as required by subsection 169(1) of the Income Tax Act, R.S.C. 1985, c.1; and
+These grounds will be discussed separately below in paragraphs (A) and (B).
+[6] Another ground that exists relates to the legal requirement that the constitutional validity of an Act cannot be judged upon, absent a notice to the Attorney General of Canada and the attorneys general of the provinces pursuant to section 19.2 of the Tax Court of Canada Act ("Act"), which provides as follows:
+19.2(1) If the constitutional validity, applicability or operability of an Act of Parliament or its regulations is in question before the Court, the Act or regulations shall not be judged to be invalid, inapplicable or inoperable unless notice has been served on the Attorney General of Canada and the attorney general of each province in accordance with subsection (2).
+(2) The notice must be served at least 10 days before the day on which the constitutional question is to be argued, unless the Court orders otherwise.
+(3) The Attorney General of Canada and the attorney general of each province are entitled to notice of any appeal to the Federal Court of Appeal made in respect of the constitutional question.
+(4) The Attorney General of Canada and the attorney general of each province are entitled to adduce evidence and make submissions to the Curt in respect of the constitutional question.
+...
+A further ground raised by the Respondent was that there can be no appeal from a "nil assessment" or no appeal when there is no assessment. This ground and the ground based on section 19.2 of the Act are commented upon in the conclusion of this judgment.
+(A) With respect to the jurisdiction of the Tax Court of Canada, the Respondent refers to section 12 of the Act, which enumerates the statutes over which the Tax Court has jurisdiction (not in itself conclusive) and to subsection 171(1) of the Income Tax Act which provides:
+171.(1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+The conclusion from these provisions is that the Tax Court does not have the jurisdiction to grant the relief sought by the Appellant of granting an exemption from the payment of income tax.
+(B) With respect to the requirement of a valid Notice of Objection, the Respondent refers to subsection 169(1) of the Income Tax Act which reads as follows:
+169.(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal ....
+[7] The Respondent also refers to Rule 58(3)(b) of the Rules which reads:
+58(3) The Respondent may apply to the Court to have an appeal dismissed on the ground that,
+...
+(b) a condition precedent to instituting a valid appeal has not been met, ...
+The conclusion from these provisions is that unless a valid notice of objection has been filed there can be no appeal.
+[8] On the issue of jurisdiction, (ground A) counsel for the Respondent referred to several decisions. In Prior v. Her Majesty The Queen, [1989] 2 C.T.C. 280 the head note reads as follows:
+The taxpayer, who was opposed to expenditures for military or war purposes, withheld from Revenue Canada and paid, instead, to the Peace Tax Fund of Victoria, British Columbia, 10.5 per cent of the tax owing by her in respect of her 1982 taxation year, on the grounds that 10.5 per cent of the 1982 Canadian Budget was used for military purposes. The Tax Court of Canada dismissed her appeal from the Minister's assessment against her for the tax so withheld, holding that if her Charter rights had been infringed, as she had contended, such infringement was demonstrably justifiable in a free and democratic society. The taxpayer then applied to the Federal Court -- Trial Division for a declaratory order: (1) that to require her to pay the full amount of her income tax to Revenue Canada infringed her Charter rights, and (2) that she was entitled to pay to the Peace Fund 10.5 per cent of her total income tax owing as she had done. On the Crown's application, the Federal Court -- Trial Division struck out the taxpayer's Statement of Claim as disclosing no cause of action (88 DRS P80-582) and the taxpayer appealed to the Federal Court of Appeal.
+HELD: The taxpayer's appeal was dismissed. The trial judge's findings were affirmed for the following reasons: (1) The taxes levied on the taxpayer were not so closely connected to the government's military expenditures to make those taxes an insult to her beliefs. (2) The taxpayer's payment of income tax, under the secular scheme of the Income Tax Act, did not identify her with the military or other functions of the government. (3) Subsection 15(1) of the Charter (providing for equality before the law without discrimination) was not relevant to the matters in issue, although s. 2(a) of the Charter (providing for freedom of conscience and religion) could have been, had the taxpayer been able to show that she had been compelled to act contrary to her conscience. (4) The Charter does not override the other provisions of the Constitution Act, 1867, including the power conferred there under to levy taxes. The taxpayer had improperly sought to impugn the power to levy taxes if such taxes were used for allegedly improper purposes. (5) To give effect to the taxpayer's application would require the Court either to amend the rate provisions of the Income Tax Act, or to create a credit scheme exempting her from a portion of her tax otherwise payable -- neither of which the Federal Court has jurisdiction to do.
+[9] In Woodside v. Her Majesty the Queen, [1993] 2 C.T.C. 2348, Sarchuk, J. of the Tax Court of Canada, followed the decision of the Federal Court of Appeal in the Prior case and on the question of jurisdiction, stated as follows:
+...
+8 If the Federal Court does not have the jurisdiction to grant a declaratory order in a similar matter I guarantee you this Court does not have the power to grant declaratory relief either.
+...
+9 Lastly I rely on the reasons expressed by my colleague Judge Mogan in the Hertzog case referred to by counsel for the Minister. I think the paragraph that was cited by counsel is a carefully crafted explanation of the limits of this Court's jurisdiction. It is not that we cannot hear an appeal that is brought before us where issues like this are raised. It is simply that we do not have the jurisdiction to grant the relief sought.
+[10] In O'Sullivan v. Her Majesty the Queen, [1991] 2 C.T.C. 177, a decision of the Federal Court – Trial Division, the head note reads as follows:
+The plaintiff sought a reduction in his income tax for 1980 and subsequent years and a declaration that the law that permits the use of taxpayer's money to fund legal abortions was of no force and effect as contrary to the Charter. He argued that the unborn child's right to life was protected by the Charter and the Universal Declaration of Human Rights and that there was a coercive link between the payment of income tax and the deprivation of the life of the child. He did not dispute the respondent's computation of his tax liability but claimed that his freedom of conscience and religion were violated by having to pay taxes that were used to fund abortions. He therefore sought a consequential reduction in his income tax based on the preamble to the Charter, which states that "Canada is founded upon principles which recognize the supremacy of God".
+The respondent had successfully applied to the senior prothonotary to strike the statement of claim pursuant to Rule 419 as disclosing no cause of action. The respondent's position was that there was no nexus between the payment of income taxes and the various expenditures of the federal government and the "freedom of religion" and "security of the person" provisions of the Charter. It was therefore unreasonable to claim that taxes should be reduced because of funding of lawful abortions by the government.
+HELD:
+The Court first ruled that it had the jurisdiction to hear the action. After extensive consideration of the relevant Charter provisions, the Court ruled that the taxpayer's freedom of conscience was not infringed because the payment of income tax did not impose any obligation to participate personally in the counselling or performance of an abortion. It further noted that the taxpayer's religious tenets were contrary to the State-tolerated practice of permitting abortions. In the result, the Court ruled that the taxpayer's statement of claim did not disclose any reasonable cause of action and supported the decision of the senior prothonotary. Appeal dismissed.
+Analysis and Conclusion
+[11] Having considered the submissions of the Appellant and of counsel for the Respondent and having reviewed the legal provisions and authorities cited above, I conclude that this Court has no jurisdiction to grant an exemption from income tax, federal or provincial. Moreover even if the Court had jurisdiction to consider the issues raised by the Appellant it does not have the authority to grant the relief sought of ordering refunds of taxes paid and an exemption from income taxes. These conclusions are not altered by the fact that the Appellant, whether because of religious beliefs or otherwise, does not agree with or conscientiously objects to the laws of the government of Canada and/or to the policies upon which such laws are based.
+[12] I also conclude that even if the foregoing is incorrect, these appeals cannot be heard because the required condition precedent of giving valid Notices of Objection has not been met.
+[13] I further conclude that, in any event, the appeals cannot succeed to the extent that they raise the constitutional validity of the Income Tax Act or any other law because of section 19.2 of the Act which requires prior notices to the Attorney General of Canada and the attorneys general of the Provinces which requirement has not been complied with.
+[14] Considering the foregoing conclusions, it is not necessary to comment on the issue of there being no assessments or reassessments for certain years nor on the alleged issue that there can be no appeal from a nil assessment.
+[15] Consequently, the Motion of the Respondent is granted and the appeals are quashed.
+Signed at Ottawa, Canada, this 6th day of January, 2005.
+O'Connor, J.
+CITATION:
+2004TCC829
+COURT FILE NO.:
+2004-2800(IT)I
+STYLE OF CAUSE:
+Vito Norejko v. H.M.Q.
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+December 13, 2004
+REASONS FOR ORDER BY:
+Justice T. O'Connor
+DATE OF ORDER:
+January 6, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ifeanyichukwu Nwachukwu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

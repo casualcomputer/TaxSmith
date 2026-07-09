@@ -1,0 +1,223 @@
+---
+title: "Jackson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31210/index.do"
+last_modified: "2013-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 195"
+citation2: ""
+neutral_citation: "2013 CCI 195"
+decision_date: "2013-06-19"
+language: "fr"
+item_id: "31210"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5050
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:14:59.469000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c9e95aa712c5e0e54aed8ff4c532fd0bb7df55285ddb180951525290fb930b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jackson c. La Reine
+
+- Citation: 2013 CCI 195
+- Decision date: 2013-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5050, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-19
+Référence neutre
+2013 CCI 195
+Numéro de dossier
+2012-2932(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2932(IT)I
+ENTRE :
+TREVOR W. JACKSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 mars 2013, à Nanaimo (Colombie-Britannique)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Shankar Kamath
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation, datée du 21 décembre 2011, que le ministre du Revenu national a établie au titre de la Loi de l’impôt sur le revenu au sujet de l’année d’imposition 2007 est rejeté, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 19e jour de juin 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+Ce 30e jour de juillet 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 195
+Date : 20130619
+Dossier : 2012-2932(IT)I
+ENTRE :
+TREVOR W. JACKSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle à l’encontre d’une nouvelle cotisation, datée du 21 décembre 2011, que le ministre du Revenu national (le « ministre ») a établie pour l’année d’imposition 2007 de l’appelant.
+[2] L’appel a trait à l’application du sous-alinéa 56(1)a)(i) et des paragraphes 110.2(1), 110.2(2) et 120.31(2) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »); ces dispositions prévoient un calcul spécial de l’impôt qui peut être avantageux pour un contribuable qui touche un paiement forfaitaire rétroactif au titre de prestations d’invalidité du Régime de pensions du Canada (le « paiement forfaitaire du RPC »). L’appelant a reçu un paiement forfaitaire du RPC de 61 744 $ dans son année d’imposition 2007 et, dans sa déclaration de revenus relative à cette année-là, il a demandé que ce paiement soit soumis au calcul spécial de l’impôt.
+[3] L’année d’imposition 2007 de l’appelant a été l’objet d’une première cotisation le 23 mai 2008. Dans son avis de cotisation, il a été informé que sa demande de calcul spécial de l’impôt concernant le paiement forfaitaire du RPC ne pouvait pas être appliquée à toutes les années demandées, car il n’avait pas produit de déclarations de revenus pour certaines des années à l’égard desquelles il demandait que l’on applique ce paiement.
+[4] L’appelant a produit en retard, soit le 30 juin 2008, ses déclarations de revenus pour les années 1997, 1998, 1999 et 2000, et une première cotisation a été établie le 3 septembre 2008 dans le cas de l’année d’imposition 1997, de même que le 25 septembre 2008, dans le cas des années d’imposition 1998, 1999 et 2000.
+[5] Le 21 décembre 2011, le ministre a établi une nouvelle cotisation en rapport avec l’année d’imposition 2009 de l’appelant :
+a) pour réduire à 10 515 $ le paiement forfaitaire du RPC pour l’année d’imposition 2007;
+b) pour que le solde du paiement forfaitaire du RPC, c’est-à-dire 51 229 $, soit attribué à des années antérieures (1997 à 2006) lors du calcul de son revenu imposable.
+[6] Pour établir la nouvelle cotisation de l’appelant pour l’année d’imposition 2007, le ministre s’est fondé sur les faits suivants, énoncés au paragraphe 20 de la réponse à l’avis d’appel :
+[traduction]
+a) le gouvernement du Canada a délivré à l’appelant un feuillet de renseignements T4A indiquant qu’il lui avait versé un paiement forfaitaire du RPC de 61 744 $ pour l’année d’imposition 2007; (admis)
+b) le paiement forfaitaire du RPC totalisant 61 744 $ comprenait des montants rétroactifs applicables aux années suivantes : (admis)
+1997
+8 561 $
+1998
+8 724 $
+1999
+8 802 $
+2000
+8 943 $
+2001
+9 167 $
+2002
+3 065 $
+2003
+955 $
+2004
+985 $
+2005
+1 002 $
+2006
+1 025 $
+c) le montant du paiement forfaitaire du RPC qui s’appliquait à l’année d’imposition 2007 s’élevait à 10 515 $; (admis)
+d) les montants du paiement forfaitaire du RPC totalisant 61 744 $ ont été attribués aux années d’imposition courante et antérieures auxquelles ils se rapportaient; (admis)
+e) l’impôt que l’appelant avait à payer pour 2007 comprenait l’impôt à payer sur les montants du paiement forfaitaire du RPC, comme s’ils avaient été reçus au cours des années d’imposition antérieures; (admis)
+f) le montant cumulatif total d’impôt à payer par suite de l’application du paiement forfaitaire du RPC aux années d’imposition antérieures s’élevait à 2 664,72 $, tel qu’il est indiqué dans l’annexe A ci-jointe (nié parce que l’annexe A n’indique pas le montant total de l’impôt).
+Annexe A
+Revenu imposable ayant fait l’objet d’une cotisation
+Paiement forfaitaire du RPC
+Crédits d’impôt non remboursables
+Taux d’imposition
+1997
+0,00 $
+8 561,00 $
+6 456,00 $
+17 %
+1998
+0,00 $
+8 724,00 $
+6 456,00 $
+17 %
+1999
+0,00 $
+8 802,00 $
+6 794,00 $
+17 %
+2000
+0,00 $
+8 943,00 $
+7 231,00 $
+17 %
+2001
+2 475,00 $
+9 167,00 $
+7 412,00 $
+16 %
+2002
+6 376,00 $
+3 065,00 $
+7 634,00 $
+16 %
+2003
+9 048,00 $
+955,00 $
+8 047,00 $
+16 %
+2004
+8 914,00 $
+985,00 $
+9 233,00 $
+16 %
+2005
+9 066,00 $
+1 002,00 $
+8 648,00 $
+15 %
+2006
+9 274,00 $
+1 025,00 $
+8 839,00 $
+15,25 %
+[7] Selon l’appelant, le ministre n’a pas effectué correctement le calcul de l’impôt théorique à payer sur le paiement forfaitaire du RPC, car le montant d’impôt à payer pour l’année 2007 a été surestimé. La nouvelle cotisation relative à l’année d’imposition 2007 faisait état d’un revenu imposable révisé de 10 595 $ ainsi que d’un montant d’impôt à payer de 3 347,39 $. Des agents de l’Agence du revenu du Canada (l’ « ARC ») lui ont dit que le montant supérieur d’impôt représentait l’impôt relatif aux années antérieures dans lesquelles l’attribution du paiement forfaitaire du RPC avait été effectuée. L’appelant n’a, semble-t-il, jamais reçu de l’ARC les détails concernant le calcul de l’impôt à payer pour chacune des années dans lesquelles une part du paiement forfaitaire du RPC avait été attribuée. Il considère qu’il a été traité de manière injuste et qu’il a été pénalisé du fait qu’il est un pensionné invalide. Il a également mentionné que les agents de l’ARC auraient dû lui expliquer de quelle façon l’impôt avait été calculé sans le faire sous un ton souvent irrespectueux, accusatoire et moqueur.
+[8] L’appelant a considéré que le ministre aurait dû autoriser une déduction de 4 000 $ par année au titre de frais médicaux et accepter un règlement aux termes duquel le montant d’impôt à payer pour l’année d’imposition 2007 aurait dû être réduit de moitié et ne faire l’objet d’aucun intérêt.
+Analyse
+[9] Le mécanisme que prévoient les articles 110.2 et 120.31 de la Loi vise à accorder un allègement aux particuliers en vue du calcul de l’impôt sur le revenu à payer sur certains paiements forfaitaires rétroactifs. Selon ce mécanisme, les contribuables ont le choix de payer de l’impôt sur les « paiements forfaitaires rétroactifs admissibles » non pas au taux par ailleurs applicable dans l’année de réception proprement dite des paiements, mais plutôt au taux inférieur qui s’appliquerait si ces paiements avaient été reçus dans les années antérieures auxquelles ils se rapportent. Le but visé est d’éviter aux particuliers les effets pénalisants des taux d’imposition progressifs que prévoit la Loi.
+[10] Le Plan budgétaire de 1999, dans lequel ont été introduits les articles 110.2 et 120.31, indique, à la page 220 :
+Aux fins du nouveau calcul de l’impôt théorique à payer pour les années antérieures, aucun rajustement ne sera apporté aux déclarations de revenu de ces années. Les particuliers ne pourront donc pas modifier des éléments tels les cotisations à un régime enregistré d’épargne-retraite et les crédits d’impôt. De même, le gouvernement ne récupérera pas les prestations calculées en fonction du revenu versées au cours des années antérieures. La réduction de l’impôt fédéral obtenue grâce à cette mesure aura également pour effet de réduire l’impôt provincial à payer dans les provinces signataires des accords de perception fiscale. […]
+[11] La dette fiscale théorique des années antérieures est calculée sans faire de rajustements aux déclarations de revenus qui ont été déposées pour ces années‑là. Dans le cas présent, le ministre n’a autorisé que les crédits d’impôt non remboursables auxquels l’appelant avait droit en vue de déterminer sa dette fiscale. Contrairement à ce que pense l’appelant, le ministre n’avait pas le pouvoir discrétionnaire de prendre en compte d’autres facteurs au moment de déterminer sa dette fiscale. Le calcul de la dette fiscale théorique ne déclenche pas la réouverture des années antérieures. Manifestement, le calcul spécial de l’impôt que prévoit l’article 120.3 de la Loi est celui qui a été le plus avantageux pour l’appelant.
+[12] Je n’ai pas examiné en détail les calculs qu’ont faits les agents de l’ARC, parce que l’appelant a admis que les différences de chiffres qu’il a soulignées ont toujours été tranchées en sa faveur, étant donné que ce sont les chiffres les plus bas que l’on a pris pour établir les nouvelles cotisations. Je signale également que, dans la présente affaire, des intérêts n’ont jamais été calculés, alors qu’il aurait fallu en imputer à l’appelant.
+[13] Pour les motifs qui précèdent, je considère que le ministre a inclus à juste titre le paiement forfaitaire du RPC dans le calcul du revenu de l’appelant pour l’année d’imposition 2007, conformément au sous-alinéa 56(1)a)(i) de la Loi, et qu’il a attribué comme il se doit la part rétroactive du paiement forfaitaire du RPC aux années antérieures auxquelles elle se rapportait lors du calcul du revenu imposable de l’appelant, conformément aux paragraphes 110.2(1), 110.2(2) et 120.31(3) de la Loi.
+[14] La Cour n’est pas compétente pour accorder un allègement à l’égard de l’imposition d’intérêts ou de la mise en œuvre d’une entente de paiements avec l’ARC. Elle ne peut pas obliger l’ARC à envoyer une lettre d’excuses pour ses retards et ses erreurs, pour les inconvénients et le stress qu’elle a causés, non plus que pour son refus de fournir les renseignements demandés.
+[15] L’appel est rejeté sans frais.
+Signé à Ottawa, Canada, ce 19e jour de juin 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+Ce 30e jour de juillet 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 195
+No DU DOSSIER DE LA COUR : 2012-2932(IT)I
+INTITULÉ : TREVOR W. JACKSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 22 mars 2013
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 19 juin 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

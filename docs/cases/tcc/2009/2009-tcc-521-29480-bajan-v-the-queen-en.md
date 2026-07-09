@@ -1,0 +1,170 @@
+---
+title: "Bajan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29480/index.do"
+last_modified: "2009-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 521"
+citation2: ""
+neutral_citation: "2009 TCC 521"
+decision_date: "2009-10-16"
+language: "en"
+item_id: "29480"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6298
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:50:48.037000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c348a93ea2d3822a86d38a52fb0789fef562585cd853e208ad4de4424da425e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bajan v. The Queen
+
+- Citation: 2009 TCC 521
+- Decision date: 2009-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6298, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bajan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-16
+Neutral citation
+2009 TCC 521
+File numbers
+2008-3169(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3169(GST)I
+BETWEEN:
+JOSEPH P. BAJAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 13, 2009, at Nanaimo, British Columbia
+Before: The Honourable Justice Brent Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Reid
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 323 of the Excise Tax Act, notice of which is dated August 15, 2007, and bears number A109986 is dismissed.
+Signed at Ottawa, Canada, this 16th day of October, 2009.
+“Brent Paris”
+Paris J.
+Citation: 2009 TCC 521
+Date: 20091016
+Docket: 2008-3169(GST)I
+BETWEEN:
+JOSEPH P. BAJAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The Appellant was assessed under section 323 of the Excise Tax Act as a director of J.P. Bajan Construction Ltd. (“Bajan Construction”) for goods and services tax which the company failed to remit, along with interest and penalties, in all totalling $35,476.89. The issues in appeal are:
+(i) whether the Appellant is able to challenge the amount of the company’s GST liability; and if so,
+(ii) whether the amount of GST, interest and penalty owing by the company at the date of the assessment made against the Appellant was less than $35,476.89.
+[2] The question of whether a director who has been assessed under section 323 of the Act can challenge the assessment on the basis that the underlying corporate GST assessment is incorrect has been considered a number of times by this Court with varying results. In my view, in light of the decision of the Federal Court of Appeal in Gaucher v. The Queen,[1] it is open to a director to challenge the underlying corporate assessment. The Court’s statements at paragraphs 7 to 9 of that decision appear equally applicable to directors’ liability assessments:
+7 When the Minister issues a derivative assessment under subsection 160(1), a special statutory provision is invoked entitling the Minister to seek payment from a second person for the tax assessed against the primary tax payer. That second person must have a full right of defense to challenge the assessment made against her, including an attack on the primary assessment on which the second person's assessment is based.
+8 This view has been expressed by Judges of the Tax Court. See, for example, Acton v. The Queen (1994), per Bowman T.C.C.J.; Ramey v. The Queen (1993), per Bowman T.C.C.J.; Thorsteinson v. M.N.R. (1980) per Taylor T.C.C.J. While the contrary view was expressed in Schafer (A.) v. Canada, [1998] (appeal dismissed for delay (August 30, 1999 F.C.A.), I am of the respectful opinion that such view is in error. It seems to me that this approach fails to appreciate that what is at issue are two separate assessments between the Minister and two different taxpayers. Once the assessment against the primary taxpayer is finalized, either because the primary taxpayer does not appeal the assessment, or the assessment is confirmed by the Tax Court (or a higher court if further appealed), that assessment is final and binding between the primary taxpayer and the Minister. An assessment issued under subsection 160(1) against a secondary taxpayer cannot affect the assessment between the Minister and the primary taxpayer.
+9 By the same token, since the secondary taxpayer was not a party in the proceedings between the Minister and the primary taxpayer, she is not bound by the assessment against the primary taxpayer. The secondary taxpayer is entitled to raise any defense that the primary taxpayer could have raised against the primary assessment. The result may be that the assessment against the secondary taxpayer is quashed or is found to be for a lesser amount than the assessment against the primary taxpayer. That, of course, will have no effect on the assessment against the primary tax payer against whom the primary assessment was final and binding.
+[3] It also appears to me that this position has been implicitly accepted by the Federal Court of Appeal in Abrametz v. The Queen.[2] There, the taxpayer had been assessed under section 323 of the Excise Tax Act, and in his appeal of the assessment to this Court, had argued that the amount of the corporation’s GST liability was less than what had been assessed. This Court found that it was open to the taxpayer to challenge the amount of the corporation’s GST liability, but that the taxpayer had not shown that the amount assessed against the corporation was incorrect. The Federal Court of Appeal reversed that decision, and held that the evidence showed that the corporation’s liability was less than the amount it had been assessed, and referred the matter back to the Minister for reassessment of the taxpayer on that basis. Inherent in this decision is that a taxpayer-director is able to attack the amount of the underlying corporate liability in an appeal of a directors’ liability assessment.
+[4] I turn then to the evidence presented by Mr. Bajan concerning the GST liability of Bajan Construction. At the end of August 1992, the company began work on a large construction job referred to as the Newport Project. Mr. Bajan said that the general contractor of the property, Harbour Construction Ltd., got into trouble and stopped paying Bajan Construction and the company stopped work for Harbour on May 27, 1993.[3] The company filed a builder’s lien for $265,728.43 against the property in June 1993. The company’s subcontractors also filed liens for amounts the company owed them. The claims were ultimately settled in June 1995. The company received $175,000 from Harbour Construction, and out of those monies, paid $104,685.37 to its subcontractors. It also paid $20,895.24 to the British Columbia Employment Standards office to pay out claims of its employees for unpaid wages. There was also a provision in the settlement that Bajan Construction would receive another $35,000 if Harbour were able to acquire certain property related to the Newport Project.
+[5] Mr. Bajan testified that Bajan Construction had included the entire $265,728.43 amount owed to it by Harbour Construction as taxable supplies as in its GST returns filed for its reporting periods in 1992 and 1993, and that the GST in respect of those supplies had been reported on and remitted with those returns.
+[6] Mr. Bajan also testified that he recalled that Bajan Construction had written off the amount owing by Harbour Construction in 1993 or 1994 as a bad debt (i.e. prior to the settlement.) This was supported by a letter[4] from the accountant who had prepared the income tax returns for the company for those years (and for the years up to 1998). The accountant wrote:
+That in approximately year 1993 or 1994 the company wrote of loses [sic] (bad debt) related to the Newport project.
+That the company applied for an income tax refund associated with those losses.
+[7] Mr. Bajan also testified that Bajan Construction never claimed any deduction under subsection 231(1) of the Excise Tax Act in the calculation of its net tax payable to reflect the bad debt it incurred on the Newport Project. Subsection 231(1) “allows relief from remitting GST that has been filed but is uncollectible because the account is written off as a bad debt.”[5] Mr. Bajan says that the amount of GST owing by Bajan Construction should be reduced to take into account its entitlement to the subsection 231(1) deduction for the GST component of the $265, 728.43 it was owed by Harbour.
+[8] Mr. Bajan admitted that the deduction under subsection 231(1) would be partially offset by the tax in respect of that portion of the bad debt that it recovered from Harbour in June 1995, which is required to be included in net tax payable by virtue of subsection 231(3) of the Act.
+[9] Finally, Mr. Bajan said that the company would have been entitled to input tax credits for the GST component of the amounts it paid out of the settlement to its subcontractors because those amounts were consideration for taxable supplies and included GST.
+Analysis
+[10] I will deal firstly with the claim that Bajan Construction was entitled to a deduction from net tax under subsection 231(1). That section 231 reads as follows:
+231(1) If a supplier has made a taxable supply (other than a zero-rated supply) for consideration to a recipient with whom the supplier was dealing at arm’s length, it is established that all or a part of the total of the consideration and tax payable in respect of the supply has become a bad debt and the supplier at any time writes off the bad debt in the supplier’s books of account, the reporting entity for the supply may, in determining the reporting entity’s net tax for the reporting period that includes that time or for a subsequent reporting period, deduct the amount determined by the formula
+A × B/C
+where
+A is the tax in respect of the supply;
+B is the total of the consideration, tax and applicable provincial tax remaining unpaid in respect of the supply that was written off at that time as a bad debt; and
+C is the total of the consideration, tax and applicable provincial tax in respect of the supply.
+231(1.1) A reporting entity is not entitled to deduct an amount under subsection (1) in respect of a supply unless
+(a) the tax collectible in respect of the supply is included in determining the amount of net tax reported in the reporting entity’s return under this Division for the reporting period in which the tax became collectible; and
+(b) all net tax remittable, if any, as reported in that return is remitted.
+231(2) …
+231(3) If all or part of a bad debt in respect of which a person has made a deduction under this section is recovered at any time, the person shall, in determining the person’s net tax for the reporting period that includes that time, add the amount determined by the formula
+A × B/C
+where
+A is the amount of the bad debt recovered at that time;
+B is the tax in respect of the supply to which the bad debt relates;
+and
+C is the total of the consideration, tax and applicable provincial tax in respect of the supply.
+231(4) A person may not claim a deduction under this section in respect of a bad debt relating to a supply unless the deduction is claimed in a return under this Division filed within four years after the day on or before which a return of the person was required to be filed for the reporting period in which the supplier has written off the bad debt in its books of account.
+Subsection 231(1) sets out as conditions for the deduction is that (i) all or part of the consideration and tax payable in respect of a supply that has become a bad debt; and (ii) that the debt must be written off in the supplier’s books of account. On the whole of the evidence, I am not satisfied that Mr. Bajan has shown these conditions were met by Bajan Construction in this case in respect of the debt of $265,728.43.
+[11] Firstly, contrary to the evidence of Mr. Bajan and despite the letter of his accountant, it does not appear that the company considered the amount owing by Harbour Construction as a bad debt prior to the settlement reached in June 1995. In a letter dated November 10, 1999[6] that Bajan Construction received from its lawyers, reference is made to the company’s builder’s lien claim. According to that letter, Bajan Construction and its subcontractors were actively proceeding with the builder’s lien litigation right up until the time of the settlement. An examination for discovery in the matter was scheduled to begin April 19, 1995 and a trial date had been set.[7] The letter also indicates that as late as 1999, Bajan Construction was seeking advice on the possibility of pursuing Harbour for the additional payment of $35,000 provided for in the June 1995 settlement agreement.
+[12] In light of these efforts being made to collect the amount owing, I am not satisfied that Bajan Construction considered the $265,728.43 as a bad debt. I am also not satisfied on a balance of probabilities that Bajan Construction wrote off the $265.728.43 owing by Harbour in its books and records. The Appellant did not present any records of the company showing that the amount was ever written off, and, given the Appellant’s failure to call his accountant as a witness and given the steps being taken in 1995 and later years to collect the debt, I attach little weight to the statements in the accountant’s letter regarding the write-off. In any event, those statements are lacking in detail, and were made 15 to 16 years after the fact without the benefit of reviewing any of the company’s files.[8]
+[13] The Respondent also submitted that the Appellant had not shown that two further requirements in subsection 231(1.1) had been met by the company, namely, that the GST on the total supplies made by the company on the Newport Project had been reported on the company’s GST returns and that all net tax owing on those returns had been remitted.
+[14] Unfortunately, Mr. Bajan had no company records or GST returns relating to periods in question, nor did he have any record of the amounts that Bajan Construction had billed to Harbour Construction or that Harbour Construction had paid to the company for work that was done. While electronic printouts of Bajan Construction’s GST returns for 1992 and 1993 were produced by the Respondent, it is not possible, given the lack of records from the company, to determine what portion of the taxable supplies and GST reported on those returns related to the Newport Project. I find therefore that the Appellant has failed to show that the company reported and remitted the GST in respect of the taxable supplies made to Harbour Construction which formed the basis of its builder’s lien claim.
+[15] Likewise, the Appellant’s position that the company’s GST liability should be reduced by the amount of input tax credits it failed to claim on the payments out of the builder’s lien settlement to its subcontractors cannot succeed. There is simply not enough evidence before the Court to show how the amounts due by the company to the subcontractors were accounted for by the company. Were these amounts invoiced to the company when the work was done? If so, the GST would have become payable at that time and the company would have been able to claim an input tax credit for the GST payable at that time.[9] Mr. Bajan was unable to say whether the company’s ITCs claimed by the company on its returns for the periods ending between August 1, 1992 and April 30, 1993 included any ITCs in respect of the work done by the subcontractors that was included in their builder’s lien claims. Subsection 225(3) of the Act precludes a taxpayer from claiming an ITC in its GST return if the amount was claimed or included in an ITC for a preceding reporting period, and the Appellant has failed to show that the ITCs to which he now says the company is entitled were not previously claimed
+[16] Also, as pointed out by counsel for the Respondent, Mr. Bajan has not provided the documentation required by subsection 169(4) of the Act, and by the Input Tax Credit Information Regulations in respect of the ITCs to which he says the company is entitled.
+[17] I would also note that the amount claimed included an amount in respect of the payment made by the company out of the settlement proceeds to the Employment Standard office in respect of unpaid wages of the company’s employees. Such a payment would not have included any GST component since wages do not attract GST.
+[18] For the above reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of October, 2009.
+‘‘Brent Paris’’
+Paris J.
+CITATION: 2009 TCC 521
+COURT FILE NO.: 2008-3169(GST)I
+STYLE OF CAUSE: JOSEPH P. BAJAN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: August 13, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: October 16, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Reid
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2000 F.C.J. No. 1869.
+[2] 2009 FCA 70.
+[3] Exhibit A-1, Tab 8 – Written Statement of J. Bajan dated August 26, 1998.
+[4] Exhibit A-1, Tab 8.
+[5] David Sherman’s Analysis – section 231.
+[6] Exhibit R-1, Tab 6.
+[7] Paragraphs 10 and 11 of Exhibit R-1, Tab 6.
+[8] The accountant in a letter to Mr. Bajan in 2007 said that he no longer had any records for the company. Exhibit A-1 Tab 3.
+[9] Subsection 169(1) of the Act.

@@ -1,0 +1,193 @@
+Title: Merit Transport Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27992/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-415-27992-merit-transport-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-06-30
+
+# Merit Transport Inc. v. M.N.R.
+
+- Citation: 2003 TCC 415
+- Decision date: 2003-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1774, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merit Transport Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-30
+Neutral citation
+2003 TCC 415
+File numbers
+2002-1522(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-1522(EI)
+BETWEEN:
+MERIT TRANSPORT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Merit Transport Inc. 2002‑1523(CPP) on February 24, 2003 at Edmonton, Alberta
+Before: The Honourable Deputy Judge M.H. Porter
+Appearances:
+Agent for the Appellant:
+Randy Jones
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 30th day of June 2003.
+"M.H. Porter"
+D.J.T.C.C.
+Citation: 2003TCC415
+Date:20030630
+Docket: 2002-1522(EI)
+2002-1523(CPP)
+BETWEEN:
+MERIT TRANSPORT INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.T.C.C.
+[1] These appeals were heard on common evidence by consent of the parties, at Edmonton, Alberta on the 24th of February 2003.
+[2] The Appellant has appealed from the decisions of the Minister of National Revenue (hereinafter called the “Minister”) dated January 17, 2002, that the employment with it of Lavern Langerud (the “Worker”) for the period April 5 to 14, 2001 was insurable and pensionable under the Employment Insurance Act (the “EI Act”) and the Canada Pension Plan (the “CPP”) respectively, for the following reason:
+...Lavern Langerud was employed under a contract of service, and therefore, he was your employee.
+The decisions were said to be issued pursuant to subsection 27.2(3) of the CPP and subsection 93(3) of the EI Act respectively and based on subsection 6(1) of the CPP and paragraph 5(1)(a) of the EI Act.
+[3] The established facts reveal that the Appellant, during the period in question, operated a business of transporting goods from High River, Alberta to various locations in the U.S.A. and from the U.S.A. to various locations in Canada. The Worker was engaged to drive one of its trucks, pursuant to a verbal agreement. The Minister has concluded that this work was carried out as an employee pursuant to a contract of service. The Appellant maintains otherwise that the Worker was an independent contractor working under a contract for services. This is the issue before the Court.
+The Law
+Contracts Of/For Service
+[4] The manner in which the Court should go about deciding whether any particular working arrangement is a contract of service and thus an employer/employee relationship or a contract for services and thus an independent contractor relationship, has long been guided by the words of MacGuigan J. of the Federal Court of Appeal in the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. The reasoning in that case was amplified and explained further in cases emanating from that Court, namely in the cases of Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., 88 DTC 6099, Charbonneau v. Canada (M.N.R.), [1996] F.C.J. No. 1337, and Vulcain Alarme Inc. v. The Minister of National Revenue, (1999) 249 N.R. 1, all of which provided useful guidance to a trial Court in deciding these matters.
+[5] The Supreme Court of Canada has now revisited this issue in the case of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61, 2001 SCC 59, 274 N.R. 366. The issue in that case arose in the context of a vicarious liability situation. However, the Court recognized that the same criteria applied in many other situations, including employment legislation. Mr. Justice Major, speaking for the Court, approved the approach taken by MacGuigan J. in the Wiebe Door case (above), where he had analyzed Canadian, English and American authorities, and, in particular, referred to the four tests, for making such a determination enunciated by Lord Wright in City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 at 169-70. MacGuigan J. concluded at page 5028 that:
+Taken thus in context, Lord Wright's fourfold test [control, ownership of tools, chance of profit, risk of loss] is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+At page 5029 he said:
+... I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations," even while the usefulness of the four subordinate criteria is acknowledged. (emphasis mine)
+At page 5030 he had this to say:
+What must always remain of the essence is the search for the total relationship of the parties…
+He also observed:
+There is no escape for the trial judge, when confronted with such a problem, from carefully weighing all of the relevant factors…
+[6] Mr. Justice MacGuigan also said this:
+Perhaps the best synthesis found in the authorities is that of Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, 738-9:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk be taken, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. The application of the general test may be easier in a case where the person who engages himself to perform the services does so in the course of an already established business of his own; but this factor is not decisive, and a person who engages himself to perform services for another may well be an independent contractor even though he has not entered into the contract in the course of an existing business carried on by him.
+[7] In the case of Kinsmen Flying Fins Inc. case, above, the Federal Court of Appeal said this:
+... like MacGuigan J. we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.
+[8] The nature of the tests referred to by the Federal Court of Appeal can be summarized as:
+a) The degree or absence of control exercised by the alleged employer;
+b) Ownership of tools;
+c) Chance of profit
+d) Risk of loss.
+In addition, the Court must consider the question of the integration, if any, of the alleged employee's work into the alleged employer's business.
+[9] In the Sagaz decision (above) Major J. said this:
+…control is not the only factor to consider in determining if a worker is an employee or an independent contractor…
+[10] He dealt with the inadequacy of the ‘control test’ by again approving the words of MacGuigan J. in the Wiebe Door case (above) as follows:
+...A principal inadequacy [with the control test] is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[11] He went on to say this:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, …([1952] 1 The Times L.R. 101) that it may be impossible to give a precise definition of the distinction (p.111) and, similarly, Fleming observed that “no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations …” (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, … (Vicarious Liability in the Law of Torts. London: Butterworths, 1967), at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose…. The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[12] I also find guidance in the words of Décary J.A. in the Charbonneau case (above) when speaking for the Federal Court of Appeal he said this:
+The tests laid down by this Court ... are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment ... or, whether there is ... such a degree of autonomy that there is a contract of enterprise or for services. ... In other words, we must not pay so much attention to the trees that we lose sight of the forest. ... The parts must give way to the whole. (emphasis mine)
+[13] I also refer to the words of Létourneau J.A. in the Vulcain Alarme case (above), where he said this:
+… These tests derived from case law are important, but it should be remembered that they cannot be allowed to compromise the ultimate purpose of the exercise, to establish in general the relationship between the parties. This exercise involves determining whether a relationship of subordination exists between the parties such that the Court must conclude that there was a contract of employment within the meaning of art. 2085 of the Civil Code of Quebec, or whether instead there was between them the degree of independence which characterises a contract of enterprise or for services….
+[14] I am further mindful that as a result of the recent decisions of the Federal Court of Appeal in Wolf v. Canada, [2002] F.C.J. No. 375, and Precision Gutters Ltd. v. Canada (Minister of National Revenue-M.N.R.), [2002] F.C.J. No. 771, a considerable degree of latitude seems now to have been allowed to creep into the jurisprudence enabling consultants to be engaged in a manner in which they are not deemed to be employees as they might formerly been. I am particularly mindful of the words of Mr. Justice Décary in the Wolf decision (above) where he said:
+In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns. (my emphasis)
+[15] Thus, it seems to this Court that the pendulum has started to swing, so as to enable parties to govern their affairs more easily in relation to consulting work and so that they may more readily be able to categorize themselves, without interference by the Courts or the Minister, as independent contractors rather than employees working under contracts of service.
+[16] In conclusion, there is no set formula. All these factors bear consideration and as Major J. said in the Sagaz case (above), the weight of each will depend upon the particular facts and circumstances of the case. Many of the tests can be quite neutral and can apply equally to both types of situation. In such case, serious consideration has to be given to the intent of the parties. Thus is the task of the trial Judge.
+The Facts
+[17] The Minister, in the Replies to the Notices of Appeal signed on his behalf, were said to have relied upon the following assumptions of fact (I have set out in parenthesis the agreement or disagreement of the Appellant):
+(a) The Appellant is in the business of transporting goods from High Prairie, Alberta to various locations in the U.S.A. and from the U.S.A. to various locations in Canada. (Disagreed. It provided trucks and drivers to Excel Transportation Inc. who were in that business.)
+(b) Randy Jones and Nancy Jones each own 50% of the voting shares of the Appellant. (Agreed)
+(c) During the period in issue, the Appellant entered into a contract with Excel Transportation Inc. (“Excel”) under which the Appellant agreed to provide trucking services, including drivers and equipment for transporting commodities, to Excel. (Agreed – subject to clarification)
+(d) The Appellant hired the Worker to drive one of its trucks. (Agreed)
+(e) The Worker’s duties were performed pursuant to a verbal agreement with the Appellant. (Agreed)
+(f) At no time did the Worker enter into a written contract with the Appellant. (Agreed)
+(g) During the period in question, the Worker transported goods from High Prairie, Alberta to Fort Mill, South Carolina and then he travelled to Newport, Tennessee where he picked up goods which he transported to Calgary, Alberta. (Agreed – High River, not High Prairie)
+(h) The Appellant paid the Worker at the rate of $.33 per mile. (Agreed)
+(i) The Worker’s rate of pay was set by the Appellant. (Disagreed – it was negotiated between them.)
+(j) The Appellant paid the Worker weekly by cheque. (Disagreed – it paid the Worker one week after it was paid by Excel.)
+(k) The Appellant required the Worker to submit the Worker’s logbook in order to be paid. (Disagreed)
+(l) The Worker was required to follow the policies and procedures of the Appellant and of the Appellant’s client. (Agreed)
+(m) The Appellant gave the Worker pick up and delivery instructions. (Disagreed – these instructions were given by Excel.)
+(n) The Worker had no control over what loads he was given to haul. (Disagreed)
+(o) The Worker could not refuse a trip. (Disagreed)
+(p) The Appellant determined the route that the Worker was to follow. (Disagreed)
+(q) The Worker was required to report to the Appellant on a daily basis. (Disagreed)
+(r) The Appellant required the personal service of the Worker. (Disagreed)
+(s) The Worker did not have any helpers. (Agreed)
+(t) If the Worker was not available to take a trip, the Appellant was responsible for finding a replacement. (Agreed)
+(u) The Worker could not, nor did he, provide services to others while working for the Appellant. (Disagreed)
+(v) The truck driven by the Worker was owned by the Appellant. (Agreed)
+(w) At no time was there any lease agreement made between the Appellant and the Worker with respect to the use of the truck by the Worker. (Agreed)
+(x) The Appellant paid for all of the operating expenses of the truck driven by the Worker including, but not limited to the license, insurance, fuel, washes, oil and maintenance and repairs. (Agreed)
+(y) The Appellant provided the Worker with a fuel credit card. (Agreed – it was a ‘debit’ card, not a credit card)
+(z) The Appellant provided the Worker with a cellular phone at no cost to the Worker. (Disagreed)
+(aa) Excel paid the Appellant for the trucking services that were provided to it. (Agreed)
+(bb) The Worker did not charge the Appellant goods or services tax in respect of the service he performed for the Appellant. (Agreed)
+[18] Evidence was given on behalf of the Appellant by Randolph W. Jones, owner of 50% of the shares in the Appellant, and Chief Operating Officer of the company. The Worker gave evidence on behalf of the Minister.
+[19] Mr. Jones put in evidence the contract between the Appellant and Excel Transportation Inc., the carrier. This required the Appellant to furnish the tractor plus "driver personnel and all other necessary labour …." The contract gave Excel the "sole possession and custody and control" of the tractor. The Appellant assumed responsibility for training employees, as well as "hiring, setting the wages, hours and working conditions, and adjusting the grievances of, supervising, training, disciplining and firing all drivers, driver’s helpers and other workers". The drivers had to be the owner or the employees of the owner and the Appellant warranted that they were properly qualified to drive the equipment.
+[20] Mr. Jones described how he had been originally a contract driver himself and finally in 1992, incorporated his own company. In 1999, he obtained the contract with Excel and purchased two more trucks. He leased them to Excel. He had to provide qualified drivers. Excel provided the trailers. The drivers would be cleared by Excel. They then reported to dispatch operated by Excel and accepted loads. They could decline a load, but could not take the truck and work for someone else. They worked out their own best routes. Some were paid a percentage of the take for the trip; others so much a mile. The Worker negotiated $0.33 per mile. It was what was offered to him by Mr. Jones. If he took 30 hours, for example, to get to South Carolina instead of 20 hours, he did not do as well as he might have done.
+[21] The Worker had approached Mr. Jones for the work, having heard that the latter was looking for a driver. He took a trip to South Carolina. He wanted to use a different truck, which was not available. Mr. Jones promised him that other truck for the next trip. However, there seemed to be some type of altercation between the two men as to where the truck eventually was dropped off upon its return. Three hundred dollars was deducted arbitrarily by Mr. Jones from the payment to the Worker and the latter terminated the contract.
+[22] It was said by Mr. Jones that the Worker could have found his own replacement. However, I gleaned that this would have been a substitute who would have to be approved by Excel and paid by the Appellant, which is not the same thing as the Worker replacing himself and paying the replacement driver out of his own pocket.
+[23] It is clear from the evidence that all running, repair and maintenance costs were paid by the Appellant. The Worker had no liability in this respect. He carried with him his own small set of hand-tools.
+[24] With respect to item (k), the Worker had to submit his receipted bills of lading in order to be paid. He also was to keep a logbook to satisfy Excel’s requirements.
+[25] With respect to items (m) to (p) inclusive, the Appellant relinquished to Excel the day-to-day control of the truck. The Worker had some discretion to refuse trips, although I gleaned that if he did not keep the truck running, he would not have lasted long. He was required to report to Excel daily, and this was done mostly through the satellite system operated in the truck. He could not, in my view, have replaced himself and thus his personal service was required (item (r)).
+[26] With respect to item (z), I accept that the Appellant did not provide a cell phone to the Worker.
+[27] The driver himself certainly considered himself to be an employee of the Appellant, although he may well have been told by Mr. Jones that he would be responsible for his own statutory deductions.
+[28] Those are the salient facts as I find them.
+Application of the Law to the Evidence
+[29] Title: It must still be clearly understood that even where the parties choose to put a title on their relationship, if the true nature and substance of the arrangement does not accord with that title, it is the substance to which the Court must have regard. That legal principle has not changed (see Shell Canada Ltd. v. Canada (1999) S.C.J. No. 30). Having said that, it is also fair to say that where the parties genuinely choose a particular method of setting up their working arrangement, it is not for the Minister or this Court to disregard that choice. Due deference must be given to the method chosen by the parties and if on the evidence as a whole there is no substantial reason to derogate from the title chosen by the parties, then it should be left untouched. The Wolf and Precision Gutters cases very much substantiate that proposition.
+[30] Control: As this aspect of the test has been traditionally applied, it has been consistently pointed out that it is not the actual control so much as the right to control that is important for the Court to consider. The more professional and competent a person is or the more experience they have in their field, the less likely there is to be any actual control, which creates difficulty in applying this test. Indeed as Major, J. pointed out in the Sagaz case (above), there may be less control exercised in the case of a competent professional employee than in the case of an independent contractor. Nonetheless, it is another factor to be weighed in the balance.
+[31] The Worker was clearly assigned to drive a particular truck for Excel. He took his directions from Excel as to the load he would take. However, the contract between Excel and the Appellant placed the Worker under the control of the Appellant. I have no doubt in my mind that the Appellant could have given him direction as to how or where he went with the truck at any particular time, or whether he drove it at all. It was an expensive piece of equipment and the Appellant did not just abandon it. Right up to which repairs would be carried and when and how, the Appellant had control. This aspect of the test, in my view, favours a finding of an employee working under a contract of service.
+[32] Tools and Equipment: The Worker had only minimal tools. The major piece of equipment was clearly the tractor. This was indeed major. This aspect of the test clearly favours a finding of an employee not an independent contractor. The tools, in my view, were relatively insignificant in the total order of things. They were not tools in the order of those discussed in the Precision Gutters case (above).
+[33] Profit and Loss: The Worker had no investment. The better he arranged his routes, the more he made on the time available to him. There was an element of profit available to him (as per the Precision Gutters case (above)). However, he did not stand to lose money. There was no real gain or loss available to him in the entrepreneurial sense. He might have made more or less money, but he had no stake invested that he was susceptible to losing if things did not work out right. On balance, this factor also points to an employee working under a contract of service.
+[34] Integration: This again has been found by the Courts to be a difficult test to apply. The question frequently asked is “whose business is it?”. Clearly, that has to be asked from the point of view of the worker and not the payor, as from the latter’s point of view it is always in business. The context in which the question must be asked is whether there are one or two businesses. In other words, is the person who has engaged himself or herself to perform these services, performing them as a person in business on his or her own account. If the answer to that question is yes, then the contract is a contract for services. If the answer is no, then it is a contract of service.
+[35] The Worker did nothing to indicate he was in business for himself. He considered himself an employee. There was no entrepreneurial element to his work. He did not invoice the Appellant or collect his own payments.
+[36] When I consider the words of Major, J. in the Sagaz case (above), that the central question is whether the person, engaged to perform services, is performing them as a person in business on his or her own account, particularly when I look at the factors outlined above, I am overwhelmingly of the view that there was only one business here, namely that of the Appellant. There is nothing to indicate that the Worker was in business for himself. True the amount of work he undertook was under his control, and how he did it, but everything else points to his working in and for the business of the Appellant. In my view, there was only one business and the services performed by the Worker were fully integrated into it. To be told that he was being paid on a contract basis and would have no statutory deductions was not sufficient to change that.
+Conclusion
+[37] When I look at the forest as a whole and not just at the individual trees, I am well satisfied on the evidence that the Worker was an employee working under a contract of service. I see a considerable distinction in this case from the Wolf case (above). Whilst the principles enunciated in that case may now well lead to a greater number of consultants being engaged as independent contractors rather than as employees, the situation at hand has nonetheless left me with the overall impression that the Worker in this case was, in reality, an employee.
+[38] Accordingly, the decisions of the Minister are confirmed and the appeals are dismissed.
+Signed at Calgary, Alberta, this 30th day of June 2003.
+"M.H. Porter"
+D.J.T.C.C.
+CITATION:
+2003TCC415
+COURT FILE NO.:
+2002-1522(EI) and 2002-1523(CPP)
+STYLE OF CAUSE:
+Merit Transport Inc. and M.N.R.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+February 24, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Deputy Judge
+M. Porter
+DATE OF JUDGMENT:
+June 30, 2003
+APPEARANCES:
+Agent for the Appellant:
+Randy Jones
+Counsel for the Respondent:
+Dawn Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

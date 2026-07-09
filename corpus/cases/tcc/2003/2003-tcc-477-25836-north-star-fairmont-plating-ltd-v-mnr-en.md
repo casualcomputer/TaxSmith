@@ -1,0 +1,243 @@
+---
+title: "North Star/Fairmont Plating Ltd. v. MNR"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25836/index.do"
+last_modified: "2003-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 477"
+citation2: ""
+neutral_citation: "2003 TCC 477"
+decision_date: "2003-07-16"
+language: "en"
+item_id: "25836"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3907
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:56:59.589000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb91cbcc72ac56c4dba2cbfd11b4d68d6016157d933ff1499258c78fd2618021"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# North Star/Fairmont Plating Ltd. v. MNR
+
+- Citation: 2003 TCC 477
+- Decision date: 2003-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3907, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Star/Fairmont Plating Ltd. v. MNR
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-16
+Neutral citation
+2003 TCC 477
+File numbers
+2002-2729(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket:2002-2729(EI)
+BETWEEN:
+NORTH STAR/FAIRMONT PLATING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 16, 2003 at Winnipeg, Manitoba
+Before: The Honourable Michael H. Porter, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 16th day of July 2003.
+"Michael H. Porter"
+Porter, D.J.
+Citation: 2003TCC477
+Date:20030716
+Docket: 2002-2729(EI)
+BETWEEN:
+NORTH STAR/FAIRMONT PLATING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] This appeal was heard at Winnipeg, Manitoba on the 16th of June, 2003.
+[2] The Appellant has appealed from the decision of the Minister of National Revenue (hereinafter called the "Minister") that the employment with it of John Santos ("Santos") and Lina Jones ("Jones") during the period January 1 to December 31, 2001 was insurable employment under the Employment Insurance Act (the "EI Act") for the following reason:
+... John Santos and Lina Jones were employed under a contract of service and were therefore your employees. The Minister is satisfied that you would have entered into a substantially similar contract of employment if you had been dealing with each other at arm's length.
+The decision in this letter is issued pursuant to subsection 93(3) of the EI Act and is based on paragraphs 5(1)(a) and 5(2)(i) thereof.
+[3] The established facts reveal that during the period in question (and for many years before) the Appellant had carried on a business of repairing, replating and refurbishing car bumpers. Santos and Jones are brother and sister. Santos, through his family trust, controls 420 of the 1,120 issued common voting shares of the Appellant; Jones, through her family trust, controls 100 of the common voting shares of the Appellant. The remaining shares are controlled by their father, Acacio Santos, through his family trust. Thus, under the combined effect of section 251 of the Income Tax Act (the "ITA") and paragraphs 5(2)(i) and 5(3)(a) of the EI Act, their employment, Santos as general manager, and Jones as the office manager, was automatically excluded by law from insurable employment, subject to the exception contained in paragraph 5(3)(b) of the EI Act, whereby they are deemed to deal with each other at arm's length if the Minister is satisfied of the various criteria set out in that section and exercises his discretion to allow them through the gates, so to speak. This, the Minister has purported to do, and it is that decision which is now in issue in this appeal.
+[4] I made reference to the nature of the situation, arising in this matter in my decision in Crawford & Company Ltd. and M.N.R., [1999] T.C.J. No. 850 (98 407(UI), 98-537(UI) and 98-538(UI). I adopt what I said in that case as this is also an instance of the Minister exercising his discretion to include employment situations in the fold of the employment insurance scheme, when the law would otherwise, in the natural course of events, have excluded them.
+[5] Usually, the Minister is being asked to open the door to persons claiming benefits on the basis that the exception should be applied. Appeals constantly come to the Court after the Minister has refused to exercise his discretion in their favour. In this case, however, as in the Crawford case (above), the Minister is proactively exercising his discretion to bring people into the fold of the employment insurance scheme, who would not otherwise by operation of the law, be there. Thus, as a result of the exercise of his discretion, they are being assessed for premiums. I am of the view that the law enables him to do that in the appropriate circumstances, but that such is hardly consistent with the intent of the amendments made to the Unemployment Insurance Act in 1990 when this discretion was first introduced. In the House of Commons, André Plourde, MP speaking on behalf of the government of the day, at the time the amendments to the Unemployment Insurance Act were introduced, said that Bill C-21 had provisions to eliminate unfair restrictions on eligibility of benefits and:
+All the changes proposed in Bill C-21 have essentially been designed to make that system more efficient and equitable and to meet the needs of workers. (see Hansard June 7, 1989 House of Commons Debates page 2722)
+[6] Nonetheless, as a matter of strict interpretation of the law, I am satisfied that the legal capacity for the Minister to do this exists. It is not for the Court to get involved in policy matters, but I do point out the differences between the developing practice, as evidenced by these cases, and the apparent intention of Parliament with respect to this section, at the time it was introduced, namely to alleviate the hardship and inequity that would be faced by related people in genuine virtual arm's length relationships, who would otherwise be unable to participate in the scheme. There was never any suggestion that it was designed to provide a large net to the Minister to go fishing and haul in those he could catch by exercising his discretion, proactively.
+[7] Furthermore, this interpretation of the section by the Minister seems inherently unfair, in that if this brother and sister were not related to the majority shareholders and the Minister had decided as a matter of fact that they were dealing with the Corporation at arm's length, they would have the right to appeal to this Court on a de novo basis. As it is, because they are related to the majority shareholders, although the basic law says that they are out of the scheme, due to the exercise of the discretion by the Minister they are brought into it against their wishes and have only a limited right of appeal; that is, their right to appeal is curtailed by the deference the Court must give to the Minister in the exercise of his discretion, in these circumstances.
+[8] While that deference and the limited appeal rights seem perfectly logical and fair when people who are basically excluded by the law are trying to bring themselves within the terms of an exception, and the Minister is charged with the responsibility by Parliament to exercise his discretion, the same cannot be said when the Minister by the exercise of that discretion, proactively reaches out to bring people into the scheme in order to collect premiums, when they have no wish to be there.
+[9] To be fair to the Minister, I should add that for many years, prior to 2001, both Santos and Jones did pay employment insurance premiums. They stopped paying in the year 2001 and requested a refund, which has now led to these proceedings.
+The Law relating to a Review of the Minister's Decision
+[10] In the scheme established under the EI Act, Parliament has made provision for certain employment to be insurable, leading to the payment of benefits upon termination, and other employment which is "not included" and thus carrying no benefits upon termination. Employment arrangements made between persons, who are not dealing with each other at arm's length, are categorized as not included. Brothers and corporations controlled by persons related to them are deemed not to be dealing with each other at arm's length pursuant to subsection 251(1) of the ITA, which governs the situation. Quite clearly the original purpose of this legislation was to safeguard the system from having to pay out a multitude of benefits based on artificial or fictitious employment arrangements; see the comments of the Federal Court of Appeal in Paul v. The Minister of National Revenue, [1986] F.C.J. No. 682, #A-223-86 unreported, where Hugessen, J. said:
+We are all prepared to assume, as invited by appellant's counsel, that paragraph 3(2)(c) of the Unemployment Insurance Act, 1971, ... and subsection 14(a) of the Unemployment Insurance Regulations, ... have for at least one of their purposes the prevention of abuse of the Unemployment Insurance Fund through the creation of so called "employer-employee" relationships between persons whose relationship is, in fact, quite different. That purpose finds obvious relevance and rational justification in the case of spouses who are living together in a marital relationship. But even if, as appellant would have us do, we must look only at spouses who are legally separated and may be dealing at arm's length with one another, the nature of their relationship as spouses is such as, in our view, to justify excluding from the scheme of the Act the employment of one by the other.
+...
+We do not exclude the possibility that the provisions may have other purposes, such as a social policy decision to remove all employment within the family unit from the operation of the Unemployment Insurance Act, 1971, as was suggested by respondent's counsel.
+[11] The harshness of this situation has however been tempered by paragraph 5(3)(b) of the EI Act, which provides for such employment between related persons deemed to be at arm's length and thus in turn to be treated as insurable employment, if it meets all the other provisions, where the Minister is satisfied having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, that it is reasonable to conclude that they would have entered into a substantially similar contract if they had (in fact) been dealing with each other at arm's length.
+[12] It may be helpful to reframe my understanding of this section. For people related to each other the gate is closed by the statute to any claim for employment benefits unless the Minister can be satisfied that in effect the employment arrangement is the same as that which unrelated persons, that is persons who are clearly at arm's length, would have made. If it is a substantially similar contract of employment, Parliament has deemed it to be only fair that it should be included in the scheme. However, the Minister is the gatekeeper. Unless he is so satisfied the gate remains closed, the employment remains excepted and the employee is not eligible for benefits.
+[13] Subsection 93(3) of the EI Act deals with appeals to and the determination of questions by the Minister. It requires that:
+The Minister shall decide the appeal within a reasonable time after receiving it and shall notify the affected persons of the decision.
+[14] Thus, the Minister has no discretion whether or not to decide the question. He is required by law to do so. If he is not satisfied, the gate remains closed and the employee is not eligible. If however, he is satisfied, without more ado or any action on the part of the Minister (other than notification of the decision) the employee becomes eligible for benefits, provided he is otherwise qualified. It is not a discretionary power in the sense that if the Minister is satisfied he may then deem the employment to be insurable. He must "determine the question" and depending on that determination the law deems the employment to be either at arm's length or not at arm's length. In this sense the Minister has no discretion to exercise in the true sense of the word, for in making his decision he must act quasi-judicially and is not free to chose as he pleases. The various decisions of the Federal Court of Appeal on this issue reveal that the same test applies as to a myriad of other officials making quasi-judicial decisions in many different fields. (See Tignish Auto Parts Inc. v. M.N.R., 185 N.R. 73, Ferme Émile Richard et Fils Inc. v. M.N.R., 178 N.R. 361, Attorney General of Canada and Jencan Ltd., (1997) 215 N.R. 352 and Her Majesty the Queen and Bayside Drive-in Ltd., (1997) 218 N.R. 150.)
+[15] The function of this Court then, upon appeal, is to review the decision of the Minister and decide whether it was arrived at lawfully that is in accordance with the Act and with the principles of natural justice. In the case Her Majesty the Queen and Bayside et al., (supra), the Federal Court of Appeal laid out certain matters which should be considered by this Court when hearing these appeals. These were: (i) the Minister acted in bad faith or for an improper purpose or motive; (ii) the Minister failed to take into account all of the relevant circumstances as expressly required by paragraph 3(2)(c) of the Unemployment Insurance Act now subsection 5(3) of the EI Act; or (iii) the Minister took into account an irrelevant factor.
+[16] The Court went on to say:
+It is only if the Minister made one or more of these reviewable errors that it can be said that his discretion was exercised in a manner contrary to law, and ... the Tax Court judge would be justified in conducting his own assessment of the balance of probabilities as to whether the respondents would have entered into substantially similar contracts of service, if they had been at arm's length.
+[17] I remind myself, when reviewing this case, that it is not for the Court to substitute its opinion of the evidence for that of the Minister. However, if his or her manner of arriving at the decision was unlawful in the context of the judgments set out above, those affected parts of the stated facts may be disregarded and I must then consider whether that which is left affords justifiable grounds for the decision. If those grounds, standing alone, are sufficient for the Minister to form a decision, albeit that the Court may not agree with it, the decision must stand. If on the other hand there is no basis left upon which the Minister might lawfully make such a decision, from an objective and reasonable point of view, then such decision may be struck down and the Court can consider the evidence before it on appeal and make its own decision.
+[18] In summary then, if there are sufficient facts before the Minister for his decision, it is his or her determination to make and if he or she is "not satisfied" it is not for this Court to substitute its view of those facts and say he or she should have been satisfied. Similarly, if he or she was satisfied it is not for this Court to substitute its view that he or she should not have been satisfied (an unlikely scenario in any event). Only if the decision is reached in an improper manner and it is unreasonable, from an objective point of view, on the basis of the facts which were properly before the Minister, may the Court interfere.
+[19] I am fortified in this approach by a number of decisions of various Courts of Appeal across the country and the Supreme Court of Canada in related decisions concerning the issue of various processes under the Criminal Code, which subsequently came to be reviewed by the Courts and are in my view analogous to the present situation. The standard of review of the validity of a search warrant was set out by Cory, J.A. (as he then was) in Times Square Book Store, Re (1985) 21 C.C.C. (3d) 503 (C.A.), where he said that it was not the role of the reviewing judge to look at or consider the authorization of a search warrant de novo and it was not open to the reviewing judge to substitute his or her own opinion for that of the issuing judge. Rather, on review, the first issue to be decided was whether or not there was evidence upon which a justice of the peace, acting judicially, could determine that a search warrant should be issued.
+[20] The Ontario Court of Appeal reiterated and expanded upon this point of view in R. v. Church of Scientology of Toronto and Zaharia (1987) 31 C.C.C. (3d) 449 C.A. leave to appeal refused. In suggesting that the reviewing Court look at the "totality of the circumstances" the Court said at 492:
+Obviously if there is not such evidence to provide a basis for such a belief (that a criminal offence had been committed) it cannot be said that in those circumstances the justice should be satisfied. There will, however, be cases where such evidence (showing reasonable grounds) does exist and the justice could be satisfied but where he or she is not satisfied and does not exercise his or her discretion in favour of issuing a search warrant. In these circumstances, the reviewing judge must not say that the justice should have been satisfied and should have issued the warrant. Similarly, if the justice in such circumstances says that he or she is satisfied and issues the warrant, the reviewing judge must not say that the justice should not have been so satisfied.
+[21] The Supreme Court of Canada endorsed this approach in R. v. Garofoli, [1990] 2 S.C.R. 1421. The late Mr. Justice Sopinka, when dealing with the review of the issue of an authorization to wiretap, then said:
+...While a judge exercising this relatively new power need not comply with the Wilson criteria, he should not review the authorization de novo. The correct approach is set out in the reasons of Martin J.A. in this appeal. He states...
+If the trial judge concludes that, on the material before the authorizing judge, there was no basis upon which he could be satisfied that the pre-conditions for the granting of the authorization exist, then, it seems to me that the trial judge is required to find that the search or seizure contravened s. 8 of the Charter.
+The reviewing judge does not substitute his or her view for that of the authorizing judge. If, based on the record which was before the authorizing judge as amplified on the review, the reviewing judge concludes that the authorizing judge could have granted the authorization, then he or she should not interfere. In this process, the existence of fraud, non-disclosure, misleading evidence and new evidence are all relevant, but, rather than being a prerequisite to review, their sole impact is to determine whether there continues to be any basis for the decision of the authorizing judge.
+[22] This approach appears to have been adopted by almost every appellate court in the country. (See R. v. Jackson (1983) 9 C.C.C. (3d) 125 (B.C. C.A.); R. v. Conrad et al. (1989) 99 A.R. 197; 79 Alta. L.R.; (2d) 307; 51 C.C.C. (3d) 311 (C.A.); Hudon v. R. (1989) 74 Sask. R. 204 (C.A.); and R. v. Turcotte (1988) 60 Sask. R. 289; 39 C.C.C. (3d) 193 (C.A.); R. v. Borowski (1990) 66 Man. R. (2d) 49; 57 C.C.C. (3d) 87 (C.A.); Bâtiments Fafard Inc. et autres c. Canada et autres (1991) 41 Q.A.C. 254 (C.A.); Société Radio-Canada v. Nouveau-Brunswick (Procureur général) et autres (1991) 104 N.B.R. (2d) 1; 261 A.P.R. 1; 55 C.C.C. (3d) 133 (C.A.); R. v. Carroll and Barker (1989) 88 N.S.R. (2d) 165; 225 A.P.R. 165; 47 C.C.C. (3d) 263 (C.A.); R. v. MacFarlane (K.R.) (1993) 100 Nfld. & P.E.I.R. 302; 318 A.P.R. 302; 76 C.C.C. (3d) 54 (P.E.I. C.A.). It seems to me most relevant to a review of the Minister's determination, which is itself a quasi-judicial decision.
+Stage I - Review of the Decision of the Minister
+[23] In the Reply to the Notice of Appeal signed on his behalf, the Minister was said to have relied upon the following assumptions of fact (I have set out the agreement or disagreement of the Appellant in parenthesis):
+(a) the Appellant is in the business of remanufacturing bumpers; (Agreed, but there is more to it than simply remanufacturing.)
+(b) there are 1,120 issued common voting shares of the Appellant, owned as follows: (Agreed)
+Owner Number of Shares Owned
+Acacio Santos Family Trust 600
+John Santos Family Trust 420
+Lina Jones Family Trust 100
+Total 1,120
+(c) Acacio Santos is the father of John Santos and Lina Jones; (Agreed)
+(d) the Appellant and the Workers are related to each other within the meaning of the Income Tax Act, R.S.C. 1985 (5th Supp.) c.1, as amended (the "Act"); (Agreed)
+(e) the Appellant employs approximately 90 employees; (Agreed. In 2001 there were approximately 100 employees.)
+(f) the hours of operation of the Appellant are from 8:00 a.m. to 5:00 p.m., Monday to Friday; (Disagreed. The hours of the various divisions of the company were quite different.)
+(g) John Santos is the President and General Manager of the Appellant, his duties of which include: (Disagreed. These duties were only part and parcel of all the other work undertaken by John Santos.)
+(i) overseeing the day-to-day operations of the Appellant;
+(ii) negotiating contracts;
+(iii) hiring and firing staff;
+(iv) attending to any problems that arise; and
+(v) purchasing supplies and equipment;
+(h) John Santos is paid a yearly salary of $120,000.00, plus bonuses; (Agreed)
+(i) John Santos normally works from 6:30 a.m. to 5:00 p.m. during the summer and from 8:30 a.m. to 6:00 p.m. during the winter, although he is able to come and go as he pleases providing he notifies the Appellant; (Disagreed)
+(j) John Santos is required to provide his personal service to the Appellant; (Agreed)
+(k) Lina Jones is employed as an office manager with the Appellant, the duties of which include: (Disagreed. These were only part of the total duties of Lina Jones.)
+(i) overseeing the office staff;
+(ii) hiring and firing staff;
+(iii) accounting;
+(iv) solving problems;
+(v) attending meetings; and
+(vi) performing any other duties the Appellant requests her to do;
+(l) Lina Jones is paid a salary of $67,500.00, plus bonuses; (Agreed)
+(m) Lina Jones normally works the regular business hours of the Appellant, being from 8:00 a.m. to 5:00 p.m., Monday to Friday, although in the winter she works about 12 to 13 hours per day when more motor vehicle accidents take place; (Disagreed. She worked many more hours than these.)
+(n) Lina Jones was not able to come and go from the office as she pleased; (Disagreed)
+(o) the Workers have been employed with the Appellant since May, 1991; (Agreed. They in fact worked for the company long before this.)
+(p) the Workers have singing authority on the bank account of the Appellant; (Agreed)
+(q) the Workers do not get paid overtime; (Agreed)
+(r) the Workers are paid semi-monthly by cheque; (Agreed)
+(s) the Workers were always paid their salary on time; (Agreed. Sometimes Santos would hold his paycheque if the company was short of funds.)
+(t) the Workers do not record their hours worked; (Agreed)
+(u) at times, the Workers did not work regular hours or days; (Agreed)
+(v) since the Workers were also shareholders and directors of the Appellant, they were not supervised in the performance of their duties; (Disagreed)
+(w) the Workers were experienced in their duties; (Agreed)
+(x) the Workers reported to a board of directors of which they were members; (Agreed)
+(y) the Workers performed their duties at the Appellant's place of business and at home; (Agreed)
+(z) all of the tools and equipment required by the Workers to perform their duties are supplied by the Appellant; (Disagreed)
+(aa) the Workers do not incur any expenses in the performance of their duties; (Disagreed)
+(bb) the Workers held necessary and important positions with the Appellant; (Agreed)
+(cc) the Workers would have to be replaced if they were no longer performing their duties; (Disagreed. They felt that their father would simply close the company down if it was no longer being carried on as a family business.)
+(dd) the Workers were paid on the same basis as workers employed in similar occupations; (Disagreed)
+(ee) if an emergency arose while on holidays or a day off, the Workers could be required to return to work; (Agreed)
+(ff) the Workers, as shareholders of the Appellant, received a share of the profits of the Appellant; (Agreed)
+(gg) the Workers were each employed under a contract of service with the Appellant; (Agreed)
+(hh) and (ii) These are the issues before the Court:
+(hh) the Minister considered all of the relevant facts that were available to him, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed; and
+(ii) the Minister was satisfied that it was reasonable to conclude that the Appellant and the Workers would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[24] Evidence was given on behalf of the Appellant by Santos and Jones. I am perfectly satisfied that each of them was entirely honest in giving their evidence and their credibility is beyond doubt.
+[25] Santos stated that he had started to work in the business, operated by his father, in 1975 when he was nineteen years old. He worked in every part of and learned all aspects of the business, working up to be general manager as his father stepped back from the day-to-day operations. Whilst his main task, during the period in question, was management of the business including sales and development of new opportunities, he still stepped in to do whatever was needed on the operating side when they were short-handed.
+[26] The business has grown from about six employees in the 1970's at one location, to over 100 employees working out of three locations, in Winnipeg, Saskatoon and Regina. The Minister appeared not to know that there were three locations running during the period in question. In Winnipeg, they have a parts division, a rubber division and a plating shop and thus have become quite diversified. Much of the work takes place in different locations in Winnipeg, another fact of which the Minister appeared to be unaware. Santos not only oversees all of these operations and divisions, but when necessary rolls up his sleeves and pitches in. It is not at all clear from the assumptions that the Minister took this into account as a relevant factor.
+[27] Santos, as president and general manager, also took care of the corporate and strategic planning in this respect. Business was carried on in the way of many family businesses started by a hard working, not particularly well-educated, European immigrant. Although out of the every day operations, the father was very much involved in the major decisions and as major shareholder kept his eye on the books and accounts. Meetings were held at his home in an informal way, when the families visited, over a glass of wine. As Santos said, it was often hard to distinguish family from business. I had the sense that Santos and his sister Jones had always worked, throughout their working life, for their father in the family business, and whatever the old man said, was the way it was. He was sometimes difficult to get along with and very strong-willed. They had not worked anywhere else and the business was an extension of their family. They were dedicated to it because it was family and this manifested itself in ways which were apparent, not only in what they did but the financial benefits that they received. I do not find that the Minister grasped the full tenure of this situation, which is obviously a highly relevant fact.
+[28] With respect to the financial side of things, Santos said that he took a basic draw of $120,000.00 per year, i.e. $10,000.00 per month, on which he paid income tax in the usual way as an employee. There is no question that he was at all times an employee, as well as a shareholder. His sister Jones, who also was an employee, took her monthly draw based on $67,500.00 per year. At the end of the year after all expenses were paid, the balance of the profit would be divided between the family members in accordance with their shareholdings, each family member taking a percentage in the ratio that their shareholding bore to the whole. Santos said he would take his as a bonus and pay the income tax on it as an employee. He would then deposit the net amount of it back into the company and it would be attributed to his shareholder loan account. It is not clear to me why he took it as a bonus/salary rather than a dividend to shareholder, but that is what he said he did. The point, however, is that after taxes were paid, all the money went back into the company to keep its debts down and to enable it to keep on expanding. There is, of course, an overlap here between his capacity as general manager and employee of the company and as shareholder in the corporation. However, this is what his father had always done and what his father expected him to do, which hardly smacks of an arm's length situation. Not many general managers working as employees would pile all their bonuses back into the company by way of a loan so the company, as opposed to the employee, could profit further from that money. To not follow his father in this way, I gather, would put his whole situation in jeopardy. These, again, are relevant factors which were not before the Minister and he did not take them into account.
+[29] I should add to this that from time to time when he specifically needed extra money, e.g. to buy a car, Santos was able to access his shareholder loan account and take some money out. Generally speaking, though, it was left in the company to work for the company.
+[30] As a further indication of how his personal affairs were integrated with those of the company, Santos explained how often expenses he incurred on business trips for the company were not reimbursed to him. On other occasions, things like sporting tickets were purchased by the company for promotion for clients and he would profit from these.
+[31] Santos also spoke about equipment he owned personally being used for company business, such as a lawn mower, a high pressure spray hose and a snow blower, for which he was never paid anything. They were just used when the company needed them.
+[32] Another indication of the interrelationship of family and the company related to a party held for his mother and father on their 50th wedding anniversary. To the extent, this was a family affair, or a company affair, was hard to say.
+[33] Santos explained more of his work involvement. In the winter, which is busier than summer on account of there being more accidents on the road, he would start his work day at 5:30 a.m. and work through to 6:00 p.m. and sometimes later. He responded to alarms going off in the business premises at night. He would take the bumpers and deliver them himself if needed, even if that involved driving out of town. Sometimes he worked 14 to 16 hours per day. He frequently worked 6 days per week. He said he did all of this because it was family. It seems to me that the Minister, in his assumptions, failed to take into account the extra time and effort Santos put into this business because it was family, in a way that a non-family general manager would not, at least not without extra remuneration.
+[34] Holidays were another thing in short supply for Santos. He rarely took them, where a paid arm's length employee would take regular holidays. Again, he explained that it was his commitment to family, which drove him. Again, the Minister failed to take into account this matter of vacation time, except to the extent that if an emergency arose, Santos would have to return from vacation (item (ee)).
+[35] Another duty he took on, which Santos considered a regular salaried general manager would not, was to check the electroplating tank at night. This had to be done quite regularly and he shared that responsibility with another paid employee.
+[36] Although I gleaned that it happened infrequently, Santos described how, in the past, he had held off depositing his pay cheque for a week to 10 days so that the company would not exceed its line of credit and he would wait for funds to come in. Again, infrequent as it was, this is a significant factor and one not taken into account by the Minister. It is further example of the interrelatedness that existed between Santos and the Appellant in their financial affairs.
+[37] His sister ran the accounting side of things. Lina Jones, in her evidence, also described how she had spent her whole of working life, working for the company. She was in charge of and managed the office. She oversaw 3 staff doing reception, ordering and accounts payable. She herself did the books and accounts.
+[38] In 1990, she attended Red River College to do a 2-year business course full time. Through the company, her father arranged for her to be paid a full-time salary so that she could afford to go to college. Ever since completing that course, she has worked for the company. She also talked of it being a family business. There are not many arm's length employees who are funded full time to go to college at the expense of the employer, and this is another factor that the Minister failed to take into account in the working relationship.
+[39] Jones explained her working hours as being between 7:00 a.m. and 5:00 or 6:00 p.m. on Mondays to Fridays. Regular employees worked 5 days from 7:00 a.m. to 4:00 p.m. or 8:00 a.m. to 5:00 p.m. She also put in large amounts of time on weekends. Whatever was needed, she did, again because it was a family business. When the Minister said she did not record her hours, it failed to capture the huge amount of time she put into the business to make it work well. I had the sense that it was almost her whole life to work in this business.
+[40] She seemed to be taking one week off per year by way of vacation. She tended not to take sick days. Again, this is another factor that is not taken into account by the Minister.
+[41] She saw her parents on a daily basis and much of the business was discussed with her father at his home. Again, there was a mixing of family and business interests which would not occur in an arm's length situation.
+[42] The Minister, in assumption (n), said Jones was not able to come and go as she pleased. Jones took issue with that statement, saying that she was free to make her choice in this respect as she saw fit. Sometimes she would work from home and would not come to the office. The Minister was thus incorrect in making this assumption.
+[43] Both Santos and Jones had maintained their annual base draw at the same amount since 1992, i.e. they had had no increases. Jones, like Santos, ploughed all her bonuses after tax, back into the company. Thus, in effect, they are annually living on less money as inflation eats away at their base salaries. It is true, of course, that their bonuses have increased, but generally speaking, those have gone back into the company. This again is a factor that the Minister has not taken into consideration. Because it is a family business, they are now working for considerably less, when one takes into account inflation, than they were eleven years ago. Arm's length people tend not to do this.
+[44] When assessing the evidence, I find no bad faith on the part of the Minister whatsoever.
+[45] When I consider the factors which were not considered by the Minister and which were highly relevant to the decision he was required to make, I cannot but come to the conclusion that if he had had them before him for consideration, he could not, from an objective point of view, have reasonably and lawfully arrived at the decision that he did. In particular, I am of the view that the Minister completely failed to grasp the total intermingling of the working lives of Santos and Jones with the success of this company, as well as the intermingling of their financial affairs. The company was run as their alter ego, as if it was part and parcel of their own family. The significance of this was unknown to the Minister and was not considered by him. The decision is thus not sustainable in law and I must now advance to the second stage of the appeal process and decide whether on all the evidence, the parties had they been at arm's length, would have entered into substantially similar contracts of employment taking into account all of the circumstances, including specifically those set out in paragraph 5(3)(b) of the EI Act.
+Stage II - Review of the Evidence
+[46] At the outset, I cannot help remarking, upon the irony of the fact, that in this case, many of the factors said to have been relied upon by the Minister are precisely the same types of factors upon which he has been said to rely upon so often in appeals where he has declined to exercise his discretion, e.g. setting own hours of work, setting own salaries, not keeping records of hours worked, taking time off without having to seek permission, holding pay cheques when the company was short of funds, to name but a few. I cannot help but think that if the Minister had been looking through the other end of the telescope in a situation whereby one of the siblings had been claiming employment benefits in these circumstances he would have quickly come to a contrary conclusion. I am not suggesting any bad faith here, but there does seem to be something of a double standard being established.
+[47] I do not intend to set out all of the evidence again. I have already referred to the significant facts. It is clear in my mind, that the two siblings worked in and for this company as if it was part of their family. Their economic interests were inexorably bound up with those of the company. Those interests were tied to the company and those of the company were tied to theirs to such an extent that it could not be said there was an independent or adverse economic interest existing between them. In effect, Santos and Jones were the operating minds of the company. They themselves were related and had a common family economic interest which was indivisible from that of the company. They worked very much under the exigencies of their father, the majority shareholder. This is exactly the situation contemplated by Parliament in setting up the employment insurance scheme to exclude persons, who are operating or controlling their own businesses, in an entrepreneurial fashion, from participating in that scheme and being able to claim benefits if their employment fails. I am not saying that simply because they are unlikely to collect benefits that they should not be participating in the scheme because that is not the law. Clearly, however, this is exactly the type of business arrangement that was excluded by Parliament from inclusion in the insurance scheme.
+[48] Taking into account all of the circumstances, including in particular the extensive hours and days put in by Santos and Jones, their opportunity to just take leave without permission from anyone and still get paid, their willingness to hold their pay cheques if the company was short of funds, their total commitment to doing whatever was needed in the company without extra recompense, I am of the firm view that there was no independence of thought or purpose prevailing between the company and the siblings. There was no adverse economic interest and their stakes were inextricably woven together. There was not the bona fide type of separate negotiation permeating their relationship that one would expect to find existing between those traders in the marketplace to whom I referred at some length in the Crawford decision (above). Their purse was very much the purse of the company and vice versa. I am overwhelmingly of the view that the arrangements they made between themselves and the company were not substantially similar to those that would have been made if they had been dealing with the company at arm's length. Accordingly, I hold that neither of them was employed in insurable employment.
+[49] In the event, the appeal is allowed and the decision of the Minister is vacated.
+Signed at Calgary, Alberta, this 16th day of July 2003.
+"Michael H. Porter"
+Porter, D.J.
+CITATION:
+2003TCC477
+COURT FILE NO.:
+2002-2729(EI)
+STYLE OF CAUSE:
+North Star/Farmont Plating Ltd. and M.N.R.
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 16, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Michael H. Porter,
+Deputy Judge
+DATE OF JUDGMENT:
+July 16, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Deryk W. Coward
+Firm:
+D'Arcy & Deacon
+Winnipeg, Manitoba
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

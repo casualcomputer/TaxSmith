@@ -1,0 +1,232 @@
+---
+title: "Pascoal c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29556/index.do"
+last_modified: "2009-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 608"
+citation2: ""
+neutral_citation: "2009 CCI 608"
+decision_date: "2009-12-02"
+language: "fr"
+item_id: "29556"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6344
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:19:57.793000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e8c8db6aa844d79b1a111b469b7442b9084c4e3f12ecf8459f66542e2c7a62ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pascoal c. La Reine
+
+- Citation: 2009 CCI 608
+- Decision date: 2009-12-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6344, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pascoal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-02
+Référence neutre
+2009 CCI 608
+Numéro de dossier
+2006-3622(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2006­3622(IT)G
+2006­3638(IT)G
+ENTRE :
+ANTONIO PASCOAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de Natalie Pascoal, 2006­3620(IT)G, et d’Antonio Pascoal, 2006­3621(GST)G,
+le 22 septembre 2009, à Kingston (Ontario).
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me Frank E. Van Dyke
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en application de l’article 227.1 de la Loi de l’impôt sur le revenu, dont les avis sont datés du 23 septembre 2005 et du 23 novembre 2005, et portent les numéros 33922 et 33933, respectivement, sont accueillis avec dépens, et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+Dossier : 2006­3621(GST)G
+ENTRE :
+ANTONIO PASCOAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Natalie Pascoal, 2006­3620(IT)G, et d’Antonio Pascoal, 2006­3622(IT)G et 2006­3638(IT)G, le 22 septembre 2009, à Kingston (Ontario).
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me Frank E. Van Dyke
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de l’article 323 de la Loi sur la taxe d’accise, dont l’avis est daté du 12 juillet 2005 et porte le numéro 24775, relativement à la période du 31 décembre 2003 au 30 septembre 2004, est accueilli avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+Dossier : 2006­3620(IT)G
+ENTRE :
+NATALIE PASCOAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels d’Antonio Pascoal, 2006­3622(IT)G, 2006­3638(IT)G et 2006­3621(GST)I,
+le 22 septembre 2009, à Kingston (Ontario).
+Devant : L’honorable juge C. H. McArthur
+Comparutions :
+Avocat de l’appelante :
+Me Jehuda J. Kaminer
+Avocat de l’intimée :
+Me George Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de l’article 227.1 de la Loi de l’impôt sur le revenu, dont l’avis est daté du 22 novembre 2005 et porte le numéro 33934, est accueilli avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 608
+Date : 20091202
+Dossiers : 2006­3622(IT)G
+2006­3621(GST)G
+2006­3638(IT)G
+2006­3620(IT)G
+ENTRE :
+ANTONIO PASCOAL et
+NATALIE PASCOAL,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels visent les cotisations établies par le ministre du Revenu national (le « ministre ») en application des dispositions relatives à la responsabilité des administrateurs prévues à l’article 227.1 de la Loi de l’impôt sur le revenu (la « LIR ») et à l’article 323 de la Loi sur la taxe d’accise (la « LTA »).
+[2] Malgré leurs observations selon lesquelles ils n’étaient pas administrateurs pendant la période pertinente, les appelants s’appuient principalement sur ce qu’on appelle les dispositions relatives à la diligence raisonnable, lesquelles sont prévues au paragraphe 227.1(3) de la LIR et au paragraphe 323(3) de la LTA. Les appelants étaient représentés par des avocats distincts. Je désignerai les deux appelants par leur prénom, soit Antonio et Natalie, et je débuterai avec les trois appels d’Antonio.
+[3] Antonio a quitté le Portugal et a immigré au Canada alors qu’il était un jeune homme et qu’il était, pour les besoins de la présente instance, analphabète. Il a passé la plus grande partie de sa vie à travailler dans le domaine de la construction à titre de maçon et d’expert en échafaudage. Il a trois enfants, Tony, Victor et Natalie. De 1989 à 2001, il a travaillé pour AJV, société contrôlée par son fils Tony. Il a pris sa retraite en 2001 alors qu’il approchait les 70 ans.
+[4] Il était administrateur de jure de deux sociétés, soit AJV Construction Ltd. (« AJV ») et ANVIC Construction Ltd (« ANVIC »). Le ministre a établi à son égard une cotisation selon laquelle il devait 446 115 $ au titre de déductions fiscales impayées, d’intérêts et de pénalités payables par AJV, et 205 254 $ au titre de déductions fiscales impayées, d’intérêts et de pénalités payables par ANVIC. Antonio a en outre fait l’objet d’une cotisation selon laquelle il devait 191 379 $ au titre de la TPS non versée, de pénalités et d’intérêts payables par AJV. Les hypothèses de fait formulées par le ministre dans chacune des trois réponses sont analogues.
+[5] Antonio fait notamment valoir qu’il n’était pas l’administrateur d’AJV ni d’ANVIC pendant la période pertinente. À titre subsidiaire, il soutient avoir agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables, conformément au paragraphe 227.1(3) de la LIR et au paragraphe 323(3) de la LTA.
+La thèse de l’intimée
+[6] L’avocat de l’intimée a présenté une thèse détaillée qu’il convient d’exposer de la manière suivante.
+[7] L’article 227.1 de la LIR et l’article 323 de la LTA visent les cas où le contribuable avance que, même s’il était administrateur, il n’a rien fait et n’assume donc aucune responsabilité (la politique de l’autruche). Lorsque vous signez des documents vous nommant administrateur, vous ne pouvez nier agir à ce titre sur le fondement que vous n’avez rien fait en cette qualité. Selon l’article 19 de la Loi sur les sociétés par actions de l’Ontario (la « LSAO »), une fois que vous êtes administrateur de jure, vous ne pouvez invoquer pour votre défense que vous n’étiez pas un administrateur dans les faits. Si vous n’avez pas démissionné, vous êtes un administrateur de jure parce que vous avez accepté cette qualité en droit.
+[8] L’avocat a poursuivi en renvoyant à l’arrêt Soper v. Canada[1], où M. le juge Robertson tient les propos suivants au sujet de la défense fondée sur la diligence raisonnable prévue à l’article 227 :
+[…] l’administrateur n’est pas obligé de consacrer son attention en permanence aux affaires de la société, et il n’est même pas tenu d’assister à toutes les réunions du conseil. Il devrait cependant assister à ces réunions lorsqu’il est raisonnablement en mesure de le faire. […] il serait absurde de prétendre que la common law resterait figée et permettrait aux administrateurs de se conformer à une norme de passivité et d’irresponsabilité totales. […] on ne peut guère dire que le droit de nos jours pose en principe que moins un administrateur en fait, moins il en sait ou moins il se montre prudent, moins il risque d’être tenu responsable. […]
+À la page 16, il précise comment un administrateur peut s’acquitter de son obligation d’empêcher un défaut de versement.
+[…] un administrateur peut […] prendre des « mesures » en établissant des contrôles pour vérifier les versements, en demandant aux agents financiers de la société de présenter régulièrement des rapports sur la mise en œuvre de ces contrôles et en obtenant régulièrement la confirmation que les retenues et les versements ont été faits comme l’exige la Loi : voir le paragraphe 7 de la Circulaire d’information, no 89‑2, précitée.
+[…] l’ouverture et la surveillance d’un compte en fiducie qui servirait à payer la rémunération des employés et les sommes dues à Sa Majesté. […]
+[9] Au sujet de la « diligence raisonnable », il a ajouté que les appelants auraient dû savoir qu’il y avait un problème potentiel. Ils savaient que Tony et Victor étaient en différend sur la question des finances et qu’ils en étaient venus à se disputer dans les bureaux de la société. Si Antonio ou Natalie lui avaient posé la question, Victor leur aurait fait part de la situation financière de l’entreprise. Les termes essentiels des paragraphes 227.1(3) et 323(3) prévoient l’obligation d’agir avec diligence pour « prévenir le manquement ».
+[10] Antonio a consenti une hypothèque de 150 000 $ sur sa maison afin d’obtenir les capitaux d’amorçage pour AJV, une somme de 100 000 $ ayant été avancée en 1989. Le fait que la somme n’avait pas été remboursée des années plus tard donne à penser que la société éprouvait certaines difficultés. Lorsque la dispute entre Tony et Victor a eu lieu aux bureaux de la société, Antonio et Natalie auraient dû savoir qu’il y avait manifestement un problème avec la société. Antonio aurait pu demander à n’importe quel moment si ses fils versaient l’impôt et la TPS au gouvernement.
+[11] Au moment de la constitution d’ANVIC, le 21 décembre 1994, Antonio, Natalie et Victor en étaient les seuls actionnaires. Tony avait signé des documents syndicaux de sorte qu’il ne pouvait agir comme administrateur de cette société, personne morale non syndiquée constituée pour être exploitée dans l’éventualité d’une grève syndicale chez AJV, personne morale syndiquée. Tony croyait qu’un troisième administrateur était nécessaire, et Natalie a été recrutée. Une entreprise non syndiquée, ANVIC, pouvait soumissionner de plus petits contrats, à un prix moindre que l’entreprise syndiquée, AJV. Natalie, Antonio et Victor ont transféré leurs actions à Tony en 2001. Initialement, ANVIC était contrôlée par Tony et Victor, situation qui a pris fin avec la querelle de ces derniers. Natalie a toujours agi comme administratrice de jure de cette société, et ce, jusqu’à ce que l’entreprise cesse d’être exploitée, le 31 mars 2005.
+[12] Le principal argument avancé par Natalie tient à la diligence raisonnable. Je n’éprouve aucune difficulté à accepter le fait que Natalie était administratrice de jure ou qu’elle avait légalement la qualité d’administratrice pendant les périodes pertinentes et qu’elle pouvait être responsable aux termes de l’article 227.1 de la LIR. J’accepte son témoignage voulant qu’elle ait consenti à agir comme administratrice parce que Tony s’était engagé à l’aviser au préalable du fait qu’ANVIC deviendrait active. Il a manqué à cette promesse sans qu’elle en ait connaissance. Elle ne savait pas qu’ANVIC exploitait une entreprise. Elle ne détenait aucun pouvoir de signature, elle n’a jamais participé à l’exploitation de l’entreprise et elle n’a jamais demandé à son frère Tony si ANVIC était active. Elle travaillait à plein temps dans un hôpital et elle ne possédait aucune expérience de l’exploitation d’une entreprise. Elle se fiait entièrement aux engagements de son frère. La question est la suivante : cela suffisait‑il à établir une diligence raisonnable? L’avocat de l’intimée répond par la négative. Les arguments présentés par Antonio et Natalie méritent d’être examinés et les arguments de l’intimée doivent être analysés à la lumière de la jurisprudence établie.
+[13] Antonio a soutenu qu’il avait démissionné de son poste d’administrateur le 28 février 2001, comme en fait foi la pièce A‑1, onglet 3. Ce document mentionne qu’il a démissionné à titre d’actionnaire. Son avocat n’a pas activement fait valoir cet argument. Il y a la démission d’Antonio, en octobre 2004, de son poste chez AJV, mais la plus grande partie de l’endettement existait déjà à ce moment.
+[14] Ni les sommes ni la responsabilité de la société ne sont en litige. Les conditions nécessaires pour justifier l’établissement d'une cotisation à l’égard des appelants, notamment l’enregistrement d’un certificat à la Cour fédérale du Canada et l’échec du bref d’exécution forcée, ont également été remplies.
+[15] Je le répète, le principal moyen de défense invoqué par les appelants tient au fait qu’ils ont agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement de la société d’effectuer les versements qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Ces termes figurent tant au paragraphe 323(3) de la LTA qu’au paragraphe 227.1(3) de la LIR.
+[16] Antonio est devenu administrateur d’AJV en 1989 et d’ANVIC le 21 décembre 1994. Les deux sociétés ont cessé d’être exploitées le 31 mars 2005. Antonio a cessé de travailler pour AJV en février 2001 lorsqu’il a donné sa démission comme actionnaire; il croyait avoir ainsi démissionné de l’ensemble de ses fonctions, y compris son emploi. Il est difficile de savoir quand, le cas échéant, il a été employé par ANVIC. Pour tout ce qui concernait le travail de bureau, la direction et les travaux d’écriture de toute sorte, il se fiait sans réserve à son fils Tony, lequel était beaucoup plus instruit que lui et veillait à la direction des affaires. Je suis sûr qu’il était fier du niveau d’instruction de Tony. Il ne comprenait rien au travail de bureau et il n’avait pas les connaissances nécessaires pour comprendre le processus des versements. Antonio n’a été informé du manquement que lorsque l’Agence du revenu du Canada l’a avisé qu’il était responsable du paiement de ces versements. Natalie et Tony ont corroboré son témoignage voulant qu’il n’ait à peu près plus participé à l’exploitation d’aucune de ces sociétés après février 2001.
+[17] Antonio comptait sur Tony pour les opérations bancaires, la tenue des comptes, le pouvoir de signature, les versements et les autres tâches de bureau connexes. Il n’a jamais assisté aux assemblées des sociétés. Il agissait uniquement comme travailleur de la construction. Il est possible d’inférer que les mesures qu’il a prises pour prévenir le manquement d’effectuer les versements ont consisté à obtenir un financement d’un montant de 100 000 $ à 150 000 $ en faveur d’AJV et à offrir ses années d’expérience dans le domaine de la construction à AJV à titre d’employé, au moins jusqu’en 2001.
+[18] Antonio et Natalie étaient des administrateurs externes et Tony était un administrateur interne, au sens où ces termes sont employés dans l’arrêt Soper. Natalie n’avait aucun pouvoir de signature pour le compte d’ANVIC et elle travaillait à temps plein dans un hôpital pendant la période pertinente. Elle était fondée à se fier aux engagements de son frère, lequel lui avait promis de la consulter avant de commencer à exploiter la société ANVIC. Elle et son père n’étaient nullement en mesure d’influer sur les événements ni, en particulier, de veiller à ce que la TPS et les versements de retenues à la source soient payés.
+[19] Il convient de se demander si les appelants ont agi avec le degré de soin, de diligence et d’habileté qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Dans la décision Cloutier v. MNR[2], M. le juge Bowman a proposé une méthode raisonnable qui est tout aussi pertinente aujourd’hui qu’elle l’était en 1993 et qui est compatible avec des arrêts de la Cour d’appel fédérale[3] ayant modifié certaines normes plus rigoureuses. Il s’est exprimé en ces termes :
+Il s’agit donc de trancher une question de fait; la Cour doit essayer, dans la mesure du possible, de déterminer ce qu’une personne raisonnablement prudente aurait dû et aurait pu faire à l’époque dans des circonstances comparables. Les tentatives faites par les tribunaux pour évoquer l’hypothétique personne raisonnable ne se sont pas toujours soldées par une réussite incontestable. Des critères ont été élaborés, affinés et réitérés de manière à donner au processus une apparence de rationalité et d’objectivité, mais, en fin de compte, le juge chargé de rendre une décision doit appliquer ses propres notions du bon sens et de l’équité. Il est facile de faire preuve de sagesse après coup. Le tribunal doit essayer d’éviter de se demander : qu’aurais‑je fait en sachant ce que je sais maintenant? Ce n’est pas ce genre de jugement ex post facto qu’il nous faut porter en l’espèce. Bien des décisions subjectives qui se révèlent ultérieurement mauvaises n’auraient pas été prises si, au moment de les prendre, la personne avait su ce qui allait se passer ensuite.
+[...] Pour déterminer si cette norme a été satisfaite, il faut se demander si, à la lumière des faits existant à l’époque dont l’administrateur avait ou aurait dû avoir connaissance et en fonction des différentes voies qui s’offraient à lui, l’administrateur a choisi celle qu’une personne raisonnablement prudente aurait choisie dans les circonstances et dont on pouvait raisonnablement s’attendre à ce qu’elle permette de s’acquitter de l’obligation fiscale. Le fait que la voie choisie ne se soit pas révélée la bonne n’est pas déterminant. Dans les affaires de ce genre, l’omission […] découle habituellement soit d’un mauvais choix fait de bonne foi, soit d’un manquement ou d’un aveuglement délibéré de la part de l’administrateur.
+[Renvoi omis.]
+[20] Dans l’arrêt Soper, le juge Robertson a conclu qu’on attend plus des personnes qui possèdent des compétences supérieures à la moyenne et il a ajouté que le point de savoir si un administrateur a satisfait à la norme de prudence est une question de fait qu’il faut trancher à la lumière des connaissances personnelles et de l’expérience de celui-ci.
+[21] La situation dont je suis saisi ressemble à l’affaire Fitzgerald et al. v. MNR[4], où le père dominait sa famille, comme Tony en l’espèce. Les propos suivants tenus par M. le juge Mogan dans cette décision s’appliquent aussi bien aux présents appels :
+Il me semble que les appelants étaient administrateurs en droit (c’est‑à‑dire que leurs noms figuraient comme ceux des administrateurs dans le livre des procès‑verbaux de la compagnie), mais non en fait. Il n’y a jamais eu de réunion du conseil d’administration. Les appelants n’ont jamais agi, seuls ou de concert, en qualité d’administrateurs. Ils ne savaient rien de la gestion et de l’administration des affaires de la compagnie. Ils ne détenaient aucune action de cette dernière. Ils n’avaient aucun moyen d’obliger le cinquième administrateur (Eugene Fitzgerald, actionnaire unique) à leur divulguer des renseignements sur les affaires financières de la compagnie. Ils étaient administrateurs en droit uniquement en raison de leur lien familial avec Eugene Fitzgerald. Ils auraient tous pu démissionner de leurs postes d’administrateurs s’ils y avaient pensé, mais cette démission aurait été une source de tension familiale et, du point de vue des trois fils, l’idée de quitter leurs postes d’administrateurs ne leur serait pas venue avant celle d’abandonner leurs emplois.
+[22] Tony était celui qui avait de l’instruction. Il était hautement respecté par son père et par Natalie, lesquels avaient entière confiance en lui. Tony paraît les avoir intimidés pour qu’ils se plient à ses volontés. Les faits de l’affaire Dirienzo c. La Reine[5] ressemblent aussi à ceux dont je suis saisi. L’appelant, M. Dirienzo, faisait entièrement confiance à son oncle, tout comme les appelants avec Tony. Le juge Bowman a conclu que le degré approprié de soin, d’habileté et de diligence qui est requis pour mener à bien une défense fondée sur la diligence raisonnable est beaucoup moins élevé lorsque les administrateurs sont des membres de la famille. Je fais miens les propos énoncés au paragraphe suivant de la décision Dirienzo :
+Les conclusions formulées ci‑devant dégagent‑elles l’appelant de ses responsabilités en vertu de l’article 227.1? D’une part, on pourrait dire que l’appelant n’a pas exercé le degré de soin, de diligence et d’habileté prévu au paragraphe 227.1(3) puisqu’il n’en a exercé aucun. D’autre part, l’appelant n’était administrateur que de nom; il n’avait ni pouvoir ni responsabilité quant à la façon dont la société était dirigée et n’avait pas son mot à dire à cet égard. On pourrait très bien affirmer d’un ton autoritaire et moralisateur que, si une personne accepte la responsabilité inhérente à un poste d’administrateur de société, elle doit s’attendre à en assumer toutes les conséquences. Je n’ai toutefois pas à me demander ce qu’il en serait dans un monde parfait. Il me faut déterminer les faits qui existent dans un monde bien imparfait dans lequel des jeunes malléables sont intimidés par des chefs de famille dominateurs.
+[23] Selon l’arrêt Soper, la norme de soin prévue au paragraphe 227.3(1) est une norme objective parce qu’elle s’intéresse à la personne raisonnable, mais elle a également un caractère subjectif en ce qu’elle tient compte de considérations individuelles, comme la compétence et l’idée de circonstances comparables. Natalie n’a pas posé de questions au sujet d’ANVIC, parce qu’elle ne savait pas que cette dernière était active. Elle se fiait à son frère pour lui transmettre les renseignements nécessaires. C’est en raison de la confiance qui règne au sein de chaque famille que les normes appliquées à l’égard de ses membres diffèrent. Natalie était prudente et raisonnable lorsqu’elle s’est fiée à l’engagement de son frère voulant qu’elle cesse d’agir en qualité d’administratrice dans l’éventualité où ANVIC commencerait à être exploitée.
+[24] L’intimée a soutenu que la dispute et la bataille survenues dans les bureaux de la société auraient dû signaler l’existence de problèmes financiers. Le fait qu’une bataille ait eu lieu dans les locaux de la société ne signifie pas nécessairement que l’altercation portait sur les affaires de la société, en particulier les affaires financières.
+[25] L’intimée a ajouté que la visite chez l’avocat concernant le pouvoir de signature des chèques était une occasion de poser des questions. J’accepte les observations des appelants selon lesquelles la rencontre visait uniquement à maintenir l’harmonie familiale, et non à examiner la situation financière des sociétés.
+[26] L’intimée cherche par tous les moyens à établir que le fait que l’hypothèque n’était pas entièrement remboursée constituait un indice de l’existence de problèmes financiers.
+[27] Elle a donné des exemples de la façon dont un administrateur peut satisfaire à l’exigence relative à la diligence raisonnable, notamment par l’instauration d’un système de contrôle et d’un système de compte rendu qui permettent aux administrateurs de vérifier si les versements au gouvernement ont lieu. Les sociétés ANVIC et AJV étaient trop petites pour avoir des agents financiers et un système établi de gouvernance.
+[28] En conclusion, il était raisonnable qu’Antonio, avec ses habiletés et ses connaissances commerciales restreintes, se fie à son fils pour que celui‑ci l’informe en temps opportun des obligations qui lui incombaient à titre d’administrateur. Il était en outre raisonnable et prudent que Natalie, qui n’avait rien à voir avec ANVIC autrement que comme administratrice sur le papier, se fie à l’engagement que lui avait donné son frère qu’elle cesserait d’agir à ce titre dans l’éventualité où les sociétés commenceraient à être exploitées.
+[29] Les appels sont accueillis, avec dépens, et les cotisations sont annulées.
+Signé à Ottawa, Canada, ce 2e jour de décembre 2009.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour d’avril 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 608
+NOS DES DOSSIERS DE LA COUR :
+2006­3622(IT)G, 2006­3621(GST)G, 2006­3638(IT)G, 2006­3620(IT)G
+INTITULÉ : Antonio Pascoal et
+Natalie Pascoal et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 22 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge C. H. McArthur
+DATE DU JUGEMENT : Le 2 décembre 2009
+COMPARUTIONS :
+Avocat d’Antonio Pascoal :
+Me Frank E. Van Dyke
+Avocat de Natalie Pascoal :
+Me Jehuda J. Kaminer
+Avocat de l’intimée :
+Me George Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant Antonio Pascoal :
+Nom : Me Frank E. Van Dyke
+Cabinet : Van Dyke Law Office
+Pour l’appelante Natalie Pascoal :
+Nom : Me Jehuda J. Kaminer
+Cabinet : Jehuda J. Kaminer
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 97 DTC 5407.
+[2] 93 DTC 544
+[3] Il s’agit notamment des arrêts suivants : La Reine c. Corsano et al., [1999] 3 C.F. 173, Worrell v. R., 2000 G.S.T.C. 91, Smith v. The Queen, 2001 DTC 5226, Cameron v. The Queen, 2001 DTC 5405, et Soper v. Canada (précité).
+[4] 92 DTC 1019.
+[5] 2000 CCI 982052.

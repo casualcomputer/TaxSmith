@@ -1,0 +1,164 @@
+---
+title: "Papp c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29570/index.do"
+last_modified: "2009-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 621"
+citation2: ""
+neutral_citation: "2009 CCI 621"
+decision_date: "2009-12-14"
+language: "fr"
+item_id: "29570"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6326
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:18:38.991000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "36aef5c8fbad2836391304933ffa39d5d429d317fd91caf4f45fca423f79b158"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Papp c. La Reine
+
+- Citation: 2009 CCI 621
+- Decision date: 2009-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6326, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papp c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-12-14
+Référence neutre
+2009 CCI 621
+Numéro de dossier
+2007-1788(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1788(IT)I
+ENTRE :
+VIC PAPP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 22 septembre 2009, à Courtenay (Colombie-Britannique).
+Devant : L'honorable juge E.A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+M e Natasha Reid
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation concernant l'année d'imposition 2003 est accueilli, sans qu'aucuns dépens soient adjugés, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de l'appelant pour l'année est réduit d'un montant de 2 000 $.
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2004 est rejeté.
+Signé à Ottawa, Canada, ce 14 e jour de décembre 2009.
+« E.A. Bowie »
+Juge Bowie
+Référence : 2009 CCI 621
+Date : 20091214
+Dossier : 2007-1788(IT)I
+ENTRE :
+VIC PAPP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Papp interjette appel de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003 et 2004. M. Papp est comptable général licencié. Pendant un certain temps, avant l'année 2003, durant toute l'année 2003, et pendant les quatre premiers mois de l'année 2004, il travaillait comme contrôleur d'une société appelée Fan Seafoods Ltd. (« Fan »). Il effectuait également des travaux de comptabilité pour d'autres personnes, des travaux relativement mineurs.
+[2] En produisant ses déclarations de revenus pour les années d'imposition 2003 et 2004, M. Papp a indiqué son revenu comme suit :
+2003
+2004
+Revenu brut
+27 800 $
+7 037 $
+Dépenses
+18 983 $
+12 222 $
+Revenu (perte) net de profession
+8 817 $
+(5 185 $)
+Revenu d'emploi
+Néant
+1 307 $
+Revenu tiré d'un REER et de dividendes
+372 $
+4 153 $
+Total
+9 189 $
+275 $
+Ces chiffres sont arrondis.
+[3] Au cours des années 2003 et 2004, Fan a pris la position selon laquelle M. Papp n'était pas un employé, mais qu'il agissait plutôt comme entrepreneur indépendant, et elle l'a rémunéré sur cette base. En 2004, lorsqu'il ne travaillait plus pour Fan, M. Papp a présenté une demande en vue d'obtenir des prestations d'assurance-emploi. La chose a entraîné un examen des comptes de fiducie de Fan et a finalement donné lieu à l'établissement de nouvelles cotisations à l'égard de M. Papp, lesquelles font l'objet des présents appels. La nouvelle cotisation concernant l'année d'imposition 2003 figure à l'onglet 6, pièce R-1; celle de l'année 2004 figure à l'onglet 7. Dans ces nouvelles cotisations, le ministre du Revenu national (« le ministre » a pris la position selon laquelle il n'y avait pas de revenu ou de dépenses de nature professionnelle au cours de l'une ou l'autre année, le revenu de M. Papp étant le suivant :
+2003
+2004
+Revenu tiré d'un emploi chez Fan
+32 000 $
+6 600 $
+Revenu tiré d'un emploi chez Incentive Depot Inc.
+1 307 $
+Revenu tiré d'un REER et de dividendes
+371 $
+4 153 $
+Total
+32 371 $
+12 060 $
+[4] La pièce A-3 est un sommaire que M. Papp a préparé, dans lequel celui-ci compare le calcul du revenu d'emploi chez Fan que le ministre a effectué et son propre calcul. Le sommaire montre que, pour l'année 2003, le ministre a fondé sa cotisation sur l'hypothèse selon laquelle M. Papp avait gagné, chez Fan, un montant mensuel de 3 000 $ pour les quatre premiers mois de l'année 2003, et un montant mensuel de 2 500 $ pour le reste de l'année, soit 32 000 $ en tout. Selon la preuve soumise par M. Papp, Fan avait chaque mois versé à celui-ci un montant de 2 500 $ pendant toute l'année 2003, soit 30 000 $ en tout. M. Papp a témoigné qu'en 2004, Fan lui avait versé un montant mensuel de 800 $ pendant les quatre premiers mois de l'année 2004, après quoi il a été licencié.
+[5] La pièce A-1 renferme des relevés bancaires de M. Papp pour les mois de janvier à mai 2003. Elle corrobore la preuve présentée par M. Papp, à savoir que Fan lui avait chaque mois versé un montant de 2 500 $ pendant toute l'année 2003. La preuve est moins claire en ce qui concerne l'année 2004. Toutefois, il semble que la cotisation que le ministre a établie pour l'année 2004 soit en bonne partie fondée sur une conversation entre M. Papp et un employé de l'Agence du revenu du Canada appelé Tony Edwards. M. Edwards n'était pas présent pour témoigner à l'instruction, et M. Papp a nié la déclaration qu'il aurait apparemment faite à M. Edwards. Je retiens la preuve de M. Papp plutôt que la preuve par ouï-dire non corroborée de la conversation que M. Papp aurait eue avec M. Edwards sur laquelle le ministre se fonde apparemment.
+[6] Il semble que M. Papp, lorsqu'il a produit ses déclarations pour les années visées par les présents appels, ait été tout à fait satisfait de qualifier le revenu qu'il avait gagné chez Fan comme étant un revenu de profession, quoiqu'il ait adopté un point de vue différent après son renvoi et après avoir demandé des prestations d'assurance-emploi, en 2004. À mon avis, M. Papp avait raison pour ce qui est de l'année 2004, et le ministre est apparemment également arrivé à cette conclusion, étant donné qu'il a traité le revenu réalisé chez Fan comme un revenu d'emploi, une fois effectuée la vérification des feuilles de paie. Toutefois, cela importe peu aux fins qui nous occupent étant donné que le ministre a supposé, en établissant les cotisations pour les années 2003 et 2004, que l'appelant n'avait pas engagé de dépenses professionnelles et que la preuve mise à ma disposition ne permet pas de réfuter cette hypothèse. À l'instruction, M. Papp n'a produit aucun élément de preuve à l'égard des dépenses qu'il avait déduites, et il a demandé un ajournement, de façon à pouvoir présenter cette preuve. Or, l'avis d'audience qui a été envoyé à M. Papp deux mois et demi avant l'instruction renferme la déclaration suivante, en caractères gras :
+[traduction]
+VEUILLEZ NOTER que tous les documents pertinents à l'appui de l'appel doivent être produits à l'audition de l'appel. Si les parties ne s'entendent pas sur les faits relatifs à l'appel, ces faits doivent être établis au moyen de dépositions faites sous serment ou par déclaration solennelle. Tous les témoins peuvent être contre-interrogés.
+La réponse à l'avis d'appel met carrément en question, à trois reprises, l'assertion du ministre selon laquelle l'appelant n'a pas engagé de dépenses professionnelles en 2003 et en 2004. Or, les appelants ne peuvent pas s'attendre à ce qu'une audience soit ajournée simplement parce qu'ils n'ont pas apporté la preuve qui, selon l'avis qui leur a été donné, doit être disponible.
+[7] Par conséquent, le revenu de l'appelant pour l'année 2003, indépendamment du revenu tiré d'un REER et du revenu de dividendes, s'élève à 30 000 $ plutôt qu'à 32 000 $, comme le ministre l'avait établi. Le revenu de l'appelant pour l'année 2004, abstraction faite du revenu gagné chez Incentive Depot Inc., du revenu tiré d'un REER et du revenu de dividendes, s'élève à 7 037 $, comme l'appelant l'a indiqué dans sa déclaration T1, plutôt qu'au montant de 6 600 $ qui a été établi dans la cotisation. Toutefois, je ne puis augmenter le montant de la cotisation établie par le ministre 1, de sorte que l'appel concernant l'année 2004 est tout simplement rejeté. L'appel concernant l'année 2003 est accueilli, et la nouvelle cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que le revenu de l'appelant pour l'année doit être réduit d'un montant de 2 000 $. Les parties supporteront chacune leurs propres frais.
+Signé à Ottawa, Canada, ce 14 e jour de décembre 2009.
+« E.A. Bowie »
+Juge Bowie
+RÉFÉRENCE : 2009 CCI 621
+N o DU DOSSIER DE LA COUR : 2007-1788(IT)I
+INTITULÉ : VIC PAPP
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Courtenay (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 22 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable E.A. Bowie
+DATE DU JUGEMENT : Le 14 décembre 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+M e Natasha Reid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

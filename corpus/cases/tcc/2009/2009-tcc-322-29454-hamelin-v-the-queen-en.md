@@ -1,0 +1,130 @@
+---
+title: "Hamelin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29454/index.do"
+last_modified: "2009-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 322"
+citation2: ""
+neutral_citation: "2009 TCC 322"
+decision_date: "2009-06-17"
+language: "en"
+item_id: "29454"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6945
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:12:17.086000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "742774fc88c3d4f3465b655271e2802c4ede2980445e31a2e3c47280b027d8fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamelin v. The Queen
+
+- Citation: 2009 TCC 322
+- Decision date: 2009-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6945, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamelin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-17
+Neutral citation
+2009 TCC 322
+File numbers
+2009-716(IT)APP
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-716(IT)APP
+BETWEEN:
+RICHARD HAMELIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on June 12, 2009, at Ottawa, Canada.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Sara Chaudhary
+____________________________________________________________________
+JUDGMENT
+The application for an extension of time filed on January 20, 2009, to appeal the Canada Revenue Agency's decision dated October 14, 2008, upholding the penalties and interest resulting from the assessment of March 21, 2002, is dismissed on the ground of nullity in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of June 2009.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2009 TCC 322
+Date: 20090617
+Docket: 2009-716(IT)APP
+BETWEEN:
+RICHARD HAMELIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant was reassessed for the 1999 taxation year on March 21, 2002. Through the reassessment, additional income of $33,900 was added to the appellant's income. This additional income was related to the money that the appellant had withdrawn from his registered retirement savings plan to make inadmissible investments. The Minister of National Revenue (the Minister) also imposed on the appellant a late filing penalty for his tax return for the 1999 taxation year as well as interest.
+[2] The appellant wants to challenge only the penalties and interest. The problem is that he did not object to the reassessment, or at least there is no evidence that he did, within the 90-day period prescribed in section 165 of the Income Tax Act (ITA).
+[3] That period ended on June 19, 2002. There is also no evidence on the record that the appellant applied to the Minister to extend the time for serving the notice of objection within the year following the end of the period allotted for serving a notice of objection, that is, before June 19, 2003, as prescribed in section 166.1 of the ITA.
+[4] The appellant submitted a letter to the Canada Revenue Agency (CRA) on June 26, 2008, requesting that it cancel the penalty for late filing and interest on arrears, pursuant to [Translation] "relief provisions for taxpayers" (Exhibit I-3). From what I understand, the appellant made that application under subsection 220(3.1) of the ITA. On October 14, 2008, the CRA refused the appellant's application and upheld the penalties for late filing and interest (Exhibit I‑3).
+[5] The letter of refusal informed the appellant that, if he believed that the CRA had not exercised its discretion fairly and reasonably, he could make a written request to the director of a tax centre or tax services office to undertake a second independent review of the impugned decision. Instead of doing so, the appellant took that letter to the registry of this Court, where he was unfortunately informed that he was two days late to appeal it. He was therefore advised to apply to this Court for an extension of time. Thus, on January 20, 2009, the appellant applied to this Court for an extension of time to appeal the CRA's decision dated October 14, 2008. He also took the precaution of sending a copy of his application to a CRA tax services office.
+[6] On March 5, 2009, the CRA wrote to the appellant to inform him that the letter he had sent in January 2009 could not be accepted as a valid objection (Exhibit I-4). That response is somewhat strange and would suggest that the director of the Tax Services Office did not consider the appellant's application to be a request to review the letter of October 14, 2008.
+[7] This Court is hearing the application for an extension of time filed with this Court on January 20, 2009, to appeal the CRA's decision of October 14, 2008.
+[8] Clearly, this is not the proper forum, and I have no jurisdiction to hear the appellant’s application. It is unfortunate that the registry of this Court advised the appellant to apply for an extension of time before this Court. This Court has no jurisdiction to review a CRA decision when a taxpayer believes that the CRA did not exercise its discretion fairly and equitably under subsection 220(3.1) of the ITA.
+[9] The letter of October 14, 2008, (Exhibit I-3) did inform the appellant that he could request that the decision in question be reviewed by the director of a tax centre or tax services office. That is the first level of appeal. If the appellant was still dissatisfied with the second decision, he could apply for a review of that decision to the Federal Court of Canada. In my view, the decision of March 5, 2009, (Exhibit I‑4) cannot be considered as a review of the CRA's decision of October 14, 2008, since it does not discuss the letter at all. It is incumbent upon the appellant to verify whether the letter he sent to the CRA in January 2009 can be considered as a request to review the letter of October 14, 2008, and if not, then whether he is still within the prescribed time limit to appeal to the director of a tax centre or tax services office, and if that is not the case, then whether it is possible to apply for an extension of time.
+[10] As for the application before this Court, it must be dismissed on the ground of nullity.
+Signed at Ottawa, Canada, this 17th day of June 2009.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 24th day of July 2009
+Margarita Gorbounova, Translator
+CITATION: 2009 TCC 322
+COURT FILE NO.: 2009-716(IT)APP
+STYLE OF CAUSE: Richard Hamelin and Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 17, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Sara Chaudhary
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

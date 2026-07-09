@@ -1,0 +1,149 @@
+---
+title: "Harper v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26666/index.do"
+last_modified: "2005-12-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 775"
+citation2: ""
+neutral_citation: "2005 CCI 775"
+decision_date: "2005-12-13"
+language: "fr"
+item_id: "26666"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3608
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:12:46.736000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bbea5a1d5281231b463e42bba120e9c21cf37d59d34340b89f3878819c35290f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harper v. The Queen
+
+- Citation: 2005 CCI 775
+- Decision date: 2005-12-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3608, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harper v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-13
+Référence neutre
+2005 CCI 775
+Numéro de dossier
+2005-716(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-716(IT)I
+ENTRE :
+COLLEEN HARPER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Saskatoon (Saskatchewan), le 28 novembre 2005
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la nouvelle détermination faite en application de la Loi de l'impôt sur le revenu relativement à la prestation fiscale pour enfants pour l'année de base 2002 est admis, et la nouvelle détermination est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Une somme de 100 $ est adjugée à l'appelante au titre des débours qu'elle a engagés dans le cadre du présent appel.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de décembre 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d'août 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI775
+Date : 20051213
+Dossier : 2005-716(IT)I
+ENTRE :
+COLLEEN HARPER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Saskatoon (Saskatchewan), le 28 novembre 2005. L'appelante a témoigné et elle a appelé à témoigner son fils de 13 ans, Evan Ly. L'intimée a appelé à témoigner le père d'Evan, Lam Ly, et la mère de Lam, Ngyet My Tu, qui, pour témoigner, a eu besoin des services d'un interprète engagé par la Cour.
+[2] Les paragraphes 6 à 11 inclusivement de la réponse à l'avis d'appel exposent les questions en litige. Ces paragraphes se lisent comme suit :
+[TRADUCTION]
+6. L'appelante a initialement reçu des montants de 1 948,36 $, de 2 264,18 $ et de 247,50 $ au titre de la prestation fiscale pour enfants ( « PFE » ), du Supplément de la prestation nationale pour enfants ( « SPNE » ) et de la prestation pour enfants de la Saskatchewan ( « PPES » ), respectivement, pour les mois de juillet 2003 à avril 2004, parce qu'elle était le chef d'une famille monoparentale et la personne qui s'occupait principalement des enfants.
+7. Au moyen d'un avis de prestation fiscale pour enfants daté du 20 juillet 2004, le ministre a avisé l'appelante que, pour l'année de base 2002, plus précisément pour la période allant de juillet 2003 au 21 avril 2004, elle n'avait pas droit à la PFE, au SPNE ou à la PPES pour le motif qu'elle n'était pas la personne qui s'occupait principalement des enfants.
+8. Le 17 août 2004, l'appelante a signifié au ministre un avis d'opposition relativement à la nouvelle détermination au titre de la PFE pour l'année de base 2002.
+9. Le ministre a ratifié la détermination au titre de la PFE datée du 20 juillet 2004 au moyen d'une lettre de ratification datée du 19 novembre 2004.
+10. Lorsqu'il a fait une nouvelle détermination à l'égard de la PFE et du SPNE de l'appelante et ratifié la détermination, le ministre s'est fondé sur les mêmes hypothèses de fait, comme suit :
+a) l'appelante et Lam Ly sont les parents biologiques des enfants;
+b) tout au long des années 2002, 2003 et 2004, l'appelante et Lam Ly vivaient séparément;
+c) pendant la période allant du 1er juillet 2003 au 21 avril 2004, Lam Ly était le parent qui assumait principalement la responsabilité pour le soin et l'éducation des enfants;
+d) pendant la période allant du 1er juillet 2003 au 21 avril 2004, l'appelante n'était pas la personne qui assumait principalement la responsabilité pour le soin et l'éducation des enfants;
+e) l'appelante a reçu des paiements en trop de 1 948,36 $, de 2 264,18 $ et de 247,50 $ au titre de la PFE, du SPNE et de la PPES, respectivement, pour les mois allant de juillet 2003 à avril 2004.
+B. LA QUESTION EN LITIGE
+11. Il s'agit de savoir si l'appelante a droit à la PFE pour la période allant du 1er juillet 2003 au 21 avril 2004.
+Les hypothèses figurant aux alinéas 10a) et b) sont correctes. Les autres hypothèses ne le sont pas.
+[3] Evan est né le 30 novembre 1991, et Sara est née le 7 août 1994. Leurs parents sont l'appelante et Lam Ly. Jusqu'à ce qu'Evan atteigne l'âge de 11 ans (le 30 novembre 2002), sa grand-mère s'occupait de lui et de Sara, au 922 de l'avenue Steeves à Saskatoon. Lam a vécu à cette adresse jusqu'en novembre 2001, avant de déménager en Colombie-Britannique pour y vivre. Depuis lors, il a déménagé à Calgary, en Alberta, où il réside encore aujourd'hui.
+[4] Les enfants rendaient visite à leur mère, l'appelante, de temps à autre. En mai 2003, l'appelante a appris que les enfants ne vivaient plus avec Lam et que celui-ci avait déménagé en Colombie-Britannique avec une femme, avec qui il vivait en union de fait, et leur enfant. En dépit du fait qu'une ordonnance d'un tribunal donnait la garde des enfants à Lam, elle a pris la garde d'Evan et de Sara et leur a prodigué les soins nécessaires.
+[5] Depuis ce moment-là, elle a la garde des enfants et veille à leur prodiguer les soins nécessaires. En juillet 2003, pendant que l'appelante et ses enfants étaient en visite chez la grand-mère des enfants, l'appelante a amené les enfants en Colombie-Britannique pour qu'ils puissent rendre visite à leur père pendant trois semaines et demie, contrairement à une ordonnance d'un tribunal. Toutefois, l'appelante et ses enfants n'ont pas séjourné chez Lam pendant qu'ils étaient en Colombie-Britannique. Ils ont habité chez d'autres parents.
+[6] Lorsque l'appelante et ses enfants sont revenus de leur voyage, les enfants ont continué à vivre avec leur mère. Aucune des deux parties n'a respecté les ordonnances du tribunal relativement à la garde des enfants, aux droits de visite et à leur obligation de garder les enfants en Saskatchewan.
+[7] Toutefois, la preuve indique clairement que les enfants ne résident pas avec Lam depuis novembre 2001, ce que celui-ci a admis. Lam n'est donc pas un « particulier admissible » aux termes de l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[8] En outre, la Cour accepte la preuve voulant que l'appelante a la garde de fait des enfants et assume principalement la responsabilité pour leur soin et leur éducation depuis mai 2003. Par conséquent, la présomption énoncée à l'alinéa f) s'applique à la mère. De plus, l'appelante répondait à tous les critères exposés aux alinéas 6302a) à g) du Règlement de l'impôt sur le revenu pendant la période en question.
+[9] Lorsqu'il y a contradiction entre le témoignage de Colleen Harper et celui de Lam, je crois le témoignage de Colleen. Je crois tout ce qu'ont dit Evan et sa grand-mère dans leur témoignage.
+[10] L'appel est admis. L'appelante était la personne qui s'occupait principalement d'Evan et de Sara pendant la période allant de mai 2003 au 21 avril 2004 et était le particulier admissible à leur égard pendant la période en question. L'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conséquence.
+[11] Une somme de 100 $ est adjugée à l'appelante; la somme correspond aux débours qu'elle a engagés dans le cadre du présent appel.
+Signé à Vancouver (Colombie-Britannique), ce 13e jour de décembre 2005.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 31e jour d'août 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2005CCI775
+NO DU DOSSIER : 2005-716(IT)I
+INTITULÉ : Colleen Harper c. La Reine
+LIEU DE L'AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L'AUDIENCE : Le 28 novembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 13 décembre 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

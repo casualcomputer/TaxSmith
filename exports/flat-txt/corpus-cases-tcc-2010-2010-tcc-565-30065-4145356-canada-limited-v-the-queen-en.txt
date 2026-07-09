@@ -1,0 +1,142 @@
+Title: 4145356 Canada Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30065/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-565-30065-4145356-canada-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-11-08
+
+# 4145356 Canada Limited v. The Queen
+
+- Citation: 2010 TCC 565
+- Decision date: 2010-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7622, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4145356 Canada Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-08
+Neutral citation
+2010 TCC 565
+File numbers
+2008-2315(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion by the Respondent to introduce into evidence a rebuttal report prepared by John P. Steines,
+heard on October 29, 2010
+and decision delivered orally from the Bench on November 1, 2010
+at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Al Meghji and
+Martha MacDonald
+Counsel for the Respondent:
+Daniel Bourgeois and
+Andrew Miller
+____________________________________________________________________
+ORDER
+UPON hearing from the parties on October 29, 2010;
+AND UPON rendering decision and reasons on November 1, 2010;
+AND UPON agreement reached by both parties following the decision;
+IT IS ORDERED THAT:
+(a) the principal report and the rebuttal report prepared by John P. Steines shall be admitted into evidence provided that he is available for cross‑examination when the hearing resumes;
+(b) the report prepared by H. David Rosenbloom shall be admitted into evidence as a rebuttal report to the report of John P. Steines provided that he is available for cross-examination when the Appellant opens its rebuttal case; and
+(c) the hearing is adjourned.
+Signed at Halifax, Nova Scotia, this 8th day of November, 2010.
+“Wyman W. Webb”
+Webb J.
+Citation: 2010TCC565
+Date: 20101108
+Docket: 2008-2315(IT)G
+BETWEEN:
+4145356 CANADA LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER AND DECISION RENDERED ORALLY
+Webb J.
+[1] On Monday morning (November 1, 2010) I read the following in relation to an issue that had been addressed by the parties on Friday, October 29, 2010.
+(a) At the commencement of the Respondent’s case on Friday, the parties addressed an issue related to a rebuttal report that had been prepared by John P. Steines, an expert retained by the Respondent. This report was prepared in rebuttal of the report prepared by H. David Rosenbloom, an expert retained by the Appellant. The Respondent is seeking to introduce, at least in part, the rebuttal report of John P. Steines even though H. David Rosenbloom was not called as a witness by the Appellant.
+(b) Subsections 145(2) and (3) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) provide as follows:
+(2) Unless otherwise directed by the Court, no evidence in chief of an expert witness shall be received at the hearing in respect of an issue unless,
+(a) the issue has been defined by the pleadings or by written agreement of the parties stating the issues,
+(b) a full statement of the proposed evidence in chief of the witness has been set out in an affidavit, the original of which has been filed and a copy of which has been served on all other parties, not less than thirty days before the commencement of the hearing; and
+(c) the witness is available at the hearing for cross-examination.
+(3) Unless otherwise directed by the Court, no evidence of an expert witness shall be led in rebuttal of any evidence tendered in writing under paragraph (2)(b) unless the rebuttal evidence has been reduced to writing in accordance with this section and the original filed and a copy served on all the other parties not less than fifteen days before the commencement of the hearing.
+(c) In this case the Court did otherwise direct that the expert reports and any rebuttals to the expert reports were to be filed earlier than the deadlines as set out in these subsections. By Order of Associate Chief Justice Rossiter dated May 14, 2010, expert reports were to be filed by August 15, 2010 and any rebuttals to the expert reports were to be filed by September 10, 2010. Counsel for the Appellant stated that since the transactions involved were complex transactions, the parties had jointly requested an extension of time within which expert reports and rebuttal reports could be filed. This request was granted by Justice Jorré by an Order dated September 29, 2010. The new deadlines were August 31, 2010 for filing expert reports and September 24, 2010 for filing any rebuttals.
+(d) On August 31, 2010 the Respondent filed a report prepared by John P. Steines and the Appellant filed a report prepared by H. David Rosenbloom. On September 24, 2010 the Respondent filed a report that had been prepared by John P. Steines in rebuttal to the report prepared by H. David Rosenbloom. On September 27, 2010 the parties jointly wrote to the Court to advise the Court that the Appellant had not, as of that date, decided whether to call H. David Rosenbloom as a witness and therefore requested that I not read either the report that had been prepared by H. David Rosenbloom nor the rebuttal report that had been prepared by John P. Steines.
+(e) Since the principal report of John P. Steines addresses issues of the tax laws of the United States, it seems reasonable to conclude that the report of H. David Rosenbloom and the rebuttal report of John P. Steines also deal with the tax laws of the United States. Questions related to foreign law are questions of fact. Justice Rothstein in Backman v. The Queen, (1999), 178 D.L.R. (4th) 126, [1999] F.C.J. No. 1327 (Fed. C.A.), stated as follows:
+38 Where foreign law is relevant to a case, it is a question of fact which must be specifically pleaded and proved to the satisfaction of the Court.
+(f) The Appellant did not call H. David Rosenbloom as a witness during the hearing and the Respondent still wants to introduce the rebuttal report prepared by John P. Steines. Since I have not read the report prepared by H. David Rosenbloom nor the rebuttal to this report prepared by John P. Steines I am unable to comment on the opinions expressed in either one of these reports. However, it is clear that the Respondent believes that the rebuttal report of John P. Steines contains opinions that are relevant. It also appears that there are opinions expressed in John P. Steines’ rebuttal report that address questions that had not been considered when John P. Steines was asked to prepare his principal report.
+(g) It seems to me that a report filed under subsection 145(3) of the Rules is to be restricted to a rebuttal of the evidence of an expert that is contained in a report referred to in subsection 145 (2) of the Rules. Subsection 145(3) of the Rules specifically states that:
+no evidence of an expert witness shall be led in rebuttal of any evidence tendered in writing under paragraph (2)(b) unless the rebuttal evidence has been reduced to writing…[and filed and served by September 24, 2010 in this case]
+(h) Therefore it seems to me that it is not appropriate to introduce in a rebuttal report new expert evidence that does not simply rebut the evidence of another expert. The opposing party (the Appellant in this case) is not provided an opportunity to file a further report in rebuttal of any new opinions expressed in the rebuttal report.
+(i) Counsel for the Respondent had stated that the Respondent was now prejudiced because the Appellant did not call H. David Rosenbloom as a witness during the hearing. I do not agree. Each party has the right to choose whether to call or not to call any particular person as a witness and has the right to not call an expert witness even though a report of such expert was duly filed prior to the commencement of the hearing. Each party has a responsibility to ensure that it will be able to tender the relevant evidence that it wants to introduce at the hearing. In this case, once the Respondent had realized that there were additional opinions that it should have sought from John P. Steines and which ought have been included in his principal report, the Respondent should have brought a motion to amend the principal report, which would also have meant that the deadlines for filing the experts’ reports and the rebuttal reports should also have been amended.
+(j) Paragraph 145(2)(b) of the Rules provides that “no evidence in chief of an expert witness shall be received at the hearing in respect of an issue unless”… “a full statement of the proposed evidence in chief of the witness has been set out in an affidavit” that, in this case, was to have been filed by August 31, 2010. It is clear that some of the evidence in chief of John P. Steines that the Respondent is proposing to introduce was not set out in the report that was attached to the affidavit that was filed by August 31, 2010. Therefore the Respondent is not in compliance with the Order of this Court that set the deadlines for filing the expert reports.
+(k) It is the position of the Appellant that the rebuttal report of John P. Steines should be excluded from evidence because the Respondent is not in compliance with the Court order. It seems to me, however that this is not the only remedy for this breach of the Court order. I accept that the failure to include the additional opinions that were sought of John P. Steines was not deliberate but was simply as a result of counsel for the Respondent not becoming aware of these issues until after the report of John P. Steines had been filed on August 31, 2010.
+(l) As noted by counsel for the Appellant the transactions in this case are complex. The transactions involve a limited partnership that was formed under the laws of Delaware and to which Delaware law will apply. The limited partnership conducted its business in the United States and therefore there are foreign law issues that arise (which as noted above are questions of fact). The amount of the foreign tax credit in issue is significant (approximately $3.2 million) and the determination of this issue may affect subsequent years. Although there was no indication whether the Appellant had been reassessed for any other years, the year under appeal (2003) is the first year that the Appellant became involved in these transactions and since its involvement continued after this year, it seems more likely than not that it continued to claim a foreign tax credit. Assuming that the rebuttal report does contain relevant opinions that relate to the issue that I am to decide and which has been defined by the pleadings, then it seems to me that such opinions should be admitted into evidence provided that the Appellant is provided an opportunity to respond to such report and is not unduly prejudiced. It is important to ensure that there is compliance with the principles of procedural fairness.
+(m) Because the opinions of John P. Steines that the Respondent wants to introduce were expressed in a rebuttal report to which the Appellant did not have any right to file a further rebuttal report, the Appellant would be prejudiced if the hearing were to continue now and the rebuttal report were to be admitted into evidence.
+(n) However, it does not seem to me that there would be any prejudice to the Appellant, that could not be remedied by costs, in adjourning the matter and allowing the Appellant an opportunity to have a rebuttal report prepared and filed by an expert of its choosing. While in some instances there might be a concern about the affect that a delay would have on a witness’ recollection of events that happened several years ago, there is no such concern in this case as the witness for the Appellant who was called to testify about the actual events that did occur, has already testified.
+[2] After reading the above I indicated that:
+(a) As a result:
+(i) the hearing is adjourned;
+(ii) when the hearing resumes the Appellant shall be allowed to reopen its case. There is no prejudice to the Respondent in allowing the Appellant to reopen its case as the Respondent has not yet called any witnesses.
+(iii) The Respondent shall, on or before [a date to be determined], file and serve a revised report of John P. Steines that includes all of the matters on which John P. Steines will be providing evidence in chief;
+(iv) The Appellant shall have until [a date to be determined] to file and serve a rebuttal report to the report of John P. Steines;
+(v) The hearing shall resume on [a date to be determined]; and
+(vi) The Respondent shall pay costs, in any event of the cause, to the Appellant, in an amount to be determined as provided herein. The issue of costs was not addressed by either party. The Appellant and the Respondent shall have the opportunity to try to reach an agreement on the amount of costs that will be paid by the Respondent to the Appellant. If they are unable to agree, then either party may request that this be determined at a hearing which could be held at the conclusion of the argument when this hearing resumes or at some other time.
+[3] A discussion then ensued with respect to the dates that were to be determined for the Respondent to file a consolidated report of its expert and for the filing of a rebuttal report by the Appellant. The dates that were agreed upon were November 15, 2010 for a consolidated report of John P. Steines and December 31, 2010 for the deadline for the Appellant to file and serve a rebuttal report. When the discussion turned to setting a date for the resumption of the hearing, counsel for the Appellant asked for a short break.
+[4] Following the break counsel for the Appellant stated that counsel for both parties had reached an agreement that:
+(a) both reports of John P. Steines would be admitted into evidence without any changes;
+(b) the Appellant was waiving its right to reopen its case and waiving its right to obtain another report as a rebuttal report to the report of John P. Steines;
+(c) the report of H. David Rosenbloom would be admitted into evidence as a rebuttal report to the report of John P. Steines and the Appellant would call H. David Rosenbloom as part of the Appellant’s rebuttal case;
+(d) the hearing would not be adjourned until after John Small testified for the Respondent (which testimony was heard on November 1, 2010); and
+(e) following the testimony of John Small the hearing would be adjourned.
+[5] As a result of the agreement of the parties following my decision and since John Small has now testified:
+(a) the principal report and the rebuttal report prepared by John P. Steines shall be admitted into evidence provided that he is available for cross‑examination when the hearing resumes;
+(b) the report prepared by H. David Rosenbloom shall be admitted into evidence as a rebuttal report to the report of John P. Steines provided that he is available for cross-examination when the Appellant opens its rebuttal case; and
+(c) the hearing is adjourned.
+Signed at Halifax, Nova Scotia, this 8th day of November, 2010.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2010TCC565
+COURT FILE NO.: 2008-2315(IT)G
+STYLE OF CAUSE: 4145356 CANADA LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 29, 2010
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: November 8, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Martha MacDonald
+Counsel for the Respondent:
+Daniel Bourgeois
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji
+Martha MacDonald
+Firm: Osler, Hoskin & Harcourt, LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

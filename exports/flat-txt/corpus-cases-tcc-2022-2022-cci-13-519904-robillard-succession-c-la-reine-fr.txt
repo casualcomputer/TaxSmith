@@ -1,0 +1,230 @@
+Title: Robillard (Succession) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/519904/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-13-519904-robillard-succession-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-01-27
+
+# Robillard (Succession) c. La Reine
+
+- Citation: 2022 CCI 13
+- Decision date: 2022-01-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4430, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robillard (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-01-27
+Référence neutre
+2022 CCI 13
+Numéro de dossier
+2018-1536(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-1536(IT)G
+ENTRE :
+SUCCESSION GEORGES ROBILLARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de la succession de Feu Georges Robillard (2018‑1534(IT)G), les 29 et 30 novembre 2021, à Montréal (Québec)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Martin Delisle
+Me Lisa-Marie Gauthier
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT MODIFIÉ
+Pour les motifs qui suivent, l’appel interjeté à l’encontre de la cotisation pour l’année d’imposition 2013 de l’appelante est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour permettre à l’appelante de déduire 759 000 $ lors du calcul de son revenu.
+Les parties auront jusqu’au 14 février 2022 pour arriver à une entente sur les dépens, à défaut de quoi elles devront déposer leurs observations écrites relatives aux dépens au plus tard le 15 février 2022. Les observations ne devront pas dépasser 10 pages.
+Signé à Ottawa (Canada), ce 27e jour de janvier 2022.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2022 CCI 13
+Date : 20220127
+Dossier : 2018-1536(IT)G
+ENTRE :
+SUCCESSION GEORGES ROBILLARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge Hogan
+I. Introduction
+[1] Le 30 janvier 2018, le ministre du Revenu national (le « ministre ») a ratifié la cotisation établie le 1er juin 2016 à l’égard de la succession de Georges Robillard (la « succession ») pour son année d’imposition 2013.
+[2] Le ministre a considéré que le paragraphe 84(2) de la Loi de l’impôt sur le revenu (la « Loi ») s’appliquait aux distributions indirectes des actifs de la société Gestion Georges Robillard Inc. (« Gesco ») aux légataires de la succession. Selon le ministre, en raison de l’application de cette disposition, la succession a reçu un dividende réputé de 1 567 016 $.
+[3] Les parties m’invitent à examiner l’ensemble des opérations décrites ci‑dessous afin de décider les conséquences fiscales résultant de la distribution des actifs de Gesco. Selon l’intimée, dans ce cas‑ci, la distribution doit être qualifiée de distribution ou d’attribution des fonds ou des biens de Gesco à la succession lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de l’entreprise de Gesco. Cette qualification entraîne l’application du paragraphe 84(2) de la Loi. L’appelante défend la position contraire.
+[4] Les parties m’ont également demandé de décider si, vu le paragraphe 84(2), la succession peut déduire dans sa déclaration de revenus pour 2013 les sommes versées aux légataires en application du paragraphe 104(6) de la Loi.
+II. Les faits
+[5] M. Georges Robillard (« M. Robillard ») est décédé le 18 juin 2012. Cela a donné lieu à l’ouverture de la succession.
+[6] Au moment de son décès, M. Robillard était propriétaire de toutes les actions émises et en circulation d’une société privée résidant au Canada, Gesco. Cette société était une société de portefeuille qui détenait les placements de M. Robillard.
+[7] M. Robillard a légué les actions de Gesco en trois parts égales à ses légataires universels, Jean, Guy et Monique Robillard.
+[8] En raison du décès, M. Robillard est réputé avoir disposé de ses actions de Gesco à leur juste valeur marchande (la « JVM »). La disposition réputée a mené à un gain en capital de 1 912 467 $, qu’on a indiqué dans la déclaration finale de M. Robillard.
+[9] Afin d’éviter la double imposition résultant de la disposition réputée et de la distribution des actifs de Gesco à la succession, les liquidateurs ont mis en œuvre une planification fiscale communément appelée « pipeline post‑mortem ». La succession a procédé à la série d’opérations décrite au paragraphe suivant en se fondant sur les conseils de son fiscaliste. Les opérations en cause visaient principalement à utiliser le prix de base rajusté (le « PBR ») élevé provenant de la disposition réputée des actions de Gesco afin de distribuer les actifs de Gesco sous forme de capital.
+[10] En résumé, la succession a procédé aux opérations suivantes :
+Le 7 novembre 2012, on a constitué une nouvelle société, 9272‑0424 Québec Inc. (« 9272 »).
+Le 17 janvier 2013, la succession a transféré les actions de Gesco à 9272 en contrepartie d’un billet ayant une valeur nominale égale au PBR et à la JVM des actions de Gesco.
+Le 18 janvier 2013, Gesco a été liquidé dans avec 9272.
+Le billet émis par 9272 a été remboursé le 8 février 2013.
+Les liquidateurs, en produisant la déclaration de revenus de la succession pour son année d’imposition terminée le 6 avril 2013, n’ont déclaré ni gain ni perte en capital découlant de la disposition des actions de Gesco à 9272.
+[11] Avant les opérations susmentionnées, la succession avait effectué deux remaniements du capital de Gesco. Gesco a d’abord racheté 1 415,64 actions de catégorie « D » détenues par la succession pour 141 564 $ afin que la succession puisse profiter de son compte de dividende en capital. Gesco a ensuite racheté 2 104,20 actions de catégorie « D » détenues par la succession pour 210 420 $ afin que Gesco puisse profiter de son solde d’impôt en main remboursable au titre de dividende.
+[12] Ces remaniements du capital ont donné lieu au capital‑actions suivant :
+Catégorie
+Capital versé
+PBR
+JVM
+100 actions de catégorie « A »
+100 $
+66 $
+19 $
+100 actions de catégorie « B »
+59 $
+1 $
+100 $
+15 670,16 actions de catégorie « D »
+1 $
+1 567 016 $
+1 567 016 $
+[13] La succession a ensuite vendu toutes ses actions de Gesco à 9272 contre l’émission d’un billet de 1 587 866 $ remboursable sur demande.
+[14] Avant l’audience, l’appelante a déposé un avis d’appel modifié afin d’inclure les distributions effectuées par la succession aux légataires pendant sa première année d’imposition. Ces distributions sont de 759 000 $.
+[15] L’intimée n’a pas admis l’existence de ces distributions, mais l’appelante a produit des éléments de preuve bancaires pour Guy Robillard. Jean et Guy Robillard ont également témoigné durant l’audience, et Monique Robillard a, avec le consentement de l’intimée, déposé un affidavit qui confirme les distributions.
+[16] Les deux témoins de l’appelante étaient crédibles et fiables. Je conclus que l’appelante a satisfait à son fardeau de la preuve sur cette question.
+III. Analyse
+A. L’application du paragraphe 84(2) de la Loi
+[17] Le paragraphe 84(2) de la Loi, la disposition au cœur du présent litige, est libellé comme suit :
+84(2) Distribution lors de liquidation, etc. — Lorsque des fonds ou des biens d’une société résidant au Canada ont, à un moment donné après le 31 mars 1977, été distribués ou autrement attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires de tout [sic] catégorie d’actions de son capital‑actions, lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise, la société est réputée avoir versé au moment donné un dividende sur les actions de cette catégorie, égal à l’excédent éventuel du montant ou de la valeur visés à l’alinéa a) sur le montant visé à l’alinéa b) :
+a) le montant ou la valeur des fonds ou des biens distribués ou attribués, selon le cas;
+b) le montant éventuel de la réduction, lors de la distribution ou de l’attribution, selon le cas, du capital versé relatif aux actions de cette catégorie;
+chacune des personnes qui détenaient au moment donné une ou plusieurs des actions émises est réputée avoir reçu à ce moment un dividende égal à la fraction de l’excédent représentée par le rapport existant entre le nombre d’actions de cette catégorie qu’elle détenait immédiatement avant ce moment et le nombre d’actions émises de cette catégorie qui étaient en circulation immédiatement avant ce moment.
+[18] Selon la Cour d’appel fédérale (la « CAF ») dans la décision R. c. MacDonald [1] , le paragraphe 84(2) de la Loi s’applique lorsque les faits suivants sont réunis :
+1) une société résidant au Canada;
+2) qui fait l’objet d’une liquidation, cessation d’exploitation ou réorganisation;
+3) et dont les fonds ou les biens sont distribués ou autrement attribués, de quelque façon que ce soit;
+4) aux actionnaires ou à leur profit [2] .
+[19] Premièrement, selon l’intimée, il est admis que Gesco était une société résidant au Canada. Deuxièmement, toujours selon l’intimée, la série d’opérations décrite au paragraphe 10 a mis fin à l’exploitation de Gesco. Troisièmement, au début des opérations, les actions de Gesco détenues par la succession avaient une JVM de 1 587 866 $, et enfin, à la fin de la série d’opérations, la succession possédait les actifs de Gesco.
+[20] Dans MacDonald, la CAF a conclu que le paragraphe 84(2) s’appliquait, puisque M. MacDonald était à l’origine de la liquidation et que c’était lui qui avait reçu les fonds de la société après la liquidation.
+[21] L’intimée prétend que les opérations effectuées par la succession sont presque identiques aux opérations dans la décision MacDonald.
+[22] La règle du stare decisis exige que j’applique les décisions des tribunaux supérieurs, que je partage le raisonnement de la CAF dans MacDonald ou non. Ainsi, je suis lié par les conclusions de la CAF.
+[23] Ceci étant dit, je crois qu’il est utile de discuter de certaines prétentions de l’appelante, puisque la décision MacDonald a créé beaucoup d’incertitude. L’appelante ajoute de nouveaux arguments et reprend les arguments invoqués par l’intimé et rejetés par la CAF dans la décision MacDonald. Ces arguments avaient toutefois été acceptés par le juge de première instance.
+(1) La décision MacDonald
+[24] En première instance, notre Cour avait reconnu que le Dr MacDonald était créancier de l’acheteur intermédiaire et qu’il avait reçu des fonds en sa qualité de créancier et non d’actionnaire. Comme je l’ai indiqué précédemment, la CAF a explicitement rejeté cette conclusion, puisque l’utilisation de l’expression « de quelque manière que ce soit » au paragraphe 84(2) devait se rapporter à une série d’événements qui fait partie du processus de liquidation [3] .
+[25] La CAF a conclu que cette expression avait un sens large et visait également la distribution des actifs d’une société à une personne qui n’était plus actionnaire de la société au moment de la distribution.
+[26] L’intimé dans la décision MacDonald a soutenu que cette expression ne visait qu’une distribution faite, de quelque manière que ce soit, à une personne qui était actionnaire de la société au moment de la distribution.
+[27] Avant MacDonald, il y avait deux façons d’éviter la double imposition découlant de la disposition réputée des actions d’une société lors d’un décès. Suivant la première façon, la succession liquidait une société de portefeuille durant l’année suivant le décès. La liquidation entraînait à la fois un dividende réputé pour la succession durant sa première année d’imposition et une perte en capital pouvant être déduite du gain en capital du défunt pour sa dernière année d’imposition. La seconde façon consistait à faire l’opération appelée « pipeline post‑mortem » décrite précédemment. Il s’agit de la méthode utilisée par la succession en l’espèce pour éviter la double imposition.
+[28] L’incertitude causée par la décision MacDonald provient principalement de l’ambiguïté quant au délai à respecter pour éviter l’application du paragraphe 84(2). Lorsqu’un contribuable entreprend une opération de type « pipeline » pour procéder à la liquidation d’une société de portefeuille, doit‑il attendre 12 mois, 24 mois ou 36 mois avant de compléter l’opération et de distribuer les actifs de la société de portefeuille?
+[29] On constate que les fonctionnaires de l’Agence du revenu du Canada (l’« ARC ») partagent cette incertitude. Par exemple, la vérificatrice chargée de la vérification en l’espèce s’est exprimée comme suit sur l’effet de la décision MacDonald sur le « pipeline post‑mortem » :
+Afin de mieux comprendre le contexte et la politique de l’Agence au sujet des stratégies « pipeline post‑mortem », nous avons inclus, en annexe, un texte qui est une mise à jour au sujet de ces stratégies. La position récente de l’Agence, dans ce texte, provient de la décision 2011‑0401861C6 qui précise les situations pouvant entraîner l’application du paragraphe 84(2) de la Loi de l’impôt sur le revenu dans le contexte d’une stratégie pipeline. Le texte mentionne que les situations ou les circonstances pouvant entraîner l’application du paragraphe 84(2) pourraient comprendre les suivantes :
+• les fonds ou les biens de la société transférée sont distribués à la succession rapidement après le décès du contribuable;
+• les actions de la société transférée sont liquides, et la société n’exerce aucune activité et n’exploite aucune entreprise.
+[30] Les conditions mentionnées par la vérificatrice sont‑elles cumulatives? Ces conditions semblent indiquer que le paragraphe 84(2) s’applique lorsque les biens sont distribués « rapidement » après le décès, mais qu’entend l’ARC par l’utilisation du terme « rapidement »?
+[31] Dans ses prétentions écrites, l’appelante a renvoyé à plusieurs décisions qui s’entendent pour dire que ce n’est pas le rôle du tribunal, et encore moins de l’administration publique, de restreindre le libellé d’une disposition par des exceptions qui n’y apparaissent pas.
+[32] En raison de la décision MacDonald, les contribuables doivent, pour obtenir de la certitude sur l’application ou non du paragraphe 84(2), obtenir une décision anticipée favorable de l’ARC avant de procéder à une planification post‑mortem. Les conseillers qui ne le font pas exposent leurs clients à des risques. L’effet de la décision est d’accorder en fait un pouvoir discrétionnaire à l’ARC quant à l’application du paragraphe 84(2).
+[33] Récemment, la juge Côté, dans le premier paragraphe de l’arrêt Canada c. Alta Energy Luxembourg S.A.R.L. [4] , s’est exprimée sur l’importance de la certitude dans un système d’autocotisation tel que le nôtre :
+Les principes de prévisibilité, de certitude et d’équité ainsi que le respect du droit des contribuables à la réduction maximale légitime de l’impôt constituent la pierre angulaire du droit fiscal [5] . [...]
+[34] Il me semble que la décision MacDonald nous éloigne de ce principe. Comme l’avait mentionné la Cour suprême du Canada dans l’arrêt Hypothèques Trustco Canada c. Canada [6] , notre système est fondé sur l’autocotisation et, à ce titre, il faut des règles uniformes, prévisibles et équitables afin de respecter le droit des contribuables de planifier intelligemment leurs affaires fiscales [7] .
+(2) Distinctions avec MacDonald
+[35] Dans ses prétentions écrites, l’appelante signale qu’il faut distinguer un « pipeline post‑mortem » de la situation dans la décision MacDonald. Il est vrai que le juge Hershfield de la Cour canadienne de l’impôt (la « CCI ») a comparé les faits dans cette affaire à un « pipeline post-mortem », mais la CAF n’a, quant à elle, pas traité de cette stratégie.
+[36] Il n’est pas contesté qu’un « pipeline post‑mortem » vise à éviter la double imposition résultant de la disposition réputée au décès et de la distribution subséquente des actifs de la société à la succession. Selon l’appelante, cette technique respecte la volonté du législateur voulant que le contribuable ait un gain en capital lors de son décès. L’appelante allègue qu’on peut dégager l’intention du législateur du début du paragraphe 70(5) de la Loi qui prévoit qu’au décès, un contribuable est réputé disposer de ses immobilisations à leur JVM, ce qui mène à un gain en capital.
+[37] L’appelante soutient que le législateur n’a pas voulu qu’il y ait imposition double d’un même bien lorsqu’il a adopté le paragraphe 84(2), puisque le taux marginal combiné si le paragraphe 84(2) s’ajoutait au paragraphe 70(5) serait de 70,49 %.
+[38] De plus, l’adoption du paragraphe 164(6) de la Loi témoigne de la sensibilité du législateur face à cette double imposition, puisque cette disposition prévoit la déduction de la perte en capital subie par la succession dans la dernière déclaration du défunt.
+[39] En l’espèce, dès la vérification, l’ARC s’est apparemment engagée, à la suite de la demande du contribuable, à déduire la perte en capital découlant de l’application du paragraphe 84(2) du gain en capital du défunt. Si la Cour confirme la position de l’intimée dans cette affaire, les parties sont d’accord pour qu’il y ait cette déduction, si le paragraphe 84(2) s’applique.
+[40] Évidemment, l’appelante a indiqué que le ministre n’avait pas respecté son engagement et donc que le risque de double imposition persistait. Cette réalité mérite un commentaire supplémentaire. Le fait que le paragraphe 164(6) prévoie qu’on ne puisse déduire la perte que lorsque celle‑ci se produit durant la première année d’imposition de la succession crée une incertitude quant au délai nécessaire avant que les fonds puissent être distribués lors d’une opération « pipeline ». Selon la thèse de l’ARC, on ne peut éviter l’application du paragraphe 84(2) qu’après la première année de la succession, mais il est alors trop tard pour déduire la perte en capital.
+(3) La pertinence des décisions Merritt et Smythe
+[41] L’appelante souligne que le contexte légal du paragraphe 84(2) est très différent de celui dans les décisions Minister of National Revenue v. Merritt [8] et Smythe c. Ministre du revenu national [9] , deux décisions rendues par la Cour suprême du Canada et suivies par la CAF dans la décision MacDonald.
+[42] En effet, ces deux décisions ont été rendues à une époque où les gains en capital n’étaient pas imposables. Avant le rapport Carter de 1972, en l’absence d’autres règles, la liquidation d’une société canadienne était traitée comme une opération en capital selon les règles habituelles. Ainsi, lors de l’adoption du paragraphe 84(2) actuel, et contrairement à la situation dans les décisions Merritt et Smythe, qui datent toutes deux d’avant 1972, un gain en capital était assujetti à l’impôt.
+[43] Dans la première décision qu’a suivie la CAF, Merritt, la société a transféré ses actifs à une nouvelle société et a exigé que la contrepartie payée pour les actifs soit remise directement à ses actionnaires. Dans ce cas, on peut effectivement convenir que la société a elle‑même distribué la contrepartie à ses actionnaires. Ainsi, cette décision n’étaye pas nécessairement la thèse selon laquelle le terme « de quelque manière que ce soit » vise une distribution faite par une autre société en contrepartie du transfert des actions d’une société de portefeuille.
+[44] Dans la seconde décision retenue par la CAF dans MacDonald, la décision Smythe, l’ancienne société a vendu son entreprise à une nouvelle société à la suite d’une opération en capital. Les actionnaires de l’ancienne société ont ensuite vendu leurs actions à deux sociétés créées expressément pour les acheter. L’ancienne société a par la suite utilisé le produit reçu pour acheter des actions privilégiées des sociétés acquéresses afin de régler le financement du prix d’achat payé par ces dernières. À la Cour de l’Échiquier, le juge a conclu que la règle anti‑évitement à l’article 138 devrait s’appliquer plutôt que le paragraphe 81(1), qui est à l’origine du paragraphe 84(2). Les juges de la Cour suprême ont examiné le résultat de l’opération et ont conclu que le paragraphe 81(1) devait s’appliquer, puisque les opérations étaient artificielles. Il ne faut pas perdre de vue que la Cour suprême du Canada, dans l’arrêt Shell Canada Ltd. c. Canada [10] , a ensuite précisé « qu’en l’absence d’une disposition expresse contraire de la Loi ou d’une conclusion selon laquelle l’opération en cause est un trompe‑l’œil, les rapports juridiques établis par le contribuable doivent être respectés en matière fiscale » [11] . La seule exception à ce principe semble être l’application possible de la règle générale anti‑évitement. En outre, la décision rendue dans Smythe était favorable au contribuable, puisque le fait de recevoir un dividende réputé lui permettait d’avoir accès à un crédit d’impôt pour dividende conformément à l’article 38 de la Loi à l’époque. On peut donc s’interroger sur la pertinence de cette décision aujourd’hui, puisqu’un gain en capital est désormais imposable et que le législateur a établi les circonstances dans lesquelles un transfert d’actions à une société privée peut mener à un dividende réputé.
+(4) Le texte du paragraphe 84(2)
+[45] De plus, le texte du paragraphe 84(2) est beaucoup plus précis quant au moment où le dividende réputé est versé et reçu et quant aux personnes qui doivent inclure le dividende réputé dans leur revenu. Les anciennes versions de cette disposition, à savoir le paragraphe 19(1) de la Loi de l’impôt de guerre sur le revenu et le paragraphe 81(1) de la Loi de l’impôt sur le revenu de 1952, étaient beaucoup moins précises à ces égards. Ces dispositions étaient libellées comme suit :
+19(1) Lors de la liquidation, de la cessation ou de la réorganisation des opérations d’une compagnie constituée en corporation, la distribution, sous quelque forme que ce soit, des biens de la compagnie est censée le paiement d’un dividende dans la mesure où la compagnie a en sa possession un revenu non distribué.
+81(1) Lorsque, au moment où la corporation avait en main un revenu non distribué, des fonds ou des biens d’une corporation ont, de quelque façon, été distribués à un ou plusieurs de ses actionnaires, ou autrement affectés à leur avantage, lors de la liquidation, de la cessation ou de la réorganisation de son entreprise, chaque actionnaire est censé avoir reçu à cette époque un dividende égal au moindre
+a) du montant des fonds ou de la valeur des biens ainsi distribués ou à lui affectés, ou
+b) de sa portion du revenu non distribué alors en main.
+[46] L’expression « moment donné » est utilisée à plusieurs endroits dans la version actuelle de la disposition. Voici une version annotée de la disposition en français et en anglais.
+84(2) Lorsque des fonds ou des biens d’une société résidant au Canada ont, à un moment donné après le 31 mars 1977, été distribués ou autrement attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires de tout [sic] catégorie d’actions de son capital-actions, lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise, la société est réputée avoir versé au moment donné (au moment de la distribution) un dividende sur les actions de cette catégorie, égal à l’excédent éventuel du montant ou de la valeur visés à l’alinéa a) sur le montant visé à l’alinéa b) :
+a) le montant ou la valeur des fonds ou des biens distribués ou attribués, selon le cas;
+b) le montant éventuel de la réduction, lors de la distribution ou de l’attribution, selon le cas, du capital versé relatif aux actions de cette catégorie;
+chacune des personnes qui détenaient au moment donné (au moment de la distribution) une ou plusieurs des actions émises est réputée avoir reçu à ce moment (au moment de la distribution) un dividende égal à la fraction de l’excédent représentée par le rapport existant entre le nombre d’actions de cette catégorie qu’elle détenait immédiatement avant ce moment (le moment de la distribution) et le nombre d’actions émises de cette catégorie qui étaient en circulation immédiatement avant ce moment (le moment de la distribution).
+84(2) Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time (at the time of the distribution) a dividend on the shares of that class equal to the amount, if any, by which
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be
+exceeds
+(b) the amount, if any, by which the paid-up capital in respect of the shares of that class is reduced on the distribution or appropriation, as the case may be,
+and a dividend shall be deemed to have been received at the time (at the time of distribution) by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time (the time of distribution) is of the number of the issued shares of that class outstanding immediately before that time (the time of distribution).
+[47] Avec égards, à mon avis, l’interprétation de la CAF dans la décision MacDonald ne tient pas compte de l’expression très claire « au moment donné ». Or, en ne tenant pas compte de ces mots, il me semble qu’on oublie le principe bien établi selon lequel le législateur ne parle pas pour rien dire. Cette expression a un sens très précis; on la retrouve au début et à la fin du paragraphe 84(2) pour indiquer à la fois le moment où le dividende est réputé versé et le moment où le dividende est réputé être reçu et par qui. Le moment où le dividende est réputé versé correspond au moment où la distribution est complétée. De plus, le dividende est réputé reçu par les personnes qui étaient actionnaires à ce moment.
+[48] Donc, en l’espèce, c’est 9272 qui était actionnaire de Gesco au moment de la liquidation de et la distribution faite par cette dernière. C’est également 9272 qui a reçu les actifs de Gesco. Le paragraphe 84(2) ne s’applique pas à 9272; ce n’est pas parce que les termes utilisés par le législateur ne visent pas cette situation, mais plutôt parce que le législateur a prévu une exception expresse à l’application du paragraphe 84(2) lorsque les conditions de l’article 88(2) sont satisfaites [12] . Je crois que le législateur était pleinement conscient que le paragraphe 84(2) serait applicable si ce n’était de cette exception spécifique.
+[49] À mon avis, ces deux dispositions, qui semblent à première vue contradictoires, peuvent être réconciliées. Le paragraphe 84(2) s’applique lorsque des fonds ou actifs d’une société sont distribués ou attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires au moment de la distribution dans les circonstances prévues au paragraphe 84(2).
+[50] À mon avis, suivant la décision de la CAF dans MacDonald, en l’espèce, la distribution des actifs de Gesco à son ancien actionnaire a été faite lors du remboursement du billet de 9272 détenu par la succession.
+[51] L’interprétation donnée par le ministre et acceptée dans MacDonald donne lieu à d’autres problèmes. Prenons l’exemple suivant. Un contribuable contribue 1 000 000 $ à une société de portefeuille en souscrivant à des actions ordinaires ayant un capital versé (« CV ») et un PBR de 1 000 000 $. Lors du décès du contribuable, les actions ont une JVM de 4 000 000 $. La disposition réputée des actions mène à un gain en capital de 3 000 000 $. La succession crée une nouvelle société et vend les actions de la société de portefeuille à la nouvelle société pour un billet. Si on lit le paragraphe 84(2) selon l’interprétation du ministre, soit textuellement, le dividende réputé serait de 4 000 000 $ et non de 3 000 000 $, puisque le CV des actions n’a pas été réduit lors du remboursement du billet ou lors de la distribution des actifs de la société de portefeuille à la succession. En effet, la réduction du capital versé a eu lieu avant le moment donné, soit lors de la liquidation de Gesco dans 9272. En plus de subir une imposition double, la succession aurait une imposition supérieure que si elle avait simplement procédé à la liquidation de la société ou si elle avait vendu les actions à un tiers.
+[52] Par ailleurs, même si on ne conteste pas que l’article 84.1 ne s’applique pas en l’espèce, l’application du paragraphe 84(2) de la façon proposée par le ministre ne tient pas compte de l’application de cette disposition. L’article 84.1 vise justement à convertir des distributions en capital en dividende réputé lorsqu’une personne liée utilise l’exonération pour un gain en capital ou la valeur accumulée avant 1971 pour dépouiller une société de ses surplus.
+[53] Nonobstant tous ces commentaires, et même si la cause de l’Appelante a, avec égard pour la décision de la CAF, du mérite, seule la CAF pourra réexaminer la décision MacDonald.
+B. La succession peut-elle déduire de son revenu pour 2013 les sommes versées aux légataires en application du paragraphe 104(6)?
+[54] Deux témoins trouvés crédibles par la Cour, l’affidavit d’un des légataires et des éléments de preuve bancaires ont démontré que la succession a versé 759 000 $ aux légataires.
+[55] La succession a traité ces distributions comme des versements en capital car elle pensait, en raison des recommandations de ses conseilleurs, que le paragraphe 84(2) ne s’appliquait pas.
+[56] Je dois donner effet au paragraphe 84(2) en appliquant les critères utilisés par la CAF dans MacDonald. Par conséquent, la succession est réputée avoir reçu un dividende de 1 567 016 $. La succession a utilisé 759 000 $ du dividende réputé pour faire des distributions aux trois légataires de la succession pendant son année d’imposition 2013.
+[57] L’appelante prétend qu’elle est en mesure de demander cette déduction, même si elle ne l’avait pas fait. Je partage l’avis de l’appelante sur ce point.
+[58] L’intimée conteste cette position, car la succession a traité les distributions comme des distributions en capital et elle n’était pas actionnaire lorsqu’elle est réputée avoir reçu le dividende.
+[59] La question dont la Cour est saisie est de déterminer l’exactitude du calcul de l’impôt par le ministre dans la nouvelle cotisation.
+[60] L’appelante, dans son avis d’appel, demande une déduction en vertu du paragraphe 104(6). Cette disposition prévoit que lorsqu’une partie du revenu de la succession « est devenue à payer », c’est‑à‑dire qu’elle a été payée au bénéficiaire ou que le bénéficiaire avait le droit d’en exiger le paiement [13] , la succession a droit à une déduction. Il ne fait aucun doute qu’avant d’avoir été payée, la somme était payable.
+[61] Je profite également de l’occasion pour rappeler que ce ne sont pas les liquidateurs de la succession qui décident de la nature du revenu; c’est la Loi qui établit si le revenu est un revenu en capital ou non. Dans la décision Brown c. La Reine [14] , la Cour fédérale a bien indiqué que c’est la Loi qui déterminait la nature du revenu aux fins de l’impôt.
+IV. Conclusion
+[62] Pour les motifs exposés précédemment, l’appel interjeté à l’encontre de la cotisation pour l’année d’imposition 2013 de l’appelante est accueilli et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour permettre à l’appelante de déduire 759 000 $ lors du calcul de son revenu.
+Signé à Ottawa (Canada), ce 27e jour de janvier 2022.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2022 CCI 13
+No DU DOSSIER DE LA COUR :
+2018-1536(IT)G
+INTITULÉ :
+SUCCESSION GEORGES ROBILLARD ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 29 et 30 novembre 2021
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT MODIFIÉ:
+Le 27 janvier 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Martin Delisle
+Me Lisa-Marie Gauthier
+Avocate de l’intimée :
+Me Anne Poirier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Martin Delisle
+Lisa-Marie Gauthier
+Cabinet :
+De Grandpré Chait
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] 2013 CAF 110 (MacDonald).
+[2] Ibid., au par. 17.
+[3] Ibid., au par. 28.
+[4] 2021 CSC 49.
+[5] Ibid., au par. 1.
+[6] 2005 CSC 54, [2005] 2 R.C.S. 601.
+[7] Ibid., au par. 12.
+[8] [1942] R.C.S. 269 (Merritt).
+[9] [1970] R.C.S. 64 (Smythe).
+[10] [1999] 3 R.C.S. 622.
+[11] Ibid., au par. 39.
+[12] Le législateur veut qu’il y ait un « roulement » complet lors de la liquidation.
+[13] Par. 104(24) de la Loi.
+[14] Brown c. La Reine, [1980] 2 C.F. 356.

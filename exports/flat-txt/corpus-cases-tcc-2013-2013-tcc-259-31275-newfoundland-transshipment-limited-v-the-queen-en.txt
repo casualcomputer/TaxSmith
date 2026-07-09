@@ -1,0 +1,177 @@
+Title: Newfoundland Transshipment Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31275/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-259-31275-newfoundland-transshipment-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-08-20
+
+# Newfoundland Transshipment Limited v. The Queen
+
+- Citation: 2013 TCC 259
+- Decision date: 2013-08-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5116, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Newfoundland Transshipment Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-08-20
+Neutral citation
+2013 TCC 259
+File numbers
+2013-427(IT)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-427(IT)APP
+BETWEEN:
+NEWFOUNDLAND TRANSSHIPMENT LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 5, 2013 at Halifax, Nova Scotia.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Applicant:
+Sara L. Scott
+Paul Festeryga
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+ORDER
+The application for an Order extending the time within which a Notice of Objection to the assessments made under the Income Tax Act for the 2002, 2003, 2004 and 2005 taxation years may be served is dismissed. This Court does not have the jurisdiction to grant the said application.
+Signed at Toronto, Ontario, this 20th day of August 2013.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2013 TCC 259
+Date: 20130820
+Docket: 2013-427(IT)APP
+BETWEEN:
+NEWFOUNDLAND TRANSSHIPMENT LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Auray J.
+[1] This is an application for an Order extending the time within which the applicant, Newfoundland Transshipment Limited (“NTL”), may serve a Notice of Objection in respect of the taxation years ending on December 31, 2002, December 31, 2003, December 31, 2004 and December 31, 2005.
+Facts
+[2] NTL operated a marine transhipment facility that handled crude oil production from the Hibernia, Terra Nova and White Rose fields, located offshore of Newfoundland and Labrador.
+[3] By letter dated April 17, 2007, NTL filed amended tax returns for the taxation years ending on December 31, 2002, December 31, 2003, December 31, 2004 and December 31, 2005 (“years in issue”), requesting an amendment to its capital cost allowance (“CCA”) classes.
+[4] In initially filing its tax returns for the years in issue, NTL erroneously classified its pipeline as a Class 1 asset instead of a Class 6 asset. The difference between a Class 1 asset and a Class 6 asset is significant since Class 1 has a depreciation rate of 4% and Class 6 has a depreciation rate of 10%.
+[5] In filing its income tax returns for the subsequent taxation years, namely for the taxation years 2006, 2007, 2008, 2009 and 2010[1], NTL classified the pipeline as a Class 6 asset and claimed the CCA deduction accordingly.
+[6] The Minister of National Revenue (the “Minister”) took the position that the pipeline qualified as a Class 1 asset and not as a Class 6 asset. In a letter dated February 1, 2012, (the “February letter”) the Minister wrote the following to NTL:
+February 1, 2012
+Newfoundland Transshipment Limited
+PO Box 248 Stn C
+3rd Floor Baine Johnson Centre
+St John’s, NL, A1C 5J2
+Attn: Mr. Paul Adams
+Re: Review of income tax returns for the period from 2002-12-01 to 2010-12-31
+BN: XXXXXX892
+We have completed our audit of your income tax returns. Our review was limited to the issue of a pipeline that you had included on T2 Schedule 8 in Class 6. We have determined that the pipeline should be included in Class 1.
+Please see working paper # 800 for a summary of our proposed adjustments. Further details and adjustments can be found in the attached working papers.
+If you have any questions or concerns about the proposed adjustments, or if you have additional information that may affect the adjustments please call me at the number listed below before March 2, 2012.
+If we do not hear from you before March 2, 2012, we may make the adjustments as proposed. If this is the case, a Notice of Reassessment will be issued to you at that time.
+Yours truly,
+(s) Dean Williams
+Dean Williams
+Audit Division
+Tax Services Office: 01 – Newfoundland & Labrador
+Enclosures
+cc: Mr. Brian Brophy, via facsimile
+[7] On April 24, 2012 the Minister also wrote to NTL informing it that the audit for the 2006 to the 2010 taxation years were completed and that NTL would be reassessed as per the February letter. The pipeline would be removed from Class 6 and be reassessed under Class 1. With respect to the 2002 to the 2005 taxation years, the Minister indicated that the request to adjust the CCA had been denied. However, due to the departmental delay in treating the original request filed on April 17, 2007, interest relief under the taxpayer relief provisions would be granted for the period of April 17, 2007 up to November 2011, date of the commencement of the auditor’s review.
+[8] On August 29, 2012, NTL filed a Notice of Objection with the Minister with respect to the Notices of Reassessment dated June 4, 2012 for the 2006 to 2010 taxation years. NTL also requested that the Minister issue reassessments for the years in issue to reflect the changes made by NTL in its amended returns with respect to the pipeline for CCA purposes.
+[9] On September 21, 2012, the Minister informed NTL that 2002 taxation year was a nil assessment. In addition, the Minister stated that the Notices of Objection for 2002 to 2005 taxation years were filed late. The Minister also informed NTL that an application for an extension of time could not be granted since it was not made by NTL within the one year of the expiration of the time limit for serving a Notice of Objection pursuant to paragraph 166.1(7)(a) of the Income Tax Act (the “Act”). With respect to the Notices of Objection for the 2006 to 2010 taxation years, the Minister informed NTL that they would be assigned and reviewed by an appeal officer of the Canada Revenue Agency (the “CRA”).
+[10] By letter dated October 10, 2012, NTL filed a Notice of Objection for the years in issue.
+[11] On October 31, 2012 the Minister informed NTL that the Notice of Objection was filed late and that an extension of time for serving a Notice of Objection could not be granted for the reasons previously stated in his letter of September 21, 2012.
+[12] On January 24 2012, NTL filed with this Court an application for an extension of time for serving a Notice of Objection for the years in issue.
+[13] For ease of reference, I have set out for the years in issue, the dates that NTL was assessed and the time limits it had for serving the Notices of Objection and for filing an application for an extension of time for serving a Notice of Objection as well as to the dates when the years in issue became statute-barred:
+2002 Taxation Year
+Assessed: July 23, 2003
+Time for Objection: October 20, 2003
+Time for Extension: October 20, 2004
+Statute-barred: July 23, 2007
+2003 Taxation Year Assessed: June 29, 2004
+Time for Objection: September 24, 2004
+Time for Extension: September 26, 2005
+Statute-barred: June 29, 2008
+2004 Taxation Year Assessed: May 18, 2005
+Time for Objection: August 16, 2005
+Time for Extension: August16, 2006
+Statute-barred: May 18, 2009
+2005 Taxation Year Assessed: June 23, 2006
+Time for Objection: November 28, 2006
+Time for Extension: November 28, 2007
+Statute-barred: June 23, 2010
+[14] It is to be noted, that at the time NTL filed its amended tax returns on April 17, 2007, none of the years in issue were statute-barred. It was open to the Minister to make the adjustments requested by NTL. However, the time limit for serving a Notice of Objection had elapsed and except for the 2005 taxation, the time for filing an application for an extension of time for serving a Notice of Objection had also elapsed.
+[15] A waiver was not filed by NTL for any of the years in dispute.
+NTL’s position
+[16] NTL argued that the February letter constituted a reassessment for the years in issue. Therefore, NTL was still within the time limit for filing with this Court an application for an extension of time for serving a Notice of Objection.
+[17] In addition, NTL stated that it relied on the policy adopted by the CRA with respect to amended returns; namely that under some conditions, amended returns will be considered by the CRA as the facto waivers. If the CRA would have applied the policy to NTL, the years in issue would still be opened.[2]
+Analysis
+[18] Before dealing with the argument of NTL that the February letter constituted a reassessment, I will first deal with the obligation of the Minister with respect to amended returns and then with the argument that if the CRA had applied the policy on amended returns to NTL, the years in issue would not be statute-barred.
+[19] The Federal Court of Appeal considered the effect of amended returns in Armstrong v The Queen, 2006 DTC 6310. Justice Sharlow, writing for the Court, makes it clear that a request to amend an income tax return will not necessarily result in a reassessment, as it is merely a request to the Minister. At paragraph 8 of her reasons, she states:
+[8] An amended return for a taxation year that has already been the subject of a notice of assessment does not trigger the Minister's obligation to assess with all due dispatch (subsection 152(1) of the Income Tax Act), nor does it start anew any of the statutory limitation periods that commence when an income tax return for a particular year is filed and then assessed. An amended income tax return is simply a request that the Minister reassess for that year.
+[20] This Court has held that the Minister cannot be compelled to accept an amended return. In the decision of Imperial Oil Ltd v R, 2003 DTC 179[3], Bowman, A.C.J., stated as follows at paragraph 38:
+[38] […] There is no mechanism whereby the Minister can be compelled to accept an amended return or to act upon it if he chooses not to. […]
+[21] It is clear from these decisions that the Minister does not have to accept or act upon an amended return and reassess a taxpayer. Therefore, the Minister did not have to make the adjustments requested by NTL to its CCA for the years in issue.
+[22] With respect to the CRA policy to consider amended income tax returns as a waiver, this Court is not bound by a policy of CRA. Moreover, this Court does not have the jurisdiction to compel the Minister to assess nor does this Court have the jurisdiction to decide that the Minister was not reasonable in exercising his discretion.
+[23] Turning now to NTL’s argument that the February letter constituted a reassessment, NTL submitted the following in its Application for an Extension of time for serving a Notice of Objection:
+The February Letter concluded:
+If we do not hear from you before March 2, 2012, we may make the adjustments as proposed. If this is the case, a Notice of Reassessment will be issued to you at that time.
+As a result of receiving the February Letter, the applicant was led to believe that subsequent notices of reassessment would be forthcoming, in the form normally issued by the Canada Revenue Agency (“CRA”).
+The Minister did not issue further Notices of Reassessment for the Taxation Years, although did with respect to subsequent years, by way of letter dated April 24, 2012 (the “April Letter”). In the April Letter, the Minister stated:
+We have completed our review of the above noted income tax returns related to the pipeline. We will reassess your 2006 through 2010 income tax returns as per our proposal letter dated February 1, 2012. The pipeline is a Class 1 asset per Income Tax Regulation 1100 and will be removed from Class 6 and included in Class 1. The request to adjust the 2002 through 2005 corporate income tax returns has been denied.
+If you want to object to the assessment you must file a Notice of Objection in the prescribed form and manner with the Minister within 90 days from the date of the Notice of Reassessment. The details should outline your reasons for the objection and all relevant facts.
+The Applicant filed Notices of Objection on August 29, 2012, arising from the reassessment as made by the Minister in the February Letter, pursuant to the Act.
+By letter dated September 21, 2012 (the “September Letter”), the Minister acknowledged receipt of the Notices of Objection for the Taxation Years, but stated that it would not consider the Objections under the appeal provisions of the Act.
+In the September letter, the Minister stated that the objections for the Taxation Years had not been filed within 90 days from the issuance of the Notice of Assessment or Reassessment and could not, therefore, be considered.
+On October 20, 2012, the Applicant set forth its position by letter. In that letter, the Applicant advanced the position that the February Letter constituted a reassessment and requested that the Minister exercise its discretion pursuant to section 166.1 of the Act and allow the Applicant’s objection to the reassessment for the Taxation Years, as had been implied by the February Letter to be accepted for consideration. Alternatively, the Applicant requested that the Minister issue a reassessment for the Taxation Years. [4]
+[24] I do not agree with NTL’s position that the February letter constituted a reassessment. It is clear from the wordings that the February letter deals with the 2006 to 2010 taxation years. Mr. Denis Williams for the CRA wrote in the February letter as follows:
+We have completed our audit of your income tax returns. Our review was limited to the issue of a pipeline that you had included on T2 Schedule 8 in Class 6. We have determined that the pipeline should be included in Class 1.
+This paragraph refers to the 2006 to 2010 taxation years; it is only for those years that NTL included in its income tax returns the pipeline as Class 6. In its income tax returns for the taxation years under issue, NTL had included the pipeline in Class 1.
+[25] Paragraph 3 of the February letter also refers to the taxation years 2006 to 2010. Mr. Williams wrote “that if you have any questions or concerns about the proposed adjustments or if you have any additional information that may affect the adjustments please call me”. The adjustments to be made by the Minister refer to the 2006 to the 2010 taxation years, as they were no adjustments to be made by the Minister for the years in issue. The pipeline was already classified as a Class 1 asset for the years in issue. In addition, it is clear from the language used by Mr. William that the February letter is no more than a proposed reassessment for the 2006 to 2010 taxation years. In the last paragraph of the letter, he stated:
+[…] that if we do not hear from you we may make the adjustments as proposed. If this is the case, a Notice of Reassessment will be issued to you at that time.
+[26] In a letter dated August 29, 2012, Mr. Brophy, the accountant acting on behalf of NTL asked the CRA to issue a reassessment for the years under issue. Mr. Brophy would have not asked the CRA to issue a reassessment if the letter of February 1st, 2102 constituted a reassessment.
+[27] The only reference to the years in issue in the February letter is in the subject line and in the working papers attached to the February letter, where it is stated “that 2002 through 2005 requested adjustments are denied”. In other words, the Minister did not accept to process the amended returns as requested by NTL.
+[28] In any event, if I were to accept that the February letter constituted a reassessment for the years under issue, I could not grant an extension of time for serving a Notice of Objection since the Minister did not have the authority to reassess the years in issue, as by February 1st, 2012, the years in issue were statute‑barred. This Court does not have the jurisdiction to grant an extension of time for statute-barred years.
+[29] The application for an extension of time for the years ending on December 31, 2002, December 31, 2003, December 31, 2004 and December 31, 2005 for serving a Notice of Objection is dismissed. This Court does not have jurisdiction to grant the said application.
+Signed at Toronto, Ontario, this 20th day of August 2013.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2013 TCC 259
+COURT FILE NO.: 2013-427(IT)APP
+STYLE OF CAUSE: NEWFOUNDLAND TRANSSHIPMENT LTD. v THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: June 5, 2013
+REASONS FOR ORDER BY: The Honourable Justice Johanne D'Auray
+DATE OF ORDER: August 20, 2013
+APPEARANCES:
+Counsel for the Applicant:
+Sara L. Scott
+Paul Festeryga
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Sara L. Scott
+Paul Festeryga
+Firm: Stewart McKelvey
+Halifax NS
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The years were ending on December 31.
+[2] See paragraph 14 of the Affidavit of John Buckley attached to the Application for an extension of time for serving a Notice of Objection; submissions prepared by Mr. Brian Brophy at Tab D, page 10.
+[3] This decision was confirmed by the Federal Court of Appeal; see The Queen v Imperial Oil Ltd, 2003 FCA 289.
+[4] See Application for Extension of Time for the serving of a Notice of Objection, dated January 24, 2013.

@@ -1,0 +1,150 @@
+Title: Landry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30339/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-245-30339-landry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-05-05
+
+# Landry v. The Queen
+
+- Citation: 2011 TCC 245
+- Decision date: 2011-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8043, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-05
+Neutral citation
+2011 TCC 245
+File numbers
+2009-1352(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1352(IT)G
+BETWEEN:
+TERESA ANN LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 26, 2011 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2005 taxation year is dismissed. The respondent is entitled to costs.
+Signed at Ottawa, Ontario this 5th day of May 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 245
+Date: 20110505
+Docket: 2009-1352(IT)G
+BETWEEN:
+TERESA ANN LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Teresa Ann Landry appeals in respect of an assessment made pursuant to section 160 of the Income Tax Act. The assessed amount is $112,498.
+[2] The matter concerns a transfer of an interest in a cottage property to the appellant from her husband, Robert Landry. The transfer took place in 2005 at a time when the Canada Revenue Agency was reviewing Mr. Landry’s tax situation.
+[3] The Minister submits that the appellant is jointly and severally liable for Mr. Landry’s obligations under the Act to the extent of the value of the property transferred ($112,500) less the consideration received ($2).
+[4] The appellant submits that section 160 does not apply because nothing of value was transferred to her. It is submitted that Mr. Landry’s interest represented only legal title and not a beneficial interest.
+Factual background
+[5] The appellant’s mother, Winnifred Branton, owned a cottage property in the Ontario township of Scugog that had been in the family for many years.
+[6] Mrs. Branton passed away from cancer on February 1, 1993.
+[7] A few weeks before her death, Mrs. Branton informed her husband, Eric Branton, and her daughter, the appellant, that she wanted the appellant to have the cottage property.
+[8] A conveyance was signed by Mr. Branton under his wife’s power of attorney on January 19, 1993, and it was registered a few days later.
+[9] According to the transfer document, the property was transferred from Mrs. Branton to the appellant and Mr. Landry as joint tenants.
+[10] A land transfer tax affidavit was attached to the conveyance, which was executed by the lawyer on the transaction, George Boychyn, Q.C.
+[11] In the affidavit, Mr. Boychyn attested to the following:
+- he was acting for the appellant and Mr. Landry,
+- the consideration for the transfer was $2,
+- the conveyance was from mother to daughter for natural love and affection, and
+- the appellant had further directed the conveyance to herself and Mr. Landry as joint tenants.
+[12] On April 6, 2005, Mr. Landry’s interest in the property was transferred to the appellant with the result that she then became the sole legal and beneficial owner.
+[13] The transfer was for nil consideration. At the time, the entire cottage property was worth $225,000.
+[14] A land transfer tax statement was appended to the transfer document. The statement appears to have been electronically filed and was not signed. The statement provided the following explanation for the nil consideration:
+correcting deed: inheritance from the mother, Winnifred Annie Branton to daughter, Teresa Ann Landry but incorrectly recorded in the name of the daughter, Teresa Ann Landry and her husband Robert William Landry
+Discussion
+[15] The respondent submits that the appellant acquired a one-half beneficial interest in the cottage property from her husband in 2005 and that an assessment under section 160 is appropriate in respect of this acquisition.
+[16] The appellant submits that the appellant did not acquire any beneficial interest in the property in 2005 because Mr. Landry never had a beneficial interest that could be conveyed to her. It is submitted that an error was made in the 1993 transfer document when Mr. Landry was named as a transferee. It was intended that the appellant be the sole owner, it is submitted.
+[17] The respondent submits that there was no error in the 1993 transfer document and that the testimony of the appellant to the contrary is not credible.
+[18] The only question to be decided, then, is whether or not Mr. Landry acquired a beneficial interest in the cottage property in 1993 when he and the appellant were named as transferees of the property. No other aspects of section 160 are in dispute.
+[19] The respondent relies on the transfer document signed by Mr. Branton and the sworn statement of Mr. Boychyn that the appellant directed the property to be held in joint tenancy.
+[20] The respondent acknowledges that Mr. Boychyn’s statement is hearsay, but he submits that the statement is admissible for the truth of its contents based on the principles in R v Khelawon, 2006 SCC 57, [2006] 2 SCR 787.
+[21] The appellant suggests that Mr. Boychyn’s affidavit is not accurate and she denies that she directed the property to be held in joint tenancy. According to her testimony, Mrs. Branton disapproved of Mr. Landry and wanted the appellant to have the property. It makes no sense in these circumstances for the appellant to direct a one-half interest to Mr. Landry, it is submitted. The appellant further testified that she has never seen the lawyer who handled the matter.
+[22] Based on Mr. Landry’s evidence, it is further submitted that the error in title in the 1993 transfer document was corrected by Mr. Landry in 2005 without the appellant’s knowledge. Mr. Landry became aware of the error in 2005, he stated, when the Canada Revenue Agency advised him of the 1993 document.
+[23] This is a case where the positions of the parties are diametrically opposed and the evidence is conflicting. In these circumstances, it comes down to determining which evidence is the more reliable.
+[24] In weighing conflicting evidence, it is useful to consider the following comments in Springer v Aird & Berlis, (2009) 96 OR (3d) 325 (Ont SCJ):
+[14] In making credibility and reliability assessments, I find helpful the statement of O'Halloran J.A. in R. v. Pressley (1948), 94 C.C.C. 29 (B.C. C.A.):
+The Judge is not given a divine insight into the hearts and minds of the witnesses appearing before him. Justice does not descend automatically upon the best actor in the witness-box. The most satisfactory judicial test of truth lies in its harmony or lack of harmony with the preponderance of probabilities disclosed by the facts and circumstances in the conditions of the particular case.
+[15] I also find it helpful, particularly in this case, the statement of Farley J. in Bank of America Canada v. Mutual Trust Co. (1998), 18 R.P.R. (3d) 213 at para. 23:
+Frequently in cases judges will be called upon to make findings concerning credibility of witnesses. This usually is a most difficult task absent the most blatant of lying which is tripped up by confession, by self-contradictory evidence, by directly opposite material developed at the relevant time period or by evidence of an extremely reliable nature from third parties. One is always cognizant that people's perceptions of the same event can sincerely differ, that memories fade with time, that witnesses may be innocently confused over minor (and even major) matters as well as the aspect of rationalization, a very human and understandable imperfection. A point that a witness may not be sure of initially becomes eventually a point that the witness is certain about because it fits the theory of his side. Rationalization will also affect some person's views so that a certainty that a fact was "A" evolves into a confirmation that that fact was "not A".
+[16] In Olympic Wholesale Co. v. 1084715 Ontario Ltd. [1997] O.J. No. 5482 at para. 3, Farley J. also made the following statement which I find helpful:
+I would like to review the aspect of assessing credibility and the weighing of evidence, and I do this in a very general way. … The evidence and the way it is given should be taken in context and in a balanced way. No one should expect perfection in testimony and it is often said that evidence which is too consistent may be a sign of it being artificially constructed. I also recognize that there can be an inadvertent rationalization of memory to fit what is afterwards said that must have happened as opposed to actually remembering what did happen. This usually increases over time…
+[17] Farley J. used the word "rationalization". I take his comments to refer to what is often said to be "reconstruction" of evidence. Reconstruction can be either inadvertent or advertent. In either case, when it occurs, it is something that the trier of fact must consider in weighing evidence.
+[25] I will consider the respondent’s position first. It depends to a large extent on the 1993 transfer document and the affidavit of Mr. Boychyn.
+[26] As for the affidavit, I agree with the respondent’s arguments as to its admissibility based on Khelawon. The affidavit seems to be reliable given the circumstances under which it was made, and it is necessary to introduce the document because both Mr. Boychyn and Mr. Branton are no longer living.
+[27] With respect to reliability, I would note that the explanation in the affidavit is quite particular. Mr. Boychyn acknowledges that Mrs. Branton did not direct the cottage to be held in joint ownership and he states that the appellant made the direction. This suggests that it was not a careless oversight.
+[28] Second, since Mrs. Branton wanted her daughter to have the cottage, the appellant was the only one who could make the decision to hold the property jointly with her husband. Since joint ownership carries legal ramifications, Mr. Boychyn may have provided advice concerning the matter. It seems most probable in these circumstances that either Mr. Boychyn or Mr. Branton had a conversation with the appellant about it. It may have been a brief conversation given the difficult circumstances that the family was dealing with. However, it is unlikely that the decision was made by Mr. Branton or Mr. Boychyn without instructions from the appellant.
+[29] Third, I would note that the affidavit was a solemn document, it was made contemporaneously with the transfer, and Mr. Boychyn had no reason to falsify the document.
+[30] I would also note that it is not surprising that Mr. Boychyn swore the affidavit himself given the difficult family circumstances.
+[31] In light of the above, I find that the 1993 transfer document and affidavit are highly reliable documents.
+[32] As for the appellant’s case, it depends largely on her own testimony and that of Mr. Landry, and the 2005 land transfer tax statement that is appended to the second transfer.
+[33] The appellant testified that she was aware of the 1993 transfer of the cottage property, but that she had not seen the transfer document and had assumed that she was the sole owner. She also stated that she was not aware of the 2005 transfer by her husband until the Canada Revenue Agency wrote to her in 2007. Mr. Landry supported this by his own testimony.
+[34] There are a number of factors which weaken the reliability of this testimony.
+[35] First, the testimony of the appellant and Mr. Landry is self-interested.
+[36] Second, the testimony relates to matters which took place several years ago. Memories fade and the possibility of “reconstruction,” whether advertent or inadvertent, is real as discussed in Springer above.
+[37] Third, the 2005 transfer took place at a time when Mr. Landry had tax problems. It was the Canada Revenue Agency who advised Mr. Landry about the 1993 transfer document. Mr. Landry testified that he was not aware that he was indebted under the Act at the time. This seems doubtful, but at the very least Mr. Landry must have been aware that there were potential tax obligations at that time. Mr. Landry was very motivated to disavow an interest in the cottage property at the time of the transfer.
+[38] The appellant submits that it does not make sense that she would direct title in joint tenancy because her parents, and especially her mother, strongly disapproved of Mr. Landry.
+[39] I do not find this argument to be persuasive.
+[40] First, Mr. Branton signed the transfer document himself which gave a half interest to Mr. Landry. The fact that Mr. Branton knew that his wife disapproved of Mr. Landry makes it more likely that he would not sign a conveyance giving Mr. Landry an interest unless he believed that the appellant had directed it.
+[41] Second, there may have been valid commercial reasons for joint ownership, such as minimization of probate fees. If Mr. Boychyn had recommended this course of action to the appellant, I see no reason why she would not agree to it. I would also note that Mr. Landry was the beneficiary under the appellant’s will at the time.
+[42] Counsel for the appellant also argued that weight should be given to the land transfer tax statement appended to the 2005 transfer which stated that the 1993 document was in error. This document was also reliable, it is submitted, as it was prepared by a lawyer, Sudarshan Jain.
+[43] Counsel for the appellant suggested that Mr. Jain, as maker of the statement, must had reason to believe the accuracy of the statement, namely, that the former conveyance contained an error.
+[44] I would first note that even if Mr. Jain had sufficient information to prepare the statement, this does not make the statement reliable. There is no evidence to suggest that Mr. Jain relied on anything other than information supplied by Mr. Landry or the appellant in preparing the statement. I would also note that the first section of the form is a statement purportedly made by the appellant herself. Mr. Jain does not purport to act on her behalf as Mr. Boychyn had done in the 1993 document.
+[45] Based on the evidence as a whole, I would conclude that the 1993 transfer document and Mr. Boychyn’s affidavit are the most reliable evidence as to the circumstances surrounding the transfer of the cottage property in 1993. Accordingly, I find that it was intended that Mr. Landry acquire a one-half legal and beneficial interest in the property in 1993, and that he did so.
+[46] It follows that Mr. Landry transferred legal and beneficial ownership of his interest to the appellant in 2005. As this is the only issue before me, I would conclude that the assessment under section 160 was properly made.
+[47] In light of this finding, it is not necessary that I consider the respondent’s alternative position that this Court has no power to give effect to equitable interests arising from mistake.
+[48] The respondent did not provide argument on this issue, and I would therefore decline to comment on it. I would note as a matter of interest the following paper published by the Canadian Tax Foundation which discusses the issue in some detail: Stephen S. Ruby and Elie S. Roth, Fixing Mistakes (And All That Jazz), 2009 Ontario Tax Conference, 14:1-46. I would also note that the Ontario Court of Appeal recently decided that the Small Claims Court in that province has some jurisdiction to grant equitable relief: Grover v Hodgins, 2011 ONCA 72.
+[49] The appeal will be dismissed, with costs awarded to the respondent.
+Signed at Ottawa, Ontario this 5th day of May 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 245
+COURT FILE NO.: 2009-1352(IT)G
+STYLE OF CAUSE: TERESA ANN LANDRY and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 26, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: May 5, 2011
+APPEARANCES:
+Counsel for the Appellant:
+James N. Aitchison
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James N. Aitchison
+Firm: Aitchison Law Office
+Oshawa, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

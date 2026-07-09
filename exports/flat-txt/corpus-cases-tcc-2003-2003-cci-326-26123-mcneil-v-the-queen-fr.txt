@@ -1,0 +1,101 @@
+Title: McNeil v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26123/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-326-26123-mcneil-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-05-16
+
+# McNeil v. The Queen
+
+- Citation: 2003 CCI 326
+- Decision date: 2003-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4118, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNeil v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-16
+Référence neutre
+2003 CCI 326
+Numéro de dossier
+2002-4572(IT)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-4572(IT)I
+ENTRE :
+BRENDA MCNEIL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu et jugement rendu oralement à l'audience
+le 28 avril 2003, à Vancouver (Colombie-Britannique).
+Devant : L'honorable juge J. E. Hershfield
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Amy Francis
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est admis, avec dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Le présent jugement remplace celui du 16 mai 2003. Les motifs du jugement ci-joints restent les mêmes.
+Signé à Ottawa, Canada, ce 30ejour d'octobre 2003.
+« J. E. Hershfield »
+Le juge Hershfield
+Traduction certifiée conforme
+ce 7e jour de mars 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI326
+Date : 20030516
+Dossier : 2002-4572(IT)I
+ENTRE :
+BRENDA MCNEIL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hershfield, C.C.I.
+[1] Le présent appel concerne l'année d'imposition de l'an 2000 de la contribuable. Le ministre a inclus dans son revenu des versements de pension alimentaire pour enfants de 48 832 $. Il n'est pas contesté que ce montant a été reçu au cours de l'an 2000 et qu'il a été versé conformément à une ou à plusieurs ordonnances.
+[2] L'appelante, d'après son témoignage, admet qu'elle a reçu le montant de 41 132,10 $ à la suite d'une saisie-arrêt exécutée contre la société Lottery Canada après que son ancien conjoint eut gagné un prix dans une loterie. Je suis convaincu du fait que ce paiement, reçu le 10 février 2000, représente les montants indiqués à la page 2 de l'annexe A-5, soit des arriérés de 39 279,44 $ au total le 24 septembre 1999, plus 700 $ par mois par la suite jusqu'au 15 janvier 2000 inclusivement, plus les intérêts et moins les versements reçus après le 24 septembre 1999 et jusqu'au 9 février 2000. Le solde des montants en litige en 2000 (48 832 $ - 41 132 $) est constitué de versements mensuels reçus en l'an 2000 après le 10 février et également versés conformément à une ou à plusieurs ordonnances.
+[3] Quatre ordonnances m'ont été présentées, dont deux sont pertinentes. La première est une ordonnance provisoire d'une durée d'un mois en 1994; elle n'est pas pertinente. La deuxième ordonnance est une ordonnance provisoire qui reste en vigueur jusqu'à ce qu'une autre ordonnance soit rendue; c'est l'une des deux ordonnances pertinentes. Elle a été rendue par le protonotaire Donaldson de la Cour suprême de la Colombie-Britannique le 27 janvier 1995. Je reproduis ici le troisième paragraphe de cette ordonnance :
+[TRADUCTION]
+La Cour ordonne également que l'intimé verse à la requérante, au bénéfice de celle-ci et des enfants, une pension provisoire de 700 $ par mois à compter du 15 janvier 1995 et le 15e jour de chaque mois par la suite jusqu'au règlement de cette affaire ou jusqu'à ce que la Cour rende une autre ordonnance.
+La troisième ordonnance est datée du 26 juin 1998. Elle est également pertinente. Il s'agit du jugement de divorce, qui contient également des dispositions concernant la garde des enfants et la pension alimentaire pour enfants et pour conjoint. Dans ce document, il est déclaré que le montant des arriérés de pension alimentaire au titre de la deuxième ordonnance est de 27 065 $ au 21 avril 1998 et que l'ancien conjoint de l'appelante doit verser à celle-ci ledit montant [TRADUCTION] « pour s'acquitter desdits arriérés » . Quant à la pension future, je cite les trois premiers paragraphes de la troisième ordonnance, à la page 2 :
+[TRADUCTION]
+La Cour ordonne également que la requérante Brenda June Nicell, alias Brenda June McNeil, ait la garde exclusive des enfants.
+Et vu que la Cour n'est pas en mesure de déterminer le revenu de l'intimé en vertu des lignes directrices puisque celui-ci a omis de produire un état financier et un état de ses biens,
+La Cour ordonne également que l'ordonnance du protonotaire Donaldson selon laquelle l'intimé doit verser 700 $ par mois à titre de pension alimentaire pour enfants et pour conjoint, et ce, le 15e jour de chaque mois, reste en vigueur en acquittement de l'obligation de l'intimé de verser une pension alimentaire pour enfants à compter du 15 juin 1998 et le 15e jour de chaque mois par la suite.
+La quatrième ordonnance concerne la garantie de paiement de la pension alimentaire pour enfants et est datée du 26 juillet 2000. La saisie-arrêt effectuée en février 2000 précède la quatrième ordonnance, bien entendu. Cette quatrième ordonnance n'est pas pertinente.
+[4] La question en litige ici est de savoir comment affecter les versements, ou une partie d'entre eux, à telle ou telle ordonnance. Si les versements de 2000 sont, comme l'affirme l'intimée, attribuables à la deuxième ordonnance ou sont faits conformément à celle-ci, il n'existe pas de date d'exécution au sens du paragraphe 56.1(4) de la Loi, de sorte que tous ces versements sont imposables suivant la formule établie à l'alinéa 56(1)b) de la Loi.
+[5] Dans la mesure où les versements sont attribuables à la troisième ordonnance ou sont faits conformément à celle-ci, il existe une date d'exécution. Pour trancher cette question, il faut procéder à une analyse serrée de la deuxième et de la troisième ordonnance. À mon avis, le versement de l'an 2000, exclusion faite du paiement des arriérés en vertu de la deuxième ordonnance, a été effectué conformément à la troisième ordonnance. La deuxième ordonnance établit clairement qu'il s'agit d'une ordonnance provisoire. Elle porte expressément qu'elle reste en vigueur [TRADUCTION] « jusqu'à ce que la Cour rende une autre ordonnance » . Cette ordonnance provisoire prend fin dès qu'une autre ordonnance est rendue. C'est pourquoi elle est correctement décrite comme étant une « ordonnance provisoire » . De même que la garde des enfants était accordée de façon provisoire dans la deuxième ordonnance et de façon définitive dans la troisième, on peut dire que les versements étaient faits de façon provisoire conformément à la deuxième ordonnance et qu'ils étaient faits de façon définitive conformément à la troisième ordonnance.
+[6] L'avocate de l'intimée soutient que la troisième ordonnance confirme expressément que la deuxième ordonnance reste en vigueur. La troisième ordonnance prévoit explicitement que la deuxième ordonnance [TRADUCTION] « reste en vigueur en acquittement de l'obligation de l'intimé de verser une pension alimentaire pour enfants » . L'intimée affirme que cela n'a pour effet ni de modifier les montants, ni de créer une date d'exécution en vertu de l'alinéa 56.1(4)b).
+[7] Je récuse l'argumentation de l'intimée sur cette question. En vertu de quelle ordonnance les versements qui commencent le 15 juin 1998 ont-ils été effectués? À mon avis, ils ont été effectués en vertu de la troisième ordonnance, qui remplace une ordonnance provisoire. Le 28 juin 1998, date de la troisième ordonnance, il n'y avait pas d'ordonnance antérieure en vertu de laquelle les versements pouvaient être effectués. Le fait que la troisième ordonnance ne modifie pas une obligation de faire un versement est dénué de pertinence. Le fait qu'elle maintient la validité de la deuxième ordonnance quant aux versements de pension alimentaire ne signifie pas que les versements sont faits en vertu de la deuxième ordonnance si c'est la troisième ordonnance qui prévoit l'obligation d'effectuer les versements. Les versements ne sont pas requis par la deuxième ordonnance, mais par la troisième.
+[8] Si les versements sont effectués conformément à une ordonnance rendue après avril 1997, il existe une date d'exécution en vertu de l'alinéa 56.1(4)a), même s'il n'y a pas de date d'exécution postérieure en vertu de l'alinéa 56.1(4)b). L'avocate de l'intimée soutient que cette interprétation rend l'alinéa 56.1(4)b) dénué de sens s'il n'y a pas de date d'exécution postérieure en vertu de l'alinéa 56.1(4)b). D'après son argumentation, si une ordonnance postérieure (après avril 1997), telle que la troisième ordonnance, n'apporte aucune modification à une ordonnance antérieure (avant mai 1997) visée aux sous-alinéas 56.1(4)b)(ii) à (iv), l'ordonnance postérieure ne peut être considérée comme étant une ordonnance qui crée une date d'exécution en vertu de l'alinéa 56.1(4)a).
+[9] L'alinéa 56.1(4)b) tient compte de l'existence d'une ordonnance postérieure après avril 1997, mais établit néanmoins les conditions pour qu'il y ait une date d'exécution. On prétend que si ces conditions ne sont pas satisfaites, il ne peut y avoir de date d'exécution en vertu d'une ordonnance postérieure. J'en conviens avec l'avocate de l'intimée, sauf s'il existe une ordonnance antérieure à mai 1997 dont le libellé porte expressément qu'elle ne peut subsister après l'ordonnance postérieure à avril 1997.
+[10] L'alinéa 56(1)b) exclut du revenu les montants de pension alimentaire pour enfants en question s'ils sont payables « aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement » . La définition du terme « date d'exécution » renvoie à deux ordonnances quand il existe deux ordonnances. En l'espèce, les versements de pension alimentaire qui débutent le 15 juin 1998 ne sont à verser que selon la troisième ordonnance. Il n'existe pas d'ordonnance antérieure aux termes de laquelle et après laquelle les versements sont à verser. Certes, cela pourrait être vrai de tous les cas où il existe une ordonnance postérieure, mais, en l'occurrence, l'ordonnance antérieure avait une durée précise qui prenait fin lorsque la troisième ordonnance était rendue. Dans l'affaire qui nous occupe, il existait une ordonnance provisoire d'une durée précise avant que la troisième ordonnance soit rendue. Selon les termes mêmes de cette ordonnance, elle est arrivée à expiration lorsque la troisième ordonnance a été rendue. Le fait que le montant de la pension n'a pas été modifié par la troisième ordonnance n'est pas pertinent dans le cas présent.
+[11] Le fait que la troisième ordonnance porte que la deuxième ordonnance reste en vigueur n'étaye pas la position de l'intimée, à mon avis. Le fait d'inclure dans une ordonnance postérieure la continuation des termes d'une ordonnance antérieure met en lumière le fait que les versements sont imposés par l'ordonnance postérieure. Celle-ci ne remet pas en vigueur l'ordonnance antérieure. En l'espèce, donc, la troisième ordonnance est la seule ordonnance pertinente. Le fait qu'un parent irresponsable empêche une modification ne change rien au fait. La troisième ordonnance est la seule ordonnance selon laquelle les versements sont exigés après la date de celle-ci. La date de la troisième ordonnance est la « date d'exécution » en vertu de l'alinéa 56.1(4)a).
+[12] Par conséquent, il existe en ce cas une distinction entre le versement d'arriérés à payer avant la troisième ordonnance et celui d'arriérés à payer après celle-ci. Les premiers montants sont imposables, mais non les derniers.
+[13] Je remarque également que le 26 juin 1998 est probablement la date d'exécution en vertu du sous-alinéa 56.1(4)b)(iii) dans la présente affaire. Le montant des arriérés en vertu de l'ordonnance provisoire qui est indiqué dans la troisième ordonnance ne peut pas être rapproché aux arriérés réels à ce moment-là, selon le témoignage de l'appelante. En outre, le versement du 15 mai 1998 semble avoir été omis. Si c'est le cas, la troisième ordonnance a pour effet de modifier le montant de pension alimentaire pour enfants. Le témoignage de l'appelante quant au fait qu'on ne peut rapprocher l'arriéré n'a pas été contredit, et il est corroboré ou confirmé par un simple calcul. C'est probablement tout ce qu'il faut pour satisfaire au fardeau de la preuve dans ce cas.
+[14] La Couronne ne peut se contenter de dire qu'on ne sait pas comment le juge a calculé les arriérés et qu'on doit donc présumer que le calcul des arriérés est exact. De toute évidence, le juge voulait avoir un relevé exact des arriérés fondé sur les affidavits et les documents qui lui avaient été présentés, et son calcul constitue certainement une preuve prima facie que les arriérés avaient été correctement calculés. Toutefois, cette position prima facie peut être contestée par le biais d'un témoignage et d'un simple calcul arithmétique.
+[15] Le sous-alinéa 56.1(4)b)(iii) prévoit qu'il y a une date d'exécution si une ordonnance modifie le total des montants de pension alimentaire pour enfants. L'intention n'est pas pertinente, c'est-à-dire que la disposition ne tient pas compte de l'intention du juge qui calcule les arriérés et l'obligation de verser. La disposition porte sur l'effet ou le résultat de l'ordonnance. Dans le cas qui nous occupe, la troisième ordonnance semble avoir modifié le total des montants de pension. Il semble s'ensuivre qu'à compter de la date de la troisième ordonnance, les montants à verser en application de celle-ci ne sont pas imposables. J'admets que ce règlement du litige soulève des questions concernant les arriérés en litige et que je ne les ai pas entièrement considérées. Il reste, bien entendu, le versement de pension pour mai 1998 qui a été omis et qui semble mener à une date d'exécution en vertu du sous-alinéa 56.1(4)b)(iii). Toutefois, il ne m'est pas nécessaire d'établir une date d'exécution conformément à l'alinéa 56.1(4)b) pour trancher l'appel, car j'ai déjà conclu que la date de la troisième ordonnance est la date d'exécution en vertu de l'alinéa 56.1(4)a), puisqu'il n'existait aucune ordonnance antérieure pouvant être considérée, de telle sorte que les versements de l'an 2000 sont exclus du revenu en vertu de l'alinéa 56(1)b), sauf le montant de 27 065 $, lequel représente les arriérés à verser aux termes de l'ordonnance provisoire. Les intérêts éventuellement perçus sur ce montant d'arriérés seraient également exclus.
+[16] L'appel est donc admis dans cette mesure et les dépens sont adjugés à l'appelante.
+Signé à Ottawa, Canada, ce 15e jour de mai 2003.
+« J.E. Hershfield »
+J.C.C.I.
+Traduction certifiée conforme
+ce 7e jour de mars 2005.
+Yves Bellefeuille, réviseur

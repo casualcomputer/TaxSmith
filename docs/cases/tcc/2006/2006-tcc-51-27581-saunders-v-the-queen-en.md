@@ -1,0 +1,144 @@
+---
+title: "Saunders v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27581/index.do"
+last_modified: "2006-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 51"
+citation2: ""
+neutral_citation: "2006 TCC 51"
+decision_date: "2006-01-23"
+language: "en"
+item_id: "27581"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 75
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:25:03.750000+00:00"
+cases_cited_count: 0
+cases_citing_count: 13
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "985eabc807a7725be2f10f060590fca0c5d1caeb9035cc5ff11f791cdc0f1b96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saunders v. The Queen
+
+- Citation: 2006 TCC 51
+- Decision date: 2006-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 75, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saunders v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-23
+Neutral citation
+2006 TCC 51
+File numbers
+2005-2025(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2025(IT)I
+BETWEEN:
+JUDY SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 4, 2005 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Eric Seidel
+Counsel for the Respondent:
+Aleksandrs Zemdegs
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under the Income Tax Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 23rd day of January, 2006.
+"J. Woods"
+Woods J.
+Citation: 2006TCC51
+Date: 20060123
+Docket: 2005-2025(IT)I
+BETWEEN:
+JUDY SAUNDERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Judy Saunders in respect of an assessment under the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.), as amended, for the 2002 taxation year. The issue concerns a penalty that the Minister imposed for failure to report income in more than one taxation year pursuant to subsection 163(1) of the Act.
+[2] Subsection 163(1) applies if a taxpayer fails to report income for two taxation years within a four-year period. When this occurs, a penalty is payable equal to 10 percent of the unreported income for the most recent taxation year.
+[3] Mrs. Saunders was represented at the hearing by her accountant whose firm had carriage of the tax returns. There is no dispute that Mrs. Saunders failed to report income in two successive taxation years, 2001 and 2002. The sole question for determination is whether the penalty should be vacated on grounds of due diligence or fairness.
+[4] The circumstances of the appeal are unfortunate. During the period at issue, Mrs. Saunders' employment was terminated when her employer shut down operations and her husband became disabled in an accident.
+[5] In the 2001 taxation year, the unreported income was a $2,000 amount that Mrs. Saunders had withdrawn from an RRSP. The amount was not reported because the T5 slip for this amount was missing, for reasons that are not known. Mrs. Saunders testified that the tax return for that year included other withdrawals from RRSPs and that only the $2,000 amount was excluded.
+[6] Mrs. Saunders' representative submitted that there were mitigating circumstances respecting this tax return because Mrs. Saunders also did not claim a deduction for a $1,500 RRSP contribution that she had made. This reduced the net amount that was unreported for the 2001 taxation year to only $500.
+[7] In the 2002 taxation year, Mrs. Saunders failed to report employment income of approximately $18,000. The circumstances of this failure involve a misunderstanding between Mrs. Saunders and the accountant who prepared the income tax return. The problem arose because the employer, who had shut down business operations in Canada, failed to send a T4 slip for the remuneration. Mrs. Saunders made considerable efforts to obtain a T4 slip but she was not successful and decided to provide her accountant with the only document that she had, which was a record of employment.
+[8] Through a misunderstanding, the accountant failed to include this amount in the income tax return. Although the unreported amount was large, Mrs. Saunders failed to pick the mistake up because she did not review the tax return in detail before it was filed.
+[9] The tax on the unreported income had been collected at source but the tax for the year was underpaid by approximately $1,500. The Minister initially assessed the income tax return as filed and issued a refund of about $700.
+[10] When the errors in the income tax returns were discovered, the Minister assessed a penalty of approximately $1,800, which was 10 percent of the 2002 unreported income. As pointed out by Mrs. Saunders' representative, the penalty turns out to be greater than the tax that was payable. Even if the $700 refund is taken into account, the tax owing is small relative to the penalty assessed.
+[11] The representative argued that the penalty should be vacated, or that it should be reduced to take into account the mitigating and extenuating circumstances.
+Analysis
+[12] The penalty in subsection 163(1) is one of strict liability, although this Court has held that it can be vacated if the taxpayer can establish due diligence. The principles to be applied in considering a due diligence defence were recently discussed by Bowman C.J. in DeCosta v. The Queen, 2005 D.T.C. 1436 (T.C.C.). At paragraph 11, he states:
+In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[13] Looking at all the circumstances of this case, a due diligence defence has not been established. Mrs. Saunders was very diligent in trying to obtain a T4 slip from her old employer, but she did not carefully review the income tax return before it was submitted and she did not follow up after the $700 refund had been received.
+[14] The representative for Mrs. Saunders referred me to a decision of Mogan J. which vacated a subsection 163(1) penalty in circumstances like this where source deductions were made with respect to the unreported income: Khalil v. The Queen, [2003] 1 C.T.C. 2263 (T.C.C.). In Khalil, the judge noted that the penalty in subsection 163(1) "cries out for equity" when the penalty exceeds the tax owing. However, the judge also noted that the taxpayer did not understand the Canadian tax system and did not realize that the amount had to be reported on the income tax return when source deductions had been made.
+[15] In my view, the decision in Khalil should not be extended to someone in Mrs. Saunders' circumstances. Unlike Ms. Khalil, Mrs. Saunders was not "completely innocent of any wrongdoing or negligence."[1] Parliament has enacted subsection 163(1) to ensure the integrity of Canada's self-reporting system. In my view, a Court should not lightly vacate the penalty provided for in the legislation.
+[16] As for Mrs. Saunders' submission regarding a reduction in the amount of the penalty, there is nothing that I can do to reduce the penalty because the quantum is fixed by statute. However, at the hearing counsel for the respondent agreed to request that the quantum of the penalty be reviewed pursuant to fairness legislation. Unfortunately for Mrs. Saunders, I was advised a few weeks later that this had not led to a resolution of the appeal.
+[17] For all the above reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 23rd day of January, 2006.
+"J. Woods"
+Woods J.
+CITATION:
+2006TCC51
+COURT FILE NO.:
+2005-2025(IT)I
+STYLE OF CAUSE:
+Judy Saunders and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+November 4, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+January 23, 2006
+APPEARANCES:
+Agent for the Appellant:
+Eric Seidel
+Counsel for the Respondent:
+Aleksandrs Zemdegs
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Khalil, paragraph 9.

@@ -1,0 +1,162 @@
+Title: Singh c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/418404/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-120-418404-singh-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-03-26
+
+# Singh c. La Reine
+
+- Citation: 2019 CCI 120
+- Decision date: 2019-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4388, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Singh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-03-26
+Référence neutre
+2019 CCI 120
+Numéro de dossier
+2017-4165(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-4165(GST)I
+ENTRE :
+RANA SINGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement rendu le 26 mars 2019, à Toronto (Ontario). La transcription (certifiée par le sténographe judiciaire) a été révisée sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement, et ne contient aucune modification quant au fond.
+Signée à Toronto, Canada, ce 24e jour de mai 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019 CCI 120
+Date : 20190524
+Dossier : 2017-4165(GST)I
+ENTRE :
+RANA SINGH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 26 mars 2019 à Toronto (Ontario))
+Le juge Bocock
+[1] Voici les motifs du jugement rendu dans le présent appel. Ils sont prononcés aujourd’hui, après un ajournement et des délibérations, après avoir entendu l’affaire le 13 mars 2019, à Toronto.
+[2] L’appel concerne la responsabilité de l’appelant, Rana Singh, en sa qualité d’administrateur de Ranadia Inc., à l’égard des montants non versés par Ranadia Inc. au titre de la TPS.
+[3] Le ministre a établi une cotisation à l’égard de M. Singh en application de la Loi sur la taxe d’accise, dont les dispositions pertinentes sont ainsi libellées :
+323(1) Responsabilité des administrateurs
+Les administrateurs d’une personne morale au moment où elle était tenue de verser, comme l’exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette [...] sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[4] La Loi sur la taxe d’accise contient certaines conditions et restrictions à cette responsabilité du fait d’autrui. Selon la première série de restrictions, la dette doit être prouvée et non recouvrable auprès de la personne morale, ou la personne morale doit avoir été dissoute ou être en faillite.
+[5] Le ministre s’est appuyé sur le premier motif mentionné pour établir la responsabilité de M. Singh, soit que la dette a été prouvée et demeure non recouvrable auprès du débiteur fiscal principal.
+[6] L’élément de preuve dont disposait la Cour à ce sujet consistait en un certificat de taxes impayées daté du 3 juillet 2015, au montant de 15 191,59 $. De même, un bref de saisie-exécution a été déposé à la Cour fédérale contre la personne morale, Ranadia Inc., pour le même montant. Ce bref a été déposé le 4 février 2016. Comme je l’ai mentionné, il était au montant de 15 191,59 $, plus les intérêts et frais afférents.
+[7] De plus, un affidavit a été déposé par l’avocat de l’intimée, lequel n’a pas été contesté, et qui indiquait que ces montants n’avaient pu être encaissés par le shérif du district judiciaire de York, après le dépôt du bref dans le patelin du shérif.
+[8] Certaines dates dans le présent appel revêtent une importance particulière, tout comme les autres exceptions prévues aux paragraphes 323(1), (4) et (5) de la Loi sur la taxe d’accise.
+[9] Lorsque la dette fiscale n’est pas recouvrée, le ministre a l’obligation d’établir une cotisation à l’égard d’un administrateur pour les fins des montants non versés ou non recueillis au titre de la TPS. Un avis de nouvelle cotisation, daté du 30 août 2016, a été établi à l’égard de M. Singh.
+[10] De plus, le paragraphe 323(3) prévoit une défense de diligence raisonnable et prescrit qu’un administrateur qui a agi avec diligence lors de la collecte et de la remise des taxes peut être libéré de la responsabilité du fait d’autrui. C’est la défense fréquemment soulevée devant la Cour. Ce n’est pas un moyen de défense qu’a produit ou invoqué M. Singh devant la Cour dans le présent appel.
+[11] Il a plutôt utilisé comme moyen de défense le paragraphe (5) de l’article 323. Et ce paragraphe est ainsi libellé :
+L’établissement d’une telle cotisation pour un montant payable par un administrateur se prescrit par deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[12] Comme je l’ai mentionné, la cotisation a été établie par le ministre à l’égard de M. Singh le 30 août 2016.
+[13] La date de la cotisation est le point central de l’appel devant la Cour. L’avocat de l’intimée est d’accord avec la Cour que si la Cour croit que M. Singh a effectivement et légalement démissionné de son poste d’administrateur, comme il l’affirme, le 3 juin 2011, le paragraphe 323(5) s’appliquera alors et la cotisation sera inexécutable aux termes de ce paragraphe. Il aurait fallu que le ministre établisse sa cotisation avant le 3 juin 2015, soit la dernière date possible deux ans après la démission affirmée de M. Singh.
+[14] Par conséquent, si la démission à cette date est effective, l’appel sera accueilli. Si la Cour ne croit pas l’affirmation selon laquelle la démission prenait effet en date du 3 juin 2011, la cotisation sera valable. De plus, M. Singh, en sa qualité d’administrateur, sera tenu responsable des taxes non versées et l’appel sera rejeté.
+[15] Certains faits additionnels sont nécessaires pour que la Cour puisse faire une analyse efficace et rendre une décision en fonction des arguments et des éléments de preuve qui lui ont été présentés.
+[16] D’abord, en ce qui concerne l’obligation fiscale indiquée dans la cotisation que j’ai mentionnée, il n’y a guère de désaccord devant la Cour. Le débiteur fiscal sous-jacent est la personne morale ontarienne Ranadia Inc. L’affidavit déposé par le ministre résume l’historique des déclarations et des cotisations concernant Ranadia Inc., et contient plus précisément les dates suivantes, lesquelles sont pertinentes. M. Roy, qui a déposé cet affidavit devant la Cour le 8 mars 2019, a indiqué que son examen du dossier montrait que les déclarations de TPS n’avaient pas été produites pour Ranadia Inc. De plus, le 13 septembre 2007, le ministre a établi un avis de cotisation, en application du paragraphe 299(1) de la Loi sur la taxe d’accise, et a aussi établi une cotisation additionnelle le 9 avril 2008, concernant les deux montants de taxes, dont le total et le principal correspondent au montant indiqué précédemment, soit 15 191,59 $.
+[17] L’obligation sous-jacente de Ranadia Inc. n’a pas été substantiellement contestée dans l’avis d’appel ou devant la Cour. M. Singh a indiqué au départ qu’il contestait la véracité et l’exactitude des cotisations établies en application du paragraphe 299(1). M. Singh a affirmé accessoirement que l’obligation concernait une retenue non perçue due à la personne morale, qui nécessitait qu’un ajustement soit apporté pour réduire le montant exigible au titre de la TPS.
+[18] Malgré une certaine confusion soulevée en contre-examen, aucun élément de preuve, qu’il s’agisse d’un élément de preuve documentaire ou d’un témoignage convaincant fait de vive voix, n’a été déposé devant la Cour pour contester les cotisations établies par le ministre en 2007 pour les montants non versés au titre de la TPS. On a consacré peu de temps à ce point. La Cour l’a écarté avant les plaidoyers.
+[19] Par conséquent, la seule question en litige demeure la suivante : la Cour dispose-t-elle de suffisamment d’éléments de preuve appuyant l’affirmation, tout bien pesé, que M. Singh a démissionné de son poste d’administrateur le 3 juin 2011, comme il l’affirme?
+[20] Passons d’abord en revue les éléments de preuve présentés par M. Singh sur ce point en particulier.
+[21] D’abord, M. Singh a remis des documents à la Cour. Je pense qu’ils avaient en fait été inclus dans le recueil de documents de l’intimée, constitué par l’avocat de l’intimée. Ces documents ont été transmis par M. Singh à l’Agence du revenu du Canada à deux dates en 2017.
+[22] La première tranche de documents a été transmise le 27 avril 2017, accompagnée d’une page d’accompagnement où on indiquait que l’administrateur, soit M. Rana Singh, l’appelant, avait démissionné de son poste d’administrateur en date du 3 juin 2011. Cette démission de l’administrateur a été soi-disant signée à cette date, à Woodbridge, en Ontario. Une remarque avait été inscrite à la dernière ligne de cette lettre de démission, indiquant qu’elle avait été livrée par porteur, avec copie envoyée par la poste, au 8 Francine Court, Woodbridge, Ontario, L4L 1P4, soit à l’adresse de la personne morale à l’époque.
+[23] M. Singh a également affirmé dans son témoignage qu’il avait remis une copie de cette lettre de démission à son épouse, qui à l’époque était l’administratrice restante de la personne morale.
+[24] De même, à cette même date en avril 2017, une copie du registre des administrateurs a été transmise à l’Agence du revenu du Canada, où il était indiqué que M. Singh avait été élu au poste d’administrateur le 19 octobre 2004, et qu’il avait démissionné de son poste d’administrateur le 3 juin 2011.
+[25] Deuxièmement, une seconde tranche de documents a été transmise six jours plus tard, le 3 mai 2017, toujours à l’Agence du revenu du Canada. La lettre d’accompagnement transmise à l’Agence du revenu du Canada indiquait que l’envoi contenait à nouveau les documents envoyés le 27 avril et aussi une copie de la résolution des actionnaires approuvant la démission de M. Singh, une résolution des actionnaires indiquant que Nadia Singh devenait l’unique administratrice de la personne morale, et enfin, le consentement pour agir de Nadia Singh.
+[26] De plus, bien que ce ne soit pas nécessairement pertinent en ce qui a trait à la question des administrateurs, il y avait aussi une résolution des administrateurs signée toujours par Nadia Singh, indiquant que Nadia Singh deviendrait la présidente et la secrétaire-trésorière de la personne morale.
+[27] Maintenant, la question concernant la démission nécessite que l’on fasse référence à différentes lois. Le terme « démission » lui-même n’est pas défini dans la Loi sur la taxe d’accise. Il est plutôt régi par les lois du territoire dans lequel la société a été constituée en personne morale. Nous devrons donc examiner la Loi sur les sociétés par actions, LRO 1990 c B.16 (la « LSAO »), et plus précisément, l’article 121.
+[28] L’article 121 porte sur le mandat des administrateurs. Voici des extraits du paragraphe 121(1) concernant la « Fin du mandat d’un administrateur » :
+Le mandat d’un administrateur prend fin lorsque se produit l’un des événements suivants : a) il décède ou, sous réserve du paragraphe 121 (2), il démissionne.
+[29] Le paragraphe 121(2) porte sur la date à laquelle une démission prend effet :
+La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet ou à la date postérieure qui y est indiquée.
+[30] Cette dernière disposition a pour but de permettre à un administrateur de démissionner à une date postérieure, mais de transmettre sa lettre de démission à l’avance.
+[31] L’avocat de l’intimée affirme que les éléments de preuve dont dispose la Cour ne suffisent pas à établir que M. Singh a démissionné de son poste d’administrateur de Ranadia Inc. le 3 juin 2011, pour les raisons qui suivent.
+[32] La première est qu’il existe deux lettres écrites de l’Agence du revenu du Canada, demeurées sans réponse, envoyées en 2015 avant la cotisation établie à l’égard de M. Singh, concernant sa responsabilité en sa qualité d’administrateur.
+[33] Deuxièmement, les documents de démission envoyés en avril et en mai 2017 ont été envoyés à l’Agence du revenu du Canada en deux tranches, à cinq ou six jours d’intervalle, soit les 27 avril 2017 et 3 mai 2017.
+[34] Troisièmement, l’avocat de l’intimée affirme que même si le registre des administrateurs fait état de la démission de M. Singh, il n’indique rien quant au statut de l’administratrice restante ou de la nouvelle administratrice au sein de la société.
+[35] Enfin, aucun avis de modification n’a été déposé par M. Singh – ou par la personne morale – à ce sujet concernant sa démission, aux termes des dispositions de la Loi sur les renseignements exigés des personnes morales, LRO 1990 c C.39 de la province de l’Ontario.
+[36] En ce qui concerne ces arguments, la Cour tire les constatations suivantes :
+[37] D’abord, en ce qui concerne les deux demandes sans réponse transmises par l’Agence du revenu du Canada, ces dernières traitaient précisément du moyen de défense fondé sur la diligence raisonnable relativement aux administrateurs. M. Singh n’a par la suite pas invoqué un tel argument dans son avis d’appel ou devant la Cour. Seule la première lettre de l’Agence du revenu du Canada faisait vaguement référence à son statut au titre d’administrateur; la seconde n’en faisait aucune mention.
+[38] En ce qui a trait à ces lettres en particulier – et la Cour souligne qu’elle y a fait référence durant les présentations au moment de l’audience – la toute première lettre, datée du 25 juin 2015, indique simplement au premier paragraphe :
+[traduction] La personne morale susmentionnée dont vous êtes administrateur doit à l’Agence du revenu du Canada un montant non versé au titre de la TPS.
+[39] Le reste de la lettre traite de la question de la responsabilité d’un administrateur, de la question du montant de la dette et de la question de la diligence raisonnable. Une fois de plus, soulignons que le paragraphe 323(3) de la Loi sur la taxe d’accise porte sur le moyen de défense de la diligence raisonnable.
+[40] De même, la lettre de l’Agence du revenu du Canada qui suit cette première lettre, datée du 12 août 2015, ne parle aucunement de démission d’un poste d’administrateur ou d’un statut en qualité d’administrateur, mais fait simplement allusion à l’hypothèse que le destinataire soit administrateur et, une fois de plus, traite de la question du moyen de défense fondé sur la diligence raisonnable.
+[41] Maintenant, si on avait dit dans la lettre quelque chose comme « Si vous n’êtes pas un administrateur de la personne morale ou si vous n’avez jamais été un administrateur de la personne morale, veuillez nous en fournir un élément de preuve », si on avait abordé la question de la même manière qu’on a abordé celle du moyen de défense fondé sur la diligence raisonnable, et que par la suite M. Singh ait omis de fournir un tel élément de preuve, la Cour pourrait accorder du poids à ce contre-argument inversé invoqué par la Couronne.
+[42] Autrement, ce n’est pas possible. L’absence de réponse n’est simplement pas pertinente à la question de savoir si M. Singh était un administrateur de la personne morale et si ce point avait été soulevé par l’Agence du revenu du Canada.
+[43] Une fois encore, ces lettres ne sont pas pertinentes au regard des documents qui ont été transmis à l’Agence du revenu du Canada en 2017 à propos de la démission de M. Singh, ni au regard de l’avis d’appel de M. Singh, ni de son témoignage devant notre Cour.
+[44] La question suivante concerne les deux tranches de documents que M. Singh a fait parvenir à l’Agence du revenu du Canada. Une fois encore, ces documents ont été envoyés à cinq jours d’intervalle, apparemment après des discussions entre l’agent de l’intimée et M. Singh. La cohérence entre les documents, le fait qu’ils aient été acheminés dans ce court laps de temps et le fait que M. Singh ait fait référence aux [traduction] « documents additionnels demandés » m’amènent à croire à leur légitimité. Ils ont tous été envoyés à six jours d’intervalle.
+[45] De plus, l’aveu naïf fait à ce moment par M. Singh à l’Agence du revenu du Canada, selon lequel la démission pourrait ne pas avoir été signifiée conformément à ce que prévoit la Loi sur les renseignements exigés des personnes morales, n’est pas empreint de la perspective intéressée qui accompagne normalement le témoignage intéressé que l’on cherche à embellir. Ce type de témoignage, comme nous le verrons, est pertinent dans le cas de deux dossiers traités par l’avocat de l’intimée en sa qualité de représentant du ministre.
+[46] Le troisième point a trait au fait que le registre des administrateurs est incomplet. Le caractère incomplet du registre des administrateurs n’est pas strictement pertinent à la démission de M. Singh. Il s’apparente au témoignage mentionné ci-dessus, dont la qualité est imparfaite, et ne nuit pas à sa crédibilité parce qu’on n’a pas tenté de l’invoquer à l’excès, ou de l’aseptiser grâce au passage du temps ou à la possibilité d’apporter des dispositions réparatrices.
+[47] Le dernier point concerne le fait que l’avocat de l’intimée a indiqué qu’aucun avis de modification n’a été déposé en application de la Loi sur les renseignements exigés des personnes morales, pour appuyer la réelle démission de M. Singh remontant à juin 2011.
+[48] Une fois de plus, ce n’est pas à proprement parler le critère juridique à appliquer pour déterminer la validité d’une démission, selon ce que prévoit l’article 121 de la LSAO. Ce seul argument – soit le non-dépôt de cet avis exigé en application la Loi sur les renseignements exigés des personnes morales – est probablement la raison pour laquelle le présent appel s’est rendu si loin.
+[49] Légalement, le mandat d’un administrateur prend fin lorsqu’il démissionne ou à la date à laquelle cette démission renvoie si elle est postérieure. La démission d’un administrateur prend effet à la date de réception par la société d’un écrit à cet effet.
+[50] À cette fin, la Cour renvoie aux faits exposés dans une affaire traitée par l’avocat de l’intimée. Il s’agit de l’arrêt Canada c Chriss, 2016 CAF 236, et plus précisément d’extraits des paragraphes 13 à 16 de cet arrêt.
+[51] Dans cette affaire, le juge Rennie devait trancher deux questions en particulier. D’abord, il devait trancher la question de savoir si l’intention de démissionner et des lettres de démission non signées suffisaient; ensuite, même si les démissions n’étaient pas valides, il devait décider si l’appelante, dans ce cas Mme Chriss, croyait raisonnablement avoir démissionné et pouvait être libérée de sa responsabilité du fait d’autrui.
+[52] Dans les paragraphes 13 à 15, le juge Rennie écrit ce qui suit :
+[13] Cette prescription de deux ans exige, comme condition d’application, une date de démission précise. Si un administrateur a démissionné, il est possible que la Couronne ne puisse plus se tourner vers lui pour recouvrer des montants d’impôt non versés, et il est possible que les autres administrateurs aient à absorber la part de responsabilité de cet administrateur. En outre, il existe une prescription de deux ans qui restreint la capacité du ministre d’intenter une procédure contre des administrateurs pour le non-versement de retenues sur la paie.
+[53] Ce n’est rien de nouveau; la Cour n’a cessé d’y faire référence depuis le début du prononcé de ses motifs aujourd’hui. Le juge Rennie poursuit :
+[14] Il va de soi que le statut d’un administrateur doit pouvoir faire l’objet d’une vérification objective. S’il fallait accorder du crédit à l’intention subjective ou aux dires d’un administrateur, cela permettrait à ce dernier de semer les graines d’une démission rétroactive, à laquelle il pourrait s’en remettre à une date ultérieure au cas où il surviendrait une responsabilité liée à sa fonction d’administrateur. Les faits en l’espèce illustrent pourquoi le paragraphe 121(2) de la LSAO a été rédigé selon le libellé actuel : les risques associés au fait d’autoriser autre chose que la communication d’une lettre de démission écrite signée et datée sont inacceptables.
+[54] Plus loin, au paragraphe 15, il ajoute :
+[15] Il n’y a pas eu de « réception par la société d’un écrit » au sens du paragraphe 121(2). Des lettres de démission non signées, sans date d’entrée en vigueur, ont été trouvées dans les dossiers du cabinet juridique; par conséquent, le juge a commis une erreur en tirant la conclusion que l’intention des intimées de démissionner satisfaisait aux conditions préalables nécessaires pour rendre une démission valide.
+[55] Je n’ennuierai pas les parties avec d’autres références directes au texte de cet arrêt, même si le juge Rennie a ensuite également rejeté l’idée que l’appelante ait pu raisonnablement croire qu’elle avait démissionné, alors qu’il n’existait aucune lettre de démission signée.
+[56] Les faits du présent appel ne traitent pas d’une lettre de démission non signée, de la croyance raisonnable qu’une lettre avait été signée, ou de sa production tardive, quelques jours avant l’audience, comme ce fut le cas dans la décision Bono c. M.R.N., 2010 CCI 466 [Bono]. Cette affaire a également été traitée par l’avocat de l’intimée.
+[57] Dans cette décision, le juge Boyle a refusé d’abréger le délai prescrit aux termes de la Loi sur la preuve au Canada autorisant le dépôt en preuve d’une démission, puisqu’elle semblait, selon ses propres mots [traduction] « provenir de nulle part » quelques jours seulement avant l’audience.
+[58] De plus, dans la décision Bono, on a affirmé qu’un avis de modification avait été déposé, mais que la Direction des sociétés du ministère provincial ne l’avait jamais reçu. Comme je l’ai dit précédemment, il s’agit là d’une tentative en vue d’embellir un témoignage concernant une démission.
+[59] Dans le présent appel, aucune affirmation de ce type n’a été faite.
+[60] Je suis prêt à admettre le témoignage de M. Singh. Il contient certains défauts. Ces défauts montrent qu’il n’était pas aussi parfait qu’il semblait. Tout bien pesé, il établit qu’il a démissionné de son poste d’administrateur le 3 juin 2011.
+[61] Par conséquent, la cotisation établie par le ministre le 30 août 2016 n’a pas été établie dans les deux ans suivant la date de la démission effective de M. Singh, comme le prévoit le paragraphe 323(5).
+[62] Pour ces motifs, l’appel est accueilli; des dépens sont adjugés à l’appelant selon le tarif applicable.
+Signé à Toronto, Canada, ce 24e jour de mai 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 120
+NO DU DOSSIER DE LA COUR :
+2017-4165(GST)I
+INTITULÉ :
+RANA SINGH c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 13 mars 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT ORAL :
+Le 26 mars 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Warren Silver
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,136 @@
+---
+title: "Christensen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30695/index.do"
+last_modified: "2012-02-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 42"
+citation2: ""
+neutral_citation: "2012 CCI 42"
+decision_date: "2012-02-01"
+language: "fr"
+item_id: "30695"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7193
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:48:54.168000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7886dce405439a181dba0d930ad7dfcc0e27597476f53b78029c448e83a304a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Christensen c. La Reine
+
+- Citation: 2012 CCI 42
+- Decision date: 2012-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7193, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Christensen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-01
+Référence neutre
+2012 CCI 42
+Numéro de dossier
+2011-1857(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1857(IT)I
+ENTRE :
+DARYL CHRISTENSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 24 janvier 2012, à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l'appelant :
+M. Glen Christensen
+Avocate de l'intimée :
+Me Dawn Francis
+________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de février 2012.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 4e jour de juin 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 42
+Date : 20120201
+Dossier : 2011-1857(IT)I
+ENTRE :
+DARYL CHRISTENSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] En 2006, l'appelant, Daryl Christensen, était au service de Hay's Roof Management Ltd., une société dont son père, Glen Christensen, détenait la totalité des actions ordinaires. À un certain moment pendant l'année 2008, le ministre du Revenu national (le « ministre ») a procédé à une vérification de conformité de Hay's Roof Management Ltd., vérification au cours de laquelle le vérificateur a découvert que la société avait payé 15 916 $ à l'égard d'un condominium acheté par l'appelant en 2006. Quatre chèques totalisant le montant en question avaient été émis à divers bénéficiaires, et les sommes inscrites sur ces chèques avaient été passées en charges dans les registres comptables informatisés de la société. Par conséquent, le ministre a établi une nouvelle cotisation visant à inclure dans le revenu de l'appelant 15 916 $ à titre d'avantage reçu au titre d'un emploi, aux termes des articles 5 et 6 de la Loi de l'impôt sur le revenu (la « Loi »).
+[2] Glen Christensen a agi comme représentant de l'appelant et a témoigné pour celui‑ci. Glen Christensen pouvait témoigner des faits, tant en sa qualité de père de l'appelant qu'en sa qualité d'âme dirigeante de Hay's Roof Management Ltd. L'appelant avait choisi de ne pas témoigner pendant la preuve principale; cependant, il a été appelé comme témoin par l'intimée.
+[3] Le contexte est le suivant : par l'entremise de la personne qui le représentait à l'époque, l'appelant s'est opposé à la nouvelle cotisation en soutenant que les 15 916 $ dont il est question en l'espèce étaient un « prêt à la réinstallation » aux termes de l'article 80.4 et du paragraphe 248(1) de la Loi[1]. Cet argument constitue également l'un[2] des fondements de l'appel de l'appelant à la Cour canadienne de l'impôt. Sauf dans la mesure où il influe sur la crédibilité de la thèse de l'appelant, ce moyen d'appel n'est pas pertinent parce qu'il a été abandonné par l'appelant lors de l'audience. Selon Glen Christensen, l'argument qui aurait dû être présenté est que les 15 916 $ correspondaient à un prêt personnel que lui‑même, en sa qualité de père, avait consenti à l'appelant et que, de plus, c'est par inadvertance que ce prêt avait été passé en charges dans les registres de Hay's Roof Management Ltd.
+[4] Quoique ce revirement ait pris l'intimée par surprise, l'appelant a été autorisé à donner ce nouveau fondement à son appel, puisque l'appel est régi par la procédure informelle. Je dois dire que l'avocate de l'intimée s'est très bien acquittée de son travail, compte tenu de ce changement soudain dans la thèse de l'appelant.
+[5] Maintenant, en ce qui concerne la question en litige, Glen Christensen a reconnu que Hay's Roof Management Ltd. avait émis quatre chèques totalisant 15 916 $ à l'égard de l'achat du condominium de l'appelant, ainsi qu'à l'égard d'améliorations apportées à ce condominium. De plus, en contre‑interrogatoire (après avoir examiné une copie de l'analyse effectuée par le vérificateur à l'égard des dossiers comptables informatisés de la société[3]), Glen Christensen a reconnu que les 15 916 $ avaient été passés en charges par la société. Cependant, il a poursuivi en disant que les dossiers comptables informatisés ne reflétaient pas la situation réelle avec exactitude. Il a expliqué qu'étant donné que la société lui devait de l'argent en sa qualité d'actionnaire, il a fait en sorte que Hay's Roof Management Ltd. verse à l'appelant, directement et en son nom, les avances correspondant au prêt. Tout en étant incapable d'expliquer comment il aurait pu commettre une telle erreur, Glen Christensen a fait valoir qu'il s'était alors trompé en inscrivant les paiements faits à l'appelant dans la catégorie des « charges » des registres de la société alors qu'en fait, il aurait dû consigner ces paiements dans le « compte des prêts aux actionnaires »[4]. Lorsque j'ai demandé à Glen Christensen s'il détenait quelque document pour étayer ses prétentions concernant le prêt personnel à l'appelant ou l'existence d'une entente de prêt d'actionnaire entre lui‑même et Hay's Roof Management Ltd., il a répondu par la négative. L'entente intervenue entre Glen Christensen et son fils était une entente orale, et Glen Christensen ne détient aucun document écrit relativement au prêt d'actionnaire.
+[6] Comme je l'ai expliqué à l'appelant et à son représentant à l'audience, il incombe au contribuable de prouver que les hypothèses sur lesquelles la nouvelle cotisation a été fondée étaient erronées. En l'espèce, l'appelant n'a pas réussi à s'acquitter de ce fardeau. Étant donné l'absence de documents pouvant corroborer le témoignage de l'appelant et de Glen Christensen, la crédibilité de ces derniers était d'une importance cruciale pour que l'appel soit accueilli. Je dois malheureusement dire que leur témoignage n'était pas convaincant. À mon avis, l'appelant et son représentant ont présenté une version des faits favorable à l'appelant plutôt qu'un exposé des faits qui se sont produits à ce moment‑là.
+[7] Si l'explication de Glen Christensen concernant le prêt d'actionnaire et les erreurs comptables était vraie, pourquoi cette explication a‑t‑elle été présentée pour la première fois à l'audience de l'appel? Alors qu'il semble que l'appelant ait été à l'étranger pour une certaine période pendant la vérification de Hay's Roof Management Ltd., compte tenu de la participation de son père lors de la vérification de l'entreprise et du rôle actif que celui‑ci a joué dans la présentation de l'appel, il semble étrange que Glen Christensen n'ait pas mentionné la nature des paiements faits, que ce soit au vérificateur ou encore à l'étape de l'opposition. Il a expliqué que le vérificateur ne lui avait jamais posé de question au sujet des quatre paiements. Lors du contre‑interrogatoire, lorsqu'on lui a présenté des copies des notes du vérificateur indiquant le contraire, Glen Christensen a continué à soutenir qu'il ne pouvait pas se souvenir d'avoir discuté des paiements avec lui. À mon avis, il est contraire au sens commun de penser que si l'explication simple de Glen Christensen au sujet du prêt personnel était vraie, l'appelant se serait résolument opposé à la nouvelle cotisation en invoquant la disposition beaucoup plus complexe portant sur le « prêt à la réinstallation », à l'égard de laquelle il a honnêtement déclaré qu'il ne savait rien. L'appelant avait aussi une mémoire très sélective : alors qu'il a déclaré que toute discussion qu'il pourrait avoir eue avec Glen Christensen au sujet du prêt aurait certainement eu lieu à l'extérieur des locaux de l'entreprise Hay's Roof Management Ltd., il a également affirmé qu'il ne pouvait pas se souvenir d'avoir discuté des conditions du prêt avec son père. Pour sa part, Glen Christensen a affirmé qu'ils avaient discuté du prêt et que des intérêts seraient exigibles au taux de cinq pour cent. En tout état de cause, ils ont tous les deux affirmé que l'appelant n'avait jamais remboursé les 15 916 $ à son père. Rien ne permet non plus de conclure que ce montant ait été remboursé à Hay's Roof Management Ltd.
+[8] Compte tenu du manque de crédibilité des témoins et de l'absence de documents corroborants, je ne puis conclure que l'appelant a réfuté les hypothèses sur lesquelles la nouvelle cotisation a été fondée. Compte tenu du fait que l'appelant était un employé de Hay's Roof Management Ltd. au moment où les paiements ont été effectués pour son compte et qu'il n'a jamais remboursé le montant, les 15 916 $ constituaient un avantage au titre de l'emploi tel que l'envisage l'alinéa 6(1)a) de la Loi, qui est libellé en termes généraux[5]. Il n'y a aucune preuve que Hay's Roof Management Ltd. ait fait une remise de dette concernant le prêt, mais, même si tel avait été le cas, l'avantage devait toujours être inclus dans le revenu au titre du paragraphe 6(15) de la Loi. L'appel interjeté à l'encontre de la nouvelle cotisation établie pour l'année d'imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de février 2012.
+« G. A. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 4e jour de juin 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 42
+NO DU DOSSIER DE LA COUR : 2011-1857(IT)I
+INTITULÉ : DARYL CHRISTENSEN c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 24 janvier 2012
+MOTIFS DU JUGEMENT : L'honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 1er février 2012
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Glen Christensen
+Avocate de l'intimée :
+Me Dawn Francis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : s/o
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce R-1, onglet 5.
+[2] Pour des raisons que l'appelant n'a pas pu donner, il a aussi été renvoyé au paragraphe 188.2(2) de la Loi, qui porte sur la suspension du pouvoir d'un organisme de bienfaisance enregistré de délivrer des reçus officiels.
+[3] Pièce R‑1, onglets 15 et 16, à des fins d'identification seulement.
+[4] Pièce R-1, onglet 15.
+[5] Canada c. Hoefele, [1996] 1 C.F. 322, à la p. 338 (C.A.F.).

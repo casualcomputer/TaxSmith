@@ -1,0 +1,281 @@
+Title: Varcoe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26930/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-620-26930-varcoe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-20
+
+# Varcoe v. The Queen
+
+- Citation: 2005 TCC 620
+- Decision date: 2005-09-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 736, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Varcoe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-20
+Neutral citation
+2005 TCC 620
+File numbers
+2002-3063(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket:2002-3063(IT)G
+BETWEEN:
+DONALD VARCOE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Lakeway Truck Centre Ltd. (2002-3064(IT)G) on September 6, 2005,
+at Sault Ste. Marie, Ontario
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Joseph A. Bisceglia
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995, 1996, 1997 and 1998 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is awarded a full set of costs for each appeal, except that one set of costs is fixed for the hearing itself which occurred for three full days and is to be divided equally between the Appellants.
+Signed at Vancouver, British Columbia, this 20th day of September, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Docket:2002-3064(IT)G
+BETWEEN:
+LAKEWAY TRUCK CENTRE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Donald Varcoe (2002-3063(IT)G) on September 6, 2005,
+at Sault Ste. Marie, Ontario
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Joseph A. Bisceglia
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is awarded a full set of costs for each appeal, except that one set of costs is fixed for the hearing itself which occurred for three full days and is to be divided equally between the Appellants.
+Signed at Vancouver, British Columbia, this 20th day of September, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC620
+Date: 20050920
+Docket: 2002-3063(IT)G
+BETWEEN:
+DONALD VARCOE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2002-3064(IT)G
+AND BETWEEN:
+LAKEWAY TRUCK CENTRE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals pursuant to the General Procedure were heard together on common evidence at Sault Ste. Marie, Ontarioon September 6, 7, 8 and 9, 2005. Donald Varcoe, one of the Appellants testified as did the Appellants' accountants, Joseph Marinich, C.A. and David Saunders, C.A.The Respondent called the appeals officer on the file, Aldo Carbone.
+[2] The particulars in dispute in Donald Varcoe's ("Varcoe") appeal are set out
+in paragraph 5 to 9 inclusive of the Reply to his Notice of Appeal. They read:
+5. The Minister of National Revenue (the "Minister") reassessed the Appellant for his 1995, 1996, 1997 and 1998 taxation years, notice of which was dated March 27, 2000. In his reassessment, the Minister:
+a) included in computing the Appellant's income the amounts of $55,443, $90,384 and $15,836, respectively, as a benefit conferred on the Appellant by Lakeway Truck Centre Ltd. in his capacity of shareholder, and,
+b) denied business expenses for Donald Varcoe Enterprises in the amounts of $73,535 and $23,866 for the 1995 and 1996 taxation years, respectively,
+6. In computing income for his 1996, 1997 and 1998 taxation years, the Appellant did not include in his income benefits of $55,443, $90,384 and $15,836, respectively, which had been conferred on him in his capacity of shareholder by Lakeway Truck Centre Ltd.
+7. In reassessing the Appellant, the Minister made, inter alia, the following assumptions:
+a) the facts admitted and pleaded herein;
+b) in 1995 and 1996 the Appellant operated as a sole proprietor a truck repair business located in Sault Ste. Marie, Ontario called Donald Varcoe Enterprises ("Varcoe Enterprises");
+c) while operating as Varcoe Enterprises, the Appellant did not incur expenses associated with sponsoring and racing an automobile for the purpose of earning income from a business and were the personal expenses of the Appellant;
+d) on April 30, 1996, Varcoe Enterprises transferred its assets and was sold to Lakeway Truck Centre Ltd. (the "Lakeway");
+e) at all material times, the Appellant was the sole shareholder of Lakeway;
+f) at all material times, Varcoe Enterprises and Lakeway paid the Appellant's stock car racing expenses (the "racing expenses");
+g) at all material times, the racing vehicles that related to the racing expenses were stored at the Appellant's personal residence;
+h) Lakeway conferred a benefit pursuant to subsection 15(1) of the Income Tax Act on the Appellant in his capacity of shareholder for his 1996, 1997 and 1998 taxation years;
+i) the racing expenses were not incurred for the purpose of gaining or producing income from a business and were the personal expenses of the Appellant;
+j) the Appellant's racing activities were in the nature of a hobby; and,
+k) the racing expenses were not reasonable in the circumstances.
+B. ISSUES TO BE DECIDED
+8. The issues are whether:
+1994 Lakeway conferred benefits in the amounts of $55,443, $90,384 and $15,836 on the Appellant in his capacity of shareholder in his 1996, 1997 and 1998 taxation years, respectively;
+1994 the racing expenses were incurred for the purpose of gaining or producing income from a business;
+iii) the racing expenses were the personal expenses of the Appellant;
+iv) in the alternative, whether the racing expenses were reasonable in the circumstances.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON, ANDRELIEF SOUGHT
+9. He relies, inter alia, on section 67, subsection 15(1), paragraphs 18(1)(a) and 18(1)(h) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+Except that the name was "Donnie Varcoe Enterprises", assumptions 7 b), d), e) and f) were not refuted. The remainder are in dispute.
+[3] The particulars in dispute in Lakeway Truck Centre Ltd.'s ("Lakeway") appeal are set out in paragraphs 3 to 7 of the Reply to Lakeway's Notice of Appeal. They read:
+3. The Minister of National Revenue (the "Minister") reassessed the Appellant for its 1996, 1997 and 1998 taxation years, notice of which was dated February 11, 2000, to deny the Appellant the deduction of stock car racing expenses in computing its income for the said taxation years.
+4. In computing for its 1996, 1997 and 1998 taxation years, the Appellant deducted stock car racing expenses in the amounts of $54,021, $61,632 and $52,101.
+5. In reassessing the Appellant, the Minister made, inter alia, the following assumptions:
+a) the facts admitted and pleaded herein;
+b) in 1995 and 1996 Donald Varcoe operated as a sole proprietor a truck repair business located in Sault Ste. Marie, Ontario called Donald Varcoe Enterprises ("Varcoe Enterprises");
+c) on April 30, 1996, Varcoe Enterprises transferred its assets and was sold to Lakeway Truck Centre Ltd., the Appellant;
+d) at all material times, Donald Varcoe was the sole shareholder of Appellant;
+e) at all material times, Varcoe Enterprises and the Appellant incurred and paid Donald Varcoe's stock car racing expenses (the "racing expenses");
+f) at all material times, the racing vehicles that related to the racing expenses were stored at Donald Varcoe's personal residence;
+g) the Appellant conferred a benefit pursuant to subsection 15(1) of the Income Tax Act on Donald Varcoe in his capacity of shareholder for the 1996, 1997 and 1998 taxation years;
+h) the racing expenses were not incurred for the purpose of gaining or producing income from a business and were the personal expenses of Donald Varcoe;
+i) Donald Varcoe's racing activities were in the nature of a hobby; and,
+j) the racing expenses were not reasonable in the circumstances;
+B. ISSUE TO BE DECIDED
+6. The issue is whether the Minister properly denied the racing expenses in the amounts of $54,021, $61,632 and $52,101 to the Appellant for its 1996, 1997 and 1998 taxation years.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON, AND RELIEF SOUGHT
+7. He relies, inter alia, on section 67, subsection 15(1), paragraphs 18(1)(a) and 18(1)(h) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act").
+Except that the name was "Donnie Varcoe Enterprises" assumptions 5 b), c), d) and e) were not refuted. The remainder are in dispute.
+[4] At the outset, it was agreed that the amounts of claimed expenses in dispute each year is as follows:
+By Mr. Varcoe:
+1995
+$ 23,832.00
+1996
+$ 15,465.00
+By Lakeway and by Mr. Varcoe:
+1996
+$ 54,021.00
+1997
+$ 61,632.00
+1998
+$ 52,101.00
+In the course of the hearing, counsel also agreed that ten percent of the claimed expenses each year was spent on meals and entertainment.
+[5] In March, 1994, Mr. Varcoe acquired Lakeway which was then the International, or Navistar, truck dealer in Sault Ste. Marie, ("S.S.M.") Ontario. It had between 120 and 130 customers and was known to be a high priced firm respecting its parts sales. Its entire customer base was in Ontario, Canada, to S.S.M.'s north and east. To S.S.M.'s west was the state of Michigan. There were four truck sales competitors of Lakeway in S.S.M.; after 1998 there were three, but there were no International dealers for more than 100 miles around S.S.M.
+[6] Mr. Varcoe began attending car races with his parents in 1962. He has personally been a car racing fan since about 1980 and began racing his own Chevelle in 1983 for one year. Since 1980 he has attended car races in Florida, Michiganand Ontario on a regular basis every year through 2004.
+[7] Mr. Varcoe testified that he decided that Lakeway's main opportunity for an expanded customer base was in Michigan. He stated that he decided to develop a racing team to race cars at amateur, non-NASCAR tracks in Michigan so as to advertise Lakeway by signs on the cars, winning races and putting cars on the tracks in Michigan on a regular basis, even if they had been damaged the week before and had to be repaired and returned to the track within a week.
+[8] Mr. Varcoe had frequently discussed the possibility of racing for advertising purposes with his accountant Mr. Marinich. In 1994 Mr. Marinich's accounting firm, BDO Dunwoody, had Lakeway's accounting staff set its books up to track the car expenses and Mr. Marinich advised Mr. Varcoe that Lakeway should not spend more than three percent of its gross revenues on this undertaking. It and any other advertising constituted the following percent of Lakeway's sales in the years in question:
+1994
+.88%
+1995
+1.56%
+1996
+2.92%
+1997
+3.27%
+1998
+2.05%
+Lakeway's gross sales in these years were:
+$ 000's
+1994
+1,258
+1995
+2,269
+1996
+2,468
+1997
+2,790
+1998
+4,448
+Mr. Varcoe projects them to be in the $7,000,000 range in 2005.
+[9] Now 46, Mr. Varcoe has lived in S.S.M. all his life. He graduated from Grade XII there and began driving a dump truck.
+[10]A chronological summary of events germane to these appeals follows:
+1981
+· Mr. Varcoe purchased a race car for $2,000 and raced it.
+1982
+· Mr. Varcoe purchased and drove his first dump truck and expanded this as "Varcoe Trucking" from 1982 until 1990 or 1991 to a business of eight dump trucks and five transport trucks when it became known as "Donnie Varcoe Enterprises" ("DVE").
+1987
+· Mr. Varcoe purchased another race car in Michiganfor between $6,000 and $8,000 and also purchased a trailer for $10,000, all with borrowed money. DVE "probably" paid for this. Mr. Varcoe testified in cross-examination that he worked on it all winter in 1988; there were no race tracks near S.S.M. then. This car was "in parts" by 1990.
+1990
+· Mr. Varcoe built a new race car from parts which cost him $12,000-$14,000. This car was paid for personally.
+1990 - 1991
+· Mr. Varcoe started a repair shop to repair cars, operating under the trade name "J.R. Automotive" with two others who he bought out about a year later.
+About 1992
+· Mr. Varcoe personally purchased an A.S.A. qualified race car which he raced.
+1991 - 1993
+· Mr. Varcoe raced his race car and wore it out. He did not race in 1994.
+March 21, 1994
+· Mr. Varcoe's wholly owned numbered corporation buys all of the shares of Lakeway Truck Centre Ltd.
+April 27, 1994
+· The two corporations are amalgamated into Lakeway Truck Centre Ltd. ("Lakeway"). Mr. Varcoe is at all times the sole shareholder of Lakeway to this day. In 1994, Mr. Varcoe remained the sole proprietor of J.R. Automotive and DVE.
+April 30, 1994
+· Is the end of Lakeway's fiscal year for which its gross sales were $1,258,000. Lakeway's building was 65' by 100' when he acquired the business in 1994. It was and is a Navistar (International Truck) dealer. All of its customers were in Ontario, north and east of S.S.M. The state of Michigan, U.S.A.is west and south of S.S.M., Ontario. Michigan is across the St. Mary river from S.S.M.
+1994
+· Mr. Varcoe wanted to expand Lakeway's business. It sold high-priced parts, so he reduced the price of parts, and hired a sales man (Andy Rose), but sales did not increase. Lakeway's sales were to small local truckers because International does not build a big engine suitable for long-haul truckers. Mr. Varcoe testified that he decided to advertise, but Lakeway's potential customers were a small, narrow group; farmers and truckers. He testified that radio and newspaper advertising was too broad and expensive to be useful to Lakeway and its market. He stated that he wanted to penetrate the Michiganmarket. There was no Navistar dealer in Michigan until Grand Rapids, about 275 miles from S.S.M. and his salesman was not even allowed in the door of potential customers in Michigan.
+1994 - 1995
+· Mr. Varcoe testified that he decided that Lakeway would form a racing team to race cars in Michiganin order to advertise and gain income for Lakeway. He stated that his opinion was and is that truckers attend these races. Because there was no track near S.S.M., Ontario, both Ontarioand Michigan fans attended the car race tracks in Michiganfor about 100 miles from S.S.M., Ontario. Along with caps and t-shirts, that became Lakeway's sole advertising.
+1995
+· Mr. Varcoe continued to own and personally race his A.S.A. car and its expenses are not part of the subject matter of this appeal.
+March - April 1995
+· Mr. Varcoe purchased the parts from Port City Racing in Muskegan, Michigan to assemble a race car to run on the local Michigantracks and, with volunteer friends, assembled it in his shop at home. He also had his worn out 1990 race car rebuilt by Port City Racing. All of these purchases were in Michiganin Mr. Varcoe's name; all of the money paid was Lakeway's (some of the actual cash for this was from the sale of DVE's trucks which was deposited into Lakeway). Mr. Varcoe testified that the purchases were done in his name from Port City Racing so as to ease border crossing and customs problems. These parts were brought into Canadain Mr. Varcoe's name. None of the cars are licenced. The Court finds that they were and are owned by Mr. Varcoe.
+1995
+· Mr. Varcoe drove one of these two cars at the Kinross Speedway in Michiganwithin about 30-35 miles of S.S.M. These two cars raced in eight races at Kinross at the end of the 1995 racing season with the "Lakeway Truck Centre Ltd." name on them, and they might have raced at the Onaway track in Michigan in 1995 (at some time one had "Varcoe Trucking" on the upper windshield). Two other drivers drove them along with Mr. Varcoe in 1995. These drivers and the pit crew worked for no wages. At this time Lakeway still had about 120-130 customers and four competitors. Lakeway added a 25' by 23' building addition which it paid for out of cash flow and money advanced by Mr. Varcoe as he sold off his DVE trucks. There is no evidence that racing was done for the purpose of gaining income for DVE.
+1996
+· The cars participated in 70 races in Michigan at Kinross, Onaway and Elmira- all within about 150 miles from S.S.M. One of the volunteer drivers was terminated for too many accidents. Lakeway's logos were in the cars and Lakeway acquired between 30 and 45 accounts in Michigan. Mr. Varcoe attributes all of Lakeway's Michigan customers to contacts he made at races in Michiganwhen people came down to the pit to discuss cars and races. Ontariopeople also attended these races and he made contacts with them in the same way.
+1997
+· Lakewaypurchased adjoining land and added a 50' by 100' building to add three transport truck bays. It paid for them out of cash flow. By the end of 1997 it had a total of about 70 accounts in Michigan, all of which ordered by phone and fax. The racing team again performed in 60 to 70 races at the Michigantrack. All of the races in 1995, 1996, 1997 and 1998 respecting these two cars occurred in June, July and August on weekends in each year.
+1998
+· The cars again raced for about 70 races. During the racing years, Lakeway also put the race cars into S.S.M. parades and in fair parades in nearby Ontariotowns. The winnings from races in Michiganwere paid in cash in U.S. dollars to Mr. Varcoe. He testified that he gave them to the office accountant to deposit in Lakeway as income. But upon Mr. Marinich and Mr. Saunders checking, only $12, 000 U.S.was put into Lakeway from the prize money and it was treated as an advance from Mr. Varcoe personally to Lakeway. As a result, the Court finds that all of the prizes were income to Mr. Varcoe during each respective year, namely:
+1996 $8,338 U.S.
+1997 $12,565 U.S.
+1998 $7,875 U.S.
+[11] In addition, the Court accepts the testimony that the race cars were displayed in front of Lakeway in the summer and stored at Mr. Varcoe's home and shop in the winter. Mr. Saunders testified that the frames, engines and parts for the cars were all treated as expenses because they were replaced every year. The purchase of a haul trailer was also paid for as an expense by Lakeway and it was also imported in Mr. Varcoe's name. All of these have been at his home property since 1998. All of them were purchased and brought into Canadain Mr. Varcoe's personal name and paid for by Lakeway. Mr. Varcoe currently values these in the total sum of $51,500. The racing allegedly conducted by Lakeway stopped at the end of the 1998 season. Lakeway's Michigan sales peaked at $147,834 U.S.in 1998 and fell off dramatically in 1999.
+[12] In 1999 Mr. Varcoe opened his own stock car racing track in Ontario, near S.S.M. called Laird Raceway. Sales of parts and tires there are by Lakeway and Lakeway currently sponsors a race car at that track, which is on land leased from the local municipality.
+[13] It remains to be decided if the amounts claimed as advertising and constituting racing expenses are a business expense. Respecting the amounts disputed by Mr. Varcoe, they are:
+1995
+business expenses
+$ 23,832
+1996
+business expenses
+$ 15,465
+1996
+benefit from Lakeway
+$ 54,021
+1997
+benefit from Lakeway
+$ 61,632
+1998
+benefit from Lakeway
+$ 52,101
+[14] The evidence is that this money all relates to racing. The testimony by all the Appellant's witnesses is that the racing was done for the purpose of earning income for Lakeway and not for J.R. Automotive, DVE or Mr. Varcoe. There was testimony from Mr. Varcoe and his chartered accountants that Mr. Varcoe "is Lakeway". He is not. He acquired shares in a numbered corporation which purchased Lakeway and then amalgamated into Lakeway - a sophisticated corporate transaction that gives Mr. Varcoe, as sole shareholder, the limited liability protection from and by the corporation Lakeway. The money he spent in 1995 and 1996 was not spent for the personal business purposes of Mr. Varcoe. The testimony is that it was spent for Lakeway. Mr. Varcoe's appeal is dismissed respecting his claim for business expenses of $23,832 in 1995 and $15,465 in 1996. The money was spent by Mr. Varcoe for his personal amusement or hobby of racing cars.
+[15] In addition, and in any event, the Court finds that Mr. Varcoe received the following money from racing:
+1996
+Prize money
+$ 8,338 U.S.
+1997
+Prize money
+$ 12,565 U.S.
+1998
+Prize money
+$ 7,875 U.S.
+Mr. Varcoe testified in cross-examination that this cash prize money was deposited as income into Lakeway's account. It was not. Mr. Marinich testified that $12,000 of this money was treated as a shareholder's loan from Mr. Varcoe to Lakeway. Mr. Marinich also testified in cross-examination that the remaining prize money could not be traced into Lakeway. In the Court's view this is an important discrepancy in Mr. Varcoe's and in Lakeway's case. It is a part of Mr. Varcoe's testimony that could be verified and was not verified. His personal acquisition of this prize money is evidence that he viewed the racing as his personal endeavour, and the Court finds that that was its purpose.
+[16] As a result, Mr. Varcoe is not believed respecting his testimony that the racing, racing team and alleged advertising by racing was paid for by Lakeway for the purpose of gaining or producing income from its business. Rather, Mr. Varcoe was the sole shareholder of Lakeway and he was devoted to car racing as a fan and a performer. With Lakeway's money, he saw a way to build cars with parts purchased by Lakeway in Mr. Varcoe's personal name, assembled at his personal home shop and for the most part, driven by him personally. Mr. Varcoe won his 200th car race in 1998, the year Lakeway terminated the alleged racing programme. Mr. Varcoe testified that he kept the racing trophies in his home, not at Lakeway. The only forms of title to the remaining cars and trailer are the invoices and customs records which are all in Mr. Varcoe's personal name. The monies paid by Lakeway in 1996, 1997 and 1998 were properly assessed under subsection 15(1) to constitute shareholder benefits from Lakeway to Mr. Varcoe to be included in his income.
+[17] For these reasons Mr. Varcoe's appeals are dismissed.
+[18] It follows that in 1996, 1997, and 1998, the amounts agreed upon by counsel as described in paragraph 4 hereof are benefits conferred by Lakeway on Donald Varcoe in his capacity as a shareholder in the 1996, 1997 and 1998 taxation years. They were not incurred by Lakeway for the purpose of gaining or producing income from a business. Their deduction is prohibited by paragraphs 18(1)(a) and 18(1)(h) of the Income Tax Act. The assessments of Lakeway are therefore confirmed.
+[19]The Respondent is awarded a full set of costs for each appeal, except that one set of costs is fixed for the hearing itself which occurred for three full days and is to be divided equally between the Appellants.
+Signed at Vancouver, British Columbia, this 20th day of September, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC620
+COURT FILE NOS.: 2002-3063(IT)G and 2002-3064(IT)G
+STYLE OF CAUSE: Donald Varco, et al. v. The Queen
+PLACE OF HEARING: Sault Ste. Marie, Ontario
+DATE OF HEARING: September 6, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September, 20, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Joseph A. Bisceglia
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joseph a. Bisceglia
+Firm: Bisceglia, Dumanski, Rasaiah, LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

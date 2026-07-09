@@ -1,0 +1,162 @@
+---
+title: "Roberts c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30948/index.do"
+last_modified: "2012-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 319"
+citation2: ""
+neutral_citation: "2012 CCI 319"
+decision_date: "2012-09-20"
+language: "fr"
+item_id: "30948"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4821
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:24:39.834000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0e806dc5645d08afa83d3ca563f5f4cce9d5ec7c643da520110aaa1add65988"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roberts c. La Reine
+
+- Citation: 2012 CCI 319
+- Decision date: 2012-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4821, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roberts c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-20
+Référence neutre
+2012 CCI 319
+Numéro de dossier
+2011-3778(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2012CCI319
+Date : 20120907
+Dossier : 2011-3778(IT)I
+ENTRE :
+OSWALD F. ROBERTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 13 juillet 2012, à Toronto (Ontario).)
+La juge V. A. Miller
+[1] Le présent appel porte sur les cotisations établies à l’égard de M. Roberts pour les années d’imposition 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2009 et 2010. La question en litige est de savoir si M. Roberts peut demander un crédit d’impôt pour frais médicaux pour les sommes qu’il a payées au YMCA et au Centre communautaire juif (le « CCJ ») pour ces années. La question accessoire est de savoir si l’appelant dispose des documents justifiant le montant additionnel de 672 $ qu’il a demandé à déduire de son revenu pour 2009 à titre de frais médicaux.
+[2] Au début de l’audience, l’avocate de l’intimée a concédé le fait que ce montant de 672 $ correspondait à des frais médicaux payés en 2009 et que l’appel devrait être accueilli pour ce qui est de ces frais.
+Question préliminaire
+[3] À titre de question préliminaire, l’avocate de l’intimée a demandé à ce que les appels interjetés à l’égard des cotisations établies pour les années d’imposition 2001, 2002, 2003, 2004, 2005, 2006 et 2007 soient annulés, considérant que, pour ces années, l’appelant n’a pas signifié d’avis d’opposition au ministre du Revenu national (le « ministre ») comme l’exige le paragraphe 165(1) de la Loi de l’impôt sur le revenu (la « Loi »). De même, l’appelant n’a pas demandé de prorogation du délai prévu pour s’opposer à une cotisation dans les limites fixées par le paragraphe 166.1(7) de la Loi. Pour appuyer sa position, l’avocate de l’intimée a déposé en preuve l’affidavit de Maria Paskaris, représentante de l’Agence du revenu du Canada (l’« ARC ») affectée au Bureau des litiges de Toronto.
+[4] Cet affidavit faisait état des éléments suivants :
+Année
+Cotisation
+Nouvelle cotisation
+Période de 90 jours
+Une année
+2001
+22 juin 2006
+20 septembre 2006
+20 septembre 2007
+2002
+5 mai 2003
+5 août 2003
+5 août 2004
+2003
+29 avril 2004
+Cotisation néant
+2004
+14 juillet 2005
+Cotisation néant
+2005
+30 mars 2006
+15 juin 2007
+2006
+et 2007
+27 août 2009
+25 novembre 2009
+25 novembre 2010
+[5] Le 12 avril 2011, l’appelant s’est opposé à l’ensemble des nouvelles cotisations dont il est question ci‑dessus et on l’a avisé que le délai prévu à cette fin avait expiré et que son opposition ne saurait être acceptée.
+[6] Pour interjeter appel devant la Cour canadienne de l’impôt, les contribuables sont tenus de signifier au ministre un avis d’opposition dans un délai d’un an et quatre-vingt-dix jours suivant la date d’établissement de la nouvelle cotisation ou la date de production de la déclaration, selon le cas[1]. L’appelant n’a pas respecté cette exigence pour les années d’imposition 2001, 2002, 2003, 2004, 2005, 2006 et 2007.
+[7] La requête en annulation de l’intimée est accueillie.
+Les frais médicaux
+[8] En 1992, l’appelant s’est vu diagnostiquer un cancer de la prostate. Son médecin lui a recommandé d’adopter un programme d’exercices, aussi bien pendant la phase préopératoire que postopératoire, afin de l’aider à faire face aux suites de l’opération. Le 9 octobre 1992, l’appelant a subi une prostatectomie radicale.
+[9] Après son opération, l’appelant a souffert d’incontinence. Il a continué son programme d’exercices en devenant membre du CCJ et, en 2009, il est devenu membre du YMCA. Ses frais d’adhésion ont été les suivants :
+2009
+2010
+CCJ
+453 $
+YMCA
+724 $
+1 235 $
+Total
+1 177 $
+1 235 $
+[10] Comme on peut le constater à la lecture de la correspondance que l’appelant a échangée avec son médecin, les symptômes d’incontinence que l’appelant présentait ont considérablement diminué depuis que ce dernier s’est inscrit au CCJ/YMCA.
+[11] L’appelant est d’avis qu’il devrait être autorisé à déduire ces montants de son revenu à titre de frais médicaux pour les raisons suivantes : a) Il est devenu membre de ces organismes sur la recommandation de son médecin, qui lui avait suggéré d’entreprendre un programme d’exercices. b) Le CCJ et le YMCA sont tous deux des organismes de bienfaisance enregistrés. c) Sur le site Web de l’ARC, dans le formulaire T2201, on peut lire que les programmes récréatifs qui sont offerts par des organismes du secteur public aux particuliers handicapés et qui sont accessibles en permanence dans un centre communautaire sont admissibles. d) La Division des appels du Bureau des services fiscaux de Sudbury l’a autorisé à demander la déduction de ses frais d’adhésion au CCJ à titre de frais médicaux pour 2008.
+[12] La définition de « frais médicaux » qui apparaît au paragraphe 118.2(2) de la Loi comprend une liste des types particuliers de coûts qui sont admissibles aux fins du calcul du crédit d’impôt pour frais médicaux. Cette liste étant exhaustive, seuls les frais qui y sont énumérés sont admissibles à titre de frais médicaux. La Cour d’appel fédérale l’a clairement établi dans l’arrêt Ali c. Canada, 2008 CAF 190, au paragraphe 17 :
+En ce qui concerne l’économie de la loi en cause en l’espèce, la définition de « frais médicaux » au paragraphe 118.2(2) de la LIR comporte une énumération des types particuliers de coût qui sont admissibles au CIFM, ce qui indique que la loi avait pour but de limiter le CIFM à une liste d’éléments particuliers.
+[13] Les frais d’adhésion à un centre sportif n’apparaissent pas au rang des frais médicaux énumérés aux alinéas du paragraphe 118.2(2). Je suis d’avis qu’il s’ensuit que les frais d’adhésion à un centre sportif ne sont pas considérés comme des frais médicaux au sens de la Loi.
+[14] En ce qui a trait au deuxième argument de l’appelant, à savoir que le CCJ et le YMCA sont tous deux des organismes de bienfaisance, il n’a aucun impact sur la question de savoir si les frais d’adhésion à ces organismes sont des frais médicaux.
+[15] Dans son avis d’appel, l’appelant a présenté un argument qu’il affirme être une citation tirée du site Web de l’ARC. Il affirme que cette citation est extraite du formulaire T2201.
+[16] Le formulaire T2201 est le formulaire de demande et d’attestation pour le crédit d’impôt pour personnes handicapées. Il s’applique à un crédit d’impôt distinct du crédit d’impôt pour frais médicaux. Le crédit d’impôt pour personnes handicapées s’applique aux personnes qui ont une « déficience grave et prolongée des fonctions physiques ou mentales » tel qu’attesté par un praticien qualifié. Or, le crédit d’impôt pour frais médicaux s’applique aux personnes qui ont supporté des frais médicaux importants. Le formulaire T2201 ne s’applique pas aux faits en l’espèce.
+[17] Pour finir, l’appelant a fait valoir qu’il avait pu déduire de son revenu pour 2008 le coût de son adhésion à un centre sportif à titre de frais médicaux et que, de ce fait, on devrait l’autoriser à déduire de son revenu ses frais d’adhésion à des centres sportifs pour 2009 et 2010 à titre de frais médicaux.
+[18] L’ARC n’est pas tenue d’établir les cotisations à l’égard de l’appelant exactement de la même manière pour toutes les années d’imposition. Comme le juge Boyle l’a déclaré dans l’arrêt Couture c. La Reine, 2008 CCI 171, au paragraphe 10 :
+Malheureusement, la cotisation établie par l’ARC à l’égard d’un particulier pour une année d’imposition n’empêche aucunement l’ARC de revenir sur la question et de prendre une position différente pour d’autres années d’imposition.
+[19] Je dois malheureusement rejeter l’appel interjeté par l’appelant en ce qui a trait à la question des frais d’adhésion qu’il a payés au CCJ et au YMCA pendant les années d’imposition 2009 et 2010. Pendant l’année d’imposition 2009, l’appelant a engagé des frais médicaux de 672 $, et l’appel est accueilli pour ce qui est de ces frais.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2012.
+« V. A. Miller »
+Juge V. A. Miller
+Traduction certifiée conforme
+ce 23e jour d’octobre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 319
+NO DU DOSSIER DE LA COUR : 2011-3778(IT)I
+INTITULÉ : Oswald F. Roberts c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 juillet 2012
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 18 juillet 2012
+DATE DES MOTIFS RENDUS
+ORALEMENT: Le 13 juillet 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Andrea Jackett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Bormann c. Canada, 2005 CAF 82

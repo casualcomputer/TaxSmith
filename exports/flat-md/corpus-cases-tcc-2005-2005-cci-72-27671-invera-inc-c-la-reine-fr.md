@@ -1,0 +1,191 @@
+---
+title: "Invera Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27671/index.do"
+last_modified: "2005-01-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 72"
+citation2: ""
+neutral_citation: "2005 CCI 72"
+decision_date: "2005-01-20"
+language: "fr"
+item_id: "27671"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 492
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:20:57.708000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06de1d0b8ed8107e09a047dab86be27b6b0e2fbf91fb501f4fee8bf7e2e93603"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Invera Inc. c. La Reine
+
+- Citation: 2005 CCI 72
+- Decision date: 2005-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 492, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Invera Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-20
+Référence neutre
+2005 CCI 72
+Numéro de dossier
+2001-360(GST)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-360(GST)G
+ENTRE :
+INVERA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 novembre 2004 à Montréal (Québec).
+Devant : L’honorable D.G.H. Bowman, juge en chef adjoint
+Comparutions :
+Avocat de l’appelante :
+Stéphane Eljarrat
+Avocat de l’intimée :
+Benoît Denis
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté contre la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 25 février 2000 et porte le numéro GG10118, est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national afin qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci-joint en tenant compte du fait que les frais exigés des clients non-résidents de l’appelante qui sont en cause dans le présent appel sont détaxés.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2005.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+Référence : 2005CCI72
+Date : 20050120
+Dossier : 2001-360(GST)G
+ENTRE :
+INVERA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Le présent appel vise une cotisation établie en application des dispositions touchant la taxe sur les produits et services (la « TPS ») de la Loi sur la taxe d’accise (la « LTA ») relativement à la période allant du 1er janvier 1996 au 31 août 1999. Au cours de la période en question, l’appelante était une société d’informatique et de technologie fournissant des systèmes logiciels à l’industrie de la fabrication, de la distribution et du traitement des métaux.
+[2] Les déclarations suivantes énoncées dans l’avis d’appel sont admises dans la réponse à l’avis d’appel.
+[TRADUCTION]
+L’appelante est une personne morale dûment constituée en société sous le régime de la Loi canadienne sur les sociétés par actions, modifiée, ayant son siège social et son établissement principal au 4333, rue Ste‑Catherine Ouest, dans la ville de Westmount (Québec).
+Au cours de la période en cause, l’appelante était une société d’informatique et de technologie fournissant des systèmes logiciels à l’industrie de la fabrication, de la distribution et du traitement des métaux.
+Au cours de la période en cause, l’appelante fournissait des services de formation relatifs aux logiciels vendus aux distributeurs et clients non-résidents de sa filiale américaine en propriété exclusive. Les services de formation en question :
+a) comprenaient un examen en profondeur des politiques et des procédures relatives à l’utilisation des logiciels;
+b) avaient trait à un champ d’expertise spécialisé, à savoir la mise en application de systèmes logiciels nouvellement acquis, conçus spécialement pour l’industrie des métaux;
+c) étaient fournis parfois au Canada, parfois à l’extérieur du Canada.
+Au cours de la période en cause, l’appelante n’a pas facturé la taxe sur les produits et services (la « TPS ») lorsque les services de formation en question étaient fournis au Canada à des distributeurs et clients non-résidents.
+[…]
+[3] Une cotisation fixant des montants d’impôt, d’intérêts et de pénalités relatifs à la contrepartie payée pour les services qui ont été fournis au Canada a été établie à l’égard de l’appelante. La question que la Cour doit trancher en l’espèce est de savoir si les services fournis par l’appelante aux distributeurs et clients non‑résidents de sa filiale américaine étaient détaxés lorsqu’ils étaient rendus au Canada.
+[4] Selon l’article 123 de la LTA, une fourniture détaxée est une fourniture figurant à l’annexe VI. L’article 23 de la partie V de l’annexe VI de la LTA est ainsi rédigé :
+23 – La fourniture d’un service consultatif ou professionnel au profit d’une personne non-résidente, à l’exclusion des fournitures suivantes :
+a) un service rendu à un particulier dans le cadre d’une instance criminelle, civile ou administrative au Canada, sauf s’il est rendu avant le début de l’instance;
+b) un service lié à un immeuble situé au Canada;
+c) un service lié à un bien meuble corporel qui est situé au Canada au moment de l’exécution du service;
+d) un service de mandataire de la personne ou un service consistant à faire passer des commandes pour des fournitures à effectuer par la personne ou à son profit, à obtenir de telles commandes ou à faire des démarches en vue d’en obtenir.
+La version anglaise de l’article est libellée en ces termes :
+23 – A supply of an advisory, professional or consulting service made to a non‑resident person, but not including a supply of
+(a) a service rendered to an individual in connection with criminal, civil or administrative litigation in Canada, other than a service rendered before the commencement of such litigation;
+(b) a service in respect of real property situated in Canada;
+(c) a service in respect of tangible personal property that is situated in Canada at the time the service is performed; or
+(d) a service of acting as an agent of the non‑resident person or of arranging for, procuring or soliciting orders for supplies by or to the person.
+[5] La disposition générale de la partie V de l’annexe VI est l’article 7, qui est rédigé ainsi :
+7 – La fourniture d'un service au profit d'une personne non-résidente, à l'exclusion des fournitures suivantes :
+a) un service fourni à un particulier qui se trouve au Canada lorsqu'il communique avec le fournisseur concernant la fourniture;
+a.1) un service rendu à un particulier pendant qu'il se trouve au Canada;
+b) un service consultatif ou professionnel;
+c) un service postal;
+d) un service lié à un immeuble situé au Canada;
+e) un service lié à un bien meuble corporel qui est situé au Canada au moment de l'exécution du service;
+f) un service de mandataire de la personne ou un service consistant à faire passer des commandes pour des fournitures à effectuer par la personne ou à son profit, à obtenir de telles commandes ou à faire des démarches en vue d'en obtenir;
+g) un service de transport;
+h) un service de télécommunication.
+[6] L’article 7 renferme une disposition générale de détaxation des services rendus à des non-résidents, et exclut de l’application de cette disposition générale plusieurs services, y compris les services consultatifs ou professionnels. Cependant, lorsqu’ils sont rendus à un non-résident, les services en question sont quand même détaxés, et ce, en vertu de l’article 23, qui comporte plusieurs exceptions, dont certaines sont identiques à celles prévues à l’article 7. Il existe une présomption d’absence de tautologie dans les termes d’une loi, mais la redondance apparente des articles 7 et 23 se justifie, à mon avis, par le souci d’éviter l’ambiguïté. Il s’ensuit que les services consultatifs ou professionnels rendus à un non-résident sont détaxés à moins qu’ils ne tombent sous le coup des quatre exceptions prévues à l’article 23.
+[7] L’intimée soutient que les services rendus aux employés des clients non‑résidents de l’appelante étaient de la « formation » (« training » en anglais) et qu’ils étaient visés par l’alinéa 7a) pour la période du 1er janvier 1996 au 30 juin 1996 ou par l’alinéa 7a.1) pour la période suivant le 30 juin 1996.
+[8] Pour évaluer cet argument, il est nécessaire de décrire brièvement le type de services que l’appelante rendait à ses clients non-résidents. La technologie utilisée dans le genre de logiciels que l’appelante fournit à ses clients non-résidents est fort complexe et oblige parfois les clients à envoyer des employés au Canada.
+[9] C’est dans le témoignage de M. Ram Panda, le président de l’appelante, qu’on trouve la meilleure description des services fournis.
+[TRADUCTION]
+Q. Et les services qui sont en cause aujourd’hui, les services qui sont selon nous détaxés, est-ce que vous pourriez donner à la Cour une idée générale du pourcentage de l’ensemble de vos activités ou de l’ensemble de vos ventes qu’ils représentent?
+R. Je crois que j’ai en fait demandé à notre vice-président aux finances de rédiger un document, ça représente, en fait d’argent, je crois que c’est moins de la moitié d’un pour cent (0,5 %) de nos ventes, je crois que j’ai un document justificatif que je pourrais vous remettre à vous et à la Cour. Mais juste pour mettre les choses en contexte, lorsqu’un client achète notre logiciel, il reçoit en fait tous les documents qui l’aideront à implanter et à installer le logiciel, comme tous les manuels, etc. En général, nous intervenons parce qu’aux États Unis, nous avons une société aux États-Unis qui distribue le logiciel, etc. Notre rôle ici, nous intervenons seulement si un client a un besoin particulier auquel il n’est pas en mesure de répondre à cause d’une exigence opérationnelle touchant le logiciel. Alors ils doivent venir nous voir de temps en temps pour obtenir des conseils, pour que nous puissions les aider dans ces cas particuliers. Je vais vous donner un exemple typique; il est arrivé une fois que les autorités commerciales américaines demandent à un de nos clients de Chicago des données, pour plusieurs années antérieures, concernant certains types d’acier venant de lots particuliers reçus d’une source particulière et la façon dont ils avaient été traités et vendus; elles voulaient toutes les données statistiques et aucun logiciel ne pouvait simplement établir un rapport de ce genre. Alors ils ont dû venir nous voir et nous dire voici, d’abord ils ont dû nous expliquer leur problème et nous avions dû les conseiller sur la façon de rassembler ces renseignements et d’établir un rapport.
+Un deuxième exemple typique serait, disons qu’un client a acheté une autre société et il a décidé de changer la fin de l’exercice, la fin de l’exercice financier de la société, par exemple du trente (30) septembre au trente et un (31e) décembre. Cela semble simple du point de vue de la comptabilité, mais les processus qui doivent être suivis lorsqu’ils ont des bases de données et des données synchronisées avec des fins de mois et des fins d’exercice particulières, c’est très compliqué de changer ce genre de choses. Et c’est très particulier, parce que ce n’est pas quelque chose de générique où nous pourrions simplement dire à tous les clients, voilà la procédure, voilà comment vous devez le faire. Donc, nous devons comprendre comment ils veulent présenter leurs données, quelle incidence cela aurait sur leur comptabilité, quelle incidence cela aurait sur l’exécution de leurs commandes, etc. Voilà des services que nous offrons. Et, dans la plupart des cas, ces services sont rendus sur place et, très rarement, si nous avons des contraintes nous empêchant d’envoyer nos employés chez les clients, nous demandons à ces derniers de venir ici à Montréal, mais cela représente une très petite fraction de nos ventes. Comme je l’ai déjà dit, c’est moins de la moitié d’un pour cent (0,5 %) de nos ventes.
+[10] Ce qui ressort du passage reproduit ci-dessus et de l’ensemble du témoignage de M. Panda, que j’accepte, c’est que l’appelante fournit des services consultatifs et professionnels dans un domaine hautement spécialisé où il s’agit de l’utilisation d’un logiciel à une fin très précise dans l’industrie des métaux. L’intimée établit une distinction entre la « formation » et les « services consultatifs et professionnels ». Le terme « formation » est utilisé sur certaines factures mais, dans la mesure où il implique un simple processus formatif routinier de base concernant l’utilisation du logiciel sur un ordinateur, il est mal approprié. Il englobe bien plus que cela. Il s’agit en fait de conseils, fournis par des professionnels hautement qualifiés, sur l’utilisation du logiciel à une fin précise. À mon avis, le service fourni aux clients de l’appelante est compris précisément dans la notion de « services consultatifs et professionnels ». Cette conclusion est d’ailleurs compatible avec l’interprétation adoptée par l’ADRC elle‑même. Les passages suivants figurent dans la base de données des questions et réponses de l’ADRC :
+Un service consultatif se rapporte à un service visant à offrir de l’information, de l’instruction ou de l’expertise. Un consultant offre généralement des services liés à un champ d’expertise ou de formation spécialisée.
+Un service consultatif peut viser la gestion, le marketing, le traitement des données, les relations publiques ou d’autres sujets ou problèmes auxquels le client doit faire face. On considère qu’un service consultatif ne comprend pas le travail entrepris ou exécuté suite aux recommandations ou aux plans acceptés par le client ou aux conseils fournis par le client.
+Un service professionnel est généralement défini en fonction du particulier qui fournit le service. Si la personne qui fournit le service n’est pas un particulier, par exemple une société de personnes ou une entreprise, le Ministère prendra en considération le statut des professionnels assignés à fournir le service pour déterminer si celui-ci est un service professionnel.
+[11] Il ressort clairement de la preuve que les personnes qui fournissent le service consultatif en l’espèce sont des professionnels hautement qualifiés. Le commentaire suivant a été fait dans la décision Montgomery c. Canada (Ministre du Revenu national), [1995] A.C.I. no 1627 (QL), [1996] 1 C.T.C. 2796, infirmée dans [1997] A.C.F. no 1343 (QL), [1998] 1 C.T.C. 58, rétablie dans [1999] A.C.F. no 444 (QL), [1999] 2 C.T.C. 196 :
+En outre, je crois qu'il est évident que les cotisations annuelles que l'appelant a versées sont des cotisations de membre d'association « professionnelle ». L'époque où les professions au sein du clergé et des forces armées étaient les seules à être reconnues est bien révolue. Ce n'est que plus tard que la médecine et le droit ont été reconnus comme des « professions ». Depuis, cette expression a évolué de manière à englober une vaste gamme de vocations : dentistes, arpenteurs, artistes, ministres, enseignants, infirmières, secrétaires, danseurs, thérapeutes, scientifiques, comptables, professeurs, travailleurs sociaux, pharmaciens, ingénieurs, spécialistes de l'informatique et écrivains, pour ne nommer que celles-là.
+[12] À mon avis, ni l’alinéa 7a) ni l’alinéa 7a.1) ne s’appliquent en l’espèce. Les services sont fournis au client non-résident sous la forme de services consultatifs fournis à des employés du client. L’avocat de l’intimée a souligné que le terme « fourni » (« made » dans la version anglaise) est utilisé à l’alinéa a), alors que le terme « rendu » (« rendered » dans la version anglaise) est utilisé à l’alinéa a.1). Comme j’estime qu’aucun de ces alinéas ne s’applique en l’espèce, la distinction entre les termes « fourni » et « rendu » (« made » et « rendered ») n’est pas importante pour les besoins de la présente affaire, quelle que puisse être sa portée dans d’autres circonstances.
+[13] Indépendamment de l’interprétation des alinéas 7a) et 7a.1), l’article 23 traite expressément des services consultatifs et professionnels. Exclure les services dont il est question en l’espèce de l’application de la disposition de détaxation en se fondant sur l’alinéa 7a) ou 7a.1) rendrait inopérant l’article 23. Il s’agit, à n’en pas douter, d’un cas où les deux vénérables maximes latines expressio unius est exclusio alterius et generalia specialibus non derogant s’appliquent.
+[14] L’avocat de l’intimée a également mentionné l’article 18 de la partie V de l’annexe VI. Cet article est libellé ainsi :
+18 — La fourniture, au profit d'une personne non-résidente, sauf un particulier, qui n'est pas inscrite aux termes de la sous-section d de la section V de la partie IX de la loi, d'un service qui consiste à donner à des particuliers non-résidents des cours et des examens qui mènent à un certificat, à un diplôme, à un permis ou à un acte semblable, ou des classes ou des grades conférés par un permis, attestant la compétence de ces particuliers dans l'exercice d'un métier.
+[15] Son argument veut que puisque l’article 18 traite d’un certain type de services (c’est-à-dire ceux rendus à des personnes non-résidentes qui ne sont pas des particuliers ou ceux qui consistent à donner à des particuliers des cours menant à l’obtention d’un certificat ou d’une reconnaissance professionnelle dans un domaine donné), tous les autres types de formation sont implicitement exclus. Le terme « formation » n’est pas utilisé dans cet article.
+[16] Cet article vise essentiellement un certain type de cours. À mon avis, il n’exclut pas le genre de services consultatifs que l’appelante fournit à ses clients. En fait, nous ne sommes tout simplement pas en présence en l’espèce du genre de formation plutôt rudimentaire que le vérificateur avait, de toute évidence, présent à l’esprit. Bien que le terme « formation » soit utilisé sur les factures et dans l’avis d’appel, en l’espèce il englobe manifestement une large gamme de services consultatifs. Si le législateur avait voulu exclure toute formation, il l’aurait fait en suivant le procédé qu’il a utilisé aux articles 7 et 23, c’est-à-dire en employant une disposition initiale d’inclusion de portée générale assujettie à un nombre relativement important d’exclusions susceptibles elles-mêmes d’être écartées par d’autres dispositions particulières. À titre d’exemple, l’alinéa 7b) est exclu de l’application de la disposition initiale de l’article 7 mais l’inclusion est rétablie à l’article 23. On pourrait soutenir que les alinéas 7a) ou 7a.1) excluent certains types de formation dont l’inclusion est ensuite rétablie d’une façon très restreinte à l’article 18. En effet, tous les services consultatifs comportent sans doute un élément formateur, qu’il s’agisse du domaine du droit, de l’informatique, de la médecine, de la mode ou de la décoration intérieure.
+[17] Il semble que sous le régime de l’annexe VI, partie V, certains services fournis à des non-résidents sont expressément exclus à l’article 7 mais inclus à nouveau par d’autres articles de la partie V, alors que d’autres services, qui ne sont pas expressément exclus à l’article 7, sont néanmoins expressément détaxés par d’autres articles.
+[18] Le fait qu’une question identique touchant la même société a été soulevée dans le contexte de la loi québécoise sur la taxe de vente dans Invera Inc. c. Québec (Sous‑Ministre du Revenu) (Cour du Québec no 500‑02-092098-016, le 11 juillet 2003) me renforce dans ma conclusion que les services en cause sont détaxés.
+[19] Après avoir cité l’article 191.10 de la Loi sur la taxe de vente du Québec (qui correspond essentiellement à l’article 23 de la partie V de l’annexe VI de la LTA), le juge Dumais a dit :
+[17] En fait, l’article précité détaxe « le service de conseil, de consultation ou professionnel », cependant que l’article 185 détaxe « la fourniture de service », avec des exceptions autres que la situation décrite en l’article 191.10.
+[18] Si les services vendus à une personne ne résidant pas au Québec, pour consommation hors Québec sont un « service de conseil, de consultation ou professionnel », ils dépassent le cadre général de l’article 185, et en sont une division bien précisée. Sans cette spécificité, l’article 191.10 n’a pas de raison d’exister.
+[19] Ou, plus spécifiquement : est taxée la fourniture d’un service à une personne qui ne réside pas au Québec, s’il s’agit d’un « service de conseil, de consultation ou professionnel » (art. 185 précité, dans ses deux versions, avant et après le 23 avril 1996).
+[20] Bien que je ne sois pas lié par les décisions des cours supérieures des provinces, ces décisions devraient, lorsque cela est possible, être suivies par souci de courtoisie et d’uniformité. En l’espèce, je souscris pleinement à la conclusion du juge Dumais.
+[21] L’appel interjeté contre la cotisation établie en vertu de la LTA est accueilli avec dépens, et la cotisation est renvoyée au ministre du Revenu national afin qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que les frais exigés des clients non-résidents de l’appelante qui sont en cause dans le présent appel sont détaxés.
+Signé à Ottawa, Canada, ce 20e jour de janvier 2005.
+« D.G.H. Bowman »
+Juge en chef adjoint Bowman
+RÉFÉRENCE :
+2005CCI72
+No DU DOSSIER DE LA COUR :
+2001-360(GST)G
+INTITULÉ :
+Invera Inc. et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 16 novembre 2004
+MOTIFS DU JUGEMENT :
+L’honorable D.G.H. Bowman
+DATE DU JUGEMENT ET DES MOTIFS DU JUGEMENT :
+Le 20 janvier 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Stéphane Eljarrat
+Avocat de l’intimée :
+Benoît Denis
+AVOCATS INSCRITS AU DOSSIER :
+Pour :
+Nom :
+Stéphane Eljarrat
+Cabinet :
+Davies Ward Phillips & Vineberg LLP
+26e étage, 1501, ave. McGill College
+Montréal (Québec) H3A 3N9
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

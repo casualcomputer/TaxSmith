@@ -1,0 +1,139 @@
+Title: Brighton c. Canada (Ressources humaines et Développement des compétences)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/63499/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-323-63499-brighton-c-canada-ressources-humaines-et-d-veloppement-des-comp-tences-fr.md
+Document type: case_law
+Last modified: 2013-10-15
+
+# Brighton c. Canada (Ressources humaines et Développement des compétences)
+
+- Citation: 2013 CCI 323
+- Decision date: 2013-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6008, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brighton c. Canada (Ressources humaines et Développement des compétences)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-15
+Référence neutre
+2013 CCI 323
+Numéro de dossier
+2013-1442(OAS)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2013-1442(OAS)
+ENTRE :
+GAIL BRIGHTON,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 18 juillet 2013, à Nanaimo (Colombie-Britannique)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+JUGEMENT
+L’appel interjeté à l’encontre des calculs que l’intimé a faits à l’égard du revenu de l’appelante, tant pour l’année de référence 2011 qu’au titre du paragraphe 14(2) de la Loi sur la sécurité de la vieillesse, est rejeté, sans frais, conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 22e jour de novembre 2013.
+C. Laroche
+Référence : 2013 CCI 323
+Date : 20131015
+Dossier : 2013-1442(OAS)
+ENTRE :
+GAIL BRIGHTON,
+appelante,
+et
+LE MINISTRE DES RESSOURCES HUMAINES
+ET DU DÉVELOPPEMENT DES COMPÉTENCES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Mme Brighton a interjeté appel de la décision par laquelle le ministre des Ressources humaines et du Développement des compétences (le « ministre ») a conclu qu’elle n’avait droit à aucune prestation du supplément de revenu garanti (le « SRG ») au titre de la Loi sur la sécurité de la vieillesse (la « LSV »), pour la période du 1er juillet 2012 au 30 juin 2013.
+[2] Dans la plupart des cas, la prestation du SRG qui s’applique à une période de paiement, laquelle s’étend du 1er juillet de chaque année au 30 juin de l’année suivante, est fondée sur le revenu que le demandeur a touché pendant l’année civile qui précède le début de la période de paiement. L’année civile précédente est appelée l’« année de référence », et le demandeur est tenu de fournir une déclaration de son revenu pour cette année de référence, relativement à chaque période de paiement.
+[3] Les paragraphes 14(2) à (6) de la LSV permettent également à un demandeur du SRG de produire une déclaration supplémentaire de son revenu estimatif pour l’année suivant l’année de référence s’il a cessé une activité rémunérée – charge, emploi ou exploitation d’une entreprise – ou s’il subit une suppression ou une réduction du revenu perçu au titre d’un régime de pension au cours de l’année. Ces dispositions permettent au ministre de tenir compte du fait que le revenu que tire le demandeur de ces sources sera inférieur à celui qu’il a touché au cours de l’année de référence. Cependant, une estimation du revenu tient quand même compte du montant de revenu que le demandeur a perçu de toutes autres sources durant l’année de référence.
+[4] Aux termes de l’article 2 de la LSV, le revenu d’une personne pour une année civile est, sous réserve de quelques exceptions non applicables en l’espèce, celui qui est calculé en conformité avec la Loi de l’impôt sur le revenu.
+[5] Dans le cas présent, Mme Brighton a cessé d’exploiter une entreprise le 31 décembre 2011. Elle avait donc le droit de produire une déclaration de revenu estimatif pour 2012, comme le prévoit l’alinéa 14(5)a) de la LSV. Aux termes des sous-alinéas 14(5)a)(i) et (ii), elle était en droit d’estimer le revenu qu’elle percevrait au titre de tout régime de pension et au titre de toute activité rémunérée pour 2012. Toutefois, le sous-alinéa 14(5)a)(iii) exigeait quand même qu’elle inclue dans son estimation de revenu pour 2012 le revenu perçu de toutes les autres sources au cours de l’année de référence (2011).
+[6] Les passages pertinents de l’alinéa 14(5)a) sont les suivants :
+(5) Si la cessation d’une activité a eu lieu dans les cas visés aux alinéas a) ou b), le demandeur […] peut […] produire une seconde déclaration où figure :
+a) si la cessation a eu lieu au cours de l’année civile précédant la période de paiement, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, lequel correspond alors au total des éléments suivants :
+(i) son revenu perçu au titre de tout régime de pension au cours de l’année civile,
+(ii) son revenu perçu au titre de toute activité rémunérée pour cette année civile, compte non tenu du revenu perçu au titre de l’activité qu’il a cessé d’exercer,
+(iii) son revenu pour l’année de référence, compte non tenu du revenu perçu au cours de celle-ci au titre de toute activité rémunérée ou de tout régime de pension;
+[7] Pour 2011, soit l’année de référence applicable en l’espèce, le revenu total de Mme Brighton se composait des montants suivants :
+Revenu de retraite du RPC
+7 017 $
+Dividendes et gains en capital
+284
+Perte locative nette
+(9 168)
+Perte d’entreprise nette
+(22 246)
+Revenu de REER
+42 508
+Total
+18 395 $
+[8] Dans sa déclaration de revenu estimatif pour 2012, déposée en vertu de l’alinéa 14(5)a), Mme Brighton n’a inscrit qu’un revenu de retraite du RPC de 7 213,44 $ et un revenu de location de 1 500 $. Le ministre a conclu que Mme Brighton était également tenue, par le sous-alinéa 14(5)a)(iii), d’inclure dans son revenu estimatif ses dividendes et gains en capital, ainsi que sa perte locative nette et son revenu de REER pour 2011. En entrant en ligne de compte ces montants, son revenu estimatif, d’après l’alinéa 14(5)a), s’élevait à 40 837,44 $.
+[9] Selon les calculs du ministre, le revenu que Mme Brighton avait perçu dans l’année de référence ainsi que son revenu estimatif, d’après l’alinéa 14(5)a), excédaient tous deux le seuil de revenu applicable au paiement des prestations du SRG, lequel était de 16 512 $ pour la période de paiement de prestations de 2012‑2013.
+[10] Mme Brighton conteste le calcul que le ministre a fait de son revenu estimatif pour 2012, et, en particulier, le fait que ce dernier a inclus son revenu de REER pour 2011 aux termes du sous-alinéa 14(5)a)(iii) de la LSV. Elle est d’avis qu’il faudrait exclure ce revenu du calcul de son revenu pour l’année de référence de 2011, parce qu’il a été perçu au titre d’un régime de pension. Le sous-alinéa 14(5)a)(iii) exige que le revenu du demandeur pour l’année de référence soit calculé en tenant pour acquis que ce dernier n’a pas perçu de revenu au titre d’une activité rémunérée ou d’un régime de pension.
+[11] Dans son témoignage, Mme Brighton a expliqué qu’elle était la bénéficiaire d’un REER appartenant à son ex-époux, décédé le 1er mars 2009. Après le décès de ce dernier, l’une des relations de son ex‑époux défunt a contesté la désignation de Mme Brighton à titre de bénéficiaire du REER. L’affaire a été tranchée en faveur de Mme Brighton, et le produit du REER lui a été payé en avril 2011. Elle a reconnu avoir déclaré le montant dans sa déclaration de revenus de 2011.
+[12] La question de savoir si les paiements tirés d’un REER constituent un revenu provenant d’un régime de pension, au sens où ce terme est défini pour l’application de la LSV, s’est posée dans au moins deux autres affaires que la Cour a tranchées : Drake c Ressources humaines, 2005 CCI 498, et Gonder c Ressources humaines, 2011 CCI 505. Dans chacune, la Cour a conclu que les paiements tirés d’un REER ne constituent pas un revenu provenant d’un régime de pension, selon la définition qui en est donnée dans la LSV. Cette définition figure à l’article 14 du Règlement sur la sécurité de la vieillesse :
+14. Pour l’application de l’article 14 de la Loi, le revenu provenant d’un régime de pension est le total des montants perçus au titre :
+a) de rentes;
+b) de prestations alimentaires et de soutien;
+c) de prestations d’assurance-emploi;
+d) de prestations d’invalidité provenant d’un régime d’assurance privé;
+e) de prestations, autres que des prestations de décès, versées aux termes du Régime de pensions du Canada ou d’un régime provincial de pensions, tel que défini dans le Régime de pensions du Canada;
+f) de pensions ou de pensions de retraite, autres que les prestations reçues aux termes de la Loi et tout versement semblable reçu en vertu d’une loi provinciale;
+g) d’une indemnité versée aux termes d’une loi fédérale ou provinciale sur l’indemnisation des victimes d’accidents du travail, en raison d’une blessure, d’une invalidité ou d’un décès;
+h) d’allocations de complément de ressources versées aux termes d’un accord visé au paragraphe 33(1) de la Loi sur le ministère du Développement des ressources humaines, en raison d’une réduction définitive du personnel visée à ce paragraphe;
+i) d’allocations de complément de ressources versées au titre du Programme d’adaptation des travailleurs d’usine, du Programme de retraite anticipée des pêches ou du Programme d’adaptation et de redressement de la pêche de la morue du Nord, en raison d’une réduction définitive du personnel.
+[13] Dans la décision Drake, le juge Bowie a déclaré : « [m]ême l’interprétation la plus large de cette définition ne saurait y inclure le retrait prématuré de fonds d’un régime enregistré. Plus particulièrement, le retrait n’est pas une rente parce qu’il n’est pas fait sur une base périodique. Il ne pourrait pas non plus tomber sous le coup de l’article 14. »
+[14] Je souscris à cette conclusion et je suis d’avis que le ministre n’a pas commis d’erreur en incluant le paiement de REER dans l’estimation du revenu de 2012, au titre de l’alinéa 14(5)a). Le fait que le paiement de REER n’a eu lieu qu’une seule fois, comme le soutient l’appelante, importe peu.
+[15] Mme Brighton a également laissé entendre que l’établissement financier qui détenait le REER de son ex‑époux défunt aurait pu changer d’une certaine façon la manière dont les fonds du REER lui avaient été transférés afin que cela n’ait pas d’incidence sur son revenu en 2011. Cependant, je ne puis tenir compte de ce qui aurait pu être fait, mais uniquement de ce qui a réellement eu lieu. Il est clair que Mme Brighton a reçu le paiement en 2011, qu’elle était tenue de l’inclure dans son revenu au titre du paragraphe 146(8) et de l’alinéa 56(1)h) de la Loi de l’impôt sur le revenu et que, pour l’application de la LSV, ce paiement faisait partie de son revenu pour l’année de référence 2011.
+[16] Le problème dans la présente affaire, semble-t-il, est que Mme Brighton ignorait que le paiement de REER aurait une incidence sur son droit au SRG. La perte de la prestation du SRG qu’elle a ainsi subie dans sa période de paiement de 2012‑2013 lui a causé de sérieuses difficultés. Elle dit qu’elle est sur le point de perdre sa maison, parce qu’elle n’a pas pu faire les paiements hypothécaires qui s’y rapportent. Cela est extrêmement malheureux, et je regrette de ne pas pouvoir faire droit à son appel, mais la loi indique clairement qu’il faut tenir compte du paiement de REER. Le législateur a décidé de ne pas inclure les retraits de REER dans la définition d’un « revenu provenant d’un régime de pension » que comporte le Règlement sur la sécurité de la vieillesse, et la Cour se doit d’appliquer la loi que le législateur a adoptée.
+[17] L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2013.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 22e jour de novembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 323
+No DU DOSSIER DE LA COUR : 2013-1442(OAS)
+INTITULÉ : GAIL BRIGHTON ET MRHDCC
+LIEU DE L’AUDIENCE : Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 18 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 15 octobre 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Adam Gotfried
+AVOCATS INSCRITS
+AU DOSSIER
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

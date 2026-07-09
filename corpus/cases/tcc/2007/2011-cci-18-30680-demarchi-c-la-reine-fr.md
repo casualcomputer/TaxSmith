@@ -1,0 +1,117 @@
+---
+title: "Demarchi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30680/index.do"
+last_modified: "2007-11-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 18"
+citation2: ""
+neutral_citation: "2011 CCI 18"
+decision_date: "2007-11-02"
+language: "fr"
+item_id: "30680"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7177
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:07:21.774000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "203047ca38866d6a9d3a246db92aae04a28840d2df7eb2ac1c97da539d14dee9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demarchi c. La Reine
+
+- Citation: 2011 CCI 18
+- Decision date: 2007-11-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7177, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demarchi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-02
+Référence neutre
+2011 CCI 18
+Numéro de dossier
+2004-3538(IT)G
+Juges et Officiers taxateurs
+Bruce Preston
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3538(IT)G
+ENTRE :
+GEORGE ALBERTO DEMARCHI,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TAXATION DES DÉPENS
+Je CERTIFIE que j’ai taxé les dépens entre parties de l’intimée dans cette instance en vertu du paragraphe 153(1) des Règles de
+la Cour canadienne de l’impôt (procédure générale), et J’ACCORDE LA SOMME DE 8 246,95 $.
+Signé à Toronto (Ontario), ce 11e jour de janvier 2011.
+« Bruce Preston »
+Officier taxateur
+Traduction certifiée conforme
+ce 18e jour de février 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 18
+Date : 20110111
+Dossier : 2004-3538(IT)G
+ENTRE :
+GEORGE ALBERTO DEMARCHI,
+appelant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE TAXATION
+L’officier taxateur Bruce Preston, C.C.I.
+[1] La présente affaire a été entendue par voie de conférence téléphonique le mercredi 22 décembre 2010. Elle découle de la décision de la Cour rendue par l’honorable juge McArthur, selon laquelle l’appel était rejeté, avec dépens en faveur de l’intimée.
+[2] L’appelant s’est représenté lui‑même et l’intimée était représentée par Me Bobby Sood.
+[3] L’avocat de l’intimée a soutenu que la Cour avait accordé des dépens entre parties et que le mémoire de frais avait été préparé conformément au tarif B des Règles de
+la Cour canadienne de l’impôt (procédure générale). Il a ajouté que les honoraires et les débours étaient simples.
+[4] L’appelant a commencé par faire valoir qu’il ne savait pas que des dépens avaient été adjugés dans le cadre de l’instance devant la Cour canadienne de l’impôt. Après que l’on a renvoyé l’appelant au jugement de la Cour daté du 13 novembre 2007 celui‑ci a compris que des dépens avaient été adjugés.
+[5] L’appelant a allégué que les frais de photocopie semblaient excessifs. Il a fait valoir que 0,095 $ la page est cher pour des photocopies et qu’il est possible de faire des photocopies pour 0,03 $ la page.
+[6] L’avocat de l’intimée n’a présenté aucune observation au sujet des photocopies; toutefois, je suis d’avis que le montant réclamé est raisonnable. Même s’il peut être possible d’obtenir des services de reproduction à 0,03 $ la page, le montant facturé par Ikon Office Solutions à l’intimée a été prouvé et il n’est pas excessif. En outre, le montant total réclamé est raisonnable, compte tenu du dossier et des montants en cause.
+[7] Pendant l’audience, l’appelant a demandé des précisions quant la question de savoir pourquoi un mémoire de frais modifié avait été produit.
+[8] En réponse à la demande d’information de l’appelant, l’intimée à fait référence à la lettre datée du 28 mai 2010, soit la pièce D de l’affidavit d’Irena Krakowska et elle a allégué que cette question avait été expliquée à M. Demarchi dans la lettre. À l’appui de cet argument, l’avocat de l’intimée a fait référence au paragraphe 17 de la décision James c. Sa Majesté la Reine, 2001 A.C.I. no 675, dans laquelle on soutient que les officiers taxateurs peuvent reclasser un appel s’il est démontré que le contribuable a fait une erreur de classification de l’appel en question. De plus, faisant référence aux paragraphes 1 et 3 des motifs du jugement, l’avocat de l’intimée a soutenu que, puisque la somme de tous les montants visés par l’appel est supérieure à 50 000 $, le mémoire de frais a été modifié pour que l’on puisse présenter une demande de classification de l’instance dans la catégorie B, plutôt que dans la catégorie A.
+[9] Ayant examiné la décision James c. Sa Majesté la Reine (précitée) et ayant lu le jugement de la Cour, je modifie la catégorie de l’appel et l’intimée peut donc présenter une demande pour les services d’un avocat dans la catégorie B, suivant les Règles de
+la Cour canadienne de l’impôt (procédure générale).
+[10] Pour ce qui est de la question portant sur les dates d’audience, l’avocat de l’intimée l’a réglée en demandant une modification au mémoire de frais. Il a soutenu que l’intimée avait omis, par inadvertance, deux journées d’audience dans son calcul de la demande suivant l’alinéa 1(1)h). Il a affirmé que quatre journées et non deux journées auraient dû être utilisées dans le calcul, pour un total de 6 000 $, conformément à l’alinéa 1(1)h), pour chaque journée ou partie de journée d’audience.
+[11] L’appelant a allégué que, même si l’audience s’est déroulée sur une période de quatre journées, certaines de ces journées n’étaient pas des journées complètes et qu’une demande pour deux journées reflétait des coûts raisonnables relativement à l’audience.
+[12] Dans sa réponse, l’avocat de l’intimée a allégué que l’intimée avait eu gain de cause sur tous les points, de même que pour toutes les requêtes déposées. Il a ensuite fait valoir qu’il n’y avait aucune raison de réduire le montant réclamé, puisque le mémoire de frais représente seulement un petit pourcentage des montants visés par l’appel.
+[13] Pour ce qui est de la demande de modification du mémoire de frais présentée par l’intimée, après avoir examiné les compte‑rendus de l’audience, il est clair que l’audience s’est déroulée les 2 et 3 octobre 2006, le 31 octobre 2007 et le 2 novembre 2007. Toutefois, le 2 novembre 2007, l’audience a duré moins de 30 minutes, afin que la Cour puisse rendre son jugement. Compte tenu de la durée de l’audience ce jour‑là et du fait que les parties n’avaient pas à présenter d’arguments, j’hésite à accueillir la demande de l’intimée pour ce qui est du 2 novembre 2007. Dans Flaherty c. La Reine, 2009 CCI 223, au paragraphe 4, la Cour a conclu ce qui suit :
+Pour ce qui est des honoraires d’avocats, les parties n’ont pas pu s’entendre pour savoir si, dans le cas d’un procès d’une journée où les motifs sont rendus plus tard, le tarif permet d’adjuger des dépens pour deux ou pour trois demi-journées. Aucun élément de jurisprudence à ce sujet n’a été cité. En l’espèce, je crois qu’il est juste et raisonnable d’accorder des dépens pour les honoraires d’avocats pour deux demi‑journées. Cela ne veut pas dire que dans d’autres circonstances, la présence à l’audience où le juge rendrait ses motifs oralement n’aurait pas d’influence sur la fixation des dépens; je ne me prononce pas sur cette question‑là. Je fixe donc les honoraires d’avocats à inclure dans les dépens à 1 185 $.
+[14] Même si l’affaire Flaherty traite des coûts relatifs à une procédure informelle, je conclus que le principe peut être appliqué en l’espèce. Par conséquent, à la lumière des motifs susmentionnés, je suis d’avis que, d’après les circonstances de la présente affaire, il est juste et raisonnable de permettre à l’intimée de modifier son mémoire de frais et de lui accorder la somme de 4 500 $ pour trois journées d’audience suivant l’alinéa 1(1)h).
+[15] Puisque l’appelante n’a présenté aucun argument au sujet des sommes réclamées relativement aux autres services fournis par l’avocat et des débours, elles seront accordées telles quelles.
+[16] Pour les motifs susmentionnées, le mémoire de frais est taxé et j’accorde la somme de 8 246,95 $.
+Signé à Toronto (Ontario), ce 11e jour de janvier 2011.
+« Bruce Preston »
+Officier taxateur
+Traduction certifiée conforme
+ce 18e jour de février 2011.
+Nathalie Gadbois, LL. L., LL. B.

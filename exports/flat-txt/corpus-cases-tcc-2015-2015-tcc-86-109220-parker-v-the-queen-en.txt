@@ -1,0 +1,154 @@
+Title: Parker v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/109220/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-86-109220-parker-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-04-17
+
+# Parker v. The Queen
+
+- Citation: 2015 TCC 86
+- Decision date: 2015-04-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2839, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parker v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-04-17
+Neutral citation
+2015 TCC 86
+File numbers
+2014-2538(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2538(IT)I
+BETWEEN:
+CHARLOTTE M PARKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 27, 2015, at Vancouver, British Columbia.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Julia Lockhart
+Counsel for the Respondent:
+Natasha Wallace
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 17th day of April 2015.
+“B.Paris”
+Paris J.
+Citation: 2015 TCC 86
+Date: 20150417
+Docket: 2014-2538(IT)I
+BETWEEN:
+CHARLOTTE M PARKER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Ms. Parker is appealing the disallowance of her claim for a spousal amount and a portion of her claim for a federal disability amount transferred from her spouse, Gregory Neil Parker, for her 2011 taxation year. Ms. Parker was reassessed after the Minister of National Revenue (the “Minister”) denied Mr. Parker’s claim for a clergy residence deduction in his 2011 taxation year, which increased his net income by $10,000.
+[2] The issues in appeal are whether Mr. Parker was entitled to the clergy residence deduction pursuant to paragraph 8(1)(c) of the Income Tax Act (the “Act”) and, if not, whether the Canada Pension Plan disability benefits he received in 2011 were required to be included in his income.
+Legislative Provisions [3] The relevant portions of paragraph 8(1)(c) of the Act read as follows:
+8.(1) Deductions allowed—In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(c) clergy residence — where, in the year, the taxpayer
+(i) is a member of the clergy or of a religious order or a regular minister of religious denomination, and
+(ii) is
+(A) in charge of a diocese, parish or congregation,
+(B) ministering to a diocese, parish or congregation, or
+(C) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination,
+the amount, not exceeding the taxpayer’s remuneration for the year from the office or employment, equal to
+…
+(iv) rent and utilities paid by the taxpayer for the taxpayer’s principal place of residence … or the fair rental value of such a residence …
+[4] Canada Pension Plan benefits are included in income under paragraph 56(1)(a) of the Act, the relevant portions of which read as follows:
+56.(1) Amounts to be included in income for year —Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) pension benefits, unemployment insurance benefits, etc. —any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit including, without limiting the generality of the foregoing,
+…
+(B) the amount of any benefit under the Canada Pension Plan or a provincial pension plan as defined in section 3 of that Act,
+…
+Facts [5] Mr. Parker has been employed as a Minister by McKernan Baptist Church (the “Church”) in Edmonton since 1994. He has been on long term disability leave from that employment, and has not performed any employment duties with the Church since September 2005.
+[6] Under his employment contract with the Church, Mr. Parker obtained long term disability insurance under a group insurance policy. Mr. Parker paid all of the premiums for the long term disability benefit himself.
+[7] Mr. Parker began receiving long term disability (“LTD”) benefits under the policy in January 2006. According to the terms of the policy, he was required to apply for Canada Pension Plan disability benefits and any benefits he received would reduce his LTD benefits under the policy dollar-for-dollar.
+[8] Effective March 1, 2007, he began receiving CPP disability benefits and his LTD benefits were reduced by an equal amount accordingly.
+[9] In 2011, Mr. Parker received CPP disability benefits of $11,239 which he reported on his 2011 income tax return. After claiming a clergy residence deduction in the amount of $10,000, Mr. Parker reported net income of $1,239.
+[10] Mr. Parker’s LTD benefits were not included in his income because all premiums paid for the insurance were paid by him.
+[11] In her 2011 tax return, Ms. Parker claimed a spousal amount of $8,843, on the basis that Mr. Parker’s net income was $1,239. She also claimed a federal disability amount of $7,341 transferred from Mr. Parker.
+[12] The Minister reassessed Mr. Parker to deny his claim for the clergy residence deduction, on the basis that Mr. Parker did not receive any remuneration from his employment with the Church in 2011. In the Minister’s view, the limitation found in paragraph 8(1)(c) after clause (ii)(C)- that the amount of the deduction not exceed “the taxpayer’s remuneration for the year from the office or employment” – resulted in Mr. Parker being ineligible for the any amount in respect of the clergy residence deduction.
+[13] As a consequence of the increase to Mr. Parker’s net income, Ms. Parker was reassessed to disallow her claim for the spousal amount deduction and to reduce the federal disability amount transferred from spouse by $1,156 to $6,185.
+[14] At the hearing of the appeal, the Respondent raised an additional ground for denying the clergy residence deduction. The Respondent maintains that Mr. Parker did not meet any of the “function or purpose” tests set out in subparagraph 8(1)(c)(ii) and, in particular, that Mr. Parker was not ministering to a diocese, parish or congregation at any time in 2011.
+Appellant’s position
+[15] The Appellant submits firstly that Mr. Parker’s CPP disability benefit income was remuneration from his employment with the Church in 2011.
+[16] The Appellant also maintains that Mr. Parker meets the condition in subparagraph 8(1)(c)(ii) of “ministering to a congregation”, upon a proper interpretation of the word “ministering”. Alternatively, the Appellant argues that this condition infringes section 15 of the Canadian Charter of Rights and Freedoms and that paragraph 8(1)(c) should be read down so as to permit a disabled clergy member to qualify for the clergy residence deduction.
+[17] In the further alternative, should the Court find that the CPP benefits were not remuneration from employment and that Mr. Parker does not qualify for the clergy residence deduction, the Appellant takes the position that Mr. Parker is not required to include the CPP disability benefits in his 2011 income because the surrogatum principle applies and requires that those amounts be characterized as non-taxable amounts as they replaced LTD benefits that were non-taxable in his hands.
+Analysis
+[18] I will deal firstly with the Appellant’s position that Mr. Parker’s CPP disability benefits amounted to remuneration from his employment with the Church in 2011.
+[19] The Appellant relies on this Court’s decision in Shaw v. the Queen, 2010 TCC 210 as support for the proposition that the word “remuneration” in paragraph 8(1)(c) must be given a broad interpretation.
+[20] In Shaw, the taxpayer was claiming the clergy residence deduction while she was on extended sick leave from her employment as a chaplain. While on leave, the taxpayer received benefits under her employer’s wage replacement plan. The issue before the Court was whether the wage replacement income was remuneration from the taxpayer’s employment as a chaplain.
+[21] Woods J. held that “given the breadth of the definition” of the word “remuneration”, “it could include benefits provided by an employer, including income from a wage replacement plan” and that “[c]onsidering the object of s. 8(1)(c), it makes sense to give the term a reasonably broad interpretation.” She went on to find that the wage replacement benefits were connected with the taxpayer’s employment because they were provided as part of the taxpayer’s employment contract.
+[22] In the case before me, the Appellant submits that there is a sufficient connection between her spouse’s employment and the CPP payments to enable me to conclude that those payments were remuneration from employment. The Appellant says that the CPP premiums were paid out of Mr. Parker’s salary for services provided to the Church and therefore those services “were critical to his CPP disability benefit eligibility.”
+[23] The Appellant also says that since the CPP benefits replaced part of Mr. Parker’s LTD benefits, which according to the Shaw decision are remuneration from his employment with the Church, the CPP benefits are remuneration from that employment as well.
+[24] I am unable to agree with the Appellant’s submissions.
+[25] I find there is not a sufficient connection between Mr. Parker’s employment and the receipt by him of the CPP disability benefits to qualify those benefits as remuneration from his employment with the Church. The facts of this case are distinguishable from those before the Court in Shaw, where the wage loss benefits were found (at paragraph 20) to have been provided under the taxpayer’s contract of employment
+[26] Here, the CPP benefits were not provided by the Church under Mr. Parker’s employment contract. Entitlement to CPP benefits is not something provided by an employer to an employee in return for services provided by the employee, it is provided under a statutory scheme. The fact that CPP premiums were paid in part from Mr. Parker’s employment income and in part by his employer, the Church, does not result in the CPP disability payments being a benefit provided by the Church.
+[27] Furthermore, again unlike the wage replacement benefits received by the taxpayer in Shaw, the LTD benefits received by Mr. Parker were not benefits provided by his employer because all the LTD insurance premiums were paid by Mr. Parker. For this reason, they were not required to be included in his income from employment. The fact that the CPP benefits reduced the amount of Mr. Parker’s LTD benefits is therefore not indicative of a connection between the CPP disability benefits and Mr. Parker’s employment with the Church.
+[28] As a result, I find that the CPP benefits that Mr. Parker received in 2011 were not remuneration from his employment with the Church within the meaning of paragraph 8(1)(c) of the Act.
+[29] In light of my conclusion on this issue, since the amount of the clergy residence deduction is limited to the remuneration received by the taxpayer in the year from the office or employment, it is not necessary for me to consider the remaining arguments made by the parties concerning paragraph 8(1)(c).
+[30] The Appellant argues in the alternative that Mr. Parker was not required to include his CPP disability benefits in his income by application of the surrogatum principle. Counsel for the Appellant argues that the CPP benefits replaced his non-taxable LTD benefits and therefore must be given the same tax treatment as the LTD benefits.
+[31] The surrogatum principle is used to determine whether awards of damages and settlement payments, which are inherently neutral for tax purposes, are taxable or not. It provides that tax consequences of damages and settlement payments will depend on what the payment is intended to replace: Tsiaprailis v. Canada, 2005 SCC 8 at paragraphs 6 and 7, citing London & Thames Haven Oil Wharves Ltd. vs. Attwooll (H.M. Inspector of Taxes), [1967] 2 All E.R. 124 (C.A.).
+[32] In my view, the Appellant’s surrogatum argument must fail because it is premised on the assumption that the CPP benefits received by Mr. Parker were tax neutral payments in the nature of insurance proceeds. I find that the CPP payments in this case were neither tax neutral nor were they akin to insurance proceeds.
+[33] CPP disability benefits are expressly included in a taxpayer’s income under paragraph 56(1)(a) of the Act as “other income” and therefore cannot be said to be tax neutral.
+[34] Furthermore, for the reasons set out by Bowman A.C.J. (as he then was) in Watts v. The Queen, 2004 TCC 535, I find that the Canada Pension Plan is not an insurance plan. Bowman A.C.J. wrote at paragraphs 17 and 18 of that decision that:
+… It is true that at least where the recipient of CPP benefits was an employee both the employer and the employee must contribute. Nonetheless, I should not have thought that one could regard the social security regime of which the CPP is so integral a part in Canada as an insurance plan. Insurance has been defined in different ways but I am not aware of any definition that would encompass a government-run pension plan. ….
+Insurance is essentially a contractual arrangement between an insured and an insurer and involves an obligation by an insurer, upon payment of premiums, to pay an amount upon an event whose occurrence is uncertain. The statutory regime administered by the CPP contains none of those elements. The payments under it are therefore not income from an office or employment as described in paragraph 6(1)(f) of the Income Tax Act. Rather, they are taxable as income by reason of paragraph 56(1)(a).
+[35] Finally, even if the surrogatum principle had applied to Mr. Parker’s CPP benefits, I would have found that the CPP benefits were not intended to replace non-taxable LTD benefits and therefore would not have also been non-taxable. Rather, CPP benefits are intended to replace taxable employment income which is lost because the recipient is unable to work due to disability.
+[36] Therefore, I find that Mr. Parker’s CPP disability benefits were correctly included in his income in his 2011 taxation year.
+Conclusion
+[37] For all these reasons, the appeal is dismissed.
+Signed at Vancouver, British Columbia, this 17th day of April 2015.
+“B.Paris”
+Paris J.
+CITATION:
+2015 TCC 86
+COURT FILE NO.:
+2014-2538(IT)I
+STYLE OF CAUSE:
+CHARLOTTE PARKER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 27, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+April 17, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Julia Lockhart
+Counsel for the Respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Julia Lockhart
+Firm:
+McCarthy Tétrault LLP
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

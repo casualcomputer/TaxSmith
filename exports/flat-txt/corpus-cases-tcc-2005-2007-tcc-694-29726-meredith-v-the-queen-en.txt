@@ -1,0 +1,115 @@
+Title: Meredith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29726/index.do
+Corpus path: corpus/cases/tcc/2005/2007-tcc-694-29726-meredith-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-10-20
+
+# Meredith v. The Queen
+
+- Citation: 2007 TCC 694
+- Decision date: 2005-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6534, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meredith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-20
+Neutral citation
+2007 TCC 694
+File numbers
+2002 3761 (IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Court File No. 2002‑3761 (IT)G
+TAX COURT OF CANADA
+BETWEEN:
+JOAN M. MEREDITH
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+* * * * *
+ORAL REASONS FOR JUDGEMENT GIVEN BY
+MR. JUSTICE PARIS
+in Courts Administration Service, Courtroom No. 6A,
+180 Queen Street West, Toronto, Ontario,
+on Thursday, October 20, 2005
+* * * * *
+APPEARANCES:
+Ms. Joan M. Meredith for the Appellant
+Mr. Eric Scherbert for the Respondent
+A.S.A.P. Reporting Services Inc. 8 2007
+200 Elgin Street, Suite 1105 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+‑‑‑ Upon commencing on Thursday, October 20, 2005.
+THE REGISTRAR: This sitting of the Tax Court of Canada is resumed for judgment on file number 2002‑3761(IT)G.
+The appellant Joan M. Meredith is present and represents herself and the respondent is represented by Eric Scherbert.
+JUSTICE PARIS: Thank you.
+Ms. Meredith is appealing the disallowance of a portion of the amount she claimed as a medical expense tax credit in her 2000 taxation year.
+The disallowed portion relates to the costs Ms. Meredith incurred in the purchase of a condominium that was adapted for persons with mobility limitations.
+Ms. Meredith was involved in a car accident in 1995, which left her with spinal cord and head injuries. As a result, she is confined to a wheelchair and has developed Parkinson's disease.
+She has been unable to work since the accident.
+Prior to August 14, 2000, Ms. Meredith resided in a condominium at 2655 Windwood Drive in Mississauga. That condominium was not wheelchair accessible.
+There was no ramp to permit Ms. Meredith access to and egress from the building without assistance. Similarly, she was not able to open the front door herself. The hallways were narrow and the interior of her unit was not designed to allow movement in a wheelchair.
+She said she was unable to see out the windows. The setup of the bathroom did not permit her to use it independently. The parking for the unit was located in such a way that she could not use the electric ramp in her van to get in and out.
+Initially, Ms. Meredith asked the Strata Council of the building to put in a ramp at the front entrance and to change her parking spot.
+The Council was unwilling to do so. Ms. Meredith decided to seek out a wheelchair accessible residence. She said she did not want to go into a nursing home.
+She purchased a condominium that was being built nearby at 35 Kingsbridge Garden Circle in Mississauga. The building and unit were designed for disabled persons. The front entrance had access ramps and automatic doors. The public spaces and hallways were wider than usual and there were extra elevators provided.
+Ms. Meredith's unit had an open kitchen with lower counter surfaces, a specially laid‑out bathroom that she could use on her own, and larger rooms to accommodate her wheelchair.
+She has a double parking space to accommodate her van and the garage doors are fully automatic.
+Ms. Meredith said that she looked at other properties in the area, but nothing else suited her needs. In 2000, there were no other buildings like this available in her area.
+In her 2000 tax return, Ms. Meredith claimed the difference between the cost of the new condominium, $302,000, and the value of her previous condominium, $122,500, as a medical expense under paragraph 118.2(2)(l.21) of the Income Tax Act. That section reads:
+For the purpose of subsection (1) a medical expense of an individual is an amount paid
+for reasonable expenses relating to the construction of the principal place of residence of the patient who lacks normal physical development or has a severe and prolonged mobility impairment that can reasonably be considered to be incremental costs incurred to enable the patient to gain access to or to be mobile or functional within the patient's principal place of residence.
+Originally on her tax return Ms. Meredith had broken down the amount that was subsequently disallowed in the manner set out in paragraph H of the Reply to Notice of Appeal filed by the Respondent in this case.
+That breakdown listed moving expenses, mortgage interest, taxes and condominium fees as part of her claim, along with the deposits paid for the purchase of the unit.
+However, in cross‑examination Ms. Meredith clarified that her claim was in fact based on the difference between the cost of the new condominium and the value of the previous condominium at the time she purchased the former.
+Ms. Meredith testified that she arrived at the valuation of the previous residence after consulting with two real estate agents.
+For the record, I note that the Minister allowed the appellant medical expenses for moving to the new residence under paragraph 118.2(2)(l.5) of the Act and the $10,481 cost of installing certain additional upgrades to the new unit pursuant to paragraph 118.2(2)(l.21).
+Argument
+The appellant argued that the entire additional cost she incurred to purchase the new condominium unit in excess of the value of her previous unit should be allowed as a medical expense because all of the conditions in paragraph 118.2(2)(l.21) were met.
+She said she was a person with a severe and prolonged mobility impairment, the amount related to the construction of a principal residence for her, and the amount was an incremental cost incurred to enable her to gain access to or to be mobile or functional within her place of residence.
+She said the only reason she purchased the new residence was to enable her to function normally and independently as possible.
+She said that she would have preferred to remain in her previous residence but for the reasons already indicated had to relocate.
+She conceded that she was not entitled to any additional moving expenses beyond those already allowed by the Minister.
+Respondent's counsel contends that the incremental costs referred to in paragraph 118.2(2)(l.21) are costs incurred in the construction of the new residence that are in addition to the standard costs of construction and that are specifically for design features that enable the occupant to gain access to or be more mobile or functional within the unit.
+He referred to the decision of this court in Totten v. The Queen in which Mr. Justice Miller made the following statement regarding the word incremental:
+"Incremental means relating to an increase, an addition or augmentation."
+This suggests to me that incremental adds the element of additional cost over some standard cost.
+So by way of example, in building a new home, there will always be a front doorway and a range of cost for such a standard doorway. The cost of building a doorway that is wider with special handrails and perhaps a ramp leading up to it would be additional costs or incremental costs, which costs could presumably readily be identified by contractors in contract to the standard doorway cost. This is what I take to mean incremental.
+Counsel concedes that there would be such costs in this case but says that there is insufficient evidence of what those costs are and therefore that the court should dismiss the appeal.
+The question before me therefore is what construction costs of the new residence can be considered incremental costs?
+I accept the definition of the word "incremental" as given by Mr. Justice Miller in Totten, that is relating to an increase or an addition or augmentation. The French text uses the word “supplémentaire”, which has an equivalent meaning.
+The difficulty or ambiguity in the wording of the provision though lies in the fact that the phrase "incremental costs" is indicative that those costs are to be considered an increase or addition in relation to another amount, what I will call the base amount.
+Justice Miller referred to it as the standard amount. When one asks the question incremental to what?, the answer is not self‑evident from the wording of the statute. It is not clear what constitutes the base amount beyond which the incremental costs can be said to have been incurred.
+Two possible answers have been provided by the parties. The Respondent says that the base amount would be the cost of construction of the residence without the additional features.
+This was the meaning set out by Justice Miller in Totten.
+The Appellant suggests that the cost or value of the former residence should be taken as the base amount and that the incremental or additional costs referred to in paragraph 118.2(2)(l.1) are any costs for construction of a new residence that a taxpayer must lay out beyond what he or she would realize from the sale of the former residence.
+In her case, she incurred the difference between the price of her new residence and the value of her old residence solely in order to gain an access to and be more mobile or functional in her home.
+In my view, the interpretation suggested by counsel for the Respondent is to be preferred. That interpretation recognizes that not all of the construction costs of a residence designed for a person with mobility limitations can be said to be incurred to enable the person to gain access to, or to be more mobile or functional within the residence.
+It appears that the legislative purpose here is to give relief for the costs of necessary modifications and amenities that are required in the construction of a residence for a person with mobility limitations, rather than for the cost of the entire construction.
+Although Ms. Meredith is claiming only the difference between the value of her old residence and the cost of her new one, under the interpretation of the provision that she is suggesting, the entire cost of construction would be deductible to a person who previously did not own a home.
+All of the costs of construction would be incremental costs to a person in that situation. I do not believe that to have been the intention of Parliament in enacting Paragraph 118.2(2)(l.21).
+The difficulty in this case is determining the amount of the incremental costs incurred by Ms. Meredith for what I will refer to as the accessibility features of her new residence.
+Those features were substantial and I accept that there would be a substantial cost associated with them.
+According to the evidence, Ms. Meredith looked at many units in her area when she decided she had to move. She said that used two‑bedroom condominiums were similar in size and location to her new residence, but lacked the accessibility features of her new condominium, and they were selling for between $210,000 and $230,000.
+I accept that the difference in price between these units and the new unit was largely attributable to the additional features as stated and therefore that the cost of these extra features was between $72,000 and $92,000.
+I accept the lower end of this range as being the more likely cost given that some adjustments should be made for the fact that Ms. Meredith's residence was new construction and the comparables to which she referred were used, and a buyer of a new residence pays a certain premium for new construction.
+Therefore, on all of the evidence, I find that Ms. Meredith is entitled to an additional medical expense tax credit on a basis that $72,000 of the cost of her new residence qualified as a medical expense under Paragraph 118.2(2)(l.21) of the Act.
+The appeal is allowed in part and there will be no order as to costs
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately transcribed
+the foregoing interview.
+Antoinette Forcione, Legal Transcriptionist

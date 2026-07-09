@@ -1,0 +1,162 @@
+Title: Lemieux v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27090/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-298-27090-lemieux-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-25
+
+# Lemieux v. The Queen
+
+- Citation: 2006 CCI 298
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 960, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lemieux v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-25
+Référence neutre
+2006 CCI 298
+Numéro de dossier
+2004-3713(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3713(IT)I
+ENTRE :
+BENOIT LEMIEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Lorraine Lemieux (2004-3714(IT)I) le 6 février et le 16 mai 2006, à Calgary (Alberta)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marla Teeling
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation interjeté en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de mai 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 5e jour de juin 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2004-3714(IT)I
+ENTRE :
+LORRAINE LEMIEUX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Benoit Lemieux (2004-3713(IT)I) le 6 février et le 16 mai 2006, à Calgary (Alberta)
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Marla Teeling
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation interjeté en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1997 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de mai 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 5e jour de juin 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI298
+Date : 20060525
+Dossier : 2004-3713(IT)I
+ENTRE :
+BENOIT LEMIEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2004-3714(IT)I
+ET ENTRE :
+LORRAINE LEMIEUX,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels, interjetés sous le régime de la procédure informelle, ont été entendus à Calgary, en Alberta, le 6 février et le 16 mai 2006, sur preuve commune. Les deux appelants ont témoigné et ont appelé à témoigner leur comptable, James Pragnell, C.M.A. L'intimée a appelé à témoigner Douglas McDonald, l'agent régional assigné aux dossiers.
+[2] Les Lemieux se sont plaints d'un retard d'environ 23 mois survenu lors du traitement des dossiers, après le 10 octobre 2001. L'agent assigné au dossier y a répondu en soutenant, au sujet des demandes de pertes déductibles au titre d'un placement d'entreprise ( « PDTPE » ), que les appelants avaient plusieurs sociétés, certaines actives, d'autres inactives, dont certaines étaient en faillite, et qu'ils avaient d'autres PDTPE. De plus, il avait besoin de renseignements supplémentaires. Quoi qu'il en soit, les appelants ont rempli les avis d'opposition le 2 avril 2001 conformément au paragraphe 169(1) de la Loi de l'impôt sur le revenu. Après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition, s'il n'y pas eu de ratification ou de nouvelle cotisation, les appelants peuvent interjeter appel. Pour ces raisons, les contribuables eux-mêmes auraient pu remédier à tout prétendu retard indu.
+[3] Benoit Lemieux a interjeté appel d'une demande de déduction supplémentaire au titre d'une PDTPE eu égard à des honoraires juridiques de 3 500 $ prétendument versés en 1998 relativement à un paiement à la Banque Royale en vertu d'une garantie. M. McDonald a alloué en la matière des honoraires juridiques de 2 481 $ à chacun des appelants et il n'a rien accordé de plus. M. McDonald avait les factures des honoraires juridiques en litige lorsqu'il a pris sa décision (pièce R-1). Il appartenait donc à l'appelant de prouver les factures juridiques et le montant de 3 500 $ lié à ces factures qu'il réclame encore. M. Benoit Lemieux ne l'a pas fait; il ne s'est donc pas acquitté du fardeau de la preuve qui reposait sur lui. Pour cela, son appel est rejeté.
+[4] En 1997, Lorraine Lemieux a déduit une PDTPE de 49 370,51 $ qui se composait de trois montants. Les détails en litige sont énoncés aux paragraphes 10 à 16 de la réponse à son avis d'appel. Ils sont ainsi libellés :
+[TRADUCTION]
+10. En établissant et en ratifiant les cotisations d'impôt de l'appelante, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) en 1997, l'appelante a réclamé une PTPE répartie de la façon suivante :
+Ligne de crédit de la Banque Royale du Canada
+30 000 $
+Réclamation de la Commission des relations du travail de la Saskatchewan
+18 500 $
+Honoraires juridiques-Woloshyn Mattison
+870,51 $
+PTPE réclamée
+49 370,51 $
+b) l'appelante n'a personnellement ni avancé, ni prêté de l'argent à une société privée sous contrôle canadien durant la période pertinente;
+c) l'appelante n'avait aucune créance d'une société privée sous contrôle canadien à la fin de 1997 qui s'est révélée être une créance irrécouvrable;
+d) l'appelante n'a réalisé aucune perte en capital sur des créances que lui devait une société privée sous contrôle canadien à la fin de l'année d'imposition 1997;
+e) l'appelante a réclamé une PTPE de 16 120 $ en 1998, ce qui lui a été accordé;
+f) la PTPE réclamée eu égard à la ligne de crédit de la Banque Royale est un double d'une PTPE accordée à l'appelante et à son époux pour l'année d'imposition 1998;
+g) le paiement effectué à la Commission des relations du travail de la Saskatchewan concernait des salaires impayés par Lorwood Food Services Inc.;
+h) l'appelante détenait la totalité des actions de Lorwood Food Services Inc.;
+i) Lorwood Food Services Inc. a fait faillite en 1995 et n'a pas été en affaires depuis cette année-là;
+j) le paiement effectué à la Commission des relations du travail de la Saskatchewan eu égard aux salaires impayés de Lorwood Food Services Inc. n'était pas une créance acquise par l'appelante en vue de tirer un revenu d'une entreprise.
+11. Les hypothèses de fait énoncées aux alinéas 10(g), 10(h), 10(i) et 10(j) ci-dessus ont été émises en premier lieu par le ministre lorsqu'il a ratifié l'impôt de l'appelante pour 1998, le 29 septembre 2003.
+B. POINTS EN LITIGE
+12. La question à trancher est de savoir si l'appelante a subi une quelconque perte en capital pouvant être considérée comme une PDTPE en 1997.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+13. L'intimée se fonde sur les articles 3, 9, 38, 39, 40, 125 et 248, ainsi que sur les paragraphes 50(1), 220(3.1) et 248(1) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi » ) telle que modifiée pour l'année d'imposition 1997.
+14. Elle soutient que l'appelante n'a pas prouvé qu'une société privée sous contrôle canadien lui devait le montant de 49 370,51 $ ou tout autre montant à la fin de 1997 et donc que la réclamation d'une PTPE par l'appelante a été refusée à bon droit, conformément à l'alinéa 39(1)c) de la Loi.
+15. Elle soutient que l'appelante n'a droit à aucun montant conformément à l'alinéa 39(1)c) de la Loi pour l'année d'imposition 1997, puisqu'elle n'a pas démontré qu'elle a subi une perte en capital en raison d'une créance que lui devait une société privée sous contrôle canadien.
+16. Elle soutient que l'appelante n'a droit ni à une perte en capital, ni à une PTPE relativement aux montants payés à la Commission des relations du travail de la Saskatchewan puisqu'il n'a pas été établi que ce montant résultait d'une créance acquise pour tirer un revenu d'une entreprise. Ce montant a été refusé à bon droit, conformément au sous-alinéa 40(2)g)(ii) de la Loi.
+[5] Le premier montant est une somme de 30 000 $ que Lorraine Lemieux affirme avoir payée à la Banque Royale du Canada pour une ligne de crédit au moyen d'un virement de fonds afin de maintenir un restaurant ouvert en 1995. Son comptable a seulement pu prouver que dans les faits, Mme Lemieux avait transféré 10 000 $ dans un compte d'entreprise le 5 octobre 1995 (voir la pièce A-1). Il en résulte que le montant en litige à cet égard est de 10 000 $ et non pas de 30 000 $. M. Pragnell a témoigné que les 10 000 $ avaient été transférés au compte de la 608904 Saskatchewan Ltd. ( « 608904 » ). Toutefois, il n'est pas prouvé que les 10 000 $ étaient une créance due par la 608904 à Lorraine ou bien qu'il s'agissait d'une créance irrécouvrable ou encore qu'il s'agissait d'une créance dont le recouvrement avait échoué à ce jour. En outre, M. McDonald a témoigné que l'appelante avait fait une réclamation semblable pour 1998 et que la preuve qui lui avait été apportée, ainsi qu'à la présente Cour, était simplement insuffisante pour établir cette réclamation.
+[6] Le deuxième montant en litige est la prétendue réclamation de 18 500 $ de la Commission des relations du travail de la Saskatchewan. La pièce A-2 établit que l'appelante a payé 17 557,68 $ pour un jugement envers les employés le 8 janvier 1998. L'employeur dont elle a payé le compte était la personne morale Lorwood Food Services Inc. ( « Lorwood » ). Lorwood a fait faillite en novembre 1995. L'appelante était responsable en tant qu'administratrice de Lorwood. Le jugement a été prononcé contre elle personnellement et contre Lorwood. Ainsi, en 1998, Lorwood n'exploitait pas d'entreprise au Canada et le paiement n'avait pas été fait en vue de tirer un revenu d'une entreprise. Par conséquent, cette réclamation n'est pas établie.
+[7] Le dernier montant est la réclamation de 870,51 $ eu égard à un prétendu paiement effectué par Lorraine pour des honoraires juridiques. Cette facture pour frais est datée du 11 juin 1998 et a trait à un bref de saisie-exécution de la Banque Royale du Canada. Selon la facture elle-même, ce bref a été enregistré contre la maison de Lorraine (pièce A-3) pour une réclamation de la Banque Royale du Canada contre Lorraine. Cette demande échoue pour les mêmes raisons que celles énoncées au paragraphe [5] ci-dessus.
+[8] Il s'ensuit que les appels sont rejetés et que les cotisations sont ratifiées.
+Signé à Ottawa (Ontario), ce 25e jour de mai 2006.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 5e jour de juin 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI298
+N ° DU DOSSIER DE LA COUR : 2004-3713(IT)I et 2004-3714(IT)I
+INTITULÉ DE LA CAUSE : BENOIT LEMIEUX ET SA MAJESTÉ LA REINE et LORRAINE LEMIEUX ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : le 16 mai 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge D. W. Beaubier
+DATE DU JUGEMENT : le 25 mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marla Teeling
+AVOCATS INSCRITS AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

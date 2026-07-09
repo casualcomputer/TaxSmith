@@ -1,0 +1,206 @@
+---
+title: "Little v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521076/index.do"
+last_modified: "2023-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 47"
+citation2: ""
+neutral_citation: "2023 TCC 47"
+decision_date: "2023-04-13"
+language: "en"
+item_id: "521076"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5864
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:49:30.945000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2832a87eb6a3d29ece249c59dff8b0713aec9046f504b1ad59be1368e808ba14"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Little v. The King
+
+- Citation: 2023 TCC 47
+- Decision date: 2023-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5864, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Little v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-04-13
+Neutral citation
+2023 TCC 47
+File numbers
+2018-2703(GST)I, 2018-2712(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-2703(GST)I
+BETWEEN:
+LUCY LITTLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Len Little (2018-2712(GST)I)
+on January 23, 2023, at Toronto, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+John D. Buote
+Counsel for the Respondent:
+Lalitha Ramachandran
+Andrea Jackett
+JUDGMENT
+The appeal from the Notice of Assessment No. 3620698 dated February 2, 2016 and made under the Excise Tax Act is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of April 2023.
+“Robert J. Hogan”
+Hogan J.
+Docket: 2018-2712(GST)I
+BETWEEN:
+LEN LITTLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Lucy Little 2018-2703(GST)I
+on January 23, 2023, at Toronto, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+John D. Buote
+Counsel for the Respondent:
+Lalitha Ramachandran
+Andrea Jackett
+JUDGMENT
+The appeal from the Notice of Assessment No. 3620681 dated February 2, 2016 made under the Excise Tax Act is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of April 2023.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2023 TCC 47
+Date: 20230413
+Dockets: 2018-2703(GST)I
+2018-2712(GST)I
+BETWEEN:
+LUCY LITTLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+AND BETWEEN:
+LEN LITTLE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview
+[1] The issue in these appeals is whether the Appellants, Len Little and Lucy Little, husband and wife, were properly assessed under subsection 323(1) of the Excise Tax Act (Canada)[1] for unremitted GST/HST owed by Lucy’s Seafood Kitchen (Waterloo) Inc. (“Waterloo”) in the circumstances described hereinafter.
+[2] The appeals were heard on common evidence.
+II. Factual Background
+[3] The parties provided a partial agreed statement of facts. The Appellants admitted most of the factual assumptions relied on by the Minister of National Revenue (the “Minister”), save for the factual assumptions that pertain to the registration of the certificate for the amount of $26,570.71 of Waterloo’s alleged GST/HST liability on June 22, 2015.
+[4] The Appellants also denied that execution for the amount of the certificate had been carried out, which is a precondition that must be satisfied for a director to be liable under subsection 323(1) of Part IX of the ETA.
+[5] The Respondent did not call any witnesses. The Respondent introduced all the relevant documents through affidavit evidence, which is how evidence is often introduced in appeals of assessments for director’s liability under subsection 323(1) that are heard under the informal appeal.
+[6] Mr. and Ms. Little were called as witnesses in their appeals.
+[7] Mr. Little, the president and a director of Waterloo, acknowledged that he and his spouse were the only persons authorized to sign on Waterloo’s bank account. Mr. Little acknowledged that he was responsible for ensuring that Waterloo complied with its reporting and collections obligations under the ETA.
+[8] Opened in 2004, Waterloo’s restaurant business deteriorated rapidly after the financial crisis in 2008. Mr. Little testified that because of cash flow problems, Waterloo’s tax returns were filed late. He claimed that his practise was to enclose multiple cheques with each return, some of which would be post–dated.[2] Mr. Little testified that he would pay amounts using post–dated cheques according to his own projections of sales in subsequent months. He adopted this practise because the corporation did not have enough funds on hand to pay the full amount of the HST shown on its returns.
+[9] Finally in March 2009, Waterloo ceased all operations.[3] Mr. Little acknowledged that he returned the keys to the landlord on that date and has not returned since. The inference that I draw from Mr. Little’s testimony is that Waterloo had no assets that could have been disposed of when the certificate was issued by the Federal Court. Mr. Little also acknowledged that he did not retain any of Waterloo’s financial, banking or tax records.
+III. Position of the Parties
+[10] The Appellants submit that Waterloo had paid all of its net tax owed under the ETA prior to the closure of its restaurant business. The Appellants also allege that there is no evidence in the record to establish that execution of the amount of the certificate has been returned in whole or in part, which is a precondition for a director to be liable under subsection 323(1) of the ETA.
+[11] Unsurprisingly, the Respondent defends the contrary position.
+A. Is the amount of the certificate correct?
+[12] It is undisputed that a director has the right to challenge the underlying corporate liability in the case of a derivative assessment made under subsection 323(1) of the ETA. The Appellants have chosen to do so in the instant cases.
+[13] In cases where a director challenges an underlying corporate assessment, the burden of proof to demonstrate that an amount of tax was incorrectly assessed generally remains with the director. However, in certain circumstances, the taxpayer may be entitled to a shift of the burden of proof. In Mignardi,[4] Justice Paris held that the onus of proving the underlying tax liability will shift to the Minister in the somewhat unusual situation where the “facts concerning the underlying tax debt are exclusively or peculiarly within the knowledge of the Minister”.[5]
+[14] Mr. Little acknowledged that he was responsible for ensuring that Waterloo satisfied its reporting and tax obligations under the ETA. The Waterloo tax returns were prepared by Waterloo’s external tax advisor based on information provided by Mr. Little. Mr. Little would then arrange for payment based on Waterloo’s ability to pay at any given time. Mr. Little acknowledged that Waterloo was often in arrears in remitting the net tax owed under the ETA.
+[15] Because Mr. Little did not retain Waterloo’s books and records, no documentary evidence was submitted to demonstrate that the amount of the certificate was incorrect.
+[16] In contrast, the Respondent produced copies of all of Waterloo’s assessments for the relevant period. The returns were assessed as filed.
+[17] Furthermore, the documentary evidence shows that the corporation’s tax installments were applied first to amounts owing in arrears.
+[18] Considering the evidence as a whole, I am satisfied that Waterloo had an outstanding liability under the ETA in the amount of $26,570.71 when the certificate was issued on June 22, 2015.
+B. Inability to recover from Waterloo
+[19] Paragraph 323(2)(a) of the ETA requires the Canada Revenue Agency (“CRA”) to demonstrate its inability to recover the amounts at issue directly from the corporation. A director is not liable unless the following precondition provided for in paragraph 323(2)(a) of the ETA is satisfied:
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+[20] In Barrett,[6]the FCA held that the CRA as a creditor is not required to show that it made reasonable efforts to collect the debt, but must simply show that it acted in good faith to collect without ulterior or improper motive.
+[21] Section 316 of the ETA, which is referenced in paragraph 323(2)(a), provides for how the Minister may certify the amount of an indebtedness owing under the ETA and then register the certificate in the Federal Court. Once the certificate is registered, it has the same effect as a judgment obtained in the Federal Court against the debtor and can be enforced as such.
+C. Execution of the certificate returned unsatisfied
+[22] The parties submit that the Respondent bears the burden of demonstrating that execution of the certificate has been returned unsatisfied. The Appellants argue that there is no evidence in the record to show that this has been done.
+[23] Subsection 335(5) provides for a simplified process that allows the CRA to introduce a variety of documents through affidavit evidence. The provision reads as follows:
+Proof of documents
+(5) An affidavit of an officer of the Canada Revenue Agency, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and that a document annexed to the affidavit is a document or true copy of a document, or a print‑out of an electronic document, made by or on behalf of the Minister or a person exercising the powers of the Minister or by or on behalf of a person, is evidence of the nature and contents of the document.
+[24] The Appellants submit that the writ of seizure and the levy report that were introduced through affidavit evidence are inadmissible under subsection 335(5) because these documents, copies of which were in the CRA records, are not documents made by persons acting on behalf of the Minister. According to the Respondent, any documents made by the CRA are admissible under this provision. The levy report and writ of seizure are not documents that originate from the CRA.
+[25] I disagree with the Appellants’ interpretation of subsection 335(5). The provision applies to a document that is “made by or on behalf of the Minister or a person exercising the powers of the Minister or by or on behalf of a person” (emphasis added). The last reference extends to persons who make documents that are filed with the CRA under the ETA. Subsection 335(5) includes, in my opinion, proof of any document in the CRA’s files, including documents received by a registrant.
+[26] The term “document” which is used in subsection 335(5), is defined in subsection 123(1) to include a record. A “record” is defined in subsection 123(1) to include any information whether in writing or in any other form. The levy report, the certificate and the writ of seizure are all electronic copies of documents found in the CRA records.
+[27] If I am wrong and these documents are inadmissible under subsection 335(5) I am nonetheless satisfied that execution of the writ of seizure has been returned unsatisfied. Mr. Little acknowledged during his testimony that two officers of the sheriff’s office turned up at his home asking questions about Waterloo. He also acknowledged that Waterloo stopped its operations long ago and that it vacated the premises that it operated under the landlord.
+[28] Exhibit “F” to the affidavit is a copy of a letter addressed to the sheriff’s office that executed the writ of seizure. The letter was prepared by Mr. Stevenson, a collections officer with the CRA. The letter indicates that the corporation had stopped all active business operations and instructs the sheriff to attempt execution at Mr. Little’s residence.
+[29] Mr. Little stated that he was intimidated when the two officers of the sheriff’s office showed up at his home, and he could not recall all that was discussed. I am satisfied by this additional evidence that execution was returned for the amount of the certificate and that it was returned unsatisfied.
+[30] A final observation is merited here. These appeals were heard under the informal procedure. Subsection 18.15(3) of the Tax Court of Canada Act[7] provides that “the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.”
+[31] There is no question in my mind that the Appellants know that execution of the certificate has been returned unsatisfied. The Appellants have suffered no prejudice from the Respondent’s decision to prove that execution had been issued through documentary evidence. Nothing would be gained if the officers who executed the writ of seizure at the Appellants’ home were to be called to testify that execution had been issued as required under paragraph 333(2)(a).
+[32] Considering the evidence as a whole, the Respondent has established that execution for Waterloo’s HST debt had taken place prior to the issuance of the assessments at issue herein. Therefore, the precondition provided for in paragraph 323(2)(a) has been satisfied.
+IV. Conclusion
+[33] Considering the foregoing reasons, I am satisfied that the assessments have been validly issued under subsection 323(1) of the ETA. For these reasons, the Appellants’ appeals are dismissed.
+Signed at Ottawa, Canada, this 13th day of April 2023.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2023 TCC 47
+COURT FILE NOS.:
+2018-2703(GST)I
+2018-2712(GST)I
+STYLES OF CAUSE:
+Lucy Little v. His Majesty the King
+Len Little v. His Majesty the King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 23, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+April 13, 2023
+APPEARANCES:
+Counsel for the Appellant:
+John D. Buote
+Counsel for the Respondent:
+Lalitha Ramachandran
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John D. Buote
+Firm:
+BRS Tax Lawyers LLP Toronto, Ontario
+For the Respondent:
+Shalene Curtis‑Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] RSC 1985, c E-15 (“ETA”).
+[2] Transcript of Mr. Little, page 12, line 13.
+[3] Transcript of Mr. Little, page 33, lines 1–4; page 34, lines 6–7.
+[4] Mignardi v R, 2013 TCC 67 (informal procedure).
+[5] Ibid at para 41.
+[6] Barrett v R, 2012 FCA 33 at paras 38 and 42.
+[7] RSC 1985, c T-2.

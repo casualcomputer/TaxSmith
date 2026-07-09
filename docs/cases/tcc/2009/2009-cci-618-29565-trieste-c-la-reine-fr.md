@@ -1,0 +1,163 @@
+---
+title: "Trieste c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29565/index.do"
+last_modified: "2009-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 618"
+citation2: ""
+neutral_citation: "2009 CCI 618"
+decision_date: "2009-07-09"
+language: "fr"
+item_id: "29565"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6322
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:44:47.709000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13c12d6e748e87a06ca5db0c104453887230e972b857e156a31342a7f38b7edd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Trieste c. La Reine
+
+- Citation: 2009 CCI 618
+- Decision date: 2009-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6322, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trieste c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-09
+Référence neutre
+2009 CCI 618
+Numéro de dossier
+2008-331(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-331(IT)G
+ENTRE :
+GEORGE TRIESTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels fixés pour audition le 8 décembre 2009, à Toronto (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me John David Buote
+Avocate de l’intimée :
+Me Eleanor H. Thorn
+____________________________________________________________________
+ORDONNANCE
+LA PRÉSENTE AFFAIRE ayant été fixée pour audition le 8 décembre 2009, et vu qu’il semble que, à ce moment‑là, l’appelant avait signifié et produit une liste supplémentaire de documents en vertu de l’article 87 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») au cours de l’après‑midi du 7 décembre 2009, dans laquelle étaient divulgués pour la première fois 14 liasses de documents ou documents additionnels;
+ET VU QU’IL SEMBLE que la liste de documents produite par l’appelant supposément conformément à l’article 81 des Règles et à l’ordonnance sur l’état de l’instance rendue par le juge en chef Rip le 10 septembre 2008 ne divulguait que trois documents;
+LA COUR ORDONNE :
+1. L’instruction de l’affaire est ajournée sine die;
+2. L’intimée peut procéder à un interrogatoire préalable additionnel de l’appelant, cet interrogatoire devant être complété au plus tard le 10 février 2010;
+3. Dans les 30 jours suivant la date de la présente ordonnance, l’appelant versera à l’intimée les frais de la journée, lesquels sont fixés à 6 000 $.
+Signé à Toronto (Ontario), ce 9e jour de décembre 2009.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 5e jour de février 2010.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 618
+Date : 20091209
+Dossier : 2008-331(IT)G
+ENTRE :
+GEORGE TRIESTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bowie
+[1] J’ai été saisi de la présente affaire le matin du 8 décembre 2009. Il ne s’agit pas d’une affaire complexe. La question en litige se rapporte à l’application de l’article 250 de la Loi de l’impôt sur le revenu et de la Convention fiscale Canada‑États‑Unis en ce qui concerne un citoyen américain qui a vécu et travaillé au Canada au cours des années visées par les présents appels.
+[2] L’avis d’appel a été déposé au mois de janvier 2008 et la réponse à l’avis d’appel, au mois d’avril 2008. Les parties ont produit des listes de documents en vertu de l’article 81 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), divulguant les documents qui pourraient être utilisés en preuve pour les aider à l’instruction. La liste de l’appelant a été produite le 10 septembre 2008; trois documents seulement y étaient divulgués. Certains autres documents ont été divulgués lorsque l’appelant a fait l’objet d’un interrogatoire préalable le 2 décembre 2008. Au cours de l’été 2009, les deux avocats ont signé et déposé une demande conjointe en vue de faire fixer la date de l’instruction, en attestant que l’affaire était prête pour l’instruction. La date de l’instruction a été fixée au moyen d’une ordonnance en date du 8 septembre 2009.
+[3] À 15 h 44, le 7 décembre 2009, l’avocat de l’appelant a produit par télécopieur une liste supplémentaire de documents. Au recto du document, il est dit que ce document [traduction] « est signifié conformément à l’article 81 », mais ce n’est manifestement pas le cas. L’article 81 des Règles prévoit ce qui suit :
+Liste de documents (communication partielle)
+81(1) Dans les trente jours de la clôture des actes de procédure, les parties doivent produire et signifier l’une à l’autre une liste des documents dont chaque partie connaît actuellement l’existence et qui pourraient être présentés comme preuve,
+a) soit pour établir ou aider à établir une allégation de fait dans un acte de procédure déposé par la partie;
+b) soit pour réfuter ou aider à réfuter une allégation de fait dans un acte de procédure déposé par une autre partie.
+81(2) La liste de documents produite en vertu du présent article doit être établie selon la formule 81.
+81(3) La partie qui a omis de produire ou de signifier une liste de documents dans le délai fixé par le paragraphe (1) peut, sans devoir obtenir une autorisation, la produire et la signifier après cette date; toutefois, lorsque, selon le cas :
+a) un avis de requête a été présenté pour demander un jugement sous le régime de l’article 91;
+b) une demande de fixation des temps et lieu de l’audience a été présentée en vertu du paragraphe 123(1) ou une date d’audition de l’appel a été fixée par la Cour,
+la partie peut demander l’autorisation de produire et de signifier la liste.
+(4) La partie qui a omis de produire et de signifier une liste de documents dans le délai fixé par le juge en vertu du sous‑alinéa 125(5)a)i) ne peut la produire et la signifier qu’avec l’autorisation de la Cour.
+[Non souligné dans l’original.]
+[4] Cette liste supplémentaire a été remise à l’avocate de l’intimée, avec des copies des documents énumérés, au cours de l’après‑midi du 7 décembre. Sur les 15 pièces énumérées, 14 documents, ou liasses de documents dans certains cas, qui « pourraient être utilisés en preuve » par l’appelant ont alors été divulgués pour la première fois.
+[5] Au début de l’audience, l’avocate de l’intimée, qui avait été prise au dépourvu, a demandé un ajournement ainsi que l’adjudication des frais engagés inutilement.
+[6] De toute évidence, l’intimée subirait un préjudice si elle devait se présenter à l’instruction dans ces conditions. Les documents figurant dans la liste supplémentaire portent des dates allant du mois de mai 1999 au mois de juin 2009. Le fait de produire pour la première fois ces documents la veille de l’instruction, et un an après l’interrogatoire préalable de l’appelant, constitue ni plus ni moins une tentative d’embuscade, soit une tactique que nos tribunaux ont abolie il y a plusieurs décennies.
+[7] Selon les Règles, les parties doivent à tout le moins produire et signifier l’une à l’autre[1] les documents sur lesquels elles comptent se fonder à l’instruction, dans les 30 jours suivant la clôture des actes de procédure. Les documents sont produits avant la tenue des interrogatoires préalables pour que les parties puissent, au cours de l’interrogatoire, être questionnées au sujet des documents sur lesquels elles se fonderont à l’instruction afin de prouver le bien‑fondé de leur preuve et de réfuter celle de la partie adverse. Cette communication permet aux parties d’évaluer d’une façon réaliste la solidité relative de leur preuve et celle de l’autre partie, ce qui a pour effet d’encourager un règlement et d’assurer l’équité du processus d’instruction.
+[8] L’article 87 des Règles reconnaît qu’il arrive parfois qu’un document apparaisse à un stade tardif, auquel cas une liste supplémentaire peut être produite :
+Liste incomplète
+87 Lorsque, à un moment quelconque après la signification d’une liste de documents sous le régime de l’article 81 ou de l’article 82, la partie s’aperçoit que la liste était inexacte ou incomplète pour quelque raison que ce soit, cette partie doit signifier immédiatement une liste supplémentaire précisant l’inexactitude ou décrivant le document.
+[Non souligné dans l’original.]
+L’objet de cette disposition est d’assurer que les parties se conforment à l’obligation continue qui leur incombe de procéder à une communication complète; elle ne vise pas à faciliter la communication, à la dernière minute, de documents qui auraient dû être divulgués il y a longtemps, mais qui ne l’ont pas été. L’inclusion du mot « immédiatement » dans le texte n’est pas accidentelle.
+[9] L’article 91 des Règles indique les redressements accordés à la suite d’une omission de se conformer aux articles 78 à 91 des Règles.
+Effet du défaut de divulguer des documents ou de les produire à des fins d’examen
+91 Si une personne ou une partie qui est tenue de communiquer des documents sous le régime des articles 78 à 91 omet ou refuse sans excuse raisonnable de produire une liste ou une déclaration sous serment de documents, de divulguer un document mentionné dans la liste ou une déclaration sous serment de documents ou de produire un document pour fins d’examen et de copie, ou de se conformer à un jugement de la Cour portant sur la production ou l’examen de documents, la Cour peut,
+a) soit ordonner ou permettre à la personne ou à la partie de produire une liste ou une déclaration sous serment de documents ou une nouvelle liste ou une nouvelle déclaration sous serment de documents;
+b) soit ordonner à la personne ou à la partie de produire un document pour fins d’examen et de copie;
+c) soit sauf en cas d’omission ou de refus de la part d’une personne qui n’est pas une partie, rejeter ou accueillir l’appel, selon le cas;
+d) soit ordonner à toute partie ou à toute autre personne de payer personnellement et immédiatement les frais de la requête, les débours et les coûts de toute prolongation de la communication découlant de l’omission de divulguer ou de produire;
+e) soit donner toute autre directive appropriée.
+[10] En l’espèce, l’appelant n’a pas justifié son omission d’inclure les documents énumérés dans la liste supplémentaire dans la liste initialement produite en vertu de l’article 81 des Règles, ni son omission de signifier « immédiatement » la liste supplémentaire. La directive qui s’avère juste eu égard aux circonstances consiste à ajourner l’instruction, à permettre à l’intimée de procéder à un interrogatoire préalable additionnel de l’appelant, si elle le juge opportun, et à exiger que l’appelant paie les frais engagés inutilement, et ce, immédiatement et quelle que soit l’issue de la cause. Ces frais sont fixés à 6 000 $, soit un montant qui vise à indemniser l’intimée des frais de la journée, notamment pour ce qui est du temps de préparation, ainsi que des frais engagés afin de faire venir un témoin d’Ottawa à Toronto, l’importance du montant fixé indiquant que la Cour n’approuve pas la conduite de l’appelant, soit le fait qu’il a tardé à divulguer ces documents et qu’il les a produits la veille de l’instruction seulement.
+Signé à Toronto (Ontario), ce 9e jour de décembre 2009.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 5e jour de février 2010.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 618
+No DU DOSSIER DE LA COUR : 2008-331(IT)G
+INTITULÉ : GEORGE TRIESTE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 décembre 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE : Le 9 décembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me John David Buote
+Avocate de l’intimée :
+Me Eleanor H. Thorn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me John David Buote
+Cabinet : J.D. Buote & Associates Tax
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] C'est‑à‑dire en vertu de l'article 81 des Règles, par opposition à l'article 82, qui prévoit la production de tous les documents pertinents.

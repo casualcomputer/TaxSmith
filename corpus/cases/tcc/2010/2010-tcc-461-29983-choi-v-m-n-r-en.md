@@ -1,0 +1,193 @@
+---
+title: "Choi v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29983/index.do"
+last_modified: "2010-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 461"
+citation2: ""
+neutral_citation: "2010 TCC 461"
+decision_date: "2010-09-14"
+language: "en"
+item_id: "29983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6618
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:01:04.659000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc8c7055633f5d30c55ae6a48ddac9b00b8eea51d0ba661d599025a7f39dc13e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Choi v. M.N.R.
+
+- Citation: 2010 TCC 461
+- Decision date: 2010-09-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6618, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Choi v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-14
+Neutral citation
+2010 TCC 461
+File numbers
+2009-2455(EI)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-2455(EI)
+BETWEEN:
+DONG SUN CHOI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ELIZABETH HELPS,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Dong Sun Choi 2009-2454(CPP) on August 30, 2010
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed for the reasons set out in the attached Reasons for Judgment which were read from the bench on September 1st, 2010.
+Signed at Winnipeg, Manitoba this 14th day of September 2010.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2009-2454(CPP)
+BETWEEN:
+DONG SUN CHOI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ELIZABETH HELPS,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Dong Sun Choi 2009-2455(EI) on August 30, 2010
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed for the reasons set out in the attached Reasons for Judgment which were read from the bench on September 1st, 2010.
+Signed at Winnipeg, Manitoba this 14th day of September 2010.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2010 TCC 461
+Date: 20100914
+Dockets: 2009-2455(EI)
+2009-2454(CPP)
+BETWEEN:
+DONG SUN CHOI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ELIZABETH HELPS,
+Intervenor.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant operates a tutoring business and engaged a Ms. Elizabeth Helps as a tutor at the premises at which the tutoring occurs. I will refer to Ms. Helps as the Worker.
+[2] The Appellant appeals the determination by the Minister of National Revenue (the “Minister”) that the Worker was engaged in insurable employment and pensionable employment during the period January 1, 2007 to December 31, 2007.
+[3] The Appeals were heard on common evidence.
+[4] The Appellant relies heavily on a written agreement entered into between him, operating under the name Dong Sun Choi Starlet Leaders Club (“Starlet”), and the Worker.
+[5] That agreement has an independent contractor provision but it is worded strangely. It says Starlet is a contractor and the contractee is the Worker and that the contractor, Starlet, is engaged as an independent contractor to provide services to the contractee, the Worker.
+[6] It also says the contractee, the Worker, is to pay the contractor, Starlet, at the rate of $18 dollars per hour. It is clear from the common evidence of the parties that the $18 dollars per hour is the rate being paid to the Worker by Starlet even though the written agreement states that it is payable to the contractee, Starlet. Admittedly, this appears to be a simple error likely caused by language difficulties. The Appellant is Korean and has difficulty with English to the point of requiring an interpreter. He could easily have misunderstood who is who in filling out a form contract presumably prepared for him by someone else.
+[7] On the other hand, he testified at times that the tutoring business or businesses were that of the tutors and that he just facilitated the introduction of students to the tutors and provided the premises for the Worker and other tutors to carry on their business.
+[8] Indeed his accountant, who testified at the hearing, stated that the concept or business model was for Starlet to charge students two fees: one for the tutor in the context of the tutor providing a service directly to the student and one for his service as acting as the facilitator and provider of the physical facility. This contemplates the Appellant as some sort of agent for the Worker conveying her fee to, and collecting her fee from, students all on her behalf.
+[9] The Appellant even testified that the tutors set their own fees and that he just passed it on.
+[10] This is a totally bizarre and totally fictitious portrayal of the real business operation conducted by Starlet. It is a crude distortion of the true nature of his business which clearly and unequivocally is to operate an after school hours tutoring program for Korean school children who are having language related and other academic problems at school. Starlet offered one-on-one tutoring and imposed on the Worker a strict regime in respect of the curriculum, the materials, testing, reporting and even imposing how the tutoring had to be done. He sought out students offering tutoring in English reading, spelling, grammar and vocabulary and hired tutors to perform that role for his school under his direction. An example of the extent of his direction aside from setting the curriculum was his insistence that the Worker curtail her preference or tendency to use games as a teaching tool. Indeed, the Appellant directed her not to tutor in this fashion and directed her to follow the program he set and wanted followed.
+[11] Further, the Appellant was responsible for resolving complaints or issues with parents, not, in my view, because of language differences as asserted by the Appellant, but rather because the Worker had no contractual relationship with the students or their parents. That relationship was singularly between the parents and the Appellant and the Appellant was not acting as any sort of agent on behalf of the tutor in that regard.
+[12] In summing up his argument, the Appellant stressed as a main point that his control and supervision of tutors and direct dealing with parents was a cultural requirement that had to be considered in a different light than it might be considered in other contexts. He said he knew the parents of the Korean children expected a strict regime of strict lessons, strict testing and frequent reporting not games. Accordingly, he required the Worker to do regular evaluations of the student’s work which he had to supervise to ensure the Korean parent’s expectations were met. This may be true. Indeed, I accept that it probably is true and that without his keen sense of what was required to make his businesses a success, his school would lose students. He had to be the Principal, so to speak. He needed the Workers to be subordinate to his direction. This comes through loud and clear from his own testimony, as well as that of the Worker.
+[13] The Worker’s subordination to the Appellant’s direction has no doubt created a Master/Servant relationship in respect of which I find that the Worker has been retained under a contract of service. The reason he needed to invoke this regime and to have this control, is not relevant. That is, it is the nature of the relationship and not the reasons for establishing it that determines the status of the Worker. To imply, as he might want to, that this regime was set up on her behalf to enhance her business is nonsense. This is his school and he needs tutors to teach his method or his business suffers.
+[14] Lest it appears that I have put too much emphasis on control in the determination of the Worker’s engagement under a contract of service as opposed to a contract for services, I will briefly run through the Wiebe Door Services Ltd. v. M.N.R.[1] tests and other tests applicable to that determination.
+[15] One factor in that broader analysis most certainly requires a determination of the degree of control that the Appellant has over the Worker. While I have already expressed my views on this, it is necessary for me to consider some points that might favour the Appellant’s position.
+[16] The Appellant suggested that the Worker can work when she wants and there is evidence that she took a considerable number of days off and that he exercised no control over that. She was, to an extent, free to tutor as and when she wanted.
+[17] The Worker testified that she did take a number of days and time off for sickness and other reasons including taking off the entire summer when the school teaching model changed from a one-on-one model to a classroom model run during the day instead of after school. That was not a tutoring role she wanted to participate in and she was free to opt out.
+[18] While this freedom of times to work is most often more indicative of an independent contractor status than an employment status, it does not override the overwhelming evidence that she worked in a subservient capacity. Teachers who have more control over their teaching methods might be employees because of their requirement to attend their work at regular hours but teachers who have no control over the teaching methods cannot be cast as independent contractors simply because of work-time flexibility. Work-time flexibility, in this case, carries little weight against the evidence of such a considerable degree of subordination as I have found existed. Accordingly, the control factor must fall in favour of the finding of a contract of service.
+[19] Another factor considered in the Wiebe Door tests is the chance of profit and risk of loss.
+[20] An hourly rate worker with work-time flexibility arguably has a chance of earning more by simply choosing to work more hours. But this is not a chance for profit in an entrepreneurial sense. There is no investment of capital, no reward based on anything other than an hourly rate paid twice a month by cheque by the Appellant to the Worker on the first and fifteenth of every month for hours worked which the Appellant tracked as well as the Worker.
+[21] The Appellant also argued that if the student did not show up, the Worker would not get paid. The risk was hers.
+[22] That, in my view, is not a particularly helpful way to frame the risk of loss question. A better question would be whether she gets paid when she teaches but the student fails to pay the amount billed by the Appellant. Her contract, regardless of how it was written, can only be construed in one way. She works, he pays. He is not her agent. That is a myth. She would not suffer a risk of loss if the children’s tutoring fees are not paid to the Appellant. In my view, based on the nature of the relationship as I have found it, she would have a clear contractual right to insist on being paid for the hours she worked regardless of whether or not the Appellant’s business received the income that might have been related to her services.
+[23] I acknowledge that the Appellant has asserted that any such loss was a loss that she would suffer but I find that to be an unsupportable and not credible assertion. The oral testimony of both parties was that the Worker was engaged at $15 to $19 dollars an hour. I find that she did not set that rate even though she threatened to leave on more than one occasion in order to get a raise. Employees can use any number of means at their disposal to help obtain a raise. This does not indicate that the employee was, in an entrepreneurial sense, working to increase a profit. In any event, it is clear to me that he promised her payment for hours worked regardless of his receipts and any testimony of his suggesting the contrary is simply not credible.
+[24] All said, I am satisfied that this factor of a chance of profit and risk of loss urges the finding that the engagement of the Worker is an engagement of, or contract of, service.
+[25] The next factor to consider under the Wiebe Door tests is ownership of tools.
+[26] The Appellant asserted the Worker provided all the teaching materials used in the tutoring sessions. He had photos of her bookshelf at the school.
+[27] I accept the Worker’s testimony, however, that many of these books belonged to the Appellant and that many of those, on those shelves that were hers, were copies of the same materials that he provided as required materials and that by being on those shelves, made her personal materials appear greater in number. The shelves also contained many materials that she was prohibited from using. In any event, her testimony was that she used his materials at his insistence. I accept her testimony.
+[28] In addition to the necessary teaching materials, the Appellant provided the desks, chairs, whiteboard, computer, printer, internet and classroom facilities all at no charge to the Worker.
+[29] Clearly, this factor supports a finding of a contract of service.
+[30] Another test that has complimented the tests in Wiebe Door has been known as the integration test. This test has generally been accepted in recent times as looking less at whether the Worker was integrated into the engager’s business to the point of being such a necessary part of it as to preclude a finding that the Worker was an independent contractor. Rather, a variation of this test has become a useful tool in determining a worker’s status. It looks more at whether the Worker has his or her own business. As stated in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2], the better test asks, whose business is it? Or, more particularly, is the Worker in business on her own account? This requires a preliminary finding of whether the Worker has a business of her own as a worker must have to be an independent contractor.
+[31] In the case at bar, the Worker clearly does not have a business of her own. Not only does she not purport to have a business, there is nothing to point to her having a business of her own. The only other tutoring student she has had is a neighbour’s child. She does not look for other contracts or engagements; she has no business cards of her own; she does not advertise; she has no business name or number; she claims no business expenses. She provides tutoring for Starlets’ students on Starlets’ premises and on Starlets’ terms. The provision of tutoring services is clearly his business and not hers.
+[32] Lastly, the Courts can look at the intention of the parties.
+[33] The Worker admitted, regardless of issues as to the construction of the written contract, that she was required to acknowledge as a term of her engagement that she was not an employee and she agreed to that requirement or condition in order to get the work. I believe that the Appellant is misguided as to the significance of that acknowledgement or agreement. He is misguided to believe that an employer can contract out of the legislative requirements of the Employment Insurance and Canada Pension Plan provisions simply by getting a worker to say that he or she is an independent contractor. Both these legislated social programs are designed to protect workers from such abuse. Admittedly, if a worker wants to respect such an agreement, the system may not be able to intervene. Another tutor may be happy to respect such a condition of engagement. Indeed, a second tutor who testified at the hearing on behalf of the Appellant acknowledged that he understood and respected the requirement that he be an independent contractor but that worker also saw himself as an independent contractor. There was another tutoring enterprise which he sought out and for which he provided services. This is reflective of a more entrepreneurial approach to the way in which he offers his services. His perspective, however, has no bearing on the legal perspective in relation to the Worker.
+[34] In any case, the other factors here so strongly favour employment that the intention factor, even without the duress that existed here, cannot assist the Appellant. As the case law cited by Respondent’s counsel clearly underlines, the intention test only becomes a relevant factor when the other factors are inconclusive. They are not inconclusive in this case. Accordingly, I find that the Worker was engaged in both insurable and pensionable employment under the respective provisions of the respective legislation, namely the Employment Insurance Act and the Canada Pension Plan.
+[35] Accordingly, the appeals are dismissed.
+Signed at Winnipeg, Manitoba this 14th day of September 2010.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2010 TCC 461
+COURT FILE NO.: 2009-2455(EI); 2009-2454(CPP)
+STYLE OF CAUSE: DONG SUN CHOI AND M.N.R.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: August 30, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: September 14, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kristian DeJong
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 87 DTC 5025 (F.C.A.).
+[2] [2001] 2 S.C.R. 983.

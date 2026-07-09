@@ -1,0 +1,155 @@
+---
+title: "Jordan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31014/index.do"
+last_modified: "2012-11-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 394"
+citation2: ""
+neutral_citation: "2012 CCI 394"
+decision_date: "2012-11-08"
+language: "fr"
+item_id: "31014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4896
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:17:23.872000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88b80b3b705a1024f6839aede8193216a2dfa73d0ea764483152c33a5525f492"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jordan c. La Reine
+
+- Citation: 2012 CCI 394
+- Decision date: 2012-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4896, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jordan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-08
+Référence neutre
+2012 CCI 394
+Numéro de dossier
+2012-2088(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2088(IT)I
+ENTRE :
+BILL JORDAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 octobre 2012, à Regina (Saskatchewan).
+Par : L’honorable juge J.M. Woods
+Comparutions :
+Avocat de l’appelant :
+Me Kevin Mellor
+Avocat de l’intimée :
+Me John Gravel
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a droit au crédit d’impôt pour frais médicaux à l’égard de frais de déplacement supplémentaires de 14 833 $. L’appelant a droit à ses dépens conformément au tarif applicable.
+Signé à Toronto (Ontario), ce 8e jour de novembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 394
+Date : 20121108
+Dossier : 2012-2088(IT)I
+ENTRE :
+BILL JORDAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Bill Jordan interjette appel de la décision dans laquelle le ministre du Revenu national (le « ministre ») a refusé de lui accorder le crédit d’impôt pour frais médicaux concernant des frais de déplacement de 14 883 $ qu’il avait déduits relativement à son année d’imposition 2010. Les frais ont été engagés à l’égard de déplacements effectués entre le domicile de M. Jordan et le lieu où son épouse recevait des traitements médicaux.
+Les faits
+[2] L’épouse de l’appelant, Mme Terri Jordan, a été victime d’un anévrisme à l’âge de 48 ans. Les conséquences ont été tragiques : Mme Jordan a subi des dommages au cerveau et réside actuellement dans un établissement de soins prolongés.
+[3] Immédiatement après l’incident, Mme Jordan a été transportée de Weyburn, la ville où elle habitait, en Saskatchewan, à un hôpital situé à environ 120 kilomètres de là, à Regina. Elle est restée hospitalisée pendant environ six semaines et a été par la suite transférée à un centre de réadaptation à Regina. Il n’y avait pas d’hôpital ni d’établissement de réadaptation approprié pour son traitement à Weyburn. Après un séjour de quatre mois à l’établissement de réadaptation, Mme Jordan a été ramenée à Weyburn où elle a passé un certain temps à l’hôpital, et elle a été par la suite installée dans un établissement de soins prolongés où elle réside actuellement.
+[4] M. Jordan a accompagné son épouse de Weyburn à Regina et, six mois plus tard, il l’a accompagnée lorsqu’elle est retournée à Weyburn. Dans l’entre‑temps, M. Jordan a fait des déplacements presque quotidiens entre Weyburn et Regina pour aider au rétablissement de son épouse, ce qui nécessitait des soins thérapeutiques importants.
+[5] Mme Jordan est restée à Regina du 19 mars au 10 septembre 2010. M. Jordan avait obtenu un congé jusqu’en août, et il passait de longues heures avec son épouse chaque jour. Au début du mois d’août, M. Jordan est retourné au travail à temps partiel, mais il a continué à se rendre à Regina après le travail presque chaque jour.
+[6] Dans sa déclaration de revenus pour l’année d’imposition 2010, M. Jordan a demandé un crédit d’impôt pour frais médicaux de 11 730 $ relativement à des frais afférents à un véhicule à moteur et de 3 468 $ concernant des frais de repas à Regina. Ces frais ont été supportés à l’égard de 102 voyages aller‑retour entre Weyburn et Regina.
+[7] Le ministre a accordé le crédit d’impôt pour frais médicaux à l’égard des frais engagés par M. Jordan pour un seul voyage aller‑retour, qui a été effectué lorsque Mme Jordan s’est initialement rendue à Regina et lorsqu’elle est retournée à Weyburn. Les frais ont été accordés compte tenu du fait que la présence de M. Jordan était nécessaire pour le déplacement de son épouse. Ce sont les 101 voyages aller‑retour supplémentaires qui sont en question. La Couronne ne conteste pas le montant qui a été dépensé.
+Analyse
+[8] M. Jordan se fonde sur l’alinéa 118.2(2)h) de la Loi de l’impôt sur le revenu (la « Loi »), qui autorise l’octroi d’un crédit d’impôt pour frais médicaux à l’égard de certains frais de déplacement supportés lorsqu’un particulier a besoin d’obtenir des soins médicaux dans un lieu situé à 80 kilomètres au moins de sa résidence. La disposition est reproduite ci‑après ainsi que l’alinéa 118.2(2)g) de la Loi, une disposition connexe.
+(2) Frais médicaux – Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+g) [transport] – à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu — situé à 40 kilomètres au moins de cette localité — où des services médicaux sont habituellement dispensés, ou vice-versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+(ii) un seul particulier accompagnant le particulier, l’époux ou conjoint de fait ou la personne à charge, si ceux-ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins,
+si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux-mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+h) [frais de déplacement] – pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux-ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+[9] Selon ce que j’ai compris de la position de la Couronne, le crédit d’impôt ne s’applique qu’à des frais de déplacement d’un particulier accompagnant le particulier si ces frais sont supportés relativement au transport du particulier.
+[10] L’avocat de la Couronne admet que cette interprétation ne se dégage pas explicitement de la loi, toutefois, il soutient qu’elle découle implicitement de l’expression « accompagnant le particulier ».
+[11] L’avocat de M. Jordan se fonde largement sur la décision Bell c La Reine, 2009 CCI 523, dans laquelle il a été conclu que l’alinéa 118.2(2)h) de la Loi visait les frais de déplacement de l’épouse qui accompagne le patient et qui vivait à l’extérieur de chez elle pendant les traitements. Dans la décision Bell, le ministre avait accepté les frais d’hôtel et de repas de l’épouse, mais avait refusé les frais de déplacement entre l’hôtel et l’hôpital. Voici les motifs pour lesquels le juge Bowie avait accepté les frais supplémentaires :
+5 [En ce qui concerne l’autorisation des frais d’hôtel par le ministre] Je peux seulement présumer que le ministre, en plus de tenir compte de l’article 12 de la Loi d’interprétation – qui exige que tout texte de loi soit interprété de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet –, a aussi tenu compte de la jurisprudence récente qui veut qu’il ne faut pas seulement prendre en compte le texte et le contexte d’une disposition, mais aussi son objet. Je suppose qu’après avoir interprété l’alinéa 118.2(2)h) de la Loi de cette façon‑là, le ministre a conclu que cette disposition ne visait pas seulement les frais de transport du patient, mais aussi les dépenses supplémentaires engagées par le patient, ou par le préposé à ses soins, entre le moment où il quitte sa résidence pour se faire traiter et celui où il retourne chez lui après les traitements. Autrement dit, les frais de déplacement couvrent non seulement les frais de transport entre deux endroits, mais aussi les dépenses engagées pour vivre à l’extérieur de chez soi pendant les traitements. Il semble que le ministre ait appliqué ce principe aux frais de logement et de repas, mais pas aux frais engagés par Mme Bell pour se déplacer entre l’hôtel et l’hôpital pendant le traitement de M. Bell. Je ne vois aucune différence entre ces deux types de dépenses. Dans les deux cas, il s’agit de dépenses qui ont dû être engagées par l’épouse d’un patient à cause de l’état de santé de ce dernier et de la nécessité de le traiter à plus de 80 kilomètres de chez lui, c’est‑à‑dire Nanaimo. Manifestement, l’article 118.2 de la Loi vise à accorder un allègement au patient qui doit engager des dépenses extraordinaires pour recevoir des traitements médicaux à au moins 80 kilomètres de chez lui.
+[Non souligné dans l’original.]
+[12] À mon avis, l’interprétation ci‑dessus est très raisonnable dans le contexte d’une disposition dont le libellé est large et ambigu.
+[13] La question qui demeure est de savoir s’il y a une différence entre les frais dont il est question dans la décision Bell, qui étaient des frais de subsistance engagés à l’extérieur de chez soi, et les frais engagés en l’espèce, qui étaient des frais afférents à un véhicule à moteur supportés pour se déplacer entre Weyburn et Regina. Je ne vois aucune raison de principe de faire une distinction entre les deux types de frais. Il s’agit dans les deux cas de frais de déplacement engagés par une personne accompagnant le particulier durant la période de traitement.
+[14] Il se peut que le ministre ait tenu compte, en l’espèce, de la longue période de traitement pour Mme Jordan, à Regina, et des frais importants qui ont été engagés. Je tiens à souligner, par exemple, que l’une des hypothèses formulées par le ministre lorsqu’il a établi la nouvelle cotisation était que la présence de M. Jordan n’était pas nécessaire durant la période de réadaptation.
+[15] La preuve présentée en l’espèce ne laisse aucun doute quant au fait que Mme Jordan devait recevoir des traitements médicaux à Regina pendant une période prolongée et que la présence quotidienne de M. Jordan a largement contribué au rétablissement de son épouse. En l’espèce, il convient d’appliquer le principe dégagé dans la décision Bell, une affaire dont les circonstances suscitent manifestement de la compassion.
+[16] L’appel est accueilli, et les dépens sont adjugés à l’appelant conformément au tarif applicable.
+Signé à Toronto (Ontario), ce 8e jour de novembre 2012.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 394
+No DU DOSSIER DE LA COUR : 2012-2088(IT)I
+INTITULÉ : BILL JORDAN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 11 octobre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 8 novembre 2012
+COMPARUTIONS :
+Pour l’appelant :
+Me Kevin Mellor
+Avocate de l’intimée :
+Me John Gravel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : M. Kevin Mellor
+Cabinet : Mellor Law Firm
+Regina (Saskatchewan)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

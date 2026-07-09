@@ -1,0 +1,204 @@
+---
+title: "McCutcheon v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521605/index.do"
+last_modified: "2026-03-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 57"
+citation2: ""
+neutral_citation: "2026 TCC 57"
+decision_date: "2026-03-25"
+language: "en"
+item_id: "521605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5535
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-03-27T09:02:12.399000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "50830348f6e80e34c1222a21bbe47f730f212bc51f82e03755e6216fc407a380"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCutcheon v. The King
+
+- Citation: 2026 TCC 57
+- Decision date: 2026-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5535, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCutcheon v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-03-25
+Neutral citation
+2026 TCC 57
+File numbers
+2016-1084(IT)I
+Judges and Taxing Officers
+Perry Derksen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1084(IT)I
+BETWEEN:
+WILLIAM McCUTCHEON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 16, 2026 at Kelowna, British Columbia
+Before: The Honourable Justice Perry Derksen
+Appearances:
+Agent for the Appellant:
+Irene Harms
+Counsel for the Respondent:
+Nikhil Pandey
+JUDGMENT
+In accordance with the attached Reasons for Judgment.
+The appeals from reassessments made under the Income Tax Act in respect of the appellant’s 2010, 2011, and 2012 taxation years are dismissed.
+There is no award of costs.
+Signed this 25th day of March 2026.
+“Perry Derksen”
+Derksen J.
+Citation: 2026 TCC 57
+Date: 20260325
+Docket: 2016-1084(IT)I
+BETWEEN:
+WILLIAM McCUTCHEON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Derksen J.
+I. Overview [1] This appeal concerns a taxpayer who relied on unscrupulous tax preparers, first Fiscal Arbitrators and later DeMara Consulting Inc. The appeals are from notices of reassessment in respect of the appellant’s 2010, 2011, and 2012 taxation years. In reassessing the appellant, the Minister of National Revenue denied business losses and capital losses that were claimed by the appellant but were not incurred. The Minister also imposed penalties under s. 163(2) of the Income Tax Act, R.S.C., c. 1 (5th Supp.) (the Act).
+[2] The appellant attended the hearing with Ms. Irene Harms (formerly known as Irene Beilstein). Ms. Harms had previously assisted the appellant with the filing of his notice of appeal. However, since the appeal was originally filed under the general procedure, Ms. Harms could not represent the appellant. Later, following a status hearing during which the appellant elected to proceed under the informal procedure, the Court ordered that the informal procedure would apply. This meant that the appellant could be represented by an agent. After considering the matter at the commencement of the hearing, the appellant decided that Ms. Harms would act as his representative.
+[3] The appellant only challenges the imposition of the penalties; he accepts that the business losses and capital losses that were claimed were not incurred.
+[4] For the reasons set out below, I have concluded that the penalties were properly imposed and the appeals must be dismissed.
+II. Background and Issue [5] For about 15 years before the taxation years in issue, the appellant successfully relied on a Mr. Heney, an accountant, to prepare and file his income tax returns. But the appellant changed course.
+[6] For 2010, the appellant first looked to an organization known as Fiscal Arbitrators to prepare and file his income tax return. The appellant had heard about Fiscal Arbitrators through a “friend of a friend.” In particular, the appellant says his friend Mr. Krack referred him to an individual named Doug Ference. The appellant testified that Mr. Ference set him up with Fiscal Arbitrators. But then Mr. Ference switched from Fiscal Arbitrators to DeMara Consulting Inc. (DeMara). Apparently, Mr. Ference told the appellant that he had moved over to DeMara and said the appellant should do so as well. The documentary evidence confirms that Mr. Ference introduced the appellant to DeMara through an email sent in early January 2012 in which more information was requested about “the remedy”.
+[7] I digress to note that it is well reported in other cases that an individual named Larry Watts was one of the principals operating Fiscal Arbitrators and that Fiscal Arbitrators was filing income tax returns on behalf of certain taxpayers in which fictitious business losses were claimed from non-existent business. Mr. Watts was eventually convicted of fraud and sentenced to serve time in a federal penitentiary: R. v. Watts, 2016 ONSC 4843, affirmed at 2018 ONCA 148.
+[8] Moreover, this is not the first case to consider the program offered by DeMara. In Canada v. Rattai, 2022 FCA 106, the Federal Court of Appeal described the DeMara program as follows:
+[1] DeMara Consulting Inc. (DeMara) promoted a program to clients (called members) under which DeMara prepared and filed income tax returns for members and their spouses. To become members, individuals were required to complete a confidentiality and non-disclosure agreement and to provide DeMara with detailed personal information including about personal living expenses and personal debt/financing obligations. DeMara used this information to prepare T5 and T5008 forms and then prepared members’ returns deducting the personal expenses as business losses and treating them as capital losses. DeMara also required members to appoint DeMara as their authorized representative with the Canada Revenue Agency (CRA).
+[9] Returning to the appellant (and to the evidence in this appeal) he never had in-person contact with the people from Fiscal Arbitrators. And he never personally met the people working with DeMara. DeMara operated out of Vernon, British Columbia. The appellant had then been dividing his time between two rural locations, one near Nelson, British Columbia, and the other near Nolalu, located west of Thunder Bay in Northwestern Ontario.
+[10] After the appellant had heard about a so-called “remedy” strategy available through DeMara, he engaged DeMara to file an amended income tax return for 2010 — this was after concerns arose about the filing of his 2010 income tax return through Fiscal Arbitrators — and later he engaged DeMara to also prepare and file his 2011 and 2012 income tax returns.
+[11] Turning to the specific income tax returns, when Fiscal Arbitrators filed the appellant’s initial 2010 tax return, a business loss of approximately $57,826 was claimed. After offsetting the appellant’s other income with the business loss, the appellant obtained a refund. In previous years, the appellant had not received significant refunds.
+[12] After being engaged by the appellant, DeMara filed a T1 adjustment request and an amended return for the appellant in respect of the 2010 taxation year in which the appellant claimed a revised business loss of $116,615. The appellant sought to offset the business loss against his other income. He also reported a net capital loss from the disposition of capital property of $57,931 and asked to have both the non-capital loss and net capital losses available to be carried back to earlier taxation years.
+[13] The appellant’s income tax return for the 2011 taxation year was also filed by DeMara. In that return, the appellant claimed a business loss of $136,696, which was to offset his other income and leave a non-capital loss balance of approximately $62,648 to be applied to his 2009 taxation year. A net capital loss of $68,076 was also reported.
+[14] A consistent pattern next emerged: the appellant also turned to DeMara for the filing of his 2012 income tax return, which was filed on July 16, 2013 (see para. 22 of the notice of appeal and as admitted in the reply). This was about 18 months after he was introduced to DeMara in January 2012. It is not disputed that the appellant claimed a business loss in the 2012 income tax return of $40,350.
+[15] The appellant was not carrying on any business in the 2010, 2011, and 2012 taxation years; the business losses have no basis in reality. Likewise, the appellant did not incur any capital losses in the 2010 and 2011 taxation years.
+[16] The Crown did not introduce the notices of reassessment into evidence. But it is not disputed that the Minister reassessed the appellant for the 2010, 2011, and 2012 taxation years to disallow the business losses and capital losses that were claimed and to impose penalties under s. 163(2).
+[17] The only issue is whether penalties were properly imposed under s. 163(2).
+III. Subsection 163(2) penalties — wilful blindness [18] Subsection 163(2) authorizes the imposition of a penalty where a taxpayer knowingly, or under circumstances amounting to gross negligence, has made or participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer filed or made in respect of a taxation year.
+[19] The burden of establishing the facts justifying the imposition of a penalty is on the Minister: s. 163(3).
+[20] Here there is no issue about whether a false statement, i.e., a misrepresentation, was made in the filing of the appellant’s income tax returns and in the amended return for 2010.
+[21] Turning to the other elements of s. 163(2), the provision allows for the imposition of a penalty where the taxpayer has knowledge or in circumstances amounting to gross negligence. The references to knowledge and circumstances amounting to gross negligence have different meanings: Wynter v. Canada, 2017 FCA 195 (Wynter) at para. 11.
+[22] Wilful blindness comes into play in considering whether the knowledge element of s. 163(2) is met. Specifically, when the doctrine of wilful blindness applies, knowledge is imputed to a taxpayer. Accordingly, wilful blindness is the doctrine by which the knowledge requirement in s. 163(2) may be satisfied.
+[23] It is useful to make a further distinction. Gross negligence is determined by an objective assessment of the comportment of the taxpayer, whereas wilful blindness is determined by reference to the taxpayer’s subjective state of mind: Wynter at para. 12.
+[24] What then is wilful blindness?
+[25] A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know or studiously avoids the truth. The concept is one of deliberate ignorance: Wynter at para. 13.
+[26] The law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire (as distinct from a positive finding of an actual intention to cheat): Wynter at para. 16.
+[27] In a case of wilful blindness, the essential factual element is a finding of deliberate ignorance; it connotes an actual process of suppressing a suspicion: see Wynter at para. 17. Thus, a penalty under s. 163(2) will be imposed where there is a making of a false statement knowing (actually or constructively through wilful blindness) that it is false.
+[28] Gross negligence is different. Gross negligence arises where a taxpayer’s conduct is found to fall markedly below what would be expected of a reasonable taxpayer. As the Federal Court of Appeal stated in Wynter, “if the wilfully blind taxpayer knew better, the grossly negligent taxpayer ought to have known better” (at para. 18).
+[29] Gross negligence requires a higher degree of neglect than a mere failure to take reasonable care; it is a marked or significant departure from what would be expected: Wynter at para. 19. It is well established that gross negligence is determined by reference to an objective test: Wynter at para. 21.
+[30] The question then is whether the appellant, in making the misrepresentations, did so knowingly or in circumstances amounting to gross negligence. Here, the Crown argues that the appellant knew about the misrepresentations or, at a minimum, was wilfully blind.
+[31] I prefer to deal with this case based on the doctrine of wilful blindness, which leads to the same place; as stated previously, wilful blindness imputes knowledge to a taxpayer: see Wynter at para. 13.
+IV. Analysis [32] In Torres v. The Queen, 2013 TCC 380, this Court considered the doctrine of wilful blindness in the context of several appeals where the Minister imposed penalties on taxpayers who had claimed fictitious business losses in returns prepared by Fiscal Arbitrators. The decision was affirmed by the Federal Court of Appeal in Strachan v. Canada, 2015 FCA 60.
+[33] In Torres, Justice C. Miller, at paragraph 66, set out some factors to consider regarding wilful blindness. I turn to those factors now to consider whether the appellant acted with wilful blindness.
+A. The education and experience of the appellant [34] I find that the appellant is educated, articulate, and intelligent. In listening to the appellant testify, I was struck by how intelligent he is and how careful he was in answering the questions of counsel for the Crown.
+[35] The appellant has been retired since about 1998. He had a career as a high school teacher, teaching physical education, health, and geography. When the appellant claimed the losses in the 2010, 2011, and 2012 taxation years, he had been retired for over a decade and was earning a pension from his teacher’s pension, as well as the CPP, and he had some investment income.
+[36] The appellant described himself as a “bush bunny,” in effect living off the grid in a rural life in the woods and reluctant to use technology and computers, or seemingly anything about modern life. That may be so, but people can live in rural areas, or even in the woods, and still be highly intelligent and operate with a high level of common sense.
+[37] I do not accept what is implied by the appellant’s evidence — that he was so unsophisticated that he did not have even a basic understanding about tax matters. The appellant may have been a highly trusting individual, but he strikes me as someone who is capable of a lot of common sense, both as a former long-time educator of high school students, and as someone successfully living a rural or non-urban lifestyle where urban conveniences are not at hand.
+[38] To be clear, I find that the appellant tried to downplay his educational experience and intelligence when it came to the matters in issue, both at the material time and in giving his evidence.
+[39] During the examination of the appellant, the Crown reviewed some email that the appellant exchanged in 2012 regarding his involvement with DeMara. I have reviewed that email and have a few comments. At the time, the appellant went by the name “Rocky.” And as much as the appellant described having limited knowledge of computers and limited access to the internet, the email paints a different picture.
+[40] Moreover, I cannot help but wonder what would have been revealed if the Court had seen more of the appellant’s email and correspondence with DeMara from January 2012 through to the filing of his income tax return for the 2012 taxation year. Here, I have only seen a snapshot.
+[41] In any event, the email shows that the appellant was quite capable of communicating and using technology. The email also shows that the appellant was careful in asking certain questions of the people associated with DeMara.
+[42] Much of the email refers to the “remedy.” One of the attachments from DeMara referred to private and confidential information and cautioned the appellant that if he wanted to invite someone into the process, the only thing he could tell them is that he was aware of a “tax remedy that may assist them.”
+[43] Counsel for the Crown suggested to the appellant that he was communicating with coded language when exchanging emails with the DeMara organization. The appellant, for example, wrote and referred to the “remedy” in quotes. I am not prepared to accept that the appellant was so naïve as to not understand that a great deal of the communications exchanged with the DeMara organization was done with carefully veiled language.
+[44] I next consider whether there were circumstances that would indicate a need for inquiry prior to filing, flashing red lights or warning signs.
+B. There were flashing red lights and warning signs crying out for a need for inquiry prior to filing (1) The magnitude of the advantage [45] The losses that were claimed were not insignificant or minor. The business losses offset the entirety of the appellant’s income from other sources, or nearly so as in 2012. Moreover, in 2010, the appellant had obtained a refund when Fiscal Arbitrators filed his return. Then the appellant sought to claim an even larger business loss for 2010.
+[46] For 2011 and 2012, the losses claimed would also have resulted in refunds. The CRA appeals officer testified that if the loss claimed in 2011 was accepted, it would have resulted in a refund of about $10,000. Likewise, she testified that if the loss claimed in 2012 was accepted, it would have resulted in a refund of about $6,000. These are not insignificant amounts, especially because the appellant had not in prior years obtained such large refunds after filing his income tax returns.
+(2) The blatantness of the false statement and how readily detectable it was [47] In Torres, Justice C. Miller described how readily detectable the false statements were. He wrote at paragraph 69(b):
+In all cases the nature of the falsehood, large business losses when none of the Appellants were actually engaged in business, is so blatantly untrue that no matter how firmly the Appellants believed that, pursuant to some process, they were entitled to refunds of all their taxes, they could not have believed they incurred large business losses. Being convinced of the refund does not automatically imply they believed they had business losses. They simply did not address their minds to it…
+[48] Here, the appellant was not engaged in any business. The blatantness of the false statements would also have been readily detectable if the appellant had inquired into the matter or sought advice elsewhere. But I am not looking at actual knowledge here; I am looking at the facts in terms of whether there were warning signs flashing that the appellant should have made inquiries but did not because he did not want to know the full details of what DeMara was doing on his behalf.
+(3) Whether there was a lack of acknowledgement by the tax preparer who prepared the return in the return itself [49] It is not clear what information was on the 2010 amended return. The appellant’s 2011 return noted the tax preparer was DeMara Consulting in Vernon, British Columbia. And it is not clear what was on the appellant’s 2012 return. In the circumstances, I see this as neutral.
+(4) There were unusual requests made by the tax preparer [50] I return to the email the appellant exchanged with people associated with DeMara.
+[51] For example, the appellant received an email from Felice on January 9, 2012, who was using an email address of settlement4u.gy@gmail.com, and who the appellant understood was associated with DeMara. That email contained extensive instructions and a warning on confidentiality and a protocol for telling someone else about a “tax remedy.” The appellant was invited to listen to a pre-recorded call and then to reply by email confirming that he had listened to the recording and that he was requesting a membership kit that would include a membership information sheet and a non-disclosure agreement.
+[52] The appellant replied on January 14, 2012, confirmed that he had listened to the recording for one hour and 30 minutes, and took over three pages of notes. The appellant further stated that being a member “would definitely be a good ‘REMEDY’ for me” and he requested a membership kit. He later proceeded to complete the membership documents and signed a confidentiality and non-disclosure agreement.
+[53] The confidentiality and non-disclosure agreement, which was entered into evidence, should have raised red flags. Moreover, these interactions and documents were atypical of what the appellant had previously experienced. In short, these requests were odd. Plus, I cannot help but wonder what information the recording conveyed, or what the appellant noted in his more than three pages of notes.
+[54] The appellant first received the membership kit on or about January 16, 2012. He asked some questions but then had some glitches with his iPad or computer around January 22, 2012. The appellant asked DeMara to resend the documents. Several of his emails exchanged with DeMara are telling.
+[55] On January 28, 2012, the appellant wrote to DeMara advising that he had filled out the membership kit to the best of his ability. He referred to already having a “BN” i.e., a business number, as in his words:
+FYI, I already have a BN, as I filed my taxes thru Fiscal Arbitrators in 2010 & Felice recommended that I have a “remedy” applied to that tax return, thus I am anxious to get up & running with DeMara.
+[56] The reference to the appellant having a business number was in respect of a non-existent business. Although I am considering the doctrine of wilful blindness, the appellant’s interaction on January 28, 2012, and his reference to having already obtained a business number in respect of what was clearly at the time a non-existent business, would support a finding that the appellant knew that his returns would be filed with misrepresentations. I note also that in the member information sheet that the appellant completed and dated January 28, 2012, he answered “no” to the question of whether he was self-employed. That member information sheet authorized DeMara to prepare the tax returns.
+[57] In an email on February 7, 2012, to Jennifer at DeMara (Jennifer), the appellant referred to his receipt from the CRA “last Yr.” a current source deductions remittance voucher. He mentioned that he was required to advise the CRA when he would be remitting and he described how he had completed the form:
+I chose 2012-01-15. Before that date I photo copied the reverse side & CHEKED (sic) the BOX “no employees subject to deductions”…. (sic) Date you expect to have employees subject to deductions… I put 2013-10-15. With the intention of repeating the process, as there never will be any employees subject to deductions. Hope this info has also been useful to you .. (sic) Rocky.
+[58] Again, the appellant’s prior statement makes it difficult — nay I say impossible — for him to feign a lack of engagement and a lack of understanding that something very odd or amiss was going on, triggered in part by obtaining a business number from the CRA in respect of a non-existent business.
+[59] In a further email to Jennifer on February 7, 2012, the appellant wrote that last year he was told to open a business bank account, which he did on March 29, 2011. The appellant said he had been transferring funds from his personal chequing account into this account (i.e., the business bank account) and paying all his bills since then “thru this BUS .ACC…” Again, here too the appellant’s interactions suggest that the appellant knew something was awry.
+[60] But the email did not stop there. Soon after, on February 7, 2012, Jennifer wrote back and asked some questions about the status of the appellant’s pre-existing business account with the CRA. Here things are even more odd. The appellant replied on February 7, 2012:
+Hi Jen: More update. The money that was transferred from PER. CHQ. to my BUS ACC. was & is being done & recorded as a “SHAREHOLDERS LOAN”. Rocky
+[61] There is no evidence that the appellant was involved in a corporation or that he was a shareholder of a corporation that was carrying on a business. I do not see this as a lack of understanding or as a reflection of gullibility. It seems to me that the appellant knew that he was involved in making things up for tax purposes. At a minimum, this should have been a very big red flag. And these communications happened over a period of days. The appellant had ample time to reflect on what he was getting involved in, especially because he was aware that there were problems or risks arising from his prior engagement of Fiscal Arbitrators.
+[62] It bears mentioning again that I have only seen a snapshot of the appellant’s interactions with DeMara.
+(5) The tax preparer was previously unknown to the appellant [63] Fiscal Arbitrators was previously unknown to the appellant. He had learned of Fiscal Arbitrators through a so-called friend of a friend. Then when concerns arose about continuing with Fiscal Arbitrators, this same person introduced the appellant to DeMara. In the end, after having relied on Mr. Heney to prepare his income tax returns for around 15 years, the appellant looked to someone he did not personally know — Mr. Ference — and then to DeMara. This too should have raised a red flag or warning.
+(6) There were incomprehensible explanations by the tax preparer [64] The appellant was not really able to explain how the so-called DeMara “remedy” worked. He said it was somewhat like Fiscal Arbitrators, but different too. He explained that it was his understanding that people could write-off personal expenses, or at least some personal expenses on their tax return; that was the remedy DeMara had. This is incomprehensible.
+[65] And the evidence points toward a situation where the appellant was not interested in understanding or asking about how the so-called DeMara “remedy” worked. The idea that Canadians could somehow write-off personal expenses, or at least some personal expenses, to reduce their income to zero through non-existent business losses and then carry back non-capital losses to earlier taxation years to obtain refunds is the stuff of fantasy; it makes no sense.
+(7) Whether others engaged the tax preparer or warned against doing so, or did the appellant express concern about telling others [66] I find that the appellant knew something was amiss with Fiscal Arbitrators after his 2010 income tax return was filed. In that sense, since Mr. Ference had introduced the appellant to Fiscal Arbitrators, the appellant should also have known that the reliability of that advice was questionable. There was no other evidence about the appellant not wanting to discuss this with other people. The appellant did, however, downplay the possibility of discussing DeMara with Mr. Krack because he felt Mr. Krack prepared his own income tax returns.
+(8) Whether the appellant made no inquiry of the tax preparer to understand the return, or made no inquiry of a third party or the CRA [67] The appellant made no inquiries of Mr. Heney about the new path he was taking. Inquiring of Mr. Heney would have been an obvious choice considering the appellant had relied on Mr. Heney for around 15 years without problems. And the appellant did not seek any advice independent of DeMara before proceeding to have DeMara file an amended return for 2010.
+[68] The appellant emphasized his lack of sophistication, his difficulties reading due to an unfortunate condition with his vision, and his lack of interest in or access to technology. Nonetheless, the appellant had an iPad in 2012, and he seemed quite capable in communicating with DeMara by email.
+[69] Moreover, the evidence is that by June 2011 the CRA had issued a tax alert on its website regarding the uncovering of a fraudulent scheme in which taxpayers claim large losses or expenses equal to their personal expenses. The tax alert referred to the use of a business number and the use of T5008 slips to report business losses and capital losses for personal expenses. (Some T5008s for 2012 concerning the appellant were introduced in evidence.) As such, information was getting out to the tax community. The appellant could have called the CRA, or he could have called other tax professionals that were not associated with DeMara. But he did not.
+[70] Just as this Court did in Torres, I too reject the idea advanced in the appellant’s notice of appeal that the CRA had failed to warn taxpayers and that this somehow should absolve the appellant of any liability for a penalty under s. 163(2).
+V. Conclusion on wilful blindness [71] In the end, I conclude that there were sufficient warning signs that called for suspicion and the need for inquiry about the correctness of the appellant’s filing position in his income tax returns, both during his involvement with Fiscal Arbitrators and during his transition and reliance on DeMara.
+[72] I find that wilful blindness is self-evident on the evidence before me. The appellant chose to suppress any suspicions and to not make inquiries about the accuracy of his tax filings in order to avoid verifying that which might be an inconvenient truth.
+[73] In other words, I find that the appellant sought to remain ignorant about the circumstances relating to his engagement of Fiscal Arbitrators for his 2010 tax return and of DeMara for his amended return, and in the filing of his 2011 and 2012 income tax returns.
+[74] What I find particularly notable is that the appellant did not just engage a single organization that prepared tax returns for taxpayers on the basis that they had business losses from a non-existent business. Here, the appellant went from one organization — Fiscal Arbitrators — and straight into the welcoming arms of another, namely DeMara. In effect, the appellant doubled down. He had ample opportunity over a period of years to make inquiries about the legitimacy of Fiscal Arbitrators and DeMara’s so-called remedy, and to make inquiries about the accuracy of the returns that were being filed. He simply did not want to do so. He was wilfully blind and so knowledge is imputed for the purpose of s. 163(2).
+[75] In the circumstances, I conclude that the appellant is liable for penalties under s. 163(2) in the 2010, 2011, and 2012 taxation years. The appellant raised other arguments in his notice of appeal but did not advance them at trial. Thus, it is unnecessary for me to address those matters here. And since the appellant did not put the calculation of the penalties in issue, it is unnecessary for me to address that here.
+[76] The appellant’s appeals with respect to the reassessments for the 2010, 2011, and 2012 taxation years are dismissed. There will be no award of costs.
+Signed this 25th day of March 2026.
+“Perry Derksen”
+Derksen J.
+CITATION:
+2026 TCC 57
+COURT FILE NO.:
+2016-1084(IT)I
+STYLE OF CAUSE:
+WILLIAM McCUTCHEON v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+March 16, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Perry Derksen
+DATE OF JUDGMENT:
+March 25, 2026
+APPEARANCES:
+Agent for the Appellant:
+Irene Harms
+Counsel for the Respondent:
+Nikhil Pandey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada

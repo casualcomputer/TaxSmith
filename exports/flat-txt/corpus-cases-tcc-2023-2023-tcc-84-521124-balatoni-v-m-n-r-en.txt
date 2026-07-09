@@ -1,0 +1,150 @@
+Title: Balatoni v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521124/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-84-521124-balatoni-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2023-06-09
+
+# Balatoni v. M.N.R.
+
+- Citation: 2023 TCC 84
+- Decision date: 2023-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5843, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Balatoni v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-06-09
+Neutral citation
+2023 TCC 84
+File numbers
+2022-125(EI)
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2022-125(EI)
+BETWEEN:
+MARIA BALATONI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Maria Balatoni – 2022-126(CPP) on May 29, 2023, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+D’ette Bourchier
+JUDGMENT
+The appeal against the Respondent’s decision made September 15, 2021 under the Employment Insurance Act is dismissed, without costs.
+Signed at Toronto, Ontario, this 9th day of June 2023.
+“David E. Spiro”
+Spiro J.
+Docket: 2022-126(CPP)
+BETWEEN:
+MARIA BALATONI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Maria Balatoni – 2022-125(EI) on May 29, 2023, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+D’ette Bourchier
+JUDGMENT
+The appeal against the Respondent’s decision made September 15, 2021 under the Canada Pension Plan is dismissed, without costs.
+Signed at Toronto, Ontario, this 9th day of June 2023.
+“David E. Spiro”
+Spiro J.
+Citation: 2023 TCC 84
+Date: 20230609
+Dockets: 2022-125(EI)
+2022-126(CPP)
+BETWEEN:
+MARIA BALATONI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] Was a pastry chef an employee for purposes of the Employment Insurance Act and the Canada Pension Plan? The Appellant, Ms. Maria Balatoni, says no. The Respondent says yes. Ms. Balatoni appeals the Respondent’s decision that the chef was engaged in insurable employment and pensionable employment in 2018 and 2019 by Ms. Balatoni.
+[2] This set of EI/CPP appeals relates to work done by one of Ms. Balatoni’s two pastry chefs − Ms. Tarnai − in 2018 and 2019. Back in February 2023, I heard a set of EI/CPP appeals relating to work done by Ms. Balatoni’s other pastry chef, Ms. Csabai, and gave my reasons from the bench.[1] More on that later.
+Findings of Fact [3] Ms. Balatoni owned an industrial kitchen in a commercial building in Markham, Ontario, in which two pastry chefs, each working about 20 hours a week, produced and froze commercial quantities of strudel of various flavours prepared in accordance with Ms. Balatoni’s old family recipe. Ms. Balatoni’s clients were hotels and convention centres. After the strudel was produced, it was frozen and then delivered to the hotel or convention centre where it would be heated and served.
+[4] Ms. Balatoni took three to four days to train each pastry chef how to make the delicate strudel precisely in accordance with her old family recipe. The strudel was made on Ms. Balatoni’s pastry-making equipment and was frozen in her freezers.
+[5] The pastry chefs had flexible hours. Each would come in about twice a week from 7:00 a.m. to 3:00 p.m. on a typical day. If one chef was not available, Ms. Balatoni would call on the other. They were paid just under $15.00 an hour every two weeks. They were paid on the basis of hours worked.
+[6] Ms. Balatoni had her chefs produce enough strudel to satisfy two different needs. The first was custom orders from clients as they were received by Ms. Balatoni. Those orders would typically take several days to complete because the strudel had to be frozen at least 48 hours before delivery. The second was to have enough of each flavour of strudel in the freezer to fill any last-minute requests.
+[7] To maintain her inventory of frozen strudel, Ms. Balatoni, in consultation with the chefs, would decide how much strudel to produce in each flavour. It was up to the chefs to ensure that enough strudel was in the freezer at all times to fill these last-minute orders. If they needed more ingredients, the chefs would order them.
+[8] Because Ms. Balatoni rarely visited the kitchen, she considered her pastry chefs independent and, therefore, “independent contractors”. Ms. Balatoni did not have a written contract with either chef.
+The Previous EI/CPP Appeals [9] In February of 2023, I heard Ms. Balatoni’s EI/CPP appeals with respect to the work of her chef, Ms. Csabai, in 2018 and 2019. After hearing from Ms. Balatoni and Ms. Csabai, I concluded that Ms. Csabai was Ms. Balatoni’s employee during that period. Here is how I applied the law to the facts in Ms. Balatoni’s EI/CPP appeals with respect to the work of Ms. Csabai:
+. . . I conclude that Ms. Csabai was an employee of the appellant rather than an independent contractor in 2018 and 2019. Although Ms. Balatoni never thought of Ms. Csabai as a part-time employee, Ms. Csabai did think of herself as a part‑time employee. There was no common intention here, so I dispense with that consideration rather quickly, and go on to review the objective factors, as set out in Wiebe Door.
+Ms. Csabai could come and go as she pleased from the appellant's premises as long as she completed her assigned work for the day. The latter element is the key. Ms. Csabai's work was assigned to her by Ms. Balatoni; namely, to produce a certain amount of pastry of certain flavours. How she did that was not up to Ms. Csabai, because all the strudel had to be made in accordance with Ms. Balatoni's old family recipe.
+The appellant had full control over Ms. Csabai's work at all times, because each strudel made by Ms. Csabai had to be made in accordance with Ms. Balatoni's old family recipe. Ms. Balatoni provided the training to Ms. Csabai, which Ms. Csabai followed precisely. This is why Ms. Balatoni valued her work.
+In addition, the strudel had to be made on the equipment owned by the appellant in order to satisfy the orders submitted to the appellant by its customers and to restock inventory in accordance with the needs of the appellant so that it would have sufficient inventory on hand to satisfy customer demand.
+Ms. Csabai had no capital invested in the business. She did not hire her own helper or helpers, nor did she have an opportunity to profit from the business beyond her hourly wages. She had no risk of loss during the years in issue.
+Having applied the law to the facts, I conclude that Ms. Csabai was a part-time employee of the appellant during 2018 and 2019. Accordingly, the appeals will be dismissed without costs.[2]
+[10] As I had delivered my reasons for judgment from the bench in the previous EI/CPP appeals dealing with Ms. Csabai, I provided a copy of the transcript of those reasons to both parties in these appeals several days before the hearing.
+These EI/CPP Appeals [11] In 0808498 BC Ltd. v MNR, 2023 TCC 53, Justice Sommerfeldt has succinctly summarized the relevant legal test (footnotes omitted):
+[33] Although there is no universal test for determining whether a worker is an employee or an independent contractor, the “central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account.” In making such determination, the following factors should generally be considered:
+a) Does the hirer control the worker’s activities?
+b) Does the hirer provide the tools and equipment required by the worker, or is the worker required to provide his or her own tools and equipment?
+c) Does the worker hire his or her own helpers?
+d) What is the degree of financial risk taken by the worker? In other words, does the worker have a risk of loss?
+e) What is the degree of responsibility for investment and management held by the worker?
+f) Does the worker have an opportunity for profit in the performance of his or her tasks?
+There is no set formula concerning the application of the above factors, which is a non-exhaustive list.
+[12] Based on the evidence in this set of EI/CPP appeals, I arrive at the following conclusions:
+a) Ms. Balatoni controlled Ms. Tarnai’s activities − Ms. Tarnai was able to make strudel only in accordance with Ms. Balatoni’s recipe.
+b) Ms. Balatoni provided all of the tools and equipment required by Ms. Tarnai – Ms. Tarnai was not required to provide any of her own tools and equipment.
+c) Ms. Tarnai could not hire her own helpers – if one chef was unavailable, Ms. Balatoni would call on the other.
+d) Ms. Tarnai had no risk of loss.
+e) Ms. Tarnai had no responsibility for investment and only a modest degree of responsibility for management (i.e., inventory management).
+f) Ms. Tarnai had no opportunity for profit in the performance of her tasks.
+[13] Based on the evidence I heard from Ms. Balatoni and Ms. Tarnai in this set of EI/CPP appeals, I have arrived at the same findings of fact as I did with respect to the work of Ms. Csabai. There is no material distinction between the work done by either chef for Ms. Balatoni in 2018 and 2019.[3] Applying the law to the facts, Ms. Tarnai was an employee of Ms. Balatoni for purposes of the Employment Insurance Act and the Canada Pension Plan.
+[14] The appeals will be dismissed, without costs.
+Signed at Toronto, Ontario, this 9th day of June 2023.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2023 TCC 84
+COURT FILE NO.:
+2022-125(EI) AND 2022-126(CPP)
+STYLE OF CAUSE:
+MARIA BALATONI AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 29, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+June 9, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+D’ette Bourchier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Maria Balatoni o/a Strudelicious by A&M Catering Service v The Minister of National Revenue, 2021-789(CPP) and 2021-790(EI) (unreported).
+[2] Transcript of Oral Decision and Reasons in Maria Balatoni o/a Strudelicious by A&M Catering Service v The Minister of National Revenue, 2021-789(CPP) and 2021-790(EI), February 23, 2023, page 5, line 27 to page 7, line 8.
+[3] Ms. Balatoni argued that Ms. Csabai’s case is distinguishable from Ms. Tarnai’s because Ms. Tarnai subsequently became an employee of a store owned by Ms. Balatoni starting January 1, 2020. Ms. Balatoni was attempting to draw a sharp distinction between Ms. Tarnai’s post‑2019 status as an employee and her pre-2020 status as an independent contractor. This argument has no merit as I am only concerned with Ms. Tarnai’s work in Ms. Balatoni’s kitchen in 2018 and 2019.

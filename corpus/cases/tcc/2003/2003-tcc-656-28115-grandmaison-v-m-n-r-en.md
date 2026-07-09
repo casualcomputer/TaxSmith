@@ -1,0 +1,200 @@
+---
+title: "Grandmaison v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28115/index.do"
+last_modified: "2003-10-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 656"
+citation2: ""
+neutral_citation: "2003 TCC 656"
+decision_date: "2003-10-07"
+language: "en"
+item_id: "28115"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1635
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:39:15.887000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2e7ad9708de287316d336e866bfbf89c0700e5fa663d8b40033fc6c98061cc86"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grandmaison v. M.N.R.
+
+- Citation: 2003 TCC 656
+- Decision date: 2003-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1635, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grandmaison v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-07
+Neutral citation
+2003 TCC 656
+File numbers
+2002-3005(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3005(EI)
+BETWEEN:
+LISE GRANDMAISON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 27, 2003, at Trois‑Rivières, Quebec
+Before: The Honourable Deputy Judge J. F. Somers
+Appearances:
+Counsel for the Appellant:
+Jacques Patry
+Counsel for the Respondent:
+Sébastien Gagné
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister's decision is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 26th day of April 2004.
+Sharlene Cooper, Translator
+Citation: 2003TCC656
+Date: 20031007
+Docket: 2002‑3005(EI)
+BETWEEN:
+LISE GRANDMAISON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Reasons for Judgment
+Somers, D.J.T.C.C.
+[1] This appeal was heard at Trois‑Rivières, Quebec, on August 27, 2003.
+[2] The Appellant is appealing from the decision of the Minister of National Revenue (the "Minister") that her employment with Michel Grandmaison, the Payor, during the periods at issue, namely from June 2, 1997 to May 30, 1998, from January 1, 1998 to June 18, 1999, and from January 1, 2000 to June 29, 2001, is excluded from insurable employment within the meaning of the Employment Insurance Act (the "Act"), because the Appellant and the Payor were not dealing with each other at arm's length.
+[3] Subsection 5(1) of the Act reads in part as follows:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[4] Subsections 5(2) and (3) of the Employment Insurance Act read in part as follows:
+(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+. . .
+[5] Section 251 of the Income Tax Act reads in part as follows:
+Section 251: Arm's length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length; and
+. . .
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or adoption;
+. . .
+[6] The burden of proof is on the Appellant. She must prove, on a balance of probabilities, that the Minister's decision is ill‑founded in fact and in law. Each case stands on its own merits.
+[7] In rendering his decision, the Minister relied on the following presumptions of fact, which the Appellant admitted or denied:
+[translation]
+(a) The Payor operated a business under the name "Épicerie Boucherie Michel Grandmaison Enr." (admitted)
+(b) The Payor was the sole owner of the business, which included a grocery store, butcher's shop, hardware store, postal outlet and pastry counter. (admitted)
+(c) The Payor operated his business year round and was busier during the summer season. (admitted)
+(d) The Payor's turnover varied between $550,000 and $600,000 per year. (admitted)
+(e) The business is open seven days a week, from 8:00 a.m. to 9:00 p.m., Monday to Saturday, and from 8:00 a.m. to 6 p.m. on Sunday. (admitted)
+(f) The Appellant is the Payor's spouse; she has worked for the Payor for approximately ten years. (admitted)
+(g) The Payor worked in his business. In addition, he hired the Appellant, a full‑time butcher and another part‑time employee (cashier). (admitted)
+(h) The Appellant mainly worked as a pastry cook; she made cakes and pies on‑site. In addition, she worked at the cash desk and at the postal outlet. (admitted)
+(i) The Appellant claimed that she worked 32 hours per week in 1997 and 1998, and 40 hours per week thereafter; however, the Payor did not record her hours. (denied)
+(j) The Appellant received a fixed weekly salary of $256 in 1997 and 1998, and $320 thereafter; she was paid each week by direct deposit. (admitted)
+(k) In May 1998, June 1999 and June 2001, the Appellant stopped working for the Payor due to illness. (admitted)
+(l) In 1998, the Payor's highest profits were recorded in June and July when the Appellant was on sick leave. (admitted)
+(m) In 1999, the Payor's highest profits were recorded in June and July; whereas, the Appellant stopped working on June 19. (admitted)
+(n) In 2001, the Payor's highest profits were recorded in May and July; whereas, the Appellant stopped working on June 20. (admitted)
+(o) The Payor never hired anyone to replace the Appellant during the periods in which she was not working, even during the business's busiest months. (denied)
+(p) The Appellant's work was not essential to the operations of the Payor, who did not replace her during her numerous absences. (denied)
+[8] The Payor has operated a business under the name "Épicerie Boucherie Michel Grandmaison Enr." since 1987.
+[9] The Payor was the sole owner of the business, which included a grocery store, butcher's shop, hardware store, postal outlet and pastry counter.
+[10] The business was operated year round and it was busiest during the summer season; its turnover varied between $550,000 and $600,000 per year.
+[11] The business was open seven days a week, from 8:00 a.m. to 9:00 p.m., Monday to Saturday, and from 8:00 a.m. to 6 p.m. on Sunday.
+[12] The Appellant is the Payor's spouse; she has worked for the Payor for approximately ten years.
+[13] The Payor worked in his business. In addition, he hired the Appellant, a full‑time butcher and a part‑time cashier.
+[14] The Appellant mainly worked as a pastry cook; she made cakes and pies on‑site. In addition, she worked at the cash desk and at the postal outlet.
+[15] The employees worked 32 to 40 hours per week. When testifying at the hearing of this appeal, Guy St‑Onge, the Payor's accountant, stated that the Payor provided him with the hours worked by the employees, over the telephone, and that he prepared their pay accordingly.
+[16] The Appellant received a fixed weekly salary of $256 in 1997 and 1998, and $320 thereafter; she was paid by direct deposit.
+[17] In May 1998, June 1999 and June 2001, the Appellant stopped working for the Payor due to illness.
+[18] The Payor testified that the Appellant was on sick leave from May 31, 1998 to October 18, 1998, from June 20, 1999 to October 17, 1999, and from July 1, 2000 to the end of August 2001. She was not absent from work in 2000. The Appellant was not replaced during her sick leave; however, the Payor's father and son worked for the business during the Appellant's absences and the Payor worked a greater number of hours per day. In addition, the Payor had an employee who worked evenings from 6 p.m. to 9 p.m.
+[19] The Payor acknowledged that the business was busier during the summer, because it sold more beer and less pastry.
+[20] The accountant filed a balance sheet (Exhibit A‑1) showing the turnover for April, May, June and July for 1998, 1999 and 2001. The accountant acknowledged that the business was busier during the summer, mainly due to the sale of beer.
+[21] The Appellant testified that she has worked for the Payor since 1987. Her work schedule was from 9:00 a.m. to 6:00 p.m. or from 8:00 a.m. to 5:00 p.m.
+[22] The Appellant testified that she has diabetes and that she takes medication every day. As Exhibit A‑2, she filed a medical certificate dated July 7, 1999, which stated that she had to take extended medical leave until September 8, 1999.
+[23] Jacinthe Bélanger, an appeals officer, testified at the hearing of this appeal. As Exhibit I‑2, she filed her appeal report dated April 18, 2002.
+[24] In addition, she filed the business's balance sheet for the periods at issue (Exhibit I‑1), and she filed other documents, as Exhibits I­‑3 and I‑4, as well as an audit table, (Exhibit I‑5), showing the weeks and hours that the employees worked for the business.
+[25] The highlights of the officer's report, which were obtained from Michel Grandmaison, include:
+[translation]
+The Payor's turnover varies between $550,000 and $600,000. There has been no variation in recent years.
+. . .
+The Payor works at the business. In addition to Lise Grandmaison, he employs two other individuals. During the day, there are always two people working at the same time.
+Lise Grandmaison works as a pastry cook, preparing dishes on‑site. She also works at the cash desk and at the postal outlet. She has worked for the Payor for approximately ten years and she has always carried out very similar duties. She works 40 hours per week, Monday to Friday, from 9:00 a.m. to 6 p.m. Her salary is $8 per hour.
+Guy Normandin has been employed as a butcher for seven or eight years. He is only responsible for meat. He works 40 hours per week, from 9:00 a.m. to 6:00 p.m., Tuesday to Saturday. His salary is $10 per hour. He is currently on sick leave, and the Payor is replacing him.
+Cristal Bédard has been employed part‑time for approximately two years. She is only responsible for the cash desk. She works Tuesday, Wednesday, Thursday and Saturday evenings and she works on Sunday during the day. She receives minimum wage. She works 20 hours per week.
+Michel Grandmaison is involved in all of the duties associated with the business. He is a butcher, he stocks shelves and he is responsible for maintaining the store. He always opens and closes the store.
+. . .
+The worker has diabetes; at times she has work stoppages. During these work stoppages, she no longer provides any services to the Payor, and the other workers do not work any extra hours during these periods. The Payor stated that it "was not worth training someone for 15 weeks." Thus, he performed the worker's duties. He was responsible for the prepared foods, which he sometimes purchased elsewhere.
+The Payor's father goes to the store every day to help out. He is 77 years of age and he is staying approximately half a kilometre from the business. He stocks shelves and he works at the cash desk.
+[26] During a telephone conversation with the appeals officer, on March 22, 2002, the Appellant corroborated the facts stated by the Payor.
+[27] In addition, she told the appeals officer, among other things, that she rarely worked with the Payor's father. When she worked, there were always at least two people working with her, namely the butcher and Michel Grandmaison, the Payor.
+[28] Facts were obtained from Cristal Bédard, a former employee of the Payor:
+[translation]
+Cristal Bédard worked for the Payor for just over a year. She worked 17 hours per week. She worked on Tuesday, Wednesday and Saturday from 6 p.m. to 9 p.m., and she worked on Sunday from 9 a.m. to 6 p.m. Her schedule was always the same.
+. . .
+When Cristal Bédard arrived at work at 6 p.m., Michel Grandmaison was at the store. Furthermore, he returned at 9 p.m. to close the store.
+Cristal Bédard had already crossed paths with Lise Grandmaison during the day, but not at 6 p.m.
+Cristal Bédard never worked with the Payor's sons or with Guy Normandin. Only Gérard Grandmaison came to the store regularly. He did some cleaning and he stocked shelves. He did not stay at the store alone.
+[29] The audit table, filed as Exhibit I‑5, shows that the Appellant was absent from the grocery store for 21 weeks in 1998, 18 weeks in 1999 and nine weeks in 2001.
+[30] The burden of proof was on the Appellant. However, the Appellant's evidence could have been more complete.
+[31] In Ferme Émile Richard et Fils Inc. and the Minister of National Revenue, [1994] F.C.J. No. 1859, the Federal Court of Appeal indicated that in a case involving the application of subparagraph 3(2)(c)(ii) of the Unemployment Insurance Act, now paragraph 5(3)(b) of the Employment Insurance Act, the Court must consider whether the Minister's decision "resulted from the proper exercise of his discretionary authority." The Court must first require the Appellant to "present evidence of wilful or arbitrary conduct by the Minister."
+[32] In rebuttal, the Payor testified that the Appellant's main duty was to make pastry. However, due to the Appellant's absences, this counter was less busy; thus, he purchased pastry for resale.
+[33] The Appellant could have provided more information from her physician concerning her health. However, it must be acknowledged that the Appellant had a health problem that could render her unable to work. Given her state of health, the Appellant's absences from work do not seem to be abusive. According to table I‑5, the Appellant was not absent from work in 2000.
+[34] The Appellant could have had the Payor's father testify with regard to the terms and conditions of employment. As the former owner of the business, the father could have provided more information to the Court.
+[35] However, in the opinion of the Court, the testimony given by the Payor and the Appellant is credible.
+[36] It must be determined whether the Appellant's work was essential to the operations of the business.
+[37] The Appellant has worked at the family grocery store since the Payor purchased it in 1987; prior to this date, Michel Grandmaison's father owned the business. It is acknowledged that the turnover varied between $550,000.00 and $600,000.00 per year. In light of this high turnover, it is reasonable to conclude that the Appellant's work was essential to the efficient operation of the business.
+[38] The evidence showed that the Appellant's absences from work, for medical reasons, were not abusive. Furthermore, she was not absent from work in 2000.
+[39] In rendering his decision, the Minister relied on the fact that the Appellant was absent from work during the busiest times of the year.
+[40] The Payor stated that the Appellant was responsible for the pastry counter, in addition to the other duties she performed. During the Appellant's absences, the Payor purchased pastry for resale; that does not mean that the Appellant's work was not useful to the grocery store's needs.
+[41] As the former owner of the business, the Payor's father was the ideal person to replace the Appellant. He could work at the cash desk and he could perform other duties that the Appellant usually carried out; this is a plausible explanation.
+[42] The Payor explained that the proceeds from beer sales increased the store's revenues. The Payor worked extra hours to compensate for the Appellant's absences. His father and his son assisted him. This explanation is reasonable.
+[43] If the Minister had considered all of the facts in evidence, his decision would have been different.
+[44] Having regard to all of the circumstances, the Appellant proved, on a balance of probabilities, that the conditions of employment would have been similar if the Appellant and the Payor had been dealing with each other at arm's length.
+[45] The Appellant's employment during the periods at issue is insurable under paragraph 5(2)(i) and subsection 5(3) of the Act.
+[46] The Appeal is allowed and the Minister's decision is vacated.
+Signed at Ottawa, Canada, this 7th day of October 2003.
+"J. F. Somers"
+Somers, D.J.
+Translation certified true
+on this 26th day of April 2004.
+Sharlene Cooper, Translator

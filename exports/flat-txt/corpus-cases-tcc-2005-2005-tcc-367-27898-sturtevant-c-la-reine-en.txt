@@ -1,0 +1,861 @@
+Title: Sturtevant c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27898/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-367-27898-sturtevant-c-la-reine-en.md
+Document type: case_law
+Last modified: 2005-08-16
+
+# Sturtevant c. La Reine
+
+- Citation: 2005 TCC 367
+- Decision date: 2005-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1746, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sturtevant c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-16
+Neutral citation
+2005 TCC 367
+File numbers
+2002-169(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-169(IT)G
+BETWEEN:
+LLOYD STURTEVANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 21, 2005, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Robert Jodoin
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1996, 1997 and 1999 taxation years is allowed in part and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, the whole in accordance with the attached Reasons for Judgment.
+The Respondent shall be entitled to 80% of her costs.
+Signed at Edmundston, New Brunswick, this 16th day of August, 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of March, 2006.
+Garth McLeod, Translator
+Citation: 2005TCC367
+Date: 20050816
+Docket: 2002-169(IT)G
+BETWEEN:
+LLOYD STURTEVANT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing from assessments dated May 25, 2001, which pertain to him and are in respect of the 1996, 1997 and 1999 taxation years. The assessments were made using the net worth method. The sum of $157,862 was added to the Appellant's income in the 1999 taxation year, $17,338 was added for 1997 and $14,101 was added for 1996. Penalties were added to these amounts, and the Appellant is also contesting them.
+[2] In his Notice of Appeal, the Appellant raised a constitutional question that he dropped at the beginning of the trial. Thus, he is contesting the Respondent's calculations and he submits that the assessments for the 1996 and 1997 taxation years are statue‑barred. The parties have agreed that these are Class B proceedings under the terms of paragraph 1(b)(i) of Tariff A of the Tax Court of Canada Rules (General Procedure).
+[3] In summary, then, the issue is whether the Appellant was required to include in his income the amounts of $14,401 in 1996, $17,338 in 1997, and $157,862 in 1999. If so, are the penalties warranted? We must also determine whether the assessments for the years 1996 and 1997 are statute‑barred.
+[4] At the beginning of the hearing, the parties also agreed that the differences between their respective calculations of the Appellant's net worth were limited to two points: the sale of equipment by the Appellant at an auction in 1999, and the Appellant's inheritance from his mother's estate. Both points would reduce the difference if the Court accepted the Appellant's position. It is therefore appropriate to reproduce the auditor's calculations and the summary opening net worth statement.
+CALCULATION OF DIFFERENCE IN NET WORTH
+Lloyd Sturtevant
+Coulombe Hope
+1999
+1998
+1997
+1996
+NET WORTH
+End
+$550,876
+$379,934
+$316,352
+$283,098
+Beginning
+$379,934
+$316,352
+$283,098
+$251,822
+Increase in net worth
+$170,942
+$63,582
+$33,254
+$31,276
+ADD
+Personal expenses
+$10,000
+$10,000
+$10,000
+$10,000
+Federal income tax
+$5,251
+Estimated provincial income tax
+$5,000
+Quebec pension plan
+$1,504
+TOTAL APPARENT REVENUE
+$192,697
+$73,582
+$43,254
+$41,276
+DEDUCT
+1999
+1998
+1997
+1996
+Declared income of Hope Coulombe
+$606
+$2,951
+$1,250
+$863
+Declared income of Lloyd Sturtevant
+$18,479
+$52,246
+$29,666
+$29,761
+Capital dividend
+$23,193
+Non-taxable capital gain
+(land, equipment)
+$4,750
+Non-taxable capital gain
+(residence)
+$11,000
+Less dividend gross-up
+0
+-$4,327
+-$4,750
+-$3,277
+Less dividend gross-up
+0
+-$481
+-$250
+-$172
+Total declared income
+$34,835
+$73,582
+$25,916
+$27,175
+DIFFERENCE IN NET WORTH
+$189,301
+$157,862
+0
+$17,338
+$14,101
+CONDENSED STATEMENT
+CURRENT ASSETS
+1999
+1998
+1997
+1996
+1995
+Cash
+$100
+$8,128
+$100
+$100
+$100
+Caisse populaire
+$3,409
+$16,899
+$7,493
+$6,742
+$1,824
+CIBC
+$646
+0
+0
+0
+0
+Caisse populaire (unit)
+$21,168
+INVESTMENTS
+Class A shares
+0
+0
+$100
+$100
+$100
+Class B shares
+0
+0
+$100
+$100
+$100
+Class C shares
+0
+0
+$33,625
+$33,625
+$33,625
+Mortgage receivable
+$131,553
+$143,705
+0
+0
+0
+Advance to Bord du Lac Inc.
+$74,116
+$81,131
+$76,400
+Optional livestock change
+$22,500
+$29,500
+$22,500
+$22,500
+NON-CURRENT ASSETS
+Residence
+$78,000
+$69,000
+$69,000
+$69,000
+$69,000
+Farm buildings
+$21,430
+$21,430
+$21,430
+$21,430
+Land
+$90,000
+$90,000
+$90,000
+$90,000
+Buildings
+$100,000
+Land
+$200,000
+Pick-up
+$20,000
+$20,000
+$20,000
+$20,000
+$10,000
+Accumulated depreciation
+-$14,000
+-$11,500
+-$8,000
+-$3,000
+Jimmy truck
+$10,000
+$10,000
+$10,000
+$5,000
+$5,000
+Farm equipment
+Class 8
+0
+$7,547
+$9,433
+$8,416
+$10,520
+Class 8
+0
+$3,300
+Class 10
+0
+$6,256
+$7,820
+Class 10
+0
+$3,944
+$4,930
+Class 10
+$1,500
+TOTAL
+$550,876
+$412,709
+$369,647
+$355,144
+$340,599
+LIABILITIES
+1999
+1998
+1997
+1996
+1995
+Current
+Non-current
+Caisse populaire
+0
+$379,934
+$316,352
+$283,098
+$251,822
+TOTAL LIABILITIES
+0
+$379,934
+$316,352
+$283,098
+$251,822
+NET VALUE
+$550,876
+$379,934
+$316,352
+$283,098
+$251,822
+[5] The Appellant retained the services of an accounting expert, and the expert used information obtained under the Access to Information Act to calculate the difference in net worth using the net worth method. Thus, the Appellant's accountant essentially used the same information as the Respondent's auditor. The differences established by the accountant's calculations for the years 1996 and 1997 were similar to the differences found by the auditor, but the accountant's differences for 1999 were substantially smaller. The accountant attributes this reduction to the fact that in calculating the Appellant's assets and liabilities at 1995 year end, the Respondent's auditor did not take account of the capital cost of depreciable property sold at an auction on April 24, 1999 (specifically $92,584) or the $50,000 that the Appellant received from his mother's estate. Thus, I will also reproduce the accountant's net worth calculations with these changes. In addition, I will reproduce the accountant's opening net worth calculation, along with the accompanying notes, including note 3, which explains the value of the equipment acquired before 1995.
+(The Reasons for Judgment continue on page 9.)
+RECONCILIATION OF THE NET WORTH STATEMENT
+FOR THE PERIOD FROM JANUARY 1, 1996, TO DECEMBER 31, 1999
+1999
+1998
+1997
+1996
+Net value at the end
+$550,876.00
+$522,518.00
+$458,936.00
+$400,682.00
+Net value in the beginning
+$522,518.00
+$458,936.00
+$400,682.00
+$344,406.00
+Increase in net value
+$28,358.00
+$63,582.00
+$58,254.00
+$56,276.00
+ADD
+Personal expenses
+$10,000.00
+$10,000.00
+$10,000.00
+$10,000.00
+Federal income tax
+$5,251.00
+Provincial income tax
+$5,000.00
+Quebec pension plan
+$1,504.00
+$21,755.00
+$10,000.00
+$10,000.00
+$10,000.00
+Total increase
+$50,113.00
+$73,582.00
+$68,254.00
+$66,276.00
+DEDUCT
+Taxable sources
+Total declared income of Hope Coulombe
+$606.00
+$2,951.00
+$1,250.00
+$863.00
+Total declared income of Lloyd Stutervant
+$18,479.00
+$52,246.00
+$29,666.00
+$29,790.00
+Taxable dividend gross-up
+Taxable dividend gross-up of Hope Coulombe
+-$481.00
+-$250.00
+-$3,277.00
+Taxable dividend gross-up of Lloyd Sturtervant
+-$4,327.00
+-$4,750.00
+-$172.00
+$19,085.00
+$50,389.00
+$25,916.00
+$27,204.00
+Non-taxable sources
+Capital dividend
+$23,193.00
+Exempt capital gain from the residence
+$11,000.00
+Non-taxable portion of capital gain
+$4,750.00
+Inheritance from his mother
+$25,000.00
+$25,000.00
+$15,750.00
+$23,193.00
+$25,000.00
+$25,000.00
+Total reductions
+$34,835.00
+$73,582.00
+$50,916.00
+$52,204.00
+Actual unexplained difference in net worth
+$15,278.00
+0.00
+$17,338.00
+$14,072.00
+Elements not considered by CRA
+Capital cost of depreciable property disposed of at the auction of April 24, 1999 (Appendix attached)
+$92,584.00
+Inheritance from his mother, the documents for which are difficult to obtain
+$50,000.00
+$142,584.00
+0.00
+0.00
+0.00
+Difference in net worth calculated by CRA
+$157,862.00
+0.00
+$17,338.00
+$14,072.00
+In summary, CRA taxes the property that was acquired before the period and disposed of during the period as well as the inheritance from his mother.
+LLOYD STUTERVANT
+STATEMENT OF NET WORTH
+AS AT DECEMBER 31, 1995, 1996, 1997, 1998 AND 1999
+Notes
+1995
+1996
+1997
+1998
+1999
+ASSETS
+CURRENT
+Cash
+1
+1,924.00
+31,842.00
+57,593.00
+75,027.00
+25,323.00
+Inventory of animals
+22,500.00
+22,500.00
+29,500.00
+22,500.00
+24,424.00
+54,342.00
+87,093.00
+97,527.00
+25,323.00
+INVESTMENTS
+Shares of private company controlled by Canadians
+2
+33,825.00
+33,825.00
+33,825.00
+0.00
+0.00
+Advances
+2
+76,400.00
+81,131.00
+74,116.00
+0.00
+0.00
+110,225.00
+114,956.00
+107,941.00
+0.00
+0.00
+Mortgage receivable
+143,705.00
+131,553.00
+NON-CURRENT ASSETS
+IMMOVABLES
+Residence
+3
+69,000.00
+69,000.00
+69,000.00
+69,000.00
+78,000.00
+Farm and land
+3
+204,014.00
+204,014.00
+204,014.00
+204,014.00
+300,000.00
+MOVABLES
+Equipment
+3
+10,520.00
+8,416.00
+22,183.00
+22,547.00
+0.00
+Automotive equipment
+3
+15,000.00
+22,000.00
+22,000.00
+18,500.00
+16,000.00
+298,534.00
+303,430.00
+317,197.00
+314,061.00
+394,000.00
+433,183.00
+472,728.00
+512,231.00
+555,293.00
+550,876.00
+LIABILITIES
+NON-CURRENT
+0.00
+0.00
+0.00
+0.00
+0.00
+LONG-TERM DEBT
+Mortgage payable
+88,777.00
+72,046.00
+53,295.00
+32,775.00
+0.00
+88,777.00
+72,046.00
+53,295.00
+32,775.00
+0.00
+NET VALUE
+344,406.00
+400,682.00
+458,936.00
+522,518.00
+550,876.00
+433,183.00
+472,728.00
+512,231.00
+555,293.00
+550,876.00
+(The Reasons for Judgment continue on page 9.)
+LLOYD STUTERVANT
+STATEMENT OF NET WORTH
+AS AT DECEMBER 31, 1995, 1996, 1997, 1998 AND 1999
+NOTES
+1995
+1996
+1997
+1998
+1999
+1 CASH
+Cash on hand
+100.00
+25,100.00
+50,100.00
+58,128.00
+100.00
+Caisse populaire Folio 3105
+1,824.00
+6,742.00
+7,493.00
+16,899.00
+3,409.00
+Caisse populaire
+21,168.00
+CIBC
+0.00
+646.00
+1,924.00
+31,842.00
+57,593.00
+75,027.00
+25,323.00
+The increase in cash on hand, during 1997 and 1998, is a result of the inheritance from his mother who died on September 17, 1992. The estate was administered and wound up by his sister. Unfortunately, relations between the taxpayer and his sister are non-existent. That is why the documents are not available.
+That inheritance was used to acquire his residence at 698 rue Bondville, Lac Brome.
+2 INVESTMENTS
+Développement Bord du Lac
+Class A shares
+100.00
+100.00
+100.00
+0.00
+0.00
+Class B shares
+100.00
+100.00
+100.00
+0.00
+0.00
+Class C shares
+33,625.00
+33,625.00
+33,625.00
+0.00
+0.00
+Subtotal of shares
+33,825.00
+33,825.00
+33,825.00
+0.00
+0.00
+Advances
+76,400.00
+81,131.00
+74,116.00
+0.00
+0.00
+Total investments
+110,225.00
+114,958.00
+107,941.00
+0.00
+0.00
+3 NON-CURRENT ASSETS
+Residence 870 rang 6 L’Avenir
+69,000.00
+69,000.00
+69,000.00
+69,000.00
+0.00
+Residence 698 chemin Bondville, Lac Brome
+78,000.00
+69,000.00
+69,000.00
+69,000.00
+69,000.00
+78,000.00
+IMMOVABLES
+Farm
+21,430.00
+21,430.00
+21,430.00
+21,430.00
+Buildings
+90,000.00
+90,000.00
+90,000.00
+90,000.00
+Equipment acquired before 1995 (Appendix A)
+92,584.00
+92,584.00
+92,584.00
+92,584.00
+Land 698 rue Bondville, Lac Brome
+200,000.00
+Buildings
+100,000.00
+Total immovable non-current assets
+204,014.00
+204,014.00
+204,014.00
+204,014.00
+300,000.00
+MOVABLES
+Class 8 equipment
+10,520.00
+8,416.00
+9,433.00
+7,547.00
+Class 8a equipment
+0.00
+3,300.00
+Class 10 equipment
+7,820.00
+6,258.00
+Class 10a equipment
+4,930.00
+3,944.00
+Class 10b equipment
+0.00
+1,500.00
+Total movable non-current assets
+10,520.00
+8,416.00
+22,183.00
+22,547.00
+0.00
+214,534.00
+212,430.00
+226,197.00
+226,561.00
+300,000.00
+Rolling stockt
+10,000.00
+20,000.00
+20,000.00
+20,000.00
+20,000.00
+Accumulated depreciation
+0.00
+3,000.00
+8,000.00
+11,500.00
+14,000.00
+Net value
+10,000.00
+17,000.00
+12,000.00
+8,500.00
+6,000.00
+Jimmy rolling stock
+5,000.00
+5,000.00
+10,000.00
+10,000.00
+10,000.00
+Total rolling stock
+15,000.00
+22,000.00
+22,000.00
+18,500.00
+16,000.00
+The equipment acquired before 1995 was disposed of and was held without interruption until the auction of April 24, 1999. Consequently, it is undeniable that the taxpayer had it at the time of the disposal.
+[6] When the instant proceedings resumed, the Appellant's expert changed his calculation of the Appellant's net worth by adding $27,000 to his assets to take account of the sale of the contents of his mother's residence, and of the car that she owned at her death, and another $22,500 from the sale of livestock (Exhibit A‑11). However, it is my opinion that the expert had already taken account of this item in the calculations reproduced above. These new calculations therefore reduced the difference to $7,322 in 1996, $12,338 in 1997 and $28 in 1999.
+[7] This entire matter began when the Appellant acquired real property on Brome Lake, where his home and an old school where his mother had taught were located. He purchased this property intending to convert it into an inn, which he managed to do once a zoning problem was resolved. The Appellant spent $375,000 in cash to make this purchase. Part of the purchase price was taken from the net proceeds of the sale of his farm. Another part was from the auction sale of his equipment for the gross amount of $102,298.73, and the last part came from what he inherited from his mother. The fact that the income from the sale of the equipment was not reported in 1999, and the fact that the proceeds of this sale were deposited into a new bank account, opened in the Appellant's wife's name, prompted the auditor to calculate the Appellant's income using the net worth method. It appears that all of the Appellant's relevant documentation regarding his business and his income, purchases, sales and other matters was lost after the theft of a trailer in which all his documents had been stored for the purposes of a move.
+[8] The Appellant is now an innkeeper. He has an 11th grade education, which he got through a correspondence course. He began working as a self-employed lumberjack in 1985. At the time, he bought chainsaws, wagons, a truck for hauling timber, a pickup truck, and repair tools. As the years went on, he traded in and purchased other equipment. In 1989, he incorporated a business named Développement Bord du Lac Inc. ("the Company"). The Company's principal activities were excavating and landscaping. It also sold topsoil. In 1990, the Company had a convenience store, canteen and gas bar built, and proceeded to operate it until 1993, when it sold them all. The Company granted the purchaser a loan for part of the purchase price and continued to do excavation work until 1995. According to the Appellant, the Company owned a crawler tractor, three four-wheel tractors, two ten-wheel trucks and a pickup truck at the time.
+[9] In 1995, the Appellant purchased a farm for $185,000. He paid part of the price by selling his house and a parcel of land. He got the rest of the funds from a $90,000 mortgage on the farm. He traded in the Company's equipment for farm equipment. There was already a lot of equipment on the farm, notably for sugar maple production. The farm had a building for dairy cows which was 200 feet long, as well as a sugar shack, an old loft barn and a farmhouse.
+[10] Having bought the farm, the Appellant raised livestock from 1995 to 1999. He had to sell everything in 1999 when he was diagnosed with rheumatoid arthritis. This was when he bought the inn. Before obtaining the appropriate zoning permissions to operate the inn, he drew income from the mortgage on the convenience store (which the Company assigned to him when it dissolved) and from boat rentals and a service that offered boat excursions on the lake.
+[11] The Appellant and his wife live very frugally. They still own the same motor vehicles that they owned in 1994 and 1995. They meet their needs and do not travel. The Appellant said that he paid for the inn using the proceeds from the sale of the farm and equipment as well as the money that he inherited from his mother. He said that his trailer and its contents were stolen during the move to the inn and that all his relevant income‑tax related documentation was in the trailer. The Quebec provincial police did confirm that the Appellant reported the theft of his trailer on June 10, 1999.
+[12] The Appellant's mother died in 1992. She spent the last three years of her life with the Appellant and his wife. According to the Appellant, his mother owned a residence and its contents as well as a car and investments when she died. Under an agreement with his brothers and sisters, he was given the car and the contents of the residence. In 1993, the Appellant sold the car for $6,000 and the contents of the residence for $20,000. The Appellant claims to have kept the money at home until he bought the inn in 1999.
+[13] The Appellant testified that, in 1996 or 1997, he received cheques totalling approximately $50,000, which is 25% of the value of his mother's estate. The first cheque was for approximately $44,000, and the second was for roughly $4,000. The cheques were supposedly cashed, and the funds placed in a safety deposit box until the inn was purchased. The Appellant tried to trace the cheques and obtain some kind of confirmation from the bank or his family but was unsuccessful. He explained that he is not on good terms with his sister, who was the testamentary executor.
+[14] In cross-examination, the Appellant acknowledged that when he met with the auditor, he did not tell him about the money that he had received from the sale of the car and the contents of his mother's residence. In fact, this information was only disclosed on the day before the hearing, which was somewhat surprising to everyone. He explained this omission by saying that, as far as he was concerned, this money was not part of his share of his mother's estate; rather, it was his share of an arrangement with the other heirs, and he did not see how it could be relevant. He said that he does not understand what net worth means. With regard to his share of the estate, he said that he showed the auditor the safety deposit box and the elastic bands that were used to keep the money inside in bundles.
+[15] The Appellant's mother's will, and the application for a certificate authorizing the distribution of property from the estate, were tendered in evidence. The will confirms that the children are to share equally in the estate, and the application states that the net value of the estate, at December 1, 1992, was $114,773.65. The estate consisted of $49,683.12 in investments, a $45,890.53 pension (RRSP) and the residence, which was worth $19,200. No liabilities were indicated for administration costs, funeral costs or taxes due. The same residence was sold in September 1993 for $37,418.56 (see Exhibit A‑6) including readjustments. On November 1, 1993, the Canadian Imperial Bank of Commerce (CIBC) issued a certificate of deposit in the amount of $84,695.91 to the estate. The certificate of deposit was to mature on November 1, 1994. Documents issued by the CIBC indicate a deposit of $80,873 into the estate's account on March 8, 1994. The Appellant was unable to explain the nature of these last two transactions.
+[16] When the hearing of this matter resumed, the Appellant's expert opined that he inherited at least $31,428.51. He came to this conclusion based on the information contained in the certificate of distribution, except that he used the true proceeds of disposition of the residence, namely $37,418.56, and added investment interest from the CIBC and $2,527.74 in life insurance, but did not, however, subtract administration costs and funeral costs, and did not verify whether taxes were payable on the RRSPs.
+[17] The first issue, as agreed between the parties, involves the sale by auction of the equipment on April 28, 1999. The Appellant, through his expert, submits that the auditor's opening net worth statement should include the Appellant's equipment at a capital cost of $92,583. The expert further submits that the Appellant owned this equipment in 1995. In this regard, he provides purchase dates based on certain invoices that he was able to locate, and on information provided by the Appellant. The assets in question are listed in Appendix G of Exhibit A‑1 as follows:
+(The Reasons for Judgment continue on page 13.)
+LLOYD STUTERVANT
+EQUIPMENT
+DATE
+Description
+Serial #
+Number
+Unit
+Total
+21-09-94
+12 foot tambutone gates
+2
+225.00
+450.00
+Tempstone
+5
+85.00
+425.00
+Gate 12 foot
+11
+150.00
+1,650.00
+Gate 12 foot
+185.00
+05-02-90
+1 case 880 excavation
+6201166
+1
+13,000.00
+13,000.00
+1 case bull 450
+3044491
+1
+5,000.00
+5,000.00
+17-10-89
+Case pay loader
+8208123
+1
+4,500.00
+4,500.00
+Belarus
+218034
+1
+4,500.00
+4,500.00
+16-06-94
+Zetor 711-0 Motor 29024
+28175
+1
+15,000.00
+15,000.00
+16-06-94
+Tandem wagon with bale back
+1
+3,000.00
+3,000.00
+Claas Unifarm 210 mower
+4712202
+1
+4,300.00
+4,300.00
+New Holland
+1
+2,800.00
+2,800.00
+Claas Round Baler
+1
+2,900.00
+2,900.00
+15-03-90
+1 Zetor 7245-20
+44367
+1
+20,000.00
+20,000.00
+¯¯¯¯¯¯¯¯¯
+77,710.00
+10-07-95
+11,697.79
+24-07-95
+3,176.03
+14,873.82
+92,583.82
+[18] It is indeed this amount that explains the difference between the Appellant's expert's calculations, and the Respondent's auditor's calculations, of the Appellant's net worth at the beginning of 1996. Therefore, despite some uncertainties, I have attempted to do a history of the Appellant's and the Company's acquisitions and sales of assets from 1985 to the date of the auction. The fact that the Appellant purchased equipment on behalf of the Company and provided his own personal equipment in consideration makes this exercise difficult.
+[19] The Appellant was a forestry worker from 1985 to 1989. During this period, he owned a lot of equipment and tools, including chainsaws, a wagon, trucks, a skidder, horses and harnesses. On October 17, 1989, he traded in his skidder for a Case W7D Payloader and a Belarus 500 tractor. Two months later, he incorporated the Company, which, as we have seen, did excavation work and sold arable soil. Accordingly, the Appellant began purchasing and trading in equipment for this purpose. For example, on February 5, 1990, the Company purchased a Chenil 450 tractor and an 880 "Excavator" for $14,000. In exchange, the Appellant traded in his Case W7D Payloader with an estimated value of $8,000.
+[20] On March 14, 1990, the Company purchased a Zetor four-wheel drive tractor at a price of $20,000, and the Appellant traded in his Belarus 500 and an $8,000 piece of equipment named Oliver, which he owned.
+[21] On May 1, 1990, the Appellant, in his capacity as shareholder, made an election under section 85 of the Income Tax Act ("the Act") and transferred the automotive equipment and some land to the Company. The prescribed form (Exhibit I‑3) was tendered in evidence and discloses that the land was worth $20,000 and that the equipment was worth $38,000. The election was made on May 1, 1990. The Appellant claims that this transfer of assets included all the equipment that he owned, but he was unable to describe the equipment. The form refers to a pickup truck and possibly to the equipment set out in the expert accountant's list at paragraph 17 of these Reasons for Judgment.
+[22] The transfer cannot have included all the equipment on that list because the invoices of February 5 and March 14, 1990, state that the Company purchased some of the equipment. Thus, the Company already owned that equipment. As for the equipment that was traded in, the Appellant no longer owned it, so he cannot have transferred it to the Company on May 1, 1990. It cannot have been the same equipment. For the same reasons, I find it difficult to believe the auditor's testimony that the equipment set out in the invoices dated February 5 and March 14, 1990, priced at $34,000 in all, could have been the equipment transferred on May 1, 1990, and recorded on Form T2057. In exchange, the Appellant received 100 additional Class B shares with a value of $1, as well as a shareholder’s claim.
+[23] The Company continued operating until 1995, when the Appellant bought his farm. We know that the Company had a convenience store built and subsequently sold during this period, and that it financed part of the store. On June 6, 1994, the Company purchased a Zetor two-wheel drive tractor and other equipment, which the Appellant said was needed to bale hay, and was therefore in anticipation of the eventual purchase of the farm. In exchange, it traded in a Case 580K backhoe, but the bill does not identify the owner of the backhoe. However, the machine is needed for landscaping, so it might have been owned by the Company. The purchase price was $28,000 and the value of the trade-in was $27,000. On September 21, 1994, the Appellant purchased gates for $2,710. The gates are the first three items listed in paragraph 17 of these reasons.
+[24] According to the Appellant, the latter two purchases were made in anticipation of the eventual purchase of his farm and of his change of vocation, prompted by health reasons. The Appellant purchased the farm in 1995 for $185,000. He borrowed $90,000, and got the rest of the money by selling his house and a parcel of land. The Appellant claims that a great deal of equipment, accessories and buildings were included in this purchase because the farm dealt in livestock and was formerly a dairy farm.
+[25] In the company’s financial statement for November 30, 1994, the undepreciated cost under the heading "Equipment and Vehicles" is $96,080.
+[26] However, nothing in the financial statement for the Company dated February 28, 1998, suggests that the Company owned equipment or machinery in 1997 or in the three months prior to February 28, 1998. What is certain is that on February 26, 1998 (Exhibit A‑1, tab 8), all the Company's assets were transferred to the Appellant in payment of its debts to its creditors, including the Appellant, who received a 91.1% share. The summary of the transferred assets mentions only one bank account balance and the mortgage loan granted by the Company when the convenience store was sold.
+[27] This series of events leads us up to April 28, 1999. On this date, the farm had already been sold, and the livestock and equipment in issue here were auctioned off. The details of the assets sold at the auction shows that the sale included nails, a snowmobile, a wood splitter, tractors and just about anything else imaginable. The net revenues from the sale were $96,873. According to the Appellant's expert, the sale of livestock brought in $17,500, the sale of small tools and miscellaneous items brought in $18,500 and the sale of depreciable property, specifically equipment, brought in $61,335. According to the expert, the purchase cost of this depreciable property remains $92,583.82, which is the amount found at paragraph 17 of these reasons, and which the auditor should have taken into account in his opening net worth statement.
+[28] Did the Appellant own the property identified by his expert at paragraph 17 at 1995 year end? Based on the history of the transactions involving the equipment just described, only the first items of property on the list appear to have been owned by the Appellant. According to the invoices, all the other purchases were made in the Company's name, except the purchase of the Belarus 500 and the Case W7D Payloader, which the Appellant made on October 17, 1989. The Appellant traded these in when the Company made purchases in 1990, so they cannot be considered part of the Appellant's assets at 1995 year end. After the Company was incorporated, the Appellant transferred a parcel of land and some equipment to the Company, but was unable to draw up a list of the equipment in question, and I am excluding the equipment that already belonged to the Company, based on the 1994 invoices. What is certain is that all the equipment was owned by the Company on May 1, 1990. No evidence brought before me enables me to find with certainty that the Company again transferred equipment to the Appellant between May 1, 1990, and 1995 year end. The purchases identified in 1994 were made by the Company, and the last two transactions on the list at paragraph 17, namely the purchases made on July 10 and July 24, 1995, for $11,697.79 and $3,176.03, could not be identified by the Appellant or the expert accountant.
+[29] Assets of the Company were eventually transferred to the Appellant on February 28, 1998, but that is a long way from 1995 year end. I must also note that the auditor's summary statement took into account the farming equipment which the Appellant owned in late 1995 and included in Class 8, according to his personal financial statements. However, the type of equipment is not specified.
+[30] The Appellant's claim is that he had possession and ownership of the equipment and property described in paragraph 17 of these reasons at 1995 year end, and that the value of that property should be taken into account by the auditor in calculating the Appellant's opening statement at that time. In my view, this claim cannot fully succeed. The expert's testimony and most of his conclusions are based on conjecture. I am conscious of the fact that our task of determining net worth is one in which calculations are based on imprecise and uncertain reconstructions aimed at establishing a taxpayer's income and expenses, but any arguments must nonetheless find support in the facts so that the calculation comes as close as possible to reality.
+[31] It is therefore difficult in the case at bar to conclude that the Appellant owned the property set out in paragraph 17 of these reasons at 1995 year end. In my opinion, the only assets that the Appellant owned at that time were the first items on the list, since the invoice shows that the Appellant personally bought them on September 21, 1994. The items in question are gates purchased for the needs of the farm that he operated under the business name "Ranch L.L." He paid $2,710 for the gates. As for the remainder of the assets on the list, at least those that were not traded in, were owned by the Company at 1995 year end. It should be recalled that the Appellant transferred assets in accordance with his election under section 85 of the Act on May 1, 1990.
+[32] However, there is no doubt that, around the beginning of the year 1997, the Company's financial statements showed that the Company no longer owned any pieces of equipment and that, upon dissolution on February 28, 1998, a bank account balance and the mortgage held by the Company had been assigned to the Appellant in payment of the Company's debt to the Appellant. But there is no explanation regarding the disposition of the Company's equipment and the way in which the equipment came to be owned by the Appellant. The fact that the Appellant often did not draw a distinction between his own transactions and the Company's transactions accounts for a lot of this. This state of affairs, and the loss of all the supporting documents, therefore legitimizes the net worth audits and the resulting assessment.
+[33] Despite the absence of explanations regarding the way in which the assets owned by the Company made their way into the Appellant's hands, it seems obvious to me that certain assets that belonged to the Appellant were sold at the April 28, 1999, auction. If this equipment cannot be identified and its value cannot be determined, it should not enter into the auditor's calculations in the case at bar. Consequently, I reject the contentions of the Appellant's expert and his net‑worth calculation, and, subject to the findings made herein, notably with regard to the addition of the equipment at the beginning of the list at paragraph 17 of these reasons, I accept the Respondent's auditor's calculation.
+[34] I am prepared to accept that, over the years, the Appellant regularly purchased and sold equipment smaller than that described in paragraph 17 of these reasons, as well as the tools that he obtained when he bought his farm in 1995. Based on the list of sales at the auction, the small tools and miscellaneous items brought in $18,500. For the purposes of this case, I am prepared to allow the Appellant an additional $15,000 in his opening net worth statement at 1995 year end, bringing the total to $17,710.
+[35] Turning back to the second issue, namely the inheritance received by the Appellant following his mother's death, the evidence adduced by the Appellant is contradictory to say the least. According to the Appellant, in 1996 or 1997, he received $50,000 in two instalments: one instalment of $44,000 and another instalment of $4,000. According to the expert's report, this amount was paid to the Appellant in two allotments of $25,000, one in 1996 and the other in 1997. Later, the same expert stated that the Appellant's share of his mother's estate was $31,428.51. This is, however, an approximation, as he did not take account of the estate administration expenses or the tax payable on the RRSPs. In addition, he was unable to specify the date on which this amount was supposedly paid to the Appellant. The only uncontradicted and unconfirmed fact that was raised at the very last minute was that the Appellant inherited his mother's car and the contents of her residence, which he sold for $6,000 and $20,000 respectively.
+[36] The Appellant testified with a great deal of hesitation. He was unable to remember certain facts which should, in my opinion, have been easy to recall. It is true that he might have been short of documents to help refresh his memory regarding certain events and certain transactions, but it is usually easy to remember things such as sums of money from an inheritance. It is highly surprising that even the expert that the Appellant hired to verify the auditor's work does not accept the amounts submitted by the Appellant.
+[37] Nonetheless, I am satisfied that the Appellant inherited his mother's estate. I am also satisfied by the evidence that the estate included investments, RRSPs, a life insurance policy and a residence. Even though the evidence does not enable me to ascertain the precise value of the estate and the Appellant's share, due to the unreliable documentation and the fact that the administration expenses and taxes were not proven, I believe that the Appellant received at least $30,000 from his mother's estate, that he probably received this amount in 1996, and that he had the money in his possession until April 28, 1999, the day on which the inn was purchased. The fact that the Appellant and the auditor went to the financial institution where this money was being kept lends credence to the Appellant's statements on the subject.
+[38] However, I have more trouble accepting the Appellant's contention that he kept containers at home containing the proceeds of the sale of his mother's residence and car. No specific evidence regarding the value of the car or the contents of the residence was presented, and based on the Appellant's limited ability to recall what his share of the inheritance amounted to, the amounts that he stated are probably quite unreliable. On this issue, then, the Appellant provided no evidence.
+[39] Because of all this vagueness regarding the Appellant's share of the inheritance, serious doubt remains with regard to the amount that he may have obtained from the sale of the contents of his mother's residence and her car. Even if the other heirs agreed to leave the Appellant the car and the contents of the home, how could these two items not be in the inventory of the estate?
+[40] While the Appellant did seem somewhat overtaken by the events and did not understand the meaning of net worth, the fact remains that he had been in business for several years. In my opinion, he provided no justification for failing to tell his accounting expert or his representative about the existence of such a large amount of money until the day before the hearing of his appeals before this Court. If this money was applied to the purchase of the inn, how did it get to the notary and why was the notary not called to testify in order to confirm the Appellant's theory? This lack of evidence, and the vagueness and implausibility of the Appellant's statements, prevent me from concluding that he did indeed receive this money.
+[41] These reasons, and the fact that my findings increase the Appellant's opening (1995 year end) net worth, eliminate the difference resulting from the Respondent's auditor's calculations, which was the subject of the assessment for 1996 and 1997. It is therefore unnecessary for me to rule on whether the assessment for those two taxation years is statute barred or on whether penalties should be imposed.
+[42] There is a discrepancy resulting from the net worth method calculation for the 1999 taxation year. The Minister shall make adjustments based on these reasons. The Appellant has not convinced me, on a balance of probabilities, that this discrepancy is anything other than unreported income.
+[43] With respect to the penalty for the 1999 taxation year, the burden was on the Respondent to show that the Appellant knowingly, or under circumstances amounting to gross negligence, made a false statement or omission in his return within the meaning of subsection 163(2) of the Act. In the case at bar, it is obvious that the Appellant omitted to report the sale of his livestock at auction. In fact, he did not even consult his accountant and did not give his accountant any documents in this regard, except his new address. The Appellant's explanations regarding the opening of a bank account under his wife's name just before the auction, and the deposit of the proceeds of the auction into that account, are unpersuasive. The Appellant's only explanation was that these actions were intended to reassure his wife. In addition, given the difference established by the net worth method calculation, the Appellant was clearly worse than negligent in that he had little concern for the truthfulness of his return and was indifferent to the tax consequences of his omissions. Moreover, I cannot disregard the fact that even his expert's calculations established a difference that showed that the Appellant was not reporting all his income. The Respondent was therefore justified in imposing a penalty for the 1999 taxation year.
+[44] The appeals are allowed in part, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these Reasons for Judgment. Since this is a Class B proceeding, the Respondent will be entitled, by virtue of these reasons, to 80% of her costs under paragraph 1(b)(i) of Tariff A of the Tax Court of Canada Rules (General Procedure).
+Signed at Edmundston, New Brunswick, this 16th day of August, 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of March, 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC367
+DOCKET NO.: 2002-169(IT)G
+STYLE OF CAUSE: Lloyd Sturtevant and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 21, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: August 16, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Robert Jodoin
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Jodoin
+Firm: Jodoin Huppé
+Granby, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

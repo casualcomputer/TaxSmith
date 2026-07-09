@@ -1,0 +1,146 @@
+---
+title: "Pham c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30074/index.do"
+last_modified: "2010-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 588"
+citation2: ""
+neutral_citation: "2010 CCI 588"
+decision_date: "2010-11-12"
+language: "fr"
+item_id: "30074"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7613
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:26:45.678000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1ebc9da735c43bff399a8b6f50e1c1e024e9d8ecd6cbe78ddc60aa3605c5d72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pham c. La Reine
+
+- Citation: 2010 CCI 588
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7613, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pham c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-12
+Référence neutre
+2010 CCI 588
+Numéro de dossier
+2010-1850(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1850(IT)I
+ENTRE :
+VAN CHINH PHAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 27 et 29 octobre 2010, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Iris Kingston
+Richard Patterson (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel concernant la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté.
+Signé à Toronto (Ontario), ce 12e jour de novembre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour de décembre 2010.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 588
+Date : 20101112
+Dossier : 2010-1850(IT)I
+ENTRE :
+VAN CHINH PHAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question à trancher est celle de savoir si l’appelant, Van Chinh Pham, a droit à un crédit d’impôt pour personnes handicapées en vertu de l’article 118.3 de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008.
+[2] Au cours de son témoignage, l’appelant a parlé de plusieurs problèmes physiques et psychologiques qui présentent clairement des difficultés considérables dans sa vie de tous les jours. En particulier, ces problèmes l’ont empêché d’occuper un emploi rémunéré.
+[3] J’accepte le témoignage de l’appelant en ce qui concerne ses problèmes médicaux et je reconnais les difficultés énormes auxquelles il est confronté quotidiennement. Néanmoins, l’appel doit être rejeté.
+[4] Je dirai tout d’abord que le type de handicap qui donne droit à un allègement fiscal est assez restreint. De manière générale, un contribuable doit être incapable d’exercer l’une des activités ci‑dessous ou au moins prendre un temps excessif pour le faire :
+i) les fonctions mentales nécessaires aux activités de la vie courante;
+ii) le fait de s’alimenter ou de s’habiller;
+iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance;
+iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance;
+v) les fonctions d’évacuation intestinale ou vésicale;
+vi) le fait de marcher.
+[5] Ensuite, je tiens à souligner que la loi ne permet pas à un juge seul d’évaluer un handicap. L’évaluation doit être faite par un médecin.
+[6] En l’espèce, le médecin de famille de l’appelant, le Dr Murray Finkelstein a préparé un certificat. Le certificat médical (pièce R‑2) énonce que l’ouïe de l’appelant est « limitée de façon marquée » et indique que l’appelant est atteint de neurinome acoustique et souffre d’acouphène.
+[7] L’Agence du revenu du Canada a envoyé une lettre de rappel pour demander des renseignements supplémentaires au médecin. Dans sa réponse, le Dr Finkelstein a fourni des précisions sur son évaluation et, dans le formulaire reçu, il a coché les éléments suivants : [traduction] « capable d’entendre à l’occasion » et [traduction] « prend plus de temps pour entendre, mais ne prend pas un temps excessif » (pièce R‑3).
+[8] L’intimée fait valoir que les renseignements subséquents qui ont été fournis figurent dans le certificat médical (paragraphe 118.3(4) de la Loi). Je reconnais qu’il s’agit là d’une interprétation correcte de ce paragraphe.
+[9] Lorsque les renseignements fournis par le Dr Finkelstein sont examinés dans leur ensemble, on ne saurait conclure que le processus d’attestation exigé par la loi a été respecté. Il est clair que le Dr Finkelstein a conclu que la déficience auditive de l’appelant n’était pas suffisamment grave pour satisfaire à l’exigence établie à l’article 118.4 de la Loi. Selon la Loi, la déficience auditive doit être si grave que le contribuable est incapable d’entendre, dans un endroit calme, une personne de sa connaissance, ou prend un temps excessif pour le faire.
+[10] L’évaluation faite par le Dr Finkelstein de la déficience auditive de l’appelant a été précisée davantage à la barre des témoins, lorsque le médecin a été appelé à témoigner par l’intimée. Le témoignage du médecin m’a été fort utile pour comprendre son opinion et ce témoignage ne laissait aucun doute sur le fait que, du point du vue du médecin, la perte auditive n’était pas assez grave pour satisfaire à l’exigence légale.
+[11] Je tiens aussi à souligner que la capacité auditive de l’appelant était suffisante pour lui permettre de se représenter lui‑même lors de l’audience du présent appel. Les observations que j’ai faites durant l’audience appuient l’évaluation du Dr Finkelstein.
+[12] Enfin, j’aimerais aussi formuler une observation au sujet des autres problèmes médicaux de l’appelant. Malheureusement pour l’appelant, un allègement ne peut être accordé en fonction de ces autres handicaps parce qu’aucun certificat médical n’a été fourni à cet effet. Le certificat du Dr Finkelstein ne portait que sur la déficience auditive.
+[13] Par conséquent, même si les circonstances de l’appelant suscitent de la compassion, l’appel doit être rejeté.
+Signé à Toronto (Ontario), ce 12e jour de novembre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 3e jour de décembre 2010.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2010 CCI 588
+NO DU DOSSIER DE LA COUR : 2010-1850(IT)I
+INTITULÉ : VAN CHINH PHAM
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 27 et 29 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 12 novembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Iris Kingston
+Richard Patterson (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

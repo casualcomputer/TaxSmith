@@ -1,0 +1,197 @@
+Title: Lee v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29920/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-400-29920-lee-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-28
+
+# Lee v. The Queen
+
+- Citation: 2010 TCC 400
+- Decision date: 2010-07-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6469, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-28
+Neutral citation
+2010 TCC 400
+File numbers
+2008-3932(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-3932(GST)I
+BETWEEN:
+BRADMAN LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 3, 2009, January 27, March 11
+and April 22, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Roxana Rodriguez
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act for the period from January 1, 1999 to December 31, 2002 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that: (1) in calculating net tax, input tax credits should be allowed to the same extent that they were allowed for purposes of the criminal convictions, and (2) penalties under section 285 of the Act should be deleted.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 28th day of July 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 400
+Date: 20100728
+Docket: 2008-3932(GST)I
+BETWEEN:
+BRADMAN LEE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal under the Excise Tax Act concerns commissions that the appellant, Bradman Lee, earned as a real estate agent during the period from January 1, 1999 to December 31, 2002.
+[2] The appellant was assessed under the Income Tax Act and the Excise Tax Act in connection with this income. This appeal concerns only the GST assessment under the Excise Tax Act, for which the appellant has elected the informal procedure. There is also an income tax appeal pending, which is governed by the general procedure. It has not yet been heard.
+[3] By notice dated February 17, 2005, an assessment under the Excise Tax Act was issued to the appellant in respect of: (1) net tax in the amount of $23,804, (2) penalties and interest under section 280 in the amounts of $5,713.51 and $2,823.15, respectively, and (3) penalties under section 285 in the amount of $5,951.
+[4] The assessment was confirmed on September 22, 2008, which was soon after the appellant had been criminally convicted of income tax and GST offences relating to the same commission income.
+[5] Before discussing the issues in this appeal, it is useful to summarize certain aspects of the convictions.
+[6] The appellant was found guilty of income tax and GST offences by the Ontario Court of Justice in 2007. The reasons of Cowan J. are reported as R. v. Lee, [2008] GSTC 65; [2008] 5 CTC 117.
+[7] The convictions were upheld on appeal to the Superior Court of Justice, and the appellant is currently seeking leave to appeal to the Ontario Court of Appeal.
+[8] The income tax offences for which the appellant was convicted were levied under s. 239(1)(a) and (d) of the Income Tax Act, specifically, failing to report commission income in the income tax returns and willfully evading the payment of tax on such income. The total amount of income involved was just under $150,000.
+[9] The GST offences for which the appellant was convicted were levied under s. 327(1)(c) of the Excise Tax Act, specifically, willfully failing to remit net tax. The total amount involved was $19,191.22.
+[10] It appears that the appellant was not charged under s. 327(1)(a) of the Excise Tax Act, which is similar to s. 239(1)(a) of the Income Tax Act.
+[11] Certain admissions were made by the appellant at the criminal trial. Of particular relevance are admissions that: (1) GST was not “paid” by the appellant on commission income earned by him, (2) the appellant never filed any GST returns for the period from 1999 to 2002, and (3) the appellant’s GST account was “closed and purged” on February 3, 1998.
+[12] By way of clarification, I would comment concerning an admission that was referred to by counsel for the respondent at the hearing. During the cross-examination of the appellant, counsel read from an agreed statement of facts reproduced in the reasons of Cowan J. and suggested that the appellant had admitted that GST in the aggregate of $19,191.22 had been evaded. The referenced admission appears to confirm only that this was an allegation of the Crown. I have not assumed that the appellant admitted evasion at the criminal proceeding.
+[13] Although it appears that the appellant did not make a formal admission at the criminal trial as to the amount of GST that should have been remitted, there was no challenge to the Crown’s allegation in this regard. At the commencement of that trial, the appellant’s counsel stated:
+[…] what I don’t anticipate will be the issue is the details in terms of how much tax was – was not paid. I think the – the entirety of this case will rest upon whether the tax preparer, in fact, provided all the information to that – in the – in the returns that Mr. Lee says he did. So really the issue will be dealt through the tax preparer and not through the actual details of what may have been missing. I don’t think there’s any issue with the fact that there were things that weren’t filed.
+[Transcript, p. 2]
+[14] As suggested by the above excerpt, the appellant’s main defence at the criminal trial appeared to be that he had provided all relevant information to a tax return preparer.
+[15] The tax return preparer, Farooz Mohamed, testified at the criminal trial that in 2002 he had prepared income tax returns for the appellant for the period from 1999 to 2001. Regarding GST, he testified that the appellant informed him that his GST obligations would be handled by the appellant himself.
+[16] The appellant provided evidence contrary to this at the criminal trial. The appellant testified that he thought Mr. Mohamed had prepared both the income tax and GST returns. He also testified that he went to the CRA on numerous occasions to pay taxes.
+[17] The trial judge rejected the appellant’s oral evidence, and accepted the testimony of Mr. Mohamed. Relevant excerpts from the reasons are reproduced below.
+115 When confronted with his lack of payment of income taxes and GST on substantial earnings, [Lee] verbally ventured into convoluted visits with unnamed but numbered representatives of the CRA who, despite all his efforts, rejected his efforts to pay. His evidence was inconsistent, unresponsive at times to the questions and evasive.
+[…]
+117 [If I accept his evidence] I would also have to find that despite having reviewed all of the documents, where there was no mention of any GST filings or credits, that he somehow believed that the GST returns had been completed in these documents, when he filed them with the CRA.
+118 There is no evidence that at any time he calculated or had anyone calculate for him, the amount of GST that he had collected and the amount of the credit that he could apply against this.
+119 As his account was closed in 1998 it was impossible for him to remit any GST during the period for which he was charged. During all this time he made no effort to correct this omission.
+[18] It is in the face of these findings that the appellant instituted this appeal in 2008. The hearing was protracted, taking place on four separate days over several months. On the first and last day, the appellant represented himself. On the other two days, he was represented by an agent, Ms. Rodriguez.
+Assessment at issue
+[19] There were several points of confusion at the hearing, one being the identity of the assessment at issue.
+[20] The notice of appeal identifies the assessment as being made in 2008. It was not entered into evidence.
+[21] The reply did not comment on this, but it states that the relevant assessment was issued by notice dated February 17, 2005 and was confirmed in 2008. This notice was entered into evidence.
+[22] The analysis below proceeds on the basis that this appeal relates to the assessment issued in 2005. There was insufficient evidence to establish that there was an assessment subsequent to this. The only relevance that this is likely to have is whether interest and penalties were properly determined at the date of the assessment.
+Grounds of appeal
+[23] There was also confusion as to the grounds of the appeal. They were not clearly set out in the notice of appeal and new issues were raised at various points in the proceeding. Ms. Rodriguez did a good job in communicating what the issues were, but she did not represent the appellant throughout the proceeding and she also seemed to have difficulty at times in understanding her client’s position.
+[24] It is the practice of this Court to be flexible and accommodating in appeals governed by the informal procedure. However, if an appellant is not able to clearly communicate the reasons for the appeal, there is little that the Court can do.
+[25] I will begin the analysis with the assessment of net tax.
+Net tax
+[26] Under the relevant legislation, the appellant had an obligation to remit net tax. Net tax in these circumstances would generally be the difference between GST collectible by the appellant on real estate commissions and GST payable by the appellant on related expenses.
+[27] According to the assessment, net tax for the period at issue is $23,804. This represents the entirety of GST collectible since no input tax credits were allowed.
+[28] It is worth mentioning that the net tax as determined by the Crown for purpose of the criminal charges was only $19,191.22. Some input tax credits were allowed for purposes of that calculation.
+[29] The reply did not identify this difference or explain why input tax credits were disallowed in their entirety in the assessment.
+[30] Ms. Rodriguez stated that the only items of net tax in dispute are a tax collectible item in the amount of $983.15 (Ex. R-2, Tab 8, 9), and input tax credits totalling approximately $13,700.
+[31] The evidence in support of these amounts rests almost entirely on the self-interested testimony of the appellant. In brief testimony in chief, the appellant stated that proper records and receipts were kept, these documents had been given to an accountant who died and to Mr. Mohamed, the documents were subsequently either lost or seized by the CRA, and the appellant could not now get them back.
+[32] The CRA investigator, Francisco Carvalho, provided testimony to the contrary. He stated that all documents in the possession of the CRA had been provided to the appellant or his counsel, including 21,000 documents that were copied pursuant to an access request by the appellant. These documents would have included documents seized from the premises of the appellant and Mr. Mohamed.
+[33] The testimony of the appellant was not at all convincing, being far too brief, vague and disjointed.
+[34] Based on the testimony of Mr. Carvalho at this hearing, I am satisfied that the calculation of net tax for purposes of the criminal proceeding was fairly determined. I also accept Mr. Carvalho’s testimony that all seized documents were provided to the appellant.
+[35] The appellant suggests that the criminal proceeding was flawed and that he never intended to agree to the admissions that were made at that proceeding. He also points out that he continues to pursue an appeal of the convictions.
+[36] Although the issues in this appeal are different from the criminal proceeding, the circumstances are essentially the same. If this Court is to make factual findings in favour of the appellant that are contrary to those made by Cowan J., there needs to be clear and convincing evidence to support it. The evidence in this case does not come close to satisfying this requirement.
+[37] I do have a problem with the total disallowance of input tax credits, however. As mentioned earlier, no reason for this was provided in the reply. Counsel for the respondent, Mr. Prevost, submitted in argument that input tax credits need to be claimed in a return and that no GST returns were filed in this case.
+[38] The lack of disclosure about input tax credits in the reply is troubling, especially since some input tax credits were allowed for purposes of the criminal charges after a detailed review of the appellant’s expenses. It appeared that Ms. Rodriguez may not have been aware that input tax credits were being totally disallowed until Mr. Prevost mentioned it during the hearing. I am concerned that the lack of disclosure in the reply may have caused prejudice to the appellant.
+[39] It is appropriate in the circumstances for input tax credits to be allowed to the same extent that they were allowed for purposes of the criminal convictions.
+[40] No further adjustments to net tax are warranted.
+Other issues raised by appellant
+[41] Paragraph 5 of the notice of appeal states:
+No GST is owing to the respondent as GST returns for all the tax years including 2007 have been filed, up to date and remitted and subsequently no monies are owing to CRA as they incorrectly claim.
+[42] Ms. Rodriguez informed the Court that she did not intend to pursue this issue.
+[43] Although it is not necessary for me to consider the issue in light of this, I would comment briefly because the appellant put considerable emphasis on it at the first day of the hearing.
+[44] If the appellant wishes to challenge whether amounts are currently owing to the CRA, this is not the proper forum because this Court has no jurisdiction over this subject matter.
+[45] The only issue properly before me is whether the 2005 assessment is correct. Remittances of tax could affect the correctness of the assessment, as it relates to interest and penalties, but only if such remittances took place prior to the date of the assessment. That is extremely unlikely given the factual background of this case.
+[46] I would also comment briefly about a statute bar issue. Paragraph 13 of the notice of appeal states:
+The Notice of Reassessment is statute barred since it was given after the expiration of the normal reassessment period for the Appellant.
+[47] The general time limits for assessing are set out in section 298 of the Excise Tax Act. The relevant parts of this provision, as they read during the period at issue, are reproduced below.
+298(1) Subject to subsections (3) to (6.1), an assessment of a person shall not be made under section 296
+(a) in the case of
+(i) an assessment of net tax of the person for a reporting period of the person,
+[…]
+more than four years after the later of the day on or before which the person was required under section 238 to file a return for the period and the day the return was filed;
+[…]
+(e) in the case of any penalty payable by the person, other than a penalty under section 280, 285 or 285.1, more than four years after the person became liable to pay the penalty;
+[Emphasis added]
+[48] Pursuant to paragraph 298(1)(a), net tax may be assessed at any time if GST returns have not been filed.
+[49] The appellant admitted at the criminal trial that GST returns had not been filed. His testimony at this hearing was more equivocal. At one point, the appellant seemed to suggest that GST returns had actually been prepared by Mr. Mohamed and filed. This testimony was far too vague to be convincing, especially in light of the admission at the criminal trial.
+[50] I find that no GST returns were filed, at least prior to the assessment being issued. There is some evidence that returns were filed subsequently, but this would not affect the assessment.
+[51] As for the assessment of interest and penalties under section 280 and penalties under section 285, there does not appear to be any time limits for assessing under these sections.
+[52] Mr. Prevost argued in the alternative that the normal time limits are overridden in this case by s. 298(4). It provides:
+298(4) An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter,
+(a) made a misrepresentation that is attributable to the person's neglect, carelessness or wilful default;
+(b) committed fraud
+(i) in making or filing a return under this Part,
+(ii) in making or filing an application for a rebate under Division VI, or
+(iii) in supplying, or failing to supply, any information under this Part; or
+(c) filed a waiver under subsection (7) that is in effect at that time.
+[Emphasis added]
+[53] The emphasized language above applies in this case. It is clear that the appellant committed fraud in failing to supply information required by the Act regarding the commission income.
+[54] The assessment is not statute-barred.
+[55] The appellant also submitted that the CRA officers were abusive. Even if that were the case, it would not be grounds for relief in this proceeding: Main Rehabilitation Co. Ltd. v. The Queen, 2004 FCA 403; 2004 DTC 6762.
+Penalties under section 285
+[56] The appellant was assessed penalties under s. 285. In general, this section provides a 25 percent penalty for false statements or omissions that are made either knowingly, or under circumstances amounting to gross negligence.
+[57] Section 285 was amended effective October 20, 2000, which is in the middle of the assessment period. The amendment is not relevant here, and it is therefore sufficient to reproduce the amended version only. The relevant part provides:
+285 Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a "return") made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+(a) if the false statement or omission is relevant to the determination of the net tax of the person for a reporting period, the amount determined by the formula
+A – B
+where
+A is the net tax of the person for the period, and
+B is the amount that would be the net tax of the person for the period if the net tax were determined on the basis of the information provided in the return,
+[…]
+[Emphasis added]
+[58] According to the reply, it is the position of the Minister that the appellant “reported no GST collectible on his taxable supplies.” This suggests that a report of some kind was made by the appellant.
+[59] It is necessary to determine the “report” that is referred to in the reply. Based on Mr. Prevost’s arguments, it appears that the alleged report is not a report in a conventional sense but is a failure to file GST returns. The decision of this Court in Boucher v. The Queen, 2006 TCC 189; [2007] GSTC 138 was referred to in support.
+[60] I have difficulty with this position. In my view, although the appellant knowingly evaded tax, this paragraph has no application unless some type of false statement has been made.
+[61] The emphasized parts of the legislation make it clear that the penalty applies only in circumstances where a taxpayer has made a return, application, form, certificate, statement, invoice or answer.
+[62] The failure to file a return is not an omission in a return made. It appears that this issue was not raised in Boucher.
+[63] As this was the only basis for the imposition of the penalties under s. 285, these penalties should be deleted from the assessment. This finding does not affect the penalties imposed under section 280, which are confirmed.
+[64] As a result of the above findings, the appeal will be allowed, and the assessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that: (1) input tax credits should be allowed to the same extent that they were allowed for purposes of the criminal convictions, and (2) penalties under section 285 should be deleted.
+[65] As for costs, Mr. Prevost requested that costs be granted to the respondent pursuant to section 9(2) of the Rules Respecting the Excise Tax Act (Informal Procedure) on the basis that the appellant has unduly delayed the prompt and effective resolution of the appeal.
+[66] Although there is merit to this argument, I decline to order costs in this case because of the substantial deficiencies in the reply. Not only did the reply not clearly set out the reasons for the assessment, more importantly, the reply did not address many of the grounds raised in the notice of appeal.
+[67] Before concluding, I wish to thank Mr. Prevost for his written submissions, which provided considerable assistance.
+Signed at Toronto, Ontario this 28th day of July 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 400
+COURT FILE NO.: 2008-3932(GST)I
+STYLE OF CAUSE: BRADMAN LEE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: September 3, 2009, January 27,
+March 11 and April 22, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: July 28, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Roxana Rodriguez
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

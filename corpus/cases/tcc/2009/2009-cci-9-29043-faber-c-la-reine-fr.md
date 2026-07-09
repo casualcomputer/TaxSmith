@@ -1,0 +1,152 @@
+---
+title: "Faber c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29043/index.do"
+last_modified: "2009-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 9"
+citation2: ""
+neutral_citation: "2009 CCI 9"
+decision_date: "2009-01-08"
+language: "fr"
+item_id: "29043"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6852
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:19:12.045000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90daef3cb144bbc729f1a257e6812fb3255f87bc16dc393f31fdd5a9356fb14e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Faber c. La Reine
+
+- Citation: 2009 CCI 9
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6852, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faber c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-08
+Référence neutre
+2009 CCI 9
+Numéro de dossier
+2005-1062(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1062(IT)G
+ENTRE :
+JONAS FABER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Conférence téléphonique tenue le 31 juillet 2008,
+à Prince George (Colombie‑Britannique).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+____________________________________________________________________
+ORDONNANCE
+VU les motifs du jugement rendus par la Cour canadienne de l’impôt le 3 juillet 2008, établissant que la détermination des dépens ferait l’objet d’une conférence téléphonique à laquelle les parties prendraient part;
+ET VU les observations formulées par les deux parties au cours d’une conférence téléphonique qui s’est tenue à Prince George, en Colombie‑Britannique, le 31 juillet 2008;
+LA COUR ORDONNE QUE l’intimée se voie accorder la somme de 300 $ à titre de dépens afférents à la requête au moyen de laquelle elle a obtenu la modification de l’avis d’appel de l’appelant.
+LA COUR ORDONNE ÉGALEMENT QU’il ne soit pas adjugé de dépens supplémentaires à l’une ou l’autre des parties.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de janvier 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 22e jour de janvier 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI9
+Date : 20090108
+Dossier : 2005-1062(IT)G
+ENTRE :
+JONAS FABER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Little
+A. Les faits
+[1] L’appel interjeté par l’appelant a été entendu à Kelowna, en Colombie‑Britannique, au mois d’octobre 2007. Le 3 juillet 2008, un jugement a été rendu.
+[2] L’appel portait essentiellement sur plusieurs dépenses que l’appelant a déduites de son revenu, dépenses que le ministre du Revenu national (le « ministre ») a refusées.
+[3] Une partie des dépenses que l’appelant a déduites de son revenu a été admise, et l’autre partie refusée.
+[4] Au cours de l’audience, l’avocate de l’intimée a demandé que la détermination des dépens fasse l’objet d’une conférence téléphonique.
+[5] Le 31 juillet 2008, une conférence téléphonique s’est tenue à Prince George, en Colombie‑Britannique.
+[6] Au cours de la conférence téléphonique, l’avocate de l’intimée a demandé que les dépens entre parties soient adjugés à sa cliente pour les honoraires d’avocat et les débours.
+[7] Tel qu’il a été mentionné précédemment, à l’issue de l’instruction, chacune des parties a eu partiellement gain de cause.
+[8] En de telles circonstances, je n’adjugerai aucuns dépens pour le procès. Toutefois, l’intimée a vu sa requête accueillie par le juge suppléant Rowe. L’intimée avait soutenu que l’avis d’appel était trop long, et le juge suppléant Rowe avait accepté d’en radier une partie importante.
+[9] Je suis d’avis que l’intimée doit se voir accorder 300 $ à titre de dépens afférents à l’avis de requête au moyen duquel elle a obtenu la radiation partielle du très long avis d’appel que l’appelant avait déposé.
+[10] Ma décision de ne pas adjuger d’autres dépens se fonde sur l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[11] La disposition générale de l’article 147 des Règles qui était en vigueur à la date de l’audition de l’appel prévoyait que la Cour avait discrétion pour adjuger les dépens. Le paragraphe 147(1) était ainsi rédigé :
+147(1) Sous réserve des dispositions de la Loi, la Cour a entière discrétion pour adjuger les frais et dépens aux parties à une instance, pour en déterminer la somme, pour les répartir et pour désigner les personnes qui doivent les supporter.
+[12] De même, le paragraphe 147(5) confirme que la Cour a entière discrétion pour adjuger ou refuser d’adjuger les dépens :
+147(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+[13] Dans la décision Myers’ Humane Information Systems v. Her Majesty the Queen, [1996] 1 C.T.C. 2801, le juge Bowman a rejeté l’appel, mais il a décidé de ne pas condamner l’appelante aux dépens. Au paragraphe 47 de cette décision, le juge Bowman s’est ainsi exprimé :
+Quant à l'adjudication des dépens, la Cour dispose d'un vaste pouvoir discrétionnaire. Elle peut décider de ne pas adjuger de dépens.
+[14] Dans l’arrêt Canada c. Lau, 2004 CAF 10, 2004 G.T.C. 1079, la Cour d’appel fédérale a étudié la question du pouvoir discrétionnaire exercé par le juge de la Cour de l’impôt relativement à l’octroi des dépens. Après examen de la décision rendue par la Cour de l’impôt d’accorder à l’appelante les dépens sous forme de somme forfaitaire, et des dispositions de l’article 147 des Règles, la Cour d’appel fédérale a déclaré :
+On voit donc que l'octroi des dépens en vertu de la règle 147 est hautement discrétionnaire même si, évidemment, ce pouvoir discrétionnaire doit être exercé en respectant les principes établis. Nous sommes tous d'avis que la Cour de l'impôt n'a pas manqué à ces principes et qu'il n'y a aucune raison de modifier le jugement qui a été rendu.
+[15] Ma conclusion se fonde sur la formulation du paragraphe 147(1) des Règles ainsi que sur les décisions susmentionnées de la Cour.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de janvier 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 22e jour de janvier 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI9
+NO DU DOSSIER DE LA COUR : 2005-1062(IT)G
+INTITULÉ : Jonas Faber et Sa Majesté la Reine
+LIEU DE LA CONFÉRENCE
+TÉLÉPHONIQUE : Prince George (Colombie‑Britannique)
+DATE DE LA CONFÉRENCE
+TÉLÉPHONIQUE : Le 31 juillet 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge L. M. Little
+DATE DE L’ORDONNANCE : Le 8 janvier 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

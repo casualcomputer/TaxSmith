@@ -1,0 +1,263 @@
+Title: Fedorvich v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25806/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-288-25806-fedorvich-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-04-13
+
+# Fedorvich v. The Queen
+
+- Citation: 2004 TCC 288
+- Decision date: 2004-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3849, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fedorvich v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-13
+Neutral citation
+2004 TCC 288
+File numbers
+2003-72(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-72(IT)I
+BETWEEN:
+JANET FEDORVICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Daniel Fedorvich (2003-73(IT)I) on April 28, 2003, at Edmonton, Alberta,
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Russell A. Flint
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed.
+Signed at Ottawa, Canada, this 13th day of April, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC288
+Date: 20040413
+Docket: 2003-72(IT)I
+2003-73(IT)I
+BETWEEN:
+JANET FEDORVICH and DANIEL FEDORVICH,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The appeals of Janet Fedorvich (Court File 2003-72) and Daniel Fedorvich (Court File 2003-73) were heard together on common evidence. The two Appellants were married in 1972 and attended these appeals as husband and wife. For convenience, I shall refer to the husband Appellant as "Daniel" and the wife Appellant as "Janet". The taxation years under appeal are 1999 and 2000. In those two years, each Appellant reported a loss from a farming operation which they carried on in partnership. The farming partnership loss was allocated 75% - 25% as follows:
+1999
+2000
+Daniel
+$50,622
+$52,839
+Janet
+16,874
+17,613
+[2] Daniel and Janet are both qualified school teachers employed full-time in the Province of Alberta. In the years under appeal, their loss from farming was set off against their income from teaching in the computation of income under Division B (sections 3 to 108) of the Income Tax Act. When issuing reassessments to the Appellants for 1999 and 2000, the Minister of National Revenue (i) disallowed certain expenses which the Appellants had attributed to farming, and allocated such disallowance 75% to Daniel and 25% to Janet; and (ii) restricted the amount deductible as a farm loss under section 31 of the Act. The effect of the reassessments may be summarized as follows:
+1999
+Daniel
+Janet
+Farm Loss reported
+$50,622
+$16,874
+Disallowed Expenses
+8,583
+2,861
+Net Farm Loss
+42,039
+14,013
+Restricted Loss (section 31)
+8,750
+8,256
+Loss Disallowed
+33,289
+5,757
+2000
+Daniel
+Janet
+Farm Loss reported
+$52,839
+$17,613
+Disallowed Expenses
+14,767
+4,923
+Net Farm Loss
+38,072
+12,690
+Restricted Loss (section 31)
+8,750
+7,595
+Loss Disallowed
+29,322
+5,095
+[3] Section 31 of the Act restricts the deductible loss from a farming business in accordance with a formula if a particular condition with respect to "chief source of income" is satisfied. Section 31 has been the subject of much litigation and the relevant words are:
+31(1) Where a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income, for the purposes of sections 3 and 111 the taxpayer's loss, if any, for the year from all farming businesses carried on by the taxpayer shall be deemed to be the total of
+(a) the lesser of ...
+The formula which follows the above words permits a maximum "deemed" farm loss of $8,750 depending upon the amount of the actual loss. If a taxpayer's chief source of income is either farming or a combination of farming and some other source of income, there is no restriction on the amount of farm loss which may be taken into account for income tax purposes. But if the taxpayer cannot meet the "chief source of income" test, then his or her loss from a farming business will be restricted in accordance with the formula in section 31. In the reassessments under appeal, the Minister has acknowledged that the Appellants operate a farm business (i.e. it is not a hobby). Therefore, the only issue is whether the Appellants can meet the "chief source of income" test.
+The Facts
+[4] Daniel was born in Edmonton around 1948. His father was in the purebred hog business and he (Daniel) has worked on a farm since he was three or four years of age. He has driven horses and done haying. He left home at 18 to go to university and started teaching in 1967 after two years of teacher training. He met Janet in 1969 and they were married in 1972. She was born at Fairview, Alberta (just west of Peace River) around 1954 but lived on a farm near Worsley. Her father was a grain and cattle farmer, and later only a grain farmer. She grew up doing the usual farm chores. Her grandparents were also cattle farmers. The Appellants have two married daughters. One lives in Edmonton with two grandsons and the other lives in Dawson Creek with two granddaughters.
+[5] After the Appellants were married, they lived in Worsley and other places but came to Leduc County in 1982 and have lived there ever since. Daniel started teaching full-time in 1967 and was still teaching full-time in 2003. He obtained his university degree in 1979 by taking summer courses. Janet got her Bachelor of Education degree in 1988 and is a full-time teacher at the high school level teaching mathematics, science and biology. In 1986, the Appellants purchased a three-acre parcel of land outside Devon, south and west of Edmonton. In 1988, Daniel started raising chickens on their three-acre site. He sold the chickens and eggs through friends and neighbours by word of mouth. The Spruce Grove Zoning by-law permitted only a limited number of chickens per acre and so Daniel and Janet switched to a cow/calf operation in 1994.
+[6] When the Appellants started the cow/calf operation, they could not afford to buy land because a quarter section near Devon was selling for $850,000 in 1994. Proximity to Edmonton may have been a factor in the high cost of land near Devon. They rented 80 acres about a 30-minute drive from their home and purchased 23 head of cattle in 1995. They wanted the acreage to ensure feed available for their cattle. They had to give up the 80 rented acres when the owner of adjoining land blew up his dam and they lost their source of water. In 1996, they rented 35 acres near the Enoch Reserve about a 20-minute drive from their home; and they moved their 23 head of cattle to the new location. They tried renting land to grow hay but the contractors were not always available when the time came to harvest; and they could lose hay by not harvesting in time. After 1996, they decided to purchase hay at $20 per bale.
+[7] The Appellants had their share of ill fortune. In 1995, they purchased a purebred bull but the following spring only one-half of the cows were pregnant. They exchanged the purebred bull because it was not good for breeding but their second bull was killed by lightning. In 1997, there were 27 calves born but five died from scours, an illness which dehydrates cattle. Also, one of their best calves died suddenly apparently from poison hemlock. In 1997 and 1998, they were required to haul water because the dugouts were dry.
+[8] In 1999, the Appellants moved their cattle operation to a new location where they were still farming at the time of hearing in 2003. In paragraph 12 of the Notices of Appeal, it is described as 300 acres of rented farm land. It was described by the Appellants' witness, Pascal Hamel, as rented pasture and a site with two barns. According to Daniel's evidence, they had 50 cows, 10 heifers and 4 bulls in 1999 and 75 cows, no heifers and 4 bulls in 2000.
+[9] Exhibit A-3 is a letter which the Appellants sent to Canada Customs and Revenue Agency in March 2002 in support of their Notices of Objection. The letter describes many farm activities which require the Appellants' attention during five periods of a calendar year. January to April is a primary calving time when Daniel and Janet try to provide constant attention, if required, from after school (4:30 p.m.) until the next morning (7:30 a.m.) when they leave for school; and of course on weekends. May and June are spent fertilizing pasture and hay lands; cultivating and seeding cover crops like oats and barley; vaccinating cattle and repairing fences. July to September are spent haying both first and second crops. October and November is time for fall calving; baling straw and hauling feed; and winter feeding begins. December is busy feeding animals mainly on weekends.
+[10] There is no doubt that 60 or 70 head of cattle require much attention on a constant basis. In addition to the efforts which Daniel and Janet are required to put forth, they have also purchased substantial equipment which is listed in Exhibit A-1 and was described orally by Daniel in evidence. Set out below is a list of the equipment and its cost.
+1995
+Case 1070 tractor
+$25,000
+Bucket
+4,900
+Chev ½-ton pick-up
+41,200
+Stock trailer
+6,900
+1998
+Hay wagon
+$3,000
+2000
+Case 5088 tractor
+$21,700
+(former tractor destroyed by fire)
+Hay binder
+31,600
+Baler
+4,500
+[11] Notwithstanding the efforts put forth by the Appellants and the equipment they purchased, their farming operations have shown consistent losses. Exhibit A-2 is a table showing financial details of the Appellants' farming operation for the years 1994 to 2002 inclusive. Column B shows gross revenue and column E shows net income or loss. There is no column showing the total expenses and depreciation which would, each year, convert the gross revenue into a net loss. I have determined the total expenses and depreciation for each year by computing the difference between gross revenue (a positive) and net loss (a negative). The table below displays those three amounts for each year.
+Gross Revenue
+Expenses and
+Depreciation
+Net Loss
+1994
+$2,610
+$14,663
+$12,053
+1995
+8,978
+52,599
+43,621
+1996
+11,011
+39,872
+28,861
+1997
+10,111
+38,899
+28,788
+1998
+17,620
+64,209
+46,589
+1999
+25,608
+93,104
+67,496
+2000
+45,931
+116,356
+70,425
+2001
+45,560
+84,909
+39,349
+2002
+37,319
+89,463
+52,144
+[12] In the Respondent's Reply to each Notice of Appeal, the Respondent has set out in subparagraph 11(d) the farming losses reported by the Appellants in the years 1990 to 1993 inclusive. Those losses are reported in the ratio 75% to Daniel and 25% to Janet for 1990, 1991 and 1993. The amounts for 1992 are not in that ratio and one of them may be in error. Comparing the combined losses with the gross revenue, I have again extrapolated the total expenses and depreciation for the years 1990, 1991 and 1993, omitting 1992 because of what I regard as uncertain amounts.
+Gross Revenue
+Loss - Daniel
+Loss - Janet
+Expenses and
+Depreciation
+1990
+$7,600
+$11,012
+3,670
+$22,282
+1991
+9,350
+11,009
+3,669
+24,028
+1992
+11,581
+8,670
+3,879
+-
+1993
+7,452
+11,229
+3,743
+22,424
+The above table and the one in paragraph 11 provide an easy comparison of revenue with expenses. The two years under appeal are 1999 and 2000. In the four-year period 1996 to 1999 farm expenses were 3.5 times farm revenue and, in 2000, farm expenses were 2.5 times farm revenue.
+Analysis
+[13] The law concerning "chief source of income" under section 31 of the Income Tax Act always starts with the Supreme Court of Canada decision in Moldowan v. The Queen, 77 DTC 5213. Dickson J. (as he then was) writing for the Court stated at page 5216 that the Act envisaged three classes of farmers:
+(1) A taxpayer, for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine. Such a taxpayer, who looks to farming for his livelihood, is free of the limitation of subsection 13(1) in those years in which he sustains a farming loss.
+(2) The taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood but carried on farming as a sideline business. Such a taxpayer is entitled to the deductions spelled out in subsection 13(1) in respect of farming losses.
+(3) The taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood and who carried on some farming activities as a hobby. The losses sustained by such a taxpayer on his non-business farming are not deductible in any amount.
+The reference in subsection 13(1) to a taxpayer whose source of income is a combination of farming and some other source of income is a reference to class (1). It contemplates a man whose major preoccupation is farming, but it recognizes that such a man may have other pecuniary interests as well, such as income from investments, or income from a sideline employment or business. The section provides that these subsidiary interests will not place the taxpayer in class (2) and thereby limit the deductibility of any loss which may be suffered to $5,000. While a quantum measurement of farming income is relevant, it is not alone decisive. The test is again both relative and objective, and one may employ the criteria indicative of "chief source" to distinguish whether or not the interest is auxiliary, A man who has farmed all of his life does not become disentitled to class (1) classification simply because he comes into an inheritance. On the other hand, a man who changes occupational direction and commits his energies and capital to farming as a main expectation of income is not disentitled to deduct the full impact of start-up costs.
+[14] Since 1977, there have been many, many cases all attempting to apply what the Supreme Court stated in Moldowan. In 1985, the Federal Court of Appeal allowed a taxpayer's appeal in Graham v. The Queen, 85 DTC 5256. The decision in Graham appears to be what I would call the high water mark for taxpayers. Subsequent decisions of the Federal Court of Appeal in Morrissey (89 DTC 5080), Roney (91 DTC 5148), Connell (92 DTC 6134), Poirier (92 DTC 6335), Timpson (93 DTC 5281) and Donnelly (97 DTC 5499) have interpreted Moldowan in a more restrained manner with respect to the deductibility of farm losses. For example, Moldowan speaks of three factors when comparing difference sources of income: time spent, capital committed and profitability. In Poirier, the Federal Court of Appeal stated at page 6336:
+It must be remembered that it is the cumulative impact of the various factors for determination that governs, not any one factor taken disjunctively: Morrisey v. The Queen [89 DTC 5080], [1989] 2 F.C. 418 (F.C.A.) and Connell, supra (F.C.A.).
+[15] If we are to look at the cumulative impact of all factors, and not to look at any one factor disjunctively, it follows in my mind that no single factor may be regarded as decisive. When deciding Donnelly against the taxpayer, Robertson J.A. writing for the Court stated:
+Any doubt as to whether the taxpayer's chief source of income is farming is resolved once consideration is given to the element of profitability. There is a difference between the type of evidence the taxpayer must adduce concerning profitability under section 31 of the Act, as opposed to that relevant to the reasonable expectation of profit test. In the latter case the taxpayer need only show that there is or was an expectation of profit, be it $1 or $1 million. It is well recognized in tax law that a 'reasonable expectation of profit' is not synonymous with an 'expectation of reasonable profits'. With respect to the section 31 profitability factor, however, quantum is relevant because it provides a basis on which to compare potential farm income with that actually received by the taxpayer from the competing occupation. In other words, we are looking for evidence to support a finding of reasonable expectation of 'substantial' profits from farming.
+[16] In Kroeker v. The Queen, 2002 DTC 7436, Desjardins J.A. writing for the Court qualified (at paragraph 21) what had been said in Donnelly about substantial profits by noting that the taxpayer in Donnelly was involved in raising horses for racing. In Kroeker, the Respondent had admitted that farming was "the focus of her life", referring to the taxpayer. Again in Taylor v. The Queen, 2002 DTC 7596, the Federal Court of Appeal did not accept the adjective "substantial" as describing the profit which might be expected from farming. I also note in Taylor that the Federal Court of Appeal has succinctly worded (in paragraph 2) the precise issue which is before me in these appeals: whether the Appellants are persons for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine (a class 1 farmer), or persons who carry on farming as a sideline business (a class 2 farmer).
+[17] I will first consider the factor time spent. Daniel and Janet are both full-time teachers; and so they have a significant commitment during the school year. They are also responsible for the feeding and care of their cattle, particularly at calving time. It is a balancing of obligations. Daniel and Janet do not teach at the same school. Their home is on their three-acre site near Devon. For Daniel, the distance from home to school is 36 kilometres; and the distance from his school to their pasture land (300 acres) is 51 kilometres. Their home is between Daniel's school and their pasture land. Therefore, it is 36 kilometres from home to Daniel's school and 15 kilometres from home to the pasture land. Daniel leaves home at 8:00 a.m. and school gets out at 3:35 p.m. He gets home from school around 4:00 p.m.; changes his clothes; eats an apple or banana; and drives to the pasture arriving there around 4:30 p.m. He stated that he worked at the pasture until after dark but that phrase can be misleading because, near Edmonton, it would be dark by 4:30 p.m. in December but daylight until 10:00 p.m. in June.
+[18] Janet has different distances to travel. She teaches high school at Gunn, Alberta, near a native reserve. Her school is about 100 kilometres from her home; and the pasture land is about 85 kilometres from her school. The pasture land is between her school and her home and so (consistent with Daniel) the pasture land is 15 kilometres from her home. Janet leaves home for school about 7:30 each morning. After school, she frequently stops at the pasture land because it is on the way home. She tries to be in attendance at the birth of each calf but is not able to attend if a calf is born during school hours. She stated that she was frequently at the pasture land but the third witness, Pascal Hamel, who resides on land adjoining the Appellants' pasture, stated that he saw Daniel at the pasture more frequently than Janet. He recalled seeing Janet only one to three days each week.
+[19] In addition to her regular teaching duties, Janet taught evening classes (one evening per week) in 1999 and 2000. She also taught summer school in 1999 and 2000, 8:00 a.m. to 12:00 noon. Daniel taught summer school in 2000. In cases like this, there is a natural tendency for all taxpayers to maximize (and perhaps exaggerate) the time spent at farming and minimize the time spent at other income-earning activities. Daniel and Janet impressed me as responsible individuals. I can easily imagine them as dedicated to their teaching profession and their cattle. In addition to regular school hours, they would have to prepare lessons; set and mark tests and exams; attend staff meetings; and be available for parent/teacher interviews. Although the obligation to feed and care for cattle is real and constant (particularly at calving time), I am not persuaded that Daniel or Janet spent more time at farming than at teaching.
+[20] Having regard to the second factor of capital committed, paragraph 10 above contains a list of equipment purchased by the Appellants at an aggregate cost of approximately $138,000 including a second tractor to replace the one destroyed by fire. I do not know if the first tractor was insured. There was no evidence with respect to the cost of the cattle owned in 1999 and 2000 but Daniel stated that, in 2000, the value of a mature cow was a little more than $1,000. Therefore, 75 cows would have a value of about $80,000. Daniel stated that their three acres near Devon had a value of about $250,000 or $83,000 per acre.
+[21] Devon may be regarded as a suburb of Edmonton and, therefore, the value of land near Devon is not based on farm use but on its proximity to a large city. In cross-examination, Daniel was asked if he and Janet had ever inquired about teaching positions near Drayton Valley (about 50 miles west of Devon) where farm land may be purchased at a lower cost than around Devon or Spruce Grove. Daniel said that they had never made that inquiry. The Appellants have invested significant capital in equipment and cattle but their desire to live near Edmonton precludes their owning pasture land for their cattle. The value of their three-acre residential site in 2000 appears to have been greater than the value of their equipment and cattle.
+[22] Considering the third factor of profitability, the tables in paragraphs 11 and 12 above show that the Appellants have reported losses from farming in all years from 1990 to 2002 inclusive. In 1994, they changed from chickens to a cow/calf operation. Commencing in 1995, the losses have been higher than in the early 1990s. In the eight-year span from 1995 to 2002, the Appellants suffered farming losses in the aggregate amount of $377,000 or, on average, $47,125 per year. Janet said that in 1999 and 2000, her teaching salary was around $40,000 per year. Because Daniel has been teaching many years longer than Janet, I assume that his teaching salary in 1999 and 2000 was more than $50,000 per year.
+[23] Returning to Moldowan, Justice Dickson commenced his description of a class 1 farmer as "a taxpayer for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine". Those words do not apply to Daniel and Janet in 1999 or 2000. I find that, in those years, farming could not reasonably be expected to provide the bulk of their income; and it was not the centre of their work routine. Counsel for the Appellants urged me to follow the decisions of this Court in Martin v. The Queen, 96 DTC 1915 and Finch v. The Queen, 2000 DTC 2382. In Martin, Judge Bowman allowed the taxpayer's appeal but Mr. Martin had purchased his first farm in 1964; and then purchased two other farms in 1978 and 1981, respectively. When Mr. Martin appealed the years 1989, 1990 and 1991 on the question of "chief source of income", he had been farming his own land for 25 years.
+[24] In Finch, Judge Beaubier allowed a taxpayer's appeal when Mr. Finch had started full-time farming in 1979. In the late 1980s, the Farm Credit Corporation in Saskatchewan threatened to foreclose its mortgage on Mr. Finch's farm unless he got full-time employment off the farm. He took such employment in order to service (i.e. pay down) the mortgage on his farm. When Mr. Finch was reassessed for 1992, 1993 and 1994 on the basis that farming was not his "chief source of income", he appealed and was successful. He had been a full-time farmer (no outside employment) from 1979 to 1989 and had sought employment outside the farm only to save it from foreclosure by the mortgagee.
+[25] I am impressed by the fact that in Martin and Finch, the taxpayer's home in each case was integrated with the land used for farming. Although Mr. Martin was a teacher like the Appellants herein, he had farmed a long time; owned all of his farm lands; and could do his farm work directly from his home. I find that for Daniel and Janet in the years under appeal, farming was a sideline business. The appeals are dismissed.
+Signed at Ottawa, Canada, this 13th day of April, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC288
+COURT FILE NOS.:
+2003-72(IT)I and 2003-73(IT)I
+STYLE OF CAUSE:
+Janet Fedorvich and Daniel Fedorvich and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+April 28, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+April 13, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Russell A. Flint
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Russell A. Flint
+Firm:
+Snyder & Associates
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

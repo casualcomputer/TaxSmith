@@ -1,0 +1,146 @@
+---
+title: "Walker c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27415/index.do"
+last_modified: "2006-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 675"
+citation2: ""
+neutral_citation: "2006 CCI 675"
+decision_date: "2006-12-08"
+language: "fr"
+item_id: "27415"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 237
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:29:37.585000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64c6d31655cfeb3775b91009a003de37d30a5f2c300eb12633ba49a0de4cbe77"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walker c. La Reine
+
+- Citation: 2006 CCI 675
+- Decision date: 2006-12-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 237, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-08
+Référence neutre
+2006 CCI 675
+Numéro de dossier
+2004-3495(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI675
+Date : 20061208
+Dossier : 2004-3495(IT)G
+ENTRE :
+JAMES WALKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues le 6 décembre 2006 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Thomas M. Boddez
+Avocate de l’intimée :
+Me Linda Bell
+____________________________________________________________________
+MOTIFS DES ORDONNANCES ET ORDONNANCES
+Le juge Beaubier
+[1] Les deux présentes requêtes ont été instruites ensemble, sur consentement, à Vancouver, en Colombie‑Britannique, le 6 décembre 2006. Elles sont les suivantes :
+1. Requête de l’appelant présentée le 30 janvier 2006, dans laquelle il sollicite un jugement conforme à l’avis d’appel qu’il a déposé auprès de la Cour le 25 août 2004, au motif que la réponse de l’intimée n’avait pas encore été déposée le 22 novembre 2004 et ne l’a pas été depuis.
+2. Requête de l’intimée présentée le 27 février 2006, en application de l’article 9 des Règles de la Cour canadienne de l’impôt (procédure générale), dans laquelle elle sollicite auprès de la Cour une prolongation du délai imparti pour le dépôt de sa réponse jusqu’à 30 jours suivant la date où une ordonnance est rendue sur la requête.
+[2] Les présentes requêtes ont été instruites à la suite de la décision de la Cour rendue le 5 décembre 2006, par laquelle elle a rejeté la requête de l’intimée qui visait à obtenir le rejet ou l’annulation de l’avis d’appel de l’appelant, au motif qu’il n’avait pas déposé dans le délai prescrit un avis d’opposition à un avis de nouvelle cotisation daté du 13 mai 2002.
+[3] Dans le cadre du présent appel, la chronologie des nombreuses instances introduites par les parties est fondamentale à l’égard des présentes requêtes et de toute décision sur celles‑ci. Je la présente ci‑dessous :
+13 mai 2002 – L’intimée imprime un avis de nouvelle cotisation établi à l’égard de l’appelant pour l’année 1998 et elle prétend le lui « envoyer » par courrier recommandé. Il ne reçoit jamais ce courrier, et l’enveloppe postée est retournée à l’intimée le ou vers le 28 mai 2002. Conformément à la politique de l’Agence du revenu du Canada, l’enveloppe retournée et son contenu sont détruits.
+2003 – L’appelant introduit devant la Cour fédérale une action par laquelle il sollicite un jugement déclaratoire établissant qu’il n’a aucun impôt à payer et faisant obstacle aux mesures de recouvrement.
+11 août 2004 – La Cour fédérale rejette cette action avec dépens.
+25 août 2004 – L’appelant dépose le présent avis d’appel devant la Cour canadienne de l’impôt, après avoir reçu, par courrier le 30 octobre 2003, l’avis de nouvelle cotisation daté du 13 mai 2002.
+8 septembre 2004 – L’appelant porte en appel devant la Cour d’appel fédérale la décision de la Cour fédérale, Section de première instance.
+5 octobre 2004 – Les avocats des deux parties signent une lettre d’entente de l’avocate de l’intimée à l’intention de l’avocat de l’appelant. Le corps de la lettre est ainsi rédigé :
+[traduction]
+La présente lettre confirme la teneur de notre récente conversation téléphonique au cours de laquelle vous avez accédé à notre demande de prolongation du délai imparti pour le dépôt de notre réponse jusqu’au 22 novembre 2004. Dans l’éventualité où nous serions incapables de déposer notre réponse d’ici là, comme convenu, nous communiquerons avec vous.
+Afin de respecter l’alinéa 44(1)a) des Règles de la Cour canadienne de l’impôt (procédure générale), veuillez confirmer votre consentement à la prolongation du délai en signant le double exemplaire de la présente lettre et en nous le retournant.
+(Pièce A, affidavit de Lynn Burch daté du 27 février 2006.)
+Apparemment, vers cette date, l’avocat de l’appelant a aussi commencé à presser l’avocate de l’intimée de consentir à ce que l’instruction du présent appel soit différée en attendant le résultat d’un appel qui serait semblable, à savoir Stark c. La Reine, 2003-2403(IT)G. Le présent appel et environ 200 autres appels, ainsi que Stark, se rapportent à un « stratagème » prétendu ayant trait à un don de bienfaisance.
+5 novembre 2004 – L’avocate de l’intimée est informée par la Cour canadienne de l’impôt que la date fixée pour la présentation d’une requête est le 18 janvier 2005.
+22 novembre 2004 – L’intimée signifie à l’avocat de l’appelant un avis de requête en rejet de l’appel au motif qu’aucun avis d’opposition (à l’avis prétendu de nouvelle cotisation daté du 13 mai 2002) n’a été déposé par l’appelant, laquelle requête doit être présentée le 18 janvier 2005.
+23 novembre 2004 – L’avocat de l’appelant écrit une lettre à l’avocate de l’intimée, dans laquelle il reconnaît avoir reçu la signification et fait une proposition [traduction] « qui mettra fin à la multiplicité des instances » et évitera [traduction] « des frais de justice supplémentaires au moyen d’un accord dont les conditions sont exposées ci‑dessus », et il sollicite un ajournement de l’instruction de la requête prévue pour le 18 janvier 2005. (Affidavit de Lynn Burch daté du 27 février 2006, pièce C.)
+13 décembre 2004 – L’intimée ne s’oppose pas à l’ajournement, qui est accordé.
+20 mai 2005 – L’avocat de l’appelant fait des propositions supplémentaires pour régler ces instances judiciaires.
+3 août 2005 – L’avocate de l’intimée refuse les propositions de l’appelant.
+21, 27 et 30 septembre 2005 – Les parties conviennent d’ajourner l’instruction de la requête de l’intimée jusqu’au 31 décembre 2005, en attendant la décision de la Cour d’appel fédérale.
+28 novembre 2005 – La Cour d’appel fédérale rejette l’appel de l’appelant.
+Par la suite – La date d’instruction de la requête de l’intimée visant à obtenir le rejet de l’appel de l’appelant est fixée au 24 janvier 2006.
+Avant le 5 janvier 2006 – L’avocat de l’appelant a sollicité un ajournement de l’instruction de la requête prévue pour le 24 janvier 2006 afin de pouvoir déposer des affidavits et interroger les souscripteurs d’affidavit de l’intimée. L’avocate de celle‑ci accède à cette demande.
+5 janvier 2006 – Les deux avocats consentent à ce que l’instance introduite par la requête de l’intimée se poursuive jusqu’au 31 mai 2006. (Pièce Q de l’affidavit de Lynn Burch daté du 27 février 2006.)
+30 janvier et 27 février 2006 – Les présentes requêtes sont déposées par les parties.
+5 décembre 2006 – La requête de l’intimée qui a été signifiée le 22 novembre 2004 est instruite et rejetée.
+6 décembre 2006 – Les présentes requêtes sont instruites.
+[4] La Cour estime qu’en exécution de l’accord conclu par les deux avocats le 5 octobre 2004, ceux‑ci ont continué à communiquer entre eux au sujet de leurs multiples instances. Par la correspondance qu’ils ont entretenue ensemble, leurs communications téléphoniques, leurs négociations et leurs actions, ils ont implicitement convenu de prolonger le délai imparti à l’intimée pour le dépôt de sa réponse à l’avis d’appel jusqu’à ce que la Cour canadienne de l’impôt statue sur sa requête visant à obtenir le rejet de l’appel. S’ils avaient réglé leur litige comme l’avait proposé l’avocat de l’appelant le 23 novembre 2004 et le 20 mai 2005, aucune réponse n’aurait été nécessaire. Si la Cour rejetait l’avis de requête de l’intimée, comme elle l’a fait le 5 décembre 2006, la réponse devrait être rédigée d’une façon différente de ce qu’elle serait autrement, et l’appelant pourrait vouloir modifier son avis d’appel. Comme ils étaient expérimentés, les avocats des deux parties le savaient. De l’avis de la Cour, en venir à une conclusion différente reviendrait à nier les faits exposés et indiquerait que les avocats d’une ou des deux parties se sont livrés à des pratiques peu scrupuleuses.
+[5] Il ressort de la preuve portée à la connaissance de la Cour que :
+1. Pendant toute la période pertinente, l’intimée avait l’intention de signifier et de déposer une réponse, mais les deux parties espéraient réduire les frais de justice en s’occupant des requêtes appropriées ou de la décision de la Cour d’appel fédérale de la façon qui soit la plus raisonnable et économique possible.
+2. La demande de l’intimée est valable en droit dans les circonstances du présent appel.
+3. Ce délai ne cause pas préjudice à l’appelant. Au contraire, l’approche de l’intimée a été plus économique pour lui que si la réponse avait été déposée dans de plus brefs délais.
+4. Il y a une explication raisonnable pour le délai : l’attente de la décision de la Cour d’appel fédérale, qui portait essentiellement sur des questions identiques à celles en litige, et le fait de permettre à l’avocat de l’appelant de mettre en œuvre ses mesures à l’encontre de la requête en rejet d’appel déposée par l’intimée sur laquelle a statué la Cour le 5 décembre 2006.
+[6] La requête déposée par l’appelant le 30 janvier 2006 est rejetée pour les motifs énoncés précédemment.
+[7] La requête déposée par l’intimée le 26 février 2006 est accueillie, et le délai qui lui est imparti pour le dépôt et la signification d’une réponse à l’avis d’appel de l’appelant est prolongé jusqu’à 30 jours suivant la date de la présente ordonnance.
+[8] Aucuns frais ne sont alloués aux deux parties relativement aux présentes requêtes et aucuns frais ne seront taxés pour celles‑ci quelle que soit l’issue de la présente action.
+Signé à Vancouver (Colombie‑Britannique), ce 8e jour de décembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 25e jour de janvier 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI675
+Nº DU DOSSIER DE LA COUR : 2004-3495(IT)G
+INTITULÉ : James Walker c. La Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 6 décembre 2006
+MOTIFS DES ORDONNANCES : L’honorable juge D.W. Beaubier
+DATE DES ORDONNANCES : Le 8 décembre 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Thomas M. Boddez
+Avocate de l’intimée :
+Me Linda Bell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Thomas M. Boddez
+Cabinet : Thorsteinssons LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

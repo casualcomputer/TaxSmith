@@ -1,0 +1,150 @@
+Title: Stigen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27107/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-299-27107-stigen-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-25
+
+# Stigen v. The Queen
+
+- Citation: 2006 CCI 299
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 926, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stigen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-25
+Référence neutre
+2006 CCI 299
+Numéro de dossier
+2004-2163(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2163(IT)G
+ENTRE :
+TARA STIGEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 28 avril 2006, à Edmonton (Alberta)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocate de l'appelante :
+Me Cheryl Gibson
+Avocate de l'intimée :
+Me Julia Parker
+Avocat de la société Peace Hills Trust :
+Me Theodore Bossé, c.r.
+ORDONNANCE
+Vu la requête de l'intimée afin d'obtenir une ordonnance en vertu de l'article 99 des Règles de la Cour canadienne de l'impôt (procédure générale) qui accorde à l'intimée l'autorisation d'interroger au préalable un tiers au présent appel, soit Gerry T. Kinsella ou tout représentant bien informé de la société Peace Hills Trust;
+Et vu les observations des avocats et vu les documents déposés par les parties;
+Il est ordonné, selon les motifs de l'ordonnance ci-joints, que :
+1. l'intimée et l'appelante se voient accorder l'autorisation d'interroger au préalable Gerry T. Kinsella en qualité de représentant de la société Peace Hills Trust;
+2. l'intimée doit payer les frais et les dépenses de M. Kinsella selon les Règles de la Cour canadienne de l'impôt (procédure générale);
+3. l'intimée supportera les dépens de la présente requête.
+Signé à Ottawa, Canada, ce 25e jour de mai 2006.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de juin 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI299
+Date : 20060525
+Dossier : 2004-2163(IT)G
+ENTRE :
+TARA STIGEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge Sheridan
+[1] L'intimée demande une ordonnance conformément à l'article 99 des Règles de la Cour canadienne de l'impôt (procédure générale) qui lui accorde l'autorisation d'interroger au préalable un tiers au présent appel, soit Gerry T. Kinsella ou tout représentant bien informé de la société Peace Hills Trust. Les paragraphes 99(1) et (2) des Règles de la Cour canadienne de l'impôt (procédure générale) disposent :
+99(1) La Cour peut accorder, à des conditions appropriées, notamment quant aux dépens, l'autorisation d'interroger au préalable une personne, à l'exception d'un expert engagé en prévision d'un litige ou en instance par une partie, ou en son nom, si elle a des raisons de croire que cette personne possède des renseignements pertinents sur une question importante en litige.
+(2) La Cour n'accorde l'autorisation selon le paragraphe (1) que si elle est convaincue :
+a) que le requérant n'a pas été en mesure d'obtenir ce renseignement de l'une des personnes qu'il a le droit d'interroger au préalable ou de la personne qu'il désire interroger;
+b) qu'il est injuste d'exiger que l'instance soit instruite sans que le requérant de la requête ait la possibilité d'interroger cette personne;
+c) que l'interrogatoire n'aura pas pour effet, selon le cas :
+(i) de retarder indûment le début de l'instruction de l'instance,
+(ii) d'entraîner des dépenses injustifiées pour les autres parties,
+(iii) de causer une injustice à la personne que le requérant désire interroger.
+[2] L'appelante ne prend pas position à l'égard de la requête, mais souhaite que si une ordonnance est accordée, on l'autorise aussi à interroger le représentant de la société Peace Hills Trust.
+[3] L'avocat de la tierce partie, la société Peace Hills Trust, s'est opposé à l'octroi de l'ordonnance au motif que tout renseignement que la société Peace Hills Trust peut fournir n'est pas pertinent et que cette société devra consacrer du temps et de l'argent de façon inutile à l'exécution d'une telle ordonnance.
+[4] Les motifs de la requête de l'intimée sont :
+[TRADUCTION]
+a) La Peace Hills Trust possède des renseignements pertinents sur une question importante en litige;
+b) L'intimée n'a pas été en mesure d'obtenir ce renseignement de l'appelante;
+c) L'intimée n'a pas été en mesure d'obtenir ce renseignement de la Peace Hills Trust;
+d) Gerry T. Kinsella est bien informé au regard des renseignements pertinents sur la question importante en litige susmentionnée;
+e) Il serait injuste d'exiger que l'instance soit instruite sans que l'intimée ait la possibilité d'interroger Gerry T. Kinsella ou tout représentant bien informé de la Peace Hills Trust.
+[5] L'intimée a la charge de satisfaire au critère préliminaire au paragraphe 99(1) et au critère au paragraphe 99(2) des Règles de la Cour canadienne de l'impôt (procédure générale).
+Paragraphe 99(1) : La pertinence
+[6] L'appelante est une Indienne selon la Loi sur les Indiens. La question qui se pose dans le présent appel est de savoir si les revenus d'intérêts rapportés par l'argent que l'appelante a investi dans la société Peace Hills Trust sont exemptés de taxation selon l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu et l'alinéa 87(1)a) de la Loi sur les Indiens.
+[7] L'arrêt de principe sur cette question est l'affaire Recalma c. Canada, no A-571-96, 27 mars 1998, [1998] A.C.F. no 433, dans laquelle la Cour d'appel fédérale a énoncé les « facteurs de rattachement » dont on doit tenir compte lorsqu'on doit trancher cette question :
+a) la résidence des appelants;
+b) la source ou l'emplacement du capital utilisé pour acheter les valeurs mobilières;
+c) l'emplacement de la succursale bancaire où les valeurs mobilières ont été achetées;
+d) l'endroit où le revenu de placement est utilisé;
+e) l'emplacement des instruments de placement;
+f) l'endroit où le revenu de placement est versé;
+g) la nature des valeurs mobilières, et en particulier :
+(i) le lieu de résidence de l'émetteur;
+(ii) l'endroit où l'émetteur exerce l'activité qui engendre un revenu et donne lieu au placement;
+(iii) l'emplacement du bien de l'émetteur qui, en cas de défaut, pourrait faire l'objet d'une saisie[1].
+[8] L'avocat de la société Peace Hills Trust a soulevé la question de la pertinence selon le critère[2] de l' « injustice » en alléguant que le « manque de pertinence » de tout renseignement que sa cliente pourrait fournir rend l'ordonnance prévue à l'article 99 intrinsèquement injuste. Pour soutenir son point de vue, il a résumé devant la Cour certaines dispositions légales qui, selon lui, font de la société Peace Hills Trust une « société de fiducie » plutôt qu'une « institution financière » au sens de l'arrêt Recalma. Il s'ensuit que le critère des « facteurs de rattachement » ne s'applique pas au présent appel et donc que les renseignements sur les activités de la société ne sont pas pertinents. Toutefois, il me semble que les allégations qui fondent les arguments de Me Bossé sont révélatrices du type de renseignements qui manquent dans le présent appel. L'interrogatoire d'un représentant bien informé de la société Peace Hills Trust pourrait révéler, comme il le suggère, que ses activités ne font pas partie du « marché ordinaire » , mais on ne peut pas tirer une telle conclusion avant que les activités de la société ne soient connues. De tels renseignements sont très importants dans le cadre de l'enquête afin de savoir si les revenus d'investissement étaient « situés sur une réserve » selon le critère de l'affaire Recalma. J'ai la conviction que l'intimée a établi que les renseignements relatifs aux activités de la société Peace Hills Trust eu égard aux investissements de l'appelante sont pertinents dans le présent appel.
+Paragraphe 99(2) : Les critères pour accorder une ordonnance
+[9] Le paragraphe 99(2) dispose que la Cour n'accorde l'autorisation d'interroger que si elle est convaincue que les critères des alinéas a) à c) ont été remplis.
+[10] Selon l'alinéa 99(2)a), l'intimée doit démontrer que « le requérant n'a pas été en mesure d'obtenir ce renseignement de l'une des personnes qu'il a le droit d'interroger au préalable ou de la personne qu'il désire interroger » . Lors de l'interrogatoire préalable, l'intimée a longuement interrogé l'appelante afin de savoir ce que la société Peace Hills Trust avait fait de son argent après qu'elle le lui avait confié pour que la société l'investisse. Au vu de ses réponses[3], il apparaît clairement qu'elle n'avait aucune connaissance personnelle des activités de la société Peace Hills Trust. Le seul lien qu'elle a avec la société Peace Hills Trust est d'être une cliente. Il s'ensuit qu'elle n'était et n'est toujours pas en mesure de fournir des détails sur les allégations faites dans le cadre du présent appel. En ce qui concerne la partie que l'intimée veut interroger, la société Peace Hills Trust, par le biais de son avocat, a reconnu que lorsqu'on lui a demandé de répondre aux questions posées à l'appelante[4], elle a refusé et continue de refuser d'y répondre. M. Kinsella a des connaissances sur les activités de la société Peace Hills Trust.
+[11] Selon l'alinéa 99(2)b), l'intimée a la charge de démonter qu'il est injuste d'exiger que l'instance soit instruite sans qu'elle ait la possibilité d'interroger la société Peace Hills Trust. La façon dont la société Peace Hills Trust a investi l'argent de l'appelante pour générer des revenus est au coeur de la question qui fait l'objet du présent appel : le ministre a présumé que les revenus d'intérêts avaient leur origine dans le « marché ordinaire » , alors que l'appelante estime qu'ils proviennent des Premières nations. Sans renseignement pour sous-tendre leurs plaidoiries respectives, les parties ne sont pas en mesure d'énoncer les faits qui fondent leurs demandes. J'accueille également l'argument de l'avocate de l'intimée selon lequel les renseignements à obtenir de la société Peace Hills Trust vont probablement nécessiter une analyse d'expert pour être parfaitement compris. À mon avis, ni l'intimée, ni l'appelante ne seront en mesure de se préparer adéquatement pour le procès jusqu'à ce que chacune tire avantage des renseignements qui sont en la seule possession de la société Peace Hills Trust.
+[12] Pour se conformer à l'alinéa 99(2)c), l'intimée doit convaincre la Cour que l'interrogatoire préalable n'aura pas pour effet de retarder indûment le début de l'instruction de l'instance, d'entraîner des dépenses injustifiées pour l'appelante, ou de causer une injustice à la société Peace Hills Trust. Les deux premiers critères sont facilement satisfaits puisque aucune date d'audience n'a été fixée pour le présent appel; en fait, les deux parties ont jusqu'au 30 juin 2006 pour donner un rapport sur l'état du dossier. En ce qui a trait au deuxième point, à la suite d'une ordonnance de la présente Cour datée du 30 mars 2005, l'intimée paye les dépens de l'appelante pendant toute la durée du présent appel.
+[13] Pour ce qui est de la question de l'injustice envers la société Peace Hills Trust, son avocat a soutenu (en plus de la question de la « pertinence » susmentionnée) qu'exiger d'un représentant de la société Peace Hills Trust de témoigner mettrait la société dans [TRADUCTION] « un grand embarras et entraînerait de coûteuses dépenses » . D'après l'avocat, la société Peace Hills Trust connaît bien ces deux désagréments, puisqu'elle est passée par ce processus auparavant. Dans ce cas, elle a consenti à être interrogée comme une tierce partie. Bien que j'aie de l'empathie pour sa réticence à être incluse dans une affaire où elle n'a pas de qualité pour agir, dans les circonstances du présent appel, les difficultés et les dépenses que cela pourrait occasionner ne constituent pas une injustice au sens du sous-alinéa 99(2)c)(iii). Étant donné que la société Peace Hills Trust connaît bien le genre de renseignements qu'on recherchera vraisemblablement, une grande partie du travail préliminaire a sans doute déjà été faite. En ce qui a trait à la recherche et à la divulgation des détails des investissements de l'appelante, de tels renseignements sont indispensables à la résolution des questions en cause dans le présent appel et, quoi qu'il en soit, il ne s'agit pas d'une obligation trop lourde à imposer à la société Peace Hills Trust par rapport à l'un de ses clients. À mon avis, l'obligation de fournir aux parties, avant le début du procès, les renseignements que seule la société Peace Hills Trust possède compense toute injustice causée à la société Peace Hills Trust.
+[14] Pour toutes ces raisons, je suis convaincue que l'intimée a satisfait au fardeau à l'article 99 des Règles de la Cour canadienne de l'impôt (procédure générale). Il est donc ordonné que :
+1. l'intimée et l'appelante se voient accorder l'autorisation d'interroger au préalable Gerry T. Kinsella en sa qualité de représentant de la société Peace Hills Trust;
+2. l'intimée doit payer les frais et les dépenses de M. Kinsella selon les dispositions des Règles de la Cour canadienne de l'impôt (procédure générale);
+3. l'intimée supportera les dépens de la présente requête.
+Signé à Ottawa, Canada, ce 25e jour de mai 2006.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de juin 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI299
+N ° DU DOSSIER DE LA COUR : 2004-2163(IT)G
+INTITULÉ DE LA CAUSE : TARA STIGEN ET LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L'AUDIENCE : le 28 avril 2006
+MOTIFS DE L'ORDONNANCE PAR : l'honorable juge G. Sheridan
+DATE DE L'ORDONNANCE : le 25 mai 2006
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Cheryl Gibson
+Avocate de l'intimée :
+Me Julia Parker
+Avocat de la société Peace Hills Trust :
+Me Theodore Bossé, c.r.
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Cheryl Gibson
+Étude : Fraser Milner Casgrain s.e.n.c.r.l.
+Edmonton (Alberta)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Recalma c. La Reine, no 94-1971(IT)G, 17 juin 1996 (C.C.I.), au paragraphe 17.
+[2] Sous-alinéa 99(2)c)iii)
+[3] Pièce « G » de la déclaration sous serment de Linda Plitt.
+[4] Comme enregistré dans les pièces « A » à « F » de la déclaration sous serment de Linda Plitt.

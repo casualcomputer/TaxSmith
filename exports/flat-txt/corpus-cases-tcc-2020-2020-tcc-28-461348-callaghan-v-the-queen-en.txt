@@ -1,0 +1,344 @@
+Title: Callaghan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/461348/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-28-461348-callaghan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-02-11
+
+# Callaghan v. The Queen
+
+- Citation: 2020 TCC 28
+- Decision date: 2020-02-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4262, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callaghan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-02-11
+Neutral citation
+2020 TCC 28
+File numbers
+2017-5026(IT)I, 2017-5027(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-5026(IT)I
+BETWEEN:
+MICHAEL CALLAGHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 25, 2019, at London, Ontario. Written submissions received on or about March 19, 2019, April 18, 2019 and May 2, 2019.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Sean C. Flaherty
+Counsel for the Respondent:
+Dustin Kenall
+JUDGMENT
+The appeals with respect to the 2008, 2009, 2010, 2011, 2012, 2013 and 2014 taxation years are allowed in accordance with the attached reasons for judgment and
+a) the 2008, 2009, 2010 and 2011 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that the income is to be assessed as filed;
+b) the gross negligence penalties in all years are to be vacated;
+c) the 2012 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $6,500 and the revenues of the business are to be increased by $625;
+d) the 2013 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $8,000 and the revenues of the business are to be increased by $1,200 and
+e) the 2014 taxation year taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $6,500, the expenses are to be further decreased by applying the half-year rule to the new class 10 asset acquired in 2014 and shown as having an undepreciated capital cost of $77,159 in the tax returns and the revenues of the business are to be increased by $14,195.
+If the parties are unable to agree on costs prior to April 1, 2020, they may make submissions in writing to the Court on the matter of costs no later than May 1, 2020. [1]
+Signed at Ottawa, Canada, this 11th day of February 2020.
+“G. Jorré”
+Jorré D.J.
+Docket: 2017-5027(IT)I
+BETWEEN:
+BARBARA VAN RASSEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 25, 2019, at London, Ontario. Written submissions received on or about March 19, 2019, April 18, 2019 and May 2, 2019.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Sean C. Flaherty
+Counsel for the Respondent:
+Dustin Kenall
+JUDGMENT
+The appeals with respect to the 2008, 2009, 2010, 2011, 2012, 2013 and 2014 taxation years are allowed in accordance with the attached reasons for judgment and
+a) the 2008, 2009, 2010 and 2011 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that the income is to be assessed as filed;
+b) the gross negligence penalties in all years are to be vacated;
+c) the 2012 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $6,500 and the revenues of the business are to be increased by $625;
+f) the 2013 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $8,000 and the revenues of the business are to be increased by $1,200 and
+g) the 2014 taxation year taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $6,500, the expenses are to be further decreased by applying the half-year rule to the new class 10 asset acquired in 2014 and shown as having an undepreciated capital cost of $77,159 in the tax returns and the revenues of the business are to be increased by $14,195.
+If the parties are unable to agree on costs prior to April 1, 2020, they may make submissions in writing to the Court on the matter of costs no later than May 1, 2020. [2]
+Signed at Ottawa, Canada, this 11th day of February 2020.
+“G. Jorré”
+Jorré D.J.
+Citation: 2020 TCC 28
+Date: 2020 02 11
+Docket: 2017-5026(IT)I
+BETWEEN:
+MICHAEL CALLAGHAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2017-5027(IT)I
+AND BETWEEN:
+BARBARA VAN RASSEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré D.J.
+I. INTRODUCTION
+[1] During the 2008 to 2014 taxation years the Appellant’s claimed business losses in relation to a partnership. The Minister denied the losses.
+[2] The core issue in this appeal is whether or not the Appellant’s had a source of income, a business, during the years an issue or during some of the years an issue [3] .
+[3] There are also issues as to:
+i) whether the Minister of National revenue met the conditions necessary to validly reassess the 2008 to 2011 taxation years after the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Income Tax Act and, as well,
+ii) whether the Minister was justified in imposing what are commonly referred to as gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act.
+[4] The Appellants are married and during the years in issue both Appellants were employed on a full-time basis.
+[5] In filing their T1 tax returns for the tax years in issue as well as the following three tax years, the Appellants' reported a business with gross revenue, expenses and net losses as set out in the table below:
+Year
+$ Gross income
+$ Expenses
+$ Net Loss
+2008
+0
+(34,548)
+(34,548)
+2009
+11,997
+(51,875)
+(39,878)
+2010
+250
+(51,292)
+(51,042)
+2011
+8,906
+(64,636)
+(55,730)
+2012
+2,770
+(55,644)
+(52,874)
+2013
+12,214
+(61,906)
+(49,692)
+2014
+7,711
+(69,269)
+(61,558)
+2015
+27,658
+(65,321)
+(37,663)
+2016
+10,594
+(41,158)
+(30,564)
+2017
+161,161
+(161,161)
+0
+[6] The sum of the losses from 2008 to 2014, inclusive, is approximately $345,000. The sum of the losses from 2008 to 2017, inclusive, is approximately $413,000.
+[7] However, this understates the amount of the losses because over the years the Appellants reported significant business use of home expenses none of which were deducted prior to 2017 [4] . Under the provisions of the Act, business use of the home expenses cannot be used to increase a loss. However, such expenses can be carried forward and used in a future year; one might refer to these as deferred expenses.
+[8] For example, in 2014 the business use of the home expenses shown were $15,720; if those were included, the expenses claimed for the year would be $84,989 and the loss would be $77,278. The cumulative loss for the period from 2008 to 2014 inclusive would be about $440,000 if one considered the business use of the home expenses.
+[9] The Appellants' tax returns as of the end of the 2017 taxation year show an amount of $103,860 of deferred expenses for business use of the home available to be carried to future years. Adding these expenses to the cumulative losses claimed, the actual cumulative losses of the business from 2008 to 2017 would be about $517,000 [5] or, put differently, about half a million dollars over a ten year period.
+[10] Each of the Appellants' claimed 50% of the losses shown in the table above against their other income on the basis that they each had a one-half interest in the business.
+II. FACTS AND ANALYSIS
+[11] The evidence consisted of a large number of documents and both Appellants testified. However, almost all of the testimony was given by Mr. Callaghan. This appeal was under the informal procedure.
+[12] In 2007, Ms. Van Rassel entered Mr. Callaghan into a national chili recipe contest without telling him. Mr. Callaghan subsequently found out when he was selected to be a contestant. The top 10 recipes were selected and the top three received a trip to Toronto to participate in a live competition. Mr. Callaghan won.
+[13] This led to the Appellants discussing in 2008 how they could go forward from the competitive experience they had just had and create some sort of related business which would be very profitable when they retired. However, they did not plan to open a restaurant or a food truck.
+[14] In the course of these discussions, at some point, Mr. Callaghan said to Ms. Van Rassel “I want to do this”. She said that they were not going to go into debt to do this, they would have to only spend what they can afford; he would have to sell his boat and give up his hobby of boating. He then sold the boat.
+[15] Mr. Callaghan testified that they saw a great deal of interest in food around them with the Food Network, websites on the Internet, cookbooks and various food events. He testified that they developed a plan to create a business related to the growing world of food sports.
+[16] The core idea was to build up a brand or reputation associated with the brand and/or himself. Once that was built up, they could start monetizing the reputation created in various ways. I will refer to the business as the Black Pig BBQ, although at times it operated under other names as well.
+[17] He explained that because they were working and they had to work with their own funds they expected that the business would only develop gradually and they expected it to take many years to become profitable.
+[18] To corroborate this plan the Appellants produced the business model at tab 13 of exhibit J-1. The document indicates that the general plan was to create a well-known brand or a well-known personality so that the business could then derive income from a variety of sources including being a media celebrity host, brand ambassador, book deals, product endorsements, having a product line, being an event coordinator consultant, doing special event catering and being a celebrity chef.
+[19] Mr. Callaghan explained that the document produced was an evergreen document that was updated every year. The version in evidence was, given one of the statements on the last page, produced no later than 2015.
+[20] Unfortunately, the original version was not produced. Based on the evidence as a whole it is reasonable to infer that the Mr. Callaghan was quite enthusiastic and had plenty of ideas that had to be tried in practice with the result that the Appellants’ plan evolved over time and may have looked different at the start.
+[21] The T-2125 form attached to the return simply has the description “services” and puts in the industry code 512110 which in the T4002 guide, depending on the year, is for “film or video production services” or “motion picture and video production”. This is clearly an error. On April 29, 2009 when Mr. Callaghan registered the business with the province of Ontario the business activity was described as food recipe development and in May 2017 when the business was again registered, the business activity was described as food service [6] .
+[22] The operation the Appellants developed was unincorporated and belonged equally to the two Appellants.
+[23] Mr. Callaghan has a long-standing interest in food and prior to the start of the Black Pig BBQ had a hobby relating to cured meats and charcuterie.
+[24] To start Mr. Callaghan traded training with others. He provided training in charcuterie and sausage making in return for barbecue training. He took certain cooking classes from subject matter experts. He also took writing courses, media courses and a photography course so he could take better pictures of food.
+[25] Early on there also seems to be a lot of effort put on developing an Internet site with recipes and photos of the food [7] . Later around 2012, they stopped putting much effort into the Internet site.
+[26] Mr. Callaghan was to be the visible person of the business, do the cooking, do the photography and produce the videos. Ms. Van Rassel was to do logistics, set up, organization, administration and bookkeeping.
+[27] Throughout the period under appeal and still at the time of the hearing the Appellants both worked full-time. Ms. Van Rassel works as an organ donation coordinator. Mr. Callaghan works at the office of the Superintendent of bankruptcy; at an earlier point in time, prior to the years in issue he worked at the Canada Revenue Agency. He has a bachelor in business administration with finance and economics as majors and computer science as a minor. He has also taken some individual courses in accounting.
+[28] The Appellants are spouses and the Black Pig BBQ was operated from their home. The Appellants have four children; the children left home to attend university at different times in the period between 2007 and 2012 [8] .
+[29] As mentioned above, over the course of the evidence it became clear that in some of the years in issue there should be some corrections to the gross revenue figures. I will deal with some of those corrections later. Those corrections however do not change the broad picture of what happened during the tax years before me.
+[30] During the years 2008 to 2014 there are very low gross revenues; indeed in 2008 there is no gross revenue at all and in 2010 the revenue is trivial (the return shows no sales but $250 of other income).
+[31] In 2009, the gross revenues of $11,997 reported appear to derive entirely from running a competition on behalf of the Canadian Southern BBQ Association; after deducting the direct costs including $10,000 for prizes the tax return for the year shows a gross loss of $865. This is before all the other costs deducted. It appears that in 2009 the Appellants attended at least one competition where the Appellant became Canadian National Chili Champion.
+[32] In 2011, the tax return reports gross income consisting of $6,906 in sales and $2,000 in other income.
+[33] In 2012, the tax return reports gross revenues of $2,770 from sales and no other revenues with a gross loss of $8,322 before any of the other expenses. However, the invoices presented at trial for 2012 sales show the gross sales as being $625 higher than the reported sales [9] .
+[34] In 2013, the return shows $3864 in sales and $8350 in sponsorships constituting the gross income of $12,214. When one looks at the invoices presented at tab 21 of exhibit A-1 and adds them up the gross sales should be $1,200 higher; this seems to be the result of failing to include in sales the deposit of $1,200 in relation to invoice 10007 dated July 3, 2013 [10] .
+[35] The $7,711 in gross revenue shown in the 2014 tax return consists of sales of $4,961 and what is described as winnings of $2,750. The evidence provided shows 2014 total sales of $19,156 of which $10,500 are cash sponsorships. It would appear that the sponsorships were not included in the gross revenues it is not apparent to me that there is any reason for excluding them. [11] There are additional reasons why I have concluded that the sales are of $19,156. Together with winnings of $2,750 this produces total gross revenues in 2014 of $21,906 in that year. [12]
+[36] At the same time there are very significant expenses resulting in very large losses. Further, significant sums are claimed for business use of the home but these amounts are not deducted to further increase the claimed loss used to reduce other income. This is because the provisions of the Income Tax Act prevent such expenses from being used to further increase the loss; however, these amounts can be carried forward to future years and deducted against future net profits [13] .
+[37] Mr. Callaghan testified that one does not go to food competitions to make money from the competition itself; one is lucky if one breaks even when attending such competitions. [14]
+[38] He did win a number of prizes in competitions.
+[39] The Appellants also spent efforts developing recipes and tried to monetize these efforts. Mr. Callaghan testified that they had discussions with Schneiders regarding the original winning BBQ sauce. [15] In 2009, they were offered a lump sum of $50,000 for all the rights but turned it down because they thought they could eventually do better than that [16] . In 2012, they spent a lot of effort developing some products that could be sold. [17] They had discussions with Heinz Canada in 2014 but those discussions did not lead to an agreement. [18]
+[40] In the years an issue we have the following kinds of activities being carried out:
+Courses are attended, certain training is received in return for providing training in skills which Mr. Callaghan already has. Further, at least for a certain initial period, participation in competitions is also part of training and skills development.
+There is attendance at certain competitions, an activity which in itself is clearly not for profit but which, once the business starts, does contribute to building a reputation of the business and Mr. Callaghan.
+There are efforts to develop recipes.
+In some years, there is a certain amount of catering being done and in one year, a barbecue competition is run on behalf of the Canadian southern BBQ Association. I will come back to the 2014 taxation year.
+[41] When one looks at the costs and the revenues as reported during the seven tax years an issue in this case, 2008 to 2014 inclusive, even before all the other expenses, there is a gross loss or, in 2013, a small gross profit [19] .
+[42] Overall in the period these competitions and the catering together are generating revenues less than the marginal costs of these two activities [20] .
+[43] In 2017, there are sales of proposed sources, rubs and other proposed products. I can not find any indication in the evidence that these were such sales earlier than 2017. Mr. Callaghan testified about such sales but the date was not clear. [21]
+[44] It is useful at this point to review the key points in determining whether or not there is a source of income.
+[45] Section 3 of the Income Tax Act sets out the overall structure for determining the income of a taxpayer for a year. In subsection (a) it includes all positive income from each source of income of a taxpayer for the year including each office, employment, business and property. Later, in subsection (d) the Act allows for the deduction of the taxpayer’s losses from each office, employment, business and property in the computation of income. Taxable capital gains and taxable net gains from the sale of listed personal property are dealt with separately in subsection (b).
+[46] The approach to be applied in determining whether or not there is a source of income was set out by the Supreme Court of Canada in Stewart v. Canada [22] .
+[47] In simple terms, one must begin by assessing whether or not there is a personal or hobby element involved in the activity in question or whether it is clearly commercial.
+[48] Where the activity is clearly commercial there will be no need to analyze the taxpayer’s business decisions. The question of the deductibility of any particular expense is a separate question from the existence, or not, of a source.
+[49] However where there is a personal element then one must extend the source analysis further. One will have to determine whether the activity is undertaken in “pursuit of profit”. One will have to examine all relevant factors to determine whether the activity is undertaken in a sufficiently commercial manner to be considered a source of income.
+[50] There is no exhaustive list of factors to consider and the factors that are relevant may differ depending on the nature of the activity in question. Among the factors that are normally to be considered are the profit and loss experience of past years, the taxpayer’s training, the taxpayer’s intended course of action and the capability of the venture to show a profit. The Supreme Court emphasized that, while reasonable expectation of profit is a factor, it is not the only factor and it is not conclusive; the Court also emphasized that in making this assessment one should not second-guess the business judgment of the taxpayer.
+[51] It is clear here that there is a personal element to the activity; it is not clearly commercial. Mr. Callaghan had a pre-existing hobby related to a different kind of food preparation, some of the activity is enhancing both his and Ms. Van Rassel’s personal skills and knowledge and with the activity operating out of the family home there is a substantial intermingling of the activity with the personal lives of the Appellants.
+[52] It is accordingly necessary to engage in more extensive analysis of the circumstances here.
+[53] Somewhat earlier I described the activities carried it out in the period. Receiving training, attending courses and, up to a certain point, participation in competitions which also enhance the skill and know-how of the Appellants are clearly capital activities of the personal nature, much like education, that are not deductible [23] .
+[54] Participating in competitions, once an individual has a certain mastery is no longer like education but, on the evidence, it was not done for profit. It can be personal participation in a sport and/or building the reputation of the business and Mr. Callaghan. Reputation is a form of goodwill and building it, at least initially, is of a capital nature. Recipe development is also of a capital nature, at least initially.
+[55] The financially modest catering activity [24] in the years before me in some ways looks like a small scale business operation; on the other hand, unless modified to produce gross profits and scaled up considerably so as to be able to contribute significantly to the heavy overhead costs, it is not capable of generating net profits [25] . The proper way to characterize this activity is that it is essentially being carried out in the years before me for the purpose of building the reputation of the business and Mr. Callaghan with the intention of monetizing that reputation, at least up to a certain point in time. To the extent that this is the case, then this catering activity is of a capital nature as well.
+[56] It is clear from the evidence that there is eventually a business. The question is when.
+[57] In 2017, excluding HST the business reported gross revenues of $153,324 and a gross profit of $98,304. Taking account of business use of the home expenses in the year but before taking account of the deduction of any deferred business use of the home expenses the business showed a profit of over $10,000. [26]
+[58] More importantly, there was quite a lot of catering activity. Notably, in the eight day period from June 24 to July 1, 2017 the Appellant billed the Corporation of the city of Timmins, a company called Sword Security and the general public over $112,000, not including HST, for meals and snacks and coffee service. The city received about 1700 meals and eight days of coffee service. Sword Security received 635 meals and 567 small snacks; cash sales to the public were slightly less than $41,000 excluding HST. It would not be unreasonable to assume that, in total, this represents somewhere between 5000 and 6000 meals plus the small snacks and the coffee.
+[59] In 2018, the Appellants were paid $2,500 a day for appearing on a TV program called Fire Masters on two different days. In the same year a total of $3,000 was billed to a company called Olds Products in Wisconsin for being their international spokesperson, $6,255 to the Onward Manufacturing Company for a personal appearance, various cooking demonstrations and travel expenses including time and $1500 to a branch of Sun Life financial for demonstrations on party appetizers. Earlier, in 2017, two instructional classes together with food samples were billed to TEAM Financial Solutions; the two bills totaled over $900. These amounts do not include HST.
+[60] The Appellants suggested that the future is going to be much more profitable because the costs related to appearances and the like were much lower than those related to catering.
+[61] The evidence of the Appellants at the hearing was that there were reported sales in 2018 of $83,554. There was no evidence as to the expenses in 2018. The $83,000 of revenues represents a significant drop from the revenues in 2017 but is nonetheless much higher than that of all the years prior to 2017.
+[62] Going back to the kinds of considerations that Stewart [27] states are relevant: in 2017 the activities are carried on in a way that is businesslike; one cannot describe the eight days producing all those meals in Timmins as a personal activity.
+[63] Although it is impossible to know how matters will unfold in terms of future profitability, I have no doubt that what was going on in 2017 was a business, a source of income.
+[64] That leaves the question, when did it start?
+[65] At this point, I would note that, for reasons I shall explain below, it is not necessary for me to make a substantive conclusion as to whether or not the business had started prior to 2012. I will limit my analysis on this question to the 2012 to 2014 years.
+[66] I do not see any legal principle which inherently precludes a slow, gradual buildup to a business. Conceptually, there is nothing that would inherently require the rejection of the kind of gradual plan that the Appellant had. I note as well that Stewart directs that the question of the validity of the claimed expenses is to be dealt with as a separate matter.
+[67] However, in such circumstances, the business cannot include any periods which are essentially personal training and skills development of a capital nature. One must also carefully ensure that personal expenses are not deducted.
+[68] There are also important issues as to the treatment to be accorded, once a business has started, to the expenses incurred in creating the reputation of the business or person. I will come back to this.
+[69] One of the difficulties in this file is that while I accept in its broad outlines the evidence the evidence provided by Mr. Callaghan, there is a lack of detail in many areas that would be relevant and helpful to these issues. Also in some areas, the evidence is somewhat confusing. [28]
+[70] Prior to 2012, the Appellants had won a number of contests including: the one that set them on the course of action in issue here, the original chili contest; second-place ribs at an amateur contest in Paris, Ontario (2008); the Ontario Pork Congress Grande Champion (2008); best barbecue sauce in Canada (2008); second-place pork, first place Cook’s choice, first place sauce and second-place dessert at the Canadian open (2008); third-place best ribs in the world at the Jack Daniels world championship in Memphis (2010) and the best steak in the world, Cook’s choice, and best surf and turf in the world at the Jack Daniels world championship in Memphis (2011).
+[71] I am satisfied that any period which was one of essentially personal training and skill development which was a personal capital expenditure, like education, was over by the beginning of 2012.
+[72] I am also satisfied that the business, whatever the nature of its expenses and their quantum, had begun before 2017.
+[73] A number of activities in the years 2012 to 2014 were helping to build the 2017 year. The Appellants continued to win a number of prizes, they also obtained product endorsements in the form of other companies providing goods in kind in return for promotion by the Appellants; in 2014 they received cash endorsements. In those three years, they catered on a small scale in order to make contacts and get known. In addition in 2013 and 2014, they helped cater on a large scale at two events. Finally, in 2014 in Cochrane, Ontario, they were paid an appearance fee to come to the event and also to provide samples; separately they were paid for certain food items including 10 VIP dinners where they only charged for food costs to showcase what they could do. It is likely that what they did in Cochrane in 2014 played a role in their being able to contract to do all the catering they did at the eight day event in 2017.
+[74] I am satisfied that as of the beginning of 2012 the business was operating on a modest scale. [29]
+[75] Having reach that conclusion, I am not unmindful that the losses seem quite striking in the period in question. That leads to the question of the expenses and the characterization of the expenses.
+[76] Earlier, I mention the fact that building a brand or reputation, forms of goodwill, appear to be in the nature of the capital expense. Generally, subject to certain exceptions, capital expenditures are not deductible as they are incurred and, depending on their nature, may be deductible gradually or not at all.
+[77] It seems to me that there is a serious argument as to whether or not the expenditures on establishing that reputation would fall under the provisions for deducting eligible capital expenditures [30] of the Income Tax Act, is it then read [31] .
+[78] If there were such an argument there might well be subsidiary questions as to whether it applies to competition activities only or all the activities given that essentially the entire operation at that point is an operation to get known. Further, there would potentially be a question as to whether in each of the years 2012 to 2014 the reputation was established and was now simply being maintained, making the expenditures current.
+[79] The case was argued on whether or not there was a source of income and no such argument was raised. Given that it might require approaching the evidence differently and potentially presenting additional evidence, it would not be appropriate in the circumstances of this appeal to reopen the hearing. However, I raise the question because it may matter in some future dispute.
+[80] Accordingly, there was a source of income in 2012 to 2014 which incurred deductible expense and I now turn to the quantum of the expenses, which were in issue.
+[81] They seem very high. In the first year, taking account of all the expenses claimed to be business expenses including the business use of the home, there were claimed business expenses of over $45,000 including about 59% all the home expenses. In that year there are no revenues, they are just starting the activity setting up an internet site, attending some competitions and developing recipes. That level of expenditure is implausible.
+[82] In the subsequent years up to and including 2014 about 70% of the home use is claimed to be for business. The Appellants live in the house, the business is part-time and, although therefore children are away at University, the children no doubt visit from time to time. When questioned about this, the Appellant said that they had to use all kinds of rooms in the house to store things. He also said that a diagram of the house and its usage had been provided at earlier stages but no such diagram was entered into evidence. I also note that in 2016 the Appellants claimed only about 30% of the house is claimed to be for business use. Although there was testimony that at a later time the business rented storage space so they could move things out of the house, the receipts provided are for 2018 and showed that the earliest start date to a rental was in 2017. [32]
+[83] In 2014 part of the home expenses are $2,838 in landscaping costs of which 70% are treated as an expense for business use. I failed to see, on the evidence in front of me, how landscaping around the house could relate to the business.
+[84] However, given the loss limitation rules in the Income Tax Act it is in fact unnecessary for me to reach any conclusions with respect to those expenses because in the years I am dealing with none of those expenses were actually deducted against income and used to increase the loss.
+[85] The question of what the proper amount of those losses available for future years is remains open. As explained by Justice Lafleur [33] :
+I note the principle, referred to in certain cases as the “New St. James principle” (See, for instance, Sherway Centre Limited v The Queen, 2001 DTC 1021, [2001] TCJ No 751 (QL) (TCC)): the Minister is not prevented from challenging certain factual determinations with respect to a prior year in coming to a conclusion as to a taxpayer’s position in a given taxation year. As held by Chief Justice Bowman (as he then was) in discussing the New St. James principle (Coastal Construction & Excavating Ltd v R, [1996] 3 CTC 2845 at para 23, 97 DTC 26 (TCC), citing New St. James Ltd v MNR, [1966] CTC 305, 66 DTC 5241 (Ex. Ct.):
+Finally, the Appellant contends that because the Minister, in prior years, had treated the operation as a “facility” as defined in the RDIA he was not entitled to change the investment tax credit carry-forward from those admittedly statute‑barred years to affect the taxable income of a year that was not statute‑barred to conform to his view that the property was qualified and not certified. This interpretation would involve a conclusion that a determination of the balance of a carry-forward of investment tax credits for a statute-barred year was tantamount to an assessment. I do not read section 152 of the Income Tax Act as supporting such a conclusion. The Minister is obliged to assess in accordance with the law. If he assesses a prior year incorrectly and that year becomes statute-barred this will prevent his reassessing tax for that year, but it does not prevent his correcting the error in a year that is not statute-barred, even though it involves adjusting carry-forward balances from previous years, whether they be loss carry-forwards or balances of investment tax credits. New St. James Limited. v. M.N.R., 66 D.T.C. 5241; Allcann Wood Suppliers Inc. v. The Queen, 94 D.T.C. 1475. No question of estoppel arises: Goldstein v. The Queen, 96 D.T.C. 1029.
+[Emphasis added]
+Those comments were later cited with approval by Létourneau JA in Canada v Papiers Cascades Cabano Inc, 2006 FCA 419 at para 23, 2008 DTC 6264).
+[86] Turning to the remaining expenses, there are great difficulties. The hearing was largely focused on the question of whether a source of income existed or not and rather secondarily on the expenses.
+[87] I spent a great deal of time trying to follow the Appellants evidence with respect to expenses and see if I could reconcile it with the amounts claimed. The results were not satisfactory. While a voluminous exhibit, A-2, entitled “expense reports” was filed, I was not able to neatly reconcile those reports to the expenses claimed on the tax returns. I did sampling. Sometimes I was eventually able to find in A-2 the same number as on the return often using a different description in A-2 from that on the tax return form. In other cases I was unable to link apparent totals. Also given the way A-2 is set out, its not self evident how the contents of the different sub- tabs for each year relate to the summary tabs contents. The listing of expenses does not provide much detail of the expense. Usually, there is just the name of the vendor, the amount and the date. Sometimes there are notes which are often quite helpful. For example, at page 329 which is under a sub- tab relating to equipment one finds for most of the items the description, descriptions which clearly suggests that they have to do with equipment necessary for catering. On the other hand, the listing for meals generally provides no information additional information and the listing is not in chronological order. [34] There is no way of knowing if the meal is on a trip related to the business or simply an occasion where the Appellants went out to dinner. [35]
+[88] At times the software for these listings seems to have been used incorrectly. At page 286 in the summary of the listing there is an item “invoices” for $9,820 which is being added to total expenses listed of $114,000. However, it’s quite clear that these amounts are not expenses but are invoices from the Appellants to other parties seeking various payments. [36]
+[89] It also appears that some relatively low cost equipment purchases are being expensed when they should probably be depreciated. For example, a camera costing several hundred dollars appears to have simply been expensed.
+[90] It is quite clear to me that the Appellants would have to have incurred significant expenses in relation to the business in question. However, they appear to be unduly high in relation to the activities at the time.
+[91] Taking account of that and the fact that the CCA claims, subject to one correction in 2014, and the cost of goods claims appear to be reasonable, the business expenses claimed at line 9368 are to be reduced by $6,500 in 2012, $8,000 in 2013 and $6,500 in 2014.
+[92] The Minister assumed that the Appellant failed to apply the half-year rule with respect to the vehicle acquired in 2014 and the Appellant admitted that. When one looks at the CCA schedules for 2014 and 2013 that is clearly the asset which was not in the 2013 schedules and that is shown as having a cost of $77,159 and the beginning of the year. The 2014 taxation year is to be reassessed so as to apply the half year rule to the new asset costing $77,159.
+[93] Earlier in these reasons, I mentioned that sales were in fact somewhat higher than reported in 2012, 2013 and 2014. [37] These corrections will further reduce the losses by $625, $1200 and $14,195 in the 2012, 2013 and 2014 taxation years.
+[94] Earlier I stated that it was unnecessary for me to reach a conclusion as to whether or not there was a source of income in the 2008 to 2011 taxation years inclusively. The basis on which the Minister reassessed those years, years that are statute barred, is that there was a misrepresentation with respect to the existence of the business, the source of income.
+[95] I am satisfied that the Appellants genuinely believed that they were carrying on business together throughout the years 2008 to 2011. On this particular issue there are similarities with the situation before Justice Owen in the case of Salloum v. HMTQ. [38] Whether or not there was a misrepresentation, here as in Salloum, the mistake, if there was one, [it] “… stems from a not unreasonable mistake in judging when the business commenced.” [39] As in Salloum this is not a circumstance where the statute barred years can be reopened.
+[96] Accordingly, the appeal will be allowed with respect to the 2008 to 2011 taxation years.
+[97] The Minister assessed gross negligence penalties pursuant to subsection 163(2) of the Act with respect to all of the seven years in issue on the basis that there is no source of income. Gross negligence penalties can only be applied where a person knowingly, or under circumstances amounting to gross negligence has made or assented to the making of a false statement or an omission in a return. This is a higher standard than the standard allowing the reopening of statute barred years.
+[98] In the three years 2012, 2013 and 2014 there is a source of income and accordingly there is no false statement with respect to the existence of the source of income. As to the four earlier years, the approach in Salloum applies equally to the gross negligence penalties.
+[99] Accordingly, the assessments of the gross negligence penalties are to be deleted.
+III. CONCLUSION
+[100] To summarize, the appeals are allowed and
+i) the 2008, 2009, 2010 and 2011 taxation years are referred back to the Minister for reconsideration and reassessment on the basis that the income is to be assessed as filed;
+ii) the gross negligence penalties are to be deleted in all years;
+iii) the 2012 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $6,500 and the revenues of the business are to be increased by $625;
+iv) the 2013 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $8,000 and the revenues of the business are to be increased by $1,200 and
+v) the 2014 taxation year is referred back to the Minister for reconsideration and reassessment on the basis that:
+the expenses of the business are to be decreased by $6,500, the expenses are to be further decreased by applying the half-year rule to the new class 10 asset acquired in 2014 and shown as having an undepreciated capital cost of $77,159 in the tax returns and the revenues of the business are to be increased by $14,195.
+Signed at Ottawa, Canada, this 11th day of February 2020.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2020 TCC 28
+COURT FILE NO.:
+2017-5026(IT)I; 2017-5027(IT)I
+STYLE OF CAUSE:
+MICHAEL CALLAGHAN AND HER MAJESTY THE QUEEN; BARBARA VAN RASSEL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+January 25, 2019 (evidence)
+WRITTEN SUBMISSIONS RECEIVED ON OR ABOUT:
+March 19, 2019, April 18, 2019 and May 2, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+February 11, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Sean C. Flaherty
+Counsel for the Respondent:
+Dustin Kenall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Given that this appeal is under the Informal Procedure, the Informal Procedure rules govern the award of costs.
+[2] Given that this appeal is under the Informal Procedure, the Informal Procedure rules govern the award of costs.
+[3] There are also some secondary issues regarding expenses.
+[4] In 2017, the Appellants deducted $6,491 in available business use of the home losses resulting in no profit or loss.
+[5] The cumulative loss claimed is no doubt higher. While the 2007 tax return is not in evidence, the 2008 tax return shows quite a significant amount of deferred business use of home expenses carried forward from the prior year, an amount of over $19,000. That amount of about $19,000 is not included in the $517,000 total. The year 2007 is not before me but given that Mr. Callaghan testified that the business started in 2008, I do not see how there could be losses in 2007.
+[6] See tabs 15 and 16 of exhibit J-1.
+[7] See pages 32 to 36 of the transcript.
+[8] Unfortunately the testimony at page 219 of the transcript is somewhat unclear on the precise years.
+[9] See exhibits J-4, J-5 and J-6.
+[10] There is no explanation as to why nothing is shown for Invoices 2013-003 and 2013-006 in the listing of 2013 Invoices at Tab 8, page 86 of Exhibit A-1.
+[11] Unlike a sponsorship in-kind where it might be that one would simply make no claim for any cost in relation to the good or service supplied. See also page 175 of the transcript.
+[12] In evidence at tab 8 of exhibit A-1, page 85, there is a listing of all income for 2014. At tab 22 of exhibit J-1 there are sales invoices 1 to 7 for 2014. The listing lists invoices 1 to 8 which total $17,211 when one adds up both columns. However whereas the listing shows invoice number 6 as being for $369 the invoice shows it as being $869. In addition, with respect to invoice number 7, whereas the listing shows an amount of $1055, the invoice itself is for $2500. Presumably there was an error in transferring the amount from the invoice to the listing of sales. When the listing is corrected for those two errors the total sales become $19,156 to which one must add the winnings.
+[13] See paragraphs 18(12)(b) and (c) of the Act.
+[14] Page 47 of the Transcript.
+[15] See pages 42, 67 and 68 of the transcript.
+[16] The evidence did not disclose whether the offer was ever made in writing.
+[17] Transcript page 78.
+[18] The Appellant did not file any documents relating to the discussions with either Schneiders or Heinz although these is mention of these efforts in the “History of events” prepared by the Appellants sometime after 2017, see tab 14 of Exhibit A-1, the entries for 2008 and 2014. History of events is how this document is referred to in the Index of Exhibit A-1.
+[19] See line 8519 of the T-2125 forms filed with the tax returns. In 2008 there are no revenues and there is neither gross profit nor a gross loss.
+[20] The costs shown in calculating the gross loss or gross profit do not include transportation costs.
+[21] See page 105 of Tab 10 of Exhibit A-1.
+[22] 2002 SCC 46, paragraphs 48 to 60.
+[23] Once one reaches a certain level of proficiency in a particular area then maintaining those skills and extending them into closely related areas is of the current nature.
+[24] Financially modest in the following sense: many events were small but others involving a great many meals were clearly not being pursued for profit. For example, on June 12 and 13th, 2013 they helped cook 4000 meals together with volunteers for the Wilmot Area Life Donation Association, a charity; they brought their equipment and certain supplies and billed $1,935 for their contribution, less than $0.50 a meal; I should note that it would appear that someone else provided most of the food to be cooked, notably the ribs. This was also when, in Mr. Callaghan’s words, “they first cut their teeth on [a] large event”. Similarly, for the City of La Salle they went to an event where they cooked 4000 racks of ribs and build $1,000; as I understand it they did not provide the ribs themselves. Several of their invoices in the year are to the Canadian Southern BBQ Association where they would bill minimal amounts simply to be able to be there and make connections - see pages 97 and 98 of the transcript.
+[25] Scaling up a lot would take further efforts.
+[26] $12,983.71 minus $1,770.68 in business use of the home for the current years. I would note that, mathematically, the claimed carry over of business use of home expenses for future years of $103,860 at line 15 of Part 7 of the T2125 for 2017 is overstated by $6,491. This is because both Appellants claimed $6,491 at line 9945 of their return.
+[27] 2002 SCC 46.
+[28] For example, it was not always easy to follow Mr. Callaghan’s testimony regarding what competitions the Appellants entered into and when. The aide memoir, Exhibit A-1, tab 14, prepared after the years in issue helped with this but even then there is still a certain amount of confusion. For example at the top of the first page the goals identified for 2007 were things the Appellants decided upon in 2008 according to the Appellant’s testimony.
+[29] As I indicated above it is unnecessary for me to determine whether or not the business began earlier than that.
+[30] At least until the brand or reputation has been established to a certain level, at which point it may be that expenditures in relation to that reputation or brand are, arguably, expenditures to simply maintain the reputation and, as a consequence, current expenditures.
+[31] One must now look to class 14.1 of the capital cost allowance scheme.
+[32] See tabs 5, 6 and seven of exhibit A-1.
+[33] Atlantic Thermal Star Limited v. The Queen 2016 TCC 135 at paragraph 39.
+[34] See for example, page 291 of the exhibit.
+[35] While some listings are marked as personal; there are many other listings which are not marked personal but where there is nothing to clearly indicate what it is and therefore how it should be characterized. A good example is the meal expenses which I already referred to. There are some fuel expenses which are not marked as personal but which have the annotation “mom” or “dad”. There were also no mileage log books filed which would have been helpful not only for the purpose of judging the proportion of business use of vehicles but also in relation to competition events and catering events and when exactly they occurred.
+[36] See page 379 of the same exhibit and also tab 13 of exhibit J-1 where one sees a number of the actual invoices.
+[37] See paragraphs 33 to 35 above.
+[38] 2014 TCC 366 at paragraphs 47 to 57, especially paragraph 56. The case subsequently went to the federal Court of Appeal which dismissed the appeal: 2016 FCA 85.
+[39] Salloum paragraph 56.

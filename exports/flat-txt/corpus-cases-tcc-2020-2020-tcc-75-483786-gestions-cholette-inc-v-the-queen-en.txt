@@ -1,0 +1,235 @@
+Title: Gestions Cholette Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483786/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-75-483786-gestions-cholette-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-12
+
+# Gestions Cholette Inc. v. The Queen
+
+- Citation: 2020 TCC 75
+- Decision date: 2020-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4549, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestions Cholette Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-12
+Neutral citation
+2020 TCC 75
+File numbers
+2017-4468(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-4468(IT)G
+BETWEEN:
+GESTIONS CHOLETTE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 12 and 13, 2019, at Montreal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Dominic C. Belley
+Counsel for the respondent:
+Anne Poirier
+JUDGMENT
+The appeal from the reassessment dated October 25, 2017, for the appellant's taxation year ended August 31, 2010, is dismissed, with costs to the respondent, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 12th day of August, 2020.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 18th day of November 2020.
+François Brunet, Revisor
+Citation: 2020 TCC 75
+Date: 20200812
+Docket: 2017-4468(IT)G
+BETWEEN:
+GESTIONS CHOLETTE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment established under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the Act), by the Minister of National Revenue (the Minister), and dated October 25, 2017, with regard to the appellant's taxation year ended August 31, 2010.
+[2] Under the October 25, 2017, reassessment, the Minister, based on subsection 82(1) of the Act, confirmed the addition of an amount of $920,700 in the computation of the appellant's income. She also cancelled the penalty under subsection 163(2) of the Act and applied losses other than capital losses in the amount of $186,729 from the 2013 taxation year.
+[3] The amount of $920,700 represents dividends that the appellant received from subsidiaries and associated corporations during the 2010 taxation year.
+[4] The dividends at issue in paragraph 3 are as follows:
+Payers
+Amounts
+Construction Cholette–Houde Inc.
+$65,000
+Construction Cholette 2005 Inc.
+$340,000
+Construction Cholette et associées Inc.
+$220,000
+Construction Cholette Lefebvre Inc.
+$260,700
+9185-0156 Québec Inc.
+$5,000
+Total =
+$920,700
+[5] For its 2010 taxation year, the appellant failed to add to its income the total taxable dividends received during the year (in the amount of $920,700) and claimed the deduction of this amount under subsection 112(1) of the Act, thereby causing the taxable income of the same amount to be understated.
+[6] The October 25, 2017, reassessment replaces the March 17, 2016, reassessment whereby the Minister added the unreported dividend of $920,700 in the appellant's income for the 2010 taxation year and imposed on this amount the penalty provided for in subsection 163(2) of the Act.
+[7] The Minister did not establish the March 17, 2016, and October 25, 2017, reassessments during the normal reassessment period.
+Issue
+[8] The only issue consists in determining whether the Minister correctly established the October 25, 2017, reassessment of the appellant for its 2010 taxation year even though the normal reassessment period had expired.
+Testimony
+Michel Cholette
+[9] Michel Cholette testified at the hearing. Mr. Cholette has a degree in business (accounting) from Hautes Études Commerciales de Montréal and, after a stint as chief financial officer at Noranda, became involved in rental building construction and condominium construction. He was provincial president of the Association des professionnels de la construction et de l'habitation du Québec (the APCHQ) and sat on that organization's Board of Directors.
+[10] Mr. Cholette runs his construction company under the name "Le Groupe Cholette." He incorporated the appellant on April 3, 1990, under the Quebec Business Corporations Act. He is the appellant's sole director.
+[11] The particularity of how Mr. Cholette operates is that he carries out projects in association with local or regional contractors, financiers, or large landowners, and through creating different entities for each project. Gestions Cholette Inc. handles all aspects of the projects, from land purchase, financing, construction, administrative management, advertising, sales, and after-sales service. All employees assigned to the projects work for Gestions Cholette Inc.
+[12] For its services, the appellant bills entities management fees of 3.5% of gross sales and 1% of advertising costs.
+[13] In 2010, the appellant's sales figures were over $100 million and it had about 100 employees, 20 in finance and accounting and personnel management and 15 in architecture, urban planning, and after-sales service. In 2010, the appellant managed 18 to 20 projects for the construction of about 400 doors.
+[14] Mr. Cholette explained that he did business with Jean‑Claude Forest as an external accountant for many years and that he never had any problems with the tax authorities and, when necessary, he consulted a tax expert. Mr. Cholette said that he had little contact with Mr. Forest and that his chief financial officer, Charles Tremblay, and his predecessor were the ones who did business with him.
+[15] Mr. Cholette said that he was never involved in the preparation of the appellant's financial statements or income tax returns either in 2010 or in the years prior to that. He was interested only in the operating results. Mr. Tremblay provided him with information regarding the projects' financial statements, but the income tax returns were never reviewed in detail. Mr. Cholette did not know on what line of the appellant's 2010 income tax return the dividend income should have been reported. Mr. Cholette could not provide any explanations regarding why the $920,700 in dividends were not included in the appellant's income. He relied on professionals to prepare financial statements and income tax returns.
+[16] With regard to the signature on the appellant's returns for the 2010 taxation year, Mr. Cholette did not recall whether they were signed before or after they were filed electronically with the competent tax authorities.
+Charles Tremblay
+[17] Charles Tremblay, chief financial officer at Gestions Cholette Inc., also testified at the hearing to explain the operational process of preparing the appellant's financial statements and income tax returns. Mr. Tremblay has a bachelor's degree from Hautes Études Commerciales de Montréal and a graduate diploma in public accounting. He is a chartered accountant (now a chartered professional accountant). He worked for four years at KPMG as a financial statement preparer and auditor and joined Gestions Cholette Inc. in 2007 as a comptroller. He became chief financial officer at the appellant in 2011 or 2012.
+[18] Mr. Tremblay said that the appellant was responsible for the accounting and bookkeeping for all the corporations and limited partnerships in Le Groupe Cholette (about 55 corporations, roughly 25 of which were quite active along with about 10 limited partnerships). In 2010, Mr. Tremblay acted as comptroller for the corporations and limited partnerships in the group, but the responsibility for preparing and filing income tax returns for the group corporations rested with an external accountant, Jean-Claude Forest. The external accountant was responsible for conducting review engagements with respect to the financial statements, reviewing the supporting documents, calculating the tax reserves, and preparing the income tax returns and the T5 slips.
+[19] In 2010, the appellant's chief financial officer was Claude Saumur, also a chartered accountant, and the finance department had 15 employees at the time, four of whom were chartered accountants.
+[20] Mr. Tremblay explained that the group's subsidiaries and satellite corporations had a fiscal year ending August 31 of every year and that he started compiling the invoices near the end of September, starting with the largest corporations and ending with the appellant because the subsidiaries' and the other corporations' results had an impact on the appellant's results. The deadline for filing the group corporations' income tax returns was February 28, 2011, for the 2010 taxation year.
+[21] Mr. Tremblay sent the external accountant five or six files a week. He sent him drafts of the complete financial statements for each corporation. The statements included supporting documents, the trial balance, and the adjusting entries. The only items missing from the unconsolidated results were tax payable and future taxes. Based on this data, the external accountant calculated the taxes and the net income after taxes. However, it must be noted that the share of the unconsolidated subsidiaries' net income and the unconsolidated satellite corporations' net income/(loss) were determined by Mr. Tremblay.
+[22] Mr. Tremblay also said that he calculated the unconsolidated retained earnings, excluding refundable dividend tax; prepared the unconsolidated balance sheet, excluding tax payable and future taxes, and calculated the unconsolidated cash flow, including dividends received from the subsidiaries and the corporations, but excluding future taxes.
+[23] According to Mr. Tremblay, the decision to have the satellite corporations pay the dividends rested with Michel Cholette and his partners after they were informed of the maximum latitude. The resolutions stating the payment of the corporations' and the satellite corporations' dividends to the appellant for 2010 were the subject of an engagement during Mr. Tremblay's examination for discovery. This engagement was not met because said resolutions were not in the appellant's possession or under its control, whereas these corporations' minute books are kept at the appellant's offices and the resolutions are normally drafted by the chief financial officer's assistant.
+[24] With regard to the appellant's financial statements, Mr. Tremblay explained that they were prepared according to generally accepted accounting principles and said that investments in the subsidiaries and the satellite corporations were accounted for using the equity method. Consequently, the dividends paid to the appellant were reflected in the unconsolidated cash flow (cash increase), but they decreased the value of the investments on the balance sheet.
+[25] Mr. Tremblay explained that he had a lot of discussions and email exchanges with Mr. Forest about the preparation of the appellant's financial statements and those of the other corporations in the group, but that Mr. Cholette was in no way involved in the process. What Mr. Cholette cared about was the profitability of the operations and how much tax had to be paid on the accounting income. He trusted the people who prepared his financial statements and income tax returns.
+[26] The appellant's financial statements, when completed with the data provided by the external accountant, were checked and approved by Mr. Tremblay, who submitted them to Mr. Saumur for review and feedback. The final version was submitted to Mr. Cholette.
+[27] With regard to the signature and filing of the income tax returns, Mr. Tremblay said that the following week, the appellant's financial statements were finalized. Mr. Forest came to the appellant's offices with three boxes of financial statements and income tax returns for Mr. Cholette to sign. With regard to the appellant's financial statements and income tax returns, Mr. Tremblay did not remember the exact date when they were signed and said that often, the practice was that Mr. Forest filed the income tax returns electronically to meet the deadlines and came to the appellant's offices to have them signed. When the income tax returns were signed, neither Mr. Cholette nor Mr. Tremblay reviewed them line by line. The appellant's federal income tax return for the 2010 taxation year was signed by Mr. Cholette and dated February 28, 2011.
+[28] During his testimony, Mr. Tremblay also said that the appellant normally received dividends every year, except in 2009, and that T5 slips had been issued for dividends reported in 2010, except with respect to the $35,000 dividend paid by corporation 9185‑0156 Québec Inc.
+[29] According to Mr. Tremblay, the fact that dividends totalling $920,700 were not reported in the appellant's income tax return for the 2010 taxation year is solely due to inattention, not neglect or voluntary omission, on the external accountant's part.
+Jean-Claude Forest
+[30] Jean-Claude Forest testified at the hearing. Mr. Forest received a bachelor's degree from Hautes Études Commerciales in 1971. He became a chartered accountant in February 1974 and worked on the Commission d'enquête sur le crime organisé from 1974 to 1979. He opened his own accounting firm in December 1979 and retired in November 2013. He had Gestions Cholette Inc. as a client from 1990 to 2013. He was responsible for preparing financial statements and income tax returns for the appellant, its subsidiaries, and its satellite corporations until August 31, 2011. For the 2012 fiscal year, his responsibilities were limited to producing the financial statements because the income tax returns were prepared in-house at the time.
+[31] Mr. Forest first stated that the appellant's contact person was initially chief financial officer Claude Saumur and then Charles Tremblay. In 2010, it was Mr. Tremblay. According to Mr. Forest, the appellant had a good internal structure because there were cost, accounts receivable, accounts payable, and payroll accountants. The appellant's accounting department looked after the daily accounting and the year-end accounting. For 2010, this reflected the preparation of 30 draft financial statements. Mr. Forest had the appellant's accounting in his worksheet, including the trial balance, the ledger entry by entry, loans, sales of capital assets, and dividends paid. He had to review the group corporations' minute books at the appellant's offices.
+[32] With regard to the income tax return preparation process, Mr. Forest explained that Édith Springuel, CPA, CGA, his only employee, used DT Max T2 to prepare the appellant's returns; it showed on the screen numbers similar to those on the income tax return for the previous year. In 2010, Ms. Springuel had 10 years of experience.
+[33] The tax software used did not show the T2 return schedules on the screen; there were only numbered lines. The dividends received and the taxable dividends deductible must be reported in Schedule 3 of the T2 (on line 240) and must be entered on line 320 in the calculation of the corporation's taxable income and manually added to Schedule 1 of the T2 (on line 214) in the calculation of net income.
+[34] For the 2010 taxation year, the dividends of $920,700 received by the appellant were entered on lines 200, 205, 210, 220 and 240 of Schedule 3 and on line 320 of the income tax return, but were not added manually to line 214 of Schedule 1 of the appellant's income tax return. This omission caused the corporation's net income to be understated by $920,700 for the year. The amount of the dividends was also reported in Schedule 7 of the return for purposes of calculating the corporation's total investment income (see lines 032 and 062).
+[35] According to Mr. Forest, Ms. Springuel did not automatically add the $920,700 dividend amount on line 214 because during the previous fiscal year (FY 2009), the appellant received no dividends and no amounts were entered on line 214 of the income tax return for that year.
+[36] Mr. Forest confirmed that the financial statements for the appellant, the subsidiaries, and the satellite corporations were sent to the appellant after they were filed with the Canada Revenue Agency (CRA) within the prescribed time frame and Mr. Tremblay did not see the income tax returns before they were filed.
+[37] Mr. Forest recalled that the dividends received by the appellant from the corporations that it controlled were applied by decreasing investments in each corporation, but that the dividends paid by corporations that were not controlled by the appellant were included in its financial statements and did not decrease the value of the investments in these corporations. However, Mr. Forest also said that in the case of corporations in which the appellant held 50% of the voting shares, he did not check whether the appellant had effective control of these corporations to determine their financial status as subsidiaries or connected corporations.
+[38] Mr. Forest said that he was not involved in the CRA's audit of the appellant in 2015 and had no communications with the auditor or with Mr. Tremblay or with François Corriveau of Corriveau Saint-Onge Inc., whom Mr. Tremblay hired to settle the matter with the CRA. Mr. Forest also said that he was not consulted regarding the preparation of the retainer letter dated December 16, 2015, that Mr. Corriveau sent to the CRA. This letter provided the following explanation in paragraph 4 on page 4:
+[translation] "The error committed in the 2010 and 2013 income tax returns (no error in 2014 contrary to what was indicated in the draft assessment) of not including the income from dividends received from the subsidiaries or satellite corporations is therefore simply related to a question of inattention on the income tax return preparer's part. Because we did not clearly see this dividend income in the financial statements, it was simply overlooked in the process by mistake. In addition, upon reconciliation of the taxable income, no errors could be detected in 2013 because the dividends excluded from the net income were also not deducted in the calculation of the taxable income."
+[39] Mr. Forest acknowledged the error for the 2010 year only because he was not the tax return preparer for the appellant, its subsidiaries or its satellite corporations for the 2013 year.
+François Corriveau
+[40] François Corriveau testified at the hearing to explain the role he played when he was hired by the appellant after the CRA's audit regarding the 2010, 2012, 2013 and 2014 taxation years. He started by saying that he did not know Jean‑Claude Forest and that he never worked, or communicated, with him in the preparation of the December 16, 2015, retainer letter to the CRA.
+[41] Mr. Corriveau said that the December 16, 2015, retainer letter was prepared by Richard Joly, a tax accountant at his firm, and that he signed that letter after reviewing it. Mr. Corriveau acknowledged that he did not question the appellant's tax return preparation process as he was preparing this letter.
+[42] Following interventions by the appellant's representatives regarding the audit and the subsequent objections by Mr. Corriveau for the years 2012, 2013 and 2014 and by counsel Belley for the year 2010, the CRA made the following changes to the assessments for the years 2010, 2012, 2013 and 2014:
+- The $920,700 dividend assessed in 2010 through the opening of the year prescribed under subsection 152(4) was upheld.
+- The penalties under subsection 163(2) on the unreported dividends in 2010 ($920,700), 2013 ($1,866,590) and 2014 ($151,563) were cancelled.
+- The bad debts denied in 2012, 2013 and 2014 were granted, and
+- The appellant's losses other than capital losses for the years 2013 ($186,729) and 2014 ($2,590,904) were established and carried back as follows:
+2010: $186,729 from 2013
+2011: $2,043,608 from 2014
+2012: $276,030 from 2014
+Bony Janvier
+[43] Bony Janvier, an auditor at the CRA, testified at the hearing. He explained that he started the appellant's audit on March 16, 2015, and finished it on March 26, 2016. The audit plan was to conduct a full audit of the appellant and its subsidiaries for the years 2013 and 2014. While conducting the audit, Mr. Janvier noted that the dividends of $1,886,590 were not included in the appellant's income in 2013 and that dividends in the amount of $151,563 of a total of $414,563 were not included in the appellant's income in 2014. Based on this information, Mr. Janvier reviewed the situation for the previous years and noted that in 2010, the dividends in the amount of $920,700 were not included in the appellant's income, but were deducted in the computation of the appellant's taxable income. The dividends received by the appellant in 2013 were not included in the computation of its income or deducted in the computation of its taxable income.
+[44] Based on this information, the CRA audited the appellant for the unreported dividends for the years 2010, 2013 and 2014 and for the bad debts denied for the years 2012, 2013 and 2014, and imposed penalties under subsection 163(2) for the years during which dividends were not reported. The assessment for the 2010 taxation year was established outside of the normal reassessment period.
+The law
+[45] This litigation focuses only raises subparagraph 152(4)(a)(i) of the Act, which reads as follows:
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act.
+Positions of the parties
+For the appellant
+[46] The appellant argues that neither it nor its accountant, Mr. Forest, were negligent or inattentive. It says that it took the necessary action to ensure the accuracy of its income tax return, that there were no errors owing to inattention, and that the persons involved were prudent and diligent when they prepared its income tax return. It still argues that if there were inattention, the mention of "inattention of the income tax return preparer" in Mr. Corriveau's letter dated December 16, 2015, is inadmissible because at that time, Mr. Corriveau had never spoken to the return preparer, Mr. Forest, and had no knowledge of the appellant's income tax return preparation process and was not responsible for addressing the application of subsection 152(4) of the Act.
+[47] According to the appellant, it should be given the benefit of the doubt because the Minister had the burden of proof and that allowing the late assessment would be contrary to two values: certainty and peace of mind. The appellant also states that the evidence in this case is not sufficient to establish, on a balance of probabilities, that it was negligent or careless.
+[48] Counsel for the appellant, referring to Her Majesty the Queen v. Johnson, 2012 FCA 253, at paragraph 55, submitted that it is the "state of mind and intention of the taxpayer or the person filing the return" that must be assessed based on the standard of a wise and prudent person and that wisdom is not infallibility and prudence is not perfection. He also cited Vachon v. Her Majesty the Queen, 2014 FCA 224, at paragraphs 3 and 4, which refers to Aridi v. Her Majesty the Queen, 2013 TCC 74, to prove that it is not the accountant's neglect that makes it possible to disregard the limitation period under subsection 152(4) of the Act. It is the taxpayer's neglect at the time of the misrepresentation that must be analyzed. He also referred to Aridi to argue that the person filing the return in subsection 152(4) does not refer to the accountant, but to the people listed in subsection 150(1) of the Act. The appellant is therefore of the opinion that the external accountant, Mr. Forest, acted prudently and diligently when he prepared its income tax return for the 2010 taxation year and that even if the Court were to find that Mr. Forest was negligent, his neglect would not be his fault within the meaning of subsection 152(4) of the Act. According to the appellant, the same conclusion holds for the alleged inattention error.
+[49] The appellant states that it exercised due diligence because it sent Mr. Forest the complete financial information in a timely manner through Mr. Tremblay. This information was also submitted gradually starting in October and, in the appellant's case, starting in mid-January, a month and a half before the filing deadline. Consequently, it is impossible to find that the erroneous presentation of the facts is due to deficient communication of information on the taxpayer's part or to late communication of information. The appellant also submits that it had no reason to question Mr. Forest's competence because he had been working for the appellant as an external accountant for 20 years and it had no problems with him, and because he and Mr. Tremblay worked well together. It also stated that it did its due diligence because it had access to experts (the internal accountants and the external accountant) and tax software (DT Max T2) for preparing its income tax returns. It states that the only explanation for the error is the absence of dividends in 2009 because such a situation had never happened before and that usually, the software brought up line 214 from the previous return. Because there were no dividends in 2009, line 214 remained blank. The understating was therefore not due to Mr. Cholette or Mr. Tremblay. The appellant also stated that it disclosed financial information that included that related to the dividends because Schedule 3 was completed and the information in it was correct.
+[50] To support the absence of neglect on the part of the directors, the appellant also stated that even if Mr. Cholette and Mr. Tremblay had checked the income tax return line by line, they would not have detected the error because at that time, neither of them knew where exactly the dividends had to be reported. Indeed, it is also because of their lack of knowledge regarding this that they called on Mr. Forest's expertise. The appellant is therefore of the view that its actions, having regard to the circumstances, were worthy of a reasonably prudent and diligent taxpayer.
+[51] Counsel for the appellant summarized his arguments in 11 points, according to which the Minister did not prove that the appellant was negligent or inattentive or that the appellant had proven diligence.
+1) Mr. Cholette hired a team of internal accountants led by a competent, trustworthy director: Mr. Tremblay.
+2) Every year Mr. Tremblay prepared draft financial statements and/or financial information without tax reserves and sent the required, correct financial information to Mr. Forest.
+3) Mr. Forest had Le Groupe Cholette's financial information and was responsible for preparing the income tax returns. There were no allegations of voluntary omissions or of fraud and he also acknowledged that no such acts occurred.
+4) In 2010, Mr. Forest was an accounting expert who held a legally recognized professional qualification and had 40 years of experience, 20 of which were with the appellant, and had no problems.
+5) Mr. Forest had implemented a computerized, comparative process that allowed him to control the quality of the income tax returns and the goal of this comparative component was to ensure complete income tax returns and quality control.
+6) Before 2010, this process had revealed no flaws.
+7) There is only one element that identifies the origin of the erroneous reporting of the facts, ie. the absence of dividends in 2009, which has nothing to do with the diligence exercised by the appellant when it gathered, prepared and sent its financial information to Mr. Forest.
+8) In 2010, Mr. Forest sent Mr. Tremblay his conclusions and his opinion regarding the income tax payable and Mr. Tremblay concluded that the estimate was reasonable having regard to the circumstances.
+9) At that time, the information sent by Mr. Forest was erroneous, but no one was aware of this and the error was not palpable.
+10) Mr. Tremblay is less knowledgeable and experienced than Mr. Forest in preparing tax returns, and Mr. Cholette less so than Mr. Tremblay. To expect Mr. Cholette and Mr. Tremblay to discover the error caused by the software would be tantamount to asking two people with less experience and knowledge and who did not participate in the process to detect an error that could not be detected by someone with more experience and knowledge and who participated in the process.
+11) Underreporting occurred despite the diligence of Mr. Forest, Mr. Tremblay and Mr. Cholette.
+[52] In short, the appellant is of the view that its officers as well as Mr. Forest were diligent and prudent and that the failure to include the dividends was not due to neglect or carelessness on their part, but that the error resulted from the tax preparation software during the comparison with the 2009 taxation year. It also submits that if there was any neglect on the part of Mr. Forest, it is not attributable to the appellant or its officers. In this regard, counsel for the appellant submitted, citing Guindon v. Her Majesty the Queen, 2015 SCC 41, that it was appropriate for a taxpayer to turn to tax law professionals given the complexity of this area.
+The respondent's position
+[53] The respondent's position is that subsection 152(4) is a remedial provision that allows the tax authorities to reassess after the normal reassessment period in circumstances where a taxpayer's conduct, whether through carelessness or neglect on the taxpayer's part, has resulted in an assessment more favourable to the taxpayer than it should have been. This is not a case of wilful default or fraud.
+[54] Since paragraph 152(4)(a) refers to the "taxpayer or person filing the return", the respondent is of the view that the appellant is liable for the errors of all its representatives, including those made by the external accountant responsible for preparing and filing its tax returns.
+[55] The error in this case is obvious and is neither complex nor open to interpretation. Everyone knew, even Mr. Cholette, that the dividends received by the appellant had to be included in computing its income. The failure to report dividend income while claiming the deduction of those same dividends in computing the appellant's taxable income can be attributed only to a lack of due diligence on the part of the appellant and its representatives, despite all of them being qualified, experienced and competent.
+[56] To ensure a consistent application of the Act, that is, to tax the income that should have been taxed and allow the deduction claimed, the Minister can use subsection 152(4) if there was carelessness or neglect on the part of the appellant or its representative when its tax return was filed.
+[57] Counsel for the respondent cited Venne v. Canada (Minister of National Revenue – M.N.R.), (F.C.T.D.) [1984] FCJ No. 314, in support of the submission that the appellant had not exercised due diligence in the preparation and filing of its tax return by allowing it to be filed before it could be reviewed by Mr. Tremblay and Mr. Cholette or signed by Mr. Cholette and that its neglect resulted in the misrepresentation on the return given that the error was obvious and easily detectable by reasonable and experienced people like Mr. Cholette and Mr. Tremblay.
+[58] Judge Bowman's decision in Snowball v. Canada, [1996] TCJ No. 276, was cited because it is mentioned that subparagraph 152(4)(a)(i) is not a penal provision and that negligence in preparing a tax return retains its consequences under subparagraph 152(4)(a)(i) whether it is the negligence of the taxpayer personally or that of the accountant or other tax return preparer who is the taxpayer's agent.
+[59] Counsel for the respondent also referred to the following cases, which imputed to the taxpayers the misrepresentations made by the persons who prepared or filed the tax returns on their behalf:
+- Nesbitt v. Canada, [1996] FCJ No. 19 (F.C.T.D.), affirmed on appeal [1996] FCJ No. 1470 (FCA);
+- Isnor v. Canada, [2000] TCJ No. 622 (TCC);
+- Ridge Run Developments Inc. v. R, 2007 TCC 68;
+- Gestion Foret-Dale Inc. v. R, 2009 TCC 255;
+- College Park Motors Ltd. v. R, 2009 TCC 409.
+[60] Concerning the interpretation to be given to the phrase "person filing the return" found in paragraph 152(4)(a), the respondent submits that the accountant or professional who prepares the taxpayer's return is covered by this provision, especially if the accountant or professional files the relevant tax returns with the appropriate tax authorities pursuant to an authorization, power of attorney or agency given by the taxpayer.
+[61] The respondent noted that in Aridi v. The Queen, 2013 TCC 74, the external accountant had only prepared the taxpayers' return, and that in Thompson v. The Queen, 2017 TCC 115, there was no evidence as to who filed the tax returns prepared by the appellants' accountant.
+[62] In Vine Estate v. The Queen, 2014 TCC 64, affirmed by the Federal Court of Appeal, 2015 FCA 125, it is clear that the person who filed the final tax return of the deceased, that is, the estate, was the one who did not exercise due diligence in reviewing the return.
+[63] Counsel for the respondent argued that cases decided after Aridi continued to apply the principles propounded by the prior cases listed at paragraph 59 above and that, as a result, the case law is not really divided as to whether a taxpayer can be held liable for an error made by an external account who prepares or files a taxpayer's return.
+[64] Finally, the respondent submits that when analyzing the tax reserve on the financial statements, Mr. Tremblay should have noticed that the tax reserve was unreasonable in the circumstances; the difference between the tax payable according to the tax return and the amount assessed after the dividends were included was in the order of $180,529.
+Analysis
+[65] In order for the Minister to be able to reassess beyond the normal reassessment period, the taxpayer or person filing the return must have made a misrepresentation that is attributable to neglect, carelessness or wilful default or must have committed fraud in filing the return. In this case, it was admitted that a misrepresentation was made and that it was not due to wilful default or fraud.
+[66] Therefore, the burden is on the Minister to prove, on a balance of probabilities, that the appellant or person filing the return made a misrepresentation that is attributable to neglect or carelessness. In this case, the appellant acknowledged that a misrepresentation was made when the external accountant, Mr. Forest, filed its tax return for the 2010 taxation year.
+[67] According to the evidence in the record, with respect to the appellant's 2010 fiscal year, Mr. Forest was asked to prepare the appellant's unconsolidated balance sheet as at August 31, 2010; unconsolidated statements of income, retained earnings and cash flow for the year ended that date; a review engagement report on the appellant's unconsolidated financial statements; and the appellant's tax returns for the 2010 taxation year.
+[68] Mr. Forest was also authorized to file the appellant's tax returns for the 2010 taxation year with the appropriate tax authorities. In this regard, on February 28, 2011, Mr. Cholette signed a T183 CORP, Information Return for Corporations Filing Electronically, thereby authorizing Mr. Forest to file the appellant's tax return with the CRA electronically. By signing this information return, Mr. Cholette was also certifying that the net income for income tax purposes reported in Schedule 1, the financial statements or the GIFI (line 300) in the amount of $3,615,198, and the Part I tax payable were correct and complete and that they revealed the corporation's total income tax payable.
+[69] During his testimony, Mr. Forest attributed the error to the fact that the DT Max T2 software he used to prepare the appellant's tax returns required dividends to be entered manually on line 214 of Schedule 1 and to the fact that the comparable figures on the 2009 return shown on the screen did not indicate anything on line 214 given the lack of dividends in 2009.
+[70] In my view, Mr. Forest was careless, if not negligent, under the circumstances. In 2010, Mr. Forest was a CPA with approximately 40 years of experience and 20 years as the appellant's external accountant. Both parties described him as competent and honest because, inter alia, of the absence of errors prior to 2010. He therefore knew very well how to account for the appellant's dividends and knew that line 214 always required manual action. He was very well acquainted with the software he used to prepare the appellant's returns. Moreover, he mentioned that this software did not make it possible to display forms and schedules on the screen during data entry. Despite this, it seems he did not think it relevant to print the return before verifying it. Regarding the verification on the screen of forms and schedules which requires a few additional operations, he admitted that he had not read line 214; Mr. Forest was minimally required to verify that the amount deducted on line 320 was also included on line 214 if Schedule 1. Yet he did not even bother to check the line that was not filled in automatically, which in itself constitutes neglect, especially coming from a CPA with Mr. Forest's experience.
+[71] The external accountant's neglect in circumstances where (i) he was asked to prepare the appellant's financial statements for the fiscal year ended August 31, 2010, to provide a review engagement report for those financial statements, and to prepare the appellant's tax returns for the 2010 taxation year, and where (ii) he was duly authorized to file the appellant's tax return for the 2010 taxation year with the CRA electronically after the appellant's representative certified that the appellant's net income and tax payable were correct and complete and that they revealed the corporation's total income tax payable, is sufficient for the purposes of subsection 152(4) of the Act.
+[72] The word "taxpayer" and the phrase "person filing the return" in paragraph 152(4)(a) must be interpreted as including the taxpayer, the taxpayer's legal representatives, and any person duly authorized to file the tax return on the taxpayer's behalf, in this case the appellant's external accountant. Consequently, taxpayers must be held liable for any errors made by any of these people representing them.
+[73] The appellant's liability in the present case is made all the more clear by the fact that its tax return was filed by Mr. Forest without having been reviewed beforehand by Mr. Tremblay and Mr. Cholette. In this case, the evidence is that neither Mr. Cholette nor Mr. Tremblay reviewed the appellant's tax return before it was filed. Mr. Tremblay stated that he did not verify the appellant's tax returns line by line and finally admitted that he simply did not review them, while Mr. Cholette indicated that he did not read the tax returns, because this was not part of his expertise and because he had enough accountants in his employ to assure him that everything was in order.
+[74] It should be noted here that the verification of tax returns is an essential factor used by the courts in determining whether the taxpayer was negligent. In many of the cases cited herein, the courts have concluded that the taxpayers had been negligent in circumstances where they had not actively reviewed the tax return before signing it and had simply relied on the accountant; had not reviewed the return with the necessary care, as a wise and prudent person would have; or had simply not read the return (ref. Nesbitt, College Park Motors, Venne, above).
+[75] Even though Mr. Tremblay and Mr. Cholette both testified that they were unable to indicate that the dividends had to be included on line 214 of the return, this is not in itself sufficient to conclude that they would not have discovered the error and does not justify not reviewing the return with the necessary care, as a wise and prudent person would.
+[76] I agree with the respondent that the error was obvious and that if Mr. Tremblay and Mr. Forest had verified the return, they would certainly have detected the error considering that they were both CPAs and that ensuring that the dividends were included was rather simple. Even Mr. Cholette knew that the dividends were taxable, which speaks to the simplicity of the error and the need to include the dividends in the appellant's income.
+[77] In my view, the fact that the appellant's tax return was not verified and the failure to ask the accountant questions to ensure the correctness of the information on the return show a lack of due diligence on the part of the appellant's officers. Considering the qualifications, experience and knowledge of the appellant's officers, I am of the view that they would have been able to discover the error if they had bothered to verify the return as a diligent and prudent person would have.
+[78] Since the tax system is based on self-assessment, taxpayers are responsible for ensuring that the information provided on their tax returns is true, correct and complete in every respect and reveal their total income from all sources. Indeed, it is in fact the reason why they are required to sign a certification at the bottom of their tax return and the information return form for corporations filing tax returns electronically. Mr. Cholette signed both documents on behalf of the appellant as an officer of the appellant and not as a director of the appellant.
+[79] For all these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 12th day of August 2020.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 18th day of November 2020.
+François Brunet, Revisor
+CITATION:
+2020 TCC 75
+COURT FILE NO.:
+2017-4468(IT)G
+STYLE OF CAUSE:
+GESTIONS CHOLETTE INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+September 12 and 13, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+August 12, 2020
+APPEARANCES:
+Counsel for the appellant:
+Dominic C. Belley
+Counsel for the respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Dominic C. Belley
+Firm:
+Norton Rose Fulbright Canada LLP
+Montreal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

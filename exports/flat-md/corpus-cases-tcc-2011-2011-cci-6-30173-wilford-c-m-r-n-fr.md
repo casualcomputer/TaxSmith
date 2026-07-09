@@ -1,0 +1,220 @@
+---
+title: "Wilford c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30173/index.do"
+last_modified: "2011-01-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 6"
+citation2: ""
+neutral_citation: "2011 CCI 6"
+decision_date: "2011-01-07"
+language: "fr"
+item_id: "30173"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7811
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:13:40.940000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dee8c4b2197e43fdee015afbe3784e5df6bd325251f83ad8b904e17f967fead9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wilford c. M.R.N.
+
+- Citation: 2011 CCI 6
+- Decision date: 2011-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7811, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilford c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-07
+Référence neutre
+2011 CCI 6
+Numéro de dossier
+2009-3411(EI)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-3411(EI)
+ENTRE :
+ALLEN WILFORD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUSAN BONNAR (GIORDANO)
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel d’Allen Wilford (2009‑3637(CPP)) le 9 juillet 2010 et le 3 décembre 2010,
+à Toronto (Ontario).
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Roxanne Wong
+L’intervenante elle‑même
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, Canada, ce 7e jour de janvier 2011.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 4e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Dossier : 2009-3637(CPP)
+ENTRE :
+ALLEN WILFORD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUSAN BONNAR (GIORDANO),
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l’appel d’Allen Wilford (2009‑3411(EI)) le 9 juillet 2010 et le 3 décembre 2010
+à Toronto (Ontario).
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Roxanne Wong
+L’intervenante elle‑même
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Toronto, Canada, ce 7e jour de janvier 2011.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 4e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2011 CCI 6
+Date : Le 7 janvier 2011
+Dossiers : 2009-3411(EI),
+2009-3637(CPP)
+ENTRE :
+ALLEN WILFORD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUSAN BONNAR (GIORDANO),
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Weisman
+[1] L’intervenante, Susan Bonnar, est stagiaire en droit. Elle a travaillé avec l’appelant, Allen Wilford, dans son cabinet d’avocats d’Owen Sound du 19 novembre 2007 au 7 novembre 2008, date à laquelle elle a été congédiée. Elle a ensuite demandé et reçu des prestations en vertu de la Loi sur l’assurance‑emploi (la « Loi »)[1] . L’appel de M. Wilford est fondé sur le principe que l’intervenante était une entrepreneure indépendante pendant la période en cause.
+[2] Lors de son entrevue initiale, Mme Bonnar s’est présentée comme étant une personne ayant de l’expérience et des connaissances en droit de la famille. Par conséquent, elle a été embauchée et on lui a confié la responsabilité de mener des entrevues auprès des clients de M. Wilford et de préparer les affidavits et les formulaires nécessaires devant être déposés devant les tribunaux, compte tenu des différents délais de prescription prévus par la loi.
+[3] Le premier jour de travail de Mme Bonnar, Jacqueline Armstrong, la commis comptable et agente de la paye du cabinet, lui a demandé son numéro d’assurance sociale. Mme Bonnar a refusé de le lui fournir compte tenu du fait qu’elle était une entrepreneure indépendante. Mme Armstrong lui a demandé son numéro d’assurance sociale à plusieurs reprises par la suite. Elle lui a aussi expliqué la différence entre un entrepreneur indépendant et un employé, en plus de lui faire part des avantages sociaux offerts par M. Wilford à ses employés, notamment dix journées de congé de maladie par année, une journée de congé pour le jour de leur anniversaire et des retenues à la source pour les cotisations au Régime de pensions du Canada ainsi que pour l’impôt sur le revenu. Chaque fois que Mme Armstrong demandait à Mme Bonnar de s’inscrire au système de rémunération, celle‑ci refusait en disant qu’elle connaissait très bien la différence entre un entrepreneur indépendant et un employé, les incidences fiscales du statut qu’elle choisissait, ainsi que les prestations d’assurance‑emploi qu’elle ne pouvait pas toucher dans l’éventualité où elle tomberait malade.
+[4] M. Wilford s’est rappelé que lorsqu’il a fait mention des avantages sociaux offerts à Mme Bonnar si elle s’inscrivait au système de rémunération, on lui a répondu qu’elle avait subi des pertes dans le cadre d’une entreprise précédente et qu’elle souhaitait, pour des raisons fiscales, demeurer une entrepreneure indépendante jusqu’à ce que ses revenus lui permettent d’éponger ses pertes. Dans son témoignage, Mme Bonnar a affirmé que même si elle n’avait jamais participé à une opération commerciale à risque, elle avait des dettes non réglées et elle souhaitait avoir le statut d’entrepreneure indépendante afin que les retenues à la source d’usage soient imputées sur ces dettes.
+[5] Par conséquent, à la différence des employés de M. Wilford, Mme Bonnar n’a jamais demandé d’être rémunérée pour les heures supplémentaires qu’elle faisait ni demandé de feuillet T4; elle n’as pas participé au calendrier des anniversaires ni aux dîners de groupe du bureau; n’a pas effectué de tâches de bureau comme répondre au téléphone, recueillir des télécopies ou travailler à la réception lorsque la réceptionniste habituelle était absente. D’après Mme Armstrong : [traduction] « Elle était différente. Elle travaillait tard et allait au bureau les fins de semaine. »
+[6] Il semble que M. Wilford ait accepté cette entente et qu’il partageait la perception qu’avait Mme Bonnar de leur relation de travail. Il a dit à Mme Armstrong : [traduction] « Oui, elle est une entrepreneure indépendante. » Par conséquent, ses bordereaux de paye portaient la mention [traduction] « rémunération contractuelle », tandis que ceux des employés du cabinet portaient la mention [traduction] « liste de paye ».
+[7] À mon avis, il est avantageux de travailler pour M. Wilford. Il a encouragé continuellement Mme Bonnar à s’inscrire à son système de rémunération afin qu’elle puisse avoir droit aux prestations prévues par la Loi, dans l’éventualité où elle tomberait malade; afin qu’elle n’ait pas à payer un important montant d’impôt sur le revenu lorsqu’elle produirait sa déclaration de revenus; et afin qu’elle puisse profiter de ses largesses en tant qu’employeur, même si cela signifiait qu’il devrait payer des cotisations d’assurance‑emploi et des cotisations au Régime de pension du Canada en son nom. Il a payé son cours sur la pension alimentaire pour conjoint, lui a versé une prime de fin d’année pour couvrir sa perte de salaire lorsque le cabinet était fermé et il lui a versé un salaire de 15,50 $ l’heure au lieu du salaire de 14 $ l’heure qu’il versait habituellement, pour compenser la perte de la partie de la cotisation d’assurance‑emploi et de la contribution au titre du Régime de pension du Canada qui était assumée par l’employeur.
+[8] Il est bien établi en droit que pour établir avec certitude la totalité de la relation de travail entre un payeur et un travailleur, il faut appliquer le critère à quatre volets formulé en tant que lignes directrices dans Montreal (City) v. Montreal Motor Works Ltd. (« Montreal City »)[2]; Wiebe Door Services Ltd. v. M.N.R. (« Wiebe Door »)[3] et 671122 Ontario Limited c. Sagaz Industries Canada Inc. (« Sagaz »)[4]. Voici les quatre volets du critère : si le payeur a le droit d’exercer un contrôle sur le travailleur; si c’est le payeur ou le travailleur qui a la propriété des instruments de travail requis pour effectuer les travaux; et si le travailleur a une possibilité de profit du travailleur et un risque de perte dans sa relation de travail avec le payeur.
+[9] Il en fait aucun doute que M. Wilford avait le droit de contrôler Mme Bonnar. Elle travaillait dans son cabinet d’avocats auprès de ses clients et il était responsable de toutes les erreurs ou les omissions qu’elle pouvait faire. Il possédait l’expertise lui permettant de dire à Mme Bonnar quoi faire et comment le faire. Lorsqu’il trouvait que le langage qu’elle utilisait dans ses ébauches d’affidavits était indûment agressif, il les lui faisait rédiger de nouveau. Lorsqu’il a découvert qu’elle avait commandé des transcriptions chères et inutiles il [traduction] « lui a enlevé le pouvoir de commander des transcriptions ». Lorsqu’on lui a demandé ce qui se passerait si elle refusait de travailler à un dossier en particulier, il a répondu avec fermeté : [traduction] « je la congédierais ». Par conséquent, je conclus que Mme Bonnar était non seulement sous le contrôle de droit de M. Wilford, mais elle était aussi sa subordonnée, ce qui démontre qu’elle était une employée durant la totalité de la période en cause.
+[10] Pour ce qui est de la propriété des instruments de travail, M. Wilford a fourni à Mme Bonnar un bureau entièrement équipé. Elle disposait notamment d’un ordinateur muni du logiciel Divorcemate, de toutes les fournitures de bureau et de tous les formulaires nécessaires, de même que des services d’une réceptionniste et tout ce dont une personne aurait besoin pour traiter des questions juridiques dans un cabinet d’avocats.
+[11] À cet égard, M. Wilford était d’avis que le droit constitue une industrie du savoir et que, en fait, les avocats vendent leur expertise, laquelle constitue leur outil principal. Il a allégué que Mme Bonnar lui avait fourni son propre savoir, ainsi que son réseau de personnes‑ressources vers lesquelles elle pouvait se tourner pour obtenir des conseils et des précédents.
+[12] Cela soulève la question qui consiste à déterminer si les compétences, le savoir et l’expertise sont inclus dans la notion d’« instruments » dans l’affaire Wiebe Door. Cette position est soutenue dans deux décisions de la Commission de révision de l’impôt (la « Commission »). Dans Latimer v. M.N.R.[5], le membre de la Commission a conclu qu’un comptable, qui avait accès aux locaux, à l’équipement et au personnel d’une société était un employé. Puis, la Commission a ajouté ce qui suit : « […] l’appelant possédait ses instruments de travail dans la mesure où l’on considère ses qualités professionnelles comme tels ». En 1983, la Commission a entendu Brandes v. M.N.R.[6], qui portait sur un directeur de films. Le membre de Commission, concluant que l’appelant était un entrepreneur indépendant, a affirmé ce qui suit : « L’expérience, la perspicacité et les talents d’organisation de l’appelant sont ses principaux outils. »
+[13] Il s’agit des seules causes que je connais qui vont dans le sens de la position de M. Wilford. Trois arrêts de la Cour d’appel fédérale et un arrêt de la Cour suprême du Canada semblent restreindre les instruments de travail aux objets physiques. Dans l’arrêt Hennick c. M.R.N. (« Hennick »)[7], dans lequel l’intimée était une professeure de piano de talent, la Cour a conclu ce qui suit :
+En ce qui concerne la deuxième partie du critère, à savoir la propriété des instruments de travail, le juge de la Cour de l’impôt a conclu, avec raison à notre avis, qu’étant donné que l’intimée donnait la plupart de ses leçons dans les locaux de l’intervenant, sa situation ressemblait davantage à celle d’un employé.
+Dans l’arrêt Precision Gutters c. M.R.N. (« Precision »)[8], les travailleurs qui avaient installé des gouttières avaient besoin de machines chères leur permettant de donner les formes requises à l’aluminium brut. Ces machines étaient fournies par le payeur. Au paragraphe 25, la Cour énonce ce qui suit :
+Il a été jugé que si les instruments de travail appartenaient au travailleur et qu’il était raisonnable que ceux-ci lui appartiennent, ce critère permet de conclure que la personne est un entrepreneur indépendant même si l’employeur présumé fournit des outils spéciaux pour l’entreprise en cause. […]
+En outre, dans Wolf c. La Reine (« Wolf »)[9], concernant un ingénieur‑conseil ultraspécialisé en aérospatiale, la Cour tient les propos suivants au paragraphe 82 :
+Ce facteur concerne la personne qui, de l’employeur ou du travailleur, possède les biens ou le matériel nécessaires pour exécuter le travail. Traditionnellement, si le travailleur détient ou contrôle les biens et s’il est responsable de leur fonctionnement et de leur entretien, il est probablement considéré comme un entrepreneur indépendant. Par ailleurs, si l’employeur possède le matériel, le travailleur sera probablement considéré comme un employé.
+Enfin, dans l’arrêt Sagaz[10], la Cour suprême dit : « Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage […] ».
+[14] Ainsi, dans les affaires Precision et Sagaz, les termes « instruments de travail » et « outillage », respectivement, étaient tous les deux considérés comme des outils, tout comme les locaux où la musique était enseignée dans l’affaire Hennick. De plus, les travailleurs des affaires Hennick et Wolf étaient tous deux des personnes hautement qualifiées; toutefois, lorsque la Cour aborde la question des outils, elle ne mentionne pas leur savoir, leur expertise ni leurs talents. Je conclus que la ligne directrice relative aux « instruments » élaborée dans Wiebe Door fait référence aux objets matériels et non aux capacités personnelles : à l’équipement et non à l’expertise; à la mise en œuvre et non à l’ingéniosité; aux fournitures et non aux compétences. Cette ligne directrice nous permet de déterminer que, durant la période en cause, Mme Bonnar était une employée.
+[15] En ce qui concerne la possibilité de profit, il est clair que Mme Bonnar ne jouissait d’aucune possibilité de profit par une saine gestion. Puis qu’elle recevait un salaire horaire de 15,50 $, et que celui‑ci avait augmenté à 17 $ après trois mois, elle ne pouvait augmenter son salaire qu’en travaillant plus d’heures. Cela ne constitue pas une possibilité de profit[11]. Les entrepreneurs, notamment les électriciens, les plombiers et les réparateurs, fixent eux aussi habituellement un taux horaire pour leurs services, mais leur taux horaire est calculé en vue de couvrir les coûts d’exploitation de leur entreprise et d’assurer une certaine marge de profit additionnelle. Leurs coûts incluent habituellement des coûts fixes ou des coûts indirects, comme le chauffage, l’électricité, le loyer et les taxes d’affaires, ainsi que des coûts variables, lesquels varient en fonction du niveau de production ou du nombre de contrats effectués par l’entrepreneur, notamment les salaires, l’essence, les pièces et les fournitures. Mme Bonnar n’avait à supporter aucun coût fixe ni variable.
+[16] M. Wilford a affirmé qu’elle pouvait réaliser des profits puisque le mieux elle effectuait son travail, le plus de clients elle pouvait attirer, et les bénéfices du cabinet ainsi que sa rémunération augmenteraient en conséquence. Malheureusement, il y a des précédents, anciens et nouveaux, qui n’appuient pas cet argument. Dans Montreal (City)[12], lord Wright déclarait à ce sujet :
+[traduction]
+[…] Il est dans certains cas possible de décider en posant la question suivante : à qui appartient l’entreprise? En d’autres mots, en se demandant si la partie exploite l’entreprise, c’est‑à‑dire si elle l’exploite pour elle‑même ou pour son propre compte et pas seulement pour un supérieur. […]
+Comme l’affirme mon collègue, le juge Bowie, un entrepreneur travaille à mettre sur pied sa propre entreprise, et non celle de son employeur[13]. Les efforts réalisés par Mme Bonnar ont contribué au développement de la société de M. Wilford et non au développement de sa propre entreprise. Par conséquent, le facteur de la possibilité de profit montre qu’elle était une employée pendant la période en cause.
+[17] Mme Bonnar n’a pas non plus assumé de risque de perte dans sa relation de travail avec M. Wilford. Elle n’a payé aucune dépense liée au travail qui n’a pas été remboursée par l’appelant. Il lui a même fourni un laissez‑passer de stationnement et a payé ses dépenses pour l’utilisation de son véhicule personnel selon la distance parcourue. De plus, M. Wilford a couvert les dépenses relatives à toutes les erreurs qu’elle a commises. Il a découvert qu’elle consacrait de nombreuses heures de travail pour le dossier d’un client pour lesquelles elle était payée mais, contrairement aux instructions, elle négligeait de comptabiliser son temps afin que des frais soient facturés au client en conséquence. Lorsqu’on a attiré son attention sur ce fait, elle a réagi à l’autre extrême en facturant des frais aux clients de façon excessive pour des tâches simples ou des services non facturables, deux initiatives qui ont mené à des plaintes de clients et pour lesquelles M. Wilford a dû donner des remises. Elle a demandé des transcriptions chères et non nécessaires alors qu’il n’y avait aucun fonds dans le compte en fiducie pour payer ces transcriptions. Elle a constitué une société formée de trois administrateurs et poursuivant des fins caritatives, alors que le client ne souhaitait avoir qu’un seul administrateur et une société à but lucratif. M. Wilford a donc consacré beaucoup de temps et de fonds à la correction de ces erreurs, mais aucun montant n’a été déduit de la paye de Mme Bonnar. Puisque les entrepreneurs indépendants doivent corriger eux‑mêmes leurs erreurs et couvrir leurs propres dépenses[14], cet aspect de la relation de travail des parties mène à la conclusion que Mme Bonnar était une employée.
+[18] Si une personne produit une déclaration de revenus en tant que travailleur indépendant et déduit de ses revenus toutes les dépenses engagées, cela démontre sa compréhension du contrat qu’elle a conclu avec le payeur[15]. Par conséquent, M. Wilford a sollicité une ordonnance exigeant que Mme Bonnar produise sa déclaration de revenus de 2008. Cependant, puisque les intervenants ne sont pas parties aux procédures, une telle ordonnance ne pouvait pas être rendue[16]. Malgré cela, Mme Bonnar a accepté de produire la déclaration de revenus demandée et elle s’est pliée aux demandes de l’intimé. Étonnamment, pendant l’année d’imposition 2008, alors qu’elle n’avait déclaré aucun revenu d’entreprise, elle a déduit des dépenses d’entreprise de 12 819 $. Elle a également inclus le revenu tiré de l’entreprise de M. Wilford en 2008 comme un revenu d’emploi, pour lequel elle a déduit des dépenses supplémentaires se chiffrant à 13 982 $. Un examen plus approfondi a permis de démontrer que les deux dépenses étaient presque entièrement liées à l’utilisation par Mme Bonnar du même véhicule automobile loué. Il ressort clairement de ce fait que Mme Bonnar souhaitait être classée dans la catégorie d’entrepreneure indépendante, à la fois pour utiliser la retenue à la source récupéré afin de payer ses dettes non réglées et pour déduire de son revenu imposable les coûts liés à l’utilisation de son véhicule automobile.
+[19] L’examen de l’ensemble de la relation entre les parties constitue une preuve non contredite d’entente mutuelle et une vision claire du fait que le lien juridique des parties pendant la période visée était celle d’un mandant et d’une mandataire, selon lequel le statut de Mme Bonnar était celui d’une entrepreneure indépendante régie par un contrat de services. Cependant, cette entente mutuelle ne permet pas de trancher la question en litige, parce que le statut d’un travailleur dans sa relation de travail est une question de droit et ne relève pas d’une entente privée[17]. Un poids sera accordé à de telles ententes seulement si les modalités de la relation de travail des parties correspondent à leur intention commune, conformément aux facteurs susmentionnés énumérés dans l’affaire Wiebe Door[18].
+[20] Comme je l’ai décidé, les quatre lignes directrices montrent que Mme Bonnar était une employée de M. Wilford, même si elle a choisi de ne pas s’intégrer à la culture d’entreprise du cabinet et ne lui a pas réclamé d’heures supplémentaires; tandis qu’il a payé pour son essence, son stationnement et son cours sur la pension alimentaire pour conjoint.
+[21] M. Wilford se plaint que Mme Bonnar était incompétente dans l’exercice de son travail. Toutefois, une employée incompétente demeure une employée, aussi bien qu’un travailleur faisant preuve d’insubordination peut demeurer dans une relation de subordination avec son payeur[19].
+[22] Compte tenu de ma conclusion voulant que Mme Bonnar ait été une employée de M. Wilford pendant toute la période en cause, le ministre du Revenu national (le « ministre ») pourrait vouloir réexaminer les doubles déductions du revenu demandées dans sa déclaration de revenus de 2008.
+[23] Dans ces affaires, c’est l’appelant qui a le fardeau de réfuter les présomptions du ministre dans sa réponse à l’avis d’appel. Il n’a pas réussi à les réfuter. Voici les seules présomptions qu’il a été en mesure de réfuter : 12g) [traduction] « la travailleuse rendait compte à l’appelant, quotidiennement, par téléphone ou par courriel »; 12u) [traduction] « la travailleuse travaillait habituellement de 8 h 15 à 18 h, du lundi au vendredi […] »; 12bb) [traduction] « l’appelant payait la travailleuse pour les jours fériés »; 12ee) [traduction] « la travailleuse devait remplir des feuilles de temps deux fois par mois » et 12jj) [traduction] « il y avait d’autres travailleurs qui offraient les mêmes services que la travailleuse ». Les présomptions restantes doivent être avérées et elles suffisent à soutenir les conclusions du ministre[20].
+[24] J’ai examiné tous les faits relatifs aux parties ainsi qu’aux témoins appelés, pour le compte de l’appelant et de l’intervenante, à témoigner sous serment pour la première fois; et même si j’ai découvert de nouveaux faits, notamment que Mme Bonnar travaillait sans réclamer d’heures supplémentaires, que M. Milford lui avait enlevé le pouvoir de demander des transcriptions et qu’il avait payé pour corriger ses erreurs, rien n’indique que les faits supposés par le ministre ou sur lesquels il s’est fondé sont faux, qu’ils ont été évalués incorrectement ou mal compris. Je ne trouve aucune entreprise que Mme Bonnar exploitait pour son propre compte. Par conséquent, les conclusions du ministre sont objectivement raisonnables.
+[25] En conclusion, les décisions rendues par le ministre sont confirmées et les appels sont rejetés.
+Signé à Toronto, Canada, ce 7e jour de janvier 2011.
+« N. Weisman »
+Juge suppléant Weisman
+Traduction certifiée conforme
+ce 4e jour de mars 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2011 CCI 6
+Nos DES DOSSIERS DE LA COUR : 2009-3411(EI); 2009-3637(CPP)
+INTITULÉ : ALLEN WILFORD c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Le 9 juillet 2010 et le 3 décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge suppléant N. Weisman
+DATE DU JUGEMENT : Le 7 janvier 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Roxanne Wong
+L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1996, ch. 23.
+[2] [1947] 1 D.L.R. 161 (C.P.).
+[3] (1986), 87 D.T.C. 5025 (C.A.F.).
+[4] [2001] A.C.S. no 61.
+[5] 77 D.T.C. 84, à la page 89.
+[6] 83 D.T.C. 158, au paragraphe 4.02.9.
+[7] [1995] A.C.F. no 294, au paragraphe 8.
+[8] [2002] A.C.F. no 771.
+[9] [2002] A.C.F. no 375 (C.A.F.).
+[10] Précité, note de bas de page 4, au paragraphe 47.
+[11] Précité, note de bas de page 7.
+[12] Précité, note de bas de page 2, au paragraphe 17.
+[13] Woodland Insurance Ltd. c. M.R.N., [2005] A.C.I. no 276 (C.C.I.), au paragraphe 7.
+[14] Précité, note 8, aux paragraphes 11 et 27; Tremblay c. M.R.N., [2004] A.C.F. no 802 (C.A.F.), au paragraphe 44.
+[15] Combined Insurance Co. of America c. M.R.N., [2007] A.C.F. no 124, au paragraphe 75; Ambulance St. Jean c. M.R.N., [2004] A.C.F. no 1680, au paragraphe 2 (C.A.F.).
+[16] Budget Propane Corp. c. M.R.N., [2002] A.C.F. no 175 (C.A.F.).
+[17] Précité, note de bas de page 3, à la p. 2.
+[18] R oyal Winnipeg Ballet c. M.R.N., [2006] A.C.F. no 339 (C.A.F.), au paragraphe 64.
+[19] Précité, note de bas de page 7.
+[20] Jencan Ltd. c. M.R.N., [1997] A.C.F. no 876 (C.A.F.).

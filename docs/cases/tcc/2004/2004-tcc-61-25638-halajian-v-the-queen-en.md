@@ -1,0 +1,156 @@
+---
+title: "Halajian v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25638/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 61"
+citation2: ""
+neutral_citation: "2004 TCC 61"
+decision_date: "2004-01-16"
+language: "en"
+item_id: "25638"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3001
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:54:03.553000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06084a5551f56b6af54031ffb071e093e6baf68d4664684eb5f7465cd017b825"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Halajian v. The Queen
+
+- Citation: 2004 TCC 61
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3001, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Halajian v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-16
+Neutral citation
+2004 TCC 61
+File numbers
+2003-1775(IT)I
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1775(IT)I
+BETWEEN:
+HASMIG HALAJIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 8, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gordon Teskey
+Appearances:
+Agent for the Appellant:
+Sebouh Halajian
+Counsel for the Respondent:
+Joel Oliphant
+P. Michael Appavoo
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994 and 1996 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 16th day of January 2004.
+"Gordon Teskey"
+Teskey, J.
+Citation: 2004TCC61
+Date: 20040116
+Docket: 2003-1775(IT)I
+BETWEEN:
+HASMIG HALAJIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant, in her Notice of Appeal wherein she appealed her reassessment of income tax for the years 1994 and 1996, elected the informal procedure.
+Issues
+[2] The two issues are whether the Appellant in 1994 donated $5,000 to Or Hamaarav Sephardic Congregation, and in 1996, did she donate $4,500 to Abarbanel S. Learning Centre.
+[3] As the Notice of Reassessments were mailed on September 9, 2002 and August 9, 2002, the assessments were statute-barred as they were both over the three-year period. Thus, the onus was on the Respondent, who proceeded first.
+[4] The Respondent called Rabbi Edery as the first witness.
+[5] Rabbi Edery was the rabbi for the Jewish Congregation known as Or Hamaarav Sephardic Congregation. This entity also owned the Synagogue.
+[6] In or around 1980, Rabbi Edery wanted a new building to house a day-care centre and a new charitable entity was established and known as Arbananel S. Learning Centre.
+[7] In 1985, when interest rates went sky high, all real estate was sold by the bank under power of sale. As a result, neither entity could carry on without donations, which were very difficult to come by since Rabbi Edery was considered inept.
+[8] Rabbi Edery then devised a scheme where he would give a charitable receipt for ten times the amount of cash that would be donated, and if the donor paid by cheque, the cheque would be cashed and 90% of the money returned to the donor.
+[9] Rabbi Edery swore that only three donors gave the full amount of the receipt issued and those three donors dealt directly with him. He also said he could name the three donors. No one asked him to do so.
+[10] Rabbi Edery acknowledged that he was charged with multiple charges under the Income Tax Act, that he pleaded not guilty and was represented by a lawyer.
+[11] He was convicted and the fine levied has been paid in full and the balance of the terms of his sentence have been completed in full.
+[12] Rabbi Edery had several people helping with that scheme, one of who was an Armenian person by the name of "Joe". Joe, likewise, had a helper who was a tax preparer by the name of "Mourad Halajian", who is the brother-in-law of the Appellant and who prepared her T1 tax returns.
+[13] Rabbi Edery never dealt with Mourad Halajian or any of the donors that participated in the tax fraud through Joe.
+[14] Rabbi Edery swore that all money that came to these two charities through his various helpers was 10 cents on the dollar and never was the donation equal to the amount of the tax receipt, all as described in paragraph 8 above.
+[15] The second witness for the Respondent was Frank Menniti, an investigator with the Canada Custom and Revenue Agency. His testimony confirmed the testimony given by Rabbi Edery.
+[16] The Appellant gave evidence on her own behalf. She produced a photocopy of a cheque dated December 30, 1996, drawn on the Bank of Montreal for $4,500, entered as Exhibit A-1. There are several bank stamps on the back, one being the Scotia Bank, dated: "Ja 97 13", and a third one dated: "Jan 13 97". Attached to the photocopy of the cheque, is a letter from the Bank of Montreal identifying this cheque as a Master Card cheque.
+[17] Exhibit A-2 is a Master Card statement that shows that on January 13, there was a balance owing on the card of $5,233.35 and that the $4,500 cheque increased the Master Card indebtedness from $5,233.35 to $9,733.35. Thus, the Appellant borrowed the money on a credit card to make the donation.
+[18] The Appellant is a member of the Armenian Catholic Church, which she supports but did not claim, in either 1994 or 1996, any donations thereto.
+[19] The T1 tax return for 1994 shows that the Appellant's taxable income was $29,202 and claimed a tax credit for a charitable gift of $5,000 to Or Hamaarav Sephardic Congregation, a Jewish organization which she had absolutely no connection to.
+[20] The T1 tax return for 1996 shows that the Appellant's taxable income for 1996 was $18,533 and that she donated $4,500 to Abarbanel S. Learning Centre, again a Jewish organization, which she had no knowledge of, or connection thereto.
+[21] She claimed that the possibility of making donations was brought to her attention by her tax preparer, namely Mourad Halajian, who was her brother-in-law.
+[22] When the Appellant was asked who she gave the cheque to and who gave her the receipt, she simply stated: "I cannot recall."
+[23] The Appellant stated that her brother-in-law was Armenian Orthodox, which is not part of the Jewish religion.
+[24] Like many cases, this one comes down to credibility. Prior to the Appellant closing her case, I advised her and her agent who was her husband, that if Mourad Halajian was not called as a witness, that I "may" conclude that his evidence would be adverse to that of the Appellant's position. After a short break, the Appellant declined an adjournment to Monday, March 8, so that Mourad Halajian could be called and the case proceeded to argument.
+[25] Because of the evidence of the Appellant, I do so draw such a conclusion. I specifically find that Mourad Halajian was part of the fraudulent scheme and would have said so if called as a witness.
+[26] Rabbi Edery has served his sentence and has nothing to gain in giving false or coloured testimony and I accept his evidence in full.
+[27] In regards to the evidence of Frank Menneti, it was given in a straightforward professional manner and I accept his testimony in full.
+[28] The Appellant's testimony in its entirety simply was not credible, particularly when she did not call her husband's brother as a witness, who she obviously was dealing with. She obviously gave the December 30 cheque to her brother-in-law, whom she must have received the tax receipts from.
+[29] I specifically find that she knowingly and deliberately took part in the false charitable receipt scheme and that, in 1995, she received back $4,500 from her December 30, 1994 cheque, and in 1996, she never made a donation in the amount of the receipt. Since I find that she knowingly and deliberately filed false T1 tax returns for 1994 and 1996, she is also liable for the penalties that were levied.
+[30] For all the above reasons, the appeals are dismissed.
+Signed at Vancouver, British Columbia, this 16th day of January, 2004.
+"Gordon Teskey"
+Teskey, J.
+CITATION:
+2004TCC61
+COURT FILE NO.:
+2003-1775(IT)I
+STYLE OF CAUSE:
+Hasmig Halajian and The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 8, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gordon Teskey
+DATE OF JUDGMENT:
+January 16, 2004
+APPEARANCES:
+Agent for the Appellant:
+Sebouh Halajian
+Counsel for the Respondent:
+Joel Oliphant
+P. Michael Appavoo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

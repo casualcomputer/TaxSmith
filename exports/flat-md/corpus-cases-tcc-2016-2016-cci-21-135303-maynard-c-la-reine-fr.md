@@ -1,0 +1,237 @@
+---
+title: "Maynard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/135303/index.do"
+last_modified: "2016-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 21"
+citation2: ""
+neutral_citation: "2016 CCI 21"
+decision_date: "2016-01-28"
+language: "fr"
+item_id: "135303"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3034
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:11:57.205000+00:00"
+cases_cited_count: 13
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c52a56e8a85e7b7adbdee40ce190e3e475600d9d6aa3dc75fd75aa61d97134d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maynard c. La Reine
+
+- Citation: 2016 CCI 21
+- Decision date: 2016-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3034, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maynard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-28
+Référence neutre
+2016 CCI 21
+Numéro de dossier
+2013-1894(IT)G
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1894(IT)G
+ENTRE :
+ELTON MAYNARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel de Lisa Maynard (2013‑1895(IT)I), le 3 novembre 2015, à Toronto (Ontario)
+Devant : L'honorable juge suppléant Rommel G. Masse
+Comparutions :
+Avocat de l'appelant :
+Me Osborne G. Barnwell
+Avocat de l'intimée :
+Me Craig Maw
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 est rejeté, conformément aux motifs du jugement ci‑joints.
+L'intimée a droit à ses dépens si elle le désire.
+Signé à Kingston (Ontario), ce 28e jour de janvier 2016.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Dossier : 2013-1895(IT)I
+ENTRE :
+LISA MAYNARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l'appel d'Elton Maynard (2013‑1894(IT)G), le 3 novembre 2015, à Toronto (Ontario)
+Devant : L'honorable juge suppléant Rommel G. Masse
+Comparutions :
+Avocat de l'appelante :
+Me Osborne G. Barnwell
+Avocat de l'intimée :
+Me Craig Maw
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 est rejeté, conformément aux motifs du jugement ci‑joints.
+L'intimée a droit à ses dépens si elle le désire.
+Signé à Kingston (Ontario), ce 28e jour de janvier 2016.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2016 CCI 21
+Date : 20160128
+Dossiers : 2013-1894(IT)G
+2013-1895(IT)I
+ENTRE :
+ELTON MAYNARD,
+LISA MAYNARD,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+Aperçu [1] Les présents appels ont été entendus sur preuve commune.
+[2] Elton et Lisa Maynard font appel des pénalités pour faute lourde qui leur ont été imposées en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »), relativement à leur année d'imposition 2008 et à leurs demandes connexes de report rétrospectif de pertes aux années d'imposition 2005, 2006 et 2007. Un spécialiste en préparation de déclarations de revenus peu scrupuleux a établi leurs déclarations de revenus de façon à déclarer des pertes d'entreprise fictives très importantes. Les pertes d'entreprise, si elles avaient été accordées, auraient donné lieu au remboursement aux appelants de tout ou de presque tout l'impôt payé par eux ou retenu à la source pour les années d'imposition 2005, 2006, 2007 et 2008. En fait, les pertes d'entreprise déclarées n'ont jamais existé. Les appelants n'ont jamais possédé ni exploité quelque entreprise que ce soit durant l'année d'imposition 2008. L'Agence du revenu du Canada (l'« ARC ») a refusé les pertes et a pénalisé les appelants conformément au paragraphe 163(2) de la Loi. La présente affaire vise seulement les pénalités imposées.
+Le contexte factuel [3] Elton et Lisa Maynard sont nés à la Trinité. Elton Maynard est arrivé au Canada en 1974, mais il est retourné à la Trinité pour ramener sa femme, Lisa, au Canada. Ils sont mariés et heureux depuis 33 ans. À la Trinité, Elton a terminé sa 12e année. Il a aussi suivi des cours de dessin technique au Centennial College, à Scarborough. Ces cours ont duré deux ans et comprenaient un cours sur AutoCAD, un programme de dessin assisté par ordinateur. Il a travaillé comme dessinateur chez Trench Ltd. pendant 33 ans avant de prendre sa retraite.
+[4] Lisa a également terminé sa 12e année à la Trinité. Elle est arrivée au Canada en 1982. Depuis son arrivée, elle a occupé divers emplois à Toronto et elle travaille actuellement comme adjointe administrative au ministère des Finances de l'Ontario. Elle a suivi des cours de comptabilité au Durham College.
+[5] Elton Maynard remplissait parfois leurs déclarations de revenus à l'aide d'un logiciel; d'autres fois, ils avaient recours à des professionnels comme H&R Block pour remplir les déclarations de revenus, moyennant des frais.
+[6] À un moment donné en 2005, un collègue d'Elton Maynard a recommandé un certain Muntaz Rasool aux appelants. Ce collègue n'a jamais donné beaucoup de détails sur son expérience avec M. Rasool. Les appelants croyaient que M. Rasool était un comptable agréé ayant 20 ans d'expérience qui avait préparé les déclarations de revenus du collègue. Ils ont rencontré M. Rasool pour la première fois dans un restaurant Tim Horton de Scarborough, près de la résidence de M. Rasool. En fait, toutes leurs rencontres avec M. Rasool ont eu lieu dans un restaurant Tim Horton. Ils ne l'ont jamais rencontré à son bureau à domicile. Ils n'ont également jamais demandé à M. Rasool quels étaient ses titres de compétence et ils ne se sont jamais renseignés auprès d'autres personnes que le collègue de M. Maynard. Les appelants ont témoigné qu'ils avaient initialement une relation de confiance avec M. Rasool et qu'ils se sentaient à l'aise avec lui. Selon Lisa Maynard, M. Rasool était une personne très agréable, avec qui les appelants discutaient librement. Ils ont affirmé qu'ils n'avaient aucune raison de ne pas lui faire confiance.
+[7] Dès leur première rencontre, M. Rasool a tenté de les convaincre de participer à des stratagèmes de planification fiscale ou de placements. Le premier de ces stratagèmes était un programme appelé « Universal Healthcare Trust Donation Program », lié à la « Liberty Wellness Initiative Foundation ». Il s'agissait d'un programme de dons qui était censé aider les personnes défavorisées vivant dans des pays touchés par la pauvreté. Des documents qui prétendaient montrer que le premier ministre de l'Ontario, le premier ministre du Canada et le premier ministre de la Grenade avaient tous approuvé le programme ont été remis aux appelants. Cela semblait donner une certaine légitimité au stratagème. M. Rasool a convaincu Elton Maynard de faire un don de 6 000 $ au programme pour l'année d'imposition 2005. Elton Maynard a reçu un feuillet T5003 indiquant que le montant admissible du don pour les besoins de l'impôt était de 30 000 $ et non de 6 000 $. M. Rasool a également convaincu Lisa Maynard de faire un don de 2 500 $. Elle a reçu un feuillet T5003 indiquant que le montant admissible du don était de 12 500 $ au lieu de 2 500 $. Je vois difficilement comment un don de bienfaisance pourrait avoir cinq fois sa valeur réelle pour les besoins de l'impôt. En août 2007, l'ARC a avisé les appelants qu'elle avait l'intention de refuser les dons, ce qu'elle a fait par la suite.
+[8] Pour l'année d'imposition 2006, M. Rasool a convaincu Elton Maynard d'investir dans une entreprise appelée StockLogic. M. Maynard n'y a investi que 7 000 $, mais, curieusement, il a réclamé des pertes d'entreprise liées à StockLogic de 42 000 $. En 2008, Elton Maynard a été avisé que l'ARC procédait à une vérification du stratagème StockLogic. L'ARC a par la suite refusé la perte d'entreprise et a imposé des pénalités pour faute lourde au titre du paragraphe 163(2) de la Loi à Elton Maynard. Je crois comprendre que cette cotisation fait actuellement l'objet d'un litige.
+[9] Monsieur Rasool a effectivement établi les déclarations de revenus des appelants pour les années d'imposition 2005 à 2008. Par le passé, les appelants avaient remis 45 $ à M. Rasool pour l'établissement de chaque déclaration. Au moment d'établir leurs déclarations de revenus pour 2008, les appelants ont de nouveau rencontré M. Rasool dans un restaurant Tim Horton, comme à leur habitude. Ils ont rassemblé leurs documents, comme leurs feuillets T4, pour les lui donner. Au cours de cette rencontre, M. Rasool les a informés qu'ils étaient en droit de refaire leurs déclarations pour les dix dernières années. M. Rasool leur a donc demandé de communiquer avec l'ARC pour obtenir toutes leurs déclarations depuis 1999. C'est ce que les appelants ont fait avant de donner tous ces renseignements à M. Rasool. Une fois les déclarations établies, ils ont de nouveau retrouvé M. Rasool au centre commercial Scarborough Town Centre. Les appelants n'ont jamais interrogé M. Rasool au sujet de leurs déclarations et M. Rasool ne leur a donné aucune explication relativement à ce qu'il avait fait. M. Rasool ne les a pas avisés de ce qu'il avait trouvé en analysant les déclarations des dix dernières années et les appelants n'ont pas posé de questions à ce sujet. Les appelants n'ont pas examiné leurs déclarations avec M. Rasool; en fait, ils n'ont jamais même regardé leurs déclarations. Les appelants n'avaient pas la moindre idée des renseignements que contenaient les déclarations. M. Rasool a simplement feuilleté les pages et les appelants ont simplement signé là où on leur a demandé de le faire, sans poser de questions. M. Rasool ne leur a pas donné de copie de leurs déclarations. M. Rasool avait déposé les déclarations de revenus de 2005, 2006 et 2007 par voie électronique. Toutefois, il ne l'a pas fait pour les déclarations de revenus de 2008 puisqu'elles étaient, selon lui, trop volumineuses pour être envoyées de cette façon. M. Rasool a plutôt dit aux appelants d'aller eux‑mêmes déposer leurs déclarations. Les appelants ont déposé leurs déclarations à un bureau de l'ARC à proximité. Pour les déclarations de revenus de 2008, les appelants n'ont versé à M. Rasool que 45 $ en espèces. Ces honoraires couvraient également le travail de révision de leurs déclarations pour les dix dernières années. Il s'agit d'honoraires inhabituellement bas pour l'examen de déclarations de revenus pour une période de dix ans.
+[10] La pièce R‑2, à l'onglet 2, comprend la déclaration de revenus de 2008 d'Elton Maynard. La pièce R‑1, à l'onglet 18, comprend la déclaration de revenus de 2008 de Lisa Maynard. Les deux déclarations sont datées du 21 mars 2009. Elles contiennent toutes deux des renseignements manifestement faux. Dans sa déclaration, Elton Maynard a déclaré un revenu d'entreprise de 76 938,67 $. Il a également déclaré des dépenses d'entreprise totales de 262 775,12 $, entraînant des pertes d'entreprise de 255 150,57 $. Dans sa déclaration, Lisa Maynard a déclaré un revenu d'entreprise de 50 341,14 $. Elle a également déclaré des dépenses d'entreprise totales de 123 482,99 $, entraînant ainsi des pertes d'entreprise de 115 803,83 $. Tous ces renseignements figurant dans leurs déclarations de revenus de 2008 sont complètement faux. Le seul revenu d'Elton Maynard au cours de l'année d'imposition 2008 était un revenu d'emploi de 69 314,12 $. Le seul revenu de Lisa Maynard au cours de l'année d'imposition 2008 était un revenu d'emploi de 42 519,98 $. Aucun des appelants n'a possédé ni exploité d'entreprise en 2008 et aucun d'eux n'a engagé les dépenses d'entreprise qui ont été déclarées. Les appelants conviennent qu'ils auraient immédiatement remarqué ces faux renseignements s'ils avaient pris la peine de jeter un coup d'œil à leurs déclarations. Toutefois, selon leur témoignage, ils ont signé leurs déclarations et leurs demandes de report rétrospectif de pertes sans regarder les documents en question et, ce faisant, ils ont certifié par leurs signatures que tous les renseignements dans ces documents étaient exacts et complets, ce qui, de toute évidence, n'était pas le cas. Ils n'ont rien fait pour vérifier l'exactitude des renseignements inscrits dans leurs déclarations de revenus. Les appelants ne savent pas pourquoi le mot [TRADUCTION] « par » apparaît sur la ligne de la signature, tout juste avant leurs signatures. Ils ne se rappellent pas si ce mot était là, mais il s'y trouvait clairement, puisque les appelants ont été les derniers à avoir ces déclarations en main avant qu'elles ne soient déposées. Des remboursements assez importants étaient indiqués dans les déclarations : 16 304,64 $ pour Elton Maynard et 7 553,88 $ pour Lisa Maynard. Ils ont affirmé qu'ils n'avaient pas vu le montant du remboursement qui apparaît à la dernière page des déclarations; cependant, on leur avait dit à combien s'élèverait le remboursement. Ils soutiennent que l'importance de leurs remboursements n'a pas éveillé de soupçons dans leurs esprits. Ils n'ont pas demandé pourquoi ils allaient recevoir des remboursements si importants. Ils n'ont par ailleurs pas remarqué que la case 490, devant être remplie par leur spécialiste en déclarations, avait été laissée vide. Ils ne savaient pas qu'ils avaient signé des demandes de report rétrospectif de pertes, ce qu'ils ont manifestement fait. En fait, ils n'ont rien remarqué à propos des déclarations, puisqu'ils ne les ont pas examinées. Les appelants reconnaissent que s'ils avaient consulté leurs déclarations et constaté qu'elles contenaient des renseignements manifestement faux, ils ne les auraient ni signées ni déposées.
+[11] Les déclarations de revenus ont fait l'objet de cotisations telles qu'elles ont été produites et elles ont toutes deux mené à un remboursement.
+[12] Lisa Maynard a témoigné qu'avant d'obtenir son remboursement, elle a reçu un appel de M. Rasool lui disant qu'elle pouvait s'attendre à recevoir son remboursement dans la semaine et qu'elle devait le rencontrer, sans oublier son chéquier, pour le rémunérer pour ses services. Il exigeait 40 % de son remboursement. Elle lui a répondu qu'elle lui avait déjà versé 45 $, ses honoraires habituels. Il lui a alors répondu que si elle ne le payait pas, il appellerait l'ARC pour lui dire d'annuler sa déclaration de revenus. Elle lui a répondu que c'était de l'extorsion et qu'elle ne lui donnerait pas un cent. Elle a ensuite communiqué avec l'ARC pour dénoncer le comportement de M. Rasool et pour aviser l'ARC de ne laisser personne d'autre avoir accès à ses dossiers fiscaux. L'ARC l'a assurée que M. Rasool ne pourrait pas avoir accès à ses dossiers sans sa permission et qu'il ne pourrait pas annuler sa déclaration de revenus.
+[13] Ce n'est qu'en 2011 que les appelants ont découvert les problèmes liés à leurs déclarations de revenus de 2008, lorsqu'ils ont reçu une lettre de l'ARC remettant en question leurs pertes d'entreprise. Lisa Maynard a immédiatement appelé l'ARC pour lui faire savoir qu'elle devait se tromper de personnes et qu'elle devrait vérifier les numéros d'assurance sociale, puisque ni elle ni son mari n'avaient possédé d'entreprise. Elle était convaincue qu'il s'agissait d'une erreur de l'ARC. Malheureusement, l'ARC n'avait commis aucune erreur. Lisa Maynard était anéantie, déroutée et paniquée. Elle ne savait pas du tout que M. Rasool avait indiqué dans leurs déclarations qu'ils exploitaient une entreprise. Elle a tenté à plusieurs reprises de communiquer avec lui et s'est même rendue à son domicile. Toutefois, M. Rasool avait fui et était introuvable. Se rendant compte qu'elle et son mari avaient des ennuis, elle a essayé de joindre quelqu'un à l'ARC pour les résoudre. Elle a aussi fait des démarches pour dénoncer M. Rasool aux autorités policières, puisqu'elle et son mari étaient victimes d'une fraude. Elle a également communiqué avec l'organisme professionnel des comptables agréés pour porter plainte et elle a appris que M. Rasool n'était pas comptable agréé. Elle a également déposé des plaintes au Better Business Bureau, à Equifax et à tous les autres organismes auxquels elle a pu penser pour que M. Rasool soit sanctionné.
+[14] Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l'égard des appelants pour l'année d'imposition 2008, refusant les pertes d'entreprise déclarées et imposant des pénalités en vertu du paragraphe 163(2) de la Loi. Les appelants se sont opposés à ces nouvelles cotisations, mais le ministre les a confirmées, d'où les présents appels à la Cour.
+[15] Les appelants font valoir qu'ils croyaient honnêtement et sincèrement que M. Rasool était un professionnel responsable qui préparerait leurs déclarations de revenus conformément à la loi et à ses responsabilités professionnelles. Ils ne savaient pas qu'il commettrait une fraude en remplissant leurs déclarations. Les appelants sont des personnes simples et respectueuses de la loi. Ils sont des victimes et il est injuste qu'ils aient maintenant à payer une pénalité parce qu'ils ont été trop naïfs et ont accordé trop facilement leur confiance. Ils soutiennent que le fait d'avoir signé leurs déclarations sans même les examiner peut démontrer de la négligence, mais qu'il ne s'agit pas d'une faute lourde de nature à entraîner l'imposition des pénalités sévères prévues au paragraphe 163(2) de la Loi. Les appels devraient donc être accueillis et renvoyés au ministre pour nouveaux examens et nouvelles cotisations en tenant compte du fait que les pénalités imposées conformément au paragraphe 163(2) ne sont pas appropriées en l'espèce. Les appelants demandent également que les dépens leur soient adjugés.
+[16] L'intimée soutient que les appelants savaient que leurs déclarations contenaient de faux renseignements ou qu'ils ont fait preuve d'aveuglement volontaire à l'égard de la fausseté des renseignements contenus dans leurs déclarations. Sous un régime d'autocotisation, le contribuable a le fardeau de s'assurer que ses revenus et dépenses sont correctement déclarés. Les appelants reconnaissent que s'ils avaient pris ne serait-ce qu'un moment pour examiner leurs déclarations de revenus avant de les signer, ils auraient vu les pertes d'entreprise colossales déclarées et ils n'auraient pas signé. Ils ont tout simplement signé ce que leur spécialiste en déclarations leur a présenté, sans examiner, remettre en question ni vérifier l'exactitude des renseignements. Il s'agit d'une faute lourde. Les appels devraient donc être rejetés avec dépens.
+Dispositions légales [17] Le paragraphe 163(2) de la Loi se lit en partie comme suit :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité [...]
+[18] En vertu du paragraphe 163(3), le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+Analyse [19] Une jurisprudence constante a établi que notre régime fiscal repose à la fois sur l'autodéclaration et l'autocotisation. Il repose sur l'honnêteté et l'intégrité du contribuable. Le contribuable a le devoir de déclarer la totalité de son revenu imposable de manière correcte et exacte, peu importe qui établit sa déclaration de revenus. Par conséquent, le contribuable doit être vigilant et s'assurer que les renseignements fournis dans sa déclaration sont complets et exacts. Comme l'indique le juge Martineau dans la décision Northview Apartments Ltd. c. Canada (Procureur général), 2009 CF 74, au paragraphe 11 : « Le régime fiscal repose sur l'autocotisation et l'autodéclaration, dont sont responsables les contribuables envers l'ARC. »
+[20] Dans l'arrêt R. c. Jarvis, 2002 CSC 73, [2002] 3 R.C.S. 757, les juges Iacobucci et Major de la Cour suprême du Canada ont expliqué les responsabilités et les devoirs des contribuables, ainsi que quelques mesures prévues dans la Loi pour les encourager à respecter leurs obligations :
+49 Toute personne résidant au Canada au cours d'une année d'imposition donnée est tenue de payer un impôt sur son revenu imposable, calculé selon les règles prescrites par la Loi (LIR, art. 2 [...]). Le processus de perception des impôts repose principalement sur l'autocotisation et l'autodéclaration : tous les contribuables sont tenus d'estimer le montant de leur impôt annuel payable (art. 151) et d'en informer l'ADRC dans la déclaration de revenu qu'ils sont tenus de produire (par. 150(1)). [...] Dès qu'il reçoit la déclaration de revenu d'un contribuable, le ministre l'examine « avec diligence », fixe le montant de l'impôt à payer ou celui du remboursement et envoie au contribuable un avis de cotisation à cet effet (par. 152(1) et (2)). Sous réserve de certaines restrictions, le ministre peut par la suite établir une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt du contribuable pour une année d'imposition (par. 152(4)).
+50 Bien que l'observation volontaire de la loi et l'autocotisation constituent les éléments essentiels du régime réglementaire de la LIR, le système fiscal est doté de [TRADUCTION] « mécanismes de persuasion visant à inciter les contribuables à déclarer leurs revenus » [...] Par exemple, pour favoriser l'aspect d'autodéclaration du régime, l'art. 162 de la LIR établit des peines pécuniaires pour les personnes qui omettent de produire leur déclaration de revenu. De même, pour inciter le contribuable à faire preuve de minutie et d'exactitude dans le cadre de l'autocotisation, l'art. 163 de la Loi prévoit le même type de pénalités pour les personnes qui omettent de façon répétée de déclarer un montant à inclure, qui sont complices d'un faux énoncé ou d'une omission ou qui commettent une faute lourde à cet égard.
+51 Il découle des caractéristiques fondamentales de l'autocotisation et de l'autodéclaration que le succès de l'application du régime fiscal repose avant tout sur la franchise du contribuable. Comme le juge Cory l'a affirmé dans l'arrêt Knox Contracting, précité, p. 350 : « Le système d'imposition dépend entièrement de l'intégrité du contribuable qui déclare et évalue son revenu. Pour que le système fonctionne, les déclarations doivent être remplies honnêtement ». Il n'est donc pas étonnant que la Loi tente de restreindre le risque qu'un contribuable essaie de « tirer profit du régime d'auto‑déclaration pour tenter d'éviter de payer sa pleine part du fardeau fiscal en violant les règles énoncées dans la Loi » [...]
+[Non souligné dans l'original; renvois omis.]
+[21] Il a été conclu que les pénalités prévues à l'article 163 de la Loi ont été établies pour assurer le respect de notre régime d'autocotisation et d'autodéclaration, et pour inciter le contribuable à faire preuve de minutie et d'exactitude dans la préparation de sa déclaration de revenus, peu importe qui la prépare. Dans la décision Sbrollini c. La Reine, 2015 CCI 178, le juge Boyle était d'avis que les pénalités prévues au paragraphe 163(2) de la Loi traduisaient :
+15 [...] l'importance des exigences d'honnêteté et de fidélité requises dans la cadre du régime fiscal canadien d'autodéclaration des revenus. [...]
+16 De telles pénalités sont dûment payables par [le contribuable] s'il a délibérément, ou dans des circonstances équivalant à faute lourde, fait de faux énoncés ou des omissions dans ses déclarations, ou y participe, y consent ou y acquiesce.
+[22] Par conséquent, la décision d'imposer ou non à un contribuable les pénalités prévues au paragraphe 163(2) de la Loi doit être prise en tenant compte des responsabilités et des devoirs imposés au contribuable par un régime d'autocotisation et d'autodéclaration, c'est‑à‑dire de déclarer ses revenus complètement et exactement.
+[23] Deux éléments doivent nécessairement être établis pour qu'un contribuable soit passible des pénalités prévues au paragraphe 163(2) :
+a) faire un faux énoncé dans une déclaration;
+b) le faire sciemment ou dans des circonstances équivalant à faute lourde, ou y participer, y consentir ou y acquiescer.
+[24] Il n'y a aucun doute que les déclarations de revenus de 2008 des appelants ainsi que leurs demandes de report rétrospectif de pertes comportaient de faux énoncés. Les appelants n'ont jamais possédé ni exploité quelque entreprise que ce soit pendant cette année et ne pouvaient donc pas avoir eu un revenu ou des dépenses d'entreprise.
+[25] Je ne suis pas convaincu que les appelants ont fait sciemment de faux énoncés, puisqu'ils ne savaient même pas ce qui figurait dans leurs déclarations de revenus. Ils reconnaissent n'avoir jamais même jeté un coup d'œil à leurs déclarations avant de les signer. Je suis convaincu, cependant, que la Couronne a démontré, selon le degré de preuve requis, que les appelants ont fait de faux énoncés dans leurs déclarations de revenus, ou y ont participé, consenti ou acquiescé, dans des circonstances équivalant à faute lourde.
+[26] Il y a une différence entre la négligence ordinaire et la faute lourde. La négligence s'entend du défaut d'agir avec le soin qu'aurait exercé une personne raisonnablement prudente et attentive dans des circonstances semblables. La faute lourde implique une négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi : voir la décision Venne c. La Reine, [1984] A.C.F. no 314 (QL). Dans la décision Farm Business Consultants Inc. c. La Reine, [1994] A.C.I. no 760 (QL), le juge Bowman (tel était alors son titre) de la Cour canadienne de l'impôt a déclaré au paragraphe 23 que les mots « faute lourde », au paragraphe 163(2), sous‑entendaient une conduite caractérisée par un degré de faute à ce point élevé qu'il frise l'insouciance. Dans un tel cas, la cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans les situations où l'on cherche à établir le bien-fondé d'allégations moins sérieuses (paragraphe 27).
+[27] Il est également bien établi que la faute lourde peut comprendre l'« aveuglement volontaire ». La notion d'« aveuglement volontaire », bien connue du droit pénal, a été expliquée par le juge Cory de la Cour suprême du Canada dans l'arrêt R. c. Hinchey, [1996] 3 R.C.S. 1128. Selon la règle, si une partie qui a des soupçons omet délibérément de se renseigner davantage parce qu'elle désire demeurer dans l'ignorance, elle est réputée être au courant. L'« aveuglement volontaire » se produit lorsqu'une personne qui a ressenti le besoin de se renseigner refuse de le faire parce qu'elle ne veut pas connaître la vérité. Il existe un soupçon que le défendeur a délibérément omis de transformer en connaissance certaine. Il « s'est fermé les yeux » ou a fait preuve d'« ignorance volontaire ».
+[28] Il a été décidé que la notion d'« aveuglement volontaire » s'applique aux affaires fiscales : voir les décisions Procureur général c. Villeneuve, 2004 CAF 20, et Panini c. La Reine, 2006 CAF 224. Dans Panini, le juge Nadon a clairement indiqué que la notion d'« aveuglement volontaire » est comprise dans la notion de « faute lourde » utilisée au paragraphe 163(2) de la Loi. Il a déclaré ce qui suit :
+43 [...] le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s'enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable.
+[29] Il a été jugé que pour établir la distinction entre la négligence « ordinaire » et la faute « lourde », il faut examiner plusieurs facteurs :
+a) l'importance de l'omission relative au revenu déclaré;
+b) la faculté du contribuable de découvrir l'erreur;
+c) le niveau d'instruction du contribuable et son intelligence apparente;
+d) l'effort réel de se conformer à la loi.
+Il n'existe aucun facteur qui soit prédominant. Il faut accorder à chacun de ces facteurs le poids qu'il convient dans le contexte de l'ensemble de la preuve (voir DeCosta c. La Reine, 2005 CCI 545, au paragraphe 11; Bhatti c. La Reine, 2013 CCI 143, au paragraphe 24; McLeod c. La Reine, 2013 CCI 228, au paragraphe 14).
+[30] Dans la décision Torres c. La Reine, 2013 CCI 380, le juge C. Miller a fait un examen très approfondi de la jurisprudence touchant les pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi. Il a résumé les principes directeurs à appliquer au paragraphe 65 :
+a) La connaissance d'un faux énoncé peut être déduite d'un aveuglement volontaire.
+b) La notion d'aveuglement volontaire peut être appliquée aux pénalités pour faute lourde prévues par le paragraphe 163(2) de la Loi [...].
+c) Pour savoir s'il y a eu ou non aveuglement volontaire, il faut tenir compte du niveau d'instruction et d'expérience du contribuable.
+d) Pour conclure à un aveuglement volontaire, il doit y avoir eu nécessité de s'informer, ou soupçon d'une telle nécessité.
+e) Les facteurs laissant supposer la nécessité de s'informer avant la production d'une déclaration [...] comprennent ce qui suit :
+i) l'importance de l'avantage ou de l'omission;
+ii) le caractère flagrant du faux énoncé et la facilité avec laquelle il peut être décelé;
+iii) l'absence, dans la déclaration elle‑même, d'une attestation du spécialiste qui a établi la déclaration;
+iv) les demandes inusitées du spécialiste;
+v) le fait que le spécialiste était auparavant inconnu du contribuable;
+vi) les explications inintelligibles du spécialiste;
+vii) le point de savoir si d'autres personnes ont eu recours au spécialiste ou ont fait des mises en garde à l'encontre de ce dernier, ou le point de savoir si le contribuable lui‑même hésite à s'en ouvrir à d'autres.
+f) Le dernier critère de l'aveuglement volontaire est le fait que le contribuable ne s'enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s'enquiert aucunement auprès d'un tiers, ou auprès de l'ARC elle‑même.
+[31] Cette liste n'est pas exhaustive. Il peut y avoir d'autres facteurs qui doivent être pris en considération en fonction des circonstances de chaque cas.
+[32] En l'espèce, je suis convaincu que les appelants n'ont pas fait sciemment de faux énoncés. Ils ont eux-mêmes admis dans leur témoignage qu'ils ne savaient tout simplement pas ce qui figurait dans leurs déclarations de revenus de 2008, puisqu'ils ne les ont jamais examinées. Cependant, je suis convaincu qu'ils ont participé, consenti ou acquiescé à ces faux énoncés, dans des circonstances équivalant à faute lourde. Il s'agit, à tout le moins, d'aveuglement volontaire. J'en arrive à cette conclusion pour les motifs qui suivent.
+[33] Les appelants détiennent l'équivalent d'un diplôme d'études secondaires ici au Canada. Ils sont au Canada depuis longtemps. Ils sont intelligents et s'expriment bien. Ils ont suivi des cours de niveau postsecondaire qui leur ont été très utiles dans leur travail. Ils ont toujours eu des emplois stables dans lesquels ils avaient des responsabilités et ils gagnent tous deux bien leur vie. Elton Maynard connaît le système fiscal, puisqu'il a déjà rempli par le passé ses propres déclarations de revenus et celles de sa femme. Ils ont tous deux une compréhension de base des entreprises et des concepts de profit et de perte. Ils ne sont pas dénués d'éducation ou d'expérience de la vie de sorte qu'ils puissent invoquer l'ignorance. Le niveau d'instruction, l'expérience et l'intelligence ne sont pas des considérations pouvant soustraire les appelants à la conclusion qu'ils ont fait de faux énoncés dans des circonstances équivalant à faute lourde.
+[34] De nombreux avertissements auraient dû éveiller les soupçons des appelants et susciter en eux le besoin de se renseigner davantage.
+a) Le spécialiste en déclarations était auparavant inconnu des contribuables : M. Rasool était auparavant inconnu des appelants. Il n'était affilié à aucune société de comptabilité ou de spécialistes en déclarations bien connue. Les appelants ne savaient rien de lui, sauf qu'il avait établi les déclarations de revenus du collègue d'Elton Maynard et que ce collègue leur avait dit qu'il était comptable agréé. Les appelants ont retenu ses services à la suite de la seule recommandation de ce collègue. Exception faite de cette recommandation, ils n'ont pas demandé ni vérifié de références. Ils n'ont pas non plus vérifié les titres de compétence de M. Rasool. Il s'agit peut‑être d'un moindre facteur, mais pris en considération avec tous les autres facteurs, il aurait dû inciter les appelants à faire preuve d'un peu plus de diligence à l'égard de la légitimité de M. Rasool.
+b) Les lieux des rencontres : Les appelants n'ont jamais rencontré M. Rasool à son bureau, mais uniquement au restaurant Tim Horton et au centre commercial Scarborough Town Centre. Il faut se demander pourquoi un comptable agréé cumulant 20 ans d'expérience recevrait ses clients ailleurs qu'à son bureau. Ces endroits sont des lieux publics, peu favorables à des discussions hautement confidentielles telles que la préparation de déclarations de revenus, la planification fiscale et les occasions d'investissement. Il s'agit peut‑être d'un moindre facteur, mais pris en considération avec tous les autres facteurs, il aurait dû inciter les appelants à être plus prudents.
+c) Les affaires antérieures douteuses : Les appelants ont témoigné qu'ils n'avaient aucune raison de douter de M. Rasool. Toutefois, M. Rasool les avait convaincus de participer à deux programmes, le « Universal Healthcare Trust Donation Program » et le stratagème de placements « StockLogic », ensuite contestés par l'ARC. Avant même de déposer leurs déclarations de revenus de 2008, les appelants savaient que ces stratagèmes, offerts par M. Rasool, étaient contestés par l'ARC et qu'ils pourraient en conséquence être dans l'obligation de rembourser des sommes importantes. Il s'agit d'une autre raison pour laquelle ils auraient dû examiner attentivement les renseignements dans leurs déclarations de 2008.
+d) Le barème des honoraires : M. Rasool demandait des honoraires fixes de 45 $ par déclaration de revenus aux appelants. Il leur a facturé ces mêmes honoraires lorsqu'il a examiné les déclarations des appelants des dix dernières années. Cela semble excessivement bas pour la charge de travail nécessaire à l'examen de déclarations de revenus sur dix ans. Il est difficile de croire qu'un comptable agréé ayant 20 ans d'expérience facturerait seulement 45 $ pour l'établissement d'une déclaration de revenus et l'examen des déclarations des dix dernières années. Cela aurait dû être un avertissement pour les appelants.
+e) L'absence d'explications du spécialiste en déclarations : M. Rasool n'a donné aucune explication concernant la préparation des déclarations de revenus des appelants. Un vrai professionnel ferait en sorte que ses clients comprennent la portée de ce qui a été fait et la raison pour laquelle cela a été fait. M. Rasool ne s'est pas donné la peine de prendre le temps d'expliquer le travail qu'il a fait et a tout simplement indiqué aux appelants où signer. Ce qui est encore plus étonnant, c'est que les appelants n'ont posé aucune question à M. Rasool relativement à la teneur de leurs déclarations ni demandé pourquoi ils avaient droit à des remboursements si importants et quel était le résultat de l'examen des déclarations des dix dernières années. Un contribuable diligent et raisonnable serait à tout le moins curieux et souhaiterait savoir et comprendre ce que son comptable a fait en son nom et les raisons pour lesquelles il était en mesure d'obtenir un remboursement aussi important. La nature humaine est tout simplement ainsi.
+f) Le dépôt des déclarations : Par le passé, M. Rasool avait toujours transmis les déclarations par voie électronique. Cette fois‑ci, il a remis les déclarations aux appelants et leur a dit d'aller les déposer eux‑mêmes. Lorsqu'on lui a posé une question, il leur a répondu simplement que les déclarations étaient trop volumineuses pour être transmises par voie électronique. Cette explication est douteuse. M. Rasool n'a pas donné de copie de leurs déclarations aux appelants. Un comptable professionnel aurait préparé une copie pour ses clients et les aurait avisés de la conserver aux fins de vérification future. De toute façon, il aurait été prudent que les appelants fassent eux‑mêmes une copie des déclarations pour leurs dossiers, et ce, même si M. Rasool ne leur en avait pas donnée. Ils ne l'ont pas fait.
+Tous ces éléments auraient dû faire naître des doutes chez les appelants, les incitant à faire preuve de plus de diligence dans la préparation et le dépôt de leurs déclarations et à poser des questions sur la situation. Cependant, ils ne l'ont pas fait. En réalité, ils n'ont rien fait, choisissant plutôt de demeurer dans l'ignorance la plus parfaite. Une telle conduite est la preuve d'un aveuglement volontaire équivalant à faute lourde.
+[35] Même sans tenir compte de l'aveuglement volontaire, je suis d'avis que les appelants ont démontré un comportement équivalant à faute lourde. Nos tribunaux ont maintes fois établi que notre régime fiscal repose sur l'autocotisation et l'autodéclaration. Chaque contribuable a l'obligation de veiller à ce que tous les renseignements figurant dans sa déclaration de revenus soient complets et exacts, peu importe qui remplit cette déclaration de revenus. Les appelants n'ont fait aucun effort pour vérifier l'exactitude et l'exhaustivité de leurs déclarations de revenus. Ils ont tout simplement signé leurs déclarations, certifiant ainsi qu'elles étaient complètes et exactes, puis les ont déposées sans même les regarder. Ils n'ont absolument pas tenu compte de leur devoir de vérifier l'exactitude et l'exhaustivité des renseignements inscrits dans leurs déclarations. S'ils avaient fait le moindre effort, ils auraient rapidement et facilement découvert les renseignements manifestement faux qui y figuraient. Les appelants ne peuvent pas, pour tenter de se disculper, prétendre être victimes d'un spécialiste en déclarations malhonnête alors qu'ils n'ont fait aucun effort pour vérifier l'exactitude de leurs déclarations de revenus.
+[36] Dans la décision Laplante c. La Reine, 2008 CCI 335, le juge Bédard a écrit :
+15. [...] L'appelant ne peut pas se dégager ici de sa responsabilité en pointant du doigt son comptable. En tentant de se soustraire ainsi à toute responsabilité à l'égard de ses déclarations de revenus, l'appelant se trouve à rejeter négligemment du revers de la main les responsabilités, les devoirs ou les obligations que lui impose la Loi. [...]
+[37] Dans la décision Brochu c. La Reine, 2011 CCI 75, on a maintenu les pénalités pour faute lourde imposées à une contribuable qui s'était simplement fiée aux déclarations de sa comptable indiquant que tout allait bien. La contribuable a dit avoir feuilleté brièvement sa déclaration de revenus et a prétendu qu'elle ne comprenait pas les termes « revenus d'entreprise » et « crédit », mais elle n'a pourtant posé aucune question à sa comptable ni à qui que ce soit d'autre pour s'assurer que ses revenus et ses dépenses étaient correctement comptabilisés. Le juge Favreau de la Cour était d'avis que, parce que la contribuable n'a pas jugé nécessaire de s'informer, elle a été négligente, ce qui constituait une faute lourde.
+[38] Un autre exemple récent est la décision Atutornu c. La Reine, 2014 CCI 174, où les contribuables se sont simplement et aveuglément fiés aux conseils de leur spécialiste en déclarations sans lire ni examiner leurs déclarations, et sans faire d'effort pour vérifier l'exactitude de leurs déclarations de revenus.
+[39] Il a été décidé que le fait de ne pas revoir sa déclaration de revenus avant de la signer et de la déposer peut, en soi, être suffisant pour constituer une faute lourde. Comme l'a déclaré le juge Tardif dans Gingras c. La Reine, [2000] A.C.I. no 541 (QL) :
+31 [...] il est tout à fait répréhensible d'attester par sa signature que les renseignements fournis sont exacts alors que l'on sait ou devrait savoir qu'elle contient de faux énoncés. Un tel comportement est suffisant pour conclure à une faute lourde justifiant l'imposition des pénalités applicables.
+[40] Dans Laplante, précité, le juge Bédard a écrit :
+15 De toute façon, je suis d'avis que la négligence de l'appelant (soit le fait de ne pas examiner du tout ses déclarations de revenus avant de les signer) était assez grave pour justifier l'épithète « lourde » qui est quelque peu péjoratif. L'attitude de l'appelant était si cavalière en l'espèce qu'elle traduisait une indifférence totale au respect de la Loi. L'appelant n'a‑t‑il pas admis que, s'il avait examiné ses déclarations de revenus avant de les signer, il aurait nécessairement décelé les nombreux faux énoncés qui y apparaissaient, énoncés qui auraient été faits par monsieur Cloutier? [...] En l'espèce, la Loi imposait au minimum à l'appelant l'obligation de jeter un coup d'œil sur ses déclarations de revenus avant de les signer, d'autant plus qu'en l'espèce il a admis que cet examen rapide lui aurait permis de déceler les faux énoncés que son comptable avait faits.
+[Souligné dans l'original.]
+[41] Plus récemment encore, le juge Bowie a déclaré dans Brown c. La Reine, 2009 CCI 28 :
+20 Par ailleurs, pour ce qui est des pénalités pour faute lourde imposées à l'appelant en vertu de la Loi de l'impôt sur le revenu, l'appelant a lui-même clairement affirmé au début de son témoignage qu'il n'avait jamais porté attention aux revenus et aux dépenses indiqués dans les déclarations pour les quatre années en cause lorsqu'il les signait. L'appelant a dit qu'il conservait ses dossiers, préparait des tableaux de ventilation à partir de ses dossiers et qu'il donnait les tableaux à une spécialiste en déclarations de revenus, qui se servait des documents qu'elle recevait de l'appelant pour préparer les déclarations de revenus de ce dernier. La spécialiste n'a pas témoigné, mais, si l'on se fie à la version des faits de l'appelant, il reste que l'appelant était quand même tenu d'examiner ses déclarations de revenus avant de les signer et de les produire auprès du ministre. La déclaration que le contribuable fait lorsqu'il signe sa déclaration de revenus est ainsi rédigée :
+J'atteste que les renseignements donnés dans cette déclaration et dans tous les documents annexés sont exacts, complets et révèlent la totalité de mes revenus [...]
+Le fait de signer une déclaration de revenus et de faire, par le fait même, la déclaration précitée sans même vérifier le contenu de la déclaration — ce qu'a fait l'appelant, si j'ai bien compris son témoignage — constitue, à lui seul, une faute lourde qui justifie l'imposition des pénalités.
+[42] Dans Bhatti, précité, le juge C. Miller a fait remarquer ce qui suit :
+30 [...] Il est tout simplement insuffisant d'affirmer ne pas avoir vérifié ses déclarations. Confier aveuglément ses obligations à quelqu'un d'autre sans même une vérification minimale de l'exactitude de la déclaration va au-delà de l'imprudence. Donc, même si elle n'a pas sciemment omis de déclarer le revenu, elle a certainement adopté l'attitude cavalière du laisser‑aller. [...]
+[43] Je suis d'avis que, dans les circonstances de l'espèce, les appelants ont complètement manqué à leurs devoirs prévus par la Loi. Ils n'ont fait aucun effort pour respecter leur obligation de déclarer leurs revenus et leurs dépenses déductibles de manière complète et exacte dans leurs déclarations de 2008. Leur comportement n'est pas seulement négligent, il constitue une faute lourde. Ils ont démontré une indifférence complète au respect de la loi.
+Conclusion [44] Il ne fait aucun doute que les déclarations de revenus de 2008 des appelants, de même que leurs demandes de report rétrospectif de pertes, comportaient de faux énoncés, puisqu'ils n'ont exploité aucune entreprise et n'ont subi absolument aucune perte d'entreprise. Dans les circonstances de l'espèce, je ne peux arriver à aucune autre conclusion que la suivante : les appelants ont fait preuve d'aveuglement volontaire et ont commis une faute lourde quant à la fausseté des déclarations. C'est particulièrement vrai puisqu'ils ont signé leurs déclarations de revenus, attestant l'exactitude des renseignements qui y figuraient, sans même se soucier d'y jeter un coup d'œil ou de faire un effort pour en vérifier l'exactitude. Ils sont donc à juste titre assujettis aux pénalités imposées en vertu du paragraphe 163(2) de la Loi.
+[45] Pour les motifs qui précèdent, les appels sont rejetés. L'intimée a droit à ses dépens si elle le désire.
+Signé à Kingston (Ontario), ce 28e jour de janvier 2016.
+« Rommel G. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2016 CCI 21
+NOS DES DOSSIERS DE LA COUR :
+2013-1894(IT)G
+2013-1895(IT)I
+INTITULÉS :
+ELTON MAYNARD, LISA MAYNARD c. LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 3 novembre 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 28 janvier 2016
+COMPARUTIONS :
+Avocat des appelants :
+Me Osborne G. Barnwell
+Avocat de l'intimée :
+Me Craig Maw
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Me Osborne G. Barnwell
+Cabinet :
+Toronto (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

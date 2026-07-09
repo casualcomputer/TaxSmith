@@ -1,0 +1,143 @@
+Title: Brar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28984/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-647-28984-brar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-31
+
+# Brar v. The Queen
+
+- Citation: 2008 TCC 647
+- Decision date: 2008-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6794, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-31
+Neutral citation
+2008 TCC 647
+File numbers
+2008-97(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008 TCC 647
+2008-97(IT)I
+TAX COURT OF CANADA
+BETWEEN:
+DHARMINDER SINGH BRAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT GIVEN ORALLY FROM THE BENCH
+BY THE HONOURABLE JUSTICE GASTON JORRÉ,
+in the Courts Administration Service,
+180 Queen Street West, Toronto, Ontario,
+on Friday, October 31, 2008.
+APPEARANCES:
+Mr. Dharminder Singh Brar
+Self-represented
+Ms. Samantha Hurst
+For the Respondent
+A.S.A.P. Reporting Services Inc. 8 (2008)
+200 Elgin Street, Suite 1105
+Ottawa, Ontario K2P 1L5
+(613) 564-2727
+130 King Street West, Suite 1800
+Toronto, Ontario M5X 1E3
+(416) 861-8720
+REASONS FOR JUDGMENT
+(Edited transcript of Reasons given orally from the Bench
+on October 31, 2008, at Toronto, Ontario.)
+[1] HONOURABLE MR. JUSTICE JORRÉ: I will now render my decision in the appeal of Dharminder Singh Brar v. Her Majesty the Queen.
+[2] Mr. Brar appeals from an assessment of his 2000, 2001 and 2002 taxation years where the Minister determined his income by means of what is commonly referred to as the "net worth method". He also appeals from gross negligence penalties imposed pursuant to subsection 163(2) of the Income Tax Act.
+[3] There were three witnesses, the Appellant, the Appellant's spouse ― who testified briefly ― and the auditor.
+[4] In the years in question the Appellant's declared income was quite low, $849 in the 2000 taxation year, $114 in the 2001 taxation year and $2,965 in the 2002 taxation year respectively.
+[5] In the course of the audit the auditor obtained various information, including bank statements; he also obtained, among other things, statements from the Appellant as to his expenses.
+[6] The auditor's conclusion was that the Appellant's net worth increased steadily from ― in round numbers ― about $21,000 on December 31, 1999 to about $94,000 on December 31, 2002.
+[7] After making various adjustments, such as adding personal expenditures and deleting gifts received as well as reported income the auditor concluded that there was a discrepancy between the apparent income and the reported income of some $32,000 in the 2000 year, $22,000 in the 2001 year and $46,000 in the 2002 year.
+The net worth has an unusual feature insofar as the Appellant got married in 2001 with the result that the auditor took account of only the Appellant's net worth as of the end of 1999 and 2000, but also took account of the Appellant and his spouse's net worth at the end of 2001 and 2002.
+[8] At the hearing I was concerned that the transition from taking account of only one person to taking account of two persons not result in any errors; the evidence I heard has satisfied me that subject to one correction, which I will discuss below, that was correctly done.
+[9] The auditor's method was, in effect, the following: for the 2000 taxation year, in order to determine the change in net worth he compared the Appellant's net worth at the end of 2000 with that of the Appellant alone at the end of 1999.
+[10] For the 2001 taxation year he compared the net worth of the Appellant and the spouse at the end of the year with that of the Appellant at the end of 2000. For 2002, he compared the Appellant and his spouse's net worth at the end of the year with that of the Appellant and his spouse at the end of 2001.
+[11] For the 2002 year he also made an adjustment which had the effect of reducing the net worth of the couple by the net worth of the spouse on December 31, 2001.
+[12] Clearly, one should compare like with like and in 2001 the comparison should have been between the Appellant's net worth only at the end of 2001 and his net worth only at the end of 2000.
+[13] This would have been achieved, in effect, by making in 2001 the adjustment that the auditor made in 2002, i.e., the reduction of the change in net worth by the amount of the Appellant's spouse's net worth on December 31, 2001, the amount of that adjustment was $2,412.34 and as a result the change in the net worth in 2001 should be decreased by $2,412.34. Logically, this should produce an offsetting increase in 2002.
+[14] However, given that the court can not increase an assessment and given that, as I will explain later, there are no other changes in the 2002 year that I find to be necessary there will not be an offsetting change in 2002.
+[15] The Appellant's testimony was that at the relevant times he did not work and only did odd jobs. He also testified that at the time of his marriage in September 2001 he and his wife received some $30,000 in gifts, later he said they received at least $37,000 in gifts.
+[16] At one point he said his parents did his tax returns, although when shown his returns he agreed that they had been prepared by an accountant.
+[17] From 2000 until some time in 2002 the Appellant lived with his parents. In 2002 he and his wife bought a home. The Appellant was shown and agreed with the figures in the middle column of the personal expenditure worksheet prepared by the auditor. The middle column is the taxpayer's estimates of his expenditures. He also testified that his parents paid most of his expenditures.
+[18] He denied that he worked at V-Tech Auto Centre during the period in issue. V-Tech Auto Centre belonged to his mother's brother; however, he did occasionally go there and help out, although he stated that he was never paid.
+[19] The Appellant was also asked if he went to school in the period. He was not sure but he thought that it was in 1999 that he enrolled in Sheridan College in a business management course. He believed he attended for a year and a half. Again, he stated that this was paid for by his parents.
+[20] In 2001 he took an automotive course which cost $3,000 and which he testified that either his parents or wife paid for.
+[21] Among the expenses added by the auditor to those the Appellant gave the auditor were the cost of wedding photos and the cost of his honeymoon. He testified that his mother-in-law paid for the photos and an uncle paid for the honeymoon.
+[22] In cross-examination the Appellant did agree that he was working at the very end of 2002. The Appellant took the position that the numbers in the net worth could not be right. He testified that he did not have the income added by the Minister. His evidence was very general, unspecific and vague.
+[23] Except in three main areas the Appellant led little evidence or no evidence to challenge the numbers for various assets, liabilities and adjustments which form the basis of the net worth.
+[24] One specific challenge was that he said that no account was taken of money which his father had saved up for him over the years and had given to him as a lump sum. He referred to his father as saving "bonuses up".
+[25] I am not sure what this refers to and perhaps it is a reference to what used to be called baby bonus, the family allowance, and became subsequently the Canada Child Tax Benefit. He provided no detail as to the quantum of this lump sum gift or when it was given. I would expect a son to remember if his father gave him a large sum, at least in round numbers, the sum and when that occurred, at least the year.
+[26] One would also, for a large sum, expect that it would be possible to show a corresponding bank deposit or investment. We were provided with no details in evidence as to this.
+[27] I also note that if this happened prior to 2000 such a gift would, in any event, be reflected in the opening net worth. I am not persuaded that any such gift was made during the period of the net worth.
+[28] There was also some mention of gambling winnings. This was apparently made primarily at earlier stages of this matter during the objection process and eventually documentation was produced to the auditor.
+[29] The documentation received apparently showed gambling losses in two years and gambling gains in one year and these were incorporated into the net worth. There was no evidence of any other gambling winnings.
+[30] Finally, the specific area of contention by the Appellant was the question of the wedding gifts mentioned earlier.
+[31] I would first note in his Notice of Appeal that the Appellant also alleged that he and his wife received an unspecified amount in engagement gifts as well as an unspecified amount of financial help from his parents in buying their house.
+[32] In the course of the evidence of this hearing I did not hear the Appellant say anything about either of those sums alleged in his Notice of Appeal.
+[33] As for the alleged wedding gifts, the Appellant produced wedding gift cards to the auditor with an amount that was written on the back of each card, this amount represented the specific gift given to the Appellant and his wife by the particular guests at the wedding; these amounts from various guests totalled some $17,186. The auditor testified that, to use the auditor’s own words, "he gave the Appellant the benefit of the doubt" and accepted that the couple had received the entire $17,186. I shall return to this amount in a moment.
+[34] As for the other gifts which would bring the total to what the Appellant said was at least $37,000, it was the Appellant's evidence that they were given to the couple in envelopes without cards and as a result he was not able to provide any details.
+[35] While there may have been some such amounts, one would expect that if $30,000, or possibly more, were collected at the wedding or the reception, then within a very short period of time there would be corresponding bank deposits that could be shown in a straightforward way through bank records. There was no such evidence tendered.
+[36] There is nothing in the evidence before me that could justify a conclusion that there was some $20,000 of additional gifts beyond the $17,000 accepted by the auditor.
+[37] Overall I do not accept the Appellant's evidence. Considering the large amounts of money that flowed through his accounts I cannot accept that he would have been unable to provide more details and clearer answers and at least some documentation.
+[38] During the course of cross-examination the Appellant was shown a number of documents apparently signed by him. His evidence was that he had never signed these documents, had never participated in the relevant transactions. He also testified that he subsequently learned his sister had signed them; indeed, he took the position that his sister had created many of his problems.
+[39] Whether or not he signed these documents, nothing in them actually affects the numbers used in computing the net worth. For example, the documents in R-2 relate to a loan application with the Toronto Dominion Bank; that application is for a loan account numbered 9180668-01 which appears to be entirely different from the number of the TD line of credit in the net worth which is account 136-423429.
+[40] If I am wrong in this and this is one and the same account the consequence of removing the line of the credit shown in the net worth would be to decrease his net worth by $19.50 in 2001 and to increase it by $7,669.69 in 2002, not a change helpful to the Appellant.
+[41] One matter which I raised was a step in the audit methodology of adding to the assets large withdrawals. My concern was that there be no double counting between large withdrawals and either expenditures which are added in the adjustments to the change in net worth or to new assets acquired in the course of the year.
+[42] The auditor explained this step, as I understand it, in the following way: first, the cutoff for large withdrawals was that they had to be amounts in excess of $500 and in effect amounts under that are assumed for ongoing expenses; however, for the larger amounts it is assumed that the cash withdrawn is saved and held by the Appellant unless there is an explanation for the use of the large withdrawals.
+[43] As a general proposition I can accept the step as a logical one in a net worth. The larger the amount of a withdrawal, the more one would expect that one should be able to pin down the use of it. I would add that it seems to me that this step requires great caution.
+[44] I would note also that if a large withdrawal were used for personal expenditure which had not been included in the expenditures added in the adjustments, the effect would be offsetting and one would logically decrease the amount of the large withdrawal added, but increase the expenditures, an offsetting change with no effect on the ultimate discrepancy according to the net worth.
+[45] In any event, as no specific challenge was made to the inclusions of these amounts there is no basis on which I can conclude that any of these amounts for large withdrawals should be adjusted.
+[46] I would like to come back to the $17,000 in wedding gifts. Earlier I said the auditor had accepted that there was $17,000 in gifts; however, he divided this in two on the basis that half was to the Appellant and half to the spouse and only deducted one half of the amount.
+[47] Since at that point in time the Appellant and his spouse had common expenditures I am not persuaded in the circumstances that it was appropriate to divide the gift in two. It appears to be more appropriate to allow as a deduction in the adjustments of the whole of the amount of the $17,186 in gifts as opposed to half of them.
+[48] I also accept that there may be a small amount of additional gifts in one form or another that the Appellant could not document at that date and it would be appropriate to consider such an amount to be $2,000.
+[49] As the Respondent correctly pointed out, a net worth is a blunt instrument and does not produce a perfect result; however, where, as here, there is substantial unreported income and no possibility of using proper books and records to construct financial statements then it is inevitable that the Minister will be obliged to use an alternative methodology to make as good an estimate of income as possible in the circumstances.
+[50] I now turn to the penalties under subsection 163(2). I am satisfied that there is gross negligence in failing to report the added income.
+[51] The amount of the unreported income is very large in relation to the reported income. In 2000 a total of $849 was reported. The Appellant's income was in fact over $31,000 higher. In 2001 the Appellant reported $114, his income was roughly $9,000 higher. In 2002 he reported $2,965, in fact, his income was some $46,000 higher.
+[52] The Appellant could not have been unaware of such large discrepancies. Clearly he was indifferent as to whether the law was complied with or not. The penalties are fully justified.
+[53] To sum up, the appeal will be allowed without costs in respect of the 2001 taxation year. It will be dismissed in respect of 2000 and 2002.
+[54] For the year 2001 the reassessment will be sent back to the Minister for reconsideration and reassessment on the basis that the net worth discrepancy, and as a result the Appellant's income, should be reduced by the following:
+a) by the $2,412.34 that I explained earlier relating to properly making the transition from the Appellant being single to being married;
+b) by an additional amount of $8,593, that is to say, the other half of the wedding gifts which the auditor recognized; and
+c) by a further amount of $2,000 in other gifts.
+[55] The three items result in a total reduction in income in the 2001 taxation year of $13,005.34.
+[56] Also in the 2001 year the penalties under subsection 163(2) that were levied should be adjusted downwards to reflect the decrease in income resulting from the changes I have just ordered. Thank you very much.
+CITATION: 2008 TCC 647
+COURT FILE NO.: 2008-97(IT)I
+STYLE OF CAUSE: DHARMINDER SINGH BRAR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 30, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF REASONS FOR
+JUDGMENT RENDERED ORALLY: October 31, 2008
+DATE OF EDITED TRANSCRIPT
+OF REASONS FOR JUDGMENT: November 27, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

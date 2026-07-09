@@ -1,0 +1,110 @@
+Title: Tremblay v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28173/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-860-28173-tremblay-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-12-09
+
+# Tremblay v. M.N.R.
+
+- Citation: 2003 TCC 860
+- Decision date: 2003-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2019, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-09
+Neutral citation
+2003 TCC 860
+File numbers
+2002-3648(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3648(EI)
+BETWEEN:
+MARTIAL TREMBLAY,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 20, 2003, at Chicoutimi, Quebec
+Before: The Honourable Deputy Judge Savoie
+Appearances:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 9th day of December, 2003.
+“S.J. Savoie”
+Savoie, D.J.
+Citation: 2003TCC860
+Date: 20031209
+Docket: 2002-3648(EI)
+BETWEEN:
+MARTIAL TREMBLAY,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard at Chicoutimi, Quebec, on August 20, 2003.
+[2] This appeal involves the insurability of Martial Tremblay’s (the “Appellant”) employment while working for Réserve des Cervidés du Saguenay Inc.(the “Payor”), during the period at issue from October 13, 1997, to January 2, 1998.
+[3] On June 28, 2002, the Minister of National Revenue (the “Minister”) informed the Appellant of his decision that this employment was not insurable because it did not meet the requirements of a contract of service; there was no employer-employee relationship between the Payor and the Appellant.
+[4] In making that decision, the Minister relied on the following assumptions of fact, which were admitted, denied or ignored by the Appellant:
+(a) The Payor, incorporated on October 13, 1990, was in the business of breeding and selling deer for consumption. (admitted)
+(b) Initially, the shares of the Payor were divided equally between the Appellant, Ghislain Tremblay (Appellant’s brother), Bertrand Tremblay (Appellant’s brother) and Réal Simard. (admitted)
+(c) On an unspecified date in 1997 or 1998, Réal Simard retired from the company and, since then, the shares of the Payor have been divided equally between the Appellant and his two brothers, Ghislain and Bertrand. (admitted)
+(d) The Payor operated the business year round with a more active period in the fall and winter. (admitted)
+(e) Before the 1996 flood, the Payor had 750 heads of deer; in 1999, the Payor only had 70 animals. (admitted)
+(f) The Appellant had been working for the Payor since the beginning of operations. (admitted)
+(g) During the period at issue, the Appellant worked on the reconstruction of bridges, roads and fences, he negotiated with the Ministry of the Environment and performed regular maintenance on the herd and the farm. (admitted)
+(h) Before and after the alleged period at issue, the Appellant performed a number of services for the Payor without remuneration. (denied)
+(i) The Appellant claimed that he earned $700 per week during the 12-week period at issue whereas his brother Ghislain thought that he earned $400 per week during that same period. (denied)
+(j) The Appellant claimed that he earned $700 per week during the period at issue whereas the Payor did not have the money to compensate him for his work before and after that period. (denied)
+(k) The Appellant claims that he was paid by cheque but neither he nor the Payor were able to submit any evidence of the alleged wages paid. (admitted)
+(l) The Payor had no payroll journals, cheques or bank statements to justify the alleged wages paid to the Appellant. (admitted)
+(m) In his 1997 and 1998 income tax returns, the Appellant did not declare any revenue from the Payor. (admitted)
+(n) On January 20, 1998, the Appellant received a Record of Employment from the Payor indicating that he had worked for 480 hours and accumulated insurable earnings totalling $8,400 during the 12 week period from October 13, 1997, to January 2, 1998. (admitted)
+(o) The Appellant needed 12 weeks of insurable work to qualify for employment insurance benefits. (ignored)
+(p) There was an arrangement between the parties for the sole purpose of enabling the Appellant to qualify for employment insurance benefits. (ignored)
+[5] According to the evidence, the Appellant worked 12 consecutive weeks for the Payor, the exact number required in order to qualify for employment insurance benefits. Furthermore, the Appellant admitted to the investigators that he performed services for the Payor before and after the period at issue without remuneration. Initially, he indicated that the Payor, wanting to make the business profitable, could not justify paying him wages. Now, he maintains that he received wages during the period under appeal, but nothing in the documentation supports that claim.
+[6] In their statements to the investigators, the Appellant and his brother Ghislain Tremblay contradicted each other with respect to the wages paid to the Appellant by the Payor as the Minister alleges in subparagraph 5(i) of his Reply to Notice of Appeal.
+[7] The investigators twice asked the Payor to file some evidence of the wages paid to the Appellant and the Payor was unable to do so. During his testimony at the hearing, the Appellant admitted to not having agreed to the investigators’ request while also specifying that he remembered having found copies of cheque deposits. On his request, the Court granted him one month to file those documents and, on that date, they had not been filed.
+[8] The Appellant testified at the hearing of this case, but his testimony was hesitant, ambiguous and lacked conviction. He contradicted the statements that he made to the investigators. The testimony of Ghislain Tremblay could have, possibly, provided some answers but he did not appear at the hearing even though he was summoned to appear by the Minister. Ghislain Tremblay and the Appellant both admitted to the investigators that the Appellant had worked for the Payor without remuneration.
+[9] The Payor’s financial statements, filed as Exhibits I-1 and I-2, which cover the entire period at issue do not report, under operating expenses, any wages paid to the Appellant.
+[10] The analysis of both the oral and documentary evidence does not support the conclusion that there was a contract of service between the Appellant and the Payor. The tests developed in case law, such as control, ownership of tools, chances of profit and risks of loss, that were applied to the facts in the case at bar lead us to the inevitable conclusion that there was not a true contract of service, nor an employer-employee relationship between the Payor and the Appellant.
+[11] Thus, it was established there was no control over the Appellant. Furthermore, the Appellant provided his car and some land for the Payor’s operations. Without that contribution from the Appellant, the Payor would not have been able to operate its business.
+[12] In Duplin v. Canada (Minister of National Revenue - M.N.R.), [2001] T.C.J. No. 136, Tardif, J. of this Court described the essential components of a contract of service in the following manner:
+...A genuine contract of service exists where a person performs work that is defined in time and generally described in a payroll journal, in return for which that person receives fair and reasonable remuneration from the Payor, which must at all times have the power to control the actions of the person it is paying. The remuneration must correspond to the work performed for a defined period of time.
+[...]
+The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification...
+[13] In Acériculture Rémi Lachance et Fils Inc. v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 1171, a case similar to that under consideration, Tardif, J. made similar remarks:
+Unemployment insurance is not a small business support program; it is essentially a social program designed to assist people who have lost their jobs; specific conditions must be met for such assistance to be provided. There must be genuine employment necessitated by the economic reality of the business creating that employment. In other words, the employment periods must be determined essentially by the needs of the business.
+[...]
+To exclude these facts from the analysis, it is not sufficient to claim that this was not work or to play down the importance of this work done outside the periods at issue.
+[...]
+In the case at bar, the evidence clearly showed that there was no contract of service within the meaning of the Act; rather, the Appellant did her work in the context of a joint, shared business. The two statutory declarations speak volumes about the lack of control over the Appellant's work. Moreover, I do not accept the explanations provided by the Appellant and her spouse with regard to the existence of a relationship of subordination; I believe that they have distorted reality.
+Unemployment insurance is a social program established to help those who really lose their jobs, whether temporarily or permanently; there must be genuine employment and a genuine layoff, since unemployment insurance is not a financial support program to help small businesses develop.
+[14] The Appellant had the burden of proving the falseness of the Minister’s assumptions and he did not do so.
+[15] The preponderance of evidence established that the Appellant did not hold insurable employment within the meaning of the Employment Insurance Act during the period at issue because, during that period, the Appellant and the Payor were not bound by a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act. This Court must conclude that there was an agreement between the parties for the sole purpose of enabling the Appellant to qualify for employment insurance benefits.
+[16] Consequently, the appeal is dismissed and the Minister’s decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 9th day of December, 2003.
+“S.J. Savoie”
+Savoie, D.J.

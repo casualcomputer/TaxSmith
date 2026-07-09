@@ -1,0 +1,103 @@
+Title: Lauzon c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25640/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-747-25640-lauzon-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-10-16
+
+# Lauzon c. La Reine
+
+- Citation: 2003 TCC 747
+- Decision date: 2003-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4046, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lauzon c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-16
+Neutral citation
+2003 TCC 747
+File numbers
+2002-1874(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+File: 2002-1874(IT)I
+BETWEEN:
+RENÉ LAUZON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on July 9, 2003 at Montréal, Quebec.
+Before:
+The Honourable Judge Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+JUDGMENT
+The appeals of assessments under the Income Tax Act for the 1996 and 1997 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of October, 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 22nd day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC747
+Date: 20031016
+Docket: 2002-1874(IT)I
+BETWEEN:
+RENÉ LAUZON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] These are appeals under the informal procedure for new assessments that were established on April 20, 2000 for the 1996 and 1997 taxation years.
+[2] There are two items at issue. The first regards the proportion of personal use of a car provided to the Appellant by his employer within the meaning of paragraph 6(2) of the Income Tax Act (the "Act"). The second issue regards the proportion of the Appellant's self-contained domestic establishment in which the Appellant mainly carries out his employment duties within the meaning of paragraph 8(13) of the Act.
+[3] The facts upon which the Minister of National Revenue (the "Minister") relied to establish his new assessments are described in paragraph 5 of the Reply to the notice of appeal (the "Reply"):
+(a) During the years at issue, the Appellant was a sales representative for Wyeth Ayerst Canada Inc. (hereinafter referred to as the employer);
+(b) The employer provided an automobile to the Appellant who used it for both work and personal travel;
+(c) On his income statement, the Appellant stated he drove 39,507 km in 1996, only 3,688 km of which were for personal purposes;
+(d) The Appellant used the employer's vehicle for his travel on weekends and holidays as well as during his annual vacation;
+(e) The mileage log filled out by the Appellant did not include the Appellant's daily mileage;
+(f) The auditor had assessed the Appellant's actual personal mileage at 14.84% of the total;
+(g) On his income statements for the years at issue, the Appellant claimed 17% of his residence-related expenses as employment expenses, estimating that he used this percentage of his residence for business purposes;
+(h) The auditor estimated that the Appellant used 13% of his residence for business purposes;
+(i) The audit addresses the 1996 taxation year and was extrapolated for the 1997 taxation year.
+[4] The Appellant testified for himself. Mr. Guy Roy, auditor for Revenu Québec, testified for the Respondent.
+[5] For his analysis, the auditor used the historical records of gas consumption in the employer's accounts, the weekly expense accounts submitted by the Appellant to his employer, and the travel log established by the Appellant himself and produced as Exhibit I-1.
+[6] The auditor's report was produced as Exhibit I-3, and shows the number of litres of gas purchased, as well as the purchase dates. The auditor only looked specifically at the times during which the Appellant was on vacation, which were the week of 1 January 1996 and the weeks of 20 July and 4 August, and the weekends of February 5, March 31, and December 29. He noted that, according to the litres of gas purchased during these holiday periods, the mileage should have been much greater than was indicated in the Appellant's logs for these periods.
+[7] With respect to the vacation periods of July 20 and August 4, 1996, for the week ending July 27, 1996, the Appellant produced an expense record put together by the employee as Exhibit A-6. This record enables the employer to reimburse the employee's expenses. However, according to the employer's records, this was in fact a vacation period.
+[8] The Appellant did not have a car other than the one provided for him by his employer. He lived in the suburbs, in Boucherville. He had a son who lived with him. In 1996, this son was 18 years old.
+[9] With respect to the office space, the Respondent produced as Exhibit I-2 a letter from the Appellant's agent to Revenu Québec. This letter, dated November 17, 1999, mentions that the Appellant wishes to deduct his office expenses at a rate of 13% for business purposes for 1995 to 1997.
+[10] This letter reads as follows:
+[translation]
+. . .
+This is to inform you that Mr. René Lauzon wishes to deduct his office use of home expenses under section 78 of the I.T.A. The new deductions requested are $1,542 (1995), $1,670 (1996) and $1,631 (1997), reducing the percentage for business use of home to 13%, as we have assessed it.
+We thank you in advance for your cooperation. Sincerely . . .
+[11] At the time of the hearing, the Appellant emphasized that this did not include storage space.
+Analysis
+[12] I am of the opinion that the auditor's analysis of the data is substantially correct. It demonstrates that, for certain periods during which the car was more likely to be used for personal purposes, the mileage indicated by the Appellant in his travel logs was not accurate.
+[13] Instead of 9.33% personal use, the auditor arrived at a usage rate of 14.84%. It is difficult to consider credible personal use as low as 3,688 km per year. Dividing this by 52 weeks gives weekly mileage of 70 km. This is low. The Appellant lives in the suburbs and has an 18-year-old son. It is not sufficient to try to find weaknesses in the auditor's analysis. A mileage log providing plausible information on the relationship between the mileage and the litres of gas used is also necessary.
+[14] The claim for storage space cannot be made at a hearing without more evidence. In fact, we do not know what space the Appellant's agent included in his estimate mentioned in paragraphs 8 and 9 of these reasons. In addition, there was an agreement between the parties on what should be included for the purposes of these new assessments.
+[15] For all these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 16th day of October, 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Translation certified true
+on this 22nd day of March 2004.
+Shulamit Day-Savage, Translator

@@ -1,0 +1,157 @@
+---
+title: "126873 Ontario Limited o/a Autopark Superstore v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28253/index.do"
+last_modified: "2007-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 442"
+citation2: ""
+neutral_citation: "2007 TCC 442"
+decision_date: "2007-09-04"
+language: "en"
+item_id: "28253"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2034
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:46:16.354000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89433704c2d221beac0d2f39a27255e2359c4a2b64396c3e18b60aba515c5380"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 126873 Ontario Limited o/a Autopark Superstore v. M.N.R.
+
+- Citation: 2007 TCC 442
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2034, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+126873 Ontario Limited o/a Autopark Superstore v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-04
+Neutral citation
+2007 TCC 442
+File numbers
+2005-4126(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2007TCC442
+Court File Nos. 2005-4126 (EI)
+2005-4127(CPP)
+TAX COURT OF CANADA
+IN RE: the Income Tax Act
+BETWEEN:
+1268273 ONTARIO LIMITED
+o/a AUTOPARK SUPERSTORE
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+HEARD BEFORE JUSTICE WEISMAN
+in the Courts Administration Service, Courtroom Number 1,
+180 Queen Street West, 6th Floor
+Toronto, Ontario
+on Thursday, February 1, 2007 at 3:45 p.m.
+ORAL REASONS
+APPEARANCES:
+Mr. Irvin A. Schein for the Appellant
+Ms. N. Kaneira for the Respondent
+Also Present:
+Mr. C.F. Nethercut Court Registrar
+A.S.A.P. Reporting Services Inc. 8 2007
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+‑‑‑ Upon commencing the oral reasons for judgment on Thursday, February 1, 2007 at 3:45 p.m.
+JUSTICE WEISMAN: I have heard two appeals by 1268273 Ontario Limited operating as AutoPark Superstore against determinations by the Respondent, Minister of National Revenue, under the Canada Pension Plan and the Employment Insurance Act for Canada Pension Plan contributions and Employment Insurance premiums for 17 workers for the two years 2001 and 2002.
+The 17 workers involved 13 consultants or sales agents whose names are listed in the Minister's reply to the notice of appeal and four other persons namely, Carol Speirs, who cleaned the Appellants' cars; Jerry Woytkiw, who worked on a part‑time basis at night for security purposes and snow removal; and Dean Clarke and Dianne Wilding who both sold warranties, undercoating, financing and insurance.
+In order to resolve the issue before the Court, the total relationship between the parties and the combined force of the whole scheme of operations must be considered in order to resolve the central or fundamental question as to whether the workers were performing their services for the Appellant as people in business on their own account or were performing them in the capacity of employees. To this end, the evidence in this matter must be subjected to the four‑and‑one test laid down as guidelines by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R. 87 DTC 5025; as confirmed in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61; and Precision Gutters Ltd. v. Canada (Minister of National Revenue), [2002] F.C.J. 771; and as further amplified by Légaré v. Canada, [1999] F.C.J. No. 878 in the Federal Court of Appeal and Pérusse v. Canada, [2000] F.C.J. No. 310 also in the Federal Court of Appeal.
+With reference first to the 13 consultants, I note that they all signed the independent sales staff agreements that are found at Tab 2 in Exhibit A‑1, clearly establishing the mutual intent of the parties that the 13 consultants be independent contractors without benefits or source deductions.
+Adverting to the four‑fold test with reference to these 13 consultants and starting with control, I found enough evidence of control to satisfy me that the control factor indicates that these 13 were employees. In the first place, the sales that they made needed managerial approval. They were not completely free to deal. In this respect, the prices of the vehicles being sold were closely controlled by the Appellant as were the commissions paid to the consultants. The evidence of that is to be found in Tab 2 of Exhibit R‑1 being schedule “A” setting out commissions as established by the Appellant.
+There was also evidence that there was a requirement that their shifts be either personally attended to or covered, again not free to come and go as they pleased. Their services were required personally, which is an aspect of control. The Saturday morning sales meetings were required to be attended unless they were occupied otherwise selling vehicles, and all in all I was satisfied that there is a relationship of subordination between the 13 consultants and the Appellant as opposed to one of independence that one would normally expect to see in an independent contractor/payor relationship.
+So far as tools are concerned, I found this factor equivocal. The Appellant, there is evidence, provided desks, provided the premises, the offices from which they worked and the lot upon which the vehicles were situated unless there was a situation which was unusual and not the usual case where the car was to be taken of the premises to the potential purchaser.
+I am satisfied that all these consultants had a computer on the desk and all the various forms that had to be signed were provided by the Appellant. I do not agree with the Minister that the cars which were the item that were being sold can be considered a tool. On the other hand the consultants according to the reply, paragraph 12(aa), which is substantiated by the evidence, supply their own business cards, cellular phones, office supplies, sales licenses, personal logs, invoices and their own vehicles.
+The consultant’s vehicle is a complication because normally that would be a large tool supplied by the consultant, but in this case because of the sales incentive of $400 per month should the consultant exceed ten sales in that month, and the concomitant cost of the vehicle assessed against the consultant should they fail to meet the quota of ten per month, I found that the vehicle factor was more relevant to the issue of profit and loss than I did to ownership of tools. So I will pass onto chance of profit.
+It is true that the Appellant advertised and there was a rotation system whereby the potential clients, as a result of advertising, entered the premises then there would be turns taken among those consultants present on the premises to service those customers, but the evidence satisfied me that the bulk of the business came from the consultants' own prior clients – that is the sort of salesman that the Appellant was looking for when they entered into the independent contractor agreement with them and they encouraged their consultants to have their own clientele.
+It is clear that the remuneration was strictly by way of commission, that there was a clear chance of profit by the exercise of talent in sales, by ingenuity, by initiative, and one of the pleadings mentioned, resort to the internet. This displays the use of enterprise and sound management.
+There was also the chance of an additional $400 per month as I have already alluded to if more than ten vehicle were sold. So the chance of profit factor indicates that these 13 were independent contractors.
+So far as risk of losses is concerned, I take it as a risk of loss when one is working solely on commission, the opportunity cost which is a common economic term, in other words, the income that could have otherwise been earned on an hourly or other basis during the time that they expended trying to sell cars, and I am sure that they had to show a car to numerous clients before they succeeded in selling one, that is a loss of time which means money.
+Again, there is the possibility of loss should they fail to meet the quota of ten cars per month and have to pay for their own vehicle, and there was the list of expenses for items that I have already enumerated in paragraph 12(aa) of the Minister's reply to the notice of appeal.
+Clearly when someone is working on commission if there are no sales, there is no income. Just for interest's sake, there is a series of decisions by Justice Bowman, or Chief Justice Bowman as he now is, holding that commission salesmen are independent contractors. The risk factor also accordingly indicates that the 13 consultants were independent contractors.
+Passing on to ‑‑ well, before I do that, let's just summarize. The control test with reference to the 13 consultants indicates that they are employees. The tools factor is equivocal, both chance of profit and risk of loss factors indicate that they are independent contractors. The cases have held that these four factors do not merit equal weight in all cases.
+They are fact driven and in this case I would think that more weight should be given to the chance of profit and risk of loss factors which, as I have said, indicates that these 13 were independent contractors; but even if the result had been closer, I would have invoked the test in Wolf v. M.N.R., 2002 DTC 6853 and in Royal Winnipeg Ballet v. M.N.R., 2006 DTC 6323, because of the clear intent of the parties as evidenced by Tab 2 in Exhibit 1 and I have no problem concluding that the 13 were independent contractors looked at from both the four‑and‑one point of view and from the intention of the parties point of view.
+So far as Carol Speirs is concerned, I was careful to point out to counsel for the Appellant that the burden was on the Appellant to establish the fact that the Minister's determination was not objectively reasonable on the four heads or guidelines set out in Wiebe Door and that was not done in the case of Carol Speirs.
+The evidence with reference to her was that she was paid on an hourly basis but we do not know how much per hour. Her hours were not recorded or checked but were trusted, and the $1,087.50 that she claimed on her one invoice plus GST on Tab 35 was just accepted because she was trusted.
+Mr. Mill, on behalf of the Appellant, candidly admitted that he did not know who owned the tools that she used other than the water, so I have no evidence as to what degree of control was exercised over her, who owned the tools, whether she had a chance of profit, whether she had a risk of loss, and whether she did the work personally or whether she was free to have the work done by other hands, helpers or employees.
+So, the Appellant having failed to discharge the burden of proof, I have no choice but to find that the decision of the Minister has to stand. It is objectively reasonable and Carol Speirs was an employee under a contract of service during the period under review.
+Jerry Woytkiw. This gentleman worked part time evenings when needed, when there was vandalism and security was deemed warranted, and he also did snow plowing when required, paid on an hourly basis. I have sufficient evidence to make a decision in reference to Mr. Woytkiw because he had a truck expense which is a large tool, and while I had no evidence as to control, it was very clear that one who shows up on a part‑time basis for security and snow clearing purposes and who has his own truck certainly has a risk of loss if the truck expenses are not defrayed by income that he is earning from the Appellant or otherwise, and concomitantly I would have thought that there is a chance of profit by the use of initiative and ingenuity and sound management and I therefore concluded that he was an independent contractor.
+This finally brings me to Dean Clarke and Dianne Wilding. I have seen or I have heard that the facts in either case are the same. They had the same function for the Appellant. They sold warranties, rustproofing, financing and insurance. It is my understanding from the evidence that there was some special expertise for these two. It took shopping around both for insurance rates and for financing in order to be able to offer the customer the best possible contracts in those regards. It is fairly clear that by the exercise of their skill in that regard and their initiative and their imagination, they could offer competitive rates, and they could attract more sales.
+I find that they had a chance of profit, and also when they are working strictly on commission as I have already said with reference to the 13, if they are not selling, they are not making money which is a loss of time and opportunity cost. There was one factor with reference to these two and that is the tools which would indicate that they are employees because they were given offices and phones and computers and all the forms. The only thing they supplied themselves was their business cards and invoices that they submitted to the Appellant. Again, they both signed the independent contractor agreement, Tab 2, Exhibit A‑1. They worked on a commission basis. I would give more weight to the profit and loss factor and I find them independent contractors as well.
+There was a suggestion that if a consultant made false promises or extravagant compromises to a potential customer that was not approved by the sales manager then they would have to pay for that cd player or whatever and that was a risk of loss. I agree with the counsel for the Minister that that is not a risk of loss.
+Throughout the proceedings, I considered drawing an adverse inference against the Appellant by virtue of the failure to call any of these 17 workers and I understand the Supreme Court of Canada decision in Levesque v. Comeau, [1970] S.C.R. 1010, in brief it says: The failure of a pivotal key witness to testify without explanation enables the Court to draw an adverse inference that the testimony would nothave been helpful to the Appellant's case.
+I have always understood that that explanation has to come from the Appellant. I did not agree with counsel for the Appellant that somehow it was up to the Minister to explain the absence of these witnesses.
+Having said that, I spent the trial considering drawing that adverse inference and I decided in the end that I have heard sufficient evidence, including that of Mr. Charlton to satisfy me that I should not exercise my discretion and draw an inference because I heard sufficient evidence to enable me to decide the various issues involved in this matter.
+In the result, the burden is on the Appellant to demolish the assumptions contained in the Minister's reply to the notice of appeal. The Appellant failed to satisfy me on a balance of probabilities with reference to Carol Speirs that the decision of the Minister was not objectively reasonable pursuant to Légaré and Pérusse, and, therefore, the two appeals with reference to her will be dismissed and the decision of the Minister confirmed.
+With reference to the 13 consultants and Jerry Woytkiw, Dean Clarke and Dianne Wilding, sufficient of the Minister's assumptions have been demolished to establish that the decision of the Minister was not objectively reasonable. The Appellant has discharged the burden of proof upon him in this regard and those 16 ‑‑ actually 32 appeals, 16 under the Canada Pension Plan and 16 under the Employment Insurance Act will be allowed and the decisions of the Minister vacated.
+Have I neglected anything? I appreciate your assistance, thank you.
+THE REGISTRAR: This matter is concluded.
+‑‑‑ Whereupon concluding the oral reasons for judgment.
+CITATION:
+2007TCC442
+COURT FILES NO.:
+2005-4126(EI) and
+2005-4127(CPP)
+STYLE OF CAUSE:
+126873 Ontario Limited o/a Autopark Superstore and
+The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 1, 2007
+ORAL REASONS FOR
+JUDGMENT BY:
+The Honourable N. Weisman,
+Deputy Judge
+DATE OF ORAL JUDGMENT: February 1, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Irvin A. Schein
+Yosef Adler (Student-at-law)
+Counsel for the Respondent:
+Nimanthika Kaneira
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Irvin A. Schein
+Firm:
+Minden Gross LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada Ottawa, Canada

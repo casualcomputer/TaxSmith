@@ -1,0 +1,107 @@
+---
+title: "Wotherspoon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30441/index.do"
+last_modified: "2011-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 343"
+citation2: ""
+neutral_citation: "2011 TCC 343"
+decision_date: "2011-05-04"
+language: "en"
+item_id: "30441"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7912
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:37:25.814000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d46423ba7d968c8c7af11feee5a3df90725e2b6edaaa9a9ec442b9e2e7b83380"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wotherspoon v. The Queen
+
+- Citation: 2011 TCC 343
+- Decision date: 2011-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7912, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wotherspoon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-04
+Neutral citation
+2011 TCC 343
+File numbers
+2010-568(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2011 TCC 343
+Date: 20110708
+Docket: 2010-568(GST)I
+BETWEEN:
+JAMES WOTHERSPOON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on May 4, 2011 at Kelowna, British Columbia)
+Campbell J.
+[1] Let the record show that I am delivering oral reasons in the appeal of James Wotherspoon. I heard this appeal yesterday.
+[2] On September 6, 2007, the Appellant executed a contract for the purchase of a condominium unit located at 207-6375 Whiskey Jack Road, Big White, British Columbia, from the vendors, Don Bigelow and his spouse, Frances Solmundson. The purchase was completed in late 2007. The Appellant purchased the unit to use personally as his residence. According to the purchaser’s statement of adjustments, the Appellant paid Goods and Services Tax, which I will refer to throughout as “GST”, of 6 percent in respect to this transaction in an amount equal to $8,340.00. According to the contract of Purchase and Sale, the Appellant acknowledged that the sale of this property was not GST exempt and that he would be responsible for paying any applicable GST in respect to the purchase price of $139,000.00.
+[3] The evidence of Don Bigelow, one of the vendors, was that he purchased this property in early 2005 and applied for and received a GST registration number in December of 2004. He testified that the property was purchased as a ski rental unit, with Okanogan Vacation Rentals looking after the rental of the unit for the vendors. The vendors never resided in the condominium and Mr. Bigelow referred to it as an investment property. Some improvements were made to the unit prior to its sale in 2007 to the Appellant. Throughout the vendors’ ownership, rental income was declared, GST collected and remitted and input tax credits claimed. The rentals were short term, according to Mr. Bigelow’s evidence, and averaged seven to ten days.
+[4] According to correspondence from the solicitor, dated December 7, 2007, the Appellant was advised that, pursuant to information received from the GST rulings department, GST was payable by the Appellant on the condominium purchase price, but he would still be eligible to apply for the New Housing Rebate because the property had been converted from commercial use to residential use. On December 11, 2007, the Appellant did apply for the New Housing Rebate and he successfully claimed a rebate of $3,002.40, based on the purchase price of $139,000.00.
+[5] On January 15, 2008, the Appellant submitted a general application for rebate of GST in which he requested a rebate of the entire amount of GST paid on this purchase as an amount that was paid by him in error. Although the Appellant successfully claimed the New Housing Rebate, the Minister of National Revenue (the “Minister”) denied the Appellant’s general application for rebate of GST.
+[6] The issue is whether the Appellant is entitled to receive this general rebate of GST paid in respect to the condominium purchase. The Respondent’s primary position is that, at the time of the purchase by the Appellant, the condominium unit was not a residential complex as defined in subsection 123(1) of the Excise Tax Act, R.S.C. 1985, c. E-15 as amended (the “Act”) and, consequently, the sale was not an exempt supply according to this provision, and Schedule V, Part 1, subsections 2 (used residential property) or 4 (single home or condominium sold by builder) of the Act.
+[7] Rebate for payments of tax made in error is governed by subsections 261(1) and (2). Based on the evidence before me, I have concluded that the GST tax was not paid in error as the sale was not an exempt supply. The condominium unit does not comply with the definition of “residential complex” set out in subsection 123(1) of the Act because all, or substantially all, of the use the vendors, Don Bigelow and his spouse, put the condominium unit to was rentals for periods of time of less than the 60-day periods referred to in this provision. According to the evidence of Mr. Bigelow, the rental periods were of a short duration, generally seven to ten days.
+[8] In addition, the correspondence of the legal firm, Bishop & Company, states that the sellers used this property in the course of a business by renting it out on a short-term basis. Accordingly, the sale of this property to the Appellant was not an exempt supply pursuant to subsection 123(1) and Schedule V, Part 1, subsections 2 or 4 of the Act.
+[9] The evidence supports that the property was not a premises similar to those described in subsection 123(1), that the vendors used a company that arranged for the rentals, hired individuals to clean the unit, rented it for short-term periods averaging seven to ten days and that the vendors never used it as a place for their personal residence. This means that the property falls within the concluding portion of subsection 123(1) and, therefore, it must be excluded from the definition of residential complex and considered a taxable supply made in the course of a commercial activity.
+[10] The Appellant did not adduce evidence that could demolish the assumptions upon which the Minister relied and upon which the assessment was based.
+[11] Although the Respondent presented several alternative arguments in the event that this Court might conclude that the property was a residential complex, since I have determined that the condominium unit was not a residential complex at the time of the purchase by the Appellant, I see no need to deal with the several alternative arguments in light of my conclusions.
+[12] The appeal is therefore dismissed without costs.
+Signed at Charlottetown, Prince Edward Island, this 8th day of July 2011.
+“Diane Campbell”
+Campbell J.
+CITATION: 2011 TCC 343
+COURT FILE NO.: 2010-568(GST)I
+STYLE OF CAUSE: James Wotherspoon and Her Majesty the Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: May 3, 2011
+REASONS FOR JUDGMENT BY: The Honourable Judge Campbell
+DATE OF ORAL JUDGMENT: May 4, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amandeep K. Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

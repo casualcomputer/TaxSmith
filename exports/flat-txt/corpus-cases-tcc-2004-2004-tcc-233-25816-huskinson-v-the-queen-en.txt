@@ -1,0 +1,120 @@
+Title: Huskinson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25816/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-233-25816-huskinson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-04-14
+
+# Huskinson v. The Queen
+
+- Citation: 2004 TCC 233
+- Decision date: 2004-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3892, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huskinson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-14
+Neutral citation
+2004 TCC 233
+File numbers
+2003-1749(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC233
+Date: 20040414
+Docket: 2003-1749(IT)I
+2003-3373(IT)I
+BETWEEN:
+LINDA HUSKINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant herself
+Counsel for the Respondent: Ronald MacPhee
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Belleville, Ontario, on January 28, 2004)
+Mogan J.
+[1] These appeals are in respect of the taxation years 1996, 2000, 2001 and 2002. In each of those years, the Appellant received certain amounts from her former husband as child support. Because of circumstances which arose in 1999, the Appellant reviewed the history of her separation from her former husband; and she concluded that the amounts received from him ought not to be part of her income in the years under appeal. Canada Customs and Revenue Agency issued assessments to the Appellant for each of those four years including in her income the amounts received from her former husband. The Appellant has appealed from those assessments and has elected the informal procedure. The issue is whether certain amounts received by the Appellant as child support in the years under appeal are required to be included in computing her income.
+[2] The Appellant was married in 1975 and there were four children born of the marriage: Ben in 1978; Emmet in 1980; Katherine in 1982; and Emily in 1984. The Appellant and her former husband separated in September 1988. In 1990, there were divorce proceedings commenced and a divorce was granted in 1991. The Appellant had difficulty obtaining financial support from her husband following the separation in September 1988. There is no doubt that the Appellant went through some very difficult times because she had custody of the four children. In what may seem like unusual circumstances, in 1988 she and her husband purchased a farm east of Peterborough. They were planning to move to the farm in the fall of 1988. When September came, she moved to the farm with the children but the husband did not. He remained in the matrimonial home and the separation, in effect, took place then. And so the Appellant was left in a new dwelling on a farm looking after the four children on very limited financial support.
+[3] She made a claim for child support against her husband. There were some legal proceedings but for the purposes of these appeals, the relevant proceedings occurred in the 1993 calendar year. Counsel for the Respondent put to the Appellant in evidence a binder of five documents which I shall refer to briefly. The first document (Exhibit R-1, Tab 1) can be dismissed very quickly because it is only a draft order dated November 14, 1989. There is no indication it was ever signed. I would dismiss it out of hand as having no evidentiary value. In 1993, there was an action commenced in the Ontario Court, General Division in which the former husband was plaintiff and the Appellant (named in the pleadings as Boomhour being her married name) was defendant.
+[4] Apparently, the matter came on for trial on June 8, 1993. On that day, Minutes of Settlement (Exhibit R-1, Tab 2) were prepared. Tab 2 is a hybrid document because it started out as a memorandum of agreement and then someone has struck out the typed heading "Memorandum of Agreement" and handwritten above that "Minutes of Settlement". On the first two pages which were typed, there are significant handwritten amendments. Paragraph 5 is struck out totally and there are some words written into various lines of paragraph 6. Someone has handwritten new paragraphs 6A and 6B. Paragraphs 7 and 8 appear in the document as typed without change. Paragraph 9 (the typed version) is totally struck out and a new handwritten paragraph 9 has been added. Also, there is nothing but handwriting in the rest of the document which includes paragraphs 10, 11, 12, 13, 14(a), 14(b), 15, 16, 17, and 18.
+[5] Atthe bottom of the fourth page someone has printed by hand "Dated at Peterborough this 8th day of June 1993" and then there is a provision for signature by three persons. The first line has Linda C. Boomhour printed under it by hand, and the Appellant identified her signature on the line above that and also identified the witness, Diane Mills, as someone who was working at the Courts. Under the next line is printed the name William Louis Boomhour and above that line someone seems to have signed with a witness. I will comment on that below. Under the third line is handwritten Alice Huskinson and, above that line, there is a signature which the Appellant identified as that of her mother also witnessed by Diane Mills.
+[6] The Appellant said she could not recognize her husband's signature on the second line because in the last syllable of his last name, there appears to be an "i" when in fact, the last syllable is spelled H-O-U-R. She said he would never sign that way but she recognized the first name of the witness as "Donna" who was her husband's lawyer. The Appellant may not have been present when her husband signed, but I am going to make a finding on the evidence that the husband signed Exhibit R-1, Tab 2 because the Appellant recognized the signature of the husband's lawyer. I will assume that the husband's lawyer would not have signed as witness unless the husband had in fact signed first. Whatever the imperfections are in the husband's handwriting, I make a finding that the Minutes of Settlement were signed by three persons being the Appellant, her former husband, and her mother.
+[7] The Appellant said that when the proceedings were commenced in the Ontario Court, both she and her former husband owed a significant amount of money to her mother because her parents had loaned them money to buy this farm. Apparently, when the marriage came apart, the debt was still owing to the Appellant's parents which was secured, I gather, by a mortgage on the farm. The Appellant's father had died in the interim so that by 1993, the Appellant's mother was a widow and someone in the Court suggested that the mother should be made a party to the proceedings because she was a significant creditor of the Appellant and her divorced husband. As I understand the Appellant's evidence, it was in that context that the Appellant's mother signed the Minutes of Settlement.
+[8] Paragraph 17 of the Minutes of Settlement states that all paragraphs of the Minutes shall be incorporated into a judgment, save and except paragraphs 6A, 6B, 13 and 16. Paragraph 17 is important because paragraph 6A, which is handwritten, is the one that provides for child support and it states: "The husband shall pay to the wife for the support of each child of the marriage the sum of $500 per month commencing July 1, 1993. The husband shall supply post-dated cheques for support on July 1st of each year". That is the basis on which child support was paid when the husband did pay it. He defaulted from time to time but, when he paid, it was on the basis of $500 per month per child even though paragraph 6A was not incorporated into the Judgment. I will refer to paragraph 6A later in these reasons.
+[9] On the same day, the Minutes of Settlement were taken to the Honourable Mr. Justice Kerr of the Ontario Court (General Division) and he signed a Judgment (Exhibit R-1, Tab 3) which gave effect to part of the Minutes of Settlement. The preamble to the operative paragraphs of his Judgment states:
+THIS ACTION was heard this day, without a jury, at Peterborough in the presence of counsel for the Plaintiff, the Defendant appearing in person, and the Official Guardian, having withdrawn as counsel for the children.
+ON READING the pleadings, and hearing the evidence, and on reading the Minutes of Settlement filed,
+The first operative term of the Judgment begins as follows:
+1. THIS COURT ORDERS AND ADJUDGES that the Defendant shall have custody of the children of the marriage, ...
+and that is followed by other provisions. In the Judgment of the Court, however, there is no provision for child support, but it does indicate that the judge who signed it had read the Minutes of Settlement which had been signed by the parties earlier on the same day.
+[10] There was another proceeding in the Ontario Court (General Division) in late 1995 in which the former husband again appears to be the plaintiff and the Appellant is the defendant. I do not know what the claim was by the former husband but this proceeding came on before the Honourable Mr. Justice Ferguson. The preamble to his Judgment (Exhibit R-1, Tab 4) is as follows:
+THESE ACTIONS were heard on the 15th, 16th, and 17th days of November, 1995 without a jury at the Courthouse, Central East Region, 440 Kent Street West, Lindsay, Ontario, in the presence of counsel for the Defendant, William Louis Boomhour, and the Plaintiff, Alice Huskinson, appearing in person (with the assistance of her daughter, Linda Boomhour), and the Court having reserved its decision until this date.
+ON READING the motion records dated October 14, 1993 in File 2174/91 (Lindsay) and November 26, 1993 in File 836/89 (Peterborough) and the Order of The Honourable Mr. Justice Lane dated December 21, 1993, directing a trial of the issues raised in these motions, and upon hearing the evidence and the submissions of counsel for William Louis Boomhour and from Alice Huskinson personally;
+Again, the Appellant, her former husband and her mother are back in Court in the last months of 1995 and the Judge gives his decision on the January 15, 1996 (Exhibit R-1, Tab 4). The first operative paragraph states:
+1. THIS COURT ORDERS that the Minutes of Settlement dated June 8, 1993 entered into between William Louis Boomhour, Linda Boomhour and Alice Huskinson in file 846/89 are valid and binding and shall be enforced.
+The Judgment contains other terms but there is no provision for child support. Therefore, the only document which provides for child support is the Minutes of Settlement (Exhibit R-1, Tab 2).
+[11] The Appellant's position is that she is not required to bring into income any of the amounts received from her former husband because of paragraph 56(1)(b) of the Income Tax Act as it applied during the years this litigation was ongoing from 1993 to 1996. For a marriage breakdown occurring before 1993, paragraph 56(1)(b) provided:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) ...
+(b) any amount received by the taxpayer in the year, pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement, as alimony or other allowance payable on a periodic basis for the maintenance of the recipient thereof, children of the marriage, or both the recipient and children of the marriage, if the recipient was living apart from, and was separated pursuant to a divorce, judicial separation or written separation agreement from, the spouse or former spouse required to make the payment at the time the payment was received and throughout the remainder of the year;
+The Appellant's position is that the amounts ought not to be included in income because of these words of paragraph (b): "pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement". The Appellant maintains that there was no decree, order, or judgment under which she received these payments and there was no written agreement. As I review the documents, I conclude that she is right that there is no decree, order, or judgment of a competent tribunal which required the child support payments to be made. But I conclude that the Appellant is in error when she argues that there was no written agreement.
+[12] The Minutes of Settlement were a written agreement. I do not have any trouble reaching that conclusion. Indeed, on the basis of all the evidence given by the Appellant and the documents produced, I cannot reach any conclusion other than the fact that the Minutes of Settlement were an agreement in writing. They were signed by the parties who had most at stake on that day: the Appellant, her former husband, and her mother who was a very significant creditor of both the Appellant and the former husband. It appears that part of the terms of this arrangement was a sorting out of properties. I think the action by the husband was under the Family Law Act to try and divide the assets of the marriage because the ownership of a farm, which the Appellant and her former husband intended to buy in the winter of 1987-1988 and which they in fact purchased, was later renegotiated to be owned one-third by the Appellant and two-thirds by her mother.
+[13] It was also determined that, with respect to the so-called matrimonial home which they had lived in until September 1988 when the Appellant and the children moved to the farm, title would be transferred to the husband. Apparently, there was supposed to be a provision whereby the amount owing to the Appellant's mother on the mortgage would be secured by a mortgage on the husband's home which was the matrimonial dwelling. Whether that was done or not is another matter and is not relevant to what I have to decide in these appeals.
+[14] What is relevant is that these three parties who had much at stake came to Court in an action which was settled by Minutes of Settlement. They went to some pains to set out the terms on which they would settle, including a provision in paragraph 17 that the Minutes would be incorporated in a Judgment excluding certain named items. That was in fact done. Judge Kerr signed his Judgment on the same day and referred to the fact that he had read the Minutes of Settlement indicating he was content to issue his Judgment excluding those provisions which the parties had agreed to exclude in the Minutes of Settlement.
+[15] There is also a provision on the last page of the Minutes of Settlement which states: "These minutes of settlement shall constitute a domestic contract pursuant to the Family Law Act". The Appellant, in argument, spent some time going through the provisions of the Family Law Act and the regulations to that Act to point out that there were defects in the Minutes of Settlement which may have and may very well even now prevent the Minutes of Settlement from being regarded as a domestic contract under the Family Law Act of Ontario.
+[16] I am not in a position to make a determination on that issue but, as I indicated to the Appellant, it is not relevant to me whether the Minutes of Settlement satisfy the conditions to qualify as a domestic contract under the Ontario Family Law Act. The provisions of the Family Law Act are totally irrelevant. The only matter which I have to be concerned with is whether the Minutes of Settlement can be construed as a written agreement within the meaning of paragraph 56(1)(b) of the Income Tax Act.
+[17] As everyone knows who is concerned with paragraph 56(1)(b), it has been the subject of much litigation since the present Act came into force in 1972; and the preceding terms which were almost exactly the same in the prior Act, were in effect from 1952 to 1971. There is a wealth of litigation in this area and the Courts have given a relatively liberal interpretation of written agreement. They have found for example, that correspondence between a lawyer for the wife and a lawyer for the husband which settles the terms of child support, even though those letters between the lawyers were never signed by the husband and wife, certain cases have found that that correspondence taken together can constitute a written agreement. It is a common-sense application of the statute, so that the amounts settled by the parties through their lawyers as their agents, would be regarded as the support amounts for income tax purposes.
+[18] The Appellant said that nobody can tell her what she signed with respect to the Minutes of Settlement; and nobody can tell her that she signed a separation agreement. She is quite right. I am not telling her what she signed when I make this finding. The documents, however, tell us what she signed and the terms are clear. She said she signed under some duress because the document was drafted (she thinks) by her husband's lawyer over a lunch hour or something, and she said that when she and her mother came back to Court, they were told that if they did not sign, they would lose the farm or some equally terrible consequence.
+[19] There is another forum, another court, where a person can move to set aside an agreement that was signed under duress. There is no indication that any steps were taken to set aside the Minutes of Settlement on the basis that they were signed under duress. What I am left with in these appeals is Minutes of Settlement signed by the Appellant and her former husband which clearly designate child support of $500 per month per child. I said I would come back to paragraph 6A again, and I have to do so in reference to the oral testimony of what happened in 1999.
+[20] The oldest child was born in 1978. By 1998-1999, Ben was around 20 years of age and, according to the Appellant's testimony, he wanted to go on to school. There was a provision that she and her former husband would contribute to his post-secondary education but, apparently, when this proposition was put to the former husband, he rejected it out-of-hand and cut off support altogether. This caused the Appellant to apply to the Family Responsibility Office for the Province of Ontario which is an agency designed to enforce payments between former spouses where there has been a marriage break-up and the dependent spouse is in need of support but the spouse who is supposed to pay support has defaulted.
+[21] The Appellant went to the Family Responsibility Office for assistance with the documents. They told her that she did not have an Order of the Court to enforce her written agreement, and she said that they sent her back to do something else. I do not know what she did but the hard fact is that sometime, at the end of 1999 or early 2000, the Family Responsibility Office caught up with the husband and put pressure on him to pay. Apparently, because he is an employee of General Motors in Oshawa on a salary, the Family Responsibility Office has great leverage to have the amounts deducted at source and remitted. The evidence of the Appellant is that in the year 2000, she got a back payment of about $7,000 in arrears from her husband, and in 2001 and 2002, the Family Responsibility Office did its job very well and enforced the performance by the former husband of the payments he should be making.
+[22] It was brought out in cross-examination that when the Appellant filed her income tax returns for 2001 and 2002, she reported $24,000 as support received in each year, which indicates to me that the Family Responsibility Office did find something to enforce against the husband and, even more important, it persuades me that the amount which the husband was forced to pay conforms with the terms of the Minutes of Settlement signed in June 1993, because $500 per child per month for four children comes to $2,000 a month; and in twelve months that is $24,000 a year. Without any evidence to the contrary, I conclude that even in the years 2001 and 2002, the former husband was still required to pay to the Appellant the amount that had been settled between them on June 8, 1993. There is no "commencement day" with respect to any events which occurred after April 1997.
+[23] There is no merit to these appeals. The evidence is overwhelming that the Appellant and her former husband signed a written agreement (Exhibit R-1, Tab 2). It was not called a separation agreement. It was not called a written agreement, but it was a document in writing, four pages long, which had been laboured over by somebody with all the crossing out and writing in of provisions. It was signed by the Appellant, her former husband, and her mother in June 1993. They were the three people with the most at stake from a property point of view in settling what their relationship should be financially in the future.
+[24] The evidence is that, ultimately, with or without further court action, they had to comply with what was decided in the Minutes of Settlement. Therefore, the Minutes of Settlement is the written agreement. It is the agreement under which the child support was in fact paid in the years under appeal and the amounts are to be included in computing the Appellant's income in the 1996, 2000, 2001 and 2002 taxation years. The appeals are dismissed.
+Signed at Ottawa, Canada, this 14th day of April, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC233
+COURT FILE NOS.:
+2003-1749(IT)I and 2003-3373(IT)I
+STYLE OF CAUSE:
+Linda Huskinson and Her Majesty the Queen
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+January 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+February 3, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,168 @@
+---
+title: "Landmark Auto Sales Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28518/index.do"
+last_modified: "2008-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 121"
+citation2: ""
+neutral_citation: "2008 CCI 121"
+decision_date: "2008-02-28"
+language: "fr"
+item_id: "28518"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1247
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:06:13.985000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08b1c1414f685b378a452dd60240b8b183b3db392f4c6dd00a733beb5cf6bae2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landmark Auto Sales Ltd. c. La Reine
+
+- Citation: 2008 CCI 121
+- Decision date: 2008-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1247, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landmark Auto Sales Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-28
+Référence neutre
+2008 CCI 121
+Numéro de dossier
+2007-2584(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-2584(IT)I
+ENTRE :
+LANDMARK AUTO SALES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 février 2008 à Victoria (Colombie‑Britannique)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentante de l’appelante :
+Catherine L. Henderson
+Avocate de l’intimée :
+Me Christa Akey
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de février 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de mars 2008.
+Jean David Robert, traducteur
+Référence : 2008CCI121
+Date : 20080228
+Dossier : 2007-2584(IT)I
+ENTRE :
+LANDMARK AUTO SALES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Landmark Auto Sales Ltd., interjette appel de la nouvelle cotisation établie à son égard par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2002. L’appelante demande que le ministre impute sur l’impôt qu’elle doit payer pour d’autres années d’imposition la somme de 5 842,96 $ qui est portée au crédit de son compte dans l’avis de nouvelle cotisation établi pour son année d’imposition 2002.
+[2] L’appelante est une petite entreprise de vente de voitures d’occasion. Catherine Henderson, l’épouse du propriétaire et administrateur de l’appelante, a représenté celle‑ci et a témoigné à l’audience. Mme Henderson était la teneuse de comptes de l’appelante pendant les années en cause.
+[3] Les difficultés de l’appelante ont commencé lorsqu’elle a omis de produire des déclarations de revenu pour certaines années, l’année 2002 étant la seule qui soit visée par le présent appel.
+[4] En avril 2005, après que l’appelante a omis de donner suite aux demandes de production de déclarations qui lui ont été adressées, le ministre a établi une cotisation arbitraire[1] à son égard pour les années d’imposition 2002 et 2003. Le montant global visé par la cotisation pour l’année 2002 était de 5 720,95 $ et comprenait des impôts fédéral et provincial, des intérêts et une pénalité pour production tardive.
+[5] Après des discussions menées entre les directeurs de l’appelante et le service de recouvrement de l’Agence du revenu du Canada (l’« ARC »), l’appelante a commencé, en juillet 2005, à effectuer des paiements mensuels de 2 200 $ en vue du remboursement de sa dette fiscale en attendant la production de ses déclarations. Elle a fait six paiements de ce genre en 2005.
+[6] Le 26 septembre 2006, l’appelante a produit sa déclaration de revenu pour l’année d’imposition 2002.
+[7] Le 24 novembre 2006, le ministre a établi un avis de nouvelle cotisation[2] fondé sur la déclaration de l’appelante. Certains rajustements ont été faits à la cotisation arbitraire établie en avril 2005, le ministre ayant notamment annulé la pénalité pour production tardive. L’avis de nouvelle cotisation se terminait sur la description des montants suivants :
+[traduction]
+Résultat de la présente nouvelle cotisation :
+5 842,96
+$
+Cr
+Solde antérieur :
+787,07
+$
+Solde total :
+787,07
+$
+[8] L’appelante ne conteste pas les montants indiqués dans l’avis de nouvelle cotisation, mais demande à la Cour d’enjoindre au ministre d’imputer le montant de 5 842,96 $ porté au crédit de son compte sur l’impôt qu’elle doit payer pour d’autres années d’imposition. En particulier, l’appelante prévoit devoir rembourser une dette fiscale relativement à des versements de TPS non effectués[3].
+[9] Le ministre soutient que l’appel doit être rejeté pour deux raisons. D’abord, il fait valoir que, si on l’examine attentivement, l’avis de nouvelle cotisation qui a été établi pour l’année d’imposition 2002 révèle qu’aucun impôt fédéral à payer n’a été fixé, et, en conséquence, il s’agit d’une cotisation portant qu’aucun impôt n’est payable, laquelle ne peut pas faire l’objet d’un appel. Ensuite, l’intimée allègue que, même si l’appel était recevable, le ministre n’aurait pas le pouvoir légal de rembourser le montant de 5 842,96 $ porté au crédit du compte de l’appelante dans l’avis de nouvelle cotisation en cause étant donné que l’appelante n’a pas produit ses déclarations dans les délais prescrits par le paragraphe 164(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[10] L’intimée a cité Wendy Faddis, une agente des appels ayant quelque 16 années d’expérience, pour qu’elle explique les calculs présentés dans l’avis de nouvelle cotisation. Mme Faddis était un témoin bien informé qui a pris grand soin d’expliquer les détails des documents relatifs à la cotisation et à la nouvelle cotisation en cause.
+Analyse
+[11] La présente affaire m’a été soumise pour la première fois sous la forme d’une demande de l’intimée visant à obtenir le rejet de l’appel interjeté par l’appelante au motif qu’il était fondé sur une cotisation portant qu’aucun impôt n’est payable. Comme il n’était pas clair, au vu de la preuve par affidavit qui a été présentée à l’appui de la demande de l’intimée, qu’aucun impôt à payer n’avait été fixé pour l’année d’imposition 2002 de l’appelante, j’ai rejeté[4] cette demande.
+[12] Ayant maintenant entendu les témoignages des parties et examiné les dispositions applicables de la Loi et la jurisprudence pertinente, je regrette de dire qu’il n’y a aucun fondement sur lequel l’appel introduit par l’appelante puisse être accueilli. J’emploie le mot « regrette » parce qu’il ne fait aucun doute que l’appelante a payé au ministre la somme de 5 842,96 $, indiquée comme étant un solde créditeur dans l’avis de nouvelle cotisation établi à son égard pour l’année 2002, ou qu’il lui reste de l’impôt à payer pour d’autres années qui ne sont pas visées par le présent appel. Pis encore, l’appelante n’a guère les moyens de payer inutilement une somme d’une telle importance. La perte de cette somme constituera sans aucun doute une dure épreuve pour Mme Henderson et sa famille.
+[13] Dans son témoignage, Mme Faddis a examiné les montants indiqués dans l’avis de nouvelle cotisation. Elle a confirmé que le solde créditeur de 5 842,96 $ s’était accumulé par suite des paiements mensuels de 2 200 $ effectués au cours de la période entre l’établissement de la cotisation arbitraire et la production de la déclaration de revenu de l’appelante pour l’année 2002. Mme Faddis a expliqué que le « solde antérieur » de 787,07 $ indiqué comme étant dû (qui ne tient pas compte du montant porté au crédit du compte) visait l’année d’imposition 2003, qui, au moment de l’établissement de l’avis de nouvelle cotisation pour l’année 2002, avait déjà fait l’objet d’une cotisation. Le solde créditeur ne pouvait pas être imputé sur ce montant‑là parce que l’appelante avait produit sa déclaration de revenu pour l’année 2002 après l’expiration de la période au cours de laquelle il était permis au ministre de rembourser des paiements en trop en vertu du paragraphe 164(1), qui est rédigé en ces termes :
+Si la déclaration de revenu d’un contribuable pour une année d’imposition est produite dans les trois ans suivant la fin de l’année, le ministre :
+a) peut faire ce qui suit :
+(i) avant de poster l’avis de cotisation pour l’année – si le contribuable est une société admissible au sens du paragraphe 127.1(2) qui, dans sa déclaration de revenu pour l’année, déclare avoir payé un montant au titre de son impôt payable en vertu de la présente partie pour l’année par l’effet du paragraphe 127.1(1) et relativement à son crédit d’impôt à l’investissement remboursable au sens du paragraphe 127.1(2) – rembourser tout ou partie du montant demandé dans la déclaration à titre de paiement en trop pour l’année, jusqu’à concurrence de l’excédent du total visé à l’alinéa c) de la définition de « crédit d’impôt à l’investissement remboursable » au paragraphe 127.1(2) sur le total visé à l’alinéa d) de cette définition, quant au contribuable pour l’année.
+(ii) avant de poster l’avis de cotisation pour l’année − si le contribuable est une société admissible, au sens du paragraphe 125.4(1), ou une société de production admissible, au sens du paragraphe 125.5(1) et si un montant est réputé par les paragraphes 125.4(3) ou 125.5(3) avoir été payé au titre de son impôt payable en vertu de la présente partie pour l’année − rembourser tout ou partie du montant demandé dans la déclaration à titre de paiement en trop pour l’année, jusqu’à concurrence du total des montants ainsi réputés avoir été payés,
+(iii) lors de la mise à la poste de l’avis de cotisation pour l’année ou par la suite, rembourser tout paiement en trop pour l’année, dans la mesure où ce paiement n’est pas remboursé en application des sous-alinéas (i) ou (ii);
+b) doit effectuer le remboursement visé au sous-alinéa a)(iii) avec diligence après avoir posté l’avis de cotisation, si le contribuable en fait la demande par écrit au cours de la période pendant laquelle le ministre pourrait établir, aux termes du paragraphe 152(4), une cotisation concernant l’impôt payable en vertu de la présente partie par le contribuable pour l’année s’il n’était pas tenu compte de l’alinéa 152(4)a).
+[14] Étant donné que la déclaration de l’appelante pour son exercice se terminant le 31 décembre 2002 a été produite le 26 septembre 2006, il ne fait aucun doute que le délai pour demander un remboursement en vertu du paragraphe 164(1) est expiré. De plus, comme l’appelante est une société et non un particulier, elle ne peut pas se prévaloir de l’allègement offert aux particuliers contribuables au paragraphe 164(1.5), qui, même en cas de production tardive, permet au ministre, dans certaines circonstances, de rembourser un paiement en trop.
+[15] Mme Henderson n’a aucune formation juridique. Cependant, elle a déployé beaucoup d’efforts pour trouver dans la Loi des dispositions permettant la récupération du paiement en trop de l’appelante. Elle a fait valoir que le ministre pouvait imputer le solde créditeur en cause sur d’autres dettes de l’appelante en vertu du paragraphe 164(2), qui est ainsi libellé :
+(2) Imputation du remboursement. Lorsque le contribuable est redevable d’un montant à Sa Majesté du chef du Canada ou du chef d’une province ou est sur le point de l’être, le ministre peut, au lieu de rembourser un paiement en trop ou une somme en litige, qui pourrait par ailleurs être remboursé en vertu du présent article, imputer la somme à rembourser sur ce dont le contribuable est ainsi redevable et en aviser celui-ci. [Non souligné dans l’original.]
+[16] Cet argument ne peut être retenu que s’il n’est pas tenu compte des termes suivants de cette disposition : « qui pourrait par ailleurs être remboursé en vertu [de l’article 164] ». Pour que le ministre puisse invoquer le paragraphe 164(2) pour imputer le solde créditeur de 5 842,96 $ sur d’autres sommes dont l’appelante est ou pourrait devenir redevable, le paiement en trop ou la somme en litige doit d’abord pouvoir « par ailleurs » être remboursé en vertu de l’article 164. Étant donné que le paragraphe 164(1) empêche le remboursement en cause en raison de la production tardive des déclarations de l’appelante et que l’exception à cette règle qui est prévue au paragraphe 164(1.5) ne s’applique pas aux contribuables constitués en sociétés, il n’y a aucun paiement en trop ou somme en litige qui pourrait « par ailleurs » être remboursé à l’appelante en vertu de l’article 164. Par conséquent, le paragraphe 164(2) ne permet pas le remboursement de la somme portée au crédit du compte de l’appelante par son imputation sur les autres dettes fiscales de celle‑ci.
+[17] Mme Henderson a aussi porté à l’attention de la Cour une formule intitulée « Compensation statutaire[5] » signée par l’agent de recouvrement et datée du 7 novembre 2005. Dans ce document, l’appelante est qualifiée de [traduction] « débitrice fiscale », et on y demande que l’ARC retienne 9 049,13 $ par voie de déduction ou de compensation [traduction] « sur les sommes dont [l’ARC] est ou pourrait devenir redevable à [l’appelante] ». Mme Henderson a fait valoir que l’effet de ce document était d’autoriser le ministre à imputer le solde créditeur de 5 842,96 $ sur les autres dettes fiscales de l’appelante.
+[18] Il s’agit d’un argument séduisant, mais, encore une fois, il ne saurait être retenu. À la date de la signature de la Compensation statutaire, le 7 novembre 2005, l’appelante avait effectué quatre paiements mensuels de 2 200 $. À ce moment‑là, l’ARC n’était « redevable » d’aucune somme à l’appelante parce que le ministre attendait toujours qu’elle produise ses déclarations tardives. De plus, le montant de la dette fiscale de l’appelante n’était toujours pas connu. Lorsque l’appelante a finalement produit sa déclaration pour l’année 2002, le 26 septembre 2006, elle ne pouvait pas se fonder sur le paragraphe 164(1) pour demander un remboursement des sommes payées en trop par rapport à l’impôt à payer, qui a été fixé de façon définitive en novembre 2006, et ce, parce que le délai pour le faire était expiré depuis longtemps. Par conséquent, l’ARC n’est jamais « devenue redevable » à l’appelante du solde créditeur de 5 842,96 $ indiqué dans l’avis de nouvelle cotisation et, en conséquence, ce montant n’a jamais été « saisi » (faute d’un meilleur terme) en vertu de la Compensation statutaire pour permettre son imputation sur d’autres dettes fiscales.
+[19] Il faut savoir gré à Mme Henderson d’avoir reconnu que les difficultés de l’appelante découlent de son omission de se conformer, dans les délais prescrits, aux exigences en matière de production de déclarations de la Loi. J’ajoute foi à son témoignage selon lequel, par suite de ses discussions avec des fonctionnaires de l’ARC (en particulier, l’agent de recouvrement avec qui elle coopérait en vue du remboursement de la dette fiscale de l’appelante), elle avait compris que toute somme payée en trop par rapport à l’impôt dû fixé de façon définitive au moment de la production de la déclaration pour l’année 2002 serait remboursée ou imputée sur les autres dettes fiscales de l’appelante. Malheureusement, ce que l’agent de recouvrement lui a dit à ce moment‑là s’est révélé être, si ce n’est inexact, du moins incomplet. Le droit est clair : le ministre ne peut pas être lié par des interprétations erronées de la loi faites par ses fonctionnaires.
+Conclusion
+[20] Malgré l’impression laissée par le « solde antérieur » de 787,07 $ indiqué dans l’avis de nouvelle cotisation en cause, aucun impôt n’était à payer, en réalité, pour l’année d’imposition 2002. De plus, l’objectif de l’appelante dans le présent appel n’est pas de contester les montants visés par la nouvelle cotisation. Eu égard à ces circonstances, aucun appel ne peut être interjeté à l’encontre de la nouvelle cotisation en cause[6]. Même si l’appel était recevable, il n’existe aucune disposition législative autorisant le ministre à rembourser l’appelante, compte tenu de l’omission de cette dernière de produire sa déclaration dans le délai de trois ans prescrit par le paragraphe 164(1) de la Loi.
+[21] Pour ces motifs, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 28e jour de février 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 27e jour de mars 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2008CCI121
+Nº DU DOSSIER DE LA COUR : 2007-2584(IT)I
+INTITULÉ : Landmark Auto Sales Ltd. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 4 février 2008
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 28 février 2008
+COMPARUTIONS :
+Représentante de l’appelante :
+Catherine L. Henderson
+Avocate de l’intimée :
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] En vertu du paragraphe 152(7) de la Loi de l’impôt sur le revenu. Voir la pièce A‑5.
+[2] Pièce A‑4.
+[3] Pièce A‑7.
+[4] Par une ordonnance datée du 13 décembre 2007.
+[5] Pièce A‑6.
+[6] Interior Savings Credit Union v. R., [2007] 4 C.T.C. 55 (C.A.F.), aux paragraphes 15 à 19.

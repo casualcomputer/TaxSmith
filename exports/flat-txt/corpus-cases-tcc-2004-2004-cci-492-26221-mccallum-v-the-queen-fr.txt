@@ -1,0 +1,110 @@
+Title: McCallum v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26221/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-492-26221-mccallum-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-07-29
+
+# McCallum v. The Queen
+
+- Citation: 2004 CCI 492
+- Decision date: 2004-07-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4018, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCallum v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-29
+Référence neutre
+2004 CCI 492
+Numéro de dossier
+2000-1764(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-1764(IT)G
+ENTRE :
+RONALD McCALLUM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 16 juin 2004, à Ottawa (Ontario).
+Par la juge Lucie Lamarre
+COMPARUTIONS
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des avis de cotisation établis en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996 et 1997 sont rejetés.
+Signé à Ottawa, Canada, ce 29e jour de juillet 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 9e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI492
+Date : 20040729
+Dossier : 2000-1764(IT)G
+ENTRE :
+RONALD McCALLUM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Lamarre
+[1] Il s'agit en l'occurrence d'appels interjetés à l'encontre d'avis de nouvelle cotisation datés du 3 juin 1999, où le ministre du Revenu national (le « ministre » , en application des alinéas 56(1)b) et 56(1)c) ainsi que des paragraphes 56(12) et 56.1(4) de la Loi de l'impôt sur le revenu (la « Loi » ), a inclus dans le revenu de l'appelant pour les années d'imposition 1995, 1996 et 1997 des montants de 12 299 $, de 7 200 $ et de 7 882 $, respectivement, qu'il a reçus de son ex-épouse durant ces années à titre de pension alimentaire.
+[2] L'appelant admet qu'il a reçu ces montants en guise de pension alimentaire pour enfants conformément à une ordonnance judiciaire datée du 1er décembre 1994 (voir l'onglet 1 de l'exposé conjoint des faits). Cette ordonnance judiciaire enjoignait expressément à l'ex-épouse de verser mensuellement à l'appelant une pension alimentaire pour enfants de 1 200 $, soit 600 $ par mois pour chaque enfant, à partir du 1er décembre 1994 puis tant et aussi longtemps que les enfants vivaient avec l'appelant et fréquentaient un établissement scolaire à temps plein.
+[3] L'ordonnance judiciaire de décembre 1994 n'a jamais été modifiée, et l'appelant pas plus que son ex-épouse n'a présenté de choix conjoint au ministre spécifiant une date d'exécution postérieure à avril 1997 relativement à cette ordonnance. En vertu du paragraphe 56.1(4) de la Loi, il n'y a donc aucune date d'exécution à l'égard des paiements effectués après avril 1997.
+[4] En outre, l'appelant a expliqué qu'il n'avait pas inclus les montants en cause dans son revenu parce que son ex-épouse n'avait pas versé la pension alimentaire régulièrement, comme l'y enjoignait l'ordonnance judiciaire.
+[5] La Cour d'appel fédérale a statué dans l'affaire La Reine c. Sills, [1985] 2 C.F. 200, que la pension alimentaire ne changeait pas de nature parce qu'elle n'était pas versée à temps et selon les périodes prescrites par le jugement ou l'accord prévoyant le versement de cette pension. Le juge Heald s'est exprimé ainsi :
+Pourvu que l'accord prévoie que les montants d'argent sont payables périodiquement, l'exigence contenue à l'alinéa [56(1)b)] est respectée. Les paiements ne changent pas de nature pour la seule raison qu'ils ne sont pas effectués à temps.
+[6] Par conséquent, les montants de 12 299 $, de 7 200 $ et de 7 882 $ reçus par l'appelant de son ex-épouse à titre de pension alimentaire pour enfants pour chacune des années d'imposition en cause, respectivement, devaient être inclus dans son revenu en application des alinéas 56(1)b) et 56(1)c) ainsi que des paragraphes 56(12) et 56.1(4) de la Loi.
+[7] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 29e jour de juillet 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 9e jour de février 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI492
+NO DU DOSSIER DE LA COUR :
+2000-1764(IT)G
+INTITULÉ DE LA CAUSE :
+Ronald McCallum c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+Le 16 juin 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable Lucie Lamarre
+DATE DU JUGEMENT :
+Le 29 juillet 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Ronald MacPhee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

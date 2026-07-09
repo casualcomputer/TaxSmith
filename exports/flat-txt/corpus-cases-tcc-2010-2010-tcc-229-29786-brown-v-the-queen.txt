@@ -1,0 +1,199 @@
+Title: Brown v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29786/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-229-29786-brown-v-the-queen.md
+Document type: case_law
+Last modified: 2010-05-04
+
+# Brown v. The Queen
+
+- Citation: 2010 TCC 229
+- Decision date: 2010-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6592, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-04
+Neutral citation
+2010 TCC 229
+File numbers
+2009-3250(IT)G, 2009-3257(GST)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3250(IT)G
+BETWEEN:
+EVERTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of
+Everton Brown (2009-3257(GST)I)
+on March 10, 2010 at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Osborne Barnwell
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+ORDER
+In accordance with the attached Reasons for Order, the Respondent’s motion is granted, with costs. It is ordered that:
+1. Paragraphs 9, 10 (in part), 11, 12, 13, 20, 23 and 26 of the Notice of Appeal be struck out, with leave to the Appellant to amend the Notice of Appeal in respect of:
+a. the GST Credit issue wrongly appealed under the Excise Tax Act in 2009-3257(GST)I; and
+b. the admissibility of the evidence relied upon by the Minister of National Revenue in the net worth assessment under appeal;
+2. The Appellant shall have until May 28, 2010 to serve on the Respondent and to file the Amended Notice of Appeal; and
+3. The Respondent shall have 60 days from the date of service of the Amended Notice of Appeal or, in the event that the Appellant does not serve an Amended Notice of Appeal within the time permitted, from May 28, 2010 to file its Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 4th day of May, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Docket: 2009-3257(GST)I
+BETWEEN:
+EVERTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of
+Everton Brown (2009-3250(IT)G)
+on March 10, 2010 at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+Osborne Barnwell
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+ORDER
+In accordance with the attached Reasons for Order, the Respondent’s motion is granted, with costs. The Notice of Appeal is struck out in its entirety and the appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of May, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC229
+Date: 20100504
+Dockets: 2009-3250(IT)G
+2009-3257(GST)I
+BETWEEN:
+EVERTON BROWN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan, J.
+[1] On March 10, 2010, the Respondent brought motions in respect of two related appeals, 2009-3250(IT)G and 2009-3257(GST)I. The motions were heard together.
+Background
+[2] The issues under appeal in 2009-3250(IT)G (the “Income Tax Act Appeal”) are the correctness of a net worth assessment and the imposition of penalties by the Minister of National Revenue under the Income Tax Act.
+[3] In respect of the Income Tax Act Appeal, the Respondent is seeking an Order:
+1. striking out paragraphs 9, 10 (except for “In issuing the Reassessments, the Minister proceeded on a rough ‘net worth’ basis”), 11, 12, 13, 20, 23 and 26 of the Notice of Appeal, pursuant to ss. 53(a) and (b) of the Tax Court of Canada Rules (General Procedure) (the “Rules”);
+2. an order extending the time to file the Reply, pursuant to s. 44(b) of the Rules;
+3. such further and other relief as this Court may deem just; and
+4. the Respondent’s costs of this motion in any event.
+[4] The other appeal, 2009-3257(GST)I (the “GST Appeal”), was brought under the Excise Tax Act in respect of the Minister’s reassessment of the Appellant’s entitlement to a GST Credit. The Respondent is seeking an Order:
+1. striking out the Notice of Appeal pursuant to s. 58(1)(b) of the Tax Court of Canada Rules (General Procedure) (the “Rules”);
+2. in the alternative, an order extending the time to file the Reply, pursuant to s. 44(b) of the Rules;
+3. such further and other relief as this Court may deem just; and
+4. the Respondent’s costs of this motion in any event[1].
+[5] By way of background, after having determined under the net worth assessment that the Appellant’s income was greater than reported, the Minister made a derivative reassessment to recover GSTC amounts which had been paid to the Appellant based on his pre‑reassessment income. It was with the intention of challenging that reassessment that the Appellant commenced this appeal under the Excise Tax Act.
+Motion to Dismiss the GST Appeal
+[6] Turning first to the Respondent’s motion in respect of the GST Appeal, the grounds are as follows:
+1. The Minister correctly assessed tax payable by the appellant under the Income Tax Act for the periods from July 2007 to June 2008, and from July 2008 to June 2009.
+2. There is no assessment of good and services tax under the Excise Tax Act.
+[7] The Respondent’s position is essentially that the Notice of Appeal ought to be struck out in its entirety and the appeal dismissed because the Appellant has appealed under the wrong legislation. A taxpayer’s entitlement to a GSTC arises not under the Excise Tax Act but rather under section 122.5[2] of the Income Tax Act and accordingly, an appeal of an assessment made in respect of a GSTC must be made under section 169 of the Income Tax Act.
+[8] At the hearing of the Respondent’s motion, counsel for the Appellant conceded that the appeal had been commenced under the wrong legislation and did not contest the remedy sought by the Respondent. What puzzles me is that counsel for the Respondent had brought this fundamental flaw to the attention of counsel for the Appellant long before the date the motion was returnable. Rather than withdrawing the GST Appeal and making an application for an extension of time to appeal the GSTC assessment under the existing Income Tax Act in order to amend that Notice of Appeal, the Appellant put the Respondent to the trouble of proceeding with this motion.
+[9] In these circumstances, I am satisfied that the Respondent’s motion to dismiss the GST Appeal ought to be granted and that the Respondent is entitled to costs.
+Motion to Strike Certain Paragraphs from Notice of Appeal 2009-3250(IT)G
+[10] Turning, then, to the motion in respect of the Income Tax Act appeal, the Respondent is seeking an Order striking out paragraphs 9, 10 (in part), 11, 12, 13, 20, 23 and 26 of the Notice of Appeal. The gist of the very thorough argument presented by counsel for the Respondent is that the allegations contained in the above paragraphs pertain either to matters outside the jurisdiction of the Court (paragraph 10 only) or to the misconduct of Canada Revenue Agency officials during the assessment process. Accordingly, they ought to be struck out under section 53 of the Tax Court of Canada Rules (General Procedure) for being an abuse of process or irrelevant to the issues under appeal, respectively.
+[11] The Notice of Appeal identifies two issues to be decided:
+16. The main issue to be determined for each of the tax years represented by the Reassessments is the correct determination of taxable income of the Appellant for those years.
+17. In addition, it will be necessary to determine whether the Minister is entitled to impose penalties in respect of any of the years represented by the Reassessments.
+[12] At paragraph 18 of the Notice of Appeal are listed the statutory provisions upon which the Appellant relies: sections 3, 9, 12, 18, 150, 152 and 162 of the Income Tax Act.
+[13] The impugned paragraphs are set out below:
+9. The Reassessments in question were issued without the benefit of normal audit procedures and were based upon suspected and alleged illegal activities which were allegedly conducted or undertaken by the Appellant.
+10. [The underlined portion is excluded from the Respondent’s motion: In issuing the Reassessments, the Minister proceeded on a rough “net worth” basis.] Furthermore, the Minister commenced the process of obtaining a Jeopardy Order purportedly pursuant to section 225.2 of the Income Tax Act, R.S.C. 1985, c.1 (5th Supplement), as amended (hereinafter the “Act”) BEFORE the Reassessments were issued.
+11. In issuing the Reassessments, the Canada Revenue Agency (“CRA”) Special Enforcement Program Auditors concluded, without meaningful investigation, audit or inquiry, that the Appellant was engaged in illegal activities which were the subject of pending charges “current before the courts”. The Minister’s representatives did not conduct any companion investigation, the purpose of which would verify or otherwise ascertain with certainty the accuracy of the allegations reflected in information which was the investigative product of persons who were not associated in any way with CRA.
+12. In the course of purportedly conducting an audit of the Appellant’s activities, and with full knowledge of the pending criminal charges, the CRA investigators questioned, without providing a Warning as required by law, the Appellant about matters which they knew or ought to have known were connected with the alleged criminal activities.
+13. Furthermore, CRA auditors openly misled the Appellant about the nature of their inquiry repeatedly (referring to it as a “civil matter”) when they knew or ought to have known that the questions they asked of him related directly or indirectly to the alleged criminal activities.
+[…]
+20. Furthermore, it is the Appellant’s position that the Minister openly and knowingly abused his audit privileges as set forth in the Act by misrepresenting the nature of the audit purportedly conducted by him to the Appellant.
+[…]
+23. In the alternative, the Appellant states that the Minister’s conduct of the audit of the Appellant and the Minister’s misrepresentations to the Appellant have so wholly contaminated the audit process that the Reassessments should be vacated.
+[…]
+26. The Appellant further states that the imposition of penalties in the present circumstances represents an arbitrary, capricious and abusive exercise of the Minister’s powers of assessment and, as such, is unlawful and contrary to the Act, considered as a whole.
+[14] The grounds for the Respondent’s motion are:
+1. The allegations of fact and law contained in paragraphs 9, 10 (except for “In issuing the Reassessments, the Minister proceeded on a rough ‘net worth’ basis”), 11, 12, 13, 20, 23 and 26 of the Notice of Appeal are irrelevant and immaterial to whether the Minister of National Revenue correctly assessed the appellant’s tax payable for the 2004 to 2007 taxation years in accordance with the Income Tax Act (the “Act”).
+2. The allegations of fact and law contained in paragraphs 9, 10 (except for “In issuing the Reassessments, the Minister proceeded on a rough ‘net worth’ basis”), 11, 12, 13, 20, 23 and 26 of the Notice of Appeal are irrelevant and immaterial to the Minister’s assessment of gross negligence penalties on the basis that the appellant knowingly, or under circumstances amounting to gross negligence in carrying out a duty or obligation imposed under the Act, made or participated in, assented to or acquiesced in the making of false statements or omissions in the income tax returns filed for the taxation years in question.
+3. This Court does not have the jurisdiction to grant the relief sought by the appellant in paragraph 27 on the basis of the allegations of fact and law contained in paragraphs 9, 10 (except for “In issuing the Reassessments, the Minister proceeded on a rough ‘net worth’ basis”), 11, 12, 13, 20, 23 and 26 of the Notice of Appeal.
+[15] Counsel for the Respondent referred to the test for the striking of pleadings established by the Supreme Court of Canada in Hunt v. Carey Canada Inc.[3]: assuming the facts alleged therein can be proved, a pleading ought not to be struck out unless it is “plain and obvious” that it contains a radical defect that is certain to fail. Pleadings are meant to “define the issues in dispute between the parties for the purposes of production, discovery and trial”[4]; to the extent they do not conform to that purpose, they ought to be struck out. The Crown was forced to bring this motion, counsel contended, because of the risk of responding to and thereby pleading over the Notice of Appeal in its present form.
+[16] Counsel for the Appellant advised the Court that he had inherited the Notice of Appeal and while acknowledging that more precision could have been employed in its drafting, argued that the Notice of Appeal satisfactorily communicated the matters in dispute. Referring repeatedly to the impugned paragraphs as simply part of the “prose” of the Notice of Appeal, counsel for the Appellant urged the Court to take a liberal approach to their analysis. He conceded that while the Notice of Appeal made no reference to the Canadian Charter of Rights and Freedoms (an omission dismissed as, possibly, a matter for amendment at a later date), but contended that the Appellant’s intention to challenge the admissibility of evidence relied on by the Minister in making his reassessment could be inferred from the impugned paragraphs. He summarized his analysis of the impugned paragraphs 9‑20 of the Notice of Appeal as follows:
+… So let's just wrap this up together up to paragraph 22. So all these paragraphs that came before talk about lack of evidence. The process employed was arbitrary. He was questioned without being notified that this is a criminal vis‑a‑vis civil matter.
+Those assertions, those pleadings, are not inconsistent with the case law that my friend talked about. We're not talking about, you know, bad faith of the officers. We're talking about evidence. We're talking about what they used to do the reassessment.
+We're not talking about how they behaved and how ‑‑ we're talking about not just their behaviour, I mean, but we are talking about the evidence they obtained through that conduct.
+…
+… But the misrepresentations, Your Honour, again, we have to read the pleadings with a liberal sense of what they mean, is that the process complained about is acquiring evidence that led to the reassessment through a questionable process of criminal vis‑a‑vis civil.
+It goes to section 8. It goes to the reasonableness of the search, of how the information was acquired. So they ‑‑ the question at the end of the day for a trial judge is, you know, Mr. Appellant, have you proven, do you have evidence to prove this pleading that your rights have been violated by the misrepresentations of the Minister?[5]
+Analysis
+[17] Before considering the merits of the Respondent’s motion, it is important to understand the context in which it has been brought. The appeal in question is from a net worth assessment, the essence of which was neatly summarized by Desjardins, J.A. in Hsu v. Canada:
+29. Net worth assessments are a method of last resort, commonly utilized in cases where the taxpayer refuses to file a tax return, has filed a return which is grossly inaccurate or refuses to furnish documentation which would enable Revenue Canada to verify the return (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5th ed. (Toronto: Carswell, 1995) at 1089). The net worth method is premised on the assumption that an appreciation of a taxpayer's wealth over a period of time can be imputed as income for that period unless the taxpayer demonstrates otherwise. Its purpose is to relieve the Minister of his ordinary burden of proving a taxable source of income. The Minister is only required to show that the taxpayer's net worth has increased between two points in time. In other words, a net worth assessment is not concerned with identifying the source or nature of the taxpayer's appreciation in wealth. Once an increase is demonstrated, the onus lay entirely with the taxpayer to separate his or her taxable income from gains resulting from non-taxable sources (Gentile v. The Queen, [1988] 1 C.T.C. 253 at 256 (F.C.T.D.)).
+30. By its very nature, a net worth assessment is an arbitrary and imprecise approximation of a taxpayer's income. Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister's estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister's error to the satisfaction of the Court.[6]
+[18] And this will be the Appellant’s task in the present case. It is not clear to me, either from the Notice of Appeal or the submissions of counsel for the Appellant, exactly how the allegations made in the impugned paragraphs will assist in that effort. If, indeed, the Appellant intends to challenge the admissibility of evidence obtained by the Minister in violation of his rights under the Charter, then he must, at the very least, include a reference to it (and, preferably, to the specific Charter provisions relied upon) in the Notice of Appeal. This has not been done. Nor has the Appellant made it clear under what legislation the activities obliquely referred to in paragraphs 9, 11, 12 and 13 as “criminal” or “illegal” took on that quality. Was it, for example, under a criminal offence provision of the Income Tax Act such as section 239, or under some other statute? On this latter point, for example, it is not unheard for net worth assessments to flow from a Criminal Code investigation into illegal activities such as drugs or gambling. Apart from the bare assertion in the submissions of counsel for the Appellant that “what we have in this case is a parallel criminal investigation”[7], it is not obvious from the pleadings under what legislation such an investigation might have arisen. Nor is it stated whether the Appellant was suspected, charged or convicted of criminal activity; nor what connection there is between the allegations regarding the conduct of the Minister’s officials during that “investigation” and the resulting net worth assessment.
+[19] If it is truly the Appellant’s position that, in making his reassessment, the Minister relied on evidence obtained during a criminal investigation in circumstances that amounted to a breach of the Appellant’s Charter rights, he needs to say so. The admissibility of such evidence will depend on whether it was the product of the Minister’s civil audit function or his criminal investigative function[8]; assuming admissibility has been properly raised in the pleadings, that determination will be for the trial judge; it will depend on a careful analysis of such factors as the nature of the Minister’s inquiry, the timing thereof and its ultimate purpose[9]. The Notice of Appeal ought to provide the legal and factual framework to facilitate that consideration.
+[20] As presently drafted, paragraphs 9, 11, 12, 13 and 20 do not achieve this goal. Counsel for the Appellant questioned whether the Respondent’s motion was a good use of the Court’s time:
+… given the fact that it’s so early in the stage, and the fact that the pleadings themselves speak about evidentiary gathering. Evidentiary gathering cannot be irrelevant to a reassessment, at all. … Net worth assessments everyday are adjudicated in this court and all we do is talk about the evidence. That’s all we do. We talk about the evidence, about the net worth, to demolish the Minister’s assumption. That’s what we talk about. And what you see in these pleadings is the Minister’s behaviour about gathering evidence.[10]
+[21] While I agree with counsel for the Appellant that putting the Respondent to the trouble of bringing this motion was not a good use of the Court’s time, my motives are different from his own. I am puzzled by counsel’s reluctance to clarify, at an “early” stage, the issues in dispute and the facts upon which each party will rely. Had the Appellant turned his mind to such matters at an even earlier time (in the case of former Appellant’s counsel, for example, when drafting the Notice of Appeal; or with current counsel, when in January, 2010, he received the Respondent’s motion materials), this motion might well have been unnecessary.
+[22] Instead, the Notice of Appeal remained in its imprecise state. Given the vagueness of the impugned paragraphs and the absence of a statutory basis for the facts alleged, they can easily be read as allegations of ministerial misconduct during the legitimate performance of the audit function duties. The jurisprudence is clear that such misfeasance is irrelevant to the determination of the correctness of the assessment; see Main Rehabilitation Co. v. Canada[11].
+[23] As presently drafted, paragraphs 20 and 26 clearly run afoul of this principle. The remaining paragraphs are, at best, ambiguous. In paragraph 9, the Appellant speaks of the net worth assessment having been issued “without the benefit of normal audit procedures”; paragraph 11 alleges that officials did not “verify or otherwise ascertain with certainty the accuracy of the allegations reflected in information which was the investigative product of persons who were not associated in anyway with CRA.” Paragraphs 12, 13 and 23 come slightly closer to the mark, leaving the impression that the Minister might, at some point, have been engaged in a criminal investigative function of some kind.
+[24] As for paragraph 10 (except the opening sentence), this Court is without jurisdiction to look into whether the Appellant’s allegation that the Minister improperly obtained a Jeopardy Order under s. 225.2 of the Income Tax Act.
+[25] If this were an Informal Procedure appeal with a self-represented appellant, the impugned paragraphs might be up to the task. But this is a General Procedure appeal in which the Appellant is represented by counsel. Higher standards apply. As with the GST Appeal, I am unable to understand why counsel for the Appellant did not avail himself of the opportunity presented by the Respondent’s motion to bring the Notice of Appeal into sharper focus rather than choosing to defend a blurry picture of the Appellant’s case. That such steps were not taken leaves me with the uneasy feeling that the impugned paragraphs are, in fact, the sort of general rant against the assessment process that has no place in proper pleadings[12].
+[26] On balance, I am persuaded that the motion should be granted, with costs to the Respondent; paragraphs 9, 10 (except for the first sentence), 11, 12, 13, 20, 23 and 26 shall be struck from the Notice of Appeal.
+[27] That said, it seems to me justice is better served if the Appellant is given leave to amend his Notice of Appeal. First of all, there is the matter of the GST Appeal which ought properly to have been brought under the Income Tax Act. Considering, among the other relevant factors, its interrelatedness to the net worth assessment, the clear intention of the Appellant to challenge the GSTC assessment and the merits of the appeal as shown in the Notice of Appeal for the GST Appeal, I am prepared, in the interest of making the best use of judicial resources, to treat the submissions of counsel for the Appellant as an application to extend the time for filing of the appeal wrongly commenced under the Excise Tax Act and to grant that application together with leave to amend the Income Tax Act Appeal accordingly.
+[28] As for the matter of admissibility, if it is indeed the intention of the Appellant to challenge the evidence relied upon by the Minister in making the net worth assessment or in imposing penalties, he might also turn his mind to the additions and revisions to the Notice of Appeal required to achieve that end. In the hope of expediting the hearing of what, even allowing for admissibility issues, ought to be a relatively straight-forward appeal, the Appellant shall have until May 28, 2010 to amend his Notice of Appeal for the Income Tax Act Appeal in respect of the GSTC matter and the admissibility of evidence; and to serve on the Respondent and file the Amended Notice of Appeal.
+[29] The Respondent shall have 60 days from the date of service of the Amended Notice of Appeal or, in the event that the Appellant does not serve and file an Amended Notice of Appeal within the time permitted, from May 28, 2010 to file the Reply to the Notice of Appeal.
+[30] The Respondent is entitled to costs in both motions.
+Signed at Ottawa, Canada, this 4th day of May, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC229
+COURT FILE NOS.: 2009-3250(IT)G; 2009-3257(GST)I
+STYLE OF CAUSE: EVERTON BROWN AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 10, 2010
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF ORDER: May 4, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Osborne G. Barnwell
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Osborne G. Barnwell
+Firm: Osborne G. Barnwell
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This paragraph appears to have been inadvertently omitted in the Amended Notice of Motion; a request for costs appeared in paragraph 4 of the original Notice of Motion dated January 14, 2010 and was referred to by counsel for the Respondent in her submissions at the hearing of this motion.
+[2] Malerba v. R., [2003] 1 C.T.C. 2268 at paragraph 8. (T.C.C.).
+[3] [1990] 2 S.C.R. 959 at paragraph 33.
+[4] From Holmsted and Watson as cited by Bowie, J. in Zelinski v. R., (2001) T.C.J. No. 774 at paragraph 5.
+[5] Transcript, page 48, lines 5-20, inclusive; and page 50, lines 19-25 to page 51, lines 1-7, inclusive.
+[6] [2001] 4 C.T.C. 1. (F.C.A.).
+[7] Transcript, page 60, lines 9-10.
+[8] R. v. McKinlay Transport Ltd., [1990] 1 S.C.R. 627. (S.C.C.); Norwood v. Canada, [2001] 1 C.T.C. 299. (F.C.A.); R. v. Jarvis, [2002] 3 S.C.R. 757. (S.C.C.); R. v. Ling, [2002] 3 S.C.R. 814. (S.C.C.); Dwyer v. Canada, [2004] 1 C.T.C. 1. (F.C.A.); and Stanfield v. Canada, [2005] 4 C.T.C. 47. (F.C.A.).
+[9] For a detailed analysis of relevant factors, see Stanfield v. R., [2005] 4 C.T.C. 47. (F.C.A.).
+[10] Transcript, page 57, lines 15-25 to page 58, lines 1-2.
+[11] 2004 FCA 403. (F.C.A.); Roitman v. R., 2006 FCA 266. (F.C.A.).
+[12] Lougheed v. R., [2009] 1 C.T.C. 2427. (T.C.C.).

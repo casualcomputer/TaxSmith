@@ -1,0 +1,644 @@
+---
+title: "Alexander c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521025/index.do"
+last_modified: "2023-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 147"
+citation2: ""
+neutral_citation: "2022 CCI 147"
+decision_date: "2023-10-27"
+language: "fr"
+item_id: "521025"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5820
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:46:53.026000+00:00"
+cases_cited_count: 13
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f7b366eece58cf5df869691c729c94c6ecfa30c56dd360423763e3160deb5d5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Alexander c. Le Roi
+
+- Citation: 2022 CCI 147
+- Decision date: 2023-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alexander c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-02-16
+Référence neutre
+2022 CCI 147
+Numéro de dossier
+2015-3120(IT)G
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3120(IT)G
+ENTRE :
+SHIRLEY ALEXANDER, Cause type
+pour le groupe d’appels de Ideas Canada Foundation, qui inclut tous les appels énumérés dans l’annexe « 1 » jointe aux présentes
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par vidéoconférence le 9 septembre 2022, à Ottawa, Canada
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocats de l’appelante :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Avocats de l’intimé :
+Me Arnold Bornstein
+Me Aaron Tallon
+Me Jasmeen Mann
+ORDONNANCE MODIFIÉE
+APRÈS avoir examiné l’avis de requête daté du 30 juin 2022, déposé par l’appelante en application de l’article 65 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), ainsi que les affidavits de Heather Martinez souscrits le 10 décembre 2021 et le 30 juin 2022, et d’autres éléments de preuve documentaire (la « requête »), pour solliciter une ordonnance i) obligeant l’intimé à satisfaire à son engagement; ii) indemnisant l’appelante pour les dépens relatifs aux interrogatoires préalables menés jusqu’à maintenant et iii) accordant des dépens exemplaires ou punitifs contre l’intimé;
+ET APRÈS avoir examiné l’affidavit de M. Brandon fait sous serment le 12 juillet 2022 et déposé par l’intimé;
+ET APRÈS avoir examiné les observations écrites des parties et entendu leurs observations;
+LA COUR ORDONNE CE QUI SUIT :
+Conformément aux motifs de l’ordonnance ci-joints, la requête est accueillie en partie :
+i)L’intimé satisfera à l’engagement suivant au plus tard le 22 décembre 2022 :
+[traduction] Produire les copies de tous les documents que le ministre du Revenu national a en sa possession, visés par le secret professionnel entre l’avocat et son client, le critère de pertinence et tout autre secret, sous réserve de l’existence de ces documents, et qui concernent la décision de rendre admissibles les dons en premier lieu.
+ii) Les dépens relatifs à la présente requête seront adjugés à l’appelante. Les parties disposent d’un délai de 20 jours suivant la date de la présente ordonnance pour parvenir à un accord sur les dépens relatifs à la présente requête et en informer la Cour, à défaut de quoi l’appelante disposera alors d’un délai de 20 jours pour déposer et signifier des observations écrites sur les dépens et l’intimé disposera encore d’un délai de 20 jours pour déposer et signifier une réponse écrite. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations dans les délais mentionnés précédemment, les dépens relatifs à la présente requête seront adjugés à l’appelante selon le tarif.
+Les parties sont tenues de communiquer par écrit avec le coordonnateur des audiences, au plus tard le 15 février 2023, afin d’indiquer à la Cour si l’affaire sera réglée, s’il serait souhaitable de tenir une conférence préparatoire à l’audience ou si une date d’audience doit être fixée. Dans la dernière des éventualités, les parties déposeront une demande conjointe pour fixer la date, l’heure et le lieu de l’audience, conformément à l’article 123 des Règles de la Cour canadienne de l’impôt (procédure générale).
+Les parties à la cause type et à tous les appels énumérés dans l’annexe « 1 » jointe aux présentes sont liées par la présente ordonnance et par les motifs modifiés de l’ordonnance ci-jointe.
+La présente ordonnance modifiée remplace l’ordonnance du 22 novembre 2022 afin que soient insérés les mots soulignés dans l’intitulé de la cause, l’annexe « 1 » et le paragraphe 3 ci-dessus.
+Signé à Montréal (Québec), ce 22e jour de novembre 2022.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+Ce 17e jour de mai 2024.
+François Brunet, réviseur
+ANNEXE “1”
+Numéro d’appel
+Appellant
+2014-3571(IT)G
+Lawrence, Gerald
+2014-3679(IT)G
+Semeniuk, Roman
+2014-3680(IT)G
+Semeniuk, Frances
+2014-3802(IT)G
+Stevens, Susan
+2014-3808(IT)G
+Laursen, Poul
+2014-3809(IT)G
+Thorp, Barbara
+2014-3897(IT)G
+Grasby, Susan
+2014-4065(IT)G
+Williams, Janet
+2014-4068(IT)G
+Stevens, Gary
+2014-4071(IT)G
+Lelliott-Barnes, Lynn
+2014-4072(IT)G
+Krutila, Debra Anne
+2014-4086(IT)G
+Gonsalves, Osyth
+2014-4088(IT)G
+Hunwicks, Phyllis
+2014-4089(IT)G
+Verhaeghe, Joseph
+2014-4246(IT)G
+Hart, Sally
+2014-4248(IT)G
+Hart, Herb
+2014-4253(IT)G
+Schenk, Lori
+2014-4254(IT)G
+Schenk, Ronald
+2014-4519(IT)G
+Reed, Maureen
+2014-4598(IT)G
+Wilson, Carol
+2014-4600(IT)G
+Flack, Helena
+2014-4601(IT)G
+Flack, John
+2014-4602(IT)G
+Mansz, Paul
+2014-4604(IT)G
+Scheufler, Peter
+2014-4606(IT)G
+Schiller, John
+2014-4608(IT)G
+Ball, Susan
+2015-1056(IT)G
+Evans, Meredith
+2015-1059(IT)G
+Staig, Marilyn
+2015-1245(IT)G
+Stoyka, Vaughan
+2015-1286(IT)G
+Humphreys, Robin
+2015-1313(IT)G
+Holden, Nancy
+2015-1420(IT)G
+Amar, Albert
+2015-1875(IT)G
+Yuska, Steve
+2015-195(IT)G
+McNab, Harold
+2015-2277(IT)G
+Eveleigh, Phillip Reeve
+2015-2324(IT)G
+Jenkins, David
+2015-2331(IT)G
+Bush, Gary
+2015-2339(IT)G
+Albrecht, Peg
+2015-2340(IT)G
+Rannem, Sigmund
+2015-2342(IT)G
+Maclean, Stephen
+2015-2343(IT)G
+Rodgers, Marilyn
+2015-2360(IT)G
+McIntyre, Elizabeth
+2015-2365(IT)G
+Eveleigh, Beth Marian
+2015-2366(IT)G
+Bush, Janet
+2015-2367(IT)G
+Rodgers, William
+2015-2368(IT)G
+Evans, Steve
+2015-2369(IT)G
+Leblanc, Linda
+2015-2370(IT)G
+Garnhum, Austina
+2015-2371(IT)G
+Jenkins, Sharon
+2015-2372(IT)G
+Hunwicks, Richard
+2015-2373(IT)G
+Beintema, John
+2015-2379(IT)G
+Pasher, Terrence
+2015-2382(IT)G
+Hawkes, Suzanne
+2015-2383(IT)G
+Mongia, Karun
+2015-2386(IT)G
+Bell, Jocelyn
+2015-2388(IT)G
+Harvey, John
+2015-2389(IT)G
+Gowan, Jennifer
+2015-2390(IT)G
+The Estate of the late Kerreigh Ernst
+2015-2391(IT)G
+O'Reilly, Joseph
+2015-2392(IT)G
+Bell, Brian
+2015-2393(IT)G
+Baker, Edward
+2015-2394(IT)G
+Kurktschi, Vladimir
+2015-2395(IT)G
+Milberry, Matthew
+2015-2396(IT)G
+Pasher, Mary
+2015-2397(IT)G
+Barnes, John
+2015-2398(IT)G
+Jones, Andrew
+2015-2410(IT)G
+Bailey, J. Robert
+2015-2478(IT)G
+Dabrowska, Wanda
+2015-2483(IT)G
+Guzman, Rolando
+2015-2495(IT)G
+Dabrowski, Piotr
+2015-2506(IT)G
+Lum, Jeffrey Philip
+2015-2516(IT)G
+Zayac, Kenneth
+2015-2520(IT)G
+Zayac, Carla
+2015-2555(IT)G
+Elliott, David
+2015-2601(IT)G
+Aleshka, Irene
+2015-2602(IT)G
+Aleshka, Alexander
+2015-2605(IT)G
+Globa, Rita
+2015-2606(IT)G
+Globa, Edward
+2015-2729(IT)G
+Santos, Mario
+2015-2734(IT)G
+Couto, Elizabeth
+2015-2915(IT)G
+Evans, Gail
+2015-2916(IT)G
+McCutcheon, David
+2015-2917(IT)G
+McCutcheon, Pat
+2015-297(IT)G
+Verhaeghe, Rebecca
+2015-2982(IT)G
+Thomas, Shane
+2015-3107(IT)G
+Lackey, John
+2015-3114(IT)G
+Alexander, Douglas
+2015-3119(IT)G
+Szlagowski, Chris
+2015-3120(IT)G
+Alexander, Shirley
+2015-3126(IT)G
+Jones, Keith
+2015-3127(IT)G
+Jones, Nancy
+2015-3130(IT)G
+Szlagowski, Sandra
+2015-3348(IT)G
+Fauteux, Ted
+2015-34(IT)G
+Wells, Geoff
+2015-3413(IT)G
+Strecker, John
+2015-3476(IT)G
+Gosling, Thomas
+2015-372(IT)G
+Mei, Jiang-Hai
+2015-373(IT)G
+Welling, Chris
+2015-3738(IT)G
+More, David
+2015-3742(IT)G
+Holden, Fred
+2015-377(IT)G
+Xu, Jun-Sheng
+2015-3786(IT)G
+Strecker, John
+2015-4045(IT)G
+Calvert-Gordon, Susan
+2015-4067(IT)G
+Stoyka, John Michael
+2015-4068(IT)G
+Devries, Dean
+2015-4077(IT)G
+Devries, Yvonne
+2015-4078(IT)G
+Gordon, Terry
+2015-4079(IT)G
+Fusilier, Lane
+2015-4735(IT)G
+Blumbergs, James
+2015-4740(IT)G
+Hickman, Robert
+2015-4742(IT)G
+Botnick, Ian
+2015-4970(IT)G
+Jones, Keith
+2015-4980(IT)G
+Beintema, Martha
+2015-527(IT)G
+Stutt, John
+2015-528(IT)G
+Stutt, Lorraine
+2015-531(IT)G
+Arsenault, Lee
+2015-532(IT)G
+O'Reilly, Cecilia
+2015-63(IT)G
+Turner, Ross
+2015-64(IT)G
+Blommers, Jennifer
+2015-78(IT)G
+Wilson, Douglas
+2015-783(IT)G
+Hannan, Doug
+2015-786(IT)G
+Brown, Andrew
+2015-788(IT)G
+Ball, James
+2015-789(IT)G
+Welling, Chris
+2015-79(IT)G
+Blommers, David
+2015-793(IT)G
+Williams, Janet
+2015-848(IT)G
+Pasher, Mary
+2016-3040(IT)G
+Power, Jennifer
+2016-3253(IT)G
+Szlagowski, Chris
+2016-74(IT)G
+More, David
+2019-4505(IT)G
+Hawkes, Robin
+Référence : 2022 CCI 147
+Date : 20221122
+Dossier : 2015-3120(IT)G
+ENTRE :
+SHIRLEY ALEXANDER, Cause type
+pour le groupe d’appels de Ideas Canada Foundation, qui inclut tous les appels énumérés dans l’annexe « 1 » jointe aux présentes
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DE L’ORDONNANCE
+La juge Lafleur
+I. LA REQUÊTE
+[1] Un avis de requête, daté du 30 juin 2022, a été déposé par l’appelante en application de l’article 65 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), ainsi que les affidavits de Heather Martinez souscrits le 10 décembre 2021 (l’« affidavit de décembre ») et le 30 juin 2022 (l’« affidavit de juin »), et d’autres éléments de preuve documentaire (la « requête »), pour solliciter une ordonnance i) obligeant l’intimé à satisfaire à son engagement; ii) indemnisant l’appelante pour les dépens liés aux interrogatoires préalables menés jusqu’à maintenant et iii) accordant des dépens exemplaires ou punitifs contre l’intimé.
+[2] L’intimé a déposé l’affidavit de M. Philip N. Brandon fait sous serment le 12 juillet 2022 (l’« affidavit de M. Brandon »).
+II. CONCLUSION
+[3] La requête est accueillie en partie :
+i)L’intimé satisfera à l’engagement suivant au plus tard le 22 décembre 2022 :
+[traduction] Produire les copies de tous les documents que le ministre du Revenu national a en sa possession, visés par le secret professionnel entre l’avocat et son client, le critère de pertinence et tout autre secret, sous réserve de l’existence de ces documents, et qui concernent la décision de rendre admissibles les dons en premier lieu.
+ii)Les dépens relatifs à la présente requête seront adjugés à l’appelante. Les parties disposent d’un délai de 20 jours suivant la date de la présente ordonnance pour parvenir à un accord sur les dépens relatifs à la présente requête et en informer la Cour, à défaut de quoi l’appelante disposera alors d’un délai de 20 jours pour déposer et signifier des observations écrites sur les dépens et l’intimé disposera encore d’un délai de 20 jours pour déposer et signifier une réponse écrite. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations dans les délais mentionnés précédemment, les dépens relatifs à la présente requête seront adjugés à l’appelante selon le tarif.
+III. CONTEXTE
+[4] L’appelante a participé à un programme de dons avec effet de levier promu par Berkshire Funding Initiatives Limited et Talisker Funding Limited (le « programme »). En tant que participante au programme, les prétendus dons qu’elle a faits à Ideas Canada Foundation (« Ideas ») s’élèvent à 164 000 $ en 2000 (le « don fait en 2000 ») et à 446 000 $ en 2001 (le « don fait en 2001 »). Les dons en question étaient financés à hauteur de 20 % par les fonds propres de l’appelante, et à hauteur de 80 % par un prêt de 25 ans ne portant pas intérêt accordé à l’appelante par l’un des promoteurs du programme.
+[5] Dans sa déclaration de revenus pour l’année d’imposition 2000, l’appelante a demandé un crédit d’impôt pour don de bienfaisance, en application de l’article 118.1 de la Loi de l’impôt sur le revenu (L.R.C. 1985, ch. 1 (5e suppl.)) (la « Loi »), à l’égard d’une partie du don fait en 2000 et elle a transféré à son époux le solde du don fait en 2000. Dans sa déclaration de revenus pour l’année d’imposition 2001, l’appelante a également demandé un crédit d’impôt pour don de bienfaisance à l’égard d’une partie du don fait en 2001 et elle a reporté le solde en 2002. Elle a aussi transféré à son époux le solde du don fait en 2001. Par conséquent, dans sa déclaration de revenus pour l’année d’imposition 2002, l’appelante a demandé un crédit d’impôt pour don de bienfaisance pour une partie du don fait en 2001.
+[6] Le ministre du Revenu national (le « ministre ») a refusé 80 % du crédit d’impôt demandé par l’appelante et son époux pour les dons de bienfaisance faits, pour chaque année d’imposition. En septembre 2005, le ministre a établi une autre nouvelle cotisation à l’égard de l’appelante et de son époux pour refuser l’intégralité du crédit d’impôt pour don de bienfaisance demandé par l’appelante et son époux relativement aux années d’imposition 2001 et 2002 concernant le don fait en 2001. Pour l’année d’imposition 2000, comme elle était frappée de prescription, le ministre n’a pas établi une autre nouvelle cotisation à l’égard de l’appelante et de son époux pour refuser l’intégralité du crédit d’impôt pour don de bienfaisance demandé concernant le don fait en 2000.
+[7] L’appel interjeté par l’appelante devant la Cour est une cause type représentant un groupe d’appelants dans des appels connexes qui ont accepté d’être liés par la décision rendue dans le présent appel.
+IV. INTERROGATOIRE PRÉALABLE
+[8] Conformément à l’ordonnance prononcée par notre Cour le 17 juin 2021, les interrogatoires préalables du représentant de l’intimé, M. Salvatore Tringali, ont eu lieu le 28 juillet 2021. M. Tringali était le chef de l’équipe de vérification de l’Agence du revenu du Canada (l’« ARC ») de la section Évitement fiscal – Programmes et gestionnaires – de Toronto-Centre. La période de vérification a commencé vers le début de 2001 ou vers le milieu d’année. Selon M. Tringali, au départ, le crédit d’impôt pour don de bienfaisance a été accordé pour la partie du prétendu don fait représentant la partie en espèces (c’est-à-dire 20 % du prétendu don fait) et, après plus ample examen, le ministre a considéré que l’intégralité du crédit d’impôt pour don de bienfaisance devait être annulée, au titre de la somme totale du prétendu don.
+[9] Au cours de l’interrogatoire préalable, l’appelante a demandé à M. Tringali de répondre à deux questions en satisfaisant à des engagements (l’affidavit de décembre, pièce A, transcription de l’interrogatoire préalable) au plus tard le 30 septembre 2021, conformément à l’ordonnance de notre Cour datée du 17 juin 2021.
+[10] Seul le premier engagement est en cause dans la présente requête. Il est ainsi libellé :
+[traduction] Engagement no 1 : produire les copies de tous les documents que le ministre du Revenu national a en sa possession, visés par le secret professionnel entre l’avocat et son client, le critère de pertinence et tout autre secret, sous réserve de l’existence de ces documents, et qui concernent la décision de rendre admissibles les dons en premier lieu.
+[11] Les parties comprenaient que le mot [traduction] « documents » revêtait un sens très large et qu’il comprendrait les mémoires, les documents, les courriels, les formulaires T2020, etc. Lors de l’interrogatoire préalable, l’intimé a accepté de produire ces documents.
+[12] Dans sa réponse aux engagements envoyée à l’appelante le 29 septembre 2021 (l’affidavit de décembre, pièce B, lettre datée du 29 septembre 2021), l’intimé a déclaré ce qui suit à l’égard de l’engagement :
+[traduction] Nous croyons comprendre que cet engagement exige que l’intimé produise des documents qui justifient l’accord par le ministre du crédit pour la partie en espèces (20 %) des prétendus dons versés à Ideas. L’exposé de principes, que nous vous avons envoyé le 15 janvier 2016, expose le raisonnement que le ministre a suivi pour considérer que 80 % du crédit demandé pour les prétendus dons faits devraient être refusés. Quelques autres documents exposent également le raisonnement et se trouvent à l’onglet A.
+[13] Les documents figurant à l’onglet A mentionnés par l’intimé dans sa réponse aux engagements étaient composés d’un courriel d’un agent de l’ARC, daté du 31 mars 2005, qui comprenait un document présentant un résumé du programme, un schéma du programme et un extrait du rapport du vérificateur concernant l’appelante.
+[14] Selon l’affidavit de M. Brandon, le 15 janvier 2016, l’intimé a envoyé à l’appelante une copie d’un exposé de principes de 2016 préparé par les vérificateurs responsables de la vérification du programme et des rapports de vérification sur l’appelante datés du 21 juin 2004 et du 11 juillet 2005.
+[15] L’appelante a déposé une requête en rectification par un avis de requête daté du 10 décembre 2021 de la réponse aux engagements ci-dessus de l’intimé. Le ou vers le 11 février 2022, l’appelante a accepté de retirer la requête après l’acceptation par l’intimé de subir un autre interrogatoire.
+[16] Il était prévu que M. Tringali subisse des interrogatoires préalables de suivi au plus tard le 19 avril 2022. Cependant, étant donné que le 14 avril 2022, l’intimé a envoyé des documents supplémentaires pour satisfaire à l’engagement (l’affidavit de juin, pièce C, copies des documents supplémentaires), il a fallu reporter les interrogatoires préalables au 19 mai 2022 afin d’accorder à l’appelante le temps nécessaire pour examiner les documents supplémentaires.
+[17] Les documents supplémentaires produits par l’intimé le 14 avril 2022, pour satisfaire à l’engagement, comprennent les copies de documents suivantes (l’affidavit de juin, pièce C, copies des documents supplémentaires) :
+-courriel d’un agent de l’ARC (M. Winkelstein) daté du 18 mars 2004 qui comprend un modèle de lettre standard de l’ARC, à envoyer aux contribuables ayant effectué de prétendus dons dans le cadre du programme en 2000, les informant que 80 % du crédit demandé pour les prétendus dons faits seront annulés, et un rapport de vérification standard T20;
+-courriel d’un agent de l’ARC (M. Winkelstein) daté du 24 mars 2004 qui comprend un modèle de lettre standard de l’ARC révisé, à envoyer aux contribuables ayant effectué de prétendus dons dans le cadre du programme en 2000, les informant que 80 % du crédit demandé pour les prétendus dons faits seront annulés;
+-courriel d’un agent de l’ARC (M. Dervenis) daté du 18 février 2004, qui comprend un modèle de lettre de proposition de l’ARC pour établir de nouvelles cotisations à l’égard de tous les contribuables qui ont fait de prétendus dons dans le cadre du programme en 2000, 2001 et 2002, qui annule 80 % du crédit demandé pour les dons faits;
+-courriel d’un agent de l’ARC (M. Dervenis) daté du 2 février 2005, qui comprend un modèle de lettre de proposition de l’ARC révisé pour établir de nouvelles cotisations à l’égard de tous les contribuables ayant effectué de prétendus dons dans le cadre du programme en 2002, qui annule 80 % du crédit demandé pour les dons faits;
+-courriel d’un agent de l’ARC (M. Dervenis) daté du 13 février 2004, qui comprend un modèle de lettre de proposition de l’ARC pour établir de nouvelles cotisations à l’égard de tous les contribuables qui ont fait de prétendus dons dans le cadre du programme, qui annule 80 % du crédit demandé pour les dons faits;
+-mémoire de la section Évitement fiscal – Gestionnaires – de l’ARC, daté du 22 avril 2003, dans lequel une autorisation de publication des exigences des administrateurs pour obtenir des documents et renseignements des parties impliquées dans le programme est demandée;
+-mémoire de l’Administration centrale de l’ARC (section Évitement fiscal et vérifications spéciales) adressé au Bureau des services fiscaux (BSF) de Toronto-Centre daté du 19 décembre 2001, accompagné des détails du programme, d’une certaine jurisprudence et de certaines interprétations techniques qui expliquaient l’interprétation par l’ARC du programme.
+[18] Lors des interrogatoires préalables de suivi menés auprès de M. Tringali, le 19 mai 2022, M. Tringali a déclaré qu’en février ou mars 2004, le ministre a publié des communications internes accordant le crédit d’impôt pour don de bienfaisance à l’égard de la partie en espèces du prétendu don, à savoir 20 % du prétendu don.
+[19] Insatisfaite de certaines réponses données par M. Tringali lors de ses interrogatoires préalables de suivi, le 19 mai 2022, l’appelante a ajourné les interrogatoires préalables de suivi et présenté la requête à la Cour.
+[20] En outre, après avoir examiné la transcription des interrogatoires préalables de suivi, M. Tringali a indiqué qu’il aimerait corriger ses réponses données aux questions 57 et 58 qui consistaient à savoir si les prétendus donateurs avaient une intention libérale relativement à la partie en espèces de 20 % de leur prétendu don. Les questions 57 et 58 étaient ainsi libellées (l’affidavit de juin, pièce D, transcription de l’interrogatoire préalable de M. Tringali) :
+[traduction] 57. Q. : Vous avez utilisé le mot « condition ». Cette condition est qu’ils devaient avoir l’intention libérale requise, n’est-ce pas?
+R. : Si c’était l’une des conditions, c’était une condition qui devait être remplie pour accorder un crédit relativement aux 20 pour cent.
+58. Q. : D’accord. Vous avez dit : « si c’était l’une des conditions ».
+R. : Oui.
+[21] Comme l’a indiqué l’avocat de l’intimé dans sa lettre adressée à l’appelante (l’affidavit de juin, pièce E, lettre datée du 29 juin 2022), M. Tringali a ainsi corrigé ses réponses aux questions 57 et 58 :
+[traduction] M. Tringali affirme qu’il ne s’est pas penché sur la question de l’intention libérale ou qu’il ne l’a pas prise en compte, lorsqu’il a rendu la décision de rendre admissible à un crédit la partie en espèces de 20 %. Il n’a pas établi si les prétendus donateurs avaient ou n’avaient pas une intention libérale.
+V. LES THÈSES DES PARTIES 4.1 La thèse de l’appelante : [22] L’intimé a délibérément et systématiquement inobservé les règles relatives au processus d’interrogatoire préalable et n’a pas tenu compte de ses obligations solennelles liées aux engagements, notamment en qualifiant autrement le premier engagement. En outre, la conduite de l’intimé est contraire aux ordonnances de notre Cour.
+[23] Les documents supplémentaires envoyés par l’intimé le 14 avril 2022 comprenaient un nombre limité de courriels, datés de la fin de l’hiver ou du début du printemps 2004, en réponse à l’engagement. Aucun document important antérieur aux courriels n’a été produit à l’appelante, malgré le fait que la décision d’accorder un crédit pour la partie en espèces du prétendu don faisait intervenir plusieurs agents de l’ARC, notamment ceux de la Section des vérifications, de la Section des appels et de l’Administration centrale. Aucun document important provenant de la Section des appels ou de l’Administration centrale, ni aucun document important provenant de la Section des vérifications n’a été produit, en l’absence des documents supplémentaires envoyés le 14 avril 2022.
+[24] En outre, au lieu de répondre correctement aux questions posées lors des interrogatoires, l’intimé a plutôt donné des réponses évasives, irrecevables et malhonnêtes. Par exemple, M. Tringali a soutenu qu’avoir l’intention libérale n’était pas la condition préalable d’un don valide aux termes de la Loi (l’affidavit de juin, pièce E, lettre datée du 29 juin 2022). Cependant, selon l’appelante, l’existence d’une intention libérale est le facteur central en l’espèce.
+[25] Enfin, l’appelante demande les dépens pour la présente requête, ainsi que pour les interrogatoires préalables menés jusqu’à maintenant et des dépens exemplaires ou punitifs, compte tenu de la ligne de conduite suivie par l’intimé tout au long des interrogatoires préalables.
+4.2 La thèse de l’intimé : [26] L’intimé a produit, dans le délai imparti par notre Cour, tous les documents qu’il pouvait trouver se rapportant à la décision initiale du ministre d’accorder le crédit d’impôt pour don de bienfaisance concernant la partie en espèces de 20 % du prétendu don versé à Ideas.
+[27] Comme l’appelante n’était pas satisfaite des réponses de l’intimé à l’engagement, l’intimé a réexaminé les documents et produit des documents supplémentaires le 14 avril 2022 (l’affidavit de juin, pièce C). Il n’y avait pas des [traduction] « milliers de pages », comme l’a affirmé l’appelante, qui se rapportaient à la discussion sur cette question. M. Tringali et d’autres personnes impliqués dans la vérification ont généralement discuté face à face de cette question et ils n’ont pas pris de notes concernant les délibérations.
+[28] En outre, dans une lettre datée du 29 juin 2022 (l’affidavit de juin, pièce E), M. Tringali a corrigé correctement ses réponses aux questions qui consistaient à savoir si les prétendus donateurs avaient une intention libérale.
+[29] Quant à la question des dépens, l’intimé affirme qu’il n’a pas commis une inconduite qui justifie les dépens procureur-client, étant donné que l’intimé a satisfait aux deux engagements découlant des interrogatoires préalables menés auprès de M. Tringali. En outre, M. Tringali a corrigé correctement les réponses qu’il avait données lors des interrogatoires préalables de suivi.
+VI. DISCUSSION 5.1 Principes applicables : processus d’interrogatoire préalable et engagements [30] Les interrogatoires préalables sont menés de manière à ce que des réponses qui lient la partie interrogée soient produites, ce qui permettra de raccourcir la durée de l’instance et de réduire les dépenses relatives à l’instruction. Au cours d’un interrogatoire préalable, il ne revient pas à l’interrogateur de demander plus de renseignements que la réponse produite par la partie interrogée, mais il revient plutôt à cette dernière de produire une « réponse complète et exécutoire » lors des interrogatoires préalables ou en réponse à un engagement (voir la décision Jattan c. La Reine, 2008 CCI 203, par. 4 et 5). La partie interrogée est tenue de produire des réponses, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes et légitimes.
+[31] L’article 95 des Règles prévoit des règles qui s’appliquent aux interrogatoires préalables et il est ainsi rédigé :
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+c) la question constitue un contre‑interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(2) Avant l’interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l’étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l’interrogatoire préalable peut être ajourné.
+(3) [Abrogé, DORS/2014-26, art. 10]
+(4) Sauf ordonnance contraire de la Cour, une partie qui interroge au préalable peut obtenir la divulgation des noms et adresses des personnes dont on pourrait raisonnablement s’attendre à ce qu’elles aient connaissance des opérations ou des situations en litige en l’instance.
+95(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that:
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross‑examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross‑examination on the affidavit of documents of the party being examined.
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party’s officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+(3) [Repealed, SOR/2014-26, s. 10]
+(4) A party may on an examination for discovery obtain disclosure of the names and addresses of persons who might reasonably be expected to have knowledge of transactions or occurrences in issue in the proceeding, unless the Court orders otherwise.
+[32] Pour être autorisée aux termes du paragraphe 95(1) des Règles, la question doit donc satisfaire à deux conditions : elle doit être légitime et elle doit être pertinente à une question en litige dans l’instance (Contractor c. La Reine, 2021 CCI 46, par. 19).
+[33] En outre, l’article 98 des Règles oblige la partie qui a été interrogée à modifier sa réponse si elle découvre qu’elle était inexacte ou incomplète ou qu’elle n’est plus exacte ou complète. L’article 98 des Règles est rédigé ainsi :
+98(1) La partie interrogée au préalable, ou la personne qui l’est au nom, à la place ou en plus de cette partie, qui découvre ultérieurement qu’une réponse à une question de l’interrogatoire :
+a) était inexacte ou incomplète;
+b) n’est plus exacte et complète,
+doit fournir immédiatement ce renseignement par écrit à toutes les autres parties.
+(2) Si une partie fournit un renseignement par écrit en application du paragraphe (1) :
+a) une partie opposée peut exiger qu’il soit appuyé d’une déclaration sous serment ou qu’il fasse l’objet d’un nouvel interrogatoire préalable;
+b) ce renseignement peut être traité lors d’une audience comme s’il faisait partie de l’interrogatoire initial de la personne interrogée.
+(3) Si une partie ne se conforme pas au paragraphe (1) ou à l’alinéa (2)a) et que le renseignement obtenu ultérieurement est :
+a) favorable à sa cause, elle ne peut le présenter en preuve à l’instance qu’avec l’autorisation du juge;
+b) défavorable à sa cause, la Cour peut rendre des directives appropriées.
+98(1) Where a party has been examined for discovery or a person has been examined for discovery on behalf or in place of, or in addition to the party, and the party subsequently discovers that the answer to a question on the examination,
+(a) was incorrect or incomplete when made, or
+(b) is no longer correct and complete,
+the party shall forthwith provide the information in writing to every other party.
+(2) Where a party provides information in writing under subsection (1),
+(a) the adverse party may require that the information be verified by affidavit of the party or be the subject of further examination for discovery, and
+(b) the writing may be treated at a hearing as if it formed part of the original examination of the person examined.
+(3) Where a party has failed to comply with subsection (1) or a requirement under paragraph (2)(a), and the information subsequently discovered is,
+(a) favourable to that party’s case, the party may not introduce the information at the hearing, except with leave of the judge, or
+(b) not favourable to that party’s case, the Court may give such direction as is just.
+[34] Il n’existe aucune définition du mot [traduction] « engagement » dans les Règles. La jurisprudence définit ce mot comme la « promesse non équivoque d’accomplir un certain acte » (voir la décision Towne v. Miller, 2001 CarswellOnt 3828, par. 9 [Towne]). De plus, lorsque l’engagement de produire des documents a été pris au cours d’un interrogatoire préalable, le critère de pertinence est reconnu. En effet, dans la décision Towne (par. 8 et 9), la Cour supérieure de justice de l’Ontario, qui a été citée plus tard par notre Cour dans la décision Merchant Law Group c. La Reine, 2008 CCI 49, a observé :
+[. . .] Un engagement découle du fait qu’il est reconnu que la question est légitime et que l’objet de l’engagement est pertinent. En somme, l’avocat devrait‑il être autorisé à revenir sur un engagement de produire un document lorsqu’il arrive par la suite à la conclusion selon laquelle tout ou partie d’un document n’a rien à voir avec l’action? Cette question porte atteinte au caractère sacré de l’engagement d’un avocat.
+Un engagement est une promesse non équivoque d’accomplir un certain acte. Je ne puis constater aucune différence importante entre, par exemple, un engagement qui est pris dans le contexte d’une opération immobilière (lorsque les avocats s’engagent à faire ou à obtenir quelque chose qui est nécessaire en vue de conclure l’opération) et un engagement pris dans le cadre d’un interrogatoire préalable. Chacun comporte une promesse. Dans un interrogatoire préalable, l’engagement peut être pris par le plaideur qui est interrogé ou il peut être pris par son avocat. Dans les deux cas, il s’agit d’engagements ayant force obligatoire.
+[Non souligné dans l’original.]
+[35] Notre Cour a suivi l’approche consacrée par la décision Towne dans la décision Bathurst Machine Shop Ltd. c. La Reine, 2006 CCI 378, par. 1, et a déclaré qu’« [. . .] une fois qu’un engagement inconditionnel est pris, il est trop tard pour refuser de s’en acquitter pour des motifs de pertinence [. . .] ».
+5.2 Engagement en cause [36] L’engagement pris par l’intimé consistait à produire des documents se rapportant à la décision du ministre d’accorder un crédit pour la partie en espèces du prétendu don versé à Ideas. Il vaut la peine de le répéter ici : [traduction]
+Engagement no 1 : produire les copies de tous les documents que le ministre du Revenu national a en sa possession, visés par le secret professionnel entre l’avocat et son client, le critère de pertinence et tout autre secret, sous réserve de l’existence de ces documents, et qui concernent la décision de rendre admissibles les dons en premier lieu.
+[37] L’intimé est lié par sa promesse de produire les copies de tous les documents que le ministre a en sa possession, visés par le secret professionnel entre l’avocat et son client, le critère de pertinence et tout autre secret, sous réserve de l’existence de ces documents, qui concernent la décision de rendre admissibles les dons en premier lieu. Leur pertinence lors du procès sera une question que le juge qui préside devra trancher.
+[38] Cependant, comme cela est indiqué dans la réponse aux engagements envoyée à l’appelante le 29 septembre 2021 (l’affidavit de décembre, pièce B), l’intimé a cru comprendre que l’engagement consistait à produire des documents qui justifient l’accord par le ministre du crédit pour une partie du don (qui représente la partie en espèces des prétendus dons versés à Ideas, à savoir 20 % du prétendu don fait).
+[39] Pour les motifs qui suivent, je conclus que l’intimé a limité unilatéralement le sens de l’engagement qu’il a pris lors des interrogatoires préalables. En fait, les documents qui [traduction] « justifient » l’accord d’un crédit pour une partie du don ne constitueraient qu’un sous-ensemble de l’ensemble de documents qui [traduction] « concernent la décision » du ministre de rendre admissible le don en premier lieu.
+[40] Le verbe [traduction] « concernent » signifie « relatifs à ». Selon le dictionnaire anglais Oxford English Dictionary, l’expression « as pertains to » ([traduction] « concernant ») signifie « as regards or concerns, in relation to » ([traduction] « en ce qui concerne ou relativement à »)[1].
+[41] Comme l’a indiqué la Cour suprême du Canada dans l’arrêt Nowegijick c. La Reine, [1983] 1 RCS 29, par. 39, les mots « quant à » ont la portée la plus large possible :
+À mon avis, les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c’est probablement l’expression « quant à » qui est la plus large.
+[42] Selon l’affidavit de M. Brandon, le 15 janvier 2016, l’intimé a envoyé à l’appelante une copie d’un exposé de principes de 2016 de l’ARC préparé par les vérificateurs responsables de la vérification du programme et des rapports de vérification sur l’appelante datés du 21 juin 2004 et du 11 juillet 2005. L’affidavit de décembre (pièce B) et celui de juin (pièce C) produits par l’appelante donnaient des détails quant aux documents produits par l’intimé en réponse à l’engagement.
+[43] Cependant, il est difficile de savoir si l’intimé n’a produit que des documents qui cadraient avec l’interprétation plus restreinte de l’engagement ou si tous les documents concernant la décision du ministre d’accorder un crédit pour une partie du don en premier lieu ont été en fait produits à l’appelante. Je ferais également remarquer qu’après avoir initialement produit [traduction] « tous » les documents nécessaires pour satisfaire à l’engagement (l’affidavit de décembre, pièce B), l’intimé a effectué un deuxième examen et a trouvé plus de documents à produire pour satisfaire à l’engagement et il a envoyé à l’appelante des documents supplémentaires le 14 avril 2022 (l’affidavit de juin, pièce C).
+[44] En revanche, je ne conclus pas en l’espèce qu’il devrait y avoir des milliers de pages de documents concernant la décision d’accorder un crédit pour une partie des dons en premier lieu (c.-à-d. la partie en espèces égale à 20 % du prétendu don versé à Ideas), comme l’a affirmé l’appelante. D’ailleurs, M. Tringali a déclaré que deux personnes ont principalement participé aux délibérations relativement à la vérification du programme, à savoir lui-même et M. Peter Dervenis (qui relevait de M. Tringali) et que ceux-ci ont aussi parlé à Bob Westgate de l’Administration centrale de l’ARC. Selon M. Tringali, les délibérations ont eu lieu en personne entre M. Tringali et M. Dervenis. En outre, comme l’a indiqué M. Tringali, il n’a pas pris de notes, étant donné que les délibérations ont été en majeure partie effectuées en personne ou par téléphone avec M. Westgate. De plus, M. Tringali a confirmé ne pas avoir conservé les formulaires T2020, les procès-verbaux ou les notes de service de ses discussions avec MM. Dervenis ou Westgate (l’affidavit de juin, pièce D, transcription de l’interrogatoire préalable, p. 40 à 47).
+[45] C’est à bon droit que l’intimé dit que l’appelante imaginait, sans fondement, des milliers de pages de documents et qu’elle a ignoré les réponses que M. Tringali a données lors des interrogatoires préalables de suivi. Cependant, je conclus que l’intimé a reformulé l’engagement pris lors de l’interrogatoire préalable dans sa réponse aux engagements envoyée à l’appelante le 29 septembre 2021 (l’affidavit de décembre, pièce B).
+[46] Pour ces motifs, j’ordonne que l’intimé effectue un nouvel examen des documents que le ministre a en sa possession afin qu’il satisfasse à l’engagement pris lors des interrogatoires préalables de M. Tringali au plus tard le 22 décembre 2022, à savoir :
+[traduction] Produire les copies de tous les documents que le ministre du Revenu national a en sa possession, visés par le secret professionnel entre l’avocat et son client, le critère de pertinence et tout autre secret, sous réserve de l’existence de ces documents, et qui concernent la décision de rendre admissibles les dons en premier lieu.
+5.3 Adjudication des dépens Principes généraux
+[47] L’article 147 des Règles confère à la Cour un vaste pouvoir discrétionnaire en ce qui concerne l’adjudication des dépens (l’article 147 des Règles se trouve à l’annexe A jointe aux présents motifs de l’ordonnance). Toutefois, ce pouvoir discrétionnaire doit être exercé rationnellement et non pas arbitrairement (Canada c. Lau, 2004 CAF 10, par. 5, [2004] GSTC 5, et Canada c. Landry, 2010 CAF 135, par. 22 et 54).
+[48] Les dépens doivent être compensatoires et contributifs, et non punitifs ou extravagants (Ford du Canada Limitée c. La Reine, 2015 CCI 185, par. 7). Cependant, à titre d’exception à ce principe, lorsqu’une partie fait montre d’une « conduite répréhensible, scandaleuse ou outrageante » ou si l’adjudication de ces dépens est justifiée par des raisons d’intérêt public, les dépens procureur-client peuvent être adjugés par la Cour (voir l’arrêt Canada c. Martin, 2015 CAF 95, par. 26). De plus, la Cour a le pouvoir de prévenir et de contrôler tout éventuel recours abusif à la procédure en adjugeant les dépens. Ainsi, l’adjudication de dépens ne sert pas seulement à indemniser la partie qui a gain de cause, mais elle permet également de dissuader les « démarches inutiles et coûteuses » (Bowker c. La Reine, 2022 CCI 43, par. 19).
+[49] Toutes les circonstances pertinentes doivent être prises en considération et soupesées dans une décision d’adjuger les dépens. Les facteurs que la Cour peut prendre en compte pour adjuger les dépens sont énumérés au paragraphe 147(3) des Règles. Aucun des facteurs énumérés au paragraphe 147(3) des Règles n’est déterminant et la Cour doit tenir compte de tous les facteurs pertinents lors de l’exercice de son pouvoir discrétionnaire (Velcro Canada Inc. c. La Reine, 2012 CCI 273, par. 12 et 13).
+Dépens liés aux interrogatoires préalables menés jusqu’à maintenant
+[50] L’appelante affirme que les réponses évasives et malhonnêtes données au cours des interrogatoires préalables, ainsi que l’indication selon laquelle l’existence d’une intention libérale n’est pas la condition préalable d’un don valide, aux termes de la Loi, sont les raisons pour lesquelles les dépens doivent lui être accordés pour les interrogatoires préalables menés jusqu’à maintenant. Je crois aussi comprendre que l’appelante demande les dépens pour les interrogatoires préalables menés jusqu’à maintenant, au motif que l’intimé a limité le sens de l’engagement en cause dans la présente requête.
+[51] Pour les motifs qui suivent, je rejette l’argument de l’appelante et aucuns dépens ne seront adjugés à l’appelante pour ces motifs, à ce stade de l’instance.
+[52] J’ai examiné la transcription des interrogatoires préalables qui ont eu lieu le 19 mai 2022 (l’affidavit de juin, pièce D). Je rejette l’observation de l’appelante portant que les réponses données par M. Tringali étaient évasives et malhonnêtes ou qu’il a indiqué qu’une intention libérale n’était pas la condition préalable d’un don valide aux termes de la Loi.
+[53] Lors des interrogatoires préalables qui ont eu lieu le 19 mai 2022 (l’affidavit de juin, pièce D, transcription, p. 30 à 33), l’appelante a demandé à M. Tringali si le ministre a supposé que les donateurs avaient une intention libérale relativement à la partie en espèces de 20 % de leurs dons, pour laquelle le ministre a accordé un crédit initialement. Pour répondre à la question, M. Tringali a demandé la permission d’examiner les lettres de proposition de l’ARC, mais l’appelante a refusé sa demande. Compte tenu de ce refus, M. Tringali a déclaré que si une intention libérale était la condition d’un don valide, cette condition était alors remplie (l’affidavit de juin, pièce D, transcription de l’interrogatoire préalable, p. 30). Cependant, après avoir examiné la transcription des interrogatoires préalables et comme cela a été mentionné précédemment, M. Tringali a corrigé ses réponses pour confirmer qu’il ne s’est pas penché sur la question de l’intention libérale lorsqu’il a rendu la décision de rendre admissible à un crédit la partie en espèces de 20 % et qu’il n’a pas établi si les prétendus donateurs avaient ou n’avaient pas une intention libérale (l’affidavit de juin, pièce E, lettre datée du 29 juin 2022).
+[54] Je remarque qu’aucun des documents produits par l’intimé pour satisfaire à l’engagement ne renvoie à l’expression « intention libérale ». Selon ces documents, les donateurs ayant, dans le cadre du programme, reçu un avantage économique en contrepartie du don, sous la forme d’un prêt sans intérêt d’une durée de 25 ans consenti par Talisker qui était lié au don versé à Ideas, 80 % du crédit demandé pour les dons faits doivent être refusés au motif que les donateurs n’ont pas fait un don valide aux termes de la Loi.
+[55] En outre, j’abonde dans le sens de l’intimé en ce que les corrections apportées par M. Tringali aux réponses qu’il a données lors des interrogatoires préalables (l’affidavit de juin, pièce E, lettre datée du 29 juin 2022) sont conformes aux documents de vérification produits par l’intimé pour satisfaire à l’engagement. Par exemple, l’exposé de principes de 2016, qui énonce les conditions d’un don valide aux termes de la Loi, ne mentionne pas l’expression « intention libérale ». Le ministre a mis l’accent sur la réception par les contribuables d’un avantage, en échange de leurs prétendus dons (l’affidavit de M. Brandon, pièce A). Dans la version définitive de l’ébauche de lettre de proposition de l’ARC, le ministre a également mis l’accent sur l’avantage reçu par les contribuables, et non sur « l’intention libérale » (l’affidavit de juin, pièce C, documents supplémentaires produits pour satisfaire à l’engagement).
+[56] À mon avis, il n’y a pas de réelle différence entre, d’une part, rechercher si un donateur a reçu un avantage et, d’autre part, rechercher si le donateur avait « l’intention libérale » de faire un don. La notion d’« intention libérale » est une expression qui est finalement largement utilisée pour décrire la notion d’une « absence d’avantage » reçu par le donateur. L’expression « intention libérale » décrit l’exigence selon laquelle, pour conclure qu’un donateur avait fait un don valide aux termes de la Loi, il ne doit pas recevoir un avantage ou une contrepartie.
+[57] En 2004, dans la décision Webb c. La Reine, 2004 CCI 619 [Webb], par. 16, la Cour a observé :
+Il s’est écrit beaucoup de documents au sujet des dons de bienfaisance au cours des années. Cependant, la loi est selon moi très claire. Je suis lié par la décision de la Cour d’appel fédérale dans l’affaire La Reine c. Friedberg [[1992] 1 CTC 1], entre autres. Ce cas et les autres du genre indiquent clairement que pour qu’un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu’il n’y ait d’avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu’il n’y ait d’attente d’avantage ou de contrepartie. En d’autres mots, l’intention du donateur doit être entièrement libérale.
+[Non souligné dans l’original.]
+[58] En 2015, dans la décision Mariano c. La Reine, 2015 CCI 244, par. 16 et 17, notre Cour a observé :
+[16] Nul ne conteste que la Loi ne définit pas ce qu’est un « don ». La définition de ce terme figure dans la jurisprudence établie, à savoir un arrêt du juge Linden, de la Cour d’appel fédérale, R. c. Friedberg, [1991] A.C.F. no 1255 (QL), conf. par la Cour suprême du Canada :
+Par conséquent, un don est le transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie [...] L’avantage fiscal qui est conféré par un don n’est généralement pas considéré comme un « avantage » au sens où on l’entend dans cette définition car s’il en était ainsi, bien des donateurs seraient dans l’impossibilité de se prévaloir des déductions relatives aux dons de charité.
+[17] Les trois éléments requis d’un don sont donc les suivants : 1) il doit y avoir transfert volontaire d’un bien; 2) le bien transféré doit appartenir au donateur; 3) le donateur ne doit pas recevoir d’avantage ou de contrepartie, un élément qui, dans la jurisprudence ultérieure, a été considéré comme voulant dire que le donateur doit avoir eu une « intention libérale ».
+[Non souligné dans l’original.]
+[59] En outre, dans l’arrêt Kossow c. Canada, 2013 CAF 283, la Cour d’appel fédérale a examiné le programme. Dans ses motifs, la Cour d’appel fédérale n’a pas renvoyé à la notion d’« intention libérale », mais elle a conclu que parce que Mme Kossow a reçu un avantage en échange de sa donation, celle-ci était viciée et, par conséquent, Mme Kossow n’avait pas fait de don aux termes de l’article 118.1 de la Loi (par. 23 à 35).
+[60] Pour ces motifs, même si je conclus que la question de savoir si un donateur a reçu un avantage en échange d’une donation ou celle de savoir s’il avait une « intention libérale » constituent des notions équivalentes, je reconnais que la notion d’« intention libérale » ne faisait pas partie du vocabulaire de M. Tringali au moment de la vérification du programme. Par conséquent, il semble juste d’affirmer que M. Tringali ne se serait pas penché sur la question de l’« intention libérale » au moment de la vérification et que les corrections qu’il a apportées aux réponses données lors des interrogatoires préalables sont appropriées. Cependant, il se serait penché sur la question de savoir si un donateur a reçu un avantage dans le cadre du programme.
+Dépens exemplaires ou punitifs
+[61] L’appelante a affirmé que des dépens exemplaires et punitifs doivent lui être adjugés, compte tenu de la ligne de conduite suivie par l’intimé tout au long des interrogatoires préalables.
+[62] Comme cela a déjà été mentionné, j’estime qu’il n’y a aucune raison d’intérêt public ou aucune « conduite répréhensible, scandaleuse ou outrageante » de la part de l’intimé qui justifierait l’adjudication de dépens procureur-client.
+Dépens relatifs à la requête
+[63] Ayant conclu que l’intimé avait reformulé l’engagement en cause pris lors des interrogatoires préalables et qu’il avait en fait limité le sens de l’engagement, je conclus que les dépens relatifs à la présente requête seront adjugés à l’appelante. Les parties disposent d’un délai de 20 jours suivant la date de la présente ordonnance pour parvenir à un accord sur les dépens relatifs à la requête et en informer la Cour, à défaut de quoi l’appelante disposera alors d’un délai de 20 jours pour déposer et signifier des observations écrites sur les dépens relatifs à la requête et l’intimé disposera encore d’un délai de 20 jours pour déposer et signifier une réponse écrite. Ces observations ne doivent pas dépasser dix pages. Si les parties n’informent pas la Cour qu’elles sont parvenues à un accord et qu’il n’y a pas de dépôt d’observations dans les délais mentionnés précédemment, les dépens relatifs à la présente requête seront adjugés à l’appelante selon le tarif.
+[64] Les parties à la cause type et à tous les appels énumérés dans l’annexe « 1 » jointe aux présentes sont liées par la présente ordonnance et par les motifs modifiés de l’ordonnance ci-jointe.
+La présente ordonnance modifiée remplace l’ordonnance du 22 novembre 2022 afin que soient insérés les mots soulignés dans l’intitulé de la cause, l’annexe « 1 » et le paragraphe 64 ci-dessus.
+Signé à Montréal (Québec), ce 22e jour de novembre 2022.
+« Dominique Lafleur »
+La juge Lafleur
+Traduction certifiée conforme
+Ce 17e jour de mai 2024.
+François Brunet, réviseur
+Annexe A
+147 (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.2) Sauf directive contraire de la Cour, lorsque l’intimée fait une offre de règlement et que l’appelant obtient un jugement qui n’est pas plus favorable que l’offre de règlement, ou que l’appel est rejeté, l’intimée a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+(3.3) Les paragraphes (3.1) et (3.2) ne s’appliquent que si l’offre de règlement :
+a) est faite par écrit;
+b) est signifiée au moins trente jours après la clôture de la procédure écrite et au moins quatre-vingt-dix jours avant le début de l’audience;
+c) n’est pas retirée;
+d) n’expire pas moins de trente jours avant le début de l’audience.
+(3.4) Il incombe à la partie qui invoque le paragraphe (3.1) ou (3.2) de prouver :
+a) qu’il existe un rapport entre la teneur de l’offre de règlement et le jugement;
+b) que le jugement est au moins aussi favorable que l’offre de règlement ou qu’il n’est pas plus favorable que l’offre de règlement, selon le cas.
+(3.5) Pour l’application du présent article, les dépens indemnitaires substantiels correspondent à 80 % des dépens établis sur une base procureur-client.
+(3.6) Lorsqu’elle détermine que le jugement accordé est au moins aussi favorable que l’offre de règlement visée au paragraphe (3.1) ou qu’il n’est pas plus favorable que l’offre de règlement visée au paragraphe (3.2), la Cour ne tient pas compte des dépens qui sont accordés dans le jugement ou qui seraient par ailleurs accordés, si l’offre de règlement ne prévoit pas le règlement de la question des dépens.
+(3.7) Il est entendu que si une offre de règlement qui ne prévoit pas le règlement des dépens est acceptée, une partie au règlement peut demander à la Cour une ordonnance quant aux dépens.
+(3.8) Tant qu’une décision n’aura pas été rendue sur toutes les questions en litige, à l’exception de celle relative aux dépens, aucune communication concernant une offre de règlement n’est faite à la Cour, sauf à un juge qui préside une conférence dans le cadre d’une instance et qui n’est pas celui qui présidera l’audition de cet appel.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.2) Unless otherwise ordered by the Court, if a respondent makes an offer of settlement and the appellant obtains a judgment as favourable as or less favourable than the terms of the offer of settlement or fails to obtain judgment, the respondent is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+(3.3) Subsections (3.1) and (3.2) do not apply unless the offer of settlement
+(a) is in writing;
+(b) is served no earlier than 30 days after the close of pleadings and at least 90 days before the commencement of the hearing;
+(c) is not withdrawn; and
+(d) does not expire earlier than 30 days before the commencement of the hearing.
+(3.4) A party who is relying on subsection (3.1) or (3.2) has the burden of proving that
+(a) there is a relationship between the terms of the offer of settlement and the judgment; and
+(b) the judgment is as favourable as or more favourable than the terms of the offer of settlement, or as favourable or less favourable, as the case may be.
+(3.5) For the purposes of this section, substantial indemnity costs means 80% of solicitor and client costs.
+(3.6) In ascertaining whether the judgment granted is as favourable as or more favourable than the offer of settlement for the purposes of applying subsection (3.1) or as favourable as or less favourable than the offer of settlement for the purposes of applying subsection (3.2), the Court shall not have regard to costs awarded in the judgment or that would otherwise be awarded, if an offer of settlement does not provide for the settlement of the issue of costs.
+(3.7) For greater certainty, if an offer of settlement that does not provide for the settlement of the issue of costs is accepted, a party to the offer may apply to the Court for an order determining the amount of costs.
+(3.8) No communication respecting an offer of settlement shall be made to the Court, other than to a judge in a litigation process conference who is not the judge at the hearing, until all of the issues, other than costs, have been determined.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+(7) Any party may,
+(a) within thirty days after the party has knowledge of the judgment, or
+(b) after the Court has reached a conclusion as to the judgment to be pronounced, at the time of the return of the motion for judgment,
+whether or not the judgment included any direction concerning costs, apply to the Court to request that directions be given to the taxing officer respecting any matter referred to in this section or in sections 148 to 152 or that the Court reconsider its award of costs.
+RÉFÉRENCE :
+2022 CCI 147
+NO DU DOSSIER DE LA COUR :
+2015-3120(IT)G
+INTITULÉ :
+SHIRLEY ALEXANDER ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 9 septembre 2022
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Dominique Lafleur
+DATE DE L’ORDONNANCE :
+Le 22 novembre 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Avocats de l’intimé :
+Me Arnold Bornstein
+Me Aaron Tallon
+Me Jasmeen Mann
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] voir la définition 5(a) à l’adresse : https://www.oed.com/view/Entry/141585?redirectedFrom=pertain#eid

@@ -1,0 +1,129 @@
+Title: Estate of Mary Rizak c/o George Jehn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28802/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-434-28802-estate-of-mary-rizak-c-o-george-jehn-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-08-06
+
+# Estate of Mary Rizak c/o George Jehn v. The Queen
+
+- Citation: 2008 TCC 434
+- Decision date: 2008-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1522, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Mary Rizak c/o George Jehn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-08-06
+Neutral citation
+2008 TCC 434
+File numbers
+2007-4776(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4776(IT)I
+BETWEEN:
+ESTATE OF MARY RIZAK C/O GEORGE JEHN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 22, 2008 at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Agent for the Appellant:
+Miklos Nagy
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of August, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2008TCC434
+Date: 20080806
+Docket: 2007-4776(IT)I
+BETWEEN:
+ESTATE OF MARY RIZAK C/O GEORGE JEHN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Minister of National Revenue disallowed the deduction of interest charges claimed by the Appellant as “interest payable” on money borrowed to acquire shares under a deferred purchase plan fund. The Minister’s determination was based on the following assumptions of fact:
+a) on July 18, 2003, the Appellant entered into an Investor Subscription Agreement – Deferred Purchase Plan Fund (“DPP”) called Horizon DPP Fund which name was later changed to Olympus United Invest II DPP DSC (“Olympus”);
+b) the Appellant subscribed for $600,000 of Olympus DPP (3 x the normal purchase of $200,000), with $150,000 paid in cash and the $450,000 balance in the DPP of Olympus;
+c) the DPP accrued interest rate is the greater of 8% and 1% above prime Canadian dollar lending rate of the Royal Bank of Canada;
+d) the Appellant was not required to pay any accrued interest until the subscription was completed – the closing date for the subscription was December 31, 2010;
+e) the Appellant had no income earning ability until the shares were acquired and the shares could not be acquired until the subscription was completed;
+f) under the Investor Subscription Agreement, there was no purchase until the full amount was paid and no shares issued until the closing date of the subscription;
+g) under the subscription agreement, the initial payment made by the Appellant did not constitute her as a holder of any Class Shares;
+h) the Appellant was not entitled to any dividends until the Class Shares subscribed for had been fully paid and issued;
+i) the Appellant had no income earning purpose until the subscription was completed on December 31, 2010;
+j) the Appellant did not incur any interest expenses on borrowed money;
+k) the Appellant provided no documentation to support any loan was made, including date of loan, amount of loan, interest rate, terms of loan repayment and the repayments that have been made against the principle amount owed.[1]
+[2] Mr. Miklos Nagy, who described himself as a financial advisor, acted as the Appellant’s agent and testified at the hearing. It was apparently upon his advice that in 2003, the late Mary Rizak entered into the Investor Subscription Agreement – Deferred Purchase Plan Fund (“Subscription Agreement”) called Horizon DPP, later known as Olympus United Univest II DPP DSC (“Olympus DPP”). Also present on behalf of the Appellant was a Mr. George Jehn, who identified himself as the Appellant’s executor[2]. Although Mr. Jehn testified, his evidence established only that he had had no involvement with the events leading to Ms. Rizak’s subscription of the Olympus DPP.
+[3] Mr. Nagy submitted that on a proper interpretation of the terms of the Subscription Agreement, the Appellant was entitled to deduct the interest charges claimed in its 2004 taxation year. For reasons never explained, the actual subscription agreement(s) purportedly executed by the late Mary Rizak in 2003 were not before the Court. Instead, Mr. Nagy tendered a blank version of the standard form Olympus DPP subscription agreement which was entered (without objection from the Respondent) as Exhibit A-1. Mr. Nagy also put in evidence three identical documents, each entitled “Statement of Accrued Interest Payable”[3] which, he said, Olympus DPP had issued to Ms. Rizak in 2004 for each of her three $200,000 subscriptions. Under the heading “Accrued Interest and Paid up Capital” for Olympus DPP appears the following chart:
+Paid up Capital
+Outstanding Balance
+Initial payment
+Accrued Interest since Inception
+2004 Accrued Interest
+$200,000
+$150,000
+$50,000
+$17,490.41
+$12,032.88
+[4] Mr. Nagy relied on Exhibits A-1 and A-2 to support the Appellant’s position that interest charges of $36,099.64 ($12,032.88 times 3) ought to be deductible in 2004 as that was the amount payable on the total outstanding balance of $450,000. Mr. Nagy admitted on cross-examination that, under the Subscription Agreement[4], no shares were to be issued until the “Closing Date”, defined therein as the date specified by the subscriber for payment of the outstanding balance and accrued interest, on a day not later than December 31, 2010. He further admitted that the late Ms. Rizak never paid the outstanding balance and accrued interest and somewhat reluctantly, conceded that no share certificates had ever been issued to her.
+[5] All of this notwithstanding, Mr. Nagy contended that even without the issuance of shares, “her investment could have been sold at any time”. In support of this proposition, he said he had heard of “others” who had thought of doing this. This possibility, coupled with his assertion that the late Ms. Rizak’s only intention in subscribing for the shares was to earn income, was sufficient to show the income-generating ability of the Olympus DPP. He argued that because a subscriber was obligated by the Subscription Agreement[5] to pay the outstanding balance and accrued interest by, at the latest, December 31, 2010, the Appellant could be taken to have “borrowed” that amount from Olympus DPP to acquire the shares. Finally, he relied on the bare declaration contained in the documents entitled “Statement of Accrued Interest Payable” as proof that interest was payable on the outstanding balance in 2004. For these reasons, he urged the Court to conclude that the Appellant was entitled to claim a deduction of interest charges under paragraph 20(1)(c) of the Income Tax Act.
+[6] The Respondent’s position was that the Appellant was not eligible for such a deduction because it had not satisfied the criteria of either subparagraph 20(1)(c)(i) or (ii) of the Act :
+20. (1) Deductions permitted in computing income from business or property -- Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(c) interest -- an amount paid in the year or payable in respect of the year (depending upon the method regularly followed by the taxpayer in computing the taxpayer's income), pursuant to a legal obligation to pay interest on
+(i) borrowed money used for the purpose of earning income from a business or property (other than borrowed money used to acquire property the income from which would be exempt or to acquire a life insurance policy),
+(ii) an amount payable for property acquired for the purpose of gaining or producing income from the property or for the purpose of gaining or producing income from a business (other than property the income from which would be exempt or property that is an interest in a life insurance policy),
+…
+[7] Counsel for the Respondent cited the words of Dickson, C.J. in Bronfman Trust v. Canada[6] to explain how paragraph 20(1)(c) permits the deduction from income of interest payments that would otherwise be non-deductible under paragraph 18(1)(b) of the Act:
+20 I agree with Marceau J. as to the purpose of the interest deduction provision. Parliament created s. 20(1)(c)(i), and made it operate notwithstanding s. 18(1)(b), in order to encourage the accumulation of capital which would produce taxable income. Not all borrowing expenses are deductible. Interest on borrowed money used to produce tax exempt income is not deductible. Interest on borrowed money used to buy life insurance policies is not deductible. Interest on borrowings used for non-income earning purposes, such as personal consumption or the making of capital gains is similarly not deductible. The statutory deduction thus requires a characterization of the use of borrowed money as between the eligible use of earning non-exempt income from a business or property and a variety of possible ineligible uses. The onus is on the taxpayer to trace the borrowed funds to an identifiable use which triggers the deduction. Therefore, if the taxpayer commingles [page46] funds used for a variety of purposes only some of which are eligible he or she may be unable to claim the deduction: see, for example, Mills v. Minister of National Revenue, 85 D.T.C. 632 (T.C.C.); No. 616 v. Minister of National Revenue, 59 D.T.C. 247 (T.A.B.).
+[8] Referring to the principle established by the case law that interest is deductible only when it is payable[7], counsel for the Respondent submitted that notwithstanding the description used in each “Statement of Accrued Interest Payable”, no interest was in fact or in law “payable” in 2004. In addition, the Respondent argued that no money had been borrowed to acquire the shares described in the Subscription Agreement; nor had interest been payable on money borrowed to acquire income-generating property since the conditions for the issuance of the shares subscribed for under the Subscription Agreement had never been fulfilled. Finally, Mr. Nagy’s testimony notwithstanding, there was no evidence that the late Ms. Rizak could have sold her unissued shares.
+[9] In my view, the Respondent’s position is the correct one. It is common ground that no interest was actually paid in 2004. Thus, to succeed in its claim for a deduction of interest charges under subparagraph 20(1)(c)(i) or (ii), the Appellant has the onus of proving that an amount was “payable” in 2004 “pursuant to a legal obligation to pay interest on borrowed money”. The only evidence of any such legal obligation was the blank Subscription Agreement tendered by the Appellant in support of its position. Even under the more relaxed requirements of the Informal Procedure, such documentation falls far short of establishing any legal obligation imposed on the late Ms. Rizak in 2004. However, assuming for the sake of argument that the Subscription Agreement did give rise to “a legal obligation to pay interest on borrowed money”, it is clear from paragraph 1 of that document that no interest was payable until the Closing Date; that is to say, the day on or before December 31, 2010 when the subscriber actually paid the outstanding balance. The Appellant admitted that the late Ms. Rizak never paid the outstanding balance of $450,000 in 2004 or at any other time before the authorities finally shut down the Olympus DPP. Pursuant to the terms of the Subscription Agreement, no interest became payable in 2004, a state of affairs that is in no way transformed merely by Olympus DPP issuing a “Statement of Accrued Interest Payable” for that year. Having failed to show that any amount was paid or payable for interest on borrowed money in 2004, the Appellant cannot succeed. The appeal is accordingly dismissed.
+Signed at Ottawa, Canada, this 6th day of August, 2008.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2008TCC434
+COURT FILE NO.: 2007-4776(IT)I
+STYLE OF CAUSE: ESTATE OF MARY RIZAK C/O GEORGE JEHN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 22, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: August 6, 2008
+APPEARANCES:
+Agent for the Appellant:
+Miklos Nagy
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 7 of Reply to the Notice of Appeal.
+[2] Although no probate documents to verify his status as such were before the Court.
+[3] Exhibit A-2.
+[4] See Clause 3.
+[5] Paragraph 1.
+[6] [1987] 1 S.C.R. 32.
+[7] Barbican Properties Inc. v. R., 97 D.T.C. 5008; Redclay Holdings Ltd. v. R., 96 D.T.C. 1207.

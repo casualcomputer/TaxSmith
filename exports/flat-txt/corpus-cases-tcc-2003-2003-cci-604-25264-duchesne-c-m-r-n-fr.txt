@@ -1,0 +1,138 @@
+Title: Duchesne c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25264/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-604-25264-duchesne-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-10-07
+
+# Duchesne c. M.R.N.
+
+- Citation: 2003 CCI 604
+- Decision date: 2003-10-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2393, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duchesne c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-07
+Référence neutre
+2003 CCI 604
+Numéro de dossier
+97-333(UI)
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 97-333(UI)
+ENTRE :
+ÉRIC DUCHESNE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+ntimé.
+____________________________________________________________________
+Appel fixé pour audition le 2 juillet 2003 à Roberval (Québec)
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelant :
+Me Éric Le Bel
+Avocatede l'intimé :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+Vu la requête par l'avocat de l'appelant en vue de cesser d'occuper dans le présent dossier;
+La requête pour cesser d'occuper est admise.
+Et vu que l'avocat de l'intimée a demandé le rejet de l'appel;
+La demande est accordée et l'appel est rejeté et la décision rendue par le ministre est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2003.
+« Juge Archambault »
+Juge Archambault
+Référence : 2003CCI604
+Date : 20031007
+Dossier : 97-333(UI)
+ENTRE :
+ÉRIC DUCHESNE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] L'appel de monsieur Éric Duchesne devait être entendu le mercredi 2 juillet 2003 à Roberval, Québec, en même temps que celui de son père, Berthold Duchesne (97-332(UI)). Le vendredi 27 juin, de retour d'une semaine de vacances, le procureur d'Éric Duchesne, Me Éric Le Bel, a demandé à la Cour une remise dans ces deux appels. Le motif principal était l'incapacité de Berthold Duchesne de se présenter à l'audience en raison de son état de santé. Un billet médical en date du 23 juin 2003 confirme son hospitalisation pour état dépressif ainsi que son inaptitude à comparaître, et ce pour une période indéterminée. Quant à l'appel d'Éric Duchesne, ce dossier était « concomittant [sic] avec [celui] de Berthold Duchesne » et les deux appels devaient être entendus sur preuve commune. Dans sa demande du 27 juin 2003, Me Le Bel écrit : « En effet, il s'agit d'une preuve longue et complexe qui touche les mêmes témoins. Nous croyons que tenir deux procès reviendrait à faire le travail deux fois, à notre avis inutilement. » Le juge en chef de cette Cour a accueilli la demande de remise de Berthold Duchesne, tout en refusant celle d'Éric Duchesne. Cette décision a été communiquée le lundi 30 juin 2003 par télécopie à Me Le Bel.
+[2] À l'audience tenue le 2 juillet 2003, Me Le Bel s'est présenté seul, sans être accompagné d'Éric Duchesne. Me Le Bel a réitéré sa demande de remise, invoquant essentiellement les mêmes motifs que ceux considérés par le juge en chef de cette Cour. Pour les motifs que j'exposerai plus loin, j'ai refusé cette demande. Par la suite, Me Le Bel a demandé la permission de cesser d'occuper, ce que je lui ai accordé. Finalement, la procureure de l'intimée a demandé le rejet de l'appel de monsieur Duchesne, demande que j'ai également accueillie. Comme Éric Duchesne n'était pas présent au moment du rejet de son appel, j'ai cru utile de rédiger ces motifs pour qu'il sache pourquoi son appel a été rejeté[1].
+Faits
+[3] Me Jean-François Bernier, du cabinet d'avocats Mario Bouchard et associés a déposé le 25 février 1997 un avis d'appel concernant une décision rendue par le ministre du Revenu national (ministre) relativement à l'assurabilité de l'emploi d'Éric Duchesne aux fins de la Loi sur l'assurance-chômage (Loi). Les périodes pertinentes sont les suivantes : du 7 mars au 1er octobre 1993, du 22 mai au 26 novembre 1994 et du 1er mai au 17 novembre 1995. Pour conclure qu'Éric Duchesne n'occupait pas un emploi assurable durant ces périodes, le ministre s'est fondé sur l'alinéa 3(2)c) de la Loi, soit sur le lien de dépendance qui existait entre Éric Duchesne et l'employeuse, sa mère, madame Diane Gaudreau.
+[4] Le 29 août 1997, Éric Duchesne remplaçait Me Bernier par Me Le Bel du cabinet Fradette, Gagnon, Têtu, Le Bel, Ste-Marie.
+[5] Le 25 février 1998, la Cour donnait avis à Me Le Bel que l'audition de l'appel d'Éric Duchesne, tout comme celle de l'appel de Berthold Duchesne, devait avoir lieu à Alma, le 14 avril 1998. Contre toute attente, les deux appels n'ont pas été entendus sur preuve commune. L'audition de l'appel de Berthold a débuté à 10 h 05 le 14 avril 1998. Cinq témoins de Berthold Duchesne ont été entendus. À 16 h 50, l'audition de son appel a été ajournée à une date ultérieure. Vu l'encombrement du rôle, l'audition de l'appel d'Éric Duchesne a été également remise à une date ultérieure.
+[6] Le 3 juillet 1998, la coordonnatrice des audiences avisait Me Le Bel que l'audition de l'appel de Berthold Duchesne allait se poursuivre le 14 septembre 1998. Le même jour, Me Le Bel informait la Cour par lettre de son intention d'aller de l'avant dans l'appel de Berthold Duchesne, mais demandait à la Cour de surseoir à l'audition de l'appel d'Éric Duchesne. Il y disait « [qu]'il y aurait lieu d'attendre la décision du Juge Charron, dans le dossier de Berthold Duchesne, étant donné qu'une décision, dans un sens ou dans un autre, pourrait avoir un impact sur ledit dossier d'Éric Duchesne. » Le 9 juillet 1998, la Cour informait Me Le Bel qu'elle faisait droit à cette demande.
+[7] Quand l'audition de l'appel de Berthold Duchesne s'est poursuivie le 14 septembre 1998, cinq témoins ont été entendus. Même si Me Le Bel a fait entendre huit témoins (dont Berthold Duchesne et Diane Gaudreau) lors des audiences tenues en avril et septembre 1998, Éric Duchesne n'était pas de ce nombre. À la suite de la décision rendue le 30 octobre 1998 par laquelle le juge Charron rejetait l'appel de Berthold Duchesne, une demande de contrôle judiciaire a été déposée le 9 décembre 1998 devant la Cour d'appel fédérale. Comme les parties étaient d'accord pour que le dossier soit renvoyé à cette Cour pour nouvelle audition, la Cour d'appel fédérale a rendu une ordonnance en ce sens le 26 novembre 1999.
+[8] Le 18 mai 2001, la Cour a fixé au 24 octobre 2001 l'audition de l'appel de Berthold Duchesne. Un mois avant la date de l'audience, soit le 26 septembre 2001, Me Le Bel a informé la Cour que Berthold Duchesne était « inapte à subir un procès. » Dans sa lettre du 24 septembre 2001, jointe à celle de Me Le Bel, le médecin de Berthold Duchesne concluait que son patient était dans « un état dépressif majeur d'intensité sévère » [2]. Il a été fait droit à la demande de remise le 2 octobre 2001. La coordonnatrice des audiences a contacté Me Le Bel au cours du mois de juillet 2002 pour fixer une nouvelle date d'audition au mois de septembre 2002. N'ayant pu joindre ni son client ni le médecin de celui-ci, Me Le Bel a demandé de ne pas fixer l'audition pour septembre 2002. Il devait informer la coordonnatrice des audiences avant la fin de juillet 2002 de l'état de santé de son client. Malgré plusieurs appels de la coordonnatrice, Me Le Bel ne l'a pas rappelée. Alors, le 13 mai 2003, le juge en chef a ordonné, de façon péremptoire, que les appels de Berthold Duchesne et d'Éric Duchesne soient entendus le 2 juillet 2003 au Palais de justice de Roberval.
+[9] Me Le Bel a affirmé avoir écrit à ses deux clients un mois avant le 2 juillet 2003 leur demandant de communiquer rapidement avec lui pour préparer leur procès. Il a affirmé également leur avoir transmis l'ordonnance du juge en chef[3]. Seul Berthold Duchesne aurait communiqué avec Me Le Bel, l'informant qu'il était toujours dépressif et qu'il n'était pas « en état de fonctionner » . Me Le Bel l'a informé qu'il ne pouvait demander une nouvelle remise, à moins d'obtenir un billet médical. Me Le Bel a affirmé aussi avoir appelé Éric Duchesne à plusieurs reprises, avant comme après sa semaine de vacances, mais sans succès. De plus, Me Le Bel a confirmé qu'il n'avait jamais dit à Éric Duchesne de ne pas se présenter au Palais de justice à Roberval le 2 juillet 2003 à la suite du refus de la Cour d'accueillir sa demande de remise de l'audition de son appel.
+Analyse
+[10] À l'audience, Me Le Bel a invoqué deux motifs en faveur de la remise de l'audition de l'appel. Premièrement, le dossier d'Éric Duchesne était « intimement lié à celui de Berthold Duchesne » . Deuxièmement, il a dit avoir besoin du témoignage de Berthold Duchesne pour faire une preuve complète.
+[11] À mon avis, ces deux motifs ne sont pas suffisamment sérieux dans les circonstances pour qu'une nouvelle remise soit accordée à Éric Duchesne. Quant au premier motif, il est vrai qu'il existait un certain lien entre l'appel d'Éric et celui de son père, Berthold Duchesne. Il s'agissait dans les deux cas de déterminer l'assurabilité de l'emploi exercé pour la même employeuse, Mme Diane Gaudreau, durant sensiblement les mêmes périodes. Si les deux appels avaient pu être entendus en même temps, il me semble qu'il aurait été en effet plus efficace de les entendre sur preuve commune. Toutefois, il est tout à fait surprenant que Me Le Bel insiste pour que l'appel d'Éric Duchesne soit entendu en même temps que celui de Berthold Duchesne, puisque ces deux appels n'avaient pas été entendus sur preuve commune lorsqu'ils avaient été appelés pour la première fois, le 14 avril 1998. De plus, Me Le Bel a expressément demandé à la Cour de suspendre l'appel d'Éric Duchesne en attendant la décision de la Cour dans le dossier de Berthold Duchesne. Faut-il rappeler que c'est à la suite du défaut de Me Le Bel d'informer la Cour de l'état de santé de Berthold Duchesne, et de rappeler après les appels téléphoniques de la coordonnatrice des audiences, que le juge en chef a fixé de façon péremptoire la date de l'audition de l'appel d'Éric Duchesne au même jour que celui fixé pour l'appel de Berthold?
+[12] Quant au deuxième motif, il ne m'apparaît pas plus sérieux que le premier. En effet, j'ai demandé à Me Le Bel de m'expliquer en quoi le témoignage de Berthold Duchesne était essentiel à la preuve que devait fournir Éric Duchesne, et Me Le Bel a répondu : « Pour [. . .] donner un portrait complet de la situation » . Lorsque je lui ai demandé : « Dites-moi qu'est-ce qu'il viendrait dire qui est essentiel pour votre cause? » , il a répondu : « Bien, écoutez. Il va dire qu'on [sic] 93, en 94, en 95 il a travaillé lui aussi sur la ferme à des périodes différentes d'Éric puis c'est son père là, ils se voient à tous les jours là, hein, ils vivent dans la même maison. » (Pages 27 et 28 de la transcription.) Un peu plus loin, lorsque pressé à nouveau d'expliquer en quoi le témoignage de Berthold était essentiel, Me LeBel a répondu qu'il pourrait témoigner :
+Que pendant les périodes en litige, il a vraiment travaillé, qu'il a vraiment fait une prestation de travail, que sur le marché, c'est ça qui se payait, d'ailleurs, lui-même recevait un salaire à peu près similaire, que, oui, c'est vrai qu'il avait des besoins pendant la période qu'il était là puis qui ont été comblés par Éric. N'importe qui, même s'il n'avait pas été le fils de madame, aurait dû faire de toute façon. C'est ça qu'il va venir établir comme preuve en même temps que madame Gaudreau puis en même temps qu'Éric Duchesne aussi. (Pages 33 et 34 de la transcription.)
+[13] Il n'y a pas de doute que le témoignage de Berthold Duchesne aurait pu être pertinent s'il avait pu venir témoigner. Malheureusement, Berthold Duchesne souffre de dépression de façon chronique. Il n'a pu comparaître lors de l'audition de son appel en 2001. Il avait demandé une remise un mois avant la date de son audience. La même chose s'est produite avant l'audience du 2 juillet 2003 : il a informé son avocat qu'il n'était pas « en état de fonctionner » . D'ailleurs dans sa lettre du 24 septembre 2001, le médecin de Berthold mentionne son appel devant cette Cour parmi les faits ayant pu causer la dépression : « Ces évènements auraient troublé énormément le patient, d'autant plus que la cause est reprise actuellement. » Son médecin confirme dans son billet du 23 juin 2003 que Berthold Duchesne était « en congé de maladie pour une période indéterminée » . Donc, après deux tentatives pour entendre à nouveau l'appel de Berthold Duchesne, on ne sait pas quand ce dernier sera apte à poursuivre son appel.
+[14] Il m'apparaît inopportun de reporter indéfiniment l'appel d'Éric Duchesne. Son appel a été interjeté il y a plus de six ans et la première période pertinente visée par ledit appel remonte déjà à plus de dix ans. De plus, le témoignage de Berthold ne m'apparaît pas essentiel à l'appel d'Éric Duchesne. En effet, Mme Diane Gaudreau, l'employeuse et la mère d'Éric Duchesne, peut venir corroborer le témoignage de celui-ci quant au travail qu'il a effectué pour elle.
+[15] En d'autres mots, Mme Diane Gaudreau est en mesure de fournir un témoignage semblable à celui qu'aurait pu offrir Berthold Duchesne. C'est d'ailleurs ce que Me Le Bel semble avoir réussi à lui faire faire au procès de Berthold Duchesne, puisque Me Lebel n'a pas jugé essentiel de faire témoigner Éric Duchesne pour corroborer le témoignage de Berthold et de Mme Gaudreau sur la nature des services rendus par Berthold Duchesne. S'il y a un dossier dans lequel la nécessité de corroboration pouvait être importante, c'est bien dans celui de Berthold Duchesne. En effet, le ministre doutait de la durée des services fournis par Berthold Duchesne parce qu'il avait sa propre entreprise de transport. Or, dans l'appel d'Éric Duchesne, la question de la durée des services n'est pas en litige. Éric Duchesne n'exploitait pas d'entreprise et il ne travaillait pas pour un autre employeur que sa mère. Il aurait même travaillé pour elle durant les périodes où il touchait des prestations d'assurance-chômage. Ainsi, l'existence même du contrat de travail et sa durée ne sont pas en litige dans son dossier.
+[16] La seule question cruciale est celle de savoir si les modalités du contrat de travail d'Éric Duchesne auraient été les mêmes s'il n'y avait pas eu de lien de dépendance entre lui et sa mère, l'employeuse. À mon avis, la meilleure preuve des modalités d'un contrat de travail en milieu agricole entre personnes n'ayant aucun lien de dépendance serait celle faite par des témoins étrangers à la famille, car elle aurait une valeur probante plus élevée. En conclusion, je ne partage pas le point de vue du procureur d'Éric Duchesne quant au caractère essentiel du témoignage de Berthold Duchesne.
+[17] À mon avis, le véritable motif pour demander la remise était que Me Le Bel n'avait pas obtenu la coopération de son client pour préparer son appel. En aucun temps dans les quatre semaines qui ont précédé la date d'audition Me Le Bel n'a été en mesure de parler à son client afin de préparer sa cause[4]. Comme le juge en chef avait rejeté sa demande de remise dans l'appel d'Éric Duchesne, Me Le Bel se devait d'être prêt à aller de l'avant le mercredi 2 juillet 2003. Comme il n'était pas prêt, il n'est pas surprenant qu'il a tenté une ultime demande de remise et, n'ayant pas obtenu la remise, il a demandé à cesser d'occuper dans le dossier d'Éric Duchesne.
+[18] Compte tenu de l'état dépressif chronique de Berthold et de sa non-disponibilité, pourquoi ne pas avoir adopté la stratégie suivie initialement par Me Le Bel dans l'appel de Berthold Duchesne? Tout d'abord, il aurait été possible de se passer de la corroboration d'un des compagnons de travail d'Éric Duchesne, comme Me Le Bel l'a fait dans le dossier de Berthold, et de s'en tenir aux témoignages de l'employeuse et du travailleur lui-même. En outre, Me Lebel aurait pu aller de l'avant avec l'appel d'Éric Duchesne et faire suspendre celui de Berthold, comme cela avait été demandé pour l'appel d'Éric Duchesne en juillet 1998[5]. La décision rendue dans le dossier d'Éric pourrait « avoir un impact » sur l'appel de Berthold, pour reprendre les termes que Me Le Bel a employés lui-même, dans sa lettre du 3 juillet 1998, relativement à l'impact de l'appel de Berthold Duchesne sur celui d'Éric.
+[19] Pour toutes ces raisons, je conclus qu'il n'y avait pas de motifs raisonnables pour accorder une troisième remise à Éric Duchesne. Comme le rappelait récemment la Cour d'appel fédérale dans l'affaire Wagg c. La Reine, 2003 CAF 303, la décision d'accorder une remise relève du pouvoir discrétionnaire du juge qui préside à l'audition d'un appel. Voici ce que disait le juge Pelletier au paragraphe 19 [6] :
+19 Il est bien établi en droit que la décision d'accorder ou non un ajournement est une décision discrétionnaire, qui doit être prise équitablement (voir l'affaire Pierre c. Ministre de la Main-d'oeuvre et de l'Immigration, [1978] 2 C.F. 849, à la page 851, citée avec approbation dans l'arrêt Prassad c. Canada (MEI), [1989] 1 R.C.S. 560, au paragraphe 17). Il n'existe aucune présomption selon laquelle il existe un droit automatique à un ajournement. La Cour n'interviendra pas dans le refus d'accorder un ajournement sauf circonstances exceptionnelles (voir l'arrêt Siloch c. Canada, [1993] A.C.F. n o 10 (C.A.F.))
+[Je souligne.]
+[20] Ayant été informé de ma décision, Me Le Bel a demandé à la Cour la permission de cesser d'occuper et j'ai accueilli sa demande. Vu l'absence d'Éric Duchesne lorsque son appel a été appelé, alors qu'il savait que l'audience devait avoir lieu au Palais de justice de Roberval le 2 juillet 2003[7], la procureure de l'intimée a demandé à la Cour le rejet de son appel. J'ai accueilli cette demande au motif que le comportement d'Éric Duchesne indiquait un total désintérêt à l'égard de son appel. Il m'apparaît tout à fait déraisonnable qu'un appelant qui interjette appel devant un tribunal ne donne aucun signe de vie à son procureur, alors que ce dernier lui a envoyé, un mois avant la date de l'audition de son appel, une lettre le priant de communiquer le plus rapidement possible avec lui pour préparer son procès et qu'il lui a laissé de nombreux messages téléphoniques au cours de cette période d'un mois.
+[21] En outre, il faut mentionner que j'avais suggéré à Me Le Bel comme ultime tentative qu'il communique avec son client pour lui donner l'occasion de se présenter le lendemain, soit le 3 juillet 2003. Malheureusement, Me Le Bel a informé la Cour qu'il n'avait pu joindre son client et qu'il n'avait pu que laisser un message sur son répondeur. Dans ces circonstances, j'ai jugé bon de ne pas demander aux deux témoins de l'intimée de se déplacer de la ville de Québec[8], un trajet de trois ou quatre heures en voiture, pour être présents le lendemain et d'engager des frais de déplacement sans l'assurance qu'Éric Duchesne serait présent et que cela l'intéressait de poursuivre son appel ce jour-là.
+[22] Pour tous ces motifs, la demande de remise est refusée, celle de Me Le Bel pour cesser d'occuper est accueillie et l'appel d'Éric Duchesne est rejeté.
+Signé à Ottawa, Canada, ce 7e jour d'octobre 2003.
+« Juge Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2003CCI604
+No DU DOSSIER DE LA COUR :
+97-333(UI)
+INTITULÉ DE LA CAUSE :
+Éric Duchesne
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Roberval (Québec)
+DATE DE L'AUDIENCE :
+2 juillet 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Pierre Archambault
+DATE DU JUGEMENT :
+le 7 octobre 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Éric Le Bel
+Pour l'intimée :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1]
+Après que j'eus décidé de fournir des motifs écrits de ma décision, la Cour a reçu de monsieur Éric Duchesne une demande de rétractation de jugement en date du 23 juillet 2003. À mon avis, cette demande est prématurée puisque je n'ai pas encore rendu ma décision écrite relativement à son appel. Après avoir pris connaissance de ces motifs, monsieur Duchesne pourra, s'il le juge toujours à propos, faire une nouvelle demande de rétractation.
+[2] Au cours de l'audience, Me Le Bel a soutenu à tort que son client n'était pas dépressif en 2001 mais était plutôt cancéreux (page 19 de la transcription).
+[3] Voir pp. 42 et 43 de la transcription.
+[4]
+Faut-il rappeler que Me Le Bel mentionnait dans sa demande écrite de remise du 27 juin 2003 que l'appel d'Éric Duchesne comportait « une preuve longue et complexe » ? Il est intéressant de noter que, lorsque j'ai manifesté ma surprise devant le fait qu'il soit parti en vacances une semaine avant le procès sans l'avoir préparé, Me Le Bel a répondu : « je l'ai déjà fait le dossier [...], je l'ai déjà plaidé une fois » (page 47 de la transcription).
+[5] La coordonnatrice des audiences avait d'ailleurs fait cette suggestion à Me Le Bel.
+[6] Dans cet arrêt, la Cour d'appel fédérale a jugé que le juge de cette Cour n'avait pas agi de façon déraisonnable en refusant au contribuable un ajournement pour lui permettre de consulter un avocat.
+[7] Lors de l'audience, j'ai dit à Me Le Bel :
+Monsieur le juge : Mais il [Éric Duchesne] savait qu'il était convoqué ici ce matin.
+Me Éric Le Bel : Oui! oui, oui, tout à fait.
+(Page 40 de la transcription)
+[8] De façon évidente, la procureure de l'intimée avait été informée à l'avance par Me Le Bel qu'il n'allait pas procéder à l'audition de son appel le 2 juillet 2003.

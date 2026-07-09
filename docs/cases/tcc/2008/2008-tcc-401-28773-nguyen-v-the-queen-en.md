@@ -1,0 +1,327 @@
+---
+title: "Nguyen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28773/index.do"
+last_modified: "2008-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 401"
+citation2: ""
+neutral_citation: "2008 TCC 401"
+decision_date: "2008-07-14"
+language: "en"
+item_id: "28773"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1560
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:00:28.241000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8788cda27f896012772f07a82ce214cf35874d75c794e60123b44dc5efe342c2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nguyen v. The Queen
+
+- Citation: 2008 TCC 401
+- Decision date: 2008-07-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1560, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-14
+Neutral citation
+2008 TCC 401
+File numbers
+2007-11(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-11(IT)I
+BETWEEN:
+QUY NGUYEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Betty Leung (2007-15(IT)I) on November 29 and 30, 2007 and
+March 12 and 13, 2008 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Perry Derksen and
+Martin Beaudry
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+This Judgment is issued in substitution for the Judgment dated July 14, 2008.
+Signed at Charlottetown, Prince Edward Island, this 12th day of September 2008.
+"Diane Campbell"
+Campbell J.
+Docket: 2007-15(IT)I
+BETWEEN:
+BETTY LEUNG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Quy Nguyen (2007-11(IT)I) on November 29 and 30, 2007 and
+March 12 and 13, 2008 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Quy Nguyen
+Counsel for the Respondent:
+Perry Derksen and
+Martin Beaudry
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+This Judgment is issued in substitution for the Judgment dated July 14, 2008.
+Signed at Charlottetown, Prince Edward Island, this 12th day of September 2008.
+"Diane Campbell"
+Campbell J.
+Citation: 2008 TCC 401
+Date: 20080912
+Dockets: 2007-11(IT)I
+2007-15(IT)I
+BETWEEN:
+QUY NGUYEN,
+BETTY LEUNG.
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Campbell J.
+[1] These are appeals from assessments under the Income Tax Act (the “Act”) in respect to Betty Leung’s 1999, 2000 and 2001 taxation years and Quy Nguyen’s 2000 and 2001 taxation years. The Appellants filed the appropriate elections to have their appeals heard under the Informal Procedure.
+[2] Mr. Nguyen is a financial planner who operated a financial planning business during the years under appeal. The Appellants are husband and wife who together purchased original works of art from Canadian Art Advisory Services Inc. (“CAAS”) and shortly thereafter donated them to charities identified by CAAS. CAAS purchased the artwork directly from the artists and also arranged for and provided appraisals of the artwork.
+[3] In filing their returns of income and claiming donation tax credits, the Appellants included the following amounts, under “total gifts”, with respect to their donation of the artwork:
+1999
+2000
+2001
+Betty Leung
+$17,000
+$35,300
+$28,000
+Quy Nguyen
+$64,700
+$32,600
+Total
+$17,000
+$100,000
+$60,600
+The Appellants submit that these amounts represent the fair market value (“FMV”) of the donated artwork in each of the taxation years.
+[4] The Minister of National Revenue (the “Minister”) reassessed the Appellants on the basis that the FMV of the artwork was $5,000 for the 1999 taxation year and, due to insufficient evidence in respect to price paid, nil for the 2000 and 2001 taxation years.
+[5] On December 10, 1999, the Appellants purchased 17 paintings from CAAS for $5,000. The average cost per painting was $294. This price included two independent appraisals which were arranged for by CAAS. The paintings were appraised at $17,000 or 3.4 times the purchase price. They were gifted in their entirety between December 16 and December 20, 1999 to the Serpent River First Nation, which issued a charitable receipt for the full amount of $17,000. Ms. Leung claimed the entire donation tax credit in the 1999 taxation year. No taxable net gain arose because the appraised values, and therefore the proceeds of disposition, were all equal to exactly $1,000 per piece and the Act at that time deemed the adjusted cost base of personal use property to be the greater of $1,000 and the amount otherwise determined.
+[6] On December 12, 2000, the Appellants purchased 69 paintings from CAAS for $22,913. The average cost per painting was $332. This price again included two independent appraisals and a 15% retainer fee paid to CAAS for acting on the Appellants behalf in arranging the donation of the artwork. The paintings were appraised at $100,000 or 4.36 times the purchase price. On December 22, 2000, they were donated in their entirety to the Serpent River First Nation, which again issued a charitable receipt for the full amount of $100,000. Due to amendments in the Act, however, the Appellants had to report taxable net gains on the transaction.
+[7] On December 19, 2001, the Appellants purchased 40 paintings from CAAS for $9,000. The average cost per painting was $225. This price, as in the prior purchase, included two independent appraisals and the 15% retainer fee. The paintings were appraised at $60,600 or 6.73 times the purchase price. On December 19, 2001, they were donated in their entirety to the Pride of Israel Synagogue, which issued a charitable receipt for $60,600. Both Appellants reported taxable net gains on the transaction.
+[8] The Appellants’ position is that CAAS acted as a wholesaler that used volume buying to acquire original artwork directly from artists at low or reduced prices, enabling CAAS to pass along the savings to its clients. The Appellants claim that the paintings ought to be valued according to the sale price of comparable works that were located in retail galleries at the time. The Minister’s position is that the art is worth at most the price the Appellants paid for it.
+[9] The issue which I have to determine is what the FMV of this artwork was on the dates of donation in each of the taxation years.
+[10] Neither party called expert witnesses. The Appellants relied on the evidence of Mr. Nguyen and William Russell. The Respondent called two witnesses, Barnet Goldberg, the promoter, and Anton Plas, the auditor.
+[11] Mr. Russell operates Russell Tax Services, which is involved in the preparation of personal tax returns. He advised a number of his clients to enter this art donation program and he or his family personally participated in the program. Mr. Russell earned commission fees from CAAS for referring clients. Before getting involved in the program, Mr. Russell checked the Income Tax Rules and the general advisory issued by Canada Revenue Agency (“CRA”), interviewed one of the appraisers used by CAAS and visited the Serpent River First Nation, where he videotaped artwork and its pricing.
+[12] Mr. Nguyen was first introduced to the CAAS donation program by letter dated November 24, 1999 (Exhibit A-3). He understood that he could obtain a return on investment of 39% from the program and that the artwork would be offered at 35% of the appraised value. However, he testified that his motivation in getting involved in the program was for the purpose of donating the artwork. Prior to getting involved in the program he spoke to six appraisers, four artists and two lawyers. In 2000 and 2001, Mr. Nguyen brought approximately 25 individuals to the CAAS donation program, for which he received commissions. On cross‑examination, Mr. Nguyen agreed that he purchased a bundle or group of 17 pieces of artwork in 1999 for $5,000 and that they were not 17 separate pieces. In 2000 and 2001, he personally picked the artwork himself, concentrating on the work of three specific artists, whom he had met. He liked their work and had verified the value of some of their artwork in galleries. He stated that the portfolio of artwork had serial numbers attached to the work and that he simply picked a block of work by an artist he liked. However, he did not hand select each individual piece and instead chose a sequence by an artist with attached ID numbers.
+[13] The only restriction on his participation in the program was in respect to a minimum purchase requirement where he could not purchase just one painting. He also understood that artists were being asked to produce art for this program. Mr. Nguyen testified that he understood that in 2000 there were proposed amendments to the Act and that, as a result, the artwork was being offered at 20% of its appraised value instead of 35%, because there would be a taxable net gain on the disposition. To deal with this gain, he agreed, on cross-examination, that he acquired the artwork for a lesser price in 2000 and 2001. Mr. Nguyen testified that he did not know if the jump in appraisal values per piece from $1,000 to $1,400 between 1999 and 2001 was related to the amendment which meant this type of transaction now attracted taxable net gains. In respect to the independent appraisals of the artwork, Mr. Nguyen testified that the appraisers were valuing the artwork on an individual basis and not as a group. He also agreed that the appraisal reports would be signed on the same date and would generally be in agreement on the valuations.
+[14] Barnet Goldberg, the President and sole shareholder of CAAS, was called by the Respondent to authenticate the documentation and confirm the sales. Mr. Goldberg was a practising lawyer until he incorporated CAAS in 1998 to sell art. According to the evidence, he had no involvement in the art business prior to 1998. He agreed with Respondent counsel’s suggestion that CAAS was a vehicle through which the art donation program could be offered.
+[15] Mr. Goldberg went through the various transaction documents, which were similar for each of the relevant years. He explained that CAAS facilitated the transaction on behalf of the clients and pre-arranged for a number of charities to accept the artwork. He confirmed that a vast majority of the sales occurred in the fall of each year. At times CAAS paid as little as $20 to $30 per piece for the artwork but, in the early years, it paid as much as $100 to $150 per piece. He testified that, although his background is in business and law, he had seen many thousands of pieces of artwork and dealt with top appraisers. He explained that CAAS had strong purchasing power, buying a lot of art for as little as possible or at a fraction of its value. Mr. Goldberg also provided some evidence of gallery transactions of individual pieces.
+[16] Anton Plas reviewed a large volume of documentation and, based on what was made available to him, he essentially summarized seven volumes of material to show the amount of artwork involved in the program. This was entered as the Microsoft Excel data (Exhibit R-7) with the summary (Exhibit R-6). He obtained the documentation pursuant to the issuance to Mr. Goldberg of a Requirement in accordance with the Act. He reviewed purchase agreements, retainer agreements, deeds of gift, portfolio lists and appraisal documents, although the documentation was not complete for all of the transactions in each of the years. He identified about 13,000 paintings and 26,000 appraisals. He tried to complete the picture in respect to the missing documents by contacting other individuals that had been involved in the program. He attempted to add the amounts listed in the purchase agreements and compare those amounts to the total sales in each year. His analysis of 1999 was only an approximate one as just 2.7% of the records were available. However, in 2000 and 2001, where he was able to review much more documentation, he concluded that artists, including those whose work the Appellants purchased, had hundred of pieces of their work going through this program.
+Analysis
+[17] The generally accepted definition of FMV is found in Henderson Estate and Bank of New York v. M.N.R., 73 DTC 5471. At page 5476, Cattanach, J. stated the following:
+The statute does not define the expression 'fair market value', but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in, the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+[18] This definition was quoted with approval by Rothstein, J.A. (as he was then) in Nash v. Canada, [2005] F.C.J. No. 1921 (F.C.A.). At paragraph 9 he stated:
+…Fair market value has often been referred to as a question of fact. However, it is probably more accurate to say that fair market value is a determination of mixed fact and law. A determination of mixed fact and law involves applying a legal standard to a set of facts (see Housen at paragraph 26). In fair market value cases, the judge must apply the legally accepted definition of fair market value to the facts found from the evidence adduced before him.
+[19] In Klotz v. Canada, [2004] T.C.J. No. 52 (T.C.C.) aff’d. (2005) F.C.J. No. 754 (F.C.A.), Bowman, A.C.J. (as he then was) dealt with an art donation program that was similar in many ways to the present appeals except that it dealt with limited edition prints instead of original works of art. The Court in Klotz rejected the evidence of the taxpayer’s expert witness for several reasons but primarily because the wrong market was chosen. It concluded that the best evidence of FMV was the actual price paid. The U.S. authorities, some of which the decisions in both Nash and Klotz reference, make the same conclusion with respect to FMV.
+[20] These appeals are very similar to the Nash and Klotz cases. I am required to determine the FMV of a group of prints in each taxation year. The appraisals which formed part of the transaction documents are of little or no assistance as they were completed on an individual as opposed to a group basis and were arranged for by CAAS. Mr. Plas tried to gauge the number of paintings that went through the CAAS program during the years in question. For the following artists, he compiled the following sales information, which shows the purchases made in each year by the Appellants:
+1999
+2000
+2001
+Appellants
+Total
+Appellants
+Total
+Appellants
+Total
+Simon Andrew
+-
+9
+31
+278
+6
+347
+Peter Banks
+3
+26
+-
+421
+6
+291
+Serge Deherian
+-
+34
+-
+529
+8
+367
+Juan Gallegos
+-
+--
+-
+24
+5
+455
+Vlad Grospic
+3
+52
+-
+237
+-
+213
+Gyula Kalko
+-
+--
+3
+7
+-
+81
+Jerzy Kolacz
+-
+--
+-
+--
+4
+77
+Eva Kolacz
+-
+17
+26
+283
+5
+413
+Blair Paul
+6
+26
+1
+63
+-
+--
+Jay Redbird
+-
+33
+6
+307
+-
+385
+Gary Silverberg
+3
+22
+-
+124
+-
+--
+Steven Snake
+2
+45
+1
+447
+6
+878
+Richard Stipl
+-
+69
+1
+245
+-
+197
+Total
+17
+333
+69
+2965
+40
+3704
+[21] I am satisfied that these estimates, based on the documentation available to Mr. Plas, represent the minimum quantities sold by CAAS for the years in question.
+[22] In this case, the Appellants, who bear the onus, have adduced very little evidence of the FMV of this artwork. They made the decision to represent themselves, elected to proceed by the informal procedure and initially chose not to engage experts. These appeals were heard in the fall of 2007 but were not completed until March 2008. When it became apparent to the Appellants that it would be crucial to their case to engage experts and submit expert reports, they made this request prior to the recommencement of the hearing in 2008. Although I might have been prepared to accommodate this request, provided I could have done so without prejudicing the Respondent, I refused to do so because the Appellants were made aware of their right to call expert witnesses prior to the commencement of the hearing of their appeals and after consideration they chose not to do so. However, unless an expert appraiser had used some acceptable methodology to value the group of artwork, I would have rejected an appraisal if it had been based on individual pieces.
+[23] One problem in these appeals is the sudden increase in value of an artist’s work from 1999 to 2000 and 2001. Respondent counsel asked that I infer that it was due to the amendments to the Act and the resulting taxable net gains which arose. While I have no evidence that this was in fact the case, it is particularly troublesome that an artist’s work was increasing substantially while the market was being flooded with such artwork. To use Bowman, J.’s phrase from Klotz, this is:
+… devoid of common sense and out of touch with ordinary commercial reality.
+In addition, there was some evidence to suggest that the appraisers, who were paid in the range of $2 to $5 per piece according to Goldberg, may have on occasion signed the appraisals subsequent to the transaction dates.
+[24] According to Mr. Nguyen’s evidence, he was aware he was purchasing in volume. He also assumed that Mr. Goldberg was having artists’ produce work for the program. For example, Stephen Snake produced over 800 pieces in 2001 according to the documentation before me and the question that arises but remains unanswered is: was the artwork produced for the program of a different quality than the artwork which the artist would hope to have presented in an art gallery?
+[25] Mr. Goldberg testified that 99% of CAAS’ sales were in the art donation program; however, when I compare the sales summary (Exhibit R-11) for the year ending September 30, 2001, the one year that is available, to the amounts in the financial statements, one could just as easily conclude that the transactions in the sales summary do not include any individual sales and that therefore all of the sales in CAAS may well have been in the program.
+[26] All three witnesses, Mr. Nguyen, Mr. Russell and Mr. Goldberg referred to what they observed as the list prices of a few individual pieces of art at isolated galleries as being a good indicator of FMV of the artwork in these appeals. There are a number of problems which prevent using these gallery listings as comparable sales. First, they are for individual pieces listed for sale while I am dealing here with the contemporaneous purchase and donation of a group or block of artwork. I must place a FMV on the group of artwork if they were placed on the open market. Mr. Nguyen testified that the single restriction on involvement in this program was that he could not purchase one individual piece. I think there is abundant oral plus documentary evidence, apart from the Appellants’ admission, that supports a finding of fact that the purchases were block or en masse purchases of artwork. I have no evidence of individual artwork being acquired or donated. It is apparent that CAAS did not deal in individual pieces and that the program centered around volume purchases. The second problem with the reference to gallery sales, for which I have no evidence, is whether the artwork, even if by the same artist, is comparable. By this I mean: is the art of the same quality and therefore comparable if the artist is producing one or two pieces for a gallery but hundreds of pieces in one year for this program. This was the case, for example, in respect to Stephen Snake who produced over 800 pieces in 2001. I have no evidence that would suggest that the quality and complexity of these 800 pieces would be the same or similar to those one or two pieces that he might produce to hang in a gallery. Third, the definition of FMV speaks of informed buyers and sellers whom, I must assume, would take into consideration a large supply overhang when hammering out a fair and reasonable price. I believe this would be so even with a ten year hold period by the charities that existed in 2000 and 2001 in these appeals. Therefore, isolated gallery sales would not necessarily provide good indicators of FMV unless the galleries had knowledge of the supply overhang and had passed this information on to the prospective buyers. Fourth, I have no evidence respecting gallery sales apart from the evidence of these three witnesses, none of whom I consider to be disinterested parties. Mr. Russell’s evidence must be considered in light of a certain bias because he is personally involved in this program. Quite apart from his objectivity and independence being coloured by such bias, he is not qualified to give expert evidence respecting the comparability of the artwork he saw at galleries and the artwork he saw going through this program. Mr. Goldberg of course is the creator and promoter of this program. He was a difficult witness. He took every opportunity to discuss the quality of the artwork. However, Mr. Goldberg is not an expert and was not offered as such. I am simply rejecting his non-expert opinions and I am limiting his evidence to the purpose for which he was called and that was to authenticate the transaction documents. Fifth, I have no evidence of gallery sales. For these reasons I do not accept, nor do I believe, that retail art galleries are the appropriate market for the determination of FMV. The Appellant gave evidence of what he saw in respect to gallery price lists and Mr. Russell used a video camera to record a price list posted on the window of a gallery. This is not evidence that can in any sense be used to establish FMV. So, if this is not the best evidence available to determine the FMV of the donated artwork, what is? As Bowman, J. stated at paragraph 44 of the Klotz case:
+…The most contemporaneous and most comparable figure is what Mr. Klotz paid Curated for them.
+And at paragraph 46 he went on to state:
+… but in the final analysis it does not really matter what one calls it. It is what it is. It was a sale of 250 prints for $75,000 between two arm's length parties. The gift was a virtually contemporaneous disposition of the same 250 prints. What better evidence is there of what the 250 prints were worth at that time? Why chase the will o' the wisp of an elusive and largely hypothetical fmv through the trendy up scale art galleries of New York and ignore the best evidence that is right there before your very nose? The problem with the claim here, whereby property is acquired for $5 to $50, sold to the appellant for $300 and claimed to have a fmv two days later of $1,000, is that it is devoid of common sense and out of touch with ordinary commercial reality.
+At paragraph 29 of Nash, Rothstein, J.A. stated that:
+…where the dates of acquisition and disposition are very close in time, … the cost of acquiring the asset will likely be a good indicator of its fair market value.
+In these appeals, the acquisitions and dispositions occurred almost simultaneously.
+[27] The Appellant has failed to adduce evidence to overcome the Minister’s assumption that the FMV was, at most, the price paid by the Appellants. I have no evidence of comparable sales and, without the appropriate expert evidence, I have no way to determine comparability even if it could be established that retail art galleries were an appropriate market to determine the FMV of these groups of paintings. Even if some evidence had been adduced respecting comparable gallery sales, I would still need to be persuaded that art galleries represented the dominant sales channel for the works in question. This would have been difficult, if not impossible, considering the amount of art that was finding its way through this program. The same analysis as applied in the cases of Nash and Klotz is the correct yardstick to be used in these appeals. I do not believe that it makes any difference whether the assets being donated are original works or limited edition prints. Without evidence to the contrary, the best evidence of FMV will be the purchase price of the group of assets.
+[28] The Respondent’s position is that the FMV should be the purchase price that the Appellants paid in each year less a 15% retainer fee, which was paid by the Appellants pursuant to a Retainer Agreement. I agree with Respondent counsel that this 15% of the purchase price is part of the cost of acquiring the artwork and cannot form part of the FMV of the donated artwork. Counsel referred me to several cases to support his conclusion (Conn v. M.N.R., 1986 CarswellNat 459 (T.C.C.); Paradis v. R., 1996 CarswellNat 2261 (T.C.C.); Aikman v. R., (2000) CarswellNat 219 (T.C.C.) aff’d. 2002 CarswellNat 628 (F.C.A.)). The December 19, 2001 Purchase Agreement stated:
+1.02 … In the event that the Purchaser elects to retain the services of CAAS to donate all or part of the Art being purchased herein, it is understood and agreed that a fee in the amount of 15% of the purchase price payable herein shall be allocated and payable in respect of CAAS’ retainer fee for aiding the Purchaser in respect of the donation of the Art.
+This implies that if the Appellants had decided to retain the art and not donate it, they would not have incurred this 15% retainer fee.
+[29] I have not been persuaded that the analysis used in Nash and Klotz should not prevail here. Without evidence of comparable sales or a market that permits a direct comparison, the only value that I can reasonably attribute to the donated artwork is the amount that someone was actually willing to pay for it around the time it was donated. That someone could have been either CAAS or the Appellants. However, since the Respondent has asked that the FMV be the amount the Appellants paid less the applicable 15% retainer fee, I am not inclined to consider any other amount. In deciding these appeals, I come back to the same question which Rothstein, J.A. (as he then was) asked in Nash at paragraph 26 and that is, as it applies to these facts, if the Appellants, instead of donating the group of artwork, had tried to sell the group within the same timeframe, what could they have sold the group for? The inevitable answer is that the Appellants could not have fetched more for the group than what they paid, since a potential informed purchaser would simply have purchased the group from CAAS instead of the Appellants.
+[30] At the commencement of the hearing, the Respondent conceded the issue of gross negligence penalties which had been applied pursuant to subsection 163(2) of the Act. Therefore the appeals are allowed and referred back to the Minister for reconsideration and reassessment on the following basis:
+(a) the penalties are to be deleted in 1999, 2000 and 2001 in respect to both Appellants of Ms. Leung and in 2000 and 2001 in respect of Mr. Nguyen;
+(b) the FMV of the artwork in each year 2000 and 2001 will be equal to the Appellants’ cost less the applicable retainer fee of 15% but the FMV of the artwork in the 1999 taxation year will remain at $5,000, as assessed by the Minister;
+(c) there will be a recalculation of the taxable net gains in accordance with my findings; and
+(d) there will be no order as to costs.
+Signed at Charlottetown, Prince Edward Island, this 12th day of September 2008.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2008 TCC 401
+COURT FILES NO.:
+2007-11(IT)I
+2007-15(IT)I
+STYLE OF CAUSE:
+Quy Nguyen and Betty Leung and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATES OF HEARING
+November 29 and 30, 2007 and
+March 12 and 13, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF AMENDED JUDGMENT:
+September 12, 2008
+APPEARANCES:
+Agent for the Appellants:
+Quy Nguyen
+Counsel for the Respondent:
+Perry Derksen and
+Martin Beaudry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

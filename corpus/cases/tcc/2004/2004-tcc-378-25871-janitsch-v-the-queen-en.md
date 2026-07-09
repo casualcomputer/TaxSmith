@@ -1,0 +1,213 @@
+---
+title: "Janitsch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25871/index.do"
+last_modified: "2004-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 378"
+citation2: ""
+neutral_citation: "2004 TCC 378"
+decision_date: "2004-05-26"
+language: "en"
+item_id: "25871"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3865
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:24:59.817000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7bb1f2cee52faafa97aa845b2c06b46523bb4667e04716dffa94346f04702253"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Janitsch v. The Queen
+
+- Citation: 2004 TCC 378
+- Decision date: 2004-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Janitsch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-26
+Neutral citation
+2004 TCC 378
+File numbers
+2002-3892(GST)I
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-3892(GST)I
+BETWEEN:
+MARY ANN JANITSCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 11, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gordon Teskey
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jason J. Wakely
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax made pursuant to the Excise Tax Act, Notice of which is dated June 8, 2001, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of May, 2004.
+"Gordon Teskey"
+Teskey J.
+Citation: 2004TCC378
+Date: 20040526
+Docket: 2002-3892(GST)I
+BETWEEN:
+MARY ANN JANITSCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant appeals her reassessment for the period from January 1, 2000 to December 31, 2000 (the "period") made pursuant to the Excise Tax Act (the "Act"), and in particular, provisions thereafter referred to as the Goods and Services Tax Provisions ("GST").
+[2] The Respondent admits that the Appellant is a visual fine arts artist. She has supplied enough financial information to the Respondent and they are satisfied that her figures are correct.
+[3] Thus, the only issue before the Court is whether the Appellant is carrying on her artistic profession in such a manner to qualify as a commercial activity, for the purposes of claiming an input tax credit under the GST provisions of the Act.
+[4] Section 169(1), under the general heading "Subdivision b - Input Tax Credit", starts with the words "General rule for [input tax] credits". The only portion that is pertinent are the last two lines of this provision, which read: "... for consumption, use of supply in the course of commercial activities of the person."
+[5] The Act defines "commercial activity", in subsection 123(1), as follows:
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit) by an individual, ...
+[6] Thus, the Act makes the common law test of reasonable expectation of profit ("REOP"); the test to be used to determine if the taxpayer is carrying on a commercial activity.
+[7] The Supreme Court of Canada, in Stewart v. Canada, [2002] 2 S.C.R. 645, did away with the REOP test in income tax cases where there was no personal element, however, because of the statutory definition, the Stewart decision does not affect GST appeals.
+[8] Justices Iacobucci and Bastarache, in writing for the Court in the Stewart decision, referred to the following paragraph of Dickson J's decision in Moldowan v. Canada, [1978] 1 S.C.R. 480:
+There is a vast case literature on what reasonable expectation of profit means and it is by no means entirely consistent. In my view, whether a taxpayer has a reasonable expectation of profit is an objective determination to be made from all of the facts. The following criteria should be considered: the profit and loss experience in past years, the taxpayer's training, the taxpayer's intended course of action, the capability of the venture as capitalized to show a profit after charging capital cost allowance. The list is not intended to be exhaustive. The factors will differ with the nature and extent of the undertaking: The Queen v. Matthews [(1974], 74 DTC 6193]. One would not expect a farmer who purchased a productive going operation to suffer the same start-up losses as the man who begins a tree farm on raw land.
+[9] It is, of course, trite law that the Appellant carries the burden of proving that she was engaged in an activity with REOP.
+[10] The parties entered as Exhibit A-1, a Partial Agreed Statement of Facts, which reads as follow:
+YEAR
+GROSS BUSINESS
+INCOME
+NET BUSINESS
+INCOME
+1990
+0
+- 23,104
+1991
+0
+- 13,072
+1992
+0
+0
+1993
+6,000
+- 4,583
+1994
+0
+- 13,338
+1995
+817
+- 11,730
+1996
+130
+- 14,631
+1997
+0
+- 15,878
+1998
+0
+- 33,127
+1999
+5
+- 21,788
+2000
+8
+- 25,784
+2001
+43
+- 21,867
+2002
+0
+- 22,476
+[11] The Appellant identified the gross business income of $6,000 for the 1993 year as one sale of artwork to the National Gallery. She was unable to identify the makeup of $817 in 1995, but said it was probably royalties from the National Gallery as were and all other incomes.
+[12] The Appellant brought to the Court a large volume of her art. Since the Respondent accepted that the Appellant was an artist, there was no need to make this large volume as exhibits.
+[13] The Appellant had her work shown in a gallery in Ottawa until 1990 or 1991, when the proprietor thereof died. Since that time, she has not had a gallery representing her nor an agent.
+[14] In the later 1980s, the Appellant did receive grants from the Canadian Council Funding For Artists. She applied for funding in 1990 and 1991 and was turned down both times and has not applied since.
+[15] The Appellant's art production is the centre of her work activities. She is not employed in any capacity by anyone.
+[16] The Appellant, for approximately ten years, lived and produced her work above a Canadian Imperial Bank of Commerce ("CIBC") in Tweed, Ontario. She abandoned this apartment in 1995. Since that time, she has paid no rent to the CIBC. She claims that, in a locked room, there is a one million dollars worth of her art. Since this is 2004, I cannot accept that what is left in Tweed has any value, particularly when, from 1996 to 2002, her total sales was zero. Thus, I can only conclude that if there is artwork in Tweed, it is of no commercial value.
+[17] The Appellant claims that she now has a total inventory of art worth 7 million dollars. What an item is worth is what a willing purchaser will pay to a willing vendor for the item. At this time, there are no willing purchasers ready and willing to purchase the Appellant's artwork. I do not accept the 7 million dollars claim as to the value of the Appellant's inventory.
+[18] The Appellant has some obvious limitations as a result of an injury. A great deal of her testimony is suspicious.
+[19] Because of a head injury in 1999, she stayed in her home in Toronto and did research with pigeons. She believes that a newborn baby pigeon is born with memory and they do things for people. She believes terrorists are killing pigeons. She knows the dead pigeons are murdered and she takes them to mass. When asked in cross-examination whether pigeons are a large part of her work, she answered in the negative and said that they assist her but are not part of her work.
+[20] She says that the Toronto art community has shut her out and that most of the art curators who knew her have all died. She considers herself as an old artist.
+[21] When asked how she expects to market her work in the future, there did not appear to be a sound basis to market her work successfully. She has failed to convince me that she will have any different sales results than she has experienced in the last several years.
+[22] The IT Bulletin - 504R2, which of course is not law, paragraphs 5, 6 and 7 thereof, read as follows:
+5. Factors which will be considered by the Department in determining whether or not an artist or writer has a reasonable expectation of profit include:
+(a) the amount of time devoted to artistic or literary endeavours,
+(b) the extent to which an artist or writer has presented his or her own works in public and private settings including, but not limited to, exhibiting, publishing and reading as is appropriate to the nature of the work,
+(c) the extent to which an artist is represented by an art dealer or agent and the extent to which a writer is represented by a publisher or agent,
+(d) the amount of time devoted to, and type of activity normally pursued in, promoting and marketing the artist's or writer's own works,
+(e) the amount of revenue received that is relevant to the artist's or writer's own works including, but not limited to, revenue from sales, commissions, royalties, fees, grants and awards which may reasonably be included in business income,
+(f) the historical record, spanning a significant number of years, of annual profits or losses relevant to the artist's or writer's exploitation of his or her own works,
+(g) a variation, over a period of time, in the value or popularity of the individual's artistic or literary works,
+(h) the type of expenditures claimed and their relevance to the endeavours (e.g., in the case of a writer there would be a positive indication of business activity if a substantial portion of the expenditures were incurred for research),
+(I) the artist's or writer's qualifications as an artist or writer, respectively, as evidenced by education and also by public and peer recognition received in the form of honours, awards, prizes and/or critical appraisal,
+(j) membership in any professional association of artists or writers whose membership or categories of membership are limited under standards established by that association,
+(k) the significance of the amount of gross revenue derived by an artist or writer from the exploitation of that individual's own works and the growth of such gross revenue over time. In applying this factor, external influences such as economic conditions, changes in the public mood, etc., which may affect the sale of artistic or literary works will be taken into consideration, and
+(l) the nature of the literary works undertaken by a writer. It is considered that a literary work such as a novel, poem, short story or any non-fictional prose composition that is written for general sale or syndicated distribution would normally have a greater profit potential than a work undertaken for restricted distribution.
+6. No particular factor described in par. 5 above is more important than another and no one factor determines whether or not an activity is a business carried on for profit or with a reasonable expectation of profit. All relevant criteria are considered together in making a determination and the taxpayer's failure to meet any one particular factor will not in itself preclude the taxpayer's artistic or literary activities from qualifying as a business.
+7. In the case of an artist or writer, it is possible that a taxpayer may not realize a profit during his or her lifetime but still have a reasonable expectation of profit. However, in order to have this reasonable expectation of profit the artistic or literary endeavours, as the case may be, of the artist or writer must be carried on in a manner such that, based on the criteria in par. 5 above, they may be considered for income tax purposes to be the carrying on of a business rather than, for example, a hobby.
+[23] Without going into details, I have to conclude that the Appellant herein fails in all of the above enumerated factors.
+[24] Exhibit A-1 speaks volumes. Over the 13-year period, the Appellant has sustained net business losses of approximately $221,300 with a total gross income over the same period of $7,003.00, of which $6,000 represents one sale in 1993 to the Canadian National Gallery.
+[25] I am satisfied that the centre of the Appellant's work routine is that of an artist. However, this fact does not make her artistic work a commercial activity once the REOP test is applied to all the facts herein.
+[26] The Federal Court of Appeal, in Partridge v. The Queen, 2003 FCA 91, is the authority for this proposition.
+[27] Whether all, some or none of the Appellant's artwork will ever be properly marketed, and whether it has any value is purely speculative, perhaps some day and maybe even after her demise.
+[28] On all the evidence adduced by the Appellant, she has failed to convince me that she was engaged in a commercial activity within the meaning subscribed to the term under the Act.
+[29] For all the foregoing reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of May, 2004.
+"Gordon Teskey"
+Teskey, J.
+CITATION:
+2004TCC378
+COURT FILE NO.:
+2002-3892(GST)I
+STYLE OF CAUSE:
+Mary Ann Janitsch and The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 11, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gordon Teskey
+DATE OF JUDGMENT:
+May 26, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Jason J. Wakely
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

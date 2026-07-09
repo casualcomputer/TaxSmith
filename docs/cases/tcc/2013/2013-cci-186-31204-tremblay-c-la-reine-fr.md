@@ -1,0 +1,149 @@
+---
+title: "Tremblay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31204/index.do"
+last_modified: "2013-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 186"
+citation2: ""
+neutral_citation: "2013 CCI 186"
+decision_date: "2013-06-14"
+language: "fr"
+item_id: "31204"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5044
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:15:40.511000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff1c05c34b97c56ef439aa853819eda7d875154d3520ac19a9c6221c97abe592"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay c. La Reine
+
+- Citation: 2013 CCI 186
+- Decision date: 2013-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5044, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-06-14
+Référence neutre
+2013 CCI 186
+Numéro de dossier
+2012-3138(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3138(IT)I
+ENTRE :
+PAUL TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 avril 2013, à Toronto (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Aaron Tallon
+Me Thang Trieu
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2009 et 2010 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 10e jour de juillet 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 186
+Date : 20130614
+Dossier : 2012-3138(IT)I
+ENTRE :
+PAUL TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelant interjette appel des nouvelles cotisations établies à son égard pour les années d’imposition 2009 et 2010. Une objection préliminaire de l’intimée relative à l’année d’imposition 2009 a été retirée au début de l’audience, et la Cour est donc à juste titre saisie de l’appel interjeté par l’appelant à l’égard de l’année d’imposition 2009.
+[2] Quand il a produit ses déclarations de revenus pour les années d’imposition 2009 et 2010, l’appelant et son épouse ont fait un choix conjoint sur le formulaire prescrit, comme le prévoit l’article 60.03 de la Loi de l’impôt sur le revenu (la « Loi »). Il s’agissait d’un choix consistant pour l’appelant à transférer à son épouse une somme de 4 523,40 $ afférente à un prétendu revenu de pension, soit la moitié de la somme qu’il a retirée de son régime enregistré d’épargne‑retraite (« REER ») pendant l’année d’imposition 2009, et une somme de 7 219,81 $, aussi afférente à un prétendu revenu de pension, soit la moitié d’une somme qu’il a subséquemment retirée de son REER, pendant l’année d’imposition 2010.
+[3] Dans les nouvelles cotisations qu’il a par la suite établies à l’égard de l’appelant, le ministre du Revenu national (le « ministre ») a refusé à l’appelant la déduction des transferts faits à son épouse pour les deux années d’imposition en cause.
+[4] L’appelant reconnaît qu’il avait atteint l’âge de 65 ans avant le 31 décembre de chacune des années d’imposition en cause. Il reconnaît également qu’il a retiré des sommes forfaitaires de 9 046,81 $ en 2009 et de 14 439,62 $ en 2010 de son REER auprès de la Banque canadienne impériale de commerce (la « CIBC »).
+[5] Pour les deux années d’imposition en cause, la CIBC a délivré un feuillet T4RSP sur lequel il était indiqué, dans la case appropriée, que l’appelant avait retiré les sommes susmentionnées de son REER. Malgré cela, l’appelant a essayé d’obtenir de la CIBC qu’elle modifie ces feuillets T4RSP de telle sorte qu’il y soit précisé que les sommes en cause étaient une rente et qu’elles auraient dû être inscrites en tant que telles dans une case différente sur les feuillets T4RSP. La CIBC s’y est refusée.
+[6] La preuve montre clairement que l’appelant n’a jamais eu l’intention d’établir un fonds enregistré de revenu de retraite (« FERR ») ou un fonds de revenu viager (« FRV ») au moyen des retraits en cause. Au contraire, il avait l’intention d’utiliser les fonds en cause pour autre chose, comme des voyages par exemple.
+[7] En 1994, l’appelant avait demandé à ouvrir un REER autogéré auprès de la CIBC. Les contributions qu’il a versées dans son REER ont été investies dans des certificats de placement garanti (« CPG ») ayant diverses échéances et divers taux d’intérêt annuels calculés sur le capital. L’appelant soutient que ces CPG sont en fait des rentes qu’il a achetées par le truchement de son REER autogéré et qu’il a le droit de répartir les sommes retirées de son REER entre lui et sa femme, à titre de « revenu de pension ». Il qualifie en fait ses CPG de [traduction] « certificats de rente » au motif que l’intérêt était versé périodiquement, annuellement en l’occurrence. Il fait valoir que les sommes qu’il a retirées de son REER constituent des rentes tirées d’un REER et sont visées par la définition de « revenu de pension » qui se trouve au paragraphe 118(7) de la Loi, et, par conséquent, qu’elles sont des rentes au sens de la Loi.
+[8] La Cour est saisie de la question de savoir si l’appelant a le droit de transférer à son épouse la moitié des retraits qu’il a effectués dans son REER pour chacune des années d’imposition en cause.
+[9] Pour que l’appelant attribue une partie des sommes retirées de son REER à son épouse, ces sommes doivent être visées par la définition de « revenu de pension déterminé » qui se trouve au paragraphe 118(7) de la Loi.
+[10] Le « revenu de pension déterminé », tel qu’il est défini au paragraphe 118(7) de la Loi, renvoie, si le particulier a atteint 65 ans, comme c’est le cas en l’espèce, au revenu de pension reçu par le particulier au cours de l’année d’imposition.
+[11] Le « revenu de pension » est ainsi défini :
+« revenu de pension » S’agissant du revenu de pension qu’un particulier a reçu au cours d’une année d’imposition, le total des montants suivants :
+a) les montants que le particulier inclut dans le calcul de son revenu pour l’année :
+(i) à titre de rente viagère reçue dans le cadre d’un régime de retraite ou de pension (sauf un régime de pension agréé collectif) ou d’un régime de pension déterminé,
+(ii) à titre de versement de rente dans le cadre d’un régime enregistré d’épargne-retraite, d’un régime modifié visé au paragraphe 146(12) ou d’une rente au titre de laquelle une somme est incluse dans le calcul du revenu du particulier par application de l’alinéa 56(1)d.2),
+(iii) à titre de paiement prévu par un fonds enregistré de revenu de retraite, ou en provenant, ou prévu par un fonds modifié visé au paragraphe 146.3(11),
+(iii.2) en application de l’article 147.5,
+(iv) à titre de versement de rente d’un régime de participation différée aux bénéfices ou d’un régime dont l’enregistrement est révoqué visé au paragraphe 147(15),
+(v) à titre de versement visé au sous-alinéa 147(2)k)(v),
+(vi) à titre d’excédent d’un versement de rente inclus dans le calcul du revenu du particulier pour l’année par application de l’alinéa 56(1)d) sur la partie représentant le capital de ce versement visée à l’alinéa 60a);
+b) les montants inclus dans le calcul du revenu du particulier pour l’année par application de l’article 12.2 de la présente loi ou de l’alinéa 56(1)d.1) de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952.
+[12] Les sommes que l’appelant a retirées de son REER autogéré pour les deux années d’imposition en cause ne constituent pas un des types de paiement prévus par la définition reproduite ci‑dessus. L’appelant a reconnu qu’il n’avait pas versé ces sommes dans un FERR ou un FRV. La preuve ne montre pas que les sommes que l’appelant a retirées de son REER ont servi à l’achat d’une rente, un produit servant au versement de revenus à intervalles réguliers pour l’investisseur. Au lieu de cela, les retraits ont servi à payer des frais de voyage et des frais connexes.
+[13] Pour établir s’il y a un versement de rente dans le cadre d’un REER au sens du sous‑alinéa a)(ii) de la définition d’un revenu de pension, reproduite ci‑dessus, il faut tenir compte de la situation qui prévaut après que la somme a été retirée du REER, pas avant, et il ne convient pas non plus de prendre en considération le type de placement effectué au moyen de l’argent qui se trouve dans le REER. L’achat d’un CPG au moyen d’un retrait effectué dans un REER n’est qu’un parmi plusieurs types de placement qu’il est possible d’effectuer dans le cadre du REER. Un CPG est un placement sûr, qui garantit le montant d’origine investi et fournit un taux de rendement convenu; par conséquent, il ne constitue pas en soi une rente.
+[14] Les sommes de 9 046,81 $ et de 14 439,62 $ ont été à juste titre incluses dans le calcul du revenu de l’appelant pour les années d’imposition 2009 et 2010 respectivement, et ce dernier ne peut pas transférer la moitié de ces sommes à son épouse.
+Signé à Ottawa, Canada, ce 14e jour de juin 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 10e jour de juillet 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 186
+NO DU DOSSIER DE LA COUR : 2012-3138(IT)I
+INTITULÉ : Paul Tremblay c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 24 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 14 juin 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Aaron Tallon
+Me Thang Trieu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

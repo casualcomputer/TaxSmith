@@ -1,0 +1,120 @@
+Title: Gaudry c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27180/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-108-27180-gaudry-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-02-23
+
+# Gaudry c. La Reine
+
+- Citation: 2007 TCC 108
+- Decision date: 2007-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 983, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudry c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-02-23
+Neutral citation
+2007 TCC 108
+File numbers
+2006-1892(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1892(IT)I
+BETWEEN:
+JOHANNE GAUDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 1, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Agent for the Respondent:
+Isabelle Pipon, Student-at-law
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act and dated September 15, 2005, in respect of the 2004 taxation year, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 23rd day of February 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 25th day of September 2007
+Monica F. Chamberlain, Reviser
+Citation: 2007TCC108
+Date: 20070223
+Docket: 2006-1892(IT)I
+BETWEEN:
+JOHANNE GAUDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal, under the informal procedure, from a decision of the Minister of National Revenue ("the Minister") disallowing the amount of $14,699, claimed by the Appellant as an amount eligible for a medical expense credit, in respect of the 2004 taxation year.
+[2] The sum of $14,699 consists of the following expenses:
+(a) $746 for a spa cover
+(b) $5,419 for a spa cabinet
+(c) $1,260 for a base in which to install the cabinet;
+(d) $1,536 for an irrigation system; and
+(e) $5,736 for the landscaping of the Appellant's house lot.
+[3] The Appellant submits that the expenses set out in the preceding paragraph are necessary to improve her quality of life as a disabled person, and to avert further harm to her health.
+[4] The Appellant was a field sales representative for the Yellow Pages Group. She ceased all work four years ago and suffers from numerous health problems. She required a discectomy because of her persistent back problems, but the surgery was unsuccessful. She also received a diagnosis of [Translation] "fibromyalgia with chronic fatigue" and was declared by her physicians to be suffering from a [Translation] "permanent total disability".
+[5] The Appellant tendered a medical certificate from Dr. M'Seffar, dated June 8, 2004, which confirms that the Appellant was suffering from the following problems:
+[Translation]
+(a) after-effects of an L4-L5 laminectomy and discectomy with pain and severe restriction;
+(b) mild oligoarticular psoriatic arthritis;
+(c) severe and treatment-resistant fibromyalgia; and
+(d) carpal tunnel syndrome,
+and that, consequently, he considered the Appellant to be totally and permanently disabled.
+[6] The Appellant also produced a letter from Dr. Yvon Vaillancourt, her family doctor, dated February 22, 2006, which described the need for the expenses incurred by the Appellant and the benefits that she can derive therefrom.
+[7] However, the Appellant's testimony discloses that none of the disallowed expenses was incurred pursuant to a medical prescription, and no document to such an effect was adduced in evidence.
+[8] The evidence also discloses that the Appellant is not disabled within the ordinary meaning of the term, because she is able to walk unassisted, drive a car, live at home alone, look after her own needs and take care of a guard dog.
+[9] The Disability Tax Credit Certificate (Form T2201), filled out by Dr. Vaillancourt on April 25, 2005, makes no reference to reduced mobility, but refers to the Appellant's impaired ability to perceive, think and remember since 2002.
+[10] In view of the medical information provided, there is no doubt that the Appellant suffers from "severe and prolonged mental or physical impairment" within the meaning of subsection 118.4(1) of the Income Tax Act and that, consequently, she is eligible for the "disability tax credit" under section 118.3 of the Act and to the "medical expense credit" under section 118.2 of the Act.
+[11] Paragraph 118.2(2)(m) of the Act makes a credit available for any device or equipment for use by the individual that is prescribed, i.e. of the type contemplated in section 5700 of the Income Tax Regulations ("the Regulations"), provided it is prescribed by a medical practitioner and meets such conditions as are prescribed as to its use or the reason for its acquisition.
+[12] Section 5700 of the ITR provides, inter alia, that, for the purposes of paragraph 118.2(2)(m), a device or equipment is prescribed if it was designed to assist an individual in walking where the individual has a mobility impairment.
+[13] In light of the evidence produced at the hearing, the Court is satisfied that the disallowed expenses set out in paragraph 2 were not prescribed by a medical practitioner and could not be considered one or more devices to assist the Appellant in walking. The expenses in question undoubtedly improve the Appellant's quality of life, but they do not actually dispense treatment.
+[14] Paragraph 118.2(2)(l.2) of the Act contemplates reasonable expenses relating to renovations or alterations to a dwelling of the Appellant that can be eligible medical expenses. In order to be eligible, the expenses must have been paid in order to enable the Appellant to gain access to, or to be mobile or functional within, the dwelling, so that the Appellant can carry out the activities of daily living more autonomously.
+[15] The Court is not persuaded that the disallowed expenses, set out in paragraph 2, can be considered related to renovations or alterations to an actual dwelling for the purpose of enabling the Appellant to gain access to the dwelling or be mobile or carry out the activities of daily living therein. It does not appear possible to consider the disallowed expenses to be related to the items that are deductible under the Act or the Regulations.
+[16] The Court is satisfied that the Appellant has not discharged the onus upon her to prove that she is entitled to deduct the expenses set out in paragraph 2. Consequently, the Court confirms the Minister's assessment in this regard.
+[17] For these reasons, the appeal from the reassessment made under the Act and dated September 2005, in respect of the 2004 taxation year, is dismissed.
+Signed at Montréal, Quebec, this 23rd day of February 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 25th day of September 2007
+Monica F. Chamberlain, Reviser
+CITATION: 2007TCC108
+COURT FILE NO.: 2006-1892(IT)I
+STYLE OF CAUSE: Johanne Gaudry and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 1, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: February 23, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Agent for the Appellant:
+Isabelle Pipon, Student-at-law
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

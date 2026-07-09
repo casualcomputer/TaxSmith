@@ -1,0 +1,223 @@
+---
+title: "Homestead Hotel Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26783/index.do"
+last_modified: "2005-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 585"
+citation2: ""
+neutral_citation: "2005 TCC 585"
+decision_date: "2005-09-06"
+language: "en"
+item_id: "26783"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3463
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:22:01.437000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "084e785a9ddb5d82e25950e3ed4ea0b4476e29eea47afd8220dd00f1fc71c80e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Homestead Hotel Ltd. v. M.N.R.
+
+- Citation: 2005 TCC 585
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3463, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Homestead Hotel Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 585
+File numbers
+2004-3981(CPP)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2004-3981(CPP)
+BETWEEN:
+HOMESTEAD HOTEL LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Homestead Hotel Ltd. (2004-3982(EI)) on August 22, 2005, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Dwayne Anderson
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Sault Ste-Marie, Ontario, this 6th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2004-3982(EI)
+BETWEEN:
+HOMESTEAD HOTEL LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Homestead Hotel Ltd. (2004-3981(CPP)) on August 22, 2005,
+at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Dwayne Anderson
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Sault Ste-Marie, Ontario, this 6th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC585
+Date: 20050906
+Docket: 2004-3981(CPP)
+2004-3982(EI)
+BETWEEN:
+HOMESTEAD HOTEL LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Regina, Saskatchewan on August 23, 2005. William Ozum, a director of the Appellant at all material times, was the only witness.
+[2] Paragraphs 4 to 7 inclusive of the Reply to the Notice of Appeal in file number 2004-3981(CPP) outline the facts in dispute. They read:
+4. By letter dated June 23, 2004, the Minister advised the Appellant of the Minister's decision that the Workers were employed under a contract of service with the Appellant for the period August 30, 2002 to June 12, 2003.
+5. In so deciding as the Minister did in respect to the Workers, the Minister relied on the following assumptions of fact:
+(a) the Appellant owned and operated a hotel in Milestone, SK;
+(b) the hotel consisted of a bar, hotel rooms and a restaurant;
+(c) the hotel rooms were not rented due to fire regulations and the Appellant leased out the restaurant;
+(d) the Workers were hired to manage the bar and their duties included unloading trucks, ordering alcohol, maintaining VLT's, daily bank deposits, inventory reports, minor maintenance, cutting grass maintaining sidewalks and cleaning;
+(e) the Workers performed their duties at the Appellant's premises;
+(f) the Workers and the Appellant did not enter into a written contract;
+(g) the Workers, jointly, earned a set wage of $2,500.00 per month;
+(h) the Appellant paid the Workers semi-monthly by cheque;
+(i) the Appellant set the Workers' pay rate;
+(j) the Workers also received rent-free accommodations at the hotel;
+(k) the Workers did not invoice the Appellant;
+(l) the Workers worked set hours and days;
+(m) the Workers worked according to the bar hours;
+(n) the bar's hours of operation were as follows:
+Monday to Thursday 11:00 AM to midnight
+Friday and Saturday 11:00 Am to 3:00 AM
+Sunday and Holidays noon to 8:00 PM
+(o) the Appellant set the bar's hours or operation;
+(p) the bar's hours of operation were limited by Provincial regulations;
+(q) the Workers could not set their own hours and days of work;
+(r) the Appellant retained the right to control the Workers;
+(s) the Appellant instructed the Workers;
+(t) the Appellant inspected the Workers' work;
+(u) the Workers were not involved in operating or financial decisions;
+(v) the liquor license was in the Appellant's name;
+(w) the Appellant set the drink prices;
+(x) the Workers were required to submit weekly reports to the Appellant;
+(y) the Workers did not have the power to accept or refuse work;
+(z) the Workers did not work for others while performing services for the Appellant;
+(aa) the business bank account was in the Appellant's name;
+(bb) the Workers did not have signing authority for the business bank account;
+(cc) the Appellant provided all of the tools and equipment required including the work location;
+(dd) the Workers did not have to pay for the use of the Appellant's tools and equipment;
+(ee) the Appellant owned and paid for all inventory, stock and supplies;
+(ff) the Workers did not incur any expenses in the performance of their duties;
+(gg) the Workers were not subject to any financial risk;
+(hh) the Workers did not have a chance of profit;
+(ii) the Appellant provided liability insurance;
+(jj) the Workers did not have their own trade or business name;
+(kk) the Workers did not have a business bank account;
+(ll) the Workers did not charge the Appellant GST, and
+(mm) the Workers were not in business for themselves.
+B. ISSUE TO BE DECIDED
+6. The issue to be decided is whether the Workers were employed under a contract of service with the Appellant during the period August 30, 2002 to June 12, 2003.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+7. The Respondent relies on paragraph 6(1)(a) and subsection 2(1) of the CanadaPension Plan.
+[3] Assumptions 5 (a) to (f) inclusive, (h), (j), (k), (n), (v), (w), (x), (aa), (bb), (ee), (ii), and (jj) were agreed to be correct by the Appellant. Respecting the remaining assumptions, the Court finds:
+(g) The Workers agreed to be paid $30,000 per year, semi-monthly; to receive free accommodation at the Milestone Hotel while they operated it; and to receive a further payment of ten percent of the gross sales of the hotel bar annually in excess of $240,000.
+(i) The hours for the bar were set in accordance with Saskatchewanprovincial liquor regulations. The Workers were to keep it open for those hours. The hotel restaurant was leased to a third party. The hotel rooms were not rented out.
+(m) The Workers had employees operating the bar, including Ms. Sorenson's brother and two children. They could and did substitute others for themselves at their expense.
+(o) See (l).
+(p) Is correct.
+(q) Is wrong.; see (m).
+(r) Is wrong as set forth herein.
+(s) and (t) Are wrong as set forth herein. The Workers only reports to the Appellant were weekly reports each Monday of -
+1. The bank statement.
+2. The liquor inventory.
+(u) The Workers financial decisions included what liquor to order; what goods, such as t-shirts, they wanted to sell personally from the hotel bar; whether to hire other workers and at what pay; to some extent, whether to close the bar for certain hours; and whether to use their own vehicle to pick up liquor inventory and other sale items to sell in the hotel bar.
+(y) The Workers could, and did, hire others to substitute for them at work.
+(z) Mr. Ozum did not know whether this happened or not.
+(cc) The Workers provided their own vehicle.
+(dd) Is correct.
+(ff) The Workers incurred vehicle expenses and had to pay the Appellant for inventory shortages. They also paid for all labour that they hired.
+(gg) and (hh) In addition to the expenses described in (ff), the evidence is that the Workers were liable for shortages incurred in inventory and, if their sales did not exceed $240,000, they did not get the ten percent on additional sales. Thus they had a chance of profit and a risk of loss.
+(kk) There is no evidence that the Workers had their own business bank account.
+(ll) It is problematic whether the two Workers would ever have been liable for GST, but they did not charge it.
+(mm) The Workers were in business for themselves.
+[4] Based on the above findings, the evidence submitted, and susing the points raised by the Supreme Court of Canada in paragraphs 47 and 48 of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 S.C.C. 59, the Court finds:
+1. Control
+In essence, the Workers subcontracted the business operation of the bar. They controlled its operation for a year including its choice of inventory for day to day operation, dealing with customer relationships and the community of Milestone (since the Appellant's director only visited the bar in Milestone from Regina about once each month) and, essentially, whether it operated at a profit or a loss.
+2. Equipment
+Except for the Worker's car, the equipment was the bar itself which the Workers had to maintain, keep clean and keep operating within licence regulations.
+3. Helpers
+The Workers hired their own helpers as they chose, at the rates they chose.
+4. Degree of Risk
+The only evidence is that the Workers are liable for inventory loss which in fact occurred and has reduced the $2,500 per month, they also risked losing wages paid to employees out of their agreed contract price.
+5. Responsibility and Management
+Responsibility and management of the bar were, as described, those of the Workers.
+6. Opportunityfor Profit
+Had they managed successfully, the Workers would have made $30,000 plus ten percent of the sales over $240,000 in the year. There was an opportunity for profit.
+[5] For these reasons, the Court finds that the Workers were in business for themselves. They were not employees. The appeals are allowed.
+Signed at Sault Ste-Marie, Ontario, this 6th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC585
+COURT FILE NOS.: 2004-3981(CPP) and 2004-3982(EI)
+STYLE OF CAUSE: Freeman Walters v. M.N.R.
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: August 22, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 6, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Dwayne Anderson
+Counsel for the Respondent:
+Gerald Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Dwayne Anderson
+Firm: Anderson Law Firm
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

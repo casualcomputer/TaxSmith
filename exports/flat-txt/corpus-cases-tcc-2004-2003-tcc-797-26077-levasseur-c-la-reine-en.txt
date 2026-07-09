@@ -1,0 +1,200 @@
+Title: Levasseur c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26077/index.do
+Corpus path: corpus/cases/tcc/2004/2003-tcc-797-26077-levasseur-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-01-13
+
+# Levasseur c. La Reine
+
+- Citation: 2003 TCC 797
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4072, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Levasseur c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-13
+Neutral citation
+2003 TCC 797
+File numbers
+2002-4476(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4476(IT)I
+BETWEEN:
+GUY LEVASSEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Gaétane Moreau (2002-4477(IT)I) on October 23, 2003, at Shawinigan, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Agent for the Appellant:
+Pierrette Carrier
+Counsel for the Respondent:
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeal from assessments under the Income Tax Act for the 1991, 1992, 1993, 1994 and 1995 taxation years is allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 13th day of January 2004.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 3rd day of May 2004.
+Sharon Moren, Translator
+Citation: 2003TCC797
+Date: 20040113
+Docket: 2002-4476(IT)I
+BETWEEN:
+GUY LEVASSEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+Docket: 2002-4477(IT)I
+GAÉTANE MOREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard, J.T.C.C.
+[1] By notice of reassessment dated July 4, 1997, the Minister of National Revenue (the "Minister") disallowed the Appellant the amount of $3,244 that he had claimed as an investment tax credit ("credit") in computing his tax payable for the 1993 taxation year, $2,462.37 of which was distributed over the years 1991 to 1995 as follows:
+1991 $59.00
+1992 $557.11
+1993 $453.08
+1994 $657.34
+1995 $735.84
+[2] By Notice of Reassessment dated July 4, 1997, the Minister disallowed the Appellant the amount of $3,244 that he had claimed as credit in computing his tax payable for the 1993 taxation year, $2,439.05 of which was distributed over the years 1991 to 1995 as follows:
+1991 $ 53.83
+1992 $538.96
+1993 $453.08
+1994 $657.34
+1995 $735.84
+[3] The Appellants operated a farm located at Saint-Christophe-d'Arthabaska.
+[4] During the 1993 taxation year, the Appellants acquired a grain silo and a forage silo worth $15,228 and $25,376 respectively, as well as construction material worth $24,270 for the construction of a machinery shed. These purchases amounted to a total of $64,874.
+[5] The Appellants each claimed a credit equal to 10% of half of the total investment.
+[6] The Appellants carried over a portion of the credit to the 1991, 1992, 1994 and 1995 taxation years.
+[7] During the hearing, Counsel for the Respondent consented to judgment pertaining to the credit claimed by the Appellants for the purchase of the grain silo during the 1993 taxation year. He also acknowledged that the Appellants were entitled to the credit for a portion of the purchase cost of the forage silo, that is, the portion pertaining to the equipment related to the silo described in greater detail on the invoice filed as Exhibit A-2, which amounted to $11,219.
+[8] The dispute lastly involved the following: are materials for the construction of a shed and silo (excluding the related equipment) qualified small-business property as understood in subsection 127(9) of the Income Tax Act (the "Act")?
+[9] The provisions of the Act and Income Tax Regulations (the "Regulations") that apply to the silo and construction materials read :
+Income Tax Regulations
+Law
+Subsection 127(5)
+(5) Investment tax credit. There may be deducted from the tax otherwise payable by a taxpayer under this Part for a taxation year an amount not exceeding the lesser of:
+(a) the aggregate of
+(i) his investment tax credit at the end of the year in respect of property acquired, or an expenditure made, before the end of the year,
+. . .
+Subsection 127(9)
+(9) Idem. In this section,
+. . .
+"qualified property" - "qualified property" of a taxpayer means property (other than an approved project property or a certified property) that is
+(a) a prescribed building to the extent that it is acquired by the taxpayer after June 23, 1975, or
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+. . .
+"qualified small-business property" - "qualified small-business property" means property, acquired by a taxpayer who was an eligible taxpayer at the time the property was acquired, that, if this subsection were read without reference to subsection (11.2), would be
+. . .
+(b) qualified construction equipment of the taxpayer if the definition "qualified construction equipment" were read without reference to paragraph (b) of it, and if the reference in it to "after April 19, 1983 and before 1989" were read as a reference to "after December 2, 1992 and before 1994",
+(c) qualified property of the taxpayer if the definition "qualified property" were read without reference to paragraphs (a) and (d) of it and if the reference in paragraph (b) of it to "after June 23, 1975" were read as a reference to "after December 2, 1992 and before 1994", ...
+. . .
+"investment tax credit" - "investment tax credit" of a taxpayer at the end of a taxation year means the amount, if any, by which the total of
+(a) the total of all amounts each of which is the specified percentage of
+(i) the capital cost to the taxpayer of approved project property, certified property, qualified construction equipment, qualified property, qualified small-business property or qualified transportation equipment acquired by the taxpayer in the year,
+. . .
+"qualified construction equipment" - "qualified construction equipment" of a taxpayer means prescribed equipment acquired by the taxpayer after April 19, 1983 and before 1989 that has not been used, or acquired for use or lease, for any purpose whatever before its acquisition by the taxpayer and that is
+(a) to be used by the taxpayer principally for the purpose of construction in Canada in the course of carrying on a business other than a business
+. . .
+"specified percentage" - "specified percentage" means
+(a) in respect of a qualified property
+. . .
+(vii) acquired primarily for use in Canada (other than a property described in subparagraph (iii), (iv),...
+(D) after 1988, 0%,
+. . .
+(i) in respect of qualified small-business property, 10%
+. . .
+Subsection 127(11.2)
+(11.2) In applying subsections (5), (7) and (8), paragraph (a) of the definition "investment tax credit" in subsection (9) and section 127.1,
+(a) property described in subparagraph (a)(i) of the definition "investment tax credit" in subsection (9) shall be deemed not to have been acquired,
+. . .
+Regulations
+PART XLVI
+Investment Tax Credit
+QUALIFIED PROPERTY
+4600. (1) Property is a prescribed building for the purposes of the definition "qualified property" in subsection 127(9) of the Act if it is depreciable property of the taxpayer that is a building or grain elevator and it is erected on land owned or leased by the taxpayer,
+(a) that is included in Class 1,3, 6, 20, 24 or 27 or paragraph (c), (d) or (e) of Class 8 in Schedule II; or
+. . .
+(2) Property is prescribed machinery and equipment for the purposes of the definition "qualified property" in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is
+. . .
+(c) a property included in Class 8 in Schedule II (other than railway rolling stock);
+. . .
+QUALIFIED CONSTRUCTION EQUIPMENT
+4603. For the purposes of the definition "qualified construction equipment" in subsection 127(9) of the Act, "prescribed equipment" means depreciable property of a taxpayer, other than qualified property as defined by subsection 127(9) of the Act, that is
+(a) a property included in Class 22 or 38 in Schedule II;
+(b) a crane;
+(c) a pile driver; or
+(d) a dredge.
+. . .
+SCHEDULE II
+Capital Cost Allowances
+CLASS 1
+(4 per cent)
+Property not included in any other class that is
+. . .
+(q) a building or other structure, or part thereof, including component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators and escalators.
+. . .
+CLASS 8
+(20 per cent)
+Property not included in Class 1, 2, 7, 9, 11 or 30 that is
+. . .
+(d) a building or other structure, acquired after February 19, 1973, that is designed for the purpose of preserving ensilage on a farm;
+. . .
+(i) a tangible capital property that is not included in another class in this Schedule except
+. . .
+CLASS 22
+(50 per cent)
+Property acquired by the taxpayer after March 16, 1964 and
+. . .
+that is power-operated movable equipment designed for the purpose of excavating, moving, placing or compacting earth, rock, concrete or asphalt, except a property included in Class 7 . . . .
+CLASS 38
+Property not included in Class 22 but that would otherwise be included in that class if that class were read without reference to paragraphs (a) and (b) thereof.
+[10] In my opinion, for the following reasons, the Appellants cannot deduct a credit related to the forage silo (excluding the related equipment) in computing their payable tax under Part 1 of the Act.
+(i) the silo is property referred to at paragraph (d) of Class 8, Schedule II of the Regulations, being a building or other structure that is designed to store silage on a farm;
+(ii) under paragraph 4600(1)(a) of the Regulations, the property referred to under paragraph (d) in Class 8 of Schedule II of the Regulation are prescribed buildings;
+(iii) a prescribed building is a "qualified property" as understood in paragraph (a) of the definition of this expression appearing at subsection 127(9) of the Act;
+(iv) a "qualified property" as understood at paragraph (a) of the definition of this expression appearing at subsection 127(9) of the Act is not a "qualified small-business property" as understood in paragraph (c) of the definition of this expression appearing at subsection 127(9) of the Act, as this paragraph expressly excludes property that is "qualified property" in accordance with paragraph (a) of the definition of this expression;
+(v) under subparagraph (a)(i) of the definition of "investment tax credit" appearing at subsection 127(9) of the Act, the "specified percentage" of the capital cost of a "qualified property" that a taxpayer has acquired during a taxation year is included in the "investment tax credit";
+(vi) the "specified percentage" in the case of "qualified property" acquired after 1988 and to be used primarily in Canada, but not in the maritime provinces, the Gaspé Peninsula or the off-shore area referred to by regulation, is zero, pursuant to clause (a)(vii)(D) of the definition of the expression "specified percentage" appearing at subsection 127(9) of the Act;
+(vii) under subparagraph 127(5)(a)(i) of the Act, a taxpayer's investment tax credit at the end of the taxation year is deductible in the computing of his tax payable under Part I of the Act.
+[11] For the following reasons, I am of the opinion that the Appellants cannot, in computing their tax payable, deduct under Part I of the Act, a tax credit related to the construction materials for the machinery shed valued at $27,270.
+(i) the machinery shed is property referred to in subparagraph (q) of Class 1 in Schedule II of the Regulations, a building or other structure, or part thereof, including the component parts;
+(ii) under paragraph 4600(1)(a) of the Regulations, property included in Class 1 in Schedule II of the Regulations are prescribed buildings;
+(iii) a prescribed building is "qualified property" as understood at paragraph (a) of the definition of this expression appearing at subsection 127(9) of the Act;
+(iv) "qualified property" as understood at paragraph (a) of the definition of this expression appearing at subsection 127(9) of the Act, is not "qualified small-business property" as understood in paragraph (c) of the definition of this expression appearing at subsection 127(9) of the Act, as this paragraph expressly excludes property that is "qualified" pursuant to paragraph (a) of the definition of this expression;
+(v) under subparagraph (a)(i) of the definition of "investment tax credit" appearing at subsection 127(9) of the Act, the "specified percentage" of the capital cost of "qualified property" that a taxpayer has acquired during a taxation year is included in the "investment tax credit";
+(vi) the "specified percentage" in the case of "qualified property" acquired after 1988 and to be used primarily in Canada, but not in the maritime provinces, the Gaspé peninsula or an off-shore zone referred to by regulation is zero, pursuant to clause (a)(vii)(D) of the definition of the expression "specified percentages" appearing at subsection 127(9) of the Act;
+(vii) under subparagraph 127(5)(a)(i) of the Act, a taxpayer's "investment tax credit" at the end of a taxation year is deductible in computing his tax payable under Part I of the Act;
+(viii) the construction materials for the machinery shed are not "qualified construction equipment" as understood in subparagraph (a)(i) of the definition of the "investment tax credit" appearing at subsection 127(9) of the Act or as understood at paragraph (b)of the definition of "qualified small-business property" at subsection 127(9) of the Act;
+(ix) under paragraph (a) of the definition of "qualified construction equipment" appearing at subsection 127(9) of the Act, "qualified construction equipment" is the equipment referred to by regulation used primarily for the construction in Canada within the context of operating a business;
+(x) under section 4603 of the Regulations, prescribed equipment is property included in Classes 22 or 38 of Schedule II of the Regulations, namely, motorized equipment for excavation, moving, placing or compacting earth, rock, concrete or asphalt, as well as a crane, a pile driver or a dredge;
+(xi) materials for the construction of the machinery shed cannot be "qualified property" or "qualified small-business property" as understood in the definition of these expressions appearing at subsection 127(9) of the Act, as these material are part of the capital cost of the machinery shed as a component part of a building or other structure referred to at paragraph (q) of Class 1 in Schedule II of the Regulations.
+[12] For these reasons, the Appellant cannot claim the tax credit for either the cost of acquiring the construction materials for a shed or the cost of acquiring a forage silo (excluding the related equipment).
+[13] As during the hearing, Counsel for the Respondent allowed a judgment pertaining to the tax credit claimed by the Appellants for the acquisition of a grain silo and the equipment related to the forage silo, the Appellants are each entitled to claim the credit related to an amount of $13,223.50, representing half of the cost of acquiring a grain silo and half the cost of acquiring the equipment related to the forage silo.
+Signed at Ottawa, Canada, this 13th day of January 2004.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 3rd day of May 2004.
+Sharon Moren, Translator

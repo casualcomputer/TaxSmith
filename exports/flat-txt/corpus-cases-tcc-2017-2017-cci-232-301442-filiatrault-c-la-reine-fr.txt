@@ -1,0 +1,251 @@
+Title: Filiatrault c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301442/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-232-301442-filiatrault-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-22
+
+# Filiatrault c. La Reine
+
+- Citation: 2017 CCI 232
+- Decision date: 2017-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7782, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Filiatrault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-22
+Référence neutre
+2017 CCI 232
+Numéro de dossier
+2016-2566(GST)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-2566(GST)I
+ENTRE :
+MARC FILIATRAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 Juin 2017, à Montréal (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Représentant de l'appelant et
+L’appelant:
+Anne-Marie Veilleux et
+Marc Filiatrault (L’appelant)
+Avocat de l'intimée :
+Me Christian Lemay
+JUGEMENT
+Les appels des cotisations établis en vertu de la Loi sur la taxe d’accise datés du 5 juin 2015 pour la période du 1er février 2013 au 31 décembre 2013, et du 27 mai 2015 pour la période du 1er janvier 2014 au 31 décembre 2014, sont accueillis pour annuler les pénalités mais sinon, la cotisation est maintenue.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2017.
+« Guy Smith »
+Juge Smith
+Référence : 2017 CCI 232
+Date : 20171122
+Dossier : 2016-2566(GST)I
+ENTRE :
+MARC FILIATRAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Smith
+INTRODUCTION [1] Marc Filiatrault, l’appelant dans cette instance, fait appel d’une décision rendue le 24 mars 2016 par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise, L.R.C (1985), ch. E-15 (la « LTA » ou « Loi »), confirmant les avis de cotisation et ajustant le montant de sa taxe nette plus les intérêts et les pénalités pour défaut de produire.
+[2] Les avis de cotisation ont été établis le 5 juin 2015 pour la période du 1er février 2013 au 31 décembre 2013, et le 27 mai 2015 pour la période du 1er janvier 2014 au 31 décembre 2014, (ci‑après « la période visée »).
+[3] La LTA prévoit que certains services de santé sont exonérés, c’est‑à‑dire qu’aucune taxe sur les produits et services (la « TPS ») ne doit être perçue. Les services qui bénéficient de ce traitement particulier sont prévus à la Partie II de l’Annexe V de la LTA. Ainsi, tous services n’y étant pas mentionnés sont exclus et par conséquent assujettis à la TPS.
+[4] Le ministre allègue que l’appelant a omis de percevoir et de remettre la TPS alors qu’il était tenu de le faire, puisque les services de psychothérapie rendus par un conseiller en orientation sont des fournitures taxables et ne sont donc pas visées par une exonération prévue à la LTA.
+[5] En ce qui concerne les intérêts et les pénalités, le ministre soutient que l’appelant n’a pas démontré qu’il a fait preuve de diligence raisonnable afin de le décharger des montants qui lui ont été imposées en vertu l’article 280 de la LTA.
+LES QUESTIONS EN LITIGE [6] Les questions en litiges sont les suivantes :
+i) Est-ce que la Cour peut conclure que les services offerts par l’appelant constituent des services de psychothérapie?
+ii) Est-ce que ces services constituent une « une fourniture admissible de soins de la santé » au sens de la LTA et si oui, est-ce que l’appelant rend des « services de psychologie » à titre de « praticien » au sens de la LTA?
+iii) Est-ce que le ministre avait raison d’imposer des pénalités pour la non‑production de la déclaration de TPS en vertu de l’article 280 de la LTA?
+SOMMAIRE DES FAITS [7] L’appelant est conseillé en orientation depuis 1985.
+[8] En 1989, il décide de réorienter sa carrière et débute une formation dans le but de devenir psychothérapeute. En 1990, il commence à travailler dans un hôpital psychiatrique comme conseiller en orientation et en réadaptation. En 1995, il est accrédité par son ordre professionnel afin d’exercer la psychothérapie. En 2012, il obtient un permis de psychothérapeute émis par l’Ordre des psychologues du Québec. Depuis, selon son témoignage, il n’offre plus de services à titre de conseiller en orientation et en réadaptation puisqu’il offre essentiellement que des services de psychothérapie en cabinet privé.
+[9] Lors de son accréditation par son ordre professionnel en 1995, la psychothérapie n’était pas une activité professionnelle réglementée au niveau provincial. Toutefois, en 2012, la province du Québec a amendé le Code des professions, LRQ, c C-26 (le « Code ») et suite à ces amendements, c’est l’Ordre des psychologues du Québec qui a le pouvoir d’émettre les permis de psychothérapeute. Or, les compétences de l’appelant ont été reconnues par cet Ordre et un permis de psychothérapeute lui a été livré en date du 26 septembre 2012.
+[10] Le Code prévoit que les psychologues et les médecins sont habiletés à exercer la psychothérapie ainsi qu’entre autres, depuis 2012, les membres de l’Ordre professionnel des conseillers et conseillères d’orientation, titulaire d’un permis de psychothérapeute, tel que prévu à l’article 187.1 du Code.
+[11] Dans son témoignage, l’appelant mentionne que ses patients lui sont référés soit par des médecins ou par des collègues du réseau de la santé, aux fins de traitement de différents symptômes, par des services de psychothérapie. D’ailleurs, l’appelant a notamment développé une expertise dans le traitement des troubles psychotiques, au cours de son expérience en milieu hospitalier à l’Institut universitaire en santé mentale Louis H. Lafontaine.
+[12] Lors de son contre-interrogatoire, l’appelant reconnaît avoir aussi une formation comme éducateur somatique, soit une approche en éducation en mouvement, assimilable à la pratique du yoga. Il a tenté de développer une pratique dans ce domaine, mais n’a pas connu beaucoup de succès. Au cours de la période de 2014 à 2015, il n’a eu que quelques clients ayant eu recours à ses services dans ce domaine. Selon son témoignage, il a d’ailleurs inclus les sommes reçues pour ces services dans ses déclarations de revenus.
+[13] Selon l’appelant, sachant qu’il était détenteur d’un permis de l’Ordre des psychologues du Québec, les intervenants et les différents professionnels dans son domaine lui ont porté à croire que la psychothérapie est un service exonéré aux fins de la TPS.
+[14] D’ailleurs, en 2013, il a questionné sa comptable au sujet de la perception de la TPS et celle-ci lui a affirmé qu’il n’était pas obligé de percevoir la taxe étant donné que son permis de psychothérapeute a été délivré par l’Ordre des psychologues du Québec.
+[15] Ce n’est qu’en 2015, lors d’un colloque, qu’un collègue l’a informé que, même s’il est psychothérapeute, il se doit de percevoir et payer la taxe, puisque la LTA n’exonère pas les services de psychothérapie. Par la suite, il a fait des démarches auprès de l’Ordre des psychologues du Québec et auprès de l’Ordre des conseillers et conseillères en orientation, ceux‑ci n’étant pas en mesure de lui donner une réponse précise à ce sujet. Il a aussi tenté de communiquer avec Revenu Québec afin d’obtenir un avis sur la question.
+CADRE LÉGISLATIF [16] En ce qui concerne le cadre législatif, le paragraphe 165(1) de la LTA énonce la règle de base pour l’imposition de la TPS en prévoyant que l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer la taxe calculée aux taux de 5 %.
+[17] Le paragraphe 123(1) de la LTA définit l’expression «fourniture taxable» comme étant une fourniture effectuée dans le cadre d’une activité commerciale. À cet égard, la définition d’activité commerciale dans la LTA exclut spécifiquement les « fournitures exonérées ». C’est au paragraphe 123(1) qu’on y prévoit qu’une « fourniture exonérée » désigne les fournitures figurant à l’annexe V de la LTA, qui comprend neuf catégories dont l’une d’elles comprend les « services de santé » à sa Partie II.
+[18] Aux fins d’analyse de l’exonération des fournitures à titre de services de santé, les articles 1.1 et 1.2 mentionnent des restrictions aux fins de l’application de la Partie II de l’Annexe V. On y exclut spécifiquement les fournitures de certains services qui ne sont pas effectuées à des fins médicales ou restauratrices. Également, on exclut, pour l’application de cette partie, et ce, à l’exception de certains articles, les fournitures qui ne sont pas des fournitures admissibles de soins de santé.
+[19] Ainsi, au premier stade de l’analyse, nous devons regarder si les services rendus peuvent être qualifié comme étant une « fourniture admissible de soins de santé », afin d’être exonérés :
+Excise Tax Act
+Loi sur la taxe d’accise
+PART II
+Health Care Services
+PARTIE II
+Services de santé
+1 In this Part,
+1 Les définitions qui suivent s’appliquent à la présente partie.
+[…]
+[…]
+qualifying health care supply means a supply of property or a service that is made for the purpose of
+fourniture admissible de soins de santé Fourniture d’un bien ou d’un service qui est effectuée dans le but :
+(a) maintaining health,
+a) de maintenir la santé;
+(b) preventing disease,
+b) de prévenir la maladie;
+(c) treating, relieving or remediating an injury, illness, disorder or disability,
+c) de traiter ou de soulager une blessure, une maladie, un trouble ou une invalidité, ou d’y remédier;
+(d) assisting (other than financially) an individual in coping with an injury, illness, disorder or disability, or
+d) d’aider un particulier (autrement que financièrement) à composer avec une blessure, une maladie, un trouble ou une invalidité;
+(e) providing palliative health care.
+e) d’offrir des soins palliatifs.
+[20] Une fois qu’il a été établi qu’un service rencontre la définition de « fourniture admissible de soins de santé », il faut ensuite déterminer si un article spécifique de la Partie II de l’Annexe V exonère ledit service de santé. L’article 7 prévoit une exonération pour les services de santé expressément mentionnés, effectués par un praticien, dont les services de psychologie :
+Excise Tax Act
+Loi sur la taxe d’accise
+PART II
+Health Care Services
+PARTIE II
+Services de santé
+7 A supply of any of the following services if the service is rendered to an individual by a practitioner of the service:
+7 La fourniture d’un des services ci‑après rendu par un praticien du service à un particulier :
+(a) optometric services;
+a) services d’optométrie;
+(b) chiropractic services;
+b) services de chiropratique;
+(c) physiotherapy services;
+c) services de physiothérapie;
+(d) chiropodic services;
+d) services de chiropodie;
+(e) podiatric services;
+e) services de podiatrie;
+(f) osteopathic services;
+f) services d’ostéopathie;
+(g) audiological services;
+g) services d’audiologie;
+(h) speech‑language pathology services;
+h) services d’orthophonie;
+(i) occupational therapy services;
+i) services d’ergothérapie;
+(j) psychological services;
+j) services de psychologie;
+(k) midwifery services;
+k) services de sage-femme;
+(l) acupuncture services; and
+l) services d’acupuncture;
+(m) naturopathic services.
+m) services de naturopathie.
+[Mes soulignements.]
+[21] On constate que le paragraphe 7j) de la Partie II de l’annexe V de la LTA reconnaît que la fourniture d’un service de psychologie est exonérée aux fins de la TPS. Toutefois, l’article exige que ces services soient fournis par un « praticien » au sens de la définition donnée à l’article 1 de la Partie II de l’annexe V de la LTA :
+Excise Tax Act
+Loi sur la taxe d’accise
+PART II
+Health Care Services
+PARTIE II
+Services de santé
+1 In this Part,
+1 Les définitions qui suivent s’appliquent à la présente partie.
+practitioner, in respect of a supply of optometric, chiropractic, physiotherapy, chiropodic, podiatric, osteopathic, audiological, speech-language pathology, occupational therapy, psychological, midwifery, dietetic, acupuncture or naturopathic services, means a person who
+praticien Quant à la fourniture de services d’optométrie, de chiropraxie, de physiothérapie, de chiropodie, de podiatrie, d’ostéopathie, d’audiologie, d’orthophonie, d’ergothérapie, de psychologie, de sage‑femme, de diététique, d’acupuncture ou de naturopathie, personne qui répond aux conditions suivantes :
+(a) practises the profession of optometry, chiropractic, physiotherapy, chiropody, podiatry, osteopathy, audiology, speech-language pathology, occupational therapy, psychology, midwifery, dietetics, acupuncture or naturopathy as a naturopathic doctor, as the case may be,
+a) elle exerce l’optométrie, la chiropraxie, la physiothérapie, la chiropodie, la podiatrie, l’ostéopathie, l’audiologie, l’orthophonie, l’ergothérapie, la psychologie, la profession de sage-femme, la diététique, l’acupuncture ou la naturopathie à titre de docteur en naturopathie, selon le cas;
+(b) where the person is required to be licensed or otherwise certified to practise the profession in the province in which the service is supplied, is so licensed or certified, and
+b) si elle est tenue d’être titulaire d’un permis ou d’être autrement autorisée à exercer sa profession dans la province où elle fournit ses services, elle est ainsi titulaire ou autorisée;
+(c) where the person is not required to be licensed or otherwise certified to practise the profession in that province, has the qualifications equivalent to those necessary to be so licensed or otherwise certified in another province.
+c) sinon, elle a les qualités équivalentes à celles requises pour obtenir un permis ou être autrement autorisée à exercer sa profession dans une autre province.
+[Mes soulignements.]
+[22] Étant donné que La LTA ne fournit aucune définition du terme «psychologie», nous devons revoir la législation du Québec afin de définir ce terme et, plus précisément, de déterminer si le terme « psychologie » inclus la « psychothérapie ». Le Code prévoit ce qui suit :
+187.1. À l’exception du médecin et du psychologue, nul ne peut exercer la psychothérapie ni utiliser le titre de psychothérapeute ni un titre ou une abréviation pouvant laisser croire qu’il l’est, s’il n’est membre de l’Ordre professionnel des conseillers et conseillères d’orientation et des psychoéducateurs et psychoéducatrices du Québec, de l’Ordre professionnel des ergothérapeutes du Québec, de l’Ordre professionnel des infirmières et infirmiers du Québec ou de l’Ordre professionnel des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec et s’il n’est titulaire du permis de psychothérapeute. (voir notes 1 et 2 ci-dessous)
+La psychothérapie est un traitement psychologique pour un trouble mental, pour des perturbations comportementales ou pour tout autre problème entraînant une souffrance ou une détresse psychologique qui a pour but de favoriser chez le client des changements significatifs dans son fonctionnement cognitif, émotionnel ou comportemental, dans son système interpersonnel, dans sa personnalité ou dans son état de santé. Ce traitement va au-delà d’une aide visant à faire face aux difficultés courantes ou d’un rapport de conseils ou de soutien.
+L’Office, par règlement, établit une liste d’interventions qui ne constituent pas de la psychothérapie au sens du deuxième alinéa, mais qui s’en rapprochent et définit ces interventions.
+[Mes soulignements.]
+[23] Tel qu’indiqué ci-haut, la LTA prévoit à la Partie II de son Annexe V, l’exonération de plusieurs services de santé mais les services de psychothérapie rendus par un conseiller en orientation détenteur d’un permis de psychothérapeute ne sont pas expressément mentionnés.
+ANALYSE ET CONCLUSION A. La nature des services rendus [24] Dans la présente affaire, la Cour doit déterminer si les services de psychothérapie fournis par l’appelant sont des services exonérés de la taxe sur les produits et services, et ce, en vertu de la Partie II de l’annexe V de la LTA.
+[25] Toutefois, l’intimée prétend qu’avant d’aborder la question de droit et d’interprétation cernant la taxation des services de psychothérapie, l’appelant doit démontrer qu’il a rendu de tels services. Ainsi, la Cour doit tout d’abord déterminer si l’appelant s’est acquitté de son fardeau de démontrer qu’il exerce des services de psychothérapie.
+[26] À cet égard, l’intimée soutient que la nature des services rendus par l’appelant est trop large et imprécise afin d’en établir la nature. Il soutient notamment que la Cour devrait tirer une inférence négative du fait qu’aucune preuve documentaire n’ait pu corroborer le témoignage de l’appelant. Or l’appelant rappelle que ses dossiers de clients sont de natures confidentielles et qu’il ne peut tout simplement pas les produire en Cour.
+[27] Certes, l’appelant n’a pas produit de preuve documentaire décrivant spécifiquement les services qu’il offre. Toutefois, je suis d’avis que la preuve testimoniale fournie par l’appelant était crédible et qu’il s’est acquitté de son fardeau afin de démontrer la nature des services rendus à titre de psychothérapeute.
+B. Services admissibles de soins de la santé? [28] Dans le cadre de l’analyse de la présente affaire, il est important de noter dans un premier temps que même si la LTA est une loi fiscale dont le but est d'augmenter les revenus du gouvernement, elle comprend également des objectifs de politique fiscale, soit que les contribuables puissent avoir accès à des services de santé. Pour ce faire, tel qu’expliqué ci-haut, elle prévoit que certains de ces services sont exonérés de la TPS.
+[29] Tout d’abord, afin de déterminer si les services offerts par l’appelant sont des services de santé au sens de la LTA, il faut déterminer s’ils se qualifient à titre de « fourniture admissible de soins de santé » au sens de la définition identifiée ci‑haut.
+[30] À cet égard, ayant conclu ci‑haut que l’appelant offrait des services de psychothérapie, je suis d’avis que ces services permettent « de traiter ou de soulager (…) un trouble (…) ou d’y remédier » au sens de la définition. Ainsi, ces services peuvent à juste titre se qualifier de fournitures admissibles de soins de santé au sens de la LTA.
+C. Praticien de services de psychologie? [31] L’alinéa 7j) de la Partie II de l’Annexe V de la LTA prévoit ensuite que la fourniture d’un des services de santé, notamment les « services de psychologie », doit être fourni par un « praticien » qui dispense de ces services. Puisque l’intimé admet, que la psychothérapie, telle qu’elle est définie à l’article 187.1 du Code, est comprise dans les « services de psychologie » au sens de l’alinéa 7j) de la LTA, la Cour n’a pas à analyser cet aspect.
+[32] Mais il reste que la Cour doit déterminer si l’appelant, un conseiller en orientation titulaire d’un permis de psychothérapeute, délivré par l’Ordre des psychologues du Québec, est un « praticien » au sens de l’article 1 de la Partie II de l’annexe V de la LTA.
+[33] L’appelant soutient qu’il se qualifie à titre de praticien au terme de la LTA. Il fait d’ailleurs référence au terme « profession » dans la définition de praticien. À cet égard, il soutient que ce terme ne réfère pas à des professions régies par un ordre professionnel, mais qu’il énumère plutôt des disciplines. Dès lors, il prétend que la nature des services dispensés doit l’emporter, et non la formation antérieure de la personne. La Cour n’accepte pas cette interprétation.
+[34] La LTA est publiée dans les deux langues officielles et il est bien établi que nous devons leur accorder la même valeur juridique (article 13 de la Loi sur les langues officielles, L.R.C. (1985) ch. 31 (4e suppl.) et article 7 de la Charte de la langue française, RLRQ, c. C-11).
+[35] Nous constatons, dans un premier temps, à la lecture de la définition de « praticien » à l’article 1 de la Partie II de la LTA, que le législateur n’a pas prévu l’exercice de la psychothérapie à l’alinéa a). De plus, au regard de la définition de « praticien » dans sa version anglaise et française, nous constatons une divergence. Dans la version anglaise on mentionne qu’une personne est un praticien au sens de la LTA lorsqu’elle « practises the profession of […] psychology », alors que dans sa version française, une personne se qualifie à tire de praticien lorsqu’« elle exerce […] la psychologie ».
+[36] En cas de divergence entre les deux versions, les règles d’interprétation indiquent qu’il faut faire un test en deux étapes. Tout d’abord, nous devons trouver le sens commun aux deux versions et ensuite, déterminer si ce sens est compatible avec l’intention du législateur : Pierre-André Côté, Interprétation des lois, 4e éd., Montréal Thémis, 2009, pp. 371 à 381.
+[37] Je suis d’avis qu’il découle du sens commun de ces deux versions qu’afin d’être qualifié à titre de praticien offrant des services de psychologie, il faut que cette personne exerce la profession de la psychologie.
+[38] Nous devons donc déterminer si un psychothérapeute est un praticien, soit une personne qui exerce la profession qui offrent les services de psychologie et deuxièmement, si celui qui est autorisé à offrir des services de psychologie à titre de psychothérapeute exerce la profession de psychologie? À ces deux questions, je répondrai par la négative.
+[39] Comme le prévoit le Code des professions à son article 187.1, les psychologues et les médecins sont habiletés à exercer d’office la psychothérapie et, depuis le 21 juin 2012, la psychothérapie peut également être exercée par une personne titulaire d’un permis de psychothérapeute, à certaines conditions. Certes, la psychothérapie est un service qui relève de la psychologie, ce qui est accepté par l’intimée. Toutefois, je suis d’avis qu’un psychothérapeute ne peut prétendre exercer la profession de la psychologie.
+[40] En d’autres termes, même si la nature des services offerts par un psychothérapeute soit de la nature de services de psychologie, la LTA exige que la personne soit un « praticien ». Afin de se qualifier à ce titre, l’exigence n’est pas simplement d’offrir des services de psychologie, mais bien d’exercer la profession de psychologie, exercice réservé au psychologue membre de l’Ordre des psychologues du Québec.
+[41] Ainsi, même si un permis de psychothérapeute est attribué à l’un des membres d’un ordre spécifiquement énuméré à l’article 187.1 du Code, cela ne lui confère pas le titre de psychologue, tel qu’exigé par la définition de praticien au sens de la LTA.
+[42] De plus, j’ajouterai que cette interprétation de la définition de « praticien » est compatible avec l’intention du législateur. En effet, dans sa rédaction de la Partie II de l’Annexe V, le législateur énumère de façon très précise quels sont les services de santé exonérés aux fins de la TPS et par cette rédaction, je suis d'avis que ces dispositions devraient être interprétées de manière restrictive.
+[43] Les dispositions de la Partie II de l’Annexe V, ne prévoient pas expressément l’exonération de la TPS pour les services de psychothérapie rendus par un psychothérapeute, même si ce dernier est titulaire d’un permis et effectue la fourniture d’un service dans une province, qui réglemente la profession de psychothérapeute. Cette omission du législateur n’est pas sans raison. Interpréter restrictivement les dispositions nous amène à conclure que si le législateur avait voulu exonérer de tels services, il l’aurait prévu.
+[44] En conséquence, je suis d’avis que l’interprétation de la LTA ne permet pas de conclure que les services d’un psychothérapeute rendus par un conseiller en orientation, détenant un permis décerné par l’Ordre des psychologues du Québec, sont exonérés au sens de la LTA. Il en découle de cette conclusion que ces services sont taxables.
+[45] Dans une affaire semblable, Williams‑Keeler c. Sa Majesté la Reine, 2013 CCI 28 (une procédure informelle), la question était de savoir si les services de thérapie pour traitement de traumatismes tel que fourni par l’appelante, étaient des services exonérés au sens de la LTA.
+[46] Lorsque la décision a été rendue, aucune autorisation n’était requise par la province de l’Ontario pour exercer le métier en question. L’appelante avait cependant une certification auprès de l’Association des consultants et conseillers en santé mentale, psychométriciens et psychothérapeutes de l’Ontario : paragraphe 11.
+[47] La juge Woods (tel était alors son titre) conclut que bien que la LTA prévoit une exonération pour les services de santé énumérés à la Partie II de l’Annexe V, « les services fournis par des thérapeutes spécialisés » ne sont pas expressément mentionnés. Elle ajoute ce qui suit :
+[25] Il se peut que les services fournis par Mme Williams-Keeler soient à juste titre qualifiés de services psychologiques. Cela n'est toutefois pas suffisant pour que les services puissent être visés par l'exonération. Pour que les services soient considérés comme des fournitures exonérées, il faut également que les services soient fournis par un « praticien » au sens de la définition donnée à l'article 1.
+1. [...] « praticien » Quant à la fourniture de services d'optométrie, de chiropraxie, de physiothérapie, de chiropodie, de podiatrie, d'ostéopathie, d'audiologie, d'orthophonie, d'ergothérapie, de psychologie ou de diététique, personne qui répond aux conditions suivantes :
+a) elle exerce l'optométrie, la chiropraxie, la physiothérapie, la chiropodie, la podiatrie, l'ostéopathie, l'audiologie, l'orthophonie, l'ergothérapie, la psychologie ou la diététique, selon le cas;
+b) si elle est tenue d'être titulaire d'un permis ou d'être autrement autorisée à exercer sa profession dans la province où elle fournit ses services, elle est ainsi titulaire ou autorisée;
+c) sinon, elle a les qualités équivalentes à celles requises pour obtenir un permis ou être autrement autorisée à exercer sa profession dans une autre province.
+[26] Mme Williams-Keeler n'est pas une praticienne au sens de la Loi parce que, au cours de la période en cause, aucune province n'exigeait de permis ou d'autorisation pour le travail dans le domaine de la thérapie pour le traitement des traumatismes.
+[27] Le représentant de Mme Williams-Keeler soutient que celle-ci peut être considérée comme une praticienne en raison de l'autorisation qui lui a été accordée par l'Association des consultants et conseillers en santé mentale, psychométriciens et psychothérapeutes. Il affirme que, selon la définition de « praticien », il n'est pas nécessaire pour la personne d'être autorisée à exercer sa profession. Il allègue que les termes « tenue » ou « requises » figurant respectivement aux alinéas b) et c) ci-dessus (« required » dans la version anglaise de la Loi) s'appliquent seulement aux permis et non aux autorisations.
+[28] Je ne souscris pas à cette interprétation. A mon avis, le législateur voulait que le terme « tenue » dans le passage « tenue d'être titulaire d'un permis ou d'être autrement autorisée à exercer sa profession » s'applique à la fois au fait d'être titulaire d'un permis et au fait d'être autorisé. Il ne serait pas logique que des critères différents soient utilisés pour les permis et pour les autorisations.
+[48] Elle arrive à la conclusion suivante :
+[33] Je conclus que les exonérations sur lesquelles se fonde Mme Williams‑Keeler ne s'appliquent pas aux services de thérapie pour le traitement des traumatismes qu'elle fournit. Il pourrait y avoir de bons arguments de principe qui justifient l'exonération de ces services, mais c'est là une question qui relève du législateur et non des tribunaux. L'appel est rejeté.
+[49] À part de la conclusion indiquée au paragraphe 26 de la décision, je souscris à cette analyse et conclu que le législateur a voulu que les personnes qui sont des praticiens, c’est-à-dire qui exercent une des professions énumérées, sont aussi tenus d’être membres en règle de leur profession selon l’alinéa b) de la définition de « praticien ».
+[50] Dans cette instance, la province du Québec a décidé de légiférer et de faire en sorte qu’une personne qui n’est pas psychologue mais qui offre des services de psychothérapie, doit obtenir un permis de psychothérapeute — ce qui qui n’était pas le cas dans la décision Williams-Keeler précitée. À mon avis, cela ne change en rien ma conclusion que l’appelant dans cette instance n’exerçait pas une des professions énumérées à l’article 7 de la Partie II, de l’Annexe V.
+D. Les pénalités [51] Suite à la conclusion susmentionnée, il faut se demander si la Cour peut relever le contribuable des pénalités imposées par le ministre en vertu de l’article 280 de la LTA qui s’appliquent automatiquement en cas de non-production de la déclaration de taxes.
+[52] Cette disposition se lit comme suit :
+Intérêts
+280 (1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer des intérêts sur ce montant, calculés au taux réglementaire pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement.
+[53] Dans ses actes de procédure, l’intimée prétend que le pouvoir d’annuler ces pénalités ne peut être exercé que par le ministre en vertu des dispositions de l’article 281.1 de la LTA. Conséquemment, il soutient que l’annulation de ces pénalités n’est pas sujette à la juridiction de cette Cour. Je ne suis pas d’accord avec cette prétention.
+[54] En effet, la Cour d’appel fédérale, dans l’arrêt Corp. de l’École polytechnique c. Sa Majesté la Reine, 2004 CAF 127, confirme que la défense de diligence raisonnable peut être utilisée à l’encontre d’une pénalité administrative établie sous le régime de l’article 280 de la LTA. La Cour définit la défense de diligence raisonnable en ces termes :
+[27] Notre Cour a déjà statué que rien ne s’oppose à ce que le moyen de défense de la diligence raisonnable, dont une personne peut se prévaloir à l’encontre d’infractions de responsabilité stricte, puisse être invoqué à l’encontre de pénalités administratives. Plus spécifiquement, elle a décidé que l’article 280 de la Loi sur la taxe d’accise, par son libellé et son contenu, donne ouverture à cette défense : Canada (P.G.) c. Consolidated Canadian Contractors Inc., [1999] 1 C.F. 209 (C.A.F.). Il n’est peut-être pas inapproprié de rappeler les principes qui gouvernent la défense de diligence raisonnable avant de les appliquer aux faits de l’espèce.
+[28] La défense de diligence raisonnable permet à une personne d'éviter l'imposition d'une pénalité si elle fait la preuve qu'elle n'a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s'il eut existé, aurait rendu son acte ou son omission innocents ou si elle a pris toutes les précautions raisonnables pour éviter l'événement qui mène à l'imposition de la peine? Voir La Reine c. Sault Ste-Marie, [1978] 2 R.C.S. 1299; La Reine c. Chapin, [1979] 2 R.C.S. 121. En d'autres termes, la diligence raisonnable excuse soit l'erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[…]
+[Mon soulignement.]
+[55] Je conclus de cet exposé, que « pour établir une défense de diligence raisonnable à l’encontre d’une pénalité, un appelant doit démontrer qu’il a commis une erreur raisonnable dans sa compréhension des faits, ou qu’il a pris des précautions raisonnables pour éviter l’événement qui a mené à l’imposition de la pénalité : Comtronic Computer Inc. c. La Reine, 2010 CCI 55, paragraphe 35.
+[56] À ce sujet, l’intimée soumet à la Cour que l’appelant ne s’est pas déchargé de son fardeau de preuve à l’égard des pénalités et qu’il n’a pas fait la preuve des faits pertinents justifiant son erreur. Elle soulève que l’appelant a admis avoir appris, par hasard, qu’il devait percevoir les taxes à ses patients et que c’est seulement dès lors, qu’il a tenté d’obtenir des renseignements.
+[57] Selon l’appelant, il a contacté sa comptable en 2013 pour voir s’il devait percevoir la TPS pour ses services de psychothérapie et elle lui a indiqué que ses services étaient exonérés étant donné qu’il détenait un permis de psychothérapeute de l’Ordre des psychologues du Québec. Il a de plus été induit en erreur par des intervenants professionnels du réseau de la santé qui lui ont affirmé que les services de psychothérapie étaient exonérés. Ce n’est qu’en 2015, lors d’un colloque sur la psychothérapie qu’une collègue l’a informé que, bien qu’il détienne le titre de psychothérapeute, il devait percevoir la taxe.
+[58] En somme, je suis d’avis que les démarches de l’appelant démontrent bien qu’il voulait se conformer à la LTA. Il a ainsi fait preuve de diligence raisonnable et pour cette raison les pénalités en causes devraient être annulées.
+[59] L'appel est accueilli pour annuler les pénalités mais sinon, la cotisation est maintenue.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2017.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2017 CCI 232
+Nº DU DOSSIER DE LA COUR :
+2016-2566(GST)I
+INTITULÉ DE LA CAUSE :
+MARC FILIATRAULT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 20 Juin 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 22 novembre 2017
+COMPARUTIONS :
+Représentant de l'appelant et
+L’appelant:
+Anne-Marie Veilleux
+Marc Filiatrault
+Avocat de l'intimée :
+Me Christian Lemay
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

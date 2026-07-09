@@ -1,0 +1,224 @@
+---
+title: "3143971 Nova Scotia Limited v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521014/index.do"
+last_modified: "2022-11-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 138"
+citation2: ""
+neutral_citation: "2022 TCC 138"
+decision_date: "2022-11-17"
+language: "en"
+item_id: "521014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5809
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:02:45.988000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3709846ae06073aaa05e2521cfedc62040adf7e23757b26aea1fc8caeb600343"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 3143971 Nova Scotia Limited v. The King
+
+- Citation: 2022 TCC 138
+- Decision date: 2022-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5809, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3143971 Nova Scotia Limited v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-17
+Neutral citation
+2022 TCC 138
+File numbers
+2019-1372(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-1372(IT)G
+BETWEEN:
+3143971 NOVA SCOTIA LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 11 and 12, 2022 at Quebec City, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+JUDGMENT
+The appeal from the reassessment dated July 31, 2018 made by the Minister of National Revenue under the Income Tax Act with respect to the appellant’s taxation year ending on May 31, 2013 is allowed, without costs, to give effect to the concession made by the respondent at the opening of the hearing. Therefore, the reassessment is referred back to the Minister for reconsideration and reassessment to subtract from the appellant’s income the amount of $708,695.65, representing the balance of an invoice that was amended on May 15, 2013 and cancelled entirely on May 15, 2016. In all other respects, the reassessment will remain unchanged in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 17th day of November 2022.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 24th day of September 2024
+Vera Roy
+Citation: 2022 TCC 138
+Date: 20221117
+Docket: 2019-1372(IT)G
+BETWEEN:
+3143971 NOVA SCOTIA LIMITED,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment dated July 31, 2018 made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”), in respect of the appellant’s taxation year ending on May 31, 2013.
+[2] Under this reassessment, the Minister, among other things, included in the appellant’s income the amount of $708,695.65, representing the balance of an invoice addressed to its sole shareholder and director, Gordon Raymond Rudolph (“Mr. Rudolph”), which was amended on May 15, 2013 and cancelled entirely on May 15, 2016.
+[3] At the opening of the hearing, the respondent conceded, in order to ensure consistent tax treatment, that the balance of this invoice in the amount $708,695.65 should be subtracted from the appellant’s income.
+[4] Under the reassessment of July 31, 2018, the Minister also disallowed maintenance and repair expenses in the amount of $85,905, as well as deductions related to the cumulative eligible capital (“CEC”) account totalling $136,549. Penalties under the Act were applied with respect to the amount of $85,905 claimed as maintenance and repair expenses and with respect to the amount of $136,549 claimed as deductions related to its CEC.
+[5] The issues are as follows:
+(a)Was the Minister justified in assessing the appellant’s taxation year ending on May 31, 2013 outside the normal reassessment period? To answer this question, it must be determined whether the appellant has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed fraud in filing its income tax return for the taxation year ending on May 31, 2013, as required by subparagraph 152(4)(a)(i) of the Act; and
+(b)Was the Minister justified in assessing the penalty under subsection 163(2) of the Act with respect to the claim for maintenance and repair expenses and the deductions related to the appellant’s CEC? The answer to this question involves considering whether the appellant, knowingly or under circumstances amounting to gross negligence, has made or has assented to or acquiesced in the making of a false statement or omission in its income tax return that it has filed or made with respect to its claims for alleged maintenance and repair expenses as well as its deductions related to its CEC.
+[6] The facts in this case are not complex and were the subject of a partial agreed statement of facts by the parties. It is appropriate to reproduce paragraphs 1 to 30 of this agreement here. Note that Schedule A of this agreement, which shows the income and expenses reported by the appellant for the taxation years ending on May 31 of 2007 to 2016, is attached at the end of this judgment.
+[translation]
+The Parties Involved
+The appellant was incorporated on June 1, 2006 under the provincial legislation of Nova Scotia.
+Following the incorporation, Douglas Rudolph (“Douglas”) was a shareholder and director of the appellant.
+On August 2, 2007, the appellant’s certificate of registration was revoked for non-payment.
+The appellant did not file an income tax return from 2007 to June 2013.
+Following the appellant’s restoration on August 9, 2012, Gordon Raymond Rudolph (“Gordon”) became the appellant’s sole director and shareholder.
+Douglas is Gordon’s brother.
+After the appellant was restored, Gordon alone controlled the appellant and made the decisions on the appellant’s behalf.
+The appellant operates from Gordon’s residence.
+The appellant has no employees.
+Background
+In 2012, the appellant issued to Gordon an invoice bearing number 2012‑1 in the amount of $2,130,434.78 plus $319,565.22 in GST/HST, for a total of $2,450,000.
+Gordon claimed an expense of $2,450,000 in management and administration fees for his 2010 taxation year.
+In 2013, the appellant added the amount of $4,020,062 to its cumulative eligible capital (“CEC”) account for its 2007 taxation year.
+On May 15, 2013, the appellant amended the invoice bearing number 2012‑1 to reduce the amount to $708,695.65 plus $106,304.35 in GST/HST, for a total of $815,000.
+On May 15, 2016, the appellant issued an amended invoice to Gordon for the purpose of cancelling the invoice of May 15, 2013.
+In August 2017, the CRA conducted a corporate tax audit of the appellant with respect to the transactions described in greater detail above.
+The CRA disallowed the deduction of $2,450,000 that Gordon claimed in computing his income for the year 2010 and did not include the amount of $2,130,434.78 in computing the appellant’s income for the year 2010.
+The appellant reported the income and expenses found in Schedule A during the taxation years ending on May 31.
+During its 2016 taxation year, the appellant sought to cancel the deductions claimed during the 2007 to 2014 taxation years in relation to its cumulative eligible capital (“CEC”) account and maintenance and repair expenses by adding the amount of $2,220,660 to its taxable income.
+In the summer of 2018, the appellant was still being audited by the CRA.
+Further to this tax audit, the CRA reduced the appellant’s taxable income for the 2016 taxation year by $2,220,660 and disallowed the deductions claimed by the appellant during taxation years 2007 to 2014 in relation to its CEC account and maintenance and repair expenses.
+The Agreement between Gordon and the Appellant
+On January 13, 2013, Gordon and the appellant signed the agreement at tab 19 of the respondent’s book of documents.
+Gordon’s Personal Returns
+In 2010, Gordon reported gross income from foreign exchange transactions in the amount of $2,628,132.
+Gordon paid fees to:
+AGEMO, for $4,000; and
+Doctor Tax Inc., for $50,000.
+Mr. Terracina’s Background
+In 1999, Terracina pleaded guilty to 131 charges for failing to file his income tax returns.
+Terracina was sentenced to three years in prison for these 131 charges.
+In November 2012, Terracina was sentenced to four months in prison and a fine of $28,000.
+In April 2016, Rudolfo Terracina (“Terracina”) died.
+Gordon’s Participation in Tax Programs
+Gordon participated in the following tax programs:
+“Global Learning Gifting Initiative 2004 Tax Shelter”; and
+“Edge of Command”.
+[7] To make it easier to understand the facts, some clarifications are in order:
+(a)The agreement of January 13, 2013 between Mr. Rudolph and the appellant referred to in paragraph 21 of the partial agreed statement of facts is the agreement through which Mr. Rudolph transferred his intellectual property rights, which were valued at $4,020,062 on June 1, 2006, to the appellant, factoring in Mr. Rudolph’s nine years of university studies, his experience in real estate development projects (townhouses, professional centre, golf club, hotel) and energy production and petrochemical plant projects, and his knowledge in trading in stocks and foreign exchange transactions. The appellant based its claim for the amortization of intangibles during the taxation years ending on May 31 from 2017 to 2014 on this transaction; and
+(b)The fees of $4,000 and $50,000 paid to AGEMO and Doctor Tax Inc., which are referred to at paragraph 23 of the partial agreed statement of facts, are fees paid to entities associated with Rudolfo Terracina (“Mr. Terracina”), a promoter of very aggressive tax programs, including the scheme in which Mr. Rudolph participated.
+Position of the appellant
+[8] According to the appellant, the burden of showing that the conditions are met for applying subparagraph 152(4)(a)(i) and subsection 163(2) of the Act is on the respondent.
+[9] The appropriate time for assessing whether the conditions for applying these two statutory provisions are met was when the appellant filed its income tax return for the taxation year ending on May 31, 2013, that is, November 30, 2013.
+[10] Mr. Rudolph explains that, in 2010, he began implementing the planning proposed by Mr. Terracina for the purpose of simplifying the corporate structure of his many investments in realty projects in order to improve his financial performance. Mr. Rudolph also states that he began cancelling the planning in 2016 in response to his spouse’s degenerative condition, that is, one year before the audit of July 31, 2018 began.
+[11] Mr. Rudolph maintains that the appellant did not make a misrepresentation when it filed its income tax return for the taxation year ending on May 31, 2013. During his testimony, Mr. Rudolph acknowledged that he signed the return without having read or analyzed it because he had full and complete trust in his brother Douglas, who had been preparing his personal income tax returns and his companies’ returns for many years.
+[12] Mr. Rudolph also stated that he relied on his brother Douglas to implement the planning proposed by Mr. Terracina and on the checks that Mr. Terracina had to make before recommending it to his brother. Mr. Rudolph did not question the value assigned to his intangible assets and was not concerned by the fact that the appellant claimed maintenance and repair expenses for buildings that it did not own.
+[13] The appellant maintains that it did not sign the letter of commitment to Mr. Terracina’s program that was entered into evidence, that Mr. Rudolph did not sign it either, that the payment percentages indicated in it were not respected and that, for all legal purposes, the letter is irrelevant.
+[14] In summary, the appellant contends that it did not make false statements in its income tax return, that the appellant and its sole shareholder and director acted in good faith and that there was no wilful blindness on their part.
+[15] In respect of the penalty under subsection 163(2) of the Act, the appellant states that the burden of proof rests with the respondent under subsection 163(3) of the Act.
+[16] According to the appellant, although the questionable deductions may have been made, that does not necessarily mean that they were made knowingly or under circumstances amounting to gross negligence.
+[17] The appellant and its sole shareholder and director believed in good faith that the tax planning proposed by Mr. Terracina was acceptable, and they relied on Douglas Rudolph’s advice.
+[18] Mr. Rudolph testified that he did not learn of Mr. Terracina’s trouble with the tax authorities until the Canada Revenue Agency began auditing the appellant’s business on August 25, 2017.
+[19] The appellant also argues that the benefit of the doubt should be given to the taxpayer. Mr. Rudolph was naive in implementing aggressive tax planning, but he was not grossly negligent in doing so.
+Position of the respondent
+[20] According to the respondent, the appellant participated in a scheme to reduce the tax payable by its sole shareholder, Mr. Rudolph, for his 2010 taxation year. As part of this scheme, the appellant knowingly reported net losses caused by non‑existent expenses. For the taxation year ending on May 31, 2013, these fictitious expenses totalled at least $222,454. The appellant’s sole shareholder and director, Mr. Rudolph, signed the appellant’s tax return knowing that the expenses it claimed were fictitious.
+[21] The objective behind the scheme was to transfer Mr. Rudolph’s income to the appellant through an invoice so that the appellant could then deduct this income through fictitious expenses.
+[22] The appellant knowingly made false statements in filing its 2013 T2 Return, as it knew that the deduction contained fictitious expenses. The appellant did not actually incur the repair and maintenance expenses of $85,905 that it claimed, and the capital cost allowance of $136,549 the appellant claimed for eligible capital property was not justified because the appellant had not acquired any eligible capital property.
+[23] The appellant and its directing mind knew that the appellant had not repaired or maintained anything that had incurred expenses of $85,905. In 2013, the appellant was not running any actual businesses.
+[24] The appellant and its directing mind were aware of the fictitious nature of the deduction for eligible capital property because they knew the value of the intellectual property claimed was determined by Mr. Terracina based on information they provided to him, namely, the time that Mr. Rudolph spent on each of his investment projects and the details of his education and personal accomplishments.
+[25] Mr. Rudolph spoke to Mr. Terracina only once in the mid-2000s, and he did not take any initiative to inquire into Mr. Terracina’s past. A simple Internet search would have revealed to Mr. Rudolph that, in 1999, Mr. Terracina pleaded guilty to 125 counts related to charges under section 239.1 of the Act and 6 counts related to charges under section 327.1 of the Excise Tax Act. The charges were the result of false statements that Mr. Terracina had made in his clients’ tax returns, such as inflated expenses and expenses that were unrelated to the activities of his clients’ businesses.
+[26] The appellant also displayed wilful blindness because the appellant and its directing mind made no effort to ensure that the information in its income tax return was accurate and complete. Mr. Rudolph simply signed the 2013 T2 Return without even reviewing it, in circumstances where he should have known that something was amiss. Mr. Rudolph is an educated taxpayer with multiple university degrees and an experienced businessman.
+[27] In addition, the appellant made false statements in its 2013 T2 Return in circumstances amounting to gross negligence. The conduct of the appellant and its directing mind amounts to a high degree of neglect and is a marked departure from the standards, practices and due diligence expected of a reasonable taxpayer.
+Analysis and conclusion
+Assessment beyond the normal reassessment period
+[28] Subparagraph 152(4)(a)(i) of the Act provides that the Minister may make an assessment after the normal assessment period when a taxpayer filing an income tax return has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under the Act. The relevant time for an analysis under subparagraph 152(4)(a)(i) of the Act is when the income tax return is filed.
+[29] The conditions set forth below do not necessarily require the existence of wilful default, negligence or even gross negligence. The reassessment for a statute-barred year is consistent with the Act once a misrepresentation in a return can be attributed to neglect or carelessness (see Deyab v. Canada, 2020 FCA 222 at paras. 59 to 61).
+[30] The evidence on record shows that the appellant knowingly made false statements in filing its 2013 T2 Return because it knew very well that the return contained fictitious expenses.
+[31] The appellant claimed expenses for repairs and maintenance that it did not do. It had neither the mandate nor the staff to incur these expenses, and the buildings concerned belonged to other companies in which Mr. Rudolph had interests.
+[32] The appellant also claimed a cumulative eligible capital deduction when it knew it had not acquired any eligible capital property. The appellant and its directing mind knew that the method that Mr. Terracina used to appraise Mr. Rudolph’s intellectual property was completely far-fetched, and they made no effort to have that appraisal verified.
+[33] The appellant clearly committed wilful default because it made no effort to ensure that the information in its 2013 T2 Return was accurate and complete. Mr. Rudolph simply signed the return without even reviewing it.
+[34] The appellant implicitly acknowledged the validity of its assessment of July 31, 2018, which was made outside the normal reassessment period, by agreeing that it be amended in order to subtract from its income the amount of $708,695.65.
+The penalty under subsection 163(2) of the Act
+[35] Subsection 163(2) of the Act states that every person who, knowingly, or under circumstances amounting to gross negligence, has made a false statement in a return filed or made in respect of a taxation year is liable to a penalty. The burden of establishing the facts justifying the imposition of such a penalty is on the Minister.
+[36] Conduct justifying the imposition of a penalty for gross negligence is one that shows indifference as to whether the Act is complied with and that amounts to intentional conduct, that is, conduct that falls markedly below the conduct of a reasonable taxpayer (see Wynter v. Canada, 2017 FCA 195 at paras. 13 and 16).
+[37] The penalty also applies when a taxpayer knowingly makes a false statement. The Federal Court of Appeal affirmed in paragraphs 18 and 19 of Wynter, cited above, the existence of the doctrine of wilful blindness, which has the effect of imputing knowledge of a fact to the taxpayer, thereby ensuring that the knowledge requirement under subsection 163(2) of the Act is met.
+[38] In the present circumstances, the appellant has made false statements in its 2013 T2 Return, as previously demonstrated, and did so knowingly or under circumstances amounting to gross negligence.
+[39] The conduct of the appellant and its directing mind amounts to a high degree of neglect and is a marked departure from the standards, practices and due diligence expected of a reasonable taxpayer. At a bare minimum, a reasonable taxpayer and an experienced businessman would have made the following efforts to verify the planning proposed by Mr. Terracina:
+(a)He would have inquired about Mr. Terracina’s past and qualifications;
+(b)He would have reviewed his 2013 T2 Return to verify the expenses claimed by the appellant;
+(c)He would have asked Mr. Terracina about the validity and legitimacy of these expenses;
+(d)He would have asked Mr. Terracina about the nature and purpose of the intellectual property agreement; and
+(e)He would have consulted an appraisal expert to verify the intellectual property appraisal and the impacts of transferring this intellectual property to a fake company.
+[40] Therefore, the Minister was justified in assessing the penalty under subsection 163(2) of the Act against the appellant.
+[41] In the circumstances of this case, the appellant cannot raise the defence of reliance on a trusted third party, because Douglas Rudolph did not testify at the hearing and because there is no evidence on record that Douglas Rudolph made any kind of checks with respect to the planning proposed by Mr. Terracina.
+[42] For all of these reasons, the appeal is allowed without costs, to give effect to the concession made by the respondent at the opening of the hearing, and the reassessment is referred back to the Minister for reconsideration and reassessment to subtract from the appellant’s income the amount of $708,695.65, representing the balance of an invoice that was amended on May 15, 2013 and cancelled entirely on May 15, 2016. In all other respects, the reassessment remains unchanged.
+Signed at Montreal, Quebec, this 17th day of November 2022.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 24th day of September 2024
+Vera Roy
+CITATION:
+2022 TCC 138
+COURT FILE NO.:
+2019-1372(IT)G
+STYLE OF CAUSE:
+3143971 NOVA SCOTIA LIMITED AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Quebec City, Quebec
+DATES OF HEARING:
+October 11 and 12, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 17, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Bobby Doyon
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bobby Doyon
+Firm:
+Therrien Couture Jolicoeur L.L.P.
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada

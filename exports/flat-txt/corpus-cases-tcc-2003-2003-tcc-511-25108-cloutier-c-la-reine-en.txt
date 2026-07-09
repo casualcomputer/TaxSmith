@@ -1,0 +1,121 @@
+Title: Cloutier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25108/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-511-25108-cloutier-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-07-23
+
+# Cloutier c. La Reine
+
+- Citation: 2003 TCC 511
+- Decision date: 2003-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2544, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cloutier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-23
+Neutral citation
+2003 TCC 511
+File numbers
+2001-3025(IT)I
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3025(IT)I
+BETWEEN:
+HENRY CLOUTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeals of
+Pauline Fortin (2001-3026(IT)I) on June 17, 2003 at Québec, Quebec
+Before: The Honourable Judge P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Gilbert
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessment made under the Income Tax Act ("Act") for the 1997 and 1998 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the personal expenses common to the two Appellants are $17,340 and $16,822 for the 1997 and 1998 taxation years, respectively, that those expenses shall be divided between them equally and that the penalties assessed under subsection 163(2) of the Act shall be adjusted accordingly.
+Signed at Ottawa, Canada this 23rd day of July 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 18th day of March 2004.
+Gerald Woodard, Translator
+Docket: 2001-3026(IT)I
+BETWEEN:
+PAULINE FORTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on common evidence with the appeals of
+Henry Cloutier (2001-3025(IT)I) on June 17, 2003 at Québec, Quebec
+Before: The Honourable Judge P. R. Dussault
+Appearances:
+Counsel for the Appellant:
+Marc Gilbert
+Counsel for the Respondent:
+Anne Poirier
+JUDGMENT
+The appeals from the assessment made under the Income Tax Act ("Act") for the 1997 and 1998 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the personal expenses common to the two Appellants are $17,340 and $16,822 for the 1997 and 1998 taxation years respectively, that those expenses shall be divided between them equally and that the penalties assessed under subsection 163(2) of the Act shall be adjusted accordingly.
+Signed at Ottawa, Canadathis 23rd day of July 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 18th day of March 2004.
+Gerald Woodard, Translator
+Citation: 2003TCC511
+Date: 20030723
+Dockets: 2001-3025(IT)I
+2001-3026(IT)I
+BETWEEN:
+HENRY CLOUTIER,
+PAULINE FORTIN,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault, J.
+[1] These appeals were heard on common evidence under the informal procedure.
+[2] The Appellants are spouses and operate two businesses, one selling used vehicles and the other selling baby furniture and accessories. They were assessed for the 1997 and 1998 taxation years using the net worth method. Penalties were also assessed under subsection 163(2) of the Income Tax Act ("Act"). The only amounts being challenged are those established as their personal expenses for each year, $25,421.16 for 1997 and $22,613.39 for 1998.
+[3] Each Reply to the Notice of Appeal ("Reply") indicates the portion of the difference by the net worth method attributed to each Appellant and refers to "the Schedule". The latter is not at all complete, as it lacks Schedules 3 to 11. Schedule 11 is the schedule that provides details regarding personal expenses. Finally, only the total personal expenses of the Appellants, indicated above for each year, is indicated on the Schedule 2 included with the Replies.
+[4] At the beginning of the testimony by the Appellant, Mr. Henri Cloutier, Counsel for the Respondent provided him with the complete document calculating the difference by net worth for his spouse, Ms. Pauline Fortin, particularly Schedule 11, indicating the summary of their common personal expenses established by the auditor. That document contained no indication of the source of the figures in it and no one testified to explain its content.
+[5] Both Appellants and their accountant, Mr. Réal Girard, testified. During his testimony, Mr. Cloutier filed his own summary of the couple's personal expenses in evidence, prepared with the assistance of the accountant (Exhibit A-1). The total personal expenses were set at $17,340 and $16,822 for 1997 and 1998, respectively.
+[6] Certain amounts indicated by the auditor on Schedule 11 are not being challenged by the Appellants are included as such in their summary. Such is the case, for example, for the cost of housing, housing expenses and life insurance.
+[7] Other amounts indicated by the auditor are being challenged by the Appellants as simply not applicable to their situation. These are the amounts indicated in the "Newspapers, magazines, books, etc." column, as well as "Tobacco and alcohol". Mr. Cloutier stated, on the one hand, that he only reads one local newspaper, which is free, and that, on the other hand, neither he nor his wife smoke or drink alcohol.
+[8] Finally, according to Mr. Cloutier's testimony, other amounts, those indicated by the auditor in the "Food, clothing", "Transportation", "Personal care", "Entertainment" and "Gifts and contributions" columns are exaggerated and referred to the expense amounts for these items indicated in his own summary.
+[9] The Appellants' testimonies and that of their accountant are not supported by any documents. It was my impression that both Mr. Cloutier and Ms. Fortin tended to minimize the amount of certain expenses for food, transportation, personal care and health care, for example. By how much? I cannot say.
+[10] Furthermore, the way in which the case was presented to the Court by the Canada Customs and Revenue Agency ("CCRA") had some serious flaws. First, the Replies are incomplete as regards almost all schedules for calculating the difference by the net worth method and, more specifically, Schedule 11 regarding personal expenses was not included with the document.
+[11] Although the Appellants had already seen Schedule 11 in preparing their own summaries of their personal expenses, it would appear that the source of the figures in some columns was never explained to them. Nor was it explained during the hearing, as no one testified for the Respondent. The evidence thus shows that not only the figures, but also certain columns themselves in schedule 11 do not even apply to the Appellants' situation. Thus no weight can be given to the document in the absence of the necessary explanations.
+[12] There is more, however. Basically, the process is flawed by incomplete Replies that in no way indicate the exact factual assumptions on which the Minister of National Revenue ("Minister") relied in determining the Appellants' personal expenses. It is not enough to indicate on a line that total personal expenses are such without meeting the requirement to reveal the factual assumptions on which the assessment is based and that the Appellant must normally demolish (see inter alia Johnston v. M.N.R., [1948], S.C.R. 486, at pages 489/90 and Hickman Motors Ltd. v. Canada, [1997], 2 S.C.R. 336, at pages 378 et seq).
+[13] In the case at bar, the total expenses for each year are the only information referred to in the Replies, as Schedule 11 is not included. Were it provided, it would not have clarified the columns or figures included, as certain columns clearly did not apply to the Appellants' lifestyle, as regards tobacco and alcohol, for instance. If the auditor used certain columns or figures from national, regional or other statistics to assess the Appellants' personal expenses - and that is the only inference that I can draw under the circumstances - that should have been clearly indicated on each Reply or in the attached documents to which reference is made.
+[14] In my opinion, the Appellants do not bear the burden of demolishing factual assumptions that are not indicated or are not clearly and fully indicated. In such a case, the burden is on the Minister.
+[15] There is abundant caselaw on this question. We can cite, for instance, the decision of the Federal Court of Appeal in Pollock v. Canada, [1994] 1 C.T.C. 3, 94 DTC 6050, [1993] F.C.J. No 1055 (Q.L.). At paragraph 18 of the decision, Hugessen, J. writes as follows for the Court:
+18. The special position of the assumptions made by the Minister in taxation litigation is another matter altogether. It is founded on the very nature of a self-reporting and self-assessing system in which the authorities are obliged to rely, as a rule, on the disclosures made to them by the taxpayer himself as to facts and matters which are peculiarly within his own knowledge. When assessing, the Minister may have to assume certain matters to be different from or additions to what the taxpayer has disclosed. While the Minister's assumptions, if any, are generally made in the pleadings, that is not always the case and we have seen, in this very record, an example of the taxpayer taking pains to demolish assumptions which the Minister had not pleaded. Where pleaded, however, assumptions have the effect of reversing the burden of proof and of casting on the taxpayer the onus of disproving that which the Minister has assumed. Unpleaded assumptions, of course, cannot have that effect and are therefore, in my view, of no consequence to us here.
+(Emphasis added.)
+[16] This principles was stated even more recently by the Federal Court of Appeal in Roseland Farms Ltd. v. Canada, [2001] 3 C.T.C. 124, 2001 DTC 5392, [2001] F.C.J. No 842 (Q.L.).
+[17] The explanations provided by the Appellants regarding the amounts of certain personal expenses are not totally convincing. However, it is the only evidence at my disposal.
+[18] In view of the foregoing, the appeals from the assessments made for the 1997 and 1998 taxation years are allowed and the assessments are referred back to the Minister for reconsideration and reassessment on the basis that the personal expenses common to the two Appellants are $17,340 and $16,822 for the 1997 and 1998 taxation years respectively, that those expenses shall be divided between them equally and that the penalties assessed under subsection 163(2) of the Act shall be adjusted accordingly.
+Signed at Ottawa, Canada this 23rd day of July 2003.
+"P. R. Dussault"
+Dussault, J.
+Translation certified true
+on this 18th day of March 2004.
+Gerald Woodard, Translator

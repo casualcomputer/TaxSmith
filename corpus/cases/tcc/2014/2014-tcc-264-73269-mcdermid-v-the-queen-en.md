@@ -1,0 +1,166 @@
+---
+title: "McDermid v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/73269/index.do"
+last_modified: "2014-09-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 264"
+citation2: ""
+neutral_citation: "2014 TCC 264"
+decision_date: "2014-09-03"
+language: "en"
+item_id: "73269"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5210
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:35:15.419000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fca868a2fac9b420180871021be273c6ec3edaf393afc20fa1fb707638ad3334"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McDermid v. The Queen
+
+- Citation: 2014 TCC 264
+- Decision date: 2014-09-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5210, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McDermid v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-03
+Neutral citation
+2014 TCC 264
+File numbers
+2013-2570(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2570(IT)I
+BETWEEN:
+LESLIE McDERMID,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 5 and June 18, 2014 at Vancouver,
+British Columbia
+By: The Honourable Justice J. M. Woods
+Appearances:
+Agent for the Appellant:
+Scott McDermid
+Counsel for the Respondent:
+Kristian DeJong
+Amandeep Sandhu
+JUDGMENT
+IT IS ORDERED THAT:
+(a) the appeal with respect to a disability tax credit determination made under the Income Tax Act with respect to the appellant’s son is allowed, and the determination is referred back to the Minister of National Revenue for reconsideration and re-determination on the basis that the appellant is entitled to such disability tax credit beginning in the 2008 taxation year;
+(b) the appeal with respect to a disability tax credit determination made under the Income Tax Act with respect to the appellant’s daughter is dismissed; and
+(c) the parties shall bear their own costs.
+Signed at Toronto, Ontario this 3rd day of September 2014.
+“J. M. Woods”
+Woods J.
+Citation: 2014 TCC 264
+Date: 20140903
+Docket: 2013-2570(IT)I
+BETWEEN:
+LESLIE McDERMID,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns a disability tax credit (DTC) claimed by Leslie McDermid with respect to her son and daughter who have been diagnosed with learning disabilities. At the time of the hearing, the son was 12, the daughter was 8, and both attended a private school for children with learning disabilities. The Minister of National Revenue disallowed the DTC claims by way of Notices of Determination dated August 23, 2012.
+[2] Ms. McDermid is a former Montessori teacher who gave up teaching due to the extraordinary needs of her four children. Ms. McDermid’s spouse, Scott, works part-time in order to assist. According to the testimony of a psychologist who assessed the children for learning disabilities, the McDermids are remarkable parents who have provided their children with tremendous support.
+[3] At the hearing which was conducted over two days, Mr. McDermid represented his spouse and provided the main testimony on her behalf. Mr. McDermid also has a learning disability and was assisted at the hearing by Rick Moore, who has a son with a learning disability.
+[4] The Crown subpoenaed two medical practitioners who had signed certificates in this matter, Dr. Emily Piper and Dr. Richard Horner.
+Background [5] The DTC in section 118.3 of the Income Tax Act provides a credit against tax that is intended to offset extra expenses that individuals with severe physical or mental impairments would be expected to incur.
+[6] In 2012, Ms. McDermid applied for the DTC on the basis that her son and daughter met the criteria from birth by reason of having marked restrictions in their mental functions.
+[7] The relevant statutory requirements are:
+a) the impairment is severe,
+b) the impairment is prolonged, in the sense of lasting for at least 12 months,
+c) the person is unable, all or substantially all of the time, to perform the mental functions necessary for everyday life, or can only do so by taking an inordinate amount of time, and
+d) a medical doctor or psychologist has certified in prescribed form that the above conditions are satisfied.
+[8] In this case, the certificate requirement is not in issue. Having a positive certificate is not the end of the matter, however. The Court must also be satisfied that the certificate is correct.
+Analysis [9] I begin with the general principles to be applied in interpreting this provision as set out by Bowman J. in Radage v The Queen, 96 DTC 1615 (TCC). Radage dealt with an older version of the DTC, but many of the former Chief Justice’s comments remain true. Of particular relevance here are two general principles:
+- the provisions should be construed liberally, humanely and compassionately and not narrowly and technically, and
+- the impairment must be of such a severity that it renders the person incapable of performing such mental tasks as will enable him or her to function independently and with reasonable competence in everyday life.
+[10] Based on the assumptions of fact stated in the Reply, it appears that the Minister relied in large part on information given by Dr. Piper in a supplementary form. In accordance with Dr. Piper’s responses, the Minister concluded that the children were capable of performing mental tasks except when under stress. Therefore, the Minister concluded that mental functions were not severely impaired all or substantially all of the time.
+[11] In Mr. Moore’s cross-examination of Dr. Piper, he took aim at the form that the Minister relied on, and in particular the check-the-box format. In the questioning, Mr. Moore suggested that the form did not fit the circumstances in this case, and that it gave a misleading picture of the children’s disabilities.
+[12] To illustrate Mr. Moore’s argument, I reproduce below one of the questions in the form, which is similar in style to several others.
+Which statement describes your patient’s ability to perform the basic skills of daily living (e.g., managing personal hygiene, or playing with peers)? Your patient:
+a)___ is able to perform these skills at an age-appropriate level.
+b)___ requires assistance or takes an inordinate amount of time to perform them, but ONLY with complex tasks (e.g., completing homework), during periods of exacerbation or in stressful situations.
+c)___ requires continuous assistance or takes an inordinate amount of time to perform them all or substantially all of the time, 90% of the time.
+[13] Dr. Piper checked b) to this question and similar ones in the form. When asked on cross-examination why she ticked this box, she testified that she had trouble with the form and assumed that c) applied only if the child is essentially unable to perform any basic activity of daily living. She thought that the check-the-box choices were extreme – (a) is no disability, (b) is a moderate disability, and (c) requires continuous assistance.
+[14] I agree with Dr. Piper’s interpretation of the form, and I agree with the suggestion of Mr. Moore that the check-the-box format can give a misleading picture of the disability.
+[15] The legislation does not require a severe impairment with respect to all daily activities. It merely requires that mental functions be severely impaired all or substantially all of the time. For example, a child may qualify for the DTC with a severe impairment with respect to remembering, and yet be able to eat and dress herself. To qualify, it is not necessary that the child be unable to perform any activity on her own.
+[16] In my view, the Minister’s reliance on this form was misplaced and Dr. Piper’s answers to these types of questions should be disregarded.
+[17] I turn now to other evidence with respect to the children’s impairments.
+[18] Both children were given psychoeducational assessments by Dr. Piper and were found to have learning disabilities. The son was assessed in 2008 and again in 2010. The daughter was assessed in 2012. In addition, Dr. Piper filled out the DTC certificates in 2012.
+[19] Dr. Horner, the family doctor, also filled out a DTC certificate, but his assessment was not detailed enough to be helpful in this proceeding.
+[20] In 2010, Dr. Piper assessed the son (age 9 at the time) as having improved in many areas since the prior assessment in 2008. However, at age 9 the son continued to score very low in written language skills and auditory working memory. The auditory working memory problem made it difficult for the son to remember anything in sequence. Instructions needed to be kept very simple. The problem was illustrated by the son not being able to remember a coach’s instructions on a soccer field. I would also note that, based on a report by the son’s teacher, Dr. Piper concluded that the son had attention problems “high enough to warrant concern, although sub clinical.”
+[21] In 2010, Dr. Piper assessed the daughter (age 7 at the time) as having low academic scores which evidenced a learning disability which could not be specified at her young age. It was also noted that the daughter had significant difficulties with stress. As for reports from the daughter’s teacher, all scores were within the normal range.
+[22] The testimony of the parents is particularly important in a case such as this because they are uniquely aware of the children’s daily routine. (See also Bowman C.J. in McNaughton v The Queen, 2005 TCC 714, at para. 9.)
+[23] Mr. McDermid gave the most detailed testimony. With respect to his son, Mr. McDermid described that significant parental supervision was required for a broad range of activities, including the morning routine before school and social activities. With respect to his daughter, the evidence suggested that she needed support to help with anxiety and that she was a slow learner.
+[24] Based on the evidence as a whole, I am persuaded that the son’s disability qualifies for the DTC, mainly due to the auditory working memory problem which required significant parental support. With respect to the daughter, I find that the evidence was not persuasive that her impairment in daily activities was severe enough to qualify for the DTC. Of course, this may change as the daughter becomes older and her daily activities become more complex.
+[25] In light of these conclusions, the appeal will be allowed, but only with respect to the son’s disability. It remains to be considered which taxation years are affected.
+[26] Ms. McDermid applied for the DTC for her son since birth. There is not a sufficient evidentiary basis to grant the DTC for years prior to the first assessment conducted by Dr. Piper in 2008. The son was in grade 1 at this time.
+[27] In the result, the Minister’s determination with respect to the son will be referred back for re-determination on the basis that the son’s disability qualifies for the DTC for taxation years beginning in 2008.
+[28] In light of mixed success, each party shall bear their own costs.
+Signed at Toronto, Ontario, this 3rd day of September 2014.
+“J. M. Woods”
+Woods J.
+CITATION:
+2014 TCC 264
+COURT FILE NO.:
+2013-2570(IT)I
+STYLE OF CAUSE:
+LESLIE McDERMID and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 5 and June 18, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+September 3, 2014
+APPEARANCES:
+Agent for the Appellant:
+Scott McDermid
+Counsel for the Respondent:
+Kristian DeJong
+Amandeep Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

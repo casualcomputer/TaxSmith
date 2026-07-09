@@ -1,0 +1,237 @@
+---
+title: "Syndicat des copropriétaires le Sommet Entre Ville et Montagnes c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521033/index.do"
+last_modified: "2022-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 167"
+citation2: ""
+neutral_citation: "2022 CCI 167"
+decision_date: "2022-12-19"
+language: "fr"
+item_id: "521033"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5767
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:01:33.954000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5812044ba96d4d6e0ba5ea61a54e893ba082accd6f171d8f767d1dbdd651e3d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Syndicat des copropriétaires le Sommet Entre Ville et Montagnes c. M.R.N.
+
+- Citation: 2022 CCI 167
+- Decision date: 2022-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5767, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syndicat des copropriétaires le Sommet Entre Ville et Montagnes c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-12-19
+Référence neutre
+2022 CCI 167
+Numéro de dossier
+2019-2136(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2019-2136(EI)
+ENTRE :
+SYNDICAT DES COPROPRIÉTAIRES LE SOMMET
+ENTRE VILLE ET MONTAGNES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu le 27 octobre 2022, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Nicholas Thiffault
+Avocate de l'intimé :
+Me Anna Kirk
+JUGEMENT
+L’appel à l’encontre de la détermination du ministre du Revenu national par des lettres datées du 10 mai 2019 à l’effet que monsieur Gilbert Fortier occupait un emploi auprès de l’appelant et que cet emploi était assurable pendant la période du 1er janvier 2018 au 17 septembre 2018 est rejeté et la détermination du ministre est confirmée, conformément aux motifs de jugement ci-joints.
+Signé à Montréal, Canada, ce 19e jour de décembre 2022.
+« Réal Favreau »
+Juge Favreau
+Référence : 2022 CCI 167
+Date : 20221219
+Dossier : 2019-2136(EI)
+ENTRE :
+SYNDICAT DES COPROPRIÉTAIRES LE SOMMET
+ENTRE VILLE ET MONTAGNES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant interjette appel d’une décision du ministre du Revenu national (le « ministre ») en application de la Loi sur l’assurance-emploi, L.C. 1996, ch. 23 (la « Loi »), en ce qui concerne l’assurabilité de l’emploi de monsieur Gilbert Fortier (le « travailleur ») commençant le 1er janvier 2018 au 17 septembre 2018 (la « période en litige »).
+[2] L’appelant fait appel de la décision du ministre datée du 10 mai 2019 selon laquelle l’emploi du travailleur auprès de l’appelant était un emploi assurable pendant la période en litige.
+[3] L’origine du litige vient d’une demande que le travailleur a adressé le 28 août 2018 à l’Agence du Revenu du Canada (l’« ARC ») visant à déterminer le statut de l’emploi qu’il occupait auprès de l’appelant durant la période en litige aux fins de la Loi.
+[4] Le travailleur et l’appelant ont été informés, par des lettres datées du 21 septembre 2018, qu’il avait été décidé que le travailleur était un employé de l’appelant et que son emploi était assurable durant la période en litige en vertu de l’alinéa 5(1) a) de la Loi.
+[5] Par une lettre datée du 30 octobre 2018, l’appelant a interjeté appel de la détermination de l’intimé, laquelle détermination a par la suite été confirmée par des lettres datées du 10 mai 2019 adressées à l’appelant et au travailleur.
+[6] Pour rendre sa décision, l’intimé a pris pour acquis les hypothèses de fait suivantes énoncées au paragraphe 8 de la Réponse à l’avis d’appel :
+l’appelant œuvre dans le domaine de l’exploitation de bâtiments résidentiels et de logements;
+l’appelant est un organisme à but non lucratif;
+l’appelant a été légalement constitué le 25 mars 2019;
+l’appelant appartient aux copropriétaires des condominiums situé (sic) au 19200, boul. Henri-Bourassa, Ville de Québec (Québec);
+M. Morin était le gérant de l’appelant;
+le travailleur a été engagé en tant que concierge par M. Morin;
+l’entente écrite entre l’appelant et le travailleur (les « parties ») a eu lieu dans la province du Québec le 17 avril 2017;
+les parties ne partageaient pas d’intention commune quant au statut d’emploi du travailleur;
+le travailleur se considérait tel un employé de l’appelant;
+les tâches du travailleur comprenaient :
+l’entretien des aires extérieures;
+l’entretien de la piscine, du spa nature et de la surface de repos;
+l’entretien des aires intérieures et du centre sportif;
+l’enlèvement de la neige sur les entrées et chemins piétonniers;
+la gestion de l’enlèvement des matières résiduelles (ordures) et des matières recyclables;
+l’administration d’une petite caisse du 200.00$; et
+la gestion des réservations de la salle de réception et de la suite d’invité;
+M. Morin et le concierge précédant le travailleur ont chacun fourni une formation au travailleur;
+M. Morin établissait les tâches du travailleur;
+M. Morin donnait des directives précises au travailleur sur le travail à accomplir et la manière de le faire;
+le travailleur rendait compte à M. Morin;
+l’appelant exigeait que le travailleur exécute un horaire minimal quotidien de 7,5 heures du lundi au vendredi, et de 2,5 heures le samedi;
+le travailleur devait être disponible en cas d’urgence en-dehors dudit horaire;
+le travailleur devait respecter les consignes d’heures de travail de l’appelant;
+l’appelant a déterminé la méthode, le montant et la fréquence de la rétribution du travailleur;
+l’appelant versait un salaire fixe annuel de 52,000 $ au travailleur, peu importe ses heures travaillées;
+l’appelant rémunérait le travailleur sur une base semi-mensuelle;
+l’appelant rémunérait le travailleur pour les jours fériés;
+l’appelant versait un taux horaire de 25 $ au travailleur pour les jours fériés et les urgences, en sus de son salaire habituel;
+le travailleur ne devait pas soumettre de factures à l’appelant pour être rémunéré;
+le travailleur utilisait son véhicule personnel ainsi que ses petits outils;
+l’appelant versait au travailleur une indemnité au kilomètre pour l’utilisation de son véhicule;
+l’appelant fournissait au travailleur les équipements et matières premières nécessaires pour l’exécution de son travail tels que les équipements et produits d’entretien de la piscine et du spa;
+le travailleur devait aviser M. Morin s’il ne pouvait pas se présenter au travail;
+le travailleur devait obtenir la permission de l’appelant pour se faire remplacer;
+l’appelant était responsable de rémunérer les remplaçants ou assistants du travailleur;
+le travailleur devait compléter un formulaire d’entretien hebdomadaire;
+M. Morin pouvait vérifier le travail du travailleur en consultant ledit formulaire;
+M. Morin pouvait critiquer le travailleur;
+l’appelant garantissait le travail de (sic) l’appelant (sic) auprès des copropriétaires;
+l’appelant avait fourni au travailleur un gilet identifié au logo de l’appelant;
+les activités du travailleur étaient pleinement intégrées à celles de l’appelant;
+les plaintes relatives au travail du travailleur étaient adressées à l’appelant;
+M. Morin était responsable de résoudre lesdites plaintes;
+l’appelant a mis fin aux services du travailleur le 9 novembre 2018; et
+l’appelant a versé au travailleur une indemnité correspondant à un mois de prestation de services suite à cette mise-à-pied.
+[7] Le travailleur a été le seul à témoigner à l’audience et certaines précisions ont été apportées aux hypothèses de fait retenues par l’intimé.
+[8] Le travailleur a précisé que, lorsqu’il a signé l’entente écrite avec l’appelant, il ne comprenait pas la portée des dispositions relatives à son statut. Il n’avait jamais agi auparavant à titre de travailleur autonome et il se croyait être un employé vu que des jours fériés étaient payés. Les modalités de l’entente ont été dictées par l’appelant et il n’y a pas eu de véritables négociations entre les parties. L’entente a été préparée par l’appelant et soumise au travailleur pour signature. Le travailleur a, de plus, précisé que pendant la période en litige, il n’occupait pas d’autres emplois, qu’il n’avait pas d’autres clients et qu’il ne faisait pas de publicité pour en obtenir d’autres.
+[9] Les tâches du travailleur étaient décrites à l’entente et dans les annexes détaillées d’entretien hebdomadaire et bimensuel des travaux à exécuter à l’immeuble de l’appelant. Le travailleur a indiqué qu’au début, il remplissait les annexes en question mais comme M. Morin ne les vérifiait pas, il a cessé de les remplir et l’appelant ne les a pas exigées par la suite.
+[10] Contrairement aux exigences de l’entente, le travailleur n’a jamais fourni de produits (papiers hygiéniques et autres) et équipements légers de nettoyage. Le travailleur a précisé que le seul bien mis à la disposition de l’appelant était son automobile personnelle parce qu’elle était nécessaire pour sortir les vidanges. L’appelant a d’ailleurs fourni une boule d’attache au travailleur pour lui permettre d’exécuter cette tâche. Selon le travailleur, tous les achats de biens utilisés pour exécuter ses tâches étaient remboursés par l’appelant sur production de factures. Le travailleur a également indiqué que l’appelant lui avait fourni un téléphone cellulaire qu’il a rapidement remis parce qu’il recevait trop d’appels des membres de l’appelant.
+[11] Le travailleur a reconnu s’être fait remplacé à l’occasion pas sa sœur s’il ne pouvait pas se présenter au travail après en avoir au préalable informé l’appelant. L’appelant a précisé qu’il n’a pas rémunéré sa sœur pour lesdits services et qu’il ne désirait pas engager qui que ce soit en sous-traitance.
+[12] Conformément aux modalités de l’entente, le travailleur a reconnu avoir souscrit une assurance responsabilité pour couvrir ses actions exécutées dans le cadre de ses tâches et avoir émis des factures de taxes sur les biens et services suite à une recommandation de son comptable.
+[13] Parmi les documents mis en preuve lors de l’audience, on retrouve un échange de lettres entre le travailleur et l’appelant concernant le non-renouvellement de l’entente initiale. Par une lettre datée du 5 juin 2018, le travailleur a demandé que le nouveau contrat soit un contrat de salarié à compter du 1er août 2018. Vu l’absence de réponse de la part de l’appelant, le travailleur a informé l’appelant par une lettre datée du 31 juillet 2018 du non-renouvellement de l’entente initiale. Suite à cette lettre, il y a eu une période de renégociations au cours de laquelle le travailleur a fait une proposition écrite datée du 23 août 2018, qui a été soumise au conseil d’administration qui l’a refusée. L’appelant a définitivement mis fin à l’entente initiale avec le travailleur par une lettre datée du 9 novembre 2018.
+[14] La déclaration de revenus du travailleur pour l’année d’imposition 2018 a également été mise en preuve. Le travailleur a rapporté le revenu tiré de l’entente avec l’appelant comme revenu d’emploi à la ligne 101 parce que l’appelant avait émis des relevés T4 pour l’année 2018 du travailleur. Les relevés T4 ont été émis sous protêt par l’appelant suite à la décision initiale de l’ARC de traiter l’emploi du travailleur comme un emploi assurable.
+[15] Le 11 septembre 2019, le travailleur a signé une déclaration assermentée dans laquelle il confirme notamment, que pour les années 2017 et 2018, il a toujours agi en tant que travailleur autonome/entrepreneur indépendant dans le cadre de l’entente avec l’appelant et qu’il n’a jamais eu une relation d’emploi avec l’appelant.
+[16] Le 2 décembre 2019, une transaction est intervenue entre l’appelant et l’Agence du Revenu du Québec (L’« ARQ ») par laquelle l’ARQ a annulée sa décision antérieure à l’effet que le travailleur était un salarié de l’appelant pour la période du 1er janvier au 9 novembre 2018 et s’est engagée à rendre une nouvelle décision à l’effet que le travailleur était plutôt un travailleur autonome relativement à son travail auprès de l’appelant. Le travailleur n’était pas parti à cette transaction.
+[17] Le 19 décembre 2019, le travailleur a signé une nouvelle déclaration assermentée dans laquelle il explique les circonstances qui ont entouré la signature de la déclaration du 11 septembre 2019 et il déclare que tous les faits déclarés dans l’ensemble des documents soumis à l’intimé et à l’ARQ depuis le 24 août 2018 dans le cadre de l’évaluation de son statut d’emploi auprès de l’appelant représentent la situation réelle de son emploi en 2018 avec l’appelant, contrairement à ce qui est écrit dans sa déclaration assermentée du 11 septembre 2019.
+I. Le droit
+[18] La définition d’un emploi assurable aux fins du présent litige est prévue à l’alinéa 5(1) a) de la Loi qui se lit comme suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+(a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[19] Comme l’entente conclue entre le travailleur et l’appelant a été conclue au Québec, cette entente doit être interprétée à la lumière des dispositions du Code Civil du Québec, RLRQ c. C.C.Q. - 1991, c.64 (le « Code Civil »). Les dispositions pertinentes du Code Civil aux fins du présent litige sont les suivantes :
+SECTION IV
+DE L’INTERPRÉTATION DU CONTRAT
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+…
+CHAPITRE SEPTIÈME
+DU CONTRAT DE TRAVAIL
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+…
+CHAPITRE HUITIÈME
+DU CONTRAT D’ENTREPRISE OU DE SERVICE
+SECTION I
+DE LA NATURE ET DE L’ÉTENDUE DU CONTRAT
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[20] Le droit civil québécois définit les éléments constitutifs requis pour l’existence d’un contrat de travail ou d’un contrat d’entreprise ou de services.
+[21] Le contrat de travail se caractérise par une prestation de travail, une rémunération et un lien de subordination de la part de la personne qui effectue le travail envers la personne qui a retenu ses services. Un lien de subordination existe lorsque le donneur d’ouvrage exerce un contrôle sur la personne qui effectue le travail.
+[22] Un contrat d’entreprise ou de services requiert une absence du lien de subordination entre l’entrepreneur ou le prestataire de services et le client concernant l’exécution du contrat. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat.
+[23] En droit civil québécois, l’intention des parties à un contrat est un facteur important dont il faut tenir compte dans l’interprétation d’un contrat. Par contre, l’intention des parties n’est pas à elle seule déterminante pour la qualification d’un contrat. Le comportement des parties dans l’exécution du contrat doit refléter cette intention commune, à défaut de quoi la qualification du contrat se fera en fonction de la réalité factuelle et non par rapport aux prétentions des parties.
+[24] En plus des critères de distinction élaborées par le Code Civil, des critères ont été développés en common law pour analyser la relation entre les parties. Ces critères de la common law qui sont qualifiés d’indices d’encadrement peuvent être utiles pour déterminer la qualification juridique d’un contrat de travail ou d’un contrat d’entreprise en droit civil québécois. Ces autres critères mis de l’avant par la common law sont (1) le contrôle, (2) la propriété des outils, (3) l’expectative de profits et les risques de pertes ainsi que (4) l’intégration dans l’entreprise. Le critère essentiel pour déterminer l’existence d’une relation employeur-employé est celui du contrôle ou du droit de donner des ordres et des instructions sur la manière d’effectuer le travail.
+II. Décision et Discussion
+[25] Après avoir examiné tous les éléments de preuve et considéré le droit applicable en la matière, je conclus que, selon la prépondérance des probabilités, le travailleur était lié à l’appelant par un contrat de travail et que, par conséquent, il occupait un emploi assurable au sens du paragraphe 5(1) de la Loi.
+[26] Les facteurs suivants ont été considérés dans le cadre de ma décision.
+Intention
+[27] Selon les termes mêmes de l’entente conclue entre l’appelant et le travailleur et selon la façon dont l’entente a été négociée et officialisée, il est évident que l’appelant avait l’intention subjective d’établir une relation de client/entrepreneur. L’appelant voulait exercer un contrôle sur le travailleur mais il ne voulait pas assumer la responsabilité d’un tel contrôle.
+[28] Pour le travailleur, la situation n’est pas aussi claire. Il n’avait jamais été travailleur autonome auparavant et il n’avait pas l’intention de le devenir non plus. Il ne comprenait pas bien la distinction entre un contrat de travail et un contrat d’entreprise ou de services, ni l’impôt et les effets de l’un ou l’autre contrat.
+[29] Dans les circonstances, la Cour doit établir si la réalité objective confirme l’intention subjective des parties en examinant si les faits sont conformes à l’intention exprimée par les parties.
+[30] Je n’accorde aucune valeur probante à la transaction conclue par l’appelant avec l’ARQ parce que le travailleur n’était pas parti à cette entente, ni à la déclaration assermentée du travailleur du 11 septembre 2019 parce que cette déclaration a été soumise et exigée par l’appelant dans le cadre du règlement final en litige découlant du non-renouvellement de l’entente du 17 avril 2017.
+Contrôle et subordination
+[31] Il s’agit du facteur le plus important à prendre en considération. La subordination et le contrôle sont les éléments essentiels au contrat de travail.
+[32] À mon avis, les faits en l’espèce démontrent que le travailleur était sous la subordination et le contrôle de M. Michel Morin, le gérant de l’appelant.
+[33] Le travail que le travailleur devait exécuter était de nature routinière et répétitive et ne requerrait pas ou peu de surveillance. Par contre, l’encadrement du travail était vraiment exhaustif en ce sens que le travailleur devait remplir et compléter les annexes d’entretien hebdomadaire et bimensuel et les formulaires d’étapes des travaux à être exécutés par le travailleur. Ces listes de travaux étaient extrêmement précises non seulement quant à la nature des travaux à être effectués mais également quant aux jours de la semaine où ces travaux devaient être effectués.
+[34] Ces listes de tâches très précises offraient à l’appelant la possibilité de contrôler l’exécution du travail de l’appelant, que ce contrôle ait été exercé ou non.
+[35] Selon l’entente, l’enveloppe horaire prévue pour exécuter les travaux était de 40 heures par semaine par plage d’environ 7.5 heures par jour du lundi au vendredi inclusivement et de 2.5 heures le samedi. Le travailleur devait être présent à l’édifice de l’appelant ou au travail pour l’appelant durant cette plage horaire. Cet horaire de travail imposait au travailleur une obligation de disponibilité qui est normalement une caractéristique d’un contrat de travail.
+Outils et équipements
+[36] L’appelant fournissait les outils, les équipements (incluant un téléphone cellulaire) et le matériel de nettoyage nécessaires pour exécuter les travaux. Le seul outil ou équipement fourni par le travailleur était son automobile pour sortir les bacs de vidanges. Il ne recevait rien pour ce service, mais pour tous les autres usages de son automobile, le travailleur était remboursé au taux de 0,35$ du kilomètre. Les achats de matériel effectués par le travailleur étaient remboursés sur production des factures à même la petite caisse de 200.00$. A mon avis, ce facteur témoigne de l’existence d’un contrat de travail.
+Risques de pertes et de chances de profits
+[37] Le travailleur n’avait aucun risque de pertes ou de chances de profits. Le travailleur ne faisait pas de publicité et n’avait pas d’autres clients. Il n’avait pas d’employés et il ne faisait pas appel à des sous-traitants. À mon avis, ce facteur milite en faveur de l’existence d’un contrat de travail.
+Intégration
+[38] Le travailleur était pleinement intégré dans l’entreprise de l’appelant. Il travaillait à plein temps à l’édifice de l’appelant. Il recevait les plaintes des propriétaires des unités de condominium. Il s’occupait de la location de la suite d’invités et de la salle polyvalente. Le travailleur devait respecter les termes et engagements du code d’éthique de l’appelant. Ce facteur témoigne également du fait qu’il s’agissait d’un contrat de travail.
+III. Conclusion
+[39] Selon la prépondérance des probabilités, je conclus que, malgré l’intention commune apparente de l’appelant et du travailleur de conclure un contrat d’entreprise ou de services, le travailleur effectuait en fait son travail aux termes d’un contrat de travail et que, par conséquent, il occupait un emploi assurable au sens du paragraphe 5(1) de la Loi.
+[40] L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2022.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2022 CCI 167
+Nº DU DOSSIER DE LA COUR :
+2019-2136(EI)
+INTITULÉ DE LA CAUSE :
+SYNDICAT DES COPROPRIÉTAIRES LE SOMMET ENTRE VILLE ET MONTAGNES ET M.R.N.
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 27 octobre 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 19 décembre 2022
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Nicholas Thiffault
+Avocate de l'intimé :
+Me Anna Kirk
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Me Nicholas Thiffault
+Cabinet :
+GBV Avocats
+Québec, Québec
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

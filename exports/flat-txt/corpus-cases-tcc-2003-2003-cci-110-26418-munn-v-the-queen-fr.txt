@@ -1,0 +1,105 @@
+Title: Munn v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26418/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-110-26418-munn-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-03-17
+
+# Munn v. The Queen
+
+- Citation: 2003 CCI 110
+- Decision date: 2003-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3169, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Munn v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-17
+Référence neutre
+2003 CCI 110
+Numéro de dossier
+2002-3036(GST)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-3036(GST)I
+ENTRE :
+TODD J. R. H. MUNN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 mars 2003, à Toronto (Ontario)
+Devant : L'honorable juge Michael J. Bonner
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Joel Oliphant
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Partie IX de la Loi sur la taxe d'accise est rejeté.
+Signé à Toronto (Ontario), ce 17e jour de mars 2003.
+« Michael J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI110
+Date: 20030317
+Dossier: 2002-3036(GST)I
+ENTRE :
+TODD J. R. H. MUNN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bonner, C.C.I.
+[1] Il s'agit d'un appel d'une cotisation de taxe en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ). Par cette cotisation, le ministre du Revenu national (le « ministre » ) a refusé d'accorder à l'appelant une déduction de 7 654,50 $ qu'il a demandée au titre d'un crédit de taxe sur intrants relativement à la Taxe sur les produits et services (TPS) payée sur la fourniture d'un camion.
+[2] L'appelant est un particulier inscrit aux fins du paragraphe 240(1) de la Loi. Il exerce des activités de services de camionnage. Pour exercer cette activité, il a acquis un camion Western Star 1998 neuf.
+[3] Les opérations suivantes ont eu lieu :
+a) le camion a été acheté de Hillman's Truck Service par ABN Amro Leasing le 22 mai 1998 à un prix de 109 350 $, plus la TPS de 7 654,50 $, pour un total de 117 004,50 $; et
+b) le camion a été loué à l'appelant par Equipment Express Inc. le 25 mai 1998.
+[4] La preuve n'indique pas clairement la manière dont le titre de propriété du camion a été transmis d'ABN Amro Leasing à Equipment Express mais, selon ce que je comprends du témoignage de l'appelant, il semble que les deux entreprises travaillent ensemble.
+[5] Les modalités du bail à l'appelant étaient les suivantes :
+Coût en capital :
+118 000,00 $
+Conditions
+60 mois
+Taux d'intérêt
+9,5 %
+Paiement mensuel
+2 478,22 $
+TPS
+173,48 $
+TVP
+198,26 $
+TOTAL
+2 849,96 $
+[6] L'appelant a témoigné que le coût en capital de 118 000,00 $ indiqué sur le bail comprenait la TPS de 7 654,50 $ payée par ABN Amro sur l'achat du camion de Hillman's Truck Service. Cela se peut, mais l'appelant n'a produit aucune preuve à l'appui de ce qui est en réalité une hypothèse de sa part. De plus, aucune règle n'empêche un locateur d'intégrer n'importe quel montant au coût en capital du bien à louer. Le coût en capital, comme n'importe quel autre élément du bail, est un montant que les parties au bail doivent négocier. En tout état de cause, c'est à l'égard de la taxe ainsi payée que l'appelant demande le crédit de taxe sur les intrants.
+[7] Le crédit de taxe sur les intrants demandé par l'appelant est régi par le paragraphe 169(1) de la Loi, qui se lit en partie comme suit :
+Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A x B
+où :
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B : ...
+[8] Parce que la somme de 7 654,50 $ n'est ni devenue payable par l'appelant ni n'a été payée par lui à titre de taxe sur la fourniture du camion, le nombre « A » dans la formule de l'article 169 est de zéro et le crédit est également de zéro.
+[9] L'appel doit par conséquent être rejeté.
+Signé à Toronto (Ontario), ce 17e jour de mars 2003.
+« M. J. Bonner »
+J.C.C.I.
+Traduction certifiée conforme
+ce 15e jour de décembre 2004.
+Sophie Debbané, réviseure

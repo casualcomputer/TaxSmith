@@ -1,0 +1,240 @@
+---
+title: "McGillivray Restaurant Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99801/index.do"
+last_modified: "2014-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 357"
+citation2: ""
+neutral_citation: "2014 TCC 357"
+decision_date: "2014-11-28"
+language: "en"
+item_id: "99801"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5225
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:26:05.081000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3502131c9dc62dcdd01ca372505a71495b27d26bbccef2c917132d0bc6d33c4b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McGillivray Restaurant Ltd. v. The Queen
+
+- Citation: 2014 TCC 357
+- Decision date: 2014-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5225, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McGillivray Restaurant Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-28
+Neutral citation
+2014 TCC 357
+File numbers
+2012-2500(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2500(IT)G
+BETWEEN:
+McGILLIVRAY RESTAURANT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 10, 2014, at Winnipeg, Manitoba.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Thor J. Hansell
+Counsel for the Respondent:
+Julien Bédard
+Neil Goodridge
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act with respect to the Appellant’s 2007, 2008 and 2009 taxation years is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of November 2014.
+“Patrick Boyle”
+Boyle J.
+Citation: 2014 TCC 357
+Date: 20141128
+Docket: 2012-2500(IT)G
+BETWEEN:
+McGILLIVRAY RESTAURANT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The Appellant is a corporation that operates a Keg restaurant in the City of Winnipeg. A majority of its shares are owned by Ruth Howard. Mrs. Howard’s husband, Gordon Howard, owns the corporations which operate the other two Keg restaurants in Winnipeg, one of which is the Appellant’s landlord for its Keg restaurant, and one of which provides the financing and management services to the Appellant. Mr. Howard was also the sole incorporator and director of the Appellant and its President and Secretary at all relevant times, and he owned 24% of its shares. He also was Operations Director and General Manager for the three Keg restaurants and was responsible for operating the Appellant’s Keg restaurant.
+[2] The tax issue in this case is whether, for the fiscal years 2007 through 2009, the Appellant corporation which is controlled de jure by Mrs. Howard, and the corporations wholly‑owned by her husband were “controlled, directly or indirectly in any manner whatever, by the same person or group of persons” for purposes of the associated corporations rules in paragraph 256(1)(b) of the Income Tax Act (the “Act”) and within the meaning of that phrase set out in subsection 256 (5.1). This will determine whether the Appellant has to share the so‑called small business deduction with Mr. Howard’s corporations or whether it is entitled to its own $500,000 small business income limit.
+[3] The facts are not in dispute. The hearing did not involve any witness testimony. It proceeded entirely based upon a Partial Agreed Statement of Facts, Rule 100 read‑ins by the Crown from the examination for discovery of Mr. Howard, and a two volume Agreed Book of Documents.
+Facts [4] Mr. and Mrs. Howard were married in 1979. They each have university degrees. Since their first child was born, Mrs. Howard has worked primarily as a homemaker. Previously she had been an assistant manager at The Bay and a trust officer with Montreal Trust.
+[5] Mr. Howard started working at a Keg restaurant as a waiter in 1976. He became assistant manager at that restaurant the following year and for the next 20 years remained a long‑term corporate employee of Keg Restaurants Ltd. working in various capacities.
+[6] In late 1997, Keg Restaurants Ltd. franchised a corporation wholly‑owned by Mr. Howard (“GRR”) to operate three Keg restaurants in Winnipeg. The franchisee entered into a Restaurant Development Agreement and three separate Franchise Agreements for restaurants at Garry Street, Portage Avenue and Pembina Highway locations.
+[7] The Restaurant Development Agreement provided that so long as GRR operated at least three Keg restaurants in Winnipeg, neither Keg Restaurants Ltd. nor any franchisee could open a Keg restaurant in the city of Winnipeg unless GRR was given the right of first refusal option to open the new location. GRR’s rights under this agreement were not assignable without the consent of Keg Restaurants Ltd.
+[8] The Franchise Agreements (at least the one for the Pembina Highway location in evidence) provided, among many other things, that the day‑to‑day operation, management and supervision of the restaurant was to be at all times under the complete, direct, exclusive, on‑premises control of a management employee of the franchisee. The franchisee was required to keep the franchisor informed of the identities of its management employees. It does not appear that Mrs. Howard was such an employee. The franchisor’s approval was required for the general manager of the restaurant. The Franchise Agreement also precluded the issue or transfer of any shares of the franchisee GRR without the consent of Keg Restaurants Ltd., and the GRR shares were required to be endorsed with such restrictions. GRR was also required to keep the franchisor Keg Restaurants Ltd. informed of its shareholders, officers and directors. The Franchise Agreement could not be assigned by the franchisee GRR without the consent of Keg Restaurants Ltd.
+[9] The three restaurants were initially in leased premises. As time progressed and the businesses performed well, GRR bought a new location on Portage Avenue, and built a new restaurant to replace the original Portage Avenue location. Later, in about 2004, Mr. Howard wanted to relocate the Pembina Highway location to the corner of McGillivray Boulevard and Dovercourt Drive.
+[10] GRR’s offer to purchase the McGillivray lot was in July 2004. The necessary consents were obtained from Keg Restaurants Ltd. to relocate and for the new restaurant building to be built. It had been recommended to Mr. Howard and decided by Mr. Howard, that the real property would be held by a new corporation incorporated for this purpose (“MorCourt”), which was wholly‑owned by Mr. Howard. MorCourt’s beneficial interest was held through a numbered company also wholly‑owned by Mr. Howard. MorCourt also became the owner of the Portage Avenue location’s real property. As with GRR, Mr. Howard was the sole shareholder, sole director and the President and Secretary of MorCourt.
+[11] At the same time it was also recommended to Mr. Howard that the McGillivray location be operated by another new corporation, the Appellant McGillivray Restaurant Ltd.
+[12] McGillivray Restaurant Ltd. was incorporated in 2005 by Mr. Howard as incorporator. He was its first and only director and its President and Secretary. The Articles of Incorporation required the unanimous consent of the directors for any transfer of shares of the corporation. Mr. Howard was elected the sole director by a resolution of the shareholders. By Director’s Resolution, the number of directors was limited to one unless otherwise designated by the directors. By Director’s Resolution, the President alone was appointed signing officer for the Appellant’s banking. The share subscriptions in evidence indicate that Mrs. Howard paid $76 for her 760 common shares and that Mr. Howard paid $24 for the remaining 240 common shares. (The Partial Agreed Statement of Facts says Mrs. Howard paid $100 ‑ the difference is not material.)
+[13] Mr. Howard understood that it was important that his wife have 76% of the common shares. His understanding was that, at that level, the new corporation would be fully independent of the existing corporations. At the same time his understanding was that, once incorporated and organized, he would not need his wife’s approval to make any decision on behalf of the Appellant.
+[14] According to Mr. Howard, he decided to proceed in this recommended way after not much consultation with his wife. He told her that “seeing that you’re somewhat involved through living with a restaurant person” it was recommended that she become a 76% shareholder. She said it was fine with her to own the stake he proposed to her. He assured her that she did not have to do anything, that they would continue to operate as they always had. Mrs. Howard did not accompany him to his advisors or to sign the documents. Presumably she signed documents taken home to her.
+[15] The Franchise Agreement for the Pembina location was assigned by GRR to the Appellant with the consent of Keg Restaurants Ltd. Keg Restaurants Ltd. wanted to know the Appellant’s corporate structure and who would actually be involved running the restaurant. Mr. Howard told them that he would be running the Appellant. Mrs. Howard was never involved in, or party to, any discussions with Keg Restaurants Ltd. Thereafter the terms of the Franchise Agreement described above applied equally to, and in respect of, McGillivray Restaurant Ltd.
+[16] The Pembina Highway location closed on December 2nd, 2005. The McGillivray location opened 10 days later. The restaurant manager and management team had been told by Mr. Howard that they would start working for the Appellant which was majority owned by his wife, but that things would go on pretty much as they were except for increased sales. He could not recall but, had anyone asked, he would have assured them that he personally would continue to run things. Similarly, most of the non‑management restaurant staff also moved to the McGillivray location and would have understood that business would continue as usual but their pay cheques would show the new name.
+[17] There does not appear to have been any evidence regarding the mechanics of the transfer to the Appellant of any other of GRR’s tangible or intangible assets relating to the Pembina Highway location.
+[18] According to Mr. Howard, the running and operation of all three restaurants in fact remained the same, except that sales increased at the new location as compared with the closed Pembina Highway location.
+[19] Mrs. Howard had never been much involved with any of the restaurants’ operations according to Mr. Howard, and this did not change with the McGillivray location operations. According to him, her involvement with the restaurants consisted of hearing about them from him, especially on big things, offering her opinion from time‑to‑time, offering her advice on running the steakhouse from a woman’s point of view, and being his confidante with respect to bank security over their personal assets. She had always been responsible for plants on the restaurants’ patios, and during the taxation years in question she was responsible for hiring the people responsible for the plants. Mr. Howard said his wife was involved in the office to a certain extent, but not much. (The head office of the Appellant, GRR and MorCourt in the taxation years in issue was on the second floor of the McGillivray location building. The Appellant leased the first floor from MorCourt for its restaurant.) This was the same as before the incorporation of the Appellant and the opening of the McGillivray location. Her employment remained with GRR and her only T4 income was her salary from GRR until December 2010. He described her as being employed by GRR in a small way in the years in question. Her GRR work for the restaurants was done at the office and in restaurants. Mr. Howard explained that dining was work in the restaurant business. He estimated she typically spent a few hours a week assisting all three restaurants by evaluating serving staff, food, decor and atmosphere, coordinating patio decor, observing and following up on standards, and evaluating competitor restaurants.
+[20] The administration, accounting, head office and similar functions for the McGillivray location restaurant were all provided to the Appellant by GRR for which a management fee was charged. There was no written management agreement in the years in question. The Appellant’s day to day bookkeeping was done by an employee of GRR. The Appellant’s books and records, including the recording of all revenue and expenses, were prepared by a GRR employee. Certain expenses of Mr. Howard were split equally by the three restaurants and the Appellant’s share was allocated to it at year‑end.
+[21] The Appellant had opened its own bank account after it was incorporated. However, it remained dormant and was never used. GRR’s bank account was used for all three restaurants including the Appellant’s. Cheques were approved and signed by Mr. Howard.
+[22] GRR’s 2007 through 2009 Combined Financial Statements were put in evidence. These Combined Financial Statements indicate they were prepared for the purpose of GRR’s bank and include the accounts of the Appellant, related by virtue of related party ownership, and MorCourt, related by virtue of common ownership. It appears from these financial statements that GRR’s operations on such a combined basis were financed with a sizable GRR bank line and a significant loan from GRR’s shareholder, Mr. Howard. There was no information in evidence on the allocation of GRR’s consolidated debt or GRR’s own debt used to finance the Appellant and/or its business, including the operating debt.
+[23] The Appellant’s 2007 through 2009 Financial Statements were put in evidence. The significant amounts due to or from GRR are recorded as amounts due to or from a related party. By the end of 2009 the Appellant’s advances to GRR had increased from somewhat less than $1 MM to somewhat more than $1.2 MM at the end of the fiscal year. These advances were non interest bearing, had no set repayment terms, and were unsecured. GRR and MorCourt were identified as related parties for the Appellant’s financial statements purposes by virtue of related party ownership. The Appellant’s financial statements note that the Appellant provided an unlimited guarantee of all of GRR’s debt to CIBC (in excess of $2 MM at the end of the 2007 and 2008 fiscal years and nil at the end of the 2009 fiscal year). It appears from the note to GRR’s Combined Financial Statements that the Appellant’s guarantee was also supported by a General Security Agreement in favour of the bank. The Appellant was not reimbursed by GRR for the risk assumed.
+[24] According to the Appellant’s 2009 financial statements, its retained earnings were in excess of one million dollars. Mrs. Howard had bought her 76% share ownership for no more than $100 just a few years earlier. There was no evidence that she ever provided any further financing or financial support directly or indirectly to the Appellant other than her personal guarantee to Keg Restaurants Ltd.
+[25] Mr. and Mrs. Howard were both guarantors of the liabilities of the Appellant and GRR to Keg Restaurants Ltd. It appears from GRR’s Combined Financial Statements that only Mr. Howard personally guaranteed GRR’s bank debt and that was limited to $500,000. There was no evidence of Mrs. Howard’s net worth, other assets, or other sources of income, so the potential exposure and value of her guarantee remains unknown.
+[26] None of the financial statements were ever reviewed by Mrs. Howard. She would know from her husband if things were going well.
+[27] Mr. Howard’s T4 income in 2006 and in 2007 was all from GRR. In 2008 approximately 10% of his T4 income was from the Appellant.
+[28] Mr. Howard was the sole director and the President and Secretary of the Appellant; as such, he had control of the day‑to‑day management and operations of the Appellant.
+[29] Mr. Howard was the Operations Director and General Manager for all three Keg restaurants. The general manager of the McGillivray location reported to Mr. Howard.
+[30] Mr. Howard did not require Mrs. Howard’s approval for any of his actions on behalf of the Appellant.
+[31] Mr. Howard could and did execute contracts, conduct banking, borrow money, provide guarantees, and appoint agents on behalf of the Appellant in the years in question.
+[32] Mrs. Howard could, as majority shareholder, have terminated Mr. Howard as director, President and/or Secretary of the Appellant at any time had she wished. She did not. She would, of course, have to make sure the Appellant complied with its obligations to Keg Restaurants Ltd. relating thereto. There may also have been potential consequences to consider with respect to the Appellant’s related party financing transactions and contracted management and other services. She might also have had to consider her personal guarantee to Keg Restaurants Ltd. She might also have had to consider the possible impact of such a step on the value of her shares in the Appellant and on her employment by GRR.
+Law
+256(1) Associated corporations -- For the purposes of this Act, one corporation is associated with another in a taxation year if, at any time in the year,
+256(1) Sociétés associées -- Pour l'application de la présente loi, deux sociétés sont associées l'une à l'autre au cours d'une année d'imposition si, à un moment donné de l'année :
+(…)
+[…]
+(b) both of the corporations were controlled, directly or indirectly in any manner whatever, by the same person or group of persons;
+b) la même personne ou le même groupe de personnes contrôle les deux sociétés, directement ou indirectement, de quelque manière que ce soit;
+(…)
+[…]
+(1.2) Control, etc. -- For the purposes of this subsection and subsections (1), (1.1) and (1.3) to (5),
+(1.2) Précisions sur les notions de contrôle et de propriété des actions -- Pour l'application du présent paragraphe et des paragraphes (1), (1.1) et (1.3) à (5) :
+(…)
+[…]
+(b) for greater certainty,
+b) il est entendu :
+(ii) a corporation may be controlled by a person or a particular group of persons notwithstanding that the corporation is also controlled or deemed to be controlled by another person or group of persons;
+(ii) d'autre part, qu'une personne ou un groupe donné de personnes peut contrôler une société même si une autre personne ou un autre groupe de personnes contrôle aussi ou est réputé contrôler aussi la société;
+(…)
+[…]
+(5.1) Control in fact -- For the purposes of this Act, where the expression “controlled, directly or indirectly in any manner whatever,” is used, a corporation shall be considered to be so controlled by another corporation, person or group of persons (in this subsection referred to as the “controller”) at any time where, at that time, the controller has any direct or indirect influence that, if exercised, would result in control in fact of the corporation, …
+(5.1) Contrôle de fait -- Pour l'application de la présente loi, lorsque l'expression « contrôlée, directement ou indirectement, de quelque manière que ce soit, » est utilisée, une société est considérée comme ainsi contrôlée par une autre société, une personne ou un groupe de personnes — appelé « entité dominante » au présent paragraphe — à un moment donné si, à ce moment, l'entité dominante a une influence directe ou indirecte dont l'exercice entraînerait le contrôle de fait de la société. …
+Analysis [33] In Duha Printers Ltd. (Western) Ltd. v. Her Majesty the Queen), [1998] 1 S.C.R. 795, Justice Iacobucci of the Supreme Court of Canada wrote the following on the meaning of control in the Act prior to the amendments which extended control to include de facto control for associated corporation purposes:
+[35] It has been well recognized that, under the Income Tax Act, "control" of a corporation normally refers to de jure control and not de facto control. This Court has repeatedly cited with approval the following test, set out by Jackett P. in Buckerfield's, supra, at p. 507:
+Many approaches might conceivably be adopted in applying the word "control" in a statute such as the Income Tax Act to a corporation. It might, for example, refer to control by "management", where management and the board of directors are separate, or it might refer to control by the board of directors. . . . The word "control" might conceivably refer to de facto control by one or more shareholders whether or not they hold a majority of shares. I am of the view, however, that in Section 39 of the Income Tax Act [the former section dealing with associated companies], the word "controlled" contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. [Emphasis added.]
+Cases in which this Court has applied the foregoing test have included, inter alia, Dworkin Furs, supra, and Vina-Rug (Canada) Ltd. v. Minister of National Revenue, [1968] S.C.R. 193.
+[36] Thus, de jure control has emerged as the Canadian standard, with the test for such control generally accepted to be whether the controlling party enjoys, by virtue of its shareholdings, the ability to elect the majority of the board of directors. However, it must be recognized at the outset that this test is really an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation. That is, although the directors generally have, by operation of the corporate law statute governing the corporation, the formal right to direct the management of the corporation, the majority shareholder enjoys the indirect exercise of this control through his or her ability to elect the board of directors. Thus, it is in reality the majority shareholder, not the directors per se, who is in effective control of the corporation. This was expressly recognized by Jackett P. when setting out the test in Buckerfield's. Indeed, the very authority cited for the test was the following dictum of Viscount Simon, L.C., in British American Tobacco Co. v. Inland Revenue Commissioners, [1943] 1 All E.R. 13, at p. 15:
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes. [Emphasis added.]
+[37] Viewed in this light, it becomes apparent that to apply formalistically a test like that set out in Buckerfield's, without paying appropriate heed to the reason for the test, can lead to an unfortunately artificial result. The task before this Court, then, is to determine whether, just prior to the amalgamation, Marr's was in effective control of the affairs and fortunes of Duha No. 2 by virtue of its majority shareholdings.
+[34] Clearly, the Supreme Court stresses that, in approaching the issue of de jure control, the objective is to determine who was in effective control as a question of law.
+[35] Subsequent to the introduction of the de facto control language for associated corporations, the Federal Court of Appeal wrote the following in Silicon Graphics Limited v. Her Majesty the Queen, 2002 FCA 260, which has been previously described by the former Chief Justice of this Court in Lenester Sales Ltd. v. Her Majesty the Queen, 2003 TCC 531, affirmed 2004 FCA 217, as the classic statement on the meaning of de facto control:
+[66] The case law suggests that in determining whether de facto control exists it is necessary to examine external agreements (Duha Printers, supra at 825); shareholder resolutions (Société Foncière d'Investissement Inc. v. Canada, [1995] T.C.J. No. 1568, para. 10 (T.C.C.)); and whether any party can change the board of directors or whether any shareholders' agreement gives any party the ability to influence the composition of the board of directors (International Mercantile Factors Ltd. v. The Queen (1990), 90 DTC 6390 at 6399 (F.C.T.D.), aff'd (1994), 94 DTC 6365 (F.C.A.); and Multiview Inc. v. The Queen (1997), 97 DTC 1489 at 1492-93 (T.C.C.)).
+[67] It is therefore my view that in order for there to be a finding of de facto control, a person or group of persons must have the clear right and ability to effect a significant change in the board of directors or the powers of the board of directors or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+[36] In Transport M.L. Couture Inc. v. Her Majesty the Queen, 2004 FCA 23, the Federal Court of Appeal wrote:
+[24] It is not possible to list all the factors which may be useful in determining whether a corporation is subject to de facto control (Duha Printers, [1998] 1 S.C.R. 795, para. [38]). However, whatever factors are considered, they must show that a person or group of persons has the clear right and ability to change the board of directors of the corporation in question or to influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors (Silicon Graphics, [2002] FCA 260, para. [67]). In other words, the evidence must show that the decision-making power of the corporation in question in fact lies elsewhere than with those who have de jure control.
+[25] The trial judge relied primarily on the operational control exercised by Transport Couture, the economic dependence on it of ML1 and ML2 and the family relations between the shareholders as a basis for concluding that Transport Couture in fact controlled ML1 and ML2. The appellant did not challenge the relevance of the factors considered by the trial judge. However, it argued that the evidence did not allow the trial judge to conclude that operational control of ML1 and ML2 was in the hands of Transport Couture or that ML1 and ML2 were economically dependent on Transport Couture.
+[26] In my view, the evidence amply supports the trial judge's decision. As he indicated at paragraph 36 of his reasons, if Transport Couture had decided not to renew its management contract and no longer to retain the services of ML1 and ML2, neither Louis-Marie Couture in the case of ML1 nor his wife in the case of ML2 would have been in a position to pursue the activities of those corporations.
+(…)
+[28] On the question of operational control, the evidence showed that it was the Couture brothers and Claude Rodrigue, manager of Transport Couture, who took all the important decisions and who negotiated truck purchases, loans and financing. Louis-Marie Couture's involvement was nil and that of his wife was limited to one information session a month.
+(…)
+[30] On the last factor considered by the trial judge (the family relationship between shareholders), the following passage from the reasons indicates the relevance and force of that factor in the context of the case at bar (paragraph 38):
+... it is reasonable to believe that Mr. and Ms. Couture counted on their children to take sufficient care of their investments in these two companies. Given their situation as retired persons and Mr. Couture's health, it is reasonable to conclude that they were under the influence of their five sons, who together held all of the shares of Transport Couture ...
+[31] Ultimately, the evidence was that, motivated by the relationship of trust which they had with their five sons, Louis-Marie Couture and his wife relied on Transport Couture and relegated to it all the decision-making powers they held as shareholders of ML1 and ML2.
+[32] In my opinion, therefore, the trial judge properly concluded that Transport Couture was in a position to exercise de facto control over ML1 and ML2 during the relevant period and that ML1, ML2, Transport Couture and 1864 Québec inc. were therefore associated companies within the meaning of subsection 256(1).
+[37] The Federal Court of Appeal upheld the decision of Justice Lamarre of this Court in Mimetix Pharmaceuticals Inc. v. Her Majesty the Queen, 2001 TCJ No. 749, affirmed 2003 FCA 106, in which in considering de facto control, this Court looked to economic controlling influence, control of day‑to‑day operations, controlling the corporation’s fortunes by making all the decisions, who was in an economic position to exert the kind of pressure that would enable him to have his will prevail with respect to that business, and who was authorized to sign all the cheques.
+[38] The Federal Court of Appeal upheld the decision of Justice Lamarre‑Proulx of this Court in Plomberie J.C. Langlois Inc. v. Her Majesty the Queen, 2004 TCC 734, affirmed 2006 FCA 113, wherein this Court decided that in the particular circumstances, where two non de jure controlling unrelated 50‑50 shareholders appointed one of them as sole director, that director had de facto control of the corporation. This court had regards to a legal dictionary definition of control as “dominion over the management of a business or organization; power ensuring the one who has it a dominant influence in the direction of a group, a corporation etc., or the orientation of its future”. Justice Lamarre‑Proulx then decided:
+[40] In my opinion, Mr. Simoneau exercised such dominion over the appellant. As the sole director, he had the power that ensured him a dominant influence in the direction of the appellant. The other shareholder, being an equal shareholder, had the power to remove this authority from him, but did not do so during the years in issue. In conclusion, during those years, Mr. Simoneau exercised control in fact of the appellant within the meaning of subsection 256(5.1) of the Act. As far as the parties were concerned, this was the only point that I had to decide in the instant case.
+[39] In Société Foncière D’Investissement Inc. v. Her Majesty the Queen, [1995] T.C.J. No.1568, former Chief Justice Bowman of this Court wrote:
+[9] Apparently, the Parliament of Canada feared that the words "directly or indirectly in any manner whatever" did not go far enough. It therefore tried to reinforce their effect by means of paragraph 256(5.1).
+[10] I am persuaded that the resolutions adopted by the other shareholders had the effect of giving Mr. Allain practically absolute control over the affairs of S.F.I. During the years in which the resolutions were in effect, he had complete authority to manage all aspects of the corporation's commercial and financial dealings. I admit that the other shareholders had the power to divest him of this authority, but as long as he was permitted to exercise it he was in a position of unlimited control.
+[11] The exception contained in the second part of paragraph 256(5.1) demonstrates the breadth of this provision. That exception exists when the control is derived from certain commercial agreements where the "controller" (Mr. Allain) and the corporation are dealing with each other at arm's length. There was no arm's length dealing between Mr. Allain and the corporation, not only because of the fact that he had very close ties with the corporation he was managing but also because of the fact that the two majority shareholders were his daughters.
+[12] The appeals are accordingly dismissed.
+The Scope of Silicon Graphics: [40] The Federal Court of Appeal is clear in Silicon Graphics in 2002 that, in order for there to be a finding of de facto control, a person or persons must have the clear right and ability to:
+1. Effect a significant change in the board or directors or the powers of the board of directors; or
+2. Influence in a very direct way the shareholders who would otherwise have the ability to elect the board of directors.
+[41] In Transport Couture the trial judge looked to facts concerning operational control, economic dependence and family relations, and referred to Société Foncière’s consideration of the economic, contractual and moral influence over a corporation’s affairs. However, the Federal Court of Appeal in upholding Justice Archambault in its 2004 decision specifically noted that the appellant had not challenged the relevance of the factors considered by the trial judge.
+[42] In Lenester Sales Ltd. the trial judge referred to the classic statement of the Federal Court of Appeal on de facto control in Silicon Graphics Ltd. and concluded that Giant Tiger Stores Ltd. had no such rights over its licencee and franchisee, the appellant Lenester Sales. The trial judge went on to say:
+[33] Even applying the somewhat broader interpretation suggested in some cases, such as Société Fonçière D'Investissement Inc. v. R. and Transport M.L. Couture Inc. v. R., it is clear that GTS had no direct or indirect influence that would result in control in fact of Lenester or Sushi.
+He went on to decide that, in any event, the franchise exception language in subsection 256(5.1) clearly applied. In its 2004 decision the Federal Court of Appeal said in its oral reasons that the trial judge had considered both tests found in the jurisprudence and concluded the corporations were not controlled by Giant Tiger Stores under either test.[1]
+[43] Considering only Silicon Graphics, Transport Couture and Lenester Sales, it could be argued that the scope of what can or need be considered when applying the Silicon Graphics definition/test is unclear as it arguably permits of a broad or narrow interpretation, and therefore the potential relevance of economic, contractual or moral influence, operational control, economic dependence, family relations etc. is unsettled.
+[44] However, the Federal Court of Appeal’s 2003 decision in Mimetix Pharmaceuticals appears very clear as it upheld the trial judge with brief oral reasons from Justice Rothstein and concluded she did not make any error of law when it was clear from her reasons that she decided based on considerations of who controlled day‑to‑day operations, who made all the decisions, who signed all the business agreements invoices and cheques, and who was in a position to exert economic pressure in order to have its will prevail with respect to the business and with respect to the corporation (not just over the de jure control shareholder).
+[45] Most recently the Federal Court of Appeal in 2006 upheld this Court’s decision in Plomberie Langlois wherein Justice Lamarre‑Proulx had placed considerable emphasis on fact that one of the two unrelated non‑controlling 50‑50 shareholders was the sole director and had the last say in any decisions to be made, whereas the other shareholder only had an operational role not a decision‑making role. Justice Noël (as he then was) concluded the Federal Court of Appeal reasons with:
+[18] I believe that the evidence allowed the trial judge to conclude that, in spite of the equal division of the appellant's share capital, Mr. Simoneau was the "controller" of the appellant within the meaning of subsection 256(5.1) and exercised de facto control over it.
+[46] After considering Plomberie Langlois and Mimetix Pharmaceuticals, the issue appears to have been very clearly addressed and settled by the Federal Court of Appeal in a manner that this Court is not free to reconsider. I will therefore be considering such broader manners of influence in applying the Silicon Graphics meaning of de facto control to the particular facts of this case. I have no doubt that this is the correct approach.
+[47] The Supreme Court of Canada in Duha Printers emphasized that, when considering and applying the de jure control test, it is important to recognize at the outset that the de jure test is really an attempt to ascertain who was in effective control, in law, of the affairs and fortunes of the corporation. I see no reason for this mandated approach to de jure control to not similarly apply to de facto control, such that, in considering and applying the de facto control test, factors and considerations, this Court should be attempting to determine who is, in fact, in effective control of the affairs and fortunes of the corporation.
+Application to the facts [48] I am satisfied that, on the evidence in this case, Mr. Howard had and exercised de facto control over the Appellant corporation throughout, notwithstanding that his wife had de jure control of the Appellant. The result is that the Appellant is associated with the two corporations GRR and MorCourt over which Mr. Howard had de jure control. The appeal must therefore be dismissed.
+[49] Firstly, overall it is simply hard to imagine how Mr. Howard could have had anymore effective de facto day‑to‑day control, or greater long‑term control, over the management and operation of the Appellant and its business than he enjoyed. Similarly, it is hard to imagine how Mrs. Howard could have had or exercised much less effective de facto control. Indeed, the evidence of Mr. Howard is that this is precisely what was intended from the outset and throughout.
+[50] Mr. Howard was the sole director and President and Secretary of the Appellant. He was the Operations Director and General Manager of all three restaurants including that of the Appellant. The General Manager of the Appellant’s restaurant reported to him. He did not need to obtain his wife’s approval or consult with her to make any decisions in these capacities.
+[51] Mr. Howard was the person who had all of the discussions, negotiations and communications with Keg Restaurants Ltd., the franchisor, concerning the Appellant’s franchise restaurant. He alone had a decades long history with Keg Restaurants Ltd. He alone had experience running, managing and/or operating a Keg or any other restaurant.
+[52] Mr. Howard alone sought the needed business‑related advice on behalf of the Appellant. The advice was given to him. He decided on the recommended course of action after minor and limited communication and consultation with his wife, and he alone implemented it.
+[53] Mr. Howard had his companies arrange for the Appellant’s banking and financing. He had his companies provide the Appellant’s management, accounting and head office services and functions. The Appellant’s finances were integrated into GRR. The Appellant only ever used GRR’s bank account.
+[54] Mr. Howard sought and obtained Keg Restaurants Ltd.’s consent to the assignment of GRR’s franchise to the Appellant. He obtained this only after he assured them nothing would change with the management, operations and running of the Appellant and its restaurant.
+[55] Mr. Howard owned the company that owned the McGillivray location land and building, and was the Appellant’s landlord for it sole premises for its sole business. The agreed rent charged and paid was set by Mr. Howard.
+[56] Mr. Howard did not deal at arms length with the controlling majority shareholder. They were related. The Howards had been married for decades and remained married and living together.
+[57] Mrs. Howard did not have any other source of income disclosed in the evidence except her employment income from GRR. There is no evidence of her capital assets. Among other things, this brings into question the value of her personal guarantee as well as the extent of her dependence on the continued success of her husband in running these three restaurant businesses.
+[58] Mrs. Howard could not sell her controlling interest to anyone else without obtaining Keg Restaurants Ltd.’s consent. Had she been able to that, and sell the shares to anyone other than her husband, this would result in the husband’s company losing its exclusivity rights because they were no longer operating three restaurants. This could be expected to negatively affect the value of her shares of the Appellant and the value of her husband’s companies.
+[59] Secondly, Mr. Howard also had considerable influence when Mrs. Howard appointed him as sole director upon acquiring her 76% interest in the Appellant. GRR’s exclusivity rights would have precluded the company she controlled from opening a Keg Restaurant without the full support of her husband’s GRR. Mr. Howard proposed to Mrs. Howard, based upon the advice he received, that she could acquire the 76% interest in the new company on the recommended terms, which included that nothing else change. That certainly makes it appear that her opportunity to acquire shares was dependent upon him being the sole director etc. It was that offer which she agreed to accept. The evidence also makes it appear that their jointly owned new company, the Appellant, was only going to get the Franchise Agreement to run the new restaurant location if Mr. Howard was the sole director etc. That was the proposal he had put to Keg Restaurants Ltd. and that was the proposal he had made to his wife which she accepted and agreed to.
+[60] This all constitutes very significant influence held and exercised by Mr. Howard over Mrs. Howard’s decision to appoint him as sole director.
+[61] Thirdly, while Mrs. Howard could have replaced Mr. Howard as the Appellant’s sole director, she did not.[2] Had she wanted to, she would have had to be concerned about, and influenced by, the effect that would have under the Franchise Agreement. If she considered doing it against Mr. Howard’s wishes, she would have had to consider, and be influenced by, the fact that the Appellant leased its business premises from his company and obtained all of its management and related services from his company.
+[62] Had Mrs. Howard ever wanted to turn her mind to selling her shares or replacing her husband as sole director, or appointing additional directors, she clearly would have been influenced by several factors relating to her husband’s positions with the Appellant.
+[63] The Appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 28th day of November 2014.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2014 TCC 357
+COURT FILE NO.:
+2012-2500(IT)G
+STYLE OF CAUSE:
+McGILLIVRAY RESTAURANT LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+July 10, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+November 28, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Thor J. Hansell
+Counsel for the Respondent:
+Julien Bédard
+Neil Goodridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thor J. Hansell
+Firm:
+Aikins MacAulay & Thorvaldson
+Winnipeg, Manitoba
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It can be noted that the oral reasons dismissing the appeal did not mention the Federal Court of Appeal’s earlier decision in Mimetix Pharmaceuticals in 2003.
+[2] See comments in Plomberie Langlois and Société Foncière on this being an indicia of effective de facto control during such a period. This is also a significant consideration of the Federal Court of Appeal in Silicon Graphics at paragraph 72(g).

@@ -1,0 +1,127 @@
+---
+title: "Rai c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28584/index.do"
+last_modified: "2008-03-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 147"
+citation2: ""
+neutral_citation: "2008 CCI 147"
+decision_date: "2008-03-20"
+language: "fr"
+item_id: "28584"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1051
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:02:12.811000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d197b4caa81fbbf7edb4a866aee9fa1d78b35529e7990c99f3be985cac7755ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rai c. M.R.N.
+
+- Citation: 2008 CCI 147
+- Decision date: 2008-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1051, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rai c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-20
+Référence neutre
+2008 CCI 147
+Numéro de dossier
+2005-3691(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2008CCI147
+Date : 20080320
+Dossiers : 2005-3691(EI)
+2005-3692(CPP)
+ENTRE :
+SARABJIT (SARABJEET) SINGH RAI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l’appelant : Me G.M. Andy Advani
+Avocat de l’intimé : Me Andrew Majawa
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à Kelowna (Colombie-Britannique), le 28 février 2008.)
+Le juge Miller
+[1] Bien qu’initialement j’aie eu l’impression que la présente affaire serait décidée entièrement en fonction de la personne que j’estimais crédible, je me suis rendu compte qu’elle était en fait plus complexe. L’appelant, Sarabjit Rai, soutient que, pendant la période allant du 1er août au 8 novembre 2002, il a travaillé comme employé des journées de huit heures, totalisant 648 heures, pour une société avec laquelle il n’avait aucun lien de dépendance, Desert Produce. Cette société était détenue par M. Paul Deol et sa famille. L’intimé ne croit pas l’appelant et fait valoir qu’il était trop occupé à gérer les vergers de sa propre famille et n’aurait absolument pas pu travailler pour Desert Produce. La vérité, selon moi, réside quelque part entre les deux. L’intimé a décidé que M. Rai n’occupait pas un emploi assurable ou ouvrant droit à pension pendant la période en cause.
+[2] Ceci étant dit, quelles preuves a fournies M. Rai afin d’établir qu’il avait réellement travaillé les journées de huit heures en question? Premièrement, son propre témoignage. Deuxièmement, le témoignage de son employeur, M. Paul Deol, confirmant que M. Rai a travaillé comme élagueur dans son verger, à Osoyoos, durant la période en cause. Troisièmement, des chèques annulés datés de septembre, d’octobre et de novembre 2002 faits par Desert Produce à l’ordre de M. Rai. Quatrièmement, les relevés bancaires montrant que ces chèques ont été déposés pendant les trois mois en question. Cinquièmement, les feuilles de temps mensuelles remplies par M. Deol et indiquant des journées de travail constantes de huit heures. En dernier lieu, un relevé d’emploi daté du 11 novembre 2002, établi par Desert Produce, confirmant les 648 heures de travail et un traitement de 5 832 $.
+[3] Sur quels faits l’intimé s’appuie‑t‑il pour prouver que M. Rai n’a pas travaillé des journées de huit heures chez Desert Produce? Premièrement, M. Rai a admis qu’il aidait à l’exploitation de deux vergers dirigés par sa famille durant cette période, à Osoyoos, et qu’il était le principal responsable d’un troisième verger à Oliver.
+[4] Il y a plusieurs facteurs à considérer relativement à la disponibilité de M. Rai pour faire ces journées de travail de huit heures :
+1. L’intimé a présenté en preuve des reçus de stations fruitières indiquant que M. Rai ramassait des caisses vides à ces stations régulièrement durant la période. Dans quelques cas, il y avait eu deux livraisons la même journée. M. Rai a répondu que les stations fruitières étaient situées à proximité et qu’il pouvait quand même travailler huit heures par jour pour Desert Produce. Il y a eu 47 livraisons durant la période, et chacune pouvait prendre entre une heure et une heure et demie.
+2. Les responsabilités de M. Rai à chacun des trois vergers familiaux comprenaient la tonte de la pelouse, l’irrigation, l’arrosage, la réparation de le machinerie, la livraison des fruits et l’élagage. Mais entre août et novembre, toutes ces tâches n’étaient pas exécutées intensivement. Même alors, M. Rai a répliqué qu’il pouvait travailler jusqu’à 14 ou 15 heures par jour en combinant son travail pour Desert Produce avec ses propres activités.
+3. L’intimé a fourni des reçus indiquant divers achats d’équipement effectués à Oliver les jours où M. Rai a déclaré avoir travaillé huit heures pour Desert Produce, à Osoyoos. Il n’y en avait pas beaucoup, cependant.
+[5] Un deuxième facteur jette un doute sur les propos de M. Rai, à savoir sur sa déclaration voulant que son travail pour Desert Produce ait consisté principalement à faire de l’élagage. Cette affirmation ne concorde pas avec son propre témoignage, où il a dit que l’élagage est essentiellement une activité hivernale. De même, l’enquêteur de Développement des ressources humaines Canada a précisé dans son témoignage que, d’après son expérience, 90 % de l’élagage s’effectuaient pendant l’hiver. M. Deol a affirmé, en revanche, que l’élagage était seulement fait l’hiver parce que c’est à ce moment‑là que les propriétaires avait du temps à y consacrer, mais qu’en fait il valait mieux élaguer plus tôt, ce qu’il demandait à M. Rai de faire.
+[6] Les feuilles de temps, troisième facteur sur lequel s’appuie l’intimé, montrent huit heures de travail chaque jour. Jamais sept, jamais neuf, seulement huit. M. Rai a répondu que c’était l’arrangement conclu avec Desert Produce. Il devait faire des journées de huit heures. S’il lui manquait 20 minutes ou une demi‑heure, il se rattrapait le lendemain, mais il avisait quand même M. Deol qu’il s’était acquitté de son obligation de faire des journées de huit heures. M. Deol, cependant, a déclaré à l’enquêteur que les feuilles de temps n’étaient pas toujours exactement précises. Elles reflétaient dans le fond une méthode de rémunération. Cette déclaration, à mon avis, est compatible avec le comportement de M. Rai, qui allait et venait à sa guise, libre de travailler dès qu’il était en mesure de le faire.
+[7] Le quatrième facteur sur lequel s’appuie l’intimé est le reçu d’un bijoutier de Surrey, en Colombie‑Britannique, montrant que M. Rai se trouvait à Surrey, à quatre heures et demie de route, un jour où il avait consigné huit heures de travail. M. Rai a expliqué qu’il était parti à seulement deux ou trois heures de l’après‑midi pour se rendre à Surrey et qu’il avait commencé son travail à 6 h 30 ce matin‑là pour faire ses huit heures. Or, selon les éléments de preuve, le soleil ne s’est pas levé avant 7 h 30 ce jour‑là. En outre, le bijoutier a confirmé à l’enquêteur que sa boutique fermait à 19 h. Ce facteur jette un certain doute en général sur la crédibilité de M. Rai.
+[8] Le cinquième facteur concerne les relevés bancaires de M. Rai montrant des retraits de 2 000 $, de 1 000 $ et de 4 000 $ au cours des mois en cause. L’intimé a mentionné à M. Rai la possibilité qu’il ait retiré l’argent pour rembourser M. Deol. M. Rai a nié cette affirmation, tout comme M. Deol. M. Rai a expliqué qu’il envoyait régulièrement de l’argent en Inde. Honnêtement, je ne crois pas que ces retraits prouvent grand‑chose d’un côté comme de l’autre.
+[9] Le sixième facteur est un document montrant que M. Rai s’est rendu chez un chiropraticien à Oliver un jour où il a déclaré avoir travaillé huit heures pour Desert Produce. Encore une fois, M. Rai a affirmé qu’il pouvait prendre des rendez‑vous et quand même respecter ses obligations au travail.
+[10] Finalement, il y avait plusieurs incohérences mineures entre les propos tenus par M. Rai à l’enquêteur et ses déclarations à l’agent des décisions. Par exemple, au sujet des retraits de quelques milliers de dollars, M. Rai avait affirmé à un agent que les fonds avaient été envoyés en Inde alors qu’il avait dit au fonctionnaire de l’Agence du revenu du Canada qu’ils avaient servi à rembourser des prêts. Ici aussi, cette contradiction jette un doute sur le témoignage de M. Rai.
+[11] Quels étaient les arguments des parties? La position de M. Rai est simple. Il a travaillé comme employé de Desert Produce pendant 648 heures, comme le confirment ses feuilles de temps et son relevé d’emploi. L’intimé estime que M. Rai n’a pas été en mesure de prouver qu’il avait un contrat d’emploi légitime et que M. Rai avait concocté un arrangement avec M. Deol pour consigner les 648 heures en question. De fait, l’intimé va même jusqu’à dire qu’il n’est tout simplement pas plausible que M. Rai ait pu travailler pour M. Deol si l’on tient compte des responsabilités de M. Rai à ses propres vergers ainsi que du temps qu’il aurait passé ailleurs, preuves à l’appui, pour livrer des fruits, par exemple.
+[12] L’intimé avance en outre que, même si je suis convaincu que M. Rai a effectivement travaillé comme employé, il m’est impossible de savoir combien d’heures il a travaillées. Les feuilles de temps sont inutiles et M. Deol n’a jamais vu M. Rai travailler. En outre, M. Rai et M. Deol ont été incapables d’identifier un seul des nombreux employés de Desert Produce qui pourrait attester avoir vu M. Rai y travailler. Subsidiairement, l’intimé est d’avis que, même si je conclus que M. Rai a effectivement travaillé chez Desert Produce, la liberté dont il jouissait pour travailler aux moments et de la façon qu’il voulait indique qu’il était non pas un employé mais un entrepreneur indépendant.
+[13] Comme je l’ai dit dès le début, il ne s’agit pas ici seulement de décider quel récit et quelle personne je dois croire. Même si j’estime que la situation est louche, je ne peux trouver exactement ce qui cloche. À mon avis, les feuilles de temps n’établissent pas que M. Rai a travaillé huit heures tous les jours qu’il a indiqués. Ce n’est pas le genre de travail qui se fait aussi régulièrement en segments de huit heures. Je trouve que le fait que les feuilles de temps pour août et septembre comptent exactement le même nombre d’heures, soit 216, est tout aussi suspect. Lorsque j’ajoute à ces soupçons le témoignage douteux de M. Rai concernant sa visite chez le bijoutier, un déplacement de neuf heures qui lui aurait laissé quand même le temps de faire une journée de travail de huit heures, compte tenu en plus de toutes les autres tâches qu’il devait accomplir à ses propres vergers, je suis convaincu qu’il n’a pas travaillé les journées de huit heures indiquées sur ses feuilles de temps.
+[14] Cependant, je n’ai pas été convaincu non plus que tout ça n’est qu’une imposture. Je crois que M. Rai a effectivement travaillé au verger de Desert Produce. Je reste sceptique quant au fait qu’il ait seulement travaillé à l’élagage. Et ce malgré le témoignage de M. Deol indiquant que l’élagage semble être davantage une activité hivernale. Pourtant, M. Rai a été rémunéré pour un travail quelconque. Je ne suis donc pas d’accord avec l’intimé, qui affirme que M. Rai n’a pas travaillé du tout. Je conclus qu’il a effectué certaines tâches. Je conviens toutefois avec l’intimé que je ne dispose d’aucun moyen pour déterminer combien d’heures M. Rai a travaillé aux vergers de Desert Produce. Je crois qu’il s’agissait probablement de beaucoup moins que 648 heures. Je conclus également que la déclaration de M. Deol à l’enquêteur concernant le fait que les feuilles de temps ne constituaient dans le fond qu’une méthode de rémunération est probablement la plus proche de la vérité.
+[15] Je suis d’avis que M. Deol et M. Rai avaient conclu un arrangement suivant lequel M. Rai travaillait à ses propres heures et à sa manière et qu’ils ont simplement consigné ce travail en fonction de journées de huit heures rémunérées à raison de 9 $ l’heure. Cependant, je n’ai pas à m’efforcer d’essayer de calculer le nombre d’heures réellement travaillées par M. Rai, car je souscris à l’argument subsidiaire de l’intimé. Peu importe l’entente qu’a pu conclure M. Rai avec M. Deol, si elle était légitime, il ne s’agissait pas d’un contrat d’emploi.
+[16] Compte tenu des facteurs habituels servant à cerner la nature d’une relation d’emploi, c’est‑à‑dire le contrôle, la propriété de l’équipement, les chances de profit et les risques de perte, ainsi que l’intention des parties, je conclus que les preuves dénotent l’existence d’un contrat d’entrepreneur indépendant et non pas d’un contrat d’emploi. Premièrement, comme je l’ai dit, les parties ont tenté de faire de cet arrangement quelque chose qu’il n’était pas. Je n’accorde donc aucune valeur au relevé d’emploi ou aux feuilles de temps pour ce qui est de refléter une intention véritable de conclure un contrat d’emploi.
+[17] Me tournant alors vers l’élément le plus important de la distinction entre un employé et un entrepreneur indépendant, à savoir le contrôle, je conclus que Desert Produce n’exerçait absolument aucun contrôle sur les activités de M. Rai. La consignation des heures de travail était une fiction. M. Rai pouvait aller et venir à sa guise et pouvait faire son travail comme il le désirait. M. Deol n’avait aucun moyen de calculer les heures travaillées par M. Rai et il a déclaré qu’il allait voir les résultats des efforts de M. Rai tous les trois ou quatre jours pour vérifier simplement si le travail se faisait. Ce seul facteur, le contrôle, suffit à m’amener à conclure que M. Rai était en affaires pour son propre compte et qu’il n’était pas un employé de Desert Produce.
+[18] Pour ce qui est de l’équipement, M. Rai fournissait ses propres cisailles, alors que Desert Produce fournissait le Kangaroo. Ce facteur est neutre.
+[19] Pour ce qui est des chances de profit et des risques de perte, je conclus que l’arrangement était que M. Rai était rémunéré si le travail était fait. Le nombre d’heures n’avait pas d’importance, malgré les documents établis. Ceci est habituellement le cas lorsqu’une personne est en affaires pour son propre compte et non pas lorsqu’elle travaille comme employé. Je conclus que M. Rai n’était pas un employé de Desert Produce.
+[20] Pour ces motifs, je conclus que M. Rai n’occupait pas un emploi assurable et ouvrant droit à pension pendant 648 heures, et je rejette donc l’appel.
+Signé à Ottawa, Canada, ce 20e jour de mars 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 6e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI147
+NOS DES DOSSIERS DE LA COUR : 2005‑3691(EI) et 2005‑3692(CPP)
+INTITULÉ : Sarabjit (Sarabjeet) Singh Rai et Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 28 février 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 20 mars 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me G.M. Andy Advani
+Avocat de l’intimé :
+Me Andrew Majawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me G.M. Andy Advani
+Cabinet : Advani Law Office
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,369 @@
+---
+title: "Global Equity Fund Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30712/index.do"
+last_modified: "2011-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 507"
+citation2: ""
+neutral_citation: "2011 TCC 507"
+decision_date: "2011-10-28"
+language: "en"
+item_id: "30712"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7514
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:10:59.563000+00:00"
+cases_cited_count: 7
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "beeed8979f4302a61072a1b24f491f23b38c09c32a5e72a699a1c7c6287ec2e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Global Equity Fund Ltd. v. The Queen
+
+- Citation: 2011 TCC 507
+- Decision date: 2011-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7514, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Global Equity Fund Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-28
+Neutral citation
+2011 TCC 507
+File numbers
+2007-4998(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2011 TCC 507
+Date: 20111221
+Docket: 2007-4998(IT)G
+BETWEEN:
+GLOBAL EQUITY FUND LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(The reasons are amended solely to reformat the appendix so that the electronic version is legible. No changes to the text have been made.)
+Woods J.
+Introduction
+[1] In its 2001 taxation year, Global Equity Fund Ltd. (“Global”) undertook a series of transactions that produced a loss of approximately $5,600,000. The loss was applied to eliminate most of Global’s tax payable under the Income Tax Act for the 1999, 2000 and 2001 taxation years. The question is whether the general anti-avoidance rule (the GAAR) should be applied in respect of these transactions.
+[2] The summary below describes some of the steps in the series and it demonstrates how the loss was produced.
+a) Global subscribed for common shares of a new subsidiary (“Newco”) for a consideration of $5,600,250.
+b) Newco issued preferred shares to Global by way of a stock dividend. The preferred shares were redeemable and retractable for $5,600,250 and had a paid-up capital of $56. The stock dividend resulted in an income inclusion to Global in the amount of $56.
+c) The stock dividend had the effect of reducing the fair market value of the common shares of Newco to a nominal amount, but it did not affect the adjusted cost base. Global then disposed of the common shares of Newco at a loss in the amount of $5,600,250.
+[3] Global was reassessed for the 1999, 2000 and 2001 taxation years to deny the loss from the sale of the shares of Newco in the amount of $5,600,250.
+[4] It is evident that the loss created from the series is highly artificial. Essentially the loss was a created from a shuffle of paper; no real economic loss was suffered.
+[5] Similar strategies using stock dividends have been used by other taxpayers to create losses. In two recent decisions of this Court, it was determined that the GAAR should be applied to similar transactions that created capital losses: Triad Gestco Ltd. v The Queen, 2011 TCC 259 and 1207192 Ontario Inc. v The Queen, 2011 TCC 383. These decisions are currently under appeal.
+[6] Counsel for the Crown advised that Global’s plan had a unique twist in that the loss was reported as a business rather than capital loss. The Crown takes no issue with characterizing the loss in this manner, and it is not appropriate for me to question it.
+[7] Global submits that the GAAR does not apply because it undertook the transactions primarily for creditor protection. It also submits that in any event the transactions do not amount to abusive tax avoidance because there is no general policy in the Act which prevents the deduction of artificial business losses.
+[8] For the reasons below, I have concluded that Global should succeed on the GAAR issue. The Crown has the burden to establish an abuse of the Act, and that burden has not been satisfied, in my view.
+[9] Notwithstanding the result in this appeal, readers should be cautious before concluding that the GAAR does not apply to transactions of this type. If different arguments had been raised by the Crown, perhaps the result would have be similar to that reached in Triad Gestco and 1207192 Ontario.
+[10] Global’s notice of appeal also raises other issues which were resolved by the parties prior to the hearing.
+Overview
+[11] Global was incorporated on January 29, 1999 for the purpose of investing in credit facilities and private placements. It was founded by Riaz Mamdani, a businessman in Calgary with interests in real estate and start up ventures.
+[12] The sole shareholder of Global is a trust whose beneficiaries include Mr. Mamdani, his spouse, their children, grandchildren, parents, siblings, nieces and nephews (the “Family Trust”). At the time of the transactions, Mr. Mamdani and his wife, Zainool Mamdani, had two very young children.
+[13] In 2000, Mr. Mamdani retained Kim Moody, an accountant who is a tax specialist. Mr. Mamdani needed assistance regarding court orders that required him to file overdue personal tax returns. The relationship flourished, and Mr. Moody became a close tax and business adviser to Mr. Mamdani. The two men began to meet on a weekly basis.
+[14] At some point, Mr. Mamdani asked Mr. Moody to recommend strategies for Global to defer tax. General proposals to shelter capital gains, including plans involving stock dividends, were presented to Mr. Mamdani on July 24, 2001. After Mr. Mamdani and Mr. Moody met on August 21, 2001, a lawyer with commercial and tax expertise, Dennis Nerland, was brought in to assist with the planning and implementation of a plan.
+[15] The plan was implemented just prior to September 30, 2001, which was Global’s taxation year end.
+[16] A more complete summary of the plan is set out below.
+a) A new corporation, 953565 Alberta Ltd. (“Newco”), was incorporated, and Global subscribed for common shares of this corporation for amounts totalling $5,600,250. Bank financing was arranged to facilitate this transaction.
+b) Newco paid a stock dividend on the common shares held by Global by issuing to Global preferred shares which were redeemable and retractable for $5,600,250 and had a paid-up capital of $56.
+c) Newco issued additional common shares to Global for a consideration of $200,000. It was acknowledged that this step was inserted as window dressing in order to give the common shares some value.
+d) The common shares of Global were sold for a consideration of $200,000. The purchaser was a new trust whose beneficiaries were Mr. Mamdani’s children and grandchildren (the “Children’s Trust”).
+e) Global borrowed $5,600,000 from Newco. The loan bore interest at prime plus 2 percent and contained an equity participation of 25 percent of the increase in fair market value of Global’s assets while any part of the loan remained outstanding. An amendment to the loan was made a few months later which deleted the interest and increased the equity participation to 50 percent.
+f) Global granted a security interest in its property to Newco as security for the above loan. The security interest was registered in accordance with Alberta legislation.
+[17] All of the above transactions, except possibly f), were undertaken near the end of September, 2001.
+[18] At the time that the plan was implemented, it was contemplated that the loss might be a business loss for tax purposes because Global’s business involved the trading of securities (Ex. A-2, Tab 4).
+[19] In the income statement and balance sheet that were included with Global’s corporate tax return for 2001, the above transactions were reported as increasing Global’s loss from operations. In particular, $56 was recorded as revenue from the stock dividend, and the subscription price for the common shares of Newco was deducted as part of the cost of sales. The overall result was that Global’s loss from operations included a net loss of $5,600,194. This produced significant negative retained earnings which were recorded on Global’s balance sheet.
+[20] Mr. Mamdani testified that he was aware that the plan might give rise to a tax benefit, but he stated that his overarching motive was creditor protection.
+[21] Sometime in 2000, a lawsuit was launched in the United States against Jaws Technologies Inc. (“Jaws”). Mr. Mamdani was a director of Jaws and was active in its affairs. Global was involved in Jaws as an investor.
+[22] Mr. Mamdani was added as a defendant in the Jaws litigation in May 2001, and Global was named as a defendant (but not served) on August 1, 2001.
+[23] Mr. Mamdani ceased to be a director of Jaws early in 2001, and he resigned as a trustee of the Family Trust on August 1, 2001. He also ceased to be a director of Global and Newco on September 26, 2001.
+Interpretive principles re the GAAR
+[24] The general principles to be applied in interpreting the GAAR were established by the Supreme Court of Canada in Canada Trustco Mortgage Co. v The Queen, 2005 SCC 54, 2005 DTC 5523 (“Trustco”). It is useful to reproduce the Court’s summary from that case:
+[66] The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts may consider in the analysis of abusive tax avoidance allegations under s. 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+[25] It is also useful to reproduce the Court’s expanded discussion of a taxpayer’s burden to refute the existence of a tax benefit and avoidance transaction. At paragraph 63 of Trustco, the Court makes it clear that this burden is not absolute; the usual considerations with respect to the burden on factual matters apply.
+[63] The determination of the existence of a tax benefit and an avoidance transaction under s. 245(1), (2) and (3) involves factual decisions. As such, the burden of proof is the same as in any tax proceeding where the taxpayer disputes the Minister’s assessment and its underlying assumptions of facts. The initial obligation is on the taxpayer to “refute” or challenge the Minister’s factual assumptions by contesting the existence of a tax benefit or by showing that a bona fide non-tax purpose primarily drove the transaction: see Hickman Motors Ltd. v. Canada, [97 DTC 5363] [1997] 2 S.C.R. 336, at para. 92. It is not unfair to impose this burden, as the taxpayer would presumably have knowledge of the factual background of the transaction.
+Preliminary matters - tax benefit and series
+[26] Two of the three elements of the GAAR recognized in Trustco are at issue in this appeal: avoidance transaction and abusive tax avoidance. Before discussing these, I should first identify a tax benefit and an appropriate series of transactions.
+[27] The Crown submits that the tax benefit is the tax that would have been payable under the Act by Global for its 1999, 2000 and 2001 taxation years if the tax had not been eliminated, or almost eliminated, by the loss incurred on the sale of the shares of Newco, subject to the GAAR. This submission is not in dispute and the analysis below proceeds on this basis.
+[28] Strictly speaking, I would have thought that the tax benefit is the benefit derived from the entire series, and not simply the sale of shares. The focus on series seems to be contemplated by the relevant provision, s. 245(3)(b). I will not discuss this further as the difference is not likely to be material in this particular case.
+[29] As for the relevant series of transactions, the parties had differing views as to an appropriate series, but neither counsel pressed the point in argument. Global submits that the series includes all of the transactions described above. The Crown submits that it is appropriate to look at a smaller subset of transactions, namely, only those transactions which produced the tax benefit. In particular, the Crown would exclude from the series the loan to Global and the security interest.
+[30] It is not necessary for me to wade into this debate, and I do not propose to do so as it does not affect my conclusion. Without deciding the point, the analysis below generally refers to the series of transactions suggested by Global, which includes all of the transactions above. I will refer to it as the “Series.”
+[31] Notwithstanding the above, I am alive to the fact that the Crown’s view of series is relevant to the analysis because it was used in the Minister’s assumptions. Therefore the Crown’s view of series affects the burden of proof. I discuss this further below.
+[32] I now turn to the main issues.
+Is there an avoidance transaction?
+(a) Introduction
+[33] The second requirement of the GAAR, as formulated in Trustco, is an “avoidance transaction,” as that term is defined in s. 245(3) of the Act. Paragraph 245(3)(b), which is relevant to this appeal, provides that any transaction within the series will be an avoidance transaction unless the transaction has been undertaken primarily for bona fide purposes other than to obtain the tax benefit.
+245. (3) An avoidance transaction means any transaction
+[…]
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+(b) Positions of parties
+[34] The Crown submits that there are at least three avoidance transactions in the Series, and that these were undertaken only to achieve the tax benefit: the payment of the stock dividend, the creation of the Children’s Trust, and the sale of common shares of Newco by Global to the Children’s Trust.
+[35] Counsel for the Crown acknowledges that some creditor protection was taking place in other transactions in the Series, and no arguments were made as to the purpose of the Series as a whole.
+[36] Global submits that the evidence establishes that none of the transactions in the Series have a primary tax purpose. It submits that creditor protection was the primary purpose of each transaction.
+[37] Global also challenges the assumption relied on by the Minister relating to the purpose of these transactions. Counsel referred to MNR v Pillsbury Holdings Ltd., 64 DTC 5184, at p 5188 for the proposition that an assumption may be challenged either by (1) proving that the assumption is wrong in fact, (2) proving that the assumption does not support the assessing position, or (3) proving that the assumption was not made. Global submits that the assumption is flawed on all three grounds. The effect, Global says, is that the burden of proof should be shifted to the Crown.
+(c) Analysis – Is the assumption flawed?
+[38] The relevant assumption relating to the purpose of the transactions is set out in para. 22(x) of the Amended Reply. It reads:
+22. In determining the Appellant’s tax liability for the 1999, 2000 and 2001 taxation years, the Minister made the following assumptions of fact:
+[…]
+x) the series of transactions as referred to in the facts set out in subparagraphs (f) to (t) above were not undertaken or arranged primarily for bona fide purposes other than to obtain a tax benefit for the Appellant.
+[39] It may be useful to provide some background to this issue.
+[40] Counsel for the Crown informed me that the Canada Revenue Agency (CRA) changed its interpretation of the relevant provision, s. 245(3)(b), after the assessments were issued. At the time of the assessments, the CRA’s view was that the focus should be on the purpose of the series as a whole and not on the purpose of individual transactions comprising the series. This view is reflected in the above assumption. Accordingly, during the audit, the CRA considered the purpose of individual transactions but only in the context of determining the purpose of the series. (Read-in of examination of Douglas Boulton, page 57 – 60.)
+[41] At some point after the assessments were issued but before the original reply was filed, the CRA changed its approach and considered that the focus should also be on individual transactions. This position was confirmed in MacKay v The Queen, 2008 FCA 105, 2008 DTC 6238. The revised position is reflected as an argument in the original and amended replies, but of course it cannot change the assumption.
+[42] With this background, I now turn to Global’s arguments, which are based on the three propositions from Pillsbury Holdings.
+[43] First, Global challenges the assumption on the basis that it is wrong. It is submitted that this is established by the evidence. Consideration of this argument requires an evaluation of the evidence, which is discussed in the next section.
+[44] Global also challenges the assumption on the basis that it was not made. Global’s counsel suggests that the relevant assumption is not an assumption of fact at all. The assumption simply parrots the wording of s. 245(3)(b) which is not sufficient, it is submitted. Global refers to the comments of Bowie J. in an informal procedure decision of this Court: Brampton Vee World Motors Ltd. v The Queen, 2006 TCC 453, [2006] GSTC 110, at para 6.
+[45] I disagree with this submission. Brampton Vee does not support the broad principle that it is incorrect to frame assumptions using the language in the legislation. The essential question is whether the assumption can be understood. If the assumption is framed in a meaningful way, it will be proper. The problem in Brampton Vee was that the assumption was vague and did not meaningfully inform the taxpayer as to the facts that the Minister relied on. There is no such flaw in the assumption stated in paragraph 22(x) of the Amended Reply.
+[46] Global also submits that the assumption is flawed because it does not support the assessing position. The Minister should have assumed the purpose of individual transactions instead of the series as a whole.
+[47] I disagree that the assumption does not support the assessing position, for two reasons.
+[48] First, Global’s submission is not logical. In stating that the Minister’s assumption does not support the assessing position, Global is saying that each transaction within the series could be undertaken primarily for non-tax purposes even though the series as a whole is primarily undertaken for tax purposes. I cannot fathom that this is possible.
+[49] Global’s submission is also contrary to MacKay, at paragraph 25:
+[…] If the primary purpose of the entire series is to obtain a tax benefit, then the entire series is an avoidance transaction. […]
+[50] The above comment from MacKay is obiter but it makes sense that there must be at least one avoidance transaction if the series as a whole is primarily driven by tax.
+[51] Second, in this particular case the transactions which the Minister viewed as a series formed an integrated series of transactions which together produced the tax result. In light of this, it is inconceivable to me that any of the transactions within this series could have a different primary purpose than that series as a whole.
+[52] Last, but not least, I wish to comment that Global did not raise its challenges to the assumption in para. 22(x) early enough in the litigation process. It is not mentioned in the pleadings, and counsel for the Crown seemed to be taken by surprise when these arguments were raised during closing argument. It is very unfair to raise arguments such as these, which affect the burden of proof, during closing argument after all the evidence has been presented.
+[53] The concern is exacerbated because counsel for the Crown in her opening statement explained the background to the assumption and stated that Global had the burden of proof with respect to the purpose of individual transactions. Global’s counsel did not object to this at the time and did not raise the issue until closing argument, which was subsequent to the presentation of the evidence. This is too late.
+[54] In the circumstances, Global should have the burden to refute, on a prima facie basis, that the series as determined by the Minister was not undertaken primarily to achieve the tax benefit, and that each transaction within that series was not undertaken primarily to achieve the tax benefit. For completeness, I will also comment below on whether the result would be different if the Crown had the burden.
+(d) Analysis – primary purpose of transactions
+[55] What are the principles to be applied in determining whether there is an avoidance transaction? The Supreme Court of Canada had this to say in Trustco, at para. 29:
+[29] Again, this is a factual inquiry. The taxpayer cannot avoid the application of the GAAR by merely stating that the transaction was undertaken or arranged primarily for a non-tax purpose. The Tax Court judge must weigh the evidence to determine whether it is reasonable to conclude that the transaction was not undertaken or arranged primarily for a non-tax purpose. The determination invokes reasonableness, suggesting that the possibility of different interpretations of the events must be objectively considered.
+[56] It is necessary, then, to compare the tax and non-tax purposes viewed from an objective standpoint. I will first consider the primary purpose of the Series and then the individual transactions within the Series.
+(i) Primary purpose of the Series
+[57] The question is whether Global undertook the Series primarily to achieve the tax benefit or creditor protection.
+[58] The tax purpose of the Series is clear from the evidence and it is acknowledged by Global. The plan was an integrated series of steps designed to virtually eliminate tax for the 1999, 2000 and 2001 taxation years. Mr. Moody was asked to develop such a plan, he did so, the plan was implemented and the benefit was clear. A memorandum by Mr. Moody dated October 5, 2001 stated that offsetting taxable income was one of the purposes, as well as estate planning for Mr. Mamdani’s children (Ex. A-2, Tab 4).
+[59] The creditor protection purpose is less clear from the evidence. Mr. Moody’s October 5 memo does not mention creditor protection. The evidence in support of this purpose relies heavily on oral testimony, which was provided by Mr. Mamdani and the professional advisers, Mr. Moody, and Mr. Nerland.
+[60] Four creditor protection strategies were mentioned in the testimony: (1) reducing Global’s future value by freezing a portion of Global’s assets in favour of the Children’s Trust, in which Mr. Mamdani did not have an interest either as a beneficiary or as a trustee, (2) restricting a creditor’s options on realization of Global’s assets by giving Newco a security interest over those assets, (3) increasing the value of the Children’s Trust by means of the tax deferral, and (4) deterring creditors by producing a deficit on the financial statements.
+[61] I did not find the evidence to be convincing in respect of the importance of creditor protection. I would first comment that Mr. Mamdani, Mr. Moody and Mr. Nerland all have an interest in the outcome of this litigation, in one way or another. Their testimony should be viewed with this in mind.
+[62] There may well have been a creditor protection strategy, but I question the importance that it had. There was insufficient evidence of a detailed plan or of its effectiveness. As for the testimony of the witnesses, overall it was not convincing on this issue. The questions posed to the witnesses did not provide a complete picture of the relevant events, the witnesses at times gave inconsistent answers, and some of the testimony was too far-fetched to be believable. The impression that I was left with was that, to the extent that creditor protection was part of the strategy for undertaking the transactions, it may have been incorporated in order to reduce GAAR risk. The following are several examples.
+[63] First, although Mr. Mamdani gave extensive testimony, he did not provide detailed testimony concerning his involvement with Global’s tax planning which Mr. Moody had undertaken at his request. A comprehensive picture of the relevant events was not provided.
+[64] Second, Mr. Mamdani downplayed the importance of the tax benefit in his testimony. He stated that he was aware that a positive tax result was likely and that he liked it. However, he downplayed the importance of the tax benefit to such an extent that the testimony was not plausible.
+[65] One of the reasons that Mr. Mamdani provided for downplaying the significance of the tax benefit, was that not all of the tax analysis had been worked out at the time the transactions were undertaken. This explanation is not plausible. The tax analysis was very advanced at the time that the transactions were undertaken. This is clear from the October 5 memorandum prepared by Mr. Moody.
+[66] Third, Mr. Nerland testified as to a meeting that he had with Mr. Mamdani on April 10, 2000, which he said concerned creditor protection strategies. His notes indicate the following discussion points: “collar,” “monetization,” “shuffle,” and “offshore bank.” Mr. Nerland testified that these were creditor protection strategies, but that is at odds with his instruction that the notes of the meeting be filed in a new file called “Tax Planning.” It is likely that the discussion points have as much or more to do with tax planning than creditor protection.
+[67] There is also a letter following up on that meeting in which Mr. Nerland describes a “shuffle” strategy that has a similar tax result to the transactions at issue in this appeal. Mr. Nerland testified that the letter correctly identifies the purposes of the plan as: creditor protection, providing educational opportunity for children, and freezing a portion of the estate. This explanation is not plausible.
+[68] Fourth, Mr. Nerland was asked by Global’s counsel to describe the purpose of some of the transactions within the Series. However, he was not asked about the purpose of each of the transactions. In particular, Mr. Nerland was not asked why Global acquired common shares of Newco. Since it is difficult to see any creditor protection purpose to this transaction, it is unlikely that the failure to ask this question was an oversight.
+[69] Fifth, Mr. Nerland’s testimony as to the creditor protection strategy did not leave me with the impression that a lot of thought had been put into it. For example,
+a) Mr. Nerland testified that it was important to leave sufficient assets behind in Global to pay its potential liability from the Jaws litigation. He said that this was accomplished by transferring only a portion of Global’s assets to Newco. However, Mr. Nerland’s testimony as to the fair market value of Global’s assets was vague and it seemed to be inconsistent with Mr. Mamdani’s testimony. Further, Mr. Nerland could not identify the amount of potential exposure that Global had from the Jaws litigation. Mr. Nerland seemed to explain the poor recollection on the passage of time. It is not likely that Mr. Nerland would have had such difficulty if the strategy had been carefully thought out in the first place.
+b) Mr. Nerland had a poor explanation for the reason for the creation of the Children’s Trust on cross-examination. He first focused on the problem being that Mr. Mamdani was a trustee of the Family Trust. When counsel for the Crown pointed out to him that Mr. Mamdani was no longer a trustee, he stated that Mrs. Mamdani being a trustee was a risk.
+c) Mr. Nerland’s explanation for why annual interest was deleted from the loan was inconsistent with Mr. Mamdani’s testimony. Mr. Nerland testified that it was for creditor protection purposes. Mr. Mamdani said that there was a cash flow problem.
+d) Mr. Nerland had a poor understanding of how inter-company receivables figured into the arrangement. He first described that Newco’s loan to Global was carved up and assigned. He then acknowledged that this was incorrect and that the loan had been paid down by an assignment of inter-company receivables.
+[70] Sixth, there was very little objective evidence that the common shares of Newco held by the Children’s Trust have achieved significant value since the implementation of these transactions. The common shares would have value only to the extent that Newco’s value exceeds the redeemable amount of its preferred shares. There was evidence of a transfer of inter-company receivables to Newco but there was no evidence that interest on these receivables was charged. This leads me to question whether there ever was an intent for value to accrue to the Children’s Trust.
+[71] Seventh, Mr. Moody testified that the tax deferral itself was part of the creditor protection strategy. It was difficult for me to follow the testimony. Mr. Moody seems to suggest that if Global’s assets were increased through tax deferral, this would allow greater wealth to be transferred to the Children’s Trust. The idea seems to be that wealth creation for the children by saving tax is a creditor protection strategy. I do not accept that this is a non-tax purpose for purposes of s. 245(3)(b) of the Act.
+[72] Eighth, Mr. Mamdani testified that creditor protection was also achieved because the Series produced a deficit on Global’s financial statements. This would only be a relevant factor if the deficit had been identified as a creditor protection strategy prior to the implementation of the transactions. I am not satisfied that this was the case.
+[73] Ninth, Mr. Nerland suggested that the secured loan given by Newco to Global was a key part of the creditor protection strategy. I am not satisfied as to the evidence on this. First, the loan appears to be an integral part of the tax plan because it allows the funds to circle so that the bank financing is no longer necessary. As for the security interest, the evidence is weak that the security interest was part of the strategy when the main transactions were implemented. The security agreement was executed on an “as of” basis and the registration verification statement suggests that the registration took place more than two months later. This suggests that the security was an after-thought.
+[74] Finally, Mr. Mamdani became a director of Newco for a short period of time. This action seems inconsistent with the testimony that Mr. Mamdani was extremely fearful of the consequences of the Jaws litigation. If Mr. Mamdani was as fearful as he suggested in his testimony, it is very unlikely that he would have agreed to become a director of Newco at all, even for a short period.
+[75] Counsel for Global suggests that the timing of events is strong evidence that the transactions were driven by creditor protection objectives. It was suggested that similar strategies were presented to Mr. Mamdani earlier but he chose not to implement them until the Jaws litigation became more serious. Another interpretation of the timing, which seems more plausible in light of Mr. Moody’s testimony, is that the transactions were undertaken to coincide with Global’s 2001 taxation year end. Counsel suggested that there was no tax benefit to undertaking the transactions at this time. I do not find this bald assertion by counsel to be persuasive.
+[76] When the evidence is viewed objectively, it reveals that the tax benefit was the driving force and primary purpose for undertaking the Series. As mentioned earlier, it may have been that creditor protection was inserted to reduce the GAAR risk because of the fortuitous timing of the Jaws litigation. Even if creditor protection was a genuine purpose for entering into the Series, it was much less important than the tax objective.
+(ii) Purpose of individual transactions
+[77] In this section, the question that is considered is whether there is any individual transaction within the Series that has a primary tax purpose or whether each transaction in the Series was driven mainly by creditor protection.
+[78] Based on the conclusions above as to the purpose of the Series, it follows that transactions that were integral to the tax plan were undertaken primarily for the tax benefit.
+[79] In particular, the incorporation of Newco, the acquisition by Global of common shares of Newco, the stock dividend, and the sale of the common shares to the Children’s Trust were central transactions designed to achieve the tax benefit. They each played a key part in the loss being created or realized. Each of these transactions are avoidance transactions with the meaning of s. 245(3)(b).
+[80] Before concluding this part of the reasons, I would comment on the burden of proof. For the reasons stated above, I have concluded that Global has the burden to show that the series as determined by the Minister, and each transaction within it, was undertaken primarily for bona fide purposes other than to achieve the tax benefit.
+[81] If I am wrong in this conclusion, the burden would fall on the Crown.
+[82] Global points to the failure of the Crown to lead evidence as to the purpose of any particular transaction, and it suggests that the burden has not been satisfied.
+[83] I do not agree with Global’s submission. In considering whether the Crown has satisfied the burden, one must look at the evidence as a whole. In this case, the Crown did undertake effective cross-examination, although it was extremely brief. But even if the Crown did not lead any evidence at all, the Crown has satisfied the burden because the evidence as a whole establishes that at least one of the transactions was undertaken primarily to achieve the tax benefit. The failure of the Crown to lead more evidence does not affect this result.
+Is there abusive tax avoidance?
+(a) Introduction
+[84] The third GAAR requirement is that the avoidance transaction be abusive. The relevant provision is s. 245(4) of the Act.
+245.(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+[85] Pursuant to Trustco, an avoidance transaction is considered to be abusive if it not consistent with the object, spirit and purpose of the provisions of the Act that were relied on to achieve the tax benefit. A two step analysis is required: first to identify the object and spirit of those provisions, and second to determine whether the object and spirit has been frustrated by the avoidance transactions. Trustco, para. 55.
+[86] It is considered that the Minister is in a better position than the taxpayer to make submissions as to the object and spirit of legislative provisions. The burden, therefore, has been placed on the Crown. Further, doubt is to be resolved in favour of the taxpayer. Trustco, para. 65, 66.
+[87] In this case, Global states that it has relied on sections 3, 4, 9 and 111 of the Act to achieve the tax benefit. The Crown does not take issue with this.
+[88] As mentioned earlier in these reasons, I am not satisfied that the Crown has satisfied the burden with respect to this element of the GAAR. The Crown submits that the object and spirit of the Act is to permit losses to be deducted only if they are not artificially created losses. This appears to be eminently reasonable from a policy standpoint, and yet I am not satisfied that this is the intent of the legislative provisions relied on based on the arguments that the Crown has made. If burden is to have real meaning, the Crown must do more than allege an object and spirit – it must provide a reasonable basis for it. The Crown has not done this, in my view.
+(b) The position of the Crown
+[89] In light of the importance that I have placed on the Crown’s argument relating to the object and spirit of the provisions relied on, I will reproduce the relevant part of the written submissions.
+2) First step: the object, spirit and purpose of the provisions giving rise to the tax benefit
+46. The Minister has not alleged that a specific provision has been misused in this arrangement. Rather, the transactions in the Series of Transactions resulted directly or indirectly in an abuse having regard to the provisions of the Act read as a whole, all within the meaning of subsection 245(4) of the Act. The Minister argues that the object and purpose of the provisions of the Act read as a whole is to permit only bona fide losses as deductions from income or capital gains.
+47. Notwithstanding the above, sections 3 and 9 inform us as to the object and purpose of reporting income for taxation purposes. Section 3 provides for the reporting of income from all sources inside or outside Canada. Section 9 identifies business income as a source of income and subsection 9(2) permits a loss from a business to offset income from that business.
+48. Furthermore, the Act contains numerous provisions concerning losses. The object and spirit of the Act is to restrict the deductibility of losses to those losses that are bona fide economic losses and not mere paper losses.
+49. In 1972, Parliament enacted major tax reforms including the inclusion of taxable capital gains in the calculation of income and the ability to offset those gains by deductible capital losses realized in the year.
+50. Concurrent with the introduction of s. 3, 38, 39 and 40, dealing generally with the computation of capital gains and losses, specific anti-avoidance provisions relating to capital losses were enacted. The provisions include former sections 55, 40(2)(g) and 54 of the Act.
+51. Former s. 55 was enacted to prevent capital losses from being artificially created to offset capital gains. Any capital loss realized on a disposition, in circumstances that could reasonably be considered to have artificially or unduly created that loss, was deemed to be nil. Accordingly, along with the right to deduct realised capital losses, there was the requirement that such losses not be ‘artificial’.
+52. Subsections 18(13), 18(14), 18(15), 40(3.3) and 40(3.4) address losses on certain properties transferred within affiliated groups. The purpose of these provisions is to prevent transactions among affiliated persons from being used to trigger losses that would not otherwise be available to a taxpayer. (An affiliated person is defined in subsection 251.1 and includes, inter alia, individuals and corporations but does not include a trust. Thus, in this case, there was no disposition of property to an affiliated person because the Children’s Trust, to whom the common shares were disposed, was not an affiliated person.)
+53. Further provisions that allow us to discern the object and spirit of the Act with respect to losses include subsections 111(3), 111(4) and 111(5) which restrict trading in losses by limiting access to non-capital losses and capital losses. In the case of non-capital losses the deductibility of those losses is restricted to the persons who realized the loss or the persons who are carrying on the business in which the losses were incurred.
+54. A contextual and purposive interpretation of the provisions relied on by the appellant to obtain the Tax Benefit discloses that their object, spirit and purpose was to allow the recognition of real losses realized outside of the same economic unit.
+(c) Analysis
+[90] It is important to note that the Crown does not allege that any of the provisions relied on for the tax benefit (s. 3, 4, 9, 111) have been misused. Section 9 appears to be a key provision relied on by Global as it brings in commercial principles in calculating income and loss. The Crown acknowledges that this provision, read alone, permits the deduction of the loss claimed by Global.
+[91] The essence of the Crown’s argument is that the object and spirit of the provisions relied upon by Global are influenced by other provisions in the Act. These provisions all restrict the deduction of losses in one way or another. It is submitted that, as a result of these other provisions, the object and spirit of the provisions relied on is disclosed. As a result, only real losses realized outside the economic unit may be deducted.
+[92] The problem that I have with the Crown’s argument is that the provisions referred to by the Crown are limited in scope. None of them, either separately or together, in my view, are suggestive of the broad object and spirit that business losses are limited to real losses realized outside the economic unit.
+[93] The provisions relied on by the Crown are s. 18(13), 18(14), 18(15), 40(3.3), 40(3.4), 54, former section 55, and s. 111(3), 111(4) and 111(5). They are reproduced in an appendix.
+[94] Only one of these provisions deals with artificial losses in general. It is former section 55(1), which was repealed when the GAAR was introduced. When it was in force, it only applied to transactions on capital account.
+[95] The Crown acknowledges that some of the other provisions are also targeted to capital losses. They are s. 40(3.3), 40(3.4), 54 and 111(4).
+[96] In the case of provisions which target capital losses, I do not believe that Parliament intended that they inform as to the object and spirit of the provisions relied on by Global. The legislative schemes relating to business and capital transactions are generally distinct.
+[97] As for provisions that apply to business losses, the Crown relies on s. 18(13), 18(14), 18(15), 111(3) and 111(5). The problem that I have with relying on these provisions is that each of them has a narrow focus.
+[98] Subsections 18(13), 18(14) and 18(15) are restricted to losses from a money lending business and adventures in the nature of trade. Subsection 111(3) narrowly targets a double deduction of losses. Subsection 111(5) restricts the deduction of losses on a change of control.
+[99] I am unable to discern a general policy from these provisions, separately or together, that restricts business losses in the manner that the Crown suggests. The provisions are too narrowly drawn to disclose an intention by Parliament of a general restriction against the deduction of artificially-created business losses.
+[100] For this reason, I have concluded that the first step of the abuse analysis has not been satisfied by the Crown. In particular, the Crown has failed to establish that the object and spirit of the provisions relied upon for the tax benefit is to restrict business losses to “real losses realized outside the economic unit.”
+[101] I have concluded, therefore, that Global’s appeal with respect to the GAAR issue should succeed because abusive tax avoidance has not been established.
+[102] In light of this conclusion, it is not necessary for me to consider the second step in the abuse test, that is, whether the transactions at issue frustrate the object and spirit of the provisions relied on. I would comment, though, that had I agreed with the Crown’s position on the first step, I would have no hesitation in concluding that the second step is satisfied. The transactions undertaken by Global are clearly so vacuous that they would frustrate the object and spirit suggested by the Crown.
+Conclusion
+[103] The appeal will be allowed with respect to the GAAR issue.
+[104] As for costs, Global has requested the opportunity to make submissions. Its submissions should be received within two weeks, the Crown will have a further two weeks to reply, and Global a further two weeks to respond.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated October 28, 2011.
+Signed at Ottawa, Ontario this 21st day of December 2011.
+“J. M. Woods”
+Woods J.
+Appendix
+Loss provisions as of 2001 except for former subsection 55(1)
+18.(13) Subsection (15) applies, subject to subsection 142.6(7), when
+(a) a taxpayer (in this subsection and subsection (15) referred to as the “transferor”) disposes of a particular property;
+(b) the disposition is not described in any of paragraphs (c) to (g) of the definition “superficial loss” in section 54;
+(c) the transferor is not an insurer;
+(d) the ordinary business of the transferor includes the lending of money and the particular property was used or held in the ordinary course of that business;
+(e) the particular property is a share, or a loan, bond, debenture, mortgage, hypothecary claim, note, agreement for sale or any other indebtedness;
+(f) the particular property was, immediately before the disposition, not a capital property of the transferor;
+(g) during the period that begins 30 days before and ends 30 days after the disposition, the transferor or a person affiliated with the transferor acquires a property (in this subsection and subsection (15) referred to as the “substituted property”) that is, or is identical to, the particular property; and
+(h) at the end of the period, the transferor or a person affiliated with the transferor owns the substituted property.
+18.(14) Subsection (15) applies where
+(a) a person (in this subsection and subsection (15) referred to as the “transferor”) disposes of a particular property;
+(b) the particular property is described in an inventory of a business that is an adventure or concern in the nature of trade;
+(c) the disposition is not a disposition that is deemed to have occurred by section 70, subsection 104(4), section 128.1, paragraph 132.2(1)(f) or subsection 138(11.3) or 149(10);
+(d) during the period that begins 30 days before and ends 30 days after the disposition, the transferor or a person affiliated with the transferor acquires property (in this subsection and subsection (15) referred to as the “substituted property”) that is, or is identical to, the particular property; and
+(e) at the end of the period, the transferor or a person affiliated with the transferor owns the substituted property.
+18.(15) If this subsection applies because of subsection (13) or (14) to a disposition of a particular property,
+(a) the transferor’s loss, if any, from the disposition is deemed to be nil, and
+(b) the amount of the transferor’s loss, if any, from the disposition (determined without reference to this subsection) is deemed to be a loss of the transferor from a disposition of the particular property at the first time, after the disposition,
+(i) at which a 30-day period begins throughout which neither the transferor nor a person affiliated with the transferor owns
+(A) the substituted property, or
+(B) a property that is identical to the substituted property and that was acquired after the day that is 31 days before the period begins,
+(ii) at which the substituted property would, if it were owned by the transferor, be deemed by section 128.1 or subsection 149(10) to have been disposed of by the transferor,
+(iii) that is immediately before control of the transferor is acquired by a person or group of persons, where the transferor is a corporation, or
+(iv) at which the winding-up of the transferor begins (other than a winding-up to which subsection 88(1) applies), where the transferor is a corporation,
+and for the purpose of paragraph (b), where a partnership otherwise ceases to exist at any time after the disposition, the partnership is deemed not to have ceased to exist, and each person who was a member of the partnership immediately before the partnership would, but for this subsection, have ceased to exist is deemed to remain a member of the partnership, until the time that is immediately after the first time described in subparagraphs (b)(i) to (iv).
+40.(2)(g) a taxpayer’s loss, if any, from the disposition of a property, to the extent that it is
+(i) a superficial loss,
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm’s length,
+(iii) a loss from the disposition of any personal-use property of the taxpayer (other than listed personal property or a debt referred to in subsection 50(2)), or
+(iv) a loss from the disposition of property to
+(A) a trust governed by a plan or fund referred to in any of subparagraphs (e)(ii) to (iv) of the definition “disposition” in section 54 under which the taxpayer is a beneficiary or immediately after the disposition becomes a beneficiary, or
+(B) a trust governed by a registered retirement savings plan under which the taxpayer or the taxpayer’s spouse or common-law partner is an annuitant or becomes, within 60 days after the end of the taxation year, an annuitant,
+is nil;
+40.(3.3) Subsection (3.4) applies when
+(a) a corporation, trust or partnership (in this subsection and subsection (3.4) referred to as the “transferor”) disposes of a particular capital property (other than depreciable property of a prescribed class) otherwise than in a disposition described in any of paragraphs (c) to (g) of the definition “superficial loss” in section 54;
+(b) during the period that begins 30 days before and ends 30 days after the disposition, the transferor or a person affiliated with the transferor acquires a property (in this subsection and subsection (3.4) referred to as the “substituted property”) that is, or is identical to, the particular property; and
+(c) at the end of the period, the transferor or a person affiliated with the transferor owns the substituted property.
+40.(3.4) If this subsection applies because of subsection (3.3) to a disposition of a particular property,
+(a) the transferor’s loss, if any, from the disposition is deemed to be nil, and
+(b) the amount of the transferor’s loss, if any, from the disposition (determined without reference to paragraph (2)(g) and this subsection) is deemed to be a loss of the transferor from a disposition of the particular property at the time that is immediately before the first time, after the disposition,
+(i) at which a 30-day period begins throughout which neither the transferor nor a person affiliated with the transferor owns
+(A) the substituted property, or
+(B) property that is identical to the substituted property and that was acquired after the day that is 31 days before the period begins,
+(ii) at which the property would, if it were owned by the transferor, be deemed by section 128.1 or subsection 149(10) to have been disposed of by the transferor,
+(iii) that is immediately before control of the transferor is acquired by a person or group of persons, where the transferor is a corporation,
+(iv) at which the transferor or a person affiliated with the transferor is deemed by section 50 to have disposed of the property, where the substituted property is a debt or a share of the capital stock of a corporation, or
+(v) at which the winding-up of the transferor begins (other than a winding-up to which subsection 88(1) applies), where the transferor is a corporation,
+and, for the purpose of paragraph (b), where a partnership otherwise ceases to exist at any time after the disposition, the partnership is deemed not to have ceased to exist, and each person who was a member of the partnership immediately before the partnership would, but for this subsection, have ceased to exist is deemed to remain a member of the partnership, until the time that is immediately after the first time described in subparagraphs (b)(i) to (v).
+54. “superficial loss” — “superficial loss” of a taxpayer means the taxpayer’s loss from the disposition of a particular property where
+(a) during the period that begins 30 days before and ends 30 days after the disposition, the taxpayer or a person affiliated with the taxpayer acquires a property (in this definition referred to as the “substituted property”) that is, or is identical to, the particular property, and
+(b) at the end of that period, the taxpayer or a person affiliated with the taxpayer owns or had a right to acquire the substituted property,
+except where the disposition was
+(c) a disposition deemed by paragraph 33.1(11)(a), subsection 45(1), section 48 as it read in its application before 1993, section 50 or 70, subsection 104(4), section 128.1, paragraph 132.2(1)(f), subsection 138(11.3) or 142.5(2), paragraph 142.6(1)(b) or subsection 144(4.1) or (4.2) or 149(10) to have been made,
+(d) the expiry of an option,
+(e) a disposition to which paragraph 40(2)(e.1) applies,
+(f) a disposition by a corporation the control of which was acquired by a person or group of persons within 30 days after the disposition,
+(g) a disposition by a person that, within 30 days after the disposition, became or ceased to be exempt from tax under this Part on its taxable income, or
+(h) a disposition to which subsection 40(3.4) or 69(5) applies,
+and, for the purpose of this definition, a right to acquire a property (other than a right, as security only, derived from a mortgage, agreement for sale or similar obligation) is deemed to be a property that is identical to the property.
+55.(1) For the purposes of this subdivision, where the result of one or more sales, exchanges, declarations of trust, or other transactions of any kind whatever is that a taxpayer has disposed of property under circumstances such that he may reasonably be considered to have artificially or unduly
+(a) reduced the amount of his gain from the disposition,
+(b) created a loss from the disposition, or
+(c) increased the amount of his loss from the disposition,
+the taxpayer’s gain or loss, as the case may be, from the disposition of the property shall be computed as if such reduction, creation or increase, as the case may be, had not occurred.
+111.(3) For the purposes of subsection (1),
+(a) an amount in respect of a non-capital loss, restricted farm loss, farm loss or limited partnership loss, as the case may be, for a taxation year is deductible, and an amount in respect of a net capital loss for a taxation year may be claimed, in computing the taxable income of a taxpayer for a particular taxation year only to the extent that it exceeds the total of
+(i) amounts deducted under this section in respect of that non-capital loss, restricted farm loss, farm loss or limited partnership loss in computing taxable income for taxation years preceding the particular taxation year,
+(i.1) the amount that was claimed under paragraph (1)(b) in respect of that net capital loss for taxation years preceding the particular taxation year, and
+(ii) amounts claimed in respect of that loss under paragraph 186(1)(c) for the year in which the loss was incurred or under paragraph 186(1)(d) for the particular taxation year and taxation years preceding the particular taxation year, and
+(b) no amount is deductible in respect of a non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss, as the case may be, for a taxation year until
+(i) in the case of a non-capital loss, the deductible non-capital losses,
+(ii) in the case of a net capital loss, the deductible net capital losses,
+(iii) in the case of a restricted farm loss, the deductible restricted farm losses,
+(iv) in the case of a farm loss, the deductible farm losses, and
+(v) in the case of a limited partnership loss, the deductible limited partnership losses,
+for preceding taxation years have been deducted.
+111.(4) Notwithstanding subsection (1), where, at any time (in this subsection referred to as “that time”), control of a corporation has been acquired by a person or group of persons
+(a) no amount in respect of a net capital loss for a taxation year ending before that time is deductible in computing the corporation’s taxable income for a taxation year ending after that time, and
+(b) no amount in respect of a net capital loss for a taxation year ending after that time is deductible in computing the corporation’s taxable income for a taxation year ending before that time,
+and where, at that time, the corporation neither became nor ceased to be exempt from tax under this Part on its taxable income,
+(c) in computing the adjusted cost base to the corporation at and after that time of each capital property, other than a depreciable property, owned by the corporation immediately before that time, there shall be deducted the amount, if any, by which the adjusted cost base to the corporation of the property immediately before that time exceeds its fair market value immediately before that time,
+(d) each amount required by paragraph (c) to be deducted in computing the adjusted cost base to the corporation of a property shall be deemed to be a capital loss of the corporation for the taxation year that ended immediately before that time from the disposition of the property,
+(e) each capital property owned by the corporation immediately before that time (other than a property in respect of which an amount would, but for this paragraph, be required by paragraph (c) to be deducted in computing its adjusted cost base to the corporation or a depreciable property of a prescribed class to which, but for this paragraph, subsection (5.1) would apply) as is designated by the corporation in its return of income under this Part for the taxation year that ended immediately before that time or in a prescribed form filed with the Minister on or before the day that is 90 days after the day on which a notice of assessment of tax payable for the year or notification that no tax is payable for the year is mailed to the corporation, shall be deemed to have been disposed of by the corporation immediately before the time that is immediately before that time for proceeds of disposition equal to the lesser of
+(i) the fair market value of the property immediately before that time, and
+(ii) the greater of the adjusted cost base to the corporation of the property immediately before the disposition and such amount as is designated by the corporation in respect of the property,
+and shall be deemed to have been reacquired by it at that time at a cost equal to the proceeds of disposition thereof, except that, where the property is depreciable property of the corporation the capital cost of which to the corporation immediately before the disposition time exceeds those proceeds of disposition, for the purposes of sections 13 and 20 and any regulations made for the purpose of paragraph 20(1)(a),
+(iii) the capital cost of the property to the corporation at that time shall be deemed to be the amount that was its capital cost immediately before the disposition, and
+(iv) the excess shall be deemed to have been allowed to the corporation in respect of the property under regulations made for the purpose of paragraph 20(1)(a) in computing its income for taxation years ending before that time, and
+(f) each amount that by virtue of paragraph (d) or (e) is a capital loss or gain of the corporation from a disposition of a property for the taxation year that ended immediately before that time shall, for the purposes of the definition “capital dividend account” in subsection 89(1), be deemed to be a capital loss or gain, as the case may be, of the corporation from the disposition of the property immediately before the time that a capital property of the corporation in respect of which paragraph (e) would be applicable would be deemed by that paragraph to have been disposed of by the corporation.
+111.(5) Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that
+(a) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the total of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+(b) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending after that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular year ending before that time
+(i) only if throughout the taxation year and in the particular year that business was carried on by the corporation for profit or with a reasonable expectation of profit, and
+(ii) only to the extent of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+CITATION: 2011 TCC 507
+COURT FILE NO.: 2007-4998(IT)G
+STYLE OF CAUSE: GLOBAL EQUITY FUND LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATES OF HEARING: January 17 - 19, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF AMENDED REASONS
+FOR JUDGMENT: December 21, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Jehad Haymour
+Dan Misutka
+Counsel for the Respondent:
+Marta E. Burns
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jehad Haymour
+Firm: Fraser Milner Casgrain LLP
+Calgary, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

@@ -1,0 +1,2048 @@
+---
+title: "Pension Adjustment Guide"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084/pension-adjustment-guide.html
+last_modified: 2023-05-20
+---
+# Pension Adjustment Guide
+
+## Before you start
+
+### Is this guide for you?
+
+This guide has general information about how to calculate a pension adjustment (PA). It is designed to help employers who sponsor or participate in a registered pension plan (RPP) or a deferred profit sharing plan (DPSP) calculate a PA for each plan member. In some situations, the RPP administrator has to calculate the PA.
+
+An employer that participates in a specified retirement arrangement or a government-sponsored retirement arrangement may also have to report a PA or a prescribed amount.
+
+Some types of registered savings plans do not require the calculation and reporting of a PA. For instance, you do not report a PA for individual or group registered retirement savings plans (RRSPs) or for pooled registered pension plans.
+
+If you offer a combination of RPP or DPSP with a group RRSP, you will calculate the PA on the RPP or DPSP part only.
+
+If you are a plan member, your plan administrator or trustee is most familiar with the benefits under your plan and can answer most of your questions.
+
+This guide describes:
+
+- what a PA is and what its parts are
+
+- how to calculate PAs for various types of plans and provisions
+
+- reporting PAs for employees participating in a foreign pension plan
+
+- what a Canadian resident who works mainly outside of Canada and participates in a foreign pension plan must report on their income tax and benefit return
+
+- reporting a prescribed amount for connected persons joining a pension plan
+
+The guide explains how to calculate pension credits, including a description of different types of plans and provisions and some sample PA calculations. It also has some general information on the overall limit that applies to tax assistance for an individual's retirement savings and the effect a PA has on this limit.
+
+There could be changes to the laws before this guide is next revised, which could affect the information in this version. If you are not sure that you have the most recent information, contact the Registered Plans Directorate. See [Where to get help](#hlp).
+
+If you are blind or partially sighted, you can get our publications in braille, large print, etext or MP3 by going to [About multiple formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/help-forms-publications/about-multiple-formats.html). You can also get our publications in these formats by calling **1-800-959-8281**.
+
+La version française de cette publication est intitulée Guide du facteur d'équivalence.
+
+## 1. Tax-assisted retirement savings
+
+To encourage Canadians to save for retirement, the Income Tax Act allows individuals to take part in tax-assisted retirement savings. The system is based on an overall limit of 18% of an individual’s earned income, to a specified dollar limit. The overall limit applies to total retirement savings in registered pension plans (RPPs), deferred profit sharing plans (DPSPs), registered retirement savings plans (RRSPs) and pooled registered pension plans (PRPPs).
+
+Employees who are members of RPPs and DPSPs have a pension credit reported each year. A member's pension adjustment is the total of that member's pension credits from all plans in which the member's employer participates in the year, not including RRSPs or PRPPs.
+
+Pension adjustments make sure that all employees at similar income levels will have access to comparable tax-assisted retirement savings, regardless of what type of retirement savings plan they belong to.
+
+### 1.1 What is a pension adjustment?
+
+A pension adjustment (PA) is an individual’s total pension credits for the year with a specific employer. A PA reflects the accumulation of benefits or level of savings in a year by, or for, a member because of his or her participation in one or more RPPs or DPSPs, and possibly, some unregistered retirement plans or arrangements. Since most individuals participate in only one RPP or DPSP, their pension credit will also be their PA.
+
+An individual’s PA in a year reduces the amount that they can contribute to an RRSP and a PRPP in the next year. A PA can be zero, but it is **never a negative amount**. A PA is not required for a person who died in the year.
+
+In addition to the benefit a member earns in a year, defined benefit RPPs can provide or improve member benefits for previous years.
+
+If a member of a defined benefit RPP is credited with new or improved benefits for previous years after 1989, the increase in the member’s lifetime retirement benefits means that a past service pension adjustment (PSPA) has to be calculated. A PSPA accounts for the additional pension credits that would have been included in the member’s PA for those previous years if the upgraded benefits or service had been provided then. Similar to a PA, a PSPA reduces the member’s contribution limit to RRSPs and PRPPs.
+
+## 2. Glossary
+
+In this section, we define terms or expressions used in this guide. References to the Act mean the Income Tax Act and references to the Regulations mean the Income Tax Regulations.
+
+We have used plain language to explain the laws and terms you need to know to calculate a pension adjustment for RPPs and DPSPs. Since this guide is not a legal text, see the Act and the Regulations for exact wording or contact the Registered Plans Directorate. See [Where to get help](#hlp).
+
+**Additional voluntary contribution (Cotisations facultatives)**
+
+This is a contribution a member makes to buy more retirement benefits under a money purchase provision of an RPP.
+
+**Annualized earnings (Gains calculés sur une année)**
+
+Most defined benefit pension plans base benefits on full or partial years of pensionable service. In a final or best average formula, where the pension credit depends on pensionable earnings, you have to calculate the earnings received by part time employees or employees who worked only part of a year on an annualized basis. Often the nature of an industry defines how full-time service is built up under the terms of a pension plan. For example, if an industry sector, such as a trade, has a 4-day work week, this could be recognized as full-time pensionable service. Conversely, if an industry sector has a 5-day work week, and an individual works 4 days a week, 80% of a full year would be earned over a calendar year. To annualize earnings, divide the earnings received by the period worked, then multiply the result by the period representing a full year's work.
+
+A plan provides that a full year of service is 12 months.
+
+(earnings received ÷ months worked) × 12 months = annualized earnings
+
+If Shiyan worked 5 months and earned $30,000, her annualized earnings would be: ($30,000 ÷ 5) × 12 = $72,000
+
+**Benefit earned (Prestation acquise)**
+
+The benefit earned is the part of a member's pension that accrued during the year in a defined benefit plan. It is the basis for determining the PAs and PSPAs of plan members. You generally calculate the benefit earned by multiplying the plan's formula for the lifetime retirement benefit by the member's pensionable earnings for the year. In the case of a flat benefit plan, the benefit earned would be the year's flat amount.
+
+The Regulations limit the benefit earned for each year from 1990 to 1994 to a dollar limit (there is no dollar limit for years after 1994). The dollar limit applies when the defined benefit provision calculation above produces a higher figure. This would be the case for high income earners, but is only relevant when calculating a PSPA.
+
+The dollar limits are:
+
+- $1,277.78 for 1990
+
+- $1,388.89 for 1991 and 1992
+
+- $1,500.00 for 1993
+
+- $1,611.11 for 1994
+
+The benefit earned can also be affected by an overriding provision in the plan that limits the maximum amount of pension that can be paid. Although all plans must limit the lifetime retirement benefits to the maximum amount allowed under the Regulations, some plans have an overriding provision that has a lower amount than this limit. If the overriding provision applies, calculate the benefit earned using the overriding provision. In any case, the benefit earned cannot be above the lesser of the following amounts:
+
+- 2% × earnings in the year
+
+- the defined benefit limit (described below)
+
+We show how to apply an overriding provision in section 11.1.
+
+The overriding provision outlined above can also affect the benefit earned if retroactive benefits are provided and you have to redetermine the pension credits. We discuss retroactive benefits and redetermination of pension credits in section 11.5.
+
+**Connected person (Personne rattachée)**
+
+A person is connected with an employer if he or she alone or in combination with someone else holds 10% or more of the issued shares of any class of shares of the employer or a related corporation, does not deal at arm’s length with the employer, or is a person who provides services to an employer who is carrying on a personal-services business if certain conditions applied.
+
+**Defined benefit limit** **(Plafond des prestations déterminées)**
+
+The defined benefit limit is the greater of:
+
+- $1,722.22
+
+- 1/9 of the money purchase limit (described below)
+
+The defined benefit limit is one of the factors used in the legislative formula that limits the maximum lifetime retirement benefits that can be paid from a defined benefit provision. For the current and historical limits, please visit [Annual limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+**Earnings (Gains ouvrant droit à pension)**
+
+Earnings mean the amount of compensation (pensionable earnings) used to calculate pension benefits.
+
+The Regulations require that you do not include benefits for a certain range of earnings when you calculate a benefit earned (described above) for 1990 to 1994. The ranges of earnings are:
+
+- $63,889 to $86,111 for 1990
+
+- $69,444 to $86,111 for 1991 and 1992
+
+- $75,000 to $86,111 for 1993
+
+- $80,556 to $86,111 for 1994
+
+This earnings exclusion only applies if retroactive benefits are provided and a redetermination of pension credits for any of the above years is required. We discuss retroactive benefits and redetermination of pension credits in section 11.5.
+
+**Enhanced CPP or QPP (Prestations améliorées du RPC et du RRQ)**
+
+Plan administrators who have an integrated benefit formula in their plans can choose to reflect the increase to the benefits payable under the Canada Pension Plan (CPP) or Quebec Pension Plan (QPP) when calculating the PA amounts. A plan amendment would need to be submitted to the Registered Plans Directorate before making a change to the calculation. See section 5.2.4. for examples of integrated formula calculations.
+
+The percentage of the enhanced CPP or QPP will change over the following 5 year period:
+
+- 25% for 2018 and preceding years
+
+- 26.25% for 2019
+
+- 27.50% for 2020
+
+- 29.165% for 2021
+
+- 31.25% for 2022
+
+- 33.33% for 2023 and subsequent years
+
+**Forfeited amount** **(Montant perdu)**
+
+A forfeited amount is an amount a member no longer has rights to under a DPSP or a money purchase provision of an RPP. Amounts are often forfeited when a member stops working before employer contributions have vested. If forfeited amounts are reallocated to other members’ accounts in the plan or provision, they must be included in their pension credit in the year they are allocated.
+
+**Government-sponsored retirement arrangement (Mécanisme de retraite sous régime gouvernemental)**
+
+A government-sponsored retirement arrangement is an unregistered retirement plan that provides retirement income to individuals who are not employees of a government or another public body, but who are paid from public funds for their services.
+
+**Member (Participant)**
+
+This is an individual who has a right to receive benefits under the plan or provision of an RPP or DPSP. This does not include an individual who has such a right only because another individual is participating in the plan (for example, a member’s beneficiary is not a member of the plan).
+
+**Money purchase limit (Plafond des cotisations déterminées)**
+
+The money purchase limit is:
+
+- $11,500 for 1990
+
+- $12,500 for 1991 and 1992
+
+- $13,500 for 1993
+
+- $14,500 for 1994
+
+- $15,500 for 1995
+
+- $13,500 for 1996 to 2002
+
+- $15,500 for 2003
+
+- $16,500 for 2004
+
+- $18,000 for 2005
+
+- $19,000 for 2006
+
+- $20,000 for 2007
+
+- $21,000 for 2008
+
+- $22,000 for 2009
+
+For the years after 2009, the limit is whichever of the following amounts is **greater**:
+
+- $22,000 × (average wage for the year divided by the average wage for 2009), rounded to the nearest multiple of $10, or if the amount is the same distance between two multiples of $10, rounded to the higher number
+
+- the limit for the previous year
+
+For the current and historical limits, please visit [Annual limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+**Money purchase / Defined contribution provision** **(Disposition à cotisations déterminées)**
+
+A money purchase (also known as a defined contribution) provision is a provision of an RPP in which separate accounts are kept for each member, and in which each account is:
+
+- credited with contributions made by or for the member, as well as any other allocations made for the member
+
+- charged for payments made for the member
+
+Under a money purchase provision, the member’s benefits are determined only on amounts in the member’s account. Section 3 provides more information on money purchase provisions.
+
+**Pension adjustment limits (Limites du facteur d'équivalence)**
+
+The pension adjustment (PA) limits for a single-employer plan are stated in subsection 147.1(8) of the Act, and for a multi-employer plan (MEP), in subsection 147.1(9). For specified multi-employer plans (SMEPs), subsection 8510(7) of the Regulations states the limits. The PA limits for DPSPs are in subsection 147(5.1) of the Act. If the PA for one or more individuals is more than the limit, the registration of the plan may be revoked.
+
+Changes to the money purchase limit reduce the PA limits in the Act from 1996 to 2003. Subsection 8509(12) of the Regulations contains a transitional relieving provision to make sure that an otherwise acceptable defined benefit RPP will not be revoked. In general terms, it provides that, if the defined benefit pension credits of a member are more than the money purchase limit in any year from 1996 to 2003, the part of the pension credits that is more than the money purchase limit but less than $15,500, is disregarded. If the pension benefit is the sum of a defined benefit provision and a money purchase provision, which results in the total PA being more than the money purchase limit, then the plan can be revoked.
+
+Although the Act does not require it, the terms of some plans limit contributions and benefits to the PA limit.
+
+**Pension adjustment offset (Montant de réduction du facteur d’équivalence)**
+
+The pension adjustment offset is used in the pension credit formula (described below). The offset is $1,000 until the end of 1996. Starting in 1997, the offset is $600. Throughout this guide, we will use $600 as the offset. The offset is part of the calculation to make sure that defined benefit pension plan members will, in most cases, have at least $600 in RRSP contribution room for the following year.
+
+**Pension credit (Crédit de pension)**
+
+The pension credit is a measure of the value of the benefits earned during the calendar year under an RPP or DPSP. The method you use to calculate pension credits depends on the type of plan and provision.
+
+**Pension credit formula (Formule du crédit de pension)**
+
+The pension credit formula is used to calculate the pension credit for a defined benefit provision of an RPP (except for a SMEP). For more information, see section 5.
+
+**Provision (Disposition)**
+
+This is a part of an RPP that describes how benefits are calculated for a member. There may be more than one provision in an RPP. A provision can either be defined benefit or money purchase.
+
+**Resident compensation (Rétribution du résident)**
+
+An individual's resident compensation is the total of the individual's salaries, wages and other amounts from an office or employment, not including amounts that are exempt from income tax in Canada under a tax convention or agreement. This term is used to calculate pension credits or prescribed amounts under foreign pension plans and SRAs.
+
+**Service (Service)**
+
+The number of full and partial years of service for which a provision provides retirement benefits. Partial years are expressed as fractions of the year. The plan you administer defines what is included as service. Plans often refer to this as pensionable or credited service.
+
+**Simplified pension plan (Régime de pension simplifié)**
+
+A simplified pension plan is a money purchase pension plan marketed by a financial institution and designed to reduce the administrative burden on employers. Typically, participation is open to any employer that wants to join the plan, although the administrator can set limits. We consider a plan to be a simplified pension plan in either of these situations:
+
+- the administrator of the plan is not a representative of participating employers or plan members (although the administrator may be one of the participating employers)
+
+- no participating employer (other than a participating employer that is also the plan administrator) or plan member has any significant involvement in setting up the plan or in determining its terms
+
+If you participate in a simplified pension plan, you will calculate the pension credit as stated in section 5.1.
+
+**Specified retirement arrangement (Mécanisme de retraite déterminé)**
+
+A specified retirement arrangement is an unfunded or partially-funded retirement compensation arrangement (or would be if an employer contributed to it) that is not registered for income tax purposes. Under the arrangement, payments can be made after an individual ends employment. A specified retirement arrangement does not include an arrangement where payments are to end by the individual's 71st birthday or by the day that is five years after the individual quits employment, whichever is later. It also does not include an arrangement where funding is regulated by pension benefits legislation. Neither does it include an arrangement that is not subject to federal pension benefits legislation, but is being funded as though it were.
+
+**Surplus (Surplus)**
+
+A surplus occurs in a defined benefit provision of an RPP when the assets are more than the liabilities necessary to fund the benefits under the provision.
+
+A surplus in a money purchase provision exists if a money purchase provision replaces a defined benefit provision and there was an actuarial surplus under the defined benefit provision.
+
+**Vesting, vested (Acquisition, droits acquis)**
+
+This refers to the period of time that a member must be in a plan before being entitled to receive benefits from the plan. If a member leaves before this time, no benefits are payable (other than a return of member contributions).
+
+**Year's maximum pensionable earnings (Maximum des gains annuels ouvrant droit à pension)**
+
+The year’s maximum pensionable earnings (YMPE) is the amount of earnings, defined by the Canada Pension Plan, on which benefits from the Canada Pension Plan and Quebec Pension Plan are based.
+
+For the current and historical limits, please visit [Annual limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+## 3. Calculating pension credits
+
+### 3.1 Pension credits
+
+Each DPSP and each provision of an RPP produce a pension credit for the member. The method you use to calculate pension credits depends on the type of plan and provision.
+
+Round all pension credits to the nearest dollar. If an amount is halfway between two dollar amounts, round it to the next highest dollar.
+
+All employers who participate in an RPP or DPSP must calculate a PA for each of their employees that participates in the plan. In some situations, the RPP's administrator must calculate the PA. For example, this would be the case if, while on a leave of absence from employment, a member makes RPP contributions directly to the administrator. A union or employer association may also share responsibility for calculating a PA. This would be the case if an RPP is a SMEP and the union or employer association receives multi-purpose payments, part of which is then contributed to the RPP.
+
+Generally, the employer has to report the PA for each employee on a T4 or T4A information slip by the last day of February each year. In some situations, the RPP administrator has to report the PA.
+
+The employer should also make sure that the plan(s) in which it participates will not provide benefits that cause a member's PA to go over the limits. For more details, see the definition of **pension adjustment limits** in the glossary.
+
+### 3.2 Types of plans
+
+**Deferred profit sharing plan**
+
+A DPSP is an arrangement under which an employer may share profits from their business with all or a specified group of employees to provide benefits. Contributions are generally stated as a percentage of the employer’s profits or employee’s earnings. Members cannot contribute to a DPSP. These plans are governed by the Act and the Regulations and are not subject to provincial pension legislation. You include DPSP pension credits for the year in a member's PA.
+
+The PA limit for a DPSP is half the money purchase limit for the year.
+
+**Registered pension plan**
+
+A registered pension plan (RPP) is an arrangement by an employer to provide periodic payments to individuals after retirement and until death for their service as employees. An RPP is subject to the Act and Regulations, and may also be regulated by provincial and federal pension legislation (for example, the Pension Benefits Standards Act).
+
+There are two basic types of benefit provisions for RPPs:
+
+- **Money purchase provision:**A money purchase pension plan is one in which contributions made by the employer (and by employees, if the plan requires or allows them to contribute) are credited to each member. The pension benefits are based on the total of the accumulated contributions and investment earnings. Forfeited amounts may also be credited to the member. These plans are also known as defined contribution plans. A member’s account includes the following amounts:
+
+    - the total of all required contributions the employer and employee made, as well as any additional voluntary contributions the employee made and any related investment earnings
+
+    - allocated forfeited amounts and related earnings that have accumulated in the member’s account
+
+- **Defined benefit provision:**In a defined benefit pension plan, retirement benefits are not based on accumulated contributions. The terms of a defined benefit plan or provision guarantee a specified level of pension income to a plan member when they retire. The level is set by a benefit formula in the plan.
+
+Defined benefit provisions come in various forms:
+
+- **Final or best average**: Benefits are based on the member’s earnings averaged over a short period such as the final few years of service, or the 3 or 5 years of highest earnings (for example, 2% of the average of the final 3 years of pensionable earnings × years of pensionable service)
+
+- **Career average**: Benefits are based on the member’s earnings in each year of service under the plan (for example, 2% of pensionable earnings for each year of service)
+
+- **Flat benefit**: Generally, benefits are expressed as a dollar amount for each month or year of service (for example, $55 per month per year of service)
+
+Some plans have more than one benefit provision or take into account the benefits payable under another plan or provision. For example, a plan may consist of a defined benefit provision and a money purchase provision, or the benefits under a defined benefit provision may be reduced by the benefits payable under a money purchase provision or a DPSP.
+
+You have to calculate a pension credit for each RPP provision and each DPSP. The sum of all these pension credits is the PA that you report on a T4 or T4A.
+
+When referring to RPPs in this guide, we make the following three distinctions:
+
+**Single-employer plan**
+
+Single-employer plans contain a money purchase provision, a defined benefit provision, or both. One employer generally sponsors such a plan for its employees.
+
+Sometimes, more than one employer contributes to the same plan. This doesn’t mean it’s a multi-employer plan, which we describe next. References in this guide to single-employer plans include plans in which more than one employer participates, but that do not fit our description of a multi-employer plan.
+
+**Multi-employer plan**
+
+A multi-employer plan (MEP) is a registered pension plan sponsored by a group of employers. However, not every plan with more than one participating employer is a MEP.
+
+A registered pension plan is a MEP in a calendar year if, at the start of the year (or when the plan is set up), it is reasonable to expect that at no time in the year will more than 95% of the active members be employed by one participating employer or by a related group of participating employers. The term **active member** is defined in subsection 8500(1) of the Regulations. The terms **related persons** and **related group** are defined in subsections 251(2) and 251(4) of the Act respectively. You can find more information on these terms in [Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm’s Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html). A MEP includes a plan that is a specified multi-employer plan (SMEP).
+
+**Specified multi-employer plan**
+
+A SMEP is an RPP, offered by a group of employers or by a union acting together with employers, which meets the conditions of subsection 8510(2) of the Regulations.
+
+## 4. Calculating pension credits for deferred profit sharing plans
+
+To calculate pension credits:
+
+1. Include all employer contributions made in the year for the member. Treat contributions made by the end of February that relate to the previous year as contributions for that year
+
+2. Add any forfeited amount(s) and related earnings allocated (but not paid) in the year to the member under the plan. If forfeited amounts are always returned to the employer, this amount will be zero
+
+3. Subtract amounts included in 1 and 2 above that were paid out in the year or the first 2 months of the next year if all of the following apply:
+
+    - the amount is equal to or less than 50% of the money purchase limit (that is, for 2019, 50% of $27,230 or $13,615)
+
+    - the amount is greater than 18% of current year's compensation received from the employer
+
+    - the amount is equal to or less than 18% of the prior year's compensation received from the employer
+
+Any further reference in this chapter to **forfeited amount(s)** refers to allocated forfeitures and related earnings.
+
+The Act requires that the employer limit its annual contributions to a DPSP for an employee in the following three ways:
+
+- an employer's contributions to one or more DPSPs for a year must not cause the total of the employee's DPSP pension credits calculated by that employer to be more than half of the money purchase limit or 18% of the employee's actual earnings in the year, whichever is less
+
+- if two or more non arm's length employers participate in the same DPSP or different DPSPs, each employer's contributions to the DPSP(s) for the year must not cause the total of the employee's DPSP pension credits calculated by all the employers to be more than half of the money purchase limit
+
+- if the employee is also a member of another DPSP or an RPP in which the employer or a non arm's length employer participates, each employer's contributions to the DPSP for a year must not cause the total of the employee's PAs reported by all the employers (the sum of all DPSP and RPP pension credits) to be more than the money purchase limit or 18% of the employee's total earnings from the employers, whichever is less
+
+In example 1, the employer is the only participant in the DPSP in 2019 and participates in no other registered plan. The combined contributions and forfeited amounts are restricted to 1/2 the money purchase limit or 18% of member earnings, whichever is less.
+
+Member's earnings:
+
+$60,000
+
+Legislative limit = lesser of:
+
+1/2 × money purchase limit ($27,230) = $13,615
+
+18% × $60,000 = $10,800
+
+Formula for contributions:
+
+1% of net profits
+
+Net profits:
+
+$900,000
+
+Forfeited amount allocated to member:
+
+$110
+
+Employer's contribution:
+
+(1% × $900,000) = $9,000)
+
+Pension credit:
+
+employer's contribution plus the forfeited amount = $9,110
+
+If two or more employers participate in the same DPSP for a member, each employer has to calculate and report that part of the member's pension credit that arises from working for that employer. In example 2, the maximum each employer can contribute under the terms of the plan is $1,000 and there were no forfeited amounts.
+
+Formula for contributions out of profits:
+
+1% of member's earnings
+
+Member's earnings:
+
+Employer A:
+
+$10,000
+
+Employer B:
+
+$25,000
+
+Employer contribution:
+
+Employer A:
+
+1% × $ 10,000
+
+Employer B:
+
+1% × $ 25,000
+
+So employer A would report a PA of $100 and employer B would report a PA of $250.
+
+## 5. Calculating pension credits for single-employer registered pension plans
+
+### 5.1 Money purchase provision
+
+Pension credits include:
+
+- all employer contributions made in, and relating to, a year for the member (treat contributions made by the end of February that relate to the preceding year as contributions for the preceding year)
+
+- all member contributions made in, and relating to, a year, not including amounts transferred to the plan from an RRSP, RPP, PRPP or DPSP
+
+- any forfeited amount, and related earnings, allocated (but not paid) in the year to the member under the provision
+
+- any surplus allocated to the member, whether it stays in the plan or is transferred to another RPP, a PRPP or an RRSP
+
+Do not include in the pension credit certain contributions that were made in the year, but that are for an earlier year or years. For more information, see section 11.5.
+
+In example 3, the employer is the only participant in the plan in 2019 and participates in no other registered plan.
+
+Forfeited amount allocated to the member:
+
+$100
+
+Formula for contributions:
+
+by employer:
+
+5% of earnings
+
+by member:
+
+5% of earnings
+
+Member's earnings:
+
+$40,000
+
+Legislative limit on contributions and forfeitures = lesser of:
+
+18% × $40,000 = $7,200
+
+money purchase limit = $27,230
+
+Pension credit parts:
+
+Member contributions:
+
+(5% × $40,000) = $2,000
+
+Employer contributions:
+
+(5% × $40,000) = $2,000
+
+Forfeited amount =
+
+$100
+
+Pension credit =
+
+$4,100
+
+If two or more employers participate in the same money purchase provision for a member, the plan administrator may have to calculate the part of the member's contributions, or the amounts allocated to the member, that are to be included in the pension credit for each employer. This is important to avoid going over the PA limit. The following is an example of such a calculation assuming that:
+
+- the member made a lump-sum additional voluntary contribution (AVC) during the year
+
+- according to the plan, forfeited amounts are allocated equally among all the members
+
+Formula for contributions:
+
+Member:
+
+5% of earnings
+
+Employer:
+
+5% of earnings
+
+Member's earnings:
+
+Employer A:
+
+$10,000
+
+Employer B:
+
+$30,000
+
+Member's total earnings:
+
+$40,000
+
+Member's AVC:
+
+$2,500
+
+Forfeited amount =
+
+$500
+
+Total AVC and forfeited amount:
+
+$3,000
+
+AVC and forfeited amount in proportion to service:
+
+Employer A:
+
+($10,000/$40,000) × $3,000 = $750
+
+Employer B:
+
+($30,000/$40,000) × $3,000 = $2,250
+
+Pension credit:
+
+Employer A:
+
+(5% × $10,000) + (5% × $10,000) + $750 = $1,750
+
+Employer B:
+
+(5% × $30,000) + (5% × $30,000) + $2,250 = $5,250
+
+### 5.2 Defined benefit provision
+
+The pension credit under a defined benefit provision is based on the benefit earned by the member under the provision during the year. Use the full amount of the benefit earned, even if the benefit is not vested.
+
+If a member ends his or her participation in an RPP before the benefit is vested, you must still calculate and report a PA, in addition to calculating a pension adjustment reversal. For more information on the pension adjustment reversal, see [Guide RC4137, Pension Adjustment Reversal](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4137.html).
+
+The first step in determining the pension credit is to calculate the benefit earned during the year by doing the following:
+
+- calculate the annual amount of retirement pension that would be payable based on all years of service up to and including the year for which the PA is being calculated. Then subtract the annual amount of retirement pension that would have been payable based on all years of service up to, but not including, the year for which the PA is being calculated. Generally, you can use your plan's pension benefit formula, based on one year's service, to determine the benefit earned. For part time or part year employees, see section 11.3
+
+- if benefits are determined as a percentage of earnings, multiply the member's pensionable earnings for the year by the benefit rate
+
+- for flat benefit plans, take the flat benefit amount for the year
+
+To calculate the benefit earned, you should apply the following rules:
+
+**Current year earnings** – In final, best, or career average provisions, you have to use the earnings for the year the pension credit is being calculated, even when benefits are based on earnings in other years.
+
+**Excluded benefits** – Do not include the following benefits when calculating the benefit earned:
+
+- bridging benefits (temporary benefits ending at a fixed date that was known before they started), even if paid
+
+- any indexing of earnings to reflect the increase in average wages and salaries between the year of earnings and the year in which benefits are determined
+
+- early retirement reduction, even if it applied to a member who retired during the year
+
+- amounts resulting from the deferred start of a pension past age 65, when the increased pension is not more than the actuarial equivalent of the pension payable at age 65 (see Postponed retirement below if the increased pension is more than the actuarial equivalent payable at age 65)
+
+- cost-of-living adjustment made before the end of the year for a member whose pension starts in a year, if the increase is not more than the greater of 4% per year and the increase in the consumer price index between the date of retirement and the date of the increase. **Note**: If the increase is more than the greater of the above amounts, include the entire adjustment when calculating the benefit earned
+
+- adjustments to a member's pension that depend on whether the member is totally and permanently disabled when payments start
+
+- additional benefits provided because a plan member has contributed more than 50% of the value of his or her pension (as required by most provincial pension legislation). This applies to all members, if the plan covers members in a jurisdiction requiring such additional benefits
+
+**Postponed retirement** – If a member continues to earn benefits under the provision beyond age 65, calculate the benefit earned for the year in the usual manner. An increased pension may be provided to a member who has stopped earning benefits and postpones receiving a pension beyond age 65. If the increased pension is more than the actuarial equivalent of a pension payable at age 65, include the extra amount when calculating the benefit earned for the year. This applies to members over age 65 who earned such additional pension in the year. You can use any reasonable method to estimate the amount of the excess.
+
+**Year's maximum pensionable earnings** – Use the year's maximum pensionable earnings (YMPE) for the year that the pension credit is being calculated, even if the benefit formula requires the use of the YMPE for other years.
+
+The final step is to apply the pension credit formula:
+
+(9 × benefit earned) – $600 = pension credit
+
+If the calculation results in a negative amount, the pension credit is zero.
+
+The following examples show how to calculate the benefit earned and pension credits for several types of defined benefit provisions.
+
+#### 5.2.1 Flat benefit
+
+To calculate the benefit earned in the year, multiply the flat benefit amount by either the number of months or the fraction of the year worked during the year, depending on how the flat rate is expressed.
+
+Pension formula:
+
+$25 per month for each complete year worked
+
+Benefit earned:
+
+12 months × $25 = $300
+
+Pension credit:
+
+(9 × $300) – $600 = $2,100
+
+#### 5.2.2 Percentage of contributions
+
+To calculate the benefit earned, multiply the percentage defined under the plan by the member's contributions made in the year.
+
+Pension formula:
+
+40% of member's contributions per year
+
+Member's contribution:
+
+5% of earnings per year
+
+Member's salary:
+
+$40,000
+
+Benefit earned:
+
+40% × (5% × $40,000) = $800
+
+Pension credit:
+
+(9 × $800) – $600 = $6,600
+
+#### 5.2.3 Final, best, or career average earnings
+
+To calculate a member's benefit earned, multiply the plan's benefit rate by the member's pensionable earnings.
+
+Pension formula:
+
+2% × average of final 3 years of earnings
+
+Member's earnings:
+
+$40,000
+
+Benefit earned:
+
+2% × $40,000 = $800
+
+Pension credit:
+
+(9 × $800) – $600 = $6,600
+
+#### 5.2.4 Integrated formulas
+
+**Step rated (based on YMPE)** – In certain plans, the calculation of the pension is graded, or step rated, to account for the pension to be paid from the Canada Pension Plan/Quebec Pension Plan (CPP/QPP). To do this, the plan's formula refers to the YMPE. In these cases, you should use the amount of the YMPE for the year the pension credit is being calculated.
+
+For example 8, the year is 2019.
+
+Pension formula:
+
+1.4% × average of best 5 years of earnings up to 3 year average of the YMPE
+
+**plus**
+
+2% × average of best 5 years of earnings above 3 year average of the YMPE
+
+Member's earnings:
+
+$70,000
+
+YMPE:
+
+$57,400
+
+Benefit earned:
+
+(1.4% × $57,400) + [2% × ($70,000 – $57,400)] = $803.60+ 252 = $1,055.60
+
+Pension credit:
+
+(9 × $1,055.60) – $600 = $8,900 (rounded)
+
+**Integrated with CPP or QPP** – In integrated plans, subtract all or part of the **actual** CPP or QPP benefits payable when determining the benefit earned. To calculate the government benefits, take 25% of the YMPE **or** the member's annualized earnings, whichever amount is less. You can use another method if the results are reasonably similar to those produced by this method. An acceptable alternative would be to multiply the YMPE by .007 where the CPP/QPP benefits are amortized over 35 years as in example 9 (.25 × 1/35 = .007).
+
+For example 9, the year is 2019.
+
+Pension formula:
+
+2% × average of final 3 years of earnings
+
+**minus**
+
+1/35 × actual CPP benefits
+
+Maximum service:
+
+35 years
+
+Member's earnings:
+
+$70,000
+
+Member's service:
+
+less than 35 years *
+
+YMPE:
+
+$57,400
+
+CPP offset:
+
+25% × $57,400 × 1/35 = $410
+
+Benefit earned:
+
+(2% × $70,000) – $410 = $990
+
+Pension credit:
+
+(9 × $990) – $600 = $ 8,310
+
+*If the member had more than 35 years of service at the start of the year, the offset would not apply. If the member reaches 35 years of service in the year, prorate the benefit earned and the CPP offset.
+
+**Integrated with enhanced CPP or QPP** – The amount of the CPP offset will change depending on the percentage for the year. The percentages are listed in the glossary under enhanced CPP or QPP. For example 10, the year is 2019, so the enhanced CPP percentage is 26.25%.
+
+Pension formula:
+
+2% × average of final 3 years of earnings
+
+**minus**
+
+1/35 × actual CPP benefits
+
+Maximum service:
+
+35 years
+
+Member's earnings:
+
+$70,000
+
+Member's service:
+
+less than 35 years *
+
+YMPE:
+
+$57,400
+
+CPP offset:
+
+26.25% × $57,400 × 1/35 = $430.50
+
+Benefit earned:
+
+(2% × $70,000) – $430.50 = $969.50
+
+Pension credit:
+
+(9 × $969.50) – $600 = $ 8,125.50
+
+*If the member had more than 35 years of service at the start of the year, the offset would not apply.
+
+**Integrated with old age security (OAS) benefits** – If a defined benefit is reduced by all or part of an OAS benefit payable, use the maximum OAS benefit payable in the year for which the PA is being calculated. For example 11, the annual maximum OAS benefit is $7,210.20.
+
+Pension formula:
+
+2% × average of best 3 years of earnings
+
+**minus**
+
+50% of OAS benefits, with proportionate reduction for member with less than 20 years of service
+
+Member's earnings:
+
+$50,000
+
+Member's service:
+
+less than 20 years *
+
+Maximum OAS benefit:
+
+$7,210.20
+
+OAS offset:
+
+50% × $7,210.20 × 1/20 = $180.26
+
+Benefit earned:
+
+(2% × $50,000) – $180.26= $819.75
+
+Pension credit:
+
+(9 × $819.75) – $600 = $6,778 (rounded)
+
+*If the member had more than 20 years of service at the start of the year, the offset would not apply.
+
+#### 5.2.5 Combination of benefit formulas
+
+The defined benefits under one provision may be combined with those provided under another plan or a provision of the same plan. The combination results in the defined benefits being reduced or increased by benefits under another provision or plan:
+
+**Defined benefits increased by benefits under another plan or provision** – Calculate the pension credit in the usual way for each provision or plan. Since the PA is always the total of all pension credits with the employer, add both credits to determine the PA.
+
+**Defined benefits reduced by other defined benefits** – There are two variations to the usual way that you would calculate the pension credit for each plan or provision. First, reduce the benefit earned under the first provision (the one requiring the reduction) by the benefit earned under the second provision. Second, split the $600 in the pension credit formula so that no more than $600 is offset between the two pension credits.
+
+Pension formula:
+
+Plan 1:
+
+$30 per month
+
+Plan 2:
+
+1.5% × average of final 3 years of earnings **minus** pension payable from Plan 1
+
+Member's earnings:
+
+$50,000
+
+Benefit earned:
+
+Plan 1:
+
+12 months × $30 = $360
+
+Plan 2:
+
+(1.5% × $50,000) – $360 = $390
+
+In this case, the employer decides to split the $600 offset equally between the two plans when calculating the pension credit.
+
+Plan 1:
+
+(9 × $360) – $300 = $2,940
+
+Plan 2:
+
+(9 × $390) – $300 = $3,210
+
+Total pension credits:
+
+$6,150
+
+In more complex situations where, for example, there is a dollar limit on the benefit earned, apply the dollar limit separately to each plan or provision before calculating the second pension credit and subtracting it from the first.
+
+Pension formula:
+
+Plan 1:
+
+1% x average of final 3 years of earnings
+
+Plan 2:
+
+2% x average of final 3 years of earnings
+
+**minus**
+
+pension payable from Plan 1
+
+Member's earnings:
+
+$200,000
+
+Pension credit year:
+
+2019
+
+Defined Benefit limit for 2019
+
+$3,025.56
+
+Benefit earned: the lessor of DB limit or benefit earned in each plan
+
+Plan 1:
+
+1% x $200,000 = $2,000
+
+Lessor of $4,000 (2% x $200,000)
+
+Plan 2:
+
+or $3,025.56 - $2,000 =
+
+$3,025.56-$2,000 = $1,025.56
+
+Pension credit (with the $600 PA offset split between the two plans)
+
+Plan 1:
+
+(9 x $2,000)-$300 = $17,700
+
+Plan 2:
+
+(9 x $1,025.56)-$300 = $8,930.04
+
+Total pension credits:
+
+$26,630.04
+
+The defined benefit limit must always be applied before the offsetting provision is deducted from the main provision.
+
+**Defined benefits reduced by money purchase or deferred profit sharing plan benefits** – There is one variation to the usual way that you would calculate the pension credit for the provision requiring the reduction. Before applying the pension credit formula, subtract from the benefit earned 1/9 of the pension credit obtained under the money purchase provision or DPSP. Calculate the pension credit for the money purchase provision or the DPSP in the usual way. Example 14 shows how to offset money purchase pension credits from a defined benefit pension credit.
+
+Plan 1:
+
+Pension formula:
+
+1.75% × average of final 3 years of earnings
+
+**minus**
+
+benefits provided under Plan 2
+
+Plan 2:
+
+Contributions:
+
+Member – 3% of member's earnings
+
+Employer – 2% of member's earnings
+
+Member's earnings:
+
+$40,000
+
+Plan 2:
+
+Pension credit:
+
+(3% + 2%) × $40,000 = $2,000
+
+Offset for Plan 1:
+
+$2,000 × 1/9 = $222.22
+
+Benefit earned:
+
+Plan 1:
+
+(1.75% × $40,000) – $222.22 (offset) = $477.78
+
+Pension credit:
+
+Plan 1:
+
+(9 × $477.78) – $600 = $3,700
+
+Pension adjustment:
+
+$2,000 + $3,700 = $5,700
+
+#### 5.2.6 Benefits based on the greater or lower of two formulas
+
+Some plans contain more than one formula, and benefits are determined according to the formula that produces the greater benefits, or in some cases, the lower benefits. You have to take all formulas into account when calculating the benefit earned. The Regulations do not permit the greater of a defined benefit provision and money purchase provision.
+
+Pension formula: greater of:
+
+2% × each year's earnings
+
+1.5% × average of final 3 years of earnings
+
+Member's earnings:
+
+$45,000
+
+Benefit earned: greater of:
+
+2% × $45,000 = $900
+
+1.5% × $45,000 = $675
+
+Pension credit:
+
+(9 × $900) – $600 = $7,500
+
+#### 5.2.7 Benefit rates linked to service
+
+If the benefit rate changes with years of service, you have to consider this when you calculate the benefit earned.
+
+Pension formula:
+
+1.5% × final average earnings for the first 10 years of pensionable service
+
+**plus**
+
+1% × final average earnings after 10 years
+
+Member's service:
+
+10 years, as of May 31
+
+Member's earnings:
+
+$50,000
+
+Benefit earned:
+
+(1.5% × $50,000 × 5/12)+(1% × $50,000 × 7/12) = $312.50 + $291.67 = $604.17
+
+Pension credit:
+
+(9 × $604.17) – $600 = $4,838 (rounded)
+
+#### Note
+
+If the change in the benefit rate affects a prior year's benefit earned, you may need to calculate a PSPA. See [GuideT4104, Past Service Pension Adjustment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html).
+
+## 6. Calculating pension credits for multi-employer plans
+
+If you are an employer that participates in a MEP (not a SMEP), the total of all amounts, each of which is the member’s pension credit in relation to their employment with you, must not be more than the lesser of the money purchase limit for the year and 18% of the member’s compensation for the year. If the member works for more than one participating employer, the total pension credits for the member must not be more than the money purchase limit for the year.
+
+### 6.1 Money purchase provision
+
+The calculation of a pension credit is the same as the calculation for a money purchase provision of a single-employer plan found in section 5.1
+
+### 6.2 Defined benefit provision
+
+You calculate a pension credit for a defined benefit provision the same way as you do a defined benefit provision of a single-employer plan, unless the member has:
+
+- worked for two or more employers in the year
+
+- worked part-time or less than the full year
+
+- ended employment in the year
+
+The rules take into account the fact that an employer may not have all the information needed to calculate defined benefit pension credits, such as information about a member's employment in the year with other employers who participate in the plan. In each of the three scenarios above, the pension credit formula is prorated for both the benefit earned and the PA offset by the part of the year worked with each employer.
+
+Each employer has to calculate a pension credit as though the member had not worked for any other employer. As an employer, you have to annualize the amount earned by the member while the member worked for you. Use the fraction of the year actually worked by the member to calculate the benefit earned. Apply the same fraction to the $600 offset in the pension credit formula.
+
+In the next example, the year is 2019 and the YMPE $57,400.
+
+Pension formula:
+
+1.5% of final average earnings up to YMPE
+
+**plus**
+
+2% of final average earnings above YMPE
+
+Employer A:
+
+Actual earnings:
+
+$18,000 for 3 months employment
+
+Annualized earnings:
+
+($18,000÷3) × 12 = $72,000
+
+Benefit earned:
+
+(1.5% × $57,400) +
+
+[2% × ($72,000 – $57,400)] =
+
+$861 + $292 = $1,153
+
+Benefit earned apportioned for service:
+
+$1,153 × 3/12 = $288.25
+
+Pension credit:
+
+(9 × $288.25) – ($600 × 3/12) =
+
+$2,594.25 – $150 = $2,444 (rounded)
+
+Employer B:
+
+Actual earnings:
+
+$45,000 for 9 months employment
+
+Annualized earnings:
+
+($45,000 ÷ 9) × 12 = $60,000
+
+Benefit earned:
+
+(1.5% × $57,400) +
+
+[2% × ($60,000 – $57,400)] =
+
+$861+ $52 = $913
+
+Benefit earned apportioned for service:
+
+$913 × 9/12 = $684.75
+
+Pension credit:
+
+(9 × $684.75) – ($600 × 9/12) = $6,162.75 – $450 = $5,713 (rounded)
+
+Total pension credit for this member
+
+= $2,444 + $5,713 = $8,157
+
+You can ask for a waiver of these modified rules that require you to annualize earnings and prorate the $600 offset by writing to the Registered Plans Directorate. See [Where to get help](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4084/pension-adjustment-guide.html).
+
+## 7. Calculating pension credits for specified multi-employer plans
+
+### 7.1 Money purchase provision
+
+You generally calculate member pension credits the same as you would for a money purchase provision of a single-employer plan. However, the rules for contributions or payments stated in section 7.2 also apply if:
+
+- contributions were made directly to the plan administrator
+
+- contributions were made indirectly, for example, through a union or employer association
+
+- multi-purpose payments were made indirectly, for example, through a union or employer association
+
+### 7.2 Defined benefit provision
+
+The pension credit is calculated based on contributions, regardless of the provision's defined benefit formula. Also, you have to calculate pension credits for all employees for whom you make contributions, not just plan members. In some cases this will result in an individual receiving a pension credit even though they will never receive the benefits from those contributions.
+
+For a defined benefit provision of a SMEP, the pension credit for a calendar year equals the total of the following amounts:
+
+- employee contributions made in the year for that same year, or made in the year for a plan year that ends in that same year, but started in the previous year. For example, assume a plan's year starts July 1 of one year and ends June 30 of the next year. If an employee makes a contribution in August 2018 for the plan year July 1, 2017, to June 30, 2018, you include the contribution in the 2018 pension credit. A contribution for an earlier calendar year or plan year is a past service contribution. We tell you how to calculate and report past service contributions in [Guide T4104, Past Service Pension Adjustment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html)
+
+- employee contributions made in January of the year for the previous year
+
+- employer contributions made in the year, or made by the end of February of the next year, for the year or any previous year, based on a measure that relates specifically to the employee, such as number of hours worked or number of units of output. For example, if an employer made a contribution as late as the end of February, 2019, for hours worked by an employee in 2018 or an earlier year, reflect the contribution in the individual's 2018 pension credit
+
+- additional employer contributions, unrelated to a measure specific to the employee, made in and for the year, or made by the end of February of the next year for any previous year. To determine how additional contributions are to be allocated to each employee, see the formula and example 18
+
+- indirect employee and employer contributions (made through a union or employer association), if they are forwarded to the union or employer association before the end of the calendar year
+
+**Indirect contributions** – Treat all indirect contributions made through a union or employer association as contributions for the year in which they are remitted to the union or employer association, even though they may be for a previous calendar year.
+
+**Multi-purpose payments**– A union or an employer association that receives multi-purpose payments (for example, combined payments for pension and health plan benefits) in a calendar year determines what part of the payment is a contribution to the SMEP. For reporting purposes, the union or association notifies each employer who made multi-purpose payments either of the part that is the contribution to the plan or how to determine that part. If an employee makes multi-purpose payments directly to the union or employer association, the union or employer association has to notify the plan administrator of the part that is a contribution to the plan. The administrator reports the PA in this case. These notifications must be made in writing by January 31 of the year after the year for which the PA is calculated. The union or employer association should also give the employer and plan administrator the applicable 7 digit plan registration number.
+
+**Direct contributions** – The plan administrator, rather than the employer, reports the PA that arises from any contributions to the plan that an employee makes directly to the administrator. Contributions directly to the administrator would occur, for example, if the member bought more benefits for the year. Also, a member may be allowed to make contributions directly to the administrator while on leave.
+
+**Additional contributions by an employer** – Employers can make additional contributions to a defined benefit provision of a SMEP that are not determined by some measure, such as hours worked, specific to individual employees. Registration rules do not allow similar additional contributions to a money purchase provision. These additional contributions must be allocated to employees for inclusion in their pension credits for the year. The allocation is based on each employee's usual share of the regular employer contributions to the plan in a year. To allocate the additional contribution, use the following formula:
+
+**(A ÷ B) × C =** Employee's part of employer's additional contributions
+
+Where:
+
+**A** is the employer's contributions for an employee made on an employee-specific basis under the provision**B** is the total of the employer's contributions for all employees made on an employee-specific basis under the provision**C** is the additional employer contributions
+
+Employer contributions for all employees:
+
+$100,000
+
+Employer contributions per employee:
+
+$2,000
+
+Employer additional contributions:
+
+$25,000
+
+Employee's part of the additional contributions:
+
+($2,000 ÷ $100,000) × $25,000 = $500
+
+## 8. Foreign plans
+
+### 8.1 Pension credits for foreign plans
+
+If an individual gets pension benefits because of pensionable service provided in Canada for a foreign employer or for services outside Canada for an employer in Canada, the pension credit for the year is the lesser of:
+
+- 18% of the resident compensation for the year, minus the year's PA offset
+
+- the money purchase limit for the year, minus the year’s PA offset
+
+Under certain circumstances, an alternative method of calculating pension credits under a foreign plan may be more appropriate. You can send a written request for an alternative determination to the Registered Plans Directorate. See [Where to get help](#hlp).
+
+### 8.2 Prescribed amounts for members of foreign plans
+
+If a Canadian resident was mainly employed outside Canada by a foreign employer (typically a cross-border worker) and was entitled to a benefit under the foreign employer's pension plan, an amount is prescribed which reduces the individual’s RRSP deduction limit for the following year.
+
+If the foreign plan is a money purchase provision, the amount is equal to the employer’s contributions to the plan. If the foreign plan is a defined benefit provision, the amount is equal to 10% of the resident compensation attributable to the service given to the employer. In either case, the individual must report this amount on line 20600 of their income tax and benefit return.
+
+## 9. Calculating pension credits for specified retirement arrangements
+
+Calculate a pension credit for a specified retirement arrangement (SRA) only under the following circumstances:
+
+- the employer is a tax-exempt employer
+
+- the individual became entitled and stayed entitled to SRA benefits for the year
+
+Also, if a person belongs to an SRA, and has a PA from another plan (for example, an RPP, DPSP, or foreign pension plan), a pension credit for the SRA is calculated only where the PA from the other plan(s) is less than the following limits:
+
+- for 1993 to 1995, and for years after 2003, if the individual's PA amount from other plans is less than the following formula:
+
+    - **0.85 × A**
+
+where **A** is the**lesser of**:
+
+- 18% of the resident compensation for the year, minus the year's PA offset
+
+- the money purchase limit for the year, minus the year's PA offset
+
+Then the pension credit for the SRA is calculated using the formula:
+
+- **A – B**
+
+where **A** is the same as above, and **B** is the PA calculated for the other plans.
+
+If the PA from other plans is greater than the limits, no pension credit for the SRA needs to be calculated.
+
+Under certain circumstances, an alternative method of calculating pension credits under a SRA may be more appropriate. If you want approval of an alternative determination, please contact the Registered Plans Directorate. See [Where to get help](#hlp).
+
+## 10. Calculating prescribed amounts for government-sponsored retirement arrangements
+
+Government-sponsored retirement arrangements (GSRAs) have amounts prescribed by the Regulations, which reduce the amount an individual can contribute to their RRSP.
+
+For 1994 to 1996, the prescribed amount for a GSRA is equal to the [RRSP dollar limit](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html) **minus** $1,000.
+
+For years after 1996, the prescribed amount for a GSRA is equal to that year's [RRSP dollar limit](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
+
+## 11. Special situations
+
+This section mainly describes how to calculate pension credits for defined benefit provisions in special situations. If your situation is not adequately covered in this chapter, contact the Registered Plans Directorate. See [Where to get help](#hlp).
+
+For money purchase provisions of single-employer plans and MEPs, and for SMEPs and DPSPs, you may need to use this section to calculate pension credits for two special situations. The special situations are described in sections 11.5 and 11.10. The other special situations described in section 11 relate to defined benefit provisions.
+
+### 11.1 Member with high earnings
+
+If the benefit earned for a member using the plan's regular formula is more than the maximum amount of pension permitted to be paid according to an overriding provision in the plan, use the overriding provision to calculate the benefit earned. We discuss overriding provisions in the definition of [benefit earned](#bnftrnd).
+
+The next example shows how to apply this rule if a member worked a full year. Example 23 shows how to apply these rules when a member with high earnings works only part of a year.
+
+In example 19, we show how an overriding provision in the plan that limits a benefit affects the benefit earned. For this example, the overriding provision is equal to the maximum pension allowed by the legislation. If the overriding provision in your plan is more restrictive, use it to calculate the benefit earned.
+
+PA year:
+
+2019
+
+Pension formula:
+
+1.75% × average of best 3 years of earnings
+
+Member's earnings:
+
+$180,000
+
+Benefit earned:
+
+The lower of:
+
+Plan formula:
+
+1.75% × $180,000 = $3,150
+
+Overriding provision:
+
+2% × $180,000 = $3,600 or $3,025.56, (whichever is lower)
+
+Pension credit:
+
+(9 × $3,025.56) – $600 = $26,630 (rounded)
+
+### 11.2 Member who works for two or more employers in a year
+
+**Single-employer plan** – If a member earns benefits under the same defined benefit provision for employment with two or more employers in the year, each employer must calculate a pension credit for that member. In the next example, the YMPE for the year is $57,400.
+
+Pension formula:
+
+1.5% of final average earnings up to the YMPE
+
+**plus**
+
+2% of final average earnings above the YMPE
+
+Member's earnings:
+
+Employer A:
+
+$13,000, for 3 months
+
+Employer B:
+
+$45,000, for 9 months
+
+Total earnings:
+
+$13,000 + $45,000 = $58,000
+
+Benefit earned:
+
+(1.5% × $57,400) + [2% × ($58,000 – $57,400)] = $861+ $12 = $873
+
+Pension credit:
+
+(9 × $873) – $600 = $7,257
+
+Each employer would then report the pension credit that reasonably applies to the member's service with that employer, prorated to service, for example:
+
+Employer A:
+
+$7,257 × 0.25 = $1,814 (rounded)
+
+Employer B:
+
+$7,257 × 0.75 = $5,443 (rounded)
+
+Employers can also choose any reasonable way to split the $600 offset. Another possibility is for one of the employers to calculate the pension credit without considering the $600, letting the other employer use the full $600 offset in its calculation.
+
+### 11.3 Member who works only part of a year
+
+#### 11.3.1 Member who joins the plan in the year
+
+In a flat benefit plan, the benefit earned will generally be prorated to the part of a full year of service credited to the member. In other words, if the benefit in the plan was $45 a month and the individual was only a member of the plan for 9 months, then the benefit earned would be 9 × $45 = $405.
+
+To calculate the benefit earned under a final or best average plan, use the member's actual service and annualized earnings (see example 22).
+
+#### 11.3.2 Member who retires in the year
+
+Calculate the benefit earned the same way as you would for a member who joins the plan during the year.
+
+#### 11.3.3 Member who ends employment in the year
+
+Calculate the benefit earned in the same way as for a member who joins the plan or retires during the year.
+
+Example 21 shows the benefit earned and pension credit calculations under a flat benefit plan for the situations described in 11.3.1, 11.3.2, and 11.3.3. The [benefit earned](#bnftrnd) is not limited by an overriding provision.
+
+Pension formula:
+
+$40 per month, or $480 per year
+
+Length of service:
+
+8 months
+
+Benefit earned:
+
+$40 × 8 months, or $480 × 2/3 = $320
+
+Pension credit:
+
+(9 × $320) – $600 = $2,280
+
+Example 22 shows the benefit earned and pension credit calculations in a final or best average plan for the situations described in 11.3.1, 11.3.2, and 11.3.3.
+
+PA year:
+
+2019
+
+Pension formula:
+
+1% × average of final 3 years of earnings up to YMPE
+
+**plus**
+
+1.7% × average of final 3 years of earnings above YMPE
+
+YMPE:
+
+$57,400
+
+Service:
+
+7 months
+
+Member's earnings:
+
+$35,000
+
+Annualized earnings:
+
+($35,000 ÷ 7) × 12 = $60,000
+
+Benefit earned per full year:
+
+(1% × $57,400) + [1.7% × ($60,000 – $57,400)]
+
+= $574 + $44.20
+
+= $618.20
+
+Benefit earned apportioned to service:
+
+$618.20 × 7/12 = $360.62
+
+Pension credit:
+
+(9 × $360.62) – $600 = $2,646 (rounded)
+
+In example 19, we show the calculation of the benefit earned when a member with high earnings works a full year. This rule relates to an overriding plan provision limiting the maximum pension payable. Example 23 shows how the rule applies in a final or best average plan where a member with high earnings works only part of a year.
+
+In this example:
+
+- the most that a member can receive in annual lifetime retirement benefits is restricted to the maximum permitted by the legislation
+
+- the year is 2019
+
+- YMPE is $57,400
+
+Pension formula:
+
+1.4% × average of best 3 years of earnings up to the YMPE
+
+**plus**
+
+2% × average of best 3 years earnings above YMPE
+
+Service:
+
+7 months
+
+Member's earnings:
+
+$120,000
+
+Annualized earnings:
+
+$120,000 ÷ 7 × 12 = $205,714.29
+
+Benefit earned if member worked full year:
+
+according to:
+
+i. Plan formula:
+
+[(1.4% × $57,400) + [2% × ($205,714.29 – $57,400)]=
+
+$803.60+ $2,966.29= $3,769.89
+
+ii. Overriding plan provision:
+
+(2% × $205,714.29) = $4,114.29, or $3,025.56 (whichever is lower)
+
+Therefore, the benefit earned of $3,025.56 is based only on part of the member's annualized earnings, not the full $205,714.29. The part of the member's annualized earnings that results in a benefit earned of $3,025.56 can be determined in the following way.
+
+On earnings up to the YMPE, the benefit earned under the plan is $57,400 × 1.4% = $803.60. Since the total benefit earned is limited to $3,025.56, the benefit earned on earnings above the YMPE is $2,221.96 ($3,025.56 – $803.60). In this case, to determine the earnings necessary to get a benefit earned of $2,221.96 divide the benefit earned by 0.02.
+
+$2,221.96/0.02 = $111,098
+
+Therefore, the total earnings necessary to have a benefit earned under the plan of $3,025.56 are $168,498 ($111,098 + $57,400).
+
+Benefit earned apportioned for service is the lowest of:
+
+i. Plan formula:
+
+($3,769.89 × 7/12 = $2,199.10
+
+ii. Overriding plan provision:
+
+$3,025.56 × 7/12 = $1,764.91
+
+Pension credit:
+
+(9 × $1,764.91) – $600 = $15,284 (rounded)
+
+### 11.4 Part-time employees
+
+For part-time employees, calculate the benefit earned and the pension credit in the same way as for a member who works only part of a year.
+
+In a flat benefit plan, you generally prorate the benefit earned to the part of a full year of service credited to the employee. We show how to calculate the benefit earned and pension credit for a part time employee in example 21.
+
+Under a career, final, or best average plan, base the benefit earned on the member's actual service and annualized earnings. We show how to calculate the benefit earned and pension credit for an employee who only works for part of the year in examples 22 and 23 (example 23 relates to a member with high earnings).
+
+### 11.5 Disability and other leaves of absence
+
+#### Note
+
+[Connected persons](#cnnctdprsn) cannot earn benefits under a defined benefit provision of a single-employer plan for periods of leave, reduced services, or disability. Therefore, there are no pension credits related to such periods for connected persons.
+
+**Benefits earned or contributions made during a period of absence**
+
+**All plans** – You have to calculate a pension credit if contributions are made by or for a member, or if a member continues to earn benefits while on leave. This applies even though the member may not be receiving pay, or is receiving a reduced rate of pay during the absence. Treat the period of absence as a period worked by the employee.
+
+If the formula for contributions or lifetime retirement benefits includes earnings, use a reasonable estimate of the annual rate of pay that the member would have received if he or she worked full time throughout the year. For example, in 2014 a member has a yearly income of $40,000 and goes on leave because of a disability. In 2015, while the member is still on leave, the salary for his position has increased to $45,000. When calculating his pension credit for 2015, you would base it on the $45,000 salary, because it is reasonable to expect that if he was rendering regular service with the employer, that amount would have been his income for the year.
+
+**Defined benefit provision of a MEP that is not a SMEP** – A participating employer usually has to calculate and report the member's pension credit based on benefits earned by the member. However, if the member deals directly with the plan administrator instead of the employer during periods of absence or reduced earnings, the plan administrator can apply to us for written permission to report a part of the member's pension credit. The administrator should send that request to the Registered Plans Directorate. See [Where to get help](#hlp).
+
+If permission is given, the employer calculates and reports the pension credit that applies to benefits for services rendered, and the administrator calculates and reports the rest.
+
+**SMEP** – An administrator has to calculate and report the PA that results from contributions that a member makes directly to the administrator.
+
+**Benefits granted or contributions made retroactively for a period of absence**
+
+For this special situation:
+
+- year X means the year in which a member's period of absence ended
+
+- year Y means the year right after year X
+
+- retroactive contributions means contributions made to a money purchase provision no later than April 30 of year Y for an uninterrupted period of absence during one or more earlier years. The plan's terms should not permit retroactive contributions later than April 30 of year Y
+
+However, retroactive contributions do not include contributions made in year X for year X, nor do they include employer contributions made in January or February of year Y for year X. Treat such contributions as though they were made during (not after) the period of absence.
+
+- retroactive benefits means benefits that become provided under a defined benefit provision by no later than April 30 of year Y for an uninterrupted period of absence during one or more earlier years. If the retroactive benefits are provided later than April 30 of year Y, you have to calculate a PSPA. For more information, see [Guide T4104, Past Service Pension Adjustment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html).
+
+**Money purchase provision of all RPPs** – Redetermine the PA for each year of the uninterrupted period of absence for which retroactive contributions are made. The redetermined PA is the total of:
+
+- the PA as originally reported for the year
+
+- the additional PA resulting from retroactive contributions by the member and the employer
+
+However, if a retroactive contribution for year X is made in year Y before you have calculated and reported the PA for year X, treat the retroactive contribution as if it were made in year X. You then calculate the PA in the usual way and avoid having to calculate a redetermined PA for year X.
+
+Also, we consider a redetermined PA to be an amended PA. As such, if the difference between the previously reported PA and the redetermined PA is less than $250, you may not have to report the redetermined PA. Please see the exceptions to this administrative rule in section 12.
+
+In example 24, the plan requires the employer to make retroactive contributions when a member elects to do so. Also, the retroactive contributions are in the amount that would have been made if there was no period of absence.
+
+Contributions while working:
+
+5% × member's earnings by employer and member, for a total of
+
+10%
+
+Period of absence:
+
+August 1, 2017, to March 31, 2018
+
+Actual earnings:
+
+2017:
+
+$28,000
+
+2018:
+
+$37,500
+
+Contributions to plan:
+
+2017:
+
+10% × $28,000 = $2,800 (original PA)
+
+2018:
+
+10% × $37,500 = $3,750 (original PA)
+
+Rate of earnings for full time employment:
+
+2017:
+
+$48,000
+
+2018:
+
+$50,000
+
+Retroactive contributions made in April 2019 for:
+
+2017:
+
+10% × ($48,000 – $28,000) = $2,000
+
+2018:
+
+10% × ($50,000 – $37,500) = $1,250
+
+Redetermined PA:
+
+2017:
+
+$2,800 + $2,000 = $4,800
+
+2018:
+
+$3,750 + $1,250 = $5,000
+
+If the retroactive contributions for the period of absence in 2018 had been made before the employer had reported the 2018 PA (for example, in January 2019), the 2018 PA would have been calculated simply as: 10% × $50,000 = $5,000.
+
+The employer also has to redetermine the PA under a money purchase provision if, on or before April 30 of year Y, a plan member makes a written commitment with the employer or plan administrator to make retroactive contributions for all or any part of the period of absence that ended before year Y. In this case, the PA for each year in which the absence occurred is the total of the following:
+
+- the PA as originally reported for the year
+
+- the additional PA resulting from the retroactive contributions the member agrees to pay for the year
+
+- the additional PA resulting from any retroactive contributions required by the employer that depend on whether the member makes retroactive contributions for the year
+
+#### Note
+
+If, after having redetermined the PA, the terms of the written commitment cannot be fulfilled, the PA cannot be reduced.
+
+**Defined benefit provision** – Redetermine the PA for each year of the member's uninterrupted period of absence that retroactive benefits are being provided. The redetermined PA for a year under a defined benefit provision of a plan (other than a SMEP) is the PA for that year recalculated to include the retroactive benefits. In other words, it is the total of the PA as originally reported for the year and the additional PA resulting from the retroactive benefits.
+
+However, if retroactive benefits for year X are provided in year Y before you have calculated and reported the PA for year X, treat the retroactive benefits as if they were provided in year X. You then calculate the PA in the normal way and avoid having to calculate a redetermined PA for year X.
+
+Also, we consider a redetermined PA to be an amended PA. If the difference between the previously reported PA and the redetermined PA is less than $250, you may not have to report the redetermined PA. For exceptions to this administrative rule, see section 12. The amount of the redetermined PA can be reduced by a qualifying transfer from a RRSP, PRPP, DPSP or a MP provision of another RPP.
+
+In the next example, retroactive benefits are being provided under a single-employer plan for the full period of a member's absence.
+
+Pension formula:
+
+1.5% × average of final 3 years earnings
+
+Period of absence:
+
+August 1, 2017, to March 31, 2018
+
+Service for:
+
+2017:
+
+7 months
+
+2018:
+
+9 months
+
+2017 earnings:
+
+Actual:
+
+$28,000
+
+Annualized:
+
+$48,000
+
+2018 earnings:
+
+Actual:
+
+$37,500
+
+Annualized:
+
+$50,000
+
+PA originally reported for:
+
+2017:
+
+[9 × (1.5% × $48,000 × 7/12)] – $600 = $3,180
+
+2018:
+
+[9 × (1.5% × $50,000 × 9/12)] – $600 = $4,463
+
+Retroactive benefits provided: April 2019
+
+Redetermined PA for:
+
+2017:
+
+[9 × (1.5% × $48,000)] – $600 = $5,880
+
+2018:
+
+[9 × (1.5% × $50,000)] – $600 = $6,150
+
+**Defined benefit provision of a SMEP** – There is no redetermination of PAs.
+
+Employer contributions for a period of absence must be included in the PA for the current year (or the prior year if the PA has not yet been reported).
+
+The only employee contributions for a period of absence that you should include in the current PA are:
+
+- those made in the year for the year or for a plan year ending in the year
+
+- those made in January of the year for the prior year
+
+Do not include any other employee contributions for retroactive benefits in the current PA. Instead, include them in a past service pension adjustment. For more information, see [Guide T4104, Past Service Pension Adjustment](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html).
+
+**Reporting a redetermined PA**
+
+The employer or plan administrator who reported the PA when it was originally calculated has to file an amended T4 or T4A for each year that the redetermined PA is calculated, by the following deadlines:
+
+- within 60 days of the date of the retroactive contribution
+
+- within 60 days of the date on which the member agrees in writing to make a retroactive contribution
+
+- within 60 days of the date that the retroactive benefits become provided
+
+For more information on PA reporting, see section 12.
+
+### 11.6 Optional form pays higher benefit than normal form
+
+Sometimes plans permit members to choose different forms of benefits on retirement. For example, retiring members may be able to give up a guarantee associated with the normal form of benefit in exchange for receiving a higher pension without a guarantee. If this occurs, you have to calculate every member's benefit earned by assuming that each member has chosen or will choose the form of benefit that results in the highest pension, not including bridging benefits (highest pension rule).
+
+There are two situations when you do not apply this rule:
+
+- when a member may elect a single-life benefit instead of a joint and last-survivor benefit, on an actuarially equivalent basis, provided that the member can show that his or her spouse's life expectancy is substantially shorter than normal
+
+- when a member can choose a higher pension in exchange for pension payments that are guaranteed for 10 years or less, provided that the value of the guaranteed pension and the higher pension are actuarially equivalent
+
+If the guarantee is more than 10 years, you have to calculate every member's benefit earned using the value of the full guarantee period, not just the value of the part that is more than 10 years.
+
+In applying this highest pension rule, you do not have to calculate the exact amount of the highest pension. You can use any reasonable method for estimating the highest pension. For example, it may be appropriate to calculate the benefit earned by using a higher benefit rate. Whatever the method, you have to use it to calculate the benefit earned for all members of the plan.
+
+In examples 26 and 27, the optional form of payment results in the normal form of payment being increased by a factor of 1.1667. The pension credit is the same whether you apply the factor to the benefit rate or to the benefit earned.
+
+Pension formula:
+
+1.5% × average of the best 3 years of earnings
+
+Normal payment form:
+
+Pension guaranteed 15 years
+
+Optional payment form:
+
+Actuarially increased pension, no guarantee (on average,1.1667 times higher than normal pension)
+
+Member's earnings:
+
+$50,000
+
+Increased benefit rate:
+
+1.5% × 1.1667 = 1.75%
+
+Benefit earned:
+
+1.75% × $50,000 = $875
+
+Pension credit:
+
+(9 × $875) – $600 = $7,275
+
+Pension formula:
+
+1.5% × average of the best 3 years of earnings
+
+Normal payment form:
+
+Pension guaranteed 15 years
+
+Optional payment form:
+
+Actuarially increased pension, no guarantee (on average, 1.1667 times higher than normal pension)
+
+Benefit earned:
+
+1.5% × $50,000 = $750
+
+Increased benefit due to
+
+optional form:
+
+$750 × 1.1667 = $875
+
+Pension credit:
+
+(9 × $875) – $600 = $7,275
+
+This rule applies, regardless of the form of benefits the member may choose, even if the member has retired in the year. It applies in particular when the benefits depend on the level of survivor benefits, inflation adjustments, or guarantee period.
+
+### 11.7 Payment of bonuses or back pay
+
+To calculate the benefit earned, you generally have to include bonuses or back pay in earnings for the calendar year in which they are received. This applies if bonuses or back pay are considered pensionable earnings according to the plan. This is the case even if the plan treats bonuses or back pay as pensionable earnings for a different (usually earlier) year under the plan. So if a member receives a bonus or back pay and earns lifetime pension benefits in the year for which you are calculating the pension credit, you should calculate it according to the rules in this guide.
+
+If a member receives a bonus or back pay in a year (the current year) that relates to services provided in an earlier year but does not earn lifetime pension benefits in the current year (for example, the member retired or quit the pension plan in the earlier year), you still have to determine a pension credit for the current year. Calculate it by subtracting the actual pension credit determined for the earlier year from a redetermined pension credit using actual earnings in the earlier year plus the bonus or back pay. In the next example, the member received a bonus in 2019 for services provided in 2018.
+
+Pension formula:
+
+1.5% × average of final 3 years of earnings
+
+Member's earnings in 2018:
+
+$50,000
+
+Date of retirement:
+
+December 31, 2018
+
+Bonus paid in 2019:
+
+$4,000
+
+2018 pension credit:
+
+[9 × (1.5% × $50,000)] – $600 = $6,150
+
+Redetermined pension credit including bonus:
+
+[9 × (1.5% × $54,000)] – $600 = $6,690
+
+2019 pension credit:
+
+$6,690 – $6,150 = $540
+
+There may not be any difference between the redetermined and originally determined pension credits. For example, this could happen if the member had already reached the maximum pension payable in the earlier year because of sufficiently high earnings before taking the bonus or back pay into account. It could also happen if the member had reached a maximum period of service under the terms of the plan before the earlier year. In this case, a zero PA would be the result.
+
+### 11.8 Benefit formula amended during the year
+
+If the amendment applies back to the start of the year, you should use the new benefit formula to determine the benefit earned for the whole year. However, you should use the previous formula for members to whom the new formula does not apply, such as members who have ended employment.
+
+If the amendment applies only to benefits earned after a given date in the year, you have to calculate the benefit earned by applying the appropriate formula to each of the affected periods of service in the year.
+
+Pension formula before amendment, affecting first 2/3 of the year:
+
+1.4% × final average earnings
+
+Pension formula after amendment, affecting last 1/3 of the year:
+
+1.75% × final average earnings
+
+Member's earnings:
+
+$50,000
+
+Benefit earned before amendment:
+
+(1.4% × $50,000) × 2/3 = $466.67
+
+Benefit earned after amendment:
+
+(1.75% × $50,000) × 1/3 = $291.67
+
+Total benefit earned:
+
+$466.67 + $291.67 = $758.34
+
+Pension credit:
+
+(9 × $758.34) – $600 = $6,225 (rounded)
+
+### 11.9 Salary deferral leave plans
+
+A salary deferral leave plan is a written arrangement between an employer and employee. The plan’s terms let the employee's annual salary or wages be reduced over a specified period (deferral period) to self-fund a leave of absence for later.
+
+Generally, the following rules apply for determining pension credits:
+
+**Benefits earned during the deferral period** – You determine the pension credit the usual way, except under a defined benefit provision where the calculation requires the determination of earnings. In this case, base the calculation on the earnings that the member would have received if there was no salary deferral arrangement.
+
+Pension formula:
+
+1.5% × final average earnings
+
+Member's actual earnings:
+
+$32,000
+
+Member's annual earnings if there was no arrangement:
+
+$40,000
+
+Benefit earned:
+
+1.5% × $40,000 = $600
+
+Pension credit:
+
+(9 × $600) – $600 = $4,800
+
+**Benefits granted retroactively for a period of absence** – Calculate the pension credit in the same way as described under “Disability and other leaves of absence” under the heading “Benefits granted, or contributions made, retroactively for a period of absence” in section 11.5.
+
+### 11.10 Employee on loan to or from another employer
+
+When an employer who participates in an RPP lends an employee to a non-participating employer, the borrowing employer has to calculate pension credits and report a PA for the employee if, during the period of the loan, both of the following conditions apply:
+
+- the borrowing employer pays the employee's earnings
+
+- the lending employer continues to make contributions to its RPP for the employee or the employee continues to earn pension benefits under the RPP
+
+The lending employer has to give the borrowing employer all relevant information to do the calculation.
+
+If you are the borrowing employer, under a money purchase provision the pension credit is the amount of contributions that the employee and the lending employer made based on earnings you paid. Under a defined benefit provision, the pension credit is based on the benefit earned according to the plan formula using the period the employee worked for you as service.
+
+If the employee receives earnings from both the lending and borrowing employers during the year, the two employers calculate pension credits and report a PA for the period that the employee worked for them. Under a money purchase provision, contributions are split between the two employers in proportion to the earnings paid by them. Under a defined benefit provision, the benefit earned can be prorated between employers in proportion to the pensionable earnings. The $600 PA offset can also be prorated or otherwise split between the employers.
+
+Another possibility is for one of the employers to calculate the pension credit without reference to the $600, letting the other employer use the full $600 offset in the calculation.
+
+In example 31, we show how employers calculate pension credits for a money purchase provision. In example 32, we show how to calculate pension credits for a defined benefit provision, assuming that the $600 is prorated in proportion to the pensionable earnings with each employer.
+
+Money purchase contributions:
+
+5% of earnings by employer and employee, for a total of 10%
+
+Earnings from:
+
+Lending employer:
+
+$10,000
+
+Borrowing employer:
+
+$40,000
+
+Pension credits for:
+
+Lending employer:
+
+10% × $10,000 = $1,000
+
+Borrowing employer:
+
+10% × $40,000 = $4,000
+
+Pension formula:
+
+$40 per month
+
+Earnings from:
+
+Lending employer:
+
+$10,000
+
+Borrowing employer:
+
+$40,000
+
+Benefit earned for the year:
+
+12 months × $40 = $480
+
+Proration of benefit earned:
+
+Lending employer:
+
+$480 × ($10,000/$50,000) = $ 96
+
+Borrowing employer:
+
+$480 × ($40,000/$50,000) = $384
+
+Proration of $600 offset:
+
+Lending employer:
+
+$600 × ($10,000/$50,000) = $120
+
+Borrowing employer:
+
+$600 × ($40,000/$50,000) = $480
+
+Pension credit:
+
+Lending employer:
+
+(9 × $96) – $120 = $744
+
+Borrowing employer:
+
+(9 × $384) – $480 = $2,976
+
+## 12. Reporting a pension adjustment
+
+### Help
+
+If you need help with T4 or T4A reporting requirements, see:
+
+- [Employers’ Guide RC4120, Filing the T4 Slip and Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html)
+
+- [Guide RC4157, Deducting Income Tax on Pension and Other Income, and Filing the T4A Slip and Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4157.html)
+
+You may also call our business enquiries line at **1-800-959-5525**.
+
+**Reporting**
+
+Report a pension adjustment (PA) on the T4 that you must file by February 28 of each year. However, the reporting deadline is different if benefits are granted, or contributions are made, retroactively for a period of absence by April 30 of the year after the period of absence ended. For more information, see section 11.5.
+
+The PA amount must appear in box 52 of the T4 slip. If the PA is zero, leave the box blank. The registration number of the RPP or DPSP must appear in box 50, unless the member's PA is zero and the member made no contributions to the plan. If the member participates in more than one plan during the year, insert only the number of the plan under which the employee has the largest PA.
+
+Round all pension credits to the nearest dollar. If the amount is halfway between two dollar amounts, round it to the next highest dollar.
+
+The employer is also responsible for reporting the pension adjustment when a member earns benefits:
+
+- while on a leave of absence
+
+- while absent from work because of a disability
+
+The plan administrator of a MEP may choose to report on a T4A the PAs related to the above periods of absence. However, the plan administrator must first apply for and receive written permission from the Registered Plans Directorate. See [Where to get help](#hlp).
+
+On the T4A, record the PA amount in box 34 and the plan registration number in box 36.
+
+Do not report a PA for a person who died in the year.
+
+If an employer's business operations end during a calendar year, fill out and file all [T4 slips](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4-information-employers/t4-slip.html) and the [T4 Summary](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/completing-filing-information-returns/t4-information-employers/t4-summary.html) electronically or on paper and send them to the [Jonquière Tax Centre](https://www.canada.ca/en/revenue-agency/corporate/contact-information/tax-services-offices-tax-centres.html), no later than 30 days after your business ends. If you have to prepare more than 50 slips for a calendar year, you **must** file your return [electronically](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+If an employee works in more than one province or territory during the year, you must prepare a separate T4 slip for the earnings and deductions that apply to each province or territory. The PA should be prorated between the T4s to show the amount the employee earned in each province.
+
+### 12.1 Correcting pension adjustment reporting errors
+
+#### Note
+
+If you have filed more than 50 slips, they must be filed electronically. If you need to amend these slips, then they must also be filed electronically. Only employers that file less than 50 slips can file using paper slips.
+
+You may become aware of an error after filing the T4 slips. For example, the calculation of the PA may not have included an additional contribution, or a member may not have been enrolled into the plan when they should have. In these cases, an amended PA will need to be issued.
+
+**Within the last four years**
+
+If you have not reported a PA or if you have reported a wrong PA in any of the last four years, you must issue amended T4 slips. For example, if you realize in 2018 that the wrong PA was reported for 2016 and 2017, then you must issue amended T4 slips for those years.
+
+**Amending a T4 or T4A slip electronically** – Change **only** the information that is wrong . Use summary report type code “A” and slip report type code “A.” For more information about amending information returns using the Internet, go to [Filing returns electronically (T4, T5, and other types of returns)](https://www.canada.ca/en/revenue-agency/services/e-services/filing-information-returns-electronically-t4-t5-other-types-returns-overview.html).
+
+**Amending slips on paper** – If you file your amended return on paper, clearly identify the slips as amended slips by writing AMENDED at the top of **each** slip. Fill out all the necessary boxes, including the information that was correct on the original slip. Send two copies of the amended slips to the employee. Send a copy of the amended T4 or T4A slips to any [national verification and collections centre](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries/make-corrections-after-filing/amend.html) with a letter explaining the reason for the amendment.
+
+**Do not** file an amended T4 Summary or T4A Summary.
+
+**Earlier than the last four years**
+
+If the unreported or wrong PAs are for any year before the last four years, you must send us a list. For example, if you realize in 2019 that wrong PAs were reported for 2012 and 2013, you must send a list. The list must include the names and social insurance numbers of the individuals, the original PAs reported, and the new PAs for each year.
+
+Depending on your province, send your list to one of the following addresses:
+
+You must also advise employees involved that if they deducted RRSP or PRPP contributions for the year(s) in question, their income tax and benefit returns may be reassessed, and that this may result in more tax owing. They may have to pay tax on excess contributions. They may also have to withdraw contributions to correct any excess contributions. For more information about excess contributions and tax on those contributions, see Tax on RRSP, PRPP, or SPP excess contributions in [Guide T4040, RRSP and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html).
+
+You do not have to report an amended PA if the difference between the previously reported PA and the amended PA is less than $250. However, this administrative rule doesn't apply if an employee wants his or her PA to be accurately reported or if the Canada Revenue Agency asks you to report the amended PA.
+
+## 13. Connected persons joining a registered pension plan
+
+If an individual is, or was at any time after 1989, a [connected person](#cnnctdprsn), the employer has to file [Form T1007, Connected Person Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1007.html), within 60 days of the date that the individual joins an RPP. Also, the employer has to file Form T1007 within 60 days of the date that such an individual starts to earn benefits under the plan following a period in which no benefits were earned.
+
+The connected person identified on Form T1007 may see the RRSP deduction limit for the year in which they join an RPP (or start to earn benefits under an RPP following a period in which no benefits were earned) reduced by a prescribed amount. The prescribed amount will be equal to one of the following amounts, whichever is less:
+
+- 18% of the connected person's 1990 earned income for RRSP purposes
+
+- $11,500
+
+The prescribed amount will be zero if the connected person's 1990 PA is more than zero, or if the connected person's 1991 RRSP deduction limit was reduced by a prescribed amount. For more information, see [Guide T4040, RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html).
+
+## 14. Where to get help
+
+### Registered Plans Directorate
+
+You can find more information at [Savings and pension plan administration](https://www.canada.ca/en/services/taxes/savings-and-pension-plans/savings-and-pension-plan-administration.html).
+
+**By telephone**
+
+Toll-free in Canada and the United States: **1-800-267-3100**.
+
+If you are calling from outside of Canada or the United States, call us collect at **613-221-3105**. The Registered Plans Directorate accepts collect calls.
+
+**By mail and courier**
+
+Registered Plans Directorate Canada Revenue Agency 875 Heron Rd Ottawa ON K1A 0L5
+
+### Forms and publications
+
+For all of our forms and publications, visit [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+#### Forms
+
+- [T4, Statement of Remuneration Paid (slip)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4.html)
+
+- [T4SUM, Summary of Remuneration Paid](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4sum.html)
+
+- [T4A, Statement of Pension, Retirement, Annuity, and Other Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4a.html)
+
+- [T4ASUM, Summary of Pension, Retirement, Annuity, and Other Income](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t4asum.html)
+
+#### Guides
+
+- [T4104, Past Service Pension Adjustment Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4104.html)
+
+- [RC4137, Pension Adjustment Reversal Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4137.html)
+
+- [T4040, RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html)
+
+- [Employer's Guide RC4120, Filing the T4 Slip and Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4120.html)

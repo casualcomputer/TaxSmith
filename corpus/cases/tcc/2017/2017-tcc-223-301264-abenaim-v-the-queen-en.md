@@ -1,0 +1,382 @@
+---
+title: "Abenaim v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301264/index.do"
+last_modified: "2017-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 223"
+citation2: ""
+neutral_citation: "2017 TCC 223"
+decision_date: "2017-11-14"
+language: "en"
+item_id: "301264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7801
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:06:54.109000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a248b961f90585ddaf0c45acf6aff05aba01a0e41a48d443881541fb58202383"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abenaim v. The Queen
+
+- Citation: 2017 TCC 223
+- Decision date: 2017-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7801, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abenaim v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-14
+Neutral citation
+2017 TCC 223
+File numbers
+2012-2005(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2005(IT)G
+BETWEEN:
+JACQUES ABENAIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 1 and 2, 2014 and March 2, 2017, at Montreal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Geneviève Léveillé
+Counsel for the Respondent:
+Benoit Mandeville
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2009 taxation year is allowed, with costs, in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 14th day of November 2017.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 31st day of May 2019.
+Janine Anderson, Revisor
+Citation: 2017 TCC 223
+Date: 20171114
+Docket: 2012-2005(IT)G
+BETWEEN:
+JACQUES ABENAIM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+NOTE TO READER
+Some parts of the reasons for this judgment were redacted in accordance with the order that I made on July 24, 2015. It must be noted that there was no confidentiality order with respect to the civil proceeding. Thus, only the references to the terms of the settlement agreement and of the release were omitted.
+REASONS FOR JUDGMENT
+D’Auray J.
+[1] For ease of reference, in these reasons I will refer to the Minolta Group companies in the following manner:
+- Minolta Montreal
+- Minolta Business Equipment (Canada) Limited (“Minolta Canada”)
+- Minolta Business Solutions (USA) Inc. (“Minolta USA”)
+- Minolta Company (Japan) Inc.
+[2] I will refer to the Konica Minolta Group companies in the following manner:
+- Konica Minolta Group (“KM Group”)
+- Konica Minolta Montreal (“KM Montreal”)
+- Konica Minolta Business Solutions (Canada) Limited (“KM Canada”)
+- Konica Minolta Business Solutions (USA) Inc.
+- Konica Minolta Holdings (Japan) Inc.
+I. BACKGROUND
+[3] The appellant, Mr. Abenaim, was dismissed for the first time on December 20, 1990, by Minolta Montreal, and for the second time on July 20, 2006, by KM Montreal.
+[4] Following the first dismissal, by Minolta Montreal, Mr. Abenaim filed, in 1991, an oppression action against the Minolta Group under section 241 of the Canada Business Corporations Act, [1] before the Superior Court of Quebec, District of Montreal.
+[5] A settlement between the parties was reached in 1994. According to that settlement, Minolta Canada bought back the 24 shares in Minolta Montreal that Mr. Abenaim held. Mr. Abenaim agreed to be employed by Minolta Montreal and signed a contract of employment with Minolta Montreal.
+[6] On October 1, 2003, the Minolta Group merged with the Konica Group to create the KM Group.
+[7] The evidence shows that relationships between Minolta Canada and, later, KM Canada and Mr. Abenaim were difficult and laborious.
+[8] According to Mr. Abenaim, the new KM Canada entity did not respect the terms of his contract of employment. In addition, KM Canada was not very concerned with the promises made by Minolta Canada when the contract of employment was signed. Seeing that Mr. Abenaim was persisting in keeping his job at KM Canada despite a failure to respect the terms of the contract of employment and disrespectful treatment of him, KM Canada implemented, according to Mr. Abenaim, a series of schemes to justify his dismissal.
+[9] After his second dismissal, in 2006, Mr. Abenaim filed an oppression action, and alternatively an action for damages and an action for an injunction, against the KM Group.
+[10] Following a settlement conference, a settlement was reached between Mr. Abenaim and the KM Group. According to the settlement agreement, the KM Group, in exchange for a release, agreed to pay an amount of [confidential] to Mr. Abenaim.
+[11] According to counsel for Mr. Abenaim and counsel for the KM Group, [confidential] Mr. Abenaim is an arbitrary amount, since no breakdown of that amount was given during the settlement.
+[12] However, during the hearing, Mr. Abenaim testified that he concluded from the settlement conference that one half [confidential] had been given as a retiring allowance and was taxable as a result. The other half [confidential] had been given as moral damages and was therefore not taxable.
+[13] The respondent argues that the entire amount [confidential] is taxable as a retiring allowance pursuant to paragraph 56(1)(a) of the Income Tax Act (the “ITA”) and the definition of retiring allowance in subsection 248(1) of the ITA.
+[14] The respondent also argues that if half of the amount was not a retiring allowance, the amount [confidential] is in any event taxable as income loss resulting from a failure to respect the terms of the contract of employment by KM Canada. In addition, the respondent argues that a portion [confidential] is also income from property, namely dividends.
+[15] In my view, a portion of the amount [confidential] constitutes non-taxable moral damages for the reasons set out below.
+II. FACTS
+[16] During the hearing, Mr. Abenaim, Mr. Bourgon and Mr. Fournier all testified. Mr. Bourgon represented Mr. Abenaim during the first oppression action filed in 1991. Mr. Fournier represented Mr. Abenaim during the second action filed in 2006, the settlement of which gave rise to the current dispute as to the nature of the amount [confidential]. Mr. Manzo, who was one of the counsel for the KM Group, did not testify. During the hearing, he was still convalescing. However, a request to admit was made by the respondent. The request to admit and the responses to it addressed the facts on which Mr. Manzo would have testified.
+A. Mr. Abenaim
+[17] In 1975, at the age of 28, Mr. Abenaim became the co-founder of Le Spécialiste de Machines de Bureau Ltée, a company that sold and rented new or refurbished office equipment that reproduced or transmitted documents, such as photocopiers, printers and fax machines. The company also offered after-sale service and sold parts and consumables for the equipment. [2]
+[18] Starting in 1976, Le Spécialiste de Machines de Bureau Ltée sold and rented Minolta equipment, among other things. In 1987, Mr. Abenaim became the sole shareholder in Le Spécialiste de Machines de Bureau Ltée.
+[19] In 1986, after ten years of collaboration with Minolta Canada, negotiations took place between Le Spécialiste de Machines de Bureau Ltée and Minolta Canada to create a new company, Minolta Montreal.
+[20] Minolta Montreal was incorporated on January 18, 1989. Mr. Abenaim was employed by Minolta Montreal as the officer and he was a shareholder of it. He held 24% of the capital stock of that company. From then on, Minolta Montreal became the exclusive distributor of Minolta equipment for the greater Montreal area.
+[21] The contract of employment dated February 3, 1989, between Minolta Montreal and Mr. Abenaim [3] includes a clause specifying a term of 24 months. Having never discussed the duration of his employment, Mr. Abenaim asked for an explanation from the president of Minolta Canada. He told him that it was an administrative measure aimed at promoting the efficiency of its senior employees. On the basis of that information and the fact that Mr. Abenaim had been collaborating with Minolta Canada for more than 10 years, Mr. Abenaim signed the contract of employment.
+[22] Mr. Abenaim was not accustomed to being told how to conduct his affairs; thus, from the beginning, the relationship between Mr. Abenaim and Minolta Canada was difficult. According to Mr. Abenaim, that relationship was oppressive.
+[23] On December 20, 1990, 23 months after signing the contract of employment, Mr. Abenaim was hand-delivered a letter by the vice president of Minolta Canada notifying him that his contract of employment would not be renewed beyond the 24-month period stated in the contract.
+[24] As for the 24 shares held by Mr. Abenaim, Minolta Canada offered him $24,000, an offer that Mr. Abenaim declined.
+[25] Following his dismissal in 1991, Mr. Abenaim filed an oppression action under section 241 of the Canada Business Corporations Act before the Superior Court of Quebec against the Minolta Group.
+[26] Although Mr. Abenaim was successful in an application for interim costs, he was still feeling financial pressure, which included, in particular, a bill of more than $65,000 for legal fees.
+[27] In an attempt to settle the dispute out of court, Mr. Abenaim went to Las Vegas for a conference, where senior executives from Minolta USA and the delegate from Japan were present. Since Minolta Montreal’s sales had gone down in the absence of Mr. Abenaim, it was in the interests of the parties to find a compromise. In that regard, the executives from Minolta USA agreed that the litigation commenced in 1991 by Mr. Abenaim should be settled out of court, with no admission of liability. It was agreed that the parties would concur on the terms of the agreement when they returned to Montreal.
+[28] Upon returning to Montreal, Mr. Abenaim met with Mr. Murphy, the president of Minolta USA, and Mr. Hans, counsel for Minolta USA. Forty‑two months passed before an agreement was reached, on July 6, 1994.
+[29] Under that agreement, Mr. Abenaim received an amount [confidential], which represented, in particular, the price of his shares, which he had to sell to Minolta Montreal, the loss of salary and the loss of override bonuses, consultation fees and the fees regarding the American defamation dispute. Mr. Abenaim signed a release in that regard.
+[30] Under the settlement agreement, Mr. Abenaim also agreed to be an employee of Minolta Montreal as the chief operating officer. That was noted in a contract of employment signed on July 6, 1994. [4]
+[31] The contract of employment included clauses with respect to salary, bonuses, commission, exclusive distribution rights regarding the equipment that Minolta Montreal already sold in the greater Montreal area and access to new Minolta equipment. There was also a clause that specified that successors of Minolta Montreal, in the event of a merger or sale, must comply with Mr. Abenaim’s contract of employment.
+[32] According to Mr. Abenaim, in addition to what was set forth in the contract of employment, the Minolta Group had promised him a long career. The Minolta Group had promised that he would become the president of Minolta Canada within the 24 months that followed the signing of the contract of employment. Mr. Abenaim also stated that Minolta Canada also promised to pay him the highest salary given to a branch manager in Canada and the best commission rate offered in Canada for a branch manager. However, those promises were not in the contract of employment.
+[33] According to Mr. Abenaim, shortly after the signing of the contract of employment, Minolta Canada encroached on the exclusive territory of Minolta Montreal by assigning the territory to other distributors, and it interfered in the daily activities of Minolta Montreal. In addition, Mr. Abenaim was not appointed president of Minolta Canada. Instead, Don Davis was appointed president of Minolta Canada.
+[34] That added to the conflict between the representatives of Minolta Canada and Mr. Abenaim. According to Mr. Abenaim, Mr. Davis did everything possible to make his life difficult.
+[35] On October 1, 2003, Minolta Canada merged with Konica Canada Business Technologies. The new company operated as KM Canada. At the same time, Minolta Montreal became KM Montreal.
+[36] Mr. Abenaim stated that the relationship worsened after the merger. Mr. Abenaim maintains that the KM Group exerted significant pressure. [5] For example, Mr. Abenaim maintains that the costs that Minolta Montreal had to pay were higher than those required of other KM Canada retailers. In addition, representatives from KM Canada worked in KM Montreal’s territory, despite the exclusivity clause in the contract.
+[37] Mr. Abenaim claimed that he experienced endless reprisals from the KM Group even while he was still an employee. According to Mr. Abenaim, the KM Group was looking for an excuse to dismiss him.
+[38] In cross-examination, Mr. Abenaim stated that he did not file a complaint against his employer with the Commission des droits de la personne, the Commission des lésions professionnelles or the Commission des relations de travail du Québec. However, he stated that he filed numerous complaints, in writing, with his employer, but did not undertake any legal proceedings, hoping that things could be settled internally. Mr. Abenaim also maintains that racist remarks were made about him following the 1994 settlement.
+[39] When Mr. Abenaim was on vacation, KM Canada investigated KM Montreal. When he returned from vacation, on June 9, 2006, Mr. Abenaim was placed on leave with pay by his employer, KM Montreal. However, it was not until July 20, 2006, that KM Montreal terminated Mr. Abenaim’s employment by written notice.
+[40] According to KM Canada, some of Mr. Abenaim’s actions showed that he was not promoting the company’s interests. In addition, according to KM Canada, Mr. Abenaim used the company’s funds and resources without permission, thus creating a position of conflict. Those actions not only benefited Mr. Abenaim, but also advanced the interests of his own company and the interests of his family members.
+[41] Mr. Abenaim maintains that his salary and his commission had gone down because of KM Canada’s behaviour. However, the evidence shows that Mr. Abenaim’s salary and commission remained stable: [6]
+Taxation year
+Salary and commission (T4)
+2000
+$327,671
+2001
+$279,661
+2002
+$229,057
+2003
+$262,619
+2004
+$239,971
+2005
+$224,314
+2006
+$137,270 for 7 months
+[42] Following his dismissal, Mr. Abenaim filed, on October 2, 2006, an action before the Superior Court of Quebec against the KM Group. It was an oppression action, and alternatively and action for damages and an action for a permanent injunction. [7]
+[43] On June 5, 2009, as part of the Superior Court of Quebec’s judicial mediation process, an out-of-court settlement agreement was reached between Mr. Abenaim and the KM Group. The terms of the agreement were put in writing and signed by the parties also on June 5, 2009.
+[44] The KM Group agreed to pay an amount [confidential] to Mr. Abenaim, [confidential]. According to Mr. Abenaim, since no tax experts were present at the settlement conference, it was decided to write in the agreement that the payment would be made in a tax efficient manner:
+[Confidential]
+[45] However, Mr. Abenaim received a release [8] from the KM Group that did not reflect the terms of the settlement agreement. According to that release [confidential] is treated as taxable.
+[46] Mr. Abenaim contacted Mr. Fournier and told him that he did not want to sign the release as drafted. Mr. Fournier told him that if that was the case, the civil proceeding would need to be pursued, with all of the risks and costs associated with such a dispute. Mr. Fournier advised Mr. Abenaim to sign the release and to debate the nature of the payment with the tax authorities.
+[47] Faced with financial problems, Mr. Abenaim signed the release as drafted by the KM Group.
+[48] When Mr. Abenaim’s accountant filed Mr. Abenaim’s tax return for the 2009 taxation year, he told Mr. Abenaim that he had no other choice but to report the amount [confidential] as a retiring allowance, given that it was listed as such on his T4 slip. On his tax return, Mr. Abenaim also claimed a deduction of $81,400, representing the legal fees paid to Mr. Fournier.
+[49] Despite objections, Mr. Abenaim signed his tax return for the 2009 taxation year, as it had been done by his accountant.
+[50] The assessment dated June 3, 2010, confirmed that the amount [confidential] was a taxable retiring allowance, as had been reported by Mr. Abenaim.
+[51] On June 3, 2010, Mr. Abenaim objected to the assessment. On February 21, 2012, the assessment was confirmed by the Minister of National Revenue. On May 22, 2012, Mr. Abenaim filed a notice of appeal with this Court contesting the merits of the assessment.
+[52] Mr. Abenaim stated that during the settlement conference he discussed the apportionment of the amount with Mr. Fournier and Roy J., who presided over the settlement conference. Mr. Abenaim had always understood that one half, that is, [confidential], was taxable as a retiring allowance. He claimed that the other half [confidential] was not taxable since that amount had been awarded to him as moral damages for the suffering, harm, and prejudice he experienced as a result of the abusive, unfair, and illegal actions of the KM Group.
+[53] However, on cross-examination, Mr. Abenaim’s testimony was less clear. He did not remember exactly whether a specific breakdown had been discussed. However, it is clear from Mr. Abenaim’s testimony that, during the settlement conference, he was preoccupied by the tax aspect of the payment [confidential].
+[54] Mr. Abenaim indicated that his relationship with the Minolta Group and the KM Group was marked with oppression and humiliation: he had his business, his life’s work, taken away from him twice. According to Mr. Abenaim, Minolta Canada and KM Canada promised him everything, only to take it away from him the next day.
+[55] With respect to his health condition, the appellant claimed that following his dismissal in 2006, he fell into a depression and lived as a recluse.
+B. Mr. Bourgon’s testimony
+[56] As previously mentioned, Mr. Bourgon was the lawyer who represented Mr. Abenaim in the first dispute in 1991.
+[57] In Mr. Bourgon’s testimony, he stated that the dispute between Mr. Abenaim and the Minolta Group was nothing less than a battle of David versus Goliath, especially with respect to finances. [9]
+[58] Mr. Bourgon thus decided to file a motion aimed at forcing Minolta to pay interim legal fees to Mr. Abenaim with the goal of having a more even balance of power between the parties. However, since the amount of interim fees obtained was insufficient, Mr. Abenaim went to Las Vegas to try and settle the dispute out of court.
+[59] According to Mr. Bourgon, what worked in favour of a settlement being reached is the fact that Mr. Abenaim and his two sons are [TRANSLATION] “formidable businessmen and extraordinary salesmen”. Over time, representatives of Minolta Canada realized that they made a mistake dismissing Mr. Abenaim. [10] According to Mr. Bourgon, Minolta Montreal’s volume of sales had done down in Mr. Abenaim’s absence.
+[60] The Minolta Group thus told Mr. Abenaim that he could return to Minolta Montreal in exchange for the shares in Minolta Montreal that he held.
+[61] At the same time as the dispute in Quebec, an action had been filed by Mr. Abenaim in California regarding anti-Semitic remarks made about him. Those two actions were settled out of court and an amount [confidential] was paid to Mr. Abenaim.
+[62] According to Mr. Bourgon, the amount obtained in the settlement of the first dispute between Mr. Abenaim and the Minolta Group was only a miniscule portion of the amount sought. That is what drove Mr. Bourgon to fiercely negotiate for pay conditions for Mr. Abenaim that were superior to those of other employees at Minolta Canada.
+[63] According to Mr. Bourgon, a career plan had been set out for Mr. Abenaim in the Minolta Group following the settlement of the dispute in 1994. [11] Mr. Bourgon admitted that those promises were not part of Mr. Abenaim’s contract of employment. Mr. Bourgon stated that the Minolta Group had promised Mr. Abenaim that he would be appointed president of Minolta Canada. [12]
+[64] Mr. Bourgon explained the absence of certain promises from the contract of employment by the fact that Mr. Abenaim is a man who believes in the good faith of others. According to Mr. Bourgon, Mr. Abenaim [TRANSLATION] “is a man of great integrity and unwavering loyalty.” He did not feel the need to require that all of the Minolta Group’s promises be included in the contract of employment. According to Mr. Bourgon, it goes without saying that Mr. Abenaim believed that the Minolta Group would respect its commitments when he signed the contract of employment.
+[65] One or two years later, the Minolta Group’s business plan proved to be different from the terms of the contract of employment and from what had been discussed during the meetings with the heads of the Minolta Group. According to Mr. Bourgon, the promises that were made were not kept.
+[66] In order to solve that problem, Mr. Bourgon went to New York to meet with Mr. Hans, counsel for Minolta USA. After a few minutes of discussion, Mr. Hans stated that Mr. Abenaim [TRANSLATION] “will never be just an employee” and tried to find common ground.
+[67] However, according to Mr. Bourgon, the situation continued to deteriorate. After the merger in 2003, counsel for the KM Group refused to recognize the validity of Mr. Abenaim’s contract of employment.
+[68] However, because of reasons of conflict of interest with the KM Group, Mr. Bourgon could no longer act on Mr. Abenaim’s behalf.
+[69] According to Mr. Bourgon, the Minolta Group did not typically have co‑partners and Mr. Abenaim is not a person who typically does what he is told without protesting. As for the relationship between the appellant and the Minolta Group, Mr. Bourgon stated that it had always been [TRANSLATION] “bizarre”.
+[70] However, according to Mr. Bourgon, the Minolta Group knew that Mr. Abenaim was vital to its success, but when he [TRANSLATION] “took up too much space”, it was preferable, in the Minolta Group’s opinion, to eliminate, that is, dismiss, Mr. Abenaim. According to Mr. Bourgon, the relationship between Mr. Abenaim and the Minolta Group, and later the KM Group, had always been oppressive.
+C. Mr. Fournier’s testimony
+[71] Mr. Fournier represented Mr. Abenaim during the second dispute.
+[72] Mr. Fournier testified that in light of the case history and the amounts sought by Mr. Abenaim, he decided to file an oppression action and alternatively an action for damages and an action for an injunction, which included re‑establishing the situation prior to 1994, annulling the 1994 settlement, requesting an audit and applying for pay in lieu of notice and moral damages if Mr. Abenaim was not reinstated in KM Montreal.
+[73] According to Mr. Fournier, an oppression action puts some pressure on the opposing party. Unlike in a wrongful dismissal action, where the compensation scale is known, in an oppression action, it is difficult to estimate the amounts that will be awarded by the court.
+[74] Mr. Fournier indicated that he and Mr. Manzo did not rely on any scale found in the case law to determine the amount [confidential]. That being said, according to the scale found in the case law, amounts granted as pay in lieu of notice are generally equivalent to one month’s salary per year of service to a maximum of 18 months. In exceptional cases, the court may grant from 24 to 36 months.
+[75] According to Mr. Fournier, based on the scale found in the case law, Mr. Abenaim could hope for a maximum of 18 months’ pay in lieu of notice, therefore, compensation in the amount of approximately $300,000 based on a $200,000 annual salary. To support this allegation, Mr. Fournier relied on a report from the accounting firm Ernst & Young. That report was part of the trial record. According to that report, Mr. Abenaim’s annual salary was around $300,000 at the start, but then decreased to around $200,000. That being said, Mr. Fournier stated that, in his action, he requested $1,500,000 for pay in lieu of notice, knowing that he would receive less.
+[76] According to Mr. Fournier, what made the oppression action relevant is that following the merger, Minolta Montreal’s sales should have increased since from then on Minolta Montreal sold not only Minolta equipment, but also Konica equipment. Thus, an audit of the accounting books was requested in order to determine the amount of sales that were made by the other distributors in Minolta Montreal’s territory. According to the contract of employment, the KM Group had to respect the territory assigned to Minolta Montreal. Not respecting the territory could represent a significant loss of sales, but since there was no access to the books, it was difficult to determine the amount of those losses.
+[77] During the settlement conference presided over by Roy J., Mr. Fournier indicated that both he and Mr. Manzo knew that the parties would not agree on the facts. Thus, they decided to set an amount that they could “sell” to their respective clients.
+[78] It should be noted in this regard that it is evident from Mr. Fournier’s testimony and responses to a request to admit, which was made because Mr. Manzo did not testify, that the amount [confidential] is arbitrary. In addition, the evidence shows that no breakdown of the amount was given during the settlement conference.
+[79] In reply to a question from counsel for Mr. Abenaim, Mr. Fournier answered that he did not know the reasons that drove the KM Group to accept the amount [confidential]. According to Mr. Fournier, moral damages were not discussed during the settlement conference. However, according to Mr. Fournier, if the action had been pursued, that aspect of the matter would have been significant. Mr. Fournier provided the following explanation:
+[TRANSLATION]
+. . . Minolta Montreal, it was Mr. Abenaim’s life’s work. It was his baby. He created it. He did not create it with Minolta, he created it as an independent agency that also sold Minolta, along with other brands, and it was his business. And he was deprived of it twice. It was taken away from him in ‘94, and then again in 2006 or something like that. So, for him, there were significant moral damages. [13]
+[80] Mr. Fournier also indicated that since there were no tax experts at the settlement conference, it was decided that a clause would be included in the settlement agreement stating that the payment would be made [confidential].
+[81] However, upon receiving the release drafted by the KM Group, Mr. Fournier found that the release had not been drafted in a way that benefited Mr. Abenaim with respect to his taxes. According to the release, the entire amount was taxable. Mr. Fournier communicated with Mr. Manzo, who told him that the KM Group would not modify the terms of the release. The release had been drafted in this way and source deductions had been made so as to protect the KM Group from any dispute with the Canadian tax authorities.
+[82] According to Mr. Fournier, who knew that the KM Group would not modify the release, Mr. Abenaim had the option of pursuing the dispute, with all of the risks that it involved, or of signing the release as drafted. Mr. Fournier advised Mr. Abenaim to sign the release and to assert his rights before the tax authorities. In any case, Mr. Abenaim had no real choice since he did not have the funds needed to pursue the dispute. He therefore chose to sign the release.
+[83] According to Mr. Fournier, were it not for the oppression action, Mr. Abenaim would not have received the amount [confidential].
+III. ISSUES
+[84] Does the entire amount [confidential] received by Mr. Abenaim constitute a retiring allowance pursuant to the definition in subsection 248(1) of the ITA and is it consequently taxable pursuant to subsection 56(1) of the ITA?
+IV. POSITION OF THE PARTIES
+A. Mr. Abenaim
+[85] Mr. Abenaim argued that the amount [confidential] has a dual purpose. Half of the amount [confidential] is taxable, but the other half of the [confidential] is not taxable. On the basis of the scale found in the case law, he argues that the pay in lieu of notice that he was entitled to receive was around $390,000 (18 months at an average annual salary of $260,000). Thus, the entirety of the amount, [confidential], cannot constitute pay in lieu of notice.
+[86] However, Mr. Abenaim argues that, since the scale found in the case law was not followed when the amount was determined, he accepts that the amount [confidential] be taxed as a retiring allowance.
+[87] As for the other amount [confidential], Mr. Abenaim argues that it constitutes moral damages that are not connected to his employment with KM Montreal and that, as a result, is not taxable.
+B. Respondent
+[88] The respondent maintains that the entire amount [confidential] received by Mr. Abenaim from the KM Group constitutes a retiring allowance pursuant to the definition in subsection 248(1) of the ITA. As a result, the respondent argues that the Minister correctly included the amount [confidential] in the calculation of Mr. Abenaim’s income for the 2009 taxation year.
+[89] The respondent argues that in this case the evidence does not support Mr. Abenaim’s assertion that half of the amount [confidential] constitutes moral damages. On the contrary, the respondent claims that if there are damages, they are damages resulting from the contract of employment and are therefore taxable pursuant to the definition of retiring allowance under subsection 248(1) of the ITA.
+[90] Alternatively, the respondent argues that if the Court finds that all or part of the amount [confidential] does not constitute a retiring allowance within the meaning of subsection 248(1) of the ITA, that amount or a portion thereof is taxable as income loss or as dividends under subsections 5(1) and 9(1) and section 12 of the ITA.
+V. ANALYSIS AND CONCLUSION
+A. The law
+[91] Under subparagraph 56(1)(a)(ii) of the ITA, a taxpayer shall include any amount received as a retiring allowance in computing his or her income. That subparagraph reads as follows:
+56(1) Amounts to be included in income for year
+Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) Pension benefits, unemployment insurance benefits, etc. — any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+. . .
+(ii) a retiring allowance, other than an amount received out of or under an employee benefit plan, a retirement compensation arrangement or a salary deferral arrangement,
+[92] At subsection 248(1), Parliament defines a retiring allowance in the following manner:
+248 (1) retiring allowance means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)), received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer’s long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer’s death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+[Emphasis added.]
+[93] According to the respondent, considering the amount [confidential] as pay in lieu of notice is consistent with paragraph 95 of the civil proceeding. In that paragraph, Mr. Abenaim applied for 36 months’ pay in lieu of notice [confidential] based on an annual income [confidential].
+[94] In this case, the respondent argues that 36 months’ pay in lieu of notice is reasonable considering Mr. Abenaim’s age (he was 59 years old at the time of his dismissal), the difficulty he had in finding similar employment, the contract of employment (which authorized Mr. Abenaim to stay until his death), and the fact that he had about 20 years of service with Minolta Montreal.
+[95] The respondent also argues that I must consider the fact that Mr. Abenaim signed a release that described the amount [confidential] as a retiring allowance. He also signed his tax return, in which the amount [confidential] was included in his income as a retiring allowance. In addition, Mr. Fournier’s bill of $81,400 for legal services rendered specified that the legal fees were for the recovery of salary and severance pay.
+[96] In addition, according to the respondent, the evidence has not shown that a portion of the amount [confidential] was paid to Mr. Abenaim for violations of fundamental rights, as moral damages. According to the respondent, if damages were awarded, they result from the contract of employment and, as a result, are taxable pursuant to the definition of retiring allowance. In that regard, the respondent refers to paragraph 107 of the civil proceeding:
+[TRANSLATION]
+107. The applicant also claims an amount of $1,500,000 as moral damages for the suffering, harm, and prejudice he experienced as a result of the abusive, unfair and illegal actions of the respondents, and is asking the Court to jointly and severally order the respondents to pay this amount.
+[97] On the contrary, according to the respondent, it is clear from the civil proceeding that the moral damages claimed are linked to the contract of employment and, as a result, are taxable as contractual damages. In that regard, the respondent cites paragraph 29 of the civil proceeding:
+[TRANSLATION]
+29. Since the merger, multiple unfair, illegal, oppressive, and abusive acts were committed by the respondents with the goal of getting rid of ABENAIM and their responsibilities in respect of him, actions that went from keeping distributors who directly violated the applicant’s territorial exclusivity in place to imposing costs at rates that were clearly to the applicant’s disadvantage and resulted in the dismissal of the applicant and his sons without compensation or just cause.
+[98] I do not agree with the respondent’s arguments. Firstly, although the scale found in the case law did not play a role in determining the amount [confidential], in light of the evidence on the pay in lieu of notice and the testimony by Mr. Fournier, the entire amount [confidential] cannot constitute pay in lieu of notice. In addition, the evidence established that Mr. Abenaim’s average annual salary was $260,000. Even if I accepted 36 months’ pay in lieu of notice, meaning $780,000, that amount is far lower [confidential]. Furthermore, according to Mr. Fournier’s testimony, Mr. Abenaim could not hope to receive more than 18 months’ pay in lieu of notice, which corresponds to $390,000 in compensation. That only represents [confidential] of the amount of [confidential].
+[99] In my view, the signing of the release by Mr. Abenaim and the inclusion of the amount [confidential] in his income tax return as a retiring allowance are not determinative in the establishment of the nature of the amount [confidential]. In light of Mr. Abenaim’s financial circumstances, the only realistic option for him was to sign the settlement agreement and to argue his rights with the tax authorities. As for the tax return, the case law is consistent that taxpayers can object to an assessment that reflects their tax return. As for the invoices for the legal services rendered by Mr. Fournier, some terms are missing from the description given by the respondent. The invoices state the following:
+[TRANSLATION]
+This confirms that in 2009 we received the amount of [confidential] as payment for the invoices bearing numbers [confidential] in relation to your claim in the above-mentioned file, dealing in particular with the recovery of a portion of your salary and obtaining severance pay following your constructive dismissal.
+[Emphasis added.]
+[100] In Overin, [14] Rip J. indicated that it is not all damages received by a taxpayer that fall within the scope of subsection 248(1) of the ITA, it is those relating to a loss of employment.
+[101] Thus, damages received that can be linked to a contract of employment are contractual in nature. Since they are linked to employment, the damages are taxable as a retiring allowance. However, an amount received by a taxpayer as moral damages is not taxable since there is no link to a loss of employment. As a result, those damages are not taxable as a retiring allowance.
+[102] In order to determine the nature of damages received in loss of employment cases, in Overin, Rip J. put forward the question that implicitly emerged from Pinard J.’s analysis in Merrins: [15]
+. . . ‘but for the loss of employment would the amount have been received?’ If the answer to that question is in the negative, then a sufficient nexus exists between the receipt and the loss of employment for the payment to be considered a retiring allowance.
+[103] In this case, in light of the evidence, I am of the opinion that the entire amount [confidential] paid by the KM Group to Mr. Abenaim was not linked to his dismissal. In this case, that amount has a dual purpose.
+[104] Despite the respondent’s reading of the civil proceeding, the proceeding is mainly an oppression action pursuant to subsection 241(1) of the Canada Business Corporations Act and alternatively an action for damages and an action for an injunction. In this regard, Mr. Abenaim asked for [confidential] in moral damages.
+[105] The release drafted by the KM Group and signed by Mr. Abenaim states that in exchange for the amount received, Mr. Abenaim waived not only his employment, but also all remedies, including the oppression action.
+Paragraph 5 of the release:
+[confidential]
+Paragraph 6 of the release:
+[confidential]
+[106] The testimony was consistent: the Minolta Group and later the KM Group did not keep their promises to Mr. Abenaim. When the contract was signed, he was promised a shining career within the Minolta Group family. He was promised that he would be appointed president of Minolta Canada, but when the time came to appoint a new president, Mr. Abenaim was disregarded.
+[107] On the basis of the evidence, the Minolta Group needed the services of Mr. Abenaim to succeed but at the same time they did not want to give Mr. Abenaim too much leeway. He was given competitive benefits, only to have them taken away later on. Mr. Abenaim was dismissed not once, but twice. Each time, his life’s work was taken away from him. For Mr. Abenaim, this was the collapse of his life and a form of harassment and humiliation.
+[108] As Mr. Bourgon indicated, the relationship between the Minolta and KM Groups and Mr. Abenaim had always been oppressive. In addition, as indicated by Mr. Fournier, without the oppression action, Mr. Abenaim would never have received an amount [confidential].
+[109] Mr. Abenaim argues that he always understood that half of the amount [confidential] constituted a retiring allowance, while the other half constituted moral damages. That being said, not only was Mr. Abenaim’s testimony on this aspect confusing, it was also contradicted. Mr. Fournier’s testimony clearly stated that no breakdown of the amount [confidential] was provided by the parties during the settlement conference. In addition, following a request to admit, counsel for Mr. Abenaim admitted that there was never an agreement on the breakdown of the amount [confidential].
+[110] In Schwartz, [16] the Supreme Court of Canada stated that once it is shown that a payment has a dual purpose, the bar for establishing the breakdown must not be too high. At para 41 of Schwartz, Forest J. wrote the following:
+. . . [we] should not have the burden of presenting, in every case where the apportionment of a general award is at issue, specific evidence amounting to an explicit expression of the concerned parties’ intention with respect to that question. However, there must be some evidence, in whatever form, from which the trial judge will be able to infer, on a balance of probabilities, which part of that general award was intended to compensate for specific types of damages. . . .
+[111] In this case, the respondent argues that the amount of moral damages cannot be [confidential] because, according to the scale found in the case law in Quebec, moral damages awarded by Quebec courts, based on the list that the respondent provided, are often from $1,000 to $5,000. Amounts between $25,000 and $100,000 are awarded in exceptional situations.
+[112] Although each situation is unique, those amounts are still lower than the amount [confidential] proposed by Mr. Abenaim as moral damages.
+[113] In this case, I believe that the best approach for determining the appropriate breakdown of the amount received by Mr. Abenaim is to refer to the civil proceeding. That was also the method Mogan J. used in Dumas, [17] at para 21:
+In The Queen v. Mohawk Oil Co. Ltd., 92 D.T.C. 6135, the taxpayer corporation (Mohawk) had contracted with Phillips to supply and install a waste oil reprocessing plant. When the plant failed to perform as expected, Mohawk claimed compensation from Phillips in the initial amount of $15 million. After hard negotiations, the parties settled on the amount $6,000,000 in US funds ($7,162,187 Canadian). Of this amount, the Minister of National Revenue regarded $3,443,708 as compensation for loss of profits and $3,718,430 as proceeds of disposition of property. The Federal Court of Appeal allowed the appeal on behalf of the Minister and upheld the assessment. In so doing, the Court reviewed the evidence of the negotiations between Mohawk and Phillips to see if it supported the Minister’s allocation. This is further authority for the proposition that a lump sum paid in settlement of a claim must be examined to see why it was paid. The answer may be found in the pleading (if there was litigation) or in other documents which attempt to justify the claim of the recipient of the lump sum.
+[114] In the civil proceeding, if Mr. Abenaim was not reinstated in his job, the following conclusions applied:
+[TRANSLATION]
+Alternatively, if the Court finds that it cannot order the reinstatement of the applicant, the applicant is asking the Court to
+Jointly and severally order the respondents to pay him the amount of $1,500,000 as pay in lieu of notice;
+Resolve the contract of sale of shares entered into by the parties on July 4, 1994;
+Issue the applicant 24 shares in the respondent, Konica Minolta Business Solutions Montreal Inc.;
+Order the respondent, KM Montreal, to fully compensate the applicant for his salary from July 20, 2006, to the date of this judgment, with interest at the legal rate and an additional indemnity provided for in the legislation starting from the time of [. . . ;]
+Order the respondents to jointly and severally pay the applicant the amount of $1,500,000 as moral damages for the suffering, harm, and prejudice he experienced as a result of the abusive, unfair, and illegal actions of the respondents, with interest at the legal rate and an additional indemnity provided for in the legislation starting from the time of the summons;
+The whole with costs throughout, including fees for expert witnesses and investigations.
+[115] [confidential]
+[116] I would agree that the amount [confidential] is much higher than the amounts awarded by Quebec courts. However, it was clearly established that the scale found in the case law had no influence on the amount paid to Mr. Abenaim. That was also true of the amount of the pay in lieu of notice, established by Mr. Abenaim [confidential]. On the basis of the scale found in the case law, the pay in lieu of notice in this case would be $390,000. [18]
+[117] As a result, I am of the opinion that the amount [confidential] represents non-taxable moral damages. The difference [confidential] represents pay in lieu of notice and/or amounts linked to the contract of employment, amounts that are taxable under the ITA.
+[118] The appeal is allowed; an amount of [confidential] constitutes moral damages and is as a result not taxable.
+[119] With costs against the respondent.
+Signed at Montreal, Quebec, this 14th day of November 2017.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 31st day of May 2019.
+Janine Anderson, Revisor
+APPENDIX
+Version of the document from 2007-04-20 to 2010-03-11:
+Canada Business Corporations Act
+R.S.C. 1985, c. C-44
+Application to court re oppression
+241 (1) A complainant may apply to a court for an order under this section.
+Grounds
+(2) If, on an application under subsection (1), the court is satisfied that in respect of a corporation or any of its affiliates
+(a) any act or omission of the corporation or any of its affiliates effects a result,
+(b) the business or affairs of the corporation or any of its affiliates are or have been carried on or conducted in a manner, or
+(c) the powers of the directors of the corporation or any of its affiliates are or have been exercised in a manner
+that is oppressive or unfairly prejudicial to or that unfairly disregards the interests of any security holder, creditor, director or officer, the court may make an order to rectify the matters complained of.
+Powers of court
+(3) In connection with an application under this section, the court may make any interim or final order it thinks fit including, without limiting the generality of the foregoing,
+(a) an order restraining the conduct complained of;
+(b) an order appointing a receiver or receiver-manager;
+(c) an order to regulate a corporation’s affairs by amending the articles or by-laws or creating or amending a unanimous shareholder agreement;
+(d) an order directing an issue or exchange of securities;
+(e) an order appointing directors in place of or in addition to all or any of the directors then in office;
+(f) an order directing a corporation, subject to subsection (6), or any other person, to purchase securities of a security holder;
+(g) an order directing a corporation, subject to subsection (6), or any other person, to pay a security holder any part of the monies that the security holder paid for securities;
+(h) an order varying or setting aside a transaction or contract to which a corporation is a party and compensating the corporation or any other party to the transaction or contract;
+(i) an order requiring a corporation, within a time specified by the court, to produce to the court or an interested person financial statements in the form required by section 155 or an accounting in such other form as the court may determine;
+(j) an order compensating an aggrieved person;
+(k) an order directing rectification of the registers or other records of a corporation under section 243;
+(l) an order liquidating and dissolving the corporation;
+(m) an order directing an investigation under Part XIX to be made; and
+(n) an order requiring the trial of any issue.
+Duty of directors
+(4) If an order made under this section directs amendment of the articles or by-laws of a corporation,
+(a) the directors shall forthwith comply with subsection 191(4); and
+(b) no other amendment to the articles or by-laws shall be made without the consent of the court, until a court otherwise orders.
+Exclusion
+(5) A shareholder is not entitled to dissent under section 190 if an amendment to the articles is effected under this section.
+Limitation
+(6) A corporation shall not make a payment to a shareholder under paragraph (3)(f) or (g) if there are reasonable grounds for believing that
+(a) the corporation is or would after that payment be unable to pay its liabilities as they become due; or
+(b) the realizable value of the corporation’s assets would thereby be less than the aggregate of its liabilities.
+Alternative order
+(7) An applicant under this section may apply in the alternative for an order under section 214.
+R.S., 1985, c. C-44, s. 241; 2001, c. 14, ss. 117(F) and 135(E).
+CITATION:
+2017 TCC 223
+COURT FILE NO.:
+2012-2005(IT)G
+STYLE OF CAUSE:
+JACQUES ABENAIM v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+May 1 and 2, 2014, and March 2, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+November 14, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Geneviève Léveillé
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Geneviève Léveillé
+Firm:
+PwC Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See section 241 of the Canada Business Corporations Act, RSC 1985, c. C-44, in the appendix.
+[2] Proceeding, Superior Court of Quebec, Joint book of documents, Tab 3, paragraph 6.
+[3] The contract of employment between Minolta Montreal and Mr. Abenaim dated February 3, 1989, was not entered as evidence.
+[4] Exhibit AI-1, Joint book of documents, Tab 1.
+[5] Transcript from May 1, 2014, p. 37, lines 5–6.
+[6] Transcript from May 1, 2014, pages 59 and 60 and Exhibit I-1.
+[7] Exhibit AI-1, Joint book of documents, tab 3.
+[8] Exhibit AI-1, Joint book of documents, tab 6.
+[9] Transcript from May 1, 2014, page 140.
+[10] Transcript from May 1, 2014, page 144.
+[11] Transcript from May 1, 2014, page 146.
+[12] Ibid., page 146.
+[13] Transcript dated March 2, 2017, page 16.
+[14] Overin v The Queen, 95-3761(IT)G, Tax Court of Canada, September 25, 1997, [1997] TCJ No. 1264 (QL), 98 DTC 1299.
+[15] Merrins v The Queen, T-2065-91, Federal Court, October 27, 1994, [1994] FCJ No. 1582 (QL), 94 DTC 6669.
+[16] Schwartz v Canada, [1996] 1 SCR 254.
+[17] Dumas v Canada, [2000] TCJ No. 728 (QL), 2000 DTC 2603.
+[18] Severance pay of 18 months on the basis of an annual salary of $260,000.

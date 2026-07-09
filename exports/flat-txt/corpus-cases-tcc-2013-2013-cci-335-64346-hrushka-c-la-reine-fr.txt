@@ -1,0 +1,164 @@
+Title: Hrushka c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64346/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-335-64346-hrushka-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-10-24
+
+# Hrushka c. La Reine
+
+- Citation: 2013 CCI 335
+- Decision date: 2013-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5921, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hrushka c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-24
+Référence neutre
+2013 CCI 335
+Numéro de dossier
+2012-1486(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1486(IT)I
+ENTRE :
+DAVID HRUSHKA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 2 et 4 juillet 2013 à Edmonton (Alberta)
+Devant : L’honorable juge Judith M. Woods
+Comparutions :
+Représentant de l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Paige Atkinson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des déterminations établies au titre de la Loi de l’impôt sur le revenu, pour la période allant de janvier 2011 à juillet 2011, relativement à la prestation fiscale pour enfants et au crédit pour taxe sur les produits et services est rejeté. L’appelant a droit à des dépens dont le montant est fixé à 150 $.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de décembre 2013.
+C. Laroche
+Référence : 2013 CCI 335
+Date : 20131024
+Dossier : 2012-1486(IT)I
+ENTRE :
+DAVID HRUSHKA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelant, David Hrushka, interjette appel des déterminations selon lesquelles il n’était pas admissible à la prestation fiscale pour enfants et au crédit pour taxe sur les produits et services aux termes de la Loi de l’impôt sur le revenu (la « Loi ») pour la période allant de janvier à juillet 2011 (la « période visée »).
+[2] La question à trancher est de savoir si M. Hrushka était un « particulier admissible » selon le sens donné à cette expression à l’article 122.6 de la Loi. En fait, deux grandes questions se posent. La première est de savoir si M. Hrushka est la personne qui a assumé principalement la responsabilité pour le soin et l’éducation de sa fille, selon la définition de cette expression. La seconde est de savoir si M. Hrushka résidait avec sa fille sur une base d’égalité ou de quasi-égalité par rapport à son ex‑conjointe.
+Le régime législatif
+[3] La prestation fiscale pour enfants et le crédit pour taxe sur les produits et services sont des prestations versées respectivement tous les mois et tous les trimestres aux parents qui assument la responsabilité pour le soin de leurs enfants.
+[4] Jusqu’en juillet 2011, les prestations n’étaient payables qu’à l’un des deux parents. Le parent admissible était généralement celui qui assumait principalement la responsabilité pour le soin de l’enfant, même si le texte législatif applicable au crédit pour taxe sur les produits et services autorisait les parents à choisir celui des deux qui aurait droit au crédit.
+[5] Le 1er juillet 2011, les dispositions législatives applicables ont été modifiées de façon à prévoir que ces prestations devaient être partagées lorsque les parents séparés assumaient une responsabilité égale ou quasi égale à l’égard de l’enfant. Une nouvelle définition de « parent ayant la garde partagée » a été adoptée à cette fin.
+[6] Le présent appel chevauche la date d’entrée en vigueur de la modification en question. En conséquence, les nouvelles dispositions relatives à la garde partagée doivent être prises en compte pour le dernier mois de la période visée, soit juillet 2011.
+Le contexte
+[7] M. Hrushka a témoigné pour son propre compte à l’audience, tandis que Sylvia Kuncewicz a témoigné en réponse à une assignation qu’elle a reçue de la Couronne.
+[8] M. Hrushka et Mme Kuncewicz se sont séparés en 2009 et ont divorcé en 2012. Ils ont eu un enfant pendant le mariage, soit une fille qui, à la date pertinente, était âgée d’environ quatre ans et fréquentait une garderie.
+[9] Au cours de la période visée, M. Hrushka poursuivait des études universitaires, tandis que Mme Kuncewicz travaillait comme agente du service de santé publique.
+[10] La garde de l’enfant est assujettie aux conditions d’une ordonnance provisoire que la Cour du Banc de la Reine de l’Alberta a rendue le 26 mars 2010. Voici les extraits pertinents de cette ordonnance :
+[traduction]
+1. LA COUR ORDONNE QUE [la mère] et [le père] aient la garde conjointe provisoire de l’enfant du mariage, [l’enfant], laquelle conservera sa résidence principale chez [la mère].
+2. LA COUR ORDONNE QUE le [père] ait accès à l’enfant du mariage selon un droit de visite raisonnable et généreux dont les modalités sont les suivantes :
+a) chaque mercredi, à compter de l’heure à laquelle il va chercher l’enfant à la garderie jusqu’à 20h30, heure à laquelle il doit retourner l’enfant à la résidence [de la mère];
+b) chaque vendredi, à compter de l’heure à laquelle il va chercher l’enfant à la garderie jusqu’à 20h30, heure à laquelle il doit retourner l’enfant à la résidence [de la mère]. Cependant, ce droit de visite est prolongé toutes les deux fins de semaine de façon que [le père] puisse rester avec l’enfant à compter de l’heure à laquelle il va la chercher à la garderie le vendredi jusqu’au dimanche à 17 h, heure à laquelle il doit retourner l’enfant à la résidence [de la mère].
+[11] Au cours de la période visée, les conditions susmentionnées ont été respectées et continuent à l’être, sauf en ce qui a trait à un rajustement mineur qui n’est pas important. En conséquence, il est indéniable que l’enfant résidait avec chacun des parents au cours de chaque mois pendant la période visée. Ce fait n’est pas contesté.
+[12] Cependant, les parents ne s’entendaient pas sur la question de savoir quel était celui qui était admissible aux prestations en litige, et chacun en a fait la demande.
+Analyse
+[13] Le régime législatif qui s’applique à la prestation fiscale pour enfants et au crédit pour taxe sur les produits et services est complexe. Il ne serait pas utile dans le présent appel de décrire en détail les dispositions législatives applicables et je renvoie le lecteur à l’excellent résumé que le juge Webb (tel était alors son titre) en a fait dans D’Elia c La Reine, 2012 CCI 180.
+[14] La question qui se pose est de savoir si M. Hrushka était un « particulier admissible » au cours de la période visée, selon la définition donnée à cette expression à l’article 122.6 de la Loi. Ainsi que le juge Webb l’a expliqué dans D’Elia, le texte législatif applicable exige que M. Hrushka soit un particulier admissible tant à la prestation fiscale pour enfants qu’au crédit pour taxe sur les produits et services, parce que les parents ne s’entendent pas sur celui qui devrait recevoir les prestations en question.
+[15] Les extraits pertinents de la définition de « particulier admissible », sous sa version actuelle, sont reproduits ci-dessous :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge,
+b) elle est la personne, père ou mère de la personne à charge, qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+[…]
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[16] Le texte législatif précité correspond à la version actuellement en vigueur et renvoie à la règle de la garde partagée. Étant donné que cette règle n’est entrée en vigueur que le 1er juillet 2011, on devrait faire abstraction des renvois susmentionnés à la garde partagée pour tous les mois de la période visée, sauf pour juillet 2011. L’effet de la règle de la garde partagée sera commenté plus loin dans les présents motifs.
+L’exigence relative au soin et à l’éducation
+[17] Sous réserve de la nouvelle règle de la garde partagée, la définition de « particulier admissible » exige que M. Hrushka réside avec l’enfant et soit également le parent qui assume principalement la responsabilité pour le soin et l’éducation de celui-ci.
+[18] Il est indéniable que l’enfant résidait avec M. Hrushka, parce qu’elle a passé beaucoup de temps avec son père dans le cadre de sa routine habituelle. La seule question qui se pose est donc de savoir si M. Hrushka assumait principalement la responsabilité pour le soin et l’éducation de l’enfant.
+[19] Lorsque les conjoints qui sont séparés demandent tous les deux les prestations, comme c’est le cas en l’espèce, la présomption de l’alinéa f) de la définition selon laquelle la mère est présumée être la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge ne s’applique pas : D’Elia, au paragraphe 24.
+[20] Dans la présente affaire, l’alinéa h) de la définition de « particulier admissible » énonce que les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation de l’enfant. À cet égard, les facteurs prescrits sont énumérés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement »), qui est reproduit dans l’extrait suivant de D’Elia :
+[34] Ces critères prévus par règlement sont ainsi énoncés à l’article 6302 du Règlement :
+6302. Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[21] Eu égard à l’ensemble de la preuve, j’en suis arrivée à la conclusion que Mme Kuncewicz était la personne qui assumait principalement la responsabilité pour le soin et l’éducation de l’enfant au cours de la période visée.
+[22] Je soulignerais d’abord que l’alinéa h) de la disposition réglementaire applicable exige que l’ordonnance du tribunal soit prise en compte. Selon l’ordonnance, la résidence principale de l’enfant se trouve chez Mme Kuncewicz. En ce qui concerne le droit de visite du père, l’ordonnance prévoit que ce droit devrait être généreux, mais la période accordée est inférieure à celle que l’enfant passe avec Mme Kuncewicz. Selon la preuve, l’ordonnance du tribunal a été respectée. Il s’agit là d’une preuve très forte tendant à montrer que Mme Kuncewicz est la personne qui assume principalement la responsabilité pour le soin et l’éducation de l’enfant.
+[23] Cependant, il appert également de la preuve que Mme Kuncewicz a des heures de travail fixes, tandis que M. Hrushka a un horaire souple, étant donné qu’il est étudiant. En conséquence, M. Hrushka est parfois plus disponible le jour pour s’occuper de l’enfant lorsque celle-ci doit quitter la garderie pour des raisons médicales ou autres. Eu égard à l’ensemble de la preuve, je ne crois pas que ce genre de situation se produise à une fréquence suffisante pour faire pencher la balance de façon et donner à penser que M. Hrushka assume principalement la responsabilité pour le soin et l’éducation de l’enfant.
+[24] M. Hrushka a expliqué au cours de son témoignage qu’après la période visée, il a joué un rôle très actif pour régler un problème à l’école de l’enfant et que Mme Kuncewicz n’est pas intervenue. Eu égard au témoignage des deux parents, je conclurais que ce type d’incident n’établit pas que Mme Kuncewicz n’a pas assumé principalement la responsabilité pour le soin et l’éducation de l’enfant. Les circonstances tendent plutôt à montrer des styles parentaux différents.
+[25] Il appert de l’ensemble de la preuve que M. Hrushka et Mme Kuncewicz sont tous les deux des parents dévoués qui prennent à coeur le soin et l’éducation de l’enfant. Il semble que M. Hrushka et Mme Kuncewicz aient des styles parentaux différents, mais cette différence ne devrait pas être un facteur à prendre en compte pour décider qui a droit aux prestations en litige.
+La règle de la garde partagée
+[26] Par suite de la modification apportée à la définition de « particulier admissible » en juillet 2011, lorsque les parents sont des « parents ayant la garde partagée », les prestations doivent être partagées entre eux.
+[27] L’expression « parent ayant la garde partagée » est définie ainsi à l’article 122.6 de la Loi :
+« parent ayant la garde partagée » S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de « particulier admissible » ne s’applique pas à celle‑ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi‑égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[28] Compte tenu de la définition qui précède et de la preuve dont je suis saisie, il est évident dans la présente affaire que M. Hrushka n’est pas un parent ayant la garde partagée, parce qu’il ne réside pas avec l’enfant sur une base d’égalité ou de quasi‑égalité. L’enfant passe la majeure partie de son temps à la résidence de sa mère, sauf les fins de semaine, qui font l’objet d’un partage égal à cet égard. Cette situation ne satisfait pas à l’exigence de la résidence sur une base de quasi-égalité.
+Les questions d’ordre procédural
+[29] En dernier lieu, j’aimerais soulever deux questions d’ordre procédural. En raison des lacunes que comportent les hypothèses formulées par le ministre ainsi que la description de la question en litige dans la réponse, il y a eu beaucoup de confusion à l’audience au sujet du critère juridique applicable. Fait important à souligner, il n’est nullement question du soin et de l’éducation de l’enfant dans la réponse.
+[30] En raison de cette confusion, les parties ont présenté leur preuve une journée et sont revenues plus tard au cours de la semaine pour les plaidoiries. J’estime que M. Hrushka n’a subi, en fin de compte, aucun préjudice qui ne pourrait faire l’objet d’un dédommagement par l’octroi de dépens.
+[31] De plus, en raison des lacunes inhérentes aux hypothèses, lesquelles ne renvoyaient pas au soin et à l’éducation de l’enfant, j’ai conclu que la Couronne devrait avoir le fardeau de la preuve à ce sujet. Étant donné que la Couronne a fait témoigner Mme Kuncewicz, j’estime que les faits pertinents ont été présentés en preuve et que le transfert du fardeau de la preuve n’a eu aucun effet sur le résultat.
+Conclusion
+[32] En conséquence, l’appel sera rejeté. Cependant, M. Hrushka devrait avoir droit à des dépens liés à la deuxième journée d’audience. Des dépens dont le montant est fixé à 150 $ lui seront accordés.
+[33] Enfin, j’aimerais commenter une question que M. Hrushka a soulevée à l’audience au sujet d’un problème financier. M. Hrushka a affirmé que l’ARC avait initialement rendu une décision en sa faveur et lui avait versé les prestations. L’ARC s’est subséquemment ravisée, mais M. Hrushka n’a pu avoir accès aux fonds à ce moment-là pour rembourser le montant des prestations, parce qu’il avait placé l’argent dans un compte pour l’enfant et qu’il n’a pas accès à ce compte.
+[34] Bien que la situation de M. Hrushka suscite de la compassion, les dispositions législatives applicables ne me permettent pas d’en tenir compte aux fins du présent appel.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour de décembre 2013.
+C. Laroche
+RÉFÉRENCE : 2013 CCI 335
+No DU DOSSIER DE LA COUR : 2012-1486(IT)I
+INTITULÉ : DAVID HRUSHKA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Les 2 et 4 juillet 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT: Le 24 octobre 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Paige Atkinson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

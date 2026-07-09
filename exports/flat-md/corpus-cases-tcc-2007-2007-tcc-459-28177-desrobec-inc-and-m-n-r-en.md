@@ -1,0 +1,187 @@
+---
+title: "Desrobec Inc. and M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28177/index.do"
+last_modified: "2007-08-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 459"
+citation2: ""
+neutral_citation: "2007 TCC 459"
+decision_date: "2007-08-15"
+language: "en"
+item_id: "28177"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1972
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:50:22.444000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a92eb8dc97e2caef8550d8e4749c1d604760ae856c0d17cad80d925cd9bae2d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Desrobec Inc. and M.N.R.
+
+- Citation: 2007 TCC 459
+- Decision date: 2007-08-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1972, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desrobec Inc. and M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-15
+Neutral citation
+2007 TCC 459
+File numbers
+2006-2488(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-2488(EI)
+BETWEEN:
+DESROBEC INC.,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE
+Respondent,
+and
+JACQUES TURBIDE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 19, 2007, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Appellant’s Representative:
+Jean-Jacques Desrochers
+Counsel for the Respondent:
+Claude Lamoureux
+For the Intervener:
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue according to which the Intervener, Mr. Jacques Turbide, for the periods June 7 to December 31, 2004 and January 1 to October 18, 2005, held insurable employment with the Appellant within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, is dismissed, in accordance with the reasons for judgment hereto appended.
+Signed at Montréal, Quebec, this 15th day of August, 2007.
+“Réal Favreau”
+Justice Favreau
+Translation certified true
+on this 10th day of October 2007
+Stefan Winfield, Translator
+Citation: 2007TCC459
+Date: 20070815 Docket: 2006-2488(EI)
+BETWEEN:
+DESROBEC INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JACQUES TURBIDE,
+Intervener.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a decision rendered by the Minister of National Revenue (the Minister) on June 6, 2006 concerning the insurability of the employment held by Mr. Jacques Turbide with the Appellant for the periods June 1 to December 31, 2004 and from January 1 to October 18, 2005 (the periods at issue).
+[2] The Minister determined that, during the periods at issue, Mr. Turbide held insurable employment with the Appellant within the meaning of paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the Act).
+The Facts
+[3] The Appellant was incorporated on November 30, 1982, and operated a business selling security systems.
+[4] During the periods at issue, Jean-Jacques Desrochers held shares in the Appellant. He also held a securities license.
+[5] The Appellant hired Mr. Turbide in November 2003 to supervise telemarketing staff.
+[6] In December 2003, the Appellant restructured its operations and dismissed all its telemarketing staff.
+[7] On January 4, 2004, Mr. Turbide was rehired by the Appellant to scout prospective clients through phone solicitation and set up appointments with them for Mr. Desrochers. Mr. Turbide could not sell financial products himself because he did not hold a valid license for that purpose.
+[8] Up until June 2004, Mr. Turbide was considered to be an employee of the Appellant, earning $400 per week; he was paid by cheque every two weeks.
+[9] In June 2004, the Appellant and Mr. Desrochers decided to change Mr. Turbide’s status from salaried worker to self-employed worker, and in September 2004 a contract was signed to that effect, dated June 7, 2004. The contract was prepared by Mr. Desrochers without any prior negotiation among the parties concerning its content. Mr. Desrochers did, however, provide Mr. Turbide with certain explanations regarding the scope of the contract. Apparently, the contract was intended to encourage Mr. Turbide to become a career representative in an agency of a life insurance company. In order to do this, Mr. Turbide would have to obtain a pardon for a prior criminal offence, pass academic equivalency tests, and take the appropriate courses to obtain a license to work as a life insurance representative and sell financial products. According to Mr. Desrochers, Mr. Turbide would have been dismissed had he not signed the contract.
+[10] There were no changes to Mr. Turbide's duties subsequent to the signing of the contract.
+[11] Mr. Turbide performed his duties in the Appellant's office based on a schedule coinciding with the Appellant's business hours, which were Mondays to Fridays 9 a.m. to 4 p.m., with the exception of the busy RRSP period, during which the hours were variable.
+[12] Mr. Desrochers called Mr. Turbide on a daily basis for updates and to give him lists of people to contact (e.g., electoral lists). Mr. Turbide used the tools provided to him by the Appellant. He did not incur any expenses in the performance of his duties, nor did he assume any financial risk.
+[13] In carrying out his duties, Mr. Turbide personally rendered services to the Appellant and had to represent Mr. Desrochers exclusively in the search for new clients, including his telemarketing work.
+[14] Mr. Turbide did not have his own clients; his clients were Mr.Desrochers’ clients. Upon termination of the contract on February 24, 2006, Mr. Turbide had to turn over to the Appellant all documents related to his client base.
+[15] Apart from the organizational aspect of Mr. Turbide's work, his duties were not integrated with the Appellant’s business.
+[16] As of June 2004, Mr. Turbide signed invoices for his services prepared by Mr. Desrochers or by his accountant and received non-accountable advances by numbered cheques that he endorsed and gave to Mr. Desrochers to be cashed for a fee of $5 per cheque.
+[17] As of August 30, 2004, Mr. Turbide received non-accountable advances of $500 per week. Mr. Turbide was also eligible for bonuses if he achieved targets set by Mr. Desrochers.
+[18] Mr. Turbide does not recognize the validity of the contract with the Appellant designating him as a self-employed worker, alleging that it is an adhesion contract prepared unilaterally by Mr. Desrochers to his advantage.
+Relevant Legislation
+[19] Paragraph 5(1)(a) of the Act defines the phrase “insurable employment” as follows:
+5.(1) Subject to subsection (2), insurable employment is
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou facile, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+[20] The phrase “contract of service” used in paragraph 5(1)(a) of the Act is obsolete; the Civil Code of Québec, S.Q. 1991, c. 64 now uses the phrases “contract of employment” at article 2085 or “contract of enterprise or for services” at article 2098. The aforementioned articles read as follows:
+2085. A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or provide a service, for a price which the client binds himself to pay.
+2098. Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+[21] Article 2099 of the Civil Code of Québec is also relevant in that it sets out the essential characteristics of the contractor or provider of services. This article reads as follows:
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+2099. L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[22] In Quebec civil law, the three constituent elements of an employment contract are performance of work, remuneration and a relationship of subordination.
+Analysis
+[23] For the following reasons, I find that Mr. Turbide held insurable employment with the Appellant and, consequently, was not a self-employed worker.
+[24] After the aforementioned contract was signed, Mr. Turbide did not acquire any more indepdence than he had when he was the Appellant’s employee. It was adduced in evidence that Mr. Turbide’s duties did not change after he entered into the contract.
+[25] On its face, the contract contains numerous elements confirming the existence of relationship of subordination and control characterizing a contract of employment. The main provisions to that effect are as follows:
+- 3.1: exclusivity of services;
+- 4: one-year automatically renewable contract;
+- 7.1: only products or services authorized by Mr. Desrochers can be advertised on the phone;
+- 7.2: activities to be carried out full-time;
+- 7.3: immediate access to all locations where Mr. Turbide carries out his activities or keeps information in written or electronic form;
+- 7.4: obligation to adhere to standards of integrity and conduct set forth from time to time verbally or in writing;
+- 7.5: commitment not to communicate information or documentation to anyone without first speaking to Mr. Desrochers;
+- 7.6: legal incapacity to incur the liability of Mr. Desrochers;
+- 7.7: any activity or source of remuneration that might contravene the contract to be submitted first to Mr. Desrochers for approval;
+- 7.8: Mr. Turbide’s duties, obligations and responsibilities always to be carried out under the supervision of Mr. Desrochers;
+- 8.1: in accordance with applicable legislation, Mr. Desrochers responsible for the conduct of Mr. Turbide and oversees such conduct in the context of Mr. Desrochers’ business activities;
+- 10.1: Mr. Desrochers has right of review over rate of remuneration and may exercise it whenever he sees fit.
+[26] The bonus scheme was not provided for in the contract, although reference is made to it therein.
+[27] Curiously, the contract dealt with the provision of administrative services for the sale of financial products by Mr. Desrochers, even though the Appellant’s company strictly sold alarm systems.
+[28] Mr. Turbide contends that the contract does not apply to him because he had no choice but to sign it in order to keep his job.
+[29] The test in Wiebe Door Services Ltd v. M.N.R. (1986) 3 F.C. 553, namely, ownership of tools, chance of profits, risk of loss, and integration, also confirms that Mr. Turbide held insurable employment with the Appellant.
+[30] The evidence suggests that Mr. Turbide did not have ownership of the tools necessary for the performance of his work.
+[31] The chance for profit was minimal—unlikely, in fact—given that he had never been granted a pardon and had not done the two years of full-time courses required to obtain his equivalency.
+[32] The risk of loss was inexistent, and the integration factor is difficult to apply in this case since Mr. Turbide’s activities were not related to the Appellant’s business.
+[33] The degree of control exercised by Mr. Desrochers over the activities of Mr. Turbide was such that, for all practical purposes, Mr. Turbide could not have been operating as a self-employed worker.
+[34] For these reasons, the appeal is dismissed.
+Signed at Montréal, Quebec, this 15th day of August 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 10th day of October 2007
+Stefan Winfield, Translator
+CITATION: 2007TCC459
+COURT FILE NO.: 2006-2488(EI)
+STYLE OF CAUSE : DESROBEC INC. and M.N.R. and JACQUES TURBIDE
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 19, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT : August 15, 2007
+APPEARANCES:
+Appellant’s Representative:
+Jean-Jacques Desrochers
+Counsel for the Respondent:
+For the Intervener:
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

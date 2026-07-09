@@ -1,0 +1,463 @@
+---
+title: "Metrobec Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/424721/index.do"
+last_modified: "2019-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 250"
+citation2: ""
+neutral_citation: "2019 CCI 250"
+decision_date: "2019-11-18"
+language: "fr"
+item_id: "424721"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4277
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:07:06.618000+00:00"
+cases_cited_count: 10
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43f91cd0629081943bd4c3fffebe8e96b8b124d689f856cefac4a600014e393e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Metrobec Inc. c. La Reine
+
+- Citation: 2019 CCI 250
+- Decision date: 2019-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4277, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Metrobec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-18
+Référence neutre
+2019 CCI 250
+Numéro de dossier
+2017-2735(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-2735(GST)G
+ENTRE :
+METROBEC INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue les 12 et 13 septembre 2019 à Montréal (Québec)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de la requérante :
+Me Michel Beauchamp
+Me Gabriel Bezeau
+Avocats de l’intimée :
+Me Antoine Lamarre
+Me Christian Lemay
+ORDONNANCE
+VU la requête amendée déposée par la requérante le 28 juin 2019 en vue d’obtenir :
+Une ordonnance en radiation des alinéas 49h), 49i), 49j), 49k), 49l), 49m), 49n), 49o), 49p), 49q), 49r), 49s), 49t), du titre « Valleyfield sham suppliers », des alinéas 49z), 49aa), 49bb), 49cc), 49dd), 49ee), 49ff), 49gg), 49hh), 50c), 50d), 50e), 50f), 50g), 50h), 50i), 50j), 50k), 50l), 50m), 50n), 50o), 50p), 51b), 51c), 51d), 51e), 51f), 51g), 51h), 51i), 51j), 51k), 51l), 51m), 51n), 51o), 52d)i), 52e)i), 55b), 55d), 55e) et 55f) de la Réponse à l’avis d’appel modifié datée du 3 août 2018, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+Une condamnation à l’encontre de l’intimée aux frais et aux dépens;
+ET VU la déclaration sous serment de Caroline Desrosiers;
+ET après avoir entendu les représentations des parties;
+La requête est accueillie conformément aux motifs de l’ordonnance ci‑joints. L’intimée pourra déposer une réponse modifiée à l’avis d’appel modifié dans les 30 jours suivant la date de cette ordonnance.
+Les frais suivront l’issue de l’appel.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2019.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2019 CCI 250
+Date : 20191118
+Dossier : 2017-2735(GST)G
+ENTRE :
+METROBEC INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+D’Auray J.
+I. Requête
+[1] Le 28 juin 2019, Metrobec inc. (« Metrobec ») a déposé une requête en radiation des alinéas 49h), 49i), 49j), 49k), 49l), 49m), 49n), 49o), 49p), 49q), 49r), 49s), 49t), du titre « Valleyfield sham suppliers », des alinéas 49z), 49aa), 49bb), 49cc), 49dd), 49ee), 49ff),49 gg) et 49hh) [1] , 50c), 50d), 50e), 50f), 50g), 50h), 50i), 50j), 50k), 50l), 50m), 50n), 50o), 50p), 51b), 51c), 51d), 51e), 51f), 51g), 51h), 51i), 51j), 51k), 51l), 51m), 51n), 51o), 52d)i), 52e)i), 55b), 55d), 55e) et 55f) de la Réponse à l’avis d’appel modifié datée du 3 août 2018, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (« Règles »)
+II. Contexte
+[2] Metrobec a été incorporée le 1er juin 2012 en vertu de la Loi canadienne sur les sociétés par actions suite à une fusion entre Acier Métropolitain inc. et Métaux Lorbec Ltée.
+[3] Metrobec opère un commerce de ferraille et vieux métaux. À cette fin, Metrobec achète des rebuts métalliques, c’est-à-dire des métaux ferreux et non ferreux.
+[4] Durant les périodes en litige, Metrobec a acheté des rebuts métalliques de douze fournisseurs situés à Valleyfield (les « fournisseurs de Valleyfield »). Ce sont les transactions avec ces fournisseurs qui sont en litige. Les fournisseurs de Valleyfield sont:
+Compagnie
+Administrateur
+Actionnaire
+Well-Dom Aménagement paysagiste
+Dominic Ouellet
+Dominic Ouellet
+Agence de personnel E.B. Inc.
+Éric Blouin
+Éric Blouin
+9229-8371 Québec Inc.
+Éric Blouin
+Éric Blouin
+Installation Info E.B. Inc.
+Éric Blouin
+Éric Blouin
+Services Entretien JHG
+Daniel Blouin
+Daniel Blouin
+9268-7193 Québec Inc. (Reno)
+Daniel Blouin
+Daniel Blouin
+9268-7219 Québec Inc. (Gestion)
+Daniel Blouin
+Daniel Blouin
+Transport Fleur-Ange
+Craig Smith
+Craig Smith
+Habitation Confort Énergétique Inc.
+Craig Smith
+Craig Smith
+Métal FLG Inc.
+Craig Smith
+Craig Smith
+9283-7061 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+9283-3888 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+[5] Lors de l’achat de ces rebuts, Metrobec a émis aux fournisseurs de Valleyfield, des bons d’achat reflétant les transactions. En d’autres mots, lors des transactions d’achat de rebuts métalliques, Metrobec a préparé les factures pour les fournisseurs de Valleyfield. Selon les prétentions de Metrobec, les factures contiennent toutes les informations requises au paragraphe 169(4) de la Loi sur la taxe d’accise (« LTA ») et au Règlement sur les renseignements nécessaires à une demande de crédit de taxes sur les intrants de la LTA (« Règlement relatif à la réclamation des CTI »). Ainsi, Metrobec fait valoir qu’elle est en droit de réclamer les crédits de taxe sur les intrants (les « CTI ») qu’elle a payés à ces compagnies fournisseurs.
+[6] Les fournisseurs de Valleyfield n’ont pas remis au Receveur général la TPS relative aux transactions avec Metrobec.
+[7] Le ministre du Revenu national (le « ministre ») a refusé les CTI réclamés par Metrobec à l’égard des transactions effectuées avec les fournisseurs de Valleyfield.
+[8] L’intimée fait valoir que les fournisseurs de Valleyfield ne sont pas les véritables fournisseurs. Ces derniers auraient servi à camoufler les véritables fournisseurs.
+[9] Selon l’intimée, Metrobec savait ou aurait dû savoir que les fournisseurs de Valleyfield n’étaient pas les véritables fournisseurs. Par conséquent, l’intimée fait valoir entre autres :
+− que les factures sont fausses, car le nom inscrit sur la facture n’était pas le nom du véritable fournisseur;
+− que Metrobec a participé à des transactions trompe-l’œil, avec M. Yves St-Denis (« M. St-Denis »), Planète Métal inc. (« Planète Métal ») et les fournisseurs de Valleyfield, dont l’objectif était de:
+§ permettre aux véritables fournisseurs d’éviter d’inclure ces ventes dans le calcul de leurs revenus;
+§ permettre aux véritables fournisseurs de ne pas avoir à percevoir, ni à remettre la TPS sur ces ventes; et
+§ permettre à Metrobec de réclamer des CTI à l’égard de ces achats de métaux, alors que la TPS n’a pas été remise.
+[10] Des pénalités ont aussi été imposées par le ministre selon le paragraphe 285(1) de la LTA.
+[11] Metrobec fait valoir qu’elle est en droit de réclamer les CTI pour les périodes en litige. Metrobec déclare que les fournisseurs de Valleyfield étaient tous des sociétés. Metrobec effectue des milliers de transactions, elle ne pouvait savoir que les fournisseurs de Valleyfield n’étaient pas de véritables fournisseurs, si tel est le cas. Metrobec fait également valoir qu’elle n’a pas participé à des transactions visant à tromper le fisc. De plus, les factures constatant les achats contiennent les informations requises en vertu du Règlement relatif à la réclamation des CTI.
+III. Disposition statutaire applicable
+[12] L’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (« Règles ») prévoit ce qui suit :
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+IV. L’application de l’article 53 des Règles
+[13] Le critère applicable en matière de radiation de passages d’actes de procédure aux termes de l’article 53 des Règles consiste à rechercher s’il est évident et manifeste que les passages controversés de l’acte de procédure n’ont aucune chance de succès.
+[14] En matière de radiation d’actes de procédure, la Cour suprême du Canada a énoncé, dans la décision R c Imperial Tobacco Canada Ltd. [2] , que l’action ne sera rejetée que s’il est évident et manifeste que les faits allégués ne révèlent aucune cause raisonnable d’action. Plus précisément au paragraphe 17, la juge en chef McLachlin de la Cour suprême du Canada écrit ce qui suit:
+[...] La Cour a réitéré ce critère à maintes reprises : l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable [...] Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours. [...]
+[15] Dans la décision Gramiak c La Reine [3] , M. Gramiak demandait la radiation de certains passages de la réponse à l’avis d’appel de l’intimée. Dans cette décision, le juge en chef Rossiter fait un sommaire de principes jurisprudentiels relatif à l’article 53 des Règles, en référant aux propos du juge en chef Bowman (tel était alors son titre) :
+Le critère du caractère "évident et manifeste" est reconnu de façon générale et depuis longtemps dans la jurisprudence canadienne comme celui qui s’applique aux requêtes en radiation. Dans la décision Sentinel Hill Productions (1999) Corporation, Robert Strother c La Reine, 2007 CCI 742, le juge en chef Bowman a fait un survol utile des principes qui régissent l’application de l’article 53 des Règles:
+[4] J’énoncerai en premier lieu les principes qui, selon moi, doivent s’appliquer dans une requête en radiation fondée sur l’article 53 des Règles. La question a été examinée dans de nombreuses décisions de la Cour et de la Cour d’appel fédérale. Il n’est pas nécessaire de les citer toutes étant donné que les principes sont bien établis.
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c Canada, [1985] 1 RCS 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en vertu de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux, et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+d) C’est l’article 53 des Règles, et non l’article 58, qu’il faut appliquer dans le cadre d’une requête en radiation.
+[16] De plus, tel qu’énoncé dans la décision Heron c La Reine [4] , une allégation dans une procédure sera déterminée non pertinente seulement si, au premier abord, il ne fait aucun doute que l’allégation est non pertinente. S’il y a un doute quant à la pertinence de l’allégation, il est plus sage de ne pas radier l’allégation.
+[17] Par conséquent, un paragraphe ou une partie d’un paragraphe ne sera radié d’un acte de procédure que s’il est évident et manifeste que les faits allégués ne révèlent aucune cause raisonnable d’action. Dans le cas de doute, il vaut mieux laisser la détermination de la pertinence des faits au juge du procès qui, contrairement au juge présidant la requête, aura accès à l’ensemble de la preuve.
+V. Analyse
+[18] Metrobec demande la radiation de quatre groupes d’alinéas. Les alinéas en question sont tous des hypothèses de fait sur lesquelles le ministre s’est fondé pour établir les nouvelles cotisations à l’égard de Metrobec.
+[19] Les hypothèses de fait sur lesquelles le ministre s’appuie pour établir une cotisation jouent un rôle important en droit fiscal. Les hypothèses ont pour but d’indiquer au contribuable les faits que le ministre a tenus en compte lors de l’établissement d’une cotisation.
+[20] De plus, les hypothèses de fait jouissent d’une présomption de véracité. Il en est ainsi parce que le ou la contribuable est dans une meilleure position pour établir les faits de son dossier que le ministre. C’est le contribuable qui sait comment et pourquoi son entreprise fonctionne. De plus, généralement, le ou la contribuable connaît et possède des renseignements dont le ministre ne dispose pas [5] . À la lumière de cette présomption, les hypothèses doivent être clairement énoncées, elles se doivent d’être précises, complètes et véridiques. Cela permet au contribuable de connaître la base factuelle de la cotisation et d’établir que les hypothèses de fait tenus en compte par le ministre sont erronées.
+[21] Cela étant dit, dans certaines circonstances où le ministre a exclusivement connaissance des hypothèses de fait énoncées, ce sera au ministre de prouver ces faits.
+[22] Selon la jurisprudence, le ministre doit se fonder sur des hypothèses de fait et non pas sur des conclusions de droit, ou des conclusions mixtes de fait et de droit. De plus, le ministre doit référer à des faits et non pas à des éléments de preuve qui servent à étayer les faits. Il va de soi que les hypothèses de fait alléguées doivent être pertinentes aux questions en litige.
+[23] En l’espèce, les parties reconnaissent les principes juridiques relatifs aux hypothèses de fait tenues en compte par le ministre pour établir une cotisation. Cependant, les parties ne s’entendent pas sur ce qui constitue une hypothèse de fait, une hypothèse mixte de fait et de droit ou une hypothèse de droit. À cet effet, le juge Iacobucci de la Cour suprême du Canada dans la décision Canada (Director of Investigation & Research) c Southam Inc. [6] a reconnu que ce n’est pas toujours facile de déterminer ce qui constitue une hypothèse de fait comparativement à une hypothèse de droit ou une hypothèse mixte de fait et de droit:
+[35] […] En résumé, les questions de droit concernent la détermination du critère juridique applicable; les questions de fait portent sur ce qui s’est réellement passé entre les parties; et, enfin, les questions de droit et de fait consistent à déterminer si les faits satisfont au critère juridique. Un exemple simple permettra d’illustrer ces concepts. En droit de la responsabilité civile délictuelle, la question de savoir en quoi consiste la "négligence" est une question de droit. Celle de savoir si le défendeur a fait ceci ou cela est une question de fait. Une fois qu’il a été décidé que la norme applicable est la négligence, la question de savoir si le défendeur a respecté la norme de diligence appropriée est une question de droit et de fait. Toutefois, je reconnais que la distinction entre les questions de droit, d’une part, et celles de droit et de fait, d’autre part, est difficile à faire. Parfois, ce qui semble être une question de droit et de fait se révèle une question de droit, ou vice versa.
+[24] Avant de commencer l’analyse des alinéas pour lesquels Metrobec demande la radiation, la position de chaque partie relativement à l’appel au fond est pertinente.
+[25] Lors de l’audience, Metrobec a fait valoir que la question en litige en l’espèce est de savoir si les factures respectent les exigences du paragraphe 169(4) de la LTA et le Règlement relatif à la réclamation des CTI, puisque le ministre reconnaît que Metrobec a acheté des rebuts métalliques des fournisseurs de Valleyfield. Metrobec fait valoir qu’elle ne pouvait savoir que les fournisseurs de Valleyfield n’étaient pas les véritables fournisseurs, si tel était le cas. Elle fait valoir qu’elle ne peut être responsable des actions de tierces parties. Ainsi, selon Metrobec, toutes les hypothèses du ministre relatives à Planète Métal, aux fournisseurs de Valleyfield et à M. St-Denis et leurs rôles respectifs dans un stratagème visant des fausses factures sont impertinentes au litige en l’espèce. Ces allégations devraient toutes être radiées.
+[26] Selon l’intimée, la question en litige n’est pas de déterminer si les factures respectent les exigences du Règlement relatif à la réclamation des CTI, mais de déterminer si Metrobec a participé à des transactions trompe-l’œil, rendant les factures fausses. Selon l’intimée, Metrobec avait connaissance ou devait connaître l’existence d’un stratagème impliquant Planète Métal, M. St‑Denis, ainsi que les fournisseurs de Valleyfield. L’intimée fait valoir que le stratagème, mis en œuvre par ces derniers, a eu pour effet de camoufler les véritables fournisseurs. L’intimée fait donc valoir qu’en l’espèce les factures sont fausses. L’intimée fait également valoir que dans les cas où un trompe-l’œil est invoqué, c’est l’ensemble de la preuve circonstancielle qui établira l’existence de transactions trompe-l’œil. L’intimée précise que les hypothèses tenues en compte par le ministre se fondent sur des faits qui servent à l’établissement d’une preuve circonstancielle et c’est dans ce contexte que je dois analyser les hypothèses de fait.
+[27] Je suis d’accord avec l’intimée que la question en litige n’est pas restreinte à l’application du Règlement relatif à la réclamation des CTI, mais de déterminer si en l’espèce les transactions sont des transactions trompe-l’œil. À cet effet, autant l’avis d’appel de Metrobec que la réponse à l’avis d’appel font référence à la notion juridique d’un trompe-l’œil [7] . C’est dans ce contexte et à la lumière de la jurisprudence en matière de radiation que je dois décider si certaines hypothèses tenues en compte par le ministre doivent être radiées.
+1er groupe d’hypothèses: Planète Métal
+[28] Le premier groupe d’hypothèses que Metrobec demande la radiation sont des hypothèses relatives à la compagnie Planète Métal, soit les alinéas suivants de la réponse à l’avis d’appel [8] :
+[TRADUCTION]
+49h) Planète Métal a été constituée en mai 2005 et déclare réaliser des activités liées à l’acquisition de métal, d’aluminium et d’acier;
+49i) Louise Cousineau est l’unique actionnaire de Planète Métal;
+49j) Yves St-Denis agit à titre d’administrateur de Planète Métal;
+49k) Yves St-Denis assure la gestion des opérations de Planète Métal;
+49l) l’appelante est la seule cliente déclarée de Planète Métal;
+49m) l’appelante est propriétaire depuis au moins juin 2010 de tous les actifs utilisés au lieu d’affaires de Planète Métal à Valleyfield;
+49n) l’appelante assume toutes les dépenses liées aux activités de recyclage de métal réalisées au lieu d’affaires de Planète Métal à Valleyfield;
+49o) l’appelante assume les dettes ou les responsabilités fiscales de Planète Métal et interagit avec les autorités fiscales provinciale et fédérale relativement au dossier fiscal de l’entreprise;
+49p) l’appelante fait référence à ses comptes ou à ses employés liés à Planète Métal par les noms « Valleyfield » ou « fournisseurs de Valleyfield ».
+49q) Planète Métal tient lieu de façade pour les activités de l’appelante à Valleyfield;
+49r) toutes les activités de recyclage de métal réalisées par Planète Métal à Valleyfield, ou une partie de celles-ci, sont en fait les activités de l’appelante;
+49s) l’appelante gère les opérations de recyclage de métal à Valleyfield en collaboration avec Yves St-Denis;
+49t) l’appelante traite régulièrement avec Yves St-Denis;
+[29] Metrobec fait valoir que les hypothèses à ces alinéas ne sont pas pertinentes au litige en l’espèce, car elles n’ont aucun lien avec la question en litige. Metrobec fait valoir que Planète Métal est une tierce partie et que cette dernière n’a aucun lien avec les fournisseurs de Valleyfield dont il est question dans la réponse à l’avis d’appel. Selon Metrobec, si antérieurement M. St-Denis a été impliqué dans des transactions relatives à des fausses factures, le ministre ne peut soulever dans sa réponse à l’avis d’appel des transactions antérieures et étrangères à l’appel en espèce. Metrobec fait valoir que le ministre ne peut prendre pour acquis que Metrobec a participé à un stratagème afin de permettre à des tierces parties d’éluder le paiement de la TPS, au motif que M. St-Denis serait un administrateur « de facto » de Planète Métal et des fournisseurs de Valleyfield.
+[30] De plus, Metrobec fait valoir que certaines hypothèses ne sont pas des hypothèses de fait, mais plutôt des conclusions juridiques ou des hypothèses qui soulèvent des questions mixtes de faits et de droit.
+[31] Pour sa part l’intimée fait valoir que les transactions en question sont des transactions trompe-l’œil. Metrobec utiliserait Planète Métal et les fournisseurs de Valleyfield afin de camoufler les véritables fournisseurs.
+[32] Selon l’intimée, Metrobec joue un rôle important dans les activités de Planète Métal. De plus, M. St‑Denis est un administrateur de facto de Planète Métal et des sociétés/fournisseurs de Valleyfield. L’intimée précise que Planète Métal opère à Valleyfield qui est l’endroit où sont situés les fournisseurs et M. St-Denis. L’intimée fait valoir qu’antérieurement, M. St-Denis aurait participé à un stratagème impliquant des fausses factures. À la lumière des circonstances factuelles, les hypothèses relatives à Planète Métal sont pertinentes. De plus, l’intimée fait valoir qu’il ne revient pas au juge présidant la requête en radiation en vertu de l’article 53 des Règles de déterminer la pertinence des hypothèses relatives à Planète Métal.
+[33] Dans la décision Mungovan c La Reine [9] , tout comme dans l’affaire en l’espèce, M. Mungovan alléguait que les hypothèses de fait tenues en compte par le ministre portaient sur des transactions antérieures produites avant les faits liés aux questions en litige, donc des faits non pertinents auxquels M. Mungovan n’avait aucun lien. Tout comme dans l’appel en l’espèce, M. Mungovan soulevait également que les hypothèses de fait n’étaient rien de moins qu’une tentative incorrecte et scandaleuse de teinter la légitimité de la transaction qui faisait l’objet de l’appel. M. Mungovan soulevait également, tel que le soulève Metrobec, qu’il devait engager des dépenses afin de démontrer la véracité de ces hypothèses de fait, alors qu’il n’avait pas participé aux transactions alléguées dans les hypothèses.
+[34] Le juge Bowman dans Mungovan [10] a décidé de ne pas radier les hypothèses de fait alléguées dans la réponse à l’avis d’appel de l’intimée, car il revient au juge de première instance de déterminer la pertinence et le poids à accorder à ces hypothèses de fait. Le juge Bowman écrit ce qui suit :
+[10] Les hypothèses ne sont pas tout à fait comme des actes de procédure déposés dans le cadre d’une action en justice ordinaire. Elles ressemblent plus à des précisions de faits sur lesquels le ministre s’est fondé en établissant la cotisation. Il est essentiel qu’elles soient complètes et véridiques. Traditionnellement, elles placent un fardeau sur les épaules d’un appelant, et, comme M. Mungovan le fait remarquer avec une justification solide, elles peuvent l’obliger à tenter de réfuter des faits dont il n’a pas connaissance. De prime abord, cela peut s’avérer vrai, mais il s’agit d’une question qui peut être explorée lors d’un interrogatoire préalable. Le juge de première instance est dans une bien meilleure position qu’un juge entendant une requête préliminaire pour examiner quel poids devrait être accordé à ces hypothèses. Le juge de première instance peut décider qu’elles ne sont pas pertinentes. Il ou elle peut également décider d’obliger l’intimée de les prouver. La règle établie dans l’affaire MNR c Pillsbury Holdings Ltd., 64 DTC 5184 est une règle d’application générale, mais elle n’est pas coulée dans le béton.
+[…]
+[12] Il est tout à fait possible, comme M. Mungovan le fait remarquer, que certaines des hypothèses attaquées soient non pertinentes. Il revient au juge de première instance de le déterminer après la présentation de la preuve. Ce n’est pas une question qui peut ou devrait être déterminée dans le cadre de la présentation d’une requête préliminaire en radiation. Il se peut très bien que les paragraphes contiennent des allégations dont seule l’intimée a connaissance. Il reviendra au juge de première instance de déterminer si l’intimée devrait avoir à les prouver.
+[…]
+[14] Le juge de première instance peut très bien décider que la Couronne possède un certain fardeau qui va au-delà de la simple récitation d’hypothèses vagues. Le poids devant être accordé à ces paragraphes est une question qui relève du juge de première instance tout comme le fardeau de preuve. Ce n’est toutefois pas une raison pour radier les paragraphes avant le procès.
+[35] De plus, tel que l’explique le juge Bowman dans la décision Gould c La Reine [11] , rien n’empêche l’intimée de plaider des hypothèses de fait relatives à des tiers, si le ministre s’est fondé sur ces faits lors de l’établissement de la cotisation. À cet effet, le juge Bowman énonce ce qui suit :
+[21] En toute déférence, je ne peux attribuer à la décision Status-One — ni à la décision qu’elle suivait, R. c Global Communications Limited, no A‑147‑97, 7 avril 1997, 97 DTC 5194 (CAF) — l’effet invoqué par l’avocat de l’appelant. Un élément central de la cotisation par laquelle n’ont pas été admis les dons de bienfaisance est l’existence d’une combine à laquelle on allègue que l’appelant a participé et qui a permis aux participants d’obtenir ce que la Couronne considère comme des crédits d’impôt pour dons de bienfaisance artificiels ou gonflés. Cette combine impliquait nécessairement des tiers et, si l’existence d’une combine est essentielle pour la thèse de la Couronne, cette dernière devrait pouvoir invoquer et prouver tous les éléments de cette combine. C’est allé trop loin que de prétendre, comme le fait l’appelant, que les décisions Global et Status-One empêchent toute mention d’opérations de tiers, à moins que l’appelant n’ait été au courant de ces opérations ou y ait participé. Si l’existence d’une combine est liée au fait que les dons de bienfaisance n’ont pas été admis, on ne peut en faire fi, que le ministre ait supposé ou non que l’appelant était au courant d’opérations de tiers qui, d’après la Réponse, faisaient partie intégrante de la combine, ou qu’il y ait participé. Si l’un quelconque des faits supposés n’est réellement connu que de la Couronne, celle‑ci a probablement la charge de le prouver, bien que ce soit en définitive au juge du procès d’en décider.
+[22] Je pourrais faire observer que la plainte habituellement formulée est que la Couronne n’a pas invoqué toutes les hypothèses pertinentes ou n’a pas invoqué certaines hypothèses qui seraient favorables à la partie appelante. Ici, c’est plutôt l’inverse. L’appelant se plaint que trop d’hypothèses sont invoquées. Il me semble que si une cotisation est basée sur des hypothèses non pertinentes, contradictoires ou illogiques, comme l’allègue l’appelant, on pourrait arguer que c’est un fondement solide pour attaquer la cotisation. Si ces hypothèses sont supprimées de la Réponse, l’appelant se prive d’une des armes de son arsenal. La raison pour laquelle il souhaiterait agir de la sorte m’échappe. En s’absorbant trop dans de menus détails techniques, on risque de perdre de vue l’avantage tactique important qu’il y a à obliger la Couronne à composer avec ses propres allégations. Il y a beaucoup à dire en faveur de la règle respectable consistant à ne pas renseigner son adversaire.
+[36] Je suis d’avis que ce sera au juge du procès, qui aura accès à toute la preuve, de déterminer la pertinence et le poids à accorder aux hypothèses relatives à Planète Métal. S’il s’avère que le ministre a la connaissance exclusive de certaines hypothèses, l’intimée devra établir la véracité de ces hypothèses. Par conséquent, l’ensemble des hypothèses relatives à Planète Métal ne doivent pas être radiées.
+[37] Cependant, je suis d’avis que certaines hypothèses, telles que rédigées par l’intimée dans sa réponse à l’avis d’appel, soulèvent des conclusions mixtes de fait et de droit.
+[38] Je suis d’avis que les alinéas de la réponse à l’avis d’appel 49j) « Yves St‑Denis agit à titre d’administrateur de Planète Métal » et 49q) « Planète Métal tient lieu de façade pour les activités de l’appelante à Valleyfield » soulèvent des allégations mixtes de fait et de droit. Par conséquent, ces alinéas doivent être radiés. Comme je l’ai fait pour Metrobec [12] , je vais cependant donner l’occasion à l’intimée de modifier lesdits alinéas de la réponse à l’avis d’appel modifié.
+[39] Une allégation référant à un administrateur de facto est une allégation mixte de fait et de droit. L’intimée doit expliquer quels sont les faits sur lesquels le ministre s’est fondé pour déterminer que M. St-Denis était un administrateur de facto au paragraphe 49j).
+[40] Quant au paragraphe 49q), l’avocat de l’intimée a admis que le mot anglais « sham » et le mot « façade », ne devraient pas être utilisés lors de la rédaction d’une hypothèse de fait. À cet effet, le juge Rip dans la décision Strother c La Reine [13] , énonce que les allégations contenant les mots « sham » « façade » et « circular transactions » sont des allégations mixtes de fait et de droit:
+[TRADUCTION]
+c) Les allégations d’opérations en trompe-l’œil, d’artifices et de transactions circulaires
+[31] Les allégations d’opérations en trompe-l’œil, d’artifices et de transactions circulaires sont également en cause. Le critère relatif à la doctrine des opérations en trompe-l’œil a été établi dans la décision Snook v. London West Riding Investments, Ltd. :
+[...] [I]l désigne des actions faites ou des documents signés par les parties au « trompe-l’œil » et destinés à créer l’impression, dans l’esprit des tiers ou du tribunal, de l’existence entre les parties de droits et d’obligations juridiques autres que ceux et celles (s’il en est) que les parties ont l’intention de créer. [...] si des actions ou des documents doivent constituer un « trompe-l’œil », avec les conséquences juridiques qui en découlent, ceux qui y sont parties doivent tous bien entendre que les actes ou les documents ne créent pas les droits et les obligations juridiques qu’ils donnent l’impression de créer. [...] [Non souligné dans l’original.]
+[32] En l’espèce, les faits correspondent aux droits et aux responsabilités réels ainsi qu’aux actions des parties. Toutefois, l’application des faits à l’exercice visant à déterminer s’il y avait une intention commune de tromper est une conclusion mixte de faits et de droit, car elle nécessite l’application des faits au critère juridique de la doctrine du trompe-l’œil. Encore une fois, l’intimé est tenu d’extraire les faits et les mentions de trompe-l’œil, ou d’artifice, devraient être supprimées. Quant à cet argument, certaines des parties mises entre crochets sont radiées, tandis que d’autres ne le sont pas, car il s’agit de faits sous-jacents, et non pas de conclusions.
+[41] Par conséquent, l’intimée devra étayer les faits qui lui ont permis d’alléguer que Planète Métal est une façade pour les fournisseurs de Valleyfield.
+[42] Je suis d’avis que l’hypothèse à l’alinéa 49s) ne contient pas des faits impertinents de façon, claire, manifeste ou évidente. Par conséquent, l’alinéa n’a pas à être modifié.
+[43] Quant à l’hypothèse à l’alinéa 49t), je suis d’avis que tel que rédigée, l’hypothèse n’est pas suffisamment précise. L’intimée fait valoir que Metrobec lors de l’interrogatoire préalable pourra poser des questions sur cette hypothèse ou faire une requête en précision. J’en conviens, cependant tel que l’a indiqué le juge Bowman dans Mungovan [14] , les hypothèses ne sont pas tout à fait comme des actes de procédures déposés dans le cadre d’une action en justice ordinaire. Elles ressemblent davantage à des précisions de faits sur lesquels le ministre s’est fondé en établissant la cotisation. Un contribuable doit connaître sur quels faits le ministre s’est fondé lors de l’établissement de la cotisation. Par conséquent, tel que rédigée, l’hypothèse à l’alinéa 49t) est radiée avec la permission de la modifier.
+2e groupe d’hypothèses: fournisseurs de Valleyfield
+[44] Le deuxième groupe d’hypothèses réfère aux fournisseurs de Valleyfield, soit :
+Compagnie
+Administrateur
+Actionnaire
+Well-Dom Aménagement paysagiste
+Dominic Ouellet
+Dominic Ouellet
+Agence de personnel E.B. Inc.
+Éric Blouin
+Éric Blouin
+9229-8371 Québec Inc.
+Éric Blouin
+Éric Blouin
+Installation Info E.B. Inc.
+Éric Blouin
+Éric Blouin
+Services Entretien JHG
+Daniel Blouin
+Daniel Blouin
+9268-7193 Québec Inc. (Reno)
+Daniel Blouin
+Daniel Blouin
+9268-7219 Québec Inc. (Gestion)
+Daniel Blouin
+Daniel Blouin
+Transport Fleur-Ange
+Craig Smith
+Craig Smith
+Habitation Confort Énergétique Inc.
+Craig Smith
+Craig Smith
+Métal FLG Inc.
+Craig Smith
+Craig Smith
+9283-7061 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+9283-3888 Québec Inc.
+Léo-Sébastien Fortier
+Léo-Sébastien Fortier
+[45] Les hypothèses dont la requérante demande la radiation sont les suivantes :
+[TRADUCTION]
+Les fournisseurs en trompe-l’œil de Valleyfield
+49z) Yves St-Denis agit à titre d’administrateur et gestionnaire des sociétés indiquées au sous-paragraphe 49.x);
+49aa) S’ils agissent pour le compte des sociétés indiquées au sous-paragraphe 49.x), Dominic Ouellet, Eric Blouin, Daniel Blouin, Craig Smith et Leo-Sébastien Fortier agissent au nom de Yves St-Denis ou selon ses directives;
+49bb) le métal recyclé relié aux factures décrites à l’annexe B provient d’entreprises non identifiées;
+49cc) malgré ce qui précède, les sociétés nommées au sous-paragraphe 49.x) sont des sociétés fictives;
+49dd) Yves St-Denis utilise les sociétés nommées au sous-paragraphe 49.x) ainsi que leurs administrateurs et actionnaires respectifs afin de cacher l’identité des véritables fournisseurs de l’appelante;
+49ee) En cachant ainsi l’identité des véritables fournisseurs :
+i) les véritables fournisseurs peuvent vendre leurs métaux recyclés sans avoir à déclarer le revenu correspondant;
+ii) les véritables fournisseurs peuvent vendre leurs métaux recyclés sans avoir à verser la TPS correspondante;
+iii) l’appelante peut réclamer des CTI, tandis que la TPS n’est ni remise ni payée par le fournisseur;
+49ff) si les sociétés nommées au sous-paragraphe 49.x), leurs administrateurs ou actionnaires respectifs, ou Yves St-Denis ont fourni du métal recyclé ou reçu des paiements eu égard aux factures figurant à l’annexe B, ils l’ont fait au nom de fournisseurs non identifiés;
+[46] Quant à l’alinéa 49z) de la réponse à l’avis d’appel, Metrobec fait valoir que cet alinéa s’avère être une allégation mixte de fait et de droit, particulièrement quant à l’énoncé « Yves St-Denis acts as a director and manager ».
+[47] Quant à l’alinéa 49aa), Metrobec fait valoir que ce n’est pas une hypothèse de fait, car le mot « si » est utilisé. Si les individus en question agissaient pour les fournisseurs de Valleyfield, ils agissaient au nom de M. St-Denis, selon ses directives. Metrobec fait valoir que les faits doivent être clairs et précis, soit les individus mentionnés agissent pour le compte des fournisseurs de Valleyfield ou pas. De plus, Metrobec fait valoir que la question de savoir si ces personnes agissaient selon les directives de M. St-Denis n’a aucun lien avec la question en litige, soit de déterminer si les factures satisfont aux exigences du Règlement relatif à la réclamation des CTI. Metrobec fait également valoir que le mot « act » réfère à un concept juridique.
+[48] Quant à l’alinéa 49bb), Metrobec fait valoir qu’il n’y aucun moyen de contestation à l’encontre de cette hypothèse. De plus, Metrobec prétend que la présomption à l’article 923 du Code civil du Québec la favorise, soit « que le possesseur est présumé titulaire du droit réel qu’il exerce. C’est à celui qui conteste cette qualité à prouver son droit, le cas échéant l’absence de titre ou encore les vices de la possession ou du titre du possesseur ». De plus, Metrobec fait valoir que le ministre n’a pas énoncé les faits sur lesquels il s’appuie afin d’alléguer que les rebuts métalliques proviennent de fournisseurs non identifiés. Finalement, Metrobec argumente qu’on ne peut l’obliger à démolir des faits qui se rapportent à des tiers.
+[49] Quant à l’alinéa 49cc), Metrobec fait valoir que l’hypothèse alléguée est une conclusion juridique et que le ministre doit énoncer les faits qui sous‑tendent que les fournisseurs sont des compagnies « coquilles » ou des « coquilles vides ».
+[50] Quant aux alinéas 49dd) et 49ee), Metrobec fait valoir que les hypothèses sur lesquelles s’appuient le ministre n’ont aucun lien avec le litige. Metrobec fait valoir qu’elle a acheté des rebuts métalliques des fournisseurs de Valleyfield et qu’elle ne pouvait pas savoir que ces derniers n’étaient pas des véritables fournisseurs. Metrobec fait valoir que les hypothèses relatives aux fournisseurs de Valleyfield ne sont que des suppositions et des affirmations sans fondement. Par conséquent, Metrobec fait valoir qu’elle doit connaître les faits sur lesquels le ministre se fonde pour alléguer que les fournisseurs ne sont pas les véritables fournisseurs. Metrobec argumente que si effectivement, M. St-Denis est impliqué dans la gestion des fournisseurs de Valleyfield, cela n’a aucun impact sur la question en litige en l’espèce, soit de déterminer si les factures rencontrent les exigences du Règlement relatif à la réclamation des CTI. Finalement, Metrobec prétend qu’à l’alinéa 49ee) le ministre allègue un résultat fiscal sans aucun fondement factuel.
+[51] Premièrement, le mot « sham » dans la version anglaise ou le mot trompe l’œil dans la traduction française doit être supprimé du titre « Valleyfield Sham Suppliers » et de toutes les hypothèses. La notion de « sham » ou de trompe-l’œil est un concept juridique qui implique des faits et du droit.
+[52] Je suis aussi d’avis que l’alinéa 49z) contient une allégation mixte de fait et de droit. Le ministre doit énoncer dans les hypothèses de fait, la base factuelle sur laquelle il s’est fondé pour conclure que M. St-Denis agissait à titre d’administrateur de facto des fournisseurs de Valleyfield. Ainsi, cette partie de l’alinéa 49z) sera radiée, mais avec la permission de modifier l’alinéa.
+[53] L’alinéa 49aa) fait référence à un fait probable, hypothétique « si les personnes agissaient ». Le ministre doit se fier sur des faits réels. Tel que rédigé l’alinéa doit être radié. Cependant, l’intimée pourra modifier cet alinéa.
+[54] À mon avis, l’alinéa 49bb) réfère à des faits. Tel que je l’ai indiqué, Metrobec fait valoir que la question en litige se limite à l’application stricte du Règlement relatif à la réclamation des CTI, c’est-à-dire de savoir si les factures respectent les exigences de ce règlement. Donc, selon Metrobec, l’alinéa 49bb) n’est pas pertinent. Cependant, tel que je l’ai déjà indiqué, il ressort des procédures, dont l’avis d’appel de Metrobec, que la question en litige en l’espèce sera de déterminer si les factures sont fausses à la lumière d’un stratagème impliquant la requérante. L’alinéa 49bb) réfère aux fournisseurs non identifiés. Selon l’intimée, les fournisseurs non identifiés font partie du stratagème utilisé dans cette affaire. De plus, ce n’est pas parce que des faits sont tenus en compte par le ministre que ces derniers bénéficient de la présomption de véracité. Ce sera au juge du procès à déterminer si ce sera Metrobec ou l’intimée qui aura le fardeau de la preuve relatif à des faits visant des tiers. Cela étant dit, je suis d’avis que les faits allégués ne sont pas impertinents de façon, claire, manifeste ou évidente. Par conséquent, cet alinéa ne sera pas radié.
+[55] Tel que rédigé, l’alinéa 49cc) doit être radié. Le ministre énonce que les fournisseurs de Valleyfield sont des « coquilles » ou des « coquilles vides ». Cela constitue une allégation mixte de fait et de droit. Le ministre doit énoncer les faits sur lesquels il s’est fondé pour en arriver à cette conclusion. Sur ce point, la décision du juge Rip dans Strother c La Reine citée au paragraphe 39 de ces motifs d’ordonnance est pertinente. Les mots « trompe-l’œil », « coquille vide» et « façade » sont des conclusions mixtes de fait et de droit. L’intimée pourra modifier sa réponse à l’avis d’appel en conséquence.
+[56] L’alinéa 49ee) doit aussi être radié. Cet alinéa énonce les conséquences du stratagème, ce ne sont pas des faits qui ont servi à l’établissement de la cotisation. Cet alinéa pourra être allégué dans la réponse à l’avis d’appel, mais il ne devrait pas faire partie des hypothèses de fait que le ministre a tenu en compte lors de l’établissement de la cotisation.
+[57] À mon avis, l’alinéa 49dd) réfère à des faits. Le ministre a tenu en compte lors de l’établissement d’une cotisation que M. St-Denis utilisait les actionnaires et administrateurs des fournisseurs de Valleyfield afin de cacher l’identité des véritables fournisseurs. Le juge Paris a décidé, dans Bemco c La Reine [15] , qu’une intention d’induire en erreur est une question de fait qui n’exige pas l’application d’un critère juridique. Ce qu’une personne fait ou sait est une question de fait. Cet énoncé du juge Paris s’applique en l’espèce. Par conséquent, cet alinéa ne sera pas radié.
+[58] Je suis d’avis que l’alinéa 49ff) ne contient pas des faits impertinents de façon, claire, manifeste ou évidente. Par conséquent, il ne sera pas radié.
+3e groupe d’hypothèses : cotisation en vertu du paragraphe 298(4) de la LTA
+[59] Le 3e groupe d’hypothèses réfère à des hypothèses sur lesquelles le ministre s’est fondé pour établir une cotisation hors délai à l’égard de certaines périodes [16] .
+[60] Metrobec demande que les hypothèses suivantes du ministre soient radiées:
+[TRADUCTION]
+50c) l’appelante savait que de fausses factures étaient incluses dans le calcul de sa taxe nette, tout en produisant les formulaires de paiement mentionnés au sous-paragraphe 50.b);
+50d) les fournisseurs en trompe-l’œil de Valleyfield en question ont tous été recommandés par Yves St-Denis;
+50e) l’appelante connaît Yves St-Denis;
+50f) Yves St-Denis agit, en réalité, à titre d’administrateur de Planète Métal;
+50g) l’appelante est propriétaire de tout l’équipement de Planète Métal;
+50h) l’appelante considère toutes les ventes de Planète Métal comme étant les siennes;
+50i) l’appelante détient un compte bancaire relié à Planète Métal auquel est versé le produit de toutes les ventes de la société;
+50j) l’appelante utilise le compte en question pour payer toutes les dépenses actuelles de Planète Métal;
+50k) bon nombre des fournisseurs en trompe-l’œil de Valleyfield déclarent être administrés par la même personne;
+50l) l’appelante ne suit pas ses propres procédures habituelles lorsqu’il traite avec les fournisseurs en trompe-l’œil de Valleyfield;
+50m) bon nombre des fournisseurs en trompe-l’œil de Valleyfield ont encaissé des chèques émis par l’appelante à une entreprise d’encaissement de chèques;
+50n) l’importance de la somme des CTI réclamés par rapport aux fournisseurs en trompe-l’œil de Valleyfield, laquelle s’élève à 488 738,36 $.
+50o) la durée des fausses présentations répétées s’étirant du 1er juin 2009 au 30 juin 2013;
+50p) l’ampleur de l’expérience des administrateurs de l’appelante, nommément Mark et Richard Leibov.
+[61] Les arguments présentés par les parties sont les mêmes que ceux présentés pour le premier et le deuxième groupe d’hypothèses énoncées dans ces motifs. Par conséquent, je ne répéterai pas les arguments des parties et je ne répéterai pas la jurisprudence applicable, sauf si un nouvel argument est soulevé.
+[62] Le mot « sham » dans la version anglaise ou le mot trompe l’œil dans la traduction française doit être supprimé des alinéas 50d), 50k), 50l), 50m) et 50n) pour les raisons énoncées aux paragraphes 40 et 51 de ces motifs. L’intimée pourra modifier ces alinéas.
+[63] Dans la décision Bemco, précitée, le juge Paris détermine que « ce qu’une personne fait ou sait est une question de fait ». J’adopte le raisonnement du juge Paris en l’espèce. Par conséquent, les alinéas 50c) et 50e) ne seront pas radiés.
+[64] Tel que rédigé, l’alinéa 50f) est radié pour les mêmes raisons que j’ai énoncées aux paragraphes 39 et 52 de ces motifs. Le ministre doit énoncer les faits sur lesquels il s’est fondé pour conclure que M. St-Denis était un administrateur « de facto ». L’hypothèse à l’effet que M. St-Denis est un administrateur « de facto » est une allégation mixte de fait et de droit. L’intimée pourra modifier cet alinéa.
+[65] Les hypothèses aux alinéas 50k) et 50l) ne sont pas rédigées de manière claire et précise. Est-ce que l’individu en question est M. St-Denis? À quelle procédure l’intimée réfère-t-elle? L’intimée pourra modifier ces alinéas.
+[66] Les hypothèses alléguées aux alinéas 50g), 50h), 50i), 50j) et 50o) sont des hypothèses de fait. Ces faits ne sont pas impertinents de façon, claire, manifeste ou évidente. Ces alinéas ne seront donc pas radiés.
+[67] Je suis d’avis que les faits énoncés à l’alinéa 50p) sont pertinents dans le cadre d’une cotisation hors délai en vertu du paragraphe 298(4) de la LTA. Ce sera au juge du procès, qui aura accès à toute la preuve, de déterminer le poids à accorder à cette hypothèse. L’alinéa 50p) ne sera donc pas radié.
+[68] Plusieurs alinéas réfèrent à des tierces parties. Les allégations visant des tierces parties peuvent demeurer. Les hypothèses de fait relatives à des tierces parties sur lesquels le ministre s’est fondé lors de l’établissement d’une cotisation sont pertinentes, particulièrement quand les questions soulèvent des transactions trompe-l’œil [17] .
+4e groupe d’hypothèses : hypothèses relatives à l’établissement des pénalités selon l’article 285 de la LTA
+[69] Metrobec demande que les hypothèses suivantes soient radiées:
+[TRADUCTION]
+51b) l’appelante savait que de fausses factures étaient incluses dans le calcul de sa taxe nette, tout en produisant les formulaires de paiement mentionnés au sous-paragraphe 51.a);
+51c) les fournisseurs trompe-l’œil de Valleyfield en question ont tous été recommandés par Yves St-Denis;
+51d) l’appelante connaît Yves St-Denis;
+51e) Yves St-Denis agit, en réalité, à titre d’administrateur de Planète Métal;
+51f) l’appelante est propriétaire de tout l’équipement de Planète Métal;
+51g) l’appelante considère toutes les ventes de Planète Métal comme étant les siennes;
+51h) l’appelante détient un compte bancaire relié à Planète Métal auquel est versé le produit de toutes les ventes de la société;
+51i) l’appelante utilise le compte en question pour payer toutes les dépenses actuelles de Planète Métal;
+51j) bon nombre des fournisseurs en trompe-l’œil de Valleyfield déclarent être administrés par la même personne;
+51k) l’appelante ne suit pas ses propres procédures habituelles lorsqu’il traite avec les fournisseurs en trompe-l’œil de Valleyfield;
+51l) bon nombre des fournisseurs en trompe-l’œil de Valleyfield ont encaissé des chèques émis par l’appelante à une entreprise d’encaissement de chèques;
+51m) l’importance de la somme des CTI réclamés par rapport aux fournisseurs en trompe-l’œil de Valleyfield, laquelle s’élève à 488 738,36 $.
+51n) la durée des fausses présentations répétées s’étirant du 1er juin 2009 au 30 juin 2013;
+51o) l’ampleur de l’expérience des administrateurs de l’appelante, nommément Mark et Richard Leibov.
+[70] Les arguments présentés par les parties sont les mêmes que ceux présentés pour le premier, deuxième et troisième groupe d’hypothèses énoncées dans ces motifs. Par conséquent, je ne répéterai pas les arguments des parties et je ne répéterai pas la jurisprudence applicable sauf si un nouvel argument est soulevé.
+[71] Le mot « sham » dans la version anglaise ou trompe l’œil dans la traduction, doit être supprimé des alinéas 51c), 51j), 51k), 51l), 51m) pour les raisons que j’ai énoncées aux paragraphes 40 et 51 de ces motifs. L’intimée pourra modifier ces alinéas afin de supprimer le mot « sham ».
+[72] Dans la décision Bemco c La Reine [18] , le juge Paris détermine que « ce qu’une personne fait ou sait est une question de fait ». J’adopte le raisonnement du juge Paris en l’espèce. Ces faits ne sont pas impertinents de façon manifeste et évidente. Par conséquent, les alinéas 51b) et 51d) n’ont pas à être modifiés.
+[73] Tel que rédigé, l’alinéa 51e) est radié conformément aux motifs que j’ai énoncés aux paragraphes 39 et 52. Le ministre doit étayer sur quels faits il s’est fondé pour alléguer que M. St-Denis était un administrateur « de facto ». Cependant, l’intimée pourra modifier cet alinéa.
+[74] Les alinéas 51j) et 51k) ne sont pas rédigés clairement et de manière précise. Est-ce que l’individu en question est M. St-Denis? À quelle procédure l’intimée réfère-t-elle? L’intimée pourra modifier les alinéas.
+[75] Les alinéas 51f), 51g), 51h), 51i), 51n) réfèrent à des faits. Ces faits ne sont pas impertinents de façon, claire, manifeste ou évidente. Ces alinéas ne seront donc pas radiés.
+[76] Dans le contexte de l’application d’une pénalité selon le paragraphe 285 de la LTA, l’alinéa 51o) est pertinent car le ministre doit examiner les caractéristiques propres aux contribuables afin de déterminer s’il s’agit d’un cas où le contribuable a sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission. Donc l’expérience des administrateurs n’est pas un fait impertinent de façon claire, manifeste ou évidente. Cet alinéa ne sera donc pas radié.
+VI. Disposition
+[77] La requête est accueillie selon lesdits motifs.
+[78] L’intimée pourra déposer une réponse modifiée à l’avis d’appel modifié dans les 30 jours suivant la date de cette Ordonnance.
+[79] Les frais suivront l’issue de l’appel.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2019.
+« Johanne D’Auray »
+D’Auray J.
+EXTRAITS DE LA RÉPONSE À L’AVIS D’APPEL DÉPOSÉE PAR L’INTIMÉE
+49h) Planète Métal was incorporated in May 2005 and declares performing activities related to the acquisition of metal, aluminium and steel;
+49i) Louise Cousineau is the sole shareholder of Planète Métal;
+49j) Yves St-Denis acts as director of Planète Métal;
+49k) Yves St-Denis manages Planète Métal’s operations;
+49l) the appellant is Planète Métal’s only declared client;
+49m) since at least June 2010, the appellant owns all the assets used at Planète Métal’s business premises in Valleyfield;
+49n) the appellant assumes expenses related to scrap metal operations performed at Planète Métal’s business premises in Valleyfield;
+49o) the appellant assumes Planète Métal’s fiscal debts or liabilities and interacts with provincial and federal tax authorities concerning Planète Métal’s fiscal file;
+49p) the appellant refers to its accounts or employees related to Planète Métal as "Valleyfield" or "Valleyfield operations”;
+49q) Planète Métal is a façade for the appellant’s operations in Valleyfield;
+49r) All or part of the scrap metal operations performed by Planète Métal in Valleyfield are operations of the appellant;
+49s) the appellant manages the Valleyfield scrap metal operations in collaboration with Yves St-Denis;
+49t) the appellant deals regularly with Yves St-Denis;
+«Valleyfield sham suppliers »
+49z) Yves St-Denis acts as director and manager for the corporations listed in sub-paragraph 49x);
+49aa) If they act for the corporations listed in sub-paragraph 49x), Dominic Ouellet, Eric Blouin, Daniel Blouin, Craig Smith and Leo-Sebastien Fortier act on behalf of Yves St-Denis or following his instructions;
+49bb) the scrap metal related to the invoices detailed in Schedule B is obtained from unidentified businesses;
+49cc) despite the foregoing, the corporations listed in sub-paragraph 49x) are shell corporations;
+49dd) Yves St-Denis uses the corporations listed in sub-paragraph 49x), as well as their respective directors and shareholders, to hide the true identity of the appellant’s real suppliers;
+49ee) In hiding the identity of the real suppliers:
+i) the real suppliers are allowed to sale their scrap metals without declaring the corresponding income, and,
+ii) the real suppliers are allowed to sale their scrap metals without remitting the corresponding GST; and,
+iii) the appellant is allowed to claim ITC while GST is not remitted and paid by the supplier;
+49ff) if either the corporations listed in sub-paragraph 49.x), their respective directors or shareholders or Yves St-Denis supplied scrap metal or received payment for the invoices listed in Schedule B, they did so on behalf of unidentified suppliers
+50c) the appellant knew false invoices were included in the calculation of its net tax while filling the remittance forms mentioned in sub-paragraph 50.b);
+50d) the Valleyfield sham suppliers in dispute were all referred by Yves St-Denis;
+50e) the appellant knows Yves St-Denis;
+50f) Yves St-Denis acts, in fact, as a director of Planète Métal;
+50g) the appellant owns all of Planète Métal’s equipment;
+50h) the appellant considers as its own all the sales of Planète Métal;
+50i) the appellant owns a bank account related to Planète Métal in which the sales of Planète Métal are deposited;
+50j) the appellant uses the said account to pay for Planète Métal’s current expenses;
+50k) many of the Valleyfield sham suppliers declare to be administered by the same individual;
+50l) the appellant does not follow its own usual procedures when dealing with the Valleyfield sham suppliers;
+50m) many of the Valleyfield sham suppliers cash cheques issued by the appellant at a cheque cashing business;
+50n) the importance of the ITC claimed with respect to the Valleyfield sham suppliers, which amount to 488 738,36 $;
+50o) the length of the repeated false representation spanning over the period of June 1, 2009 to June 30, 2013;
+50p) the breadth of experience of the appellant’s directors, namely Mark and Richard Leibov.
+51b) the appellant knew false invoices were included in the calculation of its net tax while filling the remittance forms mentioned in sub- paragraph 51.a);
+51c) the Valleyfield sham suppliers in dispute were all referred by Yves St-Denis;
+51d) the appellant knows Yves St-Denis;
+51e) Yves St-Denis acts, in fact, as a director of Planète Métal;
+51f) the appellant owns all of Planète Métal’s equipment;
+51g) the appellant considers as its own all the sales of Planète Métal;
+51h) the appellant owns a bank account related to Planète Métal in which the sales of Planète Métal are deposited;
+51i) the appellant uses the said account to pay for Planète Métal’s current expenses;
+51j) many of the Valleyfield sham suppliers declare to be administered by the same individual;
+51k) the appellant does not follow its own usual procedures when dealing with the Valleyfield sham suppliers;
+51l) many of the Valleyfield sham suppliers cash cheques issued by the appellant at a cheque cashing business;
+51m) the importance of the ITC claimed with respect to the Valleyfield sham suppliers, which amount to 488 738,36 $;
+51n) the length of the repeated false representation spanning over the period of June 1,2009 to June 30, 2013;
+51o) the breadth of experience of the appellant’s directors, namely Mark and Richard Leibov.
+RÉFÉRENCE :
+2019 CCI 250
+Nº DU DOSSIER DE LA COUR :
+2017-2735(GST)G
+INTITULÉ DE LA CAUSE :
+METROBEC INC. c LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 12 et 13 septembre 2019
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Johanne D’Auray
+DATE DE L’ORDONNANCE :
+Le 18 novembre 2019
+COMPARUTIONS :
+Avocats de la requérante :
+Me Michel Beauchamp
+Me Gabriel Bezeau
+Avocats de l’intimée :
+Me Antoine Lamarre
+Me Christian Lemay
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Me Caroline Desrosiers
+Me Michel Beauchamp
+Cabinet :
+CD Legal inc.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Lors de l’audience de la requête, la requérante a déclaré qu’elle ne demandait pas la radiation des alinéas 49gg), 49hh), 52d)i), 52e)i), 55b), 55d), 55e) et 55f) de la réponse à l’avis d’appel.
+[2] 2011 CSC 42.
+[3] 2013 CCI 383.
+[4] Heron c La Reine, 2017 TCC 71, cette décision a été confirmée par la Cour d’appel fédérale.
+[5] Les Voitures Orly Inc. c SMR, 2005 CAF 425, au paragraphe 20.
+[6] Canada (Director of Investigation & Research) c Southam Inc., [1997] 1 RCS 748.
+[7] Voir: Avis d’appel modifié, paragraphes 121 à 128.
+[8] La version originale anglaise des hypothèses pertinentes de la Réponse à l’avis d’appel modifié est jointe en annexe à ces motifs.
+[9] 3 CTC 2779.
+[10] Mungovan c La Reine, 2001-685(IT)G - Bien que Kossow c Canada, 2009 CAF 83, paragraphe 21, portait sur une autre question juridique, la Cour d’appel fédérale a approuvé la conclusion du juge Bowman dans Mungovan, relativement aux hypothèses de fait.
+[11] 2005 CCI 556.
+[12] Il y avait plusieurs anomalies dans l’avis d’appel de Metrobec. J’ai donné l’occasion à Metrobec de modifier son avis d’appel. Voir l’ordonnance dans Metrobec Inc. c R, 2018 TCC 115.
+[13] 2011 TCC 251, cette décision n’est pas disponible en français.
+[14] Supra, note 9.
+[15] 2015 CCI 48.
+[16] Cela étant dit, dans cette affaire, Metrobec avait signé une renonciation. Lors du procès, les parties débattront l’étendue de cette renonciation.
+[17] Voir : paragraphe 35 de ces motifs.
+[18] Ibid.

@@ -1,0 +1,289 @@
+---
+title: "POS America Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28201/index.do"
+last_modified: "2006-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 623"
+citation2: ""
+neutral_citation: "2006 TCC 623"
+decision_date: "2006-12-22"
+language: "en"
+item_id: "28201"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1982
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:26:28.224000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72ebf4a8ee8e834bb408aca9492985aecb5c210885d0accfb30cb468d2546e6c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# POS America Inc. v. M.N.R.
+
+- Citation: 2006 TCC 623
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1982, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+POS America Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-22
+Neutral citation
+2006 TCC 623
+File numbers
+2006-434(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-434(EI)
+BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JESSE TAKKEN,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+POS America Inc.(2006-435(CPP)), POS America Inc.(2006-436(EI)), and POS America Inc.(2006-437(CPP)) on November 1, 2006, at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gerhard E. Schauble
+Counsel for the Respondent:
+Selena Sit
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2006-435(CPP)
+BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JESSE TAKKEN,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+POS America Inc.(2006-434(EI)), POS America Inc.(2006-436(EI)), and POS America Inc.(2006-437(CPP)) on November 1, 2006
+at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gerhard E. Schauble
+Counsel for the Respondent:
+Selena Sit
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2006-436(EI)
+BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+POS America Inc.(2006-434(EI)), POS America Inc.(2006-435(CPP)), and POS America Inc.(2006-437(CPP)) on November 1, 2006
+at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gerhard E. Schauble
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2006-437(CPP)
+BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+POS America Inc.(2006-434(EI)), POS America Inc.(2006-435(CPP)), and POS America Inc.(2006-436(EI)) on November 1, 2006
+at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gerhard E. Schauble
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC623
+Date: 20061114
+Docket: 2006-434(EI)
+BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JESSE TAKKEN,
+Intervenor,
+Docket: 2006-435(CPP)
+AND BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JESSE TAKKEN,
+Intervenor,
+Docket: 2006-436(EI)
+AND BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2006-437(CPP)
+AND BETWEEN:
+POS AMERICA INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Kelowna, British Columbia, on November 1, 2006. Rhonda J. Lesher (Ms. Lesher) testified for the Appellant. The Respondent called the two alleged employees, David Crawford and Jesse Takken, an Intervenor. The periods of alleged employment that are in dispute are:
+Jesse Takken – May 1, 2004 to May 31, 2005
+David Crawford – February 2, 2003 to October 11, 2004.
+[2] The allegations and assumptions respecting Jesse Takken in files 2006-434(EI) and 435(CPP) are essentially the same. Paragraphs 10 to 12 of file 2006-434(EI) read as follows:
+10. In response to the Appellant’s appeal of that ruling under section 91 of the Employment Insurance Act, S.C. 1996 c.23 (the “Act”), the Minister determined that the Worker was employed by the Appellant in insurable employment during the Period.
+11. In determining that the Worker was employed in insurable employment with the Appellant during the Period, the Minister relied on the following assumptions of fact:
+a) the Appellant was in the business of software development;
+b) the Appellant’s head offices were located in Voorhees, New Jersey, U.S.A.;
+c) the Appellant operated an office in Kelowna, British Columbia under the trade name of VIP Solutions;
+d) the Appellant’s shares are owned wholly by Stephen Passas;
+e) the Appellant’s day to day business operation in Kelowna was controlled by R.J. Lesher, director of operations;
+f) the Appellant provided the office from which the Worker performed his duties in addition to all the tools and equipment required;
+g) the Worker’s duties were software design and development;
+h) the Worker’s duties were performed at the Appellant’s place of business;
+i) the Worker was required to work 40 hours per week from Monday to Friday;
+j) the Appellant supervised the Worker;
+k) the Appellant required the Worker to record his hours worked;
+l) the Worker did not provide services elsewhere during the Period;
+m) the Worker was required to report progress to the Appellant on a daily basis;
+n) the Worker did not incur any expenses in the performance of his duties;
+o) the Worker was required to provide his services personally;
+p) the Worker was paid at the rate of $25.00 per hour;
+q) the Worker did not charge the Appellant G.S.T.;
+r) the Worker received paid vacation leave;
+s) the Worker did not provide any tools or equipment;
+t) the Worker was not free to come and go as he pleased; and
+u) the Worker’s intention was to be an employee.
+B. ISSUES TO BE DECIDED
+12. The issue is whether the Worker was employed in insurable employment with the Appellant during the Period.
+None of the assumptions in paragraph 11 were refuted by the evidence. However, respecting assumption 11(m), the evidence is that Mr. Takken was in the same premises as Ms. Lesher and reported to her frequently each week, if not daily.
+[3] The allegations and assumptions respecting David Crawford in files 2006-436(EI) and 437(CPP) are also essentially the same. Paragraphs 10 to 12 of file 2006-436(EI) read as follows:
+10. In response to the Appellant’s appeal of that ruling under section 91 of the Employment Insurance Act, S.C. 1996 c.23 (the “Act”), the Minister determined that the Worker was employed by the Appellant in insurable employment during the Period.
+11. In determining that the Worker was employed in insurable employment with the Appellant during the Period, the Minister relied on the following assumptions of fact:
+a) the Appellant was in the business of software development;
+b) the Appellant’s head offices were located in Voorhees, New Jersey, U.S.A.;
+c) the Appellant’s shares are owned wholly by Stephen Passas;
+d) the Appellant operated an office in Kelowna, British Columbia under the trade name of VIP Solutions;
+e) the Appellant’s day to day business operation in Kelowna was controlled by R.J. Lesher, Director of Operations;
+f) the Worker’s duties included software programming in visual basics, database programming, evaluation of third party software, interfacing with third party software, database repair and customer service;
+g) the Appellant provided the office from which the Worker performed his duties;
+h) the Appellant provided the supplies, materials and equipment for the Worker to perform his duties;
+i) the Appellant required the Worker to sign a contract;
+j) the Worker was required to work from 8:00 a.m. to 4:30 p.m. Monday to Friday;
+k) the Appellant required the Worker to record his hours on a timesheet;
+l) the Appellant supervised the Worker on a daily basis;
+m) the Worker’s rate of pay was approximately $3,950.00 per month at the end of his employment;
+n) the Worker was paid twice monthly by cheque;
+o) the Worker did not charge the Appellant G.S.T.;
+p) the Worker did not incur any expenses in the performance of his duties;
+q) the Worker did not provide any tools or equipment;
+r) the Worker was not free to come and go as he pleased;
+s) the Worker did not provide services elsewhere during the Period; and
+t) the Appellant required the Workers’ personal service.
+B. ISSUES TO BE DECIDED
+12. The issue is whether the Worker was employed in insurable employment with the Appellant during the Period.
+Except for the fact that during Mr. Crawford’s Period the VIP offices were in Westbank, British Columbia, a suburb of Kelowna, none of the assumptions in paragraph 11 were refuted by the evidence.
+[4] Both Mr. Takken and Mr. Crawford signed an identical form contract prepared by “VIP” respecting their hiring. Jesse Takken’s is dated 19 February, 2004 (Exhibit R-1) and David Crawford’s is dated 25 February, 2004 (Exhibit A-2, Tab 4). Paragraphs 6 and 7 of those contracts read as follows:
+6. The Contractor shall work 40 (Forty) hours per week only. Hours of Company operation are Monday thru Friday, 8:00 AM – 4:30 PM. Only Canadian Statutory Holidays will be paid as a bonus to the Contractor, unless otherwise stated in writing by an Authorized Company Representative. Any time taken off by the Contractor will be deducted from the next pay period or an arrangement can be made to make up the hours lost.
+7. Contract payment will commence on the 1st and 15th of each month for the contract duration. Each Contract will be reviewed yearly. Negotiated contract wage is set for one year only and may be renegotiated if the Contract is renewed at the year’s anniversary date. For the Year 2004 beginning month of March 1 the Contractor shall receive $2,500.00 US dollars per calendar month, effective for one full calendar year.
+Messrs. Takken and Crawford worked on the basis of a 40 hour week as stated and “banked” any extra hours or made up hours to arrive at 40 hours per week. They each took weeks of holidays which sometimes may have included a few days of “banked” time.
+[5] In addition, Mr. Takken signed a second contract pre-dated to February 19, 2002 (Exhibit A-1, Tab 1) in May of 2005; a few days later, he was laid off effective May 31, 2005 because the Appellant converted from developing software to selling the developed product. In the Court’s view Exhibit A-1, Tab 1, is a mere cover-up after the event and was not followed by the Appellant in any event: for example, paragraph 2.1 fixes the pay at $25.30 per hour (from which 30¢ was subtracted for equipment rent.) However, it is not expressly in US funds, which means in Canada that it is Canadian funds. But Mr. Takken was paid thereafter in US funds anyway.
+[6] Both workers were paid bi-monthly throughout in the amount of $2,500 US per month.
+[7] As a result, despite the wording of the form contracts quoted and signed by the parties, in practice, the intention of the parties was not that the workers should be contractors. Rather, the intention of both parties was that the workers should become employees of the Appellant. They were controlled by the Appellant; they used the Appellant’s tools in the Appellant’s premises; they had no risk of profit or loss; and they were completely integrated into the Appellant’s business operations. They were not in business for themselves; the business was the Appellant’s.
+[8] The appeals are dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC623
+COURT FILE NO.: 2006-434(EI)
+STYLE OF CAUSE: POS America Inc. v. MNR
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: November 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: November 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gerhard E. Schauble
+Counsel for the Respondent:
+Selena Sit
+For the Intervenor:
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gerhard E. Schauble
+Firm: Schauble
+Kelowna, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

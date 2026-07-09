@@ -1,0 +1,225 @@
+---
+title: "Gyimah c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30104/index.do"
+last_modified: "2010-12-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 621"
+citation2: ""
+neutral_citation: "2010 CCI 621"
+decision_date: "2010-12-03"
+language: "fr"
+item_id: "30104"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7644
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:23:23.897000+00:00"
+cases_cited_count: 4
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f15160a54dccbaf752cd13ef20915d2ba2fc838900464f548ae9150eb264d48a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gyimah c. La Reine
+
+- Citation: 2010 CCI 621
+- Decision date: 2010-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7644, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gyimah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-03
+Référence neutre
+2010 CCI 621
+Numéro de dossier
+2010-77(IT)APP
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-77(IT)APP
+ENTRE :
+ANTHONY GYIMAH,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande de prorogation de délai
+entendue le 19 août 2010 à Toronto (Ontario)
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat du requérant :
+Me V. William Andreou
+Avocate de l’intimée :
+Me Rishma Bhimji
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai imparti pour signifier des avis d’opposition aux cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 1997, 1998 et 1999 respectivement;
+Et après avoir entendu les allégations et les arguments des parties :
+La Cour fait droit à la demande de signification des avis d’opposition et déclare que les avis d’opposition signifiés à l’Agence du revenu du Canada le 8 mars 2010 ont été régulièrement signifiés, le tout conformément aux motifs exposés dans les motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2010.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Édith Malo, LL.B.
+Référence : 2010 CCI 621
+Date : 20101203
+Dossier : 2010-77(IT)APP
+ENTRE :
+ANTHONY GYIMAH,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hershfield
+[1] La Cour est saisie d’une demande, déposée le 7 janvier 2010, en vue d’obtenir la prorogation du délai imparti pour signifier des avis d’opposition relativement aux années d’imposition 1997, 1998 et 1999 du demandeur.
+[2] Lors de la première audience de notre Cour, la demande a été ajournée à une date indéterminée étant donné qu’elle n’avait pas d’abord été soumise au ministre du Revenu national (le « ministre ») comme l’exige le paragraphe 166.2(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Une demande (pièce R-1) a alors été soumise le 8 mars 2010 au ministre, qui l’a refusée le 27 mai 2010 (pièce R-2) parce qu’elle n’avait pas été présentée dans le délai prescrit à l’alinéa 166.1(7)a) de la Loi. Le ministre n’a pas soutenu que les autres conditions de cet alinéa n’avaient pas été respectées et l’avocate de l’intimée a reconnu à l’audience qu’elle ne se fondait sur aucun argument portant sur les autres conditions. Je tiens néanmoins à signaler que je suis convaincu, vu l’ensemble de la preuve qui a été présentée à l’audience, que les toutes les autres conditions en question ont été respectées.
+[4] La Cour est maintenant saisie régulièrement de la demande conformément au paragraphe 166.2(1) de la Loi et la question à trancher est celle de savoir si la demande a été présentée dans le délai requis.
+[5] L’alinéa 166.2(5)a) de la Loi dispose :
+166.2(5) Acceptation de la demande -- Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+[…]
+[6] Le délai par ailleurs fixé par la Loi pour signifier un avis d’opposition est prévu au paragraphe 165(1) de la Loi, qui est ainsi libellé :
+165.(1) Opposition à la cotisation -- Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) […]
+[7] Le dernier en date des jours mentionnés à l’alinéa 165(1)a) est, en l’espèce, le 90e jour suivant la date de mise à la poste de l’avis de cotisation, comme le prévoit le sous-alinéa a)(ii).
+[8] La date limite à laquelle une demande de prorogation de délai doit être présentée à la Cour en vertu de l’alinéa 166.2(5)a) est donc fixée de la façon suivante :
+1997 : Date de la cotisation : 31 octobre 2005
+Date limite à laquelle le requérant devait déposer un avis d’opposition :
+30 janvier 2006
+Date limite pour présenter une demande de prorogation de délai :
+30 janvier 2007
+1998 : Date de la cotisation : 19 décembre 2005
+Date limite à laquelle le requérant devait déposer un avis d’opposition :
+20 mars 2006
+Date limite pour présenter une demande de prorogation de délai :
+20 mars 2007
+1999 : Date de la cotisation : 18 novembre 2003
+Date limite à laquelle le requérant devait déposer un avis d’opposition :
+16 février 2004
+Date limite pour présenter une demande de prorogation de délai :
+16 février 2005
+[9] L’Agence du revenu du Canada (l’« ARC ») allègue que les avis de cotisation portant respectivement la date du 31 octobre 2005 (portant sur l’année d’imposition 1997, du 19 décembre 2005 (portant sur l’année d’imposition 1998) et du 18 novembre 2003 (portant sur l’année d’imposition 1999) ont tous été postés au requérant.
+[10] M. Gyimah affirme qu’il n’a pas reçu les avis de cotisation en question. Il a expliqué qu’il n’avait appris l’existence des avis de cotisation qu’une fois expiré le délai imparti pour déposer un avis d’opposition et pour demander une prorogation de délai.
+[11] L’avocate de l’intimée a fait témoigner un agent de l’ARC affecté au contentieux pour confirmer que les cotisations avaient été mises à la poste dans les délais prescrits, conformément aux exigences de la Loi. Le contre-interrogatoire que l’agent a subi a suscité des incertitudes au sujet de la valeur de son témoignage. Avant d’expliquer plus en détail pourquoi ces incertitudes m’ont amené à faire droit à la demande, je vais rappeler les faits relatifs à la situation du requérant au cours de la période en cause.
+[12] En 1997, 1998 et 1999, M. Gyimah travaillait comme mécanicien de climatiseurs : il réparait des climatiseurs. En juin 2000, il a été victime d’un accident de voiture. Il a expliqué qu’il avait subi un traumatisme crânien et qu’il souffrait de pertes de mémoire et de problèmes de comportement et de compréhension depuis l’accident. Il a expliqué qu’il avait travaillé en moyenne trois mois par années depuis l’accident et qu’il avait complètement cessé de travailler en 2004. Des preuves médicales ont été produites à l’audience pour confirmer que les blessures qu’il avait subies étaient véritablement débilitantes et qu’elles avaient sérieusement affecté sa capacité de comprendre une cotisation et d’y répondre[1].
+[13] Le requérant a malgré tout retenu les services d’un avocat en avril 2002 pour tenter d’obtenir des dommages-intérêts en rapport avec cet accident. L’avocat souhaitait que le requérant rencontre un expert-comptable pour préparer les déclarations de revenus qui étaient vraisemblablement nécessaires pour pouvoir calculer les dommages-intérêts. Le requérant affirme qu’il a rencontré un expert-comptable pour l’aider à produire ses déclarations. Il est logique que la déclaration portant sur l’année 1999, l’année précédant l’accident, ait été produite après que le requérant eut engagé l’avocat. En fait, une déclaration a été produite en 2003 pour l’année 1999. Rien ne permet toutefois de penser que des déclarations ont été produites à l’époque pour les années 1997 et 1998.
+[14] Avant de passer à l’examen des éléments de preuve relatifs à la production de déclarations pour les années en question, je vais examiner le témoignage que M. Gyimah a donné au sujet des problèmes de comportement qui l’affligent depuis l’accident.
+[15] Il a expliqué qu’à la suite de l’accident, il avait souvent des réactions violentes face à divers stimuli et qu’il avait été incarcéré à plusieurs reprises pour des périodes allant jusqu’à deux ou trois mois. Il n’a jamais été reconnu coupable des faits qu’on lui reprochait. Le temps qu’il a passé en prison l’était en attente d’un cautionnement ou d’un procès. J’ai l’impression que, dans chaque cas, les accusations ont finalement été retirées en raison de son état de santé ou encore qu’il a été acquitté en raison de ce même état de santé. Il a avancé son incarcération comme explication possible de la non-réception des cotisations, bien qu’il semble avoir certains doutes dans son esprit à ce sujet, étant donné que son fils qui, à ses dires, s’occupait de ses affaires, n’avait à sa connaissance rien reçu[2].
+[16] Une autre raison qui expliquerait pourquoi il n’a pas reçu les cotisations était que les cotisations avaient été mises à la poste, en supposant qu’elles l’aient été, à la mauvaise adresse. En 2003 et en 2005, M. Gyimah était propriétaire de deux propriétés résidentielles, la première sise au 1, avenue Victoria Ouest, et la seconde, au 7, avenue Victoria Ouest. Il habitait le 7, avenue Victoria Ouest à l’époque et louait l’autre résidence[3]. M. Gyimah croyait qu’en supposant qu’elles aient été envoyées, les cotisations ont pu être envoyées à la mauvaise adresse.
+[17] Ce n’est qu’en juin 2005 qu’un de ses locataires, qui résidait dans les lieux loués, lui a présenté une Demande formelle de paiement (qu’on a appelé à l’audience une saisie-arrêt) de l’ARC[4]. La saisie-arrêt précisait que le locataire devait payer son loyer à l’ARC plutôt qu’à M. Gyimah. Ignorant la raison de la saisie-arrêt, le requérant s’est présenté aux bureaux de l’ARC. Un agent de l’ARC du bureau fiscal de Toronto Nord l’a alors informé qu’il devait de l’argent à l’ARC et lui a conseillé de retenir les services d’un expert-comptable pour mettre ses déclarations à jour, ajoutant qu’on ne s’occuperait pas de son cas tant qu’il ne mettrait pas de l’ordre dans ses déclarations fiscales[5]. M. Gyimah affirme que l’agent de l’ARC ne lui a pas parlé d’avis de cotisation.
+[18] À l’époque, ces renseignements auraient pu contribuer à éclaircir la situation parce que le requérant a effectivement consulté quelqu’un pour l’aider à produire au moins une déclaration portant sur une année antérieure à 2000. Toutefois, lorsqu’on affirme que la situation aurait pu ainsi être plus claire, on suppose que le requérant était apte à comprendre les renseignements portant sur une cotisation antérieure qui aurait pu être produite, et à y répondre, ce qui est effectivement fort possible. Il y a aussi, bien sûr, la question de la capacité du requérant, à l’époque, de donner des directives appropriées à la personne chargée de produire ses déclarations. De plus, la fiabilité du témoignage du requérant sur l’un ou l’autre de ces éléments est douteuse, si l’on tient compte de son état de santé mentale et de ses problèmes de mémoire entre le moment de l’accident, en 2000, et la stabilisation de son état, en 2008.
+[19] Malgré tout, on peut dans une certaine mesure se faire une idée de l’état des déclarations antérieures en consultant le dossier présenté par le témoin de l’intimée.
+[20] Comme je l’ai dit, l’intimée a fait témoigner un agent de l’ARC affecté au contentieux qui m’a renvoyé à deux séries de copies papier de documents de l’ARC appelés Option C et Option E. Ces copies papier renferment les inscriptions habituelles attestant les dates de production des déclarations ainsi que la date et l’adresse d’envoi des cotisations en cause.
+[21] La copie papier de l’Option C de 1997 tient sur une seule page. La date de cotisation qui y est indiquée est celle du 21 novembre 2005. Aucune date de production de la déclaration de revenus n’est indiquée. Comme je l’ai déjà mentionné, le requérant affirme qu’il n’a jamais reçu la cotisation. Le revenu imposé pour 1997 est indiqué sur la copie papier, mais il l’est de façon plutôt inusitée. On y trouve, sur ce que j’appellerais une ligne mise en relief, la mention suivante : [traduction] « LA PRÉSENTE COTISATION A ÉTÉ MODIFIÉE À LA SUITE D’UNE NOUVELLE COTISATION PORTANT SUR PLUSIEURS ANNÉES ». On y fait état de revenus d’environ 70 000 $. La Cour ne dispose d’aucun renseignement au sujet d’une cotisation rectificatrice. Contrairement à la déclaration explicite que l’on trouve sur la copie papier de l’Option C, le témoin de l’intimée a expliqué qu’il n’y avait aucune autre cotisation. Cette affirmation m’apparaît trop inusitée pour être ignorée. Elle me semble en fait donner une certaine crédibilité à l’hypothèse du requérant que les modifications apportées en 2005 au sujet des trois années en question n’ont pas permis de rajuster correctement ses revenus de 1999[6]. En tout état de cause, je ne suis pas porté autant que je le serais normalement à croire que je peux tirer des renseignements fiables de ces copies papier en l’espèce.
+[22] La copie papier de l’Option C pour 1998 consiste en deux pages. Elle indique le 4 août 2005 comme date de déclaration à la page 2 et le 19 décembre 2005 comme date de cotisation, à la page 1. Comme je l’ai expliqué, le requérant soutient qu’il n’a jamais reçu cette cotisation. Il semble toutefois qu’en réponse à la demande de mise à jour de ses déclarations que l’ARC lui a adressée après la saisie-arrêt de juin 2005, le requérant ait obtenu de l’aide pour produire à tout le moins une déclaration pour 1998. Ces revenus de 1998 seraient de l’ordre de 153 000 $. Le requérant a expliqué qu’il est impossible qu’il ait pu gagner un tel montant.
+[23] La copie papier de l’Option C de 1999 consiste en trois pages. Elle indique le 7 octobre 2003 comme date de déclaration à la page 2 et le 18 novembre 2003 comme date de cotisation, à la page 1. Ces dates correspondent à celles des déclarations réclamées par l’avocat dans le cadre de la poursuite en dommages-intérêts au civil par suite de l’accident. Les revenus de 1999 seraient de l’ordre de 143 000 $ et, là encore, le requérant a expliqué qu’il ne pouvait avoir gagné une telle somme. Aucune explication n’a été fournie au sujet des montants qui auraient été déclarés, hormis le fait que le premier représentant comptable a peut-être regroupé par erreur les revenus accumulés sur une longue période de temps ou inclus des montants qui ne pouvaient être attribués au requérant[7].
+[24] Pour revenir aux événements survenus après la saisie-arrêt et qui auraient fait suite à la cotisation établie en 2003 au sujet de l’année 1999, M. Gyimah a expliqué qu’après son premier contact avec l’ARC, il avait multiplié les démarches au cours des deux années suivantes pour rencontrer des employés de l’ARC en vue de connaître non seulement l’origine de la saisie-arrêt susmentionnée, mais également celle d’une autre saisie-arrêt signifiée en novembre 2006 au locataire du 1, avenue Victoria Ouest. Le montant maximal de la saisie-arrêt avait été augmenté de 64 000 $ à plus de 229 000 $. L’augmentation était probablement le résultat de la nouvelle cotisation établie en 2005 au sujet des années d’imposition 1997 et 1998 du requérant[8]. Les démarches que le requérant a entreprises pour rencontrer des membres du personnel de l’ARC n’ont produit aucun résultat : il a été simplement renvoyé d’une personne à l’autre durant cette période. Il a insisté pour dire qu’on ne répondait jamais à ses questions et qu’on ne lui avait jamais parlé des cotisations impayées.
+[25] Par ailleurs, il n’a pas réussi à entrer en communication avec les personnes qui l’avaient aidé à remplir ses déclarations précédentes. En fin de compte, il a engagé un expert-comptable, M. Gustavo Beher, en juillet 2008 et l’a chargé de préparer ses déclarations de revenus pour l’année 2000 et pour les années ultérieures et pour résoudre les problèmes relatifs à l’impôt dû à l’ARC qui, selon ce que M. Beher a appris, faisait suite aux cotisations établies relativement aux années d’imposition 1997, 1998 et 1999 du requérant.
+[26] M. Beher a témoigné à l’audience. Il a reconnu qu’il ignorait quand les déclarations de 1997, 1998 et 1999 avaient été produites. Il a expliqué que, s’il avait pu produire des déclarations modifiées pour les années en question, le revenu brut rajusté du requérant se serait établi à 20 500 $, 19 900 $ et 3 000 $ respectivement[9].
+[27] À ce moment-ci, il semble que l’exposé des faits ne soit pas d’un grand secours pour le requérant et que la Cour ne peut faire droit à sa demande, compte tenu du délai de prescription prévu par la loi. Je dis « il semble » parce que l’avocat du requérant a fait valoir qu’il faut tenir compte de l’état mental du requérant pour décider si le délai de prescription peut commencer à courir. Toutefois, bien que j’aie tenu compte jusqu’ici des éléments de preuve qui se rapportent à cet argument, il y a d’autres aspects dont il faut tenir compte en ce qui concerne l’argument relatif à la mise à la poste des cotisations.
+[28] La copie papier de l’Option C de 1997, qui tient sur une seule page, porte la date du 19 août 2010. L’adresse postale qui y est indiquée est le 1, avenue Victoria Ouest[10] ». L’adresse postale qui figurait sur la copie papier de l’Option E à l’époque de la cotisation de 2005 était le 7, avenue Victoria Ouest.
+[29] La copie papier de l’Option C de 1998, qui compte deux pages, est datée du 19 août 2010. L’adresse postale qui y est indiquée est celle du 1, avenue Victoria Ouest. L’adresse postale qui figurait sur la copie papier de l’Option E à l’époque de la cotisation de 2005 était le 7, avenue Victoria Ouest.
+[30] La copie papier de l’Option C de 1999, qui compte trois pages, est datée du 19 août 2010. L’adresse postale qui y est indiquée est le 1, avenue Victoria Ouest. On trouve deux adresses postales sur la copie papier de l’Option E à l’époque de la cotisation de 2003, soit le 7, avenue Victoria Ouest, et le 391, rue Keele. Ces adresses sont inscrites dans cet ordre et auraient pris effet le même jour, en l’occurrence le 23 octobre 2003. Elles sont inscrites d’une façon qui indique qu’elles ont été enregistrées sur la foi des renseignements communiqués par le contribuable ou par son mandataire autorisé. L’agent de l’ARC affecté au contentieux n’a pas pu expliquer comment il se faisait que ces dates contradictoires avaient été inscrites le même jour par le même fonctionnaire de l’ARC. Dans ces conditions, ces inscriptions contradictoires inexpliquées faites toutes les deux le 23 octobre 2003 ne sauraient être considérées comme attestant un changement d’adresse auquel l’intimée pouvait se fier. La fiabilité de la séquence des inscriptions et leur origine sont, au mieux, douteuses. J’estime d’ailleurs qu’on peut dire à juste titre que la confiance du témoin de l’intimée en ce qui concerne la fiabilité des éléments de preuve qu’il a été appelé à examiner, a été ébranlée en ce qui concerne à tout le moins l’année 1999. Mais surtout, ce témoin a admis qu’il n’était pas en mesure de dire avec certitude à quelle adresse l’avis de cotisation a été envoyé.
+[31] Lorsque je dis que la confiance du témoin de l’intimée a été ébranlée à tout le moins en ce qui concerne l’année 1999, je songe à une autre confusion en ce qui concerne l’adresse postale des cotisations de 1997 et de 1998 qui ont été mises à la poste le 21 novembre 2005 et le 19 décembre 2005 respectivement. Il est déclaré sur la copie papier que l’adresse inscrite sur l’Option E était celle qui était indiquée dans une déclaration de revenus. Or, le témoin de l’intimée a affirmé que cette adresse pouvait provenir de n’importe quelle déclaration et que la copie papier ne lui permettait pas de savoir de laquelle. Il a soutenu que, faute d’autres déclarations produites vers le même moment, l’adresse devait provenir de la déclaration de 1998. Toutefois, comme je l’ai déjà expliqué, je ne suis pas convaincu que les dossiers font état de toutes les déclarations, ce qui permet de douter de la provenance et de la fiabilité du changement d’adresse sur lequel l’ARC s’est fiée pour poster les cotisations de 1997 et de 1998. Il ne s’ensuit pas nécessairement pour autant que les cotisations n’ont pas été envoyées à la bonne adresse. Il semble en fait que, contrairement aux cotisations de 1999, elles ont effectivement été envoyées à la bonne adresse. Malgré tout, les liens réciproques entre les trois cotisations découlant d’une « NOUVELLE COTISATION PORTANT SUR PLUSIEURS ANNÉES » me convainquent que le défaut, en l’espèce, d’envoyer à la bonne adresse une cotisation, en l’occurrence la première et, vraisemblablement, la plus critique de la série de cotisations, rend irrégulière la délivrance de la nouvelle cotisation portant sur plusieurs années. D’ailleurs, en pratique, l’année 1999 ne peut être effectivement examinée séparément si, en fait, on y a regroupé les revenus des trois années en question.
+[32] Cette conclusion, en l’occurrence que la délivrance des cotisations en question était irrégulière, m’amène à conclure qu’il y a lieu de faire droit à la demande de prorogation du délai imparti pour déposer des avis d’opposition à ces cotisations. L’avocat du requérant cite à l’appui de cet argument le jugement 236130 British Columbia Ltd. c. R.[11]. Cette affaire portait sur la remise d’un avis de cotisation qui avait été posté à la mauvaise adresse. Dans cette affaire, la Cour a souligné que « [l]es avis de nouvelle cotisation ont été envoyés à la mauvaise adresse, et cela revient à dire qu’ils n’ont pas été délivrés du tout[12] ». L’avocat du requérant fait valoir que cette conclusion appuie la thèse du requérant suivant laquelle on ne peut pas considérer que le délai de prescription a commencé à courir.
+[33] Je suis du même avis. Les éléments de preuve que l’intimée peut normalement invoquer pour affirmer que les cotisations ont été envoyées à la bonne adresse se révèlent insuffisants en l’espèce. Les copies papier de l’Option C et de l’Option E soulèvent tellement de questions que la charge de la preuve qui repose sur l’intimée s’en retrouve alourdie et que l’intimée ne s’en est pas acquittée. De plus, la confusion et les faits qui caractérisent la présente affaire m’incitent à accorder le bénéfice du doute au requérant. En conséquence, les avis d’opposition seront considérés comme ayant été déposés dans les délais impartis en ce qui a trait aux trois années en question et le ministre devra y répondre en temps utile conformément à la Loi.
+[34] Sans cette conclusion, il faudrait examiner l’argument invoqué par le requérant au sujet de son incapacité de recevoir un avis de cotisation en raison de son incapacité mentale et de l’impossibilité pour lui d’y répondre.
+[35] L’avocat du requérant est d’avis que, dès lors que le contribuable est frappé d’une incapacité mentale, et qu’il n’y a pas de tuteur ou de représentant légal, aucun délai de prescription ne peut courir et lui nier ainsi le droit de s’opposer à une cotisation. Il cite les décisions Meunier c. M.N.R.[13], Lesage c. Ministre du Revenu national[14] et R. c. Tohms[15], dans lesquelles le tribunal a accordé une prorogation de délai sur le fondement d’une incapacité d’agir.
+[36] Il semble toutefois qu’aucune de ces affaires ne portait sur la disposition interdisant de faire droit à une demande de prorogation de délai après les délais d’un an et de 90 jours prévus par la Loi. Il semble qu’il s’agissait dans tous les cas de demandes présentées après l’expiration du délai de prescription de 90 jours, mais avant l’expiration du délai supplémentaire d’un an permettant d’accorder une prorogation[16].
+[37] Par ailleurs, l’intimée répond à l’argument tiré de l’incapacité en invoquant une jurisprudence constante suivant laquelle le délai commence à courir à la date de la mise à la poste. Si la réception n’est pas pertinente, la capacité d’agir ne l’est pas non plus. La Loi établit une règle qui empêche les oppositions et les appels d’engorger indéfiniment le système indépendamment de leur bien-fondé. Si je suis empêché d’agir parce que le service postal ne me livre pas la cotisation qui m’est destinée, mon incapacité d’agir n’est pas moins excusable si je suis incapable d’agir parce que je suis mentalement incapable de répondre et ce, même si j’avais reçu la cotisation en question.
+[38] Compte tenu des précédents qu’elle cite, il m’est difficile de m’opposer à ce qu’avance l’intimée. Elle invoque, par exemple, le jugement Chu c. Canada[17] dans lequel j’ai écrit ce qui suit :
+18 Cependant, avec égards pour l’opinion contraire, la disposition applicable en l’espèce est absolument claire et non équivoque. Elle ne permet nullement de penser que la réception d’un avis de cotisation est pertinente. Par exemple, on a conclu dans les arrêts que la preuve du fait qu’une omission du service postal était à l’origine de la non‑réception n’a aucune incidence sur la date à laquelle le délai fixé commence à courir. Cette conclusion a été confirmée par la Cour d’appel fédérale en 2000 dans l’arrêt Schafer c. Canada. Pour l’essentiel, les décisions de ce genre font obstacle à l’application de la doctrine de la possibilité de découverte. J’estime donc avoir les mains liées[18].
+[39] L’avocate de l’intimée semble assez solide dans ses prétentions lorsqu’elle soutient essentiellement que, si la réception n’est pas pertinente, l’état d’esprit de destinataire visé ne saurait faire de différence. Si la loi rend la réception non pertinente, la compréhension de la teneur de la cotisation ou la capacité d’y répondre ne sont pas pertinentes non plus et notre Cour n’a pas compétence pour récrire la loi.
+[40] Bien que je convienne que la loi et la jurisprudence militent toutes les deux en faveur de l’opinion que la disposition prévoyant un délai de 90 jours et d’un an constitue un délai de prescription absolu, il y a un aspect de la présente affaire qui soulève effectivement une nouvelle question. Il y a effectivement lieu de s’interroger en l’espèce au sujet de la fiabilité des renseignements contenus dans une déclaration produite par ou pour un adulte atteint d’une maladie mentale qui n’a ni tuteur ni représentant légal. L’alinéa 150(1)d) de la Loi exige qu’un tuteur ou un représentant légal produise la déclaration du contribuable qui n’est pas en mesure de le faire. Si la personne mentalement incapable n’a pas de tuteur ou de représentant légal, mais qu’une déclaration est produite en son nom, on peut soutenir qu’aucune déclaration n’a été produite en son nom et qu’aucune cotisation n’a été établie à son égard. Comment une personne mentalement incapable peut-elle autoriser effectivement une autre personne à produire une déclaration, fournir des renseignements au sujet de ses revenus et donner une adresse postale? Ces mesures ne peuvent vraisemblablement être prises que par l’intermédiaire d’un représentant légal ou d’un tuteur. Or, on ne trouve pas de telles personnes en l’espèce[19].
+[41] Je constate que, dans le cas qui nous occupe, il n’y a pas non plus de disposition législative prévoyant qu’un tuteur ou un représentant légal peut aviser le ministre d’un changement d’adresse, déposer un avis d’opposition ou interjeter appel ou encore présenter une demande dans le délai prescrit. Il semble improbable que cette omission de prévoir l’intervention d’un représentant dans d’autres situations que celle de la production d’une déclaration de revenus permette de penser qu’un incapable mental serait de ce fait considéré comme ayant la capacité juridique nécessaire pour l’application de la Loi dans ces autres situations. Il ressort de la preuve médicale que j’ai citée que le requérant n’était pas en mesure de comprendre les conditions assortissant la production de ses déclarations de revenus. Si tel était le cas, s’il n’avait pas la capacité de produire des déclarations de revenus au cours de la période en question, il n’avait pas non plus la capacité de fournir les renseignements nécessaires ou de donner les autorisations requises sans l’aide d’un représentant légal ou d’un tuteur.
+[42] En revanche, cet argument pourrait fort bien heurter de front l’opinion contraire si le délai de prescription est interprété comme une condition absolue ou maximale. Ce qui nous amène à un tout autre domaine du droit au sujet duquel on peut longuement pérorer au sujet de l’incidence des textes établissant des délais de prescription sur les personnes frappées d’incapacité mentale[20]. Il semble que la règle des 90 jours et de l’année prévue par la Loi doive être considérée et être appliquée comme un délai de prescription maximum absolu. Il n’y a rien dans la jurisprudence qui a été portée à mon attention qui permette de penser le contraire.
+[43] La question reste ouverte. Je relève toutefois qu’en l’espèce, s’il était nécessaire de trancher la demande en fonction de la capacité, on pourrait se demander avec raison si la lettre du médecin était suffisante. De plus, le fait que les membres de la famille du requérant et les divers professionnels qui se sont occupés de lui, y compris son médecin, ne sont pas intervenus, laisse croire qu’il n’était pas nécessaire de nommer un tuteur. En tout état de cause, comme je l’ai dit, la question demeure ouverte car la demande est accueillie pour d’autres motifs. Compte tenu de mes réserves en ce qui concerne la mise à la poste et de la décision 236130 British Columbia Ltd., que je considère comme exposant l’état actuel du droit, je conclus qu’il y a lieu de faire droit à la demande. Lors de la reprise de l’examen de l’affaire, il faudrait envisager la possibilité de suivre la procédure générale, auquel cas les dépens afférents à la présente demande pourraient suivre le sort de la cause ou être adjugés différemment selon ce que décide la Cour.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2010.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Édith Malo, LL.L.
+RÉFÉRENCE : 2010 CCI 621
+No DU DOSSIER DE LA COUR :
+2010-77 (IT)APP
+INTITULÉ :
+ANTHONY GYIMAH
+c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 août 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 3 décembre 2010
+COMPARUTIONS :
+Avocat du requérant :
+Me V. William Andreou
+Avocate de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : Me V. William Andreou
+avocat
+Cabinet :
+Park Place Corporate Centre
+15, Wertheim Court, bureau 411
+Richmond Hill (Ontario) L4B 3H7
+Pour l’intimée :
+Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] La preuve médicale présentée consistait en une lettre d’avril 2008 dans laquelle un psychiatre confirmait que le requérant était atteint d’un trouble bipolaire psychotique grave et qu’il n’était « jusqu’à maintenant » pas en mesure de comprendre et de produire une déclaration de revenus. Le même médecin a également signé en 2001 un certificat d’invalidité attestant que le requérant ne jouissait pas des fonctions mentales nécessaires pour la vie courante et précisant qu’il suivait une psychothérapie. Cette preuve n’a pas permis à l’intimée de contre-interroger le médecin en question, mais aucune objection n’a été formulée et, compte tenu des circonstances entourant la présente demande régie par la procédure informelle, il y avait lieu, à mon avis, d’admettre en preuve le document présenté, ce qui ne m’empêcherait pas d’hésiter à accepter cette preuve sans réserve si elle devait sceller le sort de la demande dont je suis saisi. Ce n’est pas parce qu’on admet un document en preuve qu’on se prononce nécessairement sur sa valeur.
+[2] La Cour ne dispose d’aucun élément de preuve au sujet de l’âge du fils du requérant ou sur la question de savoir s’il était légalement apte à agir comme représentant du requérant. Il n’a pas comparu à l’audience.
+[3] Le requérant a effectivement expliqué qu’il avait brièvement vécu au 1, avenue Victoria Ouest, après avoir vendu sa résidence du numéro 7 en 2008.
+[4] L’adresse du locataire indiquée sur la Demande formelle de paiement soumise par le requérant était le 7, avenue Victoria Ouest. L’adresse de M. Gyimah, en tant que débiteur fiscal, qui était indiquée était la même. Aucune raison n’a été avancée à l’audience pour expliquer cette apparente contradiction.
+[5] On ne sait pas avec certitude quelles déclarations n’avaient pas été produites à ce moment-là, c’est-à-dire à l’été 2005, bien qu’il semble probable que la seule déclaration qui avait été produite relativement aux années comprises entre 1997 et 2004 était la déclaration de 1999. Pour les années postérieures à 1999, il se peut qu’aucune déclaration n’avait à être produite, vu le témoignage du requérant qu’il n’a pas travaillé depuis, sauf quelques mois en 2000. Aucune déclaration n’avait vraisemblablement été exigée. On lui a pourtant dit qu’il ne pourrait obtenir de renseignements au sujet de sa dette tant que ses déclarations de revenus ne seraient pas à jour.
+[6] Chose inusitée, la copie papier de l’Option C de 1999 comporte une troisième page. Il y est clairement déclaré qu’il s’agit d’une copie papier de l’Option C pour l’année d’imposition 1999, mais que les seuls renseignements qu’on y trouve concernent l’année 1997. Les montants antérieurs de revenus et de revenus imposables qui y sont indiqués au sujet de 1997 sont de « 0,00 », ce qui correspond à une modification de « +70 383 $ ». Il s’agit du même montant que celui qui est indiqué sur la copie papier de l’Option C de 1997 sous la rubrique [traduction] « LA PRÉSENTE COTISATION A ÉTÉ MODIFIÉE À LA SUITE D’UNE NOUVELLE COTISATION PORTANT SUR PLUSIEURS ANNÉES ». On peut en conclure que la « modification » qui aurait été faite en 2005 lorsque les revenus de 1997 ont fait l’objet d’une cotisation ou d’une nouvelle cotisation, s’est traduite par l’ajout de revenus pour l’année 1997 sans réduction correspondante au revenu imposé de 1999. En ce qui concerne l’hypothèse du requérant suivant laquelle le montant imposé en 1999 devait tenir compte de ses revenus de 1997, il aurait fallu réduire les revenus de 1999 d’un montant équivalant à celui ajouté à ses revenus de 1997.
+[7] Il a expliqué qu’il exploitait une entreprise sous la raison sociale de « Duffern Used Appliance » et qu’il avait un associé. Il semble laisser entendre que les revenus de l’entreprise ont peut-être été regroupés avec ses propres revenus.
+[8] Pourtant, à la suite d’une autre saisie-arrêt ou Demande formelle de paiement signifiée à l’avocat du requérant après le règlement d’une poursuite au civil en 2008, la totalité des dommages-intérêts qui avaient été adjugés au requérant ont servi à payer les honoraires d’avocats et la créance fiscale de l’ARC. Ce montant n’a d’ailleurs pas suffi à régler en totalité la dette fiscale. Le requérant a expliqué qu’il avait dû vendre sa résidence du 7, avenue Victoria pour acquitter le solde.
+[9] Bien qu’il ait employé l’expression « déclarations modifiées » en incluant l’année 1997, je ne crois pas qu’il voulait nécessairement laisser entendre qu’il avait eu connaissance d’une telle déclaration. J’estime en fait, vu l’ensemble de la preuve présentée, qu’il n’a jamais eu accès à quelque déclaration antérieure que ce soit. Les revenus bruts rajustés qu’il propose ne reposent sur aucun fondement. D’ailleurs, suivant la preuve, pour 1999, un feuillet T4A aurait été établi par une entreprise de services qui avait effectué en sous-traitance des services de réparation mécanique pour le requérant pour environ 18 000 $.
+[10] La copie papier de l’Option E indique que l’adresse a été remplacée en 2009 par celle du 1, avenue Victoria Ouest. Le requérant a admis être déménagé à cette adresse à cette époque après avoir vendu la résidence du 7, avenue Victoria Ouest.
+[11] [2007] DTC 5021.
+[12] Au paragraphe 20.
+[13] 71 DTC 5119. (C. de l’É.). Cette affaire remonte à l’époque qui a précédé l’entrée en vigueur de la Loi de 1972. Les dispositions relatives à la prorogation de délai étaient toutefois très semblables à celles de la Loi actuelle. La Cour a accordé la prorogation du délai imparti pour faire appel en raison d’une maladie incapacitante dont le contribuable avait souffert à l’époque où l’appel aurait dû être interjeté et parce qu’il semblait y avoir des motifs raisonnables d’interjeter appel.
+[14] [1981] C.T.C. 3070 (CRI). Dans cette affaire, le tribunal a fait droit à la demande de prorogation du délai imparti pour déposer un avis d’opposition au motif que le requérant et son mandataire avaient tous les deux souffert d’une maladie grave invalidante au cours des années visées par la cotisation. La Cour a également souligné que la mention du délai de prescription de 90 jours fixé pour déposer un avis d’opposition devait se trouver au recto de l’avis de cotisation plutôt qu’au verso, comme c’est maintenant le cas.
+[15] [1985] 2 C.T.C. 130 (CAF). La Cour d’appel fédérale a confirmé le jugement par lequel la Cour canadienne de l’impôt avait accordé une prorogation de délai compte tenu de l’état physique et mental de l’intimé à l’époque en cause. La Cour s’est expressément abstenue de formuler des commentaires au sujet des motifs du juge de la Cour de l’impôt, qui étaient différents de ceux invoqués par l’intimé.
+[16] Les affaires Meunier et Lesage portaient sur une demande présentée avant l’expiration du délai de prescription prévu par la loi. Dans l’affaire Tohms, la Cour d’appel fédérale ne donne aucun détail sur la tardivité de la demande. Le jugement de première instance n’a pas été publié.
+[17] 2009 CCI 444, [2010] 2 C.T.C. 2326 (C.C.I.).
+[18] Schafer c. Canada, 2000 DTC 6542 (CAF), [2000] A.C.F. no 1480. Cette conclusion a été approuvée par la Cour d’appel fédérale dans l’arrêt Carlson c. R., 2002 CAF 145, au paragraphe 13 et reprise par la juge Woods dans le jugement Nagle c. R., 2005 CCI 462, dans lequel, aux paragraphes 11 et 12, elle examine l’arrêt Peixeiro c. Haberman, (1997) 151 D.L.R. (4th) 429 (C.S.C.) qui confirme l’avis que, même si la règle du moment où le préjudice aurait pu être découvert est nécessaire dans le contexte d’un délai de prescription pour éviter de déclarer irrecevable une action avant que l’intéressé soit en mesure d’exercer ce droit, la règle ne s’applique pas lorsque le délai court à compter d’un fait survenu manifestement à l’insu de l’intéressé.
+[19] En règle générale, le tuteur sera la personne autorisée par la loi ou par le tribunal à agir pour le compte d’une autre. Bien qu’à l’article 248, la Loi définisse l’expression « représentant légal » en des termes un peu plus larges, en ce sens qu’elle dresse une longue liste de personnes qui remplissent les conditions requises pour être considérées comme des représentants légaux, et qu’elle englobe même « toute autre personne semblable », la liste semble viser des personnes qui sont investies d’une certaine autorisation reconnue d’agir à titre fiduciaire. Dans d’autres contextes, c’est certainement le cas : voir les arrêts Jesuit Fathers of Upper Canada c. Cie d’assurance Guardian du Canada, 2006 CarswellOnt 3265 (C.S.C.) et Somersall c. Friedman, 2002 Carswell Ont 2550 (C.S.C.).
+[20] On discerne dans la jurisprudence une tendance des tribunaux à ne pas imposer de délais de prescription légaux dans le cas des incapables. Par souci de prévisibilité, de certitude et de stabilité, on a élaboré le concept du délai de prescription maximum. Ainsi, en Colombie-Britannique, le délai de prescription maximal prévu par la Limitation Act est de 30 ans. Une proposition visant à ramener ce délai à 10 ans n’a jamais eu de suite. Par contraste, en Ontario, la Loi de 2002 sur la prescription des actions, L.O. chapitre 24, annexe B, qui est entrée en vigueur le 1er janvier 2004, a modifié en profondeur les règles de droit régissant les délais de prescription sans imposer de délai de prescription maximum. Dans le cas des mineurs et des personnes présumées incapables, le délai de prescription de base de deux ans ne commence à courir qu’après la désignation d’un tuteur à l’instance. En ce qui concerne les personnes frappées d’une incapacité légale, le paragraphe 7(2) prévoit qu’à moins de preuve du contraire, une personne est présumée avoir été en tout temps capable d’introduire une instance relative à une réclamation.

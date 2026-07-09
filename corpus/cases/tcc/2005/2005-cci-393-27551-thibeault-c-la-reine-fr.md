@@ -1,0 +1,246 @@
+---
+title: "Thibeault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27551/index.do"
+last_modified: "2005-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 393"
+citation2: ""
+neutral_citation: "2005 CCI 393"
+decision_date: "2005-06-30"
+language: "fr"
+item_id: "27551"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 113
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:46:50.617000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ffb69dc8111fdb296a3571ea8eddd6d523aab35cb4ff000a8cb7534bde489b9d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Thibeault c. La Reine
+
+- Citation: 2005 CCI 393
+- Decision date: 2005-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 113, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thibeault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-30
+Référence neutre
+2005 CCI 393
+Numéro de dossier
+2003-1473(GST)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1473(GST)I
+ENTRE :
+SYLVIO THIBEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 12 janvier 2004 et le 30 mai 2005, à Québec (Québec).
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelant :
+Me Robert Cardinal
+Avocat de l'intimée :
+Me Philippe Morin
+____________________________________________________________________
+JUGEMENT
+L'appel d'une cotisation établie en vertu de la Partie IX de la Loi sur la taxe d'accise, partie IX, à l'encontre de la cotisation établie le 31 août 2000 et portant le numéro PQ-2000-5279 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de juin 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI393
+Date : 20050630
+Dossier : 2003-1473(GST)I
+ENTRE :
+SYLVIO THIBEAULT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de l'article 323 de la Loi sur la taxe d'accise, partie IX (la « Loi » ), à l'encontre de l'appelant, à titre d'administrateur, pour un montant de 15 730,15 $ représentant la taxe sur les produits et services (la « TPS » ) perçue et non remise par la société Recherches et travaux maritimes R.T.M. inc. (la « société » ou « R.T.M. » ) pour la période du 1er mai au 31 juillet 1998. Ce montant comprend les intérêts et les pénalités jusqu'à la date de la cotisation, soit jusqu'au 31 août 2000.
+[2] En établissant la cotisation à l'égard de l'appelant, le ministre du Revenu national (le « ministre » ) s'est fondé sur les conclusions et les hypothèses de faits énoncées aux alinéas a) à j) du paragraphe 10 de la Réponse amendée [sic] à l'avis d'appel. Ces alinéas se lisent ainsi[1] :
+a) Au cours de l'année 1998, l'appelant était le seul administrateur de la société Recherches et travaux maritimes R.T.M. inc. (ci-après appelée « la société » ).
+b) Au cours de l'année 1998, la société était un inscrit aux fins de l'application de la TPS.
+c) (...) Suite à la production de la déclaration de taxes pour la période du 1er mai 1998 au 31 juillet 1998 par la société Recherches et travaux maritimes R.T.M. inc., il fut constaté que cette dernière avait perçu la TPS pour un montant de 12 646,51 $ sans les remettre à l'intimée pendant cette période (...).
+i) Le 22 mars 1999, un avis de cotisation portant le numéro 863931 a alors été émis contre la société Recherches et travaux maritimes R.T.M. inc. pour un montant de 13 417,53 $ comprenant la taxe non remise de 12 646,51 $ pour la période du 1er mai 1998 au 31 juillet 1998 et des intérêts et pénalités.
+ii) Le 28 janvier 2000, à la suite d'une vérification de la société Recherches et travaux maritimes R.T.M. inc., des ajustements de 63 618,54 $ ont été ajoutés à la taxe nette pour la période du 1er septembre 1995 au 31 juillet 1998 et un avis de cotisation portant le numéro 9213956 a été émis contre la société Recherches et travaux maritimes R.T.M. inc.
+iii) À la suite d'une deuxième vérification de la société Recherches et travaux maritimes R.T.M. inc., un montant de 100 048,33 $ a été ajouté à la taxe nette et un avis de cotisation portant le numéro 203377 a été émis le 7 juillet 2000 contre cette dernière pour la période du 1er novembre 1995 au 31 juillet 1998.
+d) Le 7 juillet 2000, la société a fait cession de ses biens en vertu de la Loi sur la faillite et l'insolvabilité.
+e) Bien qu'il ait produit une preuve de réclamation le 31 août et 21 septembre 2000, soit dans les six mois de la date de la faillite de la société, la créance de l'intimée ne lui a jamais été entièrement payée.
+i) Le 31 août 2000, le ministre du Revenu national ( « le ministre » ) cotisa l'appelant en vertu de l'article 323 de la Loi sur la taxe d'accise pour un montant total de 15 730,15 $ représentant la T.P.S. perçue et non remise de 12 646,51 $ pour la période du 1er mai 1998 au 31 juillet 1998 plus des intérêts et pénalités tel que constaté par l'avis de cotisation portant le numéro PQ-2000-5279.
+ii) Également, le 28 septembre 2000, le ministre du Revenu national cotisa l'appelant en vertu de l'article 323 de la Loi sur la taxe d'accise pour un montant total de 146 833,87 $ représentant la T.P.S. établie par les deux vérifications plus des intérêts et pénalités pour la période du 1er novembre 1995 au 31 juillet 1998 tel que constaté par l'avis de cotisation portant le numéro PQ-2000-5326.
+iii) Suite à la production de pièces justificatives de la société Recherches et travaux maritimes R.T.M. inc., les avis de cotisation émis à la suite de deux vérifications contre la société portant les numéros 9213956 et 203377 ont été annulés respectivement le 5 janvier 2001 et 12 janvier 2001 par les avis de cotisation portant les numéros 203649 et 203671.
+iv) Le 16 janvier 2001, faisant suite à l'émission des deux avis de cotisation portant les numéros 203649 et 203671, le ministre émettait un avis de cotisation portant le numéro PQ-2001-5553 au nom de l'appelant annulant l'avis de cotisation du 28 septembre 2000 portant le numéro PQ-2000-5326 émis en vertu de l'article 323 de la Loi sur la taxe d'accise.
+v) En aucun moment, l'intimé [sic] n'a annulé l'avis de cotisation portant le numéro 863931 émis le 22 mars 1999 contre la société Recherches et travaux maritimes R.T.M. inc. puisque ce montant de TPS de 12 646,51 $ a été perçu par la société et non remis à l'intimé [sic] tel que constaté par la déclaration de taxes de la société du 28 août 1998 pour la période du 1er mai au 31 juillet 1998.
+vi) Également, l'intimé [sic] n'a jamais annulé l'avis de cotisation du 31 août 2000, émis contre l'appelant en vertu de l'article 323 de la Loi sur la taxe d'accise portant le numéro PQ-2000-5279 et qui fait l'objet du présent litige.
+f) L'appelant a agi à titre d'administrateur de la société aux périodes où celle-ci était tenue de verser la taxe nette à l'intimée.
+g) Malgré son remplacement au conseil d'administration de la société Recherches et travaux maritimes R.T.M. inc. par la compagnie 9043-1925 Québec inc. exploitant sous la raison sociale « Victor management » , l'appelant a toujours agi à titre d'administrateur de la société aux périodes où celle-ci était tenue de verser la taxe nette à l'intimée.
+h) L'appelant contrôle la compagnie 9043-1925 Québec inc. exploitant sous la raison sociale « Victor management » puisqu'il est le seul administrateur et actionnaire de cette dernière et ainsi, il a agi comme administrateur de la société Recherches et travaux maritimes R.T.M. inc. par personnes morales interposées.
+i) L'appelant, à titre d'administrateur de la société, n'a pas agi avec le degré de soin, de diligence et de compétence, pour prévenir le manquement qu'une personne raisonnablement prudente ne l'aurait fait dans des circonstances comparables.
+j) En particulier, l'appelant n'a pris aucune mesure concrète et positive pour prévenir les manquements de la société.
+[3] L'avocat de l'appelant soutient que la cotisation doit être annulée en invoquant plusieurs arguments. Je résume ses prétentions de la façon suivante :
+· La dette de R.T.M. est inexistante puisqu'elle a été annulée par des cotisations subséquentes.
+· Le ministre n'a pas produit de preuve de réclamation au syndic de faillite de R.T.M. dans les six mois suivant la cession, comme l'exige l'alinéa 323(2)c) de la Loi.
+· L'appelant n'était plus administrateur de R.T.M. au moment où celle-ci était tenue de verser le montant en litige.
+· Si l'on considère que l'appelant était toujours administrateur, il a fait preuve de diligence raisonnable au sens du paragraphe 323(3) de la Loi.
+[4] Puisque plusieurs cotisations sont en cause dans la présente affaire, voici, par souci de commodité, un tableau donnant les détails des diverses cotisations. Par la suite, je réfèrerai à chaque cotisation en utilisant la désignation indiquée dans la première colonne.
+Date de l'avis de cotisation
+Numéro de l'avis de cotisation
+Période visée
+Pièce déposée en preuve
+1re cotisation
+22 mars 1999
+863931
+du 1er mai 1998 au 31 juillet 1998
+Pièce I-6, onglet 5
+2e cotisation
+(annulée par la 6e cotisation)
+28 janvier 2000
+9213956
+du 1er septembre 1995 au 31 juillet 1998
+Pièce I-6, onglet 6
+3e cotisation
+(annulée par la 7e cotisation)
+7 juillet 2000
+203377
+du 1er novembre 1995 au 31 juillet 1998
+Pièce I-6, onglet 7
+4e cotisation
+31 août 2000
+PQ-2000-5279
+du 1er mai 1998 au 31 juillet 1998
+Pièce I-6, onglet 1
+5e cotisation
+(annulée par la 8e cotisation)
+28 septembre 2000
+PQ-2000-5326
+du 1er novembre 1995 au 31 juillet 1998
+Pièce I-6, onglet 9
+6e cotisation
+(annule la 2e cotisation)
+5 janvier 2001
+203649
+du 1er septembre 1995 au 31 juillet 1998
+Pièce I-6, onglet 10
+(1re page)
+7e cotisation
+(annule la 3e cotisation)
+12 janvier 2001
+203671
+du 1er novembre 1995 au 31 juillet 1998
+Pièce I-6, onglet 10
+(2e page)
+8e cotisation
+(annule la 5e cotisation)
+16 janvier 2001
+PQ-2001-5553
+du 1er novembre 1995 au 31 juillet 1998
+Pièce I-6, onglet 11
+[5] L'appelant a témoigné, ainsi que messieurs Bertrand Lemieux et Pierre Magnan, respectivement vérificateur et agent de recouvrement fiscal au ministère du Revenu du Québec.
+[6] R.T.M. a été constituée le 24 août 1995 en vertu de la Loi canadienne sur les sociétés par actions. L'appelant en était initialement l'actionnaire principal et l'unique administrateur. En 1996, la société 9043-1925 Québec inc., faisant affaire sous la raison sociale Victor Management ( « Victor Management » ), a été désignée administrateur, et l'appelant a cessé d'être administrateur en 1997 (pièces I-5 et I-6, onglet 13).
+[7] Dans son témoignage, l'appelant a affirmé qu'il se trouvait dans une situation de conflit d'intérêts puisqu'il était à la fois administrateur et créancier de R.T.M., et que c'est pour cette raison qu'il s'est retiré de son poste d'administrateur. Un avocat appelé Yvon Chouinard a été désigné administrateur et secrétaire de Victor Management.
+[8] Malgré son retrait comme administrateur et le fait qu'il s'est alors donné le titre de directeur général, l'appelant a admis que c'est toujours lui qui dirigeait et contrôlait R.T.M. en 1998, qui négociait avec les banques et qui signait les contrats et les autres documents pour la société (pièces I-8, I-10 et I-11).
+[9] L'appelant a toujours été la seule personne autorisée à signer les chèques de la société.
+[10] L'appelant a dit que R.T.M. était lourdement endettée et qu'il avait lui-même investi sous forme de capital-actions et qu'il avait avancé des fonds à la société. En 1997, R.T.M. éprouvait déjà certaines difficultés. En janvier ou février 1997, l'appelant s'est fait céder les créances de la société en vertu d'un acte de fiducie qui garantissait ses avances. En 1998, et plus particulièrement durant la période du 1er mai au 31 juillet, la situation de R.T.M. était critique. Selon l'appelant, la société manquait de liquidités, et elle était en manquement quant au remboursement des prêts qu'elle avait contractés, notamment auprès de la banque CIBC. L'appelant a affirmé qu'en 1998, il avait lui-même avancé des fonds pour payer des salaires. R.T.M. attendait également la conclusion d'un contrat pour la vente de huit navires en Côte d'Ivoire et l'obtention du financement et des garanties nécessaires à cette opération. Selon lui, R.T.M. avait besoin à ce moment de 1 000 000 $ supplémentaires pour redémarrer son entreprise, mais les banques ne semblaient pas intéressées à prêter davantage, vu la situation déjà très précaire de la société.
+[11] Selon l'appelant, R.T.M. a cessé ses activités en juin 1998. La société avait réclamé des crédits pour la recherche scientifique et le développement expérimental, tant au niveau provincial que fédéral relativement à de nouveaux produits maritimes. Les crédits avaient été obtenus du gouvernement du Québec. Au niveau fédéral, les autorités s'apprêtaient à réduire de 50 % les crédits réclamés à l'égard d'un projet important. Cependant, selon l'appelant, R.T.M. s'attendait toujours à recevoir un montant du gouvernement fédéral.
+[12] C'est dans ce contexte que la déclaration de TPS pour la période du 1er mai au 31 juillet 1998 a été produite par la comptable de la société le 27 août 1998 (pièce I-6, onglet 4).
+[13] La déclaration indique une TPS nette et une TPS à remettre de 12 646,51 $. Toutefois, aucun montant n'a été versé lors de la production de la déclaration. L'appelant a affirmé que la société, à ce moment, attendait toujours de recevoir des crédits fédéraux et qu'il essayait de faire en sorte que tout le monde puisse recevoir son dû.
+[14] Les crédits fédéraux ont été reçus à l'automne 1998. Le chèque a été déposé à la banque CIBC et le montant a été affecté au remboursement des prêts consentis par celle-ci en vertu d'une entente de garantie de prêts par la Société de développement industriel (SDI). Le contrat de vente de navires en Côte d'Ivoire n'a jamais été conclu et R.T.M. n'a pu redémarrer son entreprise. Selon l'appelant, le 22 mars 1999, soit au moment où la première cotisation a été établie, la société n'avait plus d'activités. Le premier avis de cotisation indique que la taxe nette est de 12 646,51 $, que les intérêts sont de 342,79 $ et que la pénalité est de 428,23 $. Selon l'appelant, il est possible que l'avis de cotisation ait été reçu par la société et qu'il ait été simplement renvoyé au ministère, comme l'auraient été d'autres documents reçus après la cessation des activités. Quant à la taxe due pour cette période, l'appelant a dit qu'il croyait qu'elle n'avait jamais été payée. L'appelant a affirmé que R.T.M., dans le passé, avait toujours produit ses déclarations et payé la TPS dans les délais prescrits. R.T.M. a finalement fait cession de ses biens le 7 juillet 2000. L'appelant a affirmé que la société lui devait à ce moment environ 200 000 $. Il aurait également perdu certaines valeurs mobilières déposées en garantie d'un cautionnement d'une marge de crédit de la société (pièce I-9).
+[15] Monsieur Bertrand Lemieux a témoigné au sujet de sa vérification de R.T.M. et des cotisations établies à l'encontre de la société.
+[16] Monsieur Lemieux s'est vu confier le dossier de R.T.M. pour vérification en avril 1999. Lors d'une première conversation téléphonique avec l'appelant en juin 1999, celui-ci lui aurait notamment fait part qu'il n'était plus administrateur de R.T.M. et qu'il n'avait plus de documents. Par ailleurs, lorsqu'il est entré en contact avec la comptable de la société, également en juin 1999, celle-ci lui aurait demandé de reporter sa vérification à l'automne, ce qu'il a accepté. À la suite d'une nouvelle conversation téléphonique avec l'appelant en novembre 1999, monsieur Lemieux s'est rendu à son bureau. Au cours de la rencontre, l'appelant lui a déclaré que la société avait de graves difficultés financières, qu'il était plus ou moins administrateur de la société et que tous les documents de la société demandés pour la vérification avaient disparu.
+[17] Comme R.T.M. avait bénéficié de remboursements substantiels à cause de crédits de taxe sur les intrants importants depuis le début de ses activités, monsieur Lemieux décida donc d'établir une cotisation à l'égard de R.T.M. pour le montant des remboursements obtenus, puisqu'aucune facture n'avait pu être produite pour justifier ces remboursements. Selon monsieur Lemieux, un projet de cotisation a alors été transmis à la société et il fut tout simplement renvoyé au ministère. Comme il n'y avait eu aucune discussion avec qui que ce soit, monsieur Lemieux a procédé à la deuxième cotisation. Les rajustements apportés sont de 63 618,54 $ au total, plus les intérêts et les pénalités. La pièce I-7, 3e page, et la pièce I-14 démontrent qu'il s'agit de la somme des remboursements obtenus par R.T.M. pour les périodes annuelles suivantes :
+1er novembre 1995 au 31 janvier 1996 : 13 649,98 $
+1er février 1996 au 31 janvier 1997 : 27 130,64 $
+1er février 1997 au 31 janvier 1998 : 22 837,92 $
+Total : 63 618,54 $
+[18] Dans son témoignage, monsieur Lemieux a expliqué que cette deuxième cotisation ne tenait pas compte du montant de 12 646,51 $ pour la taxe nette payable pour la période trimestrielle se terminant le 31 juillet 1998 et qui était toujours en souffrance, tel qu'il est indiqué à la 3e page de la pièce I-7. Selon lui, le montant avait été déclaré par R.T.M. et non payé, de sorte que la question relevait du service de la perception. Je signale que le deuxième avis de cotisation n'indique aucunement qu'il s'agit d'une cotisation supplémentaire plutôt qu'une nouvelle cotisation. Comme monsieur Lemieux n'avait obtenu aucun document de R.T.M. et qu'il n'avait eu aucune nouvelle de la société à la suite de l'envoi du deuxième avis de cotisation, il décida, après des discussions avec son supérieur et avec la direction du service de la perception, d'établir une troisième cotisation à l'égard de R.T.M. pour le montant total des crédits de taxe sur les intrants réclamés et non seulement pour ceux qui avaient mené aux remboursements de 63 618,54 $.
+[19] Une nouvelle cotisation a donc été établie. Le troisième avis de cotisation indique que des rajustements de 100 048,33 $ ont été apportés à la taxe nette déclarée à la suite de la vérification. On y indiqueque le montant dû est de 133 803,68 $, y compris les intérêts de 14 396,71 $ et les pénalités de 19 358,64 $. Lors de son témoignage, monsieur Lemieux a expliqué qu'il s'agissait de rajustements s'ajoutant à ceux déjà apportés par la deuxième cotisation. Ainsi, les rajustements totaux de 163 666,87 $ ont fait l'objet de deux cotisations distinctes, mais en excluant toutefois dans les deux cas le montant de 12 646,51 $ en souffrance pour la période se terminant le 31 juillet 1998 (pièce I-7, 3e page, et pièce I-14). Je signale encore ici que le troisième avis de cotisation n'indique aucunement qu'il s'agit d'une cotisation supplémentaire et non d'une nouvelle cotisation.
+[20] Monsieur Lemieux a admis que le troisième avis de cotisation n'avait pas été expédié par la poste à R.T.M., mais remis au service de la perception, puisque l'avis précédant avait été renvoyé au ministère. Toutefois, il a affirmé avoir appris, on ne sait trop quand, qu'un avis d'opposition avait été reçu le 17 avril 2000.
+[21] La pièce A-1 fait état des mêmes montants pour les intérêts et les pénalités que ceux indiqués au troisième avis de cotisation. Toutefois, on y retrouve deux dates, soit le 7 juillet 2000 et le 20 septembre 2000. Monsieur Lemieux a affirmé que les intérêts et les pénalités auraient bien été calculés jusqu'au 7 juillet 2000 seulement, et non jusqu'au 20 septembre 2000. Il a dit ignorer pourquoi le document indique le 20 septembre 2000. Il a réitéré que les deuxième et troisième cotisations ne portaient pas sur le montant de 12 646,41 $ en souffrance.
+[22] L'appelant lui-même a fait l'objet de la quatrième cotisation, au montant de 15 730,15 $.
+[23] Une nouvelle cotisation à l'encontre de l'appelant a été établie par la cinquième cotisation. Comme nous le verrons, l'une des prétentions de l'avocat de l'appelant est que cette cotisation comprend le montant de 133 803,68 $ réclamé à R.T.M. dans la troisième cotisation, qui aurait été établie le 7 juillet 2000, mais dont les intérêts et les pénalités auraient, selon lui, été calculés jusqu'au 20 septembre 2000. Selon l'avocat de l'appelant, cette cotisation comprend également le montant de 12 646,51 $ dû par R.T.M., ainsi qu'un montant supplémentaire pour huit jours d'intérêts au taux de 11,9674 %. Face à cette hypothèse soulevée par l'avocat de l'appelant, monsieur Lemieux a affirmé qu'il n'avait jamais été consulté concernant les cotisations établies à l'égard de l'appelant lui-même et qu'il ne pouvait expliquer les calculs à l'appui de la cinquième cotisation. Ce n'est que le 1er décembre 2000 que monsieur Lemieux aurait été contacté par le service des oppositions et qu'on lui aurait demandé de procéder à un complément de vérification, puisque le comptable externe de R.T.M., monsieur Alain St-Arnaud, avait informé le ministère qu'il avait repris possession de tous les documents et pièces justificatives de la société, lesquels avaient été, selon lui, gardés jusqu'à ce moment par les banques aux fins de vérification.
+[24] Monsieur Lemieux a affirmé avoir alors procédé à une nouvelle vérification au bureau du comptable St-Arnaud. Comme il a constaté que toutes les pièces justificatives à l'appui des crédits de taxe sur les intrants étaient acceptables, il a alors établi de nouvelles cotisations annulant les deux cotisations établies à la suite de sa première vérification. Ainsi, le sixième avis de cotisation a annulé le deuxième avis. Le montant dû est néant. Le septième avis de cotisation a annulé le troisième avis de cotisation. Le montant dû est néant.
+[25] Je signale dès maintenant que l'appelant a également fait l'objet d'une nouvelle cotisation. Le huitième avis de cotisation a ainsi annulé le cinquième avis de cotisation.
+[26] C'est monsieur Pierre Magnan, agent de recouvrement fiscal, qui a expliqué les cotisations établies à l'encontre de l'appelant à titre d'administrateur de R.T.M. à l'égard des taxes perçues et non remises par celle-ci.
+[27] La quatrième cotisation est pour le montant de 15 730,15 $, y compris les intérêts et les pénalités à la date de la cotisation. Toutefois, l'avis ne mentionne que le montant total de 15 730,15 $, décrit comme « taxe nette » . Le calcul apparaît à la pièce I-15. Le montant de la taxe non remise était de 12 646,51 $, comme le démontre d'ailleurs le formulaire de déclaration de R.T.M. du 27 août 1997 signé par la comptable de la société, madame Lyne St-Arnaud (pièce I-6, onglet 4). Ce montant aurait dû être remis au moment de la déclaration, mais ne l'a jamais été. Je rappelle que R.T.M. avait fait l'objet d'une cotisation pour ce montant par voie du premier avis de cotisation.
+[28] La cinquième cotisation, à l'encontre de l'appelant, indique un montant de 146 833,87 $, qui est ici encore décrit simplement comme « taxe nette » . Les explications fournies par monsieur Magnan sont que cette cotisation ne tient pas compte du montant de 12 646,51 $, soit le montant de taxe sur lequel repose la quatrième cotisation. À ce sujet, il s'est référé aux pièces I-7 et I-15. La pièce I-15 démontre que, pour la période se terminant le 31 juillet 1998, R.T.M. avait perçu de la TPS de 15 864,23 $, qu'elle avait droit à des crédits de taxe sur les intrants de 3 217,72 $, et que la taxe à remettre était de 12 646,51 $. Ces chiffres sont conformes à la déclaration de la société pour cette période (pièce I-6, onglet 4). La pièce I-7, 1re page, montre bien que pour la même période, la taxe perçue est de 15 864,23 $, mais que seul le montant de 3 217,72 $ au titre de crédit de taxe sur les intrants est pris en compte pour en arriver au total de 146 833,87 $, y compris les intérêts et les pénalités.
+[29] Selon monsieur Magnan, le tableau à la pièce I-7, 1re page, a été établi suivant le principe qu'un administrateur ne peut être tenu responsable que des taxes perçues et non remises, plus les intérêts et les pénalités. Selon lui, une seule méthode de calcul reflétant ce principe a été utilisée, contrairement à la suggestion de l'avocat de l'appelant selon laquelle deux méthodes différentes auraient été utilisées pour en arriver au total indiqué. Toutefois, il a fait remarquer qu'il fallait évidemment tenir compte des remises déjà effectuées par la société pour en arriver, à l'égard de chaque période, au montant des taxes perçues et non remises. Ma compréhension des explications fournies est que les calculs ont été établis en tenant pour acquis que la société n'avait droit à aucun crédit de taxe sur les intrants, puisqu'elle avait fait l'objet de cotisations pour ces montants par les deux cotisations établies à la suite de la première vérification de monsieur Lemieux, c'est-à-dire les deuxième et troisième cotisations. Au sujet de la troisième cotisation, monsieur Magnan a affirmé que la date du 20 septembre 2000 que l'on retrouve à la pièce A-1 n'est qu'une indication de la date d'entrée des données au système et que les intérêts et pénalités indiqués à l'avis de cotisation et à la pièce A-1 ont bien été calculés en date du 7 juillet 2000. Il n'a pu expliquer pourquoi les données auraient été inscrites si tardivement.
+[30] Par ailleurs, monsieur Magnan a expliqué le détail de la quatrième cotisation, à l'égard de l'appelant. Bien que l'avis indique que le montant de 15 730,15 $ est de la « taxe nette » , la pièce I-15 démontre que la taxe à remettre était de 12 646,61 $, les pénalités étaient de 1 555,41 $ et les intérêts étaient de 1 247,91 $ au 8 juillet 2000, soit le jour suivant celui de la faillite de R.T.M. Des pénalités additionnelles de 140,54 $ et des intérêts additionnels de 139,79 $ ont été ajoutés jusqu'au 31 août 2000, soit jusqu'à la date de la cotisation, pour un total de 15 730,15 $.
+[31] La cinquième cotisation, à l'égard de l'appelant, a été annulée par la huitième cotisation. Cette annulation a fait suite à l'annulation des deux cotisations établies à l'encontre de R.T.M. à la suite de la deuxième vérification de monsieur Lemieux, dont il a fait état lors de son témoignage.
+[32] Monsieur Magnan a également témoigné au sujet des preuves de réclamation que le ministère a fait parvenir au syndic en faillite de R.T.M., le cabinet Robitaille Delisle & Associés. Monsieur Magnan a affirmé que c'est un collègue de travail, monsieur Martin Savard, qui a fait parvenir au syndic deux preuves de réclamation, l'une en date du 31 août 2000 et l'autre en date du 21 septembre 2000 (pièce I-6, onglet 8). Pour la TPS, la preuve de réclamation du 31 août indique un montant de 139 193,74 $, et celle du 21 septembre indique un montant de 271 304,80 $. La pièce I-15 indique les calculs à l'appui des deux preuves de réclamation. Dans les deux cas, on peut constater, pour la période se terminant le 31 juillet 1998, que le montant de la taxe dont on a tenu compte lors des calculs, selon le rapport produit par la société, est de 15 864,23 $, moins les crédits de taxe sur les intrants de 3 217,72 $, soit un total de 12 646,51 $. Il s'agit précisément du montant de la taxe à l'appui des première et quatrième cotisations, dont les détails apparaissent à la pièce I-15.
+[33] L'avocat de l'appelant a fait remarquer à monsieur Magnan que les preuves de réclamation déposées en preuve (pièce I-6, onglet 8) étaient incomplètes en ce que la première page contenant la déclaration sous serment de monsieur Savard était manquante. Monsieur Magnan a alors affirmé que cette page contenant la déclaration sous serment de monsieur Savard et signée par lui avait bien été expédiée au syndic en faillite de R.T.M. aux dates indiquées, soit le 31 août 2000 et le 21 septembre 2000. Monsieur Magnan a alors déposé en preuve une copie de chacune des lettres de monsieur Savard expédiée au syndic avec les preuves de réclamation (pièce I-17). Malgré l'objection soulevée par l'avocat de l'appelant, j'ai décidé d'accepter ces lettres en preuve puisqu'elles appuient le témoignage de monsieur Magnan selon lequel les preuves de réclamation ont bel et bien été expédiées au syndic aux dates indiquées.
+[34] L'avocat de l'appelant conteste la quatrième cotisation, établie à l'égard de l'appelant. Le premier motif de contestation est que la dette réclamée est inexistante. D'une part, il soutient que le montant de la taxe pour la période se terminant le 31 juillet 1998 qui avait déjà fait l'objet de la première cotisation était inclus dans les deuxième et troisième cotisations, qui portent toutes deux sur la période se terminant à la même date. Or, ces deux cotisations ont par la suite été annulées par les sixième et septième cotisations.
+[35] D'autre part, il soutient que ce même montant de 12 646,51 $, qui avait fait l'objet d'une cotisation à l'égard de l'appelant le 31 août 2000 par voie de la quatrième cotisation, était aussi inclus dans la cinquième cotisation. Or, cette cinquième cotisation a été annulée par la huitième cotisation.
+[36] Ainsi, l'avocat de l'appelant prétend que la dette a été annulée tant à l'égard de R.T.M. qu'à l'égard de l'appelant.
+[37] Je suis en désaccord avec ces prétentions de l'avocat de l'appelant. Le témoignage de monsieur Lemieux et les documents auxquels il a fait référence (pièce I-7, 3e page, et pièce I-14) démontrent que les cotisations établies à la suite de sa première vérification étaient des cotisations supplémentaires. La deuxième cotisation visait essentiellement les remboursements obtenus alors que la troisième cotisation visait les crédits de taxe sur les intrants excédant les remboursements obtenus. Aucune de ces deux cotisations ne comprenait le montant de 12 646,51 $ dû par R.T.M. pour la période du 1er mai au 31 juillet 1998. Il est vrai que les avis de ces cotisations ne mentionnent pas qu'il s'agissait dans les deux cas de cotisations supplémentaires, ce qu'ils auraient dû indiquer. En tout état de cause, les cotisations ne sont pas contestées en raison du défaut d'indiquer les détails des calculs, et j'estime les explications fournies satisfaisantes à cet égard. Ainsi, aucune de ces cotisations supplémentaires ne comprenait la taxe de 12 646,51 $ due par R.T.M. et visée par la première cotisation. Ce ne sont que ces montants supplémentaires visés par les cotisations qui ont été annulés à la suite de la deuxième vérification de monsieur Lemieux, alors que le comptable de la société avait repris possession des livres, des documents et des pièces justificatives démontrant qu'elle avait droit à tous les crédits de taxe sur les intrants réclamés.
+[38] Ma conclusion est donc que le montant de 12 646,51 $ visé par la première cotisation n'a jamais été annulé.
+[39] Par ailleurs, monsieur Magnan a expliqué les cotisations établies à l'égard de l'appelant. Il ressort de son témoignage et des documents produits (pièce I-15 et pièce I-7, 1re page) que la cinquième cotisation ne comprenait pas le montant de 15 730,15 $, soit la taxe nette de 12 646,51 $ due par la société pour la période se terminant le 31 juillet 1998, plus les intérêts et les pénalités indiqués dans la quatrième cotisation (soit la première établie à l'égard de l'appelant). Monsieur Magnan a démontré que le montant de 146 833,87 $ ne correspondait pas au montant de 133 803,68 $ dû par R.T.M., tel qu'établi par la troisième cotisation, plus le montant de 12 646,51 $ et les intérêts additionnels pour une période de huit jours, soit du 20 au 28 septembre 2000, date de la cotisation, mais plutôt au total des taxes perçues et non remises par R.T.M., plus les intérêts et pénalités au 28 septembre 2000, et ce, à la suite des cotisations établies à l'égard de la société après la première vérification de monsieur Lemieux. Je rappelle que par ces deux cotisations, tous les crédits de taxe sur les intrants qui avaient été réclamés étaient ainsi éliminés en deux étapes. Par ailleurs, s'il fallait tenir compte de ce fait aux fins du calcul de la cotisation de 146 833,87 $, il fallait aussi tenir compte du seul montant des taxes perçues et non remises, donc soustraire le montant des taxes perçues et remises par R.T.M., ce qu'illustre la pièce I-7, 1re page.
+[40] De plus, cette même page indique bien que seulement 3 217,72 $ du montant total de 15 864,23 $ au titre des taxes perçues est pris en compte aux fins des calculs pour la période se terminant le 31 juillet 1998; la différence de 12 646,51 $, plus les intérêts et les pénalités, soit un total de 15 730,15 $, a fait l'objet de la quatrième cotisation.
+[41] Pour accepter la prétention de l'avocat de l'appelant, c'est le total de 15 730,15 $ qui aurait dû être ajouté au montant de 133 803,68 $ dû par R.T.M. selon la troisième cotisation. Les intérêts et des pénalités supplémentaires jusqu'au 28 septembre 2000 auraient également dû être ajoutés. Dans un tel cas, le montant de la cotisation n'aurait pas été de 146 833,87 $, mais plutôt de plus de 149 500 $, ce qui démontre que ce n'est pas de cette façon que le calcul a été fait. J'accepte donc les explications de monsieur Magnan que la cinquième cotisation ne comprenait pas le montant de 12 646,51 $ plus les intérêts et les pénalités, soit le montant total de 15 730,15 $ indiqué dans la quatrième cotisation.
+[42] La cinquième cotisation a été annulée par la huitième cotisation. Comme la cinquième cotisation ne comprenait pas le montant indiqué dans la quatrième cotisation et que cette cotisation n'a jamais été annulée, elle est donc toujours valide.
+[43] Le deuxième argument avancé par l'avocat de l'appelant est que le ministre n'a pas établi de preuve de sa réclamation dans les six mois suivant la cession de R.T.M., tel que requis par l'alinéa 323(2)c) de la Loi.
+[44] Même si ce n'est pas monsieur Magnan lui-même qui a fait parvenir les preuves de réclamation au syndic à la suite de la faillite de R.T.M., son témoignage et les documents soumis en preuve, soit les pièces I-6, onglet 8, I-16 et I-17 me convainquent, selon la prépondérance des probabilités, que des preuves de réclamation ont bel et bien été envoyées au syndic le 31 août et le 21 septembre 2000. Je suis aussi convaincu que ces preuves de réclamation comprennent le montant de 12 646,51 $ pour la taxe due pour la période du 1er mai au 31 juillet 1998, plus les intérêts et les pénalités.
+[45] Le troisième argument soumis par l'avocat de l'appelant est que ce dernier n'était plus administrateur de R.T.M. en 1998, puisqu'il avait démissionné de son poste en 1997 et qu'il avait été remplacé par la société Victor Management. L'appelant a expliqué cette démission en disant qu'à titre de créancier et d'administrateur, il était dans une situation de conflit d'intérêts. Je dois d'abord souligner que l'alinéa 105(1)c) de la Loi canadienne sur les sociétés par actions n'autorise pas la désignation d'une société comme administrateur d'une société régie par cette loi, ce qui était le cas de R.T.M. Ainsi, la désignation de Victor Management comme administrateur de R.T.M. n'avait, à mon avis, aucune valeur juridique.
+[46] Par ailleurs, et il s'agit là de l'aspect le plus important aux fins du présent litige, l'appelant a affirmé, lors de son témoignage, qu'à titre de directeur général, c'est lui qui accomplissait tous les actes de gestion, qui donnait les instructions, qui signait les contrats ou autres documents et qui contrôlait. L'appelant était également la seule personne autorisée à signer les chèques. Ainsi, malgré sa démission, on peut assez facilement conclure que l'appelant est demeuré administrateur de fait de R.T.M.
+[47] Dans l'affaire Canada c. Corsano, [1999] 3 C.F. 173, [1999] A.C.F. no 401, la Cour d'appel fédérale a décidé que l'article 227.1 de la Loi de l'impôt sur le revenu était applicable tant aux administrateurs de fait qu'aux administrateurs de droit. Au paragraphe 5 de la décision, le juge Létourneau s'exprime à cet égard dans les termes suivants :
+5. Le paragraphe 227.1(1) de la Loi rend responsables tous les administrateurs d'une corporation qui a omis de remettre les sommes dues à Revenu Canada. Dans ce paragraphe, le terme « administrateurs » n'est aucunement restreint ou précisé. Une des règles élémentaires de rédaction législative, dictée par une règle d'interprétation correspondante, prévoit que l'usage d'un terme générique sans restrictions ou précisions exprime la volonté du législateur de lui donner un sens large. Ici, en utilisant le terme « administrateurs » sans restrictions au paragraphe 227.1(1), le législateur a voulu qu'il recouvre tous les genre d'administrateurs reconnus en droit des sociétés, notamment les administrateurs de droit et de fait.
+[48] L'article 323 de la Loi est similaire à l'article 227.1 de la Loi de l'impôt sur le revenu et il doit, à mon avis, être interprété comme visant tant les administrateurs de fait que les administrateurs de droit.
+[49] Comme administrateur de fait, l'appelant a-t-il agi avec autant de soin, de diligence et de compétence pour prévenir le manquement que ne l'aurait fait une personne raisonnablement prudente dans les mêmes circonstances? Son avocat soutient que oui. Pourtant, aucune preuve n'a été apportée d'un geste quelconque en ce sens. R.T.M. était redevable d'une taxe nette de 12 646,51 $ qu'elle devait verser au plus tard le 31 août 1998. L'appelant a affirmé que R.T.M. avait des difficultés financières, qu'elle avait des problèmes de liquidités et qu'elle s'attendait à recevoir des crédits pour recherche scientifique et développement expérimental du gouvernement fédéral. Ces crédits auraient été reçus à l'automne 1998, et la banque CIBC a utilisé le montant reçu en remboursement de ses prêts. Par ailleurs, l'appelant a aussi affirmé que R.T.M. avait cessé ses activités en juin 1998, mais qu'elle attendait toujours la conclusion d'un contrat pour la vente de huit navires en Côte d'Ivoire. Toutefois, on ne sait à peu près rien de précis concernant la situation financière de R.T.M. en août 1998, ni ce que l'appelant a fait ou tenté de faire pour prévenir le manquement de verser la taxe perçue. Il s'est contenté d'affirmer qu'il essayait de faire en sorte que « tout le monde reçoive son dû » . Compte tenu de l'absence de preuve sur la nature de gestes précis et concrets posés par l'appelant pour prévenir le manquement, il n'est tout simplement pas possible de conclure qu'il a satisfait aux normes de soin, de diligence et de compétence énoncées au paragraphe 323(3) de la Loi.
+[50] En conséquence de ce qui précède, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de juin 2005.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE : 2005CCI393
+N º DU DOSSIER DE LA COUR : 2003-1473(GST)I
+INTITULÉ DE LA CAUSE : Sylvio Thibeault et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 12 janvier 2004 et le 30 mai 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 30 juin 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Robert Cardinal
+Avocat de l'intimée :
+Me Philippe Morin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Robert Cardinal
+Étude : Chouinard Cardinal
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+[1] Les parties soulignées indiquent les modifications apportées à la Réponse initiale.

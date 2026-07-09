@@ -1,0 +1,198 @@
+---
+title: "Obodoechina v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27386/index.do"
+last_modified: "2006-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 589"
+citation2: ""
+neutral_citation: "2006 TCC 589"
+decision_date: "2006-12-01"
+language: "en"
+item_id: "27386"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 157
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:31:22.253000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ae2342bc8fd4ac7cdd7836f8f59eb0db462addf0a34046f2a5d05bc0c041fa3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Obodoechina v. The Queen
+
+- Citation: 2006 TCC 589
+- Decision date: 2006-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 157, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Obodoechina v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-01
+Neutral citation
+2006 TCC 589
+File numbers
+2004-859(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-859(IT)G
+BETWEEN:
+FRANCIS OBODOECHINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 18, 2006 at Toronto, Ontario
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant :
+M. Joseal Igbinosun
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed with costs and the assessment of the Minister of National Revenue is confirmed.
+Signed at Toronto, Ontario, this 1st day of December 2006.
+"T. E. Margeson"
+Margeson J.
+Citation: 2006TCC589
+Date: 20061201
+Docket: 2004-859(IT)G
+BETWEEN:
+FRANCIS OBODOECHINA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.
+[1] This is an appeal from the assessment of the Minister of National Revenue ("the Minister") for the taxation year 2001, notice of which was dated March 3, 2003. By that reassessment the Minister assessed the Appellant for unreported income in the amount of $129,045.02. This income was allegedly deposited to the business account of the Appellant in that year. Further, the Minister disallowed claimed business expenses in the taxation year in question in the amount of $25,147.85 and imposed a penalty for the 2001 taxation year under the provisions of subsection 163(2) of the Income Tax Act ("Act").
+Evidence
+[2] In evidence the Appellant said that he was born in Nigeria in 1960 and came to Canadain or around 1989. He is married with four children. He received primary school education in Nigeriawhich he said was the equivalent of elementary school training in Canada. He received no further training except a short course in "on-line trading".
+[3] In the year 2000 he registered two businesses, Credit Swiss Investment, hereinafter referred to as ("Credit Swiss") and Iykmuch Investments Ent., hereinafter referred to as ("Iykmuch"). It was his position that Credit Swiss was intended to be in the business of sales and services and Iykmuch was set up for the purpose of trading in and the sale of stocks. Such purposes were set out in Exhibits A-1 and A-2 and they were referred to as sole proprietorships.
+[4] At that time he had no bookkeeper or accountant. The bank account for Credit Swiss was with the Canadian Imperial Bank of Commerce. There were deposits and withdrawals made from and into this account. Then he said that there were no withdrawals from this account.
+[5] He did not make any reconciliation of where the deposits came from. The money was returned to the people who put it there because he did not have any agreement with respect to his fee for what he was going to do for the depositors. Exhibit A-3 was a deposit slip for this account and showed deposits of $28,390 and $25,990. Both amounts were in US funds. Those were the only activities in this account.
+[6] With respect to Iykmuch, there was no activity in the year 2000 but there were deposits. He confirmed the three deposits in the year 2001 of $61,900 US; $7,750.53 US; $11,990 US. These amounts were set out in the Reply.
+[7] He said that people approached him and wanted to put money in his account because they would have to wait twenty-one (21) days to gain access to their own accounts after they were set up. He charged a fee for lending the use of his accounts.
+[8] Money was transferred into his accounts by wire. He did not consider this income to him. He did not report these amounts as income in his income tax return.
+[9] He obtained information from the depositors by way of driver's license number and passport information with respect to the deposit of $61,990 US. He referred to Exhibit A-4 which was a Wire Transfer Receive Form which had been composed by him. This document contained the name of the purported sender and the receiver. He was instructed to give them cash. He identified Exhibit A-5 as a bank draft made payable to Domestic Auto Inc. in the amount of $10,500 dated November 20, 2001. This was on behalf of Mr. Idonie Edemakiote as shown in Exhibit A-4.
+[10] Exhibit A-6 was identified as a TD Bank draft in the amount of $25,000 drawn on the Toronto-Dominion Bank on November 20, 2001 and a corresponding Canada Trust Foreign Exchange draft made payable to Darlington Etim Akatso. He said that he bought the draft and gave it to the payee.
+[11] Exhibit A-7 was a Deposit Account History - Financial Inquiry for the Toronto-Dominion account from January 1, 2000 to June 30, 2002. This was a USaccount showing credits and debits to the account as set out therein.
+[12] Exhibit A-8 was a deposit account history in the name of Iykmuch and showed debits, credits and balances for the period of November 20, 2001 to December 19, 2001. He said that he used this account to reimburse himself for his fees.
+[13] Exhibit A-9 was a Wire Transfer Receive Form, purportedly composed by the Appellant, for the amount of $7,715.53 US containing the name of Akintolu Animsojo and purportedly sent by Patricia Wallace of Indianapolis, USA. This form also contained driver's license information as requested by the Appellant.
+[14] Exhibit A-10 was a Foreign Exchange Transaction Customer Receipt dated December 12, 2001 for the amount of $6,732 US made payable to Clemont and Associates, drawn on the US account, which shows the customer as Iykmuch Investments Ent. The Appellant said that he kept the balance of the funds in his account.
+[15] Exhibit A-11 was a Wire Transfer Receive Form containing the name of Akintolu Animsojo at the address of Wyndham, Estate London, showing the sender's name as Patricia Chum Wallace. This was for the USamount of $11,990. Again there was driver's license information on the bottom of the form. The Appellant paid this money out.
+[16] Exhibit A-12 was a Canada Trust Foreign Exchange Transaction Customer Receipt Form showing the sum of $8,700 US made payable to Yanke Stationary Supplies in US funds. The customer was shown as Iykmuch and the form was dated January 29, 2002. The Appellant said that he gave this draft to Patricia Wallace.
+[17] Subsequently he was arrested and charged with fraud in relation to his activities. He said that charges were dismissed after the Preliminary Hearing.
+[18] All of the receipts were kept in his work bag. After the criminal action was concluded the police gave it back to him two years later but over half of the documents were missing according to him.
+[19] He filed an income tax return for the year 2001 which was prepared by an accountant. He claimed $25,147.85 for expenses for his business. There were cash payments and receipts as well as payments by way of drafts. All of these were missing from his workbag.
+[20] In his income tax return for the year 2001 he showed business activities of $11,569.50 which he said represented his fees. He also did general labour "here and there". In the Statement of Business Activities, attached to his income tax return, he claimed travel expenses of $6,200. His receipts were misplaced. He further claimed $8,160 for rent. He could not find the landlord to get a receipt for it and it was missing. Most of his car expenses were paid by cash. These amounted to $6,145. He had originally had 60% of the receipts but they were now misplaced. Also, the receipts for his meals were misplaced.
+[21] Exhibit A-13 was admitted by consent but only with respect to Tab 1 which was the T1 General Return for 2001. He had no other business in 2001. He never believed that he was breaking any law. He never believed that the amounts in question were income.
+[22] In cross-examination he said that Iykmuch was involved in sales and service of articles such as diapers, clothing, and toys. He was asked where those activities were shown on Exhibits A-7 and A-8 and he said that he had no record for the Canadian account. He did not ask his lawyer to get the history of the account. He had no sales or purchases in 2000 and 2001 through this business. He was referred to paragraph 15 of his Notice of Appeal which was a reference to the deposits into Iykmuch. He said that Exhibits A-7 and A-8 only cover part of the amounts that he paid out. Rent was paid in cash. The police seized his receipts and he never saw a list of the receipts that he had given to them. He did not have a whole history of the account. The shortfall may have occurred because of a transfer to his Canadian account and then a payment from that account out to someone else. He had no record of the Canadian account. His fee on these transactions regarding the use of his account was 2.55%. He reported this on his income tax return.
+[23] He identified his signature on his 2001 general tax return and said he did not know why the preparer did not sign the return. He gave the figure of $11,569.50 as sales and commissions to the tax preparer. This amount included some income that he received from labour work for moving. This occurred nine or ten times a year. He was paid about $90 per day. All documents were in his work bag.
+[24] With respect to the Credit Swiss account, the amounts were all sent back. He did not know where they came from. His commission rate was 1.1% or 1.2%, "but this is only an example." Sometimes he gave cash and obtained no receipt. Sometimes he met with people two or three times at 2157 Western Avenue. It was just a mailbox cash office.
+[25] For the address given for Credit Swiss at 103 Dundas Street East he said that he shared space with a travel agency. He did not have any records of this. These records were also taken by the police. His statements of business activities were accurate according to him. However, all documents were seized and they were not returned. He was questioned with respect to the expenses for advertising and he said that that claim was for interest. There was no further explanation.
+[26] At that point in time the parties agreed that the Appellant would not continue his claim for deduction of the disallowed expenses. The $11,569.50 that he claimed as income for that year was all the money that he had to support himself, his wife and family in Nigeria. Then he claimed that he paid $13,320 in rent in the year in question. Then he said he did not pay it himself. He shared the property with others.
+[27] In re-direct, he said that the two businesses were open in his name. Not all of the payments that were made came out of the USaccount. Exhibit A-5 was a Canadian account. This was the first time that he realized that he claimed all of the rent.
+Issues
+[28] The remaining issues in this appeal were clearly stated by both counsel:
+1. Was the Appellant's income as reported for the 2001 taxation year understated by the amounts set out in the Reply?
+2. Did the Minister properly assess penalties pursuant to subsection 163(2) of the Act for the taxation year at issue?
+Argument on behalf of the Appellant
+[29] In his argument, counsel for the Appellant simply stated that his amounts that were included as income by the Minister were amounts which were received by the Appellant in trust for others and the funds were disbursed at their instructions. He further stated that the total deposits as shown in the accounts almost equalled the total debits. There were bank drafts and debit slips for these amounts.
+[30] The Appellant was new to the country, he had only a grade six education and had no knowledge of bookkeeping. The accounts were open on his own and he did not hide it.
+[31] During the period of time that he was in business an opportunity came up and he used his account as he did. He dealt with the money consistently and the Court should accept his evidence that the money did not belong to him and that it was received and disbursed in accordance with the instructions received.
+[32] The appeal should be allowed with costs with respect to the alleged unreported income and the penalties should be quashed.
+Argument on Behalf of the Respondent
+[33] Counsel argued that part of this case is the commissions that were claimed as income. He asked the question,
+Why does the Appellant not know what his commissions were? Would you not want a safeguard to show that what you were doing was not part of a scheme? The onus is on the Appellant to establish on the balance of probabilities what the money was for and that it was not income.
+[34] What evidence is there that it was not income? There is not a sufficient paper trail to establish this; no witnesses were called to the stand to corroborate the Appellant's position. During the year in question the Appellant lived on $11,569.50 and supported a wife and children. How could he do this? With respect to the rent, he did not pay it and yet he claimed it as a deduction. He thought it was acceptable to claim the whole amount even though he gave that amount to his accountant. The Court must consider the provisions of sections 3, 9, and 163(2) of the Act.
+[35] Counsel asked the question, is there any clear reason why the Appellant did not safeguard himself by tracing the funds to a third party? Were there discrepancies in his evidence with respect to the commission amount? Further, he asked the question, what was the money used for?
+[36] So far as counsel for the Respondent was concerned the Appellant had not met the burden of establishing that the money was not income. He had not shown, on a balance of probabilities, that the amount was not income.
+[37] Counsel relied upon the case of Salvatore Nigro v. Her Majesty the Queen, 203 DTC 574 and argued that the factual situation was somewhat similar. Of particular significance to him was the judge's position that the onus is on the Appellant to establish on the balance of probabilities that the factual basis upon which the assessment of tax rests was in error.
+[38] In that case the taxpayer did not do so. Here, as in that case, the Appellant did not call credible evidence showing that all of the money which flowed through his account was paid to or belonged to some person other than himself. The onus was not discharged.
+[39] In Salvatore, supra, the judge did not accept the evidence of the Appellant or the witness called by the taxpayer. The evidence of the Appellant was weakened by a failure to call any of the supposed lenders to give evidence. The same argument applies to the present case.
+[40] With respect to penalties, the learned trial judge found that the penalties applied because the Appellant filed a return of income showing no income when the fact was that his income was considerable. The failure to declare such a significant amount could not be attributed to ordinary negligence, according to the trial judge. He found that the Appellant knowingly omitted that income from his return and that the penalty was warranted.
+[41] In rebuttal, counsel for the Appellant said that the Nigro case, supra, was completely different. In the case at bar there was evidence as to where the money went. The Court has to consider the state of mind of the Appellant at the time. He charged a fee for the use of his account but this was not his business. He said in Court that he charged 2.55% of the amount handled, as his commission.
+[42] In the case at bar the Appellant presented names of people who he dealt with. The Appellant did not know what more he could do. The appeal should be allowed with costs and the penalties quashed.
+Analysis and Decision
+[43] It is trite to say, as argued by counsel for the Respondent, that where the Minister, as here, determines that there were monies passing into the hands of a taxpayer, through his bank accounts, which were not declared in his income tax return, as income for the year in question, as business income or otherwise and, the Minister reassesses the Appellant for those unreported amounts, based upon a revision of those accounts, and presumes that those amounts were income to the Appellant, that the Appellant has the burden of establishing on a balance of probabilities that the Minister's assessment was incorrect. In order to do so he must demolish the presumptions contained in the Reply. That in effect calls for a satisfactory explanation as to where the funds came from and that the funds were not income to the Appellant.
+[44] To the detriment of the Appellant here, the Court must find that he has failed to do so. The Court is satisfied that the Appellant has failed to produce satisfactory records which would enable the Court to conclude as where the money came from, why the money was received by the Appellant, why the funds did not belong to the Appellant, where the money went and for what purposes the money was disbursed.
+[45] These questions are not answered by the Appellant coming to Court and merely saying that. It would seem a simple matter for the Appellant to have produced evidence to establish all of these facts. However, he has failed to do so. His explanation is that all of his records were lost or misplaced. Further, he argues that many of his records were taken by the police and were not returned to him.
+[46] In that regard he failed to produce any evidence from the police or otherwise as to what happened to his records. The Court would be hard pressed to conclude that the police would have taken his records and not have given him a list of the records they took so that when the time came for him to request his records back he would have been able to compare the list that he had with those records that they did return to him. No attempt was made to bring any police officer or other person to Court to corroborate his statement that the police did not return all of the records to him.
+[47] Even in the event that the police had misplaced some of his records, it was obvious that those records would not have enabled the Appellant to meet the burden on him in this case. In his own evidence, he stated that the only records that he had with respect to the deposit and expenditures were those documents which were produced into evidence. These documents were insufficient to establish that the funds that he received were for purposes other than his use and that when they were expended they were for purposes other than his own.
+[48] It does not suffice to produce a piece of paper with a name on it, a driver's license number, an amount of money and a date purportedly indicating when the funds were received. There was no other information on the paper to explain what the deposit was for and what the disbursement was for. The paper produced did not show that the expenditures were for purposes other than those of the Appellant. In this case, the records that were produced were insufficient and woefully inadequate for such purposes.
+[49] The records that were produced clearly show the amounts of money that went into the accounts and the amounts of money that were disbursed from them at certain periods of time. The Wire Transfer Receive Form which was introduced into evidence was a form which was constructed by the Appellant himself and his explanation was that it was to give him some form of protection. The Court finds it difficult to understand how these receipts would have resulted in any form of security to him.
+[50] The only way to have such security would have been to have documents setting out who the money was from, who the money was paid to, why the money was to be paid and the percentage of the funds which were to go to the Appellant as his commission. None of these documents satisfy any of those requirements.
+[51] Further, there were a number of inconsistencies in the evidence of the Appellant which raise into question his credibility.
+[52] In the Notice of Appeal, the Appellant said that in receiving the funds as he did he agreed to charge a modest handling fee ranging from 2.55% to 5% of the amount received. However, in evidence before the Court, and as argued by his counsel, he said that he charges 2.55% on all occasions. Counsel for the Appellant did not think that this was significant but it was seized upon the counsel for the Respondent and the Court finds that it is of some significance in light of the other evidence given.
+[53] The Appellant testified that he charged 2.55% commission on the amount of $129,045.02 and that he did not charge any commissions on the amounts of $44,580.82 and $40,879.67 which were deposited to the Swiss account because he could not reach agreement as to how much compensation he would be paid. He testified in evidence that his only other income was income that he received from acting as a labourer in the moving business. His evidence in that regard was that he received $90 per day and worked approximately nine to ten days. Therefore, he would have earned no more than $900.
+[54] The Court calculates that the income based upon his commissions would have amounted to $3,290.64 and his income from moving would have amounted to $900. Therefore, his total income for the year in question should have been approximately $4,190.64. However, in his income tax return, as filed, he reported business income of $11,569.50 and business expenses of $25,147.85. He clearly indicated that he had no other form of income so one has to wonder where these additional funds came from.
+[55] Further, as indicated above, in his income tax return for the year in question the Appellant claimed business expenses of $25,147.85. One has to wonder where the balance of these monies came from to pay these expenses.
+[56] These business expenses included amounts for advertising, interest, management, administration fees, motor-vehicle expenses, legal, accounting and other professional fees, rent, travel, telephone and utilities. He was unable to come up with any receipts with respect to these amounts and by his own admission, was claiming $8,160 for rent when he was living with other people and only paid a portion of that. He said in Court that he paid $13,320 in rent.
+[57] These statements are inconsistent with his own income tax return.
+[58] Counsel for the Appellant said in his argument that the total deposits in the account almost equalled the total debits. However, this does not offer any explanation to the Court as to the source and purpose of the funds or offer any explanation as to where the funds were distributed.
+[59] The Court does not accept the argument that the Appellant was new to the country, had a low education level and had no knowledge of bookkeeping as an excuse for not keeping records of his business and his income. He was astute enough to retain the services of a bookkeeper or accountant, to file income tax returns and to claim a substantial business loss, which of course would have been of substantial benefit to him. He was astute enough to open two bank accounts for his business, to be competent enough to intend to enter into the business of buying and selling of goods, allegedly to negotiate appropriate interest rates with prospective clients for the use of his bank accounts and to draft a Wire Transfer Receive Form. He obtained and transferred substantial amounts of funds for various purposes. Further, he took a course in "on-line trading" and established the Swiss account which he stated was for the purpose of trading and selling stocks. All of these activities are not indicative of a person who did not know what he was doing.
+[60] One of the substantial problems that the Appellant has, in convincing the Court that his evidence should be accepted, is the fact that he failed to present any of the principal parties involved in these transactions to testify before the Court. These persons could have established that the funds in question were not his funds nor were they placed into his account for his use. They could have traced the source and purpose of these funds and the reason for their disbursement. It is trite to say that where a taxpayer fails to present in evidence those witnesses that could really be expected to shed light upon his version of his facts and to support his case, that an unfavourable inference can be drawn against him.
+[61] Any of the persons who forwarded money to the accounts or dealt with the Appellant might have been able to offer some corroboration of the Appellant's testimony but they were not presented, they were not cross-examined and there was no explanation given as to why they were not presented. Under the circumstances, the Court will draw an unfavourable inference against the Appellant's testimony.
+[62] As counsel for the Respondent interjected, there is no clear reason why the Appellant did not safeguard himself by leaving a paper trail to allow the funds to be traced to third parties as indicated above. There was no clear indication as to what the money was used for even where there was some paper trail as to where some of the funds were disbursed.
+[63] The Appellant has not met the onus upon him of establishing that the funds in question were not income in his hands in accordance with the Act.
+[64] Counsel for the Appellant suggested that the case in Nigro v. Canada, supra, that was relied upon by the Respondent is completely different from the case at bar. However, the Court is satisfied that although this case is not on all fours with the case at bar it certainly is of considerable use to the Court. The reasoning and decision of Bonner, T.C.C.J, as he then was, are accepted by the Court.
+[65] In that regard, I refer to paragraph 11 of the decision where the learned judge said as follows:
+The persons who loaned money to Muto did not receive promissory notes. None of the persons who were said to have made loans was called to give evidence.
+[66] In that case the Appellant offered two explanations, which were obviously not accepted by the trial judge. However, in the case at bar no such explanation was offered.
+[67] Again in regards to the calling of expected evidence, paragraph 15 of the decision of the learned judge states as follows:
+The onus is on the appellant to establish on the balance of probabilities that the factual basis upon which an assessment of the tax rests is in error. That burden might have been met in this case by calling credible evidence showing that all the money which flowed through the appellant's accounts was paid to or belonged to some person other than the appellant. The onus was not discharged. I do not accept the evidence of the appellant or of Muto. The story told by them was highly improbable and was not supported by any coherent written record. I formed the impression that the two sought to conceal the essence of the transactions which required the use by Muto of bank accounts held by the appellant. The appellant's story is weakened by the failure to call any of the supposed lenders to give evidence.
+[68] These comments certainly apply to the present case.
+[69] With respect to the matters of penalties, this was addressed by the learned trial judge at paragraph 17 of his decision where he said:
+By virtue of s.163(3) of the Act, the burden of establishing facts justifying the assessment of the penalty is on the Minister. Here the appellant filed a return of income showing no income when in fact his income was $150,349. The failure to declare such a significant amount can hardly be attributed to ordinary negligence. In my view the appellant knowingly omitted that income from his return. The penalty is therefore warranted.
+[70] In the case at bar, the amount again was substantial and there was no explanation as to why that significant amount of income would not have been reported. Again it cannot be attributed merely to ordinary negligence. In the Courts view the Appellant knowingly omitted that income from his return. The penalties are therefore warranted.
+[71] In the end result, the Court will dismiss the appeal with costs and confirm the Minister's assessment including the penalties.
+Signed at Toronto, Ontario, this 1st day of December 2006.
+"T. E. Margeson"
+Margeson J.
+CITATION: 2006TCC589
+COURT FILE NO.: 2004-859(IT)G
+STYLE OF CAUSE: FRANCIS OBODOECHINA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 18, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: December 1, 2006
+APPEARANCES:
+Counsel for the Appellant :
+M. Joseal Igbinosun
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name: M. Joseal Igbinosun
+Barrister & Solicitor
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

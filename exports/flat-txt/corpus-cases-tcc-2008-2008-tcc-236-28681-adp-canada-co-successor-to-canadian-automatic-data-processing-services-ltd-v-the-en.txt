@@ -1,0 +1,252 @@
+Title: ADP Canada Co. (Successor to Canadian Automatic Data Processing Services Ltd.) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28681/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-236-28681-adp-canada-co-successor-to-canadian-automatic-data-processing-services-ltd-v-the-en.md
+Document type: case_law
+Last modified: 2008-05-15
+
+# ADP Canada Co. (Successor to Canadian Automatic Data Processing Services Ltd.) v. The Queen
+
+- Citation: 2008 TCC 236
+- Decision date: 2008-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1471, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ADP Canada Co. (Successor to Canadian Automatic Data Processing Services Ltd.) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-15
+Neutral citation
+2008 TCC 236
+File numbers
+2006-1817(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1817(IT)G
+BETWEEN:
+ADP CANADA CO. (SUCCESSOR TO
+CANADIAN AUTOMATIC DATA PROCESSING SERVICES LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 12, 2008, at Montreal, Quebec.
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Louis Tassé
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act (Act) for the 1999 taxation year is dismissed.
+The appeal from the reassessment made under the Act for the 2001 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that ADP is entitled to deduct $397,929 in computing its income, all in accordance with the attached reasons for judgment. The respondent is entitled to 75% of her costs.
+Signed at Ottawa, Canada, this 15th day of May 2008.
+“Pierre Archambault”
+Archambault J.
+Citation: 2008TCC236
+Date: 20080515
+Docket: 2006-1817(IT)G
+BETWEEN:
+ADP CANADA CO. (SUCCESSOR TO CANADIAN
+AUTOMATIC DATA PROCESSING SERVICES LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Archambault J.
+[1] ADP Canada Co. (ADP) is appealing reassessments for the 1999 and 2001 taxation years. With respect to the latter year, the issues are whether the Minister of National Revenue (minister) was entitled to add to ADP's capital, for the purpose of calculating the tax on large corporations under Part I.3 of the Income Tax Act (Act), an amount of $1,104,129,044 ($1.1 billion) as advances, and whether he could disallow an amount of $397,929 paid as damages by ADP to its clients. With respect to the 1999 taxation year, the minister disallowed the carry‑back of a surtax credit of $140,759. The success of the appeal with respect to that taxation year depends entirely on the treatment of the $1.1 billion adjustment to ADP’s capital.
+Facts
+[2] The parties filed at the outset of the hearing an Amended Partial Agreed Statement of Facts, of which I reproduce here the most relevant portions:
+. . .
+6. The Appellant carries on a business under which it provides its clients with an integrated payroll and payroll taxes services for a fee (the “payroll‑processing fees”).
+7. The duties and obligations of the Appellant and its clients are setout [sic] in an agreement signed by each party.
+8. The Appellant pays, on behalf of its clients, to their employees, their salaries and pays, to the tax authorities, the withholding taxes relating to those salaries.
+9. The obligation to pay the salaries and to make the applicable withholding tax remittances to the tax authorities is an obligation of the clients of the Appellant, not the Appellant’s own legal obligation.
+10. The contractual obligation of the Appellant toward its clients is limited to the payroll services, including the payment of the salaries to its Clients’ employees and the payment of the applicable withholding tax remittances to the tax authorities made on behalf of its clients.
+11. The only remuneration paid to the Appellant by its clients is the payroll‑processing fees.
+12. For the taxation year ended June 30th, 2001, the Appellant earned payroll‑processing fees for a total amount of $130,520,848.
+13. In addition to processing its clients’ payroll data (i.e. calculating the amount of wages owed by its clients to their employees as well as the amount of withholding taxes its clients are obligated to remit to the relevant taxing authorities), the Appellant’s payroll and tax filing services also include the making of actual payments, on behalf of its clients, to its clients’ employees and to the tax authorities.
+14. Such payments are initiated or drawn from the Appellant’s bank accounts, not from its clients’ bank accounts.
+15. In the course of its payroll services business, the Appellant collects funds from its clients to pay their employees on their respective paydays and to pay, to the relevant tax authorities, the withholding taxes relating to those salaries.
+16. The Appellant’s clients are required to pay in advance to the Appellant, up to 48 hours prior to the initiation by the Appellant of any correlating payroll payments to its clients’ employees, all amounts associated with their payroll, including the relevant payroll‑processing fees, plus any withholding taxes that are to be remitted on their behalf to the respective tax authorities.
+17. Those amounts are held by the Appellant for a period of 3 to 45 days[1] before payment of the salaries and the appropriate withholding taxes to the tax authorities, depending on the remittance deadline provided for each client.
+18. Those amounts provide partial protection to the Appellant regarding potential funding breaches by clients in respect of subsequent payrolls.
+19. A portion of each payment made to the Appellant by its clients represents an amount to be paid to certain tax authorities that do [sic] not become due until some time after the pay date in question. However, for matters of simplicity, clients pay the Appellant all amounts applicable to a particular payroll at one time.
+20. The amounts of salaries, withholding taxes and payroll‑processing fees paid to the Appellant by its clients are kept in separate account of the Appellant until paid to the employees, paid to the tax authorities or earned by the Appellant, as the case may be.
+21. Those pre-funded amounts are referred to in this Amended Partial Agreed Statement of Facts as the “Funds Held for Clients” and the Appellant’s respective obligations toward its clients are referred to as the “Client Funds Obligations”.
+22. Whenever the Appellant receives an amount from its clients for the payment of its payroll and appropriate withholding taxes, the Client Funds Obligations account is credited by the amount received and the Funds Held for Clients account is debited by the same amount.
+23. Whenever the Appellant pays salaries and thereafter makes withholding tax remittances to tax authorities on behalf of its clients, the Client Funds Obligations account is debited by the amount paid by the Appellant and the Funds Held for Clients account is credited by the same amount.
+24. Whenever the payroll‑processing fees paid to the Appellant by its clients are earned by the Appellant, the Client Funds Obligations account and the Bank account are debited by the amount earned and the Funds Held for Clients account and the Revenue account are credited by the same amount.
+25. In its trial balance for the fiscal period ended June 30th, 2001, the Appellant reported a debit balance of $1,104,129,044 in the Funds Held For Clients account and a credit balance of the same amount in the Client Funds Obligations account.
+26. Of the amount shown as Client Funds Obligations in the Appellant’s June 30th, 2001, trial balance, only the portion relating to the payroll‑processing fees payable to the Appellant was eventually recognized as income for accounting and tax purposes.
+27. It is the amount of $1,104,129,044 reported as Client Funds Obligations in the Appellant’s June 30th, 2001, trial balance that the Minister added, by reassessment dated January 7th, 2005, to the Appellant’s “capital”, “taxable capital” and “taxable capital employed in Canada” for the purposes of the application of subsection 181.1(1) of the ITA to the Appellant’s taxation year ended June 30th, 2001.
+28. As of June 30, 2001, the Appellant held in the Funds Held for Clients account the following amounts on account of the fees payable by its clients that were earned and recognised as income for income tax purposes but not yet transferred to its bank account:
+Fees
+$4,583,744.78
+GST and HST
+335,247.97
+QST
+89,414.33
+Total
+5,008,407.08
+29. As a result of the increase mentioned in paragraph 27 of this Amended Partial Agreed Statement of Facts, made by the Minister, to the Appellant’s “capital”, “taxable capital” and “taxable capital employed in Canada”, the Minister disallowed, by reassessment dated January 7th, 2005, to the Appellant a carry back of unused surtax credit of $140,759 in the computation of its tax payable under Part I.3 of the ITA, for its taxation year ended June 30th, 1999.
+30. The amounts included by the Appellant in the Funds Held for Clients account as of June 30, 2001, were in respect of salaries and withholding tax remittances to the tax authorities that were payable after June 30th, 2001, and payroll‑processing fees earned by the Appellant but not yet transferred to its bank account.
+31. The amounts of the Funds Held For Clients and the Client Funds Obligations accounts were not reported in the Appellant’s balance sheet for its fiscal period ended June 30th, 2001, filed with its 2001 tax return.
+32. The financial statements filed by the Appellant with its 2001 tax return were not audited but included a “Notice to Reader”. No notes to the financial statements were attached.
+33. According to the generally accepted accounting principles, the Appellant’s Funds Held For Clients and Client Funds Obligations accounts should have been disclosed as an asset and a liability, respectively, in its financial statements or in a note attached to those financial statements.
+34. The Appellant’s payroll services business is similar to the payroll services businesses of its sister companies.
+35. The consolidated balance sheet of the Appellant’s US parent company, namely Automatic Data Processing, Inc., filed with its 2001 Annual Report, reported as an asset and as a liability the “Funds Held For Clients” and “Client Funds Obligations” accounts, respectively, of the Appellant’s sister companies.
+36. The US Securities and Exchange Commission specifically requested that the “Funds Held For Clients” and “Client Funds Obligations” accounts be treated by the Appellant’s parent company as an asset and a liability, respectively, in its financial statements.
+37. The Appellant’s Funds Held For Clients and Client Funds Obligations accounts are now disclosed as an asset and a liability, respectively, in the Appellant’s financial statements since 2002.
+38. The Appellant invests, primarily in fixed‑income instruments (mostly cash equivalents and marketable securities), the amounts included in the Funds Held For Clients account.
+39. The interests [sic] on such investments are recognized by the Appellant in its revenues as earned.
+40. Such interests [sic] amounted to $57,089,700 in the Appellant’s fiscal period ended June 30th, 2001.
+41. In its financial statements for its fiscal period ended June 30th, 2001, the Appellant’s [sic] reported income before taxes of $30,280,238.
+42. In its fiscal period ended June 30th, 2001, the Appellant paid, to a related US company, fees of $1,168,063 to manage the amount included in the Funds Held For Clients account.
+43. The contracts entered [into] by the Appellant and its clients provide that when the Appellant is responsible for missing the withholding tax remittance statutory deadline, the Appellant shall be responsible for any penalty and interest payable related to late remittance to the tax authorities.
+44. In the course of the payroll services provided by the Appellant, withholding tax remittances made on behalf of its clients were occasionally made by the Appellant past the statutory deadline.
+45. In its fiscal period ended June 30th, 2001, the Appellant paid $397,929 of penalties and interest with respect to late withholding tax remittances made on behalf of its clients.
+46. Such penalties and interest were paid by the Appellant in the normal course of doing business.
+47. The Appellant claimed a deduction of this amount of $397,929 in computing its business income for its taxation year ended June 30th, 2001.
+48. By reassessment dated January 7th, 2005, the Minister of National Revenue disallowed this deduction of $397,929.00.
+[Emphasis added.]
+[3] Only one witness was heard, Mr. Brad Surminsky, who has been ADP's chief financial officer since September 2002. Prior to that, he was vice‑president, finance and banking affairs. His testimony revealed a few additional facts. For instance, in 2001, ADP had 27,000 clients whose total payroll amounted to $80 billion; $56 billion in salaries and $24 billion in government remittances. Mr. Surminsky also described ADP's modus operandi in processing its clients’ payroll. In a typical week, the payroll activities would be initiated by the client providing the information to ADP on Monday. ADP would then prepare a report to the client for its approval, which approval would normally be received the following day, on Tuesday. The funds necessary for payment of the salaries and making the government remittances would normally be received on Tuesday if the salaries were payable on Thursday. Fifty‑five percent of the clients advanced the required funds 48 hours ahead of the anticipated payment. Thirty percent would do so 24 hours before while the remaining 15% would do so on payday. The reason for making these payments in advance was to ensure that ADP had the required funds in its bank account when it issued its cheques to the clients' employees and to the various government agencies.
+[4] Given the delay in making government remittances and given the huge cash flow generated by its clients' payroll, ADP had under its control large sums of money, a portion of which would de facto be available to it on a permanent basis. Mr. Surminsky estimated that approximately $500,000,000 constituted a permanent source of funds available to ADP, and these funds were used for investment in fixed‑income assets such as Canadian government obligations. Mr. Surminsky acknowledged that funds made available to ADP “in advance of . . . making payment(s) to third parties”[2] would not be invested in risky securities. He also acknowledged that had ADP lost any of its clients’ funds in these investments, ADP alone would have been liable. All the funds received by ADP from its clients were put in a single segregated account. It was from this account that ADP withdrew funds for the payment of its fees and for making its investments. According to the contractual arrangements with its clients, ADP was entitled to earn interest on the investment and to keep the interest so generated of its clients’ funds. The following are some key excerpts from these arrangements (Exhibit A‑1, Tab 8):
+1. PAYROLL TAX FILING AND OTHER RELATED SERVICES
+A. Subject to the terms and conditions of this Agreement, Canadian Automatic Data Processing Services Ltd. (“ADP”) agrees to provide Client with any and all of the payroll, payroll tax filing and other payroll‑related data services covered by this Agreement or which Client may, from time to time during the term of this Agreement, request ADP to provide to it (the “Services”).
+B(1) . . .
+(3) Client acknowledges and understands that certain of the Services, including, without limitation, Tax Filing Services, provided by ADP hereunder will require Client to remit or otherwise make available sufficient, good funds to ADP within the deadline established by ADP, which funds, subject to this Paragraph 1.B(3), are to be applied by ADP to satisfy Client’s third party payment obligations covered by the Services (including, without limitation, as applicable, Client’s payment obligations to its employees and/or taxing authorities). . . . Client acknowledges and agrees that ADP may commingle Client’s funds with other clients’, ADP’s or ADP administered funds of a similar type. . . .
+C. IF CLIENT IS REQUIRED TO REMIT OR OTHERWISE MAKE ITS FUNDS AVAILABLE TO ADP IN ADVANCE OF, AND FOR THE PURPOSE OF, MAKING PAYMENT(S) TO THIRD PARTIES AS PART OF ADP’S SERVICES (INCLUDING, WITHOUT LIMITATION, TAX FILING SERVICES OR USE OF ADP CHEQUES), AMOUNTS EARNED ON SUCH FUNDS, IF ANY, BETWEEN THE DATE(S) OF ADP’S RECEIPT OF SUCH FUNDS FROM CLIENT OR ADP’S WITHDRAWAL OF SUCH FUNDS FROM CLIENT’S DIRECT DEBIT ACCOUNT OR OTHER DESIGNATED BANK ACCOUNT AND THE DATE(S) SUCH FUNDS ARE TO BE PAID TO THIRD PARTIES (INCLUDING, WITHOUT LIMITATION, ANY TAXING AUTHORITIES OR EMPLOYEES OF CLIENT) WILL BE FOR THE BENEFIT, AND THE SOLE PROPERTY, OF ADP.
+[Emphasis added.]
+[5] Mr. Surminsky testified that ADP did not use the funds kept in the segregated account (which, on the balance sheet for the 2002 taxation year, appears as “Funds held for clients” (Exhibit A‑1, Tab 7)) to pay dividends or to pay any operating costs of ADP. They only used them to make investments and earn interest therefrom. This interest amounted to $57,089,700 for ADP's 2001 fiscal year and represented 28% of its total gross income of $203,549,663.[3] After deducting its operating expenses, ADP’s net income before income taxes amounted to $30,280,238 (Exhibit A‑1 Tab 6). It should also be noted that ADP’s shareholders’ equity in 2001 was $22,420,462, of which $3,800,000 represented its capital stock, and the balance, retained earnings. As the Client Funds Obligations account did not appear on the 2001 balance sheet because it had been netted against Funds Held for Clients (an assets account), the total liabilities amount for 2001 is $107,325,682, $91 million of which was due to related companies.
+[6] In his testimony, Mr. Surminsky also dealt with the payment by ADP of damages for late remittances, which damages amounted to $397,929 in 2001. It was clear that the payroll payments were made by ADP as agent for its clients and therefore it is they who would have received the assessments for late remittances. He also added that the tax authorities would communicate directly with ADP’s clients regarding these matters. However, under its contractual obligations towards its clients, ADP was responsible for indemnifying them for any interest and penalties resulting from late remittances to the tax authorities. It is clear also that the amount of the indemnity did not cover the taxes which should in any event have been remitted on ADP’s clients’ behalf to the tax authorities. On this point, I reproduce here the key portion of the contractual obligations:
+7. LIMITATION OF LIABILITY
+. . .
+C. With respect to Tax Filing Services only, based upon the information supplied by Client and provided that Client has fully complied with its obligations pursuant to Paragraph 1(B) above, ADP shall be responsible for all applicable deposits, filings and reconciliations (not including the filing or depositing of excise, sales, use, corporate and/or similar taxes). ADP’s sole liability to Client or any third party for claims, notwithstanding the form of such claims (e.g., contract, negligence or otherwise) arising out of (i) ADP making an error in interpretation of Federal and/or Provincial payroll tax laws, rules or regulations or (ii) errors or omissions (other than interpretive errors or omissions) in Tax Filing Services provided or to be provided by ADP hereunder and caused solely by ADP, shall be to furnish a correct report or data and to correct any of Client’s files or tax agency filings; provided, however, that in such event, Client shall be responsible for any additional taxes and ADP shall be responsible for any penalties or similar charges relating to such error or omission and provided further that with respect to any interest charges relating to such error or omission, ADP shall be responsible for interest charges if ADP has debited the Client’s designated account for the associated taxes and is holding such monies prior to the occurrence of such error or omission and Client shall be responsible for interest charges in all other situations.
+[Emphasis added.]
+[7] In addition to the Partial Agreed Statement of Facts and the testimony given by Mr. Surminsky, there are statements in the Amended Reply to the Notice of Appeal which were either admitted or denied by counsel for ADP and which deserve comment. I refer in particular to the following paragraphs:
+22. . . .
+(e) The Appellant’s clients are required to pay in advance[4] to the Appellant all amounts associated with their payroll plus any source deductions that are to be remitted on their behalf to the respective governments. Those pre‑funded amounts are referred to herein as the “Funds Held For Clients” and the Appellant’s respective obligations toward its clients are referred to herein as the “Client Funds Obligations”; (admitted)
+. . .
+(n) The Client Funds Obligations was money made available for use by the Appellant. (denied) [5]
+. . .
+(p) The interests [sic] earned by the Appellant on such investment are an integral and important part of the Appellant’s business affecting significantly its profitability and its status as a going concern; (denied) [6]
+. . .
+(v) The interest earned by the Appellant on the investment of the Funds Held for Clients amounted to $53,469,002.00 in its fiscal period ending June 30th, 2000, and its income before taxes reported in its financial statements was $6,092,564.00. (no knowledge) [7]
+[Emphasis added.]
+Analysis
+a) Does the $1.1 billion shown in the Client Funds Obligations account constitute advances for the purpose of the definition of “capital” found in par. 181.2(3)(c) of the Act?
+[8] The first issue to be determined is whether the minister was justified in adding to ADP’s capital, pursuant to paragraph 181.2(3)(c) of the Act, the $1.1 billion amount as of June 30, 2001. The relevant provision of the Act reads as follows:
+181.2(3) Capital. The capital of a corporation (other than a financial institution) for a taxation year is the amount, if any, by which the total of
+(a) the amount of its capital stock (or, in the case of a corporation incorporated without share capital, the amount of its members’ contributions), retained earnings, contributed surplus and any other surpluses at the end of the year,
+(b) the amount of its reserves for the year, except to the extent that they were deducted in computing its income for the year under Part I,
+(b.1) the amount of its deferred unrealized foreign exchange gains at the end of the year,
+(c) the amount of all loans and advances to the corporation at the end of the year,
+(d) the amount of all indebtedness of the corporation at the end of the year represented by bonds, debentures, notes, mortgages, hypothecary claims, banker’s acceptances or similar obligations,
+(e) the amount of any dividends declared but not paid by the corporation before the end of the year,
+(f) the amount of all other indebtedness (other than any indebtedness in respect of a lease) of the corporation at the end of the year that has been outstanding for more than 365 days before the end of the year, and
+. . .
+[Emphasis added.]
+[9] The main issue to be decided is whether the funds received by ADP from its clients in advance of the payments of salary and government remittances constitute “advances” within the meaning of paragraph 181.2(3)(c). I had a chance to deal with this question in Oerlikon Aérospatiale Inc. v. Canada, [1997] T.C.J. No 466 (QL), [1997] DTC 962. In that case, a sum of $244,492,173 had been advanced by Oerlikon’s customers, one of these being an affiliated corporation and the other, Martin Marietta Corporation, a U.S. customer. As regards the former, Oerlikon had received the funds under a contract to provide air defence and anti-tank systems at a cost of $304,166,920. In addition, it was to supply pieces of equipment and related services for an additional total of $437,411,853. In Oerlikon, the taxpayer had argued that the advanced funds, which were on account of its future income, did not constitute advances for the purposes of Part I.3 of the Act. As the term “advances” in paragraph 181.2(3)(c) of the Act is not defined, in my reasons (par. 47‑50 T.C.J., pp. 971‑2 DTC) I referred to the Dictionnaire de la comptabilité et de la gestion financière[8], which provided the following three definitions, and I went on to make the analysis also reproduced hereunder:
+ADVANCE 1.
+AVANCE (SUR NOTE DE FRAIS)
+Management. Amount paid to a person to enable him to make expenditures for which he will have to account at a later date.
+Syn. expense advance. See also out-of-pocket costs.
+ADVANCE 2.
+AVANCE; ACOMPTE; ARRHES
+Commerce. Amount to be applied against the price of a contract, services or goods, paid before the contract is performed, the services rendered or the goods delivered. Note — The term advance is more appropriate in cases where the amount in question is paid before any order is filled. However, the term payment on account is used where the amount is paid by reason of the partial filling of the order. In the case of deposits, the amount paid is not returned if there is a breach of contract, whereas it may be in the case of an advance.
+See also deposit 3; downpayment; earnest money.
+ADVANCE 3.
+PRÊT; AVANCE
+Finance. Amount lent by one person to another or by one entity to another, e.g., the amount advanced by a parent company to its subsidiary.
+. . .
+As may be seen and as OA's accountant admitted, the word "advance" may mean "advance in the sense of a loan" or "advance in the sense of a payment on account".8 Since Parliament took pains to speak of loans and advances in paragraph 181.2(3)(c) of the Act, it must be concluded that the intent was to include both loans and instalments.[9] If Parliament had wished to limit the application of paragraph 181.2(3)(c) of the Act solely to loans, it would have used only the term "loan". It would have been redundant to use a synonym for the word "loan". Rather, there is reason to believe that Parliament wished to broaden the scope of the word "loan" so as to include payments on account with respect to a contract.
+In Transcanada Ltd. v. Ontario (Minister of Revenue), [1992] O.J. No. 2592 (Ont. C.A.), the court relied on the notion of "advance in the sense of a payment on account" in defining the scope of the word "advance" used in the Corporations Tax Act, R.S.O. 1980, c. 97. That act levies a tax on capital similar to the large corporations tax. The question at issue was whether payments described as "take or pay payments" were "investments . . . in . . . [loans and] advances to other corporations". The Court of Appeal held that those payments came within the definition of " advance as a ‘payment [made] beforehand or in anticipation’ and a ‘payment made before . . . the completion of an obligation for which it is to be paid’: Dictionary of Business and Finance, (1957) p. 9". 9
+In my view, the payments on account from clients received by OA constitute advances within the meaning of paragraph 181.2(3)(c) of the Act. They are amounts paid before the contract was executed, the services rendered or the goods delivered. The fact that the payments on account from clients balance was deducted from income for tax purposes because the Act requires that this balance be included in computing income for tax purposes does not change the nature of the payments on account. They represent "advances" which appear in a corporation's balance sheet.
+[Emphasis added.]
+_________________________
+8 The first meaning is not relevant for the purposes of this appeal.
+9 In Crassweller v. M.N.R., 49 DTC 1, the Income Tax Appeal Board considered the application of section 18 of the Income War Tax Act according to which any “loan or advance” by a corporation was deemed to be a dividend. The Board’s Chairman, Mr. Justice Graham, made the following comments at page 13:
+Obviously this was not a “loan or advance by a corporation” as both words “loan” and “advance” convey the idea of something which is to be repaid at a later date or, in the case of “advance” meaning a payment beforehand, something which will be accounted for at a later date by the production of vouchers or receipted bills on which the moneys have been expended for the account of the person making the advance, or something paid to a person before the time at which the payor becomes liable to make a payment to such person which later payment would be reduced by the amount of the advance and thus cancel any liability of the recipient to repay the advance.
+[Emphasis added.]
+[10] My decision in Oerlikon was affirmed by the Federal Court of Appeal in Oerlikon Aérospatiale Inc. v. The Queen, 99 DTC 5318. Before the Federal Court of Appeal, Oerlikon argued that only the concept of “advance in the sense of a loan” is contemplated in paragraph 181.2(3)(c) of the Act. After reviewing decisions dealing with the application of similar provisions in the Quebec Taxation Act, the Federal Court of Appeal stated, at paragraph 26, that the Ontario Court of Appeal’s decision in TransCanada Pipelines v. Ontario (Minister of Revenue) was much closer to the facts in Oerlikon. Here is what Justice Noël stated at paragraph 28:
+[28] . . . After a brief analysis, the Court of Appeal emphasized the fact that the payments in question:
+. . . fell within dictionary definitions of “advance” as a “payment [made] beforehand or in anticipation” and a “payment made before . . . the completion of an obligation for which it is to be paid”: Dictionary of Business and Finance (1957), p. 9.
+and held that these amounts constituted, inter alia, “advances” within the meaning of paragraph 54(1)(c).
+[29] The appellant was unable to show how the advances at issue in this case were distinguishable from the advances the Ontario Court of Appeal considered in TCPL. Both cases dealt with payments made in advance for the eventual performance of the resulting reciprocal obligation.
+[Emphasis added.]
+[11] Justice Noël added at paragraph 32:
+[32] The effect of an advance be it in the sense of a payment on account or a loan, is to make the amount of money it represents available to the person or corporation which receives it. In the instant case, the advances were an integral part of the financial resources available to the appellant at the end of its 1989 fiscal year according to the financial statements it filed, and nothing either in the legislation or the tax policy which led to its enactment indicates that Parliament intended to exclude advances from the tax under Part I.3.
+[Emphasis added.]
+[12] In order to convince the Court that the decisions rendered in Oerlikon by this Court and the Federal Court of Appeal, and in TransCanada Pipelines by the Ontario Court of Appeal, are not applicable here, ADP’s counsel advanced a series of arguments. First, contrary to the situation in Oerlikon, the $1.1 billion was not described as “advances” in ADP’s financial statements for its 2002 taxation year, but was rather referred to as “Client Funds Obligations” in its own general ledger and in ADP’s US parent’s consolidated financial statements for the 2002 taxation year. In addition, the funds here do not constitute a “payment on account” according to the definition of this phrase in Oerlikon and in the Dictionnaire de la comptabilité. ADP’s counsel argued that the $1.1 billion does not constitute an amount to be applied against the price of a contract, paid before the contract is performed. Contrary to what was the case in Oerlikon, this amount would not be included in computing ADP’s gross income, except for the sum of $4.5 million payable to ADP on account of its fees, which were earned at the end of the 2001 taxation year.
+[13] ADP’s counsel also argued that the $1.1 billion did not constitute working capital for ADP. Alternatively, even if it did, it represented only an insignificant portion of about 1.2% of the $83 billion received from ADP’s clients. The cumulative amounts of the advances received by Oerlikon as of 1989 ($292,834,886) represented 39.5% of the total value of the contracts to be performed by Oerlikon ($741,578,000).
+[14] Counsel argued as well that the $1.1 billion did not constitute money made available for use by ADP, because Mr. Surminsky testified that ADP would not use these funds to pay its dividends or its operating costs, such as rent and mortgage payments.
+[15] In my view, ADP’s position is not well‑founded. Given that the Act does not define the term “advances”, it is not surprising that the parties referred the Court to numerous dictionaries to define its scope. For instance, counsel for the respondent referred to 16 different dictionaries: legal, accounting, financial and ordinary dictionaries. I will cite only a few of them. The Canadian Oxford Dictionary offers these relevant definitions: “advance . . . 3 a payment made before the due time. 4 a loan.”
+[16] In Le Nouveau Petit Robert, “une avance” is defined as:
+1 (1478) Somme versée par anticipation. Faire une avance à un employé.
+. . . Avance sur commande. Acompte, arrhes, provision 2 Crédit, prêt à court terme. Avance bancaire.
+[17] As can be seen from these ordinary definitions of “advance”, the common thread is paying an amount before it is due.[10] The same concept can be found in the first two of the three meanings given for “advance” in the Dictionnaire de la comptabilité, reproduced at paragraph [9] of these reasons. The first of these is “Amount paid to person to enable him to make expenditures for which he will have to account at a later date”, and the second, “Amount to be applied against the price of a contract, services or goods, paid before the contract is performed, the services rendered or the goods delivered.”
+[18] If in Oerlikon I made no further reference to the first meaning of “advance”, taken from the Dictionnaire de la comptabilité it was, as I stated in footnote 8 of that decision, because it was not relevant for the purposes of the appeal. The meaning of “payment on account” was. The statement in footnote 8 was not intended to imply that the first meaning cited, [namely, an amount paid before it is due,] was not relevant for the purposes of the definition of “advances” in computing capital under subsection 181.2(3) of the Act. The same can be said of the Ontario Court of Appeal’s statement in TransCanada Pipelines that “the take or pay payments” made in that case constituted “a ‘payment [made] beforehand or in anticipation’ and a ‘payment made before . . . the completion of an obligation for which it is to be paid’”.
+[19] As mentioned above, if one applies the approach adopted by the Ontario Court of Appeal, it is clear that the $80 billion was paid to ADP by its clients on account of the clients’ obligations to pay salaries to their employees and to make government remittances. These payments to ADP were generally made by the clients in advance, as stated in the contractual arrangements between them and ADP.[11] At the end of the year, which was the relevant time for the purposes of computing ADP’s capital under Part I.3 of the Act, there only remained $1.1 billion under ADP’s control. No matter how you look at it, the $1.1 billion constituted money advanced by ADP’s clients before they had to be disbursed by ADP on their behalf. However, the contractual arrangement between ADP and its clients provided that these funds were available to ADP for the purpose of making investments, and ADP was clearly entitled to retain the interest earned on such investments, as stated in its contracts with its clients (Exhibit A‑1, Tab 8, 1C).
+[20] In my view, the significance of the amount is not relevant for the purposes of the definition of capital found in subsection 181.2(3) of the Act. If an amount constitutes a loan, whether it is one thousand, one million or one billion dollars, that amount has to be added to capital, as required by that provision. The same applies to advances. When asked to put forward an argument justifying the view that it would be improper to include the $1.1 billion as advances, given the legislative purpose of the provision, ADP’s counsel was unable to provide any convincing argument that it would.
+[21] Although strictly speaking, there is no requirement in that regard, it is comforting to realize that the $1.1 billion in advances existing at the end of the 2001 taxation year did indeed represent a significant financial resource available to ADP. The advances received during the entire course of the year allowed ADP to earn more than $57 million in interest, which represented 28% of its gross revenue. As pointed out by counsel for the Minister, without this interest earned from the advanced funds, ADP would have incurred a loss. This was indirectly acknowledged by Mr. Surminsky, who testified that had it not been allowed to invest the advances made available to it in contemplation of the payment of its clients’ obligations with regard to salaries and government remittances, ADP would have been required to modify its business model and increase its fees.
+[22] Finally, it is worth noting that the balance sheet for ADP for the year ended June 30, 2001, shows a capital stock of $3.8 million and retained earnings of $18.6 million. So the advances from ADP’s clients, which are described in its accounting records as Funds Held for Clients and Client Funds Obligations in its accounting records and which amounted at the end of its 2001 fiscal year to $1.1 billion, do constitute a significant asset and liability at the end of its taxation year. Mr. Surminsky also stated that a core amount of $500 million was a more or less permanent asset and liability of ADP. In his argument, counsel for ADP also contended that these funds allowed ADP to make long‑term investments, although this fact had not necessarily been put into evidence.[12] Therefore, I do not have any doubt in concluding that the $1.1 billion constitutes advances referred to in the definition of “capital” in paragraph 181.2(3)(c) of the Act.[13]
+b) The deduction of the $397,929 in late payment penalties.
+[23] The other issue remaining to be decided is whether the prohibition under paragraph 18(1)(t) of the Act is applicable. If it is not, counsel for the Minister admitted, the above amount would be deductible by ADP in computing its income pursuant to section 9 of the Act. Paragraph 18(1)(t) read as follows in 2001:
+18(1) General limitations − In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+. . .
+(t) any amount paid or payable under this Act (other than tax paid or payable under Part XII.2 or Part XII.6);
+[Emphasis added.]
+[24] In order for the amount in question of $397,929 to be non‑deductible under the Act, it must be an amount paid or payable under the Act. Here, in my view, it is clear that this amount was not paid by ADP to the federal government under the Act as interest or penalties for late remittances. It was ADP’s clients, which were assessed by the minister as a result of ADP’s failure to make the remittances on their behalf, that were required by the Act to make the payments of interest and penalties. The amounts which were paid by ADP were paid to its clients in order to indemnify them for the amounts that they had paid under the Act. Therefore, paragraph 18(1)(t) of the Act would clearly have applied to ADP’s clients had they attempted to deduct these amounts. ADP, however, was not required by the Act to make the payments it made. Rather, they were made pursuant to its contractual obligations towards its clients as a result of its failure to fulfill its contractual obligation to pay the government remittances on time.
+[25] The fact that the contractual damages paid were computed by reference to the amount of interest and penalties paid by ADP’s clients under the Act is not relevant. A distinction must be made between the damages themselves and the method for determining them. This approach was followed, for example, in Canadian National Railway v. M.N.R., 88 DTC 6340, at 6343, where Justice Strayer in determining whether such damages could constitute income in the hands of the person receiving them, stated: “The measure employed for calculating compensation is not always determinative: potential lost income may be taken into account in calculating a capital sum to be paid.”
+[26] In my view, even if one were to interpret the phrase “in respect of” found in paragraph 18(1)(t) of the Act as liberally as that same phrase was interpreted in the Nowegijick v. The Queen, [1983] 1 S.C.R. 29, it would not alter the fact that the sum of $397,929 was paid in respect of contractual damages and not in respect of an amount payable under the Act.
+[27] I conclude that the prohibition found in paragraph 18(1)(t) of the Act is not applicable and ADP is therefore entitled to deduct the amount of $397,929 in computing its income for the 2001 taxation year.
+[28] For these reasons, ADP’s appeal for the 1999 taxation year is dismissed. The appeal for the 2001 taxation year is allowed and the reassessment for that year is referred back to the minister for reconsideration and reassessment on the basis that ADP is entitled to deduct $397,929 in computing its income.
+[29] Given that the issue respecting the calculation of the tax on large corporations monopolized most of the hearing time before the Court, I conclude that the respondent is entitled to ¾ of her costs.
+Signed at Ottawa, Canada, this 15th day of May 2008.
+“Pierre Archambault”
+Archambault J.
+CITATION: 2008TCC236
+COURT FILE NO.: 2006-1817(IT)G
+STYLE OF CAUSE: ADP CANADA CO. (SUCCESSOR TO CANADIAN AUTOMATIC DATA PROCESSING SERVICES LTD.) v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 12, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: May 15, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Louis Tassé
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Louis Tassé
+Firm: Fasken Martineau DuMoulin LLP
+Montreal (Quebec)
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Sometimes it may even be up to three months. [This footnote is mine.]
+[2] See par. 1C in the excerpts below.
+[3] (Exhibit A-1, Tab 6.) If the total payroll processing fees earned in 2001 were $130,520,848 (as stated in par. 12 of the Amended Partial Agreement Statement of Facts), ADP would have earned $15,939,115 of income from a source not identified before the Court.
+[4] Although ADP's counsel admitted paragraph 22(e), he stated that he did not admit that the “advanced” funds constituted “advances” for the purposes of the definition of “capital” in paragraph 181.2(3)(c) of the Act.
+[5] I find that the sums received by ADP from its clients, which appear in the Client Funds Obligations account (a liability account on the balance sheet) and in the corresponding “Funds Held for Clients” account (an asset account), were considered money available for use by ADP given that it had the right to invest such money and to earn and retain the interest generated thereby.
+[6] I find that the interest earned by ADP was an integral and important part of ADP's business. It could be considered significant for its profitability. As counsel for the Minister pointed out, ADP's net income before taxes was $30,280,238, and without the $57,089,700 earned in interest there would have been a loss.
+[7] Counsel for the respondent argued, and rightly so, that ADP had the burden of disproving this particular fact. As it was not disproved, this fact must be assumed to be accurate. It was taken into account by the minister in establishing that the interest income earned by ADP in its preceding taxation year was even more significant with respect to the profitability of ADP.
+[8] Louis MÉNARD, Dictionnaire de la comptabilité et de la gestion financière (Montréal: Institut Canadien des Comptables Agréés, 1994).
+[9] In the French version of my reasons, I used the term "acomptes" rendered here by "instalments". It would have been more accurate and clearer to have said in the English translation "to include both loans and payments on account".
+[10] I exclude the concept of "loan" because that term is used in subsection 181.2(3) of the Act.
+[11] See Exhibit A‑1, Tab 8, in particular the portion reproduced at paragraph [4] above. See also paragraphs 16 and 17 of the Amended Partial Agreed Statement of Facts, which refer to the fact that ADP’s clients were required to pay in advance to ADP up to 48 hours prior to the initiation by ADP of any correlating payroll payments the amounts required for those payments. See also par. 22e) of the Amended Reply to the Notice of Appeal reproduced above.
+[12] Indeed, this argument was made when counsel for the Minister raised some doubts as to whether the core amount represented only $500 million. The $57 million in interest represented a return of 11.4% annually and counsel for the Minister suggested that the core amount must have been much higher, given this outstanding return on short‑term investments such as Canadian government obligations. For the twelve months ending on July 4, 2001, the average weekly (Wednesday) prime business rate was 7.13% (see www.bankofcanada.ca/en/rates/interest-look.html (V121796)). Therefore, the argument made by ADP’s counsel is plausible.
+[13] It should also be stated that this conclusion is in line with the definition adopted by the Income Tax Appeal Board in Crassweller v. M.N.R., 49 DTC 1.

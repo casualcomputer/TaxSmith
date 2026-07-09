@@ -1,0 +1,191 @@
+---
+title: "6005021 Canada Inc. (Braun & Associates) v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30688/index.do"
+last_modified: "2009-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 339"
+citation2: ""
+neutral_citation: "2009 TCC 339"
+decision_date: "2009-06-23"
+language: "en"
+item_id: "30688"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7184
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:11:16.441000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f473e7427f8d3bae611d915c8a7eb66333d6cf2331cbcb1fb165a6c6065f0b85"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 6005021 Canada Inc. (Braun & Associates) v. M.N.R.
+
+- Citation: 2009 TCC 339
+- Decision date: 2009-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7184, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+6005021 Canada Inc. (Braun & Associates) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-23
+Neutral citation
+2009 TCC 339
+File numbers
+2008-2955(CPP), 2008-2956(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2008-2955(CPP)
+BETWEEN:
+6005021 CANADA INC. OP BRAUN & ASSOCIATES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Darwin Braun, 2008-2956(CPP)
+on June 11, 2009, at Kamloops, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Darwin Braun
+Counsel for the Respondent:
+Matthew W. Turnell
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed and the assessment of the Minister of National Revenue on the appeal made to him under section 27 of the Plan is confirmed.
+Signed at Vancouver, British Columbia, this 23rd day of June, 2009.
+“Campbell J. Miller”
+C. Miller J.
+Docket: 2008-2956(CPP)
+BETWEEN:
+DARWIN BRAUN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+6005021 Canada Inc. op Braun & Associates, 2008-2955(CPP)
+on June 11, 2009, at Kamloops, British Columbia,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Darwin Braun
+Counsel for the Respondent:
+Matthew W. Turnell
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed and the assessment of the Minister of National Revenue on the appeal made to him under section 27 of the Plan is confirmed.
+Signed at Ottawa, Canada, this 23rd day of June 2009.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2009 TCC 339
+Date: 20090623
+Docket: 2008-2955(CPP)
+2008-2956(CPP)
+BETWEEN:
+6005021 CANADA INC. OP BRAUN & ASSOCIATES,
+and DARWIN BRAUN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Braun and his company, 6005021 Canada Inc. (the Company), operating as Braun & Associates, appeal the Minister’s August 27, 2007 assessments concerning CPP contributions. The Minister claims the Company failed to remit amounts of $3,663, $3,722 and $3,821 for the 2004, 2005 and 2006 taxation years in connection with Mr. Braun’s employment. Mr. Braun objects for two reasons: first, that the Minister did not comply with the requirement of section 26.1 of the Canada Pension Plan and therefore had no legislative authority to make the assessments; second, that Mr. Braun was not an employee of the Company, but was an independent contractor and not subject to the Canada Pension Plan.
+[2] In his evidence-in-chief, Mr. Braun told me nothing more than the Company did not control his time or hours, nor make any source deductions. He was on a pure commission basis. That was the extent of his evidence.
+[3] In cross-examination, Mr. Braun expanded on the working arrangement between himself and his Company. The Company sold a variety of insurance products on behalf of a number of different insurance providers. The Company would receive commissions for those sales. The Company would also receive ongoing fees or trailer fees from existing policies, in accordance with agreements between the Company and the insurance provider. In the years in question, the Company had offices in Kamloops and Langley, for which the Company paid rent and supplied some minimal furnishings. Mr. Braun, however, did most of the sales on the road using his wife’s car. The Company paid him mileage of 41 cents per kilometre though the rate would have changed over the three-year period in question. It was clear from the Company’s tax returns that it incurred a number of expenses in operating its insurance business: salary for Mr. Braun’s wife and children, advertising and promotion, taxes, offices expenses, training, phone, fax, vehicle expenses (the reimbursement to Mr. Braun on a per kilometre basis), travel, etc. The returns also showed sub-contractor fees of $98,000, $90,245 and $62,500 for 2004, 2005 and 2006 respectively. Mr. Braun testified that these included his commission and maybe others too, though the Canada Revenue Agency (CRA) officer who testified confirmed that the vast majority was traced to Mr. Braun.
+[4] Mr. Braun presented a form entitled “Contract for Hire – Private (Free Agent) Agreement”, purportedly entered the 31st of July, 2003.[1] The last page is a schedule of compensation listing the 12 months of 2004, showing payments to Mr. Braun of $5,000 every month, with one extra payment in July of $10,000, for a total of $70,000. The entries are uniform in their style, suggesting they were written at the same time. The trial was the first time this agreement was shown to CRA or the Department of Justice. At trial, Mr. Braun also presented 13 “Independent Agent Invoices”[2] corresponding to the 12 $5,000 payments and the one $10,000 payment just mentioned. It is interesting to note that the invoice states:
+For Services Rendered under a Private Contract for Hire by Darwin Braun, a “natural person”, without a reasonable expectation of profit.
+The invoice also stated:
+GST non applicable, as per subsection 240.(1) of Part IX of the Excise Act.
+[5] In his 2004, 2005 and 2006 income tax returns, Mr. Braun showed commission income of $1 in 2004 and nothing in 2005 and 2006. There was no schedule of income or expenses.
+[6] The trust examiner from CRA, Mr. Prygiel, also testified. He received the Company file from the Penticton office. After reviewing the books provided by Mr. Braun’s accountant, he concluded that because Mr. Braun was conducting business for the Company, and there was no GST registration for Mr. Braun, Mr. Braun’s remuneration was employment income. He therefore issued T4s for the income and assessed the maximum CPP, given the amount of that income.
+[7] As indicated at the outset, Mr. Braun raises two arguments:
+(i) Section 26.1 of the Canada Pension Plan; and
+(ii) Independent contractor versus employee.
+Section 26.1 – Canada Pension Plan
+[8] Section 26.1 of the Canada Pension Plan reads:
+26.1 (1) The Minister of Social Development, an employer, an employee or a person claiming to be an employer or an employee may request an officer of the Canada Revenue Agency authorized by the Minister of National Revenue to make a ruling on any of the following questions:
+(a) whether an employment is pensionable;
+(b) how long an employment lasts, including the dates on which it begins and ends;
+(c) what is the amount of any earnings from pensionable employment;
+(d) whether a contribution is payable;
+(e) what is the amount of a contribution that is payable; and
+(f) who is the employer of a person in pensionable employment.
+(2) The Minister of Social Development may request a ruling at any time, but a request by any other person must be made before June 30 of the year after the year in respect of which the question relates.
+(3) The authorized officer shall make the ruling within a reasonable time after receiving the request.
+(4) Unless a ruling has been requested with respect to a person in pensionable employment,
+(a) an amount deducted from the remuneration of the person or paid by an employer as a contribution for the person is deemed to have been deducted or paid in accordance with this Act; or
+(b) an amount that has not been so deducted or paid is deemed not to have been required to be deducted or paid in accordance with this Act.
+[9] Mr. Braun argues that as the Minister did not follow this procedure, there is no authority to assess as he did. However, section 27.3 of the Canada Pension Plan reads:
+27.3 Nothing in sections 26.1 to 27.2 restricts the authority of the Minister to make a decision under this Part on the Minister’s own initiative or to make an assessment after the date mentioned in subsection 26.1(2).
+[10] I dealt with these provisions in the case of Zazai Enterprises Inc. v. Canada (Minister of National Revenue – M.N.R.),[3] and stated as follows:
+17 Looking at these provisions as a whole, the Minister is unrestricted in assessing as he did in this case. To put the interpretation on subsection 26.1(4) that Mr. Sarmiento seeks, would be to completely fetter the Minister's authority; indeed, it would render section 27.3 useless (a result that could not have been intended by the legislators), as it would allow the Minister to assess but with no ability to hold that non-payment was not in accordance with the Act. Excuse the triple negative but the result is nothing to assess. I grant that the wording of these provisions is not a clarion of clarity, but they must be interpreted to make some sense. And the sense I make of them is that the lack of a ruling request in no way handcuffs the Minister. This interpretation is supported further by subsection 26.1(2) of the CPP which allows the Minister of Human Resources and Development to request a ruling at any time; all to say the Government can always overcome Mr. Sarmiento's hurdle by simply making the request. My view of this matter appears to be borne out by the Federal Court of Appeal's comments in Care Nursing Agency Ltd. cited earlier.
+[11] This view has been confirmed by the Federal Court of Appeal (for example, see the cases of Care Nursing Agency Ltd. v. Canada (Minister of National Revenue – M.N.R.)[4] and Drosdovech v. Canada (Minister of National Revenue – M.N.R.).[5]
+[12] The Appellant cannot succeed on this point.
+Employment versus Independent Contractor
+[13] The jurisprudence is extensive in this area, with some differing views in certain aspects of the proper test (for example, the role of intention), but there is consensus that the Supreme Court of Canada’s comments in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[6] remain the highest authority for explaining the current approach, particularly paragraph 47 of Major J.’s ruling:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[14] Was Mr. Braun performing the sale of insurance in business on his own account? No, there is nothing to suggest it was Mr. Braun’s business and everything to suggest it was the Company’s business. Mr. Braun argues there was a clear intent that both parties consider this an independent contractor arrangement. As was clear from former Chief Justice Bowman’s comments in the case of Lang v. Canada (Minister of National Revenue – M.N.R.),[7] the role of intention can vary, notwithstanding the Supreme Court of Canada made no mention of it in Sagaz. It has never been elevated to the level of significance of the control factor however. Further, in a situation such as this where the two sides of the agreement are directed by the same mind (Mr. Braun’s), one must be wary in assigning much significance to a “mutual” intention. I add to this a concern I have with the timing of the production of the written “Contract for Hire – Private (Free Agent) Agreement” and I place little reliance on the parties’ intention.
+[15] Before addressing the more traditional factors suggested by the Supreme Court of Canada, I note that even in his own invoices Mr. Braun writes “for services rendered without a reasonable expectation of profit”. What is to be taken from that other than an acknowledgment that whatever he was earning he was not intending to earn a profit from it? Without turning a clock back to revisit the role of the reasonable expectation of profit, I simply conclude that this is some evidence that even Mr. Braun did not fully intend that he was in a business.
+[16] With respect to control, it is always difficult to address in a situation where the worker is also the controlling mind of the corporate employer. I believe comments from the Federal Court of Appeal in the case of Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (Minister of National Revenue – M.N.R.)[8] are helpful in this regard. Noel J. wrote:
+5 The question the trial judge should have asked was whether the company had the power to control the way the workers did their work, not whether the company actually exercised such control. The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+[17] In the case before me, the control factor cannot be determinative, in deciding whose business is operating. Too many other factors point conclusively to it being the Company’s business. The Company had the contracts with the insurance companies. It was the Company that was paid by them. The Company rented the premises and owned the office equipment.
+[18] With respect to risk of loss and chance of profit, the form of Mr. Braun’s remuneration is very telling. He received regular monthly identical payments, with no year-end adjustment to reflect a true sales commission basis of remuneration. I heard no evidence of his risk. If he was on commission (I am not convinced), this method of remuneration is not in and of itself sufficient to support a finding that he could increase profit as an independent contractor. He certainly provided no evidence of increasing profit by reducing expenses, as he gave no evidence of any expenses other than expenses incurred by the Company. I simply cannot conclude he was in business on his own account: he was a salesman for the Company, and, as an employee, subject to the Canada Pension Plan. The appeals are dismissed.
+Signed at Vancouver, British Columbia, this 23rd day of June, 2009.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2009 TCC 339
+COURT FILE NO.: 2008-2955(CPP) and 2008-2956(CPP)
+STYLE OF CAUSE: 6005021 CANADA INC. OP BRAUN & ASSOCIATES and DARWIN BRAUN and MINISTER OF NATIONAL REVENUE.
+PLACE OF HEARING: Kamloops, British Columbia
+DATE OF HEARING: June 11, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: June 23, 2009
+APPEARANCES:
+Agent for the Appellant:
+Darwin Braun and the Appellant himself
+Counsel for the Respondent:
+Matthew W. Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-3.
+[2] Exhibit R-2.
+[3] 2008 TCC 606.
+[4] 2008 FCA 334.
+[5] 2009 FCA 55.
+[6] 2001 SCC 59.
+[7] 2007 TCC 547.
+[8] 2002 FCA 144.

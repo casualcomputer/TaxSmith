@@ -1,0 +1,125 @@
+Title: 9072-1085 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29610/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-603-29610-9072-1085-qu-bec-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2009-11-30
+
+# 9072-1085 Québec Inc. c. La Reine
+
+- Citation: 2009 TCC 603
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6179, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9072-1085 Québec Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-30
+Neutral citation
+2009 TCC 603
+File numbers
+2009-1172(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-1172(GST)I
+BETWEEN:
+9072-1085 QUÉBEC INC.,
+Appellant,
+et
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 9, 2009, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+James A. Cocciardi
+Counsel for the respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made on May 9, 2008, under Part IX of the Excise Tax Act for the period from April 1, 2003, to March 31, 2007, is allowed in part without costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to exclude the amount of $4,885.30 in uncollected Goods and Services Tax for the period from April 1, 2003, to March 31, 2004, with penalty and interest adjustments, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 30th day of November 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 18th day of January 2010.
+Daniela Possamai, Translator
+Citation: 2009 TCC 603
+Date: 20091130
+Docket: 2009-1172(GST)I
+BETWEEN:
+9072-1085 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing from a reassessment dated May 9, 2008, for the period from April 1, 2003, to March 31, 2007 (the period at issue), under the informal procedure pursuant to Part IX of the Excise Tax Act, R.S.C., 1985, c. E‑15 (hereinafter the ETA).
+[2] The amount of Goods and Services Tax (GST) for the period from January 30, 2003, to March 31, 2004, was admitted by the respondent as it was assessed outside the normal assessment period.
+[3] The amount of GST collected and unremitted by the appellant totalling $5,012.64 (3rd block of page 3 of I-1) is uncontested by the appellant.
+[4] At the opening of the hearing, the parties pointed out a calculation error. In paragraphs 17(h) and 18(b) of the Reply to the Notice of Appeal, the GST amount the appellant failed to collect and remit was $33,847.58 rather than $38,847.58 for the supply of meal plan cards to the residents of the "Au fil de l’eau" senior residence. The reassessment also included certain adjustments to input credits claimed, penalties for late payment in the amount of $3,932.50 and interest in the amount of $6,508.26.
+[5] In making the reassessment, the Minister of National Revenue (the Minister) relied, among other things, on the following assumptions of fact described in subparagraphs (b) to (g) of paragraph 17 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(b) The appellant is a registrant for the purposes of the ETA;
+(c) During the period at issue, the appellant provided catering services in the "Au fil de l’eau" senior residence (the residence) where it rented kitchen equipment and the dining room.
+(d) The residence is not a health-care institution.
+(e) During the period in issue, the appellant provided meals to the residence's management personnel as well as meal plans consisting of 30 meals to residents.
+(f) The provision of meal plans constitutes the sale, to residents of the residence, of a card entitling the cardholder to 30 meals to be consumed within 90 days of purchasing the card.
+(g) The services described above are taxable supplies for the appellant on which it had to collect and remit the GST.
+[6] Vincinzo Dizazzo, Executive Chef and President of the company, testified at the hearing. He explained that prior to 2004, he billed the residence directly for the cost of the meal plans but that as of 2004, the residence divested itself of that responsibility, and the appellant began dealing directly with the resident's clients with a view to allowing seniors over 70 to collect the tax credit offered by the Quebec government.
+[7] The witness noted that in 2004, a government official (no one was able to provide his name or the name of the agency or department he represented) came to give an information meeting that lasted only about ten minutes on how the new system worked. Besides the witness, the residence's administrator and the dining room manager also attended that meeting.
+[8] According to the witness, the information provided by the government official was incomplete and did not specify whether the price of the meal plan cards was taxable or not. The amount of taxes did not appear on the required form. The official in question mainly explained how seniors aged 70 and over could obtain a tax credit for the meals.
+[9] In addition to Mr. Dizazzo, the following persons testified at the hearing: Guylaine Curado, who was the residence's dining room manager and who attended the meeting with the government official, and Gaétane Beaulieu, auditor from the Ministère du Revenu du Québec. The testimonies revealed the following:
+(i) for the period from April 1, 2003, to December 31, 2004, the residence collected the cost of the meal plans from the its residents by incorporating it into the monthly rent and the appellant billed the residence monthly for the cost of the meals taken by the residents. The invoices were addressed to the residence and no GST was collected despite the fact that the meals were a taxable supply consumed by independent persons who were not convalescing;
+(ii) for the period from December 2004 to December 2006, the appellant dealt directly with seniors aged 70 and over who were entitled to a tax credit. The appellant sold meal plan cards to them without collecting the GST applicable to the taxable supplies. The residents paid for the cost of the meal plan card, reduced by the tax credit to be received, through a transfer from the local Caisse Populaire and the appellant therefore directly received the tax credit from the government and the cost of the meal plan cards from the local Caisse Populaire. The residence was no longer involved in the process;
+(iii) for the period posterior to 2006, the appellant collected the GST on the meal plans;
+(iv) Ms. Curado confirmed that the official who held the information session on the new system implemented in December 2004 did not discuss the applicable consumption taxes.
+[10] In addition to the above-mentioned meal plans, the appellant sold meals to convalescent persons at the residence as well as to the residence's staff members in respect of which no GST was billed. The meals represented a supply to a health-care institution was therefore an exempt or zero-rated supply. Moreover, the appellant sold meals in the residence's dining room and it billed the taxes as they were a taxable supply to independent persons under the age of 70.
+[11] In his oral argument, counsel for the appellant neither contested the amount of uncollected GST nor the taxable nature of the supply of meal plans, and simply contested the imposition of penalties by relying on the due diligence defence based on the decision rendered by the Federal Court of Appeal in Corporation de l’École Polytechnique v. Her Majesty The Queen, 2004 FCA 127. According to him, the appellant and his representatives acted with reasonable care and diligence considering the circumstances. They relied on the information provided by the person who explained to them how the new system worked and they follow the instructions provided to them. Counsel for the appellant recognized that the form to be completed to obtain the tax credit was not issued by the federal government or the Quebec government and that said form did not contain any mention of the consumption taxes to be collected and remitted to the tax authorities.
+[12] Contrary to the submissions of counsel for the appellant, I do not believe it can benefit from the due diligence defence to avoid the imposition of the penalty.
+[13] The appellant was a registrant for the purposes of the ETA and it had supplied meals to the residence since at least 1999. The appellant was familiar with the concepts of "taxable supply" and "exempt supply" as it supplied taxable meals in the dining room and non taxable meals to convalescent persons. The appellant used the services of an external accountant, Mr. Fleury, whose firm represented a number of senior residences.
+[14] I also understand that the appellant could have had some doubts about the taxable nature of the meal plans sold to the residence's residents during the period over which the residence was billed for the meal plans and was reimbursed for the cost said plans from the monthly rent paid by the residents. At the time the new system was implemented and the residence completely divested itself of the administration of the meal plans, the appellant could no longer have any doubts as t o whether the supply of meal plans to non-convalescent persons was taxable or not. It should also be mentioned that the auditor from the Ministère du Revenu du Québec stated, in her cross-examination, that she discussed the issue with Claudette Poirier, the then administrator of the residence, and that the latter told her that, after consulting with the tax expert responsible for the residence's records, she informed Messrs. Dizazzo and Fleury during a meeting held in December 2004 that the supply of meal plans to residents was a taxable supply. Without placing undue importance on the information provided by Ms. Poirier to the auditor, it appears to me that her story is very plausible and realistic considering the circumstances.
+[15] Conversely, the fact that the appellant's representative made the decision not to bill the GST on the supply of the meal plans on the sole basis of the information obtained from a public official whose name and the name of the agency he represented and his qualifications in consumption tax matters are unknown, does not appear to me to be plausible or realistic in the circumstances. I truly cannot see how the appellant can claim to have acted with the appropriate reasonable care and diligence in the circumstances especially after realizing that the form was not a form issued from the Canada Revenue Agency of the Ministère du Revenu du Québec and remained silent with respect to consumption taxes.
+[16] The following excerpt drawn from the judgment of Angers J. in Style Auto G. J. v. The Queen, 2007 TCC 597, 2008 GTC 68, shows that the fact that a taxpayer relied on the information provided by a public official is not sufficient to establish the due diligence defence:
+[15] The fact that Mr. Moujaes relied on the information provided to him by an employee of Revenu Québec is not sufficient to establish the due diligence defence. This Court also indicated in Stafford, Stafford and Jakeman v. Canada, No. 94-582(GST)I, February 13, 1995, [1995] G.S.T.C. 7, that "due diligence involves more than merely accepting, without more, some oral advice that an assessor with the Department of National Revenue may have given them," and in Wong v. The Queen, No. 94-2918(GST)I, January 9, 1996, [1996] G.S.T.C. 73, the Court stated:
+. . .Due diligence is nothing more than the degree care that a reasonable person would take to ensure compliance with the Act. It does not require perfection or infallibility. It does, however, require more than a casual inquiry of an official in the Tax Department. . . .
+[17] To conclude, the appellant did not succeed, on a balance of probabilities, in establishing the due diligence defence in respect of the penalties.
+[18] The respondent allowed that the assessment bereferred back to the Minister of National Revenue for reconsideration and reassessment to exclude the amount of $4,885.30 in uncollected GST for the period from April 1, 2003, to March 31, 2004, with penalty and interest adjustments.
+[19] The appeal is allowed in part, without costs.
+Signed at Montréal, Quebec, this 30th day of November 2009.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 18th day of January 2010.
+Daniela Possamai, Translator
+CITATION: 2009 TCC 603
+COURT FILE NO.: 2009-1172(GST)I
+STYLE OF CAUSE: 9072-1085 Québec Inc. and Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 9, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 30, 2009
+APPEARANCES:
+Counsel for the appellant:
+James A. Cocciardi
+Counsel for the respondent:
+Brigitte Landry
+COUNSEL OF RECORD:
+For the appellant:
+Name: James A. Cocciardi
+Firm: Montréal, Quebec
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

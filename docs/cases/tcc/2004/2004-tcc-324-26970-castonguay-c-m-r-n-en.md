@@ -1,0 +1,163 @@
+---
+title: "Castonguay c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26970/index.do"
+last_modified: "2004-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 324"
+citation2: ""
+neutral_citation: "2004 TCC 324"
+decision_date: "2004-05-10"
+language: "en"
+item_id: "26970"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 580
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:57.991000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "69e4d96b515a78b6c392c0e5ab79d1a4caef01dc9ce23592cbcdc0d3454becfb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Castonguay c. M.R.N.
+
+- Citation: 2004 TCC 324
+- Decision date: 2004-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 580, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Castonguay c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-10
+Neutral citation
+2004 TCC 324
+File numbers
+2003-2335(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2335(EI)
+BETWEEN:
+JEAN-ROCK CASTONGUAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 11, 2004, at Rivière du Loup, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Nancy Lajoie
+Counsel for the Respondent:
+Agathe Cavanagh
+JUDGMENT
+The appeal is allowed and the decision of the Minister of National Revenue is set aside, in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 10th day of May 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of September 2004.
+Shulamit Day, Translator
+Citation: 2004TCC324
+Date: 20040510
+Docket: 2003-2335(EI)
+BETWEEN:
+JEAN-ROCK CASTONGUAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing a decision of the Minister of National Revenue (Minister) dated June 10, 2003, stating that his employment with Marcel Castonguay (the Payor), for the periods from April 7 to 19, 1997; June 16 to September 19, 1997; June 28 to October 8, 1999; March 27 to April 22, 2000; from May 29 to September 22, 2000; April 1 to 21, 2001; July 2 to September 21, 2001; April 1 to 27, 2002 and June 17 to October 19, 2002, was not insurable employment within the meaning of paragraph 5(2)(i) and of subsection 5(3) of the Employment Insurance Act, because they would not have entered into a substantially similar agreement if the Appellant and the Payor had been dealing with each other at arm's length during the periods at issue.
+[2] In making his decision, the Minister relied on the following assumptions of fact that were admitted or denied.
+[TRANSLATION]
+(a) The Payor operates a cattle farm and a sugar bush. (admitted)
+(b) The farm has 32 breeding cows; the calves are sold. (admitted)
+(c) The farm has 150 acres under cultivation, 15 acres are oats and the rest is hay. (admitted)
+(d) The Payor acquired his father's farm. (admitted)
+(e) He also owns a sugar bush of approximately 7,500 taps and rents a second contiguous property with 5,000 taps. (denied as written)
+(f) In addition, he owns 80% of the shares in a general partnership, Érablière Marockiel, which also owns a sugar bush of approximately 9,000 taps. (denied as written)
+(g) The Appellant and Daniel Castonguay each own 10% of the shares in the partnership. (admitted)
+(h) The Appellant, the Payor and Daniel Castonguay are brothers. (admitted)
+(i) The three sugar bushes are contiguous and all their maples are connected by tubing connecting to a single evaporation plant located on the Payor's land. (denied as written)
+(j) The Payor also cuts wood on his land, which he sells to various sawmills. (admitted)
+(k) The Appellant lives with the Payor. (admitted)
+(l) The Appellant does not pay any boarding fees to the Payor but he occasionally contributes to the cost of food. (admitted)
+(m) The Appellant began working for the Payor in 1997. (admitted)
+(n) Prior to 1997, the Appellant worked on the farm for his father. (admitted)
+(o) During sugaring off, which generally lasts a month, the Appellant tours the sugar bushes, checking the tubing and making repairs. (admitted)
+(p) After sugaring off, the Appellant participates in sowing crops, repairing the fences around the fields, participates in cutting the hay and in the work related to the oat harvest and ploughing. (denied as written)
+(q) In addition, the Appellant feeds the animals in the morning and the evening, usually cuts wood during the hay harvest, if it is raining. (denied as written)
+(r) The Appellant has no work schedule and the Payor does not keep track of the hours worked. (denied)
+(s) Outside the times when he was paid, the Appellant provided services to the Payor without pay. (denied as written)
+(t) During the periods when he was recorded on the Payor's payroll, the Appellant was paid, sometimes $200, sometimes $300, and sometimes less. (denied as written)
+(u) The Payor did not pay the Appellant regularly; he waited until he had the liquidity to do so, and took up to a year before paying the Appellant the remuneration due. (denied as written)
+(v) When the Appellant was paid, the Payor paid him in cash.
+(w) The Payor did not keep any record of the wages dues to the Appellant and cannot say when the payments were made and when they were not. (denied as written)
+(x) The alleged payment of wages to the Appellant does not correspond with the Payor's payroll records. (denied as written)
+(y) The Appellant's alleged periods of work entered in the Payor's payroll records do not correspond with the Payor's periods of activity. (denied)
+(z) Between June 16, 1998 and June 26, 1999, when the Appellant was disabled as the result of an accident and did not appear on the Payor's payroll records, he was not replaced. (denied as written)
+[3] The Payor owns the family farm; the activities are described and admitted in the assumptions above. The Appellant lives with the Payor on the farm and their mother lives in the house. The Payor is responsible for the farm activities and hires the Appellant for most of the work. The Payor has outside employment and only spends time on farming activities on weekends and during holidays.
+[4] A part of the Appellant's work occurs during sugaring off. He is responsible for repairing the tubing, preparing the equipment and working when the sugar bush is operating. The duration of these activities depends on the weather, but they usually take place from the end of March to the end of April. After this period, the Appellant receives employment insurance benefits until sowing season, after the thaw. At that time, his work involves repairing fences, seeding the fields and maintaining the agricultural equipment. He works five days a week and the Payor requires at least 40 hours of work per week. The Appellant is familiar with his duties and knows what he must do. Once the harvest is over and the animals have returned to the stable for the winter, his work ends. This also depends on the weather.
+[5] According to the explanation provided by the Payor, the length of periods at issue varies because the work depends heavily on the weather. According to the Payor, in 1998, the Appellant worked during sugaring off but was unable to work during the summer because he had a serious accident and had been hospitalized for a month. In fact, the Appellant has had memory problems since this accident. Since the Payor was unable to find someone reliable, he did not replace the Appellant. It was not until June 1999 that the Appellant was able to return to his work with his doctor's approval. The Payor does not remember why the Appellant did not start work until July 2 in 2001. On the other hand, in 2002 he remembers having extended the Appellant's employment until October 19 because he had undergone surgery on his knee. Between the periods of employment, the Appellant did not work but he sometimes did errands for the Payor.
+[6] The Payor always paid the Appellant in cash. According to the explanation provided, even when his father operated the farm, that was how things were done. The Payor paid the Appellant 200 to 300 dollars per week, but the payments depended on the working capital. The Payor could take three to four weeks to pay the arrears. The Payor mentioned that the Appellant did not pay any boarding fees to live with him but he does contribute to grocery purchases and he pays for his personal expenses.
+[7] Since the 2002 audit, the Payor has paid the Appellant by cheque and the Appellant has not received any employment insurance benefits. The Appellant continued to work during more or less the same periods.
+[8] The Appellant confirmed the Payor's testimony. He stated that, from the time his father had operated it, he had always worked on the family farm. His work periods included the sugaring off, sowing and harvesting seasons. The Payor told him when to start. The hours of work in a day depended upon the weather, and what work was to be done. Some days were long and others were shorter. He did not remember the salary he received at the beginning, but he believes that he now receives $300 net per week. Until 2001, his wages were always paid in cash.
+[9] Investigator Pierre Savoie analyzed all the documentation relevant to the Appellant's employment and met with the Payor and his sister Cécile April, who was responsible for the payroll records. He also reviewed the Payor's bank accounts and concluded that, in some years, there were not enough withdrawals to justify the Appellant's wages. He noted that the Appellant was unable to tell him whether he had received his pay in its entirety. During the meeting between the investigator and the Payor, they discussed the issue of bank withdrawals that were insufficient to cover the Appellant's wages. The Payor stated that, according to the notes in the records, the Appellant had received his wages. The investigator concluded that the Appellant could not have received his full wages since the withdrawals indicated on the cash flow summaries were less than the alleged payments.
+[10] The appeals officer, Louise Dessureault, examined the investigator's work and met with the Payor and the Appellant. She understood from this encounter that this is a livestock farm and that the cows calve in April, during sugaring off. Oats are sown on 15 acres. The hay is not sown, but is cut at the end of July and the hay harvest lasts a month and a half. The fences have to be repaired and the electrical installations set up. During the summer, the grain is harvested at the end of August and wood cut between sowing and harvesting. The Appellant's days start at around 8 a.m. and stop when he has had enough. Therefore, he did not have a pre-set schedule. Since farm income is not consistent, the Payor gives himself time to pay the Appellant's wages. The Payor does not keep records of the amounts due to his brother.
+[11] The appeals officer prepared audit tables (Tab 2 of Exhibit I-1) for each of the periods and years at issue. These tables summarize the facts with respect to the Appellant's net wages, the deposits to his bank accounts and the Payor's withdrawals during the same period. The table also indicates the number of invoices signed by the Appellant for the Payor outside the periods of employment.
+[12] It is the responsibility of the Appellant to establish, on the balance of the probabilities, that, in light of the evidence submitted, the Minister's decision was not reasonable and that the Appellant would have entered into a substantially similar contract of employment with the Payor had there been an arm's length relationship between them. The role of the Minister and of the Court was established by the Federal Court of Appeal in Légaré v. Canada [1999] F.C.J. No. 878 (Q.L.). Justice Marceau summarized this role as follows, at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[13] The Federal Court of Appeal repeated its position in Pérusse v. Canada, [2000] F.C.J. No. 310 (Q.L.). Justice Marceau, referring to the passage from Légaré, supra, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[14] The evidence demonstrated that the Appellant did in fact work for the Payor during the employment periods and that these periods could vary according to weather conditions and the peculiarities of agriculture. The Appellant was paid as a function of an average 40-hour work week and each week of work was recorded in the payroll. Given the circumstances, it is understandable that the Appellant did not have a set work schedule.
+[15] Sub-paragraph 5(s) of the Reply to the Notice of Appeal was confirmed by the evidence. The Appellant did in fact render services to the Payor without pay. However, considering the fact that the Appellant lived with the Payor year round without contributing to expenses, and considering the position of the Federal Court of Appeal in Théberge v. M.N.R., 2002 FCA 123, in which Justice Décary, in a context similar to that in this case, concluded that this fact has little relevance in certain circumstances and stated:
+What a claimant does outside the period during which he or she is employed in what the Minister considers to be insurable employment can be relevant, for example, to verify that the claimant is unemployed, to determine the amount of his or her benefits, or to establish his or her period of unemployment. However, for the purposes of the exception provided in paragraph 3(2)(c) of the Act, what a claimant does outside of his or her period of employment will be of little relevance when, as in this case, it is not alleged that the salary paid during the period of employment took into account the work performed outside of that period, that the applicant had included, in the hours spent on his or her insurable employment, hours worked outside of the period, or that work performed outside of his or her period of employment had been included in the work performed during his or her period of employment. It seems to me to be self-evident, and this is confirmed by the evidence, that in the case of family businesses engaged in seasonal work, the minimal amount of work that remains to be done outside the active season is usually performed by family members, without pay. Excepting seasonal employment, in a family farm business, on the ground that cows are milked year-round amounts, for all practical purposes, to depriving family members who qualify by working during the active season of unemployment insurance and to overlooking the two main characteristics of such a business: that it is a family business and a seasonal business.
+[16] In this case, no similar allegation was presented.
+[17] Sub-paragraphs 5(t), (u), (v), (w), (x) and (y) of the Reply to the Notice of Appeal primarily address the frequency and mode of the Appellant's payment, and the issue of determining whether payment had really been made. No comments were made about the Appellant's weekly rate of pay. The Minister was more interested in the net amount received by the Appellant (which varied between $200 and $300 per week), the fact that payments were made in cash, the fact that the payments were irregular and inconsistent with the payroll records, and that the Payor and the Appellant did not keep track of these things. Finally, the Minister held that the weeks entered in the payroll records were not consistent with the Payor's periods of activity.
+[18] These statements were repeated in the conclusions of the appeals officer's report, when she considered the factors mentioned in paragraph 5(3)(b) of the Employment Insurance Act. According to the officer, with respect to the issue of remuneration, an analysis of withdrawals from the Payor's bank accounts and the deposits made by the Worker to his personal bank accounts shows that the payment of wages did not coincide with the payroll records. Moreover, she repeated this exercise for each of the periods at issue in order to demonstrate that, not only were the Payor's withdrawals inconsistent with the wages paid to the Appellant, but the Appellant had not deposited sufficient amounts in his bank accounts during his periods of employment. However, the evidence revealed that, from the time that their father had owned the farm, all financial transactions were made in cash and the Payor and Appellant simply continued to conduct their business in this manner until 2002, when the audit occurred.
+[19] The Payor explained that he had paid the Appellant in cash using the amounts he had available. The Appellant's wages were reasonable and they were recorded in the payroll log. In this case it seems that the Payor and the Appellant had reached what seemed to be a satisfactory agreement with respect to the payment of wages. It must be taken into consideration that the Appellant lived with the Payor and that the Payor would sometimes withhold certain amounts from the wages paid because the Appellant did not pay any boarding fees. The Appellant also agreed to be paid later when his brother had the means. The Payor testified that he paid the Appellant everything he was owed and this arrangement seemed to have been to the Appellant's liking.
+[20] Given the circumstances in this case, in my opinion it would be incorrect to conclude that the Appellant did not receive his full wages, based on the bank withdrawals and deposits, on the fact that he was not paid on a regular basis or on the fact that the parties did not keep a record of what was owed to the Appellant. An arm's-length employee could find himself in a similar situation. In this case, the payroll records clearly establish the weeks worked and the wages earned by the Appellant.
+[21] With respect to the terms and conditions of employment, the Appeals Officer concluded that it was unreasonable to believe that a worker at arm's length would have worked without a work schedule and would have been given as much freedom. Furthermore, an arm's-length Worker would have been paid as a function of his effort and hours worked. However, the evidence demonstrated that the work on the farm and in the sugar bush depended a great deal on weather conditions and that it is almost impossible to have pre-set schedules for this reason. It must also be recalled that the Appellant was familiar with the work he had to perform and that he was paid on the basis of an average of hours worked. In this case, it would therefore be difficult to establish a work schedule when the weather dictates the days on which work must be performed.
+[22] Are the Appellant's periods of employment consistent with the Payor's activities? The Payor's activities can be summarized as follows. There is the sugaring off season from the end of March to the end of April, depending upon the weather and the number of taps to be set. At the end of May or the beginning of June, after the thaw, crops are sown, and the equipment and fences need repair and maintenance. The hay has to be made, the grain harvested and the animals taken care of. When the animals are put in the stable because there is nothing left in the fields for grazing, the Appellant's work ends.
+[23] In 1997, the Appellant worked for 16 weeks: two weeks during sugaring off and 14 weeks from mid-June to mid-September. The Appellant explained that there were only 4,000 taps to be set that year and that sowing had been delayed because of a late thaw.
+[24] In 1998, the Appellant worked four weeks in March and April in the sugar bush. On June 16, 1998, when he was cutting wood to heat the house, he was injured and was inactive until June 26 of the following year. The Payor did not replace him during the summer. Since he was unable to find someone reliable, and since he was too busy with the farm work, the Payor was not able to replace the Appellant.
+[25] In 1999, the Appellant returned to work for 15 weeks from June 27 to the beginning of October. According to the explanation provided by the Payor, he delayed hiring the Appellant because he needed the doctor's approval first.
+[26] In 2000, the Appellant worked four weeks during sugaring off and 17 weeks from the end of May to mid-September. In 2001, the Appellant worked 15 weeks, three weeks in the sugar bush and 12 weeks during the period from July 2 to September 26. The Payor does not remember why the Appellant started work later than usual.
+[27] In 2002, the Appellant worked 20 weeks, four weeks during sugaring off, two weeks in June and 14 weeks during the period from July 14 to October 25. The Payor explained that the Appellant worked later than usual because he needed his services as a result of knee surgery.
+[28] From this analysis I understand that, during the periods at issue, there was a variation of no more than two weeks between the periods of employment, with the exception of 2001 and 2002. In 1998, the Appellant did not work due to an accident, and for the 2001 and 2002 employment periods, the Payor provided no explanation except for the end of the period for 2002. With respect to sugaring off, the duration of the employment was in keeping with weather conditions and the number of taps to be set during the season. The same can be said for the second employment period. The thaw, the weather, the number of repairs and maintenance work to be done, in addition to putting the herd in the stable for the winter, all of these are factors that can easily explain the duration of the employment as a function of the employer's needs.
+[29] In my opinion, the nature and importance of the Appellant's work to the Payor's activities is significant enough to justify hiring him. The Minister seems to conclude that the Payor's agricultural income did not justify hiring an employee, particularly so because he did not need to replace him for the summer in 1998 and for the sugaring off in 1999. The Payor explained that, during the sugaring off in 1999, he was assisted by another of his brothers, Daniel, and a brother-in-law. During the summer of 1998, he did the work himself and had to work harder. I accept the Payor's explanations with respect to these two periods.
+[30] After analyzing all the evidence presented by the Appellant, the terms and conditions of employment, the remuneration paid, the duration, nature and importance of the work, I conclude that the Minister did not correctly assess all the facts in this case. His conclusion does not seem reasonable. For the reasons given, I conclude that the terms and conditions of employment, the duration, the remuneration paid and the nature and importance of the work would have been substantially similar even if there had been an arm's length relationship. The appeal is allowed and the decision of the Minister is set aside.
+Signed at Ottawa, Canada, this 10th day of May 2004.
+"François Angers"
+Angers J.
+Translation certified true
+on this 28th day of September 2004.
+Shulamit Day, Translator

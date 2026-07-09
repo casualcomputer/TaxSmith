@@ -1,0 +1,155 @@
+Title: Ville de Gatineau v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29131/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-130-29131-ville-de-gatineau-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-04
+
+# Ville de Gatineau v. The Queen
+
+- Citation: 2009 TCC 130
+- Decision date: 2009-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6631, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ville de Gatineau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-04
+Neutral citation
+2009 TCC 130
+File numbers
+2007-2623(GST)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-2623(GST)G
+BETWEEN:
+VILLE DE GATINEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 12, 2009, at Ottawa, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated March 1, 2006, is allowed, in part, with costs to the Respondent, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of March 2009.
+“B.Paris”
+Paris J.
+Citation: 2009 TCC 130
+Date: 20090319
+Docket:2007-2623(GST)G
+BETWEEN:
+VILLE DE GATINEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment signed on March 4, 2009 to amend the amount set out in paragraphs 7 and 29. In all other respects, the Reasons for Judgment remain the same.)
+Paris, J.
+[1] This is an appeal from an assessment under Part IX of the Excise Tax Act (the “Act”) which disallowed input tax credits (“ITCs”) claimed by the Appellant under subsection 169(1) of the Act.
+[2] The Appellant was established on January 1, 2002 by amalgamation of the cities of Aylmer, Buckingham, Gatineau, Hull and Masson-Angers. By virtue of the amalgamation, the Appellant took over from the Communauté urbaine de l’Outaouais (“CUO”) as owner and operator of a waste water treatment plant that processes waste water collected from Aylmer, Gatineau and Hull. An addition to the plant converts the solid waste (referred to as “sludge”) that is produced from the waste water into fertilizer pellets that are sold to third parties. The Appellant receives approximately $60,000 a year from the sale of the fertilizer pellets.
+[3] The Minister of National Revenue (the “Minister”) accepts that the part of the water treatment process by which the sludge is converted into fertilizer pellets is a commercial activity carried on by the Appellant and he has allowed the Appellant full ITCs for the GST paid by it on supplies used to operate that part of the water treatment plant. The Minister also allowed the Appellant a public service body rebate under section 259 of the Act amounting to 57.14% of the total GST in operating the remaining part of the plant.
+[4] The Appellant has claimed additional ITCs of $138,576.83 in respect of supplies acquired to operate the treatment plant from 2002 to 2004 and $770,119.48 in respect of supplies acquired for capital additions to the plant from 1991 to 2004. These amounts represent the difference between the ITCs that have already been allowed by the Minister and 100% of the GST paid by the Appellant on expenditures incurred to run the entire plant and on all capital expenditures related to it.
+[5] The Minister denied the claim for additional ITCs on the basis that the water treatment operations (except for the production of the fertilizer pellets) were a supply of a municipal service made by the Appellant to the owners or occupants of property in its territory and were therefore an exempt supply under section 21 of Part VI of Schedule V to the Act.
+[6] The Appellant takes the position that none of the activities carried on at the treatment plant is an exempt supply.
+Concessions
+[7] At the hearing, the Respondent conceded that there was an error in the calculation of the allowable ITCs relating to the processing of the sludge into fertilizer pellets and that the Appellant was entitled to an additional $2,756.29 of ITCs for this part of the process.
+[8] The Appellant conceded that it was not entitled to any ITCs on capital expenditures on the water treatment plant from 1991 to December 31, 2001, since it was not the owner of the treatment plant during that period of time. According to counsel for the Respondent if the former owner, the CUO, was entitled to any ITCs in relation to the capital expenditures on the water treatment plant from 1991 to 2002, this would be reflected in a calculation of the basic tax content of the plant at the time it was transferred to the Appellant. If I find that the water treatment activities in issue were not exempt supplies, the parties agree that the matter should be referred back to the Minister for re-determination of the basic tax content of the plant at the material time.
+Legislation
+[9] In order to receive ITCs, a registrant must have paid GST on a property or a service acquired for consumption, use or supply in the course of the registrant's commercial activities. This is set out in subsection 169(1) of the Act:
+169. (1) General rule for [input tax] credits -- Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[10] "Commercial activity" includes a business carried on by a person, except to the extent to which the business involves the making of exempt supplies. The full definition of is set out as follows in subsection 123(1) of the Act:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure or concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[11] The term "exempt supply" is defined in subsection 123(1) of the Act to mean “a supply included in Schedule V” to the Act.
+[12] Under section 21 of Part VI of Schedule V, any supply of a municipal service that is made by a municipality to occupants of real property in its territory and which they have no option but to receive is an exempt supply. That section reads as follows:
+21. [Municipal services] -- A supply of a municipal service, if
+(a) the supply is
+(i) made by a government or municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area, or
+(ii) made on behalf of a government or municipality to a recipient that is an owner or occupant of real property situated in a particular geographic area and that is not the government or municipality;
+(b) the service is
+(i) one which the owner or occupant has no option but to receive, or
+(ii) supplied because of a failure by the owner or occupant to comply with an obligation imposed under a law; and
+(c) the service is not one of testing or inspecting any property for the purpose of verifying or certifying that the property meets particular standards of quality or is suitable for consumption, use or supply in a particular manner.
+Issue
+[13] The issue in this appeal is whether the water treatment done at the treatment plant (except to the extent that it produced fertilizer pellets) is a supply “made... to a recipient that is an owner or occupant of real property situated in a particular geographic area” in accordance with the wording of paragraph 21(a)(i) of Part VI of Schedule V. If it is, it is an exempt supply, and is not a commercial activity of the Appellant and does not give rise to ITCs.
+[14] The Appellant concedes that if the water treatment activity is found to be a supply made to the owners or occupants of property in the Appellant’s territory, the remaining conditions of section 21 have been met and the supply would be an exempt supply and that it would not be entitled to the ITCs in issue.
+[15] The Respondent attempted to argue, in the alternative, that the water treatment activity was an exempt supply under section 10 of Part VI of Schedule V to the Act, which deals with supplies made by a public service body for no consideration, but this was not raised in the Reply to Notice of Appeal and no request to amend the Reply was made. I therefore decline to deal with that issue.
+Facts
+[16] In an earlier GST appeal[1], the previous original owner and operator of the treatment plant, the CUO, challenged the Minister’s disallowance of its claim for ITCs for all GST paid on supplies used in the entire operation of the plant for the years 1998, 1999 and 2000. The plant operated in the same manner as the years under appeal here, and produced and sold fertilizer pellets. However, in those years the CUO was a separate legal entity from the cities of Aylmer, Hull and Gatineau and the provision under which the ITCs were disallowed was different from the one in issue before me. The Minister relied on section 28 of Part VI of Schedule V to the Act, which provides that “a supply between... a regional municipality and any of its local municipalities or any para-municipal organization of any of those local municipalities” is an exempt supply. Since the amalgamation of the CUO and the five municipalities in 2002 into a single entity - the Appellant - section 28 is no longer applicable to the water treatment plant operations.
+[17] The parties agreed to make evidence from the previous appeal which described how the water treatment plant operates evidence in these proceedings. A copy of the transcript of the testimony of Mr. Jacques Nadeau, who at that time was Director of Water Treatment Services for the Appellant, was entered into the record.
+[18] According to Mr. Nadeau, waste water is collected through the sewer system in Aylmer, Gatineau and Hull and forwarded to the treatment plant. At the plant, the waste water undergoes two stages of screening to remove debris, and is sent through grit removers to take out fine gravel, sand and mineral particles. The water then flows into settling tanks. The sludge that settles on the bottom of the tanks is pumped to a treatment unit, where it is aerated to promote the growth of micro‑organisms. The mixture is allowed to settle, and the water that is separated and purified in the process is pumped into the Ottawa River. The settled sludge is extracted, thickened through various procedures, concentrated and dried. Most of the dried sludge is made into pellets that are sold for agricultural purposes, although anywhere from 13 to 27 per cent of it is buried. Prior to the addition of the pelletization facilities and related equipment all of the dried sludge was buried. Sales of the fertilizer pellets ranged from $30,000 to $60,000 per year.
+[19] Ms. Louise Lavoie, Director of Environmental Services testified for the Appellant. She confirmed that Mr. Nadeau’s description of the water treatment process was still accurate for the periods under appeal and the fertilizer sales were in the same range. She testified that the property tax bills sent out by the Appellant to property owners did not specify any amount as payable for water treatment services, and that the operating costs for the treatment plant were taken from general revenues. She also stated that in her view the property owners did not care about what the Appellant did with the waste water after it left their property.
+[20] In cross-examination, Ms. Lavoie said that the property owners had no choice but to have their waste water treated by the Appellant, because once the water was collected by the sewer system it was sent to the treatment plant for treatment.
+Appellant’s arguments
+[21] The Appellant takes the position that the activities of collecting waste water from the owners or occupants of property in the Appellant’s territory are separate and distinct from the subsequent treatment of the water at the treatment plant and that the owners or occupants of real property were not the “recipients” of any service from the Appellant beyond the collection of the waste water. Counsel referred to the definition of “recipient” in subsection 123(1) of the Act:
+"recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+[22] Since it was agreed by the parties that the owners or occupants of property in the Appellant’s territory did not pay for any waste water treatment, they could only be the recipient of the service if they fell within subparagraph 123(1)(c)(iii) of the definition of “recipient” and were persons to whom the service was “rendered”. Counsel for the Appellant referred to an editorial note written by David Sherman, the well-known GST author, in the case of Invera Inc. v. The Queen, [2005] G.S.T.C. 163-1 in which Sherman commented that a service is rendered to an individual if the individual receives the supply personally.
+[23] The Appellant’s counsel says that the owners or occupants of property in the Appellant’s territory do not receive any water treatment services personally, and therefore that no water treatment services are “rendered to” them as required by subparagraph 123(1)(c)(iii) of the definition of “recipient” in subsection 123(1) of the Act, and therefore that they are not the recipient of that service. Counsel submitted that no service was rendered to property owners or occupants by cleaning the waste water and returning the clean water to the river. He said that this was a common-sense view of what took place at the treatment plant and was supported by the evidence of Ms. Lavoie who said that the owners and occupants did not care what happened to the waste water once it left their homes. In addition, they did not receive any of the clean water back.
+Analysis
+[24] I do not agree that the owners and occupants of property in the Appellant’s territory are not the recipient of the water treatment service performed at the treatment plant. The owners or occupants of properties that are connected to the Appellant’s sewers are obliged to send their waste into the sewer system that has been set up by the Appellant. That system includes a water treatment process. All water that goes into the sewer system is treated at the plant, and therefore the owners or occupants, by sending waste water into the sewer are at the same time sending the water for treatment. An owner or occupant of property cannot have their waste water collected without having the water treated at the plant to remove the waste. Therefore, the service supplied to the owners and occupants is a comprehensive one, entailing both collection and treatment.
+[25] Despite the views of Ms. Lavoie, one would like to think that the residents of the Appellant do care about what happens to the waste that they send into the sewer system, and would choose to have the water cleaned, but even if they did not, they are still required to use a system that includes the waste water treatment plant.
+[26] With respect to the case comment in Invera cited by the Appellant, it appears to me that Mr. Sherman was making the point that a service is only rendered to a person within the meaning of subparagraph 123(1)(c)(iii) of the definition of “recipient” in section 123 if that person receives the service for his or her own benefit, rather than for the benefit of someone else such as an employer. The relevant portion of the casenote reads as follows:
+References to a supply “made to” a person are to the person being the “recipient” of the supply as defined in subsection 123(1), as provided in the closing words of that definition. The definition of “recipient” refers to the person who is legally obligated to pay for the supply. Thus a supply is “made to” an individual if that individual is required to pay for it (usually measured by being invoiced for it). A supply is “rendered to” an individual if the individual receives the supply personally. Nevertheless, where an employee receives a supply for purposes of their employment duties, the supply should be considered rendered to the employer.
+[27] In this case the owners and occupants receive the benefit of the waste water system by being able to dispose of their waste water into it. Use of the system frees them from having to deal with the waste themselves. They receive the benefit of the water treatment service provided by the Appellant and are the recipients of it within the meaning of that term in section 123 of the Act.
+[28] This conclusion is sufficient to dispose of the appeal.
+[29] The appeal is allowed in part to allow additional ITCs of $2,756.29 as conceded by the Respondent, and costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 19th day of March 2009.
+“B.Paris”
+Paris J.
+CITATION: 2009 TCC 130
+COURT FILE NO.: 2007-2623(GST)G
+STYLE OF CAUSE: VILLE DE GATINEAU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: February 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF AMENDED JUDGMENT: March 4, 2009
+DATE OF AMENDED REASONS
+FOR JUDGMENT: March 19, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Michael Kaylor
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael Kaylor
+Firm: Lapointe Rosenstein LLP
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Ville de Gatineau v. The Queen 2005 TCC 358. As a result of the amalgamation on January 1, 2002, the City of Gatineau succeeded the CUO as the Appellant in that appeal.

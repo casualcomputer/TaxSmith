@@ -1,0 +1,157 @@
+Title: Trom Electric Co. Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22825/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-727-22825-trom-electric-co-ltd-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-11-30
+
+# Trom Electric Co. Ltd. v. The Queen
+
+- Citation: 2004 CCI 727
+- Decision date: 2004-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trom Electric Co. Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-30
+Référence neutre
+2004 CCI 727
+Numéro de dossier
+2000-2619(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2619(IT)G
+ENTRE :
+TROM ELECTRIC CO. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Toronto (Ontario), les 23 et 24 août 2004.
+Devant : L'honorable B. Paris
+Comparutions :
+Avocats de l'appelante :
+Me Ian Morris
+Me Robert D. Winters
+Avocate de l'intimée :
+Me Lesley L'Heureux
+JUGEMENT
+L'appel de nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993 et 1994 est admis avec dépens et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvelle cotisation et nouvel examen selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 20e jour de juillet 2005.
+Sara Tasset
+Référence : 2004CCI727
+Date : 20041130
+Dossier : 2000-2619(IT)G
+ENTRE :
+TROM ELECTRIC CO. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelante est une entreprise en électricité; elle est établie depuis environ 25 ans dans la région de Toronto. De son propre aveu, elle a commis certaines erreurs en déclarant son revenu dans les années comprenant les années d'imposition 1989 à 1994. Plus précisément, ces erreurs se rapportaient à la façon dont l'appelante avait traité certains montants retenus en vertu du privilège du constructeur, qu'elle ne pouvait pas exiger de ses clients avant l'expiration d'un délai déterminé après l'achèvement des travaux. L'appelante a déduit les montants des retenues qui lui étaient dus à la fin de son exercice et elle a inclus ces montants dans le revenu de l'exercice suivant.
+[2] Les erreurs en question ont été portées à l'attention du ministre du Revenu national (le « ministre » ) en 1995, à un moment où les années d'imposition de l'appelante, jusqu'à 1991, étaient frappées de prescription.
+[3] Le ministre a établi de nouvelles cotisations pour les années d'imposition 1992, 1993 et 1994 de l'appelante en vue de corriger les erreurs. Pour les années d'imposition 1993 et 1994, le ministre a annulé la déduction des montants retenus ainsi que l'inclusion dans le revenu des montants retenus de l' année précédente. Toutefois, pour l'année d'imposition 1992, il a uniquement annulé la déduction des montants retenus. Le montant de la déduction relative aux retenues de l'année précédente que l'appelante avait par erreur inclus dans son revenu en 1992, lequel s'élevait à 533 870 $ en tout, a été laissé dans le revenu. Le ministre affirme que l'appelante ne peut pas maintenant alléguer que le montant n'a pas été inclus de la façon appropriée dans son revenu de cette année-là.
+[4] L'appelante a interjeté appel des nouvelles cotisations relatives à ses années d'imposition 1992, 1993 et 1994, mais le litige est axé sur la nouvelle cotisation relative à l'année d'imposition 1992. L'appelante affirme que le ministre est tenu d'établir une nouvelle cotisation en vue d'enlever les montants retenus en 1991 qu'elle avait par erreur inclus dans son revenu de 1992. Subsidiairement, elle affirme que, si le ministre n'est pas tenu d'annuler le montant inclus en 1992, il ne devrait pas être autorisé à annuler les déductions relatives aux retenues et les montants inclus qu'elle a initialement déclarés, et que toutes les années visées par l'appel devraient donner lieu à de nouvelles cotisations en conséquence.
+[5] La Cour doit principalement décider si le principe d'irrecevabilité-
+(estopel)s'applique eu égard aux circonstances de l'affaire. Pour les motifs qui sont ci-dessous énoncés, je conclus que ce principe ne s'applique pas. Cela étant, il n'est pas nécessaire d'examiner l'argument subsidiaire invoqué par l'appelante.
+Historique
+[6] Les retenues en question sont fondées sur la Loi sur le privilège dans l'industrie de la construction[1], qui exige que le client qui a conclu un contrat de construction fasse une retenue égale à 10 p. 100 des montants qui sont payables en vertu du contrat pendant les 45 jours qui suivent la date de l'achèvement des travaux ou la date à laquelle il est attesté que les travaux sont achevés pour l'essentiel. Avant l'expiration de ce délai, une personne qui a fourni des services ou des matériaux aux termes du contrat et qui n'a pas encore été payée peut faire enregistrer un privilège sur la propriété où les travaux ont été exécutés. Les retenues protègent donc les sous-traitants et les fournisseurs à l'égard des sommes que l'entrepreneur leur doit.
+[7] Comme il en a ci-dessus été fait mention, l'appelante, de son propre aveu, a omis de rendre compte correctement des sommes à recevoir au titre des retenues à la fin de ses années d'imposition 1989 à 1994.
+La preuve
+[8] On ne sait pas trop ce qui a amené l'appelante à traiter les retenues comme elle l'a fait. La preuve montre que la comptabilité de l'appelante était passablement désorganisée jusque vers l'année 1994. L'entreprise a changé de comptables vers la fin de l'année 1991, et elle a produit des déclarations de revenus modifiées pour ses années d'imposition 1989 à 1991, en vue de rajuster les comptes relatifs aux ventes, au coût des marchandises vendues, aux recettes non facturées et aux travaux en cours. Les nouveaux comptables de l'appelante ont rajusté le montant des bénéfices non répartis au début de l'exercice dans les états financiers, en 1992, en vue de corriger un certain nombre d'erreurs comptables, notamment des erreurs dans la constatation des produits et dépenses associés aux contrats en cours[2]. Les comptables ont apporté d'autres corrections importantes aux périodes antérieures dans les états financiers de l'année 1994 de l'appelante, où figure la déclaration suivante :
+[traduction] Une série d'erreurs comptables ont été commises en 1991 et auparavant, les montants y afférents ayant antérieurement été enregistrés en tant que rajustements afférents à une période antérieure. De plus, dans l'année courante, on a également découvert des erreurs dans le calcul effectué selon la méthode de l'avancement des travaux aux fins de la constatation des produits pendant toute la période allant de 1989 à 1993. Les états financiers ont été rajustés rétroactivement pour l'année 1991 et les années antérieures, ainsi que pour les années 1992 et 1993, en vue de corriger ces erreurs et de tenir compte des conséquences fiscales en résultant[3].
+[9] Il est clair que les erreurs commises par l'appelante en ce qui concerne les retenues n'ont pas été décelées au moment de la production des déclarations modifiées concernant les années d'imposition 1989 à 1991 ou au cours de la vérification de ces déclarations par le ministre. De fait, l'erreur a uniquement été découverte en 1995 dans le cadre de la vérification des années d'imposition 1992 et 1993 de l'appelante. Selon la preuve, l'année d'imposition 1991 de l'appelante avait initialement donné lieu à une cotisation le 6 septembre 1991 et cette année est donc frappée de prescription depuis le 6 septembre 1994.
+[10] L'appelante et l'intimée ont chacune cité un expert comptable pour témoigner au sujet des modalités de calcul du revenu tiré des contrats de construction selon les principes comptables généralement reconnus (les « PCGR » ). Les deux experts ont convenu que selon les PCGR, les entrepreneurs en construction pouvaient employer deux méthodes afin de calculer le revenu : la méthode de l'avancement des travaux et la méthode de l'achèvement des travaux.
+[11] Essentiellement, selon la méthode de l'avancement des travaux, une partie des bénéfices tirés des contrats de construction est comptabilisée à la fin de chaque exercice pendant lequel les contrats sont en cours. Les bénéfices qui sont inclus dans le revenu de l'exercice sont fondés sur le pourcentage des travaux achevés au moment pertinent, une fois déduits certains montants qui ne sont pas considérés comme « recevables » à la fin de l'exercice. Par contre, selon la méthode de l'achèvement des travaux, les bénéfices tirés du contrat ne sont pas comptabilisés avant la fin de l'exercice dans lequel les travaux sont achevés.
+[12] Dans ses états financiers, l'appelante a employé la méthode comptable de l'avancement des travaux pour déclarer son revenu. En déclarant le revenu aux fins de l'impôt, l'appelante a employé la méthode comptable de l'achèvement des travaux[4], comme le ministre le permet lorsque l'on peut avec raison s'attendre à ce que les contrats auxquels le contribuable a travaillé soient achevés dans les deux ans qui suivent la date à laquelle ils ont commencé[5]. L'intimée a admis que l'appelante avait le droit de déclarer ainsi son revenu.
+[13] Afin d'arriver au revenu aux fins de l'impôt (et de toute évidence de passer de la méthode de l'avancement des travaux à la méthode de l'achèvement des travaux), l'appelante a apporté certains rajustements au revenu indiqué dans ses états financiers. Ces rajustements comportaient la déduction des montants retenus impayés à la fin de l'exercice, y compris les montants retenus qui avaient été déduits à la fin de l'exercice précédent. C'est alors que les erreurs en question ont été commises.
+[14] Les deux experts ont témoigné que le rajustement des retenues avait été effectué par erreur et que la méthode comptable de l'achèvement des travaux ne permet pas la déduction des montants retenus qui sont impayés à la fin de l'exercice dans la détermination du revenu. L'appelante ne conteste donc pas que, dans le calcul de son revenu aux fins de l'impôt, elle n'avait pas le droit de déduire les montants retenus qui lui étaient dus à la fin de chaque exercice.
+[15] Dans son rapport, l'expert de l'intimée a indiqué que, selon les PCGR, l'erreur commise, en déduisant le montant des retenues, serait corrigée d'une façon rétroactive, et que les revenus nets des années antérieures seraient rétablis. Les étapes précises qu'il faut suivre pour corriger l'erreur ont été énoncées comme suit :
+[traduction]
+1. Augmenter le revenu de l'exercice courant en rajoutant le montant de la déduction qui a erronément été effectuée au titre des retenues de l'année courante.
+2. Réduire le revenu de l'exercice courant en déduisant le montant déduit au titre des retenues dans l'exercice précédent, qui aurait erronément augmenté le montant du revenu de l'année en cours, une fois les conditions des retenues réglées[6].
+[16] L'expert de l'appelante était d'accord pour dire que les erreurs relatives aux retenues devaient être corrigées en annulant les montants déduits et les montants inclus dans toutes les années. Il a indiqué que dans le cas d'un contribuable qui emploie la méthode comptable de l'achèvement des travaux, la déduction des montants recevables au titre des retenues dans une année et leur inclusion dans le revenu de la seconde année entraînerait une sous-estimation des bénéfices réalisés au cours de la première année et une surestimation du revenu réalisé au cours de la seconde année.
+Position des parties
+[17] L'intimée ne conteste pas la thèse selon laquelle le contribuable qui emploie la méthode comptable de l'achèvement des travaux aux fins de l'impôt sur le revenu ne peut pas déduire les montants retenus qui ne sont pas encore payés, et que l'inclusion correspondante dans le revenu des montants retenus dans l'année suivante est contraire aux PCGR.
+[18] Toutefois, l'intimée déclare que l'appelante ne peut pas maintenant affirmer que les montants déduits au titre des retenues en 1991 ont été déduits par erreur en 1991 et qu'ils ont été rajoutés par erreur dans le revenu de l'année d'imposition 1992. Les éléments du principe d'irrecevabilité, soit la présentation, la prise en compte de cette présentation et le préjudice, ont été prouvés : l'appelante a fait une présentation dans sa déclaration de revenus de l'année 1992 en incluant dans son revenu les montants retenus qui étaient impayés à la fin de l'année 1991 dans sa déclaration de revenu de l'année 1992; le ministre s'est fondé sur cette présentation en établissant une nouvelle cotisation en vue d'inclure ce montant dans le revenu de l'année d'imposition 1992 de l'appelante, et ce, à son détriment, parce que l'année dans laquelle le montant aurait dû être déclaré (à savoir l'année 1991) est maintenant frappée de prescription. L'avocate affirme que si la nouvelle cotisation dont la Cour est saisie n'est pas confirmée, l'appelante échappera à un impôt sur le montant de la déduction effectuée au titre de la retenue en 1991 parce que le ministre ne peut pas établir de nouvelle cotisation en vue de rajouter ce montant dans le revenu de 1991 de l'appelante.
+[19] L'appelante soutient que le principe d'irrecevabilité ne s'applique pas en l'espèce parce que la présentation concernant son revenu était une présentation de nature juridique. Elle cite la décision rendue par la Cour suprême du Canada dans l'affaire CanderelLtd. c. La Reine[7]comme faisant autorité à l'appui de la thèse selon laquelle la détermination du revenu du contribuable en vertu de la Loi de l'impôt sur le revenu est une question de droit. L'appelante affirme que les erreurs qu'elle a commises en déclarant son revenu en 1992 doivent être corrigées en annulant la déduction de la réserve afférente aux retenues et en annulant le montant inclus au titre de la réserve afférente aux retenues de l'année précédente. Le ministre n'est pas autorisé à annuler un montant sans annuler l'autre simplement parce que l'année 1991 est maintenant frappée de prescription. L'appelante affirme que le revenu est déterminé sur une base annuelle et que l'inclusion du montant de la réserve afférente à l'année 1991 dans le revenu de l'année 1992 n'est pas conforme à la Loi ou aux PCGR.
+Analyse
+[20] L'avocat de l'appelante se fonde sur la décision que la Section de première instance de la Cour fédérale a rendue dans l'affaire TheQueen v. Wilchar Construction Limited[8]à l'appui de la thèse voulant que l'appelante ne puisse pas prendre la position selon laquelle les montants retenus qui ont été déduits en 1991 ne devraient pas être inclus dans le revenu de l'année d'imposition 1992 de l'appelante.
+[21] Dans l'affaire WilcharConstruction, le contribuable avait déclaré chaque année le revenu tiré de contrats de construction en incluant certains montants qui devaient être reçus conditionnellement à la fin de son exercice. Le contribuable avait toujours déclaré son revenu sur cette base, mais il avait par la suite cherché à faire exclure les montants à recevoir du revenu de l'année dans laquelle ils avaient initialement été inclus. Le contribuable alléguait que, selon les PCGR et la jurisprudence en matière fiscale, les montants en question ne constituaient pas un revenu, aux fins de l'impôt, dans l'année où ils étaient déclarés et que le ministre devait donc procéder à une nouvelle cotisation en vue de les enlever du revenu. Le ministre a refusé. Après avoir interjeté appel de cette nouvelle cotisation, le contribuable avait également cherché à faire exclure du revenu d'autres montants à recevoir sur la même base que les montants initialement en cause. À ce moment-là, l'année au cours de laquelle ces nouveaux montants auraient dû être inclus dans le revenu, selon le contribuable, était frappée de prescription.
+[22] Le juge de première instance a conclu que le contribuable avait le choix de déclarer les montants à recevoir dans l'année où ils devenaient exigibles ou dans l'année où ils avaient de fait été reçus. L'une ou l'autre méthode de comptabilisation de ces montants aurait été acceptable en vertu de la Loi de l'impôt sur le revenu. Le juge a ensuite conclu que le contribuable ne s'était pas « acquitté de la charge qui lui incomb[ait] de prouver que l'application de différentes méthodes acceptables à des périodes d'imposition successives était conforme aux principes comptables généralement admis » . Par conséquent, en se fondant sur le fait que la méthode que le contribuable avait initialement employée pour déclarer son revenu et inclure ces montants était correcte sur le plan juridique, le juge a confirmé les nouvelles cotisations.
+[23] Le juge de première instance a également abordé, à titre d'opinion incidente, la question de savoir si le contribuable pouvait changer la méthode de déclaration du revenu qu'il employait. Il a conclu que le contribuable ne pouvait pas le faire parce qu'il avait fait des présentations au sujet des bénéfices qu'il avait réalisés dans l'année en question « de la même manière » , et que le ministre s'était fondé sur ces présentations et subirait un préjudice si le contribuable était autorisé à nier ces présentations.
+[24] La Cour d'appel a confirmé les conclusions tirées par le juge de première instance; elle a dit que rien n'empêchait, sur le plan juridique, l'application du principe d'irrecevabilité parce que la méthode comptable que le contribuable avait initialement employée en déclarant son revenu n'était pas contraire à la loi[9]. Il peut être inféré que, si la méthode adoptée par le contribuable avait entraîné une présentation de son revenu qui n'était pas conforme à la Loi, et qui était par conséquent contraire à la loi, le principe d'irrecevabilité ne serait pas appliqué.
+[25] Dans l'affaire dont je suis ici saisi, je conclus que le calcul du revenu de l'appelante dans la déclaration de revenus de l'année 1992 n'était pas conforme aux dispositions de la Loi de l'impôt sur le revenu et plus précisément à l'article 9 de la Loi, qui exige la détermination des bénéfices exacts du contribuable. L'intimée admet que les bénéfices déclarés par l'appelante pour l'année 1992 n'étaient pas exacts, et ce, parce que l'appelante a rajusté son revenu (sous la forme de déductions et d'inclusions au titre des retenues) d'une façon non conforme à la méthode comptable qu'elle employait pour déterminer ses bénéfices.
+[26] La question de savoir si un montant doit être inclus dans le revenu ou s'il peut être déduit du revenu dans la détermination des bénéfices en vertu de la Loi de l'impôt sur le revenu est clairement une question de droit; elle comporte une interprétation des dispositions de la Loi et des principes juridiques établis par la jurisprudence. La présentation du revenu faite par un contribuable comporte donc une interprétation de la loi. Dans la décision Goldstein v. Canada, le juge en chef adjoint Bowman a examiné la question de l'irrecevabilité par rapport aux présentations de droit et il a fait les remarques suivantes :
+[...] Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit [...]
+[...] [l]es tribunaux, qui sont tenus de trancher les litiges conformément au droit, ne sont pas liés par des déclarations, opinions ou aveux relatifs au droit de la part des parties [...][10]
+La règle selon laquelle l'irrecevabilité ne peut pas l'emporter sur la loi s'applique en l'espèce. Étant donné que la nouvelle cotisation établie par le ministre est contraire à la loi, l'appelante peut la contester.
+[27] Il importe peu que l'appelante puisse échapper à un impôt sur le montant qui est ici en cause à moins que la nouvelle cotisation ne soit confirmée. Cela ne saurait justifier une nouvelle cotisation non autorisée par la Loi de l'impôt sur le revenu.Dans une autre décision où ce point était soulevé, le juge Dussault a dit ce qui suit :
+Le ministre n'a pas le pouvoir de cotiser un contribuable selon l'année de son choix lorsqu'il ne l'a pas fait pour l'année à l'égard de laquelle il était tenu de le faire en vertu de règles législatives spécifiques. Lui permettre de le faire serait lui reconnaître un pouvoir législatif ou une discrétion qu'il ne possède pas[11].
+[28] En outre, l'appelante échapperait uniquement à un impôt sur ce montant par application de la Loi de l'impôt sur le revenu, si les limites imposées au paragraphe 152(4) à l'égard des nouvelles cotisations s'appliquent à l'année d'imposition 1991 de l'appelante, ou si le ministre décide de ne pas établir de nouvelle cotisation pour cette année-là.
+[29] En résumé, l'appelante peut affirmer que les montants retenus qui étaient impayés à la fin de son année d'imposition 1991ont été erronément inclus dans son revenu de l'année d'imposition 1992, et il est ordonné au ministre d'établir une nouvelle cotisation à l'égard de l'année d'imposition 1992 de l'appelante en vue d'enlever ces montants du revenu. L'appel est donc admis avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 20e jour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI727
+No DU DOSSIER DE LA COUR :
+2000-2619(IT)G
+INTITULÉ :
+Trom Electric Co. Ltd. et S.M.R.
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Les 23 et 24 août 2004
+MOTIFS DU JUGEMENT :
+L'honorable B. Paris
+DATE DU JUGEMENT :
+Le 30 novembre 2004
+COMPARUTIONS :
+Avocats de l'appelante :
+Mes Ian Morris et Robert D. Winters
+Avocate de l'intimée :
+Me Lesley L'Heureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Ian Morris, Robert D. Winters
+Cabinet :
+Morris & Morris
+Toronto (Ontario)
+Pour l'intimée :
+Morris Rosenberg
+Sous'procureur général du Canada
+Ottawa (Ontario)
+[1]L.R.O. 1990, chapitre C-30, articles 22 et 31.
+[2] Note 9 des états financiers de 1992 de l'appelante, pièce A-4, onglet 8.
+[3] Note 12 des états financiers de 1994 de l'appelante, pièce A-4, onglet 11.
+[4] L'intimée a plaidé que l'appelante avait initialement déclaré son revenu aux fins de l'impôt en employant la méthode susmentionnée de l'avancement des travaux et qu'elle avait changé de méthode comptable en 1992, mais cette position a été abandonnée au début de l'audience. L'intimée a admis que, de 1989 à 1994, l'appelante avait déclaré son revenu en employant la méthode de l'achèvement des travaux.
+[5] Ces conditions sont énoncées dans le bulletin d'interprétation IT-92R2.
+[6] Pièce R-1 (Opinion comptable, 27 juillet 2004, Daniel B. Thornton).
+[7][1998] 1 R.C.S. 147.
+[8] 79 DTC 5086.
+[9] Wilchar Construction Limited v. The Queen, 81 DTC 5318, page 5321.
+[10][1995] 2 C.T.C. 2036, page 2046.
+[11] 170635 Canada Ltée. v. M.N.R., 93 DTC 1129, paragraphe 26.

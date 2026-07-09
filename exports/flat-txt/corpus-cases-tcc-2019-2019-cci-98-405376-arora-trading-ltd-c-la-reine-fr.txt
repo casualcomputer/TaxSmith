@@ -1,0 +1,386 @@
+Title: Arora Trading Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405376/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-98-405376-arora-trading-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-01
+
+# Arora Trading Ltd. c. La Reine
+
+- Citation: 2019 CCI 98
+- Decision date: 2019-05-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4404, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arora Trading Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-01
+Référence neutre
+2019 CCI 98
+Numéro de dossier
+2015-5258(IT)G
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5258(IT)G
+ENTRE :
+ARORA TRADING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 mai 2017, à Ottawa (Ontario)
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Avocate de l’appelant :
+Me Estelle Duez
+Avocat de l’intimée :
+Me Tanis Halpape
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, au motif qu’Arora ne se livrait pas à des activités de « prestation de services personnels » au cours de l’année d’imposition visée et, conséquemment, qu’Arora avait le droit de réclamer les suivantes :
+a) la déduction pour petite entreprise en application du paragraphe 125(1) de la Loi pour l’année d’imposition 2009;
+b) les dépenses équivalant à 7 126 $ en application de l’alinéa 18(1)p) de la Loi pour l’année d’imposition 2009.
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 de l’appelante est rejeté.
+Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 1er jour de mai 2019.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 15e jour d'avril 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 98
+Date : 20190501
+Dossier : 2015-5258(IT)G
+ENTRE :
+ARORA TRADING,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Visser
+[1] Notre Cour est saisie de l’appel interjeté par l’appelante, Arora Trading Inc. (« Arora ») à l’encontre des avis de nouvelles cotisations datés du 19 juillet 2013 (les « nouvelles cotisations ») et établies par le ministre du Revenu national (le « ministre ») en application de la Loi de l’impôt sur le revenu (la « Loi ») [1] par lesquelles le ministre a conclu qu’Arora exploitait une entreprise de « prestation de services personnels » [2] au cours de ses années d’imposition 2009 et 2010. Conséquemment, le ministre a rejeté les suivantes :
+(a) certaines dépenses réclamées par Arora équivalent à 7 126 $ pour 2009 et 9 181 $ pour 2010 en application de l’alinéa 18(1)p) de la Loi;
+(b) la déduction pour petite entreprise réclamée par Arora équivalant à 48 429 $ pour 2009 et 81 919 $ pour 2010 en application du paragraphe 125(1) de la Loi [3] .
+QUESTIONS EN LITIGE
+[2] Dans l’ensemble, il n'est pas controversé entre les parties que les questions en litige sont les suivantes :
+(a) à savoir si Arora était une entreprise de « prestation de services personnels » conformément à la définition consacrée par le paragraphe 125(7) de la Loi au cours de ses années d’imposition 2009 et 2010;
+(b) à savoir si le ministre a bien rejeté la partie des dépenses réclamées par Arora dans le cadre de ses années d’imposition 2009 et 2010 conformément aux limites établies à l’alinéa 18(1)p) de la Loi;
+(c) à savoir si Arora avait droit à la déduction pour petite entreprise pour les années d’imposition 2009 et 2010 en application du paragraphe 125(1) de la Loi.
+[3] Le ministre a rejeté les dépenses et les déductions pour petite entreprise en cause dans le présent appel uniquement au motif qu’Arora exploitait une entreprise de « prestation de services personnels » au cours de ses années d’imposition 2009 et 2010. Conséquemment, il peut être répondu aux trois questions susmentionnées en déterminant si Arora était une entreprise de « prestation de services personnels » au cours de ses années d’imposition 2009 et 2010. Comme nous l’examinerons ultérieurement dans les suivantes, l’intimée a également soulevé une question procédurale lors de l’audition du présent appel.
+[4] Pour les motifs qui suivent, je suis d’avis que :
+(a) Arora n’exploitait pas une entreprise de « prestation de services personnels » au cours de l’année d’imposition 2009; conséquemment Arora pouvait réclamer les suivantes :
+(i) la déduction pour petite entreprise en application du paragraphe 125(1) de la Loi pour l’année d’imposition 2009;
+(ii) les dépenses équivalant à 7 126 $ en application de l’alinéa 18(1)p) de la Loi pour l’année d’imposition 2009.
+(b) Arora exploitait une entreprise de « prestation de services personnels » au cours de l’année d’imposition 2010; conséquemment Arora ne pouvait pas réclamer les suivantes :
+(i) la déduction pour petite entreprise en application paragraphe 125(1) de la Loi pour l’année d’imposition 2010;
+(ii) les dépenses équivalant à 9 181 $ en application de l’alinéa 18(1)p) de la Loi pour l’année d’imposition 2010.
+EXPOSÉ DES FAITS
+[5] Arora est une société privée sous contrôle canadien (SPCC) constituée selon les lois provinciales ontariennes le 18 décembre 2008 [4] . Arora était contrôlée par Sonia Singh [5] (« Mme Singh ») tout au long de la période pertinente. Mme Singh était mariée à Goldy Singh (« M. Singh ») durant toute la période pertinente. M. Singh contrôle Econo Petroleum Inc. (« Econo »). Econo est grossiste de produits pétroliers. L’entreprise fait des affaires depuis environ 1994 [6] . Il est constant qu’Econo et Arora n’étaient pas des sociétés associées aux fins de la Loi en 2009 et en 2010 [7] .
+[6] Mme Singh n’a pas témoigné dans le cadre des appels au nom de l’appelante. J’en ai tiré une conclusion défavorable. C’est plutôt M. Singh qui a témoigné à l’audience pour le compte de l’appelante. L’appelante a également produit des éléments de preuve documentaire à l'appui de sa position dans les présents appels [8] . Dans l’ensemble, M. Singh m’a semblé être un témoin crédible. Toutefois, certaines parties de son témoignage étaient vagues, car il ne se souvenait pas d’événements qui se sont produits en 2009 et en 2010, soit les années en cause en l'espèce.
+[7] L’intimée a cité Anne Kaden (« Mme Kaden ») à témoigner. Mme Kaden est la vérificatrice de l’Agence du revenu du Canada (« l’Agence ») qui a effectué la vérification des déclarations de l’appelante pour le compte du ministre. Au moment du procès, Mme Kaden était au service de l’Agence depuis neuf ans. Elle avait auparavant occupé un poste de vérificatrice sur le terrain pour la section de l’imposition des sociétés du ministère des Finances ontarien pendant neuf ans. Au moment du procès, Mme Kaden remplissait les fonctions de vérificatrice au sein de la Division de l’observation à l’étranger de l’Agence. J’ai conclu qu’elle était un témoin crédible. L’intimée a également produit des éléments de preuve documentaire à l'appui de sa position dans les présents appels [9] .
+[8] De nombreux faits de l’espèce ne sont pas contestés. Étant donné tous les éléments de preuve du dossier, incluant les hypothèses non contredites avancées dans la réponse de l’intimée, les témoignages de M. Singh et de Mme Kaden, ainsi que les éléments de preuve documentaire produits par les parties, je tire les conclusions suivantes, selon la prépondérance des probabilités :
+(a) Econo a commencé ses opérations vers 1994 et exploitait une entreprise de grossiste de produits pétroliers. L’entreprise était contrôlée par M. Singh tout au long de la période pertinente.
+(b) Arora a été constituée le 18 décembre 2008 et était contrôlée par Mme Singh tout au long de la période pertinente.
+(c) M. Singh et Mme Singh étaient mariés pendant toute la période pertinente.
+(d) Arora a conclu une entente de gestion de services avec Econo le 25 décembre 2008. L'article premier de l’entente de gestion de services prévoit qu’Arora sera un sous-traitant indépendant non exclusif d’Econo à compter du 25 décembre 2008. Le deuxième article recense les services qui seront assurés par Arora à Econo, ce qui comprend les tâches financières et administratives, la comptabilité, la facturation et le recouvrement de paiements, ainsi que la rémunération (collectivement, les « services »). Le troisième article prévoit le paiement de frais par Econo à Arora en échange desdits services, mais ne précise ni le taux des frais ni la façon dont ils seront établis. Il exige également qu’Arora remette une facture mensuelle à Econo pour le paiement desdits frais. Aucun élément de preuve ne tend à montrer qu’Arora aurait jamais remis de telles factures à Econo relativement aux services fournis au cours des années d’imposition 2009 et 2010. Le quatrième article prévoit qu’Arora accepte d’embaucher les employés d’Econo.
+(e) Monsieur Singh était au service d’Econo et non pas d’Arora, et ce, pendant toute la période pertinente.
+(f) Mme Singh était employée à temps plein par Econo en 2009. Econo comptait également quatre autres employés à temps plein en 2009, à savoir S. Basaiah, P. Haddad, J. Iyengar, et HN Pakingan (collectivement, les « employés à temps plein »).
+(g) Arora ne comptait aucun employé en 2009.
+(h) Arora n’a pas présenté de factures à Econo en 2009 relativement à tout service ayant été fourni à Econo lors de cette année.
+(i) Mme Singh n’a pas assuré de services à Econo au nom d’Arora en 2009.
+(j) Mme Singh et les quatre autres employés à temps plein ont été mutés d’Econo à Arora en début d’année 2010. Conséquemment, Arora avait cinq employés à temps plein en 2010, à savoir S. Basaiah, P. Haddad, J. Iyengar, HN Pakingan et Sonia Singh.
+(k) Les cinq employés à temps plein d’Arora étaient des employés d’Econo avant d’être mutés vers celle-ci en 2010.
+(m) Les cinq employés à temps plein d’Arora ont continué à exercer leurs fonctions au bureau d’Econo en 2010, accomplissant les mêmes tâches que celles qu’ils accomplissaient à titre d’employés d’Econo en 2009.
+(n) Mme Singh assurait la gestion des services d’Econo durant son emploi à l’entreprise en 2009. Mme Singh a continué de s’acquitter des mêmes responsabilités et fonctions pour le compte d’Econo une fois mutée chez Arora en 2010.
+(o) Arora n’a versé aucun montant à Econo en 2009 ou en 2010 pour le bail, la licence ou toute autre utilisation des bureaux, des meubles, du matériel ou des fournitures d’Econo. Arora n’a également déduit aucune dépense de location de bureau pour les années d’imposition 2009 et 2010.
+(p) Arora a également retenu les services d’un entrepreneur indépendant, M. Shawn Renold (« M. Renold ») en 2010. À aucun moment en 2009 ou en 2010, M. Renold n’a été l'employé d’Arora.
+(q) Arora a déclaré un revenu de 330 000 $ pour son année d’imposition 2009 et de 837 622 $ pour son année d’imposition 2010. Tous ses revenus provenaient d’Econo.
+(r) Monsieur Singh a témoigné qu’Arora était payée en fonction de la nature des factures d’Econo; la rémunération d’Arora dépendait du volume et de la complexité des factures. Toutefois, ces facteurs n’étaient pas toujours proportionnels au revenu d’entreprise d’Econo.
+(s) Arora a déclaré les dépenses suivantes à l’égard de son revenu imposable pour les années d’imposition 2009 et 2010 :
+(l) En 2010, Econo a payé un petit pourcentage (soit de 3 à 10 %) de toute la rémunération versée aux employés à temps plein (à l’exclusion de Mme Singh). Monsieur Singh a témoigné que ceci était probablement attribuable au fait que les employés à temps plein étaient au service d'Econo en plus de leur emploi chez Arora.
+Publicité et promotion
+731 $
+[en blanc]
+Total des dépenses aux fins du calcul de l’impôt sur le revenu
+349 806 $
+45 126 $
+[en blanc]
+2010
+2009
+Intérêts et frais bancaires
+164 $
+20 $
+Frais de bureau
+128 $
+1 006 $
+Honoraires
+1 140 $
+5 500 $
+Traitement et salaires
+273 906 $
+38 000 $
+Véhicule
+8 601 $
+600 $
+Commissions
+66 719 $
+[en blanc]
+Moins dépenses non déductibles
+(1 583 $)
+(0 $)
+(t) Le ministre a établi de nouvelles cotisations rejetant les dépenses suivantes réclamées par Arora pour les années d’imposition 2009 et 2010.
+[en blanc]
+2010
+2009
+Publicité et promotion
+731 $
+[en blanc]
+Intérêts et frais bancaires
+164 $
+20 $
+Frais de bureau
+128 $
+1 006 $
+Honoraires
+1 140 $
+5 500 $
+Traitement et salaires
+0 $
+0 $
+Véhicule
+8 601 $
+600 $
+Commissions
+0 $
+[en blanc]
+Moins dépenses non déductibles
+(1 583 $)
+(0 $)
+Total des dépenses aux fins du calcul de l’impôt sur le revenu
+9 181 $
+7 126 $
+(u) Le ministre a établi de nouvelles cotisations acceptant les dépenses suivantes réclamées par Arora pour les années d’imposition 2009 et 2010.
+[en blanc]
+2010
+2009
+Publicité et promotion
+0 $
+[en blanc]
+Intérêts et frais bancaires
+0 $
+0 $
+Frais de bureau
+0 $
+0 $
+Honoraires
+0 $
+0 $
+Traitement et salaires
+273 906 $
+38 000 $
+Véhicule
+0 $
+0 $
+Commissions
+66 719 $
+[en blanc]
+Moins dépenses non déductibles
+(0 $)
+(0 $)
+Total des dépenses aux fins du calcul de l’impôt sur le revenu
+340 625 $
+38 000 $
+DROIT ET ANALYSE
+[9] Le paragraphe 125(1) de la Loi [10] prévoit que la société privée sous contrôle canadien peut (dans certains cas) réclamer la déduction accordée aux petites entreprises dans le calcul de son impôt payable en application de la Loi à l’égard de son revenu tiré de l’exploitation active d’une entreprise au Canada.
+[10] Le paragraphe 125(7) définit l'« entreprise exploitée activement » [11] comme suit :
+« entreprise exploitée activement » Toute entreprise exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial;
+[Non souligné dans l’original]
+[11] Le paragraphe 248(1) de la Loi définit également l'« entreprise exploitée activement » comme suit :
+« entreprise exploitée activement » Relativement à toute entreprise exploitée par un contribuable résidant au Canada, toute entreprise exploitée par le contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels;
+[Non souligné dans l’original]
+[12] Le paragraphe 248(1) de la Loi définit généralement le mot « entreprise » comme suit :
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi;
+[Non souligné dans l’original]
+[13] Les définitions de l’« entreprise active » au paragraphe 248(1) et de l’« entreprise exploitée activement » au paragraphe 125(7) excluent toutes deux expressément l'« entreprise de prestation de services personnels », laquelle est définie comme suit au paragraphe 125(7) :
+« entreprise de prestation de services personnels » S’agissant d’une entreprise de prestation de services personnels exploitée par une société au cours d’une année d’imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société — appelé « employé constitué en société » à la présente définition et à l’alinéa 18(1)p);
+b) soit une personne liée à l’employé constitué en société,
+est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l’employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n’était de l’existence de la société, à moins :
+c) soit que la société n’emploie dans l’entreprise tout au long de l’année plus de cinq employés à temps plein;
+d) soit que le montant payé ou payable à la société au cours de l’année pour les services ne soit reçu ou à recevoir par celle-ci d’une société à laquelle elle était associée au cours de l’année.
+[Non souligné dans l’original]
+[14] Je remarque également que l’alinéa 18(1)p) dispose :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[...]
+p) une dépense, dans la mesure où elle est engagée ou effectuée par une société au cours d’une année d’imposition en vue de tirer un revenu d’une entreprise de prestation de services personnels, à l’exception :
+(i) du salaire, du traitement ou d’une autre rémunération versé au cours de l’année à un actionnaire constitué en société de la société,
+(ii) du coût, pour la société, de tout autre avantage ou allocation accordé à un actionnaire constitué en société au cours de l’année,
+(iii) d’un montant dépensé par la société et lié à la vente de biens ou à la négociation de contrats par la société, lorsque le montant aurait été déductible dans le calcul du revenu d’un actionnaire constitué en société pour une année d’imposition tiré d’une charge ou d’un emploi s’il l’avait dépensé en vertu d’un contrat d’emploi qui l’obligeait à verser le montant,
+(iv) d’un montant versé par la société au cours de l’année au titre des frais judiciaires ou extrajudiciaires engagés par elle en recouvrement des sommes qui lui étaient dues pour services rendus,
+qui serait, si le revenu de la société était tiré d’une entreprise autre qu’une entreprise de prestation de services personnels, déductible dans le calcul de son revenu;
+[Non souligné dans l’original]
+[15] Étant donné les définitions précédentes, il est clair que l’entreprise assurant la « prestation de services personnels » ne peut pas réclamer la déduction accordée aux petites entreprises au cours de cette année d’imposition. Par ailleurs, les dépenses pouvant être réclamées pour cette année d’imposition se limitent à celles qui sont autorisées en application de l’alinéa 18(1)p).
+[16] Comme nous l’avons signalé précédemment, dans l’espèce, le ministre a conclu qu’Arora assurait la « prestation de services personnels » au cours des deux années d’imposition en cause, soit 2009 et 2010. Conséquemment, le ministre a rejeté la déduction accordée aux petites entreprises ainsi que certaines dépenses réclamées par Arora pour chacune de ces années d’imposition. Par contre, le ministre a accepté le revenu déclaré par l’appelante, ainsi que les dépenses en commissions, traitements et salaires réclamées par l’appelante pour les années d’imposition 2009 et 2010 [12] . Selon le rapport de vérification du ministre et la réponse de l’intimée, il est clair que la nouvelle cotisation est uniquement fondée sur la décision du ministre voulant qu’Arora ait exploité une entreprise de « prestation de services personnels » durant ces années d’imposition. Conséquemment, il faut déterminer si Arora assurait bel et bien la « prestation de services personnels » au cours des deux années d’imposition en cause, soit 2009 et 2010.
+[17] Le juge Owen de notre Cour a longuement discuté la définition de l’expression « prestation de services personnels » dans Ivan Cassell Ltd. c. La Reine, 2016 CCI 53. Il observe aux paragraphes 33 à 46 :
+33 La définition d’une entreprise de prestation de services personnels a été examinée par la Cour d’appel fédérale dans l’arrêt Dynamic Industries Ltd. c. Canada, 2005 CAF 211 (C.A.F.). (Dynamic Industries) En ce qui concerne l’historique des dispositions pertinentes de la Loi de l’impôt sur le revenu, la juge Sharlow fait remarquer ce qui suit (aux paragraphes 39 et 44) :
+Les dispositions de la Loi de l’impôt sur le revenu relatives aux entreprises de prestation de services personnels ont été adoptées pour refuser certains avantages fiscaux que l’on peut obtenir en fournissant des services par l’intermédiaire d’une société plutôt que personnellement. Ces dispositions visent surtout une situation semblable à celle de l’affaire Sazio c. Ministre du revenu national
+[...]
+Grâce au rejet du critère de l’objet commercial, il semblait plus facile de fournir pour une personne des services par l’intermédiaire d’un modèle de type Sazio, plutôt que personnellement, et d’ainsi obtenir les avantages fiscaux afférents. Le gouvernement estimait toujours que ce résultat n’était pas raisonnable. L’adoption de la définition d’« entreprise de prestation de services personnels » et les dispositions connexes tel l’alinéa 18(1)p) visaient à refuser, en partie, les avantages fiscaux découlant de ce type d’arrangements. […]
+34 La juge Sharlow a ajouté que la question que soulève la définition – en l’espèce, de savoir si M. Cassell serait raisonnablement considéré comme un cadre ou un employé de WPNL sans l’existence d’ICL – nécessitait un examen des décisions dans Wiebe Door Services et dans Sagaz Industries (au paragraphe 50) :
+La présente affaire nécessite un examen de la décision Wiebe Door Services Ltd. c. Ministre du Revenu national, [1986] 3 C.F. 553, [1986] 2 C.T.C. 200, 87 D.T.C. 5025 (C.A.F.) et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, les arrêts de principe portant sur la question centrale de savoir si un individu fournit des services à titre d’employé ou d’entrepreneur travaillant à son compte (ce que j’appellerai la « question Sagaz » [Sagaz, paragraphe 47]). Les facteurs à prendre en considération pour répondre à la question Sagaz dépendent des particularités de l’affaire, mais normalement il faut se demander si l’employeur exerce un contrôle sur les activités du travailleur, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+35 Par souci d’exhaustivité, j’ajouterais aux deux arrêts cités par la juge Sharlow la décision ultérieure rendue par la Cour d’appel fédérale dans l’arrêt 1392644 Ontario Inc. c. Canada (Revenu national), 2013 CAF 85 (C.A.F.) (Connor Homes).
+36 Dans l’arrêt Sagaz Industries, il était question de savoir si la responsabilité du fait d’autrui de Sagaz Industries était engagée en raison du système de pots‑de‑vin établi par son consultant. Dans ces circonstances, il fallait déterminer si le consultant était un employé de Sagaz Industries ou un entrepreneur indépendant.
+37 Dans son examen de la question, le juge Major a d’abord décrit le fondement de politique pour imputer à Sagaz Industries la responsabilité du fait d’autrui pour les actes d’un employé, mais non pour les actes d’un entrepreneur indépendant :
+[...] La responsabilité du fait d’autrui est équitable en principe parce qu’une entreprise doit assumer elle-même les risques qu’elle entraîne. Il n’est donc pas logique d’imputer à un employeur la responsabilité des actes accomplis par un entrepreneur indépendant qui, par définition, exploite une entreprise pour son propre compte. En outre, l’employeur n’exerce pas sur un entrepreneur indépendant le même contrôle que sur un employé et n’est pas, de ce fait, en mesure de réduire les accidents et les fautes intentionnelles au moyen d’une organisation et d’une supervision efficaces. Toutes ces considérations de politique générale se rattachent à la capacité de l’employeur de contrôler les activités de l’employé, une dimension qui est généralement inexistante ou insuffisante dans le cas d’un entrepreneur indépendant [...] Le contrôle n’est toutefois pas le seul facteur à considérer pour décider si un travailleur est un employé ou un entrepreneur indépendant. Pour les raisons exposées plus loin, l’application de ce seul facteur risque d’induire en erreur, et il y a lieu de tenir compte d’autres facteurs pour en décider.
+38 Il convient de souligner que, même si le juge Major a indiqué que le contrôle était un fondement de politique important pour l’imputation à un employeur de la responsabilité du fait d’autrui pour les actes d’un employé, il n’a pas conclu que le contrôle était l’unique fondement pour décider si une personne est un employé ou un entrepreneur indépendant. En fait, il a fait remarquer que « l’application de ce seul facteur risque d’induire en erreur ». C’est particulièrement vrai lorsque l’on aborde les circonstances entourant la prestation de services par un professionnel ou un directeur de haut niveau d’une entreprise qui reçoit les services.
+39 Le juge Major a ensuite entrepris un examen détaillé de la distinction entre un employé et un entrepreneur indépendant. Il a commencé par faire remarquer que, dans Wiebe Door Services qu’il cite favorablement à maintes reprises dans son examen de la question, le juge MacGuigan avait rigoureusement examiné la jurisprudence pertinente. Dans son examen, le juge MacGuigan a présenté les divers critères qui ont été adoptés par les cours depuis le milieu du XIXe siècle : le critère de contrôle, le critère de l’entreprise, le critère d’organisation et le critère du risque de l’entreprise. En fin de compte, cependant, en s’appuyant sur l’analyse du juge MacGuigan, le juge Major a conclu qu’il n’existait aucun critère universel :
+À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable [...] » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme — en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 — qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services […] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[Soulignement ajouté par le juge Owen]
+40 Plus récemment, dans Connor Homes, la Cour d’appel fédérale a réaffirmé l’approche appropriée relative à l’analyse de l’employé ou de l’entrepreneur indépendant, tout en abordant le rôle que joue l’intention commune :
+La question fondamentale à laquelle il faut répondre pour déterminer si une personne donnée travaille comme employé ou comme entrepreneur indépendant est trompeusement simple : il s’agit de savoir si elle assure les services en question en tant que personne travaillant à son compte […]
+Le juge MacGuigan a reformulé le critère de l’intégration en précisant qu’il ne jouait que du point de vue du travailleur, et il en a considérablement limité l’utilisation. Chose importante, cependant, le juge MacGuigan a consacré le principe que, s’il n’existe pas de critères particuliers propres à trancher la question, « il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles » (Wiebe Door, page 563). Il a conclu qu’il n’y a en fait qu’un seul critère : « Je considère le critère de lord Wright non pas comme une règle comprenant quatre critères, comme beaucoup l’ont interprété, mais comme un seul critère qui est composé de quatre parties intégrantes et qu’il faut appliquer en insistant toujours sur ce que lord Wright a appelé ci-dessus “l’ensemble des éléments qui entraient dans le cadre des opérations”, et ce, même si je reconnais l’utilité des quatre critères subordonnés » (ibid., page 562). Essentiellement, il s’agit de répondre à la question « À qui appartient l’entreprise? » (ibid, p. 563).
+Le juge Major, s’exprimant au nom de la Cour suprême du Canada dans l’arrêt Sagaz, a approuvé la démarche proposée par le juge MacGuigan par l’arrêt Wiebe Door, ajoutant que « [l]a question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte » (Sagaz, paragraphe 47). Aux fins de décider cette question, aucun facteur particulier ne joue de rôle dominant, et aucune formule fixe n’est applicable. Les facteurs à prendre en considération peuvent donc varier selon les faits de l’espèce, et la liste doit en rester ouverte. Néanmoins, certains facteurs sont habituellement pertinents, à savoir le degré de contrôle que l’employeur exerce sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit son propre outillage, s’il engage lui-même ses assistants, s’il gère et assume des risques financiers, et s’il peut escompter un profit de l’exécution de ses tâches.
+[...]
+La question centrale à trancher reste celle de savoir si la personne recrutée pour assurer les services le fait, concrètement, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien les arrêts Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule fixe qu’on puisse appliquer, dans l’examen qui permet de répondre à cette question. Les facteurs à prendre en considération varient donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient les arrêts Wiebe Door et Sagaz sont habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui-même son outillage, engage ses assistants, gère et assume des risques financiers, et peut escompter un profit de l’exécution de ses tâches.
+41 En ce qui concerne une intention commune, la Cour dit que :
+[...] la jurisprudence de Royal Winnipeg Ballet enseigne que le premier point à prendre en considération est celui de savoir s’il y a chez les parties une entente ou une intention commune touchant leur relation. Lorsque l’on constate une telle intention commune, qu’elle soit d’établir une relation de client à entrepreneur indépendant ou d’employeur à employé, il convient d’appliquer le critère consacré par la jurisprudence Wiebe Door en examinant les facteurs voulus à la lumière de cette intention afin d’établir si, tout bien pesé, les faits pertinents cadrent avec celle-ci et la confirment […]
+[…] la démarche consacrée par la jurisprudence Royal Winnipeg Ballet, bien comprise, met tout simplement l’accent sur le principe notoire selon lequel toute personne a le droit d’organiser ses affaires et ses relations comme bon lui semble. Les rapports des parties à un contrat sont généralement régis par lui. Les parties peuvent donc fixer dans leur contrat leurs obligations et responsabilités respectives, les modalités de la rémunération des services à fournir et toutes sortes d’autres aspects de leurs rapports. Cependant, l’effet juridique ainsi produit, c’est-à-dire l’effet juridique du contrat en tant que celui-ci crée une relation d’employeur à employé ou de client à entrepreneur indépendant, n’est pas une question que les parties peuvent décider par une simple stipulation. Autrement dit, il ne suffit pas d’énoncer dans le contrat que le travailleur assure ses services en tant qu’entrepreneur indépendant pour que ce soit effectivement le cas.
+42 Je vais d’abord examiner l’intention commune selon les termes de la définition d’une EPSP. Comme l’a fait remarquer le juge Mainville dans l’arrêt Connor Homes, l’importance d’une intention ou d’une entente commune est enracinée dans le principe selon lequel les parties ont le droit d’organiser leurs affaires et leurs relations comme bon leur semble. Ce qui est plus important, toutefois, c’est que l’intention ou l’entente commune est seulement pertinente dans l’analyse si les parties de l’arrangement en cause ont conclu une entente (écrite ou verbale) entre elles. En l’espèce, l’arrangement pertinent a été conclu entre ICL et WPNL. Dans de telles circonstances, il n’y a aucune entente mutuelle ou intention commune à examiner pour déterminer si M. Cassell serait raisonnablement considéré comme étant un employé de WPNL sans l’existence d’ICL. La circonstance hypothétique infligée par la définition d’une EPSP pour respecter l’objectif anti-évitement fait obstacle à une telle analyse.
+43 Quant à la question de savoir si M. Cassell serait considéré comme étant un cadre ou un employé de WPNL sans l’existence d’ICL, la jurisprudence précitée établit clairement qu’« aucun facteur particulier ne joue de rôle dominant » et qu’« aucune formule fixe n’est applicable ». Les facteurs à prendre en considération sont indéterminés et varient selon les circonstances. Cette approche convient particulièrement à l’interprétation de la définition d’une EPSP, qui nécessite l’évaluation de la relation à établir dans une situation hypothétique (c’est-à-dire l’inexistence d’ICL). Une telle situation hypothétique peut seulement être évaluée adéquatement si tous les faits et toutes les circonstances sont examinés pour déterminer si l’« employé constitué en société » agissait comme un employé de l’entité recevant les services ou comme un entrepreneur indépendant.
+44 Je note également que, même si la définition d’une EPSP consiste à se demander si M. Cassell aurait été considéré comme étant un cadre ou un employé de WPNL sans l’existence d’ICL, le critère de base dans la jurisprudence consiste à déterminer si la personne fournissait les services en cause en tant que personne travaillant à son compte. Je crois toutefois qu’il suffit d’adapter ce critère au sens de la définition d’une EPSP en déterminant si, compte tenu de toutes les circonstances, M. Cassell serait considéré comme étant un exploitant de sa propre entreprise si ICL n’existait pas.
+45 En l’espèce, les circonstances m’amènent inexorablement à conclure que, si on faisait abstraction de l’existence d’ICL, M. Cassell serait raisonnablement considéré comme étant un employé de WPNL. [...]
+46 Compte tenu de tous ces facteurs, j’ai conclu que M. Cassell serait raisonnablement considéré comme étant un employé de WPNL sans l’existence d’ICL. Selon les termes de la question centrale décrite dans les arrêts Wiebe Door, Sagaz et Connor Homes, je ne vois rien dans l’ensemble des circonstances qui suggère que M. Cassell pourrait raisonnablement être considéré comme une personne offrant des services à son propre compte si ICL n’existait pas. L’entreprise qui est l’objet principal et la raison d’être des activités de M. Cassell est l’entreprise de WPNL. Si ICL n’existait pas, la seule entreprise à laquelle les services seraient liés serait WPNL, et M. Cassell serait raisonnablement considéré comme étant un employé de cette entreprise. Par conséquent, l’entreprise de prestation de services de gestion d’ICL à l’intention de WPNL pendant les années d’imposition 2008, 2009 et 2010 était une « entreprise de prestation de services personnels »; l’appel est donc rejeté avec dépens en faveur de l’intimée.
+[Non souligné dans l’original]
+[18] Dans l’espèce, il est clair que Mme Singh est une actionnaire déterminée d’Arora, car elle est propriétaire de 76 pour cent des actions ordinaires de catégorie A du capital d’Arora. La question suivante est donc de savoir si Mme Singh a exécuté les services visés au nom d’Arora au cours des années d’imposition 2009 et 2010. Si tel est le cas, alors il faut répondre à la question hypothétique soulevée par la définition de l’entreprise de prestation de services, nommément de savoir si Mme Singh pourrait raisonnablement être considérée comme un cadre ou une employée d’Econo n’eût été l’existence d’Arora. Si l’on répond par l'affirmative à ces deux questions quant à l’année d’imposition de 2010 d’Arora, il est alors nécessaire de déterminer si Arora avait plus de cinq employés à temps plein en 2010, satisfaisant ainsi au critère d’exception prévue à l’alinéa c) de la définition de l’entreprise de prestation de services [13] .
+[19] En l’occurrence, l’intimée a soutenu qu’Arora était une entreprise de prestation de services personnels lors des deux années d’imposition, soit 2009 et 2010. À ce chapitre, l’intimée a avancé que Mme Singh était l’actionnaire constituée d’Arora, mais qu’aux fins de l’existence d’Arora, celle-ci pourrait raisonnablement être considérée comme un cadre ou une employée d’Econo en application d’un contrat de service.
+[20] L’intimée a soutenu de plus qu’Arora n’avait pas plus de cinq employés à temps plein pendant toute la durée de 2009 et de 2010. A cet égard, elle a plutôt affirmé qu’Arora n’avait aucun employé en 2009, et seulement cinq employés à temps plein en 2010. L’intimée a également soutenu que M. Renolds était un entrepreneur indépendant, et non un employé d’Arora, et ce, que ce soit en 2009 ou en 2010.
+[21] À l’audience, l’appelante a soutenu que :
+(a) Arora n’avait pas exploité une entreprise de prestation de services personnels, car elle exploitait une entreprise en son propre nom. De plus, le soutien fourni à Econo était seulement un volet ses activités commerciales, car l’entreprise avait initialement été constituée dans l’intention de mener des activités qu’Econo ne pouvait pas entreprendre. Arora avait également quatre autres employés à temps plein fournissant des services à Econo, aucun d’entre eux n’étant un actionnaire déterminé.
+(b) Arora n’a pas exploité une entreprise de prestation de services personnels en 2009, car elle n’avait pas d’employés cette même année. Conséquemment, elle n’aurait pas pu avoir un « actionnaire constitué » au sein de la définition d’une entreprise de prestation de services personnels.
+(c) Arora n’a pas exploité une entreprise de prestation de services personnels en 2010, car elle avait cinq employés à temps plein en 2010 et avait également recours aux services d’un entrepreneur indépendant au cours de cette même année. Conséquemment, elle avait plus de cinq employés à temps plein en 2010 et satisfaisait ainsi au critère d’exception consacré par l’alinéa c) de la définition d’une entreprise de prestation de services personnels.
+[22] L’appelante a soutenu de plus que la question fondamentale est de savoir si l’appelante était effectivement une entreprise agissant pour son propre compte. Selon l’appelante, la façon dont Arora facturait Econo lui donnait la possibilité de réaliser des profits ou le risque de générer des pertes. Il s’agit de deux facteurs importants pour déterminer si une personne ou une entité est une entreprise agissant en son propre nom. À ce titre, l’appelante a souligné que M. Singh a témoigné qu’en raison de la volatilité du marché pétrolier, Arora avait été constituée pour diversifier le risque, tirer profit d’occasions qu’Econo ne pouvait pas saisir, et obtenir accès à des formules de tarification qui n’étaient pas offertes à Econo.
+[23] L’appelante a avancé qu’il était loisible à notre Cour de déterminer si la présence de tout travailleur assurant la prestation de quelque service pouvait satisfaire à l’exigence d’avoir plus de cinq employés à temps plein. À ce titre, l’appelante a affirmé que bien que M. Renolds n’agisse pas autrement qu’en qualité d’entrepreneur indépendant, sa relation avec Arora pourrait être suffisante pour permettre à cette dernière de satisfaire au critère d’avoir plus de cinq employés à temps plein aux fins de l’exception consacrée par l’alinéa c) de la définition d’une entreprise de prestation de services personnels.
+[24] L’intimée s’est opposée aux observations de l’appelante voulant qu’Arora n’ait eu aucun employé en 2009 et que la présence de l’entrepreneur indépendant permette d’établir qu’Arora avait plus de cinq employés à temps plein en 2010. Elle se fonde sur le fait que ces observations n’avaient pas été soulevées préalablement, ce qui en ferait des éléments nouveaux soulevés à l’audience pour la première fois. Toutefois, l’appelante a soutenu qu’il ne s’agissait pas de nouveaux arguments. J’ai demandé aux parties de me présenter leurs observations écrites à ce sujet sur la question de savoir si je peux examiner les arguments avancés par l’appelante.
+[25] J’ai analysé les observations présentées par les deux parties. Je suis d’avis que les arguments avancés par l’appelante à l’audience ne sont pas nouveaux; il s’agit plutôt d’un développement du moyen de droit déjà soutenu par elle; à savoir qu’Arora n’exploitait pas une entreprise de prestation de services personnels au cours des années d’imposition 2009 et 2010 [14] . L’appelante n’a soulevé aucun fait nouveau; et d'ailleurs, elle s’appuie sur les faits admis et avancés par le ministre [15] . L’appelante n’a pas invoqué à l’audience de nouveaux articles de la Loi; elle s’est appuyée sur les articles avancés par les parties dans leurs mémoires. À mon sens, il est clair que les deux arguments de droit soulevés par l’appelante, auxquels s’oppose l’intimée, sont fondés sur les faits avancés par les parties ainsi que sur le texte du paragraphe 125(7) sur la définition de l’« entreprise de prestation de services personnels ». Bien qu’il eût été préférable que l’appelante les présente en plus amples détails dans son avis d’appel, ils demeurent, à mon sens, des arguments couverts par le texte de l’avis d’appel de l’appelante ainsi que de la réponse de l’intimée. Je remarque également que l’argument quant à l’entrepreneur indépendant a également été mentionné à de nombreuses reprises dans la correspondance ainsi que dans d’autres documents figurant dans les pièces des deux parties. Conséquemment, l’intimée n'est pas prise par surprise [16] . De plus, étant donné les faits avancés par l’intimée (incluant, plus particulièrement, qu’Arora n’avait pas d’employés en 2009), il me semble que l’intimée, dans sa réponse, envisageait forcément qu’Arora n’exploitait pas une « entreprise de prestation de services personnels » en 2009, car elle n’aurait pas pu satisfaire à la première partie de la définition, et donc, que cette question aurait certainement été examinée par notre Cour [17] . Conséquemment, je conclus que ces arguments doivent être examinés par notre Cour dans le cadre du présent appel.
+[26] Comme je l’ai signalé précédemment, je suis d'avis, selon la prépondérance des probabilités, qu’Arora n’avait aucun employé en 2009 et plus particulièrement, que Mme Singh n’était pas l'employée d’Arora en 2009 et n’assurait pas la prestation de services pour le compte d’Arora en 2009. Conséquemment, je suis d’avis qu’Arora n’aurait pas pu exploiter une entreprise de prestation de services personnels en 2009, parce qu’elle ne satisfaisait pas à l’alinéa a) de la définition d’une telle entreprise au cours de son année d’imposition 2009. Étant donné la conclusion susmentionnée, il n’est pas nécessaire d’analyser la question hypothétique quant à la qualité d’entreprise de prestation de services d’Arora pour l’année d’imposition 2009.
+[27] Or, en 2010, il est clair que Mme Singh était une employée d’Arora et assurait la prestation de services en son nom. Conséquemment, il faut répondre à la question hypothétique soulevée par la définition de l’entreprise de prestation de services, à savoir si Mme Singh pourrait raisonnablement être considérée comme un cadre ou une employée d’Econo n’eût été l’existence d’Arora.
+[28] En l’occurrence, je note que Mme Singh était une employée d’Econo en 2009. Elle effectuait les mêmes tâches en 2010 à titre d’employée d’Arora, tout en continuant à travailler dans les bureaux d’Econo et à utiliser le matériel et les fournitures de bureau de cette dernière. Arora n’a aucunement dédommagé Econo pour l’utilisation de ses bureaux ou de son matériel et de ses fournitures. Tous les revenus d’Arora pour les années 2009 et 2010 provenaient d’Econo. De plus, je remarque qu’Arora n’a produit aucune facture à Econo pour des services fournis par Arora à celle-ci en 2010. Mme Singh ainsi que les autres employés à temps plein ont tous continué à effectuer le même travail pour Econo en 2009 et en 2010, sauf que le travail réalisé dans cette dernière année se faisait au nom d’Arora. Je remarque également que ni Mme Singh ni l’un des autres employés à temps plein n’ont témoigné à l’audience du présent appel. Seul M. Singh, l’actionnaire de contrôle, directeur et gestionnaire d’Econo, a témoigné. J’ai tiré une conclusion défavorable du défaut, par Arora, de citer soit Mme Singh ou l’un des autres employés à temps plein à témoigner à l’audition du présent appel. Dans l’ensemble, si l’on examine tous les facteurs énoncés par le juge Owen dans le jugement Ivan Cassell Ltd., précité, je suis d’avis qu’il est clair qu’Arora et Mme Singh n’exploitaient pas, en 2010, une entreprise pour leur propre compte, mais plutôt une entreprise dont les activités et la raison d’être étaient plutôt les affaires d’Econo. Conséquemment, je conclus que n’eût été l’existence d’Arora, Mme Singh aurait raisonnablement été considérée comme une employée d’Econo en 2010, comme c’était le cas en 2009.
+[29] Considérant ma conclusion quant à la question hypothétique soulevée par l’année d’imposition de 2010 d’Arora, il faut ensuite déterminer si Arora avait plus de cinq employés à temps plein en 2010, satisfaisant ainsi au critère d’exception consacrée par l’alinéa c) de la définition de l’entreprise de prestation de services.
+[30] À ce titre, et comme nous l’avons signalé plus haut, l’appelante a soutenu que l’entrepreneur indépendant engagé par Arora en 2010 pourrait satisfaire à l’exigence d’avoir plus de cinq employés à temps plein qui figure à l’alinéa c) de la définition de l’entreprise de prestation de services personnels. L’intimée soutient que rien en droit ne va dans ce sens. J'abonde dans son sens. À ce titre, je conclus que l’argument de l’appelante quant à l’année d’imposition de 2010 doit être rejeté pour les motifs suivants :
+(a) l’exception prévue à l’alinéa c) de la définition de l’« entreprise de prestation de services personnels » exige clairement que l’entreprise en question ait plus de cinq employés;
+(b) Arora ne comptait que cinq employés à temps plein en 2010;
+(c) un entrepreneur indépendant ne peut pas être pris en compte dans ce contexte.
+[31] À mon avis, aucune autorité ne va dans le sens de l’argument de l’appelante [18] . De plus, je suis d’avis que le texte de l’alinéa c) de la définition de l’entreprise de prestation de services personnels est clair : l’exception vise uniquement les employés, et aucune autre forme de prestataire de services. On y trouve à la fois les mots « emploie » et « employés ». Je suis d’avis que le contexte et l’objet de la définition de l’entreprise de prestation de services personnels vont également dans le sens de cette position. Conséquemment, je conclus qu’Arora ne peut pas invoquer l’exception consacrée par l’alinéa c) de la définition de l’entreprise de prestation de services personnels à l’égard de l’année d’imposition 2010 et ce type d’entreprise au cours de cette année d’imposition.
+[32] Pour ces motifs, je conclus qu’Arora n’exploitait pas une entreprise de prestation de services personnels durant l’année d’imposition 2009, mais qu’elle exploitait une telle entreprise durant l’année d’imposition de 2010.
+CONCLUSION
+[33] Compte tenu de tout ce qui précède, l’appel interjeté par Arora concernant :
+(a) l’année d’imposition 2009 est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, au motif qu’Arora n’exploitait pas une « entreprise de prestation de services personnels » au cours de l’année d’imposition visée et, conséquemment, qu’Arora avait le droit de réclamer les éléments suivantes :
+(i) la déduction pour petite entreprise en application du paragraphe 125(1) de la Loi pour l’année d’imposition 2009;
+(ii) les dépenses équivalant à 7 126 $ en application de l’alinéa 18(1)p) de la Loi pour l’année d’imposition 2009.
+(b) l’année d’imposition de 2010 est rejeté.
+DÉPENS
+[34] Compte tenu de l'issue mitigée de la présente cause, de la complexité des enjeux, des montants en cause, de la conduite des parties et des autres facteurs consacrés par le paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale), j’exercerai mon pouvoir discrétionnaire et n’accorderai aucuns dépens dans le cadre du présent appel. Conséquemment, chaque partie prendra en charge ses propres dépens.
+Signé à Ottawa, Canada, ce 1er jour de mai 2019.
+« Henry A. Visser »
+Le juge Visser
+Traduction certifiée conforme
+ce 15e jour d'avril 2020.
+François Brunet, réviseur
+Annexe A
+Dispositions applicables
+Les textes de référence de la présente annexe sont des dispositions de la Loi de l’impôt sur le revenu en vigueur au moment des années d’imposition 2009 et 2010.
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+[...]
+Dépenses restreintes des entreprises de prestation de services personnels
+p) une dépense, dans la mesure où elle est engagée ou effectuée par une société au cours d’une année d’imposition en vue de tirer un revenu d’une entreprise de prestation de services personnels, à l’exception :
+(i) du salaire, du traitement ou d’une autre rémunération versé au cours de l’année à un actionnaire constitué en société de la société,
+(ii) du coût, pour la société, de tout autre avantage ou allocation accordé à un actionnaire constitué en société au cours de l’année,
+(iii) d’un montant dépensé par la société et lié à la vente de biens ou à la négociation de contrats par la société, lorsque le montant aurait été déductible dans le calcul du revenu d’un actionnaire constitué en société pour une année d’imposition tiré d’une charge ou d’un emploi s’il l’avait dépensé en vertu d’un contrat d’emploi qui l’obligeait à verser le montant,
+(iv) d’un montant versé par la société au cours de l’année au titre des frais judiciaires ou extrajudiciaires engagés par elle en recouvrement des sommes qui lui étaient dues pour services rendus,
+qui serait, si le revenu de la société était tiré d’une entreprise autre qu’une entreprise de prestation de services personnels, déductible dans le calcul de son revenu;
+Déduction accordée aux petites entreprises
+125 (1) La société qui est tout au long d’une année d’imposition une société privée sous contrôle canadien peut déduire de son impôt payable par ailleurs pour l’année en vertu de la présente partie une somme égale au produit de la multiplication du taux de la déduction pour petite entreprise qui lui est applicable pour l’année par la moins élevée des sommes suivantes :
+a) l’excédent éventuel du total des montants suivants :
+(i) l’ensemble de toutes les sommes dont chacune est le revenu de la société pour l’année tiré d’une entreprise exploitée activement au Canada (autre que le revenu de la société pour l’année tiré d’une entreprise qu’elle exploite comme associé d’une société de personnes),
+(ii) le revenu de société de personnes déterminé de la société pour l’année,
+sur le total des montants suivants :
+(iii) l’ensemble de toutes les sommes dont chacune est une perte de la société pour l’année provenant de l’exploitation d’une entreprise exploitée activement au Canada (autre qu’une perte de la société pour l’année provenant d’une entreprise qu’elle exploite comme associé d’une société de personnes),
+(iv) la perte de société de personnes déterminée de la société pour l’année;
+b) l’excédent éventuel du revenu imposable de la société pour l’année sur le total des montants suivants :
+(i) les 10/3 du total des sommes qui seraient déductibles, en application du paragraphe 126(1), de l’impôt payable par ailleurs par la société pour l’année en vertu de la présente partie si elles étaient déterminées compte non tenu des articles 123.3 et 123.4,
+(ii) les 10/4 du total des sommes qui seraient déductibles, en application du paragraphe 126(2), de l’impôt payable par ailleurs par la société pour l’année en vertu de la présente partie si elles étaient déterminées compte non tenu de l’article 123.4,
+(iii) la fraction du revenu imposable de la société pour l’année qui n’est pas assujettie à l’impôt en vertu de la présente partie par l’effet de quelque loi fédérale;
+c) le plafond des affaires de la société pour l’année.
+125(7) Les définitions qui suivent s’appliquent au présent article.
+[...]
+« entreprise exploitée activement » Toute entreprise exploitée par une société, autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels mais y compris un projet comportant un risque ou une affaire de caractère commercial.
+[...]
+« entreprise de prestation de services personnels » S’agissant d’une entreprise de prestation de services personnels exploitée par une société au cours d’une année d’imposition, entreprise de fourniture de services dans les cas où :
+a) soit un particulier qui fournit des services pour le compte de la société — appelé « employé constitué en société » à la présente définition et à l’alinéa 18(1)p);
+b) soit une personne liée à l’employé constitué en société,
+est un actionnaire déterminé de la société, et où il serait raisonnable de considérer l’employé constitué en société comme étant un cadre ou un employé de la personne ou de la société de personnes à laquelle les services sont fournis, si ce n’était de l’existence de la société, à moins :
+c) soit que la société n’emploie dans l’entreprise tout au long de l’année plus de cinq employés à temps plein;
+d) soit que le montant payé ou payable à la société au cours de l’année pour les services ne soit reçu ou à recevoir par celle-ci d’une société à laquelle elle était associée au cours de l’année.
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+[...]
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi;
+RÉFÉRENCE :
+2019 CCI 98
+No DU DOSSIER DE LA COUR :
+2015-5258(IT)G
+INTITULÉ :
+ARORA TRADING LTD., c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 1er mai 2019
+COMPARTIONS :
+Avocate de l’intimée :
+Me Estelle Duez
+Avocat de l’intimée :
+Me Tanis Halpape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée. Tous les renvois législatifs figurant dans les présentes font référence à la Loi, sauf indication contraire.
+[2] Selon la définition consacrée par le paragraphe 125(7) de la Loi.
+[3] Des cotisations consécutives ont également été établies aux fins de fiscalité provinciale.
+[4] Arora a été constituée sous le nom « Arora Consulting Inc. » le 18 décembre 2008, puis le nom a été modifié à « Arora Trading Ltd. » le 5 novembre 2009.
+[5] Voir le paragraphe 4 de l’avis d’appel de l’appelante ainsi que les sous-paragraphes 12k) et l) de la réponse de l’intimée. Bien que le paragraphe 4 de l’avis d’appel de l’appelante ne soit pas expressément admis par l’intimée, les hypothèses présentées aux paragraphes 12k) et l) de la réponse de l’intimée avancent essentiellement les mêmes faits. Monsieur Goldy Singh a également témoigné que Mme Singh était l’actionnaire de contrôle d’Arora pendant toute la période pertinente.
+[6] Voir le paragraphe 5 de l’avis d’appel, lequel fait référence à l’année 1992, qui a été admis au paragraphe 1 de la réponse. Monsieur Singh a témoigné qu’Econo avait été créée en 1994 et était exploitée depuis cette date.
+[7] Quoique ce ne soit pas en cause dans le présent appel, les parties ont indiqué que les deux sociétés n’étaient pas associées en 2009 et en 2010 aux fins de la Loi en raison d’une absence de propriété croisée suivant une jurisprudence de la Cour d’appel fédérale, McGillivray Restaurant Ltd. c. La Reine, 2016 CAF 99. Je note que le législateur a modifié l’article 256 de la Loi dans la foulée de la décision McGillivray. Je n’ai pas tenu compte de cet élément par la suite puisque la question n’est pas en cause.
+[8] Voir la pièce A-1 – Cahier de preuve documentaire de l’appelante.
+[9] Voir la pièce R-1 – Cahier de preuve documentaire de l’intimée.
+[10] Les extraits pertinents de la Loi dans le cadre de ces appels sont reproduits à l’annexe A des présentes.
+[11] Je remarque qu’il y a une légère incohérence entre l’expression figurant au paragraphe 125(1) et au paragraphe 125(7).
+[12] Mme Kaden a témoigné que le ministre s’était montré généreux en permettant à Arora de déduire des dépenses au-delà de celles qui sont permises selon la lettre de l’alinéa 18(1)p).
+[13] Arora n’avait aucun employé au cours de son année d’imposition 2009. Conséquemment, elle ne peut pas invoquer l’exception prévue par l’alinéa c) de la définition de l’entreprise de prestation de services pour l’année d’imposition 2009. Il est constant qu’Arora et Econo n’étaient pas associées aux fins de la Loi; conséquemment, l’alinéa d) de la définition de l’entreprise de prestation de services personnels ne joue pas en l’espèce.
+[14] Voir les paragraphes 23, 26, 27 et 28 de l’avis d’appel de l’appelante.
+[15] Je suis d'avis que l’appelante n’a pas soulevé de nouveaux arguments de droit, néanmoins, je souligne que la Cour d’appel fédérale, dans l'arrêt Imperial General Properties Ltd. c. La Reine, [1985] 1 C.T.C. 40 (CAF), au paragraphe 9, a conclu qu’une partie pouvait soutenir un nouvel argument de droit à l’audience à la lumière des faits allégué. De plus, comme l’enseigne la Cour d’appel fédérale dans l'arrêt Loewen c. La Reine, 2004 CAF 146, au paragraphe 8, « [i]l est par ailleurs loisible au contribuable d’invoquer des arguments pour tenter d’établir que, même si les faits présumés sont véridiques, ils ne justifient pas en droit la cotisation qui a été établie ».
+[16] Compte tenu des éléments de preuve produits par les parties au procès, il semblerait que le ministre a soupesé cet argument de droit à la fois à l’étape de la vérification et à celle de l’opposition.
+[17] À mon sens, la réponse de l’intimée contenait une incohérence fondamentale par rapport à sa position voulant qu’Arora exploitait une « entreprise de prestation de services personnels » au cours de l’année d’imposition 2009. Par exemple, le ministre a soutenu qu’Arora n’avait pas d’employés au cours de son année d’imposition 2009; or, il a également admis le revenu et les dépenses en traitement et salaires déclarés par Arora pour son année d’imposition 2009. Je remarque également que le ministre n’a pas soutenu qu’Arora n’exploitait aucune entreprise en 2009. Par conséquent, je n’ai pas discuté cette question. Toutefois, je remarque, au paragraphe 21 de la réponse de l’intimée, que le ministre a soutenu que le revenu d’Arora [traduction] « était considéré comme un revenu d’exploitation d’une entreprise active ». L’intimée a réitéré cette position à l’audience (voir la transcription de l’audience, à la page 110, ligne 9).
+[18] Notre Cour, dans la décision 489599 B.C. Ltd. c. La Reine, 2008 CCI 332, a conclu qu’un employé à temps partiel pouvait permettre de répondre au critère de « plus de cinq employés à temps plein » consacré par l’alinéa c) de la définition de l’entreprise de prestation de services personnels (en présence de cinq autres employés à temps plein). Toutefois, il n’y a, à mon sens, aucune autorité avalisant l’admission d’un entrepreneur indépendant au chapitre de ce critère.

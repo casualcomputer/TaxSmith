@@ -1,0 +1,97 @@
+Title: McNicholas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420480/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-171-420480-mcnicholas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-08-16
+
+# McNicholas v. The Queen
+
+- Citation: 2019 TCC 171
+- Decision date: 2019-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4224, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNicholas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-16
+Neutral citation
+2019 TCC 171
+File numbers
+2018-253(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-253(IT)G
+BETWEEN:
+SEAN MCNICHOLAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion disposed of upon written representations
+Before: The Honourable Lucie Lamarre, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Raymond G. Adlington
+Counsel for the Respondent:
+Devon Peavoy
+ORDER
+The Appellant’s motion requesting the adjournment of the hearing of this matter, originally scheduled to be heard in Halifax on October 1, 2019 by order of this Court dated January 22, 2019, is granted with costs of $2,000 payable forthwith to the Respondent, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 16th day of August 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2019 TCC 171
+Date: 20190816
+Docket: 2018-253(IT)G
+BETWEEN:
+SEAN MCNICHOLAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre A.C.J.
+[1] Upon a joint application made by the parties at the status hearing held at the Court in Halifax on January 7, 2019, a one-day hearing was scheduled for October 1, 2019 by Order of the Court dated January 22, 2019.
+[2] On August 2, 2019, the Appellant’s counsel filed a motion seeking to have the hearing of the appeal postponed on the grounds that the Appellant will be travelling outside of the country and will be unable to attend the hearing on the date set by the Court.
+[3] It appears from the motion record that the flight tickets were purchased on December 9, 2018.
+[4] It is settled law that the Court has the inherent power to prevent and control abuses of its process, and the awarding of costs is one mechanism for preventing or remedying “abusive delays or procedures” (Fournier v. The Queen, 2005 FCA 131, at paragraphs 10-12).
+[5] In this case, the Appellant waited seven months to advise the Court that he had already booked his flight in December 2018 and was not available at the date that was proposed by his own counsel at the status hearing held in January 2019. This is a case where the Appellant acted negligently and that conduct negatively affects the course of the judicial process.
+[6] Under the circumstances, the adjournment is granted, but given the lateness of the Appellant’s adjournment request and even though the Respondent does not oppose the adjournment, I award costs in the amount of $2,000 payable to the Respondent upon receipt of the Order.
+Signed at Ottawa, Canada, this 16th day of August 2019.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2019 TCC 171
+COURT FILE NO.:
+2018-253(IT)G
+STYLE OF CAUSE:
+SEAN MCNICHOLAS v. HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Lucie Lamarre, Associate Chief Justice
+DATE OF ORDER:
+August 16th, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Raymond G. Adlington
+Counsel for the Respondent:
+Devon Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Raymond G. Adlington
+Firm:
+McInnes Cooper
+Halifax, NS
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

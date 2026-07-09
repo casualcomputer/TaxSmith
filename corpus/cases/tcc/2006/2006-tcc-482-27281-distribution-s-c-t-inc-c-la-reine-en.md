@@ -1,0 +1,164 @@
+---
+title: "Distribution S.C.T. inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27281/index.do"
+last_modified: "2006-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 482"
+citation2: ""
+neutral_citation: "2006 TCC 482"
+decision_date: "2006-09-15"
+language: "en"
+item_id: "27281"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 888
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:45:18.262000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5fa3dc883548c818270dc7e37b1dc2d235cc70b15c9201572e274843bc1f885"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Distribution S.C.T. inc. c. La Reine
+
+- Citation: 2006 TCC 482
+- Decision date: 2006-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 888, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Distribution S.C.T. inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-15
+Neutral citation
+2006 TCC 482
+File numbers
+2006-1149(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1149(GST)I
+BETWEEN:
+DISTRIBUTION S.C.T. INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 21, 2006, at Chicoutimi, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Pierre Pilotte
+Counsel for the Respondent:
+Louis Cliche
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of Goods and Services Tax under Part IX of the Excise Tax Act, notice of which is dated August 3, 2005, in respect of the period from January 15, 2005, to March 31, 2005, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of September 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of June, 2007.
+Brian McCordick, Translator
+Citation: 2006TCC482
+Date: 20060915
+Docket: 2006-1149(GST)I
+BETWEEN:
+DISTRIBUTION S.C.T. INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment of Goods and Services Tax (GST) under the Excise Tax Act ("the Act").
+[2] In making the assessment, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact, which are set out in the Reply to the Notice of Appeal ("the Reply"):
+[TRANSLATION]
+(a) The facts admitted to above.
+(b) The Appellant is a GST registrant.
+(c) The Appellant is a business that operates a network of vending machines in the Saguenay-Lac-St-Jean region. Most of the machines are concentrated in the Jonquière and Chicoutimi areas.
+(d) In February 2005, the Appellant purchased a 2005 Ford F-series SuperCrew cab 4x4 pickup truck for $52,784.
+(e) The vehicle has an extended cab, which means that the passenger cabin is equipped with two (2) rows of seats, arranged one behind the other.
+(f) In addition, it is a four-wheel drive (4x4) vehicle.
+(g) Because of the layout of the cabin, the vehicle has more than three (3) seats.
+(h) The Appellant claimed an input tax credit (ITC) on the purchase price of the vehicle.
+(i) The Minister allowed an ITC based on the deemed value of the vehicle ($30,000), which is the value authorized by the Excise Tax Act where a registrant purchases a "passenger vehicle" for use as a capital asset in connection with the registrant's business activities.
+(j) In the course of the audit, Mario Desbiens, the Appellant's president, confirmed, on three occasions, that 50% of the use of the vehicle is devoted to the delivery of goods, 25% of its use is devoted to the inspection of goods, and 25% of its use is devoted to prospecting for new customers.
+[3] The Appellant admitted to all these facts, with the exception of paragraph (j).
+[4] Pierre Pilotte represented the Appellant at the hearing. The Appellant's president, Mario Desbiens, also attended.
+[5] Mr. Pilotte and Mr. Desbiens said that no log was kept to establish the commercial use of the vehicle, since 100% of its use was business-related.
+[6] Thus, in their submission, the fact that the vehicle was used solely for business purposes made a log pointless, since all driving was business-related.
+[7] To substantiate his claims, the president noted that, during the period covered by the assessment, he owned two other vehicles, and his spouse owned yet another vehicle.
+[8] All of these vehicles were smaller cars, and one or two of them could arguably be described as sports cars but were certainly not ideal for travel on the snowy roads of the Saguenay region.
+[9] For her part, the auditor explained the assessment method used. She essentially took two elements into account: the description of the assessed vehicle, and the Appellant's president’s use of the vehicle according to the information that he provided, which is reproduced at paragraph 5(j) of the Reply:
+(j) In the course of the audit, Mario Desbiens, the Appellant's president, confirmed, on three occasions, that 50% of the use of the vehicle is devoted to the delivery of goods, 25% of its use is devoted to the inspection of goods, and 25% of its use is devoted to prospecting for new customers.
+Analysis
+[10] The Appellant's president did not deny that he personally provided the various percentages on which the Minister based his assessment. Essentially, he argued that he did not understand why he had provided such a breakdown. However, based on the auditor's testimony, this was not an off-the-cuff estimate made during a general conversation; rather, it was in response to specific questions that were sent well before they were answered.
+[11] In other words, the auditor contacted Mr. Desbiens and explained that Mr. Desbiens would have to provide explanations and estimates regarding the use of the vehicles. Mr. Desbiens responded that he would not be able to provide an adequate answer on the spot. The answer was given later on. Based on this, it can be concluded that the estimate was the product of a certain amount of forethought, and that this clearly made the answer plausible.
+[12] The purchaser of a vehicle is entitled to claim an input tax credit (ITC) under sections 169 and 201 of the Act. The purpose of this measure is essentially to obtain an ITC after purchasing property that will be used to earn income. There can be situations in which a motor vehicle is purchased for two purposes: a business purpose and a personal purpose.
+[13] In such situations, is not necessarily easy to do an adequate breakdown between personal and business use. Consequently, it is very important for anyone in such a situation to do whatever is necessary to be able, in the event of an audit, to provide the most accurate information possible concerning the use of the vehicle.
+[14] One can certainly assert that a vehicle was used exclusively for business purposes. However, such an assertion must be plausible and realistic.
+[15] The burden of proof will be heavier where the vehicle is suitable for personal use. This is one such case, and it gives rise to questions:
+· Why did the Appellant purchase a luxury vehicle equipped with features that were not essential, but were expensive and very pleasant for personal use?
+· Was the vehicle purchased by an individual or legal entity whose ultimate objective is to make a profit?
+· Why was an attractive and practical vehicle not used for personal purposes?
+[16] When a person decides to purchase a vehicle with features that raise questions, the person must make careful, attentive and disciplined use of the vehicle so that he or she can ultimately provide persuasive evidence that the vehicle was used exclusively for business purposes.
+[17] A log can be a very useful way to do this, especially if the alleged use can be confirmed by documentary evidence.
+[18] Essentially, in the case at bar, the only evidence adduced was oral evidence, and the explanations differed greatly from the facts that came to light when the file was reviewed.
+[19] No log was kept, on the basis that all the mileage was business-related.
+[20] The rather unconvincing explanation given to justify the options on the vehicle was that they wanted to place certain provisions on the seats in order to protect them from the heat or the cold.
+[21] As for the fact that the Appellant's president had two other vehicles, once again, the explanations were not very persuasive, except to the extent that they showed that he was a vehicle enthusiast.
+[22] Since the two vehicles in question were not adapted to the region's long winters, it seems totally unlikely that the pickup truck was not used for personal purposes for a significant part of the year.
+[23] All in all, the vague and contradictory explanations provided on the Appellant's behalf are certainly not sufficient or adequate enough to cause this Court to conclude that the Appellant has discharged its burden of proof.
+[24] Based on the evidence regarding the vehicle's description, and based on the initial explanations given, the type of vehicle that the Appellant's president possessed, and the prevailing climate in the region where the vehicles were used, the Court finds that it is unlikely, and perhaps even utterly impossible, that the vehicle that the Appellant purchased for $52,784, namely a 2005 Ford F‑series four-door, 4x4 SuperCrew cab pickup truck with two rows of seats, was used and continues to be used exclusively for business purposes.
+[25] Since the calculations regarding the personal use of the vehicle were reasonable, there is no reason to alter them.
+[26] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 15th day of September 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 28th day of June, 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC482
+COURT FILE NO.: 2006-1149(GST)I
+STYLE OF CAUSE: Distribution S.C.T. Inc. and Her Majesty the Queen
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: August 21, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: September 15, 2006
+APPEARANCES:
+Agent for the Appellant:
+Pierre Pilotte
+Counsel for the Respondent:
+Louis Cliche
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

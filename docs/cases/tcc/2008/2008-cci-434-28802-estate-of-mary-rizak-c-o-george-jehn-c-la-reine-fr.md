@@ -1,0 +1,171 @@
+---
+title: "Estate of Mary Rizak c/o George Jehn c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28802/index.do"
+last_modified: "2008-08-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 434"
+citation2: ""
+neutral_citation: "2008 CCI 434"
+decision_date: "2008-08-06"
+language: "fr"
+item_id: "28802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1522
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:31:02.578000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62306abce68d0d6e8caafbc51ce9dc7000459600d8f0594bccce3f3e41f5d1a5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of Mary Rizak c/o George Jehn c. La Reine
+
+- Citation: 2008 CCI 434
+- Decision date: 2008-08-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1522, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of Mary Rizak c/o George Jehn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-06
+Référence neutre
+2008 CCI 434
+Numéro de dossier
+2007-4776(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4776(IT)I
+ENTRE :
+LA SUCCESSION DE MARY RIZAK a/s de GEORGE JEHN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juillet 2008, à Toronto (Ontario).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Miklos Nagy
+Avocat de l’intimée :
+Me Amit Ummat
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est rejeté sans frais, selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour d’août 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008CCI434
+Date : 20080806
+Dossier : 2007-4776(IT)I
+ENTRE :
+LA SUCCESSION DE MARY RIZAK a/s de GEORGE JEHN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Le ministre du Revenu national a refusé la déduction de frais d’intérêts demandée par l’appelante au titre [traduction] d’« intérêts payables » sur de l’argent emprunté aux fins de l’acquisition d’actions dans le cadre d’un programme d’achat différé. La décision du ministre était fondée sur les hypothèses de fait suivantes :
+[traduction]
+a) le 18 juillet 2003, l’appelante a conclu une convention de souscription d’investisseur – Programme d’achat différé (le « PAD ») appelé Horizon DPP Fund, dont le nom a ensuite été changé pour celui d’Olympus United Invest II DPP DSC (« Olympus »);
+b) l’appelante a souscrit, pour un montant de 600 000 $, à Olympus DPP (trois fois l’achat normal de 200 000 $), en versant 150 000 $ en espèces, avec un solde de 450 000 $, dans le PAD d’Olympus;
+c) le taux des intérêts courus dans le cadre du PAD est de 8 p. 100 ou de 1 p. 100 en sus du taux préférentiel, en dollars canadiens, de la Banque Royale du Canada, selon le montant qui est le plus élevé;
+d) l’appelante n’était pas obligée de verser les intérêts courus tant que la souscription n’était pas close – la date de clôture était le 31 décembre 2010;
+e) l’appelante ne pouvait gagner aucun revenu tant que les actions n’étaient pas acquises et les actions ne pouvaient pas être acquises avant que la souscription soit close;
+f) aux termes de la convention de souscription d’investisseur, aucun achat n’était conclu tant que le montant intégral n’était pas payé et aucune action n’était émise avant la date de clôture de la souscription;
+g) aux termes de la convention de souscription, le versement initial effectué par l’appelante ne faisait pas d’elle une détentrice d’actions de quelque catégorie que ce soit;
+h) l’appelante n’avait pas droit à des dividendes tant que les actions de la catégorie souscrite n’étaient pas payées et émises au complet;
+i) l’appelante ne cherchait pas à gagner un revenu tant que la souscription n’était pas close, le 31 décembre 2010;
+j) l’appelante n’a pas engagé de frais d’intérêts sur de l’argent emprunté;
+k) l’appelante n’a fourni aucune documentation montrant qu’un prêt lui avait été consenti, indiquant notamment la date du prêt, le montant du prêt, le taux d’intérêt, les conditions de remboursement du prêt et les montants remboursés sur le principal impayé[1].
+[2] M. Miklos Nagy, qui s’est présenté comme étant un conseiller financier, agissait à titre de représentant de l’appelante; il a témoigné à l’audience. C’est apparemment sur ses conseils qu’en 2003, feue Mary Rizak a conclu une convention de souscription d’investisseur – Programme d’achat différé (la « convention de souscription ») appelée Horizon DPP, par la suite connue sous le nom d’Olympus United Univest II DPP DSC (« Olympus DPP »). Un certain George Jehn, qui s’est présenté comme étant l’exécuteur testamentaire de l’appelante[2], était également présent pour le compte de cette dernière. M. Jehn a témoigné, mais son témoignage établissait uniquement qu’il n’avait pas pris part aux événements qui avaient mené à la souscription d’actions, par Mme Rizak, dans Olympus DPP.
+[3] M. Nagy a soutenu que, selon une bonne interprétation des dispositions de la convention de souscription, l’appelante avait le droit de déduire les frais d’intérêts au cours de son année d’imposition 2004. Pour des raisons qui n’ont jamais été expliquées, la convention de souscription elle‑même (ou les conventions) que feue Mary Rizak avait censément signée en 2003 n’a pas été soumise à la Cour. M. Nagy a plutôt soumis une version en blanc du formulaire type de la convention de souscription d’Olympus DPP, laquelle a été produite (sans que l’intimée s’y oppose) sous la cote A‑1. M. Nagy a également produit en preuve trois documents identiques, qui étaient chacun intitulés : [traduction] « État des intérêts courus payables »[3] lesquels, a‑t‑il dit, avaient été délivrés à Mme Rizak par Olympus DPP en 2004 pour chacune des trois souscriptions de 200 000 $ que cette dernière avait faites. Sous le titre : [traduction] « Intérêts courus et capital versé » pour l’Olympus DPP figure le tableau suivant :
+[traduction]
+Capital versé
+Solde impayé
+Versement initial
+Intérêts courus depuis le début
+Intérêts courus en 2004
+200 000 $
+150 000 $
+50 000 $
+17 490,41 $
+12 032,88 $
+[4] M. Nagy s’est fondé sur les pièces A‑1 et A‑2 à l’appui de la position de l’appelante selon laquelle des frais d’intérêts de 36 099,64 $ (12 032,88 $ x 3) devraient être déductibles en 2004, étant donné qu’il s’agissait du montant à payer sur le total du solde impayé de 450 000 $. Lors du contre‑interrogatoire, M. Nagy a admis qu’aux termes de la convention de souscription[4], aucune action ne devait être émise avant la [traduction] « date de clôture », définie dans ce document comme étant la date précisée par le souscripteur aux fins du paiement du solde impayé et des intérêts courus, au plus tard le 31 décembre 2010. Il a en outre admis que feue Mme Rizak n’avait jamais payé le solde impayé et les intérêts courus et il a concédé, en hésitant quelque peu, qu’aucun certificat d’actions n’avait été émis en faveur de Mme Rizak.
+[5] Malgré tout, M. Nagy a soutenu que même si aucune action n’avait été émise, [traduction] « le placement aurait pu être vendu n’importe quand ». À l’appui de cette thèse, M. Nagy a dit qu’il avait entendu parler [traduction] d’« autres personnes » qui avaient songé à le faire. Cette possibilité, à laquelle vient s’ajouter l’assertion de M. Nagy selon laquelle en souscrivant aux actions, feue Mme Rizak voulait uniquement gagner un revenu, était suffisante pour démontrer la capacité de production de revenu d’Olympus DPP. M. Nagy a fait valoir qu’étant donné que les souscripteurs étaient tenus, aux termes de la convention de souscription[5], de payer le solde impayé et les intérêts courus au plus tard le 31 décembre 2010, l’appelante pouvait être considérée comme ayant [traduction] « emprunté » ce montant d’Olympus DPP en vue d’acquérir les actions. Enfin, M. Nagy se fondait sur la simple déclaration figurant dans les documents intitulés : [traduction] « État des intérêts courus payables » comme preuve du fait que les intérêts étaient payables sur le solde impayé en 2004. C’est pour ces raisons qu’il a demandé avec instance à la Cour de conclure que l’appelante avait le droit de demander une déduction à l’égard des frais d’intérêts en vertu de l’alinéa 20(1)c) de la Loi de l’impôt sur le revenu (la « Loi »).
+[6] Selon la position prise par l’intimée, l’appelante n’était pas admissible à une telle déduction parce qu’elle n’avait pas satisfait aux critères énoncés aux sous‑alinéas 20(1)c)(i) et (ii) de la Loi :
+20. (1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien – Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+c) Intérêts – la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance‑vie),
+(ii) une somme payable pour un bien acquis en vue d’en tirer un revenu ou de tirer un revenu d’une entreprise (à l’exception d’un bien dont le revenu serait exonéré ou à l’exception d’un bien représentant un intérêt dans une police d’assurance‑vie).
+[...]
+[7] L’avocat de l’intimée a cité les remarques que le juge en chef Dickson avait faites dans l’arrêt Bronfman Trust c. Canada[6] en vue d’expliquer comment l’alinéa 20(1)c) permet la déduction du revenu de paiements effectués au titre des intérêts qui seraient par ailleurs non déductibles en vertu de l’alinéa 18(1)b) de la Loi :
+20 Je partage l’avis du juge Marceau quant au but de la disposition permettant la déduction d’intérêts. Le législateur a conçu le sous‑al. 20(1)c)(i) et lui a donné effet nonobstant l’al. 18(1)b) pour favoriser l’accumulation de capitaux productifs de revenus imposables. Ce ne sont pas tous les intérêts qui sont déductibles. L’intérêt sur l’argent emprunté pour produire un revenu exempt d’impôt ne l’est pas. L’intérêt sur l’argent emprunté pour acheter des polices d’assurance‑vie ne l’est pas. L’intérêt sur les emprunts utilisés à des fins non productives de revenu, telles que la consommation personnelle ou la réalisation de gains en capital, ne l’est pas non plus. La déduction prévue par la loi exige donc qu’on détermine si l’argent emprunté a été utilisé en vue de tirer un revenu imposable d’une entreprise ou d’un bien, ce qui constitue une utilisation admissible, ou s’il a été affecté à quelqu’une des possibles utilisations inadmissibles. Il incombe au contribuable d’établir que les fonds empruntés ont été utilisés à une fin identifiable ouvrant droit à la déduction. Par conséquent, si le contribuable mélange des fonds utilisés à différentes fins, dont une partie seulement est admissible, il peut ne pas pouvoir réclamer la déduction : voir, par exemple, Mills c. Ministre du Revenu national, 85 D.T.C. 632 (C.C.I.); No. 616 v. Minister of National Revenue, 59 D.T.C. 247 (C.A.I.).
+[8] L’avocat de l’intimée a renvoyé au principe établi par la jurisprudence, à savoir que les intérêts sont déductibles uniquement lorsqu’ils sont payables[7], et il a affirmé que malgré la description figurant dans chaque [traduction] « État des intérêts courus payables », il n’y avait pas, en fait ou en droit, d’intérêts qui étaient « payables » en 2004. De plus, l’intimée a fait valoir qu’aucune somme d’argent n’avait été empruntée aux fins de l’acquisition des actions décrites dans la convention de souscription; il n’y avait pas non plus d’intérêts payables sur de l’argent emprunté aux fins de l’acquisition d’un bien producteur de revenu puisque les conditions d’émission des actions souscrites aux termes de la convention de souscription n’avaient jamais été remplies. Enfin, malgré le témoignage de M. Nagy, rien ne montrait que feue Mme Rizak aurait pu vendre ses actions non émises.
+[9] À mon avis, la position prise par l’intimée est la bonne. Il est reconnu qu’en 2004, il n’y a pas eu en fait d’intérêts qui ont été versés. Pour avoir gain de cause dans sa demande de déduction de frais d’intérêts en vertu des sous‑alinéas 20(1)c)(i) ou (ii), l’appelante avait donc la charge de prouver qu’un montant était « payable » en 2004 « en exécution d’une obligation légale de verser des intérêts sur de l’argent emprunté ». Le seul élément de preuve concernant une telle obligation légale était la convention de souscription en blanc soumise par l’appelante à l’appui de sa position. Même selon les exigences plus souples de la procédure informelle, une telle documentation est bien loin d’établir l’existence de quelque obligation légale imposée à feue Mme Rizak en 2004. Toutefois, à supposer, à titre d’exemple, que la convention de souscription ait de fait donné lieu à « une obligation légale de verser des intérêts sur de l’argent emprunté », il ressort clairement du premier paragraphe de ce document qu’il n’y avait pas d’intérêts payables jusqu’à la date de clôture, c’est‑à‑dire au plus tard le 31 décembre 2010, lorsque le souscripteur payait de fait le solde impayé. L’appelante a admis que feue Mme Rizak n’avait jamais payé le solde impayé de 450 000 $ en 2004 ni à quelque autre moment avant que les autorités mettent finalement fin aux activités d’Olympus DPP. Conformément aux dispositions de la convention de souscription, il n’y avait pas d’intérêts qui étaient devenus payables en 2004, soit un état de choses qui ne change aucunement du simple fait qu’Olympus DPP a délivré un [traduction] « État des intérêts courus payables » pour cette année‑là. Puisqu’elle n’a pas réussi à démontrer qu’un montant avait été payé ou qu’un montant était payable au titre des intérêts sur de l’argent emprunté en 2004, l’appelante ne peut pas avoir gain de cause. Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour d’août 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 22e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008CCI434
+DOSSIER DE LA COUR : 2007-4776(IT)I
+INTITULÉ : SUCCESSION DE MARY RIZAK
+a/s de GEORGE JEHN c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 juillet 2008
+MOTIFS DU JUGEMENT : L’honorable juge G.A. Sheridan
+DATE DU JUGEMENT : Le 6 août 2008
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Miklos Nagy
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 7 de la réponse à l’avis d’appel.
+[2] Aucunes lettres d’homologation faisant état de sa qualité d’exécuteur testamentaire n’ont été soumises à la Cour.
+[3] Pièce A-2.
+[4] Voir la clause 3.
+[5] Premier paragraphe.
+[6] [1987] 1 R.C.S. 32.
+[7] Barbican Properties Inc. v. R., 97 DTC 5008; Redclay Holdings Ltd. v. R., 96 DTC 1207.

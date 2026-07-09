@@ -1,0 +1,128 @@
+Title: Kohn c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520931/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-57-520931-kohn-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2022-06-06
+
+# Kohn c. La Reine
+
+- Citation: 2022 CCI 57
+- Decision date: 2022-06-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4525, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kohn c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-06
+Référence neutre
+2022 CCI 57
+Numéro de dossier
+2021-1050(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2022 CCI 57
+Date : 20220606
+Dossier : 2021-1050(IT)G
+ENTRE :
+BERNARDO KOHN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Version révisée de la transcription des motifs de l’ordonnance jugement rendu verbalement à l’audience le 11 mai 2022 à Ottawa, en Ontario, pour la ponctuation, les majuscules, l’orthographe, les paragraphes et l’exactitude; pour supprimer les répétitions où j’ai buté sur mes mots; et pour ajouter des titres)
+Le juge Graham
+[1] Bernardo Kohn a déposé un avis d’appel à l’égard de ses années d’imposition 2010, 2011, 2012 et 2013. L’intimée a déposé une requête en radiation du premier paragraphe de l’avis d’appel de M. Kohn, ainsi que des paragraphes 69, 70 et 71 et de l’annexe 1, le tout sans autorisation de modification.
+[2] Je suis prêt à rendre mon jugement verbal à l’égard de la requête. Je ne donnerai pas de motifs.
+[3] L’intimée fait valoir que les parties controversées de l’avis d’appel se rapportent à des allégations non substantielles et non pertinentes qui n’ont aucune incidence sur le bien-fondé ou la validité des nouvelles cotisations et ne se rapportent à aucune mesure que la Cour peut accorder. J’abonde dans le même sens. J’accueille la requête de l’intimée. Les parties controversées de l’avis d’appel soulèvent des questions sur la conduite du ministre, et non sur l’exactitude ou la validité des nouvelles cotisations.
+[4] Avant de passer à mon analyse de chacune des parties pertinentes de l’avis d’appel, je dois d’abord exposer quelques renseignements généraux sur la vérification de l’appelant et les techniques de vérification employées par le vérificateur.
+I. TECHNIQUES DE COTISATIONS SUBSIDIAIRES
+[5] Le ministre a établi de nouvelles cotisations à l’égard de l’appelant relativement à différentes questions en litige. L’une de ces questions concernait des revenus non déclarés allégués. Les revenus non déclarés allégués ont été déterminés conformément au paragraphe 152(7) de la Loi de l’impôt sur le revenu. Pour faire simple, ce texte dispose que le ministre n’est pas lié par les déclarations ou renseignements fournis par un contribuable et qu’il peut, lors de l’établissement d’une cotisation, faire abstraction des renseignements que le contribuable a produits dans la déclaration et déterminer plutôt le revenu du contribuable en utilisant une méthode différente. Je qualifierai ces différentes méthodes de « techniques de cotisations subsidiaires ».
+[6] Le ministre utilise généralement des techniques de cotisations subsidiaires s’il estime que les dossiers du contribuable sont un moyen inadéquat de vérifier le revenu de celui-ci. Les deux techniques de cotisations subsidiaires les plus courantes sont les calculs de la valeur nette et les analyses des dépôts bancaires.
+[7] Avant de me pencher sur les parties controversées de l’avis d’appel, je dois consacrer un peu de temps à souligner la différence entre le calcul de la valeur nette et l’analyse des dépôts bancaires. Je dois apporter ces précisions en raison de l’insistance de l’appelant à faire référence à un certain document de travail en tant qu’analyse de dépôt bancaire, ce qui a créé beaucoup de confusion aujourd’hui.
+Calcul de la valeur nette
+[8] Je commencerai par expliquer la méthode dite de calcul de la valeur nette. Pour faire simple, le calcul de la valeur nette comprend quatre étapes. Premièrement, le vérificateur compare la valeur nette du contribuable à la fin de l’année faisant l’objet de la vérification à sa valeur nette à la fin de l’année précédente. Le ministre présume que toute augmentation de la valeur nette résulte de ce que le contribuable a gagné un revenu.
+[9] Deuxièmement, le vérificateur ajoute à cette variation de la valeur nette les dépenses du contribuable pour l’année. Encore une fois, le ministre présume que ces dépenses ont été payées à même le revenu du contribuable.
+[10] Troisièmement, le vérificateur apporte divers ajustements au total de la deuxième étape afin de tenir compte des sommes qui n’auraient pas été prises en compte dans le calcul et des sommes qui auraient été prises en compte, mais qui ne sont pas imposables et doivent donc être supprimées.
+[11] Enfin, le vérificateur compare le total obtenu au revenu déclaré par le contribuable. Si le total est supérieur au revenu déclaré, le ministre établit une nouvelle cotisation pour ajouter la différence du revenu du contribuable.
+Analyse des dépôts bancaires
+[12] L’analyse des dépôts bancaires est une méthode totalement différente de calcul du revenu d’un contribuable. L’analyse des dépôts bancaires comprend l’examen de chaque dépôt fait par un contribuable dans son compte bancaire. Le ministre demande au contribuable d’expliquer la source de chacun de ces dépôts. Dans la mesure où le contribuable ne peut expliquer la source, il donne une explication que le ministre ne retient pas, ou convient que la source de l’argent est imposable et que le revenu n’a pas été déclaré, le ministre ajoute les dépôts au revenu du contribuable. Si le contribuable réussit à convaincre le vérificateur que le dépôt vient d’une source non imposable, constitue un virement provenant d’un autre compte bancaire du contribuable, ou a déjà été déclaré dans le revenu du contribuable, le ministre ne tient pas compte du dépôt.
+[13] Parfois, le vérificateur amorce la vérification par l’analyse des dépôts bancaires, puis passe au calcul de la valeur nette. C’est ce qui s’est produit dans le cas de l’appelant. Je ne sais pas pourquoi le vérificateur a pris la décision de changer de technique dans le cas de l’appelant, et je n’ai pas non plus besoin de savoir pourquoi. Tout ce qui compte, c’est que le vérificateur a effectué le changement et que la cotisation de l’appelant a été établie au moyen de la méthode de calcul de la valeur nette.
+[14] Compte tenu de cette trame de fond, je me pencherai maintenant sur les parties controversées de l’avis d’appel.
+II. ÉLÉMENTS CONTROVERSÉS
+[15] Les parties controversées ont toutes trait à l’affirmation de l’appelant selon laquelle le ministre ne lui a pas fourni un certain document en temps opportun. L’appelant se réfère au document comme étant une analyse des dépôts bancaires. Il s’agit d’une description trompeuse.
+[16] Comme il est mentionné ci-dessus, l’analyse des dépôts bancaires porte uniquement sur les dépôts effectués sur le compte bancaire du contribuable. Le document en question examine toutes les transactions qui ont eu lieu dans les comptes bancaires, à la fois les dépôts et les retraits, et les regroupe en différentes catégories. Il utilise ensuite les renseignements qui en résultent pour déterminer les dépenses personnelles de l’appelant aux fins de la deuxième étape du calcul de la valeur nette et pour déterminer les ajustements qui doivent être apportés à son revenu au cours de la troisième étape. Autrement dit, il s’agit d’un document de travail que le vérificateur a utilisé pour analyser le compte bancaire de l’appelant.
+[17] Appeler le document « analyse des dépôts bancaires » peut donner lieu à une confusion importante, comme en témoigne le temps considérable perdu dans les observations verbales à essayer de comprendre pourquoi l’appelant pensait que l’analyse des dépôts bancaires constituait la base du calcul de la valeur nette sur laquelle sa cotisation a été établie.
+[18] L’analyse des dépôts bancaires ne peut pas constituer la base d’un calcul de la valeur nette. Si le vérificateur effectue une analyse des dépôts bancaires avant d’effectuer un calcul de la valeur nette, les résultats de cette analyse ne sont pas intégrés au calcul de la valeur nette. Un calcul de la valeur nette n’est pas une extension d’une analyse des dépôts bancaires, c’est une méthode de vérification entièrement différente.
+[19] D’autre part, un document de travail de vérification qui examine le compte bancaire d’un contribuable afin de classer les retraits et certains types de sources de revenus non imposables fait partie de la méthode de calcul de la valeur nette.
+[20] Pour tous les motifs mentionnés ci-dessus, je ferai référence dans le reste de ces motifs au document en question en tant que document de travail sur le compte bancaire.
+[21] Avant de poursuivre, compte tenu de toute la confusion présente dans les observations verbales, je veux être clair sur un point : je reconnais que le document de travail sur le compte bancaire est un document pertinent. Alors que sa pertinence ne m’était pas claire lorsque j’ai cru comprendre qu’il s’agissait d’une analyse des dépôts bancaires qui ne faisait pas partie du fondement de la nouvelle cotisation, je comprends maintenant sa pertinence. Ma décision dans cette requête n’est aucunement fondée sur la pertinence du document.
+[22] Quoi qu’il en soit, l’appelant fait grief de ne pas avoir reçu en temps utile la copie du document de travail sur le compte bancaire.
+Paragraphe 69
+[23] L’appelant soulève cette question au paragraphe 69 de l’avis d’appel. Dans ce paragraphe, l’appelant fait grief à l’ARC de ne pas lui avoir fourni une version électronique complète et originale du document de travail du compte bancaire et que la version papier qui lui a été fournie était incomplète et illisible. L’appelant déclare que, sans ces renseignements, il était inconcevable qu’il puisse effectuer sa propre analyse du document de travail.
+[24] Ces affirmations se rapportent uniquement à la façon dont le ministre a effectué la vérification; il s’agit d’une question sur laquelle cette Cour n’a pas compétence. L’appelant soutient que l’objet du paragraphe 69 n’est pas de faire grief à la conduite du vérificateur, mais plutôt : [traduction] « D’alléguer que le fardeau de la preuve devrait se déplacer vers le ministre du fait qu’elle n’a pas divulgué toutes les hypothèses de fait relatives aux dépôts (une partie de la valeur nette) sur laquelle il s’est appuyé pour établir les nouvelles cotisations en litige ». Aucun argument de ce genre n’est effectivement avancé dans aucun des paragraphes controversés.
+[25] Quoi qu’il en soit, je ne vois pas comment on pourrait dire que le ministre a omis de divulguer les hypothèses de fait à l’appelant. Le ministre a établi une nouvelle cotisation à l’égard de l’appelant au moyen de la méthode de calcul de la valeur nette. Les paragraphes 47.23 à 47.27 de la réponse et les calculs connexes de la valeur nette contenus dans les annexes A à E de la réponse exposent les hypothèses que le ministre a formulées. Bien que certaines sommes figurant dans les annexes soient des totaux provenant du document de travail sur le compte bancaire, il n’est pas nécessaire que le ministre joigne ce document de travail à la réponse ou plaide les sommes et transactions précises qui ont donné lieu à ces totaux. Il s’agit d’un élément de preuve et cet élément n’est pas un acte de procédure.
+[26] L’appelant a déjà une copie du document de travail des dépôts bancaires et il la possédait avant de déposer son avis d’appel. Il connaît les moyens qui lui sont opposés; il aurait seulement souhaité connaître ces éléments pendant le processus de vérification.
+[27] L’appelant essaie simplement de maquiller un argument au sujet de la conduite du ministre en utilisant la formulation du fardeau de la preuve et des hypothèses de fait. Les paragraphes controversés se trouvent dans la section des motifs de l’avis d’appel, et non dans la section des faits, mais ils ne font aucune référence à un argument concernant le fardeau de la preuve. Ils évoquent plutôt un « préjudice irréparable »; des violations des [traduction] « droits du contribuable de se défendre contre les nouvelles cotisations établies »; le refus déraisonnable du ministre de fournir le document de travail; et des dommages irréversibles et irréparables. Il s’agit du langage utilisé par un contribuable qui fait grief à la conduite du ministre et demande réparation pour ces actions; réparation que cette Cour n’a pas compétence d’accorder.
+[28] Au final, même si le ministre a fait ce que l’appelant allègue, les actions dont l’appelant fait grief ne portent pas sur l’exactitude ou la validité des nouvelles cotisations, ni sur aucune réparation que la Cour peut accorder. Par conséquent, je radierai le paragraphe 69.
+[29] Après avoir statué sur le paragraphe 69, je passerai maintenant au paragraphe 70.
+Paragraphe 70
+[30] Au paragraphe 70, l’appelant décrit en détail le temps qui s’est écoulé entre sa première demande de version électronique du document de travail sur le compte bancaire et le moment où il l’a finalement reçu. Il décrit comment il était alors trop tard pour lui de rassembler les renseignements nécessaires pour défendre la cotisation. Il explique que la personne-ressource qui connaissait le mieux ses affaires et qui prenait une part très active dans la vérification est décédée depuis et ne peut donc plus l’aider à contester les nouvelles cotisations.
+[31] Essentiellement, le paragraphe 70 ne fait qu’élargir les griefs de l’appelant à l’égard des actions du ministre en soulignant leurs effets. Je le radierai aussi.
+[32] Si, au procès, l’appelant a de la difficulté à se souvenir d’une transaction en raison de l’écoulement du temps, s’il ne peut expliquer une transaction parce que sa personne-ressource est décédée ou s’il n’a pas un document parce qu’il ne peut plus l’obtenir, il pourra expliquer ces éléments au juge qui préside. De telles explications n’ont pas leur place dans les actes de procédure.
+Paragraphe 71
+[33] Passons ensuite au paragraphe 71. Le paragraphe 71 est un résumé des paragraphes 69 et 70 et doit être radié pour les mêmes motifs.
+Annexe I
+[34] Passons ensuite à l’annexe 1. L’annexe 1 contient une liste de correspondances qui, selon l’appelant, appuient son allégation selon laquelle le ministre ne lui a pas fourni le document de travail sur le compte bancaire en temps opportun. Je la radierai pour le même motif que j’ai invoqué pour radier les paragraphes précédents. De plus, je remarque que cette annexe contient simplement une liste d’éléments de preuve et qu’elle n’a donc pas sa place dans un avis d’appel en tout état de cause.
+Premier paragraphe
+[35] Enfin, je passe au premier paragraphe de l’avis d’appel. Le premier paragraphe n’est pas tant une vue d’ensemble ou une introduction à l’ensemble de l’appel qu’un résumé de l’argument de l’appelant concernant le document de travail sur le compte bancaire. J’accepte de le radier et de radier le titre « Considérations préliminaires » qui l’accompagne pour les mêmes motifs dont j’ai fait état ci-dessus.
+III. CONCLUSION
+[36] En conclusion, pour les motifs exposés ci-dessus, la requête en radiation présentée par l’intimée est accueillie. Les éléments suivants sont radiés de l’avis d’appel sans autorisation de modification : le premier paragraphe et le titre associé, « Considérations préliminaires »; les paragraphes 69, 70 et 71; et l’annexe 1.
+Signé à Ottawa, Canada, ce 6e jour de juin 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 14e jour de septembre 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 57
+NO DU DOSSIER DE LA COUR :
+2021-1050(IT)G
+INTITULÉ :
+BERNARDO KOHN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 mai 2022
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge David E. Graham
+DATE DES MOTIFS ORAUX :
+Le 11 mai 2022
+DATE DES MOTIFS DE L’ORDONNANCE :
+Le 6 juin 2022
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Nicolas Simard Me Bruno Di Dodo
+Avocate de l’intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Nicolas Simard
+Cabinet :
+Fasken Martineau DuMoulin LLP Montréal, Québec
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

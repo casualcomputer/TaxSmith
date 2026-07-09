@@ -1,0 +1,149 @@
+---
+title: "Hawkins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26325/index.do"
+last_modified: "2003-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 32"
+citation2: ""
+neutral_citation: "2003 CCI 32"
+decision_date: "2003-02-14"
+language: "fr"
+item_id: "26325"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3272
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:33:42.308000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c5ee2d5c19b95d1fbed5beb91d7c0b0678ed8dde2679671cbea9e39ad6e54de8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hawkins v. The Queen
+
+- Citation: 2003 CCI 32
+- Decision date: 2003-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3272, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hawkins v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-02-14
+Référence neutre
+2003 CCI 32
+Numéro de dossier
+2002-1867(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-1867(IT)I
+ENTRE :
+BRIAN G. HAWKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus le 29 novembre 2002, à Prince George (Colombie-Britannique)
+Par : l'honorable juge C. H. McArthur
+Comparutions :
+Représentante de l'appelant :
+Pat Morton
+Avocate de l'intimée :
+Me Jasmine Sidhu
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1997 est admis, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que, lors du calcul de son revenu, l'appelant devra déclarer 50 % du gain en capital imposable de l'ordre de 18 897 $ provenant de la vente de bois d'oeuvre.
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi pour l'année d'imposition 1998 est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de février 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 13e jour de janvier 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI32
+Date: 20030214
+Dossier: 2002-1867(IT)I
+ENTRE :
+BRIAN G. HAWKINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] En 1997, l'appelant a touché 25 316 $ dans le cadre de la vente de bois récolté d'un terrain qu'il possédait conjointement avec sa conjointe. La question qui se pose est de savoir si l'appelant répond aux critères de la définition de « bien agricole admissible » du paragraphe 110.6(1) de la Loi de l'impôt sur le revenu et s'il a donc droit à l'exonération enrichie des gains en capital en vertu du paragraphe 110.6(2). Les critères auxquels l'appelant ne répond pas, selon le ministre du Revenu national, comprennent ce qui suit : (i) le revenu agricole brut de l'appelant n'a jamais dépassé le revenu qu'il a gagné d'autres sources; (ii) il ne s'est jamais engagé dans l'exploitation d'une entreprise agricole de façon régulière et continue.
+[2] Le paragraphe 110.6(1) se lit en partie comme suit :
+110.6(1) Les définitions qui suivent s'appliquent au présent article.
+« bien agricole admissible » S'agissant d'un bien agricole d'un particulier à un moment donné [...], l'un des biens suivants appartenant à ce moment donné au particulier [...] :
+a) un bien immeuble qui a été utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada :
+(i) soit par le particulier,
+[...];
+pour l'application du présent alinéa, un bien immeuble n'est considéré comme utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada que si, selon le cas :
+(vi) le bien [...] est la propriété d'une personne [...] tout au long de la période d'au moins 24 mois précédant ce moment si, selon le cas :
+(A) pendant au moins deux ans, pendant lesquels le bien ou le bien substitué était ainsi la propriété d'une telle personne [...], le revenu brut d'une telle personne [...] tiré de l'entreprise agricole exploitée au Canada dans le cadre de laquelle le bien ou le bien substitué était utilisé principalement et dans laquelle une telle personne [...] prenait une part active de façon régulière et continue dépassait le revenu de la personne provenant de toutes les autres sources pour l'année,
+[3] Il s'agit, en second lieu, de savoir si l'appelant et sa conjointe étaient associés dans la vente de bois d'oeuvre et l'entreprise agricole. L'appelant était représenté par Mme Pat Morton. Lui et sa conjointe Penelope ont témoigné.
+[4] En 1992, l'appelant et sa conjointe ont acheté 160 acres de terre à Hixon, en Colombie-Britannique, dont 60 acres étaient situés dans des champs de foin. Au cours de l'année 1990 et auparavant, il travaillait principalement dans le domaine du camionnage et a continué à le faire à plein temps jusqu'à ce jour. En 1997 et en 1998, il a travaillé comme chauffeur de camion chez BC Rail où il a gagné annuellement à titre d'employé environ 50 000 $ et 41 000 $, respectivement.
+[5] L'appelant soutient qu'il prenait une part active dans l'exploitation d'une entreprise agricole de façon régulière et continue au sens de la Loi. En 1995, il a acquis une pelle rétrocaveuse et un tracteur qui ont servi à dégager une parcelle de terre pour construire une maison de même qu'ils ont servi plus tard à dégager des souches et des débris du terrain où les arbres avaient été coupés par une entreprise de bois d'oeuvre. Un voisin coupait les deux tiers du foin chaque année et l'appelant emmagasinait le tiers restant dans sa grange. Aucun revenu annuel net de plus de 50 $ n'a jamais été réalisé. L'appelant a ajouté qu'il avait l'intention de dégager le terrain où se trouvait le bois d'oeuvre pour en faire un champ de foin.
+[6] En 1997, l'appelant et sa conjointe ont vendu du bois d'oeuvre provenant de la propriété pour un montant net de 25 316 $ qui lui a été directement versé par la scierie ayant acheté les billes de bois. L'appelant et sa conjointe ont touché des revenus bruts de 3 000 $ de la vente de foin en 1997, dont le revenu net était de 50 $. En 1998, il a touché un revenu brut de 1 500 $ de la vente de foin. Le revenu net qu'il a tiré de l'entreprise agricole était de 1 $. Par ailleurs, en 1997 et 1998, lui et sa conjointe ont fait l'acquisition de quatre lamas mâles dont le prix d'achat, si je comprends bien, n'a pas dépassé 300 $.
+[7] Ils n'ont jamais essayé de s'engager dans le domaine de l'élevage des lamas. Le quatrième lama leur avait été offert. Il était vieux et aveugle. Les lamas femelles coûtent environ 10 000 $ et ils n'avaient aucune intention d'en acheter un. Mme Hawkins a déclaré qu'elle a un vieux congélateur rempli de laine de lama emmêlée dont elle ne sait que faire. Ils n'ont jamais touché de revenu de leurs lamas et n'ont aucune intention de le faire.
+[8] Dans le calcul de leurs revenus pour l'année d'imposition 1997, l'appelant et sa conjointe n'ont déclaré ni le gain réalisé lors de la vente de bois d'oeuvre, ni le revenu brut et net de l'entreprise agricole de l'ordre de 3 000 $ et 50 $, respectivement. Ils n'ont pas déclaré non plus le revenu brut et net de l'entreprise agricole de l'ordre de 1 500 $ et 1 $ en 1998. Le ministre a établi une cotisation à l'égard de l'appelant le 9 octobre 2001 pour un gain en capital imposable de 18 987 $ réalisé lors de la vente de bois d'oeuvre.
+[9] L'appelant a déposé un avis d'opposition à la cotisation établie pour l'année d'imposition 1997 pour faire valoir son opposition à l'inclusion du gain en question et a, en même temps, fait une requête distincte au ministre où il lui demandait d'établir de nouvelles cotisations pour les années d'imposition 1997 et 1998 afin d'inclure le revenu net qu'il a tiré de l'entreprise agricole et qui s'élevait à 50 $ et 1 $, respectivement. Le ministre a alors établi de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 1997 et 1998 afin d'inclure le revenu agricole.
+La position de l'appelant
+[10] La représentante de l'appelant a invoqué la décision que la Cour d'appel fédérale a prise dans l'affaire Larsen c. Canada[1]. Quand l'appelant a acheté la propriété en 1992, cette dernière se composait de champs de foin et d'un terrain boisé. Elle a fait valoir que l'appelant et sa conjointe avait fait couper le bois d'oeuvre pour élargir les champs de foin de 60 à 80 acres. Il s'agit de savoir si le bois d'oeuvre est un bien agricole admissible. En se fondant sur l'arrêt Larsen[2], Mme Morton a déclaré que le revenu agricole ne doit pas nécessairement être plus élevé que l'autre revenu du contribuable au cours de l'année concernée. Dans l'affaire Larsen,le contribuable travaillait à l'extérieur de la ferme et l'agriculture était secondaire. Mme Morton a ajouté que Brian et Penelope Hawkins étaient associés puisque la propriété était à leurs deux noms et que tous les deux effectuaient le travail nécessaire.
+La position de l'intimée
+[11] Le bois d'oeuvre ne répond pas à la définition de « bien agricole admissible » parce que le revenu brut que l'appelant a tiré de l'entreprise agricole de façon régulière et continue ne dépassait pas celui qu'il gagnait d'autres sources en 1996 et 1997.
+[12] Deuxièmement, l'avocate de l'intimée a déclaré que M. et Mme Hawkins n'exploitaient pas une société en nom collectif en 1997 puisqu'ils ne répondent pas aux critères de la « PartnershipAct[3] » ( « Loi sur les sociétés en nom collectif de la Colombie-Britannique » ) et de la jurisprudence, en particulier l'arrêt Continental Bank Leasing Corp. c. Canada[4].
+Analyse
+[13] Il est clair que le revenu brut que l'appelant a tiré de l'entreprise agricole n'a jamais dépassé celui qu'il a tiré d'autres sources, à savoir son emploi au sein de la société ferroviaire à titre de chauffeur de camion. Son revenu agricole brut, y compris la vente de bois d'oeuvre, était inférieur à 26 000 $ en 1997[5]. Son revenu d'emploi s'élevait à 50 000 $. En 1998, son revenu agricole était inférieur à 2 000 $ tandis que son revenu d'emploi était de 41 000 $. La loi est claire à la division 110.6(i)a)(vi)(A). Cette question n'a pas été traitée dans l'affaire Larsen. L'appelant ne satisfait pas à la définition de « bien agricole admissible » puisqu'il ne prenait pas une part active de façon régulière et continue dans l'exploitation d'une entreprise agricole et son revenu agricole brut n'était pas supérieur au revenu qu'il tirait de toutes les autres sources pendant au moins deux années au cours desquelles il possédait le bien.
+[14] Au nom de l'appelant, Mme Morton a fait observer que, dans l'affaire Larsen, le revenu que le contribuable avait tiré de toutes les autres sources a dû être supérieur à son revenu agricole. Ni la Cour canadienne de l'impôt, ni la Cour d'appel fédéral n'ont traité de cette partie de la définition de « bien agricole admissible » de l'article 110.6 relativement au revenu agricole brut qui dépasse le revenu tiré d'autres sources.
+[15] Dans l'affaire Larsen, contrairement à la présente espèce, le terrain servait de terre agricole au cours de toute la période pertinente. Le bois d'oeuvre était un bien immeuble et faisait partie du bien agricole. La Cour d'appel fédéral a estimé que cela suffisait pour justifier l'application des dispositions relatives au bien agricole admissible du paragraphe 110.6(1).
+[16] L'avocate de l'intimée a indiqué qu'en plus de l'arrêt Larsen, les deux autres arrêts évoqués dans son recueil de jurisprudence[6] ne traitent pas de la présente question en litige. Dans les affaires Larsen, Glassford et Mel-Bar , la Cour devait déterminer si la disposition du bois d'oeuvre constituait un revenu ou un gain en capital. La Cour d'appel fédéral a confirmé, dans l'affaire Larsen, que c'était un gain en capital.
+[17] Il reste à déterminer si M. et Mme Hawkins étaient associés dans la récolte et la vente de bois d'oeuvre. Cette question n'a pas été traitée dans les actes de procédure et semble avoir été soulevée après coup par la représentante de l'appelant. Néanmoins, c'est évidemment un argument qui mérite d'être noté. Il faut donner à la réalité de la relation d'affaires une certaine validité particulièrement en raison du fait que cet appel est entendu sous le régime de la procédure informelle de notre cour. En dépit de l'argument fort valable de l'avocate de l'intimée selon lequel il n'y avait ni entreprise ni société en nom collectif, j'arrive à une conclusion contraire. Ils possédaient à parts égales le terrain qui comprenait le bois d'oeuvre. Ils étaient copropriétaires du terrain boisé. Ils avaient conjointement décidé de récolter et de vendre les arbres; Mme Hawkins était propriétaire à part égale du bois d'oeuvre. Il y avait assurément un commerce de bois d'oeuvre qui était exploité dans le but de réaliser un bénéfice. Le fait que M. Hawkins s'occupait tout seul du marquage du bois et que le chèque de l'entreprise de bois d'oeuvre était libellé à son nom n'établit pas une association. Je suis convaincu qu'ils voulaient devenir associés; ils ont contribué de façon égale sur le plan financier dans la mesure où ils étaient copropriétaires des arbres. Ils ont décidé conjointement de s'engager dans l'exploitation de la récolte et de la vente de leurs arbres.
+[18] L'avocate m'a renvoyé à l'arrêt Continental Bank[7]où la Cour suprême du Canada a déclaré ce qui suit à la page 318 (DTC : page 6514) :
+[...] Comme il est indiqué dans Lindley & Banks on Partnership (17e éd. 1995), à la p. 73 : [TRADUCTION] « pour déterminer l'existence d'une société en nom collectif [...] il faut tenir compte du contrat et de l'intention véritables des parties ressortant de l'ensemble des faits de l'affaire » .
+[...] Parmi ces indices, mentionnons les suivants: apport des parties à l'entreprise commune sous forme de numéraire, biens, travail, connaissances, habiletés ou autres éléments; droit de propriété conjointe dans l'objet de l'entreprise; partage des profits et des pertes; droit mutuel de contrôle ou de gestion de l'entreprise; production de déclarations de revenus à titre de société en nom collectif et comptes bancaires conjoints. [...]
+[19] Pour les motifs susmentionnés, l'appelant et sa conjointe respectent l'esprit de ces éléments. L'appelant est un profane quant aux critères s'appliquant à une société en nom collectif, mais je ne doute aucunement que lui et sa conjointe Penelope avaient l'intention d'agir et, en fait, ont agi comme associés relativement à la vente de bois. Le fait que la moitié du bois d'oeuvre appartenait à sa conjointe et qu'ils travaillaient en équipe ne peut être ignoré. Il s'agit en fait des facteurs prépondérants.
+[20] En conclusion, la propriété où se trouvait le bois d'oeuvre n'était pas un « bien agricole admissible » et l'appelant n'a pas droit à l'exonération enrichie des gains en capital prévue au paragraphe 110.6(2). L'appelant et sa conjointe étaient associés à parts égales relativement à la vente de bois d'oeuvre.
+[21] L'appel de la cotisation établie pour l'année d'imposition 1997 est admis et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que la moitié du gain en capital de 25 316 $ provenant de la vente de bois doit être incluse dans le revenu imposable de l'appelant. L'appel interjeté à l'encontre de la cotisation établie pour l'année d'imposition 1998 est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de février 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 13e jour de janvier 2005.
+Sophie Debbané, réviseure
+[1] [1999] A.C.F. no1665 (99 DTC 5757).
+[2]
+Ibid.
+[3] R.S.B.C. 1996 chapitre 348.
+[4] [1998] 2 R.C.S. 298 (98 DTC 6505).
+[5] Le bois d'oeuvre constituait une immobilisation.
+[6]
+Glassford c. Canada, [2000] A.C.I. no 676 (2000 DTC 2531) et Mel-Bar Ranches c. M.R.N (C.F.1re inst.), [1989] A.C.F. no219 (89 DTC 5189).
+[7]
+Précité, note 4.

@@ -1,0 +1,140 @@
+Title: Dufour c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25954/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-685-25954-dufour-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-09-24
+
+# Dufour c. La Reine
+
+- Citation: 2003 CCI 685
+- Decision date: 2003-09-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3783, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-24
+Référence neutre
+2003 CCI 685
+Numéro de dossier
+2002-3963(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-3963(GST)I
+ENTRE :
+RAYNALD DUFOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 septembre 2003 à Matane (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Ghislaine Thériault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 20 juillet 2001, portant le numéro 0254147, relativement à la taxe sur les produits et services, pour la période du 1er juillet 1997 au 31 décembre 2000, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI685
+Date : 20030924
+Dossier : 2002-3963(GST)I
+ENTRE :
+RAYNALD DUFOUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à une cotisation en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ), relativement à la taxe sur les produits et services ( « TPS » ), datée du20 juillet 2001, portant le numéro 0254147, couvrant la période du 1er juillet 1997 au 31 décembre 2000.
+[2] L'appelant a construit deux immeubles à logements, regroupant quatre logements chacun, situés respectivement au 389 et 391 de la rue Montée, Ste-Odile, Rimouski.
+[3] La construction des deux immeubles était achevée en grande partie lorsque les premiers locataires prirent possession de leur logement à compter du 1er novembre 1999.
+[4] Il s'agissait d'immeubles dont les travaux de construction furent dirigés par l'appelant lui-même; ce faisant, l'appelant s'est fourni à lui-même deux immeubles d'habitation à logements multiples; il devait donc s'autocotiser en se basant sur la juste valeur marchande (la « JVM » ) desdits immeubles.
+[5] Se représentant lui-même, l'appelant a soumis une preuve constituée de son seul témoignage. Il a essentiellement contesté la valeur attribuée de 225 000 $ à chacun de ses deux immeubles.
+[6] Pour soutenir ses prétentions, il a fait référence à la vente d'un immeuble identique dont il était propriétaire. Cette vente avait fait l'objet d'une transaction regroupant trois immeubles, chacun s'étant vu attribuer une considération particulière. L'immeuble identique, selon l'appelant, s'était vu attribuer une valeur de 160 000 $ par les parties à la transaction.
+[7] Plus ou moins cinq ans plus tard, soit au mois d'août 2003, l'appelant aurait fait une offre au même acheteur pour racheter les trois immeubles en question; il aurait offert la même considération majorée d'une dizaine de milles dollars en remboursant des dépenses effectuées pour les travaux d'isolation à l'un des trois immeubles. Son offre aurait été récemment acceptée.
+[8] Partant de là, l'appelant a affirmé et soutenu que les deux immeubles litigieux, identiques à celui qui a fait l'objet d'une vente et d'un éventuel rachat, avaient la même JVM. Les prétentions de l'appelant sont d'ailleurs conformes à l'avis d'appel préparé par son comptable et rédigé comme suit :
+(Extrait d'une lettre provenant de Raymond Chabot Grant Thornton)
+Rimouski, le 10 octobre 2002
+[...]
+OBJET : Avis d'appel
+Procédure informelle
+Monsieur Raynald Dufour
+TPS : 131325961
+Madame, Monsieur,
+[...]
+Motifs de l'appel :
+Notre client n'est pas satisfait de l'avis de cotisation du ministère du revenu du Québec émise en TPS le 20 juillet 2001. Dans cette cotisation le ministère du revenu du Québec établissait la juste valeur marchande d'un immeuble locatif à 195 609,75 $, nous croyons que cette valeur est mal fondée pour les motifs suivants.
+Le contribuable, monsieur Dufour, détenait plusieurs immeubles locatifs identiques dans le même secteur de Rimouski [...]. Le 4 mars 1998, avant la cotisation du 20 juillet 2001 le contribuable vend un des immeubles identiques à ceux faisant l'objet de la cotisation pour une somme de 162 500 $. [...]
+Il s'agissait d'un immeuble locatif identique à ceux en litige, situé dans le même secteur de la ville de Rimouski et celui-ci a été vendu à un tiers non lié pour un montant nettement inférieur à la juste valeur marchande établie dans la cotisation. Nous soutenons que cette valeur est inadéquate et qu'elle devrait être du même montant que l'immeuble vendu le 4 mars 1998.
+Nous prétendons donc que l'avis de cotisation émis par le Ministère du Revenu du Québec sur le point discuté précédemment est mal fondé et notre client vous demande d'être cotisé sur une valeur marchande de 162 500 $.
+[...]
+[signature]
+Walter Preston
+Coordonnateur TPS/TVQ
+[9] De son côté, l'intimée a fait entendre quatre témoins, dont trois évaluateurs. L'un d'eux, à savoir monsieur Tremblay, était celui qui avait préparé l'évaluation pour et au nom de l'appelant et de l'institution financière, au moment du financement du projet de construction des deux immeubles.
+[10] La valeur attribuée aux immeubles fut alors établie à 225 000 $ chacun. L'évaluation a entraîné un financement de plus ou moins 170 000 $, soit 75 p. 100 de la valeur alors attribuée, le tout conformément aux pratiques et règlements en cette matière.
+[11] À l'audition, monsieur Tremblay a effectivement repris et maintenu son évaluation de 225 000 $ comme étant la JVM pour chacun des immeubles. Les deux autres évaluateurs ont essentiellement confirmé par leurs propres analyses les conclusions de l'évaluateur Tremblay.
+[12] De façon générale, le travail préparé par les trois évaluateurs respecte les règles de l'art. L'appelant leur a reproché d'avoir pris pour acquis que les deux immeubles litigieux étaient des immeubles à revenus avec propriétaire occupant l'un des logements, cela pouvant en majorer substantiellement la JVM des deux immeubles, puisque le logement du propriétaire occupant est généralement plus spacieux et somptueux que les autres, essentiellement destinés à la location.
+[13] L'appelant a insisté sur le fait qu'il ne s'agissait aucunement d'immeubles où le propriétaire était occupant de l'un des logements. Il a expliqué n'avoir fait aucune distinction dans la qualité des quatre logements de chacun de ses deux immeubles. Selon lui, il s'agissait de logements en tout point identiques, quant à la qualité des matériaux utilisés, alors que souvent les propriétaires occupant aménagent leur propre logement d'une manière beaucoup plus luxueuse. Il a cependant reconnu que l'un des quatre logements était beaucoup plus grand que les autres.
+[14] L'autre grief reproché aux trois évaluations a été la non-considération de la transaction où l'appelant avait été vendeur. Le prix de vente, lors de la transaction en question, avait été fixé à 160 000 $.
+[15] Au mois d'août 2003, l'appelant fit une offre à l'acquéreur pour racheter le même immeuble, au même prix de 160 000 $.
+[16] S'appuyant sur ces faits, l'appelant a soutenu énergiquement que les deux immeubles litigieux ne pouvait avoir une plus grande valeur puisqu'il s'agissait d'immeubles identiques.
+[17] À première vue, ce sont là des arguments pertinents. Par contre, je dois rappeler que l'immeuble vendu et éventuellement racheté, l'a été dans le cadre d'une transaction qui regroupait trois immeubles de qualité très différente, l'un étant effectivement beaucoup plus vieux. D'autre part, l'appelant avait-il des motifs à conséquences fiscales d'attribuer une considération de 160 000 $ ? Il n'y a pas eu de preuve ou d'explication à cet effet et le comptable n'a pas témoigné pour répondre à cette possibilité.
+[18] Il a aussi fait état que le logement défini comme celui devant être occupé par le propriétaire occupant était loué moyennant une considération beaucoup supérieure aux trois autres logements dont la surface était plus petite. De ces faits, les griefs de l'appelant à l'endroit des trois évaluations deviennent beaucoup moins pertinents.
+[19] En outre, je ne peux pas écarter de la preuve que l'appelant a lui-même accepté et souscrit à la JVM attribuée aux immeubles lors des démarches de financement, laquelle avait alors été préparée par l'évaluateur Tremblay.
+[20] À cela s'ajoute l'affirmation de l'appelant voulant qu'il ait vendu ses trois immeubles dans le but de dégager le comptant dont il avait besoin pour construire les deux immeubles litigieux. Ce propos crée ainsi une forte présomption que le coût de construction a été supérieur à celui dont il a fait état puisque le financement obtenu aurait couvert la totalité des coûts de construction.
+[21] Je dois également tenir compte que l'appelant a lui-même dirigé les travaux de construction des deux immeubles, épargnant ainsi des déboursés importants par rapport à un projet réalisé, clé en main, où l'entrepreneur s'occupe de tout moyennant un montant de commission significatif.
+[22] Finalement, l'appelant a indiqué que ses coûts de construction s'étaient élevés à plus ou moins 170 000 $ pour chacun des immeubles, auxquels doit s'ajouter la valeur d'un terrain de plus ou moins 20 000 $ chacun, le tout pour un total de plus ou moins 190 000 $. La JVM de 225 000 $ attribuée à chacun des deux immeubles incluent les taxes, d'où la valeur avant taxe se situe relativement près de la valeur se dégageant des affirmations de l'appelant.
+[23] L'économie réalisée par la prise en charge du chantier, le montant du prêt obtenu garanti par hypothèque et la pertinence de la très grande majorité des comparables prises en considération par les évaluateurs sont des éléments déterminants qui soutiennent la JVM attribuée, soit 225 000 $ pour chacun des immeubles.
+[24] Quant aux pénalités, il a été mis en preuve que l'appelant avait, quelques années auparavant, vécu une situation tout à fait similaire où il avait été cotisé dans des circonstances comparables. Il ne pouvait donc prétendre être sans reproche lors de la construction des immeubles litigieux. Certes, l'appelant a fait valoir des arguments sympathiques, qui auraient pu avoir des effets intéressants s'ils avaient été soutenus par une preuve étoffée.
+[25] Les prétentions de l'appelant n'étaient ni justifiées ni soutenues par sa preuve déficiente et incomplète. En matière de JVM, il ne suffit pas d'exprimer son désaccord, il est essentiel de justifier ses conclusions par des données objectives.
+[26] Pour avoir gain de cause, l'appelant devait soumettre une preuve étoffée, convaincante et cohérente et non pas seulement critiquer sans contrepartie le travail des trois évaluateurs.
+[27] À cet égard, l'appelant n'a pas relevé le fardeau de preuve qui lui incombait, alors que l'intimée a bien expliqué et surtout correctement justifié les fondements de la cotisation.
+[28] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de septembre 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI685
+No DU DOSSIER DE LA COUR :
+2002-3963(GST)I
+INTITULÉ DE LA CAUSE :
+Raynald Dufour et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATE DE L'AUDIENCE :
+le 16 septembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 24 septembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Ghislaine Thériault
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

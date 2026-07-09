@@ -1,0 +1,242 @@
+---
+title: "Welford v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27144/index.do"
+last_modified: "2006-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 31"
+citation2: ""
+neutral_citation: "2006 CCI 31"
+decision_date: "2006-02-08"
+language: "fr"
+item_id: "27144"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1013
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:54:57.487000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "428b7bab0cde76e0133ff67e858004066e653129017c8486b546c09827920587"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Welford v. The Queen
+
+- Citation: 2006 CCI 31
+- Decision date: 2006-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1013, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Welford v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-08
+Référence neutre
+2006 CCI 31
+Numéro de dossier
+2003-1401(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+No de dossier : 2003-1401(IT)G
+ENTRE :
+MARK G. WELFORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue à Toronto (Ontario), le 2 décembre 2005.
+Devant : M. le juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rosemary Fincham
+____________________________________________________________________
+ORDONNANCE
+La requête est accueillie en partie conformément aux motifs d’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de février 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 5e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI31
+Date : 20060208
+No de dossier : 2003-1401(IT)G
+ENTRE :
+MARK G. WELFORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Angers
+[1] Il s’agit d’une requête en vue de l’obtention d’une ordonnance enjoignant à l’appelant de répondre à des questions concernant certains documents, celui-ci s’étant opposé à ce que ces documents soient produits en preuve lors de l’interrogatoire préalable qui a eu lieu au mois de mars 2005. Ces documents, qui sont énumérés dans la liste 1 et dans la liste 2 de documents de l’intimée, sont identifiés comme suit dans l’avis de requête de l’intimée :
+i. Élément A, liste 1, onglet 5, décrit comme étant une copie du chèque 243 payable à H. Aliasy Napal, d’un montant de 15 500 $, émis sur le compte de Mark et d’Ingrid Welford;
+ii. Élément B, liste 1, onglets 60 à 65 inclusivement, décrits comme étant le registre des chèques de la Canadian Recon Services Inc. pour la période allant du 2 août 1990 au 30 septembre 1995;
+iii. Élément C, liste 1, onglets 80 à 82 inclusivement, décrits comme étant le compte bancaire de H. Aliasy Napal/Bipin Napal, le relevé de Bipin Napal (compte bancaire de H. Aliasy Napal) et les relevés de Mark Welford (compte bancaire), respectivement;
+iv. Élément D, liste 1, onglets 87 à 105 inclusivement, généralement décrits comme étant les documents bancaires et les analyses de tableaux concernant Mark et Ingrid Welford, H. Aliasy Napal, Bipin Napal, Sharon Lee Williams, Rita Duggan; les calendriers des chèques de Canadian Recon payés à Mark Welford, Ingrid Welford, Ingrid Elsing, Sharon Lee Williams, Adco Information Systems, Sho-Lite Enterprises Inc., et REN Associates; la liste des banques dans lesquelles les chèques que Canadian Recon avait émis en faveur de Mark Welford, d’Ingrid Welford et d’Ingrid Elsing ont été négociés; le calendrier des chèques payables à Mark Welford, au compte enregistré sous le nom d’I. Elsing; les calendriers des paiements effectués par Mark Welford en faveur de H. Aliasy Napal, de Rita Duggan et de Sharon Lee Williams; le calendrier des chèques émis sur le compte de H. Aliasy Napal et signés par Bipin Napal; le calendrier des fausses dépenses déduites par la Canadian Recon Services Inc. de 1991 à 1995; les tableaux des fonds de la Canadian Recon Services Inc. que Bipin Napal s’est appropriés de 1991 à 1995; et les tableaux des fonds reçus par Mark Welford de Canadian Recon Services et de H. Aliasy Napal, moins les chèques payés en faveur de Bipin Napal de 1991 à 1995;
+v. Élément E, liste 1, onglets 109 à 113 inclusivement, généralement décrits comme étant les tableaux du revenu imposable révisé de Mark Welford et des impôts fédéraux auxquels le contribuable a cherché à se soustraire de 1991 à 1995; des chèques de la Canadian Recon Services Inc. (faisant affaire sous le nom de Focus Technologies) payables à ADCO Information Systems, à REN Associates, à Sharon Lee Williams et à Sho-Lite Enterprises Inc.;
+vi. Élément F, liste 1, onglets 123 et 124, généralement décrits comme étant les comptes bancaires d’ADCO Information Systems, de REN Associates et de H. Aliasy Napal;
+vii. Élément G, liste 1, onglets 130 à 132 inclusivement, généralement décrits comme étant les talons de chèques émis par la Canadian Recon Services Inc. en faveur de Sharon Lee Williams, de Sho-Lite Holdings Inc; le registre des sommes à verser – feuille des mois de septembre-octobre 1994 de la Canadian Recon Services Inc. se trouvant dans le dossier des « talons de chèques de Bipin »;
+viii. Élément H, liste 1, onglet 135, décrit comme étant la liste de chèques de la Canadian Recon Services Inc. au sujet des écritures de correction du solde du dossier intitulé « problèmes associés aux chèques à corriger »;
+ix. Élément I, liste 2, onglets 162 à 168 inclusivement, généralement décrits comme étant les chèques de Focus et les talons de chèques payables à Mark ou à Ingrid Elsing-Welford (1991-1995), ainsi que le registre des chèques de Focus pour les années 1991 à 1995;
+x. Élément J, liste 2, onglets 170 à 173 inclusivement, généralement décrits comme étant les relevés bancaires personnels d’Ingrid Elsing-Welford, de Mark ou d’Ingrid Welford, et de H. Aliasy Napal.
+[2] L’intimée sollicite également une ordonnance enjoignant à l’appelant de répondre à la question 471 figurant dans la transcription de son interrogatoire préalable, lui demandant de se renseigner auprès de Bell Canada au sujet de la méthode par laquelle cette dernière l’avait rémunéré ainsi que de l’endroit où elle avait déposé ses chèques de paie; l’intimée sollicite également une ordonnance enjoignant à l’appelant de produire pour examen le feuillet T4 mentionné au paragraphe 13 de l’avis d’appel modifié. Enfin, l’intimée sollicite une ordonnance enjoignant à l’appelant de consentir à la communication du règlement auquel il est arrivé avec Bell Canada au sujet des allégations de fraude; enjoignant à l’appelant de consentir à la communication de la transcription de l’interrogatoire préalable que Bell Canada lui a fait subir au sujet des allégations de fraude; modifiant l’ordonnance du juge Margeson, de façon à proroger le délai dans lequel les parties sont tenues de procéder aux interrogatoires oraux, de satisfaire aux engagements et de communiquer avec le coordonnateur des audiences; enjoignant à l’appelant de se présenter de nouveau à un interrogatoire préalable pour répondre à des questions au sujet de certains documents mentionnés dans l’avis de requête, sans porter atteinte aux droits de l’intimée et sans restriction quant à la nature des questions devant être posées; et, si l’appelant omet de se conformer à pareille ordonnance, une ordonnance de la Cour rejetant l’appel avec dépens.
+[3] L’appelant interjette appel d’une cotisation relative à l’année d’imposition 1995 et des nouvelles cotisations relatives aux années d’imposition 1991, 1992, 1993 et 1994. Voici les questions qui ont été soulevées dans les actes de procédure et que le juge devra trancher à l’audition de l’appel :
+1. L’appelant a‑t‑il fait l’objet d’une nouvelle cotisation de la façon appropriée après le délai normal de nouvelle cotisation pour les années d’imposition 1991 et 1992?
+2. L’appelant avait-il un revenu non déclaré pour les années d’imposition 1991, 1992, 1993 et 1994?
+3. L’appelant a‑t‑il détourné des fonds de Bell Canada, son employeur?
+4. L’appelant a‑t‑il fait l’objet d’une cotisation de la façon appropriée pour l’année d’imposition 1995?
+5. Les nouvelles cotisations et la cotisation relatives aux années d’imposition susmentionnées étaient-elles fondées sur des renseignements obtenus en violation de droits reconnus à l’appelant par la Charte des droits et libertés?
+6. Si cette cotisation et ces nouvelles cotisations étaient fondées sur de tels renseignements, quelle réparation convient-il d’accorder?
+[4] L’appelant a travaillé pour Bell Canada de 1972 à 1976 et de 1984 au mois d’avril 1995. Il est allégué qu’il a conspiré avec d’autres personnes pour escroquer Bell Canada de millions de dollars et qu’il a omis de déclarer sa part des fonds détournés pour les années d’imposition en cause et de produire une déclaration de revenus pour l’année d’imposition 1995.
+[5] En sa qualité d’employé de Bell Canada, l’appelant s’était vu confier la tâche d’acheter du matériel et des fournitures dont les clients de Bell avaient besoin et pour des projets dont il était responsable. Il est allégué que l’appelant a ourdi un stratagème avec l’unique actionnaire d’une société qui s’occupait de vente et d’entretien d’ordinateurs et de pièces d’ordinateur. Il est allégué que, selon le stratagème, l’appelant commandait de cette société du matériel qui était facturé en trop ou qui n’était jamais livré aux clients de Bell Canada, et qu’il autorisait le paiement de ce matériel. Il est en outre allégué que d’autres personnes participaient à ce stratagème; un compte rendu détaillé a été fourni au sujet des rouages du stratagème, de la participation des autres personnes et des mouvements de fonds, et notamment de la part qui s’est retrouvée entre les mains de l’appelant.
+[6] L’affidavit qui a été déposé à l’appui de la requête renferme un diagramme indiquant les mouvements de fonds qui, selon l’intimée, auraient été effectués entre l’appelant et les autres personnes et qui ont donné lieu aux nouvelles cotisations relatives aux années d’imposition 1991, 1992, 1993 et 1994 de l’appelant ainsi qu’à la cotisation relative à l’année d’imposition 1995 de l’appelant. Dans l’affidavit, il est également déclaré que les documents dont l’appelant refuse la communication sont des documents qui établissent les mouvements de fonds entre l’appelant et les autres personnes, dont l’épouse de l’appelant. La transcription de l’interrogatoire préalable de l’appelant par l’avocate de l’intimée a également été présentée à l’appui de la requête.
+[7] Lorsque la requête a été entendue, l’appelant n’a pas déposé d’affidavit ni présenté de preuve.
+[8] Lors de son interrogatoire préalable, par l’entremise de son avocat, l’appelant a reconnu que Bell Canada avait intenté, devant les tribunaux de l’Ontario, une action civile à son encontre ainsi qu’à l’encontre de son épouse et des autres personnes. Dans cette action civile, il était allégué que les défendeurs avaient fraudé Bell Canada en lui soumettant des factures illégitimes et frauduleuses dans lesquelles le prix d’articles particuliers était sensiblement gonflé ou qui se rapportaient à des produits qui n’avaient jamais été livrés à Bell Canada. Lors de l’interrogatoire préalable, l’avocat de l’appelant a également reconnu avoir envoyé à Revenu Canada une lettre donnant à entendre que, si Bell Canada avait gain de cause à l’encontre du contribuable et si elle obtenait un jugement d’un montant égal ou supérieur au montant du présumé revenu indiqué dans les nouvelles cotisations, aucun revenu gagné additionnel non déclaré n’aurait été reçu par le contribuable. Lors de l’interrogatoire préalable, l’action civile avait été réglée sur une base confidentielle; l’appelant refuse de consentir à la communication des conditions du règlement. Quant à la question de savoir si les allégations faites par Bell Canada étaient semblables aux hypothèses de fait énoncées dans la réponse à l’avis d’appel, les propos suivants ont été échangés entre les avocats lors de l’interrogatoire préalable :
+[traduction]
+Me FINCHAM : Si je puis vous demander d’examiner le paragraphe 3, page 6 de cette déclaration modifiée à deux reprises, il s’agit d’allégations soulevées à l’égard du défendeur Mark Gordon Welford, qui est l’appelant dans la présente affaire. Êtes-vous d’accord?
+Me BRUGGEMAN : Oui.
+Me FINCHAM : Et les paragraphes 3, 4, 5 et 6 se rapportent expressément au défendeur ou à son épouse.
+Me BRUGGEMAN : Oui.
+Me FINCHAM : Et vous conviendrez avec moi que ces paragraphes soulèvent un certain nombre de questions similaires ou découlant du même ensemble de faits que l’appel dont la Cour canadienne de l’impôt a été saisie.
+Me BRUGGEMAN : Non, je ne suis pas d’accord, je crois que ces questions se chevauchent, mais je ne crois pas qu’elles découlent des mêmes faits. L’une se rapporte à l’allégation selon laquelle le revenu a frauduleusement été déclaré en moins et l’autre aux obligations professionnelles et en outre, bien sûr, ces questions ont été résolues dans l’action civile.
+Me FINCHAM : La question qui chevauche l’autre à l’égard du – le paragraphe 15 en fait état : les défendeurs Welford, Bipin Napal et Focus Technologies ont fraudé la demanderesse en soumettant à celle-ci des factures illégitimes et frauduleuses dans lesquelles le prix d’articles particuliers fournis à la demanderesse par Focus Technologies était sensiblement gonflé ou qui se rapportaient à des produits qui n’ont jamais été livrés à la demanderesse. Et il y a d’autres allégations, et des faits similaires sont ici en litige dans le présent appel.
+Me BRUGGEMAN : En fait, les allégations ont été faites, elles n’ont jamais été corroborées, aucune conclusion judiciaire n’a été tirée à leur sujet et aucun aveu n’a été fait.
+Me FINCHAM : Cependant, les allégations de fait énoncées dans la déclaration modifiée à deux reprises sont semblables aux hypothèses de fait émises par le ministre dans la réponse à l’avis d’appel.
+Me BRUGGEMAN : Les allégations sont similaires. J’en conviens.
+[9] Dans le cadre de l’action civile intentée par Bell Canada, l’appelant a fait l’objet d’un interrogatoire préalable (question 388, transcription de l’interrogatoire préalable dans le présent appel), et il a refusé de consentir à la communication de la transcription du témoignage qu’il avait présenté à cet interrogatoire en invoquant la règle de la présomption d’engagement figurant au paragraphe 30.1.01(3) des Règles de procédure civile de l’Ontario, qui prévoit que toutes les parties et leurs avocats sont réputés s’engager à ne pas utiliser les éléments de preuve ou les renseignements auxquels la règle 30.1.01 s’applique, à des fins autres que celles de l’instance au cours de laquelle les éléments de preuve ont été obtenus, ce qui comprend entre autres choses les éléments de preuve obtenus lors d’un interrogatoire préalable. Le paragraphe 30.1.01(4) des Règles prévoit que le paragraphe (3) n’a pas pour effet d’interdire l’utilisation d’éléments de preuve à laquelle consent la personne qui a divulgué les éléments de preuve. Or, l’appelant a refusé de donner son consentement (voir la question 393, transcription de l’interrogatoire préalable dans le présent appel), d’où la présente requête.
+[10] L’interrogatoire préalable sert à de nombreuses fins, dont l’une est d’assurer l’efficacité du processus d’instruction et de permettre aux parties de mieux se préparer et d’évaluer leurs positions respectives. Il porte sur les questions soulevées dans les actes de procédure et, en ce qui concerne la Cour, sa portée est définie à l’article 95 des Règles de la Cour canadienne de l’impôt (procédure générale), qui est rédigé comme suit :
+95. (1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l’objet de l’interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre-interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+[11] Le critère de la pertinence d’une question posée à l’interrogatoire préalable est défini par les actes de procédure; ce critère est fort général et moins strict que celui qui s’applique à l’instruction. Un interrogatoire préalable doit favoriser une communication complète plutôt que la prise en compte du préjudice que la communication est susceptible de causer. Les questions de pertinence et d’admissibilité de la preuve devraient être laissées à l’appréciation du juge qui entend l’appel. Dans une requête similaire présentée devant la Cour dans l’affaire Route Canada Real Estate Inc. v. The Queen, 95 DTC 502, page 506, le juge Bell a cité le passage suivant des motifs d’ordonnance prononcés par le juge en chef adjoint Christie, de la présente cour :
+En ce qui concerne l’interrogatoire préalable additionnel, il est à noter que le paragraphe 95(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (« les Règles générales ») exige que la personne interrogée au préalable réponde, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige en l’instance. Il est également fait mention de l’affaire Sydney Steel Corp. v. Ship Omisalj et al., [1992], 52 F.T.R. 144, dans laquelle le juge MacKay, de la Section de première instance de la Cour fédérale, a dit ceci, à la page 147 :
+Les avocats des parties conviennent que le critère relatif au bien-fondé d’une question posée dans le cadre d’un interrogatoire préalable est moins rigoureux que le critère relatif à l’admissibilité de la preuve au procès, et que le critère qu’il convient d’appliquer est de savoir si les renseignements sollicités par une question peuvent être pertinents aux points qui, au stade de l’interrogatoire préalable, sont litigieux dans les actes de procédure déposés par les parties. Comme les défendeurs l’ont indiqué, c’est le juge suppléant d’appel Norris qui a énoncé ce critère dans l’arrêt McKeen and Wilson Ltd. v. Gulf of Georgia Towing Co. Ltd. et al., [1965] 2 R.C.É. 480, à la page 482 :
+[traduction] [...] les questions auxquelles on s’oppose peuvent porter sur des points pertinents aux litiges soulevés dans les conclusions écrites. C’est tout ce que les défendeurs doivent démontrer. Il appartient au savant juge de première instance de décider si elles sont ou non pertinentes et admissibles au procès.
+Et à la page 148 :
+[...] lorsqu’on objecte l’absence de bien-fondé d’une question parce qu’elle est dénuée de pertinence pour des raisons données, la partie qui pose la question doit convaincre la cour que les renseignements qu’elle veut obtenir peuvent être pertinents à un fait en litige. Il n’est probablement pas difficile de satisfaire à ce critère vu l’objectif de franchise que les règles cherchent à promouvoir au cours des étapes préparatoires au procès, en particulier dans le cadre d’un interrogatoire préalable, peu importe qu’il se déroule oralement ou au moyen de questions par écrit. De plus, il est établi que lorsqu’on ne sait pas très bien si une question doit faire l’objet d’une réponse, on laisse le bénéfice du doute à la partie qui veut obtenir cette réponse, vu l’objectif fondamental de franchise : (Royal Specialty Sales v. Mayda Industries Ltd. (1986), 4 F.T.R. 77, Madame le juge Reed, à la page 79).
+[12] Dans l’arrêt SmithKline Beecham Animal Health Inc. c. Canada, [2002] A.C.F. no 837 (QL), la Cour d’appel fédérale a examiné la question de la portée de l’interrogatoire préalable qui a lieu avant l’instruction en vertu des Règles de la Cour canadienne de l’impôt (procédure générale) et l’application du critère du « lancement d’une enquête » qui s’applique à la communication documentaire. La juge Sharlow a donné des explications complètes au sujet de l’application des Règles de la Cour canadienne de l’impôt (procédure générale) à l’égard de la communication de documents et d’interrogatoires préalables oraux avant l’instruction, en résumant la question comme suit :
+24 La portée et l’application des règles précitées dépendent du sens de ces mots : « qui portent sur toute question en litige entre les parties à l’appel » et « aux questions légitimes qui se rapportent à une question en litige ». Dans Compagnie Financière et Commerciale du Pacifique c. Peruvian Guano Company (1882), 11 Q.B.D. 55 (C.A.), à propos du sens des mots [traduction] « un document qui a trait à tout point litigieux de l’action », à la page 63, le lord juge Brett dit ceci :
+[traduction] À mon avis, un document a trait aux points litigieux de l’action non seulement lorsqu’il constitue une preuve à l’égard de ces points litigieux mais également lorsqu’on peut raisonnablement supposer qu’il contient des renseignements pouvant -- et non devant -- soit directement soit indirectement, permettre à la partie qui exige l’affidavit ou bien de plaider sa propre cause ou bien de nuire à celle de son adversaire. J’ai dit « soit directement soit indirectement » parce que, à mon avis, un document peut, à proprement parler, contenir des renseignements pouvant permettre à la partie qui exige l’affidavit soit de plaider sa propre cause soit de nuire à celle de son adversaire s’il s’agit d’un document susceptible de la lancer dans une enquête et d’entraîner l’une ou l’autre de ces conséquences.
+25 Notre Cour a expressément souscrit au critère du « lancement d’une enquête » pour la communication préalable de documents : Everest & Jennings Canadian Ltd. c. Invacare Corp., [1984] 1 C.F. 856, 55 N.R. 73, 79 C.P.R. (2d) 138 (C.A.F.), qui faisait sien le critère de Boxer c. Reesor (1983), 43 B.C.L.R. 352, 35 C.P.C. 68 (C.S.C.-B.). Voir aussi Ikea Ltd. c. Idea Design Ltd., [1987] 3 C.F. 317, 13 F.T.R. 306, 16 C.P.R. (3d) 65 (C.F. 1re inst.) et Oro Del Norte, S.A. c. La Reine, (1990), 35 F.T.R. 107, [1990] 2 C.T.C. 67, 90 D.T.C. 6373 (C.F. 1re inst.).
+26 La Cour de l’impôt a régulièrement appliqué le même critère. Voir à titre d’exemple Ouellet c. Canada, [1994] 1 C.T.C. 2645, 94 D.T.C. 1315 (C.C.I.). Dans Owen Holdings Ltd. c. Canada, [1997] 3 C.T.C. 2286, 97 D.T.C. 380 (C.C.I.), le critère est ainsi formulé au paragraphe 29 :
+[traduction] La partie qui demande un document doit démontrer que les renseignements contenus dans le document peuvent favoriser sa propre cause ou nuire à celle de son adversaire.
+27 Le jugement rendu dans l’affaire Owen Holdings a été modifié en appel par notre Cour, mais l’énoncé du critère a été approuvé : Owen Holdings Ltd. c. Canada, (1997), 216 N.R. 381, [1997] 3 C.T.C. 351, 97 D.T.C. 5401 (C.A.F.). S’exprimant au nom des juges majoritaires, le juge Marceau dit au paragraphe 6 :
+[...] Nous sommes donc d’avis que l’approche du juge de la Cour de l’impôt était celle qu’il convenait d’adopter et que les conclusions qu’il a tirées à l’égard des documents énumérés aux paragraphes i), ii), v) et vi) ne devraient pas être infirmées. Son analyse portant que ces documents, qui ne tendaient pas à établir des [traduction] « faits législatifs » mais plutôt les [traduction] « opinions d’auteurs », avaient un lien si ténu avec les questions litigieuses qu’ils ne pouvaient donner lieu à un champ d’enquête pouvant profiter à l’appelante nous semble parfaitement bien fondée.
+28 Le juge en chef d’alors, le juge Isaac, a exprimé sa dissidence partielle quant au résultat, mais il a approuvé le critère du « lancement d’une enquête ».
+29 Les arrêts précités établissent aussi que la question de savoir si un document ou une question « a trait à » une question en litige dans l’instance dépend d’une interprétation raisonnable des actes de procédure. Voir en particulier Compagnie Financière, précité; Boxer c. Reesor, précité; et La Reine c. Special Risks Holdings Inc., [1983] 2 C.F. 743, 46 N.R. 361, [1983] C.T.C. 36, 83 D.T.C. 5046 (C.A.F.).
+[13] Selon la position prise par l’appelant, les documents et autres renseignements qui ont servi à préparer les nouvelles cotisations et la cotisation en cause en l’espèce ont été obtenus en violation des droits qui lui sont reconnus par la Charte canadienne des droits et libertés et l’admissibilité de cette preuve est une question qui relève de l’appréciation du juge qui présidera l’instruction, comme c’est le cas pour la réparation qu’il convient d’accorder s’il est conclu à pareille violation; il reste néanmoins que, pour le moment et tant qu’il ne seront pas déclarés inadmissibles, ces documents portent sur les questions soulevées dans l’avis d’appel modifié et dans la réponse. Le paragraphe 19 de l’avis d’appel modifié renvoie aux documents qui ont servi à préparer la cotisation et les nouvelles cotisations visées par l’appel, et les paragraphes 8, 9, 12 et 13 de la réponse renvoient expressément à ces documents.
+[14] L’affidavit que Mylène Forester a souscrit à l’appui de la présente requête établit à ma satisfaction que les documents dont l’appelant a refusé la production pendant l’interrogatoire préalable et dont il a refusé la communication sont nécessaires pour permettre à l’intimée de plaider sa cause et d’établir les mouvements de fonds entre l’appelant et son épouse et ces documents se rapportent donc à des questions qui ont été soulevées et à des questions en litige dans le présent appel. Je suis convaincu que la méthode par laquelle l’appelant a été rémunéré, à savoir le dépôt par Bell Canada de ses chèques de paie, ainsi que les feuillets T4 mentionnés au paragraphe 13 de l’avis d’appel modifié, sont des questions se rapportant aux questions qui sont pertinentes en l’espèce.
+[15] Dans la requête qu’elle a présentée devant la Cour, l’intimée demande également, comme il en a ci-dessus été fait mention, une ordonnance enjoignant à l’appelant de consentir à la communication de la transcription de son interrogatoire préalable dans l’action que Bell Canada avait intentée contre lui devant les tribunaux de l’Ontario à l’égard des allégations de fraude. J’ai déjà fait mention de la règle de la présomption d’engagement figurant dans les Règles de procédure civile de l’Ontario, en particulier aux paragraphes 30.1.01(3) et (4). Le paragraphe 8 prévoit que, s’il est convaincu que l’intérêt de la justice l’emporte sur tout préjudice que pourrait encourir une partie qui a divulgué des éléments de preuve, le tribunal peut ordonner que le paragraphe (3) ne s’applique pas aux éléments de preuve ou aux renseignements tirés de ceux-ci, et qu’il peut imposer les conditions et donner les directives qu’il estime justes.
+[16] Par la présente requête, l’intimée cherche à être autorisée à obtenir et à utiliser la preuve présentée lors de l’interrogatoire préalable de l’appelant dans une instance à laquelle elle n’était pas partie. Cela étant, l’obligation qui incombe à l’intimée lorsqu’il s’agit d’obtenir la preuve présentée lors de l’interrogatoire préalable semble plus lourde, en ce sens que les tribunaux semblent avoir hésité à accorder une telle autorisation dans des demandes présentées par des personnes qui n’étaient pas parties à l’instance initiale. Voici ce que John B. Laskin a dit, à la page 315 d’un article intitulé : « The Implied Undertaking in Ontario », (1989-90) 11 Adv. Q., 298, pages 315 et 316 :
+[traduction] Enfin, il semble que le tribunal hésitera davantage à accorder l’autorisation si elle est demandée par une personne qui n’était pas partie à l’instance dans laquelle la communication a été faite. Dans l’arrêt Harman, lord Roskill a dit qu’il lui était difficile d’imaginer des circonstances dans lesquelles le tribunal pourrait être prêt à accorder l’autorisation « en faveur d’un tiers à l’encontre des vœux du propriétaire des documents ». Dans la décision Bibby, le tribunal a refusé d’éliminer la possibilité d’accorder une autorisation en pareil cas, mais il a dit que la personne demandant la communication qui n’était pas partie à l’instance initiale a une obligation particulièrement lourde de démontrer l’existence de motifs valables et convaincants justifiant l’octroi de l’autorisation. Plus récemment, dans la décision Derby & Co. Ltd. v. Weldon, le tribunal a dit que, compte tenu des arrêts faisant autorité, l’autorisation d’effectuer la communication à des tiers afin d’aider ceux-ci à faire valoir leur demande contre la personne qui a effectué la communication n’est « presque jamais accordée ».
+[17] Ce passage a été cité avec approbation dans deux décisions où une requête similaire avait été présentée par une personne qui n’était pas partie à l’action initiale. (Voir Livent Inc. v. Drabinsky, [2001] O.J. no 918 (QL) (C.S.J. Ont.) et 051766 N.B. Ltd. v. Wilbur, [2005] A.N.‑B. no 512 (QL), 2005 NBQB 443.
+[18] Outre cette obligation plus lourde à laquelle il faut satisfaire, il est nécessaire de déterminer le tribunal qui a compétence pour accorder une ordonnance telle que celle qui est demandée en l’espèce. En droit, la règle de la présomption d’engagement s’applique à toutes les instances. En Ontario et en Colombie-Britannique, elle a été codifiée et fait partie des règles de procédure civile de ces provinces. La règle de la présomption d’engagement s’applique également aux instances engagées devant la Cour fédérale et la Cour canadienne de l’impôt. Si l’instance à laquelle s’applique cette règle était engagée devant la Cour canadienne de l’impôt et si, par exemple, l’une des parties voulait être libérée de cet engagement afin d’utiliser la preuve obtenue lors de l’interrogatoire préalable dans une autre instance distincte devant la Cour supérieure de justice de l’Ontario, à mon avis, la Cour canadienne de l’impôt serait autorisée à libérer cette partie de cet engagement. Tel était le cas dans la décision Sherman c. Canada, [2000] A.C.I. no 128 (QL), où le juge Bowie, de la présente cour, a dit ce qui suit au paragraphe 4 :
+Étant donné que le désistement des appels en l’instance a eu lieu après que les parties furent parvenues à un règlement, les documents n’ont jamais été déposés en preuve ou, par ailleurs, produits dans le cadre d’une audience publique. Sans le consentement de la partie produisant les documents, ceux-ci ne peuvent être utilisés dans le cadre de l’action devant la Cour de l’Ontario que si la présente cour [la Cour de l’impôt] rend une ordonnance libérant le Dr Sherman et son avocat de l’engagement implicite. Aux fins des présentes requêtes, le demandeur a le fardeau de prouver que le préjudice qu’il subira, s’il n’est pas autorisé à produire les documents dans le cadre de l’action devant la Cour de l’Ontario, l’emporte sur le préjudice que la partie produisant les documents, à savoir Orenstein & Partners, subira s’il est autorisé à les utiliser dans le cadre de cette action. [Non souligné dans l’original.]
+[19] Il me semble que, si l’instance déclenchant l’application de la règle de la présomption d’engagement était engagée devant la Cour supérieure de justice de l’Ontario et que l’une des parties à cette instance voulait utiliser devant la Cour de l’impôt un interrogatoire préalable subi dans le cadre de cette instance, c’est la Cour supérieure de justice de l’Ontario qui serait autorisée à permettre la production du document protégé par la règle de la présomption d’engagement et à libérer la partie en cause de cet engagement.
+[20] Les règles 1.02 et 1.03 des Règles de procédure civile de l’Ontario désignent la Cour supérieure de justice de l’Ontario et la Cour d’appel comme étant les tribunaux qui peuvent ordonner la non-application de la règle de la présomption d’engagement s’ils sont convaincus que l’intérêt de la justice l’emporte sur tout préjudice que subirait la partie qui a communiqué la preuve. Lorsque l’instance a eu lieu devant ces tribunaux, ceux-ci sont autorisés à ordonner la non-application de la règle de la présomption d’engagement. Les règles 1.02 et 1.03 et le paragraphe 30.1.01(8) sont rédigés comme suit :
+1.02 (1) Les présentes règles s’appliquent à toutes les instances civiles devant la Cour d’appel et la Cour supérieure de justice, sous réserve des exceptions qui suivent :
+1. Elles ne s’appliquent pas aux instances devant la Cour des petites créances, qui sont régies par le Règlement 201 des Règlements refondus de l’Ontario de 1990.
+2. Elles ne s’appliquent pas aux instances régies par le Règlement de l’Ontario 114/99 (Règles en matière de droit de la famille), si ce n’est comme ces règles le prévoient.
+3. Elles ne s’appliquent pas si une loi prévoit une procédure différente. R.R.O. 1990, Règl. 194, par. 1.02 (1); Règl. de l’Ont. 484/94, art. 1; Règl. de l’Ont. 288/99, par. 1 (1) et (2); Règl. de l’Ont. 292/99, par. 1 (1) et (2); Règl. de l’Ont. 131/04, par. 1 (1) et (2).
+Questions réunies dans une instance devant la Cour de la famille de la Cour supérieure de justice
+(1.1) Si une instance réunit une question à laquelle s’appliquent les Règles en matière de droit de la famille et une question à laquelle ces règles s’appliqueraient normalement, les parties peuvent convenir ou le tribunal, sur motion, peut ordonner que les Règles en matière de droit de la famille s’appliquent à l’instance issue de la réunion ou à une partie de cette instance. Règl. de l’Ont. 131/04, par. 1 (3).
+[...]
+DÉFINITIONS
+1.03 (1) À moins que le contexte n’indique autrement, les définitions qui suivent s’appliquent aux présentes règles,
+« action » L’instance qui n’est pas une requête. S’entend en outre de l’instance introduite par, selon le cas :
+a) une déclaration;
+b) un avis d’action;
+c) une demande reconventionnelle;
+d) une demande entre défendeurs;
+e) une mise en cause ou une mise en cause subséquente.
+[...]
+« instance » Action ou requête;
+[...]
+« requête » Instance introduite par un avis de requête;
+« tribunal » Tribunal devant lequel une instance est en cours. S’il s’agit d’une instance devant la Cour supérieure de justice, s’entend en outre :
+a) du protonotaire qui a compétence pour entendre les motions aux termes de la Règle 37;
+b) du protonotaire responsable de la gestion de la cause.
+[...]
+30.1.01(8) S’il est convaincu que l’intérêt de la justice l’emporte sur tout préjudice que pourrait encourir une partie qui a divulgué des éléments de preuve, le tribunal peut ordonner que le paragraphe (3) ne s’applique pas aux éléments de preuve ou aux renseignements tirés de ceux-ci, et imposer les conditions et donner les directives qu’il estime justes. [Non souligné dans l’original.]
+[21] La Cour canadienne de l’impôt se fonde sur la législation provinciale pour déterminer l’exactitude d’une cotisation dans la mesure où la question se rapporte à la substance et non à la procédure. C’est aux provinces qu’il incombe d’examiner les questions de procédure. Dans la décision Lemieux c. Société Radio-Canada, [2001] A.C.F. no 1810 (QL), la Section de première instance de la Cour fédérale a dit ce qui suit :
+33 Il est reconnu que le fédéral, en exerçant ses compétences principales, peut empiéter de manière incidente ou accessoire sur les domaines de compétence provinciale, laissant le droit commun provincial régir la matière par ailleurs. En l’espèce, le contexte et l’exhaustivité du partage des compétences font voir que la compétence sur la procédure et la preuve « civile » est octroyée aux provinces par l’article 92(14) de la Loi constitutionnelle. Cependant ce paragraphe précise qu’il s’agit de la procédure applicable devant les tribunaux provinciaux puisque l’économie de la Loi constitutionnelle voulait qu’en principe ce soient les tribunaux provinciaux qui se chargent de l’application des lois tant fédérales que provinciales. A contrario, c’est le fédéral qui peut établir la procédure « civile » (autre que criminelle) et les règles de preuve applicables devant les tribunaux fédéraux [...]
+[22] Je conclus donc qu’en l’espèce, la Cour supérieure de justice de l’Ontario est le tribunal compétent pour entendre une telle requête puisque c’est devant ce tribunal que la présomption d’engagement a pris naissance. Il n’y aura pas d’ordonnance enjoignant à l’appelant de consentir à la communication de la transcription de la preuve présentée lors de son interrogatoire préalable dans l’action que Bell Canada a intentée contre lui.
+[23] Comme il en a ci-dessus été fait mention, l’intimée sollicite également une ordonnance de la présente cour enjoignant à l’appelant de consentir à la communication du règlement qu’il a conclu avec son ancien employeur dans l’action civile intentée par ce dernier en Ontario, laquelle était fondée sur des allégations de fraude. À l’audition de la présente requête, l’appelant a informé la Cour qu’il n’avait pas l’intention de communiquer les conditions du règlement et, fait plus important, qu’il n’avait pas l’intention de s’en servir comme preuve dans l’appel qu’il a interjeté devant la présente cour.
+[24] Dans la transcription de l’interrogatoire préalable dont il a fait l’objet dans le présent appel, l’appelant a reconnu qu’au mois de février 1997, il avait donné à entendre à Revenu Canada que, si Bell Canada avait gain de cause et obtenait contre lui un jugement d’un montant égal ou supérieur au montant du présumé revenu indiqué dans les nouvelles cotisations, il n’aurait reçu aucun revenu gagné additionnel non déclaré. L’appelant voulait que Revenu Canada suspende les mesures prises à l’égard de la cotisation et des nouvelles cotisations tant que l’action intentée au civil par Bell Canada ne prendrait pas fin. La transcription révèle également que l’action civile a pris fin en 2001, au moyen d’un règlement qui contenait la clause de confidentialité à l’égard de laquelle l’intimée sollicite une ordonnance enjoignant à l’appelant de consentir à la communication du règlement. Les conditions du règlement pourraient être communiquées si Bell Canada et l’appelant s’entendaient tous deux sur leur communication (questions 371 et 372, transcription de l’interrogatoire préalable dans le présent appel). La position prise par Bell Canada sur ce point n’est pas connue.
+[25] L’appelant refuse de communiquer les conditions du règlement pour le motif qu’il s’est engagé envers Bell Canada à ne pas les communiquer. Toutefois, il s’engage à ne pas utiliser les conditions de ce règlement à son profit dans l’appel qu’il a interjeté devant la présente cour à l’égard de sa cotisation et de ses nouvelles cotisations, bien qu’il puisse être avantageux pour lui de le faire.
+[26] Étant donné que l’appelant s’engage à ne pas produire en preuve les conditions du règlement dans le présent appel, leur pertinence en ce qui concerne les cotisations en cause en l’espèce s’en trouve fort diminuée, me semble‑t‑il. En outre, avant qu’une telle ordonnance soit accordée, il me semble que Bell Canada doive être constituée partie et doive avoir la possibilité de se faire entendre. Sur cette seule base, il n’y aura pas d’ordonnance enjoignant à l’appelant de consentir à la communication du règlement conclu avec Bell Canada.
+[27] J’accueille donc la requête en partie et j’ordonne à l’appelant de répondre aux questions concernant les documents suivants à la production desquels il s’est opposé pendant l’interrogatoire préalable, à savoir :
+i. Élément A, liste 1, onglet 5, décrit comme étant une copie du chèque 243 payable à H. Aliasy Napal, d’un montant de 15 500 $, émis sur le compte de Mark et d’Ingrid Welford;
+ii. Élément B, liste 1, onglets 60 à 65 inclusivement, décrits comme étant le registre des chèques de la Canadian Recon Services Inc. pour la période allant du 2 août 1990 au 30 septembre 1995;
+iii. Élément C, liste 1, onglets 80 à 82 inclusivement, décrits comme étant le compte bancaire de H. Aliasy Napal/Bipin Napal, le relevé de Bipin Napal (compte bancaire de H. Aliasy Napal) et les relevés de Mark Welford (compte bancaire), respectivement;
+iv. Élément D, liste 1, onglets 87 à 105 inclusivement, généralement décrits comme étant les documents bancaires et les analyses de tableaux concernant Mark et Ingrid Welford, H. Aliasy Napal, Bipin Napal, Sharon Lee Williams, Rita Duggan; les calendriers des chèques de Canadian Recon payés à Mark Welford, Ingrid Welford, Ingrid Elsing, Sharon Lee Williams, Adco Information Systems, Sho-Lite Enterprises Inc., et REN Associates; la liste des banques dans lesquelles les chèques que Canadian Recon avait émis en faveur de Mark Welford, d’Ingrid Welford et d’Ingrid Elsing ont été négociés; le calendrier des chèques payables à Mark Welford, au compte enregistré sous le nom d’I. Elsing; les calendriers des paiements effectués par Mark Welford en faveur de H. Aliasy Napal, de Rita Duggan et de Sharon Lee Williams; le calendrier des chèques émis sur le compte de H. Aliasy Napal et signés par Bipin Napal; le calendrier des fausses dépenses déduites par la Canadian Recon Services Inc. de 1991 à 1995; les tableaux des fonds de la Canadian Recon Services Inc. que Bipin Napal s’est appropriés de 1991 à 1995; et les tableaux des fonds reçus par Mark Welford de Canadian Recon Services et de H. Aliasy Napal, moins les chèques payés en faveur de Bipin Napal de 1991 à 1995;
+v. Élément E, liste 1, onglets 109 à 113 inclusivement, généralement décrits comme étant les tableaux du revenu imposable révisé de Mark Welford et des impôts fédéraux auxquels le contribuable a cherché à se soustraire de 1991 à 1995; des chèques de la Canadian Recon Services Inc. (faisant affaire sous le nom de Focus Technologies) payables à ADCO Information Systems, à REN Associates, à Sharon Lee Williams et à Sho-Lite Enterprises Inc.;
+vi. Élément F, liste 1, onglets 123 et 124, généralement décrits comme étant les comptes bancaires d’ADCO Information Systems, de REN Associates et de H. Aliasy Napal;
+vii. Élément G, liste 1, onglets 130 à 132 inclusivement, généralement décrits comme étant les talons de chèques émis par la Canadian Recon Services Inc. en faveur de Sharon Lee Williams, de Sho-Lite Holdings Inc; le registre des sommes à verser – feuille des mois de septembre-octobre 1994 de la Canadian Recon Services Inc. se trouvant dans le dossier des « talons de chèques de Bipin »;
+viii. Élément H, liste 1, onglet 135, décrit comme étant la liste de chèques de la Canadian Recon Services Inc. au sujet des écritures de correction du solde du dossier intitulé « problèmes associés aux chèques à corriger »;
+ix. Élément I, liste 2, onglets 162 à 168 inclusivement, généralement décrits comme étant les chèques de Focus et les talons de chèques payables à Mark ou à Ingrid Elsing-Welford (1991-1995), ainsi que le registre des chèques de Focus pour les années 1991 à 1995;
+x. Élément J, liste 2, onglets 170 à 173 inclusivement, généralement décrits comme étant les relevés bancaires personnels d’Ingrid Elsing-Welford, de Mark ou d’Ingrid Welford, et de H. Aliasy Napal.
+[28] J’ordonne également à l’appelant :
+1. de répondre à la question 471 figurant dans la transcription de l’interrogatoire préalable, selon laquelle l’appelant doit se renseigner auprès de Bell Canada au sujet de la méthode par laquelle cette dernière l’a rémunéré et de l’endroit où elle a déposé ses chèques de paie;
+2. de produire pour examen le feuillet T4 mentionné au paragraphe 13 de l’avis d’appel modifié;
+3. de se présenter de nouveau à un interrogatoire préalable pour répondre aux questions susmentionnées et à d’autres questions découlant des réponses données et pour subir ledit interrogatoire préalable conformément aux Règles de la Cour canadienne de l’impôt.
+[29] J’ordonne également :
+1. que les interrogatoires préalables oraux soient effectués au plus tard le 31 mars 2006, et qu’il soit satisfait à tout engagement en résultant au plus tard le 28 avril 2006;
+2. que les parties communiquent par écrit avec le coordonnateur des audiences au plus tard le 26 mai 2006 afin de fait savoir (i) si l’affaire doit être réglée; (ii) s’il s’avère nécessaire d’avoir recours à la gestion de l’instance; (iii) s’il est utile de tenir une conférence préparatoire, ou (iv) si une date d’audience doit être fixée. Dans ce dernier cas, les parties pourront déposer une demande conjointe en vue de faire fixer la date, l’heure et le lieu de l’audience conformément à l’article 123 des Règles de la Cour canadienne de l’impôt.
+[30] Les frais et dépens de la présente requête suivront l’issue de la cause.
+Signé à Ottawa, Canada, ce 8e jour de février 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 5e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI31
+No DU DOSSIER DE LA COUR : 2003-1401(IT)G
+INTITULÉ : Mark Welford
+c.
+La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 2 décembre 2005
+MOTIFS DE L’ORDONNANCE : M. le juge François Angers
+DATE DE L’ORDONNANCE : Le 8 février 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rosemary Fincham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

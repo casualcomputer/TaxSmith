@@ -1,0 +1,226 @@
+Title: Czerczak c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30098/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-612-30098-czerczak-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-11-30
+
+# Czerczak c. La Reine
+
+- Citation: 2010 CCI 612
+- Decision date: 2010-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7650, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Czerczak c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-30
+Référence neutre
+2010 CCI 612
+Numéro de dossier
+2010-1302(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010‑1302(IT)I
+ENTRE :
+KONRAD K. CZERCZAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appels entendus le 1er octobre 2010, à Toronto (Ontario)
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelant :
+M. Dan F. White
+Avocat de l’intimée :
+Me John Grant
+__________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2010.
+« Lucie Lamarre »
+Juge L. Lamarre
+Traduction certifiée conforme
+ce 17e jour de janvier 2011.
+Sandra de Azevedo, LL.B.
+Référence : 2010 CCI 612
+Date : 20101130
+Dossier : 2010‑1302(IT)I
+ENTRE :
+KONRAD K. CZERCZAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] La Cour est saisie d’appels interjetés de cotisations établies relativement aux années d’imposition 2006 et 2007 de l’appelant par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu (la « LIR »). Pour calculer son revenu, l’appelant a déduit à titre de dépenses d’emploi des montants totaux de 53 276 $ et de 47 355 $ respectivement pour chacune des années en cause :
+2006
+2007
+Frais de repas et de représentation (50 %)
+19 585 $
+13 882 $
+Bureau à domicile
+18 000 $
+10 000 $
+Hébergement
+5 650 $
+13 352 $
+Stationnement
+1 485 $
+1 485 $
+Frais de véhicule automobile
+8 556 $
+8 635 $
+[2] Pour établir la nouvelle cotisation de l’appelant, le ministre a refusé la déduction des repas et des frais de représentation, les frais du bureau à domicile et les frais d’hébergement, qui totalisaient 43 235 $ et 37 234 $ respectivement pour les années d’imposition 2006 et 2007.
+[3] Devant le tribunal, l’appelant a révisé comme suit les dépenses qu’il cherchait à déduire (voir pièce A‑1) :
+Tableau révisé des sommes contestées
+En date du 1er octobre 2010
+2006
+Repas et frais de représentation
+9 248 $
+Frais de déplacement
+1 148 $
+Bureau à domicile
+3 600 $
+2007
+Repas et frais de représentation
+7 421 $
+Frais de déplacement
+3 564 $
+Bureau à domicile
+3 000 $
+[4] L’intimée s’oppose à la déductibilité de ces dépenses. Elle est d’avis que l’appelant n’a ni payé ni engagé les dépenses en question, et qu’il n’était pas tenu d’engager l’une quelconque d’entre elles pour tirer un revenu d’emploi de son employeur MTS Allstream Inc. (« Allstream »), hormis certains frais de repas et de représentation et certains frais de déplacement et frais d’automobile engagés exclusivement dans la région du Grand Toronto. Pour déterminer la dette fiscale de l’appelant pour chacune des années d’imposition 2006 et 2007, le ministre a formulé les hypothèses de fait suivantes, qui sont énoncées au paragraphe 20 de la réponse à l’avis d’appel modifié (la « réponse ») :
+[traduction]
+a) l’appelant travaillait pour une entreprise de télécommunications, MTS Allstream Inc. (« Allstream »), en tant que directeur des ventes et du service à la clientèle et il était rémunéré en partie à la commission, et ce, pendant toute la durée des années d’imposition 2006 et 2007;
+b) l’appelant a touché des revenus de commissions d’Allstream, pour des montants approximatifs de 81 333 $ et de 62 596 $ pour 2006 et 2007 respectivement;
+c) l’appelant n’a pas produit le formulaire T2200 (« Déclaration des conditions de travail ») d’Allstream, relativement à l’année d’imposition 2007;
+d) le contrat de travail que l’appelant avait signé avec Allstream l’obligeait à payer une partie de ses frais de repas et de ses frais de représentation ainsi qu’une partie de ses frais de déplacement et de ses frais de véhicule automobile engagés dans la région du Grand Toronto, la seule région dans laquelle il se déplaçait;
+e) aux termes du contrat de travail qu’il avait signé avec Allstream, l’appelant n’avait à payer aucuns frais engagés à l’extérieur de la région du Grand Toronto, et notamment lors des voyages qu’il effectuait à l’extérieur du Canada;
+f) l’appelant n’a engagé aucuns frais de repas ou frais de représentation dans la région du Grand Toronto ou ailleurs et les montants réclamés étaient déraisonnables dans les circonstances;
+g) Allstream avait fourni à l’appelant un bureau dans les lieux de travail d’Allstream, où l’appelant se présentait normalement au travail;
+h) l’appelant n’était pas tenu de payer les fournitures qu’il utilisait pour son bureau à domicile, de payer pour l’usage d’un téléphone cellulaire ou d’embaucher un adjoint;
+i) l’appelant n’a calculé aucun montant se rapportant à son usage personnel en ce qui concerne les frais qu’il a déduits pour sa résidence et/ou son bureau à domicile;
+j) l’appelant n’a pas utilisé la moitié de sa résidence comme bureau à domicile, et toute déduction réclamée à ce titre n’est pas raisonnable dans les circonstances;
+k) même si le contrat de travail que l’appelant a conclu avec Allstream l’obligeait à avoir un bureau à domicile, ce n’est pas le lieu où, au moins la moitié du temps, l’appelant accomplissait les fonctions de son emploi pour Allstream, et ce lieu n’était pas utilisé exclusivement pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de son emploi;
+l) le contrat de travail que l’appelant a conclu avec Allstream ne l’obligeait pas à être absent, durant une période d’au moins 12 heures consécutives, de la municipalité et de la région métropolitaine dans laquelle Allstream est située;
+m) l’appelant n’a pas tenu, pour les années d’imposition 2006 et 2007, les livres comptables qui auraient permis de vérifier s’il avait engagé les dépenses qui ont été refusées et pour vérifier si ces dépenses avaient été engagées en vue de tirer un revenu d’Allstream.
+[5] L’appelant a témoigné devant le tribunal. Au cours des années en cause, il était directeur des ventes et du service à la clientèle pour Allstream, où il était chargé du développement des relations avec la clientèle dans le secteur de la technologie de l’information, en particulier avec des institutions financières de premier niveau (la Banque de Montréal (la « BMO »), la Banque Canadienne Impériale de Commerce (la « CIBC »)) de même qu’avec d’autres entreprises financières de premier niveau faisant affaire dans le marché canadien. Suivant l’appelant, il y a trois principaux acteurs dans ce domaine au Canada : Allstream, Bell Canada et Telus Business Solutions.
+[6] L’appelant a expliqué qu’il était reconnu par Allstream comme l’un de ses meilleurs vendeurs. Il a cité comme exemple un contrat d’une valeur de 1,4 million de dollars que BMO avait accordé à Allstream pour des services de connectivité à Internet pour les principaux centres de données de la Banque. Ce contrat était le fruit du travail et des démarches accomplis par l’équipe de l’appelant au sein d’Allstream (pièces A‑2 et A‑3). L’appelant a déclaré qu’il s’était classé au premier rang sur le plan des ventes sur le marché financier pour les trois années où il avait travaillé chez Allstream, de 2005 à 2008 (transcription, p. 7). Il a expliqué qu’il fallait normalement entre quatre et dix‑huit mois pour conclure un marché comme celui qui avait été signé avec BMO. Son principal objectif consistait à créer des liens solides avec les cadres de ses clients. Pour ce faire, il rencontrait la plupart du temps les cadres en question en personne à l’établissement du client (60 pour 100 du temps), lors de repas du midi ou du soir, ou en divertissant les cadres en question à ses frais après les heures de travail ou le week‑end. La facture pouvait osciller entre quelques centaines de dollars et plus d’un millier de dollars.
+[7] L’appelant a déposé devant le tribunal deux Déclarations des conditions de travail (les formulaires T2200) pour 2006. La première avait été remplie à la machine et avait été signée le 20 février 2007 par S. Dankevy, directeur, au nom d’Allstream (pièce A‑5). La seconde avait été remplie à la main et avait été signée le 22 avril 2007 par Chris Long, directeur des ventes, pour le compte d’Allstream (pièce A‑6). Les deux formulaires indiquaient que, selon son contrat de travail, l’employé devait payer les frais qu’il avait engagés pour exécuter les tâches qui lui avaient été confiées, qu’il n’avait pas reçu de remboursement pour ses dépenses (qui comprenaient les repas, les frais de représentation et les frais de déplacement pour le travail), et que l’employé devait travailler ailleurs qu’à l’établissement de son employeur (l’appelant se déplaçait à l’intérieur de la région du Grand Toronto). Dans la première déclaration T2200, il est indiqué que les fonctions de l’appelant ne l’obligeaient pas à rester au moins douze heures consécutives à l’extérieur de la municipalité et de la région métropolitaine où était situé l’établissement de l’employeur, et où l’appelant se présentait habituellement pour son travail. Dans la seconde déclaration T2200, on a répondu par l’affirmative à la même question en ajoutant à la main [traduction] « aux deux mois environ? La fréquence variait » (pièces A‑5 et A‑6, question 8). En réponse à la question 10 du formulaire T2200, on a indiqué que l’employé était tenu d’utiliser une partie de sa maison comme bureau et qu’il n’avait pas été remboursé des dépenses engagées à cette fin.
+[8] L’appelant a expliqué que M. Dankevy, qui avait signé la première déclaration T2200, exerçait maintenant d’autres fonctions et qu’un nouveau directeur des ventes avait été nommé. Il a par conséquent demandé au nouveau directeur de signer une seconde déclaration T2200 pour 2006, pour s’assurer d’être couvert par cette personne‑là également. L’appelant a expliqué aussi qu’il n’aurait pas été en mesure de signer le formulaire TD1X qui permet à l’employeur d’ajuster les retenues sur la paie de l’employé pour tenir compte des dépenses liées aux commissions (un formulaire TD1X non rempli a été versé au dossier sous la cote A‑8) si son employeur ne lui avait pas remis un formulaire T2200 dûment signé. Il a affirmé qu’Allstream lui avait accordé un budget de dépenses très limité et qu’il n’aurait pas dépensé les sommes qu’il réclamait s’il n’avait pas eu la certitude que son employeur signerait le formulaire T2200 (transcription, p. 15, 16 et 17 et 24, 25 et 26).
+[9] L’appelant a également produit une déclaration T2200 pour l’année d’imposition 2007. Ce formulaire a été signé le 1er février 2008 par Lance Hamilton, directeur des ventes, pour le compte d’Allstream (pièce A‑7). Les réponses que l’on trouve dans ce formulaire sont pratiquement identiques à celles qui se trouvent sur la première déclaration T2200 déposée pour 2006 (pièce A‑5). L’appelant affirme qu’il relevait de M. Hamilton en 2007.
+[10] L’appelant a expliqué que les représentants commerciaux d’Allstream étaient soumis à un traitement différent de celui des autres employés. Il a affirmé qu’il avait contribué pour une valeur de 20 millions de dollars en nouveaux clients, à tel point qu’on lui a conseillé d’ouvrir sa propre franchise (transcription, p. 37).
+[11] En ce qui concerne les frais de déplacement en litige, un extrait du grand livre général de 2007 a été déposé comme pièce A‑11. Il vise expressément les dépenses engagées personnellement par l’appelant lors d’un voyage de trois jours qu’il a fait à Las Vegas pour assister à un congrès sur les mesures de sécurité applicables aux logiciels organisé par Black Hat. Il n’a pas été remboursé de ces dépenses.
+[12] L’appelant a également déposé un extrait du grand livre général de 2006 (pièce A‑12) indiquant le coût d’un billet d’avion qu’il aurait payé pour participer à une réunion de lancement de la stratégie d’Allstream en 2006 à Puerto Vallarta, au Mexique. Il a expliqué que cette rencontre avait été organisée par Allstream à l’intention de ses employés les plus performants. Il a déclaré que ces frais, qui auraient normalement dû être assumés par son employeur, ne l’avaient pas été parce que son épouse et lui avaient manqué leur vol et qu’ils avaient dû acheter de nouveaux billets. Il a présenté en preuve une copie d’un reçu de paiement d’un billet établie par Amex Canada Inc, qui indiquait un montant de 1 448,20 $. Il a expliqué qu’il s’était servi de la carte de crédit American Express qu’Allstream lui avait fournie pour ses dépenses d’affaires. Normalement, il envoyait le reçu à Allstream qui acquittait ensuite la facture. Dans le cas qui nous occupe, Allstream a refusé de payer. L’appelant a déclaré qu’il avait réglé cette facture en effectuant un débit sur son compte en banque personnel à la Banque TD. Il aurait tenté en vain d’obtenir une copie du relevé de compte d’Amex parce que la carte appartenait à Allstream et non à lui (transcription, p. 33 à 36). Je constate toutefois, à la lecture de la pièce A‑12, que les quatre derniers chiffres de la carte Amex fournie par Allstream à l’appelant sont 1005. Or, sur la copie du reçu de paiement, les quatre derniers chiffres de la carte Amex utilisée pour effectuer ce paiement le 15 février 2006 sont 1025. Enfin, le relevé des opérations bancaires de l’appelant pour la période comprise entre le 1er janvier 2006 et le 31 décembre 2007, qui a été joint à cette même pièce, ne fait état d’aucun paiement précis de 1 448,20 $, ce qui complique singulièrement la tâche de concilier les montants réclamés par l’appelant.
+[13] En ce qui concerne les dépenses liées au bureau à domicile, l’appelant a expliqué qu’il était tenu de travailler à la maison (transcription, p. 37). En 2006, il avait loué au centre‑ville de Toronto un appartement d’une superficie de 800 pieds carrés aménagé sur un seul étage. Le loyer qu’il payait était de 1 200 $ par mois, pour un total de 14 400 $ pour l’année 2006 (pièce A‑13). Il a expliqué qu’une des pièces était consacrée exclusivement à son travail et qu’elle occupait environ le quart de la superficie totale (transcription, p. 69). En 2007, il a déménagé dans un appartement en copropriété de deux étages, dont une partie lui servait de bureau (pièce A‑14). Suivant la pièce 14, les frais de location s’élevaient à 1 000 $ par mois, un aspect que l’appelant n’a pas abordé.
+[14] Au sujet des frais de représentation, l’appelant a produit des extraits du grand livre général de 2006 et de 2007 (pièces A‑15 et A‑16) exposant en détail ses dépenses pour ces années‑là. Elles totalisent 50 682,80 $ pour 2006 et 61 245,30 $ pour 2007, et il demande une déduction de 9 248 $ pour 2006 et de 7 421 $ pour 2007 (pièce A‑1).
+[15] En contre‑interrogatoire, l’appelant a expliqué qu’il avait considérablement réduit les dépenses dont il avait d’abord demandé la déduction en excluant les montants pour lesquels il n’avait pas de reçus (transcription, p. 43). Il a également reconnu qu’il avait rempli les formulaires T2200 lui‑même et qu’il les avait fait signer par la suite. Il a en outre reconnu qu’il avait été remboursé de ses frais de déplacement, frais d’hébergement dans des hôtels, repas, frais de transport terrestre, frais de stationnement, frais de représentation, fournitures de bureau et autres dépenses générales pour un total de 8 253,40 $ pour 2006 et de 10 317,22 $ pour 2007 (année pour laquelle les frais de véhicule automobile sont également inclus) (pièce R‑1, onglets 7 et 8). Quoi qu’il en soit, il a déduit les frais en question de son revenu sur le plan fiscal au motif qu’il s’agissait de dépenses discrétionnaires qu’il avait engagées pour tirer ses revenus de commissions. Il a affirmé qu’Allstream avait refusé de lui rembourser ses frais de déplacement et qu’il n’avait même pas réclamé à Allstream ses frais de repas et ses frais de représentation en raison de restrictions budgétaires (suivant l’appelant, la limite fixée par Allstream se situait entre 200 $ et 250 $ par mois). Seuls les frais de stationnement, d’Internet et d’usage d’un téléphone cellulaire ont été remboursés tout au long de l’année (transcription, aux pages 60 à 66).
+[16] L’appelant a convoqué Mme Julie Gil à la barre des témoins. Elle s’est présentée comme étant chef de bureau et a expliqué qu’elle avait participé à l’évaluation et à la préparation des livres et des documents de l’appelant (transcription, p. 80). Elle faisait ce qu’elle a appelé [traduction] « de la reconstitution de dossiers » (transcription, p. 85). Pour ce faire, elle a établi les dépenses de l’appelant et passé en revue ses reçus et ses relevés bancaires ainsi que des déclarations de revenus. Elle a remarqué que l’appelant avait fait des paiements en ligne sur un compte American Express, mais qu’il ne lui avait pas soumis de preuve qu’il était le détenteur de cette carte de crédit. Elle s’est par la suite rendu compte qu’il faisait des paiements avec la carte de l’entreprise (transcription, p. 81 et 82). Elle a informé l’appelant que les dépenses pour lesquelles il n’y avait pas de reçu n’étaient pas déductibles sur le plan fiscal. Quant aux dépenses relatives à son bureau au domicile, l’appelant avait d’abord déduit 100 % de ces dépenses. Elle a par la suite ramené ce montant à celui qui est maintenant réclamé. Elle a également examiné tous les frais de repas et de représentation et a ramené la déduction aux montants qui figurent à la pièce A‑1.
+[17] L’intimée a fait témoigner M. Dario Gasparotto, directeur des Opérations‑Ressources humaines, qui était notamment chargé du service des ventes et de la commercialisation chez Allstream pendant les années en cause. Le 18 avril 2006, il a envoyé un courriel aux employés d’Allstream, y compris à l’appelant, au sujet des formulaires T2200 pour l’année d’imposition 2005 (pièce R‑1, onglet 4). Il expliquait essentiellement que tous les employés seraient remboursés des débours raisonnables autorisés qui avaient été engagés dans le cadre d’activités exercées pour l’entreprise et qu’aucun formulaire T2200 ne serait désormais remis. Le courriel précisait explicitement que, lorsque l’Agence du revenu du Canada (l’ARC) exigeait qu’un employé remplisse ce formulaire, M. Gasparotto devait l’authentifier avec sa signature pour qu’il soit jugé valide sur le plan fiscal. Devant le tribunal, M. Gasparotto a expliqué qu’il était également chargé des formulaires T2200 en 2006 et en 2007 (transcription, p. 92). L’appelant a déclaré, en contre‑interrogatoire, qu’il avait tenu pour acquis que cette politique ne s’appliquait pas aux vendeurs (transcription, p. 55 à 59).
+[18] Une politique concernant les dépenses des employés a été déposée comme pièce R‑1, à l’onglet 5. Dans son introduction, elle précise que les dépenses raisonnables engagées dans le cours normal des affaires seront admises et que le directeur a toute latitude pour déterminer si des dépenses sont raisonnables et admissibles. M. Gasparotto a expliqué que cette politique s’appliquait aux vendeurs au cours des années en cause (transcription, p. 94), alors que l’appelant avait déjà affirmé, en contre‑interrogatoire, que ce n’était pas le cas (transcription, p. 67 et 68). Tout en affirmant qu’il ignorait si les dépenses faisaient l’objet d’un plafond mensuel, M. Gasparotto a déclaré que, suivant cette politique, il appartenait au directeur d’approuver les dépenses (transcription, p. 94 et 95).
+[19] Au sujet du voyage à Las Vegas (pièce A‑11), M. Gasparotto a expliqué que, bien qu’une formation en sécurité puisse être liée au travail, il croyait comprendre qu’Allstream n’était pas représentée à ce congrès (transcription, p. 96 et 97). Il a toutefois reconnu, en contre‑interrogatoire, qu’il n’avait pas eu personnellement connaissance de ce congrès et que son témoignage se fondait sur une conversation qu’il avait eue deux semaines avant le procès avec Rick Smith, qui était vraisemblablement le directeur commercial de qui l’appelant relevait à l’époque (transcription, p. 107, 122 et 123). Au sujet de la réunion de lancement de la stratégie d’Allstream (pièce A‑12), il a confirmé que cette réunion avait lieu chaque année pour récompenser les meilleurs vendeurs et qu’elle avait eu lieu au Mexique en 2006, et que l’appelant en faisait partie. Il a expliqué qu’Allstream payait le voyage, mais qu’il ignorait que les frais engagés pour réserver un nouveau vol pour l’appelant avaient été refusés. Au sujet de la carte de crédit de l’entreprise, M. Gasparotto a déclaré que les dépenses liées à l’entreprise devaient être payées avec cette carte par les employés et qu’Allstream payait automatiquement la facture en comparant ensuite celle‑ci avec les formulaires de dépenses qui lui étaient soumis (transcription, p. 99).
+[20] M. Gasparotto a confirmé que M. Chris Long, vice‑président aux ventes pour la région centrale de l’Ontario, était chargé de signer les formulaires T2200 (transcription, p. 104). Il a toutefois déclaré qu’après avoir examiné la hiérarchie du service des ventes d’Allstream, il avait constaté qu’en tant que vendeur, l’appelant relevait de Rick Smith, un directeur commercial, et non de Chris Long (transcription, p. 107). Suivant M. Gasparotto, il était illogique que Stewart Dankevy ou que Lance Hamilton ait signé les formulaires T2200, car pour autant qu’il le sache, ni l’un ni l’autre n’avait été directeur commercial (transcription, p. 103, 104 et 109). Il a également mentionné que les formulaires T2200 déposés par l’appelant qui indiquaient que, suivant son contrat de travail, l’employé devait payer les frais qu’il engageait pour accomplir les fonctions de son emploi, étaient erronés, à la lumière de la politique d’Allstream (transcription, p. 105 et 106). Il a également déclaré que les employés n’étaient pas tenus de payer les frais de repas et de représentation engagés en rapport avec l’entreprise. Ces frais étaient remboursés (transcription, p. 108). En ce qui a trait au formulaire TD1X que l’appelant a mentionné, M. Gasparotto en ignorait la teneur jusqu’à peu de temps avant le procès. Enfin, il a expliqué qu’il était possible que l’appelant était obligé de s’éloigner du bureau pendant plus de 12 heures (transcription, p. 111).
+[21] En contre‑interrogatoire, M. Gasparotto a reconnu qu’il ne s’occupait pas sur une base quotidienne des formulaires et des procédures concernant les vendeurs. Il travaillait surtout avec les directeurs commerciaux. Il a affirmé qu’Allstream remettait des formulaires T2200 sur demande. Il a expliqué que l’entreprise s’était engagée à signer et à remplir les formulaires T2200 si l’ARC l’exigeait. Il a également confirmé que Chris Long était autorisé à signer le formulaire T2200 pour l’appelant (transcription, p. 121 et 122).
+Arguments
+[22] La thèse de l’appelant est qu’il a démontré la validité des formulaires T2200 et que, dans ces conditions, il devrait avoir droit de déduire les dépenses en litige de ses revenus de commissions. Il est d’avis qu’il a démontré qu’il avait effectivement engagé les dépenses dont il n’a pas été remboursé. Mme Gill a expliqué dans son témoignage qu’elle vérifiait le tout très attentivement. Suivant les formulaires T2200, l’appelant devait avoir un bureau à domicile. Il avait effectivement aménagé chez lui un bureau dont il se servait exclusivement pour le travail.
+[23] En revanche, l’intimée estime qu’il ressort de la preuve que les formulaires T2200 n’ont pas été régulièrement signés, de sorte qu’ils ne reflètent pas la véritable intention d’Allstream. L’intimée soutient que l’appelant n’a pas démontré que son employeur l’obligeait à engager les dépenses en litige, ce que confirmerait la politique d’Allstream, dont M. Gasparotto a fait état et qui est citée dans les documents déposés sous la cote R‑1, aux onglets 4, 5 et 6. La thèse de l’intimée est renforcée par le fait que l’employeur ne remboursait que les dépenses raisonnables. Suivant M. Gasparotto, les formulaires T2200 comportaient des erreurs. En fait, l’intimée a laissé entendre qu’on y trouvait des contradictions, en ce sens que l’appelant avait déposé deux formulaires T2200 pour 2006 et que, suivant la politique d’Allstream, les frais de repas et de représentation étaient remboursés aux vendeurs, de sorte que ceux‑ci n’avaient pas à payer ces dépenses de leur poche. L’avocat de l’intimée cite la décision du juge Bowman, qui était alors juge en chef adjoint de notre Cour, Schnurr c. Canada, [2004] A.C.I. no 565 (QL), au paragraphe 19, où le juge déclare qu’un formulaire T2200 constitue une preuve prima facie sans toutefois être concluant ou déterminant si la preuve démontre qu’il comporte des erreurs.
+[24] En ce qui concerne les dépenses relatives au bureau à domicile, l’intimée affirme que la preuve ne révèle pas que l’appelant accomplissait principalement les fonctions de son emploi chez lui ou utilisait son bureau à domicile exclusivement aux fins de tirer un revenu comme l’exige le paragraphe 8(13) de la LIR.
+Analyse
+[25] En tant qu’employé, l’appelant ne peut déduire que les dépenses autorisées par l’article 8 de la LIR. Voici les dispositions de la Loi qui s’appliquent au cas qui nous occupe.
+Déductions
+Éléments déductibles
+8. (1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+Dépenses de vendeurs
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois :
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous‑alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous‑alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas :
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+Frais de déplacement
+h) lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous‑alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application des alinéas e), f) ou g);
+[…]
+Restriction générale
+(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+Repas
+(4) La somme dépensée par un cadre ou un employé pour son repas ne peut être incluse dans le calcul du montant d’une déduction en vertu de l’alinéa (1)f) ou h) que si le repas a été pris au cours d’une période où les fonctions de ce cadre ou de cet employé l’obligeaient à être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail et à être absent, le cas échéant, de la région métropolitaine où cet établissement était situé.
+[…]
+Attestation de l’employeur
+(10) Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous‑alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+Travail à domicile
+(13) Malgré les alinéas (1)f) et i) :
+a) un montant n’est déductible dans le calcul du revenu d’un particulier pour une année d’imposition tiré d’une charge ou d’un emploi pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie, selon le cas :
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l’emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l’emploi et est utilisée pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de la charge ou de l’emploi;
+b) si une partie de l’établissement domestique autonome du particulier répond à l’une des conditions énoncées aux sous‑alinéas a)(i) ou (ii), le montant déductible pour cette partie d’établissement dans le calcul du revenu du particulier pour l’année tiré de la charge ou de l’emploi ne peut dépasser son revenu ainsi tiré pour l’année, calculé compte non tenu d’une déduction pour cette partie d’établissement;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu du particulier pour l’année d’imposition précédente tiré de la charge ou de l’emploi est réputé être un montant qui est par ailleurs déductible au titre de la partie de l’établissement dans le calcul du revenu du particulier pour l’année tiré de la charge ou de l’emploi et qui est, sous réserve de l’alinéa b), déductible dans le calcul de ce revenu.
+[26] L’appelant était vendeur dans le domaine de la technologie de l’information pour Allstream au cours des années en cause et il était rémunéré en partie sous forme de commissions. Pour être en mesure de déduire ses dépenses lors du calcul de son revenu d’emploi, il devait donc satisfaire aux exigences de l’alinéa 8(1)f) de la LIR. En ce qui concerne les conditions à remplir, les questions en litige devant moi sont celles de savoir 1) si l’appelant était tenu, en vertu de son contrat de travail, d’acquitter ses propres dépenses, 2) s’il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur et 3) s’il a reçu une allocation pour frais de déplacement qui n’était pas incluse dans le calcul de son revenu.
+[27] En ce qui concerne les repas consommés par un employé, le paragraphe 8(4) prévoit que la somme dépensée par l’employé pour ses repas ne peut être incluse dans le calcul du montant d’une déduction en vertu de l’alinéa (8)(1)f) que si les repas ont été pris au cours d’une période où ses fonctions l’obligeaient à être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail.
+[28] Pour ce qui est du travail à domicile, le paragraphe 8(13) prévoit que, malgré l’alinéa 8(1)f), un montant n’est déductible dans le calcul du revenu pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie, selon le cas 1) est le lieu où le particulier accomplit principalement les fonctions de son emploi, 2) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de son emploi et est utilisée pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de son emploi.
+[29] De plus, le paragraphe 8(10) exige que le contribuable produise un formulaire prescrit (T2200), signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies au cours de l’année.
+[30] Sur les trois formulaires T2200 déposés par l’appelant, il est précisé que l’employé devait payer les frais qu’il engageait pour accomplir les fonctions de son emploi. Il était également précisé que la région dans laquelle l’appelant se déplaçait est celle du Grand Toronto. Sur les trois formulaires, il est également indiqué que l’employé devait payer d’autres dépenses (repas, frais de représentation, déplacements et automobile) pour lesquelles il ne recevait pas d’allocation ou de remboursement. Il est également précisé que, selon son contrat de travail, il devait utiliser une partie de son domicile pour du travail à domicile. En ce qui concerne les repas, un formulaire (pièce A‑6, question 8) indique que l’appelant devait rester au moins 12 heures consécutives à l’extérieur de la municipalité où il se présentait habituellement au travail, tandis que, dans les deux autres formulaires (pièces A‑5 et A‑7, question 8), la réponse à la même question était négative.
+[31] La preuve révèle que c’est l’appelant qui a rempli ces formulaires. Il a demandé à trois personnes différentes de les signer. M. Gasparotto a expliqué qu’il était celui qui était chargé de signer ces formulaires lorsqu’ils étaient demandés par l’ARC. Il a également dit que Chris Long était autorisé à signer, même s’il semblait qu’au cours des années en question, l’appelant relevait d’un directeur commercial dénommé Rick Smith. Il a également mentionné qu’il était illogique que Stewart Dankevy et Lance Hamilton aient signé les deux autres formulaires. Il a toutefois reconnu qu’il ne s’occupait pas sur une base quotidienne des formulaires et des procédures concernant les vendeurs. M. Gasparotto a déclaré que les employés d’Allstream n’étaient pas tenus de payer de leur poche les repas et les frais de représentation liés à l’entreprise. Selon la politique de l’employeur, les dépenses raisonnables qui avaient été engagées dans le cours normal des affaires et qui avaient été approuvées par le directeur de l’employé en cause étaient remboursées à ce dernier. M. Gasparotto a également expliqué que les dépenses se rapportant à l’entreprise devaient être payées par l’employé avec la carte de crédit de l’entreprise fournie à l’employé par l’employeur, et qu’Allstream paierait la facture. Enfin, il a expliqué qu’il était possible que l’appelant doive se trouver à l’extérieur du bureau pour plus de 12 heures.
+[32] La politique de l’employeur prévoit clairement que tous les employés sont remboursés des débours raisonnables autorisés engagés dans le cadre d’activités exercées pour l’entreprise et qu’aucun formulaire T2200 ne serait désormais remis. Cette politique contredit selon moi les réponses données dans les formulaires T2200. En fait, si l’employeur remboursait toutes les dépenses d’affaires raisonnables, il n’était pas nécessaire d’obliger les employés à engager d’autres dépenses pour les besoins de l’entreprise. Dire le contraire reviendrait à affirmer que l’appelant était tenu de payer des dépenses déraisonnables. L’appelant a produit trois formulaires T2200, tous signés par des personnes différentes. Ces formulaires contredisent la politique d’Allstream. Ils ont été remplis par l’appelant lui‑même. Bien que M. Gasparotto ait reconnu qu’il n’avait pas directement affaire aux vendeurs, il occupait quand même un poste très élevé dans la hiérarchie de l’entreprise et c’était lui qui était chargé de la mise en œuvre de cette politique (comme en fait foi le courriel envoyé à tous les employés, y compris à l’appelant, qui a été déposé comme pièce R‑1, onglet 4). Dans ces conditions, j’ai du mal à ajouter foi aux formulaires T2200 sans avoir entendu les explications des personnes qui les ont signés. Ainsi que le juge en chef Bowman l’a dit dans la décision Schnurr, précitée, le formulaire T2200 constitue une preuve prima facie, mais il n’est ni concluant ni déterminant si la preuve démontre qu’il est erroné. Je suis d’avis que l’intimée a démontré que cette preuve prima facie est contredite par la politique adoptée par Allstream.
+[33] Après avoir examiné chacune des catégories de dépenses dont l’appelant demande la déduction dans les présents appels, j’arrive à la conclusion qu’aucune n’est déductible.
+[34] Les frais de repas et de représentation ont été remboursés à l’appelant dans la mesure où ils étaient raisonnables. Je crois comprendre que ceux que l’appelant a déduits dans ses déclarations de revenus n’ont même pas été soumis pour approbation à son employeur. Dans ces conditions, il est difficile de conclure que ces dépenses devaient être engagées au profit de l’employeur.
+[35] L’employeur a également remboursé les frais de déplacement. Je peux déduire, à la lecture de la politique de l’employeur, qu’aucun remboursement n’a été effectué en ce qui concerne le voyage à Las Vegas, que l’appelant n’était pas tenu de faire ce voyage et que celui‑ci n’a pas été considéré comme une dépense raisonnable par Allstream. De plus, je crois comprendre que l’appelant n’était pas habituellement tenu d’exercer les fonctions de son emploi ailleurs que dans la région du Grand Toronto. Ainsi que le juge Bowie de notre Cour l’explique dans la décision Morgan c. Canada, [2007] A.C.I. no 307 (QL), au paragraphe 12, il y a une différence entre le fait d’être autorisé à faire quelque chose et celui d’être obligé de faire quelque chose. Dans le cas qui nous occupe, si Allstream ne lui a pas demandé de participer à ce congrès, l’appelant ne peut déduire cette dépense en vertu de l’alinéa 8(1)f) ou de l’alinéa 8(1)h) de la LIR pour le calcul de son revenu. En ce qui concerne les frais entraînés par l’achat d’un nouveau billet d’avion pour le Mexique, je crois comprendre que ce voyage avait déjà été payé par Allstream. Le fait que l’appelant et sa femme ont raté l’avion est un problème personnel, ce qui constitue une autre raison de refuser la déduction de ces frais. Enfin, la preuve ne permet pas de savoir avec certitude si les frais supplémentaires ont effectivement été payés avec la carte de crédit de l’entreprise pour être ensuite assumés par l’appelant.
+[36] En ce qui concerne le bureau à domicile, l’appelant a expliqué qu’il rencontrait ses clients dans l’établissement de l’entreprise 60 pour 100 du temps. On ne peut donc pas affirmer qu’il accomplissait principalement les fonctions de son emploi chez lui. Qui plus est, la preuve ne m’a pas convaincue que ce lieu servait exclusivement à gagner un revenu et qu’il était utilisé exclusivement par l’appelant pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de son emploi. Tout d’abord, comme je l’ai déjà dit, j’hésite à me fier aux formulaires T2200 pour conclure que l’appelant était obligé d’avoir un bureau chez lui. Le fait que les formulaires T2200 contredisent la politique de l’employeur permet de s’interroger sur l’exactitude des renseignements donnés dans ces formulaires, étant donné que les personnes qui les ont signés n’étaient pas présentes pour témoigner. Les documents déposés par l’appelant sous la cote A‑13 et A‑14 à l’appui de sa prétention qu’il avait un bureau à domicile sont insuffisants, à mon avis, pour autoriser la déduction. J’estime que le témoignage que l’appelant a donné à cet égard est intéressé et je ne suis pas convaincue qu’il n’a jamais utilisé ce lieu à des fins personnelles. Qui plus est, en ce qui concerne 2007, l’appelant n’a pas expliqué comment il avait calculé le montant de dépenses qu’il avait déduit. Je conclus par conséquent qu’aucun montant ne peut être déduit en vertu du paragraphe 8(13) de la LIR au titre d’un bureau à domicile.
+[37] Compte tenu de l’ensemble du contexte, je ne vois pas comment je pourrais conclure que les dépenses dont l’appelant demande la déduction 1) devaient être engagées et 2) étaient raisonnables. L’appelant ne m’a pas convaincue, selon la prépondérance des probabilités, que les dépenses en question sont déductibles en vertu de l’article 8 de la LIR.
+[38] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2010.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 17e jour de janvier 2011.
+Sandra de Azevedo, LL.B.
+RÉFÉRENCE :
+2010 CCI 612
+No DU DOSSIER DE LA COUR :
+2010‑1302(IT)I
+INTITULÉ :
+KONRAD K. CZERCZAK
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 1er octobre 2010
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 30 novembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+Me Dan F. White
+Avocate de l’intimée :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,222 @@
+---
+title: "Métal Laurentides Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26267/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 280"
+citation2: ""
+neutral_citation: "2003 CCI 280"
+decision_date: "2003-05-02"
+language: "fr"
+item_id: "26267"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3998
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:14:46.459000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2504b17146840fdf541620791fbfe157b1c509ba4ef69cd9e9d9d9e9c9fea49"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Métal Laurentides Inc. c. M.R.N.
+
+- Citation: 2003 CCI 280
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3998, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Métal Laurentides Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-02
+Référence neutre
+2003 CCI 280
+Numéro de dossier
+2002-3504(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-3504(EI)
+ENTRE :
+MÉTAL LAURENTIDE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 13 mars 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Représentante de l'appelante :
+Line Poirier
+Avocate de l'intimé :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI280
+Date : 20030502
+Dossier : 2002-3504(EI)
+ENTRE :
+MÉTAL LAURENTIDE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Québec (Québec), le 13 mars 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le « Ministre » ) datée du 7 juin 2002 selon laquelle l'emploi exercé par Mario Deblois, le travailleur, lorsqu'à son service durant la période en litige, soit du 1er janvier 2001 au 3 avril 2002, était assurable au motif qu'il rencontrait les exigences d'un contrat de louage de services.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi (la « Loi » ) se lit en partie comme suit :
+« Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...] »
+[4] Les paragraphes 5(2) et (3) de la Loi sont libellés en partie comme suit :
+5.(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[5] L'article 251 de la Loi de l'impôt sur le revenu porte notamment ce qui suit :
+251. Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d'un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[6] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[7] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes lesquelles ont été admises ou niées :
+a) L'appelante, constituée en société le 31 janvier 1984, exploite une entreprise de fabrication de structures d'acier ou d'aluminium. (admis sauf à parfaire)
+b) Au 31 décembre 2000, les actions ordinaires, comportant droit de vote, de l'appelante étaient réparties ainsi :
+Raynald Deblois, père du travailleur, avec 67 % des actions.
+Noëlla Boutin-Deblois, mère du travailleur, avec 33 % des actions. (admis)
+c) À une date indéterminée au cours de la période en litige, le travailleur a acquis de son père 17 % des actions ordinaires de l'appelante. (nié)
+d) L'appelante, exploitée à l'année longue, ouvre ses bureaux du lundi au vendredi, de 7 h à 17 h et a un chiffre d'affaires approchant 3 millions par année. (nié)
+e) L'appelante embauche une quinzaine d'employés à la fabrication en usine et 6 ou 7 employés de chantiers. (admis)
+f) Le travailleur rendait des services à l'appelante dès l'âge de 16 ans; il a quitté pour créer sa propre entreprise mais est revenu travailler pour l'appelante en 1995. (admis)
+g) Depuis son retour, le travailleur est membre du conseil d'administration avec son père et sa mère. (nié)
+h) Le travailleur agit comme gérant de l'entreprise; il prépare les soumissions, il gère les projets, il embauche et congédie le personnel de bureau, de l'usine et de chantiers et achète les matériaux. (admis sauf à parfaire)
+i) En remplaçant de son père, le travailleur gère, de plus en plus, les opérations quotidiennes de l'entreprise. (admis sauf à parfaire)
+j) Le travailleur recevait une rémunération hebdomadaire fixe sans tenir compte des heures réellement travaillées. (admis sauf à parfaire)
+k) Le travailleur était rémunéré par chèque à chaque semaine et recevait des bonis annuels de performance. (admis sauf à parfaire)
+l) Le travailleur utilisait son automobile personnelle dans le cadre de son travail et recevait une allocation mensuelle de déplacement de l'appelante à cet égard. (admis sauf à parfaire)
+m) M. Raynald Deblois prétend qu'il prenait de moins en moins de place dans l'administration de l'entreprise; il a reçu une rémunération de 81 000 $ en 2001 alors que le travailleur recevait 77 178 $ durant la même période. (nié)
+n) Pour confirmer son « détachement » progressif de l'entreprise, M. Raynald Deblois affirme qu'il se rendait en Floride pendant 4 ou 5 mois par année; il le fait depuis environ 18 ans, soit avant que le travailleur ne soit en poste et alors qu'un étranger (sans lien de dépendance) dirigeait l'entreprise lorsque M. Raynald Deblois était en Floride. (nié)
+o) Lorsqu'il était en Floride, M. Raynald Deblois pouvait communiquer 2 ou 3 fois par semaine avec le travailleur. (admis sauf à parfaire)
+p) L'appelante possède un droit de contrôle sur le travail du travailleur. (admis)
+[8] L'appelante, constituée en société le 31 janvier 1984, exploite une entreprise de fabrication de structures d'acier ou d'aluminium. Au 31 décembre 2000, les actions ordinaires comportant droit de vote de l'appelante étaient détenues par Raynald Deblois, père du travailleur, avec 67 % et Noëlla Boutin-Deblois, mère du travailleur, avec 33 %.
+[9] Le 18 décembre 2001, Raynald Deblois a transféré 32 actions de catégorie « A » à Mario Deblois, le travailleur, tel qu'en fait foi un document intitulé « Résolutions des administrateurs de Métal Laurentide Inc. » déposé sous la cote A-2. Le 19 décembre 2001, lesdites actions ont été transférées dans la compagnie Gestion Mario Deblois Inc. et ce même jour l'appelante a prêté à Gestion Mario Deblois Inc. la somme de 64 000 $ portant intérêt au taux préférentiel de la Banque Nationale du Canada, remboursable le ou avant le 31 décembre 2001.
+[10] Selon une résolution du conseil d'administration en date du 30 juin 1992, l'appelante a également prêté à Mario Deblois la somme de 14 000 $ (pièce A-1).
+[11] Raynald Deblois a déclaré que le travailleur a formé sa propre compagnie en 1988 et qu'il a éventuellement fait faillite. Cette entreprise était de même nature que celle exploitée par l'appelante.
+[12] Le travailleur a commencé à oeuvrer pour l'appelante en 1995 et occupait le poste de directeur général. Ses tâches consistaient à préparer les soumissions, gérer les projets sur les chantiers, embaucher et congédier le personnel et acheter les matériaux. En somme, le travailleur s'occupait de tout puisque son père, Raynald Deblois, se retirait graduellement de l'administration de l'entreprise. Raynald Deblois séjournait en Floride pendant 4 à 5 mois par année et le reste du temps il travaillait environ 20-25 heures par semaine. Le salaire annuel de Raynald Deblois pour 2001 se chiffrait à 81 800 $.
+[13] Raynald Deblois gardait un certain contrôle sur les décisions majeures de l'appelante et le travailleur devait le consulter pour celles-ci. Raynald Deblois pouvait signer seul les chèques de l'entreprise. Par contre, si les chèques étaient signés par le travailleur, une autre signature était exigée, dont celle du « contrôleur » .
+[14] L'appelante est exploitée à l'année et son chiffre d'affaires annuel s'établit à environ 3 000 000 $. Les heures de travail pour la quinzaine d'employés à la fabrication et les 6 ou 7 employés sur les chantiers étaient de 7 h à 17 h du lundi au vendredi.
+[15] En 2001, le travailleur a reçu 77 178 $ incluant un boni et une allocation pour sa voiture personnelle qu'il utilisait dans le cadre de son travail pour l'appelante. Le travailleur louait ladite voiture 450 $ par mois et l'appelante lui remettait environ 750 $ en compensation de la location et de ses déplacements.
+[16] Le travailleur n'avait pas d'horaire de travail fixe et oeuvrait de 60 à 70 heures par semaine. Les autres employés de l'appelante travaillaient 40 heures par semaine. Selon le comparatif salarial (pièce A-3), les employés étaient rémunérés entre 15,63 $ et 30,44 $ l'heure alors que le travailleur recevait 19,76 $ l'heure et n'était pas payé pour le temps supplémentaire. Par contre, certains employés étaient rémunérés à un taux horaire établi par un décret et selon le métier.
+[17] Les employés, incluant le travailleur, bénéficiaient d'une assurance collective, une assurance-vie et une assurance-salaire payées par l'appelante. Le travailleur recevait une compensation de l'appelante pour l'utilisation de sa voiture tant à ses fins personnelles que pour l'entreprise alors que les employés étaient payés au kilomètre lorsqu'ils devaient se servir de leur véhicule pour les fins de l'entreprise.
+[18] Lors de son témoignage, le travailleur a déclaré qu'il avait signé un document intitulé « avenant à une convention d'indemnisation et de sûretés afin d'ajouter des garants personnels » le 25 septembre 2002 en faveur de La Garantie, compagnie d'assurance de l'Amérique du Nord (pièce A-4). Il est à noter que le travailleur a signé ce document à titre de président de Gestion Mario Deblois Inc. et que Julie Slight, contrôleur, l'a signé en tant que témoin.
+[19] Dans son rapport sur un appel (pièce I-1), Denis Hamel, agent des appels, note qu'il a contacté Mario Deblois et Raynald Deblois par téléphone le 30 mai 2002. Selon Denis Hamel, le travailleur lui aurait déclaré, entre autres, qu'il n'avait pas déboursé d'argent pour l'acquisition des actions dans la compagnie pour, par la suite, ajouter qu'il avait reçu des dividendes de l'appelante, lesquelles il utilisait pour payer les actions qu'il avait obtenues et finalement déclarer que le comptable de la compagnie était la personne qui pouvait mieux expliquer les rouages de ce transfert.
+[20] Suite à son entretien téléphonique avec le travailleur, Denis Hamel a écrit dans son rapport les informations recueillies dont, entre autres :
+12- L'entreprise opère à l'année. Il y a des mois plus tranquilles mais ce n'est jamais pareil dans le domaine de la construction. Dans les périodes les plus actives, la compagnie peut avoir jusqu'à 10 à 12 contrats en marche en même temps. Elle donne des sous-contrats d'installation quand il y a trop d'ouvrage en même temps.
+22- Il est rémunéré à salaire fixe hebdomadaire, peu importe le nombre d'heures travaillées. Actuellement il gagne 1 250 $ brut par semaine. L'an dernier c'était 1 150 $. Il a aussi des bonis annuels de performance. Son père a un mot à dire quant au salaire et au boni. Il est rémunéré à la semaine par chèque.
+Remarque: En 1998 son salaire brut total a été de 53 694 $, en 1999 de 71 769 $, en 2000 de 74 326 $ et en 2001 de 77 178 $. En 2001, son père a reçu un salaire supérieur au sien, soit 81 800 $.
+27- Mario prend les deux semaines de vacances de la construction en été plus une semaine supplémentaire et les deux semaines du temps des Fêtes plus une autre semaine.
+[21] La même journée, soit le 30 mai 2002, Denis Hamel a contacté Raynald Deblois par téléphone et a obtenu, entre autres, les informations suivantes qu'il a notées dans son rapport :
+31- Concernant la question à savoir si Mario a déboursé de l'argent pour ses actions, il nous a répondu que le fiscaliste a les explications car c'est lui qui a fignolé le tout.
+34- Il nous a dit cependant que ses séjours de 4 à 5 mois en Floride datent de 18 ans. Autrement dit cela fait 18 ans qu'il s'absente pour d'aussi longues périodes en hiver.
+35- Avant que Mario ne dirige les opérations depuis 1995, il y avait dans la compagnie un gérant qui dirigeait les activités de la compagnie quand il s'absentait en hiver. Il prétend cependant qu'il exerçait un contrôle plus serré malgré tout sur ce gérant par rapport au faible contrôle qu'il exerce sur Mario.
+37- Il exerce un contrôle financier sur la compagnie. Il surveille la performance de l'entreprise.
+46- Mario n'a pas encore reçu de dividendes depuis qu'il détient des actions.
+49- Mario reçoit un bonus de fin d'année selon la performance de l'entreprise. L'an dernier il a reçu 10 000 $. La secrétaire, un ingénieur et un autre employé ont aussi reçu un bonus mais moindre que Mario.
+[22] Les informations obtenues du travailleur et de son père, lesquelles sont notées ci-haut, n'ont pas été contredites par aucun d'entre eux.
+[23] Il s'agit de déterminer si le travailleur occupait un emploi assurable en vertu de la Loi. Afin de bien distinguer le contrat de louage de services du contrat d'entreprise, il faut examiner l'ensemble des divers éléments qui composent la relation entre les parties.
+[24] Dans la cause Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, la Cour d'appel fédérale a énuméré quatre éléments de base pour distinguer un contrat de louage de services d'un contrat d'entreprise. Ces éléments sont : a) le degré de contrôle; b) la propriété des outils; c) les chances de profit et les risques de perte; et d) le degré d'intégration de l'employé dans l'entreprise du payeur.
+[25] Raynald Deblois, père du travailleur, contrôle encore les destinées de la compagnie. Il se présente quasiment à tous les jours de la semaine à la place d'affaires de l'appelante et y travaille environ 30 heures par semaine. Le travailleur consulte son père lors de prises de décisions majeures. Quant aux prises de décisions opérationnelles, le travailleur les prend seul.
+[26] Lorsque Raynald Deblois est en Floride pour une période de 4 à 5 mois, il téléphone au bureau deux ou trois fois par semaine. D'ailleurs, Raynald Deblois prend plusieurs mois de vacances en Floride depuis environ 18 ans.
+[27] Mario Deblois gère les opérations quotidiennes de l'entreprise seulement depuis 1995. Avant cette date, lorsque Raynald Deblois était en Floride, le gérant, n'ayant aucun lien de dépendance avec l'appelante, gérait l'entreprise et jouissait d'une certaine latitude décisionnelle.
+[28] Selon la preuve, Raynald Deblois, l'actionnaire majoritaire, avait encore le pouvoir d'intervenir dans les décisions d'envergure de l'appelante. L'appelante, une entité distincte des actionnaires, avait le droit d'exercer un contrôle sur le travail de Mario Deblois. D'ailleurs, l'appelante par l'entremise de Raynald Deblois exerçait de fait un certain contrôle sur le travailleur.
+[29] La preuve a clairement dévoilé que l'appelante possédait les outils. Le travailleur recevait un salaire régulier plus un boni selon la performance de l'entreprise; il n'y avait donc aucune chance de profit ou risque de perte pour le travailleur. Le travailleur est intégré dans les opérations de la compagnie, il n'était pas à son propre compte.
+[30] Dans sa réponse à l'avis d'appel, le Ministre s'est appuyé sur les alinéas 5(2)i) et 5(3)b) de la Loi.
+[31] La Cour a examiné la jurisprudence soumise par les parties.
+[32] Dans la cause Industries J.S.P. Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 423, le juge Tardif de cette Cour en a résumé les faits, similaires à la cause sous étude, en ces termes :
+Madame Marie-Claude Perreault a témoigné, expliqué et décrit au moyen de plusieurs exemples son intérêt, son enthousiasme et son dynamisme et celui de ses frères pour les intérêts de la compagnie oeuvrant dans le domaine difficile et très compétitif de la construction de meubles.
+Se partageant des responsabilités importantes et stratégiques de l'entreprise, elle et ses frères ne négligeaient strictement rien pour le mieux-être et le développement de l'entreprise contrôlée par monsieur Jacques Perreault, détenant 1,000 actions votantes mais non participantes.
+Chacun touchait un salaire plus que raisonnable et profitait, à la fin de chaque année, d'un boni qui variait suivant les performances économiques de l'entreprise et la qualité du travail offert par les membres de la famille.
+Les décisions importantes se prenaient dans la collégialité et consensus. Chacun consacrait un minimum de 60 heures dans le cadre de ses fonctions respectives pour la compagnie.
+La prépondérance de la preuve a donc été à l'effet que les membres de la famille Perreault se dévouaient entièrement et totalement aux affaires de la compagnie. Ils y investissaient la plus grande partie de leur disponibilité (minimum 60 heures) de manière à ce que la compagnie puisse réussir dans un marché difficile où la compétition est féroce.
+Les membres de la famille concernés par la détermination occupaient des fonctions importantes et essentielles et étaient rémunérés selon un salaire probablement inférieur à celui que la compagnie aurait dû payer à des tiers pour des fonctions similaires. Cette seule réalité a fait dire et conclure au représentant de la compagnie qu'il y avait là matière à ce que les emplois en question soient exclus des emplois assurables, en vertu des dispositions de l'alinéa 3(2)c) de la Loi sur l'assurance-chômage (la « Loi » ).
+[...]
+Le fait de contribuer et d'être associé à la gérance, à l'administration ou au développement d'une entreprise, et tout particulièrement lorsqu'il s'agit d'une petite entreprise, fait en sorte que la description de tâches est fortement empreinte d'éléments propres et caractéristiques de celles souvent assumées par les propriétaires d'entreprise eux-mêmes ou de personnes détenant plus de 40 p. 100 des actions votantes de la compagnie dans laquelle ils ont un emploi. En d'autres termes, à ce niveau de responsabilités, la composante rétribution doit s'apprécier avec prudence au niveau d'une comparaison avec des tiers; il existe souvent des avantages qui compensent pour le salaire moindre.
+et a conclu que l'emploi exercé par les membres de cette même famille, donc ayant un lien de dépendance, n'était pas exclu des emplois assurables.
+[33] Dans la cause Massé et Plante Auto (1997) Ltée c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 796, le juge Savoie de cette Cour a confirmé la décision du Ministre à l'effet que les emplois des travailleurs rencontraient les exigences d'un contrat de louage de services et s'est exprimé ainsi :
+En 1997, Martin et Steve Pomerleau ont acheté les actions de leur oncle dans la société Massé et Plante Auto (1997) Ltée. Leur père, Denis Pomerleau conservait 67 pour cent des actions votantes de l'appelante. Il détient toujours ce même pourcentage d'actions dans cette société.
+Ayant eu des troubles de santé, Denis Pomerleau est à la pré-retraite. La preuve établit que les grandes décisions de l'appelante sont prises à trois, c'est-à-dire par Denis Pomerleau et ses deux fils Martin et Steve. Denis Pomerleau ne s'est jamais départi de sa part majoritaire des actions parce que c'est la condition imposée par les sociétés fabricantes d'automobiles Subaru, Suzuki et Volkswagen ainsi que la banque qui finance les opérations. C'est toujours Denis Pomerleau qui signe les cautions nécessaires.
+Les deux fils ont les coudées franches dans la gestion des deux entreprises. Leur père reçoit régulièrement les bilans de ces entreprises et il existe une consultation entre les deux fils et leur père. Denis Pomerleau affirme que ses deux fils se destinent à prendre la succession et la gestion entière de ces entreprises ainsi que la majorité des actions, mais il a été admis qu'advenant de sérieux problèmes financiers ou d'une mauvaise gestion, c'est Denis Pomerleau qui devrait intervenir pour apporter le redressement et les correctifs nécessaires pour satisfaire les sociétés manufacturières et les institutions bancaires.
+Dans l'esprit de l'actionnaire majoritaire Denis Pomerleau, il a laissé la gestion de l'entreprise à ses deux fils. Il n'est jamais intervenu pour imposer sa volonté contre le gré de ses fils. Toutefois, il admet que certaines circonstances pourraient et devraient l'amener à intervenir.
+En outre, la preuve a démontré que les emplois des travailleurs étaient assurables puisque, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, un contrat de travail à peu près semblable aurait été conclu avec chacun des travailleurs même s'il n'y avait pas eu de lien de dépendance entre l'appelante et les travailleurs durant la période en litige. La détermination de ce litige repose sur l'interprétation, en l'espèce, de la personne ou des personnes qui détiennent le contrôle ou le pouvoir de l'entreprise. La décision du Ministre a été prise en fonction de ce critère. Ainsi, le Ministre a statué que Denis Pomerleau a conservé le contrôle de facto de l'entreprise. En cette qualité, selon le Ministre, il peut intervenir en tout temps. Le fait qu'il n'ait jamais exercé ce pouvoir n'a aucune importance. L'important, c'est qu'il détient toujours ce pouvoir.
+[34] Dans la cause sous étude, Raynald Deblois contrôlait encore les destinées de l'entreprise; il était présent au bureau de 20 à 30 heures par semaine. Même lors de ses séjours en Floride il communiquait avec le travailleur deux à trois fois par semaine. Lorsqu'il y avait une décision majeure à prendre, surtout sur le plan financier, Raynald Deblois était consulté et même pour les décisions de moindre envergure, soit sur le plan technique ou autre, le travailleur le consultait toujours à cause de son expérience. Bien que Raynald Deblois ait délégué la gérance de l'entreprise à son fils Mario, le travailleur, il n'a pas pour autant cédé son contrôle sur ses opérations.
+[35] Quant à l'aspect du lien de dépendance, le travailleur recevait un salaire raisonnable et son boni, à la fin de l'année, variait selon le chiffre d'affaires de la compagnie. Le salaire du travailleur ne pouvait pas être comparé à celui des autres employés vu ses responsabilités à titre de directeur général de l'entreprise. Le boni que recevait les autres employés était moindre que celui du travailleur. Le travailleur avait à sa disposition une automobile dont la majeure partie des frais de location et de déplacement étaient aux frais de l'appelante.
+[36] Les circonstances le permettant, le travailleur avait l'avantage de pouvoir prendre des vacances quand bon lui semblait - avantage raisonnable tenant compte de ses responsabilités. Le travailleur bénéficiait, au même titre que les autres employés, d'une assurance-collective dont les primes étaient payées par l'appelante.
+[37] Il est donc raisonnable de conclure, compte tenu des circonstances en l'espèce, soit la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli que l'appelante et le travailleur auraient conclu un contrat de travail à peu près semblable s'il n'y avait pas eu de lien de dépendance entre eux.
+[38] L'appel est rejeté et la décision du Ministre est confirmée.
+Signé à Ottawa, Canada, ce 2e jour de mai 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI280
+No DU DOSSIER DE LA COUR :
+2002-3504(EI)
+INTITULÉ DE LA CAUSE :
+Métal Laurentide Inc. et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 13 mars 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 2 mai 2003
+COMPARUTIONS :
+Pour l'appelante :
+Line Poirier (représentante)
+Pour l'intimé :
+Me Nancy Dagenais
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

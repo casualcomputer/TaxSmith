@@ -1,0 +1,145 @@
+---
+title: "Logiciels Uppercut Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28723/index.do"
+last_modified: "2008-06-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 312"
+citation2: ""
+neutral_citation: "2008 CCI 312"
+decision_date: "2008-06-13"
+language: "fr"
+item_id: "28723"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1447
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:39:59.807000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a53c19b9535a5608948e456de5ac3477a305e7dba4c36ccd58dd4e6579d2d175"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Logiciels Uppercut Inc. c. La Reine
+
+- Citation: 2008 CCI 312
+- Decision date: 2008-06-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1447, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Logiciels Uppercut Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-13
+Référence neutre
+2008 CCI 312
+Numéro de dossier
+2006-1949(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-1949(GST)I
+ENTRE :
+LOGICIELS UPPERCUT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 avril 2008, à Rouyn-Noranda (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+Francis Langlois
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, pour la période du 1er septembre 2000 au 28 février 2005, est accueilli et la cotisation est annulée selon les motifs du jugement ci-joints.
+Signé à Frédéricton (Nouveau-Brunswick), ce 13e jour de juin 2008.
+« François Angers »
+Juge Angers
+Référence : 2008CCI312
+Date : 20080613
+Dossier : 2006-1949(GST)I
+ENTRE :
+LOGICIELS UPPERCUT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Logiciels uppercut inc (ci-après « Logiciels ») interjette appel d’une cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi sur la taxe d’accise (la « LTA ») pour la période du 1er septembre 2000 au 28 février 2005. Le 16 novembre 2004, Logiciels, par l’entremise de son représentant, a signé une renonciation à la prescription pour la période du 1er septembre 2000 au 31 mai 2001.
+[2] Le ministre, par cette cotisation, a ajouté 44 311,40 $ à titre de fournitures taxables pour lesquelles l’appelante n’avait pas perçu la taxe, qui se chiffre à 3 101,80 $. Le ministre a aussi refusé un crédit de taxe sur les intrants (CTI) de 2 016 $ lié à une créance de 33 127,20 $ que le ministre considère comme n’étant pas une créance irrécouvrable au motif qu’il y a eu compensation de la créance et d’une obligation financière de Logiciels envers sa débitrice, Fun Key Studio Inc. (« Fun Key »), c’est‑à‑dire qu’elles étaient réciproquement débitrices et créancières l’une de l’autre.
+[3] Le ministre a aussi établi des pénalités de 1 948,26 $ en vertu des articles 280 et 285 de la LTA.
+[4] Logiciels exploitait, durant la période en litige, une entreprise de programmation de logiciels et de services informatiques et connexes. Lors d’une vérification, le vérificateur de l’intimée a constaté des dépôts en argent comptant dans le compte bancaire de Logiciels dont l’écriture correspondante apparaissait dans le grand livre, sous la rubrique « avance et dû », comme étant des avances des administrateurs.
+[5] Le vérificateur a donc dressé une liste de tous ces dépôts, dont certains ont été identifiés comme étant des mises de fonds par les administrateurs Francis Langlois et Jean-Louis Bertrand. Ces dépôts ont été acceptés par le vérificateur à titre d’avances faites par un administrateur et n’ont pas été taxés. Le vérificateur était persuadé de l’origine des fonds, puisque les administrateurs ont été capables de fournir des preuves d’un retrait bancaire de leur compte personnel pour chacune des avances qu’ils ont fait au compte de Logiciels.
+[6] Il n’a cependant pas reçu de preuve semblable pour ce qui est de neuf dépôts faits en argent comptant du 22 juillet 2002 au 20 septembre 2004. Ce sont ces dépôts qui font l’objet de la première partie de la cotisation et qui ont été taxés à titre de revenus. Chacun des dépôts est constitué d’un montant variant entre 1 000 $ et 10 000 $ en argent comptant, à l’exception d’un dépôt fait par un chèque de 311,40 $. Selon la preuve, la plupart des bordereaux de dépôt ont été signés par un dénommé Alain Roy. Ce dernier est également un administrateur de Logiciels et, selon le représentant de Logiciels, Francis Langlois, le montant de 44 311,40 $ provient de monsieur Roy et il s’agit d’avances faites à Logiciels au même titre que les siennes et celles de Jean‑Louis Bertrand. Malgré quelques tentatives, Francis Langlois a été incapable d’obtenir d’Alain Roy une preuve de l’origine de l’argent qu’il a avancé à Logiciels, puisqu’il ne collaborait pas. Il faut noter que monsieur Alain Roy n’a pas été appelé à témoigner à l’audience de cette cause.
+[7] Selon monsieur Langlois, les avances des administrateurs, y compris celles de monsieur Roy, ont été faites afin de permettre à Logiciels de « passer au travers » comme il l’a dit, après des dépenses effectuées pour acheter des logiciels. Il fait remarquer que selon le bilan au 28 février 2005, Logiciels n’était pas une société rentable et elle avait suffisamment de pertes pour ne pas payer d’impôt. Comptable de profession, monsieur Langlois s’occupait lui-même de la tenue des livres de Logiciels. Il déclare qu’à partir de l’an 2000, Logiciels n’était presque plus en affaires et que même si elle fait des affaires depuis 1996, elle n’a jamais eu beaucoup de clients. Son rôle était de s’occuper de la comptabilité et du financement, celui de Jean-Louis Bertrand, qu’il décrit comme étant le « maître d’œuvre », de s’occuper de la programmation et du développement de logiciels, alors qu’Alain Roy est un simple actionnaire dont les activités sont dans le domaine de la construction et non dans celui des logiciels. Monsieur Langlois a fait parvenir une lettre au vérificateur identifiant les actionnaires qui avaient fait des mises de fonds avec les preuves exigées, sauf dans le cas de monsieur Roy, qui n’a rien fourni à ce titre.
+[8] Le 14 janvier 1999, Logiciels empruntait de Fun Key la somme de 50 000 $, sans intérêt et remboursable sur demande. Logiciels était un actionnaire de Fun Key et entretenait aussi des relations commerciales avec elle. Le prêt visait les activités courantes de Logiciels. Pour garantir le remboursement du prêt, Logiciels a cédé à Fun Key 150 000 actions de catégorie A du capital‑actions de Fun Key qu’elle détenait.
+[9] Durant la même année, Logiciels a effectué du travail pour Fun Key pour le développement d’un logiciel appelé « Viewer ». Six factures ont été remises à Fun Key à raison d’une par semaine à partir du 16 août 1999 jusqu’au 20 septembre 1999 pour un total de 28 800 $, plus la taxe sur les produits et services (« TPS ») de 2 016 $ et la taxe de vente du Québec (« TVQ ») de 2 113,20 $. Dans une lettre du 13 octobre 1999 de monsieur Langlois de Logiciels aux représentants de Fun Key, celui‑ci les a informés que le travail à effectuer était prêt depuis le 25 septembre 1999 et qu’ils pouvaient récupérer et vérifier le travail aux bureaux de Logiciels afin que le problème soit résolu définitivement et que Logiciels soit payée au complet pour le travail effectué. Fun Key n’a jamais pris possession du logiciel « Viewer » et n’a jamais payé les factures que lui a fait parvenir Logiciels pour ce travail. Les remises de TPS et de TVQ sur ces factures ont cependant été faites par Logiciels.
+[10] Durant cette même période, soit en août et en septembre 1999, les avocats de Logiciels et de Fun Key se sont échangé des lettres à la suite d’une rencontre des représentants de leurs clients tenue le 26 août 1999. Le conflit qui existait à ce moment visait principalement les nouvelles structures d’entreprise, mais il en a résulté qu’une demande de remboursement du prêt de 50 000 $ a été faite par Fun Key à l’endroit de Logiciels; Fun Key exigeait le paiement complet avec intérêts au plus tard le 17 septembre 1999. Logiciels n’a jamais remboursé la somme de 50 000 $ et n’a pas été poursuivie par Fun Key pour le non‑paiement. Dans le bilan de Logiciels pour son exercice se terminant le 28 février 2002, on constate, sous la rubrique de « passif à long terme », que le montant de 50 000 $ est toujours dû à Fun Key.
+[11] Cependant, dans le bilan de Fun Key pour les exercices se terminant les 30 avril 1998, 1999, 2000 et 2001, on peut lire, dans la rubrique des créances pour les années 1999 et 2000, que le prêt remboursable sur demande fait à Logiciels a une valeur de 50 000 $. Dans le bilan de 2001, ce montant est maintenant réduit à 15 000 $ et, finalement, il est réduit à néant en 2002. Le 18 octobre 2002, Fun Key cédait ses biens au bénéfice de ses créanciers en vertu de la Loi sur la faillite et l’insolvabilité. Selon le rapport du vérificateur, Logiciels n’a pas été inscrite comme créancière lors de la faillite de Fun Key.
+[12] Quant à Logiciels, elle a radié la dette de Fun Key comme créance irrécouvrable le 28 février 2001 au motif qu’elle n’avait pas les moyens de poursuivre et que ses rapports avec Fun Key n’étaient pas les meilleurs. Pour ce qui est de l’obligation de Logiciels par rapport au prêt de 50 000 $, elle a été radiée de ses états financiers après que Fun Key eut fait faillite.
+[13] Il s’agit donc de déterminer, en premier lieu, si les dépôts en argent comptant dans le compte en banque de Logiciels constituent des fournitures taxables pour lesquelles l’appelante n’a pas perçu la taxe. Il faut aussi déterminer si l’intimée était en droit d’établir des pénalités en raison de l’omission de Logiciels de verser la taxe au receveur général dans les délais prévus par la LTA. En deuxième lieu, il faut déterminer si Logiciels avait le droit de déduire 2 016 $ à titre de créance irrécouvrable lors du calcul de sa taxe nette relativement aux factures remises à Fun Key.
+[14] Il est bon de souligner qu’en vertu du paragraphe 299(1) de la LTA, le ministre n’est pas lié par quelque déclaration, demande ou renseignement livré par une personne ou en son nom et qu’il peut établir une cotisation indépendamment du fait que quelque déclaration, demande ou renseignement ait été livré ou non. De plus, en vertu du paragraphe 299(3) de la LTA, une cotisation est réputée valide à moins qu’elle ne soit annulée par voie d’opposition ou d’appel. Il incombe donc à Logiciels de démontrer, selon la prépondérance des probabilités, que la cotisation est erronée.
+[15] Le vérificateur a donc relevé, par la méthode des dépôts bancaires, un nombre important de dépôts sur lesquels la TPS n’aurait pas été versée. Dans la comptabilité de Logiciels, l’écriture correspondante apparaissant dans le grand livre indiquait que ces dépôts étaient à titre d’« avance et dû » par les administrateurs. Le vérificateur a donc demandé des pièces justificatives pouvant démontrer qu’il s’agit effectivement d’avances faites par les administrateurs. Deux des administrateurs, dont les avances étaient minimes, ont établi à la satisfaction du vérificateur que l’argent utilisé pour les avances avait été retiré de leur compte en banque personnel. Il n’a cependant pas reçu une telle preuve du troisième administrateur, monsieur Alain Roy, et a donc considéré ces dépôts de 44 311,40 $ au total comme étant des fournitures taxables pour lesquelles Logiciels n’avait pas perçu la taxe.
+[16] Le fait que ces dépôts soient constitués d’argent comptant a sûrement contribué aux doutes du vérificateur quant à l’origine des fonds. Cependant, je dois reconnaître que la comptabilité de Logiciels a identifié ces fonds comme des avances des administrateurs et que ces avances apparaissent d’ailleurs dans les deux états financiers de Logiciels déposés en preuve. Dans celui du 28 février 2002, on peut lire que Logiciels a une dette à court terme de 1 000 $ envers Alain Roy. Cette avance ne fait d’ailleurs pas partie des dépôts qui font l’objet de la cotisation. Quant à ceux qui font l’objet de la cotisation, les états financiers de Logiciels du 28 février 2002 indiquent une dette à court terme de 32 311,40 $ due à Alain Roy et une autre de 3 350 $ due à Francis Langlois.
+[17] Francis Langlois est le seul qui ait témoigné pour Logiciels. Tous les dépôts d’Alain Roy ont été identifiés; il est celui qui, dans la plupart des cas, a fait les dépôts. Monsieur Langlois aurait fait un des dépôts après avoir reçu l’argent de monsieur Roy et deux dépôts auraient été faits par l’épouse du troisième administrateur.
+[18] Monsieur Langlois est comptable de profession et s’occupait de la tenue des livres de l’appelante. À mon avis, il a témoigné de façon franche et honnête et sa crédibilité n’a jamais été mise en jeu. Il ne connaît pas l’origine des fonds de monsieur Roy, mais il est certain que ces fonds ne sont pas des revenus de Logiciels pour des services rendus et qu’il s’agit bel et bien d’avances de fonds faites par monsieur Roy à Logiciels. Il soutient que les activités de Logiciels depuis l’an 2000 étaient très faibles; elle n’était presque plus en affaires et elle avait très peu de clients, ce qui explique la nécessité d’y injecter des fonds.
+[19] Alain Roy aurait pu être appelé comme témoin afin de confirmer les affirmations de monsieur Langlois, mais ce n’est pas le cas. Je ne crois cependant pas que l’ensemble de la preuve me permette de tirer une inférence que son témoignage aurait nui à Logiciels en ce sens que l’argent déposé serait effectivement un revenu non déclaré de Logiciels sur lequel la TPS n’aurait pas été versée.
+[20] Les dépôts sont identifiés, les montants correspondent à ce que la comptabilité a identifié à titre d’avances des administrateurs, la situation et les activités de Logiciels durant la période et particulièrement le témoignage de monsieur Langlois font en sorte que je suis convaincu que la somme de 44 311,40 $, selon la prépondérance des probabilités, ne constitue pas des revenus de Logiciels sur lesquels la TPS est redevable. À la lumière de cette conclusion, il va de soi que les pénalités ne peuvent être établies sur ces montants.
+[21] Logiciels doit également me démontrer selon la prépondérance des probabilités que la créance de Fun Key est irrécouvrable et qu’elle a le droit de la déduire dans le calcul de sa taxe nette selon les dispositions du paragraphe 231(1) de la LTA.
+[22] L’intimée, dans sa réponse à l’avis d’appel, a plaidé, et il est admis, que Logiciels n’était pas inscrite sur la liste des créanciers lors de la faillite de Fun Key. L’intimée a donc considéré qu’il y avait eu compensation du prêt de 50 000 $ et des créances de 33 127,20 $, de sorte que l’appelante ne pouvait déduire le montant de 2 016 $ à titre de créance irrécouvrable dans le calcul de sa taxe nette.
+[23] La preuve avancée révèle cependant que Fun Key, par l’entremise de ses avocats, a fait une demande formelle auprès des avocats de Logiciels en septembre 1999 pour le remboursement du prêt de 50 000 $. De plus, selon les états financiers de Fun Key au 30 avril 2001, la dette de Logiciels était réduite à 15 000 $ et, l’année suivante, elle était réduite à néant, ce qui expliquerait le fait que Logiciels n’était pas inscrite sur la liste des créanciers lors de la faillite de Fun Key. Selon monsieur Langlois, Logiciels n’a pas remboursé le prêt à Fun Key, de sorte qu’il est probable que Fun Key se soit prévalue de sa garantie, en l’occurrence les actions, pour rembourser le prêt plutôt que d’exercer une compensation du montant qu’elle devait à Logiciels. Toute cette situation, à mon avis, se prête très mal à l’application d’une compensation comme le prévoit les articles 1672 et 1673 du Code civil du Québec , puisque les conditions pour qu’il y ait compensation ne sont pas présentes, particulièrement la condition que les dettes soient certaines. Le fait que Fun Key ait pu exercer ses droits en vertu de la garantie fait en sorte qu’il est difficile d’établir le montant de la dette à un moment précis, ce qui la rend incertaine.
+[24] À mon avis, la vraie question est celle de déterminer si la créance était réellement irrécouvrable, de sorte que Logiciels puisse déduire la TPS de 2 016 $ dans le calcul de sa taxe nette. La LTA n’offre aucune définition du terme « créance irrécouvrable ». La jurisprudence et le paragraphe 231(1) nous permettent cependant de dresser une liste de critères à respecter afin de pouvoir déduire une créance irrécouvrable au sens du paragraphe 231(1) de la LTA (voir Ciriello c. La Reine, no 98‑2304(GST)I, 30 novembre 2000, et Davies c. La Reine, no 97‑1983(GST)I, 29 mai 1998) :
+1. Aucun lien de dépendance ne doit exister entre le fournisseur et l’acquéreur d’une fourniture taxable.
+2. Le fournisseur a d’abord déclaré et versé la taxe percevable.
+3. La créance est irrécouvrable en totalité ou en partie.
+4. Le fournisseur doit avoir pris des mesures raisonnables afin de récupérer la créance due.
+5. Le fournisseur a radié la créance de ses livres comptables à un moment donné.
+[25] Il n’y a rien dans la preuve entendue pouvant me permettre de conclure qu’il y a un lien de dépendance entre l’appelante et Fun Key. La preuve révèle que la taxe a été déclarée et versée et que l’appelante a radié la créance de ses livres comptables le 28 février 2001. Il est certain également que la créance est devenue irrécouvrable en raison de la cession en faillite de Fun Key le 18 octobre 2002, date nettement à l’intérieur de la période en litige. Quant aux mesures raisonnables prises afin de récupérer la créance due, je suis d’avis que les circonstances de l’espèce ne laissaient aucunement de place à quelque probabilité de recouvrer des sommes, vu la teneur et la position respective des parties dans la correspondance échangée. L’intimée n’a d’ailleurs jamais soulevé ce dernier point. L’appelante a donc droit à cet intrant. L’appel est accueilli et la cotisation est donc annulée.
+Signé à Frédéricton, Nouveau-Brunswick, ce 13e jour de juin 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008CCI312
+Nº DU DOSSIER DE LA COUR : 2006-1949(GST)I
+INTITULÉ DE LA CAUSE : Logiciels Uppercut Inc. et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Rouyn-Noranda (Québec)
+DATE DE L’AUDIENCE : le 14 avril 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 13 juin 2008
+COMPARUTIONS :
+Représentant de l'appelante :
+Francis Langlois
+Avocate de l'intimée :
+Me Brigitte Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

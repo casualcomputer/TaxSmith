@@ -1,0 +1,209 @@
+Title: Amar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27248/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-420-27248-amar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-21
+
+# Amar v. The Queen
+
+- Citation: 2006 TCC 420
+- Decision date: 2006-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 789, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Amar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-21
+Neutral citation
+2006 TCC 420
+File numbers
+1999-505(IT)I, 2004-728(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 1999-505(IT)I
+2004-728(IT)I
+BETWEEN:
+BENOIT AMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 14 and 15, 2006, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant personally
+Counsel for the Respondent:
+Ms. Anne-Marie Boutin
+Ms. Johanne Boudreau
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1988 and 1989 taxation years are dismissed.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+“Alain Tardif”
+Tardif J.T.C.C.
+Translation certified true
+on this 15th day of 2006.
+Julie Poirier , Translator
+Citation: 2006CCI420
+Date: 20060721
+Dockets: 1999-505(IT)I
+2004-728(IT)I
+BETWEEN:
+BENOIT AMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif J.T.C.C.
+[1] These are two appeals relating to the 1988 and 1989 taxation years.
+[2] The issue in docket 2004-728(IT)I is as follows:
+· Was the Minister justified in refusing to allow the investment tax credit from 1988 to be carried over?
+The issues in docket 1999-505(IT)I are as follows:
+· Was there a genuine partnership, and if so, did it operate a business?
+· If so, was the appellant a partner who was a limited partner in the alleged partnership, within the meaning of subsection 96(2.4) of the Income Tax Act (the “Act”), at a time during the year to which this appeal relates?
+· If so, was the appellant a partner who was not regularly, continuously and substantially actively engaged in the activities of the alleged partnership’s business during the year in issue when the alleged partnership claims to have ordinarily carried on its business, and who did not operate a business similar to the business that the alleged partnership claims to have operated during the year in issue?
+· Was the work presented by the alleged partnership scientific research and experimental development?
+· Did the alleged partnership have expenses in relation to scientific research and experimental development during the taxation year in issue?
+[3] In making and justifying the assessments that have been appealed, the respondent assumed the following facts:
+Statement of facts, docket 2004-728(IT)I:
+[TRANSLATION]
+1. He denies all of the allegations of fact and conclusions of law set out in the notice of appeal that are not consistent with what follows.
+2. During 1988, the appellant invested in the alleged partnership, “Société d'informatique A.H.D. enr.”
+3. With respect to the tax treatment claimed by the appellant for the year in issue, the Minister denied the carry-over of the investment tax credit from 1988, in the amount of $1,353.
+4. The appellant filed a notice of appeal in the Tax Court of Canada in relation to 1988, docket number 99-505(IT)I.
+5. In making and upholding the reassessment for the taxation year in question, the Minister had regard to, inter alia, the facts set out in the notice of appeal, 99-505(IT)I, a copy of which is attached hereto.
+Statement of facts, docket 1999-505(IT)I:
+1. The respondent denies the facts alleged in paragraph 1 of the notice of appeal and adds that there was no partnership during the period in issue.
+2. He denies the facts alleged in paragraph 2 of the notice of appeal.
+3. He denies the facts alleged in paragraph 3 of the notice of appeal and adds that the alleged partnership did not carry on any genuine business.
+4. He denies the facts alleged in subsection 4 of the notice of appeal.
+5. With respect to paragraphs 5, 6 and 7 of the notice of appeal, he admits that in making the initial assessment, the Minister of National Revenue allowed the deductions and credits claimed and that a reassessment was made for the year in issue, but he denies the rest as it is stated, the facts alleged therein.
+6. He admits the facts alleged in paragraphs 8, 9 and 10 of the notice of appeal, except for the word [TRANSLATION] “Partnership”, which is denied.
+7. He admits that after an audit was done by Revenue Canada [TRANSLATION] “it was impossible to agree”, but he denies the rest of paragraph 11 of the notice of appeal.
+8. He admits paragraph 12 of the notice of appeal.
+9. He denies the facts alleged in paragraph 13 of the notice of appeal and adds that the facts alleged are not relevant to this appeal.
+10. He takes notice of the arguments made in paragraphs 14 and 15 of the notice of appeal.
+11. He denies paragraph 16 of the notice of appeal.
+12. He denies paragraph 17 of the notice of appeal as it is stated.
+13. He denies paragraph 18 of the notice of appeal.
+14. With respect to paragraph 19 of the notice of appeal, he takes notice of the argument made, denies that it is correct and denies any facts that may be alleged therein.
+15. With respect to paragraph 20 of the notice of appeal, he admits that throughout the year the corporation allegedly retained as a subcontractor was resident in Canada, but he denies paragraph 20 of the notice of appeal.
+16. With respect to paragraphs 21, 22, 23 and 24 of the notice of appeal, he takes notice of the arguments made, denies that they are correct and denies any facts that may be alleged therein.
+17. He denies paragraphs 25 and 26 of the notice of appeal.
+18. With respect to paragraphs 27, 28, 29 and 30 of the notice of appeal, he admits that more than 90 days passed after the notice of objection was filed by the appellant, he denies the other facts alleged therein as they are stated, and he adds that the facts alleged are not relevant to this appeal.
+19. In making the reassessment in issue, the Minister of National Revenue assumed the following facts, inter alia:
+(a) LA SOCIÉTÉ D'INFORMATIQUE A.H.D. ENR. (“the Partnership”) was created on February 2, 1988;
+(b) in 1988, the Partnership entered into an agreement with Zuniq Corp. (“Zuniq”) concerning the performance of scientific research and experimental development work relating to the “PERFIED” project;
+(c) Zuniq subsequently entered into an agreement with, inter alia, Data Age Corp. and Dias Informatique (“the Zuniq group corporations”). Those agreements related to the same project;
+(d) Zuniq was incorporated on March 25, 1985, with an object consisting of doing work described as research and development. It was to perform various work, and for that purpose various partnerships were created;
+(e) the promoter and organizer of the Partnership was Hien Vohoang (“Vohoang”), the prime mover behind Zuniq;
+(f) none of the Zuniq group corporations deals at arm’s length with the others or with Zuniq and Vohoang;
+(g) the work described by the Partnership (as scientific research and development activity) is in no way scientific research and experimental development;
+(h) the Partnership had no expenses during the taxation year in issue relating to scientific research and experimental development activities;
+(i) for its fiscal year ending on December 31, 1988, the Partnership claimed $1,493,044 which it described as research expenditures under subparagraph 37(a)(i) of the Income Tax Act;
+(j) the $1,493,044 claimed was not an expenditure made by the Partnership on scientific research and experimental development activities;
+SUBJECT TO WHAT IS SUBMITTED ABOVE, THE DEPUTY ATTORNEY GENERAL OF CANADA ADDS THE FOLLOWING:
+20. The appellant knew, at the time he acquired his share in the alleged Partnership, that he would, within a short time, recover an amount equal to about 50 percent of his share.
+21. The appellant had received a commitment from the promoters, the vendors, that he would, within a short time, recover an amount equal to about 50 percent of his share.
+22. All members of the alleged Partnership received, within a short time after acquisition of their shares, an amount equal to about 50 percent of their shares.
+23. Zuniq, in reality, had available to it only about 50 percent of the funds invested for performing the obligations set out in the contract entered into with the alleged Partnership.
+24. The use of a scheme to “buy back” the members’ shares for an amount equal to about 50 percent of their shares was, for the promoters and members of the alleged Partnership, an essential characteristic of the “tax shelter” in which they were the mutual vendors and purchasers.
+25. The appellant was entitled to receive an amount that he was given in order to eliminate or reduce the effect of a loss arising from the fact that he had a share in the alleged Partnership.
+26. The appellant benefited from a mechanism providing for the disposition of his share in the alleged Partnership and of which it is reasonable to think that one of the primary purposes was to try to avoid the application of subsection 96(2.4) of the Income Tax Act.
+27. Obtaining a reduction of his tax payable under the Income Tax Act is the only reason why the appellant became a member of the alleged Partnership.
+28. The members of the alleged Partnership did not know one another and did not actively work in the alleged Partnership.
+29. The appellant is a partner who was not regularly, continuously and substantially engaged in the activities of the alleged Partnership’s business during the year in issue when the alleged Partnership claims to have ordinarily carried on its business, and does not operate a business similar to the business that the alleged Partnership claims to have operated during that year.
+30. The alleged Partnership had no reason for its existence other than to provide a vehicle to generate income tax refunds and an instrument for financing the corporations in the Zuniq group.
+31. The appellant had no intention of entering into a partnership contract; the appellant and the other contracting parties did not intend to work together to generate profits for the alleged business.
+32. In the circumstances, the activities that the alleged Partnership considers to be research do not have any reasonable expectation of profit, and so the alleged Partnership was not operating a business in this respect.
+1988 Taxation Year
+[4] The Minister of National Revenue (the “Minister”) refused to allow the appellant an investment tax credit of $1,998.72 for an investment in the HAD partnership in 1988.
+[5] The investment tax credit was disallowed under section 37 of the Act and section 2900 of the Income Tax Regulations (the “Regulations”).
+[6] In his income tax return, the appellant deducted only a portion of the investment tax credit, amounting to $ 569.77.
+[7] However, the Minister allowed a deduction for all of the business loss claimed by the appellant in relation to his investment in the partnership.
+1989 Taxation Year
+[8] The Minister disallowed the deduction of $1,353.72, representing the portion of the investment tax credit that was not used in 1988 and carried over to 1989 ($1,998.72 - $569.77).
+[9] The appellant represented himself at the hearing. Because he had the burden of proof, it would have been usual for him to present his evidence first.
+[10] To make his job easier, and to ensure that he knew as accurately as possible why and how the respondent had arrived at the assessments that he was challenging, it was agreed that the respondent would present evidence first.
+[11] The respondent gave a very good summary of the evidence comprised of the testimony given by Sonia Borin and the expert testimony given by Claude Papion. The summary of that evidence, as prepared by counsel for the respondent, is reproduced in the paragraphs that follow.
+[12] Sonia Borin was the objection officer and coordinator for all notices of objection filed by the investors in 12 partnerships formed in the years 1986 to 1988 (“Zuniq group partnerships”), including the computer partnership AHD Enr. (“the AHD partnership”). She analyzed all of the information obtained by the Canada Customs and Revenue Agency (“CCRA”) and her work was recorded in a report entitled [TRANSLATION] “Objection Report”.
+[13] The AHD partnership is one of the 12 partnerships in the Zuniq group that was formed by Hien Vohang and his group, which was composed primarily of close family members and employees of Zuniq (“the Zuniq group”).
+[14] The AHD partnership was created on February 2, 1988. The founding members of the partnership were Hien Vohoang and his wife, Anh Nguyen. Between May and September 1988, the AHD partnership collected $1,493,500 from 115 investors, including the appellant.
+[15] Hien Vohoang is the sole shareholder, the president and the prime mover in Zuniq Corporation Inc. (“Zuniq”). Zuniq claimed to be engaged in various scientific research and experimental development work, and for that purpose various partnerships were created in order to obtain financing.
+[16] In 1988, the AHD partnership entered into an agreement with Zuniq for the performance of scientific research and experimental development work relating to a project called “Perfied”. Zuniq allegedly entered into agreements relating to that research project with Dias Informatique Inc., Data Age Corp. and Système Inar (“Zuniq group corporations”). All of those corporations are related to Zuniq or Hien Vohoang.
+[17] In fact, Dias Informatique Inc. uses the same address as Zuniq and the contact person for the corporation is Lise Gauthier, a Zuniq employee. Data Age Corp. also uses the same postal address as Zuniq and its sole shareholder is one of the members of the Zuniq research team. As well, the director and sole shareholder of Système Inar is Anh Nguyen, the wife of Hien Vohoang.
+[18] According to the invoices submitted by the AHD partnership, which contain no description of the work done, the AHD partnership paid a total of $1,493,043 to Zuniq and the Zuniq group corporations.
+[19] The AHD partnership submitted financial statements only for the 1988 taxation year, for a fiscal year of 11 months ending on December 31, 1988. The partnership declared a net loss of $1,492,544, including $1,472,393 as research and experimental development expenditures. That loss corresponds, virtually entirely, to the total contributions made by the investors.
+Share Buy-back
+[20] In January 1989, the investors in the AHD partnership sold their shares for an amount equivalent to 50 percent of their initial investments.
+[21] The assignment forms show Dalat Investment Inc., another corporation in the Zuniq group, as the purchaser of the investors’ shares. That corporation has filed no income tax return with CCRA. Nonetheless, Anh Nguyen, the wife of Hien Vohoang, signed assignment forms on behalf of that corporation in relation to another partnership in the Zuniq group, the ALH partnership.
+[22] Because of the commitment he had received from the promoters, the vendors, the appellant knew, at the time he acquired his share in the AHD partnership that he would, in a short time, recover an amount equal to about 50 percent of his share.
+[23] In fact, the return on the appellant’s investment in the AHD partnership was derived from the tax deductions and the short-term “buy-back” of his share for an amount equivalent to 50 percent of his investment.
+The Appellant’s Share
+[24] At the hearing, the appellant admitted that he had taken part in four or five meetings at the Zuniq offices with Mr. Vohoang and a few scientists, at which the appellant made some comments about the objectives of the research; however, he was not continuously and regularly involved in decisions or in the operations of the partnership.
+[25] In fact, the members of the partnership, including the appellant, did not know one another and did not actively work in the partnership.
+Zuniq Group Partnerships
+[26] The documents examined by Ms. Borin also led her to conclude that the 12 partnerships in the Zuniq group were all managed by the Zuniq group and operated in the same way. In fact, they used the same postal address as Zuniq.
+[27] As with the AHD partnership, before the end of the subscription period, the partnerships entered into a research contract with Zuniq or a corporation in the Zuniq group for an amount equivalent to the total subscriptions obtained. Subsequently, often on the same day, Zuniq entered into subcontracts with other corporations in the group.
+[28] For each of the partnerships, there was only one financial statement, for a fiscal year ranging from 52 days to 11 months and ending on December 31. In all cases, the end of the fiscal year corresponded to the time given to Zuniq and the other corporations in the Zuniq group (subcontractors) to complete the research work. The financial statements always showed a loss caused by research and experimental development expenditures, the total of which was virtually equivalent to the total invested by the investors and the amount shown in the research contract that Zuniq or a corporation in the Zuniq group entered into.
+[29] The investors subscribed to the partnership shortly before the end of the only fiscal year. At the beginning of the next year, each investor’s share was “bought back” by a corporation in the Zuniq group for an amount ranging from 50 to 60 percent of the initial investment.
+[30] Consequently, the period for which the investors’ shares were held ranged from a few weeks to a few months (eight months at most). As well, no evaluation of the fair market value of the shares of the 12 partnerships in the Zuniq group was submitted to justify the “buy-back” price.
+Testimony of Claude Papion
+[31] Claude Papion testified as an expert witness, recognized by the Court.
+[32] The AHD partnership claimed that it had spent $1,493,044 on research and development activities in 1988.
+[33] To determine whether the activities of the AHD partnership was eligible under section 37 of the Act and section 2900 of the Regulations, Mr. Papion used the three criteria set out by the CCRA in Information Circular 86‑4R2: scientific or technological advancement, uncertainty, and content.
+[34] Examination of the numerous documents provided to Mr. Papion by the representatives of the partnership showed that no scientific or technical uncertainty had been identified. Consequently, no work for the purpose of dispelling any scientific or technological uncertainty could have been done, and obviously, no technological or scientific advancement could have been demonstrated.
+[35] In Mr. Papion’s opinion, all of the documents provided showed only the intention to use existing software, following a procedure for their application that was common practice, without identifying the deficiencies.
+[36] For the same taxation year, two other partnerships in the Zuniq group, ALH Enr. and ALTA Enr., claimed that they had spent $3,170,000 and $551,063, respectively, for research and development activities in 1988.
+[37] Those two partnership’s project related to exactly the same subject as the AHD partnership’s project. Overall, those three partnerships claimed about $5 million in expenditures on scientific research and experimental development for the same project. Despite that claim, Mr. Papion estimated the total contribution of the research team to the project to have amounted to only 1.5 person-year. As well, on February 7, 1990, according to the document entitled [TRANSLATION] “Balance Sheet” (tab 19, page 96 of Exhibit I-3), 99.3 percent of the work had not yet been completed.
+[38] Mr. Papion’s final point was that he concluded that the activities of the AHD partnership did not satisfy the criteria in section 37 of the Act and section 2900 of the Regulations. To support his conclusions, Mr. Papion used criteria approved by the courts. On that point, see Northwest Hydraulic Consultants Ltd. v. Canada, [2001] T.C.J. No. 340 (QL) and the decision of the Federal Court of Appeal in C.W. Agencies Inc. v. Canada, [2001] F.C.J. No. 1886 (QL).
+Analysis
+[39] The respondent’s evidence took a full day of hearings, during which the appellant was very attentive but plainly very surprised, and astonished at the facts on which the assessments that are the subject of these appeals that were laid out.
+[40] The respondent’s evidence unequivocally established the following facts:
+· The AHD partnership’s project was not eligible, because it was not in any way a scientific research project, since the project did not meet the minimum characteristics to comprise a genuine research project.
+· The appellant had not regularly, continuously and substantially played an active role in the activities of the partnership, which made him a non-active partner.
+· At the time the investment was made, it had been agreed that the appellant would dispose of his shares at the beginning of 1989, in return for consideration corresponding to 50 percent of his initial investment, making him a limited partner within the meaning of subsections 96(2.2) and 96(2.4) of the Act.
+· (The appellant formally admitted that he had been a non-active partner and admitted the facts that made him a limited partner.)
+[41] The appellant clearly understood that the respondent had very convincingly demonstrated three facts – that no genuine research was done, that he had been a non-active partner and that his true status had been that of limited partner – and wisely concluded that he was wasting his time by pursuing his objection; he then consented to judgment. Accordingly, the appeals are dismissed.
+Signed at Ottawa, Canada, this 21st day of July 2006.
+“Alain Tardif”
+Tardif J.T.C.C.
+Translation certified true
+on this 15th day of 2006.
+Julie Poirier , Translator
+CITATION: 2006CCI420
+COURT FILE NOS.: 1999-505(IT)I and 2004-728(IT)I
+STYLES OF CAUSE: BENOIT AMAR AND THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATES
+Hearing: February 14 and 15, 2006
+Appellant’s written argument: February 28, 2006
+Respondent’s written argument: April 12, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 21, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant personally
+Counsel for the Respondent:
+Ms. Anne-Marie Boutin
+Ms. Johanne Boudreau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

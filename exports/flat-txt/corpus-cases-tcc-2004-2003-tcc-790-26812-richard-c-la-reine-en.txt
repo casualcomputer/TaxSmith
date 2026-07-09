@@ -1,0 +1,104 @@
+Title: Richard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26812/index.do
+Corpus path: corpus/cases/tcc/2004/2003-tcc-790-26812-richard-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-01-12
+
+# Richard c. La Reine
+
+- Citation: 2003 TCC 790
+- Decision date: 2004-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1396, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richard c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-12
+Neutral citation
+2003 TCC 790
+File numbers
+2002-4629(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4629(IT)I
+BETWEEN:
+JOCELYNE RICHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 22, 2003, at Shawinigan, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Counsel for the Appellant:
+François Rioux
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act, notice of which is dated January 22, 2002, and numbered 19135 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of January 2004.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 20th day of April 2004.
+Sharon Moren, Translator
+Citation: 2003TCC790
+Date: 20040112
+Docket: 2002-4629(IT)I
+BETWEEN:
+JOCELYNE RICHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard, J.T.C.C.
+[1] This is an appeal under the informal procedure from an assessment issued to the Appellant under subsection 160(1) of the Income Tax Act (the "Act").
+[2] When he made the assessment that is the subject of this dispute, the Minister of National Revenue (the "Minister") relied on the following assumptions of fact stated in paragraph 3 of the Reply to the Notice of Appeal:
+[translation]
+(a) Jérôme Légaré has been the Appellant's spouse since 1964.
+(b) With regard to the couple's marital status, at the time of the transfer, there was no application for separation, annulment or divorce.
+(c) In 1999, Jérôme Légaré and Marc Richard had a business operated under the company name "Les Concepts Remise Décora" (herein after the business).
+(d) As the result of an audit, it was established that the business had not remitted its source deductions for a portion of 1998 and for 1999.
+(e) On July 12, 2000, an assessment for failure to remit in the amount of $8,648.15 was subsequently issued to the Appellant.
+(f) Marc Richard, one of the owners, made an assignment of his property on November 7, 2000.
+(g) On September 5, 2000, Mr. Légaré took out a mortgage for $15,000 on his family home located at 905 St-Alexis Blvd., St-Louis-de-France, Quebec, G8T 1B7.
+(h) The Appellant consented to the mortgage and thus acted as an intervener.
+(i) On December 7, 2000, Jérôme Légaré sold said real estate to the Appellant for the amount of $3,837.13, which was the balance of the capital owing on Mr. Légaré's mortgage on this date.
+(j) The fair market value of the real estate on the date of the transfer has been established at $40,000.
+(k) On January 22, 2002, Jérôme Légaré's tax debt amounted to $5,674.30.
+(l) This debt was for the unremitted payroll deductions.
+(m) The Minister confirmed the Notice of Assessment as the fair market value of the asset at the time of the transfer, $40,000, exceeded the consideration of $3,837.13 given for the asset.
+[3] The submissions made by Counsel for the Appellant pertain to the following:
+(i) the Appellant's claim against her husband under the provisions of the Civil Code of Québec on family property. Counsel for the Appellant maintains that the Appellant has a claim against her husband equal to 50% of the fair market value of the family home when it was transferred and that the amount of $17,500 is thus part of the consideration given by the Appellant at the transfer;
+(ii) the fair market value of the family home at the time of transfer to the Appellant. Counsel for the Appellant maintains that the fair market value of the family home was $35,000 when it was transferred and not $40,000 as alleged by the Minister;
+(iii) the consideration given by the Appellant for acquisition of the family home. Counsel for the Appellant was of the opinion that the amount of $15,000 should be included in the consideration given by the Appellant in acquiring the family home since the home was mortgaged for that amount. However, the Minister alleges in the Reply to the Notice of Appeal that Jérôme Légaré sold the family home to the Appellant for $3,837.13, which was the balance of the capital owing on Mr. Légaré's mortgage on that date.
+[4] The provisions of subsection 160(1) of the Act state essentially that when an individual transfers an asset to his or her spouse, the transferee and the transferor are jointly and severally liable for the payment of tax debts of the transferor in an amount equal to the lesser of:
+(i) the amount by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the transfer of the consideration given for the property,
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+Analysis
+[5] With all due respect to the contrary opinion, the provisions of the Civil Code of Québec dealing with family assets must be interpreted as follows:
+(i) Family assets are the assets listed in subsections 1 and 2 of section 415 of the CCQ. This includes inter alia the family residences and their furnishings and decorations that are used by the household.
+(ii) Section 416 of the CCQ provides that in the event of separation, dissolution or annulment of a marriage, the value of the spouses' family assets, less the debts contracted for the purchase, improvement, maintenance or upkeep of these assets, is divided equally between the spouses or between the surviving spouse and the heirs, as the case may be.
+(iii) The spouses' rights over family assets is not an actual right entailing a right of ownership but rather constitutes a general and personal claim that becomes effective or takes effect when the event occurs which gives right to the division of family property. Consequently, the Appellant cannot claim that she had a claim against her husband at the time the family home was transferred because, at that time, none of the events under section 416 of the CCQ creating the right to claim had yet occurred. I am therefore of the opinion that the Appellant is wrong that her right to claim is part of the consideration given when she acquired the home.
+[6] With regard to the objections raised by Counsel for the Appellant concerning the fair market value of the family home when transferred and the amount of $15,000 that, he says, should be included in the consideration given by the Appellant when acquiring the family home, I see no useful purpose in analyzing and ruling on them. In fact, even if I think the Appellant is correct on these two matters, the fair market value of the home at the time of the transfer, $35,000, still exceeded by $20,000 the consideration given by the Appellant, that is, enough to make her jointly liable for her husband's tax debt of $5,674.30.
+[7] The appeal is dismissed.
+Signed at Ottawa, Canada, this 12th day of January 2004.
+"Paul Bédard"
+Bédard, J.
+Translation certified true
+on this 20th day of April 2004.
+Sharon Moren, Translator

@@ -1,0 +1,247 @@
+---
+title: "Kouper-FKS Industries Inc. (Modes For Kids Sake Ltée) v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/63239/index.do"
+last_modified: "2013-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 315"
+citation2: ""
+neutral_citation: "2013 TCC 315"
+decision_date: "2013-10-04"
+language: "en"
+item_id: "63239"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6091
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:49:50.681000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "707d91d87f132dd19054bc28ebe2b5e9b4d1d5e35afb98d97901f6cbfe0d8059"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kouper-FKS Industries Inc. (Modes For Kids Sake Ltée) v. M.N.R.
+
+- Citation: 2013 TCC 315
+- Decision date: 2013-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6091, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kouper-FKS Industries Inc. (Modes For Kids Sake Ltée) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-04
+Neutral citation
+2013 TCC 315
+File numbers
+2011-2413(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2011-2413(EI)
+BETWEEN:
+KOUPER FKS INDUSTRIES INC.
+(Formerly Les Modes for Kids Sake Ltée),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 26, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Shahrooz S. Mahmoudian
+Counsel for the respondent:
+Sara Jahanbakhsh
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (EIA) is allowed, and the decision of the Minister of National Revenue is vacated on the basis that April Kape was not employed under a contract of service pursuant to paragraph 5(1)(a) of the EIA during the period from April 17, 2009, to April 24, 2010.
+Signed at Ottawa, Canada, this 4th day of October 2013.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 19th day of November 2013
+Margarita Gorbounova, Translator
+Citation: 2013 TCC 315
+Date: 20131004
+Docket: 2011-2413(EI)
+BETWEEN:
+KOUPER FKS INDUSTRIES INC.
+(Formerly Les Modes for Kids Sake Ltée),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] This is an appeal from a decision of the Minister of National Revenue (the Minister), who determined that April Kape had held insurable employment during the period from April 17, 2009, to April 24, 2010, within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (EIA).
+[2] The facts relied on by the Minister can be found at paragraph 5 of the Reply to the Notice of Appeal and are reproduced below:
+[Translation]
+5. The Minister relied on the following assumptions of fact in determining that the worker was employed by the appellant under a contract of service:
+(a) The appellant was incorporated on August 23, 1996;
+(b) The appellant operates a specialized business as a manufacturer and importer of clothing;
+(c) The appellant employs about ten people including a comptroller, employees in accounts receivable and payable, a designer, a sample maker, a graphic designer, a production manager and a salesperson.
+(d) The tasks of the salesperson Jodie Kouri were to sell products, to monitor production, to calculate prices and to prepare for meetings with clients with regard to discussions and presentations;
+(e) The worker was hired by the payer to develop the market given that she had several years of experience in that field;
+(f) The parties were bound by a verbal agreement;
+(g) The worker’s duties were to research new products, develop the Canadian and the U.S. markets, and to arrange meetings with new clients;
+(h) From the beginning of her employment with the payer until November 1, 2009, the worker worked two days per week for the payer, and from November 1, 2009, until the end of her employment, she worked five days per week;
+(i) The worker stated that she had to be at the payer’s office every day from 8:30 a.m. to 5 or 5:30 p.m., that is, about 40 hours per week, as requested by the payer, while Rodney Kouri, the payer’s representative, stated that the worker could work the schedule of her choice as long as she justified it to the comptroller and that the only times she had to go to the payer’s office was when she absolutely had to talk to him.
+(j) Although the hours worked by the worker were not recorded in a log, Gina Kouri, the payer’s shareholder, closely monitored when the worker came in and left;
+(k) The worker was under the direction of Rodney Kouri from whom she received verbal instructions; she also had to inform him when she arranged meetings with clients; she had to inform him of everything she did especially since, at the beginning of her employment, the payer told her who to contact, but the worker quickly began using her own contacts and doing her own research to develop the market;
+(l) The payer established the prices and conditions of sale for the products;
+(m) The payer always accompanied the worker to the first meeting with a client;
+(n) The worker stated that she was obliged to attend weekly meetings of the payer, while the payer claimed the contrary;
+(o) The payer always provided the worker with a workspace on its premises;
+(p) The payer provided the worker with all of the equipment needed to perform her work;
+(q) The worker did not suffer any loss if a client did not pay the payer;
+(r) The worker’s name and the payer’s name appeared on the worker’s business cards;
+(s) All of the worker’s travel costs were paid by the payer, and Rodney Kouri was always with her when she travelled;
+(t) During the period when the worker worked two days per week for the payer, a car and a cell phone were provided to the worker by another payer, Almo‑Dante, and the payer assumed part of those costs;
+(u) During the period when the worker worked two days per week for the payer, she was paid $250 per day; that amount was reduced to $180 per day when she started working five days per week for the payer;
+(v) The worker was paid for the days she worked;
+(w) The worker was generally paid every two weeks, and most of the time the same amount;
+(x) The worker was supposed to receive 5% commission, which was reduced to 2% and then to 1%, while, according to the payer, the worker’s commission rate ranged from 0.5% to 2.5% based on the profits generated by the contracts;
+(y) The worker stated that the payer had told her that she would receive a base salary plus commission, while the payer stated that that had never been discussed;
+(z) The payer stated that the amounts paid to the worker were advances on future commission in order to ensure that the worker had money so that she could take care of her needs;
+(aa)The worker had no benefits and her vacation was unpaid;
+[3] For its part, the appellant relies on several facts in its Notice of Appeal to argue that Ms. Kape was not an employee but acted as a person in business on her own account. These facts are also reproduced below:
+[Translation]
+A. Statement of facts
+In reality, April Kape was never the appellant’s employee;
+Indeed, Ms. Kape is an independent contractor, as explained below in more detail:
+Ms. Kape provided, on a contractual basis, the services of a representative as well as product distribution to the appellant and to several other companies;
+In consideration, Ms. Kape has always billed the appellant based on sales made;
+There was no guarantee on the appellant’s part to Ms. Kape that she would receive remuneration in consideration for the work performed because the remuneration completely depended on the sales actually made;
+Ms. Kape had no set schedule and no description of particular tasks and was neither supervised nor directed by the appellant;
+The appellant did not determine the actions Ms. Kape had to take;
+In addition, Ms. Kape could work or not work at her leisure, and this was also reflected in her billing;
+In addition, Ms. Kape could work for and distribute the products of other companies, which she sometimes chose to do;
+Ms. Kape also distributed her own products while promoting the appellant’s products;
+Considering the foregoing, Ms. Kape obviously enjoyed a great deal of autonomy and was not at all under the appellant’s control;
+The clients served by Ms. Kape were her own clients;
+Because of this, the appellant refused to receive Ms. Kape’s clients unless they were accompanied when they came to the appellant’s office to view its samples;
+However, the appellant never required Ms. Kape to perform her contractual obligations personally, and she was free to delegate any aspect of performing her contract to a sub-contractor and/or an employee including the accompanying of clients;
+Ms. Kape rather chose to sometimes work in the appellant’s office in order to be present there and to receive her clients there;
+Nonetheless, Ms. Kape was not a subordinate of the appellant;
+In addition, Ms. Kape had the habit of bringing her own samples to the appellant’s office to show them to her clients and to promote them;
+Ms. Kape was never on the appellant’s payroll and no source deductions were made in respect of her;
+In fact, Ms. Kape was registered as an independent contractor for sales tax purposes and Ms. Kape’s billing of the appellant bore her GST and QST numbers, which are
+- GST: . . .
+- QST: . . .
+as shown on the GST and QST numbers validation document, which the appellant intends to file in support of this Notice in a bundle as Exhibit . . . ;
+Considering the delays, which are usual in the industry, in the payment of accounts receivable, it was typical for the appellant to pay advances to Ms. Kape on sales made or planned and for it to pay her commission before receiving the sale price, which is not compatible with the status of employee;
+In addition, on balance, it appears that Ms. Kape still owes the appellant various amounts of money that are yet to be repaid, which it had advanced to her on her request;
+This situation is uncharacteristic of an employer-employee relationship and is more comparable to the usual relationship in the industry between companies and self-employed representatives.
+The relationship between the appellant and Ms. Kape was clearly a relationship between principal and independent contractor.
+[4] As we can see, these pleadings reveal some contradictions.
+[5] Rodney Kouri, the treasurer and manager of operations of the appellant, testified for the appellant, and April Kape testified for the respondent. The same contradictions came up in the testimony. The appeals officer for the Canada Revenue Agency (CRA), Josée Verret, also testified and tried to explain why she had believed Ms. Kape’s version. The following is a summary of the evidence.
+[6] Mr. Kouri is not responsible for human resources and is not the person who hires staff. He first met Ms. Kape in February 2009. His associate, Sam Shapiro, was friends with her and introduced her to him. Mr. Kouri said that Ms. Kape had more than 30 years of experience in the clothing industry and that she represented several other companies in that capacity.
+[7] It was verbally agreed with Ms. Kape that she would give two days per week of her time to the appellant in order to develop new markets. Mr. Kouri said that she had no specific mandate or task description. According to him, she was free to come and go as she pleased and that it was she who had insisted on keeping her self‑employed status. Apparently, she also worked for competitors and she would not have agreed to deal differently with the appellant. According to Mr. Kouri, if the appellant had not agreed to consider her self-employed, there would have been no agreement.
+[8] Ms. Kape has been registered with the Enterprise Registrar since 2006 as operating a sole proprietorship under her name specializing in wholesale sales (wholesaler) of [Translation] “undergarments for women and children” (Exhibit A‑1). She is also registered with Revenu Québec and CRA for the purposes of Quebec sales tax (QST), goods and services tax (GST) and harmonized sales tax (HST) (Exhibit A-2).
+[9] Ms. Kape billed the appellant for her days of work, including GST and QST. These invoices are filed as Exhibit A-3 and show that she claimed $250 per workday until November 2009, when she worked two days per week at most. During that period, it may be noted that there were five full weeks when she did not work at all for the appellant (see Exhibit A-7, which is a document prepared by Mr. Kouri that summarizes the weeks of work based on the invoices found in Exhibit A-3). Starting in November 2009, Ms. Kape’s remuneration increased to $900 per week for five days per week or, depending on the point of view, decreased to $180 per workday. In the table of weeks that Ms. Kape worked for the appellant, there are close to six full weeks after October 2009 when she provided no services (Exhibit A-7). From examining the invoices, it can also be seen that, at the beginning, Ms. Kape prepared one weekly invoice; then, invoices were submitted once every two or three weeks, and one invoice covered four weeks. I also note that, starting at the end of December 2009, there seems to be more monitoring regarding the days and half-days when Ms. Kape did not work. For example, an e-mail from Rodney Kouri dated December 18, 2009, states the following to the recipient: “April is not in today”. On invoice number 1030 dated January 29, 2010, the time of paid work is corrected with a request to subtract three and a half hours ($78.75) as it indicates that Ms. Kape worked only a half-day on January 20, 2010. Based on another invoice (No. 1032), Ms. Kape was paid for only a half-day on February 16, 2010, because she had a dentist appointment and on February 18, 2010, because she left at 2 p.m. In his testimony, Mr. Kouri alluded to an incident (that occurred) when Ms. Kape apparently did not show up for a trip that she had organized in order to introduce him to a new client. Following that incident, he was more on his guard and more closely monitored the services she actually provided.
+[10] Mr. Kouri stated that Ms. Kape actually received advances on commission while waiting for the projects she was working on to end in concrete sales. She allegedly received a total of $33,850 throughout the entire period (Exhibit A-6), while, according to Mr. Kouri’s testimony, she earned only $25,000 in commission. According to him, she owed them the difference, namely, a little over $8,000, which she has yet to repay. Mr. Kouri said that the appellant also had about ten employees, who, unlike Ms. Kape, were all entered in the payroll journal and who received their net pay including statutory holidays and vacation pay after source deductions by direct deposit (excerpts from the payroll journal for two employees were filed in evidence as Exhibits A-4 and A-5). Ms. Kape allegedly refused to provide her social insurance number to the appellant, precisely because she did not want to be entered in the payroll journal.
+[11] Mr. Kouri pointed out that the table of weeks during which Ms. Kape worked (Exhibit A-7) shows that, throughout the entire period, there were ten weeks in total during which no services were apparently provided to the appellant. In addition, starting in November 2009, that is, from the time when Ms. Kape had to work five days per week, until the end of the period at issue (a six-month period), there were about thirty days when Ms. Kape provided no services (this includes the weeks of absence mentioned above). Mr. Kouri said that none of the appellant’s employees could ever have been absent so much. It would not have been tolerated. Employees had to be present at the office every day and were entitled to two weeks of vacation per year and to three weeks after five years. Mr. Kouri said that, in the case of Ms. Kape, she had all the flexibility she could want. She herself decided what days she dedicated to the appellant. She had her own clothing line and had to also spend time on her other clients.
+[12] She did not receive an allowance from the appellant for a computer, Internet or cell phone. She could, however, use an office in the appellant’s main office when she was there, but she did not have access to it if the appellant’s staff were not on site because she did not have a key. According to Mr. Kouri, she even on occasion promoted her own products or those of competitors while working at the appellant’s main office. He allegedly allowed this because she was there for the services she provided to them, while also operating her own business. She had worked in the field for 30 years.
+[13] Ms. Kape was not part of the appellant’s marketing division. Her services were requested to create contacts; she opened doors for the appellant and was present at the first meeting with a new potential client, but her relationship with the appellant ended there. After that, the appellant negotiated with the client alone. Ms. Kape was not mandated to negotiate prices for its products. At her request, she had a business card with the appellant’s name (Exhibit I-3). Mr. Kouri agreed to provide her with such a card considering that this could show more professionalism, but nothing more. Indeed, according to him, he did not supervise her work at all. Ms. Kape did not have to report on her activities or on how she accomplished them. If she wanted to inform the appellant of them, it was her choice.
+[14] In cross-examination, Mr. Kouri said that he had not asked Ms. Kape to develop a new line of undergarments for men contrary to what she said in her testimony shortly after. Mr. Kouri explained that the appellant distributed several clothing lines, including undergarments for men, and Ms. Kape had been recruited to develop clientele for all categories of clothing distributed by the appellant. No training was provided to her to do the work that she was asked to do.
+[15] Also in cross-examination, Mr. Kouri explained that, starting in November 2009, Ms. Kape had ended her agreement with her biggest client (Almo‑Dante), and it was she who had decided to dedicate five-day weeks to the appellant. She needed money, and, in order to help her, the appellant allegedly agreed to pay higher advances on her commission and to pay her remuneration based on five days of work per week as long as she worked full days. In addition, Mr. Kouri was confronted with an e-mail addressed to Ms. Kape, signed by Mr. Shapiro, dated May 20, 2010, sent from Mr. Kouri’s e-mail address, in which an overpayment of $25,000 was being claimed from Ms. Kape (Exhibit I-1). Mr. Kouri explained that at that time there was probably an account opened by Ms. Kape for which the sales had not yet been finalized. He reiterated that Ms. Kape still owed them approximately $8,000. He did not, however, have with him the reconciliation of sales and advances on commission.
+[16] Mr. Kouri confirmed that Ms. Kape met with new clients in his presence. They travelled to the United States three times and once within Canada together, and the appellant covered all of Ms. Kape’s travel expenses.
+[17] Ms. Kape began her testimony by saying that she had a great deal of experience in sales at large clothing chains across Canada (for example, Sears, Walmart, “all the jeans stores”). Around 2006 to 2008, she worked at Runners International on commission. In 2009, she acted on behalf of Almo-Dante as a business representative in the field of young people’s clothing with these big chains. She said that she had earned over $100,000 per year as a representative. According to her, it was Mr. Shapiro who proposed to her to start a line of undergarments for men for the appellant. Ms. Kape had never promoted that type of clothing. That was how she met Mr. Kouri because Mr. Shapiro was not involved in the daily operations of the appellant. She said that Mr. Kouri showed her the different styles, fabrics and brands of men’s undergarments and accompanied her at the beginning to buy samples. According to her, she was mandated to take the samples and ship them to India to remake them in better quality. She had to study the market at the various stores to see who might be interested in this product. It was Mr. Kouri who provided her with names of clients at the beginning.
+[18] Ms. Kape argued, contrary to Mr. Kouri’s testimony, that she had to be present at the appellant’s main office every day from 8:30 a.m. to 5 p.m. starting at the time that she stopped working for Almo-Dante. Before that, she worked three days per week for that business and two days for the appellant. She acknowledges that, during that period, her schedule was flexible at both businesses, as it depended on the meetings she organized for each of them. Apparently, she had had some success with Sears with regard to the sale of undergarments for men (she allegedly obtained purchase orders worth around $1 million) and very quickly organized several meetings for the appellant. It was at that time that Mr. Shapiro asked her to work full time for the appellant. At that time, she was offered $900 per week and 5% on sales. She had to dedicate five days per week to the appellant in accordance with a schedule indicated above. All of this was done orally and therefore she signed no contract. She said that she had an assigned office and that, at the beginning, she worked in close collaboration with Mr. Kouri. Later, she did her client research and development work by herself and she maintains that she was unable to work from home. Thus, a typical day could unfold as follows: she worked on the computer provided by the appellant at the office to find information, drafted the appellant’s profile, sent samples to big chain companies (for example, Costco, Target) and tried to arrange meetings. Concerning the samples, approaching the clients and promotions, she did all of this under the appellant’s name. She said that she travelled with Mr. Kouri five or six times, including three times to the United States to meet with clients. On two occasions, she had to travel for Mr. Kouri’s sister, Jodi, in order to find samples of clothing for young people, which she was very familiar with. However, she was not involved in setting prices for any of the appellant’s products.
+[19] According to her testimony, Ms. Kape had to report on her work plan weekly to Mr. Kouri, who was her direct supervisor. She systematically copied Mr. Kouri on all of her work e-mails to the point where he told her to stop doing so. He accompanied her to all of the meetings she organized because, according to her, she could not negotiate by herself for the appellant and was not informed of the appellant’s prices. She allegedly worked the same way at Mr. Kouri’s request on other products for the appellant (she gave as an example baby mats, for which she researched manufacturers, bought samples and changed the design). Ms. Kape said that her presence in the office was verified. Mr. Kouri’s mother came in at 7 a.m. and he came in at 9 a.m. The times that she left for the day were recorded by the business’s comptroller. She could not stay out too long for lunch.
+[20] Ms. Kape said that her three e-mail addresses were in the appellant’s name. She worked from the appellant’s main office with tools at her disposal in collaboration with a graphic designer who also worked for the appellant. She provided only her Smartphone. Starting in November 2009, she worked only for the appellant.
+[21] Ms. Kape maintains that she worked very hard and that the appellant refused to pay her her commission in addition to her base pay. She is of the opinion that she was underpaid for what she did. She was asked to bill and she received her paycheque of $1,800 every two weeks. There was no reason for her to charge GST and QST: she did so at the appellant’s request. She filed a complaint with the Quebec Commission des normes du travail (Exhibit I-4) for her unpaid commission and vacation. The complaint was settled out of court by the parties.
+[22] In cross-examination, she acknowledged that she did not return on the date scheduled at the start of January 2010 after going on vacation. She acknowledged that she had mentioned in an e-mail to the comptroller of the appellant that she had billed for the hours she had not worked and that those over-billed hours could be removed for her pay because, in any case, she worked only on commission and that she would take what is due to her later (Exhibit A-9). At the hearing, she explained that Mr. Kouri was furious with her because she had not returned on the date planned in January 2010. From that moment, the atmosphere at work became deplorable to her, and it was in that climate of tension that she replied to the comptroller’s e-mail. She reiterated that she was not working for anyone else and that her work for the appellant was her only source of income.
+[23] Despite the contradictions, Josée Verret, appeals officer at the CRA, found that Ms. Kape was an employee. She came to that conclusion considering the regularity of pay, which did not vary much, and the fact that Ms. Kape could not really make profits and did not suffer losses. Ms. Verret considered that Ms. Kape was a subordinate of the appellant because she was first hired to promote the sale of undergarments for men, which she was not familiar with and for which she received a short training from Mr. Kouri. In addition, she believed Ms. Kape regarding the fact that she had to work in the appellant’s main office; otherwise she was not paid. She considered that Ms. Kape’s way of working, namely, systematically copying Mr. Kouri on all work e-mails, showed the control that he exercised over her work and to whom she had to report. In addition, the fact that Ms. Kape did not know the prices of samples and that she did not know the conditions of sale of products were, according to Ms. Verret, other elements showing that Ms. Kape was not self‑employed because, if that were the case, she would normally have had this information in order to make a proper proposal to her client. Ms. Kape had limited decision-making power. She had her expenses reimbursed and worked using the appellant’s office tools including a business card that was provided to her. She was not hired for a specific mandate of limited duration. Ms. Verret therefore concluded that the relationship between the appellant and Ms. Kape was one of subordination with an employee rather than a collaborative relationship between a client and a self‑employed person.
+Analysis
+[24] In NCJ Educational Services Limited v. Minister of National Revenue, 2009 FCA 131, [2009] 4 C.T.C. 290, the Federal Court of Appeal stated the following at paragraphs 49 to 52:
+[49] Since paragraph 5(1)(a) the Employment Insurance Act does not provide the definition of a contract of services, one must refer to the principle of complementarity reflected in section 8.1 of the Interpretation Act, R.S.C. 1985, c. I-21, which teaches us that the criteria set out in the Civil Code of Québec must be applied to determine whether a specific set of facts gives rise to a contract of employment. Section 8.1 provides:
+RULES OF CONSTRUCTION
+Property and Civil Rights
+Duality of legal traditions and application of provincial law
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+RÈGLES D’INTERPRÉTATION
+Propriété et droits civils
+Tradition bijuridique et application du droit provincial
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[50] Reference must therefore be made to articles 2085, 2098 and 2099 of the Civil Code of Québec.
+[51] Under article 2085 of the Civil Code of Québec, there are three characteristic elements to any contract of employment, namely
+1. the performance of work;
+2. the remuneration;
+3. the direction or control of another person, the employer.
+[52] On the other hand, article 2099, which defines with article 2098 the nature of a contract of enterprise or for services, makes it clear that in a contract for services “no relationships of subordination exist between the provider of services and the client”.
+[25] In Grimard v. Canada, 2009 FCA 47, [2009] 4 F.C.R. 592, the Federal Court of Appeal stated the following on the relationship of subordination and the parties’ intention at paragraphs 31 to 33:
+[31] According to the Le Nouveau Petit Robert and the Le Petit Larousse Illustré dictionaries, subordination of a person involves his or her dependence on another person or his or her submission to that person’s control. Therefore, a contract for services is characterized by a lack of control over the performance of the work. This control must not be confused with the control over quality and result. The Quebec legislator also added as part of the definition the free choice by the contractor of the means of performing the contract.
+[32] A contract is concluded by the exchange of the consent of the parties to the contract. Therefore, when a contract is interpreted, Articles 1425 and 1426 of the Code require that the mutual intention of the parties be determined and that a certain number of factors be considered, such as the circumstances in which it was formed.
+[33] As important as it may be, the intention of the parties is not the only determining factor in characterizing a contract: see D & J Driveway Inc. v. M.N.R., 2003 FCA 453, 322 N.R. 381; Dynamex Canada Inc. v. Mamona, 2003 FCA 248, 228 D.L.R. (4th) 463. In fact, the behaviour of the parties in performing the contract must concretely reflect this mutual intention or else the contract will be characterized on the basis of actual facts and not on what the parties claim.
+[26] In addition, the Federal Court of Appeal found no antinomy between the principles of Quebec civil law and the common law criteria used to characterize the legal nature of a work relationship between two parties. It stated this at paragraph 43 of Grimard, supra:
+[43] In short, in my opinion there is no antinomy between the principles of Quebec civil law and the so‑called common law criteria used to characterize the legal nature of a work relationship between two parties. In determining legal subordination, that is to say, the control over work that is required under Quebec civil law for a contract of employment to exist, a court does not err in taking into consideration as indicators of supervision the other criteria used under the common law, that is to say, the ownership of the tools, the chance of profit, the risk of loss, and integration into the business.
+[27] However, certain supervision criteria developed to determine the existence of a relationship of subordination have often been used in Quebec law. They are stated thus in NCJ Educational Services, supra, at paragraph 59:
+[59] In the most recent edition of the book of Robert Gagnon (6e édition, mis à jour par Langlois Kronström Desjardins, sous la direction de Yann Bernard, Audré Sasseville et Bernard Cliche), the indicia (underlined below) have been added to those found in the earlier 5th edition. Those added indicia are the same as those developed in the Montreal Locomotive Works case and applied by this Court in Wiebe Door.
+92 – Notion – Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.-C. ; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, propriété des outils, possibilité de profits, risque de pertes, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise.
+[28] Finally, in the recent decision, 1392644 Ontario Inc. o/a Connor Homes v. Minister of National Revenue, 2013 FCA 85, after analyzing the case law on the subject, the Federal Court of Appeal maintained at paragraph 23 that the question that should be answered is whether the person provided the services as his or her own business on his or her own account. This process is done in two steps. First, it must be determined what the parties’ real intention was at the time when the agreement was concluded. Second, regardless of whether the parties’ common intention can be determined or not, the factual situation must be analyzed to be able to legally establish the relationship between them based on the various supervision indicia discussed above. If the common intention is established, it would become another indicator to take into account in the evaluation of various factors without being a determinative indicator in itself.
+[29] In this case, it is difficult to establish what the parties’ common intention was when they started working together. I am led to believe that both wanted Ms. Kape to be a self‑employed worker. In fact, even though this is not clear from Ms. Kape’s testimony, I understand that it was later, when the relationship became more strained, that Ms. Kape thought that she might be an employee. Before starting work with the appellant and afterwards, she was registered as a self-employed worker with the Enterprise Registrar; she billed for services rendered charging GST and QST, which the appellant paid her. No source deductions were made, and she received no benefits to which other employees were entitled.
+[30] In any case, as indicated in Connor Homes, supra, the common intention cannot be considered determinative on its own. At most, it can be used as an indicator in determining the real legal relationship between the parties.
+[31] If we focus now on the issue of the relationship of subordination, we must see whether the appellant had the power to determine the work to be performed and to supervise and control its performance. From Ms. Kape’s point of view, it must be determined whether she agreed to be integrated into the operation of the appellant’s business so it could benefit from her work. In practice, mandatory presence at the workplace, somewhat regular assignment of work, imposition of rules of conduct or behaviour, obligation to provide activity reports, and control over the quantity or quality of the performance of work are indicia likely to tip the scales in one direction or the other.
+[32] The evidence is contradictory on certain aspects. Thus, Mr. Kouri indicated that the appellant had retained Ms. Kape’s services for her vast experience and that she had total flexibility to do what she was expected to do, namely, to develop a broader clientele by establishing relationships with various large stores. According to him, she did not have to be present at the office to perform these duties. She used an office when she came in, but she was not assigned an office. She kept her other clients, and she did not provide services to the appellant exclusively.
+[33] Ms. Kape said that she had been hired to develop the line of undergarments for men, a field in which she had no expertise, which she developed under Mr. Kouri’s supervision. She said that she had to be present at the office: otherwise she was not paid, and that the appellant thus exercised control over her work schedule. She also mentioned that, starting in November 2009, she worked exclusively for the appellant at the appellant’s request.
+[34] In my view, Ms. Kape had the flexibility normally given to a self-employed worker to accomplish the tasks that had been given to her. Everyone agrees that she had a great deal of experience, and the evidence shows that the appellant asked for her services in order that she lend her contacts and her knowledge to allow the appellant to benefit from them as the appellant wanted to increase its clientele. The appellant was trying to increase its business’s performance and hired Ms. Kape for her expertise. She performed her tasks as she saw fit, and she alone determined the way to proceed to attract new clients for the appellant. It is true that she performed her tasks using the appellant’s e-mail address and a business card in the appellant’s name. I can understand that this made it easier for her. This fact alone does not, however, satisfy me that Ms. Kape was under the control and direction of the appellant in performing her work.
+[35] Regarding the place of work, I believe that it can be said that she used the appellant’s premises. However, the testimony is contradictory regarding whether her presence at the office was mandatory or not. Considering these contradictions, I will not dwell on this point longer. I would simply say that the fact that she worked from the appellant’s main office, even full time, does not necessarily mean that there was subordination (see Wolf v. Canada, 2002 FCA 96, [2002] 4 F.C. 396).
+[36] If we reverse the perspective to that of Ms. Kape, it seems to me that she cannot claim that she agreed to integrate into the operation of the appellant’s business. In fact, her many weeks of absences show, in my opinion, that she ignored the schedule that could be imposed on regular employees. In this way, she acted like a self-employed person. The evidence did not show that there were rules of conduct or behaviour imposed on her. In addition, even though it is true that Ms. Kape was mandated to promote the marketing of products she was unfamiliar with (undergarments for men), she had enough experience to be able to sell this new product without developing specific expertise regarding this product. The evidence shows that Mr. Kouri spent very little time with her at the beginning and that she very quickly managed on her own, so much so that she secured a contract with a large chain of clothing stores.
+[37] All things considered, I am of the view that, in this context, the appellant did not exercise the control that an employer would exercise over its employee.
+[38] There are also contradictions regarding remuneration. Ms. Kape stated that she had negotiated a salary in addition to commission. Mr. Kouri said that she was entitled to commission only and that she had received advances on commission. I note that invoices were not sent systematically or regularly. She was paid on receipt of invoices based on the frequency with which she sent them. This could vary between weekly and bi-monthly invoices and invoices sent every three weeks. On one occasion, a whole month had passed. She was not paid for statutory holidays or for her vacation or absences. No source deductions were made, and she did not receive any salary benefits. She billed for and collected GST and QST. According to Mr. Kouri, she refused to give the appellant her social insurance number, and this was not contradicted by Ms. Kape. This is certainly not the norm for an employee.
+[39] Ms. Kape mentioned that she had filed a complaint with the Commission des normes du travail regarding which a settlement was reached. The content of that settlement was not disclosed in evidence, but complaints are often settled to avoid the escalating of costs in courts, and this in itself does not prove the existence of a contract of service. However, it is true that, at the beginning of 2010, Mr. Kouri seemed to pay more attention to the correspondence of the time Ms. Kape really spent working for the appellant and that indicated in the invoices, but I consider that it is normal for a client to verify what he or she is paying for. In addition, I cannot accurately determine whether she was paid only on commission (Ms. Kape’s testimony contradicts the e-mail she had sent to the appellant’s comptroller, filed as Exhibit A‑9), and whether she will really be held liable for repaying the amount that the appellant claims she owes it. I therefore consider that Ms. Kape cannot claim that she had no chance of profit or risk of loss. One thing is certain; the method of remuneration discussed above does not correspond to that of an employee.
+[40] Finally, Ms. Kape had kept her other clients, at least for a large part of the period at issue. She did not deny that she had brought her own products or those of other clients to the appellant’s office, and that the appellant tolerated this practice. In my view, she most likely acted on her own account.
+[41] In conclusion, I am of the view that the balance of probabilities is in the appellant’s favour and that it retained the services of Ms. Kape not as part of a contract of service, but rather as part of a client-independent contractor relationship. I am of the opinion that Ms. Kape was not an employee of the appellant during the period at issue.
+[42] The appeal is allowed and the Minister’s decision is vacated based on the fact that April Kape was not an employee under a contract of service pursuant to paragraph 5(1)(a) of the EIA during the period at issue.
+Signed at Ottawa, Canada, this 4th day of October 2013.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 19th day of November 2013
+Margarita Gorbounova, Translator
+CITATION: 2013 TCC 315
+COURT FILE NO.: 2011-2413(EI)
+STYLE OF CAUSE: KOUPER FKS INDUSTRIES INC. (formerly Les Modes for Kids Sake Ltée) v. MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 26, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 4, 2013
+APPEARANCES:
+Counsel for the appellant:
+Shahrooz S. Mahmoudian
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the appellant:
+Name: Shahrooz S. Mahmoudian
+Firm: Moghrabi & Moghrabi
+Montréal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

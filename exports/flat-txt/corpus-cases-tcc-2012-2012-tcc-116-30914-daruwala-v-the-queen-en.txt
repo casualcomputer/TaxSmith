@@ -1,0 +1,161 @@
+Title: Daruwala v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30914/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-116-30914-daruwala-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-04-05
+
+# Daruwala v. The Queen
+
+- Citation: 2012 TCC 116
+- Decision date: 2012-04-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7470, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daruwala v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-05
+Neutral citation
+2012 TCC 116
+File numbers
+2011-1994(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-1994(GST)I
+BETWEEN:
+ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA
+AND MAKI PHIROZE DARUWALA,
+Appellants
+(Respondents to Application),
+and
+HER MAJESTY THE QUEEN,
+Respondent
+(Applicant).
+____________________________________________________________________
+Application by written submissions
+Before: The Honourable Justice Randall S. Bocock
+Appearances:
+Counsel for the Respondent (Applicant):
+Kristian DeJong
+Counsel for the Appellants (Respondent):
+Dennis Yee
+Counsel for TRG Construction Corp.:
+Andrea Donohoe
+____________________________________________________________________
+ORDER
+UPON application by the Respondent(Applicant) on behalf of the Minister of National Revenue (the “Minister”) under section 311 of the Excise Tax Act for the determination of a question arising out of a transaction common to an assessment or proposed assessment in respect of two or more taxpayers;
+AND UPON reading the materials filed by Counsel for the Applicant, and written submissions from counsel for TRG Construction Corp.;
+THIS COURT ORDERS THAT:
+1. the application be dismissed since the Court is not satisfied that the determination of a question, as set out in the application, will affect more than one assessment or contemplated or likely proposed assessments of two or more persons described within the materials filed;
+2. that Docket Number 2011-1994(GST)I proceed forthwith to a hearing in accordance with the Court’s Rules of Procedure Respecting the Excise Act, 2001 (Informal Procedure); and
+3. no costs be awarded.
+Signed at Toronto, Ontario, this 5th day of April 2012.
+“R.S. Bocock”
+Bocock J.
+Citation: 2012 TCC 116
+Date: 20120405
+Docket: 2011-1994(GST)I
+BETWEEN:
+ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA
+AND MAKI PHIROZE DARUWALA,
+Appellants
+(Respondents to Application),
+and
+HER MAJESTY THE QUEEN,
+Respondent
+(Applicant).
+REASONS FOR ORDER
+Bocock J.
+[1] The Respondent brings this application under section 311 of the Excise Tax Act, pursuant to an indication from the Minister of National Revenue (“Minister”) that she is of the opinion that a question arising out of the series of transactions or occurrences is common to, and will affect, an assessment or proposed assessment in respect of two or more taxpayers. Under section 311, if this Court be satisfied that the determination of the question will affect the assessments or proposed assessments, then the Court may join the parties to one appeal and determine the question put.
+[2] The facts relating to the application are as follows. The Appellants (Respondents to the Application) applied for a GST rebate with respect to a residential property located in West Vancouver, British Columbia (“the Residence”); claiming that the Residence fell within the definition of “used residential property” and was therefore exempt from GST in accordance with Schedule V, Part I of the Act. The Applicant asserts pursuant to facts contained in the affidavit of Vince Ting, Litigation Officer with the CRA, that the Appellant purchased the “never occupied” Residence from the builder, TRG Construction Corp. (“TRG”). There are no contradicting assertions of fact regarding the “never occupied” nature of the Residence in the affidavit. The assertion of the Appellant from its pleadings, to be advanced, adduced and proven at the hearing, is that TRG did allow an undisclosed third party to occupy the Residence between the time of construction and the Appellants’ purchase of it. If TRG allowed such an interceding occupancy (“Interceding Occupancy”), the Appellants may otherwise be entitled to their GST rebate presently denied by the Minister. The Minister seeks to have this question of fact, namely, whether there was or was not an Interceding Occupancy determined by this Court and to render any determination binding upon both the Appellant and TRG.
+Statutory Authority
+[3] Section 311 of the Excise Tax Act states:
+311(1) Where the Minister is of the opinion that a question arising out of one and the same transaction or occurrence or series of transactions or occurrences is common to assessments or proposed assessments in respect of two or more persons, the Minister may apply to the Tax Court for a determination of the question.
+(2) An application made under subsection (1) shall set out
+(a) the question in respect of which the Minister requests a determination,
+(b) the names of the persons that the Minister seeks to have bound by the determination of the question, and
+(c) the facts and reasons on which the Minister relies and on which the Minister based or intends to base assessments of each person named in the application,
+and a copy of the application shall be served by the Minister on each of the persons named therein and on any other person who, in the opinion of the Tax Court, is likely to be affected by the determination of the question.
+(3) Where the Tax Court is satisfied that a determination of a question set out in an application made under this section will affect assessments or proposed assessments in respect of two or more persons who have been served with a copy of the application and who are named in an order of the Tax Court under this subsection, it may
+(a) if none of the persons so named has appealed from such an assessment, proceed to determine the question in such manner as it considers appropriate; or
+(b) if one or more of the persons so named has or have appealed, make such order joining a party or parties to that or those appeals as it considers appropriate and proceed to determine the question.
+(4) Subject to subsection (5), where a question set out in an application made under this section is determined by the Tax Court, the determination thereof is final and conclusive for the purposes of any assessments of persons named by it under subsection (3).
+(5) Where a question set out in an application made under this section is determined by the Tax Court, the Minister or any of the persons who have been served with a copy of the application and who are named in an order of the Court under subsection (3) may, in accordance with the provisions of this Part, the Tax Court of Canada Act or the Federal Courts Act, as they relate to appeals from or applications for judicial review of decisions of the Tax Court, appeal from the determination.
+(6) The parties bound by a determination under subsection (4) are parties to any appeal therefrom under subsection (5).
+(7) The time between the day an application made under this section is served on a person under subsection (2) and
+(a) in the case of a person named in an order of the Tax Court under subsection (3), the day the determination becomes final and conclusive and not subject to any appeal, or
+(b) in the case of any other person, the day the person is served with notice that the person has not been named in an order of the Tax Court under subsection (3),
+shall not be counted in the computation of
+(c) the four-year periods referred to in section 298,
+(d) the time for service of a notice of objection to an assessment under section 301, or
+(e) the time within which an appeal may be instituted under section 306,
+for the purpose of making an assessment of the person, serving a notice of objection thereto or instituting an appeal therefrom, as the case may be.
+[4] The relevant section of 18.32(2) of the Tax Court of Canada Act provides:
+18.32(2) If an application has been made under . . . section 311 of the Excise Tax Act . . . for the determination of a question, the application or determination of the question shall, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
+[5] In addition section 58(1)(a) and (2) of the Tax Court of Canada Rules (General Procedure) provide as follows:
+58(1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+[…]
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the Court or on consent of the parties, or
+(b) under paragraph (1)(b).
+[…]
+[6] The combination of the above noted informing statutes and rules require the Court to determine whether it will hear the proposed question of fact referred to above.
+[7] The Court has previously considered the issue of a common question contained within the case of Skinner Estate v. Her Majesty the Queen [2009] DTC 1358; [2009] TCC 269. In that case, largely decided on quite different facts, the Court stated of its own rule, 58(1)(a);
+[35] Before embarking on the answer to a question posed under paragraph 58(1)(a), the Court must first determine whether it is appropriate to do so[1]. In Carma Developers Ltd. v. Canada[2], cited with approval by the Federal Court of Appeal in Jurchison v. Canada[3], Christie, A.C.J. cautioned that:
+… paragraph 58(1)(a) of the Rules is not intended as an easily accessible alternative to a trial for the disposition of complex and contentious disputes about the rights and liabilities of litigants. It is to be invoked when it is clear that the determination of all or part of a dispute by trial would be essentially redundant.[4]
+[8] In considering the caution issued in Skinner Estate, this Court in Brenneur v. Her Majesty The Queen [2010] TCC 610 (which case also dealt with considerable constitutional and common law rights related to language and fairness rights), analyzed the corresponding sections contained within the Income Tax Act, namely section 174(1), which provides:
+174(1) Where the Minister is of the opinion that a question of law, fact or mixed law and fact arising out of one and the same transaction or occurrence or series of transactions or occurrences is common to assessments or proposed assessments in respect of two or more taxpayers, the Minister may apply to the Tax Court of Canada for a determination of the question.
+[9] In addressing whether sufficient facts or reasons submitted by the Minister would “affect” two or more taxpayers, Justice Boyle, at paragraphs 34 and 35 of Brenneur, stated:
+[34] However, there is a further issue in this case, and that is whether there is a proposed reassessment of Mr. Batalha by the CRA. This Court can only order a reference under section 174 in respect of taxpayers who have been assessed in respect of a common question arising out of the same circumstances or in respect of taxpayers for whom an assessment is proposed. At this time, the CRA has neither reassessed Mr. Batalha nor even proposed to him in writing that he should be reassessed or indicated that he was being considered for reassessment. Indeed, after investigation, the CRA has accepted Mr. Batalha’s version of events and only reassessed Mr. Brenneur. The Respondent’s counsel has gone so far as to say that the CRA accepts entirely Mr. Batalha’s version of events and would only be contingently or conditionally considering reassessing Mr. Batalha in the event this Court should decide Mr. Brenneur’s tax appeal in Mr. Brenneur’s favour. The Respondent submits that the possibility of reassessment constitutes a proposed reassessment. No authority is cited in support of that proposition. The question thus arises whether this conditional, contingent intention to consider reassessing Mr. Batalha does in fact constitute a proposed reassessment or “cotisation projetée” of Mr. Batalha for the purposes of meeting the requirements of section 174. . . . .
+[35] I am not satisfied that such a contingent intention to consider reassessing a taxpayer constitutes a proposed assessment of that taxpayer for the purposes of section 174. It is often the case that a taxpayer and one of the other witnesses are adverse in fiscal interest and that they give conflicting testimony. It does not seem appropriate that each time that occurs the CRA should have the right to ask the Court to consider making the witness a party to the tax proceeding. It is the CRA’s responsibility to investigate and decide which version of the facts it believes is more likely than not correct. While it may be appropriate in a close or grey-area case to permit the CRA to ask the Court to consider ordering a reference, this hardly seems appropriate where the CRA, after investigation, has concluded clearly in one direction and not the other. Again, while references in circumstances such as those in the present case would remove the risk of inconsistent decisions ultimately being issued by the Court in two different proceedings, that would come at a remarkable and unjustifiable price if all witnesses in tax appeals whose fiscal interests were adverse to the appellant’s were to be subject to applications for section 174 references to have them joined as parties to the appeal in which they are otherwise testifying or being compelled to testify. Since I do not accept that there is a proposed reassessment by the CRA of Mr. Batalha for the purposes of section 174, this Court has no jurisdiction to grant the respondent’s application for a reference of common questions and the application will be dismissed, with costs.
+[10] In the present case, the uncontroverted facts contained in the Respondent’s own Affidavit comprise the only factual basis upon which this Court may decide whether the threshold established in Brenneur is met and therefore, whether the question of fact ought to be predetermined prior to the usual hearing of the single appeal. The Appellants have provided no affidavit evidence and take no position. The third party, TRG, understandably has filed no affidavit evidence, but has provided written submissions from legal counsel.
+[11] From Brenneur, the following questions may be posed in respect of the factual record;
+1. Has the Applicant provided the Court with evidence of independent communication by the taxing authority to the proposed assessee or some other reasonable indication that it may reassess the proposed assessee?;
+2. What evidence has been submitted of an actual or proposed investigation, review or survey of the proposed assessee’s affairs, history or file in the context or in pursuance of a proposed reassessment?; or
+3. What submissions have been made regarding the expected efficiencies to be gained from joining a proposed and actual assessment into a single question for the Court to determine prior to the otherwise pending hearing of the single appeal?
+[12] Factually, in respect of the proposed assessee, TRG, the Applicant has:
+1. provided no representations or evidence of any direct communication to TRG of any possible reassessment or any grounds or basis for same;
+2. disclosed no results, facts or conclusions arising from any conduct of a review of TRG’s files in order for the Minister to assess the likelihood of any proposed reassessment; and
+3. disclosed no reasonable, tangible or theoretical efficiencies to be gained from the prior determination of the question, rather than simply proceeding with the otherwise pending hearing of the single appeal.
+[13] On the final point, it should be noted that the Appellant’s present appeal is proceeding under the Excise Act, Informal Procedures of this Court. The appeal appears to be entirely factually based. It is a reasonable proposition that simply proceeding to a hearing of the present single appeal under such streamlined rules would equally simplify the process; without the need of involving the third party in an equally, if not procedurally more complicated process in order to determine a factual, as opposed to a legal question under section 311. Based upon the timid and hardly evident nature of any proposed reassessment by the Minister of TRG in the Applicant’s submissions, on balance the Court finds that the outcome of the single party appeal will more fulsomely, expeditiously and determinatively confirm the CRA’s ultimate decision regarding any proposed reassessment of TRG.
+[14] Therefore, the application is denied by the Court, the question shall not be considered and Docket Number 2011-1994(GST)I, otherwise pending for hearing, should proceed forthwith to a hearing under the Court’s Excise Act, Informal Procedures. Costs may have been awarded in favour of the third party, TRG, had an actual appearance or oral submissions by conference call occurred or been required. Given written submissions by letter sufficed, there shall no order as to costs.
+Signed at Toronto, Ontario, this 5th day of April 2012.
+“R.S. Bocock”
+Bocock J.
+CITATION: 2012 TCC 116
+COURT FILE NO.: 2011-1994(GST)I
+STYLE OF CAUSE: ZUBIN PHEROZE DARUWALA, AIMAI DARUWALA AND MAKI PHIROZE DARUWALA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: By Written Submission in Ottawa, Ontario
+REASONS FOR ORDER BY: The Honourable Justice Randall S. Bocock
+DATE OF ORDER: April 5, 2012
+APPEARANCES:
+Counsel for the Respondent (Applicant):
+Kristian DeJong
+Counsel for the Appellants (Respondent):
+Dennis Yee
+Counsel for TRG Construction Corp.:
+Andrea Donohoe
+COUNSEL OF RECORD:
+For the Appellants (Respondent):
+Name: Dennis Yee
+Firm: Davis, LLP
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Webster v. Canada, 2002 FCA 205 (F.C.A.); Perera v. Canada, [1998] 3 F.C. 381 at
+paragraphs 13-15 (F.C.A.).
+[2] [1995] 96 D.T.C. 1803 (T.C.C.).
+[3] 2001 F.C.J. No.654 at paragraph 8.
+[4] Carma Development, above, at paragraph 11.

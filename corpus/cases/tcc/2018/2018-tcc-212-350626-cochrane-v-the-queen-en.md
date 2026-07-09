@@ -1,0 +1,167 @@
+---
+title: "Cochrane v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/350626/index.do"
+last_modified: "2018-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 212"
+citation2: ""
+neutral_citation: "2018 TCC 212"
+decision_date: "2018-11-21"
+language: "en"
+item_id: "350626"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5002
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:34:03.366000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "009ecaebbc40bdd53e334f0f79e46ad035e2f559975b20ea9e8743c608ea656c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cochrane v. The Queen
+
+- Citation: 2018 TCC 212
+- Decision date: 2018-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5002, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cochrane v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-11-21
+Neutral citation
+2018 TCC 212
+File numbers
+2017-2968(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-2968(IT)I
+BETWEEN:
+BARBARA COCHRANE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 7, 2018, at Halifax, Nova Scotia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shauna Hall-Coates
+JUDGMENT
+The appeal from the determination made September 7, 2016 under the Income Tax Act (Canada) is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that that Ms. Cochrane does qualify for a DTC for the period beginning January 2016.
+Signed at Ottawa, Canada, this 21st day of November 2018.
+“B.S. Russell”
+Russell J.
+Citation: 2018TCC212
+Date: 20181121
+Docket: 2017-2968(IT)I
+BETWEEN:
+BARBARA COCHRANE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] The appellant, Barbara Cochrane, appeals (informal procedure) a determination made September 7, 2016 by the Minister of National Revenue (Minister) under the federal Income Tax Act (Act), denying Ms. Cochrane entitlement to a disability tax credit (DTC) for, as described in the respondent’s reply, the period beginning January 2016. Ms. Cochrane had qualified for a DTC for at least several immediately prior years. On September 22, 2016 Ms. Cochrane responded to the determination by serving upon the Minister a notice of objection to it. The Minister on May 23, 2017 confirmed the determination.
+Pleadings/Evidence
+[2] In her brief Notice of Appeal Ms. Cochrane pleaded:
+Please note that since my last letter, my physician has determined that I have a diagnosis of fibromyalgia. This includes interrupted sleep. These sleep patterns and the physical pain, as well as the emotional/mental pain of the depression/anxiety render me unable to function many days of the week. Friends visit to cook and clean as I am rarely able to do so. I spend most days in my nightwear. I also have sleep apnea.
+[3] At paragraph 5 of the respondent’s Reply are pleaded the assumptions of fact relied upon by the Minister in making and confirming the appealed determination. They are as follows:
+5. In determining the Appellant’s entitlement to the DTC, the Minister relied on the following assumptions of fact:
+a) the Appellant submitted the required Form T2201 – Disability Tax Credit Certificate (the “Certificate”);
+b) the Certificate completed and signed by her medical practitioner, Dr. Donald G. MacDonald indicated the following:
+i. the Appellant has mental impairment;
+ii. the Appellant is markedly restricted in performing the mental functions necessary for everyday life;
+iii. the impairment is expected to last for a continuous period of at least 12 months and is not likely to improve.
+c) on July 13, 2016, the Minister requested additional information from the Appellant’s medical practitioner who confirmed the following:
+i. the Appellant can perform her daily living skills independently;
+ii. the Appellant cannot initiate and respond to social interactions appropriately as she has social anxiety, in the sense that most of the time she stays at home and had to quit her work and studies;
+iii. the Appellant is able to make appropriate decisions and judgements in day-to-day situations;
+iv. The Appellant has the capacity and insight to take her medication independently;
+v. the Appellant has a severe memory impairment, without providing any other details;
+vi. the Appellant has the capacity to live independently without daily supervision and support from others;
+vii. the Appellant’s limitations began sometimes during the year 2008.
+[4] Pleadings do not constitute evidence. However, as has been well established, the Minister’s pleaded assumptions of fact are presumed true unless and to the extent the taxpayer appellant raises at least a prima facie case rebutting one or more of them (or successfully submits that one or more pleaded assumptions are irrelevant, or establishes that one or more of the pleaded assumptions were not in fact made by the Minister). The rationale for this is that a taxpayer appellant is expected to have better knowledge than the Minister as to his/her/its affairs relevant to taxation.
+[5] At the hearing Ms. Cochrane was the sole witness. The DTC certificate (Ex. R-3) that she filed April 13, 2016 with Canada Revenue Agency (CRA), ostensibly signed March 10, 2016 by her general practitioner physician, D. MacDonald, is in essence identical to a DTC certificate (Ex. R-1) signed by Dr. MacDonald for her on February 22, 2010. They identically report a diagnosis of “severe depression & anxiety” and effects of impairment as being “acrophobia & panic attacks [and] very restricted activity”.
+[6] Conceivably any copying of the earlier certificate was done or condoned by Dr. MacDonald in a quest for administrative expediency in view of unchanged circumstances. An issue was not made of this at the hearing.
+[7] Also and in any event, Ms. Cochrane submitted into evidence, on consent of respondent’s counsel, a copy of a very recent letter from Dr. MacDonald (Ex. A-1). It was addressed to CRA in St. John’s, dated 29 August 2018 (i.e., barely a week prior to the Halifax hearing of this matter). Dr. MacDonald states in this letter that it is written in support of Ms. Cochrane’s entitlement for a DTC. The letter goes on to provide that Ms. Cochrane,
+...has severe anxiety and panic attacks and [was] diagnosed in 2005 with clinical depression. She was forced into involuntary retirement as a result of her medical condition. Many modes of treatment have all failed. She is house bound by this condition and when she must leave for appointments she must avoid contact with others. She is overwhelmed in any crowded situation [and] confined areas such as elevators and vehicles. She has other phobias as well, resulting in panic attacks. She has other medical conditions [such as] adult ADHD, osteoporosis, hearing loss and overactive bladder. Her symptoms of depression, mental anguish, difficulty sleeping and unexplained pain in hand, feet [and] lower back indicate fibromyalgia. She also has frequent headaches and becomes overwhelmed with her normal day to day routines.
+[8] Ms. Cochrane’s own testimony in respect of the relevant period was that some days she could not get out of bed or leave the house. Other days - two or three a week - she would feel better. She would forget her meds often, and frequently when people knocked on the door she would not answer. She often stayed in her nightclothes during the day. She sometimes could not go to stores due to anxiety as to crowds. She had social anxiety and thus in 2007 was told by both employer and long-term insurance provider to stay home and not continue with her employment. She sought to do volunteer work but rarely could attend even a two person meeting. She had trouble being in cars, and would panic as to running into a person or object.
+[9] Her infirmity was more mental than physical, she said. Two neighbours helped her with cooking and housework. Her husband had physical disabilities and was home with her and helped as and when he could. Her five children would in turn visit on weekends and would call. Anxiety came in waves. Some months she would feel better, then a wave of anxiety would occur. She had restless leg syndrome and fibromyalgia. A psychiatrist, Dr. Bradley, had stopped seeing her as there was nothing further he could do. She said he said that the only therapy that could help was intense psychotherapy, which was not available in her small town or environs thereof. Her partial hearing loss was not a factor as to disability, she thinks.
+[10] Ms. Cochrane also testified that she takes a variety of meds, including for bladder, and occasionally for ADHD and anxiety. Her evidence also was that she had driven herself to the hearing - a two hour drive. She was anxious. Her husband had leg cramps so could not drive. She did not have medical records with her that she could have brought from home. I add that she conducted her own case at the hearing quite well, without any apparent problems.
+[11] In cross-examination Ms. Cochrane testified that Dr. MacDonald has been seeing her bi-monthly since 2000 and he is quite aware of her state of health.
+Issue:
+[12] The issue is whether Ms. Cochrane is entitled to a DTC for the time period commencing January 2016.
+[13] For Ms. Cochrane to succeed she must establish that pursuant to subsection 118.3(1) of the Act she had a severe and prolonged impairment in physical or mental functions, resulting in a marked or significant restriction in one or more of basic activities of daily living; plus that a medical practitioner provided a certificate of the impairment in the prescribed form.
+Legal Analysis/Reasons for Judgment:
+[14] Subsection 118.4(1) provides that a prolonged impairment is one that lasts or can reasonably be expected to last for a continuous period of at least 12 months. The subsection provides also that a basic activity of daily living is markedly restricted when all or substantially all of the time, even with therapy, the individual is blind or unable, or requires an inordinate amount of time, to perform a basic activity of daily living. It provides further that a basic activity of daily living means mental functions necessary for everyday life, feeding or dressing oneself, speaking so as to be understood in a quiet setting, hearing in a quiet setting, elimination or walking, and excludes working, housekeeping or a social or recreational activity. This subsection also provides that mental functions necessary for everyday life include memory, and the three functions of problem solving, goal setting and judgment taken together, and adaptive functioning.
+[15] Leading jurisprudence concerning DTCs includes Radage v. Her Majesty, 96 DTC 1615 (TCC) and Johnston v. Her Majesty, 98 DTC 6169 (FCA). In Johnston the Federal Court of Appeal (FCA) adopted principles stated in Radage by Bowman, J. as he then was, as follows:
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to every one who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons […]
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+[16] As well, Johnston provided clarity with respect to the required threshold of “markedly restricted” for an impairment. Letourneau, J.A. wrote (paras. 17 and 18):
+[this] has been defined to refer to an individual’s inability, at all or substantially all of the time, even with therapy and the use of appropriate device and medication, to perform a basic activity of daily living. An individual’s ability is also deemed to be markedly restricted if he requires an inordinate amount of time to perform such activity.
+No definition has been given of what constitutes an inordinate amount of time in the performance of the basic activities of daily living. In my view, the expression “inordinate amount of time” refers to an excessive amount of time, that is to say one much longer than what is usually required by normal people. It requires a marked departure from normality.
+[17] Here, Dr. MacDonald has made a diagnosis of “severe depression & anxiety”, having the effect of “acrophobia & panic attacks [and] very restricted activity”. The prescribed form that Dr. MacDonald signed gives as one example of “markedly restricted in the mental functions necessary for everyday life” that “Your patient is unable to leave the house, all or substantially all of the time, due to anxiety, despite medication and therapy.”
+[18] We have Ms. Cochrane’s own evidence as to inability to leave her house and be in the company of others due to acute anxiety. We also have Dr. MacDonald’s August 29, 2018 letter stating in part, as noted above, that Ms. Cochrane,
+...has severe anxiety and panic attacks and [was] diagnosed in 2005 with clinical depression. She was forced into involuntary retirement as a result of her medical condition. Many modes of treatment have all failed. She is house bound by this condition and when she must leave for appointments she must avoid contact with others. She is overwhelmed in any crowded situation [and] confined areas such as elevators and vehicles. She has other phobias as well, resulting in panic attacks. She has other medical conditions…
+[19] And as well, in the respondent’s reply at para. 5(c)(ii) as noted above is the ministerial assumption that Dr. MacDonald confirmed on July 13, 2016 that Ms. Cochrane “cannot initiate and respond to social interactions appropriately as she has social anxiety, in the sense that most of the time she stays at home and had to quit her work and studies”.
+[20] All of this establishes that Ms. Cochrane at all relevant times has had a severe and prolonged impairment (severe depression and anxiety) causing her to largely be unable to leave her house. That is indicative of a marked restriction in mental functions necessary for everyday life, being a basic activity of daily living.
+[21] I therefore conclude that Ms. Cochrane does qualify for a DTC applicable to the period commencing January 2016 and that the appealed September 7, 2016 determination of the Minister erroneously denied same. Accordingly the appeal will be allowed, without costs, and the appealed determination issued September 7, 2016 will be referred back to the Minister for reconsideration and redetermination in the basis that Mrs. Cochrane does qualify for a DTC for the period beginning January 2016.
+Signed at Ottawa, Canada, this 21st day of November 2018.
+“B. S. Russell”
+Russell J.
+CITATION:
+2018TCC212
+COURT FILE NO.:
+2017-2968(IT)I
+STYLE OF CAUSE:
+BARBARA COCHRANE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+September 7, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+November 21, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shauna Hall-Coates
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,196 @@
+Title: Larouche c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26381/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-629-26381-larouche-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-09-22
+
+# Larouche c. La Reine
+
+- Citation: 2004 TCC 629
+- Decision date: 2004-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3361, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larouche c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-22
+Neutral citation
+2004 TCC 629
+File numbers
+2003-2589(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2589(IT)G
+BETWEEN:
+ADRIENNE LAROUCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Joseph Boursiquot (2003-2590(IT)G),
+on August 26, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles M. Carmirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 163(2) of the Income Tax Act for the 1999 taxation year is allowed in the sense that the penalty is vacated, the whole without costs, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 22nd day of September 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+Docket: 2003-2590(IT)G
+BETWEEN:
+JOSEPH BOURSIQUOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Adrienne Larouche (2003-2589(IT)G),
+on August 26, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Charles M. Carmirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under subsection 163(2) of the Income Tax Act for the 1998 and 1999 taxation years is allowed in the sense that the penalties are vacated, the whole without costs; however, the assessment for the 1998 taxation year will have to be referred back to the Minister of National Revenue for reassessment given that the capital gain for the 1998 taxation year must be reduced to $6,096, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 22nd day of September 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+Citation: 2004TCC629
+Date: 20040922
+Dockets: 2003-2589(IT)G
+2003-2590(IT)G
+BETWEEN:
+ADRIENNE LAROUCHE
+and
+JOSEPH BOURSIQUOT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The issue in these two appeals consists in determining the validity of the penalties imposed under subsection 163(2) of the Income Tax Act (the "Act").
+[2] The parties agreed to proceed by means of common evidence for both files.
+The Notices of Appeal read as follows:
+[translation]
+Adrienne Larouche file (2003-2589(IT)G)
+(a) during the 1999 taxation year, the Appellant was employed by the Commission Santé et Sécurité du Travail [occupational health and safety board] and also owned income properties;
+(b) for the 1999 taxation year, the Appellant reported a total income of $53,082.77;
+(c) for the 1999 taxation year, the Appellant failed to report taxable capital gains of $35,633 (75% of $47,511) from the sale of shares;
+(d) the Appellant knowingly failed to report the amounts described above.
+Joseph Boursiquot file (2003-2590(IT)G)
+(a) during the taxation years in dispute, the Appellant was retired and also owned income properties;
+(b) for the 1998 and 1999 taxation years, the Appellant reported a total income of $41,412.66 and $32,439.87, respectively;
+(c) for the 1998 taxation year, the Appellant reported a taxable capital gain of $72.05 (75% of $96.07);
+(d) for the 1998 and 1999 taxation years, the Appellant failed to report taxable capital gains of $6,026 (75% of $8,034) and $76,976 (75% of $102,634), respectively, from the sale of mutual funds and shares;
+(e) for the 1998 taxation year, the Minister, by mistake, increased the capital gain to $6,098 (75% of $8,130) instead of the $6,026 specified in the preceding paragraph and the penalties were assessed based on the incorrect amount;
+(f) the Appellant knowingly failed to report the amounts described above.
+[3] The Respondent relied on the following facts to impose the penalties:
+Adrienne Larouche file (2003-2589(IT)G)
+(a) during the 1999 taxation year, the Appellant was employed by the Commission Santé et Sécurité du Travail and also owned income properties;
+(b) during the 1999 taxation year, the Appellant reported a total income of $53,082.77;
+(c) during the 1999 taxation year, the Appellant failed to report taxable capital gains of $35,633 (75% of $47,511) from the sale of shares;
+Joseph Boursiquot file (2003-2590(IT)G)
+(a) during the taxation years in dispute, the Appellant was retired and also owned income properties;
+(b) for the 1998 and 1999 taxation years, the Appellant reported a total income of $41,412.66 and $32,439.87, respectively;
+(c) for the 1998 taxation year, the Appellant reported a taxable capital gain of $72.05 (75% of $96.07);
+(d) for the 1998 and 1999 taxation years, the Appellant failed to report taxable capital gains of $6,026 (75% of $8,034) and $76,976 (75% of $102,634), respectively from the sale of mutual funds and shares;
+(e) for the 1998 taxation year, the Minister, by mistake, increased the capital gain to $6,098 (75% of $8,130) instead of the $6,026 specified in the preceding paragraph and the penalties were assessed based on the incorrect amount;
+[4] All of the facts were admitted; however, the Appellants vigorously deny having knowingly failed to report the amounts obtained from the sale of their portfolio comprised of shares and mutual funds.
+[5] As evidence, the burden of which was on the Respondent, the Respondent had the Appellants testify. For her part, Ms. Larouche essentially confirmed Mr. Boursiquot's testimony since she was apparently not aware of the facts leading to the preparation of her income tax returns given that she always had her husband prepare them.
+[6] Because the Appellant's husband was more available and had more flexibility in his professional activities, he took care of everything. The Appellant essentially only participated occasionally to help with some sorting.
+[7] Mr. Boursiquot, whose testimony constituted the bulk of the evidence in both files, went over the content of the Notices of Appeal again. He added however that he had not reported the capital gain, remembering that the Mulroney government had instituted a special measure under which all Canadian taxpayers could receive a $500,000 lifetime capital gains exemption.
+[8] That exemption was in addition to another that, according to him, exempted all taxpayers from paying income tax on a capital gain where that gain is immediately reinvested.
+[9] The Appellants retained the services of a chartered accountant to prepare their income tax returns. Mr. Boursiquot acknowledges that he never mentioned to the accountant that he and his wife had realized a substantial capital gain.
+[10] He also acknowledges not having raised the issue of the reinvestment of the capital gain realized and the $500,000 exemption.
+[11] When Revenu Québec discovered that Mr. Bourisquot had failed to report a capital gain for 1998 and 1999 and Ms. Larouche for 1999, Mr. Bourisquot stated that, in the days that followed, he contacted Revenue Canada to notify them that he and his wife had not reported a capital gain.
+[12] Those facts, in addition to those described in the Notices of Appeal, which Mr. Bourisquot went over again in his testimony, are the facts available to assess the validity of the penalties.
+[13] The following points were set out in the Respondent's submission:
+- The Appellants had a much higher than average level of education.
+- The unreported amounts were substantial.
+- The Appellant never raised the issue of the capital gain with his accountant.
+- The argument of the $500,000 exemption was not raised during discussions, at the objection stage or, which is even more surprising, in the Notices of Appeal.
+- Mr. Bourisquot was not able to explain where he got his information about the advantages of immediately reinvesting a capital gain.
+- Mr. Bourisquot, an educated and disciplined person, was not able to prove, other than through his testimony, that he contacted Revenue Canada after Revenu Québec informed him of the failure to report the significant capital gain.
+[14] There is no doubt that the Respondent has identified the relevant points quite well and has clearly indicated the issues that raise some questions, even doubts, concerning the likelihood of the Appellants' explanations.
+[15] Is this sufficient to conclude that the penalties are valid? Before answering that question, it is important to remember that the burden of proof is on the Respondent and that such proof must be viewed within the context of the preponderance requirement.
+[16] If the degree of proof was that which prevails in criminal matters, I would have to conclude that the penalties are valid; however, this is not the case. I must decide if the Appellants, knowingly or under circumstances amounting to gross negligence, failed to report taxable capital gains for 1999 in the case of Ms. Larouche and for 1998 and 1999 in the case of Mr. Bourisquot.
+[17] "Knowingly" or "under circumstances amounting to gross negligence" are requirements that have a considerable scope.
+[18] The issue of whether a person "knowingly" made a false statement or omission in a "return" for the purposes of subsection 163(2) of the Act is rather an issue of evidence and is less difficult to determine than the concept of "gross negligence." Here is what V. Krishna has to say about the matter in The Fundamentals of Canadian Income Tax, (5th ed., Scarborough: Carswell, 1995), at page 804:
+There are three degrees of knowledge: (1) Actual knowledge; (2) Deliberate refraining from making inquiries; and (3) Constructive knowledge.
+In the first category, the taxpayer must have actual knowledge of the misstatement or omission on the return. The second category deals with a situation where a person deliberately shuts his or her eyes to an obvious means of knowledge - in other words, deliberately refrains from making inquiries the result of which he or she might not care to know. The third category, generally referred to as "constructive knowledge", is concerned with what a taxpayer "ought to have known".
+[19] With respect to the second category of knowledge referred to by V. Krishna, the more fuzzy type, it is also known as wilful blindness. Thus, a penalty can be imposed if the Minister can show that the taxpayer demonstrated wilful blindness: Canada (Attorney General) v. Villeneuve, 2004 DTC 6077, 2004 FCA 20, at paragraphs 6 to 8 (F.C.A.); Canada v. Duguay, 2000 DTC 6620 (F.C.A.); Marcoux-Côté v. The Queen, 2000 DTC 6615 (F.C.A.); Burkes v. Canada 2000 DTC 2576 (F.C.T.D.); Patricio v. The Queen, 84 DTC 6413 (F.C.T.D.); Lévesque Estate v. Canada, [1995] T.C.J. No. 469 (T.C.C.); Carlson v. Canada, [1997] T.C.J. No. 1351 (T.C.C.); Holley v. M.N.R., 89 DTC 366 (T.C.C.). See also C. Campbell, Administration of Income Tax, (Toronto: Thompson Carswell, 2003), at page 398 (and the cases cited in the footnote on page 54).
+[20] As for the concept of "gross negligence," the courts still refer to Venne v. Canada, 84 DTC 6247, at pages 6256 and 6257 (F.C.T.D.) as their starting point: Findlay v. The Queen, 2000 DTC 6345 at paragraphs 19-22 (F.C.A.) and Saikali v. Canada, [1998] 3 C.T.C. 200 at paragraph 6 (F.C.A.). Below I have reproduced the relevant passage from Venne for reference purposes:
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. 'Gross negligence' must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To he sure, the plaintiff did not exercise the care of a reasonable man and, as I have noted earlier, should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+With respect to business income, I can more readily recognize that effective surveillance would have been difficult for the plaintiff and would have involved him making and reviewing numerous computations of revenues, expenditures, assets and liabilities. In other words the errors in business income, small in some years but very substantial in others, would not necessarily have 'sprung out' at a person of the taxpayer's background and abilities. While it may have been naive for him to trust his bookkeeper as knowing more about such matters than he did, I do not think it was gross negligence for him to fail to challenge the bookkeeper with respect to the business computations. However egregious the errors committed by the bookkeeper in this respect, it is quite conceivable that they were not in fact noticed by the plaintiff and his neglect in not noticing them fell short of constituting gross negligence.
+[21] The courts have repeatedly offered different ways of seeing that definition. Some descriptors used for "gross negligence" ("faute lourde" in French), include "very great negligence" (Paul v. Daughin (1941) 1 D.L.R. 775, restated in Wallace v. M.N.R., 66 DTC 593, at page 596 (T.A.B.)), "flagrant or glaring negligence," "negligence of conspicuous magnitude" and "negligence in a pronounced, striking or aggravated form" (Sadownick v. M.N.R., 66 DTC 280, at page 283 (T.A.B.), "a relatively odious act of negligence, which is difficult to explain and socially inadmissible" (Cloutier v. The Queen, 78 DTC 6485 (F.C.T.D.)), as well as "a much greater degree of negligence amounting to reprehensible recklessness" and "a punishment for reprehensible behaviour" (Klotz v. The Queen, 2004 TCC 147, at paragraphs 68 and 71 (T.C.C.)). See also C. Campbell, Administration of Income Tax, supra, at pages 395-396.
+[22] It still remains that, in order for a judge to uphold the penalty imposed by the Minister, the evidence must be sufficiently convincing and credible in that regard: Marcoux-Côté v. The Queen, supra; Saikali v. Canada, supra, at paragraphs 3 to 5; Baynham v. Canada, 98 DTC 6648, at paragraph 4 (F.C.A.); 897366 Ontario Ltd., [2000] G.S.T.C. 13 (T.C.C.); and Drozdzik v. R., [2003] 2 C.T.C. 2183 (T.C.C.). One of the factors that could affect credibility is whether the taxpayer is experienced in the area in question: Canada v. Duguay, supra; Richard v. M.N.R., 88 DTC 1590, at page 1592 (T.C.C.); and De Graaf v. The Queen, 85 DTC 5280, at page 5285 (F.C.T.D.).
+[23] In the case at bar, I do not believe that the evidence completely discredits the probability of the Appellants' arguments. One thing is for sure, I cannot exclude from the evidence all of the Appellants' explanations.
+[24] To justify the penalties, the Minister assumes that all of the Appellants' explanations are false or deceptive. I cannot subscribe to such a rigid theory.
+[25] Although not in the same way as Mr. Bourisquot understood it, the issue of the $500,000 capital gains exemption was already provided for during the Mulroney government in specific situations. Why did the Appellants not ask their accountant about it? The answer is because when a person does not question something that he or she believes, of course that person would not feel it was necessary to verify something about which he or she has no doubt.
+[26] As to the significance of the amount of money involved, again, when a person believes that he or she has a right, the amount has nothing to do with whether that right exists.
+[27] The argument that the Appellants had a much higher than average level of education may, again, be interpreted in a completely different way than that chosen by the Respondent. Mr. Bourisquot, a specialist in philosophy and ethics, knew that any breach could have an impact on both his career and his reputation. Accordingly, there could not have been any doubt in Mr. Bourisquot's mind as to what he believed.
+[28] Those are sufficient elements to raise very serious doubts about the quality of the Respondent' theory.
+[29] Therefore, I find that the Respondent did not meet the burden of proof; consequently, I allow the appeals and vacate the penalties imposed on Mr. Bourisquot for having failed to report capital gains for the 1998 and 1999 taxation years and the penalty imposed on Ms. Larouche, for the same reasons, for the 1999 taxation year.
+[30] I officially recognize the consent to judgment mentioned in paragraph 12 of the Response to Notice of Appeal in Mr. Bourisquot's file.
+[31] The assessment made with regard to Mr. Bourisquot shall be referred back to the Minister for reassessment given that the capital gain for 1998 must be reduced to $6,096.
+[32] The whole without costs.
+Signed at Ottawa, Canada, this 22nd day of September 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true on this 21st day of December 2004
+Aveta Graham
+CITATION:
+2004TCC629
+COURT FILE NOS.:
+2003-2589(IT)G and 2003-2590(IT)G
+STYLES OF CAUSE:
+Adrienne Larouche and Joseph Boursiquot
+v. Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+Dates of hearing:
+August 26, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF ORDER:
+September 22, 2004
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Charles M. Camirand
+COUNSEL OF RECORD:
+For the Appellants:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

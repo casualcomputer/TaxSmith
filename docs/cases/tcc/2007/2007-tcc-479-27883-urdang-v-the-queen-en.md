@@ -1,0 +1,145 @@
+---
+title: "Urdang v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27883/index.do"
+last_modified: "2007-08-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 479"
+citation2: ""
+neutral_citation: "2007 TCC 479"
+decision_date: "2007-08-16"
+language: "en"
+item_id: "27883"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1731
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:50:10.340000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b226b1f89cd8ada6a825dfee3551e01e360fb156818ccc08a44cf79d80f5132"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Urdang v. The Queen
+
+- Citation: 2007 TCC 479
+- Decision date: 2007-08-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1731, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Urdang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-16
+Neutral citation
+2007 TCC 479
+File numbers
+2006-1922(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1922(IT)I
+BETWEEN:
+STUART G. URDANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 27, 2007, at Fredericton, New Brunswick.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is allowed, in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a medical expense credit for medical expenses in the amount of $2,224.10 for his 2004 taxation year.
+Signed at Halifax, Nova Scotia, this 16th day of August 2007.
+"Wyman W. Webb"
+Webb J.
+Citation: 2007TCC479
+Date: 20070816
+Docket: 2006-1922(IT)I
+BETWEEN:
+STUART G. URDANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this Appeal is whether the amounts spent by the Appellant in acquiring an exercise bike and a life line personal response system qualify as medical expenses for the purposes of subsection 118.2(2) of the Income Tax Act (the “Act”). The Appellant spent $2,224.10 to acquire the exercise bike and $290.39 to acquire the life line personal response system.
+[2] The Appellant suffered a stroke on August 3, 2001 which left him paralyzed on the left side of his body. Because the Appellant had a form of leukemia the medical staff were unable to administer a particular drug to him in the hospital which may have helped to reverse some of the effects of the stroke. As a result the Appellant required several months of rehabilitation.
+[3] Initially the Appellant was confined to a wheelchair but later was able to walk with the assistance of a cane, although walking was difficult. The Appellant had no flexibility in his left knee.
+[4] The Appellant had a second serious incident. He had a pulmonary embolism and his right lung filled with blood. The Appellant indicated that he was lucky to be alive.
+[5] When the Appellant left the rehabilitation centre he could walk but, however, he could not walk up stairs. He had balance issues and as a result of the stroke all of his muscles had tightened up. Because he was unable to bend his knee he had to hike his leg up and lift it. While at the rehabilitation centre he was using a special form of exercise bike because he could not use a regular exercise bike. The exercise bike at issue in this case is the same type of bike that the Appellant was using at the rehabilitation centre. The Appellant testified that the exercise bike helped to improve the flexibility in his left knee.
+[6] Bruce Hewson who is a retired registered nurse also testified for the Appellant. He confirmed that one of the issues arising from the stroke was the blood loss to the limbs. It was important to keep the blood circulating to the muscles so that they would not tighten up. Of course, this would obviously help him to walk. The exercise bike that was acquired was helping to keep the blood circulating to the muscles and helping the Appellant to be able to move his knee so that he would be better able to walk. It would, of course, also help with the strengthening of the leg which would allow him to walk further distances.
+[7] In this particular case the exercise bike was prescribed by a medical doctor. A copy of the prescription form for the exercise bike was submitted into evidence. As well, in the letter from Colleen O’Connell, MD, FRCPC she stated that:
+[a]s part of his maintaining cardiovascular fitness, home exercise equipment had been prescribed; the Ergosizer which allows Mr. Urdang to maintain cardiovascular fitness within his home. Due to dense hemiplegia he is not able to utilize treadmill or a walking program to maintain cardiovascular fitness.
+[8] The Appellant also had acquired a life line personal response system. This equipment would allow the Appellant to call for help by simply pressing a button in the event of an emergency. Because the Appellant was living by himself and his mobility was obviously impaired, the life line system was essential if he needed assistance. The Appellant had a letter from the City of Saint John dated June 14, 2007 confirming that:
+[s]ince January 2005, the total number of times an ambulance has answered your request has been 32.
+Therefore the Appellant obviously needed and used the life line personal response system.
+[9] The issue in this case is whether the two items - the exercise bike and the life line personal response system - qualified as medical expenses under paragraph 118.2(2)(m) of the Act. This paragraph is as follows:
+118.2(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid ...
+(m) for any device or equipment for use by the patient that
+(i) is of a prescribed kind,
+(ii) is prescribed by a medical practitioner,
+(iii) is not described in any other paragraph of this subsection, and
+(iv) meets such conditions as may be prescribed as to its use or the reason for its acquisition,
+to the extent that the amount so paid does not exceed the amount, if any, prescribed in respect of the device or equipment;
+[10] There was no evidence that the life line personal response system had been prescribed by a medical practitioner. Therefore, unfortunately, that equipment does not meet the conditions as set out in subparagraph 118.2(2)(m)(ii) and therefore the amount paid by the Appellant for the life line personal response system, although essential for the health and well-being of the Appellant, is not a medical expense for the purposes of the Act. As well, this equipment is not included in the list of prescribed devices and equipment in section 5700 of the Income Tax Regulations.
+[11] The exercise bike, however, was prescribed by a medical practitioner. Although it was not prescribed to assist the Appellant in walking, the test set out in subparagraph 118.2(2)(m)(ii) is simply that it be prescribed by a medical practitioner. Since the exercise bike was prescribed it meets this test. Therefore the remaining issue for the exercise bike is whether it is of a prescribed kind. Section 5700 of the Income Tax Regulations provides in part as follows:
+5700. For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it is a
+...
+(i) device that is designed to assist an individual in walking where the individual has a mobility impairment;
+There is no doubt in this case that the individual has a mobility impairment. As well both the Appellant and the retired registered nurse confirmed that the exercise bike did assist the Appellant in walking, although this was not the primary purpose for acquiring the exercise bike.
+[12] In Klywak v. R., 2005 CarswellNat 3473, 2005 FCA 354, [2005] 1 C.T.C. 95, 2005 DTC 5712 (Eng.), 341 N.R. 337, the Federal Court of Appeal dealt with the interpretation of this paragraph of Regulation 5700 and made the following comments:
+7. In an excellent and thorough presentation, counsel for the appellant Crown, understandably seeking a bright line interpretation, made several arguments that, in the end, did not persuade the Court. The main contention of the appellant was that at law this provision can apply only to those devices that “provide direct physical support to assist an individual in walking”, like canes and walkers. The Tax Court Judge opined (at para. 11), in response to this argument, that the words “‘designed to assist an individual in walking’ surely cannot be interpreted to refer only to mechanical external aids which, although assisting the walking function, would not assist the internal disease.” I cannot disagree.
+8. The language in the section does not support the position of the Crown. The words of Regulation 5700(i) stated, inter alia, “designed to assist”, not “exclusively designed” to assist. By contrast, the word “exclusively” is used in several of the other provisions in this same regulation to limit strictly the devices that are deductible. (See provisions (c), (m), (n), (o), (t), and (u).) As the word “exclusively” is not used in the provision at issue, one cannot properly conclude that the hot tub device must have been designed “exclusively” to assist in walking. It is sufficient that one of the purposes of its design is to assist in walking, which the Tax Court Judge held it was. Counsel for the Crown made a valiant attempt to have this Court write the word “exclusively” into Regulation 5700(i), but that task is reserved for Parliament, not this Court.
+[13] Therefore since one of the purposes of the design of the exercise bike was to assist the Appellant in walking by helping with the circulation of blood to his left leg (to assist in keeping the muscles from tightening up) and helping him obtain more flexibility in his knee, I find the exercise bike did satisfy this condition and therefore the cost of the exercise bike should have been allowed as a medical expense.
+[14] The appeal is allowed in relation to the claim for the medical expense for the exercise bike but not for the life line equipment. The Appellant is entitled to his costs as determined in accordance with the Tax Court of Canada Rules (Informal Procedure).
+Signed at Halifax, Nova Scotia, this 16th day of August 2007.
+"Wyman W. Webb"
+Webb J.
+CITATION: 2007TCC479
+COURT FILE NO.: 2006-1922(IT)I
+STYLE OF CAUSE: STUART G. URDANG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: July 27, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 16, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,602 @@
+---
+title: "Tremblay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30615/index.do"
+last_modified: "2009-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 359"
+citation2: ""
+neutral_citation: "2009 TCC 359"
+decision_date: "2009-07-23"
+language: "en"
+item_id: "30615"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7109
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:05:53.935000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c0b13e9a3dc99f459ec8bd1a0b244b4c21222cc312778ff69be77a65fd6365c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay v. The Queen
+
+- Citation: 2009 TCC 359
+- Decision date: 2009-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7109, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-23
+Neutral citation
+2009 TCC 359
+File numbers
+2007-3132(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC359
+Date: 20090917
+Docket: 2007-3132(IT)I
+BETWEEN:
+JEAN-LOUIS TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on March 26, 2009, at Montreal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Benoît Aubertin
+Counsel for the respondent:
+Annick Provencher
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment established under the Income Tax Act for the 2001, 2002 and 2003 taxation years is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment. All in accordance with the attached reasons for judgment.
+Signed at Edmundston, New Brunswick, this 23rd day of July 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of October 2009.
+Elizabeth Tan, Translator
+Citation: 2009 TCC 359
+Date: 20090723
+Docket: 2007-3132(IT)I
+BETWEEN:
+JEAN-LOUIS TREMBLAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT, SECOND AMENDMENT
+Angers J.
+[1] By reassessment dated April 14, 2005, the Minister of National Revenue (the Minister), using the net worth calculation method, established that the appellant neglected to declare additional income of $20,631 for the 2001 taxation year, $17,945 for the 2002 taxation year, and $18,127 for the 2003 taxation year and imposed gross negligence penalties for the taxation years in question.
+[2] In response to the appellant's objection, the Minister established reassessments on April 20, 2007, reducing the appellant's income by $1,470 for the 2001 taxation year, and by $7,433 for the 2002 taxation year, and increasing the income by $707 for the 2003 taxation year. The Minister imposed a gross negligence penalty on $19,161 for the 2001 taxation year, $10,512 for the 2002 taxation year and on $18,834 for the 2003 taxation year.
+[3] Was the Minister correct in adding the $19,161, $10,512 and $18,834 to the appellant's business income for the 2001, 2002 and 2003 taxation years respectively, and was he justified in taxing the penalty provided for under subsection 163(2) of the Income Tax Act (the Act)?
+[4] The appellant has been a naturopath for more than twenty years and is self‑employed. When preparing his income tax reports, the appellant declared net business income of $10,80 for the 2001 taxation year, $15,560 for 2002, and $20,158 for 2003. The appellant also had income from an apartment he rented out above his residence. For the purposes of calculating the net worth, his spouse's income was added to his.
+[5] The net worth calculation was prepared on the ground that there are many gaps in the appellant's bookkeeping and he carried out many cash transactions. The auditor therefore obtained the data that would allow her to proceed with the calculation in question. She first contacted the appellant's accountant who provided much of the data used in the calculation. The appellant then changed accountants and the new one only provided additional information bit by bit. The appellant, with his spouse, also provided figures, some of which were used in the calculation and, in some cases, data provided by Statistics Canada was used.
+[6] At the objection stage, as mentioned, some modifications were made, which led to a reduction of business income for the 2001 and 2002 taxation years, and an increased assessment for 2003. The reduction of income is attributable to a modification made to the acquisition date of a motor vehicle, the UCC balance, and a tax debt that was calculated twice.
+[7] The evidence heard at the trial was mainly on certain amounts the auditor attributed to the personal expenses category. The appellant states that in the years in question, he inherited money from his father, annual gifts from his mother, and received payments from his two sons who lived with him and his spouse.
+[8] In order to properly understand the calculation of the net worth, I will only reproduce the tables prepared for this purpose. I will not reproduce Appendices II, III and IV because they are not under objection. Table V, of personal expenses, is reproduced, however.
+[Note: The following tables are translations]
+JEAN-LOUIS TREMBLAY 209-367-044 Appendix V
+TABLE ESTABLISHING PERSONAL EXPENSES Dec. 31, 01 Dec. 31, 02 Dec. 31, 03
+Interest on loans
+Loan 1
+Loan 2
+Loan 3
+Loan 4
+Loan 5
+Other financial fees
+Donations 10.00 14.00 11.00 (2)
+Gifts 200.00 200.00 200.00
+Leisure
+Sports
+Movies/theatre
+Travel
+Other 100.00 100.00 100.00
+Union dues
+Legal fees
+Contributions to pension plans
+Contributions to the QPP
+Contributions to Employment Insurance
+Taxes for Mr. Tremblay
+Fed. taxes paid during the year
+for the current year 0.00 0.00 (3)
+Fed. taxes paid during the year
+for previous year 385.01 826.44 1,614.53 (2)
+Prov. taxes paid during the year
+for the current year 0.00 0.00
+Prov. taxes paid during the year
+for the previous year 753.39 1,183.90 2,571.31 (2)
+Taxes for his spouse
+Fed. taxes paid during the year
+for the current year 0.00
+Fed. taxes paid during the year
+for the previous year 907.86 (272.08) (115.37) (2)
+Prov. taxes paid during the year
+for the current year
+Prov. taxes paid during the year
+for the previous year 907.86 (385.33) (226.76) (2)
+Other expenses
+TOTAL 28,862.35 25,744.80 26,996.50
+Analysis of APPEALS—November 16, 2006, Submissions (1) Corresponds to personal part indicated on the T1
+(2) Balance or reimbursement according to tax report and detail of the T1 account (N.5). For 2001, the amount paid at the provincial level was estimated to be identical as that paid at the federal level.
+(3) Does not correspond to any actual payment; therefore, it is not a personal expense.
+JEAN-LOUIS TREMBLAY 209-367-044 Appendix I
+CALCULATION OF CHANGE IN NET WORTH Dec. 31, 01 Dec. 31, 02 Dec. 31, 03
+Closing net worth (Appendix II) 81,778.91 97,333.96 117,280.36
+Minus Opening net worth (Appendix II) 65,955.42 81,778.91 97,333.96
+------------------------------------------------------------
+Increase (reduction) of net worth 15,823.49 15,555.05 19,946.40
+ADJUSTMENTS ADD
+Personal expenses (Appendix V) 28,662.35 25,744.60 28,998.50
+Loss on personal property
+Capital loss
+Loans to shareholders according to 15(2)
+Taxable advantage
+Loss on business investment
+Unexplained withdrawal
+Non-deductible entertainment expenses (s. 67.1) 25.00 61.50 10.00 (1)
+Allowance for business income under T1139 (previous year)
+Non-deductible portion s. 31
+Dividend increase
+-------------------------------------------------------------------
+Sub-total 28,687.35 25,806.10 27,006.50
+DEDUCT
+Non-taxable capital gain
+Non-taxable portion of capital gain
+Provincial family and child allowance
+Inheritance
+Lottery, casino winnings
+Allowance for business income under T1139 (current year)
+Insurance claims
+Undeclared CSST
+GST/QST rebate 0.00 213.00 367.91 (2)
+Other
+-------------------------------------------------------------------
+Sub-total 0.00 213.00 367.91
+TOTAL INCOME USING NET WORTH METHOD 44,510.64 41,148.15 48,584.99
+TOTAL REPORTED INCOME
+Mr. Tremblay 13,941.00 20,370.00 23,761.00
+Mr. Tremblay's spouse 11,409.00 10,266.00 3,990.00
+-------------------------------------------------------------------
+Total reported income 25,350.00 30,636.00 27,751.00
+CHANGE IN NET WORTH after additional allowance 19,160.84 10,512.15 18,833.99
+Additional allowance
+CHANGE IN NET WORTH before additional allowance 19,160.84 10,512.15 18,833.99
+CHANGE IN NET WORTH before APPEALS 20,631.00 17,945.00 18,126.50
+CHANGE IN NET WORTH after APPEALS 19.160.84 10,512.15 18,833.99
+Adjustments 1,470.16 7,432.85 (707.49)
+(1) According to T1
+(2) According to payment information menu
+JEAN-LOUIS TREMBLAY 209-367-044 Appendix V
+TABLE ESTABLISHING PERSONAL EXPENSES Dec. 31, 01 Dec. 31, 02 Dec. 31, 03
+Food
+Groceries 7,000.00 7,000.00 7,000.00 (4)
+Restaurants
+Various expenses
+Clothes 500.00 500.00 500.00 (5)
+Dry cleaning
+Hairdresser 150.00 150.00 100.00
+Personal care 500.00 500.00 500.00
+Tobacco-beverages
+Medication 1,213.00 757.00 867.00 (2)
+Life and medical insurance 1,500.00 1,500.00 750.00
+Childcare fees
+Cleaning
+Expenses for animals
+Lottery
+Education
+Books
+Tuition
+Newspapers and magazines
+Automobile
+Insurance 1,300.00 1,300.00 715.00
+Gas 1,000.00 1,000.00 800.00
+Maintenance/repairs 200.00 200.00 100.00
+Licence 160.00 160.00 80.00
+Registration 510.00 510.00 255.00
+Property A
+Rent
+Municipal taxes 1,379.86 1,355.02 1,415.33 (1)
+School taxes
+Insurance 799.00 350.00 700.00
+Interest on mortgage 4,122.25 4,157.00 3,560.66 (1)
+Heating 1,700.00 1,700.00 1,700.00
+Electricity 1,064.12 808.65 1,498.80
+Phone 1,000.00 1,000.00 1,000.00
+Cable, Internet 800.00 800.00 800.00
+Maintenance and repairs 500.00 500.00 500.00
+Services (snow removal, landscaping…)
+Other expenses
+Property B
+Rent
+Municipal taxes
+School taxes
+Insurance
+Interest on mortgage
+Heating
+Electricity
+Phone
+Cable, Internet
+Maintenance and repairs
+Services (snow removal, landscaping…)
+Other expenses
+[9] The evidence submitted at trial covers the amount attributed to certain categories found in the personal expenses. The appellant and his spouse, as well as the respondent's agent testified on the amounts in question. As mentioned, at the audit, the appellant and his spouse provided certain figures regarding their personal expenses (Exhibit I-1, Tab 15). According to the appellant, their estimated cost of living on the first document includes 2001 and 2002 and the second document is for 2003. He claims that the auditor should have divided the estimate from 2001 and 2002 in half to reflect reality. After examining the two forms, it seems clear to me that for certain categories, the amount indicated for 2001 and 2002 is twice that of 2003, for example, the cost of life insurance. However, the same amount, $100, appears in the category for shoes in 2001-2002 and in 2003. It is therefore difficult to reconcile all the figures, but since almost all the amounts are in question, I will examine them individually. There were also estimates and then at the trial, the appellant provided many invoices. As for certain figures used by the auditor, they were provided by the appellant, taken from the Statistics Canada data or determined according to what seemed reasonable in the circumstances.
+(a) Cable - Internet
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate
+800.00
+or half
+800.00
+or half
+520.00
+According to invoices at trial
+425.50
+578.52
+According to calculations
+800.00
+800.00
+800.00
+The respondent accepts that in 2003, the actual amount would be as indicated on the invoices, $578.52. For 2001 and 2002, the bills submitted for cable start in March 2002 for a total of $425.50. Since the appellants indicated on the form that they paid this expense in 2001 and 2002, it seems appropriate to find that a similar service was provided in 2001. There is no expense for an Internet subscription. I therefore consider the expense to be $500 in 2001, $515.20 in 2002 and $578.52 in 2003.
+(b) Licence and registration
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate:
+- licence
+- registration
+160.00
+or half
+510.00
+or half
+160.00
+or half
+510.00
+or half
+80.00
+255.00
+According to calculations:
+- licence
+- registration
+160.00
+510.00
+160.00
+510.00
+80.00
+255.00
+According to receipts at trial:
+- licence
+- registration
+48.00
+221.00
+48.00
+221.00
+40.00
+221.00
+On this issue, the respondent accepts the amounts as indicated on the receipts.
+(c) Telephone
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate
+1,000.00
+or half
+1,000.00
+or half
+550.00
+According to bills at trial
+590.03
+646.88
+628.31
+According to calculations
+1,000.00
+1,000.00
+1 000.00
+In this section, the respondent notes that some bills are missing but the amounts claimed are very close to those indicated on the bills, in particular $578.10, $648.57 and $629.69 for the three years, respectively. The amounts will therefore be adjusted arbitrarily to $585, $648 and $629 for each of those years, respectively.
+(d) Electricity and heating
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate:
+heating
+1,700.00
+or half
+1,700.00
+or half
+1,000.00
+According to bills at trial
+977.79
+805.77
+1,577.36
+According to calculations:
+- heating
+- electricity
+1,700.00
+1,064.12
+1,700.00
+608.65
+1,700.00
+1,498.80
+The evidence showed that the heating costs should have been included with the electricity. The bills the respondent submitted (Exhibit I-3) provide a different total under this category and I accept these figures as the actual expense for the category; these are $1,357.27, $826.21 and $1,498.80 for the three years, respectively.
+(e) Insurance (property)
+No amount was indicated by the appellant for this category in the estimate he provided at the audit. At the hearing, the appellant provided the property-insurance bill for 2003, which was $621.30 and he claimed that the same amount applied for the two preceding years. The figures used by the respondent in calculating the net worth for the three years were $799, $350 and $700, respectively. The respondent now claims that according to Exhibit I-4, a statement from the insurance firm for each of the policies, the amount should have been $900.62, $550.45 and $621.30, respectively, for the years in question on the ground that in 2001, the insurance premium was $1,100.90 at the May 2001 renewal, and then the coverage was reduced, and it was lowered to $592.96 when the appellant switched from lessee to owner after acquiring the residence. On June 26, 2002, the renewal premium was $550.45. Therefore, from January to June 2001, the appellant would have paid $91.74 per month for 6 months, for $550.44, and $42.32 per month for the other 6 months, for $253.96, for a total of $804.40 in 2001. He would have paid $550.45 in 2002, and $621.70 in 2003. These figures will be used for the purposes of these reasons.
+(f) Insurance (automobile)
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate
+1,300.00
+or half
+1,300.00
+or half
+715.00
+Appellant, according to 2003 bill
+728.70
+728.70
+728.70
+According to calculations
+1 300.00
+1 300.00
+715.00
+The appellant claims that he owned two vehicles from 2001 to 2003, but only insured one at a time. However, Exhibit I-2 shows he was billed for two cars. In May 2001, he paid $518.70 in insurance premiums for the Cadillac and he renewed the insurance for the Volkswagen in September 2001 for $454.65. The appellant therefore paid $973.35 in 2001 in this category, minus $144 for an NSF check, which led to the cancellation of the policy in February 2002, leaving a $156 credit. The total spent in 2001 was therefore $817.35 ($973.35—$156.00). In 2002, according to Exhibit I-2, the appellant paid $976.50 in car insurance premiums, and in 2003, $728.70.
+(g) Insurance (life and medical)
+The respondent accepted the amounts the appellant submitted in this category. The amounts are therefore $1,250.36 for 2001 and 2002 and $1,325.36 for 2003.
+(h) Gas, maintenance, repairs
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate:
+- gas
+- repairs
+1,000.00
+or half
+200.00
+or half
+1,000.00
+or half
+200.00
+or half
+800.00
+100.00
+According to calculations:
+- gas
+- repairs
+1,000.00
+200.00
+1,000.00
+200.00
+800.00
+100.00
+In this category, no specific or reliable evidence was submitted. The appellant claims that he used his vehicles very rarely and his work place is very close to home. The respondent used the appellant's estimates without reducing them in half for 2001 and 2002. The respondent claims that the amounts are lower than those established by Statistics Canada, and I agree. The amounts of $1,200 for 2001 and 2002, and $900 for 2003 are retained in the circumstances.
+(i) Groceries
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimates:
+7,000.00
+or half
+7,000.00
+or half
+4,000.00
+According to calculations:
+7,000.00
+7,000.00
+7,000.00
+According to the appellant, he and his spouse live a simple and modest life, which explains his calculations. As a result, he claims the Statistics Canada amounts cannot be used because they are just averages and actual expenses are higher or lower than the average. The respondent claims that the data used as a basis is more realistic than the appellant's data. According to Statistics Canada, it would cost $6,161.26 per year for groceries and restaurants for two adults. The respondent used the amount provided by the appellant, $7,000 per year, but the appellant claims that these expenses were for 2001 and 2002. It is difficult to establish a specific amount for this category based on the evidence submitted. In the circumstances, I find it reasonable to establish this amount arbitrarily at $5,200 per year.
+(j) Clothes
+In this category, the appellant distributed his estimated costs into three categories as follows:
+2001
+$
+2002
+$
+2003
+$
+Shoes
+100(50)
+100(50)
+100
+Clothes
+100(50)
+100(50)
+100
+Cosmetics
+20(10)
+20(10)
+50
+[10] According to the net worth calculations, the respondent established all three at $500 per year. According to Statistics Canada, expenses for two people in this category are $2,091.22 per year. Even if the appellant spends very little in this category, his estimate is still considerably less than the Statistics Canada data. The amounts used by the respondent therefore seem more reasonable in the circumstances and will therefore be retained.
+(k) Hairdresser
+2001
+$
+2002
+$
+2003
+$
+Appellant, according to estimate
+150(75)
+150(75)
+100
+According to calculations
+150
+150
+100
+According to Statistics Canada, expenses for two people in this category are around $377.56 per year. The amounts used by the respondent are more than reasonable in the circumstances and will therefore be retained.
+(l) Personal care
+This category does not appear in the appellant's estimate and the evidence on the category's contents is unclear. It is, however, a realistic expense. According to Statistics Canada, this expense for two people is $837.85 (Tab 17) per year. The respondent puts this amount at $500 per year, which seems reasonable under the circumstances.
+[11] The appellant also asks for the difference to be reduced because he received a $9,500 inheritance from his father at the end of 1999 or beginning of 2000. His father died in June 1998. The payment was made by cheque and he allegedly deposited it to his bank account. He stated he did not have proof of the deposit and did not know whether the money could be traced in his bank account.
+[12] According to the evidence, none of the bank statements indicate this amount was deposited during the years in question. If, however, the amount was deposited to the account before the years in question, the amount would appear in the opening balance sheet of the net worth calculation. If the amount had been used to pay personal or other expenses during the years in question, the evidence submitted does not support that argument. I therefore cannot rule that the difference should be reduced by this amount.
+[13] The appellant also claims that during the three years in question, his two sons, 34 and 31 years old, paid him $50 in room and board per week. They both testified at the hearing to confirm this statement, but the cross-examination created some doubt as to the length of their stay at their parents' house and their ability to pay this room and board for the full three years. At any rate, even if I were to grant this request to reduce the appellant's cost of living, I would then have to increase the grocery expenses, which would produce no overall effect. As such, the difference will not be reduced.
+[14] Lastly, the appellant claims he received $2,000 from his mother in 2001 and $1,000 in 2002 and in 2003. They were gifts for his birthday, in December each year. This is confirmed by a letter signed by his mother and submitted to evidence. The evidence as to what the appellant used this money for is not clear, and neither is the fact the money was deposited. I conclude, however, that it was received and in all likelihood was used to pay personal expenses. I therefore allow the application to reduce the difference for a corresponding amount.
+[15] The appellant's spouse worked for her parents and received compensation in return that she evaluated at around $1,500 for the period of 2000 to 2002. Her mother died in 2002 and she continued to do work for her father shortly thereafter. She received $20 or $40 a week for her services. She admits she occasionally received nothing. The appellant's spouse did not deposit this money and allegedly spent it on herself. Since part of this money was received outside the period in question, I authorize a $500 reduction in the difference per year for the three years in question.
+[16] The following table reflects the calculation based on the conclusions I came to regarding personal expenses:
+December 31,
+2001
+$
+December 31,
+2002
+$
+December 31,
+2003
+$
+Food (groceries)
+5,200.00
+5,200.00
+5,200.00
+Clothes
+500.00
+500.00
+500.00
+Hairdresser
+150.00
+150.00
+100.00
+Personal care
+Medication
+Life and medical insurance
+Car insurance
+Gas / repairs
+Licence
+Registration
+Municipal taxes
+Property insurance
+Mortgage interest
+Electric heating
+Telephone
+Cable - Internet
+Maintenance and repairs (property)
+Other non-challenged expenses
+Total
+500.00
+1,213.00
+1,250.36
+817.35
+1,200.00
+48.00
+221.00
+1,379.86
+804.40
+4,122.25
+1,357.27
+585.00
+500.00
+500.00
+3,264.12
+23,612.61
+500.00
+757.00
+1,250.36
+976.50
+1,200.00
+48.00
+221.00
+1,355.02
+550.45
+4,187.00
+826.21
+648.00
+515.20
+500.00
+1,666.93
+21,051.67
+500.00
+867.00
+1,325.36
+728.70
+900.00
+48.00
+221.00
+1,415.33
+621.70
+3,560.66
+1,498.80
+629.00
+578.52
+500.00
+4,154.71
+23,348.78
+[17] If I transfer the new personal expenses amounts to the net worth calculation as well as the amounts granted at paragraphs 14 and 15, the new difference is $11,611.10 for 2001, $4,319.22 for 2002 and $13,686.27 for 2003. The appellant therefore earned income he did not declare. In the circumstances, the Minister met his burden regarding the penalties and is justified in setting penalties under the Act. This justification is stronger considering the appellant had to realize that once the calculations were made for expenses regarding the mortgage, taxes, car and income tax payments, he had nothing left to live on. The appellant therefore wilfully, or in circumstances equal to gross negligence, made false statements in his income tax reports for the three years in question by not declaring all his income.
+[18] The appeal is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment.
+The present reasons for judgment, amended a second time, replace the amended reasons for judgment dated August 21, 2009.
+Signed at Ottawa, Canada, this 17th day of September 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 20th day of October 2009.
+Elizabeth Tan, Translator
+CITATION: 2009 TCC 359
+COURT FILE NO.: 2007-3132(IT)I
+STYLE OF CAUSE: Jean-Louis Tremblay and Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 23, 2009
+AMENDED REASONS FOR
+JUDGMENT: August 21, 2009
+SECOND AMENDED REASONS
+FOR JUDGMENT: September 17, 2009
+APPEARANCES:
+Counsel for the appellant:
+Benoît Aubertin
+Counsel for the respondent:
+Annick Provencher
+COUNSEL OF RECORD:
+For the appellant:
+Name: Benoît Aubertin
+Firm: De Chantal D'Amour Fortier
+Avocats S.E.N.C.R.L.
+Longueil, Quebec
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

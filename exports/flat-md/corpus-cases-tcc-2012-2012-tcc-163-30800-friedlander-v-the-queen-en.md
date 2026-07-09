@@ -1,0 +1,138 @@
+---
+title: "Friedlander v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30800/index.do"
+last_modified: "2012-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 163"
+citation2: ""
+neutral_citation: "2012 TCC 163"
+decision_date: "2012-03-26"
+language: "en"
+item_id: "30800"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7544
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:31:03.082000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e436c5f1d6d721867e33b5be72bcd6eacf39a759d7d4a920696ec6631481121f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Friedlander v. The Queen
+
+- Citation: 2012 TCC 163
+- Decision date: 2012-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7544, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Friedlander v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-26
+Neutral citation
+2012 TCC 163
+File numbers
+2011-1907(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1907(IT)I
+BETWEEN:
+JACOB FRIEDLANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 26, 2012, at Toronto, Ontario.
+By: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+____________________________________________________________________
+JUDGMENT
+The appeals from T-1-OVP assessments for the Appellant’s 2002, 2003, 2004, 2005, 2006 and 2007 taxation years are hereby allowed in part, and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the subsection 162(1) penalties shall be cancelled.
+Signed at Ottawa, Canada, this 11th day of May 2012.
+"B. Paris"
+Paris J.
+Citation: 2012 TCC 163
+Date: 20120512
+Docket: 2011-1907(IT)I
+BETWEEN:
+JACOB FRIEDLANDER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Friedlander is appealing from assessments of tax, penalties and interest in relation to excess contributions made to an RRSP between 2002 and 2006.
+[2] Mr. Friedlander immigrated to Canada in 2000. His first language is Spanish. In 2002, he wished to set up an investment account at TD Canada Trust. He said that at the time he was not working and not earning any income. He was a stay at home father with two infant children and was also studying. The TD Canada Trust employee he consulted set up an RRSP account for Mr. Friedlander although Mr. Friedlander had not requested an RRSP account. Obviously, an RRSP account was inappropriate for Mr. Friedlander's situation. He told the bank employee that he was looking for an investment, like a U.S. certificate of deposit which is the American equivalent of a term deposit. Instead, the bank employee started an RRSP Mutual Fund account for him.
+[3] Mr. Friedlander deposited a total of $11,450 in the account between 2002 and 2006. He did not claim any deductions for RRSP contributions for those years. Indeed, he had no income in any of those years. The difficulty for Mr. Friedlander, though, was that he had no RRSP contribution room for the 2002 to 2006 taxation years. His deposits to the account were therefore greater than the permissible limit and he had a cumulative excess amount in respect of an RRSP for each of those years. This made him liable to pay a tax under subsection 204.1(2.1), and therefore a person to whom Part X.1 of the Act applied in each of those years. A taxpayer who finds himself in this situation may apply to the Minister of National Revenue under subsection 204.1(4) to waive this tax. This can be accomplished by filing form T3012A whereby he may obtain the Minister’s consent for the financial institution to refund the excess contribution amounts to him without withholding tax. However, as a person to whom Part X.1 of the Act applies, he must file a return under subsection 204.3(1) on form T1-OVP, and pay the tax, within 90 days after the year end, unless the tax has been waived before the end of that 90-day period (see Bowie J. in Pereira-Jennings v. The Queen, 2009 T.C.J. No. 239, at paragraph 1).
+[4] In this case, Mr. Friedlander did not file T1-OVP returns with the Minister until he was notified of the overcontributions in January 2009, when he received a letter from the Canada Revenue Agency (CRA) setting out the problem. The CRA letter referred to an earlier letter supposedly sent to Mr. Friedlander but he said he did not receive it. Since the respondent's counsel stated that the respondent accepted Mr. Friedlander's version of events given in his testimony and respondent's counsel did not cross-examine him on this point, I believe that Mr. Friedlander did not receive the earlier letter. I would also add that I found Mr. Friedlander to be a credible witness.
+[5] Once he became aware of the excess contributions, Mr. Friedlander filed T1‑OVPs for all the taxation years and removed excess contributions from the RRSP account. However, it is undisputed that the T1-OVP forms were not filed nor was the tax paid or waived within 90 days of the end of each taxation year. The Minister therefore assessed Mr. Friedlander for tax under subsection 204.1(2.1) at the rate of one percent of the cumulative excess amount per month plus a penalty under subsection 162(1) of the Act and interest.
+[6] In total, it appears that Mr. Friedlander has been assessed tax, interest, and penalties of approximately $4,350 on the $11,450 of deposits to the account. If Mr. Friedlander has not paid the assessed amounts, interest will continue to accumulate.
+[7] Mr. Friedlander has appealed to this Court seeking relief from the assessments.
+[8] The respondent's position is that this Court has no jurisdiction to waive any of the tax, penalties or interest. As noted earlier in these reasons, subsection 204.1(4) gives the Minister power to waive tax due under 204.1(2.1). Mr. Friedlander did apply to the Minister to waive tax but the Minister refused the application.
+[9] For the purposes of this appeal, it is clear that I do not have the power to vary the Minister's decision to waive tax. However, I do have the power to deal with the penalties assessed under subsection 162(1) for failure to file the T1-OVP returns. Those penalties may be cancelled where a taxpayer has exercised due diligence in relation to the filing requirements.
+[10] In the Pereira-Jennings case, Justice Bowie said at paragraph 7:
+To succeed in a defense of due diligence requires more than passive good faith and good intentions. It requires the taxpayer to present cogent evidence of positive steps taken by the taxpayer to comply with the requirements of the statute.
+[11] However, in the case of Les Residences Majeau v. The Queen, 2010 FCA 28, the Federal Court of Appeal made the following observations concerning circumstances in which a defence of due diligence is available - in particular, referring to a second possibility of proving due diligence not mentioned by Justice Bowie in the Pereira-Jennings decision. I refer to paragraphs 8, 9 and 10 of Les Residences Majeau in which the Federal Court of Appeal said:
+According to Corporation de l’école polytechnique v. Canada, 2004 FCA 127, a defendant may rely on a defence of due diligence if either of the following can be established: That the defendant made a reasonable mistake of fact, or that the defendant took reasonable precautions to avoid the event leading to imposition of the penalty.
+A reasonable mistake of fact requires a two-fold test: subjective and objective. The subjective test is met if the defendant establishes that he or she was mistaken as to a factual situation which, if it had existed, would have made his or her act or omission innocent. In addition, for this aspect of the defence to be effective, the mistake must be reasonable, i.e. a mistake a reasonable person in the same circumstances would have made. This is the objective test.
+As already stated, the second aspect of the defence requires that all reasonable precautions or measures be taken to avoid the event leading to imposition of the penalty.
+[12] In this case, I find that Mr. Friedlander's failure to file the T1-OVP returns was due to a reasonable mistake of fact. It is not disputed by the respondent that Mr. Friedlander was mistaken as to the nature of the account he opened at TD Canada Trust. If he had known the type of account it was, I believe he would have closed it. If the account had been an ordinary investment account, there would have been no requirement to file T1-OVP returns.
+[13] The second aspect of the defence, set out in Les Residence Majeau, is that the mistake must be reasonable. I find that it was. I accept Mr. Friedlander's evidence that the RRSP issue was never discussed or explained by the bank employee, that is Mr. Friedlander never asked for an RRSP account and that if the nature of the account had been explained to him, he would not have chosen to open an RRSP account. It is clear that such an account did not suit his needs at that time.
+[14] I also believe that Mr. Friedlander would likely have relied heavily on the bank employee to choose an appropriate type of account for him given that English was not his first language and that he was new to Canada and unfamiliar with Canadian investment products. I find that the mistake was one a reasonable person in the same circumstances as Mr. Friedlander would have made.
+[15] For these reasons, I find that a due diligence defence has been made out and the penalties should be vacated.
+[16] I would also like to comment on Mr. Friedlander's application to the Minister to waive the tax pursuant to subsection 220(3.1) of the Act. The Minister refused this application on the basis that Mr. Friedlander had not shown that the RRSP excess contributions arose due to a reasonable error. The Minister also took the position that the notations on Mr. Friedlander's notices of assessment for his 2002 to 2006 taxation years, to the effect that he had RRSP unused contributions, should have made him aware that he had made excess contributions.
+[17] I have some observations with respect to the notations on the notices of assessment. Firstly, English is not Mr. Friedlander's first language. It is easy to see how he would not appreciate the significance of the notations regarding unused contributions especially when it was one of many notations, all quite cryptic, on the notices of assessment. Secondly and perhaps more importantly, the reference to unused contributions is not a reference to excess contributions. Even if Mr. Friedlander had been aware of the significance of a reference to excess contributions, there was no reference in this case to excess contributions.
+[18] I would strongly encourage Mr. Friedlander to request a second impartial review of the decision contained in the letter of April 18, 2011 from N. Polychronis which was filed at the hearing and I would strongly urge the person reviewing that decision to take into account my comments in these reasons.
+[19] As a result, the appeal is allowed in part and the penalties are cancelled. I would recommend to Mr. Friedlander that he attach a copy of these reasons to his request for a second review.
+Signed at Ottawa, Canada, this 11th day of May 2012.
+"B. Paris"
+Paris J.
+CITATION: 2012 TCC 163
+COURT FILE NO.: 2011-1907(IT)I
+STYLE OF CAUSE: Jacob Friedlander and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 26, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 11, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

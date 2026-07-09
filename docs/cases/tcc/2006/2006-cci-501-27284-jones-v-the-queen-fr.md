@@ -1,0 +1,168 @@
+---
+title: "Jones v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27284/index.do"
+last_modified: "2006-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 501"
+citation2: ""
+neutral_citation: "2006 CCI 501"
+decision_date: "2006-09-08"
+language: "fr"
+item_id: "27284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 891
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:46:08.141000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c75fcb3507d60d37867ab9d8b7fcea091ad3fb9896586662e5c3989c3405ba4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jones v. The Queen
+
+- Citation: 2006 CCI 501
+- Decision date: 2006-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 891, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jones v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-08
+Référence neutre
+2006 CCI 501
+Numéro de dossier
+2006-1305(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1305(IT)I
+ENTRE :
+DEBORAH JONES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 août 2006 à Nanaimo (Colombie-Britannique)
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Pavanjit Mahil
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que l'appel interjeté à l'encontre d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2004 soit accueilli avec dépens et que la cotisation soit déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l'appelante a le droit de déduire des frais de garde d'enfants supplémentaires d'un montant de 984 $.
+Signé à Toronto (Ontario), ce 8e jour de septembre 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour d'avril 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI501
+Date : 20060908
+Dossier : 2006-1305(IT)I
+ENTRE :
+DEBORAH JONES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question à trancher dans le présent appel est de savoir si une garde parascolaire après l'école est un « service de garde d'enfants » pour les besoins de la déduction pour frais de garde d'enfants prévue par la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] En application de l'article 63 de la Loi, il est permis à un contribuable de déduire des frais de garde d'enfants pour des enfants de moins de 16 ans, sous réserve de maximums fixés, si le service de garde d'enfants est assuré pour permettre au contribuable de travailler.
+[3] La partie pertinente de la définition du terme « frais de garde d'enfants » donnée au paragraphe 63(3) de la Loi est ainsi rédigée :
+« frais de garde d'enfants » Frais engagés au cours d'une année d'imposition dans le but de faire assurer au Canada la garde de tout enfant admissible du contribuable, en le confiant à des services de garde d'enfants, y compris des services de gardienne d'enfants ou de garderie ou des services assurés dans un pensionnat ou dans une colonie de vacances, si les services étaient assurés :
+a) d'une part, pour permettre au contribuable, ou à la personne assumant les frais d'entretien de l'enfant pour l'année, qui résidait avec l'enfant au moment où les frais ont été engagés d'exercer l'une des activités suivantes :
+(i) remplir les fonctions d'une charge ou d'un emploi,
+(ii) exploiter une entreprise, soit seul, soit comme associé participant activement à l'exploitation de l'entreprise,
+[...]
+toutefois ne constituent pas des frais de garde d'enfants :
+c) tous frais de cette nature payés au cours de l'année pour un enfant qui fréquente un pensionnat ou une colonie de vacances, dans la mesure où leur total dépasse le produit de la multiplication du montant périodique de frais de garde d'enfants pour l'enfant pour l'année par le nombre de semaines de l'année pendant lesquelles l'enfant a fréquenté le pensionnat ou la colonie de vacances;
+d) pour plus de précision, les frais médicaux visés au paragraphe 118.2(2) et les autres frais payés au titre des soins médicaux ou hospitaliers, de l'habillement, du transport, de l'éducation et de la pension et du logement, sauf dispositions contraires à la présente définition.
+[Non souligné dans l'original.]
+[4] Dans sa déclaration de revenus pour l'année d'imposition 2004, Deborah Jones a déduit des frais payés au Duncan Dynamics Gymnastics Club qui totalisent 1 415 $. Les frais ont été engagés pour des cours de gymnastique auxquels assistait sa fille, qui avait 12 et 13 ans au cours de la période en cause. Une partie du montant déduit, soit 984 $, était destinée à des cours donnés après l'école et le reste, soit 431 $, était destiné à des colonies de vacances réservées à la gymnastique qui se déroulaient pendant les vacances d'été et la semaine de relâche qui a lieu au printemps.
+[5] Dans une nouvelle cotisation datée du 22 août 2005, le ministre du Revenu national a admis la déduction pour les colonies de vacances réservées à la gymnastique, mais il a refusé la déduction pour les cours donnés après l'école. Mme Jones interjette appel de cette nouvelle cotisation.
+[6] L'appelante exerce un emploi à Duncan, en Colombie-Britannique, à titre de comptable générale licenciée. Selon son témoignage, elle devait faire des arrangements pour la garde de sa fille après l'école jusqu'à ce qu'elle finît de travailler. Mme Jones ne pouvait pas trouver une gardienne et elle a cherché un arrangement qui était abordable et acceptable pour sa fille.
+[7] La solution que Mme Jones a adoptée consistait notamment à inscrire sa fille à des cours de gymnastique donnés deux fois par semaine pendant le semestre scolaire. Pendant les autres jours de la semaine, soit sa fille participait à des activités parascolaires à l'école ou elle attendait après l'école dans le bureau de sa mère.
+[8] Les cours de gymnastique commençaient à 15 h 30 après la fin des classes, et chaque séance durait soit deux ou trois heures. Habituellement, Mme Jones s'absentait brièvement du bureau pour conduire sa fille aux cours.
+[9] Une des raisons pour lesquelles Mme Jones a interjeté appel de la cotisation était qu'il était insensé, à son avis, d'admettre la déduction pour les colonies de vacances réservées à la gymnastique et de refuser la déduction pour les cours donnés après l'école. Mme Jones a été informée par le vérificateur que sa fille était considérée comme étant assez grande pour rester toute seule à la maison après l'école et qu'elle n'avait pas besoin d'être gardée pendant cette période de la journée. Mme Jones est d'accord pour dire que sa fille était assez grande pour pouvoir aller à la maison après l'école, mais elle a dit que sa fille refusait de rester à la maison toute seule jusque tout récemment.
+[10] Pendant le contre-interrogatoire, on a demandé à Mme Jones pourquoi sa fille n'attendait pas tout simplement au bureau de sa mère. Mme Jones a témoigné que c'était une possibilité, mais que ce n'était pas idéal parce qu'il est difficile de travailler avec un enfant à proximité. L'arrangement pris a été décrit par Mme Jones comme une solution de compromis qui était plus ou moins gérable et abordable.
+Analyse
+[11] La question à trancher est de savoir si les cours de gymnastique donnés après l'école auxquels assistait la fille de Mme Jones représentaient des « services de garde d'enfants » pour les besoins de la déduction pour frais de garde d'enfants.
+[12] L'article 63 de la Loi ne donne pas une définition générale du terme « services de garde d'enfants » , mais les services suivants y sont explicitement inclus : services de gardienne d'enfants et de garderie et services assurés dans un pensionnat ou dans une colonie de vacances.
+[13] Compte tenu des décisions publiées, il semble que les contribuables n'aient généralement pas réussi à faire admettre par la Cour la déduction des frais engagés pour des activités récréatives en tant que frais de garde d'enfants. L'avocate de la Couronne m'a renvoyée aux décisions suivantes, qui ont toutes été rendues oralement par la Cour :Levine v. Queen, [1996] 2 C.T.C. 2147; Keefer v. The Queen, [2000] 2 C.T.C. 2622; Bell v. The Queen, [2001] 1 C.T.C. 2308; Sykes v. The Queen, [2005] 3 C.T.C. 2054.
+[14] Dans un bon nombre de ces décisions, la preuve n'indiquait pas clairement que l'activité récréative était vraiment nécessaire pour permettre aux parents de travailler. Mais les tribunaux ont aussi constaté que des activités récréatives telles que des leçons de piano et des cours de gymnastique ne comportent pas, en règle générale, une caractéristique essentielle de la garde d'enfants, qui consiste à « veiller sur » ou à « protéger » l'enfant.
+[15] Pour décider si une activité est un « service de garde d'enfants » dans une cause donnée, j'accepte le critère décrit récemment par le juge Rip dans la décision Bailey v. The Queen, 2005 D.T.C. 673 (C.C.I.). La question essentielle est de savoir quelle est la principale raison pour laquelle l'enfant a été inscrit à l'activité.
+[16] Dans l'affaire Bailey, une mère a déduit des frais payés à une école privée pour un enfant qui avait presque l'âge minimum requis pour aller à l'école publique. Le juge a examiné toutes les circonstances de l'affaire et a conclu qu'en inscrivant l'enfant à l'école la contribuable avait cherché à assurer la garde de son enfant et que l'aspect éducatif était accessoire.
+[17] Dans la décisionBailey, la Couronne a fait valoir que le service offert par l'école privée était essentiellement éducatif et que, pour cette raison, les frais étaient assujettis à l'exclusion visant les frais payés au titre de l' « éducation » , laquelle est établie dans la définition du terme « frais de garde d'enfants » .
+[18] Le juge Rip a rejeté cet argument au motif qu'il était contraire à l'objet de la Loi qui était d'aider les parents qui travaillent à payer leurs frais de garde d'enfants. Au paragraphe 13 de sa décision, il a dit :
+Le législateur a adopté cette disposition dans le but d'aider les parents qui travaillent en leur donnant une subvention pour les frais de garde d'enfants au moyen d'une déduction. Compte tenu du but de la disposition, il est difficile d'accepter la conclusion du ministre selon laquelle les frais engagés pour veiller sur l'enfant de parents qui travaillent doivent être refusés uniquement parce qu'ils comportent un élément relatif à l'éducation. Une telle interprétation dénaturerait clairement l'intention du législateur car elle exclurait probablement tous les types de frais de garde d'enfants, et plus particulièrement ceux relatifs à un jeune enfant; en effet, pour un jeune enfant, presque toutes les interactions positives constituent de l'éducation - que ce soit la discipline, les émissions télévisées, les histoires ou les jeux.
+[19] À mon avis, des considérations semblables s'appliquent aux activités récréatives. Des frais qui seraient autrement des frais de garde d'enfants authentiques ne doivent pas être refusés uniquement parce que l'activité est de nature récréative.
+[20] Les décisions traitant des frais afférents à des activités récréatives sont généralement conformes au critère établi dans la décisionBailey et se fondent sur la principale raison pour laquelle les frais ont été engagés. Dans l'ensemble, les décisions en question ne portent pas que les activités récréatives telles que des cours de gymnastique ne peuvent jamais être des services de garde d'enfants, et je pense qu'une telle interprétation serait incompatible avec l'interprétation téléologique de la Loi décrite dans la décision Bailey.
+[21] Compte tenu des circonstances de la présente affaire, je conclus que la principale raison pour laquelle la fille de Mme Jones a été inscrite à des cours de gymnastique donnés après l'école était d'assurer la garde de l'enfant pour permettre à Mme Jones de remplir les fonctions d'un emploi.
+[22] Mme Jones était un témoin crédible qui a rendu compte de manière détaillée et franche des circonstances relatives aux frais en cause. Compte tenu de son témoignage, je suis d'accord pour dire qu'elle a décidé d'inscrire sa fille aux cours de gymnastique pour lui permettre de remplir les fonctions de son emploi.
+[23] L'option selon laquelle la fille de Mme Jones resterait à la maison n'était pas viable puisque sa fille refusait de le faire. Et, bien que sa fille ait pu attendre au lieu de travail de sa mère, il ne s'agissait clairement pas d'une solution de rechange idéale.
+[24] Je suis convaincue que les leçons données après l'école constituaient des arrangements raisonnables pour la garde d'un enfant dans les circonstances et que les frais ont été engagés pour permettre à Mme Jones de remplir les fonctions de son emploi. Je souscris aussi à l'argument avancé par Mme Jones selon lequel, puisque la Loi admet la déduction pour des enfants de moins de 16 ans, il est approprié d'admettre les déductions pour des activités qui conviennent à l'âge de l'enfant.
+[25] J'arrive donc à la conclusion que, vu l'ensemble des faits de la présente affaire, les frais payés par Mme Jones pour des cours de gymnastique donnés après l'école sont déductibles en application de l'article 63 de la Loi. L'appel est accueilli avec dépens, et la cotisation est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que Mme Jones a le droit de déduire des frais de garde d'enfants supplémentaires d'un montant de 984 $.
+Signé à Toronto (Ontario), ce 8e jour de septembre 2006.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 2e jour d'avril 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI501
+N º DU DOSSIER DE LA COUR :
+2006-1305(IT)I
+INTITULÉ :
+Deborah Jones et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Nanaimo (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 17 août 2006
+MOTIFS DU JUGEMENT :
+L'honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 8 septembre 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Pavanjit Mahil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

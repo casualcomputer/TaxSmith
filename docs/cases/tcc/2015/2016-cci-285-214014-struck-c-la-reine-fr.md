@@ -1,0 +1,153 @@
+---
+title: "Struck c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/214014/index.do"
+last_modified: "2015-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 285"
+citation2: ""
+neutral_citation: "2016 CCI 285"
+decision_date: "2015-10-16"
+language: "fr"
+item_id: "214014"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2950
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:20:44.604000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d79a29460b5708d893c6c0ada64a6ace4ed783c214bf4f589aaefd4faf01d303"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Struck c. La Reine
+
+- Citation: 2016 CCI 285
+- Decision date: 2015-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2950, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Struck c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-16
+Référence neutre
+2016 CCI 285
+Numéro de dossier
+2015-2253(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2016CCI285
+Date : 20161208
+Dossier : 2015-2253(IT)I
+ENTRE :
+BERND STRUCK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 8 octobre 2015, à Victoria (Colombie‑Britannique))
+La juge Miller
+[1] Le ministre du Revenu national (le « ministre ») a déterminé que l’appelant n’avait pas droit à la Prestation fiscale canadienne pour enfants (la « PFCE ») pour l’année d’imposition de base 2012 (juillet 2013 à juin 2014) et qu’il avait reçu un présumé paiement en trop de 1 433 $. Le ministre a également déterminé qu’il n’avait pas droit au crédit pour la taxe sur les produits et services (le « CTPS ») pour l’année d’imposition de base 2012 (périodes trimestrielles de juillet 2013 à juin 2014) et qu’il avait reçu un présumé paiement en trop de 404 $. L’appelant a interjeté appel de ces deux déterminations.
+[2] La question en litige dans le présent appel consiste à savoir si l’appelant était le « particulier admissible » à recevoir la PFCE et le CTPS pour son enfant, S.S. (l’« enfant ») au cours de la période de juillet 2013 à juin 2014.
+Les faits [3] L’appelant et son ex-conjointe, Lisa Morris, ont témoigné à l’audience. J’ai trouvé les deux témoins crédibles et, en général, il n’y a pas eu de désaccord entre leurs témoignages.
+[4] Lisa Morris est la mère de l’enfant, qui est née le 19 novembre 2001. L’appelant a déclaré que Lisa Morris et lui se sont séparés avant la naissance de leur enfant.
+[5] En 2003, la Cour provinciale de la Colombie-Britannique (Cour familiale) a ordonné que l’appelant aurait la garde exclusive de l’enfant et que Lisa Morris aurait un [traduction] « généreux droit de visite » à l’égard de cette dernière. Par une [traduction] « ordonnance définitive » datée du 23 mai 2014, le juge Quantz de la Cour provinciale de la Colombie-Britannique a essentiellement confirmé les dispositions en matière de garde et de droits de visite que prévoyait l’ordonnance de 2003 et il a ordonné que les parties ne présentent aucune demande au sujet de la [traduction] « période de parentage » avant d’avoir pris part à des séances de médiation.
+[6] Selon l’appelant, le juge Quantz s’est entretenu avec l’enfant et a dit aux deux parents que celle-ci pouvait choisir l’endroit où elle voulait vivre.
+[7] En mai 2013, Lisa Morris a déménagé de Parksville à Saanichton, où vivait l’appelant, afin de pouvoir rendre davantage visite à son enfant. Elle s’est installée à distance de marche du domicile de l’appelant. Ce dernier a déclaré avoir laissé S.S. choisir si elle vivrait avec lui ou avec sa mère.
+[8] L’appelant a déclaré qu’au cours de la période en cause, l’enfant a vécu au domicile de sa mère la majeure partie du temps. Lisa Morris a déclaré que l’enfant a vécu avec elle plus de 75 % du temps au cours de la période en cause.
+Le droit applicable [9] Pour les besoins de la PFCE, la définition d’un « particulier admissible » figure à l’article 122.6 de la Loi de l’impôt sur le revenu :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui :
+(i) assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui n’est pas un parent ayant la garde partagée à l’égard de celle-ci,
+(ii) est un parent ayant la garde partagée à l’égard de la personne à charge;
+c) elle réside au Canada ou, si elle est l’époux ou conjoint de fait visé d’une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l’année d’imposition qui comprend ce moment, y a résidé au cours d’une année d’imposition antérieure;
+d) elle n’est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l’immigration et la protection des réfugiés,
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration.
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+[10] Pour l’application des alinéas f) et g) de cette définition, l’article 6301 du Règlement de l’impôt sur le revenu prescrit :
+(1) Pour l’application de l’alinéa g) de la définition de « particulier admissible » à l’article 122.6 de la Loi, la présomption mentionnée à l’alinéa f) de cette définition ne s’applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu’elle réside avec le père de cette personne et qu’il est celui qui assume principalement la responsabilité pour le soin et l’éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d’un particulier admissible et chacun d’eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la personne à charge admissible;
+c) la personne à charge admissible a plus d’une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la personne à charge admissible;
+d) plus d’une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible qui réside avec chacune d’elles à des endroits différents.
+[11] Pour ce qui est de l’alinéa h), les critères prévus sont énoncés à l’article 6302 du Règlement de l’impôt sur le revenu :
+6302. Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+Analyse [12] L’alinéa a) de la définition d’un « particulier admissible » exige que la personne « réside » avec l’enfant au cours de la période en cause. Le mot « résider » signifie habituellement « vivre dans la même maison que quelqu’un d’autre » : Burton c. La Reine, [2000] 1 CTC 2727 (CCI). Dans le contexte de l’article 122.6, le mot « réside » a été interprété comme signifiant un « lieu de résidence établi et habituel » : S.R. c. La Reine, 2003 CCI 649, ou le fait de vivre habituellement avec quelqu’un. Il ressort de la preuve qu’entre les mois de juillet 2013 et de juin 2014, l’enfant a vécu avec Lisa Morris plus de 75 % du temps. Je suis d’avis que l’enfant a résidé avec Lisa Morris au cours de la période en cause.
+[13] Selon l’alinéa 122.6b), le « particulier admissible » est le parent de l’enfant qui « assume principalement la responsabilité pour le soin et l’éducation » de l’enfant. La preuve me permet de conclure que les deux parents ont contribué au soin et à l’éducation de leur enfant au cours de la période en cause. Tous deux ont pris soin d’elle et ont passé du temps avec elle; tous deux se sont occupés de ses besoins médicaux. Cependant, comme il ressort de la preuve que l’enfant a résidé avec sa mère au cours de la période en cause, je suis d’avis que les présomptions énoncées à l’alinéa 122.6f) s’appliquent aux faits de l’espèce. J’ai conclu que Lisa Morris a assumé principalement la responsabilité du soin et de l’éducation de l’enfant au cours de la période en cause.
+[14] L’appelant a exprimé l’avis qu’il était le « particulier admissible » parce qu’il avait la garde exclusive de l’enfant. Je conviens qu’il avait la garde exclusive, mais il ne s’agit là que de l’un des facteurs qu’il faut prendre en compte pour déterminer ce qui constitue le soin et l’éducation de l’enfant pour l’application de l’alinéa h) de la définition d’un « particulier admissible ». Ce facteur n’est pas déterminant : Delage c. La Reine, 2009 CCI 119, au paragraphe 11.
+[15] En conclusion, Lisa Morris a été le « particulier admissible » au cours de la période de juillet 2013 à juin 2014 et elle était en droit de recevoir la PFCE et le CTPS pour cette période. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2016.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de janvier 2017.
+Claude Leclerc, LL.B.
+RÉFÉRENCE :
+2016CCI285
+No DU DOSSIER DE LA COUR :
+2015-2253(IT)I
+INTITULÉ :
+BERND STRUCK c LA REINE
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 7 octobre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 16 octobre 2015
+DATE DES MOTIFS : Le 8 décembre 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

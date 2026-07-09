@@ -1,0 +1,195 @@
+---
+title: "Virk c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28055/index.do"
+last_modified: "2003-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 488"
+citation2: ""
+neutral_citation: "2003 CCI 488"
+decision_date: "2003-07-14"
+language: "fr"
+item_id: "28055"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1575
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:59:38.940000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1796d3c7a9499cc4bd86af5d98c869299cf24201be990ca2b0dceaacf94fdee6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virk c. M.R.N.
+
+- Citation: 2003 CCI 488
+- Decision date: 2003-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1575, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virk c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-14
+Référence neutre
+2003 CCI 488
+Numéro de dossier
+2003-359(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier: 2003-359(EI)
+ENTRE :
+MOHINDER KAUR VIRK,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 juin 2003 à Vancouver (Colombie‑Britannique),
+Devant : L’honorable juge L. M. Little
+Comparutions
+Représentant de l’appelante :
+Daljit Dhanoa
+Avocat de l’intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté sans frais et la décision de la ministre du Revenu national est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 14e jour de juillet 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Dossier: 2003‑360(CPP)
+ENTRE :
+MOHINDER KAUR VIRK,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 juin 2003 à Vancouver (Colombie‑Britannique),
+Devant : L’honorable juge L. M. Little
+Comparutions
+Représentant de l’appelante :
+Daljit Dhanoa
+Avocat de l’intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté sans frais et la décision de la ministre du Revenu national est confirmée conformément aux motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 14e jour de juillet 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence: 2003CCI488
+Date: 20030714
+Dossiers: 2003-359(EI)
+2003-360(CPP)
+ENTRE :
+MOHINDER KAUR VIRK,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L’appelante affirme qu’elle a occupé un emploi auprès de l’entreprise Brar Blueberry Farms (l’entreprise « Brar ») pendant la période du 22 juillet au 13 octobre 2001 (la « période en question »).
+[2] Pendant la période en question, l’entreprise Brar était propriétaire d’environ neuf acres de terrain situés au 34643 Townshipline Road, à Abbotsford, en C.‑B. Des bleuetiers étaient plantés sur environ sept acres.
+[3] L’appelante affirme que, pendant la période en question, elle a travaillé pour le compte de l’entreprise Brar. Elle a expliqué que ses tâches consistaient à cueillir des bleuets, à semer et à mettre de la sciure de bois autour des bleuetiers.
+[4] L’avocat de l’intimée a déposé en preuve un formulaire désigné sous le nom de « gains de l’employée » (pièce R‑5). Ledit formulaire indique les heures qu’a travaillées l’appelante pour le compte de l’entreprise Brar de la façon suivante :
+Heures
+Du 22 au 31 juillet
+73
+Du 1er au 31 août
+309
+Du 1er au 30 septembre
+312
+Du 1er au 13 octobre
+64
+758
+(Remarque – ce formulaire indique également que l’appelante a travaillé pendant 94 jours consécutifs pour le compte de l’entreprise Brar, à compter du 22 juillet jusqu’au 13 octobre 2001 sans aucun jour de congé. Le nombre le plus bas d’heures de travail consignées était de six heures par jour. Quant au nombre le plus élevé, il s’élève à 12 heures par jour.)
+[5] L’entreprise Brar a délivré un relevé d’emploi indiquant que l’appelante avait travaillé 805 heures pendant la période en question. Selon les explications fournies, l’écart entre le total d’heures de travail, soit l’écart entre 758 heures et 805 heures découle de la méthode qu’utilisait l’entreprise Brar pour calculer les heures supplémentaires (méthode que l’avocat de l’appelante a reconnu comme incorrecte).
+[6] Le 18 octobre 2001, l’appelante a signé un relevé d’emploi indiquant qu’elle avait cumulé 805 heures de travail pendant la période en question.
+[7] L’appelante soutient qu’elle est admissible à des prestations pour la période en question en vertu de la Loi sur l’assurance‑emploi (la « Loi sur l’a.‑e. ») et que l’emploi qu’elle occupait toujours pendant la période en question était un emploi ouvrant droit à pension aux termes du Régime de pensions du Canada (le « Régime »).
+[8] La ministre a rejeté la demande que l’appelante a déposée en vertu de la Loi sur l’a.‑e. pour les motifs suivants (paragraphes 6, 7 et 8 de la Réponse à l’avis d’appel) :
+[Traduction]
+6. elle s’appuie sur l’alinéa 5(1)a), le paragraphe 2(1) et l’article 91 de la Loi sur l’a.‑e., telle qu’elle a été modifiée;
+7. elle soutient qu’elle a correctement établi que l’appelante n’exerçait pas un emploi assurable auprès de l’entreprise Brar pendant la période en question parce qu’elle n’a pas été engagée en vertu d’un contrat de louage de services aux termes de l’alinéa 5(1)a) de la Loi sur l’a.‑e.;
+8. elle soutient que le RE et le chèque qu’a délivrés l’entreprise Brar à l’appelante étaient des documents factices conçus pour faire croire que l’appelante avait bel et bien travaillé et qu’elle avait cumulé suffisamment d’heures d’emploi assurable pour être admissible à des prestations d’assurance‑emploi.
+[9] La ministre a également rejeté la demande qu’avait déposée l’appelante en vertu du Régime pour le motif suivant (paragraphe 7 de la Réponse à l’avis d’appel) :
+[Traduction]
+7. Elle soutient respectueusement qu’elle a correctement établi que l’appelante n’exerçait pas un emploi ouvrant droit à pension auprès de l’entreprise Brar pendant la période en question parce qu’elle n’a pas été engagée en vertu d’un contrat de louage de services aux termes de l’alinéa 6(1)a) du Régime.
+B. QUESTIONS FISCALES
+[10] a) L’appelante est‑elle admissible à des prestations en vertu de la
+Loi sur l’a.‑e.?
+b) L’appelante occupait‑elle un emploi ouvrant droit à pension pendant la période en question aux termes de l’alinéa 6(1)a) du Régime?
+C. ANALYSE
+[11] L’avocat de l’intimée a appelé à témoigner Harby Rai (« Mme Rai »), une agente de l’Agence des douanes et du revenu du Canada (« ADRC »).
+[12] Mme Rai a témoigné qu’elle avait interrogé M. Jarnail Singh Brar (le propriétaire de l’entreprise Brar Blueberry Farms) ainsi que l’appelante. Mme Rai a déposé en preuve un compte rendu des discussions qui se sont tenues au cours de ces entretiens (pièce R‑7).
+[13] Mme Rai a constaté que les réponses qu’avaient fournies M. Brar et l’appelante comportaient de nombreuses contradictions. Une analyse approfondie du rapport de Mme Rai démontre les contradictions suivantes entre les diverses réponses fournies.
+[14] Les questions suivantes sont celles qu’a posées Mme Rai à M. Brar et à l’appelante :
+Question
+Qui passait prendre et déposait Mohinder Kaur Virk chaque jour à son travail?
+Réponse de M. Brar
+En général, c’était un membre de sa famille qui passait la prendre et la déposait au travail. Quelquefois, si elle n’avait personne pour la conduire, il pouvait lui fournir le transport (page 4).
+Réponse de l’appelante
+Tous les jours, Jarnail passait la prendre et la déposait à son travail, quelquefois en camionnette, quelquefois en voiture. Il passait prendre en même temps deux autres travailleurs (page 3).
+Question
+Les travailleurs agricoles contractuels avaient-ils, comme l’appelante, la tâche de désherber?
+Réponse de M. Brar
+Non. La seule tâche des travailleurs agricoles contractuels consistait à cueillir des bleuets. Ils n’accomplissaient aucune autre tâche (page 6).
+Réponse de l’appelante
+Oui, les ouvriers agricoles contractuels avaient également pour tâche de désherber (page 4).
+Autre réponse s’occupaient avec elle qu’a fournie l’appelante : les travailleurs du désherbage (page 4).
+Question
+Quelqu’un d’autre aidait‑il Mohinder Kaur Virk à mettre de la sciure de bois autour des bleuetiers?
+Réponse de M. Brar
+Elle s’occupait elle-même de cette tâche. Elle remplissait elle-même la brouette et la transportait jusqu’aux plants. Quelquefois, les enfants lui donnaient également un coup de main. La sciure de bois était à proximité des plants de bleuets. Quant à lui, il n’a jamais aidé l’appelante à mettre de la sciure de bois autour des plants (page 6).
+Réponse de l’appelante
+Jarnail lui‑même l’aidait à mettre de la sciure de bois autour des bleuetiers. Jarnail chargeait la brouette de sciure de bois, puis l’appelante remplissait son seau à même le contenu de la brouette et en mettait autour des bleuetiers (page 5).
+Question – Mohinder Kaur Virk était‑elle rémunérée à la semaine, toutes les deux semaines ou au mois? Combien de payes Mohinder Kaur Virk a-t-elle perçues en 2001?
+Réponse de Jarnail
+S’il se souvient bien, l’appelante a perçu un seul chèque totalisant toutes ses heures de travail à la fin de la saison (page 12).
+Réponse de l’appelante
+J’étais rémunérée par chèque toutes les deux semaines. J’ai également perçu un autre chèque couvrant le solde qui m’était dû (page 9).
+[15] Le rapport contenait un bon nombre d’autres contradictions entre les diverses réponses qu’ont fournies M. Brar et l’appelante.
+[16] Il incombe à l’appelante d’établir, selon la prépondérance des probabilités, que l’emploi qu’elle exerçait l’était en vertu d’un contrat de louage de services, qu’elle a effectivement travaillé le nombre d’heures qui figurent dans la pièce R-5 et qu’elle a perçu les montants qui apparaissent sur son RE (pièce R-6).
+[17] En analysant les faits qui m’ont été présentés, et tout particulièrement les contradictions dont il est fait mention précédemment, je conclus que l’appelante ne s’est pas acquittée du fardeau d’établir que la ministre avait commis une erreur en rejetant sa demande de prestations pour la période en question en vertu de la Loi sur l’assurance-emploi.
+[18] Je conclus également que l’appelante ne s’est pas acquittée du fardeau d’établir que la ministre avait commis une erreur en refusant d’admettre que l’emploi qu’elle avait exercé pendant la période en question était un emploi ouvrant droit à pension en vertu du Régime.
+[19] Par conséquent, les appels sont rejetés sans frais et la décision de la ministre est confirmée.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de juillet 2003.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice

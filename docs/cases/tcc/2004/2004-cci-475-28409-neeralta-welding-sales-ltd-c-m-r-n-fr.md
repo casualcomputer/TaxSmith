@@ -1,0 +1,322 @@
+---
+title: "Neeralta Welding & Sales Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28409/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 475"
+citation2: ""
+neutral_citation: "2004 CCI 475"
+decision_date: "2004-06-29"
+language: "fr"
+item_id: "28409"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1208
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:17:09.853000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e37c2bf0f582b00b2e061e7e619586452c8bdeb01cc3dec52c86d282fed489b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Neeralta Welding & Sales Ltd. c. M.R.N.
+
+- Citation: 2004 CCI 475
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1208, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neeralta Welding & Sales Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 475
+Numéro de dossier
+2002-4259(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-4259(EI)
+ENTRE :
+NEERALTA WELDING & SALES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] __________________________________________________________________
+Appel entendu sur preuve commune avec les appels de John Wierenga (2002‑4261(EI)) et de Robert Wierenga (2002-4260(EI)) à Edmonton (Alberta), le 24 mars 2004.
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+___________________________________________________________________
+JUGEMENT
+L’appel de la décision que le ministre du Revenu national a rendue en vertu de la Loi sur l’assurance-emploi est accueilli et la décision selon laquelle John et Robert Wierenga exerçaient un emploi assurable auprès de Neeralta Welding & Sales Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Dossier : 2002-4261(EI)
+ENTRE :
+JOHN WIERENGA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Neeralta Welding & Sales Ltd. (2002-4259(EI)) et de Robert Wierenga (2002‑4260(EI)) à Edmonton (Alberta), le 24 mars 2004.
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelant :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision que le ministre du Revenu national a rendue en vertu de la Loi sur l’assurance-emploi est accueilli et la décision selon laquelle John Wierenga exerçait un emploi assurable auprès de Neeralta Welding & Sales Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Dossier : 2002-4260(EI)
+ENTRE :
+ROBERT WIERENGA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Neeralta Welding & Sales Ltd. (2002-4259(EI)) et de John Wierenga (2002‑4261(EI)) à Edmonton (Alberta),
+le 24 mars 2004.
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelant :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel de la décision que le ministre du Revenu national a rendue en vertu de la Loi sur l’assurance-emploi est accueilli et la décision selon laquelle Robert Wierenga exerçait un emploi assurable auprès de Neeralta Welding & Sales Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI475
+Date : 2004-06-29
+Dossier: 2002-4259(EI)
+ENTRE :
+NEERALTA WELDING & SALES LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé;
+et
+Dossier : 2002-4261(EI)
+ET ENTRE :
+JOHN WIERENGA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé;
+Dossier : 2002-4260(EI)
+ET ENTRE :
+ROBERT WIERENGA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’appels interjetés par John Wierenga, par son frère Robert Wierenga et par leur employeur Neeralta Welding & Sales Ltd. à l’encontre de décisions dans lesquelles le ministre du Revenu national a conclu que, pendant la période allant du mois de janvier 2001 au 22 mars 2002, les frères exerçaient un emploi assurable pour l’application de la Loi sur l’assurance-emploi. Les appels ont été entendus ensemble sur preuve commune.
+[2] Les actions de Neeralta Welding appartiennent aux parents des frères, Bert et Tena Wierenga. La société, qui est établie dans une petite ville située près d’Edmonton (Alberta), a été constituée par Bert Wierenga, qui est compagnon soudeur de profession. L’entreprise s’occupe à la fois de fabrication, d’installation sur mesure et de ventes, ces tâches étant toutes reliées d’une façon ou d’une autre au soudage. Pendant la période pertinente, la société employait le père, les deux fils et trois ou quatre employés sans lien de dépendance. Le père gérait l’entreprise. John, âgé de 29 ans, était également compagnon soudeur et s’occupait à tous les égards de l’entreprise, notamment de la commercialisation, de la supervision, du soudage et du travail de bureau. Robert, âgé de 23 ans, n’est pas soudeur et, pendant la période pertinente, il était responsable du bureau.
+[3] En ce qui concerne l’exercice d’un emploi assurable en vertu de la Loi sur l’assurance-emploi, l’emploi d’une personne qui est liée à l’employeur, comme l’étaient les deux frères Wierenga, est exclu à moins que le ministre ne soit convaincu que les modalités d’emploi sont à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance.
+[4] Ces appels résultaient d’une demande de remboursement des cotisations versées au titre de l’assurance-emploi. Le ministre a conclu que les modalités étaient à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance et il a décidé que l’emploi était assurable.
+Dispositions législatives applicables
+[5] Les dispositions législatives pertinentes figurent aux alinéas 5(2)i) et (3)b) de la Loi sur l’assurance-emploi et sont libellées comme suit :
+(2) N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+[...]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+(Je souligne)
+[6] Il s’agissait d’un de quatre appels que j’ai entendus à Edmonton (Alberta) sur une période d’une semaine. Dans les motifs que j’ai prononcés dans une des autres affaires, C&B Woodcraft Ltd., j’ai fait des remarques générales sur la portée de ces dispositions. Je ne reprendrai pas cet examen.
+La décision du ministre
+[7] Le ministre a conclu que John et Robert Wierenga exerçaient un emploi assurable puisque leurs modalités d’emploi étaient à peu près semblables à celles qui s’appliqueraient en l’absence d’un lien de dépendance. Les faits sur lesquels le ministre s’est fondé sont énoncés en tant qu’hypothèses de fait dans les actes de procédure et sont repris à l’appendice de ces motifs.
+[8] Le père et les deux fils ont tous témoigné à l’audience. En me fondant sur leur témoignage, je conclus que le ministre n’a pas tenu compte de plusieurs faits qui auraient dû influer sur sa décision, notamment :
+- Le ministre a omis de tenir compte du nombre d’heures que John Wierenga consacrait à l’entreprise. Il a supposé que John Wierenga effectuait 40 heures de travail par semaine et qu’il assistait à certains congrès d’éleveurs d’élans. En me fondant sur le témoignage de John Wierenga, je conclus que ce dernier effectuait un nombre beaucoup plus élevé d’heures de travail. John Wierenga a témoigné qu’il travaillait environ 60 heures par semaine. Les estimations qu’une personne fait au sujet du nombre d’heures travaillées pourraient être considérées avec une certaine circonspection étant donné que les heures ne sont pas consignées par écrit, mais compte tenu des tâches qu’il a décrites, je reconnais que John Wierenga effectuait chaque semaine près de ce nombre d’heures.
+- Le ministre n’a pas tenu compte du fait que les frères n’étaient pas rétribués pour tout le travail qu’ils accomplissaient. John Wierenga était rétribué à l’heure pour le nombre d’heures consignées, soit environ 42 à 45 heures par semaine, c’est‑à‑dire à peu près le nombre d’heures pendant lesquelles l’atelier était ouvert. John Wierenga effectuait un grand nombre d’heures de travail pour lesquelles il n’était pas rétribué. Robert Wierenga était également rétribué à l’heure pour les heures consignées, soit environ 25 à 30 heures par semaine, ce qui correspondait au nombre d’heures qu’il passait au bureau. Robert exécutait ailleurs qu’au bureau certaines tâches sans consigner le nombre d’heures qu’il y consacrait et sans être rétribué.
+- Le ministre était au courant du salaire horaire versé aux deux frères, mais il n’a pas tenu compte du fait que le salaire de Robert Wierenga était en partie fondé sur ses besoins financiers. En effet, Robert Wierenga est atteint d’une déficience physique, de sorte que le type de travail qu’il peut exécuter et le nombre d’heures qu’il peut travailler sont assujettis à certaines restrictions. Étant donné qu’il était uniquement rétribué pour les heures consignées, soit 25 à 30 heures par semaine, sa rétribution n’était pas très élevée. Bert Wierenga a témoigné qu’il avait augmenté de beaucoup le salaire de son fils afin de l’aider.
+- Le ministre a tenu compte du fait qu’à un moment donné, John Wierenga avait aidé à financer l’entreprise, mais il a supposé que c’était un incident isolé. Or, John Wierenga a apporté sa participation financière à des projets à deux autres reprises, ce dont le ministre n’a pas tenu compte.
+- Le ministre n’a pas tenu compte du fait qu’un grand nombre de tâches confiées à Robert Wierenga ne seraient probablement pas accomplies par un employé sans lien de dépendance. Pendant la période pertinente, Robert se chargeait de diverses tâches; ainsi il allait chercher les fournitures et il nettoyait l’atelier. Plus récemment, il accomplissait moins de travail pour Neeralta et, à l’heure actuelle, il s’occupe uniquement de la tenue de livres, ce qui lui prend une dizaine d’heures par semaine. Personne ne l’a remplacé pour exécuter les autres tâches qu’il accomplissait auparavant. Cela étant, je conclus que Neeralta Welding n’aurait pas embauché un employé sans lien de dépendance pour accomplir les tâches dont Robert Wierenga se chargeait à part la tenue de livres. Un petit atelier de soudage ne serait généralement pas en mesure d’embaucher quelqu’un pour accomplir des tâches diverses, par exemple pour aller chercher des fournitures et pour faire des travaux de nettoyage. Les modalités d’emploi de Robert Wierenga étaient clairement fondées sur le fait que le père essayait d’aider son fils.
+- Le ministre a reconnu que John Wierenga avait droit à quatre semaines de vacances, mais il n’a pas tenu compte du fait que celui‑ci n’en prenait que deux.
+- Le ministre n’a pas tenu compte du fait que tous les frais engagés par les frères dans l’exercice de leurs fonctions ne leur étaient pas remboursés par l’entreprise. Les frères engageaient des dépenses reliées à l’entreprise lorsqu’ils utilisaient leurs téléphones cellulaires et assistaient à des congrès. D’autre part, toutes les dépenses reliées à l’entreprise engagées par les employés sans lien de dépendance étaient remboursées.
+- Le ministre n’a pas tenu compte du fait que John Wierenga utilisait l’atelier pour une entreprise de rembourrage qu’il exploitait accessoirement.
+- Le ministre n’a pas tenu compte du fait que Robert Wierenga avait suivi un cours d’informatique afin d’aider l’entreprise et qu’il n’avait pas été rétribué pour le temps consacré à ce cours.
+[9] Considérés ensemble, ces facteurs indiquent que les modalités d’emploi dont le ministre a tenu compte étaient passablement différentes des modalités qui s’appliquaient en fait à John et à Robert Wierenga. Pour ce motif, j’ai conclu que la décision du ministre n’est pas justifiable.
+Les modalités d’emploi sont-elles des modalités qui s’appliqueraient en l’absence d’un lien de dépendance?
+[10] Le critère de l’absence de lien de dépendance prévu à l’alinéa 5(3)b) exige une comparaison entre les modalités d’emploi qui existent réellement et les modalités qui s’appliqueraient peut-être s’il n’y avait pas de lien de dépendance entre les frères Wierenga et Neeralta Welding. Cet appel est semblable à d’autres appels que j’ai entendus au cours de la même semaine et dans lesquels étaient en cause des entreprises gérées par les pères des appelants, ce qui influait énormément sur les relations de travail. Il serait surprenant que ce ne soit pas le cas. En général, les enfants qui travaillent dans une petite entreprise familiale tendent à effectuer des heures supplémentaires pour lesquelles ils ne sont pas rétribués; ils ont tendance à demander moins souvent à être remboursés des dépenses reliées à l’emploi qu’ils ont engagées et ils ont tendance à brouiller les distinctions entre le matériel appartenant à l’employeur et le matériel appartenant à la famille. D’autre part, les pères tendent à faire davantage confiance aux membres de la famille et à leur confier des responsabilités plus lourdes que celles qu’ils attribueraient à des employés sans lien de dépendance; de plus, ils ont tendance à faire participer davantage les membres de la famille aux décisions importantes qui sont prises au sujet de l’entreprise et aux affaires financières de l’entreprise. Les pères pourraient également se montrer moins sévères lorsque leurs enfants prennent des congés pour vaquer à leurs affaires personnelles et la rétribution versée aux enfants pourrait bien dépendre de la situation personnelle de ceux‑ci.
+[11] Un certain nombre de facteurs qui n’existent normalement pas en l’absence d’un lien de dépendance ont certes influé sur les modalités d’emploi de John et de Robert Wierenga. Ces facteurs sont énumérés ci‑dessus et il n’est pas nécessaire de les reprendre. Pour ces motifs, je conclus que les modalités d’emploi de John et de Robert Wierenga ne sont pas à peu près semblables à celles qui existeraient s’ils n’avaient pas eu de lien de dépendance avec leur employeur.
+Conclusion
+[12] Les appels sont accueillis et la décision du ministre selon laquelle John et Robert Wierenga exerçaient un emploi assurable est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+[traduction]
+APPENDICE
+Hypothèses de fait
+Dans sa décision, le ministre s’est fondé sur les hypothèses de fait ci-après énoncées :
+a) Bert Wierenga et Tena Wierenga possèdent chacun 50 p. 100 des actions avec droit de vote de l’appelante;
+b) Bert Wierenga et Tena Wierenga sont mariés l’un à l’autre;
+c) les travailleurs sont les fils de Bert Wierenga et de Tena Wierenga;
+d) les travailleurs et l’appelante sont liés entre eux au sens de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, dans sa forme modifiée (la « Loi »);
+e) l’appelante exploite un atelier de soudage;
+f) dans le cadre de l’exploitation de son entreprise, l’appelante s’occupe notamment :
+(i) de fabriquer et d’installer des barrières, du lambri, des presses et des systèmes de manutention pour les éleveurs d’élans;
+(ii) de fabriquer et d’installer des lames de bouteur, des fourches d’attelage et d’autres produits pour les agriculteurs; et
+(iii) de préfabriquer et d’installer des convoyeurs à bande et d’autres produits pour les scieries;
+g) l’appelante exploite son entreprise depuis environ 17 ans;
+h) l’entreprise de l’appelante est située à Neerlandia (Alberta);
+i) l’entreprise de l’appelante est habituellement ouverte de 8 h à 17 h, du lundi au vendredi;
+j) Bert Wierenga est généralement disponible pour superviser l’entreprise;
+k) Bert Wierenga, Tena Wierenga et les travailleurs participent tous aux prises de décisions concernant l’appelante;
+l) pendant la période en cause, l’appelante employait 6 ou 7 employés, y compris les travailleurs;
+m) deux des employés travaillent à l’avant de l’atelier; ils s’occupent des réparations et effectuent des travaux de scierie;
+n) John Wierenga travaille à l’arrière avec les autres employés; ils s’occupent de travaux reliés à l’élevage des élans;
+o) Robert Wierenga effectue presque tout le travail de bureau; il tient notamment les livres, commande les pièces et les fournitures, répond au téléphone et accomplit d’autres tâches mineures;
+p) Robert Wierenga nettoie en outre l’atelier et répare le matériel en fin de semaine ou pendant ses jours de congé;
+q) les pouvoirs de Robert Wierenga, en ce qui concerne l’exploitation de l’entreprise, vont en augmentant au fur et à mesure que Bert Wierenga et Tena Wierenga s’occupent de moins en moins de l’entreprise;
+r) Robert Wierenga a commencé à travailler pour l’appelante au mois d’avril 2000;
+s) Robert Wierenga a réussi à convaincre ses parents d’installer un ordinateur pour les besoins de l’entreprise de l’appelante;
+t) Robert Wierenga travaillait initialement à temps partiel afin d’installer le système informatique;
+u) Robert Wierenga a commencé à s’occuper de la tenue de livres étant donné que sa mère, Tena Wierenga, ne pouvait pas tenir les livres à l’aide de l’ordinateur;
+v) Robert Wierenga a lui-même appris à tenir les livres à l’ordinateur, mais l’appelante l’a également payé pour qu’il suive un cours d’informatique;
+w) Robert Wierenga travaille en général sans être supervisé étant donné qu’il est le seul à savoir comment faire le travail qu’il fait;
+x) Robert Wierenga a un pouvoir de signature à l’égard du compte bancaire de l’entreprise de l’appelante et il signe les chèques de paie;
+y) Robert Wierenga touchait 9 $ l’heure lorsqu’il a commencé à travailler pour l’appelante, mais à l’heure actuelle il touche 12 $ l’heure;
+z) on s’attend à ce que Robert Wierenga travaille de 9 h à 17 h, du lundi au vendredi;
+aa) Robert Wierenga travaille également parfois le samedi pendant une heure ou deux, au besoin;
+bb) à l’heure actuelle, Robert Wierenga effectue de 30 à 40 heures de travail par semaine;
+cc) si Robert Wierenga n’était pas disponible pour accomplir ses tâches, son travail ne serait pas effectué;
+dd) si Robert Wierenga s’absentait pour une longue période, l’appelante devrait former quelqu’un pour accomplir les tâches de celui‑ci;
+ee) Robert Wierenga n’a qu’une jambe;
+ff) Robert Wierenga utilise des béquilles pour se déplacer, mais il peut conduire un véhicule à moteur sans difficulté;
+gg) Robert Wierenga est assujetti à certaines restrictions en ce sens qu’il ne peut pas exécuter de travaux physiques difficiles;
+hh) étant donné que Robert Wierenga et l’appelante avaient tous deux besoin d’un camion, ils payaient chacun la moitié des frais afférents au camion qu’ils utilisaient tous deux;
+ii) John Wierenga accomplissait notamment les tâches suivantes :
+(i) il était chargé de la supervision, du contrôle de la qualité et du soudage à l’atelier, et
+(ii) il travaillait dans le bureau et s’occupait notamment de commander les matériaux, des ventes, de la préparation d’estimations et il aidait lorsqu’on avait besoin de lui;
+jj) John Wierenga a commencé à travailler pour l’appelante lorsqu’il avait onze ans et demi, au salaire horaire de 5 $;
+kk) John Wierenga est compagnon soudeur;
+ll) à l’heure actuelle, John Wierenga touche 18 $ l’heure;
+mm) on s’attend à ce que John Wierenga soit présent pendant les heures régulières d’ouverture de l’atelier, du lundi au vendredi, étant donné qu’il est chargé de la supervision de l’atelier;
+nn) John Wierenga est en attente lorsqu’il est en congé;
+oo) John Wierenga travaille habituellement 40 heures par semaine;
+pp) dans l’exercice de ses fonctions, John Wierenga assiste également à des congrès d’éleveurs d’élans pour le compte de l’appelante étant donné que ses tâches consistent notamment à vendre des produits aux éleveurs d’élans;
+qq) John Wierenga a énormément d’influence en ce qui concerne la direction et l’exploitation de l’entreprise;
+rr) pendant que ses parents étaient en Hollande, John Wierenga avait voulu acheter un tuyau qui coûtait 28 000 $;
+ss) John Wierenga a discuté de la décision d’acheter ce tuyau avec son père et avec son frère;
+tt) pour financer l’achat du tuyau, John Wierenga a investi 6 000 $ de sa poche; il devait obtenir en contrepartie 25 p. 100 des profits qui étaient générés par suite de l’acquisition du tuyau;
+uu) l’opération d’achat du tuyau était un événement qui ne s’est produit qu’une seule fois;
+vv) John Wierenga a contracté un emprunt personnel afin d’acheter un camion utilisé dans le cadre de l’exploitation de l’entreprise de l’appelante;
+ww) l’appelante a l’intention de rembourser John Wierenga à l’égard de l’achat du camion;
+xx) les travailleurs décidaient tous deux du type de publicité à utiliser pour les besoins de l’entreprise;
+yy) en plus de leurs tâches régulières, les travailleurs allaient également chercher des pièces pour l’entreprise de l’appelante à Edmonton;
+zz) les heures de travail effectuées par les employés, et notamment par les travailleurs, étaient consignées;
+aaa) le taux de rétribution des employés, y compris celui des travailleurs, était fixé par l’appelante;
+bbb) tous les employés de l’appelante, y compris les travailleurs, étaient rétribués à l’heure;
+ccc) les autres employés de l’appelante touchaient au départ environ 8 à 9 $ l’heure, en fonction de leurs tâches et de la question de savoir s’ils avaient besoin d’être formés;
+ddd) les employés de l’appelante, et notamment les travailleurs, reçoivent une avance le 15e jour de chaque mois, le reste du salaire étant payé à la fin du mois;
+eee) les travailleurs étaient toujours rétribués à temps;
+fff) l’employé le mieux rétribué était Charlie De Boer, qui touchait 21 $ l’heure;
+ggg) tous les employés, y compris les travailleurs, avaient droit à des augmentations de salaire au fur et à mesure que la durée de l’emploi augmentait;
+hhh) tous les employés, y compris les travailleurs, touchaient une paie de vacances à des taux allant en augmentant en fonction de la durée de leur emploi;
+iii) Robert Wierenga touche une paie de vacances de 4 p. 100 et a droit à deux semaines de vacances;
+jjj) John Wierenga touche une paie de vacances de 8 p. 100 et a droit à quatre semaines de vacances;
+kkk) tous les employés de l’appelante, y compris les travailleurs, étaient rétribués pour les heures supplémentaires effectuées;
+lll) tous les employés, y compris les travailleurs, touchent une gratification de Noël;
+mmm)les deux travailleurs ne sont pas rétribués s’ils sont malades et incapables de travailler;
+nnn) les deux travailleurs sont peu supervisés;
+ooo) les deux travailleurs et l’appelante estiment que les salaires versés aux travailleurs sont raisonnables;
+ppp) tous les employés de l’appelante pouvaient prendre des congés, mais les deux travailleurs avaient plus de latitude en ce sens qu’ils n’avaient pas à donner de préavis à l’appelante;
+qqq) Robert Wierenga a déclaré qu’un employé non lié :
+(i) travaillerait de 8 h à 17 h;
+(ii) n’aurait pas à travailler après l’heure de fermeture;
+(iii) n’aurait pas de pouvoir de signature;
+(iv) n’aurait pas les mêmes pouvoirs ou des responsabilités aussi grandes;
+rrr) John Wierenga a déclaré qu’un employé non lié :
+(i) n’achèterait pas un camion destiné à être utilisé par l’appelante;
+(ii) n’assisterait pas à des congrès d’éleveurs d’élans;
+(iii) n’aurait pas les mêmes pouvoirs ou des responsabilités aussi grandes;
+(iv) ne participerait pas aux décisions importantes;
+sss) les travailleurs étaient dans les deux cas employés en vertu d’un contrat de louage de services conclu avec l’appelante;
+ttt) le ministre a tenu compte de tous les faits pertinents dont il avait connaissance, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli;
+uuu) le ministre était convaincu qu’il était raisonnable de conclure que les travailleurs et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+RÉFÉRENCE :
+2004CCI475
+Nos DES DOSSIERS DE LA COUR :
+2002-4259(EI)
+2002-4261(EI)
+2002-4260(EI)
+INTITULÉ :
+Neeralta Welding & Sales Ltd. c. MRN
+John Wierenga c. MRN
+Robert Wierenga c. MRN
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 24 mars 2004
+MOTIFS DU JUGEMENT :
+Mme la juge J.M. Woods
+DATE DU JUGEMENT :
+Le 29 juin 2004
+COMPARUTIONS :
+Avocat des appelants :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Deryk W. Coward
+Cabinet :
+D’Arcy et Deacon
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

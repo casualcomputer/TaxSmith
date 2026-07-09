@@ -1,0 +1,214 @@
+Title: Glynn v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27162/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-22-27162-glynn-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-01-26
+
+# Glynn v. M.N.R.
+
+- Citation: 2006 TCC 22
+- Decision date: 2006-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1031, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Glynn v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-26
+Neutral citation
+2006 TCC 22
+File numbers
+2004-3256(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3256(EI)
+BETWEEN:
+PATRICK GLYNN O/A ÉCOLE DE LANGUE GLYNN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard April 29, 2005 at Québec City, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Amélie Asselin
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of January 2006.
+« Paul Bédard »
+Bédard J.
+Citation: 2006TCC22
+Date: 20060126
+Docket: 2004-3256(EI)
+BETWEEN:
+PATRICK GLYNN S/N ÉCOLE DE LANGUE GLYNN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The issue in question is relatively simple. The Minister of National Revenue (the "Minister") feels that Rachel Leblanc (the "Worker") is an employee of the Appellant whereas the Appellant claims she is self-employed.
+[2] The period in question is from April 16 to June 20, 2003 (the "Relevant Period").
+[3] The facts on which the Respondent relied to render his decision are set out in paragraph 5 of the Reply to the Notice of Appeal as follows:
+[translation]
+(a) The Appellant is the sole owner of a company that offers language services for teaching, training and translation purposes.
+(b) The Appellant's clients are individuals, companies, industries and government agencies.
+(c) It was the Appellant's responsibility to find and maintain his clients.
+(d) The Worker has a B.A. in English literature and many years of experience teaching English.
+(e) The parties agreed that the Worker would teach the Appellant's clients, on call.
+(f) When the Worker started working for the Appellant, he gave her three hours of paid training on the course content and the specific needs of certain groups of participants.
+(g) The Appellant indicated the place the Worker would teach and gave her a list of participants.
+(h) Teaching hours were established based on the clients' needs.
+(i) The Worker provided the Appellant with a summary once a week and indicated the hours she worked.
+(j) The Appellant contacted the Worker to find out how the courses she was giving were going.
+(k) The Appellant provided some work tools, such as recorders and cassettes.
+(l) The Appellant's clients provided the room, the chairs, the tables and the board for the classes.
+(m) The Worker was paid $20 an hour and no expenses were reimbursed.
+(n) The Worker made all her course preparations at the Appellant's office.
+(o) The Worker was to teach the courses using the approach established by the Appellant.
+(p) The Worker was to provide the teaching services personally, and could not have hired another teacher without the Appellant's consent.
+(q) The Appellant and the Worker corrected the clients' work together once a week.
+(r) The Worker accumulated 86 insurable hours and received insurable wages of $1,720 during the period in question.
+Analysis
+The law
+[4] When the courts must define concepts from Quebec private law to apply a federal act such as the Employment Insurance Act, they must follow the interpretation rule at section 8.1 of the Interpretation Act. To determine the nature of a contract of employment in Quebec and distinguish it from a contract for service, the relevant provisions of the Civil Code of Québec("Civil Code") must be considered, at least since June 1, 2001. These rules are inconsistent with the rules stated in decisions such as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 and Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. Contrary to the common law situation, the elements that constitute a contract of employment are codified and courts, since the coming into force of articles 2085 and 2099 of the Civil Code on January 1, 1994, no longer have the latitude that common law courts have to define what constitutes a contract of employment. If it is necessary to rely on decisions from the case law to determine whether there was a contract of employment, then decisions with an approach that conforms to the civil law principles must be chosen.
+[5] The Civil Code has distinct chapters on the "contract of employment" (articles 2085 to 2097) and on the "contract of enterprise or for services" (articles 2098 to 2129).
+[6] Article2085 states that the contract of employment:
+... is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[7] Article2098 states that the contract of enterprise:
+...is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[8] Article2099 follows, and states:
+The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[9] It can be said that the fundamental distinction between a contract for service and a contract of employment is the absence, in the first case, of a relationship of subordination between the provider of services and the client and the presence, in the second case, of the right of the employer to direct and control the employee. In this case, it must be determined whether there was a relationship of subordination between the Appellant and the Worker.
+[10] The Appellant has the burden of showing, on a balance of probabilities, that the facts in question establish his right to have the Minister's decision quashed. It must demonstrate the contract concluded between the parties and establish their joint intent as to the nature of this contract. If there is no direct evidence of this intent, the Appellant may turn to indicia in accordance with the agreement and the provisions of the Civil Code that governed it. The Appellant must, in this case, show the absence of a relationship of subordination in order to establish that a contract of employment did not exist, and to do so, it may use indicia of independence, if necessary, such as those stated in Wiebe Door, supra, namely ownership of tools and the risk of loss and possibility of profit. However, I feel that contrary to the common law approach, once a judge finds the absence of a relationship of subordination, that is the end of the analysis to determine whether there is a contract for service. It is not necessary to consider the relevance of ownership of tools and the risk of loss or possibility of profit, since under the Civil Code, the absence of a relationship of subordination is the only essential element of a contract for service that distinguishes it from a contract of employment. Elements such as ownership of tools and the risk of loss or possibility of profit are not essential elements to a contract for service. However, the absence of a relationship of subordination is an essential element. With regard to the two types of contract, it must be determined whether there is a relationship of subordination. Obviously, the fact that the Worker acted as a contractor could be an indication that there was no relationship of subordination.
+[11] Ultimately, decisions should usually be rendered by the Courts on the basis of facts shown by the evidence regarding the execution of the contract, even if the intention shown by the parties indicates the contrary. If the evidence regarding the execution of the contract is not conclusive, a decision can still be rendered according to the qualification and the intention of the parties if the evidence is probatory on these issues. If the evidence is still not conclusive, then the Appellant's appeal will be dismissed on the grounds of insufficient evidence.
+The facts
+[12] The Appellant is the owner of a company that offers language services for teaching, training and translation purposes. The vast majority of his clients (85%) are government agencies. During the Relevant Period, the Appellant hired the Worker to teach English to public servants under three contracts for training granted to the Appellant by three separate government agencies. During the Relevant Period, the Worker was paid for 86 hours of work at a rate of $20 an hour.
+Worker's testimony
+[13] The Worker, whose testimony generally seemed credible, first talked about having to give her courses in the manner established by the Appellant.[1] She explained that the Appellant first gave her the required training (for which she was paid) so that she could use the teaching material developed by the Appellant appropriately in her work. She was required to use this material. It is worth quoting the Worker's testimony on this subject[2]:
+[translation]
+Q. Yes, so when Patrick Glynn granted you the, or the contract, he asked you to take care of the Human Resource Development contract, what kind of teaching were you to do?
+A. O.K. It was a course that he, he had prepared a booklet and in this booklet, I didn't have the actual booklet, I had loose papers and then, it was a whole system he had set up for these people and so me, I had to learn this system; it was a series of letters and in those letters, there were mistakes. So, in each letter, there were mistakes that I was to revise with him so he'd say: "There, see, is the present perfect so you'll have to teach the present perfect, show how it would apply here; instead of this way, it should be that." So, I had to go through all the letters this way and he had a whole system for the verbs. These people regularly made mistakes with certain verbs, so he had, he knew what mistakes these people would make and then what, which verb we had to show them and how and in what circumstance for these types of letters that they wrote. So, he had to show me all that. So, we took the time required to go through this document, and I noted, I took notes and for the actual verb system, he taught how it worked at the board ...
+[14] The Worker explained that she occasionally added new elements to the Appellant's course outline, but not without asking the Appellant's permission. Her testimony on this is also worth quoting[3]:
+Q. As far as the course goes, is this the only document you have for your courses at Human Resources Development Canada?
+A. That was what I had to teach, let's say that was what I had to do. I suggested, because sometimes students told me, "I'd like to have some vocabulary," so, well, I could, I would ask Mr. Glynn: "Is it ok if I add some vocabulary?" "yes, yes, yes." So I added some vocabulary. I added, for example, for contractions of abbreviations, I added things to supplement but the course, the real course, is that there.
+[15] The Worker also said that the Appellant asked her (at least once) to go to his head office to correct together the students' work that she had taught.[4] Her testimony on this was supported by time sheets and invoices[5] submitted as evidence that show she did corrections for three hours with the Appellant and that she was paid to do so.
+[16] During her testimony, the Worker also claimed that the Appellant contacted her and met with her to find out how the course she was giving was going[6] and to discuss suggestions she made in response to the students' requests. Her testimony on this subject was supported by her time sheets and invoices submitted to evidence[7] that show there were many hours in consultation with the Appellant during the Relevant Period and that the Worker was paid to do so. She finally added that the Appellant sometimes went to her classes and occasionally carried out some teaching interventions.[8]
+[17] The Worker also testified[9] that she received orders from the Appellant as to the hours she was to teach, adding, however, that her hours of work depended on her availability since she did not work exclusively for the Appellant during the Relevant Period.
+[18] Finally, the Worker stated that she asked the Appellant to have the status of employee, as of their first meeting and during subsequent meetings. She added that despite the Appellant's successive promises to grant this status, this was never given to her.[10]
+Appellant's testimony
+[19] First, the Appellant gave general testimony on the method of operation of his company. He explained in general that the workers he hired were absolutely free to accept or refuse the duties he suggested to them, and these workers were entirely free to use their methods and teaching material in their teaching. They had no obligation to report and also, they were not subject to any follow-up on his part. To summarize, he testified that his company merely acted as an employment agency.[11] In support of his claims to this effect, the Appellant called a number of workers to testify, whom he hired regularly for his company.
+[20] As for the teaching material[12] the Worker used for the courses she gave to Human Resources Canada and Indian and Northern Affairs Canada, the Appellant claimed that this was teaching material he had developed and sold to these government agencies. The Appellant had the opportunity to support his claims on this point with serious documentary evidence, such as a sales contract or even some independent testimony; unfortunately, he did not do so. He then explained that it was not he, but these government agencies that provided the teaching material to the Worker and that could, in a way, give the Worker specific instructions on how to carry out her work.
+[21] As for the training he gave the Worker for courses she was to teach for Human Resources Canada, the Appellant's testimony during examination and cross-examination just have to be quoted[13]:
+[translation]
+Q. O.K. When the Department, in its reply, says you gave training to Ms. Leblanc ...
+A. Yes.
+Q. ... for one, did you give Ms. Leblanc training?
+A. Well, she came, when she, she was at my office for three hours for a kind of orientation and she was paid for that, yes.
+Q. O.K. What do you mean by "orientation"?
+A. Well, we read the course together and, for the Human Resources Canada course, for example, all the letters in the course were provided by Human Resources Canada, so they...
+Q. When the training was given to Ms. Leblanc on the course prepared for Human Resources Development...
+[original English]
+A. I contest that that was training.
+Q. It was not training?
+A. She was paid for per [sic] presence at my office. I contest that that was really training.
+[22] The Appellant also said that he was aware that the Worker had added new elements on her own to the teaching material that she had used for the courses she gave to these government agencies. He stated categorically that she did not ask permission to do this.[14]
+[23] The Appellant's testimony regarding the time he corrected work with the Worker seemed to me, at the very least mixed up, if not unbelievable. On this, he said[15]:
+[translation]
+Q. ... when she corrected the work, was she paid for it?
+A. She was paid for the time she was at the school, for both, I think it was two hours, maybe three, but we did not correct anything. Miss...
+Q. Of course, but because she is asking you the question, when she corrected the work...
+A. She was not ...
+Q. ... did ...
+A. Yes, but she was paid for the time but we did not correct anything at all. She was at school, we were talking about her course, it was extended...
+Q. That is not my question. If there was work, it seems there would be correcting of this work, the correcting of the work was done at school on the...
+A. No.
+Q. ... outside school time?
+A. It was done outside the school.
+[24] During his testimony, the Appellant also stated that he did not carry out any follow-up on the Worker's activities, even informally. His testimony on this is also worth quoting[16]:
+[translation]
+Q. O.K. Once Ms. [Leblanc] went to the client's to give the course, was there any follow-up on your part?
+A. None.
+Q. Did you have meetings to discuss what she was doing in the course?
+A. Yes.
+Q. And what did that deal with?
+A. Well, it is like when teachers meet, we discussed, well, the weather, was everyone in a good mood during the course, what she was doing, and, that's it.
+Q. So, did you communicate with her to find out what she did in the course, what the course was about?
+A. Yes, of course we talked about it. We talked about what she did in the course, who was there, did it go well, yes, obviously.
+[25] Then why did the Appellant pay the Worker for these many hours of meetings held at the Appellant's office?[17] What was the Appellant's goal during these meetings, if not to follow-up on the way the courses were going? Why was she paid? The Appellant's explanation on this seemed, to me, simply incomprehensible and vague, if not doubtful. He stated[18]:
+[original English]
+Q. She was paid?
+A. Yes, she was paid for her presences at the office, there was, you know, in my contacts with Mrs. Leblanc, there was always this jeu, "well, am I going to be paid for that?" "I was here for, I talked to you for an hour, am I going to be paid for that?", you know.
+[26] Finally, the Appellant testified that the Worker could have found a replacement for herself, without first asking his permission. He added that he and the Worker never discussed the possibility of his treating the Worker as an employee.
+Analysis
+[27] The testimony of the Appellant and the Worker are contradictory on most of the points. I retained the version of the facts given by the Worker rather than that of the Appellant because the Worker's testimony seemed, to me, to be the most credible in general. The explanations given by the Worker were generally clear and precise. She did not contradict herself. Her explanations on the corrections of the work with the Appellant and on his follow-ups seemed plausible to me, given that the documentary evidence (pièce I-2) seems to show that these correction and follow-up activities occurred and there was compensation for them. Moreover, the Appellant's explanations, at least on the critical points such as the follow-up and correction of work, were often evasive, imprecise, ambiguous, elusive, doubtful and sometimes unintelligible. He never adequately explained the reason on the timesheets for the consultations and corrections of the hours shown for which the Worker was paid. The Appellant could have substantiated his claims-especially on the sale of his teaching material to government agencies and the fact that instructions on the execution of the Appellant's work were given by these organizations rather than by him-with serious documentary evidence or through the testimony of a manager of these institutions. He did not do so. He decided to have some of his other workers testify. I do not doubt the credibility of these witnesses. It is possible that their status is different than that of the Worker. I obviously do not have to make a decision on the status of these other workers. In this case, I must make a decision on the status of the Worker during the Relevant Period, based on the particular facts submitted as evidence. We must keep in mind that each case is a separate case and a decision on the status of the Worker will not necessarily mean that the other workers at the Appellant's company have the same status as the Worker.
+[28] My analysis of the evidence shows that the Appellant exercised the most traditional form of control: the Appellant trained the Worker and gave specific instructions as to the execution of the work. This was direct control. The Worker's latitude was, in this case, very limited. The Worker did not, in this case, have the freedom to choose the means of execution. This ability of the Appellant to control the Worker was also shown by the follow-up of the Worker's work and the correction work done under his supervision. This ability of the Appellant to control the Worker's work was also shown during the many meetings held at the Appellant's office with the Worker.
+[29] The Worker testified that she did not work exclusively for the Appellant during the Relevant Period. However, although exclusivity usually means there is a relationship of subordination, the inverse statement is not true: non-exclusive activity carried out for many employers or for a clientele is not necessarily incompatible with the status of employee. The combination of a contract for employment and an independent profession is also possible.
+[30] The Appellant testified that the Worker could have found a replacement to have her work carried out by a third party without first asking his permission. Moreover, the Worker simply did not testify on this point. If this had been the case, I would have come to a different conclusion as to the status of the Worker. However, I highly doubt that the Worker could have found a replacement for herself this way, considering all the facts submitted to evidence in this case. A judge is not required to believe a witness, even if he or she is not contradicted. The non-contradicted testimony must still be believable, considering all of the evidence.
+[31] For these reasons, I find that the Worker was employed by the Appellant for the Relevant Period.
+Signed at Ottawa, Canada, this 26th day of January 2006.
+« Paul Bédard »
+Bédard J.
+CITATION:
+2006TCC22
+COURT FILE NO.:
+2004-3256(EI)
+STYLE OF CAUSE:
+Patrick Glynn o/a École de langue Glynn and M.N.R.
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+April 29, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+January 26, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Amélie Asselin
+Counsel for the Respondent:
+Anne Poirier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Amélie Asselin
+Firm:
+Joli-Coeur, Lacasse, Geoffrion, Jetté, St-Pierre
+Québec, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pages 146, 147, 152, 153, 165 and 181 of the stenographer's notes.
+[2] Pages 152 and 153 of the stenographer's notes.
+[3] Pages 158 and 159 of the stenographer's notes.
+[4] Pages 184 to 188 of the stenographer's notes.
+[5] Exhibit I-2.
+[6] Pages 191, 192 and 193 of the stenographer's notes.
+[7] Exhibit I-3.
+[8] Pages 172 and 173 of the stenographer's notes.
+[9] Page 162 of the stenographer's notes.
+[10] Page 145 of the stenographer's notes.
+[11] Pages 14 à 16 des notes sténographiques.
+[12] Exhibits A-1 and I-3.
+[13] Pages 19 and 20 and page 52 of the stenographer's notes.
+[14] Page 19 of the stenographer's notes.
+[15] Pages 31 and 32 of the stenographer's notes.
+[16] Page 26 of the stenographer's notes.
+[17] Exhibit I-2 on the sheet called, "Time Sheet" where we find the notation "Patrick (consultation)".
+[18] Page 52 of the stenographer's notes.

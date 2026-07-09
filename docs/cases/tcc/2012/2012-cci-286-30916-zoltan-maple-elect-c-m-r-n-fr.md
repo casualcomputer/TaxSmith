@@ -1,0 +1,328 @@
+---
+title: "Zoltan-Maple Elect c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30916/index.do"
+last_modified: "2012-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 286"
+citation2: ""
+neutral_citation: "2012 CCI 286"
+decision_date: "2012-08-08"
+language: "fr"
+item_id: "30916"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7442
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:27:53.103000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bed0a10e31d6f3de08c52879aa5fe16103e5effb83b6f4a316b11fbb9dd4537d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zoltan-Maple Elect c. M.R.N.
+
+- Citation: 2012 CCI 286
+- Decision date: 2012-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7442, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zoltan-Maple Elect c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-08-08
+Référence neutre
+2012 CCI 286
+Numéro de dossier
+2011-3070(EI), 2011-3072(CPP)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-3070(EI)
+ENTRE :
+KAJLA ZOLTAN-MAPLE ELECT.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé.
+[traduction française officielle]
+Appel entendu avec l’appel de
+Kajla Zoltan‑Maple Electric (2011-3072(CPP))
+le 3 mai 2012, à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+Zoltan Kajla
+Avocate de l’intimé :
+Me Jasmeen Mann
+JUGEMENT
+L’appel interjeté en vertu de la Loi sur l’assurance-emploi à l’égard de la décision du ministre du Revenu national datée du 13 décembre 2010 est accueilli, sans dépens, conformément aux motifs du jugement ci-joint.
+Signé à Ottawa (Canada), ce 8e jour d’août 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Dossier : 2011-3072(CPP)
+ENTRE :
+KAJLA ZOLTAN-MAPLE ELECT.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+Appel entendu avec l’appel de
+Kajla Zoltan‑Maple Elect. (2011-3070(EI))
+le 3 mai 2012, à Toronto (Ontario)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+Zoltan Kajla
+Avocate de l’intimé :
+Me Jasmeen Mann
+JUGEMENT
+L’appel interjeté en vertu du Régime de pensions du Canada à l’égard de la décision du ministre du Revenu national datée du 13 décembre 2010 est accueilli, sans dépens, conformément aux motifs du jugement ci-joint.
+Signé à Ottawa (Canada), ce 8e jour d’août 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2012 CCI 286
+Date : 20120808
+Dossiers : 2011-3070(EI)
+2011-3072(CPP)
+ENTRE :
+KAJLA ZOLTAN-MAPLE ELECT.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+A. Introduction
+[1] Par une lettre datée du 13 décembre 2010, le ministre du Revenu national (le « ministre ») a avisé l’appelante que, en travaillant pour cette dernière du 8 mars 2010 au 29 septembre 2010 (la « période d’emploi »), Yury Velichko (le « travailleur ») avait exercé un emploi assurable aux fins de la Loi sur l’assurance‑emploi (la « LAE ») ainsi qu’un emploi ouvrant droit à pension aux fins du Régime de pensions du Canada (le « RPC »).
+[2] L’appelante a demandé que l’on révise ces décisions, qui ont été confirmées. Elle allègue que le travailleur était un entrepreneur indépendant qui lui avait fourni des services en sous-traitance à titre d’électricien agréé dans le cadre des activités d’une entreprise qu’il exploitait pour son propre compte.
+B. Le contexte factuel
+[3] Le ministre dit s’être fondé sur les hypothèses de fait suivantes pour conclure que le travailleur exerçait un emploi assurable et ouvrant droit à pension :
+L’appelante
+a) l’appelante exploitait une entreprise d’installation et d’entretien d’appareils électriques (l’« entreprise »);
+b) l’entreprise était exploitée sous la raison sociale « Maple Electric »;
+c) Kajla Zoltan contrôlait les activités ordinaires de l’entreprise et prenait pour cette dernière les décisions principales;
+d) les heures d’ouverture ordinaires de l’appelante étaient de 7 h à 16 h, du lundi au vendredi;
+e) l’appelante a annoncé dans un journal russe local le poste que le travailleur a occupé;
+f) le travailleur faisait partie d’une équipe de travailleurs qui était affectée à des travaux précis que l’appelante obtenait par contrat;
+Le travailleur
+g) le travailleur a été engagé à titre d’électricien, pour une période indéterminée, au moyen d’une entente verbale;
+h) les tâches du travailleur consistaient à :
+(i) poser des interrupteurs électriques, des prises et des luminaires,
+(ii) fixer des coffrets métalliques aux murs et au plafond,
+(iii) poser de la tuyauterie dans des murs ou d’autres endroits dissimulés et y faire passer ensuite des fils ou des câbles;
+i) le travailleur était agréé comme électricien – dans les secteurs de la construction et de l’entretien;
+j) le travailleur avait une expérience de l’exécution de travaux d’installation de matériel électrique;
+k) le travailleur ne détenait pas un permis d’entrepreneur en électricité délivré par l’Office de la sécurité des installations électriques, ce qui est exigé pour exploiter une entreprise en électricité en Ontario;
+l) le travailleur accomplissait ses tâches dans divers lieux de travail situés à Windsor, à Waterloo et à Toronto;
+m) le travailleur fournissait ses services exclusivement à l’appelante;
+Le degré de contrôle
+n) l’horaire de travail normal du travailleur était le suivant :
+(i) le lundi, de 8 h à 18 h;
+(ii) du mardi au jeudi, de 6 h à 18 h;
+(iii) le vendredi, de 6 h à 13 h 30;
+o) l’appelante fixait l’horaire de travail du travailleur;
+p) pour les travaux effectués en dehors de la ville, le travailleur partait en compagnie de l’équipe de l’appelante le lundi matin et revenait chez lui le vendredi après-midi;
+q) l’appelante fixait les échéances et les priorités du travailleur;
+r) le contremaître de l’appelante consignait les heures de travail du travailleur sur des feuilles de temps;
+s) le superviseur du chantier de construction ainsi que le contremaître de l’appelante supervisaient le travailleur;
+t) le travailleur était tenu de faire rapport à l’appelante;
+u) le contremaître de l’appelante donnait au travailleur des directives écrites ou verbales, notamment :
+(i) le travail qui devait être fait chaque jour et l’ordre de priorité,
+(ii) l’endroit où il devait poser les coffrets, la tuyauterie, etc.,
+(iii) le matériel à utiliser,
+(iv) pour les tâches plus complexes, les outils à employer pour faire le travail;
+v) le travailleur devait obtenir l’autorisation de l’appelante avant de prendre certaines mesures, comme s’absenter du travail ou obtenir un rendez-vous chez le médecin, changer ses heures de travail ou changer l’ordre dans lequel une tâche devait être accomplie;
+w) l’appelante a cessé d’avoir recours aux services du travailleur;
+La propriété des instruments de travail et du matériel
+x) l’appelante fournissait gratuitement au travailleur un marteau-perforateur et des mèches à maçonnerie, un marteau-perforateur lourd et des mèches, une cintreuse à tuyaux, une scie alternative, une coupeuse à bois, des lames de scie à métaux, des poinçons hydraulique et manuel et une échelle (d’une valeur d’environ 3 160 $), dont le travailleur avait besoin pour exécuter ses tâches;
+y) l’appelante fournissait au travailleur le matériel nécessaire pour accomplir le travail, comme des fils et des interrupteurs;
+z) le travailleur fournissait ses propres outils à main, comme une rallonge électrique, des tournevis, une perceuse sans fil et des mèches, des pinces, un marteau, une scie à métaux, un ruban à mesurer, des pinces à couper et un couteau utilitaire (d’une valeur d’environ 479 $);
+aa) l’appelante et le travailleur assumaient la responsabilité de l’entretien et de la réparation de leurs propres outils et de leur équipement respectif;
+Travail de sous-traitance et embauche d’aides
+bb) le travailleur fournissait personnellement ses services;
+cc) le travailleur n’a pas embauché d’aide ou de remplaçant;
+dd) l’appelante était chargée d’embaucher et de payer les remplaçants ou les aides;
+Les chances de profit et les risques de perte
+ee) le travailleur a été payé au départ 14 $ l’heure, et ce tarif a été haussé à 14,50 $ l’heure après quelques mois;
+ff) l’appelante fixait le taux de rémunération;
+gg) l’appelante fixait le moment où, aux deux semaines, le travailleur recevait son chèque de paie;
+hh) l’appelante choisissait le mode de paiement du travailleur, c’est-à-dire par chèque;
+ii) le travailleur était rémunéré en son nom personnel;
+jj) le travailleur n’a pas reçu de primes, d’avantages, d’indemnité de congé ou de congés payés;
+kk) le travailleur était rémunéré à son tarif horaire pour le temps pendant lequel il se rendait aux lieux de travail situés en dehors de la ville et en revenait;
+ll) le travailleur recevait une indemnité journalière de 20 $ quand il travaillait en dehors de la ville;
+mm) le travailleur se faisait rembourser ses dépenses de carburant, de repas et d’hébergement;
+nn) le travailleur envoyait des factures à l’appelante;
+oo) le travailleur participait au régime de la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail de l’appelante;
+pp) au final, l’appelante était responsable de régler les plaintes des clients qui résultaient du rendement du travailleur;
+qq) c’étaient le superviseur du chantier ou le contremaître de l’appelante qui déterminaient s’il fallait refaire des travaux;
+rr) l’appelante était responsable de la garantie pour le travail qu’accomplissait le travailleur;
+L’intention
+ss) le travailleur ne gérait pas son propre personnel;
+tt) le travailleur n’annonçait pas ses services;
+uu) le travailleur n’avait pas de compte bancaire d’entreprise;
+vv) le travailleur s’était inscrit pour obtenir un numéro de TPS auprès de l’Agence du revenu du Canada après avoir commencé à travailler pour l’appelante;
+Autres renseignements pertinents
+ww) le travailleur a déclaré son revenu à titre d’« autres revenus d’emploi » et n’a pas fait état de dépenses dans sa déclaration de revenu personnelle pour l’année d’imposition 2010.
+[4] Les hypothèses de fait formulées aux alinéas r), s), t), u), x), y) et qq) sont inexactes.
+[5] Selon les éléments de preuve présentés, l’appelante a obtenu en sous-traitance un contrat d’installation de raccords et de câbles électriques dans une nouvelle aile de l’Hôpital de Windsor qui était en construction au cours de la période pertinente. Ce contrat de sous-traitance avait été attribué par l’entrepreneur en électricité général qui était chargé du projet : J.M.R. Electric (« JMR »).
+[6] L’appelante a engagé le travailleur pour travailler dans le cadre de ce projet, pour lequel elle a embauché en tout quatre sous-traitants. Le propriétaire de l’appelante n’a pas travaillé lui-même sur ce chantier, car il préférait travailler dans la région métropolitaine de Toronto, ce qui lui permettait de rentrer chez lui le soir. L’intimé ne conteste pas ce fait.
+[7] Voici le curriculum vitæ que le travailleur a fourni en réponse à l’annonce que l’appelante avait fait paraître en vue d’obtenir les servies d’un électricien :
+[traduction]
+[…]
+Monsieur,
+La présente fait suite à votre annonce concernant les services d’un électricien en construction. Je me suis entretenu avec vous de ce poste vacant au téléphone le lundi 22 février 2010, à 11 h 50, et je vous envoie mon curriculum vitæ pour que vous puissiez l’examiner.
+[…]
+Objectif
+Obtenir un poste d’électricien en construction.
+Sommaire des qualifications
+a. Électricien agréé (Sceau rouge 309A), ayant plus de deux années d’expérience dans le secteur commercial et le secteur résidentiel au Canada. Expert en exécution d’installations électriques, en entretien et en réparation dans des installations industrielles, bien au fait de tous les aspects du code national de l’électricité, et excellent en analyse et en résolution de problèmes relatifs à divers systèmes et contrôles électriques.
+b. Permis de conduire de catégorie G, avec antécédents irréprochables et véhicule personnel.
+c. Propriétaire d’outils et de matériel de sécurité.
+Compétences professionnelles
+d. Panneaux d’entrée d’électricité
+e. Interrupteurs et coupe-circuit
+f. Luminaires, matériel de distribution et de contrôle d’électricité
+g. Génératrices et transformateurs
+h. Passage de fils
+i. Enlèvement de boutons et de tubes
+j. Dépannage
+k. Plans et schémas
+l. Schémas de câblage
+m. Instruments d’essai
+n. Code de l’électricité
+o. Sécurité et AQ
+Expérience professionnelle
+Électricien en construction
+Entrepreneur : ANDREI PARFENOV, Canada, Toronto (2008 à 2010)
+IOB Electric Ltd, Canada, Toronto (2008)
+Travaux de câblage et d’installations électriques dans le cadre de projets de construction commerciaux et résidentiels, y compris des immeubles neufs, des rénovations, des travaux de remaniement et des agrandissements d’installations. Principaux résultats :
+· Travail d’électricien dans plus de trente projets de construction.
+· Réputation d’expertise dans des travaux complexes de dépannage et de résolution de problèmes.
+· Vaste expérience de l’analyse et du respect de manuels, de schémas, de plans et d’autres exigences techniques.
+· Maîtrise de l’utilisation d’instruments de mesure et d’essai comme : ampèremètres, ohmmètres, voltmètres et lampes d’essai.
+· Reconnaissance constante des aptitudes suivantes : esprit d’équipe, « faire les choses correctement la première fois » et travailler avec un minimum de supervision dans des délais serrés.
+Études
+- Ability Learning Network – EP for Trades Workers & Apprentices (2010)
+- Permis d’électricien en construction et entretien – 309A Sceau rouge (2008)
+- Diplôme d’études secondaires (1991)
+Je suis convaincu que les études que j’ai suivies et ma vaste expérience peuvent être un atout pour votre entreprise. N’hésitez pas à communiquer avec moi, soit par courriel : […] soit en laissant un message au […]. Je suis impatient de pouvoir m’entretenir de nouveau avec vous.
+[…]
+[8] Le représentant de l’appelante a témoigné que le travailleur et les trois autres sous-traitants affectés au chantier de Windsor recevaient leurs instructions de deux contremaîtres travaillant pour JMR. Le travailleur n’était pas assujetti à la direction et au contrôle de l’appelante. Le travailleur et les trois autres sous-traitants étaient des électriciens agréés et compétents qui n’avaient pas vraiment besoin de supervision. Cependant, il fallait quand même que les contremaîtres de JMR leur disent quels travaux faire en premier. Cela était fait pour des questions de planification, de façon à éviter les retards inutiles. Par exemple, les tuyaux et le câblage métalliques ainsi que les coffrets électriques doivent être posés avant les cloisons sèches, et les accessoires fixes sont posés après. Selon l’appelante, c’est la façon de faire dans tous les chantiers. Dans le secteur de la construction domiciliaire, l’entrepreneur général contrôle souvent le déroulement des travaux qu’exécutent tous les gens de métier qui travaillent sur place. Pour ce qui est des chantiers commerciaux de plus grande envergure, l’entrepreneur en électricité général contrôle souvent le déroulement des travaux qu’exécutent les électriciens sous-traitants.
+[9] L’appelante a également expliqué que, dans la province de l’Ontario, tous les travaux d’électricité sont homologués par l’Office de la sécurité des installations électriques (l’« OSIE »). Au chantier de Windsor, des inspecteurs de l’OSIE étaient présents en tout temps, et les travaux d’électricité qui ne répondaient pas aux normes de l’OSIE devaient être refaits.
+[10] Le travailleur a témoigné que, pour le chantier de Windsor, il s’était servi de ses propres outils et du matériel lourd que JMR lui avait fourni. Il a reconnu que l’appelante ne lui avait pas fourni les outils ou les matériaux nécessaires pour travailler à cet endroit.
+[11] Le travailleur a été embauché par l’appelante le 8 mars 2010 et il a travaillé au chantier de Windsor jusqu’au 4 août 2010. Pendant que le propriétaire de l’appelante se trouvait en Europe, où il visitait sa famille pour la première fois depuis dix ans, le travailleur a quitté le travail sans faire part à l’appelante de son intention de le faire. Le travailleur dit être parti parce que sa famille vivait dans la région du Grand Toronto (RGT) et que le fait d’être éloigné de sa famille toute la semaine le rendait malheureux. Peu après, il a communiqué avec l’ARC pour s’enquérir de ses obligations en matière de production de déclarations et de versements, ainsi que de la possibilité de recevoir des prestations d’assurance‑emploi.
+[12] Quand le propriétaire de l’appelante est revenu au Canada après ses vacances familiales en Europe, il a communiqué avec le travailleur pour régler les montants qu’il lui devait. Le travailleur était tenu de présenter des factures justifiées pour le montant qui lui était dû, ainsi que des factures couvrant la période du 9 mai au 4 août 2010. Le travailleur a été rémunéré pour cette période en fonction des feuilles de temps que JMR avait tenues.
+[13] Peu après avoir reçu la somme que l’appelante lui devait, le travailleur a convenu de recommencer à travailler pour cette dernière. Selon l’appelante, le travailleur voulait travailler sur des chantiers situés dans la RGT. L’appelante avait un contrat de sous-traitance en travaux d’électricité pour un projet d’hôtel situé à Markham, et le travailleur a accepté d’y travailler. Le propriétaire de l’appelante n’y a pas travaillé lui-même, et aucune preuve ne montre qu’il a eu recours aux services d’un contremaître pour surveiller le travail qui y était fait.
+[14] Selon le témoignage du représentant de l’appelante et du travailleur, ce dernier a travaillé au chantier de Markham en compagnie d’autres électriciens que l’appelante avait embauchés. Le travailleur y a travaillé entre le 21 août 2010 environ et le 29 septembre 2010, date à laquelle il a été congédié. Le travailleur prétend avoir été congédié parce que l’appelante a découvert qu’il avait communiqué avec l’ARC pour poser des questions sur son statut d’employé, par opposition au statut d’entrepreneur indépendant.
+[15] Le propriétaire de l’appelante soutient avoir congédié le travailleur parce qu’il était impliqué dans des conflits personnels avec d’autres travailleurs sur le chantier et qu’il avait entaché sa réputation en faisant des commentaires que cette dernière considérait comme désobligeants, tels que [traduction] « exploiteur » et « capitaliste ».
+C. Analyse
+1) L’intention
+[16] L’appelante soutient qu’elle a présenté des éléments de preuve montrant que le travailleur avait convenu de travailler sur son chantier à titre d’entrepreneur indépendant. Selon l’appelante, la preuve que l’intimé a présentée est insuffisante pour qu’il soit justifié de faire abstraction de l’accord des parties à l’égard de la conclusion d’une entente de sous-traitance.
+[17] Je souscris à l’argument de l’appelante selon lequel le travailleur a convenu d’entretenir une relation d’entrepreneur indépendant. Le travailleur a demandé un numéro de TPS/TVH peu après avoir commencé à travailler pour l’appelante. Il a décrit sa principale activité commerciale en ces termes :
+[traduction]
+[…]
+un électricien travailleur autonome qui exécute des travaux d’électricité pour une compagnie d’électricité[1].
+[…]
+[18] L’inscription est entrée en vigueur le 8 mars 2010, soit le premier jour de présence du travailleur au chantier de l’hôpital de Windsor. Son curriculum vitæ[2], sur lequel l’appelante s’est fondée quand elle l’a embauché, souligne que le travailleur bénéficiait d’une :
+[traduction]
+[…]
+· Reconnaissance constante des aptitudes suivantes : esprit d’équipe, « faire les choses correctement la première fois » et travailler avec un minimum de supervision dans des délais serrés.
+[…]
+[19] Les notes relatives à l’entrevue menée avec l’appelante[3] indiquent que le travailleur a accepté de travailler comme sous-traitant. Le formulaire montre que le travailleur devait fournir ses propres outils à main et qu’il possédait un véhicule, qui pouvait également servir à transporter de l’équipement au chantier. La preuve testimoniale des deux parties confirme ces faits.
+[20] Le travailleur insiste pour dire qu’il a peut-être bien convenu d’être traité comme un entrepreneur indépendant, mais qu’il n’a pas bien saisi les conséquences de l’entente conclue avec l’appelante. La lettre qu’il a envoyée à l’ARC pour justifier sa demande de prestations d’assurance-emploi fait référence à des contradictions liées à sa désignation à titre d’entrepreneur indépendant :
+[traduction]
+Madame, Monsieur,
+Lettre d’accompagnement du questionnaire concernant un travailleur – 110690707002
+1. Veuillez porter attention aux copies ci-jointes de chèques de paye et de factures (les copies sont classées par ordre chronologique). En présentant tous ces détails, je veux démontrer que Zoltan Kajla ne s’est pas servi de mes factures comme source d’information pour déterminer la rémunération qu’il aurait dû payer pour mon travail.
+a) Le mot « logement » a été indiqué dans les factures au lieu du mot « indemnité » (Ce n’est pas moi qui ai payé l’hôtel. Zoltan Kajla l’a fait).
+b) Le chèque de paye pour la période du 8 au 13 mars 2010 n’inclut pas la TPS, parce que je n’avais pas encore de numéro de TPS à ce moment-là.
+c) Le montant total d’argent payé par les chèques de paye du 15 mars au 8 mai 2010 et le montant total d’argent indiqué dans les factures ne correspondent pas. De plus, un certain nombre d’heures de travail visées par le chèque de paye du 28 mars au 10 avril ne correspond pas à la facture qui s’applique à la même période.
+d) Après le 9 mai, j’ai compris que Zoltan Kajla ne tenait pas compte de mes factures et j’ai arrêté d’en établir. Zoltan Kajla a continué de m’envoyer des chèques de paye sans que je lui envoie des factures.
+e) Les factures pour la période du 10 mai au 7 août 2010 ont été antidatées le 24 août 2010, parce que Zoltan Kajla avait refusé de me payer de l’argent pour les deux dernières semaines de travail jusqu’à ce que je lui envoie des factures pour les derniers mois. Comme vous pouvez le voir dans les factures corrigées (21 juin – 7 août) qu’il m’a renvoyées, il est clair que j’ignorais quel tarif horaire il me payait réellement.
+2. Mes heures de travail étaient consignées par le superviseur du chantier et envoyées directement à Zoltan Kajla.
+3. Vous trouverez ci-jointe la traduction certifiée de l’annonce d’emploi que Zoltan Kajla a fait paraître dans les journaux. Il n’est indiqué nulle part dans cette annonce qu’il est à la recherche d’entrepreneurs indépendants. Au contraire, il y est question d’embaucher un électricien en construction ou un électricien débutant. Quand une telle personne obtient un emploi chez Maple Electric Ltd, elle se transforme mystérieusement en « entrepreneur indépendant ». J’ai utilisé exactement la même annonce pour trouver mon emploi chez Maple Electric Ltd.
+4. « À compter du 1er janvier 2007, nul ne peut exploiter une entreprise d’électricité en Ontario sans avoir obtenu au préalable un permis d’entrepreneur en électricité délivré par l’ECRA/OSIE. » – j’ai tiré cette information du site Internet officiel de l’Office de sécurité des installations électriques. J’insiste pour dire que j’ai travaillé chez Maple Electric Ltd à titre d’employé-électricien muni d’un permis 309 A, qui ne me permettait pas de travailler comme entrepreneur indépendant, et que j’ai été supervisé par le contremaître du chantier, qui contrôlait mon travail et vérifiait si tout était fait convenablement. Zoltan Kajla insiste pour dire que les électriciens qui ont travaillé et qui travaillent présentement pour son entreprise sont des sous-traitants. Je suppose que le fait d’engager en sous‑traitance des électriciens pour effectuer le travail à titre d’entrepreneurs indépendants, sans que ces derniers aient les qualifications nécessaires (permis de maître-électricien), une assurance responsabilité (personne ne serait responsable de leur travail) et sans permis d’entrepreneur-électricien constitue une infraction très grave. Une telle situation menace les personnes qui habitent déjà des unités résidentielles où le système d’électricité a été ou sera établi par de prétendus entrepreneurs.
+5. Veuillez aussi porter attention au fait que Zoltan Kajla a payé mes cotisations à la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail. Il a peut-être eu peur de poursuites judiciaires en cas d’accident et donc d’accusations sévères, et a tenté de se soustraire à toute responsabilité en payant les cotisations comme il le faisait pour des employés ordinaires. Mais, à l’Agence du revenu, il a présenté ces mêmes travailleurs comme des entrepreneurs indépendants, pour lesquels il n’était donc pas nécessaire de payer les cotisations au RPC et à l’AE. Bien sûr, toutes ces conclusions ne sont fondées que sur mes hypothèses. Je crois qu’il y a des spécialistes à l’Agence du revenu du Canada qui pourront découvrir la vérité.
+[21] Le travailleur avait immigré depuis peu au Canada, mais je ne souscris pas à sa prétention selon laquelle il ne saisissait pas la différence entre le statut d’entrepreneur indépendant et celui d’employé. Je crois plutôt qu’il a demandé à l’ARC que l’on clarifie son statut après qu’il eut cessé de travailler pour l’appelante le 4 août 2010. Il l’a fait parce qu’il était sans travail et avait besoin de prestations d’assurance‑emploi. Il ressort de la preuve qu’il n’a pas donné suite à cette demande de renseignements initiale parce qu’il a été réembauché par l’appelante trois semaines plus tard et a touché la totalité des montants qui lui étaient dus. Comme on pouvait s’y attendre, quand l’appelante a mis fin à sa relation avec le travailleur le 29 septembre 2010, ce dernier a relancé son dossier auprès de l’ARC, après quoi il a touché des prestations d’assurance-emploi après que le ministre eut décidé qu’il exerçait un emploi assurable.
+[22] Les faits allégués dans la lettre du travailleur sont néanmoins pertinents pour la seconde étape de l’analyse, soit celle de savoir si l’application des facteurs énoncés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (CAF) montrent que les faits concordent avec la manière dont les parties caractérisent leur relation. Dans l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, la juge Sharlow a déclaré ce qui suit :
+[9] Dans les arrêts Wolf c. Canada, 2002 CAF 96, [2002] 4 C.F. 396 (C.A.), et Royal Winnipeg Ballet c. Canada (Ministre du Revenu national – M.N.R.) 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour a ajouté que lorsqu’il est établi que les parties avaient l’intention commune d’établir une relation juridique entre elles, il est nécessaire de tenir compte de cette preuve, mais il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[Non souligné dans l’original.]
+2) L’application des facteurs énoncés dans l’arrêt Wiebe Door
+[23] Il est nécessaire d’appliquer les facteurs énoncés dans l’arrêt Wiebe Door pour décider si l’entente que les parties ont conclue au sujet de la nature de leur relation correspond avec la nature véritable de cette relation au vu des conclusions que tire la Cour au sujet de la preuve. Si l’on applique ces facteurs, la preuve montre-t-elle que le travailleur a fourni ses services dans le cadre d’une entreprise exercée pour son propre compte?
+3) Le degré de contrôle
+[24] Dans sa réponse à l’avis d’appel, le ministre a présumé que l’appelante avait recours à un contremaître qui supervisait le travailleur dans l’exercice de ses fonctions. Comme il a été mentionné plus tôt, cette hypothèse de fait est erronée. Les contremaîtres affectés au chantier de l’hôpital de Windsor travaillaient pour JMR. Peut-on imputer leurs gestes à l’appelante? À mon avis, la réponse est oui, à peu près de la même façon que l’on impute le contrôle qu’exercent les clients à une agence de personnel qui a fourni à ces derniers du personnel temporaire.
+[25] Il ressort de la jurisprudence qu’il y a une distinction importante à faire entre le contrôle que l’on exerce sur le travailleur et celui que l’on exerce sur le résultat final du travail. Par exemple, un client peut embaucher un entrepreneur général pour faire construire une maison familiale. Il serait sage que ce client inspecte le travail fait afin de pouvoir relever les lacunes et les faire rectifier avant de prendre livraison de la maison. Cela ne fait pas de l’entrepreneur un employé du client. De plus, l’entrepreneur général embauchera des gens de métier à titre de sous-traitants. Par exemple, il pourra confier les travaux d’électricité à un électricien travailleur autonome. Dans un tel cas, l’entrepreneur général contrôlera le calendrier de travail afin de pouvoir coordonner les travaux des divers gens de métier qui seront présents sur le chantier.
+[26] Les parties ont présenté des éléments de preuve contradictoires sur le degré de contrôle qu’exerçait JMR. L’appelante soutient que les contremaîtres de l’entrepreneur général étaient chargés de surveiller le déroulement des travaux et de vérifier que le travail de tous les électriciens sous-traitants était conforme aux normes de l’OSIE. L’homologation du travail était faite par des inspecteurs qui étaient présents sur le chantier tous les jours.
+[27] L’intimé allègue que les contremaîtres de JMR exerçaient un contrôle direct sur la façon dont le travailleur exécutait ses tâches et qu’ils en assuraient la supervision.
+[28] Tout compte fait, je conclus que la preuve de l’appelante est plus crédible. Les contremaîtres de JMR ne supervisaient et ne contrôlaient pas les activités du travailleur pour l’appelante ou pour son compte.
+[29] Pour ce qui est du chantier de Markham, rien ne donne à penser que le travail était assujetti à la direction et au contrôle de l’appelante. Cette dernière n’était pas présente sur place et elle ne recourait pas aux services d’un contremaître ou d’un chef d’équipe. Le critère du contrôle dénote l’existence d’une relation d’entrepreneur indépendant.
+4) La propriété des instruments de travail
+[30] Il ressort de la preuve que le travailleur possédait ses propres outils à main, ainsi qu’un véhicule dont il se servait pour se rendre au chantier et en revenir. Il ressort également de la preuve que l’appelante n’a pas fourni au travailleur d’équipement ou de matériaux sur le chantier de Windsor. C’est JMR qui le faisait, et non l’appelante. Cette dernière a reconnu que, sur le chantier de Markham, elle avait fourni certains outils au travailleur. Il n’y a aucune preuve au sujet de la valeur relative de ces outils. Tout au plus, ce facteur a une valeur neutre pour ce qui est de caractériser la relation entre les parties.
+5) Les chances de bénéfice et les risques de perte
+[31] Il ressort de la preuve que le travailleur a touché une rémunération horaire pour ses services, s’est fait rembourser ses frais de carburant et d’hôtel et a reçu une indemnité de repas quotidienne de 20 $ pendant qu’il a travaillé au chantier de Windsor. Il a touché au départ un tarif de 14 $ l’heure, et ce tarif a été majoré à 18 $ l’heure au cours de la période pertinente. Il semble qu’aucune indemnité journalière ou d’essence n’a été payée au travailleur pendant qu’il a travaillé au chantier de l’hôtel de Markham. L’appelante a également payé des cotisations à la Commission de la sécurité professionnelle et de l’assurance contre les accidents du travail afin de protéger le travailleur dans le cadre du régime de cette organisation. L’appelante a reconnu qu’elle payait la moitié des heures de travail ordinaires pour les jours fériés.
+[32] À première vue, la forme de rémunération dénote l’existence d’une relation employeur-employé. Cela dit, cette forme de rémunération n’est pas tout à fait incompatible avec la manière dont les électriciens travailleurs autonomes facturent à leurs clients les services qu’ils fournissent. De nombreux électriciens facturent leurs services à un tarif horaire et se font rembourser le coût des matériaux. Les contrats ne sont pas tous fondés sur un prix fixe.
+[33] Le travailleur n’a pas négocié directement avec JMR. Il a travaillé pour l’entrepreneur en électricité. Tout compte fait, ce facteur dénote l’existence d’une relation employeur-employé.
+D. Conclusion
+[34] Les parties ont convenu de l’existence d’une relation d’entrepreneur indépendant au début de leur relation. Il convient de respecter leur intention, sauf s’il ressort de l’application des facteurs énoncés dans l’arrêt Wiebe Door que les faits contredisent cette intention. Le facteur du degré de contrôle dénote l’existence d’une relation d’entrepreneur indépendant. Le critère des chances de bénéfices et des risques de perte dénote davantage l’existence d’une relation employeur‑employé. J’accorde plus de poids à l’intention et au facteur du degré de contrôle qu’aux autres. Il semble que le travailleur ne soit pas parvenu à s’établir en affaires. Il a essayé de le faire, mais il a échoué. Cependant, il ne s’agit pas là d’un motif suffisant pour que la Cour fasse abstraction de l’intention des parties lorsque les facteurs énoncés dans l’arrêt Wiebe Door étayent la manière dont les parties caractérisent leur relation.
+[35] Pour les motifs exposés ci‑dessus, je conclus que le travailleur n’a pas exercé un emploi assurable ou un emploi ouvrant droit à pension au sens de la LAE et du RPC, respectivement, à un quelconque moment de la période du 8 mars 2010 au 29 septembre 2010.
+Signé à Ottawa (Canada), ce 8e jour d’août 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2012 CCI 286
+Nos DES DOSSIERS DE LA COUR : 2011-3070(EI), 2011-3072(CPP)
+INTITULÉ : KAJLA ZOLTAN-MAPLE ELECT. c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 mai 2012
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 8 août 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+Zoltan Kajla
+Avocate de l’intimé :
+Me Jasmeen Mann
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-2.
+[2] Pièce A-4.
+[3] Pièce A-1.

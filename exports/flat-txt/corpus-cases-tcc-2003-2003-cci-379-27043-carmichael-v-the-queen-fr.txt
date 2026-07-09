@@ -1,0 +1,199 @@
+Title: Carmichael v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27043/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-379-27043-carmichael-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-05-30
+
+# Carmichael v. The Queen
+
+- Citation: 2003 CCI 379
+- Decision date: 2003-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 588, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carmichael v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-30
+Référence neutre
+2003 CCI 379
+Numéro de dossier
+2000-2091(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-2091(IT)G
+ENTRE :
+SUSAN CARMICHAEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 26 et 27 août 2002 à Toronto (Ontario)
+Par : L'honorable juge M. A. Mogan
+Comparutions
+Avocat de l'appelante :
+Me John David Buote
+Avocate de l'intimée :
+Me Suzanne M. Bruce
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995 et 1996 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de mai 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 17e jour de mars 2004.
+Sylvie Sabourin, traductrice
+Référence : 2003CCI379
+Date : 20030530
+Dossier : 2000-2091(IT)G
+ENTRE :
+SUSAN CARMICHAEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] L'appelante et Trevor Johnson ( « Trevor » ) se sont mariés le 24 juin 1978, dans la province d'Ontario. Deux enfants sont nés du mariage : Stephanie (janvier 1984) et Derek (avril 1987). En février 1995, l'appelante et Trevor se sont séparés et ils ont vécu séparés durant toute la période pertinente. Le 2 mai 1995, le juge Hermiston de la Cour de l'Ontario (Division générale) a rendu une ordonnance (pièce A-1, onglet 1) sur une requête dans laquelle l'appelante était la « requérante » et Trevor l' « intimé » . L'ordonnance déclarait, entre autres :
+[traduction]
+5. LA COUR ORDONNE QUE, sur une base provisoire temporaire, le conjoint intimé verse à la conjointe requérante la somme de 1 400 $ par mois par enfant à partir du 1er mai 1995, soit une pension alimentaire totale de 2 800 $ par mois.
+6. LA COUR ORDONNE QUE le conjoint intimé verse, sur une base provisoire temporaire, la totalité des dépenses liées au logement, y compris l'hypothèque, l'assurance, les services publics, le raccordement au câble, le téléphone, les impôts et l'entretien comme accessoires au paiement de la pension alimentaire pour la conjointe. Pour ce qui est du reste, la question est ajournée en attendant le résultat du contre-interrogatoire.
+[2] Trevor a effectué les paiements de pension alimentaire pour enfants en vertu du paragraphe 5 de l'ordonnance et a payé diverses dépenses liées au logement en vertu du paragraphe 6 de l'ordonnance. La question, dans le présent appel, est celle de savoir si l'appelante doit inclure les montants versés par Trevor en vertu du paragraphe 6 de l'ordonnance dans le calcul de son revenu pour 1995 et 1996.
+[3] Lorsqu'elle a produit ses déclarations de revenus pour 1995 et 1996, l'appelante a signalé comme « pension alimentaire » les montants respectifs de 21 000 $ et de 34 000 $. Consulter la pièce R-1, onglets 1 et 2. Ces montants ont été reçus à titre de pension alimentaire pour enfants en vertu du paragraphe 5 de l'ordonnance (pièce A-1, onglet 1). Lorsqu'il a produit ses déclarations de revenus pour 1995 et 1996, Trevor a déduit à titre de « pension alimentaire payée » les montants respectifs de 29 605,82 $ et de 45 555,70 $. Consulter la pièce R-1, onglets 3 et 4. L'écart entre les montants signalés par l'appelante et ceux déduits par Trevor est le suivant :
+1995
+1996
+Trevor a déduit
+29 605,82 $
+45 555,70 $
+L'appelante a déclaré
+21 000,00 $
+34 000,00 $
+Écart
+8 605,82 $
+11 555,70 $
+Les montants indiqués comme « Écart » dans le tableau ci-dessus représentent les dépenses liées au logement payées par Trevor en vertu du paragraphe 6 de l'ordonnance. Par voie d'Avis de nouvelle cotisation datés du 19 mars 1998, le ministre du Revenu national a ajouté respectivement 8 605,82 $ et 11 555,70 $ au revenu déclaré par l'appelante pour 1995 et 1996. L'appelante a interjeté appel à l'encontre de ces nouvelles cotisations.
+[4] Au début de l'audience, l'avocat de l'appelante et l'avocate de l'intimée ont déposé devant la Cour deux documents intitulés [TRADUCTION] « Exposé conjoint des faits modifié » et « Exposé conjoint des faits complémentaires » . Je reproduis le contenu de ces deux documents.
+[traduction]
+Exposé conjoint des faits modifié
+1. Les montants ont été payés par l'ancien conjoint de l'appelante à des tiers pour les dépenses liées au logement, y compris l'hypothèque, l'assurance, les services publics, le raccordement au câble, le téléphone, les impôts et l'entretien ( « montants » ) comme accessoires au paiement de la pension alimentaire pour la conjointe, conformément à une ordonnance rendue par M. le juge Hermiston de la Cour de l'Ontario (Division générale) datée du 2 mai 1995 ( « ordonnance » ).
+2. Les montants payés totalisaient 8 605,82 $ en 1995 et 11 555,70 $ en 1996.
+3. L'ordonnance ne prévoit pas que les paragraphes 56.1(2) et 60.1(2) doivent s'appliquer aux montants.
+4. En 1995 et 1996, l'appelante vivait séparée de son conjoint qui devait effectuer les paiements au moment où ils ont été faits et pendant le reste de l'année.
+5. Le ministre du Revenu national (le « ministre » ) a établi une nouvelle cotisation pour les années 1995 et 1996 de l'appelante pour ajouter les montants respectifs de 8 605,82 $ et de 11 555,70 $ aux années d'imposition 1995 et 1996 de l'appelante dont elle a été informée par Avis de nouvelle cotisation daté du 19 mars 1998 et par Avis de confirmation datés du 15 février 2000.
+Exposé conjoint des faits complémentaires
+Les faits complémentaires suivants qui sont admis s'ajoutent (sans le remplacer) à l'Exposé conjoint des faits modifié signé le 20 août 2002, par l'appelante, et le 21 août 2002, par l'intimée.
+1. Tous les paiements ordonnés conformément au paragraphe 6 de l'ordonnance de M. le juge Hermiston de la Cour de l'Ontario (Division générale) datée du 2 mai 1995 ( « ordonnance » ) sont des paiements destinés à l'appelante aux fins de l'alinéa 56.1(1)b).
+2. L'appelante reconnaît avoir reçu les paiements effectués par son ancien conjoint liés aux frais de Bell Canada s'élevant à 120 $ en 1995 et à 553,76 $ en 1996.
+[5] Les dispositions de la Loi de l'impôt sur le revenu mentionnées dans l'Exposé conjoint des faits modifié et dans l'Exposé conjoint des faits complémentaires, en plus d'autres dispositions pertinentes, telles qu'elles s'appliquaient en 1995 et 1996, sont reproduites ci-dessous. Par souci de brièveté et de compréhension, j'omets certains termes qui, à mon avis, ne s'appliquent pas à l'espèce. Il est utile de remarquer que les alinéas 56(1)b) et c) ont une structure parallèle à celle des alinéas 60b) et c).
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) [...]
+b) un montant reçu par le contribuable au cours de l'année, en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins du contribuable ou d'enfants de celui-ci ou aux besoins à la fois du contribuable et de ces enfants, si le contribuable, pour cause d'échec de son mariage, vivait séparé de son conjoint ou ancien conjoint tenu d'effectuer le paiement, au moment de la réception du paiement et durant le reste de l'année;
+c) un montant reçu par le contribuable au cours de l'année à titre d'allocation payable périodiquement pour subvenir aux besoins du contribuable ou d'enfants de celui-ci ou aux besoins à la fois du contribuable et de ces enfants, si les conditions suivantes sont réunies :
+(i) au moment de la réception du montant et durant le reste de l'année, le contribuable vivait séparé de la personne tenue d'effectuer le paiement,
+(ii) la personne tenue d'effectuer le paiement est le père naturel ou la mère naturelle d'un enfant du contribuable,
+(iii) le montant a été reçu en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province;
+60 Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+a) [...]
+b) un montant payé par le contribuable au cours de l'année, en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le contribuable, pour cause d'échec de son mariage, vivait séparé de son conjoint ou ancien conjoint à qui il était tenu d'effectuer le paiement, au moment où le paiement a été effectué et durant le reste de l'année;
+c) un montant payé par le contribuable au cours de l'année à titre d'allocation payable périodiquement pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si les conditions suivantes sont réunies :
+(i) au moment du paiement et durant le reste de l'année, le contribuable vivait séparé du bénéficiaire,
+(ii) le contribuable est le père naturel ou la mère naturelle d'un enfant du bénéficiaire,
+(iii) le montant a été reçu en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province;
+56(12) Sous réserve des paragraphes 56.1(2) et 60.1(2) et pour l'application des alinéas (1)b), c) et c.1) et 60b), c) et c.1), un montant reçu par une personne - appelée « contribuable » aux alinéas (1)b), c) et c.1) et « bénéficiaire » aux alinéas 60b), c) et c.1) - ne constitue une allocation que si cette personne peut l'utiliser à sa discrétion.
+56.1(1) Dans le cas où une ordonnance, un jugement ou un accord écrit visé aux alinéas 56(1)b) ou c), ou une modification s'y rapportant, prévoit le paiement périodique d'un montant :
+a) soit à un contribuable par une personne qui est, selon le cas :
+(i) le conjoint ou l'ancien conjoint du contribuable,
+(ii) si le montant est payé en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province, un particulier de sexe opposé qui est le père naturel ou la mère naturelle d'un enfant du contribuable,
+b) soit au profit d'un contribuable, d'enfants confiés à sa garde ou à la fois du contribuable et de ces enfants,
+tout ou partie du montant, une fois payé, est réputé, pour l'application des alinéas 56(1)b) et c), payé au contribuable et reçu par lui.
+56.1(2) Pour l'application des alinéas 56(1)b) et c), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant [...] payé par une personne au cours d'une année d'imposition en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, au titre d'une dépense [...] engagée au cours de l'année [...] pour subvenir aux besoins d'un contribuable qui est :
+a) soit le conjoint ou l'ancien conjoint de cette personne,
+b) soit, si le montant est payé en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province, un particulier de sexe opposé qui est le père naturel ou la mère naturelle d'un enfant de la personne,
+ou pour subvenir aux besoins d'enfants confiés à la garde du contribuable ou aux besoins à la fois du contribuable et de ces enfants, si, au moment où la dépense a été engagée et durant le reste de l'année, le contribuable et la personne vivaient séparés;
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+est, lorsque l'ordonnance, le jugement ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 60.1(2) s'appliquent à tout paiement effectué à leur titre, réputé être un montant payé par cette personne et reçu par le contribuable à titre d'allocation payable périodiquement.
+60.1(1) Dans le cas où une ordonnance, un jugement ou un accord écrit visé aux alinéas 60b) ou c), ou une modification s'y rapportant, prévoit le paiement périodique d'un montant par un contribuable :
+a) soit à une personne qui est, selon le cas :
+(i) le conjoint ou l'ancien conjoint du contribuable,
+(ii) si le montant est payé en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province, un particulier de sexe opposé qui est le père naturel ou la mère naturelle d'un enfant du contribuable;
+b) soit au profit de la personne, d'enfants confiés à sa garde ou à la fois de la personne et de ces enfants,
+tout ou partie du montant, une fois payé, est réputé, pour l'application des alinéas 60b) et c), payé à la personne et reçu par elle.
+60.1(2) Pour l'application des alinéas 60b) et c), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant [...] payé par un contribuable au cours d'une année d'imposition en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, au titre d'une dépense [...] engagée au cours de l'année [...] pour subvenir aux besoins d'une personne qui est :
+a) soit le conjoint ou l'ancien conjoint du contribuable,
+b) soit, si le montant est payé en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province, un particulier de sexe opposé qui est le père naturel ou la mère naturelle d'un enfant du contribuable,
+ou pour subvenir aux besoins d'enfants confiés à la garde de la personne ou aux besoins à la fois de la personne et de ces enfants, si, au moment où la dépense a été engagée et durant le reste de l'année, le contribuable et la personne vivaient séparés;
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+[...]
+est, lorsque l'ordonnance, le jugement ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à tout paiement effectué à leur titre, réputé être un montant payé par le contribuable et reçu par la personne à titre d'allocation payable périodiquement.
+[6] L' « ordonnance » mentionnée aux paragraphes 1 et 3 de l'Exposé conjoint des faits modifié est l'ordonnance du juge Hermiston (pièce A-1, onglet 1) citée partiellement au paragraphe 1 ci-dessus. Les parties ont convenu que l'ordonnance ne prévoit pas que les paragraphes 56.1(2) et 60.1(2) s'appliquent aux montants payés par Trevor aux tiers en vertu du paragraphe 6 de l'ordonnance. Même si les parties n'en avaient pas convenu, il est manifeste que les termes de l'ordonnance ne font aucun renvoi particulier aux paragraphes 56.1(2) et 60.1(2) et, d'ailleurs, ne font aucun renvoi particulier aux conséquences fiscales découlant de quelque paiement que ce soit fait par Trevor à l'appelante ou à un tiers. L'ordonnance ne parle d'aucune question fiscale.
+[7] Une jurisprudence récente de la Cour et de la Cour d'appel fédérale qui examine les ordonnances du tribunal et les accords de séparation renvoie, ou non, aux paragraphes 56.1(2) et 60.1(2). Une importante condition prévue par chacun de ces deux paragraphes réside dans les termes performatifs intégrés dans la disposition déterminative :
+[...] lorsque l'ordonnance, le jugement ou l'accord écrit prévoit que le présent paragraphe et [...] s'appliquent à tout paiement effectué à leur titre [...]
+[8] Dans la décision La Reine c. Arsenault, C.A.F., no A-300-95, 7 février 1996 (96 DTC 6131), la Cour d'appel fédérale n'était pas unanime sur la question de savoir si les montants de certains chèques, signés par un homme et remis à sa conjointe (après leur séparation) mais payables au propriétaire de la conjointe, étaient déductibles en vertu de l'alinéa 60b) lors du calcul du revenu de l'homme. La majorité a soutenu (en février 1996) que les montants étaient déductibles. Dans la décision La Reine c. Armstrong, C.A.F., no A-189-95, 10 mai 1996 (96 DTC 6315), la Cour d'appel fédérale a examiné une situation similaire dans laquelle un homme tentait de déduire des paiements effectués au profit de son ancienne conjointe. Le juge d'appel Stone, s'exprimant au nom de la Cour, a déclaré, à la page 6319 :
+L'applicabilité du paragraphe 60.1(2) peut être tranchée rapidement. À mon avis, la présomption que le Parlement utilise à la fin de cette disposition s'applique uniquement « lorsque l'ordonnance, le jugement ou l'accord écrit, selon le cas, prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à tout paiement effectué en vertu de ce document... » . Aucun texte de cette nature ne figure dans l'une ou l'autre des ordonnances de la Cour. Il s'ensuit que le paragraphe 60.1(2) ne peut être invoqué pour permettre la déduction des montants du revenu de l'intimé.
+Le jugement rendu dans l'affaire Armstrong, à l'encontre du contribuable, a été rendu tout juste trois mois après le jugement Arsenault. À mon avis, la décision rendue dans l'affaire Armstrong était fondée sur le paragraphe 60.1(2) alors que celle rendue dans l'affaire Arsenault l'était sur l'alinéa 60b).
+[9] Dans la décision La Reine c. Larsson, C.A.F., no A-623-96, 5 août 1997 (97 DTC 5425), la Cour d'appel fédérale a encore une fois examiné une situation similaire lorsque le juge d'appel McDonald a déclaré ceci :
+[...] Suivant la jurisprudence, en règle générale, lorsque le conjoint bénéficiaire ne peut utiliser les sommes en question à sa discrétion, celles-ci ne sont pas considérées comme une allocation (La Reine c. Armstrong, 96 DTC 6315 (C.A.F.)). Ainsi, les pensions alimentaires que le payeur est tenu de payer comme celle qui a été versée en l'espèce ne sont en règle générale pas assujetties au traitement fiscal susmentionné et sont imposées entre les mains du conjoint qui les paie.
+Il existe une exception à ce principe général lorsque le conjoint verse la pension alimentaire qu'il est tenu de payer en conformité avec un accord écrit ou un ordonnance judiciaire. En pareil cas, la Loi de l'impôt sur le revenu précise que ces versements sont réputés constituer une allocation pour l'application de la Loi lorsque l'accord ou l'ordonnance judiciaire mentionne expressément les paragraphes 60.1(2) et 56.1(2) de la Loi de l'impôt sur le revenu. Si ces articles sont mentionnés, la somme en question est réputée être une allocation et le conjoint payeur a le droit de la déduire de son revenu.
+[...]
+Le texte du paragraphe 60.1(2) se poursuit en permettant la déduction de certaines sommes lorsque l'ordonnance judiciaire ou l'accord écrit mentionne expressément les paragraphes 56.1(2) et 60.1(2). Il semble que le fil conducteur de ces dispositions soit que, pour assurer la déductibilité des pensions alimentaires, l'ordonnance ou l'accord doit mentionner les paragraphes 56.1(2) et 60.1(2).
+Dans la décision Larsson, il y avait quatre ordonnances du tribunal mais seule la dernière renvoyait précisément aux paragraphes 56.1(2) et 60.1(2). La Cour d'appel fédérale a conclu que la quatrième ordonnance du tribunal était rétroactive et que les montants étaient, par conséquent, déductibles. La décision dans l'affaire Larsson, prise par elle-même, a une grande portée, car la Cour d'appel fédérale a déclaré que l'ordonnance du tribunal ou l'accord écrit doit expressément « mentionner » les paragraphes 56.1(2) et 60.1(2). Des affaires ultérieures ont assoupli ce résultat.
+[10] Dans la décision Pelchat c. La Reine, C.C.I., no 96-518(IT)G, 22 novembre 1996 ([1998] 1 C.T.C. 2741), le contribuable et son ancienne conjointe avaient divorcé en 1989. Le juge de la Cour supérieure du Québec qui a accordé le divorce officiellement donnait acte à une entente préalable entre les parties aux termes de laquelle le contribuable convenait de rembourser son ancienne conjointe pour certaines dépenses du ménage comme l'hypothèque, les impôts fonciers, l'assurance, le chauffage et l'électricité. Le jugement de divorce contenait une disposition qui prévoyait ce qui suit :
+À titre de pension alimentaire, le demandeur assumera les dépenses décrites ci-après et calculées sur une base mensuelle [...] Cette pension alimentaire sera imposable dans les mains de la défenderesse et déductible d'impôt pour le demandeur.
+Le ministre a refusé la déduction des montants du remboursement au motif que le jugement de divorce ne prévoyait pas expressément l'application des paragraphes 60.1(2) et 56.1(2). Le juge Archambault de la Cour a accueilli l'appel interjeté par le contribuable (conjoint) au motif que le jugement de divorce indiquait que les parties reconnaissaient clairement que les montants payés seraient imposables dans les mains de la conjointe et déductibles dans celles du conjoint.
+[11] Dans la décision Ferron c. La Reine, C.C.I., no 2000-138(IT)I, 3 avril 2001 ([2001] 3 CTC 2072), le juge Archambault se trouvait de nouveau face à une situation similaire à celle de l'affaire Pelchat. L'accord écrit entre Daniel Ferron et sa conjointe (Mme Bernard), signé après leur séparation, ne mentionnait pas les paragraphes 56.1(2) et 60.1(2) mais était encore plus précis que celui signé dans l'affaire Pelchat en ce qui concerne les conséquences fiscales des montants versés par M. Ferron à des tiers. Le paragraphe 2.7 de l'accord écrit déclarait ceci :
+2.7 Les paiements versés aux termes des paragraphes 2.1 à 2.6 ci-dessus seront imposables comme revenus sur la tête de Madame et pourront être déduits comme pension alimentaire par Monsieur.
+Le juge Archambault a établi une distinction avec la décision, plus récente, rendue par la Cour d'appel fédérale dans l'affaire Larsson et, à l'instar de la décision qu'il avait rendue dans l'affaire Pelchat, a accueilli l'appel du contribuable (conjoint).
+[12] Dans une décision plus récente rendue par la Cour d'appel fédérale, Veilleux c. La Reine, [2002] A.C.F. no 737, M. Veilleux et sa conjointe avaient divorcé en décembre 1989. Une entente sur les mesures accessoires déposée au cours de la procédure de divorce ne mentionnait pas le traitement fiscal des montants versés par M. Veilleux à des tiers au profit de son ancienne conjointe. En mars 1990, trois mois après le divorce, M. Veilleux et son ancienne conjointe signaient une entente complémentaire prévoyant le traitement fiscal des montants versés à des tiers mais l'entente ne faisait pas expressément état des paragraphes 56.1(2) et 60.1(2). L'entente complémentaire contenait toutefois les paragraphes suivants :
+Toutes les sommes d'argent que M. Gaston Veilleux s'engagent à verser à Mme Louise Ouellette sont des sommes d'argent nettes d'impôt; M. Gaston Veilleux s'engage donc à assumer les sommes d'impôt fédéral et provincial qui pourraient être dues par Mme Louise Ouellette et qui découlent du paiement de ladite pension alimentaire.
+Toutes les sommes versées à Mme Louise Ouellette ou à des tiers en son nom sont considérées faire partie de la pension alimentaire; parmi celles-ci figurent les dépenses reliées au domicile familial (i.e. le versement hypothécaire, les taxes municipales et scolaires, l'assurance-habitation, l'électricité, le chauffage, l'entretien et le câble) les dépenses reliées aux diverses assurances familiales (i.e. assurance-vie des personnes à charge, rente de survivant, frais d'hospitalisation, frais médicaux, frais para-médicaux, assurance dentaire), l'impôt provincial et fédéral et toute autre somme sur laquelle pourront s'entendre les deux parties (ex : réparation d'automobile, frais d'activités pour les enfants, etc.).
+[13] La Cour d'appel fédérale a conclu que les deux paragraphes susmentionnés montraient que M. Veilleux et son ancienne conjointe avaient convenu qu'elle devrait inclure, dans son revenu, tout montant qu'il versait à un tiers au profit de cette dernière et qu'il l'indemniserait en ce qui concerne tout impôt qu'elle verserait sur ces montants. Le juge d'appel Létourneau, s'exprimant au nom de la Cour, a déclaré qu'il préférait l'approche adoptée par le juge Archambault dans les décisions Pelchat et Ferron et il a ajouté, au paragraphe 24 :
+24 [...] il n'est pas nécessaire que les numéros des paragraphes 56.1(2) et 60.1(2) soient expressément mentionnés dans l'accord écrit, il suffit qu'il apparaisse de l'accord écrit que les parties ont compris les incidences fiscales de cet accord. Car la seule mention des numéros de ces paragraphes dans l'accord n'est pas non plus une garantie que les parties à l'accord ont compris leurs obligations et leurs droits. Sur ce point, l'expression et la description de ces obligations et de ces droits dans l'accord écrit m'apparaissent tout autant, sinon mieux, rencontrer l'objectif du législateur qu'une simple référence magique à des numéros d'articles dont la teneur n'est pas indiquée dans l'accord.
+[14] L'approche pratique et empreinte de bon sens de la Cour d'appel fédérale, dans la décision Veilleux, est attirante. Cependant, l'application de la décision Veilleux comporte une limite car le texte de l'accord écrit ou de l'ordonnance du tribunal, s'il ne contient aucun renvoi précis aux paragraphes 56.1(2) et 60.1(2), doit démontrer que les parties comprennent les conséquences fiscales de la réalisation de certains paiements par l'une des parties. En d'autres termes, il doit être manifeste, à la lecture du document, que les deux parties comprennent que celle d'entre elles qui effectue un paiement particulier le déduira du calcul de son revenu et que l'autre inclura ledit montant dans le calcul de son revenu. Ceci représente, après tout, la répercussion pratique de la disposition déterminative prévue aux paragraphes 56.1(2) et 60.1(2) sous cette forme : « réputé être un montant payé [...] et reçu [...] à titre d'allocation payable périodiquement » .
+[15] Comme le paragraphe 6 ci-dessus l'énonce, l'ordonnance du juge Hermiston (pièce A-1, onglet 1) ne prévoit rien quant aux questions d'impôt sur le revenu. Par conséquent, l'intimée ne peut tirer aucune consolation du fait que la Cour d'appel fédérale semble être passée d'une règle stricte dans la décision Larsson à une règle plus souple dans celle rendue dans l'affaire Veilleux. Je suis convaincu que les paragraphes 56.1(2) et 60.1(2) ne s'appliquent pas aux paiements effectués par Trevor en vertu du paragraphe 6 de l'ordonnance du juge Hermiston (pièce A-1, onglet 1) mais que l'alinéa 56(1)b), par lui-même, peut s'appliquer auxdits paiements.
+[16] Dans le paragraphe 1 de l'Exposé conjoint des faits complémentaires, l'appelante et l'intimée ont convenu que tous les paiements effectués par Trevor, conformément au paragraphe 6 de l'ordonnance du juge Hermiston (pièce A-1, onglet 1), étaient des paiements effectués au profit de l'appelante aux fins de l'alinéa 56.1(1)b) de la Loi. Par conséquent, en vertu du paragraphe 56.1(1), lesdits paiements effectués par Trevor à un tiers sont réputés, aux fins de l'alinéa 56(1)b), avoir été payés à l'appelante et reçus par elle.
+[17] Dans la décision Hak c. La Reine, C.C.I., no 97-2572(IT)I, 16 octobre 1998, (99 DTC 36), le contribuable et sa conjointe s'étaient séparés le 2 janvier 1995, date à laquelle ils avaient signé ce qui semble être un accord de séparation [TRADUCTION] « improvisé » qui contenait la stipulation suivante :
+5. Anwar Hak versera une pension alimentaire de 1 000 $ par mois ou paiera
+le loyer de l'appartement 455 $ par mois
+les services publics, soit environ 200 $ par mois
+la prime du régime de soins de santé, soit environ 100 $ par mois
+Total 750 $ [sic] par mois
+et 245 $ par mois au titre de dépenses diverses, soit en tout 1 000 $ par mois.
+Lors de l'audience, M. Hak a prouvé, au moyen de reçus fournis par des tiers, qu'il avait versé 8 151,24 $, en vertu de l'article 5 de l'accord, au cours de 1995, seule année faisant l'objet de l'appel. Le ministre du Revenu national a refusé la déduction de tout montant payé par M. Hak à des tiers en vertu de l'article 5. Lorsqu'il a accueilli l'appel interjeté par M. Hak, le juge Bowman (tel était alors son titre) a déclaré, au paragraphe 12 de sa décision :
+[...] les conjoints avaient convenu d'un arrangement selon lequel une partie des 1 000 $ par mois serait payée directement aux compagnies de gaz et de services publics et le reste serait versé à la conjointe de l'appelant. Ce mode de paiement était expressément prévu dans l'accord comme solution de rechange au versement des 1 000 $ par mois directement à la conjointe de l'appelant. Bien que l'accord ne parle pas de paiements faits « au nom de Fazima Hak » ou « au profit de Fazima Hak » , c'est manifestement là l'intention exprimée par l'accord et l'effet de celui-ci, et notamment son paragraphe 5. Simplement à partir de cela, j'aurais pensé qu'il était évident que les paiements faits par l'appelant au nom et au profit de Fazima Hak seraient réputés avoir été reçus par elle et représenteraient le type de paiement prévu à l'alinéa 60b).
+[18] Après avoir reproduit la totalité du paragraphe 60.1(1), le juge Bowman a continué ainsi :
+[14] Il n'est pas évident ce que l'alinéa 60.1(1)b) a ajouté à ce qui était déjà prévu par les règles de droit en matière de « recette présumée » (constructive receipt). Il est à noter que le paragraphe 60.1(1) met l'accent sur le bénéficiaire du paiement et non sur l'auteur du paiement. C'est le bénéficiaire qui est réputé avoir été payé et avoir reçu la somme. Il est possible que le paragraphe 60.1(1) ait été ajouté à la Loi pour empêcher un bénéficiaire d'éviter, du fait qu'il ne les avait pas « reçues » , l'impôt sur des sommes payées en son nom à des tiers. Fait intéressant, l'alinéa 60b) exige que le montant ait été payé à titre de pension alimentaire ou d'allocation d'entretien. Il ne dit pas explicitement à qui les montants doivent être payés.
+[17] Il semble bien évident que Fazima Hak avait un pouvoir discrétionnaire à l'égard de la totalité de la somme de 1 000 $ et qu'elle a exercé ce pouvoir en faisant de son mari son mandataire pour qu'il paie pour elle certaines dépenses comme les frais de services publics et le loyer. Ce que Fazima Hak disait en fait à son mari c'est qu'il devait lui verser 1 000 $ par mois et qu'il pouvait satisfaire à une partie de cette obligation en payant pour elle certaines de ses factures.
+[31] Je ne pense pas que le paragraphe 60.1(2) s'applique. Le paiement du loyer et des frais de services publics était simplement une autre façon, dont les conjoints avaient convenu, de satisfaire à une partie de l'obligation de l'appelant de verser à sa conjointe l'allocation périodique de 1 000 $ par mois. L'omission de mentionner dans l'accord qu'une disposition n'ayant de toute façon aucune application doit s'appliquer aux paiements ne peut être fatale pour la déductibilité en vertu de l'alinéa 60b).
+[37] [...] Dans la présente espèce, les paiements sont à mon avis visés par l'alinéa 60b) et l'accord entre les conjoints ne fait que permettre à l'appelant de s'acquitter en partie de son obligation de verser le montant périodique de 1 000 $ en payant certaines factures que l'épouse aurait autrement à payer sur l'allocation de 1 000 $ par mois. Selon moi, la présente espèce ressemble beaucoup plus à l'affaire Arsenault. En l'absence d'une indication claire du contraire, je ne peux présumer que, dans l'arrêt Armstrong, la Cour d'appel fédérale entendait casser la décision qu'elle avait elle-même rendue trois mois plus tôt dans l'affaire Arsenault. En fait, la présente cause est plus forte que la cause Arsenault. Dans l'affaire Arsenault, l'époux avait unilatéralement présenté à son épouse des chèques à l'ordre d'une tierce personne alors qu'en l'espèce, les paiements ont été faits avec le consentement exprès de l'épouse.
+[19] L'espèce repose véritablement sur le libellé du paragraphe 6 de l'ordonnance du juge Hermiston. Bien qu'il ait été reproduit au paragraphe 1 ci-dessus, il vaut la peine d'être répété ici :
+[traduction]
+6. LA COUR ORDONNE QUE le conjoint intimé verse, sur une base provisoire temporaire, la totalité des dépenses liées au logement, y compris l'hypothèque, l'assurance, les services publics, le raccordement au câble, le téléphone, les impôts et l'entretien comme accessoires au paiement de la pension alimentaire pour la conjointe. Pour ce qui est du reste, la question est ajournée en attendant le résultat du contre-interrogatoire.
+Je ferai deux remarques. D'abord, le conjoint doit payer [TRADUCTION] « la totalité des dépenses liées au logement » qui, de par leur nature, tendent à être périodiques. La plupart des dépenses énumérées (hypothèque, services publics, câble et téléphone) sont payables tous les mois ou tous les quelques mois. D'autres dépenses comme les assurances, les impôts et l'entretien sont payables plus d'une fois par année. Ensuite, le conjoint doit payer la totalité des dépenses liées au logement [TRADUCTION] « comme accessoires au paiement de la pension alimentaire » . Par conséquent, les paiements effectués par Trevor, en vertu du paragraphe 6, sont périodiques et expressément pour l'entretien de l'appelante. Comme le paragraphe 16 ci-dessus le mentionne, en vertu de l'alinéa 56.1(1)b), les paiements faits par Trevor à des tiers sont réputés avoir été faits à l'appelante et reçus par elle aux fins de l'alinéa 56(1)b).
+[20] Lorsque l'appel tranché dans la décision Arsenault (mentionné au paragraphe 8 ci-dessus) a été entendu par la Cour, C.C.I., no A-300-95, 7 février 1996 ([1995] 2 C.T.C. 2168), le juge Brulé a soutenu que les montants en litige avaient été implicitement reçus par la conjointe. Elle a acquiescé au paiement de ces montants par son ancien conjoint à son propriétaire et elle a fait du propriétaire son mandataire aux fins de la réception des paiements. Le juge Brulé n'a examiné que l'alinéa 60b) pour permettre la déduction, et la Cour d'appel fédérale a confirmé sa décision comme le décrit le paragraphe 8 ci-dessus. À mon avis, la décision rendue par la Cour d'appel fédérale dans l'affaire Arsenault était fondée sur l'alinéa 60b) et non sur le paragraphe 60.1(2).
+[21] La structure de l'alinéa 56(1)b) est parallèle à celle de l'alinéa 60b) et décrit les montants reçus à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins du bénéficiaire. Ces termes décrivent les montants que Trevor devait payer à des tiers en vertu du paragraphe 6 de l'ordonnance et que, en vertu du paragraphe 56.1(1), l'appelante est réputée avoir reçus. Je paraphraserai la déclaration du juge Bowman dans la décision Hak (paragraphe 17) en déclarant que l'appelante avait discrétion concernant les dépenses liées au logement mentionnées au paragraphe 6 de l'ordonnance et qu'elle avait exercé cette discrétion en faisant de son conjoint son mandataire pour payer les dépenses liées au logement en son nom.
+[22] L'appelante doit inclure les montants respectifs de 8 605,82 $ et de 11 555,70 $ tel que cela est indiqué au paragraphe 3, dans le calcul de son revenu pour 1995 et 1996. Les appels pour 1995 et 1996 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 30e jour de mai 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 17e jour de mars 2004.
+Sylvie Sabourin, traductrice

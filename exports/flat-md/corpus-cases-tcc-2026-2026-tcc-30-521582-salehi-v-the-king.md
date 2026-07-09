@@ -1,0 +1,227 @@
+---
+title: "Salehi v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521582/index.do"
+last_modified: "2026-02-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 30"
+citation2: ""
+neutral_citation: "2026 TCC 30"
+decision_date: "2026-02-12"
+language: "en"
+item_id: "521582"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5618
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-02-18T09:06:32.575000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e4b75672d757cc3f59d5dc5049f5cdb1fa269ea7ffc7cfe64399f839f3fea33d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salehi v. The King
+
+- Citation: 2026 TCC 30
+- Decision date: 2026-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5618, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salehi v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-02-12
+Neutral citation
+2026 TCC 30
+File numbers
+2022-31(GST)G
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2022-31(GST)G
+BETWEEN:
+AMIR SALEHI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on February 9, 2026 at Toronto, Ontario
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Jennifer Dell'Aquila
+Counsel for the Respondent:
+Hassan Rasmi
+ORDER
+The appellant’s motion to file the amended notice of appeal in the form set out in the notice of motion is granted.The amended notice of appeal in the notice of motion is deemed to be filed and served as of the date of this Order;
+The respondent is granted until February 27, 2026, to file and serve an amended reply to the amended notice of appeal;
+The parties will exchange supplemental lists of documents listing proposed evidence relevant to the amendments in the amended notice of appeal that is being accepted for filing, and any amendments in an amended reply, upon which they may rely, by March 13, 2026;
+The parties will exchange copies of the documents in the amended lists by March 13, 2026;
+A further round of oral discoveries, if any shall be held by the parties by March 27, 2026.Each party shall have one half day for oral discoveries;
+Undertakings, if any, from the oral discoveries shall be answered by April 10, 2026;
+Written follow-up questions arising out of the undertakings, if any, shall be served by April 24, 2026;
+Answers to the follow-up questions shall be served by May 15, 2026;
+For greater certainty,
+the re-opening of evidence is limited to permit only evidence that is relevant to the pleadings amendments; and
+all evidence to be adduced at the resumption of the hearing in respect of the amended pleadings remains subject to the rules of evidence.
+In the event that a party wishes to call an additional witness with respect to the amendments in the notice of appeal or the amended reply, they shall serve a will-say statement describing that evidence no later than 15 days before the resumption of the hearing;
+The appellant shall bear its own costs of any follow-up written or oral discovery permitted by this Order.The appellant shall pay the Respondent’s costs and disbursements, if any, for the documentary and oral discovery steps permitted by this Order in accordance with the Tariff, in any event of the cause.
+By February 27, 2026, the parties will provide the Registry of the Court with their availability for two days of hearing for the week of June 1, 2026 and also for the remainder of 2026 starting with the week of June 22, 2026; and
+the appellant shall pay costs of this motion in any event of the cause, which costs are fixed at $1200, and payable by March 13, 2026.
+Signed this 12th day of February 2026.
+“Michael Ezri”
+Ezri J.
+Citation: 2026 TCC 30
+Date: 20260212
+Docket: 2022-31(GST)G
+BETWEEN:
+AMIR SALEHI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Ezri J.
+[1] This motion is the result of a last-minute request on behalf of the appellant for me to take judicial notice of a document, after the evidence portion of this appeal had closed.
+[2] The underlying appeal relates to the assessment of HST on the sale by Mr. Salehi of two new houses. It is the assessment in respect of the second of those houses, 17 Dunblaine Avenue, that has occasioned this motion.
+[3] The trial of these matters unfolded over four days in December 2025. Following the fourth day, the evidence was more or less concluded in respect of both parties, and the argument was set for December 18, 2025.
+[4] On December 18, 2025, a few loose ends were left to be dealt with to be followed by closing arguments. After those housekeeping matters were addressed, the respondent closed his case without calling further evidence and I asked the appellant whether their case was closed as well. The appellant had rested his case two days earlier and given the various loose ends that had just been addressed, I expected simply to confirm that we had addressed all those outstanding issues.
+[5] In response to my query, counsel for the appellant asked me to take judicial notice of a document that she analogized to a Canada Revenue Agency (CRA) Interpretation Bulletin. However, the document that she handed up to the Court was nothing of the sort. Instead, Appellant’s counsel had gone onto the CRA’s website on December 17, 2025, and queried as to whether the Heritage Seven Properties Ltd, the purchaser of 17 Dunblaine from the appellant (or his mother), had been registered for the HST at the time of the purchase. Appellant’s counsel proposed to have me take judicial notice of the search results. This would then ground an argument that the appellant was not obligated under the Excise Tax Act (the ETA) to collect GST on the sale, it being the purchaser who would directly report and remit GST to the CRA per s. 221(2) of the ETA.
+[6] Before proceeding, I note that during the cross-examination of the CRA auditor, the appellant’s counsel had asked whether the purchaser had been registered, but he did not know the answer to the question.
+[7] Appellant’s counsel’s request regarding the document request raised two issues:
+A. Could I take judicial notice of the purchaser’s registration status? And
+was the request merely a loose end or was it foundational to a new and unpleaded position?
+[8] The second question was canvassed at length with the counsel for the appellant and then with counsel for the respondent. The upshot of that exchange was this:
+The notice of appeal did not allege that Heritage Seven was registered for the HST at the time of the purchase;
+The argument with respect to s. 221(2) of the ETA was not pled by the appellant.The appellant attempted to argue that the position was implicitly raised by including section 221 of the ETA in the pleaded provisions and by arguing that no tax was exigible in respect of the subject properties.However, and as pointed out by the respondent, s. 221 applied equally to both the first assessed property, 58 Walder, and to the second property.Further, the issue now being raised was not whether the tax was exigible, but rather, who would remit the tax if it turned out that the sale was subject to tax.
+[9] With respect to the judicial notice issue, I indicated that I was not prepared to proceed by taking judicial notice of the registration status of the Heritage Seven Properties.
+[10] However, I also felt that the issue might be important and that it was preferable for the parties and the Court to have some time to properly address the issues raised. As a result, the hearing was adjourned, and the appellant was invited to bring a motion to amend his pleadings and re-open the evidence.
+The Appellant’s Motion to Amend pleadings A. The proposed Amendments [11] The appellant’s motion included a draft amended notice of appeal which alleges that Heritage Seven was a GST registrant as of the date of the purchase of 17 Dunblaine. “Registrant” is a defined term in the ETA that means a person who is or is required to be a registrant. Based on the exchange during the hearing of the motion, I take that to mean that Heritage Seven was actually registered for the GST and not also, or necessarily, someone who needed to be registered.
+[12] The amended notice of appeal asserts that the if the appellant was a builder, then no tax was exigible pursuant to paragraph 221(2)(b) of the ETA. That is wrong. If the appellant is a builder, then tax is exigible. The issue is whether or not the appellant was required to collect tax from Heritage Seven or whether Heritage Seven would directly report and remit tax to the CRA.
+[13] Despite these issues, I am satisfied that the respondent understands the case that it has to meet.
+B. The Test to Amend Pleadings [14] The test of permitting a pleading to be amended is generous. An amendment should be allowed at any time almost as a matter or course to enable the real questions in controversy to be addressed.
+[15] However, the threshold for amending pleadings is higher once the evidentiary portion of a hearing has concluded. In Canderel, a request to amend pleadings to raise a new argument on the fifth day of the trial was dismissed. The Tax Court held that:
+While it is true that leave to amend may be sought at any stage of a trial, it is safe to say that the nearer the end of the trial a motion to amend is made, the more difficult it will be for the applicant to get through both the hurdles of injustice to the other party and interests of justice.[1]
+[16] In Continental Bank Leasing the Court wrote:
+Although I find that these tests have been met I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the withdrawal or amendment be permitted or that it be denied. The tests mentioned in cases in other courts are, of course, helpful but other factors should also be emphasized, including the timeliness of the motion to amend or withdraw, the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the court’s consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done.”[2]
+[17] But, in Family Delicatessen, the Ontario Court of Appeal wrote that:
+“…At some point, the delay in seeking an amendment will be so lengthy, and the justification so inadequate, that prejudice to the responding party will be presumed.”
+[18] In Family Delicatessen, the municipal defendant had been only a nominal defendant and had more or less cooperated with the other parties on that understanding. The municipality had over the course of six years asked that the plaintiff either amend its pleadings or dismiss as against the City. The plaintiff had not done the latter and had dithered on the former. Finally, the unusual facts of that case were such that the plaintiff was not really prejudiced by the refusal of the motion.[3]
+[19] The appellant here, argues that the issue is an important one and that it will be dispositive of the appeal as it relates to 17 Dunblaine. They acknowledge that the delay in bringing this matter forward lies at their feet and recognize that the costs of the amendment and request to re-open the evidence are to be borne by the appellant.
+[20] On balance, I think that the appellant’s amendment should be allowed. The facts regarding the GST status of Heritage Seven are matters that are relatively straightforward. The respondent has not alleged any prejudice that is not compensable by costs. The issue should be litigated.
+[21] The Rules of this Court grant the respondent the right to respond to the pleadings amendments within 10 days of being served. In order to provide for an orderly timetable, I am extending that time to February 27, 2026.
+[22] I turn then to the evidence tendered on the appellant’s motion.
+C. The Request to re-open the Evidence [23] The appellant’s motion includes a request to adduce into evidence two printouts both of which are made exhibits to an affidavit.
+D. The Problems with the Affidavit [24] The affidavit was sworn by a law clerk/paralegal of the appellant. Unfortunately, the affiant is not the person who procured the printouts. The affiant deposes that counsel for the appellant conducted the search that is attached as the second exhibit. It does not specify which of the two appellants’ counsel who have conducted the trial, actually did the search.
+[25] At the outset of the hearing, I advised counsel for the appellant that I would not accept the affidavit and gave reasons including reading from Canada v Irving Equipment. However, I think it is worthwhile to fully set out my concerns here.
+[26] It has been said, more times than I can count that counsel should almost never be the either the affiant or the source of an affiant’s information on a contentious matter. A counsel who acts as an affiant or whose evidence comes before a court via a conduit, becomes in effect a witness to the proceedings and puts their credibility into issue in those proceedings.
+[27] Although there is no explicit Tax Court rule on the matter, the Federal Court has codified the prohibition in Rule 82 of its rules which provides that:
+82 Except with leave of the Court, a solicitor shall not both depose to an affidavit and present argument to the Court based on that affidavit.
+[28] In Canada v Irving Equipment, the rationale for prohibiting solicitors’ affidavits was explained as follows:
+First, everyone including the speaker has the right and obligation to be perfectly clear about whether he or she speaks as a witness or as a professional adviser. Second is the possibility of conflict with professional responsibility. Affidavits like oral testimony are expressed solemnly upon oath or the legal (if not moral) equivalent thereof. No counsel or solicitor, who is, after all, an officer of the Court, ought ever to place himself or herself into the quandary or risking a conflict of interest between remunerative (yet honourable) advocacy and possibly unpalatable truth sworn on oath. See subsection 11(3) of the Federal Court Act [R.S.C. 1970 (2nd Supp.), c. 10]. No witness can deal objectively with the weight or credibility of his own testimony. Lawyers for opposing parties ought not to be exigible to cross-examination by each other, for fear of the sacrifice of one role for the other, or the lamentable appearance of such sacrifice. Third, unless the solicitor or counsel obtain the previous blanket absolution of the client, then he or she will be obliged to assert the client’s solicitor-and-client privilege mentally when formulating the affidavit and, of course, orally only when being cross-examined on it.[4]
+[29] In Manraj v Bour, the Court held that a solicitor, who is the source of information as to an important issue in an affidavit sworn on information and belief, cannot make submissions in court.[5] In Guttierrez, the Ontario Superior Court of Justice invoked the Rule 5.2 of the Ontario Law Society Rules of Professional Conduct which rules prohibit lawyers from both appearing as an advocate and submitting their own affidavit evidence. Again, the Court noted that:
+an advocate cannot avoid the rule that he or she cannot be a witness and advocate through the device of having someone else swear the affidavit based on information and belief from the lawyer.[6]
+[30] The affidavit here does not specify which counsel for the appellant prepared the exhibits nor how they went about doing it. Under the circumstances, I decline to accept the affidavit into evidence for the purposes of either the motion or the trial of this matter.
+E. The request to re-open the appellant’s evidence more generally [31] In a sense, it is not sufficient for the appellant to meet the test to amend pleadings unless he also meets the test to re-open the evidence. A pleading that Heritage Seven was registered for the GST is of no value, if evidence on the point cannot be adduced, and that cannot happen if the hearing is not re-opened.
+[32] Appellant’s counsel suggested that perhaps they did not need to adduce evidence of Heritage Seven’s registration since that matter is within the knowledge of the CRA. Even if that is the case, someone has to lead the evidence that the appellant wants in the court record. So, the case is being re-opened for the appellant’s benefit and not just in fairness to the responding party. The appellant must therefore crack open the door.
+[33] Rule 138 provides that:
+138 (1) The judge may re-open a hearing before judgment has been pronounced for such purposes and upon such terms as are just.
+[34] The test for re-opening a hearing is referenced in the case of Sagaz,[7] where the Supreme Court referred to a two-part test to re-open a case to hear fresh evidence:
+The evidence would likely change the outcome of the case; and
+the evidence could not have been obtained before trial, through the exercise of due diligence.
+[35] The test is not always easy to apply. In Sagaz, the trial judge ruled against the moving party on both issues. The Court of Appeal disagreed with both findings. The Supreme Court reversed again, on the basis of deferring to the trial judge, but in so doing explicitly agreed with the findings of the lower court. The application of the test is therefore more subjective than perhaps would appear to be the case on first impression.
+[36] The first criteria looks at the likely outcome of re-opening the case. In Sagaz, the trial judge had decided the case but had not entered the formal judgment when new evidence came to light so he was in a strong position to assess the relative merits of the proposed evidence. I don’t know whether the new argument or the related evidence will change the outcome of this case.
+[37] The appellant’s alternative argument is plausible, but it may not be dispositive. Perhaps the appellant did not need to collect HST from Heritage Seven. On the other hand, the agreement of purchase and sale for Dunblaine provided that if the supply was taxable, then HST was included in the purchase price. So, the appellant may have collected HST even if he was not supposed to have collected it but without reporting or remitting the tax collected in error. Further, neither party has yet turned their minds to section 194 of the ETA which addresses the communications about HST that may or may not pass between a vendor and purchaser of real property and which provision was basically irrelevant prior to this motion.
+[38] The best that I can say for now is that the argument has some merit and it would not be fair to deny the appellant a chance to pursue the argument by adducing relevant evidence if it can be done in a manner that is relatively simple and efficient. Likewise, the respondent is entitled to try to adduce evidence in response to the new argument.
+[39] The second branch of Sagaz focuses on due diligence. There is no particular reason why the appellant did not raise the issue of Heritage Seven’s registration status at an earlier stage of the litigation. The matter could have been considered by the appellant the audit stage, the objection stage or at any point throughout the litigation process. The appellant simply missed the issue. This falls short of what is required in Sagaz.
+[40] However, this is not the end of the matter. I am very respectfully of the view that the considerations under Rule 138 of the Rules are not confined to the two criteria set out in Sagaz. The Supreme Court in Sagaz does not state that the two criteria are exhaustive.
+[41] Rule 138 is not framed in narrow terms either. It grants a broad discretion to re-open a hearing for such purposes and on such terms as are just. In 1378055 Ontario Ltd,[8] (137) this Court re-opened a hearing to permit supporting documents to be entered into evidence when it became apparent that they had been inadvertently omitted from the appellant’s list of documents. This Court held that the due diligence requirement was met. The appellant had gathered the documents but simply failed to adduce them.
+[42] I find the 137 decision unpersuasive in the sense that I don’t see how forgetting to include documents in a list of documents, and consequentially failing to adduce them at trial, is somehow ‘better’ than not having found them at all. Rather, the 137 decision is better understood as recognizing the need to consider other factors that go beyond the two that are referred to in Sagaz. The Judge said as much when he wrote that:
+“I have endeavoured to balance the interests of both parties and I have been mindful of the overriding importance of having all of the relevant information before me to enable me to arrive at a proper and just disposition of these appeals.”[9]
+[43] In this case, I have weighed the appellant’s failure to plead all available defences, and adduce all available evidence in a timely fashion against the following countervailing considerations:
+Although the evidence is closed, the argument has not yet started and I have not yet decided the case.Re-opening the evidence at this stage of the litigation is not as difficult or onerous as was the case in Sagaz;
+The issue to which the evidence relates is fairly discrete.It affects only one of the two properties at issue in this appeal.Further, the evidence and argument are reasonably contained.The evidence will relate to the registration status of Heritage Seven, possibly its GST/HST filings, the communications, if any, that passed between the appellant and Heritage Seven, and perhaps issues of tax collected in error.This stands in contrast to cases like Canderel, where the proposed pleadings amendment, to introduce an “on account of capital” argument changed the entirety of the case before the court;
+A number of the central facts raised by the pleadings amendment are likely to already be within the knowledge of the respondent, specifically, the GST/HST status of Heritage Seven, and the GST/HST filings, if any of Heritage Seven.Gaps in the knowledge of the respondent may be filled by permitting further discovery as required; and
+Time and expenses incurred by the respondent can be mitigated at least in part by costs awards.
+[44] On balance, the interests of justice favour re-opening this case. The failure to plead all available defences and adduce all relevant evidence was caught just in time to permit a remedy that in the circumstances of this case, at least, does not impose an overly onerous burden on the respondent in defending its case or on the Court in deciding the appeal.
+[45] In order to permit additional evidence to be adduced in a fair and efficient manner, I order the case to be re-opened on the following terms:
+The parties will exchange supplemental lists of documents listing proposed evidence relevant to the amendments in the amended notice of appeal that is being accepted for filing, and any amendments in an amended reply, upon which they may rely, by March 13, 2026;
+Also, by March 13, 2026, the parties will exchange copies of the documents in the amended lists;
+A further round of oral discoveries shall be held by the parties by March 27, 2026.Each party shall have one half day for oral discoveries;
+Undertakings, if any, from the oral discoveries shall be answered by April 10, 2026;
+written follow-up questions arising out of the undertakings, if any, shall be served by April 24, 2026;
+Answers to the follow-up questions shall be served by May 15, 2026.
+For greater certainty,
+the re-opening of evidence is limited to permit only evidence that is relevant to the pleadings amendments; and
+all evidence to be adduced at the resumption of the hearing in respect of the amended pleadings remains subject to the rules of evidence.
+[46] In the event that a party wishes to call an additional witness with respect to the amendments in the notice of appeal or the reply, they shall serve a will-say statement describing that evidence no later than 15 days before the resumption of the hearing.
+Costs [47] There are two costs issues to address:
+The costs of this motion; and
+costs of the additional steps necessitated by the pleadings amendments and reopening the evidence.
+[48] With respect to the costs of this motion, the appellant has stated in his notice of motion that he is prepared to pay those costs. The tariff amount for a motion lasting a day or part of a day is $700. In order to recognize that this motion was avoidable and also to cover any disbursements, I fix the costs of this motion at $1200 payable in any event of the cause and to be paid to the respondent by March 13, 2026.
+[49] The cost of additional discovery steps should not be borne by the respondent as those steps could easily have been carried out as part of pre-trial discovery at no additional expense. As a result, the appellant shall pay his own costs and disbursements for the additional steps prior to hearing in any event of the cause. He shall pay to the respondent its costs, if any, for the documentary and oral discovery steps at paragraph [45] above in accordance with the Tariff in any event of the cause.
+[50] The respondent requested $50,000 in costs thrown away because the work spent on the substantive defence of the 17 Dunblaine assessment would be wasted if the alternate defence succeeds. That amount is apparently based on a bill of costs prepared by the respondent, but which had not yet been shared with the appellant. During the hearing I declined to review the bill of costs. The respondent could have filed and served a responding motion record with that bill of costs but did not do so.
+[51] It is too soon to adjudicate costs thrown away. I don’t actually know whether the appellant’s new argument will succeed. I may find in favour of the appellant on its existing defence without having to decide the alternate issue. Conversely, even if the alternate defence succeeds, I may decide that it was reasonable for the appellant to pursue the main issue notwithstanding that the alternate defence succeeded. All of these issues are best determined after I have heard the rest of the appeal and decided it. The respondent is free to renew its requests for costs thrown away at the end of the trial.
+Resumption of trial [52] The trial of this matter is to resume as soon as practicable. The parties will provide their availability for two days of hearing to the Registry of the Court by February 27, 2026. That availability should cover the week of June 1, 2026, and also for the remainder of 2026 starting with the week of June 22, 2026.
+Signed this 12th day of February 2026.
+“Michael Ezri”
+Ezri J.
+CITATION:
+2026 TCC 30
+COURT FILE NO.:
+2022-31(GST)G
+STYLE OF CAUSE:
+AMIR SALEHI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 9, 2026
+REASONS FOR ORDER BY:
+The Honourable Justice Michael U. Ezri
+DATE OF ORDER:
+February 12, 2026
+APPEARANCES:
+Agent for the Appellant:
+Leigh Somerville Taylor
+Jennifer Dell’Aquila
+Counsel for the Respondent:
+Hassan Rasmi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Leigh Somerville Taylor, Jennifer Dell’Aquila
+Firm:
+LST Tax Law
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada
+[1] Canderel Ltd v R, [1994] 1 FC 3 (FCA), 1993 CarswellNat 949 at para 2.
+[2] Continental Bank Leasing Corporation v R, [1993] 1 CTC 2306 (TCC) at p. 2310.
+[3] Family Delicatessen Ltd v London (City of), 2006 CanLII 5135 (ONCA).
+[4] Canada (Director of Investigation & Research) v Irving Equipment, [1988] 1 FC 27 (TD), 1986 CarswellNat 97F at para 9.
+[5] Manraj v Bour, [1995] OJ No 3008 (Gen Div), paras 5–6. This decision has been repeatedly referenced; see for e.g. 10490423 Canada Inc v 1951584 Ontario Inc, 2024 ONSC 2799, para 60.
+[6] Gutierrez v Watchtower Bible and Tract Society of Canada, 2019 ONSC 2069, at paras 36–37.
+[7] 671122 Ontario Ltd v Sagaz industries Canada Inc., 2001 SCC 59, para 59.
+[8] 1378055 Ontario Ltd v R, 2019 TCC 149.
+[9] Ibid, para 66.

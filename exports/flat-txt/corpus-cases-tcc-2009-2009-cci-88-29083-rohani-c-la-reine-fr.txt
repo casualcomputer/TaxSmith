@@ -1,0 +1,114 @@
+Title: Rohani c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29083/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-88-29083-rohani-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-06
+
+# Rohani c. La Reine
+
+- Citation: 2009 CCI 88
+- Decision date: 2009-02-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6829, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rohani c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-06
+Référence neutre
+2009 CCI 88
+Numéro de dossier
+2008-1630(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1630(IT)I
+ENTRE :
+NASRIN ROHANI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Ottawa, Canada, les 15 et 19 janvier 2009.
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocats de l’intimée :
+Me Charles Camirand
+Mme Carla Figliomeni (stagiaire en droit)
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2004 est accueilli en partie, sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que la pénalité imposée en vertu du paragraphe 163(2) de la Loi doit être annulée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de février 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009CCI88
+Date : 20090206
+Dossier : 2008-1630(IT)I
+ENTRE :
+NASRIN ROHANI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Le présent appel a été entendu à Ottawa, sous le régime de la procédure informelle de la Cour canadienne de l’impôt.
+[2] L’appelante, Nasrin Rohani, a interjeté appel de la nouvelle cotisation établie à son égard pour l’année d’imposition 2004. En calculant le crédit d’impôt auquel elle avait droit pour cette année-là, l’appelante a affirmé avoir fait des dons de bienfaisance totalisant 9 000 $. Le ministre du Revenu national (le « ministre ») lui a envoyé un avis de cotisation réduisant les dons de bienfaisance de l’appelante à 2 127 $, et lui imposant une pénalité en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Dès le 7 mars 2007, l’appelante a reconnu avoir commis une erreur en affirmant avoir fait des dons de bienfaisance totalisant 9 000 $. Par conséquent, la seule question en litige est de savoir si le ministre a eu raison de lui imposer une pénalité.
+[3] L’appelante a témoigné qu’elle avait commencé à souffrir d’un trouble dépressif majeur avant 2004. Elle a dit que sa dépression avait été causée par le grand stress que lui avait occasionné son divorce litigieux avec son ancien époux, Momtaz Zadegan. L’appelante, qui travaille comme infirmière autorisée, est actuellement en congé de maladie prolongé. Elle a expliqué que lorsqu’elle a rempli sa déclaration de revenus pour 2004, elle prenait au moins quatre types de médicaments, notamment des antidépresseurs, pour traiter sa maladie. En 2004, les symptômes que l’appelante éprouvait étaient très graves, et elle se sentait intimidée par la tâche de remplir sa déclaration de revenus. Avant 2004, les déclarations de revenus de l’appelante étaient remplies par son ancien époux. L’appelante croit que c’est à cause de la confusion dans laquelle la plongeait son trouble dépressif qu’elle a mal calculé le crédit d’impôt pour don de bienfaisance auquel elle avait droit.
+[4] L’intimée a soutenu que l’appelante était instruite et qu’elle n’était pas une novice en matière de fiscalité. L’avocat de l’intimée a dit que si l’appelante était incapable de bien remplir sa déclaration de revenus, elle aurait dû demander de l’aide à un professionnel.
+[5] La pénalité a été imposée en vertu du paragraphe 163(2) de la Loi, dont le passage introductif est ainsi rédigé :
+163(2) – Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce […]
+[6] Le paragraphe 163(3) de la Loi prévoit que c’est le ministre qui a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[7] L’avocat de l’intimée a noté que l’appelante avait reconnu avoir fait preuve de négligence en demandant un crédit d’impôt pour dons de bienfaisance de 9 000 $ alors que ses reçus ne corroboraient que des dons s’élevant à 2 127 $. Le paragraphe 163(2) de la Loi impose un fardeau plus lourd que de prouver la simple négligence. L’intimée doit démontrer que la conduite de l’appelante équivaut à faute lourde. Dans Contonis v. The Queen, 95 DTC 511, le juge en chef Bowman a décrit la faute lourde de la façon suivante :
+Une faute lourde s’entend d’une négligence tellement grave qu’elle équivaut presque à de l’insouciance. C’est beaucoup plus qu’une simple étourderie […]
+[8] Je ne crois pas que la conduite de l’appelante équivalait à faute lourde. L’appelante souffrait d’un trouble dépressif majeur lorsqu’elle a rempli sa déclaration de revenus. Il est notoire que la dépression est un trouble invalidant qui a des effets sur la vie de famille, le travail, les habitudes alimentaires, le sommeil et le bien‑être général de ceux qui en souffrent. Il faut tenir compte de ce contexte quand vient le temps d’analyser la conduite qu’a eue l’appelante lorsqu’elle a rempli sa déclaration de revenus. Si l’appelante avait été en bonne santé mentale à ce moment‑là, j’aurais eu tendance à donner raison à l’intimée. Toutefois, tel n’était pas le cas, et il faut tenir compte de l’état de santé de l’appelante. De plus, l’appelante a fait une erreur semblable en faveur de l’intimée dans sa déclaration de revenus. L’appelante a demandé une déduction pour frais médicaux inférieure à ce à quoi elle avait droit. Je prête foi au témoignage de l’appelante voulant que son trouble dépressif ait nui à sa capacité cognitive et qu’il soit la cause des deux erreurs dans sa déclaration de revenus.
+[9] Pour ces motifs, je conclus que l’intimée n’a pas démontré que la conduite de l’appelante équivalait à faute lourde. Par conséquent, la nouvelle cotisation est déférée au ministre pour que la pénalité soit annulée. Tous les autres éléments de la nouvelle cotisation sont confirmés.
+Signé à Ottawa, Canada, ce 6e jour de février 2009.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009CCI88
+No DU DOSSIER DE LA COUR :
+2008-1630(IT)I
+INTITULÉ :
+Nasrin Rohani et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATES DE L’AUDIENCE :
+Les 15 et 19 janvier 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 6 février 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Charles Camiran
+Mme Carla Figliomeni (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

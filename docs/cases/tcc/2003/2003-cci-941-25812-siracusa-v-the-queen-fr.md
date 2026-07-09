@@ -1,0 +1,145 @@
+---
+title: "Siracusa v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25812/index.do"
+last_modified: "2003-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 941"
+citation2: ""
+neutral_citation: "2003 CCI 941"
+decision_date: "2003-12-22"
+language: "fr"
+item_id: "25812"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3888
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:22:52.189000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dd2377c4483cac353be4f5186381f25029f9d55d7d4ead2f797bdd82c6025816"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Siracusa v. The Queen
+
+- Citation: 2003 CCI 941
+- Decision date: 2003-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3888, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Siracusa v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-22
+Référence neutre
+2003 CCI 941
+Numéro de dossier
+2002-1850(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1850(IT)G
+ENTRE :
+PIERA J. SIRACUSA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu le 4 décembre 2003 à Toronto (Ontario)
+Devant : L'honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l'appelante :
+Me David J. Rotfleisch
+Avocat de l'intimée :
+Me Shatru Ghan
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu dont l'avis est daté du 30 janvier 1998 et porte le numéro 00067 est admis, avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Daniel E. Renaud, traducteur
+Référence : 2003CCI941
+Date : 20031222
+Dossier : 2002-1850(IT)G
+ENTRE :
+PIERA J. SIRACUSA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] La question en litige dans le présent appel interjeté par Piera J. Siracusa est celle de savoir s'il existait un lien de dépendance entre l'appelante et 470555 Ontario Limited ( « Ontario » ) pour l'application du paragraphe 160(1) de la Loi de l'impôt sur le revenu ( « Loi » ) lorsque Ontario lui a versé un dividende en 1996 au moment où la personne morale était assujettie au paiement de l'impôt.
+[2] Le paragraphe 160(1) stipule, entre autres choses, que lorsqu'une personne assujettie au paiement de l'impôt transfère des biens à une personne avec laquelle elle a un lien de dépendance, le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement de l'impôt de l'auteur du transfert; la responsabilité du bénéficiaire est limitée à l'excédent éventuel de la valeur des biens qu'il ou elle a reçu moins la valeur de la contrepartie donnée pour le bien.
+[3] Bien qu'elle ait été actionnaire-administratrice de Ontario au moment où ledit dividende a été déclaré le 16 janvier 1996 et versé le 17 janvier 1996, Mme Siracusa est d'avis qu'aucun lien de dépendance n'existait entre elle et Ontario.
+[4] Ontario a été constituée en personne morale en 1991 par M. Siracusa, le défunt mari de Mme Siracusa, et deux autres personnes, ayant chacun un intérêt d'un tiers. Ontario était propriétaire d'un immeuble dans lequel elle exploitait ce que Mme Siracusa décrivait elle-même comme un bar ou [traduction] « une brasserie » et louait aussi des chambres au deuxième étage de l'immeuble. M. Siracusa s'occupait de gérer et d'administrer l'entreprise; les deux autres actionnaires s'occupaient du bar. Mme Siracusa s'occupait de la tenue des livres de Ontario.
+[5] Au début de 1983, M. Siracusa a été atteint d'un cancer du poumon. Selon le témoignage de Mme Siracusa, il était conscient du fait qu'il allait mourir et aurait souhaité que sa famille puisse continuer à participer à la gestion de l'entreprise, mais [traduction] « il savait que je n'étais pas à la hauteur » de gérer l'entreprise. À la suite du décès d'un des actionnaires originaux, M. Siracusa avait finalement recruté un troisième actionnaire pour remplacer le défunt. Au moment du décès de M. Siracusa en juin 1985, les actionnaires-administrateurs de Ontario étaient M. Siracusa, Anastase (Tom) Konstandinu et Frank Catalano. Les actions de M. Catalano étaient détenues par l'intermédiaire d'une société de portefeuille. Les actionnaires-administrateurs n'étaient pas des personnes liées.
+[6] À la suite du décès de son mari, l'appelante a hérité des actions de ce dernier et elle est devenue administratrice de Ontario. Mme Siracusa a décrit les deux autres administrateurs, l'un, immigrant d'origine grecque, et l'autre, immigrant d'origine sicilienne, en indiquant que ces derniers ne voulaient pas qu'une femme vienne s'ingérer dans la gestion qu'ils entendaient faire de l'entreprise. Selon eux, a expliqué Mme Siracusa, la gestion d'une entreprise n'était pas une affaire de femmes; [traduction] « celles-ci pouvaient [cependant] s'occuper de la tenue des livres de l'entreprise » .
+[7] Les administrateurs masculins se sont appropriés l'entière gestion de Ontario à la suite du décès de M. Siracusa. Mme Siracusa a continué de s'occuper de la tenue des livres; elle a cependant indiqué que les deux autres administrateurs arrêtaient entre eux toutes les décisions sans la consulter. Il ressort clairement de la preuve que Mme Siracusa n'était pas dans une position de contrôle de Ontario.
+[8] Mme Siracusa travaillait en moyenne une journée par semaine à domicile, où elle gardait les documents financiers de l'entreprise. Un jour, on lui a demandé d'apporter les livres aux bureaux de l'entreprise. Elle a dit s'être pliée à cette demande à contrecoeur, puisqu'elle ne voulait pas aller à l'entreprise ni avoir affaire avec les deux autres actionnaires, ce qui s'avèrerait être pour elle une terrible épreuve. Néanmoins, elle a porté les livres à l'établissement de Ontario et elle a commencé à travailler sur les lieux de l'entreprise.
+[9] En parlant des administrateurs, Mme Siracusa a signalé que [traduction] « la tension entre nous [était] constante » . Cette tension, a-t-elle insisté, découlait de la façon dont sont arrêtées les décisions. Elle a répété que la situation avait été pour elle [traduction] « très pénible » . Elle a affirmé ne pas être à l'aise de travailler avec les deux autres actionnaires. Vraisemblablement parce qu'elle était responsable de la tenue des livres, Mme Siracusa a signé, en sa qualité d'administratrice, la déclaration de revenus de la personne morale pour l'année 1996. La déclaration a été préparée par le comptable de Ontario. Pour 1996, l'année financière de Ontario s'est terminée le 31 janvier.
+[10] Selon son témoignage, Mme Siracusa, à un moment, se sentait dépassée et croyait bon de consulter un avocat. L'avocat a accompagné Mme Siracusa à une assemblée générale d'actionnaires. Mme Siracusa a dit avoir demandé la présence d'un avocat car elle croyait que les deux autres actionnaires seraient plus disposés à l'écouter parce qu'elle était [traduction] « accompagnée d'un homme » .
+[11] En décembre 1995, Ontario a vendu son immeuble et le bar qu'elle exploitait. Les affaires du bar ne tournaient plus aussi rondement que durant les années précédentes et les dettes commençaient à s'accumuler. Mme Siracusa a consenti à la vente, entre autres raisons, parce qu'elle souhaitait se dissocier des autres actionnaires. Quoi qu'il en soit, les trois actionnaires en sont venus à un accord, et la propriété a été vendue en décembre 1995.
+[12] À la suite de la vente, Mme Siracusa a apporté toutes les factures et les autres documents financiers qu'elle avait en sa possession à l'avocat qui s'occupait de la vente au nom de Ontario. Celui-ci détenait le produit net de la vente en fiducie. Le 16 janvier 1996 ou vers cette date, Mme Siracusa, MM. Konstandinu et Catalano et ledit avocat se sont réunis dans la salle de conférence du cabinet de l'avocat. Apparemment, tous les papiers d'affaires de Ontario avaient été réglés. Selon son témoignage, Mme Siracusa a affirmé alors avoir exprimé certaines réserves quant à la distribution immédiate du produit de la vente : indépendamment que toutes les factures aient été acquittées, certaines factures pouvaient, de son avis, être en circulation et donc ne pas avoir encore été réglées. Les deux autres administrateurs et l'avocat étaient d'avis qu'il leur fallait procéder à la distribution immédiate du produit net de la vente. Le produit net de la vente s'élevait à 45 000 $. Mme Siracusa a affirme avoir réitéré sa réticence : elle préférait attendre et laisser la somme en fiducie. Elle a raconté que les autres administrateurs et elle se sont engueulés; les portes de la salle de conférence ont dû être fermées pour ne pas déranger le personnel du cabinet. Elle était vexée que l'avocat, qui selon elle devrait être neutre, abondait dans le même sens que les deux autres administrateurs. Une résolution déclarant et autorisant le paiement d'un dividende en capital a été formulée par les deux autres administrateurs et préparée par l'avocat. Mme Siracusa a dit s'être alors sentie forcée par les autres de signer la résolution, ce qu'elle a fini par faire. Elle a indiqué qu'elle prenait alors, en raison du stress engendré par sa relation tendue avec les deux autres administrateurs, des tranquillisants et d'autres médicaments.
+[13] La résolution déclarant le dividende en capital comprenait l'énonciation qui suit :
+[traduction]
+De l'avis des administrateurs de la personne morale, il y a des motifs raisonnables de croire que la personne morale peut présentement, et pourra après le paiement du dividende, payer ses dettes à mesure qu'elles deviendront exigibles, et la valeur réalisable des actifs de la personne morale après le paiement d'un tel dividende sera supérieure au total de son passif et de son capital déclaré de toute catégorie.
+Les événements qui suivent attestent que cette énonciation ne constituait qu'une « disposition type » et que Ontario en réalité ne possédait pas suffisamment d'actifs après le paiement du dividende pour s'acquitter de ses dettes, notamment sa dette envers le receveur général du Canada au titre de l'impôt sur le revenu.
+[14] Lors de son témoignage, Mme Siracusa a affirmé qu'il n'était nullement question des impôts à payer par Ontario lors de la rencontre du 16 janvier. [traduction] « Cela ne nous est pas venu à l'esprit. »
+[15] L'intimée fonde la décision d'établir une cotisation à l'égard de Mme Siracusa sur l'hypothèse selon laquelle la résolution formulée par les administrateurs et signée par l'appelante vient confirmer l'existence d'un lien de dépendance entre cette dernière et Ontario. L'avocat de l'intimée a renvoyé à deux affaires de la Cour, François Fournier c. M.R.N.[1], et Gosselin c. Canada[2], toutes deux des décisions de mon collègue le juge Dussault. Dans l'affaire Fournier, la personne morale a versé un dividende de 45 000 $ au contribuable alors qu'elle devait de l'impôt. Le ministre du Revenu national a établi une cotisation à l'égard de la personne morale et des contribuables personnellement en vertu des dispositions des paragraphes 160(1) et (2). Comme le contribuable ne possédait que 45 p. 100 des actions de la personne morale et qu'aucun lien de dépendance n'existait entre celui-ci et les deux autres actionnaires, le juge Dussault a conclu qu'un lien de dépendance avec la personne morale ne peut pas être réputé exister par l'effet combiné de l'alinéa 251(1)a) et des sous-alinéas 251(2)b)(i) et (ii) de la Loi. La question de savoir si un tel lien de dépendance existait devient une question de fait. Analysant les faits, le juge Dussault a conclu qu'il existait effectivement un lien de dépendance entre le contribuable et la personne morale. La forme sous laquelle devaient être retirés les profits de l'entreprise a été décidée par l'ensemble des administrateurs, sur recommandation des comptables de la personne morale. Ils agissaient donc d'un commun accord dans un intérêt financier commun; c'est pour cette raison qu'un lien de dépendance était effectivement réputé exister entre le contribuable et la personne morale.
+[16] De même, dans l'affaire Gosselin, précitée, deux actionnaires à parts égales, même sans lien de dépendance entre eux, avaient, de concert avec la personne morale, des intérêts communs et agissaient d'un commun accord. Le juge Dussault s'est attardé à l'opération particulière qui concernait la déclaration du paiement d'un dividende en capital qui avait pour effet de transférer des biens de l'entreprise aux actionnaires. Il a déclaré ce qui suit :
+Analysant l'intérêt ultime d'une société comme étant en réalité celui de ses actionnaires ou, si l'on veut, celui de ses propriétaires par voie de détention d'actions de son capital-actions, on voit mal l'intérêt distinct dans la mesure où il n'y a que deux actionnaires détenteurs d'actions de la même catégorie comportant les mêmes droits et à parts égales.
+[17] Je partage l'avis du juge Dussault selon lequel, pour déterminer si un lien de dépendance existe entre des personnes non liées, il nous faut tenir compte des circonstances particulières de l'affaire. Eu égard aux faits mis à ma disposition, les actionnaires ne sont aucunement liés entre eux, directement ou indirectement. La preuve démontre également clairement que de sérieux désaccords régnaient entre Mme Siracusa et les deux autres administrateurs, que leurs rapports étaient extrêmement tendus et que Mme Siracusa se sentait incapable de continuer à traiter avec eux.
+[18] Dans l'affaire Gestion Yvan Drouin Inc. c. La Reine[3], le juge Archambault, tentant d'établir une distinction d'avec les décisions Fournier et Gosselin, a mis en doute le pouvoir d'un actionnaire, celui qui ne détenait qu'un tiers des actions d'une personne morale, en affirmant ce qui suit :
+[...] Le troisième actionnaire-administrateur, celui qui ne possède que le tiers des actions avec droit de vote pour lui-même, n'est pas en mesure d'exercer une telle influence. Qu'il vote ou non pour déclarer et verser le dividende, ce vote n'est pas essentiel si l'actionnaire-administrateur exerçant le contrôle a décidé qu'un dividende sera versé. Il m'apparaît tout à fait inapproprié d'appliquer le paragraphe 160(1) dans ces circonstances à l'actionnaire-administrateur véritablement minoritaire alors que ce dernier n'a fait qu'accomplir ses devoirs d'administrateur.
+[19] Le témoignage de Mme Siracusa n'a pas été contesté en contre-interrogatoire. L'intimée n'a présenté aucune preuve contredisant ni la version des événements de Mme Siracusa ni l'évaluation des rapports qu'entretenait celle-ci avec les deux autres administrateurs. J'ai trouvé que l'appelante était un témoin crédible et j'accepte son témoignage sans exception.
+[20] Il ne fait aucun doute que Mme Siracusa était en conflit avec les deux autres administrateurs, MM. Konstandinu et Catalano. Bien qu'elle ait signé la résolution formulée par les administrateurs déclarant le paiement d'un dividende, Mme Siracusa a témoigné qu'elle avait alors mis en doute le bien-fondé du versement du dividende. Elle a décrit la rancoeur et la tension par lesquelles la réunion avait été caractérisée; elle a dit s'être sentie forcée d'agir, non seulement par MM. Konstandinu et Catalano mais aussi par l'avocat qui s'était occupé de la vente au nom de Ontario et qui avait abondé dans le même sens que les deux autres administrateurs. Je crois pouvoir en toute justice inférer que la résolution a été préparée par cet avocat. Le fait que cette résolution soit précédée de l'énonciation selon laquelle Ontario possède suffisamment d'actifs pour s'acquitter de ses dettes à la suite du paiement du dividende vient corroborer le témoignage de Mme Siracusa, à savoir la pression exercée par les deux autres administrateurs et l'avocat sur cette dernière, afin qu'elle consente au paiement du dividende. Mme Siracusa n'était donc pas en position de pouvoir sur Ontario et ne faisait aucunement partie d'un groupe en mesure d'exercer un pouvoir quelconque sur Ontario.
+[21] La présente situation n'est pas analogue à celle présentée dans la décision Fournier, précitée, dans laquelle il a été conclu que les administrateurs avaient agi de concert dans un intérêt financier commun. Aucune intention commune n'existait entre les trois administrateurs de Ontario. Les remarques du juge Cattanach, qui se penchait sur la question d'une âme dirigeante dans l'affaire M.N.R. v. Estate of T. R. Merritt[4], sont intéressantes :
+[traduction]
+Selon moi, le principe fondamental sur lequel se fonde la présente analyse est le suivant : lorsque les négociations menées au nom de chacune des deux parties au contrat sont en fait dirigées par le même « cerveau » , on ne peut dire que les parties traitent à distance. En d'autres termes, lorsque la preuve révèle que la même personne « dictait » les « conditions de la transaction » au nom de chacune des deux parties, on ne peut dire que les parties traitaient à distance.
+[22] Le juge Archambault a conclu dans la décision Gestion Yvan Drouin Inc.,précitée, que le critère voulant que les parties agissent de concert montre jusqu'à quel point il est important que la négociation ait lieu entre des parties distinctes, qui cherchent chacune à protéger leurs propres intérêts. Le juge Thurlow (tel était alors son titre) a décrit ce critère dans la décision Swiss Bank Corporation v. M.N.R.[5] :
+[traduction]
+J'ajouterais que lorsque plusieurs parties, qu'elles soient des personnes physiques, des compagnies ou une combinaison des deux, agissent de concert et dans le même intérêt pour diriger ou dicter la conduite d'une autre, le « cerveau » dirigeant peut à mon avis être celui de l'ensemble des parties agissant de concert ou celui d'une seule d'entre elles qui remplit un rôle ou des fonctions particulières qu'il faut accomplir pour atteindre l'objectif commun. De plus, à mon sens, il n'y a lieu de faire aucune distinction à ce titre entre des personnes qui agissent à leur propre compte pour en contrôler d'autres et celles qui, quelque nombreuses qu'elles soient, se font représenter par une autre. D'autre part, si l'une des parties à une transaction agit dans un intérêt différent de celui des autres ou le représente, le fait que le but commun soit de diriger les actes d'une autre partie de façon à obtenir un résultat bien précis ne suffira pas en soi à enlever à la transaction son caractère de transaction entre personnes traitant à distance. Selon moi, l'affaire Sheldon's Engineering, [1955] R.C.S. 637 [55 DTC 1110]], en est un exemple.
+[23] En l'espèce, MM. Konstandinu et Catalano exerçaient le contrôle de Ontario; l'intérêt de Ontario découlait de l'intérêt de ces deux actionnaires. Et en ce qui les concerne, Mme Siracusa était une nuisance.
+[24] L'appel est admis, avec dépens, et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2003.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Daniel E. Renaud, traducteur
+[1] 91 DTC 743.
+[2] [1996] A.C.I. no 206 (Q.L.).
+[3]
+[2000] A.C.I. no 872 (Q.L.), au paragr. 88.
+[4]
+69 DTC 5159, aux pages 5165 et 5166.
+[5]
+71 DTC 5235, à la page 5241 (C. de l'É.).

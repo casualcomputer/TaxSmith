@@ -1,0 +1,176 @@
+Title: Opheim v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26953/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-619-26953-opheim-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-09-20
+
+# Opheim v. The Queen
+
+- Citation: 2005 CCI 619
+- Decision date: 2005-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 563, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Opheim v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-20
+Référence neutre
+2005 CCI 619
+Numéro de dossier
+2004-4655(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4655(GST)I
+ENTRE :
+MYLES J. OPHEIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 24 août 2005 à Regina (Saskatchewan)
+Devant : L’honorable juge D. W. Beaubier
+Comparutions :
+Représentant de l’appelant :
+Lee C. Merriman
+Avocat de l’intimée :
+Me Gerald Chartier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 8 octobre 2003 et porte le numéro 00000000141, est accueilli seulement en ce qui concerne les détails figurant au paragraphe [2] des présents motifs du jugement. La cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en conséquence.
+Signé à Vancouver (Colombie-Britannique) ce 20e jour de septembre 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 9e jour de janvier 2006.
+Ingrid Miranda, traductrice
+Référence : 2005CCI619
+Date : 20050920
+Dossier : 2004-4655(GST)I
+ENTRE :
+MYLES J. OPHEIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté par la voie de la procédure informelle, a été entendu à Regina, en Saskatchewan, le 24 août 2005. L’appelant a cité son comptable, M. Lee Merriman, C.M.A., à témoigner. L’intimée a cité à témoigner l’agent des appels responsable du dossier, Donald Lafrenière, C.M.A.
+[2] Au début de l’audience, l’avocat de l’appelant a consenti à ce que jugement soit rendu en faveur de l’appelant en ce qui concerne la question figurant au paragraphe 15a) de la Réponse à l’avis d’appel, libellé de la manière suivante :
+[TRADUCTION]
+15. Les questions devant être tranchées dans le présent appel sont les suivantes :
+a) la question de savoir si la cotisation que le ministre a établie à l’égard de l’appelant est exacte en ce qui concerne les 441 $ d’approvisionnement par la voie de location correspondant à 2002;
+La Cour rend un jugement en faveur de l’appelant à ce sujet.
+[3] Au cours de l’audience, l’appelant a soulevé la question des calculs effectués par le ministre en ce qui concerne les impôts, intérêts et pénalités accumulés du 8 octobre 2003 au 2 mars 2004, relativement aux documents reçus du ministre que voici :
+Le 2 mars 2004
+Impôt
+7 174,84 $
+Intérêts
+818,62
+Pénalités
+1 587,59
+Total
+9 581,05
+Le 8 octobre 2003
+Impôt
+6 841,37 $
+Intérêts
+601,51
+Pénalités
+1 069,96
+Total
+8 512,84
+On a accordé à l’avocat de l’intimée deux semaines pour obtenir des copies papier de ces calculs pour les produire à la Cour et à l’appelant, et au représentant de l’appelant une autre semaine pour y répondre.
+[4] L’autre question devant être réglée entre les parties est celle de savoir si l’appelant est admissible à des crédits de taxe sur les intrants (« CTI ») pour la taxe sur les produits et services (« TPS ») découlant de la récupération de terres, d’inventaires, d’équipements, d’actes mobiliers, de biens incorporels et d’un bien assuré séparément, vendus aux Wien le 1er février 1997 par l’appelant et son épouse, Patti, entant que l’entreprise connue sous le nom de « First Choice Auto & Truck Parts » située à Swift Current, en Saskatchwan. Le 1er septembre 1999, les Wien ont exécuté un acte de transport par renonciation en faveur du couple Opheim, en contrepartie de la somme de 1 $ (Pièce R‑1).
+[5] La preuve démontre que, aux fins de l’impôt sur le revenu, les biens récupérés avaient une juste valeur marchande de 211 154,74 $. Aux fins de la TPS, leur valeur était nulle. L’appelant réclame une déduction relativement aux CTI afférents aux biens récupérés en vertu de l’acte de transport par renonciation. L’appelant évalue les biens récupérés à 211 154,74 $.
+[6] Les hypothèses avancées relativement aux CTI ayant été rejetés figurent aux sous‑paragraphes 12v) à 12hh), inclusivement, de la Réponse à l’avis d’appel. Les voici :
+[TRADUCTION]
+v) l’appelant n’a soustrait aucune déduction pour dépenses d’entreprise dans la déclaration de revenus T1 qu’il a produite pour l’année 1999;
+w) en 1997, les vendeurs ont vendu First Choice Auto and Truck Parts aux Wien (la « vente »);
+x) dans le cadre de la vente, les vendeurs ont cédé un bien aux Wien;
+y) les vendeurs ont financé 254 000 $ de la contrepartie versée pour la vente;
+z) étant donné que les Wien n’ont pas payé les vendeurs conformément aux modalités de la vente, les vendeurs et les Wien ont exécuté un acte de transport par renonciation aux alentours du mois de septembre 1999, dans le but de transférer de nouveau le bien à l’appelant;
+aa) l’appelant a saisi ou repris possession du bien que les vendeurs avaient vendu aux Wien;
+bb) la contrepartie versée pour la fourniture du bien des Wien en faveur de l’appelant est nulle;
+cc) le montant de 1 752,16 $ que l’appelant a réclamé à titre de crédits de taxe sur les intrants, dans sa déclaration relative à la période de déclaration se terminant le 31 décembre 2000, comprenait certains des montants suivants :
+inventaire
+318,50
+amortissement des biens
+886,93
+réparations de la chaudière
+406,06
+téléphone
+77,90
+publicité
+1,96
+véhicule
+53,20
+fournitures
+18,71
+voyage
+7,96
+Total partiel
+1 771,22
+Montant de la réclamation
+1 752,16
+Différence
+19,06
+dd) le montant de 1 021,38 $ que l’appelant a réclamé à titre de crédits de taxe sur les intrants, dans sa période de déclaration terminant le 31 décembre 2001, comprenait certains des montants suivants :
+désuétude de l’inventaire
+309,73
+amortissement des biens
+648,38
+frais de comptabilité
+45,50
+téléphone
+59,47
+total partiel
+1 063,08
+montant de la réclamation
+1 021,38
+différence
+41,70
+ee) les crédits de taxe sur les intrants que réclame l’appelant à titre de désuétude de l’inventaire et d’amortissement des biens sont afférents au bien que l’appelant a reçu en vertu de l’acte de transport par renonciation;
+ff) une valeur d’au moins 2 163,54 $ que l’appelant a réclamée à titre de crédits de taxe sur les intrants, dans le cadre des déclarations de TPS qu’il a produites pour les périodes de déclaration se terminant entre le 1er janvier 2000 et le 31 décembre 2001 et relative au bien que l’appelant a obtenu auprès des Wien en vertu de l’acte de transport par renonciation;
+gg) l’appelant n’a pas recueilli suffisamment de documents, contenant les renseignements prescrits, pour appuyer une réclamation de crédits de taxe sur les intrants supérieure à 774,35 $ pour la période pertinente;
+hh) voici les autres crédits de taxe sur les intrants auxquels l’appelant prétend avoir droit :
+(i) CTI afférents aux biens provenant des Wien dont l’appelant a repris possession;
+(ii) CTI afférents aux fournitures d’un bien et de services ayant été acquis pour des raisons autres que pour consommation, utilisation ou fourniture dans le cadre des activités commerciales de l’appelant;
+(iii) CTI afférents à l’acquisition d’un bien par l’appelant, laquelle n’était pas imposable et dans le cadre de laquelle aucun impôt n’a été versé;
+(iv) CTI déraisonnables.
+[7] Au cours du contre‑interrogatoire, M. Merriman a admis les hypothèses 12w), x), y), z), aa), cc), dd), ee) et ff). Relativement aux autres sous‑paragraphes mentionnés au paragraphe [6] des présentes :
+v) manque de pertinence;
+bb) constitue l’objet du différend;
+gg) M. Merriman déclare que ce sous‑paragraphe est inexact, parce que l’ARC, Impôt sur le revenu, a accepté la juste valeur marchande;
+hh) constitue l’objet du différend.
+[8] Les paragraphes 183(1) et (9) de la Loi sur la taxe d’accise sont ainsi rédigés :
+183. (1) Dans le cas où, après 1990, le bien d'une personne est saisi ou fait l'objet d'une reprise de possession par un créancier en exécution d'un droit ou d'un pouvoir qu'il peut exercer, à l'exception d'un droit ou d'un pouvoir qu'il possède dans le cadre d'un bail, d'une licence ou d'un accord semblable aux termes duquel la personne a acquis le bien ou du fait qu'il est partie à un tel bail ou accord ou à une telle licence, et en acquittement total ou partiel d'une dette ou d'une obligation de la personne envers lui, les présomptions suivantes s'appliquent :
+a) pour l'application de la présente partie, la personne est réputée avoir effectué et le créancier, avoir reçu, au moment donné, une fourniture du bien par vente;
+b) pour l'application de la présente partie, sauf les articles 193 et 257, cette fourniture est réputée avoir été effectuée à titre gratuit;
+c) dans le cas où la fourniture visée à l'alinéa a) est la fourniture taxable d'un immeuble, la taxe payable relativement à la fourniture est réputée, pour l'application des articles 193 et 257, égale à la taxe calculée sur la juste valeur marchande du bien au moment donné;
+d) dans le cas où la fourniture visée à l'alinéa a) est une fourniture d'immeuble incluse à l'article 9 de la partie I de l'annexe V, à l'article 1 de la partie V.1 de cette annexe ou à l'article 25 de la partie VI de cette annexe, pour l'application des articles 193 et 257, la fourniture est réputée être une fourniture taxable et la taxe payable relativement à la fourniture, être égale à la taxe calculée sur la juste valeur marchande du bien au moment donné.
+[…]
+(9) Pour l'application du présent article, lorsqu'une personne transfère volontairement un bien à une autre personne en acquittement de tout ou partie d'une dette ou d'une obligation en souffrance, l'autre personne est réputée avoir saisi le bien au moment du transfert, ou en avoir repris possession à ce moment, dans les circonstances visées au paragraphe (1).
+[9] M. Merriman a fait valoir que l’article 193 est l’article déterminant en ce qui concerne les réclamations de l’appelant à titre de CTI. Mais l’article 193 n’accorde pas de droits supplémentaires aux créanciers, les appelants en l’espèce, dans les circonstances de l’affaire.
+[10] La réclamation de l’appelant est plutôt déterminée au paragraphe 183(1) susmentionné. La valeur qu’il a établie, sur le fondement des éléments de preuve se trouvant devant la Cour, est réputée être nulle. Pour cette raison, l’appel concernant cette question particulière est rejeté.
+[11] En ce qui concerne la question des pénalités et des intérêts, laquelle est soulevée au paragraphe [3] des présentes, l’avocat de l’intimée y a répondu par la voie d’une télécopiée datée du 7 septembre 2005, laquelle figure à l’annexe A des présents motifs. Dans sa lettre du 13 septembre 2005, le représentant de l’appelant n’a pas accepté les chiffres figurant à l’annexe A.
+[12] La Cour trouve convaincantes les précisions figurant à l’annexe A et, par conséquent, elle confirme les calculs et les méthodes de calcul employées par l’intimée pour établir les montants d’intérêts et de pénalités.
+[13] Par conséquent, l’appel est accueilli seulement en ce qui concerne les détails figurant au paragraphe [2] des présents motifs du jugement. La cotisation est renvoyée au ministre du Revenu national.
+Signé à Vancouver (Colombie-Britannique) ce 20e jour de septembre 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 9e jour de janvier 2006.
+Ingrid Miranda, traductrice

@@ -1,0 +1,413 @@
+Title: Langheit v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304075/index.do
+Corpus path: corpus/cases/tcc/2018/2017-tcc-250-304075-langheit-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-02-06
+
+# Langheit v. The Queen
+
+- Citation: 2017 TCC 250
+- Decision date: 2018-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7899, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langheit v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-06
+Neutral citation
+2017 TCC 250
+File numbers
+2014-820(GST)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-820(GST)G
+BETWEEN:
+CHARLES LANGHEIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 6, 2015, and June 20 and 21, 2017,
+at Montreal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the Appellant:
+Julie Gaudreault-Martel
+Counsel for the Respondent:
+Christine Labbé
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated March 14, 2013, and does not bear a distinctive number, for the periods from January 1, 2009 to December 31, 2009, January 1, 2010 to December 31, 2010, January 1, 2011 to December 31, 2011, and January 1, 2012 to September 30, 2012, is allowed, in accordance with the attached Reasons for Judgment.
+Costs are awarded to the respondent.
+Signed at Ottawa, Canada, this 15th day of December 2017.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 1st day of February 2019.
+Erich Klein, Revisor
+Citation: 2017 TCC 250
+Date: 20180206
+Docket: 2014-820(GST)G
+BETWEEN:
+CHARLES LANGHEIT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+D’Auray J.
+I. Background
+[1] The Appellant operates as a sole proprietorship a restaurant under the name “Café de l’Apothicaire”.
+[2] On March 14, 2013, the appellant was assessed by the Quebec Minister of Revenue (“the Minister”), as an agent for the Minister of National Revenue, on the basis that the appellant did not recognize all the taxable supplies made by his restaurant. According to the Minister, the appellant failed to collect and/or remit $33,077.37 of goods and services tax (“GST”). The Minister also assessed a penalty of $4,478.10 under section 285 of the Excise Tax Act (“ETA”).
+[3] Given the absence of documents to support the restaurant’s taxable supplies, the Minister made the assessment using an alternative audit method (“alternative method”). In this case, the Minister relied on the wages paid to restaurant employees to reconstruct the taxable supplies and determine GST amounts payable for the periods between January 1, 2009 and September 30, 2012.
+[4] The appellant acknowledges that the Minister was justified in using an alternative method to make an assessment, given his inadequate accounting records and the lack of evidence proving the taxable supplies. However, the appellant argues that in this case the alternative method chosen by the Minister is unreliable and does not reflect the taxpayer’s reality. He also argues that certain information used by the Agence du revenu du Québec (“ARQ”) auditor to determine taxable supplies was erroneous, which resulted in an overstatement of the restaurant’s taxable supplies.
+II. Facts
+[5] The facts in paragraph 32 of the Reply to the Notice of Appeal provide a detailed description of the facts that gave rise to the dispute. I have therefore decided to reproduce them. It goes without saying, however, that not all these facts are admitted by the appellant. They are nevertheless the facts on which the Minister based the assessment of the appellant:
+[translation]
+(a) The facts admitted above;
+(b) The appellant has been a registrant for the purposes of Part IX of the ETA since April 28, 1994;
+(c) The appellant is an individual who operates a business under the name “Café de l’Apothicaire”; it is an unlicensed diner located at 1106 Beaubien Street East in Montreal that offers table service (approximately 30 seats) and take-out;
+(d) The diner offers a variety of beverages and serves breakfast and lunch;
+(e) All breakfasts include hash browns, fruit, and coffee, and breakfast is served any time;
+(f) The restaurant is open for a total of 62 hours per week;
+(g) According to the appellant, the diner is closed on all statutory holidays and for seven to ten days during the holiday season;
+(h) The appellant’s fiscal year during the period at issue is the calendar year (January 1 to December 31) and his tax returns are filed quarterly;
+(i) The appellant filed his net GST returns quarterly during the period in question, except from January 1 to December 31, 2011, when no tax return was filed;
+(j) Several returns were filed a number of days late;
+(k) All supplies made by the appellant in the operation of his diner, which is a commercial activity, during the period in question were taxable supplies for which tax, namely the GST, at the prescribed rate on the value of the consideration for the supply was payable by the recipients to the appellant, who was required to collect it;
+(l) The business’s accounting is very poor, indeed practically non-existent: for the audit, the appellant provided only a sales book and a payroll journal, both kept manually;
+(m) During a surprise visit and during another on-site visit by the auditor (two people were present on each occasion), a bill issued by the sales recording module (hereinafter referred to as an “SRM”) was given to the first person, who paid in cash, but not to the second person, who was only given change, the till having remained open after the first person had paid;
+(n) During the on-site visit by the auditor, a waitress, Marie-Pier Lebel, who presented herself as being in charge, to whom the auditor identified himself, grabbed a bundle of 29 Blueline type guest checks and put them in a recycling box; these were subsequently recovered by the auditor;
+(o) It was found that of the 29 guest checks, 17 showed an included tax amount that was circled;
+(p) The total amount, taxes included, on these 17 guest checks was $436.30, while the recovered guest checks recorded in the SRM totalled $128.57, including taxes;
+(q) Moreover, the analysis of the appellant’s tax returns and of the ratios shows that the amounts reported in the tax returns do not match the manual sales book, that there are major variations with regard to the cost of goods sold and a significant discrepancy with respect to the utilities and telecommunications use percentage;
+(r) The analysis of the card payment receipts shows that 65% of these payments were not recorded in the SRM;
+(s) The analysis of deposits into the bank account of “Café de l’Apothicaire” and the appellant’s bank account raises questions about what became of the cash sales;
+(t) A lack of reliability and integrity of data recorded in the cash register was noted;
+(u) The analysis of purchases shows that purchases are made in cash and that the amounts of purchases reported in the appellant’s income tax returns do not reflect reality;
+(v) The analysis of the wages reported on the appellant’s income tax returns shows average wages paid of between $1.63 and $3.49 per hour of work, which suggests that a portion of the wages is paid in cash and not declared;
+(w) Given all these facts, the Minister was justified in reconstructing the total amount of supplies made by the appellant using an indirect or alternative audit method for the period in question in order to reconstruct sales and ensure that all taxes were properly collected and reported;
+(x) The Minister’s method involved reconstructing sales from wages, using Statistics Canada’s industry data and, more specifically, data for full-service restaurants, i.e., establishments whose primary activity involves providing food services to customers who order and are served at tables and pay the bill after eating; these establishments may sell liquor, prepare take-out food, operate a bar or provide live entertainment, in addition to serving meals and drinks;
+(y) Much of the data used to determine revenue using the wages method comes from information provided by the appellant and Marie-Pier Lebel;
+(z) The alternative method used, i.e., reconstructing sales from wages, revealed that there were discrepancies between sales calculated by this method and sales declared by the appellant;
+(aa) The total amount of taxable supplies made by the appellant for the period in question, as reconstructed by the Minister, is $885,967.18, or $215,484.74 for the period from January 1, 2009 to December 31, 2009, $238,661.39 for the period from January 1, 2010 to December 31, 2010, $244,496.41 for the period from January 1, 2011 to December 31, 2011, and, lastly, $187,324.64 for the period from January 1 to September 30, 2012;
+(bb) In calculating his net tax for the period in question, the appellant reported an aggregate amount of collected or collectible GST of $11,221.03, which represents $160,300.42 of taxable supplies;
+(cc) According to the reconstructed sales, the appellant should have reported $44,298.36 in collected or collectible GST in his net tax calculation for the period in question;
+(dd) The appellant is therefore liable to the Minister for the amount of the adjustments made to his net tax reported for the period in question, plus interest and penalties;
+(ee) The appellant is also liable for $3,264.09 of GST that was collected and not remitted.
+III. Alternative method
+[6] At the hearing, Dominic Delambre, a chartered professional accountant, testified as an expert for the appellant. Mr. Delambre admitted that the Minister was justified in using the alternative method given the inadequate bookkeeping and the lack of evidence proving the restaurant’s taxable supplies. [1]
+[7] Counsel for the appellant also admitted on more than one occasion during her argument that the Minister could not determine the sales with the available information. In that regard, she stated that [translation] “it is not denied that the information required in order to be able to clearly and accurately track sales was not available.”
+[8] Consequently, I do not consider it necessary to review in these reasons all the factors that led the Minister to use an alternative method. Suffice it to say that after hearing the evidence, I am of the opinion that the Minister was justified in using an alternative method to assess the appellant. Briefly, as an example, the appellant kept a sales book for the period from January 1, 2009 to April 24, 2012. In this book, the appellant manually entered the date and the sales amount for that day, without any breakdown. The appellant did not keep any supporting documentation. The cash register rolls, the cash register closing reports (i.e., the Z-tapes) or the guest checks, which could have proved the restaurant’s sales, were not kept by the appellant.
+[9] Nor did the appellant keep the employees’ schedules or a copy of the pay stubs. With respect to purchases for the operation of his restaurant, the appellant was no more careful. He stated that he paid a number of his suppliers in cash and that sometimes he did not get invoices or some were mislaid. Thus, the appellant did not have an adequate and reliable bookkeeping system enabling him to prove either the restaurant’s sales or its expenses.
+(1) Alternative method used by the Minister
+[10] Since November 1, 2011, restaurant owners have been required to install a sales recording module, the SRM. This system is mandatory and forces restaurant owners to issue bills to customers. However, the SRM has its flaws: if the till stays open, the restaurant owner can, without punching in those sales, have customers pay for their meals without issuing a bill to those customers. Consequently, the value of the meal is not recorded in the SRM. Mr. Ibarissen, the ARQ auditor responsible for the appellant’s file, explained that, for the reasons set out below, he was unable to rely on SRM data to determine sales for the appellant’s restaurant for the periods after November 1, 2011.
+[11] On this point, Ms. Marchand from the ARQ testified that, in general, in restaurant industry cases, ARQ agents anonymously go and have meals to observe the operation of restaurants. During an undercover visit to the appellant’s restaurant with an ARQ colleague, Ms. Marchand noted that, when they paid their bills, the appellant kept the till open between the cash payment made by her colleague and her own cash payment for her own meal. Thus, had Ms. Marchand not asked the appellant for a receipt, the amount of the bill for her meal would not have been recorded by the SRM. It was only after she asked for a receipt that the appellant closed the till to punch in the amount for the meal and issued a receipt to Ms. Marchand.
+[12] In addition, during their initial visit to the appellant’s restaurant on April 26, 2012, Mr. Ibarissen and his colleague Ms. Coulombe introduced themselves as ARQ auditors to the waitress at the restaurant. Unable to contact the appellant, the server allowed both auditors to visit the restaurant. During the visit, Ms. Coulombe noticed that the waitress had thrown her Blue Line guest check pad in the recycling bin. Ms. Coulombe recovered the guest checks from the recycling bin.
+[13] Mr. Ibarissen was unable to reconcile the guest checks with the SRM entries from that day. It is important to note that the results of the above described exercises were not used in making the assessment; the respondent only used these factual elements to establish that Mr. Ibarissen could not rely on the SRM in attempting to determine the restaurant’s sales for the periods at issue after the SRM was installed.
+[14] Thus, it was in light of these facts, but mainly because the restaurant’s bookkeeping was inadequate and unreliable for all the periods at issue—that is, both for the periods before the SRM was installed and for those subsequent thereto—that Mr. Ibarissen decided to use an alternative method.
+[15] Mr. Ibarissen explained that he chose the wages-based alternative method to reconstruct taxable supplies because, in this case, the only real and verifiable information was that regarding the hours worked by the restaurant’s employees.
+[16] Mr. Ibarissen stated that he could not use the purchases-based method advocated by the expert, Mr. Delambre, because it was impossible to confirm all the purchases made by the restaurant, since the appellant either had not obtained invoices in some instances or had mislaid them in others.
+[17] Mr. Ibarissen explained that the wages-based alternative method of reconstructing sales relied on Statistics Canada’s industry data, and, more specifically, on restaurant data in the Service Bulletin entitled Food Services and Drinking Places (63-243-X), Canada, 2010. According to this method, ratios for salaries, wages, and benefits are used to reconstruct annual pre-tax sales using hours worked and employee wages.
+[18] However, the appropriate ratio must be applied. Ratios for salaries, wages, and benefits are different depending on whether one is dealing with full-service or limited-service restaurants. The Statistics Canada Bulletin defines these two types of establishments as follows:
+722511 – Full-service restaurants
+This Canadian industry comprises establishments primarily engaged in providing food services to patrons who order and are served while seated and pay after eating. These establishments may sell alcoholic beverages, provide take-out services, operate a bar or present live entertainment, in addition to serving food and beverages. This Canadian industry includes drinking places that primarily serve food.
+Illustrative example(s)
+family restaurants (e.g., diners)
+fine-dining restaurants
+. . . [2]
+722512 – Limited-service eating places
+This Canadian industry comprises establishments primarily engaged in providing food services to patrons who order or select items at a counter, food bar or cafeteria line (or order by telephone) and pay before eating. Food and drink are picked up for consumption on the premises or for take-out, or delivered to the customer’s location. These establishments may offer a variety of food items or they may offer specialty snacks or non-alcoholic beverages.
+Illustrative example(s)
+coffee shops
+doughnut shops
+drive-in restaurants
+fast food restaurants
+ice cream parlour
+soup and sandwich shop
+take-out restaurants
+. . . [3]
+[19] Mr. Ibarissen determined that the appellant’s restaurant was full-service because customers were served breakfast and lunch while seated.
+[20] In order to reconstruct the restaurant’s taxable supplies, Mr. Ibarissen analyzed the number of hours worked per fiscal year by employment category using the minimum wage rates in effect under the Act Respecting Labour Standards; he did this for each position, regardless of whether it was one in which tips were received or not. To determine the number of hours worked, he relied on the answers provided by the appellant in an ARQ questionnaire dated May 9, 2012. Then, he divided the amount of wages that should have been paid by the salary, wage, and benefit ratio set by Statistics Canada for a full-service restaurant.
+[21] On the basis of his understanding of the appellant’s answers to the ARQ questionnaire, Mr. Ibarissen determined the number of employees and the number of hours that they worked at the appellant’s restaurant:
+Servers
+Cooks/Dishwashers
+Day
+Employee(s)
+Hours
+Day
+Employee(s)
+Hours
+Monday
+1
+9
+Monday
+1
+9
+Tuesday
+1
+9
+Tuesday
+1
+9
+Wednesday
+1
+9
+Wednesday
+1
+9
+Thursday
+1
+9
+Thursday
+1
+9
+Friday
+2
+9
+Friday
+3
+9
+Saturday
+2
+8
+Saturday
+3
+8
+Sunday
+2
+8
+Sunday
+3
+8
+Total
+86 hours
+Total
+111 hours
+[22] Mr. Ibarissen also estimated that the restaurant operated for 49.29 weeks. Using that number, he estimate the wages earned by the restaurant’s employees:
+Period
+2009-01-01 to 2009-12-31
+2010-01-01 to 2010-12-31
+2011-01-01 to 2011-12-31
+2012-01-01 to 2012-09-30
+Number of hours per year for servers
+4,239
+4,239
+4,239
+3,179
+Number of hours per year for cooks/dishwashers
+5,471
+5,471
+5,471
+4,103
+Average minimum hourly wage for servers
+$7.92
+$8.17
+$8.32
+$8.48
+Average minimum hourly wage for cooks/dishwashers
+$8.83
+$9.33
+$9.60
+$9.82
+Total wages
+$81,884.20
+$85,679.44
+$87,774.21
+$67,249.55
+[23] To reconstruct the restaurant’s sales, Mr. Ibarissen applied Statistics Canada’s ratio for a full-service restaurant to the total estimated wages:
+Period
+2009-01-01 to 2009-12-31
+2010-01-01 to 2010-12-31
+2011-01-01 to 2011-12-31
+2012-01-01 to 2012-09-30
+Industry ratio for a full-service restaurant
+38%
+35.9%
+35.9%
+35.9%
+Reconstructed sales
+$215,484.74
+$238,661.39
+$244,496.41
+$187,324.64
+Declared sales
+$70,912.00
+$66,958.00
+$67,406.00
+$20,803.00
+Discrepancy
+$144,572.74
+$171,703.39
+$177,090.41
+$166,521.64
+[24] After these calculations were made, the Minister issued an assessment on March 14, 2013, claiming the following amounts from the appellant:
+Tax collected but not remitted (reconstructed sales)
+$33,077.38
+Tax collected but not remitted (no return)
+$3,264.09
+Penalty (gross negligence)
+$4,478.10
+Interest on arrears
+$4,195.62
+Non-filing penalty
+$855.48
+(2) Testimony by the appellant’s expert with respect to the alternative method used by the Minister
+[25] Mr. Delambre is a chartered professional accountant and has worked at various accounting firms since 1995. Since 2002, he has been running his own practice. I qualified him as an expert. Mr. Delambre is not and has never been the appellant’s accountant. Mr. Delambre’s mandate was to analyze the alternative method used by the ARQ auditor.
+[26] It emerged from Mr. Delambre’s testimony that the appellant did not declare all the restaurant’s taxable supplies. He noted that, given the appellant’s bookkeeping, an alternative method was necessary to determine the restaurant’s sales.
+[27] However, according to Mr. Delambre, the additional sales calculated by the ARQ auditor were overestimated. Mr. Delambre stated that he chose another alternative method, namely the purchases-based method, not for the purpose of challenging the approach used by the auditor, but merely to determine whether he would obtain results similar to those of the ARQ auditor. In that regard, Mr. Delambre admitted that the wages-based method was appropriate provided that the data used were not incorrect.
+[28] Thus, after determining the restaurant’s sales using the alternative purchases-based method, Mr. Delambre explained, when one takes into account the salary expenses used by the auditor and the other expenses as stated in the appellant’s tax returns, the operating profit margin under the wages method was 40.62% for 2009, 39.27% for 2010, and 31.02% for 2011. On the other hand, under the purchases method, the same data, except, necessarily, for the reconstructed sales amount, yielded an operating profit margin for the restaurant of 11.59% for 2009, 13.43% for 2010, and 13.28% for 2011.
+[29] According to Mr. Delambre, his calculations show that the operating profit margins under Mr. Ibarissen’s method are significantly exaggerated for this type of restaurant. On this point, he referred to the operating profit margins published by Statistics Canada for this type of restaurant, which were 5.80% for 2009, 5.9% for 2010, and 4.8% for 2011.
+[30] Furthermore, the purchases-based alternative method results in a $129,977 difference in taxable supplies for the three years at issue, whereas under the wages-based alternative method the difference is $307,000. According to Mr. Delambre, this difference and the operating profit margins demonstrate that the wages-based alternative method does not yield reliable and quality results.
+[31] Mr. Delambre also stated that some information used by the auditor, Mr. Ibarissen, including the hours and days worked, was erroneous.
+IV. Analysis
+[32] In this case, in light of the evidence submitted, I am of the opinion that the Minister was justified in using an alternative method to reconstruct the restaurant’s sales. The appellant did not keep adequate and reliable books. Although he was operating a sole proprietorship and was not required to produce financial statements, the appellant was required to keep reliable records under section 286 of the ETA.
+[33] The book in which the appellant manually recorded the employees’ wages was not reliable. Neither the years nor the hourly rates are specified. The sales record that he kept manually is not reliable either. For example, he told this Court that the restaurant was closed on Mondays, but according to that book, it was rather the case that the restaurant would have been closed on certain Sundays, and it would appear that it was open on some Mondays. Furthermore, only the date and the sales amount for the day are shown, with no breakdown. The appellant did not keep any documentation to support his data. He threw out all his Z-tapes as soon as he entered the sales amount in the book. He also threw out the cash register tape, the lists of employee hours worked, and the guest checks filled out by the servers. In addition, he paid most suppliers in cash, often either not obtaining invoices or mislaying those he did obtain. The appellant did not pay himself a salary and he took money from the restaurant’s cash as needed, but without recording how much he took. During his testimony, he was unable to specify the amounts that he withdrew from the restaurant’s cash.
+[34] The alternative methods rely on estimates and yield approximate results that do not necessarily reflect reality. These methods are a last resort. In this case, however, the Minister did not have any other choice than to use an alternative method. Furthermore, the appellant’s expert, Mr. Delambre, also used an alternative method to reconstruct the restaurant’s sales.
+[35] In that regard, the appellant argues that the alternative method used by the auditor is unreliable and that the method used by his expert is more reliable and better reflects the reality of his business. In my view, this argument by the appellant does not hold water. It is not for the taxpayer to choose the alternative method. Selecting the alternative method is the Minister’s prerogative. I therefore cannot comment on the purchases-based alternative method used by Mr. Delambre. In any event, as argued by the respondent, it is difficult to compare the operating profit margins of a business in a case where the purpose is to determine taxable supplies and not profits for tax purposes and where, moreover, the evidence relating to expenses is unreliable.
+[36] The wages-based method is a recognized alternative method. Furthermore, the case law is settled: when an assessment is based on an alternative method, the issue is not so much whether one approach is preferable to the other but whether the result is reliable enough to be of the quality required. [4]
+[37] On this point, the appellant cited Dussault J. in Brasserie Futuriste de Laval [5] and argued that the appeal should be allowed because the alternative method used by the auditor, Mr. Ibarissen, is unreliable and does not achieve the quality required.
+[38] In that decision, Dussault J. noted that the fact that a taxpayer fails to fulfil his obligation or has deficient accounting or has destroyed documents does not allow the Minister to hide behind the presumption of an assessment’s validity and thereby avoid producing evidence. Otherwise, the Minister could rely on arbitrary assumptions that the taxpayer would be unable to refute. In this regard, Dussault J. wrote the following at paragraph 158 of his decision:
+. . . In short, when a taxpayer can raise a serious doubt, it must be shown that the markup used is not a purely subjective standard, but, rather, a standard that is objective, reliable and acceptable under the circumstances. One cannot hide behind the presumption of an assessment’s validity in order to avoid having to offer such evidence. To claim otherwise is to open the door to arbitrariness by allowing the tax authorities to propound any theory with the assurance that it would be deemed valid. Just because a taxpayer has failed to meet its obligations, has deficient accounting, does not have the appropriate documents, or has destroyed those documents, does not mean that all assumptions are warranted and that those assumptions will be deemed valid under all circumstances. In income tax cases where a taxpayer is assessed by means of the indirect net worth method, and, for lack of anything better, his personal expenses are determined by means of assumptions, this is done by using minimum objective standards drawn from official statistics published by Statistics Canada with respect to the cost of living for individuals and households in different parts of the country, not by relying on numbers that stem from the auditor’s impressions. In my opinion, this approach is also applicable to GST cases. In summary, the assertion that “my team and I apply a markup of at least 200%, less 5% for losses” is not sufficient to shift to the taxpayer the full burden of rebutting this assumption where there are serious doubts about it. A minimum amount of evidence is required in order to determine that such a markup is recognized, reliable and reasonably applicable under the circumstances.
+[39] However, Dussault J.’s comment does not apply in this case. The auditor, Mr. Ibarissen, did not rely on arbitrary information to assess the appellant. Rather, Mr. Ibarissen used the responses provided by the appellant in the questionnaire dated May 9, 2012, in particular the information on the number of employees, their hours worked, and the restaurant’s business hours.
+[40] At the hearing, the appellant argued that some of these responses were wrong because when he was answering the questionnaire he had not grasped what all the questions entailed. In this regard, the appellant questioned the number of days the restaurant was open during the periods at issue, the business hours, number of employees, and the number of hours that they worked.
+(1) Number of days the restaurant was open during the period at issue
+[41] According to the information provided to Mr. Ibarissen in the questionnaire dated May 9, 2012, the restaurant was open seven days a week. At the hearing, however, the appellant stated that his answer had been based on the restaurant’s operations at the date of the questionnaire, i.e., May 9, 2012. The appellant also said that, because he did not know at that time the purposes for which the questionnaire would be used, his answers reflected the restaurant’s operations in May 2012 and not for the previous years.
+[42] The appellant testified that the restaurant was only open six days a week for the period from January 1, 2010 until October 1, 2011. On this point, the appellant referred to his sales book, according to which the restaurant was closed on Mondays during that period.
+[43] However, I noted that some of the dates in the sales book on which the restaurant was closed were actually a Sunday and not a Monday. That said, it is possible that this was a clerical error regarding the date. Since neither party raised this possibility, I decided not to question the version given by the appellant at the hearing and to accept that,++ for the period from January 1, 2010 to October 1, 2011, the restaurant was open six days a week. Thus, the assessment should be modified to reflect this change.
+(2) Business hours during the period at issue
+[44] According to the answers provided by the appellant in the questionnaire dated May 9, 2012, the restaurant’s business hours were 7:30 a.m. to 4:30 p.m. during the week and from 8:30 a.m. to 4:30 p.m. on weekends.
+[45] In the ARQ’s initial questionnaire dated May 3, 2013, completed as part of a tax audit, the appellant, as one can see, answered that the restaurant’s business hours were from 8:30 a.m. to 4:30 p.m.
+[46] However, on June 26, 2013, the appellant sent a letter to Roosevelt Moïse, a tax auditor with the ARQ, in which he said that he had made a mistake in answering the questions on May 3, 2013. The appellant wrote that the restaurant’s business hours were from 8 a.m. to 3 p.m. and that it was only in September 2012 that the restaurant changed its business hours so that it was open from 8 a.m. to 4:30 p.m. There was no mention by the appellant, either in his answers to the questionnaire or in his letter dated June 26, 2013, that the restaurant’s business hours were different on weekends.
+[47] At the hearing, the appellant argued that the auditor, Mr. Ibarissen, relying on the questionnaire dated May 9, 2012, overestimated the restaurant’s hours of operation. The appellant reiterated that in answering the May 9, 2012 questionnaire he was referring to the restaurant’s hours of operation in May 2012 and not to the restaurant’s hours of operation in the previous years. As a result, the restaurant’s sales were overestimated.
+[48] The appellant’s testimony does not stand up. If, as he claims, his answers were based on the restaurant’s operations as carried on in May 2012, when the questionnaire was completed, and it was only in September 2012 that the restaurant changed its hours of operation to 8 a.m. to 4:30 p.m. from 8 a.m. to 3 p.m., it is difficult to understand why in May 2012 he did not answer that the restaurant’s hours of operation were from 8 a.m. to 3 p.m.
+[49] Furthermore, according to the data from the SRM, which was activated in November 2011, transactions were recorded after 3 p.m. prior to September 2012, in particular at the following hours:
+Day
+Last Transaction
+October 30, 2011
+4:08 p.m.
+November 17, 2011
+4:57 p.m.
+December 9, 2011
+4:07 p.m.
+January 7, 2012
+5:08 p.m.
+February 21, 2012 [meal]
+4:36 p.m.
+March 10, 2012
+4:42 p.m.
+April 29, 2012
+4:18 p.m.
+May 6, 2012
+4:21 p.m.
+[50] The evidence is unequivocal: the Appellant’s testimony regarding the restaurant’s business hours does not hold water.
+[51] Consequently, in light of this evidence, I am of the opinion that the auditor was justified in considering that the restaurant’s hours of operation were from 7:30 a.m. to 4:30 p.m. during the week and from 8 a.m. to 4 p.m. on weekends. Consequently, there will be no adjustment with respect to the restaurant’s business hours.
+(3) Number of employees and their hours worked
+[52] The appellant argues that the auditor, Mr. Ibarissen, overestimated the hours for the servers and cooks, which distorted the sales as reconstructed by the Minister.
+[53] In this regard, the appellant states that, during the week, the waitress and the cook left early and that he then acted as both cook and server. The appellant argues that his hours worked at the restaurant should not be included in reconstructing the sales of the restaurant because he did not receive any remuneration for the hours that he worked there.
+[54] The appellant also argues that on weekends there were not two waitresses and two cooks for eight hours. According to his testimony, there was a three-hour overlap in the case of the waitresses and a two-hour overlap in the case of the cooks.
+[55] Furthermore, he submitted that sales were also overestimated because the auditor treated Friday as a weekend day.
+[56] On this last point, I agree with the appellant that Friday should not have been considered as a weekend day, since the restaurant was only open for breakfast and lunch. Consequently, Friday should be treated like any other weekday, i.e., a single server and a single cook working nine hours each.
+[57] With respect to staff overlap, I find the appellant’s testimony to be credible in that regard. The overlap seems reasonable to me, given the type of restaurant, namely one with seating for 30 customers. According to the appellant’s testimony, the first waitress started at 8 a.m. and finished at 1 p.m. (five hours), and the second waitress started at 11 a.m. and finished at 4 p.m. (six hours). Thus, the total number of hours worked by both waitresses on Saturdays and Sundays was eleven, not the sixteen hours counted by Mr. Ibarissen. [6] Therefore, an adjustment will have to be made to reflect the fact that the waitresses worked eleven hours on Saturdays and Sundays.
+[58] The same reasoning applies to the cooks. On Saturdays and Sundays, the first cook started at 8 a.m. and finished at 1 p.m. (five hours), while the second cook started at 11 a.m. and finished at 3 p.m. (four hours). Thus, the total number of hours worked by both cooks on Saturdays and Sundays was nine, not the sixteen hours counted by Mr. Ibarissen. [7]
+[59] With respect to the dishwasher, the auditor assumed that he worked eight hours on Saturdays and Sundays. During his testimony, the appellant said that the dishwasher worked approximately three or four hours on Saturdays and Sundays. In my opinion, this should also be reflected in the hours that were used to reconstruct sales. Consequently, the auditor should have used four hours for Saturdays and Sundays in the case of the dishwasher.
+[60] I would emphasize that the auditor did not take into account the overlap in the employees’ hours because this overlap was raised by the appellant for the first time at the hearing.
+[61] However, the appellant’s argument that the hours used by the auditor to reconstruct sales should also be reduced by the hours during which the appellant replaced the server or cook does not hold water. The appellant submits that oftentimes the waitress and/or the cook left earlier during the week and that he performed their duties and that, since he was not paid, these hours should not be included in the hours used to reconstruct the restaurant’s sales. No relevant evidence was submitted to support this argument. In any event, this argument does not hold up. For the reconstruction of sales for GST purposes, the hours worked by the appellant performing the functions of server or cook at the restaurant generate taxable supplies, regardless of whether he is remunerated or not.
+(4) Full-service restaurant or limited-service restaurant
+[62] At the hearing, there was a debate as to whether the restaurant operated by the appellant was a full-service or a limited-service restaurant. The appellant argued that it was a limited-service restaurant, while the respondent argued that it was a full-service restaurant. The Statistics Canada wage, salary, and benefits ratios used for a full-service restaurant are lower, so the respondent’s choice works in the appellant’s favour. In any event, I am of the opinion that the appellant’s restaurant is a full-service one. Consequently, I am satisfied with the ratios used by the Minister for salaries, wages, and benefits.
+(5) Amount conceded by the Appellant
+[63] At the hearing, the respondent indicated that the tax assessed in the amount of $36,341.47 included $3,264.09 in tax that was collected but not remitted. This amount is the result of late filings of GST returns by the appellant. Counsel for the appellant conceded that this amount was not in dispute.
+V. Penalties under section 285 of the ETA
+[64] Section 285 of the ETA imposes a penalty on every person who, knowingly or under circumstances amounting to gross negligence, makes a false statement or an omission in a return:
+285. Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty of the greater of $250 and 25% of the total of
+a) if the false statement or omission is relevant to the determination of the net tax of the person for a reporting period, the amount determined by the formula
+A – B
+where
+A is the net tax of the person for the period, and
+B is the amount that would be the net tax of the person for the period if the net tax were determined on the basis of the information provided in the return,
+(b) if the false statement or omission is relevant to the determination of an amount of tax payable by the person, the amount, if any, by which
+(i) that tax payable
+exceeds
+(ii) the amount that would be the tax payable by the person if the tax were determined on the basis of the information provided in the return, and
+(c) if the false statement or omission is relevant to the determination of a rebate under this Part, the amount, if any, by which
+(i) the amount that would be the rebate payable to the person if the rebate were determined on the basis of the information provided in the return
+exceeds
+(ii) the amount of the rebate payable to the person.
+[65] The onus of proving that the appellant knowingly or under circumstances amounting to gross negligence made a false statement or an omission in a return is on the respondent. On this point, subsection 285.1(16) of the ETA provides as follows:
+285.1(16) If, in an appeal under this Part, a penalty assessed by the Minister under this section or section 285 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[66] In this case, for a penalty to be assessed against the appellant, the respondent must establish with regard to his GST return that:
+− The appellant knew that he was making a false statement as to the amounts of the restaurant’s taxable supplies, or
+− Under circumstances amounting to gross negligence, the appellant failed to declare all the restaurant’s taxable supplies in his GST return.
+[67] In my opinion, the appellant knew in this case that he was not declaring all his taxable supplies. Indeed, during his testimony he indicated that he did not always close the till between two taxable supplies. The appellant’s expert, Mr. Delambre, also admitted that the appellant had not declared all his taxable supplies.
+[68] If I am mistaken regarding the first branch of section 285 of the ETA, I am also of the opinion that the penalties are justified under the second branch of section 285 of the ETA, i.e., that under circumstances amounting to gross negligence the appellant failed to include in his GST returns all his taxable supplies for the periods at issue.
+[69] The leading decision on what constitutes gross negligence for penalty purposes is Strayer J.’s decision in Venne. [8] Strayer J. stated the following:
+. . . “Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. . . .
+[70] I am of the opinion that, in this case, the appellant’s behaviour amounts to intentional acting, an indifference as to whether the law is complied with or not. Without repeating all the facts, suffice it to say that the appellant, despite the requirements of section 286 of the ETA, did not keep adequate records to establish his sales. Moreover, the appellant threw out all the documentation that could have proven his sales. I agree with the respondent that the appellant did this because, by destroying all evidence that could have proven his sales, he thought that he was protecting himself. The appellant had been operating his business since the mid-1990s; it cannot be said that during the years covered by the audit, i.e., from 2010 to 2011, the appellant was a neophyte. The evidence shows that the appellant knew that if he did not close the till between two customers, the SRM could not record the transactions that were not punched in. Furthermore, the discrepancy between the reported sales and the reconstructed sales is significant, notwithstanding the adjustments that I have proposed.
+[71] In light of the facts that I have set out, I am of the opinion that the Minister was justified in imposing penalties for the periods at issue.
+VI. Disposition
+[72] The appeal is allowed on the following basis:
+− An adjustment shall be made to reflect the fact that the restaurant was open six days a week during the period from January 1, 2010 to October 1, 2011;
+For the period from January 1, 2009 to September 30, 2012:
+− Friday should be treated like any other weekday, i.e., a single server and a single cook working nine hours;
+− The number of hours worked by the waitresses was eleven on Saturdays and Sundays;
+− The number of hours worked by both cooks was nine on Saturdays and Sundays and not sixteen;
+− The number of hours worked by the dishwasher was four on Saturdays and Sundays.
+[73] In all other respects, the assessment, the notice of which is dated March 14, 2013, remains unchanged.
+[74] Costs are awarded to the respondent.
+This is the translation of the Amended Reasons for Judgment replacing the Reasons for Judgment originally issued on December 15, 2017.
+Signed at Ottawa, Canada, this 6th day of February 2018.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 1st day of February 2019.
+Erich Klein, Revisor
+CITATION:
+2017 TCC 250
+COURT FILE NO.:
+2014-820(GST)G
+STYLE OF CAUSE:
+CHARLES LANGHEIT v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 6, 2015, and June 20 and 21, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+DATE OF REASONS FOR JUDGMENT:
+December 15, 2017
+February 6, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Julie Gaudreault-Martel
+Counsel for the Respondent:
+Christine Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Julie Gaudreault-Martel
+Firm:
+BCF LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See transcript, October 6, 2015, Volume 1, testimony by Mr. Delambre, p. 71, lines 22 to 28, p. 72, lines 10 to 12, p. 86, lines 8 and 9 and 15 to 17.
+[2] Exhibit A-2, p. 38–39.
+[3] Exhibit A-2, p. 39.
+[4] 125319 Canada Ltée v The Queen, 2013 TCC 368, at para 34; Landry v ARQ, 2014 QCCQ 5538, at para 18; 9091-2239 Québec Inc. v The Queen, 2016 TCC 198, at para 58.
+[5] Brasserie Futuriste de Laval Inc. v The Queen, 2006 TCC 503.
+[6] See Respondent’s book, Exhibit I-1, Tab 6.
+[7] Ibid.
+[8] Venne v The Queen, [1984] FCJ No 314 (FCTD).

@@ -1,0 +1,235 @@
+Title: Johnson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520909/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-31-520909-johnson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2022-02-01
+
+# Johnson v. The Queen
+
+- Citation: 2022 TCC 31
+- Decision date: 2022-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4445, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-02-01
+Neutral citation
+2022 TCC 31
+File numbers
+2021-940(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-940(IT)G
+BETWEEN:
+LEROY JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Appellant:
+Kyle Corbin
+Counsel for the Respondent:
+John Chapman
+Benjamin Chamberland
+ORDER
+The Respondent’s motion is granted.
+Paragraphs (d)(i), (d)(ii), (d)(iii), (d)(vii), (d)(viii), (d)(ix), (e)(ii), (e)(iii), (g)(i) and (g)(iii) of the Notice of Appeal are struck without leave to amend.
+The time for the Respondent to file a Reply is extended to March 23, 2022.
+The Appellant shall, on or before April 22, 2022, pay costs of $525 to the Respondent in respect of this motion.
+Signed at Ottawa, Canada, this 21st day of February 2022.
+“David E. Graham”
+Graham J.
+Citation: 2022 TCC 31
+Date: 20220221
+Docket: 2021-940(IT)G
+BETWEEN:
+LEROY JOHNSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] When he filed his tax returns for his 2006, 2009 and 2010 taxation years, the Appellant claimed donation tax credits in respect of gifts that he claims to have made through a tax shelter known as the Global Learning Gifting Initiative (“GLGI”). The Minister of National Revenue reassessed the Appellant to deny those credits. The Appellant appealed.
+[2] The Respondent has brought a motion to strike portions of the Appellant’s Notice of Appeal. The portions of the Notice of Appeal that the Respondent wishes to have struck relate to:
+(a) the conduct of the Minister of National Revenue;
+(b) the Taxpayer Bill of Rights;
+(c) the Canadian Charter of Rights and Freedoms; and
+(d) the relief sought by the Appellant.
+A. Lack of Submissions from the Appellant
+[3] In July 2021, the Registry asked the Appellant whether he wished to provide any written representations or comments in respect of the Respondent’s motion. The Appellant did not respond by the Registry’s deadline or at all.
+[4] In December 2021, the Registry again asked the Appellant whether he wished to provide written representations or comments. The Registry advised the Appellant that if he did not provide a response by a certain deadline, I would decide the motion based on the Respondent’s motion record without appearance by the parties. The Appellant did not respond to the Court by the deadline.
+B. Test For Striking Pleadings
+[5] Paragraph 53(1)(d) of the Tax Court of Canada Rules (General Procedure) allows a party to bring a motion to strike a part of a pleading on the grounds that it discloses no reasonable grounds for appeal. For the party to succeed, it must be plain and obvious, assuming that the facts pleaded are true, that that part of the pleading discloses no reasonable cause of action. [1]
+C. No Material Facts
+[6] The Appellant pleaded very few facts in his Notice of Appeal. The facts pleaded describe the Appellant’s purported donations and the procedural history of the dispute. None of the facts pleaded relates to the paragraphs that the Respondent is seeking to strike.
+[7] The fact that the Appellant did not plead any material facts in support of the paragraphs that the Respondent wishes to have struck is, in itself, a sufficient reason for me to strike the paragraphs. “Failure to disclose a reasonable cause of action may occur when there is a failure to plead any material facts that evidence a cause of action.” [2] I would strike all of the paragraphs in question on this basis alone.
+[8] Pursuant to subsection 53(1), when the Court strikes part of a Notice of Appeal, it can do so with or without leave to amend. In order for the Court to strike a pleading without leave to amend, the pleading must be one that cannot be cured by amendment. [3]
+[9] Normally, if the Court strikes parts of a Notice of Appeal because the appellant did not plead any material facts, the Court will grant the appellant leave to amend the Notice of Appeal to fix that error.
+[10] The Respondent asks that I not allow the Appellant to amend his Notice of Appeal. The Respondent submits that even if I granted the Appellant leave to amend the Notice of Appeal in order to plead the material facts in support of the issues raised in the paragraphs in question, it would still be plain and obvious that those paragraphs disclose no reasonable cause of action.
+[11] As a result, in order to determine whether I should grant leave to amend, I must review each of the paragraphs individually to determine whether, even with supporting facts, it would still be plain and obvious that there was no cause of action.
+D. Conduct of the Minister
+[12] The Respondent seeks to strike paragraphs (d)(i), (ii) and (iii) of the Notice of Appeal. Each of these paragraphs deals with things that the Appellant alleges the Minister did or failed to do.
+[13] The Tax Court’s role in an income tax appeal is to determine whether the assessment is valid and correct based on the relevant facts and the provisions of the Income Tax Act. The Minister’s conduct during the audit or objection process is irrelevant to that determination. [4] That conduct is not a ground upon which the Court can allow an appeal.
+[14] I will address the specific conduct that the Appellant complains of below.
+Approving Charitable Registration
+[15] Paragraph (d)(i) questions the Minister’s approval of the charitable status of various charities. The paragraph states:
+Did the CRA approve the Charitable Status of the organizations referred to in its Notice of Confirmation dated November 30, 2020 issued to the Appellant
+[16] The Appellant claims to have made charitable donations to a number of charities. The Notice of Appeal does not name the charities. Since a donation to an unregistered charity would not be a valid donation, I presume that the Appellant, in raising this issue, is not questioning the fact that the charities were registered, but rather whether they should have been registered.
+[17] The Minister’s actions in registering a charity or failing to revoke the registration of a charity are irrelevant to the determination of the validity or correctness of the Appellant’s reassessments. [5] Any error made by the Minister in registering the charities or in failing to revoke their registration would have no impact on the validity or correctness of the reassessments. Either the donations were valid or they were not. The Minister’s actions or lack thereof will not change this. The Appellant was assessed based on what he did, not on what he might have done had the charities not been registered.
+[18] On the basis of all of the foregoing, I will strike paragraph (d)(i) of the Notice of Appeal without leave to amend. It is plain and obvious that the ground of appeal that it raises has no chance of success.
+Informing the Public About Tax Shelters
+[19] Paragraph (d)(ii) questions the Minister’s knowledge of the GLGI tax shelter and the steps, if any, that the Minister took to advise the public about it. The paragraph states:
+Did the CRA know of the GLCI [sic] program, and if so, when was this discovered and what enforcement action was taken, if any in advising the public of the unsuitability of this type of charitable scheme?
+[20] Even if the Notice of Appeal disclosed the facts necessary to support this argument, it is not an appropriate ground for appeal.
+[21] If a tax shelter promoter applies to the Canada Revenue Agency (“CRA”) to register the tax shelter, as long as the tax shelter meets the relatively simple requirements of subsection 237.1(3) of the Income Tax Act, the CRA has no choice but to issue a tax shelter number. [6] The fact that a tax shelter number has been issued in no way guarantees that taxpayers who participate in the shelter will obtain the tax benefits that they expect. [7]
+[22] Most importantly, the CRA’s actions in warning or failing to warn taxpayers about the GLGI tax shelter are irrelevant to determining the validity or correctness of the Appellant’s reassessments. Either the Appellant’s donations were valid or they were not. No warning or lack thereof will change this.
+[23] On the basis of all of the foregoing, I will strike paragraph (d)(ii) of the Notice of Appeal without leave to amend. It is plain and obvious that the ground of appeal that it raises has no chance of success.
+E. Taxpayer Bill of Rights
+[24] Paragraph (d)(iii) of the Notice of Appeal raises a number of different arguments relating to the Taxpayer Bill of Rights.
+[25] The Taxpayer Bill of Rights is an administrative document issued by the CRA. It is, in essence, a pledge to deliver a certain quality of service to Canadian taxpayers. It has no force of law. It neither overrides nor supplements the Income Tax Act. [8]
+[26] Without submissions from the Appellant, it is difficult to know exactly what he hopes to achieve by bringing the Taxpayer Bill of Rights into issue.
+[27] A taxpayer cannot sue or otherwise bring an action against the CRA in Tax Court for an alleged breach of the Taxpayer Bill of Rights. [9] If that is what the Appellant wants to do, then paragraph (d)(iii) does not raise a reasonable ground for appeal and should be struck without leave to amend.
+[28] The mere fact that the Minister may have breached the Taxpayer Bill of Rights is not, in itself, relevant to determining the validity or correctness of the Appellant’s reassessments. [10] If that is what the Appellant is arguing, then paragraph (d)(iii) should be struck without leave to amend.
+[29] However, the Appellant may be arguing that the underlying actions that led to the alleged breaches of the Taxpayer Bill of Rights (as opposed to the breach of the Taxpayer Bill of Rights itself) are reasons why his reassessments should be vacated. Out of an abundance of caution, I will address that question below in respect of each part of paragraph (d)(iii).
+Full Impartial Review
+[30] Paragraph (d)(iii)(a) of the Notice of Appeal asks whether the CRA upheld the Appellant’s right to an impartial review. This is presumably a reference to sections 4 and 7 of the Taxpayer Bill of Rights. Those sections refer to a taxpayer’s right to a full impartial review.
+[31] It is not the role of the Tax Court to conduct a judicial review of the administrative review process used by the Minister. [11] The question of whether the Appellant’s objection to his reassessments was given a full impartial review is irrelevant to determining the validity or correctness of those reassessments. The Appellant will have the opportunity to receive a full, impartial and independent review of his reassessments on the merits when his appeal proceeds to trial.
+[32] Paragraph (d)(iii)(a) should be struck without leave to amend. Even on the most generous reading of the paragraph, it is plain and obvious that the ground of appeal that it raises has no chance of success.
+Consistent Application of the Law
+[33] Paragraph (d)(iii)(b) of the Notice of Appeal asks whether the CRA applied the law consistently. This is presumably a reference to section 8 of the Taxpayer Bill of Rights.
+[34] The Notice of Appeal does not contain any facts that would suggest that the Minister has not reassessed others in the same manner as she reassessed the Appellant but, even if it did, those facts would be irrelevant to determining the validity or correctness of the Appellant’s reassessments.
+[35] It is not the role of the Tax Court to conduct a judicial review of the Minister’s decision to reassess the Appellant let alone to compare that decision to the Minister’s decisions in respect of other taxpayers. The Minister’s motivation in issuing assessments is irrelevant. [12] So too is the question of how the Minister assessed other taxpayers in the same situation. [13]
+[36] Paragraph (d)(iii)(b) should be struck without leave to amend. Even on the most generous reading of the paragraph, it is plain and obvious that the ground of appeal that it raises has no chance of success.
+Warning About Questionable Tax Schemes
+[37] Paragraph (d)(iii)(c) of the Notice of Appeal argues that the CRA failed to warn the Appellant about the GLGI tax shelter. It states:
+Has the CRA infringed upon the Applicants [sic] right to expect the CRA to warn about questionable tax schemes in a timely manner? As such was the CRA negligent in its lack of enforcement and failing to monitor the validity of the GLGI charitable tax scheme?
+[38] This is presumably a reference to section 14 of the Taxpayer Bill of Rights. That section states that taxpayers have the right to expect the CRA to warn them about questionable tax schemes in a timely manner.
+[39] Even if the Notice of Appeal contained the facts necessary to support this argument, it is not an appropriate ground for appeal. As set out above, the Minister’s actions in warning or failing to warn the Appellant about the GLGI tax shelter are irrelevant to determining the validity or correctness of the Appellant’s reassessments.
+[40] Paragraph (d)(iii)(c) should be struck without leave to amend. Even on the most generous reading of the paragraph, it is plain and obvious that the ground of appeal that it raises has no chance of success.
+Paragraph (d)(iii)(d)
+[41] Paragraph (d)(iii)(d) of the Notice of Appeal seeks relief based on the issues raised in the paragraphs (d)(iii)(a) to (c). As those paragraphs are struck, paragraph (d)(iii)(d) should also be struck without leave to amend.
+Conclusion
+[42] On the basis of all of the foregoing, I will strike paragraph (d)(iii) of the Notice of Appeal in its entirety without leave to amend.
+[43] I will also strike paragraph (e)(ii). Paragraph (e) sets out the statutory provisions upon which the Appellant is relying. Paragraph (e)(ii) specifically refers to the provisions of the Taxpayer Bill of Rights and is thus no longer necessary.
+F. Canadian Charter of Rights and Freedoms
+[44] Paragraphs (d)(vii), (d)(viii) and (d)(ix) of the Notice of Appeal raise a number of different arguments relating to the Canadian Charter of Rights and Freedoms. I will deal with each section of the Charter separately.
+Section 7
+[45] In paragraph (d)(vii), the Appellant asks:
+Does the decision of the CRA infringe upon the Appellants [sic] constitutional rights found in section 7 and the requirements of fundamental justice?
+[46] Section 7 of the Charter provides that “Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.”
+[47] In order to demonstrate a violation of section 7, a claimant must demonstrate both that there has been or could be a deprivation of the right to life, liberty and security of the person and that the deprivation was not or would not be in accordance with the principles of fundamental justice. [14]
+[48] The Federal Court of Appeal has consistently held that an assessment under the Income Tax Act cannot result in a deprivation of life, liberty or security of the person. [15] As Justice Sharlow stated in Gratl v. The Queen, “an income tax assessment is a civil matter involving only economic interests. It does not deprive the assessed person of life, liberty or security of the person within the meaning of section 7 of the Charter”. [16]
+[49] There is no suggestion that the Appellant is using section 7 to challenge the validity, applicability or operability of any section of the Income Tax Act. The Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process in breach of section 7. [17]
+[50] Paragraph (d)(vii) should be struck without leave to amend as should the corresponding reference to section 7 of the Charter in paragraph (e)(iii). It is plain and obvious that this ground of appeal has no chance of success.
+Section 8
+[51] Section 8 of the Charter states that “Everyone has the right to be secure against unreasonable search or seizure.”
+[52] The Appellant does not specifically allege that the Minister violated his rights under section 8. He simply refers to that section in the portion of the Notice of Appeal where he lists the statutory provisions he relies upon. To the extent that there had been an unreasonable search or seizure, that would potentially be grounds for excluding the evidence obtained through that search or seizure. It would not, in itself, be a reason to vacate the Appellant’s reassessments. [18]
+[53] If the Appellant wants to argue that there was a violation of his section 8 Charter rights and that violation should lead to the exclusion of certain evidence, I will grant him leave to amend his Notice of Appeal. However, as the Appellant chose not to make any submissions, I have no way of knowing whether that is what he wants to do or not. I am not going to stall the progress of the appeal by giving the Appellant an opportunity to amend the Notice of Appeal when he may not want that opportunity.
+[54] To put it bluntly, read as a whole, the Notice of Appeal suggests that the Appellant is simply hurling allegations at the Minister in the hope that something will stick. I have no reason to believe that, given the opportunity, the Appellant would be able to provide any facts to justify his claim that he was subject to an unreasonable search or seizure. I am not going to delay the appeal on the slim chance that I am wrong.
+[55] On the basis of all of the foregoing, I will strike the reference to section 8 of the Charter in paragraph (e)(iii) without leave to amend. If the Appellant wants to amend his Notice of Appeal in respect of this issue, he may bring a motion seeking that relief.
+Section 9
+[56] Section 9 of the Charter states that “Everyone has the right not to be arbitrarily detained or imprisoned.”
+[57] Again, the Appellant does not allege that the Minister violated his rights under section 9. He simply refers to that section in the portion of the Notice of Appeal where he lists the statutory provisions he relies upon.
+[58] A reassessment “is not an infringement of liberty; it is solely a determination of whether a person owes tax to the tax authority”. [19]
+[59] The reference to section 9 of the Charter in paragraph (e)(iii) should be struck without leave to amend. It is plain and obvious that this ground of appeal has no chance of success.
+Section 11(g)
+[60] Paragraph (d)(viii) of the Notice of Appeal states:
+Is the decision of the CRA to be considered “penal” in nature for the purposes of section 11(g) of the Canadian Charter of Rights and Freedoms therefore?
+[61] This question was definitively determined by the Supreme Court of Canada in Guindon v. The Queen. [20] Income tax reassessments are not penal in nature.
+[62] Paragraph (d)(ix) should be struck without leave to amend as should the reference to section 11(g) of the Charter in paragraph (e)(iii). It is plain and obvious that this ground of appeal has no chance of success.
+Section 12
+[63] Section 12 of the Charter states that “Everyone has the right not to be subjected to any cruel and unusual treatment or punishment.”
+[64] Paragraph (d)(ix) of the Notice of Appeal states:
+Do the actions of the CRA amount to cruel and unusual punishment on the Appellant and other taxpayers involved?
+[65] The Notice of Appeal does not contain any facts that would support the assertion that the Appellant or others faced cruel or unusual punishment. Even if it did, a reassessment of income tax “is a civil matter involving only economic interests. It . . . does not place the assessed person under state control in a manner that could possibly be considered treatment or punishment within the meaning of section 12 of the Charter.” [21]
+[66] Paragraph (d)(ix) should be struck without leave to amend. It is plain and obvious that this ground of appeal has no chance of success.
+Section 24(1)
+[67] In paragraph (g)(iii) of the Notice of Appeal, the Appellant seeks:
+Remedy under s.24(1) of the Charter for the Tax court [sic] of Canada to declare the notice of confirmation and obligation to pay unconstitutional and not in accordance with the principles of fundamental justice
+[68] Since I have struck each of the Appellant’s arguments under the Charter, there is no basis for this relief and paragraph (g)(iii) should be struck without leave to amend.
+[69] If the Appellant later brings a motion seeking leave to amend his Notice of Appeal to raise the section 8 issue described above, I will permit him to plead that he relies on section 24(2) to exclude whatever evidence he says was obtained in violation of his section 8 rights.
+Conclusion
+[70] On the basis of all of the foregoing, I will strike paragraphs (d)(vii), (d)(viii), (d)(ix) and (g)(iii) without leave to amend.
+[71] As I have struck all of the references to the Charter in paragraph (e)(iii), I will also strike that paragraph in its entirety.
+G. Relief Sought
+[72] At paragraph (g)(i) of the Notice of Appeal, the Appellant asks the Court to require “CRA to provide a technical opinion from CRA experts on the impartiality of treatment of the GLCI [sic] program and like programs”. The Court does not have the ability to order this type of relief.
+[73] The relief that the Tax Court can provide on an appeal of an income tax reassessment is set out in subsection 171(1) of the Income Tax Act. It is limited to dismissing the appeal or allowing it and either vacating the reassessment, varying the reassessment or referring the reassessment back to the Minister for reconsideration and reassessment.
+[74] Paragraph (g)(i) should accordingly be struck without leave to amend.
+H. Remaining Portions of the Notice of Appeal
+[75] Despite the numerous parts of the Notice of Appeal that I have struck, the Notice of Appeal still clearly raises the issue of whether the Appellant’s donations were valid. [22] This is the issue upon which the Appellant was reassessed. The appeal can move forward on that basis without need for amendment.
+I. Extension of Time to Reply
+[76] The Respondent seeks an extension of time of 30 days to file a Reply. I agree that an extension is appropriate but prefer a fixed date. The Respondent shall serve and file a Reply on or before March 23, 2022.
+J. Costs
+[77] The Respondent seeks costs of this motion in any event of the cause in accordance with Tariff B for a Class B proceeding. I agree that costs are appropriate. I award costs of $525 to the Respondent.
+[78] The Respondent asks that such costs be payable within 30 days. I feel that 30 days is too short a time period. The costs will be payable on or before April 22, 2022.
+K. Conduct of the Appeal
+[79] I note that the Appellant is represented by counsel. The Appellant’s lack of response to the Registry’s queries is unacceptable. Either he consented to the Respondent’s motion or he wished to oppose it.
+[80] I caution the Appellant that any future failure to comply with deadlines may result in his appeal being dismissed pursuant to section 125(4)(c) of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 21st day of February 2022.
+“David E. Graham”
+Graham J.
+CITATION:
+2022 TCC 31
+COURT FILE NO.:
+2021-940(IT)G
+STYLE OF CAUSE:
+LEROY JOHNSON v. HER MAJESTY THE QUEEN
+DATE OF HEARING:
+Motion determined by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+February 21, 2022
+PARTICIPANTS:
+Counsel for the Appellant:
+Kyle Corbin
+Counsel for the Respondent:
+John Chapman
+Benjamin Chamberland
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kyle Corbin
+Firm:
+Toronto, Ontario
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Ereiser v. The Queen, 2013 FCA 20.
+[2] Olukayode Adebogun v. The Queen, 2018 TCC 181, at para. 11. See also Klundert v. The Queen, 2013 TCC 208; and Okoroze v. The Queen, 2012 TCC 360.
+[3] Collins v. The Queen, 2011 FCA 140; Simon v. The Queen, 2011 FCA 6 and Mont-Bruno C.C. Inc. v. The Queen, 2017 CarswellNat 3165 (TCC).
+[4] Ereiser v. The Queen, 2013 FCA 20 (F.C.A.); JP Morgan Asset Management (Canada) Inc. v. Minister of National Revenue, 2013 FCA 250; Addison & Leyen Ltd. v. Canada, 2006 FCA 107 (appeal allowed on different grounds 2007 SCC 33); Superior Filter Recycling Inc. v. The Queen, 2006 FCA 248; and Main Rehabilitation Co. v. The Queen, 2004 FCA 403 (leave to appeal denied 2005 CarswellNat 1110 (S.C.C.)).
+[5] Ruremesha v. The Queen, 2018 TCC 57, at para. 23.
+[6] Scheuer v. The Queen, 2016 FCA 7, at para. 40.
+[7] Moledina v. The Queen, 2007 TCC 354, at para 9.
+[8] Minister of National Revenue v. Plachcinski, 2016 CarswellNat 10234 (Federal Court), at paras. 21 and 22.
+[9] Roy v. The Queen, 2019 TCC 110.
+[10] Torres v. The Queen, 2013 TCC 380, at para. 74; Taylor v. The Queen, 2008 TCC 664.
+[11] Ereiser v. The Queen, 2013 FCA 20, at paras. 31—33 and Webster v. The Queen, 2003 FCA 388, at para. 21.
+[12] Johnson v. The Queen, 2015 FCA 52, at para. 4 (leave to appeal denied 2015 CarswellNat 3751 (SCC)).
+[13] Ludco Enterprises Ltd. v. The Queen, 1994 CarswellNat 1644 (FCA), at paras. 30—32.
+[14] Charkaoui v. Canada (Citizenship and Immigration), 2007 SCC 9, at para. 12.
+[15] Mathew v. The Queen, 2003 FCA 371; Ali v. The Queen, 2008 FCA 190 (leave to appeal denied, 2008 CarswellNat 4095 (SCC)); and Kasvand v. The Queen, 1994 CarswellNat 972 (FCA).
+[16] 2012 FCA 88, at para. 8.
+[17] Main Rehabilitation Co. v. The Queen, 2004 FCA 403, at para. 6 and Taylor v. The Queen, 2008 TCC 664.
+[18] Main Rehabilitation Co. v. The Queen, 2004 FCA 403, at paras. 11 to 13.
+[19] Vincent v. The Queen, 2005 TCC 330, at para. 27.
+[20] 2015 SCC 41.
+[21] Gratl v. The Queen, 2012 FCA 88, at para. 8.
+[22] See paragraphs (d)(iv), (d)(v), (d)(vi) and (g)(ii).

@@ -1,0 +1,244 @@
+Title: Bouchard c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28850/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-462-28850-bouchard-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-08-27
+
+# Bouchard c. La Reine
+
+- Citation: 2008 CCI 462
+- Decision date: 2008-08-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1359, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-27
+Référence neutre
+2008 CCI 462
+Numéro de dossier
+2005-4115(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4115(IT)G
+ENTRE :
+JACINTHE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Danielle Bouchard (2005-4116(IT)G) et
+Jacques Bouchard (2006-638(IT)G)
+le 24 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Basile Angelopoulos
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L’appel des avis de nouvelle cotisation établis en vertu de la Loi de l’impôt sur le revenu en date du 26 février 2004 relativement à l’année d’imposition 2002 et en date du 6 janvier 2005 relativement à l’année d’imposition 2003 est rejeté, avec dépens, sur la base des motifs ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d’août 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2005-4116(IT)G
+ENTRE :
+DANIELLE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jacinthe Bouchard (2005-4115(IT)G) et
+Jacques Bouchard (2006-638(IT)G)
+le 24 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Basile Angelopoulos
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L’appel de l’avis de cotisation établi en vertu de la Loi de l’impôt sur le revenu daté du 29 mai 2003 relativement à l’année d’imposition 2002 est rejeté, avec dépens, sur la base des motifs ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d’août 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2006-638(IT)G
+ENTRE :
+JACQUES BOUCHARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Jacinthe Bouchard (2005-4115(IT)G) et
+Danielle Bouchard (2005-4116(IT)G)
+le 24 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelant :
+Me Basile Angelopoulos
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L’appel de l’avis de nouvelle cotisation établi en vertu de la Loi de l’impôt sur le revenu daté du 26 janvier 2004 relativement à l’année d’imposition 2002 est rejeté, avec dépens, sur la base des motifs ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d’août 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 462
+Date : 20080827
+Dossiers : 2005-4115(IT)G
+2005-4116(IT)G
+2006-638(IT)G
+ENTRE :
+JACINTHE BOUCHARD,
+DANIELLE BOUCHARD,
+JACQUES BOUCHARD,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit de trois appels interjetés par la famille Bouchard de Saint-Lambert. Les trois appels ont été entendus sur preuve commune. Madame Danielle Bouchard interjette appel de l’avis de cotisation établi en date du 29 mai 2003 relativement à l’année d’imposition 2002. Monsieur Jacques Bouchard interjette appel de l’avis de nouvelle cotisation établi en date du 26 janvier 2004 relativement à l’année d’imposition 2002 tandis que madame Jacinthe Bouchard, la fille de Danielle et Jacques Bouchard, interjette appel des avis de nouvelle cotisation établis en date du 26 février 2004 relativement à l’année d’imposition 2002 et en date du 6 janvier 2005 relativement à l’année d’imposition 2003.
+[2] Le litige porte sur le traitement fiscal à accorder à la somme d’un million de dollars que les appelants ont reçu de la Financière Banque Nationale (ci-après la « FBN » ) lorsque le couple Bouchard a pris sa retraite le 1er septembre 2002.
+[3] Le couple Bouchard a oeuvré dans le domaine du courtage de valeurs mobilières depuis 1969. De 1969 à 1973, ils ont œuvré en tant que conseillers en placement au sein de René T. Leclerc. De 1973 à 2002, ils ont œuvré en tant que conseillers en placement au sein de la Banque Nationale, la Banque Nationale du Canada et Lévesque Beaubien, devenus la FBN. Madame Jacinthe Bouchard a œuvré dans le domaine du courtage de valeurs mobilières pendant plus de huit ans avec ses parents et au mois de juillet 2002, elle occupait elle aussi un poste de conseiller en placement au sein de la FBN.
+[4] Le 2 juillet 2002, madame Danielle Bouchard et monsieur Jacques Bouchard ont chacun signé une entente de service dans le cadre du programme relais/retraite de la FBN en vertu desquelles ils ont accepté de prendre leur retraite le 1er septembre 2002 et de recevoir une allocation de retraite payable le 1er septembre 2002, au montant de 450 000 $ dans le cas de madame Danielle Bouchard, et au montant de 100 000 $ dans le cas de monsieur Jacques Bouchard. Du 1er juillet 2002 au 1er septembre 2002, la FBN a de plus convenu de réajuster le taux de commissions nettes au niveau de 55% de la quote-part des commissions brutes de ces deux appelants. En contrepartie de ces considérations monétaires, ces deux appelants ont convenu de prendre toutes les mesures nécessaires pour assurer une transition harmonieuse de leur clientèle respective envers messieurs Jacques Angers et Glen Cooper, conseillers en placement à l’emploi de la FBN et se sont engagés, pour une période de 5 ans, à ne plus oeuvrer dans le domaine des valeurs mobilières dans un rayon de 200 kilomètres des limites de la ville où était située la succursale où ils travaillaient et à ne pas solliciter leurs anciens clients et à ne pas faire autrement concurrence à la FBN.
+[5] L’allocation de retraite de 450 000 $ payable à madame Danielle Bouchard a été payée par la FBN au moyen d’un chèque daté du 30 août 2002 au montant net de 249 501 $, déduction faite d’un montant de 44 799 $ admissible à un transfert dans un régime enregistré d’épargne-retraite et des impôts fédéraux et provinciaux.
+[6] Madame Danielle Bouchard a produit sa déclaration de revenu pour l’année d’imposition 2002 en déclarant la somme de 450 000 $ à titre de produit de disposition d’un achalandage. En tenant compte d’un prix de base rajusté de 1 $, la somme de 224 999,50 $ a été incluse à titre de gain en capital imposable. Le 29 mai 2003, le ministre du Revenu national (le « ministre ») a établi un avis de cotisation en vertu duquel la somme de 450 000 $ a été incluse dans le calcul du revenu de madame Danielle Bouchard pour l’année d’imposition 2002 à titre d’allocation de retraite. Le gain en capital imposable de 224 999,50 $ déclaré, a été annulé et la déduction des contributions à un régime enregistré d’épargne-retraite a été octroyée en tenant compte du montant de 34 000 $ reçu à titre d’allocation de retraite admissible. En établissant cet avis de cotisation, le ministre s’est, notamment, fondé sur le formulaire T4A émis par la FBN indiquant un montant de 34 000 $ reçu à titre d’allocation de retraite admissible et un montant de 416 000 $ à titre d’allocation de retraite non admissible.
+[7] L’allocation de retraite de 100 000 $ payable à monsieur Jacques Bouchard a été payée par la FBN au moyen d’un chèque daté du 30 août 2002 au montant net de 77 000 $, déduction faite des impôts fédéraux et provinciaux.
+[8] Monsieur Jacques Bouchard a produit sa déclaration de revenu pour l’année d’imposition 2002 en déclarant la somme de 100 000 $ à titre de produit de disposition d’un achalandage. En tenant compte d’un prix de base rajusté de 1 $, la somme de 49 999 $ a été incluse à titre de gain en capital imposable. Le 26 janvier 2004, le ministre a établi un avis de nouvelle cotisation en vertu duquel la somme de 100 000 $ a été incluse dans le calcul du revenu de monsieur Jacques Bouchard pour l’année d’imposition 2002 à tire d’allocation de retraite. Le gain en capital imposable de 49 999 $ déclaré, a été annulé. En établissant cet avis de nouvelle cotisation, le ministre s’est, notamment, fondé sur le feuillet T4A émis par la FBN indiquant un montant de 100 000 $ reçu à titre d’allocation de retraite non admissible. L’année d’imposition 2002 de monsieur Jacques Bouchard a également fait l’objet d’avis de nouvelle cotisation établis le 9 août 2004 et le 28 novembre 2005.
+[9] Le 2 juillet 2002, madame Jacinthe Bouchard a signé une entente de service dans le cadre du programme relais/réorientation de carrière de la FBN en vertu de laquelle elle a convenu de prendre toutes les mesures nécessaires pour assurer une transition harmonieuse de sa clientèle envers messieurs Jacques Angers et Glen Cooper, conseillers en placement à l’emploi de la FBN. Madame Jacinthe Bouchard s’est de plus engagée, pour une période de 5 ans, à ne pas prêter son concours à une autre entreprise oeuvrant dans le domaine des valeurs mobilières, ainsi que celui de l’assurance-vie, de la planification financière, des abris fiscaux et des paradis fiscaux, et ce, dans un rayon de 200 kilomètres des limites de la ville ou municipalité dans laquelle est située la succursale où elle travaillait et, en général, à ne pas solliciter ses anciens clients pour le compte d’une telle entreprise ou amener ceux-ci à mettre fin à leurs relations d’affaires avec la FBN, ou poser toute autre acte qui soit de nature à faire concurrence à la FBN. En contrepartie de ces engagement, la FBN a accepté de réajuster le taux des commissions nettes au niveau de 55% de la quote-part des commissions brutes de madame Jacinthe Bouchard et de lui attribuer un boni de 450 000 $ payable comme suit :
+- 225 000 $ le 1er septembre 2002;
+- 225 000 $ le 1er septembre 2003.
+[10] Madame Jacinthe Bouchard a effectivement reçu de la FBN les deux versements de 225 000 $ les 1er septembre 2002 et 1er septembre 2003. Madame Jacinthe Bouchard a produit ses déclarations de revenu pour les années d’imposition 2002 et 2003 en déclarant la somme de 225 000 $ de la FBN à titre de produit de disposition d’un achalandage. En tenant compte d’un prix de base rajusté de 1 $, la somme de 112 499,50 $ a été incluse à titre de gain en capital imposable pour chacune des années 2002 et 2003.
+[11] Le 26 février 2004, le ministre a établi un avis de nouvelle cotisation afin d’inclure la somme de 225 000 $ dans le calcul du revenu de madame Jacinthe Bouchard pour l’année d’imposition 2002 à titre d’allocation de retraite. Le gain en capital de 224 999,50 $ et le report de la perte en capital de 4 196 $ réclamée par madame Jacinthe Bouchard ont été annulés. En établissant cet avis de nouvelle cotisation, le ministre s’est notamment fondé sur le feuillet T4A émis par la FBN indiquant un montant de 4 000 $ à titre d’allocation de retraite admissible et un montant de 221 000 $ à titre d’allocation de retraite non admissible.
+[12] Le 6 janvier 2005, le ministre a établi un avis de nouvelle cotisation afin d’inclure la somme de 225 000 $ dans le calcul du revenu de madame Jacinthe Bouchard pour l’année d’imposition 2003 à titre d’allocation de retraite. Le gain capital de 224 999,50 $ a été annulé. En établissant cet avis de nouvelle cotisation, le ministre s’est notamment basé sur le feuillet T4A émis par la FBN indiquant un montant de 225 000 $ à titre d’allocation de retraite non admissible.
+[13] Le 18 février 2004, la FBN a confirmé par lettre que madame Jacinthe Bouchard était toujours à l’emploi de la FBN et que les montants de 225 000 $ qui lui ont été payés en 2002 et en 2003 étaient du revenu d’emploi qui avait été déclaré par erreur à titre d’allocation de retraite. Suite à cette lettre, la FBN a annulé les feuillets T4 et T4A qui avaient été initialement émis pour les années 2002 et 2003 pour les remplacer par de nouveaux feuillets T4 en incluant les montants de 225 000 $ par année à titre de revenu d’emploi.
+[14] Même si les ententes du 2 juillet 2002 conclues par les appelants prévoyaient une transition harmonieuse de leur clientèle respective envers messieurs Jacques Angers et Glen Cooper, ces derniers n’étaient pas partie à ces ententes. Par contre, en tant que conseillers en placement de relève, messieurs Angers et Cooper ont conclu une entente avec la FBN également daté du 2 juillet 2002 en vertu de laquelle ils ont convenu de soumettre un plan d’affaires à l’égard de la gestion des actifs qui leur seront transférés par les appelants et ils ont accepté que leurs commissions nettes totales soient réduites d’un montant de 1 000 000 $ à raison de 60 versements mensuels, égaux et consécutifs de 16 666,67 $ plus intérêts au taux préférentiel de la FBN moins un demi d’un pour cent, applicable sur le solde de l’avance et ce, à compter du 1er septembre 2002. En cas de cessation d’emploi, le solde de l’avance consenti par la FBN sera remboursable dans les 20 jours de la cessation de leur emploi.
+[15] À compter du 1er septembre 2002, madame Jacinthe Bouchard a continué d’agir en tant que conseillère en placement pour le compte de la FBN au sein de l’équipe Angers/Cooper et de desservir sa clientèle et celle de ses parents. Selon madame Danielle Bouchard, il était très important que Jacinthe puisse poursuivre ses activités de conseillère en placement au sein de l’équipe des conseillers en placement de relève pour une période minimale de deux ans pour assurer son avenir et ainsi faciliter la transition avec la clientèle. Toujours selon madame Danielle Bouchard, l’équipe Bouchard comptait, en 2002, une clientèle composée de 400 à 500 clients et la valeur de l’actif sous gestion était de l’ordre de 150 millions de dollars. La transition avec la clientèle de l’équipe Bouchard vers l’équipe Angers/Cooper a été plus difficile que prévue de sorte que madame Jacinthe Bouchard a dû prolonger son emploi au sein de l’équipe Angers/Cooper jusqu’au 1er avril 2005, date à laquelle, elle a remplacé monsieur Jacques Angers au sein de l’équipe. Pour ce faire, elle a conclu de nouvelles ententes avec la FBN et elle a assumé la dette de monsieur Jacques Angers auprès de la FBN et la moitié du paiement forfaitaire qui lui a été consenti par la FBN, soit la somme de 408 059,40 $ remboursable en 60 réductions de commission égales, mensuelles et consécutives de 6 800,99 $.
+Position des appelants
+[16] Les appelants invoquent les arguments suivants pour justifier l’imposition des sommes reçues de la FBN comme gain en capital tiré de la disposition d’un bien en immobilisation :
+a) l’expression « allocation de retraite » utilisée dans l’entente de service conclue dans le cadre du programme relais/retraite de la FBN n’est pas conforme à la définition de cette expression que l’on trouve à l’article 248 de la Loi;
+b) le droit de desservir la clientèle et de gérer l’actif des clients constitue une « immobilisation » au sens de l’article 54 de la Loi et un « bien » au sens du paragraphe 248(1) de la Loi dont la disposition s’est traduite par un gain en capital;
+c) selon l’arrêt Gifford c. Canada, [2004] 1 R.C.S. 411, les montants versés aux appelants sont de nature capitale;
+d) les sommes reçues par les appelants proviennent en fait de messieurs Angers et Cooper et non de la FBN puisque le rôle de la FBN n’a été que d’agir en tant qu’intermédiaire financier (i.e. prêteur ne prenant aucun risque);
+e) la FBN a structuré l’acquisition d’un bien en immobilisation de façon à pouvoir déduire les sommes payées aux appelants et de les récupérer à même une déduction des commissions gagnées par les conseillers en placement de relève.
+f) selon l’arrêt Manrell c. Canada, 2003 FCA 128, les paiements pour des clauses de non-concurrence ne constituent pas un revenu.
+Position de l’intimée
+[17] L’intimée invoque les arguments suivants pour justifier l’imposition des sommes reçues par les appelants de la FBN comme allocation de retraite, dans le cas du couple Bouchard, et comme revenu d’emploi, dans le cas de madame Jacinthe Bouchard;
+a) les sommes reçues constituent une « allocation de retraite » au sens du paragraphe 248(1) et du sous-alinéa 56(1)a)ii) de la Loi parce que :
+i) les montants de 450 000 $ et de 100 000 $ ont été reçus en reconnaissance des longs états de service du couple Bouchard au moment où ils ont pris leur retraite en tant qu’employés de la FBN;
+ii) madame Danielle Bouchard et monsieur Jacques Bouchard ont chacun signé une entente avec la FBN à l’effet qu’ils recevraient une allocation de retraite le jour de leur départ à la retraite;
+iii) si le couple Bouchard et la FBN avaient voulu que les sommes versées par la FBN soient en contrepartie de leur clientèle, une disposition claire à cet effet aurait été incluse dans l’entente;
+iv) les sommes ont été versées par la FBN en tant qu’employeur de madame Danielle Bouchard et de monsieur Jacques Bouchard;
+v) les sommes versées au couple Bouchard ont été déclarées par la FBN sur des feuillets T4A à tire d’allocation de retraite;
+b) les sommes versées aux appelants ne constituent pas une contrepartie pour la disposition d’un bien en immobilisation admissible au sens de l’article 54 de la Loi parce que les appelants n’ont pas déclaré dans leur déclaration de revenu respective pour l’année 2002 du revenu d’entreprise — leurs revenus étant presqu’exclusivement constitués de commissions payées par la FBN en tant qu’employeur;
+c) aux termes des ententes conclues par les appelants, ils n’ont pas disposé d’une immobilisation, telle que définie à l’article 54 de la Loi, parce que :
+i) il n’y a aucune entente relativement à la disposition d’un bien quelconque par les appelants en faveur de messieurs Angers et Cooper;
+ii) aucun montant n’a été versé par messieurs Angers et Cooper aux appelants pour l’acquisition d’une clientèle ou d’une liste de clients;
+d) les sommes reçues par les appelants de la FBN ne sont pas principalement attribuables au règlement d’une clause de non-concurrence comme dans l’arrêt Manrell, précité, parce qu’il n’y a pas de relations contractuelles entre les appelants et les conseillers en placement de relève.
+[18] L’intimée prétend également que si les sommes reçues par le couple Bouchard ne se qualifient pas à titre d’allocation de retraite, ces sommes sont tout de même imposables à titre de revenu d’emploi en vertu des articles 5 et 6 de la Loi.
+[19] Dans le cas de madame Jacinthe Bouchard, l’intimée soumet que les paiements de 225 000 $ qu’elle a reçus constituent du revenu d’emploi au sens du paragraphe 5(1) de la Loi parce que :
+a) l’entente conclue avec la FBN réfère spécifiquement à un boni payable dans le cadre d’une réorientation de carrière au sein même de la FBN;
+b) un boni est normalement considéré comme une rémunération tirée d’un emploi ou comme un avantage reçu dans l’occupation ou en vertu d’une charge ou d’un emploi;
+c) l’employeur a émis des feuillets T-4 déclarant les paiements de 225 000 $ comme du revenu d’emploi;
+d) les sommes concernées étaient pour l’aide au transfert du droit de gestion de la clientèle qu’elle partageait avec ses parents et ont donc été reçues au titre, dans le cadre ou en vertu de sa charge ou de son emploi.
+Analyse
+[20] L’expression « allocation de retraite » est définie au paragraphe 248(1) de la Loi de la façon suivante :
+« allocation de retraite » somme, sauf une prestation de retraite ou de pension, une somme reçue en raison du décès d’un employé ou un avantage visé au sous-alinéa 6(1)a)(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d’une charge ou d’un emploi ou par la suite;
+b) soit à l’égard de la perte par le contribuable d’une charge ou d’un emploi, qu’elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d’un tribunal compétent.
+[21] Une somme qui se qualifie à titre d’allocation de retraite doit être incluse dans le revenu du bénéficiaire en vertu de l’alinéa 56(1)a)ii) de la Loi qui se lit comme suit :
+56. Sommes à inclure dans le revenu de l’année.
+(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+a) Pensions, prestations d’assurance-chômage, etc. — toute somme reçue par le contribuable au cours de l’année au titre, ou en paiement intégral ou partiel :
+[. . . ]
+(ii) d’une allocation de retraite, sauf s’il s’agit d’un montant versé dans le cadre d’un régime de prestations aux employés, d’une convention de retraite ou d’une entente d’échelonnement du traitement,
+[22] À ce stade-ci, il importe de déterminer la nature juridique exacte des paiements effectués par la FBN en faveur des appelants. Le programme relais/retraite de la FBN vise à faciliter la transition de la clientèle desservie par les conseillers désirant prendre leur retraite à des conseillers en placement de relève. La rétention des clients est l’objectif principal recherché par la FBN. D’ailleurs, l’ajout de la clause de non-­sollicitation et de non-concurrence aux ententes de services conclues dans le cadre du programme relais/retraite confirme explicitement que la rétention de la clientèle est la priorité de la FBN. Aux termes des ententes de service conclues par le couple Bouchard, chacun d’eux s’est engagé à prendre toutes les mesures nécessaires pour assurer une transition harmonieuse de leur clientèle respective à l’équipe Angers/Cooper.
+[23] Dans les faits, l’engagement pris par le couple Bouchard s’est traduit par l’envoi d’une lettre datée du 24 juillet 2002 par laquelle le couple Bouchard a informé leurs clients et amis qu’ils prendraient leur retraite à compter du 31 août 2002 et que leur fille Jacinthe Bouchard ainsi que messieurs Jacques Angers et Glen Cooper assureront la relève en respectant une continuité d’approche et de philosophie. Ladite lettre faisait également référence à une communication prochaine avec les destinataires pour assurer une transition harmonieuse et efficace.
+[24] L’annonce d’une communication prochaine avec les clients s’est effectivement traduite par une rencontre des clients importants par le couple Bouchard en compagnie de messieurs Angers et Cooper.
+[25] Même si les ententes de service conclues par le couple Bouchard décrivent les montants payables à chacun d’eux comme une allocation de retraite, aucune référence n’y est faite à l’effet que les paiements étaient effectués en contrepartie des longs états de service du couple Bouchard ou de la perte de leur emploi respectif auprès de la FBN.
+[26] Les sommes payables en vertu des ententes de service ne sont pas fonction du nombre d’années de service à l’emploi de la FBN mais sont plutôt calculées par rapport aux efforts requis pour assurer une transition harmonieuse de la clientèle en considérant notamment le temps de transition, le montant de l’actif sous gestion, le potentiel de revenus et le degré de rétention anticipée des clients (basé sur le témoignage de monsieur Louis Bérard, administrateur des programmes relais de la FBN depuis 2003).
+[27] Le fait que la fille du couple Bouchard ait obtenu 450 000 $ après seulement 8 ans de service, alors que madame Danielle Bouchard a obtenu le même montant après presque 33 ans de service démontre très bien que les sommes payables en vertu des ententes de service n’étaient pas fonction des états de services des bénéficiaires.
+[28] Dans le cas de madame Jacinthe Bouchard, la notion d’allocation de retraite n’est évidemment pas applicable puisqu’elle a continué d’être à l’emploi de la FBN après le 1er septembre 2002. Les paiements qu’elle a reçus ont été qualifiés de « boni ».
+[29] L’avocat des appelants a allégué que ces derniers ont disposé de leur clientèle ou d’un droit de desservir leurs clients et de gérer leurs actifs dans le cadre d’une transaction de nature capitale. Il a de plus soutenu que les sommes reçues par les appelants proviennent des courtiers en placement de relève et non de la FBN; ces derniers étant inconditionnellement responsables du remboursement de ces sommes à la FBN. Selon lui, la FBN n’a rien acquis en vertu des ententes conclues par les appelants et n’a rien payé non plus; la banque n’a servi que d’intermédiaire financier, qui n’a pris aucun risque dans le cadre de la transaction. Par conséquent, les sommes versées aux appelants ne proviennent pas de leur employeur et ne peuvent être imposées comme du revenu d’emploi. À l’appui de ses prétentions, il a référé aux décisions suivantes :
+· Financière Banque Nationale Inc. c. Carol Jean et al., EYB 2004‑80404 (C.S.);
+· Valeurs Mobilières Banque Laurentienne Inc. c. Lefrançois, 2004 IIJCan 10447 (Qc C.Q.);
+· Cumberland Investments Ltd. c. La Reine, 75 D.T.C. 5309 (CAF) ;
+· La Reine c. Farquhar Bethune Insurance Limited, 82 D.T.C. 6239 (C.F.);
+· La Reine c. Baine Johnstone & Company Limited, 77 D.T.C. 5394 (C.F.);
+· Tod T. Manrell c. La Reine, [2003] 3 C.F. 727 (C.A.F.);
+· Thomas Gifford c. La Reine, (2004) 1 R.C.S. 411;
+· La Reine c. Thomas Gifford; 2002 CAF 301;
+· Jean Desmarais c. La Reine, 2006 CCI 417;
+· Louis Morissette c. La Reine, 2007 CAF 16;
+· Linseman v. M.N.R., 2007 CCI 97; et
+· Schwartz c. Canada (1996), 1 S.C.R. 254.
+[30] Les ententes de service conclues par les appelants ne font pas référence à un quelconque transfert d’actifs, mais certains autres documents pertinents à la transaction y réfèrent spécifiquement. C’est notamment le cas d’une correspondance de monsieur Marc Lauzier en date du 19 juin 2002 adressée aux parties impliquées dans la transaction et dont l’objet est la vente de la clientèle des Bouchard. Monsieur Lauzier était alors directeur régional des services aux particuliers chez la FBN et était responsable de négocier le montant de l’entente avec les Bouchard. L’extrait suivant du document est également pertinent :
+« Ceci est pour vous informer que suite à mon hésitation face à l’ampleur du montant de l’entente intervenue avec la famille Bouchard pour le transfert de la clientèle, j’ai rencontré M. Carrière pour échanger sur la pertinence de cette opération, À la lumière d’expériences récentes en matière de prix de transfert de clientèle, il apparaît que le montant de 1,2 millions $ représentant 1.85 fois les revenus de la famille Bouchard estimés pour cette année est bien supérieur aux niveaux des ententes que nous finançons normalement. […] »
+[31] Un autre document pertinent est l’entente de service dans le cadre du programme relais/retraite conclue avec messieurs Angers et Cooper en date du 2 juillet 2002 dans laquelle ils s’engagent à soumettre « un plan d’affaires à l’égard de la gestion des actifs qui nous seront transférés par mesdames Danielle et Jacinthe Bouchard et monsieur Jacques Bouchard, conseillers en placement à l’emploi de la Financière Banque Nationale. »
+[32] J’ai beaucoup de difficultés à accepter que les paiements prévus aux ententes de service conclues par les membres de la famille Bouchard puissent être considérés comme ayant été reçus en contrepartie de la disposition de la clientèle qui était sous leur gestion dans le cadre de leur emploi auprès de la FBN ou d’un droit de gestion quelconque de cette clientèle.
+[33] Les ententes conclues par les membres de la famille Bouchard ne font aucune mention à une vente d’actifs et les ententes sont mêmes décrites comme étant des ententes de services, soit la prise de mesures nécessaires pour assurer une transition harmonieuse de leur clientèle envers les conseillers en placement de relève. Même si certains documents mentionnent la vente de clientèle ou de certains autres éléments d’actif, la preuve ne révèle pas une intention commune et manifeste des parties impliquées dans la transaction d’effectuer une vente d’actifs.
+[34] Comme les ententes concernées contiennent des engagements de non‑sollicitation de la clientèle qui était sous la gestion des appelants et des engagements de non‑concurrence avec la FBN, il y a lieu de considérer que les sommes versées aux appelants constituent la contrepartie totale ou partielle de ces engagements et non une contrepartie pour une vente d’actifs.
+[35] Un autre élément important est le fait que les soi-disant acquéreurs de la clientèle des appelants n’étaient pas partie aux ententes conclues avec les appelants contrairement à la situation qui a prévalu dans l’arrêt Gifford, précité, où les deux employés de la firme de courtage avaient conclu entre eux une « Convention d’achat de clientèle de conseiller financier ». En l’absence de convention claire et nette entre les conseillers en placement, les appelants ont le fardeau de démontrer que les acquéreurs véritables de la clientèle sont les conseillers en placement de relève et que la FBN agissait à titre de mandataire pour le compte et le bénéfice de ces derniers en finançant la transaction. Malheureusement pour les appelants, rien dans la preuve ne supporte cette conclusion et si, tel avait été le cas, la FBN n’aurait pas pu émettre les feuillets de renseignement T‑4 et/ou T‑4A. De plus, il y a lieu de souligner que la validité des ententes de services conclues par les appelants avec la FBN n’a pas été contestée par les appelants; ces derniers se contentant de dire qu’elles ne reflétaient pas la vraie nature de la transaction.
+[36] Contrairement aux prétentions de l’avocat des appelants, je ne crois pas que l’on puisse prétendre que les sommes versées par la FBN aux appelants proviennent des conseillers en placement de relève. Si je comprends bien la transaction, la FBN se rembourse à même une partie des commissions qui seraient autrement payables aux conseillers en placement de relève. Les conseillers en placement de relève n’ont pas de coût d’acquisition de la clientèle pour fins fiscales puisqu’en pratique, ils n’ont rien payé pour en faire l’acquisition, si acquisition il y a. Ma compréhension, de la façon dont la transaction est structurée, est à l’effet que, dans le cas d’une diminution du taux de commission, seule la partie des commissions qui est effectivement reçue par les courtiers en placement de relève est incluse dans leur revenu. La partie des commissions laissées à la FBN pour rembourser les sommes versées aux appelants constitue un manque à gagner non imposable et non déductible pour les conseillers en placement de relève.
+[37] En dernier lieu sur ce point, je me demande comment les appelants peuvent prétendre avoir disposé de leur clientèle alors qu’il est bien établi en jurisprudence que la clientèle de courtiers en placement ou de professionnels n’appartient à personne ou à tout le moins appartient aux courtiers et à la firme de courtage dont ils sont des employés (réf. Financière Banque Nationale Inc. c. Carol Jean et al., précité, La Reine c. Thomas Gifford, précité, et Jean Desmarais c. La Reine, précité). Il m’apparaît clair que la FBN n’avait pas à effectuer quelque paiement que ce soit aux appelants pour acquérir leur clientèle.
+[38] Mon analyse de la preuve m’amène à conclure que les paiements reçus par les appelants sont en contrepartie de services rendus dans le cadre de leur emploi auprès de la FBN et donc imposables comme revenu d’emploi en vertu des paragraphes 5(1) et 6(3) de la Loi qui se lisent comme suit :
+5. Revenu tiré d’une charge ou d’un emploi
+(1) Sous réserve des autres dispositions de la présente partie, le revenu d’un contribuable, pour une année d’imposition, tiré d’une charge ou d’un emploi est le traitement, le salaire et tout autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l’année.
+6(3) Paiements faits par l’employeur à l’employé
+La somme qu’une personne a reçue d’une autre personne :
+a) [. . . ]
+b) soit au titre ou en paiement intégral ou partiel d’une obligation découlant d’une convention intervenue entre le payeur et le bénéficiaire immédiatement avant, pendant ou immédiatement après une période où ce bénéficiaire était un cadre du payeur ou un employé de ce dernier,
+est réputée être, pour l’application de l’article 5, une rémunération des services que le bénéficiaire a rendus à titre de cadre ou pendant sa période d’emploi, sauf s’il est établi que, indépendamment de la date où a été conclue l’éventuelle convention en vertu de laquelle cette somme a été reçue ou de la forme ou des effets juridiques de cette convention, il n’est pas raisonnable de considérer cette somme comme ayant été reçue, selon le cas :
+c) [. . . ]
+d) [. . . ]
+e) à titre de contrepartie totale ou partielle d’un engagement prévoyant ce que le cadre ou l’employé doit faire, ou ne peut faire, avant ou après la cessation de l’emploi.
+[39] À mon avis, les ententes de service conclues avec les appelants prévoient justement ce que les appelants doivent faire, i.e. prendre les mesures nécessaires pour assurer une transition harmonieuse de leur clientèle envers les conseillers en placement de relève, et ne pas faire, i.e. solliciter leurs anciens clients ou autrement concurrencer la FBN et ce, avant ou après la cessation d’emploi.
+[40] La Cour fédérale d’appel a confirmé dans l’arrêt Morissette précité, qu’un engagement de non‑sollicitation monnayé dans le cadre d’une cessation d’emploi donnait lieu à un revenu d’emploi. Il m’apparaît évident que le même traitement doit être accordé à un engagement positif de prendre des mesures nécessaires pour assurer une transition harmonieuse de la clientèle des appelants.
+[41] Dans le cas de madame Jacinthe Bouchard, les sommes reçues de la FBN dans le cadre de l’entente de service qu’elle a conclue sont imposables comme revenu d’emploi en vertu du paragraphe 5(1) de la Loi compte tenu du fait qu’elles n’ont pas été obtenues à l’occasion de sa retraite.
+[42] Pour ces motifs, je rejette les appels avec dépens.
+Signé à Ottawa, Canada, ce 27e jour d’août 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 462
+Nº DES DOSSIERS DE LA COUR : 2005-4115(IT)G, 2005-4116(IT)G,
+2006-638(IT)G
+INTITULÉS DES CAUSES : Jacinthe Bouchard et Sa Majesté La Reine
+Danielle Bouchard et Sa Majesté La Reine
+Jacques Bouchard et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 24 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 27 août 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Basile Angelopoulos
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom : Me Basile Angelopoulos
+Cabinet : Angelopoulos Kiriazis
+Laval (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

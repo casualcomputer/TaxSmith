@@ -1,0 +1,199 @@
+---
+title: "Schroeder v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521262/index.do"
+last_modified: "2024-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 56"
+citation2: ""
+neutral_citation: "2024 TCC 56"
+decision_date: "2024-05-02"
+language: "en"
+item_id: "521262"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5757
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:35:46.916000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "18c764a303cd3d01b3bd4f537dc42e0df74768cd490481483ee55b62a4b68fff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schroeder v. The King
+
+- Citation: 2024 TCC 56
+- Decision date: 2024-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5757, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schroeder v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-02
+Neutral citation
+2024 TCC 56
+File numbers
+2023-1618(IT)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-1618(IT)I
+BETWEEN:
+PETER T SCHROEDER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 11, 2024 at Kelowna, British Columbia
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Crystal Choi
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal with respect to an assessment made under the Income Tax Act (the “Act”) for the Appellant’s 2021 taxation year is allowed on the following basis:
+The Appellant is entitled to the Clergy Residence Deduction in the amount of $22,000, pursuant to paragraph 8(1)(c) of the Act; and
+No costs shall be awarded.
+Signed at Ottawa, Canada, this 2nd day of May 2024.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2024 TCC 56
+Date: 20240502
+Docket: 2023-1618(IT)I
+BETWEEN:
+PETER T SCHROEDER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Lafleur J.
+I. CONTEXT
+[1] Mr. Peter T. Schroeder has appealed to this Court the assessment made by the Minister of National Revenue under the Income Tax Act (R.S.C., 1985, c. 1 (5th supp.), as amended (the “Act”)) in respect of his 2021 taxation year.
+[2] In filing his income tax return for that year, Mr. Schroeder claimed a deduction of $22,000 under paragraph 8(1)(c) of the Act, referred to as the “Clergy Residence Deduction,” which deduction was denied on the basis that Mr. Schroeder did not earn any income from an office or employment during the 2021 taxation year.
+[3] Furthermore, the Minister stated that Mr. Schroeder did not provide to the Canada Revenue Agency the prescribed Clergy Residence Deduction Form T1223 (the “Form T1223”) as required by subsection 8(10) of the Act, which is a prerequisite for the deduction.
+[4] At the hearing, Mr. Schroeder represented himself. His testimony was credible and reliable. The Respondent did not call any witnesses.
+[5] All statutory references that follow in these reasons are to the Act unless otherwise stated.
+II. LAW
+[6] The relevant part of paragraph 8(1)(c) reads as follows:
+8 (1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+[…]
+(c) where, in the year, the taxpayer
+(i) is a member of the clergy or of a religious order or a regular minister of a religious denomination, and
+(ii) is
+(A) in charge of a diocese, parish or congregation,
+(B) ministering to a diocese, parish or congregation, or
+(C) engaged exclusively in full-time administrative service by appointment of a religious order or religious denomination,
+the amount, not exceeding the taxpayer’s remuneration for the year from the office or employment, equal to
+[…]
+[Emphasis added.]
+III. FACTS
+[7] Mr. Schroeder is a certified and ordained clergyman. He obtained an undergraduate degree from the University of Alberta, a Master of Divinity from the North American Baptist Divinity School, and a Doctorate of Ministry from the North American Baptist Seminary (in 1992) and was ordained in the North American Baptist Denomination in 1983 (see Exhibits A-1, A-2 and A-3).
+[8] After serving his parish for more than 40 years, Mr. Schroeder resigned in April 2020 from his position as a clergyman and lead pastor at the Kelowna Trinity Baptist Church (the “Church”).
+[9] Following his resignation, Mr. Schroeder approached the Kelowna Trinity Baptist Church Legacy Foundation (the “Foundation”) to inquire as to whether the Foundation would be interested in funding him to provide chaplaincy services to Royal Canadian Mounted Police (the “RCMP”) members and personnel in the Kelowna area.
+[10] After an informal meeting with the directors of the Foundation, the Foundation agreed to pay him directly for his chaplaincy services to RCMP members and personnel. Mr. Schroeder, under the name “Tim Schroeder National Ministry TS67”, and the Foundation concluded an Agency Agreement formalizing the arrangement, commencing on April 15, 2020 and ending on December 31, 2021 (the “Agency Agreement”) (see Exhibit A-8).
+[11] As indicated in a letter dated November 7, 2023 from B.D. “Brad” Haugli, the Chief Superintendent, RCMP – District Commander – Southeast District, Mr. Schroeder, as Chaplain, “… provides both strategic preventative wellness engagement with our members and responsive assistance during those times our members experience traumatic incidents” (see Exhibit A-4). According to that same letter, and as Mr. Schroeder testified at the hearing, Mr. Schroeder provides these services throughout a large region of Southeastern British Columbia for some 110 hours per month, through the sponsorship of the Foundation. This large region includes four RCMP districts.
+[12] Mr. Schroeder testified that, in Kelowna, he was the sole paid Chaplain for over 300 RCMP members and personnel. Seven volunteer Chaplains also provided chaplaincy services to RCMP members and personnel.
+[13] During a typical week, Mr. Schroeder testified that he would attend a briefing in Kelowna, followed by a meeting with the Chief Superintendent of the Southeast district. When distressing and disastrous events occurred, he would attend specific locations to offer support to RCMP members and personnel.
+[14] The RCMP would pay Mr. Schroeder’s “hard costs”, including his meals, travel arrangements and a per diem. The Foundation would pay for his cell phone. Furthermore, the Foundation would reimburse him when he incurred expenses, including when he bought some Chaplain’s jackets for the volunteer Chaplains and himself. Mr. Schroeder used his personal vehicle to travel between the various locations where he would provide chaplaincy services to RCMP members and personnel.
+[15] During the 2021 taxation year, the Foundation paid Mr. Schroeder twice monthly. Mr. Schroeder received a total amount of $66,000 (that is, $2,750 x 24) from the Foundation in the 2021 taxation year (see Exhibit A-9), which he reported as “self-employed professional income.” Mr. Schroeder claimed a deduction for the use of his personal vehicle as a business expense for income tax purposes. Mr. Schroeder also reported pension income totalling $21,949. However, during the 2021 taxation year, Mr. Schroeder did not report any income from an office or employment.
+[16] Mr. Schroeder testified that he would meet “at least quarterly” with members of the Foundation to apprise them of his activities.
+IV. ISSUE
+[17] The sole issue in this appeal is whether the income received by Mr. Schroeder from the Foundation during the 2021 taxation year is remuneration from an “office or employment,” such that Mr. Schroeder would be entitled to the Clergy Residence Deduction under paragraph 8(1)(c) totalling $22,000.
+[18] In the course of the hearing, the Respondent conceded that Mr. Schroeder duly submitted Form T1223 to the Canada Revenue Agency (see Exhibit A-7). Furthermore, the Respondent indicated to the Court that there was no issue as to the status and function of Mr. Schroeder as referred to in subparagraphs 8(1)(c)(i) and (ii), and that there was no issue as to the quantum of any amount received by Mr. Schroeder during the 2021 taxation year as income from the Foundation, or as to the amount of the claimed Clergy Residence Deduction.
+V. CONCLUSION
+[19] For the reasons below, I find that, on a balance of probabilities, Mr. Schroeder is an employee of the Foundation and has thus received remuneration from an employment from the Foundation during the 2021 taxation year. The appeal is therefore allowed, without costs, and Mr. Schroeder is entitled to the Clergy Residence Deduction totalling $22,000 under paragraph 8(1)(c).
+VI. POSITION OF THE PARTIES
+[20] Mr. Schroeder submits that he is entitled to the Clergy Residence Deduction, as the income he received from the Foundation is remuneration from “employment”. According to Mr. Schroeder, when the relevant factors are applied to the relationship between the Foundation and himself, they show that he is an employee of the Foundation and not an independent contractor. He performed the same or similar duties under the Agency Agreement that he performed as pastor at the Church and should therefore be considered an employee. In the alternative, Mr. Schroeder submits that the income he received from the Foundation is remuneration from an “office”, entitling him to the Clergy Residence Deduction.
+[21] The Respondent submits that Mr. Schroeder is not entitled to the Clergy Residence Deduction, as he did not earn any remuneration from an “office or employment” during the 2021 taxation year. The Respondent argues that the subjective intent and the objective reality of the relationship between the Foundation and Mr. Schroeder was that Mr. Schroeder was an independent contractor and not an employee of the Foundation.
+VII. ANALYSIS
+[22] As indicated above, in the present appeal, both the status test (subparagraph 8(1)(c)(i)) and the function test (subparagraph 8(1)(c)(ii)) are met. The sole issue in this appeal is to determine whether the income Mr. Schroeder received from the Foundation is remuneration from an office or employment, or whether he received that income in his capacity as an independent contractor (or as professional income).
+[23] In order to determine whether a person is an employee engaged in a contract of service or an independent contractor engaged in a contract for services, this Court has to ascertain the whole relationship between the parties (Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553 [Wiebe Door]).
+[24] The central question will be to determine “whether the person who has been engaged to perform the services is performing them as a person in business on his own account” (671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59 at para 47 [Sagaz]).
+[25] In Sagaz, above, the Supreme Court of Canada agreed with the approach taken by the Federal Court of Appeal in Wiebe Door, above, where Justice MacGuigan referred to the various factors, which have to be taken into account to make that determination, and summarized the relevant principles as follows:
+[47] . . . In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[Emphasis added.]
+[26] In addressing the central question, namely “whether the person who has been engaged to perform the services is performing them as a person in business on his own account”, the Federal Court of Appeal in 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue), 2013 FCA 85 [Connor Homes] (at para 39 and following) established a two-step approach to be followed.
+[27] The first step consists of ascertaining the subjective intent of the parties to the relationship. To determine the subjective intent of the parties, one should examine the written contract between the parties, as well as the actual behaviour of the parties, such as invoices for services rendered, registration for sales taxes purposes, and income tax returns filed as an independent contractor.
+[28] The second step consists of determining whether the objective reality of the situation sustains the subjective intent of the parties. The various factors outlined in Wiebe Door, above, then become relevant to ascertain whether the facts of the situation are consistent with the subjective intent of the parties. As indicated in Connor Homes, “[i]n other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they colors [sic] the relationship” (para 40).
+[29] Furthermore, in applying the test, the Federal Court of Appeal indicated that the first step should always be to determine the intent of the parties, and then, “… using the prism of that intent, determining in a second step whether the parties’ relationship, as reflected in objective reality, is one of employer-employee or of independent contractor” (see Connor Homes, at para 42).
+A. The first step: the subjective intent of the parties
+[30] For the following reasons, I find that, on a balance of probabilities, Mr. Schroeder and the Foundation’s subjective intention was for their relationship to be one of employee/employer.
+[31] Although the evidence showed that Mr. Schroeder reported his income from the Foundation as self-employment income, and deducted expenses for the use of his personal vehicle, I note that Form T1223 was signed by the executive director of the Foundation as “employer”. I also take into account the fact that Mr. Schroeder did not issue any invoices to the Foundation for services rendered to RCMP members and personnel.
+[32] During the hearing, the Respondent referred to various provisions of the Agency Agreement between the Foundation and Mr. Schroeder to support the view that Mr. Schroeder was an independent contractor and not an employee of the Foundation. For example, section 10 of the Agency Agreement, which provides that “Tim Schroeder National Ministry representative will be responsible for any reporting requirements of payroll, GST or any other statutory requirements for funds expended in this ministry”. The Agency Agreement also contains a disposition releasing the Foundation from any liability and expenses in connection with personal injury arising from his work.
+[33] However, the Agency Agreement also contains various provisions, which show that the Foundation controls various aspects of the activities undertaken by Mr. Schroeder. Pursuant to the Agency Agreement, Mr. Schroeder, acting as an agent, was to advance the charitable goals of the Foundation by providing ministry services to RCMP members and personnel. Section 3 of the Agency Agreement provides that written progress reports will be supplied to the Foundation every six months, and the Foundation reserves the right to inspect the project. Further, it is clear from the wording of the Agency Agreement that the Foundation was overseeing Mr. Schroeder’s work.
+[34] This type of agency agreement is usually entered into by charities to make sure they are complying with requirements of the Act to carry out their own charitable activities when agents are hired to carry on a project of the charity outside of Canada.
+[35] Although Mr. Schroeder, as Tim Schroeder National Minister TS67, and the Foundation entered into such an agreement, I give limited weight to the Agency Agreement in my analysis understanding the purpose of this kind of agreement.
+B. The second step: the objective reality of the relationship
+[36] Under the second step, I have to ascertain whether in reality, after taking into consideration all the relevant factors, the relationship of the parties was the one that they intended it to be.
+[37] For the following reasons, after weighing all the relevant factors, I find that, on a balance of probabilities, Mr. Schroeder was an employee of the Foundation and thus, he received remuneration from employment from the Foundation during the 2021 taxation year.
+[38] In the present appeal, I find that the relevant factors to consider are the level of control the Foundation had over Mr. Schroeder’s activities; whether Mr. Schroeder provided his own equipment; whether Mr. Schroeder had a chance of profit in the performance of his tasks while providing chaplaincy services to RCMP members and personnel; and whether Mr. Schroeder managed and assumed financial risks while providing services to RCMP members and personnel.
+(1) Level of control
+[39] The Foundation did not control Mr. Schroeder’s schedule or day-to-day work, and did not control his activities. Mr. Schroeder did not submit time logs detailing the specific activities that he undertook. Mr. Schroeder was also free to provide his services in the manner of his choosing.
+[40] The reporting requirements to the Foundation were minimal. The Respondent tendered into evidence a 6-month project review provided by Mr. Schroeder to the Foundation, which only provides a brief overview of Mr. Schroeder’s activities (see Exhibit R-1, “Respondent’s Book of Documents - Tab 2 - Six Month Project Review Report”).
+[41] However, Mr. Schroeder had to provide 110 hours per month of chaplaincy services to RCMP members and personnel, and was directed to specific locations to provide chaplaincy services by the RCMP. I assumed that after the meeting with the RCMP Chief Superintendent, Mr. Schroeder would go where his chaplaincy services were necessary and valued.
+[42] Although the above facts show limited control over Mr. Schroeder’s activities and day-to-day work by the Foundation, I find that this factor indicates an employee-employer relationship between Mr. Schroeder and the Foundation. As Mr. Schroeder was employed by the Foundation to provide professional and confidential chaplaincy services, it is understandable that the Foundation would exercise less control over his activities than those of a typical employee.
+[43] In assessing this factor, I took into account the fact that Mr. Schroeder had to provide chaplaincy services to RCMP members and personnel for 110 hours per month, and that he would have to offer his services wherever the RCMP sent him. I also considered the fact that he had to report to the Foundation and had to conduct himself in such a way that fulfilled the Foundation’s purpose. These reporting and conduct requirements show that the Foundation had control or the ability to exercise control over Mr. Schroeder’s activities.
+(2) Equipment
+[44] Mr. Schroeder testified that he used his personal vehicle to travel between various RCMP locations. He also used his personal email address and cellphone for communications in the course of his activities. Mr. Schroeder testified that the Foundation reimbursed him for other tools that he required in the course of his duties, and gave as an example the Chaplain jackets he bought for all Chaplains providing chaplaincy services to the RCMP.
+[45] The use of one’s own tools to provide services is an indicator that that person is providing services as an independent contractor (Sagaz, at para 47). More specifically, the use of a personal vehicle for work-related activities is also an indication that the individual is an independent contractor (Connor Homes, at para 50).
+[46] Considering the limited number of tools required to provide chaplaincy services, but considering the fact that Mr. Schroeder used his personal vehicle to provide chaplaincy services to RCMP members and personnel, I find that this factor supports the conclusion that Mr. Schroeder was an independent contractor.
+(3) Chance of profit and risk of loss
+[47] If a worker can increase the amount of money that they make by working efficiently to complete more projects, they have a chance of profit. The more a worker has a chance of profit, the more this indicates that the worker is an independent contractor (see AE Hospitality Ltd. v. M.N.R., 2019 TCC 116 at para 150, aff’d 2020 FCA 207). The risk factor pertains to the financial risk assumed by the individual in providing their services. These factors are to be understood in an entrepreneurial sense (see 627148 Ontario Limited (Daily Care Health Services) v. M.N.R., 2013 TCC 169, at para 27).
+[48] Mr. Schroeder testified that he approached the Foundation following his resignation from the Church to set up the arrangement, which eventually led to the Agency Agreement. The Respondent argued that this indicates that he took a risk in establishing the arrangement. I do not agree.
+[49] Mr. Schroeder is paid by the Foundation twice monthly. The evidence did not show that he had to submit time logs or past-schedules in order to be paid. Mr. Schroeder testified that he was supposed to work 110 hours per month, but often worked additional hours. Also, there was no indication that Mr. Schroeder could complete the project provided in the Agency Agreement faster and subsequently profit from that rapid completion.
+[50] My review of the evidence brings me to conclude that Mr. Schroeder had no chance of profit when he was providing his services as a chaplain to RCMP members and personnel. Further, the evidence showed that while providing his services, Mr. Schroeder did not assume any financial risk. I therefore find that the profit and risk factors support the conclusion that Mr. Schroeder was an employee of the Foundation.
+Signed at Ottawa, Canada, this 2nd day of May 2024.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2024 TCC 56
+COURT FILE NO.:
+2023-1618(IT)I
+STYLE OF CAUSE:
+PETER T SCHROEDER v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+March 11, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+May 2, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Crystal Choi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

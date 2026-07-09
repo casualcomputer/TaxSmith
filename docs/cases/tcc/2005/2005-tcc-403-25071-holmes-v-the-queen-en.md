@@ -1,0 +1,202 @@
+---
+title: "Holmes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25071/index.do"
+last_modified: "2005-06-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 403"
+citation2: ""
+neutral_citation: "2005 TCC 403"
+decision_date: "2005-06-21"
+language: "en"
+item_id: "25071"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2481
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:37:02.830000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb20c50b2c402436fa26f64f9e67493a3ebf19f100b03417241907416bf8ccdc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Holmes v. The Queen
+
+- Citation: 2005 TCC 403
+- Decision date: 2005-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2481, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Holmes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-21
+Neutral citation
+2005 TCC 403
+File numbers
+2001-1819(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1819(IT)G
+BETWEEN:
+ANNE HOLMES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Ross Holmes (2001-1820(IT)G)
+on April 14 and 15, 2005
+at London, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Richard Lockwood
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1993 taxation year is allowed with costs and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. the matter specified in the waiver filed with the Minister by Anne Holmes for the 1993 taxation year cannot be reasonably regarded under subparagraph 152(4.01)(a)(ii) as relating to restricted farm losses,
+in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of June, 2005.
+"G. Sheridan"
+Sheridan, J.
+Docket: 2001-1820(IT)G
+BETWEEN:
+ROSS HOLMES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of Anne Holmes (2001-1819(IT)G)
+on April 14 and 15, 2005
+at London, Ontario
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Richard Lockwood
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1993 taxation year is allowed with costs and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+1. no waiver was filed with the Minister for Ross Holmes in respect of the 1993 taxation year so as to permit the Minister to make a reassessment beyond the normal reassessment period under subparagraph 152(4)(a)(ii); and
+2. even if I am in error under point (1), the matter specified in the waiver filed with the Minister by Ross Holmes for the 1993 taxation year cannot be reasonably regarded under subparagraph 152(4.01)(a)(ii) as relating to restricted farm losses,
+in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of June, 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2005TCC403
+Date:20050621
+Docket: 2001-1819(IT)G
+BETWEEN:
+ANNE HOLMES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2001-1820(IT)G
+AND BETWEEN:
+ROSS HOLMES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellants, Ross Holmes and Anne Holmes, are appealing reassessments made by the Minister of National Revenue of their 1993 taxation years. The appeals of their 1994 and 1995 taxation years were abandoned at the hearing. Their 1993 appeals were heard together. The issue common to both appeals is whether the description of the matter specified in the waivers can reasonably be regarded as relating to restricted farm losses as required by subparagraph 152(4.01)(a)(ii) of the Income Tax Act. In respect of Ross Holmes only, even if the above question is answered in the affirmative, there is the additional issue of whether the waiver signed by Mr. Holmes was "filed" with the Minister within the meaning of subparagraph 152(4)(a)(ii) of the Income Tax Act.
+[2] In 1993, Mr. and Mrs. Holmes were the sole shareholders in R.B. Holmes Marketing Services Inc. and both earned income from the company. In addition, they were partners in a horse breeding and racing business known as Brookfield Farms. Prior to 1989, the company had operated Brookfield Farms but the business was subsequently transferred to the Holmes partnership. In their 1990 and 1991 returns, Mr. and Mrs. Holmes restricted their farm losses. In 1993, they claimed full farm losses; the Minister reassessed allowing only restricted farm losses, the reassessments from which Mr. and Mrs. Holmes are appealing.
+[3] The Holmes' files were assigned to Canada Customs and Revenue Agency auditor Richard LeDuc in January 1997. Realizing that the normal reassessment period for their 1993 taxation years would expire on June 6, 1997 (Mr. Holmes) and June 13, 1997 (Mrs. Holmes), Mr. LeDuc sent a letter dated April 24, 1997 to Mr. and Mrs. Holmes enclosing waivers for their signature. He asked to be advised "immediately" whether these waivers would be "provided" given that the 1993 returns were approaching the statute-barred period. Mr. and Mrs. Holmes passed the waivers on to their accountants for their review. There is no dispute that the original of the Anne Holmes waiver made its way to the London Taxation Office where it was stamped received June 4, 1997[1]. The whereabouts of the original Ross Holmes waiver, however, is unknown; a copy bearing Mr. Holmes' signature dated May 16, 1997, but with no CCRA date stamp, was entered as Exhibit R-1, Tab 2. Mr. Holmes has no personal knowledge of what became of the waiver after it left his possession and put the Minister to the proof of its having been filed under the Act so as to permit the opening up of his otherwise statute-barred 1993 taxation year.
+Whether a waiver signed by Mr. Holmes was filed with the Minister within the meaning of subsection 152(4) of the Income Tax Act
+[4] The Minister may make a reassessment of a taxation year after the normal reassessment period only if the taxpayer has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of that taxation year[2]. The onus of proving its filing rests with the Minister. Although the Act prescribes the form of the waiver, it does not prescribe the manner in which, or otherwise define how filing is to be achieved; accordingly, whether a waiver has been "filed" will depend on the evidence presented.
+[5] The normal reassessment period for Mr. Holmes' 1993 taxation year expired on June 6, 1997. In support of its position that Mr. Holmes' waiver was duly filed before that time, the Crown called Mr. LeDuc, the auditor. He believed that on June 4, 1997, he went to the offices of Ernst & Young, Mr. Holmes' accountants, and picked up signed waivers for each of Mr. and Mrs. Holmes from a Ms. Lecomte. Although her evidence might have been helpful, she was not called by either party. Mr. LeDuc testified that he recalled going back to his office, waivers in hand, and photocopying the originals. He then handed them to a clerk to date stamp; she handed them back. Then he likely put them on their respective "working" files, or possibly in the "Permanent Documents File". His final step was to go to the cubicle of his supervisor, Jim Taylor, to tell him that he had got the waivers.
+[6] This detailed testimony, however, is inconsistent with the previous account given by Mr. LeDuc to Christine Spettigue, the CCRA appeals officer examined on discovery in July 2002. As Mr. LeDuc had left the department in 2001 and Ms. Spettigue had not been involved at the audit stage, she consulted Mr. LeDuc in order to complete certain undertakings given on discovery. Following her consultations with Mr. LeDuc, Ms. Spettigue typed her answers to undertakings (confirmed at the hearing) from her notes of their conversation:
+Mr. LeDuc had no specific recollection of the time he received the waivers. He says that he would have filed them with the other documents he was keeping for the file.[3]
+Mr. LeDuc states that he would normally have informed his team leader about them but he does not recall anything specific or if Mr. Taylor saw them. Jim Taylor did not recall anything specific about his discussions with Rick LeDuc[4].
+[7] In an effort to explain the discrepancies between these answers and his testimony at the hearing, Mr. LeDuc stated that he was "better prepared" for these appeals than he had been for the questions put to him by Ms. Spettigue. He admitted that his T2020's, his contemporaneous notes of such things as phone calls, meetings, assignment of files, audit preparations, approval of waivers and obtaining waivers, were unavailable to him in both instances because they had "gone missing" along with other parts of the Holmes' file. Thus, in providing information for the Crown's response to the undertakings in 2002, Mr. LeDuc worked exclusively from his best recollection of events. To become "better prepared" for these appeals, however, Mr. LeDuc had access to various documents associated with the litigation.
+[8] His insistence on cross-examination that his memory of events that had occurred in 1997 was better in 2005 than it had been in 2002 is not only contrary to general human experience, it is at odds with other memory lapses in his testimony. Mr. LeDuc had difficulty recalling other dates which ought to have been of equal, if not greater, significance in his life than the receipt of a waiver in 1997 about which - according to his version of events - at the time, he had no reason to be especially concerned. For example, he was not exactly sure when he had left the CCRA. Further, Mr. LeDuc thought he had handed over the Holmes file to his colleague Joe Sadlowski in July 1997; in fact, it was December 1997. Nor could he recall when he met with Ms. Spettigue to prepare for Examination for Discoveries; he thought it was likely in September 2002 but it was really July 2002. He blamed his confusion on the fact that he had not recorded the date, a perfectly reasonable explanation - but one which diminishes the likelihood of Mr. LeDuc's having a clearer memory in 2005, than he would have had in 2002, of the 1997 events surrounding the filing of the waiver. His explanation also illustrates the necessity of establishing and complying with procedures for records keeping where rights and obligations depend on the proper management of high volumes of paper in a timely way.
+[9] The testimony of the CCRA officials revealed a general lack of standard practices. Mr. LeDuc stated that his procedure was to date stamp all waivers. Ms. Spettigue said it would never have been her practice to date stamp a waiver that she had personally received; on the other hand, she knew waivers received in the mailroom at her office would always be date stamped. No explanation was given for the difference in treatment of the same document received at the same office. Mr. Sadlowski, who like Mr. LeDuc is no longer an employee of the Agency, described his recollection of the Holmes file as "not all that clear". He was equally vague about such procedures, saying that if he ever did know them, he did not know them now. Contrary to what Ms. Spettigue and Mr. Leduc considered standard practice, Mr. Sadlowski did not keep T2020's, preferring to maintain an electronic "log" of whatever he felt was noteworthy. Although he testified that Mr. Holmes' waiver must have been lost on his watch, an event he described as "embarrassing", it was not recorded in his log. In any event, he could not recall if he had actually seen the original Ross Holmes waiver or if he had, whether it was date stamped.
+[10] It would be unreasonable to expect officials to work from memory alone. In Mr. LeDuc's case, since starting with CCRA in 1989, he had done between 70 and 80 farm audits. He had only begun the preliminary steps of the Holmes audit when it was transferred to his colleague Mr. Sadlowski some seven years ago. He left the Agency in 2001, nearly four years prior to this hearing. His T2020's were missing; any other personal diaries he might have maintained had been destroyed upon his departure. In such circumstances and given other contradictory evidence, Mr. LeDuc's detailed recollections of the Ross Holmes waiver are simply not credible.
+[11] The Act permits the Minister to make a reassessment outside the normal reassessment period only if the taxpayer has "filed" a waiver before the expiry of that time. In order to assert his right to do so, the Minister must be able to prove that such filing occurred. Only then will he be entitled to encroach on the taxpayer's right not to be reassessed after the statutory deadline. The Act being silent on what filing entails, whether it has been achieved will depend on the circumstances of each case.
+[12] There is no statutory basis for the conclusion that in order to be "filed", a waiver must be date-stamped. As can readily be seen from this appeal, however, adopting such a practice could enhance the Minister's ability to prove a waiver had been filed as required. But for the other occurrences in this matter militating against such a finding, the handing over of the waiver to Mr. LeDuc when he called on the offices of Ernst & Young might have constituted filing. But in light of the facts of this case, where Mr. Holmes' original waiver and other important papers in the Minister's care cannot be found, where there is no marking of any kind on the copy of the waiver to evidence its receipt, where there were no standard practices in place as to the treatment of waivers, and where there is no other reliable evidence to support a finding that Mr. Holmes' waiver was properly received, the Minister cannot be said to have discharged his evidentiary burden. I am not satisfied, on a balance of probabilities that Mr. Holmes filed with the Minister, as required by the Act, a waiver in respect of the 1993 taxation year so as to authorize the Minister to reassess for that year beyond the normal reassessment period.
+Scope of the waiver: whether the description of the matter specified in the waivers can reasonably be regarded as relating to restricted farm losses as required by subparagraph 152(4.01)(a)(ii) of the Act
+[13] Unless I am in error in my finding above, this issue applies only to the appeal of Mrs. Holmes. In any case, the inserted wording in each of their waivers is identical. The Act provides that the Minister may make a reassessment of a taxation year after the normal reassessment period only if the taxpayer has filed with the Minister a waiver in prescribed form within the normal reassessment period for the taxpayer in respect of that taxation year[5]. Subparagraph 152(4.01)(a)(ii) of the Act restricts that general power, providing that such a reassessment may be made "only to the extent that, it can reasonably be regarded as relating to a matter specified in a waiver filed with the Minister" in respect of that taxation year. This is consistent with the general principle that the taxpayer must know the basis upon which she is being reassessed[6]. It is common ground that Mrs. Holmes' waiver was duly filed on June 4, 1997. It remains to consider, however, the scope of the waiver in light of Mr. LeDuc's brief description of the subject matter and amendments to it made by Mrs. Holmes' accountants.
+[14] Mr. LeDuc prepared the waiver that was sent to Mrs. Holmes for her possible signature in his April 24, 1997 letter to Mr. and Mrs. Holmes, the text which is set out below:
+...
+We would like to thank you for the information you have provided for our review. However, this information is incomplete for our audit purposes and we would appreciate the following documentation be submitted for our review.
+- all banking records including account statements, cancelled cheques, deposit receipts and other banking records related to the farm operation;
+- journal books maintained;
+- copies of the accounting working papers in order to reconcile to the amounts claimed in your returns;
+- a list of the horses owned as at at (sic) January 1, 1993, documents verifying the purchase price of each, the ownership percent and names of partners;
+- a copy of insurance policies for each year covering the animals and farm property;
+- a listing of all assets per the CCA schedule contained in your 1993 return;
+Once received we will be able to complete our audit of your returns. As well, I would appreciate it if you would contact me at the number listed to arrange a time to meet with you both and view your farming operation.
+I have enclosed 2 waivers and copies with this letter, one for Ross Holmes and one for Anne Holmes. The 1993 returns are approaching the statute-barred period of June 6 and June 13 respectively and the waivers will allow the Department to complete its review without undue timing pressures. I would appreciate it if you would discuss this matter with your representative and advise me immediately if the waivers will not be provided since this will impact the timing available to provide and then review the documents required.
+...
+[15] In the space provided in Mrs. Holmes' waiver for describing the matter it was "in respect of", Mr. LeDuc had printed the words "1993 farming business [and employee profit sharing plan (T4PS)[7]]". Mrs. Holmes' accountants reviewed these documents and inserted an asterisk and some additional wording [set out in italics] resulting in the following text in the subject matter box:
+1993 Farming Business*
+*As set out in the Revenue Canada letter dated April 24, 1997 from R.J. LeDuc to Ross Holmes and Mrs. Holmes concerning the adequacy of supporting information relating to the farm operations. [Emphasis added.]
+[16] In considering the scope of a waiver, it is appropriate to ascertain the intention of the parties[8]. Mr. Holmes testified that, upon the advice of their accountants, the additional wording was inserted with the intention of making clear that the waiver would apply only to substantiating the farm business expenses claimed in 1993. Hence, the inserted reference to the April 24, 1997 letter which, as he understood the kinds of additional information requested, pertained exclusively to the quantification and verification of the expenses claimed in 1993, the only matters under discussion prior to the receipt of the April 24, 1997 letter. Counsel for Mr. and Mrs. Holmes further pointed to Mr. LeDuc's admission that he made no reference in his letter to "chief source of income", or "other income". The inclusion of such terms might have led Mrs. Holmes to understand that, not only did Mr. LeDuc intend to "purify" (departmental jargon for "verify") the expenses, but that this was only a preliminary step to his real mission of determining the extent to which they would be allowed under section 31 of the Act.
+[17] The Crown's position is that, even as amended, the subject matter of the waiver can reasonably be regarded as relating to restricted farm losses for Mrs. Holmes' 1993 taxation year. Counsel for the Respondent argued that having been reassessed on this basis for their 1989 taxation year, and having voluntarily claimed restricted farm losses in 1990 and 1991, Mrs. Holmes ought to have known that her waiver included this issue. He argued further that his request to set a time to meet with Mr. and Mrs. Holmes "and view your farm operation" should have tipped them off to the department's intention to reassess for restricted farm losses because CCRA policy requires auditors to conduct "a view" to compare the farm operation to the other source of income.
+[18] Starting with this latter point, there was no evidence that Mrs. Holmes was aware of Agency practices concerning farm "views". As for the effect of her past experience with restricted farm losses, it is equally likely that this motivated Mrs. Holmes' intention, as expressed by her accountants, to add the clarification that the audit would encompass only the validation of the farm business expenses as described in Mr. LeDuc's letter. Mr. Holmes testified that when some 18 months after Mrs. Holmes' waiver had been filed, he received Mr. Sadlowski's proposal letter including the restricted farm loss issue, he was "shocked, surprised and upset", a reaction confirmed by Mr. Sadlowski in his testimony.
+[19] Counsel for the Respondent argued that the waiver must be construed against it author; even though Mr. LeDuc drafted the original version, its subsequent amendment by Mrs. Holmes' accountants shifted the burden of any resulting ambiguity to her shoulders. In a civil contractual context with parties on an equal footing, this argument might have some merit; but under the scheme of the Income Tax Act, where the authority and duty to prescribe the form of the waiver, to determine whether its subject matter had been properly set out and whether to accept it as "filed" rests exclusively with the Minister, the contra proferentum rule has no application. Had Mr. LeDuc rejected the waiver in its amended form, for example, Mrs. Holmes would have been powerless to require the Minister to receive it. Mr. LeDuc freely admitted that he noticed the amendments but dismissed them as being "just for clarification"; notwithstanding this conclusion, he took no action to determine what that clarification might have been. As the Minister's delegated gatekeeper, Mr. LeDuc had an obligation at least to inquire as to what, if anything, Mrs. Holmes meant by her amendments to his original draft.
+[20] When Mr. LeDuc accepted for filing her waiver as amended, without seeking (or even contemplating seeking) any clarification of its possible revised meaning, Mrs. Holmes had every reason to believe that the restrictions she intended to impose by the inserted words were acceptable to the Minister. Given that the power to accept the waiver lies exclusively with the Minister and in view of the generally careless treatment accorded the Holmes' files throughout, I am not persuaded that the scope of Mrs. Holmes' waiver, as amended and filed, can reasonably be regarded as relating to restricted farm losses. The Minister has failed to establish that the subject matter of the waiver extended beyond the verification of the farm business expenses. Accordingly, the appeals are allowed with costs and referred back to the Minister for reconsideration and reassessment on the basis that:
+1. no waiver was filed with the Minister for Ross Holmes in respect of the 1993 taxation year so as to permit the Minister to make a reassessment beyond the normal reassessment period under subparagraph 152(4)(a)(ii);
+2. even if I am in error under point (1), the matter specified in the waiver filed with the Minister by Ross Holmes for the 1993 taxation year cannot be reasonably regarded under subparagraph 152(4.01)(a)(ii) as relating to restricted farm losses; and
+3. the matter specified in the waiver filed with the Minister by Anne Holmes for the 1993 taxation year cannot be reasonably regarded under subparagraph 152(4.01)(a)(ii) as relating to restricted farm losses.
+Signed at Ottawa, Canada, this 21st day of June, 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2005TCC403
+COURT FILE NOS.: 2001-1819(IT)G and 2001-1820(IT)G
+STYLE OF CAUSE: Anne Holmes v. H.M.Q. and
+Ross Holmes v. H.M.Q.
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: April 14 and 15, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: June 21, 2005
+APPEARANCES:
+Counsel for the Appellants:
+Richard Lockwood
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Richard Lockwood
+Firm: Siskind, Cromarty, Ivey and Dowler, L.L.P.
+London, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tab 4.
+[2] Subparagraph 152(4)(a)(ii).
+[3] Answer to Undertaking #15, Examination for Discovery of Ms. Christine Spettigue.
+[4] Answer to Undertaking #16, Examination for Discovery of Ms. Christine Spettigue.
+[5] Subparagraph 152(4)(a)(ii).
+[6] Continental Bank of Canada v. Canada [1998] 2 S.C.R. 358; Pedwell v.Her Majesty the Queen [2000] 4 F.C. 616 (Federal Court of Appeal).
+[7] It is agreed by the parties that Mr. LeDuc's words following "1993 Farming Business" are not relevant to this appeal.
+[8] Solberg v. Canada[1992] 2 C.T.C. 208 (F.C.T.D.).

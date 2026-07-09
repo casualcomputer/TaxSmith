@@ -1,0 +1,259 @@
+---
+title: "Lang v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29165/index.do"
+last_modified: "2009-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 182"
+citation2: ""
+neutral_citation: "2009 TCC 182"
+decision_date: "2009-04-07"
+language: "en"
+item_id: "29165"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6725
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:23:51.702000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc24ae05576ccd52b70730311ebee74244f28a34f7866523ed190ddf4cce0fb1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lang v. The Queen
+
+- Citation: 2009 TCC 182
+- Decision date: 2009-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6725, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-07
+Neutral citation
+2009 TCC 182
+File numbers
+2008-1176(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1176(IT)I
+2008-3559(IT)I
+BETWEEN:
+CHERYL D. LANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 18, 2008, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Wayne Lang
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim additional medical expenses pursuant to paragraph 118.2(2)(l.91) in the amounts of $2,100, $4,200 and $4,305 respectively.
+The $100 filing fee is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 7th day of April 2009.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2009 TCC 182
+Date: 20090407
+Docket: 2008-1176(IT)I
+2008-3559(IT)I
+BETWEEN:
+CHERYL D. LANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] These appeals are brought by Cheryl Lang who seeks the medical expense credit with respect to certain expenses for 2004, 2005 and 2006. The expenses at issue were tuition fees to Foothills Academy of $10,499, $21,000 and $21,525 for Ms. Lang’s triplet sons, who all have learning disabilities. The claim was made pursuant to paragraph 118.2(2)(e) of the Income Tax Act which reads:
+118.2(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(a) …
+(e) for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient; …
+[2] The Appellant’s husband, Mr. Lang, was the only witness. He testified that his sons were born with low birth rates and suffered some physical problems: one had some hearing loss, one could not keep food down and one had a heart defect. The heart defect is no longer a medical concern. The hearing loss was recently described by Anita Madill, a chartered psychologist, as moderate hearing loss in the left ear that has remained stable. There was no mention of any ongoing problem with digestion.
+[3] Mr. Lang described the boys’ education up to high school as being difficult. They were on personal programs at school, and while achieving passing grades in most subjects, were apparently struggling. Mr. Lang had concerns for the boys’ self-esteem given their poor performance. The Langs decided to have the boys tested prior to high school by Ms. Madill, who, in April 2004, assessed each of the boys and provided a report, portions of which I will review in more detail in my analysis. She did, however, conclude that each of the boys had a learning disability.
+[4] The Langs decided to send all three boys to high school at Foothills Academy, described in its own material[1] as an educational centre of excellence with two purposes:
+1. To offer a fulltime educational and treatment School Program for students with learning disabilities, and
+2. To provide to the greater community, a Community Services component consisting of assistance to professionals and parents as well as research, tutoring inservice, lectures and the publishing of materials relevant to the learning disabled child.
+[5] It is the tuition to this school that Ms. Lang now seeks to claim as a medical expense.
+[6] Recent Court decisions (see, for example, the Federal Court of Appeal decision in Scott v. Canada[2]) have adopted the requirements of paragraph 118.2(2)(e) as explained in Collins v. Canada[3] as follows:
+1. The taxpayer must pay an amount for the care or care and training at a school, institution or other place.
+2. The patient must suffer from a mental handicap.
+3. The school, institution or other place must specially provide to the patient suffering from the handicap, equipment, facilities or personnel for the care or the care and training of other persons suffering from the same handicap.
+4. An appropriately qualified person must certify the mental or physical handicap is the reason the patient requires that the school specially provide the equipment, facilities or personnel for the care or the care and training of individuals suffering from the same handicap.[4]
+[7] With respect, I do not believe Collins has accurately reflected the legislative requirements. I would tweak Collins by suggesting the requirements are more accurately described as follows:
+1. The taxpayer must pay an amount for the care or care and training at a school, institution or other place; and
+2. The taxpayer must provide a certificate of an appropriately qualified person certifying that:
+(i) the person has a mental or physical handicap; and
+(ii) by reason of which the person requires equipment, facilities or personnel specially provided by that school for care or care and training of people suffering from the same handicap.
+[8] Paragraph 118.2(2)(e) is not particularly clear,[5] but worded as it is, it is not for the Court to determine whether there is a mental handicap, but for the Court to determine if the requisite certificate certifies there is a physical or mental handicap. Similarly, the certificate must identify the school as specially providing services to those suffering a similar handicap. All to say, the certificate is key. To claim a medical expense credit under paragraph 118.2(2)(e), the taxpayer must obtain a qualified person’s certificate that the patient with a mental or physical handicap requires the specific services offered by the identified school. Effectively, the legislators have taken this determination out of the hands of lawyers and judges and put it where it should be, in the hands of the qualified professional. This makes eminent sense. Again, with respect, I am of the view the following two questions posed in the case of Lister v. Canada,[6] attempt to shift the determination back to the Courts.
+12 … The first question is whether the individual in respect of whom the credit is claimed has the requisite physical or mental handicap … The second question is whether the place that received the payment is a place that is within the scope of paragraph 118.2(2)(e). …
+Taking that approach, why would a certificate be necessary? The risk, of course, is relying on a certificate that identifies an institution specially providing care and training to those with a mental or physical handicap, when the judge perhaps doubts the professional’s evaluation of the institution and the handicap. In such circumstances, should the Court be allowed to step in and deny the amount as a medical expense? Only, I would suggest, if the Court is satisfied the professional’s certificate constitutes some type of abuse or avoidance. Short of that, why should we? The legislators have clearly placed the responsibility with the professionals, and I see no reason to interpret the provision otherwise.
+[9] I suggest the Court’s role is twofold: first, to determine if an amount has been paid for the care or care and training of, in this case, three boys at a school, and second, to determine if there is a certificate setting out what the law requires it to set out.
+[10] With respect to the first issue, what did the Langs pay for? Was it care and training of their boys or was it simply tuition for education, or was it both, recognizing that fees only covered a percentage of overall funding, some of which was provided by the Province of Alberta.
+[11] In the case of Anka v. R.,[7] Justice Bonner, in referring to nursery schools, stated:
+5 …What was paid to the nursery school was tuition. What was received at all schools was education, albeit education tailored to fit the child’s special needs. … The statutory language must be interpreted in context. It must be remembered that the words “care or care and training” are used in the context of a definition of a medical expense and they take colour from that context. …
+[12] Justice Bell adopted this passage in the case of Flower v. Her Majesty the Queen[8] and went on to say:
+[15] I am entirely in accord with the submissions of Respondent’s counsel and of the words of Bonner, J. quoted above. The words, appearing in Section 118.2(2)(e), namely, “care and training”, “place of the patient”, “physical or mental handicap”, “institution or other place for … care and training … of individuals suffering from the handicap suffered by the patient” all indicate to me that the context in which an expenditure must be analyzed is a medical context. That is not the case here. The boys were attending an institution where special assistance was given. The evidence indicates that there were a number of such institutions in the family’s city. There is no evidence supporting a conclusion that the institution could be construed as would be necessary for it to fall within the medical context of the words in paragraph (e). While I have no doubt the boys needed the assistance that they received and profited from it, there is no legislation in the Act which permits a credit or deduction in respect of such assistance.
+[13] Similarly, Justice Hershfield in Vita-Finzi v. Her Majesty the Queen[9] said:
+[18] … Secondly, the expense being considered, in context, is a “medical” one incurred “for the care or the care and training” of a “patient” not for the expense incurred for “training” alone – including developing essential cognitive skills in slow learners or even mentally handicapped children. …
+[14] It is clear that paragraph 118.2(2)(e) has been interpreted to mean a payment in the context of a medical expense – education is not enough, hence tuition for education is not enough. But was Foothills Academy offering just education or was it also providing care and training? This leads to examining the fine line between education and training. I recall being sharply rebuked years ago by a nurse when I inquired (I thought respectfully) as to where she received her training. She sniffed that horses are trained, nurses are educated. Perhaps it is easier to be indignant about the difference when not called upon to explain the difference. In any event, children go to school to be educated, but also to be trained, as training implies the learning of a skill. For example, considerable social training takes place in a regular classroom sitting – how to behave with fellow classmates, how to behave with those in authority, how to behave in particular settings, etc. Acquisition of skills, social or otherwise, is training. I am satisfied, from Mr. Lang’s description of his children’s deficiencies, that acquiring skills was essential. Indeed, Ms. Madill suggested a number of strategies to enhance the learning process; in effect, skills before learning. The Foothills Academy literature describes the provision of specific skill instruction, accommodations, compensatory strategies and self-advocacy skills. While this may not be enough to shift the emphasis from student to patient, from education to care and training, it does satisfy me that there is certainly a strong element of care and training involved in the services received by the boys.
+[15] I believe that in sending the boys to Foothills Academy, the Langs paid for care, training and education. I canvassed with the parties the possibility of a breakdown of the fees between education and care and training and was advised that that was not possible. I disagree – it may be difficult but it should not be impossible.
+[16] I turn now to the certificates in issue. These are the reports of Ms. Madill, not that of Mr. Bullivant, the principal of Foothills Academy who wrote letters in March of 2007 and 2008. It was made clear in the case of Scott that such ex post facto “certificates” would not be acceptable.
+[17] There is no question that Ms. Madill was qualified. To recap, she issued written assessments of the boys in April 2004. In response to requests from the Canada Revenue Agency, she was asked by Mr. Lang to provide clarifying comments in April 2006 and again in October 2006. The first hurdle for the Appellant is to convince me the letters in 2006 can be relied upon with respect to 2004. I refer to the Canada Revenue Agency’s letter to the Langs dated December 28, 2005 (Exhibit A-1) in which they clarify what the certificate needs to indicate:
+In order to allow payments made to the Foothills Academy we require a certificate/letter for each child from the students medical practitioner stating that the student is suffering from a physical or mental handicap, the severity of which is such that the student requires the equipment, facilities or personnel specifically provided by the school. …
+If we receive additional information at a later date, we will review your return for a possible adjustment. Please submit all supporting documents, including those already submitted, with your request for an adjustment.
+[18] The Langs then provided Ms. Madill’s letter of April 17, 2006 (Exhibit A‑2) for each of the boys, excerpts of which, for one of the boys, are reproduced as follows:
+… This level of cognitive discrepancy is consistent with a diagnosis of a Non‑Verbal Learning Disability.
+Suggestions were made in the report for modifications to a learning environment which would support C.’s[10] learning challenges. Such support may be more readily available at an educational setting such as Foothills Academy or similar facility with smaller class size and personal [sic] more specifically trained to deal with students with Non-Verbal Learning Disabilities.
+[19] The Canada Revenue Agency replied to this letter on July 10, 2006 (Exhibit A-1) as follows:
+There is no indication in the documents you submitted that the individual suffers from a physical or mental handicap that requires the special equipment, facilities or personnel of the school, institution, or place. The psychologist recommended the smaller class size would be beneficial, but does not say the children “need” the special training.
+[20] The Langs then supplied Ms. Madill’s letter of October 11, 2006 (Exhibit A‑2), again an excerpt of which is reproduced as follows with respect to one of the boys:
+I am the psychologist for the above named child and would recommend that this child requires the education and treatment program offered by a specialized facility such as the Foothills Academy. On the basis of assessment with the Wechsler Intelligence Scale for Children (WISC-III) and the Wechsler Individual Achievement Test (WIAT-II) it is the opinion of this psychologist that C. suffers from a Learning Disability consistent with a diagnosis of a Non-Verbal Learning Disability and needs intensive intervention in order to be successful.
+[21] The Canada Revenue Agency replied on January 12, 2007 (Exhibit A-1):
+We require a letter from the medical doctor or psychologist stating that the student is suffering from a physical or mental handicap, the severity of which is such that the student requires the equipment, facilities, or personnel specifically provided by the school, institution, or other place.
+Generally, the letter or certificate should not only indicate the specific handicap, but should include a description of the equipment, facilities, or trained professionals required to adequately provide care, or care and training for the individual. …
+If we receive additional information at a later date, we will review your return for a possible adjustment. …
+[22] Clearly, the Canada Revenue Agency left the door open for the Langs to provide Ms. Madill’s clarification of her assessments, such that the wording would meet the paragraph 118.2(2)(e) requirements. If the Canada Revenue Agency was prepared to consider written clarification from Ms. Madill of her 2004 assessment, I am certainly not going to slam that door, but I am prepared to incorporate her subsequent correspondences as acceptable clarification of her 2004 assessment. I therefore read her initial assessments and the two follow-up letters together as being the certificate the Langs wish to rely upon.
+[23] Taken together do these documents certify:
+(i) The boys have a mental handicap; and
+(ii) Because of that handicap, they require the facilities of Foothills Academy specially provided for children with similar handicaps?
+(i) Physical or Mental Handicap
+[24] What did Ms. Madill state in her April 2004 assessments (Exhibit A-2) about the boys? I am only going to deal with one of the boys as the issues are similar. For S., she indicated:
+- was born prematurely weighing 2 lbs, 2 ounces with a heart defect;
+- he scored at the 33rd percentile for verbal IQ and 6th percentile for performance IQ (indicating weak perceptual reasoning) on the Wechsler Intelligence Scale; and
+- short-term memory is weak.
+[25] She then went on to make some educational program suggestions. She concluded that S. had a learning disability. There was no mention of Foothills Academy.
+[26] In April 2006, Ms. Madill added that S.’s profile was consistent with a diagnosis of a learning disability, more specific to spatial reasoning as well as working memory. Then again in October 2006, she stated that S. suffers from a learning disability.
+[27] I do not read the requirement in paragraph 118.2(2)(e) so rigidly that the certificate must contain the words “physical or mental handicap”, but certainly there should be no doubt in any reasonable reader’s mind that it is the professional’s view that the individual has a mental handicap. If I accept the Canadian Oxford Dictionary definition of mental handicap as a condition of being of such low intelligence or having intellectual capacity so underdeveloped, especially through illness or injury as to inhibit normal social functions, can I read Ms. Madill’s report as certifying the boys have a mental handicap? I do not believe so.
+[28] The percentiles that the boys scored certainly suggest low or undeveloped intellectual capacity, but I find nothing in Ms. Madill’s reports to tie this in with any genetic or neurological factor, illness or injury or any medical condition. It should not be left to me to connect the dots between low birth rate and neurological factors. That is what the medical practitioner should make clear in the certificate. Ms. Madill has not done so. Nor do I feel that she clearly states that such low performance IQ inhibits normal social functioning. Indeed Ms. Madill commented, with respect to S. for example, that he presented as a personable young man with good communication skills, cooperative and hard-working. Low performance IQ may well reflect a learning disability, but I am unable to read Ms. Madill’s report to go so far as to certify a mental handicap. I heard no professional evidence that states unequivocally the boys’ learning disabilities constitute a mental handicap.
+[29] I have no doubt, from hearing Mr. Lang’s emotional testimony, that schooling for the boys has been a lifelong struggle. And, as a parent, Mr. Lang did absolutely the right thing for his boys. He did this because they had a learning disability. Ms. Madill’s report certifies just that, but I find it does not go further to certify the boys had a mental handicap. I am confined to the wording of the “certificate”. As I explained previously that is how I read the legislation is to work. I am not a psychologist or medical practitioner. If Ms. Madill’s report leaves me questioning whether the boys have a mental handicap, then I cannot accept it as certifying such. It must be clear.
+(ii) Special Facilities
+[30] Due to the handicap were the facilities of Foothills Academy, specially provided for similarly handicapped individuals, required? Given my conclusion on the first element of Ms. Madill’s certificates, it is unnecessary to review the second element, but in the event I am wrong in my understanding of Ms. Madill’s report, and that it could be read as certifying that the boys’ learning disability constitutes a mental handicap, then the second element needs analysis. To meet the requirements of paragraph 118.2(2)(e) in this regard, Ms. Madill’s report must certify that due to the mental handicap, the boys require the equipment, facilities or personnel of Foothills Academy, specially provided by Foothills Academy for those with the same mental handicap.
+[31] As indicated previously, Ms. Madill makes no mention of Foothills Academy in her first report, but in her follow-up report of April 2006 she does suggest support may be readily available at an educational setting such as Foothills Academy. Further, in October 2006, she is more definite in saying that she would recommend that the child requires the education and treatment program offered by a specialized facility such as the Foothills Academy.
+[32] Had I been convinced that Ms. Madill certified the boys had a mental handicap by having a learning disability, then in adopting a compassionate and liberal approach I would have found Ms. Madill’s follow-up letters do certify that the boys require the special services of Foothills Academy, which provided such services to those with a similar handicap.
+[33] The parties did not raise the application of paragraph 118.2(2)(l.91) which reads:
+118.1(2)(l.91) as remuneration for tutoring services that are rendered to, and are supplementary to the primary education of, the patient who
+(i) has a learning disability or a mental impairment, and
+(ii) has been certified in writing by a medical practitioner to be a person who, because of that disability or impairment, requires those services,
+if the payment is made to a person ordinarily engaged in the business of providing such services to individuals who are not related to the payee.
+[34] I would like to comment on this provision and the interplay between it and paragraph 118.2(2)(e). Paragraph 118.2(2)(l.91) demands a distinction between primary education and services supplementary to the primary education, in the form of tutoring services. What element of the fees goes to primary education and what element is additional, to recognize and serve the individual needs of the learning disabled child in the form of “care and training” and “tutoring services”? Perhaps the Langs were effectively paying for three things:
+(i) care and training;
+(ii) primary education; and
+(iii) supplementary services (tutoring).
+But this all gets rolled into one program for the children, and thus makes it cumbersome to apply the formulaic and technical wording of the Income Tax Act. This is unfortunate, as it results in the entitlement of a couple who keep their learning disabled child in regular school and pay for after-school tutoring to the medical expense credit, but no such entitlement to the couple who send their learning disabled child to a special school, unless they get a certificate that the child is there due to a mental handicap requiring care and training. Care and training for mentally handicapped versus tutoring for the learning disabled. It appears there is a continuum; a medical expense credit for full costs of all aspects of care and training for the mentally handicapped at one end, with limited medical expense credit for tutoring of the learning disabled at the other end. But no medical expense credit if, like the Langs, you fall in the middle.
+[35] There appears to be a void that needs to be filled, and I believe it can be filled by accepting that part of what the Langs paid for at Foothills Academy was tutoring services covered by paragraph 118.2(2)(l.91). To be clear, paragraph 118.2(2)(e) may apply to fees for Foothills Academy if an appropriate certificate is received. I question whether it is applicable only to the portion of the fee that pertains to care and training, and not education; a determination to be made by a judge and not by the Certificate. Theoretically, the education portion of the fee could be divided between primary education and supplementary services to that primary education, and the supplementary portion could be deducted pursuant to paragraph 118.2(2)(l.91). In the boys’ case, I have concluded paragraph 118.2(2)(e) is not applicable due to an inadequate certificate.
+[36] As paragraph 118.2(2)(l.91) was not argued at trial, I asked the parties to provide written submissions as to its applicability.
+[37] It is interesting to note the difference between the requirements of paragraphs 118.2(2)(l.91) and 118.2(2)(e). Paragraph 118.2(2)(l.91) requires the following:
+(i) remuneration for tutoring services to the patient;
+(ii) such services are supplementary to the primary education;
+(iii) the patient has a learning disability (or mental impairment);
+(iv) there is a certificate by a medical practitioner that, because of the learning disability (or mental impairment) the patient requires the tutoring services; and
+(v) the remuneration is made to an unrelated person ordinarily engaged in providing such services.
+[38] There is clearly less emphasis on the certificate for this credit than for the paragraph 118.2(2)(e) credit.
+[39] Not surprisingly, Mr. Lang argued all conditions of paragraph 118.2(2)(1.91) have been met. He went on to provide an allocation or methodology to break the tuition fees down between primary and supplemental.
+[40] The Respondent argues that two of the conditions have not been met, specifically:
+(i) tutoring services were not rendered to the boys; and
+(ii) the certificate does not certify that the boys required tutoring services because of their learning disability.
+[41] Further, the Crown argues there was insufficient evidence to enable me to determine that:
+(i) any amount was paid as remuneration for tutoring services;
+(ii) Foothills Academy provided tutoring services “supplementary” to the primary education; and
+(iii) Foothills Academy is ordinarily engaged in the business of providing tutoring services.
+[42] I shall address each of the conditions.
+(i) Remuneration for Tutoring Services to the Patient
+[43] The Respondent relies on the Canadian Oxford Dictionary[11] definition of tutor:
+Noun – a private teacher, either one in general charge of a person’s education or employed to give a student additional instruction in a particular subject or subjects.
+Verb – act as a tutor to; teach or assist (a student) privately, especially in a particular subject.
+[44] The Respondent suggests that there was no evidence the boys received the services of a private teacher. There was evidence (Exhibit A-5) that Foothills Academy was a private institution, funded through Governments, school boards, private sector industry, tuition fees and charitable donations. The Respondent offered no explanation of what “private” means in the context of a “private teacher”, other than whatever the boys received at Foothills Academy, it was not from a private teacher. Mr. Lang, on the other hand, argued that it follows that the teachers at a private school are to be considered private teachers. He goes on, in dealing with the definition, to suggest that as Foothills Academy has a homeroom teacher in “general charge” of the student’s education, supported by other private teachers specializing in specific subjects, it falls squarely within the definition. In addressing the latter part of the definition, Mr. Lang maintains the teachers were employed to give additional instruction, enabled by small class sizes with teachers qualified to deal with those with learning disabilities. On balance, I find Mr. Lang’s reasoning more persuasive, though with some reservation. The addition of the words “supplementary” in the statutory requirement (which I will address shortly) is contrary to the definition of tutor that covers someone in general charge of education. Such a tutor is not providing supplementary services to the primary education – they are directly providing the primary education. However, the specially-trained teachers employed to provide additional instruction do match the “tutor” definition.
+[45] Students at Foothills Academy have been removed from the public school system to obtain privately, not just the basic education, but the specialized education they need to be successful students. Adopting a compassionate approach to the medical expense provisions, I find a sufficient element of tutoring as defined, in the circumstances, to meet the first condition.
+(ii) Tutoring Services are Supplementary to Primary Education
+[46] The Respondent argues there is no evidence to enable me to determine the services were supplementary. The Respondent adds, relying on the case of Hoare v. Her Majesty the Queen,[12] that to meet this condition, I must find the personnel providing tutoring services did not provide the primary education. In Hoare, the Appellant hired a full-time private teacher, Ms. McGrath, to teach the children with learning disabilities at home. The family relied on a distance education program (North Island Distance Education School (“NIDES”) from British Columbia) to provide the basic curriculum. The evidence was that the distance education package did not require supervision of a qualified teacher, yet Ms. McGrath indicated 75% of her time was consumed with NIDES. Chief Justice Rip stated:
+19 Therefore, in order to meet this branch of the statutory test, I must find as a matter of fact that Ms. McGrath did not provide the primary education for the children but, instead facilitated and supplemented the various distance learning and special needs education packages obtained by the Hoares and that she further provided the supervision required by the children’s disabilities. …
+[47] He went on to conclude:
+24 In sum, the evidence indicates that three-quarters of the children’s education was provided by external sources, most specifically NIDES, and should sufficiently support a finding that NIDES was the primary education for the children. Any independent programming offered by Ms. McGrath would therefore have been supplementary to the NIDES courses and could only have constituted a quarter of the children’s education for the fall 2002 school term from September to December.
+[48] Chief Justice Rip allowed the full salary of Ms. McGrath as a medical expense pursuant to paragraph 118.2(2)(1.91), notwithstanding 75% of her time was spent in connection with the primary education. I do not accept the Respondent’s contention that this sets some rigid requirement that the same teacher, or facility, cannot provide both primary and supplementary education. These provisions must be applied with some flexibility. To deny the credit on the basis that a teacher at Foothills Academy relied on a curriculum for primary education that was not part of a distance education package places constraints on the legislation that the legislative words simply do not suggest. Further, the Langs recognize that part of the education was primary education and are content to have that element carved out.
+[49] The question is whether I have sufficient evidence to conclude that some of the services the boys received were supplementary to the primary education. This is a more complex and difficult question than at first blush appears.
+[50] Parents send their children to private schools for a variety of reasons, though a constant would be to obtain a primary education. How does one determine what services are supplemental or additional to that primary education? Is it necessary to compare what the public school system offers and then consider anything over and above that as supplemental? What is the benchmark? Is it simply a question of time spent? Is it a matter of subjects studied? If the public school spends six hours a day for 190 days a year, are supplemental services only anything over and above that? Or, should Foothills Academy be compared to private schools that are not specific to the education of those with learning disabilities to determine what supplemental services Foothills Academy provides? What is primary education? These are questions worthy of a post-doctoral thesis on education, yet the Income Tax Act demands the taxpayer determine that tutoring services must be supplementary. I suggest a pragmatic approach on a case-by-case basis, and in this case, asking what did the boys in fact receive from Foothills Academy. There was enough evidence to satisfy me the boys received care and training at Foothills Academy. There is no question they also received primary education from specially-qualified private teachers in small classroom settings, and also on a one-on-one basis (see Exhibit A‑3 - Mr. Bullivant’s letter of March 10, 2008). I find part of that education service was over and above what would be provided in the public system where, according to Mr. Bullivant’s letter of March 10, 2008, there are no intensive programs available and no small group and individual instruction. I conclude the second condition is met.
+(iii) Learning Disability
+[51] The boys had a learning disability. This condition is met.
+(iv) Certificate that due to the Learning Disability, Tutoring Services are Required
+[52] I have already concluded it is in order to consider all of Ms. Madill’s reports. Granted, Ms. Madill never used the words “tutoring services”. She says in October 2006, the child:
+… requires the education and treatment program offered by a specialized facility such as the Foothills Academy. …
+In referring to support for the boys’ learning challenges, she writes in April 2006:
+… Such support may be more readily available at an educational setting such as Foothills Academy or similar facility with smaller class size and personal [sic] specifically trained to deal with students with Learning Disabilities.
+In April 2004, she reports:
+Reading Comprehension would be improved with opportunities for dialogue with a partner to clarify vocabulary and content. …
+Further:
+… He will continue to require learning support, academic modifications and accommodations …
+[53] It is evident that Ms. Madill is familiar with Foothills Academy and what they offer. It is also clear that she makes her recommendations because of the boys’ learning disabilities. I have concluded that some element of what Foothills Academy provides is tutoring services. I also conclude that the broadness of Ms. Madill’s suggested interventions can be interpreted to include tutoring services, and therefore this condition is also met.
+(v) Remuneration to Unrelated Personnel Ordinarily Engaged in Providing Such Services
+[54] Foothills Academy is unrelated to the Langs. Having concluded that part of what Foothills Academy does is provide tutoring services, this condition is also met.
+[55] The Respondent argues that this provision was not meant to apply to private school tuition fees, and that if Parliament had intended to make all or a portion of private school fees deductible as medical expenses, it could have done so. Yet Parliament certainly intended some credit for those having the burden of additional expense to assist their learning disabled child in becoming a successful and productive member of society, by receiving such specialized or additional education necessary to do so. Does this not describe the Langs? Certainly it does. To deny the Langs, because they sought help that went well beyond, though included, tutoring services, simply because such services were provided at a private school would be to interpret the provision too rigidly. The conditions have been met.
+[56] The final stumbling block for the Langs is to satisfy me what part of the fee relates to those tutoring services. The Respondent argues there is no evidentiary basis for breaking down the fees between tutoring services and other educational programs or services.
+[57] The first difficulty with an allocation is to determine if the tutoring element is distinct from the care and training element and also distinct from direct primary education services. In even asking the question, it is apparent this is, at best, an awkward exercise. There likely would be no clear lines of demarcation in the daily program of a student at Foothills Academy to indicate a movement from primary education to care and training to additional education. But, as I have indicated, all these elements exist in the Foothills Academy environment. At this point, I am dealing only with paragraph 118.2(2)(l.91), the tutoring services element. Mr. Lang, in his representations, suggested that because the Provincial Government funded Foothills Academy approximately 37% of its total funding, this must represent the primary education element and therefore 63% is for something else. He concluded therefore that 63% of the fees are properly identified to be for the additional services, including the tutoring. While there is some attraction to this straightforward approach, it is, with respect, based on speculation, presumption and guesswork. I do not say this unkindly, but as will soon be clear, this is not uncommon in Informal Procedure matters. One could as readily argue, as Mr. Lang did, that if the Province paid for primary education, then 100% of the Langs’ fees must be for something else. I do not buy this approach.
+[58] What is required is a more extensive investigation on a time basis – looking at a week perhaps – to see how much time is spent in the classroom, how much individual instruction, how much skill-based training, how much counselling, what actually goes on in the classroom, the nature and degree of testing, the involvement of psychologists, the nature of the personalized program, etc. With this type of information, the parties may have some sense of a percentage apportionment amongst the elements of the services received by the boys. This is not a General Procedure case. I see no benefit at this stage in resuming an Informal Procedure trial in an attempt to accurately quantify an allocation. I have said this before and I will repeat it. The Informal Procedure is meant to be an efficient and effective means to quickly resolve disputes between a taxpayer and the Government of Canada over lesser amounts. There are no exchange of documents and no examinations for discovery; often each side only fully appreciates the other side’s position when hearing it for the first time at trial. There is often an element of speculation, presumption and guesswork, to which I have already alluded. The hope is, in the Informal Procedure, that the guesswork can be founded in some facts from trial, and is supported by a proper application of the law. In this case, I have determined the facts cannot support an application of paragraph 118.2(2)(e), but can support an application of paragraph 118.2(2)(1.91). Applying a rough and ready allocation based on the evidence I have heard, I determine that services related to additional educational services (tutoring) represent 20% of services provided. On this basis, I allow 20% of the fees in 2004, 2005 and 2006, being 20% of $10,499, $21,000 and $21,525 or $2,100, $4,200 and $4,305 respectively, as medical expenses for the purposes of paragraph 118.2(2)(1.91).
+[59] I wish to be clear that this finding is specific to this Informal Procedure case, based on what I have received at trial, and is not intended to be authoritative on services provided by Foothills Academy or similar private schools. The appeals are allowed and referred back to the Minister for reassessment on the basis that the Appellant has incurred additional medical expenses in accordance with paragraph 118.2(2)(l.91) in the amounts of $2,100, $4,200 and $4,305, respectively, for the 2004, 2005 and 2006 taxation years.
+Signed at Ottawa, Canada, this 7th day of April 2009.
+“Campbell J. Miller”
+C. Miller J.
+CITATION: 2009 TCC 182
+COURT FILE NO.: 2008-1176(IT)I and 2008-3559(IT)I
+STYLE OF CAUSE: CHERYL D. LANG and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: December 18, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: April 7, 2009
+APPEARANCES:
+Agent for the Appellant:
+Wayne Lang
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-5, Foothills Academy Pamphlet.
+[2] 2008 FCA 286.
+[3] [1998] T.C.J. No. 396.
+[4] Scott, supra, at para. 4; Collins, supra, at para. 20.
+[5] The Collins decision appears to be reading this provision as being worded as follows:
+An amount paid to a school, institution or other place that specially provides equipment, facilities or personnel for individuals suffering the handicap suffered by the patient, for the patient with a medical or physical handicap, who has been certified by an appropriate qualified person to be a person who by reason of such physical or mental handicap requires the facilities of the equipment, facilities or personnel specially provided by that school.
+[6] 2006 FCA 331.
+[7] 1995 CarswellNat 1201, [1996] 1 C.T.C. 2674D (T.C.C.).
+[8] 2005 TCC 268.
+[9] 2008 TCC 565.
+[10] Initials rather than names have been used for any minor child.
+[11] The Canadian Oxford Dictionary, 1998, s.v. “tutor”.
+[12] 2007 TCC 292.

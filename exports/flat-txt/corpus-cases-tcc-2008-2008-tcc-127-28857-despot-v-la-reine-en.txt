@@ -1,0 +1,134 @@
+Title: Despot v. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28857/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-127-28857-despot-v-la-reine-en.md
+Document type: case_law
+Last modified: 2008-02-29
+
+# Despot v. La Reine
+
+- Citation: 2008 TCC 127
+- Decision date: 2008-02-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1336, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Despot v. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-29
+Neutral citation
+2008 TCC 127
+File numbers
+2006-1823(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1823(IT)G
+BETWEEN:
+LUCIE DESPOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 19, 2008, at Montréal, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+ORDER
+In accordance with the attached Reasons for Order, the Court orders that:
+1. the Appellant produce and serve on the Respondent, no later than April 4, 2008, a list of documents in accordance with section 81 of the Tax Court of Canada Rules (General Procedure);
+2. the Appellant respond to the undertakings arising out of the examinations for discovery, no later than April 4, 2008, and produce a copy of her response to the undertakings no later than April 4, 2008;
+3. the Appellant pay the Respondent's costs of the motion, regardless of the outcome of the case, costs being fixed at $1,000 and payable to the Respondent by certified cheque no later than April 4, 2008;
+4. the Appellant file proof of payment of the Respondent's costs with the Registry of the Court no later than April 16, 2008.
+The dates set are peremptory. If the Appellant fails to comply with this Order, the appeal will be dismissed without further notice or motion for dismissal of the appeal.
+Signed at Ottawa, Canada, this 29th day of February 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 16th day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC127
+Date: 20080229
+Docket: 2006-1823(IT)G
+BETWEEN:
+LUCIE DESPOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Jorré J.
+[1] This is a motion by the Respondent for dismissal of the appeal, (i) for failure by the Appellant to prosecute the appeal with due dispatch, and (ii) for failure by the Appellant to comply with an order of the Court.
+[2] The hearing of this motion, which the Appellant did not attend, was held on February 19, 2008. The Appellant sent a request for an adjournment by electronic means, which I denied at the hearing.[1]
+[3] The Appellant filed a motion to extend the time for filing her appeal, with a notice of appeal, in June 2006. The Respondent did not object and an order extending the time was signed on October 6, 2006.
+[4] On April 23, 2007, the Court Registry wrote to the parties inviting them to propose a timetable for the various steps in the case.
+[5] On May 23, 2007, counsel for the Respondent replied to the Registry. In his letter, he said he had contacted the Appellant on three occasions to agree to a timetable, but had received no reply from her; he proposed dates for the various steps.
+[6] On May 25, 2007, the Registry wrote to the Appellant asking her to submit comments before June 15, 2007.
+[7] The Appellant did not reply to the letter from the Registry, and by Order dated June 18, 2007, this Court set the timetable for the next steps in the case.
+[8] The Respondent filed and served her list of documents within the time allowed by the Order of June 18, 2007. The Appellant did not file her list and the Court set a date for a case management hearing, August 14, 2007.
+[9] Following up on the hearing on August 14, 2007, the Court made an Order on August 22, 2007. The Order extended the time for completing the preliminary steps before the hearing of this case. The order set the following deadlines for completing the preliminary steps:
+- September 28, 2007, for filing the list of documents and serving it on the other party;
+- November 30, 2007, for completing the examinations for discovery;
+- December 31, 2007, for complying with undertakings arising out of the examinations for discovery;
+- January 30, 2008, for communicating in writing with the Hearings Coordinator.
+[10] The Respondent filed her list of documents in accordance with the Order.
+[11] The Appellant filed a list of documents on September 28, 2007, but the list of documents was not in compliance with the Tax Court of Canada Rules (General Procedure). It was also not signed by the Appellant or her counsel of record.[2]
+[12] On October 4, 2007, the Court Registry wrote to Alain Le Bris, with a copy to the Appellant, confirming that the Registry had received a list of documents. In the letter, the Registry also stated that the list was not signed by the Appellant and that Mr. Le Bris was not the representative on the record and could not be the representative. The Court therefore concluded, in its letter of October 4, that it was still waiting for the list of documents, signed by the Appellant.[3]
+[13] By letter dated October 30, 2007, the Court Registry informed the Appellant that the list of documents had not been signed by the Appellant or her counsel. In the letter, the Appellant was also informed that because the Order of the Court had set September 28, 2007, as the date for filing the list of documents, the Appellant would have to file a motion with the Court asking for the timetable to be amended.
+[14] The Respondent examined the Appellant for discovery on November 8, 2007, and at that examination the Appellant gave several undertakings, which are listed in Exhibit R‑1 to the sworn statement filed in support of the notice of motion. On November 23, 2007, counsel for the Respondent wrote to the Appellant enclosing a copy of the list of undertakings. He also reminded her of the deadline for responding to the undertakings, December 31, 2007. As of the date of the sworn statement, January 17, 2008, the Appellant had not responded to the undertakings.
+[15] The Appellant wrote a letter to counsel for the Respondent on December 31, 2007 (Exhibit R‑2 to the sworn statement filed in support of the motion). The letter seems to cast doubt over the undertakings given by the Appellant. She concludes by saying:
+[TRANSLATION]
+For all these reasons, I suggest, in order to bring this examination to a conclusion, that we meet with Alain Le Bris at the accountant's, because as you know I had absolutely nothing to do with those reports.
+Mr. Le Bris will telephone you next week to make an appointment with you so that we can finish with this matter.
+[16] The Appellant has not prosecuted her appeal with due dispatch, and she did not comply with the Order made on August 22, 2007.
+[17] On examining the Reply to the Notice of Appeal, we see that there are significant amounts of money in issue.
+[18] In the circumstances, it would not be appropriate simply to dismiss the appeal. However, having regard to the Appellant's conduct, measures need to be taken to move forward on this case.
+Accordingly, the Court orders that:
+1. the Appellant produce and serve on the Respondent, no later than April 4, 2008, a list of documents in accordance with section 81 of the Tax Court of Canada Rules (General Procedure);
+2. the Appellant respond to the undertakings arising out of the examinations for discovery, no later than April 4, 2008, and produce a copy of her response to the undertakings no later than April 4, 2008;
+3. the Appellant pay the Respondent's costs of the motion, regardless of the outcome of the case, costs being fixed at $1,000 and payable to the Respondent by certified cheque no later than April 4, 2008;
+4. the Appellant file proof of payment of the Respondent's costs with the Registry of the Court no later than April 16, 2008.
+The dates set are peremptory. If the Appellant fails to comply with this Order, the appeal will be dismissed without further notice or motion for dismissal of the appeal.
+Signed at Ottawa, Canada, this 29th day of February 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 16th day of April 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC127
+COURT FILE NO.: 2006-1823(IT)G
+STYLE OF CAUSE: LUCIE DESPOT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING : Montréal, Quebec
+DATE OF HEARING: February 19, 2008
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF ORDER: February 29, 2008
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The notice of motion was sent on January 17, 2008, by registered mail, and served at the Appellant's address on January 25, 2008.
+On Sunday, February 10, the Court Registry received a telephone message from Alain Le Bris, the Appellant's spouse, informing the Court that the Appellant would not be back until February 19, 2008. The Registry sent the Appellant and Mr. Le Bris an e‑mail on Monday, February 11, informing them that if the Appellant could not be present, she should make a written request to the Court for an adjournment.
+After an exchange of e‑mails, a request for an adjournment dated February 18 was sent to the Registry by e‑mail from Panama. The request was very brief, and said : [TRANSLATION] "Could you adjourn my case, reference: Despot – 2006 – 1823(IT)G, scheduled for February 19, 2008, to a later date, because I am not in the country." There was no other fact or explanation; for example, there was no explanation of why the Appellant could not have returned a day earlier.
+The Registry telephoned the Appellant's number in Ste-Adèle at about noon on February 19 and spoke to Mr. Le Bris, who said that the Appellant was there. The Registry informed Mr. Le Bris that if the Appellant did not attend at 2:00 p.m. that day, it was at her own risk. The hearing of the motion took place at about 4:40 p.m., after all other cases for the day had been heard. In the circumstances, I denied the request for an adjournment.
+[2] The Appellant does not have counsel.
+[3] When the Appellant filed her appeal, she named Alain Le Bris as her representative. The Court Registry wrote to him on October 23, 2006, to tell him that under the Tax Court of Canada Rules (General Procedure), an appellant may act in person or be represented by counsel. On November 30, 2006, Mr. Le Bris informed the Registry by telephone that the Appellant would be representing herself.

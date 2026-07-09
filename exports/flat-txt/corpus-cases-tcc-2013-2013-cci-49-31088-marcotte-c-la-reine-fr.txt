@@ -1,0 +1,119 @@
+Title: Marcotte c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31088/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-49-31088-marcotte-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-02-07
+
+# Marcotte c. La Reine
+
+- Citation: 2013 CCI 49
+- Decision date: 2013-02-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4674, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marcotte c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-07
+Référence neutre
+2013 CCI 49
+Numéro de dossier
+2010-1210(GST)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2010-1210(GST)G
+ENTRE :
+DANIEL MARCOTTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel
+No. 2008-3789(GST)G le 17 mai 2012, à Ottawa (Ontario).
+Devant : L'honorable Gerald J. Rip, juge en chef
+Comparutions :
+Avocat de l'appelant :
+Me Jean Faullem
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu du paragraphe 323(1) de la partie IX de la Loi sur la taxe d’accise (« LTA »), dont l'avis est en date du 16 juillet 2008, et porte le numéro PH2008‑045, est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de février 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Référence : 2013 CCI 49
+Date : 20130207
+Dossier : 2010-1210(GST)G
+ENTRE :
+DANIEL MARCOTTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Cet appel est relié aux appels d'une décision précédente de cette Cour entre les mêmes parties (2012 CCI 336). Cette nouvelle cotisation est basée sur les mêmes faits. Dans le présent appel, M. Daniel Marcotte, administrateur de la société 3634451 Canada Inc. (ci-après « JORA »), fait appel à l'encontre d'une nouvelle cotisation datée du 16 juillet 2008, émise en vertu du paragraphe 323(1) de la Loi sur la taxe d'accise (la « LTA »). [1]
+[2] Les faits,[2] en bref, sont qu'après les négociations avec les fonctionnaires du Ministère du revenu du Québec (« Revenu Québec »), le 8 août 2004, JORA a émis un chèque à Revenu Québec au montant de 500 000 $ afin d'acquitter, à quelques milliers de dollars près, la balance de la taxe nette devant être remise par JORA. Après avoir divisé le montant du chèque en deux tranches de 250 000 $ destinées chacune à la taxe sur les produits et services (« TPS ») et à la taxe de vente du Québec (« TVQ »), Revenu Québec a imputé la totalité du chèque reçu à la balance du compte de JORA.
+[3] Au mois d'octobre 2007, l'appelant a entrepris des négociations avec Revenu Québec afin de modifier la répartition du chèque émis par JORA le 18 août 2004. Tel que constaté par la lettre de M. Jacques Plourde, un représentant de Revenu Québec, datée du 12 octobre 2007, les parties en sont venues à une entente à l'effet que le chèque émis par JORA serait imputé de la façon suivante :
+Gale Maloney
+61 852,79 $
+Daniel Marcotte
+285 975,38 $
+Guy Marcotte
+38 564,21 $
+JORA
+113 607,62 $
+[4] Madame Maloney, Daniel Marcotte et Guy Marcotte étaient actionnaires ou employés de JORA.
+[5] Suite à cette nouvelle répartition, Revenu Québec a procédé à un ajustement rétroactif de la balance de JORA en TPS et a émis des avis de nouvelles cotisations à l'encontre de l'appelant en vertu des articles 323 et 325 de la LTA.
+Question en litige
+[6] La question en litige dans le présent appel consiste à déterminer si l'appelant, à titre d'administrateur de JORA, est solidairement tenu avec JORA de la taxe nette que cette dernière a fait défaut de remettre au Ministre. Plus précisément, le litige porte sur le droit, pour l'appelant, d'invoquer la défense de diligence raisonnable prévue au paragraphe 323(3) de la LTA afin d'être exonéré de sa responsabilité en tant qu'administrateur de JORA.
+Prétentions de l'appelant
+[7] Dans ses soumissions écrites, l'appelant prétend avoir agi avec le degré de soin et diligence qu'une personne raisonnablement prudente aurait démontré dans les mêmes circonstances afin de prévenir le manquement. Plus précisément, l'appelant soutient qu'il a procédé à l'autocotisation de JORA conformément aux prescriptions de la LTA et que lorsque l'appelant a constaté une difficulté dans le calcul du montant de la taxe nette due par JORA, il a immédiatement communiqué avec un représentant de Revenu Québec, M. Picard, afin de s'assurer de respecter ses obligations. Selon l'appelant, une entente aurait été conclue avec M. Picard à l'effet que cinq immeubles construits par JORA seraient traités comme un ensemble immobilier, permettant ainsi que les autocotisations afférentes soient toutes effectuées au plus tard le 31 décembre 2004, sans intérêt ni pénalité. Puisque Revenu Québec nie l'existence d'une telle entente, l'appelant prétend avoir été induit en erreur par M. Picard, une personne en qui il avait confiance.
+[8] L'appelant rappelle que cette Cour doit tenir compte, dans l'évaluation de la défense de diligence raisonnable, des circonstances dans lesquelles l'appelant se trouvait dans la période concernée en fonction du critère objectif tel que défini par la Cour d'appel fédérale dans l'affaire Canada c. Buckingham, 2011 CAF 142, 2011 D.T.C. 5810.
+[9] Finalement, l'appelant avance que la remise d'un chèque d'un montant de 500 000 $ par JORA alors qu'aucun avis de cotisation n'avait encore été émis témoigne de la diligence dont a fait preuve l'appelant. Pour toutes ces raisons, l'appelant soutient pouvoir bénéficier de l'exonération de responsabilité prévue au paragraphe 323(3) de la LTA.
+Prétentions de l'intimée
+[10] L'intimée est d'avis que toutes les exigences du paragraphe 323(2) de la LTA sont remplies puisqu'un certificat et un bref de saisie ont été émis le 7 avril 2008 et le 10 juin 2008 respectivement et que le bref a été exécuté sans que l'entièreté de la dette fiscale de JORA ne puisse être récupérée.
+[11] Se basant sur les enseignements de la Cour d'appel fédérale dans l'affaire Buckingham (précité), l'intimée avance que la négligence de l'appelant est observable à deux niveaux. Premièrement, l'intimée ne reconnaît pas l'existence d'une entente intervenue entre M. Picard et l'appelant. Par conséquent, l'intimée prétend que l'appelant a volontairement laissé s'écouler la date de production obligatoire des déclarations de taxe nette de JORA. Ainsi, le dépôt des formulaires de « remboursement de TPS pour immeuble d'habitation locatif neuf » le 28 février 2004 constitue une omission volontaire de l'appelant de remettre la taxe nette de JORA dans le délai prescrit.
+[12] Deuxièmement, l’intimée prétend que l’appelant, en demandant que l’imputation du paiement du 18 août 2004 soit modifiée, a fait le choix délibéré d’acquitter sa dette personnelle au détriment de celle de JORA. Puisque la décision de l’appelant est à l’origine du manquement de JORA, l’appelant ne peut pas prétendre avoir agi de façon diligente afin d’éviter le manquement visé au paragraphe 323(1) de la LTA.
+Analyse
+[13] Je suis d'accord avec la position du Ministre. La cotisation établie en vertu du paragraphe 323(1) vise une personne qui est administrateur d’une société qui doit un montant de taxe nette pour une ou plusieurs périodes de déclaration (ou un montant remboursé en trop ou des intérêts payés en trop) et qui n’a pas versé la taxe. La cotisation établie en vertu du paragraphe 325(1) vise le cessionnaire d’un bien qui a reçu ce bien d’un cédant qui a avec lui un lien de dépendance, lequel cédant devait, au moment du transfert du bien, un montant de taxe nette pour une ou plusieurs périodes de déclaration. Dans l’appel interjeté par l’appelant contre la cotisation établie en vertu du paragraphe 325(1), j’ai conclu que, au moment où le transfert a effectivement eu lieu, le cédant ne devait aucun montant de taxe nette et que des événements postérieurs au transfert qui, au moment du transfert, n’étaient pas prévus ni raisonnablement prévisibles ne devraient pas entraîner la responsabilité du cessionnaire en vertu du paragraphe 325(1).
+[14] La cotisation établie en vertu du paragraphe 323(1) se rapporte à la taxe nette due pour une ou plusieurs périodes de déclaration. Lorsqu’un montant de taxe nette pour une période de déclaration est d’abord versé au receveur général par un contribuable et que, par la suite, le contribuable répartit au profit d’autres personnes le montant du versement, on ne peut raisonnablement prétendre que le contribuable a fait le versement d’un montant de taxe nette pour une période de déclaration. Verser une somme pour ensuite la retirer ne constitue pas un versement.
+[15] J’ai beaucoup de difficulté à retenir le point de vue de l’appelant selon lequel il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement de JORA à son obligation de faire le paiement que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances : paragraphe 323(3). En l’espèce, M. Marcotte est celui qui a agi pour « retirer » le montant de taxe précédemment versé au receveur général par JORA et qui a donné la directive selon laquelle d’autres personnes, dont l’appelant lui-même, devaient être créditées du montant ainsi versé. L'appelant a reconnu signer les chèques de remise de taxes et a affirmé prendre le temps de vérifier les pièces justificatives que son adjointe lui apportait avec les chèques devant être signés. Un homme d'affaires raisonnable placé dans les mêmes circonstances aurait ainsi été au courant de l'étendue des obligations fiscales de JORA et aurait par le fait même réalisé qu'une modification de l'imputation du paiement résulterait en la création d'une dette pour JORA. Dans de telles circonstances, il serait aberrant de conclure que M. Marcotte a agi de façon diligente et que JORA a versé un montant de taxe nette pour une période de déclaration. Au bout du compte, JORA demeure redevable envers la Couronne relativement à une ou plusieurs périodes de déclaration. En fait, c’est M. Marcotte qui est à l’origine de la situation qui a permis que la dette de JORA soit « rétablie ».
+[16] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de février 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+RÉFÉRENCE : 2013 CCI 49
+Nºs DES DOSSIERS DE LA COUR : 2010-1210(GST)G
+INTITULÉ DE LA CAUSE : DANIEL MARCOTTE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : le 17 mai 2012
+MOTIFS DU JUGEMENT PAR : L'honorable Gerald J. Rip, juge en chef
+DATE DU JUGEMENT MODIFIÉ : le 7 février 2013
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jean Faullem
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jean Faullem
+Cabinet : Noël & Associés, s.e.n.c.r.l.
+Gatineau, Québec
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les autres appels portaient sur les cotisations émises à l'entre de M. Marcotte en vertu du paragraphe 325(1) de la LTA. Tous les appels ont été entendus sur preuve commune.
+[2] Les faits plus complets se retrouvent dans les motifs du jugement entre les mêmes parties : 2012 CCI 336.

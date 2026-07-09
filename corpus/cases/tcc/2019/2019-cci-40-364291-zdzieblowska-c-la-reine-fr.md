@@ -1,0 +1,185 @@
+---
+title: "Zdzieblowska c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/364291/index.do"
+last_modified: "2019-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 40"
+citation2: ""
+neutral_citation: "2019 CCI 40"
+decision_date: "2019-02-22"
+language: "fr"
+item_id: "364291"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4331
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:24:50.209000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b1067a7dc61e8aacf2a73c6eb90ea2e16043dd496cd3f76dce4232d1038cf59"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zdzieblowska c. La Reine
+
+- Citation: 2019 CCI 40
+- Decision date: 2019-02-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zdzieblowska c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-22
+Référence neutre
+2019 CCI 40
+Numéro de dossier
+2017-1615(GST)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2017-1615(GST)I
+ENTRE :
+DOMINIKA ZDZIEBLOWSKA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 18 janvier 2019, à Toronto (Ontario)
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Représentant de l’appelante :
+Nino Cioffi
+Avocates de l’intimée :
+Me Diana Aird
+Me Natasha Mukhtar
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+L’appel interjeté contre une cotisation, dont l’avis est daté du 27 octobre 2015, conformément à la Loi sur la taxe d’accise, relativement à un remboursement pour immeubles d’habitation locatifs neufs au titre du paragraphe 256.2(3) est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 22e jour de février 2019.
+« S. D’Arcy »
+Juge D’Arcy
+Référence : 2019 CCI 40
+Date : 20190221
+Dossier : 2017-1615(GST)I
+ENTRE :
+DOMINIKA ZDZIEBLOWSKA,
+appelante,
+et
+SA MAJESTÉ LA REINE
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE].
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelante a interjeté appel d’une cotisation dans laquelle le ministre du Revenu national (le « ministre ») a rejeté, au titre du paragraphe 256.2(3), sa demande de remboursement pour immeubles d’habitations locatifs neufs (le « remboursement pour immeubles locatifs »). Cet appel soulève une question dont la Cour a souvent été saisie au cours des dernières années. La question a trait à l’application du paragraphe 296(2.1) de la partie IX de la Loi sur la taxe d’accise et se pose dans la situation suivante :
+- Une personne achète une maison neuve et est créditée par le constructeur de la maison conformément au paragraphe 254(2) (le « remboursement pour habitations neuves »).
+- L’Agence du revenu du Canada détermine par la suite que la personne n’était pas admissible au remboursement pour habitations neuves au motif que cette personne n’était pas la première personne à occuper la maison après qu’elle a été essentiellement terminée; la personne a plutôt loué la maison à un tiers. Dans cette situation, le ministre établit une cotisation à l’égard de la personne pour le montant du remboursement pour habitations neuves qui lui a été crédité par le constructeur.
+- La personne présente ensuite une demande de remboursement pour immeubles locatifs. Toutefois, la demande est présentée après le délai de deux ans imposé par le sous-alinéa 256.2(7)a)(iii).
+[2] La question dont la Cour est souvent saisie est de savoir dans quelles circonstances le paragraphe 296(2.1) s’applique, concrètement, pour permettre à une personne de réclamer le remboursement pour immeubles locatifs après l’expiration du délai de deux ans.
+[3] Comme je l’expliquerai, la décision relative à cette question dépend, en premier lieu, de la question de savoir si l’appelante, dans une affaire donnée, interjette appel d’une cotisation au titre du paragraphe 297(2.1) d’un montant payable à l’égard d’un remboursement qui a déjà été versé à l’appelante par erreur, ou si l’appelante interjette appel d’une cotisation au titre du paragraphe 297(1) qui ne fait que rejeter une demande de remboursement conforme.
+[4] Si l’appelante interjette appel d’une cotisation au titre du paragraphe 297(2.1) d’un « montant payable » à l’égard d’un remboursement (comme dans le cas d’un appel de la cotisation, dans l’exemple précédent, à l’égard du remboursement pour habitations neuves), alors le paragraphe 296(2.1) peut s’appliquer au titre du paragraphe 297(2.1) pour déduire le montant de la cotisation au titre du paragraphe 297(2.1) du remboursement pour immeubles locatifs.
+[5] Toutefois, le paragraphe 296(2.1) ne s’applique pas si l’appelante interjette appel d’une cotisation au titre du paragraphe 297(1) qui n’établit pas un montant, mais qui ne fait que rejeter une demande de remboursement (comme dans le cas d’un appel d’une cotisation, dans l’exemple précédent, à l’égard du remboursement pour immeubles locatifs).
+I. Résumé des faits
+[6] Le 1er mars 2013, l’appelante a signé une entente d’achat d’une maison située au 45, chemin Hatton Garden, Vaughn (Ontario) (la « nouvelle maison »). L’appelante a signé le contrat d’achat avec le constructeur de la nouvelle maison.
+[7] L’appelante a pris possession de la nouvelle maison le 16 avril 2013. Le constructeur, conformément au paragraphe 254(4), a crédité à l’appelante le montant de 24 000 $ à titre de remboursement pour habitations neuves.
+[8] Dans un avis de cotisation daté du 13 août 2014, le ministre a refusé le remboursement pour habitations neuves et a établi la cotisation de l’appelante à 24 000 $ plus les intérêts sur les arriérés (la « cotisation de la nouvelle habitation »). L’appelante a déclaré qu’elle n’a reçu la cotisation de la nouvelle habitation qu’en août 2015. L’appelante n’a pas signifié d’avis d’opposition concernant la cotisation de la nouvelle habitation.
+[9] Le 5 août 2015, l’appelante a déposé une demande de remboursement pour immeubles locatifs de 24 000 $. L’Agence du revenu du Canada n’a pas versé le remboursement à l’appelante. Le ministre a plutôt établi une cotisation en date du 28 août 2015, dans laquelle il rejette la demande de remboursement pour immeubles locatifs présentée par l’appelante. L’appelante a signifié un avis d’opposition concernant le refus du ministre relatif au remboursement pour immeubles locatifs. Le ministre a confirmé le montant de la cotisation. L’appelante a ensuite interjeté appel.
+A. Première question : la demande de remboursement pour immeubles locatifs a‑t‑elle été déposée dans le délai de deux ans prévu au sous‑alinéa 256.2(7)a)(iii)?
+[10] Le sous-alinéa 256.2(7)a)(iii) prévoit, en partie, que le remboursement pour immeubles locatifs ne peut être versé à une personne à l’égard d’une habitation, à moins que cette personne ne présente une demande de remboursement dans les deux ans suivant la fin du mois où la taxe devient payable par cette personne pour la première fois à l’égard de cette habitation.
+[11] Le paragraphe 123(1) définit l’habitation comme étant une maison individuelle, jumelée, en rangée, ou une unité en copropriété. La nouvelle maison est une habitation.
+[12] Au titre du paragraphe 168(5), la taxe relative à l’achat de la nouvelle maison par l’appelante est devenue payable le 16 avril 2013, soit le jour où l’appelante a pris possession de la maison. Par conséquent, l’appelante était tenue de déposer la demande de remboursement pour immeubles locatifs au plus tard le 30 avril 2015. Elle a déposé la demande le 5 août 2015. Ainsi, elle n’avait pas droit à un remboursement au titre de l’article 256.2.
+[13] L’appelante a soulevé le fait qu’elle n’avait pas reçu la cotisation de la nouvelle habitation avant août 2015. Bien que cela puisse être pertinent aux fins du délai pour le dépôt d’un avis d’opposition à la cotisation de la nouvelle habitation, cela n’est pas pertinent aux fins de la détermination du délai prévu au sous-alinéa 256.2(7)a)(iii) en ce qui concerne le remboursement pour immeubles locatifs. De plus, l’appelante a informé la Cour qu’elle avait décidé en 2015, après avoir reçu la cotisation de la nouvelle habitation, de ne pas signifier un avis d’opposition relativement à cette cotisation.
+[14] Dans son avis d’appel, l’appelante fait valoir que la demande qu’elle a présentée relativement au remboursement pour immeubles locatifs devrait être considérée comme une modification à la demande de remboursement pour habitations neuves qu’elle a présentée dans le délai de prescription de deux ans prévu par la loi.
+[15] Je ne peux accepter cet argument.
+[16] Le paragraphe 262(1) prévoit qu’une demande de remboursement, comme le remboursement pour habitations neuves et le remboursement pour immeubles locatifs, « est présentée au ministre en la forme et selon les modalités qu’il détermine et contient les renseignements requis ».
+[17] Voici comment le terme « prescrit » est défini dans la version française du paragraphe 123(1) :
+« prescrit »
+a) Dans le cas d’un formulaire, établi selon les instructions du ministre; dans le cas de renseignements à inscrire sur un formulaire ou de modalités de production d’un formulaire, déterminés selon les instructions du ministre;
+b) dans les autres cas, visé par le règlement, y compris déterminé conformément à des règles prévues par règlement.
+[18] Le formulaire à remplir pour un remboursement pour immeubles locatifs est le formulaire GST524, tandis que le formulaire à remplir pour le remboursement pour habitations neuves est le formulaire GST190. De nombreux renseignements demandés dans le formulaire de remboursement pour immeubles locatifs ne sont pas demandés dans le formulaire de remboursement pour habitations neuves.
+[19] Lorsque l’appelante a produit le formulaire de remboursement pour habitations neuves, elle n’a pas produit le formulaire prescrit pour le remboursement pour immeubles locatifs et elle n’a pas fourni les renseignements prescrits. Par conséquent, elle n’a pas satisfait à l’exigence de présenter une demande de remboursement pour immeubles locatifs dans les deux ans suivant la fin du mois au cours duquel l’impôt est devenu payable relativement à l’achat de la nouvelle maison.
+B. Deuxième question : l’appelante devrait-elle avoir droit au remboursement pour immeubles locatifs au titre du paragraphe 296(2.1)?
+[20] Le paragraphe 296(2.1) oblige le ministre, dans certaines circonstances, à déduire les cotisations de la taxe nette d’une personne ou des montants devenus payables par la personne au titre de la partie IX de la Loi des montants qui ne sont pas autrement payables parce que la personne n’a pas demandé le remboursement dans la période prévue par la loi.
+[21] La disposition est ainsi rédigée :
+296(2.1) Application d’un montant de remboursement non demandé — Le ministre, s’il constate les faits ci-après relativement à un montant (appelé « montant de remboursement déductible » au présent paragraphe) lors de l’établissement d’une cotisation concernant la taxe nette d’une personne pour une période de déclaration de celle-ci ou concernant un montant (appelé « montant impayé » au présent paragraphe) qui est devenu payable par une personne au titre de la présente partie, applique tout ou partie du montant de remboursement déductible en réduction de la taxe nette ou du montant impayé comme si la personne avait payé ou versé, à la date visée aux sous-alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de la taxe nette ou du montant impayé :
+(a) le montant de remboursement déductible aurait été payable à la personne à titre de remboursement s’il avait fait l’objet d’une demande produite aux termes de la présente partie à la date suivante et si, dans le cas où le remboursement vise un montant qui fait l’objet d’une cotisation, le personne avait payé ou versé ce montant :
+(i) si la cotisation concerne la taxe nette pour la période de déclaration, la date limite de production de la déclaration aux termes de la section V pour la période,
+(ii) si la cotisation concerne un montant impayé, la date à laquelle ce montant est devenu payable par la personne;
+(b) le montant de remboursement déductible n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
+(c) le montent de remboursement déductible serait payable à la personne s’il faisait l’objet d’une demande produite aux termes de la présente partie le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
+[22] Le paragraphe 296(2.1) ne s’applique que lorsque le ministre établit la taxe nette d’une personne pour une période de déclaration de celle-ci, ou qu’il établit le montant (appelé « montant impayé ») qui est devenu payable par la personne au titre de la partie IX de la Loi sur la taxe d’Accise. La partie IX est la partie de la Loi sur la taxe d’accise qui contient toutes les dispositions relatives à la taxe sur les produits et services (TPS).
+[23] La taxe nette d’une personne pour une période de déclaration est établie au titre de l’alinéa 296(1)a). Elle est calculée au titre du paragraphe 225(1) et, de façon générale, représente la TPS perçue ou recouvrable par la personne au cours de la période de déclaration, moins les crédits de taxe sur les intrants que la personne demande dans sa déclaration de TPS.
+[24] Comme la Cour l’a souligné à de nombreuses reprises, les cotisations liées au refus de remboursement demandé par une personne, y compris le remboursement pour immeubles locatifs et le remboursement pour habitations neuves, ne sont pas incluses dans le calcul de la taxe nette et ne sont donc pas prises en compte dans une cotisation au titre de l’alinéa 296(1)a).
+[25] Ainsi, le paragraphe 296(2.1) ne s’applique à une cotisation relative au refus d’un remboursement que si cette cotisation comporte l’établissement d’un montant qui est devenu payable par une personne au titre de la partie IX de la Loi sur la taxe d’accise.
+[26] Diverses dispositions de la partie IX de la Loi sur la taxe d’accise font en sorte que des montants deviennent payables par une personne.
+[27] La disposition pertinente dans le cadre du présent appel est une cotisation de la taxe exigible au titre du paragraphe 264(1) à l’égard d’un montant remboursé en trop au titre de la section VI. Cela comprendrait les montants remboursés en trop pour les remboursements pour habitations neuves ou pour les remboursements pour immeubles locatifs. Voici les parties pertinentes de la disposition :
+Lorsqu’est payé à une personne, ou déduit d’une somme dont elle est redevable, un montant au titre d’un remboursement prévu […] à la présente section, sauf l’article 253, ou des intérêts prévus à l’article 297 auquel la personne n’a pas droit ou qui excède le montant auquel elle a droit, la personne est tenue de verser au receveur général un montant égal au montant remboursé, aux intérêts ou à l’excédent le jour de ce paiement ou de cette déduction.
+[Non souligné dans l’original.]
+[28] Le paragraphe 264(1) s’applique lorsque l’Agence du revenu du Canada a versé à une personne un montant à l’égard d’un remboursement au titre de la section VI, comme le remboursement pour habitations neuves ou le remboursement pour immeubles locatifs, et qu’il est établi par la suite que la personne n’avait pas droit au remboursement ou qu’un montant excédentaire lui a été versé. Dans une telle situation, le ministre établit une cotisation soit pour le montant du remboursement, soit pour le montant payé en trop.
+[29] La détermination d’un montant dû en application du paragraphe 264(1) n’est pas faite au titre de l’article 296; le ministre le détermine plutôt au titre du paragraphe 297(2.1). Le paragraphe 297(2.1) prévoit que « [l]e ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer un montant payable par une personne en application de l’article 264 même si une cotisation a déjà été établie à l’égard du montant ».
+[30] Il est important de reconnaître qu’un montant n’est payable au titre du paragraphe 264(1) et déterminé au titre du paragraphe 297(2.1) que si un montant a déjà été versé à la personne à l’égard d’un remboursement.
+[31] Par exemple, le paragraphe 264(1) s’applique dans le cas où une personne dépose le formulaire de remboursement pour habitations neuves auprès du constructeur, où le constructeur paie ou crédite le montant du remboursement à la personne au titre du paragraphe 254(4), et où le ministre détermine par la suite que la personne n’a pas droit au remboursement pour habitations neuves. Dans une telle situation, le ministre, au titre de la section VI, a versé à une personne un remboursement auquel elle n’a pas droit. Par conséquent, au titre du paragraphe 297(2.1), le ministre établit la cotisation de la personne pour ce montant remboursé en trop.
+[32] Au moment d’établir la cotisation au titre du paragraphe 297(2.1) pour le montant remboursé en trop, le ministre tient compte du paragraphe 296(2.1) puisqu’il établit un montant qui est devenu payable par la personne au titre de la partie IX de la Loi. Si le ministre détermine un remboursement pour habitations neuves qui a été versé par erreur, il doit déterminer si le montant établi devrait, conformément au paragraphe 296(2.1), être déduit de tout autre remboursement auquel la personne peut avoir droit, comme un remboursement pour immeubles locatifs. Il doit prendre cette décision, peu importe si la personne a effectivement présenté ou non une demande de remboursement pour immeubles locatifs.
+[33] Avant d’appliquer le paragraphe 296(2.1), le ministre veille à ce que les conditions prévues aux alinéas 296(2.1)a), b) et c) soient remplies. Par exemple, l’alinéa 296(2.1)b) prévoit que le remboursement admissible ne doit pas avoir été réclamé dans une demande déposée avant la date à laquelle l’avis de cotisation est envoyé à l’égard du montant payable par la personne. C’est ce qui s’est produit dans l’affaire Poirier c. La Reine [1] , dans laquelle mon collègue, le juge Smith, a conclu que l’appelant n’avait pas droit aux prestations prévues à l’alinéa 296(2.1)b), puisqu’il avait présenté une demande de remboursement pour immeubles locatifs avant que le ministre n’établisse une cotisation au titre du paragraphe 297(2.1) pour le montant qui lui avait été versé par erreur pour le remboursement pour habitations neuves.
+[34] L’appelante a interjeté appel du refus de sa demande de remboursement pour immeubles locatifs. Il ne s’agit pas d’une situation où le ministre a versé un montant à une personne à l’égard d’un remboursement, puis a déterminé que cette personne n’avait pas droit au remboursement. Le fait est plutôt que le ministre a rejeté la demande de remboursement avant de verser un montant quelconque à l’appelante.
+[35] Par conséquent, aucun montant n’a été versé à l’appelante à l’égard du remboursement pour immeubles locatifs et le ministre n’a donc pas établi un montant payable par la personne au titre de la partie IX de la Loi. La cotisation établie par le ministre est une cotisation au titre du paragraphe 297(1) rejetant la demande; il n’en résulte pas qu’un montant devient payable par l’appelante au titre de la partie IX de la Loi. Par conséquent, le paragraphe 296(2.1) ne s’applique pas à la cotisation rejetant le remboursement pour immeubles locatifs.
+[36] Le paragraphe 296(2.1) aurait pu s’appliquer à la cotisation établie par le ministre à l’égard du remboursement pour habitations neuves. Étant donné que l’appelante a fait l’objet d’une cotisation, au titre du paragraphe 297(2.1), d’un montant de 24 000 $ conformément à l’article 264, le ministre aurait dû tenir compte du paragraphe 296(2.1) lorsqu’il a établi la cotisation à l’égard du remboursement pour habitations neuves. Le ministre aurait notamment dû déduire le montant établi à l’égard du remboursement pour habitations neuves du montant du remboursement pour immeubles locatifs si les conditions des alinéas a), b) et c) du paragraphe 296(2.1) étaient remplies au moment de l’établissement de la cotisation.
+[37] Malheureusement, l’appelante n’a pas déposé d’avis d’opposition au remboursement pour habitations neuves : la Cour n'a pas en main un tel document.
+[38] En résumé, le paragraphe 296(2.1) ne s’applique pas à l’établissement de la cotisation par le ministre, au titre du paragraphe 297(1), qui rejette la demande de remboursement pour immeubles locatifs présentée par l’appelante.
+[39] Pour les raisons ci-dessus, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 22e jour de février 2019.
+« S. D’Arcy »
+Juge D’Arcy
+RÉFÉRENCE :
+2019 CCI 40
+NO DU DOSSIER DE LA COUR :
+2017-1615(GST)I
+INTITULÉ :
+Dominika Zdzieblowska c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 22 février 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Nino Cioffi
+Avocates de l’intimée :
+Me Diana Aird
+Me Natasha Mukhtar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 2019 CCI 8.

@@ -1,0 +1,154 @@
+---
+title: "DeForest c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26856/index.do"
+last_modified: "2007-01-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 26"
+citation2: ""
+neutral_citation: "2007 CCI 26"
+decision_date: "2007-01-19"
+language: "fr"
+item_id: "26856"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 662
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:01:36.791000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "10aff421d3fcda9a19ab1f8601d5c35903764757ae249c5f752558738ade97a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DeForest c. La Reine
+
+- Citation: 2007 CCI 26
+- Decision date: 2007-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 662, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeForest c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-19
+Référence neutre
+2007 CCI 26
+Numéro de dossier
+2006-558(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-558(IT)I
+ENTRE :
+MELVIN E. DEFOREST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 novembre 2006 à Prince Albert (Saskatchewan)
+Devant : L’honorable juge G. Sheridan.
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2007CCI26
+Date : 20070119
+Dossier : 2006-558(IT)I
+ENTRE :
+MELVIN E. DEFOREST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Melvin DeForest, interjette appel de la nouvelle cotisation établie à son égard par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2003. Le ministre a refusé à l’appelant la déduction d’une perte finale subie par suite de la vente d’un hôtel qui lui appartenait et qui était situé à Yellow Creek, en Saskatchewan. En ratifiant la nouvelle cotisation d’impôt pour l’année d’imposition en cause, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) la perte finale déduite se rapportait à la disposition d’une immobilisation connue sous le nom de Yellow Creek Hotel (l’« hôtel »);
+b) l’hôtel est situé dans le village de Yellow Creek, en Saskatchewan;
+c) l’appelant a acheté l’hôtel en 1999 ou en 2000, ou vers cette époque‑là;
+d) l’appelant n’a pas été en mesure de prouver le montant qu’il avait payé pour l’achat initial de l’hôtel;
+e) dans le calcul de son revenu pour les années d’imposition 2001 et 2002, l’appelant a déduit des pertes d’entreprise nettes de 14 278 $ pour 2001 et de 9 830 $ pour 2002 au titre de l’exploitation de l’hôtel;
+f) le 26 avril 2002, l’appelant a conclu un accord prévoyant la vente de l’hôtel, de l’entreprise et de l’équipement de celle‑ci (l’« accord ») à Donald et Christine Duh (les « acheteurs »);
+g) conformément à l’accord, les acheteurs devaient verser à l’appelant la somme de 30 000 $, payable par versements mensuels de 500 $ échelonnés sur une période de 60 mois, le premier paiement étant exigible le 1er juin 2002 et le dernier le 1er mai 2007;
+h) aux termes de l’accord, les acheteurs devaient prendre possession de l’hôtel et lancer l’entreprise le 1er juin 2002;
+i) aux termes de l’accord, celui‑ci serait frappé de nullité à la discrétion de l’appelant si les paiements pour l’achat de l’hôtel étaient en retard ou impayés pendant deux mois;
+j) l’appelant a repris possession de l’hôtel, étant donné que les acheteurs n’avaient pas effectué les paiements conformément à l’accord;
+k) l’appelant a été incapable de prouver qu’il avait engagé des dépenses en capital pour la rénovation de l’hôtel;
+l) en déduisant les pertes d’entreprise au titre de l’exploitation de l’hôtel pour les années 2001 et 2002, l’appelant n’a déclaré aucun revenu pour ces deux années;
+m) l’appelant a été incapable de fournir quelque renseignement que ce soit au sujet des dépenses qui constituaient les pertes d’entreprise déduites pour les années 2001 et 2002;
+n) les dépenses pour la rénovation de l’hôtel, si elles ont été engagées, ont été considérées comme des dépenses courantes lorsqu’ont été déterminées les pertes d’entreprise déduites par l’appelant pour les années d’imposition 2001 et 2002;
+o) l’appelant a par la suite disposé de l’hôtel, dont le produit de la vente en 2003 s’est élevé à 500 $;
+p) l’appelant n’a pas subi de perte finale à la disposition de l’hôtel[1].
+[2] Cet exposé des événements est peu révélateur de la mesure dans laquelle le temps qu’il a été propriétaire de l’hôtel a été très peu rémunérateur.
+[3] L’appelant, le seul témoin cité à l’audience régie par la procédure informelle, a expliqué qu’en 2000, il avait été engagé comme gestionnaire de projet pour la société Cameco. Son travail exigeait de lui qu’il demeure plusieurs jours durant dans le Nord de la Saskatchewan, après quoi, il avait une période de congé. En 2000, il a acheté un hôtel sur un lot situé dans le petit village de Yellow Creek pour 3 600 $. Il croyait (comme il l’a appris plus tard, à tort) qu’il pouvait gérer l’entreprise durant ses jours de congé et en confier la gestion à ses employés pendant qu’il travaillait dans le Nord. L’hôtel était dans un piètre état lorsqu’il l’a acquis et il a estimé que, à l’exclusion du coût de son propre temps, il avait effectué dans l’hôtel des rénovations coûtant environ 3 600 $.
+[4] En mai 2001, l’hôtel a ouvert au public. Bien qu’il ait eu des chambres à louer, c’était principalement pour garantir le respect des lois de la Saskatchewan concernant les boissons alcooliques. Les véritables activités de l’hôtel consistaient à vendre des boissons alcooliques. Au cours de chacune des années 2001 et 2002, l’entreprise hôtelière a perdu de l’argent. Selon l’appelant, ses coûts d’exploitation excédaient de loin le revenu. En réponse à l’hypothèse 8l), il a dit qu’il avait cru comprendre qu’il lui était seulement nécessaire d’indiquer dans sa déclaration de revenus la perte d’exploitation, plutôt que de présenter à la fois les revenus et les dépenses, puis le calcul des pertes. Quant au caractère insuffisant de ses documents à l’appui, il a expliqué qu’en 2001, la région de Yellow Creek avait subi de graves inondations et que les registres qu’il possédait avaient soit été détruits ou détériorés de façon importante par de la moisissure. De plus, il n’avait ni le temps ni l’expérience pour tenir des registres détaillés.
+[5] En 2002, se rendant compte que son entreprise battait de l’aile, l’appelant a conclu un accord prévoyant la vente de l’entreprise hôtelière pour 30 000 $. Or, il s’est avéré que les acheteurs éventuels ont manqué à leurs obligations contractuelles après avoir effectué seulement quatre versements de 500 $ chacun. Ils ont vidé l’hôtel et ont décampé, le laissant avec une vente bâclée et des taxes impayées de 2 261,81 $. L’appelant a tenté en vain d’obtenir l’exécution de l’accord de vente devant la Cour des petites créances. En fin de compte, il s’est retrouvé avec une propriété qui était plus ou moins dans son état initial, non amélioré, et une dette de quelque 6 000 $. Il a remboursé cette somme pour conserver sa cote de crédit. Finalement, en 2003, il a réussi à vendre l’immeuble pour 500 $.
+[6] Dans sa déclaration de revenu pour l’année 2003, l’appelant a déclaré ce qui était à sa connaissance une perte finale au titre de l’entreprise hôtelière. Il a chiffré le montant de cette perte à 29 500 $[2], soit 30 000 $, moins 500 $, somme pour laquelle il a en fin de compte disposé de l’hôtel. En contre‑interrogatoire, l’appelant a admis volontiers qu’il n’avait jamais tenu de registre relatif à la déduction pour amortissement : par exemple, il n’avait pas ventilé son coût de 3 600 $ entre l’immeuble de l’hôtel et le lot[3] sur lequel il était situé, il n’avait pas énuméré les améliorations apportées aux immobilisations qui auraient pu être admissibles en tant que biens amortissables, et il n’avait pas suivi ou déduit la dépréciation de ces actifs. Au nombre de ses raisons pour ne pas l’avoir fait figurent les suivantes : l’hôtel était une très petite entreprise qui fonctionnait à perte, il avait assez de dépenses et de pertes d’entreprise pour ne pas se soucier de demander une déduction pour amortissement et, de toute façon, il ne comprenait pas le régime de déduction pour amortissement et il n’avait pas les connaissances spécialisées permettant de tenir des registres en conséquence.
+[7] Eu égard à ces circonstances, je suis persuadée, compte tenu de l’argument de l’intimée, que l’appelant n’a pas réfuté les hypothèses du ministre. En résumé, une perte finale est ce qui survient dans le cadre du régime de déduction pour amortissement lorsque l’on dispose de tous les actifs dans une catégorie particulière et qu’il reste une fraction non amortie du coût en capital[4]. Pour être en mesure d’établir s’il existe une perte finale, un contribuable doit avoir, entre autres, cerné ses immobilisations, déterminé s’ils font partie d’une catégorie aux fins de la déduction pour amortissement en application de la Loi de l’impôt sur le revenu (la « Loi »), appliqué le taux d’amortissement approprié à leur coût d’acquisition et déduit le montant résultant de ce calcul pour les années antérieures à la disposition. Comme il ressort même de ce court résumé, le régime de déduction pour amortissement est compliqué et ne permet des déductions que lorsque le contribuable a rempli les conditions rigoureuses de ce régime, comme en témoigne une tenue de registres adéquate[5].
+[8] L’appelant s’est vu accorder toutes les occasions de repérer autant de documents que possible pour appuyer sa demande de déduction. Afin de lui accorder plus de temps pour le faire, j’ai ajourné l’instruction de la présente affaire, qui était initialement prévue pour août 2006, jusqu’à mes audiences de novembre tenues à Prince Albert. Pour sa part, bien qu’elle ait été prête à procéder en août, l’avocate de l’intimée ne s’est pas opposée à l’ajournement et elle a fait tout son possible pour se rendre disponible (même jusqu’à l’audience et pendant celle‑ci) afin d’aider l’appelant à examiner soigneusement ses documents. À l’étape de l’opposition, les fonctionnaires de l’Agence du revenu du Canada ont présenté des demandes répétées de documents et ont expliqué les types de documents requis. Bien que l’appelant n’ait pas répondu à leurs demandes, je suis convaincue qu’avant la présente audience, il a tenté en toute bonne foi de rassembler tout ce qu’il était capable de trouver.
+[9] Malheureusement, les efforts qu’il a déployés à cet égard n’ont pas été suffisants pour lui permettre de se décharger du fardeau qui lui incombait de réfuter les hypothèses sur lesquelles le ministre a fondé sa cotisation. Compte tenu de l’insuffisance des registres de l’appelant, et en particulier de l’absence de registres relatifs à la déduction pour amortissement, et de son incapacité à remplir les conditions requises pour la déduction d’une perte finale qui sont fixées par la Loi, rien ne justifie de modifier la nouvelle cotisation du ministre. Par conséquent, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2007.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2007CCI26
+Nº DU DOSSIER DE LA COUR : 2006-558(IT)I
+INTITULÉ : Melvin E. Deforest et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Prince Albert (Saskatchewan)
+DATE DE L’AUDIENCE : Le 3 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 19 janvier 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Il s’agit d’une conclusion de droit plutôt que d’une hypothèse de fait.
+[2] Pour des raisons qu’il ne peut plus expliquer, ce montant a été mentionné dans sa déclaration de revenu pour l’année 2003 comme étant de 29 250 $ plutôt que de 29 500 $.
+[3] Une distinction importante, puisque les terrains ne donnent pas droit à une déduction pour amortissement.
+[4] Calculée conformément à la formule établie au paragraphe 20(16) de la Loi.
+[5] L’article 230 de la Loi oblige le contribuable à tenir des registres et des livres de comptes adéquats.

@@ -1,0 +1,171 @@
+Title: Denhaan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28517/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-126-28517-denhaan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-28
+
+# Denhaan c. La Reine
+
+- Citation: 2008 CCI 126
+- Decision date: 2008-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1246, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Denhaan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-28
+Référence neutre
+2008 CCI 126
+Numéro de dossier
+2007-342(GST)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-342(GST)I
+ENTRE :
+MARILYN DENHAAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juin 2007, à London (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelante :
+Me Fausto Boniferro
+Avocat de l’intimée :
+Me Andrew Miller
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 9 décembre 2005 et porte le numéro A108105, pour la période du 1er janvier 2002 au 31 décembre 2003 est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de février 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 25e jour de mars 2008.
+Jean David Robert, traducteur
+Référence : 2008CCI126
+Date : 20080228
+Dossier : 2007-342(GST)I
+ENTRE :
+MARILYN DENHAAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel est interjeté à l’encontre d’une cotisation établie en vertu de la Loi sur la taxe d’accise[1], partie IX (la « LTA »), au titre de la taxe sur les produits et services ainsi que des intérêts et des pénalités qui s’y rapportent. L’inscrit qui a fourni les services qui ont donné lieu à la responsabilité initiale prévue à la LTA est Huron Tax Consultants (ci‑après « HTC »). La dette de l’inscrit se rapporte à la période du 1er janvier 2002 au 31 décembre 2003, et les intérêts et les pénalités applicables sont calculés jusqu’au 9 décembre 2005. Les montants en cause sont les suivants :
+TPS nette
+13 299,55 $
+Intérêts
+1 107,72
+Pénalité
+2 677,52
+Total
+17 084,79 $
+À l’audience, les parties n’ont pas contesté qu’il s’agissait là d’un relevé exact de la dette de HTC. La question litigieuse en l’espèce porte sur le droit du ministre du Revenu national (le « ministre ») d’établir une cotisation à l’égard de l’appelante concernant la dette de HTC.
+[2] La prétention du ministre selon laquelle il a le droit d’établir une cotisation à l’égard de l’appelante au titre de la dette de HTC est fondée sur les alinéas 6a) et b) de la réponse à l’avis d’appel, qui sont ainsi rédigés :
+[traduction]
+6. En établissant à l’égard de l’appelante une cotisation de TPS en application du paragraphe 272.1(5) de la Loi et en la confirmant, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) Huron Tax Consultants (la « société de personnes ») a exercé ses activités en tant que société de personnes pendant les années d’imposition 2002 et 2003;
+b) La société de personnes était formée de deux associés, Harry DenHaan et Marilyn DenHaan, pendant les années d’imposition 2002 et 2003;
+L’appelante fait valoir que le ministre est empêché par préclusion d’alléguer ces deux faits à cause de la position qu’il a adoptée antérieurement lorsqu’il a établi des cotisations à l’égard de Harry DenHaan et de Marilyn DenHaan en vertu de la Loi de l’impôt sur le revenu[2]. Pour comprendre cet argument, il est nécessaire d’examiner les déclarations antérieures produites par l’appelante et son époux Harry DenHaan ainsi que les cotisations antérieures établies à leur égard. Ce qui suit ressort des témoignages de Harry DenHaan et de l’appelante elle‑même ainsi que des documents qui ont été produits en preuve à l’audience.
+[3] Le père de Harry DenHaan exploitait une entreprise de consultation, et Harry DenHaan a pris la suite de son père dans celle‑ci et l’a déménagée à Seaforth, en Ontario, en 1979. Il a changé le nom de l’entreprise à « Huron Tax Consultants ». Les services que HTC offrait au public comprenaient la prestation de conseils sur des questions fiscales et l’établissement de déclarations de revenu. En 1985, l’épouse de Harry DenHaan, l’appelante, est devenue une associée de l’entreprise. Selon le témoignage de Mme DenHaan, ses fonctions dans l’entreprise se rapportaient à la gestion du bureau, et elle était notamment chargée de s’occuper des appels téléphoniques, de fixer les rendez‑vous, d’effectuer la tenue des comptes, les opérations bancaires et les livraisons, et de s’occuper du courrier. Apparemment, un contrat écrit de société de personnes n’a jamais été établi, mais de 1985 à 2003, M. DenHaan et son épouse ont tous deux produit des déclarations de revenu dans lesquelles le revenu de l’entreprise était réparti entre M. DenHaan et son épouse en tant qu’associés, et ce, dans une proportion de 60 % à 40 %. L’Agence du revenu du Canada (l’« ARC ») a accepté cet état de fait jusqu’en 2001, année où elle a procédé à une vérification de HTC en matière d’impôt sur le revenu pour les années d’imposition 1997 et 1998 et à une vérification de l’entreprise en matière de TPS pour la période de 1992 à 1998.
+[4] Les résultats de la vérification sont exposés dans une lettre du vérificateur à l’intention de Harry DenHaan qui est datée du 24 août 2001. Cette lettre expliquait plusieurs rajustements que le vérificateur avait l’intention d’effectuer par la voie de nouvelles cotisations et qui allaient donner lieu à une augmentation du revenu de Harry DenHaan et à un accroissement du montant de la TPS due par l’entreprise, mais le rajustement qui est particulièrement pertinent pour les besoins de la présente analyse est exposé au troisième paragraphe de cette lettre. Ce dernier est ainsi rédigé :
+[traduction]
+Notre examen nous a permis de constater que plusieurs entreprises individuelles sont aussi déclarées en tant qu’entités faisant partie de la société de personnes Huron Tax Consultants. Ceci n’est pas permis. Étant donné que Huron Tax Consultants est inscrite aux fins de la TPS en tant qu’entreprise individuelle, nous avons l’intention d’augmenter le revenu d’entreprise net que vous avez déclaré dans vos déclarations de revenu pour les années 1997 et 1998 de sorte qu’il reflète le fait que Huron Tax Consultants et les entreprises qui la composent sont une entreprise à propriétaire unique. Nous n’avons pas non plus trouvé de preuve explicite démontrant que l’entreprise de prestation de conseils fiscaux est une société de personnes appartenant à vous et à votre épouse respectivement à 60 % et à 40 %. En raison du rajustement que nous avons l’intention d’effectuer, ainsi que de l’augmentation du revenu d’entreprise qui en résulterait, nous envisageons d’accroître votre revenu imposable de 136 332 $ pour l’année 1997 et de 121 648 $ pour l’année 1998. Les déclarations de votre épouse seront rajustées en conséquence pour en supprimer la mention de la part de 40 % dans la société de personnes.
+[5] Le ministre a effectivement fini par établir les nouvelles cotisations évoquées dans la lettre à l’égard de Harry DenHaan. Ce dernier a déposé des avis d’opposition, et le ministre a ratifié les nouvelles cotisations. Harry DenHaan les a portées en appel devant la Cour, adoptant la position selon laquelle HTC était véritablement une société de personnes formée de lui et de son épouse. Ces appels n’ont jamais été instruits par la Cour. En janvier 2005, M. DenHaan a écrit une lettre à l’ARC pour faire savoir qu’il se désistait de ses appels. Dans cette lettre, il a clairement indiqué qu’il considérait les nouvelles cotisations comme inexactes, mais qu’il retirait les appels parce qu’il n’avait pas les moyens de retenir les services d’un avocat et qu’il était en mauvaise santé, état qu’il a attribué au litige qui perdurait. Il a ensuite demandé que de nouvelles cotisations conformes aux nouvelles cotisations dont il avait fait l’objet soient établies à l’égard des déclarations de son épouse produites pour les années concernées.
+[6] La réponse à cette demande est venue dans une lettre de l’ARC datée du 8 décembre 2005 et adressée à l’appelante. Elle devait faire l’objet de nouvelles cotisations pour les années 1997 et 1998 pour que soit supprimé le montant qu’elle avait déclaré en tant que revenu tiré d’une société de personnes. L’ARC n’a pas accepté d’établir de nouvelles cotisations pour les années 1999 et 2000, étant donné que les déclarations de l’époux de la demanderesse pour ces années‑là étaient alors frappées de prescription, et elle a informé Mme DenHaan que sa demande de modification de ses déclarations pour les années 2001, 2002 et 2003 faisait l’objet d’un examen plus approfondi. Dans une lettre datée du 9 décembre 2005, la demande de l’appelante visant à obtenir la modification de ses déclarations pour les années 2001, 2002 et 2003 a été refusée. Bien que cette lettre soit longue, je la reproduirai intégralement, étant donné qu’elle expose en détail les raisons du refus du ministre.
+[traduction]
+La Division de la vérification a examiné votre demande de rajustement de vos déclarations T1 pour les années 2001, 2002 et 2003 pour qu’elles reflètent un changement dans la qualification de votre relation d’affaires avec votre époux.
+La demande de rajustement est fondée sur les conclusions tirées lors d’une vérification effectuée par l’Agence du revenu du Canada relativement aux déclarations de revenu produites pour les années 1997 et 1998, vérification au cours de laquelle il a été conclu qu’aucune société de personnes n’existait pendant cette période.
+· Votre époux avait présenté un avis d’opposition parce qu’il contestait le refus de l’Agence d’accepter l’existence de la société de personnes au cours des années d’imposition 1997 et 1998, et il avait soutenu que vous et lui étiez des associés de la société de personnes depuis 1981. Les nouvelles cotisations visées par l’avis d’opposition ont été ratifiées, ce qui a donné lieu au dépôt d’un avis d’appel dans lequel il était indiqué que :
+· Vous vous êtes maries en 1981, la même année où vous avez déménagé à Seaforth.
+· Vous et votre époux avez commencé à fournir vos services professionnels ensemble, à titre d’associés, dans une société de personnes portant la raison sociale de Huron Tax Consultants, dans laquelle vous aviez une participation de 40 % et votre époux, une participation de 60 %.
+· La société de personnes a, pendant certaines périodes, exploité un cabinet offrant des services d’établissement de déclarations de revenu et de tenue de comptes, qui vous appartenait à tous les deux, ainsi qu’une entreprise de courtage en immeuble et de vente et d’entretien d’ordinateurs et une entreprise de services financiers, qui semblent avoir appartenu à un seul d’entre vous.
+· Il était indiqué que vous participiez activement en tant qu’associée à la gestion de la société de personnes, notamment en faisant du travail de bureau et des tâches administratives.
+· Bien que la société de personnes ait commencé à engager des employés en 1984 ou vers cette année‑là, vous étiez restée une associée de l’entreprise, et vous aviez continué à participer activement aux activités commerciales de la société de personnes.
+· Toutes les déclarations de revenu que vous et votre époux avez remplies reflètent ce qui précède.
+Dans notre lettre du 17 janvier 2005, il était indiqué que votre époux avait retiré l’avis d’appel à cause de contraintes financières, mais votre époux a quand même fait savoir qu’il considérait comme injustifié le refus de l’Agence d’accepter l’existence de la société de personnes au cours des années d’imposition 1997 et 1998.
+On a aussi tenu compte des faits suivants :
+- Le 1er octobre 2004, l’entreprise connue sous le nom de « Huron Tax Consultants » a été vendue à Huron Tax Consultants Inc., dont vous êtes une actionnaire.
+- Le 17 janvier 2005, une demande a été faite pour que soient modifiées les déclarations de revenu que vous et votre époux avez produites pour les années 1999 à 2003 de sorte que le revenu d’entreprise soit considéré comme ayant été tiré d’une entreprise individuelle et que tout le revenu soit inclus dans les déclarations de votre époux.
+- Le 6 avril 2005, votre époux a fait une cession en faillite.
+Le régime fiscal canadien est fondé sur l’autocotisation, ce qui signifie que les particuliers contribuables remplissent leurs déclarations de revenu pour déclarer leur revenu annuel et vérifier s’ils doivent de l’impôt ou s’ils recevront un remboursement. Vous aviez signé vos déclarations, et, ce faisant, vous aviez certifié que les renseignements présentés dans les déclarations et tout document joint à celles‑ci étaient exacts et complets et faisaient état de tout le revenu gagné. Dans les déclarations de revenu que vous et votre époux avez produites à la suite de la vérification en matière d’impôt sur le revenu, vous avez reconnu que l’entreprise était une société de personnes, et, dans votre avis d’opposition et votre avis d’appel, vous soutenez que l’entreprise exerçait ses activités en tant que société de personnes. Votre époux a prétendu que vous participiez activement aux activités de l’entreprise, ce que vient étayer le fait que l’entreprise qui s’occupait de l’établissement de déclarations de revenu a été vendue à une société constituée par vous‑même.
+La question de savoir s’il y a une planification fiscale rétroactive dans vos circonstances particulières a été soulevée. (En réponse à plusieurs questions posées lors de tables rondes, l’ARC a indiqué que la planification fiscale rétroactive n’était pas une pratique acceptable.) Votre époux a soutenu que vous et lui aviez exploité l’entreprise en tant que société de personnes au cours des années 1999 à 2003 comme il l’a attesté dans l’avis d’opposition et l’avis d’appel et comme le prouvent les déclarations de revenu produites pour la même période, dans lesquelles l’entreprise est qualifiée de société de personnes. Trois mois avant la déclaration de faillite, vous aviez demandé que l’Agence considère comme un revenu tiré d’une entreprise individuelle le montant déclaré en tant que revenu provenant d’une société de personnes et qu’elle inclue tout le revenu d’entreprise dans les déclarations de revenu personnelles de votre époux. Si elle avait été accueillie, cette demande aurait donné lieu à un remboursement de l’impôt que vous avez payé et elle aurait créé une dette fiscale pour votre époux, laquelle l’Agence aurait probablement été incapable de recouvrer en raison de la faillite imminente. Il semble que vous tentez d’appliquer la décision de l’Agence prise au cours de la vérification des déclarations de revenu produites pour les années 1997 et 1998.
+La position de l’Agence est que :
+· les alinéas a) et b) du paragraphe 3 de la Circulaire d’information 75‑7R3 (copie ci‑jointe) ne sont pas respectées;
+· aucune preuve n’a été fournie qui permette de nier l’existence d’une société de personnes au cours des années d’imposition 2001, 2002 et 2003;
+· votre demande de rajustement pour ces années‑là semble représenter de la planification fiscale rétroactive.
+Par conséquent, votre demande est refusée.
+Nous regrettons de ne pas avoir été en mesure de vous donner une réponse plus favorable.
+[7] Les déclarations de revenu de l’appelante produites pour les années d’imposition 2002 et 2003 ont été déposées en preuve[3]. Elles ont été signées par elle le 30 avril 2003 et le 29 avril 2004. Chacune de ces déclarations contient un document intitulé État des résultats des activités d’une entreprise, dans lequel l’appelante affirme qu’elle est une associée ayant une participation de 40 % dans l’entreprise Huron Tax Consultants. Chacune des déclarations contient un énoncé dans lequel l’appelante atteste que les renseignements qui y sont présentés sont exacts et complets et révèlent la totalité de ses revenus. Dans chacune des déclarations en cause, les 40 % du revenu d’une société de personnes qu’elle indique avoir gagnés sont déclarés comme un revenu d’un travail indépendant. Ces déclarations ont été signées par l’appelante longtemps après que son époux avait fait l’objet de nouvelles cotisations en mai 2002. L’appelante a témoigné que sa participation à l’exploitation de l’entreprise HTC n’avait pas changé pendant cette période. Toute cette preuve mène inévitablement à la conclusion que l’appelante était une associée de HTC pendant les années 2002 et 2003, période au cours de laquelle a pris naissance la dette se rapportant à la TPS, aux intérêts et aux pénalités non payés.
+[8] À l’audience que j’ai présidée, les parties n’ont pas contesté le fait qu’en application de la LTA un associé peut faire l’objet d’une cotisation visant la TPS, les intérêts et les pénalités impayés de la société de personnes, même si l’inscription a été effectuée seulement au nom de la société de personnes. Il s’agit de l’effet du paragraphe 272.1(5) de la LTA. Pour des raisons de commodité, cette disposition est reproduite en annexe des présents motifs.
+[9] L’avocat de l’appelante a fait valoir qu’il n’est pas permis au ministre d’adopter la position selon laquelle son époux était l’unique propriétaire de l’entreprise HTC dans les nouvelles cotisations d’impôt sur le revenu qu’il a établies à l’égard de celui‑ci pour les années 1997 et 1998, puis de prendre la position selon laquelle, pour l’application de la LTA, HTC était une société de personnes en 2002 et en 2003. Comme l’a allégué Me Boniferro dans son argumentation, les dés ont été jetés par le ministre lorsqu’il a établi de nouvelles cotisations à l’égard M. DenHaan, et, maintenant, l’appelante veut seulement que les conséquences de ces nouvelles cotisations soient appliquées à elle dans le présent appel. Me Boniferro a convenu que l’argument était fondé sur le principe de la préclusion, mais il n’a pas expliqué clairement, dans ses plaidoiries, comment la préclusion pouvait être invoquée eu égard aux faits de la présente affaire.
+[10] La préclusion, sauf quelques exceptions, doit être invoquée en termes exprès : les faits censés donner lieu à la préclusion doivent être exposés en détail, de même que les allégations que la partie adverse est considérée comme étant précluse de prouver[4]. Comme le présent appel est régi par la procédure informelle, je ne tiendrai pas compte de l’omission et j’examinerai la position de l’appelante sur le fond.
+[11] En l’espèce, la préclusion fondée sur l’autorité de la chose jugée ne peut pas être invoquée, étant donné qu’aucune décision, quelle qu’elle soit, n’a été rendue sur la question en litige. L’appelante ne peut pas non plus se fonder sur le principe de la préclusion résultant d’une déclaration de mandataire. Les seules déclarations faites qui se rapportent à la question litigieuse en l’espèce et à l’égard desquelles des mesures ont été prises sont les déclarations, faites par l’appelante et son époux dans leurs déclarations de revenu, selon lesquelles ils étaient des associés de l’entreprise HTC tout au long des années 2002 et 2003, la période pour laquelle l’appelante a fait l’objet d’une cotisation en tant qu’associée.
+[12] Au fond, l’argument de l’appelante peut se résumer ainsi : comme dans les nouvelles cotisations d’impôt sur le revenu que le ministre a établies à l’égard de M. DenHaan ce dernier n’était pas considéré comme un associé de l’appelante au cours des années 1997 et 1998, les règles d’equity empêchaient le ministre de retenir un fondement incompatible avec cette prémisse dans la cotisation qu’il a établie à l’égard de l’appelante pour les années 2002 et 2003 en vertu de la LTA. Il y a plusieurs raisons pour lesquelles cet argument ne saurait être retenu. D’abord, même s’il était établi qu’il n’existait aucune société de personnes en 1997 et en 1998, cette position n’est pas incompatible avec celle selon laquelle il en existait une au cours des années ultérieures. L’appelante a dit que la façon dont HTC exerçait ses activités n’avait pas changé entre ces deux périodes. Si la Cour ajoute foi à ce témoignage, et il n’y aucune raison de ne pas le croire, il s’ensuit simplement que les nouvelles cotisations établies à l’égard de M. DenHaan, ou bien la cotisation établie à l’égard de l’appelante étaient inexactes. Il est bien établi que, si le ministre commet une erreur dans une cotisation, il n’est pas obligé de refaire la même erreur à l’avenir (voir les décisions First Torland Investments Ltd. et al. v. M.N.R.[5], Ludmer c. Canada[6] et Gelber v. M.N.R[7]).
+[13] M. DenHaan aurait très bien pu obtenir gain de cause dans son appel porté devant la Cour s’il n’avait pas choisi d’y mettre fin au moment où il l’a fait. Il ne s’agit pas d’une question dont je suis saisi, et je n’exprime aucune opinion sur celle‑ci. Il se trouve, cependant, qu’en avril 2004 l’appelante a continué d’affirmer qu’elle était une associée de HTC. Elle a changé sa position uniquement après que son époux avait fait une cession en faillite, ce qui permettait à celui‑ci d’être exonéré du paiement de la dette de HTC pour la TPS, les pénalités et les intérêts impayés. C’est seulement à ce moment‑là qu’il est devenu avantageux pour elle d’adopter la position qu’elle soutient maintenant.
+[14] Enfin, ma compétence se limite à apprécier le bien‑fondé de la cotisation dont il est interjeté appel en me fondant sur les faits établis par la preuve portée à ma connaissance et sur les dispositions de la LTA. Je n’ai pas compétence pour accorder une réparation en raison de la position que le ministre a pu adopter dans une affaire antérieure. Ce principe a été affirmé et réaffirmé à maintes reprises par la Cour et la Cour d’appel fédérale. Plusieurs des décisions qui font état de ce principe ont récemment été citées par le juge Décary dans l’arrêt Lassonde v. Canada[8], au paragraphe 3, qui est reproduit ci‑dessous :
+Il est certain que cet appel doit être rejeté, ne serait‑ce qu’en raison de l’absence de compétence. Quelques semaines avant la décision de la juge Lamarre Proulx et dans les mois qui ont suivi, notre Cour a rappelé à plusieurs reprises que la compétence de la Cour canadienne de l’impôt, dans le cadre d’un appel de cotisation, se limite à décider si la cotisation est conforme à la loi, en se fondant sur les faits et les dispositions applicables (voir Milliron c. Canada, 2003 CAF 283, 2003 CAF 283; Sinclair c. Canada, 2003 CAF 348, 2003 CAF 348; Webster c. Canada, 2003 CAF 388, 2003 CAF 388 et Main Rehabilitation Co. c. Canada, 2004 CAF 403, 2004 CAF 403).
+[15] Pour ces motifs, l’appel doit être rejeté.
+Signé à Ottawa, Canada, ce 28e jour de février 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 25e jour de mars 2008.
+Jean David Robert, traducteur
+ANNEXE
+Loi sur la taxe d’accise
+Partie IX : TAXE SUR LES PRODUITS ET SERVICES
+272.1(5) Une société de personnes et chacun de ses associés ou anciens associés (chacun étant appelé « associé » au présent paragraphe), à l’exception d’un associé qui en est un commanditaire et non un commandité, sont solidairement responsables de ce qui suit :
+a) le paiement ou le versement des montants devenus à payer ou à verser par la société en vertu de la présente partie avant ou pendant la période au cours de laquelle l’associé en est un associé ou, si l’associé était un associé de la société au moment de la dissolution de celle-ci, après cette dissolution; toutefois :
+(i) l’associé n’est tenu au paiement ou au versement des montants devenus à payer ou à verser avant la période que jusqu’à concurrence des biens et de l’argent qui sont considérés comme étant ceux de la société selon les lois pertinentes d’application générale concernant les sociétés de personnes qui sont en vigueur dans une province,
+(ii) le paiement ou le versement par la société ou par un de ses associés d’un montant au titre de l’obligation réduit d’autant l’obligation;
+b) les autres obligations de la société aux termes de la présente partie survenues avant ou pendant la période visée à l’alinéa a) ou, si l’associé est un associé de la société au moment de la dissolution de celle-ci, les obligations qui découlent de cette dissolution.
+272.1(5) A partnership and each member or former member (each of which is referred to in this subsection as the “member”) of the partnership (other than a member who is a limited partner and is not a general partner) are jointly and severally liable for
+(a) the payment or remittance of all amounts that become payable or remittable by the partnership under this Part before or during the period during which the member is a member of the partnership or, where the member was a member of the partnership at the time the partnership was dissolved, after the dissolution of the partnership, except that
+(i) the member is liable for the payment or remittance of amounts that become payable or remittable before the period only to the extent of the property and money that is regarded as property or money of the partnership under the relevant laws of general application in force in a province relating to partnerships, and
+(ii) the payment or remittance by the partnership or by any member thereof of an amount in respect of the liability discharges the joint liability to the extent of that amount; and
+(b) all other obligations under this Part that arose before or during that period for which the partnership is liable or, where the member was a member of the partnership at the time the partnership was dissolved, the obligations that arose upon or as a consequence of the dissolution.
+RÉFÉRENCE : 2008CCI126
+Nº DU DOSSIER DE LA COUR : 2007-342(GST)I
+INTITULÉ : Marilyn Denhaan et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 22 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 28 février 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Fausto Boniferro
+Avocat de l’intimée :
+Me Andrew Miller
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Fausto Boniferro
+Cabinet : Siskind, Cromarty, Ivey & Dowler
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. E‑15, modifiée.
+[2] L.R.C. (1985), ch. 1 (5e suppl.), modifiée.
+[3] Pièce R‑1, onglets 4 et 3 respectivement.
+[4] Casson, D.B., Odgers on High Court Pleading and Practice, 23e éd., Londres, Sweet & Maxwell/Stevens, 1991, à la p. 229.
+[5] [1969] 2 Ex.C.R. 3, p. 27, conf. par 70 DTC 6354 (C.S.C.).
+[6] [1995] 2 C.F. 3.
+[7] 91 DTC 1030, p. 1033, 1034.
+[8] (2005), 60 DTC 6039 (C.A.F.).

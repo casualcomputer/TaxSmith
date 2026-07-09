@@ -1,0 +1,495 @@
+---
+title: "Tétrault v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26892/index.do"
+last_modified: "2004-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 332"
+citation2: ""
+neutral_citation: "2004 TCC 332"
+decision_date: "2004-05-11"
+language: "en"
+item_id: "26892"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 764
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:51.316000+00:00"
+cases_cited_count: 1
+cases_citing_count: 12
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "89fad86f1b8fded434adccbafb06e534fc30ce29159104742ba784be130ea4eb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tétrault v. The Queen
+
+- Citation: 2004 TCC 332
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 764, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tétrault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-11
+Neutral citation
+2004 TCC 332
+File numbers
+2002-4333(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4333(IT)I
+BETWEEN:
+SUZANNE TÉTRAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 19, 2003, at Sherbrooke, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Representing the Appellant:
+Charles Bourgeois
+Counsel for the Respondent :
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments under the Income Tax Act for the 1994, 1995, 1996, 1998 and 1999 taxation years are dismissed, in accordance with the reasons attached hereto.
+Signed at Montréal, Quebec, the 11th day of May 2004.
+"Pierre Archambault"
+Archambault, J.
+Certified true translation
+Suzanne M. Gauthier, C Tr, LLL
+Citation: 2004TCC332
+Date : 20040511
+Docket: 2002-4333(IT)I
+BETWEEN:
+SUZANNE TÉTRAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Archambault, J.
+[1] On October 23, 2001, the Minister of National Revenue (Minister or Agency), pursuant to section 160 of the Income Tax Act (Act), assessed Suzanne Tétrault in the amount of $11,893.96. Of this sum, $9,710.86 represents the amount of tax owing by Ms. Tétrault's husband, Paul Tétrault, for the 1994, 1995, 1996, 1998 and 1999 taxation years (relevant period) and $2,183.10 represents interest. It appears that Mr. Tétrault's tax debt results in large part from the fact that the Minister refused him the deduction of his losses in a farm undertaking on the ground that he had no reasonable expectation of profit therefrom. At the commencement of the hearing, Ms. Tétrault's representative did not deny the existence of her husband's tax debt. On the contrary, he even admitted it.[1]
+[2] In support of her challenge, Ms. Tétrault cites a number of arguments, including the following, in her notice of appeal. First, the transfer to her of the pension plan benefits (pension) of her husband's former employer and the transfer, also to her, of the annuity (annuity) of the Quebec Pension Plan paid to her husband were not made for the purpose of avoiding payment of income tax. These sums were used to pay current expenses. Furthermore, they were paid in return for services rendered by Ms. Tétrault in the context of her husband's farm operation. Finally, she criticizes the Minister for amending the justification cited in support of the assessment under section 160. The Minister, she says, first appeared to indicate that the sums transferred by Mr. Tétrault to his wife had been used to pay her hypothec and thus were subject to the operation of section 160, but then the Minister stated that the sums transferred and used for purposes other than the payment of the hypothec were subject to section 160 of the Act.
+Facts
+[3] There is no real dispute between the parties as to the relevant facts of this case. Mr. Tétrault, a former police officer with the Montreal Urban Community (MUC, or CUM in French), was forced to retire when the Association de bienfaisance et de retraite des policiers de la CUM unanimously concluded that Mr. Tétrault was unable to fulfill all of his policing duties following the acute myocardial infarction he suffered on April 11, 1983. Although Ms. Tétrault's representative conceded paragraph 3(b) of the Reply to the Notice of Appeal, where it is stated that the pension was transferred every two weeks from Mr. Tétrault's account at the Caisse d'économie des policiers de la CUM to Ms. Tétrault's account, Mr. Tétrault stated in his oral testimony that he had not had a bank account or credit card for many years. Any cheque he received was endorsed in favour of Ms. Tétrault and his pension and his annuity were transferred directly to her bank account. He stated that it was his wife who looked after the living expenses with the money thus deposited in her account, since well before the relevant period.
+[4] However, in her testimony, Ms. Tétrault acknowledged that the old age pension benefit cheques (old age pension) received by Mr. Tétrault[2] and herself were considered the personal property of each of the spouses and were spent by them as they wished. However, the old age pension was received only for the 1997 and following years, 1997 being the year during which Mr. and Ms. Tétrault reached the age of 65.
+[5] On November 27, 1982, a few months before Mr. Tétrault suffered his infarctus, Ms. Tétrault purchased a 200 acre farm situated in the municipality of Wotton Township. In addition to the house, the farm had a barn, a garage and a machinery shed. The Tétraults' plan was to settle in an area quite removed from both the big city of Montréal and any other, smaller city or town. In the deed of purchase of this farm, Ms. Tétrault states that she is married under the system of separation of property under a marriage contract executed before a notary on November 27, 1953.
+[6] During the subsequent years, the Tétraults raised first sheep and later pigs and rabbits. There were never more than eight or ten sheep. The number of pigs never exceeded 10 and they were raised only during the summer; no pigs were kept over the winter. As to the rabbits, Mr. Tétrault said that during 1994, he had 28 pens of female rabbits, and that there were not more than 56 pens in 1997 or 1998. He said it was necessary to have at least 200 pens to be able to operate a viable business. Also, he was completely opposed to raising rabbits using industrial production techniques. He acknowledged that he ate rabbit twice a week and said he sold a portion of his rabbits to a purchaser from the Union des producteurs agricoles (UPA).
+[7] In addition to his farm activities, Mr. Tétrault was a member of various associations, including the UPA, the Syndicat des producteurs cunicoles de l'Estrie (he was a vice-president and later president of this union), the Comité des producteurs de viandes de spécialités de la région d'Asbestos and the Comité touristique de la région d'Asbestos.
+[8] In her report, the auditor for the Ministère du Revenu du Québec (MRQ) states, as a reason for concluding that no farm undertaking had been operated by Mr. Tétrault, that he had no reasonable expectation of profit. She cited in particular the fact that he did not have the physical capacity to operate such a business. She also stated in her report: "[Translation] You know that if your farm is to be economically viable, you would have to have at least three times as many rabbits as you have now. It is clear, therefore, that without more rabbits than you have, your business will not become profitable."
+[9] The farm losses for which a deduction was claimed amounted to $14,004 in 1994, $18,741 in 1995 and $18,091 in 1996. Although Mr. and Ms. Tétrault admitted they were carrying on the farm activities together, and that the farm belonged to Ms. Tétrault, only Mr. Tétrault claimed the deduction of these losses. Mr. and Ms. Tétrault received no salary for their services. The tax treatment of the losses was suggested by a bookkeeper who did not testify at the hearing. However, it seems more than likely that the bookkeeper decided to claim the deduction for farm losses on behalf of Mr. Tétrault alone because he alone had some income during the years 1994 to 1996. Beginning in 1997, the year in which Ms. Tétrault began receiving an old age pension, the deduction of the farm losses was claimed by her.[3]
+[10] When the Minister decided to issue reassessments and to refuse the deduction of the farm losses claimed by Mr. Tétrault, the latter was unable to pay the sums he owed the Minister. He subsequently went bankrupt and on December 16, 2000, he obtained a certificate of automatic discharge of all his debts other than those referred to in subsection 178(1) of the Bankruptcy and Insolvency Act. The creditors in the bankruptcy were the MRQ and the Agency. The amount owing to the secured creditor (the MRQ) was $13,000 and the amounts owing to the unsecured creditors came to $22,120.54. Mr. Tétrault had only $1,111.64 (net of total disbursements) for distribution among his unsecured creditors. Apparently, the secured creditor was able to be paid thanks to a legal hypothec held on four lots that Mr. Tétrault owned in St-Basile-le-Grand.
+[11] The income reported by Mr. and Ms. Tétrault is the following for the relevant period:
+Income reported by Paul Tétrault
+Year
+Quebec Pension Plan (QPP)
+$
+Old Age Security Benefits
+$
+Pension income
+$
+Total annual income
+$
+1994
+1995
+1996
+1998
+1999
+8,622.00
+8,622.00
+8,820.00
+7,070.00
+7,133.00
+0.00
+0.00
+0.00
+4,901.00
+4,959.00
+22,900.00
+22,900.00
+22,706.00
+20,615.00
+20,946.00
+31,522.00
+31,522.00
+31,526.00
+32,586.00
+33,038.00
+Total
+40,267.00
+9,860.00
+110,067.00
+160,194.00
+Income reported by Suzanne Tétrault
+Year
+Quebec Pension Plan (QPP)
+$
+Old Age Security Benefits
+$
+Other Income
+$
+Total annual income
+$
+1994
+1995
+1996
+1998
+1999
+0.00
+0.00
+0.00
+543.00
+547.00
+0.00
+0.00
+0.00
+4,901.00
+4,959.00
+999.00
+465.00
+0.00
+0.00
+0.00
+999.00
+465.00
+0.00
+5,444.00
+5,506.00
+Total
+1,090.00
+9,860.00
+1,464.00
+12,414,00
+[12] The total amounts owing to the Minister by Mr. Tétrault and the total amounts paid into Ms. Tétrault's account for the relevant period break down as follows:
+Particulars of unpaid tax debt of Paul Tétrault
+and of sums transferred by him to Suzanne Tétrault
+Year
+Unpaid tax
+$
+Interest on tax balance
+$
+Total tax debt
+$
+Sums transferred
+$
+1994
+1995
+1996
+1998
+1999
+2,198.86
+3,201.64
+3,001.12
+881.34
+427.90
+162.26
+1,154.80
+793.74
+72.30
+0.00
+2,361.12
+4,356.44
+3,794.86
+953.64
+427.90
+25,085.00
+26,523.00
+28,450.00
+22,201.00
+24,194.00
+Total
+9,710.86
+2,183.10
+11,893.96
+126,453.00
+[13] To finance the purchase of the farm in 1982, Ms. Tétrault had to take out a loan from the Caisse populaire de St-Hippolythe in Wotton. The purchase price of the farm was $65,000, of which $15,000 was paid at the time of purchase. Mr. Tétrault stood security to the Caisse populaire on his wife's loan. Here are the particulars of the hypothec payments made by Mr. Tétrault:
+Year
+Hypothec payments
+$
+Balance as of December 31
+$
+Accumulated principal
+$
+Interest paid
+$
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+N/A
+5,736.90
+6,104.12
+6,132.72
+N/A
+6,095.60
+5,910.00
+47,221.71
+44,943.95
+42,673.67
+40,211.23
+37,522.33
+34,562.91
+31,230.29
+N/A
+2,277.76
+2,270.28
+2,462.44
+N/A
+2,959.42
+3,332.62
+N/A
+3,459.14
+3,833.84
+3,670.28
+N/A
+3,136.18
+2,577.38
+Total
+29,979.34
+N/A
+13,302.52
+16,676.82
+[14] An analysis of the couple's expenses yields the following figures:
+Household expenses
+Year
+Food
+$
+Farm upkeep costs
+Hypothec payments
+$
+Overall costs
+$
+Personal portion-1/3
+$
+1994
+1995
+1996
+1998
+1999
+5,200.00
+5,200.00
+5,200.00
+5,200.00
+5,200.00
+7,725.00
+6,772.00
+4,546.00
+4,187.00
+4,609.00
+2,575.00
+2,257.00
+1,515.00
+1,396.00
+1,536.00
+5,736.90
+6,104.12
+6,132.72
+6,095.60
+5,910.00
+Total
+26,000.00
+27,839.00[4]
+9,279.00
+29,979.34
+Analysis
+[15] The relevant provision for the purposes of this case is subsection 160(1) of the Act, which reads as follows :
+160(1) Tax liability re property transferred not at arm's length - Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or a person who has since become the person's spouse,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[Emphasis added.]
+[16] In Medland v. Canada, [1998] F.C.J. No. 708 (Q.L.), Madam Justice Desjardins of the Federal Court of Appeal wrote, at paragraph 14, that "the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned [sic] to him." Although this is the purpose of the provision, Ms. Tétrault's representative is wrong in claiming that an intention to evade the tax must exist for this section to apply. In the first place, it is obvious that section 160 does not contain such a requirement. Moreover, this interpretation, that no intentional element is required, was adopted by my colleague Dussault J.T.C.C. in Montreuil et al. v. The Queen, 94 DTC 1821, at page 1828. Furthermore, the same approach was taken recently by the Federal Court of Appeal in Wannan v. Canada, [2003] F.C.J. No. 1693 (Q.L.), at paragraph 3. Here is what it says:
+Section 160 of the Income Tax Act is an important tax collection tool, because it thwarts attempts to move money or other property beyond the tax collector's reach by placing it in presumably friendly hands. It is, however, a draconian provision.... It may apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax. Indeed, it may apply to a transferee who has no knowledge of the tax affairs of the primary tax debtor....
+[17] In regard to the argument that the Minister amended the basis of his assessment, I do not see how Ms. Tétrault could have been adversely affected by this in the circumstances of this case. First, the facts on which the Minister relied in establishing his assessment, which are set out in paragraph 3 of the reply to the notice of appeal, were all conceded by Ms. Tétrault's representative. It remains only to determine whether those facts and the facts adduced in evidence at the hearing justify the assessment. Either the Minister held Ms. Tétrault liable for her husband's taxes up to the amount of the payments on the hypothec, in which case she had to argue in law that section 160 was not applicable, or the Minister was alleging that it was the sums used for purposes other than the hypothec payments that were subject to section 160, in which case Ms. Tétrault had to establish why those sums should not be subject thereto.
+[18] In regard to the argument that the money had been paid in return for Ms. Tétrault's services, no evidence was adduced to establish that she was acting as Mr. Tétrault's employee. Ms. Tétrault acknowledged that he was not paying any wages either to himself or to her. In any case, it is probable that the business, if business it was, belonged to Ms. Tétrault,[5] or at the very least, that there was a partnership composed of the Tétraults. We note that it is Ms. Tétrault who was the owner of the farm and it was she who paid for everything using her account.[6] In either case, Ms. Tétrault did not work in consideration of a wage and the sums that Mr. Tétrault paid to her were not paid in return for any service provided by her.[7]
+[19] In disputing the assessment, Ms. Tétrault's representative also relied on the decision by my colleague McArthur J.T.C.C. in Ferracuti v. Canada, [1998] T.C.J. No. 883 (Q.L.), in particular paragraph 23, which I reproduce here:
+23 In the present case, I find that Mr. Ferracuti made the following payments in satisfaction of his legal obligation to support his family; namely the mortgage interest to London Life, the taxes, hydro and water paid to the city of Etobicoke and the home insurance paid to Valeroite Insurance. These payments do not constitute a transfer within the meaning of section 160 of the Act.
+[Emphasis added.]
+[20] In reaching this decision, McArthur J.T.C.C. relied in particular on the decision handed down by Lamarre Proulx J.T.C.C. in Michaud v. Canada, [1998] T.C.J. No. 908 (Q.L.). He quoted paragraphs 19 and 20 from that judgment at paragraph 22 of his reasons:
+22 Lamarre Proulx, J.T.C.C., in Michaud v. The Queen (13 August 1998), Quebec 97-1312(IT)G (T.C.C.) [unreported] at paragraph 19 and 20 stated:
+I consider that when the appellant's former spouse made the payments on the hypothec on the family house, which was the appellant's property, he was only performing a legal obligation, that of providing for the needs of his family by obtaining the housing it required. The appellant could have made these payments on the hypothec herself and her husband could have paid what the appellant undertook to pay. However, that is not how the family expenses were naturally distributed in this couple. In any case, this monetary distribution of the family expenses is not essential to my decision. While this case concerns a couple in which both spouses earned money, my decision would have been the same if only one of the two spouses earned the family income: a payment on a hypothec on a family residence is not in the nature of a transfer of property made without valuable consideration if the person making it does so in performing the legal obligation to provide for his or her family's needs. *
+* The underlining is mine.[8]
+I should add that it is when the evidence discloses that the payment on the hypothec was made in performing the legal obligation to provide for the family's requirements that it was made for valuable consideration within the meaning of s. 160(1) of the Act. If for example the husband in the instance [sic] case had paid his wife both rent and payments on the hypothec, it is unlikely that the payments on the hypothec would have been made in performing a legal obligation to provide for the family's needs.
+[21] Finally, I should add that Lamarre Proulx J.T.C.C., in reaching this conclusion, relied on Dupuis v. M.N.R., 93 DTC 723, which she quoted at paragraph 18 of Michaud:
+18 In Dupuis v. M.N.R., 93 DTC 723, I indicated that the performance of a legal obligation does not constitute a transfer within the meaning of s. 160 of the Act:
+On the third point, that is that the moneys received by the Appellant from her husband, were received for a valid consideration, I am of the view that the evidence showed that it is true. I find plausible that the payments were the Appellant's husband contributions towards the charges of the house and family, and in some occasions, were repayments of loans, or a way to obtain cash.
+[Emphasis added.]
+[22] In my opinion, the reasoning adopted in these three decisions cannot be reconciled with the reasoning adopted by my colleagues Mogan J.T.C.C. in Raphael v. Canada, [2000] T.C.J. No. 688 (Q.L.), Bowie J.T.C.C. in Logiudice, supra, and Sobier J.T.C.C. in Sinnott v. Canada, [1996] T.C.J. No. 424 (Q.L.) (Eng. 97 DTC 596).[9] In Raphael, Mogan J.T.C.C. analyzed the Ferracuti and Michaud decisions. In reference to Ferracuti, he noted that McArthur J.T.C.C., in that decision, had drawn on a judgment in which the Supreme Court of Canada had examined the concept of unjust enrichment.[10] At paragraph 25 of his decision, Mogan J.T.C.C. writes:
+25 I would not invoke the principle of unjust enrichment when construing or applying section 160 of the Act. In Pettkus v. Becker, Ms. Becker claimed unjust enrichment after her 19-year relationship with Mr. Pettkus ended. There was a real dispute between Ms. Becker and Mr. Pettkus when the claim was made and there was at least the possibility of unjust enrichment. The Supreme Court of Canada recognized a constructive trust in order to grant some relief to Ms. Becker. A constructive trust is an equitable remedy. In this appeal, there is no dispute between the Appellant and Ernest. In fact, they were acting in concert in the endorsement, deposit and disbursement of his RRSP cheques. Their joint conduct permitted Ernest to choose which creditors would be paid and which would be left to wait.
+[Emphasis added.]
+[23] More generally, in discussing these two decisions, Mogan J.T.C.C. concluded that the domestic obligations could not constitute consideration within the meaning of section 160. Here is what he had to say about this in paragraphs 27 and 28:
+27 With respect to the decisions in Ferracuti and Michaud, the domestic obligations of a spouse or parent to provide necessities of life like food, clothing and shelter are very real in the sense that they are recognized in courts of law where such obligations are enforced. Those same domestic obligations, however, cannot be "consideration" within the meaning of section 160 because subparagraph 160(1)(e)(i) employs these specific words:
+" ... the fair market value at the time of the consideration given for the property".
+A domestic obligation may be quantified in a monetary amount for the purposes of enforcement but that monetary amount does not mean that the domestic obligation has a fair market value. And even if the domestic obligation did have a fair market value, it is not value "given" by the transferee "for the property".
+28 Domestic obligations arising out of a family relationship are intensely personal and should not be used as "consideration" to camouflage transfers of property. In particular, I would conclude that a payment by one spouse to reduce the principal amount of the mortgage on a family home owned by the other spouse is a transfer of property without valuable consideration within the meaning of subsection 160(1). In my opinion, the use of an equitable doctrine is not helpful (and perhaps is not permitted) when construing a taxing statute. In most insolvency statutes, there are restraints which prevent creditors from seizing food out of the hands of a hungry child. Such restraints are better left to insolvency law than to tax law.
+[Emphasis added.]
+[24] Judge Mogan's decision in Raphael was upheld by the Federal Court of Appeal in Raphael v. Canada, [2002] F.C.J. No. 82 (Q.L.). The judgment of the Court was delivered orally by Sexton J.A., who held there was a "transfer" of the RRSPs to the wife's account; the reason was that she had only a moral obligation to spend this money at her husband's direction and this moral obligation could not constitute valuable consideration. However, he was careful to add:
+12 We do not wish to be taken however, as agreeing with all of the comments of the Tax Court Judge relating to whether there can be a consideration given between husband and wife so as to preclude the application of section 160(1).
+[25] It is important to note that in the Tax Court of Canada, the taxpayer's argument had been the following: "if there was a transfer, the Appellant argued that there was consideration because Ernest had an obligation to support the family home and she, as the principal breadwinner, was being reimbursed for certain domestic expenses." Further, we note that at paragraph 13 of the Court of Appeal decision in Raphael, Sexton J.A. says: "We therefore are of the view that there was a transfer of property within the meaning of section 160(1) and that consideration was not proven." [Emphasis added.] We note that in his statement of the facts, at paragraph 2 of his decision, Sexton J.A. says: "....The monies were duly paid into her account and she in turn in fact paid out monies to a great many of the husband's creditors pursuant to his instructions but as well, paid money out on account of personal expenses for the two of them. Only approximately half of the husband's monies went to pay off existing debts of the husband. ..."
+[26] In Logiudice, Bowie J.T.C.C. wondered about the meaning of the word "consideration" used in the context of section 160. Here is what he said on this issue at paragraph 16 of his decision:
+16 The word consideration, as it is used in the context of section 160 of the Act, in its ordinary sense refers to the consideration given by one party to a contract to the other party, in return for the property transferred. The obvious purpose of section 160 is to prevent taxpayers from escaping their liability for tax, interest and penalties arising under the provisions of the Act by placing their exigible assets in the hands of relatives, or others with whom they are not at arms' length, and thus beyond the immediate reach of the tax collector. The limiting provision in subparagraph 160(1)(e)(i) of the Act is to protect genuine business transactions from the operation of the section, to the extent of the fair market value of the consideration given for the property transferred. It is apparent, therefore, that for a transferee to have the benefit of this saving provision she must be able to prove that the transfer of property to her was made pursuant to the terms of a genuine contractual arrangement.
+[Emphasis added.]
+[27] In Logiudice, Bowie J.T.C.C. rejected the appellant's argument that the consideration given for the monetary amounts paid by her son was the use of a residence and an industrial property by him without his having to pay any rent. In fact, Judge Bowie commented that the appellant had herself acknowledged that she expected nothing from her son in exchange for the use of the two properties.[11]
+[28] In my opinion, the position expressed by Judges Mogan and Bowie in the Raphael and Logiudice cases is more consistent with the spirit and letter of section 160 of the Act than the position adopted in Ferracuti, Michaud and Dupuis. Because I do not fully subscribe to all of the remarks of Mogan J.T.C.C. in Raphael, particularly what he says about the notion of transfer, I think it is necessary to set out my own analysis of the reach of subsection 160(1) of the Act.
+[29] In a number of court decisions, the comments by Judge Hamlyn of this Court in Williams v. Canada, [2000] T.C.J. No. 459 (Q.L.), are quoted, and Judge Mogan does this as well, in Raphael, at paragraph 2, which I reproduce here:
+2 In a recent decision of this Court (Doreen Williams v. The Queen; file no. 98-1604; July 24, 2000), Judge Hamlyn stated that there were four conditions to be met if subsection 160(1) were to apply:
+(i) there must be a transfer of property;
+(ii) the transferor and transferee are not dealing at arm's length;
+(iii) there must be no consideration (or inadequate consideration) flowing from the transferee to the transferor; and
+(iv) the transferor must be liable to pay an amount under the Act in or in respect of the year when the property was transferred or any preceding year.
+[Emphasis added.]
+[30] This account of the conditions by Hamlyn J.T.C.C. is in my view imprecise and even erroneous, at least in regard to two aspects that could be confusing.[12] First, it seems to me more correct to say that two conditions must be fulfilled for section 160 to apply. There must be: (i) a transfer by a person (transferor) of property since May 1, 1951, and (ii) this transfer must have been made to the benefit of one (transferee) of the three following persons: (a) the spouse of the transferor or a person who has since become his or her spouse; (b) a person who was under 18 years of age; and (c) a person with whom the transferor was not dealing at arm's length. The second condition stated by Hamlyn J.T.C.C. relates only to the third possible beneficiary.
+[31] It should also be pointed out that it is not necessary that there be a non-arm's length relationship where the transferee is a person under the age of 18. Nor is it necessary to establish the existence of such a non-arm's length relationship where the transferee is the spouse.[13] In the latter case it suffices to establish that the transferee was at the time of the transfer the spouse of the transferor or has since become his or her spouse. A non-arm's length relation might not have existed at the time of the transfer if the transferee was not the spouse of the transferor. It suffices that the transferee has since become the spouse for this condition to be fulfilled.
+[32] When the two aforementioned conditions are assembled, the following two rules apply. First is the rule set out in paragraph 160(1)(d) (paragraph 160(1)(d) rule), according to which the transferee and the transferor are jointly and severally liable to pay a part of the income tax in respect of any income from, or capital gain from the disposition of, the property transferred to the transferee, where this income or gain is subject to the attribution rules laid down in sections 74.1 to 75.1 of the Act and in section 74 of the Income Tax Act, chapter 148 of R.S.C. 1952 (1952 Act).[14] It should be pointed out that, in that case, there is no issue as to whether there is any amount by which the fair market value (FMV) of the property transferred exceeds the FMV of the consideration. The joint and several liability is applicable once there is a tax payable on the income or capital gain subject to the attribution rules. Moreover, contrary to what Judge Hamlyn says above, subsection 160(1) of the Act is applicable even if the transferee has given sufficient consideration for the property transferred to him or her by the transferor.[15] This applies in particular to the attribution rule set out in section 74 of the 1952 Act. Indeed, even if one of the spouses paid the FMV for the property transferred by the other spouse, the attribution rule is applicable notwithstanding what is provided in subsection 74.5(1) of the Act.[16]
+[33] Under the second rule, the paragraph 160(1)(e) rule, the transferee and transferor are jointly and severally liable in regard to any amount that the transferor must pay under the Act during the taxation year in which the property was transferred. However, the transferee's liability is limited to the lesser of the following two amounts: (1) the possible excess of the FMV of the property at the time of the transfer over the FMV at the time of the consideration given for the property, and (ii) the amount of the transferor's tax debt.
+[34] This calls for a comment. It is wrong to say that "[f]or there to be a transfer within the meaning of section 160 of the Act, there must be a transfer without valuable consideration"[17] As we saw earlier, subsection 160(1) may be applicable irrespective of whether there was or was not sufficient consideration. Moreover, it is clear that subsection 160(1) of the Act applies irrespective of whether it was a sale or a gift of the property. It is through the mechanism for computing the amount corresponding to the transferee's liability that the FMV of the consideration given, if any, for the property transferred by the transferor will be accounted for. This mechanism applies only for the purposes of the Act's paragraph 160(1)(e) rule.
+[35] Let us apply subsection 160(1) of the Act to the facts of this appeal. In fact, paragraph 160(1)(e) is the relevant provision in this case. In regard to the two preconditions for the application of this paragraph, there is no doubt that the second condition is fulfilled here: the transfer, if any, was made in favour of Ms. Tétrault after May 1, 1951, and Ms. Tétrault was the spouse of Mr. Tétrault at the time of the transfer. The only contentious condition is the first, that is, whether there must have been a transfer.
+[36] Before deciding whether there was a transfer, it is important to define the scope of this notion. In decisions concerning the application of section 160 of the Act, Fasken Estate v. M.N.R., [1948] Ex. C.R. 580, has often been cited. In Raphael, my colleague Judge Mogan was no exception, so I will quote from paragraph 14 of his reasons:
+14 When applying subsection 160(1) to particular circumstances, many judges have cited the Exchequer Court decision of Fasken Estate v. M.N.R., [1948] Ex. C.R. 580 in which Thorsen P. stated:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer. ...
+[Emphasis added.]
+[37] Another relevant decision, albeit cited less often, is Dunkelman v. M.N.R., 59 DTC 1242, also by the Exchequer Court of Canada. In that case, as in Fasken Estate, the issue was whether the attribution rules were applicable. However, in Dunkelman, it was also necessary to determine whether a loan granted to a trust constituted a transfer for the purposes of subsection 22(1) of the Income Tax Act, S.C. 1948, c. 52. After citing Fasken Estate and St.Aubyn v. Attorney-General, [1952] A.C. 15, Mr. Justice Thurlow stated, at page 1246:
+[. . .] I do not think it can be denied that, by loaning money to the trustees, the appellant, in the technical sense, transferred money to them, even though he acquired in return a right to repayment of a like sum with interest and a mortgage on the Butterfield Block as security, or even though he has since then been repaid with interest. But, in my opinion, it requires an unusual and unnatural use of the words "has transferred property" to include the making of this loan. [. . .] I also think that, if Parliament had intended to include a loan transaction such as the present one, the words necessary to make that intention clear would have been added, and it would not have been left to an expression which, in its usual and natural meaning, does not clearly include such a transaction. To apply the test used by Lord Simonds, I do not think this transaction was one which the language of the subsection, according to its natural meaning, "fairly" or "squarely" hits. I am, accordingly, of the opinion that the making of the loan in question was not a transaction within the meaning of the expression "has transferred property" and that s. 22(1) does not apply.
+In reaching this conclusion, I have also considered the wide words "or by any other means whatsoever," but I think that they are directed to the means or procedure by which transfers may be accomplished, rather than to the scope of the expression "has transferred property" and that they do not expand that scope beyond the natural meaning of the expression.
+[Emphasis added.]
+[38] In McVey v. The Queen, 96 DTC 1225, my colleague Judge Rip implicitly acknowledged this as the appropriate interpretation in the application of subsection 160(1) of the Act, when he held that the Minister's assessment was valid, whether the sums transferred were considered to have been transferred as a gift, in which case subsection 160(1) of the Act would apply, or whether they were considered a loan, in which case subsection 224(4) would apply.[18]
+[39] The Fasken and Dunkelman decisions indicate, in my opinion, that in order for there to be a transfer of property for the purposes of the attribution rules, it is essential that the transferor be divested of his ownership and that the property has vested in the transferee. The mere possession of a property that has been loaned with the obligation to return it does not satisfy this condition. That, I think, is the meaning that must be given to the expression "pass the property from himself to her".[19] That is also the appropriate interpretation of subsection 160(1) of the Act. As Madam Justice Desjardins said in Medland, supra, at paragraph 14: "...the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owned [sic] to him." The loan of money would not constitute a method of thwarting the collection of the tax owed by the lender. Pursuant to subsection 224(4) of the Act, the Minister could garnish the sum loaned. This notion of "transfer" is therefore reconcilable with the purpose intended by subsection 160(1) of the Act.
+[40] It follows from the analysis of the notion of transfer used in subsection 160(1) of the Act that sums paid to a mandatary to be spent for the benefit of the mandator do not constitute a transfer for the purposes of this subsection, either. In such circumstances the mandator is not divested of his ownership of the sums entrusted to the mandatary and they are not vested in the mandatary. The mandator remains the owner of these sums. For the purposes of this analysis, at least three distinct scenarios are conceivable. First, if the sums entrusted by the mandator (for example, the husband) have not yet been used by the mandatary (for example, the wife) for the purposes of purchasing goods and services for the family, the mandatary could be required to reimburse the mandator any sum that has not been used accordingly. A mandator may at any time terminate the mandate and a seizing creditor could demand that the mandatary deliver to him the property belonging to the debtor mandator. In such circumstances, the Minister could carry out a garnishment pursuant to section 224 of the Act.
+[41] The second conceivable scenario is where the wife has spent the money that her husband entrusted to her for the purchase of goods or services "consumed" by the rest[20] of the family or belonging to the rest of the family. This money, too, would not be considered, for the purposes of subsection 160(1) of the Act, to have been "transferred" to the wife, since she spent it only as a mandatary of her husband and she did so for the benefit of her husband and the rest of the family. This interpretation has the merit of excluding (at least in part) from the operation of this subsection the money entrusted by the husband (in our example) to his wife to contribute to the expenses of the marriage and avoiding the injustice of holding her liable for the tax debts of the husband when she did not enrich herself.[21]
+[42] The third scenario is the one where the wife purchases property with the money entrusted to her by her husband under the mandate, property which has vested in her and entered into her estate. That is a transfer of property, direct or indirect, contemplated by subsection 160(1) and the question that must then be determined is whether the wife gave consideration for that property and what is its FMV.[22]
+[43] To illustrate this scenario, we could use the example of the husband who authorizes his wife to use a portion of the money he has entrusted to her under the mandate to pay the purchase price of a fur coat, of which she becomes the owner. Can it be said, as it was in Michaud, that this is not a transfer within the meaning of section 160 of the Act? I think it is obvious that the delivery by the husband of the money used for the purchase of this coat (of which the wife has become the owner) constitutes a transfer for the purposes of subsection 160(1), unless the wife is under an obligation to repay this money. If she is, it would be a loan which, as we have seen, is not a transfer. If she is not, the money leaves the husband's estate and enters that of his wife, which allows her to purchase the fur coat.
+[44] If the use of the money in these circumstances amounts to a transfer, the only other questions that might and, in my opinion, should be raised are whether consideration has been given and, if so, what was its FMV. Can it be argued that the wife's right, as a beneficiary of the husband's domestic obligation (that of contributing to the needs of the marriage), to receive some money for the purchase of a residence, a car or a fur coat constitutes the consideration given to the husband? To answer this question, it is necessary first of all to determine the extent of the husband's obligation in such a situation. The Civil Code, the statutory source of that obligation in Quebec, provides as follows:
+392. The spouses have the same rights and obligations in marriage.
+They owe each other respect, fidelity, succour and assistance.
+They are bound to live together.
+396. The spouses contribute towards the expenses of the marriage in proportion to their respective means.
+The spouses may make their respective contributions by their activities within the home.[23]
+[45] It should be noted, first of all, that these provisions do not create any obligation for a spouse to transfer to the estate of the other spouse a particular asset, be it a residence, a car or a fur coat. Even if only one of the spouses had the financial resources to purchase this residence, this car or this coat, that spouse would be under no obligation to give this property to the other spouse, unless he had undertaken to do so under a marriage contract. Thus one spouse could discharge his obligation to provide a roof, a means of transportation and even clothing to the other spouse by supplying her only with the enjoyment or use[24] of such properties, while retaining for himself the ownership of these properties.[25] Moreover, it is necessary to consider the fact that this obligation to contribute to the expenses of the marriage applies to both spouses according to "their respective means". And the extent of the obligation may vary from year to year according to the ability of each of the spouses to contribute towards the expenses in question.
+[46] An analysis of the relevant provisions of the Civil Code does not disclose any obligation on the part of the other spouse to provide consideration in exchange for this domestic obligation; in other words, in our example, the wife is not required to give some thing or to render some services to her husband in order to benefit from the husband's domestic obligation. As we saw earlier, the domestic obligation is binding on both spouses, and in this regard, the Civil Code "[Translation] in so many words enshrines, in its principles, the absolute legal equality of the spouses".[26] Moreover, "The spouses may make their respective contributions by their activities within the home." However, this domestic obligation may be asymmetrical. Since the extent of the domestic obligation is "in proportion to their respective means", a woman who earned an appreciably higher income than her husband's would be required to contribute more than he to the expenses of the marriage. On the other hand, a husband would be required to discharge his domestic obligation even if his wife were in a coma and contributing nothing to the expenses of the marriage. The domestic obligation of each of the spouses is therefore unilateral and the obligation of the one depends neither on the value of the contribution of the other nor on the latter's capacity to fulfill his or her obligation: the obligation of the one is not correlative to the obligation of the other. A domestic obligation exists by virtue of the law ¾ the Civil Code ¾ and it is in no way dependent on the existence of consideration, although the spouses "owe each other ... succour and assistance".
+[47] The contribution to the expenses of the marriage is, in my opinion, in the nature of a donation by which a property is given without any consideration.[27] This analysis of the domestic obligation concurs with that made by Judge Mogan in the Raphael decision, where he says "[t]hose same domestic obligations, however, cannot be 'consideration' within the meaning of section 160...." (paragraph 27 of the decision). It also concurs with that in Logiudice, where it is explained that "The word consideration, as it is used in the context of section 160 of the Act, in its ordinary sense refers to the consideration given by one party to a contract to the other party, in return for the property transferred" and that "The limiting provision in subparagraph 160(1)(e)(i) of the Act is to protect genuine business transactions from the operation of the section" (paragraph 16 of the decision). It is also consistent with the analysis made by Judge Sobier in Sinnott v. The Queen, supra, at paragraph 19 (Q.L.), page 598 DTC:
+The Appellant's counsel put a good deal of emphasis on the argument that consideration was given for the transfer. But what was that consideration? Can it be said that the paying of household expenses is consideration for the transfers? Subparagraph 160(1)(e)(i) states that the joint liability of the transferor and transferee is an amount equal to the lesser of the amount by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property. At the time the transfers were made, no consideration was given.
+[Emphasis added.]
+[48] The absence of any consideration given in return for the performance of the domestic obligation readily explains why it highly problematic, if not impossible, to determine what the FMV would be of the transferee's right to receive the property transferred by the transferor pursuant to the latter's domestic obligation. Furthermore, as Judge Mogan said, even if a FMV could be determined, this right would not constitute "consideration given for the property".[28]
+[49] Not only does this interpretation seem to me to be in greater harmony with the language of section 160 of the Act, but it is unavoidable in light of the interpretative presumption that the law is coherent and systematic.[29] Section 160 must be considered as a whole if we are to determine its scope. Subsection 160(4)[30] of the Act provides that the paragraph 160(1)(e) rule is of no effect when a spouse transfers property to the other spouse as a result of the breakdown of the marriage. For the purposes of this rule, the FMV of the transferred property is deemed to be nil. If the reasoning adopted in the Ferracuti, Michaud and Dupuis decisions were adopted, one would have to conclude that subsection 160(4) is of no use, for upon separation,[31] the spouse's right to receive a portion of the other spouse's domestic estate is recognized by law, in this case the Civil Code, in particular in the rules governing the partition of the family patrimony set out in articles 414 et seq. of the Code. It then involves "a transfer of property ... in performing [a] legal obligation".[32] Furthermore, if the right to receive this property under the Civil Code constituted consideration, the FMV of which is equal to the FMV of the transferred property, it would not have been necessary to enact that the FMV of the transferred property is nil. On the contrary, I think Parliament assumed that such a transfer upon a separation constitutes a transfer without consideration and, were it not for subsection 160(4) of the Act, the transferee could have been jointly and severally liable for any tax debt of the transferor.
+[50] Consequently, the conclusion is unavoidable: the transfer of property under a legal obligation (as in the partition of the family patrimony) constitutes a "transfer" for the purposes of section 160 of the Act and is subject to that section. The mere right to be the beneficiary of this obligation does not constitute a particular consideration. Likewise, the transfer of property to the other spouse in performance of a domestic obligation constitutes a transfer for which no consideration has been given, and there is nothing in section 160 that would allow this Court to exempt this transfer from its operation.[33]
+[51] To this point I have discussed the case of monies entrusted to the transferee under a mandate. These sums could also be delivered outright by one spouse to the other to vest in the other spouse, who would then become the owner thereof.[34] That would be a simple gift or, at the very least, a transfer without any consideration. This transfer might also be subject to an obligation to take care of the transferor, somewhat similar to what was done by Mr. Tétrault. It would then be necessary to talk about a gift with a charge, a form of donation recognized in article 1810 of the Civil Code[35] and in the cases. In either case, there is a transfer. In the first case, there is no question of consideration. So subsection 160(1) would be applicable to the lesser of the FMV of the property that is given and the amount of the donor's tax debt. In the second case, it would be necessary as well to evaluate the FMV of the consideration given on the constitution of the gift, namely, the undertaking to provide support to the donor of the gift with a charge, with all the difficulties that such an evaluation entails.
+[52] Let us now apply the paragraph 160(1)(e) rule to the facts of this appeal. At least three interpretations are possible when determining the legal nature of the relationship between the Tétraults. First, let us eliminate the interpretation according to which the sums paid by Mr. Tétrault were paid under his domestic obligation (to contribute to the expenses of the marriage). We note that he was not giving his wife only the sums needed to support the couple; he was giving her all the money he was receiving, at least until the time when he began to get his old age pension in 1997.[36] At the most, only a portion of these sums could be considered to have been paid to his wife in performance of his domestic obligation. However, there is not enough evidence to determine that proportion.
+[53] A further indication that the sums handed over by Mr. Tétrault did not represent payment for the couple's family needs alone is the fact that a portion of the monies given to his wife necessarily had to represent the tax he owed to the taxation authorities on his income, namely, on his pension and his annuity.[37] The Civil Code provides that spouses should contribute towards the expenses of the marriage in proportion to their respective means. These means must be determined by considering only the after-tax income that a spouse may earn during the marriage. It is inconceivable to me that a court would order a husband to pay to his wife, as his domestic obligation, an amount greater than his after-tax income. In this case, it is clear to me that a portion of the sums turned over to Ms. Tétrault during each of the years in the relevant period represents the amount of tax that Mr. Tétrault owed to the Minister for each of those years and that this amount could not constitute the payment of a sum in performance of Mr. Tétrault's domestic obligation to his wife. Accordingly, the theory that the payment made in "the performance of a legal obligation does not constitute a transfer within the meaning of s. 160 of the Act" does not apply here, not only because it is unfounded, but also because this was not such a payment.
+[54] A second possible interpretation is to conclude that this was a gift with a charge. By his own testimony, Mr. Tétrault gave all of his pension and annuity cheques to his wife with a charge that she provide support to him. She was the one who had to keep him alive. A gift clearly constitutes a transfer within the meaning of subsection 160(1) of the Act. In view of the charge to which Mr. Tétrault says the gift was subject, the FMV of this charge must be determined, and, to avoid any liability in Ms. Tétrault, the FMV should be equal to that of the property that was donated.
+[55] As it happens, Ms. Tétrault did not adduce any evidence of this FMV. Nor was it established what amount was needed to meet the couple's domestic needs, still less those of Mr. Tétrault. The table reproduced above indicating the couple's household expenses is incomplete. It includes only the food expenditures, hypothec payments and maintenance costs of the farm. It is missing, for example, the costs of clothing, transportation and recreation. In these circumstances, I am unable to find that the Minister's assessment is unfounded. On the contrary, it is reasonable to think that the value of the charge to support Mr. Tétrault cannot exceed the after-tax income earned by him. On that hypothesis, the amount represented by the tax he owed the taxation authorities would remain the minimum FMV of the property donated by Mr. Tétrault. Ms. Tétrault would thereby be liable, under paragraph 160(1)(a) of the Act, for the tax owing by her husband.
+[56] The third possible interpretation in determining the nature of the contractual relationship between the Tétraults would be to conclude that it is a mandate. The sums turned over by Mr. Tétrault would then be held by Ms. Tétrault as a mandatary of her husband and they could have been seized under section 224 of the Act.[38] Since the Tétraults did not refer to any such mandate during their oral testimony, and Mr. Tétrault did not report the sums given to his wife as an asset of his bankruptcy, I am more inclined to find that this is a gift with a charge and not a mandate. In any event, even if I were to find that there is such a mandate, I would still have confirmed the Minister's assessment because of the use of a portion of the sums entrusted to Ms. Tétrault for the payment of her hypothec. On this hypothesis, the sums used to repay the hypothec loan would in my opinion have gone from Mr. Tétrault's estate and entered his wife's without there having been any "consideration given for the property".[39] I would point out as well that the amount of the monthly instalments on the hypothec for each of the years in the relevant period exceeds that of the tax owing by Mr. Tétrault for those years. (See the above tables.)
+[57] For all of these reasons, Ms. Tétrault's appeal is dismissed.
+Signed at Montréal, Quebec, the 11th day of May 2004.
+"Pierre Archambault"
+Archambault, J.
+Certified true translation
+Suzanne M. Gauthier, C Tr, LLL
+CITATION:
+2004TCC332
+COURT DOCKET No.:
+2002-4333(IT)I
+STYLE OF CAUSE:
+Suzanne Tétrault and Her Majesty the Queen
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+November 19, 2003
+REASONS FOR JUDGMENT BY:
+Pierre Archambault, J.
+DATE OF JUDGMENT:
+May 11, 2004
+APPEARANCES:
+For the Appellant:
+Charles Bourgeois (representative)
+For the Respondent:
+Philippe Dupuis
+SOLICITORS OF RECORD
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In his written observations provided after the conclusion of the hearing, Ms. Tétrault's representative does not directly challenge it, either, but he argues that Mr. Tétrault's farming activity constitutes a business and not a hobby! These observations were provided at my request and are addressed to the issue of the scope of the obligation to contribute to the expenses of the marriage (the domestic obligation) enacted by articles 392 and 396 of the Civil Code of Québec (Civil Code). I am surprised by this change in position, especially in view of Mr. Tétrault's testimony. I will come back to this question in my statement of the facts. See in particular note 3 hereunder.
+[2] Ms. Tétrault acknowledged that she was cashing her husband's old age pension cheque and giving him the money in cash.
+[3] Since Ms. Tétrault's representative had admitted the existence of Mr. Tétrault's tax debts and did not dispute their genuineness, I assumed that Mr. Tétrault's activity was not a business and this question was not therefore explored during the Tétraults' testimony. I think it was too late for this representative to raise this question in his written observations after making his admission and after the evidence was closed. However, on the basis of the evidence that I heard, I entertain no doubt about the recreational nature of the Tétraults' farm activities. In the first place, there is an important personal component here since a portion of the expenses pertained to the farm house occupied by the Tétraults (not to mention the personal consumption of some of the animals). Furthermore, the scope of the farm activities is clearly insufficient to be able to conclude that they were a source of income.
+[4] The amount of Mr. Tétrault's tax debts was not disputed, so no evidence was adduced of the reasonableness of these expenses.
+[5] As was held in Laframboise v. Canada, [2002] F.C.J. No. 628 (Q.L.) (English in [2003] 1 C.T.C. 2672, 2003 DTC 781). Moreover, Ms. Tétrault's representative acknowledges at page 3 of the memorandum accompanying her notice of appeal that "[Translation] arguably, the farm belonged to Ms. Tétrault and not to Mr. Tétrault...."
+[6] Of course, it is not impossible that she spent this money on her husband's account.
+[7] This result is consistent with that in Logiudice v. Canada, [1997] T.C.J. No. 742 (Q.L.). See paragraphs 22 and 23 below. Let us add, moreover, that this does not mean that Ms. Tétrault did not render meritorious services. But they were not in return for the money transferred by her husband.
+[8] Note by McArthur J.T.C.C.
+[9] I will return to that decision below.
+[10] See paragraphs 19 and 20 of the Ferracuti decision.
+[11] See paragraph 17 of Logiudice.
+[12] This analysis indicates that it may be inappropriate to rely on a summary of the provisions of the Act instead of referring to the actual text.
+[13] Under sections 251 and 252 of the Act, spouses are deemed to be related persons and they are thereby deemed not to deal with each other at arm's length.
+[14] This is the 1952 Act as amended by section 1 of chapter 63 of the Statutes of Canada, 1970-71-72 and by any subsequent legislation assented to prior to December 1991. (Section 69 of the Income Tax Application Rules, R.S.C. 1985, c. 2 (5th Supp.)).
+[15] It should be noted that his remarks were addressed not to the rule in paragraph 160(1)(d) but rather to the second rule, the one in paragraph 160(1)(e) of the Act (paragraph 160(1)(e) rule).
+[16] Here is an extract from the explanatory notes published by the Minister of Finance when subsection 74.5(1) was added to the Act by Bill C-84: S.C. 1986, c. 6, s. 38:
+The existing attribution rules apply to property transferred by an individual to his spouse or to a person under 18 years of age. For the purposes of these rules, a transfer of property includes a sale of property for fair market consideration. An exception is provided in the new attribution rules for sales of property for fair market consideration. This exception is set out in new subsection 74.5(1). [Emphasis added]
+[17] See, for example, paragraph 18 in the Ferracuti decision, supra, and paragraph 19 in the Michaud decision, supra.
+[18] In that case, the Minister had demanded in writing that funds otherwise payable to the tax debtor be remitted to the Receiver General as an obligation of the tax debtor. But the garnishee had told the Minister that the money had been given to him as a gift and that it did not represent a loan repayable to the tax debtor. The Minister subsequently assessed the garnishee under subsection 160(1) of the Act. Before this assessment was confirmed, the taxpayer informed the Minister that it was indeed a loan and the taxpayer's counsel argued that the Minister should have issued a reassessment under section 224 of the Act.
+[19] It is worth noting that the original English version of this passage ¾ "[a]ll that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her" ¾ is clearer than the French version: "Il suffit que le mari se départisse [sic] des biens en faveur de sa femme, c'est-à-dire qu'il lui cède les biens." [Emphasis added.]
+[20] That is, any member of the family other than the wife.
+[21] This outcome responds, at least in part, to the fully justified fairness concerns expressed by the judges of this Court in the Ferracuti, Michaud and Dupuis decisions. Let us add, however, that the mandatary spouse will have to provide sufficient evidence of the existence of the mandate and the use of the sum entrusted to him or her if the mandatary wishes to avoid incurring his or her own liability under subsection 160(1) of the Act. In particular, it will be necessary to show that the mandatary did not purchase any property that entered his or her estate.
+[22] See Raphael, supra, of the Federal Court of Appeal, discussed in paragraph 23 above.
+[23] These provisions are public policy, under article 391 of the Civil Code:
+391. In no case may spouses derogate from the provisions of this chapter, whatever their matrimonial regime.
+[24] There is no question here of dismemberments of the right of ownership, such as usufruct (articles 1120 et seq. of the Civil Code) or the right of use (articles 1172 et seq. of the Civil Code).
+[25] Of course, there is nothing to prevent the husband from giving his wife the money or property in question. Many husbands do so.
+[26] Michel Tétrault, Droit de la famille, 2nd ed. (Éditions Yvon Blais), at page 66.
+[27] Strictly speaking, it can be argued that the liberality that is necessary for the existence of a donation is missing here. However, most people who live together would contribute quite voluntarily to the expenses of the marriage, even in the absence of such a domestic obligation; it is generally during a separation or a divorce that the situation becomes conflictual and the existence of this obligation becomes significant.
+[28] Paragraph 27 of Raphael and subparagraph 160(1)(e)(i) of the Act.
+[29] See in particular Pierre-André Côté, The Interpretation of Legislation in Canada, 3rd ed. (Toronto: Carswell, 2000), at pages 308 et seq.
+[30] This subsection reads as follows:
+(4) Special rules re transfer of property to spouse - Notwithstanding subsection 160(1), where at any time a taxpayer has transferred property to the taxpayer's spouse pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written separation agreement and, at that time, the taxpayer and the spouse were separated and living apart as a result of the breakdown of their marriage, the following rules apply:
+(a) in respect of property so transferred after February 15, 1984,
+(i) the spouse shall not be liable under subsection 160(1) to pay any amount with respect to any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(ii) for the purposes of paragraph 160(1)(e), the fair market value of the property at the time it was transferred shall be deemed to be nil,
+...
+but nothing in this subsection shall operate to reduce the taxpayer's liability under any other provision of this Act.
+[31] The transfer after divorce is generally not subject to section 160 since the transferee is no longer the spouse of the transferor.
+[32] To use the words of the Michaud decision, paragraphs 19 and 20.
+[33] In my opinion, an amendment to the Act, like the one enacted by S.C. 1984. c. 45, subsection 65(1), applicable after February 15, 1984, for subsection 160(4), would be needed to exempt from the operation of section 160 the property transferred in performance of a domestic obligation. Parliament could draw on provisions such as articles 552 et seq. of the Quebec Code of Civil Procedure, which list the exemptions from seizure, such as "The food, fuel, linens and clothing necessary for the life of the household".
+[34] See the Raphael decision, supra, of the Federal Court of Appeal, which was discussed in paragraph 23 above.
+[35] This article reads as follows:
+1810. A remunerative gift or a gift with a charge constitutes a gift only for the value in excess of that of the remuneration or charge.
+[36] Each could spend his or her old age pension as they wished. That was the only exception to the procedure adhered to by the couple during the relevant period (from 1994 to 1999).
+[37] That is clear for the first three years of the relevant period, when Mr. Tétrault was giving all of his earned income to his wife.
+[38] There is no evidence that any such seizure was carried out in this case.
+[39] Ms. Tétrault, it will be recalled, is married under the system of separation of property, under a marriage contract, and it is she who owns the farm (including the residence) and is the principal hypothecary debtor. It should be added that under the Quebec rules for partition of the family patrimony in a separation or divorce, Mr. Tétrault would not have any interest in this residence. The most he could claim would be a personal claim guaranteeing him one half of this residence, the furnishings, the cars and the couple's retirement funds. In view of the fact that he is already the owner of his retirement fund and his Quebec Pension Plan benefits, it is not certain that he could obtain an amount representing some portion of the value of the residence. (See in particular article 419 of the Civil Code.)

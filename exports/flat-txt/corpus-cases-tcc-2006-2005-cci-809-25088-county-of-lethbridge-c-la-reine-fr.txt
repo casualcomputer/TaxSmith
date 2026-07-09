@@ -1,0 +1,715 @@
+Title: County of Lethbridge c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25088/index.do
+Corpus path: corpus/cases/tcc/2006/2005-cci-809-25088-county-of-lethbridge-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-02-14
+
+# County of Lethbridge c. La Reine
+
+- Citation: 2005 CCI 809
+- Decision date: 2006-02-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2497, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+County of Lethbridge c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-14
+Référence neutre
+2005 CCI 809
+Numéro de dossier
+2004-1974(GST)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004‑1974(GST)G
+ENTRE :
+LE COMTÉ DE LETHBRIDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu à Calgary (Alberta), le 19 avril 2005.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocats de l'appelant :
+Me Michel Bourque
+Me Curtis Stewart
+Avocate de l'intimée :
+Me Julie Rogers‑Glabush
+______________________________________________________________
+JUGEMENT
+L'appelant a présenté, avec le comté de Two Hills no 21 et le district municipal de Spirit River no 133, des questions de droit à trancher en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale), à savoir :
+a. si, dans le contexte de chaque programme de subvention, les appelants ont effectué une fourniture à la province d'Alberta;
+b. si le financement par subvention constitue une contrepartie de cette fourniture.
+Ces questions sont tranchées comme suit :
+1. Quant à la question énoncée à l'alinéa a), l'appelant a effectué à la province d'Alberta une « fourniture » selon la définition figurant à l'article 123 de la Loi sur la taxe d'accise, partie IX (la « Loi »), à l'égard des sept programmes, tels qu'ils sont décrits dans les motifs du jugement.
+2. Quant à la question énoncée à l'alinéa b), les montants que la province d'Alberta a versés à l'appelant (lesquels sont désignés à l'alinéa b) sous le nom de « financement par subvention ») constituaient, selon la définition figurant à l'article 123 de la Loi, une contrepartie de la fourniture en vertu des programmes 2, 3, 4 et 6, tels qu'ils sont décrits dans les motifs du jugement.
+Signé à Ottawa (Ontario), ce 14e jour de février 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 25e jour d'août 2008.
+Yves Bellefeuille, réviseur
+Dossier : 2004‑600(GST)G
+ENTRE :
+LE DISTRICT MUNICIPAL DE SPIRIT RIVER No 133,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu à Calgary (Alberta), le 19 avril 2005.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocats de l'appelant :
+Me Michel Bourque
+Me Curtis Stewart
+Avocate de l'intimée :
+Me Julie Rogers‑Glabush
+______________________________________________________________
+JUGEMENT
+L'appelant a présenté, avec le comté de Two Hills no 21 et le comté de Lethbridge, des questions de droit à trancher en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale), à savoir :
+a. si, dans le contexte de chaque programme de subvention, les appelants ont effectué une fourniture à la province d'Alberta;
+b. si le financement par subvention constitue une contrepartie de cette fourniture.
+Ces questions sont tranchées comme suit :
+1. Quant à la question énoncée à l'alinéa a), l'appelant a effectué à la province d'Alberta une « fourniture » selon la définition figurant à l'article 123 de la Loi sur la taxe d'accise, partie IX (la « Loi »), à l'égard des sept programmes, tels qu'ils sont décrits dans les motifs du jugement.
+2. Quant à la question énoncée à l'alinéa b), les montants que la province d'Alberta a versés à l'appelant (lesquels sont désignés à l'alinéa b) sous le nom de « financement par subvention ») constituaient, selon la définition figurant à l'article 123 de la Loi, une contrepartie de la fourniture en vertu des programmes 2, 4 et 6, tels qu'ils sont décrits dans les motifs du jugement.
+Signé à Ottawa (Ontario), ce 14e jour de février 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 25e jour d'août 2008.
+Yves Bellefeuille, réviseur
+Dossier : 2004‑1606(GST)G
+ENTRE :
+LE COMTÉ DE TWO HILLS No 21,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu à Calgary (Alberta), le 19 avril 2005.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocats de l'appelant :
+Me Michel Bourque
+Me Curtis Stewart
+Avocate de l'intimée :
+Me Julie Rogers‑Glabush
+______________________________________________________________
+JUGEMENT
+L'appelant a présenté, avec le comté de Lethbridge et le district municipal de Spirit River no 133, des questions de droit à trancher en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale), à savoir :
+a. si, dans le contexte de chaque programme de subvention, les appelants ont effectué une fourniture à la province d'Alberta;
+b. si le financement par subvention constitue une contrepartie de cette fourniture.
+Ces questions sont tranchées comme suit :
+1. Quant à la question énoncée à l'alinéa a), l'appelant a effectué à la province d'Alberta une « fourniture » selon la définition figurant à l'article 123 de la Loi sur la taxe d'accise, partie IX (la « Loi »), à l'égard des sept programmes, tels qu'ils sont décrits dans les motifs du jugement.
+2. Quant à la question énoncée à l'alinéa b), les montants que la province d'Alberta a versés à l'appelant (lesquels sont désignés à l'alinéa b) sous le nom de « financement par subvention ») constituaient, selon la définition figurant à l'article 123 de la Loi, une contrepartie de la fourniture en vertu des programmes 1, 2, 3, 4 et 6, tels qu'ils sont décrits dans les motifs du jugement.
+Signé à Ottawa (Ontario), ce 14e jour de février 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 25e jour d'août 2008.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI809
+Date : 20060214
+Dossier : 2004‑1974(GST)G
+ENTRE :
+LE COMTÉ DE LETHBRIDGE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET ENTRE :
+2004‑600(GST)G
+LE DISTRICT MUNICIPAL DE SPIRIT RIVER No 133,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET ENTRE :
+2004‑1606(GST)G
+LE COMTÉ DE TWO HILLS No 21,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA DÉTERMINATION D'UNE QUESTION DE DROIT EN VERTU DE L'ARTICLE 58 DES RÈGLES DE LA COUR CANADIENNE DE L'IMPÔT (PROCÉDURE GÉNÉRALE)
+Le juge Bell
+[1] Les parties ont conjointement demandé à la Cour canadienne de l'impôt de se prononcer sur une question de droit en vertu de l'article 58 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »).
+LES QUESTIONS
+[2] Les questions de droit à trancher concernent trois appelants :
+1. le comté de Lethbridge (« Lethbridge »), pour la période allant du 1er avril au 30 juin 2001;
+2. le comté de Two Hills no 21 (« Two Hills »), pour la période allant du 1er juillet au 30 septembre 2001;
+3. le district municipal de Spirit River no 133 (« Spirit River »), pour la période allant du 1er juillet au 30 septembre 2001.
+Ces questions, telles qu'elles sont énoncées dans une demande présentée conjointement par les appelants et par l'intimée, sont les suivantes :
+[TRADUCTION]
+a. si, dans le contexte de chaque programme de subvention, les appelants ont effectué une fourniture à la province d'Alberta;
+b. si le financement par subvention constitue une contrepartie de cette fourniture.
+[3] Les parties ont déposé un exposé conjoint des faits (l'« ECF ») composé de 150 paragraphes ainsi que 114 documents concernant sept programmes différents. Cet ECF n'est pas reproduit ici. J'en tirerai plutôt les faits se rapportant à ces programmes et à leurs participants, soit :
+1. [TRADUCTION] Programme d'amélioration des rues
+Two Hills
+2. [TRADUCTION] Programme de parrainage de l'initiative concernant l'étude des routes rurales
+Two Hills
+Spirit River
+Lethbridge
+3. [TRADUCTION] Programme de partenariat concernant les routes secondaires
+Two Hills
+Lethbridge
+4. [TRADUCTION] Programme de subvention au transport rural
+Two Hills
+Spirit River
+Lethbridge
+5. [TRADUCTION] Programme d'infrastructure Canada‑Alberta
+Spirit River
+6. [TRADUCTION] Programme des routes d'accès aux ressources naturelles et des nouvelles industries
+Two Hills
+Spirit River
+Lethbridge
+7. [TRADUCTION] Programme concernant les accords relatifs aux ponts et aux ponceaux
+Two Hills
+Spirit River
+Lethbridge
+GÉNÉRALITÉS
+[4] Dans l'ECF, les parties se sont entendues sur les points suivants :
+[TRADUCTION]
+En ce qui concerne la demande présentée en vertu de l'article 58 des Règles, tous les chiffres se rapportant aux montants des dépenses et des crédits de taxe sur les intrants demandés représentent la meilleure estimation seulement.
+Les présents motifs du jugement porteront sur les deux questions de droit en cause. La question de savoir, dans chaque appel, si un appelant a droit aux crédits de taxe sur les intrants (les « CTI ») sera réglée sur consentement ou à la suite d'une audience ultérieure tenue par la Cour.
+[5] Le paragraphe 4 de la demande qui a été soumise conjointement aux fins de la décision fondée sur l'alinéa 58(1)a) des Règles est rédigé comme suit :
+[TRADUCTION]
+S'il est jugé, quant à la demande soumise en vertu de l'alinéa 58(1)a) des Règles, qu'il n'y a pas de fourniture et que le financement par subvention ne constituait pas une contrepartie d'une fourniture, cela mettra fin à l'affaire, sous réserve d'un appel. Toutefois, si la Cour de l'impôt décide qu'il existe une fourniture et que le financement par subvention constitue une contrepartie de cette fourniture, il pourrait s'avérer nécessaire, sous réserve d'un appel, de tenir une instruction afin de déterminer si la fourniture est exonérée au motif qu'elle se rapportait à des services d'entretien ou de réparation exonérés. Cette dernière question ne serait probablement pas examinée en vertu de l'alinéa 58(1)a) des Règles.
+[6] Les termes pertinents sont définis à l'article 123 de la Loi sur la taxe d'accise, partie IX, concernant la taxe sur les produits et services (la « Loi »), à savoir :
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture;
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation;
+[7] Le paragraphe 169(1) de la Loi est en partie rédigé comme suit :
+Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne [...] relativement à un bien ou à un service qu'elle acquiert [...] correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture [...] devient payable par la personne [...]
+La partie importante de ce calcul est la suivante :
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis [...] le bien ou le service [...] pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales
+Ce pourcentage est multiplié par le montant de la taxe payable ou payée (telle qu'elle est décrite dans cette disposition).
+[8] L'avocat de l'appelant a présenté les documents d'une façon fort ordonnée. Toutefois, son argumentation écrite, de laquelle il s'est éloigné pendant l'argumentation orale, était trop générale. L'argumentation de l'intimée, comme celle des appelants, ne comportait pas d'analyse des nombreux documents qui auraient dû être minutieusement examinés aux fins de la préparation de l'audience. J'ai examiné tous ces documents en détail et je les ai répartis en sept catégories, se rapportant chacune à un programme donné. J'examinerai ces sept programmes l'un à la suite de l'autre en mentionnant tous ceux qui ont participé à chaque programme. Après avoir décrit chaque programme, j'inclurai une brève analyse et une brève conclusion au sujet de la question de savoir si, en vertu de ce programme, un montant est payable à un appelant par la province. Je me demanderai s'il y avait une « contrepartie » à l'égard d'une « fourniture » sous le titre ANALYSE ET CONCLUSIONS GÉNÉRALES.
+1. Programme d'amélioration des rues
+[9] L'ECF est libellé comme suit :
+[TRADUCTION]
+7. Le 6 juin 2000, Two Hills a conclu un protocole d'entente avec le ministère de l'Infrastructure d'Alberta en vertu du programme d'amélioration des rues. Une copie du protocole d'entente est jointe à l'onglet 1 et fait partie du présent exposé conjoint des faits.
+8. Two Hills était tenu de remettre au ministère de l'Infrastructure d'Alberta une liste des travaux envisagés pour l'année suivante et pour les années à venir. Les projets qui étaient approuvés étaient admissibles à un financement provincial, dans une proportion de 75 p. 100, à valoir sur le coût des travaux de construction et de génie à partager jusqu'à concurrence du montant maximal de la subvention. Two Hills remettait un état du financement et des dépenses pour l'année civile au plus tard le 31 mars de l'année suivante.
+9. La subvention versée en vertu du programme d'amélioration des rues visait à financer un programme précis au profit du grand public. Le programme d'amélioration des rues a pris effet le 1er avril 2000 et Two Hills n'était pas tenu de soumettre un formulaire de demande. Two Hills était tenu d'indiquer au ministère de l'Infrastructure d'Alberta les projets qui allaient être réalisés à l'aide des fonds au moyen d'une lettre, qui est jointe à l'onglet 2 et qui fait partie du présent exposé conjoint des faits.
+10. Two Hills a engagé des dépenses de 213 224,22 $ à l'égard des activités effectuées en vertu du programme d'amélioration des rues, comme le montre le formulaire de demande de paiement final en vertu de l'entente, qui est joint à l'onglet 3 et fait partie du présent exposé conjoint des faits. Two Hills demande des crédits de taxe sur les intrants de 5 978,26 $ (déduction faite du remboursement accordé aux organismes du secteur public (« OSP »)) en vertu de la Loi à l'égard des activités effectuées en vertu du programme d'amélioration des rues.
+[10] Two Hills est le seul appelant qui participait à ce programme. Le 6 juin 2000, il a conclu un protocole d'entente avec Sa Majesté la Reine du chef de l'Alberta[1], représentée par le ministre de l'Infrastructure. Un attendu prévoit ce qui suit :
+[TRADUCTION]
+ATTENDU que le ministre désire verser à [Two Hills] les fonds nécessaires à la réalisation des projets approuvés en vertu du [programme d'amélioration des rues] aux conditions ci‑après énoncées; [...]
+Un autre attendu prévoit que [TRADUCTION] « [...] le ministre s'est engagé à avancer ces fonds à [Two Hills], à certaines conditions, tels que ces fonds auront été approuvés chaque année, sur [...] » approbation par l'assemblée législative du budget du programme inclus dans le budget annuel de la province. L'entente prévoit que Two Hills convient d'accepter les fonds accordés par le ministre à certaines conditions, les conditions pertinentes étant énoncées ci‑après :
+1. Two Hills doit remettre chaque année au ministre une liste des travaux envisagés pour l'année ou un projet de programme futur, conformément aux lignes directrices qui s'appliquent au programme d'amélioration des rues pour les projets admissibles;
+2. Two Hills doit tenir une comptabilité distincte pour les fonds reçus, et les intérêts seront imputés à la réduction du coût total des projets;
+3. Two Hills doit remettre au ministre un état annuel du financement et des dépenses, notamment un sommaire des fonds de subvention reçus et un rapport sommaire concernant les travaux approuvés et achevés au cours de l'année civile;
+4. Two Hills doit exécuter les travaux conformément à une norme décrite et accorder au ministre l'accès au chantier ainsi qu'aux documents se rapportant au projet.
+L'entente prévoit également que les parties donnent à l'entente une interprétation juste et libérale.
+[11] Two Hills a achevé les travaux à l'égard des projets [TRADUCTION] « admissibles au financement » en vertu du programme et a soumis un formulaire de demande de paiement final en vertu de l'entente, daté du 6 septembre 2001, pour les travaux achevés le 24 octobre 2000. Ce document indiquait un montant facturé total de 213 224,17 $, duquel la somme de 14 925,65 $ a été déduite au titre de la TPS, ce qui donnait un coût de 198 298,52 $.
+Analyse et conclusion
+[12] L'entente susmentionnée prévoyait que la province s'était engagée [TRADUCTION] « à avancer ces fonds à [Two Hills] à certaines conditions », tels qu'ils étaient approuvés chaque année. Two Hills s'engageait à exécuter les travaux conformément à la norme décrite, à certaines conditions. Two Hills a achevé ces travaux et a soumis un formulaire de demande de paiement final en vertu de l'entente faisant état du montant total facturé, lequel a de toute évidence été payé. Dans le contexte de l'entente dans son ensemble, ce montant était payable à Two Hills par la province en vertu de cette entente.
+2. Programme de parrainage de l'initiative concernant l'étude des routes rurales
+[13] Les deux paragraphes suivants de l'ECF s'appliquent à chacun des trois appelants :
+[TRADUCTION]
+21. Le financement accordé en vertu du programme de parrainage de l'initiative concernant l'étude des routes rurales visait à aider les municipalités à dresser la liste des routes locales, et notamment des ponts se trouvant dans la municipalité. Les lignes directrices du ministère des Affaires municipales d'Alberta applicables à l'étude des routes rurales sont jointes à l'onglet 20 et font partie du présent exposé conjoint des faits.
+22. Selon les lignes directrices applicables à l'étude des routes rurales, l'étude devait être dirigée par un ingénieur et la municipalité était tenue de soumettre un formulaire d'attestation de l'ingénieur au plus tard le 15 août 2000. Une copie du rapport concernant l'étude des routes rurales devait être remise au ministère des Affaires municipales d'Alberta au plus tard le 1er mai 2001. Les municipalités ont remis au ministère des Affaires municipales d'Alberta un formulaire de reconnaissance de conformité attestant que le financement par subvention était utilisé conformément aux conditions applicables au programme. Le ministère de l'Infrastructure d'Alberta utilise le rapport pour décider des subventions à accorder à la suite des demandes. Les municipalités utilisent également le rapport pour établir l'ordre de priorité des projets.
+[14] Selon les conditions générales applicables aux subventions figurant dans les lignes directrices concernant l'étude des routes rurales, la demande de subvention doit être reçue par la province au plus tard le 15 mars 2000, les fonds ne peuvent pas être affectés au paiement de travaux exécutés avant que le ministre ait signé l'accord de subvention conditionnelle et les travaux doivent être achevés au plus tard le 31 mars 2001. Plus précisément :
+[TRADUCTION]
+Sur approbation de la demande, la municipalité doit être prête à conclure avec la province un accord de subvention conditionnelle. L'accord exige notamment que la subvention soit uniquement employée aux fins approuvées et comporte des conditions concernant l'admissibilité, l'obligation de rendre compte, le droit du ministre de vérifier un projet et le droit du ministre d'exiger un remboursement des fonds accordés qui ne sont pas employés conformément à l'accord. À défaut d'observation de l'accord, la municipalité pourra être obligée de rembourser les sommes reçues.
+La municipalité doit payer tout coût excédant le montant accordé pour le projet.
+Two Hills
+[15] L'ECF renferme ensuite le paragraphe 23, qui est rédigé comme suit :
+[TRADUCTION]
+23. Une lettre du ministre des Affaires municipales, informant Two Hills qu'il a droit à une subvention de 40 000 $ en vertu de l'initiative concernant l'étude des routes rurales, est jointe à l'onglet 21 et fait partie du présent exposé conjoint des faits. Une lettre datée du 2 mars 2000 du ministère des Affaires municipales d'Alberta faisant savoir que la province d'Alberta accordait un montant de 40 000 $ à Two Hills en vertu de l'initiative concernant l'étude des routes rurales est jointe à l'onglet 22 et fait partie du présent exposé conjoint des faits. Two Hills n'a pas pu trouver de copie de l'accord de subvention conditionnelle qui a été signé.
+[16] Selon les paragraphes 24 et 25 de l'ECF, Two Hills a engagé un entrepreneur et a versé à cet entrepreneur, en vertu de ce programme, un montant de 40 270,55 $, à l'égard duquel il demande des CTI s'élevant à 1 208,12 $ (déduction faite du remboursement accordé aux OSP).
+Spirit River
+[17] Les paragraphes suivants de l'ECF sont pertinents :
+[TRADUCTION]
+70. Spirit River a présenté la demande en vertu de l'initiative concernant le parrainage de l'étude des routes rurales au moyen du formulaire de demande qui est joint à l'onglet 53 et qui fait partie du présent exposé conjoint des faits. L'accord de subvention conditionnelle qui a été conclu par Sa Majesté la Reine du chef de l'Alberta et Spirit River fait partie du formulaire de demande.
+71. Une lettre du ministère des Affaires municipales d'Alberta datée du 2 mars 2000 faisant savoir que la province d'Alberta accordait un montant de 40 000 $ à Spirit River en vertu de l'initiative concernant l'étude sur les routes est jointe à l'onglet 54 et fait partie du présent exposé conjoint des faits.
+[18] Selon les paragraphes 72 et 73 de l'ECF, Spirit River a engagé un entrepreneur afin d'exécuter les travaux et [TRADUCTION] « a engagé des dépenses de 39 824,62 $ pendant la période en question »; Spirit River a adopté la position selon laquelle il avait droit à des CTI de 1 194,74 $ (déduction faite du remboursement accordé aux OSP).
+[19] L'onglet 53 comprend la demande de subvention relative à l'initiative concernant l'étude des routes rurales et l'accord de subvention conditionnelle conclu par la province et Spirit River. L'accord énonce que la province a approuvé la demande de Spirit River et qu'elle s'est engagée à accorder une subvention conditionnelle à la municipalité. L'accord prévoit ensuite que la province versera à Spirit River, sous réserve des dispositions qui y sont stipulées, une subvention de 40 000 $ afin de lui permettre d'exécuter certains travaux précis. L'accord prévoit que la subvention accordée à la municipalité sera composée d'un paiement forfaitaire effectué dans les deux semaines de la signature de l'accord par le ministre. Spirit River s'engage à exécuter les travaux sans y apporter de changements importants, à embaucher un ingénieur en vue d'assurer la réalisation du projet, à achever les travaux au plus tard le 31 mars 2001, à affecter tout le montant reçu à la réalisation du projet, à soumettre une copie du rapport de l'ingénieur au plus tard le 1er mai 2001, et ainsi de suite. L'accord a été signé au mois de février 2000.
+Lethbridge
+[20] Les paragraphes suivants sont tirés de l'ECF :
+[TRADUCTION]
+137. Une lettre dans laquelle le ministère de l'Infrastructure d'Alberta informe Lethbridge que la demande de subvention de 9 999,17 $ qu'elle a présentée en vertu de l'initiative concernant l'étude des routes rurales est en train d'être traitée est jointe à l'onglet 108 et fait partie de l'exposé conjoint des faits.
+138. Lethbridge a engagé des dépenses de 9 767,77 $ en vertu du programme de parrainage de l'initiative concernant l'étude des routes rurales et demande des crédits de taxe sur les intrants de 293,03 $ (déduction faite du remboursement accordé aux OSP).
+[21] L'onglet 108 comprend les lignes directrices applicables à l'initiative concernant l'étude des routes rurales, qui sont les mêmes que celles qui s'appliquent à Two Hills, ainsi qu'un accord de subvention conditionnelle identique à celui qui a été conclu avec Spirit River.
+Analyse et conclusion
+[22] Aucune copie de l'accord de subvention conditionnelle signé n'a été produite dans le cas de Two Hills, mais on peut supposer que l'accord était rédigé dans la forme prévue par les lignes directrices. Comme il en a ci‑dessus été fait mention, ces lignes directrices prévoyaient que, sur approbation de la demande, la municipalité devait être prête à conclure avec la province un accord de subvention conditionnelle. Des copies de l'accord applicable à Spirit River et de l'accord applicable à Lethbridge ont été produites.
+[23] Comme le stipule l'accord de subvention conditionnelle, le montant versé à Spirit River par la province était payable aux termes de l'accord dès que Spirit River aurait satisfait aux conditions contractuelles. Cette conclusion s'applique également à Two Hills et à Lethbridge.
+3. Programme de partenariat concernant les routes secondaires
+[24] Il y a quatre accords, l'un pour Two Hills et les trois autres pour Lethbridge, lesquels ont été conclus avec la province en vertu de ce programme. L'accord conclu par Two Hills et l'accord conclu par Lethbridge, à l'onglet 107, sont désignés comme étant un protocole d'entente conclu par le ministère de l'Infrastructure d'Alberta et le comté de Two Hills no 21 et un protocole d'entente conclu par le ministère de l'Infrastructure d'Alberta et le comté de Lethbridge no 26. Chacun de ces deux accords comporte l'inscription suivante sur la page couverture :
+[TRADUCTION]
+Période transitoire, avant que la province assume la direction et la gestion de toutes les routes secondaires de la municipalité.
+[25] Quant aux accords conclus par Two Hills et par Lethbridge, l'ECF nous informe de ce qui suit :
+[TRADUCTION]
+26. Avant le 1er avril 2000, les municipalités assumaient la direction et la gestion des routes secondaires de la province d'Alberta. La province d'Alberta assume la direction et la gestion de toutes les routes secondaires situées dans les municipalités de la province depuis le 1er avril 2000. La province assume la responsabilité financière de toutes les routes secondaires de la province, et notamment des travaux d'entretien et de construction, depuis le 1er avril 2000. Tant qu'elle n'a pas pu assurer la coordination des activités d'entretien, la province a effectué des paiements transitoires aux municipalités. Ces paiements étaient effectués selon un taux au kilomètre variant de 3 000 $ le kilomètre par année à 10 000 $ le kilomètre par année, selon la largeur de la route.
+27. La province d'Alberta et Two Hills ont conclu un protocole d'entente pour la période transitoire précédant le moment où la province a assumé la direction et la gestion des routes secondaires de Two Hills. Le protocole d'entente conclu par le ministère de l'Infrastructure d'Alberta et Two Hills pour la période transitoire précédant le moment où la province a assumé la direction et la gestion des routes secondaires de la municipalité, le 11 février 2000, est joint à l'onglet 24 et fait partie du présent exposé conjoint des faits.
+[Non souligné dans l'original.]
+28. Two Hills a engagé, en vertu de l'entente transitoire concernant les routes secondaires, des dépenses de 45 350,72 $ pour lesquelles des crédits de taxe sur les intrants de 1 853,44 $ (déduction faite du remboursement accordé aux OSP) ont été demandés. Two Hills adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 1 271,60 $.
+[26] En ce qui concerne l'entente susmentionnée concernant Lethbridge, les paragraphes 134 et 135 de l'ECF sont rédigés comme suit :
+[TRADUCTION]
+134. La province d'Alberta et Lethbridge ont conclu un protocole d'entente pour la période transitoire précédant le moment où la province a assumé la direction et la gestion des routes secondaires de Lethbridge. Le protocole d'entente conclu par le ministère de l'Infrastructure d'Alberta et Lethbridge pour la période transitoire précédant le moment où la province a assumé la direction et la gestion des routes secondaires de la municipalité, le 11 février 2000, est joint à l'onglet 107 et fait partie du présent exposé conjoint des faits.
+[Non souligné dans l'original.]
+135. Lethbridge a engagé, en vertu de l'entente transitoire concernant les routes secondaires, des dépenses de 477 254,06 $, pour lesquelles des crédits de taxe sur les intrants de 14 412 $ (déduction faite du remboursement accordé aux OSP) ont été demandés. Lethbridge adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 14 317,62 $ (déduction faite du remboursement accordé aux OSP).
+[27] Le libellé pertinent des deux ententes susmentionnées est reproduit ci‑après :
+[TRADUCTION]
+3. Pendant la période transitoire, la municipalité maintiendra le degré actuel d'entretien et de gestion, notamment en ce qui concerne l'entretien de la couche de surface, les emprises de ponts, les dispositifs de signalisation, les installations d'éclairage, la prestation de services d'urgence, les services de police et d'exécution des lois, la gestion des aménagements le long des routes, l'accès et les limites de vitesse, sur toutes les routes secondaires situées dans les limites de la municipalité.
+4. [...] le ministre versera à la municipalité un montant annuel équivalent de 3 100 $ par kilomètre pour les routes secondaires situées dans la municipalité à titre d'indemnité globale pour l'administration et la prestation desdits services. Ledit montant comprend également les frais se rattachant aux services administratifs fournis au ministre par la municipalité.
+[Non souligné dans l'original.]
+Une clause dans chacune de ces ententes prévoit que le montant du paiement rajusté réel et le calendrier de paiement figurent à l'annexe A jointe à l'entente. En ce qui concerne l'entente conclue par Two Hills, l'annexe indique ce qui suit :
+[TRADUCTION]
+Montant total dû par le ministère de l'Infrastructure d'Alberta : 1 011 685 $
+et
+Montant total payé par le ministère de l'Infrastructure d'Alberta : 1 011 685 $
+Une annexe similaire figure dans l'entente conclue par Lethbridge; elle indique un [TRADUCTION] « Montant total payable par le ministère de l'Infrastructure d'Alberta » de 1 304 420 $ et le même montant est décrit comme étant le [TRADUCTION] « Montant total payé par le ministère de l'Infrastructure d'Alberta ».
+[28] En ce qui concerne l'entente du 17 juin 1997 conclue par le ministère des Transports et des Services publics d'Alberta et Lethbridge au sujet de la route secondaire 520, l'ECF dit ce qui suit :
+[TRADUCTION]
+127. Le protocole d'entente daté du 17 juin 1997 conclu par le ministère des Transports et des Services publics d'Alberta et Lethbridge à l'égard de la construction de la route secondaire 520‑06 est joint à l'onglet 102 et fait partie du présent exposé conjoint des faits [...]
+128. Une lettre datée du 28 janvier 1999 de Lethbridge au ministère des Transports et des Services publics d'Alberta à laquelle étaient joints des rapports d'achèvement des travaux de nivelage de la route secondaire 520, sur 3,93 kilomètres, est jointe à l'onglet 103 et fait partie du présent exposé conjoint des faits.
+129. Une lettre datée du 26 octobre 1999 de Lethbridge au ministère des Transports et des Services publics d'Alberta à laquelle étaient joints des rapports d'achèvement des travaux de nivelage de la route secondaire 520, sur 4,86 kilomètres, est jointe à l'onglet 104 et fait partie du présent exposé conjoint des faits.
+[29] Certaines parties de cette entente sont rédigées comme suit :
+[TRADUCTION]
+Le droit de propriété afférent à ladite route secondaire 520 est dévolu à la Couronne du chef de l'Alberta;
+En vertu de l'article 12 de la loi intitulée Public Highways Development Act (Loi sur l'aménagement des voies publiques), le ministre peut conclure avec une municipalité rurale une entente aux fins de la construction de routes secondaires situées dans les limites de la municipalité; [...]
+En contrepartie des conditions énoncées dans le présent document, les parties conviennent de ce qui suit :
+1. La municipalité exécutera des travaux de nivelage de la route secondaire 520 [...] conformément aux plans et devis détaillés approuvés par le ministre.
+2. Les parties conviennent que le coût prévu des travaux est de CINQ CENT QUATRE‑VINGT‑QUATRE MILLE DOLLARS (584 000 $), comme l'indique le tableau des coûts, [...] joint au présent document et faisant partie de la présente entente; la municipalité recevra un crédit pour ces travaux en vertu du programme de partenariat concernant les routes secondaires.
+[...]
+8. Les parties s'engagent à donner à la présente entente une interprétation juste et libérale et à négocier d'une façon équitable et honnête toute modification ou tout changement qui peut s'avérer nécessaire par suite d'un changement de circonstances.
+[30] L'entente prévoit en outre que le ministre a le droit d'inspecter les travaux et d'examiner les documents de la municipalité et que la municipalité aura recours à des ingénieurs‑conseils compétents et, entre autres, qu'elle achèvera les travaux dans le délai imparti.
+[31] Dans une lettre datée du 10 février 1997 adressée à la province, Lethbridge dit ce qui suit :
+[TRADUCTION]
+[...] le comté demandera un crédit à l'égard des frais engagés qui ne sont pas couverts par la contribution du gouvernement de l'Alberta à ce programme.
+[33] Une lettre datée du 2 février 1999 de la province à Lethbridge est en partie rédigée comme suit :
+[TRADUCTION]
+L'approbation du crédit pour les travaux de nivelage exécutés en 1998 et l'offre du comté de financer des travaux additionnels de nivelage en 1999 exigeront une modification de l'entente PMB 022/97.
+Veuillez signer la modification ci‑jointe et la retourner à notre bureau. À la suite de la signature de cette modification, le comté recevra un crédit de 80 000 $ par kilomètre pour les travaux exécutés sur 3,9 kilomètres en 1998. Une contribution de 314 400 $ sera inscrite dans le registre des investissements du programme de partenariat concernant les routes secondaires pour l'année 1998.
+Une modification apportée à l'ancienne entente, portant le coût prévu à 729 600 $, était jointe à la lettre. La modification est en partie rédigée comme suit :
+[TRADUCTION]
+[...] que la municipalité recevra pour ce projet un crédit en vertu du programme de partenariat concernant les routes secondaires.
+[34] Une copie d'une lettre que Lethbridge a envoyée à la province, datée du 28 janvier 1999 et figurant dans le recueil de pièces, est rédigée en partie comme suit :
+[TRADUCTION]
+Le comté de Lethbridge, avec l'aide technique de Torchinsky Engineering Ltd., a achevé, sur 3,93 kilomètres, les travaux de nivelage de la R.S. 520:06. Les rapports de Torchinsky Engineering sont joints aux présentes.
+Les travaux de construction ont été exécutés à l'aide de la main‑d'oeuvre et de l'équipement du comté. Nous vous serions reconnaissants de nous accorder un crédit fondé sur votre formule type.
+Je vous remercie de votre aide continue quant à cet aspect important de l'infrastructure routière du comté.
+[35] Une lettre datée du 18 janvier 1999 que Torchinsky Engineering Ltd. a envoyée à Lethbridge renferme le paragraphe suivant :
+[TRADUCTION]
+Vous trouverez ci‑jointes deux copies du rapport d'achèvement des travaux de construction exécutés sur la R.S. 520:06 en 1998. Veuillez transmettre une copie du rapport au ministère des Transports et des Services publics d'Alberta étant donné que celui‑ci a besoin de ces renseignements pour le crédit accordé en vertu du programme de partenariat concernant les routes secondaires, l'autre copie étant destinée à vos dossiers.
+[36] En ce qui concerne l'entente du 28 août 1998 que Lethbridge a conclue, l'ECF est rédigé comme suit :
+[TRADUCTION]
+127. Le protocole d'entente du 28 août 1998 conclu par le ministère des Transports et des Services publics d'Alberta et Lethbridge à l'égard de la construction de la route secondaire 843:02 entre un point situé au sud de Picture Butte et la limite sud de Picture Butte, sur une distance de 1,9 kilomètre, est joint à l'onglet 105 et fait partie du présent exposé conjoint des faits.
+128. Une lettre datée du 26 janvier 1999 de Lethbridge au ministère des Transports et des Services publics d'Alberta, renfermant le rapport final concernant les travaux de construction exécutés sur la route secondaire 843, est jointe à l'onglet 106 et fait partie du présent exposé conjoint des faits.
+[37] L'entente susmentionnée renferme les mêmes conditions que l'entente conclue par Lethbridge le 17 juin 1997 en ce qui concerne l'article 12 de la Public Highways Development Act et l'engagement pris par la municipalité au sujet de l'exécution de travaux de construction sur approbation écrite du ministre. La clause 3 de l'entente est rédigée comme suit :
+[TRADUCTION]
+Le ministre convient de payer les frais engagés par la municipalité pour les travaux jusqu'à concurrence d'un montant de DEUX CENT DIX MILLE QUATRE CENT ONZE DOLLARS (210 411 $) comme l'indique le tableau des coûts [...] joint au présent document et faisant partie de la présente entente. [...]
+Le reste de l'entente comprend des clauses types concernant le droit d'inspection du ministre et le recours approprié par la municipalité à des ingénieurs‑conseils, et ainsi de suite.
+[38] Dans une lettre envoyée à Lethbridge le 12 mars 1998 (laquelle a été rédigée plusieurs mois avant la signature de l'entente), la province dit notamment ce qui suit :
+[TRADUCTION]
+C'est avec plaisir que je tiens à informer le conseil que le gouvernement accordera une aide financière en vertu du programme de partenariat concernant les routes secondaires aux fins de travaux de revêtement de la route secondaire 843 depuis un point situé au sud de Picture Butte jusqu'à Picture Butte.
+[Non souligné dans l'original.]
+[39] Le recueil des pièces comprend une lettre datée du 26 janvier 1999 de Lethbridge à la province, à laquelle est jointe la facture no 9801 au montant de 287 934,13 $. L'ECF contient un résumé, qui est rédigé comme suit :
+[TRADUCTION]
+132. Lethbridge a engagé des dépenses d'un montant de 391 182,76 $ en vertu du programme de partenariat concernant les routes secondaires. Lethbridge a initialement demandé des crédits de taxe sur les intrants pour ce programme en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries et du programme d'amélioration des routes d'accès aux ressources naturelles. Lethbridge adopte maintenant la position selon laquelle il a droit à des crédits de taxe sur les intrants de 11 446,94 $ (déduction faite du remboursement accordé aux OSP) en vertu de ce programme[2].
+Analyse et conclusion
+[40] Dans ses observations écrites, l'avocate de l'intimée a déclaré ce qui suit :
+[TRADUCTION]
+En ce qui concerne l'aide financière accordée en vertu de l'entente transitoire concernant les routes secondaires, l'intimée reconnaît que le financement par subvention constituait la contrepartie d'une fourniture. Au mois d'avril 2000, la province a assumé la direction et la gestion des routes secondaires. La province a également assumé la responsabilité financière des routes secondaires. Par conséquent, lorsque les municipalités exécutaient des travaux de voirie, elles le faisaient au profit de la province. La province a reçu quelque chose en échange des paiements de transfert.
+[Non souligné dans l'original.]
+[41] Quant à l'entente du 17 juin 1997 conclue par Lethbridge, l'entente prévoit clairement qu'en contrepartie des conditions qui y sont énoncées, Lethbridge :
+[TRADUCTION]
+[...] exécutera[it] des travaux de nivelage de la route secondaire 520 [...] conformément aux plans et devis détaillés approuvés par le ministre.
+L'entente prévoit également ce qui suit :
+[TRADUCTION]
+Les parties conviennent que le coût prévu des travaux est de CINQ CENT QUATRE‑VINGT‑QUATRE MILLE DOLLARS (584 000 $), comme l'indique le tableau des coûts, [...] joint au présent document et faisant partie de la présente entente; la municipalité recevra un crédit pour ces travaux en vertu du programme de partenariat concernant les routes secondaires.
+[Non souligné dans l'original.]
+Une entente modificatrice était rédigée en des termes similaires. La province devait verser à Lethbridge le montant qui y était indiqué.
+[42] En ce qui concerne l'entente conclue par Lethbridge le 28 août 1998, la province convient expressément de payer les frais engagés par la municipalité pour certains travaux précis jusqu'à concurrence du montant maximal indiqué dans le tableau des coûts joint à cette entente et en faisant partie.
+[43] Selon les ententes conclues par Lethbridge les 17 juin 1997 et 28 août 1998, la province devait verser certains montants à Lethbridge.
+4. Programme de subvention au transport rural
+[44] Dix accords ont été conclus en vertu de ce programme. Sept accords sont presque identiques et les trois accords dont est composé l'autre groupe sont presque identiques. Par conséquent, je ferai des commentaires au sujet d'un accord représentatif pour chacun de ces groupes. Avant de référer à ces accords, l'ECF énonce les éléments suivants pour ce qui est de ce programme :
+[TRADUCTION]
+30. Le programme de subvention au transport rural (la « STR ») permet aux municipalités de rendre leurs infrastructures locales plus sûres pour le public qui les utilise. La STR vise à aider les municipalités à améliorer leurs réseaux routiers locaux. En vertu de ce programme, les municipalités étaient tenues de remettre au ministère de l'Infrastructure d'Alberta, pour examen et approbation, une liste des travaux envisagés pour l'année à venir, en général au plus tard le 1er avril. Après avoir examiné la liste des travaux projetés, le ministère de l'Infrastructure d'Alberta informait la municipalité du montant de la subvention accordée. Le montant de la subvention était déterminé selon une formule dans laquelle il était tenu compte de la population, du nombre de kilomètres de routes ouvertes, d'une évaluation normalisée ainsi que de la topographie. Les municipalités remettaient un état des dépenses à la province d'Alberta à la fin de chaque année. Le montant de la subvention ne représentait qu'une partie des coûts associés au projet. Le reste des coûts étaient payés à l'aide des impôts fonciers des municipalités. Le ministère des Transports d'Alberta donne un aperçu du programme sur son site Web. La description du programme pour l'exercice 2004‑2005 est jointe à l'onglet 25 et fait partie du présent exposé conjoint des faits. Pour les besoins du présent appel, les parties conviennent que, même si la description du programme ci‑jointe se rapporte à l'exercice 2004‑2005, il n'y a pas de différences importantes dans la description du programme pour les périodes ici en cause.
+Two Hills
+[TRADUCTION]
+31. Two Hills et la province d'Alberta ont conclu un certain nombre d'accords concernant la STR pour la période en question. Le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Two Hills le 12 mai 1997, le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Two Hills le 23 février 1998, et le protocole d'entente conclu le 6 mai 1999 par le ministère des Transports et des Services publics d'Alberta et Two Hills à l'égard de la subvention au transport rural sont joints aux onglets 26, 27 et 28 et font partie du présent exposé conjoint des faits.
+44. Pendant la période en question, Two Hills a engagé, à l'égard de la STR, des dépenses de 2 887 707,64 $ pour lesquelles des crédits de taxe sur les intrants de 106 627,06 $ ont été demandés (déduction faite du remboursement accordé aux OSP). Two Hills adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 80 824,07 $.
+Exercice 1997‑1998
+[45] En plus des éléments susmentionnés, je résumerai les autres documents concernant Two Hills. Dans une lettre envoyée à Two Hills le 14 avril 1997, la province dit notamment ce qui suit :
+[TRADUCTION]
+C'est avec plaisir que je tiens à vous informer que la subvention au transport rural de 1997‑1998 accordée au comté de Two Hills no 21 sera de 367 117 $.
+Comme par le passé, une fois que vous aurez défini vos projets et que vous aurez signé l'acte de fiducie, une avance initiale représentant 50 p. 100 du montant total alloué vous sera transmise. Lorsque les travaux seront achevés et sur présentation d'un état sommaire des coûts, nous procéderons au traitement du reste du montant alloué.
+Veuillez signer les deux copies de l'acte de fiducie ci‑joint et me les retourner avec la liste des projets que vous entendez réaliser cette année.
+[46] Le 7 mai 1997, Two Hills a envoyé la lettre suivante à Rob Penny, l'auteur de la lettre susmentionnée, apparemment en réponse à cette lettre :
+[TRADUCTION]
+Vous trouverez ci‑jointes deux (2) copies signées du protocole d'entente concernant la subvention au transport rural 1997‑1998.
+La lettre était accompagnée de la liste des projets approuvés par Two Hills qui devaient être réalisés.
+[47] Dans une lettre datée du 12 mai 1997, Rob Penny joignait la copie destinée à Two Hills de [TRADUCTION] l'« accord final de subvention au transport rural ». L'auteur de la lettre disait également que la province était en train de traiter la demande pour la somme de 183 559 $ accordée à Two Hills. Monsieur Penny disait que ce montant représentait une avance en fiducie de 50 p. 100 de la subvention au transport rural 1997‑1998. Il demandait à Two Hills de transmettre à la province un état certifié des coûts une fois achevés les travaux spécifiés :
+[TRADUCTION]
+[...] pour que la demande quant au reste de la subvention puisse être traitée aux fins du paiement.
+[48] Dans une lettre envoyée à la province le 22 janvier 1998, Two Hills indiquait le coût de construction et le coût du gravier, et joignait des copies des factures se rapportant aux travaux de génie, à l'huile abat‑poussière et au transport par camion, ainsi qu'au coût total des camions et au coût du gravier, ce qui représentait en tout un montant de 1 640 060 $. À la fin de la lettre se trouvait le paragraphe suivant :
+[TRADUCTION]
+Nous reconnaissons votre examen favorable et rapide à l'égard de cette demande.
+Exercice 1998‑1999
+[49] Dans une lettre envoyée à Two Hills le 13 février 1998, la province disait notamment ce qui suit :
+[TRADUCTION]
+C'est avec plaisir que je tiens à vous informer que la subvention ordinaire au transport rural (la STR) de 1998‑1999 accordée au comté de Two Hills no 21 sera de 367 117 $.
+Comme par le passé, une avance initiale représentant 50 p. 100 du montant total de la STR sera transmise au début de l'année. Lorsque les travaux seront achevés et sur présentation, à mon attention, d'un état sommaire des coûts, nous procéderons au traitement du reste du montant alloué.
+C'est également avec plaisir que je tiens à vous informer que le gouvernement de l'Alberta accordera une aide financière supplémentaire de 533 504 $ pour l'infrastructure liée au transport dans votre municipalité et que la somme sera avancée au début de l'année. Ce paiement additionnel unique destiné à votre infrastructure routière sera effectué en raison de l'augmentation de la circulation sur les routes municipales. Ce financement supplémentaire est régi par les mêmes critères que la STR ordinaire pour ce qui est de l'admissibilité et de l'obligation de rendre compte.
+L'auteur de la lettre, Rob Penny, demande ensuite à Two Hills de signer les deux copies de l'acte de fiducie jointes à la lettre et de les lui retourner.
+[50] Dans une lettre envoyée à la province le 17 février 1998, à l'attention de Rob Penny, Two Hills joint deux copies signées du protocole d'entente relativement à la subvention au transport rural de 1998‑1999. Il indique ensuite les projets devant être réalisés en 1998 [TRADUCTION] « à l'aide des fonds obtenus grâce à la subvention en question ». Il fait savoir qu'une fois les travaux achevés, il soumettra à la province un état final des coûts. Two Hills ajoute qu'il attend avec empressement la réception du montant représentant 50 p. 100 du montant total (ce montant s'élevant à 450 310,50 $) au début de l'exercice.
+[51] Dans une lettre envoyée à la province le 22 janvier 1999, à l'attention de Rob Penny, Two Hills indique le coût total des travaux et joint des factures s'élevant en tout à 1 209 112 $, qu'il décrit comme étant la [TRADUCTION] « réclamation finale ».
+Exercice 1999‑2000
+[52] Dans une lettre envoyée à Two Hills le 12 mai 1999, Rob Penny accuse réception des copies signées de l'accord de subvention au transport rural, c'est‑à‑dire de l'accord du 6 mai 1999 susmentionné, et d'un résumé des projets prévus pour l'année 1999. Il joint une copie de cet accord destinée à Two Hills. Il fait également savoir que la demande pour la somme de 563 431 $ est en train d'être traitée, ce montant représentant le montant total de la subvention ordinaire, soit 367 117 $, et le montant total injecté par le groupe de travail du premier ministre, s'élevant à 196 314 $. L'auteur de la lettre demande à Two Hills de faire parvenir un état certifié des coûts dès que les travaux seront achevés.
+[53] Dans une lettre en date du 24 février 2000 adressée à Rob Penny, Two Hills joint un état des dépenses pour l'année 1999. Dans une lettre envoyée à Rob Penny le 12 février 2001, Two Hills traite de l'état des dépenses pour l'année 2000, qui est joint à la lettre.
+Spirit River
+[54] L'ECF renferme également les paragraphes suivants :
+[TRADUCTION]
+75. Spirit River et la province d'Alberta ont conclu un certain nombre d'accords concernant la STR pour la période en question. Le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Spirit River le 19 mars 1998, le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Spirit River le 5 novembre 1998 et le protocole d'entente conclu le 25 juin 1999 par le ministère des Transports et des Services publics d'Alberta et Spirit River à l'égard de la subvention au transport rural sont joints aux onglets 55, 56 et 57 et font partie du présent exposé conjoint des faits.
+[...]
+89. Pendant la période en question, Spirit River a engagé à l'égard de la STR des dépenses de 1 535 070,33 $ pour lesquelles des crédits de taxe sur les intrants de 51 689 $ ont été demandés. Spirit River adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 46 052,11 $ (déduction faite du remboursement accordé aux OSP).
+[55] Il y a treize lettres, onglets 58 à 70 inclusivement, entre la province et Spirit River, dont le contenu et la teneur sont essentiellement identiques, sauf pour les chiffres, aux lettres décrites ci‑dessus à l'égard de Two Hills.
+Lethbridge
+[56] L'ECF renferme ces autres paragraphes :
+[TRADUCTION]
+98. Lethbridge et la province d'Alberta ont conclu un certain nombre d'accords concernant la STR pour la période en question. Le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Lethbridge le 7 juillet 1997, le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Lethbridge le 3 mars 1998, le protocole d'entente en vue du paiement de la subvention au transport rural conclu par Sa Majesté la Reine et Lethbridge le 9 novembre 1998 et le protocole d'entente conclu le 2 juillet 1999 par le ministère des Transports et des Services publics d'Alberta et Lethbridge à l'égard de la subvention au transport rural sont joints aux onglets 71, 72 et 73 et font partie du présent exposé conjoint des faits.
+[...]
+116. Lethbridge a engagé des dépenses de 3 776 130 $ en vertu du programme concernant la STR, pour lesquelles des crédits de taxe sur les intrants ont été demandés (déduction faite du remboursement accordé aux OSP). Lethbridge adopte maintenant la position selon laquelle il a droit à des crédits de taxe sur les intrants de 113 282,90 $ (déduction faite du remboursement accordé aux OSP) à l'égard du programme de STR.
+[57] Il y a dix‑huit lettres, onglets 75 à 92 inclusivement, entre la province et Lethbridge, dont le contenu et la teneur sont essentiellement identiques, sauf pour les chiffres, aux lettres décrites ci‑dessus à l'égard de Two Hills et de Spirit River.
+Les sept accords se rapportant aux exercices 1997‑1998 et 1998‑1999
+[58] Sur les sept premiers accords, deux ont été conclus par la province et Two Hills, deux par la province et Spirit River et trois par la province et Lethbridge. Un accord représentatif des sept accords, daté du 12 mai 1997, conclu par la province et Two Hills, renferme un attendu disant que la province désire accorder à Two Hills les fonds nécessaires aux projets en vertu du programme. L'accord dit en outre que l'article 21 de la Public Highways Development Act autorise la province à conclure un accord avec une municipalité pour la construction d'une rue ou d'un chemin. La clause 2 de l'accord est rédigée comme suit :
+[TRADUCTION]
+La province s'engage par les présentes :
+a) à effectuer un paiement initial représentant 50 p. 100 de la subvention accordée pour l'exercice 1997‑1998, sur signature du présent accord par les deux parties et sur approbation des projets envisagés par le directeur régional;
+b) à effectuer un paiement final à l'égard du reste de la subvention accordée après réception de l'état final des coûts.
+[59] La municipalité s'engage ensuite à [TRADUCTION] « accepter les fonds accordés par la province » à certaines conditions. Elle doit notamment tenir un compte distinct à l'égard des fonds, elle doit exécuter les travaux conformément aux règles et règlements applicables, elle doit remettre à la province, une fois les travaux achevés, un état et un rapport sommaire des travaux approuvés, et ainsi de suite. La municipalité s'engage également à remettre à la province les sommes avancées en fiducie et non dépensées avant le 31 mars 1998.
+[60] Quant à six accords faisant partie du groupe de sept accords, une lettre dans chaque cas indique le montant de la subvention accordée et dit que lorsque les projets auront été définis et que l'acte de fiducie aura été signé, une avance initiale représentant 50 p. 100 du montant total alloué sera transmise. Ces lettres disent ensuite qu'une fois les travaux achevés et sur présentation d'un état sommaire des coûts, la demande quant au reste du montant alloué sera traitée. L'examen du septième accord semble montrer qu'il existait probablement une lettre, mais cette lettre n'était pas jointe à l'accord.
+Les trois accords relatifs à l'exercice 1999‑2000
+[61] Un accord conclu le 6 mai 1999 par la province et Two Hills, qui est représentatif des trois autres accords identiques, renferme un attendu disant qu'en vertu de l'article 21 de la Public Highways Development Act, la province [TRADUCTION] « peut conclure un accord avec une [...] municipalité pour la construction d'une rue ou d'un chemin qui est assujetti à sa direction et à sa gestion ». L'accord renferme également un attendu disant que la province désire [TRADUCTION] « accorder à la municipalité, à certaines conditions, les fonds nécessaires aux projets approuvés en vertu du programme de subvention au transport rural ». L'accord prévoit ensuite ce qui suit :
+[TRADUCTION]
+ATTENDU que la province s'est engagée à avancer ces fonds à la municipalité, à certaines conditions, tels qu'ils auront été approuvés chaque année :
+a) sur approbation par l'assemblée législative du budget nécessaire concernant la subvention au transport rural contenu dans le budget annuel de la province;
+b) sur examen et approbation par la province du programme annuel de projets admissibles de la municipalité;
+c) à compter de l'an 2000, après réception et acceptation par la province de l'état des dépenses de l'année antérieure de la municipalité en ce qui concerne la subvention au transport rural, l'état financier devant être certifié par un fonctionnaire municipal compétent.
+[...]
+[62] La municipalité s'engage à certaines conditions :
+[TRADUCTION]
+[...] à accepter les fonds accordés par la province.
+La municipalité s'engage notamment à remettre chaque année à la province la liste des travaux envisagés pour l'année, à tenir un compte distinct à l'égard des fonds avancés, à investir ces fonds d'une façon appropriée, à remettre les fonds avancés en fiducie et non dépensés avant la fin de l'exercice, à permettre à la province d'examiner les relevés de frais et d'inspecter les travaux, et ainsi de suite.
+[63] Une autre disposition de l'accord susmentionné du 6 mai 1999 traite des [TRADUCTION] « Lignes directrices administratives », dont on dit qu'elles sont jointes à l'annexe A. Bien qu'elles n'aient pas été transmises avec l'accord susmentionné, ces lignes directrices sont incluses dans les deux autres accords, à savoir l'accord du 25 juin 1999 conclu par la province et Spirit River et l'accord du 2 juillet 1999 conclu par la province et Lethbridge. Ces accords prévoient qu'à la suite de l'approbation du budget annuel de la province relativement à la subvention au transport rural et à la suite de l'acceptation de l'aperçu fourni par la municipalité au sujet des travaux qu'elle prévoit effectuer à l'aide des nouveaux fonds accordés et de l'état de l'année antérieure, le montant alloué à la municipalité pour l'année courante sera transmis à cette dernière. L'accord prévoit également que les lignes directrices administratives :
+[TRADUCTION]
+[...] peuvent être modifiées de temps à autre par la province sans que cela influe sur l'objectif de l'accord.
+Analyse et conclusion
+[64] L'accord, qui est représentatif des sept accords susmentionnés, prévoit expressément que la province s'engage à effectuer un paiement initial représentant 50 p. 100 du montant alloué après la signature de l'accord et l'approbation du directeur régional et à effectuer également un paiement final à l'égard du reste du montant engagé après réception de l'état final des coûts. En ce qui concerne la lettre à l'égard de laquelle j'ai dit qu'elle existait probablement, mais qu'elle n'avait pas été produite, je suis d'avis que son absence ne tire pas à conséquence. Il est à supposer que, dans cet accord, comme dans les six autres accords, la province s'est engagée à verser à Lethbridge un certain montant pour les services fournis. Chaque accord constituait un contrat aux termes duquel la province devait payer à Lethbridge le montant précisé lorsque les travaux seraient achevés.
+[65] L'accord qui est représentatif des trois accords ci‑dessus décrits dit qu'en vertu de l'article 21 de la Public Highways Development Act, la province [TRADUCTION] « peut conclure un accord avec une [...] municipalité pour la construction d'une rue ou d'un chemin qui est assujetti à sa direction et à sa gestion ». Les mêmes termes, [TRADUCTION] « peut conclure un accord », figurent dans cette loi. La première clause de l'accord prévoit que le préambule est incorporé dans l'entente et en fait partie intégrante. De toute évidence, ce préambule est constitué de la série d'attendus, dont l'un est libellé comme suit :
+[TRADUCTION]
+[...] La province s'est engagée à avancer ces fonds à la municipalité, à certaines conditions, tels qu'ils auront été approuvés chaque année [...].
+Il est précisé que cet engagement est assujetti à l'approbation de l'assemblée législative, combinée au budget annuel de la province, et à l'approbation par la province du programme envisagé par la municipalité. Il est difficile et peut‑être inutile de tenter d'analyser la signification de la première clause. Quoi qu'il en soit, il n'existe dans ce document aucun engagement de la part de la province à verser quelque montant que ce soit à la municipalité. La clause 2a) réfère aux [TRADUCTION] « Lignes directrices administratives », mais ces lignes directrices ne sont pas incorporées dans l'accord. L'accord prévoit que la province peut modifier les lignes directrices de temps à autre [TRADUCTION] « sans que cela influe sur l'objectif de l'accord ». Il prévoit également que la municipalité [TRADUCTION] « s'engage par les présentes à accepter les fonds accordés par la province [...] ». Comme il en a ci‑dessus été fait mention, un certain nombre de conditions sont imposées à la municipalité (lesquelles s'appliquent aux trois appelants).
+[66] L'accord comporte également les deux dispositions suivantes :
+[TRADUCTION]
+Les parties s'engagent à donner au présent accord une interprétation juste et libérale et, au besoin, à négocier d'une façon équitable et honnête toute modification de l'accord ou tout changement afin de se conformer à son esprit et de corriger toute omission.
+[...]
+La province peut résilier le présent accord en tout temps, conformément à l'intention exprimée dans le préambule.
+[67] Toutefois, la teneur de cet accord, combinée à la série de lettres concernant chacun des trois appelants, indique l'existence d'une obligation de la part de la province de payer à chaque appelant les services fournis. Les montants dépensés par les municipalités sont indiqués dans chaque cas et le montant payé par la province à chacun des appelants est indiqué dans chaque cas. Sur ce point, je conclus que les montants reçus par les appelants leur étaient payables par la province.
+5. Programme d'infrastructure Canada‑Alberta
+[68] Ce programme concerne uniquement Spirit River. L'ECF renferme, au sujet de ce programme, quatre paragraphes qui sont rédigés comme suit :
+[TRADUCTION]
+53. Le Programme canadien d'infrastructures agricoles (le « PCIA ») est un partenariat entre les gouvernements de l'ordre fédéral, provincial et municipal. En vertu du PCIA, le gouvernement fédéral et le gouvernement provincial paient chacun un tiers (1/3) des frais engagés par la municipalité à l'égard du projet. Le PCIA vise à améliorer l'infrastructure agricole en Alberta. Une description du PCIA est jointe à l'onglet 39 et fait partie du présent exposé conjoint des faits.
+54. Le 20 février 1997, Spirit River a conclu avec la province d'Alberta un accord de contribution en vertu du PCIA. Une copie de l'accord de contribution est jointe à l'onglet 40 et fait partie du présent exposé conjoint des faits. Le 10 décembre 1997 ou vers cette date, Spirit River a également conclu un accord de contribution avec le gouvernement du Canada en vertu du PCIA. Une copie de l'accord de contribution est jointe à l'onglet 41 et fait partie du présent exposé conjoint des faits. En vertu du PCIA, Spirit River a effectué et achevé certaines activités à l'égard du chemin Alberta Wheat Pool, également appelé chemin Elevator (ci‑après désigné « chemin Wheat Pool »), et du chemin Ross. Un formulaire de demande de financement daté du 23 juin 1997 présenté par Spirit River pour les travaux d'amélioration du chemin Ross est joint à l'onglet 42 et fait partie du présent exposé conjoint des faits.
+55. Le rapport final concernant les projets municipaux est joint à l'onglet 43 et fait partie du présent exposé conjoint des faits.
+56. Spirit River a engagé, pour les activités effectuées et achevées en vertu du PCIA, des dépenses d'environ 794 667 $ pour lesquelles des crédits de taxe sur les intrants de 30 102 $ ont été demandés. Spirit River adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 23 840 $.
+Le PCIA est décrit, à l'onglet 39, comme étant :
+[TRADUCTION]
+[...] une initiative d'une durée de deux ans, financée par le gouvernement fédéral, concernant des investissements dans l'infrastructure routière.
+Les projets qui peuvent être financés sont ensuite désignés.
+[69] L'onglet 40 est intitulé [TRADUCTION] « Accord de contribution – 1997 »; l'accord est daté du 20 février 1997. Il a été conclu par la province et Spirit River. Spirit River se voit accorder une contribution maximale combinée fédérale‑provinciale de 21 793,32 $ en vertu de l'accord relatif au PCIA (joint à l'annexe I). Cet accord ne figure pas dans les documents produits en preuve. Il prévoit en outre que l'aide financière :
+[TRADUCTION]
+[...] sera versée au demandeur conformément :
+1) à l'accord relatif au Programme d'infrastructure Canada‑Alberta et aux modifications y afférentes;
+2) aux lignes directrices applicables au programme transmises par le ministère à tous les gouvernements locaux le 7 février 1997;
+3) à tout bulletin d'information ou d'interprétation publié par le comité de gestion créé aux fins de l'accord relatif au programme d'infrastructure Canada‑Alberta.
+Les documents décrits aux numéros 1) et 3) n'ont pas été inclus.
+[70] Le seul paragraphe de cet accord qui traite de la contrepartie est rédigé comme suit :
+[TRADUCTION]
+4. L'Alberta peut résilier l'accord de contribution en donnant un préavis écrit de sept jours au demandeur. Tous les fonds reçus par le demandeur avant la résiliation doivent être retournés au trésorier provincial sur demande, sauf le montant dont le comité de gestion aura besoin aux fins de la réalisation des projets entrepris par le demandeur avant la résiliation.
+Cet accord réfère aux conditions de l'accord relatif au programme d'infrastructure Canada‑Alberta daté du 18 février 1994. Aucune copie de cet accord n'a été produite. Un document intitulé [TRADUCTION] « Renseignements et lignes directrices » présenté avec cet accord est tout simplement ce qu'il affirme être. Il ne renferme pas d'engagements.
+[71] L'onglet 41 comprend l'accord de contribution relatif au Programme canadien d'infrastructures agricoles (Alberta 1996‑1997) ci‑dessus décrit. Il s'agit d'un accord daté du 10 décembre 1997 conclu par le gouvernement du Canada (le « Canada ») et Spirit River. Dans un attendu, il est mentionné que Spirit River a demandé au Canada une aide financière en vertu du Programme canadien d'infrastructures agricoles (Alberta 1996‑1997). Un deuxième attendu est rédigé comme suit :
+[TRADUCTION]
+ET ATTENDU que le projet en question a été approuvé par le comité de gestion du PCIA au coût estimatif de trois cent mille cent cinquante‑huit dollars (300 158 $), l'approbation étant jointe à l'annexe B du présent accord de contribution;
+Dans le corps de l'accord, le Canada s'engage, sous réserve de la réalisation du projet à sa satisfaction, à verser à la demanderesse :
+[TRADUCTION]
+[...] une contribution financière correspondant à soixante‑six et deux tiers pour cent (66 2/3 %) des coûts approuvés pour la phase un du projet, telle qu'elle est ci‑dessus décrite, payable par le Canada jusqu'à concurrence d'un maximum de deux cent mille cent cinq dollars (200 105 $). [...] En cas de désaccord au sujet des présumés frais partagés, le cas échéant, la décision du Canada concernant les présumés frais partagés sera finale et concluante.
+Le Canada s'engage également à payer la contribution mentionnée compte tenu des factures soumises ou d'une preuve de paiement faisant état des dépenses réellement engagées ou payées par Spirit River.
+[72] Le montant contribué par le Canada à l'égard du projet ne confère pas au Canada un droit de propriété sur le projet et le Canada, par cet accord de contribution, n'assume pas la direction, l'exploitation ou l'entretien des travaux visés par le projet.
+Analyse et conclusion
+[73] L'accord de contribution conclu par la province et Spirit River, lequel figure à l'onglet 40, ne renferme pas d'obligation de la part de la province de payer l'appelant. Par conséquent, aucun montant n'est payable à Spirit River.
+[74] Dans ses observations écrites, l'avocat des appelants a dit ce qui suit :
+[TRADUCTION]
+55. Selon la position adoptée par Spirit River, l'article 7 du Règlement de l'Alberta 216/87 vise à assurer que le montant reçu à titre de subvention est dépensé aux fins précisées dans l'accord. L'article 9 confère au ministre des pouvoirs de vérification destinés à lui permettre de s'assurer que le montant de la subvention est dépensé à ces fins. Cela étant, il existe un lien direct entre la fourniture et la contrepartie.
+Le paragraphe 7(1) du Règlement 216/87 de l'Alberta est rédigé comme suit :
+[TRADUCTION]
+7(1) Le bénéficiaire d'une subvention utilisera le montant de la subvention :
+a) uniquement aux fins auxquelles la demande de subvention a été faite;
+b) si la demande initiale de subvention ou les fins auxquelles la subvention est accordée sont modifiées par le ministre et par le demandeur, à ces fins uniquement.
+L'avocat des appelants n'a pas présenté d'autres observations au sujet de l'accord conclu avec la province. Pour les motifs que j'énoncerai ci‑dessous, je conclus que la notion de « lien direct » ne s'applique pas. Aucun montant n'est payable à Spirit River par la province.
+[75] En vertu de l'accord de contribution conclu en vertu du Programme canadien infrastructures agricoles (Alberta 1996‑1997), aucun montant n'est payable à Spirit River par la province.
+6. Programme des routes d'accès aux ressources naturelles et des nouvelles industries
+[76] Il y a six accords en vertu de ce programme : un pour Two Hills, un pour Spirit River et quatre pour Lethbridge. En ce qui concerne ce programme, l'ECF est rédigé comme suit :
+[TRADUCTION]
+11. Le programme des routes d'accès aux ressources naturelles et des nouvelles industries était offert aux municipalités de l'Alberta. Ce programme visait à accorder une aide financière aux administrations locales pour la circulation des marchandises et le déplacement des gens associés à de nouvelles installations de traitement, ou à l'expansion d'installations de traitement à valeur ajoutée, pour les industries du secteur primaire et d'autres industries, ou associés à des exploitations agricoles intensives ou à des élévateurs à grains à haute capacité. Le programme s'appliquait aux chemins et ponts locaux, notamment aux améliorations apportées aux intersections des routes principales et des routes secondaires.
+12. Le financement prévu en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries était accordé pour un projet précis. Le financement visait à compenser l'incapacité des municipalités d'exiger des impôts des transporteurs ou des industries qui n'étaient pas établis sur leur territoire.
+13. Le 14 mars 2001, Two Hills a conclu un protocole d'entente avec le ministère de l'Infrastructure d'Alberta en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour la route d'accès Highland Feeders. Une copie du protocole d'entente est jointe à l'onglet 4 et fait partie du présent exposé conjoint des faits. La province d'Alberta a financé le projet jusqu'à concurrence du moins élevé des montants suivants : un montant correspondant à 75 p. 100 des frais réels à partager ou 740 940,31 $.
+14. Two Hills a engagé, en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries, des dépenses de 245 615,93 $ pour lesquelles des crédits de taxe sur les intrants de 7 392,29 $ (déduction faite du remboursement accordé aux OSP) ont été demandés. Two Hills adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 7 368,94 $.
+[...]
+58. Le 7 octobre 1999, Spirit River a conclu un protocole d'entente avec le ministère de l'Infrastructure d'Alberta en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour le projet d'amélioration des chemins pour élévateurs. Une copie du protocole d'entente est jointe à l'onglet 44 et fait partie du présent exposé conjoint des faits. En vertu de l'entente, Spirit River devait exécuter et achever certains travaux d'amélioration des chemins pour élévateurs tels que ces travaux étaient décrits dans le protocole d'entente.
+59. Spirit River a effectué les activités prévues par le protocole d'entente et a rendu compte au ministère de l'Infrastructure d'Alberta. Le ministère a accepté cette comptabilité comme en fait foi une lettre adressée à Spirit River, laquelle est jointe à l'onglet 45 et fait partie du présent exposé conjoint des faits.
+[...]
+60. Spirit River a engagé, en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries, des dépenses de 763 281,67 $ à l'égard desquelles des crédits de taxe sur les intrants de 22 819 $ (déduction faite du remboursement accordé aux OSP) ont été demandés. Spirit River adopte maintenant la position selon laquelle il a droit à des crédits de taxe sur les intrants de 22 898,45 $.
+118. Une demande soumise par Lethbridge en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour le chemin South Readymade est jointe à l'onglet 93 et fait partie du présent exposé conjoint des faits.
+119. Le 19 mars 1997, Lethbridge a conclu avec le ministère des Transports et des Services publics d'Alberta un protocole d'entente en vertu du programme d'amélioration des routes d'accès aux ressources naturelles pour le chemin South Readymade. Une copie du protocole d'entente est jointe à l'onglet 94 et fait partie du présent exposé conjoint des faits. En vertu de l'entente, Lethbridge s'engageait à niveler et à poser la couche de base et la couche de revêtement du chemin South Readymade.
+120. Le 19 mars 1997, Lethbridge a conclu avec le ministère des Transports et des Services publics d'Alberta un protocole d'entente en vertu du programme d'amélioration des routes d'accès aux ressources naturelles pour le chemin Kedon. Une copie du protocole d'entente est jointe à l'onglet 95 et fait partie du présent exposé conjoint des faits. Les parties conviennent que, dans les clauses 8 et 9, le chemin South Readymade est mentionné par erreur et qu'il devrait plutôt être fait mention du chemin Kedon. En vertu de l'entente, Lethbridge a nivelé le chemin Kedon et l'a recouvert de gravier.
+121. Par une lettre datée du 4 mars 1999 jointe à l'onglet 96 et faisant partie du présent exposé conjoint des faits, Lethbridge a soumis une demande en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour le chemin Kedon. La demande soumise au ministère de l'Infrastructure d'Alberta est jointe à l'onglet 97 et fait partie du présent exposé conjoint des faits. Une autre lettre de Lethbridge au ministère des Transports et des Services publics d'Alberta au sujet de la demande soumise en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries à l'égard du chemin Kedon est jointe à l'onglet 98 et fait partie du présent exposé conjoint des faits.
+122. Le 20 septembre 1999, Lethbridge a conclu avec le ministère de l'Infrastructure d'Alberta un protocole d'entente en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour le chemin Kedon. Une copie du protocole d'entente est jointe à l'onglet 99 et fait partie du présent exposé conjoint des faits.
+123. Par une lettre datée du 4 mars 1999 jointe à l'onglet 100 et faisant partie du présent exposé conjoint des faits, Lethbridge a soumis une demande en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour le chemin Powerline.
+124. Le 20 septembre 1999, Lethbridge a conclu avec le ministère de l'Infrastructure d'Alberta un protocole d'entente en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries pour le chemin Powerline. Une copie du protocole d'entente est jointe à l'onglet 101 et fait partie du présent exposé conjoint des faits.
+125. Lethbridge a engagé, en vertu du programme des routes d'accès aux ressources naturelles et des nouvelles industries, des dépenses de 2 067 562,01 $ pour lesquelles des crédits de taxe sur les intrants de 72 278 $ ont été demandés (déduction faite du remboursement accordé aux OSP). Lethbridge adopte maintenant la position selon laquelle il a uniquement droit à un crédit de taxe sur les intrants de 60 830,60 $ (déduction faite du remboursement accordé aux OSP).
+[77] À l'onglet 4 figure une entente conclue par la province et Two Hills, laquelle a été signée le 14 mars 2001. Les passages pertinents de cette entente sont les suivants :
+[TRADUCTION]
+La municipalité se propose de niveler la route d'accès Highland Feeders et de la recouvrir de gravier [...].
+Le droit de propriété afférent à ladite route d'accès Highland Feeders est dévolu à la Couronne du chef de l'Alberta [...].
+En vertu de l'article 21 de la Public Highway Development Act, le ministre peut conclure une entente avec une municipalité urbaine ou rurale en vue de la construction d'une rue ou d'un chemin, autre qu'une autoroute, situé dans les limites de [la] municipalité.
+En contrepartie des conditions énoncées dans le présent document et dans les lignes directrices applicables au programme des routes d'accès aux ressources naturelles et aux nouvelles industries qui sont jointes et incorporées dans le présent document sous la cote A, les parties conviennent de ce qui suit :
+1. La municipalité entreprendra la construction [...].
+2. La contribution maximale du ministre sera de SIX CENT QUATRE‑VINGT‑ONZE MILLE CINQ CENTS DOLLARS (691 500 $), ou correspondra à SOIXANTE‑QUINZE POUR CENT (75 p. 100) des frais réels à partager, en prenant le montant le moins élevé, comme le montre le tableau des coûts [...] ci‑joint [...].
+3. Le ministre pourra avancer une partie ou la totalité des fonds mentionnés dans la clause 2 en fiducie ou effectuer des paiements après réception de factures soumises par la municipalité fondées sur les dépenses réelles engagées à l'égard du projet.
+5. La municipalité acceptera les fonds accordés par le ministre aux conditions suivantes :
+[...] elle maintiendra une comptabilité distincte à l'égard des coûts [...];
+[...] les montants ou intérêts courus qui n'auront pas été dépensés une fois les travaux achevés ou une fois le projet terminé seront considérés comme une avance à imputer au programme des routes d'accès aux ressources naturelles et des nouvelles industries de l'année suivante ou à tout autre programme de transport spécifié par le ministre.
+Selon les autres engagements types, la municipalité doit accorder le droit d'examiner les relevés de frais et d'inspecter les travaux; elle doit avoir recours à des ingénieurs‑conseils compétents, et ainsi de suite.
+[78] Les autres accords sont presque identiques à l'accord conclu avec Two Hills.
+Analyse et conclusion
+[79] L'accord, qui est représentatif des six accords visés par ce programme, comprend un engagement de la part de la province de verser à chaque appelant un montant pour les services fournis après :
+[TRADUCTION]
+[...] réception des factures soumises par la municipalité fondées sur les dépenses réelles engagées à l'égard du projet.
+Par conséquent, le montant y afférent est un montant payable aux appelants par la province.
+7. Programme concernant les accords relatifs aux ponts et aux ponceaux
+[80] L'ECF comprend les paragraphes suivants se rapportant à ce programme à l'égard des trois appelants :
+[TRADUCTION]
+15. En vertu du programme concernant les accords relatifs aux ponts et aux ponceaux, le ministère des Transports et des Services publics (par la suite appelé le ministère de l'Infrastructure d'Alberta) était autorisé à fournir une aide financière aux municipalités pour les ponts. L'aide financière était fournie aux municipalités dans la mesure où le permettaient les budgets approuvés par l'assemblée législative provinciale. Les lignes directrices GAP‑01 concernant le financement du ministère des Transports pour les ponts des municipalités en date du 8 octobre 1998 sont jointes à l'onglet 5 et font partie du présent exposé conjoint des faits.
+16. Les dispositions en matière de financement applicables aux accords relatifs aux ponts et aux ponceaux étaient fondées sur le partage des frais, le ministère devant rembourser aux municipalités certains éléments admissibles à l'égard des projets approuvés et la municipalité devant de son côté payer les autres éléments. La province ne remboursait pas la TPS applicable. En général, la province d'Alberta assurait le financement dans une proportion de 75 p. 100.
+Two Hills
+[81] Les dispositions pertinentes de l'ECF sont les suivantes :
+[TRADUCTION]
+17. Le 18 février 1999, Two Hills a conclu avec Boutin Steel Erectors Ltd. un accord aux fins de la réalisation des projets autorisés par le ministère des Transports et des Services publics d'Alberta ou par le ministère de l'Infrastructure d'Alberta en vertu du programme concernant les accords relatifs aux ponts et aux ponceaux. L'accord conclu par Two Hills et Boutin Steel Erectors Ltd., qui décrit les travaux à exécuter, est joint à l'onglet 6.
+18. Two Hills a obtenu l'autorisation du ministère de l'Infrastructure d'Alberta pour divers travaux achevés sur les ponts, tels qu'ils sont décrits dans les documents d'autorisation suivants concernant les ponts qui sont joints aux onglets mentionnés et font partie du présent exposé conjoint des faits.
+19. En ce qui concerne les inspections des ponts (documents figurant aux onglets 7 à 19), le financement a été demandé pour les évaluations techniques à l'égard de la structure des ponts particuliers en cause. Compte tenu d'un plan préparé par Two Hills, la province a informé Two Hills des ponts qu'elle voulait faire inspecter chaque année.
+20. Two Hills a engagé, en vertu du programme concernant l'accord relatif aux ponts et aux ponceaux, des dépenses de 71 943,22 $ pour lesquelles des crédits de taxe sur les intrants de 1 429,20 $ (déduction faite du remboursement accordé aux OSP) ont été demandés. Two Hills adopte maintenant la position selon laquelle il a uniquement droit à des crédits de taxe sur les intrants de 1 229,05 $.
+Il y a treize documents d'autorisation concernant les ponts, lesquels sont tous identiques sauf pour les numéros et la description du projet. Une autorisation représentative renferme une description de l'emplacement du pont et les remarques suivantes, sous le titre [TRADUCTION] « Instructions » :
+[TRADUCTION]
+C'est avec plaisir que je tiens à vous informer que le financement est approuvé pour l'étude technique de la structure de remplacement, conformément aux lignes directrices actuelles.
+Nous vous demandons de fournir, en soumettant les factures, les renseignements suivants aux fins du traitement des paiements :
+‑ une facture des municipalités, TPS non comprise;
+‑ une copie de toutes les factures provenant de tiers;
+‑ le présent formulaire d'autorisation, avec tous les renseignements pertinents, et notamment les dates et les signatures;
+‑ une copie de l'étude.
+Les plafonds de financement ne doivent pas être dépassés sans une autorisation préalable du directeur responsable des ponts.
+Le document comprend le coût estimatif des travaux de génie. Le demandeur doit ensuite signer la [TRADUCTION] « copie originale jaune de l'autorisation, une fois les travaux achevés » et la retourner. Ce document a été signé et il a été autorisé et approuvé par deux fonctionnaires de la province, à savoir le technologue de soutien sur le terrain et le directeur régional. Aucune copie des factures n'a été soumise à la Cour.
+À l'audience, l'avocat des appelants s'est reporté aux observations écrites et a cité le passage suivant :
+[TRADUCTION]
+En l'absence d'une entente écrite, comme dans le cas des travaux achevés à l'égard des ponts, les appelants soutiennent qu'il y a néanmoins une entente entre la province et les appelants aux fins de l'exécution des travaux et de la réception de montants de la province à l'égard des travaux. Les appelants soutiennent que l'entente découle des circonstances suivantes [...].
+[82] L'avocat a ensuite dit ce qui suit :
+[TRADUCTION]
+Premièrement, la conduite des parties, et notamment la délivrance des documents d'autorisation concernant les ponts, le fait que les appelants ont exécuté et achevé les travaux associés aux ponts, et le fait que la province a versé les montants aux appelants une fois les travaux achevés.
+[...] Deuxièmement, le fait que la province d'Alberta est propriétaire des ponts. [...] Troisièmement (cité tel qu'il a été lu) :
+Le fait que les lignes directrices concernant le financement applicables aux ponts des municipalités prévoient que le ministre des Transports et des Services publics peut fournir de l'aide aux municipalités pour les ponts, dans la mesure où les budgets approuvés par l'assemblée législative provinciale le permettent.
+L'avocat a ensuite dit que les lignes directrices exigeaient que les projets soient approuvés par le ministère. Il a ajouté que les lignes directrices énoncent un certain nombre d'exigences auxquelles la municipalité doit satisfaire, celle‑ci devant notamment remettre une liste des projets [TRADUCTION] « prioritaires » pour examen par le ministère, et ainsi de suite.
+[83] Après avoir parlé des modalités de paiement prévues par les lignes directrices, l'avocat a dit ce qui suit :
+[TRADUCTION]
+Selon moi, il s'agit d'une indication qu'il existe entre les appelants et la province d'Alberta une entente en vertu de laquelle les appelants exécuteront les travaux relatifs aux ponts, la province d'Alberta devant de son côté payer les montants en question.
+Spirit River
+[84] Les paragraphes pertinents de l'ECF sont les suivants :
+[TRADUCTION]
+62. En 1997, Spirit River a mis sur pied un projet de programme triennal de remplacement prioritaire des ponts et ponceaux, tel qu'il est décrit dans le document du 14 novembre 1997, joint à l'onglet 46 et faisant partie du présent exposé conjoint des faits.
+63. Le 18 janvier 1999, le ministère des Transports et des Services publics d'Alberta a autorisé Spirit River à effectuer et à achever certaines activités à l'égard des ponts à Spirit River, en vertu du financement GAP‑01, telles qu'elles sont décrites dans la lettre jointe à l'onglet 47 et faisant partie du présent exposé conjoint des faits.
+64. Le 30 juin 1999, le ministère des Transports et des Services publics d'Alberta a autorisé Spirit River à effectuer et à achever certaines activités en vertu du financement GAP‑01, telles qu'elles sont décrites dans les lettres jointes aux onglets 48 et 49 et faisant partie du présent exposé conjoint des faits.
+65. Le 18 août 2000, le ministère de l'Infrastructure d'Alberta a autorisé Spirit River à effectuer et à achever certaines activités en vertu du financement GAP‑01, telles qu'elles sont décrites dans l'autorisation relative aux ponceaux jointe à l'onglet 50 et faisant partie du présent exposé conjoint des faits.
+66. Le 30 août 2000, le ministère de l'Infrastructure d'Alberta a autorisé Spirit River à effectuer et à achever certaines activités en vertu du financement GAP‑01, telles qu'elles sont décrites dans l'autorisation relative aux ponts jointe à l'onglet 51 et faisant partie du présent exposé conjoint des faits.
+67. Le 17 octobre 2001, le ministère de l'Infrastructure d'Alberta a autorisé Spirit River à effectuer et à achever certaines activités en vertu du financement GAP‑01, telles qu'elles sont décrites dans l'autorisation relative aux ponts jointe à l'onglet 52 et faisant partie du présent exposé conjoint des faits.
+68. Spirit River a engagé des dépenses de 1 245 700 $ afin de mener à bonne fin, en vertu du programme concernant l'accord relatif aux ponts et aux ponceaux, les activités énumérées à l'alinéa 13jj) de la réponse et pour lesquelles des crédits de taxe sur les intrants de 37 371 $ sont demandés (déduction faite du remboursement accordé aux OSP).
+Le document mentionné au paragraphe 62 précité est en partie rédigé comme suit :
+[TRADUCTION]
+En ce qui concerne les travaux prévus en 1998, le conseil veut réaliser le projet de remplacement de pont du dossier no 1162, tel qu'il est décrit dans notre lettre [...] et il veut faire exécuter les travaux de réparation nécessaires à l'égard du pont no 71053, selon le calendrier décrit dans notre lettre du 29 septembre 1997.
+Le document mentionné au paragraphe 63 précité est décrit comme suit :
+[TRADUCTION]
+Projet de priorités triennales de remplacement de ponts et de ponceaux.
+Le document indique l'emplacement d'un certain nombre de ponts et de ponceaux visés par les projets selon un document préparé par Mighty Piece Engineering Ltd., indiquant le coût de chaque projet; il est en partie rédigé comme suit :
+[TRADUCTION]
+Veuillez faire préparer la conception technique pour le pont dans le dossier no 13988. Nous avons provisoirement prévu que ces projets seraient réalisés par votre district municipal en 1999. Une fois notre budget dressé, nous serons en mesure d'approuver les projets aux fins des travaux de construction. Toutefois, nous voudrions que la conception soit préparée à bref délai, de façon à permettre plus de temps pour les travaux de construction.
+Les documents mentionnés au paragraphe 64 comprennent une lettre adressée à Spirit River, dans laquelle la province dit ce qui suit :
+[TRADUCTION]
+Le financement sera accordé par le ministère de l'Infrastructure d'Alberta conformément aux lignes directrices GAP‑01.
+Veuillez nous envoyer par télécopie les prévisions de coûts ou les résultats des appels d'offres au fur et à mesure que vous les recevrez [...].
+Un autre document mentionné dans ce paragraphe est en partie rédigé comme suit :
+[TRADUCTION]
+C'est avec plaisir que je tiens à informer votre conseil que le financement gouvernemental sera accordé en vertu des lignes directrices GAP‑01, aux fins de l'enlèvement de deux ponceaux existants d'un diamètre de 2 100 millimètres et de leur remplacement par un ponceau d'un diamètre de 5 230 millimètres. [...] Le district municipal de Spirit River sera responsable de la partie du financement qui est à sa charge en vertu des lignes directrices GAP‑01.
+Il faut préparer une entente entre le ministère et le district municipal, laquelle doit être signée par toutes les parties avant que des paiements puissent être effectués. Veuillez communiquer avec [...] en vue de prendre les dispositions nécessaires au sujet de l'entente et de discuter de la conception technique, des soumissions, de l'adjudication et des modalités de paiement.
+Le document mentionné au paragraphe 65 est intitulé [TRADUCTION] « Autorisations relatives aux ponceaux ». Il décrit l'emplacement et les travaux exécutés. Il indique ensuite le coût estimatif, soit 285 000 $, et le coût réel, de 255 871,91 $. Le document est autorisé et signé par le directeur des travaux et il est approuvé et signé par le directeur régional pour le compte de la province.
+Le document mentionné au paragraphe 66 décrit le pont et les travaux à exécuter, dont le coût estimatif s'élève à 70 300 $. Il est indiqué que ce document est autorisé par le directeur de l'exploitation et approuvé par le directeur régional du ministère de l'Infrastructure d'Alberta.
+Le document mentionné au paragraphe 67 décrit la structure projetée et les travaux de réfection d'un pont existant; il est en partie rédigé comme suit :
+[TRADUCTION]
+Tous les travaux de construction doivent être exécutés conformément aux dessins normalisés du ministère des Transports d'Alberta et aux spécifications actuelles applicables à la construction de ponts.
+Le ministère accordera le financement conformément aux lignes directrices GAP‑01 et aux normes actuelles du ministère.
+Lethbridge
+[85] Les paragraphes pertinents de l'ECF sont les suivants :
+[TRADUCTION]
+144. Pendant la période en question, Lethbridge a entrepris certaines activités en vertu du programme concernant les accords relatifs aux ponts et aux ponceaux, notamment :
+a) les travaux à l'égard du pont no 80272 mentionnés dans une lettre jointe à l'onglet 109 et faisant partie du présent exposé conjoint des faits;
+b) les travaux à l'égard du pont no 80218 mentionnés dans un ordre de travail joint à l'onglet 110 et faisant partie du présent exposé conjoint des faits;
+c) les travaux à l'égard du pont no 80213 mentionnés dans une facture jointe à l'onglet 111 et faisant partie du présent exposé conjoint des faits, tels qu'ils sont décrits dans une lettre de proposition envoyée par AGRA Torchinski Ltd. jointe à l'onglet 112 et faisant partie du présent exposé conjoint des faits;
+d) les travaux mentionnés dans une lettre jointe à l'onglet 113 et faisant partie du présent exposé conjoint des faits et dans une lettre jointe à l'onglet 114 et faisant partie du présent exposé conjoint des faits.
+145. Lethbridge a engagé, en vertu du programme concernant l'accord relatif aux ponts et aux ponceaux, des dépenses de 222 813,98 $ et il demande des crédits de taxe sur les intrants de 6 684,43 $ (déduction faite du remboursement accordé aux OSP) à l'égard de ce programme.
+146. Lethbridge a initialement demandé des crédits de taxe sur les intrants additionnels de 10 912 $ pour diverses dépenses associées aux travaux de génie. Lethbridge n'affirme plus qu'il a droit à ces crédits de taxe sur les intrants.
+[Non souligné dans l'original.]
+Selon la lettre figurant à l'onglet 109 mentionnée ci‑dessus au paragraphe 144, que Lethbridge a envoyée à la province, les réparations coûtaient 6 197,40 $ et une copie de la facture de l'entrepreneur était jointe. La lettre est en partie rédigée comme suit :
+[TRADUCTION]
+Veuillez considérer la présente lettre comme constituant votre facture pour les travaux de réparation qui ont été exécutés.
+L'ordre de travail relatif au pont figurant à l'onglet 110, mentionné au paragraphe 144 de l'ECF, indique le nom de l'entrepreneur et les coûts estimatifs ainsi que les coûts facturés réels. Une copie de la facture de l'entrepreneur était jointe à cette lettre.
+La facture mentionnée à l'alinéa 144c), figurant à l'onglet 111, avait été envoyée à la province par Lethbridge. La facture indique un certain nombre de montants, suivis des notes suivantes :
+[TRADUCTION]
+MOINS LES AVANCES D'A.T. 65 000 $ ‑
+MOINS LES MONTANTS DÉJÀ FACTURÉS 6 072,50 $ ‑
+La facture indique un total partiel restant de 13 619,50 $.
+La lettre mentionnée à l'alinéa 144d), figurant à l'onglet 114, est une lettre envoyée à Lethbridge par la province, énonçant les exigences applicables à certaines routes locales franchissant un canal, laquelle est en partie rédigée comme suit :
+[TRADUCTION]
+Une commande de matériaux pour ponceaux donnant des détails au sujet de la fabrication du ponceau ainsi qu'au sujet des ondulations et épaisseurs acceptables est également jointe pour référence. Le ministère remboursera le comté (après réception des factures) du prix d'achat des matériaux [...] et fournira une contribution aux fins de l'installation du ponceau conformément au tarif du ministère si les tuyaux sont installés d'une façon satisfaisante. Aux fins du financement et de la mise à jour de notre système d'inspection et d'entretien des ponts au moment de l'achèvement des travaux, veuillez transmettre à notre bureau des renseignements au fur et à mesure de l'exécution des travaux ainsi que des photographies à l'appui permettant d'établir la qualité des travaux et de constater les différentes étapes des travaux.
+Lignes directrices et modalités applicables aux ponts
+[86] Le document intitulé [TRADUCTION] « Lignes directrices et modalités concernant les ponts du ministère des Transports et des Services publics d'Alberta » énonce les lignes directrices GAP‑01 pour le financement des ponts municipaux. Il est en partie rédigé comme suit :
+[TRADUCTION]
+La loi permet au ministre des Transports et des Services publics de fournir de l'aide aux municipalités pour leurs ponts. Par conséquent, le ministère peut accorder une aide financière aux municipalités, dans la mesure où les budgets approuvés par l'assemblée législative le permettent.
+Ces lignes directrices indiquent les montants qu'une municipalité peut recevoir pour ses ponts. Les dispositions relatives au financement énoncées dans ces lignes directrices sont fondées sur une entente de partage des frais selon laquelle le ministère rembourse à la municipalité les éléments admissibles à l'égard des projets approuvés, la municipalité devant de son côté payer les autres éléments, et principalement les éléments associés aux routes, mais également de petits travaux de réparation.
+Le ministère établira l'ordre de priorité des demandes de financement soumises par les municipalités sur une base régionale et provinciale et accordera une aide financière conformément aux présentes lignes directrices selon l'ordre de priorité attribué.
+[87] Dans la section des lignes directrices susmentionnées qui est intitulée [TRADUCTION] « Lignes directrices applicables à l'aide financière », il est fait mention des éléments admissibles au financement provincial. Une autre section prévoit que la municipalité est responsable de certains coûts précis. Dans une autre section, intitulée [TRADUCTION] « Exigences », il est fait mention de ce que la municipalité doit faire pour être admissible au financement. La municipalité doit remettre une liste des projets « prioritaires » pour examen, elle doit exécuter les travaux conformément aux cadres de référence techniques ainsi qu'aux plans et devis détaillés approuvés par la province et elle doit fournir certains autres renseignements précis.
+[88] Les lignes directrices prévoient que la province a le droit d'examiner les relevés de frais et d'inspecter les travaux exécutés, et ainsi de suite. Sous le titre [TRADUCTION] « Modalités de paiement » figurent les remarques suivantes :
+[TRADUCTION]
+Les frais engagés pour ce projet seront fondés sur le barème approuvé pour les conseillers ainsi que sur les heures de travail réelles des conseillers ou sur les sommes qu'ils auront déboursées, sur les prix contractuels unitaires et sur les quantités réelles utilisées ainsi que sur d'autres éléments admissibles approuvés, jusqu'à concurrence des montants maximaux dont le ministère a convenu. [...]
+La municipalité s'engage à donner un avis écrit et à informer le ministère des coûts prévus en sus des montants dont le ministère aura convenu, et ce, dès qu'elle sera mise au courant de l'augmentation possible des coûts. Les coûts en sus des montants dont le ministère aura convenu ne seront acceptés que s'ils sont approuvés par le ministre.
+[89] Selon ces lignes directrices, la municipalité est tenue de recevoir et de payer toutes les factures soumises au prorata des travaux ainsi que les autres factures et de soumettre sa facture finale à la province dans les 120 jours de la date d'achèvement prévue des travaux. En outre :
+[TRADUCTION]
+[...] Après réception de la facture de la municipalité, le ministère remettra à celle‑ci un montant correspondant au montant facturé, sous réserve de l'examen et de l'approbation de la facture par le ministère.
+Analyse et conclusion
+[90] Il n'y a pas d'entente écrite entre la province et l'un quelconque des appelants participant à ce programme. L'avocat des appelants n'a pas réussi à me convaincre qu'il existait une entente implicite ou une entente « tacite » entre la province et l'un quelconque des appelants. J'ai conclu qu'aucun montant n'était payable à l'un ou l'autre des appelants par la province. Pour les motifs qui sont énoncés ailleurs, j'ai également conclu que les appelants ne peuvent obtenir aucune réparation en se fondant sur l'existence du « lien direct » invoqué par l'avocat des appelants.
+ANALYSE ET CONCLUSIONS GÉNÉRALES
+[91] J'accepte comme ayant été effectués par la province en faveur des appelants les paiements que l'on n'a pas expressément mentionnés comme ayant été effectués, et ce, à cause de l'entente contractuelle conclue par les parties et parce que l'intimée n'a pas contesté le fait que ces paiements ont été effectués.
+[92] Il est ici utile d'énoncer de nouveau les questions de droit mentionnées dans la demande. Il s'agit de savoir :
+a. si, dans le contexte de chaque programme de subvention, les appelants ont effectué une fourniture à la province d'Alberta;
+b. si le financement par subvention constitue une contrepartie de cette fourniture.
+[93] En ce qui concerne la première question, le mot « fourniture » est défini comme suit dans la Loi :
+« fourniture » [...] livraison de biens ou prestation de services [...]
+[94] L'alinéa 1(1)s) de la loi intitulée Municipal Government Act (Loi sur les municipalités) définit le mot « municipality » (municipalité) comme suit :
+[TRADUCTION]
+[...] cité, ville, village, lieu de villégiature, district municipal ou municipalité spécialisée.
+Le paragraphe 16(1) de cette loi prévoit ce qui suit :
+[TRADUCTION]
+Le titre de propriété des routes situées dans une municipalité, autre qu'une cité, est dévolu à la Couronne du chef de l'Alberta.
+Les appelants ont exécuté et achevé des travaux sur des routes et sur des ponts appartenant à la province. Il va sans dire que la fourniture de tous les biens et services à la province par les appelants constituait une « fourniture ».
+[95] Quant à la seconde question, la définition du mot « contrepartie » est la suivante :
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture
+Cette définition n'est pas exhaustive; elle comprend tout montant qui constitue une contrepartie en common law. Dans l'arrêt Dunlop Pneumatic Tyre Co. Ltd. v. Selfridge & Co. Ltd., [1915] A.C. 847 (Ch. des lords), lord Dunedin a dit ce qui suit, à la page 855 :
+[TRADUCTION]
+[...] je suis heureux d'adopter d'un ouvrage de sir Frederick Pollock [...] les propos suivants quant à savoir ce qu'est une contrepartie :
+Un acte ou une renonciation de la part d'une partie, ou une promesse quant à cet acte ou à cette renonciation, est le prix auquel est achetée la promesse de l'autre partie, et la promesse ainsi donnée contre valeur est exécutoire.
+[96] J'ai déjà dit que la province devait payer aux appelants les montants prévus en vertu de cinq programmes. Or, un montant est payable lorsqu'un contrat rend obligatoire le paiement de ce montant. J'ai conclu que lorsqu'un montant était payable en vertu de l'un quelconque de ces programmes, ce montant était payable en vertu d'une entente concernant une « fourniture ». Un tel montant constitue donc une « contrepartie ».
+ARGUMENTS DE L'INTIMÉE
+[97] Dans ses observations écrites, l'avocate de l'intimée a dit que les CTI pouvaient uniquement être demandés si une municipalité effectuait des fournitures taxables. Elle a ajouté que les travaux de voirie étaient exonérés en vertu de l'annexe V de la Loi parce qu'ils avaient été exécutés sans contrepartie. J'ai déjà examiné la question. L'avocate ajoute ensuite que les appelants ont reçu [TRADUCTION] « des subventions, et non une contrepartie ». Or, ce n'est pas la façon dont on désigne les fonds qui détermine leur caractère, mais c'est plutôt ce qui s'est passé. Dans cinq des sept programmes, les appelants ont effectué une fourniture de services et de biens moyennant contrepartie.
+[98] L'intimée a ensuite soutenu que les municipalités n'effectuaient pas des fournitures composées de travaux de voirie, mais qu'elles s'acquittaient simplement de l'obligation légale qui leur incombait d'assurer l'entretien des routes. Peu importe qu'il y ait une obligation légale, les municipalités, quant à cinq des sept programmes, ont effectué des fournitures de services et de biens en faveur de la province. Dans ses observations écrites, l'avocate de l'intimée dit ce qui suit :
+[TRADUCTION]
+L'intimée soutient que les subventions ne sont généralement pas considérées comme la contrepartie d'une fourniture. Pour que les paiements de transfert soient considérés comme une contrepartie, il doit exister un lien direct entre les paiements et une fourniture.
+L'expression « lien direct » est tirée du Bulletin d'information technique B‑067 (le « Bulletin ») de l'Agence des douanes et du revenu du Canada (l'« ADRC »). Ce bulletin comprend des LIGNES DIRECTRICES qui sont entre autres destinées, selon le Bulletin :
+[...] à aider les personnes qui accordent ou reçoivent un paiement de transfert à déterminer si le paiement est directement lié ou non à une fourniture de produits ou services.
+[99] La question du droit aux CTI est une question de droit et ne dépend pas de la politique de l'ADRC. Il faut se fonder sur le sens attribué par le législateur pour résoudre un problème donné. Or, en l'espèce, la « contrepartie » est définie dans la loi. Je fais cette remarque en toute déférence pour la décision rendue par la Cour d'appel fédérale dans l'affaire Des Chênes (Commission scolaire) c. Canada, 2001 CAF 264, [2002] G.S.T.C. 11. Il s'agit d'une affaire du Québec, où la notion de contrepartie de la common law n'existe pas, que ce soit dans le Code civil ou dans la jurisprudence de cette province.
+[100] Si le Bulletin prétend expliquer la règle de la « contrepartie » selon la common law qui s'applique en matière contractuelle, il est mal fondé puisqu'il va à l'encontre d'une multitude de savants ouvrages sur le sujet. Le Bulletin met l'accent sur l'expression « paiement de transfert ». Or, tout paiement est un transfert d'argent ou d'une valeur en argent. En traitant du but du « paiement de transfert », le Bulletin dit que certains buts donnent fortement à entendre qu'un paiement constitue une contrepartie. Le critère à appliquer n'est pas de savoir s'il existe un « lien direct ». Ce parcours enthousiaste en terrain miné est étranger à la notion de la contrepartie contractuelle en common law. En l'espèce, le critère consiste à savoir s'il y a « contrepartie » au sens où ce terme existe, selon la définition donnée dans la Loi, ou selon la common law.
+[101] L'intimée affirme également ce qui suit :
+[TRADUCTION]
+Le financement par subvention était simplement une aide financière au profit des appelants, et non la contrepartie d'une fourniture.
+En arrivant à cette conclusion, l'avocate a omis de soumettre à la Cour une analyse de la documentation volumineuse qui avait été produite, et notamment des ententes et d'une multitude d'autres documents, dont le nombre s'élevait à 114 en tout.
+[102] L'avocate de l'intimée a ensuite mentionné les fournitures exonérées, y compris les fournitures effectuées sans contrepartie, et le fait qu'aucun CTI n'est accordé pour des fournitures exonérées. Or, la Cour n'a pas été saisie d'une question de fournitures exonérées, sauf pour ce qui est de la contrepartie, et de fait, il se peut fort bien que la Cour n'en soit jamais saisie. Cette question sera au besoin résolue lors d'une audience future.
+[103] Un certain nombre d'autres arguments fondés sur l'interprétation du Bulletin n'ont pas force de loi puisque le Bulletin ne saurait étayer des arguments d'ordre juridique. Cela répond à toutes les prétentions que l'intimée a avancées au sujet des mots « lié », « lien direct » et « critère du lien direct », et ainsi de suite. Le Bulletin dit qu'il vise à « aider les personnes qui accordent ou reçoivent un paiement de transfert à déterminer si le paiement est directement lié ou non à une fourniture de produits ou services ». Nous prétendons que, si elle avait examiné à fond la documentation, l'ADRC aurait facilement pu conclure, par rapport au Bulletin, qu'une « contrepartie » était remise pour certains programmes.
+[104] L'intimée affirme également ce qui suit :
+[TRADUCTION]
+La province n'a aucune obligation juridique de payer les travaux de construction de routes. Toutefois, la province peut en partager le coût ou y apporter une contribution, et ce, à sa discrétion.
+Dans cinq des programmes susmentionnés, la province a conclu des contrats avec les appelants aux fins de l'exécution et de l'achèvement des travaux et elle était tenue de payer à cet égard des montants déterminables.
+[105] Dans son mémoire, l'intimée dit ce qui suit :
+[TRADUCTION]
+En outre, il n'y a pas eu de fourniture à la province, étant donné que les municipalités étaient celles qui bénéficiaient de la construction de routes puisqu'elles assumaient la direction et la gestion des routes secondaires et qu'elles étaient chargées de veiller à ce que les routes situées sur leur territoire soient maintenues dans un état acceptable. Les municipalités étaient également celles qui bénéficiaient de toute augmentation du revenu tiré des impôts municipaux associée à la nouvelle infrastructure. En outre, aucun droit de propriété n'était transmis à la province à l'égard des projets.
+Il est difficile de comprendre ce qui a amené l'avocate à cette conclusion étant donné que le terrain sur lequel les travaux étaient exécutés appartenait à la province. Comment est‑il possible de dire que les municipalités sont « celles » qui bénéficiaient de la construction des routes? Le propriétaire, à savoir la province, et tous les usagers en bénéficiaient.
+[106] Quant à la seconde question, l'avocate de l'intimée a dit ce qui suit :
+[TRADUCTION]
+[...] Pour que les paiements de transfert soient considérés comme une contrepartie, il doit exister un lien direct entre les paiements et une fourniture. En l'espèce, le montant des subventions n'est pas lié au coût réel des projets (les subventions ne contribuent qu'en partie au paiement des frais); dans certains cas (par exemple dans le cas du programme de subvention au transport rural), le montant des subventions était déterminé à l'aide d'une formule fondée sur différents facteurs (par exemple la population) qui n'avaient rien à voir avec les travaux qui étaient réellement exécutés; les paiements visaient à aider les municipalités, et non la province, à effectuer un achat; les paiements faisaient partie de programmes continus d'aide financière et les paiements étaient effectués par une organisation qui fournit régulièrement du financement plutôt que par une organisation commerciale.
+J'ai déjà examiné la notion de « lien direct ».
+[107] L'affirmation selon laquelle les subventions ne contribuent qu'en partie au paiement des frais a de toute évidence été faite sans qu'il soit tenu compte des éléments du droit contractuel. Dans l'ouvrage Leake on Contracts[3], à la page 440, l'auteur nous informe de ce qui suit :
+[TRADUCTION]
+Le caractère adéquat de la contrepartie, quant à la valeur, en tant qu'équivalent de la promesse importe peu, pour ce qui est de la validité d'un contrat; les parties ont la faculté de s'entendre sur n'importe quelle contrepartie, à condition que cette contrepartie puisse être reconnue en droit (o). La contrepartie consistant à renoncer à un document constituant censément une garantie a été jugée suffisante, même si le document n'était pas valide en tant que garantie, et le tribunal a dit que « la remise du document au défendeur constituait une contrepartie suffisante, indépendamment de son contenu » et qu'il ne pouvait pas enquêter sur le motif pour lequel on voulait le document (p). De même, il a été déclaré qu'une contrepartie suffisante avait été remise en échange d'une promesse dans les cas suivants : la remise d'un testament, même si le testament n'était pas valide (q); une licence autorisant l'utilisation d'un prétendu droit à un brevet qui en fait n'était pas valide (r); la signature de contrats d'apprentissage qui étaient nuls parce qu'ils n'indiquaient pas l'indemnité d'une façon complète et exacte comme l'exigeaient les lois (s); un permis accordé par l'administration des transports en vue de travaux de creusage d'une route, même si le sol n'appartenait pas à cette administration et même si cette dernière n'avait pas le droit de creuser le sol (t).
+De fait, l'exemple classique d'une contrepartie minimale qui constitue une contrepartie suffisante pour un contrat exécutoire est un grain de poivre.
+[108] Une présentation contemporaine de ce qui précède se trouve dans la 29e édition de l'ouvrage intitulé Chitty on Contracts[4], volume 1, à la page 224 :
+[TRADUCTION]
+Selon la doctrine de la contrepartie, une promesse n'a aucune force contractuelle à moins qu'une valeur quelconque n'ait été donnée en échange. Cependant, en règle générale, les tribunaux ne se préoccupent pas de la question de savoir si une valeur « adéquate » a été donnée ou si l'entente est stricte ou favorise une partie au détriment de l'autre. Le fait qu'une personne paie quelque chose « trop » ou « trop peu » peut établir la fraude ou l'erreur, ou cela peut amener le tribunal à présumer une condition quant à la qualité de l'objet ou encore cela peut être pertinent lorsqu'il s'agit de savoir si un contrat est devenu inexécutable. Cependant, cela n'influe pas en soi sur la validité du contrat, de sorte (par exemple) qu'il a été donné suite à une promesse faite par une administration locale qui s'était engagée à verser à certains employés des indemnités de réinstallation « généreuses au point d'être insensées ».
+La règle actuelle est assujettie à un certain nombre d'exceptions dont il est question ailleurs dans le présent ouvrage. Ces exceptions indiquent que les tribunaux ne sont aucunement insensibles (même lorsque le législateur n'est pas intervenu) aux problèmes soulevés par des marchés inégaux ou inéquitables, mais ils n'ont jamais déclaré qu'une promesse n'était pas valide simplement parce qu'une valeur adéquate n'avait pas été donnée en échange de la promesse.
+[109] Il existe un certain nombre de décisions judiciaires portant sur les termes « fourniture » et « contrepartie » tels qu'ils figurent dans la Loi[5]. Cependant, ces décisions ne sont aucunement utiles dans la présente analyse. J'ai en outre décidé d'analyser et d'appliquer le droit à la situation factuelle en cause sans tenir compte du Bulletin.
+[110] Dans les trois appels, il s'agit principalement de savoir si l'appelant, dans chaque cas, a droit aux CTI demandés en vertu de l'article 169 de la Loi. Indépendamment de ce qui a été décidé ci‑dessus, la détermination des questions visées par les appels comporte la prise en compte de la définition du mot « entreprise » et de l'expression « activités commerciales ». Aucune question n'a été soulevée dans la présente demande sur ce point. Comme il en a déjà été fait mention, une audience future portant sur la question de la « fourniture exonérée » pourrait influer sur la résolution de ces questions.
+[111] Il est répondu comme suit à la première question de droit énoncée dans la demande susmentionnée, à savoir :
+si, dans le contexte de chaque programme de subvention, les appelants ont effectué une fourniture à la province d'Alberta;
+Les appelants ont effectué une fourniture, telle qu'elle est définie, dans les sept programmes ci‑dessus décrits.
+[112] La seconde question est de savoir :
+si le financement par subvention constitue une contrepartie de cette fourniture.
+Dans cinq des sept programmes, les montants ci‑dessus décrits que la province devait verser aux appelants constituaient une contrepartie, selon la définition, de la fourniture de biens et de services effectuée par ces appelants à la province.
+[113] Les dépens sont adjugés aux appelants. L'intimée doit payer à chaque appelant une somme correspondant au tiers du montant en cause.
+Signé à Ottawa, Canada, ce 14e jour de février 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 25e jour d'août 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI809
+Nos DES DOSSIERS DE LA COUR : 2004‑1974(GST)G
+2004‑600(GST)G
+2004‑1606(GST)G
+INTITULÉ : Le comté de Lethbridge et al. c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : Le 19 avril 2005
+MOTIFS DU JUGEMENT : L'honorable juge R. D. Bell
+DATE DU JUGEMENT : Le 14 février 2006
+COMPARUTIONS :
+Avocats des appelants :
+Me Michel Bourque
+Me Curtis Stewart
+Avocate de l'intimée :
+Me Julie Rogers‑Glabush
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Michel Bourque
+Cabinet : Bennett Jones LLP
+Calgary (Alberta)
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)
+[1] La province d'Alberta et ses différents ministères, organismes et agences seront parfois désignés comme étant la « province ».
+[2] Ce programme se rapporte aux routes secondaires 520 et 843 décrites dans les deuxième et troisième « ententes conclues par Lethbridge ».
+[3] A. E. Randall (réd.), Leake on Contracts, 6e éd. (Londres, Stevens and Sons, 1912).
+[4] H. G. Beale (réd.), Chitty on Contracts, 29e éd. (Toronto, Carswell, 2004).
+[5] Des Chênes (Commission scolaire) c. Canada, 2001 CAF 264, [2002] G.S.T.C. 11 (C.A.F.)
+Regina (Ville) c. Canada, no 1999‑4570(GST)G, 16 mai 2001, [2001] G.T.C. 447 (C.C.I.)
+Thompson Trailbreakers Snowmobile Club Inc. c. Sa Majesté la Reine, 2005 CCI 269
+Meadow Lake Swimming Pool Committee Inc. c. La Reine, no 98‑2588(GST)I, 28 octobre 1999, [1999] G.S.T.C. 96 (C.C.I.)
+Westcan Malting Ltd. c. La Reine, no 96‑434(GST)G, 1er avril 1998, [1998] G.S.T.C. 34 (C.C.I.)

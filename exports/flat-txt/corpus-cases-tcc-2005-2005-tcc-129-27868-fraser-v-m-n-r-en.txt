@@ -1,0 +1,418 @@
+Title: Fraser v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27868/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-129-27868-fraser-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-10-26
+
+# Fraser v. M.N.R.
+
+- Citation: 2005 TCC 129
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 343, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fraser v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-26
+Neutral citation
+2005 TCC 129
+File numbers
+2002-922(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-922(EI)
+BETWEEN:
+OVIDE FRASER,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant:
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-719(EI)
+BETWEEN:
+VICTOR GAGNON,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-917(EI)
+BETWEEN:
+GEORGETTE LÉVESQUE,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant:
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-918(EI)
+BETWEEN:
+JEAN-MARIE CIMON
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-919(EI)
+BETWEEN:
+CLAUDE CORRIVEAU,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-920(EI)
+BETWEEN:
+DAVE LANGELIER,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-921(EI)
+BETWEEN:
+DENIS MORISSETTE,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-923(EI)
+BETWEEN:
+MARCEL BOUCHER,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-924(EI)
+BETWEEN:
+GILLES LAFLAMME,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Docket: 2002-928(EI)
+BETWEEN:
+SERGE BOUCHARD,
+Applicant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on October 6, 2004, at Matane, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Applicant
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+ORDER
+Upon the Applicant's motion;
+And having heard from the parties;
+The motion is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+Citation: 2005TCC129
+Date: 20050217
+Dockets : 2002-922(EI), 2002-719(EI), 2002-917(EI),
+2002-918(EI), 2002-919(EI), 2002-920(EI),
+2002-921(EI), 2002-923(EI), 2002-924(EI) and 2002-928(EI)
+BETWEEN:
+OVIDE FRASER, VICTOR GAGNON, GEORGETTE LÉVESQUE,
+JEAN-MARIE CIMON, CLAUDE CORRIVEAU, DAVE LANGELIER,
+DENIS MORISSETTE, MARCEL BOUCHER, GILLES LAFLAMME
+and SERGE BOUCHARD,
+Applicants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Angers J.
+[1] This is a motion by the Appellants for a determination on the admissibility of certain evidence of the Respondent. The same issue will be raised in other appeals filed in this Court by the same Appellants. For that reason, I have agreed to decide the question before hearing the evidence on the substantive issue.
+[2] The Applicants are employees of E. Normand Inc. ("the company"). The company operates in the field of excavation, transportation, snow removal and construction of logging roads. In 1999, there were between 20 and 25 employees working for the company. Its founder and principal shareholder is Ernest Normand.
+[3] On May 25, 1999, two search warrants were granted by a justice of the peace to the Royal Canadian Mounted Police (RCMP). These warrants authorized searches at the home of Mr. Normand and at the company's business office. The searches enabled the RCMP to seize what have been characterized as "black books", thus enabling representatives of Human Resources Development Canada to gather information that could help them reconstitute the actual hours worked by the employees. This work revealed a system of banking of hours that the company had established for its employees, a system that had an impact on the Applicants' periods in issue. As a result of the information thus gathered, statements were obtained from the Applicants confirming the existence of this system. Counsel for the Applicants argues that the searches in this case breached section 8 of the Canadian Charter of Rights and Freedoms ("the Charter") on the grounds that they were unreasonable searches and for that reason he is asking that the black books and the statements that followed the searches be excluded from this proceeding since their use is likely to bring the administration of justice into disrepute.
+[4] The parties proposed that the appeal of Ovide Fraser be considered as a test case. The impugned decision was made by the Minister of National Revenue ("the Minister") pursuant to the Employment Insurance Act ("the Act") and, according to this decision, the employment of the Appellant Ovide Fraser was not insurable within the meaning of the Act during certain weeks, since the employment failed to meet the requirements of a contract of service.
+[5] The search warrants were not challenged by the company or its principal shareholder, Mr. Normand. The company ultimately pleaded guilty to 67 offences under the Act and there was a stay of proceedings in the case of the charges laid against Mr. Normand. No explanation of the stay of proceedings has been advanced.
+[6] This case began in February 1999 when an employee of the company resigned from her position. When applying for employment insurance benefits, this person told the authorities in the Department of Human Resources Development that clandestine work was being done and that false separation certificates were being issued by the company. In an interview on March 25, 1999, this employee provided the investigator, Éric Richard, with a statement that the company had two payroll journals — a computer record and a black book in which all of the hours banked and hours paid in kind or in cash were entered. The employee also gave Mr. Richard photocopies of some black book pages for three or four employees, which allowed the investigators to conduct an audit. The investigating officer compared the photocopies of black book pages with the records of employment of these employees and it was obvious, according to Mr. Richard, that the company was banking hours since the black book pages and records of employment did not match.
+[7] According to the investigator, Mr. Richard, the employee who resigned was responsible for bookkeeping and payroll. She received her instructions from Ernest Normand or his daughter Claudette. His investigation led Mr. Richard to conclude that the company and its majority shareholder had been embezzling, given the irregularities disclosed by its employee and confirmed by comparing the records of employment and the photocopies of the black book pages for the three or four aforementioned employees.
+[8] In view of its scope, this information was forwarded to the RCMP for investigation purposes. That is how the search warrants were obtained and executed. As a result of the searches, six black books were seized at the residence of Ernest Normand and at the company's place of business, enabling the Respondent's investigators to conduct an analysis of the periods worked as entered in the black books compared with those reported in the records of employment. Subsequently, the investigators met with the Applicants and obtained out-of-court statements from them in which they confess that their employer had a system for banking hours of work.
+[9] RCMP officer Paul Albert met with Éric Richard on April 20, 1999. The officer is the one who applied for the search warrants. In his testimony he described the checks he performed before applying for the warrants. He examined the documentation given to him by Éric Richard, that is, the records of employment and the copies of pages from the black book. He went on site to verify certain things, which enabled him to confirm the address indicated on the registration certificates of the automobiles and trucks belonging to Mr. Normand and the company. The municipal number indicated is the same for Mr. Normand and the company: 113 on highway 132. The central companies registry, the registry office and the information appearing on the tax accounts provided further confirmation.
+[10] Officer Albert reported that he had reasonable grounds in support of his warrant applications. He testified that he had no reason not to believe the employee who had resigned and that in fact, he said, she was credible. He did not ask himself whether the information received might have been stolen by the employee who had resigned, and he said that no complaint of theft of documents had been made to the police by Mr. Normand or by the company. One of the warrants covered the residence of Mr. Normand, because he was the president of the company and the black books prior to 1998 were kept there. Appendix C of Exhibits A-1 and A-2 specifies the other reasonable grounds in support of the applications for search warrants made by Officer Albert.
+[11] Once the warrants had been obtained, and prior to the searches, Officer Albert prepared a plan of action. A list of the items seized and their location was filed. The black books for 1998 and 1999 were seized at the company offices and those for 1994 to 1997 at Mr. Normand's residence.
+[12] In his testimony, Mr. Normand confirmed that he had not challenged the two searches on his own or his company's behalf. He added that there was no agreement with his employees concerning the confidentiality of the information contained in the payroll records, the black books or elsewhere. These documents contained personal information on the employees and, according to Claudette Normand, the company's director of operations, this information was used for the company's internal accounting in that it was used to determine the insurable hours. She acknowledges that the Respondent's representatives are entitled to see and audit this information. The Appellants are asking not only that evidence covered by this motion be excluded, but that the following paragraphs be struck from the Replies to the Notices of Appeal:
+- 5 (j), (l) and m) in the case of Victor Gagnon;
+- 5 (l) and (m) in the case of Georgette Levesque;
+- 5 (i), (l), (m) and (j) in the case of Jean-Marie Cimon;
+- 5 (h), (j), (k) and (i) in the case of Claude Corriveau;
+- 5 (j), (m), (n) and (k) in the case of Dave Langelier;
+- 5 (m), (q), (r), (n) and (o) in the case of Denis Morissette;
+- 5 (k), (n) and (e) in the case of Ovide Fraser;
+- 5 (k), (n), (o) and (l) in the case of Marcel Boucher;
+- 5 (j), (m), (n) and (k) in the case of Gilles Laflamme;
+- 5 (h), (k) and (i) in the case of Serge Bouchard.
+[13] The issue, then, is whether the information obtained by means of the searches breaches the Appellants' Charter rights. Can they argue that in this case their fundamental Charter rights have been violated? Counsel for the Appellants argues that the informations used to obtain the search warrants under section 487 of the Criminal Code do not contain the necessary evidence concerning the offence alleged against Mr. Normand, so no reasonable ground has been established that might justify the issuance of the search warrants.
+[14] The relevant provisions of the Charter read as follows:
+Life, liberty and security of person
+7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
+Search or seizure
+8. Everyone has the right to be secure against unreasonable search or seizure.
+Enforcement
+Enforcement of guaranteed rights and freedoms
+24(1) Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
+Exclusion of evidence bringing administration of justice into disrepute
+24(2) Where, in proceedings under subsection (1), a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
+[15] The question that must be considered first and foremost is whether the Appellants can benefit from the protection of section 8 of the Charter. Hunter v. Southam Inc., [1984] 2 S.C.R. 145, holds that all rights and freedoms – including, therefore, those in section 8 – are personal rights that protect people and not places. A person may therefore challenge the legality of a search if he or she is able to establish that his or her personal right to privacy has been violated.
+[16] The applicable principles concerning section 8 of the Charter were summarized by Cory J. in R. v. Edwards, [1996] 1 S.C.R. 128, at paragraph 45, which I reproduce here:
+A review of the recent decisions of this Court and those of the U.S. Supreme Court, which I find convincing and properly applicable to the situation presented in the case at bar, indicates that certain principles pertaining to the nature of the s. 8 right to be secure against unreasonable search or seizure can be derived. In my view, they may be summarized in the following manner:
+1. A claim for relief under s. 24(2) can only be made by the person whose Charter rights have been infringed. See R. v. Rahey, [1987] 1 S.C.R. 588, at p. 619.
+2. Like all Charter rights, s. 8 is a personal right. It protects people and not places. See Hunter, supra.
+3. The right to challenge the legality of a search depends upon the accused establishing that his personal rights to privacy have been violated. See Pugliese, supra.
+4. As a general rule, two distinct inquiries must be made in relation to s. 8. First, has the accused a reasonable expectation of privacy. Second, if he has such an expectation, was the search by the police conducted reasonably. See Rawlings, supra.
+5. A reasonable expectation of privacy is to be determined on the basis of the totality of the circumstances. See Colarusso, supra, at p. 54, and Wong, supra, at p. 62.
+6. The factors to be considered in assessing the totality of the circumstances may include, but are not restricted to, the following:
+(i) presence at the time of the search;
+(ii) possession or control of the property or place searched;
+(iii) ownership of the property or place;
+(iv) historical use of the property or item;
+(v) the ability to regulate access, including the right to admit or exclude others from the place;
+(vi) the existence of a subjective expectation of privacy; and
+(vii) the objective reasonableness of the expectation.
+See United States v. Gomez, 16 F.3d 254 (8th Cir. 1994), at p. 256.
+7. If an accused person establishes a reasonable expectation of privacy, the inquiry must proceed to the second stage to determine whether the search was conducted in a reasonable manner.
+[17] In the case at bar I am unable to determine, on the basis of the evidence adduced, how the Appellants could have had a reasonable expectation of privacy in regard to the documents seized at Ernest Normand's home or the company offices. Mr. Normand himself testified that there was no agreement with his employees concerning the confidentiality of the information on them. In fact, this is information about the Appellants that can be audited by the appropriate government departments, including the Department of Human Resources Development and the Department of Revenue. In R. v. Jarvis, [2002] 3 S.C.R. 757, Iacobucci and Major JJ. stated that a taxpayer's privacy interest in records that may be relevant to the filing of his or her tax return is relatively low. I quote paragraphs 71 and 72 of that judgment:
+71 The context-specific approach to s. 8 inevitably means, as Wilson J. noted in Thomson Newspapers, supra, at p. 495, that "[a]t some point the individual's interest in privacy must give way to the broader state interest in having the information or document disclosed". Naturally, if a person has but a minimal expectation with respect to informational privacy, this may tip the balance in the favour of the state interest: Plant, supra; Smith v. Canada (Attorney General), [2001] 3 S.C.R. 902, 2001 SCC 88.
+72 Generally, an individual has a diminished expectation of privacy in respect of records and documents that he or she produces during the ordinary course of regulated activities: see, e.g., Thomson Newspapers, supra, at p. 507, per La Forest J.; 143471 Canada, supra, at p. 378, per Cory J.; Comité paritaire, supra, at pp. 420-21; Fitzpatrick, supra, at para. 49. In the particular context of the self-assessment and self-reporting income tax regime, a taxpayer's privacy interest in records that may be relevant to the filing of his or her tax return is relatively low: McKinlay Transport, supra, at pp. 649-50.
+[Emphasis added]
+[18] As to employment insurance, the Supreme Court of Canada held in Smith v. Canada (Attorney General), [2001] 3 S.C.R. 902, that the Canada Unemployment Insurance Commission's interest should have priority over the taxpayer's privacy interest. At paragraph 2 of the decision, we can read the following:
+2 As in R. v. Plant, [1993] 3 S.C.R. 281, there was no violation of s. 8 of the Canadian Charter of Rights and Freedoms on the facts of this case. We conclude that the appellant cannot be said to have held a reasonable expectation of privacy in relation to the disclosed portion of the E-311 Customs Information which outweighed the Canada Unemployment Insurance Commission's interest in ensuring compliance with self-reporting obligations of the Unemployment Insurance benefit program.
+[Emphasis added]
+[19] This Court ruled on the question of reasonable expectation of privacy in the recent decision handed down by Dussault J. in Kiwan v. Canada, [2004] T.C.J. No. 420 (Q.L.). I reproduce some excerpts from that decision.
+[175] As for section 8 of the Charter in which provision is made that everyone has the right to be secure against unreasonable search or seizure, counsel for the Respondent pointed out that this is a personal right and that the Appellants did not demonstrate in any way that they had any reasonable expectation of confidentiality where the documents seized from the A.O.L.M. or from the home of the Order's accountant, Ralph Nahas, were concerned. They point out that there is little reasonable expectation of confidentiality involved in documents subject to audits to ensure compliance with the Act. ...
+...
+[177] I agree with the position of counsel for the Respondent. Counsel for the Appellants cites first subsection 24(2) of the Charter on the grounds that evidence was obtained in violation of the A.O.L.M.'s rights and freedoms and that hence the Appellants may rely on this violation in order to have the evidence thereby obtained excluded.
+[178] In this regard and assuming that there was a violation, which I definitely do not recognize, it is important to point out that specific mention is made in the introduction to subsection 24(2) of the Charter of proceedings in subsection (1) of the same section, proceedings brought by a person whose rights or freedoms guaranteed under the Charter have been infringed or denied. This position was in fact adopted by the majority of the Supreme Court of Canada in Edwards, supra. The Appellants never demonstrated that any of their rights or freedoms guaranteed by the Charter had been infringed. ...
+[179] As for the protection provided under section 8 of the Charter against unreasonable search or seizure, it was never established that the Appellants could have a reasonable expectation of privacy in relation to the documents seized from the A.O.L.M. or from the home of the accountant, Ralph Nahas.
+[Emphasis added]
+[20] In my opinion, the Appellants in this case have failed to establish that they had ownership of the seized property or a reasonable expectation of privacy in regard to the documents seized at the home of Ernest Normand and at his company. That being the case, the Appellants have no basis for challenging the legality of the searches. The Appellants' section 8 Charter rights have not been violated, therefore.
+[21] As to section 7 of the Charter, suffice it to say that no charge has been laid against the Appellants and, judging by the evidence, no criminal investigation has been conducted. There is no deprivation of the Appellants' life, liberty or security in either the employment insurance decisions of the Minister, the subject matter of these appeals, or the assessments made under the Income Tax Act, the subject matter of appeals now awaiting trial.
+[22] In my opinion, there has been no violation or denial of the Appellants' fundamental Charter rights and freedoms, and the Appellants cannot therefore avail themselves of the remedy in subsection 24(2), namely, the exclusion of the evidence in question obtained by the Respondent and the removal of the paragraphs in question from the Replies to the Notices of Appeal. As to whether, assuming there was such a violation or denial, the use of the evidence would be likely to bring the administration of justice into disrepute, it is necessary to recall the remarks of Nadon J.A. of the Federal Court of Appeal in Dwyer v. Canada, [2003] F.C.J. No. 1265 (QL), at paragraphs 89 and 90:
+[89] In Jurchison v. Canada, 2001 FCA 126, this Court, in an appeal arising out of preliminary motions brought in a taxpayer's appeal of his reassessments, had to consider whether evidence obtained in breach of the Charter was admissible in civil proceedings. At paragraph 1 of his Reasons for the Court, Sexton J.A. stated that in determining that issue, it was necessary to consider whether the evidence was to be used in a criminal or civil proceeding.
+[90] Thus, in determining whether tainted evidence should be excluded, this Court, in Donovan, supra and Jurchison, supra, has made a clear distinction between civil and criminal proceedings. More particularly, for Linden J.A. in Donovan, supra, where a person's liberty was "not threatened" and where the issue was the "duty to pay taxes", courts should exercise their discretion to exclude evidence with even greater restraint.
+[Emphasis added]
+[23] For these reasons, the motion is dismissed. The evidence that it sought to exclude is therefore admissible.
+Signed at Ottawa, Canada, this 17th day of February 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 16th day of March 2009.
+Brian McCordick, Translator
+CITATION:
+2005TCC129
+COURT FILE NOS.:
+2002-922(EI), 2002-719(EI), 2002-917(EI), 2002-918(EI), 2002-919(EI), 2002-920(EI),
+2002-921(EI), 2002-923(EI), 2002-924(EI) and 2002-928(EI)
+STYLES OF CAUSE:
+Ovide Fraser v. M.N.R.
+Victor Gagnon v. M.N.R.
+Georgette Lévesque v. M.N.R.
+Jean-Marie Cimon v. M.N.R.
+Claude Corriveau v. M.N.R.
+Dave Langelier v. M.N.R.
+Denis Morissette v. M.N.R.
+Marcel Boucher v. M.N.R.
+Gilles Laflamme v. M.N.R.
+Serge Bouchard v. M.N.R.
+PLACE OF HEARING:
+Matane, Quebec
+DATE OF HEARING:
+October 6, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice François Angers
+DATE OF ORDER:
+February 17, 2005
+APPEARANCES:
+Counsel for the Applicants:
+Yves Desaulniers
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+Yves Desaulniers
+Firm:
+Guay, Côté, Desaulniers
+Barristers & Solicitors
+Rimouski, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

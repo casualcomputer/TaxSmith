@@ -1,0 +1,222 @@
+---
+title: "Green v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/367359/index.do"
+last_modified: "2019-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 74"
+citation2: ""
+neutral_citation: "2019 TCC 74"
+decision_date: "2019-04-03"
+language: "en"
+item_id: "367359"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4324
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:16:24.619000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f401804155111bcf2383e75e8a858c9119db3b93babe349d857cb8850e36acf6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Green v. The Queen
+
+- Citation: 2019 TCC 74
+- Decision date: 2019-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4324, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Green v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-03
+Neutral citation
+2019 TCC 74
+File numbers
+2018-879(IT)I
+Judges and Taxing Officers
+Siobhan Monaghan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-879(IT)I
+BETWEEN:
+AMBER GREEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 7, 2019 at Halifax, Nova Scotia
+Before: The Honourable Justice K.A. Siobhan Monaghan
+Appearances:
+Counsel for the Appellant:
+Kevin MacDonald
+Counsel for the Respondent:
+Max Kruger
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal with respect to a determination of eligibility made under the Income Tax Act by notice dated July 27, 2017, as confirmed on December 4, 2017, for disability tax credits is allowed, without costs, and the determination is referred back to the Minister of National Revenue for redetermination and reassessment on the basis that the Appellant is entitled to the disability tax credit for the 2015, 2016 and 2017 taxation years.
+Signed at Calgary, Alberta, this 3rd day of April 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+Citation: 2019 TCC 74
+Date: 20190403
+Docket: 2018-879(IT)I
+BETWEEN:
+AMBER GREEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Monaghan J.
+I. INTRODUCTION
+[1] Amber Green is appealing the determination, first issued to her by the Minister of National Revenue (the “Minister”) on July 27, 2017, that she is not eligible for the disability tax credit (the “DTC”). The determination applies to the 2010 to 2017 taxation years. Ms. Green timely objected to the Notice of Determination but the Minister confirmed the determination by Notice of Confirmation issued December 4, 2017.
+II. ISSUE
+[2] While the disability tax credit provisions in the Income Tax Act (the “Act”) are by no means simple, in general terms, the credit is available only where three conditions are satisfied.
+[3] First, a medical doctor must certify, in a form prescribed under the Act, that the individual, in this case Ms. Green, has an impairment that is severe and prolonged. The Respondent does not dispute that Ms. Green has satisfied this condition.
+[4] Second, the individual must have one or more severe and prolonged impairments in physical or mental functions. Again, the Respondent does not dispute that Ms. Green has a severe and prolonged impairment in mental functions. Therefore this condition is satisfied.
+[5] Third, the effect of Ms. Green’s impairments must markedly restrict her ability to perform one or more basic activities of daily living, all or substantially all of the time. In the Reply, the Respondent states the following:
+. . . the Appellant was not eligible for the DTC for the 2010-2017 taxation years as her mental impairments did not affect her ability to perform the necessary basic activity for everyday life all or substantially all of the time . . .
+[6] Ms. Green does not agree. Thus, the only issue in this case is whether the third condition for the DTC is satisfied.
+[7] To prevail, Ms. Green must establish both elements of this third condition:
+i) the mental impairment must markedly restrict her ability to perform one or more basic activities of daily living; and
+ii) the mental impairment must have that effect all or substantially all of the time.
+III. OVERVIEW OF THE THIRD CONDITION
+[8] The Act tells us when an activity of daily living is to be considered markedly restricted. In particular, an individual’s ability to perform a basic activity of daily living will be markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is unable (or requires an inordinate amount of time) to perform a basic activity of daily living. [1]
+[9] All or substantially all is not defined for this purpose. However, all or substantially all of the time is a high standard to meet. While it is not possible to state that it requires a particular percentage of the time, [2] it does mean significantly more than a majority of the time.
+[10] The phrase, “basic activities of daily living,” is defined very narrowly in the Act. Unfortunately, what might be considered by the woman or man on the street to be a basic activity of daily living may not be within that phrase as it applies for the purposes of the DTC. For example, the Act expressly states that none of working, housekeeping and social or recreational activities is a basic activity of daily living. [3] Similarly, although feeding or dressing oneself is a basic activity of daily living, [4] the Act states that those activities do not include identifying, finding, or shopping for food or clothing, or preparing food unless time to prepare food is extended because of a dietary restriction or routine. [5] I say this to illustrate how narrowly the Act defines a basic activity of daily living.
+[11] In Ms. Green’s case, the only basic activities of daily life (as that term is defined in the Act) that might be considered markedly restricted are “mental functions necessary for everyday life.” [6] This phrase is defined in the Act to include memory, problem-solving, goal setting and judgment (taken together), and adaptive functioning. [7] The meaning of those terms is not given in the Act. Moreover, the use of “include” in this definition suggests that mental functions necessary for everyday life are not restricted to the listed functions.
+[12] The question to be addressed then is whether, based on the evidence in this case, it can be said that all or substantially all of the time, even with therapy and the use of appropriate medication, Ms. Green is unable to perform the mental functions necessary for everyday life, including memory, problem-solving, goal setting and judgment (taken together), and adaptive functioning, or takes an inordinate amount of time to do so. [8] To answer that question, we must review the facts.
+IV. BACKGROUND
+[13] Ms. Green, her mother and her stepfather all testified. While no medical practitioners appeared in Court, various medical reports and documents filed with CRA were submitted as evidence by Ms. Green. The Respondent called no witnesses.
+[14] Ms. Green is in her early thirties and suffers from severe social anxiety disorder, severe panic disorder with agoraphobia, and chronic and generalized moderate to severe generalized anxiety disorder, all as diagnosed by a psychiatrist. She also has a persistent depressive disorder as diagnosed by a second psychiatrist.
+[15] Ms. Green currently lives in an apartment on her own, where she has lived for approximately five and a half years. She describes this home as the most stable she has had since leaving the family home in 2007; she did not last more than a year at any other place she lived, all of which were shared accommodation. Until finding her current apartment, she moved at least twice a year because she had problems living with other people.
+[16] Although Ms. Green believes she has always suffered from anxiety and depression, until high school these illnesses did not appear, at least outwardly, to have a significant effect on her. She performed well in elementary and junior high school, but her marks fell in high school. She said she found it difficult to make friends, was worried about bullying, was afraid to ask questions of the teachers, and constantly feared falling behind. However, she graduated from high school and, in the Fall of 2005, she enrolled at St. Mary’s University.
+[17] Unfortunately, she did not perform well and was asked to withdraw in 2006. She said that some days she couldn’t bring herself to attend class, and then she would be afraid to return, she would fall behind, and eventually she failed. In 2007, she successfully completed a 3-month make-up application course following which she did some freelance work. However, the freelance work stopped in 2009 or 2010. Several times during her testimony Ms. Green referred to friends (although it is not clear how many she has or how deep the friendships are), and said she relies on them, as well as her mother, for help with what most of us might view as “normal” activities of daily life. In the past, and as recently as 2014, she attended parties. However, parties led to binge drinking, first at the parties and then alone at home. She and her mother both described her alcohol use as a coping mechanism, a temporary way to forget about her problems. Although Ms. Green has a history of self-harm and alcohol abuse, she no longer engages in that behaviour and, justifiably, she and her mother are proud of that accomplishment.
+[18] Between 2009 and 2012, Ms. Green tried a number of different jobs, including retail sales, working as a cashier, and working at a call centre. She had jobs at La Senza, Canadian Tire and Shoppers Drug Mart. Ms. Green described the experience as “absolutely terrifying”. She did not enjoy any part of the work and did not last very long in any of those positions.
+[19] Ms. Green’s mother and stepfather own and operate an auto repair shop. In 2012, they hired Ms. Green to assist in the office. Her stepfather said that, but for the fact she was his daughter, he would not have hired her. When asked why, he said that he knows the interview would not have gone well. However, they needed help and she needed money, and so he and his wife agreed to hire her. Ms. Green said she was supposed to be working full-time hours when she was first hired but missed a lot of time, and estimates she initially worked 28 or 30 hours a week. This was consistent with her stepfather’s testimony (6 hours a day). However, her mother said Ms. Green was hired to work only 20 hours a week.
+[20] Ms. Green’s mother described Ms. Green as responsible for assisting with bookkeeping and data entry, i.e., inputting information from invoices to the accounting system. However, if one of the invoices in the stack in front of her did not fall into the “typical” category, Ms. Green would become confused, distraught and panicky to the point of not being able to proceed without help. Nonetheless, Ms. Green performed adequately at the beginning. Her mother described her as a hard worker who was very good at what she did, but who couldn’t cope with anything that did not fit nicely within the process she knew. Ms. Green also needed her mother to be with her at the office. If her mother was not going to be there, Ms. Green would not show up. If her mother had to leave the office for an appointment or another reason, Ms. Green would become very anxious.
+[21] Although her stepfather wanted her to answer the phone in the office, she was not able to do so and, if customers came into the office, Ms. Green would not speak with them. Ms. Green said she would want to go and hide if a customer came in. Her stepfather described this behaviour as difficult for his business. While he knew it was very difficult for Ms. Green to interact with customers, from outward appearance it seemed Ms. Green simply was simply rude.
+[22] Ms. Green’s stepfather testified that Ms. Green’s performance at the business started to deteriorate when the business moved locations in 2013. The new location was better for the business but had a smaller office space. Initially, they renovated the premises so Ms. Green could be in an office away from customers. However, eventually, as the business grew, they needed that space to store parts. As a result, Ms. Green had to move out of that office to the front desk. Matters then became particularly difficult because Ms. Green was up front, where customers came in, and business increased so many more customers were coming into the office. Ms. Green found dealing with people very stressful and, because she wouldn’t respond to customers, her stepfather had some awkward and frustrating experiences with customers. He described one customer coming out to find him because Ms. Green wouldn’t talk to the customer. This could leave one with the impression that she intentionally chose to ignore the customer, when in fact she was unable to bring herself to speak with the customer. By the Fall of 2014, her stepfather was extremely concerned about both the business and his marriage.
+[23] In early 2015, Ms. Green’s mother decided to terminate Ms. Green’s employment. Her mother described that as a difficult decision but one she felt, as an employer, she had to make. Ms. Green’s performance was deteriorating, she was showing up for work unclean or not showing up at all, she was overcome with stress and, as her mother said, no employer wants that. In her mother’s opinion, Ms. Green needed to stop working to seek help and get better. Her mother made this decision without discussing it with her husband. Rather she advised him after she had terminated Ms. Green. He said he was surprised but relieved, as he thought that it was the best for all parties, including the other employees at the business.
+[24] Ms. Green’s mother described Ms. Green as a talented artist. She had started painting as part of her therapy, and some of her friends asked her to paint pictures of their pets. It appears they were well liked and, in late 2017, Ms. Green decided to try to earn some money by soliciting commissions for pet portraits for Christmas. However, having taken on too many commissions, Ms. Green became overwhelmed and extremely stressed. She had significant difficulty coping and completing the work.
+[25] Ms. Green prepares her own meals, can dress and bathe herself, and usually is able to shop at her local Sobeys for groceries. However, she otherwise avoids all retail stores unless she is accompanied by someone. Her mother usually does her banking and tax filings, makes her medical and other appointments, and takes care of all third-party communications for Ms. Green. Ms. Green will not attend a medical appointment without her mother. Once at the appointment, she sometimes will go into the medical practitioner’s office on her own, but she was clear that, if she had to go by herself, no matter how sick she was, she would not go to the appointment.
+[26] Her mother says Ms. Green has difficulty coping socially, participating in social and recreational activities, or working. She will take the bus on her own, provided she is familiar with the route, but she does not like to do so, finds it stressful, and will avoid it if she can. Ms. Green said that when she is on the bus she sometimes needs to text her mother for reassurance.
+[27] While Ms. Green is able to do her own laundry, she takes it to her mother’s home rather using the laundry facilities in her apartment building. Her mother’s home is approximately 20 minutes from hers by car. However, because Ms. Green doesn’t drive, to do her laundry she goes home with her mother after an appointment they attend together. This is obviously very inconvenient and more time consuming than it would be if she did laundry in her apartment building. However, that would be too stressful; she is afraid of meeting another resident of the building. She simply will not go down to the laundry room in the building.
+[28] Ms. Green has been on medication for her depression and anxiety since high school and estimates she’s tried 10-15 different medications. It has been difficult to find one that helps. She has been under the care of her family doctor who, together with her family, has been trying for the past decade to find a psychiatrist willing to take her on as a patient. There is a shortage of psychiatrists in Nova Scotia. The two psychiatrists who Ms. Green saw indicate in their reports that they are unable to take her on as a patient. Rather, they agreed to meet with her, at the request of her family doctor, to diagnose her illness and make some recommendations for treatment. In response to an inquiry of a third psychiatrist, Ms. Green’s mother was advised that the psychiatrist would provide an initial assessment and, where indicated, short-term psychotherapy. However, that psychiatrist too was clear that she would not follow Ms. Green over the long term and knew of no other psychiatrists who were taking new patients.
+[29] Ms. Green previously was working with a particular therapist, and her mother said that that was going well. However, when that therapist moved, Ms. Green found it difficult to adjust. It was almost like they had to start all over again.
+[30] I have no doubt that the difficulties accessing appropriate treatment is a cause of significant frustration and worry. However, her mother said Ms. Green is now attending counselling regularly. With the help of a therapist and medication, Ms. Green is working on overcoming her anxieties and phobias. She has had some small successes, which of course are to be celebrated, but they are small. For example, she said she has recently overcome her anxiety about taking her garbage out. Much more work is needed and she continues to depend heavily on her mother.
+[31] Ms. Green currently receives provincial income support because of her impairment. She is working in the family business again, but only about ten hours a month. She is also attending therapy, is taking medication and is using CBD oil. She describes herself as spending most of her time in her apartment because of her panic attacks. She tends to catastrophize – think about the worst scenario that could possibly happen if she goes somewhere or does something. She sometimes finds it difficult to fall asleep or stay asleep and doesn’t feel rested or energized after sleep. Ms. Green described days when she stays in bed all day, because of a low mood and lack of motivation. She describes herself as living alone but not independently. Her mother agrees entirely.
+[32] Ms. Green appears to be making progress in certain areas of her life. She would like to be able to work full-time and support herself, but feels it would need to be a job where she would not be required to talk to people or answer phones.
+[33] The medical reports submitted by Ms. Green are largely consistent with her oral testimony and that of her parents. In completing the disability tax credit certificate (Form T2201), Ms. Green’s family doctor expressed the view that Ms. Green is markedly restricted in performing the mental functions necessary for everyday life. He describes what he understands the effects of her impairments to be, but acknowledges that his description is largely based on what he has been advised by others. This is not surprising. As Justice Woods pointed out in Gibson v The Queen, [9] physicians generally would not have firsthand knowledge of a patient’s daily activities. Much of the detail that the CRA requires the medical practitioner to describe would not be witnessed by the medical practitioner, particularly where the impairment is mental, rather than physical.
+[34] Nonetheless, he has been her family doctor for a very long time, [10] and is engaged in the efforts to secure psychiatric case for Ms. Green. I am satisfied that he has significant experience hearing about her difficulties over the years and has read the reports of the other medical professionals to whom he has referred Ms. Green.
+[35] Following receipt of the completed certificate, the CRA sought additional information from Ms. Green’s family doctor, in the form of a pre-printed letter with a list of questions to be answered Yes or No, and space for him to provide details in respect of his responses. The form requires details only where the response to the question would appear to support a determination of eligibility for the DTC.
+[36] Based on his responses, Ms. Green’s family doctor was required to provide details regarding only two of the six questions, suggesting that his answers to four of the questions would indicate that she is not eligible for the DTC. It is perhaps therefore understandable that the Minister determined that Ms. Green is not eligible for the DTC. However, although he was not required to do so, Ms. Green’s family doctor added details for every question. That detail provides important context to his answers. For example, he responded Yes to the following question:
+Can your patient perform her daily living skills independently (e.g. perform self care, go out in the community, make simple purchases without the assistance/supervision of another person)?
+[37] Details were required only if his response was No. While he responded Yes, he elaborated that it is difficult and that most of the time Ms. Green’s trips to stores, to pay bills, etc. were with her mother. He pointed out that Ms. Green’s social anxiety causes a lot of avoidance, procrastination and withdrawal and that she has never done well independently.
+[38] Similarly, he responded Yes to the question “Can your patient make appropriate decisions and judgments in day-to-day situations?”, and thereby relieved himself of the requirement to provide further details. Nonetheless, he went on to comment as follows: “Ms. Green wouldn’t cross the street on a red light”, but “her choices are affected by her anxiety and she might avoid social interactions or going to work.”
+[39] These examples illustrate the shortcomings of the CRA forms. As Justice Woods pointed out in Gibson, the forms may be a practical way for the CRA to obtain information, but they do not always give an accurate picture and the questions posed may not suit the circumstances. Moreover, the Yes or No responses to the questions necessarily will be affected by how the question is interpreted by the person asked to complete the form, as is illustrated by the two examples above. Given the choices before him, Ms. Green’s family doctor answered Yes or No, as he was required to do. However, given the details he provided, it seems to me that in each case it was a qualified Yes. That is, given the detail he provided with respect to the first of these, he might have considered answering No because Ms. Green does have extreme difficulty going out in the community and making simple purchases without the help of another person. She avoids leaving her home as much as she can. Similarly, his interpretation of the meaning of appropriate decisions (“right from wrong”) influenced his response to the second question.
+V. THE LAW
+[40] A number of cases have considered the availability of the DTC in the context of mental impairments. However, whether a taxpayer qualifies for the DTC is largely a factual question and my decision in this case must be based on the facts as they pertain to Ms. Green. Nonetheless, in applying the statutory provisions to Ms. Green’s facts, I am guided by the principles articulated in earlier cases. Of particular assistance is Johnston [11] where Justice Letourneau stated:
+Purpose and History of the Legislation
+10. The purpose of sections 118.3 and 118.4 is not to indemnify a person who suffers from a severe and prolonged mental or physical impairment, but to financially assist him or her in bearing the additional costs of living and working generated by the impairment. As Bowman T.C.J. wrote in Radage v. R. at p. 2528:
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to every one who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit.
+The learned Judge went on to add, at p. 2529, and I agree with him:
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+11. Indeed, although the scope of these provisions is limited in their application to severely impaired persons, they must not be interpreted so restrictively as to negate or compromise the legislative intent.
+[41] Justice Bowman laid out other important principles in Radage v. The Queen. [12] At that time, the relevant test referred to a marked impairment in the ability to perceive, think and remember. In that regard, Justice Bowman said the following:
+. . . and this is the most difficult principle to formulate – the criteria to be employed in forming the judgement whether the mental impairment is of such a severity that the person is entitled to the credit, i.e. that that person’s ability to perceive, think and remember is markedly restricted within the meaning of the Act. It does not necessarily involve a state of complete automatism or anoesis, but it should be of such a severity that it affects and permeates his or her life to a degree that it renders that person incapable of performing such mental tasks as will enable him or her to function independently and with reasonable competence in everyday life.
+[Emphasis added.]
+[42] Justice Bowman also said that if there is doubt as to which side of the line a claimant falls, the doubt should be resolved in favour of the claimant.
+[43] As the Federal Court of Appeal has told us, the purpose of the DTC is to provide relief to a relatively restricted category of people with disabilities; the scope is limited to severely impaired people. Unfortunately, not everyone who suffers from a disability will qualify.
+VI. ANALYSIS
+[44] This is a difficult case. On the one hand, it is clear that Ms. Green’s social anxiety, depression and phobias do have a significant effect on her ability to function in the way society expects adults to function. She is not able to go about her daily life as most would. She is easily overwhelmed, avoids social contact, and prefers to stay at home by herself rather than leave her apartment. She is heavily dependent on her mother and her friends to help her make what most would consider mundane, easy decisions and to complete what most would consider routine tasks.
+[45] On the other hand, although Ms. Green has suffered from social anxiety, depression and various phobias for a very long time, at least prior to 2015, she was able, albeit with some difficulty, to go to school, to work, to attend parties, and to spend time with friends.
+[46] Ms. Green was on the witness stand for a lengthy period of time and, although she said she was definitely stressed about attending court, she did not appear to have any particular difficulties in testifying, both in chief and under cross-examination. However, both counsel were very respectful of her challenges and made efforts to ensure she was comfortable. Ms. Green has been in a stable housing situation for more than 5 years and, with therapy and medication, is making progress towards some of her goals. She is working a little in her parents’ business. She has stopped the destructive behaviour she once engaged in to cope with her anxiety and depression. She is to be commended for all of that, particularly given her challenges in finding psychiatric care and consistent therapeutic care. However, it is also clear that Ms. Green remains debilitated by her illness, notwithstanding that one can point to small (albeit important) successes.
+[47] Counsel for the Respondent submits that, having regard to what the statute expressly states is and is not a basic activity of daily life, Ms. Green does not qualify for the DTC. He points out that she is able to do many things for herself – bathing, dressing, cooking, grocery shopping, taking the bus – and that the primary difficulty she has is with working or interacting with people other than her family and friends. He points out that the Act expressly states working is not to be considered a basic activity of daily living and, as I noted above, neither are housekeeping or social or recreational activities. Again, this points to the very narrow circumstances in which the DTC is available.
+[48] But, the basis of Ms. Green’s claim is her ability to perform the mental functions necessary for everyday life. In assessing that, I have asked whether the evidence establishes that Ms. Green’s mental illness is of such a severity that it affects and permeates her life to such a degree that she is unable to perform the mental functions that would enable her to function independently and with reasonable competence in everyday life. In that context, the focus is on her memory, her adaptive functioning and her problem solving, goal-setting and judgment (taken together). These three elements of mental functions necessary for everyday life are to be considered disjunctively. [13]
+[49] One of the significant challenges with assessing the impact of mental impairments on daily life is that the impairment may be present all of the time, but the symptoms may not be [14] or, if present, may not be visible to those around the individual who suffers from the mental impairments. [15]
+[50] At the trial, I saw no evidence that Ms. Green had difficulty with her memory. Indeed, at the outset of her testimony, she was able to list some 16 places where she has lived. She knew the year she graduated from high school, when she attended university, and when she attended the 3-month make-up application program. She testified about many of her life experiences dating back to elementary school. Accordingly, I am satisfied that Ms. Green has no meaningful impairment in her memory that affects her ability to perform the mental functions for everyday life.
+[51] Adaptive functioning is not defined in the Act. As I noted above, the DTC provisions previously referred to a marked restriction in “perceiving, thinking and remembering.” Many concerns were raised about the effectiveness of those terms, including by representatives of persons with mental impairments [16] and, effective in 2005, the phrase “perceiving, thinking and remembering” was replaced with “mental functions necessary for everyday life.” The explanatory notes accompanying the draft legislation [17] referred to the Technical Advisory Committee’s [18] suggestion that the language used by the CRA on Form T2201 provided a clearer description of the effects of impairments in mental functions than the statutory language. It appears this influenced the change in the statutory language. However, the explanatory notes also are clear that the intent of the amendment is to clarify the existing legislation rather than to expand eligibility for the DTC.
+[52] The explanatory notes describe adaptive functioning as abilities related to self-care, health and safety, social skills and common simple transactions. The Form T2201 completed by Ms. Green’s family doctor largely parrots that language. Adaptive functioning has been described elsewhere as “how well a person handles common demands in life and how independent they are compared to others of a similar age and background.” [19]
+[53] In some ways, Ms. Green is quite capable of taking care of herself – she can dress, bathe, feed, and grocery shop for herself. She can do her own laundry, albeit only in a controlled environment. She can manage her own medications and she lives on her own. She seems to have insight into her illness. It is equally clear that her mental illness does negatively impact Ms. Green’s abilities related to social skills and common simple (in society’s view) transactions. She cannot work except to a limited extent in the family business, she avoids social interaction with all but family and close friends, and she remains in her apartment as much as she can. As her mother described it, as long as she remains in her apartment she can cope, but that is because then there is nothing to cope with. She is heavily reliant on her mother for almost all daily life functions.
+[54] In my view, assessing Ms. Green’s adaptive functioning is not a tallying exercise whereby one isolates what she can do and compares it to what she cannot. Rather, it is an exercise in assessing whether her mental illness markedly impacts her adaptive functioning as an overall matter. Does her mental illness impair her abilities related to self-care, health, safety, social skills, and common simple transactions in life (i.e., the mental function necessary for daily living) and her independence to do so? Based on the evidence, I am satisfied, on a balance of probabilities, that it does and that, at least since 2015, it has done so all, or substantially all, of the time.
+[55] In view of that finding, I do not need to consider the third element of mental functions necessary for daily living: problem-solving, goal-setting and judgment (taken together). However, as this is a difficult case, I have decided I should consider it.
+[56] These terms were described in the explanatory notes as the ability to solve problems, set and keep goals and make appropriate decisions and judgments, language that is repeated by the CRA on Form T2201. What does that mean in this context? As her family physician stated, Ms. Green’s behaviour is not illogical, but her choices are affected by her anxiety. She may laugh inappropriately or otherwise show signs of her anxiety. Ms. Green and her parents also cite examples of what might be considered very poor judgment, given the consequences, but for her are the only way to cope. Her anxiety causes a lot of avoidance, procrastination and withdrawal, which assists Ms. Green in coping with her anxieties, but has led to other problems, such as failing school, loss of employment, self-harm activities, reluctance to pursue therapy, and taking on too many projects. Does this indicate that her mental illness markedly impacts her problem-solving, goal-setting and judgment?
+[57] This is a more difficult question for me to answer positively than the question regarding the impact on adaptive functioning. However, I must be mindful that mental illness can be an invisible illness and, where there is doubt, the claimant should be given the benefit of that doubt. On that basis, I am satisfied that Ms. Green’s mental illness affects and permeates her life to a significant degree all of the time and therefore does affect her problem‑solving, goal-setting and judgment abilities as they relate to everyday life. How can it not?
+[58] Ms. Green has appealed the Minister’s determination for the 2010-2017 taxation years. At the end of the hearing, counsel for the Respondent suggested that if I determined Ms. Green was eligible for DTC, I should limit that eligibility to the 2015 and subsequent taxation years. Based on the evidence, it appears that in many ways Ms. Green was coping more successfully before 2015. Under cross-examination, Ms. Green herself said that before 2015 she was having less difficulty coping. Again, it is a difficult decision, but there is merit to the position advanced by Respondent’s counsel. While I do not dispute that Ms. Green suffered with her mental illness for many years prior to 2015, I am not convinced that prior to 2015 it can be said that that mental illness markedly restricted her mental functions for everyday life all or substantially all of the time.
+VII. CONCLUSION
+[59] Accordingly, the appeal from the Minister’s determination is allowed with effect from the 2015 taxation year. Each party shall bear their own costs.
+Signed at Calgary, Alberta, this 3rd day of April 2019.
+“K.A. Siobhan Monaghan”
+Monaghan J.
+CITATION:
+2019 TCC 74
+COURT FILE NO.:
+2018-879(IT)I
+STYLE OF CAUSE:
+AMBER GREEN v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+January 7, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K.A. Siobhan Monaghan
+DATE OF JUDGMENT:
+April 3, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Kevin MacDonald
+Counsel for the Respondent:
+Max Kruger
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kevin MacDonald
+Firm:
+Crowe Dillon Robinson LLP
+Halifax, Nova Scotia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See paragraph 118.4(1)(b).
+[2] Notwithstanding this, the Canada Revenue Agency (“CRA”) typically states that all or substantially means 90% or more.
+[3] See paragraph 118.4(1)(d).
+[4] See subparagraph 118.4(1)(c)(ii).
+[5] See paragraphs 118.4(1)(e) and (f).
+[6] See subparagraph 118.4(1)(c)(i).
+[7] See paragraph 118.4(1)(c.1).
+[8] The Federal Court of Appeal has said that inordinate in this context means excessive; much longer than what is usually required. See Johnston v. The Queen 98 D.T.C. 6169 (F.C.A.).
+[9] 2014 TCC 236.
+[10] He stated since 1998 in the Form T2201 and Ms. Green’s mother said he has been the family doctor for years.
+[11] Johnston, supra, note 8.
+[12] [1996] 3 C.T.C. 2510 (T.C.C.).
+[13] Radage, ibid and Gibson, supra note 9.
+[14] See, for example, Bergeron v The Queen 2003 TCC 297.
+[15] Buchanan v The Queen, Docket 2000-1865-IT-I; aff’d 2002 FCA 231, is a good illustration.
+[16] In this regard, see the detailed discussion of the various meanings that might be attributable to these terms in Radage, supra, note 12, starting at paragraph 20.
+[17] Draft Legislation and Explanatory Notes Implementing Remaining 2005 Budget Income Tax Measures dated August 15, 2005. See also Annex 8, “Tax Measures: Supplementary Information” in the February 23, 2005 Federal Budget.
+[18] Technical Advisory Committee on Tax Measures for Persons with Disabilities. This Committee released a report titled “Disability Tax Fairness” in December 2004.
+[19] Community Living British Columbia, Factsheet, Feb. 2011.

@@ -1,0 +1,228 @@
+Title: Caron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25290/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-794-25290-caron-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-10-30
+
+# Caron c. La Reine
+
+- Citation: 2003 CCI 794
+- Decision date: 2003-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2403, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-30
+Référence neutre
+2003 CCI 794
+Numéro de dossier
+2001-3876(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3876(IT)I
+ENTRE :
+ROBERT CARON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Jean-Guy Provencher (2001-3503(IT)I) le 29 mai 2003 à Rouyn-Noranda (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Yanick Houle
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993 et 1994 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2001-3503(IT)I
+ENTRE :
+JEAN-GUY PROVENCHER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Robert Caron (2001-3876(IT)I) le 29 mai 2003 à Rouyn-Noranda (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Yanick Houle
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993 et 1994 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2003CCI794
+Date : 20031030
+Dossier : 2001-3876(IT)I
+ENTRE :
+ROBERT CARON,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2001-3503(IT)I
+ENTRE :
+JEAN-GUY PROVENCHER,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Ces appels ont été entendus sur preuve commune. Il s'agit d'appels par voie de la procédure informelle concernant les années d'imposition 1992 à 1994.
+[2] Les questions en litige concernent : a) le montant résiduaire de la fraction à risque de l'intérêt des appelants dans une société en commandite pour les années d'imposition 1992 à 1994, au sens du paragraphe 96(2.2) de la Loi de l'impôt sur le revenu (la « Loi » ); et b) à savoir si la Cour a discrétion pour réduire ou annuler les intérêts relatifs à l'impôt dû pour ces années.
+[3] Selon le ministre du Revenu national (le « Ministre » ), en 1992, 1993 et 1994, le solde de la fraction à risque était rendu à zéro. Le Ministre a donc refusé les montants respectifs de 25 437 $, 12 231 $ et 4 755 $ réclamés par les appelants au titre de pertes nettes de la société. Ces pertes ont été considérées des pertes comme commanditaire au sens du paragraphe 96(2.1) de la Loi. Lors des nouvelles cotisations, le Ministre a imposé des intérêts sur les arriérés en vertu de l'article 161 de la Loi.
+[4] Les faits sur lesquels le Ministre s'est appuyé pour établir les nouvelles cotisations sont décrits au paragraphe 5 de la Réponse à l'avis d'appel (la « Réponse » ) dans le cas de l'appelant Caron et au paragraphe 4 de la Réponse dans le cas de l'appelant Provencher. Ces paragraphes sont identiques. Je cite donc le paragraphe 5 de la Réponse pour l'appelant Caron :
+a) Royal City Manor Limited Partnership est une société en commandite (ci-après, la « société en commandite » );
+b) Royal City Manor General Partner Inc. est le commandité de la société en commandite et détient la totalité des actions de Royal City Manor Ltd.;
+c) le projet de la société en commandite était la construction et l'exploitation d'un centre pour personnes âgées abritant 165 lits, dans la municipalité de New Westminster dans la province de la Colombie-Britannique, (ci-après, le « projet immobilier » );
+d) Royal City Manor Ltd. est le « legal owner » du terrain et de l'immeuble du projet immobilier;
+e) la société en commandite est le « beneficial owner » et l'exploitant du projet immobilier;
+f) le projet immobilier a, entre autres, été financé par deux prêts hypothécaires octroyés par la Metropolitain Trust Company of Canada :
+i) dans un premier temps, un prêt hypothécaire a été accordé au montant de 7 900 000 $;
+ii) ce prêt a été restructuré pour être augmenté à 8 400 000 $ et restructuré à nouveau pour être augmenté à 9 400 000 $;
+iii) un deuxième prêt hypothécaire au montant de 430 000 $ a aussi été contracté;
+g) les prêts hypothécaires ont été signés par Royal City Manor Ltd., véritable propriétaire de l'immeuble faisant l'objet de l'hypothèque;
+h) pour garantir les prêts hypothécaires ci-haut mentionnés, Royal City Manor Ltd. a donné en garantie collatérale l'immeuble dont elle était le « legal owner » ;
+i) treize mille sept cent vingt-quatre (13 724) parts ont été émises par la société en commandite;
+j) l'appelant a souscrit 188 parts des 13 724 parts de la société en commandite;
+k) selon les documents d'investissement de l'appelant, le prix de souscription aurait été acquitté de la façon suivante :
+i) un chèque de 25 000 $ payable à l'ordre de Placements Anchor Securities Ltée, en fidéicommis;
+ii) un « billet de souscription » en faveur de la société en commandite que l'appelant s'engageait à signer pour un montant de 144 760 $
+iii) et un « billet hypothécaire » en faveur de la société en commandite que l'appelant s'engageait à signer pour un montant de 144 760 $;
+l) en conséquence du billet hypothécaire que l'appelant s'engageait à signer, des intérêts sur le prêt hypothécaire dont il est fait mention aux paragraphes f) et g) ont été déduits par l'appelant au cours des années en litige;
+m) le Ministre considère que la garantie hypothécaire donnée par Royal City Manor Ltd. à Metropolitain Trust pour garantir les paiements des prêts hypothécaires constitue un montant ou un avantage qui vient réduire la fraction à risque de l'intérêt de l'appelant dans la société en commandite;
+n) par conséquent, le Ministre a diminué le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite du solde d'emprunts hypothécaires contracté par Royal City Manor Ltd. pour les années en litige;
+o) le solde de la fraction à risque de l'intérêt de l'appelant dans la société en commandite a donc été réduit à zéro pour les années 1992, 1993 et 1994 (voir détail en annexes) [le détail n'est pas reproduit];
+p) la fraction à risque de l'intérêt de l'appelant dans la société en commandite étant réduite à zéro, l'appelant ne peut donc réclamer des pertes relativement à son investissement dans la société en commandite pour les années d'imposition 1992, 1993 et 1994;
+q) compte tenu de ce qui précède, le Ministre a refusé de déduire les montants respectifs de 25 437 $, 12 231 $ et 4 755 $ réclamés par l'appelant au titre de pertes nettes de société en commandite pour les années d'imposition 1992, 1993 et 1994;
+r) compte tenu de ce qui précède et suite aux nouvelles cotisations en litige émises en vertu de l'alinéa 152(4)c) de la Loi de l'impôt sur le revenu (ci-après, la « Loi » ), le ministre du Revenu national a imposé des intérêts sur arriérés, en raison du solde dû au compte d'impôt de l'appelant pour les années d'imposition 1992, 1993 et 1994.
+[5] L'Avis d'appel de l'appelant Caron mentionne notamment :
+...
+De plus, cet avis survient presque 5 ans plus tard et génère des frais d'intérêt et de pénalités qui sont, à mon avis, injustifiables.
+En effet, que ce soit le recouvrement d'une somme ou encore les intérêts et pénalités qui s'y rattachent, ces dernières devraient être suspendus jusqu'à ce que la ou les décisions soient rendues. Le contribuable ne doit pas faire les frais des délais qu'occasionnent les recours aux mécanismes prévus par la loi. En conséquence, les frais d'intérêts et de pénalités devraient commencer à couvrir uniquement une fois que la décision finale sera rendue.
+[6] L'appelant Provencher également se plaint de l'imposition des intérêts et en demande la radiation.
+[7] En ce qui concerne le calcul de la fraction à risque, les deux appelants se sont référés à une opinion juridique qu'ils déposent comme pièce A-1. Ainsi que le fait noter l'avocat de l'intimée, cette opinion concerne une autre société en commandite. Essentiellement tout de même, cette opinion prétend que la dette hypothécaire des investisseurs est véritable et que les investisseurs auraient été obligés au paiement de la dette hypothécaire advenant le défaut de paiement du débiteur hypothécaire.
+[8] Les deux appelants ont fait carrière dans l'enseignement et sont maintenant retraités. M. Caron a témoigné le premier. Les deux appelants ont accepté que le témoignage de l'un était le témoignage de l'autre.
+[9] Ils ont admis les alinéas 5a) à 5c), 5f), 5g), 5j), 5k) et 5l) de la Réponse. Il ne peuvent ni admettre ni nier les alinéas 5d), 5e), 5h) et 5i) de la Réponse. Ils nient l'alinéa 5m) de la Réponse.
+[10] Ils ont déposé comme pièce A-2 les lettres d'autorisation de diminution des retenues d'impôt à la source pour les années en litige et les années 1990 et 1991.
+[11] L'intimée a déposé comme pièce I-1 un cahier de documents concernant le projet Royal City Manor Limited. La pièce I-2 contient les documents de la vérification. La pièce I-3 est constituée des documents concernant M. Provencher et la pièce I-4, ceux de M. Caron.
+[12] Les appelants relatent qu'il y a eu 73 investisseurs dans ce projet. Les appelants sont les seuls à avoir interjeté appel des nouvelles cotisations. Il y aurait eu une offre concernant la réduction ou la radiation des intérêts courus sur une période de 18 mois.
+[13] Les appelants ont emprunté en totalité le montant investi soit 43 200 $. Un tel prêt d'investissement était prévu à l'offre (onglet 1 de la pièce I-1)
+[14] En ce qui concerne les alinéas k)iii) et l), l'avocat de l'intimée a expliqué que le billet hypothécaire a été remplacé par une prise en charge d'hypothèque jusqu'à un montant de 144 760 $. (Le terme assumation a été employé au cours de l'audience et dans les divers documents. Je l'utiliserai pour les fins de ces motifs).
+[15] À l'onglet 1 des pièces I-3 et I-4, se trouve le formulaire de souscription, procuration, billet de souscription et billet hypothécaire. Cette convention d'investissement fut signée en 1990. Le paragraphe 12 de cette convention prévoit que le billet sera annulé dès que le signataire aura signé et transmis les conventions d'assumation de la première et de la seconde hypothèque.
+[16] Ces conventions se trouvent aux onglets 2d) et 2e) de la pièce I-1. Royal City Manor Ltd. est le propriétaire enregistré de la propriété qui est sujette à une débenture de 7 900 000 $ en faveur du prêteur hypothécaire, Metropolitan Trust Company of Canada. Une clause prévoit que chaque commanditaire assume sa part proportionnelle de l'hypothèque. Une autre clause prévoit que les commanditaires demandent et dirigent le commandité de payer à leur place.
+[17] Je cite les clauses 2 et 3 de la « Schedule D , Mortgage Assumption Agreement » :
+2. Each Limited Partner hereby authorizes and directs the Partnership to pay on his behalf (to the extent and out of payments due to him from the Partnership) his Pro Rata Share of all interest and principal to the Mortgage required to be paid to the Mortgagee in respect of the Mortgage pursuant to the terms and conditions of the Mortgage.
+3. Each Limited Partner hereby assigns to the Partnership any unadvanced portion of the principal amount of the Mortgage and directs that the same be advanced to or to the order of the Partnership, notwithstanding the assumption by the Limited Partners of the liability under the Mortgage hereunder.
+[18] La débenture au montant de 7 900 000 $ se trouve à l'onglet 3 de la pièce I-1.
+[19] La pièce A-4 est un extrait du registre des investisseurs. Il s'agit d'une liste des investissements et remboursements dans le projet Royal City Manor. À chaque mois à partir de janvier 1991 jusqu'en octobre 1992 et de mars à septembre 1993, il y a eu des remboursements aux investisseurs au montant de 288,27 $. Ce montant était en conformité avec la garantie du flux de l'encaisse mentionné dans le document de l'offre, onglet 1 de la pièce I-1
+[20] L'avocat de l'intimée a demandé à l'appelant Caron si au niveau des représentations faites, on lui avait mentionné que les risques d'avoir à faire des paiements relativement à l'assumation des hypothèques étaient inexistants? L'appelant a répondu que c'était difficile de s'en souvenir car cela faisait 13 ans.
+[21] À une autre question de l'avocat à savoir « quels étaient les avantages qui vous ont amené à investir » ? La réponse a été que « cela créait de l'emploi et nous récupérions de l'impôt » .
+[22] L'avocat de l'intimée demande aux appelants de lire la partie de l' « Offering memorandum and Limited Partnership Agreement » (onglet 2 de la pièce I-1) aux pages 71 et suivantes concernant le traitement fiscal des commanditaires et la possibilité que la fraction à risque ne comprenne pas le montant de l'assumation d'hypothèques et que le montant mensuel garanti par le développeur soit soustrait de cette fraction. Les appelants ont alors mentionné que c'était la première fois qu'ils lisaient cette mise en garde.
+[23] Je cite un passage à la page 72 :
+...
+The Tax Act provides that a Limited Partner's share of losses from a partnership for a given fiscal period of the Limited Partnership will only be deductible by him to the extent of his at-risk amount in respect of the Limited Partnership at the end of the period. The at-risk amount to an original Limited Partner at the end of a fiscal period will generally be the adjusted cost base of his interest reduced by any amounts owing by the Limited Partner to the Limited Partnership ... and by the amount of any guarantee, indemnity or other arrangement provided to, or for, the benefit of the Limited Partner to protect him against the loss of all or part of his investment. ...
+There can be no assurance that Revenue Canada, Taxation will not take the position that the liability of a Limited Partner under the First Mortgage Assumption Agreement and the Second Mortgage Assumption Agreement does not form part of his at-risk amount. Furthermore, the at-risk amount for each Limited Partner may be reduced by his pro rata share of the Cash Flow Guarantee provided to the Limited Partnership by the Developer and the Limited Partnership up to this lesser amount. ...
+[24] En ce qui concerne les intérêts payés par le commandité sur l'emprunt hypothécaire, les commanditaires les ont réclamés. Le commandité exploitait le centre et payait des intérêts à la demande des commanditaires. À la fin de l'année, ces frais étaient répartis à chaque investisseur qui réclamaient dans leur déclaration de revenus ces frais d'intérêt. Cela a été accepté par le Ministre.
+[25] À l'onglet 2 de la pièce I-4, se trouve la déclaration de revenu de l'appelant Caron pour l'année 1992. Cette déclaration inclut le formulaire T5013 rempli par la Royal City Manor Limited Partnership indiquant une perte au montant de 25 435 $ pour l'appelant. La part des intérêts est de 16 960 $ (limited partner's carrying costs for tax purposes). Ces intérêts n'auraient vraisemblablement pas été pris en compte dans l'état des résultats de la société.
+[26] Pour l'année 1993, la perte était au montant de 12 231 $ et les frais de financement au montant de 24 800 $. (Onglet 3 de la pièce I-4).
+[27] Pour l'année 1994, la perte est de 4 755 $ et les frais de financement au montant de 15 813,97 $. (Onglet 4 de la pièce I-4).
+[28] À l'onglet 6 de la pièce I-4, il y a un imprimé informatique de la déclaration de revenu pour l'année 1998. Une perte de société en commandite au montant de 42 423 $ a été réclamée en 1998. Il s'agit du total des pertes qui ont été refusées de 1992 à 1994. Le Ministre a accordé cette déduction en vertu de l'alinéa 111(1)e) de la Loi à l'encontre d'un revenu net attribuable à l'appelant à titre de sociétaire, à la suite de la vente du centre en 1998.
+[29] Le même exercice s'est fait avec l'appelant Provencher.
+[30] Madame Andrée Simard a témoigné pour la partie intimée. C'est elle qui a fait la vérification en 1995 et 1996. Elle était alors agent à l'évitement fiscal.
+[31] Le document de vérification a été produit comme pièce I-2. En date du 20 février 1996, madame Simard envoie une lettre à chaque investisseur l'informant que :
+...
+La perte qu'un commanditaire d'une société en commandite peut réclamer au cours d'une année, est limitée au montant de sa fraction à risque à la fin de l'année.
+Étant donné que votre fraction à risque au 31 décembre 1992 dans ladite société s'élève à zéro (ANNEXE « A » ), la perte réclamée au montant de 25 437 $ ne peut vous être allouée.
+Toutefois, cette perte constitue une perte à titre de commanditaire qui pourra être réclamée ultérieurement à l'encontre du revenu généré par ladite société.
+Par ailleurs, nous vous avisons que nous procédons actuellement à la vérification de votre fraction à risque pour les années d'imposition 1993 et 1994 ainsi qu'à la déductibilité des intérêts que vous avez encourus sur les emprunts hypothécaires garantis par les biens de la société.
+...
+[32] Le formulaire T2020, le « Rapport interne de la vérificatrice » , en date du 12 décembre 1995 se trouve à l'onglet 4 de la pièce I-2. Elle y relate sa rencontre avec un des sociétaires. Ce dernier était d'avis qu'il n'encourait aucun risque de devoir rembourser sa part de la dette hypothécaire parce que la bâtisse avait une valeur supérieure à l'emprunt hypothécaire.
+[33] À l'onglet 2 de la pièce I-2, une lettre de la vérificatrice Cindy Kalb pour les années 1993 et 1994. Cette lettre est en date du 12 février 1997. Elle se lit comme suit :
+...
+Par la présente, nous vous informons que la vérification de la Société Royal City Manor Limited pour les années d'imposition 1993 et 1994 est maintenant terminée.
+Comme vous savez, la perte qu'un commanditaire d'une société en commandite peut réclamer au cours d'une année, est limitée au montant de sa fraction à risque à la fin de l'année.
+Étant donné que votre fraction à risque au 31 décembre 1993 et au 31 décembre 1994 s'élève à zéro (voir annexes ci-jointes), la perte réclamée au montant de 12 230 $ en 1993 et de 4 755 $ en 1994 ne peut vous être allouée.
+Toutefois, ces pertes constituent des pertes à titre de commanditaire qui pourront être réclamées ultérieurement à l'encontre du revenu généré par ladite société.
+Au sujet des montants d'intérêts que vous avez réclamés dans vos déclarations 1993 et 1994, relatifs aux emprunts hypothécaires garantis par les biens de la société, nous vous informons qu'aucun redressement ne sera effectué à ce niveau.
+...
+Arguments de l'avocat de l'intimée
+[34] L'avocat de l'intimée fait valoir d'une part que l'assumation d'une partie de la dette hypothécaire peut difficilement être considérée comme un investissement réel fait par les appelants. Toutefois, le montant de cette assumation a été pris en compte dans le calcul du prix de base rajusté (ou « PBR » ). Il fait valoir, d'autre part, que la garantie hypothécaire donnée par Royal City Manor Ltd. au créancier hypothécaire constitue un montant ou un avantage au sens de l'alinéa 96(2.2)d) de la Loi qui vient réduire la fraction à risque.
+[35] L'alinéa 96(2.2)d) de la Loi se lit comme suit :
+96(2.2) Fraction à risques d'un intérêt dans une société de personnes - Pour l'application du présent article et des articles 111 et 127, la fraction à risques de l'intérêt d'un contribuable dans une société de personnes dont il est commanditaire à un moment donné correspond à l'excédent éventuel du total des montants suivants :
+...
+d) le montant ou l'avantage que le contribuable ou une personne avec qui il a un lien de dépendance a le droit, immédiat ou futur et conditionnel ou non, de recevoir - sous forme de remboursement, compensation, garantie de recettes, produit de disposition ou autre - et qui est accordé en vue de supprimer ou de réduire l'effet d'une perte dont le contribuable serait tenu en tant qu'associé de la société de personnes ou du fait qu'il a une participation dans la société de personnes ou qu'il en dispose, ...
+...
+[36] L'avocat soutient que l'utilisation des termes « ou sous toute autre forme » permet de conclure que les montants ou avantages de toute nature sont visés. De plus, l'avocat se réfère à la fin du paragraphe 96(2.2) de la Loi qui se lit comme suit :
+Pour l'application du présent paragraphe : d'une part, il est entendu que le montant ou l'avantage auquel le contribuable a droit à un moment donné et qui est prévu par une convention ou un autre mécanisme par lesquels le contribuable a le droit absolu ou conditionnel - sauf par suite de son décès - d'acquérir un autre bien en échange de tout ou partie de sa participation dans la société de personnes doit être au moins égal à la juste valeur marchande de cet autre bien à ce moment; d'autre part, il est entendu que le montant ou l'avantage auquel le contribuable a droit à un moment donné et qui est prévu par garantie ou sûreté ou par un dédommagement ou accord analogue sur un prêt ou sur une autre obligation du contribuable, par la société de personnes ou par une personne ou société de personnes avec qui la société de personnes a un lien de dépendance, doit être au moins égal au total du montant impayé du prêt ou de l'obligation à ce moment et de tous autres montants non remboursés sur le prêt ou l'obligation à ce moment.
+[37] L'avocat fait valoir que l'alinéa 96(2.2)d) de la Loi ne requiert qu'un avantage qui supprime ou réduise une perte. Le Ministre a donc correctement calculé la fraction à risque des appelants en soustrayant du PBR le montant de l'emprunt hypothécaire ainsi que le flux de l'encaisse.
+[38] L'avocat fait valoir que la Loi permet aux commanditaires, dans une année donnée, de déduire la perte jusqu'à concurrence de sa fraction à risque et le montant qui dépasse cette fraction à risque est une perte comme commanditaire en vertu du paragraphe 96(2.2) qui est reportable dans le temps en vertu de l'alinéa 111(1)e) de la Loi.
+[39] L'avocat relate qu'en effet, les pertes refusées en vertu du paragraphe 96(2.2) de la Loi ont été considérées des pertes comme commanditaire au sens du paragraphe 96(2.1) de la Loi et qu'en vertu de l'alinéa 111(1)e) de la Loi, elles ont pu être reportées à l'encontre du revenu de la société attribué aux commanditaires en 1998.
+Arguments des appelants
+[40] Les appelants réitèrent pour leur part que la dette hypothécaire assumée par eux doit faire partie du calcul de la fraction à risque sans qu'il y ait soustraction de la garantie donnée par l'emprunteur sur son immeuble, selon l'opinion fiscale qu'ils ont produite comme pièce A-1. De plus et surtout, les appelants considèrent qu'ils auraient dû être informés dès les cotisations initiales que les déductions ne seraient pas acceptées. Ils affirment que les sommes imposées ainsi que les intérêts leur ont causé des difficultés financières.
+Analyse et conclusion
+[41] L'opinion fiscale sur laquelle les appelants se sont appuyés est une opinion très sommaire qui de plus concernait un autre projet. Elle n'est donc pas d'utilité.
+[42] Il me semble que d'après la preuve, jamais les appelants n'ont cru qu'ils s'engageaient véritablement à payer le créancier hypothécaire au cas de défaut de la garantie donnée par Royal City Manor Ltd. Leur investissement était de 43 000 $ emprunté en totalité et non de 43 000 $ plus 144 700 $, le montant de l'assumation.
+[43] Selon le paragraphe 96(2.2) de la Loi, la fraction à risque de l'intérêt d'un contribuable dans une société de personnes, est l'excédent du total des montants décrits aux alinéas a) à d) de ce paragraphe.
+[44] Je suis d'avis que l'interprétation proposée par l'avocat de l'intimée est correcte. Au sens de l'alinéa 96(2.2)d) de la Loi, la garantie accordée par l'emprunteur hypothécaire peut supprimer ou réduire l'assumation de l'hypothèque accordée par les appelants.
+[45] Cette assumation était-elle véritable? Le créancier hypothécaire n'a pas témoigné. Les clauses des contrats d'assumation d'hypothèques ne sont pas claires. Le droit concernant les responsabilités des commanditaires dans une société en commandite est un droit complexe. L'assumation d'une hypothèque au montant de 144 760 $ est un engagement qui peut devenir fort onéreux et qui ne se fait pas à la légère. Une personne réfléchit fortement avant de s'engager de la sorte s'il y a quelque possibilité d'être réellement engagé à verser ce montant. Il est plus que douteux que les appelants aient été véritablement engagés, vu qu'ils ne semblaient aucunement concernés par cet engagement. Ils ne se souvenaient pas de ce qui leur avait été dit à ce sujet.
+[46] De toute façon, la garantie donnée par le débiteur hypothécaire est un avantage au sens de l'alinéa 96(2.2)d) de la Loi et sa valeur doit être prise en compte dans le calcul de la fraction à risque.
+[47] Les appelants auraient souhaité que le Ministre établisse ses cotisations finales dès la première année. Tous les formulaires étaient à la disposition du Ministre. Rembourser le Ministre est difficile quand l'argent des retours d'impôt a été dépensé. À cet impôt dû, doit s'ajouter les intérêts. Ils demandent à la Cour de radier ou diminuer ces intérêts.
+[48] Le paragraphe 152(3.1) de la Loi prévoit que la période normale de nouvelle cotisation pour un particulier est de trois ans suivant le jour de mise à la poste d'un avis de première cotisation. Ainsi que le législateur le lui permet, il me faut constater que le Ministre a agi à l'intérieur du délai prescrit.
+[49] Les intérêts sont imposés en vertu de l'article 161 de la Loi. Cet article prévoit qu'un contribuable est tenu de verser des intérêts sur les impôts impayés à partir de la date où ils sont dus. Cet article n'accorde aucune discrétion à cette Cour pour les réduire ou les annuler.
+[50] Tel qu'il a été mentionné aux appelants au cours de l'audience, le paragraphe 220(3.1) de la Loi accorde cette discrétion au Ministre seulement.
+[51] Les appels sont en conséquence rejetés.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI794
+Nos DES DOSSIERS DE LA COUR :
+2001-3876(IT)I & 2001-3503(IT)I
+INTITULÉS DES CAUSES :
+Robert Caron et La Reine
+Jean-Guy Provencher et La Reine
+LIEU DE L'AUDIENCE :
+Rouyn-Noranda (Québec)
+DATE DE L'AUDIENCE :
+le 29 mai 2003
+MOTIFS DE JUGEMENT PAR :
+L'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 30 octobre 2003
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-mêmes
+Avocat de l'intimée :
+Me Yanick Houle
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,173 @@
+---
+title: "Poulin c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27126/index.do"
+last_modified: "2006-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 34"
+citation2: ""
+neutral_citation: "2006 CCI 34"
+decision_date: "2006-01-30"
+language: "fr"
+item_id: "27126"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 930
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:56:08.159000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2c58765d62ebac253065b05e4f88b9cf7b5aef0eb1a93194134098766d3e3e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poulin c. M.R.N.
+
+- Citation: 2006 CCI 34
+- Decision date: 2006-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 930, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-30
+Référence neutre
+2006 CCI 34
+Numéro de dossier
+2004-4362(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-4362(EI)
+ENTRE :
+MARIO POULIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 22 novembre 2005, à Québec (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Marc Delisle
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois, Nouveau-Brunswick, ce 30e jour de janvier 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI34
+Date : 20060130
+Dossier : 2004-4362(EI)
+ENTRE :
+MARIO POULIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Québec (Québec) le 22 novembre 2005.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant auprès de Jean-Yves Bernard, le payeur, pendant les périodes du 21 juin au 19 juillet 2003 et du 27 juillet au 1er août 2003.
+[3] Le 20 octobre 2004, le ministre du Revenu national (le « Ministre » ) a informé l'appelant de sa décision selon laquelle celui-ci n'occupait pas un emploi assurable pendant ces périodes.
+[4] Le Ministre a déterminé que l'appelant n'a reçu aucune rémunération du payeur durant la période du 21 juin au 19 juillet 2003 et que celui-ci n'a rendu aucun service au payeur durant la semaine du 27 juillet au 1er août 2003.
+[5] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+a) le payeur était propriétaire d'un chalet au Lac St-Joseph;
+b) l'appelant était un ami du payeur;
+c) l'appelant avait perdu son emploi et il lui manquait 12 semaines pour se qualifier à recevoir des prestations de chômage;
+d) l'appelant rénovait son chalet avec des amis qui l'aidaient bénévolement;
+e) l'appelant a travaillé à la rénovation du chalet du payeur;
+f) l'appelant a demandé au payeur une rémunération pour l'aider financièrement;
+g) l'appelant a reçu une rémunération de 15 $ de l'heure pendant 6 semaines entre le 9 mai et le 20 juin 2003;
+h) le 7 avril 2004, dans une déclaration signée à DRHC, l'appelant déclarait que « l'employeur m'a payé d'avance le 14 juillet 2003, 1 000,00 $ pour le travail des semaines du 20 et 27 juillet 2003. J'en ai travaillé une et il m'en reste une à travailler » ;
+i) l'appelant n'a pas reçu de rémunération du payeur durant les semaines du 21 juin 2003 au 19 juillet 2003;
+j) l'appelant n'a pas rendu de services au payeur durant la semaine du 27 juillet 2003 au 1er août 2003.
+[6] L'appelant a ignoré le fait présumé par le Ministre énoncé à l'alinéa a); il a nié ceux énoncés aux alinéas b) à d) et i); il a admis ceux énoncés aux alinéas e), g) et h) et a voulu apporter des précisions à ceux énoncés aux alinéas f) et j).
+[7] La preuve a révélé que l'appelant et le payeur se sont rencontrés en mars 2003. C'est alors que l'appelant a fait une demande au payeur pour du travail puisqu'il avait perdu son emploi et qu'il lui manquait 12 semaines de travail pour obtenir des prestations de chômage. À cette époque, le payeur avait décidé de rénover son chalet situé au 2, Pointe des Bleuets, Lac St-Joseph, afin de le rendre habitable à l'année longue. À cette fin, il avait demandé à des amis de lui donner un coup de main. Ceux-ci sont venus aider le payeur à la rénovation de son chalet et ont fait le travail bénévolement en temps qu'amis car, au cours de la période estivale, ils profitent de l'accès au Lac St- Joseph à partir du chalet du payeur. Mais, pour ce qui concerne l'appelant qui avait besoin d'argent, le payeur a décidé de lui venir en aide financièrement. Le payeur a affirmé aux enquêteurs que c'est strictement pour venir en aide à l'appelant qu'il avait décidé de l'aider financièrement, comme il l'avait fait à d'autres occasions. Le payeur a révélé aux enquêteurs qu'il payait l'appelant au tarif horaire de 15,00 $, comme celui-ci l'avait demandé.
+[8] Le payeur a remis à l'appelant un chèque personnel pour 1 000,00 $, mais il a spécifié que ce montant d'argent n'était aucunement relié au travail que faisait l'appelant à son chalet. Il a ajouté que s'il avait fait mention « travail » sur le chèque, c'était strictement pour un aide-mémoire. Selon le payeur, le 1 000,00 $ représentait un prêt qu'il consentait à l'appelant.
+[9] Il a été établi que l'appelant a déclaré aux enquêteurs que le montant de 1 000,00 $ représentait plutôt une avance que lui avait accordée le payeur pour du travail à venir, travail que l'appelant aurait exécuté pendant les deux semaines de vacances de la construction. Cependant, l'appelant, à l'audition, a affirmé ne pas avoir travaillé pour le payeur pendant le congé de la construction. Par ailleurs, le payeur a affirmé qu'il n'aurait jamais permis à quiconque de travailler à son chalet, en son absence, et que personne n'a effectué de travaux à son chalet pendant le congé de la construction, c'est-à-dire les deux dernières semaines de juillet 2003. L'appelant a révélé aux enquêteurs que c'était lui-même qui décidait de son horaire de travail et qu'il travaillait à raison de huit heures par jour du lundi au vendredi pour une semaine de travail de 40 à 42 heures. Cependant, le payeur a affirmé aux enquêteurs que l'appelant n'avait aucun horaire de travail à respecter; il se présentait quand il le voulait, soit durant la semaine, soit la fin de semaine et il aidait le jour ou le soir. Par ailleurs, le payeur a démenti les affirmations de l'appelant à l'effet qu'il n'était jamais sur le chantier. Le payeur déclarait, entre autres : « En ce qui me concerne, il est totalement faux que je ne travaillais pas, au contraire, c'est moi qui lui disait quoi faire. Si j'ai payé Mario Poulin, c'est strictement pour lui venir en aide. Je l'avais aidé financièrement à d'autres occasions. Il y a eu plusieurs personnes qui m'ont aidé bénévolement et seul Mario suite à ses difficultés financières a été payé. Les talons de chèque ont été faits à la demande de Mario, mais je n'ai pas fait de remise ni émis de relevé d'emploi car je considérais que je lui venais en aide. Il a été le seul payé. Aucun livre de salaire n'était tenu puisque l'appelant n'était pas considéré comme un employé. Mario Poulin ne faisait que me donner un coup de main, tout comme ses autres amis. Il a raclé la terre, arrangé la galerie, etc. Il n'avait aucun horaire de travail à respecter; Mario Poulin se présentait quand il le voulait » .
+[10] Il faut noter que le payeur, Jean-Yves Bernard, s'est avéré un témoin très récalcitrant. D'abord il ne s'est pas présenté à l'audition le 26 juillet 2005, et c'est avec beaucoup de réticence que cette Cour a accordé la remise demandée par son avocat, considérant ses motifs peu convaincants. Par ailleurs, il ne s'est pas présenté à l'audition du 22 novembre dernier, et cette Cour a dû lancer un mandat d'arrestation pour l'amener devant le tribunal.
+[11] Jean-Yves Bernard a débuté son témoignage en disant que sa mémoire lui faisait défaut. Il a affirmé dans son témoignage que l'appelant était venu l'aider bénévolement, puis, il s'est ravisé et a déclaré qu'il avait effectivement payé l'appelant pour son travail. Dans son témoignage, il a affirmé que lui et l'appelant étaient de bons amis mais qu'ils s'étaient brouillés en raison de cette affaire maintenant devant la Cour, mais qu'il avait signé la lettre du 8 décembre 2004, (pièce A-1), à la demande de l'appelant. Dans cette lettre, monsieur Bernard affirme que l'appelant a été à son emploi du 21 juin au 19 juillet 2003 et du 27 juillet au 1er août 2003.
+[12] Quant au salaire qu'il aurait payé à l'appelant, au taux horaire, et à la fréquence des paies, il a été incapable de les déterminer. Il a ensuite affirmé qu'il avait payé l'appelant avec les chèques de sa compagnie.
+[13] Cependant, le compte-rendu des enquêteurs met en doute plusieurs des affirmations du payeur, ainsi que celles de l'appelant.
+[14] En outre, les affirmations du payeur et de l'appelant viennent souvent contredire leur propre déclaration statutaire et les autres informations fournies aux enquêteurs.
+[15] À l'audition, l'appelant a identifié le payeur comme une connaissance. Cette affirmation va à l'encontre des informations recueillies par les enquêteurs à l'effet que l'appelant et le payeur étaient des amis. C'est ce qu'ont déclaré le payeur, Mario Naud le comptable du payeur et Dominique Picard un ami du payeur. L'appelant n'a jamais expliqué comment, s'il n'était qu'une « connaissance » du payeur, celui-ci aurait choisi de le rémunérer à l'exclusion des autres. Il faut noter, par ailleurs, que l'appelant a nié qu'il a été le seul à être rémunéré, ce qui va à l'encontre de l'ensemble de la preuve.
+[16] Dans son témoignage, l'appelant a contredit sa déclaration statutaire à l'effet qu'il aurait travaillé pour le payeur pendant la période de congé de la construction. Il a aussi admis qu'ayant remboursé le payeur pour la moitié du prêt de 1 000,00 $ que lui avait consenti ce dernier, par une semaine de travail, il n'avait toujours pas, à ce jour, travaillé l'autre semaine pour lui rembourser le reste du prêt.
+[17] La lettre du 8 décembre 2004 (pièce A-1) a été obtenue du payeur par l'appelant dans des circonstances qui laissent entendre, selon la preuve, que ce fut là le résultat d'une réconciliation entre deux amis. L'ensemble de la preuve, orale et documentaire ne s'accorde pas avec l'information que révèle cette pièce. Les seuls autres documents produits à l'appui de la revendication de l'appelant sont : une photocopie d'un chèque en date du 14 juillet 2003 émis à l'appelant par le payeur (pièce I-2); un relevé de salaire en date du 15 juillet 2003 (pièce I-4); et une photocopie d'un extrait bancaire (pièce I-5).
+[18] Le relevé de salaire de l'appelant (pièce I-4) pour mai et juin 2003, soit jusqu'au 20 juin 2003, n'a pas été signé par le payeur. Par ailleurs, ce relevé n'a aucune pertinence à ce litige puisqu'il prétend confirmer le salaire de l'appelant pour une période en dehors des périodes en litige.
+[19] L'extrait bancaire, (pièce I-5), a été produit à titre de soutien à l'affirmation de l'appelant qu'il aurait travaillé et qu'il a été rémunéré par le payeur pendant la période de juin - juillet 2003. Selon l'appelant, cette pièce représente les dépôts à son compte qui ne peuvent qu'être attribuables à son travail pour le payeur puisque celui-ci était son seul employeur à l'époque.
+[20] Le Ministre met en doute cette affirmation de l'appelant et la portée de cette pièce pour les motifs suivants :
+1. La pièce est pratiquement illisible;
+2. Le titulaire du compte n'est pas identifié;
+3. Il n'y a aucun numéro de compte;
+4. Aucune institution bancaire n'est identifiée;
+5. La dernière entrée est datée du 4 juillet;
+6. L'année n'est pas identifiée;
+7. Certaines entrées sont effacées;
+8. Ça ressemble à des coupures qu'on a superposées. Où sont les documents d'où proviennent ces entrées, chèques, bordereaux de dépôts, etc.? Rien de cela n'a été produit.
+[21] Il a été établi que l'appelant, ainsi que d'autres amis du payeur, sont allés prêter main forte au payeur lors des travaux de rénovation de son chalet. Contrairement aux autres travailleurs, l'appelant a reçu une certaine compensation pour son travail. L'appelant avait demandé de l'aide au payeur parce qu'il avait perdu son emploi et qu'il lui fallait encore 12 semaines pour se qualifier à des prestations d'assurance-emploi. Le payeur a décidé de lui aider. Il lui a fourni du travail et il l'a payé, même s'il était considéré comme bénévole. Le payeur lui a également consenti un prêt de 1 000,00 $. Selon la preuve, l'appelant s'était engagé à rembourser ce prêt en travail. Il ne l'a toujours pas fait. Or, la Loi sur l'assurance-emploi (la « Loi » ) prescrit qu'une semaine de travail n'est assurable que si elle est travaillée et payée.
+[22] Au terme de son enquête, le Ministre a conclu qu'il n'existait aucun contrat de louage de services entre le payeur et l'appelant et qu'il s'agissait plutôt d'un échange de services entre deux amis. En outre, le Ministre a déterminé qu'il s'agissait plutôt d'un arrangement entre les parties pour permettre à l'appelant de se qualifier à des prestations d'assurance-emploi.
+[23] La question en litige est de savoir si l'appelant occupait un emploi assurable aux fins de la Loi. La disposition pertinente est l'alinéa 5(1)a) de la Loi, qui énonce ce qui suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière; [Je souligne]
+[24] L'article précité contient la définition du contrat assurable. C'est celui que l'on occupe en vertu d'un contrat de louage de services, c'est-à-dire, un contrat de travail. Cependant, la Loi ne définit pas ce qui constitue un tel contrat.
+[25] Le contrat de louage de services est une notion de droit civil que l'on trouve dans le Code civil du Québec ( « Code civil » ). C'est donc en vertu des dispositions pertinentes de ce Code qu'il faudra déterminer la nature de ce contrat.
+[26] Il convient de reproduire les dispositions pertinentes du Code civil qui serviront à déterminer l'existence d'un contrat de travail au Québec pour le distinguer du contrat d'entreprise :
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d'entreprise ou de service
+2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099 L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution. (Le souligné est de moi)
+[27] Les dispositions du Code civil reproduites ci-dessus établissent trois conditions essentielles à l'existence d'un contrat de travail : 1) la prestation sous forme de travail fournie par le salarié; 2) la rémunération de ce travail par l'employeur; et 3) le lien de subordination. Ce qui distingue de façon significative un contrat de service d'un contrat de travail, c'est l'existence du lien de subordination, c'est-à-dire le fait pour l'employeur d'avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[28] L'appelant avait le fardeau de prouver la fausseté des présomptions du Ministre. Il a failli à cette tâche.
+[29] Les faits présentés par l'appelant ne rencontrent pas les caractéristiques nécessaires selon la définition de l'alinéa 5(1)a) de la Loi ou de la notion de contrat de travail tel que défini dans le Code civil.
+[30] Cette Cour ne voit aucunement le bien-fondé de son intervention dans la décision rendue par le Ministre.
+[31] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 30e jour de janvier 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2006CCI34
+N º DU DOSSIER DE LA COUR : 2004-4362(EI)
+INTITULÉ DE LA CAUSE : MARIO POULIN ET M.R.N.
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 22 novembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 30 janvier 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Marc Delisle
+Avocate de l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Marc Delisle
+Étude : Me Marc Delisle
+Vanier (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

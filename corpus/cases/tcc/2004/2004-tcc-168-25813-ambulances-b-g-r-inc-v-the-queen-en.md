@@ -1,0 +1,171 @@
+---
+title: "Ambulances B.G.R. Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25813/index.do"
+last_modified: "2004-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 168"
+citation2: ""
+neutral_citation: "2004 TCC 168"
+decision_date: "2004-04-15"
+language: "en"
+item_id: "25813"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3889
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:34:42.570000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf19774adc8d1b9f57dbec8ddf6777152f0d9644f227862e69666ebd202974b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ambulances B.G.R. Inc. v. The Queen
+
+- Citation: 2004 TCC 168
+- Decision date: 2004-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3889, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ambulances B.G.R. Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-15
+Neutral citation
+2004 TCC 168
+File numbers
+2001-1712(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1712(IT)G
+BETWEEN
+AMBULANCES B.G.R. INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on February 16, 2004, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 1995, 1996 and 1997 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of April 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of August 2004.
+Sharon Winkler Moren, Translator
+Reference: 2004TCC168
+Date: 20040415
+Docket: 2001‑1712(IT)G
+BETWEEN:
+AMBULANCES B.G.R. INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Minister of National Revenue (the "Minister") disallowed the Appellant's deduction of bonuses of $161,639, $125,000 and $75,000 for the taxation years ending March 31, 1995, March 31, 1996, and March 31, 1997, respectively because he held, relying on paragraph 18(1)(a) and section 67 of the Income Tax Act (the "Act"), that these bonuses were not expenses incurred or made for the purpose of producing income from the business and that they were not reasonable expenses in the circumstances. The Appellant is appealing these assessments.
+Statement of Facts
+[2] During the taxation years ending March 31, 1995 and March 31, 1996, the Appellant operated an ambulance service business in Saint‑Hyacinthe, Acton Vale and Drummondville. During this period, it employed approximately 85 individuals and owned 12 ambulances.
+[3] Roger Fontaine was the Appellant's sole shareholder. He had two children, Eve and Patrice. They worked for the Appellant.
+[4] Eve Fontaine received a salary of $38,025 per year ($731.26 per week) from the Appellant on February 22, 1996. Patrice Fontaine received nothing from the Appellant in the form of salary during the period at issue.
+[5] The Appellant sold the business on April 1, 1996. As a result, the Appellant did not operate a business during the 1997 taxation year that ended on March 31, 1997.
+[6] Les Ambulances G.M.R. Inc. ("G.M.R ."), a company fully owned by Roger Fontaine's spouse, operated an ambulance service in the Granby region. G.M.R. owned four ambulances and employed approximately 15 individuals. G.M.R. was managed at the Appellant's head office.
+[7] During the years at issue, the Appellant paid the following amounts as bonuses:
+1995
+1996
+1997
+Eve Fontaine
+$136,639
+$50,000
+Patrice Fontaine
+$50,000
+$100,000
+$75,000
+Roger Fontaine
+$80,000
+$200,000
+$300,000
+Total:
+$266,639
+$350,000
+$375,000
+[8] The Minister disallowed the deduction of the following bonuses:
+1995
+1996
+1997
+Eve Fontaine
+$136,639
+$50,000
+Patrice Fontaine
+$25,000
+$75,000
+$75,000
+Roger Fontaine
+$0
+$0
+$0
+Total disallowed:
+$161,639
+$125,000
+$75,000
+Analysis and conclusion
+[9] In her Reply to the Notice of Appeal, the Respondent alleges that the bonuses are not expenses incurred or made by the Appellant for the purpose of producing an income from the business and that they are not reasonable expenses for the following reasons:
+(i) the Appellant paid the bonuses to Roger Fontaine's children so that the Appellant's net income would be less than $200,000 in order to benefit from the lower taxation rate granted to small businesses;
+(ii) the Appellant did not determine the amount of the bonuses payable to Roger Fontaine's children until the end of each fiscal year for each of the years at issue;
+(iii) the children were not shareholders in the Appellant during the years at issue;
+(iv) during the years at issue, Patrice Fontaine devoted 50% of his efforts to the Appellant's business, 45% of his efforts to the business of Granites William Inc. and 5% of his effort to the business of Monuments Daudelin Inc.;
+(v) during the years at issue, the Appellant paid bonuses to the members of Roger Fontaine's family only and not to the other employees, including the company's chief executive officer and the supervisors.
+[10] In addition, in her closing address, Counsel for the Respondent claims that the $136,000 bonus paid to Eve Fontaine in 1995 was unreasonable considering that the bonus paid to her father, the Appellant's only shareholder, was only $80,000 for the same period. She also submits that the $70,000 bonus paid in 1997 by the Appellant to Patrice Fontaine was unreasonable since he only worked the equivalent of one fourth of the year. Finally, she argued that the reasonableness of the bonuses ought to be studied in terms of the test devised in Gabco Ltd. v. Minister of National Revenue, 1968 CarswellNat 285, [1998] C.T.C. 313, [1968] 2 Ex. C.R. 511, which reads:
+It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[11] I wish to stress that Roger Fontaine and his two children testified with a great deal of conviction and emotion. Their testimony seemed credible and true to me.
+[12] Firstly, the Appellant convinced me that the services for which the bonuses were paid were real. The evidence showed that Eve Fontaine was the Appellant's controller and that as such, she took care of billing and the collection of accounts receivable. She was the only person authorized to sign the Appellant's cheques. She also managed the Appellant's labour relations. In this capacity, she oversaw the implementation of two collective agreements that proved to be very complex in this instance. She set work schedules for the ambulance attendants and managed the transport of patients between hospitals. In addition, she was often called upon to manage crisis situations, which usually occurred in serious highway accidents. The Appellant could count on her availability 24 hours per day, seven days per week. Moreover, Eve Fontaine testified that the Appellant had regularly called on her services outside normal work hours and that she slept with her pager. She worked from 50 to 70 hours per week.
+[13] The evidence also showed that Patrice Fontaine was available as well 24 hours per day, seven days per week. He mainly looked after equipment management, i.e. the purchase and repair of ambulances. He saw that the ambulances were in good condition and had the necessary equipment on board at all times. He also looked after the Appellant's public relations. Like his sister, he was regularly called upon to manage crisis situations that could occur in major accidents. Finally, he played a significant role in the Appellant's employee relations when they learned, during 1996, that the Appellant was negotiating the sale of the business. It was he who calmed and reassured the employees. The evidence also showed that, in 1997, Roger Fontaine represented the Appellant in discussions and negotiations pertaining to complaints made by the buyer following the purchase of the business from the Appellant. He also took care of collecting the Appellant's accounts receivable and settling grievances during the sale of the business.
+[14] Roger Fontaine and his two children also convinced me that the performance of Eve Fontaine and her brother Patrice played a material role in the Appellant's financial success. The children were not mere employees. They were key managers of the business, like their father, although they were not shareholders in the Appellant. They managed the Appellant in their father's absence. In fact, the evidence showed that the father had to be away frequently to take care of his other businesses, in the Corporation des Ambulances du Québec, in which he was especially involved, and the 1996 negotiation of the sale of the Appellant's business. The children were the Appellant's relief employees. Finally, it is appropriate to point out that they were in no way under the control or direction of the chief executive officer.
+[15] In my opinion, the Minister ruled that the bonuses paid in 1995 and 1996 to Roger Fontaine's children were unreasonable because he had mistakenly failed to consider the relationship between the remuneration that they received during these years and previous years and their outstanding effort, even if Roger Fontaine's son only devoted 50% of his effort to the Appellant's business and if his sister managed G.M.R. for free. It is appropriate to recall that Eve Fontaine's annual salary for the years 1995 and 1996 was only $38,000 and her brother Patrice received no salary from the Appellant during 1995, 1996 and 1997. However, the evidence has shown that the chief executive officer received an annual salary of $70,000 from the Appellant although his workload and responsibilities were less than those of the children. I am also of the opinion that the Minister was incorrect to not consider that there was an element of catch-up in the payment of these bonuses. The children expected to receive significant bonuses. During the previous years, the children had contributed in an outstanding manner to the company's financial success without receiving appropriate compensation. The father had promised his children that he would remedy the situation as soon as the Appellant's financial situation was healthy. He had convinced them that the Appellant first had to pay its debts before paying bonuses.
+Conclusion
+[16] The Appellant convinced me of the following facts:
+(i) the services for which the bonuses were paid were real;
+(ii) the performance of Eve Fontaine and her brother Patrice played a material role in the Appellant's financial success;
+(iii) moreover, the remuneration they received during the periods at issue did not take into account their outstanding contribution during this same period;
+(iv) the bonuses were expected and deserved compensation for their outstanding contribution during the previous years, which had not been remunerated at fair value.
+I thus conclude that the Appellant has met its obligation to show that, on the balance of probability, the bonuses paid to Eve Fontaine and to her brother Patrice for the fiscal years ending December 31, 1995, 1996 and 1997, were expenses made for the purpose of producing an income from the business and that they were reasonable in the circumstances. In fact, I could not arrive at the conclusion that any reasonable businessman having only the best business interests of the Appellant in mind would not have contracted to pay similar bonuses.
+[17] The appeals from the assessments under the Income Tax Act for the 1995, 1996 and 1997 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada this 15th day of April 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of August 2004.
+Sharon Winkler Moren, Translator

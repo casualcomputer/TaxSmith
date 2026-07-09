@@ -1,0 +1,187 @@
+Title: Murray c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26011/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-752-26011-murray-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-12-06
+
+# Murray c. La Reine
+
+- Citation: 2004 CCI 752
+- Decision date: 2004-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3744, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murray c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-06
+Référence neutre
+2004 CCI 752
+Numéro de dossier
+2003-1106(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1106(IT)I
+ENTRE :
+RÉAL MURRAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 4 novembre 2004, à Roberval (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI752
+Date : 20041206
+Dossier : 2003-1106(IT)I
+ENTRE :
+RÉAL MURRAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l'année d'imposition 2001. La question en litige est de déterminer si le ministre du Revenu national était justifié de refuser à l'appelant un crédit d'impôt pour personne handicapée.
+[2] Se représentant lui-même, l'appelant s'est exprimé avec une grande facilité; il a expliqué toutes les raisons qui l'avaient amené à faire appel de la cotisation.
+[3] Il n'y a aucun doute que l'appelant souffrait d'une importante incapacité puisque la Régie des Rentes du Québec a reconnu son incapacité totale permanente et qu'il reçoit une rente d'invalidité.
+[4] Par contre, bien qu'il doive prendre une quantité importante de médicaments, il réussit à bien fonctionner. Vivant seul dans son appartement, il est autonome. Il ne possède pas de véhicule automobile, mais détient un permis de conduire avec comme seule restriction l'obligation de porter des verres correcteurs.
+[5] Certaines journées, il a expliqué avoir de la difficulté à commencer des activités à cause des douleurs intenses au dos d'où la nécessité de prendre des anti-inflammatoires. Il prend également des anti-dépresseurs et des médicaments pour la pression sanguine.
+[6] À la face même de la présentation de l'appelant à l'audience, il est clair qu'il n'était pas admissible au crédit en question. Par contre, le crédit demandé concernait l'année d'imposition 2001 et non pas l'année en cours.
+[7] Au soutien de sa demande pour obtenir le crédit, l'appelant a dû produire une évaluation préparée par son médecin. Or, les réponses aux questions fournies par le médecin confirment que l'appelant n'était pas admissible au crédit. Je reproduis les questions et les réponses obtenues :
+[...]
+Votre patient peut-il voir? Oui
+Votre patient peut-il marcher? Oui
+Votre patient peut-il parler? Oui
+Votre patient est-il capable de percevoir, de réfléchir ou de se souvenir? Oui
+Votre patient peut-il entendre? Oui
+Votre patient peut-il se nourrir ou s'habiller lui-même? Oui
+Votre patient peut-il s'occuper lui-même de ses fonctions intestinales et urinaires? Oui
+[...]
+Est-ce que votre patient répond aux conditions pour les soins thérapeutiques essentiels? Non
+[8] Le docteur Jacqueline Lacasse a également répondu aux questions que lui avait adressées l'Agence des douanes et du revenu du Canada le 9 août 2002. Les questions et réponses furent les suivantes :
+[...]
+Votre patient est-il orienté dans les trois sphères: personne, lieu et temps? Oui
+Votre patient saisissait-il la notion de danger? Oui
+[...]
+Votre patient pouvait-il retenir les directives ou les renseignements qui lui avaient été donnés lors de ses visites à votre bureau? Oui
+Votre patient pouvait-il s'occuper de ses soins personnels (sans aide ou surveillance)? Oui
+[...]
+La déficience intellectuelle de votre patient a-t-elle restreint sa capacité à vivre de manière autonome? Non
+Votre patient pouvait-il faire seul un achat simple? Oui
+[...]
+Votre patient devait-il prendre des médicaments ou recevoir des soins thérapeutiques en raison de sa limitation? Non
+Les médicaments ou les soins thérapeutiques ont-ils amélioré sa capacité de réfléchir, de percevoir et de se souvenir de votre patient? Veuillez préciser : Requiert pas de médicaments (mot illisible)
+Vous attendez-vous à un changement dans la gravité de l'incapacité fonctionnelle de votre patient? Non
+[...]
+[9] Les articles 118.3 et 118.4 de la Loi de l'impôt sur le revenu se lisent comme suit :
+(1)
+Un montant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition, si les conditions suivantes sont réunies:
+a)
+le particulier a une déficience mentale ou physique grave et prolongée;
+a.1)
+les effets de la déficience sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d'une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d'au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s'attendre, n'ont pas d'effet bénéfique sur des personnes n'ayant pas une telle déficience;
+a.2)
+l'une des personnes suivantes atteste, sur le formulaire prescrit, qu'il s'agit d'une déficience mentale ou physique grave prolongée dont les effets sont tels que la capacité du particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l'absence des soins thérapeutiques mentionnés à l'alinéa a.1) :
+i) un médecin en titre,
+(i.1) s'il s'agit d'un trouble de la parole, un médecin en titre ou un orthophoniste,
+(ii) s'il s'agit d'une déficience visuelle, un médecin en titre ou un optométriste,
+(iii) s'il s'agit d'une déficience auditive, un médecin en titre ou un audiologiste;
+(iv) s'il s'agit d'une déficience quant à la capacité à marcher ou à s'alimenter et à s'habiller, un médecin en titre ou un ergothérapeute,
+(v) s'il s'agit d'une déficience sur le plan de la perception, de la réflexion et de la mémoire, un médecin en titre ou un psychologue;
+b)
+le particulier présente au ministre l'attestation visée à l'alinéa a.2) pour une année d'imposition;
+c)
+aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n'est inclus par le particulier ou par une autre personne dans le calcul d'une déduction en application de l'article 118.2 pour l'année (autrement que par application de l'alinéa 118.2(2)(b.1).
+[...]
+118.4(1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a)
+une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+b)
+la capacité d'un particulier d'accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l'aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d'accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+c)
+sont des activités courantes de la vie quotidienne pour un particulier;
+(i)
+la perception, la réflexion et la mémoire,
+(ii)
+le fait de s'alimenter et de s'habiller,
+(iii)
+le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv)
+le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v)
+les fonctions d'évacuation intestinale ou vésicale,
+(vi)
+le fait de marcher,
+d)
+il est entendu qu'aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n'est considérée comme une activité courante de la vie quotidienne.
+[10] Dans l'affaire MacIsaac c. Canada, 1999 A.C.F. no 1898 (Q.L.), l'honorable juge Sexton s'exprimait comme suit :
+5 Bien que nous comprenions les défendeurs et la position prise par le juge de la Cour de l'impôt, nous ne pouvons être d'accord avec lui sur cette question. Le paragraphe 118.3(1)a.2) de la Loi de l'impôt sur le revenu n'est pas simplement indicatif. Il s'agit d'une disposition impérative. Dit simplement, selon le libellé de ces dispositions, il doit y avoir une attestation faite par un médecin qui indique que l'individu souffre de déficiences. Notre Cour a rendu une décision dans le même sens dans l'affaire Partanen c. Canada, [1999] A.C.F. no 751, et nous nous estimons liés par cette décision.
+6 Il n'est pas évident que de poser les questions telles qu'elles le sont dans le formulaire amène le médecin à faire un examen approfondi des questions auxquelles il fait face. Cocher des cases n'est peut-être pas la meilleure façon d'obtenir un résultat juste. Néanmoins, la Loi exige de telles attestations et en fait une condition préalable pour l'obtention de crédits d'impôt pour déficience.
+[11] Bien qu'il ne soit pas facile de répondre aux questions habituellement soulevées dans le formulaire, ces réponses ont un effet déterminant en ce qui concerne l'admissibilité au crédit d'impôt pour personnes handicapées. Il s'avère, dans le présent dossier, que l'appelant ne répondait manifestement pas aux critères d'admissibilité à un tel crédit. Les réponses fournies par son médecin traitant correspondent d'ailleurs à ce que le tribunal a pu constater lors de l'audience.
+[12] Pour la période en litige soit l'année d'imposition 2001, la prépondérance de la preuve émanant tant du témoignage de l'appelant que de l'opinion de son médecin traitant, il appert que l'appelant était un individu autonome en mesure de s'occuper seul de sa personne. Il devait prendre plusieurs médicaments, mais il était fonctionnel. Il avait en tout temps la capacité physique et mentale d'accomplir toutes les activités courantes de la vie quotidienne, sans devoir y investir un temps excessif, tel que prévu aux dispositions de la Loi de l'impôt sur le revenu :
+(i)
+la perception, la réflexion et la mémoire,
+(percevoir, réfléchir, se souvenir)
+(ii)
+le fait de s'alimenter et de s'habiller,
+(iii)
+le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv)
+le fait d'entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v)
+les fonctions d'évacuation intestinale ou vésicale,
+(vi)
+le fait de marcher,
+[13] Conséquemment, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI752
+No DU DOSSIER DE LA COUR :
+2003-1106(IT)I
+INTITULÉ DE LA CAUSE :
+Réal Murray c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Roberval (Québec)
+DATE DE L'AUDIENCE :
+le 4 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 6 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

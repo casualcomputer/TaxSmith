@@ -1,0 +1,148 @@
+---
+title: "Dhaliwal v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28193/index.do"
+last_modified: "2006-10-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 540"
+citation2: ""
+neutral_citation: "2006 TCC 540"
+decision_date: "2006-10-23"
+language: "en"
+item_id: "28193"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1974
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:39:45.280000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3135406c637411a24a1084eb62184004dab0bf8d6322c1ee2b1dc632ace2bb31"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dhaliwal v. M.N.R.
+
+- Citation: 2006 TCC 540
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1974, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhaliwal v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-23
+Neutral citation
+2006 TCC 540
+File numbers
+2006-152(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-152(EI)
+BETWEEN:
+HARPALJIT K. DHALIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 23, 2006 at Vancouver, British Columbia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 4th day of October, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2006TCC540
+Date: 20061004
+Docket: 2006-152(EI)
+BETWEEN:
+HARPALJIT K. DHALIWAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Harpaljit Dhaliwal, is appealing the decision of the Minister of National Revenue that she was not engaged in insurable employment with Unique Drywall Inc., a company of which her husband is the sole shareholder, for the periods July 1 to October 31, 2003 and August 1, 2004 to January 31, 2005.
+[2] Briefly stated, the Appellant handled the administrative end of her husband's drywall company: she answered phones, did the banking, and generally assisted as needed with the company’s contracting process. She worked out of the office in the family home which allowed her the flexibility to get their children to and from school. From time to time she used the company truck to do so.
+[3] There is no dispute that the Appellant performed her duties as an employee working under a contract of service. The Minister's decision that her work was not insurable had to do with her non-arm's length status as the wife of the principal of her employer, Unique Drywall. The Minister, having considered the circumstances of the Appellant's employment, was not satisfied that a person dealing at arm's length would have entered substantially the same contract. [1]
+[4] The Appellant testified at the hearing. She struck me as an intelligent, capable woman with a keen knowledge of all aspects of her husband's business. Her husband was present for most of the hearing but did not give evidence.
+[5] The Appellant had the onus of proving wrong the assumptions upon which the Minister based his decision. At the heart of the dispute between the Appellant and the Minister are the following assumptions which I have dealt with below in four categories.
+Assumptions 6(p) and (q)
+Pay
+p) the Appellant's rate of pay from July 1, 2003 to October 31, 2003 was $1,600.00 per month;
+q) the Appellant's rate of pay from August 1, 2004 to January 31, 2005 was $2,000.00 per month;
+[6] The Minister was of the view that such a large increase in pay in such a short time was not typical of an employee working in an arm's length situation. I am inclined to agree. The Appellant was unable to explain any reason for the increase other than a vague reference to inflation with no supporting information or statistics. Further, it is difficult to reconcile an employer's decision to grant a raise of this magnitude to an employee who, in the months just prior to the increase, had been laid off for lack of work. Accordingly, I am unable to find any evidentiary basis for disturbing the Minister's conclusions in this regard.
+Assumptions 6(t) to (x):
+Pay
+t) the Appellant loaned the Payor $10,000.00 on August 1, 2002;
+u) the Appellant loaned the Payor $10,000.00 on April 11, 2003;
+v) the Appellant loaned the Payor $20,000 on March 1, 2005;
+...
+x) the Payor alleged it repaid the money borrowed from the Appellant when it had the funds;
+[7] The gist of these assumptions is that the Appellant lent money to Unique Drywall, something to which an arm's length employee would be unlikely to agree. I am satisfied, however, that the Appellant did not, in fact, lend her own money to her employer; the funds came from a joint line of credit in her and her husband's name. Her husband took advances on the line of credit for his company and Unique Drywall repaid them by cheque often made payable to the Appellant. I accept the Appellant's explanation that this method was used to assist in the company's records keeping and that she did not personally lend money to Unique Drywall.
+Assumptions 6(z) and (aa):
+Hours
+z) the Appellant dropped off her children at school at 8:00 a.m. and picked them up from school at 3:15 p.m. Monday to Friday;
+Outside the Period
+aa) the Appellant used the Payor's truck as the family vehicle during periods when she was not employed by the Payor;
+[8] These assumptions have to do with the Appellant's having picked up and dropped off her children at school, sometimes using the company truck to do so. Having heard the Appellant's evidence of how infrequently this occurred and given the availability of members of her extended family to help with this task and the realities of running a small family business, I am satisfied that the Minister did not have all of the relevant facts before him in respect of this aspect of his decision. Further, it is not unheard of for arm’s length employers to permit their employees sufficient flexibility to see to family-related tasks from time to time.
+Assumptions 6(bb) and (cc):
+Outside the Period
+bb) the Appellant provided services to the Payor without remuneration during periods in which she was not employed by the Payor; and
+cc) the Appellant and the Payor have provided inconsistent and conflicting information at each level of review.
+[9] These assumptions are the most problematic for the Appellant. The Respondent called Mr. Ken Miller, the rulings officer and Ms. Amelia Lo, the appeals officer on the Appellant's case. I found them to be careful and knowledgeable witnesses. During their respective investigations of the Appellant's file, both found certain inconsistencies in the information provided by the Appellant; in particular, whether she continued to perform some of her duties during the periods when she said she was unemployed i.e., banking, delivering supplies and using the company truck and how her reported hours worked were calculated.
+[10] The Appellant addressed these issues to some degree in her examination-in-chief and was cross-examined on them. I am unable to say I was convinced by her answers. Given the extent of her involvement in the proper running of her husband's business, her inability to explain in any detail the reasons for her lay off defies common sense. Further, she admitted that she did continue to do some things for the company while unemployed; given the diligent nature of the Appellant and the fact that the company's business office was in the family home, it is unlikely that when the phone rang the Appellant did not pick it up. Taken as a whole, there is insufficient evidence to refute the Minister's assumption "that the Appellant provided services to [Unique Drywall] without remuneration during the periods in which she was not employed by [Unique Drywall]".
+[11] I am equally at a loss to understand the discrepancy between the Appellant's actual hours of work and the number of hours reported in the ROE. Although the Appellant testified that she worked roughly 8 am to 3 pm daily with some weekend work, to have accumulated the 712 hours reported on the ROE, she would have had to work, on average, 10.5 hours per day during her periods of employment. She was unable to explain the difference stating only that it was her husband who filled in the ROE. Nonetheless, I accept her evidence that she did not prepare the reporting documents and that it was her husband who took care of such things as well as setting her salary and deciding to lay her off. Although having been present for a good part of the hearing and having listened to the Appellant's answers, for reasons not known to the Court, he chose not to step forward to fill in the blanks in his wife's testimony.
+[12] In any event, although the Appellant was successful in demolishing some of the Minister's assumptions, there is overall insufficient evidence before me to conclude that the basis of the Minister's decision was wrong. For all of these reasons, the appeal is dismissed.
+Signed at Vancouver, British Columbia, this 4th day of October, 2006.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2006TCC540
+COURT FILE NO.: 2006-152(EI)
+STYLE OF CAUSE: HARPALJIT K. DHALIWAL AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: August 23, 2006
+DATE OF HEARING: Vancouver, British Columbia
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: October 4, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 5(3)(b) of the Employment Insurance Act.

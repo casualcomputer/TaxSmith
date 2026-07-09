@@ -1,0 +1,230 @@
+---
+title: "Mrkalj v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28179/index.do"
+last_modified: "2007-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 712"
+citation2: ""
+neutral_citation: "2007 TCC 712"
+decision_date: "2007-07-11"
+language: "en"
+item_id: "28179"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1960
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:56:08.182000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77b3b57affab5f664d9a728e4bac8cf090f8ea2c76deea305a63922c7d19cb66"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mrkalj v. The Queen
+
+- Citation: 2007 TCC 712
+- Decision date: 2007-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1960, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mrkalj v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-11
+Neutral citation
+2007 TCC 712
+File numbers
+2003-4555(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4555(IT)G
+BETWEEN:
+JOVO MRKALJ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals Milik Mrkalj, 2003‑4557(IT)G, on March 26 and 27, 2007, at St. Catharines, Ontario,
+and on April 12, 2007 and July 11, 2007, at Toronto, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Guy Ungaro
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1995 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant did not have unreported income from The Daily Planet Tap and Eatery in 1995, and the penalties are therefore be waived.
+The appeals from reassessments made under the Act for the 1996, 1997 and 1998 taxation years are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 23rd day of November, 2007.
+“C.H. McArthur”
+McArthur J.
+Docket: 2003-4557(IT)G
+BETWEEN:
+MILIK MRKALJ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Jovo Mrkalj, 2003-4555(IT)G, on March 26 and 27, 2007, at St. Catharines, Ontario,
+and on April 12, 2007 and July 11, 2007, at Toronto, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+Guy Ungaro
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1995 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant did not have unreported income from The Daily Planet Tap and Eatery in 1995, and the penalties are therefore be waived.
+The appeals from reassessments made under the Act for the 1996, 197 and 1998 taxation years are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 23rd day of November, 2007.
+“C.H. McArthur”
+McArthur J.
+Citation: 2007TCC712
+Date: 20071123
+Docket: 2003-4555(IT)G
+and 2003-4557(IT)G
+BETWEEN:
+JOVO MRKALJ and MILIK MRKALJ,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These appeals are from reassessments by the Minister of National Revenue for the Appellants’ 1995, 1996, 1997 and 1998 taxation years. The Notices of Appeal and Replies are identical for both Appellants and the evidence at the hearing on behalf of both was given primarily by Jovo Mrkalj (“Joe”).
+[2] The Minister reassessed the Appellants to include unreported income of $8,062 in 1995, $44,484 in 1996, $46,695 in 1997 and $16,110 in 1998 pursuant to subsection 5(1) of the Income Tax Act, together with penalties under subsection 163(2), in the amounts of $726, $5,070, $6,194 and $2,147 for the four years, respectively.
+[3] The Appellants were employees of 1083290 Ontario Limited (the “Corporation”) that owned the bar/restaurant known as “The Daily Planet Tap & Eatery” (“Planet Tap”), and they operated it. They are the sons of the former sole shareholder of the Corporation, Simo Mrkalj (“Sam”), who died in 2006. The Corporation pled guilty to criminal charges with respect to unreported sales and paid arrears of taxes, interest and a fine. Criminal charges against the Appellants were dropped, and they were reassessed as described earlier.
+[4] Prior to the opening of Planet Tap, the Appellants had claimed bankruptcy subsequent to a previous failed venture. During the years under review, Planet Tap was almost their only source of income.
+[5] It opened for business in February 1995. Sam, a seasoned restauranteur, initially did much of the paperwork and management. As time passed, Joe assumed responsibility for much of the paperwork, and Milik (“Mike”) concentrated his efforts on the bartending. Both sons worked long hours, often over 10 hours a day. Within a short period of time, they assumed all day-to-day operations and the business became very successful. The following is an extraction from an order under the Liquor License Board of Ontario, dated May 9, 1997, contained in Exhibit ”A”, Tab 144, which gives some background.
+Testimony of Joe Mrkalj
+Mr. Mrkalj stated that he is 31 years of age, a graduate of the University of Toronto and a manager in the licensed premises on behalf of his father, the owner. He stated that his father has been a licensee since 1974, currently holds two liquor licences, and he has never had any prior adverse record with the LLBO.
+He stated that he and his father order liquor and food for the premises and monitor the day-to-day operation closely. As the manager he is physically present in the premises 75 to 80 hours a week.
+The establishment opened in February 1995 after substantial renovations which took over six months to complete at a cost of over $150,000, and caters seven days a week to a college-type crowd of both the United States and Canadian patrons. He stated that he takes the responsibility of complying with the LLBO rules seriously. He conducts full-staff meetings monthly, sub-staff meetings weekly and personally addresses every new shift as it comes into the premises. He stated that all staff are instructed that no one under the age of 19 is allowed into the premises and that anyone who looks under 30 years of age is to be checked for ID. He stated that there are 24 full and part-time employees, all of whom have completed Smart Serve training, including the cooks.
+[6] The Appellants were careless with the accounting and recordkeeping and proper records of daily sales were not kept, nor did they keep track of drink specials, promotions and giveaways. There were two cash registers in Planet Tap, but summary tapes were kept only for the main cash register during the years in question. Detailed tapes which recorded each sale individually were discarded and no summary tapes or detailed tapes were kept for the second register, and the Appellants claimed that the amount from this register was totalled and then entered into the first register.
+[7] In 1997, Planet Tap was expanded to include an adjacent building, doubling its capacity. Despite the expansion and its apparent success, particularly with college aged students from the Niagara Falls area and the US, they reported only modest incomes during the years in question.[1]
+[8] Mr. Doug Bronson of the investigations division of Canada Revenue Agency, testified that the original target of the assessments was Sam Mrkalj. After the investigation was completed, the Appellants were assessed for appropriation of unreported income as employees of the Corporation and not as de facto shareholders or officers of Planet Tap, although they were in complete control of every aspect of the business during the years in issue.
+[9] I will now deal with the first issue raised by the Appellants. I believe it was their contention that their now deceased father should have been assessed rather than them. I conclude that the Appellants were the correct persons to be assessed for the years 1996, 1997 and 1998 only. Mike and in particular Joe had control in those years. During the start-up year, 1995, Sam at least shared control of the operation with his sons.
+[10] It is undisputed that the father, Sam, was the legal owner of the bar as sole shareholder of the Corporation. The Minister claims that Joe and Mike, acting as employees, took unreported cash from Planet Tap and loaned some back to the Corporation tax-free. Further, they stored some cash in the two safes above the business.
+[11] As mentioned above, the Appellants were responsible for the day-to-day operations of Planet Tap more so after 1995, which was confirmed by the testimony of several witnesses. For instance, after examination of the records of Planet Tap, Mr. Bronson concluded that Sam was a shareholder in name only and that the Appellants were in fact responsible for the financial and day-to-day operations. I agree with his conclusion particularly after 1995. The testimony of Sherry Ann Shortland, a bookkeeper for Padgett Business Services, also confirms that the sons were in charge. She took her instructions from them, and mostly from Joe. In addition, it was Joe and not Sam who signed the T2 Corporation income tax returns for the years in question. In addition, evidence given by waitresses from Planet Tap indicated that primarily, they took orders from the Appellants, and not Sam. Finally, the auditors from CRA dealt exclusively with the Appellants and not with Sam when conducting the audit of the Corporation because they held themselves out as being in complete control, if not de facto owners.
+[12] The Minister speculated that Sam agreed to be the only shareholder because the Appellants were unable to obtain a liquor license due to a previous bankruptcy and criminal charges.[2] Whether this is factual or not has no bearing on my conclusion. The Appellants were responsible for opening the bar and closing out the cash register each day and they were responsible for all the banking. They were originally charged criminally but the charges were dropped after the Corporation pled guilty. They were then personally reassessed for unreported income. They did not challenge the assertion that they had divided the proceeds of unreported income equally between them.
+[13] Mr. Bronson calculated the projected sales of Planet Tap which represents the Minister’s estimation of sales during the years in question. His evidence was impressive and it is reproduced in part as follows:
+Reconciliation with Reported Income
+The auditor’s found two cash registers present and were told no tapes were kept for the second register. Rather the amount of sales were summed and then entered into the first register. We found no evidence to confirm this sequence. Only daily and monthly summary tapes were kept for the main register, as the detail tapes for this register are also discarded.
+The Taxpayer’s Reported Income is based upon the total of monthly summary tapes which the two brothers provided to the bookkeeper at Padgett Business Services. She took the Gross Total from the summary cash register tapes, and then removed all taxes – PST and GST. The balance was allocated to Food or Liquor Sales for each month. The monthly amounts were totalled to produce the Total Sales for the year. Miscellaneous Income was derived from Sales Tax Commission and Rental Income. The combination of these amounts equal the amounts reported on the Financial Statements.
+The average selling prices used in the projections were derived from the average of the total of the Monthly Summary tapes. The Total Value of Sales were divided by the Quantity Sold for Liquor, and Bottled Beer. For Draft Beer, pitchers of beer were considered as the sale item rather than glasses, since pitchers would give a lower projection figure and keep with our conservative approach to the projections. Normal Sales prices for draft were obtained from the managers and confirmed by review o the summary tapes. The figures for ending inventory and promotion items (free drinks) were supplied to the accountant by the manager. Taxes were removed from the sales prices. We compared our costs of the purchase costs claimed in financial statements to verify that costs were not understated, that is, that the excess funds were not used to purchase inventory that was not claimed in the financial statements.
+Projections
+Beer
+To ensure accuracy, figures were gathered from several different resources. The actual Purchase Invoices held by the taxpayers were obtained by search warrant and these were totalled. This covered the period from February 1995 to January 31, 1998. Secondly, a list of total purchases by month, was obtained directly from the Head Office of Brewer’s Retail. It showed purchases beginning in January 1995. The results were then compared and reconciled to each other.
+LCBO Purchases
+The calculations are based upon seized records. The LCBOI does not keep records by clients, nor are they computerized to allow such printouts. The purchases are difficult to calculate because of the variety of purchases, i.e. coolers, and other special drinks. Variations in sizes and packages also confuse calculations. Consequently, only 26, 40 and 60 ounce bottles of liquor were calculated. That is, Wine sales and the sales of coolers and other special drinks (Mike’s Hard Lemonade) are not included in our projections because of variations in the selling prices. Thus our projections are deliberately understated, by excluding wine and other types of Liquors.
+For beer and liquor, wastage has been deliberately over estimated. Lines for draft beer were maintained on a regular basis and after the first year were not a problem (clogging, foaming).
+[14] Mr. Bronson affirmed that the primary source in the determination of beer and alcohol purchased by Planet Tap was seized invoices from the premises. In addition to the seized invoices, he used LCBO and Brewer’s Warehouse records to determine the amount of beer and liquor purchased. These purchases were multiplied by the average selling price to calculate projected sales, which were then compared to reported sales. Where invoices were missing, there was often a cancelled cheque from Planet Tap to confirm the purchase. He affirms that his projections were supported not only by the information from Brewer’s Retail, but also by data from Planet Tap itself, in the form of seized invoices, cancelled cheques and accounting records. He calculated of the average selling price for a drink (liquor) to be from $2.38 to $2.52 and beer to be from $2.12 to $2.27. Wastage, ending inventory and taxes were taken into account. His methodology was conservative. He did not include wine and coolers, slanting the projections in favour of the Appellants. In addition, the assessment was decreased by 20% subsequent to an agreement reached in the criminal case against the Corporation.
+[15] Counsel for the Appellants put forth several explanations for the discrepancy between projected and reported sales, including: free drinks were often given to customers, happy hour specials were not taken into account, the cash registers improperly input a bucket of beer as one beer and the liquor license number at the LCBO may have been used for purchases by third parties unrelated to the business. These items may have had some effect on Mr. Bronson’s projections but they were advanced in generality with no specific amounts and no corroborating evidence. I cannot guess what effect these explanations would have but find that Mr. Bronson’s calculations were fair and conservative. The Appellants were the authors of their own misfortune and they did not come close to meeting the burden of proof incumbent on them. In addition, although the Appellants stated that the calculation of the average price by Mr. Bronson was flawed, they did not give evidence as to what the average price should have been.
+[16] I find that the discrepancy between the projected and reported sales of the Corporation was misappropriated by the Appellants. These funds were reinvested in Planet Tap in the form of shareholder loans, or stored in a floor safes in the office above Planet Tap, or used to purchase the adjacent building in 1997.
+[17] In 1997, the Appellants purchased the building adjacent to Planet Tap for $88,000. The details of the purchase are confusing. A document registered as number 749730 is a land transfer from 1083278 Ontario Limited, by its president, Simo Mrkalj (Sam), to the Appellants, registered on July 7, 1998. The consideration is shown as $80,000 and the land transfer tax affidavit reflects that the purchasers (the Appellants) assumed a $57,000 mortgage and transferred securities to the value of $31,000. Monies paid in cash was entered as nil.
+[18] The oral evidence was that the property was purchased in 1997, perhaps by the Corporation, 1083278, but no registry office or other documents were submitted. In his submission, the Appellants’ lawyer does not challenge the Minister’s statement that “they bought a building in 1997, but states that the purchase price was $88,000, not $90,000 and there was a mortgage of $57,000 and $31,000 came from loans”. There was no corroborating evidence of loans. Some of the confusion could have been easily cleared by a subsearch of the title by either side. I am left to speculate. It is the Appellants who have the burden of establishing that they did not fail to report substantial income. They appeared more inclined to leave it to the Minister to prove his assumptions as one might proceed in a criminal case. I am left with the following with respect to the adjacent building:
+a) The Appellants purchased the property in 1997.
+b) The deed or transfer is from their father in July of 1998.
+c) The transfer reflects that they assumed a mortgage (charge) of $57,000 paid “nil” money in cash and transferred securities to the value of $31,000.
+d) The Appellants’ counsel quotes counsel for the Minister as saying “the Appellants bought the land in 1997 for cash.[3]
+e) The Appellant’s counsel continues to say that there was a mortgage of $57,000 and that the Appellants explained in discovery that $31,000 came from loans. No corroborating evidence was produced to substantiate any of this. The Appellants blame their father for not keeping proper books and records.[4]
+[19] Several times, in submissions, the Appellants’ counsel made reference to the inaccuracy and ineptness of Mr. Bronson’s evidence. At page 75 of the transcript, counsel stated:
+He has looked only at those items which would support his theory which has no basis. Had we had the whole picture, I suspect you may have been entitled to draw an inference of who the real owner is. But without Sam’s investigation being part of this, I respectfully submit that they are asking you to close one eye and make an improper judgment. Again, that’s part of what we said.
+I said that Mr. Bronson’s entire examination here is flawed, and we are trying to make the best of it, but those flaws can’t be cured. There’s the selective calling of witnesses.
+Mr. Bronson’s examination may have flaws and obviously he drew inferences but, he did so as a last resort. The Appellants provided no evidence which could have cured potential flaws. The Appellants’ records were inadequate and they withheld critical information from their accountants.[5]
+[20] I find, for the most part, that Mr. Bronson did the best he could with the information available to him. Where there are inconsistencies, and there are many, I accept the evidence of the Minister’s witnesses over that of the Appellants. The Appellants have not proven that the following assumptions were incorrect:
+…
+d) During the years under review Milic Mrkalj and the Appellant had no other source of income, other than working at the Business;
+…
+f) The unreported sales of the Business for the years in question was properly calculated by comparing reported sales to document any purchases;
+g) The Appellant and his brother Milic Mrkalj operated the Business at all times. They were responsible for operating the bar and closing off the cash register each day. They were also responsible for all banking including preparing bank deposits and paying expenses either in cash or by cheque;
+…
+i) For the years 1995-1997 the following contributions were made to the Shareholder Account by Milic Mrkalj and Joe Mrkalj:
+1995
+$62,367.00
+1996
+$18,490.00
+1997
+$338.00
+j) The unreported income from the Business was the source of contributions to the Shareholder Loan account by the Appellant and Milic Mrkalj;
+k) For many days, points of sales tapes were missing from the Business’ records. No sales were recorded by the Business for those days;
+l) A search of the business premises as well as the attached living quarters of Milic Mrkalj and the Appellant on April 8, 1999 found approximately $80,000.00 in a safe. Milic Mrkalj and the Appellant were the only people who had knowledge of and access to this safe;
+m) The $80,000.00 found in the safe was obtained by Milic Mrkalj and the Appellant from unreported cash taken from the Business;
+n) Milic Mrkalj and the Appellant split the proceeds of unreported income between themselves.
+[21] Although neither of the Appellants were shareholders, a liability account named “Shareholder Loan” was created to their benefit and included in the financial statements of Planet Tap. The name “Shareholder Loan” account was changed to “Accounts Payable” in 1999. Despite the fact that Sam was legally the sole shareholder, the Appellants were often referred to as shareholders, demonstrated by the fact that their loans were deposited in the “Shareholder Loan” account until the name of this account was changed in 1999.
+[22] The following contributions were made to the “Shareholder Loan” account during the years under review: $62,367 in 1995, $18,490 in 1996 and $338 in 1997. These Shareholder Loans made by the Appellants to Planet Tap was unreported income from the business. I agree with Respondent’s counsel’s submissions that included:
+(a) The Appellants had almost no assets after emerging from bankruptcy in 1994, but they were making large Shareholder loans to Planet Tap in the next few years; and
+(b) Shareholder loans are normally made by cheque, but these Shareholder loans were made in cash – in similar denominations as would be seen in the normal cash deposit from the bar.
+[23] The Appellants provided little in the way of explanation as to the source of the Shareholder Loans. They asserted that their tips were reinvested in Planet Tap (tips which are subject to tax); however, this does not explain the sizeable contributions from the Appellants to Planet Tap. They also claimed that the source of these loans may have been their father yet, they provided no proof to substantiate this claim. They argued further that the cash was from guests at Joe’s wedding in November 1998. Again, no witnesses were called to support this.
+[24] The office above Planet Tap contained two safes, one under the desk and the other under the floor boards. The Appellants were the only two people with access to the safes. Sam may have had access but the evidence is conflicting in this regard. The floor safe contained upwards of $80,000 in cash and the desk safe $21,270 in cash. For the reasons that follow, I find these amounts were unreported income.
+[25] The Appellants’ evidence as to the source of this cash was inconsistent. Initially, in examination for discovery, Joe stated that the cash in the safe was sales income from Planet Tap. The Appellants could not show where this amount was included on the financial statements of Planet Tap. However, during trial, he stated that the cash was from both the sales of Planet Tap as well as cash received from friends and family in celebration of his wedding. The Appellants called no witnesses and produced no evidence to support this claim, other than a list of purported cash gifts received. He could not explain why he would mingle cash given to him and his wife with sales income from the business which was divided equally with his brother. This defies common sense and reasonableness.
+[26] The Appellants’ counsel argued that there was no net worth assessment by the Minister, therefore, one can infer that the position of the Minister is weak. I disagree. A net worth assessment is a method of last resort. In this case, documentation such as seized invoices and LCBO rewards were available, which provided a more accurate calculation of unreported sales rather than would a net worth assessment. The Minister has demonstrated that the Appellants were responsible for operating the bar. The Minister has also relied upon data available to calculate the projected sales of Planet Tap during the years under review, which were superior to reported sales. In addition, the Minister provided a plausible explanation for the discrepancy between projected and reported sales, namely, that this unreported income was the source of the “Shareholder Loans” as well as the cash found in the safes. The onus to refute these assumptions rests upon the Appellants. Apart from viva voce evidence provided by Joe, no evidence was advanced by the Appellants. Mike’s testimony was of little assistance. He is a self-admitted, recovering drug addict and remembered very little from the time in question.
+[27] That the burden is upon the Appellants to refute the Minister’s assumptions is well established as stated in Voitures Orly Inc./Orly Automobiles Inc. v. R.:[6]
+To sum up, we see no merit in the submissions of the appellant that it no longer had the burden of disproving the assumptions made by the Minister. We want to firmly and strongly reassert the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted. There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see Anderson Logging Co. v. British Columbia, [1925] S.C.R. 45, Pollock v. Canada (Minister of National Revenue) (1993), 161 N.R. 232 (F.C.A.), Vacation Villas of Collingwood Inc. v. Canada (1996) 133 D.L.R. (4th) 374 (F.C.A.), Anchor Pointe Energy Ltd. v. Canada, [2003] F.C.J. No. 1045, 2003 FCA 294. It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self-reporting system. Any shifting of the taxpayer's burden to provide and to report information that he knows or controls can compromise the integrity, enforceability and, therefore, the credibility of the system. That being said, we recognize that there are instances where the shifting of the burden may be warranted. This is simply not one of those cases.
+[28] The unreported income of Planet Tap was loaned back to Planet Tap by the Appellants, stored in the safes above Planet Tap and used to purchase the adjacent building, all to the benefit of the Appellants. Obviously it should have been included in their taxable incomes pursuant to subsection 6(1) of the Act, but for the 1995 taxation year when it is plausible that their father exercised some control over the business.
+Penalties
+[29] Both Appellants have been assessed penalties pursuant to subsection 163(2) of the Act. I find for the reasons stated previously, that they knowingly, or under circumstances amounting to gross negligence, made or participated in the making of a false statement or omission in their 1996, 1997 and 1998 income tax returns.
+[30] With respect to the burden of proof for penalties assessed under subsection 163(2) of the Act, it is incumbent upon the Minister to demonstrate that the Appellants knowingly, or under circumstances amounting to gross negligence, made or participated in the making of false statements or omissions in their 1996, 1997 and 1998 income tax returns.
+[31] In Farm Business Consultants Inc. v. R.,[7] Bowman J. discussed the principles which should be applied in penalty cases:
+A Court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer’s conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced.
+Had I been able to construe the statute, or to view the evidence, in a manner that permitted me to give the appellant the benefit of the doubt I would have done so. That course of action is not open to me. The appellant’s depiction of the legal relationship between it and Agricultural as that of a consulting arrangement went beyond simple negligence.
+[32] In addition, in DeCosta v. R.,[8] Bowman J. went on to summarize the factors as follows:
+In drawing the line between “ordinary” negligence or neglect and “gross” negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[33] The overall picture that emerges in these appeals is clear. The conduct of the Appellants went beyond simple negligence. The Appellants deliberately and repeatedly failed to properly account for sales in order to make false statements in their 1996, 1997 and 1998 income tax returns. Such actions are far more egregious than simple negligence.
+[34] The appeals are allowed for the 1995 taxation year only. The appeals for the 1996, 1997 and 1998 taxation years are dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 23rd day of November, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC712
+COURT FILE NOS.: 2003-4555(IT)G and 2003-4557(IT)G
+STYLES OF CAUSE: JOVO MRKALJ AND MILIK MRKALJ and HER MAJESTY THE QUEEN
+PLACES OF HEARING: St. Catharines, Ontario and Toronto, Ontario
+DATES OF HEARING: March 26 and 27, 2007, April 12, 2007 and July 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 23, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Guy Ungaro
+Counsel for the Respondent:
+Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Guy Ungaro
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reference is made to Exhibit A-2, Tabs 154 to 163 and, in particular, electronic printouts of the Appellants’ tax returns under Tabs 155 to 161 inclusive.
+[2] Criminal charges were laid against Mike following a shooting incident prior to 1995.
+[3] Page 49 of the transcript.
+[4] Pages 66 and 67 of transcript.
+[5] It is disappointing that the Appellants’ accountant did not appear to have taken any corrective role in preparing the Appellants’ statements.
+[6] 2005 FCA 425, G.T.C. 115 (Eng.)(F.C.A.), at paragraph 20.
+[7] 95 DTC 200 (T.C.C.), affirmed 96 DTC 6085 (FCA).
+[8] 2005 DTC 1436 (TCC).

@@ -1,0 +1,187 @@
+---
+title: "Endres v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25973/index.do"
+last_modified: "2004-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 155"
+citation2: ""
+neutral_citation: "2004 TCC 155"
+decision_date: "2004-03-19"
+language: "en"
+item_id: "25973"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3771
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:40:54.839000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0a8bdf2b04b2e9e53b4b9bab00daa658fc2e4e9bd71d70f4b34a15d34bd18648"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Endres v. M.N.R.
+
+- Citation: 2004 TCC 155
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3771, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Endres v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-19
+Neutral citation
+2004 TCC 155
+File numbers
+2003-2632(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2632(EI)
+BETWEEN:
+WALTER ENDRES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MELISSA RUDDY,
+Intervenor.
+____________________________________________________________________
+Appeal heard together with the appeal of Walter Endres
+(2003-2633(CPP)) on February 4, 2004 at North Bay, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+For the Intervenor:
+Nicolas Simard
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a decision by the Minister of National Revenue under the Employment Insurance Act, that Melissa Ruddy was employed in insurable employment while engaged by the Appellant from April 1, 2001 to June 30, 2002, is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada this 19th day of March, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Docket: 2003-2633(CPP)
+BETWEEN:
+WALTER ENDRES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MELISSA RUDDY,
+Intervenor.
+____________________________________________________________________
+Appeal heard together with the appeal of Walter Endres
+(2003-2632(EI)) on February 4, 2004 at North Bay, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+For the Intervenor:
+Nicolas Simard
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of a decision by the Minister of National Revenue under the Canada Pension Plan, that Melissa Ruddy was employed in pensionable employment while engaged by the Appellant from April 1, 2001 to June 30, 2002, is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada this 19th day of March, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2004TCC155
+Date: 20040319
+Docket: 2003-2632(EI)
+2003-2633(CPP)
+BETWEEN:
+WALTER ENDRES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MELISSA RUDDY,
+Intervenor.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Walter Endres appeals decisions of the Minister of National Revenue under the Canada Pension Plan and Employment Insurance Act that Melissa Ruddy was employed by him while working at his Shell gas station and convenience store from April 1, 2001 to June 30, 2002.
+[2] Ms. Ruddy and her fiancé, Robbie Godden, worked at Mr. Endres' gas station and convenience store for approximately one year as part of an arrangement designed to assist the couple in saving money to buy the business. Mr. Endres was retiring from the business for personal reasons and either had to find a buyer or shut the business down.
+[3] An agreement was entered into whereby Ms. Ruddy and her fiancé would "operate" the gas station and convenience store and then purchase the business when they had saved sufficient funds to pay one-half of the purchase price. Ms. Ruddy referred to the agreement as an option because it could be cancelled by either party on short notice. While operating the business before the purchase, the couple were each to be paid a monthly fee plus a commission, which was similar to remuneration that Mr. Endres previously paid to employees. To assist with raising the necessary funds for the purchase, the couple were provided with rent free accommodation on site and they were required to deposit their savings in a bank account controlled by Mr. Endres. After about a year, the couple decided against the purchase and cancelled the agreement pursuant to its terms. These appeals concern Ms. Ruddy's status while working at the gas station during the year that the agreement was in force.
+[4] It is not apparent from the record what prompted the Minister to consider Ms. Ruddy's status under the Employment Insurance Act and Canada Pension Plan but in any event the Minister determined that Ms. Ruddy was employed by Mr. Endres. Mr. Endres appeals these decisions.
+[5] The appeals were heard together under common evidence. Mr. Endres testified on his own behalf and Ms. Ruddy was called as a witness for the Crown.
+General Principles
+[6] There are no bright line tests for determining whether a person is an employee or independent contractor and each case is determined on its own particular facts. The general principles to be applied are described by Major J. in the leading case, Sagaz Industries Canada Inc. v. 671122 Ontario Limited, [2001] 2 S.C.R. 983:
+[47] … The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[48] It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[7] The issue in this case is whether Ms. Ruddy was carrying on business on her own account. Some of the testimony at the hearing focussed on whether or not Mr. Endres continued as the owner of the gas station during the term of the agreement. The implication from this line of questioning seemed to be that Ms. Ruddy could not carry on a separate business unless she and her fiancé owned the gas station. This is not the case and whether Mr. Endres continued to own the gas station while Ms. Ruddy and her fiancé were the operators is not determinative of these appeals. The proper question is whether Ms. Ruddy acted with her fiancé as an independent operator or manager of the gas station which clearly was owned by Mr. Endres during the relevant period. The evidence in my view clearly establishes that she did carry on her own business.
+Control Factor
+[8] The most important factor in this particular case is the degree of control that Mr. Endres could exercise over Ms. Ruddy. It is undisputed that Ms. Ruddy and her fiancé "controlled the day to day operations" (Reply, paragraph 11(j)).
+[9] The case for the Crown depends mainly on various incidents of "control" being exercised by Mr. Endres. The Crown submits that these incidents establish that Ms. Ruddy was in a subordinate relationship. I disagree with this conclusion. Mr. Endres did at times intervene in the conduct of the business but generally the couple operated the business independently. There was very little supervision of Ms. Ruddy's work. Mr. Endres came to the gas station only to collect the cash every day or few days, except when he volunteered his time on Sunday mornings to give the couple a break. Ms. Ruddy and her fiancé could hire employees, and at times they arranged for others to work in the gas station although these were special arrangements and the workers were never paid in cash. On the couple's own initiative, they changed the layout and shelving in the convenience store, albeit with Mr. Endres' consent. The evidence as a whole tends to show that Ms. Ruddy and her fiancé were in control of the operation, subject to oversight by the owner.
+[10] Counsel for the Crown submits that Mr. Endres continued to make the major decisions for the business. For example, Mr. Endres was asked during cross examination whether Ms. Ruddy and her fiancé had the right to change gas prices. Mr. Endres admitted that he had to be consulted on a decision of this nature. I agree that Mr. Endres did reserve important decisions to himself but in my view the reservation of important decisions by a business owner does not equate to control of the worker.
+[11] The Crown refers as well to other incidents of "control." Sometimes the "control" was exercised to ensure compliance with Mr. Endres' contract with Shell Canada. For example, Mr. Endres objected when a friend of Ms. Ruddy worked at the gas pump without wearing the required Shell uniform. In other instances, the intervention was necessary to ensure that the work was performed properly. For example, Mr. Endres provided "instruction" to Ms. Ruddy as to how to properly clean the floor of the convenience store and wipe windshields at the gas pump. Mr. Endres also objected to the couple's purchase of hunting vests as new item for sale in the convenience store and he required that the couple bear the cost of this merchandise.
+[12] Mr. Endres testified that, aside from the hunting vest incident, he did not give orders as to how to do things but merely gave suggestions for assistance. He indicated that in his judgment the inexperienced couple should have sought more assistance from him than they did. Ms. Ruddy on the other hand understandably considered that she should comply with Mr. Endres' "suggestions" because he still owned the business.
+[13] Regardless of whether these incidents were suggestions or orders I find that they generally deal with issues of quality control and do not establish that Ms. Ruddy's work could generally be dictated by Mr. Endres. Controlling the quality of work is not inconsistent with an independent contractor relationship. In this regard, Décary J. A. in Canada v. Carbonneau, (1996) 207 N.R. 299 (F.C.A.) stated:
+It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[14] Overall, I find that the evidence supports Mr. Endres' testimony that Ms. Ruddy and her fiancé were generally free to operate the gas station and convenience store in any manner they saw fit. I find that Mr. Endres did not generally have the right to dictate what work Ms. Ruddy was to perform and how it was to be done.
+Other Factors
+[15] As for the other factors referred to in Sagaz Industries, opportunity of profit, risk of loss and ownership of tools, I find that none of these factors are significant in this case. Even if they were significant, I find that they are consistent with an independent contractor relationship. Ms. Ruddy had some opportunity for profit. Under the agreement she was paid a flat monthly fee plus a commission. As for risk of loss, Ms. Ruddy and her fiancé did sustain a loss from the hunting vest incident although the loss was mitigated by their being able to exchange the goods for items for their personal use. As for ownership of tools, the couple showed some responsibility for equipment in changing the layout and installing some new shelving in the convenience store. None of these factors are in my view of great significance but they support the finding that Ms. Ruddy was not an employee.
+Intention
+[16] In addition to the traditional factors that courts have looked at in determining whether there is an employment relationship, recent Federal Court of Appeal decisions have also considered the intention of the parties. In Wolf v. R., [2002] 3 C.T.C. 3 (F.C.A.) Mr. Justice Noel stated:
+… the manner in which the parties viewed their agreement must prevail unless they can be shown to have been mistaken as to the true nature of the relationship …
+[17] Neither party referred to these authorities in argument but the evidence on the intention of the parties in this case is consistent with an independent contractor relationship. There is no reference to an employment relationship in the agreement and no source deductions were made by Mr. Endres, an experienced businessman familiar with paying remuneration to employees. The cheques issued to the couple referred to their pay as a "management fee," not salary or wages. As for how Ms. Ruddy viewed the relationship, the initiative that she and her fiancé showed in operating the business clearly shows that she did not view the relationship as one in which Mr. Endres would dictate the terms of her work.
+[18] For these reasons, I find that Ms. Ruddy was not engaged in insurable or pensionable employment during the relevant period. The appeals are allowed.
+Signed at Ottawa, Canada this 19th day of March, 2004.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2004TCC155
+COURT FILE NO.:
+2003-2632(EI) and 2003-2633(CPP)
+STYLE OF CAUSE:
+Walter Endres v. M.N.R.
+PLACE OF HEARING:
+North Bay, Ontario
+DATE OF HEARING:
+February 4, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+March 19, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nicolas Simard
+For the Intervenor: The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

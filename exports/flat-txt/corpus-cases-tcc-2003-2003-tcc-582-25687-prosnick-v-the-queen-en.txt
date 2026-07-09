@@ -1,0 +1,134 @@
+Title: Prosnick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25687/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-582-25687-prosnick-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-09-22
+
+# Prosnick v. The Queen
+
+- Citation: 2003 TCC 582
+- Decision date: 2003-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3845, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prosnick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-22
+Neutral citation
+2003 TCC 582
+File numbers
+2002-2971(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2971(IT)I
+BETWEEN:
+JOHN A. PROSNICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 6, 2003, at Montréal, Québec
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1996 and 2000 taxation years are dismissed.
+Signed at Ottawa, Canada, this 22nd day of September, 2003.
+"C.H. McArthur"
+McArthur J.
+Citation: 2003TCC582
+Date: 20030922
+Docket: 2002-2971(IT)I
+BETWEEN:
+JOHN A. PROSNICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] These are appeals from assessments for two taxation years, 1996 and 2000. The issue is whether certain corporate advances made to the Appellant, the controlling mind, are earned income under subsection 146(1) of the Income Tax Act or shareholder benefits under subsection 15(1) of the Act. It becomes important for the Appellant in the determination of the amount of Registered Retirement Savings Plan premiums deductible under subsection 146(5). "Earned income" is defined in subsection 146(1) as income from an office or employment.
+[2] The facts include the following. The Appellant is a professional engineer. He held a substantial interest in two businesses, J.A. Prosnick & Associates Inc. and Paul Davis Systems of the West Island of Montreal Inc. The two corporations were audited for the taxation years 1992, 1993 and 1994.
+[3] As a result of the audits, the Minister of National Revenue added to the Appellant's income $10,382 in 1992, $5,001 in 1993 and $5,600 in 1994 pursuant to subsection 15(1) which deals with a personal benefit conferred on a shareholder. The Appellant did not object to the Minister's reassessments and paid the resulting tax.
+[4] The question boils down to what was the nature of the income. Was it earned income as submitted by the Appellant?
+[5] For the years 1992, 1993 and 1994, the Appellant declared a total personal income of under $8,000 per year. I presume this modest amount triggered the audits. As stated the Minister added an approximate total of $21,000 to the Appellant's income for the three years. This was assessed as a subsection 15(1) shareholder benefit which the Appellant did not contest and he paid the resulting tax forthwith. Almost three years later, he realized that he could benefit if the payments were classified as earned income and not shareholder benefits and he commenced these appeals.
+[6] The Minister's auditor demonstrated that the amounts in question were personal expenses made by the corporations to pay for such things as cigarettes, cable TV, home phone account, taxes, his wife's car and similar expenses. The amounts for these expenses were paid to the Appellant by the corporations to pay his personal expenses, or paid directly. They were declared as expenses of carrying on business by the corporations and not declared as income by the Appellant until discovered in the Minister's audit.
+[7] I have no difficulty in concluding these expenses were of a personal nature and the Minister correctly characterized them as shareholder's benefits under subsection 15(1). The Appellant presented no evidence to the contrary.
+[8] The Appellant argued that the amounts were earned income and not dividends . It is clear that they were not received by the Appellant on account of dividends. Both dividends and shareholder benefits are included in a taxpayer's income as business income pursuant to paragraph 12(1)(j) and subsection 15(1).
+[9] The question before us is whether the shareholder benefits are excluded from the definition of "earned income" under subsection 146(1).
+[10] The two most relevant cases referred to me are Goldstein v. Canada[1] and De Giorgio v. Canada.[2] In Goldstein, Bowman J. was faced with the same issue. He stated at paragraph 2:
+The difference between the Minister and the appellant lies in the computation of the appellant's "earned income". Earned income, as defined in paragraph 146(1)(c), is a factor in the formula used in calculating the taxpayer's "RRSP deduction limit" as defined in paragraph 146(1)(g.1), which in turn is a component in the determination of the amount of RRSP premiums deductible under subsection 146(5). If the taxpayer's earned income is reduced this may reduce the amount of RRSP contributions that are deductible.
+Following a detailed analysis of the definition of "earned income" with respect to partnerships (which does not concern us here), Bowman J. stated at paragraph 18:
+This interpretation fits more precisely with what appears to me to be the scheme and object of the definition of "earned income" in section 146. The purpose of that definition appears to be to exclude from it certain types of passive income such as interest and dividends, but not rental income which may also be passive.
+Although instructive insofar as to the object of the definition is concerned, it does not answer whether "earned income" excludes shareholder benefits. O'Connor J. of this Court in De Giorgio, considered this question at paragraphs 9 to 12:
+9 The amount of $169,500 was taxed as income of some sort. It was not taxed as a dividend. Counsel for the Minister however contends that the $169,500 should be considered as a shareholder benefit or appropriation as opposed to earned income.
+10 After some consideration I am satisfied that the $169,500 reported by the Appellant in 1990 as income from R.E.D.G. qualifies as earned income as defined in paragraph 146(1)(c) of the Act. The Appellant held the office of president and was sole director and sole shareholder. Appellant's counsel acknowledged that the amount in question is large but the Appellant was the president of R.E.D.G., which is certainly an office. Given his relationship with R.E.D.G. he was entitled to have R.E.D.G. pay him any amount and to categorize the receipt as income from an office. The amount paid may relate, as testified, to the profitability of the business but that, in my opinion, does not necessarily characterize it as a shareholder benefit.
+11 Revenue Canada assessed tax on the said amount of $169,500 and I am of the opinion that the Appellant was entitled to claim it as earned income thus justifying the RRSP premium deductions which he claimed in the 1990 and 1991 taxation years.
+12 Consequently, on this issue the appeals succeed.
+[11] Counsel for the Minister attempted to distinguish the facts in De Giorgio, from those in the current situation, specifically in that the amount in that case was "truly paid" by the company, meaning that the amounts actually changed hands. In contrast, counsel argued that the amounts in the case before the Court paid directly to the creditors or paid to the Appellant upon his presenting receipts were charged as an expense to the company. For the most part, it appears the amounts were paid by the corporations directly to the suppliers of the goods. They were personal expenses of the Appellant and never declared by him. In De Giorgio, the taxpayer included the amount in his income and it was declared as paid to him by the corporations.
+[12] The Appellant states that he was the President and employee of both corporations and, as in De Giorgio, he was entitled to have the corporations pay him any amount and to categorize the receipt as earned income from an office or employment. He cites Goldstein wherein the Minister took a different position on assessing, after having previously confirmed that its understanding of "earned income" in section 146 was to exclude losses from a limited partnership that owned rental properties. He adds that in Goldstein, the taxpayer did not originally report the partnership losses as "earned income" and the court was in no way influenced by these circumstances in coming to its decision in that authority.
+[13] He continues in paragraphs 36 and 39:[3]
+36. The two circumstances or differences cited by the representative of the Respondent were:
+a) That the Appellant had not originally reported the income which was subsequently added by the Minister pursuant to an audit of three corporations and two individual taxpayers and Notices of Reassessment issued by the Minister more than five years after the original filing date for taxation year 1992; and
+b) That the funds related to the acquisition of the goods and services characterized by the Minister as personal expenses were never paid by the company to the Appellant; but were always paid by the Company directly to the supplier of the goods and services;
+38. In response to 36 b), the Appellant respectfully directs the court to the testimony of the witness Mme Foucault who provided evidence regarding the nature of the goods and services characterized by the Minister as personal expenses. The Appellant submits that the testimony of Mme Foucault does not support the affirmation made by the representative of the Respondent. On the contrary, the Appellant submits that the testimony of Mme Foucault reasonably leads the court to infer that by their very nature the type of goods and services acquired demonstrate a modality of cash disbursement from two companies to the Appellant for which the Appellant provided receipts or vouchers so that these transactions could be recorded into the financial records of the two companies.
+[14] I find no merit in this final submission (paragraph 38) and no such inference is drawn. The expenses were personal benefits to the Appellant and not legitimate business expenses of the corporations.
+[15] In attempting to clarify this discrepancy, the Respondent cited a decision of Bell J. of this Court in Ballegeer v. Canada[4] who concluded at paragraph 17:
+Accordingly, the sums aforesaid were properly disallowed as deductions to Ltd. and the remaining sums aforesaid were properly included in the income of Arthur and Linda pursuant to the provisions of subsection 15(1) which states that the amount or value of a benefit conferred on a shareholder of a corporation shall be included in computing the income of that shareholder ...
+Ballegeer, and cases like it, however, do not assist us in determining whether shareholder benefits fall into "earned income", as it merely suggests that shareholder benefits are to be included in the income of the taxpayer for the year. Income includes both earned income as well as passive income.
+[16] In Chopp v. The Queen,[5] Mogan J. stated the following which applies equally to the present appeal:
+The relationship between a corporation and those individuals who work in the operation of the corporation's business is one of employer/employee. That employment relationship is, of course, incidental to and connected with the corporation's business. If a shareholder is also an employee of the corporation and receives a benefit in his capacity as employee, the value of that benefit would be taxed under paragraph 6(1)(a) of the Act. A corporation is ordinarily permitted to deduct as a business expense the cost of a benefit received or enjoyed by an employee qua employee. A corporation, however, is not permitted to deduct any amount with respect to a benefit conferred on a shareholder qua shareholder because the corporate/shareholder relationship is not incidental to the corporation's business. A shareholder benefit is more like a dividend and less like a business expense. Therefore, a benefit taxed under subsection 15(1) will usually result in some form of double taxation because the shareholder will be taxed on an amount which has not been deducted in computing the income of the corporation. In appropriate circumstances, this will be a harsh but necessary result.
+[17] I find as a fact that the Appellant's corporations conferred benefits on the Appellant shareholder qua shareholder. These benefits were not incidental to the corporations' business. The position that the benefits are earned income was an afterthought of the Appellant, years after the fact when it was too late.
+[18] The appeals are dismissed.
+Signed at Ottawa, Canada, this 22nd day of September, 2003.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2003TCC582
+COURT FILE NO.:
+2002-2971(IT)I
+STYLE OF CAUSE:
+John A. Prosnick and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+May 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+September 22, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1995] T.C.J. No. 170.
+[2] [1996] T.C.J. No. 10.
+[3] Page 11 of the Appellant's written submissions.
+[4] [2001] T.C.J. No. 412.
+[5] 95 DTC 527 at page 530.

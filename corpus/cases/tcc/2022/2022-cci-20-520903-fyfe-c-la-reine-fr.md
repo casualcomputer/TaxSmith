@@ -1,0 +1,261 @@
+---
+title: "Fyfe c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520903/index.do"
+last_modified: "2022-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 20"
+citation2: ""
+neutral_citation: "2022 CCI 20"
+decision_date: "2022-02-16"
+language: "fr"
+item_id: "520903"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4439
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:09:23.868000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b7920540fb55d4e555e3fc826de5ae9ee87581eced59f164b36e535d0c0781c9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fyfe c. La Reine
+
+- Citation: 2022 CCI 20
+- Decision date: 2022-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4439, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fyfe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-02-16
+Référence neutre
+2022 CCI 20
+Numéro de dossier
+2020-1441(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-1441(IT)I
+ENTRE :
+SERGE FYFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 24 novembre 2021, à Montréal (Québec)
+Devant : L'honorable Rommel G. Masse, juge suppléant
+Comparutions :
+Représentant de l’appelant :
+Sylvain Huet
+Avocat de l'intimée :
+Me Anna Kirk
+JUGEMENT
+L’appel des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu, L.R.C. (1985) c.1 (5e Suppl.), pour les années d’imposition 2015, 2016 et 2017 est accueilli et la question est déférée au ministre du Revenu national pour nouvelle cotisation compte tenu du fait que l’appelant exploitait une entreprise durant les années d’imposition en sorte qu’il avait droit aux prestations fiscales pour le revenu de travail (la « PFRT ») en vertu de l’article 122.7 de la Loi.
+Signé à Kingston, Canada, ce 16e jour de février 2022.
+« Rommel G. Masse »
+juge suppléant Masse
+Référence : 2022 CCI 20
+Date :20220216
+Dossier : 2020-1441(IT)I
+ENTRE :
+SERGE FYFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] La seule question dans cette affaire est à savoir si l’appelant, M. Serge Fyfe, avait droit à la Prestation fiscale pour le revenu de travail (la « PFRT ») pour les années d’imposition 2015, 2016 et 2017. La PFRT est seulement accessible aux contribuables que dans la mesure ou un certain niveau de revenus d’emploi ou d’entreprise est gagné par un contribuable.
+[2] Le ministre du Revenu national (ci-après, le « ministre ») a établi des cotisations initiales à l’appelant en date du 10 mars 2016, le 12 juin 2017 et le 23 juillet 2018 pour les années d’imposition 2015, 2016 et 2017 respectivement.
+[3] Le 28 février 2019, le ministre a établi de nouvelles cotisations afin d’apporter certains redressements aux déclarations de revenus. Le résultat des nouvelles cotisations est de refuser à l’appelant la PFRT qu’il avait réclamée pour les années d’imposition.
+[4] Le 9 mai 2019, l’appelant s’est opposé aux nouvelles cotisations. En réponse à l’opposition, le ministre a confirmé les nouvelles cotisations par Avis de confirmation datée du 12 février 2020. Donc, le présent appel.
+[5] Le tableau suivant indique les redressements effectués par les nouvelles cotisations.
+2015
+2016
+2017
+Déclaré
+$
+Révisé
+$
+Déclaré
+$
+Révisé
+$
+Déclaré
+$
+Révisé
+$
+Revenus d’entreprise bruts
+13 200
+0
+10 350
+0
+10 500
+0
+Revenus d’entreprise nets
+11 406
+0
+10 350
+0
+10 500
+0
+Autres revenus
+0
+13 200
+0
+10 350
+0
+10 500
+Déduction au Régime des Rentes du Québec pour travailleur autonome
+415
+0
+383
+0
+378
+0
+Montant donnant droit au crédit pour cotisation au Régime des Rentes du Québec pour travailleur autonome
+415
+0
+383
+0
+378
+0
+« PFRT »
+1 634
+0
+1 653
+0
+1 661
+0
+[6] La raison invoquée par le ministre pour refuser à l’appelant la PFRT est que les revenus gagnés par l’appelant ne proviennent pas des services liés à l’exploitation d’une entreprise puisque l’appelant n’exploitait pas activement une entreprise et n’a gagné aucun revenu de travail donnant droit à la PFRT, et ce, conformément au paragraphe 122.7 (1) de la Loi sur le revenu, L.R.C. (1985) c. 1 (5e Suppl.) tel que modifié (la « Loi »).
+Contexte factuel
+[7] L’appelant a témoigné. À mon avis, il est un homme honnête et crédible. Je le crois et j’accepte son témoignage comme véridique. Ce que je retiens de son témoignage est le suivant.
+[8] Serge Fyfe, est aujourd’hui résident de la province de L’Île-du-Prince-Édouard. Il habite une roulotte avec sa conjointe, Karen Watts. Le couple vit très modestement. L’appelant exploite une entreprise de construction. Aujourd’hui, son entreprise est de petite échelle, mais son chiffre d’affaires s’accroît de plus en plus d’une année à l’autre.
+[9] Il est un homme doué d’un esprit indépendant. Durant sa vie, il a exercé plusieurs métiers. Il était déjà chanteur de bar à Montréal. Il a travaillé dans l’informatique. Il a travaillé dans la construction et la rénovation. Il a acquis des maisons pour les rénover et les « flipper ». Durant les années d’imposition, il exploitait une petite entreprise d’entretien et de rénovation.
+[10] Il connaît M. Sylvain Huet depuis son enfance. Ils sont de très grands amis. M. Huet est fiscaliste. Il est aussi le représentant de l’appelant dans la présente affaire. C’est M. Huet qui a préparé les déclarations de revenus ici en litige. M. Huet est propriétaire de plusieurs immeubles. Quand M. Huet avait acheté son premier immeuble de six logements, M. Huet a demandé à l’appelant son aide afin d’entretenir et rénover l’immeuble. L’appelant a accepté. Aujourd’hui, M. Huet est propriétaire de plusieurs immeubles.
+[11] M. Huet était le seul client de l’appelant pendant 2015 et 2016. L’appelant a continué à travailler pour M. Huet pendant 2017, mais il avait aussi d’autres clients, car il avait déménagé à l’Île-du-Prince-Édouard avec sa conjointe pour y établir une petite entreprise de construction et rénovation.
+[12] L’appelant était un « homme à tout faire » pour M. Huet. Il a effectué toute sorte de travaux dans les immeubles de M. Huet, lesquels comprenaient la rénovation des salles de bain, l’installation de planchers, la réparation de dommages d’inondation, la plomberie, l’électricité, la construction de galeries ou de balcons — tout ce qui a trait à la rénovation ou l’entretien. Il s’agissait de toute sorte de petites « jobines ». Il se faisait payer par la « job ». Il avoue ne pas avoir une carte de construction ou numéro de licence quoiqu’il œuvre dans le domaine de construction. Il était d’avis qu’il ne gagnât pas assez de revenus pour avoir besoin de carte ou de licence d’entrepreneur.
+[13] À l’époque, l’appelant travaillait seulement l’été afin de gagner suffisamment d’argent pour lui permettre de passer l’hiver en voilier aux Bahamas. L’été, il vivait chez sa copine et l’hiver il vivait sur son voilier. Il n’avait pas besoin beaucoup d’argent, car il n’avait personne à charge. Il n’avait que très peu de dépenses personnelles. Un revenu modeste était suffisant pour supporter son style de vie.
+[14] Les années en litige, il a déclaré des revenus d’entreprise de seulement 10 000 $ à 13 500 $, car il était parti 6 mois par année dans le Sud à faire du voilier. Il n’encourait pas de dépense d’entreprise, car ses clients achetaient tout le matériel de construction. L’appelant ne fournissait presque jamais de matériel de construction et s’il en fournissait, le montant était minime.
+[15] M. Huet le payait en espèce. L’appelant n’a conservé aucune documentation faisant état du revenu qu’il a gagné. Il menait seulement un petit commerce et il ne gardait pas de registre [1] . M. Huet s’occupait de la comptabilité, car M. Huet était son fiscaliste. L’appelant ne déposait pas tout son revenu dans son compte de banque, mais il affirme avoir déclaré la totalité de ses revenus à l’Agence du revenu du Canada (« l’Agence »).
+[16] Tous les relevés bancaires de l’appelant pour les années d’imposition ont été produits pour l’appréciation de la Cour (pièce A-1, onglet 10, 11 et 12). Certains des dépôts inscrits aux relevés sont annotés afin d’indiquer leur provenance. Il y a plusieurs dépôts mensuels de 350 $. L’appelant et M. Huet se contredisent à l’égard de ces dépôts. L’appelant dit qu’il s’est convenu avec M. Huet à fixer un montant mensuel de 350 $ pour des travaux à être effectué, mais ceci n’a pas bien marché, car il y avait trop de rajustements. M. Huet indique que ces dépôts représentent des contributions faites par la mère de l’appelant (Suzanne Gamache) aux dépenses d’habitation, car elle habitait avec l’appelant. Sur ce point, je préfère et j’accepte le témoignage de M. Huet.
+[17] Il y a des sommes en dépôt qui ne représentent pas des revenus, mais sont plutôt des prêts de son père, de M. Huet et deux autres individus. L’appelant bâtissait sa propre maison. La Caisse Desjardins lui prêtait de l’argent pour ainsi faire, mais son père et M. Huet lui en ont prêté aussi au cas où il aurait besoin de l’argent supplémentaire avant que la Caisse lui fasse des avances de construction. Son père lui a prêté 5 000 $ et M. Huet lui a prêté 15 000 $, juste pour payer les portes et fenêtres sans que la Caisse effectue une inspection nécessaire avant de lui faire une avance [2] . Il y a un dépôt en date du 29 décembre 2015 du montant de 4 000 $ qui représente un prêt de M. Daniel Gauthier. Ce prêt lui permettait de finir son voyage d’hiver. Ce prêt n’est pas autrement documenté, car M. Gauthier est un très grand ami. Tous les prêts reçus de M. Huet, de son père Yvon Fyfe, et de M. Gauthier ont été déposés dans son compte de banque et sont annotés aux relevés bancaires. Des prêts entre membres de famille ou entre amis sont sans documentation et sans termes. L’appelant affirme avoir remboursé tous ces prêts.
+[18] Un M. Germain Noiseux lui a prêté des sommes importantes. Comme expliqué par M. Huet, ces prêts sont documentés par actes notariés et sont annotés aux relevés bancaires de l’appelant. Ces prêts ont tous été repayés lorsque l’appelant a vendu ses maisons.
+[19] L’appelant avait une maison à Sainte Martine. Il a vendu cette maison en 2016 pour environs 309 000 $. C’est son père qui s’en occupait, car l’appelant était aux Bahamas. Son père en est emménagé et a aidé l’appelant à payer l’hypothèque et l’entretien. L’appelant a construit une autre maison à Beauharnois. Quand il a vendu la maison à Sainte Martine, il a déménagé à Beauharnois avec sa mère. Il avait un véhicule qu’il fallait remplacer et M. Noiseux lui a prêté 10 000 $ pour remplacer son camion. Il avait un voilier qu’il avait acheté en 2007 et qu’il a changé pour un autre en 2017.
+[20] Il garait son voilier en Floride pour 5 mois l’été. Les dépenses annuelles pour son voilier se chiffraient à environ 5 000 $. L’hiver, il était en bateau sur la mer et ça ne lui coûtait rien à vivre. Il mangeait ce qu’il pêchait et l’achat de denrées alimentaires, comme du riz ou parfois un poulet, se faisait seulement de temps en temps. La vie sur la mer n’est pas dispendieuse. Ça ne lui coûte pas plus que 500 $ pour se nourrir tout l’hiver et peut-être 200 $ à 300 $ de pétrole à diesel pour la saison. De vivre sur son voilier dans le Sud, c’est pour lui la plus belle vie possible ; c’est le paradis sur terre.
+[21] Il ne se rappelle pas des dépôts qui sont annotés « inconnu » donc, lui et M. Huet ont conclu que ces dépôts représentent des revenus.
+[22] M. Sylvain Huet a témoigné. Il est fiscaliste de profession. C’est M. Huet qui a préparé les déclarations de revenus pour l’appelant. Il était aussi le client principal de l’appelant, sinon le client exclusif durant les années d’imposition. Il connaît très bien la situation fiscale de l’appelant. Il a témoigné indiquant que l’appelant vit sur un revenu extrêmement modeste.
+[23] M. Huet a obtenu tous les relevés de compte bancaire de l’appelant pour les années d’imposition (Pièce A-1, onglets 10, 11 et 12). Bien qu’il y ait eu des dépôts substantiels dans ce compte de banque, ces dépôts ne représentent pas des revenus imposables. M. Huet a dressé une liste de dépôts indiquant le montant, la date et la justification annotée à côté (pièce A-1, onglet 1). Par exemple, le 26 janvier 2015, on voit un dépôt de 10 931,93 $ avec l’annotation « multi projets ». Ceci représente une augmentation du prêt hypothécaire de la Caisse pour la construction de la maison de l’appelant. Cette augmentation est reflétée à la troisième page du relevé de compte sous la rubrique de « prêt hypothécaire résidentiel ». Donc, il s’agit d’un prêt et non un revenu de travail. M. Huet a aussi identifié des dépôts qui représentent des prêts qu’il aurait faits lui-même à l’appelant. Ces prêts ont été faits en argent comptant sans documentation. Il y a d’autres prêts qu’il a déposés lui-même dans le compte de banque de M. Fyfe, car Fyfe était au Sud. Ces 4 bordereaux de dépôts se trouvent à l’onglet 2. Il a identifié des prêts faits par Yvon Fyfe, le père de l’appelant, un prêt de Daniel Gauthier, un ami (4 000 $ en date du 29 décembre 2015), des prêts hypothécaires de Germain Noiseux du montant de 60 000 $ et 50 000 $ (voir actes notariés à l’onglet 3 et 5 et les dépôts de 55 731,14 $ en date du 24 février 2016 et de 39 265,57 $ en date du 29 septembre 2016). Il a aussi identifié deux dépôts de 67 155,55 $ et de 165 666,13 $ en date du 3 mai 2016 qui représentent les produits de la vente de la résidence à Sainte Martine (voir Acte notarié, Mémoire des répartitions et État des recettes et débours à l’onglet 6) ; un dépôt qui représente la vente de son voilier le 23 mai 2017 pour 22 900 $ (voir contrat de vente à l’onglet 7) ; et la vente de remorque pour 4 700 $ en date du 4 janvier 2017. M. Huet a aussi noté des retraits en date du 26 février 2016 de 13 000 $, et 16 000 $, en argent comptant comme remboursements des prêts faits par M. Huet à l’appelant, et un retrait en date du 29 décembre 2015 de la somme de 4 000 $ comme remboursement d’un prêt fait par M. Gauthier à l’appelant.
+[24] Comme j’ai déjà indiqué, M. Huet s’occupait de la comptabilité pour l’appelant. Quand il payait l’appelant, il lui payait en argent comptant. M. Huet marquait les travaux ou les montants payés à l’appelant sur un petit calendrier et à la fin de l’année, il en faisait la comptabilité. La date des dépôts indiquée aux relevés de compte ne reflète pas nécessairement la date quand le travail a été effectué. Quand l’appelant a vendu sa maison, il a remboursé tout le monde à qui il devait de l’argent. Aujourd’hui, il n’a pas de documents faisant état des paiements qu’il a faits à l’appelant. Cependant, il nous dit que durant une vérification effectuée par l’Agence à son égard, toutes les dépenses lui ont été accordées y compris les paiements faits à l’appelant. Compte tenu du fait que l’appelant est son meilleur ami, il a manqué de rigueur avec sa documentation. Les montants qui sont annotés « inconnu » sur les relevés bancaires représentent des sommes dont les sources sont inconnues ; donc, il a déduit que ces dépôts représentent le revenu d’un contrat de travail. Même si les dépôts ont été faits alors que l’appelant était à l’extérieur du pays, ils représentent des ajouts aux revenus.
+[25] En résumé l’appelant était « l’homme à tout faire » pour M. Huet. L’appelant exploitait une petite entreprise faisant la rénovation, l’entretien et la réparation. M. Huet était son client principal. L’appelant travaillait lorsque voulu et il se faisait payer en espèce pour chaque travail effectué. Il n’est sans personnes à charge. Il vit presque 6 mois par année sur son voilier dans le Sud. Il n’a besoin de presque rien pour vivre. Quand il est au Sud, il vit ce qu’il pêche et cueille. C’est ce qui explique son niveau de vie très modeste.
+Questions en litige
+[26] Les questions en litige ont été bien formulées par l’intimité comme suit :
+Le ministre était-il justifié de considérer les revenus de 13 200 $, 10 350 $ et 10 500 $ déclarés par l’appelant pour les années d’imposition 2015, 2016, et 2017 respectivement, comme n’étant pas des revenus liés à l’exploitation d’une entreprise ?
+Conséquemment, le ministre était-il justifié de refuser à l’appelant les montants de 1 634 $, 1 653 $ et 1 661 $ qu’il a réclamés à titre de PFRT pour les années d’imposition 2015, 2016 et 2017 respectivement ?
+[27] Le ministre soutient que l’appelant n’avait pas le droit de réclamer les montants disputés à titre de PFRT pour les années d’imposition puisqu’il n’exploitait pas activement une entreprise, conformément au paragraphe 9 (1) de la Loi. Donc, l’appelant n’a gagné aucun revenu de travail donnant droit à la PFRT et ce, conformément au paragraphe 122.7 (1) de la Loi.
+[28] L’appelant affirme qu’il avait tout simplement une petite entreprise et qu’il travaillait presque exclusivement pour M. Huet et donc il exploitait une entreprise lui donnant droit à la PFRT.
+Analyse
+[29] L’avocate de l’intimée a bien expliqué le régime de la PFRT. La PFRT est prévue à l’article 122.7 de la Loi. Pour certaines personnes, d’avoir un travail peut les mettre dans une situation financière pire que si elles n’avaient pas de travail. Alors la PFRT fut conçue pour inciter les Canadiens au faible revenu à s’intégrer dans le marché de travail. Pour être admissible à la PFRT, un contribuable doit déclarer un revenu d’emploi ou d’entreprise et il doit gagner un montant minimal de revenus. Dans les années d’imposition, ce montant était 2 400 $ pour une personne sans conjoint ou personne à charge. La PFRT commence à diminuer au-delà d’un certain seuil de revenus. Ce montant était environ 10 500 $ dans les années d’imposition. Plus le revenu augmente, plus la prestation diminue. Le tableau suivant indique les revenus ou la PFRT est maximisée et la PFRT diminue à zéro pour une personne sans conjoint admissible ni de personne à charge.
+Année d’imposition
+Revenu où le PFRT est au maximum
+Revenu où le PFRT est diminué à zéro
+2015
+11 902 $
+20 272 $
+2016
+12 067 $
+20 333 $
+2017
+11 816 $
+20 125 $
+[30] Lors de ses représentations verbales offertes à l’audience, l’intimée a présenté deux arguments : 1) les revenus déclarés par l’appelant ne sont pas liés à l’exploitation d’une entreprise ou un emploi, et 2) à titre subsidiaire, si l’appelant a vraiment gagné un revenu d’entreprise ou d’emploi, les vrais revenus gagnés sont au-delà des limites maximales prescrites au programme PFRT et donc l’appelant n’est pas admissible à la PFRT.
+[31] Selon ce deuxième argument, la thèse de l’intimé postule que l’appelant a déclaré un revenu assez faible pour ne pas payer d’impôt et un revenu suffisamment élevé pour maximiser la prestation fiscale.
+[32] Je souligne le fait que l’intimée n’a pas plaidé ce propos dans sa Réponse à l’Avis d’appel. Au paragraphe 6 de la Réponse à l’Avis d’appel, l’intimée a étayé les conclusions et les hypothèses de fait auxquels le ministre s’est fondé pour refuser à l’appelant la PFRT :
+6. Pour fixer l’impôt payable par l’appelant pour les années d’imposition 2015, 2016 et 2017, le ministre a tenu pour acquis les faits suivants ;
+a) En produisant ses déclarations de revenus pour les années d’imposition en litige, l’appelant a déclaré exploiter une entreprise d’entretien et de rénovation d’immeubles ;
+b) Les livres et registres de l’appelant étaient inexistants ;
+c) L’appelant n’a encouru aucune dépense relativement aux activités qu’il prétend avoir exercées ;
+d) L’appelant n’a offert aucun service d’entretien et de réparations ;
+e) Les revenus déclarés par l’appelant aux montants de 13 200 $, 10 350 $ et de 10 500 $ pour les années d’imposition 2015, 2016 et 2017 respectivement ne provenaient pas des services liés à l’exploitation d’une entreprise.
+[33] Si l’intimée voulait faire valoir l’hypothèse que les revenus de l’appelant dépassaient les limites maximales pour être admissibles à la PFRT, elle aurait dû spécifiquement plaider cette présomption. Elle ne l’a pas plaidé. Également, elle aurait pu présenter une requête visant à modifier la Réponse. Elle n’a pas présenté de telle requête. Un contribuable n’est pas tenu à « démolir » ou à réfuter une présomption que le ministre n’a pas plaidée. Donc je ne vais pas considérer ce dernier argument.
+[34] L’intimée soutient que la preuve offerte par l’appelant n’est ni crédible ni fiable. La preuve est pleine d’incohérences. L’appelant a mené un commerce basé uniquement sur argent comptant. Il n’a conservé aucun registre. Il n’a produit aucune pièce justificative à l’appui de ses prétentions. L’appelant et M. Huet se fient presque uniquement à leur mémoire qui est de nature non fiable. De plus, l’appelant a omis de faire entendre des témoins importants. Donc, l’intimée soutient que je devrais rejeter les témoignages de l’appelant et M. Huet et par conséquent je dois rejeter l’appel. Il va sans dire que la preuve de l’appelant a des faiblesses comme indiqué par l’avocate de l’intimée. Mais, je dois évaluer la crédibilité et la fiabilité du témoignage de l’appelant en considérant l’entièreté de la preuve.
+[35] On m’a référé à la jurisprudence renfermant certains principes et facteurs d’influence que je dois considérer lors de mes délibérations. J’en discute dans les paragraphes qui suivent.
+Le fardeau de la preuve
+[36] L’affaire Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, nous enseigne que le ministre se fonde sur des présomptions pour établir une cotisation et que la charge initiale de démolir ces présomptions est imposée au contribuable. Le contribuable doit présenter au moins une preuve prima facie réfutant l’exactitude de ces présomptions. Le fardeau de la preuve imposée au contribuable ne doit pas être renversé à la légère ou arbitrairement considérant qu’il s’agit de l’entreprise du contribuable. Donc, il incombe à l’appelant de me convaincre qu’il exploitait une entreprise et que les revenus qu’il a déclarés sont le fruit de cette entreprise.
+La crédibilité
+[37] En l’espèce, la crédibilité est d’importance primordiale. Si le tribunal ajoute foi au témoignage de l’appelant sur la prépondérance des probabilités, l’appelant aurait réussi à démolir les présomptions du ministre lui donnant gain de cause.
+[38] Comment évaluer la crédibilité de l’appelant ? La « common law » a établi certains principes, où pourrais-je dire des lignes directrices, dont un juge d’instance peut s’en servir lorsqu’il est nécessaire de peser le témoignage d’un témoin ? Ma collègue, la juge Miller, a très bien résumé ces principes dans l’affaire Nichols c. La Reine, 2009 CCI 334 :
+22. L’issue de la présente affaire repose entièrement sur les conclusions de crédibilité que je tirerai à la lumière de l’ensemble de la preuve produite à l’audience. Je dois décider si l’appelant a montré, selon la prépondérance des probabilités, que les cotisations établies par le ministre sont inexactes. Au moment d’apprécier la preuve produite, il m’est loisible d’ajouter foi à tout ou partie d’un témoignage ou à aucune portion de celui-ci, ou encore d’accepter certaines parties du témoignage et d’en rejeter d’autres.
+23. En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s’il diverge du témoignage rendu à l’interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés). Il m’est ensuite loisible d’apprécier l’attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C’est-à-dire que j’ai toute latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables.
+[39] Je garde à l’esprit les dires de juge Miller en évaluant la crédibilité des témoins.
+Le manque de documentation
+[40] L’appelant n’a conservé aucun livre, registre, ou pièce justificative. Dans un système d’autocotisation comme nous avons au Canada, la tenue de livres et registres est très importante. Le paragraphe 230 (1) de la Loi exige que quiconque exploite une entreprise doive tenir des registres et des livres de comptes renfermant des renseignements qui permettent d’établir les montants des impôts payables en vertu de la Loi. Le non-respect du paragraphe 230 (1) ne constitue pas un motif suffisant pour rejeter un appel, mais il est susceptible de nuire à la capacité de l’appelant de s’acquitter du fardeau de la preuve d’établir que la cotisation est erronée : R. c. Watts, 2005 CCI 651. Donc, quoique la documentation est très importante, le manque de documentation n’est pas nécessairement déterminant.
+L’absence de témoins importants
+[41] Dans Schafer c. La Reine, 1998 CanLll 414 (CCI), juge Mogan a stipulé :
+27. Il existe une règle bien établie selon laquelle l’omission d’une partie ou d’un témoin de témoigner alors qu’il est en mesure de le faire et grâce à qui les faits auraient pu être élucidés autorise un tribunal à inférer que le témoignage de la partie ou du témoin en question aurait été défavorable à la partie à qui l’on attribue l’omission. …
+Comptabilité de caisse
+[42] Dans l’affaire Garage Gilles Gingras c. La Reine, 2010 CCI 343, le juge Tardiff nous instruit ainsi :
+[74] L’utilisation d’argent comptant est quelque chose de légale et de légitime. Il s’agit cependant d’une partie qui soulève, avouons-le, un certain scepticisme du fait qu’il s’agit d’une pratique courante dans le cadre du travail au noir, de l’évitement fiscal et ainsi de suite. L’argent comptant ne laisse pas de traces ou en laisse si peu que l’on peut toujours fournir une explication vraisemblable selon le contexte.
+[75] La pratique de la comptabilité de caisse n’est pas illégale et elle ne mène pas nécessairement à une conclusion d’évitement fiscal.
+[43] Tous ces facteurs ont été réunis dans le cas de Pierre Juneau Rénovations c. La Reine, 2020 CCI 54, ou j’ai rejeté l’appel en application de ces principes. Par coïncidence, M. Huet représentait l’appelante dans Juneau Rénos. L’intimée soutient que le cas d’instance est comparable. Quoiqu’il est vrai qu’il y a des parallèles assez importants entre Juneau Rénos et le cas d’instance, il y a aussi des différences de conséquence. M. Juneau dirigeait une entreprise ayant un chiffre d’affaires s’échelonnant dans les centaines de milles de dollars. M. Fyfe menait une toute petite entreprise gagnant environ 10 000 $ par année. Ni Juneau ni Fyfe n’avait un système fiable de comptabilité. Mais à mon avis, un système de comptabilité est plus important pour une entreprise de grande échelle qu’une entreprise de petite échelle. Juneau Rénos a subi une vérification indirecte décrite comme un travail extraordinaire et complet. La vérificatrice a effectué un travail efficace, détaillé, méthodique, juste et équitable, véridique et fiable. Les résultats de cette vérification étaient indisputables. Par contre, M. Fyfe n’a subi aucune vérification et les cotisations à son égard étaient complètement arbitraires. Dans l’affaire Juneau Rénos, on disputait des dépenses d’entreprise tandis que dans l’espèce il s’agit de la provenance des revenus de M. Fyfe, et non ses dépenses qui étaient minimales. M. Pierre Juneau s’est impliqué dans un arrangement assez louche avec son sous-traitant, à le payer en « cash », car le sous-traitant voulait éviter d’utiliser les services d’une banque. Mais le sous-traitant n’a pas témoigné pour dire qu’il a réellement reçu des paiements en « cash » pour des travaux de sous-traitance. Par contre, le témoignage de M. Fyfe est corroboré par le témoignage sous serment de M. Huet, son client principal, à l’égard de la question en litige la plus importante — l’existence d’une entreprise. M. Pierre Juneau n’était peu crédible ni fiable alors que M. Fyfe, malgré les faiblesses apparentes dans sa preuve, est honnête et crédible et j’accepte sa preuve.
+[44] Est-ce que les revenus déclarés par l’appelant étaient liés à l’exploitation d’une entreprise ou d’un emploi ? En considérant l’ensemble de la preuve, je suis d’avis que oui. Quoiqu’il exploitait seulement une petite entreprise et seulement pour 6 mois l’année et qu’il avait essentiellement seulement un client, ceci ne veut pas dire qu’il n’exploitait pas une entreprise. Le témoignage de l’appelant est corroboré par son client, M. Huet, et j’accepte leur témoignage. Donc, je conclus que l’appelant avait droit à la PFRT.
+Conclusion
+[45] Pour ces motifs, l’appel des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu, L.R.C. (1985) c.1 (5e Suppl.), pour les années d’imposition 2015, 2016 et 2017 est accueilli et la question est déférée au ministre du Revenu national pour nouvelle cotisation compte tenu du fait que l’appelant exploitait une entreprise durant les années d’imposition en sorte qu’il avait droit aux prestations fiscales pour le revenu de travail (la « PFRT ») en vertu de l’article 122.7 de la Loi.
+Signé à Kingston, Canada, ce 16e jour de février 2022.
+« Rommel G. Masse »
+juge suppléant Masse
+RÉFÉRENCE :
+2022 CCI 20
+Nº DU DOSSIER DE LA COUR :
+2020-1441(IT)I
+INTITULÉ DE LA CAUSE :
+SERGE FYFE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 24 novembre 2021
+MOTIFS DE JUGEMENT PAR :
+L'honorable Rommel G. Masse, juge suppléant
+DATE DU JUGEMENT :
+Le 16 février 2022
+COMPARUTIONS :
+Représentant de l’appelant :
+Sylvain Huet
+Avocat de l’intimée :
+Me Anna Kirk
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Sylvain Huet
+Cabinet :
+Huet, Huet & Associés
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s’est rendu compte depuis ce temps-là de l’importance de garder un registre et conserver toutes pièces justificatives.
+[2] Les trois premières inspections étaient sans frais, mais chaque inspection suivante engageait des frais.

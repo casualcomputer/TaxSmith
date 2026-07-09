@@ -1,0 +1,114 @@
+Title: 9049-7769 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25665/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-110-25665-9049-7769-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-05
+
+# 9049-7769 Québec Inc. c. La Reine
+
+- Citation: 2004 CCI 110
+- Decision date: 2004-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3832, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9049-7769 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-05
+Référence neutre
+2004 CCI 110
+Numéro de dossier
+2003-3394(GST)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-3394(GST)I
+ENTRE :
+9049-7769 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 6 janvier 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante:
+Christian Alcindor
+Avocat de l'intimée :
+Me Nicolas Simard
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'intimée afin d'obtenir une ordonnance rejetant l'appel pour défaut de compétence de la Cour;
+La requête est accordée et l'appel de la décision rendue par le ministre du Revenu national en date du 4 septembre 2003 est rejeté, pour défaut de compétence de la Cour, selon les motifs de l'ordonnance suivants.
+Signé à Ottawa, Canada, ce 5e jour de février 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI110
+Date : 20040205
+Dossier : 2003-3394(GST)I
+ENTRE :
+9049-7769 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS D E L'ORDONNANCE
+La juge Lamarre Proulx
+[1] Il s'agit d'une requête pour rejeter l'appel de l'appelante au motif que la Cour n'a pas compétence pour entendre cet appel.
+[2] L'appelante a déposé un avis d'appel le 18 septembre 2003 d'une décision de l'Agence des douanes et du revenu du Canada (l' « ADRC » ), rendue le 4 septembre 2003, concernant une demande de remboursement des droits de douane en vertu du Règlement sur le drawback relatif aux véhicules automobiles exportés, DORS/96-34, lequel a été pris sous l'autorité du Tarif des douanes, L.R.C., 1985 (3e suppl.) ch. 41.
+[3] Selon l'avis d'appel, la taxe sur les produits payée en vertu de la Section III de la Loi sur la taxe d'accise (la « Loi » ) a été remboursée. Je n'ai donc pas à me pencher sur la compétence de cette Cour à cet égard.
+Analyse et conclusion
+[4] Il faut d'abord se référer à l'article 12 de la Loi sur la Cour canadienne de l'impôt, L.R.C. (1985), ch. T-2. Cette disposition prévoit que cette Cour a compétence pour entendre les renvois et les appels portés devant elle à l'égard de certaines lois mentionnées dans cette disposition, dans la mesure où ces lois prévoient un droit de renvoi ou d'appel devant elle.
+[5] Le représentant de l'appelant s'est référé à la Section III de la Loi qui est intitulée : « Taxe sur l'importation des produits » .
+[6] Selon l'article 214 de cette section, le paiement et la perception des taxes se font aux termes de la Loi sur les douanes. Les seules dispositions de cette Section III qui donnent clairement compétence à notre Cour sont les paragraphes 216(4) et 216(5) qui concernent le classement de produits.
+[7] Ici le sujet de l'appel est le remboursement des droits de douane. Je ne vois aucune disposition de la Section III de la Loi qui accorde compétence à notre Cour à ce sujet.
+[8] De façon générale, la compétence de la Cour en vertu de la Loi provient des articles 301 et suivants de la Loi. Cette compétence débute par la cotisation d'une personne. Ici, il n'y a pas eu de cotisation. Le paragraphe 296(1) de la Loi qui prévoit le pouvoir du ministre du Revenu national d'établir une cotisation n'inclut pas la taxe payable en vertu de la Section III de la Loi.
+[9] Ce paragraphe se lit ainsi :
+296(1) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire pour déterminer :
+a) la taxe nette d'une personne, prévue à la section V, pour une période de déclaration;
+b) la taxe payable par une personne en application des sections II, IV ou IV.1;
+c) les pénalités et intérêts payables par une personne en application de la présente partie;
+d) un montant payable par une personne en application des alinéas 228(2.1)b) ou (2.3)d) ou de l'article 230.1;
+e) un montant qu'une personne est tenue de payer ou de verser en vertu du paragraphe 177(1.1) ou des sous-sections a ou b.1 de la section VII.
+[10] En conclusion, il ne s'agit pas de classement de produits et il n'y a pas eu de cotisation.
+[11] En conséquence, la requête est accordée et l'appel est rejeté pour défaut de compétence de cette Cour.
+Signé à Ottawa, Canada, ce 5e jour de février 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI110
+No DU DOSSIER DE LA COUR :
+2003-3394(GST)I
+INTITULÉ DE LA CAUSE :
+9049-7769 Québec Inc. et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 6 janvier 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 5 février 2004
+COMPARUTIONS :
+Pour l'appelant :
+Christian Alcindor (représentant)
+Pour l'intimée :
+Me Nicolas Simard
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

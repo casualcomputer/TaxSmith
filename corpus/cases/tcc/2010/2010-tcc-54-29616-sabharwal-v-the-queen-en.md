@@ -1,0 +1,139 @@
+---
+title: "Sabharwal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29616/index.do"
+last_modified: "2010-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 54"
+citation2: ""
+neutral_citation: "2010 TCC 54"
+decision_date: "2010-01-28"
+language: "en"
+item_id: "29616"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6185
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:42:40.747000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8f6d9f22792c6cee5f455faa08b33528443339a9564466c115dfed89ee866515"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sabharwal v. The Queen
+
+- Citation: 2010 TCC 54
+- Decision date: 2010-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6185, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sabharwal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-28
+Neutral citation
+2010 TCC 54
+File numbers
+2009-1761(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1761(IT)I
+BETWEEN:
+SATISH SABHARWAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 25, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2003 and 2006 taxation years is dismissed.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 28th day of January 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 54
+Date: 20100128
+Docket: 2009-1761(IT)I
+BETWEEN:
+SATISH SABHARWAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Satish Sabharwal appeals in respect of income tax assessments for the 2003 and 2006 taxation years.
+[2] According to the reply, for the 2003 taxation year the Minister of National Revenue assessed federal tax in the amount of $3,756.22, provincial tax in the amount of $1,413.11, arrears interest in the amount of $426.98 and a late-filing penalty in the amount of $245.03.
+[3] For the 2006 taxation year, the Minister assessed federal tax in the amount of $2,110.70, provincial tax in the amount of $1,193.60, and arrears interest in the amount of $8.47.
+[4] At the hearing, the appellant raised several grounds for the appeal.
+[5] First, the appellant submitted that he never received a “T” slip for some of the income received in 2003. In particular, he mentioned income from Great West Life Assurance Company from a wage loss replacement plan in the amount of $4,131. The Minister had received a T4A information slip in respect of this amount and the appellant acknowledged that he had received this income.
+[6] The problem that I have with the appellant’s submission is that the requirement to pay tax on a particular item of income is triggered by the receipt of the income, and not the receipt of a T slip. Even if the appellant did not receive an information slip, the income must be reported and the tax paid thereon.
+[7] Second, the appellant stated that he had tax refunds payable for the 2000, 2001, 2002, 2004, 2005 and 2008 taxation years. He submitted that the refunds were inappropriately applied by the Minister to reduce student loans.
+[8] The relief that the appellant appears to be seeking is to eliminate any amounts owing for the 2003 and 2006 taxation years because the refunds for other years have been inappropriately withheld from him.
+[9] I do not agree with this submission. First, the appellant has not established by proper evidence that the refunds were applied inappropriately. However, even if that is the case, the relief that the appellant seeks is not something that this Court has jurisdiction to grant. The only relief that this Court can provide is to determine whether the amounts assessed are accurate. The payment of taxes and refunds is not within the Court’s jurisdiction.
+[10] Third, the appellant submits that the assessment for the 2003 taxation year was sent after four years.
+[11] If the appellant suggests that the assessment is invalid because it was issued too late, I do not agree. The assessment under appeal, which was made on May 7, 2007, was the first assessment that was issued in respect of the 2003 taxation year. Although the Income Tax Act contains time limits for issuing reassessments, these limitation periods do not apply to a first assessment. For this reason, the submission is rejected.
+[12] Fourth, the appellant submits that a penalty and interest should not be imposed as any deficiencies were not his fault.
+[13] As for the penalty, the Minister assessed a late-filing penalty for the 2003 taxation year on the ground that the appellant did not file an income tax return for that year.
+[14] The appellant, on the other hand, testified that he did file a 2003 tax return and that it was filed on time. On cross-examination, the appellant stated that he did not keep a copy of tax returns beyond three years and accordingly he did not have a copy of the 2003 tax return available at the hearing.
+[15] In my view, the appellant has not provided sufficient evidence to establish that the 2003 tax return was filed. A simple statement by the appellant to the effect that a tax return was filed is not sufficient.
+[16] If the evidence had revealed that the appellant had a history of filing tax returns and paying tax on time, it may have been reasonable to make a presumption that the 2003 tax return had been filed. However, the evidence suggests that there were refunds payable for many years and accordingly the filing history is of no assistance to the appellant.
+[17] In the circumstances, I conclude on balance that the appellant did not file a 2003 tax return. Accordingly, the penalty will not be vacated.
+[18] The appellant also suggests that interest should be waived on grounds that any tax owed was not his fault.
+[19] This submission must be rejected on jurisdictional grounds. The Tax Court of Canada has no jurisdiction to waive interest on the grounds of due diligence.
+[20] Finally, the appellant suggests that the Minister has not been consistent in communicating the amounts that are owed.
+[21] The amounts to which the appellant refers appear to be balances of amounts owing from time to time. The Court does not have jurisdiction over this subject matter which is a collection matter. The Court can only determine whether the amounts that have been assessed are correct. This submission is also rejected.
+[22] In the result, the appeal will be dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 28th day of January 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 54
+COURT FILE NO.: 2009-1761(IT)I
+STYLE OF CAUSE: SATISH SABHARWAL and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 25, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: January 28, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Toks C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

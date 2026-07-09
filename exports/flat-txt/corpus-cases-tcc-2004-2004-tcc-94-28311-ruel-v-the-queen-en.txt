@@ -1,0 +1,135 @@
+Title: Ruel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28311/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-94-28311-ruel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-01-27
+
+# Ruel v. The Queen
+
+- Citation: 2004 TCC 94
+- Decision date: 2004-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1830, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-27
+Neutral citation
+2004 TCC 94
+File numbers
+2003-3726(GST)APP
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3726(GST)APP
+BETWEEN:
+DIANE LAMBERT RUEL,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Application heard on January 8, 2004, at Montréal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Applicant:
+André J. Bélanger
+Counsel for the Respondent:
+Claudine Alcindor
+____________________________________________________________________
+ORDER
+Upon application for an order extending the time within which an appeal from the assessment made pursuant to the Excise Tax Act, notice of which bears the number 032G0109618 and is dated February 25, 2003, may be instituted;
+The application is dismissed in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 27th day of January 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2004TCC94
+Date: 20040127
+Docket: 2003-3726(GST)APP
+BETWEEN:
+DIANE LAMBERT RUEL,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Lamarre Proulx J.
+[1] This is an application to extend the time within which an appeal may be instituted pursuant to section 305 of the Excise Tax Act (the Act).
+[2] Réal Lambert, merchant, testified. The assessment concerns a convenience store business in the name of Mr. Lambert’s spouse, which is why Diane Lambert Ruel is the Applicant. However, Mr. Lambert is the sole manager of the business.
+[3] On February 12, 2003, Mr. Lambert met Mr. Bélanger, his counsel, regarding a letter he received from the Direction des oppositions of Revenu Québec. The letter was dated December 6, 2002. It outlined changes to be made to the GST assessment for the period from May 14, 1999, to December 31, 2000. The last two paragraphs of this letter read as follows:
+[TRANSLATION]
+In the event you would like to appeal these decisions before the courts, please refer to the enclosed pamphlets entitled, “Information on judicial recourse” and “Appeals to the Tax Court of Canada in Matters Concerning the GST/HST”.
+Please note that the deadline for instituting an appeal from these decisions begins only as of the mailing date of the Notices of Assessment that you will receive at a later date.
+[4] He testified that he brought this letter to his counsel. During the meeting, there apparently was a misunderstanding. Mr. Lambert had understood that his counsel would institute the appeal from the assessments, while the counsel said that he had told him to come back and see him with the assessments.
+[5] The Notice of Assessment was submitted as Exhibit R-3 and is dated March 10, 2003. As Mr. Lambert did not understand that he had to bring these notices to his counsel, it was not until May 27, 2003, that he called his counsel to find out what was going on with the files.
+[6] That same day, he brought his counsel the Notices of Assessment. His counsel realized that, as regards to the assessment for the Gouvernement du Québec, the Applicant was within the time allotted to institute an appeal. He was not in the same position with regard to the assessment at the federal level. The deadline for instituting an appeal had expired by a few days. The Notice of Appeal for Quebec was submitted in June 2003.
+[7] Counsel for the Applicant testified under his oath of office that, when Mr. Lambert brought him the assessments, he immediately instituted an appeal at the Quebec level. With respect to the assessment at the federal level, he noticed immediately that the deadline had expired. He explained the 5-month delay in filing the application for an extension of time by the fact that it was a very busy time at his office and he did not have the time to submit the application. Moreover, it had to do with federal legislation, which he is not very familiar with.
+[8] He says the Applicant herself did not demonstrate a lack of diligence and that counsel’s mistake cannot be held against her.
+[9] Counsel for the Respondent referred to the relevant sections in the Act, namely, subsections 305(1) and 305(5). The provisions read as follows:
+305(1) Where no appeal to the Tax Court under section 306 has been instituted within the time limited by that provision for doing so, a person may make an application to the Tax Court for an order extending the time within which an appeal may be instituted, and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+305(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Part for appealing; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Part for appealing,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted it to be made, and
+(iv) there are reasonable grounds for appealing from the assessment.
+[10] She referred to this Court’s decision in Ferrara (Carrosserie Ferrara) v. Canada, [2002] T.C.J. No. 60 (Q.L.) with regard to the aspect that all the conditions outlined in paragraph 305(5)(b) must be met. With respect to the issue that the application must be submitted as soon as the circumstances permit, she referred to the decision of the Federal Court of Appeal in The Queen v. Pennington, 87 DTC 5107. With respect to the lawyer’s lack of due diligence, she referred to the following decisions: D McKinnon Holdings Ltd. v. M.N.R. (TRB), [1982] CTC 2460; Garry R. Harris v. M.N.R., [1985] 1 TCC 2363; Daryl Zamco and Marie Zamco v. The Queen, T.C.C., No. APP‑135‑95‑IT and No. APP‑136‑95‑IT dated August 17, 1995; and Di Monica and Her Majesty the Queen, T.C.C. No. 2000‑5112‑IT‑APP, dated September 12, 2001. These decisions indicate that a lack of due diligence on the part of an accountant or counsel is not a circumstance that, on its own, allows for the application to be granted.
+Conclusion
+[11] It is hard to believe the Applicant’s spouse when he says that it is due to a misunderstanding with his counsel that he did not bring the Notices of Assessment to him or call him as soon as the Notices of Assessment were received. The letter dated December 6, 2002, was clear and the confusion that may have occurred between the counsel and his client is hard to believe.
+[12] In addition, Mr. Lambert received the provincial and federal Notices of Assessment on different dates, March 10, 2003, and February 25, 2003. Also, he received several request for payment from Revenu Québec. A first reminder was sent February 26, 2003, a second on March 26, 2003, and a third on April 25, 2003.
+[13] The Applicant’s counsel did not submit the application to extend the time for an appeal as soon as he could as he did so only after five months had passed. He had or should have referred to subsection 305(5) of the Act, which requires the application be made as soon as the circumstances permit.
+[14] I am of the opinion that the evidence did not demonstrate due diligence on the part of the Applicant’s spouse as he failed to inform his counsel of the various letters he was receiving from Revenu Québec. The evidence also failed to demonstrate due diligence on the part of his counsel. The application for an extension of the time for an appeal was not made as soon as circumstances permitted as required by subparagraph 305(5)(b)(iii) of the Act.
+[15] In these circumstances, according the case law cited above, the application must be dismissed.
+Signed at Ottawa, Canada, this 27th day of January, 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 30th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION:
+2004TCC94
+COURT FILE NO.:
+2003-3726(GST)APP
+STYLE OF CAUSE:
+Diane Lambert Ruel and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 8, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF ORDER:
+January 27, 2004
+APPEARANCES:
+Counsel for the Applicant:
+André J. Bélanger
+Counsel for the Respondent:
+Claudine Alcindor
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+André J. Bélanger
+Firm:
+Bélanger Garceau, Avocats
+Laval, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,176 @@
+---
+title: "Maltais v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25536/index.do"
+last_modified: "2003-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 894"
+citation2: ""
+neutral_citation: "2003 TCC 894"
+decision_date: "2003-12-02"
+language: "en"
+item_id: "25536"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2376
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:25:28.860000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f9e65a2919664a773f12e4808188b5c180593e38724551605af1e35f158227e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maltais v. The Queen
+
+- Citation: 2003 TCC 894
+- Decision date: 2003-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2376, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maltais v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-02
+Neutral citation
+2003 TCC 894
+File numbers
+2002-1241(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-1241(GST)I
+BETWEEN:
+ROSAIRE MALTAIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 3, 2003,
+and judgment delivered orally on November 6, 2003, at Québec, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Louis Sirois
+Counsel for the Respondent:
+Michel Morel
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, bearing the number 2‑17‑5002 and dated April 4, 2002, for the period from August 1, 1996, to December 31, 1999, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 13th day of June 2008.
+Susan Deichert, Reviser
+Citation: 2003TCC894
+Date: 20031202
+Docket: 2002-1241(GST)I
+BETWEEN:
+ROSAIRE MALTAIS,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal under the informal procedure from a reassessment made under the Excise Tax Act ("the Act") concerning the period from August 1, 1996, to December 31, 1999. The notice of reassessment bears the number 2‑17‑5002 and is dated April 4, 2002.
+[2] The issue is whether the Appellant, during the years in issue, was a small supplier as defined in subsection 123(1) and within the meaning of section 148 of the Act. If so, the Appellant would not be required to collect tax on the consideration for services provided by his business.
+[3] During the years in issue, according to Exhibit A-1, the Appellant operated first under the business name Massage RM Imm and subsequently under the business name Pro-massage Enr. It has been admitted that the Appellant operated a massage parlour in the basement of his residence.
+[4] To ascertain whether the Appellant qualifies as a small supplier, it must be determined whether the amounts received from clients in consideration of the services rendered should be attributed in their entirety to the Appellant's business, or whether they can be attributed in part to the persons working for the business.
+[5] The Minister of National Revenue ("the Minister") is of the opinion that the workers are employees. The Appellant argues that they are self-employed workers. This is the issue that I must settle, although I am not convinced that it is the right issue.
+[6] In my view, the issue should have been whether there was a single consideration or separate considerations. A business can supply its services through employees or through self-employed workers. That does not alter the nature of the business as a supplier of services. It is the nature of the operation that must be considered. Is it an operation in which services can usefully be acquired separately? As purchasers of services, the clients paid the massage parlour a single amount. That amount was set by the Appellant for the services of the massage parlour. As the owner and operator of the massage parlour, the Appellant was, in my view, the supplier of the services for which the clients paid a single consideration.
+[7] In any case, as I said, I shall make my decision based on the nature of the workers’ legal situation and whether it constituted an employment contract or a contract for services.
+[8] The first witness for the Appellant was Suzie Côté. She has been working for the Appellant’s massage parlour for the past two and a half years. She testified that she had training in massage therapy and that she had previously worked for another massage parlour.
+[9] Counsel for the Respondent objected to her testimony on the grounds that she had not worked for the Appellant’s massage parlour during the taxation years in issue. Counsel for the Appellant argued that the purpose of her testimony was to explain how the massage parlour operated.
+[10] Ms. Côté’s testimony differed little from that of the persons who had worked there during the period in issue, except with respect to hiring practices and the sexual aspect of the massages.
+[11] The Appellant testified. He is a trained electrician. During the years in issue, he worked as an electrician foreman for Industries Davie Inc.
+[12] He testified that he had learned to perform Californian and Swedish massage as well as specific massages. In 1995, he converted the basement of his residence into a massage parlour. He sought clients through newspaper advertisements. The parlour’s business hours were 9:30 a.m. to 11:00 p.m.
+[13] He confirmed that it was not he who replaced a masseuse who could not come in. She would arrange for her replacement with her other colleagues.
+[14] Three workers testified at the request of counsel for the Respondent. They all worked for the massage parlour during the period in issue.
+[15] The masseuses testified that they had been recruited through advertisements that the Appellant had placed in the newspaper. Some of these advertisements were filed as Exhibit I‑3. Under the heading [TRANSLATION] “Jobs Offered”, they stated that masseuses were sought to perform Californian massage full time in the Rive‑Sud area. The Appellant confirmed that the telephone number listed was his own.
+[16] One of the young women already knew how to perform massage. The two others were trained by the Appellant.
+[17] The work schedule was established by the Appellant. The worker had to be present at the parlour in accordance with the schedule. She was not paid an hourly rate but rather based on the number of massages performed. She would not know in advance how many clients she would have.
+[18] Each testified that she reported to the Appellant, that he was the boss, and that he had to approve her absence or replacement by a colleague.
+[19] Each testified that the Appellant wanted the premises kept clean. The workers had to wash the sheets and towels. They also had to maintain the premises.
+[20] The masseuses were required to answer the telephone and make appointments. The appointments would be for the same day. The caller’s telephone number would be noted.
+[21] They neither dealt with nor paid for advertising. The business was advertised under the name Pro massage Enr. These advertisements were filed as Exhibit I‑3.
+[22] Each masseuse had a key to the premises. She would open up when she arrived and lock up when she left.
+[23] There were no guaranteed wages. Clients paid for the massage sessions according to rates established by the Appellant, starting at $35 and increasing to $40. The workers handed $15 or $20 over to the Appellant and kept $20. They were entitled to keep any extra fees for services such as stripping.
+[24] D During a police raid in October 1999, an intercom system was found in the electrical panel of one of the rooms in the parlour. The Appellant said it was not working. On the other hand, one of the masseuses said that he heard everything. All the workers were under the very clear impression that he knew everything that happened in the parlour.
+[25] Ms. Suzanne Tremblay was the tax auditor. She met with one of the masseuses. She spoke to others by phone. The Appellant’s counsel filed the audit report as Exhibit A‑2. The auditor referred to Appendix 2 to explain that at the end of June 1996, by adding the portion received by the masseuses, the Appellant had exceeded the threshold of $30,000. He had a month to register. Thus, the tax account commenced at the beginning of August 1996. In addition, for 1998, according to the books that were seized, $7,361 had not been reported. It was added to the total supplies to be reported.
+[26] The auditor also noted that the Appellant paid all the expenses. The workers did not decide anything. The auditor also stated that, for income tax purposes, the amounts paid to the masseuses were deducted in computing the Appellant’s income.
+Analysis and conclusion
+[27] The issue to be determined is whether the persons who rendered services to the Appellant’s business were employees or self-employed workers.
+[28] I refer to the Supreme Court of Canada decision in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983:
+... The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+[29] The young women were recruited for full-time work through an advertisement in the newspapers. Some had experience as masseuses. Others were trained by the Appellant. They had to be available for the Appellant’s business. This is a key factor for me. They were not paid by the hour but had to work in that way. Each masseuse had three roles: receptionist, masseuse and maintenance worker.
+[30] Let us review the various tests. Control. The Appellant decided everything: the schedule, the terms and conditions of work and the fee to be charged to the client.
+[31] The ownership of tools: everything belonged to the Appellant and he had paid for all of it.
+[32] The opportunity for profits or losses: the advertising was done in the Appellant’s business name. The clients were clients of the massage parlour. The workers had to record their time, and their remuneration was based on the number of clients. Tips or the number of clients that a business has cannot be considered as a source of profits for a self-employed worker.
+[33] Integration. It was the Appellant’s business, not the workers’. The evidence in this case did not reveal any business element on the part of the workers.
+[34] All the consideration received for the massage services must be included in computing the Appellant’s gross income. The computation was not disputed.
+[35] Therefore, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 2nd day of December 2003.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 13th day of June 2008.
+Susan Deichert, Reviser
+CITATION:
+2003TCC894
+COURT FILE NO.:
+2002-1241(GST)I
+STYLE OF CAUSE:
+Rosaire Maltais and Her Majesty the Queen
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+November 3, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Madam Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+December 2, 2003
+DECISION DELIVERED ORALLY:
+November 6, 2003
+REVISED REASONS FOR JUDGMENT:
+December 2, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Louis Sirois
+Counsel for the Respondent:
+Michel Morel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Louis Sirois
+Firm:
+Gosselin Daigle Sirois & Associés
+Québec, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,181 @@
+---
+title: "Poisson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30601/index.do"
+last_modified: "2011-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 524"
+citation2: ""
+neutral_citation: "2011 CCI 524"
+decision_date: "2011-11-04"
+language: "fr"
+item_id: "30601"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7156
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:29:02.082000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "309b7520680305d81f95c0851a5bf1b1d5a48bf9686c591409543cc45aaa845f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poisson c. La Reine
+
+- Citation: 2011 CCI 524
+- Decision date: 2011-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7156, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poisson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-04
+Référence neutre
+2011 CCI 524
+Numéro de dossier
+2009-3634(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3634 (IT)G
+ENTRE :
+JACQUES POISSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 4 novembre 2011, à Sherbrooke (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocat de l'appelant :
+Me Robert Jodoin (absent)
+Avocat de l'intimée :
+Me Mathieu Tanguay
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’intimée en rejet d’appel;
+Vu la déclaration sous serment de Me Simon Vincent;
+Et vu les observations de l’avocat de l’intimée lors de l’audition;
+La requête pour rejet d’appel est accueillie et les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetés.
+Quant aux dépens, la Cour ordonne aux parties conformément aux motifs de l’ordonnance, de déposer auprès de cette Cour leurs prétentions écrites dans les 60 jours de la date de la signature de la présente ordonnance;
+En conséquence, l’ordonnance quant aux dépens est prorogée.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2011.
+« Johanne D’Auray »
+Juge D'Auray
+Référence : 2011 CCI 524
+Date : 20111116
+Dossier : 2009-3634(IT)G
+ENTRE :
+JACQUES POISSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge D'Auray
+[1] La présente requête de l’intimée vise à obtenir le rejet de l’appel pour cause de retard au motif que l’appelant n’a pas poursuivi son appel avec promptitude, conformément aux articles 64 et 68 des Règles de la Cour canadienne de l’impôt (procédure générale) (règles).
+[2] A l’appui de la requête, l’affiant, Me Simon Vincent, allègue les faits suivants :
+1. Le 5 novembre 2011, le représentant de l’appelant écrivait à la Cour afin de requérir une suspension d’instance dans le présent dossier jusqu’à ce que la Cour du Québec rende jugement dans le dossier 460-80-000609-097, lequel était fixé au 29 avril 2011.
+2. Le représentant de l’appelant s’engageait alors à ce que le présent dossier soit lié au jugement rendu en Cour du Québec.
+3. Le 15 juillet 2011, la Cour du Québec rendait jugement dans le dossier 460-80-000609-097 en rejetant la requête introductive d’instance du demandeur, l’appelant dans le présent dossier.
+4. Le 25 juillet 2011, l’intimée était informée dudit jugement par la procureure du Sous-ministre du revenu du Québec.
+5. Le 28 juillet 2011, l’intimée a tenté de joindre le représentant de l’appelant, sans succès.
+6. Toujours le 28 juillet 2011, le représentant de l’intimée a fait parvenir une lettre au représentant de l’appelant lui demandant de l’informer de ses intentions quant à la poursuite du présent dossier.
+7. Le 25 août 2011, après plusieurs tentatives infructueuses en vue de joindre le représentant de l’appelant, le représentant de l’intimée lui signifiait une seconde lettre par laquelle il lui réitérait la demande signifiée le 28 juillet 2011.
+8. Lors de chaque tentative de communication, le représentant de l’intimée s’est assuré que le représentant de l’appelant n’était pas en vacances.
+9. Le représentant de l’appelant n’a jamais retourné les appels du représentant de l’intimée et n’a jamais répondu à ses demandes écrites.
+[3] Lors de l’audition de la requête en rejet d’appel, le 4 novembre 2011, l’avocat de l’appelant, Me Jodoin ne s’est pas présenté bien qu’il fût dûment signifié par l’intimée.
+[4] À cet effet, l’intimée a indiqué lors de l’audition que son collègue, Me Simon Vincent, avait reçu une lettre de l’étude Robert Jodoin, Société d’avocats S.E.N.C.R.L., la veille de l’audition soit le 3 novembre 2011 indiquant :
+Le dossier mentionné en rubrique est fixé pour audition ce vendredi 4 novembre au Palais de Justice de Sherbrooke.
+Nous n’avons pas mandat de la part de notre client de contester votre demande. Celui-ci est malheureusement en très mauvaise posture financière.
+Espérant le tout à votre satisfaction, recevez, cher confrère, nos salutations distinguées.
+ROBERT JODOIN, Société d’avocats S.E.N.C.R.L.
+(s) Sylvain Lagüe,
+Avocat
+[5] À la lumière de la preuve par affidavit dans ce dossier, que j’ai énoncée ci‑haut, et des observations de l’avocat de l’intimée lors de l’audition, réitérant le comportement de Me Jodoin soit :
+- de consentir que le sort du dossier fédéral soit lié au jugement rendu par la Cour du Québec dans le dossier provincial, tel qu’en fait foi sa lettre en date du 5 novembre 2010, expédiée à l’intimée et à cette Cour;
+- de ne pas expédier à l’intimée comme convenu le jugement qu’il avait obtenu de la Cour du Québec; l’intimée ayant reçu le jugement de la cour du Québec par la procureure du sous-ministre du Revenu du Québec;
+- de ne pas juger nécessaire d’informer l’avocat de l’intimée de son intention de poursuivre ou de ne pas poursuivre le présent appel suite au jugement de la Cour du Québec et ce, malgré les demandes de l’intimée à cet effet, sauf la veille de l’audition de la requête en rejet d’appel. L’avocat comparaissant pour l’intimée était alors déjà en route pour Sherbrooke;
+[6] À la lumière aussi du fait que Me Jodoin n’a pas jugé nécessaire d’informer cette Cour qu’il ne se présenterait pas pour l’audition de la présente requête.
+[7] La présente requête en rejet d’appel est accueillie.
+[8] En conséquence, les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 sont rejetées.
+[9] Quant aux frais, l’avocat de l’intimée demande que j’accorde une somme supérieure à ce qui est prévu par le tarif et que les dépens adjugés soient payés par l’avocat de l’appelant. Il s’appuie sur l’article 147 et l’alinéa 152(1)(b) des règles et sur la décision de cette Cour dans DaCosta[1].
+[10] Les parties pertinentes des articles 147 et 152 des règles se lisent de la façon suivante :
+147. (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[…]
+152. (1) Si l’avocat d’une partie a fait engager des dépens à tort ou sans raison valable, ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission, la Cour peut, par directive :
+a) lui refuser les dépens en totalité ou en partie sur une base procureur-client;
+b) lui enjoindre de rembourser son client des dépens que celui-ci est tenu de payer à une autre partie;
+c) lui enjoindre d’indemniser l’autre partie en réduisant les dépens payables par celle-ci.
+(2) La directive visée au paragraphe (1) peut être donnée par la Cour, de son propre chef ou à la suite d’une requête d’une partie à l’instance; elle ne peut être donnée que si l’avocat a eu une occasion raisonnable d’être entendu par la Cour.
+(3) La Cour peut prescrire que le client de l’avocat visé par une directive donnée en application du paragraphe (1) en soit avisé de la façon prévue par la directive.
+[Je souligne.]
+[11] L’intimée fait aussi valoir que si l’avocat de l’appelant avait respecté ses engagements, il aurait fait parvenir comme prévu le jugement de la Cour du Québec. Il aurait retourné ses appels ou encore aurait répondu à la correspondance et aurait avisé l’intimée de l’intention de son client à procéder ou à ne pas procéder avec le présent appel.
+[12] Des frais auraient été évités, en ce sens que l’intimée n’aurait pas eu à continuer à gérer le dossier et à préparer la requête pour rejet d’appel et à se présenter devant cette Cour.
+[13] En vertu du paragraphe 152(2) des règles, avant d’adjuger de tels dépens, je dois donner l’occasion à l’avocat de l’appelant d’être entendu.
+[14] Par conséquent, j’ordonne à l’avocat de l’appelant de me faire parvenir des prétentions écrites suite à la demande de l’intimée, relative aux dépens en vertu de l’alinéa 152(2)b) des règles.
+[15] J’ordonne aussi à l’avocat de l’intimée de me faire parvenir des prétentions écrites quant à sa demande relative aux dépens.
+[16] Les prétentions écrites de la part des avocats de l’appelant et de l’intimée devront être reçues dans les 60 jours de la signature de cette ordonnance.
+[17] En conséquence, je proroge ma décision sur les dépens.
+Signé à Ottawa, Canada, ce 16e jour de novembre 2011.
+« Johanne D’Auray »
+Juge D'Auray
+RÉFÉRENCE : 2011 CCI 524
+Nº DU DOSSIER DE LA COUR : 2009-3634(IT)G
+INTITULÉ DE LA CAUSE : JACQUES POISSON c. LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : Le 4 novembre 2011
+MOTIFS DE L’ORDONNANCE PAR : L'honorable juge Johanne D'Auray
+DATE DE L’ORDONNANCE : Le 16 novembre 2011
+COMPARUTIONS :
+Avocat de l'appelant:
+Me Robert Jodoin (absent)
+Avocat de l'intimée:
+Me Mathieu Tanguay
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant:
+Nom : Me Robert Jodoin
+Cabinet : Robert Jodoin, Société d’avocats s.e.n.c.r.l.
+Bromont (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] DaCosta c. Sa Majesté la Reine, 2008 DTC 3008.

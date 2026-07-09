@@ -1,0 +1,257 @@
+---
+title: "Frégeau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26399/index.do"
+last_modified: "2004-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 293"
+citation2: ""
+neutral_citation: "2004 TCC 293"
+decision_date: "2004-05-05"
+language: "en"
+item_id: "26399"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3346
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:30:12.839000+00:00"
+cases_cited_count: 1
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e11b7a158743d8dd3373c3c7e65609ccc41181e46bfcabd429c81b29458d7a45"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Frégeau c. La Reine
+
+- Citation: 2004 TCC 293
+- Decision date: 2004-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3346, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frégeau c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-05
+Neutral citation
+2004 TCC 293
+File numbers
+2003-2521(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2521(IT)I
+BETWEEN:
+PIERRE FRÉGEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 20, 2003, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+Albina Mulaomerovic and Isabelle Paradis (law students)
+For the Respondent:
+Agathe Cavanagh (articling student)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 5th day of May 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+Citation: 2004TCC293
+Date: 20040505
+Docket: 2003-2521(IT)I
+BETWEEN:
+PIERRE FRÉGEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGEMENT
+BédardJ.
+[1] This is an appeal, under the informal procedure, from an assessment made with regard to the Appellant by the Minister of National Revenue (the "Minister") under the Income Tax Act (the "Act") for the 2001 taxation year.
+[2] On his 2001 income tax return, the Appellant claimed a credit for a wholly dependent person of $1,006.88 ($6,293 x 16%). In a reassessment dated December 2, 2002, the Minister denied the Appellant the credit for a wholly dependent person.
+[3] In order to issue and confirm the reassessment in question, the Minister relied on the following assumptions of fact, which are set out in paragraph 5 of the amended Response to Notice of Appeal:
+[translation]
+(a) pursuant to a request for information from the Minister concerning the claim for a credit for a wholly dependent person, with regard to the 2001 taxation year, the Appellant indicated that the person affected was his son Yannick, born on May 30, 1989, and that he made child support payments to his former spouse;
+(b) the Appellant and Carole Foisy were married on September 24, 1983;
+(c) the marriage of the Appellant and Carole Foisy was dissolved on June 29, 1995, through a divorce decree rendered by the Honourable Justice André Forget;
+(d) the Appellant and Carole Foisy have two children together, Yannick and Andrée;
+(e) during the year in question, the Appellant lived separate and apart from Carole Foisy throughout the year;
+(f) according to the Consent to Judgment dated April 13, 1999, which was homologated and given effect on April 14, 1999, through a judgment of the Quebec Court of Appeal, the Appellant and Carole Foisy agreed on, among other things, the following measures:
+(i) the Appellant and Carole Foisy will have joint legal custody, based on a 7-day rotation, of their minor children, Yannick and Andrée;
+(ii) the Appellant will pay Carole Foisy, for their two minor children, Yannick and Andrée, annual support of $3,000 payable in two equal bi-monthly instalments of $125, on the 1st and 15th day of each month, as of April 15, 1999;
+(g) the Minister refused to grant the Appellant a tax credit for a wholly dependent person, with regard to his son Yannick, for the 2001 taxation year because the Income Tax Act stipulates that an individual cannot claim a personal tax credit if that individual lives separate and apart from his or her former spouse and is required to pay that former spouse child support, whether that support is paid or not, but no deduction is claimed.
+[4] Only the Appellant testified at the hearing. His testimony essentially confirmed the assumptions of fact on which the Minister relied to make the reassessment.
+[5] The Agents for the Appellant submit that subsection 118(5) of the Act is unconstitutional in that it violates section 15 of the Canadian Charter of Rights and Freedoms (the "Charter") by discriminating between taxpayers based on their family status. The Appellant claims that he is being discriminated against because he is not receiving the same benefits from the Act as taxpayers with a different family status.
+[6] In support of their claim that family status is a personal characteristic that can be discriminated against, the Appellant's Agents rely on Thibaudeau v. M.N.R., [1994] 2 F.C. 189 (Trial Division), where Hugessen J. stated that "... family status or some similar expression figures as a prohibited ground of discrimination ..."[1]
+[7] Furthermore, the Appellant's Agents believe that subsection 118(5) of the Act was justified before the change in tax treatment for child support:[2]
+[trnaslation]
+Under this inclusion/deduction system, it was somewhat understandable and acceptable that support payers are not entitled to tax credits given that they could deduct the amounts paid as support. However, following the legislative changes, those support payers are no longer entitled to the tax credits. That situation is not only prejudicial to them, but it also creates a disadvantage for their dependent children who cannot benefit from the advantages that would provide them with the amounts of those tax credits.
+In summary, they believe that since the change in tax treatment for child support, subsection 118(5) of the Act imposes unequal treatment on separated parents who share custody of the children with their former spouse while paying child support. Henceforth, those parents can no longer deduct the amounts paid as child support, in addition to being denied the tax credit for a wholly dependent person because they are paying child support (subsection 118(5) of the Act). According to the Appellant's Agents, [translation] "the provision in question completely and undeniably ignores the fact that the Appellant needs those tax credits not only for his benefit, but for the good of his son."[3]
+[8] The Appellant's Agents also state that the case law indicating that subsection 118(5) of the Act does not violate section 15 of the Charter predates the change in tax treatment for child support. Since the change in tax treatment is one of the factors causing the unequal treatment mentioned, they submit that this Court should not limit itself to those decisions and should instead expand the reasoning.
+[9] Furthermore, the Appellant's Agents believe that Quebec's Regulation respecting the determination of child support payments,[4] like the Federal Child Support Guidelines,[5] does not take into account the credit for a wholly dependent person in the determination of support. Therefore, the taxpayer is denied the credit for a wholly dependent person on the ground that he or she pays child support. However, that support is determined without taking into account the fact that the paying parent cannot receive the credit in subsection 118(1) of the Act because he or she pays support. The Appellant's Agents state:[6]
+[translation]
+In most cases, the provincial rules are applied and accordingly, in the instant case, those of Quebec. Under the Quebec rules, the tax credit for a wholly dependent person is not taken into account in the determination of support. It is not justified to state, as the Respondent did at page 15 of her explanatory notes, that the federal guidelines for determining child support payments take into account the tax credit for a wholly dependent person provided for in paragraph 118(1)(b) of the Act in the determination of that support because they are not applicable in the case at bar any way. Also, the Respondent did not show in her explanatory notes that the federal legislator did indeed take the credit in question into account. In fact, nothing seems to indicate that the legislator actually took it into consideration. ...
+Analysis
+[10] In order to determine whether subsection 118(5) violates section 15 of the Charter, I must consider the following three issues:
+- whether a law imposes differential treatment between the applicant and others, in purpose or effect;
+- whether one or more enumerated or analogous grounds of discrimination are the basis for the differential treatment; and
+- whether the law in question has a purpose or effect that is discriminatory within the meaning of the equality guarantee.
+Differential treatment
+[11] In my opinion, it is clear that the application of subsection 118(5) of the Act results in differential treatment: the taxpayer who is separated and has joint custody of his or her children but who does not pay child support will be entitled to the credit for a wholly dependent person whereas this will not be the case for the taxpayer in the same situation but who does not pay [sic] child support.
+Personal characteristics
+[12] The Appellant's Agents maintain that the Appellant is being discriminated against based on his family status and that it is a personal characteristic contemplated in section 15 of the Charter. In support of their claim that family status is a personal characteristic, they refer to the reasons of Hugessen J. in Thibaudeau[7] where he states "the qualities of being separated and a parent are 'personal characteristics.'"[8]
+They therefore state [translation] "that the necessity of having to pay child support must also be considered a personal characteristic." [9]
+[13] First, it is important to note that the judgment in Thibaudeau was set aside by the Supreme Court of Canada.[10] In that case, the Supreme Court of Canada had to determine whether paragraph 56(1)(b) of the Act violated section 15 of the Charter. It should be noted that this case predated the change in tax treatment. The Supreme Court of Canada decision in Thibaudeau, supra, was far from unanimous. La Forest and Sopinka JJ. concurred in Gonthier J.'s reasons and conclusions; Cory and Iacobucci JJ. agreed with the Gonthier J.'s conclusions but made a point of adding some clarifications; also, L'Heureux-Dubé and McLachlin JJ. both rendered dissenting reasons. Given those divergent opinions, it is appropriate to review the Supreme Court of Canada's decision in detail.
+[14] In Thibaudeau, supra, Gonthier J. explained that the group affected by the distinction resulting from the application of paragraph 56(1)(b) of the Act consisted of separated or divorced couples in which one parent is paying support to the other under a judgment or agreement:[11]
+As I noted earlier, in order to decide whether the system is prejudicial it must be placed in context by comparing the treatment of parents covered by the special inclusion/deduction system with that which they would receive in the absence of such a system, namely that of parents to whom ss. 56(1)(b) and 60(b) ITA do not apply but who nevertheless have a support obligation.
+Since the group affected by the distinction was the couple, Gonthier J. concluded that it was a personal characteristic similar to those referred to in section 15 of the Charter.
+[15] In his reasons, Gonthier J. stated that the Act is distinctive in that it creates, by its very nature, differential treatment:[12]
+It is of the very essence of the ITA to make distinctions, so as to generate revenue for the government while equitably reconciling a range of necessarily divergent interests. In view of this, the right to the equal benefit of the law cannot mean that each taxpayer has an equal right to receive the same amounts, deductions or benefits, but merely a right to be equally governed by the law. The basic purpose of s. 15 of the Charter was explained by McIntyre J. in Andrews, supra, at p. 171:
+It is clear that the purpose of s. 15 is to ensure equality in the formulation and application of the law. The promotion of equality entails the promotion of a society in which all are secure in the knowledge that they are recognized at law as human beings equally deserving of concern, respect and consideration.
+That being the case, one should not confuse the concept of fiscal equity, which is concerned with the best distribution of the tax burden in light of the need for revenue, the taxpayers' ability to pay and the economic and social policies of the government, with the concept of the right to equality, which as I shall explain in detail later means that a member of a group shall not be disadvantaged on account of an irrelevant personal characteristic shared by that group.
+[16] According to Gonthier J., family law must determine child support by taking into account the tax consequences. Consequently, if this task is not properly performed because of the family law provisions, this does not cause paragraph 56(1)(b) of the Act to violate section 15 of the Charter:[13]
+The fact that the tax saving resulting from the inclusion/deduction system does not benefit both parents in equal proportion therefore does not infringe the equality rights protected by the Charter. Additionally, I would note that there is no evidence in this connection to show that the recipient parent or the children would benefit by taxation in the hands of the payer of the alimony, as the ordinary rules of taxation under the general system would postulate. In fact, in that case it appears that the latter's ability to pay would be reduced in total (he would be unable to deduct the amounts paid in computing his income) and over time (he would be unable to benefit from the special arrangements allowing the payer of support to reduce the amount of his source deductions).
+In short, the fact that the support may not be increased by an amount equal to the payer's tax relief or the recipient's tax increase does not as such place the latter at a disadvantage since in principle the distribution takes place in accordance with family law, which is incorporated into the tax system by reference and the aims of which are promoted by contributing to an alleviation of the tax burden. Additionally, such results, if any, depend primarily on the individual case. They do not establish a disadvantage for the group.
+Reference has been made to the fact that family law does not achieve an equal distribution and leaves the custodial parent, usually the mother, relatively deprived, or at least leaves her saddled with a larger and disproportionate share of the burden. It is said that the deduction/inclusion system exacerbates the problem. It is thus incorrect, even accepting the argument as stated, to say that this system is the source of the problem even though, on that view of the matter, it may make the situation worse. The system thus cannot be blamed for the problem of the limited resources of custodial parents, which the system aims to relieve and does in fact relieve in general by reducing the amount collected in tax and leaving a larger part of the parents' income at their disposal to meet their requirements for maintaining their children. This is a benefit not enjoyed by other parents. Accordingly, the complaint is not in effect aimed at this benefit but rather bears upon the failure of certain non-custodial parents to fulfil their obligations to their children adequately, in view of the tax relief which they receive. This situation it is said should bar the government from allowing the non-custodial parent who supports the family a larger amount of disposable income in order to fulfil his obligations to his children, as defined by the law itself and the amount of which is set by a formal agreement or fixed by a decree. All parents would thus be deprived of this greater latitude and freedom to discharge their responsibilities.
+The impugned system provides an overall benefit to couples supporting children. The defects, not in the legislation, which provides for a sharing according to the children's best interests, but in its application in certain cases for reasons quite unrelated to the system, may lead one to conclude that the remedy chosen by Parliament is inadequate to solve fully a profound and complex social problem, but not that it causes prejudice to those it benefits. There is absolutely nothing to show that parents, even custodial parents, would be in a better position as a group if the system did not exist. In the first place, legislation must be assessed in terms of the majority of cases to which it applies. The fact that it may create a disadvantage in certain exceptional cases while benefiting a legitimate group as a whole does not justify the conclusion that it is prejudicial. Secondly, the fact that the benefits sought are not fully achieved on account of problems not with the legislation but arising out of the circumstances or the nature of the subject matter, in particular in the area of the family, does not turn those benefits into disadvantages. Any inequalities are peculiar to specific cases, though there may be many of them; they relate to economic interests and are most likely to affect parents who are better off, at income levels where the dignity of the person is not at stake.
+[17] Cory and Iacobucci JJ. concurred in the conclusion of Gonthier J. stating that the family unit was the group contemplated. Although they arrived at the same result, Cory and Iacobucci JJ. made a point of adding the following comments:[14]
+We would stress that courts should be sensitive to the fact that intrinsic to taxation policy is the creation of distinctions which operate, as noted by Gonthier J., to generate fiscal revenue while equitably reconciling what are often divergent, if not competing, interests. As must any other legislation, the Income Tax Act is subject to Charter scrutiny. The scope of the s. 15 right is not dependent upon the nature of the legislation which is being challenged. See Symes v. Canada, [1993] 4 S.C.R. 695. In the present case, however, in determining whether the distinction has the effect of creating a burden, it is necessary to examine the interaction between ss. 56(1)(b) and 60(b) of the Income Tax Act and the family law regime. Unlike the situations presented in Symes and in Egan, the impugned provisions in this appeal explicitly incorporate and are dependent upon both federal and provincial legislative enactments and do not, by themselves, constitute a complete self-contained code. Therefore the Income Tax Act provisions must be looked at in conjunction with the federal and provincial statutes under which child support orders are issued in order to assess the effect upon the claimant.
+In the present appeal, ss. 56(1)(b) and 60(b) of the Income Tax Act are triggered by the issuance of a support order pursuant to the Divorce Act, R.S.C. 1970, c. D-8. Accordingly, the taxation provisions operate in close conjunction with family law. The amount of income taxable under ss. 56(1)(b) and 60(b) is determined by the divorce or separation decree and, unless the family law system operates in a defective manner, the amount of child support will include grossing-up calculations to account for the tax liability that the recipient ex-spouse shall incur on the income. If there is any disproportionate displacement of the tax liability between the former spouses (as appears to be the situation befalling Ms. Thibaudeau), the responsibility for this lies not in the Income Tax Act, but in the family law system and the procedures from which the support orders originally flow. This system provides avenues to revisit support orders that may erroneously have failed to take into account the tax consequences of the payments. Therefore, in light of the interaction between the Income Tax Act and the family law statutes, it cannot be said that s. 56(1)(b) of the Income Tax Act imposes a burden upon the respondent within the meaning of s. 15 jurisprudence.
+...
+In sum, this is not a case in which this Court is called upon to determine whether the distinction that has been created is actually discriminatory. Simply put, there is no burden. Accordingly, this appeal can thus be disposed of at this stage of the s. 15 analysis. It follows that there is no need to enter the next stage, that of finding discrimination, the level at which the opinions of our colleagues appear to diverge conceptually. In so far as we disagree with McLachlin J.'s conclusion that ss. 56(1)(b) and 60(b) of the Income Tax Act occasion a burden, our disagreement is limited to an application of her approach to the facts of this case, not with her methodology per se, which we endorse. By corollary, our concurrence with Gonthier J. in the disposition of this appeal is one of result, not of method. This conclusion emerges because, in the instant case, we find that there is no denial of any benefit of the law within the context of s. 15.
+[18] On the contrary, L'Heureux-Dubé and McLachlin JJ., for different but not contradictory reasons, were of the opinion that paragraph 56(1)(b) of the Act violated section 15 of the Charter. Essentially, they maintained that the comparison group was not the family or the couple but rather divorced parents who have custody of the children. McLachlin J. added that the family law regime did not prevent inequalities such that using those rules would serve no purpose:[15]
+... In short, the family law regime failed to rectify the inequality which the tax law imposed on Ms. Thibaudeau. Even if she were to seek a variation in child support, there is no assurance that the result would be full indemnity. Ms. Thibaudeau's case, far from isolated, negates the notion that the family law regime neutralizes the discriminatory impact of the tax law.
+I conclude that the requirement of s. 56(1)(b) ITA that separated or divorced custodial parents include child support in their taxable income imposes obligations on separated or divorced custodial parents that do not apply to others in similar situations and denies benefits which the law accords to others. It denies the right of custodial parents to equal protection and benefit of the law. Unequal treatment under s. 15 is established.
+[19] In summary, the Supreme Court of Canada concluded that paragraph 56(1)(b) of the Act did not violate the Charter. Relying heavily on Thibaudeau, supra, Hershfield J. recently decided that a taxpayer's obligation to include in his or her income the amounts received as spousal support (not to be confused with child support) did not violate section 15 of the Charter.[16]
+[20] Is the Appellant, because of subsection 118(5) of the Act, being treated differently based on a personal characteristic? I must respond to that question in the negative. Although the Appellant's Agents maintain that the differential treatment endured by the Appellant results from his family status, the differential treatment is, in my opinion, caused by his obligation to pay child support. Therefore, it is not a personal characteristic analogous to those listed in section 15 of the Charter. The obligation results from family status, whether it is a personal characteristic or not. However, the fact of being a separated or divorced parent is not the reason why the Appellant is not entitled to the credit in paragraph 118(1)(b) of the Act. The Appellant was denied the credit in paragraph 118(1)(b) of the Act because he pays child support to his former spouse. Thus, the Appellant was treated differently than other separated or divorced parents who do not pay child support. The distinction depends on the pecuniary obligation resulting from an obligation to pay child support. Section 15 of the Charter seeks to prohibit differential treatment based on personal characteristics, i.e. characteristics tied to the dignity of a person such as race, national or ethnic origin, colour, religion, sex, age, physical or mental disability and all analogous grounds. Since a pecuniary obligation is not a personal characteristic analogous to those set out in section 15 of the Charter, the Appellant is not, in my opinion, being treated differently under that section of the Charter.
+[21] I believe that the Respondent is correct in stating that Nelson v. Canada, 2000 DTC 6556, [2000] F.C.J. No. 1613 is relevant even though this decision predates the change in tax treatment. In that case, Mr. Nelson and his former spouse shared custody of their children and Mr. Nelson paid a certain amount as child support. Like the Appellant, Mr. Nelson maintained that subsection 118(5) of the Act violated section 15 of the Charter. The Federal Court of Appeal, per Sharlow J.A., concluded:[17]
+In my view, the differential treatment created by subsection 118(5) of the Income Tax Act is not based on one of the grounds enumerated in subsection 15(1) of the Charter or an analogous ground. Subsection 118(5) does not draw a distinction between Mr. Nelson and the comparator group based on personal characteristics, or the stereotypical application of presumed group or personal characteristics, and does not bring into play the purpose of subsection 15(1) of the Charter in remedying such ills as prejudice, stereotyping, and historical disadvantage. Nor does the operation of subsection 118(5) of the Income Tax Act offend Mr. Nelson's dignity, intrinsic worthiness or self-respect. Therefore, the differential treatment resulting from subsection 118(5) is not discriminatory in the Charter sense.
+The premise underlying Mr. Nelson's argument is that Parliament should provide equal tax relief to all single parents who support their children in a shared custody arrangement. While that may be a laudable public policy objective, it is not one that can be advanced through a claim under subsection 15(1) of the Charter. Mr. Nelson's remedy lies with Parliament alone.
+(Emphasis added)
+[22] That conclusion must, in my opinion, apply to this case. It is true that the effect of the change in tax treatment plays a significant role in the current problem. However, this element comes into consideration at the third stage of the analysis where it is necessary to determine whether subsection 118(5) of the Act is discriminatory, in purpose or effect, within the meaning of the equality guarantee. Accordingly, an argument based on the change in tax treatment is not appropriate at this stage. Consequently, subsection 118(5) of the Act does not create, in my opinion, differential treatment based on one of the grounds listed in subsection 15(1) of the Charter or an analogous ground and the appeal can be dismissed on that basis alone.
+Discriminatory purpose or effect
+[23] Notwithstanding the foregoing and assuming that the Appellant was treated differently based on a personal characteristic (his family status), I am of the opinion that the differential treatment is not discriminatory in purpose or effect.
+[24] The Appellant's Agents essentially raise two arguments. First, they believe that subsection 118(5) of the Act is discriminatory because of the change in tax treatment. Second, they believe that subsection 118(5) of the Act is discriminatory because Quebec's Regulation respecting the determination of child support payments, like the Federal Child Support Guidelines, does not take into account the impact of that support on the right to the credit for a wholly dependent person.
+[25] In Law v. Canada (Minister of Employment and Immigration), [1999] 1 S.C.R. 497, the Supreme Court of Canada, per Iacobucci J., stated that one of the questions to ask when analyzing section 15 of the Charter is the following:[18]
+Does the differential treatment discriminate, by imposing a burden upon or withholding a benefit from the claimant in a manner which reflects the stereotypical application of presumed group or personal characteristics, or which otherwise has the effect of perpetuating or promoting the view that the individual is less capable or worthy of recognition or value as a human being or as a member of Canadian society, equally deserving of concern, respect, and consideration?
+[26] I cannot say that the differential treatment caused by the application of subsection 118(5) of the Act is discriminatory due to the change in tax treatment because the result of the application of subsection 118(5) of the Act is identical before and after the change in tax treatment. Before the change in tax treatment, the Appellant could deduct the child support he paid when computing his income, while his former spouse had to include that amount when computing her income. With respect to the credit for a wholly dependent person, the Appellant was not entitled to it because he paid child support. After the change in tax treatment, the Appellant can no longer deduct the child support he pays when computing his income and his former spouse is not required to include the amount received when computing her income. As for the credit for a wholly dependent person, the Appellant is still not entitled to it because he pays child support. The fact of the matter is that the differential treatment resulting from the application of subsection 118(5) of the Act is the same before and after the change in tax treatment.
+[27] Since subsection 118(5) of the Act did not violate section 15 of the Charter before the change in tax treatment[19] and since the Supreme Court of Canada stated that the change in tax treatment does not violate section 15 of the Charter,[20] it is appropriate to conclude that the effect of the change in tax treatment is not to make subsection 118(5) of the Act violate section 15 of the Charter. To conclude otherwise would equal challenging the validity of the change in tax treatment under the Charter, whereas the Supreme Court has already ruled in that regard. I refer to the statements of Gonthier J. in Thibaudeau:[21]
+It is of the very essence of the ITA to make distinctions, so as to generate revenue for the government while equitably reconciling a range of necessarily divergent interests. In view of this, the right to the equal benefit of the law cannot mean that each taxpayer has an equal right to receive the same amounts, deductions or benefits, but merely a right to be equally governed by the law. The basic purpose of s. 15 of the Charter was explained by McIntyre J. in Andrews, supra, at p. 171:
+It is clear that the purpose of s. 15 is to ensure equality in the formulation and application of the law. The promotion of equality entails the promotion of a society in which all are secure in the knowledge that they are recognized at law as human beings equally deserving of concern, respect and consideration.
+That being the case, one should not confuse the concept of fiscal equity, which is concerned with the best distribution of the tax burden in light of the need for revenue, the taxpayers' ability to pay and the economic and social policies of the government, with the concept of the right to equality, which as I shall explain in detail later means that a member of a group shall not be disadvantaged on account of an irrelevant personal characteristic shared by that group.
+[28] The Appellant's Agents submit that subsection 118(5) of the Act completely and undeniably ignores the fact that the Appellant needs those tax credits not only for his benefit, but for the good of his son.[22] That statement is incorrect given the fact that the parent who receives child support payments is entitled to the credit for a wholly dependent person. Thus, the child benefits from the credit for a wholly dependent person through the parent receiving the child support payments.
+[29] Furthermore, the Appellant's Agents mention that the Quebec government considered it appropriate to eliminate that inequality between taxpayers by granting support payers the opportunity to claim those tax credits.[23] They state that the purpose of the change was to rebalance the economic strengths between the parties so as to allow everyone the same benefits under the Act.[24] It is highly possible that the Quebec legislator made that legislative choice for precisely that reason. However the federal legislator and this Court are not bound by that choice.
+[30] The Appellant's Agents also state that the distinction resulting from the application of subsection 118(5) of the Act is discriminatory because Quebec's Regulation respecting the determination of child support payments, like the Federal Child Support Guidelines, does not take the credit for a wholly dependent person into account.
+[31] In my opinion, that claim is also incorrect because the Federal Child Support Tables seem to have been designed with a number of elements in mind, including the credit for a wholly dependent person, as indicated in the Federal Child Support Guidelines:[25]
+6. The formula referred to in note 5 sets support amounts to reflect average expenditures on children by a spouse with a particular number of children and level of income. The calculation is based on the support payer's income. The formula uses the basic personal amount for non-refundable tax credits to recognize personal expenses, and takes other federal and provincial income taxes and credits into account. Federal Child Tax benefits and Goods and Services Tax credits for children are excluded from the calculation. At lower income levels, the formula sets the amounts to take into account the combined impact of taxes and child support payments on the support payer's limited disposable income.
+(Emphasis added)
+[32] Thus, in setting out the child support amounts, the Federal Guidelines assume that the support payer will not be entitled to the credit for a wholly dependent person. Consequently, although the taxpayer paying child support does not benefit from the credit for a wholly dependent person because he or she pays support, the support paid by that taxpayer was established based on the fact that he or she is not entitled to receive the personal tax credit in question.
+[33] Without evidence refuting the legislator's claim that the formula used to establish the Federal Guideline Tables takes into account the denial of the tax credit in subsection 118(1) of the Act for the taxpayer who pays child support, I cannot reach such a conclusion. The part of the 1996 budget entitled "The New Child Support Package" indicates, at page 12, that:
+The Schedule amounts are fixed by a formula that calculates the appropriate amount of support in light of economic data on average expenditures on children across different income levels. The formula reserves a basic amount of income for the payer's self-support, and adjusts for the impact of federal and provincial income taxes. There are separate tables for each province to take differences in provincial income tax rates into account. The Schedules for each province and territory are included in the Annex.
+The Honourable Paul Martin made the following comments concerning the legislator's decision to change the tax treatment:[26]
+The equivalent-to-married credit is provided to a single parent of a child under the age of 18. Currently, the Income Tax Act provides that the recipient of child support, not the payer, is eligible to claim the credit.
+This treatment will continue to apply under the new rules. This approach is consistent with the new federal child support guidelines, under which award levels are set based on the assumption that it is the recipient spouse who claims the equivalent-to-married credit.
+And:[27]
+Subsection 118(5) of the Act provides that an individual who is entitled to a deduction under paragraph 60(b), (c) or (c.1) of the Act in respect of a support payment for the maintenance of a spouse or child is not also entitled to claim a credit under section 118 in respect of that spouse or child.
+Subsection 118(5) is amended as a consequence of the changes to the treatment of child support. As amended, subsection 118(5) provides that an individual is not entitled to claim a credit under subsection 118(1) in respect of a person if the individual is required to pay a support amount to his or her spouse or former spouse for that person and the individual either is living separate and apart from the spouse or former spouse throughout the year because of marriage breakdown or is claiming a deduction for support payments.
+Under this new wording, where an individual is required to make child or spousal support payments in years following the year of marriage breakdown, no credits under subsection 118(1) will be available to the individual in respect of the spouse or child, even in cases where such support payments are not made or, if made, are not deductible. In the year in which a marriage breakdown occurs, an individual may be able to claim credits under subsection 118(1) if he or she does not claim a deduction for support payments.
+These amendments apply to the 1997 and subsequent taxation years.
+I must conclude that the Federal Child Support Guidelines do take the credit for a wholly dependent person into account. Therefore, the Appellant has not met the burden of proving the opposite effect and thus that argument must be dismissed.
+[34] If I am incorrect in concluding that the Federal Guidelines take the credit for a wholly dependent person into account, it still remains that subsection 118(5) of the Act does not violate section 15 of the Charter. Although not taking the credit for a wholly dependent person into account when determining support could seem unfair, even discriminatory, the differential treatment is not based on a ground contemplated in section 15 of the Charter.[28] At the very most, and still assuming that the Federal Guidelines do not take the credit into account, I would say that it is an unwise legislative decision from a policy perspective, without being invalid under section 15 of the Charter.
+[35] Also, child support is determined by taking into account, among other things, the custody arrangement and the financial capacity of each parent. Therefore, the support paid by the Appellant is supposed to take into account the fact that the children are with him every seven days, for a period of seven days (joint custody), and it is supposed to be determined by taking into account his income.[29] For those reasons, if the systems for determining support amounts do not take into account the fact that the paying parent will not be able to benefit from the credit for a wholly dependent person, I believe, reiterating the statements of Cory and Iacobucci JJ., that:[30]
+... the responsibility for this lies not in the Income Tax Act, but in the family law system and the procedures from which the support orders originally flow. This system provides avenues to revisit support orders that may erroneously have failed to take into account the tax consequences of the payments.
+[36] As for the Regulation respecting the determination of child support payments, it is true that it does not expressly take the credit for a wholly dependent person into account.[31] Although the result is unfortunate, it is beyond the federal legislator's jurisdiction. We cannot conclude that a federal provision violates section 15 of the Charter because the application of that provision with regard to a provincial statute produces a result that is "possibly" discriminatory.[32] It is up to the provincial legislators to adapt their statutes accordingly.
+[37] In conclusion, the differential treatment experienced by the Appellant is not based on a personal characteristic contemplated in section 15 of the Charter. At the most, if the differential treatment is indeed based on a personal characteristic, i.e. the Appellant's family status, the distinction is not discriminatory. Therefore, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 5th day of May 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+CITATION:
+2004TCC293
+COURT FILE NO.:
+2003-2521(IT)I
+STYLE OF CAUSE:
+Pierre Frégeau
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 20, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF JUDGMENT:
+May 5, 2004
+APPEARANCES:
+For the Appellant:
+Albina Mulaomerovic and Isabelle Paradis (law students)
+For the Respondent:
+Agathe Cavanagh (articling student)
+COUNSEL OF RECORD:
+For the Appellant :
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] At paragraph 45, page 211
+[2] Appellant's written notes (document in a red binder), pages 18-19.
+[3] Appellant's written notes (document in a red binder), pages 24-25.
+[4] R.R.Q. 1981, c. C-25, r.1.2.
+[5] SOR/97-175.
+[6] Appellant's Reply, page 5.
+[7] [1994] 2 F.C. 189 (Trial Division), page 206.
+[8] Appellant's Reply, page 9.
+[9] Ibid.
+[10] [1995] 2 S.C.R. 627.
+[11] Paragraph 132.
+[12] Paragraph 91.
+[13] Paragraphs 140 to 143.
+[14] Paragraphs 159, 160 and 164.
+[15] Paragraphs 201 and 202.
+[16] Bailey v. Canada, [2004] T.C.J. No. 44.
+[17] Paragraphs 12 and 13.
+[18] [1999] 1 S.C.R. 497, paragraph 88.
+[19] Landon v. Canada, [1997] T.C.J. No. 1288; Paquette v. Canada (Minister of National Revenue - M.N.R., [1999] T.C.J. No. 944; Nelson v. Canada, [2000] F.C.J. No. 1613; Keller v. Canada, [2002] T.C.J. No. 330.
+[20] Thibaudeau v. Canada, [1995] 2 S.C.R. 627.
+[21] Ibid. paragraph 91.
+[22] Appellant's written notes (document in a red binder), pages 24-25.
+[23] Appellant's written notes (document in a red binder), page 19.
+[24] Ibid.
+[25] Federal Child Support Guidelines, Schedule I, Note 6.
+[26] Budget Plan, Including Supplementary Information and Notices of Ways and Means Motions, Tabled in the House of Commons by the Honourable Paul Martin, P.C., M.P., Minister of Finance, on March 6, 1996, page 152.
+[27] Explanatory Notes to Legislation Relating to Income Tax, published by the Honourable Paul Martin, P.C., M.P., Minister of Finance, December 1996, pages 78-79.
+[28] In that regard, see paragraphs 12 to 22 of this analysis.
+[29] This is what is indicated in the Regulation respecting the determination of child support payments (section 3 and Schedule I) and the Federal Child Support Guidelines (section 9). In the case at bar, the child support paid by the Appellant was determined under the Regulation respecting the determination of child support payments.
+[30] [1995] 2 S.C.R. 627, paragraph 160.
+[31] See Schedule I of the Regulation respecting the determination of child support payments, which corresponds to the Child Support Determination Form.
+[32] I use the term "possibly" because the fact that a child support determination system does not take into account the existence of a personal tax credit does not mean that there is undoubtedly discrimination. It is possible that the legislator wanted to benefit the support recipient twice. I again refer to the statements of Gonthier J. in Thibaudeau: "It is of the very essence of the ITA to make distinctions, so as to generate revenue for the government while equitably reconciling a range of necessarily divergent interests. In view of this, the right to the equal benefit of the law cannot mean that each taxpayer has an equal right to receive the same amounts, deductions or benefits, but merely a right to be equally governed by the law."

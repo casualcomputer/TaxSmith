@@ -1,0 +1,194 @@
+---
+title: "1392644 Ontario Inc. o/a Connor Homes v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26257/index.do"
+last_modified: "2003-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 816"
+citation2: ""
+neutral_citation: "2003 CCI 816"
+decision_date: "2003-11-24"
+language: "fr"
+item_id: "26257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3988
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:29:33.305000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "369717513a65327b1d7d611c2da8101e1e05d912097912a6143fbd62fc03e9b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1392644 Ontario Inc. o/a Connor Homes v. M.N.R.
+
+- Citation: 2003 CCI 816
+- Decision date: 2003-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3988, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1392644 Ontario Inc. o/a Connor Homes v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-24
+Référence neutre
+2003 CCI 816
+Numéro de dossier
+2002-2668(EI), 2002-4299(EI), 2003-825(CPP), 2003-826(CPP)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2002-2668(EI)
+2003-826(CPP)
+ENTRE :
+1392644 ONTARIO INC., FAISANT AFFAIRE SOUS LA
+DÉNOMINATION SOCIALE CONNOR HOMES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 2 septembre 2003, à Belleville (Ontario), et
+jugement rendu oralement le 4 septembre 2003
+par l'honorable C.H. McArthur.
+Comparutions :
+Avocats de l'appelante :
+Me William Innes et Me Brendan Bissell
+Avocat de l'intimé :
+Me Richard Gobeil
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en application du paragraphe 103(1) de la Loi sur l'assurance-emploi (la « Loi » ) est accueilli et la décision du ministre du Revenu national saisi d'une demande de révision présentée en application de l'article 92 de la Loi est annulée parce que Samantha L. Heyens n'exerçait pas un emploi assurable au sens de l'alinéa 5(1)a) de la Loi au cours de la période allant du 7 mars 2001 au 17 juillet 2001.
+L'appel interjeté en application de l'article 28 du Régime de pensions du Canada (le « Régime » ) est accueilli et la décision du ministre du Revenu national saisi d'une demande de révision présentée en application de l'article 27.1 du Régime est annulée parce que Samantha L. Heyens n'exerçait pas un emploi ouvrant droit à une pension au sens de l'alinéa 6(1)a) du Régime au cours de la période allant du 7 mars 2001 au 17 juillet 2001.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2003.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+Dossier : 2002-4299(EI)
+2003-825(CPP)
+ENTRE :
+1392644 ONTARIO INC., FAISANT AFFAIRE SOUS LA
+DÉNOMINATION SOCIALE CONNOR HOMES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 2 septembre 2003, à Belleville (Ontario), et
+jugement rendu oralement le 4 septembre 2003
+par l'honorable C.H. McArthur.
+Comparutions :
+Avocats de l'appelante :
+Me William Innes et Me Brendan Bissell
+Avocat de l'intimé :
+Me Richard Gobeil
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en application du paragraphe 103(1) de la Loi sur l'assurance-emploi (la « Loi » ) est rejeté et la décision du ministre du Revenu national saisi d'une demande de révision présentée en application de l'article 92 de la Loi est confirmée parce que Janet Gawley exerçait un emploi assurable au sens de l'alinéa 5(1)a) de la Loi au cours de la période allant du 10 mai 2000 au 18 janvier 2001.
+L'appel interjeté en application de l'article 28 du Régime de pensions du Canada (le « Régime » ) est rejeté et la décision du ministre du Revenu national saisi d'une demande de révision présentée en application de l'article 27.1 du Régime est confirmée parce que Janet Gawley exerçait un emploi ouvrant droit à une pension au sens de l'alinéa 6(1)a) du Régime au cours de la période allant du 10 mai 2000 au 18 janvier 2001.
+Signé à Ottawa, Canada, ce 11e jour de septembre 2003.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+Référence : 2003CCI816
+Date : 20031124
+Dossiers : 2002-2668(EI)
+2003-826(CPP)
+2002-4299(EI)
+2003-825(CPP)
+ENTRE :
+1392644 ONTARIO INC., FAISANT AFFAIRE SOUS LA
+DÉNOMINATION SOCIALE CONNOR HOMES,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocats de l'appelante : Me William Innes et Me Brendan Bissell
+Avocat de l'intimé : Me Richard Gobeil
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le
+4 septembre 2003, à Belleville (Ontario).)
+Le juge McArthur
+[1] Il s'agit de la décision statuant sur les appels interjetés par 1392644 Ontario Inc., faisant affaire sous la dénomination sociale Connor Homes. Ces appels visent les décisions rendues par le ministre du Revenu national en vertu de la Loi sur l'assurance-emploi (la « Loi » ) et du Régime de pensions du Canada (le « Régime » ) selon lesquelles Janet Gawley et Samantha Heyens exerçaient un emploi assurable et ouvrant droit à une pension chez l'appelante au cours des périodes allant du 10 mai 2000 au 18 janvier 2001 et du 7 mars 2001 au 17 juillet 2001, respectivement. Vu le consentement des parties, la Cour ordonne que la pièce A-1, soit le dossier des documents, demeure scellée. Elle renferme des renseignements très personnels et délicats au sujet des enfants clients de Connor Homes.
+[2] Connor Homes exploite ou gère environ 40 résidences pour enfants atteints de graves troubles du comportement et du développement qui sont des pupilles d'organismes locaux d'aide à l'enfance. La question en litige dans les présents appels est celle de savoir si Janet et Samantha étaient des salariées de l'appelante ou des entrepreneurs indépendants ou, selon le libellé de la Loi, si leurs liens avec l'appelante découlaient d'un contrat de louage de services ou d'un contrat de services. Évidemment, l'appelante soutient que Janet et Samantha étaient des entrepreneurs indépendants. Samantha n'a pas assisté à l'audience parce que l'intimé n'a pas réussi à la trouver. Pour les motifs énoncés plus loin, les appels visant Samantha sont accueillis.
+[3] Chaque affaire dépend des faits qui lui sont propres. Je vais maintenant examiner la situation de Janet. L'appelante a présenté deux témoins, Paul Douglas Robichaud et Robert John Connor. Pendant la période pertinente en 2000 et en 2001, M. Robichaud était administrateur de secteur pour environ six résidences, tandis que M. Connor était le propriétaire et l'âme dirigeante de Connor Homes. Ils ont produit un sommaire de la façon dont les résidences Connor Homes étaient exploitées en ce qui concerne les travailleurs comme Janet et Samantha. Les faits suivants ne sont, pour la plupart, pas contestés.
+[4] L'appelante reçoit une allocation journalière pour chaque enfant dont elle prend soin. Les programmes de soins sont établis et continuellement modifiés par des comités composés de travailleurs sociaux représentant les sociétés d'aide à l'enfance compétentes, d'un représentant de l'appelante, de parents de foyer de groupe, de l'enfant et, selon la situation particulière de ce dernier, des parents biologiques et d'agents de probation.
+[5] Certains enfants reçoivent des soins individualisés particuliers qui doivent être approuvés par la société d'aide à l'enfance compétente de la province de l'Ontario. L'appelante reçoit des honoraires supplémentaires lorsqu'elle fournit de tels programmes de soins individualisés. Suivant les modalités des programmes de soins établis à l'intention de ces enfants, l'appelante est tenue d'offrir un éventail de services différents, y compris des évaluations psychologiques, des thérapies psychologiques, des services de préparation à la vie quotidienne, des programmes individualisés, le cas échéant, des services d'assistance sociale pour les parents de foyer de groupe ainsi que des services de transport. Les programmes individualisés, les services d'assistance sociale et les services de transport devaient être fournis par des travailleurs des services à l'enfance. Janet et Samantha étaient des travailleuses des services à l'enfance.
+[6] Les travailleurs des services à l'enfance n'avaient besoin que de très peu d'outils ou d'autre matériel. Ils étaient responsables du transport des enfants lorsque cela était nécessaire et les frais qu'ils engageaient leur étaient remboursés par l'appelante. Dans une certaine mesure, ils choisissaient leur propre horaire et pouvaient travailler autant ou aussi peu qu'ils le souhaitaient. Il ne fait aucun doute que, s'ils n'étaient pas disponibles, on ne faisait pas appel à eux. Ils n'avaient pas à fournir d'explications à l'appelante s'ils refusaient une mission ou prenaient des vacances. Ils pouvaient choisir des missions au cours de réunions avec l'appelante. Rien ne permet d'affirmer qu'ils ont accepté des missions offertes par d'autres organismes tandis qu'ils travaillaient pour l'appelante. Lorsqu'elle avait besoin d'un travailleur des services à l'enfance en vue d'une mission donnée, l'appelante avait recours à un répertoire de travailleurs des services à l'enfance et confiait la mission au premier travailleur qu'elle réussissait à joindre et qui acceptait cette charge. Dans certains cas, ce sont les parents de foyer de groupe qui communiquaient avec les travailleurs des services à l'enfance.
+[7] Janet a initialement présenté à l'appelante une demande afin de devenir parent de famille d'accueil. Il s'agit d'un long processus et elle est devenue une travailleuse des services à l'enfance dans l'attente que sa demande soit traitée. Elle a travaillé en cette qualité pendant environ huit mois. Lorsque l'appelante a jugé que ses services n'étaient plus satisfaisants, elle a rayé le nom de Janet de la liste des travailleurs des services à l'enfance. Dans les faits, Janet a été renvoyée. On a cessé de traiter sa demande visant à devenir parent de famille d'accueil. L'appelante a égaré le dossier de Janet et aucun contrat de travail signé n'a été produit par l'appelante. Janet a nié avoir signé un tel contrat, même si elle a mentionné avoir signé de nombreux documents au moment de son embauche à titre de travailleuse des services à l'enfance. Selon l'appelante, Janet a signé un contrat analogue à ceux qui se trouvent aux onglets 2 et 11 de la pièce A-1. Le contrat figurant à l'onglet 11 porterait censément la signature de Samantha.
+[8] Pendant son travail, Janet et tous les autres travailleurs des services à l'enfance devaient porter un t-shirt sur lequel était imprimé le logo de Connor Homes. Les employés devaient acheter ces vêtements de l'appelante pour environ 7,00 $. Une partie des tâches confiées à Janet consistait à entrer des données précises dans la base de données informatisée.
+[9] Janet est âgée de 54 ans. Elle a terminé sa 10e année, a suivi des cours dans un collège pendant un an et demi, puis a étudié pendant 10 mois au Maxwell College. Elle a travaillé comme secrétaire et comme travailleuse des services à l'enfance dans un foyer de groupe n'ayant aucun lien avec Connor Homes avant d'entrer au service de cette dernière, où elle recevait 10,00 $ l'heure ou 100,00 $ pour une période de nuit de 24 heures. Mme Connor agissait comme sa superviseure. Lorsqu'elle éprouvait des difficultés liées au travail, elle s'adressait à Mme Connor et Connor Homes se chargeait du problème.
+[10] J'arrive à la conclusion que l'appelante croyait en l'importance de faire régner la discipline. Elle n'avait d'autre choix si elle voulait satisfaire aux critères rigoureux imposés par la législation ontarienne. Janet relevait de l'autorité de l'appelante notamment en ce qui touche les aspects suivants : (i) elle était assujettie aux dispositions d'un contrat qui se trouve à l'onglet 2 de la pièce A-1; (ii) il fallait établir les factures sur du papier portant le logo de Connor Homes et remplir les nombreuses pages de renseignements détaillés qu'elles renfermaient; (iii) Janet devait porter un t-shirt sur lequel figurait le logo de Connor Homes à son travail; (iv) elle a dû convaincre l'appelante du fait qu'elle avait lu un long manuel et compris son contenu, d'une part, et qu'elle consentait à suivre les instructions qui y étaient énoncées (onglet 27 de la pièce A-1), d'autre part; (v) s'il survenait un problème touchant un enfant, elle s'en remettait à Connor Homes; (vi) elle pouvait se faire remplacer, mais uniquement par une personne dont le nom figurait sur la liste des personnes approuvées établie par Connor Homes; et (vii) elle croyait être une salariée et elle connaît la différence entre la situation de salarié et celle d'entrepreneur indépendant.
+[11] L'appelante a présenté des arguments approfondis et bien documentés, et elle a invoqué plusieurs décisions et facteurs à l'appui de la conclusion voulant que Janet soit un entrepreneur indépendant. Ces facteurs comprennent notamment les suivants : (i) Janet n'était pas supervisée; (ii) le contrat égaré la désignait comme un entrepreneur indépendant; (iii) elle avait toute latitude pour accepter du travail lié aux services à l'enfance que pouvaient lui proposer des concurrents; (iv) ses heures de travail étaient souples; et (v) l'avocat a souligné le fait que l'ensemble de la preuve devait être examiné soigneusement.
+[12] Il ressort de la jurisprudence qu'il n'existe pas de critères stricts en la matière. Il est inutile de se pencher sur les nombreuses décisions fournies. Comme il est mentionné plus haut, chaque affaire dépend des faits qui lui sont propres. Certains faits favorisent l'appelante, tandis que d'autres étayent la cause de l'intimé. Le juge MacGuigan de la Cour d'appel fédérale a énoncé un critère à quatre volets dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, 87 DTC 5025. Il a déclaré qu'aucun critère unique ne prédomine. Je crois que l'arrêt 671121 Ontario Limited c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, est maintenant le précédent le plus important lorsqu'il faut décider si une personne est un salarié ou un entrepreneur indépendant. La Cour d'appel fédérale a renvoyé à cet arrêt dans sa récente décision Wolf c. Sa Majesté la Reine, [2002] 4 C.F. 396, 2002 DTC 6853. Après avoir examiné le critère à quatre volets et le critère d'intégration, la Cour suprême du Canada a conclu que le critère fondamental consiste à se demander à qui appartient l'entreprise. Au paragraphe 60 de ses motifs, aux pages 6862 et 6863, le juge Desjardins cite les observations suivantes faites par le juge Major dans l'arrêt Sagaz :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstanceset des faits particuliers de l'affaire.
+[13] Les facteurs mentionnés comprennent le contrôle, la propriété de l'outillage, les chances de profits et les risques de pertes ainsi que l'intégration. Ce dernier facteur n'a jamais été d'une grande utilité. Que se passe-t-il lorsque le critère à quatre volets est appliqué? L'appelante a produit un dossier de documents qui comporte 27 onglets. Je vais en examiner quelques-uns très brièvement. L'onglet 2 renferme une liste établie à l'intention des travailleurs des services à l'enfance, une ébauche du contrat mentionné plus haut, une formule de demande ainsi qu'un serment de confidentialité pour les travailleurs bénévoles. À l'onglet 4 se trouve, imprimée sur du papier à en-tête de Connor Homes, une feuille de temps pour le mois de mai 2000 préparée et signée par Janet, précisant en détail ce qu'elle a fait, où elle l'a fait, quand elle l'a fait et pour qui elle l'a fait, de même que quelques descriptions des tâches accomplies. J'arrive à la conclusion que les éléments compris dans les onglets 2 et 4 jouent en faveur de la thèse voulant que Janet soit une salariée. Plusieurs feuilles de temps étaient incluses. L'onglet 27 consiste en un manuel de 35 à 40 pages que les travailleurs des services à l'enfance étaient tenus de lire et de comprendre avant de commencer à travailler pour l'appelante.
+[14] Je suis convaincu que la structure de l'emploi de Janet était établie par Connor Homes, qui était obligée de se conformer à la législation et à la réglementation applicables. Même s'il suit la réglementation provinciale, le manuel n'en demeure pas moins une importante source de contrôle que Connor Homes exerce sur Janet dans l'exercice de ses fonctions. L'avocat de l'appelante mentionne les rapports juridiques existant entre des parties sans lien de dépendance à partir de la page 12 de l'exposé des faits et du droit. Il invoque trois décisions, soit Sara Consulting and Promotions Inc. v. M.N.R., 2001 CarswellNat 2595, TSS-Technical Service Solutions Inc. v. M.N.R., 2002 CarswellNat 486, et Wolf v. The Queen, 2000 DTC 2595. À mon avis, ces décisions n'aident pas l'appelante dans la présente situation. Même si j'accepte le fait que Janet ait signé un contrat sur le modèle de ceux joints aux onglets 2 et 11 de la pièce A-1, cela n'appuie en rien la thèse de l'appelante. Je suis d'accord avec les observations suivantes que le juge Bell a formulées dans la décision Sara Consulting :
+[...] en l'absence d'une preuve claire et digne de foi selon laquelle la description d'une relation est autre que la description dont avaient convenu des parties sans lien de dépendance, la description dont ces parties avaient convenu doit être acceptée. Il y a absence d'une telle preuve claire et digne de foi en l'espèce.
+Dans la présente affaire, nous avons une preuve claire et digne de foi selon laquelle la qualification des travailleuses d' « entrepreneurs indépendants » ne reflétait pas la réalité. Le fait que Janet ait ou non signé le contrat importe peu. Elle se considérait comme une employée et, lorsqu'on lui demandait de travailler, elle faisait ce qu'on lui demandait de faire, même si elle a clairement mentionné qu'elle avait la possibilité de refuser du travail. Bien que Connor Homes n'ait pas directement supervisé son travail, Janet devait suivre des règles précises, comme celles énoncées dans le manuel et les feuilles de temps. Lorsqu'un problème grave survenait, par exemple si un enfant devenait impossible à maîtriser ou s'absentait sans permission, elle appelait Connor Homes et cette dernière s'en chargeait. Son autonomie n'était pas incompatible avec les relations employeur-employé dont bénéficie un employé qualifié. Je suis persuadé que l'appelante exerçait un contrôle sur la façon dont Janet remplissait ses fonctions pendant la journée de travail.
+[15] Un bref examen des autres facteurs m'amène à conclure que Janet était payée suivant un taux horaire et un taux de 24 heures fixés par Connor Homes. Elle n'établissait pas les taux elle-même. Elle recevait une somme fixe pour l'utilisation de son véhicule. Elle n'avait aucune voix au chapitre quant à son taux de salaire. Elle n'était payée que pour les heures qu'elle travaillait. Dans son témoignage, elle a déclaré qu'elle ne refusait jamais d'aller travailler lorsqu'on le lui demandait.
+[16] En ce qui a trait à l'outillage, elle fournissait son propre véhicule pour transporter les enfants à leurs divers rendez-vous ou différentes activités, mais on lui remboursait les frais liés à l'utilisation de son automobile. Cette situation est analogue à celle où on lui aurait fourni un véhicule loué. Elle utilisait son propre ordinateur à l'occasion.
+[17] La réponse à la question de savoir à qui appartenait l'entreprise ne fait aucun doute : elle n'appartenait pas à Janet. Dans l'ensemble, les relations de cette dernière avec Connor Homes offrent des indices de l'existence d'un emploi. L'indépendance dont elle jouissait est sensiblement éclipsée par le contrôle que Connor Homes exerçait à son endroit. Les appels relatifs à Janet sont rejetés.
+[18] Je me penche maintenant sur la situation de Samantha. Elle n'a pas témoigné. Dans leur témoignage pour le compte de l'appelante, M. Robichaud et M. Connor ont mentionné que Samantha était autonome et qu'elle remplissait ses fonctions quand et comment elle le décidait, à son entière discrétion. Elle était compétente et n'avait besoin d'aucune directive. Elle avait toute latitude pour refuser du travail ou pour travailler chez des tiers. Bien que l'appelante ait reconnu la véracité de nombreuses hypothèses de fait invoquées par le ministre du Revenu national et énoncées au paragraphe 8 de la réponse à l'avis d'appel, plusieurs autres ont été détruites.
+[19] Les hypothèses de fait sur lesquelles le ministre s'est appuyé en ce qui concerne Samantha et qui se trouvent au paragraphe 8 de la réponse à l'avis d'appel sont les suivantes :
+[TRADUCTION]
+a) L'appelante est une entreprise dont les activités touchent au soin et au traitement d'enfants troublés (les « enfants » ) auprès de divers organismes d'aide à l'enfance dans toute la province de l'Ontario;
+b) L'appelante est propriétaire de foyers de groupe et de foyers d'accueil qu'elle exploite;
+c) La travailleuse a été embauchée par l'appelante pour assurer une surveillance individualisée des enfants, pour formuler des observations sur leur comportement, pour assurer leur transport, pour rédiger des rapports et assurer la liaison avec les superviseurs et les organismes concernés;
+d) La travailleuse exécutait ses fonctions dans les foyers d'accueil, dans les foyers de groupe et ailleurs;
+e) La travailleuse exécutait ses fonctions en application d'une entente écrite faisant état de certains éléments, comme les fonctions, le code de déontologie et renseignements confidentiels;
+f) Les heures de travail de la travailleuse étaient fixées par l'appelante;
+g) Les heures de travail de la travailleuse étaient consignées sur une feuille de temps qui devait être signée par le parent de foyer de groupe concerné;
+h) L'appelante payait à la travailleuse un taux horaire de 10,00 $;
+i) Le taux de salaire de la travailleuse était fixé par l'appelante;
+j) L'appelante versait à la travailleuse un taux kilométrique pour le transport des enfants;
+k) L'appelante fournissait un ordinateur à la travailleuse;
+l) La travailleuse était tenue de dresser des rapports à l'intention de l'appelante.
+[20] Voici les conclusions que je tire de l'examen de chacune de ces hypothèses :
+a) Cette hypothèse est exacte, mais ne favorise pas une thèse au détriment de l'autre et n'est pas pertinente pour trancher la question en litige;
+b) Même conclusion que pour l'hypothèse 8a);
+c) Cette hypothèse est peut-être exacte;
+d) Je conclus que cette hypothèse est exacte, mais elle n'est d'aucune utilité pour trancher le litige;
+e) Aucun élément de preuve à cet effet n'a été produit par Samantha, bien que, selon la preuve présentée par l'appelante, cette travailleuse fût qualifiée;
+f) L'appelante a affirmé le contraire et n'a pas été contredite par l'intimé;
+g), h), i), j), k) et l) Ces hypothèses sont peut-être exactes, mais la travailleuse n'était pas présente pour les confirmer. Je n'accepte pas les hypothèses en l'absence du témoignage de celle-ci.
+[21] L'appelante a suffisamment réfuté les hypothèses de fait sur lesquelles le ministre s'est appuyé pour inverser la charge de la preuve. Le ministre ne pouvait prouver les hypothèses sans le témoignage de Samantha. Il me faudrait faire un acte de foi - ce que je ne suis pas disposé à faire - pour accepter que la situation de Samantha soit la même que celle de Janet. Chaque affaire tombant sous le coup de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi dépend en grande partie des faits qui lui sont propres. Samantha faisait peut-être l'objet d'une supervision moindre que Janet. D'autres circonstances étaient peut-être différentes.
+[22] Pour conclure, les appels relatifs à Janet sont rejetés et les appels relatifs à Samantha sont accueillis.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2003.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur

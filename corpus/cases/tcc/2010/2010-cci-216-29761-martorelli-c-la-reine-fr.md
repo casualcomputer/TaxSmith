@@ -1,0 +1,176 @@
+---
+title: "Martorelli c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29761/index.do"
+last_modified: "2010-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 216"
+citation2: ""
+neutral_citation: "2010 CCI 216"
+decision_date: "2010-04-22"
+language: "fr"
+item_id: "29761"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6507
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:03:57.408000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02477aec9fff919d3d0547268bcdaad94a9b72e8e0ab5cfc4cb9a13f421bcc82"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martorelli c. La Reine
+
+- Citation: 2010 CCI 216
+- Decision date: 2010-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6507, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martorelli c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-22
+Référence neutre
+2010 CCI 216
+Numéro de dossier
+2008-4049(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-4049(IT)I
+ENTRE :
+ROSARIO MARTORELLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 avril 2010 à Hamilton (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Erin Strashin
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a droit à une déduction de 8 467 $ au titre des frais afférents à un véhicule à moteur.
+Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 22e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 216
+Date : 20100422
+Dossier : 2008-4049(IT)I
+ENTRE :
+ROSARIO MARTORELLI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] La question en litige dans le présent appel concerne la déductibilité des frais afférents à un véhicule à moteur que l’appelant, M. Rosario Martorelli, a engagés pour se rendre au travail à un chantier de construction et en revenir. L’appel porte sur une cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2006.
+Le contexte factuel
+[2] Pendant près de 10 ans, l’appelant a travaillé en qualité d’ouvrier en bâtiment chez Aker Kvaerner Songer Canada Ltd., pour le bureau de ce dernier à Burlington, en Ontario.
+[3] Pendant toute la durée de l’emploi, l’appelant a travaillé sur divers chantiers de construction. Conformément à la convention collective applicable, chaque projet de construction auquel l’appelant était affecté était considéré comme un contrat de travail distinct.
+[4] En 2006, l’appelant a travaillé pendant toute l’année sur un chantier de construction situé sur les lieux anciennement connus sous le nom de Lake Erie Works. Le chantier est situé à Nanticoke, en Ontario, à environ 50 kilomètres de Hamilton où réside l’appelant.
+[5] Au cours d’autres années, l’appelant travaillait dans l’année sur plus d’un chantier de construction dont certains étaient situés en dehors de la région de Hamilton.
+[6] Au cours de l’année en cause, l’employeur a versé à l’appelant : (1) une allocation pour frais afférents à un véhicule à moteur de 8 467 $ pour les déplacements entre Hamilton et le chantier de construction, et (2) une allocation de repas de 409,84 $.
+[7] Selon le témoignage de l’appelant et du contrôleur de l’employeur, M. Mario Ongaro, la convention collective applicable prévoit que l’allocation pour frais afférents à un véhicule à moteur doit être considérée comme un revenu non imposable. J’admets ce témoignage et je tiens à souligner qu’il est contraire à une hypothèse formulée par le ministre du Revenu national (le « ministre ») dans l’établissement de la cotisation.
+[8] C’est en violation de la convention collective que l’employeur a inclus l’allocation pour frais afférents à un véhicule à moteur dans le revenu de l’appelant aux fins de la déclaration de revenu et des retenues à la source. Cette conclusion est fondée sur le témoignage de l’appelant et correspond à une hypothèse formulée par le ministre. M. Ongaro n’a pas été appelé à témoigner à ce sujet.
+[9] Contrarié par cette violation flagrante de la convention collective, l’appelant a demandé dans la déclaration de revenu de 2006, la déduction de ses frais réels afférents à un véhicule à moteur engagés pour les déplacements entre sa résidence et le chantier de construction. La déduction demandée était de 14 954,11 $.
+[10] La totalité de la déduction a été refusée dans la cotisation établie pour l’année d’imposition 2006.
+Analyse
+[11] Pour que l’appelant puisse déduire des frais afférents à un véhicule à moteur, il doit satisfaire aux exigences de l’alinéa 8(1)h.1)[1] et du paragraphe 8(10) de la Loi.
+[12] Ces dispositions sont reproduites ci-dessous :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+(ii) demandé une déduction pour l’année en application de l’alinéa f),
+[Non souligné dans l’original.]
+8(10) Un contribuable ne peut déduire un montant pour une année d’imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous-alinéas (1)i)(ii) ou (iii) que s’il joint à sa déclaration de revenu pour l’année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l’année.
+[13] L’avocat de l’intimée soutient qu’il n’avait pas été satisfait aux exigences de l’alinéa 8(1)h.1) parce que le seul endroit où l’appelant avait travaillé en 2006 était un chantier de construction à Nanticoke.
+[14] Deux passages de l’alinéa 8(1)h.1) concernent la présente demande et ils ont été soulignés ci-dessus. Ils seront examinés séparément.
+[15] Premièrement, l’alinéa 8(1)h.1) exige que le contribuable soit habituellement tenu d’exercer les fonctions de son emploi dans l’année ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits.
+[16] L’appelant n’a pas travaillé à différents endroits en 2006. La question est alors de savoir si l’appelant a travaillé ailleurs qu’au lieu d’affaires de son employeur au cours de cette année‑là.
+[17] Cette question en appelle une autre : celle de savoir si le chantier de construction de Nanticoke était un lieu d’affaires d’Aker, l’employeur.
+[18] Le principe applicable est celui qui veut que le chantier de construction soit le lieu d’affaires de l’entrepreneur pour les besoins de l’alinéa 8(1)h.1) si le chantier constitue un établissement stable de l’employeur : Dionne c. La Reine, 2006 CAF 79, [2006] 2 CTC 292; Champaigne c. La Reine, [2006] CCI 74, [2006] 2 CTC 2403; Potter c. La Reine, 2008 CCI 228, [2008] 5 CTC 2303.
+[19] Cette question n’a pas été clairement soulevée dans la réponse et elle n’a pas été mentionnée à l’audience.
+[20] Puisque le ministre n’a formulé aucune hypothèse relativement à cette question, le fardeau de la preuve revient à l’intimée.
+[21] Aucun élément de preuve n’a été produit pour ce qui est de savoir s’il était satisfait au critère, entre autres la question de savoir si l’employeur avait un bureau sur le chantier de construction. Je ne suis pas disposée dans ces circonstances à conclure que le chantier de Nanticoke était un lieu d’affaires de l’employeur. L’intimée ne s’est pas acquittée du fardeau de la preuve.
+[22] Par conséquent, il a été satisfait à cette exigence de l’alinéa 8(1)h.1) pour les besoins du présent appel.
+[23] Le deuxième critère de l’alinéa 8(1)h.1) auquel il faut satisfaire est celui qui veut que les frais aient été engagés pour l’accomplissement des fonctions de l’emploi.
+[24] Le juge en chef Bowman a décrit le principe général applicable dans la décision Toutov c. La Reine, 2006 CCI 187, 2006 DTC 2928. Il s’exprimait ainsi :
+[2] Bien sûr, la règle générale est que les frais de déplacement engagés entre le domicile d’un contribuable et son lieu de travail ne constituent pas une dépense déductible. Il s’agit d’un principe juridique établi depuis de nombreuses années. L’arrêt de principe à l’appui de cette assertion est la décision de la Chambre des lords dans l’arrêt Ricketts v. Colquhoun, [1926] A.C. 1, qui a été suivie par la Cour d’appel fédérale dans l’arrêt Hogg v. R., [2002] 3 C.T.C. 177.
+[3] La règle générale n’est pas inflexible, et il est possible d’y faire exception dans certaines circonstances. […]
+[25] À mon avis, une exception à la règle générale est applicable en l’espèce. L’appelant a travaillé sur des chantiers de construction temporaires, souvent à l’extérieur de sa municipalité et de celle où son employeur était établi. Il découle du bon sens, et du contexte de l’alinéa 8(1)h.1), que le fait de se rendre sur les chantiers de construction et d’en revenir ne constitue pas une activité personnelle mais fait partie des fonctions de l’emploi.
+[26] Les circonstances sont semblables à celles que j’ai récemment examinées dans Veinot c. La Reine, 2010 CCI 112.
+[27] Pour arriver à cette conclusion, j’ai tenu compte du très récent arrêt Colavecchia c. La Reine, 2010 CCI 194. Dans cet arrêt, le juge Margeson fait remarquer qu’il n’est pas toujours facile de concilier les décisions judiciaires antérieures concernant les frais de déplacement.
+[28] Aucune des parties n’a présenté des arguments détaillés en l’espèce, et je ne pense pas qu’il serait souhaitable de tenter d’analyser en profondeur la jurisprudence présentée dans le présent appel interjeté dans le cadre de la procédure informelle.
+[29] Compte tenu de ces conclusions, l’appelant a le droit de déduire les frais réels afférents à un véhicule à moteur qui ont été engagés. Il a été satisfait aux exigences de l’alinéa 8(1)h.1).
+[30] La question suivante consiste à savoir si le montant que déclare l’appelant représente une estimation raisonnable des frais engagés.
+[31] Selon la déclaration de revenu, la déduction a été calculée en fonction d’une distance de 37 300 kilomètres parcourue dans l’accomplissement des fonctions de l’emploi.
+[32] Très peu d’éléments de preuve ont été présentés à l’appui de ce chiffre qui est très différent du kilométrage que l’employeur avait reconnu pour les besoins du calcul de l’allocation pour frais afférents à un véhicule à moteur.
+[33] En 2006, l’appelant a reçu une allocation pour frais afférents à un véhicule à moteur de 8 467 $, calculée au taux de 41 cents par kilomètre, ce qui représente environ 21 000 kilomètres.
+[34] Il peut y avoir de bonnes raisons pour justifier le kilométrage que déclare l’appelant (37 300 kilomètres), mais les éléments de preuve qu’il a présentés à ce sujet n’étaient pas suffisants pour lui permettre de s’acquitter du fardeau de la preuve.
+[35] Dans les circonstances de l’espèce, une solution raisonnable est de conclure que l’allocation versée par l’employeur est une estimation raisonnable des frais engagés. Ce montant est de 8 467 $.
+[36] Enfin, je tiens à faire un bref commentaire au sujet de l’exigence du paragraphe 8(10). La réponse ne met pas clairement cette exigence en cause et, par conséquent, il n’est pas nécessaire que je l’examine.
+[37] Compte tenu de ces conclusions, l’appel est accueilli et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l’appelant a droit à une déduction de 8 467 $ au titre des frais afférents à un véhicule à moteur.
+[38] Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 22e jour d’avril 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de juin 2010.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 216
+No DU DOSSIER DE LA COUR : 2008-4049(IT)I
+INTITULÉ : ROSARIO MARTORELLI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 7 avril 2010
+MOTIFS DU JUGEMENT : L’Honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 22 avril 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Erin Strashin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans la réponse, l’intimée a invoqué l’alinéa 8(1)h) et non l’alinéa h.1). Même si ce n’est pas la disposition correcte qui a été invoquée, il n’en est pas résulté une injustice parce que les parties pertinentes des deux dispositions sont presque identiques.

@@ -1,0 +1,156 @@
+Title: Besner c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28747/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-404-28747-besner-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-07-03
+
+# Besner c. La Reine
+
+- Citation: 2008 CCI 404
+- Decision date: 2008-07-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1534, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Besner c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-03
+Référence neutre
+2008 CCI 404
+Numéro de dossier
+2007-764(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-764(IT)G
+ENTRE :
+MARK BESNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 28 mai 2008, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocat de l'appelant :
+Me Brent B. Olthuis
+Avocate de l'intimée :
+Me Selena Sit
+________________________________________________________________
+JUGEMENT
+L'appel est rejeté, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2008.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 19e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+Référence : 2008 CCI 404
+Date : 20080703
+Dossier : 2007-764(IT)G
+ENTRE :
+MARK BESNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge V. A. Miller
+[1] L'appelant interjette appel de nouvelles cotisations datées du 6 janvier 2005 pour ses années d'imposition 2000 et 2001, par lesquelles le ministre du Revenu national (le « ministre ») a augmenté son revenu de 109 732 $ et de 175 191 $ respectivement et a imposé des pénalités à l'égard du revenu supplémentaire, en application du paragraphe 163(2) (les « pénalités pour faute lourde ») de la Loi de l'impôt sur le revenu (la « Loi »).
+[2] Le principal point que l'appelant a débattu à l'audience est de savoir si le paragraphe 239(3) de la Loi s'applique, de sorte que les pénalités pour faute lourde n'auraient pas dû avoir été imposées. L'appelant ne conteste pas le montant des impôts établis. Le paragraphe 239(3) de la Loi est rédigé comme suit :
+239(3) Pénalité sur déclaration de culpabilité – La personne déclarée coupable d'infraction au présent article n'est passible d'une pénalité prévue aux articles 162, 163 ou 163.2 pour la même infraction que si une cotisation pour cette pénalité est établie à son égard avant que la dénonciation ou la plainte qui a donné lieu à la déclaration de culpabilité ait été déposée ou faite.
+[3] En particulier, l'appelant prend la position selon laquelle une « plainte » a été faite avant que la cotisation pour les pénalités pour faute lourde ait été établie et que, cela étant, ces pénalités devraient être supprimées. L'appelant a également soulevé les trois points suivants :
+a) L'alinéa 11h) de la Charte s'applique‑t‑il eu égard aux circonstances?
+b) Le principe énoncé dans l'arrêt R. c. Kienapple s'applique‑t‑il eu égard aux circonstances?
+c) Les intérêts courus depuis la date de l'avis d'opposition devraient‑ils être supprimés?
+[4] À mon avis, il n'y a jamais eu de plainte; les pénalités ont été à juste titre établies et l'appel devrait être rejeté.
+LES FAITS
+[5] En 2000 et en 2001, l'appelant était l'unique actionnaire de la société The Gulf Islands Food Company Inc. (« TGIF ») et un administrateur de Quinnbesner and Associates Inc. (« QB »), société exploitée par Mme Barbara Quinn, qui était alors son épouse. L'appelant et Mme Quinn détenaient également 55 p. 100 des actions de la société The CAIL Consulting Group of Companies Inc. (« CAIL »). L'appelant tenait les livres et registres de TGIF, de QB et de CAIL.
+[6] La preuve documentaire montre que l'Agence des douanes et du revenu du Canada (ci‑après appelée l'« ARC ») a commencé à vérifier les livres de TGIF et de QB au mois de février 2003. Kyam Smith était le vérificateur affecté aux dossiers de TGIF, de QB, de Barbara Quinn et de l'appelant. Monsieur Smith a renvoyé ces dossiers à la Division des enquêtes de l'ARC le 16 septembre 2003 en remplissant un formulaire T134. Dans ce formulaire, M. Smith énonçait les raisons pour lesquelles il demandait la tenue d'une enquête sur les livres et documents de l'appelant, de Barbara Quinn, de QB et de TGIF. Le 24 novembre 2003, M. Leo Resk, enquêteur au sein de la Division des enquêtes, et son superviseur ont accepté les dossiers pour enquête.
+[7] Le 3 février 2004, M. Resk a fait sous serment une Dénonciation en vue d'obtenir un mandat de perquisition l'autorisant à effectuer des perquisitions dans divers lieux où il y avait, selon ce qu'il croyait, des documents qui lui permettraient de déterminer le revenu imposable et l'impôt payable par QB, par TGIF et par l'appelant, ainsi que la TPS et la TPS nette qui devaient être déclarées par QB et par TGIF. Monsieur Resk croyait que cette preuve révélerait la perpétration d'infractions à la Loi et à la Loi sur la taxe d'accise.
+[8] Par suite de la perquisition et d'une analyse des documents saisis, M. Resk a préparé un rapport de poursuite (le « rapport ») daté du 10 janvier 2005, qu'il a envoyé au ministère de la Justice (le « MJ »). Le rapport renfermait des détails au sujet de l'enquête menée par l'ARC et comportait une ébauche des accusations que l'on se proposait de porter. Il semble que le rapport ait été envoyé au MJ le 11 janvier 2005 ou peu de temps après. Avant d'envoyer le rapport au MJ, le ministre, par l'entremise de M. Resk, a établi les pénalités pour faute lourde par un avis de nouvelle cotisation daté du 6 janvier 2005.
+[9] Le 9 février 2005, une dénonciation a été déposée, dans laquelle l'appelant était accusé de s'être soustrait à l'impôt sur le revenu et d'avoir fait en sorte que TGIF et QB se soustraient à l'impôt sur le revenu et au versement de la TPS.
+[10] Le 14 février 2006, un exposé conjoint des faits et des observations conjointes au sujet de la peine ont été déposés auprès de la Cour provinciale de la Colombie‑Britannique, dans lesquels les parties s'entendaient pour que l'appelant paie une amende de 112 262,67 $. Lors de l'audition du présent appel, l'appelant a déclaré qu'il avait fait l'objet, en plus de l'amende, d'une peine de détention à domicile d'un an. Il a également admis avoir sciemment fait un faux énoncé ou une omission dans ses déclarations de revenus pour les années d'imposition 2000 et 2001. En d'autres termes, il a admis que, si ce n'était du paragraphe 239(3) de la Loi ou de l'application de quelque principe interdisant une pénalité double, les pénalités pour faute lourde auraient été à juste titre établies.
+[11] Selon la position prise par l'appelant, une « plainte » avait été faite avant que les pénalités pour faute lourde soient imposées. L'appelant a affirmé qu'il faut interpréter le mot « plainte », au paragraphe 239(3), selon son sens courant ordinaire. L'avocat de l'appelant a soutenu qu'en l'espèce, une plainte avait été faite lorsque M. Smith avait renvoyé le dossier à la Division des enquêtes de l'ARC, le 16 septembre 2003. L'avocat a soutenu, à titre subsidiaire, que la plainte avait été faite lorsque la Division des enquêtes avait accepté le dossier ou lorsque M. Resk avait établi sous serment une Dénonciation en vue d'obtenir des mandats de perquisition, ou au plus tard lorsque les mandats de perquisition avaient été exécutés. Tous ces événements se sont produits avant que la cotisation concernant les pénalités pour faute lourde ait été établie, le 6 janvier 2005.
+ANALYSE
+Que signifie le mot « plainte » figurant au paragraphe 239(3)?
+[12] Le mot « plainte », tel qu'il est employé au paragraphe 239(3) de la Loi, n'a jamais été examiné par les tribunaux judiciaires. Toutefois, ce mot est employé dans un grand nombre d'autres lois et, en particulier, dans le Code criminel, et d'autres tribunaux ont examiné ce mot dans ce contexte.
+[13] Le sens juridique des mots « dénonciation » et « plainte » a été fort bien énoncé par le juge Saint‑Pierre dans l'arrêt The King v. Mercier (1910), 18 C.C.C. 363 (B.R.Q.), à la page 366 :
+[TRADUCTION]
+« Lorsqu'une ordonnance en vue du paiement de certaines sommes est demandée », dit Stone (Stone's Petty Sessions, à la page 35), « ou un jugement concernant une demande présentée au civil, on parle d'une « plainte », alors que la même mesure est appelée une « dénonciation » lorsqu'elle constitue le fondement de procédures pénales, lesquelles sont suivies d'une déclaration de culpabilité ou d'un acquittement. »
+Toutefois, il y avait souvent des causes d'une nature mixte dans lesquelles il était difficile pour l'avocat de savoir s'il fallait employer le mot « plainte » ou le mot « dénonciation ». En pratique, les deux mots ont finalement été joints en vue d'éviter des problèmes. C'est la raison pour laquelle, dans les ouvrages des commentateurs, dans les recueils de lois, et même dans notre [Code criminel, S.R.C. 1906, ch. 146], les mots « dénonciation et plainte » sont souvent utilisés ensemble. Selon l'ancienne pratique, lorsqu'une plainte était faite, le juge délivrait une assignation, mais lorsqu'une « dénonciation » était déposée, le juge devait délivrer un mandat. Dans le système actuel, cette distinction a presque disparu et de nos jours le juge qui désire contraindre l'accusé à comparaître devant lui peut délivrer une assignation ou un mandat selon ce que dictent les circonstances.
+[14] Dans l'arrêt Regina v. Bourassa (1954), 109 C.C.C. 44 (C.A. C.‑B.), à la page 47, le juge en chef Sloan, au nom de la cour, avait ceci à dire au sujet du mot « plainte » tel qu'il était employé dans le Code criminel :
+[TRADUCTION]
+Les termes connexes « dénonciation » et « plainte » ne sont pas définis dans le Code.
+Dans l'ouvrage intitulé Crankshaw's Criminal Code, 6e édition, à la page 833, leur sens est défini comme suit : « Lorsque l'instance est engagée contre une personne accusée d'une infraction criminelle pour laquelle cette personne est passible, sur déclaration de culpabilité par procédure sommaire, d'une peine d'emprisonnement, d'une amende, d'une pénalité ou d'une autre peine, une DÉNONCIATION est déposée; lorsque l'instance est engagée contre une personne qui pourra en droit faire l'objet d'une ordonnance lui enjoignant de payer une somme d'argent ou d'accomplir un acte qu'elle a illégalement omis, négligé ou refusé d'accomplir, une PLAINTE est faite. »
+Dans l'ouvrage intitulé Tremeear's Criminal Code, 5e édition, à la page 721, il est dit ce qui suit :
+« À vrai dire, le mot « plainte » doit être utilisé lorsqu'une ordonnance est demandée en vue du paiement d'une somme d'argent, ou qu'une demande est présentée au civil, alors que le mot « dénonciation » devrait uniquement s'appliquer au document qui constitue le fondement de poursuites pénales, suivies d'une déclaration de culpabilité ou d'un acquittement. »
+Sir Joseph Chisholm, juge en chef, au nom de la majorité des juges de la Cour suprême de la Nouvelle‑Écosse siégeant en formation plénière, dans l'arrêt Re Farmer, [1937] 2 D.L.R. 529, à la page 532, 68 Can. C.C. 50, à la page 53, 11 M.P.R. 366, a dit ce qui suit au sujet de l'expression « dénonciateur ou plaignant » : « Ces termes, dans les procédures criminelles ou quasi criminelles, ont un sens bien défini. Ils s'entendent de celui qui comparaît devant un magistrat ou devant une autre autorité judiciaire et qui porte une accusation selon laquelle quelqu'un a commis une infraction précise pour laquelle il devrait être jugé. »
+[15] Bref, une « plainte » est un moyen d'engager une procédure judiciaire. À mon avis, le mot « plainte » tel qu'il est employé au paragraphe 239(3) a le même sens.
+[16] Le mot « plainte », au paragraphe 239(3), ne peut pas être interprété indépendamment du reste de l'article 239 ou de la Loi elle‑même. L'article 239 de la Loi crée un certain nombre d'infractions criminelles. Il indique également les pénalités que les tribunaux peuvent imposer si la personne en cause est déclarée coupable d'une infraction. L'objet du paragraphe 239(3) est double. Cette disposition interdit au ministre d'attendre et de voir si le contribuable sera déclaré coupable en vertu de l'article 239 avant d'imposer des pénalités pour faute lourde. Elle permet également au tribunal qui prononce une déclaration de culpabilité à l'encontre d'un contribuable qui a manqué à certaines obligations que la Loi lui imposait de tenir compte du fait que le ministre a déjà imposé une pénalité (Robertson c. M.R.N., no 72‑281, 15 septembre 1972, [1972] C.T.C. 2588 (C.R.I.), au paragraphe 7).
+[17] Le mot « plainte », lorsqu'il est lu avec le reste de l'article 239, doit se voir attribuer un sens juridique et non son sens courant ordinaire, et ce, particulièrement lorsqu'il est joint au mot « dénonciation ». Le principe noscitur a sociis, soit la règle des mots associés, invite le lecteur à examiner l'élément commun existant entre les mots liés par les conjonctions « et » ou « ou ». Dans ce cas‑ci, l'élément commun existant entre les mots « dénonciation » et « plainte » est qu'il s'agit dans les deux cas de moyens de saisir le tribunal d'une affaire. Voir l'ouvrage Sullivan and Driedger on the Construction of Statutes, 4e édition (Markham, Butterworths Canada Ltd., 2002), à la page 173.
+[18] L'expression « dénonciation ou plainte » est également employée à l'article 244 de la Loi; or, une approche textuelle, contextuelle et téléologique à l'égard de l'interprétation exigerait que l'expression ait le même sens à l'article 244 que celui qu'elle a à l'article 239. L'article 244 est rédigé comme suit :
+244. (1) Dénonciation ou plainte – Une dénonciation ou plainte relative à la présente loi peut être déposée ou faite par tout fonctionnaire de l'Agence du revenu du Canada, par un membre de la Gendarmerie royale du Canada, ou par toute personne qui y est autorisée par le ministre, et lorsqu'une dénonciation ou plainte est réputée avoir été déposée ou faite en vertu de la présente loi, elle est réputée avoir été déposée ou faite par une personne qui y est autorisée par le ministre et elle ne peut être contestée pour cause d'autorisation insuffisante du dénonciateur ou du plaignant que par le ministre ou par une personne agissant en son nom ou au nom de Sa Majesté.
+(2) Plusieurs infractions – Une dénonciation ou plainte à l'égard d'une infraction à la présente loi peut viser une ou plusieurs infractions. Aucune dénonciation ou plainte, aucun mandat, aucune déclaration de culpabilité ou autre procédure dans une poursuite intentée en vertu de la présente loi n'est susceptible d'opposition ou n'est insuffisante du fait que plusieurs infractions sont visées.
+(3) Ressort – Une dénonciation ou plainte à l'égard d'une infraction à la présente loi peut être entendue, jugée ou décidée par tout tribunal, juge ou juge de paix du ressort où l'accusé réside, exploite une entreprise, est trouvé ou appréhendé ou est détenu, indépendamment du lieu de perpétration de l'infraction.
+(4) Prescription des poursuites – Une dénonciation ou plainte peut être déposée ou faite en application des dispositions du Code criminel sur les déclarations de culpabilité par procédure sommaire, à l'égard d'une infraction à la présente loi, au plus tard le jour qui tombe huit ans après le jour où l'objet de la dénonciation ou de la plainte a pris naissance.
+[19] Il ressort clairement de la lecture de l'article 244 que le mot « plainte » n'a pas son sens courant ordinaire. Il est employé dans son sens technique. Il a un sens juridique qui se rapporte à un processus d'introduction d'instances judiciaires. Une « plainte » est entendue devant les tribunaux (voir le paragraphe 244(3)) et, par extension, une « plainte » est faite devant l'appareil judiciaire.
+[20] Le renvoi par M. Smith des dossiers à la Division des enquêtes de l'ARC, au moyen du formulaire T134, ne comporte pas les caractéristiques juridiques essentielles d'une « plainte ». Aucun des scénarios avancés par l'avocat de l'appelant ne constitue une « plainte » tel que ce mot est employé dans la Loi. En l'espèce, aucune plainte n'a été faite. Une dénonciation a été déposée et les pénalités pour faute lourde ont été établies avant que la dénonciation soit déposée.
+[21] L'avocat de l'appelant a soutenu qu'étant donné que, selon la pratique de l'ARC, c'est la même personne qui établit les pénalités pour faute lourde et qui prépare le rapport sur lequel la dénonciation est fondée, le paragraphe 239(3) ne pourrait jamais être invoqué. L'avocat a déclaré que la pratique de l'ARC constituait un abus de procédure et allait à l'encontre de l'arrêt rendu dans l'affaire R. c. Jarvis, 2002 CSC 73.
+[22] Je ne suis pas d'accord avec l'avocat de l'appelant. La pratique de l'ARC est conforme à l'arrêt rendu dans l'affaire Jarvis, précitée, en ce sens qu'elle assure qu'une fois qu'un dossier est renvoyé à la Division des enquêtes, seuls les pouvoirs d'enquête de l'ARC sont utilisés. Quant à l'argument concernant l'abus de procédure, je tiens à faire remarquer que la Cour canadienne de l'impôt n'a pas compétence pour annuler une cotisation en raison des actions d'un fonctionnaire de l'ARC ou de la pratique de l'ARC. Voir l'arrêt Main Rehabilitation Co. Inc. c. La Reine, 2004 CAF 403, [2005] 1 C.T.C. 212 (C.A.F.).
+L'alinéa 11h) de la Charte
+[23] L'avocat de l'appelant a invoqué les motifs rendus en dissidence par le juge Lambert dans l'arrêt Lavers et al. v. Minister of Finance of B.C. et al., [1990] 1 C.T.C. 265 (C.A. C‑B.), à l'appui de la thèse selon laquelle l'« infraction » était la tentative délibérée pour se soustraire à l'impôt et que c'était cet acte qui donnait lieu à la pénalité administrative ainsi qu'à la déclaration de culpabilité prononcée au criminel et aux amendes. Le juge Lambert a conclu que les contribuables avaient été assujettis à une pénalité double et que les droits qui leur étaient reconnus par la Charte avaient été enfreints.
+[24] L'alinéa 11h) de la Charte est rédigé comme suit :
+Tout inculpé a le droit :
+[...]
+h) d'une part de ne pas être jugé de nouveau pour une infraction dont il a été définitivement acquitté, d'autre part de ne pas être jugé ni puni de nouveau pour une infraction dont il a été définitivement déclaré coupable et puni
+[25] Dans la décision qu'il a rendue dans l'affaire Sommers c. M.R.N., no 90‑1254(IT), 8 février 1991, 91 D.T.C. 656, le juge Sarchuk a examiné l'application de l'aliéna 11h) de la Charte aux pénalités prévues au paragraphe 163(2). Il a conclu que l'imposition de pénalités en vertu du paragraphe 163(2) ne constituait pas un « verdict de culpabilité ou la punition d'une infraction tombant sous le coup de l'alinéa 11h) de la Charte ».
+[26] Dans la décision Taylor c. La Reine, no 93‑238(IT)G, 10 mai 1995, 95 D.T.C. 591, le juge Sobier a invoqué la décision rendue dans l'affaire Sommers, précitée, pour conclure que les « pénalités ne constituent pas une “véritable conséquence pénale” ». Les pénalités prévues au paragraphe 163(2) ne sont pas des amendes infligées dans une procédure criminelle ou quasi criminelle. Il s'agit de pénalités administratives établies par suite de l'omission de déclarer un revenu. Aucune infraction n'est commise et les pénalités sont basées sur un pourcentage fixe du revenu non déclaré et elles s'appliquent lorsque le contribuable fait un faux énoncé dans sa déclaration, et ce, sciemment ou dans des circonstances équivalant à faute lourde.
+[27] Les droits reconnus à l'appelant par la Charte n'ont pas été enfreints.
+Le principe énoncé dans l'arrêt Kienapple
+[28] Selon le principe découlant de l'arrêt R. c. Kienapple, [1975] 1 R.C.S. 729, un accusé ne doit pas être assujetti à des déclarations de culpabilité multiples pour le même acte. L'avocat de l'appelant n'a pas débattu la question à l'audience, mais puisque la question a été soulevée dans les actes de procédure, j'en parlerai brièvement.
+[29] La décision et les remarques du juge Dambrot dans l'affaire R. v. Hamilton, [2006] G.S.T.C. 104, s'appliquent aux faits de la présente espèce. En ce qui concerne les pénalités pour faute lourde établies en vertu de la Loi sur la taxe d'accise, le juge Dambrot a dit ce qui suit au paragraphe 43 :
+[TRADUCTION]
+[43] Il est bien établi, en particulier en ce qui concerne les régimes fiscaux, que l'imposition d'une pénalité civile n'empêche pas l'introduction de poursuites pour la même conduite. Ni l'alinéa 11h) de la Charte ni l'arrêt R. c. Kienapple, [1975] 1 R.C.S. 729, invoqués par l'appelant ne s'appliquent. Ils empêchent des déclarations de culpabilité multiples pour la même infraction. Ils ne s'appliquent pas aux pénalités civiles. Quoi qu'il en soit, l'article 326 de la Loi règle cette question, en l'absence d'incompatibilité avec la Charte, ce qui n'a pas été allégué. Cette disposition prévoit que quiconque omet de produire une déclaration lorsqu'une telle déclaration est requise en vertu de la Loi est coupable d'une infraction et qu'en plus de toute pénalité par ailleurs prévue, cette personne est passible d'une amende et d'une peine d'emprisonnement sur déclaration de culpabilité par procédure sommaire. La Loi prévoit manifestement une pénalité et des poursuites fondées sur la même conduite.
+Les intérêts
+[30] L'appelant a pris la position selon laquelle il s'opposait uniquement à l'imposition de pénalités. Il a soutenu que s'il est décidé qu'il n'a pas à payer les pénalités, il devrait être libéré du paiement des intérêts qui se sont accumulés sur la dette fiscale elle‑même depuis la date de l'avis d'opposition.
+[31] L'appelant n'a pas eu gain de cause dans le présent appel. Toutefois, même s'il avait eu gain de cause, la Cour n'a pas compétence pour supprimer ou pour réduire des intérêts qui ont été calculés correctement et imposés à juste titre (voir la décision Mohamed Moledina c. La Reine, 2007 CCI 354, au paragraphe 5).
+[32] L'appel est rejeté, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 3e jour de juillet 2008.
+« V. A. Miller »
+Le juge V. A. Miller
+Traduction certifiée conforme
+ce 19e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008CCI404
+DOSSIER DE LA COUR : 2007-764(IT)G
+INTITULÉ : MARK BESNER c.SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 28 mai 2008
+MOTIFS DU JUGEMENT : L'honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 3 juillet 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Brent B. Olthuis
+Avocate de l'intimée :
+Me Selena Sit
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Brent B. Olthuis
+Cabinet : Hunter Litigation Chambers
+2100 – 1040, rue Georgia Ouest
+Vancouver (C.-B.)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

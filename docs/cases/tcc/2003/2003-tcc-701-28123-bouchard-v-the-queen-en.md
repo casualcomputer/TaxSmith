@@ -1,0 +1,291 @@
+---
+title: "Bouchard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28123/index.do"
+last_modified: "2003-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 701"
+citation2: ""
+neutral_citation: "2003 TCC 701"
+decision_date: "2003-10-28"
+language: "en"
+item_id: "28123"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1643
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:34:07.830000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42d5b4308bb0791733de5e41c74de5a19a2d659371499399f86d845daa0699a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard v. The Queen
+
+- Citation: 2003 TCC 701
+- Decision date: 2003-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1643, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-28
+Neutral citation
+2003 TCC 701
+File numbers
+2002-3636(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3636(EI)
+BETWEEN:
+ELIZABETH BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Elizabeth Bouchard (2002‑3637(CPP)) on June 18, 2003 at Winnipeg, Manitoba
+Before: The Honourable Michael H. Porter, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 28th day of October 2003.
+"Michael H. Porter"
+Porter, D.J.
+Citation: 2003TCC701
+Date: 20031028
+Dockets: 2002-3636(EI)
+2002-3637(CPP)
+BETWEEN:
+ELIZABETH BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+Introduction
+[1] These appeals were heard on common evidence by consent of the parties, at Winnipeg, Manitoba, on June 18, 2003.
+[2] The Appellant has appealed from the decisions of the Minister of National Revenue (hereinafter call the "Minister") dated July 3, 2002 that her employment with Worldmax Communications Inc. ("Worldmax") for the period January 1, 2001 to March 16, 2001 was not pensionable under the provisions of the Canada Pension Plan (the "CPP") and for the period August 7, 2000 to March 16, 2001 was not insurable under the provisions of the Employment Insurance Act (the "EI Act") for the following reason:
+It has been decided that this employment was not pensionable and insurable for the following reason:
+You were not engaged under a contract of service and, therefore, you were not an employee of Worldmax Communications Inc.
+The decisions were said to be issued pursuant to section 93 of the EI Act and 27.2(3) of the Plan and were based on paragraph 5(1)(a) of the EI Act and 6(1)(a) of the Plan respectively.
+[3] The evidence revealed that during the periods in question, Worldmax carried on the business of selling local and long distance telephone lines for AT & T Canada. The Appellant was engaged by Worldmax to sell such lines to commercial customers. The Minister has decided that she was engaged under a contract for services as an independent contractor. The Appellant maintains that she was an employee working under a contract of service. That is the issue before the Court
+The Law
+Contracts Of Service/For Services
+[4] The manner in which the Court should go about deciding whether any particular working arrangement is a contract of service and thus an employer/employee relationship or a contract for services and thus an independent contractor relationship, has long been guided by the words of MacGuigan J. of the Federal Court of Appeal in the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025. The reasoning in that case was amplified and explained further in cases emanating from that Court, namely in the cases of Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., 88 DTC 6099, Charbonneau v. Canada (M.N.R.) [1996] F.C.J. No. 1337, and Vulcain Alarme Inc. v. The Minister of National Revenue, (1999) 249 N.R. 1, all of which provided useful guidance to a trial Court in deciding these matters.
+[5] The Supreme Court of Canada has now revisited this issue in the case of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61, 2001 SCC 59, 274 N.R. 366. The issue in that case arose in the context of a vicarious liability situation. However, the Court recognized that the same criteria applied in many other situations, including employment legislation. Mr. Justice Major, speaking for the Court, approved the approach taken by MacGuigan J. in the Weibe Door case (above), where he had analyzed Canadian, English and American authorities, and, in particular, referred to the four tests, for making such a determination enunciated by Lord Wright in City of Montreal v. Montreal Locomotive Works Ltd., [1974] 1 D.L.R. 161 at 169-70. MacGuigan J. concluded at page 5028 that:
+Taken thus in context, Lord Wright's fourfold test [control, ownership of tools, chance of profit, risk of loss] is a general, indeed an overarching test, which involves "examining the whole of the various elements which constitute the relationship between the parties". In his own use of the test to determine the character of the relationship in the Montreal Locomotive Works case itself, Lord Wright combines and integrates the four tests in order to seek out the meaning of the whole transaction.
+At page 5029 he said:
+... I interpret Lord Wright's test not as the fourfold one it is often described as being but rather as a four-in-one test, with emphasis always retained on what Lord Wright, supra, calls "the combined force of the whole scheme of operations," even while the usefulness of the four subordinate criteria is acknowledged. (emphasis mine)
+At page 5030 he had this to say:
+What must always remain of the essence is the search for the total relationship of the parties…
+He also observed:
+There is no escape for the Trial Judge, when confronted with such a problem, from carefully weighing all of the relevant factors…
+Mr. Justice MacGuigan also said this:
+Perhaps the best synthesis found in the authorities is that of Cooke J. in Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, 738-9:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk be taken, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. The application of the general test may be easier in a case where the person who engages himself to perform the services does so in the course of an already established business of his own; but this factor is not decisive, and a person who engages himself to perform services for another may well be an independent contractor even though he has not entered into the contract in the course of an existing business carried on by him.
+[6] In the case of Kinsmen Flying Fins Inc. case, above, the Federal Court of Appeal said this:
+... like MacGuigan J. we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.
+[7] The nature of the tests referred to by the Federal Court of Appeal can be summarized as:
+a) The degree or absence of control exercised by the alleged employer;
+b) Ownership of tools;
+c) Chance of profit;
+d) Risk of loss;
+In addition, the Court must consider the question of the integration, if any, of the alleged employee's work into the alleged employer's business.
+[8] In the Sagaz decision (above) Major J. said this:
+…control is not the only factor to consider in determining if a worker is an employee or an independent contractor…
+[9] He dealt with the inadequacy of the 'control test' by again approving the words of MacGuigan J. in the Wiebe Door case (above) as follows:
+A principal inadequacy [with the control test] is its apparent dependence on the exact terms in which the task in question is contracted for: where the contract contains detailed specifications and conditions, which would be the normal expectation in a contract with an independent contractor, the control may even be greater than where it is to be exercised by direction on the job, as would be the normal expectation in a contract with a servant, but a literal application of the test might find the actual control to be less. In addition, the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[10] He went on to say this:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, …([1952] 1 The Times L.R. 101) that it may be impossible to give a precise definition of the distinction (p.111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations …" (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, … (Vicarious Liability in the Law of Torts. London: Butterworths, 1967), at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose…. The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[11] I also find guidance in the words of Décary J.A. in the Charbonneau case (above) when speaking for the Federal Court of Appeal he said this:
+The tests laid down by this Court ... are not the ingredients of a magic formula. They are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties. The issue is always, once it has been determined that there is a genuine contract, whether there is a relationship of subordination between the parties such that there is a contract of employment ... or, whether there is ... such a degree of autonomy that there is a contract of enterprise or for services. ... In other words, we must not pay so much attention to the trees that we lose sight of the forest. ... The parts must give way to the whole. (emphasis mine)
+[12] I also refer to the words of Létourneau J.A. in the Vulcain Alarme case (above), where he said this:
+… These tests derived from case law are important, but it should be remembered that they cannot be allowed to compromise the ultimate purpose of the exercise, to establish in general the relationship between the parties. This exercise involves determining whether a relationship of subordination exists between the parties such that the Court must conclude that there was a contract of employment within the meaning of art. 2085 of the Civil Code of Quebec, or whether instead there was between them the degree of independence which characterises a contract of enterprise or for services….
+[13] I am further mindful that as a result of the recent decisions of the Federal Court of Appeal in Wolf v. Canada, [2002] F.C.J. No. 375, and Precision Gutters Ltd. v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 771, a considerable degree of latitude seems now to have been allowed to creep into the jurisprudence enabling consultants to be engaged in a manner in which they are not deemed to be employees as they might formerly been. I am particularly mindful of the words of Mr. Justice Décary in the Wolf decision (above) where he said:
+In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns. (my emphasis)
+[14] Thus, it seems to this Court that the pendulum has started to swing, so as to enable parties to govern their affairs more easily in relation to consulting work and so that they may more readily be able to categorize themselves, without interference by the Courts or the Minister, as independent contractors rather than employees working under contracts of service.
+[15] In conclusion, there is no set formula. All these factors bear consideration and as Major J. said in the Sagaz case (above), the weight of each will depend upon the particular facts and circumstances of the case. Many of the tests can be quite neutral and can apply equally to both types of situation. In such case, serious consideration has to be given to the intent of the parties. Thus is the task of the trial Judge.
+The Facts
+[16] On December 19, 2001, Human Resources Development Canada requested of the Canada Customs and Revenue Agency a ruling as to whether or not the Appellant was employed under a contract of service. The initial response was that she was an employee working under a contract of service. Worldmax appealed that decision to the Minister and it was in response to that appeal that the decisions directly under appeal (that she was not an employee), were issued. Worldmax has not intervened in this appeal.
+[17] The Minister in the Replies to the Notices of Appeal signed on his behalf, was said to have relied upon the following assumptions of fact with which the Appellant agreed or disagreed as set out in parenthesis.
+(a) the Appellant was not related to the Payer; (Agreed)
+(b) the Payer was in the business of selling local and long distance telephone lines for AT&T Canada; (Agreed)
+(c) the Appellant was engaged as a sales agent with the Payer to sell local and long distance telephone lines to commercial customers; (Agreed)
+(d) the Appellant performed her duties in the city of Winnipeg; (Agreed)
+(e) the Appellant was not required to report to the Payer's office; (Disagreed)
+(f) the Payer's office was in the city of Winnipeg; (Agreed)
+(g) the Payer held meetings on a sporadically as needed basis; (Disagreed)
+(h) the Appellant was not required to attend the Payer's meetings; (Disagreed)
+(i) the Appellant was not required to report to the Payer's office; (Disagreed)
+(j) the Appellant was not required to record her hours work; (Disagreed)
+(k) the Appellant was not required to submit timesheets to the Payer; (Disagreed)
+(l) the Appellant could decide on the hours and days that she worked; (Disagreed)
+(m) the Appellant did not require approval from the Payer to take time off work; (Disagreed)
+(n) the Appellant did not have to perform the services personally; (Disagreed)
+(o) the Appellant could hire replacement workers; (Disagreed)
+(p) the replacement workers hired by the Appellant were remunerated by the Appellant; (Disagreed)
+(q) the Appellant did not have to provide exclusive services to the Payer; (Disagreed)
+(r) the Appellant was not supervised by the Payer; (Disagreed)
+(s) the Appellant was free to choose the methods used to perform her duties; (Disagreed)
+(t) the Appellant signed an Independent Agent Agreement (the "Agreement") with the Payer dated August 17, 2000; (Agreed) (She deals with this in her evidence that I review below.)
+(u) the Payer was required to meet certain quotas with AT&T; (Agreed)
+(v) AT&T did not enforce the quotas with the Payer; (Agreed)
+(w) the Appellant was required to meet certain quotas with the Payer as outlined in the Agreement; (Agreed)
+(x) the Payer did not enforce the quotas with the Appellant; (Agreed)
+(y) the Appellant was free to obtain orders from anywhere in the Payer's serving area with AT&T; (Disagreed)
+(z) the Payer offered leads to the Appellant; (Agreed)
+(aa) the Appellant could refuse leads provided by the Payer; (Disagreed)
+(bb) the Appellant generated her own leads; (Agreed)
+(cc) the Payer provided training to the Appellant in the products she would be selling but not in how to sell or who to sell to; (Disagreed)
+(dd) the Appellant was not entitled to participate in any employee benefit plans; (Disagreed)
+(ee) the Appellant was not the only worker providing the same service to the Payer; (Agreed)
+(ff) the Payer treated the other workers in the same manner as the Appellant; (Agreed)
+(gg) the Appellant provided an office in her home, a vehicle and a cell phone to perform her duties; (Disagreed)
+(hh) the Payer did not provide any tools and equipment to the Appellant to perform her duties; (Disagreed)
+(ii) the Appellant incurred expenses in the performance of her duties for her office in home, vehicle and cell phone; (Disagreed)
+(jj) the Payer did not reimburse the Appellant for expenses incurred in the performance of her duties; (Disagreed)
+(kk) the Appellant was paid on a commission basis based on orders submitted to and accepted by AT&T Canada; (Disagreed)
+(ll) if the Appellant was paid a commission on an order that was subsequently rejected or cancelled, the commission paid was deducted from the Appellant's future commissions; (Partly agreed)
+(mm) advances of commissions were available to the Appellant from the Payer; (Disagreed) and
+(nn) the Appellant could refuse the advances. (Disagreed)
+[18] Two witnesses gave evidence; the Appellant herself and Kenneth Northwood, the person who originally engaged her services on behalf of Worldmax.
+[19] The Appellant said that she saw an advertisement in the local newspaper "looking for a salesperson". She responded and was interviewed by Ken Northwood, the manager of Worldmax in the Winnipeg area. She said she had no experience and that he offered to train her. He wanted her to work from 9:00 a.m. to 5:00 p.m. unless she had a real need to leave by 4:00 p.m. Later on it turned out that she was required to work either 8:00 am. to 4:00 p.m. or 9:00 a.m. to 5:00 p.m., but to at least put in 8 hours per day. She was not expected to work weekends, and as most of her potential customers were to be businesses, weekends would no doubt have been pointless. She was expected to keep evening appointments if she made them.
+[20] Northwood provided her with a form of contract, Exhibit A-1. There is no doubt that the contract contained terms to which she agreed by putting her signature to it. One of those terms purported to establish the working arrangement with the Appellant as an independent contractor. The relevant parts read as follows:
+1.1 Worldmax hereby appoints the Agent as its non-exclusive agent to solicit orders for the services described in Schedule "A" ... (the "Services"), on behalf of the suppliers described in Schedule "A" ... (the "Suppliers"), which Schedule "A" may be amended from time to time at the discretion of Worldmax. Such appointment shall apply within the serving area described in Schedule "B" ... (the "Territory"), to such customers as are identified in Schedule "B" ... (the "Customers"), which Schedule "B" may be amended from time to time at the discretion of Worldmax. The Agent hereby accepts such appointment and agrees to keep, observe and perform all the terms and conditions of this Agreement.
+2.3 The Agent agrees to comply with the provisions of any operation manual or training materials provided by Worldmax, as amended by Worldmax from time to time, and agrees to submit reports relative to sales activities as Worldmax may require from time to time in its discretion. The Agent shall attend such training seminars and courses at such locations or by correspondence, as Worldmax in its discretion may require.
+6.1 The parties hereto do not intend this Agreement or the relationship hereunder to constitute a joint venture, partnership or employment relationship of any kind. The Agent shall be deemed to be an independent contractor in performing its obligations under this Agreement, and shall have no authority to bind Worldmax or incur obligations on behalf of Worldmax. In keeping with its independent status, the Agent shall, where applicable, cause itself to be registered with and remit to the appropriate government agency for the purposes of Income Tax, Canada Pension Plan, or other government agency as may be required by law. (emphasis mine)
+[21] There were quotas established in the agreement and procedures the Appellant was expected to follow. She said she was told by Northwood that she would not be hired if she did not sign the contract and also that he anticipated the whole contract would be shortly done away with. He said, according to her evidence, that he would remove the contract within one month. The whole agreement she made with him, in the reality of her mind, was that she was an employee and that she only had to sign the form to get the job. Additionally she said, they initially took off EI premiums and CPP contributions from her pay and then they suddenly stopped. She produced pay stubs, Exhibit A-2, from which it seems that indeed the first pay cheque had deductions made from it. Her basic pay was $692.00 every two weeks, although three of her pay stubs showed $1,221.00, $1,122.00 and $1,065.00 respectively.
+[22] She said she started working a day or so after the interview. She did not go out onto the street on the first day. Northwood gave her a manual and went through it with her. After that for some days, she stayed with him and watched what he did, in order to learn. It was unclear to me whether this was for 1 or 2 days or one or two weeks. She seemed to say both. She then took a course put on by AT & T.
+[23] She said she was expected to show up at the office every morning before going out on the road. She would make a number of calls and endeavour to set up appointments. Northwood would also give her and other salespeople a pep talk and hand out different flyers he had prepared. There were four desks in the office and each salesperson had an assigned desk and a telephone. She was reimbursed for pens and pencils and gasoline for her vehicle.
+[24] At the end of the day, she said she was required to report back into Northwood and turn over any contracts she had obtained. He apparently received a sales commission on her work also. He wanted to know where she was, who she saw and what happened throughout the day. She was supposed to check in three times per day if she could.
+[25] She dealt with the assumptions of fact made by the Minister, with which she disagreed.
+[26] With respect to assumption (e), she was clear she had to report in the office before going out on her territory.
+[27] With respect to assumption (g), she was adamant that there was a sort of sales meeting every morning that she was expected to attend.
+[28] With respect to assumption (j), whilst she did not keep time sheets, she said she was expected to put in 8 hours per day and had to check back into the office at the end of the day.
+[29] With respect to assumption (m), she said she could not take time off without first getting approval from Northwood.
+[30] With respect to assumptions (n), (o), (p) and (q), she was adamant that she was paid a salary and that it was not open to her to have someone else do the work for her, nor did she ever do so. She did think that she might have been able to hire additional telemarketers (there was one available at the Worldmax office), but she would have needed permission from Worldmax to have done so and anticipated that she would have had to pay them out of her own pocket. She could not have hired a salesperson which was really her work.
+[31] With respect to assumptions (r) and (s), the Appellant really felt that she was tightly supervised. She was required to report into the office in person in the morning and at the end of her day. Northwood wanted her to keep in touch with him three times per day and tell him what she was doing. She had to take flyers to potential customers and complete the contracts in a certain way. That, of course, was a procedure set up by AT & T. She was also required on the first phone call to a customer to use the scripts provided by Northwood. Thus, she did not feel free to use her own methods but very much felt she had to use the methods set out for her by Northwood.
+[32] With respect to item (t), the question of the agreement I have dealt with above.
+[33] With respect to assumptions (v), (w) and (x), although the agreement called for quotas to be met, she said Northwood agreed that they would not be enforced for the first while. Nevertheless, they were hanging over her head and made her feel she had to perform. She was not free to just work as she pleased.
+[34] With respect to assumption (y), the Appellant said she was restricted to a certain area in Winnipeg and could not go into other areas serviced by the other salespeople.
+[35] With respect to assumption (aa), the Appellant said she could not refuse leads provided by Worldmax. If she had done so, she would not have been doing her job and would have felt in jeopardy of being fired.
+[36] The Appellant took issue with assumption (cc) saying that she was provided with information and scripts as to how to approach clients and was expected to follow those scripts.
+[37] With respect to assumption (dd), the Appellant said that she was told by Northwood when she was initially hired that she would be able to receive benefits after 3 months, but this in fact never happened.
+[38] With respect to assumption (gg), the Appellant said that she had no office in her home. Furthermore, she was not allowed to take materials home. She was not allowed to put the Worldmax or AT & T materials on her own computer. She had her own vehicle and was told by Northwood that if anything went wrong with her vehicle, he would reimburse her. She did have her own cell phone but said she did not use it for work. She used a pager for which she paid $100.00 per month out of her own pocket.
+[39] With respect to assumption (hh), the Appellant said that a desk and a telephone at the office was provided to her by Worldmax, as well as her binder, scripts and promotional materials.
+[40] With respect to assumption (ii), the Appellant said she was reimbursed for some motor vehicle expenses. She did not use her cell phone for business. In fact, Northwood did not have her cell phone number and could not call her directly.
+[41] With respect to assumption (kk), the Appellant understood that she had a base salary of $692.00 every 2 weeks and that she would earn commissions on top of that. In fact, she did not seem to have received anything beyond the base amount. She did agree in cross-examination that any commission earned would be applied first to the base salary and that it was only amounts she earned beyond the base salary that she would receive in addition.
+[42] With respect to assumption (ll), the Appellant considered the $692.00 paid each 2 weeks to be a guaranteed base salary not an advance on future sales. She said she never received any advances as such.
+[43] The Appellant said that she had previously been in business for herself (which was closed down), and when she took on the work now in question, she was quite clear that she did not want to work for herself. She was of the view that she had a guaranteed salary, otherwise she would not have taken the position. Northwood did make it clear to her that after a few months, she would have to pull her weight, by which I took it he meant she would have to meet her quotas. As a side note she said that Northwood expected a doctor's note if she was sick and unable to work, which to her was a sure hallmark of an employee as opposed to a contractor working for herself.
+[44] She was cross-examined about additional sales she did for Rogers AT & T which were cellular products and services. She discussed doing this with Northwood and it was at that time, sometime during her term with Worldmax, that they crossed out the non-competition clause.
+[45] That, really, in summary, was the extent of her evidence.
+[46] Northwood on the other hand, gave evidence quite differently. He explained that presently he runs his own company. At the time in question, he worked as an employee of Worldmax and was their regional manager. He had been employed by them for 9 years. Worldmax was an agency for AT & T. He hired independent agents and inside telemarketers. He trained the people who were hired as well as selling himself.
+[47] In the year 2000, he said he had one person working as an independent call agent and one inside telemarketer. The duties of the salespeople were to market long distance services and telephone lines. The telemarketers did the phoning and made appointments with commercial businesses. The sales people went to those appointments and sold.
+[48] Ms. Bouchard, he said came to him and he hired her on the spot. Later, he agreed he may have advertised for a salesperson. He said she had one day of training, was given the AT & T literature, which I took to indicate their training manual among other things, together with the forms, and she went to work. He said he only went with her on two occasions; otherwise he was available to her at the office if she had any problems. In addition, AT & T put on a training session every 2 to 3 months which he encouraged her to attend as it gave salespeople new ideas on how to sell the product. However, he said it was not mandatory.
+[49] He agreed that he provided a script for her to follow and said he hoped she would follow. Again, he said it was not mandatory.
+[50] He said that he managed all of Manitoba and Saskatchewan and that she could sell long distance services anywhere in Canada, but was limited to four parts of the City of Winnipeg to sell telephone lines.
+[51] He said the telemarketers were paid a salary plus a share of a bonus earned by the office. Their tools and equipment were provided by Worldmax and their job was to go through the phones books and call potential customers.
+[52] On August 9, 2000 he provided the Appellant with the agreement (Exhibit A‑1) which they asked new salespeople to sign. He discussed in detail that they were not salaried employees. Worldmax had no salaried sales agents. It was clear from his evidence that she would not have had the job if she had not signed. He did say, however, that she took it home to review before signing it.
+[53] He said they had a discussion about paragraph 4.2 on page 3 at that time. He recalled that it was in fact one week later. They were agreed that it was struck out to enable her to sell AT & T cellular products which Worldmax did not carry. He said he was not happy about it.
+[54] He said that originally she indicated that she was going to hire her own telemarketers. Some people apparently telephoned him to say she had hired them but not paid them. That was about one month after she started working. The evidence about this was cryptic, to say the least, and I place little weight on it.
+[55] He said he had no strict guidelines about her working 8:30 a.m. to 4:30 p.m.. Later he said he just suggested that she work these hours. He did not know what hours she worked or how many hours were represented in any sale. All he knew was the number of orders she took in. He did say that he told her she should try to place at least one order per day and to let him know what happened each day. He said she would stop in once per week at the office and that they would get together once per month. He was not big on meetings.
+[56] He said with respect to the matter of reviewing her work, that he did so only by considering the size of her orders.
+[57] With respect to her remuneration, he said he gave her a guaranteed draw on her commissions but that she was basically paid by way of commission from AT & T. It would generally take 3 months for AT & T to process an order and pay the commissions. It was difficult to hire people if they had to wait 3 months to be paid; thus, the guaranteed draw. If they made less than $1,500.00, they still received $1,500.00. If they made more, they received more.
+[58] With respect to time off, he said there was one instance towards the end of the time that she worked, when he could not contact her and she had apparently taken off to attend to a family matter. He cut her off her draw whilst she was away. She had not asked for his permission to be away.
+[59] He had no knowledge if she did any cold calling herself. He said there were no formalities that she had to follow.
+[60] With respect to tools and equipment, she used AT & T brochures and forms. She had her own car. AT & T apparently gave money to Worldmax for gas and against receipts the salespeople were paid for one tank of gas per week.
+[61] He said she had no need of an office. His office consisted of two desks and two phones. She could use that as her office if she wished. Salespeople did use the office he provided.
+[62] He dealt with amounts she was paid. This was corroborated by a number of pay stubs filed as Exhibits. It appeared she received $692.00 every 2 weeks.
+[63] He started to pick up the cell phone charges for his salespeople, but could not say if he did so for the Appellant.
+[64] He put out scripts and required the salespeople to use them at the start.
+[65] With respect to quotas, he said there were guidelines in the agreement. They were never met by any salesperson.
+[66] He said that at the outset, she did not attend the appointments set up by the telemarketers.
+[67] He referred to her two other businesses. One of these was a modeling/cosmetics business. It is clear from her evidence that this business was closed down before she started working for Worldmax. The other business to which he referred was her attempt to sell Rogers AT & T cell phone service at the same time. Her contract arrangements around this are not at all clear from the evidence.
+[68] He agreed on cross-examination by the Appellant that she may have come to him as a result of his placing an advertisement. He did not really seem to recall.
+[69] He maintained again that she was not paid a salary but rather a guaranteed draw. He also accepted that he would not have engaged her if she had not signed the contract.
+[70] He said he might have said to her that he would look into the question of benefits such as a dental plan. However, he said it would not have gone anywhere.
+[71] He did not recall if she had training or knew anything about AT & T. He said he had worked nine years for Worldmax and had seen his boss just twice. He winged his sales when he started.
+[72] He admitted AT & T gave Worldmax bonuses and that he had a discretion as to how these were paid out.
+[73] He denied that he required her to attend AT & T seminars or to spend time in the office. Whilst he denied that, he required her to work between the hours of 8:00 a.m. and 5:00 p.m., he did say that he hoped at the time she would do so. Obviously, there was an expectation on his part which was conveyed to her.
+[74] That really summarizes his evidence. When I contrast his evidence with that of the Appellant, I can say unequivocally that I accept her evidence where it differs from his. His evidence, in my view, was evasive and punctuated by his lack of recall and lack of belief. Hers, on the other hand, was perfectly straightforward and had the ring of honesty about it.
+[75] I am well satisfied that at the time she had her interview, she had no desire or interest in working for herself in her own business. She was induced, in my view, to sign the contract on the basis that she could expect it to be changed in the near future. The guaranteed draw came across to her as a salary with an opportunity for commission on top. There were clearly expectations placed upon her as to how she went about her job. They were subtly disguised, but it was clear to her she had to follow them or she would have no job. This was a high level of control. She was also expected to use the office which was provided for her.
+[76] That is the evidence as I find it.
+Application of the Factors to the Evidence
+[77] Title: It must be clearly understood that even where the parties choose to put a title on their relationship, if the true nature and substance of the arrangement does not accord with that title, it is the substance to which the Court must have regard. That legal principle has not changed (see Shell Canada Ltd. v. Canada (1999) S.C.J. No. 30). Having said that, it is also fair to say that where the parties genuinely choose a particular method of setting up their working arrangement, it is not for the Minister or this Court to disregard that choice. Due deference must be given to the method chosen by the parties and if on the evidence as a whole there is no substantial reason to derogate from the title chosen by the parties, then it should be left untouched. The Wolf and Precision Gutters cases very much substantiate that proposition.
+[78] In this case, although Worldmax sought to put a title of independent contractor on the written contract, it was presented to the Appellant by Northwood in a different light. Thus, this aspect of the evidence is quite equivocal.
+[79] Control: As this aspect of the test has been traditionally applied, it has been consistently pointed out that it is not the actual control so much as the right to control that is important for the Court to consider. The more professional and competent a person is or the more experience they have in their field, the less likely there is to be any actual control, which creates difficulty in applying this test. Indeed as Major J. pointed out in the Sagaz case (above), there may be less control exercised in the case of a competent professional employee than in the case of an independent contractor. Nonetheless, it is another factor to be weighed in the balance.
+[80] In this case, I am of the view that there was substantial control exercised over the Appellant by Ken Northwood, right from her initial training, to the hours she worked and how she was expected to go about contacting potential customers. She was expected to be in the office daily for meetings, probably mostly pep talks, and to notify Ken Northwood daily of the progress she was making. Her area was restricted. She could not take on other work without his permission. All of these are elements of control normally found in an employer/employee situation. This factor clearly points to a contract of service.
+[81] Tools and Equipment: All the office equipment was provided by Worldmax. Over and above that, the Appellant used her own cell phone (sometimes) and her own car for which she was reimbursed for some gas. This factor is somewhat equivocal but on balance, when I consider the office situation, I am inclined to the view of an employee rather than an independent contractor.
+[82] Chance of Profit/Risk of Loss: The more contracts the Appellant signed up, the more she would make by way of commissions over and above her guaranteed minimum. In fact, she apparently never did. The opportunity, however, was there. On the other hand, apart from the cost of her car and her cell phone, both of which appear to have been somewhat minimal (one tank of gas per week), she had no exposure to any risk of loss. Again, this factor is somewhat equivocal but on the whole, I find that from a financial point of view, the arrangement did not have an entrepreneurial ring to it. It was very much predicated on some base remuneration with a chance to increase that if she did well.
+[83] On balance, I find this factor again points towards a contract of service rather than a contract for services by an independent contractor.
+[84] Integration: this is a factor which has often been criticized. The question often asked is "whose business is it?" That must be asked from the point of view of the worker, not the employer as from the latter's point of view, it will always look like its business. The real question is whether there were two businesses here or one. Following the Sagaz case (above) the question to be asked is whether the Appellant was "a person in business on her own account". That, of course, is the central issue in the appeals. Thus, the Court must consider whether her work was done as an integral part of the Worldmax business or whether, although the work was done for that business, it was not integrated into it but only accessory to it.
+[85] Clearly, the business of Worldmax was the selling of local and long distance telephone lines for AT & T Canada. If she was in business for herself, the business of the Appellant could only be categorized in the same way.
+[86] I do not find that there was any significant entrepreneurial aspect to the work of the Appellant. She made it clear at the outset, despite signing the agreement, that she did not want to be in business for herself anymore. Northwood made certain commitments to her in this respect. Thereafter, there was nothing independent around how she went about her work. Her routes were set up and closely monitored by Ken Northwood. Everything she did was very much done within the context of the Worldmax business. There is one troublesome exception, namely the matter of her undertaking sales of Rogers AT & T cellular equipment. Even then, she thought she needed permission from Northwood.
+[87] In these types of disputes there is rarely purity, in the sense that often an employment situation has factors which resemble both an independent contract for services, and independent contractors have factors which resemble employment situations. The Court has to decide these things on balance. On balance, I am of the view that there was only one business operating here, that of Worldmax and that the services provided by the Appellant were fully integrated into that business. In coming to that conclusion, I have particularly weighed the minimum guaranteed remuneration, the commitments made to the Appellant by Northwood despite the signed agreement, the control factor, the lack of any entrepreneurial aspect to her work, and the fact that she made a conscious decision to no longer be in business for herself, which she communicated to Northwood.
+Conclusion
+[88] When I look at the forest as a whole and not just at the individual trees, I am well satisfied on the evidence that the Appellant was an employee working under a contract of service. I see a considerable distinction in this case from the Wolf case (above). Whilst the principles enunciated in that case may now well lead to a greater number of consultants being engaged as independent contractors rather than as employees, the situation at hand has nonetheless left me with the overall impression that the Appellant in this case was, in reality, an employee.
+[89] Accordingly, the appeal is allowed and decisions of the Minister are vacated.
+Signed at Calgary, Alberta, this 28th day of October 2003.
+"Michael H. Porter"
+Porter, D.J.
+CITATION:
+2003TCC701
+COURT FILE NO.:
+2002-3636(EI) and 2002-3637(CPP)
+STYLE OF CAUSE:
+Elizabeth Bouchard and M.N.R.
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+June 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Michael H. Porter,
+Deputy Judge
+DATE OF JUDGMENT:
+October 28, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

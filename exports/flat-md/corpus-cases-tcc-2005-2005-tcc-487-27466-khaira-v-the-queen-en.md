@@ -1,0 +1,147 @@
+---
+title: "Khaira v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27466/index.do"
+last_modified: "2005-08-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 487"
+citation2: ""
+neutral_citation: "2005 TCC 487"
+decision_date: "2005-08-05"
+language: "en"
+item_id: "27466"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 222
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:29:39.432000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33c3472b4851970e409cc31c7673291706f14b3c77c583d8de4ef3c2c894db8a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Khaira v. The Queen
+
+- Citation: 2005 TCC 487
+- Decision date: 2005-08-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 222, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Khaira v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-05
+Neutral citation
+2005 TCC 487
+File numbers
+2004-3662(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3662(IT)I
+BETWEEN:
+JATINDER KHAIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on July 19, 2005 at Toronto, Ontario.
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Scott I. Simser
+Counsel for the Respondent:
+Jenny Mboutsiadis
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant and his spouse were living separate and apart pursuant to a written agreement in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of August 2005.
+"G. Sheridan"
+Sheridan, J.
+Citation:2005TCC487
+Date: 20050805
+Docket: 2004-3662(IT)I
+BETWEEN:
+JATINDER KHAIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Jatinder Khaira, appealed the Notices of Reassessment of the Minister of National Revenue for his 2000 and 2001 taxation years in which the Minister disallowed the deduction of spousal and child support amounts. In reaching his decision, the Minister assumed that the payments he made to his wife Raminder Khaira were not paid by Mr. Khaira pursuant to a written agreement, and that Mr. and Mrs. Khaira were not living separate and apart in 2000 and 2001. Accordingly, these payments were not “support amounts” under paragraph 60(b) of the Income Tax Act and were not deductible.
+[2] Both Mr. and Mrs. Khaira testified. No witnesses were called for the Crown. The validity of the agreement between Mr. and Mrs. Khaira is a question of mixed fact and law; whether they were living separate and apart is a question of fact.
+[3] According to their evidence, prior to his marriage to Mrs. Khaira in August 1990, Mr. Khaira was living with his parents at their residence in Scarborough. Although registered only in his parents’ names, Mr. Khaira had contributed to the purchase price of the property. Immediately after the wedding, Mrs. Khaira began living with her husband in his parents’ home. Two children were born, one in October 1991 and the second on December 28, 1993. Around this time, the couple separated. The separation was triggered by Mr. Khaira's continued refusal to take steps to make his wife a co-owner of the residence, something she desired for security for herself and her children. Mr. Khaira’s reluctance stemmed from memories of past losses after two failed marriages. Applying the lessons from these unhappy experiences, Mr. Khaira drafted a document entitled “Separation Agreement” which was signed by the parties and witnessed by Mrs. Khaira’s mother on December 30, 1993. Mr. Khaira moved from the main floor of the residence to the vacant one-bedroom apartment in the basement where he maintained his residency for nearly 10 years until their reconciliation in 2003. Around this time, Mrs. Khaira was finally successful in having her name added to the title to the residence where she had lived since her marriage. By Transfer[1] dated April 28, 2003, her husband’s parents transferred a 75 per cent share in the property to the joint ownership of Mr. and Mrs. Khaira.
+1. Whether the Separation Agreement is a “written agreement”
+[4] Counsel for the Respondent argued that the Separation Agreement was not a written agreement within the meaning of Income Tax Act. Mr. Khaira testified that although he has no legal training, he had some familiarity with the format of such documents from his former marriages. The document is not without its flaws; it does not stipulate, for example, on which day monthly spousal support payments were to be made (although provision has been made for child support to be payable on the 10th of each month). I do not accept the Respondent’s submission, however, that this omission is fatal to its legitimacy as a “written agreement”. As Mrs. Khaira explained, as long as she knew she was getting paid, she was not concerned about the day. There was no suggestion at the hearing that Mr. Khaira had not paid the amounts claimed for spousal or child support. Mr. Khaira deducted the payments from his income and with the exception of $1,000 which seems to have been inadvertently omitted, Mrs. Khaira claimed the amounts as income in 2000 and 2001.
+[5] The Act does not specify the form the written agreement must take or that its validity is contingent upon the parties having had independent legal advice. The Khairas' Separation Agreement is in writing and sets out the essentials of the agreement between the parties: the date of the separation, the names and dates of birth of the children of the marriage, the amounts payable each month for spousal and child support, custodial arrangements for the children and certain events of termination. There was no evidence to challenge the Khairas’ testimony that they signed this agreement on December 30, 1993, nor were they shaken on cross‑examination. For all of these reasons, I am satisfied that the Separation Agreement is a “written agreement” within the meaning of the Act.
+2. Whether the Khairas' were living separate and apart:
+[6] Both counsel cited Kelner v. R.[2] in which Bowman, J.T.C.C., as he then was, relied on the criteria set out in Cooper v. Cooper (1972), 10 R.F.L. 184 (Ontario. H.C.):
+...generally speaking, a finding that the parties were living separate and apart from each other has been made where the following circumstances were present:
+(i) Spouses occupying separate bedrooms.
+(ii) Absence of sexual relations.
+(iii) Little, if any, communication between spouses.
+(iv) Wife performing no domestic services for husband.
+(v) Eating meals separately.
+(vi) No social activities together.
+[7] I am satisfied, largely on the strength of Mrs. Khaira’s quietly credible testimony, that the evidence justifies a finding under the Cooper criteria that Mr. and Mrs. Khaira were living separate and apart in 2000 and 2001. Mrs. Khaira and her children lived on the main floor of the house, space they shared for approximately half of each year with Mr. Khaira’s parents when they returned from India. Mr. Khaira was living in a self-contained suite in the basement of what had been the matrimonial home. He had his own sleeping quarters in the bedroom of the apartment. Both were unchallenged on their testimony as to the absence of sexual relations during their separation. Communication was limited to those occasions, primarily when their children were younger, when Mr. Khaira made arrangements to spend time with them after his working day. I accept Mrs. Khaira’s evidence that she performed no domestic services for him: for example, the laundry facilities were located between the main floor and the basement apartment, equally accessible from either area. While I have no reason to conclude that Mr. Khaira did his own laundry, I am satisfied that it was not Mrs. Khaira’s responsibility to see to it. Mrs. Khaira had no knowledge of whether he prepared meals in his apartment; she, however, did not make his meals and was able to testify that there was a microwave in the apartment for his use. She and the children took their meals together: either upstairs (with or without the grandparents) or, when she took them out for a treat, at family restaurants. The Khairas have few relatives in Canada other than Mr. Khaira’s parents and not a particularly large circle of friends. Mrs. Khaira struck me as having been kept singularly in the dark regarding how Mr. Khaira spent his time when not in her presence. What socializing each did was done separately; Mrs. Khaira did not know where Mr. Khaira spent his time; she herself devoted most of her free time to her children and their activities.
+[8] The Khairas had separate bank accounts except for a small joint investment account. Mrs. Khaira deposited Mr. Khaira’s support payments in her own chequing account. She had her income tax returns prepared by her own tax advisor, not by her husband who prepared his own. Mr. Khaira’s average income for the two years was approximately $95,000. Counsel for the Respondent made much of this fact, arguing that if he really wanted to live separate and apart, Mr. Khaira could easily have afforded to rent an apartment in another part of Scarborough. I do not find this argument compelling. He was able to achieve the same result living rent-free, undisturbed by his wife and yet near his children and parents, in a separate part of a house in which he had a financial interest.
+[9] Marriages take many forms, most bearing little resemblance to the happily‑ever-after model held out as the ideal. Separation arrangements are no less varied, their structure depending on the unique situation of the couple involved. The case law is clear that each case must be judged on its own facts. It is equally clear that once the Appellant has made out a prima facie demolishing[3] the Minister’s assumptions, the burden of proof shifts to the Minister[4]. In the present case, the Appellant presented more than enough evidence to challenge the Minister’s assumptions; no one was called by the Crown to rebut the Khairas’ version of events. On the evidence before me, I am satisfied on a balance of probabilities that during 2000 and 2001, Mr. and Mrs. Khaira were living separate and apart within the meaning of the Income Tax Act.
+[10] For the reasons set out above, the appeals are allowed, with costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant and his spouse were living separate and apart pursuant to a written agreement.
+Signed at Ottawa, Canada, this 5th day of August 2005.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2005TCC487
+COURT FILE NOS.:
+2004-3662(IT)I
+STYLE OF CAUSE:
+JATINDER KHAIRA v. HMQ
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 19, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+August 5, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Scott I. Simser
+Counsel for the Respondent:
+Jenny Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Scott I. Simser
+Firm:
+Scott I. Simser
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-4
+[2] [1996] 1 C.T.C. 2687 (T.C.C.)
+[3] Bayridge Estates v. M.N.R., 59 DTC 1098 (Ex. Ct.); Johnston v. M.N.R. [1948] S.C.R. 496]; Kennedy v. M.N.R., 73 DTC 5359 (F.C.A.), at p. 5361)
+[4] First Fund Genesis v. The Queen, 90 DTC 6337 (F.C.T.D.); Kamin v. M.N.R., 93 DTC 62 (T.C.C.); MacIsaac v. M.N.R., 74 DTC 6380 (F.C.A.); Zink v. M.N.R., 87 DTC 652 (T.C.C.); Magilb Development Corp. Ltd. v. The Queen, 87 DTC 5012 (F.C.T.D.); Waxstein v. M.N.R., 80 DTC 1348 (T.R.B)

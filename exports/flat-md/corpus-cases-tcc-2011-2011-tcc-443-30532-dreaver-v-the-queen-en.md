@@ -1,0 +1,130 @@
+---
+title: "Dreaver v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30532/index.do"
+last_modified: "2011-09-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 443"
+citation2: ""
+neutral_citation: "2011 TCC 443"
+decision_date: "2011-09-29"
+language: "en"
+item_id: "30532"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7335
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:16:37.305000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0208857b6c2665458eb301e5f712ae1e73ab1dc16633629cb91f153f1fee1a23"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dreaver v. The Queen
+
+- Citation: 2011 TCC 443
+- Decision date: 2011-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7335, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dreaver v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-29
+Neutral citation
+2011 TCC 443
+File numbers
+2007-1821(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1821(IT)I
+BETWEEN:
+JOE DREAVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 6, 2011, at Saskatoon, Saskatchewan
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Krowina
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the reassessment under the Income Tax Act of the Appellant’s 2001 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 29th day of September 2011.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2011TCC443
+Date: 20110929
+Docket: 2007-1821(IT)I
+BETWEEN:
+JOE DREAVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Joe Dreaver, is appealing the reassessment by the Minister of National Revenue of his 2001 taxation year. Mr. Dreaver is one of many former employees of O.I. Employee Leasing Inc. who have been reassessed on the basis that their employment income was not tax exempt under paragraphs 87(1)(b) of the Indian Act and 81(1)(a) of the Income Tax Act.
+[2] O.I. Employee Leasing Inc. is a corporation owned by Roger Obonsawin, a status Indian. Its head office is located on the Six Nations of the Grand River Reserve in Ontario. In 2001, O.I. Employee Leasing Inc. was employing status Indians who were placed in employment with businesses and organizations across Canada (“placement agencies”). O.I. Employee Leasing Inc. deducted a fee for its placement services from the employees’ wages. The purpose of this arrangement was to permit the employees to claim an exemption from taxation in respect of their employment income. Unfortunately, many of the employees who agreed to be employed by O.I. Employee Leasing Inc. had no understanding of this scheme or the law governing the taxability of their off-reserve income. As a result, many have since found themselves faced with an unexpected tax bill and without any assistance from their one-time employer.
+[3] Mr. Dreaver represented himself and was the only witness to testify. He was straight-forward in his description of the circumstances of his employment in 2001. There is no dispute that he was employed by O.I. Employee Leasing Inc., that O.I. Employee Leasing Inc. was located on a reserve or that Mr. Dreaver’s employment income was the “personal property of an Indian” within the meaning of paragraph 87(1)(b) of the Indian Act. The only issue is whether there is a sufficient connection between Mr. Dreaver’s employment and a reserve for it to be considered “situated on a reserve” under that provision, and thereby, tax exempt under paragraph 81(1)(a) of the Income Tax Act.
+[4] That determination depends on the particular facts of each case, considered in accordance with the approach set out by the Supreme Court of Canada decision, Williams v. Canada, [1992] 1 S.C.R. 877 at pages 899-900:
+In the context of the exemption from taxation in the Indian Act, there are three important considerations: the purpose of the exemption; the character of the property in question; and the incidence of taxation upon that property. Given the purpose of the exemption, the ultimate question is to what extent each factor is relevant in determining whether to tax a particular kind of property in a particular manner would erode the entitlement of an Indian qua Indian to personal property on the reserve.
+[5] Briefly summarized, the connecting factors include the location of the employer; the location and nature of the employee’s work, including any benefit accruing to a reserve because of it; and the place of residence of the employee.
+[6] In 2001, Mr. Dreaver was working for Grizzly Well Servicing (Grand Centre) Ltd.[1] (“Grizzly Well Servicing”) in the Alberta oilfields. Mr. Dreaver was based in Cold Lake. He began working for the company as a “roughneck” which he described as the lowest ranking job in the oilfields. By 2001, he had worked his way up to “derrick hand” and obtained the certification necessary to perform all duties associated with the drilling rig.
+[7] In the spring of 2001, Grizzly Well Servicing suggested to Mr. Dreaver that he transfer his employment with that company to O.I. Employee Leasing Inc. Young and inexperienced, Mr. Dreaver accepted without question the company’s representations that because he, as a status Indian, would be working on reserve land at least some of the time, switching over to O.I. Employee Leasing Inc. would put an extra $500 in his pocket every two weeks. Grizzly Well Servicing handled all the administrative changes and Mr. Dreaver began to be paid by O.I. Employee Leasing Inc. Apart from the name of his employer, however, there were no significant changes in his status: he continued to perform exactly the same tasks he had prior to the switch. He did not report to anyone at O.I. Employee Leasing Inc. nor did he receive any training from that company. And as had been the case with Grizzly Well Servicing, O.I. Employee Leasing Inc. deposited Mr. Dreaver’s salary directly into his CIBC account in Cold Lake, Alberta.
+[8] As it turned out, Mr. Dreaver soon became dissatisfied with the new set up. Unlike Grizzly Well Servicing, O.I. Employee Leasing Inc.’s payroll practices were unreliable; Mr. Dreaver never knew when he would receive his pay cheque. As a result, he told Grizzly Well Servicing he wanted to go back to their original arrangement. Grizzly Well Servicing was slow to respond to his request and Mr. Dreaver had moved on to other employment before the necessary changes were finally made.
+[9] As far as Mr. Dreaver knew, none of the principals of Grizzly Well Servicing were status Indians. It was his understanding that the company’s offices were not located on reserve land and he accepted counsel for the Respondent’s suggestion that its head office was likely in Edmonton, Alberta. And contrary to what Grizzly Well Servicing had told him when his employment was switched over to O.I. Employee Leasing Inc., Mr. Dreaver later came to believe that generally, that company carried out its work on non-reserve land owned by Imperial Oil.
+[10] As for Mr. Dreaver’s place of residence, although over the years he had spent time on reserves visiting relatives, he had never lived on one. While working as an O.I. Employee Leasing Inc. employee with Grizzly Well Servicing, he lived in Cold Lake; he went to a local reserve only to buy tobacco products.
+[11] In these circumstances, I am unable to conclude that there was a sufficient link between Mr. Dreaver’s employment with O.I. Employee Leasing Inc. and a reserve to render his income exempt from taxation. The only factors connected to a reserve were the location of O.I. Employee Leasing Inc.’s offices on Six Nations and whatever portion of his employment income he spent on cigarettes. He lived, worked and received his earnings off-reserve. There was no evidence to suggest his work on the oil rigs differed in any way from the tasks performed by his non‑Native counterparts in the Alberta oilfields.
+[12] In his submissions to the Court, Mr. Dreaver asked whether he could at least be relieved of having to pay the interest which had accrued on the amounts assessed for the 2001 taxation year. He noted that at all times before and since his eight‑month stint with O.I. Employee Leasing Inc., he has reported and paid tax on his off-reserve income. I regret that I cannot assist Mr. Dreaver: in my view, he was very poorly served by O.I. Employee Leasing Inc. (and possibly, Grizzly Well Servicing) both of whom seem to have taken advantage of his youthful inexperience. However, under the Income Tax Act, only the Minister of National Revenue has the discretion to reduce or eliminate the interest correctly calculated on a valid reassessment.
+[13] The appeal from the reassessment of the 2001 taxation year is, therefore, dismissed. No costs are ordered against Mr. Dreaver.
+Signed at Ottawa, Canada, this 29th day of September 2011.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2011TCC443
+COURT FILE NO.: 2007-1821(IT)I
+STYLE OF CAUSE: JOE DREAVER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: September 6, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: September 29, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Krowina
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-2.

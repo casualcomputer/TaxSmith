@@ -1,0 +1,228 @@
+---
+title: "Monuments B.M. inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28891/index.do"
+last_modified: "2008-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 502"
+citation2: ""
+neutral_citation: "2008 CCI 502"
+decision_date: "2008-09-17"
+language: "fr"
+item_id: "28891"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1366
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:23:43.848000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed3ae009f2ec5aff27f99cab2afd7cfff020e316b061adb4892073d97b0cee97"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Monuments B.M. inc. c. M.R.N.
+
+- Citation: 2008 CCI 502
+- Decision date: 2008-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1366, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Monuments B.M. inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-17
+Référence neutre
+2008 CCI 502
+Numéro de dossier
+2007-4478(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-4478(EI)
+ENTRE :
+MONUMENTS B.M. INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Gestion G.D.R.R. Inc. (2007-4480(EI)),
+le 26 août 2008, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision du ministre du Revenu national, selon laquelle les travailleurs occupaient un emploi assurable exercé aux termes d’un contrat de louage de services, de l’alinéa 5(1)a) de la Loi sur l'assurance-emploi, est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 17e jour de septembre 2008.
+« François Angers »
+Juge Angers
+Dossier : 2007-4480(EI)
+ENTRE :
+GESTION G.D.R.R. INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel
+de Monuments B.M. Inc. (2007-4480(EI)),
+le 26 août 2008, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la décision du ministre du Revenu national, selon laquelle les travailleurs occupaient un emploi assurable exercé aux termes d’un contrat de louage de services, de l’alinéa 5(1)a) de la Loi sur l'assurance-emploi, est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 17e jour de septembre 2008.
+« François Angers »
+Juge Angers
+Référence : 2008 CCI 502
+Date : 20080917
+Dossiers: 2007-4478(EI)
+2007-4480(EI)
+ENTRE :
+MONUMENTS B.M. INC.,
+GESTION G.D.R.R. INC.,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit de deux appels visant une décision du ministre du Revenu national (le « Ministre ») à l’effet que l’emploi exercé par Guy Martin, Daniel Martin et Richard Martin (les travailleurs) auprès de l’appelante, Monuments B.M. Inc. (ci-après « BM »), du 1er janvier 2004 au 31 décembre 2006, et auprès de Gestion G.D.R.R. Inc. (ci-après « GDRR ») du 1er janvier 2003 au 31 décembre 2003, étaient des emplois assurables au sens des alinéas 5(1)a) et 5(2)b) de la Loi sur l’assurance-emploi (la « Loi »). Les appels ont été entendus sur preuve commune.
+[2] En début d’audience, les appelantes ont admis que les travailleurs exerçaient leur emploi auprès d’elles aux termes d’un contrat de louage de services et que les appelantes et les trois travailleurs sont des personnes liées au sens de la Loi de l’impôt sur le revenu.
+[3] Les appelantes soutiennent que les emplois sont exclus des emplois assurables en raison de ce lien de dépendance et que le Ministre aurait mal exercé son pouvoir discrétionnaire reconnu par l’alinéa 5(3)b) de la Loi en ce qu’il n’était pas raisonnable pour ce dernier de conclure que les travailleurs et les appelantes auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Cette conclusion du Ministre a pour effet de créer une présomption à l’effet que le lien de dépendance entre les appelantes et les travailleurs, dans le cadre de leur emploi, n’était plus présent.
+[4] Aux fins des présentes, et même si la question visant le lien de dépendance et l’existence d’un contrat de louage de services ne sont plus en cause, je vais reproduire les présomptions de faits sur lesquelles le Ministre s’est appuyé en indiquant si elles sont admises ou niées par les appelantes.
+Dossier Monuments B.M. Inc.
+a) l’appelante a été constituée en société le 14 janvier 1970; [admis]
+b) l’appelante fabriquait des monuments funéraires; [admis]
+c) l’entreprise de l’appelante était saisonnière soit d’avril à novembre pour l’atelier de fabrication, durant l’hiver l’appelante ne pouvait pas livrer de monuments; [admis]
+d) le bureau administratif de l’appelante était ouvert à l’année longue; [admis]
+e) l’appelante avait un chiffre d’affaires d’environ 1,5 millions de dollars par année;
+f) l’appelante employait, en plus des 3 actionnaires, 15 travailleurs saisonniers et environ 70 représentants des ventes;
+g) Guy Martin travaillait pour l’appelante depuis 1976, Richard Martin et Daniel Martin travaillaient pour l’appelante depuis 1980;
+h) Guy Martin était le directeur général de l’appelante; [nié tel que rédigé]
+i) les tâches de Guy Martin consistaient à la gestion financière, à la tenue de livres, à la comptabilité et à superviser une secrétaire; [nié tel que rédigé]
+j) Daniel Martin s’occupait du service à la clientèle et de la gravure des monuments dans les cimetières; [admis]
+k) les tâches de Daniel Martin consistaient à gérer les activités des vendeurs, des relations avec les clients et à effectuer le travail de lettrage; [admis]
+l) Richard Martin était le directeur de la production; [admis]
+m) les tâches de Richard Martin consistaient à superviser la production de la livraison des monuments; [admis]
+n) Richard Martin supervisait une dizaine d’employés de l’atelier de fabrication; [admis]
+o) les travailleurs n’avaient pas d’horaire de travail fixe; [admis]
+p) les travailleurs travaillaient de 50 à 70 heures par semaine pour l’appelante durant la saison la plus active et ils travaillaient de 25 heures à 30 heures par semaine durant les mois d’hiver; [nié]
+q) la rémunération des travailleurs était décidée par l’appelante, et ceci en accord avec la convention unanime des actionnaires; [nié]
+r) Guy Martin recevait comme rémunération annuelle 120 780 $ en 2004, 110 828 $ en 2005 et 112 938 $ en 2006; [admis]
+s) Daniel Martin recevait comme rémunération annuelle 74 545 $ en 2004, 74 743 $ en 2005 et 75 923 $ en 2006; [admis]
+t) Richard Martin recevait comme rémunération annuelle 66 214 $ en 2004, 66 246 $ en 2005 et 67 256 $ en 2006; [admis]
+u) le salaire était versé régulièrement aux travailleurs à toutes les semaines par dépôt direct; [admis]
+v) l’appelante avait une vie corporative active; [nié]
+w) les décisions importantes pour l’appelante étaient prises par les administrateurs ou par les actionnaires selon les termes des conventions unanimes des actionnaires qui restreignaient les pouvoirs des administrateurs, datées du 27 janvier 1986; [nié]
+x) un lien de subordination existait entre l’appelante et les travailleurs; [nié]
+y) l’appelante avait un droit de contrôle sur les travailleurs et ce contrôle était exercé. [nié]
+L’appelante et les travailleurs sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) les actionnaires de l’appelante avec des actions votantes étaient :
+Guy Martin 33 ⅓ des actions
+Daniel Martin 33 ⅓ des actions
+Richard Martin 33 ⅓ des actions
+b) Guy Martin, Daniel Martin et Richard Martin sont des frères;
+c) les travailleurs sont liés par les liens du sang à un groupe de personnes qui contrôlent l’appelante;
+Le ministre a déterminé aussi que l’appelante était réputée ne pas avoir de lien de dépendance avec les travailleurs dans le cadre de leur emploi car il a été convaincu qu’il était raisonnable de conclure que l’appelante et les travailleurs auraient conclu entre eux un contrat de travail à peu près semblable s’il n’avait pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le salaire et les bonis des travailleurs avaient été décidés par entente des actionnaires de l’appelante; [admis]
+b) les travailleurs étaient responsables de leur secteur d’activité respectif; [nié]
+c) les travailleurs occupaient des postes de direction, compte tenu de leurs fonctions et de leurs responsabilités chez l’appelante, la rémunération des travailleurs était raisonnable; [nié]
+d) les travailleurs étaient au service de l’appelante à l’année longue depuis plus de 25 ans; [admis]
+e) la durée du travail des travailleurs était raisonnable; [nié]
+f) le travail des travailleurs était essentiel et important pour la bonne marche de l’entreprise de l’appelante; [admis]
+g) il n’y avait pas d’absence prolongée des travailleurs; [admis]
+h) la nature et l’importance du travail des travailleurs étaient raisonnables; [nié]
+i) les modalités d’emploi reflétaient les exigences des postes de direction des travailleurs; [nié]
+j) les modalités d’emploi des travailleurs étaient raisonnables. [nié]
+Dossier Gestion G.D.R.R. Inc.
+a) l’appelante a été constituée en société le 16 mai 1986; [admis]
+b) l’appelante rémunérait les travailleurs durant l’année en litige alors que les travailleurs étaient au service de l’employeur véritable; [admis]
+[. . . ]
+r) Guy Martin recevait comme rémunération annuelle 101 677 $ en 2003; [admis]
+s) Daniel Martin recevait comme rémunération annuelle 72 471 $ en 2003; [admis]
+t) Richard Martin recevait comme rémunération annuelle 64 301 $ en 2003; [admis]
+[. . . ]
+w) les décisions importantes pour l’appelante étaient prises par les administrateurs ou par les actionnaires selon les termes des conventions unamimes des actionnaires qui restreignaient les pouvoirs des administrateurs, datées du 5 juin 1987; [nié]
+[5] Seul Guy Martin a témoigné à l’audience. Il est le directeur général de BM. Il s’agit évidemment d’une entreprise familiale. Son témoignage a servi en grande partie à confirmer les hypothèses ayant servi au Ministre dans sa détermination de la question en litige et que les appelantes avaient admises. Il a cependant corrigé une de ces admissions, soit celle selon laquelle lui et ses deux frères étaient les actionnaires de BM à parts égales alors que la totalité des actions avec droit de vote de BM sont la propriété de GDRR. Les trois frères sont propriétaires à parts égales des actions avec droit de vote de GDRR, sauf que, depuis 2006, les actions de Guy Martin appartiennent à sa société de gestion. Il est également reconnu par le témoin que, pour la période du 1er janvier au 31 décembre 2003, les travailleurs étaient payés par GDDR mais que l’employeur véritable durant cette période était BM.
+[6] Monsieur Guy Martin a aussi apporté certaines précisions sur le fonctionnement de BM et particulièrement sur ses responsabilités et les fonctions qu’il cumule au sein de l’entreprise BM. En plus d’être directeur général, monsieur Martin, agit à titre de vendeur à commission ou de représentant des ventes à raison d’une journée par semaine, dans un territoire défini. C’est cette activité qui explique l’écart de revenus entre le sien et celui de ses deux frères. De plus, les salaires des travailleurs indiqués dans la réponse à l’avis d’appel comprennent un montant versé à titre de boni. Les travailleurs ont reçu des dividendes de l’appelante GDRR durant les quatre périodes en question mais ce montant n’est pas inclus dans le total de leur rémunération respective. Deux des trois frères ont donc reçu à peu près le même salaire, à 10 000 $ près, sauf Guy Martin qui a reçu en moyenne 40 000 $ de plus par année en commissions pour les années en question. Il faut se rappeler que BM possède environ 70 représentants de vente sur la route qui sont tous des travailleurs autonomes et qui font le même travail que Guy Martin.
+[7] Le salaire des frères a été établi par les actionnaires conformément à une entente intervenue entre eux et dans laquelle ils ont convenu de restreindre le pouvoir des administrateurs de BM et de GDRR visant, entre autres, la déclaration et la détermination du taux d’un dividende et la détermination et le paiement de tout salaire, boni, gratification ou autre forme de rémunération.
+[8] Chacun des travailleurs occupait un poste clef au sein de l’entreprise selon les tâches décrites dans la réponse à l’avis d’appel. Les heures consacrées à l’exercice de leurs fonctions respectives étaient semblables, sauf pour Guy Martin qui prenait une journée par semaine à titre de représentant des ventes à son compte. Il consacrait donc un peu moins d’heures que les deux autres travailleurs à son poste de gestionnaire, mais, d’après la description, ses tâches semblent avoir été plus exigeantes les soirs et les fins de semaine en tant que directeur général. Il n’y avait donc pas d’horaire déterminé, chacun préférant s’adapter à la situation de façon à répondre aux besoins de l’entreprise.
+[9] BM payait à chacun des travailleurs une prime d’assurance invalidité mais les prestations n’étaient payables que 6 mois après l’évènement causant l’invalidité. BM s’est donc engagée, advenant la réalisation du risque, à continuer de payer le salaire des trois travailleurs durant cette période initiale de 6 mois. Sur le plan des vacances, chacun avait droit à 6 semaines de vacances par année, et il était convenu que ces vacances devaient être prises durant la période la moins achalandée de l’année et sans chevauchement.
+[10] Selon Guy Martin, son départ en tant que directeur général entraînera la création d’une nouvelle structure de gestion de sorte que BM devra embaucher un contrôleur et un comptable pour le remplacer. Elle devra aussi embaucher un représentant des ventes pour couvrir son territoire. Il faudra également rétablir des liens de confiance en vue d’assurer la bonne marche de l’entreprise et il pourrait être difficile d’exiger d’un étranger le même dévouement et la même confiance.
+[11] Les dispositions législatives pertinentes se trouvent aux alinéas 5(2)i) et 5(3)b). L’alinéa 5(2)i) se lit comme suit :
+5(2) Restriction. — N'est pas un emploi assurable :
+[. . . ]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[12] À la lecture de cet alinéa, l’emploi des trois travailleurs en l’espèce est, de prime abord, exclu des emplois assurables, sauf que le Ministre a un pouvoir discrétionnaire, tel que le prévoit l’alinéa 5(3)b) lorsque l’employeur et l’employé sont des personnes liées au sens de cette loi, qu’il peut exercer selon les critères suivants :
+5(3) Personnes liées. — Pour l'application de l'alinéa (2)i) :
+a) [. . . ]
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[13] La question à laquelle il faut répondre est celle de savoir si, en l’espèce, la décision du Ministre semble toujours raisonnable à la lumière de la preuve entendue. En d’autres mots, il faut se demander si les trois travailleurs actionnaires en l’espèce auraient conclu un contrat de travail à peu près semblable s’il n’y avait pas de lien de dépendance entre eux et BM.
+[14] Ce genre de situation, où l’on trouve des travailleurs qui sont à la fois actionnaires et salariés d’un employeur, a déjà fait l’objet de certaines décisions de cette cour, notamment dans le jugement Lacroix c. Canada, [2007] A.C.I. no 81, où le juge Archambault résumait ce genre de situation de la façon suivante au paragraphe 41 de sa décision :
+La raison pour laquelle je souligne cette nuance est le fait que nous sommes ici en présence de trois travailleurs qui, en même temps, détiennent par l'intermédiaire de leur société de placement respective un tiers du payeur. Ils sont en quelque sorte les propriétaires indirects du payeur et de son entreprise. Quand l'alinéa 5(3)b) de la Loi exige qu'il soit déterminé si le contrat de travail aurait été à peu près semblable n'eût été le lien de dépendance, il faut, je crois, tenir compte du fait qu'il s'agit de trois travailleurs qui sont en même temps les propriétaires indirects du payeur. De façon individuelle, aucun des trois ne contrôle le payeur et, par conséquent, n'eût été le lien de parenté qui existe entre eux, aucun des travailleurs n'aurait été une personne liée au payeur au sens de la Loi de l'impôt, de sorte qu'il n'y aurait pas eu de lien de dépendance légal. D'ailleurs, l'alinéa 5(3)b) de la Loi n'indique pas qu'il faut faire abstraction des intérêts financiers que les travailleurs détiennent dans la société. Par conséquent, il est possible d'imaginer trois travailleurs n'ayant aucun lien de parenté entre eux, détenant chacun un tiers du capital-actions du payeur et n'ayant aucun lien de dépendance avec celui-ci6. La question que devait trancher le ministre pourrait donc être reformulée ainsi : si les trois travailleurs avaient détenu chacun un tiers des actions du payeur sans qu'il y ait de lien de dépendance entre eux et le payeur, auraient-ils conclu un contrat de travail à peu près semblable?
+___________________________________________
+6 Il est important de souligner que ce n'est pas parce qu'une personne est un actionnaire de son employeur qu'il existe nécessairement un lien de dépendance entre elle et son employeur. On pourrait imaginer un employeur dont les actions sont détenues par cinq ou dix actionnaires qui seraient tous des salariés de cet employeur. À supposer que les actions soient détenues en parts égales, aucun de ces actionnaires ne serait en mesure de dicter une ligne de conduite au payeur et, par conséquent, ne serait en mesure de le contrôler. Dans ce cas, à moins de circonstances spéciales, on ne pourrait pas conclure non plus à un lien de dépendance factuel. Pour une discussion de l'existence d'un lien de dépendance factuel entre les membres d'un groupe d'actionnaires n'ayant aucun lien de dépendance légal avec la société, voir la décision Gestion Yvan Drouin Inc. c. La Reine., 2001 DTC 72; [2001] 2 C.T.C. 2315, aux par. 73 et suiv. et en particulier aux par. 80 et suiv. Ici, je ne crois pas qu'il y ait d'indices pouvant démontrer l'existence d'un lien de dépendance factuel entre les travailleurs et le payeur.
+[15] C’est exactement, à mon avis, la question qui se pose en l’espèce. Est-ce qu’il y a dans les critères que doit prendre en considération le Ministre, soit les modalités de l’emploi, l’importance du travail accompli, la rémunération et la durée de l’emploi, des éléments qui font en sorte que leur contrat de travail est différent parce qu’il existe un lien de dépendance entre eux et BM.
+[16] Il n’y a rien dans la preuve que j’ai entendue qui puisse me permettre de conclure que la décision du Ministre n’est pas raisonnable. Chacun des travailleurs occupait un poste de cadre dont l’activité était essentielle au bon fonctionnement de BM. Les modalités d’emploi auxquelles ils adhéraient étaient compatibles avec leur qualité d’actionnaires (propriétaires) et d’employés cadres. Il en était de même pour les heures de travail, les vacances, les avantages, tels que le versement de leur salaire pour 6 mois avant qu’ils ne soient admissibles aux prestations versées en vertu de l’assurance salaire fournie par BM. Ce sont toutes des modalités d’emploi que les trois associés ou actionnaires employés auraient convenu de respecter même s’il n’y avait pas eu entre eux et l’employeur un lien de dépendance.
+[17] En ce qui a trait à l’argument des appelantes voulant que les travailleurs continuaient à travailler durant la saison morte, soit entre novembre et avril, cela compense, à mon avis, pour les longues heures travaillées durant le reste de l’année et la preuve démontre qu’il ne s’agissait pas de temps perdu puisqu’il y avait du travail à accomplir.
+[18] Leur dévouement et le fait que, s’ils devaient quitter l’entreprise, il faudrait possiblement embaucher deux employés pour remplir les mêmes fonctions relève davantage du fait qu’ils ont un intérêt financier dans la bonne marche de l’entreprise et qu’il en serait probablement de même pour tout actionnaire employé. Cela n’a rien à voir avec l’existence d’un lien de dépendance.
+[19] Il me semble que là où le lien de dépendance a peut-être joué un rôle c’est lorsque le travailleur Guy Martin a obtenu de pouvoir consacrer une journée par semaine de travail à son compte, soit la journée où il agissait à titre de travailleur autonome comme représentant des ventes au même titre que les 70 autres représentants de BM. Cela a eu pour effet de réduire ses heures de travail par rapport aux deux autres travailleurs et lui permettre ainsi de toucher un revenu additionnel. Les appelantes soulèvent d’ailleurs dans leurs arguments que le Ministre n’a pas pris ce facteur en considération dans l’exercice de sa discrétion.
+[20] La preuve démontre cependant que le travailleur Guy Martin, dans son rôle de directeur général, était appelé à être davantage disponible pour BM, particulièrement les soirs et les weekends par rapport aux deux autres travailleurs, et qu’il semble avoir ainsi compensé le temps qu’il consacrait à titre de représentant des ventes. Le montant des commissions versées à Guy Martin peut sembler élevé, mais le rendement en termes de revenus qu’en tirait BM directement et ses actionnaires était très satisfaisant.
+[21] Compte tenu des circonstances et de la preuve, les appelantes n’ont pas réussi à démontrer que la décision du Ministre semble déraisonnable. Les appels sont rejetés.
+Signé à Edmundston, Nouveau-Brunswick, ce 17e jour de septembre 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008 CCI 502
+Nº DES DOSSIERS DE LA COUR : 2007-4478(EI)
+2007-4480(EI)
+INTITULÉS DES CAUSES : Monuments B.M. Inc. et M.R.N.
+Gestion G.D.R.R. Inc. et M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 26 août 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DES JUGEMENTS : le 17 septembre 2008
+COMPARUTIONS :
+Avocat des appelantes :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes :
+Nom : Me Jérôme Carrier
+Cabinet : Jérôme Carrier
+avocat
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

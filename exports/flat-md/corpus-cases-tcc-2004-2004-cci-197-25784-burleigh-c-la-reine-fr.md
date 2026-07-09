@@ -1,0 +1,166 @@
+---
+title: "Burleigh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25784/index.do"
+last_modified: "2004-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 197"
+citation2: ""
+neutral_citation: "2004 CCI 197"
+decision_date: "2004-03-05"
+language: "fr"
+item_id: "25784"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3794
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:43:41.116000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd7153f2746a7089a6cc150f40c6b7df3013af657441d6828ffb6c68aa6d1da9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burleigh c. La Reine
+
+- Citation: 2004 CCI 197
+- Decision date: 2004-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burleigh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-05
+Référence neutre
+2004 CCI 197
+Numéro de dossier
+2003-4485(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier 2003-4485(IT)G
+ENTRE :
+DON G. BURLEIGH,
+Appelant,
+Et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune en même temps que celle de Douglas A. Burleigh (2003‑4487(IT)G) le 2 mars 2004 à Toronto (Ontario).
+Devant : l’honorable D.G.H. Bowman, juge en chef adjoint
+Comparution :
+Avocat de l’appelant :
+Jacques Bernier
+Avocat de l’intimée :
+Shatru Ghan
+____________________________________________________________________
+ORDONNANCE MODIFIÉE
+Sur requête de l’avocat de l’intimée pour une ordonnance visant à radier l’appel en vertu de l’aliéna 58(1)b) des Règles de la Cour canadienne d’impôt (procédure générale);
+Et après audition des allégations des parties;
+La requête est rejetée et l’appelant a droit à ses dépens quelle que soit l’issue de la cause;
+L’intimée se voit accorder une prolongation de 30 jours à compter de la date de cette ordonnance modifiée pour signifier et déposer sa réponse à l’avis d’appel.
+Signé à Toronto (Ontario), ce 9e jour de mars 2004.
+« D.G.H. Bowman »
+Bowman, D.G.H.
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+Dossier 2003-4487(IT)G
+ENTRE :
+DOUGLAS A. BURLEIGH,
+Appelant,
+Et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue sur preuve commune en même temps que celle de Don G. Burleigh (2003‑4485(IT)G) le 2 mars 2004 à Toronto (Ontario).
+Devant : l’honorable D.G.H. Bowman, juge en chef adjoint
+Comparution :
+Avocat de l’appelant :
+Jacques Bernier
+Avocat de l’intimée :
+Shatru Ghan
+____________________________________________________________________
+ORDONNANCE MODIFIÉE
+Sur requête de l’avocat de l’intimée pour une ordonnance visant à radier l’appel en vertu de l’aliéna 58(1)b) des Règles de la Cour canadienne d’impôt (procédure générale);
+Et après audition des allégations des parties;
+La requête est rejetée et l’appelant a droit à ses dépens quelle que soit l’issue de la cause;
+L’intimée se voit accorder une prolongation de 30 jours à compter de la date de cette ordonnance modifiée pour signifier et déposer sa réponse à l’avis d’appel.
+Signé à Toronto (Ontario), ce 9e jour de mars 2004.
+« D.G.H. Bowman »
+Bowman, D.G.H.
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC197
+Date : 20040309
+Dossier 2003-4485(IT)G
+ENTRE :
+DON G. BURLEIGH,
+Appelant,
+Et
+SA MAJESTÉ LA REINE,
+Intimée,
+ET
+Dossier : 2003-4487(IT)G
+ENTRE :
+DOUGLAS A. BURLEIGH,
+Appelant,
+Et
+SA MAJESTÉ LA REINE,
+Intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE MODIFIÉE
+Bowman, D.G.H.
+[1] Ces requêtes ont été entendues simultanément. L’intimée demande que soient radiés les appels sur le motif qu’ils ne révèlent aucun moyen raisonnable d’interjeter appel (alinéa 58(1)b)) de Règles de la Cour canadienne d’impôt (procédure générale)) ou parce qu’ils sont scandaleux, frivoles et vexatoires (alinéa 53b)). Il n’y a rien de scandaleux, de frivole ou de vexatoire dans les avis d’appel. Ils ne sont ni plus ni moins que des demandes visant à reporter une perte en capital nette de 2001 à 2002. Le point en vertu de l’alinéa 53b) des Règles n’a pas été soumis et je n’ai rien à ajouter à ce sujet.
+[2] Quant à la requête de radiation d’un acte de procédure au motif qu'il ne révèle aucun moyen raisonnable d'interjeter appel au sens de l’alinéa 58(1)b), il faut examiner uniquement l’acte de procédure et ne s’appuyer sur aucune autre preuve que ce soit. De plus, en accord avec la tendance jurisprudentielle de la Cour suprême du Canada qui est souvent suivie par cette cour, il doit être évident et manifeste que l’action n’aboutira pas.
+[3] Les paragraphes dans les deux avis d’appel qui, selon l’intimée, appuient sa requête à l’effet que ceux-ci ne révèlent aucun moyen raisonnable d’interjeter appel sont les suivants :
+(Douglas Burleigh)
+[Traduction]
+4. Le ou autour du 18 novembre 2003, l’appelant a présenté une déclaration de revenus modifiée pour 2001 et déclaré une perte en capital de 3 441 945,87 $, donnant lieu à une perte de capital nette de 1 720 972,94 $ qu’il pouvait déduire du revenu d’autres années.
+5. Le ou autour du 30 avril 2003, l’appelant a présenté sa déclaration de revenus pour 2002.
+6. Dans sa déclaration de revenus de 2002, l’appelant a déduit (aux termes du paragraphe 111(8) de la Loi de l’impôt sur le revenu (du Canada) (la « Loi »)) des pertes de capital nettes de 487 888,42 $ de 2001 de ses gains en capital nets de 2002.
+(Don Burleigh)
+[Traduction]
+4. Le ou autour du 18 novembre 2003, l’appelant a présenté une déclaration de revenus modifiée pour 2001 et déclaré une perte en capital de 2 893 256,19 $, donnant lieu à une perte de capital nette de 1 446 628,10 qu’il pouvait déduire du revenu d’autres années.
+5. Le ou autour du 30 avril 2003, l’appelant a présenté sa déclaration de revenus pour 2002.
+6. Dans sa déclaration de revenus de 2002, l’appelant a déduit (aux termes du paragraphe 111(8) de la Loi de l’impôt sur le revenu (du Canada) (la « Loi »)) des pertes de capital nettes de 488 696,50 $ de 2001 de ses gains en capital nets de 2002.
+[4] La seule différence entre l’avis d’appel de Douglas Burleigh et celui de Don Burleigh, si on excepte les montants, c’est le fait que Don Burleigh a réclamé la perte en capital dans sa déclaration originale de 2001 alors que Douglas Burleigh l’a réclamée dans sa déclaration modifiée de 2001.
+[5] Si je suis bien l’argumentation de l’avocat de l’intimée, les appelants n’ont pas le droit de reporter une perte en capital nette de 2001 à 2002 parce que lorsqu’ils ont présenté leur déclaration de revenus pour 2002 le ou autour du 30 avril 2003, ils n’avaient pas encore présenté leurs déclarations pour 2001 dans lesquelles la perte en capital avait été inscrite. L’avocat prétend qu’il est permis de reporter une perte en capital nette en vertu de l’alinéa 111(1)b) de la Loi de l’impôt sur le revenu seulement si la perte est inscrite dans la déclaration de revenus de l’année où la perte a été subie.
+[6] En fait, l’avocat va même plus loin : il affirme que non seulement la perte doit être inscrite mais également que la déclaration doit avoir été « traitée » par l’Agence des douanes et du revenu du Canada (« ADRC ») et la perte, acceptée par le ministre du Revenu national. Si le calcul de la perte du contribuable n’est pas accepté par le ministre, le contribuable doit faire appel, selon les prétentions de l’avocat.
+[7] Il me semble que certaines idées fausses circulent ici, la première étant que quelqu’un peut faire appel du calcul de la perte effectué par le ministre même dans le cas d’une cotisation néant. Or, on ne peut faire appel d’une cotisation néant. On peut par contre demander que le montant de la perte soit déterminé en vertu du paragraphe 152(1.1). Une telle détermination est exécutoire, sous réserve des droits d’opposition et d’appel du contribuable.
+[8] Si l’argumentation de l’avocat signifie que le seul moyen pour le contribuable de contester le calcul fait par le ministre de la perte qu’il peut reporter en arrière ou en avant contre le revenu d’une autre année d’imposition en vertu de l’article 111 est de demander que le montant de la perte soit déterminé et ensuite de faire appel de cette décision si le ministre est en désaccord sur les calculs du contribuable, alors, et je le dis en tout respect, l’avocat est dans l’erreur.
+[9] Il est évident qu’il n’est pas nécessaire de demander la détermination de la perte en vertu du paragraphe 152(1.1). Le contribuable peut simplement reporter sa perte dans une année d’imposition où il a déclaré du revenu. Si le ministre n’est pas d’accord avec le contribuable sur les calculs et décide de refuser une partie ou la totalité de la perte reportée, celui-ci peut contester et faire appel. Du plus loin que je me souvienne, c’est cette pratique qui a toujours été suivie. À mon avis, c’est correct sur les plans juridique et logique. Pourquoi iriez-vous demander une détermination de la perte, si vous n’êtes pas certain de pouvoir l’utiliser? Il est beaucoup plus logique de réclamer une perte d’une année antérieure ou postérieure dans une année où vous déclarez du revenu et où, ce faisant, vous obtenez un avantage. Rien dans la Loi de l’impôt sur le revenu ne soutient la position de l’intimée à l’effet qu’un contribuable peut contester le calcul d’un report prospectif de perte fait par le ministre seulement au moyen d’une détermination de la perte. Si le Parlement avait eu cette intention, il aurait agi en conséquence. Je croyais que cette notion avait été tirée au clair dans la cause Aallcann Wood Suppliers Inc. c. Sa Majesté la Reine, 94 DTC 1475.
+[10] Il est également faux de penser que non seulement la perte sur laquelle la perte reportée en avant est calculée doit être inscrite dans la déclaration de revenus de l’année au cours de laquelle elle a été subie, mais aussi que la déclaration doit avoir été « traitée » et la perte, acceptée par le ministre. Cette idée est erronée sur deux fronts. Premièrement, il est faux de prétendre que la perte doit avoir été inscrite dans la déclaration de revenus de l’année au cours de laquelle elle a été subie. L’article 111 ne dicte aucune restriction de la sorte. Il permet au contribuable de reporter en avant ou en arrière diverses catégories de perte. On n’y mentionne nullement le fait que la perte doit avoir été inscrite dans une déclaration de revenus. Les définitions données au paragraphe 111(8) des diverses catégories de perte auxquelles l’article 111 s’applique n’exigent pas que lesdites pertes aient été inscrites dans la déclaration de revenus de l’année d’imposition au cours de laquelle elles ont été subies. Il y a certes des raisons logiques de vouloir que la perte soit inscrite dans la déclaration de revenus de l’année au cours de laquelle elle a été subie, mais ce n’est pas ce que la loi exige.
+[11] Toute personne, autre qu’une société, qui n’a aucun impôt à payer n’est pas tenue de présenter de déclaration de revenus, à moins que le ministre le demande. Selon l’argumentation de l’État, une personne qui a subi une perte dans une année dont l’effet serait de donner un revenu imposable néant se verrait refuser le droit de reporter en avant une perte dans une année se soldant par un revenu imposable contre lequel la perte pourrait être appliquée, à moins que la déclaration de revenus ait été présentée pour l’année en question. Rien dans la Loi de l’impôt sur le revenu ne dicte une restriction de la sorte.
+[12] Enfin, l’idée que la déclaration de revenus doit avoir été « traitée » par l’ADRC n’a aucun fondement, ni juridique ni logique.
+[13] Les pertes pouvant être reportées en avant — et je parle ici de n’importe quelle catégorie de perte à laquelle le paragraphe 111(1) s’applique — ont, tout comme les revenus, une existence qui n’a rien à voir avec le fait d’être inscrites ou non dans une déclaration de revenus. Il est possible d’en faire une détermination objective. Le droit du contribuable d’utiliser ces pertes n’est pas assujetti aux restrictions que l’État pourrait leur imposer. Je ne ferai pas dire à la Loi de l’impôt sur le revenu ce qu’elle ne dit pas.
+[14] Les requêtes sont rejetées. Les appelants ont droit à leurs dépens quelle que soit l’issue de la cause.
+[15] L’intimée a le droit à une prolongation de 30 jours à compter de la date de l’ordonnance modifiée pour signifier et présenter une réponse à l’avis d’appel.
+Signé à Toronto (Ontario) ce 9e jour de mars 2004.
+« D.G.H. Bowman »
+Bowman, D.G.H.
+Traduction certifiée conforme
+ce 31e jour de mars 2005.
+Colette Dupuis-Beaulne, traductrice

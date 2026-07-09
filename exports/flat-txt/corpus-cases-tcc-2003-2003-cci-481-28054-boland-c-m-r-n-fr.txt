@@ -1,0 +1,120 @@
+Title: Boland c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28054/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-481-28054-boland-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-09-09
+
+# Boland c. M.R.N.
+
+- Citation: 2003 CCI 481
+- Decision date: 2003-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1574, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boland c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-09
+Référence neutre
+2003 CCI 481
+Numéro de dossier
+97-1978(UI)
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2003CCI481
+Date : 20030909
+Dossier : 97-1978(UI)
+ENTRE :
+MICHAEL BOLAND,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Avocat de l'appelant : Me François Landry
+Avocat de l'intimé : Me Pierre-Paul Trottier
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(lus à l'audience le 27 mai 2003
+à Blanc-Sablon (Québec))
+Le juge en chef Garon
+[1] Il s'agit d'un appel d'une décision en date du 21 août 1997 du ministre du Revenu national selon laquelle l'emploi de l'appelant durant la période du 30 août 1992 au 12 septembre 1992 n'était pas assurable au motif qu'il n'existait pas de contrat de louage de services entre l'appelant et le payeur J.F.S. Construction Ltée.
+[2] Les motifs du ministre du Revenu national à l'appui de sa décision du 21 août 1997 ont été précisés dans la Réponse à l'avis d'appel. Selon l'un de ces motifs, « le payeur n'avait aucun contrôle sur le travail de l'appelant ». Ce motif a été abandonné lors de l'audition de cet appel. Quant au deuxième motif, l'appelant n'aurait pas travaillé durant la période en litige mais aurait rendu des services au payeur durant une autre période antérieure à la période en litige mais sur le même chantier et concernant l'exécution des mêmes travaux.
+[3] De ce qui précède, il ressort que la seule question en jeu à la suite de l'audition de cet appel consiste à déterminer si l'appelant a travaillé durant les deux semaines en question. L'avocat de l'intimé n'a pas soutenu que le nombre d'heures de travail était si peu élevé durant une semaine donnée, par exemple, que son emploi n'aurait pas été assurable aux fins de l'ancienne loi, c'est-à-dire la Loi sur l'assurance-chômage.
+[4] Les différentes hypothèses à l'appui de la décision du ministre dont appel sont formulées dans le paragraphe 5 de la Réponse à l'avis d'appel. Ce paragraphe se lit ainsi :
+5. En rendant sa décision, l'intimé, le ministre du Revenu national, s'est basé, notamment, sur les faits suivants :
+a) le payeur a été incorporé en 1976, mais a commencé ses activités en 1989;
+b) le payeur exploitait une entreprise de construction;
+c) Jules Landry était le seul actionnaire du payeur;
+d) les bureaux du payeur étaient situés à Lourdes de Blanc-Sablon;
+e) l'appelant travaillait à La Tabatière, situé à 200km de Blanc-Sablon;
+f) le bateau ou l'avion étaient les seuls moyens de communication entre le lieu de travail de l'appelant et les bureaux du payeur;
+g) le payeur ne se rendait pas sur les lieux de travail à cause des coûts économiques trop élevés;
+h) les tâches de l'appelant consistaient à faire du terrassement, à préparer du ciment et poser des piquets de clôtures;
+i) le payeur n'avait aucun contrôle sur le travail de l'appelant;
+j) selon le journal des salaires du payeur, l'appelant a travaillé 45 heures la première semaine du lundi au samedi et 48 heures la deuxième semaine du lundi au samedi;
+k) l'appelant avait besoin de deux semaines pour se qualifier à recevoir des prestations d'assurance-emploi;
+l) l'appelant n'a pas travaillé tous les jours, tel qu'indiqué au journal des salaires;
+m) l'appelant ne travaillait pas les jours de mauvais temps;
+n) l'appelant a accumulé des heures de travail pendant plusieurs semaines qui ont été inscrites au journal des salaires sur deux semaines;
+o) le journal des salaires du payeur ne reflète pas les journées réellement travaillées de l'appelant;
+p) l'appelant a mentionné qu'il travaillait avec Terry Nadeau, Christopher Green, Brian McKinnon;
+q) Terry Nadeau aurait travaillé du 3 au 8 août 1992 pour le payeur, Christopher Green aurait travaillé du 19 octobre au 14 novembre 1992 pour le payeur et Brian McKinnon n'aurait pas travaillé pour le payeur en 1992;
+r) dans leur déclaration statutaire, Terry Nadeau, Christopher Green et Brian McKinnon ne mentionnent pas avoir travaillé avec l'appelant;
+s) la période prétendument travaillée de l'appelant ne correspond pas avec la période réellement travaillée.
+[5] Les alinéas b), d), e), h), j) et p) du paragraphe 5 de cette réponse ont été admis. Les alinéas a) et c) n'ont été ni admis ni niés. Les alinéas f), k), m), q) et r) ont été niés tels que rédigés mais en substance ils ont été admis sous réserve d'explications ou d'un complément d'information, selon le cas. Les autres alinéas du paragraphe 5 de cet acte de procédure ont tout simplement été niés.
+[6] L'appelant, au cours de son témoignage, a affirmé catégoriquement qu'il avait travaillé durant les deux semaines en question et il a fourni des précisions sur la nature de son travail et quant aux personnes qui auraient travaillé avec lui durant cette période. L'appelant avait signé une « déclaration statutaire » le 15 mars 1995 substantiellement dans le même sens que son témoignage sur la plupart des questions qui y sont abordées. Cette « déclaration statutaire » rédigée par madame Louise Pineau n'a pu être lue par l'appelant parce que ce dernier n'était pas en mesure de lire ni d'écrire en raison de son niveau de scolarité.
+[7] Le relevé des salaires tenu par l'employeur de même que le chèque de paie en date du 19 septembre 1992 font état des semaines de travail de l'appelant se terminant respectivement le 5 et le 12 septembre 1992. Le relevé d'emploi mentionne le 30 août 1992 comme premier jour de travail et le 12 septembre 1992 comme dernier jour de travail. Cette documentation fut produite lors de l'audition.
+[8] Lors de sa déposition, monsieur Jerry Landry, le fils du seul actionnaire du payeur, a mentionné notamment qu'il a quitté le chantier le 8 août 1992 où l'appelant devait travailler plus tard. L'appelant aurait, d'après lui, travaillé plus tard en août pendant deux ou trois semaines. Il a ajouté qu'il connaissait peu l'appelant et que son père, l'âme dirigeante du payeur, ne l'aurait jamais rencontré; tout au plus, son père aurait peut-être parlé à l'appelant au téléphone durant cette période. Il confirme que c'est son père qui avait préparé le relevé des salaires et le relevé d'emploi concernant l'appelant. C'est son père également qui a signé le chèque de paie fait à l'ordre de l'appelant. Cette documentation, selon monsieur Jerry Landry, reflète bien la situation véritable au sujet de l'emploi de l'appelant durant la période en litige.
+[9] Madame Lise Chouinard a aussi témoigné pour le compte de l'intimé. Elle travaillait à l'époque pertinente dans le secteur des enquêtes au sein du ministère du Développement des ressources humaines. Elle ne s'est pas occupée du dossier de l'appelant en particulier mais de dossiers semblables impliquant notamment le même payeur. Elle a produit différents documents dont la « déclaration statutaire » de l'appelant et celle de monsieur Terry Nadeau. L'employé du ministère du Développement des ressources humaines qui a procédé à l'enquête concernant l'appelant n'a pu témoigner pour une raison valable lors du premier segment de cette audition.
+Analyse
+[10] L'intimé a souligné certaines contradictions entre d'une part, la « déclaration statutaire »de l'appelant et son témoignage à l'audience, et d'autre part, la « déclaration statutaire » et le témoignage de monsieur Terry Nadeau et certains autres éléments de la preuve. Je note en passant qu'en ce qui concerne la « déclaration statutaire » de monsieur Terry Nadeau, seulement les 14 dernières lignes de cette dernière — à la deuxième page — ont trait aux travaux exécutés en août 1992 au chantier dont il est ici question. Ces contradictions qui, dans bien des cas, étaient neutres quant à l'impact sur la question en litige pouvaient toutefois influer sur la question de crédibilité. Je pense en particulier aux dépositions relatives à la présence de certains autres employés du payeur au moment où l'appelant rendait des services au payeur dans le cadre des travaux relatifs à l'érection d'une clôture dans une certaine cour d'école à La Tabatière. Ni monsieur Jerry Landry ni monsieur Terry Nadeau n'ont contredit la déposition de l'appelant selon laquelle il aurait travaillé pour le payeur du 30 août 1992 au 12 septembre 1992. Ils étaient toutefois incapables de préciser les dates exactes de la période d'emploi de l'appelant.
+[11] En outre, la preuve documentaire sous la forme du relevé des salaires et du relevé d'emploi confirme la position de l'appelant. La date du chèque de salaire le 19 septembre 1992 et la date d'encaissement de ce même chèque le 21 septembre 1992 à la Caisse populaire de La Tabatière sont tout à fait compatibles avec la version de l'appelant. En outre, le président du payeur, et son seul actionnaire, n'avait aucun intérêt à prendre des dispositions spéciales pour favoriser l'appelant. Il ne le connaissait pas ou au mieux très peu. En outre, monsieur Jerry Landry, le fils du président du payeur, connaissait peu l'appelant bien qu'il fût celui qui avait retenu les services de l'appelant pour le compte du payeur et qu'il eût été le contremaître des employés du payeur qui ont travaillé au chantier en question durant une certaine période de temps en 1991 et 1992.
+[12] En dernière analyse, le débat dans cette affaire porte sur une question de crédibilité de l'appelant. Je suis prêt à accepter le témoignage de l'appelant après avoir examiné son comportement avec beaucoup de soin. J'attribue l'existence de certaines contradictions à des faiblesses de sa mémoire en raison de l'écoulement du temps. On doit se rappeler, par exemple, que la « déclaration statutaire » de l'appelant du 15 mars 1995 fut faite environ deux ans et demi après la fin de la période d'emploi de l'appelant. Il y a aussi le fait que l'appelant se rendait sur le chantier en question bien avant le début de sa période d'emploi non pas pour travailler mais pour s'entretenir, notamment avec son ami, monsieur Terry Nadeau, qui était au service du payeur à ce même chantier.
+[13] Eu égard aux observations qui précèdent, je conclus que l'appelant a bel et bien travaillé pour le compte du payeur durant la période en litige.
+[14] L'appel est, en conséquence, admis et l'emploi de l'appelant est assurable durant la période du 30 août 1992 au 12 septembre 1992.
+Signé à Ottawa, Canada, ce 9e jour de septembre 2003.
+« Alban Garon »
+Juge en chef Garon
+RÉFÉRENCE :
+2003CCI481
+No DU DOSSIER DE LA COUR :
+97-1978(UI)
+INTITULÉ DE LA CAUSE :
+Michael Boland
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+Blanc-Sablon (Québec)
+DATE DE L'AUDIENCE :
+14 août 2001
+26 mai 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge en chef Alban Garon
+DATE DU JUGEMENT :
+9 septembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me François Landry
+Pour l'intimé :
+Me Pierre-Paul Trottier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me François Landry
+Étude :
+Landry, Savard
+Sept-Îles (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

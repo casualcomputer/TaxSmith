@@ -1,0 +1,472 @@
+---
+title: "Sarwari c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29294/index.do"
+last_modified: "2009-07-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 357"
+citation2: ""
+neutral_citation: "2009 CCI 357"
+decision_date: "2009-07-06"
+language: "fr"
+item_id: "29294"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7095
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:46:23.245000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "931a62a780434bac925e84d25dd4cd86431efc7f2907a079ac7dcfc472b5468e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sarwari c. La Reine
+
+- Citation: 2009 CCI 357
+- Decision date: 2009-07-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7095, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarwari c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-06
+Référence neutre
+2009 CCI 357
+Numéro de dossier
+2007-623(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-623(IT)G
+ENTRE :
+ANWAR SARWARI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus les 11 et 12 mai 2009,
+à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Brent E. Cuddy
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2000, 2001 et 2002 de l’appelant sont accueillis avec dépens, et :
+a) la nouvelle cotisation concernant l’année d’imposition 2000 de l’appelant est annulée;
+b) en ce qui concerne la nouvelle cotisation concernant l’année d’imposition 2001 de l’appelant, la pénalité imposée conformément au paragraphe 163(2) de la Loi est supprimée;
+c) la nouvelle cotisation concernant l’année d’imposition 2002 de l’appelant est annulée.
+Signé à Halifax (Nouvelle‑Écosse), ce 6e jour de juillet 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour de septembre 2009.
+Erich Klein, réviseur
+Référence : 2009CCI357
+Date : 20090706
+Dossier : 2007-623(IT)G
+ENTRE:
+ANWAR SARWARI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a fait l’objet de nouvelles cotisations pour les années 2000, 2001 et 2002, certains montants supplémentaires étant inclus dans son revenu pour chacune de ces années compte tenu d’une analyse de l'avoir net effectuée par l’Agence du revenu du Canada (l’« ARC »). Au début de l’audience, l’avocat de l’intimée a déclaré que l’intimée consentait à ce que l’appel se rapportant à la nouvelle cotisation relative à l’année d’imposition 2002 de l’appelant soit accueilli. Par conséquent, seules les années 2000 et 2001 étaient en litige à l’audience.
+[2] L’appelant est mécanicien. Il a établi son entreprise de réparation à titre de propriétaire unique; avant les années visées par l’appel, il avait transféré son entreprise à Helmand Auto Inc. Bien que cela ne soit pas entièrement clair, il semble que l’appelant soit l’unique actionnaire de Helmand Auto Inc. Toutefois, c’est la participation de l’appelant à l’entreprise de Helmand Auto Wreckers Ltd. qui a attiré l’attention de l’ARC. L’appelant et ses deux frères possédaient chacun un tiers des actions de Helmand Auto Wreckers Ltd. Dans la réponse et au cours de l’audience, Helmand Auto Wreckers Ltd. a été décrite comme un « atelier de cannibalisation » (« chop shop ». Dans la réponse, il est dit que l’appelant a été déclaré coupable de trafic de biens volés à l’égard de cet « atelier de cannibalisation ». C’est la déclaration de culpabilité prononcée au criminel contre l’appelant qui a attiré l’attention de l’ARC et qui a amené celle-ci à décider de procéder à l’analyse de l'avoir net en vue de déterminer si l’appelant avait un revenu non déclaré.
+[3] Quoique ce soit une activité illégale qui a suscité l'intérêt de l'ARC, la question en litige dans le contexte de la Loi de l’impôt sur le revenu (la « Loi ») est de savoir si l’appelant avait un revenu non déclaré tel qu’il serait déterminé pour l’application de la Loi. Toute analyse de l'avoir net doit néanmoins s'effectuer selon certains principes et d'une manière rationnelle, de façon que le résultat de l’analyse constitue néanmoins une estimation du revenu de l’appelant, tel qu’il est déterminé pour l’application de la Loi. Comme l’ancien juge en chef Couture l’a fait remarquer dans la décision Shlien c. Le ministre du Revenu national, Cour canadienne de l’impôt, 84-2088(IT), le 27 janvier 1988, [1988] 1 C.T.C. 2244, 88 DTC 1152 :
+Il faut reconnaître qu’en vertu de la Loi, l’intimé est investi de pouvoirs étendus, mais aucun ne lui permet de transformer du capital en revenu. Le droit qu’il a de déterminer le revenu d’un contribuable pour une année d’imposition particulière en s’appuyant sur une analyse de la valeur nette ne peut être nié, mais cette détermination doit être conforme aux dispositions de la Loi de même qu’aux principes énoncés dans la jurisprudence. Établir sciemment une cotisation qui ne satisfait pas à ce critère équivaut à abuser de l’application de la décision de la Cour suprême du Canada mentionnée plus tôt, à savoir qu’il appartient à l’appelant de contester la validité d’une cotisation.
+[Non souligné dans l’original.]
+[4] Ce qui suit est le sommaire des montants relatifs à l'avoir net pour les années 2000 et 2001, tels que la vérificatrice les a déterminés et tels qu’ils sont énoncés dans la réponse :
+Description
+2000
+2001
+Actif
+493 450,20 $
+510 960,67 $
+Passif
+248 239,31 $
+239 794,55 $
+Avoir net
+245 210,89 $
+271 166,12 $
+Moins : Avoir net de l’année antérieure
+97 475,96 $
+245 210,89 $
+Augmentation (diminution) de l'avoir net
+147 734,93 $
+25 955,23 $
+Rajustements
+Ajouter : Dépenses personnelles
+35 844,93 $
+44 034,56 $
+Moins : Remboursement d’impôt sur le revenu
+1 083,59 $
+Moins : Remboursement d’impôt sur le revenu (épouse)
+1 125,53 $
+668,13 $
+Moins : Crédit de TPS
+722,00 $
+986,00 $
+Moins : Prestations fiscales pour enfants
+5 751,50 $
+6 935,14 $
+Total des déductions
+7 599,03 $
+9 672,86 $
+Rajustements nets
+28 245,90 $
+34 361,70 $
+Revenu selon l'avoir net
+175 980,83 $
+60 316,93 $
+Moins : Revenu déclaré (appelant)
+10 138,00 $
+14 248,00 $
+Revenu déclaré (épouse)
+705,00 $
+7 509,00 $
+Total du revenu non déclaré
+165 137,83 $
+38 559,93 $
+[5] Le revenu non déclaré pour l’année 2000 a été réduit de 1 537,21 $ à la suite du dépôt de l’avis d’opposition et, par conséquent, le montant du revenu non déclaré tel qu’il a été déterminé par l’intimée pour les besoins de la présente audience s’élevait à 163 600,62 $ pour l’année 2000. Des pénalités ont également été imposées conformément au paragraphe 163(2) de la Loi à l’égard de montants de revenu non déclaré établis pour chacune de ces années.
+[6] Les nouvelles cotisations concernant ces deux années d’imposition ont été établies après l’expiration de la période normale de nouvelle cotisation. Il incombait donc à l’intimée d’établir que l’appelant avait fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou qu’il avait commis une fraude en produisant sa déclaration de revenus ou en fournissant des renseignements sous le régime de la Loi à l’égard de ses années d’imposition 2000 et 2001 (Mensah c. La Reine, 2008 CCI 378, 2008 DTC 4358). La présumée présentation erronée des faits consistait à avoir déclaré en moins son revenu, compte tenu du revenu déterminé à l’aide de l’analyse de l'avoir net.
+[7] On utilise l’analyse de l'avoir net en vue de tenter de déterminer si une personne a un revenu non déclaré, compte tenu de son actif net (à savoir l’actif moins le passif) à la fin d’une année particulière comparativement à son actif net (l’actif moins le passif) à la fin de l’année précédente. Le revenu déclaré et les dépenses personnelles sont également déterminés (ou estimés) pour l’année en question. Si l’augmentation de l’avoir net plus le montant des dépenses personnelles sont supérieurs au revenu déclaré et aux sources non imposables d’argent (sauf les prêts qui auraient déjà été inclus dans la détermination de l’avoir net), l’excédent est considéré comme un revenu non déclaré, à moins que le contribuable ne puisse démontrer qu’il ne s’agit pas d’un revenu.
+[8] Dans la décision Ramey c. Canada, [1993] A.C.I. no 142 (QL), [1993] 2 C.T.C. 2119, 93 DTC 791, le juge Bowman (tel était alors son titre) a décrit comme suit la cotisation fondée sur l'avoir net :
+6 [...] Estimer le revenu annuel d’un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C’est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d’actif net repose sur une comparaison de l’actif net du contribuable, à savoir la valeur de l’actif moins le passif au début d’une année, avec son actif net à la fin de l’année. À la différence ainsi obtenue, on ajoute les dépenses qu’il a engagées pendant l’année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu’à preuve de leur inexactitude.
+[9] Dans la décision Bigayan c. Canada, [1999] A.C.I. no 778 (QL), [2000] 1 C.T.C. 2229, 2000 DTC 1619, le juge Bowman (tel était alors son titre) a également fait les remarques suivantes au sujet du recours à la méthode de l'avoir net aux fins de la détermination du revenu du contribuable :
+2 La méthode de la valeur nette est, comme on le faisait observer dans l’affaire Ramey v. The Queen, 93 DTC 791, une solution de dernier recours que l’on emploie lorsque tout le reste a échoué. On l’utilise souvent lorsqu’un contribuable a omis de produire des déclarations de revenus ou n’a pas conservé de documents. C’est un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année à sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus‑values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+3 Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff v. Minister of National Revenue, 49 DTC 680, à la page 683 :
+[traduction]
+En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+4 Ce moyen de contester une cotisation fondée sur la valeur nette est reconnu, mais, même après que l’on a procédé aux rajustements, on reste avec le sentiment trouble que la vérité n’a pas été pleinement découverte. Il est peu probable que l’on rende parfait en le modifiant un instrument qui, par nature, est imparfait.
+[10] La vérificatrice qui a préparé l’analyse de l'avoir net a témoigné à l’audience. Elle établit des états de l'avoir net depuis 1999. Elle a déclaré qu’en procédant à une analyse de l'avoir net, le coût historique des actifs était utilisé parce que la juste valeur marchande des actifs est subjective. À cet égard, son témoignage était notamment le suivant :
+[traduction]
+R. [...] J’examine les actifs, dans ce cas‑ci les propriétés. Ils seraient tous inscrits à leur coût historique, de sorte que, quel que soit leur prix d’achat, ils seraient toujours inscrits à ce coût sur l'état de l'avoir net. Étant donné que les augmentations sont subjectives pour ce qui est de l’évaluation, nous utilisons les coûts historiques simplement pour assurer l’uniformité.
+[...]
+Q. En ce qui concerne la disposition de la résidence principale, quelles conséquences la valeur historique dont vous avez parlé aurait‑elle pour ce qui est de l’augmentation de l'avoir net ou de l’élément bénéfice?
+R. Nous utilisons toujours la valeur historique ou le coût parce que le – cela est subjectif, l’augmentation est subjective, il s’agit de ce que les gens croient pouvoir obtenir pour leur propriété s’ils la mettent en vente. Il n’y a pas de règles fixes permettant de savoir, par exemple, ce que dans ce quartier une propriété vaut exactement, et de dire que ce montant sera obtenu. Pour plus de commodité et pour faciliter les calculs, nous utilisons toujours le coût. Ce n’est pas – il n’y a alors rien de subjectif. La valeur de l’actif est fixée à ce montant. Même les entreprises utilisent ce coût. Elles ne tiennent pas compte de l’augmentation de valeur dans leurs calculs. Elles utilisent le coût fixe, lorsqu’elles font l'inscription dans leurs livres. C’est pourquoi nous procédons ainsi, de façon à assurer l’uniformité dans les actifs, de façon à éviter de se fonder sur les opinions des uns et des autres au sujet de ce que devrait être le prix d’une maison. Il n’y a donc pas de problème de subjectivité. Il s’agit d’un montant fixe, et il en est ainsi. C’est ce qui a été payé, un point c’est tout.
+[11] Si, dans une analyse de l'avoir net, les actifs sont enregistrés à leur coût historique plutôt qu’à leur juste valeur marchande, ce n’est pas parce que l’évaluation est subjective, mais parce qu’une augmentation de valeur d’un actif particulier, sans qu’il y ait disposition (ou disposition réputée) de cet actif, n’est pas imposable. Ainsi, supposons qu’une personne particulière possède des actions qui lui ont coûté 10 000 $. Si, à la fin de la première année qui suit l’année de base, la personne possède encore ces actions et que la juste valeur marchande des actions est de 15 000 $, si les actions sont inscrits à 15 000 $ dans l’analyse de l'avoir net à la fin de la première année, l’augmentation de 5 000 $ de l'avoir net serait ajoutée au revenu de la personne. Ce ne serait pas le bon résultat puisque l’augmentation de valeur de 5 000 $ ne serait pas imposable, à moins qu’il n’y ait eu disposition (ou disposition réputée) des actions au cours de l’année.
+[12] En l’an 2000, l’épouse de l’appelant a vendu leur résidence principale. Le gain réalisé par suite de la disposition de la résidence principale n’a pas été pris en compte dans l’analyse de l'avoir net. L’explication donnée par la vérificatrice était la suivante :
+[traduction]
+Q. La propriété de l'avenue Sheppard était la résidence principale de l’appelant et de sa famille?
+R. Oui, elle l’était.
+Q. Est‑il exact de dire qu’en général, le gain tiré de la vente de la résidence principale n’est pas imposable?
+R. Il n’est pas imposable.
+Q. En est‑il tenu compte dans l'avoir net?
+R. Il en serait tenu compte dans l'avoir net en ce sens qu’ils auraient utilisé tout bénéfice tiré de cette maison, une fois l’hypothèque remboursée, pour acheter une maison plus grande. L’hypothèque ... ils ont acheté une maison qui coûtait 321 000 $. Alors que leur niveau de revenu était de 10 000 $, ils l’ont achetée pour 321 000 $. L’argent qu’ils auraient obtenu lors de la vente du 4727 aurait été utilisé comme versement initial et ensuite l’hypothèque elle‑même est en fait la différence entre les 321 et, je crois, les 240, ce qui était le principal de l’hypothèque. Cet argent aurait donc été utilisé pour le versement initial. Encore une fois, les résidences principales sont toujours inscrites à leur coût historique. Les hypothèques sont toujours inscrites à leur valeur comptable réelle de fin d’année, c'est-à-dire le montant impayé. Alors, le bénéfice était déjà pris en compte dans l’achat de la nouvelle résidence; tout bénéfice qu’ils auraient obtenu, ils l’auraient utilisé pour acheter une maison plus grande, à un prix plus élevé.
+Q. Cela aurait‑il eu des incidences sur leur avoir net?
+R. Cela a des incidences sur leur avoir net parce qu’ils ont acheté un actif plus coûteux.
+[13] La vérificatrice savait que la résidence principale avait été vendue, mais elle n’a pas déduit le gain, s'il en est, réalisé lors de la vente de la résidence principale en déterminant le revenu non déclaré tel qu’il a été déterminé au moyen de l’analyse de l'avoir net. La vérificatrice a également déclaré ce qui suit :
+[traduction]
+Q. Avez‑vous établi, dans ce cas‑ci, si le contribuable avait fait un bénéfice lors de la vente de cette maison?
+R. Il n’a pas fourni de renseignements. Je n’avais pas ces documents à ma disposition. Ils se trouvent dans les recueils de documents. Je n’ai jamais reçu ces documents.
+Q. S’il avait fait un bénéfice, cela aurait‑il eu de l’importance?
+R. Non. Cela n’aurait pas eu d’importance, parce qu’il s’agirait simplement d’une source, d’une affectation de fonds, pour voir s’il y avait quelque chose. Cela est tout à fait différent de l'avoir net.
+[14] Supposons qu’une personne acquière une résidence principale au prix de 100 000 $, et qu’elle possède cet actif à la fin de l’année de base. Si la propriété est vendue au prix de 225 000 $ (une fois les dépenses déduites) et si une nouvelle résidence principale est achetée pour 225 000 $, il semble que la vérificatrice inclurait une somme de 125 000 $ dans le revenu de la personne pour l’année où la nouvelle propriété a été acquise (étant donné que la nouvelle maison serait inscrite à son coût de 225 000 $ dans l’analyse de la valeur nette). De toute évidence, ce n’est pas le bon résultat. Le gain réalisé lors de la vente de la résidence principale ne serait pas imposable (à supposer que la propriété ait été la résidence principale de la personne en question pour chaque année au cours de laquelle cette dernière en était propriétaire et que cette personne n’ait pas eu d’autre résidence principale pendant cette période). Si le gain non imposable réalisé par suite de la vente d'une résidence principale n’était pas déduit dans la détermination du revenu non déclaré lorsqu'on prépare l’analyse de l'avoir net, les particuliers seraient imposables sur le gain réalisé lors de la vente de leur résidence principale, alors que, autrement, ce montant ne serait pas imposable.
+[15] La résidence principale de l’appelant a été incluse à titre d’actif à la fin de l’année 1999 (l’année de base), au coût de 137 000 $. La propriété a été vendue en l’an 2000 pour 161 000 $. La commission payable au courtier immobilier relativement à la vente de cette propriété (y compris la TPS) était de 6 460,13 $. Cette propriété appartenait à la femme de l’appelant (Fatemeh Hajibaba). Parmi les documents de l’appelant (qui ont été soumis en preuve sur consentement de l’intimée), il y avait des instructions signées par Fatemeh Hajibaba se rapportant à la répartition du produit de la vente de la propriété. Ces instructions comprenaient ce qui suit :
+Jaikrishin Ambwani en fiducie 2 837,63 $
+Schwartz & Schwartz en fiducie 1 142,00 $
+Durno, Shea & McMurter en fiducie 47 894,77 $
+[16] Les instructions sont datées du 16 octobre 2000, soit la même date que celle de l’état de rajustements pour l’achat de leur nouvelle maison, au 53, promenade Sayor, à Ajax (Ontario). Il semble donc que sur le montant tiré de la vente de la propriété située au 4727, avenue Sheppard Est (l’ancienne résidence principale), un montant de 47 894,77 $ ait été disponible pour être affecté au prix d’achat de la nouvelle propriété. Il semble également que les autres montants, de 2 837,63 $ et de 1 142 $, doivent avoir été payés pour d’autres dépenses ou pour d’autres frais se rapportant à la vente de la propriété de l’avenue Sheppard. Étant donné que l’acompte de 5 000 $ détenu par la société immobilière était inférieur à la commission à payer, une partie du montant versé à Jaikrishin Ambwani (qui était l’avocat agissant pour Fatemeh Hajibaba à l’égard de la vente de la propriété de l’avenue Sheppard) devait probablement servir au paiement du solde de la commission du courtier immobilier (6 460,13 $ - 5 000 $ = 1 460,13 $).
+[17] Bien que cela ne soit pas entièrement clair, ce qui suit semble être une estimation du gain réalisé par Fatemeh Hajibaba lors de la vente de la propriété de l’avenue Sheppard :
+[TRADUCTION]
+Prix de vente : 161 000 $
+Coût : 137 000 $
+Prix de vente moins coût : 24 000 $
+Commission du courtier immobilier : 6 460 $
+Honoraires d’avocat (2 838 $ - 1 460 $) 1 378 $
+Schwartz & Schwartz 1 142 $
+Estimation du gain : 15 020 $
+[18] Étant donné que, dans de l’année de base, la propriété était inscrite à son coût de 137 000 $, ce montant supplémentaire de 15 020 $ (qui aurait augmenté l’actif net de l’appelant) aurait dû être déduit dans la détermination du revenu non déclaré puisque cette augmentation était attribuable à une source non imposable, à savoir le gain réalisé lors de la vente d’une résidence principale. Il n’a pas été contesté que cette propriété était la résidence principale de l'appelant et de son conjoint pendant toutes les années où elle leur appartenait et rien ne montrait qu’au cours de ces années, ils avaient eu une autre résidence.
+[19] Une autre question sérieuse en ce qui concerne le témoignage de la vérificatrice se rapportait aux dettes de l’appelant au cours de l’année de base. La dette de l’appelant, pour ce qui est de l’hypothèque dont était grevée la résidence principale au cours de l’année de base, a été surestimée d’un montant de plus de 100 000 $. Cette hypothèque a été remboursée au complet en l’an 2000, lorsque la propriété de l’avenue Sheppard a été vendue, et la vérificatrice a affirmé avec insistance plus d’une fois au cours de son témoignage que la surestimation de cette dette jouait en faveur de l’appelant. La vérificatrice a appris, lors des interrogatoires préalables, que le montant de l’hypothèque avait été surestimé, mais à l’audience elle a continué à affirmer avec insistance que cela était avantageux pour l’appelant. Voici ce qu’elle a déclaré :
+[traduction]
+R. Ce document a été porté à mon attention; il indique que, au 16 octobre 2000, le solde réel de l’hypothèque était de 104 605 $ et devait être remboursé lors de la conclusion de la vente.
+Q. Ce document, à l’onglet 9, se rapporte‑t‑il à l’hypothèque de 220 000 $ que vous avez vue?
+R. Je crois comprendre qu’il s’agit du montant réel de l’hypothèque qui grevait la propriété située au 4727, avenue Sheppard, et non du document indiquant un montant de 220 000 $ qui a été enregistré au bureau d’enregistrement. Donc, en fait, cela aurait réduit leurs dettes. Dans ce cas-ci, le montant aurait été de 113 000 $, d’environ 113 000 $, ce qui aurait donc augmenté leur avoir net du montant réel correspondant à la différence si un tableau d’amortissement avait été établi; l'écart, bien sûr, serait différent en 1998 et en 1999 parce qu’il aurait diminué, mais la valeur, le montant de – des hypothèques elles‑mêmes qui sont inscrites sur l'état de l'avoir net est en fait favorable au contribuable. Le montant de la dette qui réduit son avoir net est en fait supérieur au montant qui aurait dû en fait être inscrit selon ce document se trouvant à l’onglet 9.
+[…]
+Q. En ce qui concerne l’avantage dont vous avez parlé, quant à la dette hypothécaire plus élevée – qui a été attribuée au 4727, Sheppard, comment cela est‑il avantageux pour le contribuable, si le montant de l’hypothèque qui est inscrit est plus élevé que ce qui s'est révélé être le véritable montant?
+R. Sans examiner chaque colonne, ce qui arriverait pour la première année, pour 1998, disons – je ne connais pas le chiffre exact - disons qu’il est de 107 000 $ en – pour illustrer la chose - en 1998. Cela réduirait le montant de 110 000 $. Les dettes réelles seraient donc réduites de 110 000 $. L’avoir net augmenterait de 110 000 $, de sorte qu’il se chiffrerait à 213 511 $. Encore une fois, lorsqu'on examine, et disons simplement que le montant a été réduit, qu’il était de 107, on le réduit disons à 110 ou à 100 – en utilisant les chiffres, c’est plutôt difficile à dire, à faire, de le réduire d’un autre – la différence dans ce cas est de 7 000 $ plus les 100. Il faudrait donc réduire le montant. Mais cela s’applique partout. L’avoir net, lorsqu’un montant de 113 est indiqué, ce serait 213; et ainsi jusqu’en bas. La dette est ensuite réduite, disons, de 100 000 $, de sorte que l’avoir net serait de 197 475 $. Et ensuite, on soustrait 223, 213. Il s’agit en fait d’une progression.
+C'est une progression de l’un à l’autre en allant en diagonale, et on prend l’actif moins le passif. Cela ne fait que – cela à une incidence sur les deux premières années, mais ensuite le – cela n’affecte pas – l’effet serait que ces 97 000 seraient soustraits de l’avoir net pour les années subséquentes. Alors, donc, si c’était 197, ce montant serait réduit disons de 100 000, ce qui donnerait 47. C’est une progression. Il semble y avoir une progression tout le long.
+Toutefois, lorsqu’on arrive à l’année 2001, le 245 est le même chiffre que celui qui s’appliquerait à l’année suivante, et ensuite le 271, il affecte les années 99 et 2000. Il part de l’année de base et s’applique jusqu’à l’année 2000 seulement, et il n’affecte pas les années 2001 et 2002.
+[20] Dans l’analyse de l'avoir net, le montant indiqué comme étant celui de l’hypothèque grevant la propriété de l’avenue Sheppard était de 210 766 $ à la fin de l’année 1999. Sur l’état du compte de prêt hypothécaire établi par la Banque Royale pour la période allant du 1er janvier au 17 octobre 2000 à l’égard de la propriété de l’avenue Sheppard, le solde d’ouverture du principal de l’hypothèque est de 107 090 $. Ce montant représentait probablement également le solde impayé au 31 décembre 1999. Par conséquent, le montant de l’hypothèque est surestimé de 210 766 $ - 107 090 $ = 103 676 $. Se fondant sur l’hypothèse selon laquelle le montant de l’hypothèque était de 210 766 $, la vérificatrice a conclu que l’appelant avait un revenu non déclaré de 165 138 $ en l’an 2000 (montant que l’ARC a réduit à 163 601 $ à la suite du dépôt de l’avis d’opposition). Il n’a pas été contesté que le montant de l’hypothèque grevant la propriété située sur la promenade Sayor a été correctement indiqué comme s’élevant à 239 912,42 $ à la fin de l’année 2000. Le tableau suivant illustre l’effet net de la correction du montant impayé de l’hypothèque grevant la propriété de l’avenue Sheppard, à la fin de l’année 1999 :
+Description
+1999
+2000
+Actif
+313 750,41 $
+493 450,20 $
+Passif
+Carte de crédit :
+5 508,42 $
+8 326,89 $
+Hypothèque à rembourser : 53, Sayor
+239 912,42 $
+Hypothèque à rembourser : 4727, Sheppard
+107 090,14 $
+Total des dettes :
+112 598,56 $
+248 239,31 $
+Avoir net
+201 151,85 $
+245 210,89 $
+Moins : Avoir net de l’année antérieure
+201 151,85 $
+Augmentation (diminution) de l'avoir net
+44 059,04 $
+Rajustements
+Ajouter : Dépenses personnelles
+35 844,93 $
+Moins : Remboursement d’impôt sur le revenu
+Moins : Remboursement d’impôt sur le revenu (épouse)
+1 125,53 $
+Moins : Crédit de TPS
+722,00 $
+Moins : Prestations fiscales pour enfants
+5 751,50 $
+Total des déductions
+7 599,03 $
+Rajustements nets
+28 245,90 $
+Revenu selon l'avoir net
+72 304,94 $
+Moins : Revenu déclaré (appelant)
+10 138,00 $
+Revenu déclaré (épouse)
+705,00 $
+Total du revenu non déclaré
+61 461,94 $
+[21] La correction apportée au montant de l’hypothèque grevant la propriété située sur l’avenue Sheppard réduit de 103 676 $, soit de 165 138 $ à 61 462 $, le revenu non déclaré pour l’année 2000. L’erreur n’était certes pas favorable à l’appelant.
+[22] Lorsque le gain estimé de 15 020 $ réalisé lors de la vente de la résidence principale de l’avenue Sheppard est également pris en compte, le montant mentionné comme étant un revenu non déclaré pour l’année 2000 serait réduit à 46 442 $. Étant donné que l’intimée a reconnu que le revenu non déclaré pour l’année 2000 à été réduit d’un montant de 1 537,21 $ à la suite du dépôt de l’avis d’opposition, le montant du revenu non déclaré serait ramené à 46 442 $ – 1 537 $ = 44 905 $.
+[23] L’appelant et son épouse ont trois enfants. Le premier enfant est né en 1994; des jumeaux sont nés au mois d’octobre 1998. En 1998, ils habitaient la propriété de l'avenue Sheppard, soit un condominium de deux chambres à coucher. Les parents de Fatemeh Hajibaba vivaient à Téhéran, en Iran. Son père (Hossein Hajibaba) occupait un poste élevé dans l’armée et il louait également une ferme en Iran. Il avait également hérité de ses parents. Au mois d’octobre 1998, peu de temps avant la naissance des jumeaux, la mère de Fatemeh Hajibaba est venue au Canada pour être avec sa fille. Elle est restée jusqu’au mois de février 1999, et elle est alors retournée en Iran, accompagnée de Fatemeh Hajibaba et de ses enfants.
+[24] L’appelant s’est également rendu en Iran pendant l’été 1999 et il y est resté pendant trois semaines. L’appelant et Fatemeh Hajibaba sont revenus au Canada ensemble avec leurs enfants et, par la suite, Hossein Hajibaba est venu au Canada, au mois de novembre 1999. Je retiens les témoignages de Fatemeh Hajibaba et de l’appelant selon lesquels, pendant qu’elle était en Iran, Fatemeh Hajibaba a reçu des cadeaux d’une valeur de 6 000 $ pour les jumeaux (qui étaient nés l’année précédente). Je retiens également les témoignages de Fatemeh Hajibaba et de l’appelant que Hossein Hajibaba a donné 9 000 $ à l’appelant pendant qu’ils étaient en Iran, en vue de les aider à acheter une nouvelle maison. La mère de Fatemeh Hajibaba était au Canada en 1998 et elle aurait donc vu le condominium de deux chambres à coucher dans lequel l’appelant, son épouse et maintenant leurs trois enfants devaient vivre. Fatemeh Hajibaba a déclaré que sa mère, lorsqu’elle était au Canada, avait soulevé la question des dimensions du condominium et leur avait dit qu’ils devraient s’installer dans un logement plus spacieux. Il semble logique que, lorsque la mère de Fatemeh Hajibaba est retournée en Iran, cette question ait encore une fois été soulevée et qu’en leur qualité de parents et de grands‑parents, les parents de Fatemeh Hajibaba aient voulu les aider s’ils le pouvaient.
+[25] Je retiens les témoignages de Fatemeh Hajibaba et de l’appelant selon lesquels les montants de 6 000 $ et de 9 000 $ susmentionnés ont servi à l’achat de la propriété située sur la promenade Sayor, en l’an 2000. On ne sait pas trop si le montant de 9 000 $ était un don ou un prêt, mais pour déterminer si l’appelant avait un revenu non déclaré en l’an 2000, il importe peu que Hossein Hajibaba leur ait prêté 9 000 $ ou qu’il leur ait donné 9 000 $ étant donné que, de toute façon, la source des 9 000 $ n’était pas imposable (et que, s’il s’agissait d’un prêt, rien ne montrait qu’il ait été en totalité ou en partie remboursé). Cela réduirait le revenu non déclaré pour l’année 2000 d’un autre montant de 15 000 $ (6 000 $ + 9 000 $), étant donné que ce montant de 15 000 $ n’a pas été pris en compte dans l’analyse de l'avoir net en tant que source de fonds non imposable.
+[26] Fatemeh Hajibaba et l’appelant ont également tous deux témoigné que, lorsqu’il était venu au Canada, Hossein Hajibaba avait également apporté 10 000 $. Ces 10 000 $ ont également été prêtés à l’appelant (et à son épouse) ou leur ont été donnés pour les aider à acheter une nouvelle maison. Comme il en a ci-dessus été fait mention, il est logique que des parents essaient d’aider leurs enfants et j’accepte que Hossein Hajibaba leur a prêté 10 000 $ à la fin de l’année 1999 ou en l’an 2000 ou qu’il leur a donné ce montant en cadeau pour les aider à acheter leur maison. Hossein Hajibaba est décédé en 2004.
+[27] Les 6 000 $ reçus en cadeau pour les jumeaux ainsi que les 9 000 $ et les 10 000 $ reçus de Hossein Hajibaba (en cadeau ou à titre de prêt) réduiraient le revenu non déclaré pour l’année 2000 d’un montant de 25 000 $ en tout. Le revenu non déclaré pour l’année 2000 serait alors de 44 905 $ – 25 000 $ = 19 905 $.
+[28] L’appelant a également pris des dispositions afin d’obtenir une ligne de crédit, qui n’a pas été incluse dans son passif dans l’analyse de l'avoir net. En l’an 2000, l’appelant a emprunté 3 000 $ au moyen de sa ligne de crédit et ce montant n’était toujours pas remboursé à la fin de l’année 2000. Il s’agit d’une dette qui aurait réduit de ce montant de 3 000 $ son avoir net à la fin de l’année 2000, et qui aurait réduit son revenu non déclaré pour l’année 2000 du même montant (19 905 $ – 3 000 $ = 16 905 $).
+[29] Fatemeh Hajibaba et l’appelant ont également déclaré que pendant qu’il était au Canada, du mois de novembre 1999 au mois de mai 2000, Hossein Hajibaba leur remettait de l’argent pour les aider à payer leurs dépenses quotidiennes lorsqu’ils étaient à court de fonds.
+[30] Par conséquent, il me semble que l’intimée n’a pas établi que l’appelant avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou qu’il avait commis une fraude en produisant sa déclaration de revenus ou en fournissant des renseignements sous le régime de la Loi à l’égard de son année d’imposition 2000. Comme il en a ci-dessus été fait mention, l’analyse de l'avoir net comportait des erreurs importantes, qui avaient de fortes incidences sur le montant du revenu non déclaré déterminé pour l’année 2000. Au début de l’audience, le montant qui, aux dires de l’intimée, était un revenu non déclaré s’élevait à 163 601 $. Par suite de l’omission de déduire le gain réalisé lors de la vente de la résidence principale et de la surestimation du montant de l’hypothèque grevant la propriété de l’avenue Sheppard à la fin de l’année 1999, le montant du revenu non déclaré a été surestimé de 118 696 $. Par conséquent, environ 73 p. 100 du montant du revenu non déclaré était attribuable à ces deux erreurs dont la vérificatrice affirmait obstinément qu'elles n'auraient aucune incidence sur l’analyse de l'avoir net.
+[31] L’appelant a également produit une preuve, que j’accepte, de dons ou de prêts de son beau‑père et d’autres personnes ainsi que d’une ligne de crédit qu’il a utilisée en l’an 2000 comme source de fonds et dont il n’a pas été tenu compte dans l’analyse de l'avoir net. Le résultat de tout cela est que le revenu non déclaré pour l’année 2000, selon l’analyse modifiée de l'avoir net, est inférieur à 17 000 $. Étant donné les erreurs importantes qui ont été commises dans l’analyse de l’avoir net et les incertitudes inhérentes à toute analyse de l'avoir net, la preuve qui a été présentée ne permet pas de conclure, à mon avis, que l’appelant avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire ou qu’il avait commis une fraude en produisant sa déclaration de revenus ou en fournissant des renseignements sous le régime de la Loi à l’égard de son année d’imposition 2000. Par conséquent, le ministre n’avait pas le droit d’établir une nouvelle cotisation à l’égard de l’appelant pour l’année 2000 en vertu du paragraphe 152(4) de la Loi, et la nouvelle cotisation concernant l’année d’imposition 2000 de l’appelant est annulée.
+[32] Toutefois, le résultat pour l’année 2001 n’est pas le même. Les erreurs qui ont été commises ont une incidence sur le montant de revenu déterminé pour l’année 2000, mais non pour l’année 2001. En 2001, il n’y a pas eu de voyages en Iran; le beau‑père de l’appelant était retourné en Iran au mois de mai 2000 et il n’était donc pas au Canada pour offrir de l’aide en 2001. De plus, rien ne montre que des membres de la famille aient fourni de l'aide financière, si ce n’est l’aide dont il a ci‑dessus été fait mention, qui a été utilisée pour financer en partie l’achat de la propriété située sur la promenade Sayor.
+[33] L’avocat de l’appelant a soutenu que l’intimée n’avait pas établi de lien entre le revenu non déclaré et une source de revenu. Au cours des plaidoiries, l’avocat de l’appelant a reconnu que ce dernier finançait son mode de vie à l’aide de Helmand Auto Inc. Il semblait faire valoir qu’il ne s’agit pas là de la même source que celle dont l’intimée soupçonnait l'existence.
+[34] Dans l’arrêt Hsu c. Canada, [2001] A.C.F. no 1174 (QL), [2001] 4 C.T.C. 1, 2001 DTC 5459 (l’autorisation de pourvoi à la Cour suprême du Canada a été refusée, 293 N.R. 328 (nota)), la Cour d’appel fédérale a fait les remarques suivantes au sujet des cotisations fondées sur l'avoir net et de la source de revenu :
+29 Les évaluations de la valeur nette sont une solution de dernier recours communément employée dans les cas où le contribuable refuse de produire une déclaration de revenus, qu’il a produit une déclaration fort inexacte ou qu’il refuse de fournir des documents qui permettraient à Revenu Canada de vérifier le rendement (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5e éd. (Toronto : Carswell, (1995) à la page 1089). La méthode de la valeur nette est fondée sur l’hypothèse selon laquelle une augmentation de la richesse d’un contribuable au cours d’une certaine période peut être imputée au revenu pour cette période à moins que le contribuable ne démontre le contraire (Bigayan, précité, à la page 1619). Cette méthode vise à libérer le ministre de l’obligation ordinaire qui lui incombe de prouver l’existence d’une source imposable de revenu. Le ministre est uniquement tenu de démontrer que la valeur nette du contribuable a augmenté entre deux dates. En d’autres termes, une évaluation de la valeur nette ne se rapporte pas à la détermination de la source ou de la nature de l’augmentation de la richesse du contribuable. Une fois qu’il est démontré qu’il y a eu augmentation, il incombe entièrement au contribuable de séparer son revenu imposable des gains provenant de sources non imposables (Gentile c. La Reine, [1988] 1 C.T.C. 253, à la page 256 (C.F. 1re inst.)).
+30 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[Non souligné dans l’original.]
+[35] Par conséquent, une fois établie l’augmentation de l’avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000, l’appelant ne peut pas échapper à l’obligation qui lui incombe à l’égard de l’impôt sur le revenu en soutenant que le ministre a indiqué la mauvaise source. De son propre aveu, l’appelant retirait, au fur et à mesure qu’il en avait besoin, des fonds de Helmand Auto Inc. afin de subvenir aux besoins de sa famille. Le fait que cette source n’est pas la même source que celle à laquelle pensait le ministre lorsqu'on préparait l’analyse de l'avoir net (soit l’« entreprise de cannibalisation ») n’aide pas l’appelant. Comme la Cour d’appel fédérale l’a fait remarquer dans l’arrêt Hsu, le ministre est libéré de l’obligation de prouver l’existence d’une source imposable de revenu.
+[36] L’appelant n’a pas reçu d’autres avances sur sa ligne de crédit en 2001. Que les montants de 9 000 $ et de 10 000 $ que l’appelant (et son épouse) avaient reçus de Hossein Hajibaba (et qui ont servi, en l’an 2000, à payer en partie le prix d’achat de la propriété située sur la promenade Sayor) aient été des dons ou qu'ils aient été des prêts, cela n'aurait pas d'incidence sur l’avoir net de l’appelant en 2001 étant donné que rien n’indique que ces montants aient été remboursés en totalité ou en partie à la fin de l’année 2001. Étant donné que dans une analyse de l'avoir net, l’avoir net d’une personne à la fin d’une année est comparé avec son avoir net à la fin de l’année précédente, un montant (qu’il s’agisse d’un d’actif ou d'un passif) qui est le même à la fin de chaque année ne contribue pas à une augmentation (ou à une diminution) de l'avoir net de cette personne.
+[37] Par exemple, si le montant de 19 000 $ est considéré comme un don (sans aucune dette y afférente qui est impayée à la fin de l’année 2000 ou de l’année 2001) ou comme un prêt (avec une dette de 19 000 $ y afférente qui est impayée à la fin de l’année 2000 et de l’année 2001), le changement de l’avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000 sera le même, comme l'illustre le tableau suivant :
+Si le montant de 19 000 $ est considéré comme un don :
+Description
+2000
+2001
+Actif
+493 450,20 $
+510 960,67 $
+Passif
+Carte de crédit :
+8 326,89 $
+5 554,98 $
+Hypothèque à rembourser : 53, Sayor
+239 912,42 $
+234 239,57 $
+Hypothèque à rembourser : 4727, Sheppard
+Prêt à rembourser – Hossein Hajibaba
+Total des dettes :
+248 239,31 $
+239 794,55 $
+Avoir net
+245 210,89 $
+271 166,12 $
+Moins : Avoir net de l’année antérieure
+201 151,85 $
+245 210,89 $
+Augmentation (diminution) de l'avoir net
+44 059,04 $
+25 955,23 $
+Si le montant de 19 000 $ est considéré comme un prêt :
+Description
+2000
+2001
+Actif
+493 450,20 $
+510 960,67 $
+Passif
+Carte de crédit :
+8 326,89 $
+5 554,98 $
+Hypothèque à rembourser: 53, Sayor
+239 912,42 $
+234 239,57 $
+Hypothèque à rembourser: 4727, Sheppard
+Prêt à rembourser – Hossein Hajibaba
+19 000,00 $
+19 000,00 $
+Total des dettes :
+267 239,31 $
+258 794,55 $
+Avoir net
+226 210,89 $
+252 166,12 $
+Moins : Avoir net de l’année antérieure
+201 151,85 $
+226 210,89 $
+Augmentation (diminution) de l'avoir net
+25 059,04 $
+25 955,23 $
+[38] L’augmentation de l'avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000 est de 25 955 $, et ce, peu importe que les 19 000 $ soient considérés comme un don ou comme un prêt non remboursé à la fin de chaque année. Les 19 000 $ sont pris en compte dans le coût de la propriété située sur la promenade Sayor. Si les deux années comparées étaient les années 1999 et 2000, le fait que le montant de 19 000 $ ait été un don ou qu'il ait été un prêt influerait sur la détermination de l'avoir net établi à la fin de l’année 2000, mais n'aurait aucune incidence sur le montant déterminé au titre du revenu non déclaré pour l’année 2000 étant donné que la source n’est pas imposable. Si le montant était un don, l'avoir net à la fin de l’année 2000 serait supérieure à ce qu’elle serait si les 19 000 $ étaient un prêt, mais étant donné qu’un don n’est pas imposable, on déduirait le montant du don en déterminant le revenu non déclaré pour l’année 2000.
+[39] Bien que la dette de 3 000 $ de l’appelant se rattachant à sa ligne de crédit soit pertinente lorsqu’il s’agit de déterminer s’il avait un revenu non déclaré pour l’année 2000, étant donné que cette dette (qui a pris naissance en l’an 2000) n’était toujours pas remboursée à la fin de l’année 2000 et à la fin de l’année 2001, l’omission d’inclure cette dette en déterminant l’avoir net de l’appelant à la fin de l’année 2000 et à la fin de l’année 2001 n’a pas d'effet sur la détermination de l’augmentation de son avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000, comme l’illustre le tableau suivant :
+Si le prêt de 3 000 $ n’est pas inclus :
+Description
+2000
+2001
+Actif
+493 450,20 $
+510 960,67 $
+Passif
+Carte de crédit :
+8 326,89 $
+5 554,98 $
+Hypothèque à rembourser : 53, Sayor
+239 912,42 $
+234 239,57 $
+Hypothèque à rembourser : 4727, Sheppard
+Ligne de crédit
+Total des dettes :
+248 239,31 $
+239 794,55 $
+Avoir net
+245 210,89 $
+271 166,12 $
+Moins : Avoir net de l’année antérieure
+201 151,85 $
+245 210,89 $
+Augmentation (diminution) de l'avoir net
+44 059,04 $
+25 955,23 $
+Si le montant de 3 000 $ de la ligne de crédit est inclus :
+Description
+2000
+2001
+Actif
+493 450,20 $
+510 960,67 $
+Passif
+Carte de crédit :
+8 326,89 $
+5 554,98 $
+Hypothèque à rembourser : 53, Sayor
+239 912,42 $
+234 239,57 $
+Hypothèque à rembourser : 4727, Sheppard
+Ligne de crédit
+3 000,00 $
+3 000,00 $
+Total des dettes :
+251 239,31 $
+242 794,55 $
+Avoir net
+242 210,89 $
+268 166,12 $
+Moins : Avoir net de l’année antérieure
+201 151,85 $
+242 210,89 $
+Augmentation (diminution) de l'avoir net
+41 059,04 $
+25 955,23 $
+[40] L’augmentation de l'avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000 est de 25 955 $, et ce, peu importe que le prêt de 3 000 $ sur la ligne de crédit soit omis des dettes pour les deux années ou qu’il soit inclus à titre de dette à la fin des deux années. Étant donné que la dette se rattachant à la ligne de crédit était de 3 000 $ à la fin de l’année 2000 ainsi qu’à la fin de l’année 2001, l’omission d’inclure cette dette à la fin des années 2000 et 2001 en déterminant l’augmentation de l'avoir net à la fin de l’année 2001 par rapport la fin de l’année 2000 n’est pas pertinente.
+[41] Il y a eu passablement de preuve testimoniale concernant un virement électronique d'une somme de 40 000 $ en faveur de l’appelant en 1998, soit l’année antérieure à l’année de base. L’appelant a dit qu’il s’agissait d’un montant qu’il avait emprunté à son cousin pour aider à financer sa part du prix d’achat de l’entreprise de ferrailles. Étant donné qu’il semble qu’aucun paiement n’ait été effectué à l’égard de cet emprunt, l’omission d’inclure une dette de 40 000 $ à la fin de chacune des années 1999, 2000 et 2001 n’a pas d'incidence sur le montant déterminé comme augmentation de l'avoir net à la fin de l’année 2000 par rapport à la fin de l’année 1999 ou à la fin de l’année 2001 par rapport à la fin de l’année 2000, de la même façon que l’omission d’inclure la dette de 3 000 $ susmentionnée à la fin de chacune des années 2000 et 2001 n’influait pas sur la détermination de l’augmentation de l'avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000.
+[42] L’appelant n’a pas présenté de preuve pour contester les montants utilisés comme dépenses personnelles de sa famille et lui en 2001 (ou en l’an 2000). Le montant utilisé comme dépenses personnelles pour l’année 2001 était de 44 035 $. Le revenu déclaré de l’appelant en 2001 s’élevait à 14 248 $ et le revenu déclaré de son épouse en 2001 était de 7 509 $, soit un revenu familial déclaré de 21 757 $ en tout. Le montant déterminé des dépenses personnelles de l’appelant et de son épouse pour l’année 2001 représentait plus du double du montant de leurs revenus déclarés combinés. Les versements hypothécaires relatifs à la propriété de la promenade Sayor s’élevaient à eux seuls à 894,64 $ aux deux semaines, soit environ 23 261 $ pour l’année 2001 ou environ 107 p. 100 de leurs revenus déclarés combinés.
+[43] L’explication donnée par l’appelant était qu’un compte de prêt d’actionnaire avait été établi lorsqu’il avait transféré son entreprise individuelle à la société en 1998 et que la société lui devait de l’argent. L’appelant retirait de l’argent de temps en temps au fur et à mesure qu’il en avait besoin, mais il croyait comprendre que les montants qu’il retirait étaient couverts par son salaire (500 $ aux deux semaines) ou par le montant que la société lui devait.
+[44] Dans l’analyse de l'avoir net, les montants suivants sont les montants qui étaient indiqués comme ceux que Helmand Auto Inc. devait à l’appelant à la fin des années ci‑après mentionnées (et l’appelant n’a pas contesté ces montants) :
+1998
+1999
+2000
+2001
+2002
+Montant dû par
+Helmand Auto Inc.
+11 767 $
+17 814 $
+32 874 $
+32 341 $
+35 026 $
+[45] Le montant payable à l’appelant par Helmand Auto Inc. augmentait chaque année. Si l’appelant recevait de Helmand Auto Inc. des paiements à valoir sur le montant qui lui était dû, ce montant aurait dû baisser plutôt que d’augmenter. De plus, le montant impayé à la fin de l’année au cours de laquelle la société a été constituée s’élevait à 11 767 $ seulement. Ce montant n’est pas suffisamment élevé pour justifier les retraits qu'il aurait fallu que l’appelant effectue chaque année pour subvenir aux besoins de sa famille. Pour l’année 2000, les dépenses personnelles estimées de l’appelant (que celui‑ci n’a pas contestées) s’élevaient à 35 845 $ et le revenu déclaré de l’appelant et de son épouse n’était que de 10 138 $. Compte tenu des dépenses personnelles estimées de l’appelant et de son revenu déclaré ainsi que des déclarations de l’appelant selon lesquelles il finançait son mode de vie à l’aide de sa société, il me semble que le montant de 11 767 $ que la société devait à l’appelant à la suite du transfert des actifs de son entreprise individuelle à la société lui aurait été remboursé avant l’année 2001.
+[46] À mon avis, l’intimée a réussi à établir que l’appelant avait fait une présentation erronée des faits par négligence ou inattention en produisant sa déclaration de revenus ou en fournissant des renseignements sous le régime de la Loi à l’égard de son année d’imposition 2001. L’appelant a déclaré que le prêt initial à sa société résultant du transfert des actifs de son entreprise individuelle à la société constituait sa source de fonds pour payer les dépenses personnelles de sa famille. Toutefois, étant donné que le montant de ce prêt (à la fin de l’année 1998) était de seulement 11 767 $ et qu’il a augmenté à la fin de chacune des quatre années suivantes (ce qui indiquait que la société devait à l’appelant plus d’argent, plutôt que moins d’argent) et puisque les dépenses personnelles de l’appelant en 2001 s’élevaient à elles seules à plus du double du montant du revenu déclaré de l’appelant et de son épouse, l’appelant a au moins fait preuve de négligence ou d’inattention en préparant sa déclaration de revenus pour l’année 2001. Par conséquent, l’intimée avait le droit d’établir une nouvelle cotisation à l’égard de l’appelant pour l’année 2001. Étant donné que l’appelant n’a pas présenté de preuve au sujet des éléments d’actif ou de passif qui auraient un effet sur l’augmentation de son avoir net à la fin de l’année 2001 par rapport à la fin de l’année 2000, ni de preuve pour contester ses dépenses personnelles en 2001, le revenu non déclaré de l’appelant pour l’année 2001 sera le montant déterminé par l’intimée, à savoir 38 560 $.
+[47] Une pénalité a également été imposée conformément au paragraphe 163(2) de la Loi à l’égard de l’obligation fiscale supplémentaire établie pour l’année 2001. Le paragraphe 163(2) de la Loi impose à l’intimée la charge d’établir les faits justifiant l’imposition de la pénalité. Ce paragraphe prévoit ce qui suit :
+(3) Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[48] Dans la décision Venne c. Canada, [1984] A.C.F. no 314 (QL), [1984] C.T.C. 223, 84 DTC 6247, le juge Strayer, de la Division de première instance de la Cour fédérale, a fait les remarques suivantes au sujet du sens de faute lourde dans le contexte des pénalités imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[49] Dans la décision Maltais c. Canada, [1991] A.C.I. no 1003 (QL), [1991] 2 C.T.C. 2651, 91 DTC 1385, le juge Bowman (tel était alors son titre), en parlant d’une pénalité imposée en vertu du paragraphe 163(1) de la Loi, a dit ce qui suit :
+[...] Me Ghan a fait valoir pour le compte de l’intimée que la [sic] paragraphe 163(1), tel qu’il s’appliquait en 1989, n’exigeait pas de la part du contribuable l’intention volontaire de se soustraire à l’impôt. À l’appui de cette thèse, il a signalé que, dans sa formulation antérieure, le paragraphe 163(1) parlait de « toute personne qui tente volontairement de se soustraire à l’impôt qu’elle doit payer », tandis que le paragraphe 163(2) employait l’expression « sciemment ou dans des circonstances qui justifient l’imputation d’une faute lourde ». Ces dispositions exigent l’existence d’une intention coupable ou d’une négligence. [...]
+[Non souligné dans l’original.]
+[50] Les remarques que le juge Bowman a faites au sujet du paragraphe 163(2) de la Loi étaient de nature incidente dans celle affaire‑là, mais ces remarques ont été adoptées par le juge Hamlyn dans la décision Dunleavy c. Canada, [1993] A.C.I. no 78 (QL), [1993] 1 C.T.C. 2648, 93 DTC 417.
+[51] Dans la décision Boileau c. Le ministre du Revenu national, Cour canadienne de l’impôt, 87-2128(IT), le 12 avril 1989, à la page 9, [1989] 2 C.T.C. 2001, 89 DTC 247, la juge Lamarre Proulx a dit ce qui suit :
+[...] Il est vrai qu’en vertu du paragraphe 163(2) il n’y a ni accusé ni accusation criminelle. Il semblerait donc qu’il ne s’agit pas d’une action criminelle et que cela demeure une action civile. Cependant, l’application du paragraphe en question exige que l’on fasse la preuve d’une intention ou d’une conduite coupable [...]
+[Non souligné dans l’original.]
+[52] Dans la décision Seto c. La Reine, 2007 CCI 489, 2007 DTC 1647 (angl.), [2007] G.S.T.C. 116, [2008] 2 C.T.C. 2364, la juge Campbell a fait les remarques suivantes :
+29 Une question intéressante est soulevée lorsqu’un contribuable échoue dans sa contestation de la cotisation de valeur nette du ministre, mais que la cotisation est ratifiée : le contribuable est‑il passible de pénalités pour faute lourde lorsqu’il est établi que les montants constituent un revenu non déclaré? Dans la décision Wajsfeld v. R., [2005] 4 C.T.C. 2341, le juge Rip a traité de la question et a conclu que la Couronne doit s’acquitter du fardeau de la preuve qui lui incombe pour imposer des pénalités pour faute lourde, même s’il est conclu que les montants non déclarés doivent être inclus dans le revenu du contribuable. Au paragraphe 56, il a formulé les commentaires suivants :
+[...] Le ministre doit faire plus que tout simplement se fier à l’incapacité d’un contribuable de réfuter une cotisation fondée sur la valeur nette et faire ressortir un montant élevé de revenus non déclarés pour s’acquitter de sa charge en vertu du paragraphe 163(3)
+[...]
+Il ne fait aucun doute qu’il est possible d’établir l’intention coupable ou la faute lourde au moyen de preuves circonstancielles, car l’on peut rarement établir l’un ou l’autre en prouvant directement l’intention du contribuable. Cependant, les preuves devraient être claires et convaincantes [...]
+Je suis d’avis que, dans la présente espèce, l’intimé ne s’est pas acquitté convenablement du fardeau de la preuve qui lui incombait, en ce sens qu’il s’est appuyé presque exclusivement sur le fait que l’appelant était incapable de renverser les évaluations de la valeur nette. En fait, le paragraphe 163(3) exige que l’on fasse la preuve de l’intention ou de la faute lourde du contrevenant, chose qui, à mon sens, devrait être faite de manière structurée, claire et convaincante.
+30 L’affaire Wajsfeld montre clairement qu’il incombe à la Couronne de prouver qu’il y a eu faute lourde, même si la cotisation est fondée sur la méthode de la valeur nette. Dans ces appels, la Couronne n’a présenté aucun élément de preuve concernant les actes présumés de l’appelant qualifiés de faute lourde. La Couronne n’a pas signalé d’élément de preuve précis ou de circonstance équivalant à faute lourde particulière autre que la différence découlant de la cotisation de valeur nette. Le seul élément sur lequel la Couronne s’est fondée pour imposer les pénalités, conformément au paragraphe 163(2), est le fait que la cotisation de valeur nette indique qu’il y avait des revenus non déclarés dans les déclarations de revenu des particuliers et des sociétés. Si le ministre veut imposer des pénalités pour faute lourde, c’est à la Couronne qu’incombe le fardeau de la preuve, et celle‑ci doit faire davantage que mentionner les montants non déclarés qui ont été ajoutés au revenu du contribuable. En l’espèce, la Couronne a simplement fait valoir que la « différence importante » entre la cotisation de valeur nette et le montant net figurant dans les déclarations révèlent [sic] qu’il y a eu faute lourde. La jurisprudence pertinente exige davantage. De plus, lorsque les rajustements sont effectués pour inclure le revenu des parents de l’appelant, la différence n’est plus bien importante.
+[53] À mon avis, l’intimée n’a pas réussi à établir que l’appelant avait intentionnellement ou par négligence omis de déclarer le revenu additionnel en 2001. Bien que l’appelant ait fait preuve d’inattention ou de négligence, je ne suis pas convaincu que l’intimée ait établi que l’appelant avait l’intention coupable nécessaire pour justifier l’imposition de la pénalité en vertu du paragraphe 163(2) de la Loi. L’appelant croyait pouvoir retirer des fonds de sa société en paiement du montant que cette dernière lui devait, mais il s’est de toute évidence montré inattentif lorsqu’il s’est agi de s'assurer que les fonds qu’il retirait ne dépassaient pas le montant que la société lui devait.
+[54] Par conséquent, les appels interjetés par l’appelant sont accueillis avec dépens, et :
+a) la nouvelle cotisation concernant l’année d’imposition 2000 de l’appelant est annulée;
+b) en ce qui concerne la nouvelle cotisation concernant l’année d’imposition 2001 de l’appelant, la pénalité imposée conformément au paragraphe 163(2) de la Loi est supprimée;
+c) la nouvelle cotisation concernant l’année d’imposition 2002 de l’appelant est annulée.
+Signé à Halifax (Nouvelle‑Écosse), ce 6e jour de juillet 2009.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour de septembre 2009.
+Erich Klein, réviseur
+RÉFÉRENCE : 2009CCI357
+No DU DOSSIER DE LA COUR : 2007-623(IT)G
+INTITULÉ DE LA CAUSE : Anwar Sarwari c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 11 et 12 mai 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 6 juillet 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Me Brent E. Cuddy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Osborne G. Barnwell
+Cabinet : Osborne G. Barnwell
+North York (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

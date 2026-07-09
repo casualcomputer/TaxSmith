@@ -1,0 +1,948 @@
+---
+title: "CIT Group Securities (Canada) Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145887/index.do"
+last_modified: "2016-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 163"
+citation2: ""
+neutral_citation: "2016 TCC 163"
+decision_date: "2016-07-04"
+language: "en"
+item_id: "145887"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2917
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:46:49.406000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5681d85d0120f01662445b5924d67a1aa3ac950aacbf70e3bdd331e76d6c577f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CIT Group Securities (Canada) Inc. v. The Queen
+
+- Citation: 2016 TCC 163
+- Decision date: 2016-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2917, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CIT Group Securities (Canada) Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-04
+Neutral citation
+2016 TCC 163
+File numbers
+2012-950(IT)G, 2013-1251(IT)G, 2013-1252(IT)G, 2013-1253(IT)G, 2013-1254(IT)G, 2013-2961(IT)G, 2013-2962(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-950(IT)G, 2013-1251(IT)G,
+2013-1252(IT)G, 2013-1253(IT)G,
+2013-1254(IT)G, 2013-2961(IT)G,
+and 2013-2962(IT)G
+BETWEEN:
+CIT GROUP SECURITIES (CANADA) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on January 19, 20, 21 and 22, 2015 and
+November 9, 10, 12, 13, 16, 17, 19 and 20, 2015, at Toronto, Ontario
+Before: The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Paul K. Tamaki and Deborah J. Toaze
+Counsel for the Respondent:
+Elizabeth Chasson, Darren Prevost and Leonard Elias
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act (“ITA”) for the 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years (“relevant period”) are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the income of CCG Trust Corporation throughout the relevant period was not subject to the application of paragraph 95(2)(l) of the ITA. The parties have 30 days from the date of this Judgment to make submissions as to the award of costs.
+Signed at Ottawa, Canada, this 4th day of July 2016.
+“J.R. Owen”
+Owen J.
+Citation: 2016 TCC 163
+Date: 20160704
+Dockets: 2012-950(IT)G, 2013-1251(IT)G,
+2013-1252(IT)G, 2013-1253(IT)G,
+2013-1254(IT)G, 2013-2961(IT)G,
+and 2013-2962(IT)G
+BETWEEN:
+CIT GROUP SECURITIES (CANADA) INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Owen J.
+I. Introduction [1] These reasons address the appeals by CIT Group Securities (Canada) Inc. (the “Appellant”) from reassessments (collectively, the “Reassessments”) of its 2003, 2004, 2005, 2006, 2007, 2008 and 2009 taxation years (collectively, the “Taxation Years”). The appeals were heard on common evidence.
+[2] The Reassessments included in the income of the Appellant, as income from shares, amounts in respect of income earned by controlled foreign affiliates (“CFAs”) of the Appellant during 2003 through 2009 (the “relevant period”), on the basis that such income was “foreign accrual property income” (“FAPI”) as defined in subsection 95(1) of the Income Tax Act (the “ITA”).[1] The additional amount assessed for each of the Taxation Years is as follows:
+Taxation Year
+FAPI[2]
+2003
+$41,366,142
+2004
+$37,710,239
+2005
+$44,024,634
+2006
+$29,047,662
+2007
+$23,375,091
+2008
+$23,891,920
+2009
+$20,950,086
+[3] The sole issue in these appeals is whether paragraph 95(2)(l) applies to include the income earned by CCG Trust Corporation (“CCG”) during the relevant period in its income from property. If paragraph 95(2)(l) does apply, the Reassessments must stand, subject only to an agreed-upon adjustment to reflect the correct relevant tax factor for each of the Taxation Years.[3] If paragraph 95(2)(l) does not apply, the Appellant must be reassessed for each of the Taxation Years to delete the amounts set out in the chart above together with any interest and penalties that resulted from the inclusion of such amounts in the income of the Appellant.
+[4] At the commencement of the hearing, the Respondent conceded that throughout the relevant period the Appellant met the requirements of subparagraph 95(2)(l)(iv).[4] Accordingly, the only questions that need be addressed are whether the income of CCG earned during the relevant period is caught by the opening words of paragraph 95(2)(l) and, if it is, whether CCG meets the requirements in subparagraph 95(2)(l)(iii) for the exception from inclusion of that income in CCG’s income from property.
+[5] Four witnesses testified for the Appellant. The first witness for the Appellant was Mr. James Shanahan, who is the chief regulatory counsel of CIT Group Inc. (“CITG”), a United States corporation and the ultimate parent of the Appellant. Mr. Shanahan has been employed by CITG since 1987 and is based at CITG’s office in Livingston, New Jersey. He has held his current position for approximately 10 years and reports to the general counsel of CITG.
+[6] The other three witnesses[5] are former managing directors of CCG each of whom held that office during a portion of the relevant period. Following their employment by CCG, two of the three former managing directors continued to be employed in the CITG group of companies and the third sought employment elsewhere.
+[7] I found all four of these witnesses to be straightforward and credible.
+[8] The Appellant also presented two expert witnesses: Sir Trevor Carmichael, Q.C. and Mary Mahabir, Q.C. Sir Trevor Carmichael, Q.C. is a lawyer who was called to the Middle Temple in London and to the Barbados Bar in December 1977. Sir Trevor Carmichael’s practice includes the area of commercial law. Ms. Mary Mahabir, Q.C. is a lawyer who was called to the Barbados Bar in October 1981. Ms. Mahabir’s practice is in the areas of corporate and commercial law. Neither expert had acted for CCG or the Appellant at any time in the past.[6]
+[9] The expert witnesses submitted expert reports and testified regarding the relevant corporate law and commercial law of Barbados and their application to CCG during the relevant period. In particular, the experts described their understanding of the Financial Intermediaries Regulatory Act, Chapter 324A of the Laws of Barbados (the “FIRA”), the Financial Institutions Act, Chapter 324A of the Laws of Barbados (the “FIA”),[7] the Companies Act, Chapter 308 of the Laws of Barbados (the “BCA”) and the Central Bank of Barbados Act, Chapter 323C of the Laws of Barbados (the “CBA”) and the application of those statutes to CCG during the relevant period.
+II. Facts A. Overview of the Structure [10] The structure in place during the relevant period is reproduced in Appendix A of these reasons.
+[11] The Appellant was the sole shareholder of eight international business corporations incorporated and resident in Barbados,[8] and the Appellant and CIT Financial Ltd. (“CITF”) were the only shareholders of a ninth international business corporation incorporated and resident in Barbados.[9] I will refer to the nine international business corporations collectively as the “IBCs”.
+[12] The eight IBCs wholly owned by the Appellant each owned a single separate class of voting common shares in CCG.[10] Collectively, these shares represented 76,000 votes in CCG. The ninth IBC owned 1,000 Class A common shares in CCG carrying 1,000 votes per share - for a total of 1 million votes - and 1,650,000 Class P non-voting common shares. The total issued share capital of CCG throughout the relevant period was $1,659,000.[11]
+[13] The shareholders of the Appellant were CITF and CCG Partners 1 Limited Partnership (“CCG LP”). CITF owned 20 special shares in the Appellant that entitled it to 100 million votes per share for a total of 2 billion votes.[12]
+[14] CCG LP owned all of the issued Class A common shares in the Appellant, which represented approximately 38% of the voting shares in the Appellant.[13] Each limited partner in CCG LP owned a class of units in the partnership that tracked the performance of one of the IBCs owned by the Appellant. This means that if a particular partner’s interest tracked a particular IBC and the IBC declared and paid a dividend to the Appellant, the Appellant would declare and pay a dividend in the same amount to CCG LP and CCG LP would allocate and distribute the amount of the dividend to the partner.
+[15] CITG owned all of the issued shares of CIT Bank (“CITB”), a corporation incorporated in the state of Utah, USA.[14]
+[16] CITF was an indirect subsidiary of CITG.[15] CITF in turn held the majority of votes in the Appellant.
+[17] The Appellant controlled each of the IBCs, and the ninth IBC, Adams, controlled CCG. Accordingly, the Appellant also controlled CCG.
+[18] The parties agree that throughout the relevant period each of the IBCs and CCG was a “controlled foreign affiliate” of the Appellant as defined in subsection 95(1) of the ITA.[16]
+B. CITG and CITB [19] CITG is a corporation incorporated and resident in the United States the shares of which are listed on the New York Stock Exchange.[17] Mr. Shanahan described his role in CITG as follows:
+I have to oversee the attorneys who handle review of our securities filings, bank regulatory work, sanctions issued through OFAC, through OSFI, through Bank of England.
+We work with the compliance department on anti-money laundering, advising them on anti-money laundering.
+It is basically a variety of regulatory aspects other than tax. We have a separate tax department for that.[18]
+[20] Mr. Shanahan described the business of CITG during the relevant period as follows:
+We provided financing and leasing services to small- and medium-size businesses, the transportation industry, and for a portion of that period, we would also provide certain consumer loans, in terms of home equity, student loans, and I think some manufactured housing.[19]
+[21] Mr. Shanahan described the principal purpose of the business of CITG over the same period as being to provide “financing and leasing to small businesses, middle market companies, and the transportation industry.”[20]
+[22] The largest portion of CITG’s business was in the United States and the second largest was in Canada. CITG also conducted business in Europe, Latin America and Asia.[21] During the relevant period, the CITG group of companies had anywhere from 4,000 to 7,700 employees worldwide and assets in the range of US$45 billion to US$90 billion.[22]
+[23] The business of CITG was conducted through business units that each targeted specific business segments. The business units were referred to as Business Segments.[23] A business unit was managed as a single entity even though it might actually comprise a large number of legal entities within the CITG group of companies. For example, one business unit (or Business Segment) was equipment financing, which was conducted through perhaps 15 separate legal entities.[24]
+[24] CITG files a form 10-K with the United States Securities and Exchange Commission (the “SEC”) on an annual basis.[25] In addition, CITG files form 10-Q quarterly and form 8-K periodically, and also files proxy statements.[26]
+[25] Mr. Shanahan stated that he “put together certain sections of the 10-K related to risk factors and the description of our regulatory environment”.[27] As well, Mr. Shanahan would review each such 10-K to “see if there is anything that looks out of character with my understanding of the business.”[28] When asked if CITG tried to be accurate in the 10-Ks, Mr. Shanahan stated that “. . . we endeavour to make sure that it [the 10-K] gets checked by multiple parties in order to ensure it is as accurate as we can.”[29] He also stated that the SEC reviewed the 10-Ks and provided a comment letter in which they could ask for clarification of certain issues or for justification of the accounting treatment of certain issues.[30]
+[26] The Respondent objected to any reliance on the contents of the 10-Ks for determining matters of U.S. law on the basis that such matters were the purview of a suitably qualified expert.[31]
+[27] I agree with the Respondent that the testimony of Mr. Shanahan and the descriptions in the 10-Ks of the U.S. regulatory environment cannot be used as a substitute for expert evidence on relevant U.S. law, nor can these sources be used as a substitute for expert evidence on the status of CITG or CITB under relevant U.S. law.[32]
+[28] Mr. Shanahan testified to his understanding that the only bank subsidiary of CITG throughout the relevant period was CITB, which he stated was chartered by the Utah division of Financial Institutions.[33] The regulation section of each of the 10-Ks identifies CITB by the name “CIT Bank”.
+[29] Mr. Shanahan described the business of CITB during the relevant period in the following exchange with counsel:
+Q. What did CIT Bank do between 2003 and 2009?
+A. It changed over time. It was initially formed to provide financing for some of our vendor programs, particularly for the Dell program. It expanded into doing programs -- that was generated originally by our vendor finance unit. It started expanding into doing other programs that it generated with various third-party companies where it was providing financing.
+Over time, it also got started getting into home equity loans. I think around 2007, it started making corporate finance loans.
+Q. Its customers were whom?
+A. Initially its customers were consumers. By 2007, it started developing into small- and medium-size businesses, and somewhere in there they also made SBA loans, which would be small businesses.
+Q. What about accepting deposits?
+A. They funded themselves with a combination of equity from the parent, loans from the parent, and deposits they accepted. Initially it was through broker deposits. In other words, if someone went to Merrill Lynch and said, “Can you find me a bank that is going to give me a good interest rate on a certificate of deposit,” they would look around, and CIT Bank would be one of the ones they would look at. It was primarily CDs at the beginning.[34]
+C. CCG (1) The Employees of CCG [30] The senior employee of CCG throughout the relevant period was its managing director. The primary role of the managing director was to oversee CCG’s portfolio and to seek out and vet opportunities for CCG consistent with CCG’s business objectives. In addition, the managing director was responsible for the preparation of an annual “President’s Report” (which was tendered at the annual general meeting), managing the staff of CCG, overseeing the preparation of financial statements, tax returns and reports to the Central Bank of Barbados, and liaising with the auditors of CCG.[35]
+[31] During the relevant period, the managing directors of CCG were as follows:
+Name of Managing Director
+Tenure as Managing Director
+John Walker
+February 1997 to December 2006[36]
+Bruce Ells
+November 2006 to March 2009[37]
+Steven Blazevic
+January 2009 to July 2014[38]
+[32] In addition to the managing director, CCG had six other full-time employees during the relevant period, and each employee had a distinct role to play.[39]
+[33] At the time of his appointment as managing director in February 1997, Mr. Walker had nine years’ experience as an investment analyst focusing on private and public debt, which he acquired through his employment with Confederation Life in Canada and the United States.[40] Mr. Walker spent his last years at Confederation Life in the United States managing the liquidation of its assets. After leaving CCG, Mr. Walker returned to Canada, where he is currently the director of corporate finance at CITF in Calgary.[41]
+[34] At the time of his appointment as managing director, Mr. Ells had relevant experience acquired over 18 years through his employment by the Export Development Corporation (now Export Development Canada), RBC Dominion Securities, Newcourt Credit Group and CITG.[42] Mr. Ells described this experience as follows:
+In some ways, much of what I had done in my working life until then was actually very direct preparation for that role [as managing director of CCG]. I had broad international experience both in origination and risk and treasury operations from my time at EDC.
+I had worked on the bond desk in London for RBC Dominion Securities, so I had some capital markets background from the point of view of a market maker, which was actually useful for some of the capital markets transactions and administration we had to do at CCG.
+Then my work at Newcourt and CIT was on the risk side of those businesses, so managing the portfolio and the quality of the incoming assets and credit surveillance and addressing or understanding and characterizing for the board any underperformance by our existing financial assets. All of that was very familiar from what by then was almost 20 years of experience in related roles.[43]
+[35] Mr. Ells left the CITG group of companies in March 2009. For the past two years, Mr. Ells has been the chief credit officer of rail and aviation at Element Financial Corporation, a competitor of CITG, and before that he was senior vice president, project finance at Dominion Bond Rating Service for 3 years.[44] Mr. Ells was subpoenaed by the Appellant to testify.[45]
+[36] At the time of his appointment as managing director, Mr. Blazevic had 12 years’ experience in lending and lease financing, which he had obtained through his employment by TD Bank, Newcourt Financial Ltd., GE Capital and GE Fleet Services. In 2006, Mr. Blazevic left his position as VP, risk management of GE Fleet Services and took the position of assistant VP, credit at CITF, where he was responsible for the commercial and industrial financing and syndication portfolio. He remained in this position until he was appointed managing director of CCG on January 5, 2009. After leaving CCG on July 31, 2014, Mr. Blazevic was appointed director, energy and infrastructure at CITF in Toronto.[46]
+[37] The testimony of Mr. Walker, Mr. Ells and Mr. Blazevic regarding CCG differed only in the specific details relating to the periods that they each served as managing director. Each painted a similar picture regarding the business objectives of CCG, the operations of CCG, the interaction of CCG with the authorities in Barbados, the role of the managing director of CCG, the role of the board of directors of CCG, and the activities of the employees of CCG. The following facts represent a composite drawn from the evidence provided by these three witnesses.
+(2) The Operations of CCG (a) General [38] The operations of CCG throughout the relevant period were conducted from its offices at Chelston Park, Collymore Rock, St. Michael, Barbados, which was CCG’s only location.[47] The operations were overseen by CCG’s board of directors, which included a representative of the IBCs and high-profile Barbadian residents.[48]
+[39] The managing director would meet with the board on a regular basis and present the board with opportunities consistent with the business objectives of CCG, and the board would decide whether to pursue these opportunities.[49] The witnesses’ description of CCG’s business objectives was consistent and is well summarized by Mr. Blazevic and Mr. Ells as follows:
+The business philosophy was to lend money to third-party corporations. The focus was on investment-grade transactions or loans, predominantly in the project finance, rail, and corporate finance spaces.[50]
+. . .
+CCG Trust was primarily a lender. The purpose was to optimize yield on fixed-income investments.
+. . .
+CCG Trust was primarily a buy-and-hold shop, meaning that we invested in long-term assets, investment grade, typically investments vetted by a primary market process, and those investments were intended to be held to maturity on the expectation that they would continue to have a high credit quality.[51]
+[40] To enforce the long-term hold philosophy vis-à-vis the loans it originated, CCG would negotiate a “make-whole premium” that required the borrower to make a payment if it chose to repay its debt early. The payment of the premium was triggered by early repayment and was intended to place CCG in the same position as it would have been in if it had held the debt to maturity. The existence of the make-whole premium removed the incentive for a borrower to repay its debt early.[52]
+[41] An example of the triggering of a make-whole premium occurred in 2005. In that year, a debtor prepaid a debt owed to CCG in respect of the financing of four ships. The transaction had been funded in 1997 and was otherwise scheduled to mature in 2008. CCG received a make-whole premium as a result of the early repayment, which was made because the debtor was acquired by a new owner, who wished to prepay the debt.
+[42] The managing director sourced opportunities for CCG through third party agents and brokers, mainly on Wall Street. The initial contacts were developed by Mr. Walker from individuals he had dealt with while at Confederation Life.[53] His successors continued to use those contacts and others.[54] The contacts included individuals at Deutsche Bank, Citibank, Credit Suisse, Lehman Bros., Merrill Lynch and Bank of America.
+[43] Each year during the relevant period the managing director prepared a President’s Report, which was presented at the annual general meeting of CCG.[55] Each report would take 5 or 6 weeks to prepare and was modelled on the prior year’s report. The managing director would receive assistance from the other employees of CCG in preparing the report.
+[44] The first paragraph of the 2003 through 2007 reports stated:
+The business of CCG Trust Corporation (“CCG”) is the lending of money through international asset-based financings, primarily for high value transportation and industrial equipment. CCG was established in 1989 for participation by a number of large Canadian life insurance companies as an element of their extensive domestic and international investment portfolios. Since its formation, the company has structured and provided in excess of $1 billion of debt financing.[56]
+[45] Each report provided details regarding the year’s activities (i.e., the 2003 report addressed activities in 2003), the composition, distribution and performance of CCG’s portfolio, including the swap transactions it had in place, the terms of each financing funded by CCG and the credit characteristics of the borrowers. In addition, each report provided an operational overview which included a description of the staffing of CCG, the regulation of CCG, the aircraft inspection program (2003, 2004, 2005), the auditors of CCG, the board of directors, the executive committee, government relations and the Barbados economy.
+[46] The managing director would make a presentation at each annual general meeting of CCG. Mr. Walker described this presentation as follows:
+I would do almost like a state of the union, I guess, and go through the operations of the business over the previous year, what the portfolio looked like, additions, maturities, things like that, anything they should be aware of. Just anything I felt was prudent to bring to their attention.
+Even looking forward, if there was anything, the Barbados economy we would talk about or if there was a rumour of a change of legislation, just anything that I felt was germane to what they needed to know.[57]
+(b) The Funding of CCG [47] The business of CCG was funded entirely by loans provided by the IBCs. Specifically, CCG borrowed from the IBCs in either Canadian or U.S. dollars at varying rates of interest secured by CCG’s assets. The outstanding balance of the loans at the end of 2002 and at the end of each fiscal year in the relevant period was as follows:[58]
+YEAR
+BALANCE (Cdn $)
+2002
+586,799,542
+2003
+498,967,904
+2004
+429,152,116
+2005
+328,617,544
+2006
+390,911,567
+2007
+346,097,930[59]
+2008
+369,596,019
+2009
+353,914,032
+[48] The manner in which these loans were made to CCG was described by Mr. Walker in cross-examination as follows:
+We would have made requests to the IBCs at different times for funding. They would provide that funding to CCG. CCG then had that funding, that cash within CCG. We would then with cash make an investment. We would fund a borrower, whatever transaction we happened to be looking at at the time that was approved by the board.[60]
+[49] A specific IBC might choose to fund CCG so that CCG could enter in specific investment or an IBC might choose not to fund a specific investment.[61] If one or more of the IBCs funded a specific investment by CCG, the IBCs’ loan to CCG would be secured by the investment under the terms of the inter-lenders agreement among CCG and the IBCs.[62] The IBCs’ security interests in the assets of CCG were reported in a chart in the annual President’s Reports and were also reported to the Central Bank of Barbados.[63] However, CCG was the owner of the assets, not the IBCs.[64]
+[50] The notes to the financial statements of CCG state that the “scheduled maturity dates of loans payable to shareholders are consistent with that of the loans receivable”.[65] Mr. Walker confirmed that the terms of the loans by the IBCs to CCG were “consistent with that of the loans receivable on the loan portfolio with third parties”.[66]
+(c) CCG’s Portfolio [51] For the most part, the portfolio of CCG consisted of long-term debt obligations originated by CCG (i.e., CCG was the original creditor), or acquired by CCG in the secondary market, that related to the long-term financing of large assets such as rail cars, ships and aircraft. The make-up of the portfolio is well documented in CCG’s financial statements and in the annual President’s Reports for the relevant period. I do not see any need to describe the underlying transactions in detail.
+[52] There was one exception to CCG’s focus on high quality, long-term debt obligations. In 2004, CCG acquired a credit linked note (“CLN”) from Deutsche Bank. The CLN was acquired due to the low interest rate environment at the time and provided a return to CCG in exchange for credit exposure to an underlying basket of 100 individual credit default swaps.[67] The CLN was acquired in March 2004 and matured on June 20, 2009.[68] CCG did not purchase the CLN for cash but rather was liable to Deutsche Bank to the extent that there were defaults in the underlying portfolio exceeding a specified threshold.
+[53] CCG would typically invest surplus cash in short-term deposits until a suitable long-term investment opportunity came along. In 2006, CCG entered into convertible asset swaps (“CAS”) with Deutsche Bank. The CAS were short-term debt obligations that were used by CCG to replace term deposits because of the low interest rate provided on such deposits in 2006. The CAS involved the purchase by CCG of callable and puttable bonds with a term of 1 to 3 years and the entering into of an arrangement with Deutsche Bank that provided CCG with a premium in addition to the interest payable to CCG on the bonds.[69]
+[54] The low interest rate environment in 2004 to 2006 resulted in a higher proportion of short-term debt than was considered ideal for CCG. Mr. Ells described the steps taken by CCG to move from short-term obligations back into long-term obligations as follows:
+When I first arrived, CCG had about $150 million of $400 million in total balance sheet was in short-term instruments and deposits. When I say short-term instruments, that includes the convertible asset swaps and includes ordinary short-term cash deposits.
+That was considered not an ideal circumstance in that CCG made better returns by doing long-term transactions in transportation and project assets, mainly.
+Over that year, the change was deploying those short-term cash instruments into longer-term private placements. Actually, it took longer than the first year. It was really at the end of 2007, we did a $50 million loan as part of a larger deal to Swisscom, not coincidentally based in Switzerland, and then five more transactions in 2008, and that reduced substantially the amount of so-called undeployed or short-term cash instruments replaced by these longer-term higher-yielding private placements.[70]
+[55] Throughout the relevant period, CCG was a party to swap transactions that were structured to ensure that CCG received fixed-rate Canadian dollar cash flows from its portfolio, which included significant U.S.-dollar-denominated obligations.[71] Mr. Walker, Mr. Ells and Mr. Blazevic described the swap transactions as follows:
+. . . As I mentioned, we didn’t like to sell transactions. We liked to buy and hold them, and part of that was that we wanted fixed-rate Canadian dollar securities. A lot of the securities we would purchase, while most of them were fixed rate to begin with, they were U.S. dollar, so we entered into a swap to convert over the life of the transaction those U.S. dollar cash flows to Canadian. We therefore built up a fairly significant swap book that I would report on, as well.[72]
+. . .
+. . . Most of the transactions were U.S. dollar denominated, so we swapped them from fixed-rate U.S. dollar financing through floating-rate U.S. dollar financing into fixed-rate Canadian.[73]
+. . .
+Yes, the swaps were entered into to hedge any currency risk, so the primary market that CCG Trust dealt in was the U.S., so most private debt issuances were done in U.S. dollars, and we reported in Canadian dollars, so we swapped the U.S. dollar interest and principal payments to Canadian dollar interest and principal payments.[74]
+(d) CCG’s Income [56] The financial statements of CCG for 2003 through 2008 show that interest income represented in excess of 96% of CCG’s total realized revenue for 2003 to 2008. In 2009, the adoption of International Financial Reporting Standards and the restatement of the 2008 financial statements to reflect fair market value instead of amortized cost resulted in a change in the accounting presentation, but interest continued to be a very significant component of CCG’s realized revenues for 2008 and 2009.[75]
+[57] The interest paid by CCG to the IBCs on the loans from the IBCs would be slightly less than the interest received by CCG on its debt portfolio. For example, in 2004, CCG’s interest income was approximately $39.7 million while its interest expense was approximately $38.9 million.[76]
+(e) CCG’s Interaction with the Authorities in Barbados [58] In response to a request to admit under subsection 130(1) of the Tax Court of Canada Rules (General Procedure)(the “Rules”), the Respondent admitted that “[o]n November 21, 1995, a license (‘the CCG license’) was issued to CCG Trust pursuant to part 3 of the Financial Intermediaries Regulatory Act, 1992-13, of Barbados.”[77] I will address the import of this licence in my review of the expert evidence tendered by the Appellant.
+[59] CCG paid to the Central Bank of Barbados (the “Central Bank”) an annual licence fee of Barbados $25,000.[78] As well, CCG filed monthly and quarterly reports with the Central Bank.[79] The monthly and quarterly reports for the Central Bank were prepared by the controller of CCG using a template provided by the Central Bank. The managing director signed the reports.
+[60] In addition to the filing of reports, representatives of CCG would meet with representatives of the Central Bank, and the Central Bank performed two audits of CCG, one of which was in 2009.[80]
+[61] CCG also filed annual tax returns with the Barbados Department of Inland Revenue.[81] The income tax returns of CCG for the relevant period were prepared in Barbados dollars by Ernst and Young on the basis of the audited financial statements of CCG. The managing director of CCG signed the income tax returns for the 2003, 2004, 2006, 2007, 2008 and 2009 taxation years. The return for the 2005 taxation year was signed by David Gittens, a member of the CCG board of directors, because Mr. Walker was away from Barbados at the time.[82]
+(f) Other Information [62] In cross-examination, each of the three witnesses confirmed that CCG did not accept deposits, offer chequing or other types of accounts to the public, or act as a trustee, executor or fiduciary. As well, CCG did not offer insurance products or collect insurance premiums.[83]
+D. Expert Evidence [63] Sir Trevor Carmichael and Ms. Mahabir submitted expert reports and testified as expert witnesses. In their respective expert reports, Sir Trevor Carmichael and Ms. Mahabir provided the following opinions regarding Barbados law and the status of CCG under that law:
+1. On October 26, 1989, CCG was incorporated under the Companies Act of Barbados as CCG Equipment Limited.[84] As a company incorporated under the laws of Barbados, CCG was subject to and governed by the laws of Barbados during the relevant period. CCG was duly incorporated and validly existing throughout the relevant period.[85] These opinions were based upon, and supported by, searches by the experts of the Register of Companies in Barbados. Each expert included in his or her expert report a copy of the certificate of incorporation of CCG and a copy of the certificates of amendment of CCG’s Articles of Incorporation, whereby its name was changed to CCG Trust Corporation and its share capital was amended.
+2. On November 21, 1995, CCG was issued a licence by the Minister of Finance under Part III of the FIRA, which entitled CCG to carry on the business of a trust and finance company in accordance with the provisions of paragraphs 24(1)(b), (c) and (d) of the FIRA.[86]
+3. The FIRA was replaced by the FIA effective July 1, 1997. Under section 116 of the FIA, a company licensed under Part III of the FIRA on July 1, 1997 was deemed from that date to be licensed under the FIA, and the provisions of the FIA applied accordingly.[87] Consequently, effective July 1, 1997, paragraphs 24(1)(b), (c) and (d) of the FIRA were replaced by paragraphs 23(1)(b), (c) and (d) of the FIA. Section 22, subsection 23(1) and sections 24 and 27 of the FIA state:
+22. In this Part [Part III], “licensee” means a company licensed under this Part to carry on business as a trust company, a finance company or a merchant bank or similar financial institution licensed under this Part.
+23.(1) The business of a trust company, a finance company or a merchant bank or similar financial institution is
+(a) banking business; or
+(b) the business of the acquisition of funds by
+(i) the acceptance of deposits,
+(ii) the issue of shares,
+(iii) the grant of loans,
+(iv) the collection of premiums, and the investment of such funds;
+(c) performing functions as trustee, administrator or executor; and
+(d) the business of broker, investment analyst, investment adviser and such other business that is not specifically prohibited by the Central Bank by notice published in the Official Gazette for the purposes of this Part.
+. . .
+24. No person other than a bank licensed under Part II of the Offshore Banking Act shall carry on the business of a trust company, a finance company or a merchant bank without a licence issued under this Part.
+. . .
+27.(1) A licence issued under this Part shall show the class or classes of business to be carried on by the licensee.
+(2) A licence issued under this Part is subject to such conditions as the Minister may specify in respect of the class or classes of business to be carried on by the licensee.
+(3) A licence under this Act remains valid until revoked pursuant to this Part but it is a condition of every licence that an annual fee be paid by the licensee in the amount and at the time prescribed.
+4. The language of paragraphs 23(1)(b), (c) and (d) of the FIA differed from the language of paragraphs 24(1)(b), (c) and (d) of the FIRA only in the placement of the words “and the investment of such funds” in paragraph 23(1)(b) of the FIA. Notwithstanding the different placement, those words continue to qualify all of the activities listed in subparagraphs 23(1)(b)(i) to (iv) of the FIA.[88]
+5. As a company licensed to carry on the business of a trust and finance company in accordance with the provisions of paragraphs 23(1)(b), (c) and (d) of the FIA,[89] CCG was permitted to carry on the business of a trust company and the business of a finance company.[90] However, CCG was not required to carry on both businesses at the same time or to carry them on at all.[91]
+6. The activities of CCG during the relevant period were permitted under the licence issued to CCG under Part III of the FIA.[92] The nature and extent of the activities carried on by CCG in Barbados during the relevant period required CCG to be licensed under Part III of the FIA.[93] CCG would have been subject to a penalty under section 102 of the FIA if it conducted its business without the required licence.[94]
+7. A licensee under Part III of the FIA is required to pay to the Central Bank an annual licence fee of Barbados $25,000.[95]
+8. During the relevant period, CCG was a trust company under the FIA because it was licensed to act in that capacity.[96] However, CCG did not fit within the generally understood meaning of trust company in the sense of “a corporate entity that was formed for the purpose of and was carrying on the business of acting as a trustee or fiduciary and providing related trust services”.[97]
+9. During the relevant period, CCG was regulated in accordance with the provisions of the FIA.[98] The Central Bank enforced the regulatory provisions in the FIA.[99] The FIA required CCG to fulfil its various obligations under threat of penalty. These obligations included a requirement to provide monthly and quarterly reports to the Central Bank, to provide such other returns as the Central Bank might require and to publish its audited financial statements in the Official Gazette and in a daily newspaper.[100] In addition, CCG was required to appoint an auditor,[101] to seek approval for certain changes,[102] to maintain a certain level of capital[103] and to manage risk in accordance with published guidelines.[104]
+[64] Sir Trevor Carmichael and Ms. Mahabir each included a copy of the licence issued to CCG with his/her expert report.
+[65] The copy of the licence included with the TC Report at Tab G has under the signature the title “Minister responsible for Finance”. As well, the certificate has a square stamp with the date “05 DEC 1995” and the inscription “Bank Supervision Dept.” Sir Trevor Carmichael testified that a partner in his firm had sent a request to the Central Bank by e-mail and that the copy of the licence at Tab G was enclosed with the letter received from the Central Bank in response to that query. The letter is included with the TC Report at Tab H. The letter at Tab H is on Central Bank letterhead, is addressed to the Head, Commercial and Tax, at Sir Trevor Carmichael’s law firm, is dated March 4, 2015 and is from Mrs. Cheryl A. Greenidge, Deputy Director, Bank Supervision Department. The letter states:
+We refer to your email request of March 3, 2015 and confirm that CCG Trust Corporation has been licensed since November 21, 1995 under the Financial Intermediaries Regulatory Act, 1992-13, has paid its licence fees and has been regulated from said date by the Central Bank of Barbados.
+[66] Sir Trevor Carmichael explained that the Bank Supervision Department is the department that oversees the licensing and ongoing regulation of banks and of entities licensed under Part III of the FIRA.[105] He stated that he knew Mrs. Greenidge personally and that he recognized her signature from past dealings with her.[106]
+[67] Sir Trevor Carmichael understood the document included with the letter to be a copy “of the original certificate, of the original licence” issued pursuant to Part III of the FIRA to CCG on November 21, 1995.[107] Sir Trevor Carmichael provided the following explanation regarding the stamp:
+This stamp, which says received, I would have to give an explanation for that. Maybe I will take you above the stamp first. The document is signed by the Minister of Finance, and that is the signature of Owen Arthur, who at that time was Minister of Finance.
+The procedure is such that when a license is signed by the Minister of Finance, that license is then sent back to the Central Bank of Barbados, and typically, on the license, the Central Bank will stamp the date that it was received, and that is what that stamp is about. It is signed by the Minister of Finance, the signature, which I readily recognize and know.[108]
+[68] The copy of the certificate included with Ms. Mahabir’s report was obtained from instructing counsel.[109] Ms. Mahabir testified that as part of her due diligence she met personally with Mrs. Greenidge to “ascertain the extent and nature of the regulation” of CCG.[110] Ms. Mahabir included with her report a copy of a letter to her from Mrs. Greenidge dated March 4, 2015, which stated:
+We refer to our meeting held on March 2, 2015 and confirm that CCG Trust Corporation has been licensed since November 21, 1995 under the Financial Intermediaries Regulatory Act, 1992-13 and has been regulated from said date by the Central Bank of Barbados.[111]
+[69] The Respondent takes the position that the content of the licence and of the letters received by the expert witnesses from the Central Bank is hearsay and should be disregarded. The Respondent does not, however, challenge the authenticity of these documents.[112]
+[70] With respect to the licence, in my view, the authentic copy included in the expert reports and the authentic copy entered into evidence as Exhibit A-14 is original evidence of the fact that a licence was issued to CCG by the Central Bank. The content of the document is not hearsay but merely evidence of the nature of the licence that was issued. As stated in The Law of Evidence in Canada at paragraph 2.37:
+A document may be introduced into evidence merely to prove its existence, or to prove that it was in the possession of some person, in which case it is material in itself irrespective of its contents. When so introduced, it falls within the category of “things”. When a document is introduced to prove its contents, it merits a separate classification. Although, in many cases, a document does not differ materially from an unsworn statement in that it is introduced as an assertion of fact under an appropriate exception to the rule that prohibits the introduction of hearsay evidence, in other cases it has special characteristics which do not fit within any of the other categories. It may be a photograph. It may be evidence of a transaction as, for instance, a written contract, deed or share certificate, in which case it is admissible as original evidence quite apart from any exception to the hearsay rule.
+[Footnote omitted, emphasis added.][113]
+[71] In this case, Exhibit A-14 (a copy of the licence) is evidence of a transaction: the issuance of a licence to CCG. The hearsay rule is not applicable. The evidence of both expert witnesses confirms that Exhibit A-14 is in the form issued by the Minister of Finance under Part III of the FIRA.[114] The Respondent concedes that such a licence was issued.
+[72] The content of the letters received by the experts from the Central Bank is hearsay. However, it is well established that an expert may rely on hearsay in formulating an expert opinion. In R. v. Lavallee, Sopinka J., in concurring reasons, made the following observations:
+The resolution of the contradiction inherent in Abbey, and the answer to the criticism Abbey has drawn, is to be found in the practical distinction between evidence that an expert obtains and acts upon within the scope of his or her expertise (as in City of St. John), and evidence that an expert obtains from a party to litigation touching a matter directly in issue (as in Abbey).
+In the former instance, an expert arrives at an opinion on the basis of forms of enquiry and practice that are accepted means of decision within that expertise. A physician, for example, daily determines questions of immense importance on the basis of the observations of colleagues, often in the form of second- or third-hand hearsay. For a court to accord no weight to, or to exclude, this sort of professional judgment, arrived at in accordance with sound medical practices, would be to ignore the strong circumstantial guarantees of trustworthiness that surround it, and would be, in my view, contrary to the approach this Court has taken to the analysis of hearsay evidence in general, exemplified in Ares v. Venner, [1970] S.C.R. 608. In R. v. Jordan (1984), 39 C.R. (3d) 50 (B.C.C.A.), a case concerning an expert’s evaluation of the chemical composition of an alleged heroin specimen, Anderson J.A. held, and I respectfully agree, that Abbey does not apply in such circumstances. (See also R. v. Zundel (1987), 56 C.R. (3d) 1 (Ont. C.A.), at p. 52, where the court recognized an expert opinion based upon evidence “. . . of a general nature which is widely used and acknowledged as reliable by experts in that field.”)
+Where, however, the information upon which an expert forms his or her opinion comes from the mouth of a party to the litigation, or from any other source that is inherently suspect, a court ought to require independent proof of that information. The lack of such proof will, consistent with Abbey, have a direct effect on the weight to be given to the opinion, perhaps to the vanishing point. But it must be recognized that it will only be very rarely that an expert’s opinion is entirely based upon such information, with no independent proof of any of it. Where an expert’s opinion is based in part upon suspect information and in part upon either admitted facts or facts sought to be proved, the matter is purely one of weight. In this respect, I agree with the statement of Wilson J. at p. 896, as applied to circumstances such as those in the present case:
+. . . as long as there is some admissible evidence to establish the foundation for the expert’s opinion, the trial judge cannot subsequently instruct the jury to completely ignore the testimony. The judge must, of course, warn the jury that the more the expert relies on facts not proved in evidence the less weight the jury may attribute to the opinion.[115]
+[Emphasis added.]
+[73] The inquiries made of the Central Bank by Sir Trevor Carmichael’s partner[116] and by Ms. Mahabir fall squarely within the scope of the sort of inquiry one would expect lawyers to make in order to provide the opinions requested by the Appellant for the benefit of the Court. In City of Saint John v. Irving Oil Co. Ltd.,[117] the Supreme Court of Canada stated the principles applicable to expert opinions based on hearsay evidence from third party sources:[118]
+Counsel on behalf of the City of Saint John pointed out that if the opinion of a qualified appraiser is to be excluded because it is based upon information acquired from others who have not been called to testify in the course of his investigation, then proceedings to establish the value of land would take on an endless character as each of the appraiser’s informants whose views had contributed to the ultimate formation of his opinion would have to be individually called. To characterize the opinion evidence of a qualified appraiser as inadmissible because it is based on something that he has been told is, in my opinion, to treat the matter as if the direct facts of each of the comparable transactions which he has investigated were at issue whereas what is in truth at issue is the value of his opinion.
+The nature of the source upon which such an opinion is based cannot, in my view, have any effect on the admissibility of the opinion itself. Any frailties which may be alleged concerning the information upon which the opinion was founded are in my view only relevant in assessing the weight to be attached to that opinion, and in the present case this was entirely a question for the arbitrators and not one upon which the Appeal Division could properly rest its decision.
+[Emphasis added.]
+[74] I see no reason to afford the opinions of Sir Trevor Carmichael and Ms. Mahabir less weight because the thorough due diligence performed by them necessarily includes reliance on statements by a senior official of the Central Bank that are hearsay. The hearsay rule is in place to protect against the use of untrustworthy sources of information to establish facts without the benefit of cross-examining the source of those facts. The source of the information obtained by Sir Trevor Carmichael and Ms. Mahabir is an instrumentality of a sovereign democracy with a legal heritage rooted in the common law. I see no basis at all for finding that the source of the information is not trustworthy. Moreover, the circumstances in which the information was obtained by the expert witnesses —due diligence queries of the Central Bank to support expert opinions provided to this Court — provide a strong circumstantial guarantee of trustworthiness.[119]
+[75] The Respondent tendered an affidavit to demonstrate that she had made inquiries of the Central Bank similar to those made by the expert witnesses but had been rebuffed by the Central Bank. This, the Respondent says, points to the inherent unreliability of the letters from the Central Bank included with the expert reports. Leaving aside the evidentiary issues associated with such an affidavit, I disagree.
+[76] The expert witnesses testified that in the course of their law practices in Barbados they had regular contact with the Central Bank over a period of decades. No doubt they are well known to the authorities at the Central Bank, including Ms. Greenidge. As well, the experts were retained by the Appellant, which is the indirect parent of CCG. The fact that the Central Bank was receptive to the requests of well-known senior Barbados lawyers representing the indirect parent of CCG but not to the request of a lawyer from the Canadian Department of Justice is hardly evidence that the Central Bank is an unreliable source. If anything, it establishes that the Central Bank will not hand out information regarding a licensee without some legal justification for doing so. Ironically, if the Central Bank had responded to the request made by the Department of Justice, I have no doubt that the question of whether CCG was licensed under Part III of the FIA during the relevant period would have been answered in the same manner as it was in the contested letters.
+[77] I say this because I have heard the credible and uncontradicted testimony of three witnesses for the Appellant, supported by contemporaneous documentary evidence, that indicates that on November 21, 1995, CCG was issued a licence under Part III of the FIRA (a fact that the Respondent has admitted), that CCG paid an annual licence fee of Barbados $25,000 to the Central Bank to maintain that licence (a requirement confirmed by both expert witnesses), that CCG prepared and submitted detailed monthly and quarterly reports to the Central Bank, that representatives of CCG met with representatives of the Central Bank on a regular basis and that CCG was subjected to two audits by the Central Bank. While much of this evidence may be circumstantial, collectively it establishes to my satisfaction that CCG was licensed under Part III of the FIRA in 1995 and continued to be licensed under Part III of the FIA throughout the relevant period. Accordingly, I have concluded that the facts stated in the hearsay evidence relied upon by the expert witnesses have been independently proven through the testimony of the witnesses for the Appellant.
+III. The Statutory Provisions [78] The statutory provisions that I have considered in these appeals are as follows: section 91 of the ITA; the definitions of “active business”, “controlled foreign affiliate”, “foreign accrual property income”, “foreign accrual tax”, “foreign affiliate”, “foreign bank”, “income from an active business”, “income from property”, “investment business”, “investment property”, “lending of money”, “participating percentage”, “permanent establishment”, “relevant tax factor” and “trust company” in subsection 95(1) of the ITA; clause 95(2)(a)(ii)(B) of the ITA; paragraph 95(2)(l) of the ITA; subsection 95(2.4); the definition of “specified deposit” in subsection 95(2.5) of the ITA; the definition of “lending asset” in subsection 248(1) of the ITA; and the definition of “foreign bank” in section 2 of the Bank Act.[120] These provisions as they read during the relevant period are set out in Appendix B of these reasons.
+IV. The Positions of the Parties A. The Position of the Appellant [79] The Appellant submits that paragraph 95(2)(l) does not apply to require CCG to include in computing its income from property the income of CCG earned during the relevant period. The Appellant proffers two reasons why this is the case.
+[80] First, in order for the income of CCG to be included in computing its income from property by the words of paragraph 95(2)(l) that precede subparagraph 95(2)(l)(i) (I will refer to this part of paragraph 95(2)(l) as the “preamble”), the principal purpose of the business of CCG during the relevant period must have been to “derive income from trading or dealing in indebtedness”. The Appellant submits that the principal purpose of the business of CCG during the relevant period was not to “derive income from trading or dealing in indebtedness” and that the parenthetical phrase “which for the purpose of this paragraph includes the earning of interest on indebtedness” does not alter that fact. In particular, the parenthetical phrase does not expand the meaning of “trading or dealing in indebtedness”. Rather, the parenthetical phrase merely refers to an activity that is adjunct to trading or dealing in indebtedness – the earning of interest on indebtedness while the indebtedness is the object of trading or dealing. The phrase expands or confirms the type of income from the business of trading or dealing in indebtedness that is included in income from property, but it does not modify the word “business” or expand the meaning of the words “trading or dealing in indebtedness”.
+[81] Second, even if the business of CCG is caught by the preamble, CCG meets the requirements of subparagraph 95(2)(l)(iii) and, as conceded by the Respondent, the Appellant meets the requirements of subparagraph 95(2)(l)(iv). Consequently, CCG’s income earned during the relevant period is not included in computing its income from property by paragraph 95(2)(l) because of the exception created by subparagraphs 95(2)(l)(iii) and (iv).
+B. The Position of the Respondent [82] The Respondent submits that the business of CCG during the relevant period is described in the preamble and does not satisfy the requirements of subparagraph 95(2)(l)(iii). Consequently, the income of CCG earned during the relevant period must be included in computing CCG’s income from property for the purposes of Subdivision i of Division B of Part I of the ITA. Because the income of CCG during the relevant period is income from property, the interest paid by CCG to the IBCs during the relevant period is not deductible by CCG in computing the amounts prescribed to be its earnings or loss for a taxation year from an active business carried on outside Canada and, therefore, subparagraph 95(2)(a)(ii) of the ITA does not apply to deem the interest paid by CCG to the IBCs to be income of the IBCs from an active business. Instead, the interest received by the IBCs is income from property of the IBCs which is included in the FAPI of the IBCs under A of the formula found in the definition of FAPI (I will refer to the formula in the definition of FAPI as the “FAPI Formula”).[121] Under subsection 91(1), the Appellant is required to include in its income, as income from its shares in the IBCs, the FAPI of CCG and the IBCs.[122]
+[83] The Respondent agrees that the Appellant is entitled to a deduction from income under subsection 91(4) equal to the portion of the foreign accrual tax paid by CCG and the IBCs that is attributable to the amount included in the Appellant’s income under subsection 91(1) multiplied by the relevant tax factor. The Respondent concedes that because of a retroactive statutory amendment the Reassessments did not reflect the correct relevant tax factor for each of the Taxation Years and that the Appellant should be reassessed to apply the correct relevant tax factor.
+[84] In addition to the foregoing arguments, the Respondent also suggested that the overall structure was a “conduit” to transfer the income of CCG to the partners of CCG LP and that this should be taken into account in interpreting paragraph 95(2)(l).
+V. Analysis A. Overview of the Relevant Statutory Provisions [85] Under the ITA, taxpayers resident in Canada are subject to income tax on their world-wide income. The foreign affiliate regime in Subdivision i of Division B of Part I of the ITA (the “FA regime”) addresses the taxation of outbound investment by Canadian resident taxpayers made through one or more non-resident corporations.[123]
+[86] In general terms, the FA regime applies to a non-resident corporation if that corporation is a foreign affiliate (an “FA”) of a taxpayer resident in Canada. A non-resident corporation is an FA of such a taxpayer if the taxpayer’s direct and indirect ownership of the non-resident corporation reaches a specified level.[124] If an FA of a taxpayer is also a CFA of the taxpayer, then a subset of the FA regime, generally referred to as the FAPI regime, also applies to the FA.[125] The Appellant admits that CCG and each of the IBCs is a CFA of the Appellant.
+[87] The FAPI regime is intended to ensure that Canadian resident taxpayers pay tax on certain income earned through one or more non-resident corporations when it is earned rather than when it is distributed to Canada. This avoids the deferral of the Canadian income tax liability that would result if the income was earned directly by a person resident in Canada.
+[88] A taxpayer resident in Canada that directly owns a share in a CFA is required to include in income for a taxation year, as income from the share, the proportion of the FAPI of each CFA of the taxpayer that is represented by the share[126] for each taxation year of the CFA ending in the taxpayer’s taxation year, whether or not any of that income is actually distributed to the taxpayer in that year. This is in contrast to the “basic” FA regime, which in general terms taxes the income of foreign affiliates of Canadian resident taxpayers only when that income is actually distributed to Canada.
+[89] The sources of the income included in FAPI are described in the definition of FAPI in subsection 95(1). Although it is sometimes said that the FAPI regime taxes “passive income”, it is not that simple, and one must carefully consider the definition of FAPI and the various other definitions and rules that bear upon that definition.
+[90] One source of income included in A of the FAPI Formula is “income(s) for the year from property”.[127] During the relevant period, “income from property” was defined in subsection 95(1) as follows:
+2003 to 2008
+“income from property” of a foreign affiliate of a taxpayer for a taxation year includes its income for the year from an investment business and its income for the year from an adventure or concern in the nature of trade, but, for greater certainty, does not include its income for the year that is because of subsection (2) included in its income from an active business or in its income from a business other than an active business;
+2009
+“income from property” of a foreign affiliate of a taxpayer for a taxation year includes the foreign affiliate’s income for the taxation year from an investment business and the foreign affiliate’s income for the taxation year from an adventure or concern in the nature of trade, but does not include
+(a) the foreign affiliate’s income for the taxation year from a business that is deemed by subsection (2) to be a business other than an active business of the foreign affiliate, or
+(b) the foreign affiliate’s income for the taxation year that pertains to or is incident to
+(i) an active business of the foreign affiliate, or
+(ii) a non-qualifying business of the foreign affiliate.
+[91] The definition of “income from property” expands the usual meaning of that phrase to include income from an “investment business”, as defined in subsection 95(1), and income from an adventure or concern in the nature of trade. For 2003 to 2008, the definition excludes any amount included by subsection 95(2) in an FA’s income from an active business or income from a business other than an active business.[128] For 2009, the exclusionary portion of the definition was amended to read as set out in paragraphs (a) and (b).
+[92] Where its conditions for application are satisfied, paragraph 95(2)(l) includes in an FA’s income from property income that would otherwise be income from a business of the FA that is not an investment business of the FA. The issue in these appeals is whether, during the relevant period, CCG’s income from its business was to be included in the computation of its income from property under paragraph 95(2)(l).
+[93] The portions of paragraph 95(2)(l) most relevant to these appeals state:
+95(2)(l) in computing the income from property for a taxation year of a foreign affiliate of a taxpayer there shall be included the income of the affiliate for the year from a business (other than an investment business of the affiliate) the principal purpose of which is to derive income from trading or dealing in indebtedness (which for the purpose of this paragraph includes the earning of interest on indebtedness) other than
+(i) indebtedness . . .
+(ii) trade accounts receivable . . .
+unless
+(iii) the business is carried on by the affiliate as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+(A) of each country in which the business is carried on through a permanent establishment in that country and of the country under whose laws the affiliate is governed and any of exists, was (unless the affiliate was continued in any jurisdiction) formed or organized, or was last continued,
+(B) of the country . . . or
+(C) . . . of the country . . .
+[94] Both the definition of “income from property” and paragraph 95(2)(l) refer to income from an “investment business”. Income from an investment business is included in “income from property” and, because of this, that same income is excluded from the application of the deeming rule in paragraph 95(2)(l), presumably to avoid the possibility of double counting.
+[95] The Appellant and the Respondent did not plead, argue or otherwise suggest that the business of CCG during the relevant period was an investment business. Accordingly, this analysis is premised on the business of CCG during the relevant period not being an investment business. However, the definition of investment business is still relevant to a contextual analysis of paragraph 95(2)(l).
+[96] For the relevant period, the portions of the definition of “investment business” in subsection 95(1) relevant to these appeals stated:
+2003 to 2008
+“investment business” of a foreign affiliate of a taxpayer means a business carried on by the affiliate in a taxation year (other than a business deemed by subsection (2) to be a business other than an active business carried on by the affiliate) the principal purpose of which is to derive income from property (including interest, dividends, rents, royalties or any similar returns or substitutes therefor), income from the insurance or reinsurance of risks, income from the factoring of trade accounts receivable, or profits from the disposition of investment property, unless it is established by the taxpayer or the affiliate that, throughout the period in the year during which the business was carried on by the affiliate,
+(a) the business (other than any business conducted principally with persons with whom the affiliate does not deal at arm’s length) is
+(i) a business carried on by it as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+(A) of each country in which the business is carried on through a permanent establishment in that country and of the country under whose laws the affiliate is governed and any of exists, was (unless the affiliate was continued in any jurisdiction) formed or organized, or was last continued,
+. . .
+. . . or
+(ii) the development of real estate for sale, the lending of money, the leasing or licensing of property or the insurance or reinsurance of risks . . . [129]
+[97] The 2009 version of the definition of “investment business” is virtually the same except that it adds the phrase “and other than a non-qualifying business of the foreign affiliate” to the first parenthetical phrase in the preamble to the definition.
+[98] The phrase “lending of money” is defined expansively in subsection 95(1) to include, among other things, the acquisition of accounts receivable owed by arm’s length persons and the acquisition or sale of loans or lending assets owed by arm’s length persons. “Lending asset” is defined in subsection 248(1) to mean “a bond, debenture, mortgage, hypothecary claim, note, agreement of sale or any other indebtedness or a prescribed share, but does not include a prescribed property”. Accordingly, the reference to the “lending of money” in subparagraph (a)(ii) of the definition of “investment business” includes acquiring and/or selling indebtedness owed by arm’s length persons.
+[99] A final piece of the puzzle is paragraph 95(2)(a). Where certain conditions are satisfied that paragraph includes in an FA’s income from an active business certain income that would otherwise be income from property. The IBCs relied on clause 95(2)(a)(ii)(B) to include in their respective incomes from an active business the interest paid or payable to them by CCG.
+[100] One requirement for the application of clause 95(2)(a)(ii)(B) is that the interest paid or payable by CCG to the IBCs must be deductible by CCG “in computing the amounts prescribed to be its earnings or loss for a taxation year from an active business (other than an active business carried on in Canada)”. If CCG’s income from its business is included in computing CCG’s “income from property” because of paragraph 95(2)(l), then the interest paid by CCG to the IBCs does not meet this requirement as it would be deducted in computing CCG’s income from property rather than its income from an active business. Accordingly, the IBCs would have income from property equal to the interest received from CCG, which is included in the FAPI of the IBCs by virtue of A in the FAPI Formula.
+B. The Interpretation of Paragraph 95(2)(l) [101] In interpreting paragraph 95(2)(l), I must apply the principles of statutory interpretation sanctioned by the Supreme Court of Canada. In Canada Trustco Mortgage Co. v. Canada,[130] the Supreme Court stated:
+10 It has been long established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para. 50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play[s] a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.
+[102] In Lehigh Cement Limited v. The Queen,[131] Stratas J.A. of the Federal Court of Appeal reproduced the above paragraph and then stated:
+[39] The provisions in taxation statutes are often detailed and particular. The Income Tax Act is “an instrument dominated by explicit provisions dictating specific consequences,” and this invites “a largely textual interpretation”: Canada Trustco, at paragraph 13.
+[40] As a result, “[w]here Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe”: Canada Trustco, supra at paragraph 11. Where the provision at issue is “clear and unambiguous,” its words “must simply be applied”: Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622 at paragraph 40. In such circumstances, a supposed purpose “cannot be used to create an unexpressed exception to clear language” or “supplant” clear language: Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20, [2006] 1 S.C.R. 715 at paragraph 23, citing P. W. Hogg, J. E. Magee and J. Li, Principles of Canadian Income Tax Law (5th ed. 2005), at page 569.
+…
+[44] Overall, though, our task is to discern the meaning of the provision’s text using all of the objective clues available to us.
+[103] In addition to these principles, it is helpful in this case to review some of the basic premises that must be kept in mind when interpreting statutes. In Sullivan on the Construction of Statutes, Professor Sullivan states:
+By well established convention, legislation is drafted in a formal, impersonal style. Legislative prose strives to be spare, non-emotive and unforegrounded. It values uniformity and consistency over stylistic variation and straightforward expression over aesthetic appeal; a legislative drafter never indulges his or her sense of humour. Legislative style tends to be monotonous due to an unusually heavy reliance on repetition and parallel structures. The first obligation of a drafter is to be accurate; the second is to be clear; the third is to be concise. There is no obligation to inspire or entertain.[132]
+[104] In Statutory Interpretation, Professor Sullivan summarizes the presumptions associated with legislative drafting at pages 168 to 169:
+In analyzing legislative texts, interpreters draw not only on the ordinary conventions of language and common sense but also on the presumptions about legislative drafting described above:
+• the legislature has flawless linguistic competence and encyclopedic knowledge;
+• it has an intelligible goal and a rational plan;
+• its choice of words, word order, and structure and its sequencing of material are careful and orderly, with an accurate appreciation of the impact on meaning;
+• it uses a direct, straightforward style, avoiding rhetorical devices and relying on fixed patterns and pattern variations; and
+• every feature of the text is there for a reason and has its own work to do.[133]
+[105] Cognizant of these principles and presumptions, I will break the analysis of paragraph 95(2)(l) into two parts, each addressing one of the Appellant’s two main positions. In each case, I will perform a textual, contextual and purposive analysis of the relevant statutory language, keeping in mind that context and purpose play a lesser role when the words are precise and unequivocal.
+[106] The words most relevant to the analysis of the Appellant’s first position are those in the preamble and immediately following the preamble:
+in computing the income from property for a taxation year of a foreign affiliate of a taxpayer there shall be included the income of the affiliate for the year from a business (other than an investment business of the affiliate) the principal purpose of which is to derive income from trading or dealing in indebtedness (which for the purpose of this paragraph includes the earning of interest on indebtedness) other than
+(i) indebtedness . . .
+(ii) trade accounts receivable . . .
+[107] The Appellant and Respondent each present a different interpretation of the preamble. The Appellant submits that the parenthetical phrase at the end of the preamble - “which for the purpose of this paragraph includes the earning of interest on indebtedness” (the “parenthetical”) - merely clarifies that, in determining what income is included in computing income from property, it is necessary to include as part of the income from the FA’s business, the principal purpose of which is “to derive income from trading or dealing in indebtedness”, interest on the indebtedness that is the object of the trading or dealing.[134]
+[108] The Respondent submits that the parenthetical expands the meaning of the phrase “trading or dealing in indebtedness” to include the earning of interest on any indebtedness. As a result of this, the preamble requires a determination of whether the principal purpose of CCG’s business was to derive income from “trading or dealing in indebtedness”, assuming this activity includes within its scope the earning of interest on any indebtedness. For the reasons that follow, I prefer the Respondent’s interpretation of the preamble.
+[109] I will start by considering the construction of the preamble. To this end, it is helpful to break down the preamble into six parts, as follows:
+(1)[in computing the income from property for a taxation year of a foreign affiliate of a taxpayer] (2)[there shall be included the income of the affiliate for the year from a business] (3)[(other than an investment business of the affiliate)] (4)[the principal purpose of which is to derive income from trading or dealing in indebtedness] (5)[(which for the purpose of this paragraph includes the earning of interest on indebtedness)] (6)[other than
+(i) indebtedness . . .
+(ii) trade accounts receivable . . . ]
+[110] In my view, the role of five of these constituent parts is clear and unambiguous:
+1. These words describe what paragraph 95(2)(l) relates to — the computation of an FA’s income from property for a taxation year.
+2. These words describe what is to be included in computing the FAs income from property — the income of the FA from a business.
+3. These words describe the business referred to in 2 — the business does not include an investment business.
+4. These words describe the business referred to in 2 — the business must have a principal purpose as described.
+5. To be determined.
+6. These words describe the business referred to in 2 — the principal purpose of the business is to be determined without regard to the types of indebtedness described in subparagraphs 95(2)(l)(i) and (ii).
+[111] The positions of the Appellant and the Respondent raise the question of whether the parenthetical is, as its position in the paragraph suggests, part of the description of the business of the FA caught by the preamble or part of the description of the income from the business that is to be included in computing the income from property of the FA.
+[112] To help in a textual interpretation of the parenthetical, the words can be pared down as follows:[135]
+a business . . . the principal purpose of which is to derive income from trading or dealing in indebtedness (which for the purpose of this paragraph includes the earning of interest on indebtedness) other than
+(i) indebtedness . . .
+(ii) trade accounts receivable . . .
+[113] These words describe the type of business by reference to its “principal purpose”. The “principal purpose” is identified with the business by the words “of which”. The verb structure of the clause — “is to derive” — expresses a requirement. The words after the verb phrase “is to derive” provide the description necessary to determine whether the principal purpose requirement is met.
+[114] The words after the parenthetical qualify the last word before the parenthetical — “indebtedness” — and describe two types of indebtedness that do not count in the determination of whether the principal purpose requirement is met. Although not reproduced in the shortened version above, the words after subparagraph 95(2)(l)(ii) introduce an exception for a business that is otherwise caught by the preamble.
+[115] The parenthetical itself starts with the word “which”. This identifies the parenthetical as a relative (or adjectival) clause. As such, the usual role of the parenthetical would be to modify a preceding noun or noun phrase.
+[116] The first noun preceding the parenthetical is “indebtedness”. Relating the parenthetical back to this word alone would result in the nonsensical meaning “indebtedness . . . includes the earning of interest on indebtedness”, which I conclude was not the meaning intended by Parliament.
+[117] The group of words “trading or dealing in indebtedness” is a noun phrase composed of two gerunds (“trading” and “dealing”) and a prepositional phrase (“in indebtedness”). Collectively, they describe an activity as opposed to an action.[136] Syntactically, it is reasonable to assume that the parenthetical is qualifying this noun phrase. This conclusion is supported by the fact that the structure of the parenthetical is parallel to the noun phrase. Specifically, “trading or dealing in indebtedness” is parallel to “the earning of interest on indebtedness”. The construction is careful and precise, as is to be expected of legislative drafting.
+[118] There is a larger noun phrase preceding the parenthetical: “income from trading or dealing in indebtedness”. Referring the parenthetical back to this larger phrase would convey the meaning of “income from trading or dealing in indebtedness . . . includes the earning of interest on indebtedness”. The structures are not parallel and the apparent meaning makes considerably less sense than is the case if the parenthetical qualifies “trading or dealing in indebtedness”.
+[119] However, even if that interpretation were to be adopted, it does not assist the Appellant unless I also find that the reference to “indebtedness” in the parenthetical is a reference to the indebtedness that is the object of the trading or dealing. Apart from syntax, the text simply does not support such a construction without adding a word such as “the” or “that” before “indebtedness” in the parenthetical. It is not appropriate to read in such a word if the text supports a reasonable interpretation without the addition of the word.
+[120] There are other clues in the text that support the view that the parenthetical modifies the phrase “trading or dealing in indebtedness”. For example, if paragraph 95(2)(l) applies to a business of an FA, the words in the first two parts of the preamble clearly state that all of the income from that business is included in computing the FA’s income from property. Hence, to the extent that the FA is conducting a business that meets the principal purpose requirement, all income from that business is recast as income from property. Given that, it is hard to see why it would be necessary for Parliament to state at the very end of the preamble that for the purposes of this inclusion the income of the FA from trading or dealing in indebtedness includes interest on the indebtedness that is the object of the trading or dealing. Under general principles any such income would be from that same business source.[137]
+[121] If, as the Appellant suggests, Parliament had intended to qualify what is included in the income being earned from a business that meets the principal purpose requirement, then it could easily have made that clear. In that regard, the Respondent points to the language in subparagraph 95(2.4)(b)(i) as evidence of an approach that would unambiguously make the point:
+(i) the income is derived by the affiliate from trading or dealing in the indebtedness (which, for this purpose, consists of income from the actual trading or dealing in the indebtedness and interest earned by the affiliate during a short term holding period on indebtedness acquired by it for the purpose of the trading or dealing) . . .
+[122] The Appellant submits that the use of such language would result in circularity, but the point is not that the exact language of subparagraph 95(2.4)(b)(i) need be used. Rather, it is that, where an interpretation similar to that advocated by the Appellant is intended, one can reasonably expect that explicit language to that effect will be adopted.
+[123] I also note that the wording of the parenthetical deviates substantially from other instances in the ITA in which additional words are used to clarify what is to be included in income from property. For example, the definition of “investment business” in subsection 95(1) uses the wording “the principal purpose of which is to derive income from property (including interest . . .)” and the definition of “specified investment business” in subsection 125(7) uses the wording “the principal purpose of which is to derive income (including interest . . .) from property”.
+[124] In both of these examples, the additional words clearly and syntactically qualify the scope of the meaning of “income from property”, with the slightly different placement of those words being best explained by the fact that “income from property” is a defined term in subsection 95(1) for the purposes of Subdivision i and therefore should not be broken up by the qualifying words.
+[125] A further comparison is found in the current and past definitions of “specified deposit” in subsection 95(2.5), which state, in part:
+Years of FAs beginning after October 2012
+“specified deposit”, of a foreign affiliate of a taxpayer, means . . . other than a business the principal purpose of which is to derive income from property (including any interest, dividends, rents, royalties or similar returns, or any substitutes for any of those) or profits from the disposition of investment property.
+Years of FAs beginning after 1994
+“specified deposit” means . . .
+(a) . . . (other than a business the principal purpose of which is to derive income from property including interest, dividends, rents, royalties or similar returns or substitutes therefor or profits from the disposition of investment property), or
+[126] Again, in each example, it is clear from the words and syntax that it is the scope of the phrase “income from property” that is being qualified. If Parliament wanted to qualify what the preamble includes in the income from property of the FA, it was clearly aware of how to accomplish that result. The fact that Parliament chose substantively different text that syntactically qualifies the words “trading or dealing in indebtedness” suggests to me that that was precisely the result intended by Parliament for the parenthetical phrase.
+[127] The Appellant points to the context and the purported purpose of paragraph 95(2)(l) to counter the Respondent’s position vis-a-vis the textual meaning of the parenthetical.
+[128] With respect to context, the Appellant submits that the Respondent’s interpretation eviscerates the exception from the definition of “investment business” for a business that is the “lending of money”. This exception is found in subparagraph (a)(ii) of the definition of “investment business”. Generally speaking, this exception applies to a business of an FA described in the opening words of the definition of “investment business” where the business is the “lending of money” and additional requirements are satisfied.
+[129] It is true that paragraph 95(2)(l) focuses the benefit of this exception on a much narrower class of FAs, but it is not true that paragraph 95(2)(l) eviscerates the exception. Paragraph 95(2)(l) does not apply to a business the principal purpose of which is to derive income from indebtedness or trade accounts receivable as described in subparagraphs 95(2)(l)(i) and (ii), nor does paragraph 95(2)(l) apply if the exception created by subparagraphs 95(2)(l)(iii) and (iv) applies. These substantive exceptions counter the Appellant’s contextual argument.
+[130] With respect to purpose, the Appellant points to the draft iterations of “investment property” and paragraph 95(2)(l)[138] and to the technical notes that accompanied these drafts. The Respondent counters with public comments made by Mr. Wallace E. Conway of the Department of Finance after paragraph 95(2)(l) was enacted. While such materials may be of assistance in some cases, they cannot be used to override the clear and unambiguous text of a statutory provision. Nevertheless, I will briefly consider the technical notes.
+[131] The technical notes that accompanied the introduction of paragraph 95(2)(l) in 1995 stated, in part:
+. . . It [paragraph 95(2)(l)] applies to the affiliate in respect of its income from a business (other than an investment business) the principal purpose of which is to derive income from the trading or dealing in indebtedness (which, for this purpose, includes interest on indebtedness).
+[132] The Appellant submits that the description in the technical notes confirms the Appellant’s interpretation of the parenthetical. However, in my view, this short form description first refers to “income from the trading or dealing in indebtedness” and then clarifies that such income includes “interest on indebtedness”.[139] This description is not in accordance with the actual text, but in any event it does not assist the Appellant’s interpretation.
+[133] I will now apply my interpretation of the preamble to the facts.
+[134] In their testimony, the three former managing directors of CCG consistently described the business objective of CCG during the relevant period as entering into transactions that resulted in CCG holding high quality long-term debt with a view to optimizing CCG’s yield on the money borrowed from the IBCs.[140] If CCG could not realize this business objective, it would temporarily invest its available cash in short-term debt such as short-term deposits and CAS (convertible asset swaps) until a better opportunity arose.[141] On one occasion CCG invested in a CLA (credit linked note).
+[135] The financial statements of CCG identify most of the realized income of CCG during the relevant period as interest on debt owed to CCG by arm’s length third parties. Although CCG also earned income that was not interest and that would not be considered income from trading or dealing in indebtedness in the ordinary sense of that phrase, such as the premium on the CAS and the income from the CLAs and the swap transactions, it is clear that the vast majority of CCG’s income earned during the relevant period was in the form of interest on debt owed to CCG by third parties.[142]
+[136] Consequently, CCG’s business objective during the relevant period, as described by the three managing directors, and the results of CCG’s business as described in the financial statements of CCG for the relevant period all point to the conclusion that the principal purpose of CCG’s business during the relevant period was to earn interest on indebtedness. By virtue of the parenthetical, earning interest on indebtedness is considered to be “trading or dealing in indebtedness” and therefore the principal purpose of CCG’s business during the relevant period was to derive income from trading or dealing in indebtedness, with the result that the business is caught by the opening words of paragraph 95(2)(l) (that is, is caught by the words of the preamble).
+[137] The Appellant’s second position turns on the interpretation of subparagraph 95(2)(l)(iii). The relevant parts of that subparagraph are as follows:
+(iii) the business is carried on by the affiliate as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+(A) of each country in which the business is carried on through a permanent establishment in that country and of the country under whose laws the affiliate is governed and any of exists, was (unless the affiliate was continued in any jurisdiction) formed or organized, or was last continued,
+(B) of the country . . .
+(C) . . . of the country . . .
+[138] The first requirement of subparagraph (iii) is that the business of the FA described in the preamble must be carried on by the FA “as” a foreign bank, a trust company, etc. The Appellant did not suggest that CCG was a credit union, an insurance corporation or a trader or dealer in securities or commodities. Accordingly, I will focus only on the references in subparagraph 95(2)(l)(iii) to “a foreign bank” and, if necessary, “a trust company”.
+[139] In the abstract, the word “as” has a number of possible meanings and forms. However, in this textual context, it is clear that “as” is being used as a preposition to express a relation between the following noun phrases and the preceding words. With regard to “as” in prepositional form, the only definition in the Canadian Oxford Dictionary (2nd ed.) that makes sense is “in the capacity or form of”.[143] The New Oxford American Dictionary provides a more descriptive definition of the word “as” when used as a preposition: “used to refer to the function or character that someone or something has”.[144]
+[140] The focus on the FA imposed by the use of the word “as” in this manner makes sense given that the preamble has already identified the business that is prima facie caught by paragraph 95(2)(l).[145] Specifically, once the business caught by the preamble has been identified, subparagraph 95(2)(l)(iii) imposes two requirements that must be met to benefit from the exception: CCG must carry on that business in one of the capacities or forms described in the subparagraph and the activities of CCG in that capacity or form must be regulated in the relevant foreign jurisdiction(s).
+[141] CCG can satisfy the first requirement if it carried on the business in the capacity or form of a foreign bank or a trust company throughout the relevant period. The phrase “foreign bank” is exhaustively defined in subsection 95(1) as follows:
+“foreign bank” means an entity that would be a foreign bank within the meaning assigned by the definition of that expression in section 2 of the Bank Act if
+(a) that definition were read without reference to the portion thereof after paragraph (g) thereof, and
+(b) the entity had not been exempt under section 12 of that Act from being a foreign bank.
+[142] The definition of “foreign bank” in section 2 of the Bank Act, after modification to conform with paragraphs (a) and (b) of the definition in the ITA, states:
+foreign bank . . . means an entity incorporated or formed by or under the laws of a country other than Canada that
+(a) is a bank according to the laws of any foreign country where it carries on business,
+(b) carries on a business in any foreign country that, if carried on in Canada, would be, wholly or to a significant extent, the business of banking,
+(c) engages, directly or indirectly, in the business of providing financial services and employs, to identify or describe its business, a name that includes the word “bank”, “banque”, “banking” or “bancaire”, either alone or in combination with other words, or any word or words in any language other than English or French corresponding generally thereto,
+(d) engages in the business of lending money and accepting deposit liabilities transferable by cheque or other instrument,
+(e) engages, directly or indirectly, in the business of providing financial services and is affiliated with another foreign bank,
+(f) controls another foreign bank, or
+(g) is a foreign institution, other than a foreign bank within the meaning of any of paragraphs (a) to (f), that controls a bank incorporated or formed under this Act . . .
+[143] Subsection 6(1) of the Bank Act describes in the following terms the case where one entity is affiliated with another entity:
+6 (1) One entity is affiliated with another entity if one of them is controlled by the other or both are controlled by the same person.
+[144] Finally, section 3 of the Bank Act defines control, in part, as follows:
+3(1) For the purposes of this Act,
+(a) a person controls a body corporate if securities of the body corporate to which are attached more than 50 per cent of the votes that may be cast to elect directors of the body corporate are beneficially owned by the person and the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate;
+. . .
+(d) a person controls an entity if the person has any direct or indirect influence that, if exercised, would result in control in fact of the entity.
+. . .
+(2) A person who controls an entity is deemed to control any entity that is controlled, or deemed to be controlled, by the entity.
+(3) A person is deemed to control, within the meaning of paragraph (1)(a) or (b), an entity if the aggregate of
+(a) any securities of the entity that are beneficially owned by that person, and
+(b) any securities of the entity that are beneficially owned by any entity controlled by that person
+is such that, if that person and all of the entities referred to in paragraph (b) that beneficially own securities of the entity were one person, that person would control the entity.
+[145] The Appellant submits that CITB is a foreign bank under paragraphs (a) and (c) of the definition in the Bank Act and that CCG is a foreign bank under paragraph (e) of that definition. In light of the absence of expert evidence addressing the status of CITB under U.S. law, I will confine my analysis to paragraph (c) of the definition in the Bank Act.[146]
+[146] Paragraph (c) of the definition of “foreign bank” in the Bank Act requires that CITB use, to identify or describe its business, a name that includes the word bank and that it engage, directly or indirectly, in the business of providing financial services.
+[147] The testimony of Mr. Shanahan and the sections of the 10-Ks on regulation drafted by him confirm that CITB had the word “bank” in its name throughout the relevant period. It is therefore clear that CITB was holding itself out to the public as a bank whether or not it was a bank under U.S. law. In my view, given that CITB’s business included the taking of deposits and the provision of credit, this is sufficient to conclude that CITB was using the word bank to identify or describe its business. Consequently, CITB meets the first requirement. I do not understand the Respondent to suggest otherwise.
+[148] The term “financial services” is not defined in the Bank Act nor does its meaning for the purposes of the definition of “foreign bank” in the Bank Act appear to have been the subject of judicial interpretation. The Canadian Oxford Dictionary (2nd ed.) and Black’s Law Dictionary (10th ed.) define “finance” as follows:
+Canadian Oxford Dictionary:
+Noun the management of large amounts of money, esp. by governments or large companies.
+transitive verb provide capital for (a person, purchase, or enterprise), esp. as a loan.
+Black’s:
+That aspect of business concerned with the management of money, credit, banking, and investments.
+[149] The Canadian Oxford Dictionary defines the adjective “financial” as meaning “of or pertaining to revenue or money matters.” It seems reasonable to conclude therefore that “financial services” include services in respect of the management of money, the provision of credit, banking and investment, or any combination of these activities. I certainly see no reason to give such an open-ended phrase as “financial services” a narrow or overly technical meaning.[147] I note in passing that where Parliament has chosen to define the phrase, for example, in the Excise Tax Act,[148] it has used a broad definition.
+[150] During the relevant period, CITB lent money to various third parties, including consumers and small and medium-sized businesses. CITB also accepted deposits from third parties - typically through the agency of brokers - and borrowed money from related entities. It is clear therefore that CITB engaged directly or indirectly in the business of providing financial services in the form of the provision of credit and the taking of deposits. Accordingly, I find that CITB was a foreign bank throughout the relevant period under paragraph (c) of the definition of “foreign bank” in the Bank Act.
+[151] The next question is whether during the relevant period CCG is a foreign bank under paragraph (e) of the definition of foreign bank in the Bank Act. To be a foreign bank under that paragraph, CCG must be affiliated with CITB and must engage, directly or indirectly, in the business of providing financial services.
+[152] With respect to whether CITB and CCG were affiliated throughout the relevant period, CITB was wholly owned by CITG and was therefore controlled by CITG. CITF was an indirect subsidiary of CITG and had voting control of the Appellant. The Appellant in turn had voting control of Adam, which had voting control of CCG. Accordingly, under the extended definition of control in section 3 of the Bank Act, CITG controlled CCG. As both CITB and CCG were controlled by CITG, CCG was affiliated with CITB under subsection 6(1) of the Bank Act.
+[153] With respect to the second requirement in paragraph (e) of the definition of foreign bank in the Bank Act, CCG provided credit to arm’s length third parties.[149] As an adjunct to this activity, CCG also entered into convertible asset swaps, credit linked notes and currency swap transactions with third parties. CCG financed its operations by borrowing from the IBCs. Based on these facts, it is clear that CCG was engaged directly or indirectly in the business of providing financial services in the form of the provision of credit to arm’s length third parties.
+[154] As CCG satisfied the two requirements in paragraph (e) of the definition of foreign bank in the Bank Act, CCG was a foreign bank throughout the relevant period.
+[155] CCG’s only business during the relevant period was the business caught by the preamble and that same business was the business that allowed CCG to qualify as a foreign bank. Given the inextricable relationship between the business carried on by CCG and the status of CCG as a foreign bank, the only possible conclusion is that the business of CCG was carried on by CCG as a foreign bank.
+[156] The Respondent argues that CCG is not a foreign bank because it is not licensed under Part II of the FIA and that its licence did not authorize it to carry on a banking business under paragraph 23(1)(a) of the FIA. However, paragraph (e) of the definition of “foreign bank” in the Bank Act does not require CCG to be licensed as a bank under the laws of the foreign country, nor does it require CCG to carry on a banking business as such. This is in stark contrast to paragraphs (a) and (b) of the same definition, which do impose such a requirement:
+(a) is a bank according to the laws of any foreign country where it carries on business,
+(b) carries on a business in any foreign country that, if carried on in Canada, would be, wholly or to a significant extent, the business of banking.
+[157] It is clear that the definition of “foreign bank” in the Bank Act identifies not only entities that are banks in the traditional sense but also other entities that may not be banks as such under either Canadian law or the law of the relevant foreign jurisdiction. If, for the purposes of the ITA, Parliament had wanted to narrow the field to the former category, it could have referred only to paragraphs (a) and (b) of the definition in the Bank Act; or it could have crafted a definition exclusive to the ITA. However, Parliament did not do that and in fact took out the exclusions in the preamble and post-amble of the Bank Act definition that is adopted by the ITA.
+[158] As well, the text of subparagraph 95(2)(l)(iii) does not impose the requirement suggested by the Respondent. Rather, subparagraph 95(2)(l)(iii) requires that the business caught by the preamble be carried on by CCG as a foreign bank. The definition of “foreign bank” in turn requires that CCG meet certain conditions in order to be considered a foreign bank. The Respondent appears to be reading in an additional requirement that CCG be licensed to carry on a banking business in Barbados. I do not accept that proposition. As Stratas J.A. stated in Lehigh:
+[41] When interpreting provisions in taxation statutes, we must keep front of mind their real life context: many taxpayers study closely the text of the Act to manage and plan their affairs intelligently. Accordingly, we must interpret “clear and unambiguous” text in the Act in a way that promotes “consistency, predictability and fairness,” with due weight placed upon the particular wording of the provision: Canada Trustco, at paragraph 12, citing Shell Canada Ltd., supra at paragraph 45.
+[42] We must not supplant or qualify the words of paragraph 95(6)(b) by creating “unexpressed exceptions derived from [our] view of the object and purpose of the provision,” or by resorting to tendentious reasoning. Otherwise, we would inject “intolerable uncertainty” into the Act, undermining “consistency, predictability and fairness”: 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at paragraph 51, citing P. W. Hogg and J. E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997) at pp. 475-76; see also Canada Trustco, at paragraph 12.
+[159] What the clear and unambiguous text of subparagraph 95(2)(l)(iii) does require is that the activities of CCG as a foreign bank be regulated under the laws of the country or countries described in clause 95(2)(l)(iii)(A), (B) or (C).
+[160] The documentary evidence and the evidence of each of the experts confirms that CCG was incorporated under the laws of Barbados and that CCG existed under the laws of Barbados during the relevant period. The evidence of the three managing directors of CCG establishes that throughout the relevant period the business of CCG was carried on solely in Barbados through a permanent establishment located in that country. Therefore, in accordance with clause 95(2)(l)(iii)(A), the question is whether the activities of CCG as a foreign bank were regulated under the laws of Barbados.
+[161] I start by observing that the text of subparagraph 95(2)(l)(iii) focuses on the regulation of the activities of CCG as a foreign bank and not on the regulation of a particular business of CCG. Although in this case the activities of CCG and the business of CCG are one and the same, it is clear that subparagraph 95(2)(l)(iii) does not require that a specific business of the FA be regulated. Rather the focus is on the activities of the FA as a foreign bank.[150]
+[162] The Respondent has admitted that in 1995 a licence was issued to CCG under Part III of the FIRA, which statute the expert evidence establishes was superseded by the FIA in July 1997. The evidence of the three managing directors of CCG is that CCG conducted itself in a manner consistent with regulation under the FIA. Specifically, the employees of CCG filed monthly and quarterly reports with the Central Bank and regularly met with officials of the Central Bank. As well, CCG was subjected to two audits by the Central Bank and paid an annual fee to the Central Bank to maintain its licence under Part III of the FIA. Ms. Mahabir testified that, as part of her due diligence, she confirmed that CCG had complied with its obligation to publish its audited financial statements in the Official Gazette and in a local newspaper.[151]
+[163] The licence granted to CCG by the Minister responsible for Finance permitted CCG to carry on the activities described in paragraphs 23(1)(b), (c) and (d) of the FIA (paragraphs 24(1)(b), (c) and (d) of the FIRA prior to July 1997). Paragraph 23(1)(b) of the FIA permitted CCG to raise capital through the issuance of shares or the granting of loans and to invest the funds so raised. That is precisely what CCG did throughout the relevant period. Section 24 of the FIA prohibited the conduct of the activities described in section 23 of the FIA without a licence issued under Part III of the FIA.
+[164] The evidence of the expert witnesses is that the activities of CCG were permitted under the licence issued to CCG under Part III of the FIA. Moreover, the nature and extent of the activities carried on by CCG in Barbados during the relevant period required CCG to be licensed under Part III of the FIA, and CCG would have been subject to a penalty under section 102 of the FIA if it had conducted these activities without the required licence.
+[165] The expert evidence also establishes that CCG was subject to regulation by the Central Bank in the manner set out in Part IV of the FIA.[152] The FIA imposed various reporting requirements on CCG and invested the Central Bank with various powers to audit the affairs of CCG and enforce its obligations under the FIA. The evidence of the three managing directors, supported by contemporaneous documentation, confirms that the regulatory requirements in the FIA were both enforced and satisfied.
+[166] In the circumstances, it is clear that the activities of CCG throughout the relevant period were regulated under the laws of Barbados and that these activities encompassed the business caught by the preamble, which was carried on by CCG as a foreign bank. Accordingly, I find that CCG met the requirements of subparagraph 95(2)(l)(iii). As the Respondent conceded that the Appellant met the requirements of subparagraph 95(2)(l)(iv), the business of CCG during the relevant period is excepted from the application of paragraph 95(2)(l).
+[167] In light of this conclusion, it is not necessary for me to determine if the business of CCG was carried on by CCG as a trust company the activities of which were regulated under the laws of Barbados.
+[168] Before concluding, I note that in reaching the foregoing conclusion I have taken into account the Respondent’s suggestion that the so-called “conduit” nature of the structure is a relevant consideration in the interpretation of paragraph 95(2)(l).
+[169] First, there is simply no evidence that the arrangement involved a “conduit” in any sense of that word. Any movement of funds took place in accordance with the legal status of the various parties and the legal relationships among those parties. For example, funds moved from the Appellant’s shareholders to the Appellant in the form of contributions of share capital; funds moved from the Appellant to the IBCs in the form of contributions of share capital and funds moved from the IBCs to CCG in the form of interest-bearing loans. Similarly, funds moved from CCG to the IBCs in the form of interest on loans or the repayment of loans; funds moved from the IBCs to the Appellant in the form of dividends or returns of share capital; and funds moved from the Appellant to its shareholders in the form of dividends or returns of share capital.
+[170] Second, the Respondent raised neither the general anti-avoidance rule in section 245 nor paragraph 247(2)(b) of the transfer pricing rules. Instead, the Respondent relied solely on the very specific text of paragraph 95(2)(l). The Supreme Court of Canada has long since put to rest the notion that the sophistication of the tax planning alters the manner in which one should interpret specific provisions in the ITA such as paragraph 95(2)(l). In Shell Canada Ltd. v. Canada, the Supreme Court stated:[153]
+[45] However, this Court has made it clear in more recent decisions that, absent a specific provision to the contrary, it is not the courts’ role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the particular provisions of the Act are met, on the basis that it would be inequitable to those taxpayers who have not chosen to structure their transactions that way. This issue was specifically addressed by this Court in Duha Printers (Western) Ltd. v. Canada, [1998] 1 S.C.R. 795, at para. 88, per Iacobucci J. See also Neuman v. M.N.R., [1998] 1 S.C.R. 770, at para. 63, per Iacobucci J. The courts’ role is to interpret and apply the Act as it was adopted by Parliament. Obiter statements in earlier cases that might be said to support a broader and less certain interpretive principle have therefore been overtaken by our developing tax jurisprudence. Unless the Act provides otherwise, a taxpayer is entitled to be taxed based on what it actually did, not based on what it could have done, and certainly not based on what a less sophisticated taxpayer might have done.
+[46] Inquiring into the “economic realities” of a particular situation, instead of simply applying clear and unambiguous provisions of the Act to the taxpayer’s legal transactions, has an unfortunate practical effect. This approach wrongly invites a rule that where there are two ways to structure a transaction with the same economic effect, the court must have regard only to the one without tax advantages. With respect, this approach fails to give appropriate weight to the jurisprudence of this Court providing that, in the absence of a specific statutory bar to the contrary, taxpayers are entitled to structure their affairs in a manner that reduces the tax payable: Stubart, supra, at p. 540, per Wilson J., and at p. 557, per Estey J.; Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, at para. 8, per McLachlin J.; Duha, supra, at para. 88, per Iacobucci J.; Neuman, supra, at para. 63, per Iacobucci J. An unrestricted application of an “economic effects” approach does indirectly what this Court has consistently held Parliament did not intend the Act to do directly.
+[171] For the foregoing reasons, the appeals are allowed and the Reassessments are referred back to the Minister for reconsideration and reassessment on the basis that the income of CCG throughout the relevant period was not subject to the application of paragraph 95(2)(l) of the ITA. The parties have 30 days from the date of the judgment in these appeals to make submissions as to the award of costs.
+Signed at Ottawa, Canada, this 4th day of July 2016.
+“J.R. Owen”
+Owen J.
+APPENDIX A
+APPENDIX B
+Section 91
+91(1) Amounts to be included in respect of share of foreign affiliate -- In computing the income for a taxation year of a taxpayer resident in Canada, there shall be included, in respect of each share owned by the taxpayer of the capital stock of a controlled foreign affiliate of the taxpayer, as income from the share, the percentage of the foreign accrual property income of any controlled foreign affiliate of the taxpayer, for each taxation year of the affiliate ending in the taxation year of the taxpayer, equal to that share’s participating percentage in respect of the affiliate, determined at the end of each such taxation year of the affiliate.
+(2) Reserve where foreign exchange restriction -- Where an amount in respect of a share has been included in computing the income of a taxpayer for a taxation year by virtue of subsection 91(1) or 91(3) and the Minister is satisfied that, by reason of the operation of monetary or exchange restrictions of a country other than Canada, the inclusion of the whole amount with no deduction for a reserve in respect thereof would impose undue hardship on the taxpayer, there may be deducted in computing the taxpayer’s income for the year such amount as a reserve in respect of the amount so included as the Minister deems reasonable in the circumstances.
+(3) Reserve for preceding year to be included -- In computing the income of a taxpayer for a taxation year, there shall be included each amount in respect of a share that was deducted by virtue of subsection 91(2) in computing the taxpayer’s income for the immediately preceding year.
+(4) Amounts deductible in respect of foreign taxes -- Where, by virtue of subsection 91(1), an amount in respect of a share has been included in computing the income of a taxpayer for a taxation year or for any of the 5 immediately preceding taxation years (in this subsection referred to as the “income amount”), there may be deducted in computing the taxpayer’s income for the year the lesser of
+(a) the product obtained when
+(i) the portion of the foreign accrual tax applicable to the income amount that was not deductible under this subsection in any previous year
+is multiplied by
+1. (ii) the relevant tax factor, and[154]
+(b) the amount, if any, by which the income amount exceeds the total of the amounts in respect of that share deductible under this subsection in any of the 5 immediately preceding taxation years in respect of the income amount.
+(5) Amounts deductible in respect of dividends received -- Where in a taxation year a taxpayer resident in Canada has received a dividend on a share of the capital stock of a corporation that was at any time a controlled foreign affiliate of the taxpayer, there may be deducted, in respect of such portion of the dividend as is prescribed to have been paid out of the taxable surplus of the affiliate, in computing the taxpayer’s income for the year, the lesser of
+(a) the amount by which that portion of the dividend exceeds the amount, if any, deductible in respect thereof under paragraph 113(1)(b), and
+(b) the amount, if any, by which
+(i) the total of all amounts required by paragraph 92(1)(a) to be added in computing the adjusted cost base to the taxpayer of the share before the dividend was so received by the taxpayer
+exceeds
+(ii) the total of all amounts required by paragraph 92(1)(b) to be deducted in computing the adjusted cost base to the taxpayer of the share before the dividend was so received by the taxpayer.
+(6) Idem -- Where a share of the capital stock of a foreign affiliate of a taxpayer that is a taxable Canadian corporation is acquired by the taxpayer from another corporation resident in Canada with which the taxpayer is not dealing at arm’s length, for the purpose of subsection 91(5), any amount required by section 92 to be added or deducted, as the case may be, in computing the adjusted cost base to the other corporation of the share shall be deemed to have been so required to be added or deducted, as the case may be, in computing the adjusted cost base to the taxpayer of the share.
+(7) Shares acquired from a partnership -- For the purpose of subsection (5), where a taxpayer resident in Canada acquires a share of the capital stock of a corporation that is immediately after the acquisition a foreign affiliate of the taxpayer from a partnership of which the taxpayer, or a corporation resident in Canada with which the taxpayer was not dealing at arm’s length at the time the share was acquired, was a member (each such person referred to in this subsection as the “member”) at any time during any fiscal period of the partnership that began before the acquisition,
+(a) that portion of any amount required by subsection 92(1) to be added to the adjusted cost base to the partnership of the share of the capital stock of the foreign affiliate equal to the amount included in the income of the member because of subsection 96(1) in respect of the amount that was included in the income of the partnership because of subsection (1) or (3) in respect of the foreign affiliate and added to that adjusted cost base, and
+(b) that portion of any amount required by subsection 92(1) to be deducted from the adjusted cost base to the partnership of the share of the capital stock of the foreign affiliate equal to the amount by which the income of the member from the partnership under subsection 96(1) was reduced because of the amount deducted in computing the income of the partnership under subsection (2), (4) or (5) and deducted from that adjusted cost base
+is deemed to be an amount required by subsection 92(1) to be added or deducted, as the case may be, in computing the adjusted cost base to the taxpayer of the share.
+Subsection 95(1)
+active business
+Applicable for taxation years from 2003 to 2008:
+“active business” of a foreign affiliate of a taxpayer means any business carried on by the affiliate other than
+(a) an investment business carried on by the affiliate, or
+(b) a business that is deemed by subsection (2) to be a business other than an active business carried on by the affiliate;
+Applicable in respect of taxation years of a foreign affiliate of a taxpayer after 2008:[155]
+“active business” of a foreign affiliate of a taxpayer means any business carried on by the foreign affiliate other than
+(a) an investment business carried on by the foreign affiliate,
+(b) a business that is deemed by subsection (2) to be a business other than an active business carried on by the foreign affiliate, or
+(c) a non-qualifying business of the foreign affiliate;
+controlled foreign affiliate
+For taxation years of a foreign affiliate of a taxpayer that begin after 2002 and on or before February 27, 2004:[156]
+“controlled foreign affiliate”, at any time, of a taxpayer resident in Canada, means
+(a) a foreign affiliate of the taxpayer that is, at that time, controlled
+(i) by the taxpayer,
+(ii) by the taxpayer and not more than four other persons resident in Canada, or
+(iii) by not more than four persons resident in Canada, other than the taxpayer, or
+(b) a foreign affiliate of the taxpayer that would, at that time, be controlled by the taxpayer if the taxpayer owned
+(i) all of the shares of the capital stock of the foreign affiliate that are owned at that time by the taxpayer,
+(ii) all of the shares of the capital stock of the foreign affiliate that are owned at that time by persons who do not deal at arm’s length with the taxpayer,
+(iii) all of the shares of the capital stock of the foreign affiliate that are owned at that time by the persons (each of whom is referred to in this definition as a “relevant Canadian shareholder”), in any set of persons not exceeding four (which set of persons shall be determined without reference to the existence of or the absence of any relationship, connection or action in concert between those persons), who
+(A) are resident in Canada,
+(B) are not the taxpayer or a person described in subparagraph (ii), and
+(C) own, at that time, shares of the capital stock of the foreign affiliate, and
+(iv) all of the shares of the capital stock of the foreign affiliate that are owned at that time by persons who do not deal at arm’s length with any relevant Canadian shareholder;
+For all other taxation years of a foreign affiliate of a taxpayer in the relevant period:
+“controlled foreign affiliate”, at any time, of a taxpayer resident in Canada, means
+(a) a foreign affiliate of the taxpayer that is, at that time, controlled by the taxpayer, or
+(b) a foreign affiliate of the taxpayer that would, at that time, be controlled by the taxpayer if the taxpayer owned
+(i) all of the shares of the capital stock of the foreign affiliate that are owned at that time by the taxpayer,
+(ii) all of the shares of the capital stock of the foreign affiliate that are owned at that time by persons who do not deal at arm’s length with the taxpayer,
+(iii) all of the shares of the capital stock of the foreign affiliate that are owned at that time by the persons (each of whom is referred to in this definition as a “relevant Canadian shareholder”), in any set of persons not exceeding four (which set of persons shall be determined without reference to the existence of or the absence of any relationship, connection or action in concert between those persons), who
+(A) are resident in Canada,
+(B) are not the taxpayer or a person described in subparagraph (ii), and
+(C) own, at that time, shares of the capital stock of the foreign affiliate, and
+(iv) all of the shares of the capital stock of the foreign affiliate that are owned at that time by persons who do not deal at arm’s length with any relevant Canadian shareholder;
+foreign accrual property income
+“foreign accrual property income” of a foreign affiliate of a taxpayer, for any taxation year of the affiliate, means the amount determined by the formula
+(A + A.1 + A.2 + B + C) - (D + E + F + G + H)
+where
+For taxation years of a foreign affiliate of a taxpayer from 2003 to 2008, the description of A would read:
+A is the amount that would, if section 80 did not apply to the affiliate for the year or a preceding taxation year, be the total of the affiliate’s incomes for the year from property and businesses (other than active businesses) determined as if each amount described in clause (2)(a)(ii)(D) that was paid or payable, directly or indirectly, by the affiliate to another foreign affiliate of either the taxpayer or a person with whom the taxpayer does not deal at arm’s length were nil where an amount in respect of the income derived by the other foreign affiliate from that amount that was paid or payable to it by the affiliate was added in computing its income from an active business, other than . . .
+(a) interest that would, by virtue of paragraph 81(1)(m), not be included in computing the income of the affiliate if it were resident in Canada,
+(b) a dividend from another foreign affiliate of the taxpayer,
+(c) a taxable dividend to the extent that the amount thereof would, if the dividend were received by the taxpayer, be deductible by the taxpayer under section 112, or
+(d) any amount included because of subsection 80.4(2) in the affiliate’s income in respect of indebtedness to another corporation that is a foreign affiliate of the taxpayer or of a person resident in Canada with whom the taxpayer does not deal at arm’s length,
+For taxation years of a foreign affiliate of a taxpayer that begin after 2008, the description of A reads:[157]
+A is the amount that would, if section 80 did not apply to the affiliate for the year or a preceding taxation year, be the total of all amounts, each of which is the affiliate’s income for the year from property, the affiliate’s income for the year from a business other than an active business or the affiliate’s income for the year from a non-qualifying business of the affiliate, in each case that amount being determined as if each amount described in clause (2)(a)(ii)(D) that was paid or payable, directly or indirectly, by the affiliate to another foreign affiliate of the taxpayer or of a person with whom the taxpayer does not deal at arm’s length were nil where an amount in respect of the income derived by the other foreign affiliate from that amount that was paid or payable to it by the affiliate was added in computing its income from an active business, other than
+(a) interest that would, by virtue of paragraph 81(1)(m), not be included in computing the income of the affiliate if it were resident in Canada,
+(b) a dividend from another foreign affiliate of the taxpayer,
+(c) a taxable dividend to the extent that the amount thereof would, if the dividend were received by the taxpayer, be deductible by the taxpayer under section 112, or
+(d) any amount included because of subsection 80.4(2) in the affiliate’s income in respect of indebtedness to another corporation that is a foreign affiliate of the taxpayer or of a person resident in Canada with whom the taxpayer does not deal at arm’s length,
+A.1 is twice the total of all amounts included in computing the affiliate’s income from property or businesses (other than active businesses) for the year because of subsection 80(13),
+A.2 is the amount determined for G in respect of the affiliate for the preceding taxation year,
+B is the total of all amounts each of which is the portion of the affiliate’s income (to the extent that the income is not included under the description of A) for the year, or of the affiliate’s taxable capital gain for the year that can reasonably be considered to have accrued after its 1975 taxation year, from a disposition of property
+(a) that is not, at the time of disposition, excluded property of the affiliate, or
+(b) that is, at the time of disposition, excluded property of the affiliate, if any of paragraphs (2)(c), (d) and (d.1), subparagraph (2)(e)(i) and paragraph 88(3)(a) applies to the disposition,[158]
+C is, where the affiliate is a controlled foreign affiliate of the taxpayer, the amount that would be required to be included in computing its income for the year if
+(a) subsection 94.1(1) were applicable in computing that income,
+(b) the words “earned directly by the taxpayer” in that subsection were replaced by the words “earned by the person resident in Canada in respect of whom the taxpayer is a foreign affiliate”,
+(c) the words “other than a controlled foreign affiliate of the taxpayer or a prescribed non-resident entity” in paragraph 94.1(1)(a) were replaced by the words “other than a prescribed non-resident entity or a controlled foreign affiliate of a person resident in Canada of whom the taxpayer is a controlled foreign affiliate”, and
+(d) the words “other than a capital gain” in paragraph 94.1(1)(g) were replaced by the words “other than any income that would not be included in the taxpayer’s foreign accrual property income for the year if the value of C in the definition “foreign accrual property income” in subsection 95(1) were nil and other than a capital gain”,
+For taxation years of a foreign affiliate of a taxpayer from 2003 to 2008, the description of D would read:
+D is the total of the affiliate’s losses for the year from property and businesses (other than active businesses) determined as if there were not included in the affiliate’s income any amount described in any of paragraphs (a) to (d) of the description of A and as if each amount described in clause (2)(a)(ii)(D) that was paid or payable, directly or indirectly, by the affiliate to another foreign affiliate of either the taxpayer or a person with whom the taxpayer does not deal at arm’s length were nil where an amount in respect of the income derived by the other foreign affiliate from that amount that was paid or payable to it by the affiliate was added in computing its income from an active business,
+For taxation years of a foreign affiliate of a taxpayer that begin after 2008, the description of D reads:[159]
+D is the total of all amounts, each of which is the affiliate’s loss for the year from property, the affiliate’s loss for the year from a business other than an active business of the affiliate or the affiliate’s loss for the year from a non-qualifying business of the affiliate, in each case that amount being determined as if there were not included in the affiliate’s income any amount described in any of paragraphs (a) to (d) of the description of A and as if each amount described in clause (2)(a)(ii)(D) that was paid or payable, directly or indirectly, by the affiliate to another foreign affiliate of the taxpayer or of a person with whom the taxpayer does not deal at arm’s length were nil where an amount in respect of the income derived by the other foreign affiliate from that amount that was paid or payable to it by the affiliate was added in computing its income from an active business,
+Prior to February 27, 2004 in the relevant period, the description of E in effect would have been:[160]
+E is the amount of the affiliate’s allowable capital losses for the year from dispositions of property (other than excluded property) that can reasonably be considered to have accrued after its 1975 taxation year,
+As applicable to dispositions of property by a foreign affiliate that occur after February 27, 2004 but in taxation years of the foreign affiliate that end before August 20, 2011, the description of E in effect would be:[161]
+E is the amount of the affiliate’s allowable capital losses for the year from dispositions of property (other than excluded property and property in respect of which an election is made by the taxpayer under subsection 88(3.3)) that can reasonably be considered to have accrued after its 1975 taxation year,
+F is the prescribed amount for the year,
+G is the amount, if any, by which
+(a) the total of amounts determined for A.1 and A.2 in respect of the affiliate for the year
+exceeds
+(b) the total of all amounts determined for D to F in respect of the affiliate for the year, and
+H is
+As applicable in respect of years up until 2006, paragraph (a) of the description of H read:
+(a) where the affiliate was a member of a partnership at the end of the fiscal period of the partnership that ended in the year and the partnership received a dividend at a particular time in that fiscal period from a corporation that was, for the purposes of sections 93 and 113, a foreign affiliate of the taxpayer at that particular time, the portion of the amount of that dividend that is included in the value of A in respect of the affiliate for the year and that is deemed by paragraph 93.1(2)(a) to have been received by the affiliate for the purposes of sections 93 and 113, and
+As applicable in respect of taxation years of a foreign affiliate of a taxpayer that end after 2006, paragraph (a) of the description of H reads:[162]
+(a) if the affiliate was a member of a partnership at the end of the fiscal period of the partnership that ended in the year and the partnership received a dividend at a particular time in that fiscal period from a corporation that would be, if the reference in subsection 93.1(1) to “corporation resident in Canada” were a reference to “taxpayer resident in Canada”, a foreign affiliate of the taxpayer for the purposes of sections 93 and 113 at that particular time, then the portion of the amount of that dividend that is included in the value determined for A in respect of the affiliate for the year and that would be, if the reference in subsection 93.1(2) to “corporation resident in Canada” were a reference to “taxpayer resident in Canada”, deemed by paragraph 93.1(2)(a) to have been received by the affiliate for the purposes of sections 93 and 113, and
+(b) in any other case, nil;
+foreign accrual tax
+“foreign accrual tax” applicable to any amount included in computing a taxpayer’s income by virtue of subsection 91(1) for a taxation year in respect of a particular foreign affiliate of the taxpayer means
+(a) the portion of any income or profits tax that was paid by
+(i) the particular affiliate, or
+(ii) any other foreign affiliate of the taxpayer in respect of a dividend received from the particular affiliate
+and that may reasonably be regarded as applicable to that amount, and
+(b) any amount prescribed in respect of the particular affiliate to be foreign accrual tax applicable to that amount;
+foreign affiliate
+“foreign affiliate”, at any time, of a taxpayer resident in Canada means a non-resident corporation in which, at that time,
+(a) the taxpayer’s equity percentage is not less than 1%, and
+(b) the total of the equity percentages in the corporation of the taxpayer and of each person related to the taxpayer (where each such equity percentage is determined as if the determinations under paragraph (b) of the definition “equity percentage” in subsection (4) were made without reference to the equity percentage of any person in the taxpayer or in any person related to the taxpayer) is not less than 10%,
+except that a corporation is not a foreign affiliate of a non-resident-owned investment corporation;
+foreign bank
+“foreign bank” means an entity that would be a foreign bank within the meaning assigned by the definition of that expression in section 2 of the Bank Act if
+(a) that definition were read without reference to the portion thereof after paragraph (g) thereof, and
+(b) the entity had not been exempt under section 12 of that Act from being a foreign bank;
+income from an active business
+Applicable for years from 2003 to 2008:
+“income from an active business” of a foreign affiliate of a taxpayer for a taxation year includes, for greater certainty, any income of the affiliate for the year that pertains to or is incident to that business but does not include
+(a) other income that is its income from property for the year, or
+(b) its income for the year from a business that is deemed by subsection (2) to be a business other than an active business carried on by the affiliate;
+Applicable in respect of taxation years of a foreign affiliate of a taxpayer after 2008:[163]
+“income from an active business” of a foreign affiliate of a taxpayer for a taxation year includes the foreign affiliate’s income for the taxation year that pertains to or is incident to that active business but does not include
+(a) the foreign affiliate’s income from property for the taxation year,
+(b) the foreign affiliate’s income for the taxation year from a business that is deemed by subsection (2) to be a business other than an active business of the foreign affiliate, or
+(c) the foreign affiliate’s income from a non-qualifying business of the foreign affiliate for the taxation year;
+income from property
+Applicable for years from 2003 to 2008:
+“income from property” of a foreign affiliate of a taxpayer for a taxation year includes its income for the year from an investment business and its income for the year from an adventure or concern in the nature of trade, but, for greater certainty, does not include its income for the year that is because of subsection (2) included in its income from an active business or in its income from a business other than an active business;
+Applicable in respect of taxation years of a foreign affiliate of a taxpayer after 2008:[164]
+“income from property” of a foreign affiliate of a taxpayer for a taxation year includes the foreign affiliate’s income for the taxation year from an investment business and the foreign affiliate’s income for the taxation year from an adventure or concern in the nature of trade, but does not include
+(a) the foreign affiliate’s income for the taxation year from a business that is deemed by subsection (2) to be a business other than an active business of the foreign affiliate, or
+(b) the foreign affiliate’s income for the taxation year that pertains to or is incident to
+(i) an active business of the foreign affiliate, or
+(ii) a non-qualifying business of the foreign affiliate;
+investment business
+Applicable for years from 2003 to 2008, the opening words of the definition of “investment business” were:
+“investment business” of a foreign affiliate of a taxpayer means a business carried on by the affiliate in a taxation year (other than a business deemed by subsection (2) to be a business other than an active business carried on by the affiliate) the principal purpose of which is to derive income from property (including interest, dividends, rents, royalties or any similar returns or substitutes therefor), income from the insurance or reinsurance of risks, income from the factoring of trade accounts receivable, or profits from the disposition of investment property, unless it is established by the taxpayer or the affiliate that, throughout the period in the year during which the business was carried on by the affiliate,
+As applicable in respect of taxation years of a foreign affiliate of a taxpayer after 2008, the opening words of the definition of “investment business” were:[165]
+“investment business” of a foreign affiliate of a taxpayer means a business carried on by the foreign affiliate in a taxation year (other than a business deemed by subsection (2) to be a business other than an active business carried on by the foreign affiliate and other than a non-qualifying business of the foreign affiliate) the principal purpose of which is to derive income from property (including interest, dividends, rents, royalties or any similar returns or substitutes for such interest, dividends, rents, royalties or returns), income from the insurance or reinsurance of risks, income from the factoring of trade accounts receivable, or profits from the disposition of investment property, unless it is established by the taxpayer or the foreign affiliate that, throughout the period in the taxation year during which the business was carried on by the foreign affiliate,
+For all the years in the relevant period, the rest of the definition of “investment business” in effect was as follows:
+(a) the business (other than any business conducted principally with persons with whom the affiliate does not deal at arm’s length) is
+(i) a business carried on by it as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+(A) of each country in which the business is carried on through a permanent establishment in that country and of the country under whose laws the affiliate is governed and any of exists, was (unless the affiliate was continued in any jurisdiction) formed or organized, or was last continued,
+(B) of the country in which the business is principally carried on, or
+(C) if the affiliate is related to a non-resident corporation, of the country under whose laws that non-resident corporation is governed and any of exists, was (unless that non-resident corporation was continued in any jurisdiction) formed or organized, or was last continued, if those regulating laws are recognized under the laws of the country in which the business is principally carried on and all of those countries are members of the European Union, or
+(ii) the development of real estate for sale, the lending of money, the leasing or licensing of property or the insurance or reinsurance of risks,
+(b) either
+(i) the affiliate (otherwise than as a member of a partnership) carries on the business (the affiliate being, in respect of those times, in that period of the year, that it so carries on the business, referred to in paragraph (c) as the “operator”), or
+(ii) the affiliate carries on the business as a qualifying member of a partnership (the partnership being, in respect of those times, in that period of the year, that the affiliate so carries on the business, referred to in paragraph (c) as the “operator”), and
+(c) the operator employs
+(i) more than five employees full time in the active conduct of the business, or
+(ii) the equivalent of more than five employees full time in the active conduct of the business taking into consideration only
+(A) the services provided by employees of the operator, and
+(B) the services provided outside Canada to the operator by any one or more persons each of whom is, during the time at which the services were performed by the person, an employee of
+(I) a corporation related to the affiliate (otherwise than because of a right referred to in paragraph 251(5)(b)),
+(II) in the case where the operator is the affiliate,
+1. a corporation (referred to in this subparagraph as a “providing shareholder”) that is a qualifying shareholder of the affiliate,
+2. a designated corporation in respect of the affiliate, or
+3. a designated partnership in respect of the affiliate, and
+(III) in the case where the operator is the partnership described in subparagraph (b)(ii),
+1. any person (referred to in this subparagraph as a “providing member”) who is a qualifying member of that partnership,
+2. a designated corporation in respect of the affiliate, or
+3. a designated partnership in respect of the affiliate,
+if the corporations referred to in subclause (B)(I) and the designated corporations, designated partnerships, providing shareholders or providing members referred to in subclauses (B)(II) and (III) receive compensation from the operator for the services provided to the operator by those employees the value of which is not less than the cost to those corporations, partnerships, shareholders or members of the compensation paid or accruing to the benefit of those employees that performed the services during the time at which the services were performed by those employees;
+investment property
+“investment property” of a foreign affiliate of a taxpayer includes
+(a) a share of the capital stock of a corporation other than a share of another foreign affiliate of the taxpayer that is excluded property of the affiliate,
+(b) an interest in a partnership other than an interest in a partnership that is excluded property of the affiliate,
+(c) an interest in a trust other than an interest in a trust that is excluded property of the affiliate,
+(d) indebtedness or annuities,
+(e) commodities or commodities futures purchased or sold, directly or indirectly in any manner whatever, on a commodities or commodities futures exchange (except commodities manufactured, produced, grown, extracted or processed by the affiliate or a person to whom the affiliate is related (otherwise than because of a right referred to in paragraph 251(5)(b)) or commodities futures in respect of such commodities),
+(f) currency,
+(g) real estate,
+(h) Canadian and foreign resource properties,
+(i) interests in funds or entities other than corporations, partnerships and trusts, and
+(j) interests or options in respect of property that is included in any of paragraphs (a) to (i);
+lending of money
+“lending of money” by a person (for the purpose of this definition referred to as the “lender”) includes
+(a) the acquisition by the lender of trade accounts receivable (other than trade accounts receivable owing by a person with whom the lender does not deal at arm’s length) from another person or the acquisition by the lender of any interest in any such accounts receivable,
+(b) the acquisition by the lender of loans made by and lending assets (other than loans or lending assets owing by a person with whom the lender does not deal at arm’s length) of another person or the acquisition by the lender of any interest in such a loan or lending asset,
+(c) the acquisition by the lender of a foreign resource property (other than a foreign resource property that is a rental or royalty payable by a person with whom the lender does not deal at arm’s length) of another person, and
+(d) the sale by the lender of loans or lending assets (other than loans or lending assets owing by a person with whom the lender does not deal at arm’s length) or the sale by the lender of any interest in such loans or lending assets;
+and for the purpose of this definition, the definition “lending asset” in subsection 248(1) shall be read without the words “but does not include a prescribed property”;
+participating percentage
+“participating percentage” of a particular share owned by a taxpayer of the capital stock of a corporation in respect of any foreign affiliate of the taxpayer that was, at the end of its taxation year, a controlled foreign affiliate of the taxpayer is
+(a) where the foreign accrual property income of the affiliate for that year is $5,000 or less, nil, and
+(b) where the foreign accrual property income of the affiliate for that year exceeds $5,000,
+(i) where the affiliate and each corporation that is relevant to the determination of the taxpayer’s equity percentage in the affiliate has only one class of issued shares at the end of that taxation year of the affiliate, the percentage that would be the taxpayer’s equity percentage in the affiliate at that time on the assumption that the taxpayer owned no shares other than the particular share (but in no case shall that assumption be made for the purpose of determining whether or not a corporation is a foreign affiliate of the taxpayer), and
+(ii) in any other case, the percentage determined in prescribed manner;
+permanent establishment[166]
+“permanent establishment” has the meaning assigned by regulation;
+relevant tax factor[167]
+“relevant tax factor”, of a person or partnership for a taxation year, means
+(a) in the case of a corporation, or of a partnership all the members of which, other than non-resident persons, are corporations, the quotient obtained by the formula
+1/(A - B)
+where
+A is the percentage set out in paragraph 123(1)(a), and
+B is
+(i) in the case of a corporation, the percentage that is the corporation’s general rate reduction percentage (as defined by section 123.4) for the taxation year, and
+(ii) in the case of a partnership, the percentage that would be determined under subparagraph (i) in respect of the partnership if the partnership were a corporation whose taxation year is the partnership’s fiscal period, and
+(b) in any other case, 2.2;
+trust company
+“trust company” includes a corporation that is resident in Canada and that is a loan company as defined in subsection 2(1) of the Canadian Payments Association Act.
+Clause 95(2)(a)(ii)(B)
+For taxation years of a foreign affiliate of a taxpayer that end after 1999 and begin before 2009, the applicable version of clause 95(2)(a)(ii)(B) reads:
+95(2)
+. . .
+(a) in computing the income or loss from an active business for a taxation year of a particular foreign affiliate of a taxpayer in respect of which the taxpayer has a qualifying interest throughout the year or that is a controlled foreign affiliate of the taxpayer throughout the year, there shall be included any income or loss of the particular foreign affiliate for that year from sources in a country other than Canada that would otherwise be income or loss from property of the particular foreign affiliate for the year to the extent that
+. . .
+(ii) the income or loss is derived from amounts that were paid or payable, directly or indirectly, to the particular foreign affiliate or a partnership of which the particular foreign affiliate was a member
+. . .
+(B) by
+(I) another foreign affiliate of the taxpayer in respect of which the taxpayer has a qualifying interest throughout the year, or
+(II) a partnership of which another foreign affiliate of the taxpayer — in respect of which other foreign affiliate the taxpayer has a qualifying interest throughout the year or to which other foreign affiliate the particular foreign affiliate and the taxpayer are related throughout the year — is a qualifying member throughout each period, in the fiscal period of the partnership that ends in the year, in which that other foreign affiliate was a member of the partnership
+to the extent that those amounts that were paid or payable are for expenditures that were deductible by the other foreign affiliate or would (if the partnership were a foreign affiliate of the taxpayer) be deductible by the partnership in computing the amounts prescribed to be its earnings or loss for a taxation year from an active business (other than an active business carried on in Canada),
+For all other years in the relevant period, clause 95(2)(a)(ii)(B) read as follows:
+95(2)
+. . .
+(a) [income related to active business] -- in computing the income or loss from an active business for a taxation year of a particular foreign affiliate of a taxpayer in respect of which the taxpayer has a qualifying interest throughout the year or that is a controlled foreign affiliate of the taxpayer throughout the year, there shall be included any income or loss of the particular foreign affiliate for the year from sources in a country other than Canada that would otherwise be income or loss from property of the particular foreign affiliate for the year to the extent that
+. . .
+(ii) the income or loss is derived from amounts that were paid or payable, directly or indirectly, to the particular foreign affiliate or a partnership of which the particular foreign affiliate was a member
+. . .
+(B) by
+(I) another foreign affiliate of the taxpayer in respect of which the taxpayer has a qualifying interest throughout the year, to the extent that those amounts that were paid or payable are for expenditures that were deductible by that other foreign affiliate in computing the amounts prescribed to be its earnings or loss for a taxation year from an active business (other than an active business carried on in Canada), or
+(II) a partnership of which another foreign affiliate of the taxpayer (in respect of which other foreign affiliate the taxpayer has a qualifying interest throughout the year) is a qualifying member throughout each period, in the fiscal period of the partnership that ends in the year, in which that other foreign affiliate was a member of the partnership, to the extent that those amounts that were paid or payable are for expenditures that are deductible by the partnership in computing that other foreign affiliate’s share of any income or loss of the partnership, for a fiscal period, that is included in computing the amounts prescribed to be that other foreign affiliate’s earnings or loss for a taxation year from an active business (other than an active business carried on in Canada),
+Paragraph 95(2)(l)
+95(2)
+. . .
+(l) [trading or dealing in debt] -- in computing the income from property for a taxation year of a foreign affiliate of a taxpayer there shall be included the income of the affiliate for the year from a business (other than an investment business of the affiliate) the principal purpose of which is to derive income from trading or dealing in indebtedness (which for the purpose of this paragraph includes the earning of interest on indebtedness) other than
+(i) indebtedness owing by persons with whom the affiliate deals at arm’s length who are resident in the country in which the affiliate was formed or continued and exists and is governed and in which the business is principally carried on, or
+(ii) trade accounts receivable owing by persons with whom the affiliate deals at arm’s length,
+unless
+(iii) the business is carried on by the affiliate as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+(A) of each country in which the business is carried on through a permanent establishment[168] in that country and of the country under whose laws the affiliate is governed and any of exists, was (unless the affiliate was continued in any jurisdiction) formed or organized, or was last continued,
+(B) of the country in which the business is principally carried on, or
+(C) if the affiliate is related to a non-resident corporation, of the country under whose laws that non-resident corporation is governed and any of exists, was (unless that non-resident corporation was continued in any jurisdiction) formed or organized, or was last continued, if those regulating laws are recognized under the laws of the country in which the business is principally carried on and all of those countries are members of the European Union, and[169]
+(iv) the taxpayer is
+(A) a bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities resident in Canada, the business activities of which are subject by law to the supervision of a regulating authority such as the Superintendent of Financial Institutions or a similar authority of a province,
+(B) a subsidiary wholly-owned corporation of a corporation described in clause (A),
+(C) a corporation of which a corporation described in clause (A) is a subsidiary wholly-owned corporation, or
+Subsection 95(2.4)
+(2.4) Application of paragraph (2)(a.3) -- Paragraph (2)(a.3) does not apply to a foreign affiliate of a taxpayer in respect of its income derived directly or indirectly from indebtedness to the extent that
+(a) the income is derived by the affiliate in the course of a business conducted principally with persons with whom the affiliate deals at arm’s length carried on by it as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+(i) of the country under whose laws the affiliate is governed and any of exists, was (unless the affiliate was continued in any jurisdiction) formed or organized, or was last continued and of each country in which the business is carried on through a permanent establishment[170] in that country,
+(ii) of the country in which the business is principally carried on, or
+(iii) if the affiliate is related to a corporation, of the country under the laws of which that related corporation is governed and any of exists, was (unless that related corporation was continued in any jurisdiction) formed or organized, or was last continued, if those regulating laws are recognized under the laws of the country in which the business is principally carried on and all of those countries are members of the European Union, and[171]
+(b) the income is derived by the affiliate from trading or dealing in the indebtedness (which, for this purpose, consists of income from the actual trading or dealing in the indebtedness and interest earned by the affiliate during a short term holding period on indebtedness acquired by it for the purpose of the trading or dealing) with persons (in this subsection referred to as “regular customers”) with whom it deals at arm’s length who were resident in a country other than Canada in which it and any competitor (which is resident in the country in which the affiliate is resident and regulated in the same manner the affiliate is regulated in the country under whose laws the affiliate was formed or continued and exists and is governed and in which its business is principally carried on) compete and have a substantial market presence,
+and, for the purpose of this subsection, an acquisition of indebtedness from the taxpayer shall be deemed to be part of the trading or dealing in indebtedness described in paragraph (b) where the indebtedness is acquired by the affiliate and sold to regular customers and the terms and conditions of the acquisition and the sale are substantially the same as the terms and conditions of similar acquisitions and sales made by the affiliate in transactions with persons with whom it deals at arm’s length.
+"specified deposit" in subsection 95(2.5)
+“specified deposit” means a deposit of a foreign affiliate of a taxpayer resident in Canada with a prescribed financial institution resident in Canada where
+(a) the income from the deposit is income of the affiliate for the year that would, but for paragraph (2)(a.3), be income from an active business carried on by it in a country other than Canada (other than a business the principal purpose of which is to derive income from property including interest, dividends, rents, royalties or similar returns or substitutes therefor or profits from the disposition of investment property), or
+(b) the income from the deposit is income of the affiliate for the year that would, but for paragraph (2)(a.3), be income from an active business carried on by the affiliate principally with persons with whom the affiliate deals at arm’s length in the country under whose laws the affiliate was formed or continued and exists and is governed and in which the business is principally carried on by it and the deposit was held by the affiliate in the course of carrying on that part of the business conducted with non-resident persons with whom the affiliate deals at arm’s length or that part of the business conducted with a person with whom the affiliate was related where it can be demonstrated that the related person used or held the funds deposited in the course of a business carried on by the related person with non-resident persons with whom the related person and the affiliate deal at arm’s length.
+"lending asset" in subsection 248(1)
+“lending asset” means a bond, debenture, mortgage, hypothecary claim, note, agreement of sale or any other indebtedness or a prescribed share, but does not include a prescribed property;
+CITATION:
+2016 TCC 163
+COURT FILE NOS.:
+2012-950(IT)G, 2013-1251(IT)G,
+2013-1252(IT)G, 2013-1253(IT)G,
+2013-1254(IT)G, 2013-2961(IT)G
+and 2013-2962(IT)G
+STYLE OF CAUSE:
+CIT GROUP SECURITIES (CANADA) INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+January 19, 20, 21 and 22, 2015 and
+November 9, 10, 12, 13, 16, 17, 19
+and 20, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice John R. Owen
+DATE OF JUDGMENT:
+July 4, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Paul K. Tamaki and Deborah J. Toaze
+Counsel for the Respondent:
+Elizabeth Chasson, Darren Prevost, and Leonard Elias
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Edwin G. Kroft, Q.C., Paul K. Tamaki and Deborah J. Toaze
+Firm:
+Blake, Cassels & Graydon LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Unless otherwise noted, all statutory references are to the ITA.
+[2] The FAPI identified by the Minister was included in the income of the Appellant under subsection 91(1) of the ITA.
+[3] In the event the Reassessments are upheld, the parties agree that the deduction allowed to the Appellant under subsection 91(4) in respect of foreign tax paid on the FAPI of CCG must be adjusted to reflect the correct relevant tax factor. This adjustment is required as a result of a 2013 amendment to the definition of “relevant tax factor” in subsection 95(1) of the ITA that applies to the 2002 and subsequent taxation years. See lines 23 to 27 of page 6 and lines 1 to 4 of page 7 of Transcript of Hearing (the “Transcript”).
+[4] Lines 15 to 25 of page 27, lines 23 to 26 of page 38 and lines 1 to 7 of page 39 of the Transcript.
+[5] Mr. John Walker, Mr. Bruce Ells and Mr. Steven Blazevic.
+[6] Lines 8 to 17 of page 788, lines 15 to 18 of page 824 and lines 19 to 26 of page 846 of the Transcript. I will not review the qualifications of the witnesses in detail. Suffice it to say that, in my view, both witnesses were eminently qualified to provide expert opinions on the corporate and commercial law of Barbados addressed in their respective expert reports.
+[7] The FIA was enacted in 1996 and came into force on July 1, 1997. At that time, it replaced the FIRA, which was repealed.
+[8] The eight international business corporations are Barrow Capital Limited (“Barrow”), Cummins Capital Limited (“Cummins”), Durham Capital Limited (“Durham”), Erie Capital Limited (“Erie”), Frontenac Capital Limited (“Frontenac”), Grey Capital Limited (“Grey”), Haliburton Capital Limited (“Haliburton”) and Ironbridge Capital Limited (“Ironbridge”).
+[9] The ninth international business corporation is Adams Capital Limited (“Adams”).
+[10] Barrow owned 1,000 class G common shares carrying 6 votes per share; Cummins owned 1,000 class H common shares carrying 7 votes per share; Durham owned 1,000 class I common shares carrying 8 votes per share; Erie owned 1,000 class J common shares carrying 9 votes per share; Frontenac owned 1,000 class K common shares carrying 10 votes per share; Grey owned 1,000 class L common shares carrying 11 votes per share; Haliburton owned 1,000 class M common shares carrying 12 votes per share; and Ironbridge owned 1,000 class N common shares carrying 13 votes per share.
+[11] Tab 3 of the Joint Book of Documents, Exhibit A-2. In addition, see note 9 of CCG Financial Statements for period ending December 31, 2003 (Exhibit A-19); note 9 of CCG Financial Statements for period ending December 31, 2004 (Exhibit A-25); note 9 of CCG Financial Statements for period ending December 31, 2005 (Exhibit A-30); note 9 of CCG Financial Statements for period ending December 31, 2006 (Exhibit A-37); note 11 of CCG Financial Statements for period ending December 31, 2007 (Exhibit A-38); note 13 of CCG Financial Statements for period ending December 31, 2008 (Exhibit A-39); and note 16 of CCG Financial Statements for period ending December 31, 2009 (Exhibit A-40).
+[12] See, for example, financial statements of the Appellant for period ending December 31, 2005 at Tab 19 of Exhibit A-2.
+[13] See, for example, the undisputed assumption of fact at subparagraph 10(b)(i) of the Amended Reply filed in appeal number 2012-950(IT)G. According to the unconsolidated financial statements of the Appellant for 2003 through 2009 found at Tabs 17 through 23 of the Joint Book of Documents (Exhibit A-2), in 2003 and 2004 CCG LP owned 1,229,445,713 Class A common shares carrying one vote per share. CCG LP’s share ownership increased by 3,024,000 Class A common shares to 1,232,469,713 Class A common shares in 2005 and remained at that level through 2009.
+[14] Lines 12 to 16 of page 131 of the Transcript and the description of CITB in the 10-Ks filed by CITG with the United States Securities and Exchange Commission for 2003 through 2009, Exhibits A-3, A-4, A-5, A-6, A-7, A-8 and A-9.
+[15] Cross-examination of Mr. Shanahan at page 125 of the Transcript. As well, in assessing the Appellant for the Taxation Years, the Minister of National Revenue assumed as a fact that CITG was the indirect parent of CITF.
+[16] Lines 5 to 7 of page 18, and lines 10 to 11 of page 36 of the Transcript. This admission is also found in the pleadings of the parties.
+[17] Lines 12 to 17 of page 56 of the Transcript.
+[18] Lines 23 to 26 of page 44, and lines 1 to 6 of page 45 of the Transcript.
+[19] Lines 4 to 11 of page 59 of the Transcript.
+[20] Lines 9 to 14 of page 60 of the Transcript.
+[21] Lines 2 to 9 of page 61 of the Transcript.
+[22] Lines 15 to 28 of page 61, and lines 1 to 4 of page 62 of the Transcript.
+[23] Lines 3 to 9 of page 65 of the Transcript.
+[24] Lines 6 to 16 of page 64 of the Transcript.
+[25] CITG’s forms 10-K for 2003 through 2009 were entered as Exhibits A-3 to A-9 on the understanding that they were not to be considered direct evidence of the U.S. regulatory environment which governs CITG (see lines 6 to 20 of page 49 of the Transcript). I will refer to these exhibits collectively as the 10-Ks.
+[26] Lines 12 to 19 of page 46 of the Transcript.
+[27] Lines 7 to 13 of page 48 of the Transcript.
+[28] Lines 18 to 25 of page 48 of the Transcript.
+[29] Lines 11 to 15 of page 82 of the Transcript.
+[30] Lines 9 to 16 of page 58 of the Transcript.
+[31] Lines 19 to 28 of page 45, and lines 1 to 9 of page 46 of the Transcript.
+[32] The Queen v. Lefebvre, 2009 FCA 307, at paragraph 21.
+[33] Lines 24 to 28 of page 73, and lines 1 to 5 of page 74 of the Transcript.
+[34] Lines 12 to 28 of page 107, and lines 1 to 10 of page 108 of the Transcript.
+[35] Lines 13 to 21 of page 146, lines 26 to 28 of page 158, lines 1 to 10 of page 159, lines 25 to 28 of page 163 and lines 1 to 27 of page 164 of the Transcript.
+[36] Lines 27 to 28 of page 146 and line 1 of page 147 of the Transcript.
+[37] Lines 26 to 28 of page 538, lines 1 to 2 of page 539 and lines 6 to 10 of page 547 of the Transcript.
+[38] Lines 12 to 19 of page 636 and lines 10 to 11 of page 638 of the Transcript.
+[39] Lines 22 to 28 of page 159, lines 1 to 5 of page 160, lines 8 to 28 of page 541, lines 13 to 28 of page 641 and lines 1 to 4 of page 642 of the Transcript. At the commencement of the relevant period, the other six employees were Patricia Lowe, Nancy Cumberbatch, Bernard Smith, Hafiz Khan, Rose Ann Whittaker and Christina Hunte. Hafiz Khan retired in May 2003 and was replaced at that time by Donna Harris-Thornhill (lines 5 to 25 of page 322 of the Transcript). Nancy Cumberbatch was replaced by Cheryl Lovell about a year after Mr. Ells was appointed managing director (lines 20 to 22 of page 541 and lines 18 to 20 of page 641 of the Transcript).
+[40] Lines 5 to 27 of page 136, lines 1 to 26 of page 137, lines 1 to 3 of page 138, lines 1 to 28 of page 139, lines 1 to 27 of page 140, lines 26 to 28 of page 141 and lines 1 to 27 of page 142 of the Transcript.
+[41] Lines 4 to 6 and 16 to 26 of page 132 of the Transcript.
+[42] Lines 7 to 28 of page 535 and lines 1 to 28 of page 536, and lines 1 to 15 of page 537 of the Transcript.
+[43] Lines 26 to 28 of page 542 and lines 1 to 14 of page 543 of the Transcript.
+[44] Lines 16 to 26 of page 537, lines 22 to 28 of page 599 and lines 1 to 13 of page 600 of the Transcript.
+[45] Lines 20 to 21 of page 538 of the Transcript.
+[46] Lines 16 to 18 and 24 to 28 of page 631, lines 17 to 28 of page 632, lines 1 to 28 of page 633, lines 1 to 28 of page 634, lines 1 to 28 of page 635, lines 1 to 11 of page 636 and lines 10 to 11 of page 638 of the Transcript.
+[47] Lines 11 to 15 of page 159 of the Transcript.
+[48] Lines 4 to 21 of page 640 of the Transcript.
+[49] Lines 26 to 28 of page 158, lines 1 to 10 of page 159, lines 15 to 28 of page 543 and lines 1 to 28 of page 544 of the Transcript.
+[50] Per Mr. Blazevic, at lines 6 to 9 of page 638 of the Transcript.
+[51] Per Mr. Ells, at lines 10 to 11 and 15 to 20 of page 548 of the Transcript. See, also, Mr. Walker’s testimony at lines 22 to 28 of page 160 and lines 1 to 5 of page 161 of the Transcript regarding CCG’s long-term hold philosophy.
+[52] Lines 6 to 25 of page 161 of the Transcript.
+[53] Lines 13 to 24 of page 162 of the Transcript.
+[54] Lines 15 to 28 of page 546, lines 1 to 5 of page 547, lines 26 to 28 of page 638 and lines 1 to 16 of page 639 of the Transcript.
+[55] Lines 1 to 14 of page 165, lines 25 to 28 of page 559, lines 1 to 8 of page 560 and lines 6 to 11 of page 662 of the Transcript. The President’s Reports for 2003, 2004 and 2005 (Exhibits A-13, A-21 and A-27) were prepared by Mr. Walker. The 2006 report (Exhibit A-46) was prepared by Mr. Ells with the assistance of Mr. Walker (lines 7 to 16 of page 308 of the Transcript). The 2007 report (Exhibit A-47) was prepared by Mr. Ells. The 2008 report (Exhibit A-48) was prepared by Mr. Ells with the assistance of Mr. Blazevic (lines 26 to 28 of page 661 and line 1 of page 662 of the Transcript) and the 2009 report (Exhibit A-54) was prepared by Mr. Blazevic (lines 21 to 25 of page 680, and lines 9 to 11 of page 681 of the Transcript).
+[56] The description in the 2008 and 2009 President’s Reports varied only slightly.
+[57] Lines 18 to 27 of page 164 of the Transcript.
+[58] Financial statements of CCG for 2003 through 2009 (Exhibits A-19, A-25, A-30, A-37, A-38, A-39 and A-40). The 2003 through 2005 financial statements were entered only to the extent that the content was addressed in the testimony of Mr. Walker (see lines 10 to 28 of page 238, lines 1 to 4 of page 239, lines 22 to 28 of page 270, lines 14 to 20 of page 301, lines 4 to 28 of page 506 and lines 1 to 4 of page 507 of the Transcript). The 2006 through 2009 financial statements were entered as business records under section 30 of the Canada Evidence Act, R.S.C. 1985, c. C-5.
+[59] This number is changed to $351,560,819 in the 2007 column of the 2008 financial statements.
+[60] Lines 10 to 15 of page 495 of the Transcript.
+[61] Lines 8 to 28 of page 497, lines 1 to 10 of page 498, lines 7 to 28 of page 500, lines 1 to 20 of page 501 and lines 3 to 21 of page 570 of the Transcript.
+[62] Lines 12 to 20 of page 167, line 28 of page 502 and lines 1 to 12 of page 503 of the Transcript.
+[63] Lines 7 to 28 of page 504 and lines 1 to 22 of page 505 of the Transcript.
+[64] Lines 10 to 21 of page 570 of the Transcript.
+[65] See, for example, note 8 of the 2006 financial statements and note 10 of the 2007 financial statements (Exhibits A-37 and A-38).
+[66] Lines 15 to 20 of page 508 of the Transcript. See, also, lines 12 to 21 of page 511, lines 24 to 28 of page 512 and lines 1 to 3 of page 513 of the Transcript.
+[67] Lines 17 to 28 of page 260, lines 1 to 3 of page 261, lines 7 to 28 of page 262 and lines 1 to 17 of page 263 of the Transcript.
+[68] Lines 21 to 28 of page 672 of the Transcript. See also President’s Report for 2004 (Exhibit A-21), page 2.
+[69] Lines 11 to 28 of page 520, lines 1 to 28 of page 521, lines 1 to 21 of page 522, lines 24 to 28 of page 531, lines 1 to 28 of page 532 and lines 1 to 8 of page 533 of the Transcript.
+[70] Lines 3 to 19 of page 542 of the Transcript.
+[71] Lines 25 to 28 of page 166, lines 1 to 6 of page 167, lines 15 to 28 of page 513, lines 1 to 11 of page 514, lines 1 to 15 of page 529, lines 8 to 28 of page 530, line 1 of page 531, lines 13 to 24 of page 564 and lines 3 to 11 of page 660 of the Transcript.
+[72] Lines 25 to 28 of page 166 and lines 1 to 6 of page 167 of the Transcript.
+[73] Lines 14 to 17 of page 564 of the Transcript.
+[74] Lines 6 to 11 of page 660 of the Transcript.
+[75] See the testimony of Mr. Blazevic at lines 13 to 28 of page 668, lines 1 to 23 of page 669, and pages 671 to 676 of the Transcript.
+[76] Lines 8 to 28 of page 509 and lines 1 to 17 of page 510 of the Transcript.
+[77] Lines 25 to 28 of page 177, lines 1 to 20 of page 178 and lines 13 to 15 of page 182 of the Transcript.
+[78] Lines 22 to 28 of page 228 of the Transcript.
+[79] Lines 25 to 28 of page 202, lines 1 to 28 of page 203, lines 1 to 18 of page 204, lines 9 to 15 of page 205, lines 24 to 28 of page 209, lines 1 to 28 of page 210, lines 1 to 11 of page 211, lines 20 to 28 of page 573, lines 2 to 28 of page 576, lines 20 to 25 of page 578 and lines 3 to 20 of page 651 of the Transcript. Copies of the various reports filed with the Central Bank were entered into evidence as Exhibits A-15, A-16, A-22, A-23, A-28, A-29, A-33, A-34, A-49, A-50, A-51, A-52, A-55 and A-56.
+[80] Lines 5 to 23 of page 215, lines 17 to 28 of page 651 and lines 1 to 24 of page 652 of the Transcript.
+[81] Lines 24 to 28 of page 244 and lines 1 to 19 of page 245 of the Transcript, and Exhibits A-20, A-26, A-31, A-41, A-42, A-43 and A-44.
+[82] Lines 5 to 20 of page 302 of the Transcript.
+[83] Lines 12 to 28 of page 523, lines 1 to 11 of page 524, lines 11 to 28 of page 624, lines 1 to 28 of page 625 and lines 1 to 16 of page 626 of the Transcript.
+[84] Copies of the Certificate of Incorporation and the Articles of Incorporation of CCG are found at Tab 1 and a copy of amendments to the Articles of Incorporation is found at Tab 2 of the Joint Book of Documents, Exhibit A-2.
+[85] Report of Sir Trevor Carmichael (“TC Report”), at pages 7, 10 and 11; Report of Ms. Mary Mahabir, Q.C. (“MM Report”), at pages 39 to 40.
+[86] MM Report at pages 18 to 20; TC Report at pages 11 to 13.
+[87] MM Report at page 15; TC Report at pages 11 to 12.
+[88] MM Report at page 16.
+[89] The licence refers to paragraphs 24(1)(b), (c) and (d) of the FIRA. However, it is clear from the evidence of the expert witnesses that, by virtue of section 116 of the FIA, paragraphs 23(1)(b), (c) and (d) of the FIA replaced those provisions effective July 1, 1997.
+[90] MM Report at page 19; TC Report at pages 12 to 13.
+[91] MM Report at page 19.
+[92] MM Report at pages 19 to 20; TC Report at page 13.
+[93] MM Report at pages 21 to 24; TC Report at pages 13 to 14.
+[94] MM Report at page 23.
+[95] Lines 7 to 20 of page 777 and lines 14 to 23 of page 835 of the Transcript.
+[96] MM Report at pages 25 to 26; TC Report at page 15.
+[97] Lines 8 to 28 of page 856 and lines 1 to 16 of page 857 of the Transcript; MM Report at page 25.
+[98] MM Report at pages 20 and 27 to 39; TC Report at pages 16 to 20.
+[99] MM Report at page 27 and page 16 of the TC Report.
+[100] MM Report at pages 27 to 28 and TC Report at pages 18 to 19. As well, the Central Bank could request such further information as it considered necessary (MM Report pages 28 and 31).
+[101] MM Report at page 30.
+[102] MM Report at page 32.
+[103] MM Report at page 32 and TC Report at page 17.
+[104] MM Report at pages 35 to 39.
+[105] Lines 6 to 9 of page 783 of the Transcript. In her testimony, Ms. Mahabir provided a similar description of the Bank Supervision Department (lines 19 to 28 of page 829, lines 1 to 28 of page 830 and lines 1 to 14 of page 831 of the Transcript).
+[106] Lines 1 to 5 of page 783 of the Transcript.
+[107] Lines 7 to 13 of page 769 of the Transcript.
+[108] Lines 16 to 27 of page 769 of the Transcript.
+[109] Lines 9 to 17 of page 839 of the Transcript.
+[110] Lines 2 to 18 of page 840 of the Transcript.
+[111] Found at Tab 8 to the MM Report.
+[112] Lines 2 to 5 of page 726 of the Transcript.
+[113] Sidney N. Lederman, Alan W. Bryant and Michelle K. Fuerst, The Law of Evidence in Canada, 4th ed. (Markham, Ont.: LexisNexis, 2014), at p. 50.
+[114] Lines 2 to 27 of page 769, lines 9 to 20 of page 770, lines 14 to 28 of page 771, lines 1 to 7 of page 772 and lines 19 to 24 of page 824 of the Transcript.
+[115] [1990] 1 S.C.R. 852 at 899-900 [Lavallee].
+[116] Sir Trevor Carmichael confirmed that this inquiry was made on his instruction (lines 2 to 15 of page 785 of the Transcript).
+[117] [1966] S.C.R. 581 at 592.
+[118] This case is cited by Sopinka J. in Lavallee, supra, for these very principles.
+[119] To be clear, the information obtained as a result of the due diligence performed by the two expert witnesses is not being entered as stand-alone evidence, but only as the basis of the expert opinions. Accordingly, there is no need for cross-examination of the third party source.
+[120] S.C. 1991, c. 46.
+[121] The interest paid by CCG to the IBCs is deducted in computing its income from property with the result that the amount so deducted is not included in the FAPI of CCG, only in the FAPI of the IBCs.
+[122] The actual calculation of the income inclusion is complex but not in issue.
+[123] There are other regimes in Subdivision i, including the regime governing the taxation of non-resident trusts and their beneficiaries in section 94 and the regime governing offshore investment fund property in section 94.1.
+[124] In summary terms, the taxpayer must directly or indirectly own at least 1% of the shares of any class in the capital of the non-resident corporation and together with related persons must directly or indirectly own at least 10% of the shares of any class in the capital of the non-resident corporation.
+[125] That being said, the definition of FAPI determines the FAPI of an FA, not a CFA. Presumably, this is because FAPI is also relevant to the computation of an FA’s surplus accounts under Part LIX of the Income Tax Regulations.
+[126] The proportionate interest of a share in the FAPI of a CFA of the taxpayer is the share’s participating percentage in that CFA. The term “participating percentage” is defined in subsection 95(1).
+[127] As it read for 2003 to 2008, item A of the formula included in FAPI “incomes for the year from property”. For 2009, the language was amended to “income for the year from property”. It is of note that the wording in either case does not match the defined term in subsection 95(1), which is “income from property”. However, the import of this discrepancy, if any, was not raised by either party.
+[128] Paragraph 95(2)(a) deems certain income from property to be income from an active business while paragraphs 95(2)(a.1), (a.2), (a.3), (a.4) and (b) deem certain income to be income from a business other than an active business.
+[129] Paragraphs (b) and (c) of the definition of “investment business” require that the affiliate carry on the business directly or as a qualifying member of a partnership and that the affiliate or the partnership employ more than five employees full time in the active conduct of the business or that it be provided by certain entities with services that result in an equivalent level of employment.
+[130] 2005 SCC 54, [2005] 2 S.C.R. 601.
+[131] 2014 FCA 103, [2015] 3 F.C.R. 117 (Lehigh).
+[132] Ruth Sullivan, Sullivan on the Construction of Statutes, 5th ed. (Markham, Ont.: LexisNexis, 2008), at page 203.
+[133] Ruth Sullivan, Statutory Interpretation, 2nd ed. (Toronto: Irwin Law Inc., 2007), at pages 168 to 169.
+[134] A summary of the Appellant’s position on the preamble is set out at paragraphs 119 to 124 of the Appellant’s Argument and Submissions. The details are found in paragraphs 126 to 263.
+[135] I have omitted the parenthetical exclusion of an investment business as in my view that phrase does not impact the textual interpretation of the remaining words.
+[136] The role of these words in this instance is best explained by comparing “she is trading or dealing in indebtedness”, in which “trading or dealing in indebtedness”, describes what the individual is doing, with “trading or dealing in indebtedness is her business”, in which “trading or dealing in indebtedness” is being used to describe the individual’s business. In my view, the role of the phrase in paragraph 95(2)(l) is the same as in the second example.
+[137] In Ensite Ltd. v. R., [1986] 2 S.C.R. 509 at 519, the Supreme Court of Canada held that income from property employed or risked in the business is income from the business. Indebtedness held in a business of trading or dealing in that indebtedness must surely meet the “employed or risked” test and therefore income from that property while it is held in the business is also income from that business. There is no need for clarification of this point, as the Appellant suggests, particularly in such an obtuse fashion.
+[138] Paragraph 95(2)(l) was paragraph 95(2)(m) in the draft versions of the legislation.
+[139] Specifically, the parenthetical in the technical notes refers to “indebtedness” and not to “the indebtedness”, which would be the case if the reference was intended to be only to the indebtedness that is the object of the trading or dealing.
+[140] CCG’s business objective and the implementation of this business objective is well documented in the annual President’s Reports for the relevant period.
+[141] See, for example, the testimony of Mr. Ells, supra, footnote 70.
+[142] I also note that, in determining the Appellant’s tax liability for the Taxation Years, the Minister assumed as a fact that CCG earned interest income from the financing of conditional sales of capital assets.
+[143] Other definitions in the Canadian Oxford Dictionary (2nd ed.) are “(with antecedent so) expressing result or purpose (came early so as to meet us . . .)”, “having concessive force (good as it is = although it is good . . . )”, “in the manner in which”, “during or at the time that”, “for the reason that”, “seeing that” and “for instance”.
+[144] The only other definition of “as” in prepositional form is “during the time of being (the thing specified): he had often been sick as a child”.
+[145] That is, a business the principal purpose of which is to derive income from trading or dealing in indebtedness.
+[146] In my view, I require expert evidence to determine whether CITB was a “bank according to the laws of” the United States of America. I was provided with no such expert evidence. I note that in the 2003 and 2004 10-Ks, CITB is described as an industrial loan corporation, which begs an explanation.
+[147] The breadth of the phrase “financial services” was recognized by the Alberta Court of Queen’s Bench in Canadian Western Bank v. Alberta, 2003 ABQB 795 at paragraph 157.
+[148] R.S.C. 1985, c. E-15.
+[149] See, for example, the description by Mr. Walker of CCG’s portfolio at pages 167 to 174 of the Transcript and the descriptions of CCG’s business and portfolio in the annual President’s Reports. The Minister described CCG’s activities as the financing of conditional sales of capital assets, supra, footnote 142.
+[150] The distinction in focus is illustrated by the language of subsection 61(4), which states:
+“income-averaging annuity contract” of an individual means a contract between the individual and a person licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada an annuities business or a corporation licensed or otherwise authorized under the laws of Canada or a province to carry on in Canada the business of offering to the public its services as trustee . . .
+[151] Lines 8 to 28 of page 834 and lines 1 to 4 of page 835 of the Transcript.
+[152] The extent of the requirements imposed by the FIA and enforced by the Central Bank is set out in detail in the expert reports of Sir Trevor Carmichael, Q.C. and Ms. Mahabir, Q.C. See TC Report at pages 17 to 20 and MM Report at pages 27 to 39.
+[153] [1999] 3 S.C.R. 622 at paragraphs 45 and 46. See, also, the comments of Justice Stratas in Lehigh reproduced above.
+[154] Subparagraph 91(4)(a)(ii) was amended by S.C. 2013, c. 34, subsection 226(1), applicable from 2002 onward.
+[155] The definition of “active business” was amended by S.C. 2007, c. 35, subsection 26(1). Per subsection 26(26), the amendment is to “apply in respect of taxation years, of a foreign affiliate of a taxpayer, that begin after 2008”.
+[156] Per S.C. 2007, c. 35, paragraph 26(27)(a).
+[157] The description of A was amended by S.C. 2007, c. 35, subsection 26(3), effective for taxation years of a foreign affiliate of a taxpayer that begin after 2008, per subsection 26(26).
+[158] Paragraph (b) of the description of B was amended by S.C. 2013, c. 34, subsection 70(2), applicable in respect of taxation years of a foreign affiliate of a taxpayer ending after December 19, 2002. However, paragraph (b) is read differently than shown above if the taxpayer makes an election under either subsection 70(28) or 70(31) (of S.C. 2013, c. 34) or if neither election is made. I have not shown these alternate wordings of paragraph (b).
+[159] The description of D was amended by S.C. 2007, c. 35, subsection 26(4), effective for taxation years of a foreign affiliate of a taxpayer that begin after 2008, per subsection 26(26).
+[160] This description of E was added by S.C. 2007, c. 35, subsection 26(5). Per subsection 26(29), this description of E applies in respect of taxation years of a foreign affiliate that end on or after December 20, 2002.
+[161] This description of E was added by S.C. 2013, c. 34, subsection 70(26). Its retroactive effect is given by the same provision.
+[162] Paragraph (a) of the description of H was amended by S.C. 2014, c. 39, subsection 25(3), applicable in respect of taxation years of a foreign affiliate of a taxpayer ending after 2006, per subsection 25(30).
+[163] The definition of “income from an active business” was amended by S.C. 2007, c. 35, subsection 26(1). Per subsection 26(26), the amendment is to “apply in respect of taxation years, of a foreign affiliate of a taxpayer, that begin after 2008.”
+[164] The definition of “income from property” was amended by S.C. 2007, c. 35, subsection 26(1). Per subsection 26(26), the amendment is to “apply in respect of taxation years, of a foreign affiliate of a taxpayer, that begin after 2008.”
+[165] The definition of “investment business” was amended by S.C. 2007, c. 35, subsection 26(6). Per subsection 26(26), the amendment is to “apply in respect of taxation years, of a foreign affiliate of a taxpayer, that begin after 2008.”
+[166] This definition comes from S.C. 2013, c. 34, subsection 33(3), applicable to taxation years of a foreign affiliate of a taxpayer that begin after 1999.
+[167] This definition comes from S.C. 2013, c. 34, subsection 227(1), applicable as of the 2002 taxation year.
+[168] S.C. 2013, c. 34, subsection 33(4) deleted, after the words “permanent establishment”, the phrase “as defined by regulation” effective in respect of taxation years of a foreign affiliate of a taxpayer that begin after 1999.
+[169] The text of subparagraph 95(2)(l)(iii) as shown (with the exception of the amendment referred to in the preceding footnote) comes from S.C. 2007, c. 35, subsection 26(15), which had retroactive effect to taxation years of a foreign affiliate of a taxpayer that begin after 1999.
+[170] S.C. 2013, c. 34, subsection 33(6) deleted after the words “permanent establishment” the phrase “as defined by regulation”, effective for taxation years of a foreign affiliate of a taxpayer that begin after 1999.
+[171] S.C. 2007, c. 35, subsection 26(21) amended paragraph 95(2.4)(a) (shown above as it read after the amendment referred to in the preceding footnote), with retroactive effect to taxation years of a foreign affiliate of a taxpayer that begin after 1999, per subsection 26(30).

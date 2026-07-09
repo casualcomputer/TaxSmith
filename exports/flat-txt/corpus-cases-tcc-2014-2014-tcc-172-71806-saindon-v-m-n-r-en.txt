@@ -1,0 +1,127 @@
+Title: Saindon v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71806/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-172-71806-saindon-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-05-23
+
+# Saindon v. M.N.R.
+
+- Citation: 2014 TCC 172
+- Decision date: 2014-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5379, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saindon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-23
+Neutral citation
+2014 TCC 172
+File numbers
+2013-2464(CPP)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Canada Pension Plan
+Decision Content
+Dockets: 2013-2464(CPP)
+2013-2465(EI)
+BETWEEN:
+RENALD L. SAINDON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeals heard on February 26, 2014, at Winnipeg, Manitoba.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Neil Goodridge
+JUDGMENT
+The appeals from the determinations by the Minister of National Revenue that Leo Giesbrecht was, for the purposes of the Employment Insurance Act and the Canada Pension Plan, employed by the Appellant in insurable and pensionable employment during the period from February 7, 2011 to May 5, 2012 are dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 23rd day of May 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 172
+Date: 20140523
+Dockets: 2013-2464(CPP)
+2013-2465(EI)
+BETWEEN:
+RENALD L. SAINDON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction [1] These are appeals from determinations made by the Minister of National Revenue (the “Minister”) that Leo Giesbrecht (the “Worker”) was an employee of Renald L. Saindon (the “Appellant”) during the period from February 7, 2011 to May 5, 2012.
+[2] The Appellant argues that the Worker was an independent contractor providing services to him in the course of a business carried on by the Worker for his own benefit.
+II. Factual Summary [3] The Appellant operated a trucking business, using for that purpose two trucks which he owned.
+[4] The business was operated as a proprietorship on a year-round basis.
+[5] The evidence shows that the Appellant entered into agreements with Flying Eagle Transport (“Flying”) and Day & Ross Transport for the supply of a truck and driver.
+[6] The Worker was hired to work as the driver of the truck that the Appellant supplied to Flying.
+[7] The Worker received his instructions from Flying’s dispatchers.
+[8] The evidence shows that the Worker could not hire a helper or a replacement driver.
+[9] The Appellant paid all of the costs associated with the operation of the truck by the Worker save for tickets for road and safety infractions committed by the Worker.
+[10] At times when there were no deliveries or pick ups to be made with the Appellant’s truck under the Flying contract, Flying would assign the Worker warehouse duties.
+[11] The Worker earned a set wage of $17.00 per hour. The Appellant charged Flying $48.00 per hour for the trucking services and paid the Worker at his hourly rate. Flying paid the Appellant $17.00 per hour for the Worker’s warehouse duties and the Appellant in turn paid the Worker.
+III. Analysis [12] The case law is clear with regard to the legal test that should be applied to determine whether an individual is an employee or self-employed.
+[13] The leading case on this issue is Wiebe Door Services Ltd. v. M. N. R.,[1] a decision which was confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] The question is always whether or not the worker “is performing [the services] as a person in business on his own account”.[3] Sagaz summarizes as follows the test enunciated in Wiebe Door and the factors that need to be weighed in determining the nature of a work relationship:
+47 . . . In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.[4]
+[Emphasis added.]
+[14] In addition to these factors, the subjective intention of the parties also needs to be considered. Where one can establish a common intent of the parties with regard to the type of working relationship they wished to establish, this intent must be considered in the Court’s analysis of the foregoing factors.
+[15] It is important to bear in mind, however, that the intention of the parties is only relevant to the extent that it is reflected in the facts of the case. The subjective intention of the parties is not determinative in itself. Justice Mainville of the Federal Court of Appeal has provided the following clarification:[5]
+37 . . . the legal status of independent contractor or of employee is not determined solely on the basis of the parties declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+[16] Connor Homes further confirms that the analysis involves a two-step process. First, the intention of the parties must be ascertained in order to determine what kind of relationship they wished to create. In the light of that intent, the second step is to analyze the facts of the case to determine whether the objective reality of the situation is reflective of the intent. In this second step, the Court must apply the four Wiebe Door factors, namely: (i) control, (ii) ownership of tools, (iii) chance of profit and (iv) risk of loss, to determine whether the factual reality reflects the subjective intention of the parties. These factors constitute a non-exhaustive list. The relative weight of each factor will depend on the particular facts and circumstances of the case.
+[17] From the evidence, it is clear that the Appellant desired to employ the Worker as an independent contractor. The Worker appears not to have accepted this status. In any event, the parties’ intention is not determinative of the issue. Their intention must also be consistent with the objective reality of their relationship determined through a balancing of the factors noted in paragraph 16 of these reasons.
+Control [18] The evidence shows that the Worker received instructions from Flying’s dispatchers with respect to the goods to be transported using the Appellant’s truck. In my opinion, this constitutes control exercised by Flying pursuant to a delegation of authority by the Appellant to Flying. I infer from the evidence as a whole that Flying, the Appellant’s client, could complain to him if the Worker failed to carry out his duties properly. The Appellant could take disciplinary action against the Worker by simply barring him from driving the truck for Flying. It is well established that it does not matter whether control has in fact been exercised. What matters is that the Appellant could have exercised control. I surmise that the Worker would have had to obey the Appellant, failing which his right to drive the truck could have been suspended. The control factor weighs in favour of a finding that there was an employee-employer relationship.
+Ownership of Tools [19] The Appellant’s truck was essential for the performance of the Worker’s duties. No other tool was really required for that purpose. When the Appellant decided to sell his truck the Worker became unemployed.
+Chance of Profit [20] The Worker was paid a fixed hourly wage for his services. The Appellant charged a greater amount to Flying for the supply of a driver and a truck. The opportunity for profit was limited to the number of hours worked by the Worker. While the Worker was given some warehouse duties directly by Flying, compensation in respect of the performance thereof was paid by Flying to the Appellant, who seconded the Worker to Flying for the provision of the warehouse services. The warehouse duties were also remunerated on an hourly basis at the same $17.00 hourly rate set by the Appellant for the Worker’s truck driving.
+Risk of Loss [21] The Worker did not incur any operating costs. He was responsible only for tickets issued to him for road and safety contraventions. He had no capital invested in a business. This factor weighs in favour of the existence of an employee-employer relationship.
+[22] On balance, the application of the Wiebe Door factors favours a finding that the Worker was an employee. The Worker was not in business for himself.
+IV. Conclusion [23] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 23rd day of May 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 172
+COURT FILE NOS.:
+2013-2464(CPP)
+2013-2465(EI)
+STYLE OF CAUSE:
+RENALD L. SAINDON v. M.N.R.
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+February 26, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+May 23, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Neil Goodridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553, 1986 CarswellNat 366.
+[2] [2001] 2 S.C.R. 983, 2001 SCC 59.
+[3] Ibid., at para. 47.
+[4] Ibid.
+[5] 1392644 Ontario Inc. o/a Connor Homes v. Minister of National Revenue, 2013 FCA 85.

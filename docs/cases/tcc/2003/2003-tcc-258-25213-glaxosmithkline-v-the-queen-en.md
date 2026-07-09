@@ -1,0 +1,229 @@
+---
+title: "GlaxoSmithkline v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25213/index.do"
+last_modified: "2003-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 258"
+citation2: ""
+neutral_citation: "2003 TCC 258"
+decision_date: "2003-06-03"
+language: "en"
+item_id: "25213"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2573
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:05:46.335000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "15b449025809090e2c130d19352eb69dad30b49691e4024b9284592ffd7a2e12"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GlaxoSmithkline v. The Queen
+
+- Citation: 2003 TCC 258
+- Decision date: 2003-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2573, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GlaxoSmithkline v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-03
+Neutral citation
+2003 TCC 258
+File numbers
+98-712(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 98-712(IT)G
+BETWEEN:
+GLAXO SMITHKLINE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on February 26 and 27, 2003, at Ottawa, Ontario,
+By: The Honourable Judge E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Pierre Barasalou, Sébastien Rheault, Zoltan Ambrus
+Counsel for the Respondent:
+Naomi Goldstein and Laurel Irvine
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order to prohibit the introduction by the Appellant of any foreign based document or information covered by a foreign-based requirement for information or documents where there has not been substantial compliance with the requirement pursuant to subsection 231.6(8) of the Income Tax Act;
+AND UPON reading the pleadings, affidavits and other material, filed;
+AND UPON hearing counsel for the parties;
+IT IS ORDERED THAT the Appellant is prohibited from introducing in this proceeding, at the trial or otherwise, any foreign-based information or document covered by the notice delivered to it pursuant to section 231.6 of the Act on March 16, 1995, otherwise than as rebuttal evidence, or in cross-examination, and only with leave of the trial judge. Costs of the motion will be in the cause.
+Signed at Ottawa, Canada, this 3rd day of June, 2003.
+"E.A. Bowie"
+J.T.C.C.
+Citation: 2003TCC258
+Date: 20030603
+Docket: 98-712(IT)G
+BETWEEN:
+GLAXO SMITHKLINE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] This appeal under the Income Tax Act (the Act) concerns the price at which the Appellant (Glaxo) purchased the chemical compound ranitidine from certain affiliated foreign companies (the affiliates), for import into Canada, during its 1990, 1991, 1992 and 1993 taxation years. The Appellant and those affiliates are all part of a large multi-national group of companies (the Glaxo group) that manufactures and distributes various pharmaceutical products worldwide. The Appellant is the operating company in Canada, and it manufactures, in Canada, a widely prescribed drug for the treatment of ulcers. To do so, it purchases supplies of ranitidine manufactured by the foreign affiliates, and sold to it through a Swiss affiliate, for use at its Canadian manufacturing facility. At issue is the reasonableness of the consideration that was paid by the Appellant to the affiliates for ranitidine. The Minister of National Revenue says that the consideration was not reasonable in the circumstances, and has assessed accordingly. It is from those assessments that these appeals are brought. In addition to the Glaxo foreign affiliates, there are other primary manufacturers of ranitidine in other countries, and they supply it to generic manufacturers in Canada and elsewhere. These Canadian generic manufacturers operate in competition with the Appellant, selling finished product into the Canadian market. The Appellant has pleaded that the appropriate method by which to determine the transfer price for purposes of the Act is the resale price method; the Respondent says it is the comparable uncontrolled price (CUP) method, or alternatively, the cost-plus method, that should be used. Each party has produced many thousands of documents, and there have been weeks of examinations for discovery. The trial will not take place before the end of this year. All this is said simply to put in context the motion that is now before me.
+[2] The Respondent now moves for an Order under subsection 231.6(8) of the Act. If granted, the Order would have the effect of prohibiting the Appellant from introducing at the trial any of a large body of documents, as well as certain unspecified (and perhaps indefinable) oral evidence. I was told on the hearing of the motion that there are some two hundred documents that both parties agree would be covered by the Order, and that there are perhaps as many as 40,000 additional documents that the Respondent submits would also be covered by it. Neither party attempted either to specify or to quantify the oral evidence that the Order would cover, nor do I know of any practicable way in which that could be done.
+[3] The audit of Glaxo which gave rise to these reassessments began in 1993. One of the major issues with which Mr. Tom Burkimsher, the Minister's auditor, was concerned was the transfer price at which the Swiss affiliate sold ranitidine to the Appellant. He proposed to test that price by the CUP method. On October 14, 1994, he asked Mr. Ray Willis of Glaxo to furnish him with certain information. His note of that request reads:
+1) Has Glaxo, either here in Canada or elsewhere, ever performed any comparative analyses of ranitidine to the ranitidine that is used by the generic drug companies or any ranitidine available on the open market?
+2) If the answer to 1) above is yes, please provide those analyses.
+[4] There was a certain amount of discussion back and forth between Mr. Burkimsher and Mr. Willis over the next several months, but by March 1995, Mr. Burkimsher had not received a response to this request. As the 1990 taxation year was going to be treaty-barred at the end of June, Mr. Burkimsher served two requirements on Glaxo, one under section 231.2 requiring the production of domestic based documents and information, and the other under section 231.6 requiring the production of foreign-based documents and information. It is only the latter that is relevant to the issue before me on this motion.
+[5] Before going further, I should set out in full the text of section 231.6 of the Act.
+231.6(1) For the purposes of this section, "foreign-based information or document" means any information or document that is available or located outside Canada and that may be relevant to the administration or enforcement of this Act, including the collection of any amount payable under this Act by any person.
+231.6(2) Notwithstanding any other provision of this Act, the Minister may, by notice served personally or by registered or certified mail, require that a person resident in Canada or a non-resident person carrying on business in Canada provide any foreign-based information or document.
+231.6(3) The notice referred to in subsection (2) shall set out
+(a) a reasonable period of time of not less than 90 days for the production of the information or document;
+(b) a description of the information or document being sought; and
+(c) the consequences under subsection (8) to the person of the failure to provide the information or documents being sought within the period of time set out in the notice.
+231.6(4) The person on whom a notice of a requirement is served under subsection (2) may, within 90 days after the service of the notice, apply to a judge for a review of the requirement.
+231.6(5) On hearing an application under subsection (4) in respect of a requirement, a judge may
+(a) confirm the requirement;
+(b) vary the requirement as the judge considers appropriate in the circumstances; or
+(c) set aside the requirement if the judge is satisfied that the requirement is unreasonable.
+231.6(6) For the purposes of paragraph (5)(c), the requirement to provide the information or document shall not be considered to be unreasonable because the information or document is under the control of or available to a non-resident person that is not controlled by the person served with the notice of the requirement under subsection (2) if that person is related to the non-resident person.
+231.6(7) The period of time between the day on which an application for review of a requirement is made pursuant to subsection (4) and the day on which the review is decided shall not be counted in the computation of
+(a) the period of time set out in the notice of the requirement; and
+(b) the period of time within which an assessment may be made pursuant to subsection 152(4).
+231.6(8) If a person fails to comply substantially with a notice served under subsection (2) and if the notice is not set aside by a judge pursuant to subsection (5), any court having jurisdiction in a civil proceeding relating to the administration or enforcement of this Act shall, on motion of the Minister, prohibit the introduction by that person of any foreign-based information or document covered by that notice.
+231.6(1) Pour l'application du présent article, un renseignement ou document étranger s'entend d'un renseignement accessible, ou d'un document situé, à l'étranger, qui peut être pris en compte pour l'application ou l'exécution de la présente loi, y compris la perception d'un montant payable par une personne en vertu de la présente loi.
+231.6(2) Malgré les autres dispositions de la présente loi, le ministre peut, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger d'une personne résidant au Canada ou d'une personne n'y résidant pas mais y exploitant une entreprise de fournir des renseignements ou documents étrangers.
+231.6(3) L'avis doit:
+a) indiquer le délai raisonnable, d'au moins 90 jours, dans lequel les renseignements ou documents étrangers doivent être fournis;
+b) décrire les renseignements ou documents étrangers recherchés;
+c) préciser les conséquences prévues au paragraphe (8) du défaut de fournir les renseignements ou documents étrangers recherchés dans le délai ci-dessus.
+231.6(4) La personne à qui l'avis est signifié ou envoyé peut, dans les 90 jours suivant la date de signification ou d'envoi, contester, par requête à un juge, la mise en demeure du ministre.
+231.6(5) À l'audition de la requête, le juge peut:
+a) confirmer la mise en demeure;
+b) modifier la mise en demeure de la façon qu'il estime indiquée dans les circonstances;
+c) déclarer sans effet la mise en demeure s'il est convaincu que celle-ci est déraisonnable.
+231.6(6) Pour l'application de l'alinéa (5)c), le fait que des renseignements ou documents étrangers soient accessibles ou situés chez une personne non-résidente qui n'est pas contrôlée par la personne à qui l'avis est signifié ou envoyé, ou soient sous la garde de cette personne non-résidente, ne rend pas déraisonnable la mise en demeure de fournir ces renseignements ou documents, si ces deux personnes sont liées.
+231.6(7) Le délai qui court entre le jour où une requête est présentée conformément au paragraphe (4) et le jour où il est décidé de la requête ne compte pas dans le calcul:
+a) du délai indiqué dans l'avis correspondant à la mise en demeure qui a donné lieu à la requête;
+b) du délai dans lequel une cotisation peut être établie conformément au paragraphe 152(4).
+231.6(8) Si une personne ne fournit pas la totalité, ou presque, des renseignements ou documents étrangers visés par la mise en demeure signifiée conformément au paragraphe (2) et si la mise en demeure n'est pas déclarée sans effet par un juge en application du paragraphe (5), tout tribunal saisi d'une affaire civile portant sur l'application ou l'exécution de la présente loi doit, sur requête du ministre, refuser le dépôt en preuve par cette personne de tout renseignement ou document étranger visé par la mise en demeure.
+The precise wording of the requirement is also important. It reads:
+Hand Delivered
+Glaxo Canada Inc.
+7333 Mississauga Road North
+Mississauga, Ontario
+L5N 6L4
+Mississauga D.O.
+and
+P.O. Box 6000
+Michael McTeague
+77 City Centre Dr.
+Being an Officer of
+Mississauga, Ont.
+Glaxo Canada Inc.
+L5A 4E9
+March 16, 1995
+Dear Mr. McTeague;
+Pursuant to subsection 231.6(2) of the Income Tax Act, you are required to provide the following foreign-based information or documents by June 15, 1995:
+i) All comparative and other studies (for tax purposes or for any other purposes) on ranitidine hydrochloride produced by Glaxochem (PTE) Ltd. in Singapore, that your company or any of its affiliates or any other party have undertaken, has in their possession or are aware of in relation to ranitidine hydrochloride available from other sources/suppliers. Identify any differences that were found and state whether any of these differences have an impact on the active ingredient's clinical effect. State the therapeutic and clinical significance for each and every difference.
+ii) Explanation of how the differences identified in i) above relate to the pricing of ranitidine hydrochloride. Provide any analysis done to quantify the impact on the pricing of ranitidine hydrochloride for each difference found in i) above.
+iii) Any other scientific/technical differences not cited in i) above that impact on pricing and the basis for any difference.
+iv) Complete, legible copies of all data/reports/summaries and any other supporting documentation generated as a result of i) or iii) above. If the documentation incorporates camera ready type prints or photographs, duplicates of the original photographs or prints should be provided rather than photocopies.
+To comply with this requirement, you should provide this information and produce the documents hereby required to Ian Thompson or Tom Burkimsher of the above District Office who will attend at your office for that purpose.
+Your attention is directed to subsection 231.6(8) of the Income Tax Act which states that if a person fails to comply substantially with a notice served under subsection 231.6(2) and if the notice is not set aside by a judge pursuant to subsection 231.6(5), any court having jurisdiction in a civil proceeding relating to the administration or enforcement of the Income Tax Act shall, on motion of the Minister, prohibit the introduction by that person of any foreign-based information or document covered by that notice.
+Yours truly,
+"Barbara Hébert"
+Director
+Mississauga District Office
+of the Department of National Revenue.
+Date of Service: ____16.3.95____________
+Received by: ______Illegible_________
+Officer executing service: _"Tom Burkimsher"
+[6] The Appellant does not dispute that the requirement under section 231.6 was properly served on it, nor that it contained all that it was required by the section to contain. Nor did it make an application to a judge under subsection 231.6(4) to have the requirement either varied or set aside, as it could have done. However, only one[1] document was produced in response to it within the time fixed for compliance. From the extensive affidavits and cross-examinations that were filed on the hearing of the motion, it appears that the position taken by the Appellant's parent company was that it was undesirable to produce the documents covered by the requirement, for reasons unrelated to the audit that was taking place. In addition, the Appellant apparently misconstrued the scope of the requirement, thinking that what was required by it did not go beyond the scope of the informal request that had been made earlier by Mr. Burkimsher.
+positions of the parties
+[7] The Respondent's position is simple. The requirement is a valid one, it was neither varied nor set aside under subsection 231.6(4), and it was not substantially complied with before the time for doing so expired. There are thousands of documents that the Respondent says should have been produced; a printout of the list of them was filed at the hearing of the motion and it is 8 centimetres thick. Even on the Appellant's less inclusive reading of the requirement there are hundreds of documents that were covered by it that were not produced. The language of subsection 231.6(8) is mandatory, and I therefore must make the Order that the Respondent seeks, prohibiting the Appellant from introducing any foreign-based information or document covered by the requirement at the trial. Neither I nor the trial judge has any discretion in the matter once it has been shown that there has not been substantial compliance.
+[8] The Appellant's submissions may be examined under two broad heads. First, it says that section 231.6 is not capable of being construed and applied in such a way that it would not deprive the Appellant of its right to a fair hearing in accordance with the principles of fundamental justice. It is therefore rendered inoperative by the provisions of paragraph 2(e) of the Canadian Bill of Rights.[2] Second, it argues in the alternative that the broad language of the requirement must be read in a restrictive way, in light of the context of the total history of the dealings between Mr. Burkimsher and the representatives of the Appellant with whom he dealt in the months prior to the service of the requirement. Most of the affidavit evidence, and the cross-examination on those affidavits, was directed to showing that the Appellant's representatives had been led to believe that what they were expected to produce in response to the requirements was any existing comparative analyses of the Glaxo group's ranitidine and that of other manufacturers. Counsel also argued that the Respondent was, in view of the history of those discussions, estopped from asserting any broader scope to the requirement.
+[9] I propose to deal first with the scope of the requirement. I do not accept the Appellant's proposition that the various discussions between representatives of the two parties serve to narrow the scope of the written requirement. The legislation has been carefully crafted to provide that the requirement must be in writing, and that it must set out in writing the subject matter that it covers. It makes provisions for variation, but only by order of a judge. Parliament has clearly recognized that the certainty of a written instrument is necessary to define the scope of such a far-reaching requirement for documents and information. In my view, any variation of the terms of the requirement would also have to be in writing, and would have to express unequivocally the intention to vary the original document. There is nothing of that sort in the material before me. For purposes of this motion, I accept that a taxpayer served with a section 231.6 requirement could resist an order under subsection (8) if it were shown that a representative of the Minister had deliberately led the taxpayer's representative to believe that compliance in whole or in part would not be required of it, and the taxpayer, relying on that representation, had then failed to comply. That is not the situation revealed by the affidavits and the transcripts filed, however. At most, the affidavits of Mr. Willis and Dr. Winterborn and the cross-examination of Mr. Burkimsher establish no more than an assumption on the part of Mr. Willis that the language of the requirement did not go beyond the informal request that Mr. Burkimsher had made in October, 1994. Although the requirement is careless in its use of language, particularly in the paragraph numbered (iii), it is quite obvious that it is of greater scope than the October 1994 request. It is understandable that Mr. Willis might have had difficulty understanding paragraph (iii). However, his proper course would have been to seek written clarification from Mr. Burkimsher and, if necessary, bring an application to vary the requirement under subsection (4), with a view to having more precise language substituted. Not having done that, the Appellant must live with the reasonable meaning of paragraph (iii). It has no licence simply to ignore it.
+[10] I turn now to the scope of the requirement. The information and documents required to be produced are described in four separate paragraphs, and I shall consider them separately. Before doing so, though, I would make the observation that the drafting of the document leaves much to be desired. Considering that the requirement was written by the Minister, and that the consequences of non-compliance by the taxpayer are far-reaching, it should be read contra proferentem.
+[11] The first paragraph refers initially to comparative and other studies of ranitidine produced by the Glaxo affiliate in relation to ranitidine available from other sources; it then requires that "differences" be identified, and it requires specific information about those differences. It is impossible to give any meaning to the word "other" as it appears in the first sentence, as all the first part of the sentence is qualified by the words "in relation to ranitidine hydrochloride available from other sources/suppliers" at the end of that sentence. This and the reference in the following sentences to "differences", lead me to conclude that paragraph (i) should not be read as requiring any studies other than studies that compare Glaxo ranitidine to ranitidine from other sources, and the particulars described of any differences that those studies have identified.
+[12] The second paragraph is limited in its effect by the references in it to "the differences identified in (i)". It, too, is limited to explanations relating to the differences between Glaxo ranitidine and ranitidine from other sources, as identified in the comparative studies referred to in paragraph (i).
+[13] Paragraph (iii) refers to "Any other scientific/technical differences not cited in (i) above that impact on pricing and the basis for any difference". When read in context, this can only mean documents that provide evidence of, or other knowledge of, scientific differences or technical differences between Glaxo ranitidine and other ranitidine that were known to Glaxo or its affiliates, other than the comparative studies covered by (i), together with any knowledge as to how those differences affect the relative prices of Glaxo ranitidine and other ranitidine. I do not think that (iii) can be construed as taking in all those documents that, if read together, would tend to show that there are scientific or technical differences between Glaxo ranitidine and ranitidine from other sources. If that were intended then it should have been expressed more precisely, perhaps by specifying all those documents that contain information as to scientific or technical properties of Glaxo ranitidine, and the same in relation to ranitidine from other sources. It may be that the language actually used adds little or nothing to that specified in paragraph (i) insofar as documents are concerned. However, it might cover knowledge in the possession of one or more employees of Glaxo affiliates. I am not prepared to read it as covering all those documents that, if read together, would reveal "differences ... that impact on pricing". As I have said, ambiguities in the requirement are to be interpreted restrictively.
+[14] Paragraph (iv) contains no additional substantive requirement.
+[15] The parties recognized during the hearing of the motion that it would not be possible for me to determine as to each of the disputed documents, of which there are thousands, whether it falls within the scope of the requirement. I have examined the descriptions of the documents that appear in the exhibits to the affidavits filed. With few exceptions, they do not give sufficient information for me to be able to say whether they are covered by the requirement. It will be up to the Appellant in light of these Reasons, and subject of course to any variation on appeal, to determine what documents it proposes to adduce in evidence, and it will be up to the Respondent to identify which of those she says come within the ambit of the requirement and so cannot be introduced by the Appellant at trial. Only then can there be an adjudication as to those that are in dispute.
+[16] I turn now to the Appellant's argument invoking paragraph 2(e) of the Canadian Bill of Rights which reads:
+2. Every law of Canada shall, unless it is expressly declared by an Act of the Parliament of Canada that it shall operate notwithstanding the Canadian Bill of Rights, be so construed and applied as not to abrogate, abridge or infringe or to authorize the abrogation, abridgment or infringement of any of the rights or freedoms herein recognized and declared, and in particular, no law of Canada shall be construed or applied so as to
+2. Toute loi du Canada, à moins qu'une loi du Parlement du Canada ne déclare expressément qu'elle s'appliquera nonobstant la Déclaration canadienne des droits, doit s'interpréter et s'appliquer de manière à ne pas supprimer, restreindre ou enfreindre l'un quelconque des droits ou des libertés reconnus et déclarés aux présences, ni à en autoriser la suppression, la diminution ou la transgression, et en particulier, nulle loi du Canada ne doit s'interpréter ni s'appliquer comme
+(e) deprive a person of the right to a fair hearing in accordance with the principles of fundamental justice for the determination of his rights and obligations.
+e) privant une personne du droit à une audience impartiale de sa cause, selon les principes de justice fondamentale, pour la définition de ses droits et obligations;
+[17] The Appellant asserts that subsection 231.6(8) intrudes upon the right of an Appellant in this Court to a fair hearing in accordance with the principles of fundamental justice, in that an Order made under that subsection deprives it of the right to adduce relevant evidence that would otherwise be admissible, while leaving it open to the Respondent to adduce that same evidence, or any part of it. Indeed, the Respondent is left free to adduce part of the evidence covered by the Order selectively, relying on that which is helpful to her case and omitting relevant evidence that qualifies or contradicts the part that she has chosen to introduce. For example, if the documents that were the subject of an Order included two opinions of a scientist as to the quality of the product in issue, the second of which contradicted or qualified the first on the basis of an error in the original opinion, the Respondent could rely at trial on the first opinion and it would not be open to the Appellant to put the second opinion before the Court. This, it is argued, would deprive the Appellant of a fair hearing in accordance with the principles of fundamental justice. Counsel for the Appellant also posited situations in which the taxpayer might find itself subject to an Order under subsection (8) without having had the opportunity to comply with the requirement that had been served on it. For example, the officer of the taxpayer who was served might, it was suggested, put the document in his briefcase and then board an airplane that crashed before reaching its destination. In such a case the time for compliance could run out before any other representative of the taxpayer knew of the existence of the requirement. Similarly, I suppose, a taxpayer that had done all that was necessary to comply with a requirement might be frustrated in its efforts to do so by the loss of the documents in transit on the eve of the last day for compliance.
+[18] Counsel for the Respondent took the position that subsection (4) is sufficient to ensure that a taxpayer's right to a fair hearing will not be infringed. If a requirement is too onerous in its terms, then it can be modified by a judge upon application by the taxpayer. She accepted, however, as she had to do, that once the 90-day period referred to in subsection (4) has expired, there is no discretion in either the judge before whom a motion under subsection (8) is brought or the trial judge to relieve the taxpayer of the effects of its non-compliance, no matter what the surrounding circumstances might prove to be. On the plain words of the Act, the judge hearing an application for an Order under subsection (8) can only decide whether there has been substantial compliance; if there has not, then the judge must make the Order sought, no matter what circumstances may have given rise to the failure to comply. Once the Order has been made, the trial judge's hands are tied; she has no power to permit the Appellant to adduce any evidence that is covered by the Order under any circumstances.
+[19] From the foregoing, it is apparent that section 231.6 may, in some circumstances, give rise to an infringement of a taxpayer's right to a fair hearing in accordance with the principles of fundamental justice to determine the incidence of taxation upon it. That does not end the inquiry, however. At the hearing of the motion, counsel for both parties made submissions as to whether, applying a test analogous to section 1 of the Canadian Charter of Rights and Freedoms, it could be said that the impact of section 231.6 on the right to a fair hearing was justifiable in a free and democratic society.[3] Before considering that aspect of the case, however, I intend to deal with the matter of appropriate remedies to be applied in cases involving infringement of the Bill of Rights.
+[20] In MacBain v. Lederman,[4] the Federal Court of Appeal accepted the Appellant's submission that the provisions of the Canadian Human Rights Act[5]governing a hearing by the Human Rights Tribunal had the effect of infringing his right under paragraph 2(e) of the Bill of Rights. In considering the remedy to be applied, Heald J.A. reviewed the cases in which the Supreme Court had applied the Bill of Rights in the context of legislation that it had found to be defective, and concluded that the remedies that may be applied where a statutory provision offends against the Bill of Rights must be limited to that which is required in order to remedy a breach arising out of the specific facts of the case before the Court. The Bill of Rights confers no broad powers on the Court to fashion remedies, including declarations of invalidity of legislation, of the kind that are found in the Charter; in effect, courts are authorized under the Bill of Rights to do no more than find a breach of its protections in the circumstances of the case before them and then "... remedy the constitutional shortcomings of the statute in the circumstances of this case".[6] The emphasis is that of Heald J.A. From this I conclude that I have no mandate to find that section 231.6 may some day, in the hypothetical situations that were addressed in argument, offend paragraph 2(e), and on that basis find that it is inoperative. The Appellant in the present case had 90 days in which it could have applied under subsection (4) to have the Requirement modified, or even vacated. I did not understand Mtre. Barsalou to assert that anything occurring up to this point has infringed on the Appellant's paragraph 2(e) rights. His concern is that I, on this motion, and the trial judge at a later date, have no discretionary power to prevent an injustice that may arise at trial.
+[21] Mtre. Barsalou accepted during his argument the need for a provision such as section 231.6 to prevent abuse in the context of transfer pricing disputes. It is obvious, I think, that without it there would be good reason to fear that the Minister's assessors would not have access to all the documents and information that they need in order to arrive at appropriate assessments in such cases. The potential to secure huge economic advantage for a multinational group of companies by moving profit away from high tax countries to low tax or no tax countries needs no explanation. Nor does the temptation to keep records and other evidence that would be unhelpful to the taxpayer in countries where the taxing authorities cannot reach them, while producing to the assessor conducting an audit only those that are helpful to the taxpayer. The real issue that must be decided is whether the absence of any discretion on the part of either the judge hearing a motion under subsection (8) or the trial judge can be sustained. In my view it cannot, for the reason to which I have alluded above. If I were to make the Order sought in the absolute terms that subsection (8) contemplates, then the trial judge would be powerless to prevent an abuse of the kind I have described, giving rise to the potential for an unfair hearing. The Respondent put evidence before me in the form of an affidavit of Mr. Ernewein to establish the need to have a provision such as section 231.6 in the Act. However, there is no evidence to suggest that the section could not properly fulfil its purpose if it left a residual discretion with the trial judge to admit evidence that would otherwise be excluded, where it can be shown that the evidence is required in order to prevent injustice. Nor did counsel make any such submission in argument. I understood her position to be simply that, in the view of Parliament, no such discretion is required. That is a view with which I respectfully must disagree. I conclude that the section as it stands may prove in any case to be unnecessarily obtrusive, in that it may be impossible in certain circumstances for the trial judge to prevent injustice.
+[22] What, then, is the appropriate remedy to apply on the facts of this specific case? The United States Congress has enacted similar legislation.[7] It provides for a general prohibition on the introduction of foreign-based documents covered by a formal document request, but subject to a general exception if the taxpayer can show reasonable cause for the failure to produce the required documents. In the present case, however, there is no issue of reasonable cause. The Appellant made virtually no attempt to comply with the requirement, for its own reasons, or those of its parent. There is no need for a reasonable cause exception in the present case. All that is required is that the trial judge have the power to permit the Appellant to proffer evidence in rebuttal that would otherwise be excluded by section 231.6, if that is necessary to prevent injustice. The Order will therefore provide that the Appellant is prohibited from introducing in this proceeding, at the trial or otherwise, any foreign-based information or document covered by the notice delivered to it pursuant to section 231.6 of the Act on March 16, 1995, otherwise than as rebuttal evidence, or in cross-examination, and only with leave of the trial judge. Costs of the motion will be in the cause.
+Signed at Ottawa, Canada, this 3rd day of June, 2003.
+"E.A. Bowie"
+J.T.C.C.
+CITATION:
+2003TCC258
+COURT FILE NO.:
+98-712(IT)G
+STYLE OF CAUSE:
+Glaxo Smithkline Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+February 26 and 27, 2003
+REASONS FOR ORDER BY:
+The Honourable Judge E.A. Bowie
+DATE OF ORDER:
+June 3, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Barsalou, Sébastien Rheault, Zoltan Ambrus
+Counsel for the Respondent:
+Naomi Goldstein and Laurel Irvine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Pierre Barsalou
+Firm:
+Barsalou Lawson
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There is some dispute as to whether it is one document or two, but it is irrelevant for present purposes which is correct.
+[2] R.S.C. 1985, App. III.
+[3] See Air Canada c. La Procureure générale du Canada, 2003qcca10010; [2003] J.Q. no. 21 (Q.L.).
+[4] [1985] 1 F.C. 856 (F.C.A.).
+[5] S.C. 1976-77 c. 33.
+[6]
+MacBain, supra. at p. 884.
+[7] Title 26, Subtitle A, Chapter 1, Subchapter N, Part III, subpart I, Sec.982.

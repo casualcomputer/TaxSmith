@@ -1,0 +1,349 @@
+Title: Létourneau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28781/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-204-28781-l-tourneau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-05-03
+
+# Létourneau c. M.R.N.
+
+- Citation: 2007 CCI 204
+- Decision date: 2007-05-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1502, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Létourneau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-03
+Référence neutre
+2007 CCI 204
+Numéro de dossier
+2005-4322(EI), 2006-1808(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2005-4322(EI)
+2006-1808(EI)
+ENTRE :
+LUC LÉTOURNEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune, le 8 février 2007
+à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le ministre sont confirmées selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 3e jour de mai 2007.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2007CCI204
+Date : 20070503
+Dossiers : 2005-4322(EI)
+2006-1808(EI)
+ENTRE :
+LUC LÉTOURNEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Les appels ont été entendus sur preuve commune à Québec (Québec) le 8 février 2007.
+[2] Ils portent sur l’assurabilité de l’emploi de l’appelant lorsqu’il était au service de Linda Kielbinski (le « payeur ») qui exploite son entreprise sous la raison sociale Médaille et Porte-Clef, le payeur, du 29 juin au 17 octobre 2003 (dossier : 2006‑1808(EI)) et du 20 septembre au 26 novembre 2004 (dossier 2005‑4322(EI)), les périodes en litige.
+[3] Dans le dossier 2006-1808(EI), le ministre du Revenu national (le « ministre ») a informé l’appelant par lettre datée du 1er juin 2006 de sa décision selon laquelle l’appelant n’occupait pas un emploi assurable pendant la période en litige. Le ministre a pris la même décision dans le dossier 2005‑4322(EI) et il l’a communiquée à l’appelant dans sa lettre du 14 septembre 2005.
+[4] En rendant sa décision dans le dossier 2006-1808(EI), le ministre s’est fondé sur les faits présumés suivants :
+a) l’entreprise du payeur a été immatriculée le 13 juillet 1995; (admis)
+b) le payeur exploitait un commerce de médailles, de trophées, de plaques, de porte-clés, d’épinglettes et d’objets promotionnels; (admis)
+c) la place d’affaires du payeur est située à la résidence de la propriétaire et de l’appelant; (admis)
+d) pour les années 2001 à 2004, le payeur déclarait les revenus suivants :
+Revenu brut
+Revenu net
+2001
+51 787 $
+23 866 $
+2002
+88 092 $
+14 684 $
+2003
+109 904 $
+21 666 $
+2004
+96 809 $
+8 482 $
+(admis)
+e) les mois de mai à octobre sont les mois les plus achalandés du payeur; (admis)
+f) depuis 2001, l’appelant travaillait pour le payeur; (admis)
+g) l’appelant était responsable de l’ensachage, ce qui comprend la pose de collants et de rubans sur les médailles, ainsi que du transport des marchandises; (admis)
+h) le 20 avril 2003, l’appelant et le payeur ont signé un contrat de travail, c’est la seule année où l’appelant a signé un contrat de travail avec le payeur; (admis)
+i) le contrat prévoyait que l’appelant devait s’occuper du contrat signé le 23 mars 2003 avec les Fêtes de la Nouvelle-France, de faire des livraisons, de voir à ensacher 50 000 pièces, ainsi qu’à rénover le bureau du sous-sol; (admis)
+j) la durée du contrat était de 10 à 14 semaines, à 40 heures par semaine au taux de 8,75 $ de l’heure; (admis)
+k) les heures de travail de l’appelant n’étaient pas consignées par le payeur; (nié)
+l) le 28 février 2006, le payeur déclarait à un représentant de l’intimé que l’appelant n’avait pas besoin d’être supervisé à son travail car il savait ce qu’il y avait à faire; (nié)
+m) l’appelant était rémunéré par chèques aux deux semaines au montant brut de 700 $, soit 80 heures à 8,75 $; (admis)
+n) l’appelant recevait toujours la même rémunération peu importe le nombre d’heures réellement travaillées durant la période de paye; (nié)
+o) le 28 février 2006, le payeur déclarait à un représentant de l’intimé que s’il y avait un « rush », l’appelant travaillait plus d’heures mais il était rémunéré que pour 40 heures; (nié)
+p) le 28 février 2006, le payeur déclarait à un représentant de l’intimé que l’appelant n’était pas payé pour les heures supplémentaires qu’il faisait; (nié)
+q) le 28 février 2006, le payeur déclarait à un représentant de l’intimé que l'appelant allait chercher la première boîte de médaille pour les Fêtes de la Nouvelle-France au cours de la première semaine de mai et la dernière boîte au début juillet; (nié)
+r) le 28 février 2006, le payeur déclarait à un représentant de l’intimé que l’appelant se rendait à Montréal à une fréquence de 2 à 3 fois semaine pour les médailles destinées aux Fêtes de la Nouvelle-France; (admis)
+s) de mai à juillet 2003, l’appelant se rendait 2 à 3 fois par semaine de Québec à Montréal pour transporter de 1 000 à 1 200 livres de médailles par voyage; (admis)
+t) le 27 février 2006, l’appelant déclarait à un représentant de l’intimé qu’il effectuait de la livraison 2 fois par semaine pour le payeur à l’année longue; (nié)
+u) l’appelant et non le payeur décidait de sa période d’embauche chez le payeur; (nié)
+v) le 28 février 2006, le payeur déclarait à un représentant de l’intimé que si son conjoint n’avait pas été disponible pour faire les rénovations, elle aurait attendu qu’il le soit; (nié)
+w) l’appelant utilisait ses outils pour les travaux de rénovation; (admis)
+x) la plupart des factures pour les matériaux de la rénovation du sous-sol étaient datées en dehors de la période en litige; (nié)
+y) le 5 février 2004, le payeur remettait un relevé d’emploi à l’appelant qui indiquait comme premier jour de travail le 29 juin 2003 est comme dernier jour de travail le 17 octobre 2003, le nombre total d’heures assurables était 640 heures et la rémunération assurable totalisait 5 600 $; (admis)
+z) l’appelant rendait des services au payeur à l’année longue; (nié)
+aa) le relevé d’emploi de l’appelant n’est pas conforme à la réalité quant aux périodes et quant aux heures travaillées; (nié)
+bb) l’appelant et le payeur ont conclu un arrangement concernant les heures et la période de travail de l’appelant; (nié)
+[5] L’appelant et le payeur sont des personnes liées au sens de la Loi de l’impôt sur le revenu (la « Loi ») car :
+A) Linda Kielbinski est la seule propriétaire de l’entreprise du payeur; (admis)
+B) depuis 1976, Linda Kielbinski est mariée avec l’appelant; (admis)
+C) l’appelant est lié par les liens du mariage au payeur; (admis)
+[6] De plus, le ministre a déterminé que l’appelant et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi et qu’il n’était pas raisonnable de conclure qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) en 2001, l’appelant a travaillé du 17 septembre au 23 novembre, en 2002, l’appelant n’a pas été embauché par le payeur, en 2003, l’année en litige, l’appelant a travaillé du 29 juin au 17 octobre et en 2004, l’appelant a travaillé du 20 septembre au 26 novembre; (admis)
+b) durant l’année en litige et durant les autres années, la période prétendue d’emploi de l’appelant ne correspond pas avec la période d’activité la plus achalandée du payeur; (nié)
+c) l’appelant et le payeur avaient conclu un arrangement sur le début, la fin et la durée de l’emploi de l’appelant; (nié)
+d) l’appelant rendait des services au payeur sans rémunération déclarée; (nié)
+e) le relevé d’emploi de l’appelant n’est pas conforme à la réalité quant au nombre d’heures travaillées ni quant à la période travaillée; (nié)
+f) la période prétendument travaillée ne correspond pas avec la période réellement travaillée par l’appelant; (nié)
+g) une personne, sans lien de dépendance, n’aurait pas eu ni une durée, ni des modalités d’emploi similaires à l’appelant. (nié)
+[7] En rendant sa décision dans le dossier 2005-4322(EI), le ministre s’est fondé sur les faits présumés suivants :
+a) le 13 juillet 1995, la payeuse immatriculait son commerce sous la raison sociale de Médaille et Porte Clef; (admis)
+b) la payeuse faisait le commerce de médailles, de trophées, de plaques, de porte-clés et d’épinglettes; (admis)
+c) les principaux fournisseurs de la payeuse étaient CFGL à Montréal, PDU à Toronto et Catellina à Québec; (admis)
+d) la place d’affaires de l’entreprise était située à la résidence personnelle de la payeuse; (admis)
+e) la payeuse exploitait son entreprise à l’année longue mais connaissait une forte activité de la fin juillet jusqu’au début septembre dû à la saison de soccer et une période très calme durant la saison hivernale; (nié)
+f) la payeuse était la seule à prendre les décisions au nom de l’entreprise et la seule autorisée à signer pour le compte bancaire de l’entreprise; (admis)
+g) l’appelant a commencé à rendre des services à l’entreprise au cours de la saison 2001 (du 17 septembre au 23 novembre); (admis)
+h) le travailleur a été embauché pour aller chercher les médailles chez les fournisseurs à Montréal et à Toronto; il s’occupait de faire graver les médailles et posait des rubans; (nié)
+i) en 2004, durant la période en litige, le travailleur s’est rendu à Toronto une fois et a effectué le trajet Québec-Montréal à une quinzaine de reprises; (admis)
+j) il n’existait aucun contrat écrit de travail entre les parties; (admis)
+k) le travailleur travaillait en partie sur la route et en partie à la place d’affaires de la payeuse; (admis)
+l) le travailleur n’avait pas droit à un 4% de vacances et la payeuse ne lui offrait aucun régime d’avantages sociaux; (nié)
+m) les heures de travail du travailleur n’étaient pas comptabilisées par la payeuse et, à cause des différentes versions obtenues, il est difficile d’établir les heures réellement travaillées par le travailleur durant la période en litige; (nié)
+n) les heures de travail du travailleur variaient beaucoup mais, durant la période en litige, il recevait une rémunération brute fixe de 700 $ aux deux semaines pour prétendument 40 heures par semaine alors qu’il prétendait gagner 10 $ de l’heure; (nié)
+o) la période d’emploi inscrite au relevé d’emploi émis au travailleur par la payeuse ne reflète pas la période la plus active de l’entreprise de la payeuse. (nié)
+[8] L’appelant et le payeur sont des personnes liées au sens de la Loi car :
+a) la payeuse était l’unique propriétaire de l’entreprise; (admis)
+b) le travailleur est le conjoint de la payeuse; (admis)
+c) le travailleur est lié à une personne qui contrôle l’entreprise de la payeuse. (admis)
+[9] De plus, le ministre a déterminé que l’appelant et le payeur avaient un lien de dépendance entre eux dans le cadre de l’emploi et qu’il n’était pas raisonnable de conclure qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le travailleur recevait une rémunération fixe sans égard aux heures réellement travaillées; (nié)
+b) en 2001, le travailleur était inscrit au registre des salaires de la payeuse du 17 septembre au 23 novembre, en 2002 il n’a rendu aucun service, en 2003 il était inscrit du début juillet à la mi-octobre et en 2004, du 20 septembre au 26 novembre; (admis)
+c) le travailleur rendait des services et était rémunéré par la payeuse sans égard aux périodes les plus achalandées de l’entreprise (de la fin juillet au début de septembre); (nié)
+d) le travailleur n’était pas inscrit au registre des salaires de la payeuse en mai et en août 2004 alors que l’entreprise réalisait ses plus grosses ventes; (nié)
+e) le travailleur rendait des services à la payeuse en dehors des périodes où il était inscrit au registre des salaires de la payeuse. (nié)
+[10] Il faut dire que les deux dossiers se ressemblent. Ce qui les diffère, c’est la période en litige et les tâches de l’appelant.
+[11] Je me penche d’abord sur le dossier 2006-1808(EI) et les faits présumés du ministre que l’appelant et le payeur ont niés. Il a été établi que les heures de travail de l’appelant n’étaient pas consignées. Dans sa déclaration aux enquêteurs, l’appelant a dit qu’il supposait que le payeur, son épouse, prenait en note ses heures de travail. Pour sa part, le payeur a confirmé, que les heures de travail n’étaient effectivement nullement consignées.
+[12] Comme le ministre l’a affirmé dans son hypothèse, le payeur a déclaré que l’appelant n’avait pas besoin de supervision puisqu’il « savait ce qu’il avait à faire ». Cependant, l’appelant a déclaré que le payeur exerçait une supervision régulière sur lui et approuvait son travail parce qu’elle travaillait de 50 à 60 heures par semaine à l’entreprise.
+[13] Par ailleurs, le payeur a informé le ministre que l'appelant travaillait habituellement du lundi au vendredi de 8 hres à 16 h 30, mais que s’il y avait un « rush », il travaillait pendant plus d’heures de travail, mais n’était rémunéré que pour 40 heures, il pouvait travailler tant la semaine que pendant la fin de semaine. Le payeur affirme que l’appelant rendait des services et qu’il n’était pas payé pour les heures supplémentaires qu’il faisait.
+[14] Le salaire de l’appelant, selon le payeur, était de 8,75 $ l’heure pour 40 heures par semaine et il était payé par chèque aux deux semaines.
+[15] L’appelant a révélé à l’enquêteur du ministre que ses fonctions consistaient à faire de l’ensachage, ce qui comprend la pose de collants et de rubans sur les médailles. Il devait aussi se rendre à Montréal, deux fois par semaine pour aller chercher de la marchandise. Il affirme qu’il transportait de 1 000 à 1 200 livres de médailles par trajet, et qu’il s’occupait de la livraison pendant toute l’année, environ deux fois par semaine. Il a aussi révélé aux enquêteurs qu’il faisait des travaux de rénovation dans le sous-sol, qu’il a divisé en deux salles, soit une pour le bureau et l’autre pour le rangement. Il a aussi expliqué avoir posé une moquette, du papier peint ainsi qu’un plafond suspendu. Il a précisé que ces travaux ont été effectués pendant une période de trois semaines de travail intense, à raison de 40 heures par semaine.
+[16] Le ministre soutient que le payeur a embauché l’appelant selon la disponibilité et le bon désir de ce dernier. En effet, madame Kielbinski déclarait aux enquêteurs le 28 février 2006 que si l’appelant n’avait pas été disponible pour faire les rénovations, elle aurait attendu qu’il le soit. Pour sa part, l’appelant déclarait qu’il sollicitait un emploi du payeur parce qu’il lui manquait 40 heures pour avoir droit à des prestations d’assurance-emploi.
+[17] La pièce I-4 produite à l’audition a révélé que la plupart des factures pour les matériaux requis pour la rénovation du sous-sol portent des dates autres que pendant la période en litige. L’achat de la moquette, par exemple, a été conclu le 30 janvier 2002, alors que les travaux de rénovation auraient été exécutés en septembre et en octobre 2003. L’explication offerte par le payeur, c’est-à-dire que l’appelant n’était pas disponible pour faire les travaux, est peu crédible, puisqu’il a été établi que c’est pendant la période la plus occupée de l’année du payeur que ces travaux ont été exécutés.
+[18] Le ministre a donc conclu que l’appelant et le payeur ont conclu une entente sur le début, la durée et la fin de l’emploi de celui-ci. Par ailleurs, le ministre soutient que le relevé d’emploi n’est pas conforme à la réalité quant au nombre d’heures de travail, ni quant à la période de travail. En outre, le ministre estime que la prétendue période de travail ne correspond pas à la période de travail réelle de l’appelant.
+[19] Le ministre a illustré ces affirmations par les tableaux reproduits ci-dessous :
+38. Imprimées tirés su système RAPID de l’ARC (option C) démontrant les revenus d’entreprise déclarés au cours des années 2000 à 2004 inclusivement :
+Année
+Revenu brut
+Revenu net
+2000
+80 611 $
+25 702 $
+2001
+51 787 $
+23 866 $
+2002
+88 092 $
+14 684 $
+2003
+109 904 $
+21 666 $
+39. Imprimé du compte du grand livre : Revenus de ventes (année 2004) :
+(document fourni par la payeuse)
+Janvier
+3 358 $
+Février
+4 606 $
+Mars
+8 850 $
+Avril
+7 307 $
+Mai
+23 608 $
+Juin
+8 180 $
+Juillet
+4 541 $
+Août
+13 012 $
+Septembre
+8 398 $
+Octobre
+5 334 $
+Novembre
+6 508 $
+Décembre
+3 102 $
+40. Imprimé du compte du grand livre : Revenus de ventes (année 2002) :
+(document fourni par la payeuse)
+Janvier
+5 954 $
+Février
+1 783 $
+Mars
+3 925 $
+Avril
+14 399 $
+Mai
+9 379 $
+Juin
+19 093 $
+Juillet
+6 293 $
+Août
+11 174 $
+Septembre
+4 407 $
+Octobre
+4 448 $
+Novembre
+4 815 $
+Décembre
+À noter que d’après le rapport TPS 2002 disponible au système TPS de l’ARC, les revenus de décembre sont de 2 430 $.
+41. Imprimé du compte du grand livre : Revenus de ventes (année 2001)
+(document fourni par la payeuse)
+Janvier
+3 863 $
+Février
+4 694 $
+Mars
+6 298 $
+Avril
+1 066 $
+Mai
+7 197 $
+Juin
+3 581 $
+Juillet
+5 746 $
+Août
+5 682 $
+Septembre
+6 697 $
+Octobre
+1 990 $
+Novembre
+2 750 $
+Décembre
+2 221 $
+42. Imprimé du rapport TPS de l’ARC (année 2003) :
+Selon cet imprimé, les plus gros revenus de l’année ont été réalisés au cours des mois de juillet, août et septembre 2003.
+[20] Il convient de souligner que les tableaux reproduits ci-haut ont été produits d’après les données puisées des documents du payeur.
+[21] Quant au dossier 2005-4322(EI), la preuve a révélé que selon une déclaration du payeur aux enquêteurs, son entreprise est exploitée pendant toute l’année, quoique l’hiver soit une période plutôt tranquille parce que l’entreprise n’a aucun contrat pour faire des médailles pour le hockey, tandis qu’à partir de la fin juillet jusqu’au début septembre, il y a beaucoup de travail en raison des compétitions de soccer. Par ailleurs, le payeur a également déclaré aux enquêteurs que l’appelant avait notamment été embauché pour aller chercher les médailles chez les fournisseurs à Montréal ou à Toronto, car elles étaient trop lourdes pour être envoyées par la poste. En 2004, celui-ci s’était rendu à Toronto une fois et avait fait le trajet Québec–Montréal une quinzaine de fois. C’est aussi l’appelant qui transportait les médailles pour les faire graver. En outre, il s’occupait de poser les rubans sur les médailles et, à l’occasion, il apposait des collants au dos.
+[22] L’intimé a fait la preuve que l’appelant ne jouissait d’aucun régime d’avantages sociaux, sauf que ses cotisations au régime d’assurance-emploi étaient retenues à la source. Il a été établi que les heures de travail de l’appelant n’étaient nullement consignées par le payeur.
+[23] Dans sa déclaration aux enquêteurs, le payeur a affirmé que l’appelant était tenu de faire un minimum de 35 à 40 heures de travail par semaine qu’il pouvait travailler trois jours sans arrêt, et qu’il pouvait faire 70 heures de travail durant une semaine. Le 30 juin 2005, elle déclarait à l’enquêteur que son époux avait travaillé entre 60 et 75 heures la semaine précédente. Elle a ajouté que celui-ci n’était pas rémunéré pour les heures supplémentaires effectuées et a ajouté : « les autres, ils ne travailleraient pas pour rien ». Elle a affirmé que l’appelant était rémunéré par chèque et recevait 400 $ brut par semaine, peu importe le nombre d’heures de travail. Elle a ajouté que ça serait différent pour un tiers, car il n’aurait pas travaillé pour un salaire aussi peu élevé. Pour sa part, l’appelant déclarait aux enquêteurs qu’il était tenu de faire un minimum de 80 heures de travail aux deux semaines. Il a témoigné à l’audition qu’il devait d’abord être payé au taux horaire de 10 $, mais que celui-ci a été réduit à 8,75 $.
+[24] Dans son rapport sur un appel, la pièce I-2, France Vigneault a écrit que lorsqu’elle avait communiqué la première fois avec l’appelant afin de fixer une date pour une entrevue téléphonique, celui-ci l’avait informé que pendant la période en litige, il pouvait travailler 12 heures durant une semaine et 15 heures durant une autre, et qu’il pouvait parfois faire beaucoup plus d’heures de travail, mais qu’il était toujours payé pour 40 heures par semaine. Madame Vigneault a affirmé que lorsqu’elle a fait son entrevue téléphonique avec l’appelant, elle lui a rappelé ce qu’il lui avait dit précédemment. C’est alors qu’il lui aurait dit d’oublier ça, et lui a affirmé qu’il devait faire ses 80 heures de travail pendant sa période de paie de deux semaines.
+[25] À plusieurs reprises dans son témoignage, le payeur a affirmé qu’un tiers n’aurait pas travaillé pour le salaire qu’elle payait à l’appelant. Elle a notamment déclaré, et je cite :
+« Un étranger ne travaillerait pas pour rien. »
+« L’étranger veut être payé pour le travail qu’il fait. »
+« C’est mon conjoint, c’est pour sauver de l’argent. »
+« Il (l’appelant) m’aide souvent sans être payé. »
+[26] Le payeur a déclaré aux enquêteurs que l’appelant avait été mis à pied le 26 novembre 2004 parce que les affaires étaient devenues tranquilles et que le contrat de neige était arrivé. Il avait également déclaré aux enquêteurs qu’en septembre, les tournois de soccer sont terminés et que, les affaires sont normalement tranquilles après la fête du travail et qu’elle est capable, seule, de suffire à la tâche. C’est alors que l’enquêteur lui a demandé pourquoi attendre le 26 novembre pour mettre son conjoint à pied. Et le payeur, madame Kielbinsky de répondre : « Je ne le sais pas, il devait sûrement avoir quelque chose à faire. Puis, elle a ajouté : Ça fait un an et je ne m’en souviens plus ».
+[27] En guise d’explication, l’appelant a produit la pièce A-2 qui vise à démontrer le besoin réel de ses services en octobre et novembre 2004. Cependant, les documents du payeur examinés par l’intimé ne révèlent aucun travail inhabituel pour cette période. Voici les données pertinentes :
+2004
+Mai 2004
+23 608 $
+Août 2004
+13 012 $
+Septembre 2004
+8 398 $
+Octobre 2004
+5 334 $
+[28] Les témoignages de l’appelant et du payeur ont porté à confusion concernant la paie de vacances de 4% de l’appelant. On a prétendu que la payait à l’appelant, puis on a soutenu le contraire, puis on a fini par dire que celle-ci était incluse dans sa paie.
+[29] L’appelant a soutenu qu’il a effectué des travaux de rénovation dans l’immeuble du payeur en septembre et en octobre 2003. Selon le témoignage de l’appelant ces travaux avaient nécessité trois semaines intensives de travail à raison de 40 heures par semaine. Quant au payeur, il a affirmé d’abord que ceux-ci ont été exécutés à partir de la mi-septembre jusqu’à la fin octobre 2003. Puis, il a ensuite précisé que les travaux avaient duré un mois, pour enfin déclarer que ceux-ci avaient duré deux mois. Quant aux achats de matériaux pour ces travaux, plusieurs d’entre eux ont été faits longtemps auparavant; par exemple, certains travaux ont été exécutés en mai 2003 alors que la moquette avait été achetée en janvier 2002.
+[30] Il convient de signaler que la période d’emploi de l’appelant, tant en 2003 qu’en 2004, ne correspond pas à la période la plus occupée du payeur. Ceci a été démontré dans le tableau reproduit ci-dessus.
+[31] L’agent des appels a noté dans son rapport, la pièce I-1, qu’elle a signalé au payeur que la période d’emploi de l’appelant était bien différente en 2003 et en 2004. Elle a donc demandé au payeur de lui en expliquer la raison. C’est alors que madame Kielbinski lui a répondu : « Ça dépend de ses disponibilités à lui ».
+[32] Dans son témoignage, madame Kielbinsky a déclaré qu’elle travaillait pour son entreprise de 50 à 60 heures par semaine et se payait un certain salaire au besoin. Cependant, les pièces I-7 et I-8, ses déclarations de revenus pour les années 2003 et 2004, n’indiquent aucun salaire versé à elle ou à l’appelant. Par contre, la pièce I-7 contient une déclaration qu’une commission de 6 075,65 $ a été versée. Madame Kielbinsky, dans son témoignage, a été incapable de nommer la personne à qui cette somme avait été versée.
+[33] À l’audience, l’appelant a apporté un élément nouveau qu’il n’avait pas dévoilé aux enquêteurs précédemment. Il s’agit de l’utilisation par le payeur de services bénévoles, ce qui vise à expliquer pourquoi l’appelant n’a pas travaillé pour le payeur en 2002. Selon l’appelant, le payeur aurait eu recours aux services bénévoles des membres de l’équipe de soccer et des enfants de l’appelant cette année-là.
+[34] Il faut noter que les chiffres produits à l’audition, tout en exposant l’état précaire des finances de l’entreprise, expliquent difficilement que l’on n’utilise plus de bénévoles après 2002, et qu’on ait plutôt préféré verser un salaire à l’appelant.
+[35] Selon l’agent des appels, les nombreuses contradictions révélées lors de l’enquête expliquent la recommandation qu’elle a faite au ministre dans ces dossiers.
+[36] Se basant sur ces recommandations, le ministre a conclu que l’emploi de l’appelant n’était pas assurable pendant les deux périodes en litige parce qu’il ne satisfaisait pas aux exigences d’un contrat de louage de services selon l’alinéa 5(1)a) de la Loi sur l’assurance-emploi. Le ministre a également conclu que l’emploi de l’appelant était exclu des emplois assurables en raison du lien de dépendance entre lui et le payeur selon les articles 251 et 252 de la Loi sur l’impôt sur le revenu et les alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance-emploi.
+[37] La question qui se pose porte sur le caractère assurable de cet emploi. Les parties au contrat sont liées selon la définition de la Loi de l’impôt sur le revenu, alinéas 251(1)a) et 251(2)a) :
+251. Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées ». Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l'adoption;
+[38] Par ailleurs, la Loi sur l’assurance-emploi exclut des emplois assurables celui dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance. Ainsi, l'alinéa 5(2)i) édicte ce qui suit :
+5(2) N'est pas un emploi assurable :
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[39] Dans de telles circonstances, la Loi sur l’assurance-emploi prescrit la façon dont le ministre doit exercer son pouvoir discrétionnaire pour déterminer si l’emploi est assurable, à l'alinéa 5(3)b) de la Loi, qui stipule ce qui suit :
+(3) Pour l'application de l'alinéa (2)i) :
+[...]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+Durée de l'emploi
+[40] L'appelant travaille pour le payeur depuis 2001. Ses périodes d'emploi pour chacune de ces années sont les suivantes :
+2001 : du 17 septembre au 23 novembre
+2002 : l'appelant n'a pas travaillé pour le payeur
+2003 : du 29 juin au 17 octobre
+2004 : du 20 septembre au 26 novembre
+[41] Le payeur a expliqué aux enquêteurs que les périodes d'emploi de l'appelant dépendaient de ses disponibilités. Madame Kielbinski a également informé les enquêteurs que la période de la fin juillet au début septembre était très occupée. Il y avait beaucoup de travail. Par la suite, elle a révélé que les mois d'août et de septembre « sont très forts » et elle a terminé en disant qu'après la fête du travail, c'est tranquille et elle est capable de suffire seule à la tâche.
+[42] Il est permis de douter qu'un travailleur sans lien de dépendance aurait, d’abord joui de tels privilèges, pour ensuite travailler durant une période aussi peu achalandée.
+Rétribution versée
+[43] L'appelant était payé 700 $ brut aux deux semaines par chèque peu importe le nombre d'heures de travail. Il pouvait parfois travailler jusqu'à 70 heures par semaine sans être rémunéré pour les heures excédant 40 heures. Il n'était pas payé pour ses heures de travail supplémentaires. L'appelant a déclaré qu'en 2003 : « on pouvait s'asseoir la fin de semaine avec des amis du camping et on s'amusait à poser des rubans ou des collants sur les médailles ». Il a ajouté que la fille de Linda Kielbinski a aussi fait du bénévolat.
+Modalités d'emploi, nature et importance du travail accompli
+[44] Selon le payeur, l'appelant faisait le transport des produits liés à la fabrication et à la distribution des médailles. Il allait chercher ces médailles, selon le payeur, dès la première semaine de mai. C'était en 2003. Pourtant, son emploi commence le 29 juin. L'appelant faisait aussi la livraison de produits pendant toute l'année, deux fois par semaine. Quant aux travaux de rénovation effectués en 2003, plusieurs versions différentes ont été données quant à la période où ils ont été exécutés. Par ailleurs, la prétendue date de ces travaux est mise en doute par la date des achats des matériaux qui ont été utilisés.
+[45] Le payeur a aussi affirmé que si son conjoint n'avait pas été disponible pour faire ses travaux, elle aurait attendu qu'il le soit.
+[46] Selon l'appelant, la période la plus occupée du payeur était de mai à octobre, mais selon le payeur, les périodes d'emploi de l'appelant dépendaient de ses disponibilités.
+[47] Le compte « revenus de ventes » du grand livre du payeur établit que la période d'embauche de l'appelant pour l'année 2004 ne coïncide pas avec les mois les plus occupés de l'année, même en 2001. De plus, il est remarquable de constater que l'appelant a été embauché en 2001 alors qu'en 2002, il ne l'a pas été. D'ailleurs, il n'y a eu aucun employé en 2002. Cependant, les ventes de 2002 dépassaient de 36 000 $ celles de 2001.
+[48] Il ne fait aucun doute que de telles conditions de travail n'auraient pas existé dans une relation de travail sans lien de dépendance.
+[49] Il faut conclure qu'il n'est pas raisonnable de croire qu'un tiers aurait eu des conditions de travail à peu près semblables à celles consenties à l'appelant. Par conséquent, l'emploi de l'appelant pendant les deux périodes en litige est exclu des emplois assurables selon l'alinéa 5(2)i) de la Loi sur l’assurance‑emploi.
+[50] La Cour a analysé les faits de cette cause à la lumière des textes législatifs reproduits ci-dessus.
+[51] La Cour a également examiné l'exercice qu'a fait le ministre conformément au mandat qui lui a été confié par le législateur.
+[52] La Cour d'appel fédérale a statué sur le mandat qu'a reçu le ministre et cette Cour, en révision de sa décision, dans l'arrêt Légaré c. Canada (ministre du Revenu national), no A-392-98 [1999] A.C.F. no 878, où le juge Marceau écrivait ce qui suit au paragraphe 4 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était «convaincu» paraît toujours raisonnable.
+[53] Au terme de cet exercice, la Cour doit conclure que le ministre a exercé son mandat comme le prescrit la Loi et la jurisprudence.
+[54] En outre, je dois conclure que les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et la conclusion dont le ministre était convaincu paraît toujours raisonnable.
+[55] En conséquence, les appels sont rejetés et les décisions rendues par le ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 3e jour de mai 2007.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2007CCI204
+Nºs DE DOSSIER DE LA COUR : 2005-4322(EI), 2006-1808(EI)
+INTITULÉ DE LA CAUSE : LUC LÉTOURNEAU ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 8 février 2007
+MOTIFS DU JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 3 mai 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

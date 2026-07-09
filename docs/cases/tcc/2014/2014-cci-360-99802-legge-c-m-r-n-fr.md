@@ -1,0 +1,154 @@
+---
+title: "Legge c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99802/index.do"
+last_modified: "2014-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 360"
+citation2: ""
+neutral_citation: "2014 CCI 360"
+decision_date: "2014-12-01"
+language: "fr"
+item_id: "99802"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5226
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:36:56.506000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13d985acdbdf229a3ca8849ab6e341fac5fddf8c1aabe20cc35aa20ac5b7611d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Legge c. M.R.N.
+
+- Citation: 2014 CCI 360
+- Decision date: 2014-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5226, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Legge c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-01
+Référence neutre
+2014 CCI 360
+Numéro de dossier
+2014-2560(CPP)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2014-2560(CPP)
+ENTRE :
+GEORGE E. LEGGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 octobre 2014, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+JUGEMENT
+L’appel interjeté à l’égard d’une décision de l’intimé rendue au titre du Régime de pensions du Canada (le « RPC »), selon laquelle les cotisations de l’appelant sont réputées nulles pour 2006 et 2007 en application du paragraphe 30(5) du RPC, est accueilli compte tenu du fait que le paragraphe 30(5) du RPC ne s’applique pas aux cotisations pour les années 2006 et 2007.
+Signé à Toronto (Ontario), ce 1er jour de décembre 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 9e jour de janvier 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 360
+Date : 20141201
+Dossier : 2014-2560(CPP)
+ENTRE :
+GEORGE E. LEGGE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] En l’espèce, la question en litige est de savoir si l’intimé a décidé à bon droit que le montant des cotisations versées par George Legge au titre du Régime de pensions du Canada (le « RPC ») est réputé nul pour 2006 et 2007 en application du paragraphe 30(5) du RPC.
+[2] Le paragraphe 30(5) du RPC est libellé ainsi :
+30(5) Lorsque aucune déclaration des gains pour une année provenant du travail qu’une personne exécute pour son propre compte n’a été produite auprès du ministre, ainsi que l’exige le présent article, et ce au plus tard quatre ans après la date à laquelle elle est tenue de produire pour l’année en question la déclaration visée au paragraphe (1), le montant de toute cotisation qui, d’après la présente loi, doit être versé par elle pour l’année, à l’égard de semblables gains, est réputé nul sauf si, avant l’expiration de ces quatre ans, le ministre a évalué la cotisation pour l’année à l’égard de ces gains.
+Contexte
+[3] Le fondement de la thèse du ministre est énoncé dans la réponse à l’avis d’appel au paragraphe 10. Il est reproduit ci‑après.
+[traduction]
+10. Pour rendre sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelant a reçu un revenu de pension et un revenu d’entreprise dans les années d’imposition 2006 et 2007;
+b) les déclarations de revenus de l’appelant pour les années d’imposition 2006 et 2007 devaient être produites auprès du ministre au plus tard le 15 juin 2007 et le 15 juin 2008, respectivement;
+c) l’appelant a produit ses déclarations de revenus pour les années d’imposition 2006 et 2007 le 27 novembre 2008;
+d) dans ses déclarations de revenus pour les années d’imposition 2006 et 2007, l’appelant a déclaré des pertes d’entreprise découlant d’un travail exécuté pour son propre compte;
+e) l’appelant n’a déclaré aucun gain ouvrant droit à pension dans ses déclarations de revenus pour les années d’imposition 2006 et 2007;
+f) le 12 novembre 2012 ou vers cette date, l’appelant a produit des demandes de redressement d’une T1 pour ses années d’imposition 2006 et 2007 et a remplacé les pertes d’entreprise qu’il avait déclarées par des revenus d’entreprise;
+g) l’appelant n’a pas produit de déclaration des gains de 5 524 $ et de 5 116 $ provenant d’un travail qu’il exécutait pour son propre compte au plus tard quatre ans après la date à laquelle il était tenu de produire ses déclarations de revenus pour 2006 et 2007.
+Analyse
+[4] La seule question à trancher est de savoir si, par application du paragraphe 30(5) du RPC, les cotisations pour les années 2006 et 2007 sont réputées nulles.
+[5] La Couronne soutient que le paragraphe 30(5) du RPC s’applique compte tenu du fait que M. Legge n’a pas produit de déclaration des gains provenant d’un travail qu’il exécutait pour son propre compte au plus tard quatre ans après la date à laquelle il était tenu de produire sa déclaration de revenus pour les années en question. Selon la Couronne, cette exigence n’a pas été respectée parce que M. Legge a déclaré des pertes plutôt que des gains.
+[6] Je ne souscris pas aux observations de la Couronne parce qu’elles ne tiennent pas compte du fait que l’application du paragraphe 30(5) du RPC est subordonnée à deux exigences : l’exigence de production d’une déclaration par le contribuable et l’exigence d’une évaluation de la cotisation.
+[7] Même si je devais admettre l’argument de la Couronne, le paragraphe 30(5) du RPC ne s’applique pas, à moins que je conclue aussi que le ministre n’avait pas évalué les cotisations dans le délai de quatre ans exigé. L’exigence d’une évaluation énoncée au paragraphe 30(5) du RPC n’est pas mentionnée dans la réponse et la Couronne n’en a pas parlé à l’audience. Il serait inéquitable à l’égard de M. Legge de rejeter l’appel dans ces circonstances.
+[8] En outre, aucune hypothèse n’a été formulée quant aux évaluations qui auraient été faites dans le délai de quatre ans. En conséquence, la Couronne a le fardeau de démontrer au moyen d’éléments de preuve que l’exigence concernant l’évaluation énoncée au paragraphe 30(5) du RPC a été respectée. La Couronne n’a pas réussi à s’acquitter du fardeau de la preuve qui lui incombait.
+[9] Pour les motifs exposés ci‑dessus, l’appel sera accueilli compte tenu du fait que le paragraphe 30(5) du RPC ne s’applique pas aux cotisations pour les années 2006 et 2007.
+[10] L’issue du présent appel constitue en quelque sorte un gain fortuit pour M. Legge parce qu’il se pourrait bien qu’aucune évaluation des cotisations n’ait été établie pour 2006 et 2007. Toutefois, la Couronne est bien consciente de l’exigence de plaider sa cause comme il faut et d’établir les faits qui étayent sa thèse, au moyen d’éléments de preuve ou d’hypothèses.
+[11] Si le présent appel était régi par les règles de la procédure générale de la Cour, il aurait peut‑être été opportun d’obtenir des observations écrites des parties dans cette affaire. Toutefois, il n’est pas habituellement pratique que des observations écrites soient présentées lorsque l’appel n’est pas régi par la procédure générale. Par conséquent, il est opportun pour la Cour de rendre un jugement sans que des observations supplémentaires soient produites.
+Signé à Toronto (Ontario), ce 1er jour de décembre 2014.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 9e jour de janvier 2015.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2014 CCI 360
+No DU DOSSIER DE LA COUR :
+2014-2560(CPP)
+Intitulé :
+GEORGE E. LEGGE c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 29 octobre 2014
+Motifs du jugement :
+L’honorable juge Judith Woods
+DATE DU JUGEMENT :
+Le 1er décembre 2014
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+Avocats inscrits au dossier :
+Pour l’appelant :
+Nom :
+s/o
+Cabinet :
+s/o
+Pour l’intimé :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

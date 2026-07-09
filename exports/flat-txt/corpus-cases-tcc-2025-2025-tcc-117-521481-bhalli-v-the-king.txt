@@ -1,0 +1,141 @@
+Title: Bhalli v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521481/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-117-521481-bhalli-v-the-king.md
+Document type: case_law
+Last modified: 2025-08-22
+
+# Bhalli v. The King
+
+- Citation: 2025 TCC 117
+- Decision date: 2025-08-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5456, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhalli v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-22
+Neutral citation
+2025 TCC 117
+File numbers
+2023-1308(GST)I
+Judges and Taxing Officers
+Michael U. Ezri
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-1308(GST)I
+BETWEEN:
+GHULAM MUSTAFA BHALLI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 18, 2025, at Toronto, Ontario
+Before: The Honourable Justice Michael U. Ezri
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Elliot McPhail
+Carrie Calabrese
+JUDGMENT
+In accordance with the attached reasons:
+The appeal from assessment dated April 20, 2022, denying new housing rebate for 29-135 Hardcastle Drive in Cambridge Ontario is dismissed without costs.
+Signed this 22nd day of August 2025.
+“Michael Ezri”
+Ezri J.
+Citation: 2025TCC117
+Date:20250822
+Docket: 2023-1308(GST)I
+BETWEEN:
+GHULAM MUSTAFA BHALLI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Ezri J.
+[1] This case was a contest between the appellants lack of credibility and the respondent’s indifference to presenting a proper case. On balance, Mr. Bhalli fails in this appeal.
+[2] Mr. Bhalli appeals the denial by the CRA of the new housing rebate claimed by him in respect of his purchase with his spouse of 29-135 Hardcastle Drive in Cambridge Ontario (the Cambridge Property).
+[3] The main issue is whether at the time that Mr. Bhalli agreed to buy the Cambridge Property he had the intent to occupy it as the primary residence for himself and his family as required under paragraph 254(2)(b) of the Excise Tax Act. The respondent’s authorities also highlighted paragraph 254(2)(g) which requires that the rebate claimant be the first person to actually occupy the unit, “as a place of residence” after its is substantially completed.
+[4] Mr. Bhalli was not a great witness for his cause. I found him unreliable because his brief testimony in chief was almost wholly qualified or contradicted in cross-examination and in response to my questions.
+[5] Mr. Bhalli testified that in March 2019, he entered into an agreement to purchase the Cambridge Property which was a new condominium townhouse being built in Cambridge Ontario. The deal closed in June 2020. He entered into an agreement to sell unit in April 2021 for $725,000. He testified that both before and after that time, he lived in, and continues to live in, a rental apartment on Wellesley Street in Toronto with his wife and teenage daughter, but that during the June 2020 to June 2021 period he had no place to live other than the Cambridge Property.
+[6] Mr. Bhalli provided a copy of the CRA’s assessment and its letter requesting information.
+[7] That was the sum total of his evidence.
+[8] During cross examination, the following additional facts emerged:
+a) Mr. Bhalli was a taxi driver until 2017. In that year he started to work as a truck driver who provides services through a corporation that he owns. The services were provided to Advanced Trucking Solutions out of Mississauga;
+b) Mr. Bhalli’s daughter attended Toronto schools throughout the period in issue;
+c) The respondent introduced into evidence a Bell Canada order confirmation showing that internet services were to be installed at the property. A single invoice from Reliance Home comfort for a water heater rental for November 2020 was also entered into evidence;
+d) Mr. Bhalli had very little in the way of financial resources. He was the sole breadwinner in his household. His income was in the range of $30,000 per year;
+e) Mr. Bhalli did not appear to have the means to pay for his new house. The mortgage documents provided show that his mortgage payments alone were $2100 per month or $25,000 per year. On its face that leaves insufficient funds to pay property taxes and utilities on the property and still have money left over to eat and meet the other necessities of life;
+f) Mr. Bhalli had a homeowners insurance policy for the Cambridge Property;
+g) Mr. Bhalli also had an auto insurance policy that had a period of validity of six weeks from April 2021 to June 2021 showing his insurance on a 2021 Toyota Rav 4. Mr. Bhalli’s address was shown as the Cambridge Property; and
+h) The unit was configured so that Mr. Bhalli could have lived there with his family. It had three bedrooms.
+[9] I asked Mr. Bhalli why he purchased the Cambridge Property. He testified that he did so because in 2020 he had gotten a job in Cambridge driving a truck.
+[10] I was taken aback by that evidence. After all, he had agreed to buy the house in 2019, when he did not have a job in Cambridge. When I pointed this out to him, Mr. Bhalli “clarified” that he chose to buy a property in Cambridge in 2019 not because he had a job but rather because he thought it would be “a good opportunity” of some sort. Having signed the agreement, he then looked for a job. This led to a further clarification about the nature of his employment. Prior to 2020, Mr. Bhalli had been driving a truck owned by an owner-operator who was under contract to Advanced Trucking. He then apparently looked for another owner-operator. In March 2020, a Mr. Mohamed Zia who apparently lived in Cambridge, was under contract to Advanced and agreed that Mr. Bhalli would drive his truck.
+[11] I asked why he and his family left Cambridge, he testified that his wife and daughter were “depressed” in Cambridge. Both his wife and daughter were present in Court but neither testified.[1]
+[12] I inquired as to whether the appellant had advised the Toronto School board that his daughter was no longer living in Toronto and would no longer attend school. He said no. I asked whether he advised the Cambridge school board that his daughter was entering their school system. He said that he did not because his daughter continued to attend school in Toronto, albeit, on-line.
+[13] I asked the appellant how he could afford to live in the Cambridge Property. The appellant’s answer was that actually he had more than $30,000 in income a year. His trucking company’s gross sales were closer to $70,000. I asked if this was a net amount, but his evidence was that it was not. The appellant did not clearly explain whether any portion of the $70,000, beyond the $30,000 already accounted for, might have been available to the appellant as a source of funds. Assuming such a source existed, that source would raise almost as many questions as it answers, notably how could the appellant draw funds from his corporation without declaring the draws as income, or risking a shareholders benefit assessment.
+[14] I inquired how it was possible that when he decided to move back to Toronto in 2021, he was able to return to the identical apartment that he had vacated. Mr. Bhalli “clarified” that actually he was not the registered tenant of the apartment. A Mr. Yousef Mohamad was the tenant. Mr. Mohamad was a relative of Mr. Bhalli’s father. Mr. Bhalli offered his smartphone to the Court to review the documents. Mr. Bhali was only listed as an additional occupant on the lease. After a break to have those documents sent to the Tax Court registry and printed, they were reviewed, but neither party wanted the documents marked as evidence.
+[15] At all times the rent for the Wellsley Street apartment was about $1080 a month.
+I. Problems with the Crown’s presentation of the case [16] The respondent’s pleadings on the occupancy issue were ambiguous. The minister’s assumption was that at the time that the Cambridge purchase agreement was signed, the appellant did not have the intent to occupy the unit as a primary place of residence. However, no assumption was made as to whether there was or was not actual occupancy. I find it strange that the Minister did not form a view one way or another.
+[17] I asked whether the Crown had a view on the question of actual occupancy and I noted that the respondent had not clearly put to the appellant the proposition that he never physically occupied the premises. After some back and forth the Crown conceded that the respondent may have spent some time at the Cambridge Property but not so as to displace the assumption of no intention to occupy the property as a residence.
+[18] The Minister assumed that the appellant had reported $11,000 in gross rental income in 2020. The appellant denied that he had such income and did not know the source of the allegation. The respondent did not produce any source document to explain the source of the assumption.
+[19] The Respondent didn’t have copies of the HST rebate notice of assessment for the Court.
+[20] The respondent could have put the appellant’s tax returns into evidence. He did not do so.
+[21] The respondent could have put the returns of the appellant’s corporation into evidence. He did not do so.
+[22] The Respondent could have subpoenaed utility bills or other documents to show that there was no substantial occupancy of the property. He did not do so.
+II. Problems with the Appellant’s presentation of his case [23] The appellant’s wife and daughter were in court and yet he did not call them to have them confirm that they resided with him in Cambridge at any point in time.
+[24] The appellant could have brought utility bills to show that he was actually using the property. He did not do so.
+[25] The appellant could have subpoenaed Mr. Zia to confirm his evidence of the 2020 employment arrangement. He did not do so. In fact, he provided no documents to support the existence of a new employment arrangement commencing in 2020 at all.
+[26] The appellant could have subpoenaed, his father’s relative, Mr. Mohamad to confirm the amazing testimony that Mr. Bhalli was able to leave the Wellsley Street apartment for a year, and then come back, because apparently no one else had rented it in the interim, and that he was able to do so at the bargain basement price, for Toronto, of $1,080!
+III. The Decision [27] There are deficiencies with the Crown’s case, but the appellant’s evidence would require this Court to accept as credible, evidence that is unsupported and unbelievable.
+[28] I find that the appellant never intended to reside in Cambridge as his family’s primary residence.
+[29] My biggest problem with the appellant’s evidence is the nearly miraculous story of how he was able to give up his family’s apartment in 2020 to move to Cambridge with his family and then a year later reclaim the apartment at the same low rent in Toronto. I don’t believe that story at all. I think that Mr. Bhalli and his family never gave up the apartment. I think that they continued to reside on Wellesley Street between June 2020 and June 2021.
+[30] In the absence of utility bills or other evidence, I find that any occupancy of the Cambridge Property by Mr. Bhalli was transitory and intended to convey the impression of residency when no such establishment of residency occurred or was intended.
+[31] I don’t accept the evidence about Mr. Bhalli’s additional income from his corporation. No supporting documents were provided and the testimony seemed wholly contrived. In the absence of that additional income, I find that the appellant did not have the financial means to reside in the Cambridge Property as a primary place of residence and in turn I infer that he lacked the intent to reside in the property as a primary place of residence;
+[32] I also don’t believe that the appellant would have moved to Cambridge without formally removing his daughter from the Toronto school system and enrolling her in the Cambridge school system;
+[33] I don’t buy the explanation that Mr. Bhalli listed the Cambridge Property for sale mere months after moving in because his family was “depressed” because neither Mr. Bhalli’s wife nor daughter testified.
+[34] I was disturbed by the endless “clarifications” to Mr. Bhalli’s testimony. He earned, $30,000 a year, but no, he didn’t earn $30,000 a year; he rented an apartment in Toronto, but no, he didn’t rent an apartment in Toronto; his father’s relative did; he moved to Cambridge because his job changed, but no, he actually had to change jobs because he was moving to Cambridge.
+[35] It follows that Mr. Bhalli and his family never had the intent to take up residence at the Cambridge Property as their primary place of residence and they did not in fact do so.
+IV. A Closing Word about the Crown’s conduct of this appeal [36] As is clear from my earlier comments, I was concerned about with the Crown’s conduct of this appeal. In particular, I was disconcerted to have the Crown assume as a fact that the appellant had reported $11,000 in rental income and then breezily abandon the position adducing no evidence to support the assumption in the face of the appellant’s unsupported denial of that allegation. It is unfair both to the appellant and to the Court for the Crown to plead an assumption, presumably rooted in the appellant’s income tax return and to then not produce that tax return. I was similarly surprised by the Crown’s failure to have basic assessing documents ready to file in Court, and by its rather lackadaisical approach to the case as demonstrated by the failure to subpoena documents. Finally, I was concerned by the Crown’s failure to put even basic propositions to the appellant i.e. whether or not the appellant actually lived in Cambridge or the reason for buying and then immediately selling the house.
+[37] It is trite law that the Crown does not win or lose cases, but it is also true that the Crown is bound like any litigant to fairly, but fully and zealously argue the cases that it defends. If the Crown doesn’t want to defend an assessment, then it should settle the cases before trial. Having chosen to defend an assessment in Court, the Crown should come prepared to fully argue the case with reasonably available documents and witnesses. The amounts in dispute are not the Crown’s money, they are Canadian taxpayer dollars and Canadian taxpayers are entitled to have their legal position properly defended in Court.
+Signed this 22nd day of August 2025.
+“Michael Ezri”
+Ezri J.
+CITATION:
+2025TCC117
+COURT FILE NO.:
+2023-1308(GST)I
+STYLE OF CAUSE:
+GHULAM MUSTAFA BHALLI AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 18, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Michael U. Ezri
+DATE OF JUDGMENT:
+August 22, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Elliot McPhail
+Carrie Calabrese
+COUNSEL OF RECORD:
+For the Appellant: N/A
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] The appellant had a sore throat and had some difficulty speaking so at the appellant’s request I permitted the daughter to repeat some testimony given by the appellant that was difficult to make out. However, I first inquired as to whether she or the spouse would give evidence. Both indicated that they would not testify.

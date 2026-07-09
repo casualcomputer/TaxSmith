@@ -1,0 +1,157 @@
+---
+title: "Davies v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27807/index.do"
+last_modified: "2007-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 409"
+citation2: ""
+neutral_citation: "2007 TCC 409"
+decision_date: "2007-06-25"
+language: "en"
+item_id: "27807"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 282
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:58:47.225000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "085c49ddcc0d33fc4aa1d24183642ec8ae83f56b39e0fe403393aa4d0d961d6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davies v. The Queen
+
+- Citation: 2007 TCC 409
+- Decision date: 2007-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 282, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davies v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-25
+Neutral citation
+2007 TCC 409
+File numbers
+2007-520(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC409
+Date: 20070716
+Docket: 2007-520(IT)I
+BETWEEN:
+TREVOR DAVIES,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on June 26, 2007 at Ottawa, Canada.)
+V.A. Miller, J.
+[1] Trevor A. Davies is appealing from a Notice of Confirmation for the 2004 taxation year, in which the Minister of National Revenue upheld the reassessment which included the amount of $16,071 in Mr. Davies’ income. The Minister upheld the reassessment on the basis that the payment of $16,071 received by Mr. Davies from his former employer, Alcatel Canada Inc. was interest income in accordance with paragraph 12(1)(c) of the Income Tax Act.
+[2] The parties submitted an Agreed Statement of Facts, which was filed as Exhibit A-2, which included four schedules. The relevant portions of the Agreed Statement of Facts are as follows:
+1. The Appellant was employed with Alcatel Canada Inc. (“Alcatel”) until his termination on April 24, 2001.
+2. On July 18, 2002, the Appellant brought an action (the “Action”) against Alcatel for wrongful dismissal in the Ontario Superior Court of Justice. Attached hereto as Schedule “A” is a true copy of the Statement of Claim filed in support of the Action.
+3. In paragraph 1 of the Statement of Claim, the Appellant claimed damages from Alcatel in respect of, among other things, pre-judgment interest.
+4. On April 1, 2004, the Action was settled out of court.
+5. On April 2, 2004, Alcatel paid the Appellant a sum of money pursuant to the terms of the April 2004 settlement, including $16,071 for pre-judgment interest, calculated from the date of the Appellant’s termination at the rate of 5.8% (such being the court-appointed rate applicable in respect of actions commenced in the second quarter of 2001). Attached hereto as Schedule “B” is a true copy of a letter to the Appellant from Dan Palayew, of Ogilvy Renault, dated April 2, 2004, enclosing payment pursuant to those terms.
+6. Alcatel issued a Statement of Investment Income (T5 slip) to the Appellant, indicating that Alcatel had paid the Appellant an amount of $16,071.50 in interest from Canadian sources in the 2004 taxation year. Attached hereto as Schedule “C” is a true copy of the T5 slip.
+7. Prior to January 1, 2004, the Minister of National Revenue’s administrative position concerning pre-judgment interest received in respect of damages or settlement amounts arising from wrongful dismissal actions was that such amounts were non-taxable.
+8. In May, 2004, this administrative position was changed: effective for court orders or settlements dated on or after January 1, 2004, such pre-judgment interest amounts are treated as being taxable. Attached hereto as Schedule “D” is a copy of Income Tax Technical News 30 dated May 21, 2004, in which at pages 12 to 14 this change was announced.
+9. This change was not the result of any amendment to either the Income Tax Act or the Income Tax Regulations.
+APPELLANT’S ARGUMENT
+[3] Mr. Davies said that there were three bases for his appeal. His first argument concerned the change in Canada Revenue Agency’s (CRA) policy to tax pre-judgment interest in respect of awards of damages for wrongful dismissal. This change is stated at paragraphs 7 and 8 of the Agreed Statement of Facts. Mr. Davies said that if he had known there was a change in the policy by CRA it would have been a consideration in the settlement agreement he negotiated with Alcatel Canada Inc. Mr. Davies argued that this change in policy which is applied retroactively is unfair and discriminatory. He referred to the CRA’s web pages entitled “Fairness and Taxpayer Bill of Rights”.
+[4] The Court does not interpret Mr. Davies’ first argument as raising a Charter challenge.
+[5] Mr. Davies’ second argument was based on Interpretation Bulletin 396R dated May 29, 1984 and, in particular, a portion of paragraph 12 thereof which states:
+This position arises from the fact that a liability for damages is considered to originate on the date on which an injury occurred and there is therefore an amount owing to, or belonging to, the injured party from that date. It is immaterial that the amount owing was not determinable until a later date because once the right to receive damages has been established, that right exists from the time at which the injury giving rise to those damages occurred.
+Mr. Davies relied on this statement for the proposition that interest on the award of wrongful dismissal damages would have accumulated from the date his employment was terminated. The portion of the interest that accumulated in 2001, 2002 and 2003 would not have been taxable according to the exemption policy that CRA applied prior to January 1, 2004.
+[6] Mr. Davies supported this argument by reference to a document from CRA’s website entitled: “Current Income Tax Interpretation Bulletins” and, in particular, the following paragraph:
+ITs do not have the force of law
+…
+Subject to the above, an interpretation or position contained in an IT generally applies as of the date on which it was published, unless otherwise specified. If there is a subsequent change in that interpretation or position, and the change is beneficial to taxpayers, it is usually effective for future assessments and reassessments. If, on the other hand, the change is not favourable to taxpayers, it will normally be effective for the current and subsequent taxation years or for transactions entered into after the date on which the change is published.
+The conclusion of Mr. Davies’ second argument is that as a result of the foregoing, CRA’s change in policy should apply to only that portion of the interest which he estimated was accumulated in 2004.
+[7] Mr. Davies’ final argument was that in the alternative, subsections 12(4) and 12(9) apply. As a result, interest accrued each year from the date his employment was terminated and the interest should be included in his income in each of the years 2001, 2002, 2003 and 2004 as follows:
+2001
+$3,694.96
+2002
+$5,351.83
+2003
+$5,351.83
+2004
+$1,671.53
+[8] I am unable to agree with Mr. Davies’ submissions. It is unfortunate that Mr. Davies’ lawyer did not learn of CRA’s change in policy. According to Exhibit A-2, Tab D, this change in policy was discussed at the Canadian Tax Foundation Conference held in Montreal from September 21 to 23, 2003.
+ANALYSIS AND CONCLUSION
+[9] The Court interprets Mr. Davies’ first argument as raising the issue of estoppel. That is, he said that he relied on the published policy of CRA that it would exempt from tax all pre-judgment interest payable in respect of awards of damages for wrongful dismissal. In fact, in his Notice of Appeal, he asked that, “to ensure fairness and eliminate discrimination, pre-judgment interest in a wrongful dismissal case that was completed or settled during the period 1 January 2004 to 21 May 2004, should be subject to an exemption to this retroactive change to CRA’s longstanding non-taxable assessment of pre-judgment interest in wrongful dismissal cases.”
+[10] The case law is clear that an assessment must be made pursuant to the provisions of the Income Tax Act and it is not open to a taxpayer to set up an estoppel to prevent the operation of the statute. (See, for example, Woon v. M.N.R. [1950] C.T.C. 263 at paragraph 17, where Cameron, J. stated:
+17 It is not necessary in this case, however, to consider the effect of the cases to which reference has just been made. It is sufficient to state that the assessment here under appeal was made pursuant to the terms of a statute and that, therefore, it is not open to the appellant to set up an estoppel to prevent its operation.
+As well, I point to M.N.R. v. Stickel [1972] C.T.C. 210 at paragraph 70, where Cattanach, J. stated:
+70 In short, estoppel is subject to the one general rule that it cannot override the law of the land.
+[11] Paragraph 12(1)(c) of the Income Tax Act reads as follows:
+12. (1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable
+…
+(c) subject to subsections (3) and (4.1), any amount received or receivable by the taxpayer in the year (depending on the method regularly followed by the taxpayer in computing the taxpayer's income) as, on account of, in lieu of payment of or in satisfaction of, interest to the extent that the interest was not included in computing the taxpayer's income for a preceding taxation year;
+[12] In Tourigny v. The Queen, 2006 CarswellNat 4546, Lamarre-Proulx, J. had before her a fact situation very similar to the present case. At paragraphs 26 to 29 of her Reasons for Judgment she found:
+26. The judgment awarded no amount in damages other than that awarded for notice. The judge therefore awarded no amount for damages, as he stated in paragraph 192 of his Reasons. He adds in paragraph 212 that the same is true for the other requests, specifically damage to his reputation, since according to the Judge, there was an absence of bad faith on the part of the employer and an absence of a legal bond. Nowhere in this judgment are there damages granted other than contractual damages related to the loss of employment.
+27. The definition of a retiring allowance specifically includes amounts received as damages in respect of the loss of employment. The amount of $105,000 must accordingly be included in calculating the income of the Appellant for the year in which he received it pursuant to subparagraph 56(1)(a)(ii) of the Act.
+28. With regard to the interest paid, this is indeed interest and must be included in the computation of the Appellant's income during the year where he received it pursuant to paragraph 12(1)(c) of the Act.
+29. The damages were calculated on the basis of a patrimonial right acquired by the employee at the time that the cause of action occurred. This is compensation in the form of notice that the employer was required to give. Under the terms of the judgment, the interest began from the date of agreement on this amount.
+[13] I agree with the decision of Lamarre-Proulx, J. The amount in issue in the present case has been characterized by both parties as interest income and has been characterized by the documentary evidence as interest income. See Exhibits A-3, A-2 at Tab C.
+[14] As a result, I find that the amount of $16,071.50 is interest income that must be included in income in the year it was received, that is 2004, in accordance with paragraph 12(1)(c) of the Income Tax Act.
+[15] However, I will go on to deal with the further arguments that were made by Mr. Davies. The answer to Mr. Davies’ second argument also lies in the application of the principle of estoppel. I repeat, the Minister can not be estopped from applying the law, in spite of any prior rulings or policies he may have had.
+[16] Mr. Davies, in his third argument, raised the argument that the interest amount should be apportioned between his 2001, 2002, 2003 and 2004 taxation years on the basis that subsections 12(4) and 12(9) apply.
+[17] Subsection 12(4) requires the inclusion of interest on an accrual basis for interest with respect to an investment contract.
+[18] Mr. Davies did not have an investment contract. He had a wrongful dismissal action against his former employer. When one reads the definitions in subsection 12(11), it confirms that the right Mr. Davies held was not an investment contract.
+[19] Subsection 12(11) defines the term “anniversary date” that is used in subsection 12(4). It reads:
+Anniversary date of an investment contract means
+(a) the day that is one year from the day immediately preceding the date of issue of the contract,
+(b) the day that occurs at every successive one year interval from the day determined under paragraph (a), and
+(c) the day on which the contract was disposed of;
+There was no contract issued in the present case.
+[20] For the above reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of July, 2007.
+"V.A. Miller"
+V.A. Miller, J.
+CITATION: 2007TCC409
+COURT FILE NO.: 2007-520(IT)I
+STYLE OF CAUSE: Trevor Davies v. The Queen
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 26, 2007
+ORAL REASONS
+FOR JUDGEMENT BY: The Honourable Justice V.A. Miller
+DATE OF ORAL REASONS
+FOR JUDGMENT: July 16, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ryan Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,184 @@
+Title: Collins c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26474/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-166-26474-collins-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-02-20
+
+# Collins c. La Reine
+
+- Citation: 2004 CCI 166
+- Decision date: 2004-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3158, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collins c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-20
+Référence neutre
+2004 CCI 166
+Numéro de dossier
+2002-2414(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2414(IT)I
+ENTRE :
+RICHARD COLLINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+L'honorable juge Lucie Lamarre
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que l'appelant était résident du Canada aux termes de la Loi au cours des années d'imposition 1997 et 1998.
+Signé à Ottawa, Canada, ce 20e jour de février 2004.
+"Lucie Lamarre"
+Juge Lamarre
+Dossier : 2002-2416(IT)I
+ENTRE :
+EMILIA COLLINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+L'honorable juge Lucie Lamarre
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que l'appelante était résidente du Canada aux termes de la Loi au cours de l'année d'imposition 1998.
+Signé à Ottawa, Canada, ce 20e jour de février 2004.
+"Lucie Lamarre"
+Juge Lamarre
+Référence : 2004CCI166
+Date : 20040220
+Dossier : 2002-2414(IT)I
+ENTRE :
+RICHARD COLLINS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2002-2416(IT)I
+ENTRE :
+EMILIA COLLINS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les appelants, mari et femme, en appellent de cotisations établies par le ministre du Revenu national ( « Ministre » ) par lesquelles ils ont été considérés non-résidents du Canada aux termes de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1997 et 1998 dans le cas de Richard Collins et pour l'année d'imposition 1998 seulement dans le cas de Emilia Collins. Ainsi, le Ministre a refusé le crédit pour taxe sur les produits et services ( « crédit pour TPS » ) aux deux appelants aux termes de l'article 122.5 de la Loi, qui exige qu'un particulier soit résident du Canada pour être admissible à ce crédit. Par ailleurs, Emilia Collins qui a gagné un revenu net de location au Canada de 11 476 $ en 1998, s'est vue refuser toute déduction dans le calcul de son impôt payable (plus particulièrement tout crédit d'impôt personnel aux termes de l'article 118 de la Loi) par application de l'article 216 de la Loi.
+[2] Les dispositions législatives pertinentes se lisaient comme suit au cours des années en litige:
+ARTICLE 122.5: Définitions [pour le crédit pour TPS].
+(1) Les définitions qui suivent s'appliquent au présent article.
+« particulier admissible » Particulier, sauf une fiducie, qui, à la fin du 31 décembre d'une année d'imposition, réside au Canada et est marié ou vit en union de fait, est père ou mère d'un enfant ou a au moins 19 ans.
+ARTICLE 216: Choix relatif aux loyers et redevances forestières.
+(1) Lorsqu'une somme a été versée pendant une année d'imposition à une personne non-résidente, ou à une société de personnes dont elle était un associé, au titre ou en paiement intégral ou partiel de loyers de biens immeubles situés au Canada ou de redevances forestières, cette personne peut, dans les 2 ans suivant la fin de l'année d'imposition, produire une déclaration de revenu en vertu de la partie I, selon le formulaire prescrit pour une personne résidant au Canada relativement à l'année d'imposition et, indépendamment de l'obligation de payer l'impôt payable dû par elle en vertu de la partie I, elle est dès lors tenue, au lieu de payer l'impôt en vertu de la présente partie sur ce montant, de payer l'impôt payable en vertu de la partie I pour cette même année d'imposition comme si:
+a) elle était une personne résidant au Canada et non exonérée de l'impôt en vertu de l'article 149;
+b) son revenu tiré de ses droits sur des biens immeubles, des avoirs forestiers et des concessions forestières situés au Canada ainsi que sa part du revenu tiré par une société de personnes dont elle était un associé de droits sur des biens immeubles, des avoirs forestiers et des concessions forestières situés au Canada constituaient sa seule source de revenu;
+c) elle n'avait droit à aucune déduction sur son revenu pour le calcul de son revenu imposable;
+d) elle n'avait droit à aucune déduction en application des articles 118 à 118.9 dans le calcul de son impôt payable pour l'année en vertu de la partie I.
+Question en litige
+[3] Les parties ont convenu que la seule question en litige est de déterminer si les appelants étaient résidents du Canada au cours des années d'imposition 1997 et 1998. L'intimée soutient que les appelants n'étaient pas résidents du Canada au cours de ces années car ils ne résidaient pas habituellement au Canada à cette époque. L'intimée invoque à ce propos le paragraphe 250(3) de la Loi qui se lit comme suit :
+4250(3)3
+(3) Résident habituel. Dans la présente loi, la mention d'une personne résidant au Canada vise aussi une personne qui, au moment considéré, résidait habituellement au Canada.
+Faits
+[4] Par entente des parties entérinée par une ordonnance de cette Cour (ordonnance du 17 mars 2003), ces appels ont procédé par preuve écrite, commune aux deux appelants, étant donné qu'au moment où ces appels devaient être entendus, les appelants habitaient dans l'état de Pennsylvanie aux État-Unis et n'avaient plus les moyens de revenir au Canada pour l'audition de leurs appels. Les appelants ont répondu à un questionnaire écrit préparé par l'intimée et un cahier conjoint de documents a été déposé à la Cour. Chaque partie a déposé ses propres soumissions par écrit.
+[5] Il ressort de la preuve écrite que les appelants, tous deux professeurs universitaires ont quitté le Canada en septembre 1994 alors que Richard Collins a obtenu un contrat de travail aux États-Unis d'une durée anticipée de neuf mois. Selon les termes utilisés par Richard Collins, ce dernier devait « entreprendre une mission de conseil technique de durée limitée » (voir question 2 du questionnaire écrit déposé à l'onglet 16 du cahier de documents).
+[6] Les appelants ont tous deux dit qu'ils n'avaient pas l'intention de s'installer de manière définitive aux États-Unis lorsqu'ils ont quitté le Canada en septembre 1994. De fait, ils ont loué leur résidence principale située à Halifax, en Nouvelle-Écosse au Canada et ont laissé au pays des effets personnels, tels des vêtements, des meubles et des équipements divers. Les appelants n'ont pas retrouvé le contrat de location comme tel, mais ont indiqué que leur résidence était louée sur une base annuelle, avec possibilité de renouveler, sauf s'ils retournaient à Halifax (voir question 11 du questionnaire écrit aux onglets 16 et 17 du cahier de documents). Ils ont eux-mêmes loué une petite maison aux États-Unis, sur une base mensuelle (voir question 10 e) du questionnaire intitulé Détermination of residency status (leaving Canada), complété le 21 juillet 1996 par les appelants, à l'onglet 1 du cahier de documents). Il semblerait qu'ils ont toujours été en location temporaire aux États-Unis puisqu'en 1997 et 1998, ils déclarent qu'ils n'étaient ni locataires ni propriétaires d'aucune résidence aux États-Unis (voir questions 15 et 17 du questionnaire écrit complété par les appelants le 7 avril 2003, aux onglets 16 et 17 du cahier de documents).
+[7] À l'expiration du contrat obtenu par Richard Collins aux États-Unis, les appelants sont demeurés en recherche d'emploi tant aux États-Unis qu'au Canada. Leur résidence au Canada étant louée à des tiers et leur rapportant des revenus locatifs, ils sont restés aux États-Unis. Ils faisaient fréquemment des visites au Canada puisque toute la famille de Richard Collins reste au Canada. La famille de Emilia Collins vit quant à elle en Bulgarie et en Allemagne. Les appelants ont une seule fille qui au cours des années en litige était mineure et habitait avec eux aux États-Unis. Toutefois, ils ont investi dans un régime d'épargne-études au Canada pour qu'elle y fasse ses études universitaires. Bien que les appelants avaient chacun leur passeport américain, ils ont également conservé leur passeport canadien. Ils ont conservé deux comptes visa et un compte bancaire à la Banque de la Nouvelle-Écosse au Canada. Le revenu de loyer, transitait par ces comptes bancaires. Ils avaient également un compte visa aux États-Unis. Les appelants disent qu'ils étaient également membres de différentes associations professionnelles au Canada. Ils auraient aussi été couverts par un régime d'assurance-maladie en Nouvelle-Écosse (Nova Scotia Medical Services Insurance) au cours des années en litige. Cette assurance aurait été remplacée par la suite par une assurance-santé aux États-Unis (voir question 21 du questionnaire écrit aux onglets 16 et 17 du cahier de documents). Les appelants ont également contracté, auprès d'un agent d'assurances canadien, une police d'assurance pour protéger leur résidence à Halifax. Selon les appelants, cet agent d'assurances a fait affaire avec une compagnie d'assurances américaine. C'est l'agent d'assurances qui a fait ce choix sans que les appelants n'interviennent (voir réponses des appelants aux arguments de l'intimée, paragraphe 8, page 4).
+[8] Les appelants ont indiqué qu'ils n'ont jamais eu l'intention de quitter définitivement le Canada. Ils gardaient toujours l'espoir de s'y retrouver un emploi. Je comprends de la preuve qu'ils ne se sont pas retrouvés d'emploi, ni aux États-Unis, ni au Canada. Ils ont vécu de leurs économies et des revenus de location jusqu'en juin 1999, à quel moment ils ont été obligés de vendre leur résidence au Canada, « leurs économies familiales [étant] quasiment épuisées » (voir paragraphe 4, à la page 2 de la Réponse des appelants aux arguments de l'intimée). C'est à ce moment que les appelants ont avisé les autorités canadiennes que leur situation avait maintenant changé et qu'ils comprenaient qu'ils perdaient leur statut de résidents canadiens.
+[9] Les appelants avaient déjà complété un questionnaire en juillet 1996 à la demande des autorités canadiennes (onglet 1 du cahier de documents). Sur la foi des renseignements donnés, l'Agence des douanes et du revenu du Canada ( « ADRC » ) avait informé les appelants par lettre en date du 26 août 1996 qu'ils étaient « résidents de fait » ( « factual resident » ) au Canada pour fins fiscales (voir onglet 2 du cahier de documents). Après que les appelants aient eu avisé les autorités fiscales canadiennes de la vente de leur résidence principale au Canada en juin 1999, l'ADRC a écrit de nouveau aux appelants en date du 10 juillet 2000 (onglet 7 du cahier de documents) pour leur dire que si leur situation avait changé depuis 1996, il en était peut-être de même quant à leur statut de résident. Il semblerait d'après cette lettre, qu'on demandait aux appelants de compléter un nouveau questionnaire de détermination de statut de résidence. Les appelants auraient répondu qu'il n'y avait aucun changement à signaler pour les années 1996 à 1998 et que leur situation étant la même depuis 1996.
+[10] La situation factuelle que vivaient les appelants en 1996 étaient pratiquement la même que celle qui existait en 1997 et 1998. Dans le questionnaire complété en juillet 1996, les appelants indiquaient toutefois qu'ils renouvelleraient leurs permis de conduire canadien à l'expiration. Dans le questionnaire écrit complété le 7 avril 2003, les appelants ne donnent pas d'indication sur la possession d'un permis de conduire ou d'une automobile au Canada ou aux États-Unis. Ils ont indiqué qu'ils n'étaient plus en possession de tels documents pour cette période. Même chose pour les assurances pour lesquelles ils n'ont pu produire de documents attestant qu'ils avaient conservé des assurances au Canada.
+Argument des parties
+[11] L'intimée soumet que les appelants n'ont pas démontré qu'ils ont gardé des liens de résidence suffisants avec le Canada pour conclure qu'ils y résidaient de façon habituelle au sens de la Loi au cours des années en litige. L'intimée soutient que les appelants qui habitaient aux États-Unis avec leur unique fille depuis 1994, ne revenaient au Canada que pour y effectuer des visites sans pouvoir s'installer dans leur résidence au Canada puisque celle-ci était louée. Ils avaient ainsi au fil des ans, centralisé leur mode de vie habituel aux États-Unis et non au Canada. S'appuyant sur les propositions retenues par les tribunaux pour établir la résidence d'un particulier à un endroit ou à un autre, lesquelles se fondent principalement sur l'arrêt de la Cour Suprême du Canada dans Thomson v. M.N.R., 2 DTC 812, l'intimée conclut que les appelants étaient établis « en pensée et en fait » aux États-Unis plutôt qu'au Canada au cours des années d'imposition 1997 et 1998. Selon l'intimée, les appelants n'étaient pas habituellement résidents du Canada au cours de ces années.
+[12] Les appelants soutiennent de leur côté que l'ADRC a accepté à deux reprises, soit le 26 août 1996 (onglet 2 du cahier de documents) et le 18 février 1997 (cette dernière lettre n'a pas été déposée en preuve) de les considérer comme des résidents canadiens et qu'il est difficile maintenant pour eux de prouver avec des documents datant de l'époque en question (tels que permis de conduire, enregistrements d'automobile, relevés bancaires ou cartes de membre d'associations professionnelles ou autres) les liens qui les rattachaient au Canada. Ils soutiennent qu'ils ont été sans emploi pendant les années en litige et qu'ils se considéraient toujours installés temporairement aux États-Unis pendant qu'ils se cherchaient du travail leur permettant de revenir au Canada. Si tel n'avait pas été le cas, ils n'auraient pas conservé leur résidence au Canada, « malgré les pertes monétaires évidentes que cette action a entraîné à l'époque » . Ils conservaient cette résidence dans le but d'y revenir (voir réponses des appelants aux arguments de l'intimée paragraphe 3, page 2). Par ailleurs, les appelants soutiennent qu'ils n'ont aucune famille, ni collègues de travail aux États-Unis, étant donné qu'ils sont tous deux sans emploi. Ils disent que leurs liens familiaux et sociaux sont au Canada. Les appelants concluent que rien n'a changé dans leur situation respective depuis que l'ADRC a accepté leur statut de résidents canadiens « de fait » par les deux décisions que cette dernière a rendues, l'une en 1996 et l'autre en 1997. Selon eux, le paragraphe 250(3) de la Loi n'a pas d'application ici pour déterminer leur statut de « résidents de fait » .
+Analyse
+[13] Le paragraphe 250(3) de la Loi prévoit qu'une personne qui réside habituellement au Canada sera considérée comme une personne résidant au Canada aux termes de la Loi. Tel que mentionné au paragraphe 10 du bulletin d'interprétation IT-221R3, lorsqu'un particulier n'a pas rompu tous ses liens de résidence avec le Canada mais en est physiquement absent pendant un laps de temps considérable, les tribunaux ont porté, en règle générale, une attention particulière à l'expression « résident habituel » dans la détermination du statut de résident du particulier pendant son absence du pays. Aussi, c'est dans le cas précis où un particulier réside habituellement au Canada au sens du paragraphe 250(3) de la Loi, que l'on fait référence à un « résident de fait » au paragraphe 3 du bulletin IT-221R3. Il ne s'agit pas ici de la présomption de résidence au Canada prévue au paragraphe 250(1) de la Loi qui peut s'appliquer pour les particuliers qui ne sont pas résidents de fait du Canada (tel que les appelants semblaient le comprendre). Le paragraphe 250(3) est un paragraphe distinct en soi et doit être analysé à la lumière des faits en l'espèce pour déterminer si une personne réside habituellement au Canada au moment considéré pour les fins de la Loi. Ainsi, si j'en viens à la conclusion qu'au cours des années 1997 et 1998, les appelants résidaient habituellement au Canada, ils seront alors résidents canadiens aux fins de la Loi.
+[14] Les juges de la Cour Suprême du Canada ont analysés la notion de « résident habituel » dans l'arrêt Thomson, précité. Le juge Estey s'exprimait ainsi à la page 813 :
+[TRADUCTION]
+D'après le dictionnaire et d'après l'interprétation que les tribunaux donnent de ces termes, un individu est "résident habituel" du lieu où, dans sa vie de tous les jours, il habite d'une manière régulière, normale ou habituelle. On "séjourne" à un endroit que l'on visite ou dans un lieu où l'on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c'est le caractère permanent qui prédomine, et dans le second, le caractère temporaire. La différence ne peut être exprimée d'une manière claire et nette, chaque cas devant être déterminé compte tenu de tous les facteurs pertinents, mais ce qui précède indique d'une façon générale la différence essentielle. Ce n'est pas la longueur de la visite ou du séjour qui détermine la question. [...]
+Les observations que le viscomte Summer a formulées dans le jugement Inland Revenue Commissioners v. Lysaght, (1928) A.C. 234, à la page 243, fournissent une indication :
+[TRADUCTION]
+"Le terme "habituel" s'oppose à "inhabituel", et la partie des habitudes de vie qu'une personne adopte volontairement et de manière à s'installer n'a aucun caractère "inhabituel"."
+Lord Buckmaster, avec qui lord Atkinson s'est dit d'accord dans le même jugement, a déclaré à la page 248 :
+[TRADUCTION]
+"[...] si une personne est résidente une fois qu'elle est installée, l'expression "résident habituel" signifie simplement d'après moi que la résidence n'est pas occasionnelle et incertaine et que la personne réputée résider en un lieu y réside dans le cours normal de sa vie."
+[...]
+Il est bien établi qu'une personne peut avoir plus d'une résidence; par conséquent, le fait que l'appelant ait une résidence à Pinehurst ou à Belleair n'a pas d'utilité ou d'influence en ce qui concerne le règlement de cette question.
+[15] Par ailleurs le juge Rand disait ce qui suit aux pages 815 et 816 :
+[TRADUCTION]
+La progression par degrés en ce qui concerne le temps, l'objet, l'intention, la continuité et les autres circonstances pertinentes, montre que, dans le langage ordinaire, le terme "résidant" ne correspond pas à des éléments invariables qui doivent tous être présents dans chaque cas donné. Il est tout à fait impossible d'en donner une définition précise et applicable à tous les cas. Ce terme est très souple, et ses nuances nombreuses varient non seulement suivant le contexte de différentes matières, mais aussi suivant les différents aspects d'une même matière. Dans un cas donné, on y retrouve certains éléments, dans d'autres, on en trouve d'autres dont certains sont fréquents et certains autres nouveaux.
+L'expression "résidence habituelle" a un sens restrictif et, alors qu'à première vue elle implique une prépondérance dans le temps, les décisions rendues en vertu de la Loi anglaise ont rejeté ce point de vue. On a jugé qu'il s'agit de résidence au cours du mode habituel de vie de la personne en question, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode général de vie.
+Aux fins de la législation de l'impôt sur le revenu, il est nécessaire de considérer que chaque personne a, en tout temps, une résidence. Il n'est pas nécessaire à cet effet qu'elle ait une maison ni un endroit particulier où elle demeure, ni même un abri. Elle peut dormir en plein air. Ce qui importe seul, c'est de déterminer dans l'espace les limites dans lesquelles elle passe sa vie ou auxquelles se rattache ce mode de vie ordonné ou coutumier. La meilleure façon d'apprécier la résidence habituelle est d'en examiner l'antithèse, la résidence occasionnelle, temporaire ou extraordinaire. Cette dernière semble nettement être non pas seulement temporaire et exceptionnelle quant à ses circonstances, mais s'accompagne également d'une notion de provisoire et de retour.
+Mais dans les différentes situations de prétendues "résidences permanentes", "résidences temporaires", "résidences habituelles", "résidences principales" et ainsi de suite, les adjectifs n'influent pas sur le fait qu'il y a dans tous les cas résidence; cette qualité dépend essentiellement du point jusqu'auquel une personne s'établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d'intérêts et de convenances, au lieu en question. Il se peut qu'elle soit limitée en durée dès le début ou qu'elle soit indéterminée, ou bien, dans la mesure envisagée, illimitée. Sur le plan inférieur, les expressions comportant le terme résidence doivent être distinguées, comme elles le sont je crois dans le langage ordinaire, du concept de "séjour" ou de "visite".
+[16] Quant au juge Kerwin, il déclarait aux pages 817 à 819 :
+[TRADUCTION]
+Il n'existe dans la Loi aucune définition du terme "résident" ni de l'expression "résidant habituellement", mais on doit leur donner le sens que leur attribue l'usage courant. Lorsqu'on examine une loi fiscale, il est juste de déclarer, je pense, comme l'indique le Standard Dictionary, que les termes "reside" [résider] et "residence" [résidence] sont plus ou moins solennels et ne doivent pas s'employer sans distinction à la place de "vivre", "maison" ou "logis". Le Shorter Oxford English Dictionary indique que le sens de "reside" [résider] est "habiter en permanence ou pendant un temps considérable, avoir son habitation fixe ou habituelle, vivre, dans un lieu ou en un endroit déterminé". Selon ce même dictionnaire, "ordinarily" [habituellement] signifie: "1. En conformité des règles; de façon habituelle. 2. Dans la plupart des cas, couramment, ordinairement. 3. Dans la mesure habituelle. 4. Comme il est normal ou habituel." D'un autre côté, le sens du terme "sojourn" [séjourner] est donné comme étant "faire un séjour temporaire en un endroit; rester ou résider pendant un certain temps."
+[17] Et le juge Kellock de dire à la page 819 :
+Le terme "ordinarily" [habituellement] est défini comme signifiant "en conformité des règles ou des pratiques ou usages établis", "de façon habituelle", "en temps normal ou ordinaire", "couramment", "ordinairement", "comme il est normal ou habituel".
+[18] Dans Kadrie c. Canada, [2001] A.C.I. no 601 (Q.L.), le juge Bowman de notre Cour reprenait un passage du juge Mahoney dans l'affaire The Queen v. Reeder, 75 DTC 5160, à la page 5163 :
+[...] les éléments qui servaient dans ces arrêts à déterminer la question de fait de la résidence fiscale, s'appliquent aussi en l'espèce. Ces éléments sont notamment :
+a. le genre de vie passé ou présent;
+b. la régularité et la durée des séjours dans le ressort de la juridiction de la résidence;
+c. les liens dans le ressort de cette juridiction;
+d. les liens en d'autres lieux;
+c. le caractère permanent ou autre des séjours à l'étranger.
+La question des liens dans le ressort de la juridiction de résidence et en d'autres lieux englobe toute la gamme des rapports et des engagements d'une personne : biens et placements, emploi, famille, affaires, liens culturels et mondains en sont des exemples. Tous les éléments ne seront pas retenus dans chaque cas. Ils doivent être considérés à la lumière du postulat que chacun doit avoir une résidence fiscale et qu'un individu peut avoir simultanément plus d'une résidence du point de vue fiscal.
+[19] Dans Kadrie, précité, le juge Bowman classait en trois catégories les causes de résidence personnelle au paragraphe 24 de sa décision :
+Bien qu'en définitive les critères établis par les tribunaux présentent une structure commune, il semble que les causes de résidence personnelle entrent dans trois grandes catégories :
+a) une personne jusque-là résidente habituelle du Canada s'en va, prend résidence ailleurs et allègue qu'elle a rompu ses liens avec le Canada si bien qu'elle ne réside plus ici;
+b) une personne résidant habituellement dans un autre pays acquiert une résidence au Canada et y noue d'autres liens. La question est alors de savoir si cette personne est devenue "résidente habituelle" du Canada;
+c) un résident canadien quitte le Canada, rompt ses liens avec notre pays si bien qu'il n'est plus résident canadien, puis renoue des liens avec le Canada. La question est alors de savoir si cette personne est de nouveau résidente canadienne.
+Les critères peuvent finalement être les mêmes, mais le type de preuve nécessaire pour établir l'abandon de la résidence canadienne serait normalement un peu différent du genre de preuve à présenter pour établir que le contribuable a acquis ou repris la résidence canadienne.
+[20] À mon avis, les appelants n'avaient aucune intention de rompre leurs liens avec le Canada lorsqu'ils ont quitté le Canada en septembre 1994 et ce, jusqu'en juin 1999, au moment où ils ont vendu leur résidence principale au Canada. Ils ont loué un logement sur une base mensuelle aux États-Unis et, selon leurs informations écrites, ils auraient toujours été en location temporaire puisqu'ils n'étaient apparemment ni locataires ni propriétaires d'aucune résidence aux États-Unis en 1997 et 1998. Ils ont loué leur résidence principale à Halifax sur une base annuelle et avaient l'intention de s'y réinstaller s'ils trouvaient de l'emploi dans la région d'Halifax. Ils ont conservé des comptes bancaires et des biens personnels au Canada. Leur unique fille était bénéficiaire d'un régime d'épargne-études au Canada. Toute la famille de Richard Collins et plus particulièrement sa mère habitait le Canada et les appelants venaient les voir couramment. Ils possédaient un passeport canadien et bien qu'ils avaient également un passeport américain, ils n'avaient pas de famille ni de collègues de travail aux États-Unis. Ils ne semblaient pas s'être installés là-bas.
+[21] Je retiens de la jurisprudence précitée, que le sens à donner au terme « résident » est très souple et que sa définition peut varier suivant le contexte et selon les différents aspects d'une situation donnée. Il n'est pas nécessaire qu'une personne ait une maison ou un endroit particulier où elle demeure pour être résidente en un lieu. Le juge Rand disait dans l'arrêt Thomson, précité, que « la meilleure façon d'apprécier la résidence habituelle est d'en examiner l'antithèse, la résidence occasionnelle, temporaire ou extraordinaire. Cette dernière semble nettement être non pas seulement temporaire et exceptionnelle quant à ses circonstances, mais s'accompagne également d'une notion de provisoire et de retour » . Ici, les appelants ont gardé leur résidence principale au Canada dans le but de venir s'y réinstaller lorsqu'ils se retrouveraient un emploi. Leur séjour aux États-Unis était dans leur esprit temporaire et la durée incertaine. Ils étaient tous deux sans emploi en 1997 et 1998. Comme le disait le juge Estey dans l'arrêt Thomson, précité, « ce n'est pas la longueur de la visite ou du séjour qui détermine la question » . On ne peut dire que les appelants s'étaient installés aux États-Unis. En tout cas, leur séjour là-bas n'avait aucun caractère de permanence. D'ailleurs, le seul bien d'une certaine valeur qu'ils détenaient était leur résidence principale au Canada. D'autant plus que même les critères élaborés par l'ADRC au paragraphe 10 de son bulletin d'interprétation IT-221R3 pour déterminer la résidence habituelle, semblent donner raison aux appelants, selon les faits présentés devant moi. Le paragraphe 10 du bulletin d'interprétation IT-221R3 se lit comme suit :
+Application de l'expression « résident habituel »
+10. Dans le cas d'un particulier qui n'a pas rompu tous ses liens de résidence avec le Canada mais qui en est physiquement absent pendant un laps de temps considérable (c'est-à-dire pendant une période de plusieurs mois ou de plusieurs années), les tribunaux ont porté, en règle générale, une attention particulière à l'expression « résident habituel » dans la détermination du statut de résident du particulier pendant son absence du pays. Dans les décisions rendues à cet égard par les tribunaux, la tendance manifeste est de considérer l'absence temporaire du Canada, même si elle est prolongée, comme insuffisante pour se soustraire au critère de résidence à des fins fiscales. Par conséquent, lorsqu'un particulier maintient des liens de résidence avec le Canada pendant son séjour à l'étranger, on évaluera l'importance de ces liens en fonction des facteurs suivants :
+a) la preuve de l'intention de rompre définitivement les liens de résidence avec le Canada;
+b) la régularité et la durée des visites au Canada;
+c) les liens de résidence existant à l'extérieur du Canada.
+Pour plus de certitude, l'ADRC n'estime pas que l'intention d'un retour au Canada soit, en soi et en l'absence de quelconques liens de résidence, un facteur dont la présence suffise à conclure que le particulier est un résident du Canada pendant qu'il séjourne à l'étranger.
+[22] Par ailleurs, même si comme le soutient l'intimée, on peut croire que les appelants s'étaient établis « en pensée et en fait » , ou avaient centralisé leur mode de vie habituel aux États-Unis, cela n'empêche pas que les appelants pouvaient avoir conservé leur résidence au Canada. Il est bien établi qu'une personne peut avoir plus d'une résidence (voir Thomson, précité, page 813 (J. Estey)).
+[23] Le dernier point que je voudrais soulever a trait aux documents soumis en preuve. Il est vrai que les appelants n'ont pas soumis leurs permis de conduire, enregistrements d'automobile, comptes bancaires, contrat de location, preuve d'assurance pour la période en litige. Je suis tout de même prête à accepter les témoignages écrits des appelants en l'absence de preuve documentaire à l'appui. Les appelants avaient été informés par l'ADRC en 1996 (et selon toute vraisemblance en 1997 également) qu'ils avaient conservé leur statut de résident canadien après leur départ en septembre 1994. La situation de fait est restée la même jusqu'à la vente de leur résidence principale en juin 1999. Il est tout à fait plausible que les appelants n'aient pas conservé ces preuves documentaires datant des années 1997 et 1998 qui sont maintenant requis, plusieurs années plus tard, par l'intimée. La situation des appelants n'ayant pas changé depuis 1995, ils ne pouvaient penser que l'ADRC changerait d'idée quant à leur statut et leur réclamerait des années plus tard des documents qu'on ne conserve pas nécessairement plusieurs années de suite (je pense entre autres aux permis de conduire, aux enregistrements d'une automobile, aux cartes de membre d'associations professionnelles etc.).
+[24] Pour ces raisons, je suis d'avis d'accueillir les appels et le tout est déféré au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que les appelants étaient résidents du Canada aux termes de la Loi au cours des années d'imposition 1997 et 1998.
+Signé à Ottawa, Canada, ce 20e jour de février 2004.
+"Lucie Lamarre"
+Juge Lamarre
+RÉFÉRENCE :
+2004CCI166
+No DU DOSSIER DE LA COUR :
+2002-2414(IT)I et 2002-2416(IT)I
+INTITULÉ DE LA CAUSE :
+Richard Collins et Emilia Collins c. La Reine
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 20 février 2004
+SOUMISSIONS ÉCRITES DE L'INTIMÉE :
+Le 30 juin 2003
+AVOCATE DE L'INTIMÉE :
+Me Justine Malone
+SOUMISSIONS ÉCRITES DES APPELANTS :
+Le 15 juillet 2003
+POUR LES APPELANTS :
+Les appelants eux-mêmes
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

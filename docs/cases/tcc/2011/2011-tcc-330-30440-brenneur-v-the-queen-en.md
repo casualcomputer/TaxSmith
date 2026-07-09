@@ -1,0 +1,148 @@
+---
+title: "Brenneur v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30440/index.do"
+last_modified: "2011-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 330"
+citation2: ""
+neutral_citation: "2011 TCC 330"
+decision_date: "2011-07-11"
+language: "en"
+item_id: "30440"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7911
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:27:07.237000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa6392fac3b5cca22dda3ac01abf4825c883170053c475bafa40a72b03424ce4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brenneur v. The Queen
+
+- Citation: 2011 TCC 330
+- Decision date: 2011-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7911, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brenneur v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-11
+Neutral citation
+2011 TCC 330
+File numbers
+2008-3222(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3222(IT)G
+BETWEEN:
+THIERRY BRENNEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on May 30, 2011, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Pierre Zeppettini
+Counsel for the respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years are allowed in part, and the assessments are referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment. The appellant shall be entitled to half the costs.
+Signed at Montréal, Quebec, this 11th day of July 2011.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of September 2011
+François Brunet, Reviser
+Citation: 2011 TCC 330
+Date: 20110711
+Docket: 2008-3222(IT)G
+BETWEEN:
+THIERRY BRENNEUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] In a notice of reassessment made with respect to the appellant, the Minister of National Revenue (the Minister) disallowed the appellant's deduction of expenses of $44,500 for the 2004 taxation year and $42,500 for the 2005 taxation year. These disallowed expenses are subcontracting expenses paid by the appellant to Michael Batalha during the two years in issue.
+[2] At the beginning of the hearing, the Minister re-examined his position, and now consents to the deduction of $18,245 for the appellant's 2004 taxation year, and $8,125 for his 2005 taxation year. The Minister now acknowledges that these expenses were incurred and paid by the appellant to subcontractor Michael Batalha.
+[3] Thus, the issue to be determined is whether the Minister properly disallowed the deduction of subcontracting expenses in the amounts of $26,255 and $34,375 for the appellant's 2004 and 2005 taxation years.
+[4] The appellant is a self-employed information technology consultant. During the years 2004 and 2005, he used subcontractors to do certain work, including work that involved computer software design. One of the subcontractors was Michael Batalha.
+[5] According to the appellant, Mr. Batalha's remuneration was $50 per hour in 2003 and 2004, and $60 per hour in 2005. Mr. Batalha gave the appellant lists of tasks to carry out, and the amount of time allotted to each task. A few of these lists were tendered in evidence as examples for 2002 and 2003. The appellant did not take note of Mr. Batalha's hours of work. He relied on Mr. Batalha, who told him his hours in writing or orally. Mr. Batalha did not issue invoices; rather, the appellant prepared invoices. A series of invoices for the period from January 2004 to September 2005, issued at a frequency of two invoices per month except for the first four months of 2004, was tendered in evidence. The invoice amounts are $1,000, $1,500, $2,000, $2,500, $3,000 and $3,500, throughout the period. There are no details regarding the hours of work, and several invoices do not indicate the contract under which the work was performed. Mr. Batalha's signature does not appear on the invoices. The word [translation] "paid" is handwritten on each invoice.
+[6] The appellant paid Mr. Batalha in cash, either on his premises or the client's premises. He sometimes paid Mr. Batalha cash advances. He never required any receipts from Mr. Batalha, because their business relationship was based on trust. His cash came from bank withdrawals, which he made several times a month at automated teller machines. Indeed, he produced the particulars of his bank account, showing the many withdrawals made each month at the ATMs, allegedly to pay for Mr. Batalha's services. It must be noted, however, that the total amount withdrawn greatly exceeds the amount payable to Mr. Batalha.
+[7] The appellant recorded the amounts advanced to Mr. Batalha in his personal electronic organizer along with a variety of other information. However, this information disappeared in a theft from the appellant's car in 2006, which is corroborated by a Montréal police report that was tendered in evidence.
+[8] When the Canada Revenue Agency (CRA) disallowed the appellant's expenses in 2007, the appellant wrote to all his subcontractors for the years in question and obtained from all of them, except Mr. Batalha, a written confirmation of the fees that he had paid them. He has not heard from Mr. Batalha since. According to his explanation, their business relationship ended in September 2005 because of a breakdown of trust. The appellant made reference to some very lucrative software that could have been sold to several businesses but was never completed.
+[9] Counsel for the appellant phoned and wrote Mr. Batalha in February 2008, asking him to report the income received from the appellant in 2004 and 2005 and to admit that he had, indeed, rendered the related services. Mr. Batalha did not respond to the letter. The respondent's pleadings clearly allege that the appellant did not pay subcontracting expenses to Mr. Batalha and that Mr. Batalha did not receive cash. Yet, in a letter that Mr. Batalha sent to the hearing coordinator in May 2010 (Exhibit A‑4), he acknowledges that he worked for the appellant in 2004 and 2005, and claims that he reported the income from that work. The appellant relies on his invoices, e-mails and other documents to demonstrate the extent of their business relationship.
+[10] Some of the appellant's clients testified that Mr. Batalha had carried out tasks for the appellant after the clients had awarded contracts to him. One such client even continued to use Mr. Batalha's programming services beyond September 2005. However, none of the clients can testify about the agreements between the appellant and Mr. Batalha. The services performed by Mr. Batalha for the appellant's clients spanned periods ranging from one to three years.
+[11] Other subcontractors of the appellant testified in order to confirm that they had worked for him during the years in issue. The contracts in question were smaller, and the hourly rate was $50 and $75, which is the usual rate for subcontractors. Some were paid in cash, while others were paid by cheque.
+[12] Mr. Batalha has a university degree in computer science, and had already accumulated four or five years of programming experience by 2004. He met the appellant in 2002. In 2004 and 2005, his only source of income was the work done for the appellant at Collège April-Fortier, and for three other clients of the appellant. The appellant worked 20-25 hours per week for Collège April-Fortier in 2004, and 8‑10 hours per week for the college in 2005. He was paid at a rate of $25 per hour, which he considers good, and which he continues to charge. For the services rendered to the appellant's other three clients, he was paid at a rate set by the appellant, namely, half the value of the contract. He therefore received $1,750 and $1,000 in 2004, as well as $2,500 in 2005, in addition to his hourly pay for Collège April-Fortier, which was $16,000 in 2004 and $5,625 in 2005. Mr. Batalha testified that these amounts represent the deductions to which the respondent consented at the beginning of the hearing, and that he and the appellant were business partners and worked on building a business. However, he admits that he did not invest in this partnership and did not solicit any clients. Nothing was agreed to in writing.
+[13] Mr. Batalha testified that he had reconstructed his hours of work from his time sheets and from the information in his computer. However, he did not tender any of this in evidence. He said that he had sent time sheets to the appellant. With respect to the invoices prepared by the appellant, he testified that he had seen them for the first time on the morning of the hearing, and that some of them were subsequent to September 8, 2005, the date of his departure.
+[14] He acknowledged that he was paid in cash, generally once a month, and that the amounts ranged from $750 to $1,000. He had no records enabling him to ascertain the exact payment dates.
+[15] On cross-examination, Mr. Batalha admitted that he had billed the appellant orally and that he had assumed the appellant took note of his hours. He never prepared any invoices or recorded his hours of work. All he could say was that he had done work for the appellant, and that he believed he was the appellant's partner on the other three contracts. He said that he had stopped working for the appellant because he was not getting paid and because his hours of work had been reduced in his second year; he made reference to Collège April-Fortier and the ten hours per week that he worked there in 2005.
+[16] Catherine Fortier, vice-president of Collège April-Fortier, testified that two programmers were needed to develop the software, and that the software's development spanned three years. She said that Mr. Batalha had done this work in 2004 and 2005 and finished it at the end of 2005, because the college had ceased doing business with the appellant that September.
+[17] The onus is on the appellant to show, on a balance of probabilities, that he is entitled to deduct the amounts of $44,450 and $42,500 as subcontracting expenses in his income tax returns, and that he truly paid these amounts to Mr. Batalha. In my opinion, the respondent's admission, at the beginning of the trial, that a portion of these expenses are real and were paid, considerably shakes the very foundation of the assessment, namely, that the expenses were never incurred, that the amounts were never paid, and that Mr. Batalha never received any money from the appellant in 2004 and 2005. There are certainly significant contradictions between the appellant’s and Mr. Batalha's versions of the facts, but these contradictions are only about the amounts paid to Mr. Batalha for each taxation year, not the actual existence of the services and payments, which the respondent denied until the morning of the hearing.
+[18] Each version contains implausibilities and is based on evidence that is of little reliability. According to the respondent's Reply, Mr. Batalha never worked for the appellant in 2004 and 2005. However, the respondent changed her opinion, and, on the morning of the hearing, she told the Court that Mr. Batalha had indeed worked for the appellant in 2004 and 2005, but that the amounts the appellant paid him during the two years in issue were considerably lower than what the appellant claims. Moreover, this was Mr. Batalha's sole source of income in 2004 and 2005. In addition, Mr. Batalha claims that he was not only a subcontractor, but that, in the case of three other clients, he considered himself a business partner of the appellant's, and that their agreement was to share the gross fees received equally. Yet Mr. Batalha acknowledges that he did not invest anything in this partnership with the appellant, and did not solicit any clients. Another strange thing is that, in partnerships of this kind, the more common practice is to share profits after expenses, rather than gross revenues.
+[19] Mr. Batalha also told the Court that his hourly rate under the subcontract was $25 and that he continues to bill his clients this rate. The invoices that the appellant adduced in evidence for his other subcontracts indicate that he paid hourly rates of $50 and $75. It is rather strange that a person with a university degree in this field renders professional services for a rate that is half the going rate, though I acknowledge that he is free to do so.
+[20] In his testimony, Mr. Batalha did not explain the calculations based on which he could assert that he had received $16,000 in 2004 and $5,625 in 2005 for the work that he had done under his subcontract with the appellant. He acknowledged that he had not taken note of his hours, and that he had not issued invoices to the appellant. He also acknowledged that he had called the appellant daily. This suggests that he worked much more often that he claims. The programming work at Collège April-Fortier lasted two years. Mr. Batalha himself completed the work in December 2005, four months after he terminated his subcontract with the appellant. As for his assertion that he was the appellant's business partner, this appears to me to be a pure fabrication, or, at best, an incorrect perception of the agreements, since there is nothing that appears to be consistent with the usual terms of agreements of that kind. The income he claims to have earned under this agreement is implausible; in my opinion, this income is the subcontract income from the other three clients.
+[21] Now that it is clearly established that Mr. Batalha worked for the appellant in 2004 and 2005 and that Mr. Batalha acknowledges having received $18,245 and $8,125 from the appellant for the work, we must decide whether the appellant has shown that he is entitled to the full amounts claimed in connection with the work in 2004 and 2005.
+[22] The appellant chose to pay Mr. Batalha in cash. To prove that he did so, he produced bank statements showing that the ATM withdrawals were larger than the amounts that he owed Mr. Batalha. In his submission, this shows the payments made to Mr. Batalha. Mr. Batalha acknowledges having been paid in cash, and says that this suited him. The question that remains unanswered is which withdrawals correspond to payments, in view of the fact that none of the withdrawals match Mr. Batalha's hours. The appellant is the only person who recorded this information, but, due to the theft of his car's contents, it is no longer available. Nonetheless, the appellant produced monthly invoices that he had prepared at the time. However, apart from the project and the amount, these invoices contain no details concerning the number of hours or the hourly rate paid. Furthermore, Mr. Batalha says that he has never seen the invoices. It is strange that the invoices are all for amounts in round numbers ranging from $1,000 to $3,500, that the hours worked are multiples of ten, and that the rate is $25 or $50 per hour.
+[23] The appellant's case regarding Mr. Batalha's hours of work, the rate he was allegedly paid, and the times at which he was paid is not substantiated by the evidence. In addition, I am according little weight to the invoices that the appellant adduced in evidence in support of the amounts he claims to have paid Mr. Batalha. Nonetheless, I am satisfied that he paid Mr. Batalha much more money for his services than Mr. Batalha alleges. I am also satisfied, in the light of the hourly rates paid to the other subcontractors, that Mr. Batalha was paid at least $50 per hour in both 2004 and 2005, as the appellant claims. Since these subcontracts were Mr. Batalha's only source of income for the two years in issue (except during the last four months of 2005), it is more than likely that the amounts paid were higher than what Mr. Batalha alleges.
+[24] Thus, it is my opinion that the appellant is entitled to expenses greater than those admitted by Mr. Batalha, but smaller than those he claimed in his income tax returns for the two years in issue. I am therefore arbitrarily setting the expense amounts to which the appellant is entitled for each taxation year at $36,490 and $16,250, respectively. Each of these amounts includes the sums consented to at the beginning of the hearing.
+[25] At the beginning of the hearing, the issue of switching from the general procedure to the informal procedure was raised, in view of the reduced amount in dispute. The respondent did not officially object to such a motion at the beginning of the hearing, and she undertook to provide the appellant with the amount in issue in light of the admissions. The respondent later objected to such a motion on the ground of delay. Therefore, this case shall continue to be governed by the general procedure. Given the amounts admitted to by the respondent only at the beginning of the hearing, and given that the appellant has been successful in part, he shall be entitled to half his costs.
+Signed at Montréal, Quebec, this 11th day of August 2011.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of September 2011
+François Brunet, Reviser
+CITATION: 2011 TCC 330
+COURT FILE NO.: 2008-3222(IT)G
+STYLE OF CAUSE: Thierry Brenneur and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 30, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 11, 2011
+APPEARANCES:
+Counsel for the appellant:
+Pierre Zeppettini
+Counsel for the respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the appellant:
+Name: Pierre Zeppettini
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

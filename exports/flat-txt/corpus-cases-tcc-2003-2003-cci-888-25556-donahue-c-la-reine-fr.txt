@@ -1,0 +1,122 @@
+Title: Donahue c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25556/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-888-25556-donahue-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-08
+
+# Donahue c. La Reine
+
+- Citation: 2003 CCI 888
+- Decision date: 2003-12-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2458, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donahue c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-08
+Référence neutre
+2003 CCI 888
+Numéro de dossier
+2003-1847(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1847(IT)I
+ENTRE :
+JAMES D. DONAHUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 18 novembre 2003 à Saint John (Nouveau-Brunswick)
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Susan McKinney
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli, sans dépens, dans la mesure où les coûts liés à l'achat d'une cuve thermale s'élevant à 8 154,65 $ sont considérés au titre de frais médicaux admis qu'a engagés l'appelant, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2003.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 15e jour d'avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI888
+Date : 20031208
+Dossier : 2003-1847(IT)I
+ENTRE :
+JAMES D. DONAHUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Le présent appel a été entendu à Saint John, au Nouveau-Brunswick, le 18 novembre 2003.
+[2] En établissant une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 2001, le ministre du Revenu national (le « ministre » ) a refusé les frais médicaux suivants qu'a demandés l'appelant dans sa déclaration de revenus :
+Bouchons d'oreille 130,00 $
+Massothérapie 326,25 $
+Cuve thermale 8 154,65 $
+Total 8 610,90 $
+[3] L'appelant souffre de douleurs chroniques graves au dos et suit des traitements de massothérapie pour son dos dans la province du Nouveau-Brunswick. Il a acheté les bouchons d'oreille et la cuve thermale sur les conseils de son médecin.
+[4] Je conclus que les frais liés aux traitements de massothérapie au montant de 326,25 $ ont été refusés à bon droit, étant donné que les massothérapeutes ne sont pas reconnus comme des médecins praticiens dans la province du Nouveau-Brunswick. Je conclus également que les coûts liés à l'achat des bouchons d'oreille s'élevant à 130 $ ont été refusés à bon droit, étant donné qu'ils ne constituent pas un dispositif médical prescrit sur ordonnance aux termes des dispositions citées ci-dessous.
+[5] Le paragraphe 118.2(1) de la Loi de l'impôt sur le revenu (la « Loi » ) stipule ceci :
+Le résultat du calcul suivant est déductible dans le calcul de l'impôt payable par un particulier en vertu de la présente partie pour une année d'imposition :
+[...]
+[La formule indique le pourcentage des frais médicaux raisonnables qu'un particulier peut déduire]
+[6] Ayant admis le refus du ministre d'admettre les frais liés à des traitements de massothérapie et à l'achat de bouchons d'oreille, la question à trancher consiste donc à savoir si la déduction des coûts liés à l'achat de la cuve thermale doit être admise. Pour trancher cette question, la Cour doit faire intervenir les alinéas 118.2l.2) et m) qui sont ainsi rédigés :
+118(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l'habitation du particulier, de son époux ou conjoint de fait ou d'une personne à charge visée à l'alinéa a) - ne jouissant pas d'un développement physique normal ou ayant un handicap moteur grave et prolongé - pour lui permettre d'avoir accès à son habitation, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne;
+[...]
+m) pour tout dispositif ou équipement destiné à être utilisé par le particulier [...]
+(i) il est d'un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d'un médecin,
+(iii) il n'est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+[...]
+[7] L'article 5700 du Règlement de l'impôt sur le revenu est en partie rédigé ainsi :
+Les dispositifs ou équipements suivants sont prescrits pour l'application de l'alinéa 118.2(2)m) de la Loi :
+i) tout dispositif qui est conçu à l'intention du particulier à mobilité réduite pour l'aider à marcher;
+[8] Comme il a été mentionné, l'appelant souffre de graves douleurs au dos. Il est un particulier tout à fait honnête, et la Cour accorde à son témoignage une crédibilité totale.
+[9] La cuve thermale a considérablement soulagé les douleurs dont souffre l'appelant au dos lui permettant, par conséquent, de marcher alors qu'auparavant il devait utiliser une canne pour se déplacer.
+[10] Il a acheté la cuve thermale de sa propre initiative. Cependant, dans la Réponse à l'avis d'appel, il est admis que l'appelant a fait l'acquisition d'une cuve thermale sur les conseils de son médecin. Outre les autres documents qui ont été déposés en preuve sous la cote A-2, figure un document écrit qu'a signé le médecin Andrea Canty. Il est daté après la date d'acquisition de la cuve thermale, mais dans ce document, la Dre Canty indique qu'elle a été le médecin de famille de l'appelant du mois de novembre 1992 au mois d'avril 2002 et elle déclare ce qui suit :
+[traduction]
+En raison des effets bénéfiques, thérapeutiques et préventifs observés que procurent ces deux dispositifs [notamment la baignoire de massage et [...]], je les aurais rétrospectivement prescrits à M. Donahue.
+[11] À mon avis, les coûts liés à l'achat de la cuve thermale auraient dû être admis à titre de frais médicaux; ce dispositif peut être considéré comme un appareil prescrit sur ordonnance puisque, selon moi, il est visé par l'alinéa i) de l'article 5700 du Règlement au titre d'un dispositif qui est conçu à l'intention du particulier à mobilité réduite pour l'aider à marcher. De plus, il peut être visé par l'alinéa 118.2(2)m) de la Loi puisqu'il s'agit d'un genre visé par règlement et qu'il a été acheté sur ordonnance d'un médecin. Le sous-alinéa 118.2(2)m)(ii) stipule que le dispositif doit être « utilisé sur ordonnance d'un médecin » . Le terme « sur ordonnance » est employé à trois reprises à l'alinéa m). Il est également utilisé dans de nombreuses autres dispositions du paragraphe 118.2(2) de la Loi. Quant à son utilisation dans l'expression sur ordonnance « d'un médecin » , il n'y a guère d'indication selon laquelle cette ordonnance doit être prescrite par écrit et, comme il a été mentionné, l'appelant a acheté la cuve thermale sur l'ordonnance d'un médecin praticien et, qui plus est, la Dre Canty affirme qu'elle aurait prescrit à l'appelant l'utilisation d'une cuve thermale. De toute façon, la cuve thermale a considérablement soulagé les douleurs dont souffrait l'appelant, lui permettant par conséquent de se déplacer tant à l'intérieur qu'à l'extérieur de son habitation. Par ailleurs, s'il n'avait pas utilisé la cuve thermale, il n'aurait pas été en mesure de continuer à exercer son emploi qui consiste en la vente d'équipement lourd.
+[12] Dans l'affaire Wood c. La Reine, [2002] A.C.I. no 708 (C.C.I., no 2000-1272(IT)I, 19 octobre 2000), le juge Beaubier de la Cour a déclaré ce qui suit :
+[14] Des dispositions telles que l'article 118.2 - Le « crédit d'impôt pour frais médicaux » , le crédit d'impôt pour personnes handicapées et le crédit d'impôt pour enfants (qui a remplacé l'ancienne allocation familiale fédérale) semblent avoir été introduites par le gouvernement fédéral dans la Loi de l'impôt sur le revenu pour deux raisons :
+(1) permettre au gouvernement fédéral de participer aux programmes d'aide sociale dans le cadre de sa politique;
+(2) alléger le lourd fardeau fiscal des particuliers et partager cet allègement avec les gouvernements provinciaux lorsque ceux-ci adoptent la Loi de l'impôt sur le revenu.
+De même, d'autres dispositions ont été introduites dans la loi afin de fournir des mesures incitatives en rapport avec différentes sortes d'investissements ou de dépenses dans le but d'augmenter la production, de faire progresser les causes environnementales, d'aider les projets culturels ou d'amener des changements quant au niveau de vie, aux habitats ou aux investissements dans les provinces ou dans d'autres régions géographiques telles que les régions nordiques.
+[15] C'est à la lumière de ces cas mentionnés dans la Loi de l'impôt sur le revenu que l'article 118.2 et l'article du Règlement doivent être examinés. Dans l'affaire La Corporation Notre-Dame de Bon-Secours c. La Communauté urbaine de Québec et la Ville de Québec, [1994] 3 R.C.S. 3 (95 D.T.C. 5017), il est mentionné, à la fin de la section A de cette analyse :
+Les principes dégagés dans les pages précédentes, dont certains, d'ailleurs, ont été récemment invoqués dans l'affaire Symes c. Canada, [1993] 4 R.C.S. 695, peuvent se résumer ainsi :
+- L'interprétation des lois fiscales devrait obéir aux règles ordinaires d'interprétation;
+- Qu'une disposition législative reçoive une interprétation stricte ou libérale sera déterminé par le but qui la sous-tend, qu'on aura identifié à la lumière du contexte de la loi, de l'objet de celle-ci et de l'intention du législateur; c'est l'approche téléologique;
+- Que l'approche téléologique favorise le contribuable ou le fisc dépendra uniquement de la disposition législative en cause et non de l'existence de présomptions préétablies;
+- Primauté devrait être accordée au fond sur la forme dans la mesure où cela est compatible avec le texte et l'objet de la loi;
+- Seul un doute raisonnable et non dissipé par les règles ordinaires d'interprétation sera résolu par le recours à la présomption résiduelle en faveur du contribuable.
+[16] Le but de l'article 118.2 et de l'article du Règlement est d'aider des personnes telles que les Wood. Objectivement, la cuve thermale en question ne constitue pas une pièce d'équipement adaptée conçue exclusivement pour Mme Wood. Elle n'avait pas les moyens d'acheter quelque chose de semblable. Cependant, si l'on considère cela d'une façon objective, la cuve thermale en question procurait l'espace nécessaire à Mme Wood pour qu'elle fasse les exercices qui lui avaient été prescrits et elle était dotée de jets d'eau chaude en certains emplacements afin de l'aider à soulager son handicap et de lui permettre de marcher et de bouger. La cuve a été conçue de manière à l'aider et, bien qu'elle n'ait pas été faite sur mesure pour Mme Wood et qu'elle n'ait pas été dotée de tout ce dont Mme Wood avait besoin, on peut tout de même affirmer que, selon les moyens des Wood, la cuve était exactement ce qui lui convenait. Essentiellement et objectivement parlant, la cuve a été conçue pour elle afin de l'aider.
+[17] L'article 118.2 et l'alinéa 5700i) ne doivent pas être interprétés de façon à empêcher les Wood d'acheter un appareil. Ces dispositions ont pour but de les aider à l'acheter.
+[18] En conséquence, la Cour conclut que cette cuve thermale constitue un appareil conçu afin d'aider Mme Wood à marcher et à se déplacer à l'intérieur et à l'extérieur de son habitation.
+[13] Le juge Beaubier a émis des commentaires semblables dans les affaires Galipeau c. La Reine, [2002] A.C.I. no 705 (C.C.I., no 2000-1651(IT)I, 19 octobre 2000) et Gordon c. La Reine, [2002] A.C.I. no 111 (C.C.I., no 98-1553(IT)I, 29 février 2000).
+[14] Pour tous les motifs susmentionnés, l'appel est accueilli dans la mesure où les coûts liés à l'achat d'une cuve thermale s'élevant à 8 154,65 $ sont considérés au titre de frais médicaux admis qu'a engagés l'appelant pour l'année d'imposition 2001 et, à cette fin, la question est déférée au ministre pour nouvel examen et nouvelle cotisation.
+Signé à Ottawa, Canada, ce 8e jour de décembre 2003.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 15e jour d'avril 2004.
+Nancy Bouchard, traductrice

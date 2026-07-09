@@ -1,0 +1,243 @@
+Title: Nicosia v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520999/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-143-520999-nicosia-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-11-30
+
+# Nicosia v. The King
+
+- Citation: 2022 TCC 143
+- Decision date: 2022-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5801, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicosia v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-30
+Neutral citation
+2022 TCC 143
+File numbers
+2019-3133(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-3133(IT)G
+BETWEEN:
+GRACE NICOSIA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 12, 2022, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Dale Barrett
+Counsel for the Respondent:
+Kanga Kalisa
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal concerning the 2011, 2015 and 2016 taxation years is allowed on the following basis:
+a) The property known as 154 Cortleigh Boulevard, Toronto, Ontario was acquired as, and subsequently disposed as a capital property in the 2011 taxation year;
+b) Additional costs of disposition not exceeding $20,000 on account of real estate commissions were incurred in the 2015 taxation year for each of the properties known as 16 and 18 Linda Lane, Wasaga Beach Ontario;
+c) The property known as 109 Lio Avenue, Vaughan, Ontario was factually the principal residence of the Appellant in the 2015 and 2016 taxation years; and,
+d) The penalties imposed under subsection 163(2) in respect of the 2011 taxation year are deleted.
+The matter is referred back to the Minister of National Revenue for reconsideration and reassessment; and,
+There shall be no costs.
+Signed at Ottawa, Canada, this 10th day of November, 2022.
+“R.S. Bocock”
+Bocock J.
+Citation: 2022TCC143
+Date: 20221130
+Docket: 2019-3133(IT)G
+BETWEEN:
+GRACE NICOSIA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. NATURE OF APPEALS
+[1] This appeal involves four real properties (“properties”) owned at various times by the Appellant, Ms. Nicosia. There are three taxation years appealed: 2011, 2015 and 2016. Taxation year 2011 was beyond the normal reassessment period and the Minister also imposed subsection 163(2) penalties for the year.
+II. FACTUAL BACKGROUND
+[2] During the 2010 through 2014 period, Ms. Nicosia experienced tumultuous relations with her now ex-husband. According to her, this gave rise to an off-again/on-again co-habitation, culminating in her final separation and divorce in 2015. The Court accepts this testimony; marital difficulties were referenced throughout the CRA notes to file and also accepted by the Minister’s agents.
+[3] Based on the evidence before the Court, the following summary chart reflects the owners, acquisition dates, details, disposition dates and occupancy of the properties. The first column reflects the four Ontario properties in order of acquisition:
+i) 154 Cortleigh Boulevard, Toronto
+ii) 16 Linda Lane, Wasaga Beach
+iii) 18 Linda Lane, Wasaga Beach
+iv) 109 Lio Avenue, Vaughan
+Property
+Owner
+Acquisition Date
+Details of ownership improvements, if any
+Disposition Date
+Occupancy: Minister vs. Appellant
+154 Cortleigh, Toronto (“154 Cortleigh”)
+Appellant
+October, 2007
+Solely owned by Ms. Nicosia; demolished in 2008 and rebuilt in early 2009
+November, 2011
+Never occupied vs. occupied frequently from 2008-2011as a place of refuge
+16 Linda Lane, Wasaga (“16 Linda”)
+Appellant
+June, 2007
+Solely owned by Ms. Nicosia; 16 and 18 purchased as a single tract, severed and two identical dwellings constructed starting date: 2008
+June, 2015
+Occasionally occupied
+18 Linda Lane, Wasaga
+(“18 Linda”)
+109 Lio, Vaughan (“109 Lio”)
+Appellant and Ex-spouse
+November, 2012
+Owned jointly by Appellant and ex-spouse
+February, 2016
+Not occupied as principal residence vs. after 2015, principal residence
+[4] The following summary chart represents, by property, the difference between the parties concerning classification of property, costs and proceeds of disposition:
+Property
+Costs: Minister vs.
+Appellant
+Proceeds: Minister vs.
+Appellant
+Nature of Property: Minister vs. Appellant
+154 Cortleigh, Toronto
+Cost to acquire: $1,205,000 Cost to rebuild unproven:
+Gross proceeds: 2,900,000 Net proceeds:$726,365
+Business venture vs. Exempt personal residence
+16 Linda Lane, Wasaga
+Adjusted cost base: 557,420 Capital gain: 16,025 (after outlays and expenses)
+Gross proceeds: $575,000/ No dispute Only excluded real estate commissions disputed
+Capital Property
+18 Linda Lane, Wasaga
+Adjusted cost base: 557,420
+Capital gain: 16,386 (after outlays and expenses)
+Gross proceeds:$575,000. No dispute only excluded real estate commissions disputed
+Capital Property
+109 Lio, Vaughan
+One half to acquire: $554,000
+Gross proceeds:880,000 Net to Appellant: $41,314
+Capital Property vs. Exempt personal residence
+Some additional and property specific details
+[5] No additional documents were provided concerning the properties and related expenses, renovations, construction or valuations. The values used are the Minister’s assumptions. Aside from the deductive omissions, the Minister’s assumptions concerning acquisition and gross proceeds received upon sale are fully accepted by the Court.
+154 Cortleigh
+[6] Ms. Nicosia testified that during 2010-2011 she was frequently at 154 Cortleigh as a refuge from the acrimonious and abusive relationship with her now ex-husband. The cost to rebuild was also greater than costs allowed by the Minister. She had no evidence of that. Her over-arching argument however is that 154 Cortleigh was her principal residence and exempt from capital gains tax.
+[7] The Minister identifies the absence of tendered evidence as the basis for rejecting any finding of additional costs or a nature of occupancy supporting a principal residence exemption.
+[8] More important to the issues to be decided, the Minister asserts the property was acquired and disposed of as an adventure in the nature of trade and is therefore business income. Ms. Nicosia never changed her primary address, employer T4 address or other mailing addresses to this property. The Minister holds that she “flipped” the property after completely reconstructing it in a relatively short period for a large profit.
+16-18 Linda
+[9] Concerning 16-18 Linda Lane, the parties agree it was a disposition of taxable capital property. From the auditor’s report no credit was given by the Minister for any real estate commission to sell. If such commissions were paid, there would be no taxable capital gain after adding such fees to outlays and expenses. Ms. Nicosia asserts she should get credit for some amount because it was not possible to sell the properties without a real estate agent and she used one. She has no copy of an invoice.
+[10] Ms. Nicosia simply argued that real estate agents were needed to sell 16-18 Linda Lane and she should be entitled to that claim such amount.
+109 Lio
+[11] Lastly, 109 Lio did not meet the principal residence exemption primarily because Ms. Nicosia did not file a form T2091 designating the property a principal residence in 2016 when she disposed of it. Ms. Nicosia states that 109 Lio was her principal residence after selling 154 Cortleigh despite the technical non-filing. The Respondent states that the failure to file a single T2091 concerning the designation of a principal residence must be held against Ms. Nicosia. Ms. Nicosia’s ex-husband did so for his residence, from 2012 to 2014. The Minister accepted that and viewed the family unit as having elected, particularly in the absence of a signed separation agreement, to choose the other property.
+III. ISSUES
+[12] The issues concerning each property maybe summarized below:
+a) 154 Cortleigh
+Was 154 an adventure in the nature of trade (“business income” per the CRA notes) or a capital property?;
+If a capital property, was it a principal residence?;
+Was there a misrepresentation on the 2011 tax return to allow the Minister to reopen the tax year?; and,
+Was Ms. Nicosia grossly negligence under 163(2) in filing her 2011 tax return?
+b) 16-18 Linda
+[13] Did Ms. Nicosia incur real estate commissions on the sales sufficient to increase the adjusted cost base and reduce the taxable capital gain?
+c) 109 Lio
+[14] Was 109 Lio held as a principal residence by Ms. Nicosia and is it therefore fully or partially exempt from capital gain tax.?
+IV. ANALYSIS
+[15] In reverse chronological order, the Court deals with the properties.
+a) 109 Lio
+[16] The Minister’s agents all but accepted that this property was Ms. Nicosia’s principal residence, particularly after her final separation and divorce from her ex-husband. In fact, they queried her non-filing of a T2091 concerning her 2016 disposition. The Minister just seems to be missing the T2091. Is this a fatal flaw for the 2016 taxation year?
+Only One Principal Residence in Certain Instances
+[17] The definition of “principal residence” in section 54 of the Act prohibits the taxpayer and certain individuals related to taxpayers from designating any other property as the taxpayer’s principal residence “for the year”. Specifically, subparagraph 54(c)(ii) prohibits the following individuals: the taxpayer; the taxpayer’s spouse or common-law partner; the taxpayer’s children under the age of 18; and, if the taxpayer is not married, the taxpayer’s mother, father, brother or sister.
+[18] In the present appeal, 109 Lio may be distinctly designated as a principal residence for only some of the years it was owned by Ms. Nicosia, provided she was ordinarily resident there. In 2012 and 2013, Ms. Nicosia’s ex-husband already designated a different property at the time the couple was neither separated nor divorced. Upon disposition in 2016, the Form T2091 and the Schedule 3 of the T1 income tax and benefit return ought to have been completed for the 2016 tax year by Ms. Nicosia.
+[19] For the purpose of the rule, two properties cannot be designated as the principal residence of the Appellant or any member of the Appellant’s family unit for the year. The question is: who was a family member of Ms. Nicosia at the material time.
+Effect of Divorce
+[20] In Balanko Estate v Canada, [1] the Tax Court concluded that the definition of “principal residence” at section 54(c) of the Act was as follows:
+[…] if a taxpayer is still married only one of the taxpayer and the spouse may designate a property as a principal residence except if the taxpayer and the spouse are separated under a written separation agreement. That Dr. Balanko informed John that he “took care of it” with respect to the purported written separation agreement may suggest other ways in which he and Ms. Bamako settled their affairs. Again, there is no written separation agreement before me. [2]
+[21] In Hickman Motors Ltd v The Queen [3] , the Tax Court held that the written separation agreement is required by the Act, and the lack of such a document “is a more serious omission than a lack of receipts to prove an expenditure”. [4]
+[22] Ms. Nicosia divorced her husband in December 2014; the Minister accepts this fact. Therefore, there is no conflicting designation for the years 2015 and 2016 regarding the Lio Property. After that date, each spouse can designate different residences as their respective principal residence commencing the first taxation year in which the judicial separation or written agreement was in place throughout the year, in the case at hand, 2014. [5] Divorce is the ultimate judicial separation.
+Possibility of Late Filing
+[23] Since 109 Lio was not designated as a principal residence during all the years of possession (and could not be before 2015), Ms. Nicosia ought to have completed a Form T2091 and designated the Lio Property as her principal residence on the income tax return of 2016.
+[24] Historically, the CRA had stated it would not accept a late-filed principal residence designation. [6] However, this position was revised and under certain circumstances, the Minister of National Revenue may accept a late-filed principal residence designation.
+[25] Generally, the minister's discretion provided under subsection 220(3.2) of the Act applies only to certain elections, not to designations unless a designation is considered to be a deemed election under subsection 220(3.21) of the Act.
+[26] Pursuant to subparagraph 220(3.21)a.1 of the Act, a principal residence designation prescribed in Form T2091 for the purpose of paragraph (c) in the definition of “principal residence” under section 54 of the Act is considered to be a deemed election. Therefore, subsection 220(3.2) applies to a late-filed principal residence designation. It is important to note that subparagraph 220(3.21)a.1 of the Act was added in 2017 and applies to tax years that end after October 2, 2016. This allows late filing of a principal residence designation, with the penalty prescribed in subsection 220(3.5).
+[27] However forgetful or unknowing Ms. Nicosia may have been, the Minister may accept a late filing under certain circumstances and apply the penalty. Factually, in 2015 and 2016 104 Lio was factually Ms. Nicosia’s principal residence. An amended return would seem to suffice. [7] The rest of the story is up to the Minister to write.
+b) 16/18 Linda Lane
+[28] The numbers identified by the Minister in the reply, proposal letter and penalty assessment are clear. The Minister’s agent calculated correctly the included proceeds and expenses as follows:
+For each of 16/18 Linda Lane
+Proceeds of Disposition (identical)
+$575,000
+Adjusted Cost Base (identical)
+($557,420)
+Legal Fees/Outlays (1,193 for 18 Linda Lane) (1,554 for 16 Linda Lane)
+($1,193)
+Capital Gain-Greater of 2
+$16,386
+[29] An essential omitted expense is the problem. There is no amount for real estate commissions. Ms. Nicosia is a teacher. She did not sell the property herself. She testified she used a real estate agent and consistently requested this omission be addressed. Moreover, the Minister did the calculations. The Minister assumed the transfer was arm’s length. Commissions were undoubtedly paid, easily in excess of $20,000 plus HST. The Minister’s assumptions have otherwise been adopted by the Court without adjustment; the blatant omissions must be addressed. Even absent invoices, credit needs be given for these amounts, at least to the extent of the assessed capital gain assumed by the Minister.
+c) 154 Cortleigh
+Adventure in the nature of trade or not?
+[30] The Minister’s position on 154 Cortleigh is distinct from the other 3 properties. The Court raised with Respondent’s counsel that the income vs. capital assessment of the 3 other properties (whether principal residences or not) was on account of capital. Despite that, this previously held property was as “business income” outlier. Why then the abandoned “business” after 2012? There was also some conflicting evidence in the CRA file of whether Ms. Nicosia ever lived at 154 Cortleigh. It is clear to the Court that she did live at 154 Cortleigh from time to time as a refuge in 2011 and earlier on in 2007 and 2008. The evidence of this mixed use clouds the deliberation necessary for the conclusive acquisition, improvement and sale as a business venture.
+[31] Further, Ms. Nicosia hardly fits the factual mould of usual “flippers” of real properties before the Court. She was a teacher, not a real estate agent. She had other circumstances afoot which explain the less than measured tenure of ownership; she was within an abusive, on-again/off-again marriage. Frequently, she was trying to physically and legally leave that relationship. This was not a late breaking story. It figured prominently in the file during CRA’s audit and file notes and it explained away her literal “comings” and “goings”. She also had plausible explanations for wanting this large, new house in which to start a family and life.
+[32] As to the criteria for an adventure in the nature of trade, the criteria are easily open to interpretation in the factual landscape of this appeal. Ms. Nicosia’s reasons for selling all the properties were objectively rooted in family turmoil and relationship breakdown. This was the first property sold and by far the most identifiable as a potential family home. There’s no suggestion the improvements (reconstruction) were not intended for Ms. Nicosia herself and her intended family. Her intention in acquiring the property is just as easily explained away by her bedrock dream of the family she would raise there. [8] The abruption to that aspiration by the sale of this property was not the pursuit of a second real estate career, but, more likely than not, the regrettable breakdown of her marriage. The nature of the property, length of ownership, frequency of real estate endeavours up to that point, work expended, motive, and most importantly circumstances dictating sale all lead the Court to the conclusion the property was acquired as a capital property, rather than a conceived business venture.
+[33] Selling residential properties as an undertaking in the nature of trade is deliberate. Ms. Nicosia’s course of conduct was the antithesis of a master plan: it was not well laid out and executed with precision. Her testimony, the observations of the CRA and an entirely asynchronistic teaching career leave the Court with the impression of a bumpy and not agreeable life in such years. This should not be confused with a deliberate or planned business or venture, whether poorly or well executed. The disposition of 154 Cortleigh was on account of capital.
+If a capital property, was it a principal residence?
+[34] Although on account of capital, it was not her principal residence, but an essential intermittent refuge. Ms. Nicosia never occupied the property with regularity. Even in her own mind, she did not consider it her principal residence and was not ordinarily inhabited by her [9] . As importantly, she did not undertake steps to embrace or memorialize 154 Cortleigh as her principal residence to anything approaching the identification of it as her “home”, as she called it. There was no evidence of regular daily use of the property at a level of primary residence: no identifiable changes of address, permanent hallmarks or other domestic expenses and touches, beyond mandatory utilities. While she may retrospectively believe 154 Cortleigh to have been her permanent domicile, her present belief cannot assuage the Minister’s assumptions without some additional evidence for the Court to examine.
+Was there a misrepresentation on the 2011 return owing to neglect, carelessness or wilful default related to 154 Cortleigh?
+[35] Based upon the findings of this Court, the filing position of Ms. Nicosia which gives rise to additional tax liability is the unallowed principal residence exemption. The Court finds this was a capital property, but not a principal residence. If it had been a principal residence, Ms. Nicosia was not obligated to note the disposition in 2011.
+[36] The filing position employing the principal residence exemption did not reflect a thoughtful, deliberate and careful assessment of the situation culminating in a bona fide filing position. [10]
+[37] Going to the heart of the issue of neglect or carelessness is the lack of documents or evidence in existence, even a decade later to support a reasoned, thoughtful position of personal residence. It is not the fact that Ms. Nicosia is now incorrect concerning her filing position, but that she lacks any details and material to show reasonably that she may have been correct. The Court is careful not to give the Minister a free pass on this count. Ms. Nicosia knew the Minister was asserting she never lived in the property. She needed reasonable cover that she did. She has that, but not much more. The Minister was permitted to reopen the statute barred years.
+Was Ms. Nicosia grossly negligent?
+[38] Gross negligence is another matter. The Minister’s penalty assessment was inextricably linked to the adventure in nature of trade conclusion, the assertion Ms. Nicosia never lived in the property and that the quantum of the failure to report was of considerable magnitude because of the unreported business income. All three of these assertions are not correct. The property was held on account of capital. Ms. Nicosia did live at the property, but not meaningfully as a principal residence. The re-classification from income to capital reduces the magnitude by half. Further, the assessing position is now consistent across all tax years under appeal; the properties were capital in nature. The Appellant’s position of principal residence of 154 Cortleigh is incorrect, but so was the Minister’s concerning an adventure in the nature of trade.
+[39] Ms. Nicosia, while educated, is clearly unfamiliar with the ways of business and tax. Her belief she could navigate the tax laws because it related to personally held real property was ill-founded. However, based on all the facts, it was not tantamount to a deliberate act, refined to indifference of compliance with the law. [11] Therefore, the penalties are deleted.
+V. COSTS
+[40] Given the mixed result across almost all years and the various issues and the deficient records kept necessitating additional effort for all, there shall be no costs.
+These amended reasons for judgment are issued in substitution of reasons for judgment dated November 10, 2022 in order to correct inconsistent and inadvertent numerical inversions made when referencing CRA Form T2091 in paragraphs 11 and 16 above and to correct a typographical error in paragraph 32, all underscored and in bold type for ease of reference.
+Signed at Ottawa, Canada, this 30th day of November, 2022.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2022TCC143
+COURT FILE NO.:
+2019-3133(IT)G
+STYLE OF CAUSE:
+GRACE NICOSIA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 12, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 30, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Dale Barrett
+Counsel for the Respondent:
+Kanga Kalisa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2015 TCC 66 [Balanko].
+[2] Ibid at para 20.
+[3] [1997] 2 S.C.R. 336 at para 87.
+[4] Balanko, supra note 19 at para 21.
+[5] Canada Revenue Agency, Technical Interpretation 2011-0408461E5, Principal residence after marriage breakdown (October 25, 2011) at page 3.
+[6] Canada Revenue Agency, Technical Interpretation 2012-0448391I7, Validity of late-filed election and designation (February 13, 2013).
+[7] Canada Revenue Agency, Conference 2018-0761571C6, Reporting the sale of your principal residence for individuals (other than trusts) – Missing info on disposition of principal residence (October 5, 2018).
+[8] Happy Valley Farms v. MNR, 2 CTC 259 at paragraph 28 outlines exactly the opposition circumstances for a business venture.
+[9] Sidhu v. HMQ, 2004 TCC 174 at paragraph 23.
+[10] Regina Shoppers Mall v. R, 1990 CarswellNat 344.
+[11] Venne v. HMQ [1984] CTC 223, 84 DTC 6247.

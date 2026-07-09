@@ -1,0 +1,239 @@
+---
+title: "International Custom Pak Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66808/index.do"
+last_modified: "2014-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 44"
+citation2: ""
+neutral_citation: "2014 CCI 44"
+decision_date: "2014-02-11"
+language: "fr"
+item_id: "66808"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5951
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:08:43.645000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa58de3110afa451bc36de9069a49afe2b8835c0be84c655bc78ced67ce9d8bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# International Custom Pak Inc. c. La Reine
+
+- Citation: 2014 CCI 44
+- Decision date: 2014-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5951, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+International Custom Pak Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-11
+Référence neutre
+2014 CCI 44
+Numéro de dossier
+2013-1768(EA)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2013-1768(EA)I
+ENTRE :
+International Custom Pak Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 janvier 2014 à Toronto (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Hanif Adatia
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une cotisation établie par le ministre du Revenu national à l’égard du droit d’accise à payer sur des spiritueux emballés, au titre de l’article 73 et du paragraphe 122(1) de la Loi de 2001 sur l’accise (la « Loi ») ainsi que de l’article 1 de l’annexe 4 de la Loi est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de février 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 24e jour de mars 2014.
+C. Laroche
+Référence : 2014 CCI 44
+Date : 20140211
+Dossier : 2013-1768(EA)I
+ENTRE :
+International Custom Pak Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation que le ministre du Revenu national (le « ministre ») a établie à l’égard du droit de douane à payer sur des spiritueux emballés, au titre de l’article 73 et du paragraphe 122(1) de la Loi de 2001 sur l’accise (la « Loi ») ainsi que de l’article 1 de l’annexe 4 de la Loi. Plus précisément, les montants suivants ont été exigés de l’appelante dans la cotisation en question (réponse modifiée, paragraphe 7) :
+a) 1 903 $ pour la période allant du 1er avril 2010 au 30 avril 2010 (la « première période »);
+b) 11 457 $ pour la période allant du 1er mai 2010 au 31 mai 2010 (la « deuxième période »);
+c) 7 073 $ pour la période allant du 1er septembre 2010 au 30 septembre 2010 (la « troisième période »).
+[2] Les parties ont déposé un exposé conjoint des faits partiel, qui est reproduit ci‑dessous :
+[TRADUCTION]
+EXPOSÉ CONJOINT DES FAITS PARTIEL
+Les parties aux présentes admettent les faits suivants, pourvu qu’elles puissent ajouter d’autres éléments de preuve qui ne sont pas incompatibles avec le présent exposé conjoint des faits partiel :
+1. L’appelante est une société canadienne privée;
+2. L’appelante est titulaire d’un agrément d’utilisateur aux termes de l’article 14 de la Loi de 2001 sur l’accise (la « Loi »);
+3. L’appelante fabrique des produits d’hygiène et de beauté, y compris différents produits de désinfection sous forme de vaporisateurs et de gels;
+4. Au cours de la première période, de la deuxième période et de la troisième période (selon la définition figurant dans la réponse à l’avis d’appel de l’intimée), l’appelante a acheté de l’alcool en vrac (non emballé) contenant au moins 95 % d’alcool éthylique absolu par volume;
+5. Lorsque l’alcool en vrac a été acheté, il a été emballé dans des contenants d’une capacité supérieure à 100 litres;
+6. Tout cet alcool a été utilisé pour la fabrication de gels désinfectants au cours de la première période, de la deuxième période et de la troisième période;
+7. Au cours de la première période, de la deuxième période et de la troisième période, l’appelante a utilisé respectivement 171 litres, 1 031 litres et 637 litres de l’alcool en vrac pour fabriquer respectivement 272 litres, 1 640 litres et 1 012 litres de gels désinfectants;
+8. Lorsque ces gels désinfectants ont été fabriqués, emballés et vendus à des fins de consommation, ils n’ont pas été fabriqués conformément à une formule à l’égard de laquelle l’appelante avait obtenu une approbation du ministre du Revenu national (le « ministre »);
+9. Les formules conformément auxquelles les gels désinfectants ont été fabriqués ont reçu l’approbation du ministre le 16 juin 2011;
+10. Les gels désinfectants en question contenaient tout l’alcool mentionné plus haut au paragraphe 7 sous forme diluée;
+11. Lors de la fabrication, les gels désinfectants contenaient plus de 60 % d’alcool éthylique absolu par volume;
+12. Lorsque les gels désinfectants ont été fabriqués, emballés et vendus à des fins de consommation, aucun droit n’a été payé au titre de la Loi à l’égard de l’alcool qu’ils contenaient;
+13. Les gels désinfectants fabriqués et emballés par l’appelante au cours des première, deuxième et troisième périodes ont été emballés dans des contenants dont chacun avait une capacité inférieure à 100 litres;
+14. Ces contenants n’ont pas été réemballés avant d’être vendus aux consommateurs;
+15. Les formules conformément auxquelles les gels désinfectants ont été fabriqués ont été approuvées et autorisées par la Direction des produits de santé naturels de Santé Canada le 3 février 2010 pour les besoins du Règlement sur les produits de santé naturels et se sont vu attribuer le numéro de produit naturel 80015660 en application de ce règlement; les formules n’ont pas été approuvées par le ministre pour les besoins de la Loi à cette date (elles ne l’ont été que le 16 juin 2011).
+[3] Dans son avis d’appel, l’appelante mentionne qu’elle a été approchée au cours de la pandémie de H1N1 pour fabriquer des gels désinfectants. En raison de l’urgence de la situation, elle a commencé à fabriquer les gels désinfectants tout en s’efforçant de terminer l’élaboration de la préparation à soumettre à l’approbation de l’Agence du revenu du Canada (l’« ARC »).
+[4] L’appelante a affirmé qu’en raison de ses connaissances en matière d’élaboration de préparations et de son expérience liée à l’utilisation des ingrédients de désinfection couramment employés dans l’industrie, elle était en mesure de s’assurer que le nouveau gel désinfectant serait égal au vaporisateur désinfectant que l’ARC avait précédemment approuvé quant au rendement et à la sécurité. De plus, la Direction des produits de santé naturels de Santé Canada avait déjà approuvé la préparation relative aux gels désinfectants et un numéro de produit de santé naturel avait été attribué à celle-ci.
+[5] Dans son avis d’appel, l’appelante a ajouté qu’un long délai d’attente avant l’approbation de l’ARC aurait pu être coûteux pour son entreprise. La seule intention de l’appelante était d’accélérer la livraison de produits afin de conserver ses clients et de fournir un service rapide à ceux, dans la population, qui avaient un besoin urgent de désinfectants.
+[6] L’appelante a reconnu qu’elle ne s’était pas conformée à l’article 73 de la Loi, qui interdit à l’utilisateur agréé d’utiliser de l’alcool en vrac ou d’en disposer, sauf, notamment, dans une préparation approuvée. Elle a également reconnu qu’un droit devait être exigé à l’égard de l’infraction commise, mais elle a demandé à la Cour de diminuer le montant du droit exigé, par souci d’équité, étant donné que l’infraction n’était pas intentionnelle.
+[7] À l’audience, M. Hanif Adatia, président de l’appelante, a reconnu qu’il n’était pas vrai que celle-ci avait soumis la préparation relative aux gels désinfectants à l’ARC. En fait, la formule a été approuvée le 16 juin 2011, quelques jours après avoir été présentée par Mme Anna Thow, l’agente de l’ARC qui a procédé à la vérification (la vérification a été menée en juin 2011, le rapport de vérification a été préparé le 8 juin 2011, et la formule a été traitée par le chimiste principal de la Section des boissons alcooliques et des produits du tabac de la Direction des sciences et de l’ingénierie (la « DSI ») de l’Agence des services frontaliers du Canada le 10 juin 2011 et approuvée le 16 juin 2011, comme le montrent les pièces R-3 et R-4). À la date de l’approbation, les gels avaient déjà été fabriqués, emballés et vendus.
+[8] De plus, le chimiste principal de la DSI a confirmé que les préparations non approuvées à l’égard des gels étaient différentes de celles qui avaient été approuvées pour les vaporisateurs tant en ce qui concerne la quantité d’alcool utilisée que les autres ingrédients (pièce R-3, pages 4 et 6).
+[9] C’est pourquoi la vérificatrice a conclu qu’un droit devrait être imposé à l’appelante à l’égard de l’alcool utilisé dans les préparations non approuvées. Aucune pénalité n’a été imposée au titre de l’article 243 de la Loi.
+[10] Les dispositions applicables de la Loi sont reproduites ci-dessous :
+Loi de 2001 sur l’accise
+L.C. 2002, ch. 22
+DÉFINITIONS ET INTERPRÉTATION
+Définitions
+2. Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« alcool » : Les vins ou les spiritueux.
+[…]
+« droit » Sauf indication contraire, le droit imposé en vertu de la présente loi et le droit perçu en vertu des articles 21.1 ou 21.2 du Tarif des douanes, y compris, sauf aux parties 3 et 4, le droit spécial.
+[…]
+« emballé »
+a) […]
+b) se dit de l’alcool qui est présenté :
+(i) soit dans un contenant d’une capacité maximale de 100 L qui est habituellement vendu aux consommateurs sans que l’alcool n’ait à être emballé de nouveau,
+(ii) soit dans un contenant spécial marqué.
+[…]
+« en vrac » Se dit de l’alcool qui n’est pas emballé.
+[…]
+« ministre » Le ministre du Revenu national.
+[…]
+« non acquitté » Se dit de l’alcool emballé sur lequel un droit, sauf le droit spécial, n’a pas été acquitté.
+[…]
+« préparation approuvée »
+a) Produit à base d’alcool fabriqué par un utilisateur agréé conformément à une formule qu’il a fait approuver par le ministre;
+b) produit importé qui, de l’avis du ministre, serait un produit visé à l’alinéa a) s’il était fabriqué au Canada par un utilisateur agréé.
+[…]
+« production »
+a) En ce qui concerne les spiritueux, le fait de les obtenir par la distillation ou un autre procédé ou de les récupérer.
+[…]
+« spiritueux » Toute matière ou substance contenant plus de 0,5 % d’alcool éthylique absolu par volume, à l’exclusion de ce qui suit :
+a) le vin;
+b) la bière;
+c) le vinaigre;
+d) l’alcool dénaturé;
+e) l’alcool spécialement dénaturé;
+f) l’huile de fusel ou d’autres déchets provenant du processus de distillation;
+g) toute préparation approuvée;
+h) tout produit fabriqué à partir d’une matière ou d’une substance visée aux alinéas b) à g), ou contenant une telle matière ou substance, qui ne peut être consommé comme boisson.
+[…]
+« utilisateur agréé » Titulaire de l’agrément d’utilisateur délivré en vertu de l’article 14.
+[…]
+PARTIE 2
+LICENCES, AGRÉMENTS ET AUTORISATIONS
+Licences et agréments
+Délivrance
+14. (1) Sous réserve des règlements, le ministre peut délivrer, sur demande :
+[…]
+c) un agrément d’utilisateur, autorisant son titulaire à utiliser de l’alcool en vrac, de l’alcool emballé non acquitté ou une préparation assujettie à des restrictions;
+[…]
+Restriction — utilisateur agréé
+73. L’utilisateur agréé ne peut utiliser de l’alcool en vrac, ou en disposer, qu’aux fins suivantes :
+a) son utilisation dans une préparation approuvée;
+[…]
+IMPOSITION ET PAIEMENT DU DROIT SUR L’ALCOOL
+Droit – spiritueux produits au Canada
+122. (1) Est imposé sur les spiritueux produits au Canada un droit calculé au taux figurant à l’article 1 de l’annexe 4.
+Imposition
+(2) Le droit est imposé au moment de la production des spiritueux.
+[…]
+Droit exigible à l’emballage
+124. (1) […]
+Droit exigible de la personne responsable
+(2) Le droit est exigible de la personne qui est responsable des spiritueux immédiatement avant leur emballage.
+UTILISATIONS ET SORTIES D’ALCOOL NON ASSUJETTIES AU DROIT
+Utilisations non assujetties au droit – préparations approuvées
+144. Sont exonérés du droit l’alcool en vrac et l’alcool emballé non acquitté qu’un utilisateur agréé fait entrer dans une préparation approuvée.
+[…]
+Contravention – art. 73, 74 ou 90
+243. (1) Sauf en cas d’application des articles 239, 241, 242 ou 243.1 ou du paragraphe (2), quiconque contrevient aux articles 73, 74 ou 90 est passible de la pénalité suivante :
+a) si la contravention se rapporte à des spiritueux, le montant représentant 200 % des droits imposés sur les spiritueux;
+b) si la contravention se rapporte à du vin, 1,24 $ le litre de vin.
+ANNEXE 4
+(articles 122 et 123)
+TAUX DU DROIT SUR LES SPIRITUEUX
+1. Spiritueux : 11,696 $ le litre d’alcool éthylique absolu contenu dans les spiritueux.
+2. Spiritueux contenant au plus 7 % d’alcool éthylique absolu par volume : 0,295 $ le litre de spiritueux.
+[11] Dans la présente affaire, il est convenu de part et d’autre que l’appelante détient un agrément d’utilisateur en vertu de l’article 14 de la Loi. Il est également convenu qu’au cours des périodes en cause, l’appelante a acheté de l’alcool en vrac non emballé contenant au moins 95 % d’alcool éthylique absolu par volume dans des contenants d’une capacité de plus de 100 litres. Cet alcool a été utilisé pour la fabrication de gels désinfectants contenant plus de 60 % d’alcool éthylique absolu par volume et a été emballé dans des contenants d’une capacité de moins de 100 litres. Ces contenants ont été vendus aux consommateurs sans être réemballés.
+[12] Il n’est pas contesté non plus que, lorsque ces gels ont été fabriqués, emballés et vendus à des fins de consommation, ils n’ont pas été fabriqués conformément à une formule pour laquelle l’appelante avait obtenu une approbation du ministre.
+[13] En conséquence, il est évident, eu égard aux articles 73, 122 et 144 de la Loi, que l’appelante n’était pas exonérée de l’obligation de payer un droit sur l’alcool en vrac au taux prévu à l’article 1 de l’annexe 4 (11,696 $ par litre d’alcool éthylique absolu contenu dans les gels désinfectants). Ce droit était exigible au moment où les gels désinfectants ont été emballés, c’est-à-dire lorsqu’ils ont été emballés dans des contenants d’une capacité de moins de 100 litres pour être vendus aux consommateurs (voir le paragraphe 124(2) et la définition du mot « emballé » à l’article 2 de la Loi).
+[14] Même si l’appelante avait obtenu l’approbation prévue au Règlement sur les produits de santé naturels lorsqu’elle a fabriqué les gels, la Loi n’accorde aucune exemption fondée sur ce motif. Elle vise à taxer les produits alcoolisés, mais accorde une exemption à l’utilisateur agréé d’alcool en vrac ainsi qu’à l’égard de l’alcool non acquitté destiné à être utilisé dans une préparation approuvée au sens de la Loi. Il appert clairement de la définition de « préparation approuvée » figurant à l’article 2 que l’approbation doit être accordée par le ministre.
+[15] Dans la présente affaire, l’appelante sollicite un allègement pour des raisons d’équité. La Cour n’a pas compétence pour accorder cet allègement. La Loi ne comporte aucune disposition accordant aux tribunaux le pouvoir de s’éloigner de l’application stricte de ses dispositions.
+[16] De plus, il n’est pas loisible à la Cour de déroger aux dispositions législatives pour des raisons d’équité (Chaya c. La Reine, 2004 CAF 327, 2004 DTC 6676, au paragraphe 4).
+[17] J’ajouterais que je ne suis pas convaincue que le manquement à la Loi commis par l’appelante n’est pas imputable à une négligence de sa part. Selon la preuve, l’approbation du ministre a été reçue dans un laps de temps relativement court après la présentation de la demande. En fait, dès que la vérificatrice a présenté la demande au chimiste principal, celui-ci lui a fait savoir que les présentations étaient [TRADUCTION] « supposément » approuvées le jour de leur réception, de sorte que l’alcool utilisé pour la production dès ce jour-là n’aurait pas été assujetti au droit (pièce R-3, page 6). Ce fait tend à montrer, à mon avis, que si l’appelante avait présenté la préparation dès le début et que M. Adatia avait coché la case « urgent » sur le formulaire (pièce R-2), le paiement de la totalité du droit aurait pu être évité.
+[18] En dernier lieu, seul le droit à payer sur l’alcool a été exigé de l’appelante. La situation aurait pu être plus difficile pour celle-ci si le ministre avait imposé une pénalité. Effectivement, selon l’alinéa 243(1)a) de la Loi, quiconque produit des spiritueux d’une manière qui contrevient à l’article 73 (ce qui est le cas en l’espèce) est passible d’une pénalité correspondant à 200 % des droits imposés sur les spiritueux. À mon avis, en échappant à cette pénalité, l’appelante a déjà bénéficié d’un allègement important.
+[19] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour de février 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 24e jour de mars 2014.
+C. Laroche
+RÉFÉRENCE : 2014 CCI 44
+N° DU DOSSIER DE LA COUR : 2013-1768(EA)I
+INTITULÉ : International Custom Pak Inc. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 6 janvier 2014
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 11 février 2014
+COMPARUTIONS :
+Représentant de l’appelante:
+M. Hanif Adatia
+Avocat de l’intimée :
+Me Shane Aikat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

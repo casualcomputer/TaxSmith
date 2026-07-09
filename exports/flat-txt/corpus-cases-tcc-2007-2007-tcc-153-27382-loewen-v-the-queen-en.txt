@@ -1,0 +1,66 @@
+Title: Loewen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27382/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-153-27382-loewen-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-15
+
+# Loewen v. The Queen
+
+- Citation: 2007 TCC 153
+- Decision date: 2007-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 139, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loewen v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-15
+Neutral citation
+2007 TCC 153
+File numbers
+2001-3839(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2007TCC153
+Date: 20070315
+Docket: 2001-3839(IT)G
+BETWEEN:
+CHARLES B. LOEWEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2003-446(IT)G
+AND BETWEEN:
+ANDREW PRINGLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2003-1073(IT)G
+AND BETWEEN:
+MICHAEL DE PENCIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+FURTHER ADDENDUM TO REASONS FOR ORDER
+Bowman, C.J.
+[1] In the addendum dated October 25, 2006 to my reasons dated September 8, 2006, I dealt with certain matters that were omitted from my reasons of September 8, 2006. In paragraph 4 of the addendum I stated:
+[4] With respect to question 126 of the Pringle discovery, that was a request to produce all written correspondence with Mr. Loewen with respect to the partnership venture. I do not think that any basis has been made out for refusing to produce this material on the ground of litigation privilege. If there is such correspondence and provided it does not contain any material that is subject to solicitor-client privilege, it should be produced. If counsel for the appellant wishes to assert solicitor-client privilege, they should communicate with the court to arrange to argue the point. Otherwise, paragraph 9(i) of the reasons should be amended to add a reference to the Pringle discovery, question 156.
+[2] A telephone conference was held and counsel for the appellants stated that she was asserting solicitor-client privilege in respect of a number of memoranda sent by the appellant, Charles B. Loewen to the AIRS II co-owners. She filed with the court in a sealed envelope containing a number of such memoranda dated March 21, 2002, April 29, 2002, May 21, 2002, May 27, 2002, December 9, 2004, February 15, 2005, August 11, 2005 and June 26, 2005.
+[3] Counsel for the appellants filed a lengthy brief of argument and authorities on the question of solicitor-client privilege. Counsel for the respondent wrote to the court and stated that although she opposed the position that the documents were protected by solicitor-client privilege, she was prepared to forego disclosure of them on the basis that they might be protected by litigation privilege. I make no determination on this point and therefore consider the matter closed. I hope that this marks the end of this pre-trial procedural saga and that the parties can get on with this litigation.
+[4] The documents contained in the sealed envelope will be returned by the court to counsel for the appellants without copies being made.
+[5] Counsel for the respondent asked for costs thrown away. There may be some merit in this position but in the circumstances I think it is best to leave the matter of costs to the trial judge.
+Signed at Ottawa, Canada, this 15th day of March 2007.
+"D.G.H. Bowman"
+Bowman C.J.

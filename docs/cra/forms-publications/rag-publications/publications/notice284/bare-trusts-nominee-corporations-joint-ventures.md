@@ -1,0 +1,52 @@
+---
+title: "Bare Trusts, Nominee Corporations and Joint Ventures"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice284/bare-trusts-nominee-corporations-joint-ventures.html
+last_modified: 2017-11-07
+---
+# Bare Trusts, Nominee Corporations and Joint Ventures
+
+GST/HST Notices - Notice 284 February 2014
+
+For GST/HST purposes, a joint venture is not a "person". Therefore, a joint venture cannot register and account for the GST/HST in its own right. However, section 273 of the *Excise Tax Act* provides for an election under which participants in certain joint ventures can elect for one participant that is a GST/HST registrant to be the "operator". Where a valid election is made, the operator accounts for the GST/HST collectible on taxable supplies made by the operator on behalf of the other participants. The operator also claims any input tax credits in relation to the expenses incurred by the operator on behalf of the other participants in respect of the joint venture activities.
+
+[GST/HST Policy Statement P-106, Administrative Definition of a "Participant" in a Joint Venture](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-106.html), states the CRA's administrative definition of "participant" for purposes of section 273. In order to be an operator of a joint venture for purposes of the election, a registrant must first be considered a participant in the joint venture. As stated in the policy statement a "participant" means:
+
+1. a person who, under a joint venture agreement evidenced in writing, makes an investment by contributing resources and takes a proportionate share of any revenue or incurs a proportionate share of the losses from the joint venture activities; or
+
+2. a person, without a financial interest, who is designated as the operator of the joint venture under an agreement in writing and is responsible for the managerial or operational control of the joint venture.
+
+For a person to be considered to have managerial or operational control of a joint venture the person must have the authority to manage the joint venture's daily activities without requiring the input or approval of the other participants. Evidence of a person having the necessary managerial or operational control may include having the authority to engage personnel or contractors on behalf of the joint venture. Where the person does not engage staff to perform any of the operator's duties, it is doubtful that the person would be considered to have the managerial or operational control of the joint venture. Additionally, the person would not be considered to have the managerial or operational control of a joint venture merely as a result of completing the GST/HST returns in respect of the joint venture's activities.
+
+However, managerial or operational control does not necessarily require authority to initiate significant business decisions such as the acquisition of, or selling of, certain core business assets. It can be limited to the daily functions necessary to run a business but must include all or at least most of the significant duties necessary to run the joint venture. If a person has no independent powers, discretion or responsibilities and its primary responsibility is to hold title to the property for the benefit of the other participants and carry out limited functions solely at the direction of the participants, the person would not be considered to have the managerial or operational control of the joint venture and thus would not be considered to be a participant in the joint venture.
+
+For purposes of the section 273 joint venture election, a "bare trust" which is a bare trust at law cannot be considered the operator of a joint venture. A bare trust at law merely retains legal title to assets with the beneficial owner(s) retaining beneficial ownership and authority for any other actions in relation to the assets. A nominee corporation may be the trustee of a bare trust. Further information on the nature of bare trusts and the GST/HST is outlined in [GST/HST Technical Information Bulletin B-068, Bare Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-068.html).
+
+Generally, a nominee corporation provides the use of its name to the beneficial owners of the assets. Nominee corporations are also generally characterized as shells which do not perform activities other than holding assets on behalf of beneficial owners. All other functions performed by the nominee corporation are at the direction and control of the beneficial owners.
+
+Where the only function of a nominee corporation is to hold title to a joint venture's assets and have its name used instead of the names of the participants in the joint venture's dealings with third parties, the nominee corporation does not qualify as a participant for purposes of the joint venture election.
+
+The terms "nominee corporation" and "bare trust" may be used somewhat loosely by businesses. As a result, a so called nominee corporation or so-called bare trust may in fact have the managerial or operational control of a joint venture. Where this is the case, the so-called nominee corporation or bare trust may be a participant in the joint venture for GST/HST purposes. Whether a person has the managerial or operational control of a joint venture is a question of fact which is determined through a full examination of the duties performed and the relevant agreements.
+
+## Temporary administrative tolerance
+
+In some cases, participants in joint ventures have made an election under section 273 for a nominee corporation or bare trust to be the operator of the joint venture where the nominee corporation or bare trust does not have the managerial or operational control and is not considered to be a participant in accordance with the policy statement. Auditors have been advised not to assess for any GST/HST owing where an assessment could be raised because the bare trust or nominee corporation is not a participant for purposes of section 273. This administrative tolerance is contingent upon confirmation that all returns have been filed, all amounts have been remitted and the joint venture participants are otherwise fully compliant. Further, this administrative tolerance is in place with the understanding that, on a going forward basis, the joint venture will arrange its affairs to ensure that a participant, as defined in GST/HST Policy Statement P-106, who is a GST/HST registrant, is the operator of the joint venture.
+
+This administrative tolerance is available for reporting periods ending before January 1, 2015.
+
+## Agency
+
+A trustee of a bare trust, for example, a nominee corporation, may act as an agent of the participants in a joint venture by performing certain activities on their behalf. Where an agency relationship exists between the nominee corporation and the participants in a joint venture, the nominee corporation may be engaged in a commercial activity and as such may be required or permitted to register for GST/HST purposes.
+
+Generally, an agent is considered to be an extension of the principal and makes or acquires supplies on behalf of the principal who for GST/HST purposes is considered to have made or acquired the supplies. Therefore, it is the principal that is generally required to charge and account for the tax on the supplies made by the agent on behalf of the principal. In addition, it is the principal who is entitled to claim any input tax credits on the supplies acquired by the agent on behalf of the principal.
+
+Under subsection 177(1.1) of the *Excise Tax Act*, a principal and an agent can jointly elect to allow the agent to account for the tax on supplies made by the agent on behalf of the principal. Where a nominee corporation is a GST/HST registrant that makes taxable supplies as agent on behalf of the participants in a joint venture, the nominee corporation and the participants may jointly elect under subsection 177(1.1) to have the nominee corporation account for the tax on the supplies it makes on behalf of the participants.
+
+However, the election under subsection 177(1.1) does not result in the agent assuming any rights with respect to input tax credits to which the principal may be entitled to claim. Consequently, even where a nominee corporation acts as agent in acquiring supplies on behalf of the participants in a joint venture, the nominee corporation is not entitled to claim any input tax credits that the participants may be eligible to claim with respect to such supplies.
+
+A nominee corporation is an agent with respect to a particular transaction if the nominee corporation is an agent based on a determination of fact and an application of the principles of law. It is also a question of fact whether a nominee corporation is required to register for GST/HST purposes or whether it may register voluntarily. If the nominee corporation is an agent and makes taxable supplies of its services of acting as an agent to the participants in a joint venture, the nominee corporation may register voluntarily if it is not required to register.
+
+## Enquiries by telephone
+
+**Technical enquiries on the GST/HST:** 1-800-959-8287**General enquiries on the GST/HST:** 1-800-959-5525 (Business Enquiries)**If you are located in Quebec:** 1-800-567-4692 (Revenu Québec)
+
+All technical publications on GST/HST are available on the CRA website at [www.cra.gc.ca/gsthsttech](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html).

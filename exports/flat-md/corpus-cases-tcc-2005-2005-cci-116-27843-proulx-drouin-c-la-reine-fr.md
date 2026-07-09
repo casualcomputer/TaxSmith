@@ -1,0 +1,199 @@
+---
+title: "Proulx-Drouin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27843/index.do"
+last_modified: "2005-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 116"
+citation2: ""
+neutral_citation: "2005 CCI 116"
+decision_date: "2005-03-14"
+language: "fr"
+item_id: "27843"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 383
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:07:08.717000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "185ed7e21c4ac12235a60c99870ce9a521ee41f1b051b848ac99875ae2e826ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Proulx-Drouin c. La Reine
+
+- Citation: 2005 CCI 116
+- Decision date: 2005-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 383, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Proulx-Drouin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-14
+Référence neutre
+2005 CCI 116
+Numéro de dossier
+2003-3523(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3523(IT)G
+ENTRE :
+Marlene Proulx-Drouin,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 6 décembre 2004 à Montréal (Québec).
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Avocat de l’appelante :
+Me Bruno Bernier
+Avocate de l’intimée :
+Me Anne Poirier
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 1997 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de mars 2005.
+"Gerald J. Rip"
+Rip J.
+Référence : 2005CCI116
+Date : 20050314
+Dossier : 2003-3523(IT)G
+ENTRE :
+Marlene Proulx-Drouin,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+[1] Marlene Proulx-Drouin a interjeté appel de la cotisation fiscale établie à son endroit relativement à son année d’imposition 1997 et dans laquelle on lui a refusé la déduction, qu'elle avait demandée, d'une perte déductible au titre d’un placement d’entreprise (« PDTPE »).
+[2] Mme Proulx-Drouin est l’épouse de Jean Drouin. M. Drouin exerçait des activités commerciales dans le domaine de la construction par le truchement de diverses sociétés. Il était l’unique actionnaire et administrateur de 139093 Canada Inc. (la « Société »), société constituée pour exploiter une entreprise à titre d’entrepreneur général et pour construire un immeuble commercial sur la route transcanadienne à Ville St‑Laurent (Québec) (ci‑après l’« immeuble de la route transcanadienne » ou la « propriété de la route transcanadienne »).
+[3] Brièvement, les faits en l’espèce sont les suivants. La Société était en difficulté financière et, afin d’augmenter sa marge de crédit auprès de son banquier, M. Drouin s’est porté garant, en faveur de la Banque Nationale du Canada (la « BNC »), du paiement de la marge de crédit de la Société jusqu’à concurrence d’une somme de 570 000 $ plus les intérêts et les frais. Pour aider son époux et la Société, Mme Proulx‑Drouin est également devenue garante envers la BNC en consentant une hypothèque sur la résidence familiale dont elle était propriétaire. Or, la BNC a fini par vendre la résidence familiale et l’appelante a perdu une importante somme d’argent.
+Faits
+[4] M. Drouin et son épouse avaient des intérêts dans d’autres sociétés. L’appelante a mentionné ces sociétés pour tenter d’établir qu’elle avait intérêt, du point de vue pécuniaire ou du point de vue du revenu, à garantir la marge de crédit de la Société. La société 143466 Canada Inc. (« 143466 ») est une société dont les actionnaires sont membres de la famille Drouin; il semble que Mme Proulx‑Drouin détenait 25 pour 100 des actions de 143466, que M. Drouin en détenait 50 pour 100, et leur fils, 25 pour 100. La société 143795 Canada Inc. (« 143795 ») a été constituée pour être — et elle était effectivement — propriétaire de l’immeuble de la route transcanadienne. La société 143466 était initialement propriétaire de 25 pour 100 des actions de 143795. La Société ne détenait aucune action de 143795 et 143795 ne détenait aucune action de la Société.
+[5] L’immeuble de la route transcanadienne avait à l'origine une superficie de 25 000 pieds carrés à louer, dont une partie était louée à d’autres actionnaires de 143795[1]. Quelques années suivant la fin de la construction de l’immeuble, un des locataires a eu besoin de 10 000 pieds carrés additionnels et les propriétaires de l’immeuble ont consenti à agrandir celui‑ci. La Société a agi comme entrepreneur général pour les travaux d'agrandissement. À cette époque, en juin 1987, un des actionnaires de 143795 a vendu sa participation de 35 pour 100 et la participation de 143466 dans 143795 est passée à 38,46 pour 100.
+[6] Malheureusement, le locataire ayant demandé l’espace additionnel a fait faillite et 143795 s’est retrouvée avec 14 000 pieds carrés d’espace inoccupé. La faillite ainsi que l’augmentation des coûts de construction et la difficulté d’obtenir des loyers ont causé des problèmes financiers à 143795. M. Drouin a affirmé qu’il y avait un grand nombre de créances. La société 143795 ne payait pas la Société pour la construction de l’agrandissement. En février 1990, un autre actionnaire s’est vu forcé de vendre sa participation dans 143795 et la participation de 143466 dans 143795 est passée à 50 pour 100 des actions émises.
+[7] Cela a amené la situation dont il s'agit en l'espèce. La Société avait besoin de fonds pour poursuivre ses activités et en particulier pour entretenir l’immeuble de la route transcanadienne et pour payer les sous‑traitants qui faisaient les travaux d'agrandissement et qui ont enregistré des privilèges à l’égard de l’immeuble pour cause de défaut de paiement. La banque de la Société a exigé des garanties comme condition du maintien de la marge de crédit de cette dernière. En 1990, M. Drouin a personnellement garanti le paiement de la marge de crédit de 570 000 $ accordée à la Société. Le 23 avril 1990, Mme Proulx‑Drouin a accepté de fournir une garantie additionnelle de 470 000 $ à la BNC relativement à la marge de crédit de la Société et elle a consenti à la banque une hypothèque de 470 000 $ sur la résidence familiale. Par un acte daté du 12 février 1991, Mme Proulx‑Drouin a augmenté à 570 000 $ le montant de la garantie et de l’hypothèque accordées à la banque.
+[8] Dans son avis d’appel, Mme Proulx-Drouin dit qu’elle a consenti à garantir la marge de crédit de la Société pour les raisons suivantes :
+a) elle croyait détenir une participation de 12,5 pour 100 dans l’immeuble de la route transcanadienne;
+b) elle estimait que les difficultés liées à l’immeuble de la route transcanadienne n’étaient que temporaires et que celui‑ci pouvait être rentable;
+c) la Société avait financé les travaux de rénovation d’un autre immeuble (l’« immeuble Bélanger »), dans lequel elle détenait une part de 8,33 pour 100;
+d) son époux avait promis de lui céder un tiers des actions de la société Lapidia Inc. (« Lapidia ») qu’il détenait si la situation financière du projet de la route transcanadienne ne s’améliorait pas rapidement; la part de Mme Proulx-Drouin dans l’immeuble Bélanger serait ainsi passée de 8,33 pour 100 à 41,33 pour 100.
+[9] L’immeuble Bélanger est situé sur la rue Bélanger, à Montréal. L’immeuble appartenait à Lapidia. Les actions de Lapidia étaient divisées en parts égales d'un tiers entre M. Drouin, un frère de Mme Proulx‑Drouin et Avolyn Corporation, dans laquelle Mme Proulx‑Drouin avait une participation de 25 pour 100. Ce n’est qu’en octobre 1990 que M. Drouin a cédé ses actions de Lapidia à Mme Proulx‑Drouin. Celle-ci n’était pas actionnaire de Lapidia lorsqu’elle a fourni la garantie relative à la marge de crédit le 23 avril 1990.
+[10] Ni 143795, ni Lapidia, ni Avolyn ne détenait des actions de la Société.
+[11] En 1996, la Société était en défaut relativement à son emprunt à la BNC. Le 29 février 1996, en application des articles 2757 et 2758 du Code civil du Québec, la BNC a signifié à Mme Proulx‑Drouin un préavis selon lequel elle exerçait les droits que lui conférait l’acte d’hypothèque; la BNC a déposé le préavis au greffe de la Cour supérieure le 5 mars 1996. La BNC a informé Mme Proulx‑Drouin qu’elle entendait exercer ses droits hypothécaires et saisir la résidence familiale si, dans les 60 jours suivant la date de la production du préavis, Mme Proulx‑Drouin ne se prévalait pas des droits que lui conférait l’article 2761 du Code civil en payant à la banque la somme due ainsi que les frais engagés. Mme Proulx‑Drouin n’a effectué aucun paiement et n’a pas contesté les mesures prises par la BNC.
+[12] Le 8 juillet 1996, la Cour supérieure du Québec a rendu en faveur de la BNC un jugement ordonnant à Mme Proulx‑Drouin de quitter la résidence au bénéfice de la BNC. La banque a été déclarée propriétaire de la résidence familiale à compter du 5 mars 1996. La BNC a vendu la propriété en août 1996 pour une somme de 455 000 $, qu’elle a appliquée au remboursement de la dette de la Société. La perte de l’appelante liée à la garantie s’élevait à 469 356 $, à savoir 455 000 $ au titre de la dette et 14 356 $ au titre des frais juridiques engagés par la BNC. Elle demande la déduction de 75 pour 100 de cette somme à titre de PDTPE.
+[13] Selon les « Données sur les sociétés fédérales accès en direct » d’Industrie Canada, le directeur nommé en vertu de la Loi canadienne sur les sociétés par actions (« LCSA ») a donné avis, le 5 mai 1991, que la Société risquait d'être dissoute et, le 5 mai 1996, elle l'a effectivement été, en vertu de l’article 212 de la LCSA, pour omission de produire les déclarations annuelles. Il n'y a aucune preuve que Mme Proulx‑Drouin, en sa qualité de créancière de la Société, ou M. Drouin, en sa qualité d’actionnaire, a tenté d’obtenir la reconstitution de la société en vertu de l’article 209 de la LCSA. En outre, les documents présentés à l’audience confirment que, le 22 décembre 1997, la Société a produit une proposition concordataire; Mme Proulx‑Drouin ne figurait pas sur la liste des créanciers de la Société.
+[14] (À la fin des années 1990, Mme Proulx-Drouin souffrait d’un cancer. Naturellement, il lui importait beaucoup plus de tenter de survivre à sa maladie et de faire tout ce qu’elle pouvait pour arriver à cette fin que de donner de l'attention à des questions financières. Ce n’est donc qu’au moment de demander, en 2001, le redressement de sa déclaration de revenus de 1997 qu’elle a réclamé la déduction d'une PDTPE, mais son année d'imposition 1996 était alors frappée de prescription. Également en 2001, elle a produit, à titre de créancière de la Société, une réclamation de 455 000 $ auprès du syndic de faillite de la Société.)
+[15] Selon ses états financiers pour l’année se terminant le 31 décembre 1995, la Société n’avait absolument aucun revenu. En 1994, elle avait réalisé un revenu brut de 111 654 $. Les dépenses engagées en 1995 totalisaient 89 646 $ et comprenaient des frais d’administration de 14 000 $, des frais de déplacement de 1 469 $, des frais d’assurance, de taxes et de permis de 2 176 $, des frais de bureau de 139 $, des frais bancaires de 55 960 $ et une perte résultant de la disposition d’immobilisations de 15 402 $. À titre de comparaison, les dépenses totales en 1994 s’élevaient à 122 468 $. Les états financiers tant de 1994 que de 1995 sont datés du 28 août 1996. Les déclarations de revenus fédérales pour 1994 et pour 1995 ont été signées par M. Drouin, mais ne sont pas datées; il semble, selon des copies des déclarations de revenus, qu’elles n’aient été produites que le 18 et le 26 novembre 1996 respectivement.
+[16] La Société n’a fait ni produit aucun état financier ni aucune déclaration de revenus pour les années postérieures à 1995, même si, au dire de M. Drouin, la Société a continué à exercer ses fonctions de gestion après 1995. M. Drouin a expliqué que Lapidia payait à la Société des frais d’administration pour des services qui lui étaient rendus. Il a présenté une copie d’un chèque daté du 4 janvier 1995 établi par Lapidia au profit de la Société ainsi qu’une liasse de copies de chèques portant des dates s'échelonnant sur toute l'année 1995, établis par Lapidia et payables à lui‑même. Le chèque de 9 000 $ payable à la Société et les chèques totalisant 45 500 $ payables à M. Drouin ont été déposés dans le compte de la Société à la BNC. D’autres chèques, totalisant 44 500 $, bien que payables à M. Drouin et endossés par ce dernier, étaient également endossés par Mme Proulx‑Drouin et, apparemment, ont été déposés dans le compte bancaire de celle‑ci. M. Drouin a en outre témoigné qu’en 1996 Lapidia avait fait des chèques payables à lui pour des services rendus par la Société; ces chèques, totalisant 81 800 $, ont été déposés dans le compte bancaire de l’appelante. Lapidia a aussi fait au moins deux chèques en 1997 payables à la Société, lesquels ont été déposés dans le nouveau compte bancaire de la Société à la Banque Toronto‑Dominion. Selon M. Drouin, la raison pour laquelle les chèques n’avaient pas été déposés dans le compte de la Société à la BNC était que cette dernière menaçait de saisir les fonds et il voulait protéger les revenus de la Société.
+[17] M. Drouin n’a pu expliquer pourquoi la Société a omis de produire des déclarations de revenus pour ses années d’imposition postérieures à 1995, même si, affirmait-il avec insistance, elle a exploité une entreprise et gagné des revenus après 1995. On n'a présenté aucun élément de preuve susceptible d’expliquer pourquoi les montants des chèques n’ont pas été ajoutés au revenu de la Société dans ses états financiers et sa déclaration de revenus pour 1995.
+Arguments et analyse
+[18] L’appelante déclare qu’elle a droit à la déduction d'une PDTPE relativement à la garantie qu’elle a fournie parce que toutes les conditions énoncées à l’alinéa 39(1)c), aux paragraphes 39(12) et 50(1) et au sous‑alinéa 40(2)g)(ii) de la Loi ont été remplies, à savoir :
+i) une créance qu'elle avait sur la Société à la fin de 1997 s’est révélée être en 1997 une créance irrécouvrable (paragraphe 50(1));
+ii) la Société était une société privée sous contrôle canadien exploitant une petite entreprise à tous les moments pertinents (alinéa 39(1)c) et paragraphe 39(12));
+iii) elle a fourni la garantie à la BNC en vue de gagner un revenu (sous‑alinéa 40(2)g)(ii)).
+Existait-il une créance irrécouvrable?
+[19] L’appelante affirme que sa créance sur la Société s’est révélée être en 1997 une créance irrécouvrable. Selon son avocat, Mme Proulx‑Drouin savait que la Société fournissait des services de gestion pendant les années 1995, 1996 et 1997. Elle était actionnaire de Lapidia et savait que cette dernière payait la Société pour des services rendus. M. Drouin a témoigné que la Société rendait également des services en ce qui a trait à l’immeuble Bélanger appartenant à Lapidia, et qu’en 1995 et 1996 la Société était payée pour ces services, même si les chèques faits par Lapidia étaient payables à M. Drouin.
+[20] L’avocat de l’appelante a fait valoir que ce n’est pas à tort que Mme Proulx‑Drouin a attendu jusqu’en 1997 pour constater que sa créance sur la Société était irrécouvrable. C’est le créancier qui est pleinement au courant des faits relatifs à sa créance, et c'est peut-être le débiteur qui est le mieux placé pour déterminer quand la créance est devenue irrécouvrable[2]. Comme elle croyait que la Société fournissait toujours des services en 1996, elle estimait que la créance était recouvrable, malgré les mesures prises par la banque.
+[21] Selon la thèse de l’intimée, la créance s’est révélée irrécouvrable avant 1997. La Société n’exploitait plus une entreprise après 1995 et l’actif, quel qu’il soit, qu’elle possédait après 1995 était insuffisant pour payer la dette. L’intimée n’est manifestement pas d’accord pour dire que M. Drouin a reçu des chèques au bénéfice de la Société.
+[22] Il ressort clairement de ses états financiers pour 1995 que la Société n’avait pas d’actif suffisant pour rembourser l'emprunt à la BNC. L’actif total figurant au bilan de la Société au 31 décembre 1995 se chiffrait à 31 580 $ tandis que le passif totalisait 676 085 $. En fait, la Société n’aurait pu rembourser la dette à la fin de son exercice 1994 puisque son passif excédait de 560 829 $ son actif. La BNC a apparemment jugé que la créance était irrécouvrable en 1995; il n'y a aucune preuve qui permet de croire que la situation financière de la Société s’était améliorée lorsque Mme Proulx‑Drouin a été subrogée dans les droits de la banque.
+[23] Je conviens que le créancier est habituellement celui qui est pleinement au courant des faits relatifs à sa créance et que c'est peut-être le débiteur qui est le mieux placé pour déterminer si et quand une créance est devenue irrécouvrable. Cependant, pour en arriver à une telle conclusion, le créancier doit prendre en compte divers facteurs, comme l'indique le juge Rothstein de la Cour d’appel fédérale dans l’arrêt Rich c. Canada[3], dont les suivants :
+1. l’historique et l’âge de la créance;
+2. la situation financière du débiteur, ses revenus et ses dépenses, gagne‑t‑il un revenu ou essuie‑t‑il des pertes?, sa trésorerie et son actif, son passif et les liquidités dont il dispose;
+3. l’évolution du chiffre d’affaires total par rapport aux années antérieures;
+4. l’encaisse, les comptes clients et autres disponibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+5. les comptes fournisseurs et autres exigibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+6. les conditions économiques générales ayant cours dans le pays, parmi l’ensemble des débiteurs et dans la branche d’activités du débiteur; et
+7. l’expérience antérieure du contribuable en matière de radiation de créances irrécouvrables.
+Cette liste n’est pas exhaustive et, comme l’a signalé le juge Rothstein, selon les circonstances, un facteur ou un autre pourra prendre une importance accrue. Dans l’appel dont je suis saisi, l’appelante n’a pas pris en compte les facteurs 2, 3, 4, 5 et 6 susmentionnés. Or, il s’agit là, à mon sens, de facteurs importants qui sont révélateurs de la situation financière de la Société à cette époque.
+[24] De plus, j'en arrive à me demander si les chèques déposés dans le compte bancaire de la Société en 1995 constituaient des paiements pour des services rendus par celle-ci. Comme je l’explique plus loin, la Société n’a exploité aucune entreprise après 1994; elle n’avait aucune attente de revenu et la réalisation de son actif ne pouvait suffire à rembourser la dette. La créance était irrécouvrable depuis le moment où l’appelante a été subrogée dans les droits de la BNC et est devenue créancière de la Société.
+S’agissait‑il d’une société exploitant une petite entreprise au moment où le montant est devenu payable pour la première fois?
+[25] L’alinéa 39(1)c) de la Loi précise comment se calcule le montant d’une perte au titre d’un placement d’entreprise subie par un contribuable par suite de la disposition d’un bien quelconque. En ce qui concerne les cas où une garantie est donnée, le paragraphe 39(12) ajoute :
+Pour l’application de l’alinéa (1)c), dans le cas où, aux termes d’une entente de garantie de dette, un contribuable paie à une personne avec laquelle il n’a aucun lien de dépendance un montant au titre de la dette d’une société qui est une société exploitant une petite entreprise au moment où la dette est contractée et à un moment donné au cours des 12 mois précédant le moment où un montant devient payable pour la première fois par le contribuable aux termes de l’entente au titre d’une dette de la société, la partie du montant que la société doit au contribuable est réputée être une créance de celui‑ci sur une société exploitant une petite entreprise.
+For the purpose of paragraph (1)(c), where
+(a) an amount was paid by a taxpayer in respect of a debt of a corporation under an arrangement under which the taxpayer guaranteed the debt,
+(b) the amount was paid to a person with whom the taxpayer was dealing at arm's length, and
+(c) the corporation was a small business corporation
+(i) at the time the debt was incurred, and
+(ii) at any time in the 12 months before the time an amount first became payable by the taxpayer under the arrangement in respect of a debt of the corporation,
+that part of the amount that is owing to the taxpayer by the corporation shall be deemed to be a debt owing to the taxpayer by a small business corporation.
+[26] Les parties ne s’entendent pas sur le moment où, pour l’application du paragraphe 39(12), le « montant [est devenu] payable pour la première fois » par Mme Proulx‑Drouin. L’appelante affirme que le montant est devenu payable par elle pour la première fois le 5 mars 1996, lorsque la BNC a produit au greffe de la Cour supérieure le préavis qu’elle avait signifié à l’appelante pour l’informer qu’elle entendait exercer ses droits hypothécaires[4]. L’appelante invoque les motifs du jugement rédigés dans l'affaire Aylward, succession c. Canada[5], dans laquelle on a conclu que le moment où un montant était devenu payable pour la première fois par le garant en vertu de la garantie correspondait à la date où des lettres exigeant que le créancier soit payé ont été adressées au garant.
+[27] L’avocat de l’appelante a soutenu que, pendant les douze mois précédant le 5 mars 1996, la Société était en tout temps une société exploitant une petite entreprise. L’expression « société exploitant une petite entreprise » est, pour les besoins du présent appel, définie au paragraphe 248(1) de la Loi comme une « société privée sous contrôle canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d’actif est attribuable, à un moment donné, à des éléments qui sont […] utilisés principalement dans une entreprise que la société […] exploite activement principalement au Canada […] Pour l’application de l’alinéa 39(1)c), est une société exploitant une petite entreprise la société qui était une telle société à un moment de la période de douze mois précédant le moment donné […] ».
+[28] Suivant le paragraphe 248(1), l’expression « entreprise exploitée activement » s’entend de toute entreprise exploitée par un contribuable autre qu’une entreprise de placement déterminée ou une entreprise de prestation de services personnels.
+[29] L’avocate de l’intimée soutient que le moment où le montant est devenu payable pour la première fois par l’appelante est celui où la Cour supérieure a rendu son jugement, soit le 8 juillet 1996. Elle s’appuie sur la décision Armstrong c. Canada[6], dans laquelle le juge a calculé la période de douze mois à partir de la date de paiement. L’avocate a expliqué que si cette période de douze mois est prévue au paragraphe 39(12), c'est parce qu’il n’est pas inhabituel qu'une société débitrice cesse d’exploiter son entreprise lorsqu'un créancier demande paiement au garant en vertu de sa garantie. On demande habituellement au garant de payer parce que le débiteur ne le peut. La période de douze mois permet de se prévaloir des dispositions relatives à la perte au titre d’un placement d’entreprise même si le débiteur a cessé d’exploiter activement son entreprise.
+[30] Je suis d’accord avec l’avocat de l’appelante. En l’espèce, la somme à payer en vertu de la garantie est devenue payable pour la première fois par l’appelante lorsque le délai de 60 jours mentionné dans le préavis signifié à la garante a commencé à courir, soit le 5 mars 1996. Dans l'affaire Armstrong, le juge ne s’est pas demandé quand la somme faisant l'objet de la garantie était devenue payable pour la première fois; il a conclu, à la lumière des faits de l'appel, que le montant était devenu payable au moment de son paiement. La décision Armstrong n’aide pas l’intimée.
+[31] Se pose donc maintenant la question de savoir si la Société exploitait une entreprise après le 5 mars 1995 et s’il s’agissait d’une société exploitant une petite entreprise. Il n’est pas contesté que la Société était une société exploitant une petite entreprise en 1990 et en 1991, lorsque Mme Proulx‑Drouin a fourni ses garanties. La preuve permet de penser que la Société n’exploitait plus son entreprise en 1995.
+[32] Je ne suis pas convaincu que les chèques émis par Lapidia à l'ordre de M. Drouin au cours de 1995 et des années subséquentes représentaient la contrepartie de services rendus par la Société, même si plusieurs d’entre eux ont pu être déposés dans l’un des comptes bancaires de la Société ou dans les deux. La Société n’a indiqué absolument aucun revenu dans ses états financiers de 1995. Elle n’a pas déclaré de revenus pour 1995 aux fins fiscales. Aucun élément de preuve objectif n’établit que la Société exploitait une entreprise après 1995. Le dépôt de chèques dans un compte bancaire ne constitue pas une preuve de l’exploitation d’une entreprise, en particulier lorsque le tireur du chèque, le bénéficiaire du chèque et le titulaire du compte dans lequel le chèque est déposé ont entre eux un lien de dépendance. S’ajoutent à cela le fait que les états financiers et la déclaration de revenus de la Société pour 1995 ne révèlent aucun revenu brut ou autre revenu et le fait qu’aucune déclaration de revenus n’a été produite pour une année d'imposition postérieure à 1995. L'existence de dépenses en 1995 n'est pas une indication que la Société continuait à exploiter une entreprise. Les états financiers de la Société pour 1994 et 1995 sont datés du 28 août 1996. Les dirigeants de l’entreprise n’avaient apparemment pas estimé urgent d’établir les états financiers plus tôt. Je déduis de l’absence de preuve montrant l’exploitation d’une entreprise quelconque par la Société en 1995, du retard à établir les états financiers de 1994 et de 1995 ainsi que du contenu des états financiers et de la déclaration de revenus pour 1995 que la Société n’exploitait plus une entreprise en 1995.
+« En vue de tirer un revenu [...] d'une entreprise ou d'un bien »
+[33] Pour obtenir gain de cause, l’appelante doit également prouver qu’elle a acquis la créance sur la Société en vue de tirer un revenu d’une entreprise ou d’un bien. Selon l’avocat de l’appelante, cette dernière, lorsque sa maison a été vendue en août 1996, a remboursé la dette de la Société envers la BNC et a été subrogée dans les droits de la banque. J’en conviens.
+[34] L’avocat de l’appelante a en outre fait valoir que celle‑ci avait donné la garantie en vue d'obtenir un revenu. Elle aurait gagné un revenu de dividendes résultant des loyers perçus une fois que l’immeuble de la route transcanadienne serait loué et que les sociétés 143795 et 143466 paieraient des dividendes : 143795 en paierait à 143466, qui à son tour en paierait à l’appelante. L’avocat a aussi soutenu que la promesse faite en 1990 par l’époux de l’appelante de céder à celle-ci sa participation d'un tiers dans Lapidia constituait une contrepartie de valeur donnée à l’appelante pour avoir consenti à fournir la garantie et représentait une éventuelle source de revenu.
+[35] L’avocat de l’appelante a affirmé que Mme Proulx‑Drouin voulait que la Société termine les travaux en cours à l’immeuble de la route transcanadienne parce qu’elle connaissait l’entreprise et la personne qui en était l'âme, soit son mari. L’immeuble de la route transcanadienne était la propriété de 143795; une fois l’immeuble loué, 143795 gagnerait des revenus de location et serait en mesure de verser des dividendes à ses actionnaires. Le 17 février 1991, 143466 détenait 50 pour 100 des actions de 143795[7]. Et, comme Mme Proulx‑Drouin était propriétaire de 25 pour 100 des actions de 143466, elle aurait droit aux dividendes déclarés par 143466 du fait d'avoir reçu un revenu de dividendes de 143795.
+[36] Levant le voile de la personnalité juridique de 143466, l’avocat de l’appelante a affirmé que sa cliente détenait une participation de 12,5 pour 100 dans 143795. Il a ensuite levé le voile de la personnalité juridique de 143795 pour conclure que sa cliente avait une participation indivise dans la propriété de la route transcanadienne. L’avocat de l’appelante a donc conclu que Mme Proulx‑Drouin a garanti la marge de crédit de la Société en vue de gagner un revenu.
+[37] Il est vrai qu’une fois l’immeuble de la route transcanadienne construit et loué, 143795 aurait touché des revenus de location et elle aurait peut-être été en mesure de s’en servir pour payer des dividendes à 143466, qui, à son tour, aurait pu utiliser ces dividendes pour en payer à ses actionnaires, dont Mme Proulx‑Drouin.
+[38] Le moment auquel il convient de se placer pour déterminer si c'est en vue de gagner un revenu qu'un contribuable a consenti une garantie est celui où il a donné la garantie. Dans la décision Cadillac Fairview Corp. Limited c. Canada[8], le juge Bowman (tel était alors son titre), explique :
+Dans de nombreux cas, si un garant doit suppléer un manque en vertu d’une garantie, c’est parce que le débiteur initial est incapable d’honorer l’obligation. Il s’ensuit que le droit de subrogation du garant contre le débiteur initial est, au moment de l’acquisition, susceptible d’être sans valeur ou pratiquement sans valeur dans bien des cas. Une interprétation mécanique étroite du sous‑alinéa 40(2)g)(ii) amènerait à conclure qu’au moment du paiement de la somme garantie, la créance sans valeur que le garant a acquise par subrogation ne saurait avoir été acquise en vue de tirer un revenu d’une entreprise ou d’un bien. Une telle interprétation manque à mon avis de bon sens commercial. Une interprétation fonctionnelle plus réaliste d’un point de vue commercial subsumerait l’objet de l’acquisition de la créance par voie de subrogation sous l’objet pour lequel la garantie avait initialement été donnée.
+[39] Pour que s'applique l’exception énoncée au sous‑alinéa 40(2)g)(ii), il n’est pas nécessaire que la garantie ait été donnée uniquement, ni même principalement, en vue de gagner un revenu, pourvu que ce soit là l’un des objets visés[9].
+[40] Je suis certain qu’au moment où Mme Proulx‑Drouin a signé la garantie en faveur de la BNC, la fin qu’elle poursuivait tenait davantage au fait que son mari était l’actionnaire de la Société qu’à toute autre circonstance. Comme j’ai tenté de l’expliquer dans la décision Elliott v. The Queen[10], il est normal pour un conjoint de garantir la dette d’une société dont les actions sont détenues par l’autre conjoint. Les garanties de ce genre sont données en vue de gagner un revenu pour la famille, sinon pour le garant. L’appelante a aussi dit qu’elle préférait que les travaux à l’immeuble de la route transcanadienne soient terminés par la Société plutôt que par un entrepreneur qu’elle ne connaissait pas. Malgré ces objets, si l’appelante a également donné la garantie en vue de gagner un revenu, cela suffirait aux fins de l’application du sous‑alinéa 40(2)g)(ii).
+[41] Le problème qui se pose dans le présent appel est évoqué par le juge McDonald de la Cour d’appel fédérale dans l’arrêt Byram c. Canada[11] :
+[23] Dans les cas où le contribuable ne possède pas de capital‑actions de la société débitrice, mais est actionnaire de la société mère ou d’une autre société actionnaire de la société débitrice, il n’a pas le droit de recevoir un revenu de dividendes directement de la société débitrice. Règle générale, la preuve de l’existence d’un lien suffisant entre le contribuable et le revenu de dividendes sera beaucoup plus difficile à faire. La question de savoir s’il existe un lien suffisant entre le contribuable et les gains éventuels de la société débitrice est tranchée au cas par cas, en fonction des faits propres à l’affaire.
+[42] Il n’y a pas de lien direct entre la garantie consentie par l’appelante et l'objet qu'elle prétend avoir visé, soit gagner un revenu par suite de cette garantie. L’appelante n’est pas actionnaire de la Société ni d’aucune société détenant des actions de celle‑ci. L’avocat de l’appelante a tenté de montrer que cette dernière était un propriétaire de l’immeuble de la route transcanadienne et de l’immeuble Bélanger, de façon à la rapprocher de la Société (quoi qu’il en soit, elle n'avait pas d'intérêts dans Lapidia au moment de donner la garantie). Pour ce faire, évidemment, il a dû lever le voile de la personnalité juridique de deux sociétés relativement à chacun des deux immeubles. Cela n'a fait que souligner le très faible lien entre l’appelante et les deux immeubles — sans parler de la Société — et l’abîme qui sépare la Société et elle.
+[43] Je ne suis pas convaincu qu’il existe entre l’appelante et la Société un lien suffisant pour qu'on puisse raisonnablement conclure, qu’elle a garanti la dette de la Société envers la BNC en vue de gagner un revenu. Cependant, cette conclusion n’est pas nécessairement fatale à l’appelante.
+[44] Dès lors qu’il est subrogé dans les droits du créancier, le garant devient créancier du débiteur principal. Une fois que la banque a exercé les droits hypothécaires que lui conférait la garantie de l’appelante, la garantie s’est éteinte et il ne restait plus qu’une créance de l’appelante sur la Société. On pourrait prétendre que la créance que l’appelante a ainsi acquise de la banque, même si c’est par effet du droit, a été acquise en vue de gagner un revenu, ce revenu étant l'intérêt, au taux fixé, que la Société était obligée de payer à la banque. À mon sens, cela serait suffisant pour satisfaire à l’exigence énoncée au sous‑alinéa 40(2)g)(ii). Au moment de la subrogation, il se peut qu'une société débitrice exploite activement une entreprise, comme c'était le cas dans l’affaire Elliott, qu'elle soit solvable ou qu'on puisse raisonnablement s'attendre qu'elle améliore sa situation à court terme, par exemple, en soumissionnant à un appel d'offres et en obtenant le contrat. Lorsqu’une de ces situations existe, il est possible que la créance produise un revenu et que le garant, qui a peut‑être davantage confiance en la société débitrice que ne l'a la banque, ait comme but de gagner un revenu lorsqu’il est subrogé dans les droits liés à la créance. Il faut donc examiner la situation de la société débitrice au moment de la subrogation.
+[45] Malheureusement, à la lumière des faits que j’ai exposés plus haut, il m’est impossible de conclure que l’appelante visait un objet quelconque consistant à gagner un revenu au moment de la subrogation qui s'est opérée lorsque la garantie s’est éteinte en 1996. À ce moment, et cela depuis un certain temps déjà, la Société n’exploitait plus une entreprise et ne possédait aucun actif susceptible de servir à acquitter les intérêts sur la dette ou, à tout le moins, aucun élément de preuve établissant l’existence d’un tel actif n’a été présenté. L’appelante n’avait aucune possibilité de tirer un revenu de la créance.
+[46] L’appel est donc rejeté avec dépens.
+Signé à Ottawa, Canada, ce 14e jour de mars 2005.
+"Gerald J. Rip"
+Juge Rip
+RÉFÉRENCE : 2005CCI116
+NO DU DOSSIER DE LA COUR : 2003-3523(IT)G
+INTITULÉ DE LA CAUSE : Marlene Proulx-Drouin c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 6 décembre 2004
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT : Le 14e mars 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruno Bernier
+Avocate de l’intimée :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom : Me Bruno Bernier
+Cabinet : Ravinsky Ryan
+Pour l’intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Je ne sais pas du tout avec certitude si 143795 était à la fois propriétaire bénéficiaire et propriétaire inscrite de l’immeuble de la route transcanadienne ou si elle détenait cette propriété à titre de mandataire d’autres contribuables qui étaient les propriétaires bénéficiaires. L’avocat de l’appelante et M. Drouin ont fait mention des [TRADUCTION] « propriétaires » de l’immeuble. L’expression [TRADUCTION] « société de personnes » a également été employée. Je présume qu’ils entendaient par là les actionnaires de 143795 et que 143795 était à la fois propriétaire bénéficiaire et propriétaire inscrite de l’immeuble.
+[2] Voir, par exemple, les décisions Hogan v. M.N.R., 56 DTC 183, et Deck c. Canada, [2002] A.C.I. no 69 (Q.L.), 2002 DTC 1371.
+[3] [2003] 3 C.F. 493, paragraphe 13, [2004] 1 C.T.C. 308, page 313.
+[4] Certains éléments de preuve indiquent que le préavis a été signifié le 5 mars 1996. Selon l’affidavit de signification du huissier, la signification a plutôt eu lieu le 29 février 1996.
+[5] [2001] A.C.I. no 391 (QL), 2001 DTC 638.
+[6] [1997] A.C.I. no 119 (QL).
+[7] Le 22 février 1991, 143466 est devenue l’unique actionnaire de 143795.
+[8] [1996] A.C.I. no 209 (QL), paragraphe 10, 97 DTC 405, page 407.
+[9] Rich c. Canada, [2003] 3 C.F. 493, 2003 DTC 5115, paragraphes 8 à 10, où le juge Rothstein de la Cour d’appel fédérale renvoie à l’arrêt Entreprises Ludco Ltée c. Canada, [2001] 2 R.C.S. 1082, paragraphe 50, concernant l’interprétation du sous-alinéa 20(1)c)(i).
+[10] 2005 TCC 135, paragraphe 21.
+[11] [1999] A.C.F. no 92 (QL), 99 DTC 5117, paragraphe 23.

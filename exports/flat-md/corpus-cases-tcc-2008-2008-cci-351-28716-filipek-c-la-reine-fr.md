@@ -1,0 +1,203 @@
+---
+title: "Filipek c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28716/index.do"
+last_modified: "2008-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 351"
+citation2: ""
+neutral_citation: "2008 CCI 351"
+decision_date: "2008-06-16"
+language: "fr"
+item_id: "28716"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1441
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:39:17.582000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d287605f09e85541e327c48eea31b2ed263d02efcc478103f43e412696cc79c8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Filipek c. La Reine
+
+- Citation: 2008 CCI 351
+- Decision date: 2008-06-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1441, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Filipek c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-16
+Référence neutre
+2008 CCI 351
+Numéro de dossier
+2004-1682(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1682(IT)G
+ENTRE :
+NEIL FILIPEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 25, 26, 27 et 28 mars 2008,
+à Vancouver (Colombie-Britannique)
+Devant l’honorable juge Campbell J. Miller
+Comparutions :
+Avocates de l’appelant :
+Me Frances M. Viele et
+Me Pam Owen-LaFrance
+Avocats de l’intimée :
+Me Ernest Wheeler et Me Steven Leckie
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997, 1998 et 1999 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 16e jour de juin 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 8e jour de janvier 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008 CCI 351
+Date : 20080616
+Dossier : 2004-1682(IT)G
+ENTRE :
+NEIL FILIPEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Filipek est un pilote qui travaille pour Air Canada. Il soutient que pour les années d’imposition 1996, 1997 et 1998 et pour le premier mois de 1999 (la « période en cause ») il était un non-résident du Canada en ce qui concerne l’impôt sur le revenu. L’intimée a établi une cotisation à l’égard de M. Filipek en tant que résident du Canada, non sur le fondement de quelque résidence présumée découlant du fait d’avoir séjourné au Canada, mais sur le fondement du fait qu’il résidait habituellement au Canada durant toute la période en cause. Les affaires portant sur la résidence dépendent entièrement des faits et la situation de M. Filipek est certainement unique à lui. D’entrée de jeu, les parties ont clairement établi que la seule question qui m’est soumise est celle de la détermination du statut de résident canadien de M. Filipek. Si je détermine qu’il est un non-résident, alors je ne calculerai pas le montant, si applicable, de revenu imposable au Canada étant donné que M. Filipek serait alors l’un des nombreux pilotes qui tentent de régler collectivement la question avec laquelle ils sont aux prises avec le gouvernement.
+[2] La jurisprudence a fourni bon nombre d’indications quant à ce que la Cour doit prendre en compte lorsqu’elle tranche des affaires portant sur la résidence. La Loi de l’impôt sur le revenu elle-même prévoit, au paragraphe 250(3), qu’une personne résidant au Canada vise aussi une personne qui, au moment considéré, résidait habituellement au Canada. De nombreuses décisions judiciaires ont été rendues sur le sens de l’expression « résidait habituellement » (voir par exemple Thomson v. Minister of National Revenue[1], Her Majesty the Queen v. Reeder[2], et Reed v. The Minister of National Revenue[3]). Que nous disent ces décisions?
+(i) Chaque personne a une résidence.
+(ii) Une personne peut avoir simultanément plus d’une résidence du point de vue de la fiscalité.
+(iii) La résidence est établie par la détermination dans l’espace des limites dans lesquelles une personne passe son temps ou du lieu où, dans sa vie de tous les jours, elle vit de manière régulière, normale ou habituelle.
+(iv) Les facteurs à prendre en compte pour déterminer la résidence sont les liens avec le Canada à l’égard des biens, des placements, de l’emploi, de la famille, des affaires, de la vie culturelle, de la vie sociale – une liste non exhaustive.
+[3] Le problème quant à un pilote comme M. Filipek est qu’il ne semble y avoir aucune « vie de tous les jours » dans son cas – il n’a résolument pas une vie de tous les jours. Toutefois, je conclus qu’il y a dans son existence mouvementée et itinérante, deux centres de stabilité où il retourne de manière régulière : la région de Vancouver et les îles Turques et Caïques.
+[4] La question qui m’est soumise n’est pas celle de savoir si les îles Turques et Caïques constituent une résidence, mais celle de savoir si le Canada constitue une telle résidence; je dois prêter une attention particulière à ses activités dans la région de Vancouver.
+[5] Quelle est la situation unique de M. Filipek? Je vais l’examiner en tenant compte des facteurs suivants :
+(i) les circonstances se rapportant à son départ du Canada;
+(ii) son mode de vie, notamment son emploi, ses affaires, ses loisirs, ses amis, ses engagements financiers, ses vacances et le temps qu’il passe dans différents endroits;
+(iii) ses liens familiaux.
+Les circonstances se rapportant à son départ du Canada
+[6] M. Filipek travaille comme pilote pour Air Canada depuis 1974. Dans les années 1980, il a présenté des demandes d’emploi chez Canadian Pacific et Singapore Airlines puisqu’il voulait, comme il le dit, devenir un non-résident. Il envisageait de vivre à Hawaii. En 1979, ses parents et lui (principalement ses parents) ont acheté une grande propriété dans l’île d’Hawaii. Il a fourni approximativement 50 000 $ sur le prix de 2,5 $ millions de dollars payé pour l’achat de la propriété. De 1985 à 1992, il a été engagé dans un litige avec la Northland Bank relativement au financement de cette propriété, un litige qui s’est finalement soldé par la perte de la propriété. Cela a évidemment laissé à M. Filipek un goût amer à l’égard d’Hawaii.
+[7] M. Filipek et son épouse se sont mariés en 1984 sur la propriété d’Hawaii. Après 1992, ils ont exploré plusieurs pays chauds où ils pourraient établir leur résidence. M. Filipek avait présenté en 1991 une demande de citoyenneté américaine qui n’a pas été acceptée. Janice a été contrariée lorsqu’elle a appris qu’il avait fait une telle demande parce qu’elle et ses parents s’étaient enracinés à Vancouver. En fait, en 1994, Janice a acheté une maison en rangée à Richmond, en Colombie-Britannique. M. Filipek n’apparaissait pas comme propriétaire en titre même s’il était garant du prêt hypothécaire et s’il faisait des paiements mensuels. Il n’était pas content de la situation à cet égard.
+[8] À ce stade, la relation entre M. Filipek et son épouse se détériorait. Mme Filipek était mécontente du fiasco financier d’Hawaii, en particulier parce que ses parents, M. et Mme Ruhl, avaient prêté une importante somme d’argent pour aider la famille de M. Filipek, et Janice Filipek ne pensait pas que sa famille allait récupérer les sommes prêtées.
+[9] Un autre pilote d’Air Canada a suggéré à M. Filipek de vérifier si les îles Turques et Caïques pourraient être un possible lieu de résidence. C’est ce qu’il a fait et il s’est épris de l’endroit. M. Filipek a déclaré dans son témoignage que, en 1994, il avait amené Janice aux îles Turques et Caïques, mais qu’elle n’avait pas partagé son enthousiasme pour l’endroit. Fait intéressant, elle a déclaré dans son témoignage qu’elle n’était pas allée aux îles Turques et Caïques avant 1996, après qu’elle et M. Filipek se sont séparés. Il s’agit de l’une des nombreuses contradictions contenues dans leurs témoignages.
+[10] M. Filipek a pris une décision. Il était clair que s’il déménageait aux îles Turques et Caïques son mariage ne survivrait pas. Il a déménagé de la maison en rangée à Richmond en novembre 1994. En décembre 1994, Janice et lui ont signé une courte entente de séparation, rédigée par le père de Janice, M. Ruhl. M. Filipek était libre de donner suite à son déménagement.
+[11] M. Filipek a pris les mesures suivantes à la fin de 1994 et au début de 1995 :
+(i) Il a pris contact avec un avocat des îles Turques et Caïques et il a obtenu un permis de résidence pour vivre aux îles Turques et Caïques.
+(ii) Il a fait des recherches dans l’île de Providenciales pour trouver une propriété à louer ou à acheter. Il a trouvé une propriété à louer de son avocat à compter de juin 1995; son avocat vivait également sur la propriété.
+(iii) Il a vendu son Land Rover 1964, un véhicule avec lequel il avait fait de la prospection avec son père. Il était évident qu’il était très attaché au Rover.
+(iv) Il a vendu la collection d’armes à feu de son père.
+(v) Il a pris des dispositions pour que son beau-père assume la garantie du prêt hypothécaire visant la maison de Richmond.
+(vi) Plus tard en 1995, il a fait retirer son nom du titre de propriété de la maison de sa mère à Edmonton, bien qu’il ait continué à faire des paiements hypothécaires étant donné que l’argent avait été emprunté pour financer le litige avec la Northland Bank.
+(vii) Il a informé ses amis, sa famille, son employeur et la banque de son déménagement imminent.
+(viii) Il a fait retirer l’inscription téléphonique à son nom à Richmond et a fait inscrire les services d’utilité publique au nom de Janice.
+(ix) Il a envoyé ses quelques biens à un ami en Floride, puis aux îles Turques et Caïques.
+(x) Il a annulé son assurance maladie et a obtenu de l’assurance de l’extérieur du Canada, d’abord aux États-Unis, puis du Royaume-Uni et finalement d’une organisation liée à American Express.
+(xi) Il a laissé expirer son assurance automobile canadienne.
+(xii) Il a obtenu une case postale à Richmond, en Colombie-Britannique, à Point Roberts, dans l’État de Washington, en Oregon et aux îles Turques et Caïques.
+(xiii) Plus tard en 1995, il a obtenu un permis de conduire des îles Turques et Caïques, même s’il avait également obtenu un permis de conduire international avant de quitter le Canada.
+(xiv) Il a liquidé certains placements, mais a conservé ses REER, et il soutient qu’il n’a fait aucune contribution au cours de la période en cause.
+(xv) Il a présenté une demande pour obtenir une carte de crédit American Express aux îles Turques et Caïques.
+(xvi) Il a présenté une demande pour obtenir une carte de crédit de Citibank aux États-Unis, mais il n’a pu en obtenir une puisqu’il n’avait pas une adresse permanente aux États-Unis. Il a toutefois ouvert un compte chèques à Point Roberts, dans l’État de Washington.
+(xvii) Il a conservé son compte chèques à la CIBC au Canada pour les dépôts électroniques de son salaire d’Air Canada.
+(xviii) Il a également conservé une carte de crédit personnelle auprès de la Banque canadienne impériale de commerce et il utilisait à cet égard la case postale à Richmond, en Colombie-Britannique.
+[12] Il a pris des mesures appropriées pour obtenir le statut de résident des îles Turques et Caïques. La question de savoir si ces mesures étaient suffisantes pour mettre fin à son statut de résident canadien dépend du comportement qu’il a adopté après avoir pris ces mesures.
+Le mode de vie
+[13] Il était difficile, pour différentes raisons, d’obtenir un portrait exact du mode de vie de M. Filipek, notamment lorsqu’il était dans la région de Vancouver et de Point Roberts. Premièrement, il était évasif au sujet de la façon dont il passait son temps dans la région. Deuxièmement, le troisième jour de son témoignage, il a modifié ses déclarations pour contredire ce qu’il avait dit dans son témoignage antérieur, ce qui m’amène à douter de sa crédibilité de façon générale.
+[14] M. Filipek a produit un agenda mensuel qui couvrait la période en cause et qui indiquait ses allées et venues quotidiennes pendant cette période. Il a en outre produit des dossiers bancaires montrant de nombreux retraits d’argent comptant aux guichets automatiques dans la région de Vancouver au cours de la même période. Il dit que son emploi auprès d’Air Canada était centralisé à Vancouver; c’est de là qu’il partait pour ses vols. Il soutient toutefois que, lorsqu’il venait et partait de Vancouver pour son emploi, il ne restait jamais vraiment à Vancouver, mais qu’il prenait un autobus, souvent au centre-ville, jusqu’à Point Roberts aux États-Unis où il faisait du camping dans les bois.
+[15] Point Roberts présente une particularité quant à la géographie et quant aux relations internationales. C’est une péninsule juste au sud de la région de Vancouver qui fait partie de l’État de Washington; toutefois, pour atteindre le reste de l’État de Washington il faut revenir au Canada, puis retourner vers le sud dans la partie principale de l’État. Un bref examen de n’importe quelle carte de la région montre la situation très clairement.
+[16] L’agenda de M. Filipek, présenté au cours de l’interrogatoire principal, semblait indiquer qu’il passait environ 60 à 70 jours par année dans la région de Vancouver et de Point Roberts, vraisemblablement en faisant du camping aux États‑Unis juste de l’autre côté de la frontière. Pour les motifs ci-après exposés, j’éprouve certains doutes sérieux quant à savoir si cela est tout à fait exact. Premièrement, pendant tout le temps qu’il a passé dans la région de Vancouver, les dossiers bancaires de M. Filipek montrent un grand nombre de retraits aux guichets automatiques précédemment mentionnés, à divers endroits à Vancouver. Je me demande pourquoi il va de l’aéroport vers le nord jusqu’au centre-ville pour faire des retraits en dollars canadiens, puis il retourne vers le sud, passé l’aéroport, pour traverser la frontière vers Point Roberts. Pendant deux jours à la barre des témoins, il a déclaré catégoriquement qu’il avait fait de nombreux retraits à différents guichets automatiques à Vancouver au cours de la période en cause, même si lors du contre-interrogatoire il a été souligné que certains de ces retraits avaient été effectués à des moments où, selon son agenda, il se trouvait à l’extérieur du pays. Il a répondu que son agenda pour la période de trois ans, agenda qu’il avait déposé en preuve, était erroné et effectivement, le lendemain, il m’a fourni un agenda modifié. Une fois de plus, il a déclaré catégoriquement que son épouse, de laquelle il était séparé, ne retirait pas de fonds. Le troisième jour, il a demandé à faire une déclaration et il m’a informé qu’il était possible que son épouse ait conservé une carte bancaire et qu’elle ait pu retirer des fonds de son compte. Comme on aurait pu s’y attendre, plus tard au cours de cette journée, son épouse a rendu un témoignage exactement à cet effet – oui, durant leur séparation, elle retirait environ 1 000 $ par mois au moyen de petits retraits sur la carte de M. Filipek, mais elle supposait qu’il ne s’en rendrait pas compte et elle avait le sentiment qu’elle avait certains droits quant à cet argent.
+[17] Lorsqu’il a présenté son agenda modifié, M. Filipek a ajouté « CB » à un nombre additionnel de 40 à 50 jours en 1996 et en 1997, mais moins en 1998, ce qui a porté le temps passé dans la région de Vancouver à bien plus de 100 jours par année. Même en tenant compte du fait que Mme Filipek a effectué de nombreux retraits, les habitudes de vie invoquées selon lesquelles il se rendait au centre-ville, puis à Point Roberts pour y faire du camping, sont inhabituelles. Toutefois, une correspondance d’un associé d’affaires faisant des commentaires sur les dispositions de camping prises par M. Filipek a apporté un peu de crédit à ce qu’il avançait. C’est le temps passé à faire du camping qui me préoccupe. Il y avait quelques factures d’achats à Point Roberts, mais certaines étaient inhabituelles. Par exemple, il y avait un achat de 48 rouleaux de papier hygiénique pour quelqu’un qui supposément ne fait du camping que quelques jours à la fois, puis qui entrepose sa tente et son équipement de camping sous un cèdre et une saillie de la roche. J’estime simplement que cela est suspect. Il est plus vraisemblable que de tels achats aient pu être faits pour sa belle-famille juste de l’autre côté de la frontière du côté canadien.
+[18] Que faisait M. Filipek de son temps lorsqu’il était à Point Roberts? Manifestement, il était à Vancouver une bonne partie du temps; même si on ne compte pas les nombreux retraits effectués par son épouse de laquelle il était séparé, il y avait encore de nombreux retraits qui faisaient en sorte qu’il se serait trouvé à Vancouver. Ce qu’il faisait n’est simplement pas clair. Il soutient que, lorsqu’il était à Point Roberts, il allait à la bibliothèque et parfois à la marina pour prendre une douche. Je n’ai pas l’impression d’avoir entendu tout le récit de sa vie dans la région de Vancouver et de Point Roberts.
+[19] Lorsqu’il n’était pas dans la région de Vancouver, il faisait des vols internationaux pour Air Canada, il prenait ses vacances à l’extérieur du Canada, il passait du temps à s’adonner à des jeux d’argent dans le nord-ouest des États-Unis ou il vivait dans les îles Turques et Caïques. Sur le fondement de l’agenda modifié qu’il a fourni, il passait en moyenne environ 190 jours par année à effectuer des vols, à voyager ou à prendre des vacances, 55 jours dans les îles Turques et Caïques et plus de 100 jours dans la région de Vancouver et de Point Roberts. Le temps passé dans un endroit n’est qu’un facteur et doit être vu dans le contexte des liens sociaux, commerciaux, culturels et autres liens liant la personne à l’endroit où elle passe son temps. Malheureusement, je n’ai qu’un portait très flou des 100 jours passés dans la région de Vancouver et de Point Roberts. Faire du camping dans une tente dans les bois juste de l’autre côté de la frontière, à une distance de marche de la belle-famille (du côté canadien), ne constitue pas un mode de vie de tous les jours qui pourrait amener à conclure qu’il était résident des États-Unis. Toutefois, je n’ai pas à trancher cette question.
+[20] M. Filipek passait en moyenne un peu moins de deux mois par année dans les îles Turques et Caïques. Mon impression quant au temps qu’il passait à cet endroit était qu’il s’agissait de temps passé dans un environnement social de vacances. Il appréciait manifestement les avantages du climat plus chaud. Il ne m’appartient pas de trancher la question de savoir s’il avait avec les îles Turques et Caïques des liens suffisants pour que cet endroit constitue sa résidence. Comme il a été mentionné précédemment, une personne peut avoir deux résidences. J’ai l’impression que, pour M. Filipek, les îles Turques et Caïques étaient un endroit de repos, de relaxation et d’activités sociales où il se livrait également à certaines activités commerciales dont j’estime qu’il a exagéré l’importance. Je vais maintenant en traiter.
+[21] M. Filipek a décrit plusieurs opérations commerciales à risque qu’il a tenté de mettre en œuvre pendant qu’il était dans les îles Turques et Caïques. Aucune de ces opérations n’a procuré un revenu à M. Filipek.
+(i) Un supermarché dans les îles Turques et Caïques - M. Filipek a indiqué qu’il a passé trois heures par semaine pendant trois ans à tenter de mettre en rapport des associés d’affaires pour l’achat d’un supermarché IGA. Un des associés était l’avocat, Me C. Papachristou, dont M. Filipek était le locataire et qui, en fait, vivait sur la même propriété que celle louée par M. Filipek. M. Filipek a fourni deux lettres, une de novembre 1996 d’un M. Nelson, un acheteur éventuel, et une de mars 1997, du collègue de M. Papachristou, indiquant qu’aucun autre renseignement n’est disponible quant au supermarché. Dans un envoi par télécopieur, en mars 1997, M. Krieg, un autre associé éventuel, demandait également des renseignements à l’égard du supermarché. Cela me donne à penser que ce projet n’allait nulle part. Je conclus que l’estimation de trois heures par semaine pendant trois ans faite par M. Filipek n’est simplement pas crédible.
+(ii) Une culture de conques – M. Filipek a fourni une brochure d’une culture de conques dans les îles Turques et Caïques, avec deux lettres échangées entre M. Krieg et la Select University Technologies Inc. en Californie qui traitaient de l’art céramique. Franchement, on ne m’a pas expliqué clairement comment ces deux questions sont liées, bien qu’aucune de ces lettres ne mentionne quelque participation de M. Filipek. Son rôle semble avoir consisté à agir comme une sorte d’intermédiaire qui met en rapport des investisseurs et une entreprise. Il soutient qu’il a consacré cinq heures par semaine pendant trois ans à ce projet. Une fois de plus, peu d’éléments corroborent le temps qu’il aurait consacré et les efforts à cet égard. Cela n’établit pas un mode de vie de tous les jours ou un mode de vie coutumier à l’extérieur du Canada. Les heures consacrées au projet par M. Filipek chaque semaine étaient estimées sur toute l’année, alors vraisemblablement un bon nombre de ces heures était passé à l’extérieur des îles Turques et Caïques – au Canada.
+(iii) La troisième entreprise que M. Filipek a décrite est une combinaison de gîte du passant et de boutique de plongée. Il soutient qu’il a cherché des sites dans les îles Turques et Caïques et qu’il a soumis la possibilité à cet égard à des intéressés américains, mais en fin de compte il a décidé que le marché des entreprises de plongée était saturé. M. Filipek a présenté une proposition de deux pages et certains renseignements à l’égard d’une boutique de plongée existante. Il a avancé qu’il avait consacré de cinq à dix heures par semaine pendant trois ans à ce projet. Une fois de plus, peu d’éléments appuient tout le temps consacré au projet.
+(iv) Le père de M. Filipek était engagé dans l’industrie minière, à laquelle M. Filipek s’est également intéressé. Son ami, M. Bremner, a développé un appareil, un Hy‑G que M. Filipek a décrit comme une batée sophistiquée. M. Filipek a dit que M. Bremner et lui faisaient des tests de concentrés à Point Roberts. Il estimait avoir consacré de cinq à dix heures par semaine à cette activité de nature minière à laquelle il s’intéressait. Cette entreprise ne semble pas lier M. Filipek à un endroit plus qu’à un autre.
+(v) Finalement, M. Filipek a avancé qu’il avait une certaine participation dans deux autres projets – un projet hydroélectrique en Chine et l’établissement d’une nouvelle entreprise de transport aérien en Afrique du Sud. Il estimait avoir consacré moins de cinq heures par semaine à ces projets de 1996 à 1998.
+[22] M. Filipek estimait qu’il travaillait à ces projets 30 heures par semaine, vraisemblablement lorsqu’il était dans la région de Vancouver et lorsqu’il était en voyage. Les documents qu’il a produits pour démontrer qu’il consacrait 30 heures par semaine à ces entreprises sont très loin de me convaincre qu’il avait plus qu’un rapport périphérique avec des personnes qui avaient une participation plus importante dans ces projets et, de façon certaine, il ne consacrait pas autant de temps à ces entreprises. Les trois entreprises (supermarché, culture de conques et le gîte) qui avaient quelque lien avec les îles Turques et Caïques servent peut-être à établir que les îles Turques et Caïques ont bien pu être une résidence, mais ne servent pas à me convaincre qu’il n’était pas un résident du Canada. Compte tenu du nombre important de jours passés dans la région de Vancouver et de Point Roberts, il doit avoir effectué dans cette région une partie importante du travail lié à ces entreprises. Tout cela pour dire que je n’accorde aucun poids à ses activités commerciales en tant que facteur servant à déterminer s’il est résident canadien. Ce que font ses explications, cependant, c’est rendre plus confus un portrait déjà obscur de son mode de vie, et semer plus de doutes sur sa crédibilité.
+[23] En ce qui concerne ses finances, M. Filipek conservait son compte principal à la CIBC. Son chèque de paie était déposé dans ce compte et il semble qu’il s’appuyait fortement sur ce compte pour effectuer des retraits d’argent comptant. En raison de difficultés financières et des investissements de sa famille à Hawaii, sa famille avait dû emprunter de l’argent et M. Filipek faisait les paiements du prêt hypothécaire dont la maison de ses parents était grevée. Ils avaient en outre emprunté de l’argent de la belle-famille de M. Filipek, et M. Filipek avait promis de rembourser les fonds empruntés à M. et Mme Ruhl. De plus, M. Filipek utilisait également une carte or Scotia. Ces éléments constituent un lien financier continu avec le Canada.
+[24] À l’égard de ses loisirs, M. Filipek aimait faire du camping et jouer à des jeux d’argent. Il a indiqué qu’il passait son temps dans l’État de Washington et en Oregon à jouer à des jeux d’argent, mais, une fois de plus, il ne ressortait pas clairement de son agenda modifié combien de temps il passait à ces endroits à s’adonner à ce loisir.
+Les liens familiaux
+[25] M. et Mme Filipek n’avaient pas d’enfants. Les liens familiaux à prendre en compte sont par conséquent l’épouse de M. Filipek, Janice, de qui il était séparé, ses parents, M. et Mme Ruhl, et la famille de M. Filipek. Je suis convaincu, suivant les témoignages de M. Filipek et de Janice Filipek, corroborés dans une certaine mesure par la preuve présentée par M. Rogerson, un avocat et ami des îles Turques et Caïques, et également par un ami pilote, M. Kaluta, que M. et Mme Filipek étaient séparés l’un de l’autre durant la période en cause, bien que la séparation n’ait pas été permanente, puisqu’ils sont maintenant de nouveau ensemble. J’ai encore certains doutes à l’égard des modalités de la séparation. Je soulève ce point en raison du témoignage rendu par M. Filipek quant à ses nombreux retraits à des guichets automatiques dans la région de Vancouver.
+[26] Il y a trois conclusions que je peux tirer du récit fait par Mme Filipek quant aux retraits effectués du compte de M. Filipek au cours de la période en cause :
+(i) Il n’était vraiment pas au courant, et elle volait simplement l’argent et elle lui a confessé les faits deux jours avant l’instruction.
+(ii) Il était au courant, mais il a laissé son épouse agir ainsi parce que lui aussi avait le sentiment qu’elle avait certains droits quant à l’argent.
+(iii) Lui et Mme Filipek avaient activement pris des dispositions pour qu’elle ait accès au compte.
+Par conséquent, même si normalement un conjoint séparé qui continue à vivre au Canada ne constitue pas un lien familial important au Canada aux fins de la détermination de la résidence, dans les présentes circonstances, je n’écarte pas complètement ce lien.
+[27] Je passe aux autres liens familiaux. Les parents de Mme Filipek, M. et Mme Ruhl, faisaient de façon certaine partie de la vie de M. Filipek. Ils avaient prêté de l’argent à la famille Filipek, de l’argent qui leur serait remboursé selon ce que M. Filipek leur avait dit après s’être séparé de Janice. Ce n’est que lors du contre-interrogatoire que M. Filipek a divulgué que M. et Mme Ruhl vivaient à une distance de marche de la frontière canado-américaine près de Point Roberts, dans l’État de Washington. Il soutient qu’il a passé la plus grande partie de son temps dans la région de Vancouver à Point Roberts. Malheureusement, M. Ruhl n’a pas pu témoigner en raison de son état de santé et Mme Ruhl est décédée la semaine avant l’instruction. M. Filipek a témoigné qu’il leur rendait visite à des intervalles de quelques mois, mais qu’il ne restait pas chez eux. Il faisait envoyer son uniforme d’Air Canada chez eux.
+[28] J’ai l’impression que M. Filipek était effectivement passablement proche de sa belle-famille. Je ne crois pas M. Filipek lorsqu’il dit que, pendant tout le temps qu’il passait dans la région de Vancouver et de Point Roberts, il faisait du camping à Point Roberts du côté américain. J’estime qu’il est plus probable qu’il passait beaucoup de temps avec sa belle-famille, à une distance de marche de la frontière.
+[29] Relativement à sa propre famille, M. Filipek a confirmé qu’il passait peu de temps, voire pas de temps avec son frère. Son frère a confirmé la déclaration à cet égard. Il faisait toutefois les paiements hypothécaires de la maison de sa mère à Edmonton, bien que j’aie l’impression qu’il n’y faisait pas souvent de visites.
+[30] À l’égard des liens familiaux, je conclus qu’il ne s’agit pas d’un facteur neutre, mais d’un facteur montrant un certain lien continu avec le Canada.
+Le résumé
+[31] Il me reste donc un tableau d’ensemble d’un pilote dont les habitudes de travail étaient centralisées à partir de Vancouver. Peu importe où il se rendait – dans les îles Turques et Caïques ou dans le nord-ouest des États-Unis pour jouer à des jeux d’argent, il revenait toujours dans la région de Vancouver pour son travail. Il soutient que ses habitudes de vie lorsqu’il était dans la région de Vancouver consistaient à faire du camping à Point Roberts, mais ses dossiers bancaires, son agenda, son association avec sa belle-famille et le bon sens donnent à penser que cela n’est pas tout à fait exact. Les avocates de M. Filipek ont établi un parallèle entre la situation de M. Filipek et celle de M. Laurin, un pilote d’Air Canada pour lequel M. le juge en chef Bowman a conclu, dans la décision Laurin c. Sa Majesté la Reine[4], qu’il n’était pas un résident canadien. Il y a assurément certaines similarités, mais il y a une différence importante. M. le juge en chef Bowman a déclaré ce qui suit en soulignant les contradictions relevées dans le témoignage de M. Laurin :
+34 À mon sens, ces prétendues divergences dans le témoignage de l’appelant ne justifient pas le rejet de la totalité de son témoignage. Celui‑ci est étayé par le témoignage crédible des autres témoins. Il incombe au juge présidant l’instruction de tirer les conclusions de fait à la lumière de l’ensemble de la preuve et de ne pas s’arrêter à quelques contradictions pour justifier le rejet pur et simple de la thèse de l’appelant. En l’espèce, il faudrait rejeter l’ensemble de la preuve ayant réfuté les hypothèses essentielles sur lesquelles se fondent les cotisations.
+[32] L’affaire qui m’est soumise n’est pas une affaire de ce type. La vérité est un concept fort : lorsque vous la dites, l’avenir se déroule la plupart du temps comme vous le souhaitez – lorsque vous ne dites pas la vérité, la vie peut devenir compliquée. Je ne crois pas tout ce que M. Filipek m’a dit. Il a reconnu sans réserve avoir induit en erreur la Cour le premier jour de son témoignage, en faisant semblant de ne pas se rappeler. Son agenda comportait des erreurs qu’il a également reconnues. Son récit selon lequel il faisait régulièrement du camping à Point Roberts est incroyable – et il l’a fait lors de l’interrogatoire principal sans informer la Cour que sa belle-famille vivait à une distance de marche de l’autre côté de la frontière. L’accent qu’il a mis sur des opérations commerciales à risque dans les îles Turques et Caïques, et particulièrement sur le temps qu’il y a consacré est, selon moi, totalement exagéré. Tout ce que cela fait, c’est semer des doutes sérieux sur la véracité du témoignage de M. Filipek. Franchement, en tentant de peindre un portrait positif quant au fait d’être devenu un non-résident, il s’est empêtré dans une toile d’exagérations, de faussetés et de mensonges. C’est regrettable. S’il avait simplement dit la vérité, la vérité aurait pu, je ne dirais pas aurait définitivement pu, mais elle aurait pu appuyer une conclusion voulant qu’il soit un non-résident. Mais maintenant, M. Filipek a fait en sorte qu’il est difficile pour moi, en fait impossible, de discerner la vérité.
+[33] Il appartient à M. Filipek de démolir les hypothèses de la Couronne. J’estime que la démarche adoptée par M. Filipek dans la présente affaire a porté un coup mortel à la possibilité de réussir à démolir les hypothèses. Je conclus selon la prépondérance que le temps qu’il passait dans la région de Vancouver était passé principalement à Vancouver, et peu à Point Roberts. Je conclus que sa vie de tous les jours, en tant que pilote d’Air Canada travaillant à partir de Vancouver, était en fait centralisée à Vancouver. Ses affaires bancaires, le temps passé dans la région, sa relation continue avec sa belle-famille, ses engagements financiers envers eux et envers sa propre famille, associés à son témoignage contradictoire et vague quant à ce qu’il faisait vraiment pendant qu’il passait bien au-delà de 100 jours par année à Vancouver m’amènent à conclure que sa vie de tous les jours était principalement à Vancouver. Je reconnais qu’il n’a pas sa propre maison ou une résidence physique au Canada et, bien que cela soit troublant, ce n’est pas fatal quant à une conclusion selon laquelle il peut encore être un résident du Canada. S’il est nécessaire d’avoir un tel espace physique, je peux sans difficulté conclure qu’il avait facilement accès à la maison de sa belle-famille, et en fait qu’il se fiait effectivement à cet accès.
+[34] La présente affaire est un cas inhabituel puisque les trois jours de témoignage par M. Filipek n’ont pas permis de tirer au clair la question de sa résidence, ils ont eu l’effet contraire – le témoignage a rendu la question confuse au point qu’il a été incapable de démolir les hypothèses de la Couronne selon lesquelles il avait au Canada des habitudes de vie établies, qu’il passait régulièrement et fréquemment du temps au Canada et que, à aucun moment, il n’a cessé d’être un résident du Canada. M. Filipek s’est vraiment fait prendre à son propre piège. L’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 16e jour de juin 2008.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 8e jour de janvier 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008 CCI 351
+No DU DOSSIER DE LA COUR : 2004-1682(IT)G
+INTITULÉ : NEIL FILIPEK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Les 25, 26, 27 et 28 mars 2008
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 16 juin 2008
+COMPARUTIONS :
+Avocates de l’appelant :
+Me Frances M. Viele et
+Me Pam Owen-LaFrance
+Avocats de l’intimée :
+Me Ernest Wheeler et Me Steven Leckie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Frances M. Viele
+Cabinet : Ottawa (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2 DTC 812 (C.S.C.).
+[2] 75 DTC 5160 (C.F. 1re inst.).
+[3] 89 DTC 34 (C.C.I.).
+[4] 2006CCI634.

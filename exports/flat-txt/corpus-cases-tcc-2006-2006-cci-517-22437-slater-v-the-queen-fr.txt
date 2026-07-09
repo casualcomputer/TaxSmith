@@ -1,0 +1,308 @@
+Title: Slater v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22437/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-517-22437-slater-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-26
+
+# Slater v. The Queen
+
+- Citation: 2006 CCI 517
+- Decision date: 2006-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2228, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slater v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-26
+Référence neutre
+2006 CCI 517
+Numéro de dossier
+2005-3840(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3840(IT)I
+ENTRE :
+BEVAN EDWIN SLATER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er septembre 2006, à Calgary (Alberta)
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Tyler Lord
+____________________________________________________________________
+JUGEMENT
+Les appels à l'encontre des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2000 et 2001 sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs du jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 26e jour de septembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 27e jour de novembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI517
+Date : 20060926
+Dossier : 2005-3840(IT)I
+ENTRE :
+BEVAN EDWIN SLATER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel a été instruit sous le régime de la procédure informelle à Calgary (Alberta), le 1er septembre 2006. L'appelant était le seul témoin.
+[2] Au début de l'audience, l'appelant, un avocat, a présenté une requête en irrecevabilité en invoquant le fait qu'il avait été privé de son droit à une audience équitable lorsque les fonctionnaires de l'Agence du revenu du Canada ont décidé de ne pas entendre les observations qu'il proposait de leur faire après le dépôt de son avis d'opposition. La Cour a rejeté la requête en raison du fait qu'une fois la nouvelle cotisation établie à l'égard de l'appelant, les pouvoirs de la Cour se limitent à accueillir ou à rejeter l'appel en se fondant sur les faits propres à la cotisation comme telle, et ce, en application des articles 169 et 171 de la Loi de l'impôt sur le revenu. L'appelant a présenté une deuxième requête dans laquelle il soutenait qu'il incombait à l'intimée de prouver ses allégations voulant que l'appelant ne menât pas l'activité en cause dans le but d'en tirer profit. L'intimée a formulé cette allégation pour la première fois dans sa réponse à l'avis d'appel. Cette requête a été est accueillie.
+[3] Les renseignements litigieux sont énoncés aux paragraphes 10 à 20 de la réponse à l'avis d'appel. Ils sont rédigés ainsi :
+[TRADUCTION]
+10. Dans ses déclarations pour 2000 et pour 2001, l'appelant a déclaré, entre autres, des pertes nettes d'entreprise subies par son entreprise de location de bateaux « Boss Charters » (l' « activité » ) de 8 020,73 $ pour 2000 et de 7 481,81 $ pour 2001. Voici le tableau détaillé des pertes déduites :
+2000
+2001
+Revenus
+1 650,00 $
+2 350,00 $
+Équipement
+586,80 $
+31,90 $
+Assurances
+840,79 $
+680,00 $
+Intérêts
+4 538,88 $
+4 264,80 $
+Entretien et réparations
+226,78 $
+187,01 $
+Exploitation
+1 088,73 $
+2 190,10 $
+Amarrage
+2 388,75 $
+2 478,00 $
+Total des dépenses
+9 670,73 $
+9 831,81 $
+Pertes nettes
+-8 020,73 $
+-7 481,81 $
+11. Les cotisations d'origine à l'égard des années 2000 et 2001 ont été établies le 16 juillet 2001 et le 22 juillet 2002, respectivement, et elles tenaient compte des pertes nettes d'entreprise telles qu'elles ont été déclarées par l'appelant.
+12. Dans des avis de nouvelle cotisation datés du 5 avril 2004, le ministre du Revenu national (le « ministre » ) a refusé des dépenses d'entreprise de 9 118,00 $ pour 2000 et de 9 340,00 $ pour 2001, ce qui a donné lieu à l'établissement de revenus nets d'entreprise de 1 098,00 $ pour 2000 et de 1 859,00 $ pour 2001. Les dépenses ont été réduites afin d'admettre environ 5 % des dépenses demandées, étant donné que le bateau était loué pendant environ 5 % de l'année.
+13. L'appelant a signifié un avis d'opposition au ministre à l'égard des nouvelles cotisations établies le 5 avril 2004 pour les années 2000 et 2001. Le ministre a reçu l'avis d'opposition le 5 juillet 2004.
+14. À la suite de l'avis d'opposition, le ministre a modifié les cotisations au moyen d'avis de nouvelle cotisation, datés du 3 mars 2005, pour les années 2000 et 2001, dans le but de supprimer les revenus nets d'entreprise de 1 098,00 $ pour 2000 et de 1 859,00 $ pour 2001. Les cotisations ont été modifiées parce que l'activité ne constituait pas une source de revenu pour l'appelant.
+15. L'appelant a signifié un avis d'opposition au ministre à l'égard des nouvelles cotisations établies le 3 mars 2005 pour les années 2000 et 2001. Le ministre a reçu l'avis d'opposition le 1er juin 2005.
+16. À la suite de l'avis d'opposition reçu le 1er juin 2005, le ministre a ratifié les nouvelles cotisations par un avis de ratification daté du 29 juillet 2005. Les nouvelles cotisations ont donc été ratifiées, étant donné que l'activité ne constituait pas une source de revenu pour l'appelant.
+17. Les nouvelles cotisations que le ministre a établies à l'égard de l'appelant le 3 mars 2005 et ratifiées le 29 juillet 2005 reposent sur les hypothèses de fait suivantes :
+a) en 1986, l'appelant a acheté un bateau de plaisance;
+b) le bateau lui a coûté 105 000 $, et le montant financé au moyen d'un emprunt était de 84 000 $, avec une échéance de 25 ans;
+c) pendant toute la période en litige, le bateau était amarré à Sidney (C.-B.);
+d) l'appelant était résident de Calgary (Alberta) depuis 1987;
+e) pour les années 1987 à 2003, l'appelant a déclaré les revenus, les dépenses et les pertes nettes suivantes à l'égard de l'activité :
+Année
+Revenus
+Dépenses
+Pertes nettes
+1987
+2 297 $
+46 603 $
+44 306 $
+1988
+7 367 $
+30 133 $
+22 766 $
+1989
+10 237 $
+18 690 $
+8 453 $
+1990
+4 985 $
+18 961 $
+13 976 $
+1991
+720 $
+13 190 $
+12 470 $
+1992
+2 070 $
+10 770 $
+8 700 $
+1993
+690 $
+8 414 $
+7 724 $
+1994
+1 568 $
+7 882 $
+6 314 $
+1995
+1 100 $
+8 977 $
+7 877 $
+1996
+4 373 $
+10 618 $
+6 245 $
+1997
+4 180 $
+9 139 $
+4 959 $
+1998
+4 900 $
+10 226 $
+5 326 $
+1999
+2 250 $
+9 947 $
+7 697 $
+2000
+1 650 $
+9 670 $
+8 020 $
+2001
+2 350 $
+9 831 $
+7 481 $
+2002
+3 890 $
+8 470 $
+4 580 $
+2003
+2 805 $
+8 235 $
+5 430 $
+Total
+57 432 $
+239 756 $
+182 324 $
+f) le bateau a été donné en location pendant 6 jours en 2000, et pendant 8 jours en 2001;
+g) l'appelant louait son bateau seulement à des membres de sa famille, à des amis, ou à des gens que ces derniers lui avaient recommandés;
+h) l'appelant n'a pas fait la promotion de l'activité auprès du grand public;
+i) l'appelant a fait un usage personnel du bateau pendant 20 jours en 2000 et aussi en 2001;
+j) la saison de location de bateaux à Sidney (C.-B.) s'étend généralement d'avril à septembre;
+k) l'appelant a acheté le bateau pour son usage personnel;
+l) l'appelant a acheté le bateau en vue de sa retraite;
+m) pour les années 1998 à 2003, l'appelant a déclaré les revenus et les dépenses indiqués à l'annexe A ci-jointe à l'égard de l'activité;
+n) même si les intérêts étaient exclus des dépenses déduites pour les années 1998 à 2003, l'activité serait encore en situation de perte nette;
+o) la location du bateau à de la famille et à des amis avait pour but de permettre à l'appelant de reporter les frais liés à la possession du bateau, et non de tirer des profits de cette source;
+p) dans la déduction de ses dépenses pour les années 2000 et 2001, l'appelant n'a pas tenu compte des dépenses à caractère personnel;
+q) pendant les années précédant 1998, l'appelant a déduit le coût du bateau au moyen de la déduction pour amortissement;
+r) l'appelant n'avait pas élaboré de plan qui lui aurait permis de tirer profit de l'activité;
+s) l'appelant ne menait pas l'activité comme une activité commerciale;
+t) les dépenses déduites n'ont pas été faites dans le but de tirer ou de gagner un revenu d'une entreprise;
+u) l'appelant ne menait pas l'activité dans le but d'en tirer profit.
+B. QUESTIONS EN LITIGE
+18. La question est de savoir si l'appelant a le droit de déduire les pertes liées à l'activité dans le calcul de ses revenus pour les années 2000 et 2001.
+C. DISPOSITIONS DE LA LOI, MOYENS INVOQUÉS ET RÉPARATIONS SOLLICITÉES
+19. L'intimée s'appuie sur les articles 3, 4 et 9, sur le paragraphe 248(1) et sur les alinéas 18(1)a) et 18(1)h) de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « Loi » ).
+20. L'activité ne constituait pas une source de revenu de l'appelant. L'activité n'était pas une entreprise. L'appelant ne peut pas déduire les pertes dans le calcul de ses revenus, en application de l'article 3 de la Loi.
+[4] L'appelant est né et a grandi dans le Nord de la Saskatchewan, où on trouve des milliers de lacs, dont plusieurs sont assez grands. Il s'est enrôlé et a obtenu son diplôme du Royal Roads Military College en 1971, et a ensuite servi pendant 4 ans dans la Marine royale du Canada. Il a obtenu sa qualification d'officier commissionné de destroyer, de plongeur autonome et d'officier de plongée du navire pendant son service dans les régions de Victoria et d'Halifax, sur différents navires. Il a ensuite fait des études en droit, a obtenu son diplôme, et a commencé à pratiquer le droit à Calgary, où il habite depuis 1978. En 1981, avec deux autres avocats, il a ouvert un cabinet d'avocats spécialisés en droit en matière de pétrole et de gaz naturel. Il a quitté ce cabinet en 1986, à la suite d'un différend. Il est alors devenu un avocat exerçant à titre individuel. Pendant les années 2000 et 2001, il pratiquait de sa maison, et le fait d'ailleurs encore. Son cabinet lui rapporte environ 50 000 $ par année. Il est marié et a deux filles, maintenant adultes, et des petits-enfants. Une de ses filles habite, avec sa famille, à moins de cinq minutes de marche de la résidence de l'appelant. Il a déjà été président de la filiale de Calgary de l'Association des officiers de la marine du Canada, et il participe aux activités d'autres associations navales de Calgary. Il a organisé la première régate de Calgary et participe encore aujourd'hui à l'organisation de l'événement. Son groupe social semble être constitué de gens de Calgary qui s'intéressent à la navigation et a d'autres activités navales. L'appelant a toujours sa certification de plongeur autonome. Il pratique aussi l'alpinisme.
+[5] Les hypothèses 17b), c), d), e), f), m), n), p) et q) ne sont pas réfutées.
+[6] En ce qui concerne les hypothèses, la Cour conclut ce qui suit :
+a)- L'appelant a acheté un voilier de 35 pi en décembre 1985. Il l'a acheté du concessionnaire de bateaux C & C, à Calgary, qui, à cette époque, était le concessionnaire qui vendait le plus de bateaux C & C au Canada. L'entreprise C & C construisait des bateaux à Niagara-on-the-Lake, en Ontario. Aussi, à cette époque, Revenu Canada avait un programme fiscal d'amortissement accéléré visant à encourager les Canadiens à acheter des bateaux faits au Canada pour des fins d'affaires. Ces bateaux étaient appelés des « navires certifiés » . L'appelant pouvait déduire 6 % ou 7 % du coût de son bateau dans sa déclaration de revenus. En résumé, l'appelant a acheté le bateau avec l'appui et les mesures incitatives du gouvernement du Canada dans le but d'en tirer profit, et il répondait à toutes les exigences du programme. On parle ici des premières années pour lesquelles l'appelant s'est vu établir des cotisations à l'égard du bateau. L'appelant a prouvé qu'il avait commencé à communiquer avec ses amis de Calgary et ses associés dans le but de louer le bateau, qui était amarré à une marina de Sidney, en Colombie-Britannique, en banlieue de Victoria. Il a enregistré la raison sociale « Boss Charters » , a imprimé du papier à lettre et des feuilles pour télécopie avec en-tête, et exploitait l'entreprise depuis son cabinet à la maison et, quand il était à Sidney, depuis le bateau. En 1987, il a fait de la publicité pour la location du bateau. Il s'agit de la seule fois où il a fait de la publicité. Aussi, il a loué le bateau à des écoles de navigation de plaisance en Colombie-Britannique pendant deux ans. Mais il a constaté qu'on cannibalisait son bateau pour réparer les bateaux appartenant aux écoles. De plus, il a appris que ceci pouvait avoir comme incidence d'annuler sa police d'assurance. Il a donc décidé de continuer de louer son bateau à des personnes qui lui avaient été recommandées de bouche à oreille, et il payait une prime d'assurance supplémentaire pour chacun des contrats de location. La Cour conclut qu'il s'agissait ici d'une pratique commerciale raisonnable et responsable pour les raisons suivantes :
+1. Elle permet d'éviter que des personnes irresponsables ou insensées ne causent des dommages au bateau.
+2. Elle permet d'éviter de louer à des personnes qui pourraient utiliser le bateau à des fins illégales, comme la contrebande, ce qui pourrait causer de graves dommages et pourrait même mener à la confiscation du bateau.
+3. Elle permet de réduire les dépenses dues à des dommages et aux hausses des primes d'assurance.
+L'appelant utilise toujours cette méthode pour louer son bateau. Il consulte les brochures des autres entreprises de location de bateaux pour fixer des prix plus bas que les leurs et leur faire concurrence. En plus de ses clients de Calgary, l'appelant loue son bateau à des membres actifs ou retraités de la marine qui habitent la région de Victoria, ainsi qu'à des vieux amis et à des personnes qui lui sont recommandées par eux.
+g) - L'appelant louait aussi son bateau à des membres de la Marine royale du Canada.
+h) - L'appelant a fait de la publicité pendant un an et n'a pas obtenu les résultats escomptés. Il a aussi négocié avec des entreprises de location commerciales qui mènent des activités à l'extérieur de Vancouver afin d'établir un type de coentreprise. Ces négociations ont échoué.
+i) - L' « usage personnel » que l'appelant aurait fait du bateau pendant la période de 20 jours chaque année comprenait 4 jours d'entretien et de réparations en 2000, et 8 jours d'entretien et de réparations en 2001. La Cour comprend qu'il faut faire l'entretien et la réparation du bateau si on veut le donner en location. Il s'agit donc d'une utilisation commerciale. De plus, ceci ne comprend pas les jours passés à nettoyer le bateau après les locations. L'appelant fait lui-même l'entretien, les réparations et le nettoyage du bateau. Sa femme l'aide de temps à autre. Aussi, dans son « usage personnel » , l'appelant naviguait parfois jusqu'à un point d'embarquement, comme Comox, pour aller chercher des clients.
+j) - M. Slater a indiqué que la saison de location de bateaux débute en mai et se termine en septembre.
+k) et l) - Selon les dispositions du programme du gouvernement de Canada, l'appelant a acheté le bateau dans le but d'en tirer profit dans le cadre d'une entreprise de location, exploitée principalement dans les îles Gulf dans le détroit de Georgie. Il utilise toujours le bateau à ces mêmes fins.
+o) - Cette hypothèse est inexacte. Les revenus de l'appelant ne sont pas assez élevés. Il ne peut pas se permettre d'avoir un bateau de plaisance pour des fins autres que commerciales. Il n'a pas fini de rembourser le prêt qu'il avait contracté pour acheter le bateau, et il n'a pas fini de rembourser son hypothèque. Il essaie toujours de tirer profit du bateau, mais il a de la concurrence et il rencontre des problèmes, comme ceux décrits précédemment, dans ses efforts de louer un bateau comme le sien en Colombie-Britannique.
+q) - Cette hypothèse est exacte. Ceci a été fait en application des dispositions de la Loi de l'impôt sur le revenu et a été reflété dans les cotisations établies à l'époque.
+r) - Cette hypothèse est inexacte. L'appelant avait prévu donner le bateau en location à des membres actifs et retraités de la marine, et à des connaissances à Calgary. Au bout de quelques années, il a commencé à le donner en location à des écoles de navigation en Colombie-Britannique, mais son bateau lui revenait des pièces en moins. Il a donc communiqué avec des entreprises de location de bateaux en Colombie-Britannique pour essayer d'établir avec eux une coentreprise, mais son initiative n'a pas réussi. Il en est donc revenu à son plan d'origine, mais a commencé à courtiser les membres de la Marine royale du Canada de la région de Victoria. Il s'attendait à ce que ceci donne lieu à une augmentation du nombre de contrats de location. Cette augmentation semble ne pas avoir eu lieu avant la fin de 2003.
+s) - Cette hypothèse est inexacte. De l'avis de la Cour, les efforts déployés décrits à l'alinéa r) correspondent à une activité commerciale, et il semble que l'Agence du revenu du Canada les ait interprétés comme tels. La publicité effectuée par l'appelant n'a pas porté fruit. Son problème est qu'il doit louer son bateau à des clients responsables et qu'il doit faire face à une certaine concurrence.
+t) - La Cour convient que, comme l'indique la preuve, l'appelant a fait un certain usage personnel du bateau. Par conséquent, en 2000 et 2001, certaines dépenses ont été faites afin de tirer des revenus de l'entreprise, et certaines ont été faites à titre personnel. La Cour conclut que le taux doit être calculé en fonction de l'usage réel (et non du nombre de jours dans l'année civile ou dans la saison), tel qu'indiqué ci-dessous, notamment :
+Jours
+2000
+2001
+1. Temps de location
+(Hypothèse f))
+6
+8
+2. Réparations et entretien, selon le témoignage de l'appelant
+4
+8
+Sous-total
+10
+16
+Il faut souligner que le temps de nettoyage n'est pas indiqué ou prévu dans le tableau précédent. Il est donc considéré comme relevant de l'usage personnel, parce que les réparations et l'entretien ainsi que le nettoyage normal sont effectués à des fins commerciales et personnelles. La Cour répartit donc l'usage commercial et personnel comme suit, en fonction du temps réel de l'usage :
+Jours
+2000
+2001
+3. Usage personnel
+supposé
+Soustraire n ° 2
+20
+4
+20
+8
+Usage personnel net
+16
+12
+4. Taux commercial
+personnel
+10
+16
+16
+12
+Total
+26
+28
+Eu égard à la conclusion voulant qu'il y ait eu une combinaison d'usage personnel et commercial, les critères régissant l'attente raisonnable de profit doivent être remplis par l'appelant en ce qui a trait au bateau. En appliquant les critères établis par le juge Dickson dans l'arrêt Moldowan v. The Queen, [1978] 1 R.C.S. 480, à la page 486, la Cour conclut ce qui suit :
+a) L'appelant a subi des pertes. Dans son témoignage, l'appelant a indiqué, à juste titre, que s'il avait obtenu quatre autres contrats de location d'une semaine chacun en 2000 et en 2001, il aurait tiré profit de l'entreprise de location de bateau. S'il n'avait pas eu à rembourser des intérêts, deux contrats supplémentaires auraient été suffisants.
+b) Le contribuable a reçu une formation complète et possède une grande expérience en matière de navigation et d'exploitation d'une entreprise. L'aspect de son entreprise concernant la publicité et la conclusion de contrats de location était mené depuis son bureau d'avocat à sa résidence, et principalement depuis Calgary. Il exploitait en partie un bureau d'avocat et en partie une entreprise de location de bateau, et il comptait tirer un revenu de ces deux éléments. Son groupe social à Calgary était composé de navigateurs. Comme le sait tout homme d'affaires, les relations sociales sont la principale source de contacts personnels pour une entreprise comme un bureau d'avocats (voir Douglas G. Gunn v. The Queen, 2006 CAF 281, particulièrement les paragraphes 83 et 91 à 94). Et qui plus est, le bateau portait le nom « Legal Ease » , un clin d'oeil à son bureau d'avocat.
+c) En ce qui concerne l'hypothèse r), le plan du contribuable pour son entreprise de location est établi. Il semble que le temps passé par l'appelant à son bureau d'avocat, à sa résidence, était principalement consacré à des activités juridiques. Toutefois, le temps qu'il a passé à l'extérieur de son bureau, en se livrant à des prétendues activités « sociales » , que la Cour interprète comme étant des activités d'établissement de contacts d'affaires, semble avoir été, en grande partie, associé aux activités concernant le bateau ou l'établissement de contacts pour sa location. Aussi, son temps passé à bord du « Legal Ease » était, en grande partie, associé aux activités de location.
+d) La Cour conclut que l'entreprise de location a demandé la plus grande part du capital investi, étant donné que l'achat du bateau comme tel demandait un montant considérable par rapport à ce qu'on investirait normalement dans un cabinet d'avocats. Il ne reste plus d'amortissement à appliquer.
+À ce moment-ci, le bureau d'avocat, bien que pas très gros, est profitable. Cependant, l'appelant est à la fin de la cinquantaine et les revenus provenant de son cabinet individuel vont probablement commencer à diminuer dans un avenir prochain, alors qu'il est possible que ses revenus de l'entreprise de location commencent à augmenter, surtout que ses dépenses d'intérêts diminuent et que grâce à toutes ces années de publicité de bouche à oreille, en plus du boom économique en cours à Calgary, le nombre de contrats de location va probablement augmenter. Par conséquent, on peut conclure que l'entreprise de location de bateau permettait à l'appelant d'avoir une attente raisonnable de profit en 2000 et en 2001, et que l'appelant avait des entreprises combinées, donc des revenus combinés provenant de son cabinet d'avocat et de l'entreprise de location, en 2000 et en 2001. Compte tenu des obstacles rencontrés, il éprouve des difficultés commerciales dans les deux cas. Il paie de l'impôt sur les revenus de son cabinet et il a le droit de déduire ses pertes subies dans le cadre de l'entreprise de location de bateau. Toutefois, la Cour conclut qu'il peut déduire ses pertes dans les proportions suivantes :
+2000
+10 x 8 020,73 $ = 3 084,90 $
+26
+2001
+16 x 7 481,81 $ = 4 275,32 $
+28
+u) - Par conséquent, la Cour conclut qu'en 2000 et 2001, l'appelant menait ses activités dans le but d'en tirer profit. La location du « Legal Ease » était une entreprise. Également, la Cour conclut qu'au moment où l'appelant a acheté le bateau, ses attentes de tirer un revenu important de son exercice du droit en matière de pétrole et de gaz naturel et de son entreprise de location de bateau étaient raisonnables. À compter du moment où il a commencé à exercer seul le droit dans son propre cabinet, les deux activités sont devenues une entreprise combinée donnant lieu à des revenus d'entreprise combinés.
+[7] La Cour conclut que l'appelant a le droit, dans le calcul de ses revenus pour les années 2000 et 2001, de déduire les pertes d'entreprise ci-dessous, subies dans le cadre de son entreprise de location de bateau :
+2000 : 3 084,90 $
+2001 : 4 275,32 $
+L'appel est donc accueilli et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction de ce qui précède.
+Signé à Saskatoon (Saskatchewan), ce 26e jour de septembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 27e jour de novembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI517
+N ° DU DOSSIER : 2005-3840(IT)I
+INTITULÉ : Bevan Edwin Slater c. La Reine
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : Le 1er septembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 26 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Tyler Lord
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

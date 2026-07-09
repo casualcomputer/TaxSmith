@@ -1,0 +1,182 @@
+---
+title: "1000025074 Ontario Inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521316/index.do"
+last_modified: "2024-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 110"
+citation2: ""
+neutral_citation: "2024 CCI 110"
+decision_date: "2024-08-20"
+language: "fr"
+item_id: "521316"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5725
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:40:07.595000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a00168cbc6dcd3a14c107e11caa24745c5091ccefc0e9202dc52943479f10f1b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1000025074 Ontario Inc. c. Le Roi
+
+- Citation: 2024 CCI 110
+- Decision date: 2024-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5725, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1000025074 Ontario Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-08-20
+Référence neutre
+2024 CCI 110
+Numéro de dossier
+2023-1836(GST)I
+Juges et Officiers taxateurs
+Scott Bodie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2023-1836(GST)I
+ENTRE :
+1000025074 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+‎[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 mai 2024, à Toronto (Ontario).
+Devant : l’honorable juge Scott Bodie
+Comparutions :
+Représentant de l’appelante :
+Hafeez Imran
+Avocat de l’intimé :
+Bryant Godkin
+JUGEMENT
+L’appel de la cotisation établie conformément à la Loi sur la taxe d’accise pour la période de déclaration de l’appelante allant du 12 novembre 2021 au 31 décembre 2021 est rejeté, sans dépens.
+Signé Ottawa, Canada, ce 20e jour d’août 2024.
+« Scott Bodie »
+Le juge Bodie
+Référence : 2024 CCI 110
+Date : 20240820
+Dossier : 2023-1836(GST)I
+ENTRE :
+1000025074 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+Intimé.
+‎[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bodie
+[1] L’appelante est une société constituée en vertu des lois de la province de l’Ontario. Son unique actionnaire et directeur est Hafeez Imran. M. Imran travaille à plein temps pour une banque nationale canadienne. En mars 2020, il a commencé à travailler à temps partiel en tant qu’agent immobilier et a créé l’appelante en novembre 2021 en tant que société immobilière personnelle.
+[2] En octobre 2018, M. Imran a acheté un Honda Pilot 2018 (le « Pilot ») et en mai 2021, lui et son épouse, Farnaz Imran, ont acheté un véhicule récréatif Sportsmen 2021 (le « VR », et avec le Pilot collectivement désignés aux présentes comme les « véhicules »). L’appelante a demandé des crédits de taxe sur les intrants (« CTI ») d’un montant total de 8 873,67 $ liés à la taxe sur les produits et services/taxe de vente harmonisée (« TPS/TVH ») sur les achats de véhicules pour la période de déclaration de l’appelante commençant le 12 novembre 2021 et se terminant le 31 décembre 2021. Le ministre du Revenu national (le « ministre ») a rejeté cette demande.
+[3] La seule question en litige dans ce recours consiste à déterminer si l’appelante a droit à des CTI pour les véhicules.
+[4] Pour les raisons qui suivent, l’appel est rejeté.
+[5] La position de l’appelante est qu’elle est en droit de demander des CTI pour les véhicules parce que les véhicules ont été principalement utilisés, ou disponibles pour être utilisés, dans le cadre des activités commerciales de l’appelante. L’appelante estime en outre qu’en raison de sa situation de société immobilière personnelle, dont M. Imran est l’unique actionnaire et directeur, tous les actifs au nom de M. Imran devraient également être considérés comme des actifs de l’appelante.
+Exigences légales [6] La règle générale permettant de déterminer si une personne a droit à des CTI est énoncée au paragraphe 169(1) de la Loi sur la taxe d’accise (« LTA »), dont voici les passages pertinents :
+169. (1) Règle générale [pour les crédits de taxe sur les intrants] Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A x B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B
+[…]
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[7] Par conséquent, les conditions suivantes doivent être remplies en l’espèce pour pouvoir réclamer des CTI :
+(a)l’appelante doit avoir acquis les véhicules;
+(b)la TPS/TVH relative aux véhicules doit être payable ou avoir été payée par l’appelante;
+(c)l’appelante doit avoir acquis les véhicules dans le cadre de ses activités commerciales.
+[8] J’examinerai successivement chacune de ces conditions dans le contexte du présent recours.
+L’appelante a-t-elle acquis les véhicules? [9] Il ressort clairement de la preuve que l’appelante n’a pas acquis les véhicules. La preuve a montré que les deux véhicules ont été achetés auprès du concessionnaire concerné par M. Imran, dans le cas du Pilot, et par M. Imran et son épouse, dans le cas du VR, avant que l’appelante soit constituée en société.
+[10] Un contrat d’achat de véhicule automobile d’occasion signé le 27 octobre 2018 entre M. Imran, en tant qu’acheteur, et Whitby Oshawa Honda a été présenté en élément de preuve par l’appelante pour démontrer l’achat du Pilot (le « contrat d’achat du Pilot »). De même, l’appelante a présenté comme élément de preuve un contrat d’achat de véhicule daté du 21 mai 2021, dans lequel M. Imran et son épouse sont désignés comme acheteurs, pour montrer l’achat du VR (le « contrat d’achat du VR »).
+[11] Le seul témoin qui a comparu dans le cadre de ce recours est M. Imran, en tant que directeur de l’appelante. Il a déclaré que l’appelante avait été constituée en société en novembre 2021.
+[12] En outre, lors du contre-interrogatoire, M. Imran a déclaré qu’aucun des véhicules n’avait jamais été transféré à l’appelante. Il a également déclaré que l’assurance du Pilot était à son nom et que les plaques et l’assurance du VR étaient à son nom. M. Imran a déclaré avoir financé lui-même l’achat des véhicules.
+[13] L’appelante n’a produit aucun acte de vente attestant du transfert des véhicules comme élément de preuve. En outre, aucun contrat de fiducie ou contrat d’agence, écrit ou oral, concernant les véhicules entre M. Imran ou son épouse et l’appelante n’a été présenté comme élément de preuve. L’appelante n’a pas non plus présenté de preuve qui pourrait indiquer que le contrat d’achat du Pilot ou le contrat d’achat du VR lui ont été cédés après la date de sa constitution.
+[14] Par conséquent, puisque les véhicules ont été achetés auprès du concessionnaire concerné avant que l’appelante soit constituée en société et, comme dans les cas de décisions semblables de la Cour dans les arrêts 550285 Alberta Ltd c. La Reine, [1998] G.S.T.C. 99 (CCI) et Technogold Imports Inc. c. La Reine, [1998] G.S.T.C. 31 (CCI), le nom de l’appelante ne figure pas sur un contrat de vente, un acte de vente, une immatriculation de véhicule, une preuve d’assurance, un contrat de fiducie, un contrat d’agence ou un contrat de cession, je ne peux pas conclure que l’appelante a acquis les véhicules, comme l’exige le paragraphe 169(1) de la LTA.
+La TPS/TVH était-elle payable ou a-t-elle été payée par l’appelante? [15] En ce qui concerne la question de déterminer si l’appelante devait payer la TPS/TVH à l’égard des véhicules, la juge Woods a fait remarquer dans l'arrêt Y.S.I.’s Yacht Sales International Ltd. c. Sa majesté la Reine, 2007 CCI 306 (« Y.S.I. ») que le point de départ de l’analyse est la disposition générale d’imposition de l’article 165, qui prévoit que l’« acquéreur » d’une fourniture « est tenu de payer » la TPS. Par conséquent, pour répondre à la question de savoir si la TPS/TVH était payable par l’appelante dans ce cas, il est nécessaire de déterminer si l’appelante était l’acquéreuse de la fourniture des véhicules.
+[16] Le terme « acquéreur » est défini comme suit au paragraphe 123(1) de la LTA :
+« acquéreur »
+(a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+(b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+(c) si nulle contrepartie n’est payable pour une fourniture :
+(i) personne à qui un bien, fourni par vente, est livré ou à la disposition de qui le bien est mis,
+(ii) personne à qui la possession ou l’utilisation d’un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+(iii) personne à qui un service est rendu.
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture.
+[17] Selon la preuve, la fourniture du Pilot a été effectuée dans le cadre du contrat d’achat du Pilot et la fourniture du VR a été effectuée dans le cadre du contrat d’achat du VR. Aucun autre élément de preuve de la fourniture de l’un ou l’autre des véhicules n’a été apporté. L’appelante n’était pas tenue de payer la contrepartie de la fourniture du Pilot en vertu du contrat d’achat du Pilot. L’appelante n’était pas non plus tenue de payer la contrepartie relative au VR en vertu du contrat d’achat du VR. Les deux contrats ont été conclus avant que l’appelante soit constituée en société.
+[18] Comme l’a dit la juge Woods dans l’arrêt Y.S.I., au paragraphe 57 :
+Le point essentiel est le suivant : une personne n’est pas un acquéreur au sens de la Loi sur la taxe d’accise à moins d’être tenue de payer la contrepartie aux termes d’une convention. En l’espèce, Platinum n’était pas tenue de payer la contrepartie en vertu des conventions conclues avec les fournisseurs.
+[19] De même, l’appelante n’était pas tenue de payer la contrepartie prévue par les contrats conclus avec l’un ou l’autre des fournisseurs des véhicules. Par conséquent, l’appelante n’était pas l’acquéreuse des véhicules aux fins de la LTA et, en conséquence, la TPS/TVH relative aux véhicules n’était pas payable par l’appelante.
+[20] En ce qui concerne la question de savoir si la TPS/TVH a été payée par l’appelant, lors du contre-interrogatoire, M. Imran a déclaré qu’il avait financé lui-même le paiement de la TPS/TVH pour les véhicules. En conséquence, la TPS/TVH n’a pas été payée par l’appelante.
+Les véhicules ont-ils été acquis par l’appelante dans le cadre de ses activités commerciales? [21] En ce qui concerne la question de savoir si l’appelante a acquis les véhicules dans le cadre de ses activités commerciales, M. Imran a déclaré que les véhicules étaient utilisés ou pouvaient être utilisés dans le cadre d’une activité immobilière. Toutefois, pour que l’appelante réussisse à demander des CTI dans les circonstances qui font l’objet du présent appel, il ne suffit pas que les véhicules soient utilisés ou puissent être utilisés dans le cadre d’une activité immobilière. Pour obtenir gain de cause, l’appelante doit démontrer qu’elle a acquis les véhicules dans le cadre de ses activités commerciales. Pour les raisons exposées ci-dessus, l’appelante n’a pas franchi ce premier obstacle. Elle n’a pas acquis les véhicules.
+[22] Par conséquent, l’appelante ne remplit pas les exigences légales nécessaires pour demander avec succès des CTI pour l’achat des véhicules. Elle n’a pas acquis les véhicules dans le cadre d’activités commerciales ou autres. La TPS/TVH relative aux véhicules n’était pas payable par l’appelante. Cette TPS/TVH n’a pas été payée par l’appelante.
+S’agit-il d’une circonstance particulière en raison de la situation de société immobilière personnelle de l’appelante?
+[23] Toutefois, l’appelante a estimé qu’il n’était pas nécessaire qu’elle acquière spécifiquement les véhicules pour pouvoir demander des CTI. L’appelante a fait valoir qu’en raison de la situation de société immobilière personnelle de l’appelante, dont M. Imran est le seul directeur et actionnaire, il s’agit d’une circonstance particulière et que l’utilisation des véhicules devrait être considérée comme s’ils avaient été achetés au nom de l’appelante.
+[24] Tout d’abord, je note que l’appelante n’a pas expliqué comment cette position pouvait être maintenue en ce qui concerne le VR qui a été acheté par lui-même et par son épouse, qui n’est ni actionnaire ni administrateur de l’appelante. Abstraction faite de cette question, je ne peux souscrire à la position de l’appelante selon laquelle l’utilisation des actifs achetés par l’unique actionnaire et administrateur d’une société immobilière personnelle constituée en vertu des lois de l’Ontario peut être considérée comme faisant partie des actifs de la société en question.
+[25] Le 1er octobre 2020, le Règlement de l’Ontario 536/20 : Sociétés immobilières personnelles (le « Règlement ») est entré en vigueur. Le règlement définit un certain nombre de conditions qui permettent aux agents immobiliers de l’Ontario, pour la première fois, de constituer des sociétés immobilières personnelles qui serviront à certaines activités précises comme l’achat, la vente, la mise en vente et la publicité de biens immobiliers. L’une des conditions à remplir est énoncée à l’article 2.1 du Règlement et prévoit que la société doit être constituée ou maintenue en vertu de la Loi sur les sociétés par actions (Ontario) (« LSA »).
+[26] Ni les règlements ni la LSA ne prévoient qu’une société immobilière personnelle soit traitée différemment de toute autre société constituée ou maintenue en vertu de la LSA en ce qui concerne la distinction entre une société et ses actionnaires. Une société de droit canadien est une entité juridique distincte de ses actionnaires. Il s’agit d’un principe bien établi du droit canadien des sociétés et il a été suivi à de nombreuses reprises par les tribunaux canadiens. Par exemple, dans la décision Jerdar Enterprises Inc c. Canada [1994] 2 G.S.T.C. 54 au paragraphe 7, le juge en chef adjoint Christie a déclaré : [traduction] « De nombreuses autorités judiciaires ont établi qu’en droit, une société et ses actionnaires sont des entités juridiques séparées et distinctes ». Il s’ensuit qu’il doit y avoir une séparation entre l’actif et le passif d’une société et ceux de ses actionnaires. En examinant les implications juridiques de la personnalité distincte d’une société et de ses actionnaires, Kevin P. McGuinness a écrit dans Canadian Business Corporations Law, 3e éd. vol. 1 (Toronto : Lexis Nexis Canada Inc., 2017) à la p. 449 : [traduction] « Compte tenu de leur personnalité distincte, il est de la plus haute importance de marquer, d’observer et de maintenir clairement la distinction entre l’actif et le passif de la société et ceux de ses actionnaires. » Dans l’arrêt Envision Credit Union c. R, 2013 CSC 48 au paragraphe 57, le juge Rothstein a confirmé : « Il existe une règle fondamentale en droit des sociétés selon laquelle les actionnaires ne sont pas propriétaires des actifs de la société ».
+[27] Je note également que cette vision traditionnelle de la distinction entre les sociétés et leurs actionnaires et son applicabilité aux sociétés immobilières personnelles est conforme aux orientations données par l’Ontario Real Estate Association (« OREA ») à ses membres. Dans son guide intitulé « A Guide to Personal Real Estate Corporations for Ontario Realtors » (Guide des sociétés immobilières personnelles pour les agents immobiliers de l’Ontario), l’OREA déclare ce qui suit à la page 15 :
+[traduction]
+La constitution d’une société nécessite des tâches administratives supplémentaires pour votre entreprise immobilière, ce qui peut entraîner des coûts d’exploitation supplémentaires. Il est important de se rappeler qu’une société immobilière personnelle est une entité distincte de vous en tant que professionnel de l’immobilier, ce qui signifie que vous êtes tenu de remplir une déclaration de revenus distincte pour votre société.
+[28] Dans l’arrêt Land and Sea Enterprises Ltd. c. R, 2011 CCI 101 au paragraphe 16, la Cour a déclaré qu’on ne peut faire abstraction de la personnalité morale et considérer l’entité et ses actionnaires comme un tout que lorsqu’il est clairement évident que les circonstances l’exigent. En conséquence, dans l’affaire qui nous occupe, les CTI du contribuable ont été refusés, car le contribuable et ses actionnaires sont séparés et distincts.
+[29] Dans l’arrêt Kosmopoulos c. Constitution Insurance Co. of Canada, 1987 CanLII (CSC), pages 11 et 12, la Cour suprême du Canada a clairement indiqué qu’une personne qui choisit de se constituer en société doit accepter les avantages et les inconvénients de la constitution en société, en affirmant ce qui suit :
+Il y a un argument convaincant selon lequel [traduction] « quiconque choisit de profiter des avantages qu’offre la constitution en société doit aussi en supporter les inconvénients, de sorte que, si jamais on doit faire abstraction de la personnalité morale, ce ne doit être que dans l’intérêt de tiers à qui, sans cela, ce choix porterait préjudice » […] Un avocat compétent a conseillé à M. Kosmopoulos de constituer son entreprise en société afin de protéger ses biens personnels et rien dans la preuve n’indique que sa décision de profiter des avantages qu’offre la constitution en société n’était pas sincère. Ayant opté pour les avantages de la constitution en société, il ne devrait pas lui être permis de se soustraire à ses désavantages. Il ne devrait pas lui être loisible de « jouer sur les deux tableaux » en même temps.
+[30] En contre-interrogatoire, M. Imran a déclaré qu’il avait choisi de constituer la société appelante sur les conseils de son comptable afin d’obtenir certains avantages à long terme.
+[31] En l’absence d’une exception précise au principe juridique bien établi selon lequel une société et ses actionnaires sont des entités juridiques distinctes, ce principe doit s’appliquer aux sociétés immobilières personnelles comme il s’applique à toutes les autres entités juridiques constituées en vertu du droit canadien. Il n’y a pas, en l’espèce, de circonstances qui exigent de façon clairement évidente de faire abstraction de la personnalité morale de la société.
+Décision
+[32] En conséquence, l’appelante n’a pas satisfait aux exigences de la LTA requises pour demander avec succès des CTI pour les véhicules. Elle n’a pas acquis les véhicules. La TPS/TVH relative aux véhicules n’était pas payable par l’appelante. Cette TPS/TVH n’a pas non plus été payée par l’appelante. En outre, il n’existe aucune base juridique permettant de considérer les véhicules comme des actifs de l’appelante en raison de la situation de société immobilière personnelle de cette dernière.
+[33] L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 20e jour d’août 2024.
+« Scott Bodie »
+Le juge Bodie
+RÉFÉRENCE :
+2024 CCI 110
+NO DU DOSSIER DE LA COUR :
+2023-1836(GST)I
+INTITULÉ :
+1000025074 ONTARIO INC. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 mai 2024
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Scott Bodie
+DATE DU JUGEMENT :
+Le 20 août 2024
+COMPARUTIONS :
+Représentant de l’appelante :
+Hafeez Imran
+Avocat de l’intimé :
+Bryant Godkin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+VIERGE
+Cabinet :
+VIERGE
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

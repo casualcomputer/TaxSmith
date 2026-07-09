@@ -1,0 +1,246 @@
+Title: Calder Enterprises Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29862/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-341-29862-calder-enterprises-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-06-21
+
+# Calder Enterprises Inc. v. M.N.R.
+
+- Citation: 2010 TCC 341
+- Decision date: 2010-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6419, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calder Enterprises Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-21
+Neutral citation
+2010 TCC 341
+File numbers
+2009-2549(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-2549(EI)
+BETWEEN:
+CALDER ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Calder Enterprises Inc. (2009-2548(CPP))
+on May 17, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Terry Calder
+Counsel for the Respondent:
+Marla Teeling and Scott England
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of June 2010.
+“Paul Bédard”
+Bédard J.
+Docket: 2009-2548(CPP)
+BETWEEN:
+CALDER ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Calder Enterprises Inc. (2009-2549(EI))
+on May 17, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Terry Calder
+Counsel for the Respondent:
+Marla Teeling and Scott England
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of June 2010.
+“Paul Bédard”
+Bédard J.
+Citation: 2010 TCC 341
+Date: 20100621
+Dockets: 2009-2549(EI),
+2009-2548(CPP)
+BETWEEN:
+CALDER ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Minister of National Revenue (the “Minister”) decided: i) that Carey Stoney (the “worker”) was employed in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the “Act”) and paragraph 6(1)(a) of the Canada Pension Plan (the “CPP”) during the period from January 1, 2006 to September 30, 2007 (the “Relevant Period”) since he was employed pursuant to a contract of service with the Appellant; and ii) that the worker was not employed by the Appellant in employment excluded under paragraph 5(2)(i) and subsection 5(3) of the Act since, in the Minister’s view, the worker and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. The Appellant is appealing the Minister’s decisions.
+[2] The Appellant was in the trucking business, hauling bulk propane for ECL (“ECL”), the Appellant's sole client. The Appellant was providing ECL with a truck and a driver during the Relevant Period. Carey Stoney (the brother of the shareholder of the Appellant) was hired as a driver by the Appellant.
+[3] The Appellant’s position is that the worker was an independent contractor and was not employed under a contract of service.
+[4] Each case in which the question of whether a pension is an employee or an independent contractor arises must be dealt with on its own facts. The four components (control, ownership of tools, chance of profit and risk of loss) of the composite test enunciated in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, must each be assigned its appropriate weight in the circumstances of the case. Moreover, the intention of the parties to the contract has in recent decisions of the Federal Court of Appeal become a factor whose weight seems to vary from case to case (Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87; Wolf v. Canada, [2002] 4 F.C.A. 396; City Water International Inc. v. Canada, 2006 FCA 350; National Capital Outaouais Ski Team v. M.N.R., 2008 FCA 132).
+[5] The facts on which the Minister relied to render his decision in the CPP case (2009‑2548(CPP)) are set out in paragraph 5 of the Reply to the Notice of Appeal, as follows:
+(a) the Appellant was in the trucking business, hauling bulk propane; (admitted)
+(b) the Appellant owned and operated one truck; (admitted)
+(c) the Appellant entered into an agreement with a client (hereinafter “ECL”) to provide a truck and driver; (admitted)
+(d) propane is a “dangerous good” and the hauling of propane is highly regulated by the government; (admitted)
+(e) the sole shareholder of the Appellant was Terry Calder (hereinafter “the Shareholder”); (admitted)
+(f) the Worker was the brother of the Shareholder; (admitted)
+(g) the Worker was hired as a driver and his duties included loading, transporting and unloading propane; (admitted)
+(h) the Shareholder was active in the business and the main driver for the Appellant; (admitted)
+(i) the Worker and the Appellant did not enter into a written agreement; (admitted)
+(j) the Worker began working for the Appellant in January of 2003; (admitted)
+(k) the Worker stopped working for the Appellant on September 30, 2007 when the business ceased; (admitted)
+(l) the Worker earned a set commission of 31% of the gross earnings of the truck; (admitted)
+(m) the earnings of the truck were based on kilometres driven; (denied)
+(n) the Appellant paid the Worker on a semi‑monthly basis; (admitted)
+(o) the Appellant required the truck to be going 7 days a week; (admitted)
+(p) ECL provided enough work to keep the truck going full‑time; (admitted)
+(q) the Worker drove when the Shareholder didn’t; (admitted)
+(r) the Worker normally worked from Sunday to Wednesday; (admitted)
+(s) the Worker kept a record of the work completed; (admitted)
+(t) the Worker was in a position of subordination; (denied)
+(u) the Worker reported to ECL on a daily basis; (denied)
+(v) ECL assigned work to the Worker; (admitted)
+(w) ECL determined the delivery schedule; (admitted)
+(x) ECL determined the Worker’s routes; (admitted)
+(y) the truck had a tracking system which recorded kilometres driven and route taken; (admitted)
+(z) the Worker reported to the Appellant twice a day; (admitted)
+(aa) the Worker was required to submit log books and bills of lading; (admitted)
+(bb) the Worker was required to attend ECL safety meetings; (admitted)
+(cc) ECL provided training for the Worker; (admitted)
+(dd) the Worker informed the Appellant of any leave required; (admitted)
+(ee) the Worker could not hire his own helper; (denied)
+(ff) the Worker did not replace himself; (admitted)
+(gg) the Appellant was responsible for replacing the Worker; (denied)
+(hh) the Appellant provided all of the tools and equipment required including the truck, a CB radio and a two‑way radio; (admitted)
+(ii) ECL provided the trailers for hauling the propane; (admitted)
+(jj) the Worker provided his own cell phone; (admitted)
+(kk) the Worker could not use the Appellant’s truck for driving for others; (denied)
+(ll) the Appellant’s truck was normally parked at ECL’s premises; (admitted)
+(mm) the Appellant paid all operating expenses including fuel, oil, repairs and maintenance, license, insurance and permits; (admitted)
+(nn) the Worker provided his own transportation to and from ECL premises; (admitted)
+(oo) the Worker did not have a chance of profit or risk of loss; (admitted)
+(pp) the Worker did not charge the Appellant GST; (admitted)
+(qq) the Worker did not have an investment in the business; (admitted)
+(rr) the Worker was not responsible for managing the business, and (admitted)
+(ss) the Worker was not in business for himself while performing services for the Appellant. (denied)
+[6] The facts on which the Minister relied to render his decision in the EI case (2009‑2549(EI)) are set out in paragraph 5 of the Reply to the Notice of Appeal, as follows:
+a. the Appellant was in the trucking business, hauling bulk propane; (admitted)
+b. the Appellant owned and operated one truck; (admitted)
+c. the Appellant entered into an agreement with a client (hereinafter “ECL”) to provide a truck and driver; (admitted)
+d. propane is a “dangerous good” and the hauling of propane is highly regulated by the government; (admitted)
+e. the sole shareholder of the Appellant was Terry Calder (hereinafter “the Shareholder”); (admitted)
+f. the Worker was the brother of the Shareholder; (admitted)
+g. the Worker was hired as a driver and his duties included loading, transporting and unloading propane; (admitted)
+h. the Shareholder was active in the business and the main driver for the Appellant; (admitted)
+i. the Worker and the Appellant did not enter into a written agreement; (admitted);
+j. the Worker began working for the Appellant in January of 2003; (admitted)
+k. the Worker stopped working for the Appellant on September 30, 2007 when the business ceased; (admitted)
+l. the duration of the Worker’s employment was reasonable; (admitted)
+m. the Worker earned a set commission of 31% of the gross earnings of the truck; (admitted)
+n. the earnings of the truck were based on kilometres driven; (denied)
+o. the Appellant paid the Worker on a semi‑monthly basis; (admitted)
+p. the Appellant paid the Worker on a regular and consistent basis; (admitted)
+q. the Worker’s wage rate was reasonable; (admitted)
+r. the Appellant required the truck to be going 7 days a week; (admitted)
+s. ECL provided enough work to keep the truck going full‑time; (admitted)
+t. the Worker drove when the Shareholder didn’t; (admitted)
+u. the Worker normally worked from Sunday to Wednesday; (admitted)
+v. the Worker kept a record of the work completed; (admitted)
+w. the Worker was in a position of subordination; (denied)
+x. the Worker reported to ECL on a daily basis; (denied)
+y. ECL assigned work to the Worker; (admitted)
+z. ECL determined the delivery schedule; (admitted)
+aa. ECL determined the Worker’s routes; (admitted)
+bb. the truck had a tracking system which recorded kilometres driven and route taken; (admitted)
+cc. the Worker reported to the Appellant twice a day; (admitted)
+dd. the Worker was required to submit log books and bills of lading; (admitted)
+ee. the Worker was required to attend ECL safety meetings; (admitted)
+ff. ECL provided training for the Worker; (admitted)
+gg. the Worker informed the Appellant of any leave required; (admitted)
+hh. the Worker could not hire his own helper; (denied)
+ii. the Worker did not replace himself; (admitted)
+jj. the Appellant was responsible for replacing the Worker; (denied)
+kk. the terms and conditions of the Worker’s employment were reasonable; (admitted)
+ll. the Appellant provided all of the tools and equipment required including the truck, a CB radio and a two‑way radio; (admitted)
+mm. ECL provided the trailers for hauling the propane; (admitted)
+nn. the Worker provided his own cell phone; (admitted)
+oo. the Worker could not use the Appellant’s truck for driving for others; (denied)
+pp. the Appellant’s truck was normally parked at ECL’s premises; (admitted)
+qq. the Appellant paid all operating expenses including fuel, oil, repairs and maintenance, license, insurance and permits; (admitted)
+rr. the Worker provided his own transportation to and from ECL premises; (admitted)
+ss. the Worker did not have a chance of profit or risk of loss; (admitted)
+tt. the Worker did not charge the Appellant GST; (admitted)
+uu. the Worker did not have an investment in the business; (admitted)
+vv. the Worker was not responsible for managing the business; (admitted)
+ww. the Worker was not in business for himself while performing services for the Appellant; (admitted)
+xx. the Appellant stated that the Worker was treated the same as an arm’s length person; and (admitted)
+yy. the Minister considered all of the relevant facts that were made available to the Minister. (denied)
+[7] Mr. Calder was the only witness.
+Mr. Calder’s testimony
+[8] Mr. Calder, whose testimony generally seemed credible, first talked, in an evasive way, about the discussions that took place between him and the worker before they entered into an oral contract. He explained that it was agreed upon with the worker that the Appellant would not deduct EI premiums and CPP contributions or any other amount from the worker’s remuneration. He added that it was also agreed that the worker would be responsible for his own tax remittances. Mr. Calder actually talked more about the objective in entering into the contract than their understanding of the contract. He later specifically stated in his testimony that the parties certainly did not want an employer‑employee relationship.
+[9] Mr. Calder explained that the earnings of the truck were based as well on the weight of the load. He also explained that the worker could hire his own helper and that, at the beginning of the relationship, the worker was in fact working for others. I would point out immediately that Mr. Calder admitted that the worker never had anyone replace him during the Relevant Period, nor did the Appellant ever have to find a replacement for the worker during the Relevant Period. Mr. Calder also testified that the worker was required by the Appellant to provide his own cell phone. Finally, he added that on one occasion, the Appellant reimbursed the worker for hotel and meal expenses incurred while performing work for the Appellant.
+Analysis and conclusion
+[10] Starting with the issue of intention, what evidence do I have of the Appellant’s and the worker’s intention as regards the legal relationship they had entered into. Firstly, it should be pointed out that there is no written agreement to which I can refer. Secondly, there is no oral evidence from the worker. The only oral evidence is that of Mr. Calder. It is not clear from Mr. Calder’s testimony, which was very vague and evasive in that regard, what was actually discussed between the parties before entering into the contract. It seems to me that they talked more about their objectives in entering into the contract than about the nature of the contrat they wanted to enter into. I cannot infer from Mr. Calder’s testimony that the parties shared a common understanding that the worker was to be self‑employed and not an employee. Where the intention of the parties cannot be ascertained, it is quite proper, indeed necessary, to look at all the facts to see what legal relationship they reflect. In that regard, the four components of the composite test enunciated in Wiebe Door are relevant and helpful in ascertaining the intent of the parties to the contract and the legal nature of the contract.
+[11] Turning now to the facts, what factors suggest that the worker was in business on his own account?
+Control
+i. He was not really under any direct supervision by Mr. Calder.
+ii. He was a professional driver who knew what to do and who knew all the regulations applying to the hauling of propane.
+iii. He could work for anyone else.
+iv. He could have someone replace him.
+Tools
+v. He provided his own cell phone.
+Chance of profit / Risk of loss
+vi. By working more hours, he could increase his income.
+[12] What factors suggest that the worker was an employee of the Appellant?
+Tools / Equipment
+i. The Appellant provided all the tools and equipment required, including the truck.
+Responsibility for investment and management
+ii. The worker had no such responsibility.
+Chance of profit/Risk of loss
+iii. The worker had no expenses and no liability exposing him to a risk of loss.
+iv. There was in reality, no opportunity for him to increase his income since the safety regulations prevented a truck driver hauling propane from driving over a certain number of hours and since the worker only drove when Mr. Calder did not.
+Control
+v. The worker received instructions from ECL. In fact, the worker reported to ECL on a daily basis. ECL assigned work to the worker. ECL determined the delivery schedule. ECL determined the worker’s route. ECL required the worker to adhere to a dress code. The worker was required to attend ECL safety meetings. ECL provided training for the worker. In fact, the Appellant delegated most of its authority over the worker to ECL.
+vi. The worker also reported regularly to Mr. Calder.
+vii. The worker informed the Appellant if he required any leave.
+[13] Here we have a worker, who, if I accept the Appellant’s submissions, was an independent contractor, and yet brought no truck to his alleged trucking business: he was not responsible for insurance on the truck, he did not pay for gas, and he effectively had no exposure to liability. He just showed up to drive the Appellant’s truck, and he did so wearing a uniform (a shirt and black pants) the Appellant was required by ECL to have the worker wear. I cannot find in these circumstances that a degree of absence of control by the Appellant when it came to supervising how the worker drove the truck outweighs the overall view that the worker was not in business on his own account.
+Did the Minister properly exercise his discretion?
+[14] This is not an issue since the Appellant admitted indirectly that the worker and the Appellant would have entered into a substantially similar contract if they had been dealing each other at arm’s length. I would point out, in this regard, that the Appellant admitted that the worker’s wage rate was reasonable. The Appellant also admitted that the duration of the worker’s employment was reasonable. Lastly, the Appellant admitted that the worker was treated the same as an arm’s length person would have been.
+[15] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 21st day of June 2010.
+“Paul Bédard”
+Bédard J.
+CITATION: 2010 TCC 341
+COURT FILE NOS.: 2009-2549(EI), 2009-2548(CPP)
+STYLE OF CAUSE: CALDER ENTERPRISES INC. v. M.N.R.
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: May 17, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 21, 2010
+APPEARANCES:
+Agent for the Appellant:
+Terry Calder
+Counsel for the Respondent:
+Marla Teeling and Scott England
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

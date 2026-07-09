@@ -1,0 +1,267 @@
+Title: Orcheson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25872/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-247-25872-orcheson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-12
+
+# Orcheson v. The Queen
+
+- Citation: 2004 TCC 247
+- Decision date: 2004-05-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3866, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Orcheson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-12
+Neutral citation
+2004 TCC 247
+File numbers
+2001-2324(IT)G
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2324(IT)G
+BETWEEN:
+ALLAN ORCHESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeals heard on common evidence with the appeals of Lorna Orcheson (2001-2325(IT)G) on January 7, 2004 and March 10, 11 and 12, 2004
+at Toronto (Ontario)
+Before: The Honourable Justice Gordon Teskey
+Appearances
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act (the "Act") for the 1995, 1996, 1997 and 1998 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct further expenses in those years, namely one-half of the following amounts: $310.00, $276.00, $1,295.12 and $2,516.78 respectively.
+The appeal from the assessment made under the Act for the 1999 taxation year is dismissed.
+The Appellant is not entitled to any further relief.
+Costs are awarded to the Respondent on a party and party basis to be taxed.
+Signed at Toronto, Ontario, this 12th day of May, 2004.
+"Gordon Teskey"
+Teskey, J.
+Docket: 2001-2325(IT)G
+BETWEEN:
+LORNA ORCHESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+Appeals heard on common evidence with the appeals of Allan Orcheson (2001-2324(IT)G) on on January 7, 2004 and March 10, 11 and 12, 2004
+at Toronto (Ontario)
+Before: The Honourable Justice Gordon Teskey
+Appearances
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act (the "Act") for the 1996, 1997 and 1998 taxation years are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that she is entitled to deduct further expenses in those years, namely one-half of the following amounts: $276.00, $1,295.12 and $2,516.78 respectively.
+The appeal from the assessment made under the Act for the 1999 taxation year is dismissed.
+The Appellant is not entitled to any further relief.
+Costs are awarded to the Respondent on a party and party basis, to be taxed, but to be allowed only one preparation and counsel fee at trial.
+Signed at Toronto, Ontario, this 12th day of May, 2004.
+"Gordon Teskey"
+Teskey, J.
+Citation: 2004TCC247
+Date: 20040512
+Docket: 2001-2324(IT)G
+BETWEEN:
+ALLAN ORCHESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2001-2325(IT)G
+BETWEEN:
+LORNA ORCHESON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] These appeals were heard on common evidence.
+[2] Allan Orcheson ("Allan") appeals his reassessment of income tax for the taxation years 1995, 1996, 1997, 1998 and 1999.
+[3] Lorna Orcheson ("Lorna") appeals her reassessment of income tax for the taxation years 1996, 1997, 1998 and 1999.
+[4] These appeals revolve around the rental of cottages (the "Activity") fronting on Lake Simcoe, near Keswick, known as 311 Lake Drive, 454 Lake Drive and 470 Lake Drive (now known as 314 Glenwoods Avenue), all in the Town of Georgina.
+Issues
+[5] There are six issues involved, namely:
+(i) Whether income from the Activity constitutes income from a business or income from property;
+(ii) If I find that it is income from a business, then was there a valid election filed in accordance with subsection 249.1(4) of the Income Tax Act (the "Act")?;
+(iii) What does paragraph 5 of the Replies to both Notices of Appeal mean?
+(iv) Whether the T4 issued for the year 1997 by Londonderry Capital Structuring Ltd. for Lorna is accurate.
+(v) Whether the Activity in the years in question consisted of two or three cottages.
+(vi) Whether the Appellants are entitled to deduct expenses in excess of those permitted by the Minister of National Revenue (the "Minister").
+The Evidence Adduced
+[6] Keeping in mind that the assessments are deemed valid and correct and that the onus of proof lies with the Appellants to demonstrate that the assessment of tax is wrong, the evidence adduced was most unsatisfactory.
+[7] Lorna was the only witness. Her testimony was argumentative, repetitive and evasive. A discussion usually ensued after every question. As a result of her reticence to answer simple questions, the hearing that should have taken conservatively half the time, took three and a half days. When asked what taxes were expensed for 1995, the answer was: "We used 11 months of 1994 for our year-end 1995 plus one month of 1994." I asked Lorna on one occasion, when dealing with the cancelled cheques, "Do you have a bill?", several questions and answers went back and forth, then, when I said: "Do you want to answer the question before you carry on?", she said: "You see the implication is I don't have a bill. I don't have supporting evidence. If that is not the implication, then yes, I don't have an invoice but I do have a record of this cost!"
+[8] Since the 1999 assessment was based on a gross income of $34,430.00 and allowed expenses in a lump sum amount of $12,836.00, producing a net profit for the activity of $21,594.00, which was apportioned equally between both Appellants, it called into contention all items of expenses, including some items that were never challenged before by previous assessments.
+[9] Lorna describes herself as a professional accountant. She is a member of the Society of Management Accountants of Ontario. The receipt for her 1997/1998 dues is attached to her T1 tax return for 1997.
+[10] Lorna stated that she and Allan provide firewood, barbeques, picnic tables, swimming and fishing in Lake Simcoe, a boat, a canoe, boat launching dock, snowmobiling, ice fishing, skating, cross-country skiing, in addition to fully furnished housing.
+[11] Lorna stated that the tenants get exclusive use of the whole property on which the cottage that is rented sits on and that a tenant can store an ice hut on the property. There are no common areas.
+[12] The cottage is clean when a tenant moves in and is supplied with fresh linen.
+[13] The Activity was described, in answer to my question: "Tell me about the cleaning and what you do." The answer was: "Fully furnished accommodations, cleaning services, we shovel the snow, we clean the yard; as a marina: boat launching and docking."
+[14] Lorna has a full time job and two part time jobs. Allan has a full time job.
+[15] No evidence was adduced whatsoever as to the type of tenancy they experienced in the various seasons. Were the cottages rented normally for the ice fishing season, which would be three months, or by the month, or by the week, or by the weekend, the same as in the summer season? What was typical? This was not put in evidence.
+[16] Thus, there is no way I can determine the amount of snow shovelling, cleaning or linen replacement that took place.
+[17] The Appellants advertised their activity in a local paper, the EZR Banner, and in the Toronto Star each year. The only evidence they produced was cancelled cheques. Not one invoice or tear sheet was produced. Even one for the 2003 year could have been produced as representative. This would have assisted the Court in determining the type of rental that was offered.
+[18] No bank statements were adduced, nor tenant lists nor a rate schedule for any of the cottages.
+[19] No description was given of each cottage. Therefore, it is not known if they are one-bedroom, two-bedroom or 10-bedroom cottages.
+[20] No evidence was adduced as to the gross rental received for 1999. The alleged business bank statements were not produced. A rental diary, if one was kept, was not produced. The appellants' position was simply: "In previous assessments, our gross rental was accepted, therefore for 1999, it should again be accepted."
+[21] In regards to issue (iv), the T4 that is alleged to be for the wrong amount, the Court is asked to accept Lorna's word that it is in the wrong amount. Again, no bank records or any other supporting documentation was brought forward.
+[22] The evidence on the expenses will be dealt with later on herein.
+The Law on Issue (i)
+[23] The Appellant referred the Court to a 1982 Revenue Canada Interpretation Bulletin. As an interpretation bulletin is not the law, I will deal with the case history. The reliable jurisprudence starts with two Exchequer Court of Canada decisions, the 1984 decision of Wertman v. Minister of National Revenue, 64 DTC 5158 and a 1965 decision, Walsh v. Minister of National Revenue, 65 DTC 5293, followed by a Supreme Court of Canada decision in 1986, Canadian Marconi v. Canada, [1986] 2 S.C.R. 522.
+[24] Thurlow J., in the Wertman decision, was dealing with an apartment building in Vancouver. He said in paragraph 22 and 23 thereof:
+Under the Canadian statute what is taxed as income from a property or a business is the 'profit therefrom' for a taxation year, and this poses the question 'what is the profit from the property or business?' In the great majority of cases it is quite immaterial whether the profit is regarded as arising from a business or from property, but when the question does arise, it is in my opinion simply one that must be resolved on the facts of the particular case and I know of no single criterion on which it may be determined. That the rentals are primarily or entirely receipts from property may be a factor of great importance but it is not necessarily conclusive for the question in a case such as the present one is not so much what the income is derived from but whether the income can be fairly described as income from a business within the meaning of that term as used in the Act. Moreover, cases are I think readily conceivable where particular income may be accurately described as income from property and just as accurately regarded as income from a business.
+On the evidence in the present case the sum received as rentals from the Park Strand should I think be regarded as having accrued to the appellant and his wife and son predominantly, if not entirely, in their capacity as owners of the property rather than as traders, and I also think that the rentals should be regarded as having accrued predominantly, if not entirely, from the use by tenants of the property in the sense that they represent payments for the tenants' occupation thereof rather than payments arising from the process of letting apartments and providing certain limited services such as heat of which the tenants have the benefit. To my mind while there is a sense in which the rentals can be said to be revenues from a business of letting apartments or operating an apartment building for the purpose of securing rentals, it is a fanciful and unrealistic way of describing them for it puts the emphasis of the description of their source where it does not belong viz., on the mere sine qua non or conduit pipe of the letting activity rather than on the fact that they arise from the use or exercise of the owners' right of occupation of the property by tenants who pay not for the letting but for the use of the property. There may well be cases wherein the extent of various services provided by the landlord under the terms of the leasing contract is such that the rental paid by the tenant can be regarded as in a substantial measure a payment for such services as well as for the use of the property and the interrelation of the use of the premises with the use of such services may be so extensive that the whole sum paid could readily be regarded not as mere rental of property but as true receipts of a business of providing apartments and services to tenants but I do not regard this as a case of that kind. The nature of the services provided in my opinion also has a bearing on the question some, such as maid service and linen and laundry service, being more indicative of a business operation than the heating of the building which in my view is so closely concerned with the property itself as to offer no definite indication one way or the other. Nor do I think that the fact that the management of the property occupies the appellant's time or the fact that he uses his car to go to and from the property indicate that the operation is a business for at most these facts indicate that he renders a service to himself and to the other owners of the building which so far as charged for represents a proper outgoing against revenue for the purpose of ascertaining the net profit divisible among the owners regardless of whether the rentals are mere income from property or income from a business. If the appellant had a profit from such charges it would no doubt be taxable as his income but there is no indication that he had any profit therefrom and no such issue has been raised. Moreover while the appellant's share of the net profit of the Park Strand may to him represent both his share of the profit and in a sense the result of his efforts the share of his wife in her hands does not represent return for effort on her part but simply income from her property and it is her share alone with which the case is concerned. On the whole there appears to me to be nothing in the situation which affects the rentals with a trading character as distinct from mere income receipts from property and I am accordingly of the opinion that the profits from the Park Strand were not profits from a business and that the operation of the Park Strand was not a business in which the appellant and his wife were partners. Section 21(4) therefore cannot be invoked to support the assessment.
+(The underlining is mine.)
+[25] Cattanach J., in the Walsh decision, was dealing with two large apartment buildings and a shopping centre. He said in paragraphs 22 and 25 thereof:
+22 In my view, prima facie the perception of rent as land owner is not the conduct of a business, but cases can arise where the extent of the various services provided by the landlord under the terms of a leasing contract and the time and labour devoted by him are such that the rental paid by the tenant can be regarded as in a substantial measure payment for such services as well as for the use of the property and the interrelation of the use of the premises with the use of such services may be so extensive that the whole sum could readily be regarded not as mere rental of property, but as true receipts of a business of providing apartment suites and services to tenants. It is a question of fact as to what point mere ownership of real property and the letting thereof has passed into commercial enterprise and administration.
+...
+25 On the evidence I think that the rentals received by the appellants should be regarded as having accrued to them as owners of the properties rather than as traders and that the rentals accrued from use by the tenants of the property in that the rentals represent payments for their occupation thereof rather than from a combination of such use and the other services from which the tenants benefited. I regard the additional services which were provided to tenants as being relatively insignificant and insufficient to convert the appellants from land owners into the conductors of a business. The services such as the provision of heat, electric stoves and refrigerators, janitorial services to the common hallways, snow removal, carpeting in some rooms of the suites and drapes for windows are those which tenants have come to expect and are those which landlords normally provide in living accommodation of this kind. These are refinements offered to the tenants in connection with the occupation of suites and, in most instances, are also property for the use of which, along with the suites themselves, rent is paid. The heating of the building and snow removal are ancillary to the property itself and are exercised in the landlords capacity as owner of the property rather than as a service to tenants although the tenants incidentally enjoy the benefits thereof. While the nature of services provided has a bearing on the question, the services above described are not such as would characterize the rental received therefor as income from a business rather than income from property, as services such as the provisions of breakfast, maid, linen, laundry and such like services might do.
+[26] Wilson J., for the Court, in the Canadian Marconi decision, said in paragraph 7 thereof:
+7 The distinction between income from a business and income from property is a difficult one to draw but it is one which the Act compels us to make. There are two reasons for the difficulty. First, the terms "business" and "property" are broadly and loosely defined in s. 248(1) of the Income Tax Act. As a consequence the definitions on a fair reading can be construed in such a way as to overlap. Second, persons or corporations generally [page528] engaged in trading-type activity often use property as a means of earning income. On first reflection this sort of income could realistically be considered either business income or property income. The observation of Thurlow J. (as he then was) in Wertman v. Minister of National Revenue, 64 D.T.C. 5158 (Ex. Ct.), at p. 5167, that cases are "readily conceivable where particular income may be accurately described as income from property and just as accurately regarded as income from a business" is frequently apposite. The courts have handled the difficult task of deciding whether a particular receipt is business income or property income by applying certain set criteria or indicia of trading activity and, in the case of a corporate taxpayer, by applying a presumption in favour of the characterization of its income as income from a business. I shall examine these in reverse order.
+and in paragraph 12 thereof, she said:
+... It is trite law that the characterization of income as income from a business or income from property must be made from an examination of the taxpayer's whole course of conduct viewed in the light of surrounding circumstances: ...
+[27] My colleague Margeson J., in Jong v. The Queen, 98 DTC 1616, referring to the Walsh decision said in paragraph 81 therein:
+... a prima facie case is made out that the amount received from the property was from rental and not from a business unless the Appellant can show that the range of services provided by the landlord was such that the payment received can be regarded as substantial payment for the services.
+[28] This same issue was also dealt with by now Associate Chief Justice Bowman as he now is, in Arbutus Garden Apartments Corp. v. The Queen, 98 DTC 1795. In this case, the Court was dealing with an apartment complex consisting of seven buildings containing 302 units on 12 acres of land. The owners had five full-time managers, two full-time maintenance people and two part-time gardeners.
+[29] Bowman A.C.J., as he now is, said, besides quoting from Cattanach J. in the Wertman decision, in paragraphs 24, 25 and 26:
+24 Essentially it is a question of fact depending on all of the circumstances. I think that the operation of the Arbutus Apartments goes well beyond the mere passive perception of rentals. It is clearly a business. It involved the hiring of five full time managers, who lived in the project with their spouses, two full time maintenance persons, and two full time gardeners.
+25 During and prior to the year in question the project was having problems, with a high vacancy rate and high turnover of tenants. Mrs. Janet Roethe was brought in, in an attempt to turn the project around and she was apparently successful. In addition to the work done by the full time staff, many services were contracted out, such as gardening, painting and pool maintenance. There were eight acres of gardens, with elaborate landscaping and two outdoor swimming pools, games rooms, a health spa, and a number of party rooms.
+26 Far more services were provided to the tenants (many of whom were seniors) than would normally be the case in an apartment building. Mrs. Roethe testified that in the early part of the seven years in which she worked at attempting to rehabilitate the project she spent five days a week at the property.
+[30] The use of Lake Simcoe for boating, swimming or fishing is not a service. The use of a barbeque, a picnic table, a phone, a television and deck chairs are likewise not a service. Clean linen changed daily as well as daily cleaning of the cottages would be services. There is no evidence that this volume of service was performed. Both appellants have full time jobs in Toronto.
+[31] Since income herein is rental income, the Court must start with the premises that it is income from property, as opposed to income from a business. Since the evidence has not established that a substantial portion of the rents were for services, I can only find that the income was from property.
+Issue (ii)
+[32] Having decided that the income herein is income from a property, issue (ii) does not have to be addressed. However, it should be noted that Strayer J., as he then was, in Canada v. Adelman, 1993FCJ776, when dealing with a different election than herein but nevertheless one that conferred on a taxpayer the right to take advantage of a provision, said in paragraph 12 thereof:
+... It seems neither unjust nor unreasonable, nor in any way inconsistent with the Act or the Regulations, for a taxpayer to be required to adhere strictly to the procedure prescribed by the law for the exercise of this right having regard to the fact that its exercise will affect his position and that of the Minister ...
+[33] Therein, an election was not in prescribed form. Herein, the election was not only not on the prescribed from, but was after the time period provided by the Act.
+[34] The arguments of the Appellants that they always used a January 31 year-end, that they could not obtain the prescribed form and that they believed they had an agreement that protected their January 31 year-end are just not valid.
+[35] Thus, even if I had determined that their activity was a business (which I expressly do not) I would hold that there was no valid election filed on time pursuant to subsection 249.1(4) of the Act.
+[36] The Appellants referred the Court to the decision of Rowe, D.J.T.C.C., in Thomson et al. v. The Minister of National Revenue, 93 DTC 320, a director's liability case. I can find nothing therein that would aid or assist the Appellants herein, and in any event, I do not find that they had an honest or well-founded belief, as alleged.
+Issue (iii)
+[37] Paragraphs c) 10, of both Notices of Appeal read as follow:
+By agreement dated July 14, 1997, the tax department accepted that our business income and expenses included the three aforementioned properties for our 1989, 1990, 1991, 1992, 1993 tax years. That agreement included acceptance of our reporting results on the fiscal year-end basis of January 31. Consistent with that agreement, the tax department reassessed our 1994 returns for the activities of these same three properties reported on the same basis. Our business properties and fiscal year-end have not changed in the current period, 1995 to 1999 inclusive.
+Summertime accommodation at these properties provided swimming, fishing, boat launching and outdoor camping in addition to fully furnished housing. Wintertime accommodation provided skidooing, ice fishing, skating, xcountry skiing, campfires as well as indoor accommodation. The nature of our business has not changed in the current period, 1995 to 1999 inclusive.
+In the current audit period, there was a demand for our filing the business operations of calendar year 1999. Effectively, this was our 2000 year-end, which was not required by the Act from us at the time.
+In the previous audit of our year-ends January 31, 1989, 1990, 1991, 1992 and 1993, our automobile expenses were allowed. Consistent with that manner, the tax department allowed our automobile expenses for January 31, 1994.
+The tax department is unable to provide us with specific references to the Income Tax Act, Regulations, policy and procedure upon which the department relied in disallowing one quarter of our annual expenses while taxing our annual incomes for reasons referred to as "seasonal" for the audit period 1995 to 1999 inclusive.
+[38] Paragraphs 5 of both Replies to the Notices of Appeal (the "Replies") read:
+5. With respect to paragraph (c) 10 of the Amended Notice of Appeal, he admits that the Appellant was requested to file financial statements for his rental activity for the 1995, 1996, 1997, 1998 and 1999 taxation years. He also admits that the Appellant was permitted a deduction for automobile expenses for the 1995, 1996, 1997, 1998 and 1999 taxation years as set out under the headings "Allowed" in Schedule "A" hereto. He denies all other allegations of fact contained in paragraph (c) 10 of the Amended Notice of Appeal and he states that all facts alleged regarding the Appellant's assessments for the 1989, 1990, 1991, 1992, 1993 and 1994 taxation years are irrelevant to the determination of the Appellant's appeals for the 1995, 1996, 1997, 1998 and 1999 taxation years.
+[39] Schedule "A" to both Replies is a schedule showing under different headings "Claimed" and "Allowed" in regards to the expenses. Under the heading "Auto", nothing was allowed.
+[40] The Appellants argue that paragraph 5 allows automobile expenses and I therefore should allow whatever they have claimed.
+[41] I do not interpret paragraph 5 in this way, as it obviously contains a typing error and I will deal with automobile expenses hereafter, when dealing with expenses generally.
+Issue (iv) - Income Different From T4
+[42] When Lorna filed her T1 General tax return (Exhibit A-19) she claimed that a T4 received from Londonderry Capital, showing employment income of $32,453.82, was in error and it should have shown a gross income of $29,038.49.
+[43] No evidence was adduced other than her word that the income was $29,038.49. She could have produced her bank statements showing the deposits. I probably would have accepted one statement and calculated from that the yearly gross income. Obviously, in February of 1997, she could have assembled some documentation that would have confirmed her allegation that the T4 was not accurate.
+[44] I therefore do not accept her position and find that her employment income, as assessed, is correct.
+Issue (v) - Two Cottages or Three Cottages
+[45] The reported gross income for year-end January 31st, 1996 was as $22,300.00 and for year-end January 31st, 1997, it was as $32,350.00. I accept the testimony that the reasons for this $10,000.00 increase were that repairs for 311 Lake Drive was completed and it was rented. I accept that the Appellant started renting 311 Lake Drive in September of 1996.
+[46] Thus, for calendar year 1996, the expenses for 311 Lake Drive for the last four months are acceptable and prior to that time are not allowed.
+[47] I therefore find that from September 1996 onward, the Activity comprised of the rental of all three properties.
+Issue (vi) - Deduction of Further Expenses
+[48] The 1999 assessment allowed a deduction from gross income of $12,836.00. Thus, the Appellants were in the position that they had to show allowable expenses greater than this amount.
+[49] The Appellants sought to deduct interest in the amount of $14,461.34, made up of $12,063.72 paid to Hepcoe Credit Union ("Hepcoe") and $2,397.62 paid to National Bank, who took over Family Trust ("Family Trust").
+[50] The Hepcoe mortgage is against the Appellants' residence, municipally known as 63 Chudleigh Avenue, Toronto.
+[51] Nothing is known about the Hepcoe mortgage other than the information shown on Exhibits A-3 and A-4. Exhibit A-3 is a statement showing the interest paid on the mortgage each year, 1994 to and including 1999. Exhibit A-4 is a statement showing the principal amount owing as of December 1994 and each year to and including December 1999.
+[52] No evidence was adduced as to when the Hepcoe mortgage was originally taken out or what the money therefrom was used for. Thus, having failed to demonstrate that the money was used in the Activity, the Appellants are not entitled to deduct any amounts paid to Hepcoe.
+[53] The only evidence concerning the Family Trust mortgage, other than interest and principal payments, is contained in Exhibit A-6, which is a statement from Family Trust that shows the mortgage is on 454 Lake Drive South, Keswick.
+[54] No evidence was adduced as to when any of the properties were purchased or for how much, and on what terms. In fact, on the second day of the hearing, when asked specifically when 311 Lake Drive was purchased and for how much, the answer given was: "I do not recall." The same answer was given in regards to 454 Lake Drive. The answer was: "I am not going to guess." Thus, no basis was established for the Family Trust mortgage interest to be deducted.
+[55] The information concerning the date of purchase and the amounts paid for each property could easily have been given the following day of the hearing. The Appellants obviously chose not to disclose this information to the Court or to attempt to track the principal amount of the mortgages. Thus, I do not allow as an expense the interest on the Family Trust mortgage in 1999.
+[56] The Appellants always claimed that their year-end was January 31. Thus, for the 1999 assessment, they produced the 1998 municipal tax bills for the three properties totalling $6,707.84.
+[57] The 1998 water and sewer bills for 314 Glenwoods Avenue for 1998 were for a total amount of $253.86.
+[58] No 1999 final tax bills or water bills were produced, so I am going to gross up the 1998 taxes by 10% to a total amount of $7,378.62, combined with the sewage and water charges also grossed up by 10% for a total amount of $7,658.00. Thus, the sum of $7,658.00 can be deducted from the allowed expense sum of $12,836.00, leaving $5,178.00.
+[59] The only evidence of the type of automobile used was that it was said to be a very old Volvo, owned by Allan. On the first day of the hearing, Lorna could not recall what they were driving.
+[60] Without evidence from Allan, the owner of the vehicle, or more substantial evidence than that received from Lorna, I do not allow any amount for automobile expenses.
+[61] Since all other amounts claimed by the Appellants as expenses do not total $5,178.00, the amount of expenses of $12,836.00 allowed in the assessment stands. It should be noted that other than the 1999 interim tax statement, not one document was produced to substantiate a 1999 year expense.
+[62] Thus, the assessment for 1999 stands and the 1999 appeals will be dismissed.
+[63] In regards to the years 1995, 1996, 1997 and 1998, my position on the deductibility of the mortgage interest and car expenses remains the same and therefore, there will be no changes in these categories.
+Taxes and Water
+[64] In regards to taxes for 1995, it appears that the assessment allowed taxes and water on only two properties, namely 470 and 454 Lake Drive South, the 1995 taxes on these two properties totalled $3,743.51. As the amount allowed is greater than the taxes on the two properties, it therefore stands.
+[65] Since 311 Lake Drive was rented from September of 1996, one third of the 1996 taxes should be allowed, namely the amount of $425.33. The allowed amount under this heading was $4,878.00, while the taxes on the other two properties totalled $3,780.44, together with $425.33, for a total amount of $4,205.77. Thus, the Appellants have not shown that they should be credited any more than already allowed.
+[66] The assessment of 1997 allowed a deduction for taxes and water in the amount of $4,878.00. The 1997 tax bills for the three properties was $5,180.86. Therefore, a further amount of $302.96, together with $200.00 (estimated) for water and sewer, for a total of $502.96, is allowed under this heading.
+[67] The assessment allowed a deduction for taxes and water in the amount of $4,878.00 for 1998. The 1998 tax bills for the three properties was $6,707.84. Therefore, a further amount of $1,829.84 for taxes, together with $253.94 for water and sewer, for a total of $2,083.78, is allowed under this heading.
+Cable and Phone
+[68] The Appellants were allowed the amounts claimed for 1995 and 1996.
+[69] The Appellants claimed, under this heading for 1997, the sum of $512.00. The assessment allowed $82.00. There are two cancelled cheques to Shaw Cable and one to Bell Canada in 1997 totalling $237.10. The Appellants are allowed the additional amount of $237.10 , less $82.00, being $155.10. There are only two cancelled cheques dated in 1998, one payable to Shaw Cable, the other to Bell Canada for a total of $87.39. Since the assessment under this heading for 1998 allowed $100.00, this amount stands.
+Maintenance and Janitorial
+[70] The Appellants were allowed the amounts claimed for 1995, 1997 and 1998.
+[71] The Appellants claimed, under this heading, for 1996, the sum of $4,276.00 and were allowed only the sum of $2,188.00. Having heard the testimony and having looked at Exhibit A-7, I am not convinced the allowed amount should be increased.
+Advertising
+[72] Under this heading, the assessment in 1995 and 1996 allowed the claimed expenses.
+[73] For 1997, there are a total of six cancelled cheques, one to the Toronto Star and five to the EZR Banner, totalling $344.61. As $182.00 has already been allowed under this heading, the Appellants are entitled to an additional amount of $162.61.
+[74] For 1998, there are only two cancelled cheques, one to Bell Canada and one to Shaw Cable, totalling $87.39, and since the assessment for 1998 allowed $191.00 under this heading, therefore that amount stands.
+Bank Charges
+[75] The Respondent at the hearing conceded that the Appellants should be allowed, under this heading the amount as claimed. Therefore, under this heading, for 1995, additional expenses of $310.00 are allowed, for 1996, additional expenses of $276.00 are allowed, for 1997, additional expenses of $211.00 are allowed, and for 1998, additional expenses of $433.00 are allowed.
+[76] If the Respondent had not conceded these amounts, I would not have accepted them without production of the business bank statements confirming these amounts. This category of expense is reasonable but the amounts should be verified by production of the bank statements, or some other document from the bank.
+[77] As no evidence was presented concerning the Capital Cost Allowance ("CCA") claimed for the years 1997 and 1998, thus the claimed CCA is not allowed.
+[78] As I am very critical of the lack of records produced and of the lack of pertinent evidence, and particularly the comments made in essence that says: "It was a long time ago.", it should be noted that the Appellants signed a Consent to Judgment concerning the years 1989, 1990, 1991 and 1992 on the 14th day of July, 1997, in an appeal commenced in the Tax Court of Canada in 1995. Thus, the Appellants should, in the very first year of the audit, have known that their records may be challenged. Both Appellants received letters from the Canada Customs and Revenue Agency (the "CCRA"), dated September 22, 1999. The letter to Allan had a "Re: 1995, 1996, 1997 Tax Returns" and the letter to Lorna, the "Re: 1995, 1996, 1997, 1998 Tax Returns". Both letters stated no business statements were filed with the above noted returns. Both letters asked the following three questions:
+1. The names and addresses of each of your tenants.
+2. What was the monthly rent and how was it determined?
+3. For what periods during each year was each cottage rented?
+The answer to these three questions was never provided to the CCRA or to the Court.
+[79] The CCRA sent a letter to Lorna, dated August 4, 2002. The second full paragraph stated:
+As you did not provide all the information requested, and were not responsive to the providing of information, you impeded and delayed the completion of our review. The lack of information has resulted in changes to your filed statements. As you did not provide all the documentation and information requested, the proposed adjustments are being made based on the available information. In terms of the receipts and cancelled cheques you did provide, they could not at times be identified as a rental expense. As well, the receipts were not segregated in accordance with the correct fiscal year of December 31st.
+This letter obviously sets out the basis of the reassessments for 1995, 1996, 1997 and 1998.
+[80] Many cash register receipts were produced, many of which do not specify what was purchased.
+[81] Proper bookkeeping records would have assisted a great deal.
+[82] I find it very difficult to believe that the Appellants deliberately discarded invoices for such things as the advertising and a copy of the actual advertisement. I believe these were deliberately withheld from the Court.
+[83] The Appellants argue that the settlement executed in 1997 and their letter of July 14, 1997 protects their January 31 year-end. It does not, as each year must stand on its own and the Minister cannot enter into a contract contrary to the law. As well, it is trite law that there is no estoppel against the Crown.
+[84] The Appellants' argument that once a claim for expenses is allowed on one taxation year, that forever they should be allowed expenses under that heading is mistaken. This just is not the law.
+[85] The Appellants' argument that once the Minister accepted their gross income figures for many years, that their 1999 figure should be accepted. Again, there is no basis for this. It would have been easy to prove these amounts if proper books had been kept and bank statements were produced.
+[86] Lorna claimed in her testimony that the CCRA's policy is to do three-year audits and since no fraud is alleged, they should not have been reassessed for 1999 and that the assessment should be vacated. This position is also not valid.
+[87] I am driven to the conclusion that there is an ulterior motive in having so many cash purchases, as well as so few invoices, together with a total lack of normal bookkeeping records. The Appellants' actions has to be described as deliberate.
+[88] For all the above reasons, there shall be issued a judgment as follows. In regards to the appeals of Allan Orcheson, the 1995, 1996, 1997 and 1998 appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that he is entitled to deduct further expenses in those years, namely one-half of the following amounts: $310.00, $276.00, $1,295.12 and $2,516.78 respectively. The 1999 appeal is dismissed. Allan Orcheson is not entitled to any further relief. Costs are awarded to the Respondent on a party and party basis, to be taxed.
+[89] In regards to the appeals of Lorna Orcheson, the 1996, 1997 and 1998 appeals are allowed and the assessment are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that she is entitled to deduct further expenses in those years, namely one-half of the following amounts: $276.00, $1,295.12 and $2,516.78 respectively. The 1999 appeal is dismissed. Lorna Orcheson is not entitled to any further relief. Costs are awarded to the Respondent on a party and party basis, to be taxed, but to be allowed only one set of preparation costs and one counsel fee at trial.
+Signed at Toronto, Ontario, this 12 th day of May, 2004.
+"Gordon Teskey"
+Teskey, J.
+CITATION:
+2004TCC247
+COURT FILES NOS.:
+2001-2324(IT)G and 2001-2325(IT)G
+STYLES OF CAUSE:
+Allan Orcheson and The Queen
+Lorna Orcheson and The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+January 7, 2004
+March 10, 11 and 12, 2004
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Gordon Teskey
+DATE OF JUDGMENT:
+May 12, 2004
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,136 @@
+---
+title: "Delisle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25300/index.do"
+last_modified: "2003-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 751"
+citation2: ""
+neutral_citation: "2003 CCI 751"
+decision_date: "2003-10-27"
+language: "fr"
+item_id: "25300"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2405
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:36:06.618000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5579082b1451f592a50350825d4cb48f05161185456e2289bd20a5e7348b9aef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Delisle c. La Reine
+
+- Citation: 2003 CCI 751
+- Decision date: 2003-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2405, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delisle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-27
+Référence neutre
+2003 CCI 751
+Numéro de dossier
+2002-2951(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2951(IT)I
+ENTRE :
+GILBERT DELISLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 août 2003 à Chicoutimi (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Yannick Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 1999 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+Référence : 2003CCI751
+Date : 20031030
+Dossier : 2002-2951(IT)I
+ENTRE :
+GILBERT DELISLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel concernant l'année d'imposition 1999 de l'appelant. Ce dernier s'est vu refuser par le ministre du Revenu national ( « le Ministre » ) la déduction d'une dépense de 9 772,49 $ au titre d'honoraires au motif que cette somme constitue une commission reçue par lui de la Sun Life of Canada ( « Sun Life » ) et est donc un revenu au sens du paragraphe 9(1) de la Loi de l'impôt sur le revenu ( « la Loi » ).
+[2] M. Delisle était un employé cadre chez Sun Life jusqu'en juillet 1998. À cette date, il est devenu travailleur autonome et, de ce fait, ne pouvait plus profiter du fonds de pension qu'il avait chez son employeur. Au début de l'année 1999, soit l'année en litige, l'appelant a transféré à un compte de retraite immobilisé son fonds de pension, qu'il avait reçu à la suite de son départ de la Sun Life, et ce placement lui donnait automatiquement droit au paiement d'une commission de 9 772,49 $.
+[3] Dans sa déclaration de revenus pour l'année en question, l'appelant a déclaré des revenus de commissions qu'il avait reçus de la Sun Life selon le T4A qu'elle lui avait remis et qui incluait la commission en litige. Parmi les dépenses déduites de ses revenus de commissions, l'appelant a inclus la somme en cause en invoquant le fait qu'il s'agissait d'une dépense au titre d'honoraires, ce à quoi le ministre s'est opposé.
+[4] L'appelant dit avoir suivi les conseils d'experts en la matière et, selon ces gens-là, cette somme ne serait pas imposable. Une « spécialiste en interprétation des points techniques » lui aurait remis une copie du bulletin d'interprétation IT-470R sur les avantages sociaux des employés et, compte tenu de ce bulletin, elle était d'avis que la commission en question n'était pas imposable. Je reproduis ici le paragraphe 27 du bulletin d'interprétation en soulignant la partie sur laquelle l'appelant fonde son appel.
+PARTIE B - MONTANTS À NE PAS INCLURE DANS LE REVENU
+Remises sur les marchandises et commissions sur les ventes
+27. Lorsqu'un employeur accorde à ses employés un rabais à l'achat de sa marchandise, les avantages que peut retirer un employé de l'exercice d'un tel privilège ne sont pas considérés comme étant des avantages imposables. Cependant, cette règle ne vaut pas dans le cas d'un arrangement extraordinaire conclu avec un employé donné ou un groupe choisi d'employés, ni dans le cas d'un arrangement qui permet à l'employé d'acheter des marchandises (autres que les marchandises désuètes ou défraîchies) à un prix inférieur à leur prix coûtant pour l'employeur. Cela ne s'applique pas non plus à un arrangement réciproque conclu entre deux ou plusieurs employeurs qui s'engagent à laisser les employés de l'un se prévaloir d'un tel privilège auprès de l'autre qui n'est pas leur employeur. Une commission touchée par un employé préposé aux ventes sur des marchandises qu'il achète pour son usage personnel n'est pas imposable. De même, lorsqu'un vendeur d'assurance-vie acquiert une police d'assurance-vie et qu'il touche une commission sur cette police, celle-ci n'est pas imposable pourvu que le vendeur soit propriétaire de la police et qu'il soit tenu de verser les primes exigées à l'égard de cette police.
+[5] L'appelant demande donc que le même traitement lui soit accordé à l'égard de la commission qu'il a perçue lors du transfert de son fonds de pension et du placement de ce fonds dans un compte de retraite immobilisé.
+[6] L'avocat de l'intimée soutient que la somme en cause représente un revenu d'entreprise que l'appelant a perçu en tant que courtier et travailleur autonome et que le bulletin d'interprétation IT-470R vise les employés et concerne l'imposition ou la non-imposition de certains avantages. L'exemple de la police d'assurance-vie n'a pas d'application en l'espèce puisque l'appelant n'a pas fait l'achat d'une telle police.
+[7] Est-ce à bon droit que le ministre a refusé à l'appelant la déduction qu'il a réclamée? Il faut se demander à ce propos si l'appelant a droit à une déduction d'impôt étant donné qu'il s'agit ici d'une commission relative à un placement que l'appelant a fait pour son propre bénéfice. Pour qu'une dépense soit déductible d'un revenu d'entreprise, il faut qu'elle ait été engagée par le contribuable en vue de gagner un revenu d'entreprise. Or, en l'espèce, la dépense (la commission) a été engagée dans le but de faire un investissement personnel et n'entre pas dans les déductions prévues à l'alinéa 18(1)(a) de la Loi. Le ministre, à mon avis, était donc fondé à refuser à l'appelant la déduction en question.
+[8] Je veux toutefois revenir sur la question de savoir s'il s'agit vraiment ici d'un revenu d'entreprise imposable ou s'il s'agit plutôt d'une somme que l'appelant n'avait pas à inclure dans son revenu en raison du bulletin d'interprétation IT-470R. Je tiens à souligner que la Cour n'est pas liée par le contenu de bulletins d'interprétation. De plus, en l'espèce, le bulletin d'interprétation n'a pas d'application, non pas parce qu'il ne s'applique pas à des travailleurs autonomes mais parce qu'il ne s'applique que dans les cas où le contribuable acquiert un produit à des fins de protection personnelle et non comme investissement, ce que l'appelant n'a pas fait en l'espèce.
+[9] La commission a été reçue par l'appelant en raison de son travail et constitue donc un revenu d'entreprise en vertu du paragraphe 9(1) de la Loi. Il s'agit en conséquence d'un revenu imposable.
+[10] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2003CCI751
+No DU DOSSIER DE LA COUR :
+2002-2951(IT)I
+INTITULÉ DE LA CAUSE :
+Gilbert Delisle et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Chicoutimi (Québec)
+DATE DE L'AUDIENCE :
+le 27 août 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+le 30 octobre 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Yannick Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

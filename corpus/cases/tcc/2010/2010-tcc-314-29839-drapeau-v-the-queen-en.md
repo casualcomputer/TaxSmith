@@ -1,0 +1,156 @@
+---
+title: "Drapeau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29839/index.do"
+last_modified: "2010-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 314"
+citation2: ""
+neutral_citation: "2010 TCC 314"
+decision_date: "2010-06-09"
+language: "en"
+item_id: "29839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6581
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:17:25.135000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60a8f97e81b5cf3fe9cc8c8d844b0efeabe7d4b6a31c2a9a14177ef4d9786b8b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Drapeau v. The Queen
+
+- Citation: 2010 TCC 314
+- Decision date: 2010-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6581, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drapeau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-09
+Neutral citation
+2010 TCC 314
+File numbers
+2008-3959(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3959(IT)G
+BETWEEN:
+MARCEL DRAPEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on May 20, 2010, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the appellant:
+Jacques Renaud
+Counsel for the respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years are dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 9th day of June 2010.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 30th day of July 2010
+Daniela Possamai, Translator
+Citation: 2010 TCC 314
+Date: 20100609
+Docket: 2008-3959(IT)G
+BETWEEN:
+MARCEL DRAPEAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing from two assessments made by the Minister of National Revenue (the Minister) under the Income Tax Act (ITA) for the 2004 and 2005 taxation years. In making these assessments, the Minister added $66,432 in 2004 and $52,316 in 2005 to the appellant's income as business income from SEMV National Inc. (SEMV), and also imposed a penalty pursuant to subsection 163(2) of the ITA.
+[2] The appellant is challenging the assessments on the ground that the additional income should not be attributed to him. He claims that he never benefitted from those additional amounts and that the money was deposited in a bank account opened in his name for the benefit of a third party, André Dagenais.
+[3] The appellant and André Dagenais both testified. Their testimonies revealed that the two have known each other for over 30 years. The appellant used to be Mr. Dagenais's lawyer. As for Mr. Dagenais, he says that he was once the director of "Renaissance," a company that went bankrupt in 2002 or 2003. At the beginning of 2004, Mr. Dagenais wanted to operate a veterinarian supply business.
+[4] He therefore asked the appellant to incorporate a company to that end, which the appellant did. And so, SEMV was incorporated on April 13, 2004 (Exhibit A-2). Mr. Dagenais wanted the appellant to join him in this business venture. The appellant took a 50 per cent share in the company and the other 50 per cent was held by Mr. Dagenais's wife. The appellant was the sole director. According to the appellant's testimony, he gave himself until the end of December 2004 to decide whether he would invest in the company.
+[5] In court, he said that he resigned from the company as director in early 2005. According to the sole amending declaration filed in evidence, the declaration was registered with the Quebec's Registraire des entreprises on September 1, 2005 (Exhibit I-1). When shown the document, the appellant stated that he submitted a first amending declaration in early 2005, but that it probably was lost. Apparently, based on his experience and practice in commercial law, this was not uncommon.
+[6] Mr. Dagenais maintained that he operated the business alone but that in view of financial problems, he attempted to open a bank account on behalf of SEMV and a personal bank account to no avail. He explained this was because Renaissance, the company of which he was the director, went bankrupt. According to the appellant, one of the major creditors in the bankruptcy of Renaissance was the National Bank of Canada (National Bank), and it did not want to open any more accounts in Mr. Dagenais's name. There is no evidence to indicate whether Mr. Dagenais attempted to open a bank account with another financial institution.
+[7] Faced with this situation, Mr. Dagenais asked the appellant to open a bank account for SEMV. The appellant agreed and opened a bank account with the National Bank for SEMV for which he was the sole signing authority. He then issued hundreds of blank cheques, signed by him, to Mr. Dagenais so that he could operate his business.
+[8] Moreover, the appellant allegedly opened another personal bank account at another Nationanl Bank branch in respect of which he signed a power of attorney in favour of Mr. Dagenais, authorizing him to make deposits into and withdrawals from that account. Counsel for the appellant filed in evidence a document issued by the National Bank stating that it was impossible to verify whether the account had a power of attorney as the account had been closed since 2006 and that a search in the bank's archives only turned up the personal information card that was created when the account was opened and that the computer system no longer had any other information on file (Exhibit A-3).
+[9] According to the appellant, he never used that personal account as he held several other bank accounts in his name. Mr. Dagenais explained that SEMV, through accountant Jean‑Guy Denis, made cheques payable to the appellant that Mr. Dagenais deposited into the appellant's personal account on which he had power of attorney. Mr. Dagenais would then withdraw the amounts deposited to pay himself a salary of $1,200 per week and to pay the various suppliers who only accepted to be paid in cash.
+[10] Hence in 2004, the total amount of the cheques drawn against the SEMV account payable to the appellant was $77,067. The appellant claims that of that amount, Mr. Dagenais paid back $10,635 in professional fees and the remaining balance of $66,432 was retained by Mr. Dagenais to pay his suppliers and himself.
+[11] In 2005, the amount drawn against the SEMV account payable to the appellant totalled $55,656, from which $3,341 was paid to the appellant in professional fees, and the balance of $52,316 retained by Mr. Dagenais (Exhibit A 1, Tab 7). The cheques appear to have been deposited into the appellant's personal account.
+[12] It is these amounts of $66,432 in 2004 and of $52,316 in 2005 that the Minister added to the appellant's income and are being contested before me on the grounds that they were earned by Mr. Dagenais.
+[13] On cross-examination, Mr. Dagenais was asked why SEMV did not issue cheques to him directly. He replied that seeing as he deposited his cheques into the appellant's personal account, the bank recommended that SEMV issue the cheques in the appellant's name. Mr. Dagenais was also asked why he did not simply make withdrawals from the account for which he had power of attorney instead of asking the accountant to make the cheques out to the appellant and which Mr. Dagenais deposited into the appellant's personal account.
+[14] Mr. Dagenais was unable to explain this procedure, except to say that he had to deposit the cheques from SEMV to put money into the account before he could withdraw it. It seems, however, upon reading the account statements (Exhibit A-1, Tab 5) that it was not always necessary to proceed in that manner as at times there seems to have been enough funds to make the withdrawals.
+[15] Moreover, certain copies of cheques made out to [Translation] "A.D.'s petty cash fund" and drawn on the SEMV account were filed in evidence (Exhibit I-2). Mr. Dagenais stated that the amounts were used to pay various expenses of SEMV. The amounts mainly covered the months from September to December 2005, which did not appear on the bank statements filed as A-1, Tab 5.
+[16] The appellant stated that he was surprised to see that SEMV had issued cheques in his name and that those amounts were charged to him. Despite the fact that the account statements were sent to him at his home address, he said he had never seem them before. He learned of them after he had been apprised of them by the Canada Revenue Agency. He also reiterated that he never used the account for personal purposes.
+[17] The Minister questioned the credibility of his testimony and suggested that the amounts deposited in his personal account were attributed to him personally. The respondent showed that the appellant's professional net income was $16,320, that he had an investment income of $6,600 in 2004, and that he reported a total income of $30,035 (Exhibit I‑4). The respondent also showed that the appellant had acquired shares for a total of about $21,000 in 2004 (Exhibit I-5, page 6).
+[18] In 2005, he reported net professional income of $31,610, invested about $21,000 in a registered retirement savings plan (RRSP), and acquired some $67,000 in shares (Exhibits I‑4 and I-5).
+[19] The respondent submits that she was justified in believing that the amounts from SEMV that were deposited into the appellant’s personal bank account were deposited to his benefit, seeing as he could have lived off that money and used it to make the investments he made.
+[20] The appellant replied that he accumulated money over the years and that he did not necessarily hold investments that generated interest. He pointed out that in 2005, he disposed of his shares for a proceeds of disposition totalling $101,275. He stated that he reinvested the proceeds of sale of his shares over the years.
+[21] The respondent also submits that the appellant did not prove the hypothesis that the bank account had been opened in his personal name on the ground that Mr. Dagenais had been facing financial difficulties to the point where he was unable to open his own bank account. The respondent submits that Mr. Dagenais did not declare personal bankruptcy in 2004 and that it was not credibly established that the only solution was to be paid by routing SEMV cheques through the appellant’s personal account. According to the respondent, if SEMV was making cheques payable to “A.D.'s petty cash fund” to pay the suppliers, it could very well have paid Mr. Dagenais directly without having to go through the appellant’s personal account.
+[22] The appellant replied that there was no other reason for Mr. Dagenais to deposit his business income into the appellant’s bank account than to get paid. Mr. Dagenais would not have agreed to have the appellant withdraw the money from his account when the money that was deposited came from Mr. Dagenais’s business, in which the appellant had no involvement whatsoever.
+[23] In that regard, I note that in 2004 and 2005, it was not disputed by the appellant that he still had a 50 per cent share in SEMV. Also, he was the sole director until September 1, 2005 (at least he did not prove that he no longer was sole director as of the beginning of 2005) and lawfully, he was the one who controlled the company. It is not therefore illogical to think that the appellant could receive his share of the profits through his personal account.
+[24] Moreover, I note that the cheques filed as Exhibit A-1, Tab 6, are signed by Mr. Dagenais from the appellant’s personal account and are made out to either André Dagenais, Jean-Guy Denis or a number of other people. If we take a close look at the bank statements for the personal account (Exhibit A-1, Tab 5), the cheques are clearly indicated. However, there are several withdrawals for which it is impossible to identify who the payees were. The appellant and Mr. Dagenais have both said that the latter received $1,200 per week. I assessed the account for 2004 and 2005. If we add up the unidentified withdrawals and the cheques made payable to André Dagenais, it averages out to $1,800 per week in 2004 and $1,040 per week in 2005.
+[25] This seems to support the hypothesis that Mr. Dagenais was paid on average $1,200 per week, which means an annual income of $62,400 (assuming that the withdrawals were made for the benefit of Mr. Dagenais).
+[26] The respondent argues that the witnesses should not be given any credibility. Counsel for the appellant argues that Mr. Dagenais had no choice in the matter and that it was normal that the suppliers wanted to be paid in cash as they had lost confidence in Mr. Dagenais.
+[27] Ironically, the appellant, on the other hand, had complete confidence in Mr. Dagenais.
+[28] It would have been helpful in the appellant’s case, where he had the burden of proving that he did not receive the income imputed to him, to have the accountant, Jean-Guy Denis, who prepared the company cheques, testify. I believe that would have allowed to shed an objective light on how the business was operated. His absence was not explained.
+[29] I also note that no one raised the issue as to whether Mr. Dagenais had himself reported that income in 2004 and 2005.
+[30] It is very difficult in these types of cases to decipher the truth. It is in these cases that the concept of burden of proof is of particular importance. In my opinion, the appellant, also a lawyer, should have protected himself further with the appropriate legal documentation, if he truly intended to act as an intermediary for Mr. Dagenais. The evidence to support such an intention is, in my opinion, lacking. For instance, even though the appellant states that his resignation as a director was lost by the Registraire des enterprises in early 2005, it would have been more prudent, and more plausible in court, if he had kept a copy for his own records, which, it appears he did not do. The same holds true for the power of attorney he gave Mr. Dagenais to allow him to make deposits and withdrawals from his personal bank account. It would have been more prudent to also have him sign the power of attorney for his own personal records so as to establish to what extent Mr. Dagenais had the power to withdraw money from that account for the period at issue. Moreover, there is no question that the appellant remained a 50 per cent shareholder of SEMV in 2004 and 2005, which legally entitled him to his share of the profits. If that had not been the case, he would have had to draft an agreement to properly defend himself against third parties.
+[31] If the appellant’s hypothesis is real, he certainly did not take steps to support it. He took a risk if he actually gave Mr. Dagenais carte blanche, and in the absence of better evidence, he must now face the consequences.
+[32] The appellant had to make a prima facie case that he did not withdraw SEMV funds for his own benefit. Such a case must be one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved" (Stewart v. Canada (Minister of National Revenue), [2000] T.C.J. No. 53, cited in Amiante Spec Inc. v. R., 2009 FCA 139 at para. 23).
+[33] I believe the appellant did not make such a case and, in my opinion, did not establish, on a balance of probabilities, that he did not personally benefit from the amounts paid to him by SEMV. Those amounts, which are at issue in this case, should have therefore been reported in his income for the 2004 and 2005 taxation years. The Minister considered that income as business income within the meaning of subsection 9(1) of the ITA. I accept that treatment as the most plausible hypothesis. At least the appellant did not convince me to the contrary.
+[34] In view of my finding, I consider that the penalties imposed pursuant to subsection 163(2) of the ITA are also justified (see Lacroix v. R., 2008 FCA 241)
+[35] The appeals are therefore dismissed with costs in favour of the respondent.
+Signed at Ottawa, Canada, this 9th day of June 2010.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+On this 30th day of July 2010
+Daniela Possamai, Translator
+CITATION: 2010 TCC 314
+COURT FILE NO.: 2008-3959(IT)G
+STYLE OF CAUSE: MARCEL DRAPEAU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 20, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 9, 2010
+APPEARANCES:
+Counsel for the appellant:
+Jacques Renaud
+Counsel for the respondent:
+Alain Gareau
+COUNSEL OF RECORD For appellant:
+Name: Jacques Renaud
+Firm: Renaud Brodeur
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

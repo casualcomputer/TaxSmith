@@ -1,0 +1,190 @@
+Title: Stawicki c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26934/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-207-26934-stawicki-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-03-31
+
+# Stawicki c. M.R.N.
+
+- Citation: 2006 CCI 207
+- Decision date: 2006-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 740, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stawicki c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-31
+Référence neutre
+2006 CCI 207
+Numéro de dossier
+2005-110(CPP)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2005-110(CPP)
+ENTRE :
+ANDRZEJ S. STAWICKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+JUDITH E. WILSON,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Andrzej S. Stawicki (2005-111(EI)) le 17 mars 2006,
+à Victoria (Colombie‑Britannique).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Pour l’intervenante :
+Me Fiona Mendoza
+L’intervenante elle-même et Me Michael Scherr
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+L’intervenante a droit aux dépens et aux débours autorisés par le Régime de pensions du Canada.
+Signé à Saskatoon (Saskatchewan), ce 31e jour de mars 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 7e jour de juillet 2006.
+Marie-Christine Gervais, traductrice
+Dossier : 2005-111(EI)
+ENTRE :
+ANDRZEJ S. STAWICKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+JUDITH E. WILSON,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Andrzej S. Stawicki (2005-110(CPP)) le 17 mars 2006,
+à Victoria (Colombie‑Britannique).
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Pour l’intervenante :
+Me Fiona Mendoza
+L’intervenante elle-même et Me Michael Scherr
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+L’intervenante a droit aux dépens et aux débours autorisés par la Loi sur l’assurance‑emploi.
+Signé à Saskatoon (Saskatchewan), ce 31e jour de mars 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 7e jour de juillet 2006.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI207
+Date : 20060331
+Dossier : 2005-110(CPP)
+ENTRE :
+ANDRZEJ S. STAWICKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+JUDITH E. WILSON,
+intervenante.
+Dossier : 2005-111(EI)
+ET ENTRE :
+ANDRZEJ S. STAWICKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+JUDITH E. WILSON,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Les présents appels ont été entendus sur preuve commune à Victoria (Colombie‑Britannique), les 17 et 18 mars 2006. L’appelant (« Andrew ») a témoigné et a assigné et appelé à témoigner l’intervenante, Judith Wilson (« Judy »). Judy a également témoigné pour elle‑même et a appelé à témoigner Cathleen Wormald.
+[2] Les questions en litige sont énoncées aux paragraphes 5 à 9 inclusivement de la réponse à l’avis d’appel, 2005-211(EI), qui sont rédigés ainsi :
+[traduction]
+5. Ressources humaines et Développement des compétences Canada a demandé au ministre du Revenu national (le « ministre ») de rendre une décision concernant la question de savoir si Judy Wilson (« Mme Wilson ») exerçait un emploi assurable pour l’appelant pendant la période allant du 1er janvier 2002 au 10 novembre 2002 (la « période »). La Division des décisions a rendu une décision et a avisé l’appelant que Mme Wilson exerçait un emploi assurable pendant la période dans une lettre datée du 4 juillet 2003.
+6. L’appelant a interjeté appel devant le ministre le 2 octobre 2003 en vertu de l’article 91 de la Loi sur l’assurance‑emploi, L.C. 1996, ch. 23 (la « LAE »).
+7. Le ministre a décidé que l’appelant employait Mme Wilson aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la LAE pendant la période et a avisé l’appelant de sa décision dans une lettre datée du 21 octobre 2004.
+8. Le ministre a tenu pour acquis les faits suivants pour rendre sa décision :
+a) l’appelant exploitait une entreprise individuelle de réfection, de nettoyage et de réparation de toits pendant la période;
+b) l’appelant exploitait son entreprise à partir d’un bureau situé dans sa résidence personnelle;
+c) l’appelant avait engagé Mme Wilson pour qu’elle exécute les fonctions suivantes : répondre au téléphone de l’entreprise, taper des lettres et des contrats, et s’occuper de la paye, de la tenue des livres et de la comptabilité de l’entreprise (les « fonctions administratives »);
+d) Mme Wilson exerçait les fonctions administratives au bureau à domicile de l’appelant;
+e) Mme Wilson a été nommée signataire autorisée pour le compte bancaire de l’appelant;
+f) l’appelant a eu un accident d’automobile vers novembre 2001;
+g) pendant la période, en plus de s’acquitter des fonctions administratives, Mme Wilson menait des entrevues pour combler des postes au sein de l’entreprise de l’appelant, faisait les estimations et travaillait avec les employés de l’appelant sur les lieux de travail, où elle lavait les fenêtres, faisait le ménage et effectuait des ventes (« fonctions additionnelles »);
+h) l’appelant établissait le taux de rémunération de Mme Wilson et augmentait le taux au fur et à mesure que les fonctions de l’emploi s’élargissaient;
+i) l’appelant demandait à Mme Wilson d’utiliser son automobile et la payait pour l’essence utilisée;
+j) l’appelant fournissait à Mme Wilson l’espace de bureau et l’équipement nécessaires pour l’exécution des fonctions administratives;
+k) l’appelant fournissait l’équipement nécessaire, comme le camion, les échelles et les outils utilisés dans le cadre de l’exécution des fonctions additionnelles;
+l) l’appelant établissait l’horaire de travail de Mme Wilson;
+m) l’appelant dirigeait Mme Wilson et contrôlait l’exécution des fonctions administratives et des fonctions additionnelles;
+n) Mme Wilson n’a pas engagé de capitaux dans l’entreprise de l’appelant;
+o) pendant la période, Mme Wilson n’a pas engagé de dépenses dans le cadre de l’exécution des fonctions administratives et des fonctions additionnelles;
+p) au cours de la période, Mme Wilson n’a travaillé pour personne d’autre et n’a fourni de services à personne d’autre.
+B. POINTS EN LITIGE
+9. Il s’agit de savoir si Mme Wilson exerçait un emploi assurable pour l’appelant au cours de la période.
+[3] Toutes les hypothèses figurant au paragraphe 8 de la réponse sont exactes et ont été corroborées par les témoignages.
+[4] Plus particulièrement, l’appelant a indiqué dans son témoignage qu’après son accident en novembre 2001, lui et Judy sont devenus des associés dans son entreprise, Andrew’s Innovative Restorations, et qu’ils le sont restés pendant la période. L’entreprise effectuait le remplacement, la réparation et le lavage à pression de toits. Selon la preuve, ce n’est pas ce qui s’est produit pour les raisons suivantes :
+1. L’appelant a indiqué dans son témoignage qu’il avait discuté de la possibilité d’établir une société de personnes avec son avocat et que celui‑ci lui avait déconseillé de faire une telle chose. L’appelant n’a donc pas signé ou établi de contrat de société de personnes parce qu’il ne voulait pas que Judy détienne une part de l’actif de l’entreprise. (En revanche, l’appelant a constamment signé des contrats écrits avec les clients de son entreprise de couverture.)
+2. L’appelant a indiqué dans son témoignage que, à la place, lui et Judy avaient convenu oralement que les profits de l’entreprise seraient partagés de façon égale. Judy a nié cette allégation. Judy a reçu environ 27 000 $ au cours de la période selon ses factures, lesquelles étaient toutes établies suivant les instructions de l’appelant. Toutefois, si je me fonde sur le témoignage de l’appelant, celui‑ci a réalisé des profits nets de plus de 50 000 $ en 2002, mais Judy n’a reçu au total qu’un montant inférieur à 33 000 $ de l’entreprise en 2002 selon la preuve produite par l’appelant. Judy a nié être l’associée de l’appelant, et les factures qu’elle a soumises à l’entreprise et les chèques qui lui ont été émis par celle‑ci établissent qu’elle a raison.
+3. Malgré les factures qu’elle a été forcée à établir, le contrat unissant Judy à Andrew pendant la période était en réalité un contrat de louage de services.
+[5] L’appelant a également allégué qu’il avait besoin que Judy soit son associée parce que sa santé mentale avait été affecté par l’accident et qu’il avait été hospitalisé dans une unité de soins psychiatriques en 2002. Il ne pouvait donc pas conclure des contrats ou décider quoi que ce soit. (Cette allégation est également incompatible avec la capacité de l’appelant de conclure un contrat de société de personnes.)
+[6] La preuve a révélé que Judy était une employée d’Andrew’s Innovative Restorations au cours de la période. Après avoir analysé les critères énoncés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553, la Cour conclut ce qui suit :
+1. Contrôle
+Judy et Cathleen Wormald ont prouvé que l’appelant était un « obsédé du contrôle », ce qui a été confirmé sans l’ombre d’un doute par le témoignage de l’appelant et par sa conduite lors de l’audience, qui a duré plus d’une journée et demie. La Cour ajoute foi au témoignage de Judy selon lequel l’appelant lui disait comment faire son travail, et ce, pour tous les aspects de ses fonctions, et lui téléphonait fréquemment chaque jour, parfois même presque à chaque heure, pour lui dire quelles tâches elle devait effectuer et comment elle devait les effectuer. Certains de ces appels effectués au cours de la période étaient de nature personnelle. Je prête également foi à son témoignage pour ce qui est du fait que l’appelant l’obligeait à facturer moins d’heures que les heures travaillées pour l’entreprise, lui disait quand venir travailler et quelles tâches effectuer, et, souvent, lui disait exactement comment faire son travail d’heure en heure.
+2. Propriété des instruments de travail
+Tous les instruments que Judy utilisait dans le cadre de son travail appartenaient à l’appelant. Elle travaillait dans un bureau situé au domicile de l’appelant et elle conduisait souvent des camions appartenant à l’appelant quand elle travaillait.
+3. Possibilité de profit, risque de perte
+Judy n’avait aucune possibilité de profit et aucun risque de perte. Elle était rémunérée à l’heure et elle recevait des montants supplémentaires de 50 $, de 100 $ ou de 150 $ pour chaque contrat conclu avec des clients. L’appelant insistait pour qu’elle facture les services qu’elle fournissait. Il examinait tout d’abord les heures qu’elle déclarait, puis, parfois, il les réduisait. De plus, il refusait de l’inscrire sur la liste de paye en tant qu’employée et d’effectuer des retenues sur son salaire. Sur ce dernier point, j’ajoute fois au témoignage de Judy, et je rejette celui de l’appelant. En effet, il est possible que l’appelant se soit imaginé, en raison de son état mental, que les factures empêchaient Judy d’être considérée comme une employée et confirmaient qu’il y avait une société de personnes, mais, si je tiens compte des circonstances décrites ci‑dessus, ce n’était pas le cas.
+4. Intégration
+L’intervenante était complètement intégrée dans l’entreprise de l’appelant, tout d’abord, en tant que commis comptable, puis, pendant la période, en tant que commis comptable, gestionnaire, couvreuse et conductrice de camion, tout cela sous les ordres directs de l’appelant.
+[7] Pour résumer, pendant la période, Judy était une employée de l’appelant. Les appels sont rejetés.
+[8] L’intervenante a eu recours aux services d’un avocat dans le cadre des présents appels. Elle a droit aux dépens et aux débours autorisés par la Loi sur l’assurance‑emploi.
+Signé à Saskatoon (Saskatchewan), ce 31e jour de mars 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 7e jour de juillet 2006.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2006CCI207
+NOS DES DOSSIERS DE LA COUR : 2005-110(CPP) et 2005-111(EI)
+INTITULÉ DE LA CAUSE : Andrzej S. Stawicki c. La Reine et Judith E. Wilson
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 17 mars 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 31 mars 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Pour l’intervenante :
+Me Fiona Mendoza
+L’intervenante elle-même et Me Michael Scherr
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

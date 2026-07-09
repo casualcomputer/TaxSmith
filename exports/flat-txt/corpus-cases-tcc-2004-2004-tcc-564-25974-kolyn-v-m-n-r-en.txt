@@ -1,0 +1,274 @@
+Title: Kolyn v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25974/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-564-25974-kolyn-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-09-02
+
+# Kolyn v. M.N.R.
+
+- Citation: 2004 TCC 564
+- Decision date: 2004-09-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3772, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kolyn v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-02
+Neutral citation
+2004 TCC 564
+File numbers
+2002-4573(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4573(EI)
+BETWEEN:
+PHILYP KOLYN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.W. FERGUSON OP. BRACEBRIDGE TAXI SERVICES,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Philyp Kolyn (2002‑4574(CPP)) and Nancy Kolyn (2003-312(ŒI)) and 2003-313(CPP)) on August 12, 2004 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeremy Streeter
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, on this 2nd day of September 2004.
+"L.M. Little"
+Little J.
+Docket: 2002-4574(CPP)
+BETWEEN:
+PHILYP KOLYN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.W. FERGUSON OP. BRACEBRIDGE TAXI SERVICES,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Philyp Kolyn (2002‑4573(EI)) and Nancy Kolyn (2003-312(ŒI)) and 2003-313(CPP)) on August 12, 2004 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jeremy Streeter
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, on this 2nd day of September 2004.
+"L.M. Little"
+Little J.
+Docket: 2003-312(EI)
+BETWEEN:
+NANCY KOLYN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.W. FERGUSON OP. BRACEBRIDGE TAXI SERVICES,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Philyp Kolyn (2002‑4573(EI)) and 2002‑4574(CPP)) and Nancy Kolyn (2003-313(CPP)) on August 12, 2004 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Ray Kolyn
+Counsel for the Respondent:
+Jeremy Streeter
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, on this 2nd day of September 2004.
+"L.M. Little"
+Little J.
+Docket: 2003-313(CPP)
+BETWEEN:
+NANCY KOLYN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+and
+J.W. FERGUSON OP. BRACEBRIDGE TAXI SERVICES,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Philyp Kolyn (2002‑4573(EI)) and 2002-4574(CPP)) and Nancy Kolyn (2003-312(ŒI)) on August 12, 2004 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Ray Kolyn
+Counsel for the Respondent:
+Jeremy Streeter
+For the Intervenor:
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, on this 2nd day of September 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC564
+Date: 20040902
+Dockets: 2002-4573(EI)
+2002-4574(CPP)
+2003-312(EI)
+2003-313(CPP)
+BETWEEN:
+PHILYP KOLYN,
+NANCY KOLYN,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+J.W. FERGUSON OP. BRACEBRIDGE TAXI SERVICES,
+Intervenor.
+REASONS FOR JUDGMENT
+Little J.
+A. STATEMENT OF FACTS:
+[1] J.W. Ferguson Services Ltd. (the "Payor") operates a taxi business in the town of Bracebridge, Ontario. The business is operated under the name of Bracebridge Taxi Services.
+[2] During the period February 4, 2000 to October 24, 2001, the Appellant, Philip Kolyn, drove a taxicab for the Payor.
+[3] During the period September 29, 2000 to March 3, 2002 the Appellant, Nancy Kolyn, drove a taxicab for the Payor.
+[4] The Payor owns the taxicab license, the taxicab plus the sign and meter in the taxicab, the taxi stand, the dispatch services and all office equipment and supplies.
+[5] During the periods referred to above, each of the Appellants were advised by the Payor's dispatcher to provide taxi services to customers ("Customers").
+[6] Each of the Appellants collected all of the monies received from the customers. The taxi fare charged to Customers was determined by the meter in the taxicab or the fare was based on a flat fee as determined by the Payor for a specific trip.
+[7] Each of the Appellants paid the Payor 50% of the monies collected from the Customers (Note: In calculating the 50% that belonged to the Appellants, each Appellant was required to deduct the Goods and Services Tax ("GST") plus the Employment Insurance Premiums and remit these amounts to the Payor.
+[8] Each of the Appellants also paid for the gasoline that was used in the operation of the Payor's taxicab.
+[9] The Payor paid for all of the other expenses incurred in connection with the taxicab including insurance, oil, regular maintenance and repairs plus regular washing of the taxicab.
+[10] The Payor prepared a four-week schedule for each of the Appellants and the other drivers. This schedule showed mandatory days and hours of work plus on-call periods for each of the Appellants.
+[11] The Appellant, Philip Kolyn, was fired by the Payor on October 24, 2001.
+[12] The Appellant, Nancy Kolyn, resigned on March 3, 2002.
+[13] Following his termination, the Appellant, Philip Kolyn, applied for benefits under the Employment Insurance Act and was initially denied any benefits.
+[14] By a letter dated August 28, 2002, the Minister of the National Revenue (the "Minister") advised the Appellant, Philip Kolyn, that he was not employed under a contract of service pursuant to paragraph 5(1)(a) of the Employment Insurance Act. The Minister further informed the Appellant that his arrangement with the Payor was insurable employment since he provided services to the Payor as a taxi driver and therefore, the Appellant was insurable pursuant to subsection 6(e) of the Employment Insurance Regulations.
+[15] By a letter dated August 28, 2002 the Minister advised the Appellant, Philip Kolyn, and the Payor that it had been determined that the Appellant was not employed under a contract of service pursuant to subsection 6(1)(a) of the Canada Pension Plan (the "Plan").
+[16] By a letter dated December 23, 2002 the Minister advised the Appellant, Nancy Kolyn, that she was employed under a contract of service pursuant to paragraph 5(1)(a) of the Employment Insurance Act. The Minister further informed the Appellant that her arrangement with the Payor was insurable employment since she provided services to the Payor as a taxi driver and therefore she was insurable pursuant to subsection 6(e) of the Employment Insurance Regulations.
+[17] By a letter dated December 23, 2002 the Respondent informed the Appellant, Nancy Kolyn, and the Payor, that it had been determined that the Appellant was not employed under a contract of service pursuant to subsection 6(1)(a) of the Plan.
+B. ISSUES TO BE DECIDED:
+[18] The issues to be decided are:
+(a) Were each of the Appellants engaged in insurable employment by the Payor during the periods noted within the meaning of paragraph 5(1)(a) of the Employment Insurance Act?
+(b) Were each of the Appellants engaged in pensionable employment by the Payor during the periods noted within the meaning of paragraph 6(1)(a) of the Canada Pension Plan?
+C. ANALYSIS:
+[19] The Employment Insurance Act reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+…
+(2) Insurable employment does not include
+(a) employment of a casual nature other than for the purpose of the employer's trade or business;
+[20] The Canada Pension Plan reads as follows:
+6. (1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+…
+(2) Excepted employment is
+(b) employment of a casual nature otherwise than for the purpose of the employer's trade or business;
+Was There a Contract of Service Between the Appellants and the Worker?
+[21] The first issue to be decided is whether the Appellants were employed "under any express or implied contract of service". Only if the Appellants were employed under a contract of service will they qualify for "insurable employment" and "pensionable employment".
+[22] What constitutes a "contract of service" has been considered by the Courts many times, often in the context of distinguishing the relationship from a "contract for service". In other words, the Court must determine if the Appellants were employees of the Payor or independent contractors.
+[23] An examination of what the Courts have held to constitute a contract of service is required. The Courts have developed a test focusing on the total relationship of the parties with the analysis centered around four elements:
+- degree of control and supervision;
+- ownership of tools;
+- chance of profit; and
+- risk of loss.
+[24] This test was propounded by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R.[1] and accepted and expanded by subsequent cases. The Supreme Court of Canada also considered the issues in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] Speaking for the Court, Major J. stated:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke, J., in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.[3]
+[25] Accordingly, Major J. considered the central question to be determined is "whether the person who has been engaged to perform the services is performing them as a person in business on his own account or is performing them in the capacity of an employee".
+[26] The requirement to take a holistic approach in examining the four tests has been emphasized by the Federal Court of Appeal on past occasions:
+… we view the test as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence that weight which the circumstances may dictate.[4]
+Similarly, Major J. stated in Sagaz:
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.[5]
+[27] Before applying the facts of the present case to the principles set out above, it should be noted that the Minister's determination that the Worker's employment was pursuant to a contract of service is subject to independent review by the Tax Court.[6] No deference to the Minister's determination is required.
+[28] As stated above, the Wiebe Door test can be divided into four categories.
+Control
+[29] Mr. Justice MacGuigan said in Wiebe Door:
+The traditional common-law criterion of the employment relationship has been the control test, as set down by Baron Bramwell in R. v. Walker (1858), 27 L.J.M.C. 207, 208:
+It seems to me that the difference between the relations of master and servant and of principal and agent is this: A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done.[7]
+[30] In other words, the key aspect of "control" is the employer's ability to control the manner in which the employee carries out his or her work; thus the focus is not on the control that the employer in fact exercised over the employee. Examples of this ability include the power to determine the working hours, defining the services to be provided, and deciding what work is to be done on a given day.[8]
+[31] Each of the Appellants testified that they were under the control of the Payor. The Appellants said that they reported to work at the Payor's office as per the monthly schedule prepared by the Payor. The Appellants also testified that they would pick up customers as directed by the Payor's dispatcher. The Appellants also said that in the town of Bracebridge, less than 5% of all the customers would result from being flagged down on the street. Under these circumstances, how could it be said that the Appellants had the right to control the manner in which the work is carried out? The Payor clearly determined the Appellants' hours of work and the Payor determined what should be done by each of the Appellants on a given day.
+[32] I have concluded that under the control test, the Appellants were clearly under the control of the Payor.
+Ownership of Tools
+[33] The Payor owned the taxicab, the taxicab license, the taxicab sign, the office equipment and supplies, the dispatch equipment, the meter and the radio and all of the supplies and pieces of equipment. The Appellants paid the Payor 50% of all fares received for the use of the taxicab. The Appellants also paid for the gasoline that was consumed during the shift. The Appellants also collected and remitted the GST that was paid by the customer and the Appellants paid the Payor the employment insurance premiums applicable. The Payor paid the insurance premiums, oil and all repairs and services on the taxicab. The Minister adopted the position that the Appellants were leasing the vehicle from the Payor.
+[34] In my view, the arrangement that the Payor dictated to retain the services of the Appellants was not a lease but was a form of employment with the Appellants paying a commission to the Payor equal to 50% of all fares less the deductions specified. I therefore find that the Payor owned the "tools" that were used in this situation.
+Chance for Profit and Risk of Loss
+[35] In an employee/employer relationship, it is the employer who bears the burden of profit and the employee does not assume a financial risk.
+[36] In this situation the Appellants and the Payor shared the gross revenues on a 50-50 basis (less the specified deductions noted above) and the Payor paid for the vehicle maintenance and repairs plus insurance. Other than paying for gasoline, the Appellants incurred no expenses personally. Under this arrangement it cannot be said that the Appellants had any risk of loss.
+Integration
+[37] In Canada v. Rouselle et al., Hugessen J. made the following comments on the integration test:
+[25] The judge did not mention the factor of "integration" as such. Clearly in light of the case law cited above, it was not essential for him to speak of it. However, if he had considered it, it is apparent that, from the employee's standpoint, the latter were not in any way integrated into the employer's business.
+[26] Their comings and goings, their hours and even their weeks of work were not in any way integrated into or coordinated with the operations of the company paying them. Although their work was done for the company's business, it was not an integral part of it but purely incidental to it.[9]
+In other words, the question is:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own command?"[10]
+[38] Based on the evidence that was presented the Appellants were not performing the services for the Payor as a person in business on his own account.
+Conclusion
+[39] On the evidence that was presented the Appellants were controlled by the Payor, the Payor owned the tools, the Payor had the chance of profit and risk of loss and the Appellants were integrated with the business of the Payor. I have therefore concluded as follows:
+1. Each of the Appellants were engaged in insurable employment by the Payor during the periods noted within the meaning of paragraph 5(1)(a) of Employment Insurance Act; and
+2. Each of the Appellants were engaged in pensionable employment by the Payor during the periods noted within the meaning of paragraph 6(1)(a) of the Canada Pension Plan.
+[40] The appeals are allowed, without costs.
+Signed at Vancouver, British Columbia, on this 2nd day of September 2004.
+Little J.
+CITATION:
+2004TCC564
+COURT FILE NOS.:
+2002-4573(EI), 2002-4574(CPP)
+2003-312(EI), 2003-313(CPP)
+STYLE OF CAUSE:
+Philyp Kolyn & Nancy Kolyn
+and the M.N.R. and J.W. Ferguson OP. Bracebridge Taxi Services
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+September 2, 2004
+APPEARANCES:
+Agent for the Appellants:
+Ray Kolyn
+Counsel for the Respondent:
+Jeremy Streeter
+For the Intervenor:
+No one appeared
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553, 70 N.R. 214, [1986] 2 C.T.C. 200, 87 DTC 5025 (F.C.A.).
+[2] [2001] 2 S.C.R. 983, 204 D.L.R. (4th) 542.
+[3] Sagaz, supra.
+[4] Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., [1988] 2 C.T.C. 2377 (F.C.A.; 88 DTC 6099 at 6100).
+[5] Sagaz at para. 48.
+[6] M.N.R. v. Jencan (1997), 215 N.R. 352, 2 Admin L.R. (2d) 152 (F.C.A.) at para. 24. Cited with approval in Candor Enterprises Ltd. v. Canada (M.N.R.) (2000), 264 N.R. 149 (F.C.A.).
+[7] Wiebe Door, at 5027, cited to DTC.
+[8] See Caron v. M.N.R. (1987), 78 N.R. 13 (F.C.A.).
+[9] (1990), 124 N.R. 339 (F.C.A.) at 347.
+[10] MacGuigan J. quotes with approval the comments of Cooke J. in Market Investigations Ltd. v. Minister of Social Security, [1968] 23 All E.R. 732 at page 737.

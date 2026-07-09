@@ -1,0 +1,311 @@
+---
+title: "Bolduc v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26421/index.do"
+last_modified: "2004-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 630"
+citation2: ""
+neutral_citation: "2004 TCC 630"
+decision_date: "2004-09-21"
+language: "en"
+item_id: "26421"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3172
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:00:54.118000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b95ee83472b523cb167931a9cfef7cdc30f1e826970d5ea5e52c6f4491e968b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bolduc v. M.N.R.
+
+- Citation: 2004 TCC 630
+- Decision date: 2004-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3172, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-21
+Neutral citation
+2004 TCC 630
+File numbers
+2004-255(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-255(EI)
+BETWEEN:
+MARIO BOLDUC,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Daniel Harvey (2004‑256(EI)) and the appeal of Réjean Lavoie (2004‑259(EI)), on August 25, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Alain Picard
+Counsel for the Respondent:
+Emmanuelle Faulkner
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision rendered by the Minister of National Revenue is confirmed, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 21st day of September 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+Docket: 2004-256(EI)
+BETWEEN:
+DANIEL HARVEY,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Mario Bolduc (2004‑255(EI)) and the appeal of Réjean Lavoie (2004‑259(EI)), on August 25, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Alain Picard
+Counsel for the Respondent:
+Emmanuelle Faulkner
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision rendered by the Minister of National Revenue is confirmed, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 21st day of September 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+Docket: 2004-259(EI)
+BETWEEN:
+RÉJEAN LAVOIE,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Mario Bolduc (2004‑255(EI)) and the appeal of Daniel Harvey (2004‑256(EI)), on August 25, 2004, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Alain Picard
+Counsel for the Respondent:
+Emmanuelle Faulkner
+_______________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision rendered by the Minister of National Revenue is confirmed, in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 21st day of September 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+Citation: 2004TCC630
+Date: 20040921
+Docket: 2004-255(EI)
+BETWEEN:
+MARIO BOLDUC,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2004-256(EI)
+DANIEL HARVEY,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND BETWEEN:
+Docket: 2004-259(EI)
+RÉJEAN LAVOIE,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These three appeals concern the period from January 1, 2002, to April 14, 2003. During that period, the three Appellants held shares in the company Groupe Nettoyeurs de la Capitale Ltée. At the time, each held 25% of the company’s capital stock. The company paid them each a fixed salary of $525 per week.
+[2] The appeals were filed in response to the Respondent’s determination that the paid work constituted a genuine contract of service in accordance with paragraph 5(1)(a) and sections 91 and 93 of the Employment Insurance Act (the “Act”).
+[3] As the three appeals resulted from the same facts, the parties have agreed to proceed on common evidence for the three files.
+[4] The Appellants were represented by Alain Picard, an accountant from the firm of Coutu, Fortier et Associés. He undoubtedly drafted the Notice of Appeal for the three appeals. It is appropriate to reproduce the Notice of Appeal in the Daniel Harvey file (2004-256(EI)). The Notices of Appeal were more or less the same.
+[translation]
+...
+Re: Réjean Lavoie Your file no. CE0307-1105-4271
+Daniel Harvey Your file no. CE0306-5130-4412
+Mario Bolduc Your file no. CE0306-5130-5213
+We would like to appeal your decision of October 28, 2003, concerning my clients’ 2002 insurability request for the company 9088-4719 Québec Inc. and Groupe Nettoyeurs de la Capitale Ltée.
+- They are the principal directors and shareholders and they are the ones who make all the decisions concerning the companies.
+- Whether they work a 15-hour week or a 40-hour week, they earn the same salary.
+- If they do not work for a month, they earn the same salary.
+- They guarantee all of the companies’ debts.
+- They are the ones who are fully accountable and take all the risks.
+- They have the power to decide whether they want to give themselves a bonus at the end of the year.
+- They are the ones who sign the cheques.
+- They are on call 24 hours a day.
+- If they are not there, the companies have no purpose.
+- There is no employee-employer relationship.
+- They determine their own work schedules.
+- Furthermore, if they applied for unemployment, they would not be eligible to receive it.
+Considering all of those points, I would ask that you review the decision.
+...
+Alain Picard, CMA
+...
+[5] Further to the Notices of Appeal, the Respondent submitted a Response to Notice of Appeal. In the Daniel Harvey file (2004-256(EI)), the Respondent, among other things, listed the facts assumed during the determinations that are under appeal. It is not necessary to reproduce those assumptions in the three files because the facts are more or less the same.
+[6] I will therefore reproduce the facts assumed in the Daniel Harvey file (2004-256(EI)). They are as follows:
+[translation]
+(a) the Payor, incorporated on July 1, 1996, operates a dry cleaning business;
+(b) the Payor owns a factory where the clothes are cleaned as well as six service counters;
+(c) also, the Payor serves almost 70 points of service, hotels or businesses, where he collects the clothes and then returns them cleaned.
+(d) the Payor employs 30 to 40 people, depending on the period, including approximately 23 for the factory;
+(e) during the period in dispute, the Payor’s voting shares were held by:
+- the Appellant, President, with 25% of the shares,
+- Mario Bolduc, Vice-President, with 25% of the shares,
+- Réjean Lavoie, Secretary, with 25% of the shares,
+- Alain Garon with 25% of the shares;
+(f) the shareholders have an arms-length relationship;
+(g) the Payor’s four shareholders also each hold 25% of the voting shares in the company 9088-4719 Québec Inc. (the Company);
+(h) the Company also operates a dry cleaning business under the name Nettoyeur un seul prix;
+(i) the Company does not own a cleaning factory, it has everything cleaned at the Payor’s factory;
+(j) the Company has four service counters;
+(k) the Company employs 12 employees;
+(l) the Payor and the Company are separate but associated entities and their headquarters are located at the same address in Quebec City;
+(m) each of the Payor’s shareholders perform services simultaneously, within their field, for both companies without regard to the time dedicated to each business;
+(n) the Appellant and Mario Bolduc are paid solely by the Payor while Réjean Lavoie is paid by the Company;
+(o) the Appellant’s main duties, for either of the companies, include:
+- training employees;
+- solving computer problems;
+- promotion and advertising;
+- following up with clients;
+- managing client claims;
+- supervising employees;
+(p) the Appellant manages various establishments belonging to the Payor and the Company;
+(q) the Appellant can sign cheques on behalf of the Payor and the Company, but two signatures are required for amounts exceeding $500;
+(r) the Appellant does not have to follow a specific work schedule but he generally works from Monday to Friday, at least 40 hours a week;
+(s) the Appellant must consult the other shareholders before making a decision about the Payor’s operations;
+(t) the Payor does not offer any fringe benefits to its employees, including the Appellant;
+(u) the Appellant uses his own car for work and assumes the costs incurred;
+(v) except for the car, the Payor provides the Appellant with all the material and equipment required for his work;
+(w) the Appellant is required to perform the services himself; he cannot have someone else perform his duties;
+(x) the Appellant received a fixed salary of $525 per week, through direct deposit;
+(y) the duties performed by the Appellant are essential to the efficient functioning of the Payor’s operations.
+[7] All the facts were admitted, except paragraph 5(w), where it was indicated that the Appellants were the only ones who could perform the duties assigned to them.
+[8] To put things in a proper perspective, I explained to the Appellants and their Agent what they had to establish in order to obtain a decision in their favour. In particular, I emphasized the fact that they had to make a clear distinction between their status as shareholder and their status as an officer or head of the business that worked for the company in which they held shares.
+[9] From reading the Notice of Appeal, it was clear that the Appellants did not see the distinction between their rights and obligations as shareholders and their rights and obligations as company employees. That observation results in particular from the following elements of the Notice of Appeal:
+- They are the principal directors and shareholders and they are the ones who make all the decisions concerning the companies.
+- Whether they work a 15-hour week or a 40-hour week, they earn the same salary.
+- If they do not work for a month, they earn the same salary.
+- They guarantee all of the companies’ debts.
+- They are the ones who are fully accountable and take all the risks.
+- They have the power to decide whether the want to give themselves a bonus at the end of the year.
+- They are the ones who sign the cheques.
+- They are on call 24 hours a day.
+- If they are not there, the companies have no purpose.
+- There is no employee-employer relationship.
+- They determine their own work schedules.
+- Furthermore, if they applied for unemployment, they would not be eligible to receive it.
+[10] The evidence in support of the appeals was primarily the testimony of Mario Bolduc. He explained the work he did, as well as the involvement of his colleagues, Daniel Harvey and Réjean Lavoie.
+[11] He emphasized the fact that they were the only ones to assume the risks and that, on a number of occasions, they had to reinvest in the business while having to guarantee all the loans necessary for the operation and development of the business.
+[12] He also emphasized the excellent working relationship they had with each other, adding that the strengths, skills and affinities of each of them were put to use, as some found certain tasks easier than others. He stated that they benefited from the strengths and the best efforts of all of them.
+[13] There were a few times that he made the comparison with a couple to explain that, on occasion, there were heated discussions where everyone spoke bluntly. Since all three have the same percentage of shares, they discussed and negotiated to in the end make majority decisions in an climate of consensus and the one with a dissenting opinion accepted the decision made.
+[14] He indicated that there was a cooperative and respectful atmosphere in the context of a common interest the infinite purpose of which was the highest level of profitability possible with a view towards development and consolidation for the future.
+[15] Despite the high level of trust and the cooperative atmosphere that existed, Mr. Bolduc explained that there were certain rules and standards to guarantee the efficient operation of the company. In concrete terms, they all had equal responsibility when making decisions on important issues; there were discussions, debates and decisions. For some more secondary, less important aspects, they all had relative autonomy.
+[16] Accordingly, if a cheque was for more than $500, a second signature was required. He specified that they sometimes spoke to each other very seriously. As for the organization of the work, they all had their responsibilities, and they spoke regularly to ensure close follow-up of the situation. For example, they all took turns being on call to ensure complete continuity in the operations.
+[17] Beyond all the explanations, the Appellant did not consider himself an employee; he considered himself a shareholder, entrepreneur, officer, boss, owner. Moreover, he specifically said that he did not think like an employee, but rather like an employer. He also stated that an employee did not have the necessary vision for long-term planning. According to the Appellant, the vision and the interest of an employee are diametrically different than those of a boss. In brief, the Appellant seemed to believe that an employee had to perform essentially physical work, whereas the work of a director, officer or boss with shares could not be performed under a contract of service.
+[18] At this stage I must point out that a company is a legal entity completely separate from the shareholders that manage and control it through the shares they hold.
+[19] To analyze and determine the nature of a work contract when a shareholder performs work that is in keeping with the commercial orientation of the business, it is essential to make a clear distinction between the actions performed as a shareholder and those performed as part of the business’ commercial activities, even though this is not necessarily easy.
+[20] A contract of service between individuals who deal with each other at arms length is a legal transaction that can be very flexible in the expression of the rights and obligations of the parties involved. However, it cannot include an arrangement intended to interfere with the Act. It must be a genuine contract where the presence of the key components is real. I am referring to, in particular, the work and the resulting salary.
+[21] To determine whether there is a contract of service, it is necessary to consider all the facts relative to the work, the context and the working conditions.
+[22] Since Montreal Locomotive Works Ltd v. McDonnaugh (1920), 61 S.C.R. 232 and Wiebe Door v. Canada, [1986] 3 F.C. 553, the courts, when they must identify the nature of the contract, apply four tests, i.e. power to control, chance of profit and risk of loss, ownership of tools and integration.
+[23] Of those four tests, the most important, if not essential, is the power to control at the origin of the relationship of subordination that must exist in an employer-employee relationship. This power does not necessarily have to be used, but it is imperative that the person who holds the power has not waived it.
+[24] In the case at bar, the main difficulty is the fact that the Appellants totally confuse their status as company employees with their status as company shareholders. A manager, a visionary, a foreman, a director general, a general manager, etc. may very well perform their work under a contract of service if they must account for their actions performed in the context of their work.
+[25] The evidence showed that the Payor company had established certain rules (signature of two people on cheques for more than $500, period on call, work specific to each person, a salary the amount of which was set in advance). The fact that those elements had been set out in a harmonious and cooperative atmosphere does not change the reality of the company, a distinct legal entity.
+[26] If there was reprehensible or unacceptable conduct, the company would have undoubtedly taken appropriate corrective action. It is clear that the person at fault would have then expressed their disagreement and frustration, but the majority would hold its position and the person at fault would then have to make changes or leave the company. In that situation, the person involved would have lost their employee status, but possibly kept their shareholder status.
+[27] In Roxboro Excavation Inc. v. Canada (Minister of National Revenue – M.N.R.), [1999] T.C.J. No. 32, I stated the following. These are various points that I feel are still very relevant and indicate that the appeals must be dismissed.
+8 It was shown that each of the Théorêt brothers had specific, defined responsibilities within Roxboro. Each of them devoted most of his available time to that company, although they were each also marginally involved in ensuring the efficient operation of the other companies.
+9 In exercising their respective responsibilities, the Théorêt brothers had a fair degree of independence and managed their own areas of activity quite freely. They did not have to ask for permission when deciding when to take vacations; they could be absent without having to give anyone an explanation. They each received more or less the same salary, part of which was paid through consecutive weekly cheques for the same amount; the other part of their remuneration was paid in the form of a bonus whose amount varied based on the financial performance of Roxboro and/or the other companies.
+...
+18 The key issue in this case is basically whether there was in 1996 a relationship of subordination between the company paying the remuneration and the interveners. In other words, did the company have the power to control and influence the work done by the Théorêt brothers?
+19 In this regard, I consider it important to point out that the courts have often said that it is not mandatory or necessary that the power to control actually be exercised; in other words, the fact that an employer does not exercise its right to control does not mean that it loses that power, which is absolutely essential to the existence of a contract of service.
+20 The power to control or the right to influence the performance of work is the main component of the relationship of subordination that lies behind a genuine contract of service.
+...
+22 In such cases, it is essential to draw a very clear distinction between what is done as a shareholder and/or director and what is done as a worker or non-management employee. In the case at bar, that distinction is especially important.
+23 Although the courts have identified four tests to help in characterizing a contract of employment, the test relating to the power to control is the most important; indeed, it is essential.
+...
+25 The power to control the performance of work is what lies behind the relationship of subordination that is absolutely fundamental to the existence of a contract of service within the meaning of the Unemployment Insurance Act.
+...
+28 Was there a relationship of subordination between the interveners and the company in and as regards the performance of the work they did within the scope of their respective roles? I believe that the company, which oversaw the work done by the Théorêt brothers, had the full right and power to influence that work. The fact that the company did not exercise that power to control and that those who performed the work did not think they were subject to such a power or feel they were subordinate in performing their work does not have the effect of eliminating, reducing or limiting the power to influence their work.
+...
+30 I do not think that it is objectively reasonable to require a total, absolute separation between the responsibilities that result from shareholder status and those that result from worker status. The wearing of both hats normally-and this is perfectly legitimate-creates greater tolerance and flexibility in the relations arising out of the two roles. However, combining the two roles produces effects that are often contrary to the requirements of a genuine contract of service.
+31 In the case at bar, the fact that authority did not seem to be exercisable against the Théorêt brothers and that decisions concerning the company were made by consensus and collegially does not mean that the company was deprived of its authority over the work done by the interveners. The evidence did not show that the company had waived its power to influence their work or that its right to do so was reduced, limited or revoked.
+[28] Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of September 2004.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 21st day of December 2004
+Aveta Graham
+CITATION:
+2004TCC630
+COURT FILE NOS.:
+2004-255(EI); 2004-256(EI); 2004-259(EI)
+STYLES OF CAUSE:
+Mario Bolduc, Daniel Harvey and Réjean Lavoie
+v. Minister of National Revenue
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING
+August 25, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+September 21, 2004
+APPEARANCES:
+Agent for the Appellants:
+Alain Picard
+Counsel for the Respondent:
+Emmanuelle Faulkner
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+City:
+Guy Cavanagh
+Cavanagh & Almeida
+New Richmond, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,197 @@
+---
+title: "Islam c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31189/index.do"
+last_modified: "2013-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 175"
+citation2: ""
+neutral_citation: "2013 CCI 175"
+decision_date: "2013-05-28"
+language: "fr"
+item_id: "31189"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5086
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:17:40.343000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d07bb3ddd766b51d1028ff982d9e7c0cd8f17e8d5e6186136baa03665e28e91b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Islam c. La Reine
+
+- Citation: 2013 CCI 175
+- Decision date: 2013-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5086, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Islam c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-28
+Référence neutre
+2013 CCI 175
+Numéro de dossier
+2012-3486(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3486(IT)I
+ENTRE :
+Mofizul Islam,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 avril 2013, à Toronto (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+JUGEMENT
+Les appels interjetés à l’encontre de la cotisation et de la nouvelle cotisation que le ministre du Revenu national a établies au titre des articles 118.3 et 118.4 de la Loi de l’impôt sur le revenu pour les années d’imposition 2010 et 2011 sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de mai 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 28e jour de juin 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 175
+Date : 20130528
+Dossier : 2012-3486(IT)I
+ENTRE :
+Mofizul Islam,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant interjette appel d’une cotisation par laquelle le ministre du Revenu national (le « ministre ») a rejeté, en vertu des articles 118.3 et 118.4 de la Loi de l’impôt sur le revenu (la « LIR »), un crédit d’impôt pour personnes handicapées non remboursable pour l’année d’imposition 2010. L’appelant ne s’est pas prévalu de ce crédit pour l’année d’imposition 2011, mais son appel porte également sur cette année-là.
+[2] Les passages applicables des articles 118.3 et 118.4 sont les suivants :
+118.3 (1) Crédit d’impôt pour déficience mentale ou physique. Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) s’il s’agit d’une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1), un médecin en titre — ou, dans chacun des cas ci-après, la personne mentionnée en regard du cas — atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de ces soins :
+(i) s’il s’agit d’une déficience visuelle, un optométriste,
+(ii) s’il s’agit d’un trouble de la parole, un orthophoniste,
+(iii) s’il s’agit d’une déficience auditive, un audiologiste,
+(iv) s’il s’agit d’une déficience quant à la capacité de s’alimenter ou de s’habiller, un ergothérapeute,
+(v) s’il s’agit d’une déficience quant à la capacité de marcher, un ergothérapeute ou, après le 22 février 2005, un physiothérapeute,
+(vi) s’il s’agit d’une déficience des fonctions mentales nécessaires aux activités de la vie courante, un psychologue;
+a.3) s’il s’agit d’une ou de plusieurs déficiences des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante, l’une des personnes ci-après atteste, sur le formulaire prescrit, que la ou les déficiences sont des déficiences graves et prolongées des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une seule activité courante de la vie quotidienne :
+(i) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre ou un ergothérapeute,
+(ii) s’il s’agit d’une autre déficience, un médecin en titre;
+b) le particulier présente au ministre l’attestation visée aux alinéas a.2) ou a.3) pour une année d’imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n’est inclus par le particulier ou par une autre personne dans le calcul d’une déduction en application de l’article 118.2 pour l’année (autrement que par application de l’alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante :
+A × (B + C)
+[…]
+118.4 (1) Déficience grave et prolongée. Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n’est considéré comme ayant une limitation équivalant au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne que si sa capacité d’accomplir plus d’une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu’il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller;
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne;
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+f) le fait de s’habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+[…]
+[3] L’appelant est aveugle de l’œil droit depuis l’âge de quatre ans.
+[4] Selon son témoignage et son avis d’appel, la vision de l’œil qui lui reste (le gauche) s’est détériorée au fil des ans et, dans celui-ci, il souffre de façon constante d’hypertension, de sécheresse et de [traduction] « quelques taches noires » dans le fond de l’œil.
+[5] L’appelant a déposé une copie d’un rapport qu’a établi en août 2011 le Dr Wai-Ching Lam, de l’Hôpital Toronto Western, à la suite d’une consultation de l’appelant; ce rapport indique que, dans le cas de l’appelant, [traduction] « la TCO [tomographie à cohérence optique] a révélé une hyperfluorescence arrondie d’un léger décollement de l’épithélium pigmentaire, en position juxtafovéale. Aucun signe de fuite n’a été relevé. La TCO a également confirmé un léger décollement de l’épithélium pigmentaire juxtafovéal. Compte tenu de cela, aucun traitement n’est requis. Cela a été expliqué à M. Islam » (pièce A‑1, dernière page).
+[6] L’appelant a également déposé un document de l’Institut national canadien pour les aveugles (l’« INCA ») daté du 21 juin 2007; ce document confirme qu’il est client de cet organisme et qu’il est inscrit auprès de ce dernier depuis la réception, en 2003, des informations médicales contenues dans un formulaire, joint à ce document, qu’a établi le 12 août 2003 une optométriste, la Dre Salima Abdulla (pièce A‑1, 4e et 5e pages). Je signale que, dans les rapports de l’optométriste, il est indiqué que le champ de vision est normal.
+[7] Comme autre preuve, l’appelant a déposé un avis d’évaluation de la Direction du soutien aux étudiantes et étudiants du ministère de la Formation et des Collèges et Universités (le « ministère »), daté du 9 juin 2006 (RAFEO 2006‑2007). On a conclu que l’appelant avait droit à la somme de 2 000 $ dans le cadre d’une bourse d’Accès Canada pour étudiants ayant une incapacité permanente, afin de l’aider à suivre un programme en administration de biens immobiliers au Collège Seneca – North York, pour la période de septembre 2006 à avril 2007 (pièce A‑1, 3e page).
+[8] L’appelant a toutefois déclaré qu’il avait refusé la bourse, car, pour des raisons financières évidentes, il ne voulait pas quitter l’emploi qu’il exerçait à ce moment‑là.
+[9] L’appelant a également déposé une lettre du Bureau des services de counselling et des services aux personnes handicapées du Collège Seneca. Cette [traduction] « lettre confirmant une incapacité pour le bureau d’aide financière » confirmait que l’appelant souffrait d’une incapacité temporaire et aussi qu’il correspondait à la définition du ministère d’un étudiant ayant une incapacité permanente et qu’il était donc admissible à une charge de cours réduite dans le cadre de son programme d’études (pièce A‑1, 1re page).
+[10] La principale doléance de l’appelant est que bien qu’il ait fait des études équivalant à un baccalauréat de quatre ans auprès d’une université canadienne, qu’il ait terminé une formation de niveau supérieur à Berlin, en Allemagne, et à Melbourne, en Australie, qu’il ait complété deux programmes de certificat et qu’il ait étudié dans le domaine des affaires au Collège Seneca, il a toujours de la difficulté à trouver un travail à temps plein.
+[11] Cela, croit-il, est dû à son handicap. Il a mentionné qu’il détenait un permis de conduire qui était renouvelé automatiquement sans examen annuel, mais qu’il évitait les grandes routes et qu’il conduisait très prudemment et seulement quand c’était réellement nécessaire. Il ne peut donc pas accepter un emploi pour lequel il est nécessaire de conduire un véhicule.
+[12] L’appelant reconnaît ne pas avoir produit de formulaire de crédit d’impôt pour personnes handicapées (T2201) avec sa déclaration de revenus pour 2010. Il dit ne pas avoir demandé ce crédit pour l’année 2011, parce que le système ne lui permettait pas de produire sa déclaration par voie électronique s’il demandait ce crédit et qu’il ne voulait pas envoyer sa déclaration de revenus pour 2011 par la poste.
+[13] Le seul formulaire T2201 qui a été déposé en preuve est celui que la Dre Salima Abdulla a rempli en mars 2002 (pièce R‑1, onglet 2).
+[14] La Dre Abdulla a indiqué que la vision de l’œil gauche de l’appelant était de 20/20 avec des lentilles correctrices, et elle a répondu affirmativement aux questions demandant si l’appelant était capable de voir, de marcher, de parler, de percevoir, de réfléchir et de se souvenir, s’il pouvait entendre, s’il pouvait s’habiller ou se nourrir lui-même et s’il était capable de gérer ses fonctions d’évacuation (intestinale ou vésicale).
+[15] La Dre Abdulla a rempli le formulaire en cochant la case [traduction] « non » à la question demandant si la limitation marquée de l’appelant dans une activité courante de la vie quotidienne ou sa cécité avait duré ou s’il était raisonnable de s’attendre à ce qu’elle dure au moins 12 mois consécutifs.
+[16] La question en litige consiste à savoir si l’appelant peut se prévaloir du crédit d’impôt pour personnes handicapées à l’égard des années 2010 et 2011.
+[17] Comme l’a déclaré le juge Campbell Miller dans la décision Wear v. R., 2002 CarswellNat 2676, au paragraphe 8, décision que l’intimée a invoquée, l’article 118.3 de la LIR prévoit trois conditions pour pouvoir réclamer ce crédit : a) le particulier doit avoir une déficience mentale ou physique grave et prolongée; b) les effets de la déficience sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée; c) le particulier doit fournir une attestation médicale confirmant les points a) et b).
+[18] Dans le cas présent, il est indubitable que l’appelant, aveugle d’un œil, a une déficience physique grave et prolongée.
+[19] Cependant, les effets de cette déficience doivent être tels que sa capacité d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée. Aux termes de l’alinéa 118.4(1)b) de la LIR, la capacité qu’a un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif.
+[20] Dans le cas présent, l’appelant souffre de cécité de l’œil droit, mais on ne peut pas dire qu’il est aveugle. Il est capable de lire; il détient un permis de conduire. Dans la décision Blondin v. R., 1994 CarswellNat 1570, que l’intimée a citée, la Cour fait mention des définitions que donnent les dictionnaires du mot « blind » (« aveugle ») qui signifie [traduction] « privé de l’usage de la vue ». Dans le rapport de la Dre Abdulla qui figure dans la pièce A‑1, à la 5e page, il est dit que le champ de vision de l’appelant est normal, même si ce dernier ne peut pas voir de l’œil droit. Dans le même ordre d’idées, dans le formulaire T2201 déposé en 2002 (pièce R‑1, onglet 2), la Dre Abdulla a déclaré que l’acuité visuelle de l’œil gauche de l’appelant, après correction, était de 20/20, et elle a répondu affirmativement à la question demandant si le patient était capable de voir.
+[21] Je conclus donc que l’appelant n’est pas aveugle. Cela étant, il doit démontrer qu’il lui est impossible d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif. Aux termes de l’alinéa 118.4(1)c), une activité courante de la vie quotidienne pour un particulier désigne : (i) les fonctions mentales nécessaires aux activités de la vie courante; (ii) le fait de s’alimenter ou de s’habiller; (iii) le fait de parler de façon à se faire comprendre; (iv) le fait d’entendre de façon à comprendre; (v) les fonctions d’évacuation intestinale ou vésicale; (vi) le fait de marcher.
+[22] L’alinéa 118.4(1)d) ajoute qu’aucune autre activité, y compris le travail, n’est considérée comme une activité courante de la vie quotidienne.
+[23] Dans le cas présent, l’appelant n’a pas établi qu’il était déficient ou limité de façon marquée dans l’une quelconque des activités courantes de la vie quotidienne susmentionnées. Le certificat T2201 déposé en 2002 confirme qu’il ne l’était pas. L’appelant estime que c’est surtout sur le plan de la recherche d’un travail qu’il est limité, mais le travail est expressément exclu des activités courantes de la vie quotidienne en vue de l’établissement du droit au crédit d’impôt pour personnes handicapées.
+[24] Le fait que l’appelant soit inscrit auprès de l’INCA n’est pas utile en l’espèce, tant que les exigences que prévoient les articles 118.3 et 118.4 de la LIR ne sont pas remplies.
+[25] Enfin, il est obligatoire qu’un contribuable produise une attestation d’un médecin ou d’un spécialiste compétent qui indique qu’il souffre d’une déficience décrite dans la LIR, car cette attestation est une condition préalable à l’obtention du crédit d’impôt pour personnes handicapées (voir MacIsaac c. La Reine, 1999 CarswellNat 2561, [1999] A.C.F. no 1898 (QL), 2000 DTC 6020 (CAF)).
+[26] Ainsi que l’a déclaré la Cour d’appel fédérale dans l’arrêt Buchanan c. Canada, [2002] A.C.F. no 838 (QL), 2002 CAF 231, au paragraphe 25 : « [La LIR] exige qu’un médecin délivre une attestation favorable. Cela veut dire que la tâche du juge de la Cour de l’impôt ne consiste pas à substituer son avis à celui du médecin, mais à déterminer, en se fondant sur la preuve médicale, si une attestation défavorable doit être considérée comme une attestation favorable. […] »
+[27] La Cour d’appel fédérale a ajouté, au paragraphe 26 : « [L]’obtention d’une attestation médicale favorable est une condition à remplir selon le paragraphe 118.3(1). Il n’appartient pas à la Cour de déterminer les politiques. Si l’on estime que les conditions prévues par la Loi sont presque impossibles à remplir, c’est au législateur qu’il incombe d’effectuer les modifications nécessaires. »
+[28] En l’espèce, aucune attestation de cette nature n’a été déposée pour l’une ou l’autre des années en litige. La seule attestation au dossier est celle déposée pour l’année 2002, et il ne s’agit pas d’une attestation favorable qui donne droit au crédit d’impôt pour personnes handicapées.
+[29] L’appelant a mentionné qu’il était trop coûteux de demander une attestation chaque année. Il a toutefois reconnu qu’il doit consulter régulièrement un optométriste pour prendre soin de l’œil qui lui reste. Si la situation se détériore au point où il n’est pas capable de voir de cet œil ou au point où il est limité de façon marquée dans les activités courantes de sa vie quotidienne – ce qui, à l’évidence, n’est pas souhaitable – je doute que le spécialiste en médecine refuse de signer pour lui une attestation favorable.
+[30] Pour le moment, l’appelant n’a pas montré qu’il répondait à la totalité des conditions que prévoient les articles 118.3 et 118.4 de la LIR pour pouvoir se prévaloir du crédit.
+[31] Quant à la discrimination, à laquelle il a fait allusion à l’audience, l’appelant n’a pas soulevé cet argument dans son avis d’appel, pas plus qu’il n’a envoyé d’avis indiquant qu’il entendait contester la constitutionnalité des dispositions en litige. Je ne traiterai donc pas de cette question.
+[32] Pour ce qui est de l’équité, comme l’a indiqué la Cour d’appel fédérale dans l’arrêt Chaya c. La Reine, 2004 CarswellNat 3503, 2004 DTC 6676, 2004 CAF 327, au paragraphe 4, arrêt que l’intimée a invoqué, la Cour n’a pas le pouvoir de faire une exception à des dispositions législatives pour des raisons liées à l’équité.
+[33] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de mai 2013.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 28e jour de juin 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 175
+No DU DOSSIER DE LA COUR : 2012-3486(IT)I
+INTITULÉ : MOFIZUL ISLAM C. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 avril 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 28 mai 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS
+AU DOSSIER
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

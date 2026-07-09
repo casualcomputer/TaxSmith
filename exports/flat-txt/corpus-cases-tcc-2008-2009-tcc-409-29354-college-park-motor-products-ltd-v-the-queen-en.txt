@@ -1,0 +1,175 @@
+Title: College Park Motor Products Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29354/index.do
+Corpus path: corpus/cases/tcc/2008/2009-tcc-409-29354-college-park-motor-products-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-26
+
+# College Park Motor Products Ltd. v. The Queen
+
+- Citation: 2009 TCC 409
+- Decision date: 2008-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6908, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+College Park Motor Products Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-26
+Neutral citation
+2009 TCC 409
+File numbers
+2007-131(IT)G
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-131(IT)G
+BETWEEN:
+COLLEGE PARK MOTORS LTD.,
+Apprllant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Joseph Alan Holdings Ltd. 2007-132(IT)G,
+on June 26, 2008, at Saskatoon, Saskatchewan
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed, with one set of costs.
+Signed at Ottawa, Canada, this 19th day of August, 2009.
+“E.A. Bowie”
+Bowie J.
+Docket: 2007-132(IT)G
+BETWEEN:
+JOSEPH ALAN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+College Park Motors Ltd. 2007-131(IT)G,
+on June 26, 2008, at Saskatoon, Saskatchewan
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed, with one set of costs.
+Signed at Ottawa, Canada, this 19th day of August 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 409
+Date: 20090819
+Docket: 2007-131(IT)G
+2007-132(IT)G
+BETWEEN:
+COLLEGE PARK MOTORS LTD. and
+JOSEPH ALAN HOLDINGS LTD.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] College Park Motor Products Limited (CPMP) and Joseph Alan Holdings Limited (JAH) are two members of what is known as the Ulmer Group of companies. It consists of 10 companies that operate automobile dealerships in Saskatchewan and Alberta, and JAH, a holding company established to hold real estate that it rents to the other companies in the group. CPMP operates a General Motors dealership in Vermillion, Alberta. CPMP appeals from a reassessment for income tax for its 1999 taxation year, and JAH appeals from a reassessment for its 2000 taxation year. Their appeals were heard together on common evidence.
+[2] It is not disputed that the reassessments from which they appeal were both made by the Minister of National Revenue after the expiry of the normal reassessment period that is defined in subsection 152(3.1) of the Income Tax Act.[1] The Minister’s position is that the reassessments were justified by the provisions of subparagraph 152(4)(a)(i):
+152(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+(ii) …
+[3] The appellants do not dispute that the reassessments are correct in the amount of tax that they assess, and that they would have been justified if issued in time. Their position is simply that they made no misrepresentation to justify reassessing after the expiry of the normal reassessment period.
+[4] Doug Ulmer is one of two brothers who are the principals of the Ulmer Group and who have built it up from a relatively modest beginning. He and his brother Ross are partners in all their business ventures. At the material time, Doug Ulmer was president and a director of JAH, and ran that company on a daily basis. He was also a director of CPMP and a hands-on manager of all the dealerships in the Ulmer Group. He and Al Baert, C.A. were the two witnesses called for the appellants.
+[5] Al Baert is a partner in the firm Menssa Baert Cameron, Chartered Accountants, in North Battleford, Saskatchewan. He has been the accountant for the Ulmer Group since about 1981. His firm’s practice includes accounting, auditing, taxation and business planning work. Mr. Baert does not specialize in taxation, or in any other aspect of the practice of accountancy. He has taken professional development courses in various aspects of the practice from time to time over the years. Each year, the firm prepares the income tax returns for about 400 corporations and of these, Mr. Baert does about 180. For many years, he has prepared the year end statements and the income tax returns for all members of the Ulmer Group. All the members of the Group have a record of filing their income tax returns both accurately and on time.
+[6] Mr. Ulmer testified about his practice with respect to the filing of income tax returns for the members of the Ulmer Group. He is familiar with the financial condition of each company in the Group, as he invariably reviews their statements carefully each month. Between the December 31 yearend and the income tax filing date he spends a day in North Battleford with Mr. Baert, during which they review the yearend adjustments, the annual statements and the income tax returns of each company that Mr. Baert has prepared for his signature. They spend about one half hour on the affairs of each company in the Group, and at the end of the day Mr. Ulmer signs the income tax returns for each company in the Group and then returns to Calgary, where he lives,
+[7] The source of the appellants’ problems flows from their liability to pay tax under Part I.3 of the Act. That Part imposes a capital tax on large corporations. As the appellants accept that the reassessments under appeal would be correct and justifiable if issued within the normal reassessment periods, it is not necessary for the purpose of these appeals to delve into the details of the calculation of the Part I.3 tax, or its effect on the appellants’ entitlement to claim small business deductions. For purposes of what is in issue, it is sufficient to know that although the appellant corporations individually would not have been liable to tax under Part I.3, as members of a group of associated corporations, and as a result of the substantial aggregate of lien notes for which the members of the Ulmer Group were liable on their inventories, the combined effect of sections 181, 181.1, 181.2, 181.3, 181.4, 181.5 and 181.6 in Part I.3 and subsection 125(5.1) in Part I was that:
+a) the appellants were liable to pay Part I.3 tax in the years under appeal;
+b) they were required to file returns of capital on Schedule 33 to the T‑2 income tax return; and
+c) the small business deduction to which they would otherwise have been entitled was eliminated.
+[8] Mr. Ulmer signed the T2 return for CPMP’s 1999 taxation year in Mr. Baert’s office, apparently on April 8, 2000, and that of JAH for the 2000 taxation year on March 31, 2001. The returns, as prepared by Mr. Baert and signed by Mr. Ulmer, did not disclose the liability of the appellants for tax under Part 1.3 of the Act, and in each case they claimed a small business deduction. It was not until the latter part of 2003 that Mr. Ulmer learned, in discussion with a tax lawyer in Saskatoon, of the errors that had been made in those returns, and repeated in subsequent years. Mr. Baert was surprised when Mr. Ulmer brought these errors to his attention, and he set about calculating the Group’s resulting liability. Mr. Ulmer then instructed Saskatoon counsel to make a voluntary disclosure to the Minister of the errors, and that was done in June 2004. The delay, Mr. Ulmer testified, was not attributable to any hesitation on his part, but to the lawyers. As a result of the voluntary disclosure, reassessments were issued for the years that were not statute-barred, and the appellants have accepted those, but they resists reassessment for the statute-barred years in issue here.
+[9] Mr. Baert’s evidence concerning the filing of returns, both generally and with specific reference to the returns in issue here, corroborated that of Mr. Ulmer. Their evidence was forthright and consistent, and I accept it in its entirety. I have no doubt that they are both careful and conscientious people. That, however, does not preclude the possibility that either, or both, of them is capable of a momentary lapse of care.
+[10] Counsel for the appellant argues that the authorities establish the proposition that a taxpayer who has retained an accountant to prepare an income tax return will not be subject to reassessment beyond the normal reassessment period unless he has failed to provide complete and accurate information to the accountant, or signs the return without properly reviewing its contents, or else reviews the return, but in doing so fails to observe errors that would have been obvious to a wise and prudent taxpayer exercising reasonable care. The appellants’ position is that although their accountants failed to advise them of the obligation to file a Part 1.3 return, and to take into account the effect that would have on their entitlement to claim a small business deduction, that failure cannot be attributed to them for purposes of the application of subparagraph 152(4)(a)(i). They assert that Mr. Ulmer exercised the degree of care that a normally wise and prudent person would have taken in reviewing the returns, and that the failings of Mr. Baert do not give the Minister the right to reassess.
+[11] The appellants contend that they maintained and furnished to Mr. Baert complete and accurate records, and that Mr. Ulmer did conduct a thorough review of the financial statements, and of the tax returns that Mr. Baert had prepared, and that he had the opportunity during their meeting to ask questions and to seek clarification from Mr. Baert concerning the financial statements and the income tax returns that were presented for his signature. It is not suggested that the appellants’ recordkeeping was anything short of exemplary, or that Mr. Baert was not given full and accurate particulars of their financial affairs.
+[12] Mr. Bouvier put forward two propositions for the respondent. The first is that while any ordinary taxpayer might not have been expected to know about Part 1.3 tax, Mr. Ulmer was no ordinary taxpayer. He was a very experienced and sophisticated businessman who had built up the Ulmer Group of associated corporations to be a major enterprise, and he should have been aware of the filing requirements in the Act respecting groups of associated corporations. He also submitted that in any event, Mr. Baert should have been aware of the requirements of Part 1.3 and of the implications of failing to comply with them, and that the authorities do not permit a taxpayer to escape the consequences of non-compliance by blaming another person who prepared the returns for him. Mr. Bouvier argues that a misstatement resulting from carelessness on the part of either Mr. Ulmer or Mr. Baert is sufficient to entitle the Minister to reassess beyond the normal reassessment period.
+[13] In examining this question it is important to remember that the purpose of subparagraph 152(4)(a)(i) is simply to preserve the Minister’s right to reassess a taxpayer in circumstances where the taxpayer has not divulged all that he should have, as accurately as he should have, and thereby has denied the Minister the opportunity to assess correctly all of the appellant’s liability under the Act in the first instance. It is not at all concerned with establishing culpability on the part of the taxpayer. Other provisions of the Act are in place to do that.[2] Mr. Wintermute relies on the following statement that I made in an oral judgment:[3]
+There may well be circumstances in which misrepresentations are made in reliance upon the advice of an accountant or other professional where it was reasonable to do so and where the negligence of that professional advisor does not have the effect of establishing misrepresentation for the purposes of subsection 152(4). I am satisfied however, that this is not such a case, …
+Clearly this statement was obiter dictum. More important, it does not accord with the decisions of Heald J. in Nesbitt v. Canada,[4] and of Bowman J. (as he then was) in Snowball v. The Queen.[5] Bowman J. explained in Snowball the significant difference in the effect of negligence of a taxpayer’s accountant or other tax preparer between cases where the assessment is made after the normal reassessment period and those cases where the Minister has imposed a penalty under subsection 163(2):
+In any event, even if Mr. Cockburn was negligent it is no answer to an otherwise statute-barred assessment under subparagraph 152(4)(a)(i). It is quite true that the negligence of an accountant may be a defence to a penalty under subsection 163(2): Udell v. M.N.R., 70 DTC 6019 (Ex. Ct.). Subparagraph 152(4)(a)(i) is not a penal provision. It serves an altogether different purpose from subsection 163(2). Negligence in the preparation of an income tax return retains its consequences under subparagraph 152(4)(a)(i) whether it is the negligence of the taxpayer personally or that of the accountant or other tax return preparer who is his or her agent. In Nesbitt v. The Queen, 96 DTC 6045, Heald J. held that a taxpayer could not shield himself from the effect of subparagraph 152(4)(a)(i) by blaming his accountant. The same considerations apply here.[6]
+Heald J.’s judgment in Nesbitt was affirmed by the Federal Court of Appeal,[7] but without comment on this point.
+[14] Nor does it assist the appellants that careful scrutiny of the returns of all the members of the Ulmer Group would have revealed the errors. For subparagraph 52(4)(a)(i) to be invoked the error or omission need not be such that the Minister could not possibly have assessed the taxpayer correctly if he had had only the information provided in the return to work with. In Regina Shoppers Mall Ltd v. The Queen[8] the Federal Court of Appeal held that the Minister could not invoke subparagraph 152(4)(a)(i) to reassess the taxpayer in circumstances where the facts giving rise to the reassessment were not only known to the Minister, but were central to an ongoing dispute between them in relation to the assessment of earlier years. More recently, however, that Court has taken a somewhat different view. In Nesbitt,[9] the Minister was found to be justified in reassessing the appellant beyond the normal reassessment period, notwithstanding that the misrepresentation he relied on was simply an erroneous number in the return that resulted from a wrong calculation that could have been detected by the Minister on examination of the contents of the whole return. The Court went on to find that it would have reached the same result even in circumstances where it could be shown that the Minister had acquired actual knowledge of the error within the normal reassessment period. In the course of giving the Court’s unanimous judgment Strayer J.A. said this:
+Even assuming that the letter of August 6, 1986, could be taken to prove the Minister's knowledge by that date (two months prior to expiry of the four-year limitation period) of the true facts and that there had been a misrepresentation, I do not believe this assists the appellant. It appears to me that one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form. It would undermine the self-reporting nature of the tax system if taxpayers could be careless in the completion of returns while providing accurate basic data in working papers, on the chance that the Minister would not find the error but, if he did within four years, the worst consequence would be a correct reassessment at that time.
+Thus it is irrelevant that the Minister might, despite the misrepresentation on the return form, have ascertained the true facts prior to the expiry of the limitation period. The faulty return was when submitted, and remained, a misrepresentation within the meaning of subparagraph 152(4)(a)(i) of the Act. (emphasis added)
+[15] Mr. Wintermute placed great reliance on the judgment of Rip J. (as he then was) in Brent v. The Queen.[10] That case is of no assistance here, however, as it dealt with a unique fact situation. The two taxpayers were sisters. They both failed to disclose in their income tax returns certain income from partnership interests that had been transferred to them, without their knowledge, from their late mother’s estate in the course of a business reorganization that was carried out by the executors, their father and the husband of one of the taxpayers. Rip J. made several findings of fact that distinguish the case from this one. Neither sister knew that the partnership interests had been transferred to them, or that partnership income had been allocated to them. These facts were only known to the executors. He found too that the taxpayers had no reason to make inquiries of the executors about the affairs of the estate that would have revealed these facts. In the present case, all the facts pertaining to the appellants’ business affairs were known to Mr. Ulmer. His problem was that he did not understand the legal implications of those facts. If he had exercised more care in reviewing the T2 returns before signing them, he would have realized that he needed to make inquiries about Part 1.3 of the Act.
+[16] The two questions that must be answered in all subparagraph 152(4)(a)(i) cases are whether there was a misrepresentation, and if so whether it was attributable to “neglect, carelessness willful default or … fraud in filing the return.” In my view, I must answer both questions in the affirmative.
+[17] The T2 income tax return of CPMP for the 1999 taxation year is found at Tab 2 of Exhibit A-1, and that of JAH for the 2000 taxation year is at Tab 4. The second page of each return is headed Attachments, and below that heading the following appears in the 1999 return of CPMP:
+Financial statements information - These include balance sheet, an income statement, and any notes, or General Index of Financial Information (GIFI).
+Schedules – Answer the following questions. For each yes response, attach to the T2 return the schedule that applies.
+The wording on the 2000 return of JAH is essentially the same. Below these headings are questions that call for a “yes” or “no” answer. To the left of each question is the number of the relevant section of the Guide that is available to explain the subject matter of the questions, and to the right is a box in which to indicate “yes”, followed by the number of the schedule that should be attached to the return if the answer is affirmative. In the lower part of the page are these three questions, all relating to Part 1.3 tax:
+Guide
+Item
+Yes
+Schedule
+…
+115
+Is the corporation subject to gross Part I.3 tax?
+33/34/35
+115
+Is the corporation a member of a related group with one or more members subject to gross Part I.3 tax?
+36
+115
+Is the corporation claiming a Part I.3 tax credit or a surtax credit?
+37
+In the CPMP return, Mr. Baert placed an x in the “yes” box for five of the 46 questions. In the JAH return eight of 48 questions were answered “yes”. None of the questions related to Part 1.3 is answered “yes” on either return, although clearly two of them should have been. In each return the computation of taxable income includes a claim of $32,000.00 for the small business deduction. There are, therefore, three misrepresentations in each return.
+[18] Mr. Bouvier does not suggest that willful default or fraud is a factor in this case, but he does suggest that carelessness or negligence led to the omissions, and to the claim for a deduction to which the taxpayers were not entitled. Mr. Wintermute argues that if there was negligence then it was that of Mr. Baert and not Mr. Ulmer. Neither of them knew anything about Part 1.3 of the Act, nor could they be expected to. Part 1.3 was added to the Act in 1989, and it had not been a factor in Mr. Baert’s practice prior to these cases. Mr. Ulmer is a businessman, not a lawyer or an accountant, and there was no reason for him to have any knowledge of the tax on large corporations, or even to think of any member of the Group as being a large corporation. None of that excuses their failure to react to the questions relating to Part 1.3 on the second page of the T2, however.
+[19] If Mr. Ulmer had reviewed the draft returns as carefully as a wise and prudent taxpayer would, then he would have read the questions on page 2 and he would have seen there the questions relating to Part 1.3 tax. Not knowing what they referred to, he would have asked Mr. Baert what Part 1.3 tax is, and he would have learned that Mr. Baert did not know either. At that point they would have referred to the guide item 115, or some other source, and they would have learned that the answers to two of the questions relating to Part 1.3 should be “yes”, that the Part 1.3 return should be filed with the T2 return, and that the small business deduction was not available to the appellants. It is immaterial whether the carelessness lies in failing to read all the questions on page 2, or, having read the questions, in failing to make the necessary inquiries to find out what Part 1.3 tax is all about. In either event, he did not take the required degree of care.
+[20] At the risk of redundancy, I wish to reemphasize that the purpose of subparagraph 152(4)(a)(i) is not penal but remedial. It balances the need for taxpayers to have some finality in respect of their taxes for the year with the requirement of a self-reporting system that the taxing authority not be foreclosed from reassessing in those instances where a taxpayer’s conduct, whether through lack of care or attention at one end of the scale, or willful fraud at the other end, has resulted in an assessment more favourable to the taxpayer than it should have been. This, quite rightly, is not a penalty case. It is simply a case where the fisc should not be deprived simply by reason of the passage of time between Mr. Ulmer’s innocent mistake and his discovery of it, and resulting voluntary disclosure.
+[21] The appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of August, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 409
+COURT FILE NO.: 2007-131(IT)G and 2007-132(IT)G
+STYLE OF CAUSE: COLLEGE PARK MOTORS LTD. and JOSEPH ALAN HOLDINGS LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: June 26, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: August 19, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the :
+Name: Kurt G. Wintermute
+Firm: MacPherson, Leslie and Tyerman LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] See for example sections 162, 163, 238 and 239.
+[3] Isnor v. the Queen, [2000] 4 C.T.C. 2566 @ para. 9.
+[4] [1996] 1 C.T.C. 2852.
+[5] [1986] 2 C.T.C. 2513.
+[6] Ibid., para 19.
+[7] 96 DTC 6588.
+[8] [1991] 1 C.T.C. 297.
+[9] Supra.
+[10] [2001] 4 C.T.C. 2697.

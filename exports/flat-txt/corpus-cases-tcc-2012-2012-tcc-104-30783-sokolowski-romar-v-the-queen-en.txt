@@ -1,0 +1,202 @@
+Title: Sokolowski Romar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30783/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-104-30783-sokolowski-romar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-04-25
+
+# Sokolowski Romar v. The Queen
+
+- Citation: 2012 TCC 104
+- Decision date: 2012-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7587, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sokolowski Romar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-25
+Neutral citation
+2012 TCC 104
+File numbers
+2010-737(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-737(IT) G
+BETWEEN:
+ISABELLA SOKOLOWSKI ROMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 13 and 14, 2012, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Nathalie Labbé
+Valérie Messore
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 160 of the Income Tax Act is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of April 2012.
+“François Angers”
+Angers J.
+Translation certified true
+On this 18th day of October 2012
+François Brunet, Revisor
+Citation: 2012 TCC 104
+Date: 20120425
+Docket: 2010-737(IT)G
+BETWEEN:
+ISABELLA SOKOLOWSKI ROMAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] On May 30, 1996, the appellant was assessed $949,999 under section 160 of the Income Tax Act (the Act) following a transfer of property (the family residence) on June 30, 1988, between her husband, the transferor, and the appellant, the transferee. The appellant and her husband were married on June 20, 1975, under the partnership of acquests regime.
+[2] The family residence in question was purchased on June 4, 1986, and title to the property was in the name of the appellant's husband. In 1986 and 1987, expecting their family to grow, the couple made extensive renovations to the home. Applications for adoption had been submitted in 1985-1986 and, in 1990, the couple adopted two children. The market value of the family residence is not being challenged in this litigiation.
+[3] In May 1986, Revenue Canada representatives contacted the appellant's husband concerning his income tax return for the 1985 taxation year. They then proceeded to audit his 1985 tax return and on July 17, 1987, he received a letter from Revenue Canada informing him that, following the audit, Revenue Canada planned to adjust his 1985 tax return, rejecting the losses of approximately $3 million he had claimed in connection with a partnership and other expenses and giving him 30 days to make representations before it issued a new notice of assessment. Revenue Canada continued the audit and ultimately rejected the losses in question claimed by the appellant's husband.
+[4] At the time of the adoption applications and the renovations, the appellant stated she wanted greater financial security and stability since her husband was a businessman. She wanted to be sure that the family residence would not be exposed to her husband's business risks. Although no date is provided, the evidence shows that the couple consulted a notary who was a family friend to ask for advice about their situation.
+[5] The proposed solution was for the couple to change their matrimonial regime. The notary then asked them to draw up a list of their assets. According to the appellant's husband, the notary prepared a deed of sale on June 30, 1988, in which the husband transferred the family residence to the appellant. To this end, the notary used the information he had in his files. The deed of sale was published on July 4, 1988. Paragraph 5 of the deed of sale under the "Declaration" heading is worthy of reproduction:
+[TRANSLATION]
+5 - That his civil status has not changed since he became owner of the location contemplated by this deed of sale, that he is married under the partnership of acquests regime to buyer Isabella Sokolowski, in accordance with the laws of the province of Quebec, where they were domiciled when they were married, on June twenty, nineteen hundred and seventy-five (1975).
+[6] The sale price is $1 and [TRANSLATION] "other good and valuable consideration that the buyer paid in cash to the seller and that the seller acknowledges receiving from the buyer, to whom he grants a general and final discharge." The document ends as follows [TRANSLATION] "after due reading, the parties have signed…"
+[7] According to the appellant's husband, when the deed of sale was signed, he had not had time to prepare the list of their respective assets, which would explain the delay in what subsequently occurred.
+[8] The notary who prepared all the relevant documentation died in 1990. The notary who took over his firm testified that he found two files in the name of the appellant's husband. The first concerns the husband's purchase of the family residence in 1986 and the second concerns the change in matrimonial regime, a file that was opened on February 1, 1989. The latter file contains an undated handwritten note from the husband listing the assets being partitioned but not their value. The notary found no file regarding the deed of sale of June 30, 1988, transferring the family residence to the appellant.
+[9] According to the husband, the handwritten note was given to the notary in early 1989 and, on April 20, 1989, the appellant and her husband signed an agreement to change their matrimonial regime before the notary and whereby they adopted the regime of separation as to property. In a document bearing the same date, the appellant and her husband proceeded to partition the assets comprised in the partnership of acquests, which existed until then, and each party transferred to the other assets held in undivided co-ownership that were not part of their respective lists of assets to partition. The family residence was part of the list of assets that was passed to the appellant.
+[10] For the purposes of the trial, the appellant's husband attached a value to each of the partitioned assets. The values were reconstructed from documents available at the time. It is obvious that, according to these values, the partition clearly favoured the husband, to whom 70% of their combined assets were attributed. The husband's explanation for this difference was that, for the appellant, what was important was the family residence and a sailboat that served as a summer residence for the family. For his part, he wanted to hold on to the cash assets so he could invest them in his companies. According to the husband and the appellant, the other valuable consideration to which the deed of sale of the family residence refers are assets that the appellant conveyed to her husband as part of the asset partitioning and the value of such assets is sufficient to constitute consideration equal to the fair market value of the family home.
+[11] On December 13, 1990, the appellant and her husband, before a notary and in accordance with article 42 of the Act to amend the Civil Code of Québec and other legislative provisions, declared they did not want to be governed by the provisions of articles 462.1 to 462.3 of the Civil Code of Québec regarding family patrimony which favour economic equality between spouses. In adopting the provisions concerning family patrimony, the legislator allowed spouses who were married before the Act came into effect (July 1, 1989) to make a choice in the following 18 months, i.e. by December 31, 1990. The concept of family patrimony, therefore, does not apply in this case.
+[12] The appellant's husband was reassessed for the 1985, 1986, 1987, 1988, 1989 and 1990 taxation years. The fact that the husband had a debt to pay under the Act at the time the family residence was transferred is not being challenged nor is the fact that the market value of the transferred property at the time was approximately $950,000.
+The appellant's position
+[13] The appellant submits that the transfer of the family residence on June 30, 1988, was completed by the deed of partition signed by the spouses on April 20, 1989, and that the consideration given by the appellant for this transfer was equal to or greater than the fair market value of the family residence based on the values established by the husband. Based on these values, the husband received consideration that exceeded the fair market value of the home. In fact, according to the appellant, this is what she meant when she stated that the consideration indicated in the deed of sale included [TRANSLATION] "and other valuable consideration."
+[14] The appellant further submits that, even if the transfer took place on June 30, 1988, the consideration is equal to or greater than the fair market value of the family residence given that the deed of sale indicates consideration of $1 and other good and valuable consideration. The appellant submits that the value of her husband's estate was not diminished by the transfer of the family residence to the appellant and that there was no unjust enrichment of the appellant's estate due to this transfer.
+The respondent's position
+[15] The respondent submits that the deed of sale of June 30, 1988, constitutes a transfer of the family residence and this deed of sale was published on July 4, 1988, thus becoming valid against third parties, including the Minister of National Revenue, in accordance with article 2941 of the Civil Code of Québec (articles 2082 and 2083 of the Civil Code of Lower Canada). On this date, the husband's tax liability was more than $949,999.
+[16] The respondent submits that, in the deed of sale of June 30, 1988, the appellant and her husband declared that there was no draft agreement at the time concerning a change of matrimonial regime such that this transfer could not be part of the partition resulting from a change in matrimonial regime on April 20, 1989.
+[17] The respondent further submits that the change in matrimonial regime was in no way intended to give any consideration whatsoever to the husband for the transfer of the family residence on June 30, 1988. The respondent argues that the change in matrimonial regime is a conventional change of regime according to paragraph 2 of article 465 of the Civil Code of Québec (article 497 of the previous version) and that, according to this provision, the effects of the dissolution are immediate such that, in this case, for the appellant and her husband, the effects of the change in matrimonial regime occurred on April 20, 1989, and not before. Lastly, the respondent submits that the terms of section 160 of the Act are clear and that the consideration must be determined at the time of the transfer.
+The issues
+[18] Was there a transfer of the family residence on June 30, 1988, within the meaning of section 160 of the Act and, if so, was the conveyance made for a consideration equal to the fair market value of the property transferred?
+Analysis
+[19] Section 160 reads as follows:
+(1) Tax liability re property transferred not at arm's length
+Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common- law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+. . .
+(2) The Minister may, at any time, assess a taxpayer in respect of any amount payable because of this section and the provisions of this Division apply, with any modifications that the circumstances require, in respect of an assessment made under this section as though it had been made under section 152.
+[20] The Federal Court of Appeal in Wannan v. Canada, 2003 DTC 5715 made the following comment concerning section 160:
+[3] . . . There is no due diligence defence to the application of section 160. It may apply to a transferee of property who has no intention to assist the primary tax debtor to avoid the payment of tax. Indeed, it may apply to a transferee who has no knowledge of the tax affairs of the primary tax debtor. However, section 160 has been validly enacted as part of the law of Canada. If the Crown seeks to rely on section 160 in a particular case, it must be permitted to do so if the statutory conditions are met.
+[21] In paragraphs 9, 17 and 18 of Her Majesty the Queen v. Livingston, 2008 DTC 6233, Justice Sexton of the Federal Court of Appeal laid down the criteria of application of section 160 in connection with the purpose and spirit of subsection 160(1):
+[9] The Tax Court Judge determined that in order for subsection 160(1) of the Act to apply, the following four criteria must be met:
+1) There must be a transfer of property;
+2) The parties must not be dealing at arm's length;
+3) There must be no consideration or inadequate consideration flowing from the transferee to the transferor (I would note that the trial judge considered the test to be “No consideration or inadequate consideration flowing from the transferor to the transferee” [emphasis added]: this is a mistaken quotation of the test as cited in Raphael v. Canada 2002 FCA 23.); and
+4) The transferor must be liable to pay tax under the Act at that time.
+. . .
+[17] In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor's spouse or common-law partner at the time of transfer or a person who has since become the person's spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm's length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+[18] The purpose of subsection 160(1) of the Act is especially crucial to inform the application of these criteria. In Medland v. Canada 98 DTC 6358 (F.C.A.) ("Medland") this Court concluded that "the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse [or to a minor or non-arm's length individual] in order to thwart the Minister's efforts to collect the money which is owned to him.” See also Heavyside v. Canada [1996] F.C.J. No. 1608 (C.A.) (QL) ("Heavyside") at paragraph 10. More apposite to this case, the Tax Court of Canada has held that the purpose of subsection 160(1) would be defeated where a transferor allows a transferee to use the money to pay the debts of the transferor for the purpose of preferring certain creditors over the CRA (Raphael v. Canada 2000 D.T.C. 2434 (T.C.C.) at paragraph 19).
+[22] Therefore, the date the family residence was transferred must be determined. Was it, as the appellant submits, part of a larger transaction such that the transfer in question was not completed until April 20, 1989, or was it a transfer that occurred on June 30, 1988, but with valuable consideration over the fair market value of the family residence?
+[23] The concept of transfer as used in section 160 of the Act has generated a rich case law in which Fasken Estate v. the Minister of National Revenue, [1948] Ex. C. R. 580 has been cited. In that decision, Exchequer Court President Thorsen made the following comment at paragraph 12:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer. . . .
+[24] And in St. Aubyn v. Attorney-General [1952] A.C. 15, Lord Radcliffe defined the concept of "transfer" in almost the same way as President Thorsen did when he said:
+If the word "transfer" is taken in its primary sense, a person makes a transfer to another person if he does the act or executes the instrument which divests him of the property and at the same time vests it in that other person. (page 53)
+[25] Dunkelman v. Minister of National Revenue, (1959), 59 D.T.C. 1242, also from the Exchequer Court of Canada, is another relevant authority concerning the concept of "transfer." In that case, as well as in Fasken Estate (supra), the issue was whether the attribution rules were applicable. Another issue in Dunkleman was whether a loan granted to a trust constituted a transfer within the meaning of subsection 22(1) of the Income Tax Act, S.C. 1948 chapter 52. After citing St. Aubyn v. Attorney General, (supra), Justice Thurlow wrote at paragraph 11:
+The expression "has transferred" in s. 22(1) has, in my opinion, a similar meaning. All that is necessary is that the taxpayer shall have so dealt with property belonging to him as to divest himself of it and vest it in a person under 19 years of age. The means adopted in any particular case to transfer property are of no importance, as it seems clear that the intention of the subsection is to hold the transferor liable for tax on income from property transferred or on property substituted therefor, no matter what means may have been adopted to accomplish the transfer. Nor is the scope of the provision affected or qualified by expressions such as "as if the transfer had not been made," which appeared in the corresponding section of the Income War Tax Act. Vide McLaughlin v. Minister of National Revenue ([1952] Ex. C.R. 225.). On the other hand, it is also clear that the subject matter of a transfer that is within the section must be property of the transferor, not that of some other person, and if the subsection is to apply, such property must have been vested by him in a person under 19 years of age.
+[26] Justice Archambault, of our Court, conducted a case law review on the concept of transfer found in subsection 160(1) of the Act and added the following concerning the Fasken and Dunkelman decisions, supra:
+The Fasken and Dunkelman decisions indicate, in my opinion, that in order for there to be a transfer of property for the purposes of the attribution rules, it is essential that the transferor be divested of his ownership and that the property has vested in the transferee. The mere possession of a property that has been loaned with the obligation to return it does not satisfy this condition. That, I think, is the meaning that must be given to the expression "pass the property from himself to her.” That is also the appropriate interpretation of subsection 160(1) of the Act. As Madam Justice Desjardins said in Medland, supra, at paragraph 14: "… the tax policy embodied in, or the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister's efforts to collect the money which is owed to him." …
+[27] Therefore, as of June 30, 1988, there was a notarial deed of sale, duly registered according to the legislation in force at the time, on July 4, 1988, attesting the transfer of the family residence to the appellant. According to article 1472 of the Civil Code of Lower Canada (CCLC) in effect at the time, a sale is a contract by which one party gives a thing to the other for a price in money which the latter obliges himself to pay. Still according to the provisions of the CCLC, especially articles 984, 1025, 1472 and 1473, when the sale pertains to a determinate object, which applies in this case, the property transfer takes place once the contract is signed. The validity of a contract is recognized when the parties are legally capable of contracting, their consent is legally given, there is something that forms the object of the contract and there is a lawful cause of consideration (see CCLC article 984).
+[28] According to CCLC articles 2082 and 2083, the transfer of the family residence in this case became valid against third parties upon its registration (today referred to as publication). In the light of the aforementioned cases (Fasken Estate, St. Aubyn and Dunkelman) and on the basis of CCLC rules in force at the time concerning obligations and sale, I find that the "transfer" of the family residence within the meaning of section 160 of the Act took place on June 30, 1988.
+[29] The notarial instrument attesting the transfer of the residence is presumed authentic and is proof of its content. I reproduce articles 1208 and 1210 of the CCLC:
+Art. 1208. A notarial instrument received before one notary is authentic if signed by all the parties.
+If the parties or any of them be unable to sign, it is necessary, to the authenticity of the instrument, that the consent given to the instrument by the party thereto who does not or cannot sign be received in the presence of a subscribing witness.
+Any person of full age and sound mind may be a witness if he is not interested in the act and is not the spouse of the notary receiving the instrument.
+This article is subject to the provisions contained in the next following article and to those relating to wills. It does not apply to the cases mentioned in article 2380, when a notary alone is sufficient.
+A deed received before a notary in the Province of Quebec, outside of the Province, is authentic when the object of the deed is an immoveable or real rights within the Province, or . . .
+Art. 1210. An authentic writing makes complete proof between the parties to it and their heirs and legal representatives;
+1. Of the obligation expressed in it;
+2. Of what is expressed in it by way of recital, if the recital has a direct reference to the obligation or to the object of the parties in executing the instrument. If the recital be foreign to such obligation and to the object of the parties in executing the instrument, it can serve only as a commencement of proof.
+[30] The next question is what consideration the appellant gave her husband as consideration for the transferred property. I reproduce subparagraph 160(1)(e)(i) of the Act, which reads as follows:
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of:
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property.
+[31] Several judges of this court have commented on the word “consideration” within the meaning of section 160 of the Act. Judge Bonner in Ruffolo et al. v. Her Majesty the Queen, 99 D.T.C. 184, made the following comment at paragraph 7:
+… The word "consideration" in subparagraph 160(1)(e)(i) is to be given its ordinary meaning, namely, something given in payment. Nothing in the statutory context or in the purpose which underlies section 160 suggests otherwise.
+[32] Judge Bowie, in Logiudice v. Her Majesty the Queen, 97 D.T.C. 1462, on page 1466, made the following comments:
+The word consideration, as it is used in the context of section 160 of the Act, in its ordinary sense refers to the consideration given by one party to a contract to the other party, in return for the property transferred. The obvious purpose of section 160 is to prevent taxpayers from escaping their liability for tax, interest and penalties arising under the provisions of the Act by placing their exigible assets in the hands of relatives, or others with whom they are not at arms' length, and thus beyond the immediate reach of the tax collector. The limiting provision in subparagraph 160(1)(e)(i) of the Act is to protect genuine business transactions from the operation of the section, to the extent of the fair market value of the consideration given for the property transferred. It is apparent, therefore, that for a transferee to have the benefit of this saving provision she must be able to prove that the transfer of property to her was made pursuant to the terms of a genuine contractual arrangement.
+[33] And lastly, concerning the requirement for consideration set out in section 160 of the Act, Justice Sexton of the Federal Court of Appeal made the following comment at paragraph 27 of Her Majesty the Queen v. Livingston, 2008 DTC 6233:
+Under subsection 160(1), a transferee of property will be liable to the CRA to the extent that the fair market value of the consideration given for the property falls short of the fair market value of that property. The very purpose of subsection 160(1) is to preserve the value of the existing assets in the taxpayer for collection by the CRA. Where those assets are entirely divested, subsection 160(1) provides that the CRA's rights to those assets can be exercised against the transferee of the property. However, subsection 160(1) will not apply where an amount equivalent in value to the original property transferred was given to the transferor at the time of transfer: that is, fair market value consideration. This is because after such a transaction, the CRA has not been prejudiced as a creditor. Applying such principles to the case at bar, it is clear that the transaction between Ms. Davies and the respondent left Ms. Davies without anything equivalent to the property transferred that could be collected by the CRA, and thus there couldn't possibly be consideration.
+[34] The appellant submits that, if the Court were to conclude that the family residence was transferred on June 30, 1988, the consideration given would then be equal to or greater than the fair market value of the residence because the appellant and her husband arranged the transfer to be for $1 and "other good and valuable consideration." According to the appellant, this other good and valuable consideration was given as part of the deed of partitioning on April 20, 1989, and, according to the values established, the consideration was greater than the fair market value of the family home.
+[35] The problem with the appellant's argument is found in the very wording of the deed of sale of June 30, 1988. Page 3 of the document contains the following paragraph:
+[TRANSLATION]
+There is no pending agreement between the spouses concerning the modification of their civil status or matrimonial regime.
+[36] The same document also stipulates that the matrimonial regime of the transferor, the appellant's husband, has not changed since he became the owner of the property and that he is married under the partnership of acquests regime with the appellant in accordance with the laws of the province of Quebec.
+[37] Lastly, under the price heading, the deed of sale reads that final discharge was given for payment of the consideration:
+[TRANSLATION]
+This sale was therefore concluded for the amount of one dollar ($1.00) and other good and valuable consideration that the buyer has paid in cash to the seller and that the latter acknowledges having received from the buyer, to whom he grants a FINAL AND GENERAL DISCHARGE.
+[38] The version of the facts presented by the appellant and her husband as to the context in which the transfer of the family residence was made clearly does not correspond at all to the wording of the deed of sale. The paragraph that most directly contradicts the appellant's argument is the one stipulating that the parties did not conclude any agreement with a view to changing the matrimonial regime. Yet according to the appellant's husband, he consulted his notary to find out how to proceed to protect himself against his creditors and, at the same time, meet the appellant's expectations. The proposed solution was to change their matrimonial regime and to prepare a list of assets to partition to this end. If such was the case on June 30, 1988, how is it that the notary did not mention it in the deed of sale? One might also ask why it was necessary to transfer the family residence before the list of assets to partition was prepared and the matrimonial regime changed.
+[39] The appellant's position resembles the one found in Allen v. Her Majesty the Queen, 2009 TCC 426. In that case, although the appellant had admitted that the fair market value of the property at the time of transfer was $375,000 and that the mortgage balance was $242,588, she maintained that she and her husband had concluded an oral contract according to which, following the transfer, she would take the necessary measures to calculate the net value of her husband's interest in the property and advance him the funds shortly after the transfer. She therefore argued that she had paid fair market value consideration for his 50% interest in the property and that consequently, her liability under section 160 of the Act was nil. For his part, the Minister had assumed that on the date of transfer, her husband had conveyed his right to one half of the value of the property to the appellant for consideration of $2 as indicated in the documentation. Therefore, the fair market value of the property and the amount of the mortgage being determined, the Minister had concluded that the net value of the husband's interest in the property was $66,205.
+[40] Justice Campbell dismissed the appeal and made the following comments:
+32 In the present appeal, the Appellant testified that their arrangement consisted of an oral agreement but there was no documentation or other corroborating evidence to show in fact that there was a promise to pay consideration in the future. I do not wish this to be taken to mean that I would always require written documentation. Each case must turn on its own set of facts. However, in this appeal, I believe there are too many inconsistencies in the evidence to give any credence to the oral testimony without further corroborating evidence sufficient to satisfy the onus which rests with the Appellant. Both the Appellant and her husband were represented by legal counsel who, according to their testimonies, was fully informed of all material facts surrounding this transfer. If that were the case, it strikes me as being suspect that the lawyer, armed with that knowledge, would not have drafted documentation such as a promissory note to reflect these circumstances. Such a paper trail would have supported their stated intention respecting the consideration at the time of transfer.
+. . .
+34 Based on the case law, to avoid triggering the application of section 160, the Appellant must show that the FMV consideration was provided to Mr. Allen at the time of the transfer. This is supported by the wording of subparagraph 160(1)(e)(i). According to the Respondent, this means that consideration must be given at the time or date of the transfer, which is March 23, 1999 in this appeal. My view, however, is that the Respondent's interpretation is too literal an interpretation. If the facts support the existence of a genuine contractual agreement that provides for FMV consideration, as per the decision in Logiudice, then this will be sufficient even though actual payment is not provided on the date of the transfer. The Respondent seems to later agree with this view in her submissions (Transcript, pages 267-269).
+35 The Appellant has the onus to prove that there was a valid agreement at the time of the transfer to pay due consideration at a future date. In the present appeal there is no written contract only an alleged oral agreement according to the testimonies of the Appellant and her husband. However, there are simply too many inconsistencies in the testimony to satisfy the Appellant's onus and support a conclusion that a genuine contractual agreement existed to pay due consideration post-transfer. Not only must there be evidence of consideration but the consideration must be sufficient.
+[41] In another decision of our Court, i.e. Madsen v. Her Majesty the Queen, D.T.C. 369, which was affirmed by the Federal Court of Appeal, 2006 D.T.C. 6090, Justice Little had concluded that the appellant's vague promise to pay her husband the funds required as consideration for his interest in the transferred property when these funds became available, without any written agreement between them, did not constitute consideration at the time of the transfer.
+[42] In the case at bar, it may be true that the appellant wanted to protect the family residence from her husband's creditors given that she and her husband had filed an application for adoption, but this adoption did not take place until 1990. There was therefore nothing urgent in my opinion that could justify the transfer of the family residence so quickly if it were not to protect it from the husband's creditors. If I were to accept the appellant's argument that the transfer of June 30, 1988, was part of a larger transaction that included the change of matrimonial regime and the partition of their assets on April 20, 1989, I would have to completely disregard certain clauses of the deed of sale, stipulated earlier, and not question why the notary who prepared the documents opened just one file on this transaction in spring 1989 and not another in June 1988.
+[43] Even if I were to accept the appellant's argument, it is impossible to set a value on the consideration given by the appellant at the time of transfer because the partition of assets between the appellant and her husband had not yet been formalized. The list of partitioned assets (Exhibit A-4) was only prepared at the beginning of the year following the transfer of the family home. At the time of transfer, one must be able to assign a value to the expression "other good and valuable consideration." In my opinion, at the time of the transfer of the family residence on June 30, 1988, there was no valid agreement between the appellant and her husband, the transferor, that could establish the value of the consideration paid over and above the amount of one dollar.
+[44] No document has been presented to demonstrate that other consideration would be given in the near future. While it is not always necessary to present written documents, each case is unique. The testimony heard did not convince me that the appellant and her husband had agreed on anything other than the sale of the family residence in June 1988. There was nothing in the deed of sale concerning the change of their matrimonial regime or other consideration. At most, there was a moral commitment between them that was not legally enforceable at the time of the transfer.
+[45] Careful examination of the notarial documents submitted as evidence ultimately supports the idea that the amount of one dollar was the consideration paid within the meaning of section 160 of the Act when the family residence was transferred on June 30, 1988.
+[46] The appeal must therefore be dismissed with costs.
+Signed at Ottawa, Canada, this 25th day of April 2012.
+“François Angers”
+Angers J.
+Translation certified true
+On this 18th day of October 2012
+François Brunet, Revisor
+CITATION: 2012 TCC 104
+COURT FILE NO.: 2010-737(IT)G
+STYLE OF CAUSE: Isabelle Sokolowski Romar and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 25, 2012
+APPEARANCES:
+Counsel for the appellant:
+Richard Généreux
+Counsel for the respondent:
+Nathalie Labbé
+Valérie Messore
+COUNSEL OF RECORD:
+For the appellant:
+Name: Richard Généreux
+Firm: Drummondville, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

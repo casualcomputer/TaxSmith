@@ -1,0 +1,158 @@
+Title: Kreuz v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29388/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-441-29388-kreuz-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-08-17
+
+# Kreuz v. The Queen
+
+- Citation: 2009 TCC 441
+- Decision date: 2009-08-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6879, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kreuz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-08-17
+Neutral citation
+2009 TCC 441
+File numbers
+2009-658(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-658(IT)I
+BETWEEN:
+VICTOR G.E. KREUZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 17, 2009, and decision rendered
+orally on August 21, 2009, at Toronto, Ontario,
+By: The Honourable Justice Cameron McArthur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Theil
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to claim motor vehicle employment expenses attributed to the Peterborough Victoria Northumberland and Clarington Catholic District School Board only.
+Signed at Ottawa, Canada, this 9th day of September, 2009.
+"C.H. McArthur"
+C.H. McArthur
+Citation: 2009 TCC 441
+Date: 20090909
+Docket: 2009-658(IT)I
+BETWEEN:
+VICTOR G.E. KREUZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Ian Theil
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from an assessment by the Minister of National Revenue (the “Minister”) disallowing the Appellant's claim for motor vehicle employment expenses of $5,372.00 in 2005. The issue is whether the claimed employment expenses are permitted pursuant to paragraphs 8(1)(h.1) and 8(1)(j) of the Income Tax Act (the “Act”), or are they considered personal for travel back and forth between the Appellant's home and place of employment.
+[2] The narrow issues are contained in the Minister's submission as follows:
+(a) The Appellant was not required to carry on duties away from his place of employment which is the school at which he teaches on a particular day, and that's with reference to paragraph 8(1)(h.1)(i) of the Act.
+(b) Secondly, the Minister submits that the Appellant was not ordinarily required to carry on the duties of employment in different places within the meaning of paragraph 8(1)(h.1) and (j) of the Act because he was employed for particular discrete substitute teaching assignments and he did not ordinarily work in more than one school on the same day.
+(c) Thirdly, the Minister submits that the Appellant is not entitled to deduct the disallowed expenses under section 8 of the Act so that their deductibility is prohibited by subsection 8(2).
+(d) Finally, the Minister adds that the Appellant did not submit the prescribed form T2200 from the employers for the 2005 taxation year and as such is not entitled to deduct the expenses by virtue of subsection 8(10).
+[3] The Appellant is a resident of Peterborough, Ontario, and he reported income in 2005 of $29,000.00. He is a 2003 university graduate and was employed as a substitute teacher of the Peterborough, Victoria, Northumberland and Clarington Catholic School Board and Kawartha Pine Ridge District School Board during 2005. He travelled to various schools throughout the district in that year and, as stated, claimed $5,372.00 in car expenses.
+[4] The Appellant's position includes that most employees work at one location on an ongoing basis. These people cannot claim motor vehicle expenses when filing their returns because
+"motor vehicle expenses incurred travelling between one's home and place of employment" is not allowed under the Act.
+Also, such employees have many choices to reduce or eliminate their reliance on a motor vehicle to get to work.
+[5] He added that he must travel on short notice in all kinds of weather to one of over, I believe 40 or 50 schools. He continues that other employees qualify for motor vehicle expense claims under the same sections.
+[6] His goal is to become a permanent teacher but in 2005, he was a replacement only, and when called on to do so, he travelled as much as 50, 60 or more kilometres from his Peterborough home to teach. He is qualified to teach both in the primary and high school areas. He rarely refused a board request, sometimes teaching in five different schools in a single week. He had his own car which was absolutely necessary to travel from school to school on short notice. He impressed me as a person of integrity and stability.
+Legislation
+[7] Paragraph 8(1)(h.1) of the Act provides
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+(a) …
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) …
+The exceptions do not apply in the present situation.
+Analysis
+[8] In a nutshell, the statutory conditions the Appellant has to meet are:
+(a) firstly, subsection 8(10) requires that he file a prescribed form " and in this instance he was provided one from the Catholic Board but was unable to get one from the Public Board;
+(b) secondly, for paragraph 8(1)(h.1)(i), I find the Appellant meets this criteria. His employer, the school boards, were in Peterborough which I have no difficulty finding is the employer's place of business;
+(c) thirdly, for paragraph 8(1)(h.1)(ii), he also meets this criteria. To travel to various schools, be they 10 kilometres or 60 kilometres from his home on short notice, he required a car. He had to maintain his car at his own expense whether or not it was so stated in his contract of employment which included A2‑03 of the collective agreement. Who else was going to pay his travelling expenses? and
+(d) lastly, the appellant could be made aware the day before that he was teaching some 50 kilometres away. Being new and wishing to please his employer with his long‑term goals in sight, he felt obligated to go, good weather or bad. To make a living he had to accept all requests. His car was a required tool of his trade. Other modes of transportation were either not available or practical.
+[9] In O'Neil v. The Queen[1], Justice Rip found that a City of Ottawa security coordinator whose work entailed visits outside of City Hall did not fulfil the conditions in paragraph 8(1)(h.1). His decision is distinguishable from the present appeal because in O'Neil, the appellant sought to deduct his travel expenses from home to City Hall. He was reimbursed for his trips to numerous locations, but not between his residence and City Hall.
+[10] Presently, the Appellant does not seek to deduct trips, if any, to the school board offices, but only from home to school board-owned property. His employers' place of business included or was the two boards' Peterborough offices and not the individual schoolrooms that the Appellant attended from day‑to‑day. It is no stretch of reasoning to conclude that there was an implied contract between the Appellant and his employer that he had to travel to various schools by car, at his own expense, and obviously he received no travel allowance.
+[11] The Catholic School Board provided him with the required prescribed form T2200, which is filed as Exhibit A‑1, which sets out questions and replies by the employer constituting the conditions of employment:
+(a) Did this employee's contract require the employee to pay his or her own expenses while carrying out the duties of employment?
+Answer: Yes.
+Did you normally require this employee to work away from your place of business or different places?
+Answer: Yes.
+This is important in identifying the place of business of the employer not being the schools, and it is just common sense.
+(b) Did this employee receive a motor vehicle allowance?
+Answer: No.
+6 Did you require this employee to pay other expenses for which the employee did not receive any allowance or repayment?
+Answer: No.
+Did this employee's contract require the employee to pay his or her own expenses?"
+Answer: Yes.
+[12] I believe common sense should prevail. The Minister submits that the Appellant, if at all, should be reimbursed for driving only one way, that is to the school and not home. I do not think this argument deserves any comment. The more difficult question is whether the car travel amounts were "expended … for travelling in the course of employment".
+[13] In Menard v. The Queen[2], the Appellant was a longshoreman who reported to different quays as directed at the Port of Montreal. The Federal Court of Appeal found the quays were different places as used in paragraph 8(1)(h.1), but he was not contractually obligated to use his vehicle. This differs from the Appellant’s situation who, I find as a fact, had no other practical way of travelling to his various schools. It was inherent that he use his own vehicle.
+[14] In Chrapko v. Canada[3], the taxpayer was a pari‑mutuel teller employed at all relevant times by the Ontario Jockey Club. The travelling expenses were incurred when the taxpayer travelled from his residence in Niagara Falls to one of the three tracks. The Court in Chrapko restricted allowable expenses to expenses incurred by the taxpayer in travelling to a place of work away from the places at which he normally worked, which is similar to this case, but those places in Chrapko included Woodbine and Greenwood at which he worked 75% of his time. The Court found the deductible travel expenses for the taxpayer were those incurred while working at Fort Erie, notwithstanding that he chose to reside in Niagara Falls which is closer to Fort Erie. Chrapko supports the Appellant’s position.
+[15] The Appellant presented a number of cases, including Rousseau v. The Queen.[4] Rousseau was a plumber who claimed a deduction for the use of his motor vehicle for travel from home to home job sites. The following is an excerpt from Rousseau:
+As presently, the T2200 signed by the employee's representative indicates that Mr. Rousseau had to travel in his employment and did not receive travel allowance.
+which applies to the present appeal as well. In Rousseau, Justice Paris went on to state that in Rozen v. Canada[5], the Federal Court indicated:
+If an employee is obliged to travel to do his work and his employer is not prepared to pay the exact total cost of transportation, he must come within the requirements of paragraph 8(1)(h.1)(ii).
+Justice Paris concluded that the Mr. Rousseau complied with the Act.
+[16] Finally, I refer to the third condition of paragraph 8(1)(h.1) which states that the expenses deducted must be incurred by the taxpayer for travel in the performance of his duties. In Chrapko, the Court implicitly accepted that a taxpayer's travel between home and place of work could be considered travel for employment purposes if the taxpayer was ordinarily required to carry on the duties of his employment at different places. This same reasoning was applied in Her Majesty the Queen v. Merten,[6] and in Royer v. Canada.[7] .
+[17] Now, referring to the second condition, I have already referred to the fact that it was inherent under the circumstances that the Appellant was obligated to cover his vehicle expenses under his employment contract. The following reasons from Justice Sheridan in Hudson v. Canada,[8] also applies to the present case:
+… The taxpayer was required to have his motor vehicle available at the office. The only way the requirement could be satisfied was to drive there each day. If he left it permanently parked at the office, as counsel for the respondent gamely suggested, he would have been completely deprived of the personal use of his own vehicle, a quite unreasonable expectation to impose on an employee. I accept his evidence that except for the requirement that he have his vehicle at work he would have relied on cheaper alternate transportation.
+I have no difficulty concluding the Appellant was working while driving to the schools. The trips were not pleasure runs, but definitely part of his work requirement to get himself to various places. The Appellant was performing a valuable service to his employers, and it was an obligation on his part travelling in all weather conditions to fill in for a teacher who was not able to do so.
+[18] I refer to part of the Appellant's opening remarks, with approval:
+As a supply teacher I work in different places. The two school boards I work for encompass large areas, roughly 160 kilometres from boundary to boundary. I live in Peterborough, approximately in the middle of the board's boundaries. To work five days a week to satisfy my employer, I usually travel out of Peterborough and often have 150 kilometre round trip commutes. I could not do my job without a car. I do not have a realistic choice. I ask the court to take note of the discussion of choice in Mitchell v. Canada.
+... in such cases there is no element of choice on the part of the appellants. They simply had to travel in order to satisfy their respective duties of employment or suffer the consequences.
+And that applies equally to the Appellant and, I might add, is common sense.
+Conclusion
+[19] In conclusion, I find the Appellant did not meet the requirement in subsection 8(10) with respect to the Public School Board, and he is prohibited from deducting his travel expenses while travelling for the Public School Board locations. However, the appeal is allowed for the travel submitted while employed with the Catholic Board in 2005. I accept the Appellant's evidence as to the distance travelled and expenses incurred. I do not have the specifics and trust that the amounts given by the Appellant to the Respondent which were not contested will suffice that need. The Minister did not dispute the amounts in the Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 9th day of September 2009.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2009 TCC 441
+COURT FILE NO.: 2009-658(IT)I
+STYLE OF CAUSE: VICTOR G.E. KREUZ and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 17, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: September 09, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Theil
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2001] 1 C.T.C. 2091, 2000 D.T.C. 2409 (T.C.C.)
+[2] 2004 TCC 516, 2006 D.T.C. 2515
+[3] [1988] 2 C.T.C. 342, 88 D.T.C. 6487 (F.C.A.)
+[4] 2006 TCC 552
+[5] [1985] F.C.J. No. 1002.
+[6] 90 DTC 6600
+[7] 1999 Tax Court of Canda No. 111.
+[8] 2007 TCC 661

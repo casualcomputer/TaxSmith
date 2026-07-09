@@ -1,0 +1,191 @@
+---
+title: "Medallion Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/317255/index.do"
+last_modified: "2018-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 157"
+citation2: ""
+neutral_citation: "2018 CCI 157"
+decision_date: "2018-07-30"
+language: "fr"
+item_id: "317255"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4968
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:48:53.096000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a456ea7af11f3e81f04b9e4d61a0fb4850ed9bbb5e1e1961272c5baf77de6cb6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Medallion Corporation c. La Reine
+
+- Citation: 2018 CCI 157
+- Decision date: 2018-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4968, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Medallion Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-30
+Référence neutre
+2018 CCI 157
+Numéro de dossier
+2016-953(GST)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-953(GST)G
+ENTRE :
+MEDALLION CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 février 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocats de l’appelante :
+Me Neil E. Bass
+Me Angelo Gentile
+Jess Waslowski, stagiaire en droit
+Avocats de l’intimée :
+Me Frédéric Moran
+Me Bhuvana Sankaranarayanan
+JUGEMENT
+L’appel à l’encontre des cotisations établies le 23 février 2015, concernant les périodes de déclarations mensuelles du 1er janvier 2011 au 31 décembre 2011, et des nouvelles cotisations établies le 11 mars 2015, concernant les périodes de déclarations mensuelles du 1er janvier 2012 au 31 décembre 2013, sous le régime de la Loi sur la taxe d’accise (Canada) est accueilli, et les cotisations et nouvelles cotisations portées en appel sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations sur le fondement que Medallion Corporation et les divers propriétaires exerçaient leurs activités ensemble, comme coentrepeneurs, au cours des périodes pertinentes. Les parties ont 30 jours, à compter d’aujourd’hui, pour s’entendre sur les dépens ou, à défaut, pour déposer auprès de la Cour des observations écrites concernant les dépens.
+Signé à Summerville Centre (Nouvelle-Écosse), ce 30e jour de juillet 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 4e jour d’avril 2019.
+Elisabeth Ross, jurilinguiste
+Référence : 2018 CCI 157
+Date : 20180730
+Dossier : 2016-953(GST)G
+ENTRE :
+MEDALLION CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] L’appelante, Medallion Corporation (« MC »), a interjeté appel des cotisations établies le 23 février 2015 sous le régime de la Loi sur la taxe d’accise (Canada) (la « Loi »), concernant les périodes de déclarations mensuelles du 1er janvier 2011 au 31 décembre 2011, ainsi que des nouvelles cotisations établies le 11 mars 2015, concernant les périodes de déclarations mensuelles du 1er janvier 2012 au 31 décembre 2013. Le ministre du Revenu national (le « ministre ») a établi ces cotisations et nouvelles cotisations en se fondant sur l’hypothèse selon laquelle MC ne participait pas à une coentreprise avec certains propriétaires d’immeubles loués à bail et que MC fournissait, en réalité, des services de gestion immobilière à ces propriétaires. En conséquence, le ministre a établi les cotisations et nouvelles cotisations sur le fondement que la part proportionnelle que MC avait reçue était taxable en totalité, à titre de contrepartie perçue pour la prestation de services taxables de gestion immobilière aux propriétaires des immeubles concernés. En l’espèce, la question en litige consiste à déterminer si, au cours des périodes de déclaration pertinentes, MC formait une coentreprise avec ces propriétaires. Si c’est le cas, alors les cotisations et les nouvelles cotisations portées en appel seraient invalides.
+Les faits
+[2] Les parties ont déposé un long exposé conjoint partiel des faits (« ECPF ») présentant, entre autres, les faits suivants : MC possède une expertise en matière de location, de gestion et d’exploitation d’immeubles. Certaines personnes possèdent (les « propriétaires ») des immeubles résidentiels et commerciaux, en Ontario (les « immeubles »). MC et les propriétaires ont entre eux un lien de dépendance. Du 1er janvier 2011 au 31 décembre 2013, MC a conclu dix ententes écrites, chacune étant intitulée [traduction] « Entente de coentreprise » (les « EC »), avec un ou plusieurs propriétaires, chacune concernant un ou plusieurs immeubles.
+[3] Chaque partie à une EC pouvait exercer ses propres activités en marge de l’activité régie par l’EC concernée. Parmi les principales modalités de chaque EC se trouve la clause 1, intitulée [traduction] « Création de coentreprises », laquelle prévoit la création d’une coentreprise distincte ayant pour but de tirer des revenus de la location de chaque immeuble indiqué dans l’EC, à compter d’une date de prise d’effet. Les clauses 2 et 3, sous le titre [traduction] « Participation dans les coentreprises », prévoient que la participation de chaque partie dans chaque coentreprise est égale à la quote-part indiquée dans une annexe de l’EC pour chaque immeuble. Cette quote-part est calculée en fonction du revenu brut de location et d’autres sources (le « RBLAS ») tiré de chaque immeuble indiqué dans l’EC. Le RBLAS est composé de tous les revenus tirés de chaque immeuble, notamment les revenus liés aux loyers, aux stationnements et aux buanderies, les frais d’entretien des zones communes et les factures d’impôt foncier. Les dépôts de garantie et les remboursements pour dommages ou pertes en sont exclus.
+[4] Les clauses 4 et 5, sous le titre [traduction] « Contributions à la coentreprise – propriétaire », prévoient que le propriétaire accepte de rendre chaque immeuble disponible à la location et à l’utilisation, au bénéfice de chaque coentreprise, et de payer les dépenses qui lui incombent relativement à chaque coentreprise, selon les modalités de l’EC. Il est précisé que MC ne détient aucun droit de propriété à l’égard des immeubles, ni aucun droit quant aux produits découlant d’une hypothèque, d’une vente ou d’une aliénation y afférentes. Le propriétaire doit aviser MC 90 jours avant la vente de tout immeuble.
+[5] La clause 6, intitulée [traduction] « Contributions à la coentreprise – [MC] », prévoit que MC apporte son expertise en matière de location, de gestion et d’exploitation d’immeubles à chaque coentreprise et qu’elle s’acquitte de toutes les dépenses qu’elle a engagées pour chaque coentreprise, conformément à l’EC applicable. Plus précisément, MC négocie, en son propre nom, les contrats de location des locaux des immeubles pour le compte des parties à la coentreprise, en plus de mettre à disposition les lieux loués et d’en permettre l’occupation, et le propriétaire confère à MC le droit de le faire, pour chaque immeuble. En outre, MC perçoit, pour chaque coentreprise, tous les revenus provenant des immeubles, lesquels doivent être déposés à titre de RBLAS des parties. Le propriétaire et MC ont un droit de propriété commune dans le RBLAS de chaque immeuble, dans la mesure de leur quote-part respective. De manière générale, MC est tenue de s’acquitter de l’ensemble des tâches nécessaires et souhaitables pour la bonne exploitation des immeubles, notamment les relations avec les locataires, les tâches liées aux contrats d’assurance, aux taxes et impôts et aux réparations mineures (jusqu’à concurrence de 25 000 $ par élément), la tenue des registres appropriés ainsi que la préparation d’états financiers non vérifiés et des budgets annuels. Le propriétaire ne détient aucun droit de propriété à l’égard des biens et du matériel utilisés par MC pour s’acquitter de ses obligations.
+[6] La clause 7, intitulée [traduction] « Dépenses – [MC] », attribue à MC la responsabilité notamment des dépenses de nature administrative qu’elle fait et des salaires qu’elle verse pour s’acquitter de ses obligations au titre de l’EC, à l’exception, entre autres choses, des frais liés aux réparations, à l’entretien ou aux améliorations des immobilisations, sauf pour l’entretien sur place, comme il est précisé dans une annexe de l’EC. La clause 8, intitulée [traduction] « Dépenses – propriétaire », prévoit que chaque propriétaire est responsable de la supervision, des réparations, de l’entretien et des améliorations aux immobilisations supplémentaires sur place, sauf quant au personnel sur place dont il est fait mention plus haut. La clause 9 de l’EC, intitulée [traduction] « Paiement des parts de la coentreprise », prévoit que MC tiendra un registre des quotes-parts du RBLAS et qu’elle sera tenue de déduire de la part du propriétaire les dépenses dont celui-ci doit s’acquitter. MC doit payer le solde des quotes-parts chaque mois.
+[7] Les clauses 10 et 11, sous le titre [traduction] « Comités de gestion de la coentreprise », prévoient que deux personnes (les « gestionnaires »), nommées chacune par une des parties (le propriétaire et MC), forment un comité de gestion de la coentreprise (le « CGC ») pour chaque coentreprise. Le CGC tient une réunion au moins une fois par mois, sauf entente contraire, [traduction] « pour discuter des problèmes importants d’ordre commercial, opérationnel, stratégique ou réglementaire propres à chaque [coentreprise] et les résoudre ». Les gestionnaires doivent prendre toutes les décisions d’un commun accord. S’ils ne parviennent pas à s’entendre, un arbitre tiers peut être nommé. S’ils ne s’entendent toujours pas, l’une ou l’autre des parties peut mettre fin à l’EC.
+[8] La clause 12, intitulée [traduction] « Droit d’examen des livres et des registres », confère ce droit à toutes les parties à la coentreprise, quelle que soit la personne qui détient les livres et registres. La clause 15 prévoit un examen et une renégociation périodiques, pour une période d’un an, des quotes-parts respectives de la coentreprise relativement au RBLAS applicable. La clause 16, concernant la taxe sur les produits et services (la « TPS »), prévoit que le propriétaire et MC sont tous deux responsables des remises de TPS relativement aux loyers commerciaux, en application de la Loi, selon leur quote-part du RBLAS, et qu’ils ont droit à leurs propres crédits de taxe sur les intrants en ce qui concerne les biens et les services utilisés ou fournis à cet égard. Il s’agit de la thèse que défend MC dans le présent appel.
+[9] La clause 17 confirme expressément qu’aucune des parties n’a l’intention de former une société de personnes et qu’aucun acte de l’une de l’autre des parties n’aura pour effet d’en créer une. La clause 18 prévoit une [traduction] « durée » qui se renouvelle automatiquement chaque année, à moins qu’il ne soit mis fin à l’EC, conformément à ses clauses de résiliation. Celles-ci prévoient que l’une ou l’autre des parties peut, en tout temps, résilier l’EC, moyennant un avis de 90 jours à l’autre partie.
+[10] Il est également précisé dans l’ECPF que l’intimée ne soutient pas que les EC sont des subterfuges et qu’elle ne conteste pas le fait que les parties aux EC en aient respecté les modalités.
+[11] Comme il est mentionné ci-dessus, le ministre, dans les cotisations et nouvelles cotisations portées en appel, a taxé l’ensemble des revenus de MC découlant de sa part proportionnelle des RBLAS respectifs des diverses EC, au motif que tous ces revenus étaient une contrepartie pour services rendus à titre de gestionnaire immobilier pour le compte des propriétaires. La thèse de MC est que, selon la Loi, seule la partie du RBLAS qu’elle a perçue à l’égard des baux commerciaux est taxable.
+Les questions en litige
+[12] Dans sa réponse, l’intimée a fait valoir qu’en l’espèce, il ne s’agissait pas de coentreprises parce que les prétendues coentreprises ne présentaient pas quatre [traduction] « caractéristiques essentielles » d’une coentreprise (paragraphe 68 des observations écrites de l’intimée). Ces caractéristiques sont les suivantes :
+a) MC n’avait pas d’intérêt de propriété commune dans l’objet de l’entreprise.
+b) MC n’avait de droit mutuel de contrôle ou de gestion de l’entreprise à l’égard d’aucune des prétendues coentreprises.
+c) MC n’avait aucune attente de profit, et les coentreprises n’étaient pas des projets comportant un risque de caractère commercial.
+d) MC ne détenait aucun droit de participation aux profits ou bénéfices; il s’agit du principal argument invoqué dans la réponse pour soutenir la thèse fondant les cotisations et nouvelles cotisations selon laquelle MC ne tirait pas de revenus des prétendues coentreprises.
+Analyse juridique
+[13] Ce qui suit est un examen de la jurisprudence et d’un énoncé de politique de l’Agence du revenu du Canada (l’« ARC ») concernant le sens souple du terme « coentreprise ».
+[14] La décision Central Mortgage & Housing Corp. v. Graham, 1973 43 D.L.R. (3d) 687 (Cour suprême de la Nouvelle-Écosse, section de première instance), est généralement reconnue comme étant une des premières décisions au Canada établissant les aspects juridiques essentiels des [traduction] « entreprises communes », appelées subséquemment « coentreprises ». Tirant de nombreuses citations de l’ouvrage de doctrine intitulé Williston on Contracts, 3e édition, vol. 2, 1959, le juge Jones, aux pages 706 et 707, fait état de la liste figurant dans cet ouvrage, énumérant [traduction] « certains préalables jugés essentiels pour qu’il soit conclu à l’existence d’une coentreprise », qui s’ajoutent à l’exigence du fondement contractuel :
+a) un apport, par les parties, de fonds, biens, efforts, connaissances, habiletés ou autres actifs à une entreprise commune;
+b) un intérêt de propriété commune dans l’objet de l’entreprise;
+c) un droit mutuel de contrôle et de gestion de l’entreprise;
+d) une attente de profit ou l’existence de ce qu’on appelle parfois un « projet à risque »;
+e) un droit de participation aux profits;
+f) la plupart du temps, une limitation de l’objectif à une seule et unique entreprise ou à une entreprise constituée à une fin particulière.
+[15] Dans cette décision, la Société centrale d’hypothèques et de logement (la « SCHL ») avait intenté une poursuite en forclusion contre les acheteurs (les Graham), lesquels avaient présenté une demande reconventionnelle pour de prétendus vices de construction contre la SCHL et le constructeur, au motif qu’ils formaient une coentreprise. La SCHL a affirmé n’être qu’un organisme prêteur fournissant le soutien financier au projet de construction. Par conséquent, elle n’était qu’une créancière hypothécaire à l’égard du constructeur. Toutefois, la cour a conclu qu’ils formaient une coentreprise, puisqu’il était satisfait aux six exigences conditionnelles à l’existence d’une coentreprise. La SCHL [traduction] « avait manifestement des intérêts financiers en jeu et elle était directement concernée par la réussite de l’entreprise ».
+[16] Dans la décision Westcan Malting Ltd. c. La Reine, [1998] A.C.I. no 252, le juge Teskey, de notre Cour, devait décider si l’entente conclue entre l’appelante, propriétaire d’une malterie, et l’administration d’un village constituait une entente de coentreprise. L’entente prévoyait que l’administration du village obtiendrait du financement public pour la construction, par l’appelante, d’un système amélioré d’adduction d’eau et d’évacuation des effluents, lequel bénéficierait aux habitants du village et à l’appelante, qui en avait besoin pour l’exploitation de sa malterie. Il était prévu que le système serait la propriété du village et que ce dernier le céderait à l’appelante pour un dollar s’il cessait de l’exploiter. En outre, l’appelante aurait à payer pour les services d’adduction d’eau et d’évacuation des effluents. Une cotisation a été établie à l’endroit de l’appelante, au motif qu’elle avait omis de percevoir la TPS sur le produit de la vente du système au village. En appel, l’appelante a notamment soutenu qu’elle formait une coentreprise avec l’administration du village, et qu’elles avaient choisi que les règles de l’article 273 de la Loi s’appliquent à elles, ce qui avait pour effet d’exempter l’entreprise de la taxe. La Cour a tiré les conclusions suivantes (aux paragraphes 54 et 55) :
+La question de savoir s’il existe une coentreprise aux fins de l’article 273 de la Loi doit être déterminée selon la conduite des parties, la nature de leurs intentions, les circonstances et les faits propres à leur situation, et la convention qu’elles avaient conclue. Bien que la liste de facteurs présentée par Williston ne soit pas déterminante quant à l’existence d’une coentreprise entre les parties, il faut tenir compte de ces facteurs, qui ont été cités avec approbation dans les jugements [CMHC] et Bow Valley, précités.
+Je ne conclus pas qu’il existait pour l’une ou l’autre des parties un droit de participation aux profits tirés de l’infrastructure ou une attente de profit à cet égard. Pour [le village], l’avantage devant être tiré de l’infrastructure allait prendre la forme non pas de bénéfices mais plutôt d’une diminution de l’impôt foncier pour ses citoyens si l’appelante s’installait dans la municipalité. Pour l’appelante, l’avantage tiré de l’infrastructure est qu’elle obtient, avec un apport de capital très limité, les systèmes d’adduction d’eau et d’évacuation des eaux usées, moyennant des frais. Il n’y a pas d’intérêt financier en jeu, et aucun risque n’est assumé à l’égard du succès ou de l’échec global du programme conjoint de services publics. Je ne suis pas convaincu que les deux parties aient un intérêt de propriété conjointe dans l’infrastructure, soit un élément nécessaire pour qu’il y ait coentreprise.
+[17] Cet extrait fait mention de l’arrêt Bow Valley Husky (Bermuda) Ltd. v. Saint John Shipbuilding Ltd. (1995), 126 D.L.R. (4th) 1 (Cour d’appel de Terre-Neuve). Dans Bow Valley, la juge Cameron a conclu (aux paragraphes 35 et 36), au sujet de l’exigence énoncée dans la décision CMHC, précitée, [traduction] « d’un intérêt de propriété commune dans l’objet de l’entreprise », qu’il n’existait pas de coentreprise entre les parties A et B pour la construction et l’exploitation d’une plate-forme de forage appelée Bow Drill 3. Cette conclusion reposait sur le fait que l’objet de l’entreprise était la construction et la gestion de cette plate-forme de forage et que les parties A et B n’avait pas d’intérêt de propriété commune à l’égard de cette plate-forme, dont la partie C était l’unique propriétaire. Ni la partie A et ni la partie B n’avait la responsabilité d’exploiter la plate-forme. Par conséquent, il n’existait pas de coentreprise entre les parties A et B visant la construction et l’exploitation de la plage-forme de forage. On ne pouvait redéfinir l’objet de l’entreprise comme étant de faire de la prospection sur la côte Est. Cet arrêt, sur cette question, a été subséquemment confirmé par la Cour suprême du Canada – Bow Valley Husky (Bermuda) Ltd., [1997] 3 R.C.S. 1210, au paragraphe 49 (motifs d’un juge dissident, mais pas sur cet aspect) : « La Cour d’appel a conclu à juste titre que, même s’il existait un lien contractuel entre la demanderesse et le propriétaire du bien, il ne pouvait en aucun sens du terme être considéré comme une entreprise conjointe à laquelle ils auraient participé. »
+[18] Dans la décision Semenoff v. Saskatoon Drug & Stationary, (1988), 49 D.L.R. (4th) 102, il a été établi que le fait qu’un employé ait conclu une entente de coentreprise avec son employeur, laquelle concernait l’exécution de bon nombre de tâches identiques à celles dont l’employé s’acquittait dans le cadre de son emploi, ne portait pas préjudice à l’entente de coentreprise par ailleurs valide. La décision portait essentiellement sur le partage des profits bruts.
+[19] Dans la décision Langille c. La Reine, 2009 CCI 139, la juge Campbell a examiné la question de savoir s’il résultait une coentreprise de la collaboration entre l’entreprise de l’appelant et une autre entreprise, qui apportaient chacune des fonds pour le financement de l’achat par l’autre entreprise de certains biens destinés à la revente, dont le produit était divisé entre les parties; les deux entreprises participaient aux décisions relatives aux achats, bien que l’entreprise de l’appelant y participât dans une moindre mesure. Plus précisément, il fallait établir si l’entreprise de l’appelant avait un intérêt de propriété commune dans les biens présentés comme étant la source de revenus de la coentreprise, cet intérêt correspondant à l’une des six exigences énoncées dans la décision CMHC et dans l’ouvrage Williston.
+[20] La Couronne, l’intimée, a soutenu qu’il ne s’agissait pas d’une coentreprise parce que seule l’autre entreprise détenait un titre de propriété sur les stocks achetés pour la revente. Toutefois, la juge Campbell, en mettant en avant les contributions en argent de l’entreprise de l’appelant, a conclu que, si le créancier hypothécaire dans l’affaire CMHC pouvait être considéré comme un coentrepreneur, le fait pour l’entreprise de l’appelant d’être propriétaire de fonds ayant servi à l’achat des stocks était suffisant pour que l’on conclue à l’existence d’un intérêt de propriété commune, ce qui faisait de l’appelant un coentrepreneur. L’objet de la coentreprise n’était pas l’achat de stocks, mais plutôt les profits tirés de leur vente et le partage de ces profits bruts entre les deux coentrepreneurs. L’entreprise de l’appelant n’était pas un investisseur, mais plutôt une participante active dans cette entreprise génératrice de profits.
+[21] Dans l’arrêt Dover Financial Corporation, 1996 NSCA 23, la Cour d’appel de la Nouvelle-Écosse a conclu que la coentreprise continuait à exister si les parties touchaient les profits réalisés dans leurs domaines respectifs plutôt que de partager l’ensemble des profits. Dans cette affaire, la partie A voulait tirer un profit des loyers ou de la vente ultérieure du projet. En revanche, l’autre partie s’attendait à tirer des profits des coûts substantiels facturés ou des ententes de financement.
+[22] Dans la décision Woodlin Developments Inc., [1986] 1 C.T.C. 2188, le juge en chef adjoint Christie de la Cour de l’impôt a cité abondamment un article de 1985 qui s’appuyait sur les critères énoncés dans la décision CMHC et l’ouvrage Williston pour distinguer une société de personnes d’une coentreprise.
+[23] Il y a aussi lieu de tenir compte de l’arrêt ADI International Inc. v. WCI Waste Conversion Inc., 2011 PECA 14, de la Cour d’appel de l’Île-du-Prince-Édouard. Dans cet arrêt, le juge Jenkins, au paragraphe 40, a formulé les observations générales suivantes concernant les coentreprises :
+[traduction]
+Je suis d’avis qu’on n’a prouvé aucune erreur justifiant l’infirmation de la décision. Premièrement, aucune erreur de droit n’a été commise. La jurisprudence moderne n’envisage pas la liste d’exigences de façon rigide; elle adopte une approche plus nuancée. La Cour d’appel de la Nouvelle-Écosse a conclu que, selon les circonstances, les profits des participants peuvent être réalisés dans des domaines distincts plutôt que par le partage de l’ensemble des profits, lequel n’est pas essentiel : [Dover Financial Corp., précité, citant la décision CMHC]. Le juge Pugsley a fait observer dans [l’arrêt Dover] que le terme « coentreprise » n’est pas un terme technique en droit anglais et qu’il ne peut pas toujours faire l’objet d’une définition précise. En conséquence, il a fait valoir que, lors de l’examen des « prétendues exigences de Williston », il est important de considérer que les remarques formulées dans l’ouvrage de Williston servent à exposer des principes généraux pouvant être modifiés « selon la volonté exprimée des parties, mais aussi selon leur conduite et l’ensemble des faits et des circonstances ». Les textes modernes sont conformes à cette approche. Les ouvrages de doctrine Chitty on Contracts, 13e éd., 2008, au paragraphe 37-017, et Goldsmith on Canadian Building Contracts, 4e éd., 2010, à la division 1(1)(a)(i)(H), précisent, dans leur description des « coentreprises », que le profit est distribué comme les parties en ont convenu, et ni l’un ni l’autre des ouvrages ne contient de liste de préalables.
+[24] En outre, il a été fait mention de l’énoncé de politique P-171R de l’ARC, daté du 24 février 1999 et intitulé Faire la distinction entre une coentreprise et une société de personnes aux fins du choix concernant les coentreprises prévu à l’article 273. De manière générale, il reprend les exigences de l’ouvrage Williston et les présente en des termes relativement ouverts. Bien sûr, il ne s’agit pas de règles de droit, mais l’énoncé peut offrir des éclaircissements lorsqu’un doute ou une ambiguïté subsiste après l’application des principes habituels d’interprétation législative.
+[25] Compte tenu de ce contexte jurisprudentiel concernant les coentreprises, fourni par les deux parties, je reprends les arguments invoqués par l’intimée. En premier lieu, l’intimée demande le rejet de l’appel au motif qu’il n’a pas été satisfait à l’une des exigences figurant dans l’ouvrage Williston, notamment que MC n’avait pas d’intérêt de propriété commune dans l’objet de l’entreprise.
+[26] Selon l’intimée, l’objet des entreprises, en l’espèce, est l’ensemble des immeubles, qui appartiennent tous aux propriétaires et non à MC et dont, aux termes des EC, MC doit superviser activement la location à des fins résidentielles ou commerciales. Toutefois, l’appelante, MC, invoque la décision Langille, précitée, pour faire valoir que l’objet de l’entreprise censée être la coentreprise était en fait le revenu généré par l’exploitation des immeubles. Dans la décision Langille, notre Cour est parvenue à cette conclusion en partie parce que, dans cette affaire, les deux coentrepreneurs avaient versé des contributions en argent pour l’achat des différents biens destinés à la revente, laquelle produirait le revenu brut devant être partagé entre eux, indépendamment du fait qu’un seul d’eux détenait effectivement le titre de propriété à l’égard des biens achetés pour la revente.
+[27] Toutefois, en l’espèce, l’objet de chacune des prétendues coentreprises n’est pas la vente des immeubles. À mon avis, il ne s’agit pas non plus explicitement du RBLAS. En l’espèce, l’objet des EC vise plutôt l’utilisation des immeubles, plus précisément leur location. Selon les EC, MC a le droit de louer les immeubles et possède une expertise en matière de location et de gestion d’immeubles, expertise qui constituerait l’apport appréciable de MC aux prétendues coentreprises. Le paragraphe 123(1) de la Loi dispose, dans la définition du terme, qu’un « bien » comprend « un droit quelconque ». Ce libellé couvrirait le droit contractuel de MC, conformément aux EC, de louer les immeubles concernés en son propre nom. En conséquence, MC et les propriétaires ont bel et bien des intérêts de propriété commune dans l’objet susmentionné des coentreprises. Les faits en l’espèce se distinguent de ceux dans l’arrêt Bow Valley, précité, dans la mesure où les propriétaires ont de toute évidence un intérêt de propriété à l’égard des immeubles et MC a un intérêt en ce qui a trait à leur gestion et à leur exploitation.
+[28] Le deuxième argument de l’intimée est que MC ne détenait aucun droit mutuel de contrôle et de gestion de l’entreprise à l’égard de chacune des prétendues coentreprises. Je n’y souscris pas. Les clauses 10 et 11 portant sur les CGC (mentionnés ci-dessus), qui se trouvent dans chacune des EC, stipulent que MC (et chaque propriétaire concerné) a un représentant au sein du CGC de chaque coentreprise, que les décisions sont prises [traduction] « d’un commun accord » et que les CGC doivent se réunir au moins une fois par mois. Les éléments de preuve montrent aussi qu’il est constant, dans le présent appel, que ces clauses et les autres clauses des EC ont bel et bien été respectées. Le fait que MC n’ait aucun droit de regard, sauf le droit d’en être avisée, quant à la vente des immeubles n’enlève rien au droit mutuel de contrôle et de gestion de l’entreprise que lui confèrent les clauses 10 et 11 susmentionnées à l’égard de chaque prétendue coentreprise. La vente des immeubles ne relève simplement pas de [traduction] « l’objet de chaque prétendue coentreprise ».
+[29] Le troisième argument de l’intimée veut que MC n’ait aucune attente de profit ou qu’il n’existe pas de « projet à risque ». Je n’y souscris pas. Rien dans la preuve ne donne à penser que MC n’exécutait pas ses obligations contractuelles de manière professionnelle et organisée. Rien dans la preuve ne donne à penser que MC n’avait pas l’intention, que démontre la conclusion des diverses EC, de réaliser des profits grâce à la gestion des contrats de location des immeubles, dans un contexte de coentreprise. Il s’agissait d’un plan visant la réalisation de bénéfices. Les profits n’étaient pas garantis, et MC devait défrayer sa part des dépenses (il en est question à la clause 7 des EC). Le revenu gagné chaque année, moins les dépenses applicables, était imputé à un compte de revenu et non à un compte de capital. Par conséquent, je conclus que MC satisfait à l’exigence pour qu’il y ait coentreprise (formulée en 1959 dans des termes maintenant désuets) selon laquelle MC avait, au cours des périodes pertinentes, une attente de profit ou encore qu’il existait un « projet à risque ». L’intimée n’a pas démontré le contraire.
+[30] Le quatrième argument de l’intimée est que MC ne détenait aucun droit de participation aux profits ou bénéfices. Il s’agit du facteur sur lequel l’intimée se fonde principalement dans sa réponse pour soutenir la thèse relative aux cotisations et nouvelles cotisations selon laquelle MC ne tirait pas de revenus des prétendues coentreprises. Il en est question aux paragraphes 73, 74 et 75 des observations écrites de l’intimée. Au paragraphe 75, l’intimée affirme qu’elle [traduction] « maintient sa thèse selon laquelle les EC ne confèrent pas à [MC] de droit de participation aux profits générés par les immeubles, mais reconnaît aussi qu’il y a lieu d’accorder moins de poids à ce facteur, compte tenu de l’arrêt WCI Waste Conversion v. ADI International Inc. ».
+[31] Je ne conviens pas que MC ne détient aucun droit de participation aux profits aux termes des EC. Plus précisément, comme il a été mentionné ci-dessus, dans chaque cas, les EC conféraient à MC et aux propriétaires concernés le droit de percevoir le pourcentage du RBLAS dont il avait été convenu et qui était précisé expressément dans chaque EC. MC et les propriétaires concernés étaient chacun responsables séparément de leurs propres dépenses. La réponse à l’argument de l’intimée selon lequel MC n’avait pas droit au partage du produit de la vente des immeubles est simple, et c’est ce qui est soutenu en l’espèce et ce qui ressort de chaque EC : la vente des immeubles outrepasse la portée des EC. Il est important de noter que les profits en tant que tels n’étaient pas distribués aux parties, comme ce serait le cas pour des sociétés de personnes, mais les revenus bruts l’étaient, c’est-à-dire le RBLAS.
+[32] L’appelante, MC, a soutenu à titre subsidiaire que, si les EC ne permettent pas de conclure à l’existence d’une coentreprise, les nouvelles cotisations portées en appel devaient néanmoins être annulées au motif que les EC ne prévoient pas la prestation de services de gestion de la part de MC au profit des propriétaires, pas plus qu’elles n’indiquent que les propriétaires lui verseront une quelconque somme. Plus précisément, MC [traduction] « détenait sa part des RBLAS à partir du moment où les locataires lui versaient les loyers » (observations écrites de l’appelante, au paragraphe 60).
+[33] Je ne souscris pas à cette thèse. Si, en l’espèce, je n’avais pas conclu à l’existence d’une structure de coentreprise valide, j’aurais maintenu les nouvelles cotisations portées en appel au motif que MC recevait tout de même une contrepartie, bien que ce soit de manière indirecte, comme il est prévu dans les prétendues EC, en échange de services de gestion immobilière rendus aux propriétaires des immeubles pour lesquels les locataires versaient des loyers.
+[34] J’accueille l’appel et je renvoie les cotisations et nouvelles cotisations au ministre du Revenu national pour nouvel examen et nouvelles cotisations sur le fondement que MC et les propriétaires exerçaient leurs activités ensemble, comme coentrepeneurs, au cours des périodes pertinentes. Pour ce qui est des dépens, j’accueille la demande de MC et je donne aux parties 30 jours à compter de la date du présent jugement pour s’entendre sur les dépens ou, à défaut, pour déposer auprès de la Cour des observations écrites concernant les dépens.
+Signé à Summerville Centre (Nouvelle-Écosse), ce 30e jour de juillet 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 4e jour d’avril 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 157
+No DU DOSSIER DE LA COUR :
+2016-953(GST)G
+INTITULÉ :
+MEDALLION CORPORATION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 février 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 30 juillet 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Neil E. Bass
+Me Angelo Gentile
+Jess Waslowski, stagiaire en droit
+Avocats de l’intimée :
+Me Frédéric Moran
+Me Bhuvana Sankaranarayanan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Neil E. Bass
+Me Angelo Gentile
+Jess Waslowski, stagiaire en droit
+Cabinet :
+Aird & Berlis LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

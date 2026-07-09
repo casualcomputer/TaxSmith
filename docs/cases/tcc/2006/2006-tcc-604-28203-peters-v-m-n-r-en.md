@@ -1,0 +1,156 @@
+---
+title: "Peters v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28203/index.do"
+last_modified: "2006-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 604"
+citation2: ""
+neutral_citation: "2006 TCC 604"
+decision_date: "2006-12-22"
+language: "en"
+item_id: "28203"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1984
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:26:22.624000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "42c8e1ada07bc605d46f02e451f43b1278e9a8cc22e15be493e999e55c76e19d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peters v. M.N.R.
+
+- Citation: 2006 TCC 604
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1984, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peters v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-22
+Neutral citation
+2006 TCC 604
+File numbers
+2006-718(CPP)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-718(CPP)
+BETWEEN:
+HOLWYN PETERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 26, 2006, at Toronto, Ontario.
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed in accordance with the following Reasons for Judgment.
+Signed at Toronto, Ontario, this 21st day of December 2006.
+"W.E. MacLatchy"
+MacLatchy D.J.
+Citation: 2006TCC604
+Date: 20061221
+Docket: 2006-718(CPP)
+BETWEEN:
+HOLWYN PETERS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] The appeal was heard in Toronto, Ontario, on September 26, 2006.
+[2] On July 6, 2004, the Appellant sent a request to the Toronto North Taxation Services Office regarding three different sources of income (wage replacement payment, lump sum payment and various payments from the YMCA).
+[3] On November 15, 2004, Robert Pinsent, CPP/EI Rulings Officer at the Toronto office, advised the Appellant in writing that his request was not received within the required time frame.
+[4] On April 15, 2005, a ministerial enquiry to the Director General, Disability Benefits and Appeals, Income Security Programs, Social Development Canada generated a request to commence the ruling.
+[5] On May 31, 2005, Robert Pinsent, CPP/EI Rulings Officer at the Scarborough Taxation Service Office, determined that the earnings received from the Midland Young Men’s Christian Association (YMCA) during the period of October 14, 1998 to April 13, 1999, were considered as pensionable earnings.
+[6] On May 31, 2005, it was also determined that the Long Term Disability benefits, including the lump sum payments, received from The Mutual Group during the period of May 1994 to May 1998 were not considered as pensionable earnings since the plan was insured through an insurance company and the employer had no control over the plan, as the insurance carrier was acting as an independent third party.
+[7] The Appellant disagreed with the decision concerning the Long Term Disability payments and the lump sum payments and filed an appeal on August 23, 2005.
+[8] The Appellant appealed to the Respondent on the basis that the benefits received from The Mutual Group should be considered as pensionable income and pensionable earnings within the meaning of the Canada Pension Plan (the "Plan").
+[9] By letter dated January 18, 2006, the Respondent informed the Appellant and The Mutual Group that it had been determined that the benefits received by the Appellant were not considered as pensionable income and pensionable earnings and were therefore not subject to Canada Pension Plan contributions pursuant to section 12 and paragraph 6(1)(a) of the Plan.
+[10] The Appellant disagreed with the Minister’s decision and filed an appeal with the Tax Court of Canada on March 6, 2006.
+[11] The assumptions relied on by the Minister of National Revenue (the "Minister") were listed in subparagraphs (a) to (o) of paragraph 13 of the Reply to the Notice of Appeal, all of which subparagraphs were agreed to be correct by the Appellant.
+[12] The issue is whether the benefits received from The Mutual Group are to be considered as pensionable income and pensionable earnings, within the meaning of subsections 6(1) and 12(1) of the Plan.
+[13] The relevant subsections of the Plan referred to above are as follows:
+6.(1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+(b) employment in Canada under Her Majesty in right of Canada that is not excepted employment; or
+(c) employment included in pensionable employment by a regulation made under section 7.
+12.(1) The amount of the contributory salary and wages of a person for a year is the person’s income for the year from pensionable employment, computed in accordance with the Income Tax Act (read without reference to subsection 7(8) of that Act), plus any deductions for the year made in computing that income otherwise than under paragraph 8(1)(c) of that Act, but does not include any such income received by the person. [ … ]
+The meaning of employment is described in subsections 2(1) and 5(1) of the Employment Insurance Act as follows:
+2.(1) In this Act,
+[ … ]
+"employment" means the act of employing or the state of being employed;
+[ … ]
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) employment in Canada as described in paragraph (a) by Her Majesty in right of Canada;
+(c) service in the Canadian Forces or in a police force;
+(d) employment included by regulations made under subsection (4) or (5); and
+(e) employment in Canada of an individual as the sponsor or co-ordinator of an employment benefits project.
+[14] The Appellant was employed by the Simcoe County Board of Education until he became disabled and unable to continue working. The School Board and the Secondary School Teachers Federation had negotiated a benefits package for the teachers on a contributory basis to provide Long Term Disability coverage for teachers unable to work by reason of disability. The disability fund would be administered by The Mutual Group, a third party. The Appellant applied to The Mutual Group for Long Term Disability payments and ultimately received the benefits provided by the Agreement. After a period of time The Mutual Group denied the Appellant any continuation of benefits and gave him notice that his benefits would end. As a result, the Appellant commenced an action against The Mutual Group seeking continuation of the benefits. An out-of-court settlement was reached that provided for a lump sum payment to the Appellant in settlement of the action. The Appellant believed those monies should be considered as employment income and thus be pensionable income.
+[15] The Appellant, very ably, argued his position on many grounds but was unable to convince this Court that the decision of the Minister was incorrect. Employment income must be income payable by an employer for services performed by the employee under a contract of service. In this instance, it is clear that the benefits received by the Appellant were not received as a result of any services performed by him for The Mutual Group and there was no contract, expressed or implied, existing between him and The Mutual Group. (See Gagné v. Canada (Minister of National Revenue – M.N.R.), [1998] F.C.J. No. 1811 (QL) and Guenette v. Canada, [2004] T.C.J. No. 81 (QL))
+[16] The Appellant argued that he was being discriminated against as that was what the Plan was designed to remedy, a person to be compensated when disabled. (See Granovsky v. Canada (Minister of Employment and Immigration), [2000] 1 S.C.R. 703.)
+[17] In Université Laval v. Canada (Minister of National Revenue – M.N.R.), [2002] F.C.J. No. 660 (QL), the Federal Court of Appeal stated:
+18 ... By using the words "by a party other than the employer", this paragraph provides for a distinction between wage loss indemnity payments made by the employer, which would be included in insurable earnings, and wage loss indemnity payments made by an insurer, which would be excluded from insurable earnings, in the same way that a supplement paid by the employer is excluded under that paragraph.
+19 Given that the Regulations themselves distinguish between wage loss indemnity payments made by the employer and those made by a person other than the employer, the employer’s criticism in this case that it would be contrary to the Act to make distinctions between traditional and modern insurance schemes cannot be accepted. The distinction might be artificial in some respects but it is made nonetheless, and I do not see any incongruity in the fact that the Regulations emphasize the existence of an employer‑employee relationship, irrespective of the performance of any services, rather than on the performance of services alone. I would note that it is common ground in this case that the employment relationship between Université Laval and its insured employees continued to exist during sick leave periods.
+20 In a sense, paragraph 2(3)(d) of the Regulations codifies the decisions of this Court. [ … ] see Gagné v. M.N.R. (1998), 247 N.R. 189 (F.C.A.) [ … ]
+21 The issue is therefore whether the payments in this case were made by the employer or by the third party insurer.
+The payments, in this instance, were made by a third-party insurer. The School Board had no control whatsoever over the funds that were paid by The Mutual Group to the Appellant.
+[18] For the reasons above, this Court also finds that the monies received from the out-of-court settlement were not pensionable as they could not be considered to be employment income.
+[19] The appeal is dismissed.
+Signed at Toronto, Ontario, this 21st day of December 2006.
+"W.E. MacLatchy"
+MacLatchy D.J.
+CITATION: 2006TCC604
+COURT FILE NO.: 2006-718(CPP)
+STYLE OF CAUSE: HOLWYN PETERS AND M.N.R.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 26, 2006
+REASONS FOR JUDGMENT BY: The Honourable W.E. MacLatchy, Deputy Judge
+DATE OF JUDGMENT: December 21, 2006.
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

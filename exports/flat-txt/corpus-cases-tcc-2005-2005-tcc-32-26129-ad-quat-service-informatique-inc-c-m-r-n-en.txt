@@ -1,0 +1,147 @@
+Title: Adéquat Service Informatique Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26129/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-32-26129-ad-quat-service-informatique-inc-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2005-01-31
+
+# Adéquat Service Informatique Inc. c. M.R.N.
+
+- Citation: 2005 TCC 32
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4124, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Adéquat Service Informatique Inc. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-31
+Neutral citation
+2005 TCC 32
+File numbers
+2003-2219(EI)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2219(EI)
+BETWEEN:
+ADÉQUAT SERVICE INFORMATIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on December 8, 2004, in Montréal, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Mounes Ayadi
+JUDGMENT
+The appeal is allowed and the Minister's decision is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 31st day of January 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 24th day of February 2005.
+Jacques Deschênes, Translator
+Citation: 2005TCC32
+Date: 20050131
+Docket: 2003-2219(EI)
+BETWEEN:
+ADÉQUAT SERVICE INFORMATIQUE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+ParisJ.
+[1] This is an appeal from an assessment made on March 25, 1999, by the Minister of National Revenue ("the Minister") under the Employment Insurance Act ("the Act") in relation to the year 1996. The issue is whether certain amounts that the appellant paid its employees as a housing allowance during the year 1996 should be included in computing their insurable employment for the purposes of the Act.
+[2] At the relevant time, subsection 3(1) of the Unemployment Insurance (Collection of Premiums) Regulations stipulated:
+3.(1) For the purposes of this Part, a person's earnings from insurable employment means any remuneration, whether wholly or partly pecuniary, received or enjoyed by him, paid to him by his employer in respect of insurable employment except:
+. . .
+(d) any amount excluded as income pursuant to paragraph 6(1)(a) or (b) or subsection 6(6) or (16) of the Income Tax Act.
+3.(1) Aux fins de la présente partie, la rémunération d'une personne provenant d'un emploi assurable correspond a toute rétribution, entièrement ou partiellement en espèces, qu'elle reçoit ou dont elle bénéficie et qui lui est versée par son employeur relativement à cet emploi, à l'exception....
+. . .
+(d) de tout montant qui est exclu du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l'impôt sur le revenu.
+[3] The plaintiff submits that since the housing allowances did not have to be included in computing their income under the Income Tax Act, the allowances did not constitute earnings within the meaning of the Regulations.
+[4] The evidence discloses that the appellant, a Quebec-based corporation, has been operating a computer-related business since 1994 and provides services to foreign customers, primarily in France. For this purpose, the company recruits workers in Canada to work in France. The workers are pre-selected in Quebec and then sent to France on a preliminary basis to meet the customers to whom they are assigned. If the customer accepts the worker, the worker returns to Quebec to sign an employment contract with the appellant. Normally, the appellant hires the workers for a 12-month period, which coincides with the duration of work permits issued by the French authorities.
+[5] A copy of a contract between the appellant and Manon Croteau, dated September 29, 1995, was tendered in evidence. According to the testimony of Michel Teman, the appellant's founder and president, the contract in question was representative of all the contracts the appellant carried out during the period in issue. The contract states the worker's salary and says that she will receive additional remuneration in the form of a monthly housing allowance payable at the same time as her salary. The amount of the housing allowance was determined using two criteria: the worker's civil or family status, and the neighbourhood in which the workplace was located. The payment was 4,000 francs a month for a single person and 5,000 to 6,000 francs for a married worker. The amount could vary depending on the neighbourhood in which the workplace was located. However, Mr. Teman did not provide any specific example of the latter type of variation. The appellant established these amounts based on the average rent of furnished apartments in Parisian neighbourhoods.
+[6] The employment contract also specified that the worker would have to arrive in Paris 15 days before the work began in order to find an apartment. According to Mr. Teman, the appellant wanted to provide housing to its employees, but was unable to do so for legal reasons. To help the workers, the appellant maintained a list of available furnished apartments close to the customers' workplaces, and offered the list to new employees. An administrative team set up by the appellant would verify the rents for the apartments and the terms and conditions of the leases. It appears that the worker could choose one of these apartments but was under no obligation to do so. The appellant required the workers to promise, upon signing the employment contract, that they would use their housing allowance to pay their rent. The workers gave the appellant a solemn undertaking to this effect. Eight of these undertakings were tendered in evidence. If the employment contract was renewed, the appellant would ask for another solemn undertaking at the beginning of the second contract.
+[7] Mr. Teman insisted that if a worker moved or was in a situation where he no longer had to pay rent, the appellant would stop paying the housing allowance. However, he did not say whether the appellant ever did stop paying a housing allowance. He also said that the appellant would have known if a worker had changed apartments while his contract was in effect because employees must provide their new addresses. The appellant would supposedly have known if mail addressed to the worker had been returned to the appellant following an unannounced move by the worker.
+[8] In short, counsel for the appellant submits that the payments are neither a benefit to the worker within the meaning of paragraph 6(1)(a) of the Income Tax Act, nor an allowance within the meaning of paragraph 6(1)(b) of that Act. Consequently, he says that the payments are excluded from income under these provisions and cannot constitute insurable earnings because they are expressly excluded by paragraph 3(1)(d) of the Regulations.
+[9] Before we proceed, it is useful to review the relevant parts of paragraphs 6(1)(a) and (b) of the Income Tax Act:
+Amounts to be included as income from office or employment.
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+Éléments à inclure à titre de revenu tiré d'une charge ou d'un emploi.
+(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+a) Value of benefits - the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit
+...
+(b) Personal or living expenses - all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except*
+...
+a) Valeur des avantages - la valeur de la pension, du logement et autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, à l'exception des avantages suivants* :
+...
+b) Frais personnels ou de subsistance - les sommes qu'il a reçues au cours de l'année à titre d'allocations pour frais personnels ou de subsistance ou à titre d'allocations à toute autre fin, sauf *:
+...
+*(none of the exceptions stipulated in these provisions applies to the instant case)
+[10] It is clear that, for the purposes of the Regulations, all benefits and allowances that an employee receives from an employer, and are not excluded from income by paragraphs 6(1)(a) and (b), constitute insurable earnings.
+[11] I will first consider the question whether the payments in issue constitute an allowance paid to the appellant's workers. In order to be considered an allowance, a payment must meet three conditions. The Federal Court of Appeal described these conditions as follows in MacDonald v. Canada, [1994] F.C.J. No. 378 (QL) at paragraph 14:
+Nonetheless, following Ransom, Pascoe and Gagnon the general principle defining an "allowance" for purposes of paragraph 6(1)(b) is composed of three elements. First, an allowance is an arbitrary amount in that it is a predetermined sum set without specific reference to any actual expense or cost. As I noted above, however, the amount of the allowance may be set through a process of projected or average expenses or costs. Second, paragraph 6(1)(b) encompasses allowances for personal or living expenses, or for any other purpose, so that an allowance will usually be for a specific purpose. Third, an allowance is in the discretion of the recipient in that the recipient need not account for the expenditure of the funds towards an actual expense or cost.
+[12] In the instant case, counsel for the appellant concedes that the payments made by the appellant meet the first two conditions which the Court of Appeal describes and which must be met in order for them to constitute an allowance. However, as to the third condition, counsel submits that the workers were not free to use the amounts as they saw fit. He states that the workers in the instant case were required to use the amounts to pay their rent, and, since they gave their appellant solemn undertakings, they had to account for the use of the money. Consequently, counsel concludes that once the amounts in question were received, the workers did not have the freedom to dispose of them according to their wishes.
+[13] I agree with counsel for the appellant on this point. I find that the appellant made the payment of the housing allowance for workers conditional on its being used solely to pay the rent. By signing the solemn undertaking, the workers accepted this condition and would have been required to account for the expenditure of the funds if the appellant had requested that they do so. In other words, the workers had no choice with regard to the way in which they could spend the money paid to them as a housing allowance.
+[14] I see no reason not to lend credence to Mr. Teman's testimony that the appellant would have ceased to pay the housing allowance to a worker if it had learned that the worker was not using it to pay his rent. I therefore find that the workers were not free to dispose of the payments as they saw fit, and therefore, that the amounts in issue were not an allowance and did not have to be included in income by virtue of paragraph 6(1)(b) of the Income Tax Act.
+[15] It remains for me to decide whether the amounts in question were benefits received by the workers in the performance of their employment under paragraph 6(1)(a) of the Act. In Dionne v. Canada, 97 D.T.C. 265, Judge Archambault reviewed the relevant case law and held that a reimbursement or a payment received from an employer is not a benefit contemplated in paragraph 6(1)(a) of the Act in the reimbursement is actually intended to repair a prejudice suffered by the employee by reason of his employment. Judge Archambault states as follows at 271:
+[TRANSLATION]
+. . . by repairing the harm suffered by the employee, the employer is merely restoring the employee to the situation in which he would have been had he not suffered the harm. If the question whether a reimbursement constitutes a benefit is considered in this light, I believe it is easier to determine the extent to which a reimbursement must be included in a taxpayer's income or, conversely, excluded from it.
+[16] Counsel for the appellant submits that the workers' employment contract with the appellant required them to assume the costs of maintaining two residences: one in Quebec and the other in Paris. He says that a payment by the appellant to defray the additional costs associated with the maintenance of a residence in Paris did not enrich the employees; rather, it merely repaired the prejudice that the workers suffered by reason of their employment.
+[17] Counsel for the respondent submits that the evidence adduced by the appellant is insufficient to enable me to conclude that the workers were required to maintain a residence in Quebec. In addition, he says the payments served to defray rent, a personal expense by nature. Thus, he submits that the payments are a benefit for the workers.
+[18] I am satisfied that French law required the workers to maintain a residence in Quebec in order to be entitled to a work permit for the duration of their stay in France. Mr. Teman's testimony was not contradicted, and the respondent provided no evidence on this point. In fact, in the factual assumptions on which the Minister's assessment is based, the respondent admits that [TRANSLATION] "most of the appellant's employees retained their residence in Canada during their relocation."
+[19] I accept that Mr. Teman is familiar with the legal requirements for obtaining a work permits since the appellant's main activity was to provide Canadian computer workers to French clients. Thus, in order to comply with the Act that governed their presence in French, the workers needed to retain their residence in Quebec.
+[20] The appellant's workers were in France for the appellant's benefit, not for their personal benefit. The appellant needed them to be in France temporarily so that they could work with customers, and the workers incurred additional expenses in order to be there. It seems to me that the instant case is like the following example that Judge Archambault discussed in Dionne (at 271) because the costs associated with the maintenance of a temporary residence in Paris in addition to a residence in Quebec would be a prejudice suffered by the workers, and the housing allowance seeks to remedy this harm:
+[TRANSLATION]
+Before we go on, it must be recognized that an employer's reimbursement of an employee's personal expense should generally be considered a benefit for the purposes of paragraph 6(1)(a) of the Act. The best example remains the "lodging" or "board" referred to in paragraph 6(1)(a). However, this is not necessarily always the case. Consider the example of a Montréal employer that sends its representative to Vancouver for a week to negotiate a contract. Nobody would deny that a reimbursement of hotel and restaurant costs does not constitute a benefit under the paragraph in question. Yet eating and drinking are among an individual's most personal activities. These are clearly personal expenses for an employee. Why does no benefit stem from the reimbursement of such expenses? Simply because the representative is deriving no advantage from the reimbursement. He is in Vancouver for his employer's benefit, not his own. He has housing in Montréal and must continue to assume the cost of that housing. The fact that he is sleeping in a Vancouver hotel adds nothing to his assets and does not improve his situation. As for the restaurant costs, they are not considered a benefit, since the employee does not have access to his own cooking for nourishment. The fact that he can save the cost of the food he would have eaten at home is rather minimal in relation to the restaurant costs, and is ignored for the purposes of paragraph 6(1)(a) of the Act.
+[21] In sum, while the costs associated with an individual's lodging would normally be considered a personal expense, I find that the reimbursement does not constitute a benefit for the workers under the circumstances of this case. The reimbursement of these costs gave them no benefit and did not enrich them. Rather, it merely compensated them for the additional costs incurred by reason of their work.
+[22] For all these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 31st day of January 2005.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 24th day of February 2005.
+Jacques Deschênes, Translator
+CITATION:
+2005TCC32
+COURT FILE NO.:
+2003-2219(EI)
+STYLE OF CAUSE:
+Adéquat Service Informatique Inc. and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+December 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+January 31, 2005
+APPEARANCES:
+For the Appellant:
+Serge Fournier
+For the Respondent
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Serge Fournier
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,97 @@
+Title: Bitar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30080/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-522-30080-bitar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-06
+
+# Bitar c. La Reine
+
+- Citation: 2010 CCI 522
+- Decision date: 2010-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7606, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bitar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-06
+Référence neutre
+2010 TCC 522
+Numéro de dossier
+2007-761(IT)G, 2007-762(GST)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2010 CCI 522
+Date : 20101006
+Dossiers : 2007-761(IT)G
+2007-762(GST)G
+ENTRE :
+FADI BITAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations additionnelles sur les taxes applicables
+aux débours entendues par conférence téléphonique le 7 avril 2010
+Par : L’honorable E.P. Rossiter, juge en chef adjoint
+Participants :
+Avocat de l’appelant : Me Gerard Tompkins, c.r.
+Avocats de l’intimée : Me Peter Leslie et Me Krista Clark
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+[1] En l’espèce, l’intimée a consenti, au milieu du procès, à ce que les appels soient accueillis, et les deux parties se sont exprimées sur la question des dépens. Le 2 décembre 2009, la Cour a rendu une décision sur l’adjudication des dépens, qui a été suivie d’un jugement modifié rendu le 21 janvier 2010, selon lequel [traduction] « les dépens sont adjugés à l’appelant, pour la somme de 20 000 $, plus les taxes applicables et les débours raisonnables, qui incluent les honoraires de professionnels autres que des avocats, les honoraires des témoins experts, les frais de déplacement, les frais de photocopie, les indemnités de présence et autres débours connexes ». À la suite du jugement modifié, l’avocat de l’appelant et les avocats de l’intimée ont eu un différend à propos de ce qui constituait des débours raisonnables pour l’appelant.
+[2] La Cour, après avoir entendu les observations des avocats le 26 février 2010, a rendu l’ordonnance suivante le 11 mars 2010 :
+[traduction] Il est de plus ordonné que les débours en cause comprennent les sommes suivantes relativement aux débours :
+1. Scott D. Campbell Inc. – 31 103 $;
+2. Carolyn MacGregor – 75 $ pour chaque journée ou partie de journée;
+3. Stephen Shaw, C.A. – 678 $;
+4. Droits de dépôt de la Cour canadienne de l’impôt – 800 $;
+5. Drake Recording Services Ltd. – 1 042,20 $;
+6. Autres débours judiciaires – 1 530 $
+À cela s’ajoutent les taxes applicables, s’il y a lieu, et les intérêts sur ces sommes à partir du 2 décembre 2009 jusqu’à la date de paiement, au taux préférentiel de la Banque de Nouvelle-Écosse plus deux pour cent, payables au plus tard le 19 mars 2010.
+[3] Malgré les ordonnances du 21 janvier 2010 et du 11 mars 2010, l’appelant et l’intimée ne sont toujours pas parvenus à s’entendre sur les sommes que l’intimée doit verser à l’appelant pour les dépens. J’ai entendu les avocats une nouvelle fois le 7 avril 2010. À ce moment, l’intimée a soutenu qu’elle n’avait pas à payer la TVH sur les sommes globales adjugées, parce qu’elles ne sont pas visées par la définition du terme « fourniture taxable » et qu’il s’agit d’une somme adjugée par un tribunal, et non du paiement d’honoraires d’avocat, et que les « autres débours judiciaires » de 1 530 $ n’étaient pas assez détaillés pour que la TVH s’applique.
+[4] Selon moi, l’ordonnance rendue par la Cour était claire et précise, mais pour une raison quelconque, l’intimée a refusé de verser la TVH sur les dépens de 20 000 $ adjugés à l’appelant, en plus de la TVH sur le montant de 1 500 $ adjugé à l’appelant à titre de dépens de la taxation. L’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) confère à la Cour le pouvoir de fixer le montant des frais et dépens, de les répartir et de désigner les personnes qui doivent les supporter. Des dépens peuvent être adjugés à la Couronne ou contre elle. En outre, la Cour peut fixer la totalité ou une partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[5] L’intimée soutient que les dépens adjugés à l’appelant étaient une somme globale. Je sais qu’à de nombreuses reprises par le passé, la Cour canadienne de l’impôt a accordé à titre de dépens des sommes globales finales, comprenant toutes les taxes et les autres frais. Dans la décision Hunter v. The Queen, 2003 D.T.C. 51, le juge Bell a adjugé un seul mémoire de frais, d’une somme de 22 000 $, comprenant tous les frais et débours. De la même façon, le juge en chef Bowman, dans la décision Scavuzzo c. La Reine, 2006 CCI 90, a adjugé aux appelants des dépens de 275 000 $, somme qui représentait environ cinquante pour cent du total des dépenses des appelants, y compris la TPS. Aussi, dans la décision Zeller (Succession) c. La Reine, 2009 CCI 135, la juge Campbell a choisi d’adjuger une somme globale de 226 189,51 $, comprenant 44 350 $ pour les services d’avocats selon le tarif B, 2 217,50 $ pour la TPS à payer sur cette somme et 179 622,01 $ en débours. Toutes ces affaires montrent que l’adjudication d’une somme globale peut inclure toutes les taxes et les autres frais. Toutefois, rien n’empêche la Cour d’adjuger une somme et d’exiger également le paiement des taxes sur cette somme. Des dépens sont adjugés à une partie qui a généralement gain de cause dans un litige, afin de lui permettre de récupérer une partie des frais juridiques qu’elle a dû payer dans la procédure, et la TVH doit être ajoutée aux frais juridiques. Le paragraphe 147(4) des Règles de la Cour canadienne de l’impôt (procédure générale) confère à la Cour un important pouvoir discrétionnaire :
+La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+[6] Je ne sais pas comment la Cour pourrait être plus précise dans son adjudication des dépens lorsqu’elle affirme ce qui suit dans son ordonnance du 21 janvier 2010 :
+[traduction] Les dépens sont adjugés à l’appelant, pour la somme de 20 000 $, plus les taxes applicables et les débours raisonnables, qui incluent les honoraires de professionnels autres que des avocats, les honoraires des témoins experts, les frais de déplacement, les frais de photocopie, les indemnités de présence et autres débours connexes.
+[7] Il ne fait aucun doute que cette ordonnance n’outrepasse pas la compétence de la Cour canadienne de l’impôt, et elle est claire, précise et sans équivoque quant à l’intention de la Cour dans son adjudication des dépens en faveur de l’appelant. L’appelant s’est vu adjuger des dépens de 20 000 $ plus les taxes applicables et les débours raisonnables. La Cour n’a pas adjugé des dépens de 20 000 $ comprenant les taxes, pas plus qu’elle n’a adjugé des dépens de 20 000 $ sans mentionner les taxes. La Cour a adjugé des dépens de 20 000 $ plus les taxes applicables. En l’espèce, les dépens n’ont pas été adjugés sous la forme d’une somme globale. Une adjudication précise des dépens a été ordonnée, auxquels s’ajoutent les taxes applicables, et ces dépens ont été adjugés à l’appelant pour payer les honoraires de son avocat.
+[8] Pour la Cour, il est insensé que l’appelant soit privé des dépens relatifs à la TVH sous prétexte, selon l’intimée, que c’est une « somme globale » qui aurait été adjugée, et non pas des dépens calculés selon un tarif, puisque l’ordonnance comportait précisément les termes [traduction] « plus les taxes applicables ». La Cour s’est précisément penchée sur la question des taxes quand elle a rendu son ordonnance initiale. La somme de 20 000 $ qui a été adjugée, en plus des dépens de 1 500 $ adjugés pour la taxation des dépens, concerne les frais juridiques payés par l’appelant pour l’instruction du présent appel. La TVH doit être ajoutée à ces deux sommes, et par conséquent, l’intimée doit payer les sommes adjugées, plus les taxes applicables.
+[9] En ce qui concerne la somme de 1 530 $ adjugée pour les [traduction] « autres débours judiciaires », l’intimée fait valoir que les débours n’étaient pas suffisamment détaillés. Sur ce point, je pense que l’intimée a raison et je ne crois pas qu’il faille payer la TVH sur cette somme, malgré le libellé de l’ordonnance comportant les termes [traduction] « plus les taxes applicables », parce que les taxes ne sont pas applicables, à moins que les dépenses visées dans l’adjudication des dépens ne soient détaillées, et ces débours n’ont pas été détaillés. C’est conforme au paragraphe 157(4) des Règles, qui permet que les taxes de vente soient incluses dans les dépens adjugés par la Cour, s’il est établi que « les taxes ont été payées ». En l’espèce, la somme de 1 530 $ a été demandée par l’appelant dans ses observations, sans qu’il en fasse le détail. Il n’a pas été établi que des taxes de vente ont été payées ou sont payables. La somme pourrait viser des honoraires ou des frais qui ne sont pas taxables ou qui sont taxés en fonction de la somme finale.
+[10] Après examen des observations de l’appelant et de l’intimée, la Cour conclut, pour les motifs exposés, que les taxes sont à payer sur les sommes de 20 000 $ et de 1 500 $ et que la TVH n’a pas à être payée sur les débours de 1 530 $ tant que d’autres détails n’auront pas été fournis relativement à leur nature, parce que l’appelant doit établir si des taxes ont été payées ou sont payables relativement à ces débours.
+Signé à Ottawa, Canada, ce 6e jour d’octobre 2010.
+« E.P. Rossiter »
+Le juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 10e jour de janvier 2019.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE : 2010 CCI 522
+NO DES DOSSIERS DE LA COUR : 2007-761(IT)G et 2007-762(GST)G
+INTITULÉ : FADI BITAR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 7 avril 2010
+MOTIFS DE L’ORDONNANCE : Le juge en chef adjoint E.P. Rossiter
+DATE DES MOTIFS DE L’ORDONNANCE : Le 6 octobre 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gerard M. Tompkins, c.r.
+Avocats de l’intimée :
+Me Peter Leslie et Me Krista Clark
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Gerard M. Tompkins, c.r.
+Cabinet : Patterson Law
+Halifax (Nouvelle-Écosse)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

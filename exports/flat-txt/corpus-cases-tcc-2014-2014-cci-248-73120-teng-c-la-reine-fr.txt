@@ -1,0 +1,133 @@
+Title: Teng c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/73120/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-248-73120-teng-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-08-12
+
+# Teng c. La Reine
+
+- Citation: 2014 CCI 248
+- Decision date: 2014-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5203, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Teng c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-08-12
+Référence neutre
+2014 CCI 248
+Numéro de dossier
+2005-1135(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005‑1135(IT)G
+ENTRE :
+TIE TENG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel inscrit pour audition le 9 juillet 2014, à Toronto (Ontario).
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocat de l'appelant :
+Me George Alatopulos
+Avocate de l'intimée :
+Me Sharon Lee
+JUGEMENT
+Attendu que les services de l'avocat de l'appelant ont été retenus seulement pour demander l'ajournement du présent appel et que la demande d'ajournement est refusée;
+Attendu que personne n'a comparu pour le compte de l'appelant lorsque l'appel devait être entendu, bien que l'appelant ait été dûment avisé de la date, de l'heure et du lieu de l'audience au moyen d'un avis qui lui a été envoyé à sa dernière adresse connue et qui n'est pas revenu;
+Attendu que personne n'a comparu en son nom;
+Vu la requête présentée par l'avocate de l'intimée en vue d'obtenir le rejet de l'appel pour défaut de poursuite;
+La requête est accueillie et l'appel est rejeté conformément à l'article 18.21 de la Loi sur la Cour canadienne de l'impôt.
+Des dépens de 9 943,43 $ sont adjugés à l'intimée.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour d'août 2014.
+V. A. Miller
+La juge V. A. Miller
+Traduction certifiée conforme
+ce 20e jour de novembre 2014.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 248
+Date : 20140812
+Dossier : 2005‑1135(IT)G
+ENTRE :
+TIE TENG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V. A. Miller
+[1] L'appel vise à déterminer si le ministre du Revenu national (le « ministre ») a établi à juste titre une nouvelle cotisation à l'égard de l'appelant en incluant les sommes de 124 441 $ et de 233 161 $ dans son revenu pour les années d'imposition 1999 et 2000 respectivement. Le ministre a établi la cotisation après l'expiration du délai de prescription et a imposé des pénalités pour faute lourde.
+[2] L'intimée a présenté une requête pour demander le rejet de l'appel en vertu des articles 64 et 140 des Règles de la Cour canadienne de l'impôt (procédure générale) (« les Règles ») au motif que l'appelant n'a pas poursuivi l'appel avec promptitude et qu'il ne s'est pas présenté à l'audience. Pour appuyer sa requête, l'avocate de l'intimée a invoqué la déclaration sous serment de Carla Riley Green, assistante juridique des Services du droit fiscal du ministère de la Justice à Toronto (Ontario).
+[3] Les présents motifs sont fondés sur des faits tirés des dossiers de la Cour et de la déclaration sous serment déposée avec la requête. L'historique du présent appel est long. Comme l'historique ci‑après le démontre, l'appelant a obtenu de nombreuses prolongations de délai pour lui permettre de faire connaître à la Cour l'état de son appel et sa capacité de poursuivre ou non l'appel. La Cour s'est efforcée d'être conciliante en raison de la situation dans laquelle se trouvait l'appelant. Chaque fois, l'appelant a refusé de poursuivre l'appel.
+[4] L'appelant a interjeté appel le 11 avril 2005. Quand la Cour a avisé par écrit les parties le 19 octobre 2005 qu'une audience sur l'état de l'instance devrait avoir lieu ou que les parties devraient déposer un échéancier acceptable pour les deux parties, la Cour a été informée que l'appelant n'était plus au Canada. Il était en Chine et ne pouvait obtenir un visa pour entrer de nouveau au Canada après que la Commission de l'immigration et du statut de réfugié (Section d'appel de l'immigration) eut pris une mesure de renvoi à son endroit.
+[5] Le 8 décembre 2005, l'appelant a retenu les services d'un avocat à Toronto pour le représenter dans l'appel et s'est vu accorder une prolongation de délai pour s'organiser afin que l'appel puisse être entendu aussi rapidement que possible. Les parties devaient présenter un échéancier au plus tard le 16 janvier 2006.
+[6] Les parties n'ont pas transmis d'échéancier à la Cour. De plus, l'avocat de l'appelant a demandé dans une lettre du 24 janvier 2006 qu'une date d'audience sur l'état de l'instance ne soit pas fixée, puisqu'il avait l'intention de demander une suspension de l'appel.
+[7] La Cour a examiné la demande de l'appelant et la correspondance provenant de l'intimée et a ordonné qu'une audience sur l'état de l'instance se tienne par conférence téléphonique après le 1er mai 2006. L'audience a par la suite été fixée au 8 juin 2006.
+[8] L'avocat de l'appelant a informé la Cour que son client s'était à nouveau vu refuser un visa de résident temporaire pour entrer au Canada. Le 8 juin 2006, l'audience sur l'état de l'instance a été ajournée en tenant pour acquis que l'appelant fournirait un rapport sur l'état de l'instance au plus tard le 23 juin 2006. Le 12 juillet 2006, l'avocat de l'appelant a fait savoir qu'il interjetait appel au nom de son client d'une décision de l'ambassade canadienne à Beijing. Le présent appel a été mis en suspens pendant que l'appelant tentait d'obtenir un visa de visiteur au Canada. La Cour a demandé à l'avocat de l'appelant de présenter un autre rapport sur l'état de l'instance au plus tard le 31 octobre 2006.
+[9] Dans une lettre du 31 octobre 2006, l'avocat de l'appelant a informé la Cour qu'il comptait présenter une demande d'autorisation de contrôle judiciaire à la Cour fédérale. Le 29 novembre 2006, l'avocat a fait savoir par écrit à la Cour que son client avait présenté une demande de visa de visiteur au Canada le 8 novembre 2006. La Cour a demandé à l'appelant de fournir un autre rapport sur l'état de l'instance au plus tard le 29 décembre 2006. Dans une lettre du 24 janvier 2007, l'avocat de l'appelant a déposé une copie de la demande d'autorisation de contrôle judiciaire à la Cour fédérale relativement au refus d'un agent d'immigration de délivrer un visa de résident temporaire à l'appelant.
+[10] L'appelant n'a pas informé la Cour du résultat de sa demande à la Cour fédérale. Le coordonnateur des audiences a donc effectué des recherches et a confirmé que la demande d'autorisation de l'appelant avait été rejetée par la Cour fédérale le 28 mars 2007.
+[11] La Cour a demandé à deux reprises à l'avocat de l'appelant de soumettre un nouveau rapport sur l'état de l'instance. L'avocat a fait fi de ces deux demandes, et aucun rapport n'a été présenté à la Cour. La Cour a fixé le 20 septembre 2007 comme date d'une audience sur l'état de l'instance dans cette affaire. L'audience a eu lieu, et les parties ont finalement établi un échéancier selon lequel elles s'engageaient à compléter les étapes nécessaires pour que l'appel puisse être entendu. Les parties devaient communiquer avec le coordonnateur des audiences au plus tard le 30 avril 2008 relativement à l'état de l'instance. Rien n'en a été fait. La Cour a donc ordonné une audience de justification.
+[12] Aux termes d'une ordonnance du 7 mai 2008, les parties devaient comparaître devant un juge de la Cour pour expliquer pourquoi l'appel ne devrait pas être rejeté pour cause de retard. Le 10 juin 2008, à l'audience de justification, le juge a à nouveau fixé des dates pour que les parties procèdent à leurs interrogatoires préalables. Les parties devaient communiquer avec la Cour au plus tard le 28 novembre 2008.
+[13] Dans une lettre du 21 novembre 2008, l'avocate de l'intimée a demandé la tenue d'une conférence préparatoire à l'audience pour la présente affaire. La Cour a tenté de communiquer avec l'avocat de l'appelant par courriel, par courrier et par téléphone, sans succès. Enfin, le 16 janvier 2009, la Cour est parvenue à joindre l'avocat de l'appelant et a fixé au 20 janvier 2009 la tenue d'une conférence sur la gestion de l'instance par conférence téléphonique.
+[14] À la conférence de gestion de l'instance, les parties ont confirmé que le dossier était prêt pour l'instruction. À ce moment, l'appelant a aussi confirmé que ses demandes de visa pour le Canada ne visaient pas seulement son entrée au Canada pour les besoins de l'instance.
+[15] Le 7 mai 2009, l'avocat de l'appelant a informé la Cour qu'il n'avait pas réussi à obtenir des instructions et un financement adéquat de la part de l'appelant. Le 15 juillet 2009, l'appelant a informé la Cour qu'il n'avait plus d'avocat, et le 24 septembre 2009, l'avocat de l'appelant a déposé un avis de son intention de cesser d'occuper.
+[16] Bien que l'appelant ait écrit à la Cour, il a omis de faire connaître son adresse en Chine à l'intimée.
+[17] L'intimée a présenté une requête en vue d'obtenir une ordonnance enjoignant à l'appelant de consigner une garantie de frais de 13 005,04 $ conformément à l'article 166.1 des Règles. L'ordonnance a été accordée le 2 août 2011, et l'appelant a versé la somme demandée à la Cour.
+[18] Le 1er mars 2012, la Cour a ordonné que l'appel soit entendu par visioconférence. Les parties devaient fournir les dates auxquelles elles étaient disponibles en juillet, en août et en septembre 2012. L'appelant s'est opposé à ce que son appel soit entendu par visioconférence au motif qu'il craignait de ne pas bénéficier d'un procès équitable s'il ne pouvait entrer au Canada pour se préparer à l'audience. Il a demandé à la Cour d'intervenir auprès de l'Immigration ou des Affaires étrangères pour l'aider à obtenir un visa. L'intimée pour sa part acceptait que l'appel soit entendu par visioconférence et a fourni les dates auxquelles elle était disponible.
+[19] La Cour a pris en compte la situation de l'appelant et l'a informé qu'elle s'efforcerait de tenir compte du lieu où il se trouvait, mais qu'elle ne pouvait pas l'aider à obtenir un visa pour entrer au Canada. Dans une lettre du 2 août 2012, la Cour a encore une fois ordonné que l'appel soit entendu par visioconférence et a demandé les dates auxquelles les parties étaient disponibles en novembre et en décembre 2012 et en janvier 2013. L'appelant a informé la Cour qu'il avait écrit au premier ministre pour recevoir de l'aide pour obtenir un visa et qu'il demandait à ce que l'appel ne soit pas entendu jusqu'à ce qu'il ait obtenu une réponse du premier ministre. La Cour a accepté de ne pas fixer la date de l'appel avant le 30 juin 2013.
+[20] Ni la Cour ni l'intimée n'ont reçu de nouvelles de l'appelant, et la date d'audience de l'appel a été fixée, le 30 octobre 2013, au 9 juillet 2014 à Toronto (Ontario).
+[21] Le 8 mai 2014, la Cour a reçu une lettre de l'appelant lui demandant d'ajourner l'appel parce qu'il avait subi une intervention chirurgicale seulement deux semaines auparavant. Il demandait si l'audition de l'appel pouvait être reportée. L'intimée s'est opposée à la demande d'ajournement. Cependant, la Cour a informé l'appelant dans une lettre du 14 mai 2014 qu'il fallait une lettre d'un médecin ou un certificat médical pour obtenir un ajournement pour raisons médicales. La Cour a demandé à l'appelant de fournir l'un ou l'autre de ces documents. L'appelant n'a pas envoyé de documents. Il n'a même pas répondu à la lettre de la Cour. Sa demande d'ajournement a été rejetée.
+[22] À un moment entre le 14 mai 2014 et le 7 juillet 2014, l'appelant a retenu les services d'un avocat à seule fin de demander l'ajournement de l'appel. Le 7 juillet 2014, un avis de demande d'ordonnance en ajournement de la date d'audience a été déposé à la Cour. Le 8 juillet 2014, l'appelant et Me George Alatopulos, l'avocat de l'appelant pour la demande, ont été informés que le juge en chef adjoint Rossiter avait rejeté la demande d'ajournement. Me Alatopulos a comparu devant la Cour le 9 juillet 2014 et a expliqué clairement que ses services avaient été retenus par l'appelant à seule fin de présenter la demande d'ajournement. J'ai confirmé que l'ajournement ne serait pas accordé.
+[23] Les documents accompagnant la demande d'ajournement divulguaient que l'appelant vivait au Royaume‑Uni depuis au moins le 14 septembre 2010. Selon son certificat de mariage, il avait épousé Ping Wang, citoyenne britannique, à Oxford, en Angleterre, à cette date. La profession déclarée dans les documents était concessionnaire d'automobiles. Les documents joints à la demande d'ajournement incluaient une lettre des services des visas et de l'immigration du Royaume‑Uni indiquant que le 15 juin 2014, l'appelant avait présenté une demande de naturalisation au Royaume‑Uni.
+[24] À aucun moment avant la demande d'ajournement l'appelant n'avait informé la Cour qu'il ne vivait plus en Chine et qu'il avait déménagé au Royaume‑Uni.
+[25] Après analyse du dossier, il m'apparaît que l'appelant souhaitait davantage obtenir un visa pour entrer au Canada que poursuivre l'appel. L'appelant a eu de nombreuses occasions de poursuivre son appel, mais il a plutôt choisi d'insister pour que la Cour l'aide à obtenir un visa pour entrer au Canada. L'appel est rejeté pour défaut de poursuite.
+Dépens
+[26] L'intimée a demandé des dépens de 11 693,43 $. Je suis d'avis qu'elle a droit aux dépens parce que les retards causés par l'appelant dans cette instance sont excessifs et qu'ils ont entraîné des coûts pour l'intimée. L'appelant n'a pas poursuivi son appel malgré toutes les mesures d'accommodement qui ont été prises pour lui sur une période de neuf ans. L'intimée a droit à ses débours de 4 218,43 $ et à des dépens de 5 725 $ pour les services d'avocat, pour un total de 9 943,43 $.
+Signé à Halifax (Nouvelle‑Écosse), ce 12e jour d'août 2014.
+V. A. Miller
+La juge V. A. Miller
+Traduction certifiée conforme
+ce 20e jour de novembre 2014.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2014 CCI 248
+No DU DOSSIER DE LA COUR :
+2005‑1135(IT)G
+INTITULÉ :
+TIE TENG c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 9 juillet 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 12 août 2014
+COMPARUTIONS :
+Avocat de l'appelant :
+Me George Alatopulos
+Avocate de l'intimée :
+Me Sharon Lee
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+George Alatopulos
+Cabinet :
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

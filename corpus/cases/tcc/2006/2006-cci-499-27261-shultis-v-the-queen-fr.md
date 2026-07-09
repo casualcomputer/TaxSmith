@@ -1,0 +1,216 @@
+---
+title: "Shultis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27261/index.do"
+last_modified: "2006-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 499"
+citation2: ""
+neutral_citation: "2006 CCI 499"
+decision_date: "2006-09-11"
+language: "fr"
+item_id: "27261"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 802
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:46:02.710000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7758183cd5099369e03fd0f2a7d569b069a6d54de1a8a389185f5316098116fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shultis v. The Queen
+
+- Citation: 2006 CCI 499
+- Decision date: 2006-09-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 802, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shultis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-11
+Référence neutre
+2006 CCI 499
+Numéro de dossier
+2004-2695(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-2695(IT)I
+ENTRE :
+KENNETH SHULTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er septembre 2006 à Calgary (Alberta)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocat de l’intimée :
+Me Tyler Lord
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 11e jour de septembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 1er jour de mai 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI499
+Date : 20060911
+Dossier : 2004-2695(IT)I
+ENTRE :
+KENNETH SHULTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel régi par la procédure informelle a été instruit à Calgary, en Alberta, le 1er septembre 2006. La belle‑fille de l’appelant, Barbara Brignall, et le médecin généraliste Dr Fred Moriarty ont témoigné pour le compte de l’appelant. Christopher Waldmann, un dirigeant de la société qui est propriétaire de la maison de retraite Renoir (ci‑après « Renoir »), a témoigné pour le compte de l’intimée.
+[2] Les points litigieux, en l’espèce, sont décrits aux paragraphes 11 à 13 de la réponse à l’avis d’appel. Ceux‑ci sont ainsi rédigés :
+[traduction]
+11. En établissant cette nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2002 et en la ratifiant, le ministre s’est fondé sur les faits suivants :
+a) l’appelant a déduit des frais médicaux de 65 837,88 $, comprenant les montants suivants :
+Frais dentaires
+1 783,35 $
+Médicaments délivrés sur ordonnance
+1 205,88
+Airgas Canada (oxygène)
+338,80
+Remington Laser
+673,85
+Renoir
+61 836,00
+Total des frais médicaux
+65 837,88 $
+b) il a été permis à l’appelant de déduire les frais médicaux suivants :
+Frais dentaires
+1 783,35 $
+Médicaments délivrés sur ordonnance
+1 205,88
+Airgas Canada (oxygène)
+338,80
+Remington Laser
+673,85
+Renoir
+10 000,00
+Total des frais médicaux
+14 001,88 $
+c) dans le Certificat pour le crédit d’impôt pour personnes handicapées signé le 3 septembre 2003 par le Dr Moriarty (le « T2201 »), le médecin a indiqué que :
+(i) même avec l’aide d’un appareil, l’appelant est toujours ou presque toujours incapable de parcourir 50 mètres à pied sur un terrain plat sans y consacrer un temps excessif;
+(ii) l’appelant a de la difficulté à marcher, même avec une canne;
+(iii) l’appelant a reçu un diagnostic de coronaropathie, ainsi que de fatigue et d’arthrite;
+d) l’appelant a le droit de demander un crédit d’impôt pour personnes handicapées (le « CIPH ») relativement à l’activité courante de la vie quotidienne consistant à marcher;
+e) l’appelant ne reçoit pas de traitements thérapeutiques qui sont essentiels au maintien d’une de ses fonctions vitales;
+f) au cours de l’année d’imposition 2002, l’appelant et Jean Shultis (l’« épouse ») étaient respectivement âgés de 87 et de 85 ans;
+g) l’appelant et son épouse sont des résidents de Renoir depuis le 1er décembre 2001;
+h) l’appelant et son épouse résident dans le logement no 313;
+i) au cours de l’année 2003, le loyer mensuel de l’appelant et de son épouse était de 4 993 $;
+j) les coûts des soins suivants étaient inclus dans le loyer mensuel :
+Préparation et service des repas (le coût de la nourriture n’était pas inclus)
+445 $
+Surveillance des heures des repas, régimes spéciaux, supervision
+75 $
+Services d’entretien ménager
+70 $
+Services de buanderie pour les serviettes et le linge de maison
+70 $
+Transport pour les rendez‑vous médicaux, traitements, physiothérapie, etc.
+50 $
+Supervision par des infirmiers 24 heures par jour en cas d’urgence, surveillance de la pression artérielle, évaluation continue du résident, etc.
+185 $
+Total des coûts des soins
+895 $
+k) pour l’année d’imposition 2002, le total des frais de logement de l’appelant et de son épouse à Renoir était de 61 836 $ (la « somme »);
+l) l’appelant ne résidait pas dans une maison de santé ou de repos fournissant des soins à plein temps;
+m) Renoir est une maison de retraite qui offre des locaux résidentiels, des services de soins et des repas;
+n) l’appelant reçoit des soins infirmiers généraux à Renoir;
+o) l’appelant n’a pas d’handicap physique ou mental qui fait en sorte qu’il ait besoin d’équipement, d’installations ou de personnel spécialisés;
+p) Renoir ne fournit pas d’équipement, d’installations ou de personnel spécialisés pour répondre aux besoins des résidents souffrant d’un handicap physique ou mental;
+q) les services de soins payés par l’appelant comprennent ce qui suit :
+(i) dispositif d’intervention d’urgence personnel et portable;
+(ii) médicaments et leur administration;
+(iii) services d’un coordonnateur des soins aux résidents sur place;
+(iv) au moins un infirmier autorisé ou un infirmier auxiliaire autorisé était de service en tout temps pour intervenir en cas d’urgence;
+r) les frais des soins de préposé suivants sont déductibles en tant que frais médicaux jusqu’à concurrence de 10 000 $ pour l’année :
+(i) soins de santé;
+(ii) préparation des repas;
+(iii) entretien ménager dans le lieu de séjour personnel du résident;
+(iv) services de buanderie pour les articles personnels du résident;
+(v) chauffeur pour le transport;
+(vi) sécurité dans les unités sécurisées.
+B. POINTS EN LITIGE
+12. Le litige porte sur la question de savoir si l’appelant était :
+a) en droit de déduire la somme payée à Renoir en tant que frais médicaux en vertu de l’article 118.2 de la Loi,
+b) en droit de déduire au plus 10 000 $ de cette somme en vertu de l’article 118.2 de la Loi ainsi que le CIPH de 6 180 $ en vertu de l’article 118.3 de la Loi,
+dans le calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2002.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+13. Il se fonde sur les articles 118.2 et 118.3 de la Loi, modifiée pour l’année d’imposition 2002.
+[3] Aucune des hypothèses n’a été réfutée par la preuve.
+[4] Il s’agit de savoir si l’appelant a engagé des frais médicaux aux termes de l’alinéa 118.2(2)e) de la Loi de l’impôt sur le revenu pour obtenir des soins dans une institution ou un autre endroit du fait qu’il avait besoin d’installations ou de personnel spécialisés fournis par Renoir en raison du handicap dont il souffrait. La disposition en question est ainsi libellée :
+[…]
+118.2(2) Frais médicaux
+(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+e) pour le soin dans une école, une institution ou un autre endroit − ou le soin et la formation − du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qu’une personne habilitée à cette fin atteste être quelqu’un qui, en raison d’un handicap physique ou mental, a besoin d’équipement, d’installations ou de personnel spécialisés fournis par cette école ou institution ou à cet autre endroit pour le soin − ou le soin et la formation − de particuliers ayant un handicap semblable au sien;
+[…]
+[5] Tous les témoins ont dit que Renoir était une maison de retraire. Deux maisons de Calgary qui sont exploitées par la société de M. Waldmann, Registered Retirement Group, comprennent une « unité sécurisée » réservée aux patients souffrant de démence, qui consiste en une aire de chambres dans lesquelles les patients sont enfermés et dont ils ne peuvent pas s’éloigner, de sorte qu’ils sont constamment supervisés par le personnel. Renoir n’a pas une telle aire, et M. Shultis n’est pas confiné à un tel endroit.
+[6] Cette situation a été possible en 2002 entre autres parce que même si M. et Mme Shultis étaient tous deux handicapés, ils étaient capables de s’entraider s’ils recevaient des repas et les services médicaux minimaux offerts à Renoir, où un infirmier auxiliaire autorisé est de service pour s’occuper des résidents.
+[7] De l’avis de la Cour, l’appelant n’a pas besoin, en raison de son handicap, d’installations ou de personnel spécialisés, lesquels ne lui ont pas non plus été fournis par Renoir en 2002. Aucuns services n’ont été spécialement conçus pour les soins destinés à l’appelant ou aux résidents comme lui. Il en était ainsi, en partie, parce que l’épouse de l’appelant était toujours en mesure de l’aider et, en partie, parce qu’on avait commencé à fournir les médicaments de l’appelant dans des plaquettes alvéolaires.
+[8] Si l’appelant avait eu besoin des soins fournis dans l’« unité sécurisée », laquelle est décrite au paragraphe [5], ma décision, en l’espèce, aurait peut‑être été différente. Mais, ce n’était pas le cas en 2002.
+[9] Pour ce motif, l’appel est rejeté.
+Signé à Toronto (Ontario), ce 11e jour de septembre 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 1er jour de mai 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI499
+Nº DU DOSSIER DE LA COUR : 2004-2695(IT)I
+INTITULÉ : Kenneth Shultis et La Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 1er septembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 11 septembre 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocat de l’intimée :
+Me Tyler Lord
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Matthew Clark
+Cabinet : Shea Nerland Calnan
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

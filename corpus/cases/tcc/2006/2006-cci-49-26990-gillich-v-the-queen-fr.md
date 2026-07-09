@@ -1,0 +1,143 @@
+---
+title: "Gillich v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26990/index.do"
+last_modified: "2006-01-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 49"
+citation2: ""
+neutral_citation: "2006 CCI 49"
+decision_date: "2006-01-23"
+language: "fr"
+item_id: "26990"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 549
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:57:24.468000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c9e940f37427c5460e6f7584bd9e81b8f1d2c87f646fa0d672e3abeff303f08"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gillich v. The Queen
+
+- Citation: 2006 CCI 49
+- Decision date: 2006-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 549, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gillich v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-23
+Référence neutre
+2006 CCI 49
+Numéro de dossier
+2005-1727(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1727(IT)I
+ENTRE :
+AL H. GILLICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 janvier 2006 à Ottawa (Ontario).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Geneviève Léveillé
+____________________________________________________________________
+JUGEMENT L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 19e jour d'avril 2006.
+Aleksandra Koziorowska
+Référence : 2006CCI49
+Date : 20060123
+Dossier : 2005-1727(IT)I
+ENTRE :
+AL H. GILLICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] La seule question en litige est de savoir si le programme de deux ans menant à l'obtention du grade d'associé conféré à la fille de l'appelant par le Cottey College, situé au Missouri, É.-U., donne droit au crédit d'impôt pour frais de scolarité prévu à l'alinéa 118.5(1)b) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[2] L'alinéa 118.5(1)b) de la Loi précise que pour avoir droit à ce crédit le particulier (la fille de l'appelant en l'espèce) doit, au cours de l'année, avoir fréquenté comme étudiant à plein temps une université située à l'étranger, où il a suivi des cours conduisant à un diplôme.
+[3] En l'espèce, l'appelant a admis que le Cottey College était un collège préuniversitaire.
+[4] L'appelant a renvoyé à quelques définitions du mot « université » tirées de dictionnaires. Le Concise Oxford Dictionary, 7e édition, définit une université comme étant un établissement d'enseignement chargé de l'éducation de niveau supérieur, qui confère des diplômes de plusieurs facultés et qui est souvent constitué par des collèges.
+[5] Le Oxford English Dictionary Online définit le mot « université » ( « university » ) de la façon suivante :
+[traduction]
+université, subst. fém.
+I. 1. a. Le corps professoral et l'ensemble des érudits qui, à un endroit donné, donnent et reçoivent de l'éducation de niveau supérieur; ces personnes constituées en société ou en personne morale, dotée d'une hiérarchie définie ainsi que de pouvoirs et de privilèges reconnus (surtout celui de conférer des diplômes), et formant un établissement qui a pour but de promouvoir l'éducation de niveau supérieur; comprend également les collèges, facultés, etc. qui appartiennent à une telle entité.
+[6] La jurisprudence fait une distinction entre une université et tout autre établissement d'enseignement. Une université a le pouvoir de conférer des titres ou des diplômes tels que des baccalauréats, des maîtrises et des doctorats, qui attestent que les titulaires ont atteint un niveau de compétence déterminé (voir Rogutski c. Canada, [1999] A.C.I. n º 371 (QL), [1999] 3 C.T.C. 2679, un jugement qui renvoyait, au paragraphe 4, aux décisions Li v. M.N.R., 78 D.T.C. 1758 (C.R.I.); Sweeney v. M.N.R., 78 D.T.C. 1885 (C.R.I.); et Re City of London and Ursuline Religious of the Diocese of London, [1964] 1 O.R. 587 (Cour d'appel de l'Ontario)).
+[7] En l'espèce, le Cottey College est reconnu comme étant un établissement qui offre des programmes collégiaux de deux ans. Il est accrédité par un organisme accréditif aux États-Unis. Il offre des cours qui mènent à l'obtention d'un grade d'associé et il prépare les étudiants à poursuivre leur éducation dans un établissement d'enseignement de leur choix, où ils peuvent obtenir leur baccalauréat (voir la page 4 de la brochure 2004-2006 du Cottey College, déposée sous la cote A-2). Plus précisément, il est énoncé, à la page 8 de la brochure, que le but ultime du Cottey College est d'aider chaque étudiant à progresser en lui offrant une formation scolaire qui lui permet d'obtenir le diplôme du Cottey College et de poursuivre ses études dans un établissement qui confère des baccalauréats.
+[8] Le Cottey College se décrit comme étant un établissement de transition. À la page 11 de la brochure, on trouve le passage qui suit :
+[traduction]
+Les étudiants qui entreprennent leurs études de premier cycle au Cottey College aspirent à terminer leurs études dans un établissement qui décerne des baccalauréats, et toute la communauté de Cottey les appuie dans la poursuite de cet objectif. Les programmes offerts par le Cottey College visent donc non seulement à permettre aux étudiants de développer leurs aptitudes, mais aussi à les aider à choisir l'établissement d'enseignement où ils poursuivront leurs études.
+[9] De plus, l'avocate de l'intimée a renvoyé à une définition de « grade d'associé » ( « associate degree » ) contenue dans TERMIUM Plus (La base de données terminologiques et linguistiques du gouvernement du Canada, Bureau de la traduction, Travaux publics et Services gouvernementaux Canada), qui est ainsi rédigée :
+[traduction]
+Un titre de compétence généralement obtenu au terme d'un programme de deux ans dans un collège préuniversitaire ou dans un institut de technologie, mais qui peut aussi être conféré par certains établissements offrant des programmes de quatre ans; il peut s'agir d'un grade final ou préliminaire. Renvoie au grade d'associé en arts, d'associé en sciences et autres (ce système s'applique aux États-Unis et aux pays qui l'empruntent).
+[10] Selon certaines définitions trouvées sur Internet, un collège préuniversitaire offre des programmes d'études supérieures de deux ans qui permettent d'accumuler des crédits aux fins d'un baccalauréat.
+[11] Finalement, le bulletin d'interprétation n º IT-516R2 énonce, au numéro 5, qu'un établissement situé dans un autre pays que le Canada est réputé être admissible en vertu de l'alinéa 118.5(1)b) s'il est reconnu par un organisme d'accréditation comme un établissement offrant des cours menant au moins à l'obtention d'un baccalauréat ou d'un diplôme de niveau équivalent.
+[12] En l'espèce, le grade d'associé conféré à la fille de l'appelant n'est pas un baccalauréat. Sur la foi de ce grade, on lui a accordé des crédits qui étaient équivalents à une année de son programme de baccalauréat à l'Université Carleton. Le grade d'associé qu'elle a reçu du Cottey College est un premier pas vers l'obtention d'un baccalauréat dans un autre établissement d'enseignement. Le Cottey College ne fait pas partie d'un d'établissements d'enseignements de ce type.
+[13] Je conclus donc que le Cottey College n'est pas un établissement ayant le pouvoir de décerner des diplômes au sens donné à cette expression dans la jurisprudence. Il ne s'agit pas non plus d'une université selon la définition littérale du terme qu'on retrouve dans les dictionnaires. Le Cottey College n'est donc pas une université au sens de l'alinéa 118.5(1)b) de la Loi.
+[14] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 19e jour d'avril 2006.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2006CCI49
+N º DU DOSSIER DE LA COUR : 2005-1727(IT)I
+INTITULÉ : AL H. GILLICH c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 11 janvier 2006
+MOTIFS DU JUGEMENT : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 23 janvier 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Geneviève Léveillé
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

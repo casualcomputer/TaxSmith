@@ -1,0 +1,160 @@
+---
+title: "Deslauriers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29781/index.do"
+last_modified: "2010-05-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 213"
+citation2: ""
+neutral_citation: "2010 TCC 213"
+decision_date: "2010-05-03"
+language: "en"
+item_id: "29781"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6558
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:24:38.537000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5adbd332812723a1a5ccb9a08e126e0e0c232f2ca5e6717d042d920266816265"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deslauriers v. The Queen
+
+- Citation: 2010 TCC 213
+- Decision date: 2010-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6558, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deslauriers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-03
+Neutral citation
+2010 TCC 213
+File numbers
+2009-2836(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2836(IT)I
+BETWEEN:
+ROBERT DESLAURIERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 11, 2010, at Sherbrooke, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Desgens
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed without costs, and the reassessment is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 18th day of November 2010
+François Brunet, Revisor
+Citation: 2010 TCC 213
+Date: 20100503
+Docket: 2009-2836(IT)I
+BETWEEN:
+ROBERT DESLAURIERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+INTRODUCTION
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (the Minister) in respect of the 2002 taxation year.
+[2] On March 27, 2003, the Minister issued in respect of the Appellant a notice of assessment for the 2002 taxation year. In the reassessment for the year in question dated October 4, 2007, the Minister added $19,025 as a shareholder benefit to the Appellant's income, and imposed a penalty of $2,116 under subsection 163(2) of the Income Tax Act (ITA).
+[3] The Court must decide:
+(a) whether the Minister could issue a reassessment after the normal assessment period,
+(b) whether the Minister was correct in adding $19,025 as a shareholder benefit to the Appellant's income for the 2002 taxation year, and
+(c) whether the Minister was correct in applying a penalty of $2,116 to the unreported income in accordance with subsection 163(2) of the ITA.
+[4] In making the reassessment and imposing the penalty in respect of the 2002 taxation year, the Minister relied on the following facts set out in the Reply to the Notice of Appeal:
+[Translation]
+(a) In his income tax return for the 2002 taxation year, the Appellant reported $15,600 in employment income from Équipements de Bureau de Sherbrooke Inc. (EBS).
+(b) During the period at issue, the Appellant was a shareholder, director and manager of EBS, whose primary activity was the sale and leasing of office equipment as well as the production of photocopies.
+(c) EBS, which was incorporated on December 22, 1993, has been inactive since 2005.
+(d) Its share capital is divided as follows: the Appellant has 44%, Claude Robichaud has 22% and Les Immeubles Rocendel Inc. has 22%.
+(e) Following an audit, the auditor noted that EBS had issued two cheques to 9121‑3982 Québec Inc., operated under the corporate name Matériaux et Équipements [sic] M.P. Inc., for a supposed purchase of photocopy machines.
+(f) The cheques for $8,051.75 and $10,973.39, dated November 6, 2002, and December 5, 2002, respectively were signed by the Appellant.
+(g) The facts collected by the auditor demonstrated that Matériaux et Équipement M.P. Inc. had no real commercial activity and that its shareholder, Marc Prince, issued accommodation invoices.
+· Mr. Prince confirmed that no services were offered by his company.
+· The cheques were cashed at a cheque-cashing centre called Agence Arylo.
+· He received a commission of $300 to $500 per cheque cashed.
+(h) The Appellant refused to provide the auditor with the books, records and supporting documents concerning EBS for the year audited.
+(i) In or about June 2007, a reassessment was issued to EBS for the 2002 taxation year disallowing the expense related to the purchase of photocopy machines.
+(j) The auditor was unable to verify the Appellant's bank accounts because he refused to submit his statements as well as the bank authorization required.
+[5] Kenneth Eryou, an auditor with the Canada Revenue Agency, was the only person to testify for the Respondent. The auditor testified that at the start of 2006 one of his colleagues had mentioned to him that the company Matériaux et Équipement M.P. inc. (M.P. inc.) had provided a series of false invoices to various companies including Équipements de Bureau de Sherbrooke inc. (EBS). The president of M.P. inc. received cheques in exchange for false invoices and cashed them at the cheque-cashing centre Agence Arylo, for a commission of $300 to $500 per cheque. He then gave the amount received, minus commission, to the representative of the company that had given him the cheque in question. A photocopy of the two cheques issued by EBS to M.P. inc. was made by Agence Arylo before they were cashed. Photocopies of the front of those two cheques were filed as Exhibit I-15. The cheques were signed with the Appellant's name.
+[6] The auditor said that he had visited only the place indicated as M.P. inc.'s place of business. He noted that it was a dwelling unsuitable for the operation of a business. The audits enabled the auditor to conclude that M.P. inc. did not carry on any commercial activity other than drawing up false invoices in exchange for commission.
+[7] The auditor concluded that EBS had not bought any photocopy machines from M.P. inc. Following the audit, he issued a reassessment regarding EBS, disallowing an expense deduction in the amount of $19,025.
+[8] The auditor audited the directors and shareholders of EBS. He contacted Claude Robichaud, a large shareholder in EBS; the Appellant; and Pascal Paré, the company's accountant. After contacting Mr. Robichaud, the auditor concluded that the Appellant managed EBS's daily operations alone and that Mr. Robichaud was rather a passive shareholder. He claims that the Appellant was uncooperative during the audit and that that lack of cooperation led him to infer that the Appellant had something to hide. In addition, since the Appellant's name was on the two cheques in question, the auditor concluded that Mr. Prince gave the Appellant the cash he received when he cashed the cheques, minus his commission. The Appellant then used that money for his personal expenses.
+[9] The Appellant presented an entirely different version of events. He testified that it was Mr. Robichaud who had contacted him to persuade him to start together a business specializing in sale, maintenance and repair of photocopy machines in the Estrie region. At that time, the Appellant worked as a sales representative for Canon in the Estrie region. According to the Appellant, Mr. Robichaud owned a shopping centre in Fleurimont near Sherbrooke. There was an unoccupied space at the shopping centre, which EBS leased as its primary place of business. The Appellant indicated that Mr. Robichaud had appointed himself president of EBS in its corporate charter and appointed the Appellant secretary without his knowledge. According to the Appellant, in 2002, Mr. Robichaud held 33.01% of the common shares in EBS. The Appellant held 42.72% of them. However, according to the Appellant, Mr. Robichaud controlled EBS and had the right to do so since he managed Les Immeubles Rocendel inc. (Immeubles Rocendel), which held 15.53% of the common shares in EBS. Therefore, Mr. Robichaud directly and indirectly controlled 48.54% of the common shares in EBS. Mr. Robichaud also allegedly required that EBS hire his accountant, Mr. Paré. According to the Appellant, Mr. Paré was very close to his uncle, Mr. Robichaud, and was the accountant for all his other companies.
+[10] The Appellant testified that Mr. Paré came to EBS's place of business every two weeks and took with him all the accounting records. According to the Appellant, all the company's books of account were kept by Mr. Robichaud or by Mr. Paré at EBS's head office at 1996 Prospect Street in Sherbrooke, where Mr. Paré's and Mr. Robichaud's offices were also located.
+[11] The Appellant testified that he had explained to the auditor that EBS's accounting records were not in his possession and that he had only the documents that he had provided to the auditor when they met. The Appellant sent a photocopy of his letters to the two shareholders of EBS, to Immeubles Rocendel and to its managing director, Mr. Robichaud, as well as to their spouses, where applicable, and to the accountant, Mr. Paré.
+[12] In his testimony, the Appellant indicated that Mr. Robichaud made all EBS's decisions. In regard to the management of the company, he stated that Mr. Robichaud decided alone who EBS would hire and determined the conditions of employment and job descriptions of EBS employees. The Appellant testified that he could not sign EBS's cheques without Mr. Robichaud's approval. If the Appellant had to sign cheques, they were prepared by the accountant on Mr. Robichaud's instructions. The Appellant filed as Exhibit A-1 a letter to the National Bank of Canada signed by Mr. Robichaud informing the bank that EBS had transferred all of its banking to the Caisse populaire Desjardins de la Saint-François. The Appellant alleges that the letter confirms that Mr. Robichaud controlled EBS's financial operations. In cross‑examination, the Appellant stated that he had not signed the cheques filed as Exhibit I‑15 and that the signature on those cheques did not match his.
+ANALYSIS
+[13] To determine whether the Minister could legally issue a reassessment against the Appellant, I must examine subparagraph 152(4)(a)(i) of the ITA, which reads as follows:
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[14] This provision allows the Minister to make a reassessment at any time after the normal assessment period if the taxpayer has made a misrepresentation attributable to neglect, carelessness or wilful default or committed fraud in filing his tax return. In that respect, the burden is on the Respondent.
+[15] In my opinion, the Respondent did not prove on the balance of probabilities that the Minister could avail himself of the exception in subparagraph 152(4)(a)(i) of the ITA. The Respondent did not call Mr. Prince as witness. However, she tried to have him testify through hearsay evidence. The auditor claims that Mr. Prince cashed the cheques in question and that he issued accommodation invoices in exchange for commission on the amounts of the cheques cashed. That is what paragraph 7(g) of the Reply to the Notice of Appeal states. However, we do not know who gave Mr. Prince the cheques or to whom Mr. Prince gave the amounts received from cashing the cheques. Was it the Appellant, as the Minister presumes, Mr. Robichaud or someone else? Although it is true that under the informal procedure the judge has the power to admit hearsay evidence, I am of the opinion that such evidence is inadmissible in this case because admitting it would deprive the Appellant of his right to cross-examine Mr. Prince and to cast doubt on his statements. Someone who claims to have issued accommodation invoices merits being heard directly by the Court. Furthermore, the Respondent did not call Mr. Robichaud or Mr. Paré as witnesses. Yet, the auditor concluded that the Appellant was the manager of EBS by relying on the conversations he had had with those two people. The Appellant submitted an entirely different version of events alleging that Mr. Robichaud managed EBS. The Appellant's testimony is corroborated in part by the fact that EBS's head office is located at the same address as Mr. Robichaud and Mr. Paré's offices. Exhibit A‑1 shows that Mr. Robichaud took care of EBS's banking transactions. The Court would have liked to hear Mr. Robichaud's testimony on his role in the establishment and management of EBS. Consequently, I do not believe that the evidence submitted warrants the conclusion that conditions required to issue an assessment against the Appellant outside of the normal assessment period were met in this case.
+CONCLUSION
+[16] The appeal is allowed, and the reassessment is vacated for the reasons stated above.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 18th day of November 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 213
+COURT FILE NO.: 2009-2836(IT)I
+STYLE OF CAUSE: ROBERT DESLAURIERS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 11, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: May 3, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne-Marie Desgens
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

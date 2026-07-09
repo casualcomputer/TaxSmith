@@ -1,0 +1,143 @@
+---
+title: "Harris c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/70989/index.do"
+last_modified: "2014-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 110"
+citation2: ""
+neutral_citation: "2014 CCI 110"
+decision_date: "2014-02-04"
+language: "fr"
+item_id: "70989"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5281
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:09:12.627000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a00a532e68d6ac2f5d7f1a2314e095dcfba018835e46f22af75a10493a9afa12"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harris c. La Reine
+
+- Citation: 2014 CCI 110
+- Decision date: 2014-02-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5281, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harris c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-02-04
+Référence neutre
+2014 CCI 110
+Numéro de dossier
+2012-1211(IT)G, 2012-2192(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 110
+Date : 20140409
+Dossier : 2012-1211(IT)G
+ENTRE :
+ROBERT P. HARRIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-2192(IT)G
+ET ENTRE :
+SUSAN L. HARRIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Révisés à partir de la transcription des motifs de l’ordonnance rendus oralement à l’audience le 4 février 2014, à Ottawa, Canada)
+La juge Campbell
+[1] La Cour est saisie de deux questions concernant les appels interjetés par M. et Mme Harris.
+[2] L’intimée avait présenté une requête dans chacun des appels susmentionnés en vue d’obtenir le rejet de ceux‑ci pour cause de retard.
+[3] La transcription montrerait l’historique fait par l’avocat de l’intimée, Me Warren, mais disons en bref que M. et Mme Harris ont agi pour leur propre compte tout au long de ces appels jusqu’aujourd’hui.
+[4] Le 7 novembre 2012, le juge Jorré a rendu une ordonnance, un échéancier a été établi en l’espèce et des dates pour les interrogatoires ont été fixées.
+[5] Me Warren a délivré des avis de convocation à ces interrogatoires en janvier 2013.
+[6] Selon les documents dont j’ai été saisie, les interrogatoires étaient prévus pour le 25 février 2013.
+[7] M. Harris a avisé l’intimée que Mme Harris ne se présenterait pas aux interrogatoires, et a simplement refusé de répondre aux questions qui lui ont été posées lors des interrogatoires.
+[8] Cela a donné lieu à une requête, semblable à celle dont je suis saisie, présentée par l’intimée en vue d’obtenir le rejet des appels.
+[9] Ainsi, une deuxième ordonnance, datée du 20 juin 2013, a été rendue par la juge Valerie Miller. Dans cette ordonnance, de nouvelles mesures ont été prises, y compris une nouvelle date pour achever les interrogatoires, à savoir le 29 novembre 2013. Des dépens ont été adjugés.
+[10] En effet, le dernier paragraphe de cette ordonnance prévoit que [traduction] « Si l’appelant ne respectait pas les échéanciers modifiés fixés par ordonnance, l’intimée présenterait une requête en rejet de son appel ».
+[11] C’est là où nous en sommes encore aujourd’hui.
+[12] L’intimée a délivré les avis de convocation aux interrogatoires.
+[13] Les deux appelants se sont présentés. Toutefois, en réponse à toutes les questions, ils ont lu une déclaration préparée à l’avance où il était question d’[traduction] « un engagement visant à recueillir les renseignements demandés sous réserve de la consultation d’un avocat relativement à mes droits garantis par la Charte canadienne des droits et libertés ».
+[14] C’est la réponse que les appelants ont donnée, même lorsqu’on leur a posé des questions simples et directes, par exemple, si la signature apposée sur la déclaration de revenus était la leur, s’ils pouvaient préciser l’année visée par l’appel et s’ils exploitaient une entreprise.
+[15] Par la suite, les interrogatoires ont été ajournés. Selon Me Warren, de nombreux courriels ont été échangés relativement aux délais prévus pour respecter les engagements pris et pour se conformer à l’ordonnance de la Cour. J’ai examiné ces courriels.
+[16] Me Warren a clairement précisé aux appelants que les documents avaient été divulgués, qu’il ne s’agissait pas d’une affaire criminelle et que la Cour n’était saisie que de leurs nouvelles cotisations.
+[17] L’intimée a présenté les deux requêtes en rejet, une requête pour chaque appel, et c’est pour cette raison que nous sommes ici aujourd’hui.
+[18] Il ressort du dossier que, jusqu’à ce matin, M. Harris agissait pour son propre compte, mais il est venu à l’audience ce matin accompagné d’une avocate.
+[19] Mme Harris n’est pas représentée par un avocat aujourd’hui, et elle n’a formulé aucun commentaire relativement aux observations de Me Warren.
+[20] Essentiellement, Me Christian, l’avocate de M. Harris, a soutenu que, comme celui‑ci n’était pas représenté par un avocat, il avait confondu les notions de procédure criminelle et d’affaires criminelles avec l’affaire civile, qui est la nouvelle cotisation dont la Cour est saisie. Elle a également déclaré qu’il pourrait y avoir une question liée à la Charte.
+[21] D’une manière générale, comme je l’ai précisé dans mes observations plus tôt au cours l’audition des requêtes, je suis rassurée lorsqu’un avocat intervient relativement à une requête comme celle‑ci et m’avise qu’il représente les appelants ou l’un d’entre eux. À mon avis, cela voudrait dire que, puisque l’avocate n’est pas certaine qu’elle peut représenter les deux appelants et qu’elle demande qu’on lui accorde du temps jusqu’à la fin de la semaine pour confirmer cela, qu’en plus elle donnerait des indications à la Cour quant aux engagements que les appelants ont pris au moyen de leur réponse toute faite, qu’elle fournirait des dates, peut‑être, des délais pour d’autres interrogatoires et engagements et qu’elle traiterait de la question des dépens. Aucun de ces points n’a été abordé par Me Christian, l’avocate.
+[22] En fait, j’ai déduit de certaines de ses observations que ses services n’ont peut‑être été retenus que pour l’audience des requêtes d’aujourd’hui et non pour toute l’affaire, ne serait‑ce qu’en ce qui concerne M. Harris seulement.
+[23] Elle a effectivement déclaré, et cela figure dans la transcription, qu’elle pourrait représenter l’un des appelants ou les deux s’il n’y avait pas de conflit, ou qu’éventuellement, un autre avocat pourrait se charger de l’affaire.
+[24] La situation ne me rassure guère et je ne suis pas certaine que cette affaire ne reviendra pas encore une fois devant la Cour à un moment donné et que précisément les mêmes faits ne seront pas présentés pour une troisième fois.
+[25] Je suis convaincue que la lecture de cette réponse au cours des interrogatoires est une indication du fait que les appelants tentaient, et ont continué de tenter de faire obstacle aux procédures de la Cour et de gaspiller le temps et les ressources inestimables de la Cour, alors qu’il y a d’autres contribuables non représentés qui souhaitent faire avancer leur affaire rapidement.
+[26] Il ressort de l’historique du dossier que M. et Mme Harris ont eu amplement de temps pour engager un avocat bien avant ce matin.
+[27] S’ils avaient des problèmes, s’ils avaient des incertitudes à l’égard des questions en litige, ils ont eu amplement l’occasion d’obtenir des instructions d’un comptable, d’un avocat ou de quelqu’un d’autre, avant l’audition des requêtes présentées à la Cour aujourd’hui et de proposer des délais pour donner suite aux mesures à prendre.
+[28] Il semble que les appelants, selon la réponse qu’ils ont donnée lors des interrogatoires, voulaient avoir du temps pour examiner les engagements qu’ils avaient pris. Rien n’indique qu’ils l’aient fait.
+[29] Par conséquent, les deux appels sont rejetés et les affaires sont jointes. Des dépens de 2 500 $, payables sans délai, sont adjugés à l’intimée dans les deux affaires.
+Signé à Ottawa, Canada, ce 9e jour d’avril 2014.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 5e jour d’août 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 110
+Nos DES DOSSIERS DE LA COUR : 2012-1211(IT)G
+2012-2192(IT)G
+INTITULÉS : ROBERT P. HARRIS c.
+SA MAJESTÉ LA REINE et
+SUSAN L. HARRIS c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : Le 4 février 2014
+MOTIFS DE L’ORDONNANCE : L’honorable juge Diane Campbell
+DATE DE L’ORDONNANCE : Le 4 février 2014
+COMPARUTIONS :
+Avocate l’appelant,
+Robert P. Harris :
+Pour l’appelante,
+Susan L. Harris :
+Me Lisa Christian
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

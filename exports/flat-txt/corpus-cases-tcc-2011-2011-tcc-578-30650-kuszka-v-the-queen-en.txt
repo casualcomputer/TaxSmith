@@ -1,0 +1,116 @@
+Title: Kuszka v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30650/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-578-30650-kuszka-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-12-29
+
+# Kuszka v. The Queen
+
+- Citation: 2011 TCC 578
+- Decision date: 2011-12-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7207, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuszka v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-29
+Neutral citation
+2011 TCC 578
+File numbers
+2011-1241(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-1241(IT)APP
+BETWEEN:
+OREST KUSZKA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on December 13, 2011 at Edmonton, Alberta
+Before: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Applicant:
+Nestor Makuch
+Counsel for the Respondent:
+Gergely Hegedus
+____________________________________________________________________
+ORDER
+The application, for an Order extending the time within which to serve a notice of objection under the Income Tax Act with respect to an assessment for the 2006 taxation year, is dismissed.
+Signed at Toronto, Ontario this 29th day of December 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 578
+Date: 20111229
+Docket: 2011-1241(IT)APP
+BETWEEN:
+OREST KUSZKA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] Orest Kuszka brings an application under the Income Tax Act for an Order to extend time to file a notice of objection with respect to an assessment for the 2006 taxation year.
+[2] The objection relates to a deduction sought by Mr. Kuszka for spousal support that was ordered by the Alberta Court of Queen’s Bench. The support order, which was made in 2006, granted to Mr. Kuszka’s former spouse retroactive support in the amount of $2,000 per month for a 70 month period between 2000 and 2005.
+[3] The Crown opposes this application on several grounds: that the application is out of time pursuant to s. 166.2(1), and that the requirements of s. 166.2(5)(a) and (b)(i), (ii) and (iii) are all not satisfied. The provisions are reproduced below.
+166.2.(1) Extension of time by Tax Court. A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister's decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+166.2(5) When application to be granted. No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+Factual Background
+[4] After Mr. Kuszka received the spousal support order in 2006, he sought deductions under the Act for the years to which the payments related, namely 2000 to 2005.
+[5] An appeal in relation to the claim for the 2005 taxation year came before Rip C.J. on August 11, 2009. According to the minutes of that hearing in the Court file, the appeal was dismissed because no payments were made in 2005. The minutes further note that Chief Justice Rip suggested that the Canada Revenue Agency (the “CRA”) reassess the 2006 taxation year to open that year for objection and appeal.
+[6] Further to the suggestion of the Chief Justice, on October 20, 2009 Mr. Kuszka filed a request to amend the 2006 income tax return. There is no indication that this request made reference to the comment of Rip C.J. The CRA denied the request on the basis that the amount was a lump sum and not an arrears payment.
+[7] On January 22, 2010, Mr. Kuszka filed an application with the CRA to extend time to serve a notice of objection. That application was denied by notice to Mr. Kuszka on April 22, 2010.
+[8] This application to extend time was filed with the Court on April 26, 2011.
+[9] The Minister last reassessed the 2006 taxation year on March 6, 2008.
+Discussion
+[10] Although the Crown raises several grounds to oppose the application, it is only necessary for me to consider one – the deadline set out in s. 166.2(5)(a). Counsel for Mr. Kuszka acknowledges that this deadline has not been satisfied. This is fatal to the application.
+[11] Counsel for Mr. Kuszka submits that the CRA’s actions in denying a right of appeal are perverse and calling out for a remedy.
+[12] It is unfortunate for Mr. Kuszka that no matter how sympathetic his claim, an extension of time to serve a notice of objection cannot be granted unless the deadline set out in s. 166.2(5)(a) has been satisfied. Parliament has not provided the Court with any discretion. It is acknowledged that the deadline has not been met.
+[13] In the alternative, counsel for Mr. Kuszka seeks a direction that the CRA respond to the merits of his claim. That relief is also something that this Court has no authority to provide.
+[14] At the hearing, I attempted to find out why the CRA refused to issue a reassessment for the 2006 taxation year so that this year could be opened up in accordance with the suggestion of Chief Justice Rip. The circumstances appear to be sympathetic since Mr. Kuszka took action on a timely basis to deduct the spousal support. Unfortunately, the Crown was not able to provide a reason at the hearing.
+[15] With considerable regret, I must dismiss the application.
+Signed at Toronto, Ontario, this 29th day of December 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 578
+COURT FILE NO.: 2011-1241(IT)APP
+STYLE OF CAUSE: OREST KUSZKA and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: December 13, 2011
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: December 29, 2011
+APPEARANCES:
+Counsel for the Applicant:
+Nestor Makuch
+Counsel for the Respondent:
+Gergely Hegedus
+COUNSEL OF RECORD:
+For the Applicant:
+Name: Nestor Makuch
+Firm: Wheatley Sadownik
+Edmonton, Alberta
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

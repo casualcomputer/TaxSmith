@@ -1,0 +1,164 @@
+Title: O'Connor v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27424/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-633-27424-o-connor-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-12-22
+
+# O'Connor v. M.N.R.
+
+- Citation: 2006 TCC 633
+- Decision date: 2006-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 246, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Connor v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-22
+Neutral citation
+2006 TCC 633
+File numbers
+2005-3853(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-3853(EI)
+BETWEEN:
+TOM O'CONNOR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BRAVE NEW WINES LTD.,
+Intervenor.
+____________________________________________________________________
+Appeal heard on October 23, 2006, at Calgary, Alberta
+Before: The Honourable M. H. Porter, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Douglas D. H. Holl
+Counsel for the Respondent:
+Lesley Akst
+Counsel for the Intervenor:
+Jennifer I. Smith
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reason for Judgment.
+Signed at Calgary, Alberta, this 22nd day of November 2006.
+"M. H. Porter"
+Porter D. J.
+Citation: 2006TCC633
+Date: 20061122
+Docket: 2005-3853(EI)
+BETWEEN:
+TOM O'CONNOR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BRAVE NEW WINES LTD.,
+Intervenor.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] The issue in this appeal is whether the Appellant was engaged as an employee or as an independent contractor to carry out his work for a wine selling business known as "Brave New Wines Ltd." ("BNW") from August 1, 2003 to August 28, 2004.
+[2] By letter dated August 3, 2005, the Minister of National Revenue (the "Minister") indicated his decision that the employment was not insurable as the Appellant was not engaged under a contract of service and was therefore not an employee of BNW during the period in question.
+[3] The Appellant has appealed to this Court from that decision and BNW has intervened in the appeal on the side of the Minister.
+Review of the Evidence
+[4] The principal evidence was given by the Appellant, Tom O’Connor, and by Peter Whitney ("Whitney"), the former president of BNW and his wife, Marnie Griffith. Some back records and details of the Appellant’s tax returns were entered by a BNW official and a Canada Revenue Agency employee.
+[5] The evidence reveals that the Appellant and Whitney had been school friends many years before these events were set in motion. They both had lived in Ontario. The Appellant moved to Banff and became involved in the bar/restaurant trade and Whitney moved to Australia where he followed an education in the wine trade. In the year 2000 or so, Whitney returned with his wife to Ontario and set up BNW in that province, registering it to do business in most other provinces including Alberta.
+[6] The business of BNW was to import/arrange the importation of Australian wines into Canada and then to arrange for their sale to various outlets, bars, restaurants, liquor stores or big box liquor outlets such as Superstore. The manner of operation depended upon the rules in the particular province.
+[7] In Alberta, the rules were established by the Alberta Gaming & Liquor Commission ("AGLC"). Wines could be arranged to be imported, but they had to pass through the AGLC warehouse. AGLC receives the wines from the overseas supplier and turns them over to the account of BNW. BNW, through its representative, would in turn arrange with various liquor outlets to purchase these wines from AGLC and BNW would receive its commissions for arranging the sales.
+[8] In May 2001, Whitney looked up the Appellant in Banff and stayed in his home. He explained to the Appellant the nature of his business and sought to have him get involved, recognizing that the latter had many contacts in the trade, albeit little or no actual sales experience. The Appellant introduced Whitney to another friend of his, Marc Brooker ("Brooker"), who had sales experience in the beer industry.
+[9] As a result of those discussions, the Appellant and Brooker did get involved. Although he was working as a bartender in a local hotel and continued to do so for a while, the Appellant started almost immediately in promoting sales of BNW wines to bars, hotels and restaurants principally throughout southwestern Alberta. Brooker had other commitments at the outset, but came on board by August 2001. His role was mainly to do sales to the big box operations, with which he already had experience and connections.
+[10] Whitney offered to pay them, in total, 12% of the CIF (cost/insurance/freight) price of all sales generated each month in Alberta, as established by AGLC who kept the records.
+[11] Both the Appellant and Brooker had to be licensed as authorized representatives of BNW under the Alberta Regulations. They attended to this right away before they could start selling.
+[12] The arrangement between Whitney on behalf of BNW and the Appellant and Brooker was not reduced to writing. In fact, it was pretty "loosey-goosey" and was more like a work in progress. I had the sense that BNW was a very neophyte business at that time which grew exponentially over the years, when it became more difficult to handle with all the players involved.
+[13] The Appellant and Brooker set up their own bank account at the Alberta Treasury Branch ("ATB") in Banff. They signed a form of partnership agreement provided by the bank, and called themselves BNW West. The monthly remittance cheque for the 12% commission was sent by BNW to the Appellant and deposited into this account.
+[14] They then split the commission 50/50 regardless of which of them had actually earned what in any particular month. It was just divided up 50/50 whatever it was. If the Appellant made no sales and Brooker did, they still shared 50/50 and vice versa.
+[15] A certain amount of time was spent at trial by the witnesses attempting to establish whose idea it was to set up the bank account in this way. Undoubtedly, Whitney encouraged them to set up some kind of banking arrangement and then left it to them, how and what they did and how they would divide up the commission cheque.
+[16] After his return to Ontario, Whitney’s wife, who managed the BNW office back home, sent out to the Appellant various paraphernalia, such as business cards and promotional materials.
+[17] Whitney, in his evidence, described how he saw differences between the "marketing" and the "sales" of these products. The marketing was very much done in cooperation with the suppliers overseas and a consistent theme was applied and used in marketing materials. Thus, any marketing materials supplied to the Appellant had to correspond to this theme. The sales, however, were a different matter and Whitney indicated that the Appellant and Brooker were free to handle sales any way they wanted to. The marketing materials, they might use, had to be the same, but how they went about their sales, when, where, with whom, and how often, was entirely up to them.
+[18] During the course of the years, various suggestions came across the emails encouraging the Appellant and Brooker to deal more with certain wines, or to focus on particular areas. Whitney also provided opportunities for them to attend trade shows and paid for these, placing them under the heading of marketing. A lot of these types of things Whitney said, were opportunities which he encouraged the Appellant and Brooker to take and they were free to do so or not as they saw fit. I tend to believe him in this as in the opening years of this business, clearly he was not into micro-managing sales.
+[19] So that everything might stay coordinated, weekly meetings were set up to review where things were at and what was going on. Whitney said they were not mandatory but done to help. Again, I believe him as when the Appellant felt he did not want to continue those weekly teleconferences, they were discontinued.
+[20] The Appellant asked Whitney if the latter would provide the funds for a vehicle, as the work involved lots of travel. Whitney made it very clear that he was not into doing that. That involved a sales expense, he said, and the Appellant was expected to pay his own expenses related to sales. Anything to do with marketing, paper, ink, etc., was reimbursed to the Appellant by Whitney. Whitney also provided the Appellant with a laptop computer and printer which was designed to print off all the marketing materials, which were the cost of BNW.
+[21] The Appellant thus paid all his car expenses, his cell phone, storage, accommodations and travel expenses.
+[22] It is clear that under the Regulations, neither the Appellant nor Brooker could sell other liquor products, different marks and brands to those handled by BNW, without becoming licensed by the Commission. Neither sought to be so licensed, but when Brooker started to do so and that became known to Whitney in July 2004, Brooker was terminated.
+[23] It was not clear to me whether Whitney was more concerned about a breach of the Regulations and BNW being tainted by that, or whether he just did not want either of them selling different products. He said the former, but I had the distinct feeling it was more to do with the latter.
+[24] In any event, by this time many things had obviously started to break down between BNW on the one hand, and the Appellant and Brooker on the other. BNW had shortly before engaged a national sales director who had not been privy to the early discussions between Whitney and the Appellant and Brooker. He clearly wanted to tighten things up and impose much more control. Whitney admitted as much in his evidence, saying that they wanted to bring the Appellant more under their control and in July 2004 offered him an employment contract. In this offer he would have been paid whether or not he produced sales, but he declined the offer and the relationship came to an end. Similar terms were offered later to another person who took on the position as an employee.
+[25] It is not clear to me how Whitney thought he could unilaterally change the contract with the Appellant, reducing the commission payable from 12% to 6% when Brooker was terminated. All he could have done was relieve Brooker of his services, which did not mean he could unilaterally change the contract with the Appellant. That, no doubt, is or has been an issue in another forum on another day. It did, however, bring an end to the relationship. Sadly so, as these men had been good friends and now from their demeanor I can see there is no love lost between them.
+The Law
+The Degree or Absence of Control Exercised by BNW Ltd.
+[26] The contract with the Appellant and Brooker was that they arrange the sale of wines in Alberta. Whilst Brooker focused on the big box stores, the Appellant was asked to use his contacts in the hotel, bar and restaurant business, particularly around Banff. However, it seemed to me that the Appellant could operate wherever he wished in Alberta and occasionally by invitation in British Colombia to attend shows there.
+[27] The Appellant organized his own schedule, and worked as much or as little as he chose. There was no specified work hours or days. He could go where and when he wished.
+[28] The Appellant was required to use the marketing (advertising) materials supplied to him by BNW. However, these in turn came down from the overseas producers and I do not see this as an element of control imposed by BNW any more than a sub-contractor on a building site is obliged to follow the provisions, conditions and restrictions imposed on the general contractor by an owner or developer.
+[29] The wine and the marketing materials were a given. How the Appellant went about his sales was clearly up to him. Suggestions about moving certain stock or focusing on certain areas came over the wire from time to time, but he was free to follow up on these or not, as he saw fit.
+[30] The teleconferences were voluntary and indeed the Appellant himself terminated them.
+[31] On the whole, I find that the Appellant had a very free reign and this aspect of the test favours a conclusion of an independent contractor.
+Ownership of Tools
+[32] Apart from the computer and printer provided to produce the marketing materials which was programmed from Ontario, the Appellant provided all of his own tools.
+[33] The major item was a new car and BNW made it very clear from the outset that they were not funding this, as it was a sales expense. Thus, the Appellant provided it himself and bore all the expenses of operating it.
+[34] In addition, the Appellant paid for his own cell phone and provided an office and a storage room in his house, the expense of which he himself bore.
+[35] This aspect of the test also favours a conclusion of an independent contractor.
+Chance of Profit and Risk of Loss
+[36] Clearly, the more wine the Appellant and Brooker sold, the more commission they made and the converse was also true.
+[37] The Appellant had certain basic expenses, e.g. his car payments, cell phone costs, and travel and accommodation expenses. Thus, if he made no commissions in a month, he would suffer a loss.
+[38] I cannot say whether or not it was available to him to sell other products, as this did not arise in his case. He would have had to be licensed by AGLC. My sense is that Whitney would not have favoured him doing so and might not have continued the contract.
+[39] However, he was free to do other things and at the outset carried on his employment as bartender until sales picked up sufficiently to let go of that job. No doubt, it was open to him to supplement his income in other ways, where there would be no conflict with BNW products. The fact that he chose not to do so is neither here nor there.
+[40] Whilst the Appellant could not have anyone to do the actual sales without having them licensed by AGLC, he was free to hire people in other capacities. In fact, he did so when he hired helpers at various shows he attended.
+[41] There was clearly no guarantee that in any particular week or day any sales would take place and he was not eligible for any benefits from BNW.
+[42] Clearly the Appellant filed his tax returns as a self employed business person and wrote off significant expenses which would not necessarily have been available to him as an employee. He took the opportunity of that tax advantage as an independent contractor, not as an employee.
+[43] These criteria, in my view, characterize the relationship as an independent contractor.
+Integration Test
+[44] Referring to the case of 671122 Ontario Ltd. v Sagaz Industries Canada Inc. [2001] 2 S.C.R. 983, the question seems to be: Was the Appellant performing these services as a person in business on his own account?
+[45] First off, I noted when Marnie Griffith asked him for his Social Insurance Number upon the return of her husband from the initial Banff visit, he queried why she needed it. Upon her reply, in case she needed it for tax purposes, he promptly informed her that he was paying all of his own taxes and there should be no deductions.
+[46] In fact, that is what occurred. It is apparent that he filed his tax returns as a person in business on his own account and claimed significant amounts of expenses ($26,000.00 to $27,000.00 per annum). These were no doubt perfectly legitimate expenses for a person in business on his own account, but would not necessarily have been so for an employee. So that is how he dealt with his income taxes. There was no question of his saying to BNW that he was an employee and needed a T4 slip. Clearly, he chose the other route.
+[47] I also noted that the Statement of Claim filed by Brooker against BNW upon his termination, referred to
+In the third week of March 2001
+"Mr. Brooker and his partner, Tom O’Connor, were retained by Brave New Wines to develop business in Alberta."
+And
+"At all material times Mr. Brooker and Mr. O’Connor operated under the trade name Brave New Wines West."
+[48] Whilst the Statement of Claim issued by the Appellant against BNW claimed he was an employee, there was clearly a divergence of opinion after the fact, i.e. after termination, as to what their relationship was.
+[49] I noted that they set up their business at the bank as a partnership under the name of Brave New Wines West.
+[50] I also noted that they decided between themselves how to divide up their monthly commission cheque. In fact, they agreed to divide it 50/50 regardless of the efforts of each of them. They were, of course, free to change this at any time and do it any other way that suited them. Employees, of course, do not normally share pay cheques, but are paid for their own work and effort.
+[51] All of these aspects of the matter have led me to the clear and inalienable conclusion that these two men were in business for themselves.
+[52] BNW was in the business of importing wine to Alberta from overseas producers and doing the general marketing (advertising) of the product. They had no means of actually selling it in the province of Alberta.
+[53] The Appellant and Brooker were in the business of selling or arranging sales through the AGLC of the product, for which they bore their own expenses, earned their commissions and made their profit.
+[54] Everything the Appellant and Brooker did had the air of entrepreneurial business about it.
+Conclusion
+[55] I am completely satisfied on the evidence for the above reasons that the Appellant was engaged as an independent contractor, and that he was in business for himself.
+[56] The appeal is accordingly dismissed and the decision of the Minister is confirmed.
+Signed at Calgary, Alberta, this 22nd day of November 2006.
+"M. H. Porter"
+Porter D. J.
+CITATION: 2006TCC633
+COURT FILE NO.: 2005-3853(EI)
+STYLE OF CAUSE: TOM O'CONNOR AND M.N.R. AND BRAVE NEW WINES LTD.
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: October 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable M. H. Porter, Deputy Judge
+DATE OF JUDGMENT: November 22nd, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Douglas D. H. Holl
+Counsel for the Respondent:
+Lesley Akst
+Counsel for the Intervenor:
+Jennifer I. Smith
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenors:

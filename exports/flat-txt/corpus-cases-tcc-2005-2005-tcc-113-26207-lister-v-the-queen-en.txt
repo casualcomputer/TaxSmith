@@ -1,0 +1,149 @@
+Title: Lister v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26207/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-113-26207-lister-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-02-10
+
+# Lister v. The Queen
+
+- Citation: 2005 TCC 113
+- Decision date: 2005-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3938, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lister v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-10
+Neutral citation
+2005 TCC 113
+File numbers
+2004-2248(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2248(IT)I
+BETWEEN:
+CLAIRE LISTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 24, 2004 at Kelowna, British Columbia
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Agent for the Appellant:
+Dewey Lotoski
+Counsel for the Respondent:
+Pavanjit Mahil
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment on the basis that for each year:
+1. The Disability Tax Credits are disallowed.
+2. The medical expenses claimed are allowed in the amounts of:
+2001
+$21,270
+2002
+$20,912
+2003
+$28,055
+The Appellant is awarded her taxable costs and disbursements in this appeal.
+Signed at Calgary, Alberta, this 10th day of February 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC113
+Date:20050210
+Docket: 2004-2248(IT)I
+BETWEEN:
+CLAIRE LISTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal respecting the taxation years 2001 - 2003 pursuant to the Informal Procedure was heard at Kelowna, British Columbia, on January 24, 2005.
+[2] The agent for the Appellant called Claire's son-in-law, David Thomson, her physician, Dr. Ronald Schriemer, M.D., and Barbara Goertzen, R.N., the manager of resident services at Hawthorn Park, a "retirement community" at Kelowna, British Columbia, where Claire resided during the years in question. The Respondent called Gary Buckburry, the general manager of Hawthorn Parkand Joanne Siemens, the Respondent's appeals officer on the file.
+[3] Paragraphs 4 to 10 inclusive of the Amended Reply to the Amended Notice of Appeal set out the matters in issue. They read:
+4. In computing taxes payable for the 2001, and 2002 and 2003 taxation years, the Appellant claimed medical expenses of $21,270.00, and $20,912.00, and $28,055.00, respectively.
+5. The Minister of National Revenue (the "Minister") initially assessed the Appellant for the 2001, and 2002 and 2003 taxation years on April 29, 2002, and April 29, 2003, and September 14, 2004, respectively, as filed by the Appellant.
+6. The Minister reassessed the Appellant for the 2001, and 2002 and 2003 taxation years on February 21, 2003, and September 5, 2003, and December 6, 2004, respectively, and reduced the medical expenses to $515.00, and $470.00, and $2,293.00, respectively, thereby disallowing amount of $20,755.00, and $20,442.00 and$25,762.00, respectively.
+7. In response to a Notice of Objection filed by the Appellant, the Minister reassessed the Appellant for the 2001, and 2002 and 2003 taxation years to allow medical expenses of $10,000.00 in each year for attendant care pursuant to paragraph 118.2(2)(b.1) of the Income Tax Act ("Act") as well as to allow Disability Tax Credits of $6,000.00, and $6,180.00 and $6,279.00 ("Credits"), respectively, pursuant to sections 118.3 and 118.4 of the Act. In so reassessing, the Minister disallowed medical expenses of $10,755.00, and $10,442.00 and $15,762.00 ("Amounts") in the 2001, and 2002 and 2003 taxation years, respectively.
+8. In so reassessing the Appellant for the 2001, and 2002 and 2003 taxation years, the Minister relied on the following assumptions of fact:
+a) the Appellant suffers from numerous medical conditions, affecting multiple organs and has great difficulty with executive functioning;
+b) the Appellant requires help on an ongoing basis with taking her medication, planning and preparing meals, personal care and mobility;
+c) the Appellant's doctor recommended that she live in an assisted living environment;
+d) the Appellant went to live in Hawthorn Park Retirement Community ("Hawthorn"), which is operated by Diversicare Incorporated ("Diversicare");
+e) at Hawthorn, there are three levels of care available: licensed intermediate care, assisted living and independent living;
+f) the Appellant lived in an apartment at Hawthorn in the assisted living area;
+g) the Appellant was provided with nursing services as required, 24 hour emergency response, monitoring of health care needs and a full recreation program at a cost of $950.00 per month;
+h) in addition, she received and was charged extra each month for medication assistance, housekeeping services and meals;
+i) the Appellant claimed medical expenses of $20,755.00, and $20,422.00 and $25,762.00 in the 2001, and 2002 and 2003 taxation years, respectively, in respect of amounts paid to Diversicare; and
+j) the Amounts were not paid in respect of medical expenses as described in subsection 118.2(2) of the Income Tax Act (the "Act").
+B. ISSUES TO BE DECIDED
+9. The issue is whether the Appellant is entitled to deduct the Amounts as medical expenses in the 2001, and 2002 and 2003 taxation years.
+C. STATUTORY PROVISIONS RELIED ON
+10. He relies on sections 118.2, 118.3 and 118.4 of the Act and on section 5700 of the Income Tax Regulations ("Regulations"), as amended for the 2001, and 2002 and 2003 taxation years.
+[4] None of the assumptions were refuted, but assumption 8 g) requires an addition in that Hawthorn offers additional recreation programs for additional fees.
+[5] The issue between the parties turns on paragraph 118.2(2)(e) of the Income Tax Act ("Act") for the years in question. It reads in English:
+118.2(2) For the purposes of subsection (1), a medical expense of an individual is an amount paid ...
+(e) for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient.
+For certifications made after December 20, 2002 the certification must be in writing.
+The French version of paragraph 118.2(2)(e) reads:
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés ...
+e) pour le soin dans une école, une institution ou un autre endroit -- ou le soin et la formation -- du particulier, de son époux ou conjoint de fait ou d'une personne à charge visée à l'alinéa a), qu'une personne habilitée à cette fin atteste être quelqu'un qui, en raison d'un handicap physique ou mental, a besoin d'équipement, d'installations ou de personnel spécialisés fournis par cette école ou institution ou à cet autre endroit pour le soin -- ou le soin et la formation -- de particuliers ayant un handicap semblable au sien;
+[6] Dr. Schriemer certified as to the Appellant's care by a letter dated November 15, 2002 (Exhibit R-2) and his predecessor, Dr. J. Ervine had executed Exhibit R-1, the Form F 2201 Disability Tax Credit Certificate on April 15, 1997. Dr. Schriemer agreed with Exhibit R-1 in his testimony. Exhibit R-1 certified that Claire Lister was unable to (3) think, perceive and remember and (2) was unable to walk, using an aid if necessary. Claire Lister was stated in Exhibit R-2 to suffer from numerous medical conditions and "has great difficulty with executive functioning". At the material times she took 19 different medications, had to be supervised to take them and could not walk with a walker more than about 30 feet at one time. Her suite at Hawthorn has had any cooking facilities removed from it because she might endanger herself with them; it has an alarm pull to notify the staff if she is in difficulty; and she wears an alarm pendant. She has fallen from time to time, has had strokes, has a heart condition, is on blood thinners and at all times could not read a clock and has required 24 hour supervision and could function on her own with these aids and conditions. Her daughter, Mrs. Thomson moved her from Toronto to live with the Thomsons in Kelownabecause of these problems, but the 24 hour problems were such that Mrs. Lister had to move to Hawthorn and has remained there during the years in question.
+[7] The Court accepts Exhibits R-1 and R-2 as certification and Dr. Schriemer's additional confirmation in the witness box as further certification pursuant to paragraph 118.2(2)(e). The question is whether Mrs. Lister is "a person who ... requires the ... facilities or personnel specially provided by ... (Hawthorn) for the care ... of individuals suffering from the handicap suffered by the patient", in the words of (e).
+[8] "Special" is defined by Black's Law Dictionary, 6th edition as:
+"Relating to or designating a species, kind, individual, thing or sort; designed for a particular purpose; confined to a particular purpose, object, person, or class. Unusual, extraordinary."
+[9] Mrs. Lister has contracted for and received "Basic Care" of "Assisted Living" during the years in question. But during 2004 she was raised to care levels 1 and 2 for a period of time. Mrs. Lister's Basic Care is a suite, her contract is for 2 prepared meals each day in the Dining Room, housekeeping with laundry service, a 24 emergency call system and health monitoring with personal pendant service. There are other necessary "ancillary services" for which she contracts and pays extra. At all material times she has received "Assisted Living Services" either from Hawthorn or from "Kelowna Personal Care Services" for an extra charge of $135.00 per month. These include supervision to take her medications 4 times per day and "puffer assistance" and housekeeping services.
+[10] Does Hawthorn provide the personnel and is it a place that specially provides for the care of individuals suffering from the handicap suffered by Mrs. Lister? Her handicap includes an inability to walk any distance; mental disability, including decision-making; and the combination of strokes, heart problems and the need for 19 different medications, which include blood thinners with consequent medical problems if she falls.
+[11] The Shorter Oxford Dictionary describes the adverb "specially" to refer to "in a degree or to an extent beyond what is usual or customary; particularly; pre-eminently." Paragraph (e) refers to the care "of individuals" in the plural, but not "to individuals." The French version of (e) respecting this aspect refers to "spécialisés fournis" ... "de particuliers." Thus, they are similar in this respect.
+[12] Hawthorn does specially provide for the care of Mrs. Lister's handicap. Her handicap is general: she requires supervision, various forms of medical assistance, the preparation and supply of meals and constant monitoring on a 24-hour basis - all under medical supervision for medical reasons. All are specially designed for her degree of handicap and need for care on account of her handicap which is the consequence of a multitude of medical problems which cumulatively have handicapped Mrs. Lister.
+[13] Therefore the appeal is allowed and this matter is referred back to the Minister for reconsideration and reassessment on the basis that for each year:
+1. The Disability Tax Credits are disallowed.
+2. The medical expenses claimed are allowed in the amounts of:
+2001
+$21,270
+2002
+$20,912
+2003
+$28,055
+[14] The Appellant is awarded her taxable costs and disbursements in this appeal.
+Signed at Calgary, Alberta, this 10th day of February 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2005TCC113
+COURT FILE NO.:
+2004-2248(IT)I
+STYLE OF CAUSE:
+Claire Lister v. The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+January 24, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.W. Beaubier
+DATE OF JUDGMENT:
+February 10, 2005
+APPEARANCES:
+Agent for the Appellant:
+Dewey Lotoski
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

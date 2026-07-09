@@ -1,0 +1,122 @@
+---
+title: "Aprile v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26996/index.do"
+last_modified: "2005-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 216"
+citation2: ""
+neutral_citation: "2005 CCI 216"
+decision_date: "2005-03-29"
+language: "fr"
+item_id: "26996"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 541
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:04:26.979000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "512338faeecc806d541d1209de10a821cd76438b04d14554f5c077fa86702c92"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aprile v. The Queen
+
+- Citation: 2005 CCI 216
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 541, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aprile v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-29
+Référence neutre
+2005 CCI 216
+Numéro de dossier
+2004-3294(IT)I
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3294(IT)I
+ENTRE :
+GEORGE APRILE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 21 février 2004 à Toronto (Ontario)
+Devant : L'honorable juge R.D. Bell
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Kandia Aird
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est accueilli et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de mars 2005.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme ce 21e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI216
+Date : 20050329
+Dossier : 2004-3294(IT)I
+ENTRE :
+GEORGE APRILE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+[1] Pour l'année d'imposition 2001, l'appelant a demandé une déduction pour des dépenses d'emploi de 24 000 $, soit 10 000 $ pour la rémunération versée à son épouse et 7 000 $ pour chacun de ses deux fils. L'intimée a accordé le montant de 10 000 $ payé à son épouse, mais elle a refusé les 14 000 $ restants.
+[2] L'appelant a indiqué dans son témoignage que ses fils étaient âgés de 11 ans et 13 ans respectivement pendant l'année d'imposition en cause. Ils ont travaillé pour lui en effectuant des photocopies, en remplissant des enveloppes et en apposant des timbres sur celles-ci pour cinq différents envois postaux au cours de cette année-là, et ils ont placé dix feuilles dans chaque enveloppe, et ce pour plus de 2 500 associés. Cela représente 500 heures de travail pour chaque fils. L'appelant a aussi indiqué dans son témoignage qu'il y a eu deux autres réunions au cours de l'année concernant les sociétés en commandite et que les fils ont travaillé environ 50 heures chacun pour chacune des deux réunions. Cela représente 100 heures de plus pour chaque enfant. Il a aussi mentionné que ses fils l'ont aidé à déplacer des dossiers pour les entreposer pendant environ six heures par mois et qu'ils ont exécuté de nombreux services pour lui. Il a dit que le temps consacré à ces autres services dépassait 100 heures.
+[3] L'appelant a indiqué dans son témoignage qu'il a demandé à son employeur s'il pouvait engager quelqu'un pour exécuter les services et son employeur lui a répondu par l'affirmative. Il a aussi indiqué qu'il n'a pas remis de chèques à ses fils, mais qu'il leur a acheté des motoneiges, des motos et de l'essence pour les véhicules et qu'il leur a donné de l'argent, le tout ayant une valeur d'un moins 7 000 $. Il a dit avoir déterminé la valeur de la rémunération en utilisant un taux de 10 $ l'heure pour le travail de ses fils.
+[4] L'avocate de l'intimée a produit un formulaire établi par l'Agence du revenu du Canada ( « ARC » ) portant le numéro T2200(01) et intitulé « DÉCLARATION DES CONDITIONS DE TRAVAIL » . Le formulaire comprend le nom de l'appelant et son numéro d'assurance sociale et il a été signé, semble-t-il, par une personne autorisée pour l'employeur. Le formulaire comporte les renseignements suivants :
+1. Selon son contrat de travail, l'appelant devait payer les frais qu'il engageait.
+2. L'appelant ne devait pas régulièrement travailler ailleurs qu'à l'établissement de l'employeur.
+3. La période d'emploi en question était l'année civile 2001.
+4. L'appelant n'a pas reçu d'allocation.
+5. L'appelant n'a pas reçu de remboursement pour les frais qu'il a payés.
+6. L'appelant a dû engager d'autres frais pour lesquels il n'a reçu ni allocation ni remboursement, à savoir des « frais relatifs à l'embauche d'un adjoint et à l'utilisation d'une automobile » .
+7. L'appelant n'a pas été rémunéré sous forme de commissions ou d'autres sommes semblables fixées selon le volume de ventes effectuées ou de contrats négociés.
+8. Les fonctions de l'appelant ne l'ont pas obligé à rester au moins douze heures à l'extérieur de la région où est situé l'établissement de l'employeur.
+9. L'appelant a dû louer un bureau hors de l'établissement de l'employeur ou utiliser une partie de son domicile et embaucher un adjoint ou un remplaçant. Il n'a pas été obligé d'acheter les fournitures qu'il a utilisées directement dans l'accomplissement des fonctions de son emploi. Il n'a pas été remboursé pour les dépenses mentionnées ci-dessus.
+[5] L'appelant a simplement allégué que, selon le formulaire, il avait l'autorisation de faire exactement ce qu'il a fait, que la déduction pour le montant de 10 000 $ payé à son épouse a été accordée, mais que les fonctionnaires de l'ARC ont dit qu'ils n'étaient pas intéressés par la nature de la rémunération qu'il a versée à ses fils. Il a dit que les fonctionnaires voulaient voir des chèques et des reçus. L'avocate de l'intimée a invoqué le sous-alinéa 8(1)i)(ii) de la Loi de l'impôt sur le revenu, qui est ainsi libellé :
+(1) Sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu'il est raisonnable de considérer comme s'y rapportant :
+[...]
+(ii) du loyer de bureau ou du salaire d'un adjoint ou remplaçant que le contrat d'emploi du cadre ou de l'employé l'obligeait à payer,
+L'avocate de l'intimée a alors avancé la simple allégation selon laquelle les montants payés aux fils n'étaient pas déductibles parce qu'il n'y avait pas de « documents » . Il semble par là qu'elle voulait dire des chèques ou une autre preuve de paiement aux fils.
+ANALYSE ET CONCLUSION
+[6] L'avocate de l'intimée n'accepte pas la proposition selon laquelle quelqu'un pourrait être payé en nature pour des services et que les montants correspondant aux paiements en nature pourraient être déductibles. Elle a allégué que le montant devait être payé en argent ou par chèque et qu'il doit y avoir une preuve de paiement. Elle n'a pas contre-interrogé l'appelant à l'égard des services exécutés par ses fils. Elle ne l'a pas non plus contre-interrogé concernant la preuve qu'il a présentée concernant les biens mentionnés précédemment qu'il a fournis en contrepartie des services exécutés pour lui par ses fils.
+[7] Il est clair qu'un montant peut être payé en nature ainsi qu'en argent. Je n'ai aucun doute au sujet de la crédibilité de l'appelant. J'accepte la preuve non contestée susmentionnée qui a été présentée par l'appelant et je conclus que le montant de 7 000 $ demandé par l'appelant au titre d'une déduction pour chacun de ses fils comprend les « sommes payées par le contribuable au cours de l'année » 2001, comme il est indiqué à l'alinéa 8(1)i) de la Loi.
+[8] En conséquence, l'appel est accueilli.
+Signé à Ottawa, Canada, ce 29e jour de mars 2005.
+« R.D. Bell »
+Juge Bell
+Traduction certifiée conforme ce 21e jour de septembre 2005.
+Marie-Christine Gervais, traductrice

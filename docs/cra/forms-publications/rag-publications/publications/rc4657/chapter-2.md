@@ -1,0 +1,464 @@
+---
+title: "Chapter 2 EFILE Error Messages for 2025"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4657/chapter-2.html
+last_modified: 2026-02-23
+---
+# Chapter 2 EFILE Error Messages for 2025
+
+## What's new
+
+The changes for 2025 includes the addition of new error messages and also updates to some existing error messages.
+
+## Introduction
+
+While all preparers intend to transmit their clients' records free of error, mistakes sometimes occur as a result of keying errors or missing entries. One way to avoid errors is to review the data before it is transmitted to ensure that the record is correct.
+
+The purpose of this chapter is to provide assistance to preparers in correcting records that are not accepted due to error conditions.
+
+## How error codes are set
+
+Validation of T3 EFILE records are done in stages. This means that an T3 EFILE record must clear one stage of validities before validation in the next stage is performed. Depending on the errors, a T3 EFILE record could be rejected several times with different error codes being set each time. The error codes are embedded in the actual messages.
+
+Error codes could be set at the following stages of validation:
+
+- Identification - Error codes.
+
+- Format and error detection codes.
+
+## Responding to error codes
+
+This chapter explains the reason and/or the action required for the various error codes you might see.
+
+Unless otherwise stated, a record can be retransmitted once errors have been corrected.
+
+Where an error code is received, you should be able to resolve the situation with the information contained in this chapter. However, if you encounter an error condition that is not covered, or if you need further clarification on the information contained in this chapter, call the EFILE Helpdesk in your tax centre for assistance.
+
+Before calling your EFILE Helpdesk, have all the relevant information concerning the applicable error code available. Being prepared helps us both.
+
+EFILE Helpdesks were established to help tax preparers and transmitters resolve technical matters related to the electronic filing process. The EFILE Helpdesk phone numbers are for the exclusive use of T3 EFILE preparers and transmitters and must not be provided to individual taxpayers. If your client wants information about repayment amounts required, carry-forward amounts available, refunds or status of the return, direct them to call **1-800-959-8281**.
+
+For error codes related to format, contact your software developer for assistance.
+
+While software products may pass the Canada Revenue Agency certification test, we do not test or review the products for user friendliness. Any comments you have regarding your software product should be directed to the developer.
+
+## Identification error codes
+
+### Trust Name
+
+| Line | Description |
+
+| --- | --- |
+
+| 82911 | The name of trust on the return is missing. |
+
+| 83384 | The name of trust contains invalid characters that are not part of character set UTF-8. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 83151 | The name of plan on the return is missing. |
+
+| 83391 | The name of plan contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 83155 | The name of plan or fund on the return is missing. |
+
+| 83411 | The name of plan or fund contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 83153 | The name of registered investment on the return is missing. |
+
+| 83410 | The name of registered investment contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 83157 | The first name of athlete on the return is missing. |
+
+| 83393 | The first name of athlete contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83394 | The first name of athlete contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83395 | The first name of athlete contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| 83159 | The last name of athlete on the return is missing. |
+
+| 83396 | The last name of athlete contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83397 | The last name of athlete contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83398 | The last name of athlete contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+### Name of Trustee
+
+#### Name of Trustee (individual)
+
+| Line | Description |
+
+| --- | --- |
+
+| 83165 | The first name of the individual Trustee on the return is missing. |
+
+| 83339 | The first name of the individual Trustee contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83340 | The first name of the individual Trustee contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83341 | The first name of the individual Trustee contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| 83167 | The last name of the individual Trustee on the return is missing. |
+
+| 83342 | The last name of the individual Trustee contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83343 | The last name of the individual Trustee contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83344 | The last name of the individual Trustee contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 83169 | The first name of the individual Custodian on the return is missing. |
+
+| 83385 | The first name of the individual Custodian contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83386 | The first name of the individual Custodian contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83387 | The first name of the individual Custodian contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| 83171 | The last name of the individual Custodian on the return is missing. |
+
+| 83388 | The last name of the individual Custodian contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83389 | The Last Name of the individual Custodian contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83390 | The Last Name of the Individual Custodian contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 83419 | The first name of filer on the return is missing. |
+
+| 83467 | The first name of filer contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83468 | The first name of filer contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83469 | The first name of filer contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| 83173 | The last name of filer on the return is missing. |
+
+| 83470 | The last name of filer contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83471 | The last name of filer contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83472 | The last name of filer contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+#### Name of Trustee (non-individual)
+
+| Line | Description |
+
+| --- | --- |
+
+| 80103 | The name of the non-individual Trustee/Custodian on the return is missing. |
+
+| 83345 | The name of the non-individual Trustee/Custodian contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83346 | The first name of the non-individual contact contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83347 | The first name of the non-individual contact contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83348 | The first name of the non-individual contact contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+| 83349 | The last name of the non-individual contact contains invalid characters that are not part of character set UTF-8. If you are unable to resolve the issues, please contact your software provider. |
+
+| 83350 | The last name of the non-individual contact contains invalid characters, and/or the first and/or last character of the name is not alphabetic. Please review your entries and make the necessary corrections. |
+
+| 83351 | The last name of the non-individual contact contains consecutive combination of apostrophes and periods. Please review your entries and make the necessary corrections. |
+
+### Contact number
+
+| Line | Description |
+
+| --- | --- |
+
+| 82042 | The telephone country code for the Trustee/Custodian and/or Care of (C/O) is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 82044 | The area code for the Trustee/Custodian and/or Care of (C/O) is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 82045 | The telephone number for the Trustee/Custodian and/or Care of (C/O) is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 82046 | The international city code for the Trustee/Custodian and/or Care of (C/O) is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 82047 | The international number for the Trustee/Custodian and/or Care of (C/O) is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 82048 | The telephone extension number for the Trustee/Custodian and/or Care of (C/O) is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+### Address of Trustee (individual/non-individual)
+
+| Line | Description |
+
+| --- | --- |
+
+| 83045 | The city or province is not valid for the postal code provided in the address of the trustee information. Please review your entries and make the necessary corrections. |
+
+| 83180 | The address line 1 of the Trustee/Custodian on the return is missing. |
+
+| 83352 | The address line 1 for the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83184 | The city of the Trustee/Custodian on the return is missing. |
+
+| 83354 | The city of the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83186 | The province/territory or state of the Trustee/Custodian on the return is missing. |
+
+| 83355 | The US state in the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83356 | The province of the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83188 | The postal or zip code of the Trustee/Custodian on the return is missing. |
+
+| 83357 | The postal code of the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83358 | The US zip code of the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83359 | The US zip code extension of the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83361 | The country of the Trustee/Custodian information on the return is missing. |
+
+| 83362 | The country of the Trustee/Custodian information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+### Alternate mailing address
+
+| Line | Description |
+
+| --- | --- |
+
+| 83306 | The city or province is not valid for the postal code provided in the care of (C/O) address information. Please review your entries and make the necessary corrections.. |
+
+| 83363 | The Care of (C/O) name in the mailing address is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83364 | The address line 1 of the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83366 | The city in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83367 | The US state in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83368 | The province in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83369 | The postal code in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83370 | The US zip code in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83371 | The US zip code extension in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83372 | The country in the Care of (C/O) information is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+### Books and records address
+
+| Line | Description |
+
+| --- | --- |
+
+| 82129 | The address line 1 in books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83048 | The city in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83053 | The US state in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83052 | The province in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83049 | The postal code in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83050 | The US zip code in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83051 | The US zip code extension in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83047 | The country in the books and records is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83330 | The city or province is not valid for the postal code provided in the books and records address information. Please review your entries and make the necessary corrections. |
+
+### Athlete’s address
+
+| Line | Description |
+
+| --- | --- |
+
+| 83318 | The city or province is not valid for the postal code provided in the athlete's address information. Please review your entries and make the necessary corrections. |
+
+| 83401 | The address line 1 of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83403 | The city in the athlete’s address is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83404 | The US state of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83405 | The province of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83406 | The postal code of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83407 | The US zip code of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83408 | The US zip code extension of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83409 | The country of the athlete is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+### Language of Trust
+
+| Line | Description |
+
+| --- | --- |
+
+| 82855 | Please enter the language of the trust. |
+
+| 82027 | The language entered is invalid. |
+
+### First Nation settlement number
+
+| Line | Description |
+
+| --- | --- |
+
+| 83373 | The First Nation settlement number information is missing. |
+
+### Date trust created/came into existence
+
+| Line | Description |
+
+| --- | --- |
+
+| 82822 | The date trust was created/came into existence is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83549 | The date trust created must be prior to the fiscal period end of all assessed return(s). |
+
+### Date of death
+
+| Line | Description |
+
+| --- | --- |
+
+| 82838 | The date of death is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83548 | The testator’s date of death must be prior to the fiscal period end of all assessed return(s). |
+
+### Type of trust
+
+| Line | Description |
+
+| --- | --- |
+
+| 83225 | The type of trust is missing. Please review your entry and make the necessary correction. |
+
+### Employer RC number
+
+| Line | Description |
+
+| --- | --- |
+
+| 83232 | The employer RC number is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+### Wind up date/ceased to exist
+
+| Line | Description |
+
+| --- | --- |
+
+| 83382 | The wind up date/cease to exist date is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+### Immigration date (became resident)/Emigration date (ceased to be resident)
+
+| Line | Description |
+
+| --- | --- |
+
+| 82939 | Your client's migration date is equal to the migration date on the Canada Revenue Agency’s records. Please review your entry and make the necessary correction. |
+
+| 82970 | Your client’s migration date will result in consecutive migration events of the same type. Please review your entry and make the necessary correction. |
+
+| 83374 | The immigration date is after the current date. Please review your entry and make the necessary correction. |
+
+| 83375 | The immigration date is before the trust creation date. Please review your entry and make the necessary correction. |
+
+| 83376 | The immigration date is before the date of death. Please review your entry and make the necessary correction. |
+
+| 83377 | The emigration date is after the current date. Please review your entry and make the necessary correction. |
+
+| 83378 | The emigration date is before the trust creation date. Please review your entry and make the necessary correction. |
+
+| 83379 | The emigration date is before the date of death. Please review your entry and make the necessary correction. |
+
+### Trust account number
+
+| Line | Description |
+
+| --- | --- |
+
+| 82805 | The trust account number is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+| 83431 | The trust account number on the return is missing. |
+
+### Related trust account number
+
+| Line | Description |
+
+| --- | --- |
+
+| 82811 | The related trust account number is not valid or contains at least one invalid character. Please review your entries and make the necessary corrections. |
+
+## Format and error detection error codes
+
+| Line | Description |
+
+| --- | --- |
+
+| 575, 576, 704 | The Canada Revenue Agency’s records indicate that a return for this trust account number and tax year has already been successfully received. If you have not previously filed this return, please contact your EFILE Helpdesk for assistance. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 986 | An invalid field code has been detected. Please revise your field code {0} and retransmit your return. |
+
+| 710 | An invalid value has been detected at field code {0}. Review the entries, and contact your software developer if you need assistance. |
+
+| 001, 003, 005, 006, 007, 008, 014, 027, 029, 031, 032, 033, 036, 038, 041, 044, 045, 091, 107, 113, 114, 125, 126, 127, 130, 132, 134, 135, 137, 139, 141, 144, 145, 146, 158, 159, 160, 175, 176, 177, 181, 185, 186, 196, 197, 198, 209, 210, 220, 221, 222, 223, 224, 225, 257, 258, 259, 260, 261, 266, 267, 268, 275, 276, 277, 290, 291, 293, 294, 350, 371, 372, 373, 384, 385, 386, 397, 398, 399, 439, 443, 476, 486, 492, 493, 494, 495, 496, 515, 541, 571, 608, 613, 709, 754, 755, 756, 772, 778, 779, 728, 742, 802, 804, 819, 824, 828, 829, 830, 882, 920, 925, 997. | A negative amount has been reported in a positive only field. Field code {0} your client's return, schedule, or form needs to be revised. Please revise the field code and retransmit the return. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 271, 272, 273 | The residence of trust and/or province/territory in your client’s address is not present on this record. |
+
+| 733 | There is an entry at field 21 for carrying charges and interest expenses but no entries on field(s) 8160, 8170, 8180 and 8190 from Schedule 8 are present on this return. A Schedule 8 must be completed to support the carrying charges and interest expenses. |
+
+| 734 | There is an entry at field 47 for total deductible income allocations but no entries from Part A of Schedule 9 are present on this return. A Schedule 9 must be completed to support the total deductible income allocations. |
+
+| 735 | There is an entry on field 01 for taxable capital gains but no entry on field 1220 from Schedule 1 is present on this return. A Schedule 1 must be completed to support the taxable capital gains. |
+
+| 736 | There is an entry on field 03 for actual amount of dividends from taxable Canadian Corporations but no entry on field(s) 8110 and 8120 from Schedule 8 are present on this return. A Schedule 8 must be completed to support the actual amount of dividends from taxable Canadian Corporations. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 543 | Field 602 for Current year’s employer contributions does not equal the amount at field 6021. |
+
+| 544 | Field 603 for Current year’s member contributions does not equal the amount at field 6031. |
+
+| 545 | Field 604 for Current year’s amount transferred from another RCA trust does not equal the amount at field 6041. |
+
+| 546 | Payroll account number / non-resident remittance account number is invalid. Please update. |
+
+| 567 | Amounts transferred to or received from another RCA custodian trust account number is invalid. Please update. |
+
+| Line | Description |
+
+| --- | --- |
+
+| 67061, 67063, 67064, 67065, 67067, 67068, 67069, 67070, 67071, 67072, 67073, 67074, 67075, 67076, 67077, 67078, 67079, 67080, 67081, 67082, 67091, 67092, 67093, 67094, 67095, 67096, 67097, 67098, 67099, 67100, 67101, 67102, 67103, 67104, 67105, 67106 | A negative amount has been reported in a positive only field. Field code {0} on your client's return, schedule, or form needs to be revised. Please revise the field code and retransmit the return. |

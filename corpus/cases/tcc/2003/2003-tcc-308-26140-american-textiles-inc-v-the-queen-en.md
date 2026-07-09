@@ -1,0 +1,219 @@
+---
+title: "American Textiles Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26140/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 308"
+citation2: ""
+neutral_citation: "2003 TCC 308"
+decision_date: "2003-05-02"
+language: "en"
+item_id: "26140"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4135
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:12:53.794000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1bb0705feb775d86be0de612827545582298ce8082dff95e9b177999949de877"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# American Textiles Inc. v. The Queen
+
+- Citation: 2003 TCC 308
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4135, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+American Textiles Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-02
+Neutral citation
+2003 TCC 308
+File numbers
+2002-3118(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3118(IT)I
+BETWEEN:
+AMERICAN TEXTILES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 16, 2003 at Kitchener, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Judge
+Appearances:
+Agent for the Appellant:
+Roger Lubhaya
+Counsel for the Respondent:
+Steve Leckie, Esq.
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal from the assessment made under the Income Tax Act for the 2000 taxation year be dismissed.
+Signed at Toronto, Canada, this 2nd day of May 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC308
+Date: 20030502
+Docket: 2002-3118(IT)I
+BETWEEN:
+AMERICAN TEXTILES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment for the period from January 1, 2000 to December 31, 2000 whereby the Minister assessed the appellant for failure to withhold and remit tax and Canada Pension Plan contributions in respect of amounts that it was assessed were paid to employees of the appellant as salary, wages or other remuneration.
+[2] The only witness was Mr. Roger (Baldev) Lubhaya.
+[3] He testified that he was the president of the appellant and also was a 75% shareholder of a Kashel's Limited. Kashel's Limited carried on the business of exporting non-ferrous metals. It engaged a shipping line, Maesk, to transport about $500,000 worth of non-ferrous metals to India. Evidently, through some sort of mix-up, it sent the shipment to Jordan and it took a year to get it back. This created serious financial difficulties for Kashel's with the result that the bank seized its bank account and made it impossible for bonuses to be paid to the employees. On December 28, 2000, cheques were issued on the account of the appellant to Sunil Lubhaya, Anil Lubhaya (Roger Lubhaya's son), Peggy Martin (Roger's wife), and Roger Lubhaya in the amounts of $20,000, $10,000, $25,000 and $31,000 respectively and they bore the notation "Bonus 2000".
+[4] At this point the evidence gets a little murky. Roger Lubhaya testified that no one, apart from himself, saw the cheques. He testified that he went to the branch of the Toronto Dominion Bank at 381 King Street West in Kitchener and immediately redeposited the cheques to the appellant's bank account.
+[5] The bank statements have the following entries.
+DESCRIPTION
+CHEQUE/DEBIT
+DEPOSIT/CREDIT
+DATE
+DEPOSIT
+31,000.00
+DEC29
+DEPOSIT
+30,000.00
+DEC29
+DEPOSIT
+25,000.00
+DEC29
+...
+CHQ#00856-...
+31,000.00
+DEC29
+CHQ#00852-...
+20,000.00
+DEC29
+CHQ#00853-...
+10,000.00
+DEC29
+CHQ#00854-...
+25,000.00
+DEC29
+[6] He stated that his reason for drawing the cheques on the appellant's bank account rather than Kashel's was that the Bank of Montreal had frozen Kashel's account and he wanted to pay the bonuses that had been paid in previous years.
+[7] The reason for immediately redepositing the cheques was that there were insufficient funds in the appellant's bank account.
+[8] The problem was compounded by the fact that the bookkeeper whom he retained prepared and issued T4 slips to the four family members indicating payment of employment income and taxes withheld as follows:
+Employment Income
+Taxes Deducted
+Baldev Lubhaya
+$47,400
+$11,900
+Anil Lubhaya
+$11,000
+$800
+Margaret Martin (Peggy)
+$33,500
+$8,500
+Sunil Lubhaya
+$3,3074.08
+$6,094.52
+[9] In fact these amounts shown as taxes were not sent to the CCRA. No CPP deductions were made or remitted.
+[10] The financial statements show a deduction for wages and employee benefits of $92,927, which Mr. Lubhaya said included the bonuses. I cannot reconcile these figures. The total of the amounts of income shown on T4 slips is $124,974. The total of the bonuses is $86,000. To compound the confusion the financial statements show an amount receivable from shareholder of $83,453 which Mr. Lubhaya said was the amount of the bonuses.
+[11] An audit was done by the CCRA and new T4 slips were prepared by the CCRA auditor.
+[12] The new amounts shown on the amended T4 slips are as follows.
+Employment
+Income tax
+deducted
+Employee CPP contribution
+Roger
+$36,694.59
+0
+$1,294.59
+Peggy
+$25,872.53
+0
+$872.53
+Sunil
+$24,020.49
+$498.92
+$774.04
+Anil
+$10,263.79
+0
+$263.79
+[13] The other family members did not testify but Mr. Lubhaya stated that they included the bonus in their income tax return for the 2000 taxation year, and that they were assessed amounts and the CCRA collected the tax.
+[14] The appellant was assessed for failure to remit. The notice of assessment contains the following amounts which it is alleged ought to have been remitted.
+Federal tax
+$365.51
+Provincial tax
+$133.41
+CPP
+$6,409.90
+Penalty
+$690.87
+Interest
+$152.21
+Total
+$7,751.90
+[15] Where does this extraordinary saga of confusion lead us? We have to start with cheques issued by a company, the appellant, who it is said was not the employer of the family members. It is possible that apart from Roger the other family members did not ever know that the cheques had been issued to them. The cheques were immediately deposited back into the appellant's bank account. It is clear that employment income is taxed when received and not when receivable (Rousseau v. M.N.R., 58 DTC 631, aff'd 60 DTC 1236). Nonetheless the employees according to the evidence treated these amounts as income and no objection to the assessments of the individuals have been filed.
+[16] It would seem that one of two hypotheses must be accepted. Either that the employees received these amounts and were therefore taxable on them or that they did not receive them and that they never became their income.
+[17] If the second hypothesis is accepted there was no payment and therefore no obligation to withhold and remit payroll deductions. It would follow that the employees were not taxable on the amounts, should not have included them in their income and should not have been taxable. Therefore the assessments of the individuals for 2000 are wrong but there have been no objections filed.
+[18] I shall not endeavour to embark on an examination of the effect of section 78 of the Income Tax Act which contains detailed rules for the treatment of unpaid expenses owing to a person with whom a taxpayer does not deal at arm's length.
+[19] The first hypothesis is that the employees received the bonuses and were taxable on them in the year and the amounts were loaned to the appellant and can be withdrawn tax-free at some future date. I find this hypothesis more in accordance with all of the evidence, including the employee's own treatment of the bonuses in their return of income. While the second hypothesis of non-receipt has a certain superficial appeal I do not find the evidence supporting it to be compelling.
+[20] In the result the assessment of unremitted amounts is correct and the appeal must be dismissed.
+Signed at Toronto, Canada, this 2nd day of April 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC308
+COURT FILE NO.:
+2002-3118(IT)I
+STYLE OF CAUSE:
+Between American Textiles Inc.
+and Her Majesty The Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+April 16, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Judge
+DATE OF JUDGMENT:
+May 2, 2003
+APPEARANCES:
+Agent for the Appellant:
+Roger Lubhaya
+Counsel for the Respondent:
+Steve Leckie, Esq.
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

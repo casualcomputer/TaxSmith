@@ -1,0 +1,128 @@
+Title: Great Lands Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30683/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-517-30683-great-lands-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-11-08
+
+# Great Lands Corporation v. The Queen
+
+- Citation: 2011 TCC 517
+- Decision date: 2011-11-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7180, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Great Lands Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-11-08
+Neutral citation
+2011 TCC 517
+File numbers
+2009-999(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-999(IT)G
+BETWEEN:
+GREAT LANDS CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 11, 2011 at
+Toronto ,
+Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville
+Taylor
+Morgan Wiles (student at law)
+Counsel for the Respondent:
+Bobby J. Sood
+____________________________________________________________________
+ORDER
+UPON motion by the respondent for an order to compel answers to questions and undertakings from the examination for discovery, to compel reattendance for a continuation of the examination, and for costs;
+THE MOTION is granted, and it is ordered that:
+the appellant is directed to satisfy the undertakings set out in Schedule A to the Notice of Motion,
+the appellant is directed to answer the questions set out in Schedule B to the Notice of Motion,
+the appellant is directed to reattend a continuation of the examination to answer the questions set out in Schedule B, any proper questions arising from those answers, and further questions relating to matters in issue in this appeal, and
+the respondent is entitled to its costs in respect of this motion.
+Signed at
+Toronto ,
+Ontario
+this 8th day of November 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 517
+Date: 20111108
+Docket: 2009-999(IT)G
+BETWEEN:
+GREAT LANDS CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] The Crown seeks an order directing the appellant, Great Lands Corporation (“Great Lands”), to answer questions and undertakings from the examination for discovery, and to reattend for a continuation of the examination. It also seeks costs in respect of the motion and the further discoveries.
+[2] By way of background, the issue in the appeal is whether Great Lands is entitled to a deduction in respect of loans that it made to related corporations which were engaged in real estate development. Great Lands submits that the deduction may be taken under any one of three provisions in the Income Tax Act, namely, s. 20(1)(l)(i), (ii) or s. 20(1)(p).
+[3] The amount of the deductions at issue are $2,825,780, $7,879,070 and $307,293 in respect of the 2002, 2003 and 2004 taxation years, respectively.
+[4] Great Lands’ nominee for purposes of the discovery was its principal, Hassam Sadr. He was examined on March 25, 2010 and on the afternoon of November 22, 2010. At the conclusion of the second day, counsel for the Crown indicated that he wished to continue the examination but it appears that Great Lands objected.
+[5] This motion was brought almost 11 months later.
+Undertakings and refusals
+[6] The respondent seeks proper answers to 21 items. The Crown submits that the answers that were provided are generally incomplete, non-responsive or otherwise ambiguous.
+[7] Seven of the 21 items relate to answers that were provided to undertakings. The remaining 14 items relate to questions which Great Lands refused to answer at the discoveries but subsequently answered in writing.
+[8] I agree with the Crown that the answers provided are not satisfactory. The answers are generally oblique and do not provide clear, understandable answers to the questions. The questions were clear and the answers should also be clear.
+[9] Counsel for the Crown submits that it is necessary to have clear answers in order that they can be used as admissions at trial. I agree with this. Almost all of the answers provided would not be useful for this purpose.
+[10] Great Lands submits that Mr. Sadr became frustrated during the examination because the questions were repetitive. I would agree that there is some unfortunate repetition to the questions. However, Mr. Sadr cannot complain because his answers were too often rambling and difficult to follow.
+[11] The order sought by the Crown with respect to questions and undertakings will be granted.
+Continuation of discoveries
+[12] The Crown also seeks an order directing a continuation of the examination, not only to have proper answers but also for further lines of inquiry.
+[13] This order will be granted. The Crown should be entitled to complete its examination of Mr. Sadr.
+[14] Although this request is being granted, I am concerned about the delay in bringing this motion. The last examination was held almost 11 months before this motion was heard. Part of the delay was due to Court scheduling, but this is just a minor factor. Counsel for the Crown indicated that part of the reason for the delay was that Great Lands had asked for a settlement conference and the Court scheduled a status hearing. Perhaps Great Lands should not have sought a settlement conference, but I am not satisfied that either of these reasons justifies the 11-month delay in bringing this motion.
+Costs
+[15] The Crown seeks costs in respect of this motion as well as costs for the continuation of the examination for discovery. The Crown should be entitled to costs in respect of the motion. As for further discoveries, I prefer to leave that to the discretion of the trial judge.
+Signed at
+Toronto ,
+Ontario
+this 8th day of November 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 517
+COURT FILE NO.: 2009-999(IT)G
+STYLE OF CAUSE: GREAT LANDS CORPORATION and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto ,
+Ontario
+DATE OF HEARING: October 11, 2011
+REASONS FOR ORDER BY: Hon. J.M. Woods
+DATE OF ORDER: November 8, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Leigh Somerville
+Taylor
+Morgan Wiles (student at law)
+Counsel for the Respondent:
+Bobby J. Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Leigh Somerville
+Taylor
+Firm: Leigh Somerville Taylor Professional Corporation
+Toronto ,
+Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa ,
+Ontario

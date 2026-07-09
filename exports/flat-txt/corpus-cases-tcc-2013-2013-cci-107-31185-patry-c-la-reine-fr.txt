@@ -1,0 +1,182 @@
+Title: Patry c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31185/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-107-31185-patry-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-05-27
+
+# Patry c. La Reine
+
+- Citation: 2013 CCI 107
+- Decision date: 2013-05-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5082, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-27
+Référence neutre
+2013 CCI 107
+Numéro de dossier
+2009-26(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-26(IT)I
+ENTRE :
+LINDA RUTH KELSO PATRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 juin 2012, à Victoria (Colombie‑Britannique).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Holly Popenia
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004 est rejeté, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa (Ontario), ce 27e jour de mai 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 4e jour de juillet 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 107
+Date : 20130527
+Dossier : 2009-26(IT)I
+ENTRE :
+LINDA RUTH KELSO PATRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE JUGEMENT
+Le juge Hogan
+I. INTRODUCTION
+[1] La docteure Linda Ruth Kelso Patry (l’« appelante ») a interjeté appel de nouvelles cotisations établies à son égard par le ministre du Revenu national (le « ministre »), qui lui a refusé les déductions qu’elle avait demandées à l’égard de certains frais judiciaires payés pendant les années d’imposition 2003 et 2004. L’appelante a supporté les frais judiciaires en cause par suite d’un différend qu’elle a eu avec Barrie Neff, qui avait auparavant servi d’arbitre entre propriétaire et locataire dans un conflit survenu dans le contexte des activités de location de l’appelante.
+II. LE CONTEXTE FACTUEL
+[2] L’appelante est médecin (bien qu’elle se soit récemment engagée à s’abstenir de pratiquer la médecine). Pendant les années en cause, elle pratiquait la médecine et en tirait un revenu d’entreprise. Elle tirait également un revenu de ses activités de location.
+[3] En 1992, l’appelante s’est retrouvée mêlée à un différend avec un de ses locataires. Elle a déclaré que ce différend avait trait à un dommage constaté dans l’un de ses biens locatifs. Finalement, le différend a fait l’objet d’audiences d’arbitrage devant la Residential Tenancy Branch (Direction de la location à usage d’habitation) de la Colombie‑Britannique. Me Neff a présidé ces audiences. Il s’est prononcé contre l’appelante, qui a été contrariée par le comportement adopté par Me Neff dans le contexte de cette procédure d’arbitrage.
+[4] Un conflit majeur s’en est suivi entre l’appelante et Me Neff. L’appelante a présenté une demande de contrôle judiciaire de la décision de Me Neff; elle y accusait apparemment Me Neff de s’être montré partial et injuste. L’appelante a déclaré qu’elle avait également communiqué avec un membre du Barreau de la Colombie‑Britannique au sujet des craintes qu’elle nourrissait au sujet de Me Neff, qui avait été arrêté et mis en détention par la police sur le fondement, entre autres choses, des mesures prises par l’appelante.
+[5] Me Neff a poursuivi l’appelante (ainsi qu’une tierce partie) pour, entre autres choses, poursuite malveillante, abus de procédure et infliction intentionnelle de souffrance morale[1]. Cette poursuite a donné lieu à plusieurs requêtes et à un procès (ci‑après la « poursuite intentée par Me Neff »).
+[6] Au terme de la poursuite intentée par Me Neff, la Cour suprême de la Colombie‑Britannique a accordé à ce dernier des dommages-intérêts, y compris des dommages-intérêts punitifs contre l’appelante[2]. Dans les motifs de la décision qu’elle a rendue, la Cour suprême de la Colombie‑Britannique s’est ainsi exprimée :
+[traduction]
+[153] La défenderesse a conçu une profonde aversion pour le demandeur ainsi que le désir de se venger de la conclusion qu’il avait tirée contre elle dans le contexte de la procédure d’arbitrage, sentiment qui a grandi et qui s’est amplifié au point où elle ne s’est pas contentée de chercher à obtenir réparation d’une erreur judiciaire, mais où elle s’est lancée dans une vendetta visant à dépouiller le demandeur de son emploi et de sa réputation professionnelle, et finalement, à œuvrer pour qu’il fasse l’objet d’une poursuite criminelle.
+[7] D’après l’appelante, Me Neff a également déposé diverses plaintes contre elle devant le Collège des médecins et chirurgiens de la Colombie‑Britannique (le « Collège des médecins »), qui a mené une enquête à l’égard de l’appelante et lui a retiré son permis de pratiquer la médecine pendant une brève période au cours des années 1990. L’appelante a affirmé que Me Neff avait régulièrement déposé des plaintes devant le Collège des médecins, y compris en 2003 et en 2004.
+[8] Dans ses déclarations de revenus pour 2003 et 2004, l’appelante a demandé des déductions à l’égard de ses frais judiciaires. Le ministre a établi une nouvelle cotisation à l’égard de l’appelante, lui refusant la déduction de frais judiciaires de 11 000 $ pour l’année d’imposition 2003 et de 10 000 $ pour l’année d’imposition 2004.
+[9] Il règne une certaine incertitude quant au montant des frais judiciaires que l’appelante a véritablement payés en 2003 et 2004 dans le contexte de la poursuite intentée par Me Neff.
+[10] En général, il est ressorti du témoignage de l’appelante que les frais judiciaires en cause ne se rapportaient qu’à la poursuite intentée par Me Neff. Toutefois, il est arrivé à l’appelante de sous-entendre qu’elle avait supporté certains de ces frais relativement à la défense qu’elle avait présentée devant le Collège des médecins eu égard aux plaintes présentées par Me Neff, et ce, bien qu’elle ait par ailleurs laissé entendre que l’Association canadienne de protection médicale aurait pu supporter une partie des frais payés pour assurer cette défense. En l’espèce, les observations écrites de l’appelante semblent révéler que les frais judiciaires en cause n’ont trait qu’à la poursuite intentée par Me Neff[3]. En outre, dans les lettres qu’ils ont écrites, chacun des avocats qui a représenté l’appelante pendant les années en cause a clairement décrit les frais judiciaires comme des frais ayant uniquement trait à la poursuite intentée par Me Neff[4].
+III. LES THÈSES DES PARTIES
+A. La thèse de l’appelante
+[11] L’appelante se fonde sur le paragraphe 8(1) et l’alinéa 18(1)a) de la Loi de l’impôt sur le revenu (du Canada) (la « Loi »). Elle fait valoir qu’elle a payé les frais judiciaires en cause
+[traduction]
+en vue de tirer un revenu de ses biens de location et afin de conserver son permis de pratiquer la médecine, qui l’habilite à tirer un revenu de l’exercice de la médecine[5].
+[12] L’appelante est d’avis que Me Neff a intenté des poursuites contre elle par suite de propos qu’elle a tenus au cours de la procédure d’arbitrage ainsi que dans le contexte de la procédure de contrôle judiciaire qui en a découlé, eu égard à ses activités de location. Par conséquent, l’appelante fait valoir que les frais judiciaires en cause étaient déductibles vu qu’elle les a payés en vue de gagner un revenu de location.
+[13] L’appelante soutient également qu’elle a été contrainte à se défendre de la poursuite intentée contre elle par Me Neff parce que, dans le cas contraire, le Collège des médecins aurait pu rendre une conclusion défavorable à son endroit en se fondant sur cette poursuite, et elle aurait pu se voir retirer son permis de pratiquer la médecine. Elle affirme que, dans ses démêlés avec Me Neff, elle avait pour but de
+[…] conserver [s]on permis d’exercice de la médecine et de tirer un revenu de la pratique de la médecine. […][6]
+Autrement dit, l’appelante soutient que les frais judiciaires en cause étaient déductibles, parce qu’elle les a payés dans le contexte de l’exercice de sa profession de médecin.
+[14] L’appelante cite également l’alinéa 18a)(i) de la Loi pour appuyer sa demande de déductions à l’égard de certains frais judiciaires qu’elle a payés d’avance[7].
+[15] L’appelante cite la décision Mercille c. La Reine[8]. Elle fait valoir que les faits de sa cause se distinguent de ceux qui prévalaient dans la décision Leduc c. La Reine[9], et ressemblent davantage à ceux des décisions Vango c. Canada[10] et Mercille. Pour finir, elle cite l’arrêt 65302 British Columbia Ltd. v. Canada[11] à l’appui de sa thèse selon laquelle des dépenses seront déductibles si elles ont été engagées ou effectuées en vue de gagner un revenu, à moins que la Loi n’en dispose autrement.
+B. La thèse de l’intimée
+[16] L’intimée soutient que les frais judiciaires en cause découlaient des gestes posés personnellement par l’appelante et qu’il ne s’agissait pas de dépenses d’entreprise, mais, plutôt, de dépenses personnelles.
+[17] L’intimée prétend que, dans la mesure où l’appelante a payé les frais judiciaires en cause en vue de défendre sa réputation professionnelle, il s’agissait de frais à titre de capital, lesquels ne sont pas déductibles, en application de l’alinéa 18(1)b) de la Loi.
+[18] À titre subsidiaire, l’intimée fait valoir que, si les frais judiciaires en cause sont déductibles à titre de dépenses courantes, ces frais ne sont que de 19 190,94 $.
+IV. LA QUESTION EN LITIGE
+[19] En l’espèce, la principale question en litige est de savoir si les frais judiciaires en cause sont déductibles à titre de dépenses d’entreprise courantes ou de frais d’exploitation d’un bien. Si ces frais judiciaires s’avèrent déductibles, le montant de ces frais est également en litige, tout comme la question de savoir s’ils sont déductibles au titre du revenu ou du capital.
+V. ANALYSE
+[20] Aux termes du paragraphe 9(1) de la Loi, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année est « le bénéfice qu’il en tire pour cette année ». Dans l’arrêt Symes c. Canada[12], le juge Iacobucci a donné l’explication suivante :
+[…] le concept de « bénéfice » au par. 9(1) est en soi un résultat net qui présuppose des déductions de dépenses d’entreprise. Il est maintenant généralement reconnu que c’est le par. 9(1) qui autorise la déduction des dépenses d’entreprise […][13]
+[Souligné dans l’original.]
+Ainsi, de manière générale, la Loi autorise la déduction des dépenses faites au cours d’une année en vue de tirer un revenu d’une entreprise ou d’un bien.
+[21] Cependant, certaines dispositions de la Loi limitent la déductibilité de certaines dépenses :
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[…]
+[22] Pour définir l’objet sous-jacent des dépenses, l’intention subjective du contribuable au moment de payer les frais n’est pas déterminante. Les tribunaux doivent plutôt examiner comment l’objet se manifeste objectivement, en tenant compte de toutes les circonstances[14].
+[23] Dans ses observations écrites, l’appelante s’est fondée sur le paragraphe 8(1) de la Loi, qui porte sur la déductibilité de certains éléments dans le calcul du revenu d’un contribuable tiré d’une charge ou d’un emploi. Il est clair que l’appelante s’est fourvoyée en se fondant sur cette disposition – en général, ses observations portaient sur la question de la déductibilité des frais judiciaires en litige dans le calcul de son revenu tiré d’une entreprise ou d’un bien, et elle a apparemment produit ses déclarations de revenus en partant du principe que ces frais étaient déductibles dans le calcul d’un tel revenu. En outre, seules certaines catégories de dépenses énumérées dans la Loi sont déductibles dans le calcul du revenu tiré d’un emploi (alors que, en général, les dépenses d’entreprise sont déductibles à moins que la Loi n’en dispose autrement, comme il a déjà été mentionné). Le paragraphe 8(1) n’appuie en rien la thèse de l’appelante.
+[24] L’appelante cite également l’alinéa 18(9)a) de la Loi relativement à certaines sommes qu’elle a payées d’avance à un de ses avocats pendant la période en cause. L’alinéa 18(9)a) permet généralement de refuser la déductibilité de certaines sommes payées d’avance qui seraient par ailleurs déductibles. Par conséquent, l’alinéa 18(9)a) n’est pas pertinent en l’espèce, à moins qu’il ne soit établi que les sommes en cause sont par ailleurs déductibles.
+[25] En application du paragraphe 9(1) et des alinéas 18(1)a), b) et h) de la Loi, les frais judiciaires en cause ne sont déductibles que dans les cas suivants : i) ils ont été payés par l’appelante en vue de tirer un revenu de l’entreprise ou du bien, ii) ils n’étaient pas une dépense en capital, iii) il ne s’agissait pas de frais personnels de l’appelante.
+[26] Dans la décision Leduc[15], la Cour a jugé que les frais judiciaires qu’un avocat avait payés pour se défendre contre des accusations relatives à diverses infractions sexuelles n’étaient pas déductibles. L’avocat soutenait que, s’il avait été condamné, il aurait pu être privé de son droit d’exercer sa profession. En concluant que les frais n’étaient pas déductibles, la juge Lamarre s’est ainsi exprimée :
+[21] […] en l’absence d’une preuve contraire, il semble que, s’il n’avait pas exercé le droit, l’appelant aurait néanmoins engagé les frais juridiques en vue de se défendre devant les tribunaux contre les accusations criminelles. Par conséquent, ces dépenses ne sont pas déductibles, conformément à l’alinéa 18(1)h) de la LIR. […]
+[22] Deuxièmement, je ne suis même pas convaincue que l’une des fins poursuivies lorsque ces frais juridiques ont été engagés était de permettre la réalisation d’un revenu. [...] De fait, l’appelant a témoigné qu’au cours de la période où les frais juridiques avaient été engagés, sa capacité de tirer un revenu de la profession d’avocat n’a pas du tout été touchée. Au contraire, il a continué à exercer sa profession avec succès. Il n’était pas nécessaire d’engager les frais juridiques afin de s’attendre à gagner un revenu, étant donné que l’appelant tirait déjà un revenu de l’exercice de sa profession.
+[27] La juge Lamarre a ensuite décrit le lien qui doit exister, en pareilles circonstances, entre l’entreprise et les frais judiciaires pour que ces derniers soient déductibles :
+[26] On peut conclure à partir des décisions susmentionnées que si les activités qui ont mené aux accusations sont accomplies dans le cours normal des activités génératrices d’un revenu, toute dépense que le contribuable engage pour défendre ces activités résulte directement des activités elles‑mêmes et peut donc être déduite en vertu de l’alinéa 18(1)a) de la LIR. Par conséquent, c’est l’activité qui a entraîné les accusations et son lien à l’entreprise qui déterminent la déductibilité des frais juridiques associés à la défense.
+[28] Dans l’arrêt Poulin v. Canada[16], il était question d’un agent immobilier qui avait fait l’objet d’une action intentée par ses clients, qui alléguaient qu’il s’était rendu coupable de fraude et de fausses représentations. Cette procédure s’était soldée par un jugement par lequel l’agent immobilier a été condamné à payer des dommages-intérêts, des intérêts et des dépens. L’agent immobilier a cherché à déduire de son revenu diverses dépenses qu’il avait effectuées dans le contexte de la procédure, notamment le montant des dommages‑intérêts qu’il avait été condamné à payer et ses frais judiciaires. La Cour d’appel fédérale a statué que les dépenses n’étaient pas déductibles. Le juge Marceau s’est ainsi exprimé :
+[8] […] Pour qu’un tel paiement, qui en lui-même, bien sûr, ne vise pas à réaliser un profit, soit néanmoins considéré comme répondant à l’exigence de l’alinéa 18(1)a) de la Loi, il faut qu’il soit vu comme la conséquence malheureuse d’un risque que le contribuable devait prendre et assumer pour exercer son métier ou sa profession. Et pour que le paiement soit ainsi vu, une condition essentielle, je pense, est qu’il se rattache directement à un acte qu’impliquait l’exercice du métier ou de la profession et pouvait être éventuellement jugé avoir été accompli de façon fautive.
+[29] Dans la décision Doiron c. La Reine[17], il était question d’un avocat qui avait fait l’objet d’accusations criminelles après avoir prétendument payé des pots‑de‑vin pour empêcher un client de témoigner contre une autre personne. Au terme de trois procès (le premier de ces procès s’était tenu en 2003), l’avocat en question a été déclaré coupable de tentative d’entrave à la justice et a été condamné à quatre ans et demi de prison. Le permis d’exercice de la profession d’avocat de Me Doiron a été suspendu en 2003. Dans ses déclarations de revenus pour 2004 et 2005, Me Doiron a demandé des déductions à l’égard des frais judiciaires qu’il avait payés pour se défendre, ainsi qu’à l’égard des intérêts connexes. Le ministre lui a refusé ces déductions. Le juge McArthur de la Cour a accueilli l’appel de Me Doiron pour les motifs suivants :
+[19] L’espèce est un cas limite. Si je soupèse les arguments et observations présentés avec compétence par les deux parties, je me prononce en faveur de l’appelant, en accordant le bénéfice du doute aux contribuables. […] Les frais juridiques engagés dans l’affaire Doiron découlent directement de l’exercice du droit par l’appelant et du fait qu’il a représenté monsieur Lefebvre et sans doute monsieur Cormier.
+[30] La Cour d’appel fédérale a infirmé cette décision. Le juge Noël a convenu avec le juge McArthur que l’intimé n’aurait pas déboursé les frais judiciaires en cause n’eût été du fait qu’il exerçait la profession d’avocat. Il a toutefois cité l’arrêt Symes à l’appui de sa proposition selon laquelle cet élément ne constituait pas un facteur pertinent pour trancher la question de la déductibilité des frais en cause[18]. Le juge Noël s’est ainsi exprimé :
+[48] Compte tenu de l’extrême gravité du geste reproché dans la perspective de quelqu’un qui agissait comme officier de la justice, des écoutes électroniques retenues en preuve contre l’intimé et des moyens qu’il a utilisés pour contrer cette preuve, M. Doiron n’a pas démontré comment il pouvait envisager retrouver son droit à la pratique même s’il avait réussi à faire exclure cette preuve et ainsi causé « l’effondrement de la cause […] par rapport à une infraction des plus grave » (R. c. Doiron, au paragraphe 112). À mon humble avis si le juge de la CCI s’était penché sur la preuve qui se dégage des procédures criminelles, il n’aurait pu faire autrement que de conclure que l’intimé ne s’est pas déchargé de son fardeau de démontrer le lien entre les honoraires juridiques et son entreprise.
+[31] Dans ses observations, l’appelante se fonde sur la décision Mercille. Dans cette décision, il était question d’un courtier en valeurs mobilières qui avait demandé à déduire de son revenu d’emploi certains frais judiciaires qu’il avait payés pour se défendre dans le contexte de procédures intentées devant le Comité de discipline de la Bourse de Montréal, le Comité des gouverneurs de la Bourse de Montréal et la Commission des valeurs mobilières du Québec, ainsi que dans le contexte de procédures criminelles intentées devant la Cour du Québec. Dans toutes ces procédures, il était question de certains actes que le contribuable avait prétendument commis dans le contexte de son emploi[19]. Le contribuable a affirmé que, s’il n’avait pas eu gain de cause dans ces procédures, il aurait perdu le droit d’exercer sa profession, de façon temporaire ou permanente. Finalement, le juge Archambault a conclu que le contribuable avait déboursé les frais judiciaires en cause pour gagner un revenu provenant d’un emploi et a autorisé le contribuable à les déduire de son revenu en application de l’alinéa 8(1)f) de la Loi.
+[32] L’appelante a également renvoyé la Cour à la décision Vango. Dans cette décision, le contribuable en cause était un conseiller en valeurs et un courtier en valeurs mobilières qui avait été accusé par la Bourse de Toronto d’avoir retiré des actions du compte d’un client sans autorisation. L’employeur du contribuable a informé ce dernier qu’il perdrait son emploi – et le contribuable a compris qu’il pourrait perdre son permis d’exercice – à moins que le libellé de l’infraction qu’on l’accusait d’avoir commise soit modifié de manière à en diminuer la gravité[20]. Par conséquent, le contribuable a déboursé des frais judiciaires afin de faire modifier le libellé de l’infraction. Il a finalement eu gain de cause. La Cour, s’exprimant par la voix du juge Bowman (tel était alors son titre), a conclu que les frais judiciaires étaient déductibles en application de l’alinéa 8(1)f).
+[33] Dans la décision Leduc, la juge Lamarre a distingué les faits dont elle était saisie de ceux qui prévalaient dans les décisions Mercille et Vango :
+[24] Il est possible de faire une distinction entre la présente affaire et les décisions rendues par la Cour dans les affaires Vango c. Canada, no 95‑440(IT)I, 30 juin 1995, [1995] A.C.I. no 659 (QL), et Mercille c. Canada, no 91‑2196(IT)G, 13 décembre 1999, [1999] A.C.I. no 941 (QL), qui ont été mentionnées par l’avocat de l’appelant. Dans ces affaires, les accusations auxquelles faisaient face les contribuables étaient directement liées à leur travail, en tant que conseiller en valeurs dans un cas et en tant que courtier en valeurs mobilières dans l’autre cas. Les accusations à l’égard desquelles ils avaient engagé les frais juridiques étaient directement liées à leurs fonctions. Dans l’affaire Vango, le contribuable risquait de perdre son permis. Il a été décidé dans les deux cas que les frais juridiques étaient déductibles à titre de dépenses d’emploi conformément à l’article 8 de la LIR. En l’espèce, les infractions criminelles dont l’appelant est accusé n’ont rien à voir avec l’exercice de sa profession d’avocat. Les frais juridiques que l’appelant a payés pour se défendre contre plusieurs accusations relatives à des infractions sexuelles n’étaient pas attribuables à ses activités professionnelles. Les actes à l’égard desquels une défense est élaborée ne se rapportent pas à l’entreprise de l’appelant.
+[34] Je suis d’avis que ces deux décisions sont conciliables. Les décisions Mercille et Vango donnent à penser que les frais judiciaires relatifs à des actes prétendument commis dans l’exercice d’activités professionnelles peuvent être déductibles dans certaines circonstances. Toutefois, la décision rendue par la Cour d’appel fédérale dans l’arrêt Poulin donne à penser que de tels frais doivent également être « la conséquence malheureuse d’un risque que le contribuable devait prendre et assumer pour exercer son métier ou sa profession ». De même, dans la décision Leduc, la Cour a laissé entendre que pour que tels frais judiciaires soient déductibles, ils doivent avoir été encourus dans le cours normal des activités génératrices de revenus, du contribuable, et ils doivent être « directement liés » à ces activités. Dans les décisions Mercille et Vango, les contribuables sont parvenus à montrer que les frais en cause étaient liés à leurs activités génératrices de revenus, parce que les mesures disciplinaires dont ils étaient passibles et à l’égard desquelles ils avaient présenté une défense étaient directement liées à leur travail.
+[35] La décision Leduc et l’arrêt Doiron donnent tous deux à entendre qu’il doit y avoir des preuves tangibles du lien existant entre les frais judiciaires en cause et l’activité professionnelle. Dans la décision Leduc, la Cour a refusé de conclure que les frais judiciaires en cause étaient déductibles, en partie parce que le contribuable avait continué de pratiquer le droit avec succès. Dans l’arrêt Doiron, la Cour d’appel fédérale a jugé que le contribuable n’avait pas établi qu’il existait un lien entre ses frais juridique et sa pratique du droit parce que, au vu de la preuve dont la Cour était saisie, il n’aurait pas pu espérer récupérer son permis d’exercice de la profession d’avocat.
+[36] En l’espèce, la décision rendue par la Cour suprême de la Colombie‑Britannique dans l’arrêt Neff v. Patry donne à entendre que la poursuite intentée par Me Neff n’était qu’accessoire aux activités de location de l’appelante. Cette dernière a rencontré Me Neff pour la première fois dans le contexte d’une procédure d’arbitrage liée à ses activités de location. Toutefois, la Cour suprême de la Colombie‑Britannique a conclu que le litige s’était transformé en une vendetta personnelle. Il ne conviendrait pas que je me prononce à l’encontre de cette conclusion, notamment vu que la preuve dont la Cour dispose en ce qui a trait au litige qui a opposé l’appelante à Me Neff est relativement succincte. Par conséquent, je suis d’avis que l’appelante n’est pas parvenue à établir que la poursuite intentée par Me Neff était directement liée à ses activités de location.
+[37] De même, je suis d’avis que l’appelante n’est pas parvenue à établir qu’il existait davantage qu’un lien accessoire entre la poursuite intentée par Me Neff et l’exercice de sa profession de médecin. Il est raisonnable de conclure que l’appelante se serait défendue de la poursuite intentée contre elle par Me Neff même si sa capacité à pratiquer la médecine ne s’en était pas trouvée menacée. En outre, l’appelante n’est pas parvenue à fournir suffisamment d’éléments de preuve pour établir que son droit de pratiquer la médecine s’était véritablement trouvé menacé par suite de la poursuite intentée par Me Neff. Cette poursuite n’aurait pas pu tourner plus mal en ce qui concerne la capacité de l’appelante à continuer d’exercer la médecine. Pourtant, elle a continué d’exercer sa profession. Par conséquent, dans le droit fil de la décision Leduc et de l’arrêt Doiron, je conclus que les frais judiciaires en cause ne sont pas déductibles au motif que, comme le prétendait l’appelante, elle les avait payés dans l’exercice de sa profession de médecin.
+[38] L’appelante prétend que les faits qui la concernent ressemblent davantage aux faits des décisions Mercille et Vango qu’à ceux de la décision Leduc. Toutefois, la preuve montre que Me Neff n’a pas intenté de poursuite à l’encontre de l’appelante par suite d’actes que celle‑ci aurait commis dans le cours normal de l’exercice de sa profession de médecin. Me Neff n’était pas un patient de l’appelante. Il l’a poursuivie du fait des mesures qu’elle avait prises contre lui à titre personnel.
+[39] Compte tenu de ce qui précède, je conclus que l’appelante n’a pas déboursé les frais judiciaires en cause en vue de tirer un revenu d’une entreprise ou d’un bien. Au lieu de cela, la preuve montre que ces frais étaient des dépenses personnelles de l’appelante. Par conséquent, ils ne sont pas déductibles. Pour l’ensemble de ces motifs, l’appel de l’appelante est rejeté.
+Signé à Ottawa (Ontario), ce 27e jour de mai 2013.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 4e jour de juillet 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 107
+NO DU DOSSIER DE LA COUR : 2009-26(IT)I
+INTITULÉ : Linda Ruth Kelso Patry c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 18 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 27 mai 2013
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Holly Popenia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Neff v. Patry, [2008] B.C.J. No. 209 (QL).
+[2] Ibid.
+[3] Observations écrites de l’appelante, sous l’onglet 3, de la première à la troisième page.
+[4] Des copies de lettres écrites par les deux avocats en questions figurent dans les observations écrites de l’appelante, sous les onglets 10(A), (B) et (C).
+[5] Observations écrites de l’appelante, sous l’onglet 3, à la première page. Voir également les observations écrites de l’appelante, sous l’onglet 5, à la première page; sous l’onglet 5, à la troisième page, sous l’onglet 6, à la première page; sous l’onglet 7, de la première à la troisième page.
+[6] Observations écrites de l’appelante, sous l’onglet 5, à la première page.
+[7] Observations écrites de l’appelante, sous l’onglet 7, de la deuxième à la troisième page.
+[8] [1999] ACI no 941 (QL).
+[9] 2005 CCI 96.
+[10] [1995] A.C.I. no 659 (QL).
+[11] [1999] 3 R.C.S. 804.
+[12] [1993] 4 R.C.S. 695.
+[13] Ibid., à la page 722.
+[14] Supra, note 12, au paragraphe 68.
+[15] Supra, note 10.
+[16] [1996] A.C.F. no 960 (QL).
+[17] 2010 CCI 519, infirmée par 2012 CAF 71.
+[18] 2012 CAF 71, au paragraphe 32.
+[19] Supra, note 8, aux paragraphes 6 à 9.
+[20] Supra, note 9, au paragraphe 9.

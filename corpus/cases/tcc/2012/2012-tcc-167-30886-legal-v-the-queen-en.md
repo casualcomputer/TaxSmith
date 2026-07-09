@@ -1,0 +1,164 @@
+---
+title: "Legal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30886/index.do"
+last_modified: "2012-05-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 167"
+citation2: ""
+neutral_citation: "2012 TCC 167"
+decision_date: "2012-05-16"
+language: "en"
+item_id: "30886"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7445
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:25:24.484000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bfbcc4d0704276e9d4fd569fdcca31537a30a8db84364ab117b9377006e7fe27"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Legal v. The Queen
+
+- Citation: 2012 TCC 167
+- Decision date: 2012-05-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7445, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Legal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-16
+Neutral citation
+2012 TCC 167
+File numbers
+2011-3464(EA)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Excise Act, 2001
+Decision Content
+Docket: 2011-3464(EA)I
+BETWEEN:
+LISE A. LEGAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 13, 2012 at Winnipeg, Manitoba
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles Camirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of excise duty made under the Excise Act, 2001, S.C. 2002, c.22 for the period from January 1, 2007 to December 31, 2008 is dismissed, without costs, in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 16th day of May 2012.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2012 TCC 167
+Date: 20120516
+Docket: 2011-3464(EA)I
+BETWEEN:
+LISE A. LEGAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Minister of National Revenue (the “Minister”) assessed the Appellant under the Excise Act, 2001, S.C. 2002, c.22 (the “Act”).
+[2] The Appellant held a tobacco licence under the Act and manufactured tobacco products from raw tobacco acquired in dry leaf bales from Canadian organic tobacco growers. As a licensed manufacturer, the Appellant is liable under the Act to pay duty on such products at the time they are packaged.
+[3] The tobacco products that are the subject of this appeal are asserted to have been offered for sale to customers in packages of 13 and 36 grams each. Her customer base was First Nations people. The tobacco processed was used for ceremonial purposes.
+[4] As a result of changes to the Act or more particularly to the rate schedule introduced in July 2008 the duty was $2.8925 per 50 grams or fraction of 50 grams contained in any package. Under such a rate schedule, a 13 gram package and a 36 gram package were each subject to a flat rate duty of $2.8925 which meant that the duty was much higher on a per gram basis for smaller packaging.
+[5] For the three-month period commencing October 2008 through December 2008 the Appellant calculated the duty owing by notionally combining packages sold so that the $2.8925 duty was paid for 50 actual grams of tobacco sold regardless how they were packaged. The Minister’s assessment calculated the duty owing during this period on the basis that each 13 gram package and each 36 gram package was subject to duty at the rate of $2.8925.
+[6] The relevant provisions of the Act and the Stamping and Marking of Tobacco Products Regulations, SOR/2003-288 (the “Regulations”) are as follows:
+2. The definitions in this section apply in this Act
+“packaged” means
+(a) in respect of raw leaf tobacco or a tobacco product, packaged in a prescribed package; or
+(b) in respect of alcohol, packaged
+(i) in a container of a capacity of not more than 100 L that is ordinarily sold to consumers without the alcohol being repackaged, or
+(ii) in a marked special container.
+42.(1) Duty is imposed on tobacco products manufactured in Canada or imported and on imported raw leaf tobacco at the rates set out in Schedule 1 and is payable
+(a) in the case of tobacco products manufactured in Canada, by the tobacco licensee who manufactured the tobacco products, at the time they are packaged; and
+…
+Schedule 1 Rates of Duty on Tobacco Products
+3. Manufactured tobacco other than cigarettes and tobacco sticks:
+(a) …
+(b) $2.8925 per 50 grams or fraction of 50 grams contained in any package, in any other case.
+Stamping and Marking of Tobacco Products Regulations
+Prescribed Package
+2. For the purpose of paragraph (a) of the definition “packaged” in section 2 of the Act,
+(a) raw leaf tobacco is packaged in a prescribed package when it is formed into a hand for sale or when a hand of raw leaf tobacco or broken portions of the leaf are packed for sale; and
+(b) a tobacco product is packaged in a prescribed package when it is packaged in the smallest package – including any outer wrapping that is customarily displayed to the consumer – in which it is normally offered for sale to the general public.
+Stamps
+4.(1) Subject to subsection (5), every package of the following tobacco products shall be stamped, in a conspicuous place and in a manner that seals the package, with the stamp set out in the applicable schedule, in accordance with the specifications set out in that schedule:
+…
+(c) in the case of a package of manufactured tobacco, other than cigarettes or tobacco sticks, a stamp set out in Schedule 3.
+[7] There is no dispute that the Appellant falls within the charging provision set out in section 42 of the Act. That is, she acknowledges she is a tobacco licensee who manufactured tobacco products in Canada and is liable to pay duty at a prescribed rate at the time such products are packaged. There is no dispute that the applicable rate of duty is as stipulated in paragraph 3(b) of Schedule 1 as reproduced above.
+[8] The main issue in this appeal as argued by the Appellant is whether the provisions as they came into effect for the subject period were meant to (or should) apply to the type of product manufactured and sold by her or to the type of business in which she is engaged. The Appellant makes a strong case that that could not possibly have been the intent of the statutory regime as amended and asks the Court to read down the express language of the Act and Regulations so as to permit her to prorate the $2.8925 per 50 grams on a per gram basis. As it was proposed to the Court, the duty payable should be the total grams sold, per order, divided by 50, multiplied by the duty rate.
+[9] As well, a further issue was raised at the hearing. Notwithstanding that the Appellant initially accepted that the packages in question were in fact 13 gram and 36 gram packages as illustrated in packages tendered at the hearing, she pointed out via her sales records that almost all of her sales, on a per order basis, were for a number of packages the aggregate weight of which was over 50 grams. Such sales would be packaged by placing several 13 gram or 36 gram packages together in one delivery package, typically a box. Finding the delivery package to be the relevant package, would reduce her liability.
+[10] In fact, since the assessment issue arose, the Appellant has modified her packaging approach. She now shrink wraps four individual 12.5 gram boxes in one package that are priced and sold together. She affixes one duty paid stamp to this larger package so the smaller packages inside cannot be sold separately. Formerly, she attached a duty paid stamp to each 13 gram or 36 gram package and they could be sold separately regardless of how they were packaged for delivery.
+[11] Under her new packaging approach she pays the $2.8925 duty on the 50 grams of tobacco sold. But for the duty paid stamping, this approach does not, practically speaking, vary too much from a delivery perspective from that employed under her old approach. The Canada Revenue Agency has apparently blessed this approach. That is the result she wants applied to her old packaging approach.
+[12] While this position makes sense, the applicable provisions as written allow me no room to accommodate it. The time when the duty is imposed under section 42 of the Act is when the tobacco is packaged and “packaged” is defined in section 2 as “packaged in a prescribed package”. The stamping regulations as set out above make it clear that the relevant package is “the smallest package – including outer wrapping that is customarily displayed to the consumer – in which it is normally offered for sale to the general public”.
+[13] The smallest packages offered for sale to the general public were the 13 and 36 ounce packages. That they were later packed in a larger package for delivery purposes does not address the requirement to focus on the time the tobacco product was first packaged. As such, this argument had no legs.
+[14] Aside from this argument, the Appellant admitted that the relevant package during the subject period was the 13 gram package or 36 gram package, each wrapped to be displayed, marketed and sold to her customers as such. Indeed, that was her main issue: either her prices had to go up if she continued her original packaging approach to reflect the higher duty or she had to package and sell in larger quantities. Either way her business was being adversely affected by what she asserted was essentially bad policy at least in the circumstances of her particular business.
+[15] She suggested that if the policy was to discourage small tobacco packaging by, for example, making tobacco less accessible, then the one area where that might make sense would be in respect of cigarette sales, but due to effective tobacco industry lobbying that sector was not made subject to this new duty regime.
+[16] She may have a point given that her tobacco products are, as I will elaborate on momentarily, only intended for ceremonial use by First Nations people. I am not in a position to say one way or another, but, regardless, lobbying this Court for her vision of a fairer, more sensible approach to levy excise taxes on her tobacco products will not give her satisfaction. The lobby must be directed at Parliament.
+[17] Having identified the Appellant’s main argument which was whether the provisions as they came into effect for the subject period were meant to apply (or in reason should be read as applying) to the type of product manufactured and sold by her or to the type of business in which she is engaged, it is necessary for me to say more about the tobacco product she manufactures and her business.
+[18] The Appellant’s business operates as “Mother Earth Tobacco” in Portage la Prairie, Manitoba. During the relevant period it was operated as a sole proprietorship. Currently, however, it is operated in partnership with Ms. Bullard who was identified as a Dakota woman knowledgeable in the process of manufacturing ceremonial tobacco used in a manner associated with the rituals of her people. Although she has only more recently been in partnership with the Appellant, she has been involved in the business since its inception in 2005 and had personal knowledge of all aspects of its operations since its inception. She was said to be knowledgeable of the meaning and integrity of the work as well as the processing requirements for the manufacture of ceremonial tobacco. She appeared as a witness on behalf of the Appellant.
+[19] She explained that ceremonial tobacco was not a product for habitual use. It was considered by aboriginal people as one of four sacred medicines and was used as a ceremonial offering by the community Mother Earth Tobacco served.
+[20] She explained that the original packaging size of 36 ounces was too large considering its use and customers requested smaller packaging sizes. The 13 gram package became more successful. It became the bulk of their business. At a selling price of some $12.00 a package it was more affordable to the low income customers being served by the Appellant’s on-reserve retail buyers.[1] Under the new regime, a package of four boxes, which could not be sold separately, would cost buyers over $50.00 which was less viable in the market they served in terms of both quantity needed and the price that had to be paid.
+[21] While the new packaging approach resolved a pricing issue caused by the new duty regime, it too had a negative impact on sales given the realities of the quantity needs and price point requirements necessary to satisfy the ceremonial users of the product.
+[22] Essentially what is being pleaded is that the subject duty provision in Schedule 1 of the Act is taxing tobacco that has never been manufactured and to add insult to injury that onerous concept is being thrust on aboriginal peoples’ sacred rituals in the course of their practising their religious and spiritual beliefs all because they require packaging in culturally appropriate quantities. As further insult, the cigarette tobacco sector has successfully lobbied out of this regime. The Appellant asks: Hello? Why isn’t anybody listening?
+[23] I hear and understand the plea. And as I said earlier in these Reasons, the Appellant makes a strong case that that could not possibly have been the intent of a reasoned statutory regime. However, her request, based on that possibility and the apparent unfairness of the impact of this regime, that I read down or reconstruct the regime as imposed by our parliamentary system, cannot be accommodated given the limited jurisdiction of this Court and my ignorance of what answers to the Appellant’s concerns might be given by other stakeholders including government policy makers.[2]
+[24] I have no hesitation, however, in recommending that the policy of this taxing regime be revisited and any necessary amendments be considered. Indeed, if the Appellant’s pleas are as worthy as she makes them out to be, a remission order might even be considered.
+[25] Regardless, the appeal must fail. The duty as assessed is the duty payable under the relevant terms of the Act. The appeal is dismissed, without costs.
+Signed at Ottawa, Canada this 16th day of May 2012.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2012 TCC 167
+COURT FILE NO.: 2011-3464(EA)I
+STYLE OF CAUSE: LISE A. LEGAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: April 13, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: May 16, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Charles Camirand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It was also acknowledged that other buyers, including First Nation organizations and government operated institutions such as correctional facilities, would be less price sensitive. With respect to the pricing issue, it is noted that adding the new duty to a 13 gram package would increase the price of the product by some 25%. Adding the new duty to a 50 gram package would increase the price of the product by some 6%. The duty rate is considerably higher for the smaller quantity, often lower income, buyer.
+[2] For that matter, as compelling and logical as her unchallenged evidence was, it may be presumptuous of her or me to assume she speaks for the First Nations people in Canada who might, for example, seek far more accommodation than that being asked for here. On this point, the Appellant suggested there was a duty to consult before Parliament imposed an unfair duty rate on the customary use and packaging sizes of ceremonial tobacco. That, in turn, suggests that it constituted an infringement of an Aboriginal right to access and use ceremonial tobacco. That claim, if it had merit, would more properly be brought by the First Nations who use the tobacco, not the commercial manufacturer of the product.

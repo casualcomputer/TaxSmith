@@ -1,0 +1,107 @@
+Title: Portland Hotel Society v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26758/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-64-26758-portland-hotel-society-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-01-19
+
+# Portland Hotel Society v. The Queen
+
+- Citation: 2004 CCI 64
+- Decision date: 2004-01-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3504, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Portland Hotel Society v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-19
+Référence neutre
+2004 CCI 64
+Numéro de dossier
+2003-909(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-909(IT)I
+ENTRE :
+PORTLAND HOTEL SOCIETY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 août 2003 à Vancouver (Colombie-Britannique)
+Par : L'honorable juge M. A. Mogan
+Comparutions :
+Représentant de l'appelante :
+Brad Doherty
+Avocat de l'intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de une ou de plusieurs cotisations établies en vertu des paragraphes 153(1), 227(9) et 227(10.1) de la Loi de l'impôt sur le revenu est rejeté. Cependant, eu égard au statut d'organisme sans but lucratif de la société appelante, il est recommandé que le ministre du Revenu national fasse preuve de considération dans l'exercice de son pouvoir discrétionnaire conféré par le paragraphe 220(3.1) de la Loi et renonce à tout intérêt et à toute pénalité afférents à la ou auxdites cotisations.
+Signé à Ottawa, Canada, ce 29e jour d'août 2003.
+« M. A. Mogan »
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI64
+Date : 20040119
+Dossier : 2003-909(IT)I
+ENTRE :
+PORTLAND HOTEL SOCIETY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l'appelante : Brad Doherty
+Avocat de l'intimée : Me Raj Grewal
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Vancouver (Colombie-Britannique), le 14 août 2003.)
+Le juge Mogan
+[1] Il s'agit d'un appel interjeté par la Portland Hotel Society à l'encontre d'une cotisation établie par le ministre du Revenu national en vertu du paragraphe 227(10.1) de la Loi de l'impôt sur le revenu, portant sur des pénalités relatives à des retenues à la source payées en retard. L'appelante a interjeté appel à l'encontre de ladite cotisation et a choisi pour ce faire la procédure informelle.
+[2] La Portland Hotel Society est une société sans but lucratif, qui fournit des logements sociaux dans la Ville de Vancouver. Elle gère 500 unités de logements pour des gens qui autrement n'auraient pas de logement. Ces personnes sont souvent désignées comme les membres les plus pauvres de la société. Le contrôleur de gestion de la société appelante, Brad Doherty, a témoigné. Il a expliqué que l'appelante gère cinq immeubles fournissant 500 logements à des personnes qui autrement n'auraient pas les moyens de se loger. La société dirige aussi quatre programmes destinés à aider ces gens à devenir des membres productifs de la société, dans l'espoir qu'à long terme ils soient en mesure de quitter les logements sociaux et soient capables d'obtenir un logement dans le cadre du marché commercial ordinaire.
+[3] Vers l'année 2000 ou 2001, la société appelante a été autorisée à acquérir deux immeubles supplémentaires, pouvant être rénovés, pour fournir des logements additionnels. Ces immeubles sont désignés comme le Pennsylvania Hotel et le Stanley Hotel. M. Doherty a déclaré que ces hôtels avaient une clientèle difficile et qu'ils étaient, notamment, la scène de nombreuses bagarres; de plus, ils étaient occupés par des personnes porteuses du VIH et d'autres maladies semblables dont souffrent les pauvres et les sans-abri.
+[4] Après avoir fait l'acquisition de ces deux vieux immeubles, le Pennsylvania Hotel et le Stanley Hotel, l'appelante devait les rénover avant qu'ils ne puissent être occupés en tant que logements sociaux. Cependant, avant qu'ils ne puissent être rénovés, l'appelante s'est vue surprise au milieu d'une compression budgétaire causée par les élections provinciales de la province de la Colombie-Britannique.
+[5] Comme l'ont rapporté les médias, il y a eu une élection significative en Colombie-Britannique, en 2002 ou tard dans l'année 2001, lors de laquelle un nouveau gouvernement a été élu sur la promesse d'effectuer une réduction des dépenses et de changer la manière dont la province était régie. Aussitôt que le nouveau gouvernement a pris le pouvoir, il a pris des mesures pour diminuer les dépenses. L'appelante s'est retrouvée au milieu de modifications de la politique gouvernementale. L'appelante avait fait l'acquisition des immeubles dans l'expectative de recevoir des fonds pour les rénover, mais les fonds n'arrivaient pas, alors que la province et la Ville de Vancouver entreprenaient la réorganisation des bureaux d'assistance sociales.
+[6] L'appelante a dû engager des dépenses considérables pour entretenir ces immeubles, en matière d'assurance, d'impôts municipaux, de coûts de sécurité et d'autres services d'entretien, sans être en mesure de les faire occuper. Cela a mis l'appelante dans une situation financière très difficile. Elle recevait régulièrement des fonds d'exploitation mais devait les engager dans les cinq autres immeubles occupés, dont les 500 logements étaient occupés et reflétaient le caractère social de la société.
+[7] En conséquence, l'appelante a remis en retard les retenues à la source afférentes au livre de paie de ses employés. Ces paiements en retard ont eu lieu dans la dernière moitié de l'année civile 2002. Selon la Réponse à l'avis d'appel, on n'a pas prescrit de pénalité dans le cadre du premier paiement tardif qui n'avait que quelques jours de retard. Mais, pendant les six derniers mois de 2002, l'appelante a été en retard sept fois, d'habitude seulement de quelques jours, dans le paiement des retenues à la source. Ainsi, ils ont été pénalisés par l'Agence des douanes et du revenu du Canada par rapport à ces versements tardifs.
+[8] M. Doherty a produit la pièce A-1 où figure un aperçu des pénalités imposées. On y voit que, du 21 août 2002 au 12 décembre 2002, ils ont effectué sept paiements en retard et que chaque retard a été pénalisé. La somme des sept pénalités, plus un petit montant inférieur à 1 000 $ pour les intérêts, s'élevait à un total de 19 955 $, bien que le présent appel ne concerne directement que deux montants, soit les deux premières pénalités : une de 2 942 $ datée du 21 août 2002 et une de 3 007 $, datée du 6 septembre 2002.
+[9] Fondamentalement, comme l'avocat de l'intimée l'a signalé, l'appelante invoque devant cette Cour des raisons d'ordre humanitaire. Il s'agit d'une société sans but lucratif qui dépend entièrement des pouvoirs publics, notamment de la province de la Colombie-Britannique, de la Ville de Vancouver ou d'autres municipalités, qui fournissent des fonds à l'appelante pour qu'elle puisse s'acquitter de sa mission de fournir des logements sociaux.
+[10] L'appelante se trouve face à la structure de la Loi de l'impôt sur le revenu, qui est une loi sans émotions. Les dispositions suivantes de ladite Loi sont pertinentes. Le paragraphe 153(1) énonce en partie ceci :
+153(1) Toute personne qui verse au cours d'une année d'imposition l'un des montants suivants :
+a) un traitement, un salaire ou autre rémunération, [...]
+doit en déduire ou en retenir la somme fixée selon les modalités réglementaires et doit, au moment fixé par règlement, remettre cette somme au receveur général [...]
+Voilà l'obligation élémentaire de tout employeur de retenir des salaires et traitements, une proportion conforme d'impôt sur le revenu. Le paragraphe 227(9) prévoit une pénalité dont voici la formulation pertinente :
+227(9) [...] toute personne qui ne remet pas ou ne paye pas au cours d'une année civile, de la manière et dans le délai prévus à la présente loi [...] un montant déduit ou retenu conformément à la présente loi [...] est passible d'une pénalité :
+a) soit de 10 % sur ce montant; ...
+Voilà la pénalité de 10 p. 100 qui a été imposée à la société appelante. Le paragraphe 227(9.4) prévoit ceci :
+227(9.4) La personne qui ne remet pas, de la manière et dans le délai prévus à la présente loi [...] doit payer, au nom de cette autre personne, à titre d'impôt en vertu de la présente loi, le montant ainsi déduit ou retenu.
+Maintenant, cette dernière disposition est importante parce que, dans le cadre général de l'emploi au Canada, l'impôt de l'employé est retenu à la source et l'employé ne reçoit jamais ce montant. Ce qui veut dire que, dans le cas d'une personne qui normalement gagne un salaire de 1 000 $ par semaine, on peut retenir un montant de 150 $, de manière à ce que la personne ne reçoive que 850 $. Le montant d'impôt retenu de 150 $ est censé être versé par l'employeur à Revenu Canada. Cependant, si l'employeur ne le fait pas, alors l'employeur en est responsable et non pas l'employé. Cela serait injuste que de s'adresser à l'employé pour lui demander de payer les 150 $ alors qu'il ou elle ne les a jamais reçus.
+[11] Voilà la manière dont la Loi déplace la responsabilité de l'employé à l'employeur quant aux sommes qui sont retenues, mais non pas remises. Pour que la responsabilité soit effective et pour permettre au ministre de percevoir les sommes de l'employeur, il y a une disposition supplémentaire au paragraphe 227(10.1) qui est formulée ainsi :
+227(10.1) Le ministre peut, en tout temps, établir une cotisation :
+a) pour un montant payable [...] en vertu [...] des paragraphes (9) [...]
+Si le ministre envoie un avis de cotisation à la personne, [...]
+Et alors, les dispositions d'appel sont formulées. Il s'agit du type de cotisation que le ministre a établi à l'égard de l'appelante pour lui demander de payer une pénalité en vertu du paragraphe 227(9) par rapport au montant qui a été remise tardivement.
+[12] Il ne s'agit pas d'une affaire où l'on a omis de payer; il s'agit d'une affaire où l'on n'a pas payé dans le délai prescrit. Cependant, une pénalité a été imposée parce que les sommes retenues sont, en vertu d'une autre disposition de la Loi, présumées être détenues en fiducie. Cela veut dire que, le jour de paye, l'employeur est tenu de payer le montant total du salaire ou du traitement à son employé. Dans l'exemple mentionné ci-dessus, le jour de paye, la personne qui gagne 1 000 $ par semaine est en droit de recevoir 1 000 $. Cependant, la Loi fait obstacle au droit de l'employé de recevoir la totalité de son salaire et prévoit que, non, vous pourriez ne pas recevoir tout votre salaire parce que nous obligeons votre employeur à retenir et à nous remettre une proportion de votre salaire. En d'autres termes, nous allons percevoir vos impôts à partir de votre salaire tout au long de l'année.
+[13] Voilà le mécanisme et, du point de vue pratique, il s'agit du seul qui puisse fonctionner. Les obligations de retenir sont rigides, et celles de remettre les sommes sont également rigides. La pénalité prévue au paragraphe 227(9) est prescrite par la loi, et la Cour n'a pas la compétence de réduire cette pénalité ou de l'annuler, parce qu'elle est imposée par le législateur. Si l'on satisfait aux conditions qui déclenchent l'application de la pénalité (versement tardif), alors l'obligation est établie. Puis, si le ministre impose une pénalité en établissant une cotisation en vertu du paragraphe 227(10.1), alors la présente Cour n'a pas la compétence d'écarter la pénalité pour des raisons d'ordre humanitaire. Par conséquent, puisque l'appel invoque principalement des raisons humanitaires, il doit être rejeté.
+[14] Je voudrais ajouter la présente remarque aux présents motifs du jugement. En vertu du paragraphe 220(3.1) de la Loi, le ministre possède le pouvoir discrétionnaire de renoncer ou d'annuler toute pénalité, intégralement ou en partie, exigible en vertu de la Loi. La Cour ne peut forcer le ministre à exercer son pouvoir discrétionnaire d'une façon ou d'une autre. Mais le ministre n'exercera pas son pouvoir discrétionnaire à moins que le contribuable n'en fasse une demande particulière, par écrit au ministre, en faisant référence au paragraphe 220(3.1) et en lui demandant de faire usage de son pouvoir discrétionnaire. Il me semble que, selon les circonstances du présent appel que je me vois obligé de rejeter, l'appelante a des motifs valables pour, au moins, faire une demande au ministre d'exercer son pouvoir discrétionnaire.
+Signé à Ottawa, Canada, ce 19e jour de janvier 2004.
+« M. A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 26e jour d'avril 2004.
+Ingrid B. Miranda, traductrice

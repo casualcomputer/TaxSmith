@@ -1,0 +1,159 @@
+---
+title: "Abootaleby-Pour v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99521/index.do"
+last_modified: "2014-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 343"
+citation2: ""
+neutral_citation: "2014 TCC 343"
+decision_date: "2014-11-18"
+language: "en"
+item_id: "99521"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5245
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:27:03.022000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c0473a30714147330cf54baf989dfb7bdda68088e5a0a5536129ccb2a1b38fc0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abootaleby-Pour v. The Queen
+
+- Citation: 2014 TCC 343
+- Decision date: 2014-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5245, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abootaleby-Pour v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-18
+Neutral citation
+2014 TCC 343
+File numbers
+2013-1779(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1779(IT)I
+BETWEEN:
+LADAN ABOOTALEBY-POUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 16, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2006, 2007 and 2008 taxation years are dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2014 TCC 343
+Date: 20141118
+Docket: 2013-1779(IT)I
+BETWEEN:
+LADAN ABOOTALEBY-POUR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Overview [1] The Appellant, Ladan Abootaleby-Pour, is appealing reassessments by which the Minister of National Revenue (the “Minister”) disallowed claims for charitable donations as follows:
+Taxation Year
+Donations Claimed
+Donations Disallowed
+2006
+$4,000
+$4,000
+2007
+$3,000
+$3,000
+2008
+$3,800
+$3,800
+[2] The Minister alleges that the Appellant purchased false charitable donation receipts from her accountants, Fareed Raza and Saheem Raza (the “Raza Brothers”). The Raza Brothers provided accounting and tax services under the trade names Fareed Raza & Co. Inc. and F & A Accounting Corporation (“FA”). The Raza Brothers were charged with fraud for making false statements on income tax returns prepared by them for their clients.
+[3] The onus of disproving the Minister’s assumptions was on the Appellant, except in respect of the reassessments for the 2006 and 2007 taxation years, which were made after the normal reassessment period referred to in subsection 152(4) of the Income Tax Act (the “Act”). With respect to those reassessments, the Respondent has the burden of establishing that the Appellant made a misrepresentation in the circumstances set out in subparagraph 152(4)(a)(i) of the Act.
+II. Factual Background [4] The Appellant immigrated to Canada in 1999. While working as a screener at the Vancouver International Airport she was introduced to FA by Khorshid Rasuli, a co‑worker and one of the appellants whose appeals were heard on common evidence presented by the Respondent.
+[5] The Appellant testified that she met Fareed Raza (“Mr. Raza”) in 2007 when she hired him to prepare her 2006 tax return. Mr. Raza allegedly introduced her to the Mehfuz Children Welfare Trust (the “Mehfuz Trust”) and was instrumental in her decision to gift funds to that organization. The Appellant testified that her returns were prepared by Saheem Raza for the 2007 and 2008 taxation years.
+[6] The Appellant admitted that the amounts she gave the Raza Brothers were less than the donations she claimed on her 2006 to 2008 tax returns. She estimated that she would give Mr. Raza about $600 to $800 three times a year as donations for the prior taxation year, although she appeared very hesitant and uncertain of her answer when questioned on this matter by counsel for the Respondent.
+[7] Ms. Jane Yang, an investigator with the enforcement division at the Vancouver Tax Services Office of the Canada Revenue Agency (the “CRA”), testified on behalf of the Respondent. In October of 2008, while attending an internal training session in Toronto, Ms. Yang learned that one of her colleagues in Toronto was having success in uncovering schemes used by tax preparers to sell forged charitable donation receipts to their clients.
+[8] On her return to Vancouver, Ms. Yang discovered that a number of clients of FA appeared to have made large donations to the Mehfuz Trust. The donation pattern appeared to be abnormal. The taxpayers were donating a significant portion of their net income to the Mehfuz Trust.
+[9] A criminal investigation was launched and a seizure was conducted at FA’s offices on July 14, 2010. The seized documents included receipts from the Mehfuz Trust, which Ms. Yang believed were forged, and Mr. Raza’s desk calendar. The calendar contained annotations that suggested that Mr. Raza was recording amounts that he was receiving in return for caregiver and donation receipts. Ms. Yang was able to establish that, in many cases, the amount indicated on the calendar alongside a client’s name represented from 8% to 11% of the amount claimed on the client’s return as a gift to the Mehfuz Trust. Ms. Yang also observed that the receipts for the Mehfuz Trust seized at the FA offices were different from the official receipts issued by the Mehfuz Trust.
+[10] As a result of her investigation, Ms. Yang concluded that the Raza Brothers had forged donation receipts totalling approximately $12,000,000. Ms. Yang estimated that this scheme resulted in a loss of tax revenue of approximately $4,700,000.
+[11] Mr. Mashud Miah, the chairman and founder of the Mehfuz Trust, also testified on behalf of the Respondent. Mr. Miah was born in Bangladesh and immigrated to Canada in 1985. In addition to his duties at the Mehfuz Trust from 2001 to 2009, Mr. Miah worked as a cleaner.
+[12] Mr. Miah explained that the Mehfuz Trust was named after his son, Mehfuz, who was born prematurely at a hospital in Vancouver. He believes that had his son been born prematurely in Bangladesh he likely would not have survived. In 1997, Mr. Miah was involved in two serious car accidents, and the treatment he received while in hospital again made him recognizant of the quality of health care services provided at Canadian hospitals. These events inspired him to establish the Mehfuz Trust in 2000-2001, with the assistance of Fareed Raza, as a vehicle to raise funds in Canada for the purpose of building and operating a medical clinic in Bangladesh. According to Mr. Miah, the clinic was built, and it offered health care to poor and handicapped children from 2003 to 2009. The clinic’s operations were abandoned in 2009 after the Mehfuz Trust became tainted by the controversy surrounding the actions of the Raza Brothers.
+[13] Mr. Miah alleges that in 2008 he discovered Saheem Raza forging charitable donation receipts of the Mehfuz Trust on entering Saheem’s office, which he was to clean as part of his cleaning services arrangement with FA. He testified that he saw Saheem signing his (Mr. Miah’s) name to a receipt. He subsequently saw forged receipts lying around the office. In the spring of 2008, after consulting with a lawyer, he reported to the CRA that he suspected that the Raza Brothers were forging charitable donation receipts in the name of the Mehfuz Trust. Mr. Miah testified that he stopped using FA’s accounting services in 2007 as a result of his suspicions of the Raza Brothers’ improprieties.
+III. Analysis [14] The Respondent presented common evidence in these appeals and the appeals of Jose Vekkal (2013-882(IT)I), Remmy Vekkal (2013-883(IT)I), Martin Izkendar (2013-220(IT)I), Ruben Nocon (2013-635(IT)I), Iraj Rasuli (2013-886(IT)I), Khorshid Rasuli (2013-887(IT)I), Azim Bani (2012-3541(IT)I), and Oleg Komarynsky (2013-3354(IT)I).
+[15] At the conclusion of the hearing of these appeals, an issue arose as to whether the evidence presented by the other eight appellants or obtained by the Respondent through the cross-examination of those appellants should form part of the Appellant’s appeals. I note that the case management judge did not deal with this matter in his order setting down the appeals for hearing. I also observe that the Appellant was not served with the pleadings in the other appeals and did not partake in the examination or cross-examination of the other appellants. Therefore, I will disregard the evidence of the other appellants for the purpose of deciding these appeals.
+[16] In any event, nothing turns on this matter as I did not find that evidence to be particularly relevant for the purpose of deciding these appeals.
+[17] The Appellant’s 2006 and 2007 taxation years were reassessed beyond the normal reassessment period. Therefore, the Respondent bears the onus of establishing that the Appellant made with respect to the gifts that she claims she made a misrepresentation attributable to neglect, carelessness or wilful default. The Appellant argues that the Respondent has failed to discharge her onus with respect to those taxation years.
+[18] For the sake of brevity, I incorporate by reference my credibility findings with respect to Ms. Yang’s and Mr. Miah’s evidence as set out in paragraphs 24, 25, 26 and 27 of the reasons for judgment in the appeals of Jose Vekkal (2013‑882(IT)I) and Remmy Vekkal (2013-883(IT)I) released on the same date as these reasons for judgment.
+[19] The Appellant admitted that she made cash payments to Mr. Raza which were less than the amounts she claimed as donations made to the Mehfuz Trust. From her demeanour, I also believe that the Appellant was exaggerating when she claimed she paid Mr. Raza $600 to $800 three times a year.
+[20] Further, I do not believe that the Appellant was in a financial position to make the claimed donations. She reported net income of $25,230, $29,756, and $34,686 for the 2006, 2007 and 2008 taxation years respectively. With respect to the 2006 taxation year, the disallowed donation claim represented 16% of her net income for that year. With respect to the 2007 and 2008 taxation years, the alleged donations represented 10% and 11% of her net income. The Appellant left me with the impression that she knew very little about the activities of the Mehfuz Trust. I find it implausible that she would have given a substantial portion of her net income to a charity that she knew little about.
+[21] The alleged gifts are also inconsistent with the Appellant’s subsequent donation history. She gave only $350, $150 and $535 to various charities in her 2009, 2010 and 2011 taxation years.
+[22] Considering the evidence as a whole, I believe that the Appellant purchased false donation receipts from the Raza Brothers. The fact that the Appellant may have relied on Mr. Raza’s advice in agreeing to participate in the false donation scheme does not absolve the Appellant from responsibility for her decision to claim tax credits for gifts that she did not make. This was not an innocent mistake made by the Appellant. Under our self-assessment system, taxpayers cannot, on the grounds that they failed to read their returns before they signed and filed them, be absolved of liability for misrepresentations made in their tax returns. Such conduct is at the very least akin to neglect and carelessness. Therefore, the Minister was justified in reassessing the Appellant for the 2006 and 2007 taxation years beyond the normal reassessment period.
+[23] It follows from the above that the Appellant also failed to establish that she made a gift to the Mehfuz Trust in respect of her 2008 taxation year.
+[24] For all of these reasons, the reassessments are upheld and the appeals are dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2014.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2014 TCC 343
+COURT FILE NO.:
+2013-1779(IT)I
+STYLE OF CAUSE:
+LADAN ABOOTALEBY-POUR v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 16, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+November 18, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Selena Sit
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

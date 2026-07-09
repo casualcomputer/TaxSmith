@@ -1,0 +1,150 @@
+---
+title: "Boudreau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27956/index.do"
+last_modified: "2003-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 208"
+citation2: ""
+neutral_citation: "2003 TCC 208"
+decision_date: "2003-04-14"
+language: "en"
+item_id: "27956"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1804
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:16:58.110000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6a1a8bf3adef01e3037c112f75ba744eb74ac18a5a427e854841db431488dcf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boudreau v. M.N.R.
+
+- Citation: 2003 TCC 208
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1804, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boudreau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-14
+Neutral citation
+2003 TCC 208
+File numbers
+98-900(UI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 98‑900(UI)
+BETWEEN:
+MARTIN BOUDREAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 25, 2002, at Sept‑Îles, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator
+Citation: 2003TCC208
+Date: 20030414
+Docket: 98‑900(UI)
+BETWEEN:
+MARTIN BOUDREAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] Martin Boudreau institutes an appeal from the decision of the Minister of National Revenue (the "Minister") dated May 19, 1998, according to which his employment with Nico Pêche International Inc. (the "buyer") was not insurable for the period from October 25 to 31, 1992, because there were no catches during that period and for the periods from June 7 to September 11, 1993, and from June 18 to September 17, 1994, because the actual employer within the meaning of the Unemployment Insurance Act (the "Act") was 2951‑8701 Québec Inc., a corporation in which the appellant held all the voting shares, and not the buyer.
+[2] The facts on which the Minister relied in making his decision were admitted or denied by the appellant as indicated and were as follows:
+[TRANSLATION]
+(a) The buyer operates a business buying fish from various fishing boats in the region. (ADMITTED)
+(b) From 1992 to 1994, the buyer issued to the appellant, inter alia, records of employment showing maximum insurable earnings and the minimum number of weeks required to qualify for unemployment insurance benefits. (DENIED)
+(c) During the periods in issue, the buyer issued T4F forms for fishermen and records of employment in the appellant's name which did not reflect the actual situation with respect to the fishing periods and the amounts actually paid to the appellant. (ADMITTED)
+(d) The payer owns a fishing boat, Le Laidy, and operates a business docking boats and fishing for whelk commercially. (DENIED)
+(e) The payer is a boat docking subcontractor for QIT Fer et Titane Inc. and sells its catches to the buyer. (DENIED)
+(f) The appellant is the sole shareholder of the payer. (ADMITTED)
+(g) The payer generally operates its business from May to December of each year. (ADMITTED)
+(h) During the periods in issue, the appellant also operated a business washing mining cars under the trade name Lave Auto du Havre Enr. (ADMITTED)
+(i) In 1993 and 1994, the payer reported all gross fishing income and assumed responsibility for all the boat expenses, including the fishing licence. (DENIED)
+(j) The appellant refused to provide the respondent's agent with any documents concerning the payer for the years in issue. (DENIED)
+(k) In 1993 and 1994, the appellant claimed no boat operating expenses in his returns of income; he was not a self-employed fisherman. (DENIED)
+(l) During the periods in issue, the appellant was employed by the payer. (DENIED).
+[3] The point for determination in this appeal is whether the appellant's employment during the periods in issue is insurable within the meaning of the Act and, more particularly, whether the appellant meets the definition of "fisherman" in subsection 74(1) of the Fishermen's Regulations. If he does not, is his employment with 2951‑8701 Québec Inc. insurable, having regard to the fact that he is its sole shareholder?
+[4] The appellant incorporated 2951‑8701 Québec Inc. in the spring of 1992, and it owns the boat Le Laidy. The boat is used to dock other boats, and the appellant uses it to fish for whelk. The appellant also operates another business washing mining cars, and he does business under the trade name Lave Auto du Havre Enr.
+[5] During the three years in issue, the buyer advanced money to the appellant to enable him to get equipped and prepare for the fishing season. The buyer also assumed all fishing-related expenses such as those relating to fuel, bait and so on. In return, the appellant sold his catches to the buyer. The buyer paid the appellant weekly wages after deducting the expenses that it had paid and repaying itself its advances. The appellant said that he had had absolute trust in the buyer and its representatives. At the end of each season, he obtained a record of employment enabling him to obtain maximum unemployment insurance benefits. He admitted that the records of employment did not reflect the actual situation with regard to the fishing periods and the amounts that were actually paid to him. He admits today that the buyer had a "banking" system, but he says he did not realize it at the time because he always trusted the buyer.
+[6] The appellant also trusted the buyer to record his catches, their weight and their sale. His notes were not precise and were limited to entries regarding the number of full baskets delivered to the buyer for each fishing day. He had entered everything on calendars which he filed as Exhibit A‑5. He contends that he fished during the first period in issue, that is on October 25, 28, 29 and 30, 1992. However, he was unable to file any landing report that could confirm the entries made for that period. Some landing reports were filed for 1992, and the appellant filed fuller reports and purchase receipts for 1993 and 1994. However, he did not compare them to his entries, as he did not believe he had them all. The appellant said that he had paid for his fishing licences and admitted that the licences could not be issued to corporations. He filed his returns of income for 1993 and 1994 which state that his gross fishing income was the same as his net income, together with the T4F form issued by the buyer for each of the years.
+[7] The "banking" in question was admitted by the appellant in his statutory declaration of March 11, 1997. He says he found it strange to receive a record of employment stating the maximum insurable amount of $710 a week, whereas there were weeks when he did not sell catches worth $710. Although the insurable earnings were higher than the value of the catches, the appellant had been told by the buyer's representatives that, at the time of a work stoppage, it was only necessary to state the weekly wages and that it was enough for the record to show 10 weeks with maximum earnings to be eligible for unemployment insurance benefits. This way of doing things continued for the three years in issue.
+[8] The appellant's financial statements and returns of income for 1993 and 1994 show no expenses relating to fishing activities. His corporation's financial statements for 1994 and 1995 clearly show income related to commercial fishing activities and expenses related to that activity. The corporation states in Exhibit I‑4, the T2(F), that whelk fishing represented approximately 19 percent of the corporation's activities. The fishing equipment was also depreciated. It should be noted that the corporation's fiscal year ends on February 28 and thus includes the activities during 10 months of the previous calendar year.
+[9] Martial Lévesque, an investigator with Revenue Canada at the time, testified that, in September 1996, a joint investigation with Fisheries and Oceans had revealed that certain fish buyers had a catch banking system to ensure maximum unemployment insurance benefits and under-the-table fish sales. That investigation, which was described as "major", led to criminal proceedings against the buyer's representatives and the discovery of 306 false records of employment for the period from 1992 to 1995. It was during that investigation that the appellant was examined and submitted his declaration (Exhibit I‑2). According to the witness, the appellant had been summoned by letter and was free to leave the room at any time. He maintains that he did not threaten the appellant at any time.
+[10] The appeals officer, Yvon Comtois, prepared a summary table (Exhibit I‑7) of fishing activities in 1992. He analyzed the buyer's documents and the purchase receipts and concluded that there was nothing justifying the income reported by the appellant. However, he assumed that the appellant had had some income and that he had had insurable employment during part of the year. Mr. Comtois assumed that the appellant had not had insurable employment from October 25 to 31, 1992, for which period no purchase receipts were found. He therefore concluded that, if there had been any fishing, the catches had not been sold to authorized buyers.
+[11] As to the other two periods in issue, the financial statements show that the appellant's corporation received and reported fishing income and that that income corresponded to the purchase receipts. From its income, the corporation deducted expenses, depreciation and the cost of fishing licences, as a result of which it was difficult to conclude that the appellant was a self-employed fisherman. It was more likely that the appellant had been employed by his corporation, even though he reported the same fishing income in his income tax returns as that of the corporation. Mr. Comtois said that the appellant had told him that his corporation bore the boat expenses and, at the same time, that the buyer had done so. To resolve this contradiction, he communicated with the appellant in April 1998, but the latter did not wish to clarify the matter.
+[12] There can be no doubt that the double reporting of fishing income ultimately enabled the appellant to obtain unemployment insurance benefits so that the final result was definitely more favourable to him.
+[13] The onus is on the appellant to show on a balance of probabilities that the Minister erred in his decision on the insurability of the employment. In 1992, the appellant appears to have fished during the period in issue, but he was unable to prove that his catches were sold to buyers who could be considered as his employers. In a way, they constituted fishing as a personal pastime, which excludes the appellant from the definition of fisherman under the Regulations. I accept the testimony of the appeals officer, Yvon Comtois, who, based on his analysis, found nothing that could show that there had indeed been a fishing activity during the period from October 25 to 31, 1992, and that, if there had been fishing, the catches would have been sold to authorized buyers. Accordingly, I conclude that there were no catches during that period.
+[14] As to the other two years in issue, the respondent maintains that the fishing income was accounted for in the corporation's financial statements and that the appellant was accordingly its employee. He is therefore no longer considered a self-employed worker under the Fishermen's Regulations provided for by the Act.
+[15] The question must therefore be asked whether the fact that the appellant established a corporation jeopardizes the fishermen's rights to the income security afforded by the unemployment insurance program. Does the existence of a corporation preclude application of the Regulations?
+[16] It must be kept in mind that the Regulations concerning fishermen's benefits are quite unusual since they enable independent and self-employed fishermen to be entitled to unemployment insurance benefits. They thus constitute an exception to the general rule, since those Regulations make it possible to ensure self-employed or independent workers, who are thus not bound by a contract of service.
+[17] The Regulations under the Act define "fisherman" as follows:
+"fisherman" means a self‑employed person engaged in fishing and includes a person engaged, other than under a contract of service or for his own or some other person’s sport,
+(a) in making a catch,
+(b) in any work incidental to making or handling a catch, whether such work consists of loading, unloading, transporting or curing the catch made by the crew of which he is a member or of preparing, repairing, dismantling or laying up the fishing vessel or fishing gear used in making or handling the catch by that crew if the person engaged in any such incidental work is also engaged in making the actual catch, or
+(c) in the construction of a fishing vessel for use by himself or by a crew of which he is a member in making a catch.
+75. Any person who is a fisherman shall be included as an insured person and, subject to this Part, the Act and any regulations made under the Act apply to that person with such modifications as the circumstances require.
+[18] To be eligible for unemployment insurance, a fisherman must, first and foremost, be a self-employed person engaged in fishing, which includes a person engaged in making a catch, except under the definition in the Regulations, where he does so under a contract of service or for his own or some other person's sport.
+[19] In this case, the financial statements of the corporation clearly show that it received fishing income and that it deducted all related expenses for the periods in 1993 and 1994. It therefore owned the catches. The appellant bore no fishing-related expense, based on his returns of income for the same two years. Can the appellant be considered a self-employed worker in the circumstances?
+[20] The legal relationship between the appellant and his corporation can be analyzed by applying the tests established in Weibe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, which were recently confirmed by the Supreme Court of Canada in Sagaz Industries Canada Inc. et al. v. 671122 Ontario Limited, [2001] 2 S.C.R. 983.
+[21] I should also add, first of all, that I find it impossible to disregard a duly constituted corporation. The principal characteristic of such an entity is that it possesses all the characteristics of a legal person, and its creation results from some need of the shareholders at the time of its incorporation. However, the disadvantages caused by the corporation's existence must be accepted at the same time the benefits it provides are enjoyed.
+[22] In light of the facts and on the aforementioned tests, I find that the appellant was bound to his corporation by a contract of service. The corporation exercised control over the manner in which the appellant performed his duties. In Attorney General of Canada v. Groupe Desmarais Pinsonneault et Avard Inc., 2002 F.C.A. 144, [2002] F.C.J. No. 572, Noël J.A. resolved this question as follows in paragraph 5:
+... The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+[23] The corporation alone in this case is concerned by the chance of profit or risk of loss test. The appellant received fixed wages and deducted no fishing-related expenses. All the income was included in the corporation's financial statements. The tools and equipment belonged to the corporation, and the appellant was clearly integrated into the corporation's activities.
+[24] Our Court has previously addressed the manner in which the Regulations should be interpreted. I need only cited a passage that it adopted from Marceau J. in Gaston Desmarais and M.R.N., (May 19, 1978) NR 218, at page 2:
+[TRANSLATION]
+Obviously it is clearly the Fishermen's Regulations, ss. 191 et seq. of the Unemployment Insurance Regulations that are concerned. These are very special regulations adopted in order to extend the benefits of the Unemployment Insurance Act to fishermen even under conditions that would normally exclude an ordinary claimant from any benefit. For this reason I think these Regulations should be applied strictly, and that the claimant should show that he clearly satisfied the conditions provided. In my view, the Appellant has not shown that this was the case.
+[25] The definition of "fisherman" in the Regulations is clear. To be a fisherman, a person must be a self-employed worker or a person not bound by a contract of service who, among other things, makes a catch. In the instant case, the appellant does not meet the terms of this definition because, in my view, he was bound by a contract of service to his corporation, in which he held 100 percent of the voting shares. The employment is not insurable for that reason, and also under paragraph 3(2)(d) of the Act, which excepts the employment of a person by a corporation if the person controls more than 40 percent of the voting shares of that corporation.
+[26] Upon hearing the appellant's testimony, I find it clear that he did not know at the time of the legal implications and consequences of his commercial activities. Furthermore, I believe he was aware of the fact that the manner in which the buyer in question acted and operated was not up to standard and that he chose to close his eyes to that state of affairs because the result benefited him.
+[27] For these reasons, I confirm the Minister's decision, and the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 3rd day of February 2004.
+John March, Translator

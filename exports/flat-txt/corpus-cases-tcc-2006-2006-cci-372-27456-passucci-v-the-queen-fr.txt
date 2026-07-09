@@ -1,0 +1,152 @@
+Title: Passucci v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27456/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-372-27456-passucci-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-05
+
+# Passucci v. The Queen
+
+- Citation: 2006 CCI 372
+- Decision date: 2006-07-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 212, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Passucci v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-05
+Référence neutre
+2006 CCI 372
+Numéro de dossier
+2005-1455(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-1455(GST)I
+ENTRE :
+CONCETTA PASSUCCI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 octobre 2005 à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Antonio Passucci
+Avocat de l'intimée :
+Me Gérald Danis
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise pour la période du 1er janvier 1999 au 31 décembre 2002, dont l'avis est daté du 10 octobre 2003, est accueilli sans frais, et la question est déférée au ministre du Revenu national pour qu'il procède à un nouvel examen et à une nouvelle cotisation conformément à la décision énoncée dans les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de juillet 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 2e jour de février 2007.
+Mario Lagacé, jurilinguiste
+Référence : 2006CCI372
+Date : 20060705
+Dossier : 2005-1455(GST)I
+ENTRE :
+CONCETTA PASSUCCI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelante a fait l'objet d'une cotisation établie en vertu de la Loi sur la taxe d'accise (la « Loi » ) pour la période du 1er janvier 1999 au 31 décembre 2002 à l'égard d'un montant de taxe sur les produits et services non versée (la « TPS » ) de 36 981,14 $ et de crédits de taxe sur les intrants refusés (les « CTI » ) de 849,40 $, en plus de l'intérêt et des pénalités. La cotisation en cause concernait l'exploitation d'un restaurant connu sous le nom de Restaurant Bar 7ième Ciel (le « restaurant » ) situé dans la ville de Laval dans la province de Québec.
+[2] Le restaurant a ouvert ses portes en 1998 et a été vendu en 2004 pour 10 000 $. Il a été exploité à perte pendant toute la période − la preuve a d'ailleurs révélé des pertes totales de 119 299 $ de 1998 au 31 décembre 2002 (voir le document intitulé Mémoire sur opposition, pièce R-9, troisième page) et, plus particulièrement, des pertes de 33 502 $ en 2000 et de 24 243 $ en 2001 (voir les états des résultats, pièce R-3). Le restaurant était ouvert cinq jours par semaine de 5 h à 14 h 30. On y servait le déjeuner et le dîner seulement.
+[3] L'entreprise faisait surtout des affaires au comptant et était inscrite aux fins de la TPS. Pendant la vérification, le ministre du Revenu national (le « ministre » ) a constaté que les ventes au comptant n'avaient pas toutes été déclarées, que les factures n'étaient pas toujours classées dans un ordre numérique ni datées et que les reçus de caisse n'étaient pas joints aux factures. Les ventes déclarées étaient fondées sur les papiers rubans d'additionneuse. Puisque les registres comptables du restaurant étaient incomplets et afin de vérifier l'exactitude de la déclaration des fournitures taxables, surtout des boissons vendues (vin, bière ou boissons gazeuses), le ministre a estimé, au moyen d'une méthode de rechange, les fournitures taxables effectuées pendant la période en cause.
+[4] Pour les années 1999, 2000 et 2001, la vérificatrice, Hélène Morand, a vérifié toutes les factures d'achat et a déterminé le nombre total de litres de vin, de bière et de boissons gazeuses achetés chaque année. Elle a ensuite soustrait un montant équivalent à deux pour cent du nombre total de litres achetés pour tenir compte des pertes, des boissons renversées et de la consommation personnelle. Mme Morand a présumé que toutes les boissons achetées, excepté les deux pour cent susmentionnés, avaient été revendues étant donné que des CTI avaient été demandés pour tous les achats et qu'il n'y avait aucun stock au début de chacune des années en question (ce qui est confirmé pour 2000 et 2001 par les états des résultats déposés comme pièce R-3).
+[5] Mme Morand a ensuite examiné les factures de vente. Pour estimer les ventes réelles de boissons et les comparer aux ventes déclarées, Mme Morand a procédé par échantillonnage et a prélevé un cinquième de toutes les factures fournies par l'appelante; elle a ensuite converti le résultat ainsi obtenu en nombre de litres vendus. Par exemple, pour 1999, elle a examiné 2 251 factures de vente à partir desquelles elle a évalué à 11 419 $ les ventes totales avant taxe pour 133 litres de boissons vendues. Il faut savoir que toutes les ventes n'incluaient pas des boissons. En fait, le document intitulé Échantillonnage sur des ventes (pièce R-4) pour l'année 1999 indique qu'environ 380 boissons ont été vendues sur l'ensemble des 2 251 factures. Mme Morand a ensuite estimé les ventes du restaurant en établissant un ratio des ventes par litre vendu, divisant le total des ventes pour les 2 251 factures (11 419 $) par le nombre total de litres vendus pendant l'année (133 litres), ce qui a donné pour résultat un ratio de 85 $ par litre vendu. En d'autres mots, selon la méthode de la vérificatrice, on arriverait à la conclusion que chaque litre de n'importe quelle boisson vendue (boisson gazeuse, bière ou vin) a généré des ventes de 85 $ pour l'entreprise. Mme Morand a expliqué que le ratio en question représentait une valeur de référence utilisée pour estimer le total des ventes pour l'année. Étant donné que les factures d'achat indiquaient que 1 980 litres avaient été achetés en 1999 (après avoir soustrait deux pour cent), elle a calculé, en multipliant le nombre de litres achetés dans l'année (1 980) par 85 $, que le restaurant avait réalisé des ventes de 169 591 $ dans l'année en question. Elle a dit que ce ratio de 85 : 1 tenait compte des boissons qui avaient été incluses dans le prix de vente sans être précisément facturées au client.
+[6] Les ventes déclarées par le restaurant pour l'année en question (1999) étaient de 56 817,27 $. Mme Morand a conclu que la différence entre son estimation des ventes (169 591,68 $) et les ventes déclarées (56 817,27 $), soit 112 774 $, représentait des ventes non déclarées sur lesquelles les sept pour cent de TPS auraient dû être versés à l'administration publique. Le versement aurait donc dû être de 7 894,21 $ (7 % x 112 774 $). Mme Morand a effectué le même calcul pour 2000 et 2001 et a estimé les ventes à 208 296,19 $ (comparativement aux ventes déclarées de 56 839 $) pour 2000 et à 197 341,41 $ (comparativement aux ventes déclarées de 55 567,29 $) pour 2001. Les ventes non déclarées pour 2000 et 2001 s'élevaient, selon Mme Morand, à 151 457,19 $ et à 141 774,12 $ respectivement, montants sur lesquels la TPS, qui représentait respectivement 10 602,03 $ et 9 924,24 $, n'a pas été perçue ni versée au receveur général du Canada.
+[7] Pour 2002, Mme Morand a dit qu'elle ne pouvait pas procéder de la même façon étant donné qu'il manquait de nombreuses factures d'achat. Les ventes déclarées étaient cependant semblables à celles des années précédentes.
+[8] Elle a donc déterminé les ventes pour l'année en question en utilisant le ratio moyen entre l'estimation des ventes totales pour 1999, 2000 et 2001 et le total des ventes déclarées pour ces trois années. Les ventes estimées pour 1999, 2000 et 2001 s'élevaient à 169 591,68 $, à 208 296,19 $ et à 197 341,41 $ respectivement, soit à un total de 575 229,28 $.
+[9] Les ventes déclarées pour 1999, 2000 et 2001 se chiffraient à 56 817,27 $, à 56 839,00 $ et à 55 567,29 $ respectivement, soit à un total de 169 223,56 $.
+[10] La différence totale représentant 406 005,72 $, les ventes non déclarées représentaient en moyenne 239,92 % des ventes déclarées.
+[11] Mme Morand a donc appliqué ce pourcentage de 239,92 aux ventes déclarées pour 2002 dans les états financiers (50 972,14 $) et elle est parvenue à une estimation des ventes non déclarées de 122 295,14 $. La TPS non déclarée sur ces ventes non déclarées a été évaluée à 8 560,66 $ (7 % x 122 295,14 $).
+[12] Quant aux CTI refusés, la vérificatrice n'a pas admis les CTI demandés qui étaient excédentaires par rapport aux dépenses indiquées dans l'état des résultats et elle a refusé les CTI demandés à l'égard des dépenses personnelles.
+[13] Antonio Passucci, l'époux de l'appelante, a affirmé qu'il était impossible pour un restaurant qui employait seulement deux employés à temps partiel (deux serveuses travaillant 35 heures par semaine en tout) ainsi que lui-même et son frère Piero Passucci de générer un tel chiffre de ventes. Il serait impossible pour un personnel aussi restreint de servir autant de clients. En 2001, le total des achats se chiffrait selon l'état des résultats à 12 962 $. Il est inconcevable, selon Antonio Passucci, que le restaurant ait pu générer 197 341 $ en ventes totales, comme l'a estimé Mme Morand. Il a dit que, bien que la capacité maximale du restaurant soit de 175 places selon le permis de vente d'alcool du restaurant, il y a seulement 93 places en réalité, et que, de ce nombre, seulement 55 places sont habituellement utilisées dans les faits.
+[14] M. Passucci a été en mesure de démontrer que, en ce qui a trait à deux factures, Mme Morand n'avait pas tenu compte dans son sondage de toutes les boissons vendues ou avait commis des erreurs dans la déclaration des montants qui figuraient sur les factures (voir la pièce A-1, la pièce 2, les deux dernières pages). Il a aussi signalé qu'en 2001 seulement 5 592 cannettes de boisson gazeuse avaient été achetées comparativement aux 5 988 indiquées par Mme Morand dans sa vérification (pièce A-1, pièce 2, 14e page, et la réponse à l'avis d'appel, annexe A.3, page 5.11).
+[15] M. Passucci a estimé la consommation personnelle à 5 512 cannettes de boisson gazeuse par année (pièce R-7), chiffre que le ministre n'a pas accepté. Cinq mille cinq cent douze cannettes représentent approximativement 1 956 litres (355 ml par cannette). La vérificatrice a calculé que le nombre total de litres de boissons achetés était de 1 980 litres en 1999, de 2 287 litres en 2000 et de 2 250 litres en 2001. La consommation personnelle aurait ainsi représenté une proportion qui variait de 85 % à 98 % du total des boissons achetées, ce qui, selon le ministre, est très improbable.
+[16] M. Passucci a aussi affirmé que certaines bières avaient été retournées au fournisseur. Mme Morand a déclaré qu'elle avait vérifié cette question et qu'elle avait conclu que toutes les cannettes ou les bouteilles retournées étaient vides. M. Passucci a aussi dit qu'il y avait eu une saisie en 1999. Mme Morand a aussi tenu compte de ce fait, comme en témoigne sa feuille de travail intitulée « Achats de bières selon les factures » pour l'année 1999 qu'elle a déposée comme pièce R-11.
+[17] M. Passucci a lui-même reconnu que toutes les ventes n'avaient pas été déclarées et il a proposé une méthode de rechange pour déterminer les ventes à partir des achats des napperons utilisés dans le restaurant. Le ministre n'a pas accepté cette méthode au niveau de l'appel parce qu'aucune facture ne lui avait été fournie, factures qui lui auraient permis d'établir le nombre exact de napperons achetés, et parce qu'aucune justification n'avait été donnée à l'égard du chiffre avancé quant au nombre de napperons gaspillés (voir la pièce R-9, 4e et 5e pages).
+[18] Selon une autre allégation de M. Passucci, certaines factures n'indiquaient pas les boissons vendues étant donné que les boissons accompagnaient parfois les plats du menu. Après avoir vérifié cette affirmation, l'agent des appels a vu que les plats qui figuraient au menu comprenaient la plupart du temps le café et le dessert, mais qu'un supplément de 1,25 $ pour les boissons gazeuses était indiqué sur les factures (pièce R-9, sixième page). L'agent des appels a cependant constaté que la vérificatrice avait omis de tenir compte de certaines boissons gazeuses vendues. En considération des erreurs susmentionnées et compte tenu du fait qu'il est presque impossible d'établir avec certitude le pourcentage de la consommation personnelle de boissons, l'agent des appels était prêt à réduire de 25 % les montants des revenus taxables (pièce R-9, septième page).
+[19] À mon avis, il s'agissait, dans les circonstances, d'une bonne proposition de règlement faite à l'appelante.
+[20] En effet, l'appelante fait l'objet de la cotisation visée par le présent appel à cause de lacunes en matière de comptabilité en ce qui concerne les ventes du restaurant. Il s'agissait d'une entreprise qui faisait surtout des affaires au comptant et, pour une telle entreprise, une bonne tenue des registres est essentielle à la détermination du montant exact des ventes. Étant donné que les registres étaient incomplets, Mme Morand n'a eu d'autre choix que de recourir à une méthode de rechange pour estimer les ventes. Pour 1999, par exemple, elle a observé que les factures indiquaient que seulement 133 litres de boissons avaient été vendues, mais elle a été en mesure de calculer à partir des factures d'achat que 1 980 litres avaient été achetés cette année-là (après avoir soustrait deux pour cent au titre de la consommation personnelle). Le fait qu'il n'y avait aucun stock au début de l'année 2000 indique que la différence entre les 1 980 litres achetés et les 133 litres indiqués sur les factures correspond à des ventes non déclarées.
+[21] Après avoir appliqué un ratio qui variait de 85 $ à 91 $ par litre vendu pour les années en cause, Mme Morand est parvenue à établir une estimation des ventes qui variait entre 169 592 $ et 208 296 $ pour ces années-là. Bien que ces chiffres semblent élevés à première vue, ils ne sont pas déraisonnables. En effet, des ventes de 200 000 $ en une année représentent des ventes approximatives de 4 000 $ par semaine (en supposant que le restaurant était ouvert 48 semaines par année) ou de 800 $ par jour (si le restaurant était ouvert cinq jours par semaine).
+[22] L'appelante a affirmé que le restaurant pouvait accueillir 93 personnes, mais que 55 places était une représentation plus exacte du nombre de places réellement occupées dans le restaurant. Si 55 personnes étaient servies chaque jour au déjeuner et au dîner, il s'ensuit que le restaurant réalisait des ventes totales de 14,50 $ (800 $ divisés par 55) par place, soit 7,25 $ le matin et 7,25 $ à l'heure du dîner. Évidemment, le calcul rapide décrit ci-dessus présuppose qu'on servait 110 personnes chaque jour dans le restaurant, ce qui n'était peut-être pas le cas.
+[23] Néanmoins, l'appelante n'a pas présenté de preuve solide du contraire. Le ministre était d'avis que le restaurant n'aurait pas pu être exploité à perte (pertes déclarées totalisant 119 299 $ de 1998 à 2002) pendant cinq ans. Selon le Mémoire sur opposition élaboré par l'agent des appels (pièce R-9, troisième et quatrième pages), l'appelante a déclaré un revenu brut tiré d'autres emplois qui variait entre 14 000 $ et 22 000 $ de 1999 à 2002. Piero Passucci était bénéficiaire de l'aide sociale. Quant à Antonio Passucci, il a reçu approximativement 30 000 $ en prestations d'assurance en 2002 et 10 000 $supplémentaires en 2003. Deux véhicules d'occasion d'une valeur totale d'à peu près 17 000 $ achetés en 1999 ont été payés en espèces. Quant au chiffre représentant la consommation personnelle de boissons que l'appelante a avancé, bien qu'il soit déraisonnable, il n'y a rien qui puisse justifier la décision du ministre de l'établir à deux pour cent.
+[24] En tenant compte de toutes les considérations susmentionnées, j'en viens à la conclusion que la proposition de l'agent des appels de réduire le montant taxable de 25 % est raisonnable. Pour ce qui est des CTI refusés, aucune preuve n'a été soumise à la Cour sur cette question. La cotisation sera donc maintenue en ce qui a trait aux CTI.
+Décision
+[25] Par conséquent, l'appel est accueilli dans la mesure où le montant de la TPS à payer est réduit de 25 %, la TPS due étant établie à 75 % de la TPS exigible selon la cotisation du 10 octobre 2003, et la question est donc déférée au ministre pour qu'il procède à un nouvel examen et à une nouvelle cotisation conformément au tableau suivant :
+1999
+2000
+2001
+2002
+TPS exigible selon la cotisation du 10 octobre 2003
+11 871 $
+14 581 $
+13 814 $
+12 129 $
+TPS exigible révisée conformément aux présents motifs de jugement (75 % x TPS à payer selon la cotisation du 10 octobre 2003)
+8 903 $
+10 936 $
+10 360 $
+9 097 $
+TPS déclarée
+3 977 $
+3 979 $
+3 890 $
+3 568 $
+TPS exigible
+4 926 $
+6 957 $
+6 470 $
+5 529 $
+Total de la TPS exigible
+23 882 $
+Crédits de taxe sur les intrants refusés
+849 $
+Total exigible
+24 731 $
+[26] En tenant compte de la comptabilité lacunaire de l'appelante dans le cadre de l'exploitation d'une entreprise qui faisait surtout des affaires au comptant, j'arrive à la conclusion que les pénalités et l'intérêt imposés conformément au paragraphe 280(1) de la Loi et la pénalité imposée conformément à l'article 285 de la Loi sont justifiés dans les circonstances, mais qu'ils devront être recalculés en fonction du total exigible de 24 731 $.
+Signé à Ottawa, Canada, ce 5e jour de juillet 2006.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 2e jour de février 2007.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2006CCI372
+N º DU DOSSIER DE LA COUR : 2005-1455(GST)I
+INTITULÉ : CONCETTA PASSUCCI c.
+SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : Le 14 octobre 2005
+MOTIFS DU JUGEMENT : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 5 juillet 2006
+COMPARUTIONS :
+Représentant de l'appelante :
+Antonio Passucci
+Avocat de l'intimée :
+Me Gérald Danis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

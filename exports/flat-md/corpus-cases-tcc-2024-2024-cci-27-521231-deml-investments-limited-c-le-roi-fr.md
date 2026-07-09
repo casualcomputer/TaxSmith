@@ -1,0 +1,476 @@
+---
+title: "DEML Investments Limited c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521231/index.do"
+last_modified: "2024-02-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 27"
+citation2: ""
+neutral_citation: "2024 CCI 27"
+decision_date: "2024-02-29"
+language: "fr"
+item_id: "521231"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5488
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-28T09:01:47.916000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4a7efe4de66c3b475d41813068ca95f6f3b31640f9f44ead789893e640003e3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DEML Investments Limited c. Le Roi
+
+- Citation: 2024 CCI 27
+- Decision date: 2024-02-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5488, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DEML Investments Limited c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-02-29
+Référence neutre
+2024 CCI 27
+Numéro de dossier
+2017-922(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-922(IT)G
+ENTRE :
+DEML INVESTMENTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu du 2 au 4 mai 2022 à Calgary (Alberta)
+Devant : l’honorable juge Bruce Russell
+Comparutions :
+Avocats de l’appelante :
+Me Anu Koshal
+Me Raj Juneja
+Avocats de l’intimé :
+Me Grant Nash
+Me Carla Lamash
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies le 18 mai 2016 à l’égard de l’appelante pour les années d’imposition terminées les 30 novembre 2010 et 2011 est rejeté.
+La Cour devra recevoir les observations des parties sur les dépens, qui ne devront pas dépasser dix pages, au plus tard le 31 mars 2024, à moins que les parties ne s’entendent sur la question.
+Signé à Ottawa, Canada, ce 29e jour de février 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 31e jour d’octobre 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Référence : 2024 CCI 27
+Date : 20240311
+Dossier : 2017-922(IT)G
+ENTRE :
+DEML INVESTMENTS LIMITED,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Russell
+I. Aperçu [1] La Cour est saisie d’un appel portant sur la règle générale anti-évitement (la « RGAÉ ») et visant des avoirs miniers canadiens au sens de la Loi de l’impôt sur le revenu (la « Loi »)[1].
+[2] En 2008, la société mère de l’appelante DEML Investments Limited a versé 50 688 330 $ pour acquérir les actions d’une société détenant une participation de 99 % dans une société de personnes dont elle était une associée. La société de personnes détenait des avoirs miniers (principalement des droits sur du pétrole et du gaz naturel, qui sont des avoirs miniers canadiens) et des biens amortissables. Après plusieurs opérations d’évitement reconnues, les avoirs miniers détenus par l’appelante ont été évalués à 59 363 463 $ au 30 janvier 2009. De plus, l’appelante continuait d’avoir accès aux comptes fiscaux d’environ 47 millions de dollars liés à ces avoirs miniers.
+[3] Au 1er février 2009, la participation de l’appelante dans la société de personnes avait une faible valeur et un prix de base rajusté (le « PBR ») de 45 850 237 $. Le 30 novembre 2010, l’appelante a disposé de sa participation dans la société de personnes et a déclaré une perte en capital de 45 850 237 $ (la « perte en capital »), qu’elle a voulu reporter en presque totalité afin de compenser un important gain en capital réalisé au cours de l’année d’imposition 2007.
+[4] Le ministre du Revenu national (le « ministre ») a considéré la perte en capital déclarée comme une perte artificielle et l’a refusée par application de la RGAÉ. Il affirme que diverses opérations d’évitement reconnues concernant les avoirs miniers canadiens ont entraîné un abus des dispositions de la Loi, notamment celles relatives aux pertes en capital et à la « majoration », ce qui justifie les nouvelles cotisations fondées sur la RGAÉ et visées par le présent appel établies à l’égard de l’appelante pour les années d’imposition 2010 et 2007[2].
+[5] L’appelante admet que certaines opérations concernant ces avoirs miniers, principalement des avoirs miniers canadiens, étaient des opérations d’évitement et qu’en application de l’article 245 de la Loi, la perte en capital déclarée (et son report) était un avantage fiscal. Cependant, l’appelante affirme qu’aucune opération d’évitement n’a entraîné d’abus des dispositions de Loi, de sorte que les nouvelles cotisations visées par le présent appel sont erronées.
+[6] Les dispositions de la Loi dont il est question dans les présents motifs sont reproduites en annexe.
+II. Question en litige [7] La question en litige est de savoir si une ou plusieurs opérations d’évitement en l’espèce ont contourné, contrecarré ou déjoué l’objet et l’esprit d’une ou de plusieurs dispositions de la Loi, de manière à justifier l’application de la RGAÉ par le ministre pour refuser la perte en capital déclarée en 2010 et reportée à 2007 par l’appelante afin de compenser un gain en capital.
+III. Preuve [8] À l’audience, les parties ont présenté un exposé conjoint des faits et des copies certifiées conformes de documents pertinents. Il n’y a eu aucun témoignage de vive voix.
+[9] Les faits pertinents, notamment concernant l’avantage fiscal et sept opérations d’évitement reconnues, sont les suivants :
+– Au cours des années d’imposition 2007 à 2010, l’appelante était une filiale à cent pour cent de Direct Energy Marketing Limited (Direct Energy), une société canadienne dans le secteur de l’énergie.
+– Pour l’année d’imposition 2007, l’appelante a déclaré un gain en capital important.
+– Au début de 2008, Direct Energy a décidé d’acquérir certains biens canadiens relatifs au pétrole et au gaz (les « avoirs miniers ») appartenant à Transglobe Energy Corporation (Transglobe), une société internationale d’exploration et de production établie à Calgary.
+– Les avoirs miniers comprenaient :
+a) des droits sur du pétrole et du gaz naturel, qui sont des avoirs miniers canadiens;
+b) des biens tangibles utilisés pour la production de pétrole et de gaz naturel, qui sont des biens amortissables au sens de la Loi et qui appartiennent à la catégorie 41;
+c) diverses participations d’une valeur nominale dans des biens nécessaires à l’exploitation des avoirs miniers.
+– À tous les moments pertinents, Direct Energy et Transglobe n’avaient aucun lien de dépendance entre elles.
+– Au début de 2008, Direct Energy a conclu un accord avec Transglobe en vue d’acquérir les avoirs miniers. Pour exécuter l’accord, Direct Energy et Transglobe ont entrepris certaines opérations préalables à l’acquisition (étapes 1 à 4).
+– Étape 1 : En 2008, Transglobe a constitué deux sociétés à numéro à titre de filiales à cent pour cent, soit 1377116 Alberta Ltd. (137) le 28 janvier et 1389673 Alberta Ltd. (138) le 25 janvier.
+Étape 2 (opération d’évitement reconnue) : Le 22 avril 2008, 137 et 138 ont créé la société de personnes Transglobe Energy Partnership (« DERP2 »).
+Étape 3 : Transglobe a transféré 99 % des avoirs miniers à 137 et le 1 % restant à 138. Les parties ont fait le choix prévu au paragraphe 85(1) de la Loi relativement à ces transferts.
+Étape 4 (opération d’évitement reconnue) : Les sociétés 137 et 138 ont transféré les avoirs miniers à leur société de personnes DERP2. Elles et DERP2 ont fait le choix prévu au paragraphe 97(2) de la Loi relativement à ces transferts, fixant à 1 $ les avoirs miniers canadiens et à 11,3 millions de dollars les biens amortissables.
+– Étape 5 : Le 30 avril 2008, Direct Energy a acquis les actions de 137 et de 138 auprès de Transglobe pour un montant de 56,7 millions de dollars, moins les rajustements, ce qui donne un prix d’achat net de 51 200 333 $ réparti comme suit : 50 688 330 $ pour les actions de 137 et 512 003 $ pour les actions de 138. Immédiatement après l’acquisition, le PBR des actions de 137 détenues par Direct Energy s’élevait à 50 688 330 $.
+– Les étapes 6 à 10 comprennent la liquidation de 137 et le transfert des avoirs miniers de DERP2.
+– Étape 6 (opération d’évitement reconnue) : Le 28 janvier 2009, Direct Energy a transféré ses actions de 137 à l’appelante. Elles ont fait le choix prévu au paragraphe 85(1) de la Loi relativement au transfert libre d’impôt. L’appelante a acquis les actions de 137 pour un montant de 50 688 330 $ (ce qui correspond au PBR des actions de Direct Energy). À ce moment, la juste valeur marchande des actions de 137 s’élevait à 55 068 750 $.
+– Étape 7 (opération d’évitement reconnue) : Le lendemain, soit le 29 janvier 2009, 137 a distribué à l’appelante ses biens, constitués de sa participation de 99 % dans DERP2, dont le PBR était de 11,3 millions de dollars. La société 137 a ensuite fait l’objet d’une liquidation et d’une dissolution.
+– Étape 8 (opération d’évitement reconnue) : Le lendemain, soit le 30 janvier 2009, l’appelante a fait la désignation d’une « majoration » aux termes de l’alinéa 88(1)d) de la Loi relativement à son acquisition de la participation de 99 % de 137 dans DERP2. L’appelante s’est appuyée sur cette désignation pour déclarer une augmentation de 39 402 330 $ (passant de 11 286 000 $ à 50 688 330 $) du coût d’acquisition, c’est-à-dire du PBR de la participation de 99 % dans DERP2. De plus, l’appelante était réputée être la même société que 137 et en être la continuation en ce qui a trait aux avoirs miniers. L’appelante a augmenté le solde de son compte de frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz (FCBCPG) de 34 859 099 $ et la fraction non amortie du coût en capital (la FNACC) de 11 286 000 $;
+– Étape 9 (opération d’évitement reconnue) : Le 30 janvier 2009, DERP2 a distribué les avoirs miniers à l’appelante sous la forme d’un remboursement de capital de 59 363 463 $, ce qui correspondait à la juste valeur marchande des avoirs miniers à ce moment-là. De ce montant, un montant de 41 512 833 $ a été attribué aux droits sur du pétrole et du gaz naturel, c’est-à-dire les avoirs miniers canadiens; un montant de 12 112 166 $, aux biens amortissables de la catégorie 41; un montant de 3 783 463 $, au fonds de roulement; et un montant de 1 $, à diverses participations. Cette distribution a eu pour effet de réduire le PBR de la participation de l’appelante dans DERP2 d’un montant égal à ladite juste valeur marchande (passant de 50 688 431 $ à (8 675 032) $)[3]. Le solde du compte de FCBCPG de l’appelante a augmenté d’un montant égal à la juste valeur marchande des droits sur du pétrole et du gaz naturel[4].
+– Le 31 janvier 2009, date de fin d’exercice de DERP2, le produit lié aux avoirs miniers canadiens (les droits sur du pétrole et du gaz naturel) a été attribué à ses associés. Le solde du compte de FCBCPG de l’appelante a été réduit de 43 077 705 $. Le PBR de la participation de l’appelante dans DERP2 a augmenté du même montant pour s’établir à 34 402 673 $.
+– Étape 10 : Le lendemain, soit le 1er février 2009, l’appelante a transféré les biens acquis auprès de DERP2 à une autre société de personnes (LP1). Par suite de ce transfert, l’appelante détenait une participation minoritaire dans LP1, et la participation restante dans celle-ci était détenue par des personnes liées à l’appelante.
+– Entre juin et octobre 2010, Direct Energy a décidé de se départir de certains des avoirs miniers situés dans le district de Redwater (les « avoirs miniers de Redwater »). Pour procéder à la vente des avoirs miniers de Redwater, l’appelante a entrepris les opérations qui suivent (étapes 11 et 12). À tous les moments pertinents, l’appelante et l’acheteuse prévue, Orion Oil & Gas Corporation (« Orion »), n’avaient aucun lien de dépendance entre elles.
+– Étape 11 (opération d’évitement reconnue) : Le 29 novembre 2010, LP1 a transféré les avoirs miniers de Redwater (évalués à 6,7 millions de dollars) à l’appelante, qui les a ensuite transférés à DERP2. L’appelante et DERP2 ont fait le choix prévu au paragraphe 97(2) de la Loi relativement à ce transfert. Par suite du transfert, le PBR de la participation de l’appelante dans DERP2 a augmenté d’environ 6,7 millions de dollars.
+– Étape 12 : Le 30 novembre 2010, l’appelante a vendu à Orion sa participation dans DERP2 et ses actions de 138 pour un prix d’achat de base de 6,7 millions de dollars.
+– Pour l’année d’imposition 2010, l’appelante a déclaré la perte en capital mentionnée plus haut de 45 850 237 $ résultant de la disposition de sa participation dans DERP2. L’appelante avait déclaré un PBR de 52 550 237 $ au titre de sa participation dans DERP2 et un produit de disposition de 6,7 millions de dollars.
+– Dans le calcul de son revenu imposable pour l’année d’imposition 2007, l’appelante a « reporté » et déduit une part (44 879 994 $) de la perte en capital, qui correspond à la perte en capital nette subie au cours de l’année d’imposition 2010, afin de compenser le gain en capital déclaré pour l’année d’imposition 2007.
+– Dans la nouvelle cotisation établie pour l’année d’imposition 2010, le ministre a déterminé que la perte en capital était de zéro et, dans celle établie pour l’année d’imposition 2007, il a refusé la déduction demandée au titre de la perte en capital nette subie au cours de l’année d’imposition 2010.
+– La déduction par l’appelante, dans le calcul de son revenu imposable pour l’année d’imposition 2007, d’une part (44 879 994 $) de la perte en capital constitue un avantage fiscal (l’« avantage fiscal ») au sens du paragraphe 245(1) de la Loi.
+– Direct Energy a accepté d’acquérir les avoirs miniers dans un but commercial : les avoirs miniers ayant du potentiel de production et d’aménagement étaient situés à proximité des biens essentiels de Direct Energy, et leurs caractéristiques géologiques étaient semblables à celles des actifs essentiels de Direct Energy, principalement des actifs de gaz naturel conventionnel.
+– Les parties conviennent que chacune des opérations énoncées aux étapes 2, 4, 6, 7, 8, 9 et 11 ci-dessus :
+a. a donné lieu, directement ou indirectement, seule ou dans le cadre d’une série d’opérations, à l’avantage fiscal;
+b. a été principalement effectuée dans le but d’obtenir l’avantage fiscal;
+c. ne peut raisonnablement être considérée comme une opération principalement effectuée dans un autre but que celui d’obtenir l’avantage fiscal;
+d. est une « opération d’évitement » au sens du paragraphe 245(3) de la Loi.
+IV. RGAÉ [10] L’article 245 de la Loi (la « disposition de la RGAÉ ») prévoit ce qui suit (pour le paragraphe (1), seule la définition d’« avantage fiscal » a été reproduite) :
+245(1) « avantage fiscal » Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi. Y sont assimilés la réduction, l’évitement ou le report d’impôt ou d’un autre montant qui serait exigible en application de la présente loi en l’absence d’un traité fiscal ainsi que l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi qui découle d’un traité fiscal.
+245(2) Disposition générale anti-évitement [RGAÉ] – En cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d’une série d’opérations dont cette opération fait partie.
+245(3) Opération d’évitement – L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+245(4) Application du par. (2) – Le paragraphe (2) ne s’applique qu’à l’opération dont il est raisonnable de considérer, selon le cas :
+a) qu’elle entraînerait, directement ou indirectement, s’il n’était pas tenu compte du présent article, un abus dans l’application des dispositions d’un ou de plusieurs des textes suivants :
+(i) la présente loi, (ii) le Règlement de l’impôt sur le revenu, (iii) les Règles concernant l’application de l’impôt sur le revenu, (iv) un traité fiscal, (v) tout autre texte législatif qui est utile soit pour le calcul d’un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu’elle entraînerait, directement ou indirectement, un abus dans l’application de ces dispositions compte non tenu du présent article lues dans leur ensemble.
+V. Question en litige et thèses des parties [11] Comme je l’indique plus haut, la seule question en litige est celle de savoir si, aux termes du paragraphe 245(4), une ou plusieurs opérations d’évitement effectuées pour obtenir l’avantage fiscal ont entraîné, directement ou indirectement, un abus d’une ou de plusieurs dispositions de la Loi.
+[12] Pour répondre à cette question, la Cour doit suivre un processus en deux étapes. Premièrement, elle doit déterminer l’objet et l’esprit des dispositions pertinentes de la Loi grâce à une méthode textuelle, contextuelle et téléologique unifiée. Deuxièmement, elle doit déterminer si l’opération d’évitement ou la série d’opérations d’évitement a contrecarré l’objet et l’esprit des dispositions pertinentes de la Loi.
+[13] Selon l’appelante, les règles de la Loi relatives aux ressources étayent sa thèse. Elle affirme que ces règles ont été appliquées comme prévu et que le texte législatif confirme trois [traduction] « éléments clés », à savoir que :
+(a) un avoir minier canadien n’est ni une immobilisation ni un bien figurant à l’inventaire; il fait donc l’objet d’un traitement particulier sous le régime de la Loi;
+(b) le coût associé à l’acquisition d’un avoir minier canadien n’est pas lié au bien lui-même, mais il est attribué à certains comptes fiscaux relatifs aux ressources. Un avoir minier canadien n’est pas assorti d’un PBR. Lorsqu’un contribuable acquiert un avoir minier canadien ou en dispose, les soldes des comptes fiscaux augmentent ou diminuent en conséquence;
+(c) lorsqu’un avoir minier canadien appartient à une société de personnes, les coûts qui y sont associés sont ceux de l’associé, et non de la société de personnes[5].
+[14] De plus, l’appelante cite la décision 2005-0147681R3 de l’Agence du revenu du Canada (l’ARC) sur le transfert des avoirs miniers canadiens. Elle affirme que cette décision se rapporte à une série d’opérations semblable à celle en l’espèce et qu’elle conclut que la RGAÉ ne s’applique pas. L’ARC y déclare que cette décision [traduction] « pourrait ne pas représenter sa position actuelle[6] ».
+VI. Dispositions relatives aux avoirs miniers [15] La Loi prévoit différents régimes de reconnaissance des coûts engagés pour acquérir divers types de biens. Trois de ces régimes sont pertinents en l’espèce afin d’établir s’il y a eu abus de la Loi dans le contexte de la RGAÉ. Ce sont les suivants :
+(a) le régime relatif aux gains et aux pertes en capital, qui a trait aux coûts d’acquisition d’une immobilisation;
+(b) le régime de déduction pour amortissement (DPA), qui s’applique aux coûts d’acquisition d’un bien amortissable;
+(c) le régime des comptes de FCBCPG, qui s’applique aux coûts d’acquisition d’un avoir minier canadien.
+[16] Les coûts liés à l’acquisition d’un avoir minier canadien sont ajoutés au compte de FCBCPG. La notion de PBR, pertinente dans le cas d’une immobilisation, ne s’applique pas aux coûts d’acquisition d’un avoir minier canadien, puisqu’un avoir minier canadien n’est pas une immobilisation selon la définition du terme « immobilisations » à l’article 54 et les sous-alinéas 39(1)a)(ii) et 39(1)b)(ii).
+[17] Le compte de FCBCPG (l’un de trois comptes fiscaux) est prévu aux alinéas 66.4(5)a) et b) de la Loi. Les coûts d’un avoir minier canadien attribués à ce compte comprennent les coûts d’acquisition liés à l’industrie du pétrole et du gaz, comme ceux engagés pour les terrains, les licences, les permis, les droits d’exploration, les baux, les puits et les droits de redevance, ou pour les droits sur du pétrole et du gaz naturel comme en l’espèce, où les avoirs miniers sont principalement des avoirs miniers canadiens.
+[18] L’appelante affirme que les avoirs miniers canadiens font l’objet d’un traitement particulier. Comme je l’indique plus haut, un avoir minier canadien n’est pas assorti d’un PBR, puisqu’il ne s’agit pas d’une immobilisation au sens de l’article 54 et des sous-alinéas 39(1)a)(ii) et 39(1)b)(ii). Ces deux sous-alinéas prévoient également qu’aucun gain en capital ne peut être réalisé et qu’aucune perte en capital ne peut être subie à l’égard d’un bien qui est un avoir minier canadien[7].
+[19] De plus, l’appelante fait observer que, compte tenu du paragraphe 13(21), qui limite les biens amortissables aux biens pour lesquels le contribuable à droit à une déduction pour amortissement en vertu de l’alinéa 20(1)a), un avoir minier canadien n’est pas un bien amortissable[8].
+[20] L’appelante fait valoir que, comme un avoir minier canadien n’est pas une immobilisation et n’est assorti d’aucun PBR, le coût d’acquisition d’un avoir minier canadien est plutôt comptabilisé dans des comptes fiscaux, en particulier le compte de FCBCPG. En vertu de l’alinéa 66.4(2)b), le contribuable peut déduire, dans le calcul de son revenu pour une année d’imposition, le solde de son compte de FCBCPG selon un taux dégressif de 10 %. À la disposition d’un avoir minier canadien, le solde du compte de FCBCPG du contribuable est réduit d’un montant équivalant au produit de disposition de l’avoir minier canadien.
+VII. Analyse [21] L’intimé soutient qu’il y a eu abus des dispositions de la Loi relatives aux pertes en capital. Il affirme que l’appelante a déclaré une perte artificielle ou théorique, et non une perte véritable.
+[22] L’appelante réfute cette affirmation et soutient qu’il n’y a pas eu abus et que la perte en capital déclarée s’expliquait par [traduction] « les caractéristiques uniques des règles relatives aux ressources [qui] prévoient expressément des résultats fiscaux différents de ceux qui existent dans d’autres régimes de la Loi[9] ».
+[23] L’intimé soutient également qu’il y a eu abus des règles de la Loi relatives à la « majoration ».
+[24] L’appelante répond que ces règles ont été appliquées comme prévu.
+[25] Dans le récent arrêt Deans Knight Income Corp. c. Canada, 2023 CSC 16, la Cour suprême du Canada a reconnu que la RGAÉ a été ajoutée à la Loi (en 1988) en raison des mesures d’« évitement fiscal abusif » prises par des « fiscalistes créatifs ».
+[26] Le juge Rowe, qui a rédigé l’opinion majoritaire (7 contre 1) dans l’arrêt Deans Knight, y a fait référence comme suit (non souligné dans l’original)[10] :
+[42] [Avant l’entrée en vigueur de la RGAÉ en 1988], l’évitement fiscal abusif était devenu une source de préoccupation importante pour le Parlement. À l’aide des conseils de spécialistes, des contribuables concevaient de plus en plus des opérations juridiques complexes pour éviter l’impôt d’une manière qui était contraire à l’intention du Parlement. Une fois que les mécanismes d’évitement étaient mis au jour — dans le cadre soit de demandes de décision anticipée soit de cotisations fiscales —, le Parlement réagissait pour « colmater » les failles de la Loi afin d’interdire l’usage futur des mécanismes en question. Or, les règles de plus en plus alambiquées étaient vulnérables et créaient de nouvelles failles à exploiter. […] Tandis que ce « cycle d’action et de réaction » de la part de fiscalistes créatifs et du Parlement se poursuivait, la Loi a gagné tant en volume qu’en complexité […].
+[…]
+[44] La RGAÉ était le mécanisme qu’a choisi le Parlement pour mettre fin à ce cycle.
+[27] La RGAÉ « confère aux tribunaux la “tâche inhabituelle d’aller au‑delà du texte de la disposition” » en appliquant une analyse en trois étapes fondée sur la RGAÉ qui se résume ainsi[11] :
+[51] […] « [L]e régime établi par la RGAÉ est relativement simple à exposer, mais beaucoup plus difficile à appliquer » […]. Il en est ainsi parce que cette règle confère aux tribunaux la « tâche inhabituelle d’aller au‑delà du texte de la disposition » […]. Bien que la tâche prescrite par la RGAÉ soit inhabituelle, l’analyse fait appel à un test en trois étapes structuré qui a fait l’objet d’études approfondies par la Cour. Pour déterminer si la RGAÉ s’applique, il faut poser les questions suivantes […] : 1. Y a-t-il eu avantage fiscal? 2. L’opération ayant généré l’avantage fiscal était-elle une opération d’évitement? 3. L’opération d’évitement ayant généré l’avantage fiscal était-elle abusive?
+[52] [À] la troisième étape, le ministre a le fardeau de démontrer que l’opération d’évitement entraîne un abus […]. (Non souligné dans l’original.)
+[28] En ce qui a trait à la première question, à savoir s’il y a eu avantage fiscal, les parties conviennent que la déduction de 44 879 994 $ demandée par l’appelante pour l’année d’imposition 2007 attribuable à la perte en capital totale de 45 850 237 $ résultant de la disposition de sa participation dans DERP2 au cours de l’année d’imposition 2010 constitue un avantage fiscal au sens du paragraphe 245(1) de la Loi[12].
+[29] Pour ce qui est de la deuxième question, à savoir si l’opération ayant généré l’avantage fiscal était une opération d’évitement, les parties sont d’accord pour dire que les opérations énoncées à sept des douze étapes (les étapes 2, 4, 6, 7, 8, 9 et 10) étaient des opérations d’évitement. Selon la définition d’opération d’évitement prévue au paragraphe 245(3), les parties reconnaissent que chacune de ces opérations d’évitement a été principalement effectuée dans le but d’obtenir l’avantage fiscal, c’est-à-dire la perte en capital déclarée par l’appelante.
+[30] En l’espèce, c’est la troisième question, à savoir si l’opération d’évitement ayant généré l’avantage fiscal était abusive, qui est en litige.
+[31] Dans l’arrêt Deans Knight, le juge Rowe a traité de cette troisième question dans l’analyse fondée sur la RGAÉ de la manière suivante (à la section intitulée « L’analyse du caractère abusif vise à déterminer si le résultat des opérations contrecarre l’objet et l’esprit de la disposition ») :
+À l’étape de l’abus, les opérations d’évitement seront jugées abusives lorsque leur résultat « a) […] donne lieu à un résultat que les dispositions invoquées visent à empêcher, b) […] va à l’encontre de la raison d’être de ces dispositions ou c) […] contourne l’application de certaines dispositions de manière à contrecarrer leur objet ou leur esprit » (Lipson, par. 40, citant Trustco, par. 45). Ces considérations ne jouent pas indépendamment les unes des autres, et elles se chevauchent fréquemment (Copthorne, par. 72). En définitive, l’analyse reste strictement axée sur le caractère abusif. Le tribunal doit aller au‑delà de la forme juridique qu’ont prise les opérations et leur respect technique des dispositions; il doit comparer leur résultat à la raison d’être sous‑jacente de la disposition et déterminer si cette raison d’être est contrecarrée. Pour tirer une telle conclusion, l’opération « doit être manifestement abusive » (Trustco, par. 62 et 66; Copthorne, par. 68; Alta Energy, par. 33)[13]. (Non souligné dans l’original.)
+[32] De plus, le juge Rowe a clairement indiqué que la RGAÉ pourrait s’appliquer sans tenir compte des dispositions formulées avec précision :
+Il importe de souligner que rien n’empêche d’appliquer la RGAÉ lorsque la Loi prévoit des conditions précises auxquelles il faut satisfaire pour atteindre un résultat en particulier, comme dans le cas d’une règle anti‑évitement spécifique. Je suis donc en désaccord avec l’argument de l’appelante voulant que, lorsque le Parlement formule une disposition avec précision — comme en l’espèce où le report de pertes est interdit dans des circonstances spécifiques —, la RGAÉ n’est pas censée entrer en jeu. Bien entendu, la RGAÉ ne s’applique pas dans toutes les circonstances — l’analyse est, par sa nature même, spécifique à chaque cas. D’ailleurs, la formulation d’une disposition importe dans le cadre de l’analyse du texte, du contexte et de l’objet, puisqu’elle peut donner un éclairage sur la conduite qu’a voulu viser le Parlement et sur la façon dont il s’y est pris pour le faire. Cela dit, la proposition selon laquelle la RGAÉ peut n’avoir presque aucun rôle lorsque le Parlement a adopté une règle anti‑évitement spécifique revient à interpréter sans justification l’art. 245 comme s’il comporte une restriction. Cette prétention ne tient pas compte du fait que la RGAÉ a été adoptée en partie parce que les règles anti‑évitement spécifiques étaient contournées au moyen de mesures de planification fiscale abusives, ni du fait qu’il s’agit d’un des types de règles qui mènent le plus souvent à une conclusion d’abus selon les décisions relatives à la RGAÉ […][14]. (Non souligné dans l’original.)
+[33] Le juge Rowe a ajouté ce qui suit[15] :
+En somme, à la troisième étape de l’analyse fondée sur la RGAÉ :
+- L’objet et l’esprit de la disposition est une description de la raison d’être sous‑jacente de la disposition. Les moyens prévus dans la loi (le comment) n’expliquent pas toujours entièrement ce qu’est cette raison d’être (le pourquoi).
+- Le texte, le contexte et l’objet d’une disposition donnent des indices de ce qu’est sa raison d’être. Le texte peut permettre de mieux comprendre ce que la disposition visait à encourager ou à prévenir eu égard à ce qu’il permet ou interdit expressément, aux termes choisis pour la rédiger, à sa structure et à sa nature. De même, le contexte peut servir à cerner la fonction de la disposition au sein d’un régime cohérent. Enfin, son objet peut aider à discerner les résultats que le Parlement cherchait à atteindre ou à prévenir.
+- Une fois que l’objet et l’esprit de la disposition a été établi, l’analyse du caractère abusif va au‑delà de la forme juridique des opérations ou de leur respect technique de la disposition pour examiner si le résultat obtenu en contrecarre la raison d’être. (Non souligné dans l’original.)
+VIII. Allégations d’abus [34] L’intimé allègue deux types d’abus de dispositions de la Loi. Le premier concerne certaines dispositions de la Loi relatives aux pertes en capital. Le deuxième concerne les dispositions de la Loi relatives à la « majoration » dont s’est servie l’appelante pour augmenter le PBR de sa participation dans DERP2, ce qui a entraîné l’augmentation de la perte en capital déclarée.
+[35] J’examine d’abord l’allégation d’abus visant les dispositions de la Loi relatives aux pertes en capital qui ont été appliquées pour obtenir la perte en capital (l’avantage fiscal). Les dispositions de la Loi relatives aux pertes en capital dont il y aurait eu abus sont les alinéas 3b), 38b), 111(1)b), les sous-alinéas 39(1)b)(i) et (ii) et les définitions de « prix de base rajusté » à l’article 54 et de « perte en capital nette » au paragraphe 111(8)[16].
+[36] Comme je le mentionne plus haut, l’analyse de l’abus comporte deux étapes. La première étape consiste à déterminer l’objet et l’esprit des dispositions législatives en cause. La deuxième étape consiste à déterminer si une ou plusieurs opérations d’évitement de l’appelante ont entraîné un abus de l’objet et de l’esprit de ces dispositions.
+[37] Dans l’arrêt Triad Gestco Ltd. c. Canada, 2012 CAF 258, la Cour d’appel fédérale (la CAF) a ainsi retenu « l’analyse textuelle, contextuelle et téléologique » des dispositions relatives aux pertes en capital invoquées :
+50. Lorsqu’il a abordé cette question dans l’affaire connexe, le juge Paris a procédé à une analyse textuelle, contextuelle et téléologique des dispositions invoquées par l’appelante en vue d’obtenir un avantage fiscal (1207192 Ontario Limited, paragraphes 63 à 68 et 84 à 93). Il a correctement précisé quelles étaient les dispositions pertinentes ainsi que leur philosophie. Je retiens la conclusion du juge Paris selon laquelle l’objet de ces dispositions, particulièrement de l’alinéa 38b), est d’accorder un allègement d’impôt, dans la mesure où il y a compensation avec un gain en capital, dans le cas où le contribuable a subi une perte économique par suite de la disposition d’un bien. Je retiens également sa conclusion selon laquelle la compensation d’un gain en capital par la perte théorique déclarée donne lieu au recours abusif aux dispositions pertinentes, plus particulièrement des alinéas 38b), 39(1)b) et 40(1)b) de la Loi (1207192 Ontario Limited, paragraphes 92 et 93).
+51. L’appelante souligne à juste titre que les mots « perte économique » utilisés par le juge Paris pour désigner la raison d’être des dispositions pertinentes ne figurent dans aucune de celles‑ci. À ce stade de l’analyse, rien ne s’oppose toutefois à ce qu’on s’écarte de la seule signification des mots eux‑mêmes, dans la mesure où l’interprétation proposée s’appuie sur l’analyse textuelle, contextuelle et téléologique des dispositions en cause (Copthorne Holdings, paragraphe 70). Étant donné l’objet des dispositions pertinentes — c.‑à‑d. assujettir à l’impôt l’augmentation nette de la valeur d’immobilisations —, il n’est pas possible selon moi de les interpréter autrement. (Non souligné dans l’original.)
+[38] Les dispositions relatives aux pertes en capital dont il est question dans l’arrêt Triad Gestco (les alinéas 38b), 39(1)b) et 40(1)b)) font partie de celles qui, selon la Couronne dans le présent appel, ont fait l’objet d’un abus (articles 3, 38, 39, 40, 53 et 54). Suivant la raison d’être de ces dispositions, une perte en capital utilisée pour compenser un gain en capital doit correspondre à une « perte économique par suite de la disposition d’un bien ». Autrement dit, la perte ne peut être une perte artificielle ou théorique.
+[39] En l’espèce, le ministre a conclu qu’il n’y avait ni perte véritable ni perte économique, comme l’a déclaré l’intimé au paragraphe 170 de ses observations écrites :
+[traduction]
+170. La perte en capital de l’appelante ne témoigne pas d’un quelconque appauvrissement de sa part. La totalité de la perte en capital repose sur le PBR des opérations effectuées au cours de la période allant d’avril 2008 au 30 janvier 2009 pendant laquelle la valeur des avoirs miniers a augmenté de 8 675 133 $ par rapport au prix payé par Direct Energy pour les actions de 137. La totalité du prix payé par Direct Energy pour ces actions était indirectement attribuable aux avoirs miniers. Au cours de cette période, l’appelante et DERP2 n’ont participé à aucune opération à l’exception de celles visant les avoirs miniers. À la fin de la période, la valeur des avoirs miniers détenus par l’appelante dépassait 59 millions de dollars[17]. (Non souligné dans l’original.)
+[40] Comme l’intimé l’a fait observer dans cette déclaration, au moment où l’appelante a déclaré une perte en capital d’environ 45 millions de dollars, la valeur des avoirs miniers qu’elle détenait a augmenté de quelque 8 millions de dollars depuis leur achat par Direct Energy, la société mère de l’appelante, atteignant plus de 59 millions de dollars. De tels chiffres ne sont pas révélateurs d’une quelconque perte, encore moins d’une perte d’environ 45 millions de dollars.
+[41] L’appelante affirme que, pour les avoirs miniers, le gain ou la perte n’est pas basé sur un avoir minier en particulier, mais plutôt [traduction] « sur un regroupement, par l’augmentation ou la diminution des FCBCPG, selon le cas »[18].
+[42] Bien que ce soit effectivement le cas, je n’accepte pas que cela puisse empêcher que l’on tienne compte de manière générale et raisonnable, dans une analyse fondée sur la RGAÉ, des circonstances pertinentes.
+[43] L’appelante n’a pas démontré que la perte en capital déclarée (c’est-à-dire l’avantage fiscal) constituait une perte véritable, par opposition à une perte artificielle ou théorique. Au contraire, la perte en capital correspondait au PBR de la participation de l’appelante dans DERP2 qui, selon l’étape 8, avait fait l’objet d’une « majoration » importante en vertu de l’alinéa 88(1)d). Il ne s’agit pas d’une perte véritable, comparativement à une perte théorique. L’appelante reconnaît que l’opération énoncée à l’étape 8 était une opération d’évitement et, à ce titre, qu’elle « a été principalement effectuée dans le but d’obtenir l’avantage fiscal »[19].
+[44] Je conclus ainsi que l’appelante a déclaré une perte artificielle, plutôt qu’une perte véritable, ce qui ne respecte pas l’objet et l’esprit des dispositions de la Loi relatives aux pertes en capital, comme l’a déclaré la CAF dans l’arrêt Triad Gestco. De plus, il est évident que le montant d’environ 51 millions de dollars payé par Direct Energy pour les actions de 137 tenait à la valeur de la participation de 99 % dans les avoirs miniers que détenait 137, qui étaient principalement des avoirs miniers canadiens et dont la valeur avait augmenté pour s’établir à plus de 59 millions de dollars au 30 janvier 2009. Ce n’est certainement pas révélateur d’une perte.
+[45] Ce manquement à l’objet et à l’esprit des dispositions de la Loi relatives aux pertes en capital constitue un abus flagrant de ces dispositions, à savoir les alinéas 3b), 38b), 39(1)b), 40(1)b) et 111(1)b), les définitions de « prix de base rajusté » à l’article 54 et de « perte en capital nette » au paragraphe 111(8). Compte tenu de l’objet et de l’esprit de ces dispositions, il y a abus de ces dispositions lorsqu’elles sont appliquées à l’égard de pertes artificielles ou théoriques, plutôt que de pertes véritables.
+[46] L’appelante réfute la proposition selon laquelle il y a eu abus des dispositions de la Loi relatives aux gains et aux pertes en capital. Elle fait valoir que la perte liée à la perte en capital déclarée résulte des dispositions « particulières » de la Loi relatives aux avoirs miniers canadiens. Les dispositions « prévoient expressément des résultats fiscaux différents de ceux qui existent dans d’autres régimes de la Loi »[20].
+[47] Lorsqu’il y a abus de l’objet et de l’esprit des dispositions applicables, la RGAÉ vise à empêcher le contribuable de faire indirectement ce qu’il ne peut faire directement. L’application de la RGAÉ repose sur un examen de ce qui s’est réellement produit. En l’espèce, l’importante perte en capital a été déclarée alors qu’il n’y avait ni perte économique ni appauvrissement, ce qui, selon l’arrêt Triad Gestco, constitue un manquement à l’objet et à l’esprit des dispositions de la Loi relatives aux pertes en capital, y compris l’alinéa 39(1)b).
+[48] Dans un tel contexte, il y a abus lorsqu’une perte en capital est néanmoins déclarée en fonction de la valeur d’une participation dans une société de personnes, valeur qui provient des avoirs miniers canadiens (des avoirs miniers) détenus par cette société de personnes. En l’espèce, les avoirs miniers canadiens ont indirectement servi de fondement pour établir la perte en capital déclarée. Comme je le mentionne plus haut, il s’agit d’une planification fiscale permettant de faire indirectement ce qui ne peut être fait directement, et la RGAÉ existe pour empêcher de telles situations.
+[49] En outre, selon l’exposé conjoint des faits, le 30 novembre 2010, au moment de la disposition de la participation dans DERP2, qui a donné lieu à la perte en capital en cause, l’appelante détenait toujours les avoirs miniers (moins les avoirs miniers de Redwater) acquis auprès de DERP2 un an plus tôt (étape 9). Ainsi, l’appelante continuait d’avoir accès aux comptes de FCBCPG et de la FNACC liés aux avoirs miniers, tout en profitant d’une augmentation de la valeur des avoirs miniers de plus de 8 millions de dollars. Parallèlement, l’appelante tentait de tirer profit du report à l’année d’imposition 2007 de la majeure partie de la perte en capital déclarée (qui n’était que théorique) pour compenser l’important gain en capital qu’elle avait réalisé cette année-là.
+[50] J’estime qu’il s’agit d’un abus des dispositions relatives aux pertes en capital, qui ne sont pas censées s’appliquer lorsque la valeur est fondée sur des avoirs miniers canadiens, surtout lorsqu’au même moment, le contribuable continue d’avoir accès aux comptes de FCBCPG et de la FNACC. Cela semble expliquer pourquoi la Loi ne veut pas que les avoirs miniers canadiens jouent un rôle dans les pertes en capital déclarées. Le régime des FCBCPG s’applique aux avoirs miniers canadiens, mais pas celui relatif aux gains et aux pertes en capital ni celui de DPA.
+[51] L’appelante mentionne également la décision de l’ARC précitée, à savoir la décision 2005‑0147681R3. Dans cette décision rendue en 2006, l’ARC a conclu qu’une société de personnes qui ne détenait plus certains avoirs miniers, qui avaient donné lieu à un PBR élevé, pouvait tout de même préserver ce PBR. Toutefois, dans cette décision, l’ARC n’a pas pris position sur les pertes en capital déclarées à l’égard d’une participation dans une telle société de personnes, ce qui est le cas en l’espèce. La décision ne traite pas non plus des PBR qui ont été « majorées » dans le but d’augmenter une perte en capital à appliquer en réduction d’un gain en capital déclaré antérieurement.
+[52] De plus, la CAF a signalé que les décisions et avis antérieurs de l’ARC « sont peu utiles » dans les affaires portant sur la RGAÉ. Les tribunaux ne sont pas liés par l’avis du ministre ou de l’ARC. La détermination de l’objet et de l’esprit d’une disposition est une question de droit et relève de la seule compétence des tribunaux[21].
+[53] La série d’opérations d’évitement va à l’encontre de la raison d’être des dispositions relatives aux pertes en capital, puisqu’elle vise à reporter une perte alors qu’il n’y a pas de perte économique. Suivant l’arrêt Triad Gestco, il y a abus lorsqu’une perte en capital est reportée sans qu’une perte économique correspondante ait été subie.
+[54] Il convient de souligner que la CAF a dit ce qui suit dans l’arrêt 2763478 Canada Inc. c. Canada, 2018 CAF 209 :
+L’appelante fait remarquer que les mots « perte théorique » et « perte économique » ou « véritable » ne se retrouvent nulle part dans la LIR (Mémoire de l’appelante, paragraphes 95 et 96). J’en conviens, mais comme l’a expliqué la Cour suprême dans l’arrêt Copthorne (paragraphe 70), il est possible que l’objet et l’esprit des dispositions en cause aient un sens plus large que celui qui se dégage d’une lecture axée sur les mots (Voir, dans le même sens, Triad Gestco, paragraphe 51). En l’occurrence, lorsque l’on s’interroge sur l’objet et l’esprit du régime d’imposition du gain en capital, force est de constater que permettre d’éponger un gain véritable par une perte théorique irait à l’encontre de la raison d’être de ce régime[22]. (Non souligné dans l’original.)
+[55] Selon l’appelante, il convient d’écarter l’arrêt Triad Gestco et de plutôt privilégier le raisonnement appliqué dans l’arrêt Canada c. Produits Forestiers Donohue Inc[23]. Pour ce qui est de la jurisprudence, l’arrêt Triad Gestco est beaucoup plus récent. Dans l’arrêt Donahue, la CAF a affirmé que « rien dans la Loi empêche un contribuable de réaliser une perte sur des titres de société vendus à des tiers (non liés), même si une partie importante des actifs auxquels on pourrait attribuer la perte demeure à l’intérieur du groupe de sociétés ». Cependant, contrairement à la situation factuelle en l’espèce, dans l’affaire Donohue, une perte économique véritable a été subie. En effet, à la suite de la dégringolade du prix de la pâte à papier, le placement de Donahue Inc. a perdu toute valeur. Compte tenu de cette différence cruciale entre perte véritable et fausse perte, en l’espèce, la Cour doit appliquer l’arrêt Triad Gestco, plutôt que l’arrêt Donohue.
+[56] Comme l’objet des dispositions relatives aux pertes en capital est de reconnaître les pertes véritables, il y a manifestement abus lorsque des pertes artificielles sont déduites. Cela est d’autant plus vrai lorsque ces pertes sont liées à des avoirs miniers canadiens autres que des immobilisations et seront déduites par l’intermédiaire des comptes de FCBCPG selon un taux d’inclusion de 100 %, ce qui donnera lieu à une double déduction. Comme l’a déclaré l’appelante, un avoir minier canadien n’est pas une immobilisation et n’a pas de PBR. Par conséquent, comment peut-il constituer le fondement économique d’une perte en capital?
+[57] Les opérations d’évitement en cause minent l’intégrité du régime relatif aux gains et aux pertes en capital de la Loi, en plus de tirer profit des comptes de FCBCPG.
+[58] Par conséquent, je conclus qu’en l’espèce, suivant la RGAÉ, les opérations d’évitement ont entraîné un abus des dispositions relatives aux pertes en capital applicables.
+[59] Passons à la deuxième allégation d’abus de l’intimé, à savoir que les opérations d’évitement entreprises pour obtenir la perte en capital ou l’avantage fiscal, par l’augmentation du PBR de la participation de l’appelante dans DERP2, constituaient un abus des dispositions de la Loi. Les dispositions sont les suivantes : les alinéas 88(1)b), c) et d), les sous-alinéas 39(1)b)(i) et (ii), les alinéas 3b), 38b) et 111(1)b) et les définitions de « prix de base rajusté » à l’article 54 et de « perte en capital nette » au paragraphe 111(8), le sous-alinéa 53(1)e)(viii), l’article 66.4 et le paragraphe 66(13) de la Loi.
+[60] Les dispositions du paragraphe 88(1) relatives à la « majoration » sont décrites comme suit aux paragraphes 76, 77 et 78 de l’arrêt Canada c. Oxford Properties Group Inc., 2018 CAF 30 :
+76. Selon l’alinéa 88(1)a), lors d’une fusion verticale, la société mère est réputée avoir acquis les biens de sa filiale au coût aux fins de l’impôt pour la filiale. Toutefois, avant la liquidation, il se peut que le coût aux fins de l’impôt, pour la société mère, des actions dans sa filiale (le PBR des actions) soit supérieur au coût aux fins de l’impôt des biens sous-jacents de la filiale. Au moment de la fusion verticale, ces actions disparaîtront. En l’absence de rajustement, le coût aux fins de l’impôt de ces actions disparaîtrait lui aussi, ce qui pourrait donner lieu à une double imposition si les biens sous-jacents étaient vendus ultérieurement. Cette situation pourrait survenir, parce que le coût réputé des biens sous-jacents dans les mains de la société mère, soit le coût aux fins de l’impôt pour la filiale, ne refléterait aucune augmentation de valeur jusqu’au moment de la liquidation.
+77. La majoration prévue aux alinéas 88(1)c) et d) permet de corriger cette situation. Il faut d’abord calculer la différence entre le PBR des actions de la société mère et le coût aux fins de l’impôt des biens de la filiale. Le résultat obtenu peut ensuite être ajouté au coût aux fins de l’impôt des immobilisations non amortissables dont la société mère a hérité de sa filiale. Autrement dit, le coût aux fins de l’impôt de ces immobilisations est majoré. La majoration permet essentiellement de préserver le PBR qui disparaîtrait autrement au moment de la fusion verticale et de le transférer à d’autres biens qui sont imposés de la même manière.
+78. Le sous-alinéa 88(1)c)(iii) interdit à la société mère de majorer le coût des « bien[s] non admissible[s] », qui incluent les biens amortissables. Le problème que la majoration vise à régler est celui de la disparition des actions et de leur coût aux fins de l’impôt (le PBR des actions), ce qu’on parvient à faire en préservant le PBR qui disparaîtrait autrement et en le transférant à un actif qui est imposé en fonction du même taux d’inclusion. Le fait de permettre que des biens imposés en fonction d’un taux d’inclusion de 50 p. 100 augmentent la valeur des biens imposés en fonction d’un taux d’inclusion de 100 p. 100 entraînerait une perte de revenus fiscaux évidente. Voilà pourquoi les biens amortissables et les autres types de bien visés par un taux d’inclusion de 100 p. 100 ne peuvent pas être majorés.
+[61] En l’espèce, 137 était la filiale à cent pour cent de sa société mère, l’appelante. Selon l’opération d’évitement énoncée à l’étape 7, le 29 janvier 2009, 137 a distribué ses biens (sa participation de 99 % dans DERP2) à sa société mère, l’appelante. La société 137 a ensuite fait l’objet d’une liquidation et d’une dissolution.
+[62] Dans le cadre de l’opération d’évitement énoncée à l’étape 8, qui a été effectuée peu après, l’appelante a fait une désignation aux termes de l’alinéa 88(1)d) relativement à son acquisition auprès de 137 de la participation de 99 % de cette dernière dans DERP2. Cette désignation d’une « majoration » à l’égard des immobilisations a permis à l’appelante de déclarer une augmentation de 39 402 330 $ du coût d’acquisition de cette participation. Le coût du PBR est ainsi passé de 11 286 101 $ à 50 688 431 $. Puis, le lendemain, soit le 30 janvier 2009, DERP2 a distribué les avoirs miniers à l’appelante.
+[63] L’alinéa 88(1)c) énonce les critères d’admissibilité de base pour l’utilisation de la majoration (également connus sous le nom de règles de refus de la majoration). Selon ces règles, le bien doit être une immobilisation de la filiale au moment où la société mère a acquis le contrôle de la filiale. L’alinéa 39(1)b)(ii) prévoit expressément qu’un avoir minier canadien n’est pas une immobilisation. Ainsi, la majoration ne peut être effectuée à l’égard d’un avoir minier canadien. Le bien ne doit pas être un « bien non admissible », comme l’est le bien amortissable[24].
+[64] Sans les règles relatives à la majoration, le coût fiscal des actions de la filiale pour la société mère disparaîtrait à la liquidation, et la société mère perdrait cet attribut fiscal positif lui permettant de mettre à l’abri de futurs gains en capital.
+[65] Il convient de noter que l’alinéa 88(1)d)(ii.1) a été ajouté en 2013, soit bien après les opérations visées par le présent appel. Cette disposition anti-évitement a mis fin à la pratique consistant à majorer le PBR d’une participation dans une société de personnes lorsque la juste valeur marchande de la société de personnes provenait d’actifs non admissibles, comme des biens amortissables ou des avoirs miniers canadiens.
+[66] Dans l’arrêt Canada c. Oxford Properties Group Inc., 2018 CAF 30, la CAF a examiné l’objet et l’esprit de l’alinéa 88(1)d). Dans cette affaire, la contribuable a effectué une série d’opérations complexe, à savoir le transfert en franchise d’impôt de trois biens immobiliers par l’entremise d’une structure de sociétés de personnes à paliers multiples, l’augmentation du PBR des participations dans les sociétés de personnes et la vente de ces participations à des entités exonérées d’impôt de façon à ce qu’aucun impôt ne soit payé sur la récupération latente et les gains accumulés à l’égard des biens détenus par les sociétés de personnes. Essentiellement, la contribuable a évité l’impôt sur la récupération latente prévu au paragraphe 100(1) et a éliminé les gains en capital résultant de la vente des participations dans les sociétés de personnes.
+[67] À mon avis, il existe une réponse toute faite à la question de savoir s’il y a eu abus des dispositions de la Loi relatives à la « majoration » dans les circonstances de l’espèce. La « majoration » du PBR de la participation dans DERP2 a entraîné la hausse très importante de la perte en capital (l’avantage fiscal), qui ne correspondait pas à une perte véritable, comme je l’indique plus haut. Ainsi, comme je le conclus plus haut, il y a eu abus des dispositions de la Loi relatives aux gains et aux pertes en capital.
+[68] Le mécanisme de « majoration » prévu par la Loi, qui a entraîné l’augmentation du PBR, a constitué le principal mécanisme à l’origine de l’abus. Il semble donc évident qu’il y a aussi eu abus des dispositions du paragraphe 88(1) de la Loi relatives à la « majoration », car elles ont servi d’outil législatif pour créer une perte artificielle correspondant à la perte en capital.
+[69] Je note également que les dispositions relatives à la « majoration » cadrent bien avec celles relatives aux pertes en capital de la Loi. Après tout, c’est le PBR qui est « majoré », et le PBR est un élément essentiel dans le calcul du montant d’un gain ou d’une perte en capital. Ainsi, l’objet et l’esprit des dispositions relatives aux pertes en capital de la Loi, qui sont d’empêcher les pertes artificielles, s’appliquent également aux dispositions du paragraphe 88(1) relatives à la « majoration ». Par conséquent, dans le cadre d’une analyse fondée sur la RGAÉ, l’abus de ces dispositions s’étendrait également aux dispositions relatives à la « majoration » lorsque le PBR est « majoré » en vue de créer la perte artificielle en l’espèce à l’origine de la perte en capital donnant lieu à l’avantage fiscal.
+[70] Autrement dit, il semble inconcevable qu’une perte artificielle indique un abus des dispositions de la Loi relatives aux pertes en capital sans également révéler un abus des dispositions de la Loi relatives à la « majoration » permettant de créer la perte artificielle par la « majoration » du PBR.
+[71] Par conséquent, je conclus qu’il y a aussi eu abus des dispositions de la Loi relatives à la « majoration » applicables dans le cadre des opérations d’évitement ayant entraîné l’augmentation du PBR de la participation dans DERP2 par l’application de la majoration, de sorte que l’appelante puisse déclarer en 2010 une perte en capital suffisamment importante pour être reportée à 2007 afin de compenser le gain en capital réalisé cette année-là par l’appelante.
+IX. Conclusion [72] Je conclus que les deux allégations d’abus de la Loi dans le contexte de la RGAÉ formulées par l’intimé sont fondées. Comme il s’agit de la seule question en litige, l’appel sera rejeté, avec dépens.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 29 février 2024 afin de corriger les mots soulignés aux paragraphes 5, 9, 10, 18, 36 et 72 des présents motifs.
+Signé à Ottawa, Canada, ce 11e jour de mars 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 31e jour d’octobre 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe
+13.[25]
+(21) Définitions Les définitions qui suivent s’appliquent au présent article.
+bien amortissable À un moment donné d’une année d’imposition, bien qu’un contribuable acquiert et pour lequel il obtient une déduction, en vertu de l’alinéa 20(1)a), dans le calcul de son revenu pour cette année ou pour une année d’imposition antérieure ou pour lequel il aurait droit à une telle déduction compte non tenu du paragraphe (26) et s’il était propriétaire du bien à la fin de l’année.
+39.[26]
+(1) Sens de gain en capital et de perte en capital Pour l’application de la présente loi :
+a) un gain en capital d’un contribuable, tiré, pour une année d’imposition, de la disposition d’un bien quelconque, est le gain, déterminé conformément à la présente sous-section (jusqu’à concurrence du montant de ce gain qui ne serait pas, compte non tenu du passage « autre qu’un gain en capital imposable résultant de la disposition d’un bien », à l’alinéa 3a), et de l’alinéa 3b), inclus dans le calcul de son revenu pour l’année ou pour toute autre année d’imposition), que ce contribuable a tiré, pour l’année, de la disposition d’un bien lui appartenant, à l’exception :
+[…]
+(ii) d’un avoir minier canadien,
+[…]
+b) une perte en capital subie par un contribuable, pour une année d’imposition, du fait de la disposition d’un bien quelconque est la perte qu’il a subie au cours de l’année, déterminée conformément à la présente sous-section (jusqu’à concurrence du montant de cette perte qui ne serait pas déductible, si l’article 3 était lu de la manière indiquée à l’alinéa a) du présent paragraphe et compte non tenu du passage « et des pertes déductibles au titre d’un placement d’entreprise subies par le contribuable pour l’année » à l’alinéa 3d), dans le calcul de son revenu pour l’année ou pour toute autre année d’imposition) du fait de la disposition d’un bien quelconque de ce contribuable, à l’exception :
+[…]
+(ii) d’un bien visé à l’un des sous-alinéas a)(ii) à (iii) et (v);
+[…]
+53.[27]
+(1) Rajustements du prix de base Un contribuable doit, dans le calcul du prix de base rajusté, pour lui, d’un bien à un moment donné, ajouter au coût, pour lui, de ce bien les montants suivants qui s’y rapportent :
+[…]
+e) lorsque le bien est une participation dans une société de personnes :
+[…]
+(viii) un montant réputé, avant ce moment, en vertu des paragraphes 66.1(7), 66.2(6) ou 66.4(6) être un montant visé à l’élément G de la formule figurant à la définition de frais cumulatifs d’exploration au Canada au paragraphe 66.1(6), à l’alinéa a) de l’élément F ou à l’élément G de la formule figurant à la définition de frais cumulatifs d’aménagement au Canada au paragraphe 66.2(5) ou à l’alinéa a) de l’élément F ou à l’élément G de la formule figurant à la définition de frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz au paragraphe 66.4(5) à l’égard du contribuable,
+[…]
+(2) Montants déductibles[28] Dans le calcul du prix de base rajusté du bien, pour un contribuable, à un moment donné, doivent être déduits, au titre du bien, ceux des montants suivants qui sont appropriés :
+c) lorsque le bien est une participation dans une société de personnes :
+[…]
+(ii) une somme relative à chaque exercice de la société de personnes se terminant après 1971 et avant ce moment, autre qu’un exercice postérieur à l’exercice au cours duquel le contribuable a cessé d’être un associé de la société de personnes, égale à la part du contribuable dans le total des montants suivants :
+(A) les sommes qui, sans l’alinéa 96(1)d), seraient déductibles dans le calcul du revenu de cette société de personnes pour l’exercice, en vertu des Règles concernant l’application de l’impôt sur le revenu relatives aux frais d’exploration et d’aménagement,
+(B) les frais d’exploration et d’aménagement au Canada et les frais globaux relatifs à des ressources à l’étranger engagés par la société de personnes au cours de l’exercice,
+(C) les frais d’exploration au Canada engagés par la société de personnes au cours de l’exercice,
+(D) les frais d’aménagement au Canada engagés par la société de personnes au cours de l’exercice,
+(E) les frais à l’égard de biens canadiens relatifs au pétrole et au gaz engagés par la société de personnes au cours de l’exercice,
+[…]
+54. Définitions[29] Les définitions qui suivent s’appliquent à la présente sous-section.
+S’agissant des immobilisations d’un contribuable :
+a) disposition de biens tous biens amortissables du contribuable;
+b) tous biens (autres que des biens amortissables) dont la disposition se traduirait pour le contribuable par un gain ou une perte en capital.
+66.
+[…]
+(5) Courtiers[30] Les paragraphes (3) et (4) et les articles 59, 64, 66.1, 66.2, 66.21, 66.4 et 66.7 ne s’appliquent pas au calcul du revenu, pour une année d’imposition, d’un contribuable (sauf une société exploitant une entreprise principale) dont l’entreprise comprend le commerce de droits, permis ou privilèges afférents à des travaux d’exploration, de forage ou d’extraction relatifs à des minéraux, du pétrole, du gaz naturel ou d’autres hydrocarbures connexes.
+[…]
+(15)[31] Les définitions qui suivent s’appliquent au présent article.
+[…]
+avoir minier canadien Relativement à un contribuable, bien de celui-ci qui est :
+a) un droit, permis ou privilège afférent aux travaux d’exploration, de forage ou d’extraction relatifs au pétrole, au gaz naturel ou à des hydrocarbures connexes au Canada;
+b) un droit, permis ou privilège afférent :
+(i) soit au stockage souterrain de pétrole, de gaz naturel ou d’hydrocarbures connexes au Canada,
+(ii) soit aux travaux de prospection, d’exploration, de forage ou d’extraction de minéraux d’une ressource minérale au Canada;
+c) un puits de pétrole ou de gaz, ou un bien immeuble, situé au Canada et dont la principale valeur dépend de sa teneur en pétrole ou en gaz naturel (à l’exclusion d’un bien amortissable);
+d) un loyer ou une redevance calculés en fonction du volume ou de la valeur de la production d’un puits de pétrole ou de gaz, ou d’un gisement naturel de pétrole ou de gaz naturel, situé au Canada;
+e) un loyer ou une redevance calculés en fonction du volume ou de la valeur de la production d’une ressource minérale située au Canada;
+f) un immeuble ou bien réel situé au Canada (sauf un bien amortissable) dont la valeur principale dépend de sa teneur en matières minérales;
+g) un droit afférent à un bien visé à l’un des alinéas a) à f), à l’exception d’un droit qu’il détient en tant que bénéficiaire d’une fiducie ou associé d’une société de personnes;
+66.1
+[…]
+(2)[32] Une société exploitant une entreprise principale (sauf la société qui ne serait pas une telle société s’il était fait abstraction des alinéas h) et i) de la définition de société exploitant une entreprise principale au paragraphe 66(15)) peut déduire dans le calcul de son revenu pour une année d’imposition un montant ne dépassant pas le moins élevé des montants suivants :
+a) le total des montants suivants :
+(i) l’excédent éventuel de ses frais cumulatifs d’exploration au Canada à la fin de l’année sur le montant qu’elle a désigné pour l’année en application du paragraphe 66(14.1),
+(ii) l’excédent éventuel du total visé à la division (A) sur le montant visé à la division (B):
+(A) le total calculé selon le sous-alinéa 66.7(12.1)a)(i) relativement à la société pour l’année,
+(B) le montant qui serait calculé selon le paragraphe (1) relativement à la société pour l’année n’eût été l’alinéa (1)c);
+b) l’excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii):
+(i) le montant qui correspondrait à son revenu pour l’année si aucune déduction, sauf une déduction prévue par règlement, n’était permise par le présent paragraphe ou l’article 65,
+(ii) le total des montants représentant chacun un montant déduit par la société en application des articles 112 ou 113 dans le calcul de son revenu imposable pour l’année.
+66.4
+[…]
+(5) Définitions[33] Les définitions qui suivent s’appliquent au présent article.
+[…]
+frais à l’égard de biens canadiens relatifs au pétrole et au gaz Relativement à un contribuable, les dépenses et coûts suivants, engagés après le 11 décembre 1979 :
+a) soit le coût pour lui d’un bien visé aux alinéas a), c) ou d) de la définition de avoir minier canadien au paragraphe 66(15) ou d’un droit ou d’un intérêt sur celui-ci ou, pour l’application du droit civil, d’un droit relatif à celui-ci — sauf un droit ou intérêt qu’il détient en tant que bénéficiaire d’une fiducie ou associé d’une société de personnes —, y compris tout paiement fait pour préserver les droits d’un contribuable à l’égard d’un tel bien ou droit ou intérêt, soit une somme payée à Sa Majesté du chef de la province de la Saskatchewan à titre de paiement net de redevance conformément à un bail portant sur du pétrole ou du gaz naturel qui était en vigueur le 31 mars 1977, dans la mesure où il est raisonnable de considérer cette somme comme un coût d’acquisition du bail;
+b) sous réserve de l’article 66.8, sa part d’une dépense visée à l’alinéa a) qu’une société de personnes a engagée au cours d’un de ses exercices à la fin duquel le contribuable en était un associé, sauf si le contribuable fait un choix à l’égard de cette part en la forme et selon les modalités réglementaires au plus tard six mois après la fin de son année d’imposition au cours de laquelle cet exercice prend fin;
+c) un coût ou une dépense visé à l’alinéa a) et engagé par le contribuable conformément à une convention écrite conclue avec une société avant 1987 et par laquelle le contribuable n’engage le coût ou la dépense qu’en paiement d’actions de la société — à l’exclusion des actions visées par règlement — émises en sa faveur, ou d’intérêts ou de droits sur de telles actions ou, pour l’application du droit civil, de droits relatifs à de telles actions;
+il est entendu toutefois que le terme ne vise pas :
+d) une contrepartie donnée par le contribuable pour une action ou un droit y afférent, sauf dans le cas prévu à l’alinéa c);
+e) une dépense visée à l’alinéa c) et engagée par un autre contribuable dans la mesure où cette dépense consistait, selon le cas, en :
+(i) frais à l’égard de biens canadiens relatifs au pétrole et au gaz engagés par cet autre contribuable, en vertu de cet alinéa,
+(ii) frais d’exploration au Canada engagés par cet autre contribuable, en vertu de l’alinéa i) de la définition de frais d’exploration au Canada au paragraphe 66.1(6),
+(iii) frais d’aménagement au Canada engagés par cet autre contribuable, en vertu de l’alinéa g) de la définition de frais d’aménagement au Canada au paragraphe 66.2(5);
+cependant aucun montant à titre d’aide qu’un contribuable a reçu ou est en droit de recevoir concernant ses frais à l’égard de biens canadiens relatifs au pétrole et au gaz ou se rapportant à ces frais ne peut réduire une dépense visée à l’un des alinéas a) à c).
+frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz S’agissant des frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz d’un contribuable à un moment donné au cours d’une année d’imposition, le montant calculé selon la formule suivante :
+(A + B + C + D + D.1) - (E + F + G + H + I + I.1 + J)
+où :
+A représente le total des frais à l’égard de biens canadiens relatifs au pétrole et au gaz faits ou engagés par le contribuable avant ce moment;
+B le total des montants déterminés en vertu du paragraphe (1) à l’égard du contribuable pour les années d’imposition se terminant avant ce moment;
+C le total des montants visés aux éléments F ou G que le contribuable détermine comme étant devenus des créances irrécouvrables avant ce moment;
+D la partie du montant représenté par l’élément I que le contribuable a remboursée avant ce moment conformément à une obligation légale de rembourser tout ou partie de ce montant;
+D.1 le total des montants déterminés calculés selon l’alinéa 66.7(12.1)c) relativement au contribuable pour les années d’imposition se terminant avant ce moment;
+E le total des montants déduits dans le calcul du revenu du contribuable pour une année d’imposition se terminant avant ce moment, relativement à ses frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz;
+F le total des montants représentant chacun un montant relatif à un bien visé aux alinéas a), c) ou d) de la définition de avoir minier canadien au paragraphe 66(15) 66(15) ou à un droit ou un intérêt sur celui-ci ou, pour l’application du droit civil, à un droit relatif à celui-ci, à l’exclusion d’un tel droit ou intérêt qu’il détient en tant que bénéficiaire d’une fiducie ou associé d’une société de personnes, (appelé « bien donné » au présent élément) dont le contribuable a disposé avant ce moment, égal à l’excédent :
+a) de l’excédent éventuel du produit de disposition tiré du bien donné, devenu à recevoir par le contribuable avant ce moment, sur toute dépense qu’il a engagée ou effectuée avant ce moment en vue de réaliser la disposition et qui n’était pas par ailleurs déductible pour l’application de la présente partie,
+sur le total
+b) de l’excédent éventuel :
+(i) du total des montants qui seraient déterminés selon l’alinéa 66.7(5)a), immédiatement avant le moment (appelé « moment déterminé » au présent alinéa et à l’alinéa c)) auquel le produit de disposition est devenu à recevoir, relativement au contribuable et à un propriétaire obligé du bien donné (ou de tout autre bien acquis par le contribuable en même temps que le bien donné dans les circonstances déterminées au paragraphe 66.7(5) et pour lequel le produit de disposition est devenu à recevoir par le contribuable au moment déterminé) si, à la fois :
+(A) il n’était pas tenu compte des montants devenus à recevoir au moment déterminé ou après,
+(B) chaque désignation effectuée en application du sous-alinéa 66.7(4)a)(iii) relativement à un montant devenu à recevoir avant le moment déterminé était effectuée avant ce moment,
+(C) il n’était pas tenu compte du passage « 10 % de » à l’alinéa 66.7(5)a),
+(D) il n’était pas tenu compte d’une réduction effectuée en application du paragraphe 80(8) au moment déterminé ou postérieurement,
+sur le total :
+(ii) des montants qui seraient déterminés selon l’alinéa 66.7(5)a) au moment déterminé relativement au contribuable et à un propriétaire obligé du bien donné (ou de l’autre bien visé au sous-alinéa (i)) si, à la fois :
+(A) il n’était pas tenu compte des montants devenus à recevoir après le moment déterminé,
+(B) chaque désignation effectuée en application du sous-alinéa 66.7(4)a)(iii) relativement à un montant devenu à recevoir au moment déterminé ou avant était effectuée avant ce moment,
+(C) il n’était pas tenu compte du passage « 10 % de » à l’alinéa 66.7(5)a),
+(D) il n’était pas tenu compte d’une réduction effectuée en application du paragraphe 80(8) au moment déterminé ou postérieurement,
+(iii) de la partie du montant déterminé selon le présent alinéa qui est par ailleurs appliquée en réduction du montant déterminé par ailleurs selon le présent élément,
+c) de l’excédent éventuel :
+(i) du total des montants qui seraient déterminés selon l’alinéa 66.7(4)a), immédiatement avant le moment déterminé relativement au contribuable et à un propriétaire obligé du bien donné (ou de tout autre bien acquis par le contribuable en même temps que le bien donné dans les circonstances déterminées au paragraphe 66.7(4) et pour lequel le produit de disposition est devenu à recevoir par le contribuable au moment déterminé) si, à la fois :
+(A) il n’était pas tenu compte des montants devenus à recevoir au moment déterminé ou après,
+(B) chaque désignation effectuée en application du sous-alinéa 66.7(4)a)(iii) relativement à un montant devenu à recevoir avant le moment déterminé était effectuée avant ce moment,
+(C) il n’était pas tenu compte du passage « 30 % de » à l’alinéa 66.7(4)a),
+(D) il n’était pas tenu compte d’une réduction effectuée en application du paragraphe 80(8) au moment déterminé ou postérieurement,
+sur le total :
+(ii) des montants qui seraient déterminés selon l’alinéa 66.7(4)a) au moment déterminé relativement au contribuable et à un propriétaire obligé du bien donné (ou de l’autre bien visé au sous-alinéa (i)) si, à la fois :
+(A) il n’était pas tenu compte des montants devenus à recevoir après le moment déterminé,
+(B) chaque désignation effectuée en application du sous-alinéa 66.7(4)a)(iii) relativement à un montant devenu à recevoir au moment déterminé ou avant était effectuée avant ce moment,
+(C) il n’était pas tenu compte du passage « 30 % de » à l’alinéa 66.7(4)a),
+(D) il n’était pas tenu compte des montants visés au sous-alinéa 66.7(4)a)(ii) et devenus à recevoir au moment déterminé,
+(E) il n’était pas tenu compte d’une réduction effectuée en application du paragraphe 80(8) au moment déterminé ou postérieurement,
+(iii) de la partie du montant déterminé par ailleurs selon le présent alinéa qui est par ailleurs appliquée en réduction du montant déterminé par ailleurs selon le présent élément;
+G le total des montants devenus à recevoir par le contribuable avant ce moment et qui doivent être inclus dans le montant calculé conformément au présent élément en vertu de l’alinéa 66(12.5)a);
+H le total des montants dont chacun représente un montant reçu avant ce moment au titre d’un montant visé à l’élément C;
+I le total des montants à titre d’aide que le contribuable a reçus ou est en droit de recevoir, concernant les frais à l’égard de biens canadiens relatifs au pétrole et au gaz engagés après 1980, ou qui peuvent raisonnablement s’y rapporter après 1980;
+I.1 le total des montants qui, par l’effet du paragraphe 80(8), sont à appliquer en réduction des frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz du contribuable au plus tard à ce moment;
+J le total des montants à déduire avant ce moment selon l’alinéa 66.7(12)d) dans le calcul de ses frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz.
+[…]
+88.
+(1) Liquidation[34] Lorsqu’une société canadienne imposable (appelée « filiale » au présent paragraphe) a été liquidée après le 6 mai 1974, qu’au moins 90 % des actions émises de chaque catégorie de son capital-actions appartenaient, immédiatement avant la liquidation, à une autre société canadienne imposable (appelée « société mère » au présent paragraphe) et que toutes les actions de la filiale qui n’appartenaient pas à la société mère immédiatement avant la liquidation appartenaient alors à des personnes avec lesquelles la société mère n’avait pas de lien de dépendance, les règles suivantes s’appliquent malgré les autres dispositions de la présente loi, exception faite du paragraphe 69(11) :
+a) sous réserve des alinéas a.1) et a.3), tout bien de la filiale, à l’exception d’une participation dans une société de personnes, attribué à la société mère lors de la liquidation est réputé avoir fait l’objet d’une disposition par la filiale pour un produit égal :
+(i) à zéro, dans le cas d’un avoir minier canadien, d’un avoir minier étranger ou d’un droit aux produits, au sens du paragraphe 18.1(1), auquel se rapporte une dépense à rattacher, au sens de ce paragraphe,
+(ii) [Abrogé, 1994, ch. 7, ann. VIII, art. 38]
+(iii) au coût indiqué du bien, pour la filiale, immédiatement avant la liquidation, dans le cas de tout autre bien;
+[…]
+a.2) toute participation de la filiale dans une société de personnes, attribuée à la société mère lors de la liquidation, est réputée, sauf pour l’application de l’alinéa 98(5)g), ne pas avoir fait l’objet d’une disposition par la filiale;
+[…]
+c) sous réserve de l’alinéa 87(2)e.3), modifié par l’alinéa e.2), et malgré l’alinéa 87(2)e.1), modifié par l’alinéa e.2), le coût, pour la société mère, de chaque bien de la filiale attribué à la société mère lors de la liquidation est réputé être :
+(i) le coût du bien pour la société mère, compte non tenu de présent alinéa, si le bien est une participation dans une société de personnes,
+(ii) sinon, l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B):
+(A) le montant qui, sans le paragraphe 69(11), serait réputé en application de l’alinéa a) être le produit de disposition du bien,
+(B) le montant qui, par l’effet de l’article 80, est appliqué en réduction du coût indiqué du bien pour la filiale lors de la liquidation,
+plus le montant déterminé selon l’alinéa d) relativement à ce bien, s’il était une immobilisation, autre qu’un bien non admissible, de la filiale au moment où la société mère a acquis pour la dernière fois le contrôle de la filiale et si, par la suite sans interruption jusqu’au moment où il a été attribué à la société mère lors de la liquidation, il appartenait à la filiale; pour l’application du présent alinéa, les biens suivants sont des biens non admissibles :
+(iii) les biens amortissables,
+[…]
+d) le montant déterminé selon le présent alinéa relativement à chaque bien de la filiale qui a été attribué à la société mère lors de la liquidation correspond à la partie de l’excédent éventuel du total déterminé selon le sous-alinéa b)(ii) sur le total des montants suivants :
+(i) l’excédent éventuel :
+(A) du total des sommes dont chacune se rapporte à un bien donné qui appartenait à la filiale, immédiatement avant la liquidation, égale au coût indiqué du bien, pour la filiale, immédiatement avant la liquidation, plus tout argent que la filiale a en sa possession immédiatement avant la liquidation,
+sur le total des montants suivants :
+(B) les sommes dont chacune représente le montant d’une dette de la filiale ou de toute autre obligation de celle-ci de verser une somme d’argent qui était impayée, immédiatement avant la liquidation,
+(C) le montant de toute provision (sauf celle visée à l’alinéa 20(1)n) ou aux sous-alinéas 40(1)a)(iii) ou 44(1)e)(iii) de la présente loi ou aux paragraphes 64(1) ou (1.1) de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, dans sa version antérieure au 3 novembre 1981) déduite dans le calcul du revenu de la filiale pour son année d’imposition au cours de laquelle ses éléments d’actif ont été attribués à la société mère lors de la liquidation,
+(i.1) le total des montants dont chacun se rapporte à une action du capital-actions de la filiale dont la société mère a disposé lors de la liquidation ou en vue de la liquidation, égal au total des montants reçus par la société mère ou par une société avec laquelle elle avait un lien de dépendance (autrement qu’à cause d’un droit visé à l’alinéa 251(5) b) relativement à la filiale), à l’égard :
+(A) soit de dividendes imposables sur l’action, ou sur toute action (appelée « action remplacée » au présent sous-alinéa) à laquelle a été substituée ou contre laquelle a été échangée l’action ou une action remplacée, dans la mesure où les sommes afférentes à ces dividendes étaient déductibles du revenu du bénéficiaire, en vertu de l’article 112 ou du paragraphe 138(6), pour toute année d’imposition, et n’étaient pas des sommes sur lesquelles le bénéficiaire était tenu de payer de l’impôt aux termes de la partie VII de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, dans sa version applicable au 31 mars 1977,
+(B) soit de dividendes en capital et dividendes en capital d’assurance-vie, sur l’action ou sur toute action (appelée « action remplacée » au présent sous-alinéa) à laquelle a été substituée ou contre laquelle a été échangée l’action ou une action remplacée,
+désignée par la société mère relativement à cette immobilisation dans sa déclaration de revenu produite en vertu de la présente partie pour son année d’imposition au cours de laquelle la filiale a été ainsi liquidée, sauf que :
+(ii) le montant ainsi fixé, relativement à toute immobilisation de ce genre, ne peut en aucun cas dépasser l’excédent éventuel de la juste valeur marchande de l’immobilisation au moment où la société mère a acquis pour la dernière fois le contrôle de la filiale sur le coût indiqué de cette immobilisation, pour la filiale, immédiatement avant la liquidation,
+(iii) le total des montants ainsi fixés, relativement à toute immobilisation de ce genre, ne peut en aucun cas dépasser l’excédent éventuel du total déterminé en vertu du sous-alinéa b)(ii) sur le total des montants déterminés en vertu des sous-alinéas (i) et (i.1);
+[…]
+97.
+[…]
+(2)[35] Malgré les autres dispositions de la présente loi, sauf les paragraphes (3) et 13(21.2), dans le cas où un contribuable dispose d’un bien en faveur d’une société de personnes qui est, immédiatement après la disposition, une société de personnes canadienne dont il est un associé, les règles ci-après s’appliquent si le contribuable et les autres associés de la société de personnes en font conjointement le choix sur le formulaire prescrit dans le délai mentionné au paragraphe 96(4) :
+a) les alinéas 85(1)a) à f) s’appliquent à la disposition comme si la mention :
+(i) « pour la société » était remplacée par la mention « pour la société de personnes »,
+(ii) « autre que toutes actions du capital-actions de la société ou un droit d’en recevoir » était remplacée par la mention « autre qu’une participation dans la société de personnes »,
+(iii) « actionnaire de la société » était remplacée par la mention « associé de la société de personnes »,
+(iv) « la société » était remplacée par la mention « tous les autres associés de la société de personnes »,
+(v) « à la société » était remplacée par la mention « à la société de personnes »;
+b) dans le calcul, à un moment donné après la disposition, du prix de base rajusté, pour le contribuable, de sa participation dans la société de personnes, immédiatement après la disposition :
+(i) il doit être ajouté l’excédent éventuel du produit que le contribuable a tiré de la disposition des biens sur la juste valeur marchande, au moment de la disposition, de la contrepartie (autre qu’une participation dans la société de personnes) reçue par le contribuable pour les biens,
+(ii) il doit être déduit l’excédent éventuel de la juste valeur marchande, au moment de la disposition, de la contrepartie (autre qu’une participation dans la société de personnes) reçue par le contribuable pour les biens dont il a ainsi disposé sur leur juste valeur marchande au moment de la disposition;
+c) lorsque les biens dont le contribuable a ainsi disposé en faveur de la société de personnes sont des biens canadiens imposables du contribuable, la participation dans la société de personnes qu’il a reçue en contrepartie est réputée être, à tout moment de la période de 60 mois suivant la disposition, un bien canadien imposable lui appartenant.
+RÉFÉRENCE :
+2023 CCI 27
+No DU DOSSIER DE LA COUR :
+2017-922(IT)G
+INTITULÉ :
+DEML INVESTMENTS LIMITED c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Les 2, 3 et 4 mai 2022
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 29 février 2024
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Anu Koshal
+Me Raj Koshal
+Avocats de l’intimé :
+Me Grant Nash
+Me Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Anu Koshal
+Me Raj Koshal
+Cabinet :
+McCarthy Tétrault S.E.N.C.R.L., s.r.l.
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Paragraphe 66(15) de la Loi.
+[2] Observations écrites de l’intimé, par. 1 à 6.
+[3] Sous-alinéa 53(2)c)(v) de la Loi.
+[4] Paragraphe 66.4(5) de la Loi.
+[5] Observations écrites de l’appelante, par. 53 et 54.
+[6] Onglet 30, recueil de jurisprudence et de doctrine de l’appelante.
+[7] Observations écrites de l’appelante, par. 56.
+[8] Observations écrites de l’appelante, par. 57.
+[9] Ibid., par. 195.
+[10] Deans Knight, par. 42 et 44.
+[11] Ibid., par. 51 et 52.
+[12] Exposé conjoint des faits, par. 15.
+[13] Ibid., par. 69.
+[14] Ibid, par. 71.
+[15] Ibid, par. 73.
+[16] Observations écrites de l’intimé, par. 162 à 173.
+[17] Observations écrites de l’intimé, par. 170.
+[18] Observations en réponse de l’appelante, par. 3 à 7.
+[19] Pièce 1 – Exposé conjoint des faits, par. 17(b) et (d).
+[20] Voir note de bas de page 5.
+[21] Birchcliff Energy Ltd. c. Canada, 2019 CAF 151, par. 32.
+[22] 2763478 Canada Inc. c. Canada, 2018 CAF 209, par. 56.
+[23] Canada c. Produits Forestiers Donohue Inc., 2002 CAF 422.
+[24] Sous-alinéa 88(1)c)(iii) de la Loi.
+[25] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 68.
+[26] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 189.
+[27] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 229 et 230.
+[28] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 236.
+[29] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 236.
+[30] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 318.
+[31] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 333.
+[32] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 339.
+[33] Ibid., p. 357 à 359.
+[34] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 500 à 512.
+[35] Stikeman Income Tax Act Annotated 2008, 44e éd. Toronto : Thomson Carswell, 2008, p. 722.

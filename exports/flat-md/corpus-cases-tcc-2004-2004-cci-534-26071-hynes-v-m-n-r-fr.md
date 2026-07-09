@@ -1,0 +1,141 @@
+---
+title: "Hynes v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26071/index.do"
+last_modified: "2004-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 534"
+citation2: ""
+neutral_citation: "2004 CCI 534"
+decision_date: "2004-09-21"
+language: "fr"
+item_id: "26071"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4066
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:01:34.227000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "464d7cf8c36f3b13131dd4c8da4c4aa12bf6df2d9e4d9a05cbf35cf9c8f7aebe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hynes v. M.N.R.
+
+- Citation: 2004 CCI 534
+- Decision date: 2004-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4066, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hynes v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-21
+Référence neutre
+2004 CCI 534
+Numéro de dossier
+2003-2089(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2089(EI)
+ENTRE :
+RAYMOND HYNES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu à Gander (Terre-Neuve), le 29 avril 2004.
+Devant : L'honorable G. Sheridan, juge
+Comparutions :
+Représentant de l'appelant :
+M. Albert O'Rielly
+Avocat de l'intimé :
+Me Martin Hickey
+__________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI534
+Date : 20040921
+Dossier : 2003-2089(EI)
+ENTRE :
+RAYMOND HYNES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Il s'agit d'un appel d'une décision par laquelle le ministre du Revenu national a conclu que l'appelant, M. Raymond Hynes, n'avait pas exercé un emploi assurable du 22 juillet au 5 octobre 2002, parce qu'il ne travaillait pas en vertu d'un contrat de louage de services. M. Hynes est d'avis que, pendant la période en question, il avait conclu un contrat de louage de services avec sa femme, Mme Diane Hynes, à l'égard de la construction d'habitations et que l'emploi était donc assurable. Il n'est pas contesté que M. Hynes a construit des habitations à Goose Bay du mois de juillet au mois d'octobre 2002. Il s'agit de savoir s'il se livrait à cette activité à son compte, à titre d'entrepreneur indépendant, ou à titre d'employé de Mme Hynes.
+[2] M. et Mme Hynes ont tous deux témoigné. Ils ont déclaré qu'au mois de juillet 2002, après avoir entendu parler de la possibilité d'obtenir des contrats de construction d'habitations à Goose Bay, Mme Hynes avait décidé de se lancer dans la construction d'habitations. Elle n'avait pas d'expérience dans les affaires, et elle n'avait pas d'expérience dans le domaine de la construction. Elle a ouvert un compte bancaire d'affaires dans lequel elle a déposé le capital initial qu'elle avait obtenu à l'aide d'une ligne de crédit qu'elle avait avec M. Hynes. M. Hynes s'est vu attribuer une procuration à l'égard du compte d'affaires. Mme Hynes a déclaré avoir embauché M. Hynes pour aller à Goose Bay afin de négocier en son nom avec Melville Woodworkers et d'exécuter ensuite les contrats de construction qu'ils obtiendraient. Il n'y avait pas de contrat écrit entre Melville Woodworkers et Mme Hynes ou, en fait, entre M. Hynes et Mme Hynes. Mme Hynes n'a jamais eu de contacts avec Melville Woodworkers, et elle n'a jamais passé de temps sur le chantier de construction à Goose Bay. M. Hynes a témoigné qu'il appelait Mme Hynes presque tous les jours en vue de rendre compte de l'avancement des travaux et de lui demander conseil au sujet de la question de savoir si les contrats envisagés étaient acceptables. La supervision régulière sur place était confiée à un charpentier de Melville Woodworkers. Melville Woodworkers payait M. Hynes directement par chèque, libellé au nom de celui-ci. M. Hynes déposait ensuite le chèque dans le compte d'affaires. M. Hynes fournissait ses propres outils de charpenterie; le coût des échafaudages était payé à l'aide du compte d'affaires.
+ANALYSE
+[3] M. Hynes a la charge de prouver que les hypothèses sur lesquelles le ministre s'est fondé sont erronées. Il s'agit au départ de décider s'il existait un contrat de quelque genre que ce soit entre M. Hynes et l'entreprise exploitée par Mme Hynes. L'avocat de l'intimé a référé la Cour à un arrêt de la Cour d'appel fédérale, Fournier c. Canada[1] :
+Les critères énoncés dans Wiebe Door peuvent servir de guide seulement dans les cas où la Cour est appelée à décider si les relations entre un payeur et un travailleur découlent d'un contrat de service ou d'un contrat d'entreprise. Toutefois, dans beaucoup de cas, dont celui en l'espèce, la tâche première de la Cour n'est pas de distinguer entre ces deux sortes de contrat, mais plutôt de déterminer si les relations entre les parties sont réellement contractuelles.
+[4] La preuve présentée n'est pas suffisante pour établir l'existence d'une relation contractuelle entre Mme Hynes et M. Hynes. Il n'y avait pas d'entente écrite entre eux et il n'y avait pas de témoignage au sujet de leurs obligations et droits respectifs. M. Hynes était rémunéré, non par l'entreprise, mais par Melville Woodworkers.
+[5] Toutefois, si cette conclusion est erronée et s'il existait un contrat entre M. Hynes et Mme Hynes, je suis d'avis que le contrat était un contrat d'entreprise, auquel cas M. Hynes était un entrepreneur indépendant plutôt qu'un employé. En prenant cette décision, je me fonde sur les critères établis dans la jurisprudence[2]. La preuve montre que Mme Hynes n'exerçait pas de contrôle réel sur M. Hynes dans l'exécution de ses tâches. Mme Hynes n'était pas sur les lieux; elle n'avait pas d'expérience dans ce domaine; même si elle avait été sur les lieux, sa présence aurait été peu utile. M. Hynes s'occupait de trouver des projets et, pour décider s'il allait les accepter, il se fondait sur son expérience et sur les pratiques courantes sur les chantiers de construction plutôt que sur l'avis de Mme Hynes. Melville Woodworkers rémunérait directement M. Hynes, en son propre nom, pour son travail. La ligne de crédit grâce à laquelle l'entreprise de Goose Bay avait été financée était détenue en commun par M. Hynes et par Mme Hynes. C'était M. Hynes qui avait des chances de faire des bénéfices ou qui risquait de subir des pertes. M. Hynes fournissait ses propres outils et, essentiellement, il dirigeait ses propres affaires.
+[6] Pour les motifs susmentionnés, je conclus qu'il n'y avait pas de contrat de louage de services entre M. Hynes et Mme Hynes. Par conséquent, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI534
+No DU DOSSIER DE LA COUR :
+2003-2089(EI)
+INTITULÉ :
+Raymond Hynes c. M.R.N.
+LIEU DE L'AUDIENCE :
+Gander (Terre-Neuve)
+DATE DE L'AUDIENCE :
+Le 29 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable G. Sheridan
+DATE DU JUGEMENT :
+Le 21 septembre 2004
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Albert O'Rielly
+Avocat de l'intimé :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1997] A.C.F. no 211 (C.A.F.); Bélanger c. Canada, [1995] A.C.I. no 717 (C.C.I.)
+[2] Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025 (C.A.F.); 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139 (C.S.C.).

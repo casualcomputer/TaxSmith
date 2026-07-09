@@ -1,0 +1,113 @@
+Title: Jay v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29666/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-122-29666-jay-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-03-02
+
+# Jay v. The Queen
+
+- Citation: 2010 TCC 122
+- Decision date: 2010-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6234, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-02
+Neutral citation
+2010 TCC 122
+File numbers
+2009-1135(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1135(IT)I
+BETWEEN:
+TRAVIS P. JAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 10, 2010 at Charlottetown,
+Prince Edward Island
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Jonathan M. Coady
+Counsel for the Respondent:
+Gregory B. King
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2003 and 2004 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that penalties assessed under section 162(1) of the Act should be vacated.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 2nd day of March 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 122
+Date: 20100302
+Docket: 2009-1135(IT)I
+BETWEEN:
+TRAVIS P. JAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant, Travis Jay, has instituted this appeal in respect of assessments made under the Income Tax Act for the 2003 and 2004 taxation years.
+[2] I would first like to clarify a matter for the 2002 taxation year.
+[3] At the commencement of the hearing, I was informed by counsel that the same issue is relevant for the 2002, 2003 and 2004 taxation years, and that it was premature to hear the appeal for 2002.
+[4] The problem is that the notice of appeal is confusing as to whether relief is sought in respect of the 2002 taxation year. In light of the position of the parties, I do not propose to deal further with this taxation year. For clarity, a new notice of appeal would have to be filed in order to institute an appeal in respect of this year.
+[5] Turning to the main issue, the issue concerns a bursary received by the appellant from Appleby College in Ontario to defray the cost of attending high school there. The amounts received were $34,000 for the 2003 taxation year and $35,000 for the 2004 taxation year.
+[6] Under the relevant legislation in effect at the time, the amount of the bursary, less $500, was required to be included in income.
+[7] When the bursary was first granted, Appleby College did not inform the appellant or his parents that the bursaries were taxable. Believing that there was no requirement to pay tax on these amounts, the appellant did not file income tax returns for the 2003 and 2004 taxation years.
+[8] The Minister of National Revenue issued assessments for the 2003 and 2004 taxation years, which included the amounts received in excess of $500 in the appellant’s income. In addition, penalties were imposed for the failure to file income tax returns on time.
+[9] The notice of appeal sought relief for the tax, interest and penalties, mainly on grounds of fairness. Counsel for the appellant abandoned these arguments at the commencement of the hearing and sought relief for the penalties only on grounds of due diligence. Counsel indicated that applications elsewhere for remission of the tax and a waiver of interest are in progress.
+[10] The only question to be determined, then, is whether the penalties should be vacated on grounds of due diligence. The aggregate amount of the penalties is $2,561.54.
+[11] The penalties were imposed pursuant to subsection 162(1) of the Act, which does not provide for a statutory due diligence defence. It provides:
+162(1) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+[12] Notwithstanding the strictness of the legislation, it has generally been accepted that a penalty of this nature should not be imposed if the taxpayer has undertaken all reasonable measures to comply with the legislation: Royal Bank of Canada v. The Queen, 2007 FCA 72, [2007] GSTC 18.
+[13] The appellant was the only witness at the hearing. He testified that neither he nor his family could afford to pay tax on the bursaries and that he would not have attended Appleby College if they had been aware of this. He also testified that his mother recently told him that she had been advised by an accountant at the time that the bursaries were not taxable.
+[14] The impression that I had from the evidence is that the appellant, due to his age, had relied on his mother to provide assistance of this nature. This is understandable since the appellant was in high school at the time.
+[15] I am not satisfied by the appellant’s brief testimony about the accountant that this constitutes reasonable due diligence. The mother was not present in court to be cross-examined as to the circumstances in which the accountant gave this advice.
+[16] Nevertheless, the penalty was not levied against the mother but the appellant himself. The mother’s lack of diligence is not the end of the matter.
+[17] This case is close to the line, but in my view it would be in the interests of justice to give latitude to the due diligence defence in circumstances such as these. The appellant was young at the time, he seemingly relied on his parents for this type of advice, and it would not be obvious to a high school student that bursaries have the character of income.
+[18] It is appropriate to vacate the penalties in this type of case.
+[19] Counsel for the appellant also requested that I make a recommendation that the appropriate authorities remit the tax and interest under the Financial Administration Act. I make no comment on this as it is not within the jurisdiction of the Court.
+[20] Given that the notice of appeal sought relief for the tax, interest and penalties, and that the only relief provided was with respect to penalties, each party should bear their own costs.
+Signed at Toronto, Ontario this 2nd day of March 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 122
+COURT FILE NO.: 2009-1135(IT)I
+STYLE OF CAUSE: TRAVIS P. JAY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Charlottetown, Prince Edward Island
+DATE OF HEARING: February 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: March 2, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Jonathan M. Coady
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jonathan M. Coady
+Firm: Stewart McKelvey
+Charlottetown, Prince Edward Island
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

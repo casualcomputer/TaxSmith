@@ -1,0 +1,142 @@
+Title: Chamard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30660/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-2-30660-chamard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-01-09
+
+# Chamard v. The Queen
+
+- Citation: 2012 TCC 2
+- Decision date: 2012-01-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7219, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-09
+Neutral citation
+2012 TCC 2
+File numbers
+2010-190(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-190(GST)G
+BETWEEN:
+MARTINE CHAMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 28, 2011, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Dany Afram
+Aaron Rodgers
+Counsel for the Respondent:
+Danny Galarneau
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made in respect of the appellant under section 325 of the Excise Tax Act, the notice of which is dated April 22, 2008, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of January 2012.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 25th day of April 2013.
+Erich Klein, Revisor
+Citation: 2012 TCC 2
+Date: 20120109
+Docket: 2010-190(GST)G
+BETWEEN:
+MARTINE CHAMARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The appellant is challenging an assessment of $14,837.37 made by the Minister of National Revenue (the Minister) under section 325 of the Excise Tax Act (ETA). The assessment relates to a transfer to the appellant by Jean Belval of an amount of $56,000 by way of cheque dated April 23, 2003. At the time of the transfer, Mr. Belval had a tax debt of $14,837.35 under the ETA.
+[2] The only issue is whether the respondent was justified in assessing the appellant an amount of $14,837.37 with respect to a non-arm’s length transfer for a consideration that was less than the fair market value of the property transferred.
+Appellant’s position
+[3] The appellant submits that the cheque for $56,000 was issued to her by Mr. Belval in payment of a debt owed at the time pursuant to an agreement between Mr. Belval and her dated March 23, 1993 that concerned interim relief ratified by judgment in file No. 500-12-209909-930 of the Superior Court for the province of Quebec (the Agreement) (Exhibit A-2). The Agreement provided in particular that Mr. Belval was to pay the appellant [TRANSLATION] “the amount of five hundred and fifty dollars ($550) per week as support for her and the three children, payable on Fridays.” More specifically, the appellant submits that the cheque for $56,000 was issued to her in payment of arrears in this support that Mr. Belval had undertaken to pay her under the terms of the Agreement, which arrears were for the period from March 23, 1993, to December 31, 1999. Accordingly, the appellant submits that she cannot be held jointly and severally liable with Mr. Belval under section 325 of the ETA in respect of the tax debt owed by Mr. Belval at the time the cheque for $56,000 was issued to her, as the arrears were a consideration which exceeded the fair market value of the property transferred to her, in this case, the cheque for $56,000.
+Respondent’s position
+[4] The respondent essentially submits that
+(i) the cheque for $56,000 was not issued by Mr. Belval to the appellant in payment of support arrears for the period from March 23, 1993, to December 31, 1999;
+(ii) the appellant cannot rely on the exception in subsection 325(4) of the ETA because, inter alia, at the time of the transfer, she and Mr. Belval were living together as a couple.
+[5] The appellant testified. Mr. Belval and Lise Dupuis testified in support of the appellant’s position. Furthermore, Francine Martin (an objections officer with the Agency) and Frédéric Ward (a financial management officer with the Agency) testified in support of the respondent’s position.
+Mr. Belval’s testimony
+[6] Mr. Belval testified that
+(i) from 1971 to 1985, he worked for the Communauté Urbaine de Montréal (CUM) as a police officer;
+(ii) in 1985, he stopped working owing to a work injury that was not recognized by the Commission des lésions professionnelles until April 2005;
+(iii) in June 1992, the appellant left the family home, and since June 1992, the appellant and he have been living separate and apart as a result of the breakdown of their marriage;
+(iv) on March 23, 1993, he entered into the Agreement with the appellant;
+(v) in April 1994, he made an assignment in bankruptcy and was discharged from bankruptcy in 1998;
+(vi) for the period from June 1992 to January 20, 1999, he did not pay any amount to the appellant under the terms of the Agreement;
+(vii) on December 16, 1998, the Superior Court of Quebec issued a judgment (Exhibit A-3) ordering the CUM to [TRANSLATION] “remit forthwith to the debtor, Jean Belval, all the amounts held on his behalf, subject to the rights of the respondent, Martine Chamard, under the seizure for payment of support carried out by the collector of support payments in file No. 450-12-016560-957”; Mr. Belval explained that pursuant to the judgment, the appellant had received a cheque (dated January 20, 1999) for $69,372.80 that was used to pay the support arrears for the years 1992, 1993 and 1994 and a portion of the arrears in respect of the year 1999;
+(viii) on April 23, 2003, he issued a cheque for $56,000 to the appellant (Exhibit I-2) in payment of the arrears of support for 1995 and 1996;
+(ix) he paid the appellant support arrears relating to 1998 in June 2003;
+(x) for the period from May 1992 to December 1993, he resided with his in-laws in Montreal;
+(xi) for the period from December 1993 to the end of 1999, he resided with his parents in Ogden;
+(xii) for the period from January 2000 to December 2003, he resided with Jean-Pierre Rancourt (a friend) in Île-des-Sœurs, Montreal;
+(xiii) for the period from May 2003 to December 2003, he resided with Lise Dupuis (a friend) in Île-des-Sœurs, Montreal.
+[7] I emphasize that the evidence also revealed (see Exhibit I-5) that, since 1999, the address on Mr. Belval’s driver’s licence had been the address at which the appellant resided. Mr. Belval explained that it was surer and more practical for him to receive his mail at the appellant’s residence, considering the many times he had moved, and that he picked up his mail when visiting his children at the residence of the appellant, with whom he continues to be friends in spite of their separation.
+Appellant’s testimony
+[8] The appellant testified as follows:
+(i) She had lived separate and apart from Mr. Belval since 1992 because of the breakdown of their marriage.
+(ii) Since their separation, Mr. Belval had never paid on time the support he undertook to pay to her under the Agreement.
+(iii) The amount of $69,372.80 that she received in January 1999 was in a manner of speaking a payment of the support arrears for 1993 and 1994. I stress that the appellant’s testimony in that respect is contradicted by the content of a letter (dated April 26, 2009) addressed to the appellant’s lawyer (Exhibit I-4). Indeed, in the letter, the appellant indicated to her lawyer that in January 1999 the CUM had paid her $121,121 in arrears for the period from March 1994 to July 1998, that is, 220 weeks at $550.00 per week. I would point out here that the appellant and Mr. Belval testified that, rather, the appellant had received from the CUM an amount of $69,372.80 in support arrears relating to a period different from the one indicated in the letter. Called upon to explain on cross-examination the inconsistencies between her testimony and that of Mr. Belval and the content of the letter of April 26, 2002, the appellant testified that she [TRANSLATION] “went by memory when she wrote the letter” and that it was not until recently that her accountant pointed out to her that the information contained in the letter was inaccurate. In other words, the appellant submits that her memory had betrayed her. I must emphasize that the appellant has not convinced me that the information contained in the letter of April 26, 2002 was inaccurate, considering that the evidence in fact revealed that the appellant included in income an amount of $121,121 (and not $69,372.80) as support in her income tax return for 1999. The appellant was unable to explain why she had included in computing her income for 1999 a support amount of $121,121 rather than the amount of $69,372.80 that she claims to have received. She added that only her accountant (who had prepared her income tax return for 1999), who obviously was not called to testify, could provide explanations in that respect as she did not review any of her tax returns because she had absolutely no knowledge of accounting or taxation. Indeed, it would have been most interesting to hear the testimony of this accountant (whose name she did not even consider it worthwhile mentioning) in that regard. The appellant was in a position to have him testify. She did not, and I infer from this that his testimony would have been unfavourable to her. The contradictions between the letter of April 26, 2009 and the appellant’s testimony, and the fact that she included in computing her income for 1999 an amount of $121,121 rather than an amount of $69,372.80, lead me to believe that the content of the letter is true. All these contradictions have satisfied me that it would be hazardous to give the appellant’s testimony, and consequently, Mr. Belval’s testimony, any credence without any conclusive corroborating evidence in the form of documentation or of testimony by credible witnesses. I would add that the appellant could have adduced in the case at bar all documentation relating to the seizure for payment of support carried out by the collector of support payments, to the bankruptcy of Mr. Belval, and to the amount that the third party (the CUM) was required to remit forthwith to the debtor, Jean Belval. That documentation could perhaps have been adduced in evidence by the appellant. The appellant did not do so, and I infer from this that the evidence would have been unfavourable to her.
+(iv) On April 23, 2003, Mr. Belval issued to the appellant a cheque for $56,000 in payment of support arrears for 1995 and 1996. I note immediately in that respect that the evidence further revealed that the appellant did not include that amount in income as support in computing her income for the 2003 taxation year. Indeed, the evidence revealed that only the following amounts were included in income as support amounts in the computation of the appellant’s income:
+In 1999: $121,121
+In 2000: $28,600
+In 2001: $28,600
+In 2002: $28,000
+I note again that the appellant was unable to explain why the amount of $56,000 was not included in the computation of her income for the 2003 taxation year or why, on the other hand, the amount of $28,600 was included in the computation of her income for the 2000, 2001 and 2002 taxation years.
+Lise Dupuis’s testimony
+[9] Lise Dupuis (a friend of Mr. Belval’s) gave testimony the gist of which was that Mr. Belval resided at her home during the period from May 2003 to December 2003.
+Analysis and conclusion
+[10] According to subsection 325(1) of the ETA, the transferee and transferor are jointly and severally liable in respect of any amount the transferor is required to pay under the ETA during the taxation year in which the property at issue was transferred or a preceding year. However, the liability of the transferee is limited to the lesser of the two following amounts: (i) the amount, if any, by which the fair market value of the property at the time of the transfer exceeds the fair market value at that time of the consideration given for the property, and (ii) the amount of the transferor's tax liability. From these tax provisions, it emerges that the appellant cannot be held jointly and severally liable with Mr. Belval with respect to Mr. Belval’s tax liability at the time the appellant cashed the cheque for $56,000 if that cheque was issued in payment of alleged arrears in the support for 1995 and 1996 payable under the Agreement.
+[11] Furthermore, subsection 325(4) indicates that the appellant cannot be held jointly and severally liable with Mr. Belval with respect to Mr. Belval’s tax liability at the time the appellant cashed the cheque for $56,000 if that cheque was issued as a payment made to discharge an obligation under a written separation agreement and if, at the time the cheque was written, Mr. Belval and the appellant were living separate and apart as a result of the breakdown of their marriage.
+[12] In other words, for the appellant not to be held jointly and severally liable with Mr. Belval with respect to Mr. Belval’s tax liability at the time the appellant cashed the cheque for $56,000, the appellant had to first prove, on a balance of probabilities, that the cheque was issued in payment of support arrears for 1995 and 1996. The appellant’s evidence in that regard consisted solely of her own testimony and that of Mr. Belval. Considering my finding respecting the probative value of their testimony, I must conclude that the appellant failed to discharge her obligation to show, on a balance of probabilities, that the cheque for $56,000 was issued in payment of support arrears for 1995 and 1996.
+[13] I would add that the appellant cannot avail herself of the exception set out in subsection 325(4) of the ETA (even if, at the time the cheque for $56,000 was issued, she was living separate and apart from Mr. Belval—which I doubt—as a result of the breakdown of their marriage) as she was unable to show that the cheque for $56,000 was issued as a payment made to discharge an obligation under a separation agreement.
+[14] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 9th day of January 2012.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 25th day of April 2013.
+Erich Klein, Revisor
+CITATION: 2012 TCC 2
+COURT FILE NO.: 2010-190(GST)G
+STYLE OF CAUSE: Martine Chamard v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 28, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: January 9, 2012
+APPEARANCES:
+Counsel for the appellant:
+Dany Afram
+Aaron Rodgers
+Counsel for the respondent:
+Danny Galarneau
+COUNSEL OF RECORD:
+For the appellant:
+Names: Dany Afram
+Aaron Rodgers
+Firm: Miller Thomson
+Montreal, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

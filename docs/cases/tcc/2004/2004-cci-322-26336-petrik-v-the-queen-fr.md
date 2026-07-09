@@ -1,0 +1,175 @@
+---
+title: "Petrik v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26336/index.do"
+last_modified: "2004-04-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 322"
+citation2: ""
+neutral_citation: "2004 CCI 322"
+decision_date: "2004-04-29"
+language: "fr"
+item_id: "26336"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3283
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:32:36.474000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fb610bf0ffd8a05d274818fc6e7b559e5f02359b38ea1e40145e39c6781adb0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Petrik v. The Queen
+
+- Citation: 2004 CCI 322
+- Decision date: 2004-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3283, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Petrik v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-29
+Référence neutre
+2004 CCI 322
+Numéro de dossier
+2000-3831(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-3831(IT)G
+ENTRE :
+STEVE PETRIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu par M. le juge D.W. Beaubier à Lethbridge (Alberta),
+le 20 avril 2004.
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1994 et 1995 sont admis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu'il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs de jugement ci-joints.
+Signé à Saskatoon (Saskatchewan), ce 29e jour d'avril 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+Référence : 2004CCI322
+Date : 20040429
+Dossier : 2000-3831(IT)G
+ENTRE :
+STEVE PETRIK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier, C.C.I.
+[1] Cet appel, régi par la procédure générale, a été entendu à Lethbridge (Alberta) le 20 avril 2004. L'appelant était le seul témoin.
+[2] Les points litigieux sont énoncés aux paragraphes 9 à 12 inclusivement de la réponse à l'avis d'appel, ces paragraphes étant ainsi libellés :
+[traduction]
+9. Le 21 août 1998, le ministre a en outre établi comme suit une nouvelle cotisation à l'égard de l'appelant :
+a) il a augmenté les montants des déductions demandées par l'appelant au titre des dépenses de 28 168,40 $ pour l'année 1994, la déduction passant de 12 949,79 $ à 41 118,19 $, et de 17 052,24 $ pour l'année 1995, la déduction passant de 0,00 $ à 17 052,24 $; et
+b) il a augmenté le montant du revenu brut d'entreprise de 29 595,16 $, le montant passant de 33 395,04 $ à 62 990,20 $ pour l'année 1994.
+Le revenu brut révisé d'entreprise pour l'année 1994 et les dépenses et revenus nets révisés pour les années 1994 et 1995 sont indiqués à l'annexe A ci-jointe, laquelle fait partie de la réponse.
+10. En établissant ainsi la nouvelle cotisation à l'égard de l'appelant, le ministre s'est entre autres fondé sur les hypothèses de fait ci-après énoncées :
+a) les fait qui ont été admis et qui sont ci-dessus énoncés;
+b) pendant la période pertinente, l'appelant exploitait une entreprise paysagiste (l' « entreprise » );
+c) dans les déclarations T1 en date du 3 juin 1996, l'appelant a initialement déclaré un revenu brut d'entreprise de 33 395,04 $ et des dépenses s'élevant en tout à 75 413,39 $ pour l'année 1994 ainsi qu'un revenu brut d'entreprise de 32 748,55 $ et des dépenses s'élevant à 52 107,90 $ pour l'année 1995;
+d) dans les déclarations modifiées T1 en date du 2 juillet 1997, l'appelant a déclaré un revenu brut d'entreprise de 33 683,04 $ pour l'année 1994, les dépenses de 1994 ainsi que le revenu et les dépenses de 1995 n'ayant pas changé;
+e) dans sa déclaration initiale T1 pour 1994, l'appelant a sous-estimé le revenu brut d'entreprise d'un montant de 29 595,16 $;
+f) en 1994, l'appelant a engagé un montant de 41 118,19 $ au titre des dépenses en vue de tirer un revenu de l'entreprise;
+g) en 1995, l'appelant a engagé un montant de 17 052,24 $ au titre des dépenses en vue de tirer un revenu de l'entreprise;
+h) les montants de 22 697,20 $ et de 25 070,66 $ déduits par l'appelant au titre des dépenses pour les années d'imposition 1994 et 1995 respectivement n'ont pas été engagés et, s'ils l'ont été, ils n'ont pas été engagés en vue de tirer un revenu d'entreprise (les « montants refusés » );
+i) les montants de 11 598 $ et de 9 985 $ déduits par l'appelant au titre de la déduction pour amortissement pour les années d'imposition 1994 et 1995 respectivement n'ont pas été engagés par l'appelant;
+j) les montants refusés, indiqués à l'annexe A ci-jointe, n'ont pas été engagés et, s'ils l'ont été, il s'agissait de frais personnels ou de frais de subsistance de l'appelant.
+B. QUESTION À TRANCHER
+11. Il s'agit de savoir si l'appelant a engagé certains montants à titre de dépenses en vue de tirer un revenu d'entreprise, en sus des montants acceptés par le ministre.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+12. Le sous-procureur général se fonde sur les articles 3, 9 et 18 ainsi que sur le paragraphe 248(1) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi » ).
+[3] Les hypothèses énoncées aux alinéas 10b), c) et d) n'ont pas été réfutées par la preuve. Les autres hypothèses sont contestées; il s'agit essentiellement de questions se rapportant à la vérification de chiffres, à des dépenses personnelles ou à des éléments déduits à titre de dépenses, lesquels sont en fait imputables au capital.
+[4] Les documents de travail de l'intimée contenus dans la pièce R-2 ont servi à l'établissement des cotisations et ont été examinés en détail pendant le contre-interrogatoire. Compte tenu du témoignage de l'appelant, la Cour, en se fondant sur ces documents, permet à l'appelant de déduire des dépenses additionnelles en sus de celles qui ont été admises par le ministre comme il en est fait mention dans la pièce R-2, à savoir :
+1994, page 3 :
+Freddies Paint : 140,19 $, 70,10 $ et 186,92 $;
+Just for Pets : 75 p. 100 de 155 $, 90 $ et 149,54 $;
+Logic Lumber : 280,37 $, 934,58 $, 373,83 $, 280,37 $ et 225,78 $;
+Thunderbird : 17,70 $, 15,46 $, 32,89 $, 11,85 $ et 29,58 $;
+Page 5 :
+Essence : 90 p. 100 de 4 135,26 $.
+Page 6 :
+G & E Insurance : 500 $, 800 $ et 350 $;
+Page 10 :
+Location, Banker's Commercial : 401,25 $, 433,86 $ et 10,54 $.
+Page 17 :
+Déduction pour amortissement :
+4 août 1994, Ford 1978 une tonne, dépense en immobilisations, 3 210 $;
+novembre 1994, Ford 1972 trois quarts de tonne, dépense en immobilisations, 1 100 $.
+1995, page 19 :
+Essence, rajustement, ajouter au titre des dépenses, 2 009,08 $;
+Déduction pour amortissement, report prospectif permis du solde de 1994.
+[5] Au cours de l'année 1994, l'appelant exploitait une entreprise paysagiste. Après son divorce, lorsqu'il s'est séparé de sa conjointe, l'appelant n'a pas tenu de livres. Pendant les années en cause, l'appelant n'a pas établi de factures à l'égard des soumissions qu'il présentait ou des travaux qu'il exécutait. Il était souvent payé en argent comptant. Il a fait l'objet de procédures de recouvrement et il a été obligé d'engager des poursuites à l'égard de certains travaux. S'il gagnait sa cause, comme dans le cas de Cornerstone, l'avocat recouvrait l'argent et payait les comptes de l'appelant à l'aide de son compte en fiducie, et l'appelant n'enregistrait jamais le paiement. Voir la pièce A-1. L'appelant ne comprend pas la différence entre une dépense en immobilisations, une « dépense » ou une déduction pour amortissement.
+[6] De toute évidence, la situation de l'appelant laisse à désirer et il se peut qu'il doive déclarer faillite. L'appelant agissait pour son propre compte. Ses déclarations de revenu ont été produites par un cabinet comptable qui a simplement accepté ce qu'il avait et qui a déclaré les montants de la même façon. Le « revenu » déclaré était constitué de montants déposés dans le compte bancaire de l'appelant. Les « dépenses » déduites étaient composées de ce que l'appelant inscrivait à ce titre. Dans bien des cas, il n'y avait pas de pièces justificatives.
+[7] L'avocate de la Couronne s'est montrée généreuse en contre-interrogeant l'appelant. Si ce n'avait été le cas, la Cour ne l'aurait pas autorisé à déduire les montants additionnels qui sont ici décrits.
+[8] L'appel est admis en vue de permettre à l'appelant de déduire les sommes additionnelles ici décrites, et les cotisations sont renvoyées au ministre pour qu'il procède à un nouvel examen et établisse de nouvelles cotisations en conséquence.
+[9] Le présent appel aurait dû être régi par la procédure informelle; néanmoins, l'intimée a fait maints efforts lorsqu'il s'est agi de soumettre l'affaire à la Cour, et l'avocate de l'intimée elle-même a mené l'instruction d'une façon fort équitable. Néanmoins, malgré la courtoisie dont l'avocate de la Couronne a fait preuve en l'espèce et compte tenu de la situation de l'appelant, les frais et dépens ne seront pas adjugés.
+Signé à Saskatoon (Saskatchewan), ce 29e jour d'avril 2004.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Jacques Deschênes, LL.B.
+RÉFÉRENCE :
+2004CCI322
+No DU DOSSIER DE LA COUR :
+2000-3831(IT)G
+INTITULÉ :
+Petrik c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Lethbridge (Alberta)
+DATE DE L'AUDIENCE :
+Le 20 avril 2004
+MOTIFS DU JUGEMENT :
+M. le juge D.W. Beaubier
+DATE DU JUGEMENT :
+Le 29 avril 2004
+COMPARUTIONS :
+Avocat de l'appelant :
+Avocate de l'intimée :
+Me Margaret McCabe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

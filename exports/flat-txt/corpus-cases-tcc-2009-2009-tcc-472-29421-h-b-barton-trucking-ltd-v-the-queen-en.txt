@@ -1,0 +1,126 @@
+Title: H.B. Barton Trucking Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29421/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-472-29421-h-b-barton-trucking-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-17
+
+# H.B. Barton Trucking Ltd. v. The Queen
+
+- Citation: 2009 TCC 472
+- Decision date: 2009-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6973, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+H.B. Barton Trucking Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-17
+Neutral citation
+2009 TCC 472
+File numbers
+2007-4015(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4015(IT)G
+BETWEEN:
+H.B. BARTON TRUCKING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by telephone conference call on September 17, 2009 at Ottawa, Canada
+Before: The Honourable Justice Valerie Miller
+Counsel for the Appellant:
+D. Andrew Rouse
+Counsel for the Respondent:
+John Bodurtha
+Devon Peavoy
+Jan Jensen
+____________________________________________________________________
+ORDER
+Upon a Motion by the Appellant for an Order for costs in excess of the amounts provided in the Tariff to the Tax Court of Canada Rules (General Procedure);
+And upon hearing the representations of the Appellant and the Respondent;
+The Motion is dismissed and each party should bear its own costs in respect of this Motion.
+Signed at Ottawa, Canada, this 18th day of September 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC472
+Date: 20090918
+Docket: 2007-4015(IT)G
+BETWEEN:
+H.B. BARTON TRUCKING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+V.A. Miller, J.
+[1] The Appellant has brought a motion for an order for costs in excess of the amounts provided in the Tariff to the Tax Court of Canada Rules (General Procedure).
+[2] The grounds for the motion are that:
+a) On September 19, 2008, the Appellant made an offer to settle the appeal which was rejected by the Respondent. The appeal was allowed on the same basis as the Appellant’s offer to settle.
+b) The amount in issue at the trial was in excess of $138,000 which amount is extremely important to the Appellant.
+c) The issue at trial was very important to the Appellant and to the logging industry in Canada.
+d) If the settlement offer had been accepted, a trial would not have been necessary.
+e) The Appellant withdrew its appeal on all other issues that had been raised in its Notice of Appeal thereby shortening the trial.
+[3] An award of costs is governed by Rule 147 of the Tax Court of Canada Rules (General Procedure). Rule 147(1) gives the Court the discretion to determine the amount of the costs of the parties and Rule 147(3) provides some factors that the Court can consider when exercising its discretionary power. The relevant portions of that Rule read as follows:
+147. General Principles -- (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+[4] In my Reasons for Judgment, I had considered the result of the proceeding and awarded costs to the Appellant.
+[5] In awarding costs, the Court must exercise its discretion on proper principles and not capriciously. The fact that a case is novel, unique, complex or difficult, or that it involves a great deal of money is not necessarily a reason for departing from the Tariff[1].
+[6] I daresay that in all tax appeals the amount in issue is important to the taxpayer. In this appeal, the amount at issue, although important to the Appellant, is not considered a large amount of money.
+[7] The issue which was heard in this appeal may have been novel but it was neither complex nor difficult. The hearing of this appeal lasted one-half day with most of the time being spent on oral submissions.
+[8] The issue in this appeal was novel. The rejection of the settlement offer, in the circumstances of this case, does not warrant an award of costs in excess of the Tariff.
+[9] The motion is dismissed. Each party should bear its own costs in respect of this motion.
+Signed at Ottawa, Canada, this 18th day of September 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC472
+COURT FILE NO.: 2007-4015(IT)G
+STYLE OF CAUSE: H.B. BARTON TRUCKING LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: September 17, 2009
+REASONS FOR ORDER BY: The Honourable Justice Valerie Miller
+DATE OF ORDER: September 18, 2009
+APPEARANCES:
+Counsel for the Appellant:
+D. Andrew Rouse
+Counsel for the Respondent:
+John Bodurtha
+Devon Peavoy
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: D. Andrew Rouse
+Firm: Mockler, Peters, Oley, Rouse
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Alemu v. R., [1999] 3 C.T.C. 2024

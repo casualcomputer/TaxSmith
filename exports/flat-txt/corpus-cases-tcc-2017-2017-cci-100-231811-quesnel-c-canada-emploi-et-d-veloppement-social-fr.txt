@@ -1,0 +1,135 @@
+Title: Quesnel c. Canada (Emploi et Développement social)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231811/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-100-231811-quesnel-c-canada-emploi-et-d-veloppement-social-fr.md
+Document type: case_law
+Last modified: 2017-06-01
+
+# Quesnel c. Canada (Emploi et Développement social)
+
+- Citation: 2017 CCI 100
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2140, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quesnel c. Canada (Emploi et Développement social)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-01
+Référence neutre
+2017 CCI 100
+Numéro de dossier
+2015-5491(OAS)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2015-5491(OAS)
+ENTRE :
+LEON QUESNEL
+appelant,
+et
+LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 mai 2017, à Moncton (Nouveau-Brunswick).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l'appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel interjeté devant la Cour en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse est rejeté. Les déterminations du revenu de l’appelant aux fins du calcul de son supplément de revenu garanti pour les périodes de paiement de juillet 2012 à juin 2013 et de juillet 2013 à juin 2014 faites par le ministre de l’Emploi et du Développement social sont correctes.
+Signé à Ottawa, Canada, ce 1er jour de juin 2017.
+« Robert J. Hogan »
+Le juge Hogan
+Référence : 2017 CCI 100
+Date : 20170601
+Dossier : 2015-5491(OAS)
+ENTRE :
+LEON QUESNEL
+appelant,
+et
+LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL
+intimé,
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction [1] L’appelant, Leon Quesnel, interjette appel d’une décision du Tribunal de la sécurité sociale du Canada (le « Tribunal de la sécurité sociale ») visant son droit au supplément de revenu garanti (SRG). Les périodes en litige vont de juillet 2012 à juin 2013 et de juillet 2013 à juin 2014 (les « périodes pertinentes »).
+[2] Le SRG a pour objectif d’aider les bénéficiaires de pensions de la Sécurité de la vieillesse aux revenus modestes. Le revenu gagné par les demandeurs et leur époux réduit le montant de cette prestation mensuelle.
+[3] En vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse (la « Loi ») le Tribunal de la sécurité sociale doit renvoyer à la Cour les questions de revenus et de sources de revenus pertinentes au calcul du SRG pour une période de paiement. Ce renvoi a été fait relativement à l’appel de M. Quesnel.
+II. Contexte factuel [4] Le ministre de l’Emploi et du Développement social (le « ministre ») s’est fondé sur les hypothèses de faits suivantes pour déterminer le droit de l’appelant au SRG pour les périodes pertinentes :
+a) L’appelant s’est marié de nouveau le 28 décembre 2012;
+Période de paiement de janvier à juin 2013
+b) L’appelant a eu 65 ans en avril 2011.
+c) Il a commencé à recevoir sa pension de sécurité de la vieillesse et des avantages de SRG en mai 2011, soit le mois suivant son 65e anniversaire.
+d) L’épouse de l’appelant est décédée le 17 août 2011.
+e) À la suite de cet événement, l’appelant a été avisé par une lettre datée du 24 août 2011 qu’il n’avait plus droit au supplément de revenu garanti à partir de la période de paiement de septembre 2011 puisque son revenu pour l’année financière 2010 se situait au-dessus du seuil de revenu maximal prévu pour une personne seule pour la période de paiement de septembre 2011 de 16 176 $ puisque son revenu avait été de 28 712 $.
+f) Le 7 août 2012, l’appelant a déposé une demande de SRG pour la période de paiement de juillet 2012 à juin 2013.
+g) Le 30 août 2012, le ministre a avisé l’appelant de sa décision de rejeter sa demande en raison des revenus de l’appelant pour l’année 2011, qui étaient de 27 818,01 $, puisque ce revenu se situait au-delà du seuil minimum prévu pour la période de paiement de juillet 2012, qui était de 16 512 $.
+h) Après avoir pris sa retraite le 27 octobre 2011, l’appelant a également déposé un formulaire de déclaration du revenu prévu après la retraite ou après la diminution du revenu de retraite pour l’année 2011 le 7 août 2012 dans lequel il estimait le revenu qu’il recevrait du Régime de pensions du Canada (RPC), de l’assurance-emploi (AE) et d’un emploi à temps partiel.
+i) Dans une lettre datée du 2 octobre 2012, le ministre a avisé l’appelant que son revenu présumé pour 2011, qui était de 16 864 $, se trouvait au-dessus du seuil maximal de revenu de 16 320 $ pour 2011 permettant de se qualifier pour recevoir le SRG pour la période de paiement de novembre 2011 à juin 2012.
+j) Le 30 août 2012, l’appelant a déposé un formulaire de déclaration du revenu prévu après la retraite ou après la diminution du revenu de retraite pour l’année 2012, où il déclarait qu’en plus d’être retraité depuis le mois d’octobre 2011, ses paiements d’AE avaient cessé le 25 août 2012. Il y faisait l’estimation de ses revenus provenant du Régime de pensions du Canada (RPC), de l’assurance-emploi (AE) et d’un emploi saisonnier à temps partiel. Le montant de revenu d’emploi estimé se chiffrait à 1 770 $.
+k) Dans une lettre datée du 2 octobre 2012, le ministre a avisé l’appelant que son revenu anticipé pour l’année 2012, après son départ à la retraite et avant la fin des paiements d’AE, était de 16 551 $ et que par conséquent, il ne se qualifiait pas pour recevoir des paiements de SRG pour la période de paiement de juillet à août 2012.
+l) Cette lettre précisait également que le revenu anticipé de l’appelant pour l’année 2012, suivant la cessation des paiements d’assurance-emploi, était de 6 861 $ de septembre 2012 à juin 2013 et qu’il était par conséquent admissible au SRG à partir du mois de septembre 2012.
+m) Le 27 mai 2013, l’appelant a déposé un formulaire de déclaration du revenu prévu après la retraite ou après la diminution du revenu de retraite pour l’année 2013.
+n) Le 13 juin 2013, l’Agence du revenu du Canada (ARC) a avisé le ministre que le revenu d’emploi de 2012 de l’appelant a été de 8 506 $ plutôt que des 1 770 $ qu’il avait initialement anticipé sur son formulaire.
+o) En raison des renseignements reçus de l’ARC, le revenu anticipé de l’appelant pour l’année 2012 a dû être augmenté de 4 851 $, ce qui tient compte de l’exemption pour gains de 3 500 $ et de la déduction des cotisations d’assurance-emploi de 155,66 $ (en application de la définition de revenu retrouvée à l’article 2 de la Loi), ayant pour conséquence un revenu anticipé révisé de 21 402 $ pour la période de paiement de juillet 2012 à août 2012 et de 11 712 $ pour la période s’étalant de septembre 2012 à juin 2013 aux fins de son droit au SRG.
+p) Le 29 juillet 2013, l’appelant a avisé le ministre qu’il s’est marié à Marney Tower le 28 décembre 2012, qui est aussi bénéficiaire d’une pension.
+q) Depuis le nouveau mariage de l’appelant en décembre 2012, son droit au SRG pour la période de janvier 2013 à juin 2013 a dû être recalculé en fonction du revenu combiné des époux au taux accordé aux personnes mariées plutôt qu’en fonction d’un seul revenu visé par le taux accordé aux personnes seules.
+r) Le revenu combiné comprenait le revenu anticipé de l’appelant pour 2012 de 11 712 $, plus le revenu de son épouse pour l’année 2011 de 28 814 $ pour un total de 40 526 $.
+s) Ces deux ajustements ont donc eu pour conséquence que des paiements en trop d’un total de 3 237,68 $ ont été faits pour la période de septembre 2012 à juin 2013.
+Période de paiement de juillet 2013 à juin 2014
+t) Le ministre a également examiné la déclaration de revenus de l’appelant pour l’année 2013 afin de déterminer son droit aux paiements de SRG pour la période de paiement de juillet 2013 à juin 2014. Sur ce formulaire, l’appelant avait prévu qu’il recevrait des revenus du RPC et des revenus d’emploi.
+u) Puisque son revenu anticipé pour 2013 était plus élevé (29 661,48 $) que son revenu de l’année civile de référence (21 818 $), le ministre a utilisé son revenu plus faible de 2012 pour déterminer s’il avait droit au SRG. Toutefois, son revenu, combiné au revenu anticipé de 10 110 $ de son épouse pour 2013, totalise 31 928 $, soit plus que le seuil maximal de revenu prévu pour juillet, qui est de 22 032 $. Par conséquent, l’appelant n’avait pas droit au supplément de revenu garanti pour la période de paiement de juillet 2013 à juin 2014.
+v) Dans une lettre datée du 2 janvier 2014, le ministre a avisé l’appelant des ajustements apportés à son SRG pour la période de juillet 2012 à juin 2013 et du fait qu’il n’avait pas droit aux paiements du SRG pour la période de juillet 2013 à juin 2014.
+[5] L’appelant n’a pas contesté les hypothèses de faits du ministre.
+III. Questions à trancher [6] La question en litige est de savoir si le calcul du ministre pour le SRG de l’appelant pour les périodes de paiement de juillet 2012 à juin 2013 et de juillet 2013 à juin 2014 est exact.
+IV. Analyse
+[7] De façon générale, le SRG est calculé chaque année pour une période d’un an s’étendant du mois de juillet d’une année au mois de juin de l’année suivante. Cette période est appelée la période de paiement. En l’espèce, les périodes de paiement pertinentes sont de juillet 2012 à juin 2013 et de juillet 2013 à juin 2014.
+[8] Communément, le SRG calculé pour chaque période de paiement dépend du revenu total du pensionné pour l’année précédente, appelé le revenu de l’année de référence.
+[9] Ainsi, pour la période de paiement de juillet 2012 à juin 2013, l’année de référence est 2011.
+[10] L’article 2 de la Loi définit le « revenu » aux fins de la détermination du droit au supplément de revenu garanti comme étant le revenu d’une personne pour une année donnée calculé conformément à la Loi de l’impôt sur le revenu, sauf quelques exceptions. Lorsque la personne pensionnée a un époux ou un conjoint de fait, son SRG est basé sur le revenu total combiné du couple.
+[11] Lorsque la personne pensionnée s’engage dans une relation conjugale, son SRG doit être calculé comme si elle était mariée dans le mois suivant la date du mariage. Le paragraphe 12(6) de la Loi décrit la formule utilisée pour établir le « revenu mensuel de base » aux fins du calcul du SRG. Plus précisément, l’alinéa b) dispose que pour les pensionnés mariés, la partie A de la formule représente le total des revenus des époux pour l’année de référence.
+[12] L’appelant s’est marié le 28 décembre 2012 et en a avisé le ministre le 29 juillet 2013. Puisqu’il s’est marié pendant la période de paiement de juillet 2012 à juin 2013, son droit au SRG doit être calculé sur le revenu total des époux à partir du mois de janvier 2013, soit le mois suivant son mariage tel qu'il est requis par le paragraphe 15(6.1) de la Loi.
+[13] Puisqu’aucune estimation de revenu n’a pu être déposée pour l’épouse de l’appelant pour la période de janvier 2013 à juin 2013, le calcul du SRG de l’appelant pour cette période doit plutôt être fondé sur le revenu de son épouse pour l’année de référence, soit 2011.
+[14] Étant donné que l’épouse de l’appelant a cessé de travailler en juin 2013, l’admissibilité de l’appelant au SRG pour la période de juillet 2013 à juin 2014 pouvait être calculée en fonction du revenu anticipé de son épouse pour l’année 2013 plutôt que selon son revenu de l’année de référence 2012.
+[15] L’article 14 de la Loi permet au ministre d’utiliser une méthode différente pour calculer le revenu d’un pensionné lorsque celui-ci cesse d’être titulaire d’une charge ou d’un emploi, cesse d’exploiter une entreprise ou subit la perte ou la réduction de tout revenu de pension pendant une période de paiement. Lorsqu’un tel événement se présente, le ministre doit baser le calcul du revenu du pensionné sur une estimation du revenu de pension, de charge, d’emploi ou d’entreprise de ce pensionné suivant cet événement, auquel les revenus provenant de toutes autres sources de revenus pour l’année de référence sont ajoutés. Cette autre méthode de calcul aux fins du SRG est communément appelée l’option. L’article 14 de la Loi permet également au ministre d’utiliser cette option pour calculer le revenu d’un pensionné pour la seconde période de paiement suivant la survenance de l’événement.
+[16] Puisque les hypothèses de faits du ministre sont reconnues par l’appelant, y compris l’hypothèse relative au montant de son revenu combiné, la détermination du ministre du revenu combiné de l’appelant pour les périodes de paiement de juillet 2012 à juin 2013 et de juillet 2013 à juin 2014 est correcte. Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 1er jour de juin 2017.
+« Robert J. Hogan »
+Le juge Hogan
+RÉFÉRENCE :
+2017 CCI 100
+NO DE DOSSIER DE LA COUR :
+2015-5491(OAS)
+INTITULÉ :
+LEON QUESNEL c. LE MINISTRE DE L’EMPLOI ET DU DÉVELOPPEMENT SOCIAL
+LIEU DE L’AUDIENCE :
+Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 4 mai 2017
+MOTIFS DU JUGEMENT :
+Le juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 1er juin 2017
+COMPARUTIONS :
+Avocat de l'appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Emmanuel Jilwan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

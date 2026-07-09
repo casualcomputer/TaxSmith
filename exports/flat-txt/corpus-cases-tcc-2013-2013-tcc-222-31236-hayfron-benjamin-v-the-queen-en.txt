@@ -1,0 +1,162 @@
+Title: Hayfron-Benjamin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31236/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-222-31236-hayfron-benjamin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-06-24
+
+# Hayfron-Benjamin v. The Queen
+
+- Citation: 2013 TCC 222
+- Decision date: 2013-06-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5141, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hayfron-Benjamin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-06-24
+Neutral citation
+2013 TCC 222
+File numbers
+2011-3625(IT)I, 2011-3626(IT)I, 2012-4868(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3625(IT)I
+BETWEEN:
+JONATHAN J. HAYFRON-BENJAMIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jonathan J. Hayfron-Benjamin 2011-3626(IT)I and
+Jonathan J. Hayfron-Benjamin 2012-4868(IT)I
+on June 24, 2013 at Halifax, Nova Scotia
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2008 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 9th day of July 2013.
+"Patrick Boyle"
+Boyle J.
+Docket: 2011-3626(IT)I
+BETWEEN:
+JONATHAN J. HAYFRON-BENJAMIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jonathan J. Hayfron-Benjamin 2011-3625(IT)I and
+Jonathan J. Hayfron-Benjamin 2012-4868(IT)I
+on June 24, 2013 at Halifax, Nova Scotia
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2009 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 9th day of July 2013.
+"Patrick Boyle"
+Boyle J.
+Docket: 2012-4868(IT)I
+BETWEEN:
+JONATHAN J. HAYFRON-BENJAMIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Jonathan J. Hayfron-Benjamin 2011-3625(IT)I and
+Jonathan J. Hayfron-Benjamin 2011-3626(IT)I
+on June 24, 2013 at Halifax, Nova Scotia
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the Appellant’s 2010 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 9th day of July 2013.
+"Patrick Boyle"
+Boyle J.
+Citation: 2013 TCC 222
+Date: 20130709
+Dockets: 2011-3625(IT)I
+2011-3626(IT)I
+2012-4868(IT)I
+BETWEEN:
+JONATHAN J. HAYFRON-BENJAMIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Mr. Hayfron-Benjamin has appealed the Canada Revenue Agency’s (“CRA”) reassessments of his 2008, 2009 and 2010 taxation years. His informal appeal in Halifax, Nova Scotia lasted a full day, including a lengthy adjournment to permit the taxpayer to go home to get additional documents. The taxpayer gave evidence on his own behalf. The Crown had a CRA appeals officer testify.
+[2] The reassessments each included additional unreported employment income in Mr. Hayfron-Benjamin’s income. The 2008 and 2009 reassessments also include a retiring allowance from an employer in question each year. In addition, in each of the 2009 and 2010 taxation years, CRA reassessed a subsection 163(1) penalty in respect of repeated underreporting of income.
+[3] The unreported income in issue in these appeals was approximately $35,000 in 2008, $19,000 in 2009 and $32,000 in 2010. The taxpayer’s reported income prior to the amounts in issue being reassessed was all employment income in the amounts of approximately $36,000 in 2008, $28,000 in 2009 and $21,000 in 2010.
+[4] The reassessed amounts included in income from three different employers had all been subject to income tax withholding and T4 or T5 information return reporting. It appeared from the parties’ pleadings and argument that, as a practical matter, it was the 10% penalties assessed in 2009 and 2010 which were the focus of Mr. Hayfron-Benjamin’s objection and appeal. This is presumably because the appropriate withholdings were made by the employers from the amounts paid.
+[5] The subsection 163(1) penalty is 10% of the unreported amounts even in circumstances where the full amount is subject to tax withholding and reporting by the employer. See this Court’s decisions in Dunlop v. The Queen, 2009 TCC 177, Saunders v. The Queen, 2006 TCC 51, and Mignault v. The Queen, 2011 TCC 500.
+[6] In the years in question, Mr. Hayfron-Benjamin worked in the information technology IT and call centre sectors for several different employers. The three employers for which he has been reassessed and the amounts reported as paid to him as their employee are also IT/call centre related.
+[7] The three employers each reported the amounts were paid to Jonathan Hayfron-Benjamin and identified him by his correct social insurance number. It is the taxpayer’s position that he never worked for, nor was paid by, any of these three companies and that he therefore must have been the victim of SIN fraud. Further, he maintains he did not receive his copies of the T4 or T5 slips in question.
+[8] Having denied that he worked for, or was paid by, any of these companies, Mr. Hayfron-Benjamin correctly notes that it is difficult for him to prove the negative and argues that it should be up to the Crown to prove he did in fact work for and get paid by these companies.
+[9] The Crown’s evidence is that each of these companies reported T4 or T5 income to a person having the taxpayer’s name and social insurance number. In addition, with respect to two of the employers, Dell and Resolve (now D+H), CRA obtained later written confirmation and supporting documentation confirming essentially the same information along with other employee and employment related information. With respect to Dell, that included the employee’s bank account information into which the amounts were deposited. CRA had nothing further than the original T4/T5 information in respect of the third employer corporation. CRA did not ask for or try to confirm whether amounts were in fact deposited by any of the three companies into a bank account of this taxpayer. The Crown essentially is left relying upon the taxpayer’s name and SIN for its decision to add the reassessed amounts in question to this taxpayer’s income.
+[10] In short, the Crown did not have anyone who could say that this particular taxpayer – as opposed to another person using his name and SIN – actually worked at or for, or got paid by, any of these three companies.
+[11] As I said in Gorfain v. The Queen, 2013 TCC 136, in circumstances where a taxpayer maintains he does not know the alleged payor and that they never worked or got paid by them, it is indeed difficult for a taxpayer to put in much further evidence. Given the prevalence of identity theft and the loss of personal information including names, addresses, SINs and other personal information, including by government departments and agencies, this may have the practical effect of requiring some further persuasive evidence from the Crown in some such cases. In this case, it would have been open to CRA to request or demand from the taxpayer or his bank, his account information to establish payment. It did not make any effort in this regard.
+[12] In the particular circumstances of this case, however, I find there are significant concerns with respect to Mr. Hayfron-Benjamin’s position, evidence and version of events, and with respect to his overall credibility, that require me to dismiss his appeals. I do not accept his position that he did not work for or get paid by these three companies having regard to all of the evidence. Further, Mr. Hayfron-Benjamin’s credibility is very significantly brought into question overall by his deceptive and misleading letter to the Court described below.
+[13] I find the taxpayer’s position difficult to accept for the following reasons:
+(i) it would not appear to make economic sense for a Canadian to use another taxpayer’s name and social insurance number and identity to earn employment income subject to withholding as no tax can be avoided and a refund is probably lost;
+(ii) the taxpayer reported his belief that there had been fraudulent use of his SIN to the appropriate government department. Human Resources and Skills Development Canada (HRSDC/Service Canada) conducted an investigation and reported that no fraudulent activity had been identified and refused to issue Mr. Hayfron-Benjamin a new SIN;
+(iii) the taxpayer never attempted to write or call any of the three companies to try to get to the bottom of why they would believe he had worked for them - even though he had made numerous trips to government offices and police stations for his claims to have been a victim of SIN fraud;
+(iv) the taxpayer did not bring or produce his bank account information, even though he could see from the documents received from the Crown well before the trial, that Dell had made direct deposits to an account at his branch of his bank; and
+(v) the taxpayer did not appear to be entirely forthcoming in answering questions put to him by the Crown. For example, he denied ever living at an address on Hopewell Drive in Ottawa but, when he was then shown evidence to the contrary, he pointed out it was Hopewell Avenue, not Drive. Another example was when he said he had never heard of much less worked for Harris/Decima until he was shown a record of having worked at Decima Research.
+[14] I do not find the address issue compelling in this case because the taxpayer lived at such a number of different addresses in the Ottawa and Halifax areas in the relevant years that he was not even sure he could name or recognize them all. Further, he admitted using a relative’s address in another town as his mailing address for tax purposes on at least one occasion.
+[15] Finally, I find that I can not accept any of the taxpayer’s testimony as credible given his letter of June 28, 2012 to this Court. At an earlier adjournment request hearing at which the taxpayer indicated he was awaiting HRSDC/Service Canada’s report following the conclusion of its investigation of his report of fraudulent use of his SIN, he was ordered to communicate with the Court regularly regarding the status of his report. By letter dated May 10, 2012, he was advised by Service Canada that the investigation had been conducted, that no fraudulent use had been detected, and that he would therefore not be issued a new SIN. The taxpayer acknowledged having received that letter in May. Nonetheless, in June he wrote to this Court stating that “… Service Canada has not written me yet. Once I receive a report, I will let you know.”
+[16] That letter to the Court was misleading, deceitful and possibly contemptible. Mr. Hayfron-Benjamin’s attempts to explain it away and rationalize it on the basis that the May letter was signed by a different government officer then the one that he met with to make his complaint is entirely unacceptable. This leads me to not be able to accept as credible any of his testimony that is challenged or contradicted or that is not clearly supported by corroborating evidence.
+[17] For these reasons, the taxpayer’s appeals are dismissed.
+Signed at Ottawa, Canada this 9th day of July 2013.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2013 TCC 222
+COURT FILE NO.: 2011-3625(IT)I; 2011-3626(IT)I;
+2012-4868(IT)I
+STYLE OF CAUSE: JONATHAN J. HAYFRON-BENJAMIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: June 24, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: July 9, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

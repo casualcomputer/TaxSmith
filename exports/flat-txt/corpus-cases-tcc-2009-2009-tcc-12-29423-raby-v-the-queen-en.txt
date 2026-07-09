@@ -1,0 +1,177 @@
+Title: Raby v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29423/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-12-29423-raby-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-01-08
+
+# Raby v. The Queen
+
+- Citation: 2009 TCC 12
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6975, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-01-08
+Neutral citation
+2009 TCC 12
+File numbers
+2005-1893(GST)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-1893(GST)I
+BETWEEN:
+CHRISTINE RABY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 25, 2008 at
+Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Jeffrey L. Goldman
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated May 13, 2004 and bears number 085P0051056 for the period from January 1, 2000 to December 31, 2002 is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+IT IS FURTHER ORDERED that the filing fee of $100 be refunded to the Appellant.
+Signed at Vancouver, British Columbia, this 8th day of January 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 12
+Date: 20090108
+Docket: 2005-1893(GST)I
+BETWEEN:
+CHRISTINE RABY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] This appeal was heard in common evidence with the appeals from the income tax assessments concerning Christine Raby v. the Queen (“Raby”) and Aapex Driving Academy Ltd. v. the Queen (“Aapex”). I refer to the facts and defined terms as they are stated in those respective decisions, in addition to the facts as outlined below.
+[2] In the reassessments issued against Raby, the Minister of National Revenue (the “Minister”) included certain amounts in the business income of Christine Raby relating to the Vehicle Fees that Aapex credited in her Shareholder Account for the use of the Vehicles that she owned.
+[3] The Minister determined that the Appellant did not collect or remit GST on the amount of Vehicle Fees that she purportedly received from Aapex.
+[4] The Minister reassessed the Appellant for the period January 1, 2001 to December 31, 2002. The Minister:
+(a) increased Goods and Services Tax (“GST”) payable in the amount of $37,636.77;
+(b) imposed interest in the amount of $2,232.79, calculated as of April 29, 2004; and
+(c) imposed a penalty in the amount of $4,820.97, calculated as of April 29, 2004.
+B. ISSUES TO BE DECIDED
+[5] The issues under this appeal are as follows:
+(a) whether the Minister properly assessed the Appellant for GST payable in the amounts of $9,589.69, $12,476.77 and $15,570.31 for the respective 2000, 2001 and 2002 calendar years;
+(b) whether the Minister was correct to impose interest in the amount of $2,232.79, calculated as of April 29, 2004, with respect to the reassessment of GST on the Appellant; and
+(c) whether the Minister was correct to impose a penalty in the amount of $4,820.97, calculated as of April 29, 2004, with respect to the reassessment of GST on the Appellant.
+C. ANALYSIS
+[6] During the hearing, counsel for the Respondent stated that the revised tax payable under the current appeal should be calculated as follows:
+GST Payable: Raby
+Annual Periods Ending
+12/31/2000
+12/31/2001
+12/31/2002
+Net Tax per Reassessment
+Add: Additional GST Collectible
+Vehicle Disposition
+Percentage per Shareholder
+9,589.67
+0
+50%
+12,476.77
+1,772.90
+50%
+15,570.31
+1,954.96
+50%
+Attributable to Ms. Raby
+0
+886.45
+977.48
+Less: ITCs Claimable
+Gas
+Maintenance & Repairs
+Vehicle Purchases
+3.913.58
+2.256.28
+4.925.32
+3,635.57
+2,103.03
+5,710.11
+4,549.83
+3,298.33
+4,115.21
+Total ITCs
+Percentage per Shareholder
+11.095.18
+50%
+11,448.71
+50%
+11,963.37
+50%
+Attributable to Ms. Raby
+5,547.59
+5,724.36
+5,981.69
+Revised Net Tax Payable
+4,042.10
+7,638.87
+10,566.11
+(Note: This is a change from the original reassessments)
+[7] However, neither counsel for the Appellant nor counsel for the Respondent made any submissions or arguments with respect to the Minister’s reassessment of the GST payable by the Appellant. Counsel for the Respondent did not make any submissions with respect to the revised tax payable amounts that she presented during the hearing.
+[8] Canadian courts have established that the onus is on the taxpayer to prove that the reassessments are incorrect. Based on the lack of any evidence or argument regarding the reassessments of GST payable under this appeal, I reject the Appellant’s position on this issue.
+[9] In addition, counsel for the Respondent did not make any submissions or arguments with respect to the penalty levied on the Appellant by the Minister.
+[10] Based on the lack of evidence and argument with respect to the imposition of the penalty, I am unable to ascertain how these penalties were calculated, and under which basis they were assessed.
+[11] In Consolidated Canadian Contractors Inc. v. R., [1998] G.S.T.C. 91 (“Consolidated Canadian Contractors”), the Federal Court of Appeal held that a penalty assessed under section 280 of the Act may be cancelled if the Appellant can demonstrate due diligence in attempting to comply with the GST legislation.
+[12] In Tri-Bec Inc. v. R, [2003] G.S.T.C. 75, the Court considered the decision in Consolidated Canadian Contractors in deciding whether to cancel an assessment of penalty under section 280 of the Act. In paragraph 25, Justice Lamarre Proulx said:
+The respondent made no representation or comment on the assessment of penalty. Relying on the decision by the Federal Court of Appeal in Consolidated Canadian Contractors Inc. v. R. …, I do not see any clear manifestation of a lack of diligence in this case. It is therefore my view that the assessment of penalty is not founded under the Act.
+[13] Similarly, based on the lack of any evidence or argument on this issue, I am not convinced that the Minister was correct to levy a penalty on the Appellant.
+[14] Accordingly, the appeal is dismissed with respect to the reassessment, but referred back to the Minister for reconsideration and reassessment on the basis that the penalty should be deleted in respect of the relevant periods.
+[15] Since success is divided, I am not prepared to award any costs.
+Signed at Vancouver, British Columbia, this 8th day of January 2009.
+“L.M. Little”
+Little J.
+CITATION:
+2009 TCC 12
+COURT FILE NO.:
+2005-1893(GST)I
+STYLE OF CAUSE:
+Christine Raby and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+February 25, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT
+January 8, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Jeffrey L. Goldman
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+Counsel for the Appellants:
+Name:
+Jeffrey L. Goldman
+Firm:
+Jeffrey L. Goldman
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

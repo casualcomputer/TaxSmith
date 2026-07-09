@@ -1,0 +1,251 @@
+Title: VLN Advanced Technologies Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306488/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-33-306488-vln-advanced-technologies-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-02-15
+
+# VLN Advanced Technologies Inc. v. The Queen
+
+- Citation: 2018 TCC 33
+- Decision date: 2018-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7205, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+VLN Advanced Technologies Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-15
+Neutral citation
+2018 TCC 33
+File numbers
+2015-4417(IT)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-4417(IT)G
+BETWEEN:
+VLN ADVANCED TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 13 and 14, 2017, at Ottawa, Canada
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Dean Blachford
+Counsel for the Respondent:
+Jack Warren
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the taxation year ending December 31, 2012, is dismissed.
+Costs in accordance with the Tariff are awarded to the respondent.
+Signed at Ottawa, Canada, this 15th day of February 2018.
+“K. Lyons”
+Lyons J.
+Citation: 2018 TCC 33
+Date: 20180215
+Docket: 2015-4417(IT)G
+BETWEEN:
+VLN ADVANCED TECHNOLOGIES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] VLN Advanced Technologies Inc., the appellant, appeals the reassessment made by the Minister of National Revenue under the Income Tax Act for the taxation year ending December 31, 2012. The appellant claimed the amount totalling $453,323 (the “Amount”) as a scientific research and experimental development (“SRED”) capital expenditure, as part of its deductible SRED pool. The Amount represents the cost of the purchase, by the appellant, of the integrated and automated Pure Pulse Waterjet System equipment (the “System”) from Pratt and Whitney Military Aftermarket Services Inc. (“Pratt”). It is undisputed that the Amount was incurred in 2012 and constitutes a capital expenditure.
+[2] The Minister disallowed the Amount on the basis it does not qualify as a SRED capital expenditure as it failed to satisfy the conditions in subclause 37(8)(a)(ii)(A)(III) of the Income Tax Act (the “Subclause”).
+[3] All references to provisions that follow are to the Income Tax Act.
+I. Issues: [4] The issue is whether on incurring the Amount of the capital expenditure, the appellant intended the System to be used for all or substantially all of its operating time for the prosecution of SRED in Canada? If so, it is fully deductible pursuant to paragraph 37(1)(b).
+II. Facts: [5] Dr. Mohan Vijay, the director and chairman of the appellant testified on its behalf. Dr. Vijay received a doctorate in mechanical engineering from the University of Manitoba.
+[6] The appellant is engaged in the business of manufacturing Pulse water jet nozzles, consulting and developing new technologies. Its main business is manufacturing customized water jet devices for industry specific applications.
+[7] Pratt, a U.S. resident company, is a multinational manufacturer, involved in various lines of business worldwide including the aviation industry.
+Agreements
+[8] On April 12, 2011, Pratt and the appellant entered into an Asset Purchase Agreement (“APA”) and a Transition Services Agreement (“TSA”).[1]
+[9] Pursuant to the APA, the appellant sold to Pratt its patent for coating removal and intellectual property related to high-frequency forced pulse water technology. The appellant retained its patents and intellectual property related to surface prepping, techniques using coating particles as blasting particles, new coating techniques and electro-discharge techniques. Related to the APA is the TSA.[2]
+[10] Under the TSA, Pratt sold to the appellant the System for $450,000 U.S. and the appellant was to provide to Pratt research and development (“R&D”) and engineering services (involving design, manufacture and testing) over three years for a specified number of hours at agreed upon hourly rates with a total value of $450,000 U.S. (the “Services”). The purchase price of the System would be offset and paid for by the provision of the appellant’s Services to Pratt. The Services were to be given priority over other work.
+[11] Pratt manufactured the System and around March 2, 2012 delivered it to the appellant in Ottawa. After some modification, it was installed and became operational by September 2012. The System is a duplicate of one that Pratt has installed in its Alabama plant.
+[12] The System sends pulses of water to remove coatings or treat various materials and is unique in its capability to control water jets and ability to navigate around objects while treating the objects with water jets.
+[13] Dr. Vijay testified the System was purchased from Pratt to permit the appellant to conduct R&D of pulsed water jet technology to demonstrate its feasibility (for removing coatings) to Canadian and international clients, including collaboration with the University of Ottawa (“UO”), and government departments such as National Defence and the National Research Council of Canada.[3] The appellant offered to use the System to conduct testing for Pratt.[4]
+[14] From Pratt’s perspective, it viewed itself as having secured, under the TSA, the appellant’s “… resources to keep innovating and trying additional stripping and cleaning methods on new and different materials and coatings. Pratt & Whitney saw great value in VLN as an R&D facility and has used VLN as such. Both parties viewed this relationship as a smart partnership going forward; VLN to be the R&D hub while P&W would commercialize and sell the technology and services related to it. To my knowledge, VLN is by no means a commercial stripping house and any work coming out of VLN is for R&D purposes only ‑ they test new materials and the removal of coatings on such for potential end users.”[5] Further, the System “… is solely for the development of pure pulse applications in support of the needs of P&W and for the development of other applications with a view to future commercialisation [sic] of systems” and the appellant is engaged in only R&D.[6]
+[15] Whilst negotiating the TSA, the parties understood that they would collaborate on many R&D projects to enhance productivity of the waterjet technology with the appellant being obligated to work on projects of relevance and interest to Pratt, initially providing the Services up to the $450,000 U.S. agreed to and noting this funding would be finished before the three-year period.[7] Dr. Vijay testified that the Services provided to Pratt in exchange for the System were largely completed by the time the System was delivered.
+[16] In 2013, the appellant was retained by Sellafield Ltd./UK Nuclear (“Sellafield”) to perform a feasibility study as to the System’s utilization to decommission irradiated structures of nuclear power plants.[8]
+[17] The Minister denied the Amount claimed for the System on the basis that the appellant failed to satisfy the conditions in the Subclause because it purchased the System with the intent to use it to perform non-SRED R&D to assist Pratt.
+[18] In addition to the Amount, the appellant’s SRED claim for 2012 included four projects that were approved as SRED qualifying activities (the “four approved projects”). In re-examination, Dr. Vijay testified that the System was needed and used for only one of the four approved projects, the Ultrasonics project.
+[19] Mr. Elkhodary, the Canada Revenue Agency financial reviewer, testified that little or none of the SRED activities claimed by the appellant in 2012 indicate that the System would be utilized for the four approved projects; he could not form a conclusion that all or substantially all of the operating time of the System would be used on the four approved projects.
+III. Parties’ positions: [20] The appellant’s position is that the Amount qualifies as a SRED capital expenditure pursuant to Subclause 37(8)(a)(ii)(A)(III) because it intended to use the System during all or substantially all of its operating life for SRED purposes and used the System for the prosecution of its own SRED including its collaboration with the UO. The activities that the System was used to perform were not commercial in nature plus it had received approval for other SRED projects. The Services provided to Pratt, in consideration for the System, were largely completed by the time the System was in the appellant’s possession and such Services required little or no use of the System.
+[21] The respondent’s position is that the activities must meet the criterion in the SRED definition in subsection 248(1) and the Amount must fall squarely within the specific conditions in the Subclause to qualify as a SRED capital expenditure. The appellant failed to satisfy both. Specifically, at the time the Amount was incurred, the appellant did not intend to use the System during all or substantially all of its operating time for the prosecution of SRED carried on by it. Instead, the System was acquired to provide the Services to Pratt and mostly used to provide services to others as an R&D subcontract provider.
+IV. Law: [22] Four provisions are relevant with the main focus on the conditions in the Subclause. First, subsection 248(1) defines SRED as:
+248(1)
+…
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection; (activités de recherche scientifique et de développement expérimental)
+[23] Significantly, subclause 37(8)(a)(ii)(A)(III) details the conditions in order to qualify as a deductible capital expenditure in respect of SRED. It states:
+Interpretation
+37(8) In this section,
+(a) references to expenditures on or in respect of scientific research and experimental development
+…
+(ii) where the references occur other than in subsection 37(2), include only
+(A) expenditures incurred by a taxpayer in a taxation year (other than a taxation year for which the taxpayer has elected under clause (B)), each of which is
+…
+(III) an expenditure of a capital nature that at the time it was incurred was for the provision of premises, facilities or equipment, where at that time it was intended
+1. that it would be used during all or substantially all of its operating time in its expected useful life for, or
+2. that all or substantially all of its value would be consumed in,
+the prosecution of scientific research and experimental development in Canada, …
+[24] Next, subparagraph 37(1)(b)(i) allows for the deduction of a capital expenditure used mostly for SRED. It reads:
+37(1) Where a taxpayer carried on a business in Canada in a taxation year, there may be deducted in computing the taxpayer’s income from the business for the year such amount as the taxpayer claims not exceeding the amount, if any, by which the total of
+…
+(b) the lesser of
+(i) the total of all amounts each of which is an expenditure of a capital nature made by the taxpayer (in respect of property acquired that would be depreciable property of the taxpayer if this section were not applicable in respect of the property, other than land or a leasehold interest in land) in the year or in a preceding taxation year ending after 1958 on scientific research and experimental development carried on in Canada, directly undertaken by or on behalf of the taxpayer, and related to a business of the taxpayer, and
+(ii) the undepreciated capital cost to the taxpayer of the property so acquired as of the end of the taxation year (before making any deduction under this paragraph in computing the income of the taxpayer for the taxation year),
+(As of 2014, subclause 37(8)(a)(ii)(A)(III) and subparagraph 37(1)(b)(i) have been repealed.)
+[25] Last, subsection 37(1.2) deems that for the purposes of paragraph 37(1)(b), an expenditure by a taxpayer in respect of property is deemed to have been made by the taxpayer at the time the property was available for use by the taxpayer. It provides:
+Deemed time of capital expenditure
+37(1.2) For the purposes of paragraph 37(1)(b), an expenditure made by a taxpayer in respect of property shall be deemed not to have been made before the property is considered to have become available for use by the taxpayer.
+V. Analysis [26] In interpreting the SRED provisions, a “fair, large, and liberal construction” is to be applied to give effect to the provisions’ policy goals of encouraging scientific research in Canada, as highlighted by the appellant in its submissions.[9]
+[27] Again, subsection 248(1) details the criteria that make an activity SRED. subclause 37(8)(a)(ii)(A)(III) specifies the requisite conditions in order for a capital expenditure to qualify as SRED. The relevant condition in this appeal is whether, at the time the Amount was incurred, the appellant intended to use the System all or substantially all of its operating time in its expected useful life for the prosecution of its SRED carried on in Canada.
+[28] If it is determined to be a SRED capital expenditure within the purview of the Subclause, subparagraph 37(1)(b)(i), the charging provision, allows for the deduction of the capital expenditure where a claimant carried on business in Canada, and SRED was carried on in Canada and was directly undertaken by or on behalf of the claimant and is related to the claimant’s business.
+Intention to use System
+[29] The appellant first argued that Dr. Vijay’s testimony that the appellant’s intention, to use the System to perform the appellant’s own SRED activities all or substantially all of the time, is credible and should be accepted.
+Actual Use of System
+[30] Actual use of the System was demonstrated, the appellant says, by a sufficient, helpful and reliable evidentiary basis that corroborates its intention was exclusively for the performance of SRED; thus satisfied the condition as to the use of the System all or substantially all of the time for the prosecution of SRED.
+[31] Dr. Vijay is credible, however, principles established in the jurisprudence, instruct that taxpayers’ statements alone are not determinative of intention. Ultimately, it is a question of fact to be decided with regard for all circumstances linked to the evidence in support of facts presented at trial.[10] Subsequent conduct (actual use of the System) assists in determining intention at a relevant point in time and informs that intention.[11]
+[32] Dr. Vijay testified that the appellant received parts of the System from Pratt in March 2012, assembled it by May 2012, debugged it by August 2012, and, before using it for any research activities, showcased it at a conference in November 2012.[12]
+[33] He indicated that from September 2012 to July 2015, the appellant used the System for the following activities totalling 108.8 hours:
+Activities in using the System
+Hours
+1
+Demonstrate functionality of System at conference.
+3
+2
+Debug System and train personnel to use it.
+14
+3
+UO Research
+26
+4
+Feasibility study for Sellafield
+20
+5
+Feasibility study for Toronto Transit Commission
+10
+6
+Test nozzles - a key component in proprietary hardware developed by the appellant in respect of other approved SRED claims not under dispute.
+35.8
+[34] As none of the activities were performed for the purposes of earning income, the appellant said paragraph 13(27)(a) should apply to exclude from the analysis of actual use the 17 hours spent on the demonstration (activity 1) and the debugging and training (activity 2) for the purposes of assessing the appellant’s intention. Of the remaining activities (3 to 6), the appellant submitted that Dr. Vijay’s evidence that each of them was for SRED was credible, clear and uncontradicted. From the inception of its business to current activities, the appellant has engaged in SRED activities because each of them were related to the appellant’s business, not for commercial use. It has obtained patents through its SRED work. One patent has been sold and eight other patent applications are under review, one of which relates to the 40kHz compact nozzle tested using the System.
+[35] In support of its argument, the appellant raised four points. First, intention as to use of the System should be assessed at the time that the appellant first used the System for the purpose of earning income. Subsections 37(1.2), 248(19), and 13(27) govern because under paragraph 13(27)(a), the System was deemed to be available for the appellant’s use when it was first used for the purposes of earning income (“First point”).
+[36] Second, since its actual use of the System was “related to” its business, it intended to use the System all or substantially all for the prosecution of SRED based on paragraph 37(1)(b). Essentially, an expenditure to acquire a capital asset is deductible from business income if, inter alia, SRED activities performed using the asset are related to the taxpayer’s business. The phrase “related to” should be given a broad interpretation for the purposes of determining whether actual use of the System was “related to” the appellant’s business (“Second point”).[13]
+[37] Third, because the Minister disallowed the Amount as a capital SRED expenditure, in part because it applied the commercial use exclusion, if the Court finds that the exclusion does not apply, the Court should find that its actual use of the System was for SRED and therefore it intended to use the System all or substantially all for the prosecution of SRED.[14]
+[38] The appellant noted that in Feedlot Health Management Services Ltd. v Canada, the Court said “the commercial use exclusion relates to the work performed and not the consideration paid.” The mere fact, the appellant says, that it has occasionally received payments for performing work using the System does not mean that the commercial use exclusion applied (“Third point”).[15] I fail to see how the proposition applies in the present appeal because “consideration” referred to in Feedlot Health comprise of payments made by the SRED expense claimant to a third party for the third party’s assistance in the course of the claimant’s SRED activities. No such payments were made in the present case; it received payments from Pratt for the R&D Services provided to Pratt.
+[39] Fourth, for the purposes of determining whether subclause 37(8)(a)(ii)(A)(III) applied to characterize the System as a SRED capital expenditure, the phrase “all or substantially all” in the Subclause represents an elastic standard (“Fourth point”). I will return to the Fourth point later in these reasons. (Collectively, the First, Second, Third and Fourth points will be referred to as the “four points”).
+[40] After applying the four points, the appellant contends its actual use of the System from November 2012 to July 2015 supports its stance it is to be fully for the prosecution of SRED and underscored that intention should be assessed at the time that the appellant first used the System for the purposes of earning income.
+[41] For the reasons that follow, and respectfully, I disagree with its stance and the time it says when intention is to be assessed.
+Intention as to the use of the System assessed when the Amount was incurred
+[42] In the First point, the appellant suggests that determining intention occurs when the System was first used by the appellant for the purpose of earning income. It reasons, under subsection 37(1.2), an expenditure by a taxpayer in respect of property is deemed to be made when the property is considered to have become available for use by the taxpayer. Subsection 248(19) and paragraph 13(27)(a), in turn, provide that property acquired by a taxpayer is deemed to become available for use by the taxpayer at the time the property is first used by the taxpayer for the purpose of earning income.
+[43] Focussing on when the System was first used for the purpose of earning income misconstrues, in my opinion, the conditions in subclause 37(8)(a)(ii)(A)(III). The language is clear that the timing of the intention (as to use of the System) is at the time the Amount was incurred, not as suggested by the appellant. Again, the relevant part of the Subclause reads: “an expenditure of a capital nature that at the time it was incurred was for the provision of … equipment, where at that time it was intended … that it would be used during all or substantially all of its operating time in its expected useful life for … the prosecution of scientific research and experimental development in Canada,” [emphasis added].
+[44] Nor did the appellant elaborate on how it determined what particular use of the System was for the purposes of earning income and what use was not. Debugging the System, which the appellant viewed as not for the purposes of earning income, from my perspective was as much of a profit-earning activity as testing a nozzle. Both were necessary for the development of patents that could potentially be sold and neither guaranteed that such patents would be successfully developed.
+Use of System “related to” the appellant’s business
+[45] With respect to the Second point, the term “related to” is contained in paragraph 37(1)(b), not in the Subclause. Paragraph 37(1)(b), the charging provision, permits the deduction of capital expenditures for SRED purposes only after such expenditures have been determined to be a SRED capital expenditure congruent with the conditions in the Subclause.
+Commercial
+[46] As to the Third point, the appellant’s analysis is unclear in its application. If the commercial use exclusion does not apply, it simply means that actual uses of the System are not excluded as SRED activities. The inapplicability of an exclusion to a definition does not, on its own, mean that the SRED definition is satisfied. The onus remains on the appellant to demonstrate that on a balance of probabilities, actual uses of the System were in fact SRED activities. Except for referring to successfully claiming other SRED projects in its submissions, Dr. Vijay’s testimony failed to clearly, if at all, establish why the activities that the System was being used for constitutes SRED, what amounted to the “uncertainty” in the activities for SRED purposes and what scientific methodology was being applied.
+[47] In part, the appellant argued that the activities that the System was used to perform were non-commercial. However, the fact an activity is non-commercial does not mean it is SRED. The emphasis on commerciality is misplaced. The application of the relevant provisions to determine if the activities constitute SRED is the appropriate test.
+[48] Before turning to the Fourth point, I will address activities 3, 4 and 5 and the use of the System set out in paragraph 33 of these reasons.
+i) University of Ottawa research
+[49] Admittedly, the System was beneficial to and facilitated UO research personnel (three graduate students and a research assistant) in the performance of testing, research and experimentation in working on two student projects at the Cold Spray Laboratory as confirmed by the UO in noting “the student research work has been made possible with the help of VLN staff who have helped the students conduct their experiments using R&D PWJ equipment at VLN”.[16] However, the fact that UO personnel collaborated with the appellant on tasks involving the System and the appellant’s ability to utilize data and findings, does not alter the fact that the research represented the activities of UO researchers on its projects. I find these activities do not amount to the System being used for the appellant’s SRED.
+ii) Sellafield feasibility study
+[50] The feasibility study activities were conducted to determine whether the System could be applied to Sellafield’s requirements. This was at the behest of, and paid for by, the third party. Dr. Vijay acknowledged that the appellant received $60,000 for the work performed though stated this was insufficient to realize a profit. The respondent entered into evidence a letter from Sellafield to the appellant that states Sellafield would own any intellectual property produced by the Sellafield work on the System.[17] Dr. Vijay disagreed.
+iii) Toronto Transit Commission feasibility study
+[51] A feasibility study was the activity the appellant engaged in for the Toronto Transit Commission regarding the use of the System to treat concrete tunnels. The appellant said it did not receive any compensation for the work, the data produced from the work was valuable to it and the work performed involved uncertainty because it required testing on concrete materials that the appellant was unfamiliar with.[18]
+[52] The explanations during the hearing as to the uncertainty criteria for SRED purposes for each feasibility study were at best obtuse. Little if any testimony was provided as to the scientific methodology that was being pursued to show the use of the System for SRED purposes for either feasibility study. I find the appellant did not meet the uncertainty criterion for determining whether an activity constitutes SRED according to subsection 248(1) and the principles in Northwest Hydraulic.[19]
+All or Substantially All
+[53] As to the Fourth point, the appellant cited Reluxicorp v Canada[20] for the proposition that the strict 90% or more utilization standard used by the Canada Revenue Agency has no legal basis and other cases have accepted rates as low as 76% in satisfaction of the “all or substantially all” standard.[21] Even if the Court finds that not all of the documented time with respect to actual use of the System was related to SRED and this deficiency is greater than 10% of the total time incurred, the standard is “elastic” and the application of which must be left to the discretion of the trial judge based on the circumstances, which in this case, warrant a flexible approach.
+[54] When applying the definition of “all or substantially all” to this case, the 90% threshold for System given its 108.8 hours of operating time is 97.9 hours.[22] Even subtracting the clearly non-SRED activities of debugging, internal training, and showcasing, the total hours that result are below 97.9 hours. Removing the use of the System for third parties (such as Sellafield) reduces the percentage of activities on the System for SRED around 36%. Clearly, this is well short of what would be considered “all or substantially all” even with an elastic standard and the appellant fails to meet this condition.
+[55] The evidence as to the actual use of the System undermines the stated intent. Little or none of the operating time of the System, specified in the appellant’s utilization records, support the contention that the appellant’s SRED activities were conducted on the System.[23] I find that the lack of use of the System for SRED is reflective of a lack of intention of the appellant at the time the Amount was incurred to use the System for all or substantially all of its operating time for the prosecution of SRED activities of the appellant as noted by the respondent.
+Basis of assessment factually flawed
+[56] Next, the appellant argued the basis of assessment was factually flawed. The Amount was disallowed, in part, because the Minister concluded that the appellant purchased the System from Pratt in order to use it to perform non‑SRED R&D Services. However, the appellant says the Minister did not and could not have considered how the appellant actually used the System nor were there any assumptions in the Reply as to the actual use of the System. The appellant submits that tangentially the Minister did consider in one assumption that the Services were “to be conducted on the” System, but there is sufficient evidence to demonstrate that all Services were fully performed for Pratt by October 2011, before receiving the System from Pratt in March 2012, therefore demolished that assumption.[24]
+[57] On the contrary, the Reply reveals assumptions were made regarding the appellant’s actual use of the System. Specifically, the appellant used the System to provide engineering and R&D services to Pratt, the appellant agreed to perform the Services to Pratt pursuant to the TSA, which were to be conducted on the System, and subsequent to entering the TSA, Pratt utilized the appellant’s expertise in operating the System for Pratt’s own engineering and R&D work.[25] Significantly, except for Dr. Vijay’s testimony that the Services were not performed using the System, he confirmed that this was what had transpired.
+Generation of information is scientific advancement?
+[58] The appellant’s final argument is that the generation of information using the System contributed to scientific advancement and therefore constituted SRED activities. It referred to subsection 248(1) which provides that for an activity to be SRED, it must be for advancing scientific knowledge or achieving technological advancements and then referred to the CRA’s internal interpretive guide that states that scientific advancement includes the generation of information or the discovery of knowledge that advances the understanding of scientific relations or technology.
+[59] Except for demonstration, debugging and training purposes, the appellant submits its actual uses of the System were all tied to the generation of information that advances the understanding of scientific relations or technology. Such information was essential in furthering its mission to develop innovative technology or new uses of existing technology. Therefore, the actual use of the System was for SRED, thus at all times it intended to use the System all or substantially all for the prosecution of SRED.
+[60] The appellant’s argument is an oversimplification. Since “SRED” is a defined term in subsection 248(1), for actual uses of the System to constitute SRED, and therefore evidence of the appellant’s intention to use the System for SRED, there must be, amongst other things, a “Systematic investigation or search”. No evidence was proffered to show that the System was used in a systematic way for a particular purpose.
+VI. Conclusion [61] Based on the foregoing, I conclude that on incurring the Amount of the expenditure in 2012, the appellant did not intend to use (nor actually use) the System for all or substantially all of its operating time for the prosecution of the appellant’s SRED activities. Consequently, it failed to satisfy the statutory conditions set out in subclause 37(8)(a)(ii)(A)(III) and subsection 248(1) of the Income Tax Act.
+[62] The appeal is dismissed.
+[63] Costs are awarded to the respondent at Tariff.
+Signed at Ottawa, Canada, this 15th day of February 2018.
+“K. Lyons”
+Lyons J.
+CITATION:
+2018 TCC 33
+COURT FILE NO.:
+2015-4417(IT)G
+STYLE OF CAUSE:
+VLN ADVANCED TECHNOLOGIES INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+June 13 and 14, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice K. Lyons
+DATE OF JUDGMENT:
+February 15, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Dean Blachford
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Dean Blachford
+Firm:
+HazloLaw Professional Corporation
+Ottawa, Canada
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tabs 3 and 4.
+[2] APA, section 1.1, Exhibit A-1, Tab 3, page 2.
+[3] Letter dated February 26, 2015 from appellant to CRA, Exhibit R-6, Tab 3, page 90.
+[4] Email dated March 7, 2014, from Stuart Haslett to CRA, Exhibit R-6, Tab 3, page 133.
+[5] Letter dated April 13, 2015 from Tim Blaisdell, on Pratt’s behalf, to CRA, Exhibit R-7, Tab 3, page 98.
+[6] Letter dated April 24, 2015 from Jeffrey Shaffer to CRA, Exhibit R-8, Tab 3, page 100.
+[7] Appellant’s Minutes of Meeting November 7 and 8, 2011. Exhibit R-2, Tab 13 of Appellant’s Book of Documents, volume 1.
+[8] Memorandum, Sellafield Ltd., Exhibit A-1, Tab 18.
+[9] Northwest Hydraulic Consultants Ltd. v Canada, 98 DTC 1839 [Northwest Hydraulic] Appellant’s Book of Authorities, Tab 4, page 42, para 11.
+[10] Groupe Honco Inc. v Canada, 2013 FCA 128, 2013 DTC 5105. The Federal Court of Appeal noted the principle on ascertaining intention from Symes v Canada, [1993] 4 SCR 695. Gerbro Holdings Company v Canada, 2016 TCC 173, 2016 DTC 1165. Intention is a factual determination. Karam v Canada, 2013 TCC 354, 2013 DTC 1264.
+[11] Stan Wire Application Ltd. v Canada, 2009 TCC 425, 2009 DTC 1294.
+[12] 21st International Conference on Water Jetting, Ottawa, September 19 to 22, 2012.
+[13] Slattery (Trustee of) v Slattery, [1993] 3 SCR 430. Appellant’s written submissions, para 13.
+[14] The commercial use exclusion is provided by subsection 248(1)(i), which states that SRED does not include work with respect to the “… commercial use of a new or improved process”.
+[15] Feedlot Health Management Services v Canada, 2015 TCC 32, 3 CTC 2100 [Feedlot Health].
+[16] Letter dated July 2, 2014 from the UO to CRA dated July 2, 2014, Exhibit R-6, Tab 3, page 95.
+[17] Exhibits A-9 and A-10, Tabs 20 and 18.
+[18] Emails 2014 between TTC and the appellant, Exhibit R-3, Tab 19.
+[19] Northwest Hydraulic, supra note 9 at para 16.
+[20] Reluxicorp Inc. v Canada, 2011 TCC 336, [2011] GSTC 105 [Reluxicorp].
+[21] The CRA’s SRED Capital Expenditures Policy defines “all or substantially all” to mean 90% or more (Exhibit R-11).
+[22] Respondent’s written submissions, para 60.
+[23] Exhibit A-7, Tab 24.
+[24] Reply, para 12(e).
+[25] Reply, para 12(d), 12(e) and 12(m).

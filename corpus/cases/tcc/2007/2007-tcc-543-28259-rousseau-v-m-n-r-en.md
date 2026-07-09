@@ -1,0 +1,198 @@
+---
+title: "Rousseau v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28259/index.do"
+last_modified: "2007-09-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 543"
+citation2: ""
+neutral_citation: "2007 TCC 543"
+decision_date: "2007-09-11"
+language: "en"
+item_id: "28259"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2040
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:45:01.381000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0d0fb104d401800641cd2fbd6f9e84ced7657530605cc36191b9080a1ca82c7f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rousseau v. M.N.R.
+
+- Citation: 2007 TCC 543
+- Decision date: 2007-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2040, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rousseau v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-11
+Neutral citation
+2007 TCC 543
+File numbers
+2006-1668(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-1668(EI)
+BETWEEN:
+SÉBASTIEN ROUSSEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 4 2007, at Québec, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue under the Employment Insurance Act is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of September 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 5th day of October 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC543
+Date: 20070911
+Docket: 2006-1668(EI)
+BETWEEN:
+SÉBASTIEN ROUSSEAU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from the decision of the Minister of National Revenue (the Minister) that the Appellant was not employed in insurable employment with Gestion Deva Inc. (the payor) from November 4, 2002, to January 10, 2003, and from April 26, 2004, to July 2, 2004.
+[2] In making his decision, the Minister relied on the facts set out as follows at paragraph 5 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) the payor was incorporated on May 12, 1997;
+(b) during the periods in issue, the payor’s majority shareholder was Marc‑André Plante;
+(c) the payor was involved in carrying out a project, which was not carried out, entailing 144 condominiums in Florida;
+(d) at the end of the fiscal years on June 30, the payor’s income was as follows:
+2003
+2002
+2001
+commission income
+$26,400
+$42,000
+$57,000
+net income
+($165)
+($1,694)
+$1,536
+(e) there was no salary expense in the payor’s financial statements;
+(f) the payor was involved in an investigation concerning 30 workers who received records of employment from the payor without services rendered;
+(g) on May 18, 2006, Marc‑André Plante told a representative of the Respondent that he spoke with some people, asking them to find investors for the condominium project and that he would pay them for the time they spent soliciting investors;
+(h) on May 18, 2006, Marc‑André Plante told a representative of the Respondent that the Appellant was painting and repairing furniture and that he would use that opportunity to speak with potential investors about the payor’s project;
+(i) in terms of objections, the Appellant did not co-operate with the representative of the Respondent;
+(j) on April 26, 2006, counsel for the Appellant asked the representative of the Respondent to render a decision based on the evidence in the case without further information from the Appellant;
+(k) the Appellant was a painter, upholsterer and furniture repairer;
+(l) on October 26, 2005, in his statutory declaration to Human Resources and Skills Development Canada (HRSDC), the Appellant stated that he stripped and varnish frames and furniture for the payor;
+(m) the Appellant had business cards in his name listing an address at Royale Avenue in the municipality of L’Ange‑Gardien;
+(n) the Appellant’s workshop was located in a building situated behind his parents’ residence;
+(o) the Appellant provided accommodation, tools and products in the performance of his duties;
+(p) the Appellant claims that the payor paid him $400 in cash per week;
+(q) there is no evidence in the case showing that the Appellant truly worked for the payor, no customer invoices, no invoices for the purchase of materials;
+(r) there is no evidence in the case that the Appellant received pay;
+(s) on May 8, 2006, Marc‑André Plante told a representative of the Respondent that he met with the Appellant [TRANSLATION] “a couple of times;”
+(t) there is no evidence in the case to support that there was control or subordination of the Appellant’s work by the payor;
+(u) for 2002 and 2003, the Appellant did not have any reported income concerning the payor in his income tax returns;
+(v) in 2003, the Appellant reported business income;
+(w) the Appellant did not file a tax return for 2004.
+[3] Counsel for the Appellant made the following admissions and denials for the Appellant. Paragraphs 5(a), (b), (j) to (n), (p) and (w) were admitted. The other paragraphs were denied.
+[4] Only the Appellant testified. He explained that he was now a building painter. At the time of the events, he was an apprentice.
+[5] When he completed his technical training in painting, he gave out business cards. Marc‑André Plante called him to ask him to paint his kitchen in exchange for services he rendered to the Appellant. Those services were to prepare the Appellant’s income tax returns. Furthermore, Mr. Plante proposed paying him at an hourly rate of $15 for 40-hour workweeks.
+[6] In the first period, the work consisted in restoring furniture and in the second, it consisted in restoring windows. Mr. Plante brought him the furniture and the windows. Sometimes the customers themselves would come. According to the Appellant, it was not the customers who paid him but Mr. Plante. Mr. Plante paid him $400 per week.
+[7] The work was carried out in a workshop situated on the property of the Appellant’s family. Therefore, the Appellant provided accommodation and tools. He states that it was not he who provided the products but that the clients or Mr. Plante brought them. The clients indicated what they wanted. The Appellant does not know how much Mr. Plante charged the customers. When he ran out of work, the Appellant would telephone Mr. Plante.
+[8] The Appellant states that he rarely saw Mr. Plante. He states, however, that he worked exclusively for him during the periods in issue.
+[9] The Appellant never provided T4 forms.
+[10] The statutory declaration was filed as Exhibit I‑1. Of that declaration, I reproduce questions 9 to 14:
+[TRANSLATION]
+Q(9) Did Marc‑André prepare your tax returns?
+(A) Yes. I cannot remember the years.
+Q(10) How would you explain that in 2002, 2003 and 2004 you did not report income from Gestion Deva Inc. on your tax returns?
+(A) I do not know. It was Mr. Plante who did my tax returns.
+Q(11) Were you, Mr. Rousseau, self-employed?
+(A) No and yes. I stripped and varnished furniture. I worked in a building situated behind my parents’ residence.
+Q(12) How did you find customers?
+(A) I gave out business cards and Mr. Plante referred customers to me.
+Q(13) What exactly did you and Mr. Plante agree to?
+(A) I provided accommodation, tools, products and labour. Mr. Plante paid me $400 (gross) cash per week, always in cash.
+Q(14) What was your gross salary?
+(R) I do not know.
+[11] Exhibits I‑3 and I‑4 were filed on consent. Exhibit I‑3 described the charges against Marc‑André Plante dated April 25, 2006. Charges 74 to 77 read as follows:
+[TRANSLATION]
+74. On or around January 10, 2003, in Québec and elsewhere in the District of Quebec, made a false document, that is, a false record of employment, knowing it to be false, with intent that it should be used or acted on as genuine to the prejudice of the Government of Canada (Department of Human Resources and Skills Development (Canada)), thus committing a criminal offence under section 367(a) of the Criminal Code.
+75. In January 2003, in Québec and elsewhere in the District of Quebec, knowing that a document was forged, that is, a record of employment, caused or attempted to cause Sébastien Rousseau to use, deal with or act on it as if the document were genuine, thus committing a criminal offence under section 368(1)(b)(c) of the Criminal Code.
+76. On or around July 9, 2004, in Québec and elsewhere in the District of Quebec, made a false document, that is, a false record of employment, knowing it to be false, with intent that it should be used or acted on as genuine to the prejudice of the Government of Canada (Department of Human Resources and Skills Development (Canada)), thus committing a criminal offence under section 367(a) of the Criminal Code.
+77. In July 2004, in Québec and elsewhere in the District of Quebec, knowing that a document was forged, that is, a record of employment, caused or attempted to cause Sébastien Rousseau to use, deal with or act on it as if the document were genuine, thus committing a criminal offence under section 368(1)(b)(c) of the Criminal Code.
+[12] Exhibit I‑4 includes the sentence and guilty plea. We see that on September 27, 2006, Marc‑André Plante pleaded guilty to the above-mentioned charges.
+Analysis and conclusion
+[13] I am of the opinion that it is clearly a case of fabricated employment.
+[14] The very person who was purported to be the employer admitted that twice, that is, in January 2003 and July 2004, made false records of employment for Sébastien Rousseau.
+[15] The Appellant did not have this so-called employer testify. The case law is consistent that a negative inference must be drawn against a party who wishes to avail himself or herself of a situation, who can provide evidence of such and does not.
+[16] The amount of the hourly wage varies. At the time of the statutory declaration, the Appellant could not remember his gross salary. He remembered at the hearing. The supposed employment income was never reported by the Appellant. During the statutory declaration, the Appellant stated that he provided products. At the hearing, he contradicted that statement by saying that the customers, or his supposed employer, brought the required varnishes or paints.
+[17] He denied allegations 5(q) and 5(r) of the Reply but did not produce any document during the hearing.
+[18] The evidence surely did not demonstrate the existence of a contract of employment.
+[19] Accordingly, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 11th day of September 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 5th day of October 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC543
+COURT FILE NO.: 2007-1077(EI)
+STYLE OF CAUSE: SÉBASTIEN ROUSSEAU AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 4, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise
+Lamarre Proulx
+DATE OF JUDGMENT: September 14, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Jérôme Carrier, Counsel
+Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

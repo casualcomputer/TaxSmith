@@ -1,0 +1,177 @@
+Title: Rodier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26815/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-1-26815-rodier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-01-30
+
+# Rodier c. La Reine
+
+- Citation: 2003 CCI 1
+- Decision date: 2003-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 685, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rodier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-01-30
+Référence neutre
+2003 CCI 1
+Numéro de dossier
+2002-3454(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI1
+Date : 20030130
+Dossier : 2002-3454(IT)I
+ENTRE :
+MANON RODIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 13 janvier 2003 à Montréal (Québec)
+Par : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Anne Poirier
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Référence : 2003CCI1
+Date : 20030130
+Dossier : 2002-3454(IT)I
+ENTRE :
+MANON RODIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre, C.C.I.
+[1] L'appelante en appelle d'une cotisation établie par le ministre du Revenu national ( « Ministre » ) en vertu de la Loi de l'impôt sur le revenu ( « Loi » ), pour l'année d'imposition 2001.
+[2] En cotisant ainsi l'appelante, le Ministre a ajouté à son revenu une somme de 17 968 $ que celle-ci a reçue de son ancien employeur Hydro-Québec au cours de l'année 2001.
+[3] L'appelante invoque que cette somme a été reçue d'Hydro-Québec pour dommages et préjudices par suite de sa mise à la retraite prématurée pour raisons médicales. Elle est d'avis que cette somme ne devait pas être imposable aux termes de la Loi, tout comme les sommes qu'elle avait reçues dans les années antérieures de la Commission de la santé et de la sécurité du travail ( « CSST » ). Le Ministre est d'avis que ce revenu est un remboursement de salaire imposable aux termes de l'article 5 de la Loi. Il soutient alternativement que ce revenu constitue une allocation de retraite imposable en vertu du sous-alinéa 56(1)a)(ii) de la Loi.
+[4] Les faits sur lesquels le Ministre s'est fondé pour établir la cotisation sous appel sont repris au paragraphe 4 de la Réponse à l'avis d'appel et se lisent comme suit :
+a) l'appelante occupait un poste de commis à l'unité des Approvisionnements et services de l'Hydro-Québec;
+b) au mois de janvier 1996, l'appelante chuta dans le stationnement de l'Hydro-Québec et s'infligeait une blessure;
+c) suite à la chute, l'appelante s'absenta de son travail pour la période du 16 janvier 1996 au 13 septembre 1999;
+d) l'appelante tenta un retour au travail de façon progressive à raison de demi-journées pendant la période du 13 septembre 1999 au 30 juin 2000;
+e) l'appelante, le 1er juin 2000, était avisée que la direction d'Hydro-Québec procéderait à la mise à la retraite prématurée pour raisons de santé;
+f) l'appelante, aidée du Syndicat des employé-e-s de techniques professionnelles et de bureau d'Hydro-Québec, section locale 2000 - s.c.f.p., déposa un grief le 20 juin 2000 et demandait la réintégration de ses fonctions, ainsi qu'une compensation monétaire pour dommages et préjudices subis;
+g) l'appelante fut avisée par écrit, le 10 juillet 2000 par Hydro-Québec, de la confirmation de sa mise à la retraite pour raisons de santé depuis le 1er juillet 2000;
+h) en guise de règlement du litige, entre le Syndicat des employé-e-s de techniques professionnelles et de bureau d'Hydro-Québec, section locale 2000 - s.c.f.p., et la Direction principale approvisionnement et services de l'Hydro-Québec, une entente hors cour datée du 8 novembre 2001, stipulait, entre autres, les mesures suivantes:
+i) le syndicat et la plaignante, madame Manon Rodier, se désistent des griefs mentionnés en objet et de tout autre grief pouvant exister entre les parties;
+ii) l'Employeur versera à la plaignante, à titre de remboursement de salaire, la somme de trente-cinq mille dollars (35 000 $) avec intérêts à compter du 20 juin 2000, moins les retenues usuelles dont les impôts provincial et fédéral; la somme nette sera payable en deux versements égaux, le premier dans les deux semaines suivant la signature des présentes, le second le 10 janvier 2002;
+iii) considérant les dispositions du présent règlement, les parties se donnent quittance totale, finale et mutuelle de toute somme due et la plaignante renonce expressément à tout recours ou poursuite relativement aux faits découlant des présents griefs ou du présent règlement;
+iv) la plaignante reconnaît avoir pris connaissance du contenu de la présente et en avoir compris la portée ayant pu consulter des personnes ressources à cet effet;
+i) suite à l'entente mentionnée à l'alinéa précédent, Hydro-Québec fit parvenir à l'appelante le feuillet T4 suivant à l'égard de l'année d'imposition en litige :
+i)
+revenu d'emploi
+17 968 $
+retenues à la source
+ii)
+régime des rentes du Québec
+751 $
+iii)
+cotisations à l'assurance-emploi
+398 $
+iv)
+impôt fédéral
+3 426 $;
+j) le ministre a donc inclus dans le calcul du revenu de l'appelante, pour l'année d'imposition en litige, la somme de 17 968 $, au titre de salaires.
+[5] L'appelante a admis tous ces faits à l'exception du sous-alinéa 4h)(iv) où elle dit qu'elle n'avait pas compris la portée de l'entente qu'elle a signée avec Hydro-Québec en date du 8 novembre 2001, n'ayant pas pu consulter des personnes ressources à cet effet.
+[6] L'appelante a expliqué lors de son témoignage qu'elle travaillait depuis 25 ans pour le compte d'Hydro-Québec lorsqu'est survenue sa chute le 15 janvier 1996 dans le stationnement de l'employeur. Cette chute a provoqué une entorse lombaire qui s'est aggravée par la suite et a causé chez l'appelante des désordres d'ordre physique et psychologique. Elle fut considérée en accident de travail à compter du 15 janvier 1996 et a reçu des prestations de la CSST jusqu'au 22 septembre 1997. A compter du 23 septembre 1997, elle n'était plus admissible aux prestations de la CSST (voir la décision de la Commission des lésions professionnelles en date du 8 mai 1998 fixant au 22 septembre 1997 la date de consolidation de la lésion professionnelle de l'appelante, pièce A-1). Elle a donc pris ses journées de maladie accumulées et a ainsi reçu son plein salaire d'Hydro-Québec pour une période d'un an, soit du 23 septembre 1997 jusqu'au 22 septembre 1998. Par la suite, elle a été rémunérée en vertu du Régime d'assurance salaire invalidité de longue durée ( « RASILD » ) d'Hydro-Québec jusqu'au 13 septembre 1999, date où elle a tenté un retour au travail à mi-temps. Ainsi à compter du 13 septembre 1999, elle était rémunérée d'une part, par Hydro-Québec pour ses demi-journées de travail et d'autre part, en vertu du RASILD pour les demi-journées où elle n'était pas au travail. Il en fut ainsi jusqu'au 30 juin 2000.
+[7] En effet, le 1er juin 2000, l'appelante fut avisée par son employeur Hydro-Québec qu'elle devait prendre sa retraite pour raisons de santé à compter du 1er juillet 2000. Le service de santé d'Hydro-Québec ayant déclaré une invalidité partielle permanente chez l'appelante, celle-ci a dès lors perdu son droit aux prestations provenant du RASILD à compter du 1er juillet 2000. Le Comité de retraite d'Hydro-Québec a dès lors voté une rente annuelle de 20 305,05 $ payable à l'appelante rétroactivement au 1er juillet 2000, laquelle rente doit être réduite à 12 689,42 $ lorsque l'appelante atteindra l'âge de 65 ans (pièce A-8).
+[8] Le 20 juin 2000, l'appelante déposait un grief auprès de son employeur conjointement avec son délégué syndical et demandait à son employeur de la réintégrer dans ses fonctions. Elle demandait de plus qu'on lui octroie pleine compensation monétaire pour dommages et préjudices subis. Je crois comprendre que l'appelante se sentait lésée, entre autres, d'avoir été remerciée de ses services pour raisons de santé après avoir tenté un retour progressif au travail. Il semblerait qu'en revenant ainsi progressivement au travail, elle n'aurait pu recevoir la rente accumulée au début de son invalidité du régime de retraite d'Hydro-Québec. En effet, elle aurait racheté les années de cotisations à ce régime de retraite qui s'étaient écoulées durant son absence au travail (pièce A-7). Je dois dire que je ne vois pas exactement quel est le préjudice à cet égard puisqu'en rachetant ses années de cotisation, l'appelante rétablissait son droit à sa rente future comme s'il n'y avait pas eu d'interruption dans ses années de cotisation. De plus, il ressort de la pièce A-9, que l'appelante a bénéficié d'un traitement plus avantageux en étant mise à la retraite pour raisons de santé que si elle avait quitté volontairement Hydro-Québec le 31 mai 2000 dans le cadre du programme d'ajustement de l'effectif.
+[9] De fait, l'appelante a reconnu qu'en déposant son grief, elle était consciente qu'elle ne pouvait plus occuper son poste de manière productive, mais elle considérait qu'elle n'avait pas été dédommagée de façon adéquate pour l'accident survenu le 15 janvier 1996. Selon elle, elle avait été victime d'un traumatisme important et elle avait droit à une compensation monétaire pour les dommages et préjudices subis.
+[10] Le 8 novembre 2001, l'appelante acceptait de signer un règlement de grief avec l'employeur, lequel règlement avait été négocié par le syndicat des employés de l'employeur au nom de l'appelante. Le règlement se lit comme suit (pièce A-12) :
+Nonobstant toute disposition contraire à la convention collective, les parties aux présentes conviennent de régler hors cour sans admission de responsabilité les griefs cités en objet, le tout sujet aux conditions suivantes :
+1. Le syndicat et la plaignante, madame Manon Rodier se désistent des griefs mentionnés en objet et de tout autre grief pouvant exister entre les parties;
+2. L'Employeur versera à la plaignante, à titre de remboursement de salaire, la somme de trente-cinq mille dollars (35 000$) avec intérêts à compter du 20 juin 2000, moins les retenues usuelles dont les impôts provincial et fédéral. La somme nette sera payable en deux versements égaux, le premier dans les 2 semaines suivant la signature des présentes, le second le 10 janvier 2002;
+3. En sus des sommes mentionnées au paragraphe précédent, l'Employeur versera à la plaignante, à titre de dommages moraux, la somme de cinq mille quatre cent cinquante dollars (5 450$) non-imposable, cette somme incluant tout intérêt;
+4. À même le produit de la somme décrite au paragraphe 3 des présentes, l'Employeur fera compensation afin de procéder au paiement des sommes dues par la plaignante à l'Employeur, lesquelles s'élèvent en date des présentes au montant de quatre mille neuf cent quatre-vingt-douze dollars et quatre-vingt-neuf cents (4 992,89$), l'Employeur renonçant aux intérêts sur cette somme et le solde après compensation étant payable à la plaignante dans les deux semaines suivant la signature des présentes;
+5. Considérant les dispositions du présent règlement, les parties se donnent quittance totale, finale et mutuelle de toute somme due et la plaignante renoncent expressément à tout recours ou poursuite relativement aux faits découlants des présents griefs ou du présent règlement;
+6. La plaignante reconnaît avoir pris connaissance du contenu de la présente et en avoir compris la portée ayant pu consulter des personnes ressources à cet effet.
+La présente entente vise uniquement à régler ces cas d'espèce, sans aucune admission des parties, et elle ne saurait être invoquée en aucune autre circonstance.
+[11] L'appelante explique qu'elle n'était aucunement satisfaite de ce règlement (le montant de 35 000 $ prévu au paragraphe 2 de ce règlement ne représentant même pas une année de salaire). Elle aurait préféré recevoir 40 000 $ à titre de dommages moraux (qui selon elle aurait été non imposable) au lieu de 35 000 $ à titre de salaire et 5 450 $ en dommages moraux. Elle dit avoir finalement accepté de signer ce règlement après que ses délégués syndicaux lui auraient fait comprendre qu'il n'y avait aucune autre négociation possible.
+[12] L'appelante soutient que la somme de 17 968 $ qu'elle a reçue en 2001 par suite de ce règlement fut versée à même le compte de rentes d'Hydro-Québec. Or, elle soutient qu'il ne s'agissait pas d'une rente, ni d'un salaire, ni d'une allocation de retraite mais plutôt des dommages compensatoires pour les préjudices subis par suite de son accident de travail, qui selon elle ne sont pas imposables aux termes de la Loi.
+[13] Malheureusement pour l'appelante, que l'on considère la somme qu'elle a reçue lors du règlement de son grief comme un remboursement de salaire ou comme une compensation pour dommages subis, ce revenu est de toute façon imposable aux termes de la Loi, tel que je vais l'expliquer ci-après.
+[14] D'une part, à la lecture du règlement de grief (pièce A-12), il est clair que l'employeur Hydro-Québec acceptait de verser à l'appelante (la plaignante) la somme de 35 000 $ payable en deux versements égaux, à titre de remboursement de salaire. On indiquait même dans ce règlement, signé par l'appelante, que cette somme était assujettie aux retenues usuelles, dont les impôts provincial et fédéral. L'appelante a clairement compris la portée du règlement qu'elle a accepté de signer puisqu'avant de signer, elle s'est plainte à son délégué syndical du montant qu'on lui offrait étant donné qu'il était inférieur à son salaire annuel. Son délégué syndical lui ayant répondu qu'il n'y avait pas d'autre négociation possible, elle a finalement accepté de signer ce règlement en toute connaissance de cause. En signant ce règlement, elle se résignait au fait que l'employeur acceptait de lui verser la somme de 35 000 $, dont une partie, (17 968 $) en 2001, à titre de remboursement de salaire. Un tel montant est imposable comme du revenu d'emploi en vertu du paragraphe 5(1) de la Loi, qui se lit comme suit :
+ARTICLE 5: Revenu tiré d'une charge ou d'un emploi.
+(1) Sous réserve des autres dispositions de la présente partie, le revenu d'un contribuable, pour une année d'imposition, tiré d'une charge ou d'un emploi est le traitement, le salaire et toute autre rémunération, y compris les gratifications, que le contribuable a reçus au cours de l'année.
+[15] Même si le montant ainsi versé par l'employeur pouvait être considéré comme une compensation pour dommages, il était également imposable comme une allocation de retraite aux termes du sous-alinéa 56(1)a)(ii).
+ARTICLE 56: Sommes à inclure dans le revenu de l'année.
+(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+456(1)a)3
+a) Pensions, prestations d'assurance-chômage, etc. - toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+[...]
+(ii) d'une allocation de retraite, sauf s'il s'agit d'un montant versé dans le cadre d'un régime de prestations aux employés, d'une convention de retraite ou d'une entente d'échelonnement du traitement.
+[16] Une « allocation de retraite » est définie comme suit au paragraphe 248(1) de la Loi :
+« allocation de retraite » -- « allocation de retraite » Somme, sauf une prestation de retraire ou de pension, une somme reçue en raison du décès d'un employé ou un avantage visé au sous-alinéa 6(1)a(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d'une charge ou d'un emploi ou par la suite;
+b) soit à l'égard de la perte par le contribuable d'une charge ou d'un emploi, qu'elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d'un tribunal compétent. [Je souligne.]
+[17] Il est clair de la preuve que la somme faisant l'objet du présent litige a été négociée par le syndicat représentant l'appelante auprès d'Hydro-Québec par suite du grief déposé par elle, par suite de sa mise à la retraite prématurée pour raisons de santé. D'ailleurs, en acceptant de signer le règlement, l'appelante et son syndicat se désistaient du grief qu'ils avaient déposé contre l'employeur. Il n'y a dès lors aucun doute que sans le grief, il n'y aurait pas eu un tel règlement prévoyant le versement d'une telle somme, d'autant que le Comité de retraite d'Hydro-Québec avait déjà voté une rente annuelle payable à l'appelante après son départ à la retraite.
+[18] L'appelante n'aurait pas reçu cette somme d'argent supplémentaire si elle n'avait pas perdu son emploi. En d'autres termes, c'est la perte de son emploi qui a généré le grief, qui à son tour a généré le règlement prévoyant le versement d'une somme de 35 000 $. À mon avis, il ne fait aucun doute que cette somme a été reçue par l'appelante à l'égard de la perte de son emploi et à ce titre, répond à la définition d'allocation de retraite prévue dans la Loi (voir Merrins c. Canada, [1994] A.C.F. no 1582 (Q.L.); et Ahmad v. Canada, [2002] T.C.J. no 471 (Q.L.).
+[19] L'appelante a fait état du fait que la somme qu'elle a reçue devait être exonérée d'impôt tout comme l'étaient les prestations de la CSST qu'elle a reçues jusqu'au 22 septembre 1997. Je comprends que les prestations de la CSST qu'elle a reçues ont été versées en vertu de la Loi sur les Accidents du travail du Québec. Ces prestations sont d'abord imposables en vertu de l'alinéa 56(1)v) de la Loi qui se lit comme suit :
+ARTICLE 56: Sommes à inclure dans le revenu de l'année.
+(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+[...]
+456(1)v)3
+v) Indemnité d'accident du travail - une indemnité reçue en vertu d'une loi sur les accidents du travail du Canada ou d'une province à l'égard d'une blessure, d'une invalidité ou d'un décès.
+[20] Elles sont toutefois déduites dans le calcul du revenu imposable par l'effet du sous-alinéa 110(1)f)(ii) de la Loi, qui se lit comme suit :
+ARTICLE 110: Déductions.
+(1) Pour le calcul du revenu imposable d'un contribuable pour une année d'imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+4110(1)f)3
+f) Déduction des paiements - toute prestation d'assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l'alinéa 56(1)u) dans le calcul du revenu du contribuable pour l'année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l'année, représentant, selon le cas:
+[...]
+(ii) une indemnité reçue aux termes d'une loi fédérale ou provinciale sur les accidents du travail pour blessure, invalidité ou décès, à l'exception d'une indemnité qu'une personne reçoit à titre d'employeur ou d'ancien employeur de la personne pour laquelle une indemnité pour blessure, invalidité ou décès a été payée.
+[21] Seules les indemnités reçues aux termes d'une loi fédérale ou provinciale sur les accidents du travail sont ainsi exonérées d'impôt. Toute indemnité versée par l'employeur à un employé à un autre titre, par exemple en vertu d'une convention collective, ou en application d'un programme de prestations pour invalidité de longue durée, n'est pas touchée par l'exonération d'impôt prévue à l'alinéa 110(1)f) (voir Whitney c. Canada, [2002] A.C.F. no 948 (Q.L.); et Suchon c. Canada, [2002] A.C.F. no 972 (Q.L.)).
+[22] Un versement fait par un employeur à une employée en règlement d'un grief déposé par elle contre l'employeur, n'est pas une indemnité reçue aux termes d'une loi fédérale ou provinciale sur les accidents du travail et par le fait même n'est pas exonéré d'impôt par l'application de l'alinéa 110(1)f).
+[23] Je conclus donc que la somme de 17 968 $ reçue par l'appelante de son employeur Hydro-Québec au cours de l'année d'imposition 2001 était imposable aux termes de la Loi. La cotisation sous appel est donc bien fondée.
+[24] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2003.
+« Lucie Lamarre »
+J.C.C.I.
+RÉFÉRENCE :
+2003CCI1
+No DU DOSSIER DE LA COUR :
+2002-3454(IT)I
+INTITULÉ DE LA CAUSE :
+Manon Rodier c. La Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE
+Le 13 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 30 janvier 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+L'appelante elle-même
+Pour l'intimé(e) :
+Me Anne Poirier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

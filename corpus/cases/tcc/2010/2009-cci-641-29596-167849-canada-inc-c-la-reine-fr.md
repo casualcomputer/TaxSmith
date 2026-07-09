@@ -1,0 +1,360 @@
+---
+title: "167849 Canada Inc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29596/index.do"
+last_modified: "2010-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 641"
+citation2: ""
+neutral_citation: "2009 CCI 641"
+decision_date: "2010-02-16"
+language: "fr"
+item_id: "29596"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6165
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:16:08.295000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7dfe37c9f08f046a024520de795c63927bb397593d17f93980a0fb26347ad5f3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 167849 Canada Inc c. La Reine
+
+- Citation: 2009 CCI 641
+- Decision date: 2010-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6165, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+167849 Canada Inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-16
+Référence neutre
+2009 CCI 641
+Numéro de dossier
+2006-2238(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2009 CCI 641
+Date : 20091229
+Dossier : 2006-2238(IT)G
+ENTRE :
+167849 CANADA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] L’appelante faisait affaires dans le domaine de la restauration rapide et, au cours de son année d’imposition 2001, elle a vendu six restaurants franchisés A & W pour la somme de 675 000 $. Il n’y a pas eu d’accord entre l’appelante et l’acheteur quant à la répartition du prix d’achat.
+QUESTION EN LITIGE
+[2] La seule question en litige est la répartition du prix de vente.
+POSITION DES PARTIES
+[3] En produisant sa déclaration de revenus, l’appelante a réparti le prix en utilisant les montants inscrits dans les documents comptables de la société aux fins fiscales au moment de la vente. Par exemple, si, pour le matériel[1], la fraction non amortie du coût en capital était de 100 $, l’appelante a attribué 100 $ au matériel. Le montant excédant les valeurs comptables a été attribué à l’achalandage[2].
+[4] La position de l’appelante au procès était qu’il fallait attribuer 114 775 $ aux améliorations locatives, 118 800 $ au matériel, 0 $ aux droits de franchise et 441 425 $ à l’achalandage.
+[5] La position du ministre du Revenu national (le « ministre ») au moment de la nouvelle cotisation était qu’il fallait attribuer 183 000 $ aux améliorations locatives, 420 000 $ au matériel, 51 668 $ aux droits de franchise et 20 332 $ à l’achalandage.
+[6] Au procès, la position du ministre était qu’il fallait attribuer 270 000 $ aux améliorations locatives, 350 000 $ au matériel, 55 000 $ aux droits de franchise et 0 $ à l’achalandage.
+[7] Ni l’appelante ni l’intimée n’ont attribué de valeur aux stocks[3].
+LES FAITS
+[8] Jean-Pierre Cadorette, le propriétaire de l’appelante, a témoigné, ainsi que Richard Dumas, le propriétaire de la société qui a acheté les restaurants en question.
+Témoignage de M. Cadorette
+[9] L’appelante a acheté cinq des six restaurants en question en 1989. Il s’agit de :
+a) Place Fleur de Lys no 1 — ouverture en 1987-1988,
+b) Place Laurier — ouverture en 1983,
+c) Rue St-Joseph (mail St-Roch) — ouverture en 1975,
+d) Place Québec — ouverture en 1986,
+e) Place Ste-Foy — ouverture en 1983[4].
+Au cours de la même opération en 1989, l’appelante a acheté douze autres restaurants A & W, y compris celui aux Galeries de la Capitale, vendu durant l’année d’imposition 2000 (qui n’est pas en litige)[5].
+[10] Le sixième restaurant en question, Fleur de Lys no 2, n’existait pas en 1989 et a été ouvert en 1991-1992[6].
+[11] Au moment de l’achat et jusqu’à la vente en question, l’appelante n’avait pas changé le matériel ni modifié les améliorations locatives des restaurants à la Place Fleur de Lys no 1, à la Place Laurier ou à la rue St-Joseph[7].
+[12] Au cours de l’année 2000, le restaurant à la Place Ste-Foy a été fermé et rouvert ailleurs au centre commercial; ce restaurant a été reconstruit[8].
+[13] M. Cadorette a témoigné qu’en 1989 et en 1990, ses rapports avec le franchiseur, A & W, étaient un peu tendus parce qu’il devait rénover et changer le matériel tous les sept ans, ou aux 10 ans au maximum, et qu’il avait manqué à cette obligation.
+[14] La mise à neuf requise pouvait coûter de 100 000 $ à 150 000 $ par restaurant.
+[15] Il a décidé à cette époque qu’il voulait vendre les six restaurants en question ainsi que le restaurant aux Galeries de la Capitale.
+[16] Il a finalement vendu les six restaurants en question à Gestion Richard Dumas. Ceci s’est fait par deux contrats de vente le 13 décembre 2000, soit un contrat pour le restaurant à la Place Laurier et un deuxième contrat pour les cinq autres restaurants[9]. L’appelante avait déjà vendu le restaurant aux Galeries de la Capitale à Gestion Richard Dumas au cours de l’exercice 2000.
+[17] Les deux contrats contiennent la même description des entreprises vendues :
+DESCRIPTION
+Une entreprise connue et exploitée sous le nom de « Restaurant A & W » située :
+[…]
+La présente vente comprend notamment :
+1. l’acceptation par A & W d’utiliser le nom;
+2. toutes les marchandises déjà inventoriées entre les parties que l’acheteur connaît et s’en déclare satisfait;
+3. tous les meubles, effets mobiliers et équipements servant à l’exploitation de l’entreprise et déjà inventoriés entre les parties que l’acheteur connaît et s’en déclare satisfait;
+5. les droits du vendeur reliés à l’identification de l’entreprise, notamment les numéros de téléphone, les affiches, les enseignes, la publicité, les permis, la franchise « A & W »;
+6. les droits du vendeur dans les baux des emplacements vendus.
+[18] M. Cadorette a témoigné qu’il ne pouvait vendre les droits de franchise qu’il avait car, en vertu de son accord avec A & W, il devait abandonner ceux-ci à A & W s’il n’exploitait plus les restaurants.
+[19] On constate, dans la « convention de résiliation et d’octroi de concession » du 15 novembre 2000, entre l’appelante, l’acheteur des restaurants en question et A & W[10], que A & W a accepté la résiliation de certaines conventions de concession (franchises) par l’appelante en contrepartie de quelques conditions, notamment i) un paiement par l’appelante, et ii) le paiement par l’acheteur des restaurants d’une somme d’argent pour l’octroi des droits de franchise nécessaires à l’acheteur[11].
+[20] M. Cadorette a témoigné qu’il avait payé 25 000 $ pour chaque droit de franchise d’une durée de 20 ans, mais qu’au moment où il a vendu les restaurants, le prix d’un droit de franchise avait doublé à 50 000 $ pour 20 ans ou 25 000 $ pour 10 ans.
+[21] Il a également témoigné au sujet de la négociation. Il a expliqué que la négociation du prix global était basée sur les profits des restaurants. Le prix global de 1 125 000 $, y compris pour le restaurant aux Galeries de la Capitale, correspondait à peu près à 2,5 fois les profits, plus un montant de 125 000 $ pour tenir compte des coûts pour refaire le restaurant à la Place Ste-Foy.
+M. Dumas
+[22] M. Dumas a témoigné relativement à l’achat des restaurants.
+LES EXPERTS
+[23] L’appelante et l’intimée ont présenté Guy Hardy et Yvon Ouellet comme témoins experts.
+Objection au témoignage de M. Ouellet
+[24] L’appelante s’est opposée au témoignage de M. Ouellet comme expert, non en raison de ses compétences, mais pour la simple raison qu’il est fonctionnaire à l’Agence du revenu du Canada (l’« ARC »). Je ne suis pas d’accord. Le simple fait qu’il soit fonctionnaire à l’ARC n’est pas en soi suffisant pour que M. Ouellet ne puisse être qualifié d’expert[12].
+[25] Par contre, je note que vers 2001, M. Ouellet a été consulté relativement à ce dossier, probablement par la vérificatrice. Il aurait reçu quelques bribes d’information et aurait avancé quelques chiffres sans faire d’évaluation. Ceci a été fait alors que l’ARC espérait promouvoir une entente entre l’appelante et l’acheteur des restaurants au sujet de la répartition.
+[26] Ensuite, M. Ouellet n’a pas travaillé sur le dossier avant 2007, lorsqu’il a fait l’évaluation qui a été présentée au procès.
+[27] La participation de M. Ouellet en 2001, avant la cotisation du 27 octobre 2003, la cotisation en litige, n’est pas en soi suffisante pour l’empêcher d’être qualifié d’expert. Par contre, je crois que cela a un effet sur le poids qu’il faut accorder à son évaluation.
+[28] Il aurait été préférable que M. Ouellet n’ait eu aucun rôle avant la cotisation en litige[13].
+Méthodologie
+[29] Pour ce qui est du matériel, M. Hardy a utilisé une méthode qui consiste à s’informer du prix de vente de matériel du même genre. M. Ouellet a employé une méthode reconnue de dépréciation du matériel en utilisant les données de Marshall & Swift.
+[30] Au niveau des principes, les deux méthodes sont raisonnables.
+[31] Toutefois, dans les deux rapports, il y a certaines lacunes dont il faut tenir compte.
+[32] Le mandat de M. Hardy était limité à l’évaluation des améliorations locatives et du matériel.
+Date des améliorations et de l’acquisition du matériel
+[33] Pour ce qui est des restaurants à la Place Fleur de Lys no 1, à la Place Laurier, à la rue St-Joseph et à la Place Québec, les deux rapports indiquent 1989 comme la date des améliorations locatives, et le rapport de M. Ouellet indique 1989 comme la date de l’acquisition du matériel[14].
+[34] Par contre, le témoignage non contredit de M. Cadorette était qu’il n’a effectué aucune amélioration au moment de l’achat de ces quatre restaurants. En conséquence, les améliorations locatives et l’achat du matériel de ces restaurants ont eu lieu avant 1989. Vu les dates auxquelles les restaurants ont été ouverts et le témoignage de M. Cadorette quant à la politique de A & W selon laquelle il fallait rénover tous les sept à 10 ans d’exploitation, je conclus qu’au moment de la vente en 1989, les améliorations locatives et le matériel des restaurants à la Place Fleur de Lys no 1, à la Place Laurier et à la Place Québec dataient de l’époque où ces restaurants ont été ouverts, c'est-à-dire 1987-1988, 1983 et 1986 respectivement.
+[35] Le restaurant à la rue St-Joseph existe depuis 1975. Par contre, malgré le fait que plusieurs des restaurants exploités par l’appelante ont passé bien plus de 10 ans sans rénovation[15], il est peu probable que le restaurant à la rue St-Joseph n’ait pas été rénové avant 1989. Si ce restaurant n’avait pas été rénové avant 1989, cela voudrait dire que A & W aurait accepté que ce restaurant ne soit pas rénové pendant les 25 ans de 1975 à 2000. Cela n’est pas probable. Il serait raisonnable de supposer que le restaurant à la rue St-Joseph a été rénové au moins un an avant que l’appelante l’achète.
+[36] Il y a donc lieu de tenir compte de ces dates pour les améliorations locatives et les achats de matériel en considérant les évaluations.
+Le cas particulier du restaurant à la Place Ste-Foy
+[37] Le restaurant à la Place Ste-Foy a été complètement rénové en 2000 et était neuf du point de vue de A & W au moment de la vente[16].
+[38] Toutefois, les deux évaluations ne tiennent pas compte de ce fait en ce qui concerne le matériel.
+[39] Dans son rapport, M. Ouellet suppose que le matériel date de neuf ans, malgré le fait qu’il ait été remplacé en 2000.
+[40] Le rapport de M. Hardy ne se fonde pas sur l’âge du matériel, mais il est évident qu’il y a un problème et que l’évaluation du restaurant à la Place Ste‑Foy ne peut tenir compte du renouvellement du matériel en 2000. Par exemple, M. Hardy évalue la valeur du matériel du restaurant à la Place Fleur de Lys no 2 (environ 400 pi2), qui date de 1991-1992, à 23 800 $, alors qu’il évalue celle du restaurant à la Place Ste-Foy (300 pi2), qui a été rénové en 2000, à 24 890 $; il y a erreur quelque part, peut-être dans la liste du matériel fournie à M. Hardy.
+[41] Vu que A & W estime que le matériel coûte entre 125 000 $ et 155 000 $[17], la valeur du matériel à la Place Ste-Foy doit être beaucoup plus élevée.
+Rapport de M. Hardy
+[42] Une des choses qui influencent la validité du travail de M. Hardy est la fiabilité des listes du matériel fournies. En plus du cas de la Place Ste-Foy, il est à noter que les différences entre les listes fournies à M. Hardy sont parfois assez marquées. Par exemple, la liste du matériel aux Galeries de la Capitale comporte 39 types d’articles différents, tandis que la liste pour la Place Fleur de Lys no 2 a 71 types d’articles différents, bien que les ventes de repas au restaurant à la Place Fleur de Lys no 2 soient la moitié des ventes de repas au restaurant aux Galeries de la Capitale [18].
+[43] La valeur de chaque article est basée sur le prix auquel un article identique ou semblable a été vendu. Au cours des années, M. Hardy a établi une banque de données des prix de vente de différents matériaux. Son point de départ était cette banque de données, mais lorsqu’il n’avait pas de données, il a communiqué avec des gens dans l’industrie de revente de matériel ou avec des confrères pour obtenir des prix pour le matériel au moment de l’évaluation. Son rapport ne présente pas les données comparatives utilisées et il est donc impossible de vérifier s’il s’agit de la même marque ou du même modèle, ou d’un objet semblable mais un peu différent.
+[44] En témoignant, M. Hardy a dit que le matériel perdait plus de valeur la première année et qu’après un certain temps, la valeur du matériel ne se dépréciait plus, à moins que le matériel ne devienne obsolète.
+[45] Pour ce qui est des améliorations locatives, M. Hardy les a dépréciées sur une période de 10 ans. Il considère qu’après 10 ans, il n’y a aucune valeur résiduelle.
+Évaluation de M. Ouellet
+[46] En examinant le rapport de M. Ouellet, il faut tenir compte, dès le départ, d’un problème avec le rapport. La conclusion du rapport dit qu’il y a une valeur totale de 726 850 $ pour le matériel, les améliorations locatives et les droits de franchise vendus au cours de l’année d’imposition, même si le prix de vente est de 675 000 $. Cette conclusion signifie qu’il y aurait un achalandage négatif de 51 850 $, mais il ne peut y avoir d’achalandage négatif.
+[47] En témoignant, M. Ouellet a reconnu le problème et, en conséquence, a dit qu’il fallait rajuster les valeurs pour que l’achalandage soit nul. Il a expliqué ce résultat par le fait que son rapport avait été préparé pour établir les valeurs globales des six restaurants vendus en 2001 et du restaurant aux Galeries de la Capitale vendu en 2000.
+[48] Il reste que la nécessité de faire des rajustements[19] soulève de sérieuses questions au sujet de l’approche de M. Ouellet.
+[49] Cela est d’autant plus vrai qu’il faut se rappeler que le restaurant à la Place Laurier a été vendu séparément pour 250 000 $. Si on prend les évaluations pour le matériel, les améliorations locatives et les droits de franchise des six restaurants et qu’on les sépare entre le restaurant à la Place Laurier et les cinq autres restaurants vendus pour 425 000 $, on s’aperçoit que le résultat mène à un achalandage d’à peu près 135 000 $ pour le restaurant à la Place Laurier et à un achalandage négatif d’environ 185 000 $ pour les cinq autres restaurants[20].
+[50] Je note aussi certaines autres erreurs à la page 15 du rapport[21]. Les restaurants à la Place Fleur de Lys no 1 et à la rue St-Joseph ont tous deux du matériel âgé de 11 ans, mais, dans un cas, il y a une dépréciation de 76 % et, dans l’autre cas, de 86 %. À la même page, on utilise neuf ans d’existence pour les restaurants à la Place Québec et à la Place Laurier, bien que rien dans le rapport ne laisse croire que le matériel de ces restaurants soit plus neuf que celui à la Place Fleur de Lys no 1 ou à la rue St-Joseph. De plus, il faudrait tenir compte des dates réelles d’acquisition du matériel (voir les paragraphes 34 et 35 ci-dessus).
+ANALYSE
+[51] En conséquence, je n’accepte pas tel quel l’un ou l’autre des rapports. Il y a lieu de prendre les rapports et de considérer les corrections nécessaires.
+[52] Il faut tenir compte des facteurs suivants :
+a) Le matériel et les améliorations locatives datent de :
+i) Place Fleur de Lys no 1 : 1987-1988,
+ii) Place Laurier : 1983,
+iii) Place Québec : 1986,
+iv) rue St-Joseph : avant 1989,
+v) Place Fleur de Lys no 2 : 1991-1992.
+b) Vu que A & W prévoit un coût minimal de 125 000 $ pour le matériel, même en supposant une très forte dépréciation la première année et un coût un peu moins élevé, le matériel du restaurant à la Place Ste-Foy a une valeur minimale de 105 000 $.
+c) Il n’est pas raisonnable de n’attribuer aucune valeur résiduelle au matériel et aux améliorations locatives. Par contre, bien que les données de Marshall & Swift indiquent des valeurs résiduelles de 14 % pour les restaurants, elles indiquent aussi que « if the installation is unmarketable, however, then the value could go to zero »[22] (si le matériel est invendable, cependant, la valeur peut être réduite à néant). En conséquence, vu l’âge du matériel (12, 13, 14 et 17 ans dans quatre des restaurants), il est raisonnable d’utiliser une valeur résiduelle de 10 %. Les améliorations locatives ont une valeur résiduelle encore plus faible, vu l’âge et le fait que les restaurants n’ont de l’intérêt que dans la mesure où quelqu’un continue de les exploiter sans les rénover. Vu que l’acheteur a continué d’exploiter les restaurants et qu’un certain temps devait nécessairement s’écouler avant toute rénovation, une valeur résiduelle de 4 % est appropriée, sauf dans le cas du restaurant à la rue St‑Joseph, qui a été fermé peu après la vente[23]. Pour ce qui est du restaurant à la rue St-Joseph, la valeur résiduelle des améliorations locatives est nulle.
+d) Quant à la période d’amortissement des améliorations locatives, M. Hardy a utilisé une période de 10 ans et M. Ouellet, 15 ans. Malgré le témoignage de M. Cadorette selon lequel une période de 10 ans était un délai maximal pour rénover, je constate qu’en fait aucun des restaurants vendus en 2001 n’avait été rénové après 10 ans, sauf celui à la Place Ste‑Foy, qui a été rénové à cause du déménagement imposé par le centre commercial. Le restaurant à la Place Ste-Foy n’avait pas été rénové depuis son ouverture en 1983, 17 ans avant la rénovation de 2000. En conséquence, il est raisonnable d’utiliser une période de 14 ans pour l’amortissement.
+e) Pour ce qui est des coûts à utiliser pour calculer la dépréciation, il faut utiliser soit les coûts réels s’ils sont connus, soit une estimation raisonnable de ces coûts. Si on utilise une estimation, je crois qu’il faut attribuer plus de poids aux documents écrits obtenus de A & W (pièce A-6) ou à l’estimation (provenant également de A & W) qui commence à la deuxième page de l’annexe du rapport de M. Hardy (pièce A-8) qu’aux informations obtenues d’un représentant du franchiseur et confirmées verbalement par M. Cadorette[24]. Finalement, à ce sujet, vu qu’il s’agit surtout d’améliorations locatives et de matériel d’un certain âge et que la pièce A-6 est datée de 2003[25], il y a lieu d’utiliser une estimation au bas de l’échelle indiquée à la pièce A-6.
+[53] En tenant compte de tous ces facteurs dans la mesure où ils s’appliquent à l’un ou à l’autre des rapports d’évaluation, on constate que les deux évaluations tendent vers des ordres de grandeur comparables. Je conclus que la valeur des améliorations locatives est de 180 000 $ et que la valeur du matériel est de 190 000 $. L’effet des corrections et les calculs qui en découlent sont présentés en annexe.
+Les droits de franchise
+[54] L’appelante n’a pas fourni d’évaluation des droits de franchise. La position de l’appelante est qu’elle ne pouvait vendre ses droits de franchise et qu’en conséquence aucune valeur ne pouvait être attribuée aux droits de franchise.
+[55] Bien qu’il soit exact que l’appelante devait abandonner les droits de franchise, il faut regarder les contrats entre l’appelante et l’acheteur, et aussi entre l’appelante, l’acheteur et A & W, comme un tout. En examinant les contrats[26], il est évident qu’un des éléments essentiels à la vente des restaurants était que A & W accepte de donner les droits de franchise des restaurants à l’acheteur. Pour que cela ait lieu, il fallait que l’appelante renonce à ses droits de franchise pour que A & W accorde de nouvelles franchises à l’acheteur. De plus, la continuité des franchises est reflétée dans le fait que A & W a réduit un peu les coûts des nouvelles franchises en tenant compte en partie des montants que l’appelante avait payés pour les périodes des droits de franchise qui ne sont pas encore venues à échéance[27].
+[56] En conséquence, l’acheteur a payé le prix d’achat, entre autres, pour que l’appelante renonce à ses droits de franchise.
+[57] M. Ouellet a calculé la valeur de ce à quoi l’appelante a renoncé comme étant la valeur des frais de franchise qu’épargne l’acheteur. Cette approche est tout à fait raisonnable et le calcul est conforme aux montants qu’épargnait l’acheteur selon le témoignage de M. Cadorette.
+[58] Toutefois, à l’annexe de la pièce A-4 apparaissent les montants que l’acheteur s’est engagé à payer à A & W pour les droits de franchise[28]. Ces montants ne peuvent être réconciliés avec le témoignage de M. Cadorette et le calcul fait par M. Ouellet.
+[59] À l’annexe de la pièce A-5, on voit un calcul semblable à celui de la pièce A‑4. On constate que les montants sont un peu plus bas à l’annexe de la pièce A‑5 qu’à l’annexe de la pièce A‑4 parce qu’il y avait un an de plus à la durée des droits de franchise qu’au moment où la pièce A‑4 a été préparée[29]. En comparant les pièces A-4 et A-5, on peut constater que l’acheteur a choisi des droits de franchise de 10 ans. Si on exclut les restaurants à la Place Québec et à la rue St-Joseph, on constate que le montant épargné par l’acheteur est très différent de celui selon le témoignage de M. Cadorette ou selon le calcul de M. Ouellet[30].
+[60] À l’annexe de la pièce A-4, on constate que pour les restaurants en cause, à l’exclusion de ceux à la rue St-Joseph et à la Place Québec, l’acheteur a épargné un peu plus de 30 000 $[31].
+[61] Pour ce qui est des restaurants à la rue St-Joseph et à la Place Québec, les frais de franchise sont nuls. Cela ne peut être expliqué par un crédit à l’acheteur pour la période restante des droits de franchise de l’appelante, car à la Place Québec le droit de franchise est venu à échéance à la fin janvier 2001, et à la rue St-Joseph, il est échu en novembre 2003[32]. Il doit y avoir d’autres raisons qui ne sont pas en preuve[33]. En conséquence, le fait qu’il n’y ait pas de frais de franchise pour ces deux restaurants ne peut être attribué à un crédit pour ce que l’appelante avait déjà payé.
+[62] Quoi qu’il en soit, la seule épargne véritable pour l’acheteur était la réduction de 30 000 $ des frais de franchise. La valeur qu’il faut attribuer aux franchises est donc de 30 000 $.
+[63] Vu mes conclusions sur la valeur des améliorations locatives, du matériel et des droits de franchise, la valeur de l’achalandage doit nécessairement être de 275 000 $[34].
+CONCLUSION
+[64] L’appel est accueilli et le tout est déféré au ministre pour nouvel examen et nouvelle cotisation en tenant pour acquis que le prix de vente de 675 000 $ doit être réparti de la façon suivante :
+a) améliorations locatives : 180 000 $,
+b) matériel : 190 000 $,
+c) droits de franchise : 30 000 $,
+d) achalandage : 275 000 $.
+[65] Avant de signer le jugement, je demanderais aux parties d’informer le greffe au plus tard 30 jours après la date des motifs si elles veulent faire des observations relatives aux frais, soit par écrit ou par conférence téléphonique. Je signerai le jugement par la suite.
+Signé à Ottawa, Canada, ce 29e jour de décembre 2009.
+« Gaston Jorré »
+Juge Jorré
+Annexe – Rajustements aux évaluations
+(Tous les chiffres sont arrondis et en milliers de dollars.)
+Rapport de l’appelante
+Matériel : Il faut tenir compte du coût du matériel du restaurant à la Place Ste‑Foy.
+Rapport :
+133
+Moins : Galeries de la Capitale
+(14)
+119
+Moins : estimation actuelle Ste-Foy
+(25)
+94
+Plus : montant pour Ste-Foy
+105
+TOTAL
+199
+Améliorations locatives : Il faut ajouter les valeurs résiduelles et tenir compte d’un amortissement sur 14 ans.
+Rapport :
+115
+Plus valeurs résiduelles[35] :
+Fleur de Lys no 1
+8
+Place Laurier
+7
+Place Québec
+6
+Plus :
+Rue St-Joseph
+0[36]
+Plus :
+Fleur de Lys no 2
+20[37]
+Place Ste-Foy
+25[38]
+TOTAL
+181
+Rapport de l’intimée
+Matériel : coût de 125 000 $[39]; amortissement sur 12 ans, mais amortissement plus rapide la première année; valeur résiduelle de 10 %.
+Restaurant
+Âge
+% non amorti
+Valeur
+Fleur de Lys no 1
+13 ans
+résiduel
+12
+Fleur de Lys no 2
+9 ans
+25 %
+31
+Place Laurier
+17 ans
+résiduel
+12
+Rue St-Joseph
+12 ans
+résiduel
+12
+Place Québec
+14 ans
+résiduel
+12
+Place Ste-Foy
+1 an
+après 1 an[40]
+105
+TOTAL
+184
+Améliorations locatives : coût de 130 000 $[41]; amortissement sur 14 ans, mais amortissement plus rapide la première année; valeur résiduelle de 4 %, sauf 0 % pour la rue St‑Joseph.
+Restaurant
+Âge
+% non amorti
+Valeur
+Fleur de Lys no 1
+13 ans
+résiduel
+5
+Fleur de Lys no 2
+9 ans
+35 %
+45
+Place Laurier
+17 ans
+résiduel
+5
+Rue St-Joseph
+12 ans
+14 %
+0[42]
+Place Québec
+14 ans
+résiduel
+5
+Place Ste-Foy
+1 an
+après 1 an[43]
+115
+TOTAL
+175
+Sommaire
+Valeur
+Valeur du matériel après avoir rajusté l’évaluation de l’appelante
+199
+Valeur du matériel après avoir rajusté l’évaluation de l’intimée
+184
+Valeur des améliorations locatives après avoir rajusté l’évaluation de l’appelante
+181
+Valeur des améliorations locatives après avoir rajusté l’évaluation de l’intimée
+175
+Il est raisonnable de conclure que la valeur du matériel est de 190 000 $ et que la valeur des améliorations locatives est de 180 000 $.
+RÉFÉRENCE : 2009 CCI 641
+Nº DU DOSSIER DE LA COUR : 2006-2238(IT)G
+INTITULÉ DE LA CAUSE : 167849 CANADA INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATES DE L’AUDIENCE : Les 5 décembre 2007 et 4 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Gaston Jorré
+DATE DES MOTIFS
+DU JUGEMENT : Le 29 décembre 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Daniel Des Aulniers
+Avocat de l'intimée :
+Me Michel Lamarre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Daniel Des Aulniers
+Cabinet : Grondin, Poudrier, Bernier
+Québec (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] « Matériel » ou possiblement « équipement »; voir Terminologie comptable, « Matériel et équipement », vol. 2, no 8-1 (mars 1985), Ordre des comptables agréés du Québec. Le mot « équipement » a été utilisé au cours de l’audience.
+[2] En argumentation, l’appelante n’a pas poursuivi sa première position selon laquelle la répartition faite dans la déclaration de revenus devait être maintenue. La déclaration de revenus attribue 100 000 $ au matériel, 80 620 $ aux améliorations locatives, 43 316 $ aux droits de franchise, 57 666 $ aux stocks et 423 399 $ à l’achalandage. J’ai utilisé « stocks » plutôt qu’« inventaire »; voir Terminologie comptable, « Inventory, stock », vol. 1, no 10 (mai 1983), Ordre des comptables agréés du Québec.
+[3] Et ce, malgré le fait que, dans la déclaration de revenus, on avait attribué un montant aux stocks. Toutefois, la déclaration de revenus avait également indiqué que le prix de vente était plus élevé de 30 000 $. L'explication est probablement celle donnée par le propriétaire de l'appelante dans son témoignage, où il dit que les stocks faisaient partie des rajustements. Vu la position des parties, je vais tenir pour acquis que les stocks ne sont pas compris dans le montant de 675 000 $.
+[4] Transcription du 5 décembre 2007, questions 16 à 21.
+[5] Ibid., question 2.
+[6] Ibid., question 20.
+[7] Ibid., questions 25 à 33. J’arrive également à la conclusion que le restaurant à la Place Québec n’a pas été rénové, car en examinant la preuve globalement, il est clair que seul le restaurant à la Place Ste-Foy avait été rénové au moment de la vente.
+[8] Ibid., question 37.
+[9] Pièces A-1 et A-2.
+[10] Pièce A-4.
+[11] La convention désigne ce paiement pour l'octroi des droits de franchise comme des « frais de modernisation ».
+[12] Je remercie les avocats pour leurs observations écrites. Les causes citées par l’appelante élaborent des principes liés à l’indépendance et à l’impartialité des tribunaux. L’appelante prend la position que les experts sont dans une situation analogue à celle des tribunaux. Tout en reconnaissant que le Code de procédure civile (le « CPC ») ne s’applique pas à cette cour, l’appelante soutient que cette cour devrait appliquer les principes de l’article 417 du CPC. Selon l’appelante, l’article 417 a pour effet de rendre applicable aux experts l’article 234 du CPC, article qui énumère des raisons qui peuvent motiver la récusation d’un juge.
+Même si le CPC pouvait s’appliquer à cette cour, je ne serais pas d’accord. Il faut examiner le contexte de l’article 417, qui se trouve au milieu du Livre II, Titre V, Chapitre III, section V, du CPC. Vu le contexte, l’article 417 s’applique à un expert nommé par le tribunal et non à un expert présenté par l’une des parties. Voir Houle et Dauphinais Construction inc. c. Procureur général du Québec, [1980] J.E. 80-835 (CS), paragraphe 32.
+Par ailleurs, il est bien établi que le simple fait d’être l’employé d’une partie n’est pas en soi suffisant pour qu’un témoin expert soit inapte à témoigner. Voir, par exemple, Hallatt c. Canada, [2000] A.C.I. no 884 (QL), paragraphe 8; Jean-Claude Royer, La preuve civile, 4e édition, 2008, Éditions Yvon Blais, page 329, paragraphe 468; Alan W. Bryant, Sidney N. Lederman & Michelle K. Fuerst, The Law of Evidence in Canada, 3rd Edition, 2009, LexisNexis, paragraphe 12.33.
+[13] J’ajouterai que, d’une façon générale, il serait préférable qu’un évaluateur n’ait aucune connaissance des positions des parties relatives aux valeurs pendant qu’il fait son travail.
+[14] Vu que M. Hardy utilise des listes du matériel détenu et établit la valeur du matériel en décembre 2000, la date d'acquisition ne joue pas le même rôle pour son évaluation du matériel que pour celle de M. Ouellet.
+[15] Dix-sept ans dans le cas de la Place Laurier, par exemple.
+[16] Transcription du 5 décembre 2007. Je conclus que tout a été rénové, incluant le matériel. Bien qu'à la question 41, M. Cadorette parle de déménager le matériel, aux questions 35 et 36, il parle de construire un nouveau restaurant et de remplacer le matériel, et aux questions 509 à 515, il est d'accord qu'au moment de la vente, le restaurant à la Place Ste-Foy n'était pas « hors normes » du point de vue de A & W, ce qui laisse entendre que le matériel était neuf.
+[17] Pièce A-6.
+[18] Pièce A-3.
+[19] Les montants rajustés apparaissent dans la dernière colonne de la pièce I-1 et représentent la répartition selon l'intimée.
+[20] Si on additionne le matériel, les améliorations locatives et la valeur attribuée au droit de franchise du restaurant aux Galeries de la Capitale, on arrive à environ 114 000 $ et au même montant pour la Place Laurier, ce qui laisse environ 612 000 $ (840 000 $ - 228 000 $) pour le matériel, les améliorations locatives et les droits de franchise des cinq autres restaurants vendus pour 425 000 $. Mathématiquement, le résultat est un achalandage négatif de 187 000 $ (425 000 $ - 612 000 $).
+[21] Pièce I-7.
+[22] Pièce I-8, page 2.
+[23] Un indice démontre que cela était probablement prévu, car on constate à l’annexe de la pièce A-4 que l'acheteur n'a rien payé à A & W pour le droit de franchise.
+[24] Pièce A-6, page 14, rapport de M. Ouellet. D'après ce rapport, il ne semble pas que l'information ait été obtenue par écrit, ce qui augmente la possibilité de malentendus.
+[25] Page 2 de ladite pièce.
+[26] Pièces A-1, A-2 et A-4.
+[27] Rien dans la preuve ne contredit le témoignage de M. Cadorette voulant que l'acheteur reçoive un certain crédit.
+[28] Les « frais de modernisation ».
+[29] Exclusion faite des restaurants à la Place Québec et à la rue St-Joseph.
+[30] Il faut aussi tenir compte du fait que M. Ouellet fait ses calculs à partir du mois d'août, et non de décembre 2000.
+[31] Les droits de franchise coûtaient 25 000 $ pour 10 ans. L'épargne est la différence entre 25 000 $ et les frais payés par l'acheteur.
+[32] Pièce A-5, annexe.
+[33] Il se peut que l'acheteur et A & W se soient déjà entendus pour que le restaurant à la rue St-Joseph soit fermé peu après l'achat.
+[34] C'est-à-dire le prix de vente de 675 000 $ moins (180 000 $ + 190 000 $ + 30 000 $).
+[35] 4 % du coût dans le rapport.
+[36] Fermé peu après l’opération.
+[37] Le coût de 125 000 $ amorti sur 14 ans résulte dans une valeur de 45 000 $ au lieu de 25 000 $, ce qui nécessite un ajout de 20 000 $.
+[38] Dans le cas de Ste-Foy, vu que la rénovation venait d’être faite un an auparavant, il est plus approprié de prendre le coût pour un acheteur qui aurait à faire les travaux, moins un an d’amortissement, c'est-à-dire 115 000 $, en utilisant les chiffres de la pièce A-6 comme point de départ. Le rapport établit une valeur de 90 000 $, il faut donc ajouter 25 000 $. En arrivant à cette conclusion, je tiens également compte du fait que le centre commercial Place Ste-Foy a fourni certaines améliorations qui ont réduit les coûts payés par l’appelante pour les améliorations locatives tout en augmentant la valeur des améliorations locatives pour l’acheteur. Voir la transcription du 5 décembre 2007, question 45, témoignage de M. Cadorette.
+[39] Voir paragraphe 52 e) de ces motifs.
+[40] Amortissement plus rapide la première année.
+[41] Voir paragraphe 52 e) de ces motifs
+[42] Fermé peu après l’opération.
+[43] Amortissement plus rapide la première année.

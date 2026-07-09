@@ -1,0 +1,171 @@
+Title: Yu c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218768/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-276-218768-yu-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-11-21
+
+# Yu c. La Reine
+
+- Citation: 2016 CCI 276
+- Decision date: 2016-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2252, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-21
+Référence neutre
+2016 CCI 276
+Numéro de dossier
+2014-3960(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3960(IT)G
+ENTRE :
+JUN LI YU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 31 octobre et le 1er novembre 2016, et décision rendue oralement à l’audience le 3 novembre 2016, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me J. Herbert Rosner
+Avocate de l’intimée :
+Me Whitney Dunn
+JUGEMENT
+Pour les motifs ci-joints prononcés de vive voix à l’audience, l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 5 décembre 2012 et porte le numéro 2016880, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Dossier : 2014-3960(IT)G
+ENTRE :
+JUN LI YU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DU JUGEMENT PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs du jugement prononcés oralement à l’audience, le 3 novembre 2016, à Vancouver (Colombie‑Britannique). J’ai révisé la transcription (certifiée par le sténographe judiciaire) pour y apporter des corrections mineures seulement quant au style et à la clarté. Je n’y ai fait aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2016 CCI 276
+Date : 20161121
+Dossier : 2014-3960(IT)G
+ENTRE :
+JUN LI YU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Appel entendu le 31 octobre et le 1er novembre 2016, et décision rendue oralement à l’audience le 3 novembre 2016, à Vancouver (Colombie‑Britannique)
+Le juge Boyle
+[1] L’appelant interjette appel d’une cotisation établie en vertu de l’article 160 en décembre 2012 à l’égard des 119 500 $ qui lui ont été transférés en quatre tranches de janvier à mars 2010. L’auteur des transferts était Yan Siang Yu qui, au moment des transferts, était la sœur de l'épouse de M. Yu, Yan Hong Yu. Une des hypothèses de fait du ministre, qui n’a pas été contestée, est que M. Yu et Yan Siang Yu étaient époux avant 2010.
+[2] En 2010, Yan Siang Yu habitait avec sa mère dans la maison de cette dernière à Vancouver. Jiao Zhen Huang est la mère des deux sœurs Yu et d’une troisième fille. Elle a affirmé qu’elle était veuve et que son mari était décédé en Chine avant qu’elle émigre au Canada en 2000. Elle a également déclaré que Huang était son nom de jeune fille et qu’elle utilisait encore son nom de femme mariée, Mme Yu.
+[3] En 2010, l'épouse de M. Yu, Yan Hong Yu, vivait en Chine avec leur fils. M. Yu vivait au Canada. Il est possible que le processus d’immigration de son épouse était commencé à ce moment. Plus tard, M. Yu a parrainé son épouse et son fils. Son épouse est maintenant résidente permanente du Canada.
+[4] La cotisation sous‑jacente de l’auteur des transferts, Yan Siang Yu, a été établie en août 2010 pour les années d'imposition 2006 à 2008. Il y était calculé des revenus d’environ 400 000 $ pour chaque année et des pénalités étaient imposées. Cette cotisation établie selon l’avoir net concernait une installation de culture de marijuana exploitée dans une maison de Vancouver située sur la 53e Avenue Ouest et appartenant à l’auteur des transferts.
+[5] La cotisation faisait suite à une perquisition menée dans cette maison en mai 2009, au cours de laquelle environ 1 000 plants de marijuana et un dispositif de détournement d’électricité ont été découverts. La maison de la 53e Avenue Ouest a plus tard été confisquée au profit de la Couronne. L’auteur des transferts a fait faillite en février 2012 et a été libérée en juin 2013.
+[6] La dette fiscale impayée de l’auteur des transferts découlant de la cotisation sous-jacente était d’environ 1 000 000 $. Apparemment, elle aurait été beaucoup plus élevée si l’Agence du revenu du Canada n’avait pas omis une multiplication par quatre dans son calcul des revenus tirés de l’installation de culture de marijuana pour tenir compte du fait qu’elle avait, dans le même tableau, supposé que les plants produisaient quatre récoltes par année.
+[7] L’appelant ne conteste pas avoir reçu 119 500 $ de l’auteur des transferts sans contrepartie ni être lié à l’auteur des transferts. Au début de l’audience, l’avocat de l’appelant a fait savoir que l’appelant ne contestait plus la validité de la cotisation sous-jacente de l’auteur des transferts. Il a confirmé que la seule question énoncée dans l’avis d’appel à trancher en l’espèce est celle de savoir si l’auteur des transferts avait un droit en equity sur l’argent qu’elle a transféré à l’appelant, ce dernier faisant valoir que sa belle-mère avait placé l’argent auprès de sa belle-sœur à l’intention de son épouse et de leur fils lorsque sa belle-mère a vendu sa maison de la 46e Avenue Ouest, à Vancouver.
+[8] Pour cette raison, l’appelant affirme que lorsque l’auteur des transferts lui a envoyé 119 500 $ à l’intention de son épouse et de son fils, elle ne lui a transféré que son titre en common law, qui n’avait aucune valeur, puisque c’était son épouse qui avait la propriété de l’argent en equity.
+[9] L’avocat de l’appelant a reconnu lors du procès que l’appelant ne peut avoir gain de cause à moins de convaincre la Cour qu’il s’agissait d’une fiducie valide en droit. En raison de l’incertitude ou du manque de cohérence relativement à la somme qui aurait été affectée à cette fiducie par la belle‑mère de l’appelant, l’avocat de l’appelant a soutenu qu’il s’agissait d’une fiducie valide d’au moins 100 000 $.
+[10] L’appelant, son épouse, sa belle‑sœur et sa belle‑mère ont témoigné, chacun par l’entremise d’un interprète. Le seul élément de preuve documentaire déposé était une page d’un relevé bancaire de l’appelant, sur laquelle figurait la tranche de 100 000 $ transférée du compte de l’auteur des transferts à la Banque HSBC au compte de l’appelant à la même banque, puis l’achat d’une traite bancaire de 100 000 $ par l’appelant.
+[11] L’intimée n'a contre-interrogé que la belle-mère. Elle n’a présenté aucun élément de preuve.
+[12] Je vais maintenant me pencher sur le témoignage de chacun des témoins au sujet du produit de la vente de la maison de la belle-mère, dans l’ordre où ils ont témoigné. Mme Yu, qui a maintenant 79 ans, a affirmé que, lorsqu’elle a vendu sa maison située sur la 46e Avenue Ouest, qui était la maison familiale, et a déménagé dans une maison un peu plus petite située sur la 60e Avenue Est, il lui est resté environ 200 000 $. Mme Yu a également un compte à la Banque HSBC. Elle a donné cet argent à sa fille aînée, Yan Siang Yu, qui avait un compte à la même succursale. Elle a demandé à sa fille de donner [traduction] « environ 100 000 $ » à sa deuxième fille pour payer les frais médicaux de son petit‑fils.
+[13] Mme Yu a expliqué avoir donné la totalité de la somme de 200 000 $ à sa fille aînée parce que la coutume chinoise veut que l’aîné des enfants soit responsable. Rien n’a été consigné par écrit. Mme Yu a déclaré que la somme de 200 000 $ avait été entièrement consacrée à son petit-fils et au paiement de ses frais médicaux. Elle a également dit ignorer que sa fille aînée avait d’abord donné l’argent à l’appelant pour qu’il l’envoie à la deuxième fille de Mme Yu, soit l'épouse de l’appelant, en Chine.
+[14] L’appelant, M. Yu, a reconnu avoir reçu 100 000 $ de l’auteur des transferts; en outre, il croit avoir reçu un transfert de 2 000 $, se souvient d’avoir reçu un transfert de 7 500 $ et a reconnu avoir reçu un transfert de 10 000 $. Il a affirmé que, chaque fois que sa belle-sœur le pouvait, elle lui donnait de l’argent à envoyer à son épouse. Il a dit qu’il envoyait alors l’argent reçu à son épouse par virement, et que parfois il le combinait à des sommes de provenance autre. Plus précisément, à l’égard du transfert de 100 000 $, il se souvenait clairement d’avoir fait un virement bancaire à son épouse en deux tranches de 50 000 $ chacune, de la Banque royale du Canada à la Banque de Chine.
+[15] L’auteur des transferts, Yan Siang Yu, a dit qu’elle habitait avec sa mère et qu’elle l’aidait à gérer ses finances en suivant les directives que sa mère lui donnait. L’auteur des transferts a dit avoir reçu probablement 285 000 $ de sa mère lorsque cette dernière a vendu la maison familiale et en a acheté une autre. Elle a également expliqué que, selon la tradition chinoise, il est normal pour les parents de demander à l’aîné des enfants de s’occuper des finances.
+[16] Elle a déclaré que sa mère lui avait dit d’utiliser [traduction] « l’argent » pour aider sa sœur à payer les frais médicaux et d’en investir [traduction] « une partie » pour les frais du ménage. Selon moi, cela voulait dire les frais du ménage de sa mère, puisqu’aucune mention n’a été faite quant à une quelconque somme allouée à la troisième fille, la benjamine, et que les problèmes juridiques et financiers de l’auteur des transferts attribuables à l’installation de culture de marijuana avaient commencé l’année précédente, mais ce n’est pas certain.
+[17] L’auteur des transferts a dit que les transferts de 100 000 $ et de 10 000 $ avaient été faits avec l’argent de sa mère et que les 9 500 $ restants provenaient de son argent à elle, et non de celui de sa mère, parce qu’elle aussi voulait aider son neveu malade.
+[18] L'épouse de l’appelant, Yan Hong Yu, a témoigné que la seule somme qu’elle avait reçue de sa famille était le transfert de 100 000 $ envoyé par son mari à la Banque de Chine et que jamais elle n’a reçu d’autre somme de qui que ce soit. Elle se souvient d’avoir reçu cette somme avant son arrivée au Canada en 2011.
+[19] Elle se rappelle également que sa sœur lui avait dit qu’elle lui donnerait 7 500 $, mais qu’elle lui avait demandé de les donner à son mari à la place. Rien n’indique que cet argent a été utilisé pour payer les frais médicaux de son fils.
+[20] Elle a affirmé avoir dépensé les 100 000 $ pour payer les rendez-vous avec les médecins, les séjours à l’hôpital et les frais du ménage.
+[21] L'épouse de l’appelant a déclaré que leur fils n’était pas en très bonne santé à sa naissance en 1998 et qu’il a été hospitalisé pendant près de dix ans pour une maladie rénale. Sa mère a déclaré que son petit-fils était demeuré hospitalisé à sa naissance. L’appelant a dit que son fils souffrait de problèmes rénaux à la naissance et qu’il avait été hospitalisé pendant six ou sept ans à compter de l’âge de quatre ans. Il a fait savoir que son fils s’est pour ainsi dire rétabli lorsqu’il est arrivé au Canada et a commencé sa 8e année. L'épouse de l’appelant a dit que leur fils allait à l’école, qu’il avait presque 18 ans et qu’il faisait l’objet d’un suivi médical régulier.
+[22] Les conditions juridiques préalables pour faire jouer l’article 160 (responsabilité du bénéficiaire) sont énoncées par la Cour d’appel fédérale dans son arrêt R. c. Livingston, 2008 CAF 89, [2008] 3 R.C.F. F‑3, rendu en 2008. Je fais référence en particulier aux paragraphes suivants :
+[17] Étant donné la signification claire des termes du paragraphe 160(1), les critères dont dépend le déclenchement de son application se révèlent évidents :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[18] L’application de ces critères dépend dans une mesure particulièrement importante de l’objet du paragraphe 160(1). Dans l’arrêt Medland c. Canada, 98 DTC 6358 (C.A.F.) (Medland), notre Cour a conclu que l’objet et l’esprit de ce paragraphe « consistent à empêcher un contribuable de transférer ses biens à son conjoint [ou encore à un mineur ou à une personne avec qui il a un lien de dépendance] afin de faire échec aux efforts déployés par le ministre pour percevoir l’argent qui lui est dû ». Voir aussi le paragraphe 10 de Heavyside c. Canada, [1996] A.C.F. no 1608 (C.A.) [QL] (Heavyside). De façon encore plus pertinente pour la présente espèce, la Cour canadienne de l’impôt a posé en principe qu’il serait contraire à l’objet du paragraphe 160(1) que l’auteur d’un transfert permette au bénéficiaire de celui‑ci d’utiliser les sommes transférées pour payer les dettes dudit auteur en favorisant des créanciers déterminés aux dépens de l’ARC; voir le paragraphe 19 de Raphael c. Canada, 2000 DTC 2434.
+[19] Comme il sera expliqué plus loin, étant donné l’objet du paragraphe 160(1), l’intention de l’auteur et du bénéficiaire du transfert de frustrer l’ARC en tant que créancier peut se révéler pertinente pour l’examen du caractère suffisant ou non de la contrepartie. Cependant, je ne voudrais pas que l’on en conclue qu’il doive y avoir intention de frustrer l’ARC pour déclencher l’application du paragraphe 160(1). En effet, ce paragraphe peut s’appliquer au bénéficiaire d’un transfert qui n’a pas l’intention d’aider le débiteur fiscal principal à éviter de payer ses impôts; voir le paragraphe 3 de Wannan c. Canada, 2003 CAF 423.
+[...]
+[22] En outre, il y a transfert de biens pour l’application de l’article 160 même si la propriété bénéficiaire ou effective n’a pas été transférée. Le paragraphe 160(1) s’applique à tout transfert de biens — « au moyen d’une fiducie ou de toute autre façon ». Par conséquent, ce paragraphe définit le transfert à une fiducie comme un transfert de biens. Il est certain que, même si l’auteur du transfert est le bénéficiaire de la fiducie, le titre juridique a été transféré au fiduciaire. Il s’agit donc là d’un transfert de biens pour l’application du paragraphe 160(1), qui, après tout, a entre autres pour objet d’empêcher l’auteur du transfert de cacher ses biens, y compris derrière une fiducie, pour éviter que l’ARC ne les saisisse. Par conséquent, il n’est pas nécessaire d’examiner l’argument de l’intimée selon lequel Mme Davies a conservé le titre de bénéficiaire des sommes déposées.
+[23] En droit, une fiducie valide doit satisfaire à ce qu’on appelle les trois certitudes : la certitude de l’intention de créer une fiducie, la certitude des biens de la fiducie et la certitude des bénéficiaires ou du but de la fiducie. L’appelant fait face à un certain nombre de difficultés compte tenu de la preuve présentée à la Cour.
+1. Des interrogations subsistent au sujet des modalités du transfert en fiducie à Yan Siang Yu effectué par sa mère. Rien n’a été consigné par écrit. Le montant est incertain. Le total était-il de 200 000 $ ou de 285 000 $? Une somme de 100 000 $, ni plus ni moins, était-elle destinée à sa deuxième fille? La mère a dit que c’était [traduction] « une partie » de l’argent. L’auteur des transferts a dit qu’elle avait envoyé 110 000 $ de l’argent de sa mère. Le reste de l’argent était-il pour la belle-mère ou pour Yan Siang Yu? Allait-il être investi pour les frais du ménage de la belle-mère ou ceux de sa fille aînée?
+Aucun état des rajustements ni aucun relevé de compte de la Banque HSBC de la mère ou de la fille aînée n’attestait l’existence de ce transfert. La fille aînée a déclaré avoir reçu la somme pour agir conformément aux directives de sa mère et l’aider à gérer ses finances. Cette déclaration contredit celle de sa mère, qui a dit ignorer que l’argent avait d’abord été transféré à l’appelant pour qu’il le transfère ensuite à son épouse.
+2. Le montant reçu par l'épouse de l’appelant, qui en aurait toujours eu la propriété en equity, demeure peu clair. Celle‑ci était certaine d’avoir reçu seulement 100 000 $. L’appelant affirme qu’il lui a envoyé 100 000 $ ainsi que 19 500 $ supplémentaires, mais que ces transferts étaient peut-être combinés avec d'autres sommes. L’auteur des transferts dit qu’une somme de 9 500 $ provenait de son argent à elle, et non de celui de sa mère. Encore une fois, aucun document bancaire concernant les transferts effectués par l’appelant à son épouse n’a été déposé en preuve.
+3. La façon dont l’auteur des transferts a géré l’argent de sa mère semble incompatible avec l’existence d’une fiducie. L’appelant a témoigné que l’auteur des transferts lui transférait de l’argent quand elle le pouvait, et non quand sa sœur le demandait ou quand celle-ci en avait besoin pour payer les frais médicaux de son fils.
+4. Les témoignages concernant l’utilisation des fonds par l’appelant et son épouse m’amènent à me demander si on m’a tout dit. L’appelant et l’auteur des transferts ont déclaré que l’argent avait servi à payer les frais médicaux et les factures d’hôpital du fils de l’appelant. L'épouse de l’appelant a dit qu’il avait également servi à payer leurs frais du ménage. L’appelant dit que son fils a été hospitalisé pendant six ou sept ans, à compter de l’âge de quatre ans. Son épouse dit que son fils est demeuré hospitalisé pendant dix ans. Sa belle‑mère dit que l’enfant a été hospitalisé dès la naissance. Je suis surpris que des parents soient incapables de se rappeler clairement si leur fils a passé les quatre premières années de sa vie à l’hôpital ou non.
+5. Aucune raison n’a été donnée pour expliquer pourquoi l’argent avait d’abord été transféré à l’appelant pour que ce dernier le transfère ensuite à la Banque de Chine pour son épouse. La belle-mère de l’appelant n’était pas au courant de cette étape intermédiaire.
+6. Aucune raison n’a été donnée pour expliquer pourquoi l’auteur des transferts avait tardé à transférer l’argent de sa mère à l’appelant ni pourquoi elle l’avait transféré par tranches, en dehors du fait qu’elle effectuait les transferts quand elle le pouvait.
+7. L’auteur des transferts aurait difficilement pu jouer plus mal son rôle de fiduciaire. Elle n’était pas certaine de la somme détenue en fiducie. Elle ne savait pas clairement si c’était 100 000 $ ou 110 000 $. Elle ne conservait pas l’argent à part et disponible pour le remettre à la bénéficiaire. Elle n’a pris aucune mesure pour s’assurer qu’il était utilisé aux fins prévues, et il n’est pas sûr que cela ait bel et bien été le cas.
+8. Aucune explication n’a été fournie pour justifier l’absence de documents qui ont dû exister :
+a) des documents portant sur la vente d’une maison et l’achat d’une autre, ce qui permettrait d’établir la somme dont la belle‑mère de l’appelant disposait effectivement en vue d’un transfert;
+b) le relevé bancaire de la Banque HSBC de la belle-mère, ce qui pourrait confirmer la somme qu’elle a transférée à sa fille aînée;
+c) les documents de la Banque HSBC ou d’autres documents bancaires de l’auteur des transferts, ce qui confirmerait la somme reçue de sa mère et indiquerait si l’auteur des transferts a placé en fiducie pour sa sœur les 100 000 $ ou toute autre somme et si elle a utilisé cet argent pour effectuer l'un ou l'autre des quatre transferts;
+d) les documents de la Banque HSBC ou d’autres documents bancaires de l’appelant, ce qui confirmerait que les quatre transferts provenaient de sa belle-sœur et indiquerait les comptes desquels ils provenaient;
+e) les relevés du compte de l’appelant à la Banque royale du Canada, ce qui pourrait confirmer qu’il a effectivement transféré à la Banque de Chine, à l’intention de son épouse, une partie ou la totalité des quatre montants.
+Au lieu de cela, le document de la Banque HSBC déposé en preuve montre que l’appelant a reçu 100 000 $ dans son compte, transférés d’un autre compte de la Banque HSBC, et qu’il a immédiatement utilisé cet argent pour acheter une traite bancaire de 100 000 $.
+Les relevés de compte de la Banque de Chine de son épouse auraient permis de préciser si elle avait reçu 100 000 $ ou 119 500 $, ou une autre somme, et de confirmer qu’elle avait bien reçu de l’argent. Ils auraient également permis de lier les dates des transferts reçus par l’appelant de sa belle-sœur aux dates des transferts de l’appelant à son épouse.
+Au lieu de cela, je n’ai aucun élément de preuve corroborant désintéressé sur ces points alors que l’appelant et son épouse ont fourni des témoignages considérablement différents quant aux sommes transférées à cette dernière.
+Je ne dispose donc que des témoignages de l’appelant, de son épouse, de sa belle-sœur et de sa belle-mère. Aucun d’entre eux n’est une partie désintéressée. Leurs témoignages se contredisent sur des points clés.
+Je ne sais absolument pas pourquoi l’appelant et son avocat ne m’ont fourni aucun de ces documents. Il était clair qu’un certain nombre de pages comportant certains de ces documents se trouvaient dans la salle d’audience et étaient à la disposition de l’appelant et de son avocat.
+[24] Dans les circonstances, il m’est tout simplement impossible de conclure, selon la prépondérance des probabilités, que la belle-mère de l’appelant a déposé 100 000 $ ou 119 500 $ ou quelque autre somme dans une fiducie pour sa deuxième fille. Les témoignages ne sont tout simplement pas suffisamment crédibles et cohérents pour me permettre de conclure que c’est ce qui est probablement arrivé, et les témoignages que j’ai entendus ne sont corroborés par pratiquement aucune preuve écrite.
+[25] J’ajoute, en réponse aux observations de l’avocat, que même si je concluais que 100 000 $ ont été envoyés à l'épouse de l’appelant pour payer les frais médicaux du fils, cela ne prouve pas, selon la prépondérance des probabilités, que cet argent provenait d’une fiducie, et que le titre en common law sur la somme transférée n’avait par conséquent aucune valeur. Il pourrait aussi bien s’agir d’un choix familial quant à la manière de dépenser l’argent disponible.
+[26] J’ajoute également, étant donné les incohérences au sujet des chiffres, que la thèse de l’avocat de l’appelant selon laquelle je pouvais conclure à l’existence d’une fiducie valide d’au moins 100 000 $ semble aller très fortement à l’encontre d’une des exigences pour qu’il y ait fiducie, soit la certitude quant au montant de la fiducie.
+[27] Puisque l’appelant ne conteste pas qu’il a reçu les quatre transferts bancaires totalisant 119 500 $, que l’auteur des transferts était sa belle-sœur et qu’elle avait une dette fiscale supérieure à 119 500 $, je dois rejeter son appel.
+[28] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2016.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2016 CCI 276
+No DU DOSSIER DE LA COUR :
+2014-3960(IT)G
+INTITULÉ :
+JUN LI YU c. LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Le 31 octobre et les 1er et 3 novembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 21 novembre 2016
+COMPARUTIONS :
+[BLANC / EN BLANC]
+Avocat de l’appelant :
+Me J. Herbert Rosner
+Avocate de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+[BLANK / EN BLANC]
+Pour l’appelant :
+Me J. Herbert Rosner
+Cabinet :
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

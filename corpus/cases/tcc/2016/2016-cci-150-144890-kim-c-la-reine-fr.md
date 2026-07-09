@@ -1,0 +1,327 @@
+---
+title: "Kim c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144890/index.do"
+last_modified: "2016-06-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 150"
+citation2: ""
+neutral_citation: "2016 CCI 150"
+decision_date: "2016-06-10"
+language: "fr"
+item_id: "144890"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3002
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:59:26.334000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "45868e3f2a38c73dd9bf51f38c129a1ef8619cc99aab40b544464625a27bf3a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kim c. La Reine
+
+- Citation: 2016 CCI 150
+- Decision date: 2016-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3002, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kim c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-10
+Référence neutre
+2016 CCI 150
+Numéro de dossier
+2015-4379(IT)I, 2015-4381(IT)I
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-4379(IT)I
+ENTRE :
+OK CHA KIM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu sur preuve commune avec l’appel de
+Young-Soo Kim (2015-4381(IT)I),
+le 31 mai 2016 à Toronto (Ontario)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Représentant de l’appelante :
+Young-Soo Kim
+Avocat de l’intimée :
+Me Amit Ummat
+JUGEMENT
+L’appel des nouvelles cotisations en vertu de la Loi de l’impôt sur le revenu est accueilli et l’affaire est renvoyée au ministre aux fins de réexamen et d’établissement de nouvelles cotisations pour le motif que l’appelante avait tiré un revenu d’entreprise net supplémentaire de 14 045 $ et de 6 727 $ pour les années d’imposition 2010 et 2011, respectivement. Les pénalités pour faute lourde devront être calculées en conséquence.
+Signé à Ottawa, Canada, ce 10e jour de juin 2016.
+« Guy Smith »
+Le juge Smith
+Dossier : 2015-4381(IT)I
+ENTRE :
+YOUNG-SOO KIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française]
+Appel entendu sur preuve commune avec l’appel de
+Ok Cha Kim (2015-4379(IT)I),
+le 31 mai 2016 à Toronto (Ontario)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Amit Ummat
+JUGEMENT
+L’appel des nouvelles cotisations en vertu de la Loi de l’impôt sur le revenu est accueilli et l’affaire est renvoyée au ministre aux fins de réexamen et d’établissement de nouvelles cotisations pour le motif que l’appelante avait tiré un revenu d’entreprise net supplémentaire de 14 045 $ et de 6 727 $ pour les années d’imposition 2010 et 2011, respectivement. Les pénalités pour faute lourde devront être calculées en conséquence.
+Signé à Ottawa, Canada, ce 10e jour de juin 2016.
+« Guy Smith »
+Le juge Smith
+Référence : 2016 CCI 150
+Date : 20160610
+Dossier : 2015-4379(IT)I
+ENTRE :
+OK CHA KIM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+ET
+Dossier : 2015-4381(IT)I
+ENTRE :
+YOUNG-SOO KIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Introduction [1] Young-Soo Kim et Ok Cha Kim (les « appelants ») interjettent appel des avis de nouvelles cotisations concernant les années d’imposition 2010 et 2011. Cette affaire a été entendue sur preuve commune le 31 mai 2016 sous le régime de la procédure informelle.
+[2] La première question en litige est de déterminer si le ministre du Revenu national (le « ministre ») a correctement établi les nouvelles cotisations des appelants sur la base d’un revenu d’entreprise net supplémentaire de 30 342 $ et de 25 584 $ pour les années d’imposition 2010 et 2011, respectivement. La deuxième question en litige est de savoir si le ministre était en droit d’imposer les pénalités pour faute lourde prévues au paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.), telle que modifiée (la « Loi »).
+[3] Pour les motifs exposés ci-dessous, les appels sont accueillis et les nouvelles cotisations sont renvoyées au ministre aux fins de réexamen et d’établissement de nouvelles cotisations au motif que chacun des appelants avait tiré un revenu d’entreprise net supplémentaire de 14 045 $ et de 6 727 $ pour les années d’imposition 2010 et 2011, respectivement; les pénalités pour faute lourde devront être calculées en conséquence.
+II. Contexte [4] Les appelants sont conjoints. Seul Young-Soo Kim (« M. Kim ») a témoigné à l’audience. Pendant toute la période pertinente, ils étaient partenaires à parts égales dans une entreprise de blanchisserie et de nettoyage à sec (« l’entreprise ») située à Mississauga, en Ontario.
+[5] Les appelants ont produit leurs déclarations de revenus personnels dans lesquelles ils déclarent des revenus provenant de diverses sources de même que leur part dans le revenu d’entreprise net calculé comme suit :
+2010
+2011
+Ventes brutes
+55 701 $
+49 327 $
+Dépenses
+45 830 $
+45 961 $
+Revenu d’entreprise net
+9 871 $
+3 366 $
+[6] M. Kim a déclaré un revenu total, toutes sources confondues, de 11 659 $ et de 27 123 $ pour les années d’imposition 2010 et 2011, respectivement, et Ok Cha Kim a déclaré un revenu total de 11 844 $ et de 11 695 $ pour les années d’imposition 2010 et 2011, respectivement. Ce revenu comprenait leur part respective dans le revenu d’entreprise net indiqué précédemment, et représentait un revenu combiné total de 23 503 $ et de 38 818 $ pour les années d’imposition 2010 et 2011, respectivement.
+[7] Aux fins de l’établissement de la nouvelle cotisation, le ministre a présumé que le revenu des appelants pour les années en cause n’était pas proportionnel à leur style de vie personnel.
+[8] Au cours de l’étape de vérification, le ministre a demandé aux appelants de lui fournir un budget de leurs dépenses personnelles annuelles et, en se fondant sur cette information (et sur les données statistiques de Statistique Canada, comme il est expliqué ci-dessous), le ministre a préparé le Sommaire des dépenses personnelles (« SDP ») qui suit pour les années d’imposition visées (annexe 4 de la réponse) :
+Sommaire des dépenses personnelles
+31 déc. 2010
+31 déc. 2011
+Nourriture
+8 689
+8 942
+Logement
+11 291
+11 918
+Dépenses courantes
+3 172
+3 195
+Vêtements
+2 804
+2 886
+Transport
+4 417
+4 417
+Soins de santé
+4 106
+3 909
+Soins personnels
+120
+120
+Tabac et boissons alcoolisées
+-
+923
+Sécurité
+3 692
+13 540
+Dons et contributions
+2 275
+4 295
+Dépenses diverses
+1 540
+1 540
+42 106
+55 685
+[9] Aux fins de la nouvelle cotisation, le ministre a présumé que ce sommaire traduisait fidèlement les dépenses personnelles annuelles des appelants. Considérant que le revenu total déclaré par les appelants était insuffisant pour couvrir ces dépenses, le ministre a mené une vérification de la valeur nette et des dossiers bancaires, à la suite de laquelle il a été conclu que la valeur nette des appelants avait augmenté de 11 177 $ en 2010 et de 4 804 $ en 2011.
+[10] En se fondant sur le calcul de la valeur nette et en prenant en compte les dépenses personnelles présumées ainsi que le revenu total déclaré, tel qu’il est indiqué précédemment, le ministre a conclu que les appelants avaient omis de déclarer des revenus d’entreprise supplémentaires, qui se calculent comme suit :
+Description :
+2010
+2011
+Actifs
+424 653 $
+422 588 $
+Moins : Passif
+259 377
+252 508
+Valeur nette
+165 276
+170 080
+Moins : Valeur nette de l’année précédente
+154 100
+165 276
+Augmentation de la valeur nette
+11 176
+4 804
+Plus : Dépenses personnelles
+42 106
+55 685
+Plus : Autres dépenses
+563
+3 914
+Moins : Revenu total déclaré
+23 503
+38 818
+Revenu total non déclaré
+30 342 $
+25 585 $
+[11] La nouvelle cotisation se basait également sur le fait que M. Kim avait admis être le propriétaire inscrit d’une copropriété située à Mississauga, en Ontario, et qu’il avait reçu, sans le déclarer, un loyer de 1 075 $ par mois de juillet à décembre 2011. Selon le ministre, ce montant a été intégré dans le calcul de la valeur nette indiqué précédemment.
+[12] En dernier lieu, le ministre a présumé que les appelants n’avaient pas reçu de dons, d’héritages ou de gains à la loterie durant les années en cause.
+III. Position des parties A. Position des appelants [13] Comme il a été mentionné précédemment, M. Kim a témoigné à l’audience, alors que ce ne fût pas le cas pour sa conjointe.
+[14] Il a soutenu que le SDP était nettement exagéré, et il était vexé par le fait qu’il incluait des montants ne figurant pas dans le sommaire qu’il avait lui-même préparé et soumis au ministre. Il a produit des copies d’une télécopie transmise au ministre le 25 janvier 2016 et retransmise le 17 février 2016 (à laquelle il prétend n’avoir reçu aucune réponse), demandant qu’une explication détaillée lui soit fournie quant aux raisons pour lesquelles les montants figurant au SDP du ministre divergeaient de ceux qu’il avait fournis. Ce document était accompagné en pièce jointe d’un sommaire écrit à la main de ses dépenses personnelles totalisant 28 378 $ pour 2010 et 28 141 $ pour 2011.
+[15] M. Kim s’est opposé à l’inclusion par le ministre d’un montant pour la « nourriture », alors qu’il avait lui-même indiqué un montant nul à ce chapitre. Il a soutenu que des erreurs s’y étaient glissées puisque sous la rubrique du tabac et des boissons alcoolisées, un montant nul était indiqué pour une année alors que l’année suivante, un montant de 943 $ était inscrit. Un montant annuel avait également été inclus dans la catégorie des vêtements alors qu’il n’en avait indiqué aucun. Il estimait que les autres ajustements étaient injustifiés, sans toutefois produire de relevés, de reçus ou d’autres preuves documentaires devant la Cour.
+[16] M. Kim a admis qu’en raison d’une erreur qu’il avait commise dans son sommaire initial pour 2010, le montant sous la catégorie « Sécurité » devrait être réduit à 1 440 $ (et le ministre a admis qu’une erreur correspondante avait été commise pour l’année civile 2011, erreur exigeant un ajustement à la baisse similaire).
+[17] M. Kim a contesté le sommaire de l’analyse de la valeur nette et des dossiers bancaires. Il a également remis en question la capacité du ministre d’extrapoler à partir de ces chiffres et de conclure qu’il aurait déclaré un revenu d’entreprise inférieur à son revenu d’entreprise réel. Il a expliqué que tous les déficits dans le flux de trésorerie de sa famille au cours des années en cause avaient été absorbés par leur marge de crédit personnelle, laquelle avait augmenté de 35 249 $ en 2010 (ce montant a été reflété dans les présomptions du ministre). Selon M. Kim, ces fonds ont été utilisés pour couvrir ses dépenses personnelles.
+[18] M. Kim a reconnu ne pas avoir déclaré les paiements de loyer totalisant 6 450 $ pour l’année civile 2011 pour la location de sa copropriété, sans toutefois donner d’explication à cet effet. Il n’a pas produit de convention de bail, de registre de location ou toute autre forme de document à cet égard.
+[19] Il a indiqué avoir acheté la copropriété en 1987, et que sa belle-mère l’avait occupé. Il a mentionné que celle-ci était décédée depuis, sans toutefois se souvenir de l’année de son décès. Lorsqu’on lui a demandé s’il avait reçu des dons, un héritage ou des gains à la loterie au cours des années en cause, il s’est souvenu avoir reçu environ 10 000 $ de la succession de sa belle-mère, sans être en mesure de donner de détails, concluant, après réflexion, que ce don précédait les années d’imposition visées.
+[20] En dernier lieu, dans ses derniers commentaires, M. Kim a insisté sur le fait qu’il n’y avait aucun élément de preuve indiquant qu’il aurait déclaré un revenu d’entreprise net inférieur au revenu réel pour les années en cause ou qu’il n’aurait pas déclaré l’argent généré par son entreprise.
+B. Position de l’intimée [21] Josephine Datu a témoigné pour le compte du ministre. Bachelière en administration des affaires, elle a travaillé à Agriculture Canada avant de se joindre à l’Agence du revenu du Canada (« ARC ») il y a quinze ans. Elle a informé la Cour qu’elle avait réalisé la vérification de l’ARC portant sur les appelants.
+[22] Elle a expliqué que la vérification avait été entreprise à la suite d’une enquête sur la TPS. Elle a communiqué avec M. Kim, et l’a rencontré pour discuter de ses activités commerciales. Elle a noté que les livres et registres de l’entreprise étaient insuffisants et peu fiables. Elle a également indiqué qu’il y avait des divergences entre les soldes de caisse déclarés et les dépôts bancaires. Lorsqu’elle a questionné M. Kim, il a répondu qu’il avait utilisé une partie de l’argent généré par l’entreprise pour payer des dépenses. Elle a ainsi conclu que l’argent généré par l’entreprise n’était pas entièrement déclaré.
+[23] Madame Datu a indiqué avoir fourni aux appelants une fiche vierge de calcul des dépenses personnelles, fiche qu’ils ont remplie. La première estimation soumise au cours de l’étape de vérification indiquait des dépenses familiales et personnelles de 9 352 $ pour 2010 et de 8 329 $ pour 2011. Considérant que les montants étaient très bas et que la fiche était incomplète, elle a alors utilisé les données statistiques de Statistique Canada (pour une famille de trois, leur fils vivant également avec eux). À titre d’exemple, elle a inscrit un montant de 8 688 $ pour l’année civile dans la catégorie « Nourriture » puisque les appelants n’y avaient inscrit aucun montant, en prenant soin d’indiquer que ce montant était très conservateur pour une famille de trois. Dans la catégorie des restaurants, les appelants ont inscrit un montant de 300 $ ou aucun montant; elle a toutefois utilisé un montant de 2 200 $ par année en se basant sur les données de Statistique Canada. Elle a fait de même pour les autres catégories, notamment pour la catégorie des vêtements (pour M. Kim, son épouse et leur fils) puisqu’aucun montant n’avait été inscrit à ce titre pour les deux années en question. Les autres montants, notamment les dons de bienfaisance, ont été tirés de la déclaration de revenus personnelle des appelants.
+[24] Madame Datu a admis qu’une erreur s’était glissée en ce qui a trait à la catégorie « Sécurité », comme l’a précisé M. Kim, et a convenu qu’un ajustement devait être apporté. Elle a toutefois indiqué que cette erreur était survenue en raison des chiffres fournis par M. Kim dans son sommaire initial.
+[25] Madame Datu a expliqué à la Cour qu’elle avait entrepris une analyse de la valeur nette et des dossiers bancaires sur la base de son observation selon laquelle les rentrées de fonds de l’entreprise n’avaient pas été entièrement consignées. Elle a reconnu que la marge de crédit de l’appelant avait augmenté d’environ 35 249 $ en 2010. Elle a toutefois expliqué qu’en raison du manque de documents expliquant l’utilisation réelle de ces fonds, elle ne pouvait conclure que la marge avait été utilisée pour payer des dépenses personnelles; cette marge aurait pu être utilisée pour améliorer les autres propriétés de l’appelant, parmi lesquelles se trouvaient la copropriété ainsi qu’un chalet. Aucune pièce justificative, y compris des relevés mensuels, n’a été fournie par les appelants, et ce, malgré les demandes répétées à cet égard. Au final, elle a conclu que l’augmentation de la valeur nette des appelants était attribuable soit à de l’argent non déclaré de la blanchisserie, soit au loyer non déclaré de la copropriété.
+[26] Dans ses observations finales, le ministre a soutenu que les appelants n’avaient pas réussi à se décharger du fardeau de démontrer à la Cour que les nouvelles cotisations visant les années en cause étaient incorrectes, même après avoir pris en compte les erreurs susmentionnées. Le ministre a fait valoir que, compte tenu des indications montrant que l’argent n’était pas entièrement déclaré et de la propre admission des appelants selon laquelle ils n’avaient pas déclaré le revenu de location, le ministre était en droit de procéder à l’établissement d’une cotisation arbitraire.
+[27] Le ministre a soutenu que la question qui se posait était, en fin de compte, une question de crédibilité et, en étant confronté à une admission selon laquelle le revenu de location n’avait pas été déclaré et à un manque généralisé de documentation, la version des faits des appelants n’était pas crédible.
+[28] En dernier lieu, le ministre a fait valoir qu’en ne déclarant pas le revenu d’entreprise supplémentaire (lequel comprend le revenu de location non déclaré), les appelants avaient délibérément participé ou consenti à faire de fausses déclarations ou des omissions dans leurs déclarations de revenus pour les années visées, et qu’il s’agissait là d’un cas approprié pour l’application de pénalités pour faute lourde en vertu du paragraphe 163(2) de la Loi.
+IV. La loi et l’analyse A. Cotisation arbitraire [29] Dans la décision Hsu c. Canada, 2001 CAF 240, la Cour d’appel fédérale a indiqué que le ministre peut établir une cotisation arbitraire selon la méthode qu’il estime appropriée dans les circonstances. Comme le précise la Cour :
+22 Le paragraphe 152(7) de la Loi permet au ministre d’établir des cotisations « arbitraires » en employant toute méthode appropriée eu égard aux circonstances. Cette disposition se lit comme suit :
+152(7) Cotisation indépen- dante de la déclaration ou des renseignements fournis. Le ministre n’est pas lié par les déclarations ou renseigne- ments fournis par un contribuable ou de sa part et, lors de l’établissement d’une cotisation, il peut, indépendam- ment de la déclaration ou des renseignements ainsi fournis ou de l’absence de déclaration, fixer l’impôt à payer en vertu de la présente partie.
+152(7) Assessment not dependent on return or information. The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+Le paragraphe 152(8) énonce une présomption de bien-fondé de ces cotisations et impose initialement au contribuable la charge de réfuter les faits présumés par le ministre (Dezura v. M.N.R. (1947), 3 D.T.C. 1101, à la page 1102 (C. de l’É.)) Même si pareille cotisation est « arbitraire », le ministre est tenu de divulguer le fondement précis sur lequel cette cotisation repose (Johnston v. M.N.R. (1948), 3 D.T.C. 1182, à la page 1183 (C.S.C.). Autrement, le contribuable ne serait pas en mesure de s’acquitter de l’obligation initiale qui lui incombe de démolir les « présomptions exactes qu’a utilisées le ministre, mais rien de plus » (Hickman Motors Ltd. c. La Reine (1997), 97 D.T.C. 5363, à la page 5376 (C.S.C.)).
+23 Le paragraphe 152(7) de la Loi n’établit pas une méthode précise de détermination de l’impôt payable par le contribuable. Dans la plupart des cas, le ministre suit la « méthode de la valeur nette ». Le Manuel des opérations de l’impôt préparé par Revenu Canada décrit comme suit la méthode de la valeur nette :
+Le recours à la méthode de la valeur nette pour calculer le revenu repose sur la prémisse selon laquelle le revenu d’un client pour une période est égal à l’augmentation de la valeur nette du client (position financière) entre le début et la fin de cette période. La valeur nette d’un client est l’excédent de son actif total (d’entreprise et personnel) sur son passif total (d’entreprise et personnel) à une date donnée.
+24 Bref, le montant par lequel la valeur nette du contribuable augmente au cours d’une période particulière est imputé au contribuable à titre de revenu.
+[30] Il est reconnu que l’évaluation de la valeur nette est, par nature, arbitraire, mais qu’elle reflète le fait que le régime canadien de l’impôt sur le revenu se fonde sur l’évaluation et la déclaration par le contribuable. Tel qu’il est indiqué plus en détail dans la décision Hsu c. Canada, précitée :
+30 Par sa nature, une évaluation de la valeur nette est une estimation arbitraire et imprécise du revenu du contribuable. Toute iniquité perçue se rapportant à ce genre d’évaluation est réglée en reconnaissant que le contribuable est celui qui est le mieux placé pour connaître son revenu imposable. Lorsque le fondement factuel de l’estimation du ministre est inexact, il devrait être simple pour le contribuable de corriger à la satisfaction de la Cour l’erreur que le ministre a commise.
+[Non souligné dans l’original.]
+[31] Un contribuable ne peut simplement prétendre que les présomptions du ministre sont erronées, il doit le démontrer en produisant des pièces justificatives. En l’absence de tels documents, l’unique question devant la Cour est de déterminer si la cotisation du ministre était « raisonnable et logique eu égard aux circonstances... » : voir Hsu c. Canada, précité, au paragraphe 33. Je tiens à souligner que ce principe cadre avec la notion énoncée au paragraphe 152(8), lequel prévoit la présomption de validité des nouvelles cotisations :
+152(8) Présomption de validité de la cotisation — Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d’une opposition ou d’un appel fait en vertu de la présente partie et sous réserve d’une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s’y rattachant en vertu de la présente loi.
+[32] Lorsque le ministre divulgue le fondement précis sur lequel cette cotisation s’appuie, il incombe au contribuable de fournir une autre méthode fiable de calcul qui est à la fois crédible et étayée par des éléments de preuve. En l’espèce, le ministre a clairement divulgué la méthodologie utilisée pour conclure que les appelants avaient un revenu d’entreprise supplémentaire non déclaré pour les années d’imposition en cause.
+[33] Les appelants ont avancé l’argument selon lequel leurs dépenses personnelles avaient été réglées au moyen d’une marge de crédit, et qu’il ressortait des présomptions du ministre que la marge de crédit avait bel et bien augmenté considérablement en 2010. L’argument des appelants paraît, du moins au premier abord, avoir un certain mérite lorsque l’on considère que le revenu personnel combiné déclaré pour les années visées, avec le revenu de location non déclaré et l’augmentation de la marge de crédit, se chiffre à environ 101 396 $, montant calculé comme suit :
+2010
+2011
+Total
+Revenu déclaré aux fins de l’impôt
+Young-Soo Kim
+11 659 $
+27 123 $
+38 782 $
+Revenu déclaré aux fins de l’impôt
+Ok Cha Kim
+11 844 $
+11 695 $
+23 539 $
+Revenu de location non déclaré
+0 $
+6 450 $
+6 450 $
+Augmentation de la marge de crédit
+35 249 $
+(2 624)$
+32 625 $
+Total
+58 752 $
+42 644 $
+101 396 $
+[34] Selon cette analyse, il y aurait un flux de trésorerie largement suffisant au sein de la famille pour couvrir les dépenses telles qu’elles ont été compilées dans le SDP du ministre. Toutefois, les appelants demandent à la Cour de croire leur version des faits sans fournir de documentation justificative. Même si la Cour tient compte de l’argument des appelants quant à l’utilisation d’une marge de crédit et qu’elle le juge plausible, en l’absence de documents à l’appui, la question est de savoir si celui-ci est crédible, en prenant tous ces éléments en compte.
+[35] Je suis d’avis que le témoignage de M. Kim mêlait fanfaronnade et audace. Il n’était tout simplement pas crédible. Plutôt que d’aider la Cour à réaliser un examen attentif des livres et registres ou des relevés bancaires, il a choisi l’offensive, en contestant chacun des chiffres du SDP du ministre. Cela était d’autant plus surprenant que son estimation initiale de ses dépenses personnelles était passée de 9 352 $ à 28 378 $ pour 2010 et de 8 329 $ à 28 141 $ pour 2011. Autrement dit, son estimation initiale avait pratiquement triplé, en n’ayant toujours pas inclus de montant pour la « nourriture », malgré le fait (ce que je tiens pour fait notoire) que ce poste représente l’une des plus importantes dépenses dans le budget d’une famille moyenne. Même si je comprends que M. Kim n’avait peut-être pas le plein contrôle du budget familial, il avait l’obligation de se renseigner davantage et sa conjointe, qui a choisi de ne pas témoigner, avait l’obligation de participer à la préparation du SDP. Je suis porté à croire qu’elle n’a pas été impliquée, mais cela n’aide pas M. Kim quant à la question de la crédibilité.
+[36] Qui plus est, après avoir avoué au vérificateur de l’ARC qu’il avait utilisé de l’argent de l’entreprise pour payer des dépenses, il a ensuite nié que de l’argent n’avait pas été déclaré et, se livrant à une autre bravade, il a invité le gouvernement du Canada à faire l’achat de son entreprise. Il n’a pas produit de comptes des ventes, de reçus de dépôts bancaires ou toute autre forme de livres et registres, de sorte que la Cour se voit contrainte de conclure qu’aucun de ces documents n’existait. Il n’y a pas eu la moindre preuve documentaire devant la Cour.
+[37] Quant à la question du revenu de location, son témoignage était, au mieux, évasif. Il a admis qu’un revenu de location de 1 075 $ par mois n’avait pas été déclaré de juillet à décembre 2011, sans toutefois fournir d’explications quant aux six mois précédents, période qui demeure, de toute évidence, inexpliquée. Il n’a fourni que peu d’information, voire aucune, quant à l’historique de location de la propriété depuis la date d’acquisition en 1987, soutenant uniquement qu’elle avait été occupée par sa belle-mère. Il n’a donné aucun détail relativement à la durée de son occupation ou quant à savoir si elle lui versait un loyer, même si ses propos donnaient à entendre qu’elle ne lui en avait payé aucun. Il ne se souvenait plus de la date de son décès. Même si cela n’est pas pertinent aux fins du présent litige, M. Kim affichait une attitude prudente et faisait preuve d’une extrême discrétion quant au statut de la propriété après les années d’imposition visées. Cela n’a pas aidé à rehausser sa crédibilité.
+[38] Comme il est indiqué ci-dessus, l’argument selon lequel la marge de crédit avait été utilisée pour payer des dépenses personnelles durant les années visées est plausible et paraît avoir un certain mérite. Devant une cotisation arbitraire du ministre, il s’agit là de la tentative des appelants de fournir une solution de rechange ou une méthode modifiée pour expliquer le revenu non déclaré pour les années d’imposition en question. Cela dit, cet argument n’a été avancé que lorsque M. Kim a réalisé ou était prêt à admettre que ses dépenses personnelles étaient beaucoup plus élevées que celles prévues initialement au cours de l’étape de vérification. La Cour ne peut conclure s’il s’agit d’une représentation exacte des faits puisque M. Kim a choisi de ne pas fournir d’éléments de preuve. S’il avait été plus franc et s’il avait fourni des détails et des documents, la Cour aurait pu en venir à une autre conclusion.
+[39] Il incombe aux appelants de réfuter et de démolir les présomptions sur lesquelles la nouvelle cotisation se fonde : Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336. Je suis d’avis qu’ils n’ont pas réussi à le faire.
+[40] Avant de conclure sur ce point, je souligne que la preuve du ministre réside dans l’impossibilité d’effectuer un rapprochement entre les soldes de caisse et les dépôts bancaires pour l’entreprise et que les livres et registres tenus par les appelants étaient à la fois insuffisants et peu fiables. Les appelants ont l’obligation légale de tenir des livres et registres adéquats de la manière prévue au paragraphe 230(1) de la Loi :
+230(1) Livres de comptes et registres — Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[41] L’absence de tels registres constitue un autre facteur qui amène la Cour à conclure que la version des faits présentée par les appelants n’est tout simplement pas crédible.
+[42] En conséquence, la Cour en vient à la conclusion que le ministre a dûment établi la nouvelle cotisation des appelants pour le revenu d’entreprise supplémentaire non déclaré pour les années d’imposition visées. En tenant compte des ajustements susmentionnés au SDP (notamment dans la catégorie « Sécurité »), je conclus que les appelants ont perçu un revenu d’entreprise net supplémentaire non déclaré d’un total de 28 090 $ et de 13 454 $ pour les années d’imposition 2010 et 2011, respectivement, et, en conséquence, qu’ils ont perçu chacun un revenu supplémentaire non déclaré de 14 045 $ et de 6 727 $ pour les années d’imposition 2010 et 2011, respectivement.
+B. Pénalités pour faute lourde [43] Après être parvenu à la conclusion susmentionnée, j’aborde maintenant la question de savoir si le ministre était en droit d’imposer des pénalités pour faute lourde conformément au paragraphe 163(2) de la Loi. Cette disposition se lit comme suit :
+163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […].
+[44] En vertu du paragraphe 163(3), « le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité ». Le ministre doit prouver 1) que les appelants ont fait un faux énoncé ou une omission dans leurs déclarations de revenus et 2) que cet énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[45] Le jugement de principe sur la définition de faute lourde est la décision Venne c. La Reine, 84 DTC 6247 (CF 1re inst.), dans laquelle le juge Strayer déclare ce qui suit à la page 6256 :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[46] Comme il est indiqué précédemment, l’absence de livres et registres adéquats et la preuve selon laquelle les rentrées de fonds n’étaient pas déclarées entièrement amènent la Cour à conclure que les appelants n’avaient pas la véritable intention de déclarer le revenu réel qu’ils tiraient de leur entreprise; il ne s’agissait pas seulement d’une omission. En outre, il n’est pas contesté que M. Kim a fait défaut de déclarer un revenu de location en 2011. J’estime que la conduite des appelants implique une « une négligence plus grave qu’un simple défaut de prudence raisonnable » et qu’elle présente un « degré important de négligence qui correspond à une action délibérée » ou une « une indifférence au respect de la loi » : voir Venne, précité.
+[47] Bien que les appelants n’aient pas admis le revenu d’entreprise net supplémentaire non déclaré évalué par le ministre, j’en suis déjà venu à la conclusion qu’ils ne sont pas parvenus à démolir les présomptions sur lesquelles le ministre s’est basé pour déterminer le revenu non déclaré, et qu’ils n’ont pas fourni de solution de rechange ou de méthode modifiée crédible permettant de déterminer leur revenu d’entreprise ni présenté d’éléments de preuve acceptables au soutien de leurs prétentions. De surcroît, je note que le revenu d’entreprise supplémentaire non déclaré pour l’année d’imposition 2010 représente 50 % des ventes brutes déclarées (28 090 $/55 701 $), et que le montant pour 2011 représente 27 % des ventes brutes déclarées (13 454 $/49 327 $). Ces montants ne sont pas importants, mais la différence est considérable.
+[48] J’estime que le ministre s’est acquitté de son fardeau relativement à l’imposition de pénalités pour faute lourde, et je conclus sans peine que les appelants ont délibérément ou dans des circonstances équivalant à une faute lourde, fait de faux énoncés ou des omissions dans leurs déclarations, ou y ont participé, y ont consenti ou y ont acquiescé, eu égard à leurs déclarations de revenus respectives au sens du paragraphe 163(2) de la Loi.
+V. Conclusion [49] Pour l’ensemble des motifs qui précèdent, je renverrais la nouvelle cotisation au ministre aux fins de réexamen et d’établissement d’une nouvelle cotisation sur la base des éléments figurant au paragraphe 42 ci-dessus.
+[50] Le ministre est en droit de réclamer les pénalités pour faute lourde calculées en conséquence.
+Signé à Ottawa, Canada, ce 10e jour de juin 2016.
+« Guy Smith »
+Le juge Smith
+RÉFÉRENCE :
+2016 CCI 150
+NOS DES DOSSIERS DE LA COUR :
+2015-4379(IT)I, 2015-4381(IT)I
+INTITULÉ :
+OK CHA KIM c. SA MAJESTÉ LA REINE
+YOUNG-SOO KIM c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 31 mai 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 10 juin 2016
+COMPARUTIONS :
+Représentant de l’appelante
+Ok Cha Kim :
+Young-Soo Kim
+Pour l’appelant
+Young-Soo Kim :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

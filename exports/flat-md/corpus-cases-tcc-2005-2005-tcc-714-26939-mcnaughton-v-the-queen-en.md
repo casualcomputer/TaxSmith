@@ -1,0 +1,159 @@
+---
+title: "McNaughton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26939/index.do"
+last_modified: "2005-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 714"
+citation2: ""
+neutral_citation: "2005 TCC 714"
+decision_date: "2005-11-07"
+language: "en"
+item_id: "26939"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 650
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:08:34.571000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca9d8f381d578d5c6a48ab89cc31552b00d8373422657022f4f68e806614f951"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McNaughton v. The Queen
+
+- Citation: 2005 TCC 714
+- Decision date: 2005-11-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 650, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McNaughton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-07
+Neutral citation
+2005 TCC 714
+File numbers
+2005-1808(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1808(IT)I
+BETWEEN:
+MICHELLE LEANNE McNAUGHTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2005 at Calgary, Alberta.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant herself
+Counsel for the Respondent: Mark Heseltine
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the disability tax credit for the 2003 taxation year.
+The appeal from the assessment made under the Act for the 2004 taxation year is quashed on the basis that no Notice of Objection was filed as required under section 169 of the Act.
+The appellant is entitled to her costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 7th day of November 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC714
+Date: 20051107
+Docket: 2005-1808(IT)I
+BETWEEN:
+MICHELLE LEANNE McNAUGHTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from reassessments for the appellant's 2003 and 2004 taxation years.
+[2] The assessment for 2004 is not properly before the Court because the appellant did not file a Notice of Objection. Counsel for the respondent informed the Court that the appellant is still within time to file an application for an extension of time to do so and I advised Ms. McNaughton that although I had to quash her appeal for 2004 she should move quickly to obtain an extension of time. It is particularly critical that she do so because I intend to allow her appeal for 2003.
+[3] The issue is whether she is entitled to a disability tax credit under sections 118.3 and 118.4 of the Income Tax Act in respect of her son Jordan who suffers from attention deficit hyperactivity disorder.
+[4] The assumptions on which the assessment was based are set out in paragraph 11 of the Reply to the Notice of Appeal
+11. In so confirming the assessment of tax for the 2003 taxation year, the Minister made the following assumptions of fact:
+(a) Jordan was born on December 9, 1992;
+(b) Jordanhas a learning disability and mild ADHD;
+(c) Jordanis prescribed medication to lessen the effects of his impairment;
+(d) Jordanis able to perform the daily living skills of a child his age with minor or no supervision;
+(e) Jordanis able to make age-appropriate decisions and judgments in day to day situations;
+(f) Jordanis able to understand instructions;
+(g) Jordanis able to understand the concepts of time and danger;
+(h) Jordandoes not have a severe and prolonged mental or physical impairment; and
+(i) the effects of Jordan's impairment are not such that his ability to perform a basic activity of daily living is markedly restricted.
+[5] At trial counsel for the respondent amended paragraph 1(a) of the Reply to delete the word "mild" as a qualification of "attention deficit hyperactivity disorder" and to delete from paragraph 11(d) of the assumptions the words "or no" between "minor" and "supervision".
+[6] The physician's certificate (Dr. Culman) in answer to the following question:
+Can your patient perceive, think, and remember?
+Answer no only if, all or almost all the time, even with therapy, medication, or a device, your patient cannot perceive, think, and remember. For example, answer no if he or she cannot manage or initiate personal care without constant supervision ........................................................................................................ yes □ no□
+[7] This should have been enough to entitle the appellant to the tax credit. However, the Canada Revenue Agency sent a follow-up questionnaire to Dr. Culman and she modified it somewhat. As Ms. McNaughton said on evidence, the doctor's conclusions were inaccurate and based on insufficient observation.
+[8] Her son Jordan attended school in a special class but was a discipline problem and was, as I recall the evidence, kicked out at least once. He has been on three kinds of medication, with indifferent or doubtful success.
+[9] I prefer Ms. McNaughton's direct viva voce evidence to the hearsay in the doctor's report. Jordan's situation is far more serious than the somewhat attenuated answers given on the questionnaire by Dr. Culman would indicate. Jordan's mother is in a far better position to comment on her son's abilities to remember, think and perceive that a medical practitioner.
+[10] I am more impressed with the report of the psychologist, Dr. Parsonson, who, has considerable expertise in assessing mental ability. The certificate completed by Dr. Parsonson reads:
+I am reproducing Dr. Parsonson's handwritten remarks for the sake of clarity.
+Jordan has been unable to focus in school, to complete his work and homework since grade 2. He is now in grade 8 and is not functioning in a regular classroom. His perceptions are skewed socially and in terms of his abilities. His thinking is fragmented and goal-setting is negligent. Problem-solving is limited and adaptive functioning is compromised. Tasks take much longer for him to complete due to attentional problems or are incomplete.
+Diagnosis (if available): ADHD (Hyperactive, Impulsive)
+[11] In Radage v. The Queen, 96 DTC 1615, the meaning of thinking, perceiving and remembering was discussed at length. The case has frequently been followed. A passage from Radage was quoted with approval in Johnston v. Canada, [1998] F.C.J. No. 169 (QL), as follows:
+Purpose and History of the Legislation
+[10] The purpose of sections 118.3 and 118.4 is not to indemnify a person who suffers from a severe and prolonged mental or physical impairment, but to financially assist him or her in bearing the additional costs of living and working generated by the impairment. As Bowman T.C.J. wrote in Radagev. R.1 at p. 2528:
+The legislative intent appears to be to provide a modest relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to every one who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+The learned Judge went on to add, at p. 2529, and I agree with him:
+If the object of Parliament, which is to give to disabled persons a measure of relief that will to some degree alleviate the increased difficulties under which their impairment forces them to live, is to be achieved the provisions must be given a humane and compassionate construction.
+[11] Indeed, although the scope of these provisions is limited in their application to severely impaired persons, they must not be interpreted so restrictively as to negate or compromise the legislative intent.
+[12] The question of attention deficit disorder has arisen in other cases in this Court. In Case v. Canada, [1996] T.C.J. No. 216 (QL), Bell J. dismissed the appeal. In Congo v. Canada, [1996] T.C.J. No. 671 (QL), Taylor J. did the same. In Austinv. Canada, [2001] T.C.J. No. 867 (QL), McArthur J. followed Radage and allowed the appeal. Although each case depends on its own facts, the facts here are very close to Austin and applying the reasoning in that case and in Johnston, supra, I think the appellant is entitled to the disability tax credit in respect of her son. His problem is in my view severe.
+[13] The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant the disability tax credit under section 118.3.
+[14] The appellant is entitled to her costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 7th day of November 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC714
+COURT FILE NO.:
+2005-1808(IT)I
+STYLE OF CAUSE:
+Michelle Leanne McNaughton v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+October 20, 2005
+EASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+November 7, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mark Heseltine
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

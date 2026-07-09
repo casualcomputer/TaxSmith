@@ -1,0 +1,158 @@
+---
+title: "Zhang c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31101/index.do"
+last_modified: "2013-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 61"
+citation2: ""
+neutral_citation: "2013 CCI 61"
+decision_date: "2013-02-20"
+language: "fr"
+item_id: "31101"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4687
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:28:00.993000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "92e21d71a1dcc708dcad5063db572ee42ade9a77705686f780d70fd850025df8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zhang c. M.R.N.
+
+- Citation: 2013 CCI 61
+- Decision date: 2013-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4687, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-02-20
+Référence neutre
+2013 CCI 61
+Numéro de dossier
+2012-2508(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-2508(EI)
+ENTRE :
+XIAO ZHU ZHANG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 février 2013, à Toronto (Ontario)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Thomas J. O’Leary
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à une décision du ministre du Revenu national rendue en vertu de la Loi sur l’assurance-emploi, selon laquelle l’appelant n’occupait pas un emploi assurable auprès de BTS Express International Inc. au cours de la période allant du 1er janvier 2011 au 2 septembre 2011, est rejeté.
+Signé à Ottawa (Ontario), ce 20e jour de février 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour d’avril 2013.
+M.-C. Gervais
+Référence : 2013 CCI 61
+Date : 20130220
+Dossier : 2012-2508(EI)
+ENTRE :
+XIAO ZHU ZHANG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Le présent appel a trait à une demande de prestations d’assurance‑emploi présentée par l’appelant, Xiao Zhu Zhang. M. Zhang interjette appel d’une décision rendue par le ministre du Revenu national selon laquelle son emploi auprès d’une société détenue en propriété exclusive par son frère n’était pas assurable aux fins de la Loi sur l’assurance-emploi (la « Loi »).
+[2] La période pertinente va du 1er janvier au 2 septembre 2011.
+[3] Le fondement de la décision du ministre était que M. Zhang et l’employeur sont des personnes liées et que les modalités d’emploi n’étaient pas à peu près semblables aux modalités qu’il y aurait s’il n’y avait pas de lien de dépendance.
+[4] Les dispositions pertinentes sont l’alinéa 5(2)i) et le paragraphe 5(3) de la Loi, lesquelles sont rédigées ainsi :
+5.(2) Restriction – N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5.(3) Personnes liées – Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[5] Comme M. Zhang et l’employeur sont des personnes liées, la seule question qu’il reste à trancher est celle de savoir s’il était raisonnable de la part du ministre de conclure que les modalités d’emploi de M. Zhang n’étaient pas à peu près semblables aux modalités qu’il y aurait s’il n’y avait pas de lien de dépendance.
+[6] Le principe général qui s’applique à une affaire comme celle‑ci a été énoncé de manière succincte par la juge Campbell dans la décision Porter c. MNR, 2005 CCI 364 :
+[13] En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+Analyse
+[7] M. Zhang et son frère, Jing Song Zhang, ont tous les deux témoigné à l’audience. Pour éviter toute confusion, j’appellerai Jing Song Zhang le « frère » dans les présents motifs.
+[8] BTS Express International Inc. (« BTS ») a été constituée en société par le frère en 2002 pour exploiter un service de livraison dans la région du Grand Toronto. Au cours de la période pertinente, il s’agissait d’une petite société qui employait environ quatre personnes.
+[9] Dans l’espoir d’augmenter les ventes, BTS a engagé M. Zhang comme représentant de commerce en 2011. Le contrat de travail écrit prévoyait une semaine de travail de 40 heures et un salaire annuel d’environ 35 000 $. Il était convenu entre les parties que des heures supplémentaires pourraient être requises et qu’elles seraient comprises dans le salaire annuel.
+[10] Les conditions de travail véritables étaient très différentes de celles du contrat écrit. Selon le contrat, M. Zhang était employé comme représentant de commerce. Cependant, M. Zhang exerçait aussi plusieurs autres fonctions : il s’occupait de la répartition, il faisait des livraisons et il effectuait des réparations mineures sur les véhicules. De plus, les heures de travail de M. Zhang étaient nettement supérieures aux 40 heures hebdomadaires qui étaient prévues dans le contrat. M. Zhang a témoigné qu’il travaillait environ 50 heures par semaine et qu’il travaillait la fin de semaine à l’occasion.
+[11] Compte tenu de ses heures de travail véritables, peu après avoir commencé à travailler, M. Zhang a négocié une augmentation de salaire avec l’employeur. Son salaire annuel a été augmenté à environ 47 000 $ et il a été payé de manière rétroactive depuis le début de son emploi.
+[12] Au cours des trois derniers mois de la relation de travail avec BTS, M. Zhang a également accepté un emploi auprès d’une société d’imprimerie. L’objectif de cet arrangement était de donner à M. Zhang l’occasion d’apprendre à connaître la société d’imprimerie, afin que BTS puisse peut-être fournir à la société d’imprimerie ses services de livraison. Le frère appuyait pleinement le plan, et M. Zhang a travaillé pour BTS et la société d’imprimerie pendant environ trois mois.
+[13] M. Zhang gagnait 11 $ l’heure à la société d’imprimerie et ses heures de travail étaient légèrement moindres que des heures à temps plein. Au cours de cette période, il a également continué d’accomplir des tâches pour BTS.
+[14] Malheureusement, les efforts déployés par M. Zhang n’ont pas permis à BTS de fournir ses services de livraison à la société d’imprimerie. Après environ trois mois, M. Zhang a quitté la société d’imprimerie et il a également été mis à pied par BTS parce qu’il n’y avait pas suffisamment de travail.
+[15] La preuve démontre également que M. Zhang a eu besoin d’aide financière lorsqu’il a commencé à travailler pour BTS. Par conséquent, il a reçu une avance sur salaire d’environ 3 700 $ lorsqu’il a commencé à travailler pour BTS. L’avance a été par la suite remboursée au moyen de déductions sur ses chèques de paie.
+[16] Le frère a témoigné qu’il avait mené des entrevues auprès d’autres personnes pour l’emploi de représentant de commerce avant de s’adresser à M. Zhang. Il a dit que les candidats lui avaient généralement demandé une rémunération de l’ordre de 50 000 $, un montant supérieur à ce que, selon lui, BTS pouvait payer.
+[17] Au cours de la période pertinente, deux conducteurs ont été employés par BTS à un taux d’environ 11 à 13 $ l’heure, plus des montants additionnels pour les heures supplémentaires.
+[18] Après avoir appliqué les dispositions de la Loi aux faits de l’espèce, j’ai conclu qu’il était raisonnable de la part du ministre de conclure que M. Zhang et BTS n’auraient pas conclu un contrat de travail comportant des modalités d’emploi à peu près semblables s’ils n’avaient pas eu de lien de dépendance.
+[19] Je note en particulier que M. Zhang a continué d’être employé et payé par BTS au cours des trois derniers mois, même s’il travaillait presque à temps plein à la société d’imprimerie. Même si cet arrangement devait être avantageux pour BTS en définitive, on se serait attendu à ce que, dans le cas d’un employé sans lien de dépendance, BTS rajuste le salaire pour tenir compte du fait que l’employé était également payé par la société d’imprimerie. Rien n’indique que BTS a modifié le salaire. Essentiellement, M. Zhang puisait à deux sources avec le consentement de BTS, ce qui ne démontre pas l’absence de lien de dépendance.
+[20] De plus, je ne suis pas convaincue que le salaire de 47 000 $ payé à M. Zhang représente un montant qui serait payé à un employé n’ayant pas de lien de dépendance avec l’employeur. M. Zhang a le fardeau d’établir qu’un employé sans lien de dépendance aurait gagné un salaire semblable. Il ne s’est pas acquitté de ce fardeau.
+[21] À titre d’exemple, la preuve manquait de détails quant au temps que M. Zhang consacrait à diverses tâches. Cette preuve est cruciale pour établir si le salaire accordé était à peu près semblable au salaire qui aurait été accordé s’il n’y avait pas eu de lien de dépendance, car certaines tâches, comme la livraison, sont généralement moins bien rémunérées que l’emploi de représentant de commerce. En l’absence d’une preuve détaillée relative à tous les faits pertinents, je conclus que M. Zhang n’a pas établi que son salaire à BTS représentait un montant à peu près semblable au montant qui aurait été accordé s’il n’y avait pas eu de lien de dépendance.
+[22] La Couronne a soulevé divers facteurs qui étayent aussi la décision du ministre :
+a) une grande augmentation de salaire n’aurait pas été donnée au début d’un emploi où il n’y a pas de lien de dépendance entre les parties;
+b) une personne employée comme représentant de commerce ne serait pas censée effectuer des tâches autres que celles d’un représentant de commerce;
+c) un employé sans lien de dépendance ne recevrait pas une importante avance sur salaire avant de commencer à travailler.
+[23] Considérés ensemble, ces facteurs étayent la décision du ministre. Je conclus, par conséquent, que la décision du ministre est raisonnable et que l’appel doit être rejeté.
+Signé à Ottawa (Ontario), ce 20e jour de février 2013.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 4e jour d’avril 2013.
+M.-C. Gervais
+RÉFÉRENCE : 2013 CCI 61
+NO DU DOSSIER DE LA COUR : 2012-2508(EI)
+INTITULÉ : XIAO ZHU ZHANG c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 8 février 2013
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 20 février 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Thomas J. O’Leary
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

@@ -1,0 +1,135 @@
+---
+title: "Larson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25259/index.do"
+last_modified: "2003-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 560"
+citation2: ""
+neutral_citation: "2003 CCI 560"
+decision_date: "2003-08-12"
+language: "fr"
+item_id: "25259"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2388
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:53:10.842000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "628d029330ca356b2ee364a108732fe8f2775df7ecbb2a3b3d56f45c382e08dd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larson v. The Queen
+
+- Citation: 2003 CCI 560
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2388, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-12
+Référence neutre
+2003 CCI 560
+Numéro de dossier
+2002-1702(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-1702(IT)I
+ENTRE :
+JIM W. LARSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 9 avril 2003, à Cranbrook (Colombie-Britannique)
+Par : l'honorable juge E. A. Bowie
+Comparutions :
+Avocat de l'appelant :
+Me Kenneth R. Hauser
+Avocat de l'intimée :
+Me Victor Caux
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les montants payés à l'appelant par S.I.I.L. Maintenance Inc. à titre d'indemnités de logement à l'extérieur sont exonérés d'impôt aux termes du paragraphe 6(6) de la Loi.
+L'appelant a droit aux dépens.
+Signé à Ottawa, Canada, ce 12e jour d'août 2003.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mai 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI560
+Date: 20030812
+Dossier: 2002-1702(IT)I
+ENTRE :
+JIM W. LARSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les présents appels ont été interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu (la Loi) pour les années d'imposition 1997, 1998 et 1999. La seule question qui se pose est de savoir si certains montants payés à l'appelant par son employeur sont imposables en tant qu'avantages tirés de son emploi en vertu de l'alinéa 6(1)a) de la Loi ou exonérés d'impôt aux termes du paragraphe 6(6). Les parties pertinentes de ces deux dispositions de la Loi se lisent comme suit :
+6(1) Sont à inclure dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi, ceux des éléments suivants qui sont applicables :
+(a) la valeur de la pension, du logement et autres avantages quelconques qu'il a reçus ou dont il a joui au cours de l'année au titre, dans l'occupation ou en vertu d'une charge ou d'un emploi, à l'exception des avantages suivants:
+[...]
+6(6) Malgré le paragraphe (1), un contribuable n'inclut, dans le calcul de son revenu tiré, pour une année d'imposition, d'une charge ou d'un emploi, aucun montant qu'il a reçu, ou dont il a joui, au titre, dans l'occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais -- ou une allocation (n'excédant pas un montant raisonnable) se rapportant aux frais -- qu'il a supportés pour :
+(a) sa pension et son logement, pendant une période donnée :
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu'il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d'une part, qui est resté à sa disposition pendant toute la période et qu'il n'a pas loué à une autre personne,
+(B) d'autre part, où on ne pouvait raisonnablement s'attendre à ce qu'il retourne quotidiennement étant donné la distance entre l'établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s'attendre à ce qu'il établisse et tienne un établissement domestique autonome, étant donné l'éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l'a obligé à s'absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d'au moins 36 heures;
+(b) le transport, au titre d'une période visée à l'alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l'endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+L'avocat de l'appelant a déterminé huit conditions distinctes qui doivent être réunies pour qu'un contribuable soit visé par le paragraphe 6(6). Toutefois, la réponse de l'intimée ne remet que deux d'entre elles en question. On a soutenu que le travail de l'appelant au chantier particulier n'était pas d'une nature temporaire et que sa résidence au chantier temporaire était sa résidence principale, plutôt que son autre résidence située à environ cinq heures de route. La preuve est claire que toutes les autres conditions du paragraphe ont été réunies dans ce cas.
+[2] Jim Larson travaille comme monteur de charpentes métalliques depuis 1971 et a beaucoup d'expérience dans ce métier. En 1989, il a commencé à travailler dans une société appelée Southern Interior Installations Ltd. dont la moitié des actions appartenaient à sa conjointe, Gayle Larson. Cette société exécutait des contrats à divers sites industriels de l'intérieur sud de la Colombie-Britannique, y compris les mines de charbon de Fording Coal Ltd. (Fording) d'Elk Valley, qui se trouve à l'extrême sud-est de la province. Les postes disponibles faisaient l'objet d'une grande concurrence et M. Larson ainsi que les autres employés se retrouvaient souvent sans travail parce que la société n'avait plus de travaux à leur confier.
+[3] Mme Larson a décidé d'y remédier et, en 1994, a constitué S.I.I.L. Maintenance Inc. (SIILM) dans l'intention de soumissionner plus particulièrement auprès de Fording et de ne pas essayer de décrocher d'autres contrats ailleurs. Elle était la seule actionnaire et c'est elle qui gérait toutes les affaires de la société. Elle préparait les soumissions et s'occupait de toute la gestion des finances et des affaires de la société. L'appelant procédait à l'estimation, étudiait les questions de sécurité, agissait comme le représentant itinérant de la société et s'occupait de la préparation et de l'exécution des travaux avec les autres ouvriers spécialisés - des tâches qui lui convenaient bien compte tenu de son expérience. SIILM était très prospère et, dès 1997, elle avait 120 employés. Presque tous les travaux étaient exécutés aux trois mines de Fording à Elk Valley et ces travaux comprenaient l'entretien du matériel, l'installation du nouveau matériel, les tâches inhérentes à la fermeture et à la réouverture périodiques des mines et divers autres travaux semblables. Tous les travaux que SIILM a effectués pour Fording durant la période allant de 1997 à 1999 entraient dans le cadre de contrats bien précis qu'elle avait conclus suite à des soumissions, à l'exception de quelques travaux exécutés sur la base d'un taux horaire qui était négocié au début de chaque année. En général, les contrats portaient sur des travaux qui devaient être exécutés dans un délai de quelques jours à quelques semaines; presque tous les contrats s'achevaient en moins de trois mois. Le plus long a pris environ huit mois. Les travaux exécutés sur la base d'un taux horaire et sans soumission étaient encore plus petits. SIILM réussissait à faire des soumissions concurrentielles et elle était bien connue de Fording comme étant une société fiable, ce qui fait qu'elle obtenait beaucoup de ses travaux. Toutefois, elle n'en obtenait pas la totalité et il n'y avait aucune garantie qu'elle obtiendrait d'autres travaux que ceux qui entraient dans le cadre des contrats signés. Par conséquent, il n'y a jamais eu de garantie que le travail se poursuivrait aux mines de Fording au-delà de quelques mois, bien que SIILM ait pu garder un nombre important d'employés qui travaillaient dans le cadre des contrats signés avec Fording entre 1994 et après la fin de 1999.
+[4] SIILM est un atelier fermé. L'emploi, y compris celui de l'appelant, y est régi par une convention collective conclue entre la société et la section locale 97 de [TRADUCTION] l'Association internationale des travailleurs de ponts, de fer structural et ornemental (International Association of Bridge, Structural and Ornamental Iron Workers). Cette convention prévoyait la mise à pied des employés en cas de manque de travail et c'est effectivement ce qui arrivait de temps en temps. Le nombre d'employés de SIILM a été réduit de 120 à environ 75 en 1998 et à environ 30 en 1999. La convention collective comprenait également une clause obligeant l'employeur à verser une allocation de logement à l'extérieur aux employés qui ne résidaient pas à proximité du lieu de travail. SIIML versait cette allocation à la grande majorité de ses employés, y compris Jim Larson. Les sommes qui lui ont été versées, et qui font l'objet de ces appels, s'élevaient à 21 860 $ en 1997, à 21 420 $ en 1998 et à 20 040 $ en 1999. L'intimée n'a pas laissé entendre que SIIML n'aurait pas dû verser ces sommes à M. Larson, mais seulement qu'il n'avait pas le droit de les recevoir sans y payer d'impôt puisqu'il ne pouvait pas relever du paragraphe 6(6) de la Loi.
+[5] M. Larson est né à Trail (Colombie-Britannique) et a grandi à Fruitvale, une petite ville voisine. Il a continué à y vivre, même si le travail qu'il effectuait auprès de ses anciens employeurs l'amenait très souvent à voyager à travers la province et à demeurer dans des chantiers temporaires pendant des mois ou même des années. La plupart de ses proches parents vivent à Fruitvale ou aux environs; il n'a que quelques cousins qui vivent près de Sparwood. Lui et Gayle possèdent une maison à demi-niveaux de 1 600 pieds carrés à Fruitvale, dotée d'un aménagement paysager attrayant et d'une piscine au sous-sol. Ils ont acquis la maison en 1976, l'ont agrandie depuis lors et y ont exécuté des travaux de rénovation importants. L'une de leurs filles et sa famille vivent juste à côté. Ils ont de nombreux amis et parents, dans la région, avec qui ils aiment se livrer à des passe-temps et des activités comme la pêche, la menuiserie et le jardinage. Ils adorent la vie de plein air dans un milieu rural attrayant proche du lac Kootenay, des lacs en Flèche et du fleuve Columbia. Fruitvale est à cinq heures de route de Sparwood; elle se trouve à quatre heures et demie du chantier le plus proche de Fording.
+[6] Il est clair que l'appelant ne pouvait pas faire l'aller-retour quotidiennement entre Fruitvale et les mines de Fording. L'intimée ne conteste pas cela. Quand l'appelant a commencé à travailler chez SIILM, il demeurait au cours de la semaine dans des chambres en location ou des motels situés à Sparwood (Colombie-Britannique) ou aux environs, comme il l'avait déjà fait auparavant lorsqu'il travaillait dans d'autres chantiers de la région. Aucun de ces arrangements n'était très pratique pour lui ou pour Gayle, qui devait également passer un certain temps dans la région même si elle gérait la société principalement de la maison familiale de Fruitvale. En 1996, la société a acheté un immeuble à Sparwood, doté de trois baies d'équipement et d'un bureau. Gayle a continué à faire une certaine partie du travail administratif à Fruitvale, mais elle passait désormais plus de temps à Sparwood qu'auparavant. En juin 1997, l'appelant et sa conjointe ont acheté un petit appartement condominial à Sparwood afin de vivre dans un endroit un peu plus confortable lorsqu'ils y étaient. Il se trouvait dans un immeuble peu attrayant qui offrait peu de services publics. Ils l'ont payé 40 000 $ et le considérait tout simplement comme une alternative aux motels et aux roulottes louées où ils vivaient durant la semaine jusqu'à ce moment-là. Ils ont peu de parents ou d'amis à Sparwood ou aux environs. Ces amis sont les personnes avec lesquelles ils travaillent. Ils possèdent une roulotte qui est garée à une heure et demie de route de là et lorsque l'appelant ne retourne pas à Fruitvale en fin de semaine, il y va parfois à la pêche. La preuve était très claire que l'appelant et sa conjointe préfèrent passer leur temps à Fruitvale plutôt qu'à Sparwood. Ils y passent autant de fins de semaine qu'ils le peuvent au cours de l'année et adorent célébrer les fêtes et les événements familiaux avec leurs amis et parents. Il est difficile pour l'appelant d'y passer de nombreuses fins de semaine puisqu'il doit travailler pendant au moins cinq jours par semaine aux mines où les travaux se déroulent. Toutefois, il y passe autant de fins de semaine qu'il le peut chaque année. Gayle peut passer plus de temps à Fruitvale que l'appelant, parce qu'elle peut y faire une certaine partie de son travail et peut ainsi y rester pendant de longues fins de semaine.
+[7] L'appelant et sa conjointe ont conservé tous leurs liens avec la communauté de Fruitvale. Non seulement ils ont continué à y avoir de la famille et des amis avec qui ils passent le temps, mais ils y ont toujours gardé leurs comptes bancaires et leur adresse postale. Leur maison n'a jamais été louée et ils continuent de payer pour le téléphone et les services publics. Leur adresse de Fruitvale figure sur leurs permis de conduire.
+[8] Il ne fait aucun doute, à mon avis, que le poste qu'occupait l'appelant chez SIILM à Elk Valley, au cours des années portées en appel, était de nature temporaire. Il comptait sur une série ininterrompue de contrats, obtenus à la suite de soumissions concurrentielles, pour garder son poste. Si la société n'arrivait pas à obtenir des contrats, alors il n'y aurait tout simplement plus de travail et l'appelant serait mis à pied. Son cas n'est aucunement différent de celui que le juge Tremblay de la C.C.I. a étudié dans l'affaire Dubé c. La Reine.[1] Dans ce cas-là, l'appelant travaillait chez un employeur qui avait obtenu une série de contrats d'un an pour le travail à faire. Dans le cas présent, la durée des contrats était beaucoup plus courte et il me semble que les moyens d'existence de l'appelant sont moins certains ou du moins pas plus certains que ceux qui, selon le juge Tremblay, étaient de nature temporaire dans l'affaire Dubé.
+[9] Je suis également d'avis que la résidence principale de l'appelant se trouve à Fruitvale, pas à Sparwood. La maison de Fruitvale et l'appartement de Sparwood sont les résidences de l'appelant et de sa conjointe. L'appelant ne conteste pas le fait qu'il ait passé plus de nuits à l'appartement qu'à la maison au cours de chacune des années portées en appel. Toutefois, on ne détermine pas la résidence principale en comptant tout simplement les nuits qu'on y passe. Si telle était l'intention du législateur, il aurait été très facile de le dire. Il s'agit d'une question à laquelle on doit répondre du point de vue qualitatif plutôt que quantitatif. C'est inévitable dans un monde où les travailleurs doivent consacrer plus de jours au travail qu'aux loisirs.
+[10] Le sens courant de l'adjectif « principal » est le suivant :
+[TRADUCTION]
+1. de premier plan ou de première importance; supérieur 2. central, prédominant.[2]
+Le paragraphe 6(6) prévoit que les contribuables qui doivent travailler temporairement à une telle distance de leur domicile que faire la navette devient impossible ne doivent pas payer d'impôt sur les indemnités de logement à l'extérieur lorsqu'ils continuent d'encourir invariablement les frais normaux d'un foyer où ils retourneront une fois que le travail temporaire a été fait. Il est sans doute inhabituel pour un travailleur de résoudre le problème du logement temporaire en achetant plutôt qu'en louant, mais aucune disposition du paragraphe 6(6) ne l'empêche de s'appliquer à une telle situation. La ministre a fait observer à la Cour que la résidence principale de l'appelant se trouve à Sparwood, mais elle n'a pris cette position que lorsqu'il a arrêté de louer et y a acheté un appartement. La question qu'elle aurait dû se poser n'est pas de savoir s'il était propriétaire ou locataire à Sparwood, mais des deux maisons qu'il possédait, laquelle constituait une alternative aux chambres de location et aux motels où il vivait près du chantier. La réponse à cela est évidente. On peut également régler la question en déterminant la propriété où le contribuable vivrait s'il ne travaillait pas dans le chantier particulier. La réponse à cette question sera, le plus souvent, la maison où il vivait avant de commencer le travail temporaire; toutefois, c'est une conclusion qui doit être fondée sur les faits particuliers de chaque situation. Dans ce cas, je n'hésite pas à conclure que M. Larson n'habiterait pas dans l'appartement de Sparwood s'il n'y travaillait pas. Si, par exemple, il devait prendre sa retraite, il vivrait certainement dans sa maison de Fruitvale de façon permanente. Bien entendu, le fait qu'il conserve l'appartement de Sparwood à titre de placement n'est pas pertinent; la seule question pertinente est de savoir où il déciderait de vivre et c'est certainement à Fruitvale. C'est là que se trouve sa résidence principale.
+[11] Les appels sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que les montants payés à l'appelant par SIILM à titre d'allocations de logement à l'extérieur sont exonérés d'impôt aux termes du paragraphe 6(6) de la Loi. L'appelant a droit aux dépens.
+Signé à Ottawa, Canada, ce 12e jour d'août 2003.
+« E. A. Bowie »
+Le juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mai 2005.
+Sophie Debbané, réviseure
+[1] [1998] A.C.I. no748.
+[2] The Canadian Oxford Dictionary, page 1150.

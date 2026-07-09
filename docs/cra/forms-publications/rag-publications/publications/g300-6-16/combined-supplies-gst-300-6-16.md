@@ -1,0 +1,142 @@
+---
+title: "Combined Supplies (GST 300-6-16)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6-16/combined-supplies-gst-300-6-16.html
+last_modified: 2017-11-07
+---
+# Combined Supplies (GST 300-6-16)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-6-16
+
+**Ottawa, January 11, 1991 TAX ON SUPPLIES TIME OF LIABILITY COMBINED SUPPLIES**
+
+This memorandum in the "**TIME OF LIABILITY**" sub-series explains the timing of liability for payment of the Goods and Services Tax (GST) in situations in which a supply is made of a combination of two or more of the following elements: personal property, a service, or real property.
+
+**LEGISLATIVE REFERENCES**
+
+*Excise Tax Act*, sections 123, 152 and 168
+
+**DEFINITIONS**
+
+The following definitions have either been taken from the *Excise Tax Act* (as amended by Bill C-62) or represent departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the *Excise Tax Act* as amended by Bill C-62;
+
+"**condominium complex**" means a residential complex that contains more than one residential condominium unit;
+
+"**consideration**" may be money, a thing, a service, forbearance in the exercise of a right or anything else which induces the supplier to make the supply. Where consideration is monetary the amount of the money will be used to calculate the tax. Where the consideration is non-monetary, the fair market value of the consideration at the time the supply was made will be used to calculate the tax;
+
+"**invoice**" includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**personal property**"means property that is not real property;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**real property**" includes
+
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+
+(c) a mobile home;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered, or who is required to apply to be registered, under sections 240 and 241 of the *Excise Tax Act;*
+
+"**sale**", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supply**" means, subject to sections 133 and 134 of the Act, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the *Excise Tax Act;*
+
+"taxable supply" means a supply that is made in the course of a commercial activity, but does not include an exempt supply.
+
+**GENERAL**
+
+1. The general rule concerning the timing of liability under subsection 168(1) of the Act is that tax is payable by the recipient of a taxable supply on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due. Tax is generally collectible by the supplier at the same time that it is payable by the recipient.
+
+2. Registrants are required to account for any tax collectible, on the return for the reporting period in which tax became collectible, regardless of whether it was actually collected.
+
+**Consideration Paid**
+
+3. Consideration is paid when it is received by the supplier.
+
+**Consideration Becomes Due**
+
+4. Under subsection 152(1) of the Act, consideration, or a part thereof, for a taxable supply, is deemed to become due on the earliest of the following days:
+
+a) the day that the supplier first issues an invoice in respect of the supply for that consideration or part;
+
+b) the date of that invoice;
+
+c) the day when, but for an undue delay, the supplier would have issued an invoice in respect of the supply for that consideration or part; and
+
+d) the day that the recipient is required to pay that consideration or part pursuant to an agreement in writing.
+
+**Special Rules**
+
+5. There are also specific timing rules with respect to certain kinds of supplies, for example, subsection 168(5) which deals with sales of real property, and the override rule in subsection 168(3), which deals with construction contracts and supplies of tangible personal property by way of sale, in circumstances where there is a delay between the completion of the supply (or, in the case of construction contracts, substantial completion) and the issuance of an invoice. Under the override rule, where all or part of the consideration for the supply has not been paid or become due by the last day of the month following the month in which the supply was completed (or, in the case of construction contracts, substantially completed), tax will become payable on that day. This override rule has no application with respect to supplies of intangible personal property, real property, continuous supplies of property or services, and limited application to supplies of services.
+
+6. More information on these subjects is available in GST MEMORANDUM 300-6-5, "**REAL PROPERTY**", and GST MEMORANDUM 300-6-11,"**OVERRIDE RULE**".
+
+**COMBINED SUPPLIES**
+
+7. Subsection 168(8) of the Act establishes rules for determining the nature of a supply in order to determine when tax is payable, where the supply consists of any combination of service, personal property or real property (each of which is referred to as an element) and the consideration for each element is not separately identified (i.e., there is a single all-inclusive price).
+
+8. Paragraph 168(8)(a) of the Act provides that if one element of the supply has a greater value than each of the other elements, then the supply shall be deemed to be a supply of that element alone and the time at which tax becomes payable will be determined accordingly.
+
+9. In any other case, according to subparagraph 168(8)(b)(i) of the Act, if one of the elements of the supply is real property, then the whole supply is deemed to be a supply of real property for the purpose of determining when tax becomes payable.
+
+10. In any other case (i.e., where no one element has a greater value than that of the other elements and where there is no supply of real property), subparagraph 168(8)(b)(ii) of the Act provides that the supply of all the elements is deemed to be a supply only of a service.
+
+11. These rules operate to ensure that tax on the whole consideration for the combined supply is payable on one day. For example, where there is a supply of personal property (e.g., a sale of a dishwasher) as part of a supply-and-install contract and the value of the dishwasher is greater than the value of the installation service, tax will be payable pursuant to the timing rules in respect of supplies by way of sale of tangible personal property.
+
+12. Where a supply is a combination of personal property and a service, and if it cannot reasonably be determined that the value of either of these elements is greater than the other, then the supply will be regarded as the supply of a service. As a result, the override rule in subsection 168(3) of the Act would not apply to the supply, and tax would not be payable until consideration for the supply was paid or became due, regardless of when the supply was completed. On the other hand, if the value of the supply is determined to consist primarily of tangible personal property, the override rule would be invoked if consideration for the supply had neither been paid nor become due by the last day of the month following the month in which the supply was completed, and tax would become payable on that day.
+
+13. Subsection 168(8) of the Act is also important for combined supplies involving the sale of real property. For example, if the combined supply consists of the sale of real property and a service and it cannot reasonably be determined which element is of greater value (for example, the sale and subsequent renovation of a house), then the supply will be regarded as a supply of real property. In this situation, the tax on the combined supply (including the renovation after the sale of the house) becomes payable by virtue of subsection 168(5) of the Act:
+
+(a) in the case of the supply of a residential unit in a condominium complex, which has not been registered as such on the day possession is transferred to the recipient, on the earlier of the day ownership of the unit is transferred to the recipient and 60 days after the date of registration of the complex as a condominium; and
+
+(b) in any other case, on the day ownership of the real property is transferred to the recipient or the day on which possession is transferred to the recipient, under the agreement for the supply, whichever is earlier.
+
+**NOTE**: This memorandum is not a legal document. It contains general information and is provided for convenience and guidance in applying the Excise Tax Act and Regulations. Readers should refer to the legislation and/or contact the nearest Revenue Canada Excise office if interpretation problems occur.
+
+**REFERENCES**
+
+**OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act* as amended by Bill C-62
+
+**HEADQUARTERS FILE:**
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

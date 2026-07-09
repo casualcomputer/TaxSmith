@@ -1,0 +1,220 @@
+---
+title: "GMAC Leaseco Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110145/index.do"
+last_modified: "2015-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 146"
+citation2: ""
+neutral_citation: "2015 TCC 146"
+decision_date: "2015-06-11"
+language: "en"
+item_id: "110145"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2740
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:19:35.915000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "38a950556c51baf7883a83d1bdb3ba944bfeb25b88558c41591c547713d12ddf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# GMAC Leaseco Corporation v. The Queen
+
+- Citation: 2015 TCC 146
+- Decision date: 2015-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2740, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+GMAC Leaseco Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-11
+Neutral citation
+2015 TCC 146
+File numbers
+2013-629(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-629(IT)G
+BETWEEN:
+GMAC LEASECO CORPORATION/
+LA COMPAGNIE GMAC LOCATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 26 and 27, 2015 at Toronto, Ontario.
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+John J. Tobin
+Lisa Talbot
+Alexander Smith
+Counsel for the Respondent:
+Andrea Jackett
+JUDGMENT
+The Appeal of the Appellant’s taxation periods ending December 31, 2006 and December 31, 2007 is allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the residual value support payments received in the Appellant’s taxation periods ending December 31, 2006 and December 31, 2007 were taxable under section 9 but were only taxable at the end of the relevant lease; and
+(b) in its taxation year ending December 31, 2007 the Appellant was entitled to deduct the additional capital tax that it paid to the province of Ontario under the Corporation Tax Act in respect of that year.
+The parties shall have 30 days to make submissions in respect of costs. In the absence of such submissions, no costs will be awarded.
+Signed at Ottawa, Canada this 11th day of June 2015.
+“David E. Graham”
+Graham J.
+Citation: 2015TCC146
+Date: 20150611
+Docket: 2013-629(IT)G
+BETWEEN:
+GMAC LEASECO CORPORATION/
+LA COMPAGNIE GMAC LOCATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] GMAC Leaseco Corporation/La Compangnie GMAC Location (“GMAC”) is in the automobile leasing business. In very simple terms, the business can be described as follows. General Motors of Canada Limited (“GM”) sells vehicles to its network of GM dealerships. Those dealerships lease some of those vehicles to their customers. The dealerships then immediately sell the leased vehicle (subject to the lease) to GMAC. GMAC administers the lease during its term. When the lease ends, the customer either buys the vehicle or returns it to a GM dealership. If the customer returns the vehicle to a GM dealership, GMAC quickly sells the vehicle.
+[2] This appeal involves three different issues:
+(a) Excess Kilometre Charges: In its taxation periods ending December 31, 2005, November 30, 2006, December 31, 2006 and December 31, 2007, GMAC charged certain customers additional charges for driving more kilometres than their leases permitted (“Excess Kilometre Charges”). When GMAC received an Excess Kilometre Charge in respect of a vehicle it treated those charges as proceeds of disposition which reduced the undepreciated capital cost (“UCC”) of its Class 10 assets in the year in which the charge was received. The Minister of National Revenue reassessed those taxation years to treat the Excess Kilometre Charges on income account. The Minister included additional income of more than $90 million in GMAC’s income in the periods in question in respect of this issue but allowed a similar increase in GMAC’s UCC pool for its Class 10 assets and corresponding increase in the CCA that it was entitled to claim in respect of that increased UCC. GMAC has appealed that decision.
+(b) Residual Value Support Payments: In its taxation years ending November 30, 2006, December 31, 2006 and December 31, 2007, GMAC received certain payments from GM known as “residual value support payments”. GMAC treated those payments as reducing the undepreciated capital cost (UCC) of its Class 10 assets in the year in which a lease in respect of which a payment had been received ended. The Minister reassessed those taxation years to include the residual value support payments in GMAC’s income in the year in which they were received. The Minister included additional income of more than $235 million in GMAC’s income in the periods in question in respect of this issue but allowed a similar increase in GMAC’s UCC pool for its Class 10 assets and corresponding increase in the CCA that it was entitled to claim in respect of that increased UCC. GMAC has appealed that decision.
+(c) Ontario Capital Tax: The Minister has denied a deduction claimed by GMAC in its taxation year ending December 31, 2007 for Ontario capital tax that GMAC paid in respect of that taxation year but which was not assessed until 2011. GMAC has appealed that decision.
+Leasing Background [3] Before turning to the individual issues, it is important to examine how GMAC conducted its business and, in particular, how lease payments were determined.
+[4] When a customer went into a GM dealership, he or she had the option of either purchasing or leasing a vehicle. If the customer chose to lease the vehicle, there were three factors that were relevant to determining a customer’s lease payments:
+(a) Purchase price: GMAC imposed a ceiling on what it was willing to pay a dealer for a leased vehicle. The dealer and customer could negotiate any price below that ceiling. The lower the vehicle purchase price, the lower the customer’s lease payments.
+(b) Interest rate: Interest rates were set by either GMAC or GM and communicated to the dealers. Customers could not negotiate interest rates with the dealers. The higher the interest rate, the higher the lease payments.
+(c) Contract residual value: The “contract residual value” is the price at which a customer is entitled to purchase the vehicle at the end of the lease. Contract residual values were set by GMAC and communicated to the dealers. Customers could not negotiate contract residual values with the dealers. The higher the contract residual value, the lower the lease payments. The contract residual value is affected by a number of sub-factors. Two key sub-factors are directly correlated to the contract residual value:
+i. Maximum kilometres: The contract residual value is directly correlated to the maximum number of kilometres permitted under a lease. The greater the maximum number of kilometres permitted under the lease, the lower the contract residual value and, thus, the higher the lease payments.
+ii. Term: The contract residual value is also directly correlated to the term of a lease. The longer the term, the lower the contract residual value and, thus, the higher the lease payments.
+[5] If the customer and the dealer could agree on the terms of a lease, the customer would then sign a standard lease contract that had been prepared for the dealer by GMAC. The contract spelled out each of the above factors and sub‑factors and showed how they impacted the monthly lease price. The remaining terms of the contract were non-negotiable.
+[6] The calculation of the monthly lease price was relatively straight forward. The following is a somewhat simplified version of calculation[1]:
+(net purchase price of the vehicle[2] - contract residual value) x (1 + interest rate)
+# of months in term
+[7] From this formula one can see that, in essence, GMAC was receiving two amounts over the term of a lease. The first was the difference between the purchase price and the contract residual value (the “Anticipated Loss of Value Amount”). The second was interest on the Anticipated Loss of Value Amount (the “Interest Amount”). GMAC reported both of these amounts on income account[3].
+[8] When a lease ended the customer had the choice of either purchasing the vehicle for the contract residual value or returning it to GMAC by dropping it off at a dealership. GMAC would immediately sell any vehicles that were returned. When it enters into a lease, GMAC accepts what it calls “residual value risk”. If GMAC ultimately sells a returned vehicle for less than the contract residual value, it takes a loss. Conversely, if it sells the vehicle for more that the contract residual value, it makes a profit. There are a number of factors that can affect the market value of a vehicle following a lease. The number of kilometres driven is a very significant factor but it is not the only factor. Such things as consumer demand for the particular make, model and colour of the vehicle, the condition of the vehicle and the current supply of such vehicles in the relevant market also impact the market price.
+Excess Kilometre Charges [9] When a customer entered into a lease, the customer agreed to the maximum number of kilometres that the leased vehicle would be driven during the term of the lease. Customers could choose between low kilometre leases of 20,000 km per year and standard leases of 24,000 km per year. Although the maximum number of kilometres was expressed as a certain number of kilometres per year, since GMAC did not monitor the number of kilometres driven on an annual basis, there was effectively a total maximum number of kilometres for the term of the lease. If the customer exceeded that maximum number of kilometres and did not purchase the vehicle at the end of the lease, the customer agreed to pay an Excess Kilometre Charge to GMAC for each excess kilometre driven. In the years in question, the Excess Kilometre Charge was generally $0.12 / km on a low kilometre lease and $0.10 / km on a standard lease.
+[10] The issue that I must determine is whether the Excess Kilometre Charges were earned on capital account or income account.
+[11] As set out above, for tax purposes, GMAC treated the Excess Kilometre Charges as proceeds of disposition of the returned vehicle and, accordingly, reduced the UCC of its Class 10 asset pool. GMAC submits that customers were required to pay Excess Kilometre Charges to compensate GMAC for the decreased value of the returned vehicle as a result of its excess use. GMAC says that the vehicles were capital in nature and that a payment to compensate for a decrease to their value was accordingly on capital account. GMAC argues that the Excess Kilometre Charge must be compensation for the anticipated decrease in the market value of the vehicle because the customer only has to pay the charge if he or she returns the vehicle to GMAC at the end of the lease. If the customer keeps the vehicle, he or she simply pays GMAC the contract residual value specified in the lease.
+[12] I disagree with GMAC’s conclusions. I agree that the Excess Kilometre Charges compensate GMAC for an anticipated decrease in the market value of a vehicle at the end of a lease. However, that does not mean that the charges were on capital account. In fact, in all other aspects of its business, GMAC treated anticipated decreases in market value as being on income account.
+[13] As described above, GMAC essentially received two amounts from customers over the term of a lease: the Anticipated Loss of Value Amount and the Interest Amount. The Anticipated Loss of Value Amount was calculated by taking the value of the vehicle at the beginning of the lease and subtracting the anticipated value at the end of the lease. In other words, it was compensation for what GMAC anticipated would be the decrease in the market value of the vehicle at the end of the lease. GMAC treated the lease payments received for the Anticipated Loss of Value Amount as being on income not as compensation for the vehicle being worth less when it was returned.
+[14] When a customer leased a vehicle for a longer period of time, the anticipated market value of the vehicle at the end of the lease decreased so GMAC used a lower contract residual value. That lower contract residual value resulted in a higher Anticipated Loss of Value Amount which meant that GMAC received more money over the term of the lease. Again, GMAC treated the resulting higher lease payments as being on income account, not compensation for the vehicle being worth less when it was returned.
+[15] When a customer entered into a standard lease instead of a low kilometre lease, the anticipated market value of the vehicle at the end of the lease decreased so GMAC used a lower contract residual value. That lower contract residual value resulted in a higher Anticipated Loss of Value Amount which meant that GMAC received more money over the term of the lease. Here again, GMAC treated the higher lease payments as being on income account, not compensation for the vehicle being worth less when it was returned.
+[16] Excess Kilometre Charges were not the only option available to customers who anticipated driving more kilometres than was permitted under their lease. A customer who was considering entering into a low kilometre lease had the option of entering into a standard lease. A customer who was considering entering into a standard lease could choose to purchase additional kilometres in advance. As would be expected, those additional kilometres had an effect on the customer’s monthly lease payments. In the periods in question, the additional kilometres were multiplied by $0.08 and the product was subtracted from the contract residual value. The lower contract residual value resulted in a higher monthly lease payment. It is important to recognize that the monthly lease payments did not simply increase by an amount equal to:
+$0.08 x additional kilometres
+number of months in the lease
+Rather, the monthly lease payments increased by a greater amount because of the effect that the interest rate had on monthly payments. The $0.08 / km amount reduced the contract residual value which, in turn, increased the Anticipated Loss of Value Amount. Since the Interest Amount is calculated by multiplying the Anticipated Loss of Value Amount by the interest rate, the higher Anticipated Loss of Value Amount lead to a higher Interest Amount. Once again, GMAC treated this increase in the monthly lease payments as being on income account, not as compensation for the vehicle being worth less when it was returned.
+[17] In reassessing GMAC, the Minister assumed that the Excess Kilometre Charges exceeded the impact that the extra kilometres had on the value of the vehicle at the end of the lease[4]. GMAC has failed to demolish that assumption. The best way to understand why is to contrast a customer who purchased additional kilometres and used all of them with one who did not purchase additional kilometres but drove the same number of kilometres and thus was faced with an Excess Kilometre Charge. Both customers returned a vehicle which had the same market value. The former customer had already paid for his additional kilometres using a rate of $0.08/km plus interest. The latter customer had to pay an Excess Kilometre Charge calculated by multiplying the excess kilometres driven by $0.10. Since the vehicles both had the same market value at the end of the lease, the $0.02 difference between the $0.08/km rate and the $0.10/km rate must have been designed to compensate GMAC not for damage to the vehicle but rather for something else. The logical inference is that the difference was compensating GMAC for its lost interest income. Because the lease has already ended when the Excess Kilometre Charges are calculated, there is no interest component factored into the charge. Thus, GMAC would have lost out on interest income due to the customer’s failure to buy additional kilometres up front. With the permission of counsel, I asked GMAC’s witness whether the difference between the $0.08/km rate and the $0.10/km rate was designed to compensate GMAC for lost profits. He said nothing that would convince me that my inference is wrong. Based on the foregoing comparison, GMAC has not convinced me that the $0.02/km component of the Excess Kilometre Charges is not simply replacing lost interest income and has thus failed to demolish the Minister’s assumption.
+[18] What then of the remaining $0.08/km component of the $0.10/km Excess Kilometre Charge? Whether the customer paid the $0.08/km up front by purchasing additional kilometres or at the end of the lease by paying an Excess Kilometre Charge, the effect was the same. The customer was paying for an anticipated decrease in the market value of the vehicle at the end of the lease. If the customer paid for that amount up front by purchasing additional kilometres, GMAC considered it to be on income account. How then could it be on anything other than income account when the customer paid the same amount at the end of the lease?
+[19] Based on all of the foregoing, I find that GMAC incorrectly treated the Excess Kilometre Charges as being on capital account. It should have treated them as being on income account.
+Residual Value Support Payments
+[20] As set out above, contract residual values were normally set by GMAC and could not be negotiated by the customer or the dealer. The higher the contract residual value, the lower the monthly lease payment. From time to time, in an effort to increase vehicle leases at GM dealerships on certain models of vehicles by effectively lowering the monthly payments, GM would agree with GMAC that if GMAC were willing to accept higher contract residual values on leases, GM would pay GMAC an amount, known as a “residual value support payment” for each such lease.
+[21] On December 1, 2006, a new ownership structure of GMAC led to some changes in residual value support payments. Up until November 30, 2006, GM and GMAC were both wholly owned subsidiaries (indirectly in GMAC’s case) of General Motors Corporation (“GMUS”). On December 1, 2006, GMUS’s ownership of GMAC decreased to 49% when the remaining 51% of GMAC’s direct parent company was sold to Cerberus Capital Management LP. The terms of the residual value support payments were different in the period from January 1 to November 30, 2006 (the “Wholly Owned Period”) than in the period from December 1, 2006 to December 31, 2007 (the “Arm’s Length Period”).
+Wholly Owned Period [22] During the Wholly Owned Period, GM would pay a residual value support payment to GMAC at the beginning of each supported lease. The residual value support payment was calculated as being the present value of the anticipated difference between the inflated contract residual value and the contract residual value that GMAC would otherwise have used. GMAC was entitled to keep the residual value support payment no matter what happened at the end of the lease. If the customer chose to purchase the vehicle, despite the inflated contract residual value, GMAC nonetheless kept the residual value support payment. If the customer returned the vehicle to GMAC and GMAC sold the vehicle, GMAC kept the entire residual value support payment regardless whether the sale price that it achieved was higher than what it would have established as the contract residual value had GM not provided the residual value support payment.
+[23] GMAC takes the position that the residual value support payments received during the Wholly Owned Period were received on capital account. It argues that they were inducements to acquire the vehicles and that those inducements took the form of reimbursements of part of the cost of those vehicles. GMAC says that the inducements should have been brought into its income under paragraph 12(1)(x). GMAC further argues that, because GMAC made an election under subsection 13(7.4), it is permitted to deduct the payments from the UCC of its Class 10 assets instead of including them in its income under paragraph 12(1)(x). The Respondent takes the position that the residual value support payments received during the Wholly Owned Period are excluded from paragraph 12(1)(x) by virtue of subparagraph 12(1)(x)(v) because they are otherwise taxable on income account under section 9. Thus, the primary question to be answered is whether the residual value support payments were taxable on income account or on capital account. If they were taxable on income account, then the Respondent will succeed. If they were taxable on capital account, then GMAC will succeed. GMAC concedes that, if the payments received during the Wholly Owned Period were received on income account, then they were taxable in the year they were received.
+[24] The Respondent relies on the Supreme Court of Canada decision in Ikea Ltd. v. The Queen[5]. In Ikea, the Court dealt with the question of whether a sum of money that a tenant received from a landlord upon entering into a lease with no direction as to how the money was to be spent was received on income account or capital account. The Court found that, because the rent that the taxpayer was paying was paid on income account and the inducement effectively reduced that rent, the inducement was therefore received on income account. The Respondent argues that GMAC’s situation is comparable. The Respondent says that the purpose of the residual value support payments was to replace lost income and thus that the payments should be taxed on income account.
+[25] GMAC argues that its situation differs from that in Ikea. GMAC relies on the Federal Court Trial Division decision Woodward Stores Ltd. v. The Queen[6]. In Woodward, the Court dealt with the question of whether a sum of money that a tenant received from a landlord upon entering into a lease for the purpose of building fixtures, in an otherwise vacant premises, was received on income account or capital account. The Court found that, because the sum was received for the express purpose of allowing the taxpayer to acquire capital assets, the sum was received on capital account. GMAC argues that its situation is comparable. It says that the purpose of the residual value support payments was to reduce the purchase price of the vehicle and thus that the payments should be treated as being on capital account and then taxed under paragraph 12(1)(x) subject to its election under subsection 13(7.4).
+[26] I disagree with GMAC’s position. In my view, the residual value support payments were made to replace GMAC’s lost income, not to reduce its cost of acquiring the vehicles.
+[27] If GMAC’s concern had been about the purchase price of the vehicle, I would have expected to hear testimony explaining that GMAC looked for a rate of return on each vehicle that it purchased of X% and that, with the inflated contract residual value, it was not possible to achieve that return without reducing the purchase price. I would then have expected some sort of explanation of how receiving the residual value support payments reduced the purchase price to such a level that GMAC was again able to achieve a return of X% despite its anticipated loss on selling the vehicle. I did not hear any such testimony.
+[28] Instead, aside from the bare assertion that the residual value support payments were an inducement to acquire the vehicle, all of the evidence was focused on the losses that GMAC would potentially suffer at the end of each lease as a result of not being able to obtain a sale price equal to the inflated contract residual value. I heard how the inflated contract residual values increased GMAC’s residual value risk. With a higher contract residual value it was less likely that a customer would actually buy the vehicle at the end of the lease. This meant that it was more likely that GMAC would be left having to sell the vehicle. Because the contract residual value was inappropriately high, this meant that it was likely that GMAC would sell the vehicle for less than the contract residual value. Furthermore, I heard that since GM would offer residual value support payments on only certain models and only at certain times, this meant that there would likely be a glut of similar vehicles on the used vehicle market at the same time. This glut tended to drive the market price down which meant that there was likely to be an even larger gap between the contract residual value and the market value.
+[29] Even then, the evidence that I received relating to potential losses arising at the time of sale suggested that the residual value support payments were not really designed to replace lost income. During the Wholly Owned Period GMAC was allowed to keep the residual value support payments regardless whether the customer returned the vehicle or not. This is inconsistent with the idea that GMAC was being compensated for losses on the sale of the vehicle. Similarly, the fact that if a customer returned a vehicle GMAC kept the residual value support payments regardless what price it sold the vehicle for is inconsistent with the idea that GMAC was being compensated for a loss on the sale of the vehicle. In both of the foregoing situations, if GMAC were truly being compensated for its loss on the sale of the vehicle, it would only have been compensated if an actual loss occurred.
+[30] Looking at how the residual value support payments were actually calculated and what they actually did makes it clear that they were designed to replace lost income. Had the contract residual value been set where it should have been, the customer’s monthly lease payments would have been higher. The residual value support payments had the simple effect of replacing that lost income. As described above, GMAC reported all of a customer’s monthly lease payments as income. Those lease payments were made up of two components: the Anticipated Loss of Value Amount and the Interest Amount. Inflating the contract residual value reduced both of these amounts. The Anticipated Loss of Value Amount is the difference between the purchase price of the vehicle from the dealer and the contract residual value. An inflated contract residual value therefore resulted in a lower Anticipated Loss of Value Amount and a lower monthly payment. The Interest Amount is the interest on the Anticipated Loss of Value Amount. Thus a lower Anticipated Loss of Value of Amount would necessarily lead to a lower Interest Amount. The effect of the residual value support payments in the Wholly Owned Period was that GMAC was paid the difference in the Anticipated Loss of Value Amount (i.e. the difference between what that amount would have been if the contract residual value had been correctly set and what it was with the inflated contract residual value) up front instead of over the term of the lease. Because GMAC had use of the money from the beginning, there would have been no need to compensate it for any lost interest.
+[31] Based on all of the foregoing, I find that during the Wholly Owned Period the residual value support payments were received on income account and should have been included in income in the year in which they were received.
+Arm’s Length Period [32] There was a significant change to how the residual value support payments worked during the Arm’s Length Period. This was presumably because GMAC was now dealing at arm’s length with GM. GM would pay a residual value support payment to GMAC at the beginning of a lease, but GMAC had to return the payment to GM at the end of the lease if the customer purchased the vehicle. The amount paid at the beginning of the lease was still the present value of the anticipated difference between the inflated contract residual value and the contract residual value that would otherwise be used. However, there was a reduction in the amount paid up front to account for the historical incidence of customers keeping their vehicles. In addition, if the customer returned the vehicle to GMAC, when GMAC sold the vehicle there was a “true up payment” either to or from GM depending on how the sale price compared to the contract residual value that GMAC would otherwise have used. The idea was to ensure that GMAC ultimately received a residual value support payment equal to the difference between those amounts; no more and no less.
+[33] The primary question to be answered in respect of the Arm’s Length Period is still whether the residual value support payments were taxable on income account under section 9.
+[34] Despite the foregoing differences in the program during the Arm’s Length Period, I still find that the residual value support payments were received on income account. They were still intended to replace the income that GMAC would have earned from having a lower contract residual value. There is still no evidence that would indicate that the payments were designed to reduce the purchase price. All that happened in the Arm’s Length Period is that the payments were refined to ensure that they were not being paid in situations where they were not required. In other words, they were adjusted so that they were paid based not on the anticipated market value at the end of the lease but rather the actual market value. Yet the payments were still occurring at the beginning of the lease. If the payments were truly designed to compensate GMAC for losses on the sale of the vehicles, then why not simply pay them when the sale occurred? Why go through the effort of paying them up front and then making true up payments at the end? The logical answer that presents itself is that the payments were designed to replace lost income - income that would have been earned prior to the end of the lease.
+[35] Under the system that was in place in the Arm’s Length Period, if a customer purchased the vehicle at the end of a lease, then GMAC would have received the inflated contract residual value which meant that it would have received exactly the amount of income that it should have received during the lease and had no need of a residual value support payment. If a customer returned a vehicle at the end of the lease and GMAC sold the vehicle for the same amount that it would otherwise have used as the contract residual value, then it kept the entire residual value support payment as that payment was exactly equal to the income that it would have received from the customer had it set the contract residual value at the proper amount[7]. If a customer returned a vehicle at the end of the lease and GMAC sold the vehicle for less than the inflated contract residual value but more than the contract residual value that it would otherwise have used, then it kept that portion of the residual value support payment that made up for the income that it would have received from the customer had the contract residual value been set appropriately. That amount compensated GMAC for the income that it would otherwise have received from the customer[8].
+[36] GMAC conceded that, if I found that the residual value support payments received during the Wholly Owned Period were received on income account, then they were taxable when received. GMAC did not make that same concession for residual value support payments received during the Arm’s Length Period. GMAC submits that if I find, as I have, that the residual value support payments received during the Arm’s Length Period were received on income account, then they should be included in income at the end of the lease after any true up occurred. The Respondent did not make any submissions on this issue.
+[37] I accept GMAC’s position that the residual value support payments were earned at the end of the lease. Although GMAC had use of the money at the beginning of a lease, it did not have any entitlement to keep it until the lease ended and GM and GMAC knew whether GMAC had had to sell the vehicle and, if so, what price it had been sold for.
+[38] GMAC then argues that, because the residual value support payments were not earned until the end of the leases, the payments should not be taxable under section 9 because, despite the fact that they were earned on income account, they are still taxable under paragraph 12(1)(x). GMAC reaches this conclusion based on the wording of subparagraph 12(1)(x)(v). That subparagraph reads:
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+…
+(x) any particular amount (other than a prescribed amount) received by the taxpayer in the year, in the course of earning income from a business or property, …
+…
+to the extent that the particular amount
+(v) was not otherwise included in computing the taxpayer's income, or deducted in computing, for the purposes of this Act, any balance of undeducted outlays, expenses or other amounts, for the year or a preceding taxation year,
+[emphasis added]
+[39] GMAC submits that had the residual value support payments been earned in the year that they were “received” (i.e. at the beginning of the lease), then subparagraph 12(1)(x)(v) would have excluded the payments from being taxed under paragraph 12(1)(x) and left them to be taxed under section 9[9]. However, GMAC submits that because the residual value support payments were “received” at the start of the lease but only earned at the end of the lease, then subparagraph 12(1)(x)(v) does not apply to make paragraph 12(1)(x) inoperable. Instead, GMAC submits, paragraph 12(1)(x) applies and that GMAC is free to make an election under subsection 13(7.4). The Respondent did not make any submissions on this issue.
+[40] While I accept GMAC’s interpretation of subparagraph 12(1)(x)(v), I do not accept that the residual value support payments were “received” in the first year of the leases. In my view, the word “received” in paragraph 12(1)(x) must mean something more than merely accepting possession of an amount and using it for a period of time. The recipient must have a legal right to keep the amount. GMAC is trying to have it two ways. It is arguing that the residual value support payments are not taxable because it did not have a right to them when they came into its possession but, in the same breath, arguing that it has “received” the payments despite the fact that it has no right to keep them. GMAC cannot have it both ways[10].
+[41] Based on all of the foregoing, I find that during the Arm’s Length Period the residual value support payments were received on income account and were not required to be included in income until the end of the relevant lease. However, at the end of the lease, the residual value support payments were taxable under section 9. The Minister will need to reassess the periods in question in accordance with the foregoing.
+Ontario Capital Tax [42] In 2011, GMAC filed an amended Ontario capital tax return for its taxation year ending December 31, 2007. The amended return reduced the amount of discretionary CCA claimed by GMAC which had the effect of increasing the amount of Ontario capital tax that GMAC was required to pay under the Corporations Tax Act[11]. GMAC filed an amended federal tax return for its taxation year ending December 31, 2007 in which it deducted the additional Ontario capital tax. The Minister denied that deduction on the basis that the additional Ontario capital tax liability had not arisen until GMAC’s taxation year ending December 31, 2011 when GMAC filed the amended Ontario capital tax return and thus that the additional capital tax was not deductible until that year.
+[43] The Respondent takes the position that GMAC had no liability for the additional capital tax until 2011 when it amended its capital tax return. I disagree.
+[44] Counsel for GMAC directed me to subsection 78(1) of the Corporations Tax Act which states that capital tax is “deemed to accrue proportionately as the days of each taxation year for which [it] is imposed pass”. It appears from this subsection that GMAC’s liability to pay the additional capital tax must have accrued in 2007. Counsel for the Respondent did not direct me to anything in the Corporations Tax Act that would indicate that the liability for capital tax arising from a discretionary adjustment to a capital tax return would accrue in any manner other than that dictated by subsection 78(1).
+[45] The idea that liability for capital tax would accrue in the relevant year regardless of when the tax was assessed is hardly surprising. It is consistent with the long established principle under the Income Tax Act that liability for tax arises not pursuant to the filing of a return or the issuing of an assessment or reassessment, but rather pursuant to the terms of the Income Tax Act itself[12].
+[46] The Respondent relies on the Federal Court of Appeal decision in Canada v. Burns[13]. With respect, I cannot see the relevance of that case. Burns dealt with the question of whether merely having an obligation to backfill a gravel pit was sufficient for the taxpayer to claim a deduction in the year the obligation arose, despite the fact that the taxpayer did not actually hire anyone to backfill the pit until after the taxation year. The Federal Court of Appeal stated that an “expense cannot be said to be incurred by a taxpayer who is under no obligation to pay money to anyone. …an obligation to do something which may in the future entail the necessity of paying money is not an expense.”[14] I do not think that GMAC would dispute that point. However, Burns says nothing about how expenses that are statutorily deemed to have accrued should be treated.
+[47] Based on the foregoing, it appears to me that GMAC’s liability to pay the additional capital tax accrued in 2007 rather than 2011. Since GMAC reported its income on an accrual basis, it was appropriate for GMAC to claim a deduction in its income taxation year ending December 31, 2007 for the additional capital tax that subsection 78(1) deemed GMAC to have accrued.
+Conclusion
+[48] Based on all of the foregoing, the Appeal is allowed and referred back to the Minister for reconsideration and reassessment on the basis that:
+(a) the residual value support payments received in GMAC’s taxation periods ending December 31, 2006 and December 31, 2007 were taxable under section 9 but were only taxable at the end of the relevant lease; and
+(b) GMAC was entitled to deduct its additional capital tax in its taxation year ending December 31, 2007.
+[49] I am not inclined to award costs in light of the parties’ mixed success in the Appeal but the parties may make submissions on costs within 30 days if they wish.
+Signed at Ottawa, Canada this 11th day of June 2015.
+“David E. Graham”
+Graham J.
+CITATION:
+2015TCC146
+COURT FILE NO.:
+2013-629(IT)G
+STYLE OF CAUSE:
+GMAC LEASECO CORPORATION/LA COMPAGNIE GMAC LOCATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 26 and 27, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+June 11, 2015
+APPEARANCES:
+Counsel for the Appellant:
+John J. Tobin
+Lisa Talbot
+Alexander Smith
+Counsel for the Respondent:
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John J. Tobin
+Firm:
+Torys LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This formula was not entered into evidence. I have simply created it from the more detailed calculation found at Exhibit J-3, Tab 1. Nothing turns on the additional details in that calculation.
+[2] This included the purchase price and such related costs such as GST and extended warranties.
+[3] The terms "Anticipated Loss of Value Amount" and "Interest Amount" are not terms used by GMAC. They are terms that I have created for the purposes of more easily identifying and referring to these two components of the lease payments.
+[4] Reply, paragraph 23(o)
+[5] [1998] 1 SCR 196
+[6] 1991 CarswellNat 377
+[7] There would be no need to compensate GMAC for lost interest income as it would have received the residual value support payment up front and therefore had the use of the money during the term of the lease.
+[8] Again there would be no need to compensate GMAC for lost interest income as it would have received the residual value support payment up front.
+[9] This was the case for the residual value support payments earned during the Wholly Owned Period.
+[10] I note that, even if I had found that the residual value support payments were "received" at the beginning of the lease, I question whether GMAC could make use of a subsection 13(7.4) election. That election is limited to inducements received “in respect of the cost of a depreciable property acquired by the taxpayer”. It seems to me that the residual value support payments were received to replace lost income rather than in respect of the cost of the vehicles. If anything, they were received in respect of the sale of the vehicles since GMAC was only able to keep the payments if the vehicles were sold. This issue was not argued before me by either party.
+[11] RSO 1990, Chapter C.40
+[12] The Queen v. Simard-Beaudry Inc., 1971 CarswellNat 239 (FCTD); R. v. Riendeau¸ 91 DTC 5416 (FCA); and subsection 152(3)
+[13] 1984 CarswellNat 1653
+[14] Burns, at para 2

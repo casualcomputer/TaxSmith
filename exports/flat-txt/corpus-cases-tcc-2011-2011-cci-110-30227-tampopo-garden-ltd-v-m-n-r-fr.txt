@@ -1,0 +1,192 @@
+Title: Tampopo Garden Ltd v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30227/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-110-30227-tampopo-garden-ltd-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2011-02-18
+
+# Tampopo Garden Ltd v. M.N.R.
+
+- Citation: 2011 CCI 110
+- Decision date: 2011-02-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7756, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tampopo Garden Ltd v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-18
+Référence neutre
+2011 CCI 110
+Numéro de dossier
+2010-2030(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2030(EI)
+ENTRE :
+TAMPOPO GARDEN LTD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HEVA NG
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 février 2011, à Vancouver (Colombie‑Britannique),
+sur preuve commune avec la demande de Heva Ng (2010-3726(EI)APP)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentant de l’appelante :
+M. Vincent Hu
+Avocat de l’intimé :
+Me Kristian DeJong
+Pour l’intervenante :
+L’intervenante elle‑même
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de février 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 31e jour de mars 2011.
+Hélène Tremblay, traductrice
+Dossier : 2010-3726(EI)APP
+ENTRE :
+HEVA NG,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Demande entendue le 11 février 2011, à Vancouver (Colombie‑Britannique), sur preuve commune avec l’appel de Tampopo Garden Ltd. (2010-2030(EI))
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Représentant de l’appelante :
+M. Vincent Hu
+Avocat de l’intimée :
+Me Kristian DeJong
+____________________________________________________________________
+JUGEMENT
+Il est fait droit à la demande de prorogation du délai pour interjeter appel.
+L’appel est rejeté, et la décision du ministre du Revenu national est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de février 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 31e jour de mars 2011.
+Hélène Tremblay, traductrice
+Référence : 2011 CCI 110
+Date : 20110222
+Dossiers : 2010-2030(EI)
+2010-3726(EI)APP
+ENTRE :
+TAMPOPO GARDEN LTD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+HEVA NG
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le présent appel est interjeté à l’encontre de la détermination faite par le ministre du Revenu national (le « ministre ») selon laquelle Heva Ng (la « travailleuse ») avait tiré une rémunération assurable de 11 040 $ en pourboires [traduction] « contrôlés par l’employeur » au cours de [traduction] « la période », soit entre le 6 mai 2008 et le 12 novembre 2009. Dans une lettre datée du 3 juin 2010 et adressée à l’appelante, l’Agence du revenu du Canada (l’« ARC ») a affirmé ce qui suit :
+[traduction]
+À la suite d’un examen complet et impartial de l’information concernant l’appel, il a été établi que Heva Ng a reçu des pourboires contrôlés par l’employeur s’élevant à 11 461 $. Ces pourboires sont par conséquent considérés comme ayant été gagnés dans le cadre d’un emploi assurable.
+La présente décision vous est communiquée en application du paragraphe 93(3) de la Loi sur l’assurance‑emploi et est fondée sur l’alinéa 2(1)a) du Règlement sur la rémunération assurable et la perception des cotisations.
+[2] Heva Ng était serveuse au restaurant japonais exploité par l’appelante (ou le « payeur »), à Vancouver. Pendant la période en cause, elle a reçu environ 17 600 $ en pourboires de cartes de débit et de crédit. Elle était tenue de remettre automatiquement à l’appelante entre 5 % à 6 % de ses ventes au titre de pourboire, et 25 % du reste des pourboires au commis débarrasseur. C’est l’appelante qui avait déterminé la formule de partage des pourboires utilisée dans son entreprise. Au cours de la période en cause, la travailleuse a dû remettre 9 686 $ au payeur aux fins de distribution aux employés de cuisine et au débarrasseur. Les seuls registres de pourboire tenus par l’appelante concernent la période du 1er janvier 2009 au 12 novembre 2009. Selon les moyennes tirées des registres du payeur, la travailleuse recevait environ 566 $ par mois, en moyenne, au titre de pourboire. Le période en cause est d’environ 20,25 mois.
+[3] Comme l’appelante et l’intimé n’ont pas signalé leur opposition, j’ai permis à Mme Ng de participer à titre d’intervenante, même si sa demande semblait avoir été formulée après le délai prescrit.
+Les faits tels que je les ai constatés sont les suivants :
+[4] L’appelante exploitait un restaurant japonais achalandé. Mme Ng a été embauchée comme serveuse en mai 2008. Il était prévu dans ses conditions d’emploi qu’elle devait remettre à l’appelante entre 5 % à 6 % de ses ventes au titre de pourboire, et 25 % du reste de ses pourboires au commis débarrasseur. Cette condition d’emploi avait été déterminée par l’appelante, son employeur. De toute évidence, cette façon de faire ne plaisait pas à Mme Ng, mais il s’agissait d’une condition d’emploi qui était contrôlée par l’appelante.
+[5] Soit dit en passant, en raison du manque d’éléments de preuve, je déduis que Mme Ng n’a pas déclaré ses pourboires dans le calcul de son revenu. Cependant, il est maintenant à son avantage de déclarer tous ses pourboires afin d’obtenir le montant maximal de prestations d’assurance‑emploi. Si Mme Ng avait déclaré ses pourboires dans le calcul de son revenu imposable, la vérificatrice de l’ARC aurait probablement utilisé les montants déclarés pour effectuer ses calculs.
+[6] La question se résume donc à savoir si Mme Ng était tenue de remettre ses pourboires à l’appelante afin que celle‑ci les distribue aux employés. Plus précisément, il s’agit de savoir si elle a reçu des pourboires qui étaient contrôlés par l’employeur.
+[7] Dans son avis d’appel, l’appelante affirme ce qui suit :
+[traduction]
+La question est de savoir si les pourboires d’une ancienne employée, Heva Ng, constituaient une rémunération assurable.
+Nous n’acceptons pas la décision parce que nous sommes fermement convaincus que les pourboires qu’elle recevait étaient directs et non contrôlés. Les sommes d’argent qu’elle a reçues au titre de revenu de la part des clients de notre restaurant ne sont pas contrôlées par la société, Tampopo Garden Ltd, pas plus que ne sont contrôlés les pourboires d’autres employés de la société qui reçoivent des pourboires.
+[…]
+[…] il importante de souligner le fait que la formule de partage des pourboires n’est pas établie par l’employeur. Les employés ont eux‑même mis en œuvre ces calculs déjà établis par les gérants, les chefs de quarts et le gérant de la cuisine. Ils ont établi ce qui constituait une distribution équitable des pourboires. Ce n’est ni la société ni l’employeur qui a établi cette façon de faire.
+La société n’a aucun contrôle direct sur le montant que reçoit un employé pendant son quart ou sa période de travail. Le montant est déterminé par le client, et la distribution est établie par les employés.
+[8] La principale préoccupation de Mme Ng, à titre d’intervenante, semble concerner la question de savoir si l’entente de partage des pourboires était équitable, ce qui n’a aucune incidence sur la question en litige. Les commentaires de Mme Ng sont en grande partie présentés par intérêt personnel. Elle semble vouloir voir le ministre augmenter le montant de ses pourboires afin qu’elle puisse obtenir des prestations d’assurance‑emploi plus importantes. Cela est quand même surprenant étant donné qu’elle n’a déclaré aucun pourboire, sinon très peu, dans le calcul de son revenu imposable pour les années en cause. Néanmoins, cela n’a aucune incidence sur l’issue du présent appel. Certains des commentaires présentés par Mme Ng dans ses observations écrites intitulées [traduction] « Demande de prorogation du délai pour interjeter appel » sont ainsi rédigés :
+[traduction]
+La formule de partage des pourboires est de toute évidence établie par l’employeur. Les « calculs déjà établis », cela signifie quoi? Cette affirmation est très vague. Tampopo n’avait pas de date exacte ni de mois ni d’année précise où cette formule aurait été établie. Qui étaient ces gérants, chefs de quarts et gérants de la cuisine? Aucun nom n’a été fourni. En 20 mois de travail au restaurant, je n’ai jamais même constaté l’existence du poste de chef de quart. Je propose à la Cour d’interroger mes anciens collègues pour savoir s’ils connaissent ces chefs de quarts.
+[…]
+- Pour quelle raison les employés croient‑ils que la société mérite des pourboires de 6 % des VENTES? Selon mon expérience, les pourboires que doivent verser les serveurs à la maison sont nettement moins élevés que 6 %, soit normalement environ 2 à 3 %, et les serveurs les versent normalement en fonction du montant gagné en pourboires et non en fonction des VENTES. Le fait de payer un pourboire à la maison est une pratique commune dans l’industrie des aliments et des boissons, mais est‑il nécessaire de payer un taux aussi élevé que 6 %?
+- […] Il arrivait parfois que des clients dépensent plus de 400 $ et donnent moins de 10 % de pourboire, ou même ne donnent aucun pourboire. Est‑ce juste que les serveurs et débarrasseurs ne reçoivent qu’un pourboire minimal ou même qu’ils ne reçoivent aucun pourboire après qu’ils aient tout fait pour fournir un excellent service? Ce n’est pas tout. Il ne faut pas oublier que les serveurs doivent quand même verser un pourboire obligatoire de 6 % de leurs VENTES.
+[…]
+- Cela m’est arrivé à mon quatrième jour de travail (les premiers trois jours, j’étais en formation, alors je n’avais pas droit aux pourboires, selon la politique de la société). À la fin de mon quart de travail, le caissier m’a remis un bout de papier sur lequel était indiqué le montant de pourboire que je devais verser à la maison. Au cours de mon emploi auprès de Tampopo, je n’ai jamais entendu parler du fait que les employés pouvaient établir leur propre formule de partage des pourboires. On m’a ordonné de verser en tout temps ce que la société voulait que je verse, et je devais obéir.
+- J’ai soulevé la question de façon stratégique lorsque je travaillais toujours auprès de Tampopo. Par exemple, à la fin d’un quart de travail à l’heure du dîner, je devais payer environ 40 $ à la maison, et après avoir payé les débarrasseurs, il me restait environ 10 $. J’ai demandé au gérant si je pouvais payer un pourcentage moins important de pourboires à la maison, et le gérant a refusé de faire droit à ma demande. S’agit‑il ici d’un cas de contrôle?
+- Tous les caissiers sont embauchés par la société. Il est parfois arrivé qu’un caissier dépose, par erreur, le pourboire du serveur A dans la boîte de pourboires du serveur B et se fasse prendre sur le fait par le serveur A. Pourquoi la société ne laisse‑t‑elle pas les serveurs s’occuper de leurs propres transactions de débit, crédit et comptant, comme le font d’autres sociétés? Cela contribuerait à réduire le nombre d’erreurs de ce genre.
+- Le gérant a‑t‑il, dans quelque mesure que ce soit, amélioré ses communications avec les employés à la suite des entretiens avec l’ARC? Par exemple, a‑t‑il tenu une réunion avec les serveurs actuels afin de leur expliquer clairement qu’ils peuvent garder le montant total de leurs pourboires et qu’il leur revient entièrement à eux d’établir la mise en commun et la distribution des pourboires après chaque quart de travail?
+[…]
+Les motifs que Mme Ng a l’intention d’invoquer sont les suivants :
+Je ne souscris pas aux prétentions avancées par Tampopo Garden Ltd. dans son avis d’appel. Cela a des répercussions non seulement sur le montant de mes prestations d’assurance‑emploi, mais aussi sur ma vie normale. Je demande à la Cour canadienne de l’impôt de mener une enquête exhaustive sur la question et de s’entretenir avec des employés de Tampopo, anciens et actuels, afin de rendre une décision éclairée. Pour plus d’information, n’hésitez pas à communiquer avec moi. J’attends avec impatience que justice soit faite.
+[9] La position de l’intimé, telle qu’elle est énoncée dans la réponse à l’avis d’appel :
+[traduction]
+[…]
+i) l’appelante a établi la formule de partage des pourboires;
+ii) la travailleuse devait remettre ses pourboires à l’appelante pour que celle‑ci les distribue.
+12. […] que le montant de la rémunération assurable que la travailleuse a gagné au titre de pourboire dans son travail auprès de l’appelante pendant la période s’élève à 11 461 $, suivant l’alinéa 2(1)a) du Règlement sur la rémunération assurable et la perception des cotisations.
+[…]
+[10] Les dispositions législatives qui s’appliquent en l’espèce, selon ce qu’affirme l’intimé, sont le paragraphe 82(1) (onglet 1c)) et les articles 67 et 68 (onglet 1b)) de la Loi sur l’assurance‑emploi, et la disposition principale est l’alinéa 2(1)a) du Règlement sur la rémunération assurable et la perception des cotisations[1], dans sa version modifiée. Cette disposition est ainsi rédigée :
+2.(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi,
+[…]
+[11] Afin d’obtenir gain de cause, le ministre doit prouver que les montants (les pourboires) que Mme Ng a reçus lui ont été versés par son employeur (l’appelante) à l’égard de son emploi.
+[12] L’avocate du ministre a largement fondé son argument sur l’arrêt Canadian Pacific Ltd. c. Canada[2], et particulièrement sur le paragraphe 20, qui est en partie rédigé ainsi : « on donne au mot “rétribution” une portée large » et sur le paragraphe 25, dans lequel on indique que : « […] une loi ayant pour objet la sécurité sociale doit être interprétée de façon à atteindre ce but. Il ne s’agit pas d’une loi fiscale […]. »
+[13] La Cour d’appel fédérale, dans l’arrêt Yellow Cab Co. c. Canada[3], a indiqué ce qui suit au sujet de la Loi sur l’assurance‑emploi : « la Loi doit recevoir une interprétation libérale ».
+[14] Dans S & F Philip Holdings Ltd. v. Canada :
+[traduction]
+[…] Les employés de la salle à manger avaient établi un système selon lequel tous les pourboires étaient placés dans un pot aux fins de distribution, selon certains pourcentages, entre toutes les personnes qui faisaient partie de l’équipe des services alimentaires. L’employeur retenait 10 % du montant total des pourboires accumulés pour couvrir le coût des transactions par carte de crédit. Des chèques représentant la part des pourboires revenant à chaque travailleur étaient remis aux employés à la quinzaine, en plus de leur salaire normal. Le ministre a établi que des cotisations d’assurance‑emploi et des cotisations au Régime de pensions du Canada étaient dus à l’égard de services fournis par certains travailleurs pour Sooke Harbour.
+Le juge Rowe de la Cour canadienne de l’impôt a conclu que les paiements relatifs aux pourboires étaient de nature pécuniaire et étaient entièrement liés au contexte de l’emploi. Les pourboires constituaient une partie importante de l’ensemble des gains des travailleurs sur lesquels on se fondait pour établir les cotisations d’assurance‑emploi ainsi que les prestations d’assurance‑emploi auxquelles les travailleurs auraient droit s’ils étaient mis à pied. Il semblait que l’intention de tenir compte des pourboires dans le calcul des gains assurables était claire. Le montant des pourboires distribués par Harbour Sooke à ses travailleurs était connu et était indiqué sur le feuillet T4 de chaque travailleur. Ce montant aurait dû être inclus dans les traitement et salaire cotisables de chaque employé en application du Régime de pensions du Canada.
+[15] Dans Union of Saskatchewan Gaming Employees Local 40005 v. Canada[4] :
+[traduction]
+Le syndicat a porté en appel une décision du ministre selon laquelle il était l’employeur réputé en ce qui a trait au paiement des pourboires, donc, l’employeur chargé de retenir les cotisations d’assurance‑emploi relatives à ces pourboires. L’employeur a fait valoir que les pourboires ne constituaient pas une rémunération assurable. Les employés travaillaient au casino de l’employeur. Pour des raisons liées à la sécurité, l’employeur percevait les pourboires des employés puis envoyait un chèque au syndicat. Conformément à la convention collective conclue entre les parties, le syndicat se chargeait de distribuer les pourboires aux employés. La position du syndicat était qu’il agissait à titre de représentant de l’employeur pour ce qui est de la distribution des pourboires et que, par conséquent, il n’était pas l’employeur chargé de verser les cotisations relatives aux pourboires.
+DÉCISION : En application du paragraphe 2(1) du Règlement sur la rémunération assurable et la perception des cotisations, le total de tous les montants, y compris les pourboires, que l’assuré reçoit et qui lui est versé par son employeur constitue une rémunération assurable. On doit interpréter l’expression « rémunération assurable » de façon libérale afin qu’elle comprenne les pourboires versés aux employés par leur employeur. En application des paragraphes 1(2) et 10(1) du Règlement, le terme « employeur » comprend la notion d’employeur réputé. L’employeur percevait les pourboires et les remettait au syndicat, le syndicat étant la « personne qui n’est pas [le] véritable employeur », il est la personne réputée être l’employeur parce qu’il distribuait, donc versait, les pourboires aux employés du casino. Par conséquent, le syndicat avait, à juste titre, été considéré comme l’employeur réputé en ce qui a trait aux pourboires et était chargé de payer, retenir et verser les cotisations relatives à cette rémunération assurable.
+[16] La question précise est de savoir si l’appelante contrôlait l’attribution des pourboires. Suivant l’arrêt Canadian Pacific Ltd. c. Canada, précité (paragraphe 20), je conclus en fait que l’appelante contrôlait bel et bien l’attribution des pourboires. Les pourboires comprenaient l’argent en espèces laissé à la table ainsi que les attributions par cartes de crédit ou de débit.
+[17] J’accepte le témoignage de Mme Ng en ce qui a trait à la procédure selon laquelle les pourboires étaient remis à l’appelante puis contrôlés par elle. Bien que, comme l’a affirmé la vérificatrice, les montants énoncés dans les hypothèses de fait sont arbitraires, j’accepte les conclusions tirées par cette dernière voulant que ces estimations étaient tout ce qu’il y a de plus raisonnable compte tenu de la preuve et des montants dont elle disposait. Je conclus donc que l’appelante avait un contrôle, sinon réel, au moins virtuel des pourboires laissés en espèces et par carte de crédit. L’appelante a établi une procédure de distribution des pourboires et l’a imposée à Mme Ng.
+[18] Pour les motifs énoncés ci‑dessus, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de février 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 31e jour de mars 2011.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2011 CCI 110
+Nos DES DOSSIERS DE LA COUR : 2010-2030(EI) et 2010-3726(EI)APP
+INTITULÉS : TAMPOPO GARDEN LTD c. MINISTRE DU REVENU NATIONAL ET HEVA NG, et HEVA NG c. MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 11 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DE JUGEMENT : Le 22 février 2011
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Vincent Hu
+Avocat de l’intimé :
+Me Kristian DeJong
+Pour l’intervenante :
+L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] DORS/97-33.
+[2] [1986] 1 R.C.S. 678.
+[3] 2002 CAF 294.
+[4] 2004 TCC 799.

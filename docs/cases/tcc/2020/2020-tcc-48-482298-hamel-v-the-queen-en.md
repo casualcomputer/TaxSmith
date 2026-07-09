@@ -1,0 +1,271 @@
+---
+title: "Hamel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482298/index.do"
+last_modified: "2020-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 48"
+citation2: ""
+neutral_citation: "2020 TCC 48"
+decision_date: "2020-07-09"
+language: "en"
+item_id: "482298"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4585
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:08:46.560000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d695d999a74529c664c03c8b86c660820bbe396358c821133fa3ca98550b8d61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamel v. The Queen
+
+- Citation: 2020 TCC 48
+- Decision date: 2020-07-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4585, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-09
+Neutral citation
+2020 TCC 48
+File numbers
+2016-4459(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4459(IT)G
+BETWEEN:
+MICHEL HAMEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 28, 2020, at Montreal, Quebec
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the appellant:
+Stéphane Harvey
+Counsel for the respondent:
+Sara Jahanbakhsh
+JUDGMENT
+The appeal from the reassessments made pursuant to the Income Tax Act (the Act) for the 2007, 2008 and 2009 taxation years is dismissed with costs on the basis that:
+- the Minister correctly made the reassessments after the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act.
+- the Minister correctly included the amounts of $21,705, $74,000 and $33,000 in Mr. Hamel's income for the 2007, 2008 and 2009 taxation years, respectively.
+- the Minister correctly assessed penalties against Mr. Hamel under subsection 163(2) of the Act for the 2007, 2008 and 2009 taxation years.
+Signed at Ottawa, Canada, this 9th day of July 2020.
+"Johanne D'Auray"
+D'Auray J.
+Translation certified true
+on this 10th day of August 2020.
+François Brunet, Revisor
+Citation: 2020 TCC 48
+Date: 20200709
+Docket: 2016-4459(IT)G
+BETWEEN:
+MICHEL HAMEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+D'Auray J.
+I. Issues
+[1] The issues to be decided in this appeal are:
+a) Did the respondent establish that Mr. Hamel had made any misrepresentation that was attributable to neglect, carelessness or wilful default or had committed any fraud in filing his returns or in supplying any information under the Income Tax Act (the Act), allowing the Minister of National Revenue (the Minister) to assess the appellant, Mr. Hamel, after the expiry of the time limits provided for in the Act, with respect to the 2007, 2008 and 2009 taxation years?
+b) Did the Minister correctly add the amounts of $21,705, $74,000 and $33,000 in the computation of Mr. Hamel's income for the 2007, 2008 and 2009 taxation years, respectively, in accordance with subsection 5(1) of the Act (income from office) or, in the alternative, with paragraph 6(1)(a) of the Act (benefit received by virtue of an office), or subsection 9(1) as income from a business?
+c) Did the Minister correctly assess penalties against Mr. Hamel pursuant to subsection 163(2) of the Act in respect of income not reported by Mr. Hamel in the amounts of $21,705, $74,000 and $33,000 for the 2007, 2008 and 2009 taxation years, respectively?
+II. The facts
+[2] Mr. Hamel is a businessman. He began operating an investigation company in 1990, the Centre d'investigation West Island inc. ("CIWI"). Subsequently, Mr. Hamel founded the Montréal Experts en sinistre company. The evidence did not clearly establish when these companies ceased operations. Mr. Hamel testified that the companies ceased operations in 2002. However, the Québec Business Register states that the companies ceased to operate in 2010. The evidence submitted at the hearing indicated that CIWI was operating in 2007 and that its mail was sent to 105, rue St‑Paul in Montreal.
+[3] Mr. Hamel met Mr. Gélinas in 2000, and they have collaborated since that time. Mr. Gélinas's companies are clients of CIWI and Montréal Experts en sinistre. These companies conduct investigations for Mr. Gélinas's companies.
+[4] In 2006, Mr. Hamel collaborated with Mr. Gélinas in the Fondation Fer de Lance ("FFDL"). According to the FFDL agreement, i.e. the agreement for the provision of monetary capital (the "agreement"), FFDL defines itself [translation] "as a private non-profit organization, whose mission is to make all necessary efforts and use all available means to improve the quality of life for humankind on Earth. [1] "
+[5] Also according to the agreement, FFDL accomplishes its mission and achieves its objectives through specific financial engineering, using the technique of making monetary capital available to third parties in order to enable such engineering to be performed.
+[6] As described in the agreement, a Sponsor/Client ("sponsor") agrees to make a portion of its monetary capital available to the foundation in order to empower FFDL to perform separate financial engineering and achieve its goals.
+[7] When the agreement is signed, the sponsor gives a bank draft to Jean‑Pierre Desmarais, lawyer at Marchand, Melançon, Forget ("MMF"). The bank draft is issued and made out to the MMF law firm, in trust.
+[8] Under this agreement, the sponsor remains the owner of the amount of money remitted to FFDL, and FFDL undertakes to return this amount when the financial engineering is completed. FFDL also undertakes to remit significant monetary compensation to the sponsor for having made sums of money available to FFDL. These compensations are an integral part of the agreement.
+[9] In the brochure entitled [translation] "The foundation or thinking of a better future," which was submitted as evidence, Mr. Hamel was described as one of the founders of FFDL.
+[10] The brochure also provided an overview of its founders. It described Mr. Hamel's role in FFDL as follows:
+[translation]
+Michel Hamel is the Secretary Treasurer and Executive Director of the Foundation. He is also the President of CIWI, a company that has been providing business security and prevention services for several years. In both the private and public sectors, CIWI operates under a license issued by the Government of Québec's Ministry of public security. Michel Hamel has 35 years of experience in these types of activities in medium and large enterprises, including banking and insurance institutions.
+[11] Mr. Hamel admitted that he was a founding member and Executive Director of FFDL. However, he testified that he did not play an important role within FFDL and did not devote much time to FFDL activities.
+[12] With respect to Paul Gélinas, the FFDL brochure described him as the "Trustee Executor" of the foundation. Mr. Hamel testified that Mr. Gélinas was the FFDL's main contractor.
+[13] According to Mr. Hamel, FFDL had raised more than $11 million from sponsors. Mr. Hamel also indicated that FFDL never distributed funds for humanitarian purposes, because the financial engineering was never completed. Also, the sponsors never received compensation for having made funds available to FFDL.
+[14] During the years at issue, Mr. Gélinas transferred large sums of money from FFDL's bank accounts to his personal bank accounts.
+[15] Mr. Gélinas transferred $21,705 in 2007, $74,000 in 2008 and $33,000 in 2009 from his personal bank accounts to Mr. Hamel. The Minister added these amounts to the computation of Mr. Hamel's income pursuant to subsection (5)(1) of the Act, as income from an office and alternatively, in accordance with paragraph 6(1)(a) of the Act, as a benefit or as income from a business under subsection 9(1) of the Act.
+[16] According to Mr. Hamel, when he met Mr. Gélinas in 2000, Mr. Gélinas told him that he could not obtain credit cards because of his personal bankruptcy. Mr. Hamel believed it was important that Mr. Gélinas have access to credit cards.
+[17] Mr. Hamel authorized Mr. Gélinas to use some of his credit cards. He therefore authorized the financial institutions to issue additional credit cards in Mr. Gélinas's name. Three additional credit cards were issued in Mr. Gélinas's name, with different credit card numbers from those on Mr. Hamel's credit cards, i.e.:
+- Visa Gold, Bank of Nova Scotia ("Visa Gold") with a $3,000 credit limit;
+- American Express, Tiger Woods, ("Amex Express") with a $15,000 credit limit;
+- American Express Gold ("Amex Gold"), with no credit limit.
+[18] Mr. Hamel testified that under a business arrangement between him and Mr. Gélinas, Mr. Gélinas agreed to transfer money to him for the use of the credit cards. Mr. Hamel said he had to protect himself because he was the one making the payments on the credit cards used by Mr. Gélinas. Therefore, the amounts transferred by Mr. Gélinas did not constitute a source of taxable income.
+[19] Mr. Hamel explained the business arrangement he had entered into with Mr. Gélinas regarding money transfers for the payment of credit card debts had been in effect since 2000, long before FFDL was incorporated. This arrangement therefore had nothing to do with FFDL activities.
+[20] However, Mr. Hamel did not file any credit card statements for the years 2000 to 2006 as evidence in support of his testimony. The respondent only filed as evidence credit card statements for the years at issue: 2007, 2008 and 2009, i.e. the Visa Gold and Amex Gold credit card statements.
+[21] Mr. Hamel testified that pursuant to the business arrangement between him and Mr. Gélinas, Mr. Gélinas agreed to pay him annually three times the amount of the credit card limit.
+[22] Mr. Hamel explained by way of an example that for a Visa Gold with a $3,000 limit, Mr. Gélinas had to give him $9,000 annually to cover Mr. Gélinas's expenses on this card. According to Mr. Hamel, this method enabled him to pay the credit card debts related to Mr. Gélinas's expenses.
+[23] Mr. Hamel testified that prior to the years at issue, he cancelled the additional Amex Express credit card in Mr. Gélinas's name because Mr. Gélinas had not honoured their business arrangement regarding periodic payments. Therefore, during the years at issue, Mr. Gélinas was only an additional cardholder on the Visa Gold and Amex Gold accounts.
+[24] Mr. Hamel said he had to pay a balance of $65,000 [2] on Mr. Gélinas's Amex Gold credit card. Mr. Hamel reportedly paid this balance in 2012 to cover the expenses incurred by Mr. Gélinas, who had not paid for them.
+[25] At the hearing, Mr. Hamel filed as evidence a promissory note for $65,000 [3] dated November 30, 2012. According to Mr. Hamel, this note was signed by Mr. Gélinas and was issued to Mr. Hamel as acknowledgment of debt. According to Mr. Hamel, if the amounts paid constituted income for the services he rendered to FFDL, the acknowledgment of debt would not have been necessary.
+[26] Mr. Hamel argued that the amounts transferred by Mr. Gélinas were for the use of his credit cards pursuant to their business arrangement. Mr. Hamel contended that these amounts had absolutely nothing to do with FFDL. Consequently, these amounts should not be included in his income during the years at issue as a source of income for services rendered to FFDL.
+[27] Mr. Hamel also submitted that if the amounts had in fact been paid for the office he held within FFDL, these amounts would have been paid by FFDL and not from Mr. Gélinas's personal account. He argued that there was no evidence that these amounts paid by Mr. Gélinas from his personal account came from FFDL. In addition, the evidence shows that Mr. Hamel also transferred $25,795 in 2007 and $2,000 in 2009 to Mr. Gélinas. According to Mr. Hamel, this was a system of reciprocal advances between him and Mr. Gélinas. However, Mr. Hamel did not explain why he transferred these two amounts to Mr. Gélinas.
+[28] Also, Mr. Hamel argued that FFDL would not have paid him such amounts, given the role he played in FFDL. His role was limited to signing a few documents from FFDL.
+[29] The respondent, for her part, argued that Mr. Hamel's version did not hold water and that I must ignore Mr. Hamel's testimony. She contended that Mr. Hamel was not a credible witness.
+[30] The respondent submitted that the evidence showed that Mr. Hamel played an important role in FFDL. The amounts transferred from Mr. Gélinas's personal account to Mr. Hamel were not payments for the use of Mr. Hamel's credit cards, because the facts revealed by the documentary evidence are not consistent with Mr. Hamel's testimony.
+III. Analysis
+[31] In order to answer the questions at issue, I will first analyze the facts.
+[32] Several documents filed as evidence by the respondent referred to Mr. Hamel's role in FFDL.
+[33] These documents clearly showed that Mr. Hamel was not only a founding member of FFDL, but also acted as the Secretary Treasurer and Executive Director of FFDL.
+[34] In addition, Mr. Hamel's signature as Secretary Treasurer was on the FFDL correspondence and documents. For example, Mr. Hamel signed the Agreement to Provide Monetary Capital in which a sponsor, Mr. Auger, made funds available to FFDL. Mr. Hamel's signature was also on a document attached to Mr. Auger's downpayment entitled [translation] "Irrevocable unconditional permanent and confidential sponsor/client instructions #FFDL‑SA/0308/ "III&PO." In this regard, the last paragraph of this document stated that [translation] "Michel Hamel, who intervenes for the purposes hereof in order to confirm his full acceptance to act in accordance with the said instructions as written here and above." Mr. Hamel did not remember his meeting with Mr. Auger. That said, Mr. Hamel admitted that the signature on these documents was his.
+[35] Mr. Hamel's signature was also on the honorary certificate that FFDL gave to a sponsor for having made funds available to it.
+[36] Furthermore, Mr. Hamel signed a formal bilateral letter of commitment in 2007, in which he undertook to incorporate a subsidiary of FFDL in the Turks and Caicos Islands and to act as nominee and manage the foundation as his mandate required:
+[translation] Formal Bilateral Letter of Commitment
+#MH/FFDLTC/0207
+I, the undersigned, Michel Hamel (MH), passport #: . . ., one of the Founding Members and Secretary/Treasurer of the Board of Directors of Fondation Fer de Lance (FFDL), a Canadian non-profit corporation, have accepted the mandate of the Board of Directors and the Founding Members of the said Foundation pursuant to a resolution dated January 29, 2007, to incorporate a Foundation in the Turks and Caicos Islands in the British West Indies, in order to accomplish FFDL's mission and achieve its goals. The said new corporation is to be called Fer De lance Turks and Caicos Foundation (FFDLT&C), held for and in the name of FFDL by MH and act as a subsidiary wholly owned by FFDL.
+This mandate authorizes me to hold such a new foundation in the Turks and Caicos Islands, alone, as "Beneficial Owner", Chairman of the Board and Secretary Treasurer, for the purpose of simplifying its incorporation with respect to Turks and Caicos Islands incorporation requirements, all of the foregoing based entirely on the fact that I act as nominee for and on behalf of FFDL and that FFDLT&C is in fact a subsidiary wholly owned by FFDL.
+Given that my acceptance of such a mandate is based on my personal and formal commitment to administer and manage such a Foundation in accordance with the By Laws and the decisions of the Founding Members and/or the Board of Directors of the Canadian Foundation, as the case requires, I hereby confirm by the FORMAL LETTER OF COMMITMENT #MH/FFDLTC/0207 that I agree to comply with such management and administration of the said Foundation which, in the eyes of Turks and Caicos Islands authorities, will not be officially owned only by me, but will be treated here as a subsidiary wholly owned by FFDL as well as on the consolidated balance sheet of FFDL.
+Also, in consideration and by virtue of my commitment stipulated hereinabove, as long as I honour it, or until a new decision amending the Foundation's ownership as "Beneficial Owner" in the Turks and Caicos Islands FGFDLT&C, FFDL, of which I am also a member, will be responsible in all respects for any decision, amendment, change and/or other element related to its administration and management, during my term as "Beneficial Owner" in the Turks and Caicos Islands.
+[Emphasis added.]
+[37] The evidence also showed that FFDL paid for expenses incurred by Mr. Hamel. Mr. Hamel admitted that, on more than one occasion, he had travelled internationally for matters relating to FFDL.
+[38] Based on the evidence, I am of the view that Mr. Hamel played an important role in FFDL.
+[39] Mr. Hamel testified that he paid the Visa Gold and Amex Gold credit card balances for his own expenses and for expenses incurred by Mr. Gélinas. Mr. Hamel testified that this was why Mr. Gélinas periodically transferred money to him to guarantee payment of the credit card balances. However, the evidence showed that Mr. Hamel did not pay for any of the expenses incurred by Mr. Gélinas on the additional credit cards during the years at issue [4] .
+[40] In this regard, the respondent filed as evidence all of Mr. Hamel's credit card statements for the years at issue. The respondent established that Mr. Gélinas was the one who had made most of the payments on the credit cards that Mr. Hamel had provided to him. However, some payments were made by FFDL.
+[41] In this regard, the respondent submitted as evidence the cheques that Mr. Gélinas made out to Amex Gold and Visa Gold, confirming the payments that Mr. Gélinas had made in respect of the additional credit cards provided by Mr. Hamel. The respondent also filed as evidence the statements from Mr. Gélinas's bank account showing withdrawals equivalent to the amount of the cheques, which confirmed the payments.
+[42] Therefore, based on the documentary evidence filed by the respondent, Mr. Hamel's claim that he received money from Mr. Gélinas during the years at issue in order to pay and guarantee the expenses incurred on the additional credit cards by Mr. Gélinas simply did not hold up.
+[43] Throughout the hearing, Mr. Hamel tried to downplay his role at FDDL. According to Mr. Hamel, FFDL's main contractor was Mr. Gélinas. Mr. Hamel testified that he was not able to call Mr. Gélinas as a witness because he was in England during the hearing and unable to testify for health reasons.
+[44] The evidence showed that pursuant to a judgment of the Court of Québec [5] , Mr. Gélinas was sentenced to five years' imprisonment for having violated the Quebec Securities Act with respect to FFDL's activities. A warrant was issued for Mr. Gélinas's arrest.
+Could the Minister make reassessments after the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act?
+[45] The first issue is whether the Minister could make a reassessment after the normal reassessment period.
+[46] According to subparagraph 152(4)(a)(i) of the Act, the Minister may make a reassessment after the normal reassessment period, if she determines that the taxpayer has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return. This subparagraph reads as follows:
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer's normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[47] I am of the opinion that the following facts warrant the reassessments that the Minister made against Mr. Hamel after the normal assessment period for the 2007, 2008 and 2009 taxation years:
+- The amounts that Mr. Hamel reported for the years at issue were low. Mr. Hamel reported income of $14,328, $13,120, and $11,392 for the 2007, 2008 and 2009 taxation years, respectively. The unreported income, i.e. the amounts that Mr. Gélinas transferred to Mr. Hamel, was $21,705, $74,000 and $33,000. There was a significant discrepancy between the reported and unreported income.
+- Mr. Hamel plays an important role within FFDL. The documents filed as evidence confirmed this. It follows that he is compensated for the office and the role he occupies and the commitments he has made to FFDL.
+- The amounts paid to Mr. Hamel are remitted periodically, which suggests that he receives remuneration for the office he occupies within FFDL.
+- Mr. Hamel's version regarding the amounts that he received periodically from Mr. Gélinas was not credible. Furthermore, Mr. Hamel's version was contradicted by the evidence filed by the respondent.
+[48] Mr. Justice Pelletier, for a unanimous Federal Court of Appeal in Lacroix v Canada [6] , wrote that the Minister had discharged her burden of proof on her if the Court was satisfied that the taxpayer earned unreported income and did not provide a credible explanation for the discrepancy between his or her reported income and his or her net worth. And so it is in this case.
+[49] I am therefore of the view that the Minister has proved that she had grounds to reassess Mr. Hamel after the normal assessment period.
+Were the amounts of $21,705, $74,000 and $33,000 for the 2007, 2008 and 2009 taxation years, respectively, correctly included in Mr. Hamel's income as income from an office or a benefit received by virtue of an office or income from a business?
+[50] The second issue to be determined is whether the Minister correctly added the amounts of $21,705, $74,000 and $33,000 in the computation of Mr. Hamel's income during the 2007, 2008 and 2009 taxation years, respectively.
+[51] The following provisions of the Act apply in this case:
+5(1) Subject to this Part, a taxpayer's income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+6(1)(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer, or by a person who does not deal at arm's length with the taxpayer, in the year in respect of, in the course of, or by virtue of the taxpayer's office or employment,
+9(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+[52] Once the Minister has established that a taxpayer has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing his returns, the taxpayer must establish that the Minister incorrectly included the said amounts in the computation of the taxpayer's income.
+[53] In this case, Mr. Hamel admitted that he periodically received money from Mr. Gélinas during the 2007, 2008 and 2009 taxation years. He also admitted that he held the positions of Secretary Treasurer and Executive Director of FFDL. Mr. Hamel did not dispute that he was a member of the FFDL board of directors. It is therefore not in dispute that he held an office as defined in subsection 248(1) of the Act.
+[54] Mr. Hamel's testimony that he paid Mr. Gélinas's credit card balances was contradicted by the evidence filed by the respondent. Also, Mr. Hamel indicated that he required Mr. Gélinas to send him three times the amount of the available limit every year. The Visa Gold credit card had a $3,000 credit limit. The amounts transferred therefore should have totalled $9,000 at some point in time, which was not the case according to the documentary evidence filed by the respondent. Furthermore, Mr. Hamel did not file any documents corroborating his testimony in this regard.
+[55] During argument, Mr. Hamel argued that there had been several money transfers between him and Mr. Gélinas and that these amounts did not constitute income. The difficulty with this argument is that Mr. Hamel did not explain the purpose of the money transfers he received from Mr. Gélinas. They were certainly not for Mr. Hamel to pay Mr. Gélinas's credit card balances, because the evidence showed that Mr. Hamel never paid Mr. Gélinas's credit card balances. Nor did Mr. Hamel explain why he transferred $25,795 in 2007 and $2,000 in 2008 to Mr. Gélinas.
+[56] Stéphane Beauregard, CPA at the Canada Revenue Agency, is the officer responsible for auditing the FFDL files, including Mr. Gélinas's files and those of some of the founding members of FFDL. He obtained documents from the Autorité des marchés financiers ("AMF"), which was investigating the actions of FFDL, Mr. Gélinas, Mr. Hamel, Mr. Duguay and Mr. Nadeau. Mr. Beauregard also sent letters of requirement to financial institutions for access to the bank account statements and credit card statements at issue in this case.
+[57] Mr. Beauregard explained that Mr. Gélinas had a great deal of leeway with regard to the sponsors' money deposited in trust with Mr. Desmarais.
+[58] Mr. Beauregard testified that while auditing the files of FFDL and Mr. Gélinas, he realized that amounts in the FFDL trust account were transferred to Mr. Gélinas's personal account.
+[59] Mr. Beauregard noticed that Mr. Gélinas paid Réjean Duguay and Denis Nadeau from his personal bank account for services they had rendered to FFDL. Mr. Duguay and Mr. Nadeau were involved in recruiting sponsors. He noted that money was also periodically transferred to Mr. Hamel. At this point, he began auditing Mr. Hamel. Mr. Beauregard noted that, according to the documents obtained from the AMF, Mr. Hamel played an important role and held an office at FFDL.
+[60] According to Mr. Beauregard, the monies that Mr. Gélinas transferred to Mr. Hamel constituted remuneration for services that he had rendered as Secretary Treasurer and Executive Director or as a benefit received in respect of the office of Secretary Treasurer of FFDL. According to Mr. Beauregard, Mr. Gélinas's modus operandi was to use his personal account to pay people who provided services to FFDL. The judgment of the Court of Québec in AMF v FFDL, Réjean Duguay, Paul Gélinas, Michel Hamel and Denis Nadeau [7] confirmed that Mr. Hamel received a total of $151,900 from Mr. Gélinas's personal accounts. In this regard, Justice Délisle wrote the following:
+[translation]
+[87] The evidence submitted shows that Michel Hamel, in his capacity as director of FFDL, was aware of the company's investment activities and that he authorized these activities or allowed them to take place.
+[88] As Secretary Treasurer and Executive Director of FFDL, in December 2006, Michel Hamel opened four FFDL accounts at Scotiabank in Hawkesbury, the city where he resided. He described himself as one of the signing authorities on these accounts.
+[89] In January 2007, he opened three other FFDL accounts at the same bank. He described himself as one of the signatories authorized to provide instructions, confirmations and approvals provided that they were made by means of an attestation signed by both himself and the other signatory. Two of these accounts were used to receive sponsor investments from MMF's trust account.
+[90] At the end of December 2007, Michel Hamel and Paul Gélinas signed a $420,000 loan agreement between FFDL and FFDL Turks & Caicos. In 2009, he asked Charles Leclair of Scotiabank to send to Accountant Richard Dalcourt, FFDL's external auditor, a copy of two overseas transfer orders totalling $1.38 million.
+[91] In March 2008, as a representative of FFDL, he signed an agreement between FFDL and Sylvain Auger pursuant to which Mr. Auger undertook to invest $50,000.
+[92] In addition, three letters from either Paul Gélinas or Jean‑Pierre Desmarais, addressed to one of them or to the investors, discussed funds made available, financial engineering or its evolution. Michel Hamel is copied on the letters.
+[93] Also, five sponsors received an honorary certificate from FFDL signed by Michel Hamel. This certificate translation "certifies that its holder is part of a select group of private honorary sponsors chosen by FFDL, who, by making funds available, contribute quite remarkably to the accomplishment of the mission and the achievement of the Foundation's humanitarian objectives."
+[94] Lastly, between February 2007 and June 2010, Michel Hamel received a total of $151,900 from Paul Gélinas's personal accounts.
+[95] In his position at FFDL and by the actions he had taken, Michel Hamel could not be unaware that FFDL was distributing investment contracts without a certified prospectus.
+. . .
+[61] Mr. Hamel argued that the auditor, Mr. Beauregard, relied solely on the judgment of Justice Délisle of the Court of Québec to make the reassessments against him. That is false. When the assessment was made in respect of Mr. Hamel on October 27, 2014, Justice Délisle had not delivered his judgment, which was rendered on March 15, 2016.
+[62] There were two versions. Mr. Hamel's version was that Mr. Gélinas transferred the amounts to his bank account to enable him to pay for the expenses incurred on the additional credit cards by Mr. Gélinas. The respondent's version was that the amounts transferred by Mr. Gélinas could only be remuneration or a benefit received by Mr. Hamel for the services he rendered to FFDL as a director.
+[63] Based on the evidence, Mr. Hamel's version, that the amounts were transferred by Mr. Gélinas for payment of his credit card balances, does not hold up. In addition, Mr. Hamel was not a credible witness. On cross-examination, he admitted that he had signed the documents, but did not remember seeing them. Throughout his testimony, he attempted to downplay the role he played at FFDL. Mr. Hamel filed only three documents at the hearing. These three documents had no probative value.
+[64] Mr. Hamel is an experienced businessman. He would not have accepted the duties of Secretary Treasurer, Executive Director and nominee for the FFDL subsidiary in the Turks and Caicos Islands without any remuneration. As a director of FFDL, he held an office within the meaning of section 248(1) of the Act. Therefore, pursuant to subsection 5(1) of the Act, the Minister correctly included the amounts of $21,705, $74,000 and $33,000 for the 2007, 2008 and 2009 taxation years, respectively. I therefore need not consider whether paragraph 6(1)(a) and subsection 9(1) of the Act apply.
+Did the minister correctly assess penalties under subsection 163(2) of the Act?
+[65] Subsection 163(2) of the Act reads as follows:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[66] Subsection 163(3) of the Act provides that the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[67] Therefore, the respondent must establish that:
+- Mr. Hamel made false statements in his tax returns;
+- Mr. Hamel knowingly made these false statements under circumstances amounting to gross negligence.
+[68] In Wynter v Canada [8] , Justice Rennie explained that a taxpayer acts "knowingly," not only when the taxpayer in effect intends to make a false statement, but also when the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids the truth. In these circumstances, the doctrine of wilful blindness imputes knowledge to the taxpayer:
+[13] A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: R. v. Briscoe, 2010 SCC 13 at paragraphs 23 and 24, [2010] 1 S.C.R. 411 (Briscoe); Sansregret at paragraph 24. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: Briscoe at paragraph 21. Wilful blindness is the doctrine or mechanism by which the knowledge requirement under subsection 163(2) is met.
+[69] In the analysis of the first test, that is, the person who knowingly makes a false statement, the test is subjective. The Court must analyze the taxpayer's specific circumstances.
+[70] The respondent argued that during the years at issue, Mr. Hamel played an important role at FFDL. His signature was on the FFDL documents. Also, Mr. Gélinas periodically paid amounts to Mr. Hamel. This is akin to income for services rendered. Mr. Hamel reported income of $14,328 in 2007, $13,120 in 2008 and $11,392 in 2009. These amounts are very low. Also, the discrepancies are significant. The unreported income was higher than the reported income. Mr. Hamel is a businessman with more than 35 years of experience in conducting investigations. He knew or ought to have known that the amounts he received for his office at FFDL were to be included in his income.
+[71] I am of the view that the respondent has established that Mr. Hamel knew or ought to have known that he had to report the amounts received from Mr. Gélinas for the services that he rendered to FFDL and that these amounts constituted remuneration. He therefore knowingly failed to include the amounts of $21,705, $74,000 and $33,000 in his income for the 2007, 2008 and 2009 taxation years, respectively, knowing that the amounts transferred by Mr. Gélinas were not for payment of Mr. Gélinas's credit card balances.
+[72] Furthermore, I am of the view that Mr. Hamel also made false statements under circumstances amounting to gross negligence. As Justice Rennie of the Federal Court of Appeal stated in Wynter, there is a distinction between the "gross negligence" test and the "wilful blindness" test. Gross negligence arises where the taxpayer's conduct is found to fall markedly below what would be expected of a reasonable taxpayer. The facts must therefore be reviewed objectively without regard to the taxpayer's personal characteristics.
+[73] The leading authority on what constitutes gross negligence within the meaning of subsection 163(2) of the Act is a Federal Court of Appeal case, Venne v. The Queen [9] . Justice Strayer described what constitutes gross negligence in the following terms:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[74] I am of the view that Mr. Hamel made false statements in his tax returns amounting to gross negligence. The evidence shows that Mr. Hamel's conduct falls markedly below what would be expected of a reasonable taxpayer. Mr. Hamel showed indifference as to whether the Act was complied with or not. The sole aim of Mr. Hamel's testimony was to downplay his role at FFDL. Also, his testimony was contradicted by the documentary evidence submitted by the respondent regarding the amounts that Mr. Gélinas transferred to Mr. Hamel's bank account.
+[75] Mr. Hamel's appeal relating to the 2007, 2008 and 2009 taxation years is dismissed.
+[76] Based on the facts, the Minister correctly made the reassessments after the normal reassessment period pursuant to subparagraph 152(4)(a)(i) of the Act.
+[77] The Minister correctly included the amounts of $21,705, $74,000 and $33,000 in Mr. Hamel's income for the 2007, 2008 and 2009 taxation years, respectively.
+[78] The Minister correctly assessed penalties against Mr. Hamel under subsection 163(2) of the Act for the 2007, 2008 and 2009 taxation years.
+[79] The appeal is dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 9th day of July 2020.
+"Johanne D'Auray"
+D'Auray J.
+Translation certified true
+on this 10th day of August 2020.
+François Brunet, Revisor
+CITATION:
+2020 TCC 48
+COURT FILE NO.:
+2016-4459(IT)G
+STYLE OF CAUSE:
+MICHEL HAMEL v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 28, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT:
+July 9, 2020
+APPEARANCES:
+Counsel for the appellant:
+Stéphane Harvey
+Counsel for the respondent:
+Sara Jahanbakhsh
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Stéphane Harvey
+Firm:
+Harvey, Jean Avocats
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit I-2.
+[2] See exhibits A-3 and A-4.
+[3] See Exhibit A-1.
+[4] However, there was a $70,000 amount for which the auditor was unable to determine who had made the payment.
+[5] Autorité des marchés financiers v Fondation Fer de Lance, 2016 QCCQ 1693.
+[6] Lacroix v Canada, 2008 FCA 241.
+[7] AMF v FFDL, above, note 5.
+[8] Wynter v Canada, 2017 FCA 195.
+[9] Venne v The Queen, 2017 FCA 195.

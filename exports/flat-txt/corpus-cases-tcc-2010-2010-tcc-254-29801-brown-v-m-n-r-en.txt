@@ -1,0 +1,130 @@
+Title: Brown v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29801/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-254-29801-brown-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-05-07
+
+# Brown v. M.N.R.
+
+- Citation: 2010 TCC 254
+- Decision date: 2010-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6607, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-07
+Neutral citation
+2010 TCC 254
+File numbers
+2009-3161(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-3161(EI)
+BETWEEN:
+GLENN BROWN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 30, 2010 at St. John’s, Newfoundland & Labrador
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Leah Mazerolle
+Counsel for the Respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to a decision of the Minister of National Revenue under the Employment Insurance Act that Glenn Brown was not engaged in insurable employment is dismissed, and the decision is confirmed.
+Signed at Toronto, Ontario this 7th day of May 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 254
+Date: 20100507
+Docket: 2009-3161(EI)
+BETWEEN:
+GLENN BROWN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] In this appeal under the Employment Insurance Act, Glenn Brown appeals a ruling that he was not engaged in insurable employment for the periods from January 29, 2007 to May 5, 2007 and from January 21, 2008 to May 10, 2008. The question to be determined is whether the appellant was dealing at arm’s length with his employer during those periods.
+Background
+[2] Since the 1980s, the appellant has worked as a tax return preparer under an H&R Block franchise in Bonavista, Newfoundland.
+[3] The ownership of the franchise changed several times, but for many years the appellant was an employee and minority shareholder of a corporation that owned the franchise.
+[4] In the year prior to the period at issue, the appellant owned the franchise himself, and operated the business as a sole proprietorship, working full time during tax season and having one or two part-time employees.
+[5] Around January 2007, the appellant asked an individual with whom he had a business relationship, Mrs. Lynette Way, if she wanted to purchase a two-thirds ownership interest in the business for $1. She accepted the offer.
+[6] Since that time, the business has been operated by Bonavista Holdings Ltd. (“Bonavista”). The shares of that company are owned two-thirds by Mrs. Way and one-third by the appellant.
+[7] Mrs. Way and the appellant are not related.
+[8] The H&R Block business is seasonal, with most of the business being done between January and May. For many years, the appellant has been entitled to employment insurance benefits during the off season.
+[9] In reference to the appellant’s employment with Bonavista, however, the Minister of National Revenue took the view that the employment was not insurable.
+Analysis
+[10] The respondent submits that the appellant’s employment with Bonavista is deemed not to be insurable because the appellant was not dealing at arm’s length with the corporation.
+[11] The deeming rule is found in s. 5(2)(i) of the Employment Insurance Act, which provides:
+5. (2) Insurable employment does not include
+[…]
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[12] The arm’s length determination is to be made in accordance with the Income Tax Act. The relevant provisions are s. 5(3) of the Employment Insurance Act and s. 251(1) of the Income Tax Act, which are reproduced below.
+5 (3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+251 (1) Arm's length -- For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+(b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition "trust" in subsection 108(1)) are deemed not to deal with each other at arm's length if the taxpayer, or any person not dealing at arm's length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) where paragraph (b) does not apply, it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm's length.
+[13] In reference to s. 5(3) above, paragraph (b) is not applicable because the employer and employee are not related in this case.
+[14] In determining whether there is an arm’s length relationship, the applicable principle was described by Rothstein J. in The Queen v. McLarty, 2008 SCC 26; 2008 DTC 6354 (SCC), at paragraph 62:
+62 The Canada Revenue Agency Income Tax Interpretation Bulletin IT-419R2 "Meaning of Arm's Length" (June 8, 2004) sets out an approach to determine whether the parties are dealing at arm's length. Each case will depend on its own facts. However, there are some useful criteria that have been developed and accepted by the courts: see for example Peter Cundill & Associates Ltd. v. R., [1991] 1 C.T.C. 197 (Fed. T.D.), aff'd [1991] 2 C.T.C. 221 (Fed. C.A.). The Bulletin provides:
+22. . . . By providing general criteria to determine whether there is an arm's length relationship between unrelated persons for a given transaction, it must be recognized that all-encompassing guidelines to cover every situation cannot be supplied. Each particular transaction or series of transactions must be examined on its own merits. The following paragraphs set forth the CRA's general guidelines with some specific comments about certain relationships.
+23. The following criteria have generally been used by the courts in determining whether parties to a transaction are not dealing at "arm's length":
+· was there a common mind which directs the bargaining for both parties to a transaction;
+· were the parties to a transaction acting in concert without separate interests; and
+· was there "de facto" control.
+[15] The case for the appellant depends in large part on his own testimony and that of Mrs. Way. I did not find either witness to be convincing. The appellant’s testimony is obviously self-interested and it seemed to be less than forthright. I note, for example, that he did not acknowledge that the employment insurance rules played a role in his deciding to offer shares to Mrs. Way. As for Mrs. Way, her answers were quite brief and did not satisfy me that her role was other than as an accommodation party. I also note that no one else was called as a witness, such as the part-time employees of Bonavista.
+[16] The conclusion that I have reached is that the appellant and Bonavista acted in concert without separate interests. This was not an arm’s length relationship.
+[17] First, there was no indication that Mrs. Way had any expectation of earning income from Bonavista other than a $500 director’s fee. She paid $1 for her shares and it appears that the corporation was operated on a break-even basis.
+[18] During the period at issue, Mrs. Way was employed as the manager of the Sears outlet store in Bonavista, which operates out of the same building as the H&R Block business. Mrs. Way has been employed by the owners of the Sears store for over 30 years. The appellant bought the Sears business in 2005 and has operated it since then sometimes as a sole proprietorship and sometimes through a wholly-owned corporation, Omega Enterprises Inc. (“Omega”).
+[19] Mrs. Way testified that she agreed to buy shares in Bonavista so that she would be able to take over one of the part-time jobs as a tax return preparer in the event that the Sears store was shut down. I find this explanation to be rather far-fetched, but even if it is true, it is consistent with Mrs. Way being content to let the appellant run Bonavista as a break-even operation during the relevant period.
+[20] Mrs. Way testified that she oversaw the operations at Bonavista. But there was no indication that she had any detailed knowledge of its affairs. For example, there is no indication that she did due diligence when she agreed to a pay raise for the appellant. Also, in cross-examination Mrs. Way admitted that she was not aware that in 2008 Bonavista paid only half of the rent owing on the H&R Block premises. The rent was owing to Omega, a corporation wholly-owned by the appellant.
+[21] Second, the evidence reveals several instances in which the appellant acted in concert with Bonavista. The appellant also testified in cross-examination that he was not aware that Bonavista had paid only half the 2008 rent. In addition, on two occasions the appellant or Omega lent funds to Bonavista on a temporary basis without interest. The appellant testified that the loans were needed for temporary cash flow purposes for about 6 weeks because Bonavista does not receive payments from the franchisor until March. However, the loans were not paid back in March. They were actually paid back in May and June. The appellant did not have a satisfactory explanation for this.
+[22] Third, under the H&R Block franchise agreement, the business must be open in the off-season for a few hours each week. The appellant was not paid by Bonavista for this work.
+[23] It is clear on the evidence that the appellant and Bonavista acted in concert without separate interests in the relevant period. The Minister was correct to rule that the employment was not insurable.
+[24] The appeal will be dismissed.
+Signed at Toronto, Ontario this 7th day of May 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 254
+COURT FILE NO.: 2009-3161(EI)
+STYLE OF CAUSE: GLENN BROWN and THE
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: St. John’s, Newfoundland & Labrador
+DATE OF HEARING: April 30, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: May 7, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Leah Mazerolle
+Counsel for the Respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Leah Mazerolle
+Firm: Gittens & Associates
+St. John’s, Newfoundland & Labrador
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

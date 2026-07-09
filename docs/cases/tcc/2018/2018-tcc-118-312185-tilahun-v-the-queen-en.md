@@ -1,0 +1,145 @@
+---
+title: "Tilahun v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/312185/index.do"
+last_modified: "2018-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 118"
+citation2: ""
+neutral_citation: "2018 TCC 118"
+decision_date: "2018-06-29"
+language: "en"
+item_id: "312185"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5093
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:44:23.999000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "496aa9a89337ac7cc3dfb1a4e00e360a1f9e5257b2118098243714699ee2950e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tilahun v. The Queen
+
+- Citation: 2018 TCC 118
+- Decision date: 2018-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5093, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tilahun v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-06-29
+Neutral citation
+2018 TCC 118
+File numbers
+2016-3242(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3242(IT)I
+BETWEEN:
+NEBIYOU TILAHUN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 13, 2018, at Toronto, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Jagama Gobena
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+The appeal of the reassessments raised March 6, 2014 under the Income Tax Act (Canada) for the Appellant’s 2010, 2011 and 2012 taxation years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that one-half of the Appellant’s agreed-upon cell phone expenses for each of the three taxation years was incurred for employment related purposes.
+Signed at Ottawa, Canada, this 29th day of June 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC118
+Date: 20180629
+Docket: 2016-3242(IT)I
+BETWEEN:
+NEBIYOU TILAHUN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] Mr. Tilahun, the Appellant, appeals (informal procedure) the March 6, 2014 reassessments under the Income Tax Act (Canada) (Act) of his 2010, 2011 and 2012 taxation years. Specifically he disputes the denials for these three years of claimed employment expenses in the respective amounts of $15,132, $16,141 and $15,615. Shortly after a break following commencement of the hearing the parties advised the Court that the issues in dispute had been narrowed to the following:
+- 2010 taxation year - motor vehicle expenses $11,000 and cell phone expenses $1,160;
+- 2011 taxation year - motor vehicle expenses $12,470.05 and cell phone expenses $806.35;
+- 2012 taxation year - motor vehicle expenses $12,002 and cell phone expenses $1,177.
+[2] The Appellant was the only witness. He testified through an interpreter. The evidence adduced was that at all material times he was employed by a construction company operating as Forma Con Construction, working in Toronto and environs, focusing on construction work with concrete. He was expected to transport himself to work sites daily. He lives in Toronto. His daily travel by personal motor vehicle during this three year period, according to daily entries in his three yearly logs, included frequent travel to Hamilton and return (logged as 167 km daily), also to Aurora and return (logged as 92 km daily) and infrequently to Whitby and return (logged as 94 km daily). Quite possibly there also were less frequent employment destinations to which he drove daily from and to his Toronto home. As for cell phone usage, the Appellant estimated that 50% of his total usage was work related - in particular for his employment boss calling him to advise what construction sites to report to, and related work matters.
+[3] The Appellant’s employer signed Canada Revenue Agency (CRA) form 2200 entitled “declaration of conditions of employment” for each of the three years in issue, filed with CRA. Each reported that a “fixed allowance” motor vehicle allowance (annotated by the employer as being “non-taxable”) had been paid to the Appellant in each of 2010 ($1,385), 2011 ($3,550) and 2012 ($3,810). The different amounts were calculated based on the destination (distinguishing amongst more distant and less distant destinations) rather than directly on the basis of per kilometres driven. Each form stated also that the employee was required to pay other expenses for which he/she did not receive any allowance or reimbursement. Those expenses were listed in the 2010 and 2012 T2200 forms as “travel, lunch, telephone and supplies”, and in the 2011 T2200 form only as “travel”.
+[4] The employer also in each of the three forms stated that the Appellant’s employment contract required him to pay his own expenses while carrying out the duties of employment, even if the employer provided an allowance or reimbursement in respect of some or all such expenses. Finally, checked-off as “yes” by the employer was whether the employee was normally required to travel to locations that were not the employer’s place of business or between different locations of the employer’s places of business, during the course of performing his employment duties.
+[5] The Appellant has appealed the reassessments on the basis that he should be permitted to deduct all his expenses in relation to his employment at different work locations, and that what his employer pays him as a motor vehicle allowance is not reasonably sufficient. The Respondent opposes.
+Analysis/Decision:
+[6] With respect to the Appellant’s claim for payment of motor vehicle travel expenses in relation to his work per paragraph 8(1)(h.1) of the Act, it appears to me that the subject travel is not personal travel, as opposed to what the Respondent has argued. The travel is not to a regular place of business but rather it is to various work sites of the construction company employer, within a fairly wide radius of Toronto. It is the same type of travel, i.e., travel “ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places”, as provided in subparagraphs 8(1)(h.1)(i) and (ii). Paragraph 8(1)(h.1) reads as follows:
+Motor vehicle travel expenses
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+[7] So is a paragraph 8(1)(h.1) deduction permitted? The answer is yes, unless either of subparagraphs (iii) and (iv) applies. Subparagraph (iv) would not, on the facts. Does subparagraph (iii) apply? The Appellant did receive an allowance (a “fixed allowance”) for motor vehicle expenses (fuel and maintenance). Was that allowance “because of paragraph 6(1)(b), not included in computing [the Appellant’s] income for the year”? Paragraph 6(1)(b) includes in income personal and living allowances except as therein listed. Subparagraph 6(1)(b)(vii.1) is on that list. It encompasses “reasonable allowances for the use of a motor vehicle received by an employee…for travelling in the performance of the duties of the …employment”. But here the allowance received was a so-called “fixed allowance”, not a “reasonable” allowance per subparagraph 6(1)(b)(x) which requires calculation of the allowance to be used solely the on number of kilometres for which the vehicle is used in connection with or in the course of the office or employment. Therefore, the Appellant’s allowance is not a subparagraph 6(1)(b)(vii.1) allowance and so is not excluded per paragraph 6(1)(b) from being included in computing the Appellant’s income. And consequently subparagraph 8(1)(h.1)(iii) does not apply, leading to the conclusion that the Appellant is not entitled to any paragraph 8(1)(h.1) deduction for motor vehicle expenses.
+[8] The Respondent cited Hogg v. Her Majesty, 2002 FCA 177 and Colavecchia v. Her Majesty, 2010 TCC 194 for the proposition that the travel in this case was personal travel. In my view, however, where the Appellant is driving from home to various construction sites and back without any suggestion that such sites are the employer’s place of business or a field office prompts me to prefer the Federal Court of Appeal decision of Dionne v. Her Majesty the Queen, 2006 FCA 79, endorsing Champaigne v. Canada, 2006 TCC 7 which appears to recognize somewhat similar travel as not personal. Also and in any event the Appellant’s driving accords with the description noted above in paragraph 8(1)(h.1), i.e., driving as “ordinarily required to carry on the duties of the … employment away from the employer’s place of business or in different places.” From that phrasing one may assume that Parliament does not consider such driving as personal travel.
+[9] Therefore the motor vehicle travel expenses claimed must be denied. They would be denied in any event, if and to the extent such travel between home and construction sites for employment purposes.
+[10] Turning to the cell phone charges, per the quite fair acknowledgment of Respondent’s counsel, based on testimony of the Appellant at the hearing, I am prepared to allow one-half of the agreed-upon amount of the claim for cell phone expenses for each of the 2010 and 2012 years. I will include the 2011 year for this as well. Taking the totality of evidence into consideration I accept that non-reference to cell phone expenses in the 2011 T2200, while included in each of the sandwiching years’ 2010 and 2012 T2200s, was unintended. In his testimony the Appellant did not except 2011 in his description of cell phone use for employment purposes.
+[11] Respondent counsel’s concession did not include indication of any statutory basis for allowing the claim. I believe it could fit under paragraph 8(1)(h) which deals with non - motor vehicle travel expenses. This predominantly includes lodging and meals expenses, but I do not see that it could not also include employment usage of a cell phone. The cell phone is needed for communication when an employee is travelling, i.e. is away from the employer’s place of business. Here, phone calls to and from the employer were made or taken by the Appellant on almost a daily basis to advise the Appellant what work site to travel to next for his employment work, and for other work-related communications.
+[12] Accordingly the appeal is allowed, without costs, for reconsideration and reassessment by the Minister on the basis that one-half of the annual total of the Appellant’s claimed cell phone expenses agreed to for each of the three years at issue was incurred for employment related purposes.
+Signed at Ottawa, Canada, this 29th day of June 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC118
+COURT FILE NO.:
+2016-3242(IT)I
+STYLE OF CAUSE:
+NEBIYOU TILAHUN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 13, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+June 29, 2018
+APPEARANCES:
+Agent for the Appellant:
+Jagama Gobena
+Counsel for the Respondent:
+Derek Edwards
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

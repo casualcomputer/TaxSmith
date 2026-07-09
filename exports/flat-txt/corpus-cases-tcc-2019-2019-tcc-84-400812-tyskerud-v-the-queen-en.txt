@@ -1,0 +1,246 @@
+Title: Tyskerud v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/400812/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-84-400812-tyskerud-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-04-25
+
+# Tyskerud v. The Queen
+
+- Citation: 2019 TCC 84
+- Decision date: 2019-04-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4362, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tyskerud v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-25
+Neutral citation
+2019 TCC 84
+File numbers
+2014-4386(GST)I, 2015-1210(IT)I, 2016-236(CPP)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-4386(GST)I
+BETWEEN:
+GRAYDON TYSKERUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-1210(IT)I
+AND BETWEEN:
+GRAYDON TYSKERUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2016-236(CPP)
+AND BETWEEN:
+GRAYDON TYSKERUD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on June 7, 2018, at Nanaimo, British Columbia Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jamie Hansen
+JUDGMENT
+IN ACCORDANCE WITH the Reasons for Judgment attached:
+the appeal from the reassessments made under the Income Tax Act, R.S.C. 1985, c.1, as amended (the “ITA”) for the Appellant’s 2003, 2004 and 2005 taxation years is dismissed and his shareholder benefits for those respective years are $33,845.26, $45,751.47 and $30,240.80;
+the appeal from the reassessment made under the ITA for the Appellant’s 2006 taxation year is allowed solely to the extent of the Appellant’s entitlement to additional business expenses in the amount of $2,709.00, such that, his unreported business income for that year is $45,397.00 and his unreported withdraw from a registered retirement savings plan is $4,973.00;
+the appeal from the reassessment made in respect of the goods and services tax (“GST”) pursuant to the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”), for the reporting period ending December 31, 2006, is dismissed;
+the appeals of penalties imposed by the Minister under section 163(2) of the ITA and all other penalties under the ITA, ETA or Canada Pension Plan, as the case may be, for late filing, insufficient remittances and/or failure to file, are dismissed;
+to the extent any appeal concerning the 2011 and 2012 taxation years is before this Court, in respect of the Appellant’s liability to pay tax on the amount of income declared and assessed as filed in such returns, such appeal is dismissed;
+for clarification, the appeal from the reassessment made under Canada Pension Plan has been quashed by virtue of it being res judicata by Judgment of Justice D’Arcy dated January 30, 2017 in dockets: 2014-4380(IT)I and 2015-850(IT)I; and
+one set of costs is awarded to the Respondent in accordance with the applicable Tariff, chargeable to docket: 2015-1210(IT)I.
+Signed at Toronto, Ontario, this 25th day of April 2019.
+“R.S. Bocock”
+Bocock J.
+Citation: 2019 TCC 84
+Date:20190425
+Docket: 2014-4386(GST)I
+BETWEEN:
+GRAYDON TYSKERUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2015-1210(IT)I
+BETWEEN:
+GRAYDON TYSKERUD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-236(CPP)
+BETWEEN:
+GRAYDON TYSKERUD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+INTRODUCTION
+a) assessments appealed
+[1] The Appellant, Mr. Tyskerud, initially appealed the following reassessments and penalties:
+(i) Income tax and shareholder benefit reassessments concerning taxation years 2003, 2004, 2005 and 2006 under the Income Tax Act, R.S.C. 1985, c.1, as amended (the “ITA”);
+(ii) Goods and services tax (“GST”) pursuant to the Excise Tax Act (“ETA”) for the reporting period ending December 31, 2006;
+(iii) Penalties imposed under subsection 163(2) of the ITA;
+(iv) Late filing penalties for failure to file installments under the ITA in (i) above and returns under the ETA relating to the assessed GST liability in (ii) above;
+(v) Contributions on self-employed earnings and penalties under the Canada Pension Plan (“CPP”).
+b) basis of appeals
+(i) liability for tax per se
+[2] The legal and factual bases for his personal tax appeals are best left to Mr. Tyskerud. A summary excerpt of his various appeals identifies his stated grounds for appeal:
+“Unlike Mr. Tyskerud, the incorporated company was never reassessed, fined or charged.”
+Income and benefits for the taxation year 2003, 2004, 2005 and 2006.
+The Tax Court of Canada has the original jurisdiction to make a legal determination as to income taxability and to make determinations as to rights to tax assessment or absence of rights of assessment involved.
+The Income Tax Act is specific as to the source of a taxpayer’s income: office, employment, business and property.
+It is undisputed that I did not receive income from an office, employment nor property.
+I have freewill to provide my labour to whomever I give pleasure to.
+In the year 2003, 2004, 2005 and 2006, I provided by labour to the incorporated company.
+On February 2,2012, CRA Investigator Roberta Groening testified that the incorporated company received its revenue from my labour.
+Furthermore, the CRA officer testified that the incorporated company made a profit on my labour, that the incorporated company had no employees nor did I receive income as an officer.
+CRA made a legal determination that I received business income and benefits.
+Since tests from numerous case law are clear on what a business is and what a business is not, if there is no expectation of profit and no commercial activity there is no business.
+For that reason I am not in business so I could not have received taxable income.
+And as my labour is the source there is neither taxable income nor benefits.
+Therefore, these amounts are not subject to tax, no misrepresentations were filed and no gross negligence penalties should apply.
+B. Income for taxation year 2011 and 2012 in the amount of $6,215.47 and $14,920.73
+1. Self-employment income would be entered on lines 135 to 143 and business income on line 122. Both subject to form schedule 8.
+3. Statement of income and expenses informing CRA that the source of income is labour.
+4. “No expectation of profit”, “Labour offered to incorporated company” and “income deriving from labour” is clearly displayed on the statement. As per authorities if there is no profit there is no business and labour is the source of income.
+5. On September 2, 2014 further representations were made to CRA the, “I was not in a “commercial activity” +as distinctly defined in the Excise Tax Act”.
+(ii) constitutional validity of assessment
+[3] Mr. Tyskerud filed with the Court and served on the Attorney-General for Canada (and other provincial attorneys-general) a notice of constitutional question on May 22, 2018, some 14 days before the hearing date. Again, although a bit formulaic, Mr. Tyskerud’s own words best encapsulate, without risk of omission or editorializing, his submissions:
+Does the Minister infringe upon an Individual’s Charter Rights, Sections 6(2)(b), 7 and 26 by opening a GST account, Excise Tax Act (ETA) Section 240, ETA Section 241(1.5), without providing Notice of intent, ETA Section 241 (1.3) without regard for the principle of legitimate expectations as a part of procedural fairness?
+Does the Minister, infringe upon an Individual’s Charter Rights, Section 6(2)(b), 7 and 26 by opening a GST account, without the Individual’s consent or knowledge, creating a trust relationship between the Individual and Her Majesty, requiring duties and responsibilities which are regulated by the Minister, a loss of the Individual’s status in the pursue of a livelihood, right to life, liberty and security with or without the well-intentioned majority?
+Does the Minister’s jurisdiction to determine whether a person is a “registrant” within the meaning of the ETA, registering and issuance of a GST number is an administrative step of no force and effect, if it infringe upon an Individual’s Charter Rights, Sections 6(2)(b), 7 and 26?
+Does the Minister infringe upon an Individual’s Charter Rights, Section 6(2)(b), 7 and 26 an abuse of the Individual’s Status by forcefully providing a Taxable Supply from a Commercial Activity when the Individual is carrying on business (personal endeavor or hobby) without the intent of the pursuit of profit or (without a reasonable expectation of profit) as defined by the ETA?
+Does the Minister’s second-guessing an Individual’s bona fide subjective intent not to profit, Income Tax Act (ITA) Section 3, infringe upon the Individual’s Charter Rights, Section 6(2)(b), 7 and 26?
+Does the Minister infringe upon an Individual’s Charter Rights, Section 6(2)(b), 7 and 26, by characterizing the Individual in a business for profit, ITA Section 3, contrary to the Individual’s subjective intent?
+[4] The factual assertions made by Mr. Tyskerud in support of his constitutional arguments are simple:
+The Minister made a legal determination that the Appellant was making a Taxable Supply.
+The Minister assessed the Appellant net GST in the amount of $5,937.44 on May 12, 2009 for the 2006 taxation year.
+The Minister opened an account and supplied the Appellant with a registration number, effective September 23, 2005.
+The Minister sent “Requirements To Pay” to numerous businesses, financial institutions, etc.
+To the best of the Appellant’s knowledge the Minister has received payments from the above “Requirements To Pay” demands.
+[5] Lastly, Mr. Tyskerud asks the Court to find that the related sections of the assessing and penalty provisions are unconstitutional and void of “force and effect” by “the exercise of inconsistency using the doctrine of severance of “reading down”.
+II. FACTS
+a) the beginning of the electrical services trade of Mr. Tyskerud
+[6] The number of years, reporting periods and/or penalties in these informal appeals are numerous; in contrast, the facts relating to Mr. Tyskerud’s activities are relatively understandable and very few were in dispute.
+[7] Mr. Tyskerud is an electrician, who completed his apprenticeship in 1981. Thereafter, he worked for two local electrical contractors until 1994. In 1994, he began providing electrical services directly to customers, operating as “Graydon Tysekrud Elite Services”. In September 2001, Mr. Tyskerud incorporated “Graydon Tyskerud Elite Services Incorporated” (“Elite Co”). Mr. Tyskerud was Elite Co’s sole shareholder, director and president. Elite provided electrical services, maintenance and repairs to customers on Vancouver Island.
+b) a change in approach
+[8] Mr. Tyskerud testified that he then gradually “restructured” his approach and “intention” to operate “commercially” a business and maintain an expectation to profit. At some point in 2005-2006, Mr. Tyskerud stopped operating through Elite Co. Instead, he issued in his own name reflective documents of services provided to his customers. Mr. Tyskerud ascribes this change to a decision to take a more “laid-back” approach. By 2006, this change included offering more services to non-profit organizations at reduced rates and a cessation of promotion for the electrical services business. In 2006, Mr. Tyskerud did not file an income tax or GST return. Therefore, he did not report any GST collectible or taxable services supplied. By contrast, he did issue reflective documents to customers for services throughout the year.
+c) evasion of income taxes
+[9] For the taxation years 2003 to 2005, inclusive, Mr. Tyskerud was charged with the criminal offence of income tax evasion. A lengthy trial proceeded. After 38 days of trial, British Columbia Provincial Court Justice McCarthy convicted Mr. Tyskerud of one count of willfully evading payment of taxes and three counts of making false and deceptive statements on his income tax returns.
+d) reassessments
+[10] After, and at least partially based upon such criminal proceedings and also an extensive audit, the Minister reassessed Mr. Tyskerud. Mr. Tyskerud was arbitrarily assessed for 2006 under Sub-section 152(7) of the ITA and related provisions of the ETA.
+e) methodology for assessments
+[11] The CRA’s witness, Ms. Groening, who was to be called by both parties, led evidence of her analysis of Mr. Tyskerud’s books and records and the related determinations of unreported income, GST collectible, penalties and late filing penalties.
+[12] As a reconstructed income and direct tax assessment, the underlying calculations were demonstrable, evident and clear. This is primarily because Mr. Tyskerud kept certain records of the value of the undertaking, although the comingling of his and his familiy’s personal and business affairs was extensive. These records included invoices (in Mr. Tyskerud’s view reflective notes or memoranda of “contracts of hire”) of amounts owing to Mr. Tyskerud. Unabashedly during the hearing, Mr. Tyskerud abandoned this and simply referred to the records as invoices. They were created after the supply of the related labour was delivered to reflect that “once they (customers) asked me to something that it was completed”. There was no evidence to show that the reflective memoranda were not paid. Similarly, reflective and approximate deposits coincident with the amounts within the reflective memoranda were made to Mr. Tyskerud’s personal bank account. This was revealed by a bank deposit analysis. Ms. Groening approached the reconciliation of gross revenue to likely unreported income by generally accounting for identifiable business expenses, personal cash outlays on account of business expenses and expenses for business paid by Elite Co. Such adjustments resulted in a reasonably assessed personal unreported income to business expenses of 1: 2 or a 33% gross margin.
+[13] In reply, Mr. Tyskerud’s testimony centred around his continued assertion that his revenue arose from a personal endeavour unrelated to business, property or other “undertaking of any kind” in the nature of trade.
+III. PRELIMINARY MATTERS
+a) argument and submissions
+[14] The hearing of the evidence for the appeal took the one full day of hearing assigned. An extra day requested by the Respondent was previously denied by the Court partially because of Mr. Tyskerud’s wish to have the appeal heard without further delay. All evidence was heard during the hearing day, but closing argument and submissions were not reached. By consent, the Court established a timetable for staggered written submissions. To assist Mr. Tyskerud, the Respondent commenced that process, to be followed 6 weeks later by Mr. Tyskerud and rebuttal, if any, by the Respondent 14 days after that. At Mr. Tyskerud’s request, the Court granted various extensions.
+[15] Despite this, Mr. Tyskerud indicated there were mitigating health issues for his failure to make submissions by the extended deadlines, although no evidence of such ailments was provided. Notwithstanding the final deadline outlined in an October 2018 Order, the Court granted a further extension until February 28, 2019, but stated that no further extensions would be granted and thereafter the Court would proceed to render its decision. On February 27, 2019, Mr. Tyskerud advised of additional family health issues (again with no supporting evidence), provided arguments as to why the Court, by not providing more time, was unfair. At that time, Mr. Tyskerud also cited his view of the Respondent’s prior delay. These written submissions, in turn explaining why no written submissions were possible because of Mr. Tyskerud’s ill health, were four pages long. Nothing therein related to the outstanding submissions which Mr. Tyskerud owed the Court. In any event, the Court waited another 30 days. Nothing more was received. These reasons for judgment are delivered by the Court after its wait for written submissions has well exceeded 6 months.
+b) concession by Respondent at hearing
+[16] At the hearing on June 8, 2018, the Respondent conceded that two amounts relating to HUB insurance premiums were documented business expenses and were not otherwise accounted for by the Minister in the determination of income. Therefore, Mr. Tyskerud is entitled to have deducted from his 2006 unreported income, the expense amounts of $579.00 and $2,130.00 comprising these insurance premiums. As such, the total amount of contested reassessed unreported income for 2006 is $45,398.00, exclusive of the RRSP income dealt with below.
+c) RRSP withdrawal from CIBC
+[17] No reference was made in Mr. Tyskerud’s notice of appeal concerning the Minister’s reassessment in 2006 for unreported proceeds from a registered retirement savings plan. No evidence concerning same was adduced at trial. Generally, the Minister’s assumptions must be demolished by a taxpayer’s evidence for an appeal to succeed: Hickman Motors Ltd. v. HMQ, [1997] 2 S.C.R. 336. This has not occurred with regard to the undeclared RRSP withdrawal. The assessment stands. Therefore the unreported sum of $4,973.00 was received in Mr. Tyskerud’s hands in 2006 and he has been correctly assessed.
+d) 2003, 2004, 2005 taxation years
+[18] At the hearing, the judgment of Justice McCarthy of the B.C. Provincial Court was entered into evidence and figured prominently. Justice McCarthy definitively determined, after a 38 days of trial no less, that Mr. Tyskerud’s unreported income (shareholder benefits from Elite Co.) for each of the following three taxation years was as follows (R. v. Tyskerud, 2013 BCPC 27 at pages 150 and 151):
+Taxation year
+Unreported Income (benefits)
+2003
+$33,845.26
+2004
+$45,757.47
+2005
+$30,240.80
+[19] Based upon the legal authorities of this Court and the Federal Court of Appeal, such a determination of unreported income or benefits made in criminal proceedings upon conviction for income tax evasion, relating to identical years and taxpayers is a determinative finding. Such findings may, through incorporation by reference, become this Court’s own findings of unreported income or shareholder benefits for such years: Golden v. HMQ, 2008 TCC 173 at paragraph 49.
+[20] Previously, the Court’s Order dated June 14, 2018, issued after the hearing of evidence, indicated that such amounts were determinative of the unreported income or benefits for those 3 years. Although Mr. Tyskerud sought to appeal those years, he offered no legal or factual basis regarding new evidence or other reasons why Justice McCarthy’s determinations of unreported income should not be adopted. At the hearing, Mr. Tyskerud agreed with the numerical values reached by Justice McCarthy. On the basis of Golden and the principal of judicial comity, the amounts above are Mr. Tyskerud’s unreported shareholder benefits for those respective years. The appeals for 2003, 2004 and 2005 are dismissed.
+e) 2011 and 2012 taxation years
+[21] Strictly speaking, these appeal years are not before the Court. The returns were filed pursuant to Justice McCarthy’s judgment after the conclusion of the criminal trial. They were filed by Mr. Tyskerud with the words “subject to appeal” superimposed across the signature. The declarations in the returns sufficiently disclosed Mr. Tyskerud’s income to the Minister’s satisfaction. As such, the returns were assessed as filed. Mr. Tyskerud has refused to pay the related liability on the basis that his legal arguments before this Court in this appeal are applicable to that objection and support his non-payment of the assessed-as-filed tax liability. Mr. Tyskerud submits that the sources of revenue, described as income in his 2011 and 2012 tax returns, are the same as those in the 2003 through 2006 taxation years and are therefore not subject to income tax.
+[22] Mr. Tyskerud asserts that any success before this Court by virtue of his legal arguments related to 2003-2006 should be extrapolated to 2011 and 2012. This assertion was recognized in the Court’s post hearing Order. If such legal arguments were successful, Mr. Tyskerud would require the Court to revisit these assessments, not as to amount, but solely as to their inclusion in income. As seen herein, such legal arguments have been rejected. Correlatively, so has Mr. Tyskerud’s basis for withholding payment of his liability for the 2011 and 2012 taxation years.
+IV. CONSTITUTIONAL CHALLENGE
+[23] The bulk of Mr. Tyskerud’s constitutional challenge concerns the conduct of the Crown and its agents during the audit, investigation and (re)assessment for tax penalties. To that extent, Mr. Tyskerud is without a remedy before this Court. As was stated by this very Court:
+To be clear, Ministerial Conduct has no bearing, given the Tax Court of Canada’s jurisdiction, on the outcome of the appeal before the Court which, by will of Parliament, must be an inquiry and determination limited to the validity and correctness of the assessment, not the methodology of how the decision to levy an assessment began, proceeded or came to be. Remedies related to that Ministerial Conduct, if same exist, do so elsewhere: Cheikhezzein v. HMQ, 2013 TCC 348 at paragraph 14.
+[24] Similarly, the arguments concerning the ministerial registration of Mr. Tyskerud for GST purposes are not correct. Mr. Tyskerud, whether a registrant or not, had an obligation to collect GST, was by definition already a registrant because of that obligation and was subject to the Minister’s ability to register him as a registrant, where he himself failed to do so.
+[25] Lastly, none of: paragraph 6(2)(b), inter-provincial mobility rights; section 7, life, liberty and security of the person: or, section 26, preservation of non-charter rights, has application to these appeals. The closest applicable section pleaded, albeit tangentially, is section 7. As has been stated by the Tax Court, section 7 is “not broad enough to encompass economic rights or assessments of tax”: Bauer v. HMQ, 2016 TCC 136 at paragraph 64 through 66.
+[26] Admittedly, the Court received no submissions, although sought, from Mr. Tyskerud concerning his constitutional challenges raised within these appeals. Accordingly, the Court was left with the notice of constitutional question, its own conjecture on what arguments may have been advanced and Respondent counsel’s submissions. For the reasons outlined above, which attempt to identify and discuss such anticipated arguments, this basis of appeal is dismissed.
+V. THE REASSESSMENTS FOR TAX FOR 2006
+[27] Mr. Tyskerud did not file tax returns for 2006. The Minister had no choice but to reassess under section 152(7). In doing so, the Minister, through her agents, applied a sensible, balanced and necessary assessment methodology. This was borne out by Ms. Groening’s testimony, working papers and subsequent proofing and analysis. Moreover, aside from the HUB premiums conceded by the Respondent, Mr. Tyskerud himself offered no meaningful challenge to the necessity, methodology or calculations of the arbitrary assessments. He simply asserts that such revenue was not income within the meaning of the ITA and does not reflect taxable supplies within the meaning of the ETA. So prevalent is this view that, even in the absence of submissions, its mantra permeates through the pleadings, Mr. Tyskerud’s testimony before this Court and the findings of Justice McCarthy from Mr. Tyskerud’s testimony before the Provincial Court of British Columbia.
+[28] Regrettably for Mr. Tyskerud, he is simply wrong. His undertaking was entirely commercial. He provided services to long established customers. He delivered his professional trade services as an electrician. He then sent reflective memoranda describing in detail all components of the commercial arrangement: the services, the dates same were supplied, the projects and locations and, most importantly, the amount the recipient was required to pay. The degree of his forced cognitive aversion, subjective re-nomination of invoices or vociferousness of his adoptive and adaptive passive state cannot and do not re-classify the revenue from the fruits of his labour to a gratuitous, unanticipated windfall exempt from tax: Meads v. Meads, 2012 ABQB 571 at paragraph 346. This referenced seminal case refers at the paragraph cited to amounts payable under “contracts for hire” and the inexplicable correlative belief that such documents mystically exempt from tax all revenue received thereunder, no matter the source. Purely and simply, the receipts from these labours were business income in 2006. They were the same in 2003, 2004, 2005 and 2011 and 2012. The Minister assumed so. Justice McCarthy ruled so. Mr. Tyskerud prior to 2002, reported so, and now, this Court decides so.
+[29] The legal logic for so finding is not complex. The term “business” is defined in section 248(1) of the ITA:
+“Business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever and, except for the purposes of paragraph 18(2)(c), section 54.2, subsection 95(1) and paragraph 110.6(14)(f), an adventure or concern in the nature of trade but does not include an office or employment.
+[30] In turn, income in section 3 of the ITA is defined as income “from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business or property”.
+[31] Further, business or property income is to be assessed through a two pronged test: Stewart v. Canada, [2002] 2 SCR 645 at paragraphs 50 and 51. The first stage is to determine whether a source of income exists: is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour? The second prong, if in pursuit of profit, is whether the source of income is that of business or property?
+[32] The analysis seeks to meld activity for profit as a source with the common law notion of business. If a profit motive is present, then however minimal the effort, the source is first, income and, secondly, from a business rather than the more passive holding of property: Stewart at paragraph 60.
+[33] Nothing before this Court suggests Mr. Tyskerud’s efforts and activities which generated the revenue had a personal element. It was not charity. It was not gratuitous. It was his long established trade and calling: his skills, knowledge and services as an electrician. He provided these to long established and known recipients: his clients and customers of many years in a community in which he was known and valued. He provided invoices: the oddly connotative “contracts for hire”.
+[34] The Court notes that even the phrase, “contracts for hire” when analyzed compositionally has within it a profound level of commerciality. Presumably intended to be as nonsensical as the proverbial “bill of goods” is when held up to ridicule, a simple review of The Dictionary of Canadian Law, 3rd edition, defines “hire” as, among other things, labour and work, services and care to be bestowed or performed on the thing delivered. A contract, in turn, is an agreement between two or more, which gives rise to obligations which a court may enforce. In conclusion, in both form and substance there was no personal element; the undertaking was completely commercial even under the guise of this cryptic documentation. The first prong is satisfied and no further search need be conducted: Stewart at paragraph 61. Whatever tricky or magical facade was intended through deployment of these mystical words, it dissolves legally before this Court based upon the clear facts which stand behind.
+VI. PENALTIES
+a) knowing omission/gross negligence penalties for 2003 to 2006
+[35] Under s.163 (2) of the ITA, there are two conditions for the imposition of such penalties: there must be a false statement or omission and such omission must be made knowingly or under circumstances amounting to gross negligence.
+[36] The first condition of omission is manifestly satisfied. Justice McCarthy found so when he registered the conviction after employing the elevated standard of proof, beyond a reasonable doubt, related to income tax evasion for 2003, 2004 and 2005. Similarly, Mr. Tyskerud’s admission that the same understanding and rationale was used by him for taxation year 2006 affords the Court a similar conclusion, albeit only required to a lesser standard of the balance of probabilities. Materially and factually, there were false statements and/or omissions of business income in taxation years and reporting periods 2003 through to 2006.
+[37] In this particular appeal, there is a seldomly occurring continuity of evidence between the first condition of a false statement and the second of its knowing commission.
+[38] For the years 2003, 2004 and 2005 Justice McCarthy concluded, after 38 days of trial, that Mr. Tyskerud had arranged, interpreted and failed to report his business undertakings, while fully intending and knowing that he was not paying tax by doing so. Among other things, these criminally sanctioned deceptions, established beyond a reasonable doubt, are a direct link to a knowing act or omission. The taxation year 2006 was arranged and reported in an identical fashion.
+[39] Beyond that, Mr. Tyskerud’s testimony revealed a critical, personal understanding concerning details of and participation in his undertaking. He carefully reflected (but did not report) amounts memorialized in the “contracts for hire”, collected the receipts and then deposited such amounts into his bank accounts. His glaring and knowing omission was the failure to report such income, taxable supplies and the filing of the reflective returns to do so. He knowingly and admittedly failed to do so. Essentially, this defines a knowing act or omission which engages the penalties. His odd, clunky and non-syntactic “legal” beliefs, not necessarily of his creation and for which he has repeatedly paid dearly, are irrelevant. He knowingly failed to report such income when he knew he was otherwise obligated to so do. The penalties remain.
+b) late and non-filing penalties
+[40] Mr. Tyskerud either failed to ever file his return for 2006, or late filed his GST and other returns. No evidence was offered to suggest otherwise. Without variance, it was admitted and deliberately on account of his legal notion of an absence of liability for tax and the associated obligation to file and report. He was wrong as to his obligation to file. In contrast, he correctly filed and reported in previous years, whether personally or through a corporation. Nothing much had changed between the two periods. He offered no defence aside from his expressed subjective insouciance to earning a profit. Again, by contrast, objectively there was a measurable and significant business which generated a profit. The penalties remain.
+VII. CONCLUSION AND COSTS
+[41] To summarize, the appeals are deposed of as follows:
+(a) Mr. Tyskerud’s unreported shareholder benefits for the taxation years 2003, 2004 and 2005 are $33,845.26, $45,751.47 and $30,240.80, respectively, and his appeal for those years is dismissed;
+(b) Mr. Tyskerud had unreported business income for the taxation year 2006 of $45,397.00, having accounted for the HUB expense concession, and his appeal is otherwise dismissed;
+(c) Mr. Tyskerud’s unreported net GST for the reporting period ending December 31, 2006 is $5,937.44 and, as such, his appeal is dismissed;
+(d) The appeals concerning late and non-filing penalties assessed by the Minister are dismissed;
+(e) The appeal of section 163(2) of the ITA penalties imposed by the Minister is dismissed;
+(f) The appeal of the reassessment for income from an unreported registered retirement plan withdrawal in the 2006 taxation year in the amount of $4,973.00 is dismissed;
+(g) Mr. Tyskerud’s tax liability is as filed and assessed in his 2011 and 2012 tax returns; and,
+(h) For clarity, the CPP appeal: docket number 2016-236(CPP) has been quashed by virtue of it being res judicata by the decision of Justice D’Arcy of this Court in a judgment dated January 30, 2017.
+[42] One set of costs are payable by Mr. Tyskerud to the Respondent in accordance with the Tariff, chargeable to docket: 2015-1210(IT)I.
+Signed at Toronto, Ontario, this 25th day of April 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019 TCC 84
+COURT FILE NOs.:
+2014-4386(GST)I
+2015-1210(IT)I
+2016-236(CPP)
+STYLE OF CAUSE:
+GRAYDON TYSKERUD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+June 7, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+April 25, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jamie Hansen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,182 @@
+---
+title: "Grossett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30834/index.do"
+last_modified: "2012-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 179"
+citation2: ""
+neutral_citation: "2012 TCC 179"
+decision_date: "2012-06-07"
+language: "en"
+item_id: "30834"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7393
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:21:54.312000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9a0fc87f986248270aee22a1d58a8c57c31d4b538e9602e0038ce0770d100281"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grossett v. The Queen
+
+- Citation: 2012 TCC 179
+- Decision date: 2012-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7393, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grossett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-06-07
+Neutral citation
+2012 TCC 179
+File numbers
+2009-705(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1720(IT)I
+BETWEEN:
+JAMES O. GROSSETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 28, 2012, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act in respect of the 2002 to 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“B. Paris”
+Paris J.
+Docket: 2009-705(IT)I
+BETWEEN:
+ONEIL GROSSETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 28, 2012, at Toronto, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act in respect of the 2002 to 2006 taxation years are allowed in part and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“B. Paris”
+Paris J.
+Citation: 2012 TCC 179
+Date: 20120607
+Dockets: 2008-1720(IT)I,
+2009-705(IT)I
+BETWEEN:
+JAMES O. GROSSETT,
+ONEIL GROSSETT,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The appellants are appealing reassessments of their 2002 to 2006 taxation years by which the Minister of National Revenue disallowed their claims for tax credits for charitable donations in the following amounts:
+James Grosset
+Oneil Grosset
+2002
+2003
+2004
+2005
+2006
+$ 23,039
+9,500
+10,500
+13,041
+8,200
+$ 10,200
+10,900
+11,545.98
+10,565
+3,590
+[2] The Minister disallowed the claims on the basis that the appellants did not make any gifts to charities in the years under appeal, and that they purchased charitable donation receipts used to support their claims.
+[3] In the alternative, if it is found that the appellants made any gifts to any charitable organizations in the years under appeal, it is the respondent's position that the donation receipts issued to the appellants do not meet the requirements set out in the Income Tax Regulations.
+[4] Oneill Grossett was also reassessed to disallow certain child care expenses claimed in his 2003 to 2006 taxation years. However, this issue was conceded by the respondent at the hearing.
+[5] The onus of disproving the Minister's assumptions was on the appellants, except in respect of the reassessments for the 2002 and 2003 taxation years which were made after the normal reassessment period in subsection 152(4) of the Income Tax Act (ITA).
+Facts
+[6] At the request of the respondent, and upon the consent of the appellants, the appeals were heard on common evidence. Both appellants testified at the hearing and the respondent called three witnesses from the Canada Revenue Agency (CRA).
+[7] The evidence showed that both appellants used the services of Ambrose Danso-Dapaah, operating as ADD Accounting, to prepare their 2002, 2003 and 2004 tax returns.
+[8] On December 15, 2008, Mr. Danso-Dapaah pled guilty to selling false charitable donation receipts for the 2002 through 2005 taxation years to clients to enable them to fraudulently reduce their income tax payable. He sold the receipts for a fraction (usually 10%) of the amount of the donation shown in the receipt. Mr. Danso-Dapaah admitted that he provided false donation receipts with a total face amount of over $39 million during that period.
+[9] Mr. Danso-Dapaah issued false donation receipts for several charities of which he was a director, including Canafrica International Foundation and The Canadian Foundation for Child Development.
+[10] The CRA began investigating Mr. Danso-Dapaah's activities in 2006, and seized records pursuant to search warrants executed in November 2006. Those records included approximately 6,800 Cantax electronic tax files as well as client invoices from ADD showing the tax return preparation fee, the face value of the charitable receipt and a fee equal to 10% of that amount. The senior CRA investigator on the file, Barbara Lovie, testified that she found invoices from ADD addressed to Oneil and James Grossett for the preparation of their 2003 and 2004 tax returns. The invoice for Oneil Grossett's 2003 tax return contained the notation "receipt $10,900" with a corresponding fee of $1,090. The invoice for his 2004 tax return contained the notation "receipt $11,545.98" and a corresponding fee of $1,150. The invoice for the preparation of James Grossett's 2003 tax return referred to a receipt for $9,500 and a corresponding fee of $800. Ms. Lovie said she believed that he received a discount for the receipt fee because he had referred other people to ADD. James Grossett's invoice for his 2004 tax return stated "receipt $10,500 Canafrica Foundation" and a corresponding fee of $1,050.
+[11] One of Mr. Danso-Dapaah's employees, George Gudu, also worked for Frances Kungu, who operated Payless Tax Inc. At the same time, Mr. Gudu ran his own business under the name Senyo Accounting. Both Senyo and Payless prepared tax returns, and there appeared to be some overlap in those operations. In 2007, Mr. Kungu was charged with the sale of false charitable donation receipts. He failed to appear at his trial and a warrant for his arrest was issued. Mr. Gudu was also charged and pled guilty to the sale and use of false receipts in the filing of tax returns. Again, the receipts were usually sold for 10% of the face amount of the receipt. Over $4 million of receipts were sold in 2006 alone. Among the charities used in these schemes were: Pan Africa Multicultural Centre, Avenue Development Foundation and Bible Teaching Ministries. In searches of Payless' premises, CRA investigators found electronic copies of tax returns as well as invoices setting out charges for tax preparation and for charitable receipts. The CRA also found booklets of donation receipts to the various charities, some of which were pre-signed, as well as a list of people who were given receipts to sell and a record of the amounts that were paid for the receipts.
+[12] The lead CRA investigator on the Payless and Gudu files, Deborah Edyvean, testified that the seized documents contained invoices for Oneil Grossett for preparation of his 2005 and 2006 tax returns and for James Grossett for the preparation of his 2006 tax return. Oneil's invoices showed a fee of $1,050 for 2005 for a receipt in the amount of $10,565, and a fee of $360 for 2006 for a receipt of $3,590. The invoice for James Grossett for the 2006 taxation year showed a fee of $660 corresponding to a figure of "8200". He claimed as a charitable donation of $8,200 on his 2006 tax return.
+[13] The appellants testified that they did not purchase false charitable donation receipts for any of the years in issue. They claim to have made donations of cash and household goods and electronics equal to the full amount of the charitable donations claimed. They also said that they checked out the charities on the CRA website and confirmed that they were registered.
+[14] After considering all of the evidence that was presented, I find that neither James nor Oneil was a credible witness. I find it difficult to believe that either of them was in a financial position to make the donations that they claimed. For example, James Grossett's supposed donation of $23,039 in 2002, would have been equal to almost one-half of his total income of $50,702. For Oneil, a single father who had just begun a job in 2002, his alleged donation of $10,200 would have been equal to about one quarter of his total income of $45,808. A similar pattern can be seen in the other taxation years in issue. Even if a portion of such donations were made up of gifts in kind, I still am unable to see how the appellants were in a financial position to donate the cash and property they claim they did. Also, such large gifts would also have been completely inconsistent with their previous and subsequent donation history. Between 1988 and 2010, James Grossett did not claim any charitable donation tax credits other than those in issue. No records for years prior to 1988 were available. Oneil's only other charitable donation claim since he began filing tax returns in 1994 was for $25 in 2001.
+[15] In addition, both appellants' explanation of how the alleged donations were made was implausible. Despite the large amounts involved, both said a substantial portion of the donations was made in cash. The remainder allegedly consisted of donations of used household goods.
+[16] James Grossett said he made several donations of cash each year, but got no receipts for them other than one at the end of each year for the total donation. I find it difficult to believe that he would simply have given thousands of dollars of cash to Mr. Danso-Dapaah on many occasions without requesting some record or receipt from him.
+[17] Oneil Grossett said he would withdraw cash from his bank account at various times during the year and keep it at home. After he received his T-4 slip, he said he would leave this cash in an envelope, along with all of his tax records for his father to take to Mr. Danso-Dapaah. It does not make sense to me he would withdraw cash at various times and leave it at home until the time it was taken to Mr. Danso-Dapaah, rather than leaving it in the bank and writing one cheque to the charity.
+[18] Also, the timing of the alleged donations did not match the receipts that were given, since Oneil said he gave them to his father once he had received his T-4 slip for the prior calendar year. The donation receipts he had, though, were all dated either sometime during, or on the last day of each year.
+[19] Both Oneil and James Grossett claimed that members of their community dealt in cash, but it also appeared that both of them had bank accounts that they used. Neither of them, though, could tie the alleged cash donations to any specific withdrawals from their accounts or to any other source of funds.
+[20] A further difficulty I have with the appellants' testimony is that neither of them could give more than a vague description of the goods they claim to have donated and neither had any written record of the goods.
+[21] In summary, the documents seized by the CRA in the investigations into the activities of Mr. Danso-Dapaah, Mr. Kungu and Mr. Gudu, show that both appellants participated in the false donation receipt scheme. Given the total lack of any credible evidence that they, in fact, made the donations in issue, I am satisfied that they purchased the charitable donation receipts used to claim the charitable donation tax credits for the years under appeal.
+[22] The amounts paid for the receipts would not qualify as gifts, since "a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor" (per Linden J.A. in Her Majesty the Queen v. Albert D. Friedberg, 92 DTC 6031 at 6032). Here, the appellants purchased the receipts to obtain a reduction of their taxes, and had no intention of making a gift to any charitable organization.
+[23] Having found that both appellants knowingly purchased false charitable donation receipts that were used to claim tax credits to which they were not entitled, it is clear that both appellants made misrepresentations in their 2002 and 2003 tax returns (as well as those for the remaining years). Therefore, the Minister was justified in reassessing them for their 2002 and 2003 taxation years beyond the normal reassessment period.
+[24] In light of these findings, it is not necessary for me to address the respondent's alternative argument concerning the sufficiency of the donation receipts.
+[25] The appeals of James Grossett are dismissed. The appeals of Oneil Grossett are allowed in part on the basis that he be allowed child care expenses of $3,600, $2,100, $4,000 and $4,000 in the calculation of his income for 2003, 2004, 2005 and 2006 taxation years respectively.
+Signed at Ottawa, Canada, this 7th day of June 2012.
+“B. Paris”
+Paris J.
+CITATION: 2012 TCC 179
+COURT FILE NOS.: 2008-1720(IT)I, 2009-705(IT)I
+STYLES OF CAUSE: James O. Grossett and Her Majesty the Queen
+Oneil Grossett and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 28, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: June 7, 2012
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

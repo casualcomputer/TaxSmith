@@ -1,0 +1,217 @@
+---
+title: "Dépatie c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/407126/index.do"
+last_modified: "2019-05-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 123"
+citation2: ""
+neutral_citation: "2019 CCI 123"
+decision_date: "2019-05-28"
+language: "fr"
+item_id: "407126"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4363
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:16:52.260000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58cea4f5d86eaeb1c4aad352d4766a70b6d4145806b75fb67bd05971ba899192"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dépatie c. La Reine
+
+- Citation: 2019 CCI 123
+- Decision date: 2019-05-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4363, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dépatie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-28
+Référence neutre
+2019 CCI 123
+Numéro de dossier
+2018-351(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-351(IT)I
+ENTRE :
+MARIE-CLAUDE DÉPATIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 15 janvier 2019, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Gabriel Girouard
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu et datée du 3 octobre 2016 concernant l’année d’imposition 2013 est accueilli et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de mai 2019.
+« Réal Favreau »
+Juge Favreau
+Référence : 2019 CCI 123
+Date : 20190528
+Dossier : 2018-351(IT)I
+ENTRE :
+MARIE-CLAUDE DÉPATIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »), par le ministre du Revenu national (le « ministre »), datée du 3 octobre 2016 en vertu de laquelle le ministre a refusé la déduction d’une perte au titre d’un placement d’entreprise (« PTPE ») au montant de 64 052 $ réclamée par l’appelante pour son année d’imposition 2013.
+[2] Le ministre a refusé la PTPE réclamée par l’appelante pour les raisons suivantes :
+a) l’appelante n’était pas actionnaire de la société Les Cantines Nutrec Inc. (la « Société »);
+b) les avances consenties par l’appelante à la Société ne portaient pas un taux d’intérêts et n’avaient pas d’échéance de remboursement; et
+c) la perte subie par l’appelante est nulle puisqu’elle résulte de la disposition d’une créance qui n’a pas été acquise en vue de tirer un revenu d’une entreprise conformément au sous-alinéa 40(2)g)(ii) de la Loi.
+[3] À l’audience, l’intimée a admis les faits suivants :
+a) le solde des avances consenties par l’appelante à la Société au montant de 128 104 $ au 31 décembre 2013;
+b) la Société exploitait une entreprise; et
+c) la créance de l’appelante envers la Société est devenue irrécouvrable en 2013 lorsque la Société a cessé ses activités.
+[4] L’appelante a témoigné à l’audience pour expliquer les circonstances entourant la réalisation de la perte au montant de 128 104 $.
+[5] L’appelante a expliqué que la Société s’occupait depuis sa formation en 1989 de la gestion de cafétérias et que sa mère, Madame Diane Dépatie, était l’unique actionnaire et la seule administratrice de la Société. En 2002, Madame Diane Dépatie et ses deux filles, Marie-Claude et Annick, ont décidé de changer la vocation de la Société et d’opérer un restaurant intégré à des salles de réception. À cette fin, Madame Diane Dépatie et ses deux filles ont fait l’acquisition, en tant que co-propriétaires indivis, d’un immeuble situé au 116 chemin des Patriotes Est, à Saint-Jean-sur-Richelieu (secteur Iberville) (l’« immeuble ») pour un coût de 220 000 $.
+[6] L’immeuble était un bâtiment centenaire de 60 000 pieds carrés qui comprenait trois (3) salles de réception permettant d’asseoir 350 personnes. L’immeuble se trouvait en zone agricole mais jouissait d’un droit acquis pour une exploitation commerciale mais seulement tant et aussi longtemps qu’un commerce continuait d’y être exploité.
+[7] L’immeuble a été loué à la Société à compter de 2002 moyennant un loyer de 2 500 $ par mois, soit 30 000 $ par année. La part de l’appelante dans ce revenu de loyer était de 10 000 $ par année.
+[8] Selon l’appelante, il existait une entente verbale entre elle, sa mère et sa sœur pour exploiter le restaurant intégré aux salles de réception en partenariat. Chacune d’elles disposait d’un vote et deux votes sur trois étaient nécessaires pour qu’une décision soit adoptée. L’intention des parties étaient de partager les profits futurs de l’entreprise en parts égales.
+[9] Pour atteindre leurs objectifs, les partenaires ont convenu de financer les opérations de l’entreprise par le biais d’avances pour éviter les frais d’intérêts qui auraient autrement été immédiatement exigibles par les institutions financières.
+[10] Selon l’appelante, l’intention des partenaires étaient de verser des intérêts sur les avances consenties à la Société et, à cette fin, les partenaires ont fait en sorte que tous les montants investis ainsi que toutes les dates de versement des avances soient pris en note dans les livres comptables de la Société pour être en mesure de calculer les montants qui leur étaient dus avec intérêts. Le détail des avances consenties à la Société par les partenaires et des remboursements effectués par la Société pour la période du 30 juin 2004 au 30 décembre 2013 a été mis en preuve.
+[11] L’appelante a de plus précisé que, selon l’entente, la Société devait effectuer les remboursements de capital à chacune des partenaires avant de verser des intérêts sur les avances. Le but était d’alléger les frais d’intérêts de la Société en attendant qu’elle devienne profitable.
+[12] De 2002 à 2013, l’appelante a consenti des avances à la Société pour un montant total de 233 279,42 $ et la Société lui a remboursé 105 175,08 $ en 85 versements. Les avances étaient effectuées soit par des dépôts dans le compte de banque de la Société, soit par des achats de fournitures pour le restaurant. Les avances consenties par chaque partenaire n’étaient pas toujours nécessairement égales. Selon le rapport financier du 30 décembre 2013, les avances à la Société totalisaient 388 127,79 $ et étaient réparties de la façon suivante :
+Diane Dépatie = 155 379,93 $
+Marie-Claude Dépatie = 128 104,34 $
+Annick Dépatie = 104 643,50 $
+[13] Les remboursements d’avances étaient effectués au moyen de chèques tirés sur un compte de banque de la Société. Des exemples de chèques de remboursements d’avances ont été mis en preuve. Les mentions apparaissant sur les chèques étaient soit « remboursement », « remboursement d’avances de fonds », et parfois « remboursement à l’actionnaire ». Un exemple de chèque soumis porte une annotation comme quoi un remboursement de frais bancaires de 120 $ y est inclus et un autre exemple de chèque porte une annotation comme quoi des frais d’intérêts de 140 $ y sont inclus.
+[14] L’appelante a expliqué, qu’au cours de années 2010 à 2013, elle occupait un emploi à temps partiel auprès de la Société et que son salaire pour chacune de ces années selon les T4 fournis était de :
+2010 : 8 000 $
+2011 : 10 578 $
+2012 : 7 828 $
+2013 : 6 396 $
+[15] Annick occupait également un emploi auprès de la Société en tant que chef évolutif du restaurant.
+[16] L’appelante a attribué les difficultés financières de l’entreprise à la récession de 2008 et aux inondations qui sont survenues dans la région en 2011.
+[17] Dans ce contexte, la Société a encouru les pertes d’opérations suivantes pour les exercices financiers se terminant le 30 juin 2008 au 30 juin 2013 :
+Exercices financiers
+(30 juin)
+Pertes
+2008
+60 300 $
+2009
+40 466 $
+2010
+43 655 $
+2011
+243 483 $
+2012
+308 213 $
+2013
+363 677 $
+[18] Comme les tentatives de vendre l’entreprise ont toutes échouées, les partenaires se sont résignées à vendre l’immeuble. La vente de l’immeuble a eu lieu en octobre 2013 au seul acheteur qui s’est présenté, soit l’Église baptiste du Haut-Richelieu. Le prix de vente de l’immeuble a été 550 000 $ et les partenaires ont réalisé un gain en capital de 330 000 $, la part de l’appelante étant de 110 000 $.
+[19] Madame Diane Dépatie a également témoigné à l’audience et elle a expliqué que la nouvelle orientation donnée à l’entreprise en 2002 était un projet à trois ce qui impliquait des investissements égaux par chaque partenaire et un partage des profits à parts égales. Pour elle, le fait que l’appelante ne soit pas devenue actionnaire de la Société en 2002 n’était qu’une technicalité, qu’elle croyait être sans importance. Elle a de plus expliqué qu’elle a réclamé la perte qu’elle a encourue pour les avances consenties à la Société laquelle fut acceptée par l’Agence du revenu du Canada à titre de PTPE parce qu’elle était actionnaire de la Société.
+Analyse
+[20] Les dispositions pertinentes de la Loi pour déterminer le droit à une PTPE sont reproduites ci-après :
+Sous-section c - Gains en capital imposables et pertes en capital déductibles
+Pour l’application de la présente loi :
+[…]
+c) la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien.
+Article 39 : Sens de gain en capital et de perte en capital
+Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977:
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance, d’un bien qui est :
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+Article 40 : Règles générales
+(2) Restrictions. Malgré le paragraphe (1) :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien (à l’exclusion, pour ce qui est du calcul du surplus exonéré ou du déficit exonéré, du surplus hybride ou du déficit hybride et du surplus imposable ou du déficit imposable du contribuable relativement à un autre contribuable, dans le cas où le contribuable ou, si celui-ci est une société de personnes, son associé est une société étrangère affiliée de l’autre contribuable, d’un bien qui est un bien exclu, au sens du paragraphe 95(1), du contribuable ou le serait si celui-ci était une société étrangère affiliée de l’autre contribuable), dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+Article 50 : Créances reconnues comme irrécouvrables et actions d’une société en faillite
+(1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue un failli au cours de l’année,
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[21] Pour pouvoir déduire une PTPE en vertu des articles 38 et 39 de la Loi, l’appelante doit démontrer qu’elle a subi une perte en capital résultant de la disposition d’un bien. Aux termes de l’article 50 de la Loi, un contribuable est réputé avoir disposé d’une créance qui lui est due à la fin de l’année pour un produit nul si cette créance s’est révélée être irrécouvrable au cours de l’année.
+[22] Dans la présente instance, seul le sous-alinéa 40(2)g)(ii) de la Loi est en jeu ici et la preuve est à l’effet que l’appelante n’a jamais été actionnaire de la Société.
+[23] Pour éviter que la perte subie par l’appelante à l’égard des avances consenties à la Société soit réputée être nulle en vertu du sous-alinéa 40(2)g)(ii) de la Loi, l’appelante doit démontrer que la créance a été acquise dans le but de tirer un revenu d’une entreprise ou d’un bien.
+[24] Dans la présente instance, les avances ont été consenties sans documentation (conventions de prêt, billets, chèques ou autres preuves de transfert d’argent), sauf pour ce qui est des entrées comptables dans les livres de la Société, et sans modalités précises quant au taux d’intérêt, quant à la durée des avances ou quant aux modalités de remboursement. De plus, l’appelante n’a pas démontré qu’elle a fait état de revenus d’intérêts générés par ces avances dans ses déclarations de revenu et qu’elle a pris des mesures pour récupérer les intérêts sur lesdites avances.
+[25] Par contre dans la présente instance, ma compréhension des faits est que les avances consenties à la Société par l’appelante de même que celles consenties par sa mère et sa sœur ont servi à financer les opérations de l’entreprise exploitée par la Société.
+[26] En ce faisant, l’appelante et ses partenaires se sont chacune assurées (1) d’un emploi et d’un salaire, (2) de tirer un revenu de loyer pour la location de l’immeuble, (3) d’augmenter la valeur de l’immeuble en maintenant la vocation commerciale de l’immeuble et (4) de se partager les profits réalisés dans le cadre de l’exploitation de l’entreprise.
+[27] Après avoir étudié les éléments de preuve présentés, j’ai conclu qu’une entente existait bel et bien entre l’appelante, sa mère et sa sœur pour la mise en place et l’exploitation du projet de restaurant intégré aux salles de réception. D’abord, parce que l’appelante et sa mère ont fourni des témoignages crédibles et non contradictoires et, ensuite, parce que l’appelante, sa mère et sa sœur ont agi d’une façon coordonnée de 2002 à 2013. Elles ont acquis l’immeuble en co‑propriété indivise pour le louer à la Société pour un prix inférieur à la valeur du marché mais dans l’espoir de pouvoir augmenter le loyer lorsque la Société aurait atteint le seuil de profitabilité.
+[28] Par la suite, l’appelante, sa mère et sa sœur ont financé les opérations de la Société à l’aide d’une série d’avances et de remboursements de capital. Leur intention commune était de faire en sorte que la Société verse des intérêts sur les avances mais, dans les faits, il n’y en a pratiquement jamais eu parce que la priorité était donnée aux remboursements de capital. Les registres de la Société ont été maintenus de façon adéquate pour permettre le calcul des intérêts sur les avances.
+[29] Enfin, l’appelante, sa mère et sa sœur exploitaient l’entreprise d’un restaurant intégré à des salles de réception en partenariat et devaient passer aux votes à la majorité pour qu’une décision puisse être adoptée. La documentation légale de cette co-entreprise n’a pas été mise en place parce qu’il existait un climat de confiance entre l’appelante, sa mère et sa sœur. Dans de telles circonstances, les ententes écrites, les contrats, les certificats d’actions et les conventions n’ont pas réellement d’importance.
+[30] Selon la preuve au dossier la créance de l’appelante avait un objet commercial, soit de tirer un revenu de l’entreprise. Une fois profitable, le partage des revenus aurait pu être effectué en versant un salaire plus élevé à l’appelante, un loyer correspondant à la juste valeur marchande pour la location de l’immeuble et en payant des intérêts sur les avances.
+[31] En jurisprudence, il est bien établi qu’il n’est pas nécessaire qu’il existe un lien direct entre la créance du contribuable et le revenu qu’il veut obtenir. Dans l’arrêt Byram c. Canada, 1999 Can LII 7428 (CAF), le juge McDonald a fait l’observation suivante :
+16. […] Bien que le sous-alinéa 40(2)g)(ii) exige qu’il existe un lien entre le contribuable (c’est-à-dire le prêteur) et le revenu, il n’est pas nécessaire que le contribuable tire directement le revenu, il n’est pas nécessaire que le contribuable tire directement le revenu du prêt.
+[32] Dans la présente instance, même si l’appelante ne détenait pas d’actions de la Société, la preuve d’un lien suffisant entre la créance de l’appelante et les revenus éventuels provenant de la Société a été démontrée. Par conséquent, il y a lieu de considérer que la créance de l’appelante a été acquise en vue de tirer un revenu d’une entreprise ou d’un bien rencontrant ainsi les exigences de l’exception prévue au sous-alinéa 40(2)g)(ii) de la Loi.
+[33] L’appel est accueilli et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation afin d’accorder la déduction à titre de PTPE au montant de 64 052 $.
+Signé à Ottawa, Canada, ce 28e jour de mai 2019.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2019 CCI 123
+Nº DU DOSSIER DE LA COUR :
+2018-351(IT)I
+INTITULÉ DE LA CAUSE :
+MARIE-CLAUDE DÉPATIE ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 15 janvier 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 28 mai 2019
+COMPARUTIONS :
+Pour l'appelante :
+l'appelante elle-même
+Avocat de l'intimée :
+Me Gabriel Girouard
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

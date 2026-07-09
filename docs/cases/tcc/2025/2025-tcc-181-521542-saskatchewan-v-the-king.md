@@ -1,0 +1,208 @@
+---
+title: "Saskatchewan v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521542/index.do"
+last_modified: "2025-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 181"
+citation2: ""
+neutral_citation: "2025 TCC 181"
+decision_date: "2025-11-27"
+language: "en"
+item_id: "521542"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5609
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-12-04T09:02:43.155000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f4dc174e578e620a0ec29868e09454e912fc02c18494375e00ec940c9381704"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Saskatchewan v. The King
+
+- Citation: 2025 TCC 181
+- Decision date: 2025-11-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5609, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saskatchewan v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-11-27
+Neutral citation
+2025 TCC 181
+File numbers
+2025-404(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-404(GGPPA)G
+BETWEEN:
+THE GOVERNMENT OF SASKATCHEWAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on November 20, 2025 at Edmonton, Alberta
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+David Jacyk
+Theodore Stathakos
+Simone Penney
+Counsel for the Respondent:
+Justine Malone
+Gabriel Caron
+Ryan R. Hall
+ORDER
+THE COURT ORDERS THAT:
+The Respondent’s motion to strike is allowed. The following portions of the Notice of Appeal are struck:
+(a)paragraphs 3, 4, 6, 24, 26, 28 to 50, 60 to 63, 64(iv), 68 to 78, 90 to 94, 97(ii), 97(v) and 97(vi);
+(b)the phrase “(or Penalties)” in paragraph 64(vi);
+(c)the phrase “100,” in paragraph 66;
+(d)the headings above paragraphs 28 and 93; and
+(e)the phrase “and penalties” in paragraph 97(vii).
+The Appellant may file and serve an Amended Notice of Appeal on or before January 9, 2026 in order to add the pleadings described in paragraphs 40 and 46 of the Reasons for Order and remove the pleadings that I have struck.
+The Respondent may file and serve an Amended Reply to the Amended Notice of Appeal on or before March 13, 2026.
+Costs are awarded to the Respondent. The parties shall have until January 9, 2026 to reach an agreement on costs, failing which the Respondent shall have until February 6, 2026 to serve and file written submissions on costs and the Appellant shall have until February 20, 2026 to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to the Respondent as set out in the Tariff.
+Signed this 27th day of November 2025.
+“David E. Graham”
+Graham J.
+Citation: 2025 TCC 181
+Date: 20251127
+Docket: 2025-404(GGPPA)G
+BETWEEN:
+THE GOVERNMENT OF SASKATCHEWAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Greenhouse Gas Pollution Pricing Act (the “Act”) and the Fuel Charge Regulations (the “Regulations”) came into force in 2018. They applied a fuel charge (colloquially known as a “carbon tax”) to sales of fuel made in provinces that the Governor in Council determined did not have a sufficiently stringent greenhouse gas pricing mechanism. Saskatchewan was one of those provinces.
+[2] The Appellant and others challenged the constitutionality of the Act. The Supreme Court of Canada held that the Act was constitutional (References re Greenhouse Gas Pollution Pricing Act (2021 SCC 11)).
+[3] In late 2023, the federal government announced that it would exempt light fuel oil used to heat homes from the application of the Act. It did so through the Regulations Amending the Fuel Charge Regulations, No. 2 (the “Amending Regulations”).
+[4] The Appellant took the position that the government had amended the Regulations for purely political purposes and, consequently, had rendered the application of the Act to any form of fuel used for home heating unconstitutional. As a result, the Appellant refused to remit any fuel charges in respect of its supplies of natural gas for home heating purposes. The Appellant continued to remit fuel charges in respect of its other supplies of natural gas.
+[5] The Minister of National Revenue disagreed with the Appellant’s approach. The Minister assessed the Appellant on the basis that the Appellant had failed to collect and remit approximately $71,000,000 in fuel charges.
+[6] The Appellant has appealed those assessments.
+A. Motion to Strike [7] The Respondent has brought a motion to strike various paragraphs of the Appellant’s Notice of Appeal under section 53(1) of the Tax Court of Canada Rules (General Procedure) on the grounds that they disclose no reasonable cause of appeal. A copy of the Notice of Appeal is attached as Schedule “A”.
+[8] Broadly speaking, the disputed paragraphs fall into three categories:
+whether the application of a fuel charge to natural gas used to heat homes is unconstitutional;
+interjurisdictional and Crown immunity; and
+the Minister’s attempts to collect the fuel charges from the Appellant.
+[9] I will deal with each category separately.
+B. Constitutionality [10] In Reference re Greenhouse Gas, in order to determine the Act’s constitutionality, the Supreme Court of Canada had to identify its true subject. Writing for the majority, Chief Justice Wagner concluded that the Act “sets minimum national standards of greenhouse gas price stringency to reduce greenhouse gas emissions”.[1]
+[11] The Amending Regulations amended the Regulations by carving out light fuel oil used to heat homes while still applying a fuel charge to other forms of home heating fuel. The Appellant’s primary argument is that the result runs directly contrary to the idea of a minimum national standard and is therefore unconstitutional.
+[12] The Appellant relies heavily on the dissenting decision of Justice Rowe in Reference re Greenhouse Gas. Justice Rowe identified that the Act “confers exceptionally broad authority on the Governor in Council to create policy in the regulations”.[2] Justice Rowe observed that the Regulations were not before the Court and might be challenged in future cases. He was concerned that “the potential for ‘playing favourites’ for reasons that have nothing to do with establishing minimum national standards of price stringency to reduce GHG emissions is obvious.”[3] He concluded that, if the Governor in Council used the Regulations to play favourites “[s]uch regulations would be unconstitutional, even though the provisions that facially empower them are valid.”[4]
+[13] Chief Justice Wagner addressed Justice Rowe’s concerns at the end of the reasons for the majority. He stated that Justice Rowe’s premise “that regulations made pursuant to an enabling statute must be consistent with the division of powers and further the purpose of the statute” was uncontroversial.[5]
+[14] For the Court to strike a paragraph from a notice of appeal, it must be plain and obvious that the paragraph discloses no reasonable grounds for appeal (Knight v. Imperial Tobacco Canada Ltd.[6]).
+[15] The Appellant argues that, since both Justice Rowe and the majority recognized the possibility that future regulations could be unconstitutional, it cannot be plain and obvious that a constitutional argument would fail. I agree. But the Respondent is not arguing that it is plain and obvious that the argument would fail. The Respondent is arguing that it is plain and obvious that this Court does not have jurisdiction to hear the argument in the first place. The Respondent takes this position for four reasons.
+Tax Court’s Ability to Determine Constitutional Issue [16] First, the Respondent strenuously argues that any attack on the vires of a regulation must be brought by way of judicial review in the Federal Court. The Respondent says that the Tax Court does not have jurisdiction to hear such challenges. The Appellant firmly opposes this position.
+[17] Given my conclusions on the Respondent’s other two reasons, I do not need to dwell on this issue. I would simply say that I do not find it plain and obvious that the Tax Court lacks such jurisdiction.
+[18] Section 19.2 of the Tax Court of Canada Act and decisions of the Federal Court of Appeal in Domtar v. The Queen[7] and Hunt v. The Queen[8] indicate that, in the course of determining the correctness or validity of an assessment, the Tax Court has jurisdiction to determine the constitutional validity, applicability or operability of any act of Parliament or its regulations. Similarly, the Federal Court of Appeal’s decision in BCS Group Business Services Inc. v. The Queen makes it clear that the Tax Court has the jurisdiction to find regulations enacted by the Governor in Council to be ultra vires.[9]
+[19] The Respondent relies heavily on the Supreme Court of Canada’s decision in Dow Chemical Canada ULC v. The King.[10] That case distinguishes between the correctness of assessments and discretionary decisions of the Minister. It is far from plain and obvious to me that the Governor in Council’s decision to issue the Amending Regulations is the type of discretionary Ministerial decision that the Supreme Court was addressing in Dow.
+[20] Had this been the only reason that the Respondent raised, I would not have struck the requested paragraphs.
+Amending Regulations Had No Effect on the Assessments [21] It is not entirely clear whether the Appellant hopes to attack the constitutionality of the Amending Regulations themselves or the Regulations (as amended). As a result, the Respondent has addressed both arguments. I will deal with the Amending Regulations first.
+[22] The Appellant pleads that light fuel oil is a “more emissions-intensive fuel than other home heating fuels, including natural gas”, that its use “is most prevalent in Atlantic Canada”, that “a negligible number of homes in Saskatchewan use [light fuel oil] for heating their homes”, and that “[w]hile the exemption would nominally apply nationwide, the publicly stated purpose and motivation, as expressed in public statements by representatives of Canada, was to benefit constituents of Members of Parliament…in Atlantic Canada, where a large portion of homeowners in the region use heating oil to heat their homes.”[11]
+[23] When deciding whether it is plain and obvious that this argument discloses no reasonable grounds for appeal, I must assume that the facts the Appellant pled are true unless they are manifestly incapable of being proven (Knight[12]). Therefore, in simple terms, I must assume that the Amending Regulations were passed, not to set a minimum national standard of greenhouse gas price stringency to reduce greenhouse gas emissions, but rather to improve the political fortunes of the government in Atlantic Canada at the expense of increased greenhouse gas emissions.
+[24] Assuming those facts are true, the Appellant may well have a valid complaint about the constitutionality of the Amending Regulations. However, the Tax Court cannot simply consider any constitutional question put before it. To the extent that the Tax Court has the power to determine whether the Amending Regulations are ultra vires, it may only do so in the context of determining the validity and correctness of the Appellant’s assessments.
+[25] The Assessments relate entirely to the Appellant’s supplies of natural gas. The Amending Regulations affected the fuel charge on light fuel oil, not natural gas. Their vires or lack thereof would have no effect on the correctness of the assessments. Therefore, it is plain and obvious that the Court has no jurisdiction to hear the argument.
+A Distinction Without Difference [26] The Appellant says that it is not simply arguing that the Amending Regulations were ultra vires. It is arguing that the Amending Regulations rendered the Regulations (as amended) ultra vires.
+[27] The Appellant is making a distinction without a difference. The only differences between the Regulations and the Regulations (as amended) are the changes made by the Amending Regulations. When the Appellant asserts that the Regulations (as amended) are ultra vires, what the Appellant is really saying is that the changes that the Amending Regulations made to the Regulations are ultra vires. That is simply another way of saying that the Amending Regulations are ultra vires. As set out above, a finding that the Amending Regulations are ultra vires would have no effect on the assessments and thus this Court has no jurisdiction to consider that issue.
+Tax Court Would Never Grant the Desired Relief [28] The Appellant is trying to distinguish between the Amending Regulations and the Regulations (as amended) because the Appellant wants to frame the argument in a way that allows it to say that a possible outcome would be for the trial judge to read down the Regulations (as amended) in a way that reduces or eliminates the fuel charge on natural gas and, therefore, that the Tax Court has jurisdiction to hear the argument. There is no merit to this position.
+[29] Even if a trial judge found the Regulations (as amended) to be ultra vires, the only conceivable solution would be to declare the changes put in place by the Amending Regulations to be of no force and effect. Despite the Appellant’s wishes to the contrary, there is simply no way that the trial judge would choose to step into the shoes of the Governor in Council and set national greenhouse gas pricing policy themselves.
+[30] Tax Court judges understand the parameters of their judicial role. They also understand that, if they are forced to read down legislation, they should do so in a way that interferes with the law in question as little as possible. If only part of a provision is unconstitutional, only that part should be declared to be of no force and effect (Schachter v. The Queen[13]).
+[31] The Appellant points out that, prior to the most recent federal election, the government did, in fact, eliminate the fuel charge from all types of home heating fuel and argues that this proves it is a viable outcome. I disagree. The fact that the government chose to make that change does not mean the choice is open to a Tax Court judge.
+[32] The best case scenario for the Appellant is that the trial judge would find that the changes made by the Amending Regulations were of no force and effect. Since that outcome would have no impact on the assessments, it is plain and obvious that the Court does not have jurisdiction to grant the relief sought.
+Conclusion [33] Based on all of the foregoing, I will strike paragraphs 3, 4, 6, 24, 26, 28 to 50, 64(iv), 68 to 78, 93, 94, 97(ii), 97(v) and 97(vi) of the Notice of Appeal.
+[34] The Respondent has asked that the Appellant not be granted leave to amend these paragraphs. I see no basis on which the Appellant could cure any the above deficiencies and therefore grant the request.
+C. Remaining Argument – Interjurisdictional and Crown Immunity [35] The Notice of Appeal also raises the issue of whether interjurisdictional and Crown immunity prevent the federal government from assessing the Appellant. This is a novel issue and, accordingly, the Respondent is not seeking to strike it.
+[36] The Appellant argues that paragraphs 28 to 50 (which I struck above) “provide relevant factual and legislative context” for the interjurisdictional and Crown immunity issue and therefore should not be struck.[14] I disagree.
+[37] Paragraphs 28 to 50 lay out the history of the Amending Regulations, the government’s alleged motivations for implementing them and their impact on fuel charges in Atlantic Canada and elsewhere. None of these facts relates to the interjurisdictional and Crown immunity issue. Either the Appellant enjoys interjurisdictional or Crown immunity or it does not. The unequal treatment of fuel charges in Saskatchewan and Atlantic Canada has no bearing on that issue. The sole reason to keep these paragraphs in would be to bias the trial judge against the Respondent because of the perceived unfairness of the Amending Regulations. Leaving them in would also result in a significant waste of time at both discovery and trial.
+[38] The Appellant says that it needs to establish some background to explain why, having complied with the Act from the beginning, it suddenly stopped remitting the fuel charge. The Appellant is concerned that the Respondent could argue that the Appellant lost its interjurisdictional or Crown immunity by initially acquiescing to the fuel charges and that it needs to be able to show why it changed its position.
+[39] The Respondent suggests that a simple paragraph focused on why the Appellant changed its mind would convey this information while avoiding unnecessary discovery and trial time. I agree.
+[40] I will grant the Appellant leave to amend the Notice of Appeal to add a paragraph explaining why the Appellant changed its mind. The paragraphs can explain that the Appellant came to the conclusion that the Amending Regulations were ultra vires because they no longer set minimum national standards of greenhouse gas price stringency to reduce greenhouse gas emissions, that the Appellant believed that the Amending Regulations were implemented for political purposes and that the Appellant therefore took the position that it was no longer required to comply with the Act. The Appellant shall not, however, plead the facts that caused it to come to the foregoing belief and conclusion.
+D. Collection Attempts [41] Paragraphs 60 to 63 and 90 to 92 of the Notice of Appeal allege that the Minister improperly used a requirement to pay to attempt to collect the fuel charges and refused to come to some sort of understanding with the Appellant regarding payment pending the outcome of the dispute.
+Collection Matters Belong in the Federal Court [42] The Respondent submits that the process by which the Minister enforces the assessments is immaterial to the validity or correctness of the assessments. I agree. The Tax Court’s role is to determine whether the assessments were correct. Jurisdiction over collection matters lies with the Federal Court.
+[43] The Appellant acknowledges that the Tax Court has no jurisdiction over collections but argues that the facts in paragraphs 60 to 63 and the related argument in paragraphs 90 to 92, support the Appellant’s interjurisdictional and Crown immunity argument by providing “relevant background to the effect and end result of an [a]ssessment issued against the [Appellant]”.[15]
+[44] I accept that some background would be appropriate. That said, it is important to distinguish between pleadings that go to the fact that collection action occurred and pleadings that go to the details of how the collection action occurred.
+[45] The Appellant’s assertions that go to the means the Minister used to attempt collection (a requirement to pay), whether it was attempted too early, whether it was attempted without consultation and whether it was attempted despite the fact that the CRA knew the bank account in question held monies from the Appellant’s general revenue fund are unnecessary. These pleadings appear to have been included solely to make the Respondent look bad. If I allow the Appellant to argue about the manner in which the CRA tried to collect the tax, it risks unnecessarily lengthening the discovery and trial process by bringing in issues that should be and, in fact, already have been, before the Federal Court.
+[46] The appropriate solution is to strike all of the paragraphs but give the Appellant leave to add a simple paragraph that states that, as is the Minister’s right under the Act, the Minister attempted to collect the fuel charges by seizing the Appellant’s assets, in particular, its consolidated revenue fund and that the Appellant did not consent to that action. No further details are needed.
+[47] Stating that the Appellant did not consent to the action is less inflammatory than the existing statement that the Minister took the actions “unilaterally” and also less likely to waste discovery and trial time in a debate over what, if any, consultation or discussions occurred.
+E. Interest and Penalties [48] Before concluding, I will turn to two minor issues that inadvertently came to my attention.
+[49] The parties agree that the Minister did not impose penalties. Accordingly, I will strike the words “and penalties” from paragraphs 64(vi) and 97(vii).
+[50] Paragraph 66 sets out the statutory provisions that the Appellant intends to rely upon. One of those provisions is section 100 of the Act. That section gives the Minister discretion to waive interest. Referring to this section suggests that the Appellant is seeking an interest waiver. The Appellant, of course, recognizes that the Tax Court cannot waive interest. The Appellant confirmed that it is seeking no such waiver and that I could therefore strike the phrase “100,” from paragraph 66.
+Signed this 27th day of November 2025.
+“David E. Graham”
+Graham J.
+Schedule A
+CITATION:
+2025 TCC 181
+COURT FILE NO.:
+2025-404(GGPPA)G
+STYLE OF CAUSE:
+THE GOVERNMENT OF SASKATCHEWAN v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+November 20, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+November 27, 2025
+APPEARANCES:
+Counsel for the Appellant:
+David Jacyk
+Theodore Stathakos
+Simone Penney
+Counsel for the Respondent:
+Justine Malone
+Gabriel Caron
+Ryan R. Hall
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Jacyk
+Firm:
+Osler, Hoskin & Harcourt LLP
+Edmonton, Alberta
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] At para. 4.
+[2] Reference re Greenhouse Gas, at para. 595.
+[3] At para. 609.
+[4] At para. 609.
+[5] Reference re Greenhouse Gas, at para 220. Justice Rowe went on to propose a methodology for dealing with constitutional challenges to the regulations. The majority declined to comment on Justice Rowe’s proposed methodology, preferring instead to “leave the matter of the validity of regulations under the [Act] for a future case”.
+[6] 2011 SCC 42, at para. 17.
+[7] 2009 FCA 218, at para. 38.
+[8] 2020 FCA 118.
+[9] 2020 FCA 205. In that case the regulations in question were the Tax Court of Canada Rules (General Procedure).
+[10] 2024 SCC 24.
+[11] Notice of Appeal, at paras. 31, 36, 37 and 38.
+[12] At paras. 22 and 23.
+[13] [1992] 2 SCR 679, at pg. 696.
+[14] Appellant's Written Submissions, para. 37.
+[15] Appellant's Written Brief, para. 78.

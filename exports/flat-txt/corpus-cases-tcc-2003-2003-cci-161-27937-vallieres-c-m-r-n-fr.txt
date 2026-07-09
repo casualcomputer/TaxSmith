@@ -1,0 +1,192 @@
+Title: Vallieres c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27937/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-161-27937-vallieres-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-03-26
+
+# Vallieres c. M.R.N.
+
+- Citation: 2003 CCI 161
+- Decision date: 2003-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1720, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vallieres c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-26
+Référence neutre
+2003 CCI 161
+Numéro de dossier
+2002-1274(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-1274(EI)
+ENTRE :
+CHANTAL VALLIÈRES,
+et
+LE MINISTRE DU REVENU NATIONAL,
+____________________________________________________________________
+Appel entendu le 31 janvier 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+Référence : 2003CCI161
+Date : 20030326
+Dossier : 2002-1274(EI)
+ENTRE :
+CHANTAL VALLIÈRES,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Québec (Québec), le 31 janvier 2003.
+[2] L'appelante interjette appel de la décision du ministre du Revenu national (le «Ministre»), selon laquelle l'emploi exercé au cours de la période en litige, soit du 2 juillet au 29 septembre 2001, auprès du payeur, Les Entreprises de peinture Daniel Olivier Inc., est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi (la «Loi») au motif qu'il existait un lien de dépendance entre elle et le payeur.
+[3] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[4] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i):
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.»
+[5] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+«Article 251 : Lien de dépendance.
+(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de lien «personnes liées». Pour l'application de la présente loi, sont des «personnes liées» ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage ou de l'adoption;
+[...]»
+[6] Le fardeau de la preuve incombe à l'appelante. Cette dernière se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[7] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel, lesquelles ont été admises ou niées par l'appelante :
+a) Le payeur, constitué en société le 16 mars 1984, exploite une entreprise de peinture, tirage de joints et de pose de papier peint principalement dans le secteur commercial. (admis)
+b) Durant la période en litige, M. Daniel Olivier, conjoint de l'appelante, était l'unique actionnaire du payeur. (admis)
+c) Durant la période en litige, les principaux clients du payeur étaient la Commission scolaire les Découvreurs et l'Université Laval. (admis)
+d) Le payeur exploite son entreprise à l'année longue et embauche entre 2 et 4 personnes selon les contrats qu'il obtient. (admis)
+e) Antérieurement à la période en litige, l'appelante travaillait comme entraîneur pour le Club de nage Synchro-Élite de Québec Inc.; elle fut mise à pied le 6 mai 2001. (admis)
+f) Durant la période en litige, l'appelante rendait, pour la première fois, des services au payeur contre rémunération. (admis)
+g) Les principales tâches de l'appelante consistaient à répondre au téléphone, à s'occuper du courrier et des factures et à faire, au besoin, des courses pour le payeur. (admis)
+h) L'appelante travaillait généralement chez elle, sur la table de la cuisine, tout en s'occupant de ses 2 enfants en bas âge. (nié)
+i) L'appelante ne s'occupait pas de la tenue des livres comptables ni de la comptabilité du payeur qui embauchait un comptable à cet effet. (admis)
+j) L'appelante était entièrement libre de ses heures de travail; elle devait faire 4 heures par jour selon ses disponibilités. (nié)
+k) Les prétendues heures de travail de l'appelante n'étaient ni compilées, ni comptabilisées par le payeur. (nié)
+l) L'appelante recevait une rémunération fixe de 300 $ brut par semaine pour une prétendue semaine de 20 heures de travail. (nié)
+m) Le payeur a prétendu que l'appelante préparait les paies alors que l'appelante a mentionné que c'était le comptable qui les préparait car elle n'avait aucune connaissance dans ce domaine. (nié)
+n) Le payeur a prétendu avoir embauché l'appelante parce qu'il avait connu de fortes recettes durant la période en litige, soit 116 275 $, alors qu'en 1999 et 2000, ses recettes ont été respectivement de 91 871 $ et 89 106 $, durant la même période et ce, sans avoir embauché qui que ce soit pour faire les tâches de l'appelante. (nié)
+o) Les prétendues périodes de travail de l'appelante ne correspondent pas aux périodes les plus actives du payeur. (nié)
+p) L'appelante rendait bénévolement des services au payeur avant la période en litige. (nié)
+[8] Le payeur, constitué en société le 16 mars 1984, exploite une entreprise de peinture, tirage de joints et de pose de papier peint; 95 % de ce travail est exécuté dans le secteur commercial. Les principaux clients du payeur étaient la Commission scolaire les Découvreurs et l'Université Laval. Durant la période en litige, Daniel Olivier, conjoint de l'appelante, était l'unique actionnaire du payeur.
+[9] Le payeur exploite son entreprise à l'année longue et embauche entre 2 et 4 personnes selon les contrats qu'il obtient.
+[10] Antérieurement à la période en litige, l'appelante travaillait comme entraîneur pour le Club de nage Synchro-Élite de Québec Inc. et son salaire horaire était entre 13 $ et 15 $; elle a été mise à pied le 6 mai 2001.
+[11] L'appelante a rendu des services au payeur pour la première fois durant la période en litige et recevait une rémunération de 15 $ l'heure. Ses tâches consistaient à répondre au téléphone, s'occuper du courrier et des factures, faire au besoin, des courses pour le payeur et transcrire en forme finale les soumissions préparées par le payeur.
+[12] La période la plus active du payeur était de mai à l'automne de chaque année; il y a eu une augmentation des affaires en 2002.
+[13] Daniel Olivier, le payeur, affirme qu'il a engagé l'appelante en juillet 2001 et qu'elle travaillait deux heures le matin et 2 heures l'après-midi et cela cinq jours par semaine pour un total de 20 heures; c'était la première fois qu'il embauchait une secrétaire.
+[14] Le bureau du payeur était situé au sous-sol de la résidence familiale et était équipé d'un pupitre, deux classeurs et une machine à écrire; l'ordinateur était installé au rez-de-chaussée de la résidence.
+[15] Selon le payeur, il donnait ses instructions à l'appelante le matin et vérifiait son travail le soir. Selon lui, l'appelante préparait les chèques de paie des employés ainsi que les chèques aux fournisseurs.
+[16] Un document intitulé «liste du grand livre», déposé sous la cote I-1, démontre des revenus de 26 475 $ pour le mois de mai 2001, 28 270 $ pour le mois de juin, 79 975 $ pour le mois d'août, 31 595 $ pour le mois de septembre et 42 000 $ pour le mois décembre. Le payeur explique que les montants représentent les dates de facturation et non les dates d'exécution des travaux. Il ajoute que la plupart des soumissions se font l'été, environ quatre à cinq par jour.
+[17] Le comptable du payeur prépare le bilan et les états financiers de l'entreprise, les chèques et s'occupe de la marge de crédit.
+[18] L'appelante affirme qu'elle n'a aucune formation en tenue de livres et que ses tâches consistaient à répondre au téléphone, s'occuper du courrier et des factures et faire, au besoin, des courses pour le payeur. Son horaire de travail était établi par le payeur; elle oeuvrait deux heures le matin et deux heures l'après-midi, ce qui lui permettait de s'occuper de la maison et des enfants ainsi que de répondre au téléphone. L'appelante déclare que sa mère, occasionnellement, s'occupait des enfants lorsqu'elle travaillait dans le bureau situé au sous-sol de la résidence. Elle ajoute qu'elle n'a pas exécuté de travail pour le payeur hors la période en litige sauf pour répondre au téléphone à l'occasion.
+[19] L'appelante reconnaît avoir signé une déclaration statutaire en présence de Nicole Jean, enquêteur auprès du Développement des ressources humaines Canada, le 13 novembre 2001 (pièce I-2) dans laquelle elle déclare, entre autres :
+...J'étais payée pour 20- heures semaine en moyenne, mais les heures n'étaient pas comptabilisées, il n'y avait pas d'horaire fixe. Le travail pouvait se faire autant le soir, fin de semaine ou le jour. J'étais libre de l'organisation de mon travail et je faisais les commissions habituellement le jour, je prenais la voiture de la famille... Je n'avais pas de compte à rendre... C'est le comptable qui préparait les paies, il ne restait qu'à inscrire sur le talon les montants. C'est aussi lui qui fait toute la comptabilité de l'entreprise. Je n'ai aucune connaissance dans ce domaine. J'ai toujours rendu des services à mon conjoint depuis qu'il est en entreprise mais je n'étais pas payée parce que c'est mon conjoint. Habituellement c'était mon conjoint qui faisait tout ce travail et c'est toujours lui qui le fait maintenant. ...Habituellement j'avais assez d'heures pour me qualifier aux prestations avec l'emploi que j'occupais au Club de nage Synchro-Élite de Québec, mais cette année ils m'ont remplacée parce que j'étais en congé de maternité, c'est la raison pour laquelle j'ai travaillé pour mon conjoint; il me manquait des heures pour pouvoir avoir droit aux prestations...
+[20] Lors de son interrogatoire principal, l'appelante mentionne qu'elle a téléphoné à Nicole Jean le lendemain de sa déclaration statutaire pour y apporter une correction à l'effet qu'elle n'avait pas dit : «Je n'avais pas de compte à rendre». Nicole Jean, lors de son témoignage, déclare qu'il est possible que l'appelante lui ait téléphoné le lendemain de la déclaration pour faire des corrections et qu'elle lui ait répondu qu'elle pouvait donner ses explications à d'autres personnes.
+[21] En contre-interogatoire, l'appelante déclare que le payeur l'a approchée pour lui offrir cet emploi. Elle admet que sa demande de prestations d'assurance‑emploi a été refusée parce qu'il lui manquait des heures et affirme qu'elle travaillait quatre heures par jour, soit deux heures le matin et deux heures l'après-midi.
+[22] Lors de son témoignage, Nicole Jean déclare que la rencontre avec l'appelante s'est déroulée dans un bon atmosphère et que les réponses inscrites dans la déclaration statutaire sont celles que lui a données l'appelante.
+[23] Lors de son témoignage, Jean Vézina, agent des appels auprès de l'Agence des douanes et du revenu du Canada, déclare qu'il a eu une conversation téléphonique avec l'appelante le 11 mars 2002. Tel qu'il appert dans son rapport sur un appel déposé sous la cote I-3, l'appelante contredit les réponses données lors de sa déclaration statutaire; elle a déclaré à Jean Vézina qu'elle travaillait deux heures le matin et deux heures l'après-midi, soit de 9 h à 11 h et de 13 h à 15 h.
+[24] Jean Vézina a également eu une conversation téléphonique avec le payeur le 11 mars 2002. Selon son rapport, le payeur lui aurait déclaré que l'appelante faisait les paies car le comptable n'avait que le nombre d'heures, ce qui vient en contradiction avec la déclaration de l'appelante à l'effet que c'était le comptable qui préparait les paies. Le payeur admet, lors de cette conversation téléphonique, qu'il n'aurait pas engagé une personne sans lien de dépendance aux mêmes conditions de travail
+[25] Selon le rapport sur un appel (pièce I-3), le payeur a déclaré qu'il rémunérait l'appelante au même taux horaire qu'elle recevait dans le cadre de son emploi au Club de nage Synchro-Élite, soit 15 $. Le payeur a ajouté qu'il avait embauché l'appelante car les recettes de juillet étaient plus élevées que les années antérieures, soit 90 000 $.
+[26] Dans ce même rapport, Jean Vézina relate les faits suivants tirés des documents fournis par le comptable du payeur en date du 4 mars 2002 :
+Le livre des salaires indique que l'appelante avait travaillé 13 semaines consécutives à partir du 6 juillet 2001 jusqu'au 29 septembre, à raison de 20 heures par semaine, au salaire brut de 300 $, soit 15 $ l'heure, totalisant 260 heures. De plus, durant la période d'emploi, il y avait 5 employés dont l'appelante, son conjoint, 1 employé, 1 autre qui n'a commencé qu'en août, et 1 qui n'a travaillé que 2 semaines...
+Sur un total de 13 chèques de salaire, 2 sont du 12 juillet 2001, la plupart sont endossés par l'appelante, sauf ceux du 16 août (#648), et 1 était daté du 28 mars (#647). Il y en avait 4 au montant net de 245,23 $ et 9 au montant net de 248,81 $. 2 écritures distinctes ont été retracées sur les chèques...
+Selon le registre des ventes pour l'année 2001, le total inscrit est de 265,000 $, et le tableau mensuel ci-dessous nous donne le résultat suivant :...
+Mois Montant
+janvier 3 400 $
+février 19 155 $
+mars 3 950 $
+avril 11 979 $
+mai 26 475 $
+juin 28 270 $
+juillet 4 905 $
+août 79 775 $
+septembre 31 595 $
+octobre 5 545 $
+novembre 8 648 $
+décembre 42 000 $
+Total 265 697 $
+Les recettes du payeur déclarées selon le programme de la TPS à partir de l'année 1999 donne les résultats suivants, selon le dossier d'assurabilité # CE 2001 6824 0654 : ...
+DATE 1999 2000 2001
+31 mars 24 140 $ 15 526 $ 27 055 $
+30 juin 14 832 $ 32 688 $ 66 774 $
+30 septembre 91 871 $ 89 106 $ 116 275 $
+31 décembre 34 075 $ 40 747 $ non disponible
+[27] L'agent des appels déclare, dans son rapport, que le salaire de l'appelante était trop élevé puisqu'elle n'avait aucune expérience dans ce domaine et que, selon lui, une secrétaire qualifiée et avec de l'expérience aurait gagné 15 $ l'heure.
+[28] Dans l'arrêt Légaré c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.F. no 878, le juge Marceau de la Cour d'appel fédérale s'exprime ainsi :
+...la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était «convaincu» paraît toujours raisonnable.
+[29] Dans l'arrêt Bérard c. Canada (ministre du Revenu national – M.R.N.), [1997] A.C.F. no 88, le juge Hugessen de la Cour d'appel fédérale s'exprime en ces termes :
+...Le but évident de la législation est d'exclure les contrats de travail entre des personnes liées qui ne sont pas de la même nature qu'un contrat normal conclu entre des personnes n'ayant pas un lien de dépendance entre elles. Il nous paraît clair que ce caractère anormal peut aussi bien se manifester dans des conditions désavantageuses pour l'employé que dans des conditions favorables.
+[30] Selon la Loi, le Ministre a le droit d'exercer sa discrétion et de rendre une décision basée sur les faits obtenus. Cette Cour ne peut substituer son opinion à celle du Ministre à moins qu'il ne soit établi que le Ministre, en rendant sa décision, a agi de mauvaise foi ou dans un but ou un mobile illicites; n'a pas tenu compte de toutes les circonstances pertinentes ou a tenu compte d'un facteur non pertinent (voir Procureur général du Canada c. Jencan Ltd. [1998] 1 C.F. 187).
+[31] Il existe un lien de dépendance entre le payeur et l'appelante. Avant la période en litige, l'appelante travaillait à titre d'entraîneur pour le Club de nage Synchro‑Élite; lors de sa mise à pied au printemps 2001 elle a présenté une demande dans le but de recevoir des prestations d'assurance-emploi. Cette demande a été refusée puisque l'appelante n'avait pas accumulé le nombre d'heures assurables pour s'y qualifier.
+[32] Selon sa déclaration statutaire, l'appelante a été embauchée par le payeur parce qu'il lui manquait 50 heures pour être admissible aux prestations d'assurance‑emploi; elle a cependant travaillé pour le payeur environ 250 heures. L'appelante a été embauchée par le payeur à une seule occasion, soit durant la période en litige. Avant et après la période en litige le payeur s'occupait lui‑même des tâches qu'accomplissait l'appelante.
+[33] Selon la preuve, l'appelante n'exécutait que très peu de travail de secrétariat. Le comptable s'occupait des paies et de la comptabilité; d'ailleurs l'appelante a admis qu'elle n'avait aucune expérience dans ce domaine.
+[34] Selon l'agent des appels, pour cette région une secrétaire qualifiée et avec expérience serait payée un taux horaire de 15 $ l'heure. Selon lui, à cause de son manque d'expérience l'appelante était trop payée; le payeur l'a rémunérée au taux horaire de 15 $ qu'elle recevait alors qu'elle était entraîneur au Club de nage Syncrho-Élite.
+[35] Il y a contradiction quant aux heures de travail de l'appelante et, de plus, celles-ci n'étaient pas comptabilisées. Lors de sa déclaration statutaire, l'appelante a affirmé qu'elle n'avait pas d'horaire fixe et qu'elle n'avait «pas de compte à rendre». Elle a ajouté que le travail pouvait s'effectuer le soir ou durant la fin de semaine, mais a subséquemment changé sa version en déclarant qu'elle travaillait à des heures régulières, soit quatre heures par jour à raison de deux heures le matin et deux heures l'après-midi. Puisque l'appelante a fait sa déclaration statutaire peu de temps après la fin de son emploi auprès du payeur, ses affirmations doivent être retenues. L'appelante s'est encore contredite en déclarant qu'elle effectuait son travail sur la table de la salle à dîner alors qu'à une autre occasion elle affirme qu'elle travaillait dans le bureau aménagé au sous‑sol de la résidence.
+[36] Après avoir accumulé le nombre d'heures nécessaires auprès du payeur pour la qualifier aux prestations d'assurance-emploi, l'appelante a présenté une autre demande de prestations. Il est à noter que l'appelante a travaillé pour le payeur pendant plus d'heures que celles requises pour la qualifier à l'assurance‑emploi.
+[37] Selon la preuve, le but de l'emploi de l'appelante par le payeur était pour cette dernière de se qualifier aux prestations d'assurance-emploi, ce qui n'est pas répréhensible en soi. Cependant, les modalités d'emploi n'auraient pas été les mêmes si l'appelante et le payeur n'avaient pas eu entre eux de lien de dépendance. L'appelante n'ayant aucune expérience dans le domaine, la rémunération était trop élevée dans les circonstances; ses heures n'étaient pas comptabilisées et elle devait s'occuper de ses enfants pendant ses heures de travail puisque sa mère s'en occupait qu'occasionnellement.
+[38] Les chiffres d'affaires du payeur pour les années antérieures à 2001, année de la période en litige, étaient sensiblement les mêmes. Puisque le payeur a pu assumer les tâches exécutées par l'appelante avant et après la période en litige, les services de l'appelante n'étaient pas essentiels à la bonne marche de l'entreprise.
+[39] Compte tenu de toutes les circonstances, la Cour est convaincue que l'appelante n'a pas réussi à établir, selon la prépondérance de la preuve, que le Ministre a agi d'une façon capricieuse ou arbitraire.
+[40] En conséquence, l'appel est rejeté et l'emploi de l'appelante est exclu des emplois assurables en vertu de l'alinéa 5(2)i) de la Loi.
+Signé à Ottawa, Canada, ce 26e jour de mars 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI161
+No DU DOSSIER DE LA COUR :
+2002-1274(EI)
+INTITULÉ DE LA CAUSE :
+Chantal Vallières et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 31 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+Le 26 mars 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Jérôme Carrier
+Étude :
+Rochon, Belzile, Carrier, Auger
+Québec (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

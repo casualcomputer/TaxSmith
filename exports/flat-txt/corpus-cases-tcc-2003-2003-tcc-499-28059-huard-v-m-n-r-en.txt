@@ -1,0 +1,128 @@
+Title: Huard v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28059/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-499-28059-huard-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-07-31
+
+# Huard v. M.N.R.
+
+- Citation: 2003 TCC 499
+- Decision date: 2003-07-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1579, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huard v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-31
+Neutral citation
+2003 TCC 499
+File numbers
+98-209(UI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 98-209(UI)
+BETWEEN:
+FERNAND HUARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on June 13, 2003, at Jonquière, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgement.
+Signed at Ottawa, Canada, this 31st day of July 2003.
+"Alain Tardif"
+J.T.C.C.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC499
+Date: 20030731
+Docket: 98-209(UI)
+BETWEEN:
+FERNAND HUARD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is the appeal from a determination dated February 24, 1998.
+[2] Upon exercising the discretion provided for by paragraph 3(2)(c) of the Unemployment Insurance Act (the "Act"), the respondent concluded that the work performed by the appellant should remain excepted from insurable employment because he and 3094‑1546 Québec Inc., which is directed and controlled by his spouse, were not dealing with each other at arm's length.
+[3] The periods in issue are from September 6, 1993, to June 4, 1994, from February 6 to June 9, 1995, and from August 28, 1995, to June 21, 1996.
+[4] At the start of the hearing, I explained at length to the appellant the parameters of his burden of proof. As he was representing himself alone and without any witnesses to support his appeal, I also warned him of the potential difficulties in proving a genuine contract of service without the testimony of one of the contracting parties, that is the representative of the company that had paid his remuneration.
+[5] Despite the warnings, the appellant chose to proceed without making any change to his strategy.
+[6] The appellant first admitted that he performed appreciably the same work as he had previously done for the account and benefit of "Laidlaw". For his previous employer, he said and repeated that he had worked more or less 70 hours a week at an hourly rate of $10, whereas, for the work concerned by the appeal, he had received the same weekly remuneration, but for 40 hours of work. There was thus a wage difference of $5 an hour: $10 an hour when he worked for Laidlaw and $15 an hour when he worked for 3094‑1546 Québec Inc., which was directed by his spouse.
+[7] In the employment in issue, he also received $0.30 per kilometer to cover his truck expenses. According to the appellant's testimony, it had cost substantially more than that to use his truck. He even said that he had lost money, as the allowance received did not cover all expenses incurred.
+[8] The appellant also admitted that the duration of all the periods of employment in issue corresponded exactly to the number of weeks required to qualify for unemployment insurance benefits. He also admitted that he had resumed his work after exhausting all the benefits to which he was entitled.
+[9] During the periods when he received benefits, he regularly did the same work, bundled together in a single day, and received wages in such a way that that had no effect on his benefits.
+[10] Pierre‑Paul Tremblay and Yvon Comtois testified at the respondent's request. Mr. Comtois explained the content and the reasons for his analysis. He also emphasized the various factors that had led him to conclude that a third party would not have had substantially similar working conditions in similar circumstances.
+[11] He mainly emphasized two factors. First he said that the appellant had received the highest wages of the payer company's employees, and, second, the business received very large amounts of income during the periods when the appellant was unemployed; conversely, when the appellant was at work, the income of the business was not very high.
+[12] Mr. Comtois admitted that he had communicated his decision very quickly after the interview with the appellant. He even admitted that the interview had in fact served only to confirm or substantiate the conclusions drawn from the analysis of the documentary evidence.
+[13] He admitted that he had not compared working conditions with those of the appellant's former employment with Laidlaw. As to wages, he said that the appellant had received the highest remuneration, although he had not exhaustively analyzed the job descriptions for each of the salaries compared.
+[14] As to the conclusion that the appellant had worked during periods when income was relatively low and had not worked during periods when income was high, he essentially stated that the figures spoke for themselves and that he had not thought it useful or necessary to delve more deeply into those issues.
+[15] The appellant answered by saying that his wages could not be compared to those of other employees of the company since he had absolutely not done the same kind of work, being in fact the company's utility man, whereas the others had essentially acted as salesmen.
+[16] As to his periods of employment analyzed on the basis of the company's income, he contended, though without bringing evidence, that the company's cash inflows had nothing to do with his periods of employment. It would have been very important to have the views of more qualified persons than him to explain this very important element.
+[17] In light of the evidence adduced, it appears that Mr. Comtois drew hasty conclusions from the findings of the analysis and of certain documentary evidence.
+[18] Based on that information, he drew the conclusions that are at the origin of the determination. The information considered might have permitted or justified other conclusions than those formed. Hence it would have been important to take the analysis of the various findings further.
+[19] The speed of the decision-making process after the interview also suggests that the decision, to a large degree, was already made at the time of the meeting with the appellant and the business's executive officer.
+[20] I believe that the interview essentially served to confirm a decision that mentally had already been made. The interview served instead to verify and supplement the investigation that had been limited at that point to the documentary evidence.
+[21] For all these reasons, I find that the appellant discharged his first burden of proof by showing that the respondent acted in a very hasty and hurried manner on the basis of certain arithmetical findings.
+[22] The exercise of discretion was vitiated by a serious breach of a fundamental rule, the audi alteram partem rule. The interview was merely a formal, not a substantive exercise.
+[23] Consequently, the facts should be reanalyzed for the purposes of determining, on the basis of the tests established by law, whether the work performed by the appellant during the periods in issue was similar or comparable to the work he would have performed for the account and benefit of a company with which he was dealing at arm's length.
+[24] On that point, the appellant admitted that the work performed for the account and benefit of the company controlled by his spouse was appreciably comparable to the work he had previously done for Laidlaw.
+[25] However, he also said he had received the same weekly wage for far fewer hours; he thus affirmed that, during the periods in issue, he had worked an average of approximately 40 hours a week, whereas he had worked some 70 hours a week for Laidlaw. He received $10 an hour at Laidlaw, $15 an hour at 3094‑1546 Québec Inc. This is the first, very important distinction.
+[26] The appellant also said that the work with his previous employer had been a year-round annual employment, whereas the job with the payer company was more of an ad hoc employment corresponding precisely to what he needed in order to qualify for unemployment insurance.
+[27] The work resumptions were triggered by fairly particular conditions in that they always occurred after the number of weeks of employment insurance had been entirely exhausted.
+[28] To sum up, in each of the three periods in issue, the appellant worked only for the period of time required to qualify for unemployment insurance, after which he received the maximum amount of benefits payable, and did so for three consecutive years. He resumed work after completely exhausting unemployment insurance benefits.
+[29] Layoffs must have an economic justification (surplus inventory, economic slowdown, mechanical breakdown, declining demand, consequence of competition, plant closing, bankruptcy, departmental closing and so on). The same is true of work resumptions (increased demand, economic recovery, and so on).
+[30] Layoffs and work resumptions are events arising in situations shaped by essentially economic concerns, not by the desire to take maximum advantage of the unemployment insurance program. Insurance benefits are payable during actual periods of unemployment.
+[31] It could have been argued that chance was involved during one specific period, but not in three consecutive periods. Here again, it would have been very important for the person directing and controlling the company to come and explain these repeated chance situations.
+[32] On this point, the appellant's only answer and explanation was that he had not acted illegally. Indeed, there is nothing illegal in working the required number of weeks and subsequently receiving unemployment insurance benefits for a planned period.
+[33] However, unemployment insurance is not a business subsidization program; it is essentially a support program for those who lose their jobs.
+[34] A genuine contract of service is part of an economic reality in which hirings correspond to a need and layoffs are generally a consequence of a slowdown in operations.
+[35] The reasons for both hiring and laying off must stem from the economic situation, not the requirements of the Unemployment Insurance Act.
+[36] The appellant submitted no plausible evidence as to the reasons why he was laid off in the various periods, nor did he explain the reasons why he returned to work. Here again, it would have been important to hear the version of the person who theoretically controlled the company.
+[37] These are decisive elements, sufficient to conclude that the appellant's conditions of employment were neither comparable nor similar to those that a third party could or should have had. Instead there was a scheme essentially for the sole purpose of reducing the payroll by making use of the unemployment insurance program.
+[38] Furthermore, other facts and elements confirm that the appellant's conditions of employment were very particular. Following the layoffs, the appellant continued to work one day a week and received remuneration which did not penalize him from the standpoint of his unemployment insurance benefits.
+[39] Here again, this is a plausible and possible scenario in any business on certain occasions. In the instant case, this was a systematic way of doing things. It is quite surprising that a business whose economic purpose is carried out year-round operates on the basis of the right of its principal employee, the appellant, to receive unemployment insurance benefits.
+[40] The fact that the investment to incorporate the company was taken out of the joint account of the appellant and his spouse and the fact that the appellant's wages were deposited to the same joint account are not decisive factors in themselves. However, they are significant details in the overall context.
+[41] In justifying the many particular aspects of his case, the appellant repeated that the company was a very small SME and that he had not acted unlawfully or fraudulently.
+[42] Indeed there is no question of fraud. The legislator has excepted from insurable employment the work of persons not dealing with each other at arm's length, but has nevertheless provided that, if the work is performed on terms and conditions comparable to those that would have prevailed between third parties in the same circumstances, the initially accepted employment could become insurable.
+[43] Such provisions are not so flexible as to include employment that is excepted from insurable employment merely on the ground that the case is deserving of sympathy. The legislator has set down specific tests for determining whether a contract of employment has been shaped or affected by non-arm's length dealing between the parties to the contract of employment.
+[44] In the instant case, it was shown on a balance of probabilities, through the sole testimony of the appellant, whereas his spouse, the sole shareholder of the company, did not see fit to speak in support of the evidence, that the appellant's contract of employment during the periods in issue was marked and shaped to a high degree by non-arm's length dealing.
+[45] With respect to a contract of service, the notion of control cannot be presumed. Control must be proven and the presence of both parties to the contract of employment is obviously preferable for that purpose.
+[46] The appellant's only explanation was that the company was a very small business.
+[47] The provisions of the Act are not based on the size of the employer company. The legislator essentially wanted to prevent the abuses that can be made easier where the parties of the contract of employment are not dealing with each other at arm's length.
+[48] The evidence in the instant case revealed the following elements.
+· The appellant received a wage comparable to the one he had previously received in the same type of commercial activity, but for more than 20 fewer hours per week.
+· The company was incorporated using funds from a joint account.
+· The duration of the appellant's employment was shortened from that of an employment held year-round in the same economic sector to the number of weeks necessary to qualify for unemployment insurance, for the three periods in issue.
+· During the three periods in issue, the appellant resumed his work immediately after exhausting his unemployment insurance benefits.
+· The appellant used a truck the operating expenses of which were very high and received only $0.30 per kilometer, which, in his view, was utterly unreasonable compensation.
+· He did not work during certain periods when the income of the business was at its highest.
+· He worked during certain periods when income was below average.
+· Although the economic activities of the business generated income every month, the appellant, during the long periods when he was not working, accumulated work, which he performed in a few hours in a single day and received remuneration such that his benefits were in no way affected.
+· The person in a position to explain the large and significant fluctuations in the income of the business did not testify. The person controlling the employer company did not testify.
+[49] In conclusion, the appellant did not discharge the necessary burden of proof in order to win his case. Instead the evidence showed on a balance of probabilities that the appellant enjoyed a special contract of employment, shaped much more to take maximum advantage of the unemployment insurance program than on the basis of the economic needs and realities of the company from which he received his remuneration.
+[50] As the appellant's spouse did not testify, certain aspects of the evidence remained vague and unclear. The Court must make do with the appellant's version. In view of this absence, it might be tempting to conclude that the appellant occupied and assumed a much more strategic role than that of an ordinary employee subject to an employer's authority. Although this was an important aspect, the evidence was not sufficient to draw any conclusions in this regard, except that the evidence regarding the relationship of subordination was distinctly deficient.
+[51] This major evidentiary deficiency is in addition to a preponderance of proof that, during the periods in issue, the appellant did not perform work as part of a contract that was valid or similar to the contract he would have had if he had performed the work for a company with which he was dealing at arm's length.
+[52] For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 31st day of July 2003.
+"Alain Tardif"
+J.T.C.C.

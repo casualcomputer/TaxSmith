@@ -1,0 +1,444 @@
+Title: Xue c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/483046/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-72-483046-xue-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-07-27
+
+# Xue c. La Reine
+
+- Citation: 2020 CCI 72
+- Decision date: 2020-07-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4602, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xue c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-27
+Référence neutre
+2020 CCI 72
+Numéro de dossier
+2015-5443(GST)G, 2016-4824(IT)G, 2016-4826(IT)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Contenu de la décision
+Dossier : 2016-4824(IT)G
+ENTRE :
+STUART XUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2016-4826(IT)G
+ENTRE :
+STEPHANIE XUE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2015-5443(GST)G
+ENTRE :
+COASTRIDGE ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune les 3, 4, 5 et 6 septembre 2019 et le 24 janvier 2020, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Avocat des appelants :
+Me G. Douvelos
+Avocat de l’intimée :
+Me R.D.F. Wilhelm
+Me R. Whittaker
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2007, 2008, 2009 et 2010 des appelants Stuart Xue et Stephanie Xue sont accueillis et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et établissement de nouvelles cotisations au motif que les appelants, Stuart Xue et Stephanie Xue, avaient chacun des revenus à titre d’avantage conféré à un actionnaire non déclaré au cours des années d’imposition dont la Cour est saisie, de la manière suivante :
+En 2007, 83 301,27 $
+En 2008, 114 684,94 $
+En 2009, 166 596,44 $
+En 2010, 97 796,48 $
+L’appel interjeté à l’encontre de la nouvelle cotisation établie aux termes de la Loi sur la taxe d’accise pour les années d’imposition 2007, 2008, 2009 et 2010 de l’appelante Coastridge Enterprises Ltd. est accueilli : il sera tenu compte du fait que la TPS/TVH non versée par Coastridge Enterprises Ltd. sera ramenée de 52 575,96 $ à 50 273,86 $.
+Le ministre a correctement appliqué les pénalités prévues au paragraphe 163(2) de la Loi. Les pénalités seront réduites en fonction des rajustements effectués dans le présent jugement.
+Les parties auront jusqu’au 26 août 2020 pour s’entendre sur les dépens, faute de quoi elles doivent déposer leurs observations écrites sur les dépens au plus tard le 25 septembre 2020. Ces observations ne doivent pas dépasser quinze pages. Si les parties ne parviennent pas à un accord sur les dépens et qu’aucune observation écrite n’est déposée, les dépens seront attribués à l’appelante selon le tarif.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2020.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 5e jour d'octobre 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 72
+Date : 20200827
+Dossier : 2016-4824(IT)G
+ENTRE :
+STUART XUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2016-4826(IT)G
+ENTRE :
+STEPHANIE XUE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2015-5443(GST)G
+ENTRE :
+COASTRIDGE ENTERPRISES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+I. INTRODUCTION
+[1] Les présents appels concernent les nouvelles cotisations établies à l’égard de deux particuliers et d’une société, à savoir Stuart Xue (M. Xue), Stephanie Xue (Mme Xue) et Coastridge Enterprises Ltd. (Coastridge). Toutes les nouvelles cotisations ont trait à l’exploitation d’un restaurant à Burnaby, en Colombie-Britannique.
+[2] Les parties ont été cotisées de la façon suivante :
+Coastridge a fait l’objet d’une nouvelle cotisation pour la somme nette de 52 575,94 $ non versée au titre de la TPS/TVH correspondant aux périodes entre le 31 janvier 2007 et le 31 octobre 2010, pour la somme de 52 575,94 $.
+M. Xue et Mme Xue ont chacun fait l’objet d’une nouvelle cotisation à titre d’avantages conférés à l’actionnaire conformément au paragraphe 15(1) de la Loi de l’impôt sur le revenu (la Loi) pour les sommes suivantes : 84 735 $, 118 464 $, 122 634 $ et 105 752 $ pour les années d’imposition 2007, 2008, 2009 et 2010. En outre, ces deux particuliers se sont vu imposer des pénalités pour faute lourde à l’égard de chacune de ces années d’imposition.
+[3] Pour déterminer si les nouvelles cotisations doivent être maintenues intégralement ou encore modifiées ou annulées, les questions soumises à la Cour relativement à chacun des appels sont les suivantes :
+i) Coastridge a-t-elle perçu et omis de déclarer et de verser la somme de 52 575,94 $ au titre de la TPS/TVH?
+ii) M. Xue et Mme Xue ont-ils reçu des avantages à titre d’actionnaires conformément au paragraphe 15(1) de la Loi, et, dans l’affirmative, quels en sont les montants?
+iii) Enfin, M. Xue et Mme Xue se sont-ils vu imposer à juste titre des pénalités pour faute lourde conformément au paragraphe 163(2) de la Loi?
+II. LES FAITS
+[4] L’exposé conjoint des faits des parties est joint aux présentes à l’annexe A. Bien que je me sois fondé sur l’exposé conjoint des faits dans son intégralité, dans ma décision, je ne ferai référence qu’à une partie de ces faits.
+[5] Coastridge est une société constituée qui a commencé à exercer ses activités le 1er novembre 2001. Coastridge a été dissoute en septembre 2005 et a repris ses activités en avril 2006.
+[6] En 2006, Coastridge a fait l’acquisition de Tomoya Japanese Restaurant (Tomoya), qui exerçait ses activités à Burnaby, en Colombie-Britannique. Coastridge a déclaré des pertes financières au cours de toutes les années d’imposition dont la Cour est saisie.
+[7] M. Xue et Mme Xue détiennent chacun 50 % des actions de Coastridge et sont tous deux administrateurs de la société. Au cours des années d’imposition en cause, M. Xue et Mme Xue exploitaient Tomoya. Mme Xue apportait une aide « plus pratique » à l’entreprise que M. Xue. Elle gérait Tomoya. Quant à M. Xue, ses tâches consistaient principalement à préparer les feuillets T4 et les versements, et à interagir avec le gouvernement. Il a également fait l’acquisition du système de terminaux de point de vente (POS) appelé Profitek, utilisé par le restaurant. M. Xue a acheté le logiciel Profitek de seconde main [1] . Au moment de l’achat du logiciel, M. Xue l’a mis à l’essai et, dans une certaine mesure, a participé à son utilisation continue au restaurant. Le système Profitek enregistrait les opérations quotidiennes de Tomaya. M. Xue préparait également les feuilles de calcul qui modifiaient les données du système POS. Il remettait ces feuilles de calcul aux comptables de la société.
+[8] Le système Profitek fonctionnait sur une seule caisse enregistreuse du restaurant. M. Xue a témoigné que le système Profitek fonctionnait bien au moment de son achat (à une fraction du coût d’achat d’un nouveau système). Le système fonctionnait, mais comportait des lacunes. Les éléments de preuve quant à ces lacunes, que seuls M. Xue et Mme Xue ont présentés, étaient limités et parfois contradictoires. Je relèverai plus loin ces contradictions.
+[9] Tous les jours, le système Profitek était fermé, et les rapports des ventes quotidiennes étaient générés. Ces rapports de ventes renfermaient les données suivantes :
+les ventes de nourriture;
+la TPS/TVH perçue;
+les espèces reçues;
+les paiements effectués au moyen de MasterCard;
+les paiements effectués au moyen de Visa;
+les paiements effectués au moyen d’Interac.
+[10] Ces rapports des ventes quotidiennes générés par le système Profitek étaient modifiés presque tous les jours par M. Xue et Mme Xue. Mme Xue produisait ces rapports chaque soir à la fermeture du restaurant. Dans ces rapports, le montant de l’encaisse obtenu du système Profitek était presque toujours réduit par Mme Xue, par une entrée manuelle. Dans la très grande majorité des cas, la somme était réduite d’un chiffre rond. À titre d’exemple, le 30 janvier 2009, le système Profitek indiquait des ventes au comptant de 2 158,98 $. Mme Xue a modifié cette somme en la réduisant de 1 000 $, pour y inscrire 1 158,98 $. Au total, au fil des années d’imposition faisant l’objet de l’appel, ces modifications ont contribué à réduire les ventes au comptant de 696 349 $.
+[11] Les autres calculs du système POS, comme les paiements effectués au moyen des cartes MasterCard, Visa et Interac, sont demeurés les mêmes. Aucune explication n’a été produite pour justifier que l’encaisse devait être modifiée quotidiennement ou que les sommes étaient presque toujours arrondies, comme la somme de 1 000 $.
+[12] Ensuite, 9 715 ventes n’ont pas été inscrites dans le système POS au cours de la période dont la Cour est saisie [2] . Dans la nouvelle cotisation frappée d’appel, le ministre du Revenu national (le ministre) soutient qu’il s’agissait de ventes au comptant qui avaient été supprimées par l’appelante, y compris des sommes importantes non déclarées, dont le total s’élevait à 92 000 $ pour les repas du midi et à 74 616 $ pour les repas du soir, au cours des années portées en appel.
+[13] Sur les 9 715 ventes supprimées, 971 de ces ventes indiquent qu’elles ont été ouvertes, puis conclues en quelques secondes, et que 2 213 d’entre elles ont été ouvertes en moins de cinq minutes.
+[14] L’intimée reconnaît que certaines de ces ventes avaient probablement été supprimées dans le cours normal des affaires, et étaient donc légitimes. Elle affirme de plus qu’il est impossible de calculer le nombre d’éléments légitimement supprimés parce que les appelants n’ont pas dit la vérité tant au cours de la vérification qu’au cours de l’instance, et qu’ils n’ont pas produit d’explications valables relativement à ce qui s’est produit.
+A. Thèse des parties
+[15] L’intimée soutient que M. Xue et Mme Xue ont tous deux tenté, activement et délibérément, d’éviter de déclarer la TPS/TVH au nom de Coastridge. Elle soutient également que les appelants ont dissimulé le revenu de Coastridge au moyen de deux méthodes. Ils se sont alors versé ce revenu dissimulé pour leur propre avantage, sans remettre les impôts à payer sur ce revenu.
+[16] Les méthodes de dissimulation du revenu (décrites plus haut) alléguées par le ministre sont les suivantes :
+- La première consistait à réduire arbitrairement les ventes au comptant de la journée, déclarées par le système POS du restaurant. M. Xue et Mme Xue remettaient alors aux comptables de Coastridge des relevés de ventes au comptant quotidiens inexacts. Le ministre a établi une nouvelle cotisation à l’égard des ventes au comptant réduites au moyen de cette méthode, soit 696 349 $ pour les années d’imposition frappées d’appel. Pour dire les choses simplement, il s’agirait d’une allégation selon laquelle M. Xue et Mme Xue ont empoché les ventes au comptant tous les soirs.
+- La deuxième méthode alléguée par l’intimée est un peu plus complexe. L’intimée soutient que, lorsque l’appelante inscrivait 9 715 ventes légitimes, puis supprimait ces ventes par la suite des données du système POS, elle était en mesure de percevoir l’argent et la TPS sans inscrire les ventes. Cette partie des nouvelles cotisations se fonde sur l’hypothèse formulée par le ministre voulant que la valeur moyenne des opérations au comptant le midi était de 14,97 $. On a également présumé que la période de lunch était comprise entre l’ouverture du restaurant et 17 h. Après 17 h, selon l’hypothèse avancée par le ministre, la valeur moyenne des opérations pour les repas du soir était de 22,98 $. Cette somme était celle de la facture, de sorte que ces factures peuvent comprendre plus que le repas d’une seule personne [3] . Les recettes totales des ventes des repas du midi qui, selon le ministre, non pas été déclarées, étaient de 92 000 $ pour les années 2007 à 2010. Les recettes totales des ventes des repas du soir qui, selon le ministre, n’ont pas été déclarées, étaient de 74 616 $ pour la même période.
+[17] En ce qui a trait aux calculs de la moyenne des opérations au comptant, décrits au paragraphe ci-dessus, dans leur témoignage, M. Xue et Mme Xue ont clairement indiqué qu’ils n’étaient pas d’accord avec les sommes avancées par le ministre quant au prix moyen d’un repas. Malheureusement, les éléments de preuve des appelants, au mieux, semblent être une estimation du revenu qui aurait dû servir à calculer la valeur moyenne des opérations pour les repas du midi et ceux du soir. Honnêtement, je suis surpris par cette absence d’éléments de preuve de la part de M. Xue et Mme Xue à cet égard. Il s’agit d’un domaine où Mme Xue, compte tenu de son expérience au quotidien chez Tomoya, aurait pu facilement contester les hypothèses formulées par l’intimée au sujet du prix d’un repas, advenant que l’une l’autre des hypothèses en question soit erronée, ce qui n’a pas été valablement fait. Les appelants n’ont pas produit le menu ou un quelconque examen des factures de vente afin de contester les hypothèses formulées par le ministre au sujet des prix de chaque repas. Par conséquent, je suis disposé à retenir comme exactes les sommes moyennes calculées par le ministre, et je les appliquerai dans la décision.
+[18] Le ministre soutient également que M. Xue et Mme Xue ont utilisé l’argent provenant des ventes non déclarées pour leur usage personnel. Ce qui donne lieu à la nouvelle cotisation prévue au paragraphe 15(1) de la Loi. Comme M. Xue et Mme Xue étaient tous deux propriétaires du restaurant, le ministre a divisé les sommes en cause entre les parties. Les appelants n’ont présenté aucun élément de preuve ni aucun argument pour contester la répartition, en parts égales, effectuée par le ministre relativement au revenu non déclaré.
+[19] En outre, le ministre a allégué que Coastridge, à la suite des mesures prises par les appelants, a omis de verser la TPS/TVH perçue sur les ventes qui n’ont pas été déclarées.
+[20] L’intimée déclare que M. Xue et Mme Xue ont sciemment fait, participé, consenti ou acquiescé à un faux énoncé ou à une omission dans leurs déclarations de revenus pour les années d’imposition 2007 à 2010 et qu’ils sont passibles de pénalités pour faute lourde en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+1) Thèse des appelants
+[21] Les appelants soutiennent que le ministre a établi les ventes prévues et le revenu non déclaré selon des données inexactes ou mal interprétées. Pour dire les choses simplement, les appelants affirment que le ministre a effectué une série de mauvais calculs.
+[22] Ils soutiennent également, mais présentent très peu d’éléments de preuve à cet égard, que la somme établie n’est pas logique, parce qu’un restaurant de 25 places (selon le témoignage de Mme Xue) ne pouvait pas produire le revenu qui lui a été attribué.
+[23] Dans leurs observations, les appelants ont d’abord soutenu que certaines ventes au comptant n’avaient pas été déclarées. Selon ma compréhension, une partie de cette concession repose sur le fait que les appelants ont utilisé une partie de l’argent provenant des recettes quotidiennes de Tomoya pour acheter du stock supplémentaire avant de les déclarer dans le total des ventes. Voilà ce qu’a déclaré Mme Xue. Au final, l’appelante s’est écartée de cette position et a soutenu que toutes leurs déclarations produites pour les années d’imposition en cause étaient exactes.
+[24] À la fin du procès, l’avocat des appelants a signalé qu’il souhaitait que la Cour tire une conclusion défavorable concernant les éléments de preuve produits par le ministre. J’examinerai d’abord cette question.
+[25] La conclusion défavorable recherchée porte sur le travail effectué par le vérificateur de l’Agence du revenu du Canada (Agence), M. Terry Condia. Plus précisément, lors de sa vérification, M. Condia s’est présenté au restaurant Tomoya et a téléchargé l’information du système POS à partir du logiciel Profitek. M. Condia n’a pas témoigné au procès.
+[26] Les autres vérificateurs de l’Agence se sont appuyés sur les données obtenues par M. Condia, à partir de l’ordinateur des appelants, ce qui a finalement abouti à l’établissement des nouvelles cotisations dont la Cour est saisie. Dans ses observations, l’avocat des appelants n’est pas allé jusqu’à dire que M. Condia avait probablement modifié les données pertinentes du système POS au détriment des appelants. Il a bel et bien soutenu que M. Condia aurait pu le faire. À partir de ce raisonnement, il affirme que les données du système POS utilisées par l’Agence ne peuvent être invoquées, parce que M. Condia ne pouvait être contre-interrogé au procès sur la question de savoir s’il avait apporté des modifications aux données téléchargées chez Tomoya.
+[27] J’ai quelques observations à faire au moment de rejeter la demande des appelants voulant que je tire une conclusion défavorable concernant cet élément de preuve. Tout d’abord, vu mon examen des actes de procédure des appelants dans les trois affaires, cette question n'y est pas soulevée. Les appelants n’ont pas invoqué précisément que le travail de M. Condia était remis en question ou qu’une fraude avait été commise [4] . Les actes de procédure doivent exposer la thèse qu’une partie doit prouver. Ils peuvent être modifiés après les interrogatoires et, dans de rares cas, aussi tardivement que pendant le procès.
+[28] Rien dans les actes de procédure ne pouvait amener l’intimée à prévoir que la participation de M. Condia à la vérification et au téléchargement des données du système POS était une question controversée au procès. Je remarque également que les appelants n’ont pas assigné M. Condia à comparaître et n’ont pas remis à la Cour un registre des tentatives visant à ce que l’intimée cite ce dernier comme témoin. Aucun élément de preuve n’a été présenté suivant lequel M. Condia était sous le contrôle exclusif de l’intimée.
+[29] En deuxième lieu, le rôle des hypothèses dans les contentieux de nature fiscale a été consacré par une abondante jurisprudence. Bien que je ne croie pas nécessaire de résumer la jurisprudence dans ce domaine, il suffit de dire que l’intimée peut se fonder sur les hypothèses du ministre sans présenter une preuve pour étayer ces hypothèses. Pour avoir gain de cause, les appelants doivent présenter des éléments de preuve pour réfuter les hypothèses qui nuisent à leur cause, mais ils ne l’ont pas fait.
+[30] Enfin, je ne trouve rien dans les éléments de preuve qui pourrait m’amener à croire que les appelants ont subi un préjudice en raison de l’absence de M. Condia au procès. J’ai demandé à maintes reprises à l’avocat des appelants de me faire part de ses préoccupations concernant le travail de M. Condia. Au mieux, l’avocat des appelants a exposé ses préoccupations de façon minimale. Je crois qu’il s’agissait d’un document de travail préparé par l’Agence, dont la partie désignée était Tomoya plutôt que Hot Road Prime Restaurant, qui était le nom généré par le logiciel Profitek. Je n’ai jamais douté de la véracité des données téléchargées.
+[31] L’avocat des appelants a avancé des hypothèses sur d’autres raisons pour lesquelles les appelants auraient pu subir un préjudice du fait que M. Condia n’était pas présent à l’audience. Il était libre d'invoquer cette thèse sur la base du témoignage de ses propres clients, du témoignage éventuel d’un tiers, et même d’un expert qui a procédé à l’examen du logiciel, ou encore au moyen d’un contre-interrogatoire. S’il l’avait valablement fait, les hypothèses du ministre ayant trait aux revenus non déclarés de Tomoya auraient été réfutées. Il ne s’est rien produit de la sorte. Je remarque également que l’intimée a fait témoigner un autre employé de l’Agence qui a examiné tant les données du système Profitek que le document de travail préparé au cours de la vérification, et qu’il a corroboré les données recueillies par M. Condia. Je n’ai aucun motif de croire que les données provenant du système Profitek étaient corrompues de quelque façon que ce soit.
+[32] Les appelants ont invoqué la jurisprudence Singh v Reddy (2019 BCCA 79) de la Cour d’appel de la Colombie-Britannique dans leurs observations portant sur la conclusion défavorable. Les appelants se sont fondés, en partie, sur l'observation suivante de cette Cour : [traduction] « La conclusion ne doit être tirée que dans des circonstances où le témoignage d’une personne qui n’a pas été appelée à témoigner aurait été supérieur à un témoignage semblable » [5] .
+[33] Je n’arrive pas à cette conclusion. Vu mon examen du dossier des appelants et de celui de l’intimée, je crois que le témoignage de M. Condia n’était pas nécessaire. Je note encore une fois que les appelants n’ont produit aucun élément de preuve dont il ressort que M. Condia ne pouvait être appelé à témoigner. Enfin, je note que l’intimée n’a aucune obligation de présenter des éléments de preuve pour étayer les hypothèses qu’elle a avancées. Par conséquent, je ne tirerai pas une conclusion défavorable concernant les registres obtenus auprès de l’entreprise des appelants.
+[34] J’examinerai maintenant chacune des allégations formulées par le ministre, qui ont mené à l’établissement de la nouvelle cotisation.
+[35] Pour en arriver à ma décision, j’estime qu’il est nécessaire de faire état des réserves suivantes que j’exprime relativement au témoignage de M. Xue et de Mme Xue.
+a) Le témoignage des appelants n’était pas clair. À la fin du procès et après avoir examiné les transcriptions, je ne suis toujours pas certain de ce que les appelants ont dit sur ce qui clochait avec les données du système POS, et la façon dont on pourrait déterminer les montants de revenu exacts de Tomoya, sinon au moyen des données provenant du système POS. Le mieux que je peux conclure est que les appelants me demandent de retenir les feuilles de calcul préparées par M. Xue comme exactes, sans expliquer clairement pourquoi les données du système Profitek sur les ventes au comptant étaient inexactes sur une base presque quotidienne.
+b) Le thème qui ressort du témoignage des appelants est que les données du système POS sont inexactes pour différentes raisons. La principale raison étant la suivante : il arrivait souvent que des clients se présentent et demandent le prix des différents plats. Pour répondre à ces questions, le serveur ouvrait une nouvelle table dans le système POS et saisissait les commandes pour obtenir les prix. Cette façon de procéder créait des problèmes avec les données du système POS. Pour une raison quelconque, seules les ventes au comptant étaient touchées, de sorte qu’elles étaient surévaluées dans les sommes au dollar près. Cet élément de preuve est dépourvu de toute vraisemblance.
+c) Il n’y avait qu’une seule caisse enregistreuse dans le restaurant. La description du serveur qui, des milliers de fois, saisit une commande afin d’obtenir un prix au lieu de simplement regarder le menu est contraire au bon sens. Les appelants ont également soutenu que le système POS avait été corrompu par de nouveaux employés en formation. Cette explication semble plus crédible, bien que l’on ne m’ait exposé à peu près aucun détail sur la façon dont ces événements pourraient avoir une incidence sur le calcul des ventes.
+d) En ce qui concerne les 9 715 tables supprimées dans le système POS, plusieurs d’entre elles avaient été ouvertes pendant une longue période, soit plus d’une demi-heure; on peut croire que c’était parce que quelqu’un s’était assis pour manger.
+e) En outre, les appelants affirment qu’ils ne permettaient pas aux employés d’annuler ou de supprimer des erreurs dans le système. Cela paraît illogique. Le système permettait l’annulation ou la suppression d’erreurs, de manière beaucoup plus simple que la description qui en avait été faite, soit la fermeture de la table en y indiquant l’erreur et en saisissant à nouveau la commande. Je remarque également que Mme Xue a admis qu’elle-même annulait des commandes prises par erreur.
+f) Les erreurs décrites ci-dessus se produisaient uniquement lors des opérations au comptant, et non lors des paiements au moyen des cartes de crédit ou de débit.
+g) Aucun élément corroborant cette méthode alambiquée de correction d’erreurs n’a pu être obtenu des autres serveurs qui ont témoigné.
+h) Je reconnais que, lors de la formation du personnel et à la suite d’une erreur humaine, et peut-être pour d’autres raisons, des tables ne générant aucun revenu ont pu être ouvertes, puis fermées. J’en tiendrai compte dans mon jugement.
+i) M. Xue a témoigné que le système Profitek ne contenait pas de touche « aucune vente ». Mme Xue a finalement confirmé qu’une touche du système servait à annuler, et une autre, à supprimer.
+j) Mme Xue admet également que le système comprenait une touche servant à annuler, mais qu’elle ne voulait pas que les serveurs l’utilisent parce que ces derniers pourraient en profiter pour voler de l’argent au cours des opérations au comptant.
+k) Mme Xue a déclaré que lorsqu’un serveur préparait une commande par erreur, elle signait le reçu qui était conservé. Ces reçus n’ont pas été produits à titre d’éléments de preuve au procès.
+l) Il y avait également controverse entre les parties quant à l’exactitude du système POS. Selon Mme Xue, le système n’était pas du tout exact. Cela soulève la question de savoir pourquoi les appelants ont acheté le système et l’ont utilisé pendant de nombreuses années. M. Xue a déclaré que le système était exact, sauf pour les opérations au comptant [6] . Le contre-interrogatoire mené par l’intimée a révélé que les appelants n’ont apporté aucune modification aux résultats des cartes de crédit ou de débit, sauf aux ventes au comptant.
+m) Dans certains cas, les ventes quotidiennes de nourriture enregistrées dans le système POS étaient supérieures aux sommes réclamées découlant des cartes de crédit, de débit et des recettes en espèces sur une base quotidienne qui auraient payé pour ces ventes.
+n) Les appelants n’ont pas expliqué pourquoi les ventes au comptant étaient toujours enregistrées de façon incorrecte dans le système POS, en chiffres arrondis.
+o) Mme Xue a déclaré les revenus nets suivants dans sa déclaration de revenus qu’elle a produite :
+2007 16 057 $
+2008 24 637 $
+2009 28 230 $
+2010 0 $
+p) M. Xue, qui avait un emploi dans le domaine de la haute technologie, a déclaré les revenus nets suivants dans sa déclaration de revenus :
+2007 58 413 $
+2008 68 807 $
+2009 119 839 $
+2010 40 280 $
+Au cours de toutes ces années, Coastridge a déclaré des pertes importantes.
+q) Avec les revenus qu’ils ont déduits, M. Xue et Mme Xue ont acheté une maison en rangée, en 2009, au prix de 538 000 $; ils ont versé une mise de fonds de 134 500 $ et ont contracté un prêt hypothécaire consenti par la banque de 403 500 $. Ils ont également loué, puis acheté, une Lexus 2004. Ils ont investi dans un autre restaurant appelé Swish, qui leur a coûté entre 60 000 $ et 90 000 $.
+r) Ces événements corroborent la thèse de l’intimée voulant que M. Xue et Mme Xue soient en possession de revenus importants non déclarés.
+III. ANALYSE
+[36] A l'occasion de l'affaire Eisbrenner v. Canada (2020 FCA 93), la Cour d’appel fédérale a récemment examiné le fardeau de la preuve qui incombe à l’appelante devant la Cour de l’impôt. Il incombe au contribuable de prouver les faits qu’il allègue dans son avis d’appel et qui sont niés par l’intimée.
+[37] Il convient de noter que la capacité de l’intimée à invoquer les hypothèses formulées par le ministre est propre aux appels en matière d’impôt. Dans un tel cas, pour avoir gain de cause, le contribuable doit réfuter les hypothèses de fait qui fragilisent son appel. Dans la réponse produite en l’espèce, plusieurs hypothèses clés ont été établies et invoquées par l’intimée dans les éléments de preuve qu’elle a présentés. Peu d’hypothèses, voire aucune, n’ont été expressément visées par les éléments de preuve présentés par les appelants.
+[38] De plus, les appelants soutiennent que le ministre a mal interprété les données du système POS. Dans ses actes de procédures, l’intimée a nié cette allégation. Les appelants n’ont présenté aucun élément de preuve, selon la prépondérance des probabilités, pour étayer cette position.
+[39] En tant que juge de première instance, je m’attends à ce que des éléments de preuve soient produits pour réfuter ces hypothèses. Ces attentes ne sont pas des exigences auxquelles doit satisfaire un appelant. Dans plusieurs cas, un appelant peut réfuter des hypothèses par la présentation d’éléments de preuve que le juge ne première instance ne s’attend pas à recevoir. Il va sans dire que, parmi les parties devant la Cour, c’est l’appelant qui connaît le mieux sa propre entreprise. Au procès, les appelants ont uniquement témoigné de façon intéressée, sans corroboration. Leurs témoignages étaient souvent contredits par divers documents commerciaux dont la Cour était saisie et, comme je l’ai déjà mentionné, dépourvus de toute vraisemblance.
+[40] Les éléments de preuve présentés par les appelants, de même que le contre-interrogatoire mené par l’avocat des appelants, n’ont pas réussi à réfuter les hypothèses formulées dans les réponses [7] . Même en l’absence d’hypothèses, je serais arrivé aux mêmes conclusions que j’ai tirées en ce qui concerne le revenu non déclaré. Cette conclusion est fondée sur les éléments de preuve présentés par l’intimée au procès, obtenus le plus souvent à partir des documents commerciaux préparés dans le système Profitek.
+[41] Je me serais attendu à ce que les appelants, à tout le moins, témoignent de façon claire sur ce que le système Profitek utilisé pouvait faire ou ne pas faire. Je me serais également attendu à voir les menus et les prix en vigueur au cours des années d’imposition en cause. J’aurais souhaité entendre les témoignages des autres serveurs pour étayer l’allégation selon laquelle les commandes étaient mal saisies dans le système, représentant plus de 9 700 incidents. Seuls les appelants, M. Xue et Mme Xue, ont témoigné. Leurs témoignages renfermaient un grand nombre d’incohérences et, dans l’ensemble, une absence de logique. Ces lacunes rendent les témoignages beaucoup moins convaincants. Ce disant, je me fonde sur les divers exemples exposés plus haut dans la présente décision.
+[42] En outre, les appelants devaient produire une explication pour justifier la raison pour laquelle des rajustements ont été effectués afin de réduire les ventes au comptant, et pourquoi ces rajustements étaient presque toujours effectués au dollar près, et ce, presque quotidiennement. M. Xue et Mme Xue ont été contre-interrogés sur cette question. Ni un ni l’autre n’ont pu expliquer pourquoi il était nécessaire d’apporter des modifications. Les rajustements relatifs aux ventes au comptant ont été préparés par Mme Xue. Il est certain que, si Mme Xue devait réduire les ventes au comptant inscrites dans le système POS par sommes arrondies sur une base quotidienne, pour des motifs légitimes, elle devrait pouvoir expliquer pourquoi le système POS générait continuellement des données inexactes.
+[43] Les contribuables ne se sont pas acquittés de leur fardeau. Les appelants n’ont pas présenté d’éléments de preuve dont il ressort de prime abord que, selon la prépondérance des probabilités, les nouvelles cotisations sont erronées. Ils n’ont pas non plus présenté d’éléments de preuve permettant de réfuter les hypothèses avancées par le ministre. Pour ce seul motif, je rejette la plus grande partie de l’appel. Plus précisément, la partie des nouvelles cotisations des avantages conférés à l’actionnaire, qui a trait à la sous-estimation des ventes tous les soirs, s’élevant à 696 349 $, ne sera pas modifiée à la suite du présent jugement.
+[44] Cela dit, les appelants auront partiellement gain de cause en l’espèce. J’ai conclu que les nouvelles cotisations surestiment le montant non déclaré des avantages conférés à titre d’actionnaire de M. Xue et Mme Xue. Cette surévaluation du revenu concerne précisément les calculs et les hypothèses appliqués aux ventes supprimées dans le système POS.
+[45] En ce qui concerne précisément les suppressions effectuées dans le système POS et décelées par l’Agence, 2 213 tables ont été ouvertes dans le système pendant moins de cinq minutes. Je conclus que cette période est trop courte pour qu’un client puisse commander et recevoir son plat. Ces cas étaient plus susceptibles d’être des corrections d’erreurs. J’accorderai à l’appelante le bénéfice du doute, et je conclus que le calcul des nouvelles cotisations liées aux suppressions décelées dans le système POS doit être réduit. Cette réduction équivaut à 23 % des transactions supprimées. Je réduirai donc cet élément de la nouvelle cotisation de 23 % pour chaque année. Je suis conscient qu’il s’agit là de calculs très approximatifs, et j’aurais préféré avoir certaines indications des appelants relativement à ce rajustement. Je conviens toutefois que les transactions supprimées, telles qu’elles ont été appliquées par le ministre, ont pour effet de surévaluer la nouvelle cotisation. Par conséquent, cet élément de la nouvelle cotisation sera réduit de 23 %.
+[46] À titre de précision supplémentaire, je conclus que le montant des ventes non déclarées des repas du midi devrait être réduit de 92 200 $ à 70 994 $ [8] pour les années d’imposition dont la Cour est saisie. Je conclus en outre que le montant des ventes non déclarées des repas du soir doit être réduit de 74 616 $ à 57 454 $ [9] pour les années d’imposition dont la Cour est saisie.
+A. Nouvelle cotisation établie pour Coastridge au titre de la TPS/TVH
+[47] En ce qui concerne le nouvel avis de cotisation du ministre à l’encontre de Coastridge pour avoir perçu et omis de verser 52 575,94 $ au titre de la TPS nette pour les années d’imposition frappées d’appel, cette somme doit être redressée conformément aux conclusions que j’ai tirées précédemment. Plus précisément, il doit y avoir une réduction de 23 % d’une partie des montants de revenus sur lesquels la TPS à verser a été calculée relativement aux ventes supprimées des repas du midi et du soir. Cela découle de la réduction du montant de la nouvelle cotisation sur les ventes totales non déclarées des repas du midi, de 92 200 $ à 70 994 $, et de ceux du soir, de 74 616 $ à 57 454 $.
+[48] Les taux de TPS/TVH applicables pour les années en question étaient les suivants :
+A. 6 % du 1er novembre 2006 au 31 décembre 2007
+A. 5 % du 1er janvier 2008 au 30 juin 2010
+C. 12 % par la suite
+[49] Dans ces calculs, j’appliquerai un taux de 6 %. Le montant de TPS exigible attribuable aux ventes non déclarées des repas du midi doit être réduit de 1 272,36 $ [10] .
+[50] Le montant de TPS exigible attribuable aux ventes non déclarées des repas du soir doit être réduit de 1 029,72 $ [11] .
+[51] Cela constitue une réduction de 2 302,08 $ du montant de TPS exigible. Je conclus donc que Coastridge a omis de verser 50 273,86 $ au titre de la TPS nette pour les années d’imposition en cause.
+B. Pénalités pour faute lourde
+[52] Des pénalités ont été imposées tant à M. Xue qu’à Mme Xue aux termes du paragraphe 163(2) de la Loi de l’impôt sur le revenu (LIR), dont le préambule est ainsi rédigé :
+163(2) Faux énoncés ou omissions
+– Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi [...]
+[53] Selon le paragraphe 163(3) de la LIR, le ministre a la charge d’établir les faits qui justifient l’imposition d’une pénalité. En l’espèce, pour s’acquitter de sa charge, l’intimée doit présenter des éléments de preuve dont il ressort, selon la prépondérance des probabilités, que M. Xue et Mme Xue ont tous deux fait un faux énoncé dans leur déclaration de revenus et ont sciemment fait de fausses déclarations ou commis une faute lourde dans leur déclaration auprès du ministre.
+[54] Comme l’a observé le juge Strayer dans le jugement Venne v. R. (1984), 84 D.T.C. 6247 (Fed. T.D.)
+[traduction] [...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[...] En vertu du paragraphe 163(3), « c’est au ministre que revient la responsabilité d’établir les faits qui justifient l’imposition de la pénalité. » Il convient de souligner que, pour que la pénalité soit applicable, il faut un degré de culpabilité plus élevé, soit avec connaissance réelle, soit avec faute lourde, que ne l’impose le paragraphe 152(4) pour que soient réouvertes des cotisations antérieures de plus de quatre ans, la simple négligence étant suffisante apparemment dans ce dernier cas.
+[55] M. Xue et Mme Xue ont entrepris des démarches pour recevoir le revenu non déclaré de leur restaurant, et ont commis des actes flagrants, comme la suppression des registres des ventes et la modification des registres des ventes au comptant dans le système POS, de façon à sous-estimer leur revenu. Ces registres modifiés ont alors été remis à leurs comptables pour qu’ils puissent remplir leurs déclarations de revenus.
+[56] Je remarque également que les deux parties sont instruites et qu’elles ont de l’expérience en restauration. M. Xue travaillait à temps plein dans le secteur de la technologie de l’information. Il a aidé à mettre en place le système Profitek. J’arrive à la conclusion que M. Xue a manipulé le système POS de façon à faciliter le revenu déclaré en moins. Mme Xue a une formation en comptabilité et des années d’expérience en restauration. Elle était présente au restaurant tous les jours. Je conclus qu’elle a retiré de l’argent des recettes quotidiennes de Tomoya, et qu’elle en a facilité la dissimulation en modifiant les données du système POS. M. Xue et Mme Xue ont passé en revue et ont signé leurs déclarations de revenus, sachant qu’elles étaient erronées et qu’ils avaient minoré le revenu tiré de l’entreprise.
+[57] Je note également que le revenu supplémentaire non déclaré était exceptionnellement élevé, surtout par rapport au revenu déclaré par M. Xue et Mme Xue.
+[58] Par conséquent, je conclus que tant M. Xue que Mme Xue ont cherché sciemment à tromper en produisant leur déclaration de revenus à l’égard de chacune des années d’imposition 2007, 2008, 2009 et 2010. Les éléments de preuve appuient de façon écrasante la nouvelle cotisation à l’encontre de M. Xue et de Mme Xue prévue au paragraphe 163(2) de la LIR.
+IV. CONCLUSION
+[59] La nouvelle cotisation établie à l’encontre de Coastridge au titre de la TPS/TVH non versée est réduite de 52 575,96 $ à 50 273,86 $.
+[60] M. Xue et Mme Xue avaient reçu chacun des avantages à titre d’actionnaires qu’ils n’ont pas déclarés, au cours des années d’imposition frappées d’appel, de la manière suivante :
+En 2007 : 83 301,27 $ [12]
+En 2008 : 114 684,94 $ [13]
+En 2009 : 116 596,44 $ [14]
+En 2010 : 97 796,48 $ [15]
+[61] Le ministre a correctement appliqué les pénalités prévues au paragraphe 163(2) de la Loi. Ces pénalités doivent être réduites selon les rajustements effectués dans le présent jugement.
+[62] Les parties auront jusqu’au 26 août 2020 pour s’entendre sur les dépens, faute de quoi elles doivent déposer leurs observations écrites sur les dépens au plus tard le 25 septembre 2020. Ces observations ne doivent pas dépasser quinze pages. Si les parties ne parviennent pas à un accord sur les dépens et qu’aucune observation écrite n’est déposée, les dépens seront attribués à l’appelante selon le tarif.
+Signé à Ottawa, Canada, ce 27e jour de juillet 2020.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 5e jour d'octobre 2020.
+François Brunet, réviseur
+Annexe A
+2015-5443(GST)G
+2016-4826(IT)G
+2016-4824(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+COASTRIDGE ENTERPRISES LTD.,
+STEPHANIE XUE
+STUART XUE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+FAITS ADMIS PAR LES APPELANTS
+Stephanie et Stuart Xue
+Stephanie Xue est née en Chine et y a terminé ses études secondaires en 1984.
+M. Xue et Mme Xue se sont mariés en 1992.
+Mme Xue a déménagé au Canada en 1994 et a étudié l’anglais à son arrivée.
+À partir de 1996, elle a commencé à travailler à temps partiel comme serveuse au restaurant Hon’s Wun Tun House, à New Westminster; elle a travaillé à cet endroit pendant deux ou trois ans.
+Par la suite, elle est allée travailler comme serveuse au restaurant japonais Daimasu, sur Broadway, puis à Burnaby, jusqu’en 2000.
+En 2006, Mme Xue était âgée de 40 ans.
+Stuart Xue est né en Chine où il a terminé ses études secondaires.
+Il a déménagé au Canada en 1980 ou en 1981, à l’âge de 17 ou 18 ans.
+À son arrivée au Canada, il est retourné à l’école secondaire à Winnipeg, où il a suivi certains cours.
+En parallèle, M. Xue a suivi des programmes universitaires à l’Université de Winnipeg.
+En 1983 ou 1984, il s’est inscrit à un programme universitaire d’une durée de quatre ans à l’Université du Manitoba et, en 1987 ou 1988, il a obtenu son baccalauréat en sciences, avec majeure en informatique.
+M. Xue a également suivi d’autres cours de perfectionnement et d'avancement professionnel.
+Après avoir obtenu son diplôme de l’Université du Manitoba, il a déménagé à Vancouver et a commencé à travailler pour différentes entreprises comme opérateur d’ordinateur tout en effectuant d’autres tâches connexes.
+De 1991 à 1993, M. Xue a travaillé pour Symbolic Science International à titre d’opérateur d’ordinateur central.
+En 1993, il a commencé à travailler sur un système de pharmacie pour la société Zadall, à Burnaby, qui a été plus tard acquise par McKesson.
+Chez Zadall, puis chez McKesson, M. Xue a occupé les postes suivants :
+a) ingénieur principal en logiciel, de 1993 à 1999;
+b) responsable technique, de 2008 à 2015;
+c) à partir d’avril 2010, il a également travaillé à titre de directeur du génie logiciel, dont les fonctions comprenaient la traduction des exigences des projets en tâches attribuées aux ingénieurs en logiciel et la prestation de conseils techniques à ces derniers, la gestion d’une équipe et la mise à jour des évaluations du rendement.
+M. Xue connaît très bien les systèmes informatiques et les logiciels.
+En 2006, M. Xue était âgé de 44 ans.
+M. Xue et Mme Xue ont une fille qui est née en 1995; elle était âgée de 11 ans en novembre 2006.
+De 2006 à mai 2009, M. Xue et Mme Xue vivaient ensemble avec leur fille et les parents de M. Xue, au 232, 9th Street, à New Westminster.
+Le 12 mai 2009, M. Xue et Mme Xue ont acheté une maison de 1 350 pieds carrés, avec deux chambres à coucher, au 107, 4798 Hazel Street, à Burnaby, au prix de 538 000 $ dans laquelle ils ont emménagé.
+Ils ont financé cet achat au moyen d’un prêt hypothécaire de 403 500 $ et ont versé une mise de fonds pour le reste.
+Les versements hypothécaires mensuels étaient de 1 708 $.
+Au cours de la période en cause, M. Xue et Mme Xue ont d’abord loué, puis acheté une Lexus IS 2004.
+Les versements mensuels pour la voiture étaient de 684 $, mais n’ont été effectués que pendant 14 mois, après quoi cette créance a été radiée.
+Coastridge Enterprises Ltd.
+Coastridge Enterprises Ltd. (Coastridge) :
+a) a été constituée en société le 1er novembre 2001;
+b) a été dissoute le 26 septembre 2005;
+c) a été rétablie le 25 avril 2006.
+L’exercice de Coastridge se terminait le 31 octobre.
+Coastridge était inscrite à la TPS/TVH, et elle devait produire ses déclarations sur une base trimestrielle.
+Les taux de TPS/TVH applicables étaient les suivants :
+a) 6 % du 1er novembre 2006 au 31 décembre 2007
+b) 5 % du 1er janvier 2008 au 30 juin 2010
+c) 12 % par la suite
+M. Xue et Mme Xue détenaient chacun 50 % des actions de Coastridge.
+Mme Xue était administratrice de Coastridge.
+M. Xue conservait le registre des procès-verbaux de Coastridge à son domicile.
+Coastridge n’avait qu’un seul compte bancaire, et M. Xue et Mme Xue en étaient les signataires autorisés.
+Mme Xue était principalement responsable du compte bancaire de Coastridge dans lequel elle y effectuait les dépôts et les retraits.
+En 2001, Coastridge a fait l’acquisition de Pastel’s Café, sur la rue Robson, à Vancouver, et a exploité ce restaurant jusqu’à sa fermeture en 2005.
+Mme Xue participait aux activités quotidiennes de Pastel’s à temps plein, effectuait les dépôts bancaires, payait les factures et s’occupait de la tenue des livres et registres.
+Pendant la période où elle exploitait Pastel’s, Mme Xue remettait au comptable de Coastridge les imprimés des résumés des recettes de la caisse sur une base quotidienne provenant du système de terminaux de point de vente (POS) aux fins de l’impôt sur le revenu.
+Tomoya Japanese Restaurant
+En juillet 2006, Coastridge a fait l’acquisition d’un restaurant existant, et a commencé à l’exploiter sous le nom de Tomoya Japanese Restaurant (Tomoya).
+Au moment de l’acquisition du restaurant, Coastridge a mis beaucoup d’argent dans les rénovations, notamment en y ajoutant des conduites, en rafraîchissant l’endroit par l’ajout d’un bar à sushis, de tables et de chaises, d’une coutellerie, de plats et d’assiettes ainsi que de luminaires.
+Coastridge a exploité Tomoya pendant toute la période en cause.
+Tomoya :
+a) était situé à l’unité A1, 6285, avenue Nelson, à Burnaby;
+b) était un restaurant de sushi titulaire d’un permis d’alcool;
+c) proposait des mets japonais, sur place ou pour emporter ainsi qu’un service de livraison;
+d) était ouvert tous les jours de 11 h 30 à 22 h.
+Mme Xue examinait chaque rapport journalier, effectuait les calculs, puis notait la somme à la main en y associant l’annotation « encaisse » à côté de chacun d’entre eux.
+Elle remettait ensuite ces rapports à M. Xue.
+Mme Xue connaissait le montant des recettes versées au restaurant à la fin de chaque journée.
+Sur les feuilles de calcul, M. Xue saisissait les sommes associées aux cartes de crédit et de débit, mais, pour les recettes en espèces, il se servait des chiffres inscrits à la main à côté de l’annotation « encaisse », plutôt que du chiffre de l’encaisse figurant dans ces rapports.
+M. Xue assurait le suivi des registres de recettes de ventes et conservait ces registres.
+Déclarations de Coastridge
+Coastridge produisait ses déclarations de TPS/TVH tous les trois mois.
+Un comptable préparait ses déclarations de revenus et de TPS/TVH.
+Tous les trimestres, M. Xue remettait aux comptables de Coastridge les feuilles de calcul mensuelles relatives aux ventes du restaurant.
+M. Xue ne remettait pas les rapports journaliers aux comptables ni ne leur mentionnait l’existence de ces rapports ou des rajustements relativement aux recettes en espèces.
+Les comptables de Coastridge n’examinaient pas les données sur les ventes de Tomoya, mais se contentaient de déclarer les ventes aux fins de l’impôt sur le revenu et de la TPS/TVH, à partir des feuilles de calcul.
+M. Xue et Mme Xue rencontraient le comptable, qui passait en revue les déclarations et les états financiers avec eux avant que ces documents ne soient signés.
+Les comptables de Coastridge parlaient le mandarin et le cantonnais, et expliquaient en mandarin les déclarations à Mme Xue, lors des rencontres.
+Mme Xue signait les déclarations de revenus de Coastridge, et attestait que les renseignements qui y étaient contenus étaient exacts et complets.
+M. Xue et Mme Xue signaient les déclarations de TPS/TVH de Coastridge, et attestaient que les renseignements qui y étaient contenus étaient exacts et complets.
+M. Xue et Mme Xue comprenaient l’importance, pour Coastridge, de déclarer avec exactitude toutes ses recettes de ventes.
+Les comptables de Coastridge préparaient les états financiers de cette dernière, sans vérification ni examen.
+Coastridge a déclaré les sommes suivantes dans ses états financiers pour les années suivantes, se terminant le 31 octobre :
+a) pour 2002, une perte de 34 366 $;
+b) pour 2003, une perte de 15 086 $;
+c) pour 2004, une perte de 57 651 $;
+d) pour 2005, une perte de 90 122 $;
+e) pour 2006 :
+i) une perte de 11 977 $;
+ii) des recettes de ventes de 61 608 $;
+iii) des immobilisations dont le coût total est de 637 685 $;
+iv) un capital-actions de 100 $;
+v) une dette à long terme de 279 372 $;
+vi) une somme de 600 869 $ due aux actionnaires;
+f) pour 2007 :
+i) une perte de 37 096 $;
+ii) des recettes de ventes de 313 541 $;
+iii) des immobilisations dont le coût total est de 637 685 $;
+iv) un capital-actions de 100 $;
+v) une dette à long terme de 272 628 $;
+vi) une somme de 620 564 $ due aux actionnaires;
+g) pour 2008 :
+i) une perte de 43 789 $;
+ii) des recettes de ventes de 351 138 $;
+iii) des immobilisations dont le coût total est de 650 080 $;
+iv) un capital-actions de 100 $;
+v) une dette à long terme de 267 899 $;
+vi) une somme de 628 098 $ due aux actionnaires;
+h) pour 2009 :
+i) une perte de 4 243 $;
+ii) des recettes de ventes de 332 443 $;
+iii) des immobilisations dont le coût total est de 653 159 $;
+iv) un capital-actions de 100 $;
+v) une dette à long terme de 261 418 $;
+vi) une somme de 628 230 $ due aux actionnaires;
+i) pour 2010 :
+i) une perte de 26 599 $;
+ii) des recettes de ventes de 359 637 $;
+iii) des immobilisations dont le coût total est de 664 550 $:
+iv) un capital-actions de 100 $;
+v) une dette à long terme de 255 476 $;
+vi) une somme de 634 217 $ due aux actionnaires;
+j) pour 2011 :
+i) une perte de 8 496 $;
+ii) des recettes de ventes de 334 974 $;
+k) pour 2012 :
+i) une perte de 45 995 $;
+ii) des recettes de ventes de 314 970 $.
+Coastridge a déclaré les recettes de ventes suivantes dans ses déclarations de revenus :
+a) pour 2007, 313 541 $;
+b) pour 2008, 351 138 $;
+c) pour 2009, 332 443 $;
+d) pour 2010, 359 637 $.
+88. Coastridge a déclaré les bénéfices nets et les pertes nettes suivants dans ses déclarations de revenus :
+a) pour 2002, une perte de 19 799 $;
+b) pour 2003, un bénéfice de 620 $;
+c) pour 2004, une perte de 38 849 $;
+d) pour 2008, une perte de 19 536 $;
+e) pour 2009, une perte de 19 407 $;
+f) pour 2010, une perte de 3 572 $;
+g) pour 2011, aucun profit et aucune perte;
+h) pour 2012, une perte de 21 250 $.
+89. Coastridge a déclaré les mêmes montants de ventes dans ses déclarations de TPS/TVH, ses états financiers et ses déclarations de revenus.
+90. Coastridge a déclaré les montants de TPS/TVH nette dans ses déclarations de TPS/TVH en se fondant sur les ventes qu’elle avait déclarées dans ces déclarations.
+91. Dans ses déclarations de TPS/TVH, Coastridge n’a pas déclaré les recettes de ventes et les sommes relatives à la TPS/TVH en litige dans son appel.
+Déclarations de M. Xue et de Mme Xue
+92. Mme Xue savait qu’elle devait produire une déclaration de revenus chaque année, et qu’elle devait déclarer la totalité des revenus qu’elle recevait de Coastridge.
+93. M. Xue comprenait qu’il était tenu de déclarer correctement, dans ses déclarations de revenus, la totalité des revenus qu’il recevait, y compris le revenu et les avantages qu’il recevait de Coastridge.
+94. M. Xue préparait ses déclarations d’impôt sur le revenu des particuliers ainsi que celles de Mme Xue à l’aide d’un logiciel de préparation de déclaration de revenus.
+95. M. Xue préparait leurs déclarations d’après les sommes inscrites sur leurs feuillets T-4, et déclarait leurs revenus en se fondant uniquement sur ces feuillets.
+96. Mme Xue signait sa déclaration d’impôt sur le revenu des particuliers, et attestait que les renseignements qui y étaient contenus étaient exacts, complets et qu’elle divulguait intégralement la totalité de ses revenus.
+97. M. Xue remplissait sa déclaration d’impôt sur le revenu des particuliers, et attestait que les renseignements qui y étaient contenus étaient exacts, complets et qu’il divulguait intégralement la totalité de ses revenus.
+98. Mme Xue a déclaré les revenus nets suivants dans ses déclarations de revenus :
+a) pour 2007, 16 057 $;
+b) pour 2008, 24 637 $;
+c) pour 2009, 28 230 $;
+d) pour 2010, 0 $.
+99. M. Xue a déclaré les revenus nets suivants dans ses déclarations de revenus :
+a. pour 2007, 58 413 $;
+b. pour 2008, 68 807 $;
+c. pour 2009, 119 839 $;
+d. pour 2010, 40 280 $.
+100. M. Xue et Mme Xue n’ont pas déclaré, dans leurs déclarations de revenus, les revenus en cause dans leurs appels.
+RÉFÉRENCE :
+2020 CCI 72
+NOS DES DOSSIERS DE LA COUR :
+2016-4824(IT)G, 2016-4826(IT)G, 2015-5443(GST)G
+INTITULÉ :
+STUART XUE c. SA MAJESTÉ LA REINE et STEPHANIE XUE c. SA MAJESTÉ LA REINE et COASTRIDGE ENTERPRISES LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 3, 4, 5 et 6 septembre 2019, et le 24 janvier 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 27 juillet 2020
+COMPARUTIONS :
+Avocat des appelants : Me G. Douvelos
+Avocat de l’intimée : Me R.D.F. Wilhelm
+Me R. Whittaker
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Parce que le système Profitek a été acheté de seconde main, les divers rapports qu’il créait ne mentionnaient pas le nom de Tomoya comme étant l’entreprise, mais plutôt celui de Hot Rod Prime Rib Restaurant.
+[2] Lors de sa vérification, l’Agence a accepté 370 opérations annulées inscrites dans le système POS au motif qu’il s’agissait d’erreurs commises de bonne foi par des employés, que ces erreurs avaient été corrigées et qu’aucun revenu n’avait été tiré par suite de ces opérations.
+[3] Au procès, l’intimée a présenté un élément de preuve sur la façon dont on était arrivé à estimer la facture moyenne, notamment un document de travail résumant les montants des diverses factures établies tant pour les repas du midi que pour ceux du soir.
+[4] Les avis d’appel indiquent que le vérificateur de l’Agence ne comprenait pas le système POS. Ils indiquent de plus que, contrairement aux arguments des appelants présentés lors du procès, le système POS déclarait avec exactitude les recettes de ventes de Tomoya.
+[5] À la page 4, citant un passage du traité de A. W. Bryant et M. K. Fuerst, « The Law of Evidence in Canada » (2018 5e éd.), à la sous-section 6.471, qui fournissait une description complète du moment auquel une conclusion défavorable peut être tirée.
+[6] L’acte de procédure des appelants indique que le système POS enregistrait avec exactitude les recettes de ventes du restaurant Tomoya.
+[7] Les trois réponses se sont appuyées sur les mêmes hypothèses.
+[8] Le montant des ventes au comptant non déclarées provenant des ventes supprimées des repas du midi doit être modifié pour chaque année, de la façon suivante : en 2007, 5 083,54 $; en 2008,13 762,98 $; en 2009, 23 399,50 $ et en 2010, 28 747,95 $.
+[9] Le montant des ventes au comptant non déclarées provenant des ventes supprimées des repas du soir doit être modifié pour chaque année, de la façon suivante : en 2007, 4 512,20 $; en 2008,11 536,91 $; en 2009, 17 022,39 $ et en 2010, 24 344,32 $. Ces calculs sont fondés sur l’hypothèse formulée à l’alinéa 7(jj) de l’acte de procédure de M. Xue. Le total de la dernière colonne de la réponse est 74 616 $. Un examen du tableau révèle qu’il semble y avoir une surévaluation de 50 $. Par conséquent, les calculs du tableau ne sont pas exacts et l’écart doit être utilisé au profit des appelants.
+[10] (92 200 $-70 994 $)*6 % = 1 272 36 $
+[11] (74 616 $-57 454 $)*6 % = 1 029,72 $
+[12] 157 007 $+5 083,54 $+4 512 $ = 166 602,52 $*0,5 = 83 301,27 $
+[13] 204 070 $+13 762,98 $+11 536,91 $ = 229 369,88 $*0,5 = 114 684,94 $
+[14] 192 771 $+23 399,50 $+$17 022,39 $ = 233 192,89 $*0,5 = 116 596,44 $
+[15] 142 501 $+28 747,95 $+24 344 $ = 195 592,95 $*0,5 = 97 796,48 $

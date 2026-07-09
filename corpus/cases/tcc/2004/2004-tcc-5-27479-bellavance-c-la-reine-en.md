@@ -1,0 +1,136 @@
+---
+title: "Bellavance c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27479/index.do"
+last_modified: "2004-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 5"
+citation2: ""
+neutral_citation: "2004 TCC 5"
+decision_date: "2004-01-05"
+language: "en"
+item_id: "27479"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 38
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:58:42.085000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "43e2a3088b537f43be9bb6b64481eb61b0a0cb7eade55f02f7d4eae518793fe8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bellavance c. La Reine
+
+- Citation: 2004 TCC 5
+- Decision date: 2004-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 38, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bellavance c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-05
+Neutral citation
+2004 TCC 5
+File numbers
+2003-2825(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2825(IT)I
+BETWEEN:
+GÉRARD BELLAVANCE
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 25, 2003, at Rivière-du-Loup, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeals from the determinations made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the determinations are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 5th day of January 2004.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 12th day of April 2004.
+Sharlene Cooper, Translator
+Citation: 2004CCI5
+Date: 20040105
+Docket: 2003-2825(IT)I
+BETWEEN:
+GÉRARD BELLAVANCE
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+François Angers, J.
+[1] These are appeals from determinations made by the Minister of National Revenue (Minister). The Minister determined that the Appellant had received an overpayment in relation to a goods and services tax credit (GSTC) of $262.30 for the 2000 taxation year and of $162.50 for the 2001 taxation year, as he ceased to be a spouse as of December 2002. Thus, the Minister calculated the payments to reflect this situation.
+[2] It must be determined whether, during the period from December 31, 2000 to November 30, 2002, the Appellant and Lucille Gendron were indeed spouses within the meaning of the Income Tax Act (the "Act").
+[3] The Appellant received GSTC payments for the 2000 and 2001 base taxation years. However, an audit of the file, on January 24, 2003, led to a notice of redetermination for both base years. As a result of the adjustment, the Appellant was required to reimburse the credits awarded for both years at issue. A notice of redetermination, dated July 25, 2003, awarded the Appellant GSTC payments for January and April 2003, attributable to the 2001 base year, thereby reducing the amount of the reimbursement that he was required to pay for 2001.
+[4] The Appellant's civil status is at the heart of this dispute, as the GSTC is calculated, for a month specified for the year, on the sum of his income for the year and the income of his qualified relation for the year. A qualified relation of an individual, in relation to a month specified for a taxation year, means the person who, at the beginning of the specified month, is the individual's cohabiting spouse or common-law partner (refer to the definitions in section 122.5 of the Act).
+[5] According to the information in the computer system of Canada Customs and Revenue Agency (CCRA), the Appellant and Ms. Gendron had been living at the same address, in Matane, Quebec, since February 1995. Subsequently, the Appellant moved to his current address in December 1996, and Ms. Gendron apparently joined him in May 1999. Furthermore, according to the computer system, they stated that they were common-law partners as at December 31, 1998, and that they were single as at December 31, 1999.
+[6] A questionnaire was sent to the Appellant on October 21, 2002, and on December 6, 2002. Along with these mailings, the Appellant was requested to provide documentary evidence confirming that he now lived separate from Ms. Gendron. The Appellant provided no such evidence and contented himself with communicating with CCRA by telephone. However, on November 8, 2002, he forwarded an affidavit to taxation authorities in which he stated under oath that he had not lived in a marital relationship with Ms. Gendron, his former spouse, since December 1999, and that he no longer had any relationship with her.
+[7] During a subsequent conversation, in May 2003, CCRA attempted to obtain evidence from the Appellant that Ms. Gendron and the Appellant were living separately. At that time, the Appellant explained that Ms. Gendron looked after the house while he was at work; however, she was renting a room in the house and she was paying him $100 a month to cover rent and electricity.
+[8] The Appellant testified that he lived with Ms. Gendron in a common-law partnership from February to December 1999. At that time, Ms. Gendron apparently became ill and they ended their common-law partnership. The Appellant confirmed that he has been renting a room to Ms. Gendron since January 2000, for $100 a month, for approximately six months of the year. The Appellant explained that when he was away, Ms. Gendron went to her daughter's home, because she could not be alone. He admitted not reporting the rental income, however, he explained that this was because the expenses exceeded this income.
+[9] The income tax returns of the Appellant and Ms. Gendron were prepared by the same firm, that is, Servitaxe Rimouski enr. The Appellant's 2000 income tax return was signed on April 11, 2001, and Ms. Gendron's return was signed on March 28, 2001. The Appellant's 2001 income tax return was signed on April 4, 2002, whereas Ms. Gendron signed hers on April 5, 2002. The Minister alleged that the same professional prepared the returns and that they were mailed on the same day. In my opinion, the Minister did not prove this allegation. Regardless of whether or not it was the same firm in each case, the professional was not named and the date of mailing was not established. One thing is certain, the Appellant and Ms. Gendron did not sign their income tax returns on the same day.
+[10] On cross-examination, the Appellant testified that he owns the house in which he lives with Ms. Gendron. She has occupied a room he has been renting to her since January 2000. In response to the questions asked, he stated that he has not had sexual relations with her since January 2000. In his words, their relationship [translation] "broke down completely" after December 1999. They talk to each other, but they do not eat any meals together and he does not help her at all with her illness. He does his own shopping, prepares his own meals, does the housework and washes his own clothes. Ms. Gendron does the same thing and she has her own car in which to travel. She cleans her own room when she is there and the two of them never do any activities together.
+[11] He explained that he has had almost no contact with members of Ms. Gendron's family since December 1999. Furthermore, he explained that in 1999, they shared the telephone, electrical and food expenses equally; however, they stopped doing so after the separation. When questioned concerning what he thought the community's perception of their relationship to be, he stated that until December 1999, those who were close to them were aware that they were common-law partners. In 2002, he purchased a washer and dryer without any financial assistance from Ms. Gendron. According to their income tax returns, Ms. Gendron had a higher income than the Appellant.
+[12] With regard to the years at issue, for 2000, the term "spouse" was defined in subsection 252(4) of the Act, and for 2001, the term "common-law partner" was defined in subsection 248(1) of the Act as follows:
+252(4) In this Act,
+(a) words referring to a spouse at any time of a taxpayer include the person of the opposite sex who cohabits at that time with the taxpayer in a conjugal relationship and
+(i) has so cohabited with the taxpayer throughout a 12-month period ending before that time, or
+(ii) would be a parent of a child of whom the taxpayer would be a parent, if this Act were read without reference to paragraph (1)(e) and subparagraph (2)(a)(iii)
+and, for the purposes of this paragraph, where at any time the taxpayer and the person cohabit in a conjugal relationship, they shall, at any particular time after that time, be deemed to be cohabiting in a conjugal relationship unless they were not cohabiting at the particular time for a period of at least 90 days that includes the particular time because of a breakdown of their conjugal relationship.
+248(1) "common-law partner", with respect to a taxpayer at any time, means a person who cohabits at that time in a conjugal relationship with the taxpayer and
+(a) has so cohabited with the taxpayer for a continuous period of at least one year, or
+(b) would be the parent of a child of whom the taxpayer is a parent, if this Act were read without reference to paragraphs 252(1)(c) and (e) and subparagraph 252(2)(a)(iii),
+and for the purposes of this definition, where at any time the taxpayer and the person cohabit in a conjugal relationship, they are, at any particular time after that time, deemed to be cohabiting in a conjugal relationship unless they were not cohabiting at the particular time for a period of at least 90 days that includes the particular time because of a breakdown of their conjugal relationship.
+[13] What does this notion of a conjugal relationship mean according to the specified definition? In Milot v. Canada, [1995] T.C.J. No. 412 (Q.L.), Lamarre Proulx J. listed the factors identified by the Ontario District Court in Molodowich v. Penttinen (1980), 17 R.F.L. (2d) 376 in order to attempt to determine what constitutes a conjugal relationship. The components to be considered in varying degrees include shared shelter, sexual and personal behaviour, services (such as preparation of meals, household maintenance), social activities, the attitude of society toward the couple, financial support and the conduct of each party concerning the children.
+[14] In M v. H., [1999] 2 S.C.R. 3, the Supreme Court of Canada approved of the factors identified in Molodowich, stating the following (at paragraph 59):
+Molodowich v. Penttinen (1980), 17 R.F.L. (2d) 376 (Ont. Dist. Ct.), sets out the generally accepted characteristics of a conjugal relationship. They include shared shelter, sexual and personal behaviour, services, social activities, economic support and children, as well as the societal perception of the couple. However, it was recognized that these elements may be present in varying degrees and not all are necessary for the relationship to be found to be conjugal. While it is true that there may not be any consensus as to the societal perception of same-sex couples, there is agreement that same-sex couples share many other "conjugal" characteristics. In order to come within the definition, neither opposite-sex couples nor same-sex couples are required to fit precisely the traditional marital model to demonstrate that the relationship is "conjugal".
+Certainly an opposite-sex couple may, after many years together, be considered to be in a conjugal relationship although they have neither children nor sexual relations. Obviously the weight to be accorded the various elements or factors to be considered in determining whether an opposite-sex couple is in a conjugal relationship will vary widely and almost infinitely. The same must hold true of same-sex couples. Courts have wisely determined that the approach to determining whether a relationship is conjugal must be flexible. This must be so, for the relationships of all couples will vary widely. . . .
+[15] In Montgomery v. Jansen, [1982] N.S.J. No. 18 (Nova Scotia County Court) (Q.L.), Hall J. emphasized that a conjugal relationship is a concept that connotes living together, which presumes that the spouses are mutually involved in a lasting relationship (at paragraph 13):
+From the foregoing it will be seen that to "live together as husband and wife" connotes an element of permanence and commitment to each other by the parties to the relationship to a substantial degree. Certainly it should not be thought that every arrangement where a man and woman share the same living accommodations and engage in sexual activity to some extent should be regarded as living together as husband and wife.
+[16] In Kelner v. Canada, [1995] T.C.J. No. 1130 (Q.L.), Bowman J. (now Associate Chief Justice), determined that it was possible for spouses to live separate and apart while living under the same roof. He added that this is an unassailable proposition as a matter of law, but as a matter of fact in any given case the evidence should be convincing.
+[17] The Appellant testified honestly. In my opinion, he did not expect the questions he was asked on cross-examination concerning his lifestyle and relationship with Ms. Gendron. He answered the questions candidly, and as a result of his answers, I am satisfied that they ended their relationship in December 1999 due to Ms. Gendron's illness. In my opinion, all of his answers show that although they resided at the same address and they had their income tax returns prepared by the same firm, they did not have the same kind of affinity for each other that is normally found in a conjugal relationship, based on the factors to be considered in determining whether or not such a relationship exists.
+[18] It is true that to defend his position the Minister only had the fact that the Appellant and Ms. Gendron lived at the same address and the fact that the same firm prepared their income tax returns. The Appellant preferred to prove his case in Court and he convinced me on a balance of probabilities that he did indeed cease to be Lucille Gendron's common-law partner at the end of December 1999. At that time, he severed all ties with her based on all of the factors established by case law, except that they lived in the same house. The fact that they signed their income tax returns on different days confirms the Appellant's testimony, as does Ms. Gendron's letter concerning her rent. Although the Appellant and Ms. Gendron stated in their income tax returns that they were common-law partners in 1999, they only started living together in May 1999, according to CCRA's computer system and the Appellant. Therefore, it is appropriate to question whether they actually lived as common-law partners for an entire year.
+[19] For these reasons, I find that during the period from December 31, 2000 to November 30, 2002, the Appellant was not Lucille Gendron's common-law partner. Consequently, he is not liable for the GSTC, which the Minister deems to be overpayments, for the 2000 and 2001 taxation years.
+[20] The appeals are allowed and the determinations are referred back to the Minister for reconsideration in accordance with these reasons.
+Signed at Edmundston, New Brunswick, this 5th day of January 2004.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 12th day of April 2004.
+Sharlene Cooper, Translator

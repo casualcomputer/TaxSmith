@@ -1,0 +1,159 @@
+---
+title: "Pacific National Exhibition v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27077/index.do"
+last_modified: "2004-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 823"
+citation2: ""
+neutral_citation: "2004 CCI 823"
+decision_date: "2004-12-21"
+language: "fr"
+item_id: "27077"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 947
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:43:21.726000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "10ecbd7fa4709d2058f2aaa7e4708d3f79bb083fc38358c724f84c2d3c8e1f55"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pacific National Exhibition v. The Queen
+
+- Citation: 2004 CCI 823
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 947, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pacific National Exhibition v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-21
+Référence neutre
+2004 CCI 823
+Numéro de dossier
+2004-3011(GST)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3011(GST)I
+ENTRE :
+PACIFIC NATIONAL EXHIBITION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue les 6 et 8 décembre 2004 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentant de l'appelante :
+Carl Beck
+Avocats de l'intimée :
+Me Lynn M. Burch
+Me Raj Grewal
+____________________________________________________________________
+ORDONNANCE
+L'intimée ayant présenté une requête en vue d'obtenir une ordonnance, conformément au paragraphe 18.3002(1) de la Loi sur la Cour canadienne de l'impôt, en vue de faire appliquer à cet appel les dispositions énoncées aux articles 17.1, 17.2 et 17.4 à 17.8 des Règles de la Cour canadienne de l'impôt (procédure générale) et à l'article 14 des Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur la taxe d'accise(procédure informelle);
+La requête de l'intimée est accueillie, et il est ordonné que, conformément à l'article 18.12 de la Loi sur la Cour canadienne de l'impôt, les dispositions des articles 17.1 à 17.8 de la Loi et l'article 14 des Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur la taxe d'accise (procédure informelle) s'appliquent à cet appel selon les motifs d'ordonnance ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 21e jour de décembre 2004.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice
+Référence : 2004CCI823
+Date : 20041221
+Dossier : 2004-3011(GST)I
+ENTRE :
+PACIFIC NATIONAL EXHIBITION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+(Rendus oralement à l'audience à Vancouver
+(Colombie-Britannique), le 8 décembre 2004.)
+Le juge Little
+A. FAITS :
+[1] L'appelante est inscrite à titre d'organisme de bienfaisance aux termes de la partie IX de la Loi sur la taxe d'accise (la « Loi » ).
+[2] À tous les moments pertinents, l'appelante fournissait des services de divertissement et de loisirs au public. L'appelante louait des biens de la ville de Vancouver, y a construit un certain nombre de bâtiments et y fournissait des services de divertissement et de loisirs au public.
+[3] L'appelante a produit une déclaration de taxe sur les produits et services ( « déclaration de TPS » ) dans laquelle elle demandait un remboursement de la TPS payée.
+[4] M. Carl Beck a comparu à l'audience à titre de représentant de l'appelante. M. Beck a dit qu'il avait calculé de nouveau la TPS nette due par l'appelante de 1997 à 2001 et qu'il avait conclu que l'appelante avait payé trop de TPS et avait droit à un remboursement d'environ 1 900 000 $.
+[5] Le ministre du Revenu national (le « ministre » ) a accepté de rembourser environ 1 300 000 $ à l'appelante. M. Beck a dit que le montant en litige se chiffre à 607 306 $.
+[6] Le 16 juillet 2004, M. Beck a déposé un avis d'appel à la Cour canadienne de l'impôt au nom de l'appelante. Dans l'avis d'appel, l'appelante a opté pour la procédure informelle.
+[7] L'avis d'appel a été transmis à l'Agence du revenu du Canada (l' « Agence » ) le 23 juillet 2004.
+[8] Un fonctionnaire de l'Agence a rédigé et envoyé une réponse le 16 septembre 2004.
+[9] Selon la déclaration sous serment de Me Raj Grewal, un avocat du ministère de la Justice, un dossier contenant l'avis d'appel de l'appelante a été reçu par le bureau régional de la Colombie-Britannique du ministère de la Justice le 17 septembre 2004.
+[10] Les avocats de l'intimée ont déposé un avis de requête à la Cour le 20 octobre 2004. Dans l'avis de requête, les avocats de l'intimée ont demandé une ordonnance pour que :
+[TRADUCTION]
+1. la procédure générale énoncée aux articles 17.1, 17.2 et 17.4 à 17.8 de la Loi sur la Cour canadienne de l'impôt (la « Loi » ) s'applique à l'appel conformément à l'article 18.3002(1) de la Loi et l'article 14 des Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur la taxe d'accise (procédure informelle); et
+LES MOTIFS DE LA REQUÊTE SONT LES SUIVANTS :
+1. le procureur général du Canada demande que les articles 17.1, 17.2 et 17.4 à 17.8 de la Loi s'appliquent à cet appel;
+2. la demande du procureur général du Canada est présentée après un délai de 60 jours suivant la transmission de l'avis d'appel au ministre du Revenu national; (je souligne)
+3. il serait raisonnable dans les circonstances de faire droit à la demande;
+4. le montant en litige s'élève à plus de 7 000 $, ce qui signifie qu'en ce qui concerne cette demande, une ordonnance ne devrait pas être rendue pour que Sa Majesté du chef du Canada assume les frais de l'appelante.
+[11] M. Beck, à titre de représentant de l'appelante, a soutenu que l'appel de l'appelante ne devrait pas passer de la procédure informelle à la procédure générale.
+B. QUESTION EN LITIGE :
+[12] La requête de l'intimée devrait-elle être accordée?
+C. ANALYSE :
+[13] L'article 18.3002 de la Loi est libellé comme suit :
+18.3002 (1) Sur demande du procureur général du Canada, la Cour doit ordonner l'application des articles 17.1, 17.2 et 17.4 à 17.8 à l'appel auquel les articles 18.3003 et 18.3007 à 18.302 s'appliqueraient par ailleurs.
+(2) La demande doit être présentée dans les soixante jours suivant la transmission de l'avis d'appel par le greffe de la Cour au ministre du Revenu national ou après l'expiration de ce délai dans les cas suivants :
+a) la Cour est convaincue que le procureur général du Canada a pris connaissance de renseignements tels qu'il est justifié de présenter la demande après l'expiration de ce délai, ou que la demande est par ailleurs raisonnable dans les circonstances;
+b) la personne qui interjette appel y consent.
+(3) Dans le cas d'une ordonnance rendue aux termes du paragraphe (1), la Cour doit ordonner que les frais entraînés pour la personne qui a interjeté appel soient payés par Sa Majesté du chef du Canada, si les conditions suivantes sont réunies :
+a) dans le cas d'un appel interjeté en vertu de la partie V.1 de la Loi sur les douanes, le montant en litige n'excède pas 10 000 $;
+b) dans le cas d'un appel interjeté en vertu de la Loi de 2001 sur l'accise, le total des ventes de la personne pour l'année civile précédente n'excède pas 1 000 000 $;
+c) dans le cas d'un appel interjeté en vertu de la partie IX de la Loi sur la taxe d'accise, le montant en litige n'excède pas 7 000 $ et le total des fournitures pour l'exercice précédent de la personne n'excède pas 1 000 000 $. 1990, ch. 45, art. 61; 1998, ch. 19, art. 297; 2001, ch. 25, art. 105; 2002, ch. 22, art. 402 et 408.
+[14] À l'appui de leur requête, les avocats de l'intimée ont indiqué que l'appel devrait être transféré de la procédure informelle à la procédure générale pour les raisons suivantes :
+a) Une somme d'argent importante est en jeu, soit plus de 600 000 $.
+b) Les enjeux sont complexes et un interrogatoire préalable, permis en vertu des règles de la procédure générale, aiderait à les clarifier.
+c) La période visée est contestée. Selon l'appelante, la période en question remonte à 1997. L'intimée maintient que seules les années 2000 et 2001 sont visées.
+[15] L'article 18.3002 de la Loi dispose que le procureur général du Canada peut demander à la Cour d'ordonner qu'un appel devant être traité dans le cadre de la procédure informelle soit transféré à la procédure générale s'il présente une requête dans les 60 jours suivant la transmission de l'avis d'appel par le greffe de la Cour au ministre.
+Dans le cas du présent appel, l'avis d'appel a été transmis à l'Agence le 23 juillet 2004. L'avis de requête demandant que le dossier soit transféré de la procédure informelle à la procédure générale n'a été déposé à la Cour que le 21 octobre 2004, c.-à-d. après le délai de 60 jours prévu par la Loi.
+[16] Le paragraphe 18.3002(2) dispose que si l'intimée omet de présenter la demande dans le délai de 60 jours, la demande ne doit être accordée que si l'une des conditions suivantes s'applique :
+1. La Cour est convaincue que le procureur général du Canada a pris connaissance de renseignements tels qu'il est justifié de présenter la demande après l'expiration du délai de 60 jours (je ne suis pas convaincu que cette condition a été remplie).
+2. L'appelante y consent (dans la situation qui nous concerne, le représentant de l'appelante s'oppose à la demande de l'intimée).
+3. La Cour est convaincue que la demande est par ailleurs raisonnable dans les circonstances.
+Je dois donc déterminer quel sens il faut attribuer à l'expression « par ailleurs raisonnable dans les circonstances » .
+[17] Après avoir examiné attentivement les plaidoiries et avoir entendu le représentant de l'appelante, je suis convaincu qu'il serait « raisonnable dans les circonstances » de faire passer cet appel de la procédure informelle à la procédure générale. Je suis arrivé à cette conclusion pour les raisons suivantes :
+1. Une somme d'argent importante est en jeu, soit plus de 600 000 $.
+2. Je suis convaincu que les enjeux de cet appel sont très complexes et sont de nature technique. À cet égard, je souhaite souligner que l'avis d'appel compte 13 pages, à simple interligne. M. Beck a dit que les enjeux en question ne sont pas si complexes. Je ne suis pas d'accord.
+3. Les avocats de l'intimée maintiennent que l'Agence n'a pas reçu tous les documents pertinents qui seront nécessaires pour déterminer si l'appel devrait être admis ou rejeté.
+4. À mon avis, un interrogatoire préalable est essentiel pour obtenir d'autres renseignements et clarifier les questions en litige.
+5. Si la procédure informelle était suivie, l'audience serait probablement beaucoup plus longue et plus complexe que nécessaire. De plus, une audience dans le cadre de la procédure informelle pourrait donner lieu à un « procès par embuscade » .
+[18] Je suis par conséquent convaincu qu'il est « raisonnable dans les circonstances » de faire passer l'appel de la procédure informelle à la procédure générale.
+[19] La requête de l'intimée est accueillie.
+[20] Je ne suis pas disposé à accorder les dépens parce que le montant en litige dépasse 7 000 $. Je me fonde sur l'alinéa 18.3002(3)c) de la Loi, qui interdit que le paiement des frais soit exigé lorsque le montant en litige excède 7 000 $.
+Signé à Vancouver (Colombie-Britannique), ce 21e jour de décembre 2004.
+« L.M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 2e jour de septembre 2005.
+Joanne Robert, traductrice

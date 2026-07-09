@@ -1,0 +1,132 @@
+Title: Laurie v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521495/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-130-521495-laurie-v-the-king.md
+Document type: case_law
+Last modified: 2025-09-25
+
+# Laurie v. The King
+
+- Citation: 2025 TCC 130
+- Decision date: 2025-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5443, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laurie v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-09-25
+Neutral citation
+2025 TCC 130
+File numbers
+2024-1783(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1783(IT)I
+BETWEEN:
+SHERRY LAURIE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 17, 2025, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Benjamin Grant
+Hariss Safi
+Counsel for the Respondent:
+Tiffany Santos
+JUDGMENT
+The appeals of the assessment of penalties under subsection 162(7) of the Income Tax Act in the Appellant’s 2019 and 2020 tax years are dismissed.
+Signed this 25th day of September 2025.
+“David E. Graham”
+Graham J.
+Citation: 2025 TCC 130
+Date: 20250925
+Docket: 2024-1783(IT)I
+BETWEEN:
+SHERRY LAURIE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] In 2019 and 2020, Sherry Laurie owned specified foreign property with a cost amount of more than $100,000. As a result, she was required to file T1135 Foreign Income Verification Statements for those years. Ms. Laurie did not file T1135s on time so the Minister of National Revenue assessed Ms. Laurie a penalty under subsection 162(7) of the Income Tax Act. The penalty was the maximum penalty of $2,500 per year (being $25 per day for 100 days).
+[2] Ms. Laurie accepts that she was required to file T1135s and that she did so late. Ms. Laurie says that she should not have been assessed penalties because she was duly diligent in preparing her tax returns. The Respondent submits that no due diligence defence is available and, in the alternative, that Ms. Laurie was not duly diligent.
+[3] I found Ms. Laurie to be a credible witness.
+Is a due diligence defence available? [4] The Court has repeatedly found that a due diligence defence is available for subsection 162(7) penalties and, in particular, for penalties relating to failure to file a T1135 (Douglas v. The Queen[1]; Moore v. The Queen;[2] Edwards v. The Queen[3]; Samson v. The Queen[4]; Chan v. The Queen[5]; Azmayesh-Fard v. The King[6]; Goldhar v. The King[7]). I see no reason to depart from that jurisprudence.
+[5] The obligation to file a T1135 comes from subsection 233.3(3). Similar obligations exist to file forms T1141 and T1134 in subsections 233.2(4) and 233.4(4) respectively.
+[6] Section 233.5 provides that a taxpayer does not have to include information in a T1141 or T1134 if that information is not available on the date on which the return is due to be filed provided the taxpayer meets a number of conditions. One of those conditions is that the taxpayer must have exercised due diligence in attempting to obtain the information (s. 233.5(b)).
+[7] The Respondent says that Parliament turned its mind to situations in which due diligence could be a defence and limited those situations to the circumstances described in subsection 233.5. (circumstances that do not cover a late filed T1135). I disagree.
+[8] Section 233.5 provides for a due diligence defence in very specific circumstances where a taxpayer filed a T1141 or T1134 with incomplete information. By contrast, subsection 162(7) imposes penalties for not filing any information return on time. I cannot see how, in providing a due diligence defence for information returns under sections 233.2 and 233.4 that were filed on time but were incomplete, Parliament could in any way be said to have indirectly precluded a due diligence defence to the late filing of all information returns covered by subsection 162(7).
+[9] The Respondent relies on Justice Favreau’s decision in Leclerc v. The Queen[8]. At paragraph 18 of that decision, Justice Favreau wrote:
+The appellant made an honest mistake because he did not know the consequences of failing to file form T1135 by the due date. The penalty under subsection 162(7) of the Act was imposed correctly, and the due diligence defence is not applicable in this case.
+[10] The Respondent interprets Justice Favreau as having concluded that a due diligence defence is not available for subsection 162(7) penalties. That is not how I read the paragraph. It appears to me that Justice Favreau simply concluded that the defence was “not applicable in this case”. I note that, in Moore, Justice Boyle interpreted Leclerc the same way I have. If my interpretation of Leclerc is wrong, then, faced with two different streams of jurisprudence, I will follow the approach taken in the many decisions cited above (all of which came after Leclerc).
+[11] Based on all of the foregoing, I find that a due diligence defence is available to Ms. Laurie.
+Was Ms. Laurie duly diligent? [12] There are two ways that a taxpayer can satisfy a due diligence test (Les Residences Majeau Inc. v. The Queen[9]). The taxpayer can show that they took reasonable precautions to avoid the event leading to the imposition of the penalty. Alternatively, the taxpayer can show that they were mistaken as to a factual situation which, if it had existed, would have made their mistake innocent. However, in this alternative case, the taxpayer must also show that it was a mistake that a reasonable person would have made in the same circumstances.
+[13] I find that Ms. Laurie does not satisfy either test.
+[14] This is not the first time that Ms. Laurie has failed to file a T1135. She failed to file that form in her 2012, 2013 and 2014 tax years. In 2015, her accountant detected the oversight and filed a voluntary disclosure on Ms. Laurie’s behalf. The CRA accepted the voluntary disclosure and Ms. Laurie avoided the resulting subsection 162(7) penalties. The voluntary disclosure submitted by Ms. Laurie’s accountant specifically stated that “Ms. Laurie did not originally file these T1135 forms when due as she was under the incorrect impression that foreign holdings within a Canadian brokerage account were not foreign property.”[10]
+[15] Ms. Laurie was a US citizen. The primary reason that she had retained her accountant was that, following her father’s death in 2012, she realized that she was required to file US tax returns and had not been doing so. Ms. Laurie relinquished her US citizenship in 2018. Since she no longer needed to file US tax returns, she stopped using her accountant to prepare her tax Canadian tax returns. The last return filed by her accountant was her 2017 return.
+[16] When she filed her 2018 tax return, Ms. Laurie testified that she researched what foreign property was. She was concerned that an individual retirement account (IRA) in the US that she had inherited from her father might qualify. She found the definition provided by the tax software that she was using to be confusing so she turned to Google. While she was looking for information about the IRA, she testified that she did not see anything that would have alerted her to the need to consider the cost of US investments held in her Canadian brokerage account. As a result, she did not look into whether the cost of her investments exceeded the threshold.[11]
+[17] In 2019, Ms. Laurie changed her broker. Her new broker had a new investment strategy. As a result, Ms. Laurie disposed of many of her existing investments and acquired new ones. The net effect of these changes was that the cost of her foreign property now exceeded $100,000 and she was, once again, required to file a T1135.
+[18] As she had done in 2018, Ms. Laurie prepared her 2019 and 2020 tax returns herself. Having satisfied herself when she filed her 2018 tax return that she did not need to file a T1135, Ms. Laurie did not revisit the issue when filing her 2019 and 2020 returns.
+[19] Ms. Laurie eventually became aware of her problem when, in the course of preparing her 2021 taxes, she received a new type of document from her broker reporting the cost of her US investments. At that point, she realized that she should have filed T1135s in 2019 and 2020. She attempted to make a second voluntary disclosure. Not surprisingly, the CRA denied the disclosure on the basis that Ms. Laurie had previously made the exact same disclosure in respect of the exact same types of assets.
+[20] Ms. Laurie described the method that used to track her tax responsibilities. It sounded like a well organized system. She reported the income that she earned in her investment account. I accept that, outside of her T1135 filing obligations, Ms. Laurie is a responsible taxpayer who files and pays her taxes on time.
+[21] I can understand that it is somewhat counter-intuitive that US investments held in an investment account at a Canadian brokerage are foreign property. This is particularly true because those same investments are not considered to be foreign property when they are held in RRSPs and RRIFs. In other circumstances, I might be convinced that a reasonable person might make the same mistake that Ms. Laurie made.
+[22] However, the question I have to determine is whether a reasonable person would have made that mistake in the same circumstances. In other words, having already made a mistake once and having had to go through the voluntary disclosure system in order to avoid having penalties imposed, would a reasonable person make the exact same mistake again. I find that they would not.
+[23] A reasonable person would have been put on alert to the risks and would have taken careful steps to make sure they did not fall into the same trap again. Ms. Laurie did the opposite. She stopped using an accountant and returned to preparing her own taxes. I understand that she did this because she ceased to be a US citizen and thus no longer had to file a US tax return. I am not suggesting that she had to continue to pay an accountant to file her returns. However, the fact that she was doing everything herself should have put her on a greater level of alert.
+[24] Ms. Laurie’s position is, in essence, that she knew she did a voluntary disclosure because of investments that she held in her investment account but that she never heard the specific term “T1135” or “foreign property” so she did not connect the problem from her voluntary disclosure to the question that she was being asked when she filed her 2019 and 2020 returns. While I accept this is true, it does not make her duly diligent. She knew that she had had problems relating to disclosing her ownership of investments in her account. Yet she took no steps when filing her 2019 and 2020 returns to determine what those problems might have been or whether she still had them. All she had to do was ask her former accountant about the voluntary disclosure. This is not how a reasonable person would have acted in the same circumstances.
+[25] Based on all of the foregoing, I find that Ms. Laurie was not duly diligent. As a result, her appeals are dismissed.
+Signed this 25th day of September 2025.
+“David E. Graham”
+Graham J.
+CITATION:
+2025 TCC 130
+COURT FILE NO.:
+2024-1783(IT)I
+STYLE OF CAUSE:
+SHERRY LAURIE v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 17, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+September 25, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Benjamin Grant
+Hariss Safi
+Counsel for the Respondent:
+Tiffany Santos
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Benjamin Grant
+Firm:
+Beitel Tax Law
+Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] 2012 TCC 73.
+[2] 2019 TCC 141.
+[3] 2012 TCC 430.
+[4] 2016 TCC 115.
+[5] 2022 TCC 87.
+[6] 2025 TCC 20.
+[7] 2023 TCC 30.
+[8] 2010 TCC 99.
+[9] 2010 FCA 28.
+[10] Exhibit R-1, Tab 1.
+[11] As it turns out, they did not but that was just a happy coincidence. Ms. Laurie did not look into that question until 2021.

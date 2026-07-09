@@ -1,0 +1,140 @@
+---
+title: "Naqvi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26724/index.do"
+last_modified: "2005-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 355"
+citation2: ""
+neutral_citation: "2005 CCI 355"
+decision_date: "2005-05-26"
+language: "fr"
+item_id: "26724"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3405
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:52:01.206000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bd5607b87398cc2dcbe542ae4d48edfc7b304f70f5506a71706919a26133d2c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Naqvi v. The Queen
+
+- Citation: 2005 CCI 355
+- Decision date: 2005-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3405, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Naqvi v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-26
+Référence neutre
+2005 CCI 355
+Numéro de dossier
+2004-4097(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI355
+Date : 20050526
+Dossier : 2004-4097(IT)I
+ENTRE :
+SYED MANSOOR ALI NAQVI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Toronto (Ontario), le 12 avril 2005.)
+[1] Cet appel, interjeté sous le régime de la procédure informelle, a été instruit à Toronto (Ontario) le 11 avril 2005. L'appelant a témoigné. L'intimée a appelé à témoigner Noory Ali, propriétaire et exploitant de la compagnie North American Foreign Exchange, et Navjit Bolina, l'agent des appels à qui le dossier a été confié.
+[2] D'entrée de jeu, l'intimée a reconnu que l'appelant pouvait retrancher du revenu imposé la somme de 6 425 $ payée par l'appelant au titre d'un prêt à l'entreprise pendant l'année d'imposition. Cette question est renvoyée au ministre du Revenu national pour qu'il la soumette à un nouvel examen et qu'il établisse une nouvelle cotisation en conséquence.
+[3] En ce qui concerne le montant restant de 21 289 $ imposé comme revenu pour l'année 2000 et qui est toujours contesté, les précisions sont énoncées aux paragraphes 7 à 13 de la réponse à l'avis d'appel, qui sont rédigés comme suit :
+[TRADUCTION]
+7. Dans le calcul de son revenu pour l'année d'imposition 2000, l'appelant a déclaré un revenu d'emploi de 15 000 $ pour tenir compte du feuillet T4 de Mansoor Brothers Enterprises indiquant un montant de 8 000 $ et du feuillet T4 de 1226507 Ontario inc. indiquant un montant de 7 000 $.
+8. L'appelant a initialement fait l'objet d'une cotisation correspondant au montant qu'il avait déclaré pour l'année d'imposition 2000. L'avis de cotisation est daté du 23 juillet 2001.
+9. Une nouvelle cotisation a été établie à l'égard de l'appelant pour l'année d'imposition 2000. Dans l'avis de nouvelle cotisation, daté du 22 septembre 2003, le ministre du Revenu national (le « ministre » ) a augmenté le revenu d'emploi de l'appelant de 27 714 $ et a imposé les intérêts applicables et des pénalités pour production tardive.
+10. L'appelant s'est opposé à la nouvelle cotisation datée du 22 septembre 2003 par un avis d'opposition daté du 20 septembre 2003 et reçu le 31 octobre 2003.
+11. Le ministre a ratifié la nouvelle cotisation. L'avis de ratification est daté du 7 septembre 2004.
+12. En établissant une nouvelle cotisation à l'égard de l'impôt pour l'année d'imposition 2000, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) pour l'année d'imposition 2000, la déclaration de revenus (la « déclaration » ) de l'appelant devait être produite auprès du ministre au plus tard le 30 avril 2001;
+b) l'appelant a omis de produire la déclaration à la date prescrite par la Loi;
+c) la déclaration de l'appelant a été produite le 18 juin 2001;
+d) à toutes les époques pertinentes, l'appelant détenait la totalité des droits de propriété de deux franchises connues sous le nom de Mansoor Brothers Enterprises et de 1226507 Ontario inc., qui faisaient la vente de café, de beignes, de muffins, etc.;
+e) pendant l'année d'imposition 2000, l'appelant subvenait aux besoins de trois personnes : lui-même, son épouse et un enfant âgé d'un an;
+f) lorsqu'il a produit sa déclaration de revenus pour l'année d'imposition en cause, l'appelant n'a pas déclaré la totalité des revenus touchés dans ladite année d'imposition;
+g) pendant l'année d'imposition 2000, l'appelant a omis de déclarer dans son revenu la somme de
+27 714 $, qui incluait les montants suivants:
+(i) 19 468 $ calculé selon la provenance et l'utilisation des fonds comme il est mentionné précédemment au paragraphe 3;
+(ii) 845 $ en fonds ou en biens accordés à l'appelant en sa qualité d'actionnaire de la société Mansoor Bros inc.;
+(iii) 7 401 $ en fonds ou en biens accordés à l'appelant en sa qualité d'actionnaire de la société 1226507 Ontario inc.
+B. QUESTIONS EN LITIGE
+13. La question est de savoir si le ministre a eu raison d'inclure la somme de 27 714 $ dans le revenu de l'appelant pour l'année d'imposition 2000.
+[4] Si l'on se fonde sur la crédibilité, l'appelant n'a pas réussi à réfuter les hypothèses toujours en litige en ce qui concerne le montant de 21 289 $.
+[5] Noory Ali n'a fourni aucun document à l'appui (documents attestant des transferts monétaires, livres de comptes d'entreprise ou autres documents semblables) pour confirmer sa déclaration orale. Ces documents sont des pièces commerciales usuelles lorsque des sommes d'argent sont en cause. Les documents fournis par M. Ali n'ont été remplis que longtemps après les faits allégués et après que l'appelant a insisté pour les obtenir.
+[6] M. Naqvi a donné des explications vagues et contradictoires au sujet des rentrées de fonds qui ont eu lieu au cours des périodes de négociation avec l'ARC. Ces explications comprenaient ce qui suit :
+1. M. Naqvi a demandé à Mme Forrest, sa représentante en comptabilité, de dire à l'ARC que l'appelant a reçu une somme de
+21 700 $ au Canada de parents qui étaient en visite au Canada.
+2. M. Naqvi a dit à l'agent des appels qu'il avait reçu différentes sommes d'argent déterminées.
+3. Finalement, M. Naqvi a désigné une troisième série de sommes d'argent figurant dans ses relevés de la Banque Royale. M. Naqvi avait fait en sorte que M. Ali les confirme de la manière décrite.
+[7] M. Naqvi a présenté trois versions contradictoires des faits. Dans les trois cas, il n'y avait ni documents bancaires attestant les transferts de fonds ni documents tirés des livres et registres de l'appelant, bien que ces documents accompagnent normalement les opérations monétaires.
+[8] Pour ce motif, la partie de l'appel concernant le montant de 21 289 $ en litige est rejetée.
+Signé à Ottawa, Canada, ce 26e jour de mai 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 3e jour de février 2006.
+Mario Lagacé, réviseur
+RÉFÉRENCE :
+2005CCI355
+N º DU DOSSIER DE LA COUR :
+2004-4097(IT)I
+INTITULÉ :
+Syed Mansoor Ali Naqvi c.
+La Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 11 avril 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge Beaubier
+DATE DU JUGEMENT :
+Le 26 mai 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Jeremy Streeter
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,429 @@
+---
+title: "Imperial Oil Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27701/index.do"
+last_modified: "2004-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 207"
+citation2: ""
+neutral_citation: "2004 TCC 207"
+decision_date: "2004-03-10"
+language: "en"
+item_id: "27701"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 484
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:42:26.468000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6877ab7f5453409c9c868bdc339a99de05827fc95c053885ec9bbf556136bac3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imperial Oil Limited v. The Queen
+
+- Citation: 2004 TCC 207
+- Decision date: 2004-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 484, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Oil Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-10
+Neutral citation
+2004 TCC 207
+File numbers
+2002-2257(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2257(IT)G
+BETWEEN:
+IMPERIAL OIL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Reference heard on November 25, 2003, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Al Meghji and Lara H. Pella
+Counsel for the Respondent:
+Luther Chambers, Q.C. and
+Rhonda L. Nahorniak
+____________________________________________________________________
+DETERMINATION OF QUESTIONS
+UNDER SUBSECTION 173(1) OF THE INCOME TAX ACT
+Upon Agreement of the Parties filed October 14, 2003, the Court shall determine the following questions pursuant to subsection 173(1) of the Income Tax Act:
+(a) What portion, if any, of the said C$27,831,712 is deductible under subparagraph 20(1)(f)(i) of the Act?
+(b) What portion, if any, of the said C$27,831,712 is deductible under subparagraph 20(1)(f)(ii) of the Act?
+(c) What portion, if any of the said C$27,831,712 is a capital loss under subsection 39(2) of the Act?
+And upon hearing counsel for the Parties:
+The answers to the questions are determined to be as follows:
+(a) The amount of C$1,548,325 is deductible under subparagraph 20(1)(f)(i).
+(b) Nothing is deductible under subparagraph 20(1)(f)(ii).
+(c) The amount of C$26,283,387 is the capital loss under subsection 39(2) of the Act.
+There shall be no costs.
+Signed at Ottawa, Canada, this 10th day of March, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC207
+Date: 20040310
+Docket: 2002-2257(IT)G
+BETWEEN:
+IMPERIAL OIL LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR DETERMINATION
+Miller J.
+[1] This is a Reference to the Tax Court of Canada to have certain questions raised in the appeal determined by the Court pursuant to subsection 173(1) of the Income Tax Act (the Act). The questions involve the proper application of paragraph 20(1)(f) and subsection 39(2) of the Act in relation to foreign exchange losses.
+[2] In 1989, Imperial Oil issued US debentures for a total face amount of US$300,000,000, issued at a discount of 1.199%. Ten years later, at the time of redemption of part of the debentures with a face value of US$87,130,000, the US dollar had appreciated from a rate of C$1.1766 to US$1 to a rate of C$1.48192 to US$1 resulting in a loss on redemption of C$27,831,712 (see Appendix "A"). The Appellant argues this entire amount is deductible under paragraph 20(1)(f) in computing Imperial Oil's 1999 income (see Appendix "B"). The Minister of National Revenue (the Minister) says that only C$1,229,181 is deductible under paragraph 20(1)(f), as only it reflects the original issue discount, with the balance being a capital loss under subsection 39(2) (see Appendix "C").
+[3] The Reference is put in terms of three questions:
+(a) What portion, if any, of the said C$27,831,712 is deductible under subparagraph 20(1)(f)(i) of the Act?
+(b) What portion, if any, of the said C$27,831,712 is deductible under subparagraph 20(1(f)(ii) of the Act?
+(c) What portion, if any, of the said $27,831,712 is a capital loss under subsection 39(2) of the Act?
+[4] Paragraph 20(1)(f) must be interpreted in its totality, and, to rely on the oft-cited approach of Professor Elmer A. Driedger, in context, harmoniously with the scheme and objectives of the Act and the intent of Parliament. Both Parties' positions are premised on what they call the "Gaynor principle", which, they both maintain, requires a conversion of each element in the paragraph 20(1)(f) formula into Canadian dollars. Based on that principle, they then limit their disagreement to which exchange rate (1989 or 1999?) to apply to the term - "principal amount of the obligation". I question this reliance on Gaynor and review both Gaynor and UK authorities to find that the Parties place too broad an interpretation on that case.
+[5] I illustrate that, by intermingling exchange rates in the paragraph 20(1)(f) formula, the Parties inject ambiguity into the provision. It then becomes necessary to look beyond the ordinary and grammatical wording to the object and scheme of the Act and the intention of Parliament. Following this approach, I conclude the provision was not intended to provide a deduction for foreign exchange losses on capital account. The formula in the provision should be calculated in US dollars with the result converted into Canadian dollars, or, in the alternative, the formula should be calculated entirely in 1999 Canadian dollars (see Appendix "D"). Either of these approaches yields a finding that paragraph 20(1)(f) applies to allow Imperial Oil a deduction of the 1.199% discount in 1999 Canadian dollars, or C$1,548,145, with the balance being a capital loss under subsection 39(2).
+Facts
+[6] The facts the parties agreed to for this Reference are not lengthy, so I will simply reproduce the relevant portions:[1]
+(1) At all relevant times the Appellant was a company whose principal business was the refining, marketing and transportation of petroleum and petroleum products.
+(2) On October 16, 1989 the Appellant issued three sinking fund debentures of U.S. $100,000,000 each, for a total of U.S. $300,000,000 at an interest rate of 8.75% per annum, repayable in 2019.
+(3) The said debentures were issued under an indenture dated October 15, 1989 between the Appellant and the Bank of Montreal Trust Company (the "Indenture").
+...
+(5) The said debentures were issued to the public at less than their face amount, namely, at a discount of 1.199%, amounting to U.S. $3,597,000 in the aggregate (the "Discount"). The amount received from the public on October 16, 1989, expressed as a percentage of the face amount of the debentures, was therefore 98.801% or U.S. $296,403,000 expressed as an aggregate dollar amount (the "Discounted Amount").
+(6) The yield from the debentures was 8.86%
+(7) After the deduction of underwriters' fees of U.S. $2,625,000 from the proceeds of the Discounted Amount, the Appellant received a net amount of U.S. $293,778,000 from the issuance of the said debentures.
+...
+(9) The Appellant deposited the said U.S. $293,778,000 with the Royal Bank of Canada at New York, N.Y. and used that amount as part of its refinancing of the purchase of the shares of Texaco Canada Inc.
+(10) Under the terms of the said debentures, interest was payable in U.S. dollars semi-annually on each of April 15 and October 15, beginning on April 15, 1990. The Appellant deducted the Canadian dollar equivalents of those interest payments pursuant to paragraph 20(1)(c) of the Act. No issue arises between the Appellant and the Respondent regarding the deductibility of that interest.
+(11) Under the terms of the said debentures, all or part of the debentures were redeemable at the election of the Appellant at any time on or after October 15, 1999, at predetermined redemption prices.
+(12) On October 15, 1999, the Appellant elected to redeem part of its U.S. $300,000,000 debentures with a face amount of U.S. $87,130,000 (the "Redeemed Amount").
+...
+(14) The portion of the Discount that pertained to the Redeemed Amount was U.S. $1,044,689 (U.S. $87,130,000 x .01199), and the portion of the Discounted Amount that pertained to the Redeemed Amount was U.S. $86,085,311.
+(15) The Bank of Canada noon rate for conversion from U.S. to Canadian dollars on October 16, 1989 was 1.17660. Accordingly, the Canadian dollar equivalent of the Redeemed Amount on that day was Cdn. $102,517,158 (U.S. $87,130,000 x 1.17660). The Canadian dollar equivalent of the portion of the Discounted Amount that pertained to the Redeemed Amount was Cdn. $101,287,977 (U.S. $86,085,311 x 1.17660).
+(16) On October 15, 1999 the Appellant purchased U.S. $87,130,000 at a cost of Cdn $129,119,689 (U.S. $87,130,000 x 1.48192) in order to pay the Redeemed Amount. No issue arises between the Appellant and the Respondent regarding the correctness of the rate of exchange of 1.48192 between the U.S. and Canadian dollars on that day.
+Analysis
+Introduction
+[7] I will start by reproducing subparagraph 20(1)(f)(i):
+20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(f) an amount paid in the year in satisfaction of the principal amount of any bond, debenture, bill, note, mortgage, hypothecary claim or similar obligation issued by the taxpayer after June 18, 1971 on which interest was stipulated to be payable, to the extent that the amount so paid does not exceed,
+(i) in any case where the obligation was issued for an amount not less than 97% of its principal amount, and the yield from the obligation, expressed in terms of an annual rate on the amount for which the obligation was issued (which annual rate shall, if the terms of the obligation or any agreement relating thereto conferred on its holder a right to demand payment of the principal amount of the obligation or the amount outstanding as or on account of its principal amount, as the case may be, before the maturity of the obligation, be calculated on the basis of the yield that produces the highest annual rate obtainable either on the maturity of the obligation or conditional on the exercise of any such right) does not exceed 4/3 of the interest stipulated to be payable on the obligation, expressed in terms of an annual rate on
+(A) the principal amount of the obligation, if no amount is payable on account of the principal amount before the maturity of the obligation, or
+(B) the amount outstanding from time to time as or on account of the principal amount of the obligation, in any other case,
+the amount by which the lesser of the principal amount of the obligation and all amounts paid in the year or in any preceding year in satisfaction of its principal amount exceeds the amount for which the obligation was issued, and
+(ii) ...
+[8] The Parties are agreed that the threshold tests set forth in subparagraph 20(1)(f)(i) have been met in this case, and it is therefore that subsection, and not subsection 20(1)(f)(ii), which is at issue in this Reference.
+[9] While there are 22 references in this section to the term "amount", only the following "amounts" are of real concern in this Reference:
+(A) "principal amount of the obligation";
+(B) "all amounts paid in the year in satisfaction of the principal amount";
+(C) "amount for which the debentures were issued".
+The formula contained in paragraph 20(1)(f) can be put mathematically as follows:
+X = (lesser of A or B) - C
+X is the deductible amount we are trying to ascertain. There is no dispute that amount must be measured in Canadian dollars.
+A is the principal amount of the obligation. There is no dispute that amount was US$87,130,000. There is a dispute, indeed the only dispute according to the Parties, as to the Canadian dollar equivalent, whether it is in 1989 Canadian dollars ($102,517,158) or in 1999 Canadian dollars ($129,119,689).
+B is the amount paid in the year in satisfaction of the principal amount. There is no dispute that amount was US$87,130,000 and C$129,119,689.
+C is the amount for which the obligation was issued. There is no dispute that was US$86,085,311. There is also no dispute between the Parties that this was C$101,287,977, given the 1.17660 exchange rate at the time of issuance. I will have more to say on that later.
+[10] The problem arises because, although the principal amount remained constant in US dollars, the exchange rate shifted dramatically from the time of issuance to the time of redemption.
+The Parties' Positions
+[11] Both Parties have attempted to justify the appropriate exchange rate to be applied to A. The Appellant says A and B are the same; that is, the principal amount of the obligation and the amount paid in satisfaction of the principal amount are both to be determined at the time of redemption, when the exchange rate was 1.48192. The Minister contends that the principal amount of the obligation is set at the time of issuance, that is US$87,130,000 at the 1.17660 exchange rate, and never changes. The results, of course, are drastically different, as seen from Appendices "B" and "C".
+[12] The Appellant contends his position follows the basic principles of statutory interpretation recognized by Professor Driedger and considers the context of the phrase "principal amount of the obligation". Mr. Meghji also applies a strong dose of logic. He further seeks support from Steffen E. Waltz v. The Queen,[2] where it was determined, that in the absence of a statutory provision to the contrary, "principal amounts" must be computed at the time of disposition, or in this case, the time of redemption. The Appellant relies also on the definition of "principal amount" in subsection 248(1) of the Act which refers to the "maximum amount payable in respect of the obligation". Finally, the Appellant points to the Government of Canada's own administrative policies by reference to advance rulings and technical interpretations issued by Canada Customs and Revenue Agency (CCRA) on the application of paragraph 20(1)(f) to other obligations, exchangeable debentures, commodity-based loans and convertible debentures. In all such cases, "principal amount" was computed at the time of repayment. For reasons that will become apparent, I am not going into Mr. Meghji's arguments in great detail, other than to indicate that I found his arguments persuasive for this particular interpretation of the term "principal amount".
+[13] The Respondent follows a similar path as the Appellant in that he too deems it necessary to argue what rate must be applied to "principal amount"; the rate at the time of issuance, or the rate at the time of redemption. At the time of creation says the Respondent. He seeks support in section 248(26) which reads:
+248(26) For greater certainty, where at any time a person or partnership (in this subsection referred to as the "debtor") becomes liable to repay money borrowed by the debtor or becomes liable to pay an amount (other than interest)
+(a) as consideration for any property acquired by the debtor or services rendered to the debtor, or
+(b) that is deductible in computing the debtor's income,
+for the purposes of applying the provisions of this Act relating to the treatment of the debtor in respect of the liability, the liability shall be considered to be an obligation, issued at that time by the debtor, that has a principal amount at that time equal to the amount of the liability at that time.
+[14] This provision does not go as far as the Respondent suggests; it only indicates what the principal amount is at the time of issuance. It does not stipulate that the principal amount shall forever be the principal amount determined at the rate at the time of issuance of a foreign debt obligation. Also, Technical Notes suggest that this section's purpose had more to do with timing of the issuance of an obligation for purposes of section 80, than for any potential application to subsection 20(1)(f).[3] But, the Respondent argues, relying on his approach leads to a logical result; that is, only the cost caused by Imperial Oil obligating itself to pay more to its creditor on the debt than it received, is the deductible obligation expense. The loss from the foreign exchange rate change is just that, from the foreign exchange, not from the contractual discount.
+[15] The Respondent then shifts to a review of subsection 39(2) which specifically deals with gains and losses sustained by foreign rate fluctuations. It reads as follows:
+39(1) For the purposes of this Act,
+...
+(2) Notwithstanding subsection (1), where, by virtue of any fluctuation after 1971 in the value of the currency or currencies of one or more countries other than Canada relative to Canadian currency, a taxpayer has made a gain or sustained a loss in a taxation year, the following rules apply:
+(a) the amount, if any, by which
+(i) the total of all such gains made by the taxpayer in the year (to the extent of the amounts thereof that would not, if section 3 were read in the manner described in paragraph (1)(a) of this section, be included in computing the taxpayer's income for the year or any other taxation year)
+exceeds
+(ii) the total of all such losses sustained by the taxpayer in the year (to the extent of the amounts thereof that would not, if section 3 were read in the manner described in paragraph (1)(a) of this section, be deductible in computing the taxpayer's income for the year or any other taxation year), and
+(iii) if the taxpayer is an individual, $200,
+shall be deemed to be a capital gain of the taxpayer for the year from the disposition of currency of a country other than Canada, the amount of which capital gain is the amount determined under this paragraph; and
+(b) the amount, if any, by which
+(i) the total determined under subparagraph (a)(ii),
+exceeds
+(ii) the total determined under subparagraph (a)(i), and
+(iii) if the taxpayer is an individual, $200,
+shall be deemed to be a capital loss of the taxpayer for the year from the disposition of currency of a country other than Canada, the amount of which capital loss is the amount determined under this paragraph.
+It is not difficult to follow the Respondent's logic in concluding that a foreign exchange loss is the difference between the Canadian dollar value of the redeemed amount (US$87,130,000) at the time of redemption, being C$129,119,689 (at the 1.48192 rate) and the Canadian dollar value of the redeemed amount at the time of issuance, being US$87,130,000 or C$102,517,158 (at the 1.17660 rate). The difference is C$26,602,531.
+[16] That approach however puts the cart before the horse. In the ordering of the Act, foreign exchange losses under subsection 39(2) only follow after the appropriate deduction under section 20 has been taken. So, I do not accept that one can calculate what may seem logical under subsection 39(2) and work back to limit a paragraph 20(1)(f) deduction. This is not a matter of specific provisions overriding general provisions, but is more a matter of how the Act provides a road map for the computation of income, primarily in section 3. Deductions under paragraph 20(1)(f) are taken into account under paragraph 3(a). Capital gains and losses under subsection 39(2) are taken into account under paragraph 3(b). In effect, losses deductible on income account are specifically excluded from the scope of subsection 39(2). All to say, I must first determine the proper deductible amount pursuant to paragraph 20(1)(f). If the whole loss is not deductible, only then may I turn to subsection 39(2).
+[17] What is the correct interpretation of paragraph 20(1)(f)? The familiar and well-used modern approach espoused by Professor Driedger and adopted by the Supreme Court of Canada guides me to consider the words in their entire context, and in their grammatical and ordinary sense, harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament.
+[18] What is apparent to me is that there is no difficulty or ambiguity reading paragraph 20(1)(f) in the grammatical and ordinary sense, and in the context of a deduction for obligations issued at a discount, if the calculation is simply done in US dollars, and only the result converted into Canadian dollars at the rate at the time of redemption. The calculation would then be as set forth in Alternative 1 in Appendix "D".
+[19] I presented this simpler, and what I believed and still do believe to be, sensible reading of paragraph 20(1)(f) to the Parties. I was met with a stone wall from both counsel. They agreed that principles of statutory interpretation precluded me from taking this ordinary and grammatical reading of the words. I, therefore, asked them to provide written submissions as to what were the principles that would so readily thwart my purpose. Their responses have fallen short of convincing me that there are any principles of such universal application that would take an otherwise straightforward provision and turn it into an interpretative minefield.
+[20] Before justifying my interpretation, I wish to comment on the Appellant's and Respondent's interpretation. They both calculate the paragraph 20(1)(f) formula, that is the determination of A, B and C, by intermingling exchange rates. A basic understanding of math will quickly reveal that this necessarily ensures a foreign exchange gain or loss becomes an integral part of the paragraph 20(1)(f) calculation. It does not surprise me that the Appellant takes this view, as Mr. Meghji's whole point is that the foreign exchange loss is a cost of borrowing, otherwise on capital account, which was intended to be deductible under paragraph 20(1)(f), similar to other costs of borrowing. It does surprise me, however that the Respondent takes the view that paragraph 20(1)(f) is not intended to be impacted by foreign exchange, yet the Respondent also goes on to intermingle exchange rates in his interpretation of the formula. The flaw in the Respondent's approach is apparent when the facts are changed, such that the Canadian dollar increases rather than decreases in value. Not surprisingly, the result, following Mr. Meghji's interpretation, would be that the effect of the foreign exchange gain would completely wipe out the availability of any deductible discount pursuant to paragraph 20(1)(f). I have attached Appendix "E" to illustrate this result. But, applying the Respondent's interpretation to the same situation yields the same result. A taxpayer gets no deduction for a discount. (See Number 2 in Appendix "E".)
+[21] Appendix "E" also illustrates the effect of reading paragraph 20(1)(f), as I suggest, in its ordinary and grammatical sense and simply converting the result. (Number 3 - Alternative (i)). It is apparent the taxpayer still gets a deductible discount, but then faces a foreign exchange capital gain subject to subsection 39(2). This appears to be the only approach where economic and legal reality so neatly mesh.
+[22] In the Appendix "E" example, there was a cost of borrowing arising from the discount. It does not make sense to eliminate that legitimate deductible cost by applying interpretative principles that simply are not appropriate for this provision. The legal reality, I suggest, is that paragraph 20(1)(f) was never intended to, nor on an ordinary meaning approach does it make sense to, include the foreign exchange gains or losses in its calculation. I will have more to say on Parliament's intention with respect to this section shortly.
+The GaynorPrinciple
+[23] I now turn to the principles that the Parties agree preclude me from calculating the formula in US dollars and converting the result. The primary reason cited to me was the principle of statutory interpretation both Parties extracted from the case of Gaynor. The Respondent explained the principle as follows:[4]
+The Appellant and Respondent are in agreement ... . This principle requires that under the Act all amounts must be reported in Canadian dollars, because tax is payable in Canadian dollars, and because that tax must be calculated in Canadian dollars. Accordingly, every transaction involving foreign currency that results in an asset, liability, revenue item or expense must be converted into Canadian dollars at the rate of exchange on the date on which it came into existence. The Gaynor principle is therefore transaction-oriented, rather than end-results oriented.
+Mr. Chambers also cites Shell Canada v. The Queen[5] and comments of Professor Brian Arnold in Timing and Income Taxation: The Principles of Income Measurement for Tax Purposes[6] in support of this broad principle. Mr. Meghji supports Mr. Chambers' position in this regard, and goes on to argue that on a careful reading of Gaynor, the principle is not limited to capital gains calculations but extends to the computation of business income. He cites the following passage of Pratte J.A. of the Federal Court of Appeal:[7]
+... Paragraph 40(1)(a) of the Income Tax Act makes it clear that the capital gain realized by the appellant in each case was the 'amount' by which the proceeds of the disposition of her securities exceeded the adjusted cost base of those securities. When that provision speaks of the 'amount' of the capital gain, it obviously refers to an amount expressed in Canadian currency. As that amount is the result of a comparison between two other amounts, namely, the amount representing the cost of the securities and the amount representing the value of the proceeds of disposition, it necessarily follows that both the cost of the securities and the value of the proceeds of disposition must be valued in Canadian currency which is the only monetary standard of value known to Canadian law. ...
+I see nothing in Justice Pratte's comment that broadens the approach beyond that of the determination of a capital gain. Quite the opposite.
+[24] Mr. Meghji further relies on the Government's Technical Interpretation 9907935 dated June 7, 1999, wherein CCRA stated:[8]
+REASONS: 1) Income as used in section 3 means Canadian dollars and Gaynor v. The Queen, ... confirms that an amount is expressed in Canadian currency ... The Act is a Canadian statute and thus, in general terms, it is our view that a taxpayer's taxable income should be expressed in Canadian dollars. The case law supports our view that transactions should be measured in Canadian currency either at the time of the transaction, or at a time that produces substantially the same dollar amounts that would have resulted had the underlying transaction been converted into Canadian currency on the dates that they incurred. The Federal Court of Appeal case of Hope R. Gaynor v. The Queen ... confirmed that an "amount" refers to an amount expressed in Canadian currency.
+[25] In effect, the Parties' position is that Gaynor stands for the proposition that wherever the word "amount" appears in the Act, it must refer to a Canadian amount. I wish to explore this interpretation of Gaynor in some further detail.
+[26] Based on the decisions in the Tax Court of Canada and both Federal Courts in Gaynor, and the line of cases from the United Kingdom that deal with the same issue, the Federal Court of Appeal's decision in Gaynor does not set down the general principle of interpretation, as suggested by the Parties. The Canadian and United Kingdom courts have held that different considerations apply when converting from a foreign currency depending on whether one is calculating a capital gain or income amount. Deduction under paragraph 20(1)(f) of the Act is on account of income, not capital.
+i. Tax Court of Canada decision in Gaynor[9]
+[27] In Gaynor, the Appellant owned a portfolio of US securities at the time she became resident in Canada. When she eventually sold her US stock, she argued that her capital gain should be calculated based on the proceeds of disposition in US dollars less the US dollar cost of acquisition (i.e. the US dollar cost on the date she became a resident), and converting the US dollar gain into Canadian funds at the exchange rate prevailing at the date of disposition. Sarchuk J. disagreed, holding that the approach mandated by the legislation was to convert the cost into Canadian funds at the date she became resident, and to subtract that amount from the Canadian dollar proceeds calculated at the time of disposition.
+[28] Sarchuk J. also dealt with and commented on the UK case of Pattison v. Midland Marine Ltd.,[10] which had been cited for the Appellant, Ms. Gaynor. In Pattison, a UK bank borrowed US$15 million from its American parent in order to conduct its banking business in Europe. The UK Bank had not made any profit other than interest from re-lending the US funds, however, it had made a notional (i.e. foreign exchange) profit on the loans since sterling had declined in value against the US dollar over the period. The Inland Revenue sought to tax the foreign exchange gain that the UK Bank had earned on the US dollar loans.
+[29] The House of Lords had found for the taxpayer, Midland Marine, on the grounds that returning to the debtor the specific subject matter of a loan can never give rise to a profit to the borrower, notwithstanding the change in value of the subject matter of the borrowing. Consequently, the foreign exchange gain was not taxable as profit.[11]
+[30] Sarchuk J. distinguished the House of Lords reasoning in Pattison on the grounds that it did not apply to the calculation of a capital gain. He stated:
+... In the Pattison case monies were borrowed and repayed(sic). These monies were the asset, this asset was borrowed by the taxpayer corporation and in due course returned. In the interim it had increased in value.
+The conclusions in Pattison cannot in my view be applied to the facts before me. Taxation in the case at bar is dependent upon the determination of capital gains or losses which are by statutory definition the difference between the adjusted cost base and the proceeds of disposition. In the Pattison case there were no dispositions, there were no sales or purchases. The asset was simply borrowed and increased in value while the borrower had the asset. That is not the case here where assets were sold and gains and losses were incurred.[12]
+According to Sarchuk J., the disposition made the difference.
+ii. The Federal Court Trial Division decision in Gaynor[13]
+[31] Gaynor proceeded as a trial de novo before the Federal Court Trial Division, although the parties agreed to proceed on the evidence that was adduced before the Tax Court. The headnote to the case reads in part:
+... when computing the gain or loss realized on the disposition of property such as that of the taxpayer, money must be the measure, and this is so at every stage or step that needs to be considered under the Act in establishing such a gain or loss. These gains or losses must be calculated in Canadian dollars at the relevant time, i.e. at the average exchange rate prevailing at the time such gain or loss occurs, and such cost or price is encountered.
+Like Sarchuk J. before him, Pinard J. recognized that the case dealt with a capital gain. He noted:[14]
+One must also keep in mind that capital gain should not be computed according to the same rules as income from a business or property; indeed, the Income Tax Act provides special rules for the computation of capital gain (see The Queen v. Geoffrey Sterling, 85 DTC 5199 at page 5200).
+iii. The Federal Court of Appeal decision in Gaynor[15]
+[32] By the time that Gaynor was decided by the Federal Court of Appeal, the importance of a disposition to the distinction between capital gains and income had become a little less obvious. Consider however the comments cited earlier of Justice Pratte, found in paragraph 23 of these Reasons.
+[33] Contrary to Mr. Meghji's position, I suggest a careful analysis of this case at all three levels reveals that there is a difference to be observed between the conversion of a foreign currency amount for the purpose of calculating a capital gain, and a conversion for the purpose of calculating an income amount.
+iv. The UK jurisprudence
+[34] There is a line of English cases that deal with the same issue that the Canadian courts wrestled with in Gaynor. They all support the view that foreign currency conversions should be treated differently depending on whether they are made for the purpose of calculating a capital gain or income.
+(a) Bentley v. Pike, 53 TC 590.
+[35] In Bentley, the High Court of Justice (Chancery Division) of England dealt with the same issue that our Federal Court of Appeal addressed in Gaynor, with the exact same result. Vinelott J. summarized the Appellant Bentley's position:
+Mr. Englard submitted that if the chargeable gain is the difference between the value ... at the death of Mr. Rosenfeld and the ... proceeds of sale of the property when it was sold, the gain should none the less be ascertained by translating both the value ... at Mr. Rosenfeld's death expressed in Deutschmarks and the ... proceeds of sale into sterling at the rate of exchange ruling on 6 July 1973.[16]
+In other words, the Appellant argued that she should be entitled to calculate the capital gain based on the exchange rate prevailing at the time of disposition, instead of calculating the cost in sterling at the time of acquisition and subtracting it from the proceeds calculated in sterling at the time of disposition.
+[36] However, Vinelott J. went on to rule against the Appellant, stating that:
+While I feel some sympathy for Mrs. Bentley, who is in large measure called on to pay capital gains tax upon a gain resulting from the devaluation of the pound, I can see no possible justification in the capital gains tax legislation for this approach.[17]
+This case is on all fours with Gaynor, and takes the exact same approach to the calculation of a capital gain.
+(b) Pattison v. Marine Midland Ltd., [1984] 1 A.C. 362.
+[37] As discussed earlier in Pattison, a UK bank borrowed US$15 million from its American parent in order to conduct its banking business in Europe. The UK Bank had not made any profit other than interest from re-lending the US funds, however, it had made a notional (i.e. foreign exchange) profit on the loans since sterling had declined in value against the US dollar over the period. The Inland Revenue sought to tax the foreign exchange gain that the UK Bank had 'earned', arguing that the US dollar borrowing should be converted to sterling at the exchange rate prevailing at the time of the borrowing, and subtracted from the value in sterling of the US dollar borrowing at the time of repayment.
+[38] The Appellant (Marine Midland), on the other hand, argued that it had not made any profit, since it had simply returned exactly what it borrowed. It took the position that the correct approach was to calculate any profit or loss on the loan in the currency of the loan first, before converting it to sterling for tax purposes. If that was done, there was no foreign exchange gain or loss since US$15M was borrowed, and US$15M was repaid.
+[39] The decision of the House of Lords was given by Lord Templeman, who found for the Appellant. He made much of the fact that the Appellant had never actually converted the loan proceeds to sterling, and that the Appellant had always maintained enough US dollar assets to provide a natural hedge throughout the term of the loan, which effectively neutralized any currency fluctuations. In Pattison, the Law Lords took a practical and realistic approach to the calculation of the Appellant's profit on its foreign denominated debt.[18] It does not appear that Bentley was even raised before them.
+(c) Capcount Trading v. Evans, 65 TC 545
+[40] In Capcount Trading, the Appellant took the position that the capital gain it realized on the disposal of its Canadian company shares should be calculated by deducting the Canadian dollar cost of the shares from the Canadian dollar proceeds before converting the Canadian dollar amount into sterling at the exchange rate prevailing on the date of disposal. The Inland Revenue argued that the cost of acquisition and the proceeds of disposition must each be converted to sterling at the exchange rates prevailing on the dates of acquisition and disposition, respectively. The Appellant was arguing against the application of the principle set down by the English courts in Bentley and our Federal Court of Appeal in Gaynor, on the basis of the House of Lords decision in Pattison. The taxpayer appeared to be trying to exploit the differences between the approach taken by the House of Lords in Pattison, and the approach taken by Vinelott J. in Bentley. Lord Justice Nolan observed at page 558:
+... Mr. Park relies in particular upon the judgments given by this court in a tax case, Pattison v. Marine Midland Ltd, 57 TC 219. This case, in which the decision of the Court of Appeal was upheld by the House of Lords, was decided after Bentley v. Pike and, in Mr Park's submission, is inconsistent with it.
+Lord Justice Nolan went on to deny the appeal, finding that:
+... I agree with the conclusion reached by Vinelott J. in Bentley v. Pike that sterling is "the only permissible unit of account" for capital gains tax purposes."[19]
+But continued:
+Is this conclusion inconsistent with the decision of this court in Pattison v. Marine Midland Ltd (1983) 57 T.C. 219?
+... At first sight, the Revenue claim in the Marine Midland case bears a resemblance to the claim made against the Appellant in the present case, but it is to be borne in mind that the former claim was for tax upon trading profits, that is to say upon income, whereas the latter is a claim for tax under the capital gains legislation.[20]
+Lord Justice Nolan recognized a difference between income and capital gains in this context.
+[41] The cases suggest that there is a difference, though none of them truly explain the conceptual basis for the difference. The capital gains provisions must be capable of measuring the value of an asset at two different points in time. Obviously, a consistent unit of measurement will be required, since, as Lord Justice Nolan aptly points out in Capcount Trading:
+... In applying (the relevant paragraph under UK law) to a particular acquisition and disposal one cannot, so to speak, subtract peas from beans.[21]
+Since the ultimate result must be an amount measured in Canadian dollars, and since the unit of measurement must be consistent over time, it is easy to see why the courts have held that the acquisition and disposition must be converted into Canadian currency for the purposes of the computation. Gaynor provides that for the purpose of calculating a capital gain, the currency of the computation must be Canadian, regardless of the currency of the transaction.
+[42] However, there is a distinct difference between the measurement of a capital gain and the measurement of 'ordinary' income. In Capcount Trading, Lord Justice Nolan also notes that:
+... the income tax legislation, unlike the capital gains tax legislation, is not generally concerned with the measurement of a gain or loss on a single disposal but with a balance at the year end computed on accounting principles.[22]
+And in finding for the Appellant in Pattison, Lord Justice Nolan also made a great deal of the fact that there had been no currency conversion transaction. It was, he held, the exchange transaction that gave rise to the foreign exchange gain or loss.
+[43] As a result, the key to the different treatment of capital gains and income in respect of foreign exchange transactions may be that a capital gain relies on the acquisition and disposition of the asset. The acquisition and disposition force (at least conceptually) a currency conversion transaction to occur.
+[44] However, an expense on income amount (such as the discount under paragraph 20(1)(f) in the present case) requires a snapshot at the time of payment. There is no accumulation of wealth over a period of time, requiring a measurement over time. The formula does not address an increase or decrease in value: it is only meant to work at a single point in time to determine a cost, an expense.
+[45] I conclude that each "amount" in this particular expense-related formula need not be converted to conform to principles of statutory interpretation. It is sufficient in the application of this provision to convert the result, the deductible amount, into Canadian dollars; indeed, it gives clear, ordinary meaning to the provision to do so.
+[46] However, if I am wrong in my application of Gaynor, and I must convert each amount of the formula into Canadian dollars, then, to achieve the object of the section, the Canadian dollars must all be at the same rate. The one time snapshot rate has to be the 1999 rate. When the formula is calculated on that basis, the result is the same as if only the result was converted. Further, if the rate at the time of repayment is used in the example of a Canadian rate increase, (Appendix "E") again the result is the same as calculating in US dollars and converting the final figure - a result, which I have already indicated, is the only result which meshes legal and economic reality; that is, a deduction for a legitimate discount, plus a gain on capital account for the foreign exchange gain.
+[47] To put 1999 Canadian dollar amounts to the case before me, the calculation would be as set forth in Alternative 2 of Appendix "D".
+[48] Does attaching the 1999 exchange rate to "the amount for which the obligation was issued" in 1989 fly in the face of the ordinary meaning of those words? Not, I would suggest, if the provision is read in context and in its totality, with a view to its objective. To simply pluck the phrase out of the section and give to it a stand-alone status, then, of course, it becomes difficult to justify attaching any rate other than the rate at the time of issuance. And, indeed, that is how the Parties agreed to interpret it; and that is why, I would suggest, a relatively clear provision has been subjected to extensive interpretative analysis, with resulting confusion and disagreement.
+[49] The plain and ordinary meaning approach to paragraph 20(1)(f) of the Act simply does not work if the foreign exchange conundrum is introduced into this particular provision by intermingling rates. Only by removing that confusion by either determining the calculation in the currency of the obligation and converting the result, or by determining the calculation in Canadian dollars all at the same rate, does the provision become susceptible to a plain and ordinary meaning.
+Purpose of paragraph 20(1)(f)
+[50] Are my alternative interpretations supportable considering the provision harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament?
+[51] Paragraph 20(1)(f) deals with obligations issued at less than face value, and allows that difference on payment to be deducted. Mr. Meghji rightfully points out that nowhere, other than in the margin, is the word "discount" used. But neither does this section refer to foreign exchange losses directly. Yet, by parsing the different elements of the formula and intermingling rates, a positive result is achieved for Imperial Oil. I just do not buy it. I have been provided with no material to suggest that paragraph 20(1)(f) of the Act was intended by Parliament to have such an expansive reading.
+[52] Analyzing the provision in context and with a view to object and intention, the question really becomes: are foreign exchange losses incurred in the course of borrowing money in a foreign currency a deductible cost of borrowing under paragraph 20(1)(f) akin to other subsection 20(1) deductible costs of borrowing? My answer is no. Mr. Meghji argues, following reasoning in Antosko et al. v. The Queen,[23] that where the words are clear and unambiguous, they must be followed notwithstanding the result may provide a result abhorrent to the Respondent. But Justice Iacobucci goes on to say in Antosko:[24]
+... Where the words of the section are not ambiguous, it is not for this Court to find that the appellants should be disentitled to a deduction because they do not deserve a "windfall", as the respondent contends. In the absence of a situation of ambiguity, such that the Court must look to the results of a transaction to assist in ascertaining the intent of Parliament, a normative assessment of the consequences of the application of a given provision is within the ambit of the legislature, not the courts. ...
+[53] Mr. Meghji and Mr. Chambers spent the vast majority of their arguments illustrating how the section can be interpreted quite differently. To use Justice Iacobucci's expression, there is a situation of ambiguity, and therefore the Court must look to the results of the transaction to ascertain intent. This is not a matter of the words themselves yielding a straightforward result (unless, as I have hoped to make clear, one extracts the foreign exchange aspect from the formulaic calculation altogether). So what did Parliament intend?
+[54] Firstly, unlike the other costs of borrowing found in subsection 20(1), foreign exchange losses are not specifically identified as a capital item to be treated as a current expense. That result is only achieved by adroit interpretative footwork - it is not clear on its face. This is no minor item; indeed, it can be seen from this one case alone that the potential for deducting foreign exchange losses on current account is extraordinary. It is too much of a stretch to find Parliament intended to effectively bury such a significant deduction in paragraph 20(1)(f) with no commentary, no headings, no guidance. It is not plausible.
+[55] Consider the scheme of the Act. There is a provision dealing with foreign exchange gains and losses, subsection 39(2). It is clear. For foreign exchange losses to escape such a provision must require equally explicit language. Changing the treatment of a capital item, specifically addressed as such in the Act, to provide current expense treatment, should not rest on implication.
+[56] While I accept Mr. Meghji's argument that headings are not part of the Act, they are inserted to offer some guidance to the reader. Paragraph 20(1)(f) is headed "Discount on certain obligations". Consider this in conjunction with the only technical notes to which I was referred, published by the Government in 1988 as part of its comments on amendments to subparagraph 20(1)(f)(ii), wherein the Government stated:
+Paragraph 20(1)(f) sets out rules concerning the deductibility of discounts paid by a taxpayer in satisfaction of the principal amount of any bond, debenture, bill, note, mortgage, hypothec by the taxpayer on which interest was stipulated to be payable.[25]
+Though limited, these factors certainly do not suggest any Government intention to capture foreign exchange losses under paragraph 20(1)(f).
+[57] Another distinction between the costs of borrowing covered by the surrounding sections of subsection 20(1) and the foreign exchange loss is that the other costs derive from the contract of origin, and are known to be costs at the time of the contract. The foreign exchange "cost" does not derive from the obligation itself - the obligation was in US dollars. The "cost" arises from the external forces of currency fluctuations. Further, at the time of the issuance of the obligation, Imperial Oil does not know whether it will have a cost or a gain. This is not a type of cost of borrowing that can be categorized with other subsection 20(1) costs. I disagree with Mr. Meghji that context supports a finding that foreign exchange losses are just costs like other subsection 20(1) costs. They are not.
+[58] I have not been convinced that paragraph 20(1)(f) was ever intended to allow deductions of the type of foreign exchange loss sought by Imperial Oil. It was however clearly intended for discounts. It is unnecessary for me to determine what other "cost" may be the subject of a 20(1)(f) deduction.
+[59] The approach I have taken does result in the foreign exchange having some impact on the final figure. This explains the difference between the Respondent's result of $1,229,181 and my result of $1,548,325. The additional approximate $300,000 deduction available under paragraph 20(1)(f) is the part of the foreign exchange loss that pertains specifically to the deductible discounts; that is, the part of the foreign exchange loss that is logically and sensibly connected to the income, as opposed to capital, item - the discount.
+Conclusion
+[60] By relying on an expansive view of Gaynor, both the Appellant and the Respondent's approach to interpreting paragraph 20(1)(f) of the Act necessarily incorporates a foreign exchange element. Their disagreement over the interpretation of paragraph 20(1)(f) is based on this intermingling of exchange rates. This results in an ambiguity which leaves no ability to rely solely on an "ordinary and grammatical meaning of the words" approach; it requires that I discern Parliament's intention. The Parties became embroiled in the meaning of "principal amount of the obligation", not in terms of the ordinary meaning of the words themselves, but in terms only of the exchange rate to be applied to the expression. This narrow interpretative approach led to a result contrary to the purpose of the provision as a whole. Parliament did not intend foreign exchange losses to be deductible under paragraph 20(1)(f) as they pertained to the capital element of a borrowing.
+[61] The expense to be determined under paragraph 20(1)(f) is an expense determined by a mathematical formula - a formula intended to effectively allow a current expense of a capital item. That is all. Applying the formula in the currency of the obligation and converting the result into current Canadian dollars, not only makes the most sense in the ordinary and grammatical sense, but also does not offend any well-established principle of statutory interpretation. Such an approach is in accordance with the object and scheme of the Act and the intention of Parliament. In the alternative, calculating all elements of the paragraph 20(1)(f) formula in 1999 Canadian dollars achieves the same result.
+[62] The answers to the questions in this Reference are:
+(a) The amount of C$1,548,325 is deductible under subparagraph 20(1)(f)(i).
+(b) Nothing is deductible under subparagraph 20(1)(f)(ii).
+(c) The amount of C$26,283,387 is the capital loss under subsection 39(2) of the Act.
+[63] While these answers substantially favour the Respondent, it is based on reasoning not supported by the Respondent. I am therefore not prepared to award any costs in this matter.
+Signed at Ottawa, Canada, this 10th day of March, 2004.
+"Campbell J. Miller"
+Miller J.
+APPENDIX "A"
+CURRENCY CONVERSION OF TRANSACTION
+US$
+C$ (1989)
+at 1.1776
+C$ (1999)
+at 1.48192
+(A) Principal amount of obligation
+87,130,000
+102,517,158
+129,119,689
+(B) Amount paid in 1999
+87,130,000
+102,517,158
+129,119,689
+(C) Amount for which obligation issued
+86,085,311
+101,287,977
+127,571,544
+TOTAL LOSS
+Amount actually paid 1999
+$129,119,689
+Minus amount actually received 1989
+$101,287,977
+Total loss
+$27,831,712
+APPENDIX "B"
+APPELLANT'S PARAGRAPH 20(1)(f) CALCULATION
+X = Amount deductible under paragraph 20(1)(f)
+= Lesser of (A) Principal Amount of Obligation or
+(B) Amount paid in 1999 minus
+(C) Amount for which obligation issued
+= (A) $129,119,689 (1999 C$) or
+(B) $129,119,689 (1999 C$) minus
+(C) $101,287,977 (1989 C$)
+= $27,831,712 C$
+APPENDIX "C"
+RESPONDENT'S PARAGRAPH 20(1)(f) CALCULATION
+X =
+Amount deductible under paragraph 20(1)(f)
+= Lesser of (A) Principal Amount of Obligation or
+(B) Amount paid in 1999 minus
+(C) Amount for which obligations issued
+= (A) $102,517,158 (1989 C$) or
+(B) $129,119,689 (1999 C$) minus
+(C) $101,287,977 (1989 C$)
+= $1,229,181
+RESPONDENT'S SUBSECTION 39(2) CALCULATION
+Principal amount in 1999 C$
+$129,119,689
+Minus principal amount in 1989 C$
+$102,517,158
+Capital loss
+$ 26,602,531
+Paragraph 20(1)(f) deduction
+$ 1,229,181
+Subsection 39(2) loss
+$ 26,602,531
+Total loss
+$ 27,831,712
+APPENDIX "D"
+COURT'S CALCULATION OF PARAGRAPH 20(1)(f) DEDUCTION
+Alternative 1. US$ calculation with conversion of the result
+X = Lesser of (A) or (B) - (C)
+= (A) US$87,130,000 or (B) US$87,130,000 minus (C) US$86,085,311
+= US$1,044,689
+= 1999 rate 1.48192 x $1,044,689
+X =
+C$1,548,325
+Alternative 2. C$ calculation with all elements converted at 1999 rate
+X = Lesser of A or B - C
+= (A) $129,119,689 or (B) $129,119,689 minus (C) $127,571,544
+= $1,548,325
+In both cases balance of total loss ($27,831,712 - $1,548,375)
+or $26,283,387 is capital loss (pursuant to subsection 39(2))
+APPENDIX "E"
+CALCULATION OF PARAGRAPH 20(1)(f) DEDUCTION IN
+EVENT C$ INCREASES IN VALUE
+Assume US$100 bond issued at 2% discount for US$98 in 1989 when the Canadian-US exchange rate was $US1 = C$1.40. Assume the bond is redeemed in 1999 for US$100 when Canadian-US exchange rate was US$1 = C$1.10. (A) is principal amount of obligation. (B) is amount paid in 1999 and (C) is amount for which obligation issued.
+1. Appellant's paragraph 20(10(f) calculation
+X = Lesser of A or B - C
+= (A) $110 (1999 rate) or (B) $110 (1999 rate) - C ($98 x $1.40) (1989 rate)
+= $110 - $137.2
+= 0 (no deduction for discount)
+2. Respondent's paragraph 20(1)(f) calculation
+X = Lesser of A or B - C
+= $140 (1989 rate) or $110 (1999 rate) - $137.2 (1989 rate)
+= 0 (no deduction for discount)
+3. Court's paragraph 20(1)(f) calculation
+Alternative (i) X = Lesser of A or B - C
+= US$100 or US$100 minus US$98
+= US$2
+= C$2.2 (1999 rate)
+Alternative (ii) X = C$110 or C$110 (both 1999 rates) -
+($98 x $1.10 (1999 rate))
+= $110 - $107.8
+= C$2.2
+CITATION:
+2004TCC207
+COURT FILE NO.:
+2002-2257(IT)G
+STYLE OF CAUSE:
+Imperial Oil Limited and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 25, 2003
+REASONS FOR DETERMINATION BY:
+The Honourable Justice Campbell J. Miller
+DATE OF DETERMINATION:
+March 10, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji and Lara H. Pella
+Counsel for the Respondent:
+Luther Chambers, Q.C. and
+Rhonda L. Nahorniak
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]
+Agreement under subsection 173(1) of the Act dated October 14, 2003.
+[2] 2001 DTC 462 (TCC).
+[3] See Department of Finance Technical Notes, 14th edition page 2335, February 1995 TN.
+[4]
+Respondent's Supplementary Memorandum of Fact and Law, paragraph 4.
+[5] 99 DTC 5669, paragraph 63.
+[6] Tax Paper No. 71 Canadian Tax Foundation, July 1983, pages 187 to 188.
+[7]
+Gaynor v. The Queen, 91 DTC 5288 at 5289.
+[8]
+Appellant's Further Submissions, page 5, paragraph 14.
+[9] 87 DTC 279.
+[10] [1984] 1 A.C. 362 (H.L.)
+[11] Note that there is an implicit distinction between income and capital gains.
+[12] supra, at page 281 and 282.
+[13] 88 DTC 6394.
+[14] supra, at page 6396.
+[15] 91 DTC 5228.
+[16] at page 595.
+[17]
+Ibid.
+[18] One cannot help but to be reminded of the Supreme Court's reasons in Canderel Limited v. The Queen, 98 DTC 6100 (SCC), where it held that the test is whether a taxpayer's computation method is in accordance with accepted business principles and is not inconsistent with the Income Tax Act or with legal principles.
+[19] at page 561.
+[20] at page 561.
+[21] supra, at page 560.
+[22] Ibid., at page 564.
+[23] 94 DTC 6314.
+[24] at page 6321.
+[25] Department of Finance, Technical Notes, 14th edition, page 202, 1988 TN.

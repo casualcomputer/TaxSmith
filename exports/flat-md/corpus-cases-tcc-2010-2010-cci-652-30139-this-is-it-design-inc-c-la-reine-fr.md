@@ -1,0 +1,354 @@
+---
+title: "this is it design inc c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30139/index.do"
+last_modified: "2010-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 652"
+citation2: ""
+neutral_citation: "2010 CCI 652"
+decision_date: "2010-12-22"
+language: "fr"
+item_id: "30139"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7789
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:20:31.086000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "013f667b08b85df6a999b716e6d956d3a90bd9ab981e3ed34828b760d55c51a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# this is it design inc c. La Reine
+
+- Citation: 2010 CCI 652
+- Decision date: 2010-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7789, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+this is it design inc c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-22
+Référence neutre
+2010 CCI 652
+Numéro de dossier
+2010-1572(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1572(IT)I
+ENTRE :
+THIS IS IT DESIGN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 26 novembre 2010 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Wyman Webb
+Comparutions :
+Représentants de l’appelante :
+Mme Elizabeth (Beth) Hawthorn et M. Robert Studer
+Avocat de l’intimée :
+Me Jonathan Wittig
+____________________________________________________________________
+JUGEMENT
+Les appels formés par l’appelante des nouvelles cotisations établies pour ses années d’imposition 2006 et 2007 sont accueillis, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, l’appelante ayant droit à la déduction de 21 981 $ pour l’année 2006 et de 21 980,56 $ pour 2007 qu’elle avait demandée au titre de la dépréciation de ses stocks. L’appelante se voit en outre adjuger la somme de 750 $ au titre des dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 22e jour de décembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de février 2011.
+Marie-Christine Gervais
+Référence : 2010CCI652
+Date : 20101222
+Dossier : 2010-1572(IT)I
+ENTRE :
+THIS IS IT DESIGN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Les présents appels soulèvent la question de savoir si l’appelante est en droit, pour l’application de la Loi de l’impôt sur le revenu (la « Loi ») de déduire dans le calcul de son revenu pour les années 2006 et 2007 certaines sommes au titre de la dépréciation de ses stocks. L’appelante a déduit pour chacune des deux années en question 21 981 $ au titre de la dépréciation de ses stocks, la somme étant arrondie au dollar le plus proche.
+[2] En 1996, l’appelante a lancé une entreprise de conception, de production et de vente d’articles cadeaux de qualité en verre, en fer et en bois. Dans le profil de son entreprise, rédigé au début de 2002, l’appelante présente ainsi ses articles : [traduction] « des objets décoratifs faits de verre, d’acier inoxydable et de bois ». À l’époque, l’appelante disposait de 48 articles différents. Elle en a ajouté six en 2001, et huit encore en 2002. Ces articles, vendus à des distributeurs, étaient essentiellement destinés à une clientèle située à l’extérieur du Canada.
+[3] L’appelante est arrivée à progressivement accroître ses ventes. En raison, cependant, d’événements échappant à son contrôle, elle a constaté, après le 11 septembre 2001 et au cours des quelques années qui ont suivi, une baisse graduelle de son chiffre d’affaires. L’appelante a par conséquent décidé de se retirer de la vente d’articles destinés à être offerts en cadeau et de se consacrer plutôt à l’exécution de commandes. C’est ainsi qu’elle a, pour une résidence, fabriqué quatre plafonds sur commande. Trois d’entre eux figurent dans des photographies versées au dossier par l’appelante. À l’un de ces plafonds était suspendue [traduction] « une sculpture éclairée de 40 pieds de long faite de verre moulé ». Une autre des commandes qu’elle a exécutées était une sculpture en verre pesant 6 000 livres, de sept pieds de haut et 13 pieds de large. L’exécution de ce genre de commande n’avait pas grand-chose à voir avec la fabrication d’articles cadeaux et, en 2005-2006, l’appelante avait cessé de vendre ces articles pour se consacrer à l’exécution de commandes.
+[4] L’appelante continuait néanmoins à fabriquer un certain nombre d’articles cadeaux pour les offrir à sa clientèle, et acceptait parfois d’exécuter une commande spontanée qu’il recevait. Cependant, il est clair, comme l’indiquent la baisse des ventes d’articles cadeaux et l’augmentation des travaux exécutés sur commande, que son centre d’intérêt s’était déplacé.
+Année
+Vente d’articles
+Exécution de commandes
+Total du chiffre d’affaires
+Vente d’articles exprimée en % du chiffre d’affaires
+2001
+168 799 $
+78 647 $
+247 446 $
+68 %
+2002
+161 133 $
+83 140 $
+244 273 $[1]
+66 %
+2003
+137 370 $
+75 086 $
+212 456 $
+65 %
+2004
+42 000 $
+129 232 $
+171 232 $
+25 %
+2005
+7 000 $
+120 916 $
+127 916 $
+5,5 %
+2006
+5 420 $
+189 004 $
+194 424 $
+2,8 %
+2007
+3 000 $
+223 517 $
+226 517 $
+1,3 %
+[5] De toute évidence, en 2006 (la première année d’imposition visée par l’appel), la vente d’articles ne représentait plus qu’une très faible part du chiffre d’affaires de l’appelante. Il restait cependant à celle-ci une quantité considérable d’éléments servant à la fabrication des articles en question. Ces éléments, qui étaient entreposés dans un espace ouvert, étaient couverts mais ils étaient quand même exposés aux éléments. Il s’agissait de morceaux de verre taillés sur mesure et destinés à la fabrication de certains articles, de pièces métalliques et d’autres éléments constituant des articles évoqués plus haut. En 2006, cela faisait déjà plusieurs années que certains d’entre eux étaient entreposés là.
+[6] La valeur des stocks entre en compte dans le calcul du revenu, la valeur des marchandises vendues étant généralement calculée selon la formule suivante :
+Stocks d’ouverture
++ Achats
+- Stocks de clôture
+= Valeur des marchandises vendues
+[7] Le paragraphe 10(1) de la Loi dispose :
+10(1) Pour le calcul du revenu d’un contribuable pour une année d’imposition tiré d’une entreprise qui n’est pas un projet comportant un risque ou une affaire de caractère commercial, les biens figurant à l’inventaire sont évalués à la fin de l’année soit à leur coût d’acquisition pour le contribuable ou, si elle est inférieure, à leur juste valeur marchande à la fin de l’année, soit selon les modalités réglementaires.
+[8] Si aucun achat n’est effectué au cours de l’année et que la juste valeur marchande des stocks a baissé, le contribuable a droit à une déduction même s’il conserve les stocks en question et qu’il n’en a vendu aucune partie.
+[9] Dans le calcul de son revenu pour l’année 2006, l’appelante a demandé deux déductions au titre de ses stocks – une déduction de 16 000 $ (aucunement contesté en l’espèce) et une autre déduction s’élevant à 21 981 $ (qui, elle, par contre, est contestée). Le premier montant (16 000 $) correspond simplement à la différence de valeur entre le stock de clôture en 2005 (calculé en fonction du coût) et le stock de clôture en 2006 (dont la valeur est, elle aussi, fonction du coût) :
+Stocks de clôture en 2005 :
+71 962 $
+Stocks de clôture en 2006 :
+55 962 $
+Différence :
+16 000 $
+[10] La déduction de 16 000 $ correspond à une réduction des stocks de 16 000 $ et cette déduction a été admise par l’Agence du revenu du Canada. On ne sait cependant pas très bien comment l’appelante a comptabilisé ses achats. Si, par exemple, l’appelante avait acheté pour 5 000 $ de marchandises en 2006 et que cette somme était ajoutée à la valeur des stocks, le coût des marchandises vendues correspondrait semble-t-il à ce qui figure dans le tableau suivant :
+Stocks d’ouverture en 2006 :
+71 962 $
++ Achats :
+5 000 $
+- Stocks de clôture en 2006 :
+55 962 $
+= Coût des marchandises vendues :
+21 000 $
+[11] Rien n’indique comment l’appelante a comptabilisé ses achats. Étant donné que la valeur des [TRADUCTION] « commandes en cours d’exécution » a été prise en compte dans l’évaluation des stocks à la fin de l’année 2006 (cette valeur étant en l’occurrence de 3 404 $), il semblerait que le coût des achats ait été ajouté à la valeur des stocks. Si, cependant, ces achats n’ont pas été pris en compte dans le calcul de la valeur des marchandises vendues, l’appelante a peut-être manqué une déduction dont elle aurait pu se prévaloir. Ce n’est cependant qu’en examinant la manière dont l’appelante calculé son revenu et comptabilisé ses achats qu’on peut répondre à cette question.
+[12] La seconde déduction demandée par l’appelante pour 2006, concernait certains éléments de ses stocks qui étaient, selon elle, obsolètes. Voici un extrait du témoignage de Robert Studer portant sur la question des éléments en stock :
+[traduction]
+À la page suivante, vous pouvez voir une bonne partie de nos stocks. Je dis cela, car ils sont entreposés dans un abri extérieur situé sur notre terrain et c’est là que nous déchargeons la marchandise, qui au moins est à l’abri de la pluie. Vous constaterez qu’il s’agit d’un abri ouvert et pas du tout d’un entrepôt. Nous avons pris des photos. Ici nous avons des photos prises en gros plan des divers éléments et articles en question.
+Sur la photo suivante, on peut voir une caisse remplie de morceaux de verre taillés sur mesure et destinés aux articles que nous fabriquions. Voyez, par exemple, ces morceaux de verre de différentes dimensions destinés à divers articles, tels que des plateaux, essentiellement des plateaux de service, ou le fond de lampes Petra.
+À la page suivante, vous pouvez voir d’autres caisses remplies elles aussi d’éléments de fabrication. En ce qui concerne les pièces en acier inoxydable, c’est évident. Vous voyez là 50 ou 60 pièces en inox. Vous pouvez voir qu’il y en a de plusieurs sortes, certaines étant peintes et apprêtées alors que d’autres étaient considérées comme un produit fini. Et là encore, ces pièces n’ont pas été entreposées d’une manière permettant de les revendre. Et puis il y a les pièces ayant cette texture ondulée que nous leur imprimions dans notre studio. Sous la rubrique M, à la deuxième page, vous pouvez voir le genre d’articles en question, et la manière dont ils étaient finis et présentés aux détaillants. Nous appliquions au métal une texture ondulée, et puis nous en peignions un des côtés avec de la peinture pour automobile.
+On en trouve encore à la page suivante où l’on peut voir d’autres pièces métalliques et aussi des faisceaux, plusieurs faisceaux de pièces métalliques retenues par du ruban adhésif. Il s’agit de matériaux que nous nous sommes procurés auprès de notre fournisseur de métaux. En général, nous commandions le verre et le métal découpés aux dimensions des divers articles que nous fabriquions, et puis nous prenions ces morceaux de métal, nous les façonnions puis nous y fixions des poignées en bois de chaque côté. Ou alors nous façonnions le métal, puis nous le faisions peindre et, lorsque les pièces nous revenaient, nous y mettions des poignées en bois, les emballions et les préparions pour qu’elles puissent être offertes comme produit.
+La difficulté est que non seulement ces éléments en métal ont été découpés en fonction de nos besoins, ils ont été revêtus d’une membrane en plastique censée protéger le métal. Avec le temps cependant ces pièces ont – la membrane en plastique se comporte un peu comme une étiquette et lorsqu’on tente de l’enlever, elle ne se décolle qu’en petites lamelles. On ne peut pas vraiment – on ne pourrait même plus en faire des plateaux.
+[13] En 2005, l’appelante a déménagé et c’est à cette époque que les pièces en question ont été entreposées par Robert Studer dans l’abri décrit ci-dessus. Il ressort clairement des photos produites en preuve, ainsi que du témoignage de Robert Studer, que ces éléments n’étaient pas entreposés d’une manière permettant d’y avoir facilement accès et de s’en servir pour fabriquer divers articles, mais que c’était simplement des choses qui avaient été mises là et dont on ne se servait plus. Je conclus que ces éléments figurant dans ses stocks et ayant servi à la fabrication d’articles que l’appelante fabriquait et vendait auparavant étaient devenus obsolètes, étant donné que l’appelante ne proposait plus à sa clientèle les articles à la fabrication desquels ces matériaux avaient servi et ne vendait plus en fait que quelques plateaux en bois et en acier qu’il arrivait qu’on lui commande.
+[14] Les témoins de l’appelante n’ont pas été en mesure de préciser le nombre d’articles vendus en 2006. Il semblerait que les seuls articles que l’appelante ait continué à vendre (lorsqu’il lui arrivait d’accepter une commande) étaient les plateaux de service en acier et en bois. Leur prix de vente au détail était de 150 à 300 $ la pièce. Compte tenu d’un chiffre d’affaires de 5 420 $ pour ce genre d’articles en 2006, cette année-là, de 18 à 36 articles auraient été vendus. Le chiffre d’affaires étant de 3 000 $ l’année suivante pour ce même genre d’articles, de 10 à 20 articles auraient donc été vendus en 2007.
+[15] Dans les bordereaux d’inventaire de 2006 et de 2007, figurent environ 80 éléments différents sous la rubrique des éléments obsolètes[2] (mis à part les six éléments en 2006 et les sept en 2007 rangés dans la catégorie « Autres »). Ces 80 éléments semblent être des éléments de fabrication et d’emballage destinés aux articles que l’appelante vendait activement auparavant. Selon les bordereaux d’inventaire de 2006 et de 2007, les seuls éléments obsolètes pour lesquels une baisse de quantité a été observée sont les éléments suivants, qui figurent tous sous la rubrique « Plateaux en acier et en bois » :
+Élément
+Quantité en 2006
+Quantité en 2007
+Baisse
+LG1
+25
+16
+9
+LG2
+28
+20
+8
+LG3
+11
+9
+2
+Total :
+19
+[16] En partant de l’hypothèse que ces éléments étaient destinés à la fabrication de divers types de plateaux, on peut conclure (compte tenu du chiffre d’affaires) que seul un petit nombre de plateaux ont été vendus en 2007. Le bordereau d’inventaire me permet également de conclure que l’appelante n’écoulait plus sa gamme complète de 48 articles (selon la feuille de renseignements dont disposait l’appelante en 2002). Il semblerait qu’en 2007, l’appelante ait vendu tout au plus trois des 48 articles et que les éléments servant à la fabrication des 45 autres articles soient manifestement devenus obsolètes à la fin de 2006.
+[17] Le coût de tous les éléments qui figuraient dans le bordereau d’inventaire à la fin de 2006 s’élevait à 55 962 $. Le coût total des éléments considérés obsolètes à la fin de 2006 était de 52 038,26 $. Si on ne considère pas comme obsolètes les éléments ayant servi à la fabrication des articles vendus en 2007, cela a pour effet de réduire la valeur des éléments obsolètes à la fin de 2006 :
+Coût des éléments obsolètes (y compris LG1, LG2 et LG3) :
+52 038,26 $
+- Coût des LG1 :
+250 $
+- Coût des LG2 :
+336 $
+- Coût des LG3 :
+187 $
+Coût révisé des éléments obsolètes :
+51 265,26 $
+[18] La déduction demandée au titre de la dépréciation des stocks était donc de 21 981 $ / 51 265,26 $, soit 43 % du coût révisé des éléments devenus obsolètes. La thèse de l’appelante est donc en fait que la juste valeur marchande des éléments obsolètes (mis à part les éléments dénommés LG1, LG2 et LG3) était, à la fin de 2006, de 29 284,26 $.
+[19] Ces éléments obsolètes comprenaient des morceaux de verre et de métal taillés sur mesure ainsi que d’autres éléments servant uniquement à la fabrication des articles à la vente desquels l’appelante s’était auparavant activement livrée. À mon avis, selon toute vraisemblance, la juste valeur marchande de ces éléments a effectivement baissé à partir du moment où l’appelante a mis un terme à la vente d’articles à la fabrication desquels ces éléments avaient servi, et je conclus que la dépréciation de 43 % dont l’appelante a fait état en 2006 est donc raisonnable et qu’elle est en droit de déduire dans le calcul de son revenu pour l’année 2006 la somme de 21 981 $, la juste valeur marchande des éléments obsolètes comptabilisés dans l’inventaire à la fin de 2006 étant de 21 981 $ inférieure à ce que ces éléments avaient coûté.
+[20] Étant donné que les stocks de l’appelante étaient évalués (à la fin de 2006) à une somme de 21 981 $ inférieure à leur coût, les stocks d’ouverture pour l’année 2007 auraient dû être évalués au même montant. Le paragraphe 10(2) de la Loi prévoit ce qui suit :
+(2) Malgré le paragraphe (1), pour le calcul du revenu tiré d’une entreprise au cours d’une année d’imposition, les biens figurant à un inventaire au début de l’année sont évalués au même montant que celui auquel ils ont été évalués à la fin de l’année d’imposition précédente pour le calcul du revenu de cette année précédente.
+[21] Ainsi, le calcul de la valeur des stocks d’ouverture pour l’année 2007 aurait dû donner :
+Stocks de clôture pour 2006, avant prise en compte de la dépréciation :
+55 962 $
+Montant de la dépréciation :
+21 981 $
+Valeur fin 2006 / début 2007 :
+33 981 $
+[22] La manière dont la valeur des stocks à la fin de 2007 a servi au calcul du revenu de l’appelante paraît inexplicable. Malheureusement, les éléments de preuve produits à l’audience n’ont pas permis d’élucider le mystère.
+[23] Le bordereau d’inventaire de chacune des deux années en question (2006 et 2007) comprend trois pages, chaque bordereau ayant pris en compte le coût d’acquisition des divers éléments en cause. Le bordereau d’inventaire pour l’année 2007 ne fait pas état de la dépréciation de 21 981 $ au titre de laquelle une déduction a été demandée en 2006.
+[24] Les deux premières pages énumèrent les éléments considérés obsolètes par l’appelante, y compris, à la deuxième page, les éléments dénommés LG1, LG2 et LG3. Comme nous l’avons vu plus haut, le bordereau d’inventaire des stocks à la fin de 2007 permet de constater une baisse du nombre de chacun de ces éléments. Étant donné que l’appelante ne vendait alors que des plateaux en bois et en acier, et encore, seulement lorsqu’elle acceptait d’exécuter une commande qui lui arrivait inopinément, il paraît évident qu’il n’y a eu, en 2006 ou en 2007, aucun achat d’éléments figurant aux deux premières pages des bordereaux d’inventaire. Il semble en outre, en ce qui concerne plusieurs catégories d’éléments, que le coût du dernier élément énuméré dans la catégorie à la fin de 2007 n’ait pas été pris en compte dans le calcul du coût total des éléments de cette catégorie. Voici une liste des catégories pour lesquelles le montant inscrit comme coût total ne comprend pas le coût du dernier élément énuméré :
+Catégorie
+Coût total 2006
+Coût total 2007
+Différence
+Coût du dernier élément énuméré
+Acier inoxydable brut
+1 108,05 $
+976,05 $
+132,00 $
+132,00 $
+Pièces en verre
+1 815,30 $
+1 665,30 $
+150,00 $
+150,00 $
+Supports en métal
+3 832,45 $
+3 045,95 $
+786,50 $
+786,50 $
+Objets en verre de forme carrée
+751,21 $
+631,21 $
+120,00 $
+120,00 $
+Éléments en acier inoxydable
+1 963,65 $
+1 926,15 $
+37,50 $
+37,50 $
+Plateaux télé – verre
+612,90 $
+417,90 $
+195,00 $
+195,00 $
+Plateaux en bois et en acier (sauf les pièces LG1, LG2 et LG3)
+2 359,00 $
+1 959,00 $
+400,00 $
+400,00 $
+Total :
+0
+0
+[25] Dans chacune de ces catégories, le nombre d’éléments n’a pas varié pas entre 2006 et 2007 et, par conséquent, le montant total du coût d’achat de ces éléments aurait dû être, à la fin de 2007, le même qu’à la fin de 2006. Rappelons que le coût de ces divers éléments ne tient pas compte du rajustement de leur valeur à la fin de 2006. Les témoins de l’appelante n’ont pas été en mesure d’expliquer cet écart et il semblerait qu’il s’agissait d’une simple erreur de calcul, due peut-être au fait que la formule employée par le programme Excel ne prenait pas en compte, dans le calcul du coût total des éléments de la catégorie en question, le dernier article énuméré. Je considère par conséquent que la valeur totale des stocks à la fin de 2007 (avant tout rajustement du coût pour tenir compte des éléments obsolètes en 2007) est la suivante :
+Valeur des stocks d’après le bordereau d’inventaire :
+69 886,15 $
++ les montants dont il n’a pas été tenu compte (erreur de calcul) :
+1 821,00 $
+- le montant de la dépréciation enregistrée en 2006 :
+21 981,00 $
+= la valeur des stocks révisée :
+49 726,15 $
+[26] En 2007, l’appelante a demandé une déduction de 21 981,56 $ au titre des éléments obsolètes. La valeur révisée des stocks de clôture aurait par conséquent dû être, en 2007 :
+Valeur d’inventaire révisée (avant prise en compte de la dépréciation) :
+49 726,15 $
+- la déduction demandée en 2007 au titre de la dépréciation :
+21 980,56 $
+= la valeur des stocks à la fin de 2007 :
+27 745,59 $
+[27] Or, l’appelante a évalué à 12 000 $ la valeur des stocks de clôture à la fin 2007. Le fait qu’elle ait demandé une déduction de 21 980,56 $ en 2007 n’a pas pour effet de ramener à 12 000 $ la valeur des stocks. La déclaration de revenus de l’appelante pour l’année 2007 n’a pas été produite en preuve et rien n’indique comment cette valeur des stocks de 12 000 $ a été prise en compte dans le calcul du revenu de l’appelante pour l’année 2007, si tant est qu’elle l’ait été.
+[28] Selon le bordereau d’inventaire de 2007, la valeur des éléments non désignés comme obsolètes s’élevait à 14 665,96 $, dont 14 145,91 $ étaient liés à des commandes en cours d’exécution. Il est donc évident qu’à la fin de 2007, la valeur des stocks était supérieure à 12 000 $. Compte tenu d’une dépréciation de 21 980,56 $, la valeur des stocks serait donc, comme nous l’avons noté plus haut, de 27 745,59 $. Le seul rajustement à avoir été rejeté par l’Agence du revenu du Canada était la déduction de 21 980,56 $. Pour que la valeur des stocks passe de 27 745,59 $ à 12 000 $, il aurait fallu une baisse supplémentaire de 15 745,59 $, qui, vraisemblablement, aurait été consignée par une autre écriture de journal.
+[29] Le vérificateur de l’Agence du revenu du Canada a témoigné à l’audience. Il a mentionné ce qui suit :
+[traduction]
+Q. Pourriez-vous nous dire sur quoi vous avez fondé votre – ou quels étaient les données dont vous disposiez quand vous avez effectué le calcul.
+R. Les renseignements dont je disposais étaient – eh bien, nous avons examiné – c’est-à-dire que j’ai examiné les sommes inscrites dans le bordereau d’inventaire et je les ai reliées aux données qui avaient été consignées et à celles qui avaient été déclarées. Nous avons – une procédure opérationnelle courante – c’est-à-dire un procédé de vérification courant que j’emploie et qui consiste à vérifier les écritures d’ajustement passées à la fin de chaque année financière. Or, lors de la vérification des écritures d’ajustement, j’ai été surpris de constater deux écritures concernant les stocks, c’est-à-dire que pour chacune des deux années en cause, une somme était consignée au titre de la dépréciation et, curieusement, cette somme était la même pour les deux années, c’est-à-dire environ 21 000 $ dans les deux cas.
+[30] Par conséquent, selon toute vraisemblance, cette autre déduction de 15 745,59 $ n’a pas été prise en compte par l’appelante dans le calcul de son revenu pour 2007. Dans la réponse, aucune hypothèse n’est formulée sur ce point, et il ressort du témoignage du vérificateur de l’Agence du revenu du Canada que celui‑ci a examiné les écritures d’ajustement passées en fin d’année. Si l’appelante avait passé une autre écriture pour réduire d’encore 15 745,59 $ la valeur des stocks (et pour demander une déduction dans le calcul de son revenu), une telle écriture d’ajustement aurait vraisemblablement été relevée par le vérificateur et la déduction aurait été refusée par l’Agence du revenu du Canada.
+[31] Dans les bordereaux d’inventaire de 2006 et de 2007, l’appelante, sous la rubrique « Autres », a inscrit les éléments suivants comme étant obsolètes :
+Objet
+2006
+2007
+Augmentation (diminution)
+Horloge terrestre 2001
+6 000,00 $
+6 000,00 $
+0
+Horloge terrestre 2002
+8 000,00 $
+8 000,00 $
+0
+Vinyle pour 2003
+1 000,00 $
+1 000,00 $
+0
+Autres / Matières premières diverses
+3 213,85 $
+3 000,00 $
+(213,85 $)
+Panneaux / Dessus de table en verre moulé
+7 692,53 $
+10 000,00 $
+2 307,47 $
+Articles de deuxième qualité
+5 000,00 $
+4 109,21 $
+(890,79 $)
+Panneaux en verre / Éléments d’art
+4 000,00 $
+4 000,00 $
+Total :
+5 202,83 $
+[32] On constate, entre 2006 et 2007, une augmentation nette de 5 202,83 $ dans les quatre dernières catégories d’éléments. On ne voit pas très bien à quoi est due cette augmentation, mais l’appelante continuait à exploiter son entreprise et comme une nouvelle catégorie d’éléments a été ajoutée à l’inventaire, il semblerait que les éléments en question aient servi à l’exécution d’œuvres d’art qui lui étaient commandées, certains éléments étant probablement devenus obsolètes parce qu’il s’agissait de pièces rebutées qui n’avaient pas été intégrées aux œuvres d’art exécutées.
+[33] Rappelons que, selon l’appelante, à la fin de 2006, la juste valeur marchande des éléments obsolètes (mis à part les éléments désignés sous la forme LG1, LG2 et LG3) était de 29 284,26 $. On relève, entre la fin de 2006 et la fin de 2007, une baisse de 1 104,64 $ (213,85 $ + 890,79 $) dans deux catégories d’éléments considérés obsolètes (sous la rubrique « Autres »). À supposer que la juste valeur marchande de ces éléments ait été égale à leur coût[3], les éléments obsolètes qui figuraient dans les stocks à la fin de 2006 et qui étaient toujours là à la fin de 2007, subiraient une baisse de leur valeur marchande, qui passerait ainsi de 29 284,26 $ à 28 179,62 $ (29 284,26 $ - 1 104,64 $ = 28 179,62 $), avant tout rajustement pour 2007. À la fin de 2007, ces éléments avaient une année de plus et il était clair que l’appelante ne vendait plus au moins 45 des 48 articles qu’elle offrait en 2002. Une autre baisse de 21 980,56 $ en 2007 réduirait encore la valeur des éléments obsolètes figurant dans les stocks à la fin de 2006 et toujours à la fin de 2007 (mis à part les éléments dénommés LG1, LG2 et LG3), cette valeur étant ramenée à 6 199,06 $ (c’est-à-dire 28 179,62 $ - 21 981,56 $). Selon toute vraisemblance, la valeur des divers éléments de fabrication et d’emballage et les autres pièces rebutés qui se trouvaient encore dans les stocks à la fin de 2007 a subi en 2007 une nouvelle baisse, ces éléments ayant maintenant une très faible valeur. J’estime raisonnables les 21 980,56 $ dont l’appelante fait état en 2007 au titre de la dépréciation. L’appelante a par conséquent droit à la déduction de 21 980,56 $ demandée en 2007.
+[34] Les appels formés par l’appelante des nouvelles cotisations établies pour ses années d’imposition 2006 et 2007 sont accueillis, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelles cotisations, l’appelante ayant droit à la déduction de 21 981 $ pour l’année 2006 et de 21 980,56 $ pour 2007 qu’elle avait demandée au titre de la dépréciation de ses stocks. L’appelante se voit en outre adjuger la somme de 750 $ au titre des dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 22e jour de décembre 2010.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 17e jour de février 2011.
+Marie-Christine Gervais
+RÉFÉRENCE : 2010CCI652
+No DU DOSSIER DE LA COUR : 2010-1572(IT)I
+INTITULÉ : THIS IS IT DESIGN INC.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 26 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 22 décembre 2010
+COMPARUTIONS :
+Représentants de l’appelante :
+Mme Elizabeth (Beth) Hawthorn et M. Robert Studer
+Avocat de l’intimée :
+Me Jonathan Wittig
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans le tableau soumis par l’appelante, le chiffre d’affaires est de 224 273 $ pour 2002, mais 161 132,76 $ et 83 140,24 $ font 244 273 $.
+[2] Il y a un élément (64W/64T Verre complet) qui ne se trouvait pas sous la rubrique des éléments obsolètes dans le bordereau d’inventaire de 2006, mais qui s’y retrouve dans celui de 2007. Beth Hawthorn a confirmé que cet élément aurait également dû figurer parmi les éléments obsolètes dans le bordereau d’inventaire de 2006.
+[3] Je considère que la seule conclusion réaliste est que la juste valeur marchande des éléments en question était égale ou inférieure à leur coût. Si la juste valeur marchande était inférieure au coût et tenait compte de la dépréciation de 43 % dont il était fait état en 2006, la valeur de ces éléments s’élèverait à 629,64 $ (c’est-à-dire 57 % de 1 104,64 $). La valeur révisée des éléments figurant encore dans les stocks à la fin de 2007 (avant toute dépréciation calculée au titre de l’année 2007) serait donc de 29 284,26 $ – 629,64 $ = 28 654,62 $.

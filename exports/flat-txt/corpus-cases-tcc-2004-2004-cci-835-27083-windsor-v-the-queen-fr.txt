@@ -1,0 +1,302 @@
+Title: Windsor v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27083/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-835-27083-windsor-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-12-21
+
+# Windsor v. The Queen
+
+- Citation: 2004 CCI 835
+- Decision date: 2004-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 953, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Windsor v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-21
+Référence neutre
+2004 CCI 835
+Numéro de dossier
+2003-3586(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-3586(IT)I
+ENTRE :
+FREDERICK WILLIAM WINDSOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 29 novembre 2004, à Belleville (Ontario).
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Daniel Bourgeois
+JUGEMENT
+L'appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 est rejeté, sauf que, comme l'a concédé l'intimée, l'appelant a droit à des achats supplémentaires relativement à
+son entreprise s'élevant à 362,86 $ pour 1999 et à 32,50 $ pour 2000, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2004.
+« T. O'Connor »
+Le juge O'Connor
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI835
+Date : 20041221
+Dossier : 2003-3586(IT)I
+ENTRE :
+FREDERICK WILLIAM WINDSOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Le présent appel porte sur la question de savoir si l'appelant a droit à certaines dépenses d'entreprise pour les années 1999 et 2000.
+[2] Voici un résumé des faits pertinents :
+a) pendant les années 1999 et 2000, l'appelant travaillait à plein temps pour Hydro One comme mécanicien du parc à véhicules;
+b) l'appelant exploite une entreprise de réparation de véhicules appelée M & W Enterprises ( « M & W » );
+c) l'appelant exploite M & W depuis 1985;
+d) l'appelant participe aussi à une entreprise appelée Windsor's Antique Auto Restoration ( « WAAR » ), qui restaure des véhicules et les vend. Cette entreprise a vu le jour en 1998, mais, bien que l'entreprise ait acheté des pièces et un certain nombre de véhicules, elle n'a effectué aucune vente dans les années précédant 2001 et peut-être même plus tard que cela;
+e) l'appelant est propriétaire de 23 véhicules. Dix de ces véhicules sont immatriculés et 13 ne le sont pas.
+[3] En ce qui concerne M & W, l'appelant a déclaré des revenus relativement à seulement deux tâches pour chacune des deux années d'imposition. En 1999, les tâches ont été exécutées pour L. Ellis et S. Ellis, des amis de l'appelant, et en 2000, elles ont été exécutées pour L. Ellis et M. Thompkins, des amis de l'appelant. L. Ellis est la voisine de l'appelant, et S. Ellis et M. Thompkins sont des parents de L. Ellis.
+[4] L'avis d'appel, qui est daté du 3 octobre 2003, indique simplement ce qui suit :
+[TRADUCTION]
+Je conteste les résultats de la vérification touchant mes années d'imposition 1999 et 2000. Je m'oppose à toutes les modifications apportées à mes déclarations de revenus pour 1999 et 2000, y compris les modifications touchant les dépenses de mon entreprise, et je prouverai devant la Cour que les modifications apportées ne sont pas correctes.
+[5] La réponse à l'avis d'appel (la « réponse » ) cherche à exposer les faits de manière plus approfondie, et les deux annexes de la réponse donnent les précisions suivantes sur les revenus et les dépenses de l'appelant pour 1999 et 2000 :
+[TRADUCTION]
+Résumé des revenus d'entreprise pour 1999
+Montant de la cotisation
+8 mai 2000
+Rajustement
+Montant révisé
+29 juillet 2002
+Revenu
+1 069,49 $
+0 $
+1 069,49 $
+Stock d'ouverture
+0
+0
+0
+Achats
+362,86
+(362,86)
+0
+Stock de fermeture
+0
+0
+0
+Coût des ventes
+362,86
+(362,86)
+0
+Profit brut
+706,63
+362,86
+0
+Véhicule
+4 374,67
+(3 471,36)
+903,31
+Fournitures
+287,39
+(287,39)
+0
+Téléphone
+863,41
+(752,43)
+110,98
+DPA
+105,46
+0
+105,46
+Total des dépenses
+5 630,93
+(4 511,18)
+1 119,75
+Revenu net (perte)
+(4 924,30) $
+4 874,04 $
+(50,26) $
+Résumé des revenus d'entreprise pour 2000
+Montant de la cotisation
+26 avril 2001
+Rajustement
+Montant révisé
+29 juillet 2002
+Revenu
+1 242,63 $
+0 $
+1 242,63 $
+Stock d'ouverture
+0
+0
+0
+Achats
+612,34
+(32,50)
+579,84
+Stock de fermeture
+0
+0
+0
+Coût des ventes
+612,34
+(32,50)
+579,84
+Profit brut
+630,29
+32,50
+662,79
+Cotisations
+100
+(100)
+0
+Réparations
+542,60
+(542,60)
+0
+Véhicule
+5 399,82
+(4 899,82)
+500
+Fournitures
+465,72
+(315,27)
+150,45
+Téléphone
+1 143,62
+(1 042,63)
+100,99
+DPA
+77,33
+0
+77,33
+Total des dépenses
+7 729,09
+(6 900,32)
+828,77
+Revenu net (perte nette)
+(7 098,80) $
+6 932,82 $
+(165,98) $
+[6] Comme on le voit aux annexes, l'intimée permet la déduction de pertes d'entreprise de 50,26 $ pour 1999 et de 165,98 $ pour 2000. Il est indiqué au paragraphe 7 de la réponse que l'appelant a droit à des achats supplémentaires s'élevant à 362,86 $ pour 1999 et à 32,50 $ pour 2000, faisant ainsi passer le montant de la déduction pour pertes d'entreprise à 413,12 $ pour 1999 et à 198,48 $ pour 2000.
+[7] Pour ce qui est de l'utilisation de la résidence aux fins de l'entreprise, les précisions connexes étant également contenues dans les annexes en question, l'appelant a accepté l'explication qui lui a été donnée selon laquelle il ne peut pas, aux termes du paragraphe 18(12) de la Loi de l'impôt sur le revenu (la « Loi » ), utiliser les dépenses découlant de l'utilisation de sa résidence aux fins de son entreprise pour augmenter les pertes d'entreprise qu'il a subies en 1999 et en 2000. L'intimée et l'appelant ont convenu que, tel qu'il est indiqué à l'alinéa 18(12)c) de la Loi, quelles que soient les dépenses finales déterminées relativement à l'utilisation de la résidence aux fins de l'entreprise, ces dépenses doivent faire l'objet d'un report prospectif à une année où elles peuvent être utilisées et qu'il n'y a pas lieu de déterminer ces montants ni de trancher la question dans le cadre du présent jugement.
+[8] L'avocat de l'intimée a dit que les précisions et les calculs suivants, contenus dans la réponse à l'avis d'appel, sont exacts :
+[TRADUCTION]
+[...]
+Achats
+i) L'appelant a fourni des factures s'élevant à 2 628,37 $ pour l'année d'imposition 1999 et à 2 816,12 $ pour l'année d'imposition 2000;
+j) L'appelant a déduit des achats de 362,86 $ pour l'année d'imposition 1999 et de 612,34 $ pour l'année d'imposition 2000;
+k) Parmi les montants indiqués dans les factures fournies pour l'année d'imposition 2000, le ministre a refusé la déduction de 6,15 $ et de 132,22 $, pour un total de 138,37 $, mais a permis l'ajout de ces montants à la catégorie des dépenses relatives aux fournitures;
+l) L'appelant n'a pas précisé si les achats avaient été faits pour M & W ou pour WAAR, ou s'ils avaient été faits pour des véhicules personnels;
+Véhicules
+m) L'appelant ne tenait pas de registre pour tenir compte de l'utilisation de ses véhicules dans le cadre de ses activités commerciales;
+n) Pour l'année d'imposition 1999, l'appelant a inclus dans ses frais afférents à l'usage d'un véhicule automobile 4 017,67 $ pour l'essence, 280 $ pour les assurances et 77 $ pour les plaques d'immatriculation, pour un total de 4 374,67 $;
+o) Pour l'année d'imposition 1999, l'appelant a fourni des preuves pour appuyer des frais afférents à l'usage d'un véhicule automobile de 4 892,25 $ relativement à l'essence et aux assurances pour trois véhicules, tel qu'il est indiqué ci-dessous :
+Reçus pour l'essence (sur ruban)
+3 214,15 $
+Chevrolet Lumina de 1991
+322 $
+Camionnette Ford F150 de 1986
+548 $
+Mercury Grand Marquis de 1986
+808 $
+4 892,25 $
+p) Pour l'année d'imposition 1999, le ministre a permis la déduction de 25 % des 3 214,25 $ pour l'essence, de 25 % des 322 $ pour les assurances de la Lumina et de 25 % des 77 $ pour les plaques d'immatriculation, pour un total de 903,31 $;
+q) Pour l'année d'imposition 2000, l'appelant a demandé une déduction de frais afférents à l'usage d'un véhicule automobile s'élevant à 5 399,82 $;
+r) Pour l'année d'imposition 2000, l'appelant a fourni des preuves pour appuyer des frais afférents à l'usage d'un véhicule automobile de 4 131,11 $ relativement à l'essence et aux assurances pour trois véhicules, tel qu'il est indiqué ci-dessous :
+Reçus pour l'essence (sur ruban)
+3 202,11 $
+Chevrolet Lumina de 1991
+337 $
+Camionnette Ford F150 de 1986
+251 $
+Autocaravane Empress de 26 pieds de 1978
+341 $
+4 131,11 $
+s) Pour l'année d'imposition 2000, le ministre a permis la déduction de 500 $, en fonction d'un calcul d'environ 1 250 kilomètres au taux de 0,405 $ par kilomètre;
+Téléphone
+t) L'appelant a fourni des factures de téléphone s'élevant à 712,01 $ pour l'année d'imposition 1999 et à 646,52 $ pour l'année d'imposition 2000;
+u) L'appelant a demandé une déduction pour des frais de téléphone de 863,41 $ pour l'année d'imposition 1999 et de 1 143,62 $ pour l'année d'imposition 2000;
+v) L'appelant avait un seul téléphone, qu'il utilisait à des fins personnelles et professionnelles;
+w) Le ministre a permis la déduction de 50 % des frais d'interurbain, tel qu'il est indiqué ci-dessous :
+Année d'imposition
+Total des frais d'interurbain
+50 % (permis)
+1999
+221,96 $
+110,98 $
+2000
+201,99 $
+100,99 $
+Fournitures
+x) Pour l'année d'imposition 1999, l'appelant n'a pas fourni de documents pour appuyer les montants qu'il a demandés;
+y) L'appelant a demandé une déduction pour frais de fourniture de 287,39 $ pour l'année d'imposition 1999 et de 465,72 $ pour l'année d'imposition 2000;
+z) Le ministre n'a pas permis de montant pour l'année d'imposition 1999;
+[Ce n'est pas indiqué ici, mais l'annexe indique que le ministre a permis la déduction de 150,45 $ pour l'année d'imposition 2000.]
+Cotisations
+bb) L'appelant n'a pas fourni de documents pour appuyer les 100 $ demandés pour l'année d'imposition 2000;
+cc) Le ministre n'a pas permis de montant pour l'année d'imposition 2000;
+Réparations
+dd) L'appelant n'a pas fourni de documents pour appuyer les 542,60 $ demandés pour l'année d'imposition 2000;
+ee) Le ministre n'a pas permis de montant pour l'année d'imposition 2000;
+[...]
+[9] L'avocat de l'intimée a dit ce qui suit de façon générale :
+a) Il y avait absence totale de reçus adéquats pour justifier les dépenses et pour faire la distinction entre les dépenses professionnelles et les dépenses personnelles. De plus, l'appelant n'a pas tenu de registre pour les divers véhicules utilisés, semble-t-il, dans le cadre des activités commerciales de M & W et de WAAR.
+b) En fait, certaines des dépenses n'étaient pas de vraies dépenses, mais plutôt des éléments à capitaliser et à considérer comme étant des dépenses seulement après des ventes. Cela s'applique principalement à l'entreprise de restauration, dans le cadre de laquelle aucune vente n'a eu lieu.
+c) Les activités de restauration ne constituaient pas vraiment des activités commerciales, mais plutôt un passe-temps, ce qui a plus ou moins été admis par l'appelant, qui a expliqué qu'il consacrerait plus de temps à la restauration de véhicules après avoir pris sa retraite de Hydro One.
+d) L'intimée aurait pu adopter la position selon laquelle il n'y avait pas d'expectative de profit, compte tenu de la nature des deux entreprises (l'une où il y avait très peu de ventes et où les ventes ont été effectuées à des amis, et l'autre qui n'était qu'un passe-temps), et ainsi refuser la déduction de toute dépense; le ministre a fait preuve de générosité lorsqu'il a permis la déduction de certaines dépenses.
+e) L'appelant travaillait pour Hydro One Inc. depuis une dizaine d'années. Il travaillait cinq jours par semaine, y compris pendant les années d'imposition 1999 et 2000, où il a utilisé ses véhicules personnels, soit une voiture Grand Marquis jusqu'en octobre 1999 et ensuite une Lumina, achetée en octobre 1999. Il a utilisé ces véhicules pour se rendre au travail, un trajet d'une vingtaine de milles. Ce que l'on peut donc conclure est que de l'essence a été consommée de cette façon, de l'essence a été consommée pour faire des déplacements relatifs à au moins une des voitures d'époque achetée pour restauration et vente éventuelles et de l'essence a aussi été consommée par la camionnette pour passer chercher des voitures d'époque.
+[10] Les principales préoccupations de l'appelant se rapportaient aux frais afférents à l'usage d'un véhicule automobile et à la question de savoir si les éléments relatifs à l'essence consommée par les véhicules utilisés pour passer chercher des voitures d'époque, des pièces et d'autres articles et aux réparations faites à ces véhicules auraient dû être passés en charge dans l'année où les dépenses ont été engagées et admis à titre de dépenses d'entreprise. L'appelant semblait s'inquiéter du fait que la principale raison pour laquelle une cotisation a été établie à son égard se rapportait à des lettres de l'ADRC qui laissaient entendre que plusieurs factures étaient adressées à Hydro One Inc. (pour qui l'appelant travaillait) et que ces factures n'étaient pas des preuves raisonnables pour établir qu'une dépense pour l'entreprise avait été réellement engagée.
+Conclusion
+[11] J'ai examiné la pièce A-1 et les divers reçus divers qui constituent la pièce A-2, qui donnent un total d'environ 400 $, et j'ai conclu que ce n'est pas parce qu'il est indiqué que les dépenses ont été facturées à Hydro One Inc. ou à Ontario Hydro Services que le ministre a refusé la déduction des dépenses. Autrement dit, le ministre semble avoir accepté certaines dépenses même si elles avaient été facturées à Hydro One Inc. ou à Ontario Hydro Services. L'appelant a aussi renvoyé à la pièce A-3, soit une lettre à son intention datée du 22 octobre 2002 et provenant de William V. Baker, sous-commissaire de la Direction générale des programmes de l'observation de l'ADRC, qui comprend un certain nombre de commentaires généraux qui expliquent pourquoi la déduction de certaines dépenses a été refusée et pourquoi certaines dépenses doivent être capitalisées. La lettre parle des factures adressées à Hydro One et cherche à expliquer que ce n'est pas uniquement parce que les factures sont adressées à Hydro One que la déduction de certaines dépenses a été refusée. La lettre explique que l'appelant aurait dû déclarer comme dépenses d'entreprise distinctes les dépenses se rapportant aux activités de restauration de véhicules pour qu'il soit possible de faire la distinction entre ces dépenses et les dépenses liées aux activités de réparation de voitures. L'appelant a dit que cela lui avait donné l'impression qu'il n'était pas absolument nécessaire de tenir un registre et que, pour cette raison, il n'en a pas tenu. Le problème qui se pose est que l'appelant n'a pas réussi à présenter les preuves nécessaires pour établir quelles dépenses se rapportaient à l'entreprise de réparation de voitures, quelles dépenses se rapportaient à l'entreprise de restauration de véhicules et quelles dépenses étaient de nature personnelle. La conclusion que l'on peut tirer est que le vérificateur de l'ADRC responsable de la vérification se trouvait dans l'impossible situation de devoir tenter de répartir les diverses dépenses pour lesquelles des déductions sont demandées. Selon moi, le vérificateur a fait de son mieux compte tenu des circonstances et a probablement été généreux au moment de permettre la déduction de certaines dépenses.
+[12] Enfin, compte tenu de tous les faits, je conclus que les nouvelles cotisations établies par le ministre sont raisonnables, exactes et conformes à la Loi et aux principes comptables valables utilisés pour calculer les bénéfices et les pertes d'une entreprise. Par conséquent, les appels des nouvelles cotisations établies en vertu de la Loi pour les années d'imposition 1999 et 2000 sont rejetés, sauf que, comme l'a concédé le ministre, l'appelant a droit à des achats supplémentaires relativement à son entreprise s'élevant à 362,86 $ pour l'année 1999 et à 32,50 $ pour l'année 2000.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2004.
+« T. O'Connor »
+Le juge O'Connor
+Traduction certifiée conforme
+ce 29e jour de mars 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2004CCI835
+NO DU DOSSIER :
+2003-3586(IT)I
+INTITULÉ DE LA CAUSE :
+Frederick William Windsor c. S.M.R.
+LIEU DE L'AUDIENCE :
+Belleville (Ontario)
+DATE DE L'AUDIENCE :
+Le 29 novembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge T. O'Connor
+DATE DU JUGEMENT :
+Le 21 décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimée :
+Me Daniel Bourgeois
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims
+Sous-procureur général du Canada
+Ottawa, Canada

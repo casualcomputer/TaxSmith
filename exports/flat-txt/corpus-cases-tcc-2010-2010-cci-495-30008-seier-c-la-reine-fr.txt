@@ -1,0 +1,164 @@
+Title: Seier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30008/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-495-30008-seier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-06
+
+# Seier c. La Reine
+
+- Citation: 2010 CCI 495
+- Decision date: 2010-10-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7677, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-06
+Référence neutre
+2010 CCI 495
+Numéro de dossier
+2006-1659(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2006-1659(IT)G
+2006-1660(GST)G
+ENTRE :
+LORNE SEIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 29 et 30 juin 2010, à Winnipeg (Manitoba).
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocates de l'appelant :
+Me Barbara M. Shields
+Me Melissa Burkett
+Avocate de l'intimée :
+Me Ainslie Schroeder
+________________________________________________________________
+JUGEMENT
+L'appel intéressant des cotisations fondées sur la responsabilité de l'administrateur et établies en vertu de la Loi de l'impôt sur le revenu (Canada), de la Loi sur la taxe d'accise, de la Loi sur l'assurance‑emploi, du Régime de pensions du Canada et de la Loi de l'impôt sur le revenu (Manitoba) est rejeté. L'intimée a droit aux dépens, mais uniquement en ce qui concerne les appels interjetés sous le régime de la Loi de l'impôt sur le revenu (Canada) et de la Loi sur la taxe d'accise.
+Signé à Ottawa, Canada, ce 6e jour d'octobre 2010.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 13e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 495
+Date : 20101006
+Dossiers : 2006-1659(IT)G
+2006-1660(GST)G
+ENTRE :
+LORNE SEIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Il s'agit d'un appel visant des cotisations fondées sur la responsabilité de l'administrateur qui ont été établies à l'égard de Lorne Seier, homme d'affaires à la retraite.
+[2] Les cotisations font suite à des omissions de versement reprochées à 4236964 Manitoba Ltd. (la « société »). À tous les moments pertinents, l'appelant était l'unique administrateur et actionnaire (indirectement) de la société.
+[3] Les omissions de versement ont eu lieu entre janvier et octobre 2001.
+[4] Les cotisations, qui totalisent 60 000 $ environ, ont été établies à l'égard de l'appelant au moyen d'avis datés du 16 septembre 2005. Les sommes ne sont pas en litige et visent des retenues à la source suivant les lois de l'impôt sur le revenu du Canada et du Manitoba, des cotisations de l'employeur et de l'employé suivant le Régime de pensions du Canada et la Loi sur l'assurance‑emploi, et de la taxe nette suivant la Loi sur la taxe d'accise.
+[5] L'appelant a interjeté appel à la Cour relativement à toutes les cotisations, y compris celle établie en vertu de la Loi de l'impôt sur le revenu du Manitoba. L'appelant a toutefois retiré ce dernier appel à l'audience après que j'eus mis en doute la compétence du présent tribunal de se prononcer sur la cotisation provinciale.
+[6] La seule question qui doit être tranchée en ce qui touche les autres cotisations consiste à savoir si l'appelant a agi avec le degré de soin nécessaire, comme administrateur, pour prévenir les omissions de versement.
+Le contexte
+[7] Un aperçu des faits qui ont mené aux omissions de versement est présenté ci‑dessous. Il se fonde sur la preuve produite, notamment le témoignage de l'appelant et de Tom Standing, de même que sur certaines hypothèses du ministre qui n'ont pas été réfutées.
+[8] Comme il est mentionné plus haut, l'appelant est un homme d'affaires à la retraite. Après avoir fait carrière comme technicien dans l'industrie des aliments pour animaux, en 1979, l'appelant s'est à nouveau joint à une entreprise familiale d'aliments santé, Vita Health. Située à Winnipeg, Vita Health a employé jusqu'à 250 personnes avant d'être vendue en 1997. L'appelant était président de Vita Health, mais il ne participait pas aux activités quotidiennes de l'entreprise. Ses responsabilités touchaient la succession familiale, la planification stratégique et l'organisation.
+[9] À la vente de Vita Health en 1997, l'appelant a pris sa retraite et s'est concentré sur la gestion de ses placements. De temps à autre, Tom Standing, président de Sigma Mortgage Services Inc. (« Sigma »), informait l'appelant de possibilités de placement.
+[10] Les activités de Sigma consistaient de manière générale à obtenir des prêts pour des petites entreprises. Sigma touchait des honoraires relativement à l'obtention et à l'administration des prêts.
+[11] Par l'intermédiaire de Sigma, l'appelant a commencé à participer à une entreprise de réparation de camions, Beverley Truck and Bus Repairs (1993) Ltd. (« Beverley »), en fournissant du financement à son gestionnaire, Frank Wall. Ce dernier avait besoin de financement pour racheter les actions des autres actionnaires de Beverley.
+[12] En septembre 1999, un financement de 150 000 $ a été avancé au moyen d'un prêt de 18 mois et du rachat des actions détenues par les actionnaires qui quittaient l'entreprise. Les actions devaient être rachetées sur une période de trois ans.
+[13] Pendant environ quatre mois, M. Wall a effectué régulièrement les versements mensuels sur le prêt. Puis, les problèmes ont commencé.
+[14] Vers mars 2000, non seulement les versements sur le prêt ont cessé, mais M. Wall a abandonné l'entreprise en prenant avec lui tout l'argent de cette dernière. On soupçonnait que M. Wall avait des difficultés personnelles et qu'il avait quitté la province.
+[15] Dans les faits, l'appelant s'est retrouvé dans une fâcheuse situation en sa qualité de principal créancier et actionnaire de Beverley. Il a été décidé que l'entreprise devait poursuivre ses activités, si c'était possible, jusqu'à ce qu'on trouve un acheteur pour Beverley.
+[16] En outre, l'appelant détenait une sûreté sur les actions de Beverley qui appartenaient à M. Wall. La sûreté a été réalisée et l'appelant est, en fait, devenu l'unique actionnaire de Beverley.
+[17] Même si le propriétaire exploitant de Beverley était parti, l'entreprise était en mesure de poursuivre ses activités à court terme, avec ses autres employés, jusqu'à l'arrivée d'un nouveau gestionnaire.
+[18] Très rapidement après la disparition de M. Wall, M. Standing a trouvé un nouveau gestionnaire, Peter Park. Ce dernier avait géré une société de camionnage voisine qui avait cessé ses activités par suite de difficultés financières. Monsieur Park pouvait donc commencer immédiatement et il avait de l'expérience et des contacts dans l'industrie du camionnage.
+[19] Monsieur Park a commencé à gérer l'entreprise sous la surveillance de M. Standing, mais on ne lui a confié que des pouvoirs restreints en matière de finances. La signature de M. Standing était requise sur tous les chèques.
+[20] Au cours de cette période, l'appelant partageait son temps entre Winnipeg et la Colombie‑Britannique et il avait peu de rapports avec M. Park. Cependant, M. Standing était en communication relativement étroite avec celui‑ci et il informait régulièrement l'appelant de l'évolution de la situation.
+[21] Peu après ces événements, l'appelant a décidé de mettre Beverley en faillite comme le lui avait conseillé un avocat du cabinet Aikins, MacAulay.
+[22] En mai 2000, Beverley a cédé son actif à un syndic, Joel Lazer, pour qu'il le distribue à ses créanciers en application des dispositions de la Loi sur la faillite et l'insolvabilité. L'appelant s'est engagé à financer les activités de Beverley pendant la mise sous séquestre par l'intermédiaire de la société The Seier Group Inc., société de placement possédée en propriété exclusive par l'appelant (pièce A‑12).
+[23] La mise sous séquestre confiée à M. Lazer s'est poursuivie pendant plusieurs mois, au cours desquels M. Park a continué de gérer l'entreprise. Durant cette période, M. Park a dit qu'il souhaitait acquérir l'entreprise, mais il ne disposait pas des fonds nécessaires. Afin de faciliter cette acquisition, l'appelant a consenti à acheter l'entreprise du syndic, et il a offert à M. Park une option d'achat sans exiger de lui un engagement ferme d'acheter l'entreprise.
+[24] Cette entente a été mise en oeuvre de la façon suivante. La société The Seier Group Inc. a acheté du syndic l'actif de l'entreprise pour la somme de 153 333 $. Il est difficile de savoir exactement quand l'acquisition a eu lieu, mais il semble que ce soit vers le 24 octobre 2000, lorsque la mise sous séquestre a pris fin (pièce A‑12). The Seier Group Inc. a ensuite transféré l'actif à la société, soit une nouvelle société également détenue en propriété exclusive par l'appelant.
+[25] Après cette acquisition, la société a continué d'exploiter l'entreprise, laquelle était toujours gérée par M. Park.
+[26] La situation de l'entreprise est demeurée difficile, un cancer ayant été diagnostiqué chez M. Park. Ce dernier souhaitait demeurer actif au sein de l'entreprise, mais le projet d'acquisition par M. Park a été reporté.
+[27] Monsieur Standing a continué de participer aux activités de l'entreprise après l'acquisition, mais avec une fréquence moindre. Il tentait de s'extirper de l'entreprise, mais M. Park préférait communiquer avec lui plutôt qu'avec l'appelant en raison de leurs rapports antérieurs. Un autre facteur tenait au fait que l'appelant était un client qui avait d'autres placements avec M. Standing.
+[28] En mars 2001, l'appelant a reçu un appel de l'Agence du revenu du Canada (l'« ARC ») qui l'informait que la société était en retard dans ses versements depuis un ou deux mois.
+[29] L'appelant a immédiatement appelé M. Standing, lequel a organisé une réunion entre eux et M. Park.
+[30] Lors de cette réunion, M. Park a signalé l'existence de problèmes de flux de trésorerie. En ce qui concerne les versements de retenues à la source, l'appelant a demandé que M. Park fasse appel à un service de la paye, mais M. Park l'a informé que la société ne disposait pas d'un flux de trésorerie suffisant pour financer les retenues à la source. L'appelant a mentionné qu'il prendrait les mesures nécessaires pour obtenir une ligne de crédit de 25 000 $, ce qu'il a fait.
+[31] Rien n'indique que M. Park, ou l'appelant, ait pris de quelconques mesures de suivi quant à des versements passés ou futurs après cette rencontre, et le problème est demeuré entier. On ignore à quoi a servi la ligne de crédit.
+[32] L'appelant n'a plus rien entendu au sujet des problèmes de versement jusqu'en septembre 2001, lorsqu'il a reçu un autre appel de l'ARC l'informant que les retenues n'avaient pas été remises.
+[33] L'une des hypothèses formulées dans la réponse fait état d'une lettre que l'ARC a adressée à l'appelant le 4 juillet 2001 pour l'informer de nouveau de l'omission de la société de faire les versements. L'appelant n'a pas mentionné cette lettre dans son témoignage, et il n'a pas été contre‑interrogé relativement à cette hypothèse. J'ai présumé que l'appelant n'avait pas reçu cette communication.
+[34] Lorsqu'il a reçu l'appel de septembre 2001 de l'ARC, l'appelant a agi de manière résolue. Il s'est rendu en personne aux locaux de l'entreprise et il a pris la situation en main. C'est alors qu'il a découvert pour la première fois que les documents financiers de la société n'étaient pas tenus de façon appropriée et il a pris les dispositions nécessaires pour régler la question. Cet incident lui a fait perdre toute confiance en M. Park et en M. Standing.
+[35] Peu de temps après, l'actif de la société a été distribué à The Seier Group et vendu à un tiers. La preuve ne révèle pas le prix d'achat.
+[36] L'ARC a subséquemment pris des mesures pour recouvrer les sommes impayées au moyen des créances de la société. Il semble que les cotisations en litige dans le présent appel visent le solde dû une fois pris en considération le produit tiré des créances.
+[37] Les omissions de versement faisant l'objet des cotisations ont eu lieu entre janvier et octobre 2001, lorsque l'entreprise était exploitée par la société. Cependant, la cotisation établie sous le régime de la Loi sur la taxe d'accise vise uniquement la période allant de mai à octobre 2001.
+Analyse
+[38] La Cour doit se demander si l'appelant, en sa qualité d'administrateur, a agi avec le degré de soin approprié pour prévenir les omissions de versement. La disposition applicable de la Loi de l'impôt sur le revenu, laquelle est représentative de toutes les dispositions légales pertinentes, est reproduite ci‑dessous.
+227.1(3) Un administrateur n'est pas responsable de l'omission visée au paragraphe (1) lorsqu'il a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[39] Les juges ont parfois signalé que l'obligation d'un administrateur ne s'apparente pas à une garantie. Il n'en demeure pas moins que les administrateurs doivent prendre des mesures raisonnables pour prévenir les omissions de versement.
+[40] Dans l'arrêt Smith c. La Reine, 2001 CAF 84, 2001 D.T.C. 5226, le juge Sharlow a résumé les principes généraux applicables de la manière suivante :
+[9] L'arrêt Soper, précité, a établi que la norme de prudence décrite dans la défense de diligence raisonnable au sens de la loi est essentiellement la même que la norme de prudence en common law, établie dans l'arrêt City Equitable Fire Insurance Commission, In re, [1925] Ch. 407 (C.A.). Il s'ensuit que ce à quoi on peut raisonnablement s'attendre d'un administrateur aux fins des paragraphes 227.1(1) de la Loi de l'impôt sur le revenu et 323(1) de la Loi sur la taxe d'accise dépendra des faits de l'affaire, avec un élément objectif et un élément subjectif.
+[10] L'élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu'une personne qui n'a pas de connaissances ou d'expérience en affaires et dont le statut d'administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d'aucune aide à un administrateur qui n'a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n'a fait aucun cas d'un problème dont il connaissait l'existence, ou dont il aurait dû connaître l'existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (C.A.F.)).
+[11] En évaluant objectivement l'aspect raisonnable de la conduite d'un administrateur, il y a lieu de tenir compte de facteurs comme le volume, la nature et la complexité des affaires de la société, ainsi que de ses coutumes et pratiques. Plus une entreprise est importante et complexe, plus il sera raisonnable que les administrateurs se partagent les responsabilités, ou qu'ils délèguent le règlement de certaines questions au personnel de la société et à des conseillers extérieurs auxquels ils accordent leur confiance.
+[12] La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s'impose à certains administrateurs d'une société par rapport à d'autres. Par exemple, il peut être approprié d'imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l'habitude de la gestion au jour le jour) qu'à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n'est impliqué que de façon superficielle).
+[13] Ceci s'applique plus particulièrement s'il est démontré que l'administrateur externe a donné foi de façon raisonnable aux assurances données par les administrateurs internes que les remises d'impôts correspondant aux obligations de la société étaient effectivement versées. Voir notamment Cadrin c. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 D.T.C. 5079 (C.A.F.).
+[14] Dans certaines circonstances, le fait qu'une société soit en difficultés financières et donc à risque plus élevé que d'autres sociétés de ne pas verser ses remises d'impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable (Ruffo c. Canada, 2000 D.T.C. 6317 (C.A.F.)). Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection.
+[41] Dans son témoignage, l'appelant a déclaré que personne ne l'avait informé des obligations qui incombent aux administrateurs, malgré le fait qu'il avait obtenu des conseils juridiques à propos de ce placement chez Aikins, MacAulay, cabinet d'avocats réputé.
+[42] À moins d'une preuve satisfaisante du fait qu'un administrateur a demandé des conseils quant à ses obligations légales à titre d'administrateur, l'ignorance ne peut permettre à l'administrateur de satisfaire aux exigences de ce qu'on appelle le moyen de défense de la diligence raisonnable. Je ne suis pas convaincue, à la lumière de la preuve dont je suis saisie, que cette question faisait partie du mandat confié au cabinet d'avocats. Le fait qu'aucun conseil n'ait été fourni donne à penser que ce n'était pas le cas.
+[43] L'appelant soutient qu'il a agi avec le degré de diligence nécessaire lorsqu'il a engagé un gestionnaire expérimenté, M. Park, et s'est fié à M. Standing pour la surveillance. On a laissé entendre qu'il incombait à M. Standing de surveiller l'administration du financement.
+[44] Pour examiner cet argument de façon appropriée, il importe de se pencher sur les circonstances dans lesquelles l'appelant a décidé de se fier à d'autres personnes. Après cet examen, on doit conclure que l'appelant n'aurait pas dû présumer que M. Park et M. Standing s'acquittaient de façon appropriée des obligations de la société concernant les versements prévus par la loi.
+[45] Premièrement, l'appelant n'avait pas vraiment de connaissances directes de la manière dont Beverley était exploitée pendant que M. Park en était responsable. Il ne participait pas activement aux activités de la société et il se fiait habituellement aux renseignements que lui donnait M. Standing. Le témoignage m'a donné l'impression que les rapports de M. Standing portaient principalement sur les perspectives commerciales de l'entreprise et non sur les questions relatives à l'administration quotidienne de celle‑ci. Si l'appelant s'était davantage intéressé à l'entreprise, il se serait rendu compte qu'on ne tenait pas des documents financiers appropriés sous la surveillance de M. Park et de M. Standing.
+[46] Deuxièmement, l'appelant aurait dû s'apercevoir, à la lumière du rapport du 15 décembre 2000 que le syndic a présenté à The Seier Group Inc. (pièce A‑12), que la société pouvait avoir des problèmes concernant les versements prévus par la loi.
+[47] Une pièce jointe au rapport sonnait l'alarme à deux égards. Tout d'abord, l'appelant a été avisé de l'existence d'importants manquements antérieurs en matière de retenues à la source qui se sont produits avant et après la date de la faillite. Le rapport faisait en outre mention de cotisations relatives à des retenues à la source pour la période se terminant le 31 août 2000 et précisait que le syndic avait payé les retenues à la source pour le mois de septembre.
+[48] Le second problème soulevé par le rapport tenait au fait que l'entreprise ne générait peut‑être pas un flux de trésorerie suffisant pour s'acquitter de ses obligations. Les renseignements donnés dans le rapport ne sont pas concluants, mais ils laissent entendre que l'entreprise n'avait pas un flux de trésorerie suffisant parce que le syndic projetait de financer les arriérés au titre des versements au moyen de la somme de 150 000 $ que The Seier Group s'engageait à payer pour acquérir l'entreprise du syndic.
+[49] Un administrateur prudent n'aurait pas fait abstraction des signes avant‑coureurs qui ressortaient sans équivoque de ce rapport. L'appelant a laissé entendre dans son témoignage qu'il n'avait aucune raison de penser qu'il y avait un problème, mais cette lettre laisse entendre le contraire.
+[50] Comme le rapport du syndic a été envoyé à l'appelant en décembre, ce dernier disposait de suffisamment de temps pour prendre des mesures quant aux versements exigibles en janvier. La cotisation établie à l'égard de l'appelant ne vise aucune période antérieure.
+[51] De plus, l'appelant soutient qu'il a pris les mesures nécessaires lorsque l'ARC l'a informé des problèmes relatifs aux versements en mars. Je ne suis pas d'accord. L'appelant a agi rapidement après que l'ARC eut communiqué avec lui puisqu'il a fixé une réunion avec M. Standing et M. Park, mais il a omis, après cette rencontre, de prendre des mesures de suivi appropriées pour veiller à ce que le problème touchant les versements soit résolu.
+[52] Enfin, l'appelant laisse entendre qu'il s'est, à juste titre, fié à M. Standing pour que ce dernier effectue de la surveillance, puisque c'était lui qui était chargé d'administrer le financement.
+[53] Je ne suis pas convaincue qu'il s'agissait d'une ligne de conduite raisonnable.
+[54] L'appelant et M. Standing paraissent avoir des points de vue divergents quant au rôle qui incombait à ce dernier après que la société eut acquis l'actif de l'entreprise. Monsieur Standing pensait que son rôle officiel avait pris fin au moment du transfert de l'actif à la société, et il a témoigné que l'appelant aurait dû être conscient de cela. L'appelant, quant à lui, estimait que les obligations de M. Standing étaient demeurées les mêmes.
+[55] Je ne crois pas qu'il soit réellement important de savoir quel point de vue est le bon. Ce qui importe, c'est que l'appelant avait été clairement informé en décembre 2000 de l'existence d'éventuels problèmes liés aux versements prévus par la loi. Il ne suffisait pas à ce stade de demeurer passif et de se fier à M. Standing.
+[56] L'appel sera donc rejeté. L'intimée a droit aux dépens, mais uniquement en ce qui concerne les appels interjetés sous le régime de la Loi de l'impôt sur le revenu (Canada) et de la Loi sur la taxe d'accise.
+Signé à Ottawa, Canada, ce 6e jour d'octobre 2010.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme ce 13e jour de janvier 2011.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 495
+NOS DES DOSSIERS DE LA COUR : 2006-1659(IT)G
+2006-1660(GST)G
+INTITULÉ : Lorne Seier c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATES DE L'AUDIENCE : Les 29 et 30 juin 2010
+MOTIFS DU JUGEMENT : L'honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 6 octobre 2010
+COMPARUTIONS :
+Avocates de l'appelant :
+Me Barbara M. Shields
+Me Melissa Burkett
+Avocate de l'intimée :
+Me Ainslie Schroeder
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Barbara M. Shields
+Cabinet : Aikins, MacAulay & Thorvaldson LLP
+Winnipeg (Manitoba)
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,329 @@
+Title: D'Elia c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30819/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-180-30819-d-elia-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-05-31
+
+# D'Elia c. La Reine
+
+- Citation: 2012 CCI 180
+- Decision date: 2012-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7474, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+D'Elia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-05-31
+Référence neutre
+2012 CCI 180
+Numéro de dossier
+2011-2286(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2286(IT)I
+ENTRE :
+MICHELLE D'ELIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 16 avril 2012, à Edmonton (Alberta)
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Paige Atkinson
+________________________________________________________________
+JUGEMENT
+L'appel interjeté par l'appelante est accueilli, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles décisions, pour le motif que l'appelante n'a pas reçu de paiements en trop au titre de la prestation fiscale canadienne pour enfants (la « PFCE ») au cours de la période allant du mois de février 2007 au mois de juin 2008 et qu'elle n'a pas reçu de paiements en trop à l'égard du crédit pour taxe sur les produits et services (le « CTPS ») pour les trimestres ayant commencé au mois d'avril 2007, ainsi qu'au mois de juillet 2008 jusqu'au mois d'avril 2009. L'intimée paiera les dépens de l'appelante, lesquels sont fixés à 250 $.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour de mai 2012.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 16e jour de juillet 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 180
+Date : 20120531
+Dossier : 2011-2286(IT)I
+ENTRE :
+MICHELLE D'ELIA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s'agit ici de savoir si l'appelante est le particulier admissible à l'égard de son fils pour les besoins de la prestation fiscale canadienne pour enfants (la « PFCE ») pour la période allant du mois de février 2007 au mois de juin 2008 (la « période relative à la PFCE ») et si son fils était une personne à charge admissible au début des mois d'avril 2007, de juillet 2008, d'octobre 2008, de janvier 2009 et d'avril 2009 pour les besoins du crédit pour taxe sur les produits et services (le « CTPS »). L'appelante a été avisée qu'elle n'avait pas droit aux paiements au titre de la PFCE au cours de la période relative à la PFCE et qu'elle n'avait pas droit à une partie des montants qui lui avaient été versés au titre du CTPS pour les mois susmentionnés, étant donné qu'elle n'assumait plus la responsabilité pour le soin de son fils.
+[2] L'appelante et Arturo D'Elia se sont mariés et ils ont eu un fils. Ils se sont séparés au mois de janvier 2007 et, depuis lors, ils vivent séparés pour cause d'échec de leur mariage.
+[3] Aux termes de la Loi de l'impôt sur le revenu (la « Loi »), la PFCE est traitée comme un paiement en trop de l'obligation qui incombe à la personne en cause selon la Loi et, par conséquent, si cette personne est un particulier admissible, ce montant lui est versé à titre de remboursement du paiement en trop. Aux termes du paragraphe 122.61(1) de la Loi, le montant payé en trop est calculé chaque mois. Cette disposition prévoit notamment ce qui suit :
+122.61(1) Lorsqu'une personne [...] produi[t] une déclaration de revenu pour l'année, un paiement en trop au titre des sommes dont la personne est redevable en vertu de la présente partie pour l'année est réputé se produire au cours d'un mois par rapport auquel l'année est l'année de base. Ce paiement correspond au résultat du calcul suivant :
+1/12 [(A - B) + C + M]
+où :
+A représente le total des montants suivants :
+a) le produit de 1 090 $[1] par le nombre de personnes à charge admissibles à l'égard desquelles la personne était un particulier admissible au début du mois,
+[...]
+C le résultat du calcul suivant :
+F – (G × H)
+où :
+F représente :
+a) si la personne est, au début du mois, un particulier admissible à l'égard d'une seule personne à charge admissible, 1 463 $[2],
+[...]
+[4] Étant donné que le paiement en trop est réputé se produire au cours d'un mois pour lequel la personne est un particulier admissible à l'égard d'une personne à charge admissible au début du mois, il faut déterminer si cette personne était un particulier admissible au début de chaque mois à l'égard de la personne à charge admissible. Il ne s'ensuit donc pas nécessairement que, parce qu'une personne était le particulier admissible à l'égard d'une personne à charge admissible au début d'un mois particulier, cette personne sera le particulier admissible à l'égard de la personne à charge au début du mois suivant. Les définitions des expressions « particulier admissible » et « personne à charge admissible » figurant à l'article 122.6 de la Loi sont ainsi libellées :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+[...]
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+« personne à charge admissible » S'agissant de la personne à charge admissible d'un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n'est pas quelqu'un pour qui un montant a été déduit en application de l'alinéa 118(1)a) dans le calcul de l'impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l'année de base se rapportant au mois qui comprend ce moment;
+c) elle n'est pas quelqu'un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+[5] Le CTPS est uniquement déterminé pour les particuliers admissibles par rapport à des mois déterminés. Le paragraphe 122.5(3) de la Loi prévoit notamment ce qui suit :
+122.5(3) Le particulier admissible par rapport à un mois déterminé d'une année d'imposition qui produit une déclaration de revenu pour l'année et qui demande un montant en vertu du présent paragraphe est réputé avoir payé au cours de ce mois, au titre de son impôt payable en vertu de la présente partie pour l'année, un montant égal au quart du montant obtenu par la formule suivante :
+A - B
+où :
+A représente la somme des montants suivants :
+a) 213 $[3],
+b) 213 $ pour son proche admissible par rapport à ce mois;
+c) 213 $, s'il n'a pas de proche admissible par rapport à ce mois, mais peut déduire un montant pour l'année en application du paragraphe 118(1), par l'effet de l'alinéa 118(1)b), pour une de ses personnes à charge admissibles par rapport à ce mois,
+d) le produit de la multiplication de 112 $ par le nombre de ses personnes à charge admissibles par rapport à ce mois, à l'exclusion d'une telle personne pour laquelle un montant est inclus par application de l'alinéa c) dans le calcul du total pour le mois déterminé,
+[...]
+[Non souligné dans l'original.]
+[6] Le paragraphe 122.5(4) de la Loi prévoit ce qui suit :
+(4) Pour l'application du présent article, les mois déterminés d'une année d'imposition sont juillet et octobre de l'année d'imposition suivante et janvier et avril de la deuxième année d'imposition suivante.
+[7] Les définitions des expressions « particulier admissible »[4], « personne à charge admissible » et « proche admissible » figurent à l'article 122.5 de la Loi et sont ainsi libellées :
+« particulier admissible » Par rapport à un mois déterminé d'une année d'imposition, particulier, à l'exception d'une fiducie, qui, avant ce mois, selon le cas :
+a) a atteint l'âge de 19 ans;
+b) a résidé avec un enfant dont il était le père ou la mère;
+c) était marié ou vivait en union de fait.
+« personne à charge admissible » Est une personne à charge admissible d'un particulier par rapport à un mois déterminé d'une année d'imposition la personne qui, au début de ce mois, répond aux conditions suivantes :
+a) elle est l'enfant du particulier ou est à sa charge ou à la charge de l'époux ou du conjoint de fait visé du particulier;
+b) elle vit avec le particulier;
+c) elle est âgée de moins de 19 ans;
+d) elle n'est pas un particulier admissible par rapport au mois déterminé;
+e) elle n'est pas le proche admissible d'un particulier par rapport au mois déterminé.
+« proche admissible » Est un proche admissible d'un particulier par rapport à un mois déterminé d'une année d'imposition la personne qui, au début de ce mois, est l'époux ou le conjoint de fait visé du particulier.
+[8] Le paragraphe 122.5(6) de la Loi prévoit ce qui suit :
+(6) La personne qui, en l'absence du présent paragraphe, serait la personne à charge admissible de plusieurs particuliers par rapport à un mois déterminé d'une année d'imposition est réputée être la personne à charge admissible par rapport à ce mois :
+a) soit de celui parmi ces particuliers sur lequel ceux‑ci se sont mis d'accord;
+b) soit, en l'absence d'accord, du particulier qui, au début de ce mois, est un particulier admissible, au sens de l'article 122.6, à son égard;
+c) soit, dans les autres cas, de nul autre que le particulier désigné par le ministre.
+[Non souligné dans l'original.]
+[9] Il faut remplir deux conditions pour être un particulier admissible à l'égard d'une personne à charge admissible pour les besoins de la PFCE :
+a) le particulier en question doit résider avec la personne à charge admissible;
+b) le particulier en question doit être « la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge ».
+[10] Les paiements afférents à la PFCE sont effectués tous les mois, et il faut remplir ces conditions au début de chaque mois pour recevoir un paiement au titre de la PFCE au cours de ce mois‑là. Les paiements afférents au CTPS sont effectués quatre fois l'an et il suffit de remplir les conditions applicables au début de certains mois — à savoir les mois de janvier, d'avril, de juillet et d'octobre — pour recevoir le paiement au titre du CTPS pour ce trimestre. Pour l'application de la PFCE et du CTPS, le fils de l'appelante doit résider avec celle‑ci. S'il résidait avec l'appelante et avec son père, il s'agirait de savoir, pour les besoins de la PFCE et du CTPS, si c'était le père ou la mère qui assumait principalement la responsabilité pour le soin et l'éducation de l'enfant. C'est ce qu'exige la définition du terme « particulier admissible » pour les besoins de la PFCE. Pour les besoins du CTPS (si l'enfant est une personne à charge admissible de plus d'une personne), la personne qui a droit au CTPS est celle qui est le particulier admissible à l'égard de l'enfant pour l'application de la PFCE (étant donné que l'appelante et Arturo D'Elia ne se sont pas mis d'accord sur la question de savoir duquel leur fils serait la personne à charge).
+[11] Par suite des définitions susmentionnées ainsi que des exigences applicables à la PFCE et au CTPS, les questions à trancher aux fins de l'appel sont les suivantes :
+a) Le fils de l'appelante résidait‑il avec celle-ci au début d'un des mois en cause au cours de la période relative à la PFCE, pour ce qui est du paiement afférent à la PFCE et du paiement afférent au CTPS pour le mois d'avril 2007 et, dans l'affirmative, pour quels mois? Et, puisque le mois d'avril 2007 fait partie de la période relative à la PFCE, le fils résidait‑il avec l'appelante au début de l'un ou l'autre des mois de juillet 2008, d'octobre 2008, de janvier 2009 et d'avril 2009 pour l'application du CTPS?
+b) Si l'enfant résidait avec l'appelante au début de l'un de ces mois, résidait‑il également avec Arturo D'Elia au début du même mois ou des mêmes mois?
+c) Si, au début d'un mois ou de mois particuliers, l'enfant résidait avec l'appelante et avec Arturo D'Elia, était‑ce la mère ou le père qui assumait principalement, au début de ce mois ou de ces mois, la responsabilité pour le soin et l'éducation de l'enfant à ce moment‑là?
+[12] Seule l'appelante a témoigné à l'audience. Il faut avant tout trancher la question de savoir si l'enfant résidait avec l'appelante au début de l'un des mois pertinents susmentionnés. Lors de l'examen de cette question, il faut également se demander si l'enfant résidait avec Arturo D'Elia au début de l'un de ces mois.
+[13] Dans l'arrêt Thomson v. M.N.R., [1946] R.C.S. 209, le juge Rand, de la Cour suprême du Canada, a fait les remarques suivantes au sujet des termes « résidant » et « résidence habituelle » :
+[TRADUCTION]
+La progression par degrés en ce qui concerne le temps, l'objet, l'intention, la continuité et les autres circonstances pertinentes montre que, dans le langage ordinaire, le terme « résidant » ne correspond pas à des éléments invariables qui doivent tous être présents dans chaque cas donné. Il est tout à fait impossible d'en donner une définition précise et applicable à tous les cas. Ce terme est très souple, et ses nuances nombreuses varient non seulement suivant le contexte de différentes causes, mais aussi suivant les différents aspects d'une même cause. Dans un cas donné, certains éléments seront suffisants; dans d'autres, on retrouvera d'autres éléments, dont certains seront communs et certains autres nouveaux.
+L'expression « résidence habituelle » a un sens restrictif et, alors qu'à première vue elle implique une prépondérance dans le temps, les décisions rendues en vertu de la loi anglaise ont rejeté ce point de vue. On a jugé qu'il s'agit de la résidence au cours du mode habituel de vie de la personne en question, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode général de vie.
+[14] Dans la décision S. R. c. La Reine, 2003 CCI 649, le juge Bonner s'est exprimé ainsi :
+12 L'expression « réside avec », telle qu'elle est utilisée dans la définition du terme « particulier admissible » à l'article 122.6, doit être interprétée de manière à tenir compte de l'objet de la loi. Cette loi visait à mettre en oeuvre la prestation fiscale pour enfants. Cette prestation avait été mise en place en 1993 en vue de fournir un paiement mensuel unique non imposable aux conjoints ayant la garde d'un enfant. L'enfant devait être le bénéficiaire de ce paiement, lequel était versé au parent assumant principalement la responsabilité pour son soin et son éducation. Le critère est le fait de résider avec le parent. La présence physique d'un enfant qui vient rendre visite à la résidence d'un parent ne permet pas de remplir la condition imposée par la loi. Le verbe « résider », tel qu'il est utilisé à l'article 122.6, a une connotation de résidence établie et habituelle. [...]
+[15] Dans la décision Lapierre c. La Reine, 2005 CCI 720, 2005 D.T.C. 1715, le juge Dussault s'est ainsi prononcé :
+13 Si la résidence est le concept fondamental utilisé aux fins de l'assujettissement à l'impôt sur le revenu en vertu de la Loi, il n'y est cependant pas défini et ce sont les tribunaux qui ont tenté d'en circonscrire les limites. Essentiellement une question de fait, la résidence d'une personne à un endroit donné s'établit par un certain nombre de critères de temps, d'objet, d'intention et de continuité qui n'ont pas nécessairement toujours la même importance et qui peuvent varier selon les circonstances de chaque cas (voir Thomson v. M.N.R, [1946] R.C.S. 209). Toutefois, la résidence implique une certaine constance, une certaine régularité ou encore une certaine permanence selon le mode de vie habituel d'une personne en relation avec un lieu donné et se distingue de ce qu'on peut qualifier de visites ou de séjours à des fins particulières ou de façon sporadique. Lorsque la Loi pose comme condition de résider avec une autre personne, je ne crois pas qu'il convient d'accorder au verbe résider un sens qui s'écarte du concept de résidence tel qu'il a été élaboré par les tribunaux. Résider avec quelqu'un c'est vivre ou demeurer avec quelqu'un dans un endroit donné avec une certaine constance, une certaine régularité ou encore d'une manière habituelle.
+[16] Il faut donc déterminer si l'enfant vivait avec l'appelante ou avec Arturo D'Elia, ou avec les deux, de manière établie et habituelle. Il ne s'agit pas simplement de savoir chez qui l'enfant était le premier jour d'un mois donné. L'enfant avait‑il une résidence établie et habituelle chez l'appelante ou chez Arturo D'Elia? Au cours de cette période, vivait‑il régulièrement avec l'un ou l'autre ou avec les deux?
+[17] Sur ce point, l'intimée a émis les hypothèses suivantes :
+[TRADUCTION]
+19. En déterminant de nouveau la PFCE de l'appelante pour les années de base 2005 et 2006 et le CTPS pour les années de base 2005 et 2007, le ministre a émis les hypothèses de fait suivantes :
+a) l'appelante et Arturo D'Elia (l'« époux ») étaient mariés;
+b) l'appelante et l'époux ont commencé à vivre séparés au mois de janvier 2007, pour cause d'échec de leur mariage;
+c) l'appelante et l'époux ont un enfant, S.D., [...];
+d) conformément à l'accord de séparation du 1er février 2007 (l'« accord ») :
+(i) l'appelante et l'époux ont la garde partagée de S.D.;
+(ii) S.D. réside principalement avec l'époux;
+(iii) l'appelante jouit d'un droit de visite équitable et raisonnable à l'égard de S.D.;
+e) au cours de la période allant du mois de janvier 2007 au mois d'août 2008, pour chaque période de deux semaines, S.D. résidait, comme l'indique l'annexe C jointe à la réponse à l'avis d'appel et en faisant partie (l'« annexe C ») :
+(i) avec l'appelante, pendant 48 heures;
+(ii) avec l'époux, pendant 288 heures;
+f) au cours de la période qui a commencé au mois d'août 2008, pour chaque période de deux semaines, S.D. résidait, comme l'annexe C l'indique :
+(i) avec l'appelante, pendant 129 heures;
+(ii) avec l'époux, pendant 207 heures;
+[...]
+[18] Le libellé de ces hypothèses me semble susciter plus d'une question. Premièrement, les hypothèses se rapportent à la question de savoir où l'enfant « résidait ». Or, il est uniquement possible d'établir l'endroit où une personne « réside » en appliquant le droit aux faits. Comme je l'ai mentionné dans la décision Nadalin c. La Reine, 2012 CCI 48, il ne me semble pas approprié d'émettre une hypothèse au sujet de l'endroit où une personne « réside », étant donné qu'il s'agit d'une conclusion qu'il faut tirer après avoir examiné tous les faits pertinents et après avoir ensuite appliqué le droit aux faits. Il faudrait, dans les hypothèses, préciser les faits particuliers qui nous amèneraient à conclure qu'une personne réside à un endroit particulier ou avec une personne particulière, et non la conclusion (celle-ci devant être tirée en appliquant le droit aux faits). Par conséquent, il me semble que les hypothèses portant sur le fait que l'enfant résidait avec l'appelante ou avec Arturo D'Elia ne sont pas des hypothèses appropriées.
+[19] De plus, les hypothèses font mention du fait que l'enfant résidait principalement avec Arturo D'Elia. La question de savoir si l'appelante sera le particulier admissible à l'égard de son fils pour les besoins de la PFCE ou si le fils sera une personne à charge admissible de l'appelante pour les besoins du CTPS dépendra de la question de savoir si le fils résidait avec l'appelante, et non si le fils résidait principalement avec l'appelante. Le terme « réside » n'est pas modifié par quelque mot que ce soit et, en particulier, il n'est pas modifié par le mot « principalement » dans la définition du terme « particulier admissible » à l'article 122.6 de la Loi, ou dans la définition du terme « personne à charge admissible » à l'article 122.5 de la Loi.
+[20] La preuve montrait clairement que l'appelante et Arturo D'Elia avaient la garde partagée de leur fils pendant toute la période visée par l'appel. L'accord de séparation conclu entre l'appelante et Arturo D'Elia prévoyait qu'ils auraient la garde partagée de leur fils. L'accord de séparation prévoyait que [TRADUCTION] « la résidence principale » du fils serait située chez Arturo d'Elia, mais les dispositions applicables de la Loi exigent uniquement que l'enfant réside avec l'appelante, et non qu'il réside principalement avec l'appelante. De plus, il s'agit de savoir où l'enfant résidait en fait, ce qui peut être différent de ce dont les parties avaient convenu.
+[21] L'appelante a soumis des copies de calendriers mensuels pour les années 2007 et 2008, lesquels indiquent clairement le temps que leur fils passait, en alternance, avec son père ou avec sa mère. Les calendriers qui ont été soumis indiquent une différence importante entre le nombre d'heures que l'enfant passait chez l'appelante ou au cours desquelles l'appelante était responsable de l'enfant et le nombre d'heures mentionné dans la réponse. Le temps pendant lequel l'appelante était responsable de l'enfant, tel qu'il est indiqué dans les calendriers qui ont été soumis, représentait de 40 p. 100 à 69 p. 100 du temps, à l'exclusion du mois de décembre 2007, pendant lequel l'enfant était en Argentine avec son père. Rien n'indiquait que la situation avait changé en 2009. Il me semble que l'enfant avait une résidence établie et habituelle chez l'appelante et chez Arturo D'Elia en 2007, en 2008 et en 2009. Le fait que l'enfant a effectué un long séjour en Argentine avec son père, au mois de décembre 2007, ne change rien à la conclusion selon laquelle il avait une résidence établie et habituelle chez l'appelante ainsi que chez Arturo D'Elia.
+[22] Par conséquent, il me semble que l'enfant résidait avec l'appelante ainsi qu'avec Arturo D'Elia au début de chaque mois au cours de la période relative à la PFCE ainsi qu'au début de chacun des mois de juillet 2008, d'octobre 2008, de janvier 2009 et d'avril 2009.
+[23] Il s'agit ensuite de savoir si l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation de son fils au cours de la période visée par l'appel.
+[24] L'alinéa f) de la définition du terme « particulier admissible », à l'article 122.6 de la Loi (au sujet de la PFCE), établit une présomption si l'enfant réside avec sa mère. Cette disposition prévoit que la mère est présumée être « la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge », si l'enfant réside avec elle. Cette présomption ne s'applique pas dans les circonstances prévues par règlement. Les circonstances prévues par règlement (dans lesquelles la présomption ne s'applique pas) sont énoncées au paragraphe 6301(1) du Règlement de l'impôt sur le revenu (le « Règlement ») et incluent, entre autres, le cas dans lequel « plus d'une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l'égard de la même personne à charge admissible qui réside avec chacune d'elles à des endroits différents ».
+[25] Les « faits » sur lesquels le ministre s'est fondé en décidant que l'appelante n'avait pas droit aux paiements afférents à la PFCE et au CTPS effectués à l'égard de son fils sont exposés au paragraphe 19 de la réponse :
+[TRADUCTION]
+19. En déterminant de nouveau la PFCE de l'appelante pour les années de base 2005 et 2006 et le CTPS pour les années de base 2005 et 2007, le ministre a émis les hypothèses de fait suivantes :
+a) l'appelante et Arturo D'Elia (l'« époux ») étaient mariés;
+b) l'appelante et l'époux ont commencé à vivre séparés au mois de janvier 2007, pour cause d'échec de leur mariage;
+c) l'appelante et l'époux ont un enfant, S.D., [...];
+d) conformément à l'accord de séparation du 1er février 2007 (l'« accord ») :
+(i) l'appelante et l'époux ont la garde partagée de S.D.;
+(ii) S.D. réside principalement avec l'époux;
+(iii) L'appelante jouit d'un droit de visite équitable et raisonnable à l'égard de S.D.;
+e) au cours de la période allant du mois de janvier 2007 au mois d'août 2008, pour chaque période de deux semaines, S.D. résidait, comme l'indique l'annexe C jointe à la réponse à l'avis d'appel et en faisant partie (l'« annexe C ») :
+(i) avec l'appelante, pendant 48 heures;
+(ii) avec l'époux, pendant 288 heures;
+f) au cours de la période qui a commencé au mois d'août 2008, pour chaque période de deux semaines, S.D. résidait, comme l'annexe C l'indique :
+(i) avec l'appelante, pendant 129 heures;
+(ii) avec l'époux, pendant 207 heures;
+g) en ce qui concerne la PFCE, les années de base 2005 et 2006 s'entendent des mois suivants :
+Année de base
+Mois
+2005
+juillet 2006 à juin 2007
+2006
+juillet 2007 à juin 2008
+h) l'appelante a reçu les paiements afférents à la PFCE qui suivent, comme l'indique l'annexe A :
+Année
+Montant reçu
+Mois visés par les paiements
+2005
+1 923,02 $
+juillet 2006 à juin 2007
+2006
+3 083,19 $
+juillet 2007 à juin 2008
+i) l'appelante avait droit aux paiements suivants, au titre de la PFCE concernant S.D., comme l'indique l'annexe A :
+Année
+Montant auquel l'appelante avait droit
+Mois
+État matrimonial
+2005
+634,71 $
+juillet 2006 à janv. 2007
+mariée
+0 $
+fév. 2007 à juin 2007
+séparée
+2006
+0 $
+juillet 2007 à juin 2008
+séparée
+j) l'appelante a reçu des paiements en trop, au titre de la PFCE, de 1 288,31 $ et de 3 083,19 $ pour les années de base 2005 et 2006 respectivement, comme l'indique l'annexe A;
+k) en ce qui concerne le CTPS, les années de base 2005 et 2007 s'entendent des trimestres suivants :
+Année de base
+Trimestres commençant
+2005
+de juillet 2006 à avril 2007
+2007
+de juillet 2008 à avril 2009
+l) l'appelante a reçu les paiements afférents au CTPS qui suivent, comme l'indique l'annexe B :
+Année
+Montant reçu
+Trimestres visés par les paiements
+Montant versé pour :
+2005
+99,99 $
+juillet 2006 à janv. 2007
+l'appelante, l'époux et S.D.
+146,48 $
+avril 2007
+l'appelante et S.D.
+2007
+394 $
+juillet 2008 à avril 2009
+l'appelante et S.D.
+m) l'appelante avait droit aux paiements suivants, au titre du CTPS, comme l'indique l'annexe B :
+Année
+Montant auquel l'appelante avait droit
+Trimestres
+Personnes visées
+2005
+99,99 $
+juillet 2006 à janv. 2007
+l'appelante, l'époux et S.D.
+57,98 $
+avril 2007
+l'appelante
+2007
+321,80 $
+juillet 2008 à avril 2009
+l'appelante
+n) l'appelante a reçu des paiements en trop, au titre du CTPS, de 88,50 $ et de 72,20 $ pour les années de base 2005 et 2007 respectivement.
+[26] Les hypothèses énoncées aux alinéas h) à n) se rapportent aux montants versés à l'appelante au titre de la PFCE et du CTPS, aux montants qui, selon l'intimée, auraient dû être versés à l'appelante et aux montants qui, selon l'intimée, ont été payés en trop à l'appelante.
+[27] Dans l'arrêt R. c. Anchor Pointe Energy Ltd, 2003 CAF 294, le juge Rothstein (tel était alors son titre), au nom de la Cour d'appel fédérale, a dit ce qui suit :
+[8] Dans la réponse à l'avis d'appel figurent les hypothèses sur lesquelles le ministre s'est fondé, y compris les hypothèses découlant de la décision Global. La réponse prévoit plus particulièrement ce qui suit, au paragraphe 10 :
+[TRADUCTION]
+En établissant de nouvelles cotisations, le ministre s'est fondé sur les hypothèses de fait suivantes :
+[...]
+q) API, APII, APIII, APIV et APV n'ont pas acheté les données sismiques en vue de déterminer l'existence, la localisation, l'étendue ou la qualité d'un gisement de pétrole ou de gaz;
+r) Les données sismiques n'ont pas été utilisées pour fins d'exploration;
+[...]
+z) Les données sismiques achetées par API, APII, APIII, APIV et APV ne sont pas admissibles au titre des frais d'exploration au Canada (« FEC ») au sens de l'alinéa 66.1(6)a) de la Loi de l'impôt sur le revenu (la « Loi »).
+[...]
+[24] Le juge Rip a supprimé l'alinéa 10z) pour un motif additionnel. Il estimait que cet alinéa représentait « une de ces conclusions de droit qui n'ont pas leur place parmi les hypothèses de fait du ministre ».
+[25] J'estime également que les déclarations ou conclusions juridiques n'ont pas leur place dans l'énoncé des hypothèses de fait du ministre. Il en découlerait pour le contribuable le fardeau de réfuter une déclaration ou conclusion juridique et, bien sûr, cela ne doit pas être. Le critère juridique à appliquer n'a pas à être prouvé par les parties comme s'il s'agissait d'un fait. Les parties doivent présenter leurs arguments relativement au critère juridique, mais c'est à la Cour qu'il incombe en bout de ligne de trancher les questions de droit.
+[26] Toutefois, il serait plus exact de qualifier l'hypothèse formulée à l'alinéa 10z) de conclusion mixte de fait et de droit. La conclusion selon laquelle des données sismiques achetées ne sont pas admissibles au titre de FEC au sens de l'alinéa 66.1(6)a) requiert d'appliquer le droit aux faits. L'alinéa 66.1(6)a) énonce le critère à respecter pour qu'une déduction au titre de FEC soit admissible. Pour décider si l'achat de données sismiques en l'espèce satisfait à ce critère, il faut établir si les faits y satisfont ou non. Le ministre peut présumer les éléments de fait d'une conclusion mixte de fait et de droit. S'il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit.
+[28] Les hypothèses qui ont été émises à l'égard du droit de l'appelante aux paiements au titre de la PFCE et du CTPS ainsi que du montant que l'appelante aurait reçu en trop à ce titre ne sont pas des hypothèses de fait appropriées. Il est uniquement possible de déterminer le montant que l'appelante avait le droit de recevoir en appliquant le droit aux faits et, par conséquent, le montant que l'appelante avait le droit de recevoir au titre de la PFCE et du CTPS et le montant reçu en trop constituent des conclusions mixtes de fait et de droit. Il ne s'agit pas d'hypothèses appropriées. Les faits pertinents qui mèneraient à cette conclusion auraient dû être extraits et clairement précisés.
+[29] Aucune hypothèse n'a été émise au sujet de la question de savoir si Arturo D'Elia avait déposé l'avis prévu au paragraphe 122.62(1) de la Loi à l'égard du fils de l'appelante et il n'a pas été établi, au cours de l'audience, qu'il avait déposé cet avis. Dans l'arrêt R. c. Loewen, 2004 CAF 146, [2004] 4 R.C.F. 3, la juge Sharlow, au nom de la Cour d'appel fédérale, a fait les remarques suivantes :
+[11] Les contraintes imposées au ministre lorsqu'il invoque des hypothèses n'empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423 (C.A.), autorisation d'appel à la C.S.C. refusée, [1996] A.C.S.C. no 4.
+[30] La demande d'autorisation d'appel à la Cour suprême du Canada de la décision rendue par la Cour d'appel fédérale dans l'arrêt Loewen a été refusée ([2004] A.C.S.C. no 298 (QL)).
+[31] Au paragraphe 8 de la réponse, il est déclaré [TRADUCTION] qu'« une autre personne avait demandé la PFCE à compter du 1er janvier 2007 » pour l'enfant. Toutefois, ce n'était pas l'un des faits qui étaient énoncés dans le paragraphe indiquant les hypothèses qui avaient été émises. De plus, il ne s'agit pas d'un fait dont l'appelante aurait connaissance, mais il s'agit d'un fait dont l'intimée aurait connaissance. Par conséquent, il incombait à l'intimée de prouver ce fait. Étant donné qu'aucun élément de preuve n'a été soumis en vue d'établir ce fait, il n'a pas été prouvé.
+[32] Il n'a pas été soutenu que l'une ou l'autre des circonstances prévues au paragraphe 6301(1) du Règlement s'appliquait en l'espèce. Par conséquent, si le fils résidait chez l'appelante au cours d'une partie de la période visée par l'appel, la présomption selon laquelle l'appelante était « la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge » au cours de cette période s'appliquera.
+[33] L'alinéa h) de la définition du terme « particulier admissible » (au sujet de la PFCE), à l'article 122.6 de la Loi, prévoit ce qui suit :
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[34] Ces critères prévus par règlement sont ainsi énoncés à l'article 6302 du Règlement :
+6302 Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[35] Aucune hypothèse n'a été émise au sujet des critères susmentionnés[5]. Le juge Rothstein (tel était alors son titre), au nom de la Cour d'appel fédérale, a dit ce qui suit dans l'arrêt R. c. Anchor Pointe Energy Ltd., précité :
+[23] Alléguer l'existence d'hypothèses confère comme avantage important à la Couronne de renverser le fardeau de preuve, de sorte que le contribuable doive réfuter les hypothèses du ministre. Les faits allégués comme hypothèses doivent être précis et exacts afin que le contribuable sache bien clairement ce qu'il lui faudra prouver. [...]
+[36] L'omission de plaider des hypothèses se rapportant à l'un des critères concernant le soin et l'éducation énoncés à l'article 6302 du Règlement veut dire que l'appelante ne connaît pas la thèse à réfuter à l'égard de ces critères ou qu'elle ne savait pas que le ministre contesterait la présomption selon laquelle l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation de l'enfant. L'avocate de l'intimée avait soutenu que les hypothèses relatives au nombre d'heures pendant lesquelles l'enfant résidait avec son père et avec sa mère devraient être interprétées comme des hypothèses se rapportant à la question de savoir si c'était le père ou la mère qui assumait principalement la responsabilité pour le soin et l'éducation de l'enfant. Toutefois, les hypothèses de fait (et non les hypothèses se rapportant à des conclusions mixtes de fait et de droit) doivent être « précises et exactes ». Les hypothèses se rapportant au nombre d'heures pendant lesquelles l'enfant résidait avec son père et avec sa mère ne peuvent pas être interprétées comme constituant des hypothèses précises et exactes émises à l'égard de faits se rapportant à l'un des critères mentionnés à l'article 6302 du Règlement. Plusieurs critères sont énumérés à l'article 6302 du Règlement et aucune des hypothèses ne porte sur ces critères.
+[37] Les seuls éléments de preuve présentés au cours de l'audience au sujet des critères énumérés à l'article 6302 du Règlement étaient les déclarations de l'appelante selon lesquelles la personne qui assumait la responsabilité de l'enfant à un moment particulier s'occupait des urgences médicales qui survenaient pendant ce temps et que le père et la mère devaient tous deux s'entendre si l'enfant devait prendre part à une activité particulière. Cette preuve ne suffit pas pour réfuter la présomption selon laquelle l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation de l'enfant.
+[38] L'avocate de l'intimée a également invoqué un argument subsidiaire se rapportant aux dispositions qui avaient été prises au sujet de la garde partagée. Toutefois, étant donné que les dispositions relatives à la PFCE et au CTPS se rapportant à la garde partagée ont uniquement été ajoutées à la Loi en ce qui concerne les paiements afférents à la PFCE et au CTPS effectués pour les mois postérieurs au mois de juin 2011, ces dispositions ne s'appliquent pas en l'espèce.
+[39] Étant donné que le fils de l'appelante résidait avec celle‑ci au cours de la période allant de l'année 2007 à l'année 2009, et puisque rien ne montrait qu'Arturo D'Elia avait déposé l'avis pertinent pour la PFCE à l'égard de leur fils, la présomption figurant à l'alinéa f) de la définition du terme « particulier admissible » s'applique. Par conséquent, l'appelante est présumée être « la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge ». Les quelques éléments de preuve portant sur les critères énoncés à l'article 6302 du Règlement ne sont clairement pas suffisants pour réfuter cette présomption et, par conséquent, l'appelante remplit les deux conditions nécessaires pour être le particulier admissible à l'égard de son fils pour les besoins de la PFCE pour la période allant du mois de février 2007 au mois de juin 2008 : le fils résidait avec l'appelante et l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation de l'enfant à ce moment‑là. L'enfant était également une personne à charge admissible de l'appelante au début des mois d'avril 2007, de juillet 2008, d'octobre 2008, de janvier 2009 et d'avril 2009 pour les besoins du CTPS.
+[40] Par conséquent, l'appel interjeté par l'appelante est accueilli, et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles décisions, pour le motif que l'appelante n'a pas reçu de paiements en trop au titre de la PFCE au cours de la période allant du mois de février 2007 au mois de juin 2008 et qu'elle n'a pas reçu de paiements en trop à l'égard du CTPS pour les trimestres ayant commencé au mois d'avril 2007, ainsi qu'au mois de juillet 2008 jusqu'au mois d'avril 2009. L'intimée paiera les dépens de l'appelante, lesquels sont fixés à 250 $.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour de mai 2012.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 16e jour de juillet 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 180
+No DU DOSSIER DE LA COUR : 2011-2286(IT)I
+INTITULÉ : MICHELLE D'ELIA c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L'AUDIENCE : Le 16 avril 2012
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 31 mai 2012
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Paige Atkinson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ce montant est rajusté chaque année comme le prévoit le paragraphe 122.61(5) de la Loi.
+[2] Ce montant est rajusté chaque année comme le prévoit le paragraphe 122.61(5) de la Loi.
+[3] Ce montant et les autres montants mentionnés dans cette disposition sont rajustés chaque année comme le prévoit le paragraphe 117.1(1) de la Loi.
+[4] Les expressions « particulier admissible » et « personne à charge admissible » sont utilisées pour les besoins de la PFCE et du CTPS, mais ces expressions se voient attribuer des sens différents pour l'application du CTPS (article 122.5) et de la PFCE (article 122.6).
+[5] Un accord de séparation avait été conclu, mais rien n'indiquait qu'une ordonnance eût été rendue à l'égard de l'enfant par un tribunal.

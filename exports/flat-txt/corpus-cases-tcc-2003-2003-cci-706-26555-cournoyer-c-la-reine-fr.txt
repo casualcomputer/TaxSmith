@@ -1,0 +1,238 @@
+Title: Cournoyer c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26555/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-706-26555-cournoyer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-11-13
+
+# Cournoyer c. La Reine
+
+- Citation: 2003 CCI 706
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3563, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cournoyer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-13
+Référence neutre
+2003 CCI 706
+Numéro de dossier
+2003-534(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-534(IT)I
+ENTRE :
+CLAUDE COURNOYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 18 septembre 2003 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelant :
+Jacques Bélanger
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997 et 1998 sont rejetés. Toutefois, l'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1995 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte que les montants suivants devraient être déduits du revenu additionnel de l'appelant :
+i) 1 832 $ au titre de frais de location d'automobile;
+ii) 6 500 $ au titre d'un prêt personnel; et
+iii) 548,49 $ au titre d'un crédit qui ne constituait pas un revenu pour l'appelant;
+avec les rajustements correspondant à la pénalité et aux intérêts.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2003.
+« Paul Bédard »
+Juge Bédard
+Référence : 2003CCI706
+Date : 20031113
+Dossier : 2003-534(IT)I
+ENTRE :
+CLAUDE COURNOYER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'appels selon la procédure informelle, de cotisations établies pour les années d'imposition 1995, 1996, 1997 et 1998.
+[2] En date du 21 février 2000, le Ministre a établi, à l'égard de l'appelant, de nouvelles cotisations pour les années d'imposition 1995 et 1996. La nouvelle cotisation pour l'année d'imposition 1995 a été établie après la fin de la période normale de cotisation.
+[3] En établissant ces nouvelles cotisations, le Ministre a ajouté, à titre de revenus d'entreprise, des sommes de 85 774 $ et de 20 518 $ que l'appelant avait omis de déclarer dans les années d'imposition 1995 et 1996 et, a imposé, pour chacune de ces mêmes années, une pénalité selon le paragraphe 163(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[4] En date du 21 août 2000, le Ministre a établi, à l'égard de l'appelant, de nouvelles cotisations pour les années d'imposition 1997 et 1998.
+[5] En établissant les nouvelles cotisations à l'égard des années d'imposition 1997 et 1998, le Ministre a apporté les corrections suivantes et, a imposé, pour chacune de ces mêmes années, une pénalité selon le paragraphe 163(2) de la Loi, sur les revenus d'entreprise additionnels :
+1998 1997
+- ajouter revenus d'entreprise : 1 191 $ 28 225 $
+- ajouter dépenses d'entreprise refusées : 30 683 $
+- annuler revenu d'emploi : (23 530 $)
+- ajouter revenu d'autres sources : 23 530 $
+- refuser dépenses d'emploi : 8 930 $
+- refuser report de perte d'entreprise
+d'une année subséquente : 13 133 $
+[6] Pour établir et maintenir les nouvelles cotisations faisant l'objet du présent litige, le Ministre a tenu notamment pour acquis les faits suivants énoncés au paragraphe 10 de la Réponse à l'avis d'appel :
+a) L'appelant exploitait, depuis 1994, une entreprise dont la raison sociale était « Les Maîtres Peintres Claude et Pierre enr. » ; (admis)
+b) L'appelant était associé, à part égale, avec Monsieur Pierre Pilon; (admis)
+c) Au début de février 1999, la division de la vérification de l'Agence des douanes et du revenu Canada, a initié une vérification auprès de l'appelant et de son associé;
+d) Antérieurement à la vérification, l'appelant n'avait jamais déclaré de revenus d'entreprise provenant de « Les Maîtres Peintres Claude et Pierre enr. » ; (admis)
+e) En produisant sa déclaration de revenus pour l'année d'imposition 1995, l'appelant avait déclaré un revenu d'emploi s'élevant à 9 600 $; (admis)
+f) En produisant sa déclaration de revenus pour l'année d'imposition 1996, l'appelant avait déclaré un revenu brut d'entreprise s'élevant à 8 000 $; ce montant représentait, selon l'information produite, des revenus gagnés par l'entreprise Garderie C. Cournoyer; (admis)
+g) En produisant sa déclaration de revenus pour l'année d'imposition 1997, l'appelant avait déclaré un revenu d'emploi de 23 530 $ provenant de la société 2862-3650 Québec Inc. et avait réclamé à l'encontre de ce revenu, des dépenses d'emploi s'élevant à 8 930 $; (admis)
+h) En produisant sa déclaration de revenus pour l'année d'imposition 1998, l'appelant avait déclaré un revenu brut d'entreprise de « Les Maîtres Peintres Claude et Pierre enr. » s'élevant à 17 550 $ et avait déduit à l'encontre de ce revenu des dépenses totalisant 30 683,70 $, ce qui a créé une perte d'entreprise de 13 133,70 $; (admis)
+i) L'appelant qui ne possédait ni tenue de livre, ni pièce justificative, a soumis, pour fins de vérification, ses relevés bancaires; (nié)
+j) L'appelant possédait un compte commercial avec la Banque de Montréal, folio 1055-396, pour « Les Maîtres Peintres Claude et Pierre enr. » , ainsi qu'un compte personnel avec la Caisse Populaire Les Grands Boulevards, folio 12371; (admis)
+k) Les dépôts non identifiés, au montant de 85 774 $, de 20 518 $, de 28 225 $ et de 1 191 $, retracés dans le compte bancaire commercial, ont tous été considérés comme étant du revenu d'entreprise pour les années 1995, 1996, 1997 et 1998;
+l) Lors de l'entrevue initiale, l'appelant avait admis au vérificateur que seulement 50 % des revenus d'entreprise étaient déposés dans le compte bancaire commercial puisque la plupart des clients payaient en argent comptant; le vérificateur a conséquemment imposé chacun des associés sur la totalité des dépôts non identifiés apparaissant dans ce compte; (nié)
+m) L'appelant avait aussi allégué que ses fonctions, en 1997, à titre d'employé pour la société 2862-3650 Québec Inc., consistaient à effectuer de la livraison pour une compagnie de textile; il travaillait à toutes les semaines et était rétribué soit par chèque ou en argent comptant; (admis)
+n) L'analyse du compte bancaire personnel de l'appelant a démontré qu'il n'avait effectué aucun dépôt hebdomadaire dans ce compte. De plus, la société 2862-3650 Québec Inc., ne possédait aucun numéro d'employeur pour les fins de retenues à la source, n'avait jamais produit de déclaration corporative de revenus et, avait dissout sa charte en 1997;
+o) Le vérificateur a considéré que le montant de 23 530 $, représentait en fait un revenu d'autres sources et a conséquemment refusé, à l'appelant, des dépenses d'emploi au montant de 8 930 $;
+p) En effectuant ces changements, le vérificateur a considéré, d'une part, que le T4 1997 émis par la société 2862-3650 Québec Inc. était factice et, d'autre part, qu'aucun formulaire T2200, « Déclaration des conditions de travail » , et aucune pièce justificative n'avait été soumis par l'appelant;
+q) Les dépenses d'entreprise au montant de 30 683 $, réclamées pour l'année d'imposition 1998, ont été refusées en totalité puisque l'appelant n'a soumis aucune pièce justificative à l'appui de sa réclamation;
+r) Suite aux changements effectués à l'année d'imposition 1998, l'appelant n'a subi aucune perte autre qu'une perte en capital et ne pouvait conséquemment déduire la somme de 13 133 $ du calcul de son revenu imposable pour l'année d'imposition 1997;
+s) Au stade de l'opposition, l'appelant a allégué, que du montant de 85 774 $ localisés au compte bancaire de l'entreprise et attribuable à l'année d'imposition 1995, un montant de 49 500 $ représentait des emprunts contractés par son associé, Monsieur Pierre Pilon; ce dernier qui effectuait la comptabilité de l'entreprise et qui ne possédait aucun compte bancaire personnel a, à son insu, déposé les sommes d'argent empruntées pour ensuite effectuer des chèques en son nom personnel;
+t) Le Ministre n'a pas retenu les allégations de l'appelant étant donné qu'il n'avait soumis aucun document ou preuve étayant sa position et que de plus le Ministre détenait des preuves qui démontraient clairement que les sommes qu'il identifiait être des emprunts, représentaient en fait des sommes reçues par l'entreprise pour des services rendus;
+u) L'appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire en produisant sa déclaration de revenus ou en fournissant des renseignements pour l'année d'imposition 1995;
+v) L'appelant a sciemment ou dans des circonstances équivalant à une faute lourde, fait un faux énoncé ou une omission dans un document produit pour chacune des années d'imposition en litige, ou y a participé, consenti ou acquiescé; des pénalités s'élevant à 9 338,44 $, 1 398,74 $, 1 938,96 $ et à 100 $ lui ont été imposées pour les années d'imposition 1995, 1996, 1997 et 1998.
+Remarques préliminaires
+[7] Il s'agit d'appels entendus selon la procédure informelle, même si les montants en litige dépassent 12 000 $ puisque l'appelant a choisi de limiter chacun de ses appels à 12 000 $.
+[8] L'appelant n'a fourni aucune preuve pour les années d'imposition 1996, 1997 et 1998 relativement aux revenus d'entreprise ajoutés et aux dépenses d'entreprise refusées pour ces années. Conséquemment, le Ministre était justifié d'ajouter à l'appelant, à titre de revenus d'entreprise, des montants de 20 518 $, 28 225 $ et 1 191 $ pour les années d'imposition 1996, 1997 et 1998 respectivement et de refuser à l'appelant, pour l'année d'imposition 1998, des dépenses d'entreprise s'élevant à 30 683 $.
+[9] À ce stade, il convient de rappeler certaines admissions importantes. En effet, l'appelant a admis que :
+i) il exploitait, depuis 1994, une entreprise dont la raison sociale était « Les Maîtres Peintres Claude et Pierre enr. » ( « l'Entreprise » ).
+ii) il était associé, en parts égales, avec monsieur Pierre Pilon.
+iii) au début de février 1999, monsieur André Gauthier, vérificateur pour la division de la Vérification de l'Agence des douanes et du revenu Canada, a initié une vérification auprès de l'appelant.
+iv) antérieurement à la vérification, il n'avait jamais déclaré de revenu d'entreprise provenant de l'Entreprise.
+v) en produisant sa déclaration de revenu pour l'année d'imposition 1997, il avait déclaré un revenu d'emploi de 23 530 $ provenant de la société 2862-3650 Québec Inc. ( « Québec Inc. » ) et avait réclamé à l'encontre de ce revenu, des dépenses d'emploi s'élevant à 8 930 $.
+vi) il possédait un Compte Commercial avec la Banque de Montréal, folio 1055 396 pour l'Entreprise (le « Compte Commercial » ), aussi qu'un compte personnel avec la Caisse Populaire Les Grands Boulevards, folio 12371.
+vii) il avait allégué que ses fonctions, en 1997, à titre d'employé pour Québec Inc., consistaient à effectuer de la livraison pour une compagnie de textile; il travaillait à toutes les semaines et était rétribué, soit par chèque ou en argent comptant; il a été admis que l'analyse du compte bancaire personnel de l'appelant a démontré qu'il n'avait effectué aucun dépôt hebdomadaire dans ce compte.
+[10] Monsieur André Gauthier a témoigné qu'il avait utilisé la méthode des dépôts dans le cadre de sa vérification pour établir les revenus d'entreprise de l'appelant pour l'année d'imposition 1995 puisque ce dernier, lors de la première entrevue, lui avait déclaré qu'il ne tenait aucun livre comptable et qu'il ne détenait aucune pièce justificative. Monsieur Gauthier a témoigné qu'il a alors considéré comme étant du revenu d'entreprise pour l'année d'imposition 1995 tous les dépôts non identifiés, au montant de 85 774 $, retracés dans les relevés bancaires du Compte Commercial déposés en liasse sous la cote A-1.
+[11] Les objections soulevées par l'appelant concernent :
+i) l'annulation du revenu d'emploi pour l'année d'imposition 1997 et sa conversion en revenu d'autres sources et le refus des dépenses encourues dans le cadre de son emploi pour cette même année d'imposition;
+ii) l'application par le Ministre d'une pénalité sur les revenus d'entreprise additionnels pour chacune des années d'imposition en litige;
+iii) l'établissement par le Ministre d'une nouvelle cotisation pour l'année d'imposition 1995 en dehors de la période normale de nouvelle cotisation; et
+iv) quant au revenu d'entreprise pour l'année d'imposition 1995 : les éléments particuliers suivants sont contestés :
+i) Crédit de 548,49 $
+Le représentant de l'appelant prétend que l'appelant aurait émis un chèque sur le Compte Commercial au montant de 548,49 $ en janvier 1995, que ce chèque n'aurait pas été honoré par la Banque de Montréal, qu'en conséquence la Banque de Montréal aurait crédité le Compte Commercial du même montant et qu'ainsi ce crédit ne pouvait constituer un revenu d'entreprise pour l'appelant pour l'année d'imposition 1995.
+ii) Crédit de 4 000 $
+Le représentant de l'appelant est d'opinion que le deuxième crédit de 4 000 $ daté du 20 mars 1995 et qui est identifié à gauche sous le code RT tel qu'il appert sur le relevé bancaire de mars 1995 du Compte Commercial est un chèque que l'appelant aurait déposé dans le Compte Commercial et qui n'aurait pas été honoré parce que sans provision. Il soutient donc que le Ministre a erronément traité cette somme comme du revenu d'entreprise de l'appelant pour l'année d'imposition 1995.
+iii) Partage du revenu de l'Entreprise
+Les dépôts non identifiés, au montant de 85 774 $ retracés dans le Compte Commercial, ont tous été considérés par le Ministre comme étant du revenu d'entreprise pour l'année d'imposition 1995. Le Ministre a imposé l'appelant sur la totalité de ces dépôts pour l'année d'imposition 1995. Le représentant de l'appelant est d'avis que le Ministre ne pouvait imposer l'appelant sur la totalité de ces dépôts non identifiés parce que l'appelant était associé, en parts égales, avec monsieur Pilon dans l'Entreprise.
+iv) Prêts personnels consentis à monsieur Pilon
+Le représentant de l'appelant soutient qu'une partie des dépôts du Compte Commercial pour l'année d'imposition 1995 représentait des emprunts personnels contractés par monsieur Pilon : ce dernier qui ne possédait aucun compte bancaire personnel, aurait déposé les sommes d'argent empruntées dans le Compte Commercial pour ensuite émettre des chèques en son nom personnel. Selon le représentant de l'appelant, monsieur Pilon aurait déposé aussi 49 500 $ dans le Compte Commercial durant l'année d'imposition 1995. Le représentant de l'appelant soutient donc que cette somme de 49 500 $ devait être déduite du revenu de l'Entreprise pour l'année d'imposition 1995.
+v) Dépenses d'entreprise pour l'année d'imposition 1995
+Des photocopies de factures pour justifier les dépenses encourues par l'Entreprise dans le cadre de son exploitation ont été déposées en liasse sous la cote A-4. Ces différentes factures totalisent environ 20 000 $.
+Analyse
+Revenu d'emploi pour l'année d'imposition 1997
+[12] Le Ministre a annulé, pour l'année d'imposition 1997, le revenu d'emploi de l'appelant au montant de 23 530 $ et l'a converti en revenu d'autres sources. Il a aussi refusé à l'appelant, pour l'année d'imposition 1997, des dépenses d'emploi s'élevant à 8 930 $. Essentiellement, le Ministre allègue que l'appelant n'a pas été à l'emploi de Québec Inc. dans l'année d'imposition 1997 puisque Québec Inc. ne possédait aucun numéro d'employeur pour les fins de retenues à la source et n'avait jamais produit de déclaration de revenus.
+[13] D'autre part, l'appelant allègue qu'il a été employé de Québec Inc. durant l'année d'imposition 1997 et que ses fonctions consistaient à faire des livraisons de vêtements.
+[14] Essentiellement, j'aurai à déterminer si l'appelant a été véritablement à l'emploi de Québec Inc. durant l'année d'imposition 1997.
+[15] L'appelant devait donc me démontrer, selon la prépondérance des probabilités, qu'il était à l'emploi de Québec Inc.
+[16] La preuve de l'appelant repose uniquement sur son témoignage qui était pour le moins ambigu. L'appelant n'a pu préciser son mode de rémunération. Il est utile ici de rapporter son témoignage lorsqu'il a été interrogé sur le sujet par l'avocate de l'intimée :
+Q. Est-ce que vous vous souvenez de votre salaire que vous aviez?
+R. Bien, moi c'était pas régulier mais à un moment donné il m'a fait deux (2) chèques, la première fois, puis ils ont passé NSF, ça fait qu'après ça il me payait en argent.
+Q. Puis, les chèques ont passé NSF puis vous avez continué à travailler pou lui?
+R. Bien, j'avais pas le choix, j'avais pas d'autre emploi.
+Q. Il vous payait en argent mais sur quelle base qu'il vous déterminait votre salaire?
+R. Bien, là moi je mettais ça à l'heure, j'ai travaillé huit (8) heures par jour, ça dépendait, il me donnait qu'est-ce qu'il voulait.
+Q. Il vous donnait ce qu'il voulait?
+R. À peu près. Bien, ça arrivait que je faisais quarante (40) heures, il pouvait me donner tant. Exactement je ne le sais pas, ce n'était pas jamais régulier.
+Q. O.K. Donc, c'était plus être payé en dessous de la table, finalement, il n'y avait pas rien de déclaré?
+R. C'était plutôt de l'argent, en argent.[1]
+[17] Lors de son témoignage, l'appelant n'a pu préciser le situs de l'Entreprise à Pierrefonds pas plus que le nom de son patron immédiat.
+[18] Par contre, monsieur Gauthier a témoigné que le formulaire T4 émis par Québec Inc. était faux, que cette compagnie n'exerçait aucune activité durant l'année d'imposition 1997 et qu'elle n'avait jamais fait de retenues à la source et encore moins de remises.
+[19] Il est utile ici de rapporter expressément les paroles de monsieur Gauthier interrogé sur le sujet :
+R. Bien, comme je disais, quand on a fait nos vérifications, la compagnie était... il n'y avait plus d'activité dans la compagnie, il n'y avait pas de compte de retenues à la source, il n'y avait pas de versements, il n'y avait rien. Même à l'ordinateur, on n'avait absolument pas -- on appelle ça l'option DD.3, c'est un terme peu jargon mais c'est ce qui nous donne le nom des employés, leur salaire, etc., il n'y avait rien, rien, rien, rien, c'était complètement bidon. Alors, à ce moment-là, on savait que le formulaire T4 était faux.[2]
+[20] L'appelant devait produire une preuve tendant à démontrer que le Ministre a tort sur ce point contesté, selon la prépondérance des probabilités. L'appelant ne peut s'acquitter de cette obligation en faisant des assertions vagues et imprécises. Il est encore plus évident qu'il ne peut s'acquitter de cette obligation en faisant des assertions qui sont des plus incohérentes. De telles assertions influent grandement sur la question de la crédibilité qui est au coeur d'un litige de ce genre. À mon avis, non seulement l'appelant n'a pu s'acquitter de son obligation, mais de plus ses affirmations qui ont été contredites de façon très convaincante par le témoignage de monsieur Gauthier ont définitivement affecté sa crédibilité. Comment ne pas avoir de doute sérieux sur les prétentions de l'appelant quand elles ne sont pas appuyées par une preuve documentaire sérieuse ou appuyées par un témoignage indépendant et crédible?
+[21] À mon avis, le Ministre était justifié d'annuler, pour l'année d'imposition 1997, le revenu d'emploi de l'appelant au montant de 23 530 $ et de le convertir en revenu d'autres sources. Il était tout aussi justifié de refuser à l'appelant des dépenses d'emploi s'élevant à 8 930 $ pour l'année d'imposition 1997 car l'appelant n'a pas fourni de pièces justificatives à cet égard, pas plus que le formulaire T2200 « Déclaration des conditions de travail » qui devait être signé par l'employeur.
+Partage du Revenu d'Entreprise
+[22] Rappelons que les dépôts non identifiés au montant de 85 774 $ ont tous été traités par le Ministre comme étant du revenu d'entreprise pour l'année d'imposition 1995. Le Ministre a imposé l'appelant sur la totalité de ces dépôts pour le motif allégué au paragraphe 10(l) de la Réponse à l'avis d'appel. En effet, le Ministre y allègue que lors de l'entrevue initiale, l'appelant avait admis à monsieur Gauthier que seulement 50 % des revenus d'entreprise étaient déposés dans le Compte Commercial puisque la plupart des clients payaient en argent comptant : le Ministre a conséquemment imposé chacun des associés sur la totalité des dépôts non identifiés apparaissant dans le Compte Commercial.
+[23] Le représentant de l'appelant prétend que l'appelant n'a pas fait une telle déclaration à monsieur Gauthier lors de l'entrevue initiale et que le Ministre ne pouvait donc l'imposer que sur la moitié des dépôts non identifiés du Compte Commercial pour l'année d'imposition 1995 puisqu'il était associé, à part égale, avec monsieur Pilon dans l'Entreprise.
+[24] Le témoignage de monsieur Gauthier confirme en des termes à peu près semblables les allégations du Ministre à la Réponse à l'avis d'appel.
+[25] Le témoignage de l'appelant est essentiellement à l'effet qu'il déposait tous les revenus de l'Entreprise dans le Compte Commercial.
+[26] Le représentant de l'appelant a fait témoigner monsieur Pilon qui a essentiellement corroboré le témoignage de l'appelant.
+[27] Qui dit vrai? La question en est une d'appréciation de la crédibilité des témoins.
+[28] Je n'ai aucun doute quant à la crédibilité de monsieur Gauthier. Toutefois, comme je l'ai souligné lors de mon analyse de la question portant sur l'annulation du revenu d'emploi de l'appelant pour l'année d'imposition 1997 où monsieur Gauthier m'a démontré de façon convaincante qu'on pouvait douter de la crédibilité de l'appelant, il devient difficile par la suite de prêter foi au simple témoignage de l'appelant qui n'est pas appuyé par une preuve documentaire ou testimoniale crédible. Certes, le témoignage de monsieur Pilon a corroboré le témoignage de l'appelant. Toutefois, je ne peux prêter entièrement foi au témoignage d'une personne intéressée et pas tout à fait indépendante dans le présent litige. Je confirme donc que le Ministre était en droit d'imposer l'appelant pour la totalité des dépôts non identifiés du Compte Commercial pour l'année d'imposition 1995 et ce, à titre de revenus d'entreprise.
+Crédit de 4 000 $
+[29] L'appelant a prétendu, lors de son témoignage, qu'un crédit de 4 000 $ daté du 20 mars 1995 et identifié à gauche sous le code RT tel qu'il appert du relevé bancaire de mars 1995 du Compte Commercial, représente un chèque qu'il a déposé et qui n'a pas été honoré puisque sans provision (NSF). Aucune autre preuve n'a été soumise par l'appelant.
+[30] À cet égard, l'avocate de l'intimée a déposé sous la cote I-6, un chèque de 4 000 $ émis le 17 mars 1995 par Les Couvertures Éval à l'ordre de l'Entreprise. À l'endos de chèque, on est en mesure de constater que le chèque a été crédité au Compte Commercial le 20 mars 1995 et qu'il n'y a aucune inscription à l'effet que ce chèque était NSF.
+[31] Devant cette preuve non seulement insuffisante mais contredite, je confirme donc que le Ministre était en droit de cotiser l'appelant sur cette somme de 4 000 $ à titre de revenu d'entreprise pour l'année d'imposition 1995.
+Crédit de 548,49 $
+[32] Le représentant de l'appelant prétend que le crédit de 548,49 $ daté de janvier 1995 qui apparaît au relevé bancaire de janvier 1995 du Compte Commercial représente en fait un chèque (chèque 184) émis par l'appelant au montant de 548,49 $ qui n'a pas été honoré par la Banque de Montréal puisque sans provision. Le représentant de l'appelant soutient que la Banque de Montréal avait alors crédité le Compte Commercial du même montant selon sa pratique usuelle. Il est d'avis que le code NS qui apparaît sur le relevé bancaire confirme clairement que le chèque n'avait pas été honoré par la Banque de Montréal parce que sans provision. Par conséquent, le représentant de l'appelant prétend que le Ministre avait eu tort de traiter ce crédit comme du revenu d'entreprise pour l'année d'imposition 1995.
+[33] Le chèque n'a pas été déposé en preuve. Toutefois, mon analyse du relevé bancaire de janvier 1995 m'a permis de constater qu'au moment où le chèque 184 a été émis, la balance apparaissant au Compte Commercial n'était que de 526,03 $.
+[34] Je suis donc d'avis qu'il est fort plausible que le chèque 187 émis par l'appelant (qui apparaît au débit) n'ait pas été honoré par la Banque de Montréal puisque sans provision au moment de son émission et que cette dernière ait crédité le Compte Commercial du même montant tel qu'il appert au Compte Commercial. En conséquence, je suis d'opinion que le Ministre a eu tort de traiter ce crédit comme du revenu d'entreprise de l'appelant pour l'année d'imposition 1995.
+Prêts personnels consentis à monsieur Pilon
+[35] Le représentant de l'appelant prétend qu'une partie de dépôts du Compte Commercial pour l'année d'imposition 1995 représentait des prêts personnels contractés par monsieur Pilon : ce dernier qui ne possédait aucun compte bancaire personnel, aurait déposé les sommes d'argent empruntées dans le Compte Commercial pour ensuite émettre des chèques en son nom personnel. Selon le représentant de l'appelant, monsieur Pilon aurait déposé ainsi 49 500 $ dans le Compte Commercial dans l'année d'imposition 1995. Le représentant de l'appelant soutient donc que cette somme de 49 500 $ devait être déduite du revenu d'entreprise pour l'année d'imposition 1995.
+1) Chèque de 6 500 $
+[36] Le représentant de l'appelant est d'avis que Monsieur Pilon aurait emprunté personnellement le 14 juillet 1995 une somme de 6 500 $ de la compagnie Instant-Impôt Inc. (le « Prêteur » ). Le représentant de l'appelant prétend que monsieur Pilon aurait déposé le 17 juillet 1995 la somme ainsi empruntée dans le Compte Commercial et qu'ainsi cette somme empruntée ne pouvait constituer du revenu d'entreprise de l'appelant pour l'année d'imposition 1995.
+[37] L'appelant a déposé de consentement sous la cote A-2 un chèque de 6 500 $ émis par le prêteur ainsi que le bordereau de dépôt démontrant que le chèque aurait été déposé le 17 juillet dans le Compte Commercial. Il convient de souligner que l'inscription « avance » apparaît sur le chèque.
+[38] Le représentant de l'appelant a fait témoigner monsieur Pilon. Le témoignage de ce dernier était imprécis quant aux modalités du prêt : il ne se souvenait pas par exemple du taux d'intérêt convenu ni des modalités de remboursement du prêt. Par contre, son témoignage nous aura appris que le contrat de prêt était verbal, qu'il aurait remboursé le prêt en argent comptant et que le Prêteur ne lui aurait pas remis une quittance suite au remboursement du prêt.
+[39] Nonobstant, le témoignage peu convaincant de monsieur Pilon, je suis d'avis que l'appelant s'est acquitté de son obligation de démontrer, selon la prépondérance des probabilités, que le Ministre a tort en ce point. En effet, l'appelant a su appuyer sa preuve testimoniale par une preuve documentaire qui m'apparaît plausible. En conséquence, le revenu d'entreprise de l'appelant devrait être réduit d'un montant de 6 500 $ pour l'année d'imposition 1995.
+2) Chèque de 10 000 $
+[40] Le représentant de l'appelant prétend que monsieur Pilon aurait emprunté personnellement en novembre 1995 une somme de 10 000 $ de la conjointe de feu Daniel McInnes (le « Prêteur » ). Le représentant de l'appelant soutient monsieur Pilon aurait déposé le 24 novembre 1995 la somme aussi empruntée dans le Compte Commercial et qu'ainsi cette somme empruntée ne pouvait constituer du revenu d'entreprise de l'appelant pour l'année d'imposition 1995.
+[41] L'appelant a déposé sous la cote A-3 un bordereau de dépôt pour démontrer qu'un chèque de 10 000 $ aurait été déposé le 24 novembre 1995 dans le Compte Commercial. Toutefois, l'appelant n'a pas déposé en preuve le chèque de 10 000 $ et le Prêteur n'a pas témoigné.
+[42] Le représentant de l'appelant a fait témoigner monsieur Pilon. Le témoignage de ce dernier était imprécis quant aux modalités du prêt : il ne se souvenait pas du taux d'intérêt convenu ni des modalités de remboursement du prêt. Par contre, son témoignage nous aura appris que le contrat de prêt était verbal, qu'il avait remboursé ce prêt en argent comptant et que le Prêteur ne lui aurait pas remis une quittance suite au remboursement du prêt.
+[43] Dans ce cas-ci, je ne crois pas que l'appelant s'est acquitté de son obligation de démontrer, selon la balance des probabilités, que le Ministre a tort sur ce point. En effet, le témoignage de l'appelant ne m'a pas convaincu. La preuve documentaire déposée pour appuyer le témoignage de monsieur Pilon m'est apparue insuffisante pour être plausible. En conséquence, le revenu d'entreprise de l'appelant ne devait pas être réduit d'une somme de 10 000 $ pour l'année d'imposition 1995.
+3) Dépôt de sommes en argent comptant
+[44] Le représentant de l'appelant soutient que monsieur Pilon aurait emprunté personnellement au cours de l'année d'imposition 1995 des sommes en argent comptant totalisant entre 30 000 $ et 35 000 $ et ce auprès de plusieurs prêteurs et que les sommes aussi empruntées auraient été déposées dans le Compte Commercial au cours de l'année d'imposition 1995.
+[45] La preuve de l'appelant ne reposait que sur le témoignage de monsieur Pilon. Le témoignage de ce dernier était pour le moins déconcertant : il n'a pu préciser le nom du ou des prêteurs ainsi que les modalités de ces prêts. Son témoignage nous a appris par ailleurs qu'il avait remboursé ces prêts en argent comptant.
+[46] Devant ce témoignage peu crédible et en l'absence de quelque preuve documentaire que ce soit, je suis d'avis que ces sommes ne devaient pas être déduites du revenu d'entreprise de l'appelant pour l'année d'imposition 1995. En effet, l'appelant ne s'est définitivement pas acquitté de son obligation de démontrer, selon la balance des probabilités, que le Ministre a eu tort sur ce point.
+Dépenses d'entreprise
+[47] Il convient de souligner que certaines pièces justificatives au soutien des dépenses d'entreprise que l'appelant entend réclamer pour l'année d'imposition 1995 ont été déposées en liasse sous la cote A-4 lors de l'audience.
+[48] L'avocat de l'intimée n'a pas cru bon d'interroger l'appelant sur la pertinence de ces pièces justificatives et d'en faire une analyse. J'en ai donc fait l'analyse.
+[49] Je suis d'accord pour accorder une partie des dépenses d'entreprise réclamées par l'appelant, soit celle qui a trait à la location par l'Entreprise d'un Ford Econoline, Cargo. J'ai pu retracer dans les relevés bancaires du Compte Commercial de l'année 1995 sept chèques émis pour un montant de 523,49 $ qui ont été débités au Compte Commercial pour un total de 3 664 $. Le montant mensuel de 523,49 $ correspond au loyer mensuel qui apparaît sur le contrat de location déposé sous la cote A-4.
+[50] Ainsi, je confirme que l'appelant était en droit de réclamer la somme de 1 832 $, soit la moitié des dépenses d'entreprise reliées à la location d'un camion pour l'année d'imposition 1995. Il faut se rappeler que l'appelant était associé à part égale, de l'Entreprise.
+[51] Quant aux autres dépenses réclamées par l'appelant, je n'ai pas retracé dans les relevés bancaires du Compte Commercial des montants au débit qui correspondent aux montants des différentes factures présentées et déposées sous la cote A-4. L'appelant n'a pas cru bon d'apporter quelque preuve que ce soit pour démontrer que l'Entreprise avait assumé les dépenses représentées par ces factures. Encore une fois, je dois rappeler à l'appelant qu'il avait l'obligation de démontrer, selon la prépondérance des probabilités, que le Ministre a tort sur ce point. À mon avis, l'appelant ne s'est pas acquitté de son obligation.
+Pénalité sous le paragraphe 163(2) de la Loi
+[52] Est-ce que le Ministre était justifié d'appliquer une pénalité sur les revenus d'entreprise additionnels, pour chacune des années d'imposition en litige, conformément au paragraphe 163(2) de la Loi?
+[53] Dans le présent cas, la réponse est très simple. À mon avis, le Ministre était en droit d'appliquer ces pénalités pour chacune des années d'imposition en litige car il a prouvé que l'appelant avait fait une omission volontaire et ce, sciemment. En effet, avant la vérification l'appelant n'avait tout simplement pas déclaré ses revenus d'entreprise et ce, sciemment.
+[54] Il est utile ici de mentionner expressément les réponses données par l'appelant lors du contre-interrogatoire.
+Q. Donc, vous êtes aussi d'accord pour dire que vous n'avez jamais déclaré aucun revenu en 1995, 1996 et 1997 dans vos rapports d'impôts?
+R. Oui. C'est parce que moi je pensais que vu que c'était une petite PME, puis qu'est-ce que je faisais... je travaillais des fois cinq mois, six mois, je ne voyais pas d'importance de déclarer ça. Moi, je pensais que ce je faisais...
+Q. Vous pensez que l'argent on n'a pas besoin de le déclarer puis de payer de l'impôt?
+R. C'est parce que moi je me disais que c'était petit, c'était minime, j'avais de la misère à arriver.[3]
+[55] Il faut aussi rappeler que l'appelant n'a produit aucune preuve relativement à ses revenus et dépenses d'entreprise pour les années d'imposition 1996, 1997 et 1998.
+Prescription
+[56] Est-ce que le Ministre était justifié d'établir, en date du 21 février 2000, une nouvelle cotisation pour l'année d'imposition 1995 conformément au sous-alinéa 152(4)a)(i) de la Loi?
+[57] D'après ces dispositions, le Ministre peut établir une cotisation après le délai normal si le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire et le fardeau de la preuve repose sur le Ministre.
+[58] Il faut se rappeler que j'ai décidé à la question précédente que le Ministre a su relever le fardeau de la preuve qui lui incombait dans le présent dossier en matière de pénalités cotisées en vertu du paragraphe 163(2) de la Loi. Faut-il rappeler que le fardeau de la preuve imposé au Ministre en matière de pénalités est plus lourd qu'en matière de prescription. Je suis donc d'opinion que le Ministre était justifié d'établir une nouvelle cotisation pour l'année d'imposition 1995.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2003.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2003CCI706
+No DU DOSSIER DE LA COUR :
+2003-534(IT)I
+INTITULÉ DE LA CAUSE :
+Claude Cournoyer et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 18 septembre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+le 13 novembre 2003
+COMPARUTIONS :
+Représentant de l'appelant :
+Jacques Bélanger
+Avocate de l'intimée :
+Me Marie-Aimée Cantin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir transcription du 18 septembre 2003, pages 59 et 60.
+[2] Voir transcription 18 septembre 2003, pages 41 et 42.
+[3] Transcription, 18 septembre 2003, page 58

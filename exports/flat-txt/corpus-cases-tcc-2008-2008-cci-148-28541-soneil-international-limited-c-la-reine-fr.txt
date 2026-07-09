@@ -1,0 +1,187 @@
+Title: Soneil International Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28541/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-148-28541-soneil-international-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-03-17
+
+# Soneil International Limited c. La Reine
+
+- Citation: 2008 CCI 148
+- Decision date: 2008-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1171, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Soneil International Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-17
+Référence neutre
+2008 CCI 148
+Numéro de dossier
+2007-4786(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑4786(IT)G
+ENTRE :
+SONEIL INTERNATIONAL LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Requête entendue sur preuve commune avec la requête de
+Soneil Usha Inc. (2007‑4787(IT)G) le 5 mars 2008, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+Sachindra Jain
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’appelante en vue d’obtenir une ordonnance autorisant Sachindra Jain à représenter l’appelante dans le présent appel;
+Et vu les plaidoiries des parties;
+La requête est accueillie, sans frais, et Sachindra Jain est autorisé à représenter l’appelante dans le présent appel.
+L’intimée dispose de 60 jours à compter de la date de la présente ordonnance pour déposer une réponse.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour de mars 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour mai de 2008.
+Aleksandra Koziorowska
+Dossier : 2007‑4787(IT)G
+ENTRE :
+SONEIL USHA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de
+Soneil International Limited (2007‑4786(IT)G) le 5 mars 2008, à
+Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+Sachindra Jain
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’appelante en vue d’obtenir une ordonnance autorisant Sachindra Jain à représenter l’appelante dans le présent appel;
+Et vu les plaidoiries des parties;
+La requête est accueillie, sans frais, et Sachindra Jain est autorisé à représenter l’appelante dans le présent appel.
+L’intimée dispose de 60 jours à compter de la date de la présente ordonnance pour déposer une réponse.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour de mars 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour de mai 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI148
+Date : 20080317
+Dossier : 2007‑4786(IT)G
+ENTRE :
+SONEIL INTERNATIONAL LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2007‑4787(IT)G
+ET ENTRE :
+SONEIL USHA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Les appelantes, Soneil International Limited et Soneil Usha Inc., ont déposé une requête en vertu du paragraphe 30(2) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») pour demander que Sachindra Jain, qui n’est pas avocat, soit autorisé à représenter chacune d’entre elles dans le cadre de leurs appels.
+[2] Le paragraphe 30(2) des Règles dispose ce qui suit :
+(2) La partie à une instance qui n’est pas une personne physique se fait représenter par un avocat, sauf avec l’autorisation de la Cour et sous réserve des conditions que celle‑ci fixe.
+[3] Cette règle a été récemment modifiée par le DORS/2007‑142 le 14 juin 2007. L’avocate de l’intimée s’est reportée à plusieurs jugements relatifs aux facteurs qui doivent être examinés afin de décider s’il existe des « circonstances spéciales » permettant à une personne morale d’être représentée par une personne autre qu’un avocat dans une instance devant la Cour canadienne de l’impôt. Cependant, la totalité des décisions citées (sauf une) portaient sur le libellé de cette règle avant la modification apportée en 2007. Dans le seul jugement postérieur à la modification du paragraphe 30(2) des Règles (White Star Copper Mines Limited v. The Queen, [2008] 1 C.T.C. 2365), la Cour ne discute pas des conséquences de cette modification, et la société dans cette affaire comptait entre 500 et 600 actionnaires, ce qui n’est pas le cas ici.
+[4] L’avocate de l’intimée a fait valoir que, indépendamment de la modification récente du paragraphe 30(2) des Règles qui a éliminé l’obligation d’établir l’existence de « circonstances spéciales » pour qu’une personne morale puisse se faire représenter par une personne autre qu’un avocat dans une instance devant la Cour canadienne de l’impôt, ce paragraphe devrait être interprété comme si cette exigence était encore imposée. À mon avis, il est important de revoir l’historique de cette règle et de l’interpréter en fonction de son libellé actuel et non pas de ses termes antérieurs à la modification.
+[5] Avant 1993, la règle était rédigée ainsi :
+(2) Sauf disposition contraire contenue dans un texte législatif, une personne morale ne peut engager ou continuer une instance que par avocat.
+[6] Par conséquent, selon le libellé initial de la règle, une personne morale devait être représentée par avocat, sous réserve d’une disposition contraire contenue dans un texte législatif autorisant une personne autre qu’un avocat à représenter la personne morale. En vertu du DORS/93‑96, daté du 23 février 1993, cette règle a été modifiée et était rédigée en ces termes :
+(2) Une personne morale se fait représenter par un avocat dans toute instance devant la Cour, sauf lorsque dans des circonstances spéciales, la Cour autorise la personne morale à se faire représenter par un de ses dirigeants.
+[7] De 1993 à 2007, la règle permettait aux personnes morales d’être représentées par une personne autre qu’un avocat seulement « dans des circonstances spéciales ». Cette exigence figure aussi dans les Règles des Cours fédérales, dont l’article 120 est ainsi rédigé :
+120 Une personne morale, une société de personnes ou une association sans personnalité morale se fait représenter par un avocat dans toute instance, à moins que la Cour, à cause de circonstances particulières, ne l’autorise à se faire représenter par un de ses dirigeants, associés ou membres, selon le cas.
+[8] Dans les jugements cités par l’avocate de l’intimée (autres que White Star Copper Mines Limited), le tribunal a examiné soit les Règles des Cours fédérales, soit la version antérieure du paragraphe 30(2) des Règles. Les deux textes exigeaient que des circonstances spéciales existent afin qu’une personne morale puisse se faire représenter par une personne autre qu’un avocat. Les jugements renvoyaient directement ou indirectement à la décision rendue par le juge Muldoon, de la Cour fédérale, dans l’affaire Kobetek Systems Ltd. c. La Reine, [1998] A.C.F. no 16. Dans cette décision, le juge Muldoon a analysé le paragraphe 300(2) des Règles des Cours fédérales et a énoncé ce qui suit :
+[3] […] La règle pertinente qui est actuellement en vigueur est la règle 300(2), dont le libellé est le suivant :
+300(2) Une personne morale se fait représenter par un avocat dans toute instance devant la Cour, sauf lorsque dans des circonstances spéciales, la Cour autorise la personne morale à se faire représenter par un de ses dirigeants.
+La requérante doit donc démontrer l’existence de circonstances spéciales.
+[4] La jurisprudence nous aide à définir en quoi consistent ces circonstances spéciales.
+[...]
+[6] Il appert de ces décisions que, pour déterminer si des circonstances spéciales existent, il convient d’examiner les facteurs suivants, soit les questions de savoir si l’entreprise peut s’offrir les services d’un avocat, si le représentant proposé sera tenu de comparaître comme porte‑parole et comme témoin, si les questions de droit à trancher sont complexes (et, par conséquent, si le représentant semble être en mesure de débattre les questions de droit) et si l’action peut se poursuivre de manière expéditive.
+[9] Par conséquent, le juge Muldoon énonçait les facteurs qui seraient pertinents pour décider de l’existence de circonstances spéciales aux fins de l’application d’une règle exigeant que des circonstances spéciales soient présentes avant qu’une personne morale puisse être représentée par une personne qui n’est pas un avocat. Puisque le paragraphe 30(2) des Règles a été modifié pour supprimer la mention des circonstances spéciales, les décisions portant sur la nature des circonstances spéciales et sur les facteurs qui devraient être examinés afin de trancher la question de leur existence ne sont plus applicables.
+[10] À mon avis, il faudrait examiner des jugements qui émanent d’une province qui a adopté une règle dont le libellé est le même que la version actuelle du paragraphe 30(2) des Règles. Il s’agit du paragraphe 15.01(2) des Règles de procédure civile de l’Ontario :
+La personne morale qui est partie à une instance se fait représenter par un procureur, sauf avec l’autorisation du tribunal.
+[11] Cette règle est identique au paragraphe 30(2) des Règles, sauf que ce dernier permet aussi au juge de la Cour canadienne de l’impôt de fixer des conditions. Par conséquent, les critères qu’il faut examiner afin de savoir si une personne morale devrait être autorisée à être représentée par une personne autre qu’un avocat en vertu du paragraphe 30(2) des Règles devraient être les mêmes que ceux qu’ont examinés les tribunaux de l’Ontario, où le paragraphe 15.01(2) des Règles de procédure civile est en vigueur depuis plus de 20 ans.
+[12] Dans l’affaire 419212 Ontario Limited v. Astrochrome Crankshaft Toronto Limited, [1991] O.J. No. 918, 3 O.R. (3d) 116, le protonotaire Sandler, de la Cour de l’Ontario (Division générale), s’est exprimé en ces termes :
+[TRADUCTION]
+[13] Un des facteurs à prendre à considération pour décider d’autoriser ou non une personne morale à agir sans procureur est la situation interne de la personne morale et la question de savoir si la personne qui demande à la représenter devant le tribunal est un représentant de rang supérieur de la personne morale dûment autorisé par le conseil d’administration, dont les membres eux‑mêmes sont dûment élus. Un autre est la nature de l’action et des points en litige et la question de savoir s’il serait gravement injuste pour l’autre partie que les arguments soient présentés ou défendus par une personne autre qu’un procureur. Un autre facteur est la question de savoir si le représentant proposé pour représenter la personne morale est en mesure ou non de s’acquitter comme il se doit des tâches d’une partie à un litige dans le respect des règles.
+[13] Dans Lamond v. Smith, [2004] O.J. No. 3255, le juge J. W. Quinn de la Cour supérieure de justice de l’Ontario a déclaré ce qui suit :
+[TRADUCTION]
+[9] Il y a des jugements où il a été statué qu’il ne faudrait pas encourager un tribunal à accorder l’autorisation prévue au paragraphe 15.01(2). Cependant, je ne vois pas pourquoi une telle directive devrait être suivie dans le cas des petites sociétés à un seul actionnaire.
+[10] Dans d’autres cas, le tribunal s’est demandé si le fait d’accorder l’autorisation prévue à ce paragraphe était injuste envers l’autre partie, qui serait alors opposée à une personne qui n’est pas un avocat. En toute déférence, je ne crois pas qu’il s’agit d’une considération importante. Il est certain, quand une des parties à une action civile se représente elle‑même, qu’un fardeau beaucoup plus lourd est imposé non seulement aux autres parties mais aussi au tribunal. C’est devenu une réalité.
+[11] On a statué aussi que le tribunal devrait tenir compte de la capacité ou de l’incapacité du représentant de la personne morale d’exercer ses fonctions en suivant les règles de procédure civile. Je m’inscris en faux face à cet énoncé. À une époque où bien des parties à un litige se représentent elles‑mêmes, il n’est pas logique de se demander si M. Smith sera ou non capable de s’acquitter de ses responsabilités de représentant. En l’absence de preuve d’incapacité mentale, l’intelligence de M. Smith et ses habiletés en droit ne sont, à mon avis, absolument pas pertinentes.
+[...]
+[13] Me DeLorenzo fait valoir qu’on n’a pas invoqué l’incapacité de la personne morale défenderesse de se payer un avocat. C’est exact. Et, de fait, il semble qu’un avocat soit déjà impliqué, d’une certaine manière, comme en témoigne la qualité des documents déposés par M. Smith. Me DeLorenzo cite l’affaire 92417 Canada Ltd. v. Bank of Montreal et al. (1984), 45 C.P.C. 149, [1984] O.J. No. 2248 (prot. Ont.), afin d’appuyer son argument suivant lequel une personne morale peut être représentée par une personne autre qu’un avocat dans le cas où elle est dans l’incapacité d’exercer les recours auxquels elle a droit parce qu’elle ne peut obtenir les fonds nécessaires pour retenir les services d’un avocat. L’indigence peut être une raison d’accorder l’autorisation demandée dans une requête fondée sur le paragraphe 15.01(2), mais elle n’est pas obligatoire. Honnêtement, je ne vois pas pourquoi la capacité ou l’incapacité de payer un avocat devrait être un facteur pertinent. Le tribunal n’interrogerait pas une personne qui se représente elle‑même sur sa situation financière, et je ne vois pas en quoi ça devrait être différent dans le cas d’une personne morale. Certaines personnes ou sociétés estiment peut‑être qu’elles ont autre chose de mieux à faire avec leur argent que de payer des frais d’avocats. Elles ont peut‑être raison; elles ont peut‑être tort.
+[...]
+[15] La réticence qu’ont éprouvée historiquement les tribunaux de première instance à autoriser une personne morale à se faire représenter par une personne autre qu’un avocat n’est pas fondée dans le cas d’une petite société à un seul actionnaire.
+[Non souligné dans l’original.]
+[14] Dans la décision Mirashrafi v. Circuit Center, [2007] O.J. No. 2373, le protonotaire Haberman de la Cour supérieure de l’Ontario a déclaré ce qui suit après avoir mentionné la décision précitée du juge Quinn :
+[TRADUCTION]
+[9] Le juge Quinn a conclu en disant que la réticence qu’on éprouvée historiquement les tribunaux à autoriser une personne morale à se faire représenter par une personne autre qu’un avocat n’était pas fondée dans le cas d’une petite société à un seul actionnaire. Bien que Circuit Centre comporte deux actionnaires et qu’elle ne soit pas vraiment de petite taille, à en juger par sa marge de crédit d’exploitation, je ne vois pas pourquoi les mêmes principes ne devraient pas s’appliquer ici. Les intérêts personnels de M. Javdan semblent clairement coïncider avec ceux de la personne morale défenderesse et il est en mesure d’engager Circuit.
+[15] Le protonotaire Haberman a également mentionné ce qui suit :
+[TRADUCTION]
+[14] Compte tenu de ce qui précède, je conclus que la situation financière de la personne morale n’est pas un facteur pertinent.
+[16] Dans la présente affaire, Sachindra Jain est le seul actionnaire et le seul administrateur d’une des sociétés, et son épouse est la seule actionnaire et la seule administratrice de l’autre société. Il est dirigeant des deux sociétés. Je souscris aux commentaires du juge Quinn et du protonotaire Haberman suivant lesquels, dans le cas des sociétés comptant un nombre restreint d’actionnaires, les propriétaires devraient être autorisés à représenter la personne morale devant la Cour. J’accorderais aussi cette autorisation au conjoint du propriétaire, car les intérêts économiques d’une personne et de son conjoint ne seront généralement pas différents.
+[17] La juge McLachlin de la Cour suprême du Canada a déclaré ce qui suit dans l’arrêt Bracklow c. Bracklow, [1999] 1 R.C.S. 420, au paragraphe 49 :
+Comme notre Cour l’a conclu dans Moge (à la p. 870), le mariage est une « entreprise commune », une association socio‑économique.
+[18] Dans l’arrêt Moge c. Moge, [1992] 3 R.C.S. 813, la juge L’Heureux‑Dubé avait également écrit au paragraphe 44 que « le mariage est, entre autres choses, une unité économique qui engendre des avantages financiers ».
+[19] Rien dans la présente affaire n’indique que l’intérêt économique de Sachindra Jain était différent de celui de son épouse. Sachindra Jain a affirmé que son épouse était informée de la requête en l’espèce et qu’elle avait consenti à ce qu’il agisse au nom de sa société à elle. En outre, la question en litige dans le cadre de l’appel relatif à chacune des deux sociétés concerne un crédit d’impôt pour la recherche scientifique et le développement expérimental. Il ne semblerait pas logique que Sachindra Jain représente une société et que son épouse représente l’autre société, car le processus ne serait alors ni rapide ni efficient. La solution logique serait que Sachindra Jain représente les deux sociétés, puisque le point en litige est le même dans les deux cas, M. Jain possède des diplômes en physique et en génie, c’est lui qui est responsable de la recherche menée par les deux sociétés et son épouse détient la totalité des actions de l’autre société. Puisque Sachindra Jain et son épouse forment une association socio‑économique et une unité économique, il semble logique d’autoriser l’époux à représenter la société de son épouse également.
+[20] En outre, l’information financière relative aux sociétés n’est pas pertinente. Comme l’a souligné le juge Quinn, elle ne l’est pas pour des particuliers qui sont autorisés à se représenter eux‑mêmes sans avocat. Si Sachindra Jain avait exploité son entreprise en tant que propriétaire unique, il aurait pu se représenter sans avoir à donner de renseignements sur sa situation financière. Pourquoi ces renseignements seraient‑ils pertinents dans le cas de sociétés comptant un nombre restreint d’actionnaires qui seront représentées par leurs propriétaires?
+[21] Par conséquent, les requêtes sont accueillies, et Sachindra Jain est autorisé à représenter Soneil International Limited et Soneil Usha Inc. dans le cadre des présents appels. Étant donné que les appelantes n’ont pas réclamé de dépens à l’égard des présentes requêtes, aucuns dépens ne seront adjugés (Canada (Procureur général) c. Pascal, 2005 CAF 31).
+[22] L’intimée dispose de 60 jours à compter de la date de la présente ordonnance pour déposer une réponse.
+Signé à Halifax (Nouvelle‑Écosse), ce 17e jour de mars 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 30e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI148
+NOS DES DOSSIERS
+DE LA COUR : 2007-4786(IT)G et 2007-4787(IT)G
+INTITULÉ : Soneil International Limited et La Reine et Soneil Usha Inc. et La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 mars 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE
+ET DES MOTIFS DE
+L’ORDONNANCE : Le 17 mars 2008
+COMPARUTIONS :
+Représentante de l’appelante :
+Sachindra Jain
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

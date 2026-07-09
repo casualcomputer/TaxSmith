@@ -1,0 +1,381 @@
+---
+title: "Laframboise v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27371/index.do"
+last_modified: "2004-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 639"
+citation2: ""
+neutral_citation: "2004 TCC 639"
+decision_date: "2004-09-17"
+language: "en"
+item_id: "27371"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 142
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:01:51.123000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91167575b837898016d840f0de785158f6dd793dbb2b374831353c5b389d18ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laframboise v. The Queen
+
+- Citation: 2004 TCC 639
+- Decision date: 2004-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 142, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laframboise v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-17
+Neutral citation
+2004 TCC 639
+File numbers
+2003-2652(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2652(IT)I
+BETWEEN:
+JOCELYNE LAFRAMBOISE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 2, 2004, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marlyse Dumel
+ORDER
+Judgment in the present case is suspended until new calculations are made by the Minister of National Revenue to determine whether it is more advantageous to the appellant to apply the alternative methodology provided by sections 110.2 and 120.31 of the Income Tax Act for computing tax on the qualifying retroactive lump-sum payment to the net amount of that payment as established in the Drafted Reasons for Judgment. If the new calculations reveal that it is, the appeal will be allowed accordingly. If not, the appeal will simply be dismissed.
+The Minister will have one month from the present order to comply herewith and the appellant may provide comments within 15 days afterwards if necessary.
+Signed at Ottawa, Canada, this 17th day of September 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC639
+Date: 20040917
+Docket: 2003-2652(IT)I
+BETWEEN:
+JOCELYNE LAFRAMBOISE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+DRAFTED REASONS FOR JUDGMENT
+Lamarre, J.
+[1] This is an appeal under the informal procedure against an assessment made by the Minister of National Revenue ("Minister") for the appellant's 2000 taxation year. The appeal concerns the application of sections 110.2 and 120.31 of the Income Tax Act ("Act"), which sections provide a special tax calculation that may benefit a taxpayer who is in receipt of a qualifying retroactive lump-sum payment ("QRLSP"). In the present case, the Minister considered the application of those sections of the Act and determined that the special tax calculation was not beneficial to the appellant. The Minister therefore included the totality of the lump-sum amount of $60,426, of which $56,378 was applicable to the 1995 to 1999 taxation years, received by the appellant from Public Works and Government Services Canada, Superannuation Directorate ("Superannuation") in the 2000 taxation year in her income for that year pursuant to paragraph 56(1)(a) of the Act.
+[2] The appellant argues that the calculation of the notional tax on the QRLSP pursuant to sections 110.2 and 120.31 of the Act was not done correctly by the Minister. She is of the view that none of the QRLSP should be taxable in 2000 since the total lump-sum amount received by her had to be reimbursed to Sunlife Financial ("Sunlife") as she was in receipt of an overpayment of $64,571 from them. As a matter of fact, she reimbursed an amount of $34,817 in 2000, of which $26,743 was applied by Sunlife to the wage loss replacement overpayment of previous years. She also reimbursed an amount of $20,000 in 2001. After 2001, she still owed $9,754.
+Facts
+[3] The respondent summarized the facts at paragraphs 3 to 14 of the Respondent's Written Submissions, and the appellant, in paragraph 3 of the Appellant's Written Submissions, agreed with that summary.
+[4] The facts as summarized by the respondent are reproduced below:
+FACTS
+Background
+3. The Appellant was in receipt of Wage Loss Replacement Benefits from Sunlife Financial ( « Sunlife » ) as a result of an illness.
+4. The Appellant was required by Sunlife to establish her right to benefits from Public Works and Government Services Canada, Superannuation directorate. ( « Superannuation » ).
+Lump-sum Payment from Superannuation
+5. The Appellant was successful in establishing a right to benefits from Superannuation and received in the 2000 taxation year, gross benefits in the amount of $65,459.20; $60,426.10 represented a retroactive lump-sum payment of which the amount of $56,378.63 was applicable to the 1995 to 1999 taxation years.
+6. The lump-sum payment referred to in paragraph 6 [sic] represented payments applicable to the 1995 to 2000 taxation years as follows:
+Year
+Amount
+1995
+$ 9,866
+1996
+$11,242
+1997
+$11,574
+1998
+$11,794
+1999
+$11,901
+2000
+$ 4,049
+Total:
+$60,426
+7. The Appellant received a cheque dated July 25, 2000 from Superannuation in the amount of $34,817.21, which was the net amount of the lump-sum payment of $60,426.10 as a sum of $25,608.89 was withheld for income tax.
+Disability Insurance Plan Benefits from Sunlife
+8. Following the receipt of the benefits from Superannuation, Sunlife advised the Appellant in a letter dated September 21, 2000 that she was entitled to wage loss replacement benefits in the amount of $101,717.83 for the period of January 20, 1995 to August 31, 2000. However, wage loss replacement benefits in the amount of $166,289.59 had previously been paid to the Appellant, which resulted in an overpayment. As such, the Appellant was required to reimburse to Sunlife an amount of $64,571.76.
+9. The Appellant repaid Sunlife in part, with a cheque dated August 14, 2000 in the amount of $34,817.21 to be applied to her outstanding debt, thereby reducing the amount owed to $29,754.55.
+10. The refund in the amount of $34,817.21 was applied by Sunlife as follows:
+• $26,743.00 was applied to the wage loss replacement overpayment of previous years.
+• $8,074.00 was applied to the wage loss replacement overpayment occurring in the 2000 taxation year.
+11. Sunlife issued a T4 in the amount of $18,617.00 to the Appellant for the 2000 taxation year. This amount represented the difference between the amount of $26,691.00 received by the Appellant in the 2000 taxation year and the amount of $8,074.00 reimbursed to Sunlife for the 2000 taxation year.
+Tax Calculation
+12. The Appellant's basic federal tax for the 2000 taxation year using the special tax calculation (pursuant to sections 110.2 and 120.31) was $16,016.57, whereas the basic federal tax using the regular calculation was $13,324.83. Accordingly the Minister of National Revenue did not assess the Appellant using the special tax calculation.
+13. For the Appellant's 2000 taxation year, the Minister allowed a deduction in the amount of $26,743.00, which represented the amount the Appellant reimbursed to Sunlife in the 2000 taxation year.
+14. For the 2001 taxation year, the Minister allowed a deduction in the amount of $20,000, which represented the amount the Appellant, reimbursed to Sunlife in the 2001 taxation year.
+[5] For a better understanding of the situation, I reproduce hereunder the tax calculations done by the Canada Customs and Revenue Agency ("CCRA") with respect to the QRLSP as they appear in Exhibit A-2:
+Tax calculations for qualifying retroactive lump-sum payment (QRLSP)
+Year
+Taxable income
+($ dollars only)
+Payment allocation reported
+($ dollars only)
+Allocation allowed
+($ dollars only)
+Tax difference
+($)
+Deemed tax [interest]
+($)
+2000
+--
+4,047
+4,049
+--
+--
+1999
+30,455
+11,901*
+11,901
+3,094.26
+--
+1998
+28,367
+11,794*
+11,794
+2,956.07
+142.20
+1997
+24,119
+11,574*
+11,574
+2,516.55
+312.28
+1996
+34,725
+11,242*
+11,242
+2,922.92
+562.91
+1995
+28,059
+9,866*
+9,866
+2,427.07
+669.28
+[$60,424]**
+Total
+$13,916.87
+$1,686.67
+Your QRLSP tax adjustment is the total of the tax difference and deemed tax amounts for the above years: $15,603.54
+Your 2000 basic federal tax using the special tax calculation:
+Taxable income including the total lump-sum payment . . . . .
+[which is the net income after deduction of salary reimbursement pursuant to paragraph 8(1)(n) of the Act]***
+$67,736.***
+Less: Part of the lump-sum payment allocated to previous years
+[deduction under subsection 110.2(2) of the Act]
+56,377.*
+Reduced taxable income . . . . . . . . . . . . . . . . . . . . . . . . . .
+$11,359.
+Tax calculated on the reduced taxable income . . . . . . . . . . . .
+$413.03
+Add: QRLSP tax adjustment . . . . . . . . . . . . . . . . . . . . . . .
+$15,603.54
+2000 basic federal tax . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+$16,016.57(A)
+Your 2000 basic federal tax using the regular calculation:
+Taxable income including the total lump-sum payment . . .
+$67,736.***
+2000 basic federal tax . . . . . . . . . . . . . . . . . . . . . . . . .
+$13,324.83(B)***
+* The total for 1995 to 1999 is $56,377
+** $60,424 is the gross amount of the retroactive lump-sum payment
+*** See statement of income and deductions below
+STATEMENT OF INCOME AND DEDUCTIONS
+FOR THE TAXATION YEAR 2000
+104
+[Net income received from Sunlife in 2000]
+18,617
+233
+TOTAL DEDS
+27,076
+115
+OTHER PEN [including lump-sum payment of $60,424]
+65,459
+236
+NET INCOME
+67,736
+121
+INTEREST
+151
+---
+NADJNETINC
+38,100
+130
+OTHER INC
+10
+---
+TX INC CALC
+67,736
+162
+GRS BUS IN
+18,394
+266
+FGN-PROP-CD
+2
+135
+NET BUS IN
+10,575
+420
+NET FED TAX
+13,324.40
+150
+TOT INCOME
+38,433
+94,812
+421
+CPP PAY
+551.87
+208
+RRSP
+333
+---
+NET PRO TAX
+5,621.80
+229
+[Deduction of amount reimbursed in 2000 to Sunlife, pursuant to paragraph 8(1)(n) of the Act]
+26,743
+435
+TOT PAYABLE
+19,498.07
+Issue
+[6] The issue before this Court is whether the Minister correctly calculated the appellant's basic federal tax for the 2000 taxation year using the special tax calculation in sections 110.2 and 120.31 of the Act to arrive at an amount of tax of $16,016.57, as stated in paragraph 12 of the Respondent's Written Submissions and as explicitly shown in the tax calculations reproduced above (see Exhibit A-2, Figure A). In doing the calculation, the Minister determined that the QRLSP was the gross amount received by the appellant in 2000 that was applicable to the prior years, namely, $56,377. The appellant is of the view that the QRLSP should be the net amount, that is, the gross amount less the amount that had to be reimbursed by her to Sunlife. If the QRLSP is the net amount, the federal tax should be lower than the result obtained by the Minister. In the appellant's view, she should not be taxed on the QRLSP because in the end she will have to reimburse it in full.
+Analysis
+[7] As the respondent stated in paragraphs 16 to 19 of her written submissions:
+16. A lump sum payment of superannuation or pension benefit must, as a general rule, be included in a taxpayer's income in the year in which it is received as provided in paragraph 56(1)(a)(i) of the ITA.
+17. There is however a mechanism in the ITA, set out in sections 110.2 and 120.31, that provides for the calculation of a "notional tax payable" to compute the tax on the lump sum payments relating to previous tax years.
+18. The purpose of the notional tax payable calculation is to allow a taxpayer to be taxed on income in the year it relates to if this is beneficial to the taxpayer. Although the calculation considers the tax that would be payable in the previous years if the portion of the lump sum payment that relates to previous years had been added to the taxable income of the individual in those previous years, the actual tax is assessed in the year of receipt of the lump sum payment.
+19. The notional tax payable is calculated for each taxation year to which a specified portion of a qualifying amount received by the individual relates. This notional tax payable is comprised of a component representing the tax that would have been payable for that year if the relevant income had been received and taxed in the eligible taxation year and a component representing notional interest calculated on that additional tax.
+[8] Furthermore, salary reimbursements are deductible by the taxpayer in the year in which the reimbursement occurs, as provided in paragraph 8(1)(n) of the Act.
+[9] It is important at this stage to reproduce the relevant sections of the Act referred to above.
+Deductions
+SECTION 8: Deductions allowed.
+(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+4 8(1)(n) 3
+(n) Salary reimbursement - an amount paid by or on behalf of the taxpayer in the year pursuant to an arrangement (other than an arrangement described in subparagraph (b)(ii) of the definition "top-up disability payment" in subsection 6(17)) under which the taxpayer is required to reimburse any amount paid to the taxpayer for a period throughout which the taxpayer did not perform the duties of the office or employment, to the extent that
+(i) the amount so paid to the taxpayer for the period was included in computing the taxpayer's income from an office or employment, and
+(ii) the total of amounts so reimbursed does not exceed the total of amounts received by the taxpayer for the period throughout which the taxpayer did not perform the duties of the office or employment;
+SECTION 56: Amounts to be included in income for year.
+(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+4 56(1)(a) 3
+(a) Pension benefits, unemployment insurance benefits, etc. - any amount received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of,
+(i) a superannuation or pension benefit . . .
+Lump-sum Payments
+SECTION 110.2: Definitions.
+(1) The definitions in this subsection apply in this section and section 120.31.
+"eligible taxation year" - "eligible taxation year" in respect of a qualifying amount received by an individual, means a taxation year
+(a) that ended after 1977 and before the year in which the individual received the qualifying amount;
+(b) throughout which the individual was resident in Canada;
+(c) that did not end in a calendar year in which the individual became a bankrupt; and
+(d) that was not included in an averaging period, within the meaning assigned by section 119 (as it read in its application to the 1987 taxation year), pursuant to an election that was made and not revoked by the individual under that section.
+"qualifying amount" - "qualifying amount" received by an individual in a taxation year means an amount (other than the portion of the amount that can reasonably be considered to be received as, on account of, in lieu of payment of or in satisfaction of, interest) that is included in computing the individual's income for the year and is
+. . .
+(b) a superannuation or pension benefit (other than a benefit referred to in clause 56(1)(a)(i)(B)) received on account of, in lieu of payment of or in satisfaction of, a series of periodic payments (other than payments that would have otherwise been made in the year or in a subsequent taxation year),
+. . .
+except to the extent that the individual may deduct for the year an amount under paragraph 8(1)(b), (n) or (n.1), 60(n) or (o.1) or 110(1)(f) in respect of the amount so included.
+"specified portion" - "specified portion", in relation to an eligible taxation year, of a qualifying amount received by an individual means the portion of the qualifying amount that relates to the year, to the extent that the individual's eligibility to receive the portion existed in the year.
+4 110.2(2) 3
+(2) Deduction for lump-sum payments. There may be deducted in computing the taxable income of an individual (other than a trust) for a particular taxation year the total of all amounts each of which is a specified portion of a qualifying amount received by the individual in the particular year, if that total is $3,000 or more.
+Lump-sum Payments
+SECTION 120.31: Definitions.
+(1) The definitions in subsection 110.2(1) apply in this section.
+4 120.31(2) 3
+(2) Addition to tax payable. There shall be added in computing an individual's tax payable under this Part for a particular taxation year the total of all amounts each of which is the amount, if any, by which
+(a) the individual's notional tax payable for an eligible taxation year to which a specified portion of a qualifying amount received by the individual relates and in respect of which an amount is deducted under section 110.2 in computing the individual's taxable income for the particular year
+exceeds
+(b) the individual's tax payable under this Part for the eligible taxation year.
+4 120.31(3) 3
+(3) Notional tax payable. For the purpose of subsection (2), an individual's notional tax payable for an eligible taxation year, calculated for the purpose of computing the individual's tax payable under this Part for a taxation year (in this subsection referred to as "the year of receipt") in which the individual received a qualifying amount, is the total of
+(a) the amount, if any, by which
+(i) the amount that would be the individual's tax payable under this Part for the eligible taxation year if the total of all amounts, each of which is the specified portion, in relation to the eligible taxation year, of a qualifying amount received by the individual before the end of the year of receipt, were added in computing the individual's taxable income for the eligible taxation year
+exceeds
+(ii) the total of all amounts each of which is an amount, in respect of a qualifying amount received by the individual before the year of receipt, that was included because of this paragraph in computing the individual's notional tax payable under this Part for the eligible taxation year, and
+(b) where the eligible taxation year ended before the taxation year preceding the year of receipt, an amount equal to the amount that would be calculated as interest payable on the amount determined under paragraph (a) if it were so calculated
+(i) for the period that began on May 1 of the year following the eligible taxation year and that ended immediately before the year of receipt, and
+(ii) at the prescribed rate that is applicable for the purpose of subsection 164(3) with respect to the period.
+[10] The mechanism found in sections 110.2 and 120.31, specifically the determination of "notional tax payable", is intended to create, in the context of providing relief to taxpayers, a situation reflecting as accurately as possible the situation that would have existed if the lump-sum payment had actually been received over a number of years. The issue is whether using for allocation purposes a net figure calculated as the "qualifying amount" would further the attainment of this goal, and if so, whether the Act authorizes the use of a net figure.
+[11] There is no indication that a lump-sum payment must be allocated on a gross basis. The Budget Plan 1999, which introduced sections 110.2 and 120.31, states at page 202:
+In recomputing the notional tax liability for prior years, no adjustments will be made to the income tax returns for those years. That is, individuals will not be able to modify items such as RRSP contributions and tax credits. Similarly, the government will not recapture income-tested benefits paid in prior years. Any reduction in federal tax through this measure will also have the effect of reducing provincial tax liability in those provinces that are part of the tax collection agreements. . . . These changes do not affect the current provisions applying to retroactive lump-sum CPP/QPP benefits.
+The above statement does not preclude the use of a net lump-sum payment figure.
+[12] To discover the intent behind sections 110.2 and 120.31, one may resort to "February 16, 1999 - Federal Budget, Canada Tax Service - Stikeman Analysis":
+The Budget proposes to introduce an interesting, if complex, concessionary regime for the computation of income tax on certain retroactive lump-sum payments to individuals (other than trusts). Under this regime, taxpayers will have the choice of paying tax on "qualifying retroactive lump-sum payments" not at the rate otherwise applicable in the year of actual receipt, but rather at a lower rate that would have been applicable if the amount in question had instead been received in the earlier year or years to which the amount relates and throughout which the taxpayer was resident in Canada. . . .
+The intent is to compensate individuals for the penalizing effects of the graduated rates of taxation stipulated in the Income Tax Act. . . .
+In some respects, it is not entirely clear how the new system will operate. The exclusion of "non-periodic" pension plan payments, in particular, deserves clarification. Does this exclusion mean, for example, that a distribution of pension surplus would not qualify for the more favourable treatment? More generally, on what basis will it be determined to which year(s) a given amount relates?
+In keeping with the concessionary nature of this change, any increase in income resulting from the new regime will have no negative impact on an individual's position for the prior year or years in question. For example, the government will not claw back means-tested benefits, such as the Child Tax Benefit or Guaranteed Income Supplement, previously paid to that individual. On the other hand, prior year RRSP contributions will not be adjusted in computing the tax payable for that prior year. The Budget materials are silent on the impact, if any, this change will have on the calculation of alternative minimum tax.
+In a tacit admission of the complexity the requisite computations will undoubtedly engender, the Budget papers specify that taxpayers will be entitled to request Revenue Canada to determine whether the alternative methodology is advantageous to them in any particular circumstance. The calculation will require a determination of the tax that would have been payable in the prior year(s) and the interest that would have accrued at the prescribed rate (for tax refunds) on such tax. Consequently, the reduction in tax allowed to the taxpayer will itself be reduced to reflect the notionally delayed payment.
+[13] From this, it can be taken that the scheme contemplated by Parliament was not comprehensive. Thus, the use of a net QRLSP figure is not necessarily forbidden. Furthermore, it can be argued that using a net figure would advance Parliament's intention of lessening the impact of graduated rates of taxation on lump-sum payments.
+[14] The above having been provided in the way of background, the relevant provisions of the Act must now be examined. The definition of "qualifying amount" may be distilled to read as follows: a superannuation benefit received by an individual in a taxation year that is included in computing the individual's income for the year, except to the extent that the individual may deduct for the year an amount under paragraph 8(1)(n) in respect of the amount so included.
+[15] In this context, the words "in respect of" must be considered. This phrase has been judicially considered many times, in particular by the Supreme Court of Canada in its recent decision Markevich v. Canada, [2003] 1 S.C.R. 94, 2003 DTC 5185. Major J. stated at paragraph 26:
+The appellant's submission turns on whether these proceedings are undertaken "in respect of a cause of action". The words "in respect of" have been held by this Court to be words of the broadest scope that convey some link between two subject matters. See Nowegijick v. The Queen, [1983] 1 S.C.R. 29, at p. 39, per Dickson J. (as he then was):
+The words "in respect of" are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.
+In the context of s. 32, the words "in respect of" require only that the relevant proceedings have some connection to a cause of action.
+[16] One must also consider the definition of "specified portion", which can be distilled to read: the portion of the qualifying amount received by an individual that the individual was entitled to receive in the eligible taxation year. Essentially, the definition of "specified portion" permits the allocation of a qualifying amount over a number of years: the qualifying amount is broken up into parts and allocated accordingly.
+[17] Reading the definitions of "qualifying amount" and "specified portion" conjunctively, I find that it could very well be argued that a qualifying amount is a net figure. Although there is no explicit authority for the proposition that a reimbursement can be allocated to previous years, the fact that paragraph 8(1)(n) of the Act is incorporated in the definition of "qualifying amount" presupposes, in my view, that, for the purpose of determining the lump-sum payment amount to be allocated, the reimbursement may be deducted in the year it was made. Indeed, the definition of "qualifying amount" specifically states that a superannuation benefit, among other things, received in a year is a qualifying amount except to the extent that a deduction is taken under paragraph 8(1)(n) in respect of that amount. When that definition is applied to the instant case, the qualifying amount is the portion of the superannuation benefit received by the appellant in 2000 that is included in her income for that year and that relates to previous years ($56,377), except to the extent that she may deduct for 2000 an amount under paragraph 8(1)(n), among other provisions, in respect of the superannuation benefit so included ($26,743). The qualifying amount is therefore the difference, which is $29,634.
+[18] The deduction is thus not being carried back to make adjustments to the income tax returns for the previous years but is being used in the year the reimbursement was made for the purpose of determining the lump-sum payment amount to be allocated. It is my opinion that, for this limited purpose, it does not seem inconsistent with the Act to permit the deduction to have an impact on taxation years other than the taxation year in which the reimbursement was made.
+[19] With respect to the request of the appellant to be allowed to deduct the entire amount owed by her to Sunlife, even though only a part had been repaid in 2000, the respondent is correct in asserting that amounts owing but not paid ought not to be factored into the notional tax payable calculation. Indeed, as explained above, the definition of "qualifying amount" in subsection 110.2(1) of the Act includes, in particular, all amounts received from Superannuation, except to the extent that a related amount may be deducted under, among other provisions, paragraph 8(1)(n). Thus, it is a net figure that will be allocated to the "eligible taxation years", but paragraph 8(1)(n) of the Act clearly applies only to "an amount paid" where that amount is a reimbursement. Since paragraph 8(1)(n) is incorporated in the definition of "qualifying amount", it is reasonable to conclude that only amounts that are actually paid will be factored into the notional tax payable calculation.
+[20] Having reached that conclusion, I am not sure, however, that the use of a net amount will yield a better tax result for the appellant. Indeed, if we use the net amount as the qualifying amount that will be allocated to the eligible taxation years, the same figure must also be used as a deduction from taxable income in the year of receipt of the QRLSP. As a result, although the tax on the QRLSP may be lower, the tax on the reduced taxable income for the year of receipt will be higher. Coming back to the calculations made by the Minister in Exhibit A-2 and referred to above, we see that if we determine the QRLSP to be the net amount ($29,634) instead of the gross amount ($56,377), the tax adjustments with respect to the QRLSP will clearly be less than $15,603. However, the taxable income for 2000 would be reduced by the net amount of $29,634 (not the gross amount of $56,377), with the result that the reduced taxable income would be $38,102 (and not the $11,359 arrived at in Exhibit A-2). As a consequence, the tax on that reduced taxable income would not be $413 but a much higher amount.
+[21] In any case, I am not in a position to determine whether the alternative method of computation will be more advantageous to the appellant if a net amount instead of a gross amount is used to establish the QRLSP. That calculation was not provided with the Respondent's Written Submissions and will have to be done by the Minister.
+[22] I therefore suspend my judgment until the Minister does new calculations bearing in mind that the QRLSP is the excess of the portion of the lump-sum payment received by the appellant in 2000 which is applicable to the previous years ($56,377) over the amount reimbursed in 2000 and allocated to the previous years ($26,743). The new calculations will therefore require a determination of the tax that would have been payable in the prior years (and of the interest that would have accrued) on a net total amount of $29,634 (and not $56,377), namely, the QRLSP, which will be reallocated to each of the affected taxation years in accordance with the figures given by Sunlife (Exhibits A-3 and R-2 enclosed herewith).
+[23] If the new calculations reveal that the alternative methodology is advantageous to the appellant, the appeal will be allowed accordingly. If it is not advantageous to the appellant, the appeal will simply be dismissed.
+Signed at Ottawa, Canada, this 17th day of September 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC639
+COURT FILE NO.:
+2003-2652(IT)I
+STYLE OF CAUSE:
+Jocelyne Laframboise v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+March 2, 2004
+WRITTEN SUBMISSIONS BY THE RESPONDENT RECEIVED:
+March 31, 2004
+WRITTEN SUBMISSIONS BY THE APPELLANT RECEIVED:
+May 3, 2004
+RESPONDENT ADVISED THAT NO RESPONSE WOULD BE PROVIDED:
+May 18, 2004
+DRAFTED REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF ORDER:
+September 17, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marlyse Dumel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

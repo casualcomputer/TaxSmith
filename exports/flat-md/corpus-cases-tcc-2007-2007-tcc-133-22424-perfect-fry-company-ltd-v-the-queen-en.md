@@ -1,0 +1,434 @@
+---
+title: "Perfect Fry Company Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22424/index.do"
+last_modified: "2007-03-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 133"
+citation2: ""
+neutral_citation: "2007 TCC 133"
+decision_date: "2007-03-06"
+language: "en"
+item_id: "22424"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2251
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:20:25.542000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a93e4adf5599cbf759b079b8fe4d1d69724bcd588438953726342e8891ae721"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perfect Fry Company Ltd. v. The Queen
+
+- Citation: 2007 TCC 133
+- Decision date: 2007-03-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2251, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perfect Fry Company Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-06
+Neutral citation
+2007 TCC 133
+File numbers
+2004-3629(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3629(IT)G
+BETWEEN:
+PERFECT FRY COMPANY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 20, 2006, at Vancouver, British Columbia
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Edwin G. Kroft
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+The appeals from the determination made under the Income Tax Act for the 1993, 1994, 1995, 1996, 1997 and 1998 taxation years are allowed, with costs, and the determination is referred back to the Minister of National Revenue for reconsideration and redetermination in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of March 2007.
+"B. Paris"
+Paris J.
+Citation: 2007TCC133
+Date: 20070306
+Docket: 2004-3629(IT)G
+BETWEEN:
+PERFECT FRY COMPANY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+ParisJ.
+[1] This is an appeal from a determination by the Minister of National Revenue that the Appellant was not entitled to refundable investment tax credits (ITCs) for its 1993 to 1995 taxation years, to the small business deduction for its 1995 taxation year and to additional and refundable ITCs for its 1996 to 1998 taxation years.
+Background
+[2] Under subsection 127(5) of the Income Tax Act (Act)[1], a taxpayer who has made qualifying expenditures on scientific research and experimental development (SRED) is entitled to certain investment tax credits (ITCs). These are applied against tax owing for the year. If no tax is owing for the year, ITCs may be carried forward and back to be applied against tax owing in other years.
+[3] If the taxpayer is a "Canadian-controlled private corporation" (CCPC) it may be entitled to additional ITCs under subsection 127(10.1) and to refundable ITCs under subsection 127.1(1)[2]. Unlike ordinary ITCs, refundable ITCs give rise to a refund of tax in years where a taxpayer has no tax payable. "Canadian-controlled private corporation" is a defined term in the Act.
+[4] In this case, the Appellant made expenditures on SRED and claimed ITCs in each of the years in issue but did not claim additional or refundable ITCs because it did not believe it qualified as a CCPC. The ITCs that it did claim were allowed by the Minister.
+[5] In 2001, the Appellant sought to claim additional and refundable ITCs for the years in issue on the grounds that it was, in fact, a CCPC during those years. The Appellant based its position on the decision of the Federal Court of Appeal in Parthenon Investments Ltd. v. M.N.R,[3] which will be discussed later in these reasons. For 1995, the Appellant also claimed the small business deduction which was available to CCPCs.
+[6] For the Appellant's 1993, 1994 and 1995 taxation years, the Minister agreed that the Appellant was a CCPC and allowed it additional ITCs. However, the Minister refused to allow any refundable ITCs for those years on the basis that the Appellant had not filed certain required forms in time and on the basis that refunding the ITCs was precluded because those years were statute-barred. The Minister also refused the small business deduction for 1995, apparently through an oversight since he agreed that the Appellant was a CCPC for 1993 to 1995.
+[7] For the Appellant's 1996, 1997 and 1998 taxation years the Minister refused to allow any additional ITCs or refundable ITCs on the basis that the Appellant was not a CCPC and on the basis that it had not filed certain required forms on time for those years. For the 1996 taxation year, the Minister also held (as he did for the 1993 to 1995 taxation years) that no refund of ITCs could be paid because that year was statute-barred.
+Issues
+[8] At the hearing of the appeal counsel for the Respondent conceded that the Appellant was entitled to a small business deduction in the amount of $22,041 for 1995.
+[9] Counsel for the Respondent also conceded that, for all the years under appeal, the Appellant filed the forms prescribed by subsection 127.1(1) for claiming refundable ITCs and that those forms were filed within the time period set out in the Act.
+[10] The issues under appeal are therefore:
+1) whether the Appellant is entitled to refundable investment tax credits for its 1993 to 1995 taxation years; and
+2) whether the Appellant is entitled to additional and refundable investment tax credits for its 1996 to 1998 taxation years.
+Facts
+[11] The facts in this case are not in dispute. The parties filed an Agreed Statement of Facts, the relevant parts of which read as follows:[4]
+1. The Appellant carried on scientific research and experimental development activities ("SRED") throughout its taxation years ended October 31, 1993 to October 31, 1998 inclusive.
+2. Throughout each of the relevant taxation years, the Appellant:
+(a) was a corporation resident in Canada;
+(b) was wholly owned and directly controlled (de jure) by Perfect Fry Corporation, a public corporation, the shares of which were listed on a prescribed stock exchange in Canada; and
+(c) was indirectly and ultimately controlled de jure by a group of Canadian resident individuals who acted in concert and who, in the aggregate, owned more than 50% of the shares of Perfect Fry Corporation.
+3. Throughout each of its 1993 to 1995 taxation years, the Appellant was a "Canadian-controlled private corporation" (a "CCPC"), as defined in subsection 125(7) of the Income Tax Act and a "qualifying corporation" as defined in paragraph (a) of the definition of that term in subsection 127.1(2) of the Act.
+. . .
+5. During the relevant taxation years, the Appellant incurred SRED expenditures (the "Expenditures"), which entitled the Appellant to claim investment tax credits ("ITCs") in respect of such Expenditures pursuant to subsection 127(5) of the Act.
+6. The Appellant claimed these ITCs in its tax returns originally filed for the Relevant Taxation Years.
+7. The Original Return for each of the relevant taxation years was filed within three years from the end of such taxation year.
+. . .
+10. In none of the Original Returns did the Appellant make a claim for:
+(a) any ITCs at the enhanced rate provided for under subsection 127(10.1) of the Act ("Additional ITCs"); or
+(b) any refundable investment tax credits, as provided for under section 127.1 of the Act ("Refundable ITCs").
+11. In a letter dated August 9, 2001, the accountants for the Appellant:
+(a) advised the CRA that, based on then recent jurisprudence, the Appellant qualified as a CCPC throughout each of the relevant taxation years; and
+(b) requested, on behalf of the Appellant, that the Original Filings accordingly be corrected to reflect the Appellant's entitlement to:
+(i) Additional ITCs of $102,084 for the relevant taxation years;
+(ii) Refundable Investment Tax Credits of $220,245 for the relevant taxation years; and
+(iii) a $22,041 small business deduction for the 1995 taxation year (the only relevant taxation year in which the Appellant had taxable income), in accordance with subsection 125(1) of the Act.
+. . .
+13. To be entitled to claim Refundable ITCs in respect of SRED expenditures in a particular taxation year, a taxpayer must, in accordance with subsection 127.1(1) of the Act, file with its tax return for that year, or with a prescribed form amending that tax return and a prescribed form containing prescribed information. Notwithstanding the foregoing, there is in fact no Prescribed Amending Form or Prescribed Information Form provided for under the Act or the Regulations thereto.
+14. Accordingly, the Appellant, in requesting the Refundable ITCs referred to in paragraph 11 above, satisfied the requirements of subsection 127.1(1) by submitting:
+(a) the letter, as the Prescribed Amending Form for the Original Returns; and
+(b) the amended forms T2038, as the relevant Prescribed Information Forms.
+. . .
+15. The ITCs claimed by the Appellant in the Original Return for each of the relevant taxation years, and the Additional ITCs and Refundable ITCs claimed by the Appellant in the letter and the amended forms T2038 in respect of each such year, are summarized in the following chart (the "ITC Chart"):
+Taxation
+year
+ITCs per
+Original
+Returns
+(A)
+Additional ITCs
+Claimed
+(B)
+Total ITCs
+Claimed
+(A + B)
+(C)
+Refundable ITCs Claimed
+(D)
+1993
+$12,462
+$9,347
+$21,809
+$21,809
+1994
+12,115
+9,087
+21,202
+21,202
+1995
+12,968
+9,727
+22,695
+4,747
+1996
+14,264
+10,698
+24,962
+24,962
+1997
+58,650
+43,988
+102,638
+102,638
+1998
+25,650
+19,237
+44,887
+44,887
+Total
+$136,109
+$102,084
+$238,193
+$220,245
+16. In response to the Appellant's subsection 127.1(1) request, the CRA issued a Notice of Determination, dated December 12, 2002, pursuant to which the CRA determined the amount of the Appellant's Refundable ITCs for each of the relevant taxation years to be nil.
+17. The Appellant, in response to the Notice of Determination, duly and in timely fashion filed a Notice of Objection, dated March 12, 2003, for each of the taxation years in issue.
+18. The Appellant received notices of reassessment, each dated June 11, 2004, in respect of its 1993, 1994 and 1995 Notices of Objection. These notices of reassessment:
+(a) respectively increased the Appellant's ITC pool balances for its 1993, 1994 and 1995 taxation years by the $9,347, $9,087, and $9,727 of additional ITCs (shown in column B of the ITC Chart) claimed by the Appellant; and
+(b) disallowed the Refundable ITCs claimed by the Appellant (as shown in column D of the ITC Chart) for those years.
+19. The Appellant received notifications of confirmation, each dated June 11, 2004, in respect of its 1996, 1997 and 1998 Notices of Objection, which confirmed the disallowance of the additional ITCs for 1996, 1997 and 1998 set out in the Notice of Determination in respect of those taxation years.
+20. The following table contains certain dates relevant to this appeal:
+Year Ended
+Date Returns Filed
+Date of Mailing of Notice of Assessment
+Expiry of Normal Reassessment Period
+October 31, 1993
+May 9, 1994
+July 14, 1994
+July 14, 1997
+October 31, 1994
+June 13, 1995
+October 2, 1995
+October 2, 1998
+October 31, 1995
+June 13, 1996
+July 18, 1996
+July 18, 1999
+October 31, 1996
+December 19, 1997
+January 19, 1998
+January 19, 2001 (if Appellant is CCPC)
+January 19, 2002 (if Appellant is not CCPC)
+October 31, 1997
+July 10, 1998
+November 2, 1998
+November 2, 2001 (if Appellant is CCPC)
+November 2, 2002 (if Appellant is not CCPC)
+October 31, 1998
+June 11, 1999
+July 22, 1999
+July 22, 2002 (if Appellant is CCPC)
+July 22, 2003 (if Appellant is not CCPC)
+First issue: Is the Appellant entitled to refundable ITCs for 1993, 1994 and 1995?
+Respondent's arguments
+[12] Counsel for the Respondent says that, for the 1993 to 1995 taxation years, the Appellant is only seeking an order for the payment of a refund of tax, and argues that this Court lacks jurisdiction to grant the relief sought by the Appellant because the Appellant is not challenging an underlying determination or assessment of tax, penalties or interest for those years.
+[13] Counsel refers to subsection 171(1) of the Act, which sets out the Court's powers with regard to the disposition of an appeal, and points out that they do not include the power to order the payment of a refund. Subsection171(1) of the Act reads as follows:
+171(1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+On allowing an appeal, the Court may only vacate or vary an assessment or determination, or refer it back to the Minister for reconsideration. Where no change to the underlying assessment or determination is warranted, the appeal must be dismissed.
+[14] If it is found that this Court does have jurisdiction to make an order respecting a tax refund, the Respondent argues that the Appellant is still not entitled to any refundable ITCs because the Minister has no power to refund any amounts to the Appellant under paragraph 164(1)(b) of the Act.[5] Paragraph 164(1)(b) only requires the Minister to make a refund of tax if a taxpayer applies for the refund in writing within the period that the Minister has for reassessing the taxpayer for the year. For the years in issue the relevant portions of paragraph 164(1)(b) read as follows:
+164(1) If the return of a taxpayer's income for a taxation year has been made within 3 years from the end of the year, the Minister
+. . .
+(b) shall . . . make the refund . . . after mailing the notice of assessment if application for it is made in writing by the taxpayer within the period within which the Minister would be allowed under subsection 152(4) to assess tax payable under this Part by the taxpayer for the year if that subsection were read without reference to paragraph 152(4)(a).
+[15] Counsel for the Respondent says that the period for reassessing the Appellant is found in paragraph 152(4)(c) of the Act as it read prior to 1998, which allows the Minister to reassess a taxpayer within a taxpayer's "normal reassessment period". The "normal reassessment period" for CCPCs is defined in paragraph 152(3.1)(b) as the period that ends three years after the date of mailing of a notice of original assessment of the taxpayer.
+[16] The relevant portions of paragraph 152(4) and paragraph 152(3.1)(b) read as follows:
+152(4) . . . the Minister may . . .
+...
+(c) within the normal reassessment period for the taxpayer in respect of the year, in any other case,
+Reassess or make additional assessments, or assessment tax, interest or penalties under this Part, as the circumstances require . . .
+152(3.1) For the purposes of subsections (4), (4.01), (4.2), (4.3) and (5), the normal reassessment period for a taxpayer in respect of a taxation year is
+. . .
+(b) in any other case, the period that ends 3 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year.
+[17] The Respondent refers to paragraph 20 of the Statement of Agreed Facts, which shows that the period within which the Minister could reassess the Appellant for the relevant taxation years expired before the Appellant applied for the determination. Counsel says it is clear, therefore, that the Minister is not required to refund the requested ITCs to the Appellant for the 1993 to 1996 taxation years.
+Appellant's arguments
+[18] The Appellant says that the Act does empower the Minister to pay the refund in this case because the refund arises out of a determination rather than out of an assessment. The Appellant argues that since, by virtue of subsection 152(1.2), all of the provisions in Division I of the Act that deal with assessments and reassessments and assessing and reassessing apply, with such modifications as the circumstances require, to determinations and redeterminations, the time limit for applying for a refund of tax that arises out of a determination is three years from the date of mailing of the notice of original determination rather than from the date of mailing of the notice of original assessment.
+[19] The relevant parts of subsection 152(1.2) read as follows:
+152(1.2) . . . this Division and Division J, as they relate to an assessment or a reassessment and to assessing or reassessing tax, apply, with such modifications as the circumstances require, to a determination or redetermination of an amount under this Division or an amount deemed under section 122.61 or 126.1 to be an overpayment on account of a taxpayer's liability under this Part, except that
+(a) subsections (1) and (2) do not apply to determinations made under subsections (1.1) and (1.11);
+(b) an original determination of a taxpayer's non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year may be made by the Minister only at the request of the taxpayer; and
+(c) subsection 164(4.1) does not apply to a determination made under subsection (1.4).
+[20] The Appellant says that by virtue of subsection 152(1.2), the relevant portion of paragraph 164(1)(b) would read:
+164(1) If the return of a taxpayer's income for a taxation year has been made within 3 years from the end of the year, the Minister
+. . .
+(b) shall, with all due dispatch, make the refund . . . after mailing the notice of determination if application for it is made in writing by the taxpayer within the period within which the Minister would be allowed under subsection 152(4) to redetermine an amount under this Part for the year . . .
+And the relevant portions of paragraph 152(4)(c) and paragraph 152(3.1)(b) would read:
+152(4) Subject to subsection (5), the Minister may at any time determine an amount for a taxation year . . . under this Part for a taxpayer . . . and may
+. . .
+(c) within the normal redetermination period for the taxpayer in respect of the year, . . .
+redetermine or make additional determinations, or determine an amount under this Part, as the circumstances require . . .
+152(3.1) For the purposes of subsections (4), (4.2), (4.3) and (5), the normal redetermination period for a taxpayer in respect of a taxation year is
+. . .
+(b) in any other case, the period that ends 3 years after the day of mailing of a notice of an original determination under this Part in respect of the taxpayer for the year or the day of mailing of a notification that no tax is payable by the taxpayer for the year.
+[21] Therefore, while the Appellant concedes that its 1993 to 1996 taxation years were statute-barred fromreassessment of tax at the time it requested the determination of its refundable ITCs and the resulting refunds, it contends that the mailing of the notices of original determination rather than the notices of original assessment started the clock running for requesting a refund of the refundable ITCs. The Appellant says, then, that the period for requesting a refund would not have expired until December 12, 2005, which was three years from the date of mailing of the notices of original determination.
+[22] Furthermore, the Appellant says that since there is no time limit in subsection 127.1(1) for making a claim for refundable ITCs, this would override the time limit in paragraph 164(1)(b) for applying for the payment of a refund arising from refundable ITCs.
+[23] The Appellant also argues that the refund, if ordered by the Court, would be payable under subsection 164(4.1) of the Act, which read as follows:
+164(4.1) Where the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada has, on the disposition of an appeal in respect of taxes, interest or a penalty payable under this Act by a taxpayer resident in Canada
+(a) referred an assessment back to the Minister for reconsideration and reassessment, or
+(b) varied or vacated an assessment,
+The Minister shall with all due dispatch, whether or not an appeal from the decision of the Court has been or may be instituted,
+(c) where the assessment has been referred back to the Minister, reconsider the assessment and make a reassessment in accordance with the decision of the Court, unless otherwise directed in writing by the taxpayer, and
+(d) refund any overpayment resulting from the variation, vacation or reassessment,
+. . .
+[24] Finally, it is submitted that the Court has jurisdiction over the matter because the Appellant is challenging the determination regarding the refundable ITCs as well as seeking payment of the refund of tax resulting from those ITCs.
+Analysis
+[25] I propose to deal firstly with the Respondent's argument regarding the Court's jurisdiction to deal with the Appellant's claim for the 1993 to 1995 taxation years.
+[26] It is well established that this Court's jurisdiction to decide appeals from an assessment of tax, interest or penalties and appeals from determinations of amounts under Division I of the Act[6] does extend to matters involving the calculation or payment of refunds of tax.[7]
+[27] However, in my view, the Appellant is not simply requesting a refund of tax for the 1993 to 1995 taxation years. There are, in fact, two matters in issue for those years.
+[28] The first matter in issue is the Appellant's entitlement to the refundable ITCs under subsection 127.l(1).
+[29] Under subsection 127.1(1) refundable ITCs are deemed to be an amount paid by a taxpayer on account of its tax payable under Part I of the Act. In order to obtain the refundable ITCs, a taxpayer is required to file a prescribed form containing prescribed information with its return of income or with a prescribed form amending its return.
+[30] Once a taxpayer has filed this prescribed information, the Minister is then required, under paragraph 152(1)(b) of the Act, to "determine the amount of tax", if any, deemed by subsection 127.1(1) to be paid on account of the taxpayer's tax payable under this Part I for the year.
+[31] A taxpayer has by virtue of sections 165 and 169 as modified in accordance with subsection 152(1.2), the right to object to and appeal from a determination made under paragraph 152(1)(b).
+[32] For all of the years in issue, including 1993 to 1995, the Minister determined under subsection 152(1)(b) that there was no amount deemed by subsection 127.1(1) to have been paid on account of the Appellant's tax, as the Appellant had not filed the forms required by subsection 127.1(1) on time. The Appellant challenges that determination in these proceedings.
+[33] It cannot be disputed that this Court has jurisdiction with respect to the first matter.
+[34] The second matter in issue concerns the obligation on the Minister under paragraph 164(1)(b) to pay a refund that would result from the deemed payment of tax under subsection 127.1(1).
+[35] As indicated earlier in these reasons, this Court has no jurisdiction to order the Minister to pay a refund under paragraph 164(1)(b).
+[36] However, where an appeal of an assessment or determination results either in a referral of the assessment or determination back to the Minister by the Court, under subsection 171(1) of the Act, for reconsideration and reassessment or redetermination, or in its being varied or vacated, the Minister's obligation with respect to refunds arises under subsection 164(4.1).
+[37] Therefore (although I have no power to make an order for a refund) given that the Appellant in this case is entitled to succeed on the first issue on the basis of the concession made by the Minister and is entitled to refundable ITCs for 1993 to 1996, the determination under appeal must be referred back to the Minister for redetermination. There should be no reason why paragraph 164(1)(b) would prevent the refund that would be consequent on the redetermination from being paid.
+[38] Such was the view expressed by Bowman, A.C.J. (as he then was) in Datacalc Research Corp. v. The Queen.[8] In that case the Appellant filed its return for its 1986 taxation year in 1999 and claimed certain ITCs. One argument raised by the Respondent therein was that the Minister had no obligation under subsection 164(1) to refund any ITCs to the Appellant because the conditions in subsection 164(4) were not met. The Court concluded that:
+Subsection 164(1) has nothing to do with this court's duties on an appeal from an assessment or a determination in which it must consider the correctness of the determination or assessment . . . .Where the court has referred an assessment back for reconsideration and reassessment or varied or vacated an assessment the Minister's obligation with respect to refunds arises from subsection 164 (4.1).[9]
+[39] With respect to the Respondent's second argument in the present case, namely, that the Appellant is not entitled to the refundable ITCs because it did not apply in writing for a refund of the ITCs within its "normal reassessment period", I would simply note that this is not a condition precedent to entitlement to refundable ITCs.
+[40] As stated above, a taxpayer's entitlement to refundable ITCs arises under subsection 127.1(1) of the Act, and the determination of the amounts thereof necessarily precedes any action that may be taken in respect of a refund.
+[41] It is conceded by the Respondent that for the 1993 to 1995 taxation years the Appellant met all of the conditions in subsection 127.1(1) and in the definition of "refundable investment tax credit" in subsection 127.1(2)[10] of the Act. Therefore, the determination that the Minister should have made under paragraph 152(1)(b) was that the amounts claimed by the Appellant as refundable ITCs for its 1993, 1994 and 1995 taxation years were deemed by subsection 127.1(1) to be amounts paid on account of its Part 1 tax for each of those years. The determination therefore must be varied accordingly.
+[42] Given this conclusion, it is not necessary to deal with the Appellant's argument that in any event, the time limit for it to request a refund under paragraph 164(1)(b) did not expire until December 12, 2005. However, for the reasons that follow, I agree with the Appellant on this point.
+[43] It is clear from the language used in subsection 152(1.2) that, for the purposes stated therein, including the purposes of Division I of the Act, Parliament intended to treat determinations and redeterminations in the same manner as assessments and reassessments. Since section 164 is found in Part I of the Act, there is no reason, in the case of a determination, not to make to that section such modifications as the circumstances require, as specified by subsection 152(1.2), with the result that refunds which are payable as a consequence of a determination must be requested within the taxpayer's "normal redetermination period" rather than within its "normal reassessment period".
+[44] To find otherwise would open the door to absurd results, such as that proposed by the Respondent in this case, where the Appellant's "normal reassessment period" had already expired before the Minister made the determination. According to the Respondent, the Minister had the power to make the determination after the expiry of the "normal reassessment period" and the Appellant had the right to object to and appeal from the determination, but Parliament did not give the Minister the power to pay the refund resulting from the determination because the "normal reassessment period" had expired. This does not make sense.
+[45] In short, the Respondent's position that the time limit for making a request for a refund arising from a determination is calculated from the date of the original assessment rather than from the date of the original determination is not consistent with the language or intent of subsection 152(1.2).
+Second issue: Was the Appellant a CCPC in its 1996, 1997 and 1998 taxation years?
+[46] The second issue in this appeal is whether the Appellant is entitled to the additional and refundable ITCs it claimed for its 1996 to 1998 taxation years. This depends on whether the Appellant was a CCPC for those years.
+[47] The definition of CCPC is found in subsection 125(7) of the Act. For the relevant years that definition read:
+125(7) In this section,
+"Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation
+(a) controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), or by any combination thereof,
+(b) that would, if each share of the capital stock of a corporation that is owned by a non-resident person or a public corporation (other than a prescribed venture capital corporation), were owned by a particular person, be controlled by the particular person, or
+(c) a class of the shares of the capital stock of which is listed on a prescribed stock exchange.
+[48] The parties agree that for the 1996 to 1998 taxation years the Appellant was not disqualified from CCPC status under paragraph (a) of the definition of CCPC.
+[49] This flows from the decision of the Federal Court of Appeal in Parthenon Investments Ltd. v. M.N.R..[11] The Court held there that, in the case of a chain of corporations, the phrase "controlled, directly or indirectly in any manner whatsoever"[12] in the definition of CCPC referred to ultimate de jure control determined indirectly through the chain. In Parthenon the parent and great-grandparent corporations of the taxpayer were Canadian but its grandparent corporation was controlled by non-residents. The Respondent in that case had taken the position that despite the taxpayer's being ultimately controlled by two Canadian-resident corporations, the indirect control by the non-resident corporation constituted a weak link in the chain of control and disqualified the taxpayer corporation from being a CCPC. As noted, this position was rejected by the Federal Court of Appeal.
+[50] In the case at bar it was admitted that the Appellant was ultimately controlled by a group of Canadian-resident individuals.
+[51] The parties also agree that the test in paragraph (c) of the definition of "Canadian-controlled private corporation" has no relevance to this case.
+[52] The Appellant and the Respondent disagree, however, on whether the application of the test set out in paragraph (b) of the definition results in the Appellant not being a CCPC. The disagreement turns on the interpretation to be given to that provision.
+Appellant's arguments
+[53] The Appellant argues that the wording of paragraph (b) of the definition of CCPC is ambiguous, and that a textual, contextual and purposive interpretation of paragraph (b) of the definition of CCPC leads to the conclusion that this provision does not apply in the Appellant's case.
+[54] Withrespect to the text of paragraph (b) the Appellant says:
+. . . the wording . . . of [the] Paragraph 125(7)(b) Test is hypothetical in nature. It speaks in terms of a result that would arise if certain criteria were satisfied. It follows therefore that if, in a given situation, such as the one under appeal, these hypothetical criteria are in fact satisfied (e.g., shares of the company in question are in fact owned by one person or by a controlling group), the conditions precedent for the test to apply are not met, and the test therefore does not apply in that situation.[13]
+[55] In the Appellant's view, paragraph (b) is ambiguous because it is uncertain whether it is meant to apply where the facts to be assumed are true in the first instance. The Appellant says that the test only applies where there is a need for a hypothetical person.
+[56] The Appellant also argues that, even if there is no patent ambiguity in the wording of paragraph (b) of the definition of CCPC in subsection 125(7), a latent ambiguity is revealed when the legislative purpose of the provision is considered.
+[57] The Appellant asserts that a purposive analysis clearly shows that paragraph 125(7)(b) is intended to apply to those situations in which no control can be established due to the shares of the corporation being widely held. It is not intended to apply to those situations where the company in question is already controlled by one or more persons.
+[58] In support of this argument, the Appellant refers to the Department of Finance Technical Notes that accompanied the introduction of paragraph (b) andwhich set out the purpose of the provision:
+A corporation, the voting shares of which are distributed among a large number of persons is usually not considered to be controlled by any group of its shareholders, provided the shareholders do not act together to exercise control. As a result, it may be argued that a private Canadian corporation that is owned by a number of non-residents or public corporations is not controlled by non-residents or public corporations, and is thus a CCPC. New paragraph (b) of the CCPC definition clarifies that this is not the case. Paragraph (b) requires non-residents' and public corporations' shareholdings - not only of the corporation in question, but of all corporations - to be notionally attributed to one hypothetical person. If that person would control the corporation, then the corporation is not a CCPC.[14]
+[59] The Appellant also refers to Interpretation Bulletin IT-458R2, which deals specifically with CCPC status and reiterates the purpose of paragraph (b) of the definition of CCPC. Paragraph 1 of the Interpretation Bulletin states:
+. . . Paragraph (a) of the definition of a CCPC provides that the corporation must not be "controlled, directly or indirectly in any manner whatever" . . . by one or more non-resident persons (non-residents), one or more public corporations (other than a prescribed venture capital corporation within the meaning of section 6700 of the Regulations), or any combination of non-residents and public corporations. The control test referred to in the definition of CCPC [i.e., in the Paragraph 125(7)(b) Test] envisages situations where over 50% of the shares of a corporation are owned by one or more non-residents or by one or more public corporations regardless of whether or not a controlling group can be identified. To that end, paragraph (b) of the definition of a CCPC clarifies that, after 1995, a corporation is prevented from being a CCPC if the corporation would, if each share of the capital stock of a corporation that is owned by a non-resident person or a public corporation (other than a prescribed venture capital corporation) were owned by a particular person, be controlled by that particular person.
+[Emphasis added].
+[60] According to the Appellant, the technical notes and interpretation bulletin demonstrate that paragraph (b) was introduced into the Act to legislate the position taken by the Minister of National Revenue in the case of Silicon Graphics Ltd. v. The Queen.[15]
+[61] In that case, more than 50% of the taxpayer's common shares were owned by non-residents of Canada. Those shares were widely held and there was no evidence of any common connection among the non-resident shareholders. No single shareholder held more than 13% of the shares. The Minister of National Revenue assessed on the basis that the shareholdings of the non-residents in the taxpayer had to be considered collectively for the purpose of determining whether it was a CCPC. Since in the aggregate the non-residents held more than 50% of the shares of the taxpayer, the Minister found that the taxpayer was controlled by "one or more non-resident persons" and therefore was not a CCPC. (The definition of CCPC for the years in issue in that appeal was substantially similar to the test in paragraph (a) as it read for the 1996 to 1998 taxation years.)
+[62] The Federal Court of Appeal held that "simple ownership of a mathematical majority of shares by a random aggregation of shareholders in a widely held corporation with some common identifying feature (e.g. place of residence) but without a common connection does not constitute de jure control".[16]
+[63] The Appellant also submits that contextual support for its position is found in subsection 256(6.1) of the Act. That provision was introduced into the Act in 2001 and was effective for taxation years commencing after November 1999. It provides that a corporation may be controlled simultaneously by persons or groups at more than one tier above it in a corporate chain.
+[64] For example, if a corporation is controlled by another corporation one tier up, and the corporation one tier up is controlled by another person or group of persons, then the corporation in question is controlled by both the corporation one tier up and the person or group of persons that controls that one tier up corporation.
+[65] Similarly, where a corporation is controlled by a group of persons, that corporation can be controlled both by that first-tier group of persons and "any group of one or more persons" comprised of, for every member of the first-tier group, that member or a person or group of persons by whom the member is controlled.
+[66] Subsection 256(6.1) was enacted to counteract the effect of the Federal Court of Appeal decision in Parthenon and it affects those provisions in the Act which, for example, refer to control of a corporation or acquisition of control of a corporation.[17]
+[67] The Appellant suggests that the enactment of subsection 256(6.1) shows that Parliament did not intend paragraph (b) of the definition of CCPC in subsection 125(7) to have the effect of creating simultaneous control of a corporation at different levels in the corporate chain. In the Appellant's submission, that interpretation of paragraph (b) is "not supportable on a contextual analysis because if the paragraph 125(7)(b) Test (which was enacted before subsection 256(6.1)) does indeed override the Parthenon decision, there would have been no need for Parliament to have later enacted subsection 256(6.1) for that very same purpose" (Submissions of the Appellant, paragraph 70).
+[68] The Appellant also argues that since paragraph (b) of the definition creates a legal fiction, it should be interpreted strictly and in a manner that limits its scope. The Appellant relies on the decision of the Federal Court of Appeal in La Survivance v. The Queen in which that Court said:
+Insofar as subsection 256(9) effectively alters reality, its meaning should be limited to what is clearly expressed. A deeming provision cannot otherwise modify the actual situation that obtains. [18]
+[69] TheAppellant further argues that, even if I find that paragraph (b) does apply to it, the determination of control made thereunder is still subject to a determination of ultimate control of the Appellant under paragraph (a) of the definition.
+[70] TheAppellant says that the first step in the operation of the provision in this case would be the attribution of the ownership of each of the shares of the Appellant held by a public corporation to a "particular person". In the circumstances of this appeal, then, because all the shares of the Appellant that were owned by a public corporation were in fact owned by a "real" particular person (i.e., Perfect Fry Corporation Ltd.), any reference in the test to the "particular person" must be read as a reference to Perfect Fry Corporation (CPCC).
+[71] The next step required by paragraph (b) of the definition of CCPC would be to determine whether PFC (i.e., the "particular person") controlled the Appellant.
+[72] The Appellant says that, according to the decision of the Federal Court of Appeal in Parthenon, even though PFC owned all of the shares of the Appellant directly, ultimate de jure control of the Appellant belonged to the group of Canadian-resident individuals who controlled PFC.
+Respondent's arguments
+[73] The Respondent argues that the language of paragraph (b) of the definition of CCPC is clear and unequivocal and that there is no need to consider context or purpose in order to interpret it. Paragraph (b) requires firstly that all the shares of a corporation that are owned by disqualifying shareholders (i.e., public corporations (other than prescribed venture capital corporations) and non-resident persons) be attributed to a hypothetical shareholder, and secondly, that a determination be made whether the corporation would then be controlled by that hypothetical shareholder.
+Analysis
+[74] In CanadaTrustco Mortgage Co. v. Canada,[19] the Supreme Court of Canada reiterated the principles applicable to the interpretation of tax statutes. McLachlin C.J. and Major J. writing for the majority stated:
+. . . The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play [sic] a dominant role in the interpretive process. On the other hand, where the words can support more than one reasonable meaning, the ordinary meaning of the words plays a lesser role. The relative effects of ordinary meaning, context and purpose on the interpretive process may vary, but in all cases the court must seek to read the provisions of an Act as a harmonious whole.[20]
+[75] In this case, the question is whether the word "particular" in paragraph (b) of the definition of CCPC can support more than one reasonable meaning. Again, that provision reads:
+"Canadian-controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation
+. . .
+(b) that would, if each share of the capital stock of a corporation that is owned by a non-resident person or a public corporation (other than a prescribed venture capital corporation) were owned by a particular person, be controlled by the particular person . . .
+[Emphasis added].
+[76] TheRespondent contends that the reference to "a particular person" and "the particular person" clearly means a hypothetical person, to whom ownership of each of the shares held by non-residents or by public corporations must be attributed.
+[77] Once the attribution is made to the hypothetical person, a determination is made of whether that hypothetical person controlled the corporation. Since ownership of all of the shares of a corporation would, prima facie, give control of the corporation to that hypothetical person, the Respondent says that by virtue of paragraph (b) of the definition of CCPC the hypothetical person would control the Appellant and the Appellant would be disqualified as a CCPC. That would be the end of the matter.
+[78] The Appellant, on the other hand, asks the Court to read the words "particular person" as "single person" or "sole person" or "individual person". The material parts of paragraph (b) would then read:
+"Canadian controlled private corporation" means a private corporation that is a Canadian corporation other than a corporation
+. . .
+(b) that would, if each share . . . of a corporation that is owned by . . . a public corporation . . . were owned by a single person, be controlled by the single person . . .
+[79] In this case, each of the shares of the Appellant that are owned by a public corporation are, in fact, already owned by a single person, so that the condition in paragraph (b) (if each share . . . were owned by a single person) is met without the need for a notional attribution of ownership to a hypothetical person. Since this condition is fulfilled without the need for attribution to a hypothetical person, the determination of control is made on the basis of the actual ownership of the Appellant's shares rather than on the basis of their ownership by a hypothetical person.
+[80] Here, although the Appellant's shares are all owned by a single person, that person (Perfect Fry Corporation Ltd.) does not control the Appellant, since it in turn is controlled by the Canadian-resident individuals.
+[81] Therefore, according to the Appellant's interpretation, it is only where the shares in question are owned by more than one person that attribution of the ownership of the shares to a hypothetical person is required.
+[82] For the following reasons, I agree with the Appellant that the use of the word "particular" gives rise to an ambiguity which must be resolved in order to determine how paragraph (b) of the definition of CCPC in subsection 125(7) applies to the Appellant.
+[83] The definition of "particular" given in the New Shorter Oxford English Dictionary includes:[21]
+Pertaining to a single definite thing or person, or set of things or persons, as distinguished from others; of one's own; special; not general.
+Belonging to, concerning, or known to an individual person or set of people, and no other; private, personal, not public; not occupying a public position.
+That is a unit or definite one among a number; considered by itself, apart from the rest; individual.
+[84] The definition of "particular" found in The Living Webster Encyclopedic Dictionary includes:
+being a definite one, individual, or single, or considered separately; . . . pertaining to a portion of something; separate; individual; specific.[22]
+[85] Neither of those definitions includes a reference to "hypothetical" or any similar notion.
+[86] The "plain meaning" of the word "particular" would therefore support the Appellant's interpretation of paragraph (b) of the definition of CCPC in subsection 125(7).
+[87] However, ambiguity in the meaning of the word "particular" in paragraph (b) does arise when one compares the English and French versions of that provision. The French version reads:
+125(7)Les définitions qui suivent s'appliquent au présent article.
+. . .
+« société privée sous contrôle canadien » Société privée qui est une société canadienne, à l'exception des sociétés suivantes :
+...
+b) si chaque action du capital-actions d'une société appartenant à une personne non-résidente ou à une société publique, sauf une société à capital de risque visée par règlement, appartenait à une personne donnée, la société qui serait contrôlée par cette dernière.
+[88] The French version uses the word "donnée" in the expression "une personne donnée" as the equivalent of "particular" in the expression "particular person". "Donnée" has a different connotation than the word "particular".
+[89] The definition of "donné" in the Petit Robert includes:[23]
+Connu, déterminé. Nombres donnés dans l'énoncé d'un problème. Quantités, grandeurs données. À une distance donnée, en un lieu donné. À un moment donné.
+And in the Petit Larousse there is the following definition:[24]
+Qui est connu, qui a été déterminé, fixé. À une distance donnée. En un temps donné.
+"Donné" is translated by the English word "given" rather than by the word "particular", and may convey the notion of hypothetical. It is not translated as "single", "individual" or "specific".
+[90] Given the differing meanings of "particular" and "donné" it is necessary to consider the context and purpose of the provision in order to discern the appropriate interpretation of paragraph (b) of the definition of CCPC.
+[91] I agree with the Appellant that the purpose of the provision is to aggregate the shareholdings of public corporations and non-resident persons in situations where those shares are widely held and no one person or group has de jure control of the corporation whose shares they own. This is clear from the Department of Finance Technical Notes cited by the Appellant. I also agree that there is no reason to believe that by enacting paragraph (b) of the definition, Parliament also intended it to apply in situations where de jure control of the corporation in question can otherwise be established.
+[92] With respect to a contextual analysis of the provision, I am not convinced that the enactment of subsection 256(6.1) would not have been necessary had Parliament intended paragraph (b) of the definition of CCPC in subsection 125(7) to operate in the manner suggested by the Respondent. Subsection 256(6.1) is of broader application than paragraph (b) of the definition. It applies in the determination of control throughout the Act, and not simply for the purposes of the definition of CCPC.
+[93] Given that the contextual analysis is, in this case, inconclusive, the purposive element plays the dominant role in the analysis of paragraph (b). I find that paragraph (b) was not intended to require an attribution of the ownership of the shares of a corporation to a hypothetical shareholder in the case where all of the shares of the corporation are already owned by a single shareholder. The determination of control of the corporation in that case is to be made on the basis of the actual shareholding by the existing shareholder. On that basis, the Appellant was not controlled de jure by Perfect Fry Corporation, and was controlled de jure by a group of Canadian-resident individuals. Therefore, I find that the Appellant was not disqualified as a CCPC in its 1996, 1997 and 1998 taxation years.
+[94] For all of these reasons the appeals for the Appellant's 1993 to 1998 taxation years are allowed, with costs.
+Signed at Ottawa, Canada, this 6th day of March 2007.
+"B. Paris"
+Paris J.
+CITATION: 2007TCC133
+COURT FILE NO.: 2004-3629(IT)G
+STYLE OF CAUSE: PERFECT FRY COMPANY LTD.
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: March 6th, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Edwin G. Kroft
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Edwin G. Kroft
+Firm: McCarthy Tétrault
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. 1 (5th Supp.).
+[2] Refundable ITCs are available to a "qualifying corporation". A "qualifying corporation" is a CCPC whose taxable income in the preceding year does not exceed its "business limit" for that year. See subsection 127.1(2) of the Act.
+[3] 97 DTC 5343.
+[4] I have edited the Statement of Agreed Facts in some minor respects for ease of reading.
+[5] This argument applies to the 1996 taxation year as well as the 1993 to 1995 taxation years, since the Minister determined that for all four of those years the refund was statute-barred.
+[6] Including a determination of refundable ITCs made under paragraph 152(1)(b).
+[7] McMillen Holdings Ltd. v. M.N.R., 87 DTC 585, at page 591; Paradis v. The Queen, 2004 TCC 676.
+[8] 2002 DTC 1479.
+[9] Datacalc, supra, at para. 9.
+[10] See para. 14 of the Statement of Agreed Facts.
+[11] 97 DTC 5343.
+[12] For the years in issue in Parthenon, the definition of CCPC was the same as the test in paragraph (a) of the definition as it reads for the years 1996 to 1998.
+[13] Written submissions of the Appellant, paragraph 58.
+[14] Technical Notes on subsection 125(7).
+[15] 2002 DTC 7112.
+[16] Silicon Graphics, supra, at para. 36.
+[17] CanadaTax Service, Analysis ss. 256(6.1) Carswell, Taxnet.pro.
+[18] 2006 FCA 129 at para. 55.
+[19] [2005] 2 S.C.R. 601.
+[20] At para. 10.
+[21] The New Shorter Oxford English Dictionary on Historical Principles, 1993 edition, ed. (New York: Oxford University Press) at p. 2109.
+[22] The Living Webster Encyclopedic Dictionary of the English Language, 1973-1974 ed. (Chicago: The English Language Institute of America, 1973), at p. 691.
+[23] Le Nouveau Petit Robert 2002, at p. 785.
+[24] Le petit Larousse illustré, 2006, at p. 377.

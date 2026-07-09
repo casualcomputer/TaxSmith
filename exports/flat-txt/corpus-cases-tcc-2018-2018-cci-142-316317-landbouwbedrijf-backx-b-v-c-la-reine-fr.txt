@@ -1,0 +1,271 @@
+Title: Landbouwbedrijf Backx B.V. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/316317/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-142-316317-landbouwbedrijf-backx-b-v-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-07-17
+
+# Landbouwbedrijf Backx B.V. c. La Reine
+
+- Citation: 2018 CCI 142
+- Decision date: 2018-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4960, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landbouwbedrijf Backx B.V. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-17
+Référence neutre
+2018 CCI 142
+Numéro de dossier
+2015-1302(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1302(IT)G
+ENTRE :
+LANDBOUWBEDRIJF BACKX B.V.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 juin 2017, à London (Ontario)
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocats de l'appelante :
+Me Keith M. Trussler
+Me Linda M. Smits
+Avocate de l'intimée :
+Me Joanna Hill
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie aux termes de la Loi de l'impôt sur le revenu pour l'année d'imposition 2009 est accueilli, et l'affaire est déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante est assujettie à l'impôt de la partie I, mais non de la partie XIV.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2018.
+« Guy Smith »
+Le juge Smith
+Référence : 2018 CCI 142
+Date : 20180725
+Dossier : 2015-1302(IT)G
+ENTRE :
+LANDBOUWBEDRIJF BACKX B.V.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+(Les présents motifs du jugement modifiés remplacent les motifs du 17 juillet 2018 afin de supprimer les mots qui apparaissaient dans l'en‑tête des pages et de modifier l'avant‑dernière ligne du paragraphe 8 et la 6e ligne du paragraphe 37.)
+Le juge Smith
+I. Introduction
+[1] L'appelante est une société à responsabilité limitée constituée en personne morale en vertu des lois du Royaume des Pays‑Bas (les « Pays‑Bas »). Elle fait appel d'une cotisation établie par le ministre du Revenu national (le « ministre ») pour l'année d'imposition 2009 aux termes de la partie I et de la partie XIV de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »). La cotisation porte sur un gain en capital réalisé par suite de la disposition d'une participation dans une société de personnes exploitant une ferme laitière située à Strathroy, en Ontario.
+[2] Avant l'audience même de l'appel, le ministre a reconnu que l'appelante n'aurait pas dû faire l'objet de cotisations simultanées à l'égard de l'impôt de la partie I (à titre de résidente) et de l'impôt de succursale de la partie XIV (à titre de non‑résidente). Par conséquent, les questions soulevées dans le présent appel sont les suivantes :
+i) L'appelante était‑elle une résidente du Canada pour les besoins de l'impôt en 2009 et, par conséquent, redevable de l'impôt de la partie I sur le gain en capital découlant de la disposition de sa participation dans la société de personnes exploitant une ferme au Canada?
+ii) Si l'appelante était une résidente du Canada, était‑elle réputée avoir disposé de sa participation dans la société de personnes conformément à l'article 128.1 de la Loi et, le cas échéant, à quelle date?
+iii) Si l'appelante n'était pas une résidente du Canada en 2009, l'impôt de succursale de la partie XIV s'appliquait‑il, ou le gain faisait‑il l'objet d'une exonération aux termes de la convention fiscale entre le Canada et les Pays‑Bas (la « convention fiscale »)?
+II. Les faits
+[3] Les faits pertinents ne sont pas contestés, et les parties ont déposé un exposé conjoint partiel des faits joint aux présentes comme annexe A.
+[4] L'appelante a été constituée le 7 octobre 1997 par Michiel Backx et Marian Backx (les « Backx »), qui étaient époux et résidents des Pays‑Bas. (M. Backx est décédé en 2014.) Ils étaient les seuls actionnaires et administrateurs de la société.
+[5] À ce moment‑là, les Backx possédaient et exploitaient une ferme laitière aux Pays‑Bas, dont une partie avait été achetée du père de M. Backx en 1994 (la « ferme des Pays‑Bas »). M. Backx exploitait cette ferme en société de personnes avec son père depuis 1979.
+[6] La ferme des Pays‑Bas a été cédée à l'appelante peu de temps après la constitution de la société. À titre de contrepartie pour la cession, une rente viagère d'une durée de 46 ans a été créée en faveur des Backx.
+[7] Les Backx ont ensuite immigré au Canada en mai 1998. Avant leur immigration, l'appelante a vendu l'essentiel de la ferme des Pays‑Bas à un tiers. Les Backx ont démissionné comme administrateurs, et la sœur de Mme Backx, Anna Van Gorp (« Mme Van Gorp »), une résidente des Pays‑Bas, a été nommée administratrice. Les Backx sont demeurés actionnaires.
+[8] Après avoir immigré au Canada, comme il a été indiqué précédemment, les Backx ont acheté une ferme laitière existante située à Strathroy, en Ontario. La transaction a été structurée afin que les Backx possèdent une participation de 51 % et que l'appelante possède la participation restante de 49 % (la « société de personnes agricole »). L'acquisition a été financée en partie par l'appelante et, le 31 décembre 1998, elle avait versé un apport total de 2 975 000 $ à la société de personnes. Pendant les années d'imposition 1998 à 2009, elle a produit des déclarations de revenus à titre de non‑résidente et a versé des impôts sur sa part des revenus de la société de personnes.
+[9] Le 9 novembre 2009, les Backx ont constitué Backx Dairy Farms Limited (« Backx Limited ») en société en application des lois de la province de l'Ontario. Les Backx étaient les seuls administrateurs de la société et étaient propriétaires de toutes les actions ordinaires. Ils ont cédé leur participation de 51 % dans la société de personnes agricole à Backx Limited.
+[10] Le 30 novembre 2009, l'appelante a disposé de sa participation dans la société de personnes agricole à Backx Limited pour un produit de 4 500 000 $ versé par un billet à ordre, ce qui a donné lieu à un gain en capital de 1 739 049 $. Le protocole d'entente approuvant la transaction a été signé au nom de l'appelante par Mme Van Gorp, aux Pays‑Bas.
+[11] Après la clôture, Backx Limited a écrit au ministre pour divulguer la transaction conformément au paragraphe 116(5.02) de la Loi et lui faire part de son point de vue selon lequel la participation dans la société de personnes était un « bien protégé par traité » aux termes du paragraphe 116(6.1) de la Loi.
+[12] Le ministre a reconnu que la participation était un « bien protégé par traité » au sens du paragraphe 248(1) de la Loi et que Backx Limited, en tant qu'acquéresse, ne devait pas retenir d'impôt aux termes du paragraphe 116(5). Autrement dit, le ministre a convenu que la participation était un « bien protégé par traité » en raison de la convention fiscale.
+[13] En établissant la cotisation comme il est décrit précédemment, le ministre a conclu que la participation n'était pas un « bien protégé par traité » selon la définition au paragraphe 248(1) de la Loi, et il a établi une cotisation pour l'appelante en application de la partie I et de la partie XIV de la Loi, comme il est mentionné précédemment.
+III. Les thèses des parties
+A. La thèse de l'appelante
+[14] L'appelante affirme qu'elle est une résidente des Pays‑Bas en se fondant sur la règle de la common law selon laquelle la résidence d'une société doit être établie selon l'endroit où se trouve son centre de gestion et de contrôle.
+[15] L'appelante déclare qu'elle a été constituée aux Pays‑Bas et que ses administrateurs y ont toujours résidé. Elle soutient qu'elle était une non‑résidente en se fondant sur ce qui suit :
+a. L'appelante a été constituée aux Pays‑Bas.
+b. Au moment de sa constitution, ses actionnaires et ses administrateurs étaient tous des résidents des Pays‑Bas.
+c. Depuis sa constitution, ses administrateurs ont toujours résidé aux Pays‑Bas.
+d. L'appelante a été constituée en raison d'un plan établi par des conseillers professionnels aux Pays‑Bas, et ce plan a été établi avant que les actionnaires de l'appelante immigrent au Canada.
+e. Au début, l'entreprise de l'appelante était de détenir des actifs agricoles aux Pays‑Bas, puis son entreprise était de les vendre.
+f. Lorsque l'appelante a commencé à participer à une société de personnes agricole au Canada, son rôle se limitait à une contribution financière et à l'apport de matériel agricole.
+g. L'appelante détient une rente aux Pays‑Bas, ce qui fait qu'elle doit maintenir une existence juridique pour la durée de la rente.
+h. L'appelante détenait un compte bancaire aux Pays‑Bas.
+i. L'appelante a produit des déclarations de revenus annuelles aux Pays‑Bas.
+j. Les états financiers annuels de l'appelante ont été préparés aux Pays‑Bas.
+k. Lorsqu'elles ont décidé de vendre leur participation dans la société de personnes agricole canadienne, toutes les parties concernées se sont appuyées sur les avis de conseillers professionnels.
+l. Les documents relatifs à la vente de la participation de l'appelante ont été signés au nom de l'appelante par son administratrice aux Pays‑Bas.
+[16] L'appelante affirme que de 1998 à 2009, elle a toujours produit ses déclarations de revenus canadiennes à titre de non‑résidente et ses cotisations ont été établies en conséquence. Bien qu'elle reconnaisse que le ministre n'est pas lié par ces cotisations, l'appelante affirme que le fait de conclure qu'elle était une résidente du Canada pour l'année d'imposition 2009 serait contraire aux cotisations établies par le ministre, qui sont réputées être valides et exécutoires.
+[17] Si la Cour conclut que l'appelante était une résidente du Canada, l'appelante affirme qu'elle doit également déterminer le moment où elle est devenue résidente du Canada en raison des règles de la disposition réputée à l'article 128.1 de la Loi, car cela aurait une incidence sur le calcul du gain en capital, le cas échéant, réalisé lors de la vente de la participation.
+[18] Si la Cour conclut que l'appelante était une non‑résidente, l'appelante affirme qu'elle ne devrait pas être assujettie à l'impôt de succursale de la partie XIV parce que l'alinéa 110(1)f) de la Loi permet à un contribuable de déduire une somme exonérée de l'impôt canadien par l'effet d'une disposition d'une convention fiscale qui a force de loi. L'appelante affirme que le gain est protégé par traité aux termes des articles 1, 6 et 13 de la convention fiscale et qu'il n'est imposable qu'aux Pays‑Bas en application du paragraphe 13(7) de la convention.
+[19] Pour conclure, l'appelante affirme qu'elle était, pendant toute la période pertinente, une non‑résidente pour les besoins de l'impôt canadien et que, par conséquent, la nouvelle cotisation aux termes de la partie I devrait être annulée.
+[20] En ce qui concerne la nouvelle cotisation en application de la partie XIV de la Loi, l'appelante affirme que la vente de sa participation était exonérée aux termes d'un traité et qu'elle doit par conséquent être déduite aux termes de l'alinéa 110(1)f) de la Loi aux fins du calcul de l'obligation fiscale de l'appelante en application du paragraphe 219(1) de la Loi.
+[21] À titre subsidiaire, l'appelante affirme que, dans le cas où la Cour conclurait que l'appelante était résidente du Canada et qu'elle devait par conséquent payer de l'impôt sur le gain réalisé lors de la vente de la participation dans la société de personnes, la Cour devrait aussi conclure que l'appelante n'est devenue résidente qu'en 2009 et que, par conséquent, elle est réputée avoir disposé de tous ses biens à ce moment‑là de façon à réduire à zéro le gain réalisé.
+[22] Toujours à titre subsidiaire, l'appelante affirme que, dans le cas où la Cour conclurait que l'appelante est devenue résidente du Canada à une date antérieure, la nouvelle cotisation devrait être déférée au ministre pour nouvel examen et nouvelle cotisation en tenant compte de son déménagement au Canada et de toute disposition réputée qui en aurait découlé.
+B. La thèse de l'intimée
+[23] L'intimée a fait valoir initialement que l'appelante était redevable à titre de non‑résidente au motif qu'elle avait disposé d'un bien canadien imposable aux termes de l'alinéa 2(3)c) de la Loi. À titre subsidiaire, l'intimée affirmait que le produit de la disposition était imposable au motif que l'appelante était une résidente du Canada.
+[24] Comme il a été indiqué précédemment, l'intimée a abandonné sa position initiale et a indiqué qu'elle ne se fonderait que sur l'argument subsidiaire selon lequel l'appelante était une résidente du Canada parce que son centre de gestion et de contrôle se trouvait au Canada.
+[25] Par conséquent, l'intimée a également reconnu que l'appelante n'aurait pas dû faire l'objet d'une cotisation simultanée à l'égard de l'impôt de la partie I à titre de résidente et de l'impôt de succursale de la partie XIV à titre de non‑résidente et que, par conséquent, l'appelante ne serait redevable qu'à l'égard de l'impôt de la partie XIV si la Cour concluait que l'appelante était une non‑résidente du Canada pour les besoins de l'impôt.
+[26] L'intimée affirme que les seules questions en litige devant la Cour sont la question de savoir si l'appelante résidait au Canada et était par conséquent redevable de l'impôt sur le gain en capital réalisé lors de la disposition de sa participation dans la société de personnes agricole ou, à titre subsidiaire, si l'appelante ne résidait pas au Canada en 2009, la question de savoir si elle était redevable de l'impôt de succursale de la partie XIV en raison de la disposition.
+[27] Selon la thèse de l'intimée, bien que l'appelante ait été enregistrée et constituée aux Pays‑Bas, elle était gérée et contrôlée par les Backx au Canada, et son unique administratrice, Mme Van Gorp, exécutait uniquement des tâches administratives aux Pays‑Bas.
+[28] L'intimée affirme également que l'établissement de la résidence conformément au critère du centre de gestion et de contrôle ne déclenche pas l'application de l'article 128.1 de la Loi (dont découlerait la disposition réputée de tous les biens de l'appelante), et que la Cour n'est pas tenue de traiter cette question. Il en est ainsi parce que le critère de résidence de la common law et la convention fiscale reconnaissent qu'une société peut résider dans plus d'un pays en raison de l'existence de critères différents et que sa résidence peut varier d'une année d'imposition à l'autre si des faits pertinents changent.
+IV. Analyse
+A. L'appelante résidait‑elle ou non au Canada?
+[29] Comme l'a souligné la juge Sharlow dans l'arrêt Fundy Settlement c. Canada, 2010 CAF 309, [2012] 2 R.C.F. 374 (« Fundy Settlement »), au paragraphe 52, conf. par 2012 CSC 14, [2012] 1 R.C.S. 520, au paragraphe 7 : « Comme de nombreux pays, le Canada a fait du lieu de résidence le principal fondement de son régime d'imposition [...] le Canada en a décidé ainsi au vu du principe voulant que ceux qui bénéficient des avantages juridiques, politiques et économiques que leur assure un lien avec le Canada devraient supporter une part correspondante des coûts de cette association. »
+[30] Le paragraphe 2(1) de la Loi énonce : « Un impôt sur le revenu doit être payé, ainsi qu'il est prévu par la présente loi, pour chaque année d'imposition, sur le revenu imposable de toute personne résidant au Canada à un moment donné au cours de l'année. » Le revenu imposable comprend les gains en capital.
+[31] Le paragraphe 2(3) prescrit qu'une personne qui ne réside pas au Canada et qui n'est donc pas tenue de payer de l'impôt en raison du paragraphe 2(1) pour une année d'imposition doit néanmoins payer un impôt sur son revenu imposable gagné au Canada, y compris la partie imposable d'un gain en capital réalisé lors de la disposition d'un bien qui répond à la définition de « bien canadien imposable », à moins que le bien ne réponde aussi à la définition de « bien protégé par traité » au paragraphe 248(1) et qu'il ne soit exonéré de l'impôt sur le revenu canadien aux termes d'un traité fiscal. Dans ce cas, le sous‑alinéa 110(1)f)(i) de la Loi prévoit une déduction de la somme qui serait par ailleurs imposable.
+[32] La Cour doit tout d'abord déterminer si l'appelante résidait au Canada. Il n'est pas contesté que dans cette détermination, le critère de la common law est celui du centre de gestion et de contrôle : R. v. British Columbia Electric Railway Co. Ltd., [1945] C.T.C. 162, 2 D.T.C. 692 (C. de l'É.); Crossley Carpets (Canada) Ltd. v. M.N.R., 67 D.T.C. 522 (C.A.I.); Fundy Settlement, précité, confirmé par la Cour suprême du Canada, précité.
+[33] On conclut généralement que le conseil d'administration est le centre de gestion et de contrôle, même si les administrateurs peuvent subir l'influence des actionnaires ou d'autres personnes : Fundy Settlement (paragraphes 54 et 55), Birmount Holdings Ltd. c. La Reine, [1977] A.C.F. no 2 (QL) (C.F. 1re inst.), et Bedford Overseas Freighters Ltd. v. Minister of National Revenue, [1970] C.T.C. 69, 70 D.T.C. 6072 (C. de l'É.). Toutefois, si quelqu'un qui n'est pas un administrateur de la société prend des décisions de gestion importantes, il se peut que le lieu où cette personne réside ou exerce ses activités puisse être considéré comme le lieu de résidence de la société : Fundy Settlement, au paragraphe 56.
+[34] Comme l'explique plus amplement la juge Sharlow dans l'arrêt Fundy Settlement :
+[54] En ce qui concerne le lieu de résidence d'une société, il a été décidé il y a plus de 100 ans qu'à cet égard, on peut utilement s'inspirer de la jurisprudence relative à la résidence d'un particulier. Dans l'arrêt de principe De Beers Consolidated Mines Ltd. v. Howe, [1906] A.C. 455 (H.L.), le lord Loreburn (à la page 458) s'est exprimé en ces termes sur ce point :
+[TRADUCTION]
+En appliquant la notion de résidence à une société, nous devons à mon avis faire le plus possible une analogie avec les particuliers. Une société ne peut pas manger ou dormir, mais elle peut avoir un siège et faire des affaires. Nous devrions donc nous demander où elle a réellement son siège et où elle fait réellement des affaires. Un particulier peut être de nationalité étrangère, tout en résidant au Royaume‑Uni. Il en va de même pour une société. Si ce n'était pas le cas, le siège de la direction et le centre des activités commerciales de la société pourraient se trouver en Angleterre sous la protection du droit anglais, tout en échappant à l'impôt approprié du simple fait que la société est enregistrée à l'étranger et qu'elle distribue ses dividendes à l'étranger. La décision rendue par le baron en chef Kelly et par le baron Huddleston dans les affaires Calcutta Jute Mills v. Nicholson et Cesena Sulphur Co. c. Nicholson ((1876) 1 Ex. D. 428), il y a maintenant trente ans, portait sur le principe selon lequel une société réside, aux fins de l'impôt sur le revenu, là où elle fait réellement des affaires. Il a depuis lors été donné suite à ces décisions. J'estime qu'il s'agit de la règle à suivre, et que les affaires se font réellement là où se trouve effectivement le centre de gestion et de contrôle.
+Il reste à décider si cette règle s'applique à la présente affaire. Il s'agit d'une simple question de fait à trancher, non selon l'interprétation d'un règlement administratif ou autre quelconque, mais en examinant le cours des activités de l'entreprise et des opérations commerciales.
+[55] Il reste qu'aujourd'hui, aux fins de l'impôt sur le revenu, la résidence d'une société va essentiellement dépendre du lieu où se trouve le centre de gestion et de contrôle de l'entreprise, une question de fait. Les facteurs à prendre en compte comprennent les indices juridiques du lieu où s'exercent la gestion et le contrôle de l'entreprise (selon, par exemple, les statuts et actes constitutifs de l'entreprise). Lorsqu'une société est effectivement gérée et contrôlée par ses administrateurs selon ce que prévoient les statuts de l'entreprise, le domicile de l'entreprise est généralement le lieu où les administrateurs exercent leurs responsabilités en matière de gestion et de contrôle.
+[56] Il peut, cependant, ne pas en être ainsi lorsque les faits démontrent que la société n'est pas en fait gérée et contrôlée de la manière prévue par ses statuts. Il convient, à cet égard, d'examiner la nature du pouvoir décisionnel effectivement exercé par les administrateurs. Si, en matière de gestion, d'importantes décisions sont en fait prises par quelqu'un qui n'est pas administrateur de la société, il se peut que le lieu où cette personne réside ou exerce ses activités puisse être considéré comme le lieu de résidence de la société. Ainsi, par exemple, si l'on démontre que la gestion et le contrôle sont en fait exercés par un actionnaire installé dans un autre pays, il pourrait être jugé que la société est résidente du lieu de résidence de cet actionnaire : voir Unit Construction Co., Ltd. v. Bullock (Inspector of Taxes), [1960] A.C. 351 (H.L.).
+[Non souligné dans l'original.]
+[35] Dans Unit Construction Co. Ltd. v. Bullock, [1960] A.C. 351 (« Unit Construction »), trois sociétés avaient été constituées et faisaient affaire au Kenya. Leurs administrateurs y résidaient également. La Chambre des lords a toutefois déterminé que les sociétés étaient les filiales d'une société anglaise et a jugé qu'elles étaient contrôlées en fait en Angleterre par les administrateurs de la société mère. Il semble que la Cour disposait d'éléments de preuve crédibles d'un contrôle de fait en Angleterre.
+[36] Ce jugement doit être comparé à 1143132 Ontario Ltd. c. La Reine, 2009 CCI 477 (« 1143132 Ontario »), sur lequel s'appuie l'appelante, une affaire de prix de transfert concernant la vente de produits au Canada et aux États‑Unis se faisant par l'intermédiaire d'une filiale constituée à la Barbade. Son rôle limité consistait à l'envoi des factures et à la perception des paiements en ayant recours aux services de mandataires, mais la société n'avait pas d'employé et les administrateurs étaient inactifs. L'appelante soutenait que la filiale était une résidente du Canada. La Cour n'était pas d'accord et, appliquant le critère de jure, a conclu qu'il « est généralement reconnu que le rôle des administrateurs est de gérer les activités commerciales d'une entreprise » et qu'« en l'absence de toute preuve contraire », on doit « tenir pour acquis que les administrateurs étaient ceux qui géraient les activités commerciales de l'entreprise ». La Cour a souligné que les éléments de preuve n'étaient pas suffisants pour démontrer que le centre de gestion et de contrôle de la société de la Barbade se trouvait au Canada.
+[37] Dans la décision antérieure Bedford Overseas Freighters Ltd., précitée, l'appelante affirmait que toutes les décisions importantes étaient prises par un actionnaire non‑résident et que le rôle de ses administrateurs au Canada était simplement formel, procédural et administratif. La Cour n'a pas souscrit à cet argument et a conclu que [TRADUCTION] « la gestion des activités de la société et le contrôle de ses activités étaient dévolus aux administrateurs canadiens et ils exerçaient ce pouvoir et cette autorité au Canada, bien qu'en grande partie pour mener à bien [...] des instructions et des décisions prises ailleurs ». Qui plus est, la Cour a conclu que les administrateurs au Canada [TRADUCTION] « s'occupaient des activités et des affaires juridiques de la société qui étaient nécessaires et essentielles pour l'activité commerciale de la société, soit posséder et exploiter des navires ».
+[38] Il est clair que dans la décision Bedford, la Cour était convaincue par les éléments de preuve dont elle disposait que les administrateurs de jure résidant au Canada exerçaient la gestion et le contrôle réels et qu'il n'y avait pas de raison de déroger au principe fondamental selon lequel les administrateurs sont réputés assurer ce rôle.
+[39] Dans le jugement plus récent Wood v. Holden, [2006] S.T.C. 443 (C.A. Angl.) (« Wood »), rendu au Royaume‑Uni, une société de portefeuille avait été constituée aux Pays‑Bas afin de faciliter la vente des actions d'une société exerçant ses activités au Royaume‑Uni dont les actionnaires étaient également des résidents du Royaume‑Uni. La société néerlandaise n'avait qu'un seul administrateur, qui signait tous les documents aux Pays‑Bas. La Cour d'appel du Royaume‑Uni a conclu que la société néerlandaise était une résidente des Pays‑Bas parce que son centre de gestion et de contrôle s'y trouvait. Le lord juge Chadwick a indiqué ce qui suit :
+[TRADUCTION]
+27. À mon avis, l'analyse du droit faite par le juge était correcte. En cherchant à déterminer où se trouve « le centre de gestion et de contrôle » d'une société constituée ailleurs qu'au Royaume‑Uni, il est essentiel de reconnaître la distinction entre les cas où la gestion et le contrôle de la société sont exercés par ses propres instances constitutives (le conseil d'administration ou l'assemblée générale) et les cas dans lesquels les fonctions de ces instances sont « usurpées », en ce sens que la gestion et le contrôle sont exercés indépendamment de ces instances, ou sans en tenir compte. Et, dans le premier cas, il est essentiel de reconnaître la distinction (du moins théorique) entre le rôle d'une « personne de l'extérieur » qui conseille et propose et qui influence les décisions que les instances constitutives prennent dans l'exercice de leurs fonctions et le rôle d'une personne de l'extérieur qui dicte les décisions qui doivent être prises. Dans ce cas, une « personne de l'extérieur » est une personne qui n'est pas, elle-même, une participante au processus formel (une réunion du conseil d'administration ou une assemblée générale) par lequel l'instance constitutive concernée remplit ses fonctions.
+[Non souligné dans l'original.]
+[40] La Cour d'appel a fait une distinction entre une [TRADUCTION] « “personne de l'extérieur” qui conseille et propose et qui influence les décisions » et [TRADUCTION] « une personne de l'extérieur qui dicte les décisions qui doivent être prises » par la société. C'est de cette dernière personne, [TRADUCTION] « qui n'est pas, elle‑même, une participante au processus formel », ou qui ne fait pas partie d'une [TRADUCTION] « instance constitutive », qu'on peut dire qu'elle a « usurpé » le rôle des administrateurs de jure.
+[41] La Cour a conclu qu'aucun élément de preuve ne révélait qu'une personne avait « usurpé » le rôle de l'administrateur néerlandais (une banque), ou plus précisément qu'une personne avait dicté la décision qu'il fallait prendre (paragraphe 41).
+[42] Que la Cour adopte le terme « usurper » ou non, il est clair qu'une preuve convaincante est nécessaire pour repousser le principe bien établi selon lequel les administrateurs de jure ont la responsabilité première de la gestion et du contrôle d'une société. Une telle preuve doit clairement établir qu'une [TRADUCTION] « personne de l'extérieur » (Wood, précité) a la gestion ou le contrôle « réel » ou « indépendant ».
+[43] En l'espèce, Mme Van Gorp a admis qu'elle n'avait aucune expérience agricole et aucune expérience antérieure des affaires. Elle a accepté d'être administratrice pour aider les Backx et a reçu une rémunération de 500 euros par année de 2007 à 2011, puis de 1 500 euros par la suite. Lorsqu'elle payait les factures pour l'appelante, elle le faisait conformément aux instructions des Backx, plus particulièrement de sa sœur. Lorsqu'elle remettait les documents financiers aux comptables ou aux planificateurs fiscaux néerlandais, elle le faisait à la demande des Backx. Il ressort clairement de son témoignage qu'elle n'a pas réellement participé à la décision d'investir dans la société de personnes agricole en 1998. Elle suivait tout simplement des instructions. Il ressort également clairement de son témoignage qu'elle n'a pas participé à la décision de disposer de la société de personnes agricole en 2009. Lorsqu'elle signait les documents nécessaires aux Pays‑Bas, elle le faisait pour mettre en œuvre une décision prise par les Backx au Canada.
+[44] Cela concorde avec le témoignage de Marian Backx, qui a confirmé qu'elle et son époux maintenant décédé avaient décidé d'immigrer au Canada au cours de l'année 1997 et qu'ils avaient fait appel à des conseillers fiscaux avant la constitution de l'appelante et la disposition de la ferme des Pays‑Bas. Par la suite, la décision de faire l'acquisition d'une ferme en Ontario a été prise par les Backx, tout comme la décision d'utiliser le produit de la vente de la ferme des Pays‑Bas qu'avait l'appelante pour acquérir l'exploitation laitière au Canada et établir la société de personnes agricole. Le fait que les Backx se soient fiés à des conseillers professionnels ne change pas le fait que ce sont eux, et non Mme Van Gorp, qui ont pris ces décisions.
+[45] L'appelante affirme que la décision de disposer de sa participation dans la société de personnes agricole en 2009 a été prise en suivant les avis de ses conseillers professionnels et était dictée en partie par les modalités d'une entente de règlement conclue avec le fisc néerlandais. Je conclus que cela ne laisse entendre en aucune façon que Mme Van Gorp avait décidé de disposer de la participation en s'appuyant sur les avis des conseillers professionnels de l'appelante. Ce sont les Backx qui ont pris les décisions finales.
+[46] Le témoignage de Marian Backx, et d'ailleurs les éléments de preuve découlant de la correspondance et des communications avec les conseillers établis au Canada, ainsi qu'avec les comptables et les conseillers fiscaux établis aux Pays‑Bas, laissent très clairement entendre que ce sont les Backx qui avaient le contrôle réel et indépendant de l'appelante. Dans la plupart des cas, sinon tous, on n'envoyait même pas une copie de la correspondance à Mme Van Gorp. Cela laisse entendre très clairement qu'elle était simplement un prête‑nom pour effectuer des fonctions administratives pour le compte des Backx.
+[47] Pour ces motifs, je conclus que l'appelante était une résidente du Canada au cours de la période pertinente et qu'elle était par conséquent redevable de l'impôt aux termes de la partie I de la Loi.
+B. Y a‑t‑il des incidences découlant de la convention fiscale?
+[48] L'un des objets de la convention fiscale (signée le 27 mai 1986 et modifiée par des protocoles), soit la Convention entre le Canada et le Royaume des Pays‑Bas en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu, est d'éviter la double imposition. Elle y parvient en exemptant les résidents de l'un des États contractants des impôts sur le revenu perçus par l'autre État à l'égard de revenus et de gains précis, sous réserve de nombreuses conditions.
+[49] L'article 4 est pertinent au présent appel; il traite de la question de la résidence :
+1. Au sens de la présente Convention, l'expression « résident de l'un des États » désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l'impôt dans cet État, en raison de son domicile, de sa résidence, de son siège de direction ou de tout autre critère de nature analogue.
+[...]
+3. Lorsque, selon les dispositions du paragraphe 1, une personne autre qu'une personne physique est un résident de chacun des États, les autorités compétentes des États s'efforcent de trancher la question d'un commun accord en ayant égard à son siège de direction effective, au lieu où elle a été constituée ou créée et à tous autres éléments pertinents. À défaut d'un tel accord, cette personne est considérée comme n'étant pas un résident d'aucun des États pour l'application des articles 6 à 21 inclus et des articles 23 et 24.
+[50] L'expression « résident de l'un des États » s'entend d'une personne qui, « en vertu de la législation de cet État » (d'après ce que j'ai compris, il s'agit du Canada ou des Pays‑Bas), « est assujettie à l'impôt dans cet État, en raison [...] de son siège de direction [...] ». La Cour a déjà conclu que la direction et le contrôle réels de l'appelante se situaient au Canada. L'article 13 porte sur les « gains en capital », mais les paragraphes 1 à 4 ne s'appliquent pas parce que l'appelante est une résidente du Canada. Le paragraphe 13(7) de la convention énonce que « [l]es gains provenant de l'aliénation de tous biens [...] ne sont imposables que dans l'État dont le cédant est un résident ». À ce titre, le Canada est autorisé à imposer le gain en capital de l'appelante.
+[51] Toutefois, l'appelante fait valoir qu'elle est résidente des Pays‑Bas, où se trouve son domicile (bien qu'aucune preuve d'expert n'ait été présentée à l'égard du droit néerlandais), auquel cas il est possible de conclure que l'appelante « est un résident de chacun des États ». Si l'appelante est assujettie à l'impôt au Canada et aux Pays‑Bas à l'égard du gain en capital, les autorités compétentes (selon le paragraphe 4(3) de la convention fiscale), et non la Cour, doivent régler la question : McFadyen c. La Reine, [2000] A.C.I. no 589 (QL) (C.C.I.), au paragraphe 154; Fisher c. La Reine, no 92‑1160(IT)G, 29 septembre 1994 (C.C.I.).
+[52] Puisque j'ai déjà conclu que l'appelante était une résidente du Canada pour les besoins de l'impôt, je conclus également que la convention fiscale n'a pas d'incidence directe sur le présent appel.
+C. Y a‑t‑il eu une disposition réputée de la société de personnes agricole?
+[53] Comme il a été indiqué précédemment, l'appelante affirme que si la Cour conclut que l'appelante était une résidente du Canada, la Cour doit aussi déterminer la date où l'appelante l'est devenue. L'appelante souligne que l'intimée a refusé de se prononcer sur cette question, sauf pour dire que l'appelante avait vraisemblablement une double résidence ou que la question n'était pas pertinente.
+[54] Le paragraphe 128.1(1) traite des changements de résidence et est libellé comme suit :
+128.1(1) Pour l'application de la présente loi, les règles suivantes s'appliquent au contribuable qui commence à résider au Canada à un moment donné :
+[...]
+b) le contribuable est réputé avoir disposé, au moment (appelé « moment de la disposition » au présent paragraphe) immédiatement avant le moment immédiatement avant le moment donné, de chaque bien lui appartenant, à l'exception, s'il est un particulier, des biens suivants, pour un produit égal à la juste valeur marchande du bien au moment de la disposition :
+(i) les biens qui sont des biens canadiens imposables,
+(ii) les biens à porter à l'inventaire d'une entreprise que le contribuable exploite au Canada au moment de la disposition,
+(iii) les biens compris dans la catégorie 14.1 de l'annexe II du Règlement de l'impôt sur le revenu relatifs à une entreprise que le contribuable exploite au Canada au moment de la disposition,
+(iv) les droits, participations ou intérêts exclus du contribuable (sauf une participation visée à l'alinéa k) de la définition de « droit, participation ou intérêt exclu » au paragraphe (10));
+c) le contribuable est réputé avoir acquis, au moment donné, chaque bien dont il est réputé par l'alinéa b) avoir disposé, à un coût égal au produit de disposition du bien;
+[55] Je ne me propose pas de développer cette question, sauf que je souligne que le gain en capital en cause a été réalisé en 2009 (l'année d'imposition visée par l'appel) et que j'ai déjà conclu qu'en vertu du droit canadien et selon la loi fiscale, l'appelante résidait au Canada au cours de cette année d'imposition. Je suis d'accord avec l'intimée à l'égard du fait que cette conclusion ne mène pas à une disposition réputée ou à une analyse du paragraphe 128.1(1), car il n'existe aucune preuve que l'appelante a effectivement cessé d'être une résidente des Pays‑Bas ou qu'elle a été prorogée en vertu du droit canadien. Comme l'appelante l'a elle-même indiqué, son existence juridique a intentionnellement été maintenue aux Pays‑Bas.
+[56] Cette situation diffère de la situation personnelle des Backx, qui semblent avoir coupé les ponts avec les Pays‑Bas en 1998 lorsqu'ils ont immigré et sont devenus des résidents du Canada.
+[57] En fin de compte, je conclus que, selon toute vraisemblance, l'appelante est devenue résidente du Canada pour les besoins de l'impôt dès 1998 (lorsque les Backx ont déménagé au Canada) et que, par conséquent, le prix de base rajusté de la société de personnes agricole a été calculé à juste titre à partir de cette date.
+[58] L'appelante affirme qu'elle a produit des déclarations de revenus et versé des impôts au Canada à titre de non‑résidente de 1998 à 2009 et que le ministre a accepté ces déclarations et établi des cotisations sur cette base. L'appelante a reconnu que le ministre n'était pas lié par ces cotisations. Il est clair que la décision de produire des déclarations de revenus à titre de non‑résidente a été prise par l'appelante et pas par le ministre. Pour ces motifs, je conclus que cet argument est sans pertinence. Je répète simplement que selon toute vraisemblance, l'appelante est devenue résidente du Canada pour les besoins de l'impôt dès 1998.
+D. L'impôt de la partie XIV s'applique‑t‑il?
+[59] Puisque l'intimée a reconnu que l'appelante n'aurait pas dû faire l'objet simultanément d'une cotisation aux termes de la partie I à titre de résidente et de la partie XIV à titre de non‑résidente, et puisque j'ai déjà conclu que l'appelante était une résidente du Canada au cours de l'année d'imposition concernée, il apparaît clairement que l'impôt de la partie XIV ne s'applique pas et que cette partie de la cotisation devrait être annulée.
+V. Conclusion
+[60] Compte tenu de ce qui précède, je suis d'avis d'accueillir l'appel et de déférer l'affaire au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante est assujettie à l'impôt de la partie I, mais non de la partie XIV.
+[61] Au vu de l'ensemble des circonstances, j'exerce mon pouvoir discrétionnaire de ne pas adjuger de dépens.
+Signé à Ottawa, Canada, ce 25e jour de juillet 2018.
+« Guy Smith »
+Le juge Smith
+ANNEXE A
+[TRADUCTION]
+2015‑1302(IT)G
+COUR CANADIENNE DE L'IMPÔT
+ENTRE :
+LANDBOUWBEDRIJF BACKX B.V.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Aux seules fins de la présente instance, les parties conviennent que la Cour peut considérer les faits suivants comme avérés sans qu'il soit nécessaire de présenter d'éléments de preuve à cet égard et sans préjudice du droit des parties de présenter des éléments de preuve qui ne contredisent pas les faits suivants.
+1. Landbouwbedrijf Backx B.V. (l'« appelante ») a été constituée aux Pays‑Bas le 7 octobre 1997.
+2. L'adresse de l'appelante est le 91 Dorpsstraat, 5113 TD Ulicoten, aux Pays‑Bas, depuis le 8 mai 1998.
+3. Au moment de sa constitution et au cours de la période pertinente au présent appel, les actionnaires de l'appelante étaient Michiel et Marian Backx (les « Backx »).
+4. Les Backx étaient mariés jusqu'au décès de Michiel Backx le 7 mars 2014.
+5. Au moment de la constitution de l'appelante, les Backx en étaient également les seuls administrateurs.
+6. Les Backx ont démissionné en tant qu'administrateurs de l'appelante le 8 mai 1998.
+7. Les Backx ont nommé Anna van Gorp, la sœur de Marian Backx, comme unique administratrice de l'appelante le 8 mai 1998.
+8. Depuis qu'elle a été nommée administratrice, Anna van Gorp est une résidente des Pays‑Bas. Son adresse actuelle est le 91 Dorpsstraat, 5113 TD Ulicoten, aux Pays‑Bas.
+9. Avant 2007, Anna van Gorp n'était pas rémunérée pour son travail d'administratrice de l'appelante.
+10. Depuis 2007, Anna van Gorp est rémunérée pour son travail d'administratrice de l'appelante. De 2007 à 2011, Anna van Gorp a reçu 500 euros par année. Depuis 2012, Anna van Gorp reçoit 1 500 euros par année.
+11. L'appelante n'a pas d'employé.
+12. Les Backx ont immigré au Canada en mai 1998.
+13. Avant d'immigrer au Canada, les Backx possédaient et exploitaient une ferme aux Pays‑Bas.
+14. Michiel Backx a commencé à exploiter une ferme aux Pays‑Bas en société de personnes avec son père en 1979. Les Backx ont acheté la société de personnes exploitant la ferme des Pays‑Bas des parents de Michiel en 1994.
+15. Les Backx ont constitué l'appelante afin de préserver le capital pour agrandir la ferme des Pays‑Bas et ont transféré la propriété de la société de personnes agricole des Pays‑Bas à l'appelante.
+16. Par suite du transfert des actifs de la société de personnes agricole des Pays‑Bas à l'appelante, l'appelante a créé une rente viagère (la « rente ») payable aux Backx. La rente a une durée de 46 ans.
+17. Avant d'immigrer au Canada en mai 1998, les Backx ont vendu l'essentiel des biens agricoles détenus par la société de personnes agricole des Pays‑Bas et ont placé le produit de la vente auprès de l'appelante, l'entité qui détenait les biens à ce moment‑là.
+18. Après avoir immigré au Canada, les Backx ont acheté une exploitation laitière existante située à Strathroy, en Ontario, le 15 juin 1998, et ont constitué Backx Dairy Farms en société de personnes (la « société de personnes agricole »).
+19. À titre d'associés, les Backx possédaient une participation de 51 % dans la société de personnes agricole.
+20. L'appelante possédait une participation de 49 % dans la société de personnes agricole (la « participation »).
+21. L'appelante a utilisé le produit de la vente des biens agricoles aux Pays‑Bas comme capital de démarrage de la société de personnes agricole.
+22. Le 31 décembre 1998, l'appelante avait remis 2 975 000 $ à la société de personnes agricole.
+23. Le 31 décembre 1998, l'appelante avait également remis du matériel mobile à la société de personnes agricole.
+24. L'appelante a utilisé sa part des profits de la société de personnes agricole pour verser la rente aux Backx.
+25. En 2006, les Backx ont dissous leur société de personnes, et chacun a ensuite possédé 25,5 % de la société de personnes agricole.
+26. Le 9 novembre 2009, les Backx ont constitué Backx Dairy Farms Limited (« Backx Limited »). Au moment de la constitution, les Backx étaient les seuls actionnaires ordinaires, administrateurs et dirigeants de Backx Limited.
+27. Le 30 novembre 2009, l'appelante a vendu la participation à Backx Limited au prix de 4 500 000 $ (la « vente »).
+28. Le protocole d'entente relatif à la vente a été signé au nom de l'appelante par Anna van Gorp, sa seule administratrice, aux Pays‑Bas.
+29. Le prix de la vente a été versé au moyen d'un billet à ordre.
+30. Par une lettre du 9 décembre 2009, Backx Limited a donné un avis au ministre du Revenu national (le « ministre ») conformément au paragraphe 116(5.02) de la Loi de l'impôt sur le revenu (Canada) (la « Loi ») pour divulguer son achat de la participation de l'appelante et lui faire part de son point de vue selon lequel la participation était un bien protégé par traité pour les besoins du paragraphe 116(6.1) de la Loi.
+31. Par une lettre du 27 janvier 2011, le ministre a répondu en affirmant que la participation constituait un bien protégé par traité aux termes du paragraphe 248(1) de la Loi et que Backx Limited ne devait pas verser d'impôt aux termes du paragraphe 116(5) à l'égard de la transaction.
+32. Le 1er janvier 2010, Backx Limited a acheté la participation combinée de 51 % des Backx dans la société de personnes agricole pour 862 998 $. Par conséquent, Backx Limited possédait 100 % de la société de personnes agricole.
+33. La société de personnes agricole a été dissoute et Backx Limited mène toutes les activités agricoles.
+34. La déclaration de revenus produite par l'appelante à l'égard de l'année d'imposition 2009 est la dernière déclaration de revenus canadienne produite par l'appelante.
+35. L'appelante continue de détenir la rente et d'effectuer des versements aux Backx.
+Fait ce 5 juin 2017
+[EN BLANC]
+[EN BLANC]
+McKENZIE LAKE LAWYERS LLP
+Par :
+Avocats de l'appelante
+[EN BLANC]
+Fait ce 5 juin 2017
+[EN BLANC]
+William F. Pentney, c.r.
+Sous-procureur général du Canada
+Par :
+Avocat de l'intimée
+RÉFÉRENCE :
+2018 CCI 142
+No DU DOSSIER DE LA COUR :
+2015-1302(IT)G
+INTITULÉ :
+LANDBOUWBEDRIJF BACKX B.V. c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+London (Ontario)
+DATE DE L'AUDIENCE :
+Le 5 juin 2017
+MOTIFS DU JUGEMENT MODIFIÉS :
+L'honorable juge Guy R. Smith
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 25 juillet 2018
+DATE DU JUGEMENT :
+Le 17 juillet 2018
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Keith M. Trussler
+Me Linda M. Smits
+Avocate de l'intimée :
+Me Joanna Hill
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Noms :
+Me Keith M. Trussler
+Me Linda M. Smits
+Cabinet :
+McKenzie Lake Lawyers LLP
+London (Ontario)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

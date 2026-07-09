@@ -1,0 +1,190 @@
+---
+title: "Ghaffar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108240/index.do"
+last_modified: "2015-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 46"
+citation2: ""
+neutral_citation: "2015 CCI 46"
+decision_date: "2015-02-23"
+language: "fr"
+item_id: "108240"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2758
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:40:52.037000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91679a6b1edcda452583e0588418c5d96058e7b5612b12b3c9641268fe12b1b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ghaffar c. La Reine
+
+- Citation: 2015 CCI 46
+- Decision date: 2015-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2758, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghaffar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-23
+Référence neutre
+2015 CCI 46
+Numéro de dossier
+2009-32(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-32(IT)G
+ENTRE :
+ABDUL GHAFFAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 5 février 2015, à Toronto (Ontario).
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Avocate de l'appelant :
+Me Leigh Somerville Taylor
+Avocate de l'intimée :
+Me Rita Araujo
+ORDONNANCE
+La demande de l'appelant, présentée en vertu du paragraphe 140(2) des Règles de la Cour canadienne de l'impôt (procédure générale), afin de faire infirmer le jugement du 6 octobre 2010 par lequel son appel concernant ses années d'imposition 2003 et 2004 a été rejeté, est refusée, tout comme sa requête en vue de faire proroger le délai prévu pour déposer la demande. Des dépens de 3 000 $, payables dans un délai de 60 jours, sont accordés à l'intimée.
+Signé à Ottawa, Canada, ce 23e jour de février 2015.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 2e jour de juillet 2015.
+Yves Bellefeuille, réviseur
+Référence : 2015 CCI 46
+Date : 20150223
+Dossier : 2009-32(IT)G
+ENTRE :
+ABDUL GHAFFAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Graham
+[1] Abdul Ghaffar a déposé des avis d'appel concernant de nouvelles cotisations relatives à ses années d'imposition 2003 et 2004. Au cours du litige, la Cour a ordonné à M. Ghaffar de comparaître à une audience de justification. Ni M. Ghaffar ni son ancien avocat n'y ont comparu, et la Cour a donc rejeté l'appel de M. Ghaffar. Le jugement rejetant l'appel a été rendu le 6 octobre 2010 (le « jugement par défaut »). M. Ghaffar a demandé que ce jugement soit infirmé conformément au paragraphe 140(2) des Règles de la Cour canadienne de l'impôt (procédure générale). Ce paragraphe autorise la Cour à infirmer un tel jugement si le contribuable présente une demande à cet effet dans les trente jours suivants. M. Ghaffar a attendu jusqu'au 27 septembre 2011 avant de présenter sa demande (la « demande »), soit longtemps après l'expiration du délai de 30 jours. L'intimée s'est opposée à la demande au motif que le délai prévu pour la déposer était expiré. Par une lettre du 7 octobre 2011, le greffe de la Cour canadienne de l'impôt a avisé M. Ghaffar que sa demande d'infirmation du jugement par défaut avait été refusée. Le 11 février 2013, M. Ghaffar a présenté une requête (la « requête »), sollicitant en fait une prorogation du délai prévu pour demander que le jugement par défaut soit infirmé.
+Une question préliminaire [2] L'intimée soulève la question préliminaire de savoir si je suis dessaisi. Elle fait valoir que la lettre du 7 octobre 2011 était une ordonnance définitive de la Cour et que M. Ghaffar ne peut donc pas plaider de nouveau la question devant moi. Je ne suis pas d'accord. Une lettre du greffe, signée par un agent du greffe, n'est pas une ordonnance de la Cour. Selon le paragraphe 167(1) des Règles, dans le cas d'une demande, la Cour rend une ordonnance, et le paragraphe 167(2) (quand on le lit avec la définition d'un « jugement » qui est donnée à l'article 2) requiert qu'une telle ordonnance soit signée. Ce paragraphe ne le dit pas explicitement, mais je ne puis imaginer qu'il envisage qu'une ordonnance soit signée par quelqu'un d'autre qu'un juge ou, dans des circonstances très restreintes qui ne s'appliquent pas en l'espèce[1], l'administrateur judiciaire.
+[3] Comme aucune ordonnance n'a été signée, la demande demeure, pour l'essentiel, en instance; la requête ne fait qu'étoffer la demande et vise à obtenir une prorogation de délai. Au vu de ce qui précède, je ne me considère pas comme dessaisi[2]. Je traiterai la requête comme un complément à la demande, et je traiterai des deux dans les présents motifs. Voyons tout d'abord la requête en prorogation de délai.
+La prorogation de délai [4] L'article 12 des Règles permet à la Cour de proroger un délai. La Cour d'appel fédérale a énoncé les quatre critères qui doivent être remplis pour que la Cour puisse accorder une prorogation de délai en vertu de l'article 12[3] :
+a) l'intention constante de poursuivre l'appel;
+b) le fait que l'appel ait un bien‑fondé;
+c) le fait qu'aucun préjudice ne soit causé à l'autre partie en raison du retard;
+d) le fait qu'une explication raisonnable justifie le retard.
+L'intention constante de poursuivre l'appel [5] Avant le printemps de 2010, l'appel de M. Ghaffar se déroulait normalement. Des listes de documents avaient été déposées et des interrogatoires préalables avaient eu lieu. Pour l'étape suivante de l'appel, M. Ghaffar devait fournir des réponses aux engagements qu'il avait pris lors de son interrogatoire préalable, et la Cour avait fixé comme date limite le 1er mars 2010. M. Ghaffar ne s'est pas acquitté de ses engagements avant cette date, pas plus qu'il n'a demandé à la Cour une prorogation du délai prévu pour le faire. La date limite prévue pour faire rapport à la Cour était le 15 avril 2010. M. Ghaffar n'a pas fait rapport avant cette date, pas plus qu'il n'a demandé que le délai soit prorogé. L'intimée, par contre, a fait rapport à la Cour avant l'expiration de ce délai et lui a demandé une prorogation au motif que M. Ghaffar ne s'était pas encore acquitté de ses engagements. La Cour a prorogé le délai au 15 mai 2010. M. Ghaffar ne s'est pas acquitté de ses engagements, pas plus qu'il n'a fait rapport à la Cour avant cette date. La Cour a donc ordonné la tenue d'une audience de justification le 29 septembre 2010. M. Ghaffar ne s'est pas acquitté de ses engagements avant cette audience, pas plus qu'il n'y a comparu. Son appel a donc été rejeté, et c'est ce qui a donné lieu à la présente instance.
+[6] Pendant toute la période susmentionnée, M. Ghaffar a été représenté par un avocat. Je signale qu'il s'agissait d'un avocat non rattaché au cabinet qui le représente maintenant. De nombreux éléments de preuve ont été présentés au sujet des problèmes de santé physique et mentale qu'a eus l'ancien avocat de M. Ghaffar au cours de la période en question. Les détails précis de ces problèmes ne sont pas pertinents pour ma décision.
+[7] Des éléments de preuve ont également été fournis sur la relation que M. Ghaffar a entretenue avec son ancien avocat. Ils ne sont pas d'une qualité idéale.
+[8] Les deux parties ont interrogé l'ancien avocat. Celui‑ci a reconnu sans peine qu'en raison de ses problèmes de santé, il a de sérieuses difficultés à se souvenir de la période en cause. Il ne se souvient tout simplement pas de certains faits qui sont survenus au cours de cette période[4]. Il croit bien se rappeler d'autres faits rattachés à cette période, mais il n'est pas sûr que ses souvenirs soient exacts[5].
+[9] Par contre, la crédibilité de M. Ghaffar me pose des problèmes. Ce dernier a déclaré que son ancien avocat ne lui avait jamais téléphoné, pas plus qu'à son comptable, M. Ahmed, mais il a plus tard dit avoir reçu deux appels téléphoniques de l'ancien avocat en l'espace de quelques jours[6]. C'est comme si M. Ghaffar savait qu'il était important de dire qu'il n'avait pas eu de communications suffisantes de la part de son ancien avocat, mais qu'il n'était pas sûr du moment exact où ce manque de communications devait avoir eu lieu. Il a nié avoir eu des communications même quand cela était invraisemblable (par exemple lorsque l'avocat ne lui aurait pas téléphoné pour lui dire quand se présenter à des interrogatoires préalables). Il l'a ensuite admis quand cela lui a paru avantageux (par exemple dans le cas de deux appels téléphoniques destinés à organiser et, ensuite, à annuler une réunion). Il s'est ensuite ravisé quand il lui a semblé en avoir trop admis (par exemple pour nier qu'il savait que la réunion portait sur ses engagements ou que l'on avait discuté de ces derniers lors de la conversation téléphonique, car sa thèse était qu'il ignorait quels étaient les engagements requis). Dans le même ordre d'idées, M. Ghaffar a déclaré avoir reçu la lettre du 7 octobre 2011 par laquelle le greffe refusait la demande et l'avoir remise aussitôt à M. Ahmed pour qu'il la lui traduise, mais il a ensuite déclaré que ce dernier ne lui avait pas dit que la demande avait été refusée[7]. C'était comme s'il voulait donner l'impression d'avoir agi avec rapidité et diligence tout en ignorant ce qui se passait. Considérés ensemble, ces dénis invraisemblables m'ont amené à me demander si les dénis par ailleurs vraisemblables de M. Ghaffar sont crédibles.
+[10] Monsieur Ghaffar n'a pas produit d'affidavit de M. Ahmed, même s'il semble que celui‑ci a eu davantage de communications avec l'ancien avocat de M. Ghaffar que M. Ghaffar lui‑même. J'ai tiré de cette omission une inférence défavorable.
+[11] De plus, M. Ghaffar a porté plainte contre son ancien avocat auprès du Barreau du Haut‑Canada. Il est donc possible qu'il ait une incitation financière étrangère à son appel pour blâmer son ancien avocat pour ses problèmes, et son ancien avocat ou l'assureur de ce dernier a peut‑être une incitation financière semblable pour blâmer M. Ghaffar pour ses propres problèmes.
+[12] Il me reste donc la tâche peu enviable de déterminer ce qui s'est passé, en me fondant sur les dires de deux témoins, l'un manquant de fiabilité, l'autre manquant de crédibilité, tous deux ayant des intérêts potentiellement opposés en dehors de la présente instance, et sans l'avantage du témoignage du comptable qui leur servait d'intermédiaire et de traducteur.
+[13] Au vu des éléments de preuve dont je dispose, voici mes conclusions de fait. En général, dans les cas où l'ancien avocat de M. Ghaffar avait un bon souvenir des faits, j'ai préféré sa version à celle de M. Ghaffar et, dans les cas où son souvenir était mauvais ou en l'absence d'éléments de preuve, j'ai préféré la version de M. Ghaffar :
+• Les relations entre M. Ghaffar et son ancien avocat sont devenues tendues au printemps de 2010. La source de cette tension était le fait que M. Ghaffar ne fournissait pas à l'avocat les documents et les renseignements qui étaient nécessaires pour s'acquitter des engagements, une divergence d'opinions sur ce que l'avocat avait convenu de faire pour le dépôt que M. Ghaffar lui avait confié et les problèmes de santé auxquels l'avocat faisait face;
+• M. Ghaffar n'était pas au courant des problèmes de santé de son ancien avocat et ignorait donc que ce dernier ne s'occupait peut‑être pas des questions auxquelles il aurait dû voir;
+• malgré ses problèmes de santé et ses relations tendues avec M. Ghaffar, l'ancien avocat ne s'est pas retiré du dossier. Il est resté inscrit comme avocat au dossier jusqu'à ce qu'il soit remplacé par l'actuelle avocate de M. Ghaffar;
+• l'ancien avocat de M. Ghaffar a informé ce dernier des engagements qu'il devait respecter[8];
+• M. Ghaffar n'a jamais fourni à son ancien avocat les renseignements et les documents qui étaient nécessaires pour s'acquitter des engagements[9];
+• l'ancien avocat de M. Ghaffar n'a pas respecté les délais de communication avec la Cour et n'a pas non plus demandé une prorogation de ces délais ou du délai prévu pour s'acquitter des engagements;
+• M. Ghaffar savait que le délai prévu pour s'acquitter des engagements n'avait pas été respecté[10], mais il ignorait que cela avait été aussi le cas des délais pour faire rapport à la Cour;
+• quelque temps après le 8 juin 2010, l'ancien avocat de M. Ghaffar a décidé de ne plus représenter ce dernier, mais il ne le lui a pas dit clairement. M. Ghaffar a continué de penser que l'avocat le représentait toujours;
+• l'ancien avocat de M. Ghaffar n'a pas informé ce dernier de l'audience de justification;
+• l'ancien avocat de M. Ghaffar n'a pas informé ce dernier que son appel avait été rejeté;
+• les problèmes physiques et mentaux de l'ancien avocat de M. Ghaffar l'ont amené à cesser entièrement de représenter ce dernier en septembre 2010, et ce, sans en aviser M. Ghaffar, l'avocate de l'intimée ou la Cour;
+• avant le mois d'août 2011, M. Ghaffar n'était pas au courant de la tenue de l'audience de justification, ni du rejet de son appel;
+• M. Ghaffar et son ancien avocat n'ont eu aucun contact de septembre 2010 à août 2011, ni aucun contact par la suite. Le contact qu'il y a eu en août 2011 s'est limité au fait que le fils de M. Ghaffar avait tenté de téléphoner à l'ancien avocat de M. Ghaffar et que celui‑ci avait dit qu'il le rappellerait;
+• l'ancien avocat de M. Ghaffar a été l'objet d'une suspension administrative de la part du Barreau du Haut‑Canada en juillet 2011.
+[14] Au vu de ce qui précède, je conclus que la non‑comparution de M. Ghaffar à l'audience de justification n'était pas le signe d'une absence d'intention de poursuivre son appel. Il n'était tout simplement pas au courant qu'on lui avait ordonné de se présenter.
+[15] Cependant, je conclus que le fait que M. Ghaffar ne se soit pas acquitté de ses engagements dénote qu'il n'avait pas l'intention de poursuivre son appel. Pour arriver à cette conclusion, je ne tiens pas compte seulement du fait qu'il a omis de s'acquitter des engagements avant l'expiration du délai, mais aussi, détail plus important, qu'il a continué de ne pas s'en acquitter durant plus d'un an et demi par la suite. Je suis conscient qu'une partie du rôle que joue un avocat auprès de certains types de clients est de faire pression sur eux pour qu'ils s'acquittent de leurs engagements. À l'évidence, M. Ghaffar était l'un de ces clients. Je suis également conscient que, sans cette pression, il est possible que ces clients ne fassent rien d'eux‑mêmes. Je serais disposé à admettre que M. Ghaffar peut avoir continué de ne rien faire pour s'acquitter de ses engagements pendant un certain temps après que son ancien avocat eut coupé les ponts avec lui parce qu'il se fiait à son avocat pour lui dire quoi faire, et à quel moment. Cependant, à un certain stade, vu la mauvaise relation qui s'était établie entre M. Ghaffar et son ancien avocat et vu le temps qui s'était écoulé, M. Ghaffar aurait dû prendre l'initiative d'entrer en contact avec son ancien avocat, de retenir les services d'un nouvel avocat ou de communiquer avec la Cour. Il n'en a rien fait. En réalité, rien ne prouve qu'il ait fait quoi que ce soit au sujet de son appel de juillet 2010 à août 2011.
+[16] Au vu de tout ce qui précède, je conclus que M. Ghaffar n'a pas démontré qu'il entendait poursuivre son appel. Je signale que, pour arriver à cette conclusion, je n'ai tenu aucun compte de ce que M. Ghaffar a fait après avoir découvert que son appel avait été rejeté. Il n'y a aucun doute dans mon esprit qu'il souhaitait poursuivre son appel au cours de cette période et il me semble déraisonnable de s'attendre à ce qu'un contribuable continue de poursuivre activement un appel qui n'existe plus.
+Le bien-fondé de l'appel [17] L'une des questions en litige dans l'appel est l'imposition de pénalités pour faute lourde. Comme l'intimée a le fardeau de justifier ces pénalités, je ne vois pas comment je pourrais ne pas conclure que l'appel est fondé.
+[18] L'avocate de M. Ghaffar a fait plus que plaider simplement que l'appel de son client est fondé. Elle a fait valoir, en invoquant la décision Bens c. La Reine[11], que l'existence de pénalités pour faute lourde signifie qu'il n'aurait pas fallu rejeter au départ l'appel de M. Ghaffar. Dans la décision Bens, il était question de savoir s'il y avait lieu de rejeter, pour défaut de poursuite, un appel dans lequel l'appelant avait omis de s'acquitter des engagements et de comparaître à une audience de justification. La Cour a conclu qu'il y avait lieu d'instruire l'affaire. Cependant, dans la décision Bens, la question consistait à savoir s'il fallait rejeter l'appel. Avant de pouvoir examiner cette question, il me faut d'abord vérifier s'il y a lieu d'accorder une prorogation de délai. La Cour d'appel fédérale a clairement énoncé le critère relatif à l'octroi d'une prorogation de délai, et la question de savoir si des pénalités ont été imposées ou non n'en fait pas partie. J'ai déjà tenu compte de l'existence de pénalités dans mon analyse pour conclure que l'appel est fondé. Je ne suis pas obligé de l'examiner plus avant.
+Le préjudice [19] L'intimée subira un préjudice que des dépens ne sauraient dédommager si la prorogation de délai est accordée. Bien qu'il lui reste encore des copies des documents figurant dans sa liste de documents, l'intimée n'a plus de copies du reste du dossier de M. Ghaffar concernant les années d'imposition en cause. Cela l'empêche non seulement de consulter le dossier, mais aussi de déposer une liste supplémentaire de documents si le besoin s'en fait sentir, de présenter des documents pour mettre en doute le témoignage d'un témoin lors d'un contre‑interrogatoire ou de vérifier si des documents produits par M. Ghaffar dans une liste supplémentaire de documents n'ont pas déjà été remis à l'ARC à une autre fin.
+Une explication raisonnable pour le retard [20] Pour pouvoir décider si M. Ghaffar a une explication raisonnable pour le retard, il me faut d'abord décider s'il est tenu d'expliquer de manière raisonnable le fait d'avoir tardé à déposer soit la demande, soit la requête. La demande dont il est question en l'espèce est une demande visée au paragraphe 140(2). Il n'y a aucune indication dans cette demande que M. Ghaffar voulait obtenir une prorogation de délai. Le critère que la Cour d'appel fédérale a énoncé dans l'arrêt Tomas concerne les prorogations de délai. Je conclus donc que la période dont je dois tenir compte est celle qui s'est écoulée entre le moment où il est devenu nécessaire de demander une prorogation de délai (le 5 novembre 2010[12]) et la date à laquelle la prorogation a été demandée (le 11 février 2013). Il est possible de répartir cette période de 27 mois en trois sous‑périodes.
+a) La première sous-période est le temps écoulé entre la date où il est devenu nécessaire de demander une prorogation (le 5 novembre 2010) et celle à laquelle M. Ghaffar a présenté la demande (le 27 septembre 2011). M. Ghaffar ignorait que le jugement par défaut avait été rendu, et il ne l'a appris qu'au moment où le service de recouvrement de l'ARC a communiqué avec lui en août 2011 et où il a ensuite parlé à un agent du greffe et a appris ce qui s'était passé. J'ai de la difficulté à tenir M. Ghaffar responsable d'avoir omis de demander une prorogation de délai au cours d'une période où il ignorait qu'il en avait besoin d'une. Je souscris à la thèse de l'intimée, à savoir que si M. Ghaffar s'était intéressé de plus près à son appel ou y avait joué un rôle plus actif, il aurait peut‑être découvert plus tôt qu'il fallait demander une prorogation, mais j'ai déjà tenu compte de l'inaction de M. Ghaffar au moment d'examiner s'il avait toujours l'intention de faire appel et je ne crois donc pas qu'il soit approprié de le tenir responsable de la même erreur dans cette partie‑ci de l'analyse.
+b) La deuxième sous‑période est le temps écoulé entre la date où M. Ghaffar a reçu la lettre du greffe (le 7 octobre 2011) et celle à laquelle il a retenu les services d'une avocate en l'espèce. Je n'ai aucune preuve du moment où M. Ghaffar a retenu les services de son avocate. Celle‑ci s'est opposée à ce qu'il réponde à cette question quand on l'a contre‑interrogé sur son affidavit[13]. L'intimée a fourni une preuve que le cabinet de l'avocate de M. Ghaffar était entré en contact avec le greffe dès le 25 juillet 2012[14]. L'avocate de M. Ghaffar n'a pas voulu que j'en infère que M. Ghaffar avait probablement retenu les services de son cabinet à cette date‑là ou plus tôt, mais je crois qu'il est raisonnable de conclure au moins que M. Ghaffar avait demandé un avis juridique à ce moment‑là. En tout état de cause, quelle que soit la durée de cette deuxième sous‑période, je n'ai aucune preuve de la raison pour laquelle M. Ghaffar n'a pas demandé une prorogation de délai lors de cette deuxième sous‑période. C'est à M. Ghaffar qu'il incombe de fournir une preuve montrant pourquoi la requête devrait être accueillie, et sans cette preuve, je ne puis conclure que son retard était raisonnable.
+c) La troisième sous-période est celle qui s'étend entre la date où M. Ghaffar a retenu les services de son avocate et celle à laquelle il a déposé la requête (le 11 février 2013). Là encore, je n'ai aucune preuve du moment où M. Ghaffar a retenu les services de son avocate ou pourquoi il lui a fallu ensuite au moins six mois pour déposer la requête. Je tire une conclusion défavorable de la réticence de l'avocate à ce que M. Ghaffar reconnaisse à quel moment il avait retenu les services de son cabinet. Ce refus m'amène à penser que l'avocate ne veut pas que je sache combien de temps la troisième sous-période a réellement duré.
+[21] Au vu de ce qui précède, je conclus que M. Ghaffar n'a pas expliqué de manière raisonnable pourquoi il a tardé à présenter une demande de prorogation de délai au cours de la deuxième ou de la troisième sous‑période.
+Conclusion [22] Au vu de ce qui précède, je conclus qu'il n'y a pas lieu d'accorder à M. Ghaffar une prorogation de délai pour déposer la demande. Son absence d'intention constante de poursuivre l'appel, le préjudice causé à l'intimée de même que le manque d'explication pour le fait d'avoir tardé à demander une prorogation de délai dénotent tous fortement qu'il convient de rejeter la requête. Le simple fait qu'il y ait un fondement à l'appel sous-jacent ne suffit pas en soi pour que j'accorde la prorogation. Étant donné que la demande a donc été déposée hors délai, elle aussi est rejetée.
+Les dépens [23] L'intimée a demandé des dépens de 3 000 $, à payer dans un délai de 60 jours, indépendamment de l'issue de l'instance. L'avocate de M. Ghaffar n'a pas pu me donner une raison convaincante pour laquelle de tels dépens ne seraient pas appropriés. La présente affaire a été à ce point complexe qu'il a été nécessaire de la soumettre à une gestion d'instance. Il a fallu interroger l'ancien avocat de M. Ghaffar, et contre‑interroger à trois reprises les auteurs des affidavits des parties. Dans les circonstances, je conclus que le chiffre avancé par l'intimée est tout à fait convenable. J'hésite à aggraver l'infortune de M. Ghaffar, mais il n'en demeure pas moins qu'il ne faudrait pas que l'intimée ait à souffrir des problèmes que M. Ghaffar a eus avec son ancien avocat. Si M. Ghaffar juge que la conduite de son ancien avocat lui a causé des dépenses additionnelles, il y a d'autres voies qu'il peut poursuivre.
+Signé à Ottawa, Canada, ce 23e jour de février 2015.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 2e jour de juillet 2015.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2015 CCI 46
+No DU DOSSIER DE LA COUR :
+2009-32(IT)G
+INTITULÉ :
+ABDUL GHAFFAR c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 5 février 2015
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge David E. Graham
+DATE DE L'ORDONNANCE :
+Le 23 février 2015
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Leigh Somerville Taylor
+Avocate de l'intimée :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Leigh Somerville Taylor
+Cabinet :
+Leigh Somerville Professional Corporation
+Toronto (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir le paragraphe 23(2) de la Loi sur la Cour canadienne de l'impôt.
+[2] L'intimée a présenté un certain nombre d'observations subsidiaires sur cette question. Compte tenu de mes conclusions qui suivent, il n'est pas nécessaire à mon avis d'en traiter.
+[3] Tomas c. La Reine, 2007 CAF 86, au paragraphe 11.
+[4] Interrogatoire de l'ancien avocat de M. Ghaffar; dossier de requête de l'intimée; onglet 2; questions 105, 106, 110, 121 et 124 à 127.
+[5] Interrogatoire de l'ancien avocat de M. Ghaffar; dossier de requête de l'intimée; onglet 2; questions 153 et 154.
+[6] Contre-interrogatoire de M. Ghaffar; dossier de requête de l'intimée; onglet 4; questions 74 à 80 et 108 à 116.
+[7] Contre-interrogatoire de M. Ghaffar; dossier de requête de l'intimée; onglet 4; questions 168 à 173.
+[8] Interrogatoire de l'ancien avocat de M. Ghaffar; dossier de requête de l'intimée; onglet 2; questions 81 à 85.
+[9] Interrogatoire de l'ancien avocat de M. Ghaffar; dossier de requête de l'intimée; onglet 2; questions 99 et 100.
+[10] Interrogatoire de l'ancien avocat de M. Ghaffar; dossier de requête de l'intimée; onglet 2; question 87.
+[11] 2011 TCC 240.
+[12] C'est-à-dire 30 jours après la date à laquelle le jugement par défaut a été rendu (le 6 octobre 2010).
+[13] Transcription du contre-interrogatoire d'Abdul Ghaffar; dossier de requête de l'intimée; onglet 4; questions 130 à 132.
+[14] Affidavit de Jena McCaustlin; dossier de requête de l'intimée; onglet 6; pièce « B ».

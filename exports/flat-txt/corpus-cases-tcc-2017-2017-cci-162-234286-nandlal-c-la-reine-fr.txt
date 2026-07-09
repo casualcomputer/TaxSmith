@@ -1,0 +1,176 @@
+Title: Nandlal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/234286/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-162-234286-nandlal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-08-30
+
+# Nandlal c. La Reine
+
+- Citation: 2017 CCI 162
+- Decision date: 2017-08-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2188, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nandlal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-08-30
+Référence neutre
+2017 CCI 162
+Numéro de dossier
+2016-1647(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016‑1647(IT)I
+ENTRE :
+HERALALL NANDLAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 mai 2017, à Toronto (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Caroline Ahn
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation, datée du 3 décembre 2012, qui a été établie sous le régime de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2011 de l’appelant est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour d’août 2017.
+« Réal Favreau »
+Juge Favreau
+Référence : 2017 CCI 162
+Date : 20170830
+Dossier : 2016‑1647(IT)I
+ENTRE :
+HERALALL NANDLAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] La Cour est saisie d’un appel interjeté contre une nouvelle cotisation datée du 3 décembre 2012, établie sous le régime de la Loi de l’impôt sur le revenu, L.R.C. 1985 (5e suppl.), ch. 1, telle que modifiée (la « Loi »), par le ministre du Revenu national (le « ministre ») à l’égard de l’année d’imposition 2011 de l’appelant.
+[2] La question en litige dans le présent appel consiste à savoir si l’appelant a le droit de déduire, dans le calcul de son revenu pour l’année d’imposition 2011, le montant de 27 078 $ qu’il a demandé à titre d’« autres déductions » et qui a été refusé par le ministre.
+[3] Pour calculer l’impôt payable par l’appelant pour l’année d’imposition 2011, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) En 2011, l’appelant a gagné :
+(i) un revenu d’emploi de 148 649 $ d’Ally Crédit Canada Limitée;
+(ii) un revenu d’intérêts de 4 446 $;
+(iii) un revenu d’entreprise brut de 3 000 $ et un revenu d’entreprise net de 945 $ provenant de la prestation de services de comptabilité, de fiscalité et d’assurance en tant que comptable agréé;
+b) Vers 2001 ou 2002, l’appelant et un groupe de personnes (le « groupe ») ont souhaité établir une entreprise de transport régional desservant le Québec et l’Ontario ou investir dans une telle entreprise;
+c) Entre 2002 et 2003, le groupe a créé Val Air inc. et Lignes aériennes Val Air inc.;
+d) Le groupe a établi Val Air inc. et Lignes aériennes Val Air inc. afin d’offrir des services en tant que compagnie aérienne régionale;
+e) En 2002, 2003 et 2004, le groupe a retenu les services de certains professionnels pour mettre en place une compagnie aérienne régionale (les « services »);
+f) Le groupe n’a jamais payé les services qui ont été fournis;
+g) L’appelant était un actionnaire de Val Air inc.;
+h) Val Air inc. a déclaré faillite le 24 février 2004, et la société de portefeuille, Lignes aériennes Val Air inc., a été dissoute le 17 octobre 2008;
+i) Par jugement rendu le 18 novembre 2008, la Cour du Québec a conclu que l’appelant et ses codéfendeurs étaient tenus de payer des dommages‑intérêts aux demandeurs dans Lemieux Nolet c. Lignes aériennes Val Air inc., 2008 QCCQ 10339 (la « décision »);
+j) L’appelant et un des autres codéfendeurs ont interjeté appel de la décision (l’« appel »);
+k) En 2011, la Cour d’appel du Québec a rejeté l’appel;
+l) En 2011, l’appelant a versé :
+(i) 22 578 $ au titre de dommages‑intérêts accordés par ordonnance judiciaire (les « dommages‑intérêts »);
+(ii) 4 500 $ en ce qui concerne la présentation de l’appel; (collectivement, les « paiements »);
+m) Les dommages‑intérêts payés se rapportaient à des honoraires professionnels impayés;
+n) Les paiements n’ont pas été effectués dans le cadre des activités commerciales de l’appelant.
+[4] Le montant de 27 078 $ réclamé par l’appelant à titre de déduction couvre la somme de 4 500 $ qu’il a versée en 2011 à ses avocats, Kugler Kandestin S.E.N.C.R.L., pour le représenter dans un appel interjeté à l’encontre d’un jugement rendu le 18 novembre 2008 par l’honorable juge Michel St‑Hilaire de la Cour du Québec. Le solde de 22 578,30 $ représente le montant des honoraires d’avocat que l’appelant a payés en 2011 à Beauvais Truchon et Associés, S.E.N.C. conformément au jugement mentionné ci‑dessus. Les montants payés par l’appelant ne sont pas contestés par l’intimée.
+[5] Aux termes du jugement de la Cour du Québec daté du 18 novembre 2008 et modifié le 26 novembre 2008, l’appelant a été tenu solidairement responsable avec MM. Gilles Filiatreault et Victor Wozniak de payer à :
+a) Hill & Knowlton Ducharme Perron, la somme de 64 329,83 $ avec intérêts, plus l’indemnité additionnelle prévue à l’article 1619 du Code civil du Québec à compter du 2 avril 2004;
+b) Beauvais Truchon et associés, S.E.N.C., la somme de 40 595,71 $ avec intérêts, plus l’indemnité additionnelle prévue à l’article 1619 du Code civil du Québec à compter du 5 mai 2003;
+c) Lemieux Nolet, un cabinet comptable, la somme de 45 289,76 $ avec intérêts, plus l’indemnité additionnelle prévue à l’article 1619 du Code civil du Québec à compter du 2 avril 2004.
+[6] La décision de la Cour du Québec a été confirmée par la Cour d’appel du Québec dans un jugement unanime rendu le 22 mars 2011.
+[7] Les appelants, MM. Gilles Filiatreault et Victor Wozniak, en tant que promoteurs/investisseurs souhaitant établir une compagnie aérienne régionale desservant des municipalités dans les provinces du Québec et de l’Ontario, ont été poursuivis personnellement par trois cabinets professionnels pour services rendus principalement en 2001, 2002 et 2003. Les services fournis par les cabinets professionnels consistaient principalement en l’élaboration de plans d’affaires et en la prestation de conseils sur la façon de structurer l’investissement et de trouver le financement nécessaire auprès d’institutions gouvernementales et d’autres entreprises d’investissement publiques ou privées.
+[8] Dans la poursuite de leur projet, les promoteurs/investisseurs ont constitué, à la fin de 2000 ou au début de 2001, une société à numéro inactive au Québec jusqu’en février 2002, date à laquelle le nom de la société a été changé pour « Les lignes aériennes Val Air inc. ». Cette société n’a jamais exercé d’activités en tant que compagnie aérienne. En 2003, « Les lignes aériennes Val Air inc. » est devenue une société de portefeuille lorsque les promoteurs/investisseurs, avec d’autres investisseurs de l’Ontario, ont formé une autre compagnie, Val Air inc., pour offrir des services de transport aérien. Val Air inc. a commencé ses activités en décembre 2003 et a déclaré faillite le 24 février 2004. « Les lignes aériennes Val Air inc. » a cessé ses opérations en 2004 et a été dissoute le 17 octobre 2008.
+[9] L’appelant était actionnaire et administrateur des « Lignes aériennes Val Air inc. » et de « Val Air inc. ».
+[10] L’appelant a témoigné à l’audience. Il est comptable et il a travaillé pour KPMG de décembre 2002 à 2008. Aucun renseignement concernant les activités qu’il a menées de 2008 à 2011 n’a été fourni. Sa déclaration de revenus pour l’année d’imposition 2011 a été déposée comme pièce. Cette année‑là, l’appelant a gagné un revenu d’emploi de 148 649,94 $ à titre d’employé d’Ally Crédit Canada Limitée et il a déclaré un revenu d’entreprise brut de 3 000 $ et un revenu d’entreprise net de 945 $ générés par ses services de comptabilité, de fiscalité et d’assurance. Le montant de 27 078,30 $ faisant l’objet du présent appel a été demandé par l’appelant à la ligne 232, sous le titre « Autres déductions ». L’appelant a expliqué à l’audience qu’il exerce ses activités à titre individuel.
+Thèse des parties
+A. Thèse de l’appelant
+[11] L’appelant a déclaré qu’il demandait une déduction pour les sommes qu’il avait payées après que la Cour d’appel du Québec eut rendu une décision définitive établissant qu’il était responsable du paiement des notes d’honoraires impayées relatives à la prestation de services professionnels.
+[12] L’appelant a allégué que les notes d’honoraires impayées se rapportaient à des services professionnels rendus pendant que Val Air inc. exerçait ses activités.
+[13] L’appelant a soutenu que, puisqu’il avait été tenu personnellement responsable d’une partie des notes d’honoraires impayées, il devrait être considéré comme ayant engagé les dépenses lui‑même et comme ayant lui‑même exercé les activités de transport aérien en vue de tirer un revenu d’entreprise.
+[14] L’appelant s’est appuyé sur le bulletin d’interprétation IT‑467R2, lequel renvoie à l’arrêt 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, de la Cour suprême du Canada et à l’arrêt Robert McNeill c. Canada, 2000 D.T.C. 6211, de la Cour d’appel fédérale.
+B. Thèse de l’intimée
+[15] L’intimée a soutenu que l’appelant n’exerçait aucune activité de transport aérien en 2011 et, par conséquent, qu’il n’avait aucune source de revenus en 2011. Le montant réclamé en 2011 à titre d’« autre déduction » n’a pas été demandé à titre de dépense d’entreprise et n’était pas lié aux activités comptables de l’appelant. Par conséquent, les dépenses déduites par l’appelant étaient de nature personnelle.
+[16] L’intimée a également allégué qu’il n’y a aucun lien entre les honoraires professionnels payés par l’appelant et les activités qu’il exerce lui‑même ou celles exercées par Val Air inc.
+[17] Au moment du paiement des honoraires professionnels par l’appelant, la société « Les lignes aériennes Val Air inc. » était dissoute, et la société « Val Air inc. » avait déclaré faillite. Par conséquent, l’appelant a effectué les paiements sans attente raisonnable d’en tirer un revenu d’entreprise.
+Le droit
+[18] Les dispositions de la Loi applicables en l’espèce sont les suivantes : les alinéas 3a) et 4(1)a), paragraphes 9(1) et (2), les alinéas 18(1)a) et h) et l’article 248 (la définition de « frais personnels ou de subsistance »), qui sont ainsi libellés :
+Revenu pour l’année d’imposition
+3 Pour déterminer le revenu d’un contribuable pour une année d’imposition, pour l’application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l’année (autre qu’un gain en capital imposable résultant de la disposition d’un bien) dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien,
+[…]
+Revenu ou perte provenant d’une source déterminée ou de sources situées dans un endroit déterminé
+4(1) Les règles suivantes s’appliquent à la présente loi :
+a) le revenu ou la perte d’un contribuable pour une année d’imposition provenant d’une charge, d’un emploi, d’une entreprise, de biens ou d’une autre source, ou de sources situées dans un endroit déterminé, s’entend du revenu ou de la perte, selon le cas, du contribuable, calculés conformément à la présente loi, à supposer que ce contribuable n’ait eu, durant l’année d’imposition, aucun revenu ni perte, sauf ce qui provenait de cette source, ni aucun revenu ou perte, sauf ce qui provenait de ces sources, selon le cas, et qu’il n’ait eu droit à aucune déduction dans le calcul de son revenu pour l’année d’imposition à l’exception des déductions qu’il est raisonnable de considérer comme entièrement applicables à cette source ou à ces sources, selon le cas, et à l’exception de la partie de toutes autres déductions qu’il est raisonnable de considérer comme applicable à cette source ou à ces sources;
+[…]
+Revenu
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+Exceptions d’ordre général
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles.
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+Frais personnels ou de subsistance
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui‑ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+Définitions
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+« frais personnels ou de subsistance » Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+b) les dépenses, primes ou autres frais afférents à une police d’assurance, un contrat de rentes ou à d’autres contrats de ce genre, si le produit de la police ou du contrat est payable au contribuable ou à une personne unie à lui par les liens du sang, du mariage, de l’union de fait ou de l’adoption, ou au profit du contribuable ou de cette personne;
+c) les dépenses inhérentes aux biens entretenus par une succession ou une fiducie au profit du contribuable à titre de bénéficiaire.
+Analyse
+[19] L’appelant a déduit un montant total de 27 028 $ à titre de frais juridiques et de dommages‑intérêts dans sa déclaration de revenus de 2011. La déduction se rapporte à un montant accordé aux créanciers de l’appelant et des autres promoteurs/investisseurs par un jugement de la Cour d’appel du Québec relativement à des notes d’honoraires impayées pour services rendus à une entreprise commerciale en vue d’établir une compagnie aérienne régionale. Les frais juridiques déduits par l’appelant ont été engagés pour défendre sa cause devant un tribunal.
+[20] Les promoteurs/investisseurs de l’entreprise étaient MM. Gilles Filiatreault, Heralall Nandlal, Victor Wozniuk et Benoît Tanguay. M. Filiatreault était le responsable du groupe et celui qui avait sollicité les services des trois cabinets professionnels. Les professionnels étaient responsables de la préparation des plans d’affaires, de la recherche du financement requis et du démarrage des activités de la compagnie aérienne.
+[21] Deux sociétés ont été créées en vue d’exploiter la compagnie aérienne. La société Les Lignes aériennes Val Air inc. n’avait été créée que pour détenir les actions de Val Air inc., qui a exploité la compagnie aérienne de novembre 2003 au 24 février 2004.
+[22] Les Lignes aériennes Val Air inc. a été désignée à titre de défenderesse dans les instances introduites par Lemieux Nolet et Hill & Knowlton/Ducharme Perron en mai 2004, mais elle n’a pas été tenue responsable des notes d’honoraires impayées depuis sa dissolution le 17 octobre 2008, peu avant l’audition de l’affaire les 28 et 29 octobre 2008.
+[23] Dans son témoignage, l’appelant a déclaré avoir investi 75 000 $ dans Val Air inc. en 2002 au moyen d’un paiement forfaitaire, mais aucune preuve de cet investissement n’a été soumise à la Cour. Cependant, le juge Michel St‑Hilaire de la Cour du Québec a indirectement confirmé l’investissement de l’appelant lorsqu’il a déclaré au paragraphe 90 de sa décision que trois des quatre promoteurs avaient investi 246 000 $ dans Val Air inc.
+[24] Il ressort clairement de la preuve que l’appelant n’a jamais eu l’intention d’exercer, personnellement ou en tant que membre d’un groupe de promoteurs ou d’investisseurs, des activités de transport aérien régional et, de fait, il ne l’a jamais fait. Deux personnes morales ont été créées pour mener de telles activités, et l’une des entités a effectivement exploité la compagnie aérienne régionale pendant une courte période. Les activités menées par l’appelant en 2001 et en 2002 dans le cadre de l’entreprise aérienne ne constituaient pas une source de revenus pour lui.
+[25] Même si les activités aériennes devaient constituer une source de revenus pour l’appelant, cette source de revenus a disparu lorsque Val Air inc. a déclaré faillite en 2004 et lorsque Les lignes Aériennes Val Air inc. a été dissoute en 2008. En 2011, l’appelant n’avait aucune source de revenus provenant des activités de la compagnie aérienne et il n’exerçait aucune autre activité que ses activités de comptabilité. En 2011, il n’y avait aucun lien entre les dépenses pour lesquelles l’appelant a demandé une déduction et l’entreprise qu’il exploitait en 2011, son entreprise de comptabilité. Cette absence de lien entre les dépenses réclamées par l’appelant et son entreprise de services comptables semble être la raison pour laquelle l’appelant a déduit les dépenses dans sa déclaration de revenus au titre d’« autres déductions » et non en tant que dépenses engagées dans l’exploitation d’une entreprise.
+[26] La décision de la Cour suprême du Canada dans l’arrêt 65302 British Columbia Ltd., précité, a confirmé la déductibilité d’amendes et de pénalités payées en vue de tirer un revenu en application de l’alinéa 18(1)a) de la Loi. Dans l’arrêt Robert McNeill, précité, la Cour d’appel fédérale a autorisé une déduction semblable à l’égard des dommages‑intérêts accordés par un tribunal pour inexécution d’un contrat.
+[27] Dans le présent appel, le débat ne porte pas sur la déductibilité d’amendes ou de pénalités ou la déduction de dommages‑intérêts obtenus pour cause d’inexécution de contrat. En l’espèce, il s’agit essentiellement d’un jugement ordonnant à l’appelant de payer sa part des honoraires professionnels exigés pour des services rendus et les frais juridiques qu’il a engagés pour interjeter appel de la décision de la Cour du Québec devant la Cour d’appel du Québec. Lors de l’audience, l’appelant n’a pas précisé le montant de l’indemnité additionnelle qu’il a payée conformément à une ordonnance prononcée en vertu de l’article 1619 du Code civil du Québec.
+[28] En l’espèce, les arrêts 65302 British Columbia Ltd. et McNeill n’aident pas l’appelant parce que les dépenses engagées en 2011 au moment où l’appelant a reçu l’ordre d’effectuer les paiements n’ont pas été faites en vue de tirer un revenu, comme l’exige l’alinéa 18(1)a) de la Loi.
+[29] Par conséquent, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour d’août 2017.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2017 CCI 162
+NO DU DOSSIER DE LA COUR :
+2016‑1647(IT)I
+INTITULÉ :
+Heralall Nandlal et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 mai 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 30 août 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Caroline Ahn
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

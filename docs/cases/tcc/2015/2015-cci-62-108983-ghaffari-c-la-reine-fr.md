@@ -1,0 +1,202 @@
+---
+title: "Ghaffari c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108983/index.do"
+last_modified: "2015-04-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 62"
+citation2: ""
+neutral_citation: "2015 CCI 62"
+decision_date: "2015-04-08"
+language: "fr"
+item_id: "108983"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2856
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:37:12.177000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "055220de8b275380c650f25d4a9cc9c685e2bbdd03685f2d8dceb8b34cc825ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ghaffari c. La Reine
+
+- Citation: 2015 CCI 62
+- Decision date: 2015-04-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2856, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ghaffari c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-08
+Référence neutre
+2015 CCI 62
+Numéro de dossier
+2014-1689(IT)I, 2014-1694(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-1689(IT)I
+ENTRE :
+SHAHRZAD GHAFFARI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de Bernard Tajick (2014-1694(IT)I), le 25 novembre 2014, à Montréal (Québec).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentants de l’appelante :
+Élizabeth Lachance
+Benoît Larochelle
+Avocate de l’intimée :
+Me Christina Ham
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est accueilli en partie. L’affaire est, par conséquent, déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Kingston (Ontario), ce 8e jour d’avril 2015.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Dossier : 2014-1694(IT)I
+ENTRE :
+BERNARD TAJICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de Shahrzad Ghaffari (2014-1689(IT)I), le 25 novembre 2014, à Montréal (Québec).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentants de l’appelant :
+Élizabeth Lachance
+Benoît Larochelle
+Avocate de l’intimée :
+Me Christina Ham
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est accueilli en partie. L’affaire est, par conséquent, déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs du jugement ci-joints.
+Signé à Kingston (Ontario), ce 8e jour d’avril 2015.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2015 CCI 62
+Date : 20150408
+Dossiers : 2014-1689(IT)I
+2014-1694(IT)I
+ENTRE :
+SHAHRZAD GHAFFARI,
+BERNARD TAJICK,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] Dans le dossier 2014-1689(IT)I, l’appelante est Shahrzad Ghaffari (ci-après « Ghaffari »). Dans le dossier 2014-1694(IT)I, l’appelant est Bernard Tajick (ci‑après « Tajick »). Les deux appelants sont conjoints. Le 14 mai 2013, le ministre du Revenu national (ci-après, le « ministre ») a établi des nouvelles cotisations à l’égard des deux appelants en ajoutant à leurs revenus la somme de 53 100 $ chacun pour l’année d’imposition 2009, dont 50 550 $ à titre de revenus de location.
+[2] Les appelants interjettent appel de leurs nouvelles cotisations. Ces deux appels ont été entendus sur preuve commune.
+[3] La seule question en litige consiste à déterminer si, pour l’année d’imposition 2009, le ministre était justifié d’ajouter aux revenus des appelants la somme de 50 550 $ chacun à titre de revenus de location.
+Contexte factuel [4] Le 17 mai 2010, le ministre a établi par rapport aux appelants des cotisations initiales pour l’année d’imposition 2009. Le 14 mai 2013, le ministre a établi de nouvelles cotisations, ajoutant aux revenus des appelants la somme de 53 100 $ chacun pour l’année d’imposition 2009, dont la somme de 50 550 $ à titre de revenus de location. Les appelants ont signifié au ministre des avis d’opposition le 31 mai 2013, à l’encontre des nouvelles cotisations. Le 3 mars 2014, le ministre a confirmé les nouvelles cotisations, d’où les présents appels.
+[5] Les appelants sont administrateurs et actionnaires d’une société nommée « Auberge Manoir Ville-Marie inc. » (ci-après l’« Auberge »), incorporée le 23 décembre 2004. Ils sont propriétaires à parts égales d’un immeuble situé au 3130 de la rue Sainte‑Catherine Est à Montréal (ci-après l’« immeuble »). De plus, ils sont partenaires dans une entreprise en nom collectif opérant sous la raison sociale de Groupe Best Dev (S.E.N.C.) (ci-après « Best Dev »). L’immeuble est géré par Best Dev et est loué à l’Auberge. L’Auberge exploite un commerce d’hôtellerie à cet immeuble.
+[6] Monsieur Tajick nous a expliqué que l’immeuble était hypothéqué et la banque exigeait une normalisation des relations commerciales entre Best Dev et l’Auberge. La banque demandait un revenu fixe ainsi qu’un bilan des revenus chaque année afin d’être conforme aux normes de la banque. Un bail fut donc conclu entre Best Dev et l’Auberge le 1er janvier 2005 (voir la pièce A-1, onglet 2). Par ce bail, Best Dev (représentée par Tajick et Ghaffari) est décrite comme propriétaire et l’Auberge (aussi représentée par Tajick et Ghaffari) est décrite comme locataire. Le bail était d’une durée de cinq ans, renouvelable pour cinq autres années. Le loyer était de 9 800 $ par mois, soit 117 600 $ par année, plus les taxes en vigueur. Selon le bail, l’immeuble est destiné « à l’auberge / hôtel, pour location : chambres, salle de réception et réunion. » Le bail prévoyait que le montant du loyer était susceptible d’être ajusté au début de chaque année. La clause pertinente stipule ce qui suit :
+« Il pourrait y avoir un ajustement de [sic] loyer au début de chaque année selon les coûts real [sic] des opérations et des améliorations dans l’immeuble. »
+[7] Il est incontestable que les appelants, Best Dev et l’Auberge ont un lien de dépendance et donc, effectivement, les appelants louaient l’immeuble à eux‑mêmes. Monsieur Tajick nous a dit que les appelants n’avaient que très peu de connaissance du quartier où est situé l’immeuble avant de l’acheter. Le montant du loyer n’était donc qu’une estimation qui a été établie en fonction de la valeur investie dans l’immeuble ainsi que de l’état du marché locatif que monsieur Tajick croyait exister à l’époque dans le quartier.
+[8] Monsieur Tajick a témoigné qu’il s’est rendu compte dès le début que l’Auberge se trouvait dans l’impossibilité de continuer à payer le montant de loyer prévu par le bail et, donc, se fiant à la clause permettant un ajustement, le loyer fut ajusté de temps en temps. Pour l’année 2005, les appelants ont déclaré dans leurs déclarations de revenus le montant de 100 800 $ comme loyer au lieu de 117 600 $ comme prévu par le bail. Pour l’année d’imposition 2006, ils ont déclaré le montant de 109 200 $ à titre de loyer. Pour l’année 2007, ils ont encore déclaré la somme de 109 200 $ comme loyer. Le même montant fut déclaré pour l’année 2008. Par contre, le montant déclaré comme loyer pour l’année d’imposition 2009 fut diminué de manière importante à 16 500 $. Une grande différence par rapport aux années précédentes dans les circonstances. Monsieur Tajick nous a expliqué qu’il avait déjà remboursé l’hypothèque donc la pression pour présenter un bilan conforme aux normes de la banque était moindre.
+[9] L’Auberge n’a jamais payé le loyer prévu au bail. Les paiements de loyer sont toujours en retard. Monsieur Tajick a témoigné que même si Best Dev a facturé les montants indiqués plus haut et que les appelants ont déclaré ces mêmes montants dans leurs déclarations de revenus, Best Dev et, donc, les appelants n’ont jamais reçu les montants facturés et déclarés. Par contre, les appelants ont payé les impôts y afférents. En 2009, l’Auberge a payé le montant de 65 691 $, ce qui représente les retards des années précédentes pour lesquels les appelants ont déjà payé les impôts. En produisant leurs déclarations de revenus pour l’année 2009, les appelants ont chacun déclaré un revenu de location de l’immeuble de seulement 8 250 $ (16 500 $ divisé par 2) entrainant une perte locative de 47 822 $ (voir les pièces I-1 et I-2).
+[10] En contre-interrogatoire, monsieur Tajick était d’accord pour dire que les appelants ont choisi d’utiliser la méthode de comptabilité d’exercice au lieu de la méthode de comptabilité de caisse. Ils doivent donc payer les impôts sur les montants déclarés même s’ils ne les ont pas reçus. Il était aussi d’accord pour dire que les revenus de Best Dev sont compris dans les revenus personnels des appelants. Il nous a dit que Best Dev tolérait un si grand retard dans les paiements car il s’agissait d’un bail entre eux-mêmes et que leur priorité était de payer les impôts même sur des montants qu’ils n’avaient pas reçus en espérant les recevoir les années suivantes. Monsieur Tajick était d’accord pour dire qu’il n’aurait pas loué l’immeuble à un loyer si bas à une personne avec qui il n’avait pas un lien de dépendance. En 2009, Best Dev a accepté un loyer minimal de seulement 16 500 $ car l’Auberge n’avait pas les moyens de payer plus. Je ne peux pas accepter cette prétention car les états financiers de l’Auberge pour l’exercice financier se terminant le 31 décembre 2009 indiquent que celle-ci a réalisé un profit de 55 651 $, alors que l’Auberge aurait subi des pertes nettes les années précédentes, c.-à-d. 2006, 2007 et 2008 (voir la pièce A-1, onglet 8). De plus, il est incontestable que l’Auberge a payé à Best Dev la somme de 65 691 $ en 2009, ce qui supposément représente des paiements en retard pour les années précédentes et ce que l’Auberge n’aurait pas pu faire si cette société faisait face à des difficultés financières telles que décrites par monsieur Tajick.
+[11] Monsieur Rachid Zaddoug, vérificateur à l’emploi de l’Agence du revenu Canada (ci-après l’« Agence »), a effectué une vérification de l’Auberge et, par la suite, il a fait un examen des déclarations de revenus des appelants. En examinant les déclarations de l’Auberge, il a fait une analyse de risque pour l’année d’imposition 2009 et il a constaté que l’Auberge avait seulement déclaré le montant de 16 500 $ comme loyer et que les appelants avaient déclaré ce même montant comme revenu – un montant très bas par rapport aux années précédentes. Par la suite, il a établi de nouvelles cotisations à l’égard des appelants en tenant compte du fait que le loyer devait être de 117 600 $, comme prévu par le bail, au lieu de 16 500 $. En contre-interrogatoire, monsieur Zaddoug a indiqué que lorsqu’il avait établi les nouvelles cotisations, il était au courant que dans les années précédentes, le loyer déclaré était de 109 000 $ environ et jamais de 117 600 $ comme indiqué dans le bail. Il a expliqué qu’il avait seulement cotisé selon le montant indiqué au bail et non selon les montants déclarés dans le passé.
+[12] Il est très important de noter qu’au cours de l’année d’imposition en question, les appelants ont vendu un immeuble locatif situé au 6366 de la rue Chester à Montréal, réalisant un gain en capital imposable de 188 050 $ chacun. Ils ont aussi chacun récupéré 62 357 $ environ à titre de récupération d’amortissement. Les appelants ont chacun réalisé un revenu net de 64 390 $ pour l’année d’imposition 2009 avec la vente de cet immeuble. Il est donc évident que les appelants faisaient face à une obligation fiscale très importante pour l’année d’imposition en question en vertu de cette vente.
+Thèse des appelants [13] Les appelants soutiennent que l’Auberge et Best Dev avaient la faculté de fixer un montant de loyer différent de celui inscrit au bail. Il s’agit de la liberté contractuelle entre deux parties contractantes. La modification du loyer avait été prévue dès le début en incluant une clause à cet effet dans le bail. La commune intention des parties était de permettre une modification au loyer en fonction des circonstances. En droit civil, le fisc ne possède pas de droit acquis au profit d’une erreur que les parties à un contrat auraient commise puis corrigée par consentement mutuel. L’Agence est un tiers au contrat et ne peut pas se prévaloir d’un changement du contrat qui a été effectué par les parties au contrat. Il ne faut pas interpréter le contrat selon les ambitions du fisc, mais plutôt il faut chercher l’intention commune des parties au contrat. Le loyer avait été ajusté dès le début en fonction des circonstances et le fait que les parties ont convenu d’ajuster le loyer pour 2009 à un montant différent des années précédentes reflète la situation commerciale qui existait dans toutes les circonstances et n’a rien à voir avec le fisc.
+[14] Les appelants demandent donc à la Cour d’accueillir les appels, d’annuler les nouvelles cotisations et de déférer l’affaire au ministre pour nouvel examen et nouvelles cotisations.
+Thèse de l’intimée [15] L’intimée soutient que les appelants ont omis de déclarer un revenu de 50 550 $ ((117 600 $ - 16 500 $)/2) dans leurs déclarations de revenus pour l’année d’imposition 2009. Le ministre était donc justifié d’ajouter aux revenus des appelants la somme de 50 550 $ à titre de revenus de location en vertu du paragraphe 9(1) et de l’alinéa 12(1)b) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (ci-après la « Loi »).
+[16] L’intimée soutient que la clause dans le bail qui permettait la modification du loyer comporte très peu d’ambigüités. Une modification au loyer devait être en fonction des « couts réels des opérations et des améliorations dans l’immeuble » et non en fonction du chiffre d’affaires de l’Auberge. En l’espèce, la diminution du loyer était uniquement en fonction du chiffre d’affaires de l’Auberge et non en fonction des couts réels et des améliorations apportées à l’immeuble.
+[17] L’intimée souligne le fait qu’au cours de l’année 2009, les appelants ont vendu l’immeuble locatif situé sur la rue Chester. Cette vente a eu comme résultat un gain en capital imposable. Il y a eu également une récupération des couts d’amortissement qui est rajouté dans le calcul du revenu pour cet immeuble. En déclarant un loyer de seulement 16 500 $ pour l’immeuble situé sur la rue Sainte‑Catherine Est, les appelants ont créé une perte qui a eu comme effet de beaucoup diminuer leur obligation fiscale. Il est un principe de base en fiscalité que tout contribuable peut planifier ses affaires dans le but de minimiser les impôts payables à moins que cela soit abusif. De plus, l’intimée affirme qu’en l’espèce, les appelants ont ajusté le loyer rétroactivement après avoir vendu l’immeuble sur la rue Chester, ce qui n’est pas permis.
+[18] L’intimée demande donc que les appels soient rejetés.
+Dispositions législatives [19] Les dispositions pertinentes de la Loi sont les suivantes :
+9(1) Revenu — Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+(2) Perte — Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+(3) Exclusion des gains et pertes en capital — Dans la présente loi, les gains en capital et les pertes en capital sont exclus du revenu ou de la perte provenant d’une entreprise ou d’un bien.
+[…]
+12(1) Sommes à inclure dans le revenu — Sont à inclure dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien, au cours d’une année d’imposition, celles des sommes suivantes qui sont applicables :
+[…]
+b) Sommes à recevoir — les sommes à recevoir par le contribuable au titre de la vente de biens ou de la fourniture de services au cours de l’année, dans le cours des activités d’une entreprise, même si les sommes, en tout ou en partie, ne sont dues qu’au cours d’une année postérieure, sauf dans le cas où la méthode adoptée par le contribuable pour le calcul du revenu tiré de son entreprise et acceptée pour l’application de la présente partie ne l’oblige pas à inclure dans le calcul de son revenu pour une année d’imposition les sommes à recevoir qui n’ont pas été effectivement reçues au cours de l’année; pour l’application du présent alinéa, une somme est réputée à recevoir pour services rendus dans le cours des activités de l’entreprise à compter du premier en date des jours suivants :
+(i) le jour où a été remis le compte à l’égard des services,
+(ii) le jour où aurait été remis ce compte si la remise n’avait pas subi un retard indu;
+[20] Les dispositions pertinentes du Code civil du Québec, L.Q. 1991, ch. 64 sont les suivantes :
+1385. Le contrat se forme par le seul échange de consentement entre des personnes capables de contracter, à moins que la loi n'exige, en outre, le respect d'une forme particulière comme condition nécessaire à sa formation, ou que les parties n'assujettissent la formation du contrat à une forme solennelle.
+Il est aussi de son essence qu'il ait une cause et un objet.
+1386. L'échange de consentement se réalise par la manifestation, expresse ou tacite, de la volonté d'une personne d'accepter l'offre de contracter que lui fait une autre personne.
+[…]
+1425. Dans l’interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s’arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l’interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conçu, de l’interprétation que les parties lui ont déjà donnée ou qu’il peut avoir reçue, ainsi que des usages.
+[…]
+1429. Les termes susceptibles de deux sens doivent être pris dans le sens qui convient le plus à la matière du contrat.
+[…]
+1431. Les clauses d’un contrat, même si elles sont énoncées en termes généraux, comprennent seulement ce sur quoi il paraît que les parties se sont proposé de contracter.
+Analyse [21] Les appelants se fient au principe de la liberté contractuelle. Le droit civil des contrats repose sur le principe du consensualisme et retient la distinction fondamentale entre l’échange des consentements et son expression écrite. Le contrat appartient aux parties. Entre elles, mais sous réserve des droits qui ont pu être acquis par des tiers, les parties sont libres de modifier ou d’annuler le contrat et les documents qui le constatent. Rien ne les empêche de reconnaitre l’existence d’une erreur commune et de convenir de la corriger par consentement mutuel.
+[22] Également, il va sans dire que les parties à un contrat peuvent certainement apporter des corrections à un acte juridique qui est le résultat de la volonté même des parties contractantes. Lorsque ces dernières reconnaissent des erreurs commises dans les écrits donnant effet à leur entente et s’accordent pour les corriger, les parties peuvent s’entendre sur des modifications au contrat. Des transactions ayant des impacts fiscaux non prévus peuvent être corrigées par les parties contractantes et le fisc n’a rien à dire dans l’affaire. Comme l’a dit le juge LeBel de la Cour suprême du Canada, « [e]n droit civil, le fisc ne possède pas de droit acquis au bénéfice d’une erreur que les parties à un contrat auraient commise, puis corrigée de consentement mutuel. »[1] Par contre, le juge LeBel a reconnu au paragraphe 35 que la validité d’un consentement dépendait de son intégrité. Ce n’est pas toute modification consensuelle à un contrat qui peut résister à l’examen judiciaire. Le juge LeBel au paragraphe 45 constate qu’« [e]n droit civil proprement dit, le fisc peut aussi établir qu’il y a eu simulation et démontrer la nature réelle de transactions qu’il prétend être factices. »[2] Le juge LeBel nous conseille ce qui suit au paragraphe 54 :
+[54] Toutefois, la reconnaissance judiciaire de la validité des modifications apportées en l’espèce par les parties aux écrits constatant leurs ententes doit s’accompagner de certaines réserves et d’une invitation à la prudence. En effet, les contribuables ne devraient pas interpréter cette reconnaissance de la primauté de la volonté interne — ou intention commune — des parties comme une invitation à se lancer dans des planifications fiscales audacieuses, en se disant qu’il leur sera toujours possible de refaire leurs contrats rétroactivement en cas d’échec de ces planifications. L’intention d’un contribuable de réduire ses obligations fiscales ne saurait à elle seule constituer l’objet de l’obligation au sens de l’art. 1373 C.c.Q., compte tenu de son caractère insuffisamment déterminé ou déterminable, ni même l’objet du contrat au sens de l’art. 1412 C.c.Q. En l’absence d’un objet plus précis et mieux défini, aucun contrat ne se serait formé. L’article 1425 ne pourrait dans un tel cas être invoqué pour justifier la recherche de l’intention commune des parties afin de lui donner effet, malgré les termes des écrits préparés pour la constater. […]
+[23] Il va sans dire que les contribuables peuvent organiser leurs affaires de façon à réduire le montant d’impôt qu’ils auraient à payer à moins que cette planification fiscale soit abusive ou ait un effet rétroactif. Dans l’affaire Envision Credit Union v. Canada, 2013 CSC 48, [2013] 3 R.C.S. 191, le juge Rothstein de la Cour suprême du Canada a énoncé ainsi ce principe très bien connu :
+[1] Tout contribuable a le droit d’organiser ses affaires de façon à réduire le montant de l’impôt qu’il aurait autrement à payer. Les contribuables procèdent souvent à la planification fiscale pour y parvenir. Bien entendu, pour qu’elle puisse permettre d’obtenir la réduction d’impôt souhaitée, cette planification fiscale doit être conforme aux dispositions pertinentes de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (« LIR »), et d’autres lois. Si elle ne l’est pas, la réduction d’impôt recherchée n’est pas obtenue. […]
+[24] Une planification fiscale ayant un effet rétroactif n’est pas permise. Dans l’affaire S. Adam v. M.N.R., [1985] 2 C.T.C. 2383, le contribuable était l’actionnaire majoritaire d’une société de laquelle il recevait un salaire hebdomadaire. À la fin de l’exercice financier pour l’année d’imposition, la société a décidé de rétroactivement convertir le salaire déjà payé au contribuable en dividende ce qui créerait pour le contribuable un avantage fiscal lui permettant d’éviter de payer certains impôts. Le juge Rip de la Cour canadienne de l’impôt, tel était alors son titre, a décidé qu’aux fins de responsabilité fiscale, il n’était pas permis de convertir ex post facto un salaire déjà payé en dividende. Ceci ne constitue pas une méthode permise de planification ou d’optimisation fiscale. La planification fiscale doit être prospective et non rétroactive. Le juge Rip a statué ainsi au paragraphe 14 :
+[14] However no taxpayer has the right to retroactively alter events when it best suits his purposes although there is no question he may prospectively plan events to suit these purposes: this is sometimes called tax planning. While I may sympathize with Mr. Rabinovitch’s desire to minimize his client’s taxes and the uncertainty in tax law during 1982, I am of the view that the retroactive adjustments to accounts is not a valid tax planning scheme, and I must therefore dismiss this appeal.
+[25] Il est possible de perdre un avantage fiscal si une opération est jugée incomplète ou inefficace parce que l’on a omis de se conformer à des formalités juridiques indispensables. Il s’agit d’examiner minutieusement si l’opération à laquelle un contribuable a eu recours, par exemple un contrat, constitue une opération valide du point de vue tant des conditions de forme que des conditions de fond. À cet égard, les paroles du juge Urie, dans l’arrêt Atinco Paper Products Ltd v. The Queen, [78 D.T.C. 6387], [1978] C.T.C. 566 aux p. 577 et 578 (C.A.F.) (demande d’autorisation d’interjeter appel devant la C.S.C. refusée (1979) 25 N.R. 603n), sont de rigueur :
+[…] Quoi qu'il en soit, la Cour a l'obligation d'examiner minutieusement tous les gestes d'un contribuable afin de s'assurer qu'ils sont, de fait, conformes à la loi applicable. Le fait d'utiliser certains moyens pour parvenir au résultat souhaité ne suffit pas; il faut s'assurer que non seulement ces moyens paraissent réguliers, c'est-à-dire en règle quant à la forme mais, de fait, ils constituent, à tous égards, des transactions juridiquement valables et réelles. Si la présente cour, ou si toute autre cour, négligeait de s'acquitter de son obligation fondamentale d'examiner avec soin tous les aspects des transactions en cause, elle ferait preuve de négligence non seulement dans l'exécution de ses fonctions judiciaires, mais à l'égard du public en général. C'est pour cette raison que je ne peux souscrire à la proposition quelquefois formulée voulant qu'une transaction ou une série de transactions faites en vue de réduire l'impôt à payer (c'est du moins, ce qu'espère le contribuable) fassent l'objet d'une interprétation stricte ou large. La seule ligne de conduite permise à la Cour est d'appliquer la loi comme elle la comprend aux faits constatés dans la transaction en question. Si la transaction résiste à cet examen minutieux, alors la Cour peut, bien entendu, y faire droit; sinon, elle doit échouer. […]
+[26] En l’espèce, je ne suis pas convaincu qu’il s’agit d’un cas de liberté contractuelle où deux parties contractantes désirent corriger une erreur ou un malentendu dans leur relation contractuelle. Il est incontestable que les appelants sont l’âme dirigeante de l’Auberge et de Best Dev. L’Auberge et Best Dev ne sont pas des parties contractantes indépendantes; elles ont un lien de dépendance. En réalité, les appelants louaient l’immeuble à eux-mêmes. Le fait que les appelants ont créé l’Auberge en personne morale et ont ensuite loué l’immeuble à l’Auberge constitue une planification fiscale. On doit donc minutieusement examiner les gestes des appelants et de l’Auberge afin de s’assurer que ces gestes sont valables et réels. Il est certainement raisonnable de réduire le loyer de 117 600 $ à 109 200 $ dans les circonstances; mais réduire le loyer de 117 600 $ à 16 500 $ pour l’année 2009 est complètement déraisonnable et ne serait pas toléré par des parties contractantes indépendantes. Monsieur Tajick nous a dit qu’en 2009, il fallait réduire le loyer à 16 500 $ car l’Auberge n’avait pas les moyens de payer le loyer. Pour les raisons que j’ai indiquées plus haut, je n’accepte pas cette prétention.
+[27] Il faut aussi se demander s’il s’agit d’une coïncidence imprévue que le loyer fut si grandement réduit durant la même année d’imposition que celle de la vente de l’immeuble sur la rue Chester qui entrainait une lourde obligation fiscale pour les appelants. Je ne le crois pas. Lors des années d’imposition 2006, 2007 et 2008, le loyer était de 109 200 $ par année. L’année de la vente de l’immeuble situé sur la rue Chester, le loyer a été réduit à 16 500 $. Mais les années suivantes, c.-à-d. 2010 et 2011, le loyer a de nouveau été majoré à 100 000 $ et à 102 400 $ respectivement. On doit se demander pourquoi. Je suis d’avis que les appelants ont manipulé le loyer facturé en 2009 dans le but d’éviter le paiement des impôts résultant de la vente de l’immeuble situé sur la rue Chester. Ces gestes ne sont pas valables et réels tels qu’exigé par l’arrêt Atinco Paper Products, supra au para. 25. Il s’agit donc d’une planification fiscale opportuniste déclenchée par la vente de l’immeuble sur la rue Chester, laquelle a créé une obligation fiscale importante pour les appelants et que ces derniers désiraient contrecarrer.
+[28] Il est d’une jurisprudence constante que lorsqu’un contribuable désire contester la validité d’une cotisation établie à son égard, celui‑ci doit établir par une prépondérance de la preuve que la cotisation est dénuée de fondement[3]. Je suis d’avis que les appelants ne se sont pas acquittés de leur fardeau en démontrant que le ministre a erré en droit en leur imputant un revenu locatif plus élevé que celui déclaré.
+[29] Par contre, je suis d’avis que monsieur Zaddoug aurait dû considérer les données historiques dans cette affaire. Le loyer facturé et déclaré par les appelants n’a jamais été de 117 600 $ lors de toutes les années précédentes. Monsieur Zaddoug n’était donc pas justifié d’insister pour que le loyer soit en tout cas établi à 117 600 $. Même si les parties contractantes ont un lien de dépendance, il faut leur permettre une liberté contractuelle raisonnable. Le loyer a varié entre 100 000 $ et 109 200 $ entre 2005 et 2010, sans considérer l’année d’imposition de 2009. Ces chiffres sont raisonnables. Bien qu’arbitraire, il me semble raisonnable d’imputer un loyer de 100 000 $ pour l’année d’imposition 2009 au lieu de 117 600 $.
+Conclusion [30] Pour ces motifs, les appels sont accueillis en partie. Ces affaires sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que le loyer pour l’immeuble est imputé d’une somme de 100 000 $ pour l’année d’imposition 2009.
+Signé à Kingston (Ontario), ce 8e jour d’avril 2015.
+« Rommel G. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2015 CCI 62
+Nos DE DOSSIERS DE LA COUR :
+2014-1689(IT)I, 2014-1694(IT)I
+INTITULÉS :
+SHAHRZAD GHAFFARI et BERNARD TAJICK c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 25 novembre 2014
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 8 avril 2015
+COMPARUTIONS :
+Représentants des appelants :
+Élizabeth Lachance
+Benoît Larochelle
+Avocate de l’intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Québec (Agence du revenu) c. Services Environnementaux AES inc., 2013 CSC 65, [2013] 3 R.C.S. 838 au para. 52.
+[2] Ibid.
+[3] Voir Hickman Motors Ltd. v. Canada, [1997] 2 R.C.S. 336; Stewart v. M.N.R., [2000] A.C.I. No 53; Voitures Orly Inc. v. Canada, 2005 CAF 425; et Amiante Spec Inc. c. Canada, 2009 CAF 139.

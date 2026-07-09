@@ -1,0 +1,94 @@
+Title: Melnychuk v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26786/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-812-26786-melnychuk-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-12-30
+
+# Melnychuk v. The Queen
+
+- Citation: 2004 CCI 812
+- Decision date: 2004-12-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3466, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melnychuk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-30
+Référence neutre
+2004 CCI 812
+Numéro de dossier
+2004-1996(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI812
+Date : 20041230
+Dossier : 2004-1996(IT)I
+ENTRE :
+MICHAEL MELNYCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à Edmonton (Alberta), le 17 novembre 2004)
+Le juge Paris
+[1] L'appelant conteste le rejet partiel par le ministre du montant qu'il a déduit à titre de crédit d'impôt pour frais médicaux dans son année d'imposition 2002.
+[2] L'appelant est atteint d'une maladie du coeur chronique. Sur les conseils de son médecin, il suit un traitement par chélation; ce traitement lui a permis d'avoir une meilleure qualité de vie, sans autre intervention chirurgicale.
+[3] En plus du traitement par chélation, l'appelant prenait certains suppléments vitaminiques prescrits par son médecin. En 2002, l'appelant a fait exécuter les ordonnances y afférentes dans une pharmacie et il a déduit leur coût en tant que frais médicaux, en vertu de l'alinéa 118.2(2)n) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi » ). Au moment de déterminer le crédit d'impôt pour frais médicaux de l'appelant, le ministre a refusé la déduction de ces frais.
+[4] Les passages pertinents de l'alinéa 118.2(2)n) sont rédigés comme suit :
+(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+[...]
+For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+...
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou [...] achetés afin d'être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a), sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien [...]
+(Je souligne)
+(n) for drugs, medicaments or other preparations or substances ... purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist ...
+Il s'agit ici strictement de savoir si les suppléments vitaminiques que le médecin a prescrits à l'appelant et que ce dernier a achetés dans une pharmacie satisfont aux exigences de la Loi de l'impôt sur le revenu, voulant que les produits pharmaceutiques soient enregistrés par un pharmacien, de façon que leur coût soit admissible au titre des frais médicaux.
+[5] Le premier témoin de l'appelant était Richard Fong, un pharmacien qui travaille pour la pharmacie Nutrition Plus, à Edmonton, où l'appelant a fait exécuter les ordonnances. M. Fong a témoigné au sujet de la procédure suivie par Nutrition Plus lorsque l'on exécute une ordonnance pour un client.
+[6] M. Fong a déclaré que le pharmacien vérifie d'abord les renseignements figurant dans l'ordonnance et entre ces renseignements à l'ordinateur pour qu'ils fassent partie du profil du client. Le médicament est ensuite préparé, étiqueté et remis à l'acheteur, qui obtient un reçu à cet égard.
+[7] Une copie du profil de client de l'appelant chez Nutrition Plus a été produite en preuve. On y trouve des renseignements concernant les ordonnances que l'appelant a fait exécuter par Nutrition Plus. Une copie des reçus d'ordonnances remis à l'appelant pour les produits pharmaceutiques en question a également été produite en preuve.
+[8] M. Fong a confirmé qu'à une exception près, tous les suppléments vitaminiques que l'appelant a achetés en 2002, tels qu'ils sont énumérés à l'annexe B de la réponse à l'avis d'appel, étaient disponibles sans ordonnance.
+[9] À l'audience, l'avocate de l'intimée a admis que la seule exception, le produit « L-Carnitine » , était un produit pharmaceutique qui pouvait uniquement être obtenu sur ordonnance; l'avocate a reconnu que le coût du produit L-Carnitine, qui s'élève à 120,24 $ en tout, se rapportait à des frais médicaux en vertu de la Loi.
+[10] M. Fong a témoigné que selon la politique de Nutrition Plus, on remet des reçus et des étiquettes de la pharmacie et on inscrit les renseignements dans le profil du client lorsque les produits pharmaceutiques sont prescrits par un médecin, et ce, même si ce produit est disponible en vente libre.
+[11] M. Fong a également déclaré que certains médicaments, chez Nutrition Plus, sont conservés derrière le comptoir du pharmacien, mais qu'ils sont disponibles sans ordonnance. Il en est ainsi pour l'un des produits pharmaceutiques achetés par l'appelant, le produit Nutrizyme. M. Fong a déclaré que les produits de ce genre sont conservés derrière le comptoir en raison de la politique du magasin ou des exigences du fabricant.
+[12] M. Fong a déclaré que les autres médicaments achetés par l'appelant chez Nutrition Plus étaient disponibles sur les tablettes de la pharmacie et auraient pu être achetés sans l'intervention d'un pharmacien.
+[13] L'appelant a également produit en preuve un rapport du docteur Wiancko, qui le traitait en 2002 et qui a prescrit les suppléments vitaminiques. Le rapport renfermait des renseignements généraux sur le traitement par chélation; il y était déclaré que les suppléments vitaminiques avaient été prescrits à des fins médicales. Toutefois, le docteur Wiancko dit également dans son rapport que [traduction] « [l]es vitamines ne sont pas régies par la Pharmacy Act et ne font pas l'objet d'ordonnances » .
+[14] Compte tenu de l'ensemble de la preuve mise à la disposition de la Cour, je ne suis pas convaincu qu'il ait été démontré que les achats de suppléments vitaminiques que l'appelant a effectués ont été enregistrés par un pharmacien, comme l'exige l'alinéa 118.2(2)n) de la Loi. Dans l'arrêt Ray c. La Reine, 2004 CAF 1, la Cour d'appel fédérale a indiqué l'interprétation qu'il convient de donner aux mots « enregistrés par un pharmacien » . Voici ce que la Cour a dit aux paragraphes 12 et 13 :
+À mon avis, il est raisonnable d'inférer que l'exigence relative à l'enregistrement figurant à l'alinéa 118.2(2)n) vise à assurer qu'un allégement fiscal ne soit pas accordé pour le coût de médicaments achetés en vente libre. Il existe partout au Canada des lois qui régissent la pratique dans le domaine pharmaceutique. Les lois ne sont pas les mêmes dans chaque province et dans chaque territoire, mais elles comportent des éléments communs. En général, elles interdisent au pharmacien de délivrer certains médicaments sans ordonnance médicale et elles décrivent les documents qu'un pharmacien doit rédiger pour les médicaments d'ordonnance, y compris les renseignements qui identifient la personne qui prescrit le médicament et le patient. Il n'est pas établi que les pharmaciens, où que ce soit au Canada, soient obligés de rédiger pareils documents pour les substances ici en cause.
+Je ne puis retenir la prétention selon laquelle, dans le cas d'un médicament qui est prescrit par un médecin, mais qui est acheté dans une pharmacie en vente libre, un reçu de caisse ou une facture du pharmacien constituerait un « enregistrement » suffisant pour satisfaire à l'exigence légale. Un document se présentant sous cette forme ne peut pas remplir la fonction apparente de l'exigence relative à l'enregistrement. Le pharmacien doit rédiger un document en sa qualité de pharmacien. Cela exclut nécessairement les substances, aussi utiles ou bénéfiques soient-elles, qui sont achetées en vente libre.
+[15] Comme c'était le cas dans l'affaire Ray, je ne dispose d'aucun élément de preuve montrant que le pharmacien qui a exécuté les ordonnances de l'appelant était tenu en droit de conserver des documents au sujet de l'exécution de ces ordonnances, sauf pour le produit L-Carnitine. J'ai examiné la Pharmaceutical Profession Act, R.S.A. 2000, ch. P-12, et son règlement d'application. Le paragraphe 15(6) du Pharmaceutical Profession Regulation prévoit ce qui suit :
+[traduction]
+Le pharmacien qui délivre un médicament veille à ce qu'un document contenant les renseignements suivants soit créé pour chaque opération :
+a) le nom du patient auquel le médicament a été prescrit;
+b) le nom du médecin prescripteur;
+c) la date à laquelle le médicament a été délivré;
+d) le nom, la concentration et le dosage du médicament;
+e) le DIN du médicament;
+f) la quantité délivrée;
+g) le numéro de l'ordonnance;
+h) le nom du pharmacien qui a délivré le médicament;
+i) le prix de l'ordonnance, le cas échéant;
+j) tout autre renseignement exigé selon les normes de pratique énoncées à l'article 47.
+La Pharmaceutical Profession Act définit le mot [traduction] « médicament » à l'alinéa 1h) comme étant un produit ou une combinaison de produits désignés dans les annexes de cette loi. La preuve qui a été présentée en l'espèce ne montre pas que les suppléments vitaminiques en question figurent dans ces annexes, de sorte qu'un pharmacien serait tenu en droit de les enregistrer. M. Fong a déclaré que ces suppléments étaient vendus sans ordonnance, ce qui étaye encore plus la conclusion selon laquelle il ne s'agit pas de « médicaments » au sens de la Pharmaceutical Profession Act.
+[16] La représentante de l'appelant a soutenu que le coût du produit Nutrizyme acheté par l'appelant devrait être admis au titre des frais médicaux parce que ce produit était conservé derrière le comptoir du pharmacien. Elle a cité les remarques incidentes suivantes que la présente cour a faites dans la décision Selent c. La Reine, 2004 A.C.I. no 113, paragraphe 16 :
+En général, il pourrait peut-être y avoir admissibilité selon l'alinéa de la Loi dont il est question ici, dans une situation où un médecin prescrit un médicament, un produit pharmaceutique ou une autre préparation ou substance qu'on peut se procurer sans ordonnance d'un médecin, mais qui doit tout de même être délivré par un pharmacien ou une autre personne qualifiée [...] parce que l'article se trouve dans l'espace de travail du pharmacien, soit derrière le comptoir, et n'est pas accessible au public. Dans un tel cas, le produit est toujours soumis au contrôle d'un pharmacien qui peut être obligé (selon l'éthique professionnelle) de s'enquérir de l'utilisation prévue du produit et, dans certains cas, de formuler des avertissements ou de fournir des instructions précises concernant l'utilisation du produit ou les précautions qui doivent être prises. [...] Cependant, si un médecin prescrit un des produits auxquels l'accès est relativement limité à un de ses patients, la délivrance de la substance prescrite nécessite l'intervention d'un pharmacien (qui agit en sa qualité de pharmacien) et comprend la création du registre normal indiquant que l'ordonnance a été délivrée. Dans de telles circonstances, il semble raisonnable de s'attendre à ce que ce type d'achat puisse être compris dans les frais médicaux dans le calcul du crédit d'impôt, à condition que le pharmacien ait produit l'étiquette d'ordonnance d'usage pour l'article, comme s'il s'agissait d'un médicament ou d'une substance vendue seulement sur l'ordonnance d'un médecin.
+[17] Avec égards, je ne souscris pas à cette conclusion, et ce, essentiellement pour les motifs ci-dessus énoncés. L'exigence voulant qu'un médicament soit enregistré par un pharmacien se rapporte aux exigences en matière d'enregistrement qui figurent dans la législation régissant les pharmaciens dans chaque province et dans chaque territoire. À moins que cette législation n'exige qu'un pharmacien enregistre un médicament particulier, le coût du médicament ne fera pas partie des frais médicaux en vertu de la Loi de l'impôt sur le revenu, et ce, peu importe la façon dont ce médicament est vendu ou traité dans une pharmacie particulière.
+[18] Ce qui satisfait à l'exigence prévue par la Loi de l'impôt sur le revenu au sujet de l'enregistrement par un pharmacien ne peut pas dépendre de la politique d'un magasin particulier lorsqu'il vend des médicaments sans ordonnance. Toute autre décision entraînerait une différence dans le traitement fiscal, fondée sur l'endroit où le contribuable a décidé d'acheter un médicament sans ordonnance plutôt que sur la nature du médicament acheté. Je ne crois pas que le législateur ait eu pareille intention lorsqu'il a adopté l'alinéa 118.2(2)n) de la Loi de l'impôt sur le revenu.
+[20] L'appel est admis en partie, compte tenu de la concession qui a été faite par l'intimée, en vue d'admettre des frais médicaux additionnels d'un montant de 120,24 $.
+Signé à Ottawa, Canada, ce 30e jour de décembre 2004.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour d'octobre 2005.
+Sara Tasset

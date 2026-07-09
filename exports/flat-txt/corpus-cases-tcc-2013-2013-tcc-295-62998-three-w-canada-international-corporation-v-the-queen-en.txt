@@ -1,0 +1,101 @@
+Title: Three-W Canada International Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/62998/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-295-62998-three-w-canada-international-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-09-16
+
+# Three-W Canada International Corporation v. The Queen
+
+- Citation: 2013 TCC 295
+- Decision date: 2013-09-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6079, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Three-W Canada International Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-09-16
+Neutral citation
+2013 TCC 295
+File numbers
+2013-227(GST)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-227(GST)I
+BETWEEN:
+THREE-W CANADA INTERNATIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 16, 2013 at Toronto, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Sean Hu
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated December 19, 2011, for the reporting period from January 1, 2010 to December 31, 2010, is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 20th day of September 2013.
+"Patrick Boyle"
+Boyle J.
+Citation: 2013 TCC 295
+Date: 20130920
+Docket: 2013-227(GST)I
+BETWEEN:
+THREE-W CANADA INTERNATIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] Three-W Canada International Corporation (“Three-W”) is a Canadian corporation wholly owned by Ningqun (Jason) Wang (“Jason Wang”) who resides in London, Ontario. Jason Wang is the director of Three-W and his son, Tony Wang also works for Three-W (“Tony”).
+[2] Three-W carries on the business of recruiting foreign students abroad for private schools in Canada and the United States. It has been assessed for not having collected and remitted GST or HST on the services it provided to Canadian schools.
+[3] Three-W maintains an office in Jason Wang’s London, Ontario home. This serves as its registered office and is used by Jason Wang to attend to Three-W’s business when he is not out of the country. Three-W does not meet with school representatives or students at this office. E-mail correspondence is sent from the London, Ontario office to Canadian schools and to Three-W’s Chinese business partners and agents by Mr. Jason Wang.
+[4] Jason Wang finds and maintains client schools in Canada and the United States. He meets in person with the Canadian schools’ representatives at their campuses. He signs written agreements on behalf of Three-W with the Canadian schools while he is in Canada. He and Tony also meet with students at their Canadian schools at times, for example when there are cultural adjustment issues, behaviour issues, plagiarism issues and school related, host family placement, or visa renewal issues. The Canadian schools spoke directly with Mr. Jason Wang regarding student problems.
+[5] While there are more meetings when a new school is brought on board, there are more or less annual meetings at the school.
+[6] Occasionally, Three-W arranges for Jason Wang or Tony to meet foreign students at the airport when they arrive in Canada. I accept the school witness’ testimony that Mr. Jason Wang of Three-W in fact did help on visa issues as needed, at least when renewals were necessary.
+[7] All of the Canadian schools became clients through dealing with Mr. Jason Wang at their Canadian schools. The Canadian schools sign written agreements with Three-W to appoint it recruitment agent for students from China and certain other countries. Three-W earns all of its income from the per student commissions paid by the schools.
+[8] Three-W’s Chinese business partners also make space available to Three-W as needed. The premises described as Three-W’s Beijing office is the office of one of its business partners, leased and staffed by that business partner, not Three-W. The evidence is that Three-W’s business partners were various subcontractors to Three-W working for a part of any Three-W commissions from schools, as well as carrying on the rest of their business independently from Three-W. Jason Wang’s list of Three-W business partners included a very large number of immigration consultants, education consultants, travel agencies, educational institutions and included government related entities (which latter I assume were neither co-venturers nor received a portion of the commission.) These organizations were also in the student placement business, or were good sources of student referrals. The evidence does not satisfy me that, to the extent that Three-W had premises available in China to it, Three-W’s services were wholly provided from there.
+[9] Three-W issues bills to Canadian schools sent by Mr. Jason Wang from the London, Ontario office. If he is on the road, the same bill is sent by e-mail showing a London address for Three-W and asking for payment at the London office.
+[10] Schools either mail their commission cheques to the London office or make a direct deposit to Three-W’s Canadian bank account. Three-W paid its sub-agents in China who recruited or helped to recruit students from this same Canadian bank account.
+[11] While the taxpayer may take the position that much or even most of its revenue-generating activities takes place in China, the evidence is clear that its student recruitment services were carried on in part in Canada. This is the case even after allowing for the fact that, although issuing bills and receiving payment may be an integral part of carrying on business in Canada, it does not necessarily constitute part of the activities of performing the service sold to the Canadian schools being that of student recruitment. Meeting with the students in Canada, and meeting with schools in Canada as part of an ongoing student recruitment contract to be renewed, with commissions payable for each term the student continues to be enrolled, is actually a very important part of performing the service since it is the Canadian schools that are Three-W’s paying customers and no commission is paid if students do not return the following semester for any reason whatever. The appeal must therefore be dismissed. Three-W is in a services business which services include the Canadian activities of servicing the schools and students in Canada.
+[12] I can not accept the taxpayer’s submission that the only service which Three-W was paid to provide was that of recruiting students and it was entitled to its commissions once the students were registered regardless. It is one of the taxpayer’s positions that, when it later attended to its school customers and its placed students in Canada, it was providing a separate service of keeping customers satisfied and happy. Respondent’s counsel referred to this as “after-service service” playing on the term after-sales service. The oft-quoted decision of this Court in O.A. Brown LTD. v. Canada, [1995] T.C.J. No. 678 deals with the issue of when there is a single supply involving multiple services and when there are separate supplies (in paragraphs 21 and 29.)[1] The post-initial enrolment services provided by Three-W in Canada to the schools and the students is an integral part of the overall supply of its student recruitment services for a single fee. They can not be regarded as separate supplies when they are an integral component of the overall supply.
+[13] The service is not provided wholly outside Canada for purposes of paragraph 142(1)(g). The appeal is dismissed.
+Signed at Toronto, Ontario this 20th day of September 2013.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2013 TCC 295
+COURT FILE NO.: 2011-227(GST)I
+STYLE OF CAUSE: THREE-W CANADA INTERNATIONAL
+CORPORATION AND H.M.Q.
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 16, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: September 20, 2013
+APPEARANCES:
+Agent for the Appellant:
+Sean Hu
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Para 21: “In deciding this issue, it is first necessary to decide what has been supplied as consideration for the payment made. It is then necessary to consider whether the overall supply comprises one or more than one supply. The test to be distilled from the English authorities is whether, in substance and reality, the alleged separate supply is an integral part, integrant or component of the overall supply. One must examine the true nature of the transaction to determine the tax consequences. The test was set out by the Value Added Tax Tribunal in the following fashion: ‘In our opinion, where the parties enter into a transaction involving a supply by one to another, the tax (if any) chargeable thereon falls to be determined by reference to the substance of the transaction, but the substance of the transaction is to be determined by reference to the real character of the arrangements into which the parties have entered.’ [Footnote omitted] Para 29: “The appellant buys livestock according to the instructions of its customers. It subsequently supplies the livestock to each customer as ordered. In the course of providing this service the appellant incurs the cost of feed, inoculation, transportation and insurance. The appellant seeks reimbursement of these costs and charges a fee for this service. It is difficult to isolate these buying activities as being distinct supplies, independent of the whole activity. Only if taken together do they form a useful service. In substance and reality, the alleged separate supply, that of a buying service, is an integral part of the overall supply, being the supply of livestock. The alleged separate supplies cannot be realistically omitted from the overall supply and in fact are the essence of the overall supply. The alleged separate supplies are interconnected with the supply of livestock to such a degree that the extent of their interdependence is an integral part of the composite whole. The services are rendered under a single contract, for a single consideration, albeit the invoice is itemized. The appellant is making a single supply of livestock and the commission and disbursements charged are part and parcel of the consideration for that supply. They do not amount to separate supplies. This is simply a matter of common sense. No GST is collectible on the commission charged and the disbursements.”

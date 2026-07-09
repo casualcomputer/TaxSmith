@@ -1,0 +1,190 @@
+Title: 9310-1731 Québec Inc. c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521169/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-150-521169-9310-1731-qu-bec-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-06-20
+
+# 9310-1731 Québec Inc. c. Le Roi
+
+- Citation: 2023 CCI 150
+- Decision date: 2023-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5693, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9310-1731 Québec Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-06-20
+Référence neutre
+2023 CCI 150
+Numéro de dossier
+2022-1816(GST)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2022-1816(GST)I
+ENTRE :
+9310-1731 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu le 20 juillet 2023, à Montréal (Québec)
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Agent de l’appelante :
+Daniel Abandonato
+Avocat de l’intimé :
+Me Cansu Dilan Isik
+JUGEMENT
+L’appel de la nouvelle cotisation établie le 14 mai 2021 conformément à la Partie IX de la Loi sur la taxe d’accise à l’égard des périodes de déclaration de l’appelante du 1er octobre 2016 au 31 décembre 2016, 1er janvier 2018 au 31 mars 2018 et 1er octobre 2018 au 31 décembre 2018 est accueilli, et l’affaire est déférée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que :
+a. aux fins de l’application, à l’encontre de l’appelante, des dispositions de la Loi sur la taxe d’accise, incluant l’article 173 de la Loi sur la taxe d’accise, la juste valeur marchande de chacun des lots 5 524 048 et 5 524 049 disposés en faveur d’Isabelle Charbonneau-Abandonato et de Michael Charbonneau-Abandonato, respectivement, est de 90 000$;
+b. aucun autre changement à la nouvelle cotisation n’est consenti par la Cour.
+Le tout sans frais.
+Signé à Québec, Québec, ce 23e jour d’octobre 2023.
+« J.M. Gagnon »
+Juge Gagnon
+Référence : 2023 CCI 150
+Date : 20231023
+Dossier : 2022-1816(GST)I
+ENTRE :
+9310-1731 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Contexte
+[1] L’appelante est représentée par monsieur Daniel Abandonato. Monsieur Abandonato est l’actionnaire de contrôle de l’appelante, et est également président et administrateur de l’appelante. L’appelante a logé un appel à l’encontre d’une nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, LRC 1985, c E-15, telle que modifiée (Loi), par l’Agence du revenu du Québec (Mandataire), en qualité de mandataire de la ministre du Revenu national, et dont l’avis adressé à l’appelante est daté du 14 mai 2021 pour les périodes de déclaration de l’appelante du 1er octobre 2016 au 31 décembre 2016, 1er janvier 2018 au 31 mars 2018 et 1er octobre 2018 au 31 décembre 2018 (Cotisation) (collectivement les Périodes).
+[2] L’appelante exploite une entreprise liée au secteur immobilier résidentiel. Elle développe des projets domiciliaires, acquiert des espaces vacants, redessine les lots, procède aux infrastructures (rue, égouts, aqueducs) et offre en vente les lots vacants redessinés.
+[3] La ministre du Revenu national par l’intermédiaire de la Mandataire a ajouté au calcul de la taxe nette déclarée de l’appelante pour les Périodes le montant de 5 162,07 $ à titre de taxes réputées perçues sur des avantages imposables conférés à deux actionnaires de l’appelante (Montant en litige).
+[4] Les avantages imposables seraient attribuables aux enfants de monsieur Abandonato, madame Isabelle Charbonneau-Abandonato (Isabelle) et monsieur Michaël Charbonneau-Abandonato (Michaël) (collectivement les Enfants). Au cours de la période pertinente, les Enfants sont actionnaires de l’appelante.
+[5] Plus précisément, l’appelante aurait disposé d’un terrain vacant en faveur de chacun des Enfants pour une considération inférieure à la juste valeur marchande. La Cotisation reflète notamment le Montant en litige qui constitue la taxe sur les produits et services (TPS) nette de l’appelante payable dans le cas présent et qui serait attribuable à l’écart de valeur entre le prix payé par chacun des Enfants et la juste valeur marchande établie par la Mandataire, et qui n’aurait pas été remis par l’appelante.
+II. Situation factuelle
+[6] La Cour retient de la preuve à l’audition, la séquence factuelle suivante :
+a. Monsieur Abandonato et les Enfants sont actionnaires de l’appelante. Monsieur Abandonato est l’actionnaire de contrôle, administrateur et président de l’appelante.
+b. Le 24 octobre 2014, l’appelante acquiert notamment, par acte notarié, les lots vacants 5524048 et 5524049 situés rue des Pommetiers à Saint-Hubert, Québec. Cette acquisition est partie à l’initiative d’un projet de développement immobilier entreprise par l’appelante qui inclut au total 32 lots vacants (Développement Saint-Hubert).
+c. Le 28 octobre 2016, l’appelante cède, par acte notarié, le lot 5 524 048 portant l’adresse civique 4431 rue des Pommetiers, Saint-Hubert, Québec (Lot 4431) à Isabelle (part indivise de 99%) et à madame Sylvie Charbonneau (part indivise de 1 %) pour un montant total de 35 000 $ plus TPS.
+d. Le 25 janvier 2018, l’appelante cède, par acte notarié, le lot 5 524 049 portant l’adresse civique 4425 rue des Pommetiers, Saint-Hubert, Québec (Lot 4425) à Michaël pour un montant total de 35 000 $ plus TPS.
+e. Le Lot 4431 et le Lot 4425 occupent les deux plus grandes superficies du Développement Saint-Hubert.
+f. Les actes notariés du Développement Saint-Hubert mentionnés plus haut sont préparés et reçus devant le notaire Me Martin Fontaine. Tout comme les autres actes notariés déposés en preuve à l’audition.
+g. Les déclarations du vendeur aux deux actes de vente notariés visant le Lot 4431 et le Lot 4425 contiennent la clause suivante (Clause d’inclusion des coûts) :
+Le Vendeur fait les déclarations suivantes et s’en porte garant :
+(…)
+4. Que le prix de vente de l’immeuble inclut le coût d’installation des infrastructures municipales suivantes : (i) les égouts pluviaux et sanitaires, (ii) l’aqueduc, (iii) la fondation de rue, (iv) les bordures de béton, le revêtement d’asphalte et l’éclairage de rue pour l’immeuble vendu. Tous autres services municipaux qui seraient financés par des emprunts municipaux pourraient engendrer des impositions qui seraient à la charge de l’acheteur.
+(…)
+À noter que sans une duplication de la numération des paragraphes des Déclarations du vendeur à l’acte de vente notarié du Lot 4431, la Clause d’inclusion des coûts dans cet acte apparaîtrait non pas au paragraphe 3 mais au paragraphe 4 des Déclarations du vendeur.
+h. En mai 2019, la Division de la vérification de la Mandataire, section impôt sur le revenu, débute la vérification des années d’imposition 2016, 2017 et 2018 de l’appelante. La vérification de taxe de vente débute en novembre 2019 pour la période 1er octobre 2016 au 31 décembre 2018.
+i. Le 3 octobre 2019, une convention relative aux infrastructures intervient devant le notaire Me Martin Fontaine entre l’appelante et Michaël lesquelles parties conviennent que malgré le paragraphe 4 stipulé relativement aux infrastructures, il est convenu entre les parties, que Michaël remboursera au vendeur 1/32 du coût total des infrastructures lors de la fin desdits, à savoir lors de la pose de la deuxième couche d’asphalte. Il est à noter que la convention déposée en preuve à cette fin n’est pas signée par le notaire Me Martin Fontaine. De plus, aucune convention similaire n’a été déposée en preuve dans le cas de la vente à Isabelle du Lot 4431.
+h. Monsieur Abandonato agit pour le compte de l’appelante dans tous les documents mentionnés plus haut et auxquels est partie l’appelante.
+[7] Les présomptions de fait retenues par l’intimé aux fins d’établir la Cotisation incluent les suivantes :
+1. l'appelante devait produire ses déclarations de taxe nette de TPS trimestriellement pendant les périodes visées;
+2. le 28 octobre 2016, l’appelante a disposé d’un terrain désigné comme le lot 5 524 048 en faveur de l’un de ses actionnaires discrétionnaires, soit madame Isabelle Charbonneau-Abandonato, pour la somme de 35 000 $ plus la TPS de 1 750 $;
+3. l’appelante n’a pas déclaré les taxes dans la bonne période, à savoir qu’elle les a déclarés dans la période se terminant le 31 mars 2018 au lieu d’être dans la période se terminant le 31 décembre 2016;
+4. le 25 janvier 2018, l’appelante a disposé d’un terrain désigné comme le lot 5 524 049 en faveur de l’un de ses actionnaires discrétionnaires, soit monsieur Michaël Charbonneau-Abandonato, pour la somme de 35 000 $ plus la TPS de 1 750 $;
+5. l’appelante prétend que la juste valeur marchande respective des terrains désignés comme les lots 5 524 048 et 5 524 049 (ci-après les « terrains ») s’établit à 35 000 $, ce qui est nié par l’intimé;
+6. la méthode utilisée par l’appelante pour déterminer la juste valeur marchande des terrains n’est pas juste et raisonnable, notamment en ce que la valeur de 35 000 $ a été établie sur la base que les infrastructures n’étaient pas installées au moment des transactions, ce qui est nié par l’intimé;
+7. au moment des fournitures aux personnes liées, les infrastructures étaient installées sur chacun des terrains;
+8. l’appelante n’a pas procédé à une évaluation de la juste valeur marchande par un évaluateur agréé afin d’établir les valeurs de 35 000 $;
+9. la juste valeur marchande des terrains a été établie par le Ministre dans le cadre de la vérification;
+10. la détermination de la juste valeur marchande a été effectuée selon la méthode des comparables, à savoir les terrains vendus par l’appelante à une société liée, soit 9167-6833 Québec inc., durant les mêmes périodes que les périodes visées;
+11. les justes valeurs marchandes ont été établies de la façon suivante :
+i. Terrain 1 (lot 5 524 048) : 94 290 $ avant taxes
+ii. Terrain 2 (lot 5 524 049) : 92 443 $ avant taxes;
+12. pour l’actionnaire Isabelle Charbonneau-Abandonato, le Ministre a calculé un avantage imposable de 68 168,68 $ ((94 290 $ - 35 000 $) plus la TPS/TVQ);
+13. pour l’actionnaire Michaël Charbonneau-Abandonato, le Ministre a calculé un avantage imposable de 66 045,09 $ ((92 443 $ - 35 000 $) plus la TPS/TVQ).
+III. Question en litige
+[8] La question en litige est de déterminer si, aux fins du calcul de la taxe nette de l’appelante en vertu de l’article 173 de la Loi, la juste valeur marchande du Lot 4431 et du Lot 4425, telle qu’établie par l’intimé aux fins des rapports de remise de TPS de l’appelante au cours des Périodes, est justifiée.
+[9] La pénalité pour défaut de produire de 71,40 $ n’est pas en litige.
+IV. Position des parties
+[10] L’appelante est d’avis que la juste valeur marchande établie par l’intimé aux fins de la vente du Lot 4431 à Isabelle et du Lot 4425 à Michaël est surévaluée. Notamment, cette valeur marchande ne tient pas compte du coût des infrastructures qui doit être assumé par Isabelle et Michaël. L’appelante est d’avis que la Clause d’inclusion des coûts qui faisait en sorte d’inclure dans le prix de vente des lots le coût des infrastructures n’est pas exacte et que ces coûts devaient être à la charge des acheteurs. Dans ce contexte, le prix de 35 000 $ s’avérait la juste valeur marchande.
+[11] Alternativement, dans le cas où les coûts des infrastructures demeurent à la charge de l’appelante, le rapport d’évaluation de la valeur totale des lots du Développement Saint-Hubert demandé par l’appelante aux fins d’obtenir un financement initial pour le projet, confirme un prix global de 80 000 $ pour chacun des lots. Cette valeur correspond à la valeur marchande puisqu’elle tient compte des infrastructures.
+[12] L’appelante n’a pas soulevé d’enjeu relativement aux dispositions d’assujettissement invoquées par l’intimé au soutien de la Cotisation. Tel que précisé avec les parties à l’audition, le seul enjeu soulevé par l’appel est la détermination de la juste valeur marchande retenue par la Mandataire aux fins d’établir, à l’article 173 de la Loi, la valeur de l’avantage réputée être la contrepartie totale payable par Isabelle et Michaël et sur laquelle est calculée la TPS due par l’appelante.
+[13] L’intimé soutient que les justes valeurs marchandes établies à 94 290 $ pour le Lot 4431 et à 92 443 $ pour le Lot 4425 sont bien fondées. Isabelle et Michaël, à titre d’actionnaires de l’appelante, ont reçu un avantage de la société pour un montant équivalent à la différence entre la juste valeur marchande établie par la Ministre et le prix d’acquisition de 35 000 $. Conformément aux dispositions de l’article 173 de la Loi, l’appelante est réputée avoir perçu la taxe sur les avantages imposables conférés à ses actionnaires. En conséquence, la Cotisation est bien fondée puisque basée sur la partie des justes valeurs marchandes excédant 35 000 $.
+V. Analyse
+Article 173 de la Loi
+[14] L’article 173 de la Loi est la disposition centrale dans le présent dossier. Elle requiert notamment la détermination de la valeur de l’avantage taxable sur laquelle la TPS payable par l’appelante est déterminée dans le cas présent. Les parties pertinentes aux fins de l’appel sont les suivantes :
+Avantages taxables
+Avantages aux salariés et aux actionnaires
+173 (1) Dans le cas où un inscrit effectue la fourniture d’un bien ou d’un service, sauf une fourniture exonérée ou détaxée, au profit d’un particulier ou d’une personne liée à celui-ci et que, selon le cas :
+a) un montant (appelé « avantage » au présent paragraphe) relatif à la fourniture est à inclure, en application des alinéas 6(1)a), e), k) ou l) ou du paragraphe 15(1) de la Loi de l’impôt sur le revenu, dans le calcul du revenu du particulier pour son année d’imposition,
+b) (…)
+les présomptions suivantes s’appliquent :
+c) (…)
+d) pour le calcul de la taxe nette de l’inscrit :
+(i) le total de l’avantage et des montants de remboursement est réputé être la contrepartie totale payable relativement à la livraison du bien ou à la prestation du service, au cours de l’année, au particulier ou à la personne qui lui est liée,
+(ii) la taxe calculée sur la contrepartie totale est réputée égale au montant suivant :
+(A) (…)
+(B) dans les autres cas, le résultat du calcul suivant :
+(A/B) × C
+où :
+A
+représente :
+(I) si l’un ou l’autre des faits suivants s’avère :
+1. (…)
+2. (…),
+(II) dans les autres cas, 4 %,
+B
+la somme de 100 % et du pourcentage déterminé selon l’élément A,
+C
+la contrepartie totale,
+(iii) la taxe visée au sous-alinéa (ii) est réputée être devenue percevable par l’inscrit, et avoir été perçue par lui, à la date suivante :
+(A) sauf en cas d’application de la division (B), le dernier jour de février de l’année subséquente,
+(B) dans le cas où l’avantage est à inclure, en application du paragraphe 15(1) de la Loi de l’impôt sur le revenu, dans le calcul du revenu du particulier, ou le serait si aucun montant de remboursement n’était payé, et se rapporte à la livraison du bien ou à la prestation du service au cours d’une année d’imposition de l’inscrit, le dernier jour de cette année.
+En lien avec la preuve introduite à l’audition
+[15] Le seul témoignage au soutien de la position de l’appelante est celui de son représentant monsieur Abandonato. Monsieur Abandonato a longuement témoigné principalement afin d’expliquer les activités de l’appelante, l’acquisition et le projet que représentait le Développement Saint-Hubert, les circonstances de la vente du Lot 4431 et du Lot 4425 à Isabelle et Michaël respectivement et les changements qui sont survenus à la suite des conséquences découlant de la vérification fiscale débutée par la Mandataire. Je reviendrai sur le témoignage de monsieur Abandonato plus loin.
+[16] Les Enfants ne témoigneront pas et aucun autre témoin ne sera entendu. Bien que les Enfants sont des parties aux actes de vente au centre de l’appel et que leurs droits et obligations aux termes de ces actes sont déterminants quant au sort réservé à des aspects clés du fardeau de la preuve de l’appelante, la preuve n’est pas supportée par leur témoignage afin de corroborer, d’expliquer, compléter ou établir des faits déterminants qui auraient permis d’apporter un éclairage sur la valeur de la force probante de la preuve soumise par l’appelante afin de satisfaire le fardeau de la preuve qui lui incombe. À mon avis, leur absence m’incite à croire que leur version aurait raisonnablement pu ne pas correspondre à la position de l’appelante. Aucune explication n’a été donnée pour justifier leur absence. Le choix, qu’il soit réfléchi ou non, est celui de l’appelante qui doit vivre avec les conséquences qu’il peut entraîner quant à certains aspects de la preuve présentée par l’appelante.
+[17] Au sujet de la Clause d’inclusion des coûts, monsieur Abandonato témoigne que la transaction avec ses deux enfants s’est produite avant l’installation des infrastructures municipales, les services d’aqueduc, d’égout pluvial et sanitaire, asphalte, bordures de rues, etc. Il ajoute que la manière dont la transaction a été faite avec les Enfants, c’est qu’ils payaient le prix de la valeur du terrain plus un montant additionnel des infrastructures à la fin des travaux d’infrastructures. Il mentionne déposer en preuve le coût des 32 terrains du Développement Saint-Hubert qui inclut les infrastructures encourues. Ces coûts sont évalués à 1 540 178 $, et motivés par des chèques émis par l’appelante couvrant une période débutant en 2015 et se terminant en 2021. Approximativement 60 % de ces coûts auraient été payés avant 2020. Une somme de 591 000 $ aurait été payée en mars 2021 à la société 9148-3511 Québec inc. à titre de remboursement d’avance et intérêt, ce qui fait passé le total des dépenses payé à 98 % à la fin 2021. Toutefois, aucun détail n’a été fourni concernant la société 9148-3511 et à quel moment ces avances auraient été consenties et quelles sont les dépenses que ces avances ont couvertes.
+[18] Il précise que si l’on divise le coût total des terrains par 32 lots (ce que constitue la totalité des lots du Développement Saint-Hubert) on arrive à un coût moyen d’infrastructure par lot de 48 000 $, et donc le total de chacun des Lot 4431 et Lot 4425 aux Enfants est 83 000 $ (35 000 $ + 48 000 $).
+[19] Toujours au sujet de la Clause d’inclusion de coûts, il témoigne que le coût des infrastructures n’était pas prévu nonobstant ce qui apparaissait aux actes de vente et qui est une erreur cléricale du notaire Fontaine. Au soutien de sa position, monsieur Abandonato réfère à une lettre du notaire Fontaine adressée à qui de droit datée du 23 mars 2022 et qui confirme que, malgré la Clause d’inclusion des coûts, le coût des infrastructures des Lot 4431 et Lot 4425 n’était pas inclus et était payable lors de la pause de la deuxième couche d’asphalte à raison de 1/32 du coût pour chacun desdits lots. Cette lettre n’est signée que par le notaire et ne contient aucune référence à quelque autre source de renseignement ou d’approbation concernant les parties concernées par cette confirmation.
+[20] Monsieur Abandonato n’ajoutera pas d’autre information concernant la Clause d’inclusion des coûts.
+[21] Je constate que Michaël n’a pas témoigné pour corroborer l’appelante. Bien que le témoin a tenté d’expliquer la raison, aucun document similaire n’a été produit en preuve pour la situation impliquant Isabelle. Au surplus, Isabelle n’a pas témoigné.
+[22] La Cour se retrouve donc face à une situation où des actes de vente notariés visant 2 parties, dont dans chaque cas une partie est absente à l’audition, et dans le cas de Michaël un acte sous seing privé présumé signé le 3 octobre 2019 puisse faire état d’un changement important à l’acte de vente intervenu entre les mêmes parties le 25 janvier 2018.
+[23] D’abord, la Cour ne considère pas que l’appelante a fait une inscription de faux visant à contredire les énonciations de fait dans l’acte authentique qu’est l’acte de vente notarié. C’est ce qui est généralement requis par le Code civil du Québec pour contredire et attaqué les énonciations de fait contenues à l’acte. Une telle inscription requiert entre autres la mise en cause de l’officier public dont l’acte émane. Au surplus, la Cour comprend du libellé de l’acte sous seing privé, bien que pouvant présenter une ambigüité, que les parties modifient la situation gouvernant leur relation contractuelle qu’en date de la signature de l’acte sous seing privé le 3 octobre 2019. Monsieur Abandonato n’a pas insisté sur cet aspect et Michaël n’a pas témoigné. Dans ce contexte, la Cour considère la force probante du document sous seing privé faible.
+[24] Aussi, le texte de la clause qui serait intervenue entre Michaël et l’appelante confirme qu’en octobre 2023, bien que le Développement Saint-Hubert soit très avancé sinon complété du moins en ce qui concerne la vente des lots et le coût des infrastructures, une évaluation sur laquelle s’appuie l’appelante, Michaël et l’appelante ne confirment toujours pas être en mesure, après plus de cinq ans, de déterminer le montant du coût des infrastructures qui est payable par Michaël pour satisfaire un prix de vente du Lot 4425 égal à la juste valeur marchande. Le prétexte d’une deuxième couche d’asphalte qui semble tarder sans savoir pour quelle raison et le fait que l’appelante a réussi à compléter toutes les autres ventes de lots sans qu’une telle situation cause un enjeu laissent la Cour dans le doute quant à la valeur probante du document. Car c’est bien ce dont il s’agit dans le présent appel : le prix d’achat du Lot 4425 payable par Michaël en janvier 2018 correspond-il à la juste valeur marchande du lot acquis? Je ne crois pas que la force probante que la Cour est disposée à accorder à ce document sous seing privé, et même son libellé, puisse suffire à lui accorder la portée que l’appelante recherche. La Cour considère que l’acte sous seing privé intervenu entre Michaël et l’appelante n’a pas suffisamment de valeur probante pour écarter l’acte authentique tel qu’intervenu en janvier 2018 entre les mêmes parties.
+[25] Dans le cas d’Isabelle, un tel document n’a pas été présenté et aucun témoignage d’Isabelle n’a été entendu. La Cour considère que l’acte de vente notarié intervenu en octobre 2016 entre Isabelle et l’appelante demeure intact.
+[26] La Cour considère ne pas avoir été convaincue, selon la balance des probabilités, d’une preuve additionnelle dont la valeur probante a assisté davantage la position de l’appelante.
+[27] Par la suite, monsieur Abandonato insistera sur la vente des lots et les prix obtenus. Il indique que la vente des terrains a commencé en 2016; il y a trois ou quatre ventes au début du projet qui se sont faites pour des terrains de jumelés, toujours à un prix de 80 000 $, incluant les infrastructures. Je précise toutefois que la preuve de l’intimé a permis d’établir que des documents émanant de l’appelante, et visant 30 des 32 lots du Développement Saint-Hubert, indiquent qu’aucun lot du Développement Saint-Hubert n’a été vendu à un prix inférieur à 90 000 $, exception faite des Lots 4431 et 4425 aux Enfants. Ces mêmes documents laissent aussi croire qu’au moment de la vente des Lots 4431 et 4425 aux Enfants pas moins que 85 % des lots du Développement Saint-Hubert non pas encore été transférés par l’appelante à un acheteur. Aucun document n’est déposé en preuve validant un prix de vente de 80 000 $ pour un lot du Développement Saint-Hubert.
+[28] Il ajoute avoir fait faire une évaluation immobilière pour fins de financer le Développement Saint-Hubert. L’évaluation est déposée en preuve et porte la date du 7 octobre 2014 avec une évaluation en date du 18 septembre 2014. Je rappelle que l’évaluation est la sommation directe de la valeur marchande potentielle de chacun des lots du Développement Saint-Hubert, incluant le coût des infrastructures de rues, d’égouts et d’aqueduc en place, et les lots prêts à construire. La méthode utilisée est la méthode de comparaison et le rapport précise retenir 10 ventes de terrains vacants avec services destinés à l’habitation unifamiliale jumelée et en rangée. Le rapport décrit l’acheteur typique en référence à un constructeur et non pas le propriétaire foncier qui acquiert pour fins d’habitation l’immeuble. Le rapport retient un taux de 80 000 $/unité représentatif de la valeur marchande moyenne d’un terrain pour habitation unifamiliale jumelée avec services et prêts à construire en date de septembre 2014, soit deux ans et plus de trois ans avant les ventes réalisées en faveur d’Isabelle et de Michaël respectivement.
+[29] La juste valeur marchande devant être déterminée, je crois que cette valeur, selon la position adoptée par les parties et la preuve à l’audition sur cette question, se situe entre 80 000 $ celle avancée par l’appelante et celle déterminée par l’intimé se situant à 94 290 $ et 92 443 $ dans le cas d’Isabelle et Michaël respectivement. Un autre montant, au moins, se situant dans cette fourchette a également été avancé par l’appelante (83 000 $). Tout bien considéré, je crois que les montants de 80 000 $ d’une part, et 94 290 $ et 92 443 $ d’autre part ont présenté certains enjeux. Notamment, le rapport d’évaluation de l’appelante date d’au moins deux ans, et les valeurs retenues par l’intimé ont rencontré une certaine difficulté lors du contre-interrogatoire de madame Meunier où la pertinence des comparables retenus par la Mandataire avait été remise en question en raison que l’usage des lots n’avait pas été considéré par la Mandataire.
+[30] Considérant la preuve versée au dossier par les deux parties et l’appréciation qui en est faite par cette Cour, je suis d’avis que le montant de 90 000 $ auquel les premiers autres lots ont été vendus par l’appelante elle-même est une valeur juste. Ces terrains se sont vendus en 2017 et en 2018 et impliquent, du moins en partie, des tiers. Je suis disposé à retenir 90 000 $ comme juste valeur marchande du Lot 4431 et du Lot 4425 au moment de leur vente par l’appelante en faveur d’Isabelle et de Michaël.
+VI. Conclusion
+[31] Considérant ce qui précède, l’appel de la nouvelle cotisation établie le 14 mai 2021 conformément à la Partie IX de la Loi sur la taxe d’accise à l’égard des périodes de déclaration de l’appelante du 1er octobre 2016 au 31 décembre 2016, 1er janvier 2018 au 31 mars 2018 et 1er octobre 2018 au 31 décembre 2018 est accueilli, sans frais, et l’affaire est déférée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que :
+a. aux fins de l’application, à l’encontre de l’appelante, des dispositions de la Loi sur la taxe d’accise, incluant l’article 173 de la Loi sur la taxe d’accise, la juste valeur marchande de chacun des lots 5 524 048 et 5 524 049 disposés en faveur d’Isabelle Charbonneau-Abandonato et de Michael Charbonneau-Abandonato, respectivement, est de 90 000$;
+b. aucun autre changement à la nouvelle cotisation dont l’avis est en date du 14 mai 2021 n’est consenti par la Cour.
+Signé à Québec, Québec, ce 23e jour d’octobre 2023.
+« J.M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2023 CCI 150
+Nº DU DOSSIER DE LA COUR :
+2022-1816(GST)I
+INTITULÉ DE LA CAUSE :
+9310-1731 QUÉBEC INC. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 20 juillet 2023
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+le 23 octobre 2023
+COMPARUTIONS :
+Agent de l’appelante :
+Daniel Abandonato
+Avocat de l’intimé :
+Me Cansu Dilan Isik
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

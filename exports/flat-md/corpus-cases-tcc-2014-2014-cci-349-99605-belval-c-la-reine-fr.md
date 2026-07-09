@@ -1,0 +1,199 @@
+---
+title: "Belval c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/99605/index.do"
+last_modified: "2014-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 349"
+citation2: ""
+neutral_citation: "2014 CCI 349"
+decision_date: "2014-11-21"
+language: "fr"
+item_id: "99605"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5219
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:37:50.656000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0499f5921a5e6f07fe98f924065704bd793f7db9d80d1509a70cfccd357561df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Belval c. La Reine
+
+- Citation: 2014 CCI 349
+- Decision date: 2014-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5219, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belval c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-21
+Référence neutre
+2014 CCI 349
+Numéro de dossier
+2009-2311(GST)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2009-2311(GST)I
+ENTRE :
+JEAN BELVAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête entendue le 2 décembre 2013, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocat de l’appelant :
+Me Bogdan Draghia
+Avocat de l’intimée :
+Me Danny Galarneau
+JUGEMENT
+Selon les motifs du jugement ci-joints, la requête est accueillie et l’appel de la cotisation établie en vertu de Loi sur la taxe d’accise pour la période du 1er avril au 30 juin 2003 est rejeté avec frais de 700 $ payables à l’intimée au plus tard le 9 janvier 2015[1].
+Signé à Ottawa (Ontario), ce 21e jour de novembre 2014.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2014 CCI 349
+Date : 20141121
+Dossier : 2009-2311(GST)I
+ENTRE :
+JEAN BELVAL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction [1] L’intimée a déposé une requête demandant le rejet de l’appel. À l’appui de cette requête, l’intimée invoque que l’appelant n’agit pas avec promptitude et qu’il n’agit pas avec la bonne foi requise dans le suivi de son appel.
+Les faits[2] [2] L’appelant appelle d’une cotisation de TPS pour un montant de 10 500 $ en taxes plus intérêts et pénalités. Son avis d’appel a été déposé le 14 juillet 2009 par Me Draghia. L’appelant a choisi la procédure informelle.
+[3] Selon l’intimée l’appelant aurait dû percevoir la TPS sur un revenu d’entreprise de 150 000 $. Selon l’appelant il s’agit d’un montant reçu à titre fortuit et inattendu; l’appelant n’aurait fourni aucun service en contrepartie.
+[4] La réponse à l’avis d’appel a été déposée le 16 septembre 2009.
+[5] En novembre 2009 l’appel a été fixé pour audition le 7 juillet 2010. Cette audition a été ajournée le 11 juin 2010 après une demande de l’intimée.
+[6] Le 7 juillet 2010 les parties ont déposé une demande commune de fixation du temps et du lieu de l’audience. Une des dates proposées était le 19 janvier 2011 et, par ordonnance du 9 juillet 2010, la Cour a fixé l’audience au 19 janvier 2011 pour une durée d’un jour.
+[7] Le 11 janvier 2011 l’appelant a demandé que l’appel soit ajourné pour des raisons médicales, et le 12 janvier 2011 l’ajournement a été accordé.
+[8] Par lettre du 18 février 2011, Me Draghia a informé la Cour que l’état de santé de l’appelant n’avait pas changé.
+[9] Le 21 décembre 2011 le greffe a écrit à Me Draghia demandant qu’il soumette un rapport écrit sur l’état de santé de l’appelant au plus tard le 6 janvier 2012.
+[10] N’ayant reçu aucune réponse de Me Draghia, le greffe a écrit de nouveau à Me Draghia le 1er mai 2012 pour l’informer que si la Cour ne recevait pas d’informations écrites sur les intentions de l’appelant au plus tard le 4 mai 2012, l’audition serait inscrite à la prochaine séance disponible à Montréal.
+[11] Par lettre du 4 mai 2012, Me Draghia a informé la Cour que pour faire suite aux lettres du 21 décembre 2011 et du 1er mai 2012 qu’il avait soumises à l’appelant, il était toujours en attente d’une communication de l’appelant. Me Draghia a également dit qu’il comprenait que « [l’appelant] désire toujours maintenir sa position dans le dossier et [nous] verrons à lui demander de vous le confirmer dans les meilleurs délais ». L’appelant n’a pas communiqué ses intentions à la Cour par la suite.
+[12] Par ordonnance du 8 août 2012, l’audience de l’appel a été fixée au 4 octobre 2012.
+[13] Il n’est pas clair quand exactement cela a eu lieu, mais à un certain moment entre le 4 mai 2012 et le 4 octobre 2012, Me Draghia s’est retiré de fait du dossier; plus tard, soit le 6 juin 2013, il a écrit à la Cour pour comparaître de nouveau pour l’appelant dans ce dossier[3].
+[14] D’après le procès-verbal de l’audition du 4 octobre 2012, l’appelant s’est représenté lui-même et a déposé un avis de désistement, sans frais, signé. L’avocat de l’intimée a indiqué qu’il était d’accord avec le désistement sans frais.
+[15] Deux copies de l’avis de désistement sont au dossier. Les deux copies sont signées par l’appelant le 3 octobre 2012; une copie est signée le 4 octobre 2012 par Me Galarneau, l’avocat de l’intimée, mais l’autre copie n’est pas signée par l’intimée.
+[16] Le 10 octobre 2012, Me Galarneau a écrit à la Cour pour indiquer qu’après une rencontre qu’il venait d’avoir avec l’appelant, il a constaté que l’appelant et l’intimée n’ont pas la même compréhension de la discussion qui a précédé le dépôt du désistement, et il a demandé à la Cour de retirer le désistement et de remettre les parties dans l’état où elles étaient avant le 4 octobre 2012. Il demande également qu’une date d’audition soit fixée rapidement.
+[17] Le 17 octobre 2012 le greffe a écrit à l’appelant pour lui demander de soumettre ses commentaires relatifs à la lettre du 10 octobre 2012 de l’intimée au plus tard le 31 octobre 2012.
+[18] Selon une note au dossier écrite par le greffe le 29 octobre 2012, Me Draghia a téléphoné à la Cour pour expliquer qu’il a reçu un appel téléphonique du fils de l’appelant l’informant que son père venait d’avoir une crise cardiaque. La Cour a par la suite reçu un certificat médical.
+[19] Par lettre du 7 novembre 2012, le greffe informe les parties que le juge en chef a ordonné que le désistement soit retiré du dossier et qu’une audience soit fixée à la première séance disponible.
+[20] Je note qu’avant l’audience du 27 mars 2013, la Cour n’avait jamais reçu de commentaires en réponse à la lettre du 17 octobre 2012.
+[21] Par la suite, une audience s’est tenue le 27 mars 2013. À l’audience l’appelant dit ne pas comprendre pourquoi il est là; selon lui l’appel est réglé.
+[22] Par ordonnance du 4 avril 2013 j’ai ordonné que l’appel soit ajourné sine die, que l’appelant paye des frais de 625 $ à l’intimée et qu’il informe l’intimée et la Cour s’il se désistait ou non au plus tard le 6 mai 2013[4].
+[23] Ensuite, en mai 2013 l’intimée a déposé la requête dont il est question ici ainsi qu’un affidavit et des prétentions écrites; l’intimée a demandé que sa requête, en date du 7 mai 2013, soit tranchée sur la base d’observations écrites.
+[24] La requête invoque comme motif que l’appelant ne s’est pas conformé à l’ordonnance du 4 avril 2013 parce qu’il n’a pas payé les frais de l’intimée au plus tard le 6 mai 2013 et qu’il n’a pas informé l’intimée et la Cour s’il se désistait ou non au plus tard le 6 mai 2013.
+[25] L’appelant a envoyé un chèque au montant des frais à la Cour au lieu de l’intimée. Ce chèque a été reçu le 6 mai 2013 et par la suite a été envoyé à l’intimée[5].
+[26] Ce chèque était libellé à l’ordre de la Cour canadienne de l’impôt.
+[27] Quant à l’obligation de l’appelant d’informer la Cour et l’intimée de ses intentions, l’appelant a témoigné qu’il aurait dit à quelqu’un du greffe, au cours d’un appel téléphonique tenu le 6 mai 2013, qu’il avait toujours l’intention de poursuivre son appel[6]. Selon l’appelant, c’est le greffe de la Cour qui lui a téléphoné au sujet du chèque[7].
+[28] Par contre, l’appelant ne prétend pas avoir informé l’intimée. Il a témoigné que cette partie de l’ordonnance ne l’avait pas marqué et qu’il croyait que l’intimée était représentée par quelqu’un d’autre que Me Galarneau.
+[29] L’ordonnance du 4 avril 2013 n’est pas compliquée et je suis sûr que l’appelant pouvait comprendre « l’appelant devra informer l’intimée et la Cour s’il se désiste ou non au plus tard le 6 mai 2013 ». Il est clair qu’il n’a fait aucun effort pour informer l’intimée.
+[30] Quant au témoignage de l’appelant selon lequel il a informé verbalement la Cour le 6 mai 2013, l’avocat de l’appelant a voulu ajouter à la preuve après l’audition en envoyant une lettre le 17 décembre 2013, à laquelle il joint ce qu’il dit être une copie d’une page d’un compte de téléphone mobile où on voit ce qui semble être un appel fait le 13 mai 2013 à un numéro de cette cour et, apparemment, un autre appel fait le 15 mai 2013 au même numéro.
+[31] Par lettre du 18 décembre 2013, l’avocat de l’intimée s’est opposé à cette façon de procéder. De plus, il ajoute que même s’il y a un appel cela ne prouve en rien le contenu d’un appel.
+[32] L’intimée aurait pu ajouter également que même s’il y avait preuve d’appels les 13 et 15 mai 2013, cela ne corrobore pas le témoignage de l’appelant selon lequel il aurait annoncé verbalement son intention le 6 mai 2013, soit la date limite.
+[33] Je suis d’accord avec l’objection de l’intimée. L’avocat de l’appelant ne peut pas tout simplement envoyer la preuve additionnelle. Bien que cet appel est en procédure informelle permettant une certaine flexibilité, il faudrait — surtout vu que l’intimée est représentée par avocat — au moins procéder en commençant par une demande pour obtenir permission de faire la preuve additionnelle.
+[34] Je ne vais pas considérer la page jointe à la lettre du 17 décembre 2013.
+[35] En matière de procédure, une cour peut consulter le dossier de la cour pour voir ce qui s’est passé. J’ai dit à l’audition que j’examinerais le dossier de la Cour pour voir s’il y avait trace d’une conversation entre l’appelant et le greffe en mai 2013[8].
+[36] J’ai examiné le dossier papier et le dossier électronique et je n’ai pu retrouver de note du greffe qui corroborerait le témoignage de l’appelant relatif à la conversation qu’il dit avoir eu lieu le 6 mai 2013 indiquant son intention de poursuivre l’appel[9].
+[37] J’ai également constaté qu’il y avait au dossier une note écrite par une agente du greffe le 10 mai 2013 selon laquelle elle avait laissé un message téléphonique à l’appelant le 7 mai 2013 au sujet du chèque relatif aux frais que l’appelant avait envoyé à la Cour.
+[38] Je n’accepte pas le témoignage de l’appelant selon lequel le 6 mai 2013, au cours d’un appel téléphonique initié par le greffe pour lui dire qu’il avait envoyé un chèque à la mauvaise adresse, il aurait avisé le greffe qu’il avait toujours l’intention de poursuivre son appel. Cela n’est pas probable vu que la lettre accompagnant le chèque fut livrée par la poste ce jour-là, qu’il fallait que la lettre se rende de la salle du courrier à un agent du greffe et que le greffe avait laissé un message téléphonique à l’appelant le 7 mai 2013 au sujet du chèque.
+[39] Il y a d’autres événements dont il faut également tenir compte.
+[40] Le 30 mai 2013 le greffe a écrit à l’appelant au sujet de la requête du 7 mai 2013 de l’intimée. Le greffe demande à l’appelant de faire des observations écrites au plus tard le 6 juin 2013.
+[41] Le 6 juin 2013, Me Draghia se manifeste de nouveau dans ce dossier et écrit une lettre à la Cour pour l’informer qu’il comparaît de nouveau pour l’appelant. Me Draghia dit qu’il vient de recevoir la requête de l’intimée et demande un délai additionnel de sept jours pour répondre à la lettre du 30 mai 2013.
+[42] Le 14 juin 2013 l’appelant dépose un « avis d’opposition à la requête de l’intimée » avec affidavit à l’appui. Entre autres, l’appelant affirme qu’une transaction est intervenue entre l’intimée et lui et que son désistement était conditionnel à la reconnaissance et au respect par l’intimée de ladite transaction. L’appelant dit également qu’une requête visant l’homologation de la transaction sera présentée « dans les plus brefs délais ».
+[43] L’appelant demande également qu’il y ait audition.
+[44] Le 15 août 2013, la Cour ordonne qu’il y ait audition de la requête de l’intimée le 2 décembre 2013 à condition que l’appelant signifie à l’intimée et dépose à la Cour sa requête en homologation, la déclaration sous serment à l’appui et des observations écrites à l’appui de sa requête au plus tard le 20 septembre 2013. La Cour ordonne qu’il y ait audition de la requête de l’intimée et de la requête en homologation le même jour.
+[45] L’appelant ne s’est pas conformé à l’ordonnance du 15 août 2013 et n’a pas déposé sa requête en homologation au plus tard le 20 septembre 2013. Par ordonnance du 4 novembre 2013, la Cour a modifié son ordonnance du 15 août 2013 et a ordonné que seule la requête de l’intimée soit entendue le 2 décembre 2013.
+[46] Le 21 novembre 2013 l’appelant dépose à la Cour deux avis de requête avec déclaration sous serment à l’appui.
+[47] La première requête vise à obtenir l’homologation d’une transaction. Je ferai une observation au sujet de cette première requête. La requête et la déclaration sous serment sont très courtes; la déclaration sous serment a une demi-page de longueur. Il est difficile de comprendre pourquoi la requête n’aurait pas pu être déposée avant le 20 septembre 2013[10].
+[48] La deuxième requête déposée par l’appelant vise à obtenir une ordonnance de confidentialité afin que tous témoignages et documents fournis par l’appelant soient déclarés confidentiels. La déclaration sous serment à l’appui a seulement deux phrases avec un total de 43 mots[11].
+[49] Quand on considère que l’avis d’appel été déposé en juillet 2009 et que Me Draghia a signé la demande commune de fixation du temps et du lieu de l’audience le 7 juillet 2010, audience qui devait avoir lieu le 19 janvier 2011 et qui n’a été ajournée que le 12 janvier 2011 suivant une demande faite le 11 janvier 2011, soit huit jours avant l’audition, il est difficile de comprendre pourquoi cette question de confidentialité n’a pas été soulevée auparavant.
+Analyse [50] J’ai décrit tous ces faits parce qu’en les énumérant la réponse à la question de savoir si l’appelant a agi avec promptitude devient claire.
+[51] Je vais résumer les faits essentiels :
+a) Quand le greffe a envoyé une lettre le 21 décembre 2011 demandant un rapport écrit sur l’état de santé de l’appelant au plus tard le 6 janvier 2012, il n’y a pas eu de réponse.
+b) Quand le greffe a écrit de nouveau le 1er mai 2012 pour demander les intentions de l’appelant au plus tard le 4 mai 2012, Me Draghia a répondu qu’il attendait toujours une communication de l’appelant; il n’y a pas eu de suite de la part de l’appelant entre cette date et l’audience du 4 octobre 2012.
+c) Quand le greffe a écrit à l’appelant le 17 octobre 2012 pour lui demander de soumettre ses commentaires relatifs à la lettre du 10 octobre 2012 de l’intimée au plus tard le 31 octobre 2012, il n’y a eu aucune réponse de la part de l’appelant entre cette date et l’audition du 27 mars 2013.
+d) Quand la Cour a ordonné à l’appelant, par ordonnance du 4 avril 2013, d’aviser l’intimée et elle-même s’il se désistait ou non, l’appelant n’a pas communiqué ses intentions à l’intimée ni à la Cour avant la fin du délai fixé par la Cour, soit le 6 mai 2013. Il y a eu une réponse seulement le 14 juin 2013. Il n’y a pas eu de demande de proroger ce délai.
+e) Après que dans l’avis d’opposition l’appelant ait dit qu’une requête en homologation serait présentée « dans les plus brefs délais » et que la Cour ait ordonné la tenue d’une audition de la requête en rejet de l’intimée, comme l’a demandé l’appelant, à condition que la requête en homologation soit déposée au plus tard le 20 septembre 2013, l’appelant n’a déposé la requête en homologation que le 21 novembre 2013 sans demander que le délai du 20 septembre 2013 soit prorogé.
+[52] Je reconnais que vers la fin octobre 2012 l’appelant a eu une crise cardiaque et que cela a pu rendre l’appelant incapable de répondre avant le 31 octobre 2012 à la lettre du 17 octobre 2012; par contre, cela n’explique pas l’absence de réponse avant le 27 mars 2013.
+[53] Il n’y a aucune preuve qui expliquerait pourquoi il y avait un retard dans le dépôt de la requête en homologation[12].
+[54] À un moment donné de sa plaidoirie, Me Draghia a suggéré que ce délai était à cause de difficultés relatives à sa requête en confidentialité. Je ne peux comprendre son argument, car il n’y a aucun lien entre la requête en homologation et la requête en confidentialité. De plus, comme je l’ai déjà dit, quand on lit l’avis de requête en homologation et l’affidavit à l’appui, il est difficile de comprendre pourquoi cela ne pouvait pas se faire à temps.
+Conclusion [55] Quand on considère les événements que je viens de décrire, il est clair que l’appelant n’a pas agi avec promptitude. Non seulement l’appelant ne s’est pas conformé à deux ordonnances, mais plus généralement l’appelant a un comportement où il ne réagit pas ou il réagit avec retard[13].
+[56] Au contraire, quand je considère globalement les événements décrits ci‑dessus, je ne peux éviter de conclure que l’appelant cherche à retarder les procédures. Dans ces circonstances, il est approprié de rejeter l’appel[14].
+[57] L’appel est rejeté.
+Signé à Ottawa (Ontario), ce 21e jour de novembre 2014.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2014 CCI 349
+Nº DU DOSSIER DE LA COUR :
+2009-2311(GST)I
+INTITULÉ DE LA CAUSE :
+JEAN BELVAL c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 2 décembre 2013
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 21 novembre 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bogdan Draghia
+Avocat de l’intimée :
+Me Danny Galarneau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Bogdan Draghia
+Cabinet :
+Draghia avocats inc.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Il est tout à fait approprié dans les circonstances de cette cause d’accorder des frais en vertu du paragraphe 9(2) des Règles de procédure de la Cour canadienne de l’impôt à l’égard de la Loi sur la taxe d’accise (procédure informelle). Le montant de 700 $ est calculé en tenant compte du maximum payable, vu le fait qu’il y a eu deux auditions de requête et qu’il n’est pas nécessaire de taxer les frais, et du montant de frais ordonné dans l’ordonnance du 4 avril 2013. Ce calcul donne 710 $, montant que j’ai arrondi à 700 $.
+[2] J’ai constaté que si l’on imprime la version électronique de la transcription, la pagination n’est pas toujours la même que celle de la version papier. Les références ici sont relatives à la pagination de la version papier.
+[3] Je n’ai pu trouver de document écrit où Me Draghia s’était retiré du dossier. Toutefois, je constate, d’une part, qu’il y a deux notes au dossier écrites par le greffe au sujet des appels téléphoniques du 7 mai 2012 et du 20 juillet 2012 au cours desquels Me Draghia dit ne pouvoir aviser s’il représente toujours l’appelant. D’autre part, je constate qu’il y a une note au dossier écrite par le greffe le 17 octobre 2012 au sujet d’une conversation téléphonique avec Me Draghia où celui-ci confirme qu’il ne représentait plus l’appelant dans ce dossier.
+[4] Parce que l’appelant avait dit à l’audience qu’il croyait qu’il y avait eu un règlement et, parce qu’il n’était pas représenté par avocat à ce moment-là, j’ai demandé au greffe de porter à l’attention des parties trois décisions relatives à l’homologation, ce que le greffe a fait par lettre du 16 avril 2013.
+[5] Selon une note au dossier écrite par le greffe le 10 mai 2013, le greffe avait le chèque en main le 7 mai 2013; la pièce A‑1 indique qu’une livraison postale fut faite à Ottawa le 6 mai 2013.
+[6] Transcription, pages 19 à 22, 42 et 43.
+[7] Transcription, pages 19 à 21.
+[8] Voir les pages 40, 41 et 46 de la transcription. Une cour peut considérer le dossier non seulement dans le contexte de la procédure, mais également pour certaines autres fins. En général, une cour devrait en aviser les parties. Voir, par exemple, R. v. Tysowski, 2008 SKCA 88 (CanLII), aux paragraphes 18 et 19; Petrelli v. Lindell Beach Holiday Resort Ltd., 2011 BCCA 367, aux paragraphes 30 à 45 et, notamment 38, 39 et 42; R. v. Truong, 2008 BCSC 1151, aux paragraphes 36 à 62; R. c. Perron, 2011 QCCQ 8186, notamment la note 3; J.N. c. Company A, 2012 QCCA 1044, au paragraphe 2; Droit de la famille — 08168, 2008 QCCA 199, au paragraphe 20, dernière phrase.
+[9] Par précaution, j’ai également fait de même pour l’appel de l’appelant relatif à l’impôt sur le revenu qui est devant cette cour au cas où il y aurait une indication au dossier d’impôt.
+[10] Le contenu de la déclaration est assez surprenant. L’appelant dit que sa compréhension était que s’il se désistait de son appel, l’intimée fermerait « le présent dossier » et qu’en conséquence il s’attendait « à ce que l’intimée [lui] fasse remise de la dette fiscale alléguée dans le présent dossier » . Vu que juridiquement le désistement laisserait la cotisation et, en conséquence, la dette fiscale, en place, « fermer le dossier » aurait la conséquence inverse de l’attente de l’appelant.
+[11] La requête est surprenante quand on considère le fait que l’avis d’appel dit que le montant de 150 000 $ a été reçu à titre fortuit et inattendu, que l’appelant n’a pas demandé cette somme, qu’il n’a rendu aucun service en contrepartie et que le montant a été reçu à titre gracieux. Voir l’avis d’appel de l’appelant, avis qui est, en fait, les observations faites par l’appelant au stade de l’opposition.
+[12] Je note qu’après les représentations où j’ai soulevé la question de ce délai, il y a eu réouverture de preuve et l’appelant a pu témoigner de nouveau.
+[13] Dans le cas de la deuxième ordonnance émise après la requête en rejet avec comme motif le fait que l’appelant n’agissait pas avec promptitude, requête qui n’avait pas encore été entendue, l’appelant ne s’est pas conformé au délai établi dans cette ordonnance.
+[14] Voir, par exemple, Bourque c. La Reine, 2002 CanLII 809 (CCI), notamment aux paragraphes 39 à 42. Bien que cela soit une considération dans une telle requête, l’existence d’un préjudice n’est pas un élément requis pour rejeter une cause. Voir, par exemple, dans un contexte différent, la décision de la Cour d’appel de l’Ontario dans 1196158 Ontario Inc. v. 6274013 Canada Ltd., 2012 ONCA 544, notamment aux paragraphes 19 à 33.

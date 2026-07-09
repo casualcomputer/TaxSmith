@@ -1,0 +1,171 @@
+---
+title: "Chou v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27499/index.do"
+last_modified: "2005-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 408"
+citation2: ""
+neutral_citation: "2005 TCC 408"
+decision_date: "2005-06-30"
+language: "en"
+item_id: "27499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 56
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:35:19.785000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ec0479cfa4b7926fb5588ff669cce950a4015928d4b9632f5693494ad47ea988"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chou v. The Queen
+
+- Citation: 2005 TCC 408
+- Decision date: 2005-06-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 56, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chou v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-30
+Neutral citation
+2005 TCC 408
+File numbers
+2005-649(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-649(IT)I
+BETWEEN:
+CINDY CHOU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 17, 2005, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mylène Lévesque
+____________________________________________________________________
+ORDER
+Upon motion made by counsel for the respondent for an order quashing the appellant's appeals on the basis that:
+(a) the appellant cannot appeal to the Tax Court of Canada in respect of the Notice of Reassessment dated December 13, 2004, for the 1998 taxation year because a condition precedent to appealing has not been met, and
+(b) in regard to the 1999 taxation year, the appellant did not file a notice of objection to the Notice of Assessment as required by subsection 165(1) of the Income Tax Act;
+And upon reading the affidavit of Anne Dagenais, filed;
+And upon hearing what was alleged by the parties;
+The motion is granted and the purported appeals made under the Act for the 1998 and 1999 taxation years are quashed.
+Signed at Ottawa, Canada, this 30th day of June 2005.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2005TCC408
+Date: 20050630
+Docket: 2005-649(IT)I
+BETWEEN:
+CINDY CHOU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre, J.
+[1] The respondent brought a motion to dismiss the appellant's appeal from a reassessment dated December 13, 2004.
+[2] I understand from the documentary evidence that the appellant contributed $40,000 ("unused contributions") to her Registered Retirement Savings Plan ("RRSP") in 1995 and that she did not deduct that amount from her income in that year (see Form T746 filed as Exhibit A to the affidavit of Anne Dagenais).
+[3] It is also my understanding that the appellant withdrew an amount of $38,541 from her RRSP and declared that RRSP income in her 1999 tax return. In that same return, she apparently deducted an amount of $28,426 from that income as an RRSP deduction (see Individual Income Tax Return Information for the appellant's 1999 taxation year filed by the appellant as Exhibit A-1; see also the computerized data summarizing the income declared and deductions claimed by the appellant for 1999, filed by the respondent as Exhibit R-1).
+[4] It is my understanding that the appellant was assessed on September 12, 2000, for her 1999 taxation year on the basis of the income declared in her tax return for that year (see Exhibit R-1). It appears that the appellant was also reassessed for that year, on November 13, 2001 (see affidavit of Anne Dagenais at paragraph 11).
+[5] The documentary evidence further discloses that the Minister of National Revenue ("Minister") assessed the appellant's income tax for her 1998 taxation year on July 12, 1999, and that the normal reassessment period in respect of the appellant's 1998 taxation year ended on July 12, 2002 (see paragraphs 4 and 5 of the affidavit of Anne Dagenais and subsection 152(3.1) of the Income Tax Act ("Act")).
+[6] Subsection 152(3.1) reads as follows:
+Assessment
+SECTION 152:
+. . .
+(3.1) Definition of "normal reassessment period". For the purposes of subsections (4), (4.01), (4.2), (4.3), (5) and (9), the normal reassessment period for a taxpayer in respect of a taxation year is
+(a) where at the end of the year the taxpayer is a mutual fund trust or a corporation other than a Canadian-controlled private corporation, the period that ends 4 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year; and
+(b) in any other case, the period that ends 3 years after the earlier of the day of mailing of a notice of an original assessment under this Part in respect of the taxpayer for the year and the day of mailing of an original notification that no tax is payable by the taxpayer for the year.
+[7] It appears that it was only on October 20, 2003, that the appellant applied to the Minister for a refund of unused RRSP contributions (see Form T746, Exhibit A to the affidavit of Anne Dagenais).
+[8] The documentary evidence discloses that the Minister agreed to reassess the appellant's income tax for the 1998 taxation year beyond the normal reassessment period; the Notice of Reassessment was dated December 13, 2004. In so reassessing the appellant for that year, the Minister allowed the deduction of an amount of $11,574 (which is the balance of the unused RRSP contributions made in 1995), and this resulted in a refund to the appellant of $4,071.84 (see paragraphs 7 and 8 of the affidavit of Anne Dagenais and the Notice of Reassessment dated December 13, 2004, for the 1998 taxation year filed with the Notice of Motion).
+[9] The December 13, 2004, reassessment for the 1998 taxation year was a discretionary reassessment issued after the normal reassessment period under subsection 152(4.2) of the Act, which reads as follows:
+Assessment
+SECTION 152:
+. . .
+(4.2) Idem. Notwithstanding subsections (4), (4.1) and (5), for the purpose of determining, at any time after the expiration of the normal reassessment period for a taxpayer who is an individual (other than a trust) or a testamentary trust in respect of a taxation year,
+(a) the amount of any refund to which the taxpayer is entitled at that time for that year, or
+(b) a reduction of an amount payable under this Part by the taxpayer for that year,
+the Minister may, if application therefor has been made by the taxpayer,
+(c) reassess tax, interest or penalties payable under this Part by the taxpayer in respect of that year, and
+(d) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+[10] On December 21, 2004, the appellant filed with the Minister a Notice of Objection appealing the December 13, 2004, reassessment (see paragraph 9 of the Affidavit of Anne Dagenais and Exhibit B attached thereto).
+[11] By letter dated February 18, 2005, the Minister advised the appellant that, pursuant to subsection 165(1.2) of the Act, the Notice of Objection could not be considered as no objection may be made to a discretionary reassessment providing a refund or reducing the tax payable issued after the normal reassessment period under subsection 152(4.2) (see paragraph 10 of the Affidavit of Anne Dagenais and Exhibit C attached thereto).
+[12] Subsection 165(1.2) reads as follows:
+Objections to Assessments
+SECTION 165:
+. . .
+(1.2) Limitation on objections. Notwithstanding subsections (1) and (1.1), no objection may be made by a taxpayer to an assessment made under subsection 118.1(11), 152(4.2), 169(3) or 220(3.1) nor, for greater certainty, in respect of an issue for which the right of objection has been waived in writing by the taxpayer.
+[13] It is clear under subsection 169(1) of the Act that no appeal may be instituted before the Tax Court of Canada to have an assessment vacated or varied where no valid notice of objection has been served under section 165 of the Act.
+[14] Subsection 169(1) reads as follows:
+Appeals to the Tax Court of Canada and the Federal Court of Appeal
+SECTION 169: Appeal.
+(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[15] In the present case, as the appellant could not validly file a notice of objection to the December 13, 2004, reassessment issued pursuant to subsection 152(4.2) of the Act, she was consequently barred under subsections 165(1.2) and 169(1) of the Act from instituting an appeal from that reassessment before this Court.
+[16] Furthermore, in regard to the 1999 taxation year, it is not disputed that the appellant did not file a notice of objection to the Notice of Reassessment as required by subsection 165(1) of the Act.
+[17] For these reasons, the purported appeal made under the Act for the 1998 taxation year (the December 13, 2004, reassessment) may not be entertained and the appeal is quashed.
+[18] The purported appeal made under the Act for the 1999 taxation year is also quashed.
+Signed at Ottawa, Canada, this 30th day of June 2005.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2005TCC408
+COURT FILE NO.:
+2005-649(IT)I
+STYLE OF CAUSE:
+Cindy Chou v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+June 17, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+June 30, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Mylène Lévesque
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

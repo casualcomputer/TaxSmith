@@ -1,0 +1,234 @@
+Title: Marine Atlantic Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142533/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-46-142533-marine-atlantic-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-02-16
+
+# Marine Atlantic Inc. v. The Queen
+
+- Citation: 2016 TCC 46
+- Decision date: 2016-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3020, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marine Atlantic Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-16
+Neutral citation
+2016 TCC 46
+File numbers
+2012-1765(GST)G
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-1765(GST)G
+BETWEEN:
+MARINE ATLANTIC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on September 9, 2015 at Vancouver, British Columbia
+Before: The Honourable Justice K. Lyons
+Appearances:
+Counsel for the Appellant:
+Kimberley L.D. Cook
+Counsel for the Respondent:
+Tokunbo Omisade
+ORDER
+The respondent’s motion to bind the appellant to the agreement, to bar the appellant from raising an issue and strike portions of the Notice of Appeal is dismissed.
+The respondent’s motion to strike certain exhibits from the affidavit filed in this motion in support of the appellant’s position is allowed in part and otherwise is dismissed.
+There will be no order as to costs in this motion.
+Signed at Ottawa, Canada, this 16th day of February 2016.
+“K. Lyons”
+Lyons J.
+Citation: 2016 TCC 46
+Date: 20160216
+Docket: 2012-1765(GST)G
+BETWEEN:
+MARINE ATLANTIC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lyons J.
+[1] Marine Atlantic Inc. (“Marine”), the appellant, provides a commercial year-round and seasonal ferry transportation service for passengers and vehicles on two routes between the provinces of Newfoundland and Nova Scotia. The ferry service of transporting passengers and vehicles is an exempt supply for HST purposes. Commercial activities on the ferries, such as the operation of gift stores and restaurants, are taxable supplies. In filing its goods and services tax/harmonized sales tax returns for its reporting periods January 1, 2006 to January 31, 2006, February 1, 2006 to March 31, 2008 and April 1, 2008 to March 31, 2010, Marine claimed input tax credits for fuel it had consumed or used (“used”) for the ferries (“Fuel ITCs”). The Minister of National Revenue assessed Marine in respect of these reporting periods and issued Notices of Assessment which denied the Fuel ITCs. Marine appealed those assessments in 2012.
+[2] Marine considers fuel used to be a common input to taxable activities and exempt supplies because portions of the ferries were dedicated to those supplies and activities. The respondent considers fuel used for the propulsion of ferries to be used exclusively in an exempt supply.
+[3] In 2013, Marine requested, and the respondent agreed, that its appeal be held in abeyance whilst two appeals filed by British Columbia Ferry Services Inc. (“BCF”) proceeded to trial (collectively, “BCF appeal”).[1] The abeyance request was made because three issues in the BCF appeal were viewed as common to the appeal by Marine, including the issue of whether fuel is a common input to both taxable and exempt supplies.[2] Notably, BCF and Marine had retained the same counsel in their respective appeals. Marine and the respondent agreed to be bound by the decision in the BCF appeal on the common issues (the “Agreement”).
+[4] The Court rendered its decision in the BCF appeal (the “BCF Decision”) on October 14, 2014. In December 2014, Marine informed the respondent of its view that the BCF Decision did not fully resolve the Fuel ITCs issue in Marine’s appeal principally because of admissions BCF made, which Marine would not be making, that were pivotal to the conclusion reached by the Court plus certain other comments.[3]
+[5] The respondent filed an Amended Notice of Motion (“motion”) seeking an order that Marine is bound by the Agreement, that it be barred from raising the Fuel ITCs issue, that corresponding portions of the Notice of Appeal be struck and solicitor-client costs. At the hearing, the respondent also asked that certain exhibits attached to the affidavit filed in support of Marine’s position be disregarded as irrelevant or subject to settlement privilege.[4]
+[6] Marine made extensive submissions; the key ones are detailed in these reasons. It interprets the Agreement as binding on common issues to both appeals with either party free to pursue a determination on the merits of any issue that was not common to both appeals or left unresolved by the BCF Decision. Specifically, Marine argues that the BCF Decision did not resolve whether fuel is a common input when an unknown percentage, or less than 90%, of the fuel is used in exempt activity (“unresolved issue”). Marine wishes to pursue its claim, as pled, that fuel is a common input when more than 10% of the fuel consumed by the ferries is used in commercial activities, entitling it to Fuel ITCs.
+I. Background to motion [7] To understand the issues in this motion, it is helpful to set out the background to the BCF appeal. Similar to Marine, BCF provides a ferry transportation service along the British Columbia coast as well as commercial or ancillary services.[5] The commercial and ancillary services are not considered directly related to the transportation service. In the BCF appeal, the Minister challenged the allocation of inputs between taxable and exempt supplies, including BCF’s claim for the Fuel ITCs.[6]
+[8] On July 22, 2013, respondent counsel sent to BCF’s counsel a draft Request to Admit #1 containing certain facts. BCF’s counsel responded “I am in receipt of your draft Request to Admit #1 the contents of which I confirm as to language.”[7]
+[9] In the Agreed Statement of Facts, dated May 22, 2014, BCF made the following factual admissions (the “Admissions”) which are virtually identical to those in the draft Request to Admit #1:[8]
+a) Substantially all of the fuel that was consumed on them was for propulsion;
+b) BCF is not able to prove on a balance of probabilities that over 10% of the fuel that was consumed on them was consumed directly in the provision of commercial activities; and
+c) BCF will not challenge the Minister’s assumption that less than 10% of fuel on any of them was consumed directly in the provision of commercial activities on the vessel.
+[10] At the BCF trial, the respondent argued that the fuel was a single use input, substantially all of which was consumed in the propulsion of the ferries, and therefore related to the provision of exempt supplies. BCF submitted that fuel was a common input consumed in the provision of both taxable and exempt supplies. Accordingly, it was entitled to the Fuel ITCs.[9]
+[11] In the BCF Decision, the Court concluded, as it relates to the Fuel ITCs issue, that fuel used for the propulsion of ferries was used exclusively in an exempt activity; therefore, BCF would not be entitled to claim any ITCs.[10] That conclusion was based on BCF’s Admissions that it was unable to prove that more than 10% of fuel used was used directly in the provision of commercial activities that over 90% (substantially all) of the fuel used on the ferries was for propulsion of the ferries.
+[12] In May 2013, Marine had made a request to the Court for a 30-day extension to enable the parties to reach an agreement to be followed by a formal request for an abeyance of its appeal. The Court granted the abeyance on July 16, 2013.[11]
+[13] The Agreement to hold Marine’s appeal in abeyance and be bound by the decision in the BCF appeal was initiated by Marine counsel and agreed to by the respondent counsel on July 4, 2013.[12]
+II. Analysis [14] The key difference in the parties’ positions is whether the BCF Decision fully, as contended by the respondent, or partly, as contended by Marine, resolves the Fuel ITCs issue in Marine’s appeal.[13]
+[15] Under the Agreement, Marine accepts that the BCF Decision is binding on the part of the common issue where more than 90% of the fuel was used in exempt activity and it will not challenge its entitlement to ITCs as it relates to that part. However, the other part of the common issue (where less than 90% of the fuel was used in exempt activity) remains unresolved because the subsequent Admissions resulted in it no longer being a common issue to both appeals. In addition, the Court made remarks that BCF would have been entitled to a proportion of the Fuel ITCs but for the Admissions.[14] On this basis, Marine’s position is that it did not renege on the Agreement. Therefore, Marine submits that it should be permitted to pursue the unresolved issue and argue that fuel is a common input where more than 10% of the fuel consumed by the ferries is used in commercial activities.
+Legal principles of contractual interpretation
+[16] This Court must determine what the parties had agreed to in holding the Marine appeal in abeyance in order to determine whether Marine reneged on the Agreement. The Supreme Court of Canada states that “[t]he key principle of contractual interpretation … is that the words of one provision must not be read in isolation but should be considered in harmony with the rest of the contract and in light of its purposes and commercial context”.[15] A contract consists of the context of the document read as a whole and the contextual surrounding circumstances giving rise to the contract. The contractual intent of the parties is to be determined by reference to the words they used in drafting the document, possibly read in light of the surrounding circumstances (that is, objective evidence of background facts when the contract was signed) which were prevalent at the time.[16] However, evidence of one party’s subjective intention has no independent place in contractual interpretation.[17]
+The Agreement
+[17] The Agreement is contained in two letters exchanged between counsel dated June 21, 2013 and July 4, 2013.
+[18] In considering the wording of the Agreement and contextual circumstances, I find that the parties’ intention was to be bound by the decision in the BCF appeal on the three issues common in both appeals. The relevant wording in the letter Marine sent to the respondent, dated June 21, 2013, states:
+Further to our discussions regarding holding the above noted matter in abeyance pending the disposition of the appeal before the Court in BC Ferry Services Inc. v HMQ 2008-1600(GST)G & 2008-2621(GST)G (the “BCF Matters”), this letter is to advise you in writing of the issues under appeal in these proceedings that Marine Atlantic Inc. (“MAI”) agrees will be resolved by the decision in the BCF Matters [i.e., BCF appeal].
+MAI hereby agrees to be bound by the decision in the BCF Matters relating to the following three issues that are also in dispute in this appeal:
+…
+3. whether fuel that is used for the propulsion of the vessel is used in both taxable and exempt activity or exclusively in exempt activity.
+[19] Without referring to the three issues as “common”, the respondent agrees to the abeyance and accepts, in her letter dated July 4, 2013 sent to Marine, the three issues as detailed in the June 21, 2013 letter that would be governed by the disposition of the BCF appeal. The letter states:
+I refer to your letter dated June 21, 2013 … and our telephone conversations of July 3, 2013.
+I write to confirm that the Respondent agrees to the above appeal being held in abeyance pending the disposition of British Columbia Ferries Services Inc. (2008-1600(GST)G) (the “BCFS matter”) in the Tax Court in exchange for the Appellant agreeing to be bound by the Tax Court decision in the BCFS matter relating to the three issues referred to in your letter of June 21, 2013. …
+[20] Since the letters provide little contextual information, this necessitates a consideration of the surrounding circumstances to determine the parties’ intentions. Although evidence of a contracting party’s subjective intention is not to be considered, exchanges can be considered as part of the factual background and circumstances.
+Fuel ITCs issue a common issue to both appeals
+[21] The respondent argues that Marine agreed to be bound by the decision in BCF relating to the three issues in the June 21, 2013 letter. Marine submits it agreed to be bound by the decision in BCF to the extent that the issues were common to both appeals.
+[22] Several documents in May 2013 confirm that the purpose of the abeyance was to have the BCF appeal proceed, which was further advanced, with three issues also in dispute in Marine’s appeal.[18] This is consistent with the June 21, 2013 letter which indicates that Marine “agrees to be bound by the decision [in the BCF appeal] … relating to the following three issues that are also in dispute in this appeal.”
+[23] The statement of the Fuel ITCs issue in each of BCF’s and Marine’s Notices of Appeal are strikingly similar.[19] However, there is some variance in the statement of the issue described in Marine’s Notice of Appeal when compared with the articulation of the issue chosen by the parties in the Agreement. The pleadings describe the Fuel ITCs issue as follows:
+a) whether fuel is a common input, i.e. an input to both taxable and exempt supplies [BCF, Amended Notice of Appeal, subparagraph 34(b)];
+b) whether fuel is an input that is common to both taxable and exempt supplies [Marine, Notice of Appeal, subparagraph 37(b)]; and
+c) [whether] the Appellant was entitled to claim any ITCs for the fuel used for propulsion; [Marine, Reply, subparagraph 18(b)].
+[24] On May 16, 2013, Marine made a request to the Court for additional time for the parties to reach an agreement to hold the Marine appeal in abeyance. The request states that “This request was made because the key issues in the BCF matters are common to the Marine Atlantic matter. Opposing counsel informed me late yesterday that his client is amenable to an abeyance provided that Marine Atlantic agrees in writing to be bound by the decision in the BCF Matters regarding the common issues. This will require us to agree and articulate the issues are common to both proceedings.” It appears that the parties had identified the “common” issues in advance of the request, presumably derived from the pleadings and/or in discussions leading up to the Agreement. Nevertheless, the parties requested time to articulate the issues. Those three issues were articulated in the June 21, 2013 letter (“articulation”).
+[25] Notably, the articulation of the Fuel ITCs issue in the June 21, 2013 letter differs from the issues stated in the Notice of Appeal and the Reply in the Marine appeal; perhaps the articulation was an attempt to blend the issues as stated in those pleadings. However, the descriptors of the issues in the Amended Notice of Appeal filed in the BCF appeal and the Notice of Appeal filed in the Marine appeal are virtually the same and common to both appeals. Albeit there is a variance in the wording as between the narrow articulation and its Notice of Appeal, I find that the articulation is necessarily subsumed in the more broadly framed statement of issue as pled in the Notice of Appeal; therefore, the parties’ intended at the time of entering into the Agreement that the Fuel ITCs was a common issue in both appeals.
+Fuel ITCs issue narrowed by the Admissions
+[26] Marine’s submission is that the BCF Decision resolved only part of the Fuel ITCs that remained a common issue to both appeals. Marine asserts that subsequent to the Agreement, the common issue was narrowed due to the Admissions so that the other part of the Fuel ITCs was no longer common to both appeals. Since Marine will not be making the same Admissions, it intends to pursue the unresolved issue as embodied in its pleadings (i.e., whether fuel is a common input to both taxable and exempt supplies). Specifically, Marine wishes to pursue whether fuel - and not necessarily used for propulsion of ferries - is an input common to both taxable and exempt supplies where an unknown percentage or less than 90% of fuel was used in exempt activities.
+[27] The respondent contends that Marine’s submission relating to the Admissions is without substance because BCF had argued, despite the Admissions, that fuel was a common input consumed in both taxable and exempt activities and that it was entitled to the Fuel ITCs because certain areas of the ferries were used for commercial or ancillary activities. Since the Court considered and rejected that argument, the Fuel ITCs remained a common issue in both appeals and was fully resolved by the Decision.
+[28] Admittedly, BCF presented that argument. However, the subsequent Admissions would have impacted what the parties had previously agreed to relating to the Fuel ITCs, rendering part of the Fuel ITCs no longer a common issue to both appeals.
+[29] The documentation between the parties post-pleading but prior to entering into the Agreement shows that the parties envisaged a narrowing in the scope of litigation in selecting the issues they did, such that the BCF appeal would “resolve many of the issues in” Marine’s appeal. Yet, recognition was also given to the prospect that after the BCF appeal had been disposed of, attempts could be made to settle any remaining issues or proceed to litigation.[20]
+[30] Aside from the Admissions, it is conceivable that variation in the wording might have unwittingly contributed to and been the source of confusion amongst the parties as to what comprised the common issue at the end of the day. With that backdrop, I have some doubt that the Fuel ITCs issue as framed in the pleadings was fully addressed.
+BCF Decision [31] In arriving at the Decision, Campbell J. relied on the Admissions and noted that the deeming provision in subsection 141(3) of the Excise Tax Act (the “ETA”) provides that if substantially all (90% or more) of the consumption of a property or service is used in a particular activity, then all of the property or service is deemed to be used in the course of that activity. She concluded that “[a] determination respecting fuel and lubricants is dependent on whether substantially all of the fuel and lubricants was acquired and consumed by BCF to provide only an exempt supply or to provide both taxable and exempt supplies.”[21] Consequently, subsection 141(3) of the ETA applied to deem all of the fuel consumed exclusively in exempt activity and BCF was not entitled to the Fuel ITCs.
+[32] BCF took the position that “it was entitled to claim the Fuel ITCs because the fuel is required to propel ferries not only the portions of the vessels dedicated solely to the making of exempt supplies; it is required to propel the vessel as a whole, including the areas devoted to GST-taxable activities.”[22] Fuel directly and indirectly contributes to the provision of taxable supplies and ancillary services by providing electricity, heat and other elements.
+[33] Whilst Campbell J. appears to accept that the fuel consumed by the ferries could be a common input to taxable and exempt supplies, she was constrained by the Admissions.[23]
+[34] I accept as plausible Marine’s stance that this means that the other part of the Fuel ITCs was no longer a common issue because of the impact (that is, narrowing of the initial common issue) by the subsequent Admissions on the Agreement, leaving the unresolved issue as I previously defined. In my view, this interpretation is consistent with the breadth of the statement of issue in the pleadings. As such, there is some doubt that the BCF Decision fully resolved the issue respecting Fuel ITCs in Marine’s appeal.
+[35] Despite my finding that the BCF Decision did not fully resolve the Fuel ITCs issue, I will respond to the arguments relating to the relief sought for completeness.
+III. Relief A. Jurisdiction [36] In her motion, the respondent, without referencing any provision in the ETA or the Tax Court of Canada Rules (General Procedure) (“Rules”), requests an order “that the Appellant is bound by its agreement that fuel used for the propulsion of the vessels (ferries) is used exclusively in exempt activity.” The respondent contends that Marine should be held to the clear terms of the Agreement such that it be interpreted to mean that Marine has no right to pursue its claim for Fuel ITCs as it was fully resolved by the Decision.
+[37] Marine argues, which the respondent disputed at the hearing, that the respondent seeks a declaratory order or the equitable remedy of specific performance even though this Court does not have jurisdiction to grant such relief. Marine relies on Garber v Canada, 2005 TCC 635, 2005 DTC 1456 [Garber] and Huppe v Canada, 2010 TCC 644, 2011 DTC 1042 [Huppe] as illustrative that such remedies are not available in disposing of an appeal.[24]
+[38] The Court has been granted exclusive original jurisdiction under section 12 of the Tax Court of Canada Act to determine appeals from assessments made under the Income Tax Act (the “ITA”) and the ETA.[25] Under subsection 309(1) of the ETA, the equivalent provision to subsection 171(1) of the ITA, the Court may dispose of an appeal from an assessment by dismissing it, allowing it, and vacating the assessment, or referring the assessment back to the Minister for reconsideration and reassessment.[26] The Court’s jurisdiction is limited to what is expressly conferred on it by Parliament and what is necessarily implied from what is expressly conferred: Lamash Estate v Minister of National Revenue, [1990] 2 CTC 2534, 91 DTC 9 (TCC) per Christie A.C.J.T.C.[27]
+[39] Even if it was the case that the BCF Decision fully resolved the Fuel ITCs issue, I would decline to grant an order binding the Appellant to the Agreement as it is well established that this Court is prohibited from granting a declaratory order or the equitable remedy sought in such circumstances.
+B. Inherent jurisdiction to control own process [40] In reply argument, the respondent clarified that her request to bind Marine to the Agreement is based on the Court’s inherent jurisdiction to control its processes. The respondent argued that Marine’s abeyance request was made and granted by the Court based on the understanding that the issues in Marine would be resolved by the BCF Decision.
+[41] In Garber, the Court states that the “Court has jurisdiction to enforce its own rules, insist on standards of fairness, and prevent an abuse of its process.” Bowman C.J. (as he then was) accepted that the Court has an inherent jurisdiction to control its own processes but found that does not extend to settlement negotiations outside of a pre-trial conference.[28] This decision was upheld by the Federal Court of Appeal.[29]
+[42] A declaration that Marine is bound by the Agreement can only be justified if the Court’s inherent jurisdiction to control its own process extends to an agreement between the parties to hold an appeal in abeyance.
+[43] In Webster v Canada (Minister of National Revenue – MNR), 2003 FCA 442, 2003 DTC 5729 (FCA) [Webster], Rothstein J. (as he then was) stated that an agreement to hold an objection or appeal in abeyance under subsection 221.1(5) of the ITA “is not an agreement whereby the Minister and the taxpayer are necessarily bound by the decision in the other action. The taxpayer is not precluded from filing an appeal or continuing with an appeal irrespective of the decision in the other action.”[30] Rothstein J.’s comments indicate that an abeyance does not in itself bind the parties to the decision in another appeal. The agreement to be bound by a decision in another appeal is an agreement between the parties, external to the Court’s processes.
+[44] Similarly, I find that the Court’s granting of the abeyance did not bind Marine and the respondent to the BCF Decision. The Agreement to be bound by the BCF Decision was between the parties and external to the Court’s processes. I dismiss the respondent’s motion on this aspect.
+C. Abuse of process Strike pleadings
+[45] The respondent argues that Marine’s conduct in reneging on the Agreement is an abuse of process and has “unnecessarily lengthened” the proceedings. On this basis, the respondent requests that this Court strike portions of Marine’s pleadings relating to the Fuel ITCs issue. I would decline to do so for the following reasons.
+[46] Rule 53 provides the Court, on its own initiative or upon application by a party, with the ability to strike pleadings in whole or in part on certain grounds. The onus is on the respondent to establish that a pleading should be struck and a high threshold must be met before striking out a pleading in whole or in part. Rule 53 reads:
+53. (1) The Court may, on its own initiative or on application by a party, strike out or expunge all or part of a pleading or other document with or without leave to amend, on the ground that the pleading or other document
+(a) may prejudice or delay the fair hearing of the appeal;
+(b) is scandalous, frivolous or vexatious;
+(c) is an abuse of the process of the Court; or
+(d) discloses no reasonable grounds for appeal or opposing the appeal.
+[47] In order for a party’s conduct to amount to an abuse of process, the party must have deliberately failed to cooperate or comply with the rules or court orders causing delay and prejudice. In Yacyshyn v Canada, [1999] 1 CTC 139 (FCA), the Federal Court of Appeal affirmed this Court’s order to strike pleadings is based on the taxpayer’s conduct, which in that case had caused “delay and prejudice” amounting to an abuse of process.[31]
+[48] Based on the record, the respondent has failed to establish the high threshold to show that Marine’s conduct amounts to an abuse of process. Marine’s pursuit of the unresolved issue as pled in its Notice of Appeal does not demonstrate a deliberate failure to cooperate or unwillingness to comply with the rules or orders causing delay and prejudice. Given my previous findings, it appears that Marine did not renege on the Agreement.
+[49] I am not satisfied that the abeyance unduly delayed or lengthened the proceedings. The abeyance was designed to narrow the scope of the litigation and resolve three issues, including the Fuel ITCs issue. Necessarily, the appeal had to be placed in abeyance, in any event, pending the resolution of all issues and not just the singular Fuel ITCs issue. It appears that part of the Fuel ITCs was resolved and two other issues were fully resolved.
+[50] Marine informed the respondent of its interpretation of and position with respect to the Decision in December 2014. Thereafter and up to May 2015, there were communications between counsel regarding the parties’ views on outstanding matters and suggestions for a timetable to complete the litigation steps. I am not prepared to conclude that Marine unduly delayed or unnecessarily lengthened the proceedings nor was I able to discern a deliberate lack of regard for the Court’s processes. I am not convinced that Marine’s conduct amounts to an abuse of process under Rule 53. I dismiss the respondent’s motion in which she seeks a finding that there was an abuse of process that would justify the striking of pleadings.
+Barred from raising the Fuel ITCs Issue
+[51] The respondent seeks to bar Marine “from raising the issue of whether fuel used for the propulsion of the vessels [ferries] is used in both taxable and exempt activities or exclusively in exempt activity” because the BCF Decision fully resolved the issue in Marine’s appeal.
+[52] I disagree with Marine’s argument that this Court does not have the jurisdiction to bar a party from raising an issue in certain circumstances. Such motions are generally brought under Rule 58 and often on the grounds of res judicata, issue estoppel or abuse of process. In Mosher v Canada, 2013 TCC 378, 2014 DTC 1026, C. Miller J. found that an order to preclude a party from raising an issue was essentially an order to strike pleadings.
+[53] As previously noted, the respondent has not introduced sufficient evidence to justify her motion for an order to strike portions of the pleadings so as to bar Marine from pursuing the other part of the Fuel ITCs issue. Accordingly, the respondent’s motion to bar Marine from pursuing the remaining part of the Fuel ITCs issue is denied.
+The Exhibits
+[54] In Canada (Attorney General) v Quadrini, 2010 FCA 47, [2010] FCJ No. 194 (FCA) [Quadrini], the Federal Court of Appeal affirmed that portions of affidavits may be struck “where they are abusive or clearly irrelevant”.[32] An affidavit may also be struck out where a party “will clearly be prejudiced by the material.”[33]
+[55] At the hearing, the respondent requested that the following Exhibits attached to the affidavit of Vicki Stephens, filed in support of Marine’s position, be disregarded or afforded little, if any, weight as these are irrelevant or subject to settlement privilege.
+[56] I disagree with respondent counsel that Exhibits “A” and “B”, recording discussions between counsel in reaching the Agreement, are irrelevant because the parties’ agreement is reflected in the Agreement.[34] In my view, these provide context to assist in interpreting the Agreement and are relevant.
+[57] I find that Exhibit “C”, a letter from Marine’s counsel and a copy of a draft Request to Admit #1, relevant. It contains virtually the same factual admissions as the Admissions that were pivotal to the conclusion reached in the Decision.
+[58] I find that Exhibits “G”, “H” and “I”, copies of communications in February and May 2015 between counsel regarding the timetable to complete the remaining litigation steps, relevant in considering Marine’s conduct in these proceedings and whether it caused undue delay or unnecessarily lengthened the proceedings.
+[59] I find that Exhibit “J”, a copy of an email dated May 25, 2015 from Marine’s counsel to respondent counsel relating to conduct in bringing the motion, is irrelevant to this motion. Marine has not indicated its purpose in introducing this exhibit.
+[60] I find that Exhibit “K”, a copy of a chart setting out Marine’s expenses in its 2010-11 Annual Report introduced to demonstrate that fuel is one of its largest operating expenses, is irrelevant to this motion.
+[61] I find that Exhibits “E” and “F”, copies of email exchanges relating to settlement negotiations, are protected by settlement privilege. In Sable Offshore Energy Inc. v Ameron International Corp., 2013 SCC 37, [2013] 2 SCR 623 [Sable Offshore], the Supreme Court of Canada considered the purpose of settlement privilege. Abella J. stated at paragraph 2:
+The purpose of settlement privilege is to promote settlement. The privilege wraps a protective veil around the efforts parties make to settle their disputes by ensuring that communications made in the course of these negotiations are inadmissible.
+[62] The exception to settlement privilege requires a party to demonstrate that “a competing public interest outweighs the public interest in encouraging settlement”.[35] Marine did not offer any reasons to demonstrate that these Exhibits fit within the exception in which the public interest outweighs the protection of the Exhibits by settlement privilege.[36]
+[63] Based on the foregoing reasons, Exhibits “E”, “F”, “J” and “K” are struck from the affidavit filed in support of Marine’s position.
+Solicitor-client costs for this motion
+[64] In Velcro Canada Inc. v Canada, 2012 TCC 57, 2012 DTC 1100, Rossiter A.C.J. (as he then was) found that the Rules provide the Court with an extremely broad discretion in determining the amount of costs, the allocation of costs and who must pay in considering a costs award, the factors in Rule 147(3) are to be considered.
+[65] Solicitor-client costs are exceptional and awarded where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties.[37] Recent decisions of this Court have confirmed that criteria and note that such costs are warranted in “egregious circumstances.”
+[66] The respondent claims solicitor-client costs because Marine requested that the appeal be held in abeyance pending the Decision and now attempts to renege on its Agreement because the Decision was unfavourable to its position. She submits that Marine misled the Court and the respondent, amounting to “reprehensible, scandalous and outrageous behaviour.” I disagree. Marine accepted it is bound by the Agreement except for the unresolved issue. Nor do I find it reprehensible to have a different interpretation of the Decision as to whether it is dispositive of the Fuel ITCs issue. In Invesco Canada Ltd. v Canada, 2015 TCC 92, [2015] TCJ No. 78 (QL), the fact that the respondent differed from the appellant in her view of certain documentation did not amount to misconduct or mean that her position was frivolous or vexatious, despite the fact that the Court found this view to be erroneous.
+[67] I find that there is nothing on the record nor has the respondent demonstrated Marine’s behaviour is egregious and worthy of censure by solicitor-client costs.
+[68] Except for striking the Exhibits previously identified, based on the foregoing, the respondent’s motion is dismissed.
+[69] There will be no order as to costs for this motion.
+Signed at Ottawa, Canada, this 16th day of February 2016.
+“K. Lyons”
+Lyons J.
+CITATION:
+2016 TCC 46
+COURT FILE NO.:
+2012-1765(GST)G
+STYLE OF CAUSE:
+MARINE ATLANTIC INC. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 9, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice K. Lyons
+DATE OF ORDER:
+February 16, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Kimberley L.D. Cook
+Counsel for the Respondent:
+Tokunbo Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kimberley L.D. Cook
+Firm:
+Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Affidavit of Dorena Gillis, Exhibits “C”, “D” and “E”.
+[2] British Columbia Ferry Services Inc. v Canada, 2008-1600(GST)G and 2013‑4206(GST)G. Amended Notice of Appeal in respect of 2008-1600(GST)G, subparagraph 34(b), page 14 of the Respondent’s Motion Record.
+[3] Affidavit of Vicki Stephens, Exhibit “D”.
+[4] Affidavit of Vicki Stephens, Exhibits “A”, “B”, “C”, “E”, “F”, “G”, “H”, “I”, “J” and “K”.
+[5] Commercial services include catering, specialty lounges, retail store, massage chairs, vending machines, video arcade, third party advertising, etc. and ancillary services that that generate heat and electricity for commercial services on ferries.
+[6] BCF did a deck by deck analysis categorizing what it considers a fair and reasonable method, so as to allocate a percentage of taxable and exempt activities so as to claim ITCs relating to taxable supplies. Marine said in its submissions that the only difference in facts is that Marine conducted its measurements based on taxable activities (i.e., gifts, restaurants, café, etc.).
+[7] Affidavit of Vicki Stephens, Exhibit “C”.
+[8] Agreed Statement of Facts, paragraph 80.
+[9] Specifically, (a) the ferries that administered the ancillary services were larger, heavier, and had more complex systems, thus consumed more fuel for electricity, heat, hot water, lighting and other infrastructure inputs; and (b) the propulsion of the ferry, which required fuel consumption was necessary to create a captive market for the provision of its commercial services.
+[10] Paragraphs 72 and 74 of the Decision. At paragraph 37, the Court said that the determination respecting fuel (lubricants were also in issue) hinges on whether “substantially all” of the fuel was acquired and consumed by BCF to provide only an exempt supply or to provide both taxable and exempt supplies.”
+[11] Affidavit of Vicki Stephens, Exhibit “C”.
+[12] Affidavit of Dorena Gillis, Exhibit “D” and “E”.
+[13] Despite the respondent having agreed with Marine that the Fuel ITCs was a common issue, she notes that the fuel in BCF’s appeal was a common input used for the propulsion of ferries and to generate heat and electricity for the commercial services on board, whereas the fuel in Marine’s appeal was used only and directly for the propulsion of the ferries because Marine’s ferries had separate generators to produce heat and electricity for commercial services on board. Respondent’s Written Submissions, paragraphs 1 and 2.
+[14] Marine points to paragraph 70 of the Decision and suggests that the Court made obiter comments in support of that.
+[15] Tercon Contractors Ltd. v British Columbia (Transportation and Highways), 2010 SCC 4 at para 4, [2010] 1 SCR 69.
+[16] Confirmed by the Supreme Court of Canada in Sattva Capital Corp. v Creston Moly Corp., 2014 SCC 53, [2014] 2 SCR 633.
+[17] Affirmed by the Supreme Court of Canada in Eli Lilly & Co. v Novopharm Ltd.; Eli Lilly & Co. v Apotex Inc., [1998] 2 SCR 129, that subjective intentions should not be considered in contractual interpretation.
+[18] Memo to file dated May 8, 2013 by Marine’s counsel. Email dated May 10, 2013 from Marine’s counsel to respondent counsel. Email dated May 16, 2013 from Marine’s counsel to the Registrar.
+[19] The parties’ submissions state:
+a) … the fuel used for the propulsion of the Ferries because the fuel is required to propel not only the portions of the vessel dedicated solely to the making of exempt supplies; it is required to propel the vessel as a whole, including areas devoted to taxable activities; [Marine, Notice of Appeal, subparagraph 39(b)] and
+b) the fuel used for propulsion was used exclusively in the course of making the exempt ferry service of transporting motor vehicles and passengers; [Marine, Reply, paragraph 23].
+[20] A Memo to File by Marine counsel recording her discussion with respondent counsel and an email from Marine counsel to respondent counsel in May 2013.
+[21] Both parties agree - and are correct - that the finding in the Decision means that Marine does not have a claim to entitlement for Fuel ITCs where more than 90% of fuel is used in the ferry transportation service, an exempt activity. That is, fuel used directly for propulsion of the ferries if substantially all of the fuel is allocable to propulsion, is an exempt supply. Marine concedes that this part of the Fuel ITCs was common to both appeals, that the BCF Decision resolved this issue as it relates to this part of the Fuel ITCs and that Marine is bound by the BCF Decision to this extent.
+[22] Amended Notice of Appeal in respect of 2008-1600(GST)G, paragraph 38, page 15 of the Respondent’s Motion Record.
+[23] At paragraphs 69 and 70, Campbell J. states:
+69 BCF submitted that it is entitled to claim ITCs for fuel and lubricants which directly and indirectly contribute to the provision of table supplies, the ancillary services, by providing the electricity, heat, hot water, lighting and other infrastructure inputs. Mr. Collins explained that, because all such commercial services consume more energy than a vessel without those services onboard, there is an interconnectedness between fuel consumption and the ancillary activities. According to Mr. Collins, the fuel system is common to all energy consumption. Mr. Murray testified that fuel contributes to the propulsion of the vessel which is essential in creating a captive market and high volume turnover of customers who will utilize the ancillary services. Without movement of the vessel, there would be no customers and no sales.
+70 These facts appear to support a conclusion that BCF should be entitled to a proportion of ITCs in respect of the fuel and lubricants.
+[24] In Huppe, Webb J. held, noting that this Court is not a court of equity, that the Court had the jurisdiction to enforce a settlement agreement negotiated by the parties because the Court has been granted the specific powers to order the remedies in paragraph 171(1)(b) of the ITA (by allowing the appeal and varying the assessment or referring the assessment back to the Minister for reconsideration and reassessment) provided that the appellant could establish that an agreement was made. He distinguished Garber because in that case, the innocent party had accepted the repudiation by continuing to negotiate towards a settlement.
+[25] In an appeal under the ITA or ETA, the Court determines if the Minister’s assessment of the quantum of tax or net tax, respectively, is correct or not and the validity of an assessment. The Court can also hear appeals on matters arising under other statutes specified and determine references under those statutes as well as the ITA and ETA.
+[26] Webb J. in Whitford v Canada, 2008 TCC 359, 2008 GTC 638, notes that comments are equally applicable to both provisions.
+[27] In Persaud v Her Majesty the Queen, 2013 TCC 405, 2014 DTC 1031, in dismissing an application for a declaration that the taxpayer’s notice of objection was valid, Woods J. stated that the Court does not have jurisdiction to grant declaratory relief.
+[28] The Appellants sought an order striking out the Crown’s reply or in the alternative, an order allowing the appeals and vacating the reassessments. In bringing the motion, the Appellants alleged that the Crown had abused the Court’s process by repudiating a settlement agreement. Bowman C.J. stated, at paragraph 33,
+33 Where the settlement negotiations take place outside of the context of a pre-trial conference (as was the case here) there is no power that this Court has to enforce parties to act reasonably or to bargain in good faith. A party can approach the settlement negotiations in a contrary, perverse and downright cantankerous frame of mind or can refuse altogether to negotiate, and there is really nothing this Court can do about it, except, perhaps, after the case has been heard, to take into consideration in awarding costs under section 147 of the Rules an offer of settlement made by one of the parties.
+[29] Garber v Canada, 2006 FCA 177, 2006 DTC 6358.
+[30] Webster, supra, at para 9. Subsection 221.1(5) of the ITA deals with the Minister’s ability to collect in the context of an abeyance which is granted where issues are the same or substantially the same.
+[31] The taxpayer had “deliberately evad[ed] her obligations with respect to discovery”, with numerous failures to attend examinations for discovery in spite of an order of this Court that examinations be held by a certain date. In Merchant v Canada, 2001 FCA 19, 2001 DTC 5245 (FCA), the taxpayer refused to comply with the Court’s disclosure order and argued that he did not have to cooperate with the Canada Revenue Agency. The taxpayer “rendered impossible the orderly and effective conduct of discovery…to the point where [the CRA] was incapable of properly and effectively verifying the merit of [his] claims”. The Federal Court of Appeal found that he unduly and unnecessarily prolonged the hearing. In Rusnak v Canada, 2000 DTC 2267, the taxpayer failed to comply with two court orders, avoided communications with the Respondent, failed to appear for examinations for discovery, requested an adjournment to retain new counsel and did not attempt to retain new counsel, and did not attend the Respondent’s motion to dismiss his appeal. The Court determined that the taxpayer’s actions were “deliberate” and an abuse of the court’s process.
+[32] Quadrini, supra, at para 18.
+[33] Tempo Marble & Granite Ltd. v “Mecklenburg 1” (The), 2002 FCT 1190 at para 2, [2002] FCJ No. 1605 (QL).
+[34] Exhibit “A” is a copy of the ‘Memo to File’ by Marine’s counsel dated May 8, 2013 recording discussions with respondent counsel. Exhibit “B” is a copy of an email from Marine’s counsel to the respondent counsel dated May 10, 2013.
+[35] Sable Offshore, supra, at para 19.
+[36] Exhibit “E” is between Marine’s counsel and its corporate (in-house) counsel conveying settlement discussions with respondent counsel. Exhibit “F” was sent by Marine’s counsel to respondent counsel rejecting the respondent’s settlement offer.
+[37] Young v Young, [1993] 4 SCR 3.

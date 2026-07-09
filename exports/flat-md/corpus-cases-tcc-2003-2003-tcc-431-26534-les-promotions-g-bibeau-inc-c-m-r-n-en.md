@@ -1,0 +1,180 @@
+---
+title: "Les Promotions G. Bibeau Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26534/index.do"
+last_modified: "2003-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 431"
+citation2: ""
+neutral_citation: "2003 TCC 431"
+decision_date: "2003-06-25"
+language: "en"
+item_id: "26534"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3216
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:01:52.119000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a20ede1dca51e71d51baddbfbe9f4196e6897a0d9aa73c617959cd6cd1c80325"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Promotions G. Bibeau Inc. c. M.R.N.
+
+- Citation: 2003 TCC 431
+- Decision date: 2003-06-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3216, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Promotions G. Bibeau Inc. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-25
+Neutral citation
+2003 TCC 431
+File numbers
+2002-4709(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2002-4709(EI)
+BETWEEN:
+LES PROMOTIONS G. BIBEAU INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SERGE LAVERDIÈRE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 23, 2003, at Montréal, Quebec
+Before: The Honourable Deputy Judge J.F. Somers
+Appearances:
+Agent for the Appellant:
+Ginette Bibeau
+Counsel for the Respondent:
+Julie David
+For the Intervener:
+The Intervener himself
+JUDGMENT
+The appeal is dismissed, and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of June 2003.
+"J.F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of July 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC431
+Date: 20030625
+Docket: 2002-4709(EI)
+BETWEEN:
+LES PROMOTIONS G. BIBEAU INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SERGE LAVERDIÈRE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Somers, D.J.T.C.C.
+[1] This appeal was heard at Montréal, Quebec, on April 22, 2003.
+[2] The appellant has appealed from the decision of the Minister of National Revenue (the "Minister") that the employment held by Serge Laverdière, the worker, while employed during the period in issue, from January 28, 2000, to July 23, 2001, was insurable within the meaning of the Employment Insurance Act (the "Act") because the worker was hired under a contract of service.
+[3] Subsection 5(1) of the Act reads in part as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+[4] In making his decision, the Minister relied on the following assumptions of fact stated in paragraph 5 of the Reply to the Notice of Appeal, which were admitted or denied by the appellant's agent:
+[TRANSLATION]
+(a) The appellant, which was incorporated in 1986, promotes credit cards in shopping centres and at fairs, shows and festivals. (admitted)
+(b) The appellant operates its business year-round in the province of Quebec and occasionally in the Maritime provinces. (denied)
+(c) The appellant hires persons it considers as subcontractors or independent workers to sell credit card sales. (admitted)
+(d) During the period in issue, the worker worked for the appellant to promote the credit cards of banks and major stores. (admitted)
+(e) The appellant provided the worker with all the equipment necessary for his work: the booth, promotional gifts, application forms and report forms. (denied)
+(f) A supervisor of the appellant communicated with the worker to inform him of the places where he was to work and of his work schedule. (denied)
+(g) The worker had to follow his work schedule. (denied)
+(h) The supervisor telephoned the worker at the end of each working day to obtain the number of completed applications and a summary of the day's activities. (denied)
+(i) The supervisor went to the worker's booth once or twice a week to complete the inventories of bonuses awarded to clients and the inventories of forms necessary for the work. (denied)
+(j) The worker had to prepare a weekly report of his activities and return it to the appellant. (denied)
+(k) The worker received $4 per completed application form. (admitted)
+(l) The worker was paid every week by cheque or direct deposit. (denied)
+[5] The appellant, which was incorporated in 1986, promotes credit cards in shopping centres and at fairs, shows and festivals. The business is operated year-round in the province of Quebec and occasionally in the Maritime provinces. The appellant hires persons it considers as subcontractors or independent workers in order to sell credit cards.
+[6] During the period in issue, the worker worked for the appellant promoting credit cards of banks and major stores.
+[7] Ginette Bibeau, the appellant's manager and agent at the hearing of this appeal, explained that, at Serge Laverdière's request, the appellant had provided the necessary equipment for his work but that workers generally supplied their own equipment. She stated that the appellant provided the booth, promotional gifts and application and report forms.
+[8] Ginette Bibeau denied subparagraph 5(f) of the Reply to the Notice of Appeal and explained that the appellant did not choose the place of work and that the worker had no fixed schedule or work schedule to follow. She added that a subcontractor occasionally went to the worker's booth to see whether everything was under control and that the worker did not have to provide a weekly report on his activities.
+[9] The worker was paid by direct deposit in accordance with his work sheet. The appellant's clients were banks and major stores. The worker worked in the Québec region, whereas the appellant's place of business is located in Montréal. The worker received no training from the appellant.
+[10] According to Ginette Bibeau, the worker was part of the team of a certain Carmen Vaillancourt, a self-employed worker. A document filed in evidence as Exhibit I-3 states, in addition to the name of the team, Serge Laverdière's name, hours and places of work, the name and source of the credit card application and a box for comments reserved for the office. According to that witness, Ms. Vaillancourt assigned neither the locations nor the hours of the worker.
+[11] In cross-examination, Ginette Bibeau admitted that the appellant leased the booths in exchange for a lower commission.
+[12] According to one document entitled "Criteria" (Exhibit I-1), printed on the appellant's stationery, the appellant offered employees a bonus every three months [TRANSLATION] "based on the acceptance rate". At page 2, that document reads: [TRANSLATION] "It is very important THAT EVERY EMPLOYEE meet the criteria to increase our acceptance rate; all employees will therefore have a chance to earn a BONUS." This document was prepared by the appellant and given to the worker.
+[13] A document filed as Exhibit I-2 shows the wages paid to Serge Laverdière from January 28, 2000, to July 23, 2001.
+[14] Ms. Bibeau admitted that the worker had to meet the aforementioned criteria. She issued a communiqué (Exhibit A-1) explaining the role of the business and the conditions of employment of Serge Laverdière, who was considered a self-employed worker.
+[15] Carmen Vaillancourt testified that she had been working for the payer since 1998 in the Québec region; her duties were to find the work locations in shopping centres and banks.
+[16] She found locations for the worker Serge Laverdière. She said that Serge Laverdière communicated exclusively with her and had done so every day or every other day because he considered her the supervisor; she was the reference point.
+[17] She compiled the worker's weekly sales, prepared the workers' booths and went to pick up the material, including that of Serge Laverdière, because it was a team effort.
+[18] Serge Laverdière indicated when he was available and Carmen Vaillancourt prepared his schedule. The appellant communicated with Carmen Vaillancourt concerning Serge Laverdière three times.
+[19] Unlike the testimony of Ms. Bibeau, Serge Laverdière stated that he had not negotiated with the appellant to establish his remuneration.
+[20] Serge Laverdière admitted that he had received training elsewhere before working for the appellant. He said that he had not negotiated with the appellant with respect to his status as a self-employed worker.
+[21] He received four percent of his wages in lieu of vacation in addition to his remuneration. He reported to the appellant on his work every week.
+[22] The distinction between a contract of service and a contract of self-employment is a mixed question of law and fact.
+[23] It is well-settled case law that a contract for services exists by simple recognition of the parties. All the circumstances of the contractual relationship between the parties must be taken into consideration.
+[24] A contract of service is a contract in which a party, the servant or employee, agrees to work for the other party for a determinate or indefinite period on a full- or part-time basis.
+[25] A contract for services (self-employed worker) is a contract in which one party agrees to do a certain specific job for another party. It ordinarily involves the performance of specific work and does not require that the contractor perform something personally.
+[26] It is well-settled case law that there are four basic elements distinguishing a contract of service from a contract for services.
+[27] In Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, the Federal Court stated the four tests for distinguishing a contract of service from a contract for services (self-employed worker). The whole of the various elements that constitute the relationship between the parties must be examined.
+[28] The tests are as follows:
+(a) degree of control;
+(b) ownership of tools;
+(c) chance of profit or risk of loss;
+(d) degree of integration.
+Degree of Control
+[29] Mr. Laverdière had to report to the supervisor, Carmen Vaillancourt, and she gave him the places of work and his work schedule.
+[30] According to the form prepared by the appellant (Exhibit I-3), the worker was part of Carmen Vaillancourt's team, and Ms. Vaillancourt communicated with him once a day or every other day.
+[31] On that form, the worker stated the place of work, names of clients and hours worked at a rate established by the appellant.
+[32] If there were complaints, the appellant's clients directed them to Carmen Vaillancourt, and she communicated with the worker to rectify the problems. A box on the form (Exhibit I-3) is reserved for the appellant to make comments on the worker's performance.
+[33] Based on the aforementioned facts, there was sufficient control over Serge Laverdière's work for him to be considered an employee.
+Ownership of the Tools
+[34] The management of the business admitted that the equipment belonged to the appellant. The places of work were determined by the supervisor Carmen Vaillancourt; based on this test, the appellant and the worker were bound by a contract of service.
+Chance of Profit or Risk of Loss
+[35] The worker was paid on commission, the rate of which was determined by the appellant. The worker had only to complete the form prepared by the appellant and state his hours of work. The worker was paid every week by direct deposit; the worker thus had no chance of profit or risk of loss. The appellant in fact paid for hours worked (Exhibit I-2). The parties were therefore bound by a contract of service.
+Integration
+[36] The worker was part of the operations of the business. The clients were those of the appellant, not the worker. In the communiqué it prepared (Exhibit I-1), the appellant defined the criteria for performing the duties. Based on this element, it must therefore be concluded that the worker was integrated into the operations of the business.
+[37] In the case at bar, the business belonged to the appellant; its operations were managed by the manager and supported by the supervisor, Carmen Vaillancourt, who had trained a team in the Québec region.
+[38] The worker was in constant contact with Ms. Vaillancourt from the places of work designated by her. The worker was controlled by the appellant and was integrated into its operations.
+[39] For the foregoing reasons, on the evidence as a whole, the worker held insurable employment within the meaning of the Employment Insurance Act during the period in issue since he and the appellant were bound by a contract of service.
+[40] The appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of June 2003.
+"J.F. Somers"
+D.J.T.C.C.
+Cases Considered
+671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983
+Wiebe Door Services Ltd. v. Canada(Minister of National Revenue - M.N.R.), [1986] 3 F.C. 553
+Standing v. Canada(Minister of National Revenue - M.N.R.), [1992] F.C.J. No. 890
+Promotions DND Inc. v. Canada(Minister of National Revenue - M.N.R.), [2001] T.C.J. No. 480
+9049-9955 Québec Inc. v. Canada(Minister of National Revenue - M.N.R.), [2000] T.C.J. No. 129
+Translation certified true
+on this 15th day of July 2004.
+Sophie Debbané, Revisor

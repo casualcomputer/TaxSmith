@@ -1,0 +1,177 @@
+---
+title: "Lucas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25803/index.do"
+last_modified: "2003-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 177"
+citation2: ""
+neutral_citation: "2003 CCI 177"
+decision_date: "2003-03-28"
+language: "fr"
+item_id: "25803"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3813
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:23:21.233000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b4075b48e5d142aae4307f15fa50ed6e5061e9365439906a29dd71f1f6db834"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lucas v. The Queen
+
+- Citation: 2003 CCI 177
+- Decision date: 2003-03-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3813, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lucas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-28
+Référence neutre
+2003 CCI 177
+Numéro de dossier
+2002-1036(IT)I
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1036(IT)I
+ENTRE :
+CYNTHIA LUCAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 janvier 2003 à St. Catharines (Ontario)
+Devant : L'honorable juge R. D. Bell
+Comparutions
+Pour l'appelante :
+L'appelante elle-même
+Avocates de l'intimée :
+Me Joanna Hill et Me Carole Benoit
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada ce 28e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I
+Traduction certifiée conforme
+ce 3e jour de mars 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI177
+Date : 20030328
+Dossier : 2002-1036(IT)I
+ENTRE :
+CYNTHIA LUCAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTFIS DU JUGEMENT
+Le juge Bell, C.C.I.
+QUESTION EN LITIGE
+[1] Il s'agit de savoir si le montant de 8 655 $, inclus dans le revenu de l'appelante pour l'année d'imposition 1999, a été inclus à juste titre.
+FAITS
+[2] L'appelante a témoigné qu'elle s'était séparée de son époux, David Kenneth Lucas ( « David » ), à l'automne de 1981. Elle a produit comme preuve un document daté du 15 septembre 1988 intitulé « PROCÈS-VERBAL DE TRANSACTION » entre elle et David, lequel prévoyait que David :
+[traduction]
+Devra payer à la demanderesse les montants suivants au soutien de l'enfant à charge, à savoir Mark Ashley Lucas, né le 5 décembre 1979 :
+i) 125 $ les 19 et 26 septembre;
+ii) 500 $ chaque mois à partir du 1er octobre 1988
+et, par la suite, le premier jour de chaque mois;
+iii) le paiement de pension alimentaire pour enfants mentionné ci-dessus sera indexé selon les dispositions de la Loi sur le droit de la famille;
+Bien que le document fasse allusion à un compte MasterCard qui était en souffrance [TRADUCTION] « à la date de la séparation » , aucune autre mention n'a été faite relativement au fait que les parties vivaient séparées l'une de l'autre.
+[3] L'appelante a reçu le montant susmentionné de 8 655 $, au cours de son année d'imposition 1999, provenant de l'obligation de David de payer une pension alimentaire pour l'enfant.
+[4] De façon étrange, il existe un autre document daté du 15 septembre 1988 ne portant aucune description quant à ce qu'il représente, mais il contient les trois préambules suivants :
+[traduction]
+ATTENTDU QUE les parties concernées sont mariées;
+ET ATTENDU QUE les parties ont conclu le procès-verbal de transaction à la Cour de district de l'Ontario, action no 3500/87, daté du 15e jour de septembre 1988 ( « le procès-verbal » );
+ET ATTENDU QUE les parties veulent résoudre toute autre question qui existe entre eux qui n'est pas autrement tranchée par ledit procès-verbal;
+Ce dernier ne comporte aucune exigence selon laquelle les parties doivent vivre séparées l'une de l'autre. Cependant, il fait allusion au procès-verbal de transaction ci-dessus qui, tel que cela est énoncé ci-dessus, fait allusion à la [TRADUCTION] « date de la séparation » . Une ordonnance de la Cour de district de l'Ontario, datée du 28 septembre 1988, prévoit que David devra verser les paiements décrits dans le procès-verbal de transaction. Il ne comporte aucune ordonnance selon laquelle les parties doivent vivre séparées l'une de l'autre. Cette ordonnance comporte un paragraphe qui indique que l'appelante aura la garde de l'enfant, sous réserve que David ait un droit d'accès raisonnable à l'égard de l'enfant, ce qui donne à entendre que l'appelante et David vivaient séparés l'un de l'autre.
+[5] Au cours du contre-interrogatoire, l'appelante a déclaré qu'elle n'avait pas conclu un choix conjoint avec David relativement aux paiements de la pension alimentaire pour enfants. Elle a également déclaré que l'ordonnance de la Cour susmentionnée n'a pas été modifiée. Elle a aussi déclaré qu'après le mois d'avril 1997, il n'existait aucun accord de séparation ayant trait à la pension alimentaire pour enfants.
+[6] À l'audience, j'ai ordonné à l'appelante et aux avocates de l'intimée de me présenter des observations écrites.
+[7] Dans ses observations écrites, l'appelante a indiqué ce qui suit :
+[traduction]
+Avant que la Loi de l'impôt sur le revenu ne soit modifiée en 1997, elle exigeait qu'un accord de séparation indique que les parties vivaient séparées l'une de l'autre.
+[8] Elle a mentionné l'alinéa 56(1)b) de la Loi de l'impôt sur le revenu ( « Loi » ) lequel était ainsi rédigé avant les modifications de 1997 :
+toute somme reçue au cours de l'année par le contribuable, en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit, à titre de pension alimentaire ou autre allocation payable périodiquement pour subvenir aux besoins du bénéficiaire des enfants issus du mariage ou à la fois du bénéficiaire, et des enfants issus du mariage, si le bénéficiaire vivait séparé en vertu d'un divorce, d'une séparation judiciaire ou d'un accord écrit de séparation du conjoint ou de l'ex-conjoint tenu de faire le paiement, au moment où le paiement a été reçu et durant le reste de l'année.
+[9] Elle a ensuite fait référence au document The Practitioner's Income Tax Act, 15e édition, 1999, qui énonce ce qui suit à la page 305 :
+[traduction]
+De plus, en ce qui concerne les échecs de mariage survenus avant 1993, le payeur et le bénéficiaire devaient vivre séparés l'un de l'autre aux termes de l'accord visant leur divorce ou leur séparation pour que la pension alimentaire reçue par le bénéficiaire soit imposée. Les Règles concernant l'application de l'impôt sur le revenu font en sorte que les sommes qui étaient exonérées d'impôt entre les mains des bénéficiaires, du fait que cette exigence n'était pas remplie ne soient pas assujetties à l'impôt dans le cadre du nouveau régime.
+[10] L'appelante a, par la suite, fait référence au Canadian Tax Reporter Commentary d'août 2001 diffusée par CCH Canadienne Limitée. Voici un extrait :
+[traduction]
+L'ancien alinéa 56(1)b) applicable aux sommes reçues relativement à l'échec d'un mariage survenu avant 1993, exigeait que les paiements soient versés en vertu d'un divorce, d'une séparation judiciaire ou d'un accord écrit de séparation qui stipulait que les parties devraient vivre séparées l'une de l'autre. Lorsqu'un accord ne stipule pas que les parties doivent vivre séparées l'une de l'autre, il n'est pas considéré comme un accord de séparation. Par conséquent, il était possible de structurer un accord afin qu'un tel paiement soit non déductible et non imposable. Selon le nouveau critère, le contribuable doit vivre séparé de son épouse ou époux « en raison de l'échec du mariage du contribuable » , plutôt qu'en raison d'un accord écrit de séparation. Par suite de cette modification, il ne sera plus possible de structurer un accord afin que de tels paiements soient non imposables et non déductibles.
+ARGUMENTS DE L'INTIMÉE
+[11] L'intimée a soutenu qu'il résulte implicitement des conditions de l'ordonnance, du procès-verbal de transaction et de l'accord daté du 15 septembre 1988 sur lequel l'ordonnance était fondée, que les parties vivaient séparées l'une de l'autre. Elle a fait référence à la partie précise du procès-verbal de transaction qui indique [TRADUCTION] « la date de la séparation » .
+[12] L'intimée a soutenu que, par conséquent, bien que l'accord ne soit pas précisément nommé comme tel, il peut être considéré comme un accord écrit de séparation. Par conséquent, elle a argumenté que les paiements susmentionnés reçus en vertu de l'ordonnance ne sont pas exemptés d'être inclus dans le revenu en vertu de l'alinéa 56(1)b) puisque cet alinéa s'applique aux accords conclus avant 1993. Elle a soutenu subsidiairement que les paiements reçus par l'appelante étaient imposables selon l'ancien régime en vertu de l'alinéa 56(1)c) qui est applicable aux montants reçus après 1996 et de l'alinéa 56(1)c.1) qui est applicable aux accords conclus avant 1993. Les alinéas sont ainsi rédigés :
+c) Prestation alimentaire - un montant reçu par le contribuable au cours de l'année à titre d'allocation payable périodiquement pour subvenir aux besoins du contribuable ou d'enfants de celui-ci ou aux besoins à la fois du contribuable et de ces enfants, si les conditions suivantes sont réunies :
+(i) au moment de la réception du montant et durant le reste de l'année, le contribuable vivait séparé de la personne tenue d'effectuer le paiement,
+(ii) la personne tenue d'effectuer le paiement est le père naturel ou la mère naturelle d'un enfant du contribuable,
+(iii) le montant a été reçu en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province.
+c.1) Idem - tout montant que le contribuable a reçu au cours de l'année en vertu d'une ordonnance rendue par un tribunal compétent en conformité avec la législation d'une province, à titre d'allocation payable périodiquement pour subvenir aux besoins du contribuable, d'enfants de celui-ci ou à la fois du contribuable et d'enfants de celui-ci, si les conditions suivantes sont réunies :
+(i) l'ordonnance a été rendue :
+(A) soit après le 10 février 1988,
+(B) soit avant le 11 février 1988, si le contribuable et le particulier tenu de payer le montant ont fait un choix conjoint par écrit avant la fin de l'année pour que le présent alinéa et l'alinéa 60 c.1) s'appliquent au montant,
+(ii) au moment où le contribuable a reçu le montant et jusqu'à la fin de l'année, le contribuable vivait séparé du particulier tenu de payer le montant,
+(iii) le particulier tenu de verser le montant est une personne de sexe opposé et :
+(A) soit, avant la date de l'ordonnance, vivait avec le contribuable dans une situation assimilable à une union conjugale,
+(B) soit est le père naturel ou la mère naturelle d'un enfant du contribuable.
+[13] L'intimée a soutenu que ces dispositions n'exigent pas que les parties vivent séparées l'une de l'autre en vertu d'un divorce, d'une séparation judiciaire ou d'un accord écrit de séparation, mais que la situation de fait indiquant qu'elles vivent séparées l'une de l'autre suffit pour justifier d'inclure la pension alimentaire en vertu de ces dispositions.
+[14] L'intimée a ajouté que la définition de « pension alimentaire » n'exige pas que l'ordonnance prévoit que l'appelante et le payeur vivent séparés l'un de l'autre. La définition est ainsi rédigée :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est le conjoint ou l'ancien conjoint du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+[15] Elle a ensuite indiqué qu'il s'agissait d'une « pension alimentaire pour enfants » laquelle est définie de la façon suivante :
+Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit le conjoint ou l'ancien conjoint du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+[16] Les avocates de l'intimée ont fait référence à l'alinéa 56(1)b) qui indique que le bénéficiaire doit inclure certains paiements dans son revenu, notamment la « pension alimentaire » . Elle est définie de la façon suivante :
+b) Pension alimentaire - le total des montants représentant chacun le résultat du calcul suivant :
+où
+A - (B + C)
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+[17] Elle a affirmé qu'en fait, la somme de 8 655 $ est comprise dans A, que le montant dans B est zéro parce qu'il n'existait pas une « date d'exécution » , que cela est seulement relatif aux périodes postérieures au mois d'avril 1997 et que le montant dans C est zéro, parce que la pension alimentaire de 8 655 $ n'avait pas été incluse dans le revenu de l'appelante pour une année d'imposition précédente. Par conséquent, elle soutient qu'en vertu de l'alinéa 56(1)b) de la Loi, la somme de 8 655 $ doit être incluse pour l'année d'imposition de 1999 de l'appelante.
+[18] L'avocate de l'intimée a également indiqué qu'elle n'était pas d'accord avec l'argument de l'appelante relativement à l'alinéa 56(1)b) selon lequel il s'applique aux accords conclus avant 1993, au motif que cette disposition n'exigeait pas qu'un accord écrit comprenne une clause précise qui stipule que les parties vivent séparées l'une de l'autre. Elle a mentionné la décision Simpson c. Canada [1996] A.C.I. no 391 dans laquelle le juge Rip a déclaré ce qui suit :
+[...] Je ne suis pas d'accord avec mon ancien collègue le juge Goetz, de la Cour de l'impôt, selon lequel, pour que les paiements de pension puissent être inclus dans le revenu, il faut, conformément à l'alinéa 56(1)b), qu'ils aient été reçus en vertu d'un accord écrit qui contient une disposition exigeant des parties qu'elles vivent séparées. [...]
+[19] L'intimée a soutenu qu'il résulte implicitement des conditions de l'ordonnance, du procès-verbal de transaction et de l'accord daté du 15 septembre 1988 sur lequel l'ordonnance est fondée, que les parties vivaient séparées l'une de l'autre et que l'accord peut « être considéré comme un accord écrit de séparation » .
+ANALYSE ET CONCLUSION
+[20] Je partage l'avis du juge en chef adjoint Bowman de la Cour de l'impôt tel que la décision Kovarik c. Canada, [2001] A.C.I. no 181 l'énonce :
+En vertu de ce que je pourrais décrire comme l'ancien régime (antérieur à mai 1997), les conjoints effectuant des paiements à leurs conjoints dont ils étaient séparés ou à leurs anciens conjoints à titre d'aliments pour les enfants pouvaient déduire ces paiements et les bénéficiaires devaient les inclure dans leur revenu. À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627, la loi a changé. Tant qu'un accord antérieur à mai 1997 demeurait inchangé, le système de déduction et d'inclusion en vertu de l'ancien régime prévalait.
+Si un nouvel accord était conclu ou si un ancien accord était modifié d'une manière particulière, le régime de déduction et d'inclusion cessait, et seuls les paiements effectués à la « date d'exécution » , ainsi qu'elle est définie, étaient déductibles par le payeur et devaient être inclus par le bénéficiaire dans son revenu.
+[21] L'argument de l'appelante selon lequel le montant de 8 655 $ ne peut pas être inclus dans son revenu est erroné parce qu'elle et David ne vivaient pas séparés l'un de l'autre en vertu d'un « divorce, d'une séparation judiciaire ou d'un accord écrit de séparation » . Son appel sera rejeté.
+[22] Malgré ce que l'appelante a cité pour appuyer sa position, je ne retiens pas son argument. Je souscris aux commentaires du juge Rip cités ci-dessus dans la décision Simpson, qu'il a ainsi précisés :
+Je préfère l'opinion exprimée par le juge Mogan, de la Cour de l'impôt, dans Lay v. The Queen, 95 D.T.C. 272, à la p. 275, suivant laquelle :
+[...] les dispositions de l'alinéa 60b) ne stipulent nulle part que l'accord écrit doit renfermer un engagement de la part des parties de vivre séparées, bien que je convienne sans hésitation avec M. Goetz qu'il s'agit d'un des éléments essentiels de l'accord de séparation. L'alinéa 60b) stipule tout simplement « [...] si le contribuable vivait séparé, en vertu [...] d'un accord écrit de séparation, du conjoint [...] » . En l'espèce, il est implicite, d'après les modalités des deux accords écrits, que l'appelant et son épouse avaient convenu de vivre séparément.
+[23] La preuve établit clairement qu'en fait, l'appelante et David vivaient séparés l'un de l'autre lorsque le procès-verbal de transaction, l'ordonnance de la cour et l'accord accessoire ont été conclus. Aucun nouvel accord n'a été conclu, les accords en vigueur n'ont pas été modifiés, aucune nouvelle ordonnance n'a été rendue par la cour et l'ordonnance actuelle de la cour n'a pas été modifiée.
+[24] Par conséquent, les montants reçus par l'appelante en vertu de l'ordonnance de la cour devaient et doivent être inclus dans son revenu. Son appel est donc rejeté.
+Signé à Ottawa, Canada ce 28e jour de mars 2003.
+« R. D. Bell »
+J.C.C.I.
+Traduction certifiée conforme
+ce 3e jour de mars 2004.
+Crystal Lefebvre, traductrice

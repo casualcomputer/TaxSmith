@@ -1,0 +1,180 @@
+---
+title: "Burchill c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29448/index.do"
+last_modified: "2009-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 492"
+citation2: ""
+neutral_citation: "2009 CCI 492"
+decision_date: "2009-09-30"
+language: "fr"
+item_id: "29448"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6952
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:31:01.485000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ba90359ca9c450b6b135ebca391f0e49534590a30b179140a0b99f539bc09f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burchill c. La Reine
+
+- Citation: 2009 CCI 492
+- Decision date: 2009-09-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6952, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burchill c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-30
+Référence neutre
+2009 CCI 492
+Numéro de dossier
+2008-3786(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3786(IT)I
+ENTRE :
+FRANK J. BURCHILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 septembre 2009,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Natasha Reid
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelant en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2005 est rejeté, sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 30e jour de septembre 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 28e jour d’octobre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 492
+Date : 20090930
+Dossier : 2008-3786(IT)I
+ENTRE :
+FRANK J. BURCHILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L’appelant est un fonctionnaire du gouvernement fédéral à la retraite. Il a également été employé par l’Université Carleton comme chargé de cours à temps partiel et par le gouvernement du Yukon.
+[2] Pour l’année d’imposition 2005, l’appelant a déclaré un revenu de pension de 171 567,89 $. Cette prestation lui a été versée par Travaux publics et Services gouvernementaux Canada (« TPSGC »).
+[3] Pendant l’année d’imposition 2005, l’appelant a reçu des prestations de la Sécurité de la vieillesse (la « SV ») d’un montant de 5 706,63 $.
+[4] Dans un avis de nouvelle cotisation daté du 3 avril 2006, le ministre du Revenu national (le « ministre ») a inclus dans le calcul du revenu de 2005 de l’appelant le revenu de pension de 171 567,89 $ ainsi que les prestations de la SV.
+[5] Le 4 avril 2006, l’appelant a demandé au ministre de reporter rétroactivement sur des années d’imposition remontant à aussi loin que 1992 le revenu de pension de 171 567,89 $ qu’il a reçu sous forme de paiement forfaitaire en 2005.
+[6] Le ministre a donné droit à la requête de l’appelant. Le 3 mai 2006, le ministre a établi une nouvelle cotisation à son égard pour l’année d’imposition 2005, reportant un revenu de pension de 158 706 $ sur des années d’imposition antérieures. Toutefois, les prestations de la SV n’ont pas été modifiées.
+[7] Le 18 juin 2008, l’appelant a déposé un avis d’opposition.
+B. Les points en litige
+[8] Les points en litige sont les suivants :
+a) dans le calcul de l’impôt à payer sur les prestations de retraite/pension qu’il a reçues et qui ont été reportées à des années d’imposition antérieures, l’appelant a droit à des crédits d’impôt non remboursables additionnels;
+b) le ministre a bien calculé les arriérés d’intérêts sur l’impôt relatifs aux prestations de retraite/pension qu’il a reportées aux années d’imposition antérieures;
+c) le ministre a bien calculé le remboursement de 5 706,63 $ au titre des prestations sociales relatives aux prestations de la SV reçues par l’appelant en 2005;
+d) l’appelant a droit à un crédit pour personnes âgées aux fins du calcul de ses crédits d’impôt non remboursables pour l’année d’imposition 2005.
+C. Analyse et décision
+[9] Au cours de l’audience, l’appelant a déclaré qu’il renonçait à sa demande de crédits d’impôt non remboursables (voir le paragraphe 8a) ci‑dessus).
+[10] L’article 110.2 de la Loi de l'impôt sur le revenu (la « Loi ») a été introduit en 2000 en vue d’offrir une forme d’allégement aux contribuables en leur permettant de déduire, dans le calcul de leur revenu imposable pour l’année, la partie déterminée d’un montant admissible reçu pendant cette même année. Ce montant déductible est frappé d’un impôt en vertu de l’article 120.31 de la Loi. Le paragraphe 120.31(3) de la Loi prévoit un « intérêt hypothétique » calculé au taux d’intérêt sur les remboursements d’impôt applicables à la période pertinente pour l’année ayant commencé le 1er mai de l’année suivant l’année antérieure en cause et se terminant immédiatement avant l’année de réception du paiement forfaitaire.
+[11] L’avocate de l’intimée a affirmé que le calcul spécial prévu au paragraphe 120.31 de la Loi s’appliquait aux prestations de retraite que l’appelant a reçues en 2005 sous forme de paiement forfaitaire. Elle a également souligné que ce calcul spécial était avantageux pour l’appelant si on le comparait à ce qui arriverait dans la situation où le paiement forfaitaire ne serait pas admissible. L’avocate de l’intimée a déclaré :
+[traduction]
+[…] si le calcul spécial ne s’applique pas, le paiement forfaitaire doit être inclus en totalité dans le calcul du revenu de l’appelant pour 2005.
+Des taux d’imposition marginaux plus élevés entrent alors en jeu et pèsent beaucoup plus lourdement que l’intérêt hypothétique prévu par le calcul spécial.
+[Transcription, page 69, lignes 8 à 14.]
+[12] L’avocate de l’intimée a ajouté que le sous‑alinéa 56(1)a)(i) de la Loi précisait que les prestations de retraite ou de pension devaient être incluses dans le revenu du contribuable quand elles étaient reçues. Afin d’étayer sa position, l’avocate de l’intimée a renvoyé à l’arrêt Lessard c. Canada, 2007 CAF 9, 2008 D.T.C. 6259, dans lequel la Cour d’appel fédérale a confirmé la décision rendue par la juge Lamarre Proulx (voir Lessard c. La Reine, 2006 CCI 45, 2007 D.T.C. 1658). La juge Lamarre Proulx avait conclu qu’en vertu de la division 56(1)a)(i)(B) de la Loi, toute somme reçue par le contribuable au cours de l’année en paiement d’une prestation prévue par un régime provincial de pensions devait être incluse dans le calcul du revenu du contribuable au cours de l’année où le paiement était effectué.
+[13] L’appelant a fait valoir que, dans la mesure où il avait droit aux prestations de retraite au cours des années antérieures et qu’il avait choisi de ne pas les recevoir pendant lesdites années, ces montants devraient être inclus dans son revenu pour ces années antérieures, nonobstant le fait qu’il a reçu l’intégralité des prestations sous forme de paiement forfaitaire en 2005.
+[14] L’appelant a soutenu qu’il est [traduction] « réputé » avoir reçu les prestations mensuelles de retraite au moment où il y avait droit. Il a laissé entendre que ces prestations étaient imposables pendant les années où elles étaient à recevoir (c’est‑à‑dire de 1992 à 2005).
+[15] Afin d’étayer sa position, l’appelant a déposé en preuve les décisions suivantes :
+Green v. Minister of National Revenue, 50 D.T.C. 320;
+Blenkarn v. M.N.R., 63 D.T.C. 581.
+[16] La décision Green porte sur des questions d’intérêt et non de prestations de retraite. En outre, il s’agit d’une décision de la Commission d’appel de l’impôt interprétant une disposition de la Loi de l’impôt de guerre sur le revenu. Selon moi, cette décision ne s’applique pas au traitement fiscal des revenus de pension dont il est spécifiquement question dans la version actuelle de la Loi.
+[17] Afin d’appuyer son argumentation, l’appelant a également renvoyé à la décision Blenkarn, décision rendue en 1963 par le président Cecil L. Snyder, c.r., de la Commission d’appel de l’impôt. Avant tout, je voudrais souligner que la décision Blenkarn n’a encore jamais été citée dans une décision de la Cour. En outre, à la page 582, le président Snyder a déclaré :
+[traduction]
+[…] Le T4 émis par le ministère de la Défense nationale attestait qu’un salaire de 707,02 $ avait été versé à l’appelant en 1960. Toutefois, l’avocat du ministre a accepté que la partie de ce montant, soit environ 150 $, qui a été gagnée en décembre 1960 mais n’a pas été reçue avant 1961, soit incluse dans le revenu de l’appelant pour 1961 et que la cotisation établie à l’égard de l’appelant pour l’année d’imposition 1960 soit modifiée en conséquence.
+[Non souligné dans l’original.]
+[18] Je suis d’avis que la décision Blenkarn vient appuyer l’argument de l’intimée voulant que le critère important soit le moment où le paiement a été reçu, et non celui où il est devenu à recevoir.
+[19] Je me range également à l’avis de l’avocate de l’intimée quand elle déclare :
+[traduction]
+[…] Le fait que l’appelant a eu droit à des montants pendant les années antérieures, tout comme le fait que ce soit lui qui a fait en sorte que ces montants ne lui soient pas versés, n’est pas pertinent. Dans les faits, l’appelant n’a pas reçu les montants en question avant 2005.
+[Transcription, page 73, lignes 8 à 12.]
+[20] L’appelant a soutenu que, dans la nouvelle cotisation qu’il a établie à son égard, le ministre n’aurait pas dû imposer d’« intérêt hypothétique ». Considérant que l’appelant a demandé l’application du calcul spécial prévu par l’article 120.31 de la Loi, il doit également admettre que le ministre appliquera l’« intérêt hypothétique » prévu par le paragraphe 120.31(3).
+[21] Je pense que le ministre a bien calculé l’intérêt hypothétique, conformément au paragraphe 120.31(3) de la Loi.
+[22] L’appelant a également prétendu que, dans la mesure où le gouvernement fédéral lui devait de l’argent (soit la somme due par TPSGC), les montants qu’il devait devraient se voir compensés par la somme en question plus les intérêts. Je conclus que la Cour canadienne de l’impôt ne peut accepter pareil argument. La Cour ne peut étudier ou prendre en considération un différend opposant l’appelant à TPSGC au sujet d’une somme due par TPSGC. La Cour a compétence pour juger d’une cotisation établie en vertu de la Loi. Elle n’a pas le pouvoir d’ordonner la mise en place d’une [traduction] « opération de compensation » consistant à annuler l’impôt dû par l’appelant en le contrebalançant par la somme que TPSGC doit à celui-ci.
+[23] J’ai étudié avec attention les différents arguments avancés par l’appelant au sujet du traitement fiscal à appliquer au paiement forfaitaire et je les rejette. Je suis d’avis que le ministre a bien calculé l’impôt ainsi que l’intérêt hypothétique, et ce, conformément au calcul spécial, se pliant ainsi à la demande de l’appelant.
+Les prestations de la Sécurité de la vieillesse
+[24] La question en litige est de savoir si la cotisation établie à l’égard de l’appelant tient bien compte des prestations de la SV.
+[25] Le paragraphe 180.2(2) de la Loi, sous la partie I.2, impose un impôt « de récupération » sur les prestations de la SV. La Loi prévoit que dans la mesure où le revenu net du contribuable dépasse le seuil de 50 000 $, l’excédent éventuel des prestations est soumis à un impôt de 15 %. L’avocate de l’intimée a souligné que la Loi faisait référence au revenu net, et non au revenu imposable.
+[26] Afin d’étayer sa position, l’avocate de l’intimée a renvoyé aux décisions suivantes :
+Fenner c. La Reine, 2006 CCI 396, 2006 D.T.C. 3222;
+Stoddard c. La Reine, 2007 CCI 380, 2007 D.T.C. 1288;
+Parisée c. La Reine, 2009 CCI 132, 2009 D.T.C. 1161.
+En l’espèce, quand le revenu de l’appelant a été réduit (à sa demande), son revenu imposable pour 2005 était de l’ordre de 18 000 $. Toutefois, si on se fie à la formulation du paragraphe 110.2(2) de la Loi, le revenu net de l’appelant pour 2005 était supérieur à 177 000 $, et c’est à ce stade que les prestations de la SV ont commencé à être « récupérées ».
+[27] Je me range à l’avis de l’avocate de l’intimée en ce qui a trait aux prestations de la SV.
+Le crédit pour personnes âgées
+[28] Le paragraphe 118(2) de la Loi prévoit qu’un particulier âgé de 65 ans et plus peut demander le crédit pour personnes âgées. Ce crédit est réduit si le revenu net du particulier dépasse le seuil fixé.
+[29] L’avocate de l’intimée a soutenu que l’analyse portant sur les prestations de la SV s’appliquait à la question du crédit pour personnes âgées. Elle a souligné qu’on établissait le droit d’un particulier au crédit pour personnes âgées en fonction de son revenu net, et non de son revenu imposable.
+[30] J’adopte la position de l’avocate de l’intimée en ce qui a trait au crédit pour personnes âgées.
+[31] L’appel est rejeté, sans dépens.
+Signé à Vancouver (Colombie‑Britannique), ce 30e jour de septembre 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 28e jour d’octobre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 492
+NO DU DOSSIER DE LA COUR : 2008-3786(IT)I
+INTITULÉ : Frank J. Burchill et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 9 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge L. M. Little
+DATE DU JUGEMENT : Le 30 septembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Natasha Reid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,254 @@
+Title: Rayner's Auto Sales v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28796/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-446-28796-rayner-s-auto-sales-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-30
+
+# Rayner's Auto Sales v. The Queen
+
+- Citation: 2008 TCC 446
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1516, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rayner's Auto Sales v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-30
+Neutral citation
+2008 TCC 446
+File numbers
+2006-1021(GST)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1021(GST)I
+BETWEEN:
+RAYNER’S AUTO SALES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Wayne Rayner (2006-1022(IT)G) on July 7, 2008
+at Charlottetown, Prince Edward Island
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Jeffery Cormier
+Counsel for the Respondent:
+John Gibb‑Carsley
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 12, 2004 and bears number 01DC0110329 for the period from November 28, 2000 to December 31, 2001 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Charlottetown, Prince Edward Island, this 30th day of July 2008.
+"Diane Campbell"
+Campbell J.
+Docket: 2006-1022(IT)G
+BETWEEN:
+WAYNE RAYNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of
+Rayner’s Auto Sales (2006-1021(GST)I) on July 7, 2008
+at Charlottetown, Prince Edward Island
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Jeffery Cormier
+Counsel for the Respondent:
+John Gibb‑Carsley
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, without costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Charlottetown, Prince Edward Island, this 30th day of July 2008.
+"Diane Campbell"
+Campbell J.
+Citation: 2008 TCC 446
+Date: 20080730
+Dockets: 2006-1021(GST)I
+2006-1022(IT)G
+BETWEEN:
+RAYNER’S AUTO SALES,
+WAYNE RAYNER,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] These appeals are from assessments in respect to Wayne Rayner’s 2000 and 2001 taxation years and for the period November 28, 2000 to December 31, 2001 in respect to Rayner’s Auto Sales. The Minister of National Revenue (the “Minister”) used the net worth method to add amounts to Wayne Rayner’s reported income for those taxation years and assessed gross negligence penalties pursuant to subsection 163(2) of the Income Tax Act. The Minister also assessed Rayner’s Auto Sales for additional goods and services tax/harmonized sales tax (“GST/HST”) for the period under appeal and assessed gross negligence penalties pursuant to section 285 of the Excise Tax Act. These appeals were heard together on common evidence.
+[2] The parties entered the following Statement of Agreed Facts:
+The parties hereby agree that, for purposes only of these appeals and any appeals therefrom or any other proceeding taken in these matters, this Statement of Agreed Facts will be entered as an exhibit and the facts set out herein are true. The parties also agree that the documents referred to below on the Appellant’s and Respondent’s List of Documents will be entered as exhibits and the documents are true copies of the documents they represent. Either party may adduce other evidence or documents not inconsistent with this Statement of Agreed Facts.
+Issues at Appeal
+1. The appeal bearing Tax Court number 2006-1022(IT)G (the “Income Tax Appeal”) is in respect of Wayne Rayner’s 2000 and 2001 taxation years and gross negligence penalties assessed in each of those years.
+2. The appeal bearing Tax Court number 2006-1021(GST)I (the “GST Appeal”) is in respect of Rayner’s Auto Sales Goods and Services Tax (“GST”) assessed between November 28, 2000 and December 31, 2001 (the “Period”) and a gross negligence penalty assessed in respect to the GST assessment.
+3. The parties agree that the Income Tax Appeal and the GST Appeal will be heard together on common evidence.
+4. In the Notice of Appeal in the Income Tax Appeal the Appellant puts in issue: the value of his house (the “House”) used in a net-worth calculation of income; the amount (if any) of an account receivable from Elmsdale Auto Sales in the 2001 taxation year; and the assessment of gross negligence penalties.
+5. The parties agree that, as there was no acquisition or disposition of the House during the relevant times, the value of the House has no effect on the assessment of the Appellant’s 2000 and 2001 taxation year. Accordingly, the value of the House is not an issue in the Income Tax Appeal.
+6. The parties agree that the only remaining issues in the Income Tax Appeal are the amount (if any) of the account receivable from Elmsdale Auto Sales at the end of the 2001 taxation year and whether gross negligence penalties for the 2000 and 2001 taxation years should be applied.
+7. In respect to the GST Appeal, the only issues are the amount of GST assessed against the Appellant in respect to the amount (if any) of the account receivable from Elmsdale Auto Sales and whether gross negligence penalties should be assessed.
+Agreed Facts
+The parties agree to the following facts:
+8. In 2001 and 2002, Roxanne Rayner was the spouse of Wayne Rayner.
+9. In 2000 and 2001, Wayne Rayner was the sole proprietor of a used vehicle business operating as Rayner’s Auto Sales.
+10. Wayne Rayner controlled the day-to-day operations of Rayner’s Auto Sales.
+11. Wayne Rayner was a GST registrant with GST Registration No. 129034419RT0001.
+12. Rayner’s Auto Sales was a GST registrant with GST Registration No. 129034419RT0002.
+13. Wayne Rayner reported on his income tax returns for the 2000 and 2001 taxation years business income from Rayner’s Auto Sales as follows:
+2000
+2001
+Gross business income
+$231,663
+$637,110
+Net business income (Loss)
+($23,574)
+($44,296)
+14. Wayne Rayner and Roxanne Rayner reported on their income tax returns total income for the 2000 and 2001 taxation years as follows:
+2000
+2001
+Wayne Rayner (Loss)
+($6,871)
+($29,605)
+Roxanne Rayner
+21,493
+22,063
+Total
+$14,622
+($7,542)
+15. Rayner’s Auto Sales is required by the Excise Tax Act to file its GST/HST returns on a quarterly basis.
+16. Rayner’s Auto Sales reported the following GST activity in the Period:
+Period Ended
+Revenue
+GST
+ITC (input tax credit)
+2000-12-31
+$33,150
+$2,320
+$(4,127)
+2001-03-31
+$131,349
+$8,509
+$(10,569)
+2001-06-30
+$160,305
+$10,894
+$(11,497)
+2001-09-30
+$196,925
+$13,952
+$(16,894)
+2001-12-31
+$211,870
+$14,988
+$(15,037)
+Total
+$733,599
+$50,663
+$(58,124)
+Agreed Documents
+The parties agree that the following documents are true copies of the documents they represent:
+1. The documents listed on the Appellant’s List of Documents.
+2. The documents listed on the Respondent’s List of Documents and First Supplemental List of Documents.
+DATED at the City of Summerside, in the Province of Prince Edward Island, this 25th day of June, 2008.
+“Jeffery Cormier”
+Jeffery A. Cormier
+Counsel for the Appellant
+DATED at the City of Vancouver, the Province of British Columbia, this 26th day of June, 2008.
+John H. Sims Q.C.
+Deputy Attorney General of Canada
+Solicitor for the Respondent
+“John Gibb-Carsley”
+John Gibb-Carsley
+Counsel for the Respondent
+Department of Justice
+900 – 840 Howe Street
+Vancouver, British Columbia
+V6Z 2S9
+Telephone: (604) 775-7495
+Facsimile: (604) 666-2214
+Per:
+This Statement of Agreed Facts effectively narrowed the issues in these appeals to the following:
+1. whether an account receivable in the amount of $44,261 (the “Account Receivable”) from Elmsdale Auto Sales (“Elmsdale”) was properly included in the net worth calculation of the Appellant’s income in the 2001 taxation year;
+2. whether the GST calculated on this Account Receivable has been properly assessed; and
+3. whether the gross negligence penalties have been properly assessed.
+[3] When the Minister resorts to a net worth assessment, it is a last resort method where clearly other more direct and accurate methods and measurements normally available to the Minister have failed or are simply impossible to apply. The goal is to provide an appropriate measurement of a taxpayer’s income over a period of time. It will be, by its very nature, an imprecise measurement. At paragraph 2 of Bigayan v. The Queen, 2000 DTC 1619, the net worth method was described as follows:
+The net worth method, as observed in Ramey v. The Queen, 93 DTC 791, is a last resort to be used when all else fails. Frequently it is used when a taxpayer has failed to file income tax returns or has kept no records. It is a blunt instrument, accurate within a range of indeterminate magnitude. It is based on an assumption that if one subtracts a taxpayer's net worth at the beginning of a year from that at the end, adds the taxpayer's expenditures in the year, deletes non-taxable receipts and accretions to value of existing assets, the net result, less any amount declared by the taxpayer, must be attributable to unreported income earned in the year, unless the taxpayer can demonstrate otherwise. It is at best an unsatisfactory method, arbitrary and inaccurate but sometimes it is the only means of approximating the income of a taxpayer.
+[4] The onus, with the exception of the penalties issue, is for the Appellants to produce credible evidence to show that the Minister’s resulting assessment is incorrect and that income and GST have been properly recorded and reported. The Appellants may attack a net worth assessment by producing evidence in the form of records and other documents that will satisfactorily establish what the income actually is. Although this is the preferable method, where records are unavailable:
+… the alternative course open to the appellant was to prove that even on a proper and complete “net worth” basis the assessments were wrong. (Chernenkoff v. Minister of National Revenue, 49 DTC 680 at page 683)
+The Appellants cannot avail themselves of the more preferable method because they failed to maintain accurate books and records and by their own admission they had no idea what they were doing as it related to proper record keeping practices.
+[5] I heard evidence from Wayne Rayner, his spouse, Roxanne Rayner, Jaret Adams and Gerald Adams. The Respondent relied on the evidence of the auditor, Sharon MacNeill.
+[6] Wayne Rayner is the owner/proprietor of Rayner’s Auto Sales, a used vehicle business he started in 2000. His spouse was the bookkeeper for the business activities. Prior to commencing Rayner’s Auto Sales, he was a fisherman. Mr. Rayner described himself as the “hands-on” individual within Rayner’s Auto Sales. He travelled most of the time, purchasing vehicles, picking them up and then returning with those vehicles to sell them from his car lot. He had little knowledge of the bookkeeping aspect of this business but he did admit on cross-examination that some cash transactions occurred. He stated that, although he did not do the banking, it was possible that deposits of 80 or so hundred dollar bills could be among the deposits. He also admitted that he knew very little concerning the specifics of the Account Receivable which is at the heart of the issues in these appeals.
+[7] Roxanne Rayner was the bookkeeper for Rayner’s Auto Sales throughout these periods. She is a nurse by profession and had no prior training in bookkeeping. She admitted that she “didn’t really know what I was doing”. She believed that it would be sufficient if she tracked the vehicle sales and remitted GST and PST. She completed the bills of sale and all other documentation but it was always based on information and amounts provided to her by her husband. She stated that Jaret Adams purchased vehicles from her husband in the months before he obtained his dealer license by providing Rayner’s Auto Sales with a deposit on each vehicle he wanted to purchase. The vehicles were held for Elmsdale until Jaret obtained his dealer license. Roxanne Rayner believed that these deposit purchases occurred around 2000 – 2001. She explained that these purchases were not completed until Jaret obtained his license because without this license he would also have to pay PST on the purchases. She believed that each of these deposits amounted to a full payment of the purchase price of a vehicle with the exception of the GST which was paid when the Bills of Sale were completed. She did not recall when the transfer of vehicle registration to Jaret eventually occurred. Some of the receipts for these deposits were in the name of Gerald Adams, Jaret’s father, as the Rayner’s received deposit money from both of them. She recalled that all of the deposits from Gerald and Jaret Adams were made in cash and were deposited to the bank account located at the Summerside Credit Union. She determined that these cash deposits related to Elmsdale by reviewing her sales book and matching the amounts to the dates of similar deposit amounts, even though the amounts did not exactly match the amounts of the transactions. She deducted that the larger cash deposits would be for Elmsdale as most purchasers paid by cheque. She admitted that she did not know exactly when deposits were made as she was unaware until after the audit that she had to track the money going in and out of the bank account.
+[8] On cross-examination, her explanation for all of the invoices in respect to Elmsdale Auto Sales (Exhibit A-1), being in the same sequence of numbers with no intervening invoices to any other purchaser during this period, was that these sales were the only sales by deposit and that the business had numerous bill books with this particular book being the one she used exclusively for Elmsdale. While the invoices at Exhibit A-1 reflected the sales with deposits, the four invoices at Exhibit A-2 were all dated December 28, 2001 and contained all of the information, including sales price and taxes, on these sales. It was these four invoices that were provided to the auditor.
+[9] Jaret Adams stated that he got into the auto sales business in June 2001 but that he did not receive his dealers license to sell and purchase vehicles until December 21, 2001. His father, Gerald Adams, helped him financially in the establishment of Elmsdale Auto Sales by giving him various amounts of cash. He purchased vehicles initially from the Appellants by paying deposits equal to the purchase price less the applicable taxes. The Appellants held the vehicles until he obtained his dealers license in December 2001, at which time he paid the taxes and obtained possession of the vehicles. He testified that he paid the deposits by cash received from his father and that when he paid the deposits, he received receipts (part of Exhibit A-1) and eventually paid the balances to Rayner’s Auto Sales as reflected in the Exhibit A-2 documents.
+[10] On cross-examination, he stated that he purchased the vehicles from the Appellants in this manner because he did not have his dealers license and it took longer to obtain it than he expected. He could not explain why the last receipt dated December 13, 2001 in Exhibit A-1, unlike the others, contained an amount for GST. He thought that since it occurred during the same week that he obtained his dealers license that it was an honest mistake. He had no explanation as to why the prior receipt in Exhibit A-1 was also dated December 13, 2001 but contained no GST.
+[11] Gerald Adams testified that he loaned his son between $30-$45,000 in cash in 2001 to purchase vehicles from Rayner’s Auto Sales. His son started to purchase vehicles in June or July of 2001 from the Appellants. He did not recall any discussion with his son concerning the payment of tax and when asked if he loaned additional amounts to his son to settle payment of the taxes he replied “not that I know of”. He did not recall seeing the Exhibit A-1 documentation or signing anything.
+[12] The Respondent’s witness, Sharon MacNeill, stated that a review of the Appellant’s business activities began as a GST audit but because she could not complete a satisfactory bank deposit analysis it was converted to a net worth assessment. She stated that all of the Appellants’ records were “over the floor of their premises and in piles”. Where transactions occurred in cash, no reconciliation was ever completed in respect to sales invoices. She was unable to match cash to the invoices as she always had more cash than deposits. The invoices did not reference whether it was a cash or cheque transaction because Mrs. Rayner marked “paid” only on each. Therefore, unless she was able to locate the cash transaction elsewhere, she was unable to resolve these issues. She stated that sometimes there could be $50-$60,000 in additional cash deposits than could be accounted for in the sales journal or the invoices. In addition, certain cash deposits stood out. For example, there was no record of eighty $100 bills and no invoice to indicate what it was for. She stated that Mrs. Rayner told her they did not issue receipts respecting the cash transactions. Because she was unable to reconstruct the sales journal and match the deposits to the journal, she had no alternative but to switch to the less preferable method of a net worth assessment. She testified that she did not see any invoices or receipts similar to those used in Exhibit A-1 for any other customers of Rayner’s Auto Sales. She was never provided the Exhibit A-1 invoices and receipts during the audit. In addition, she never saw receipts that did not also record the appropriate taxes. She noted that these receipts at Exhibit A-1 were unlike any other receipts used in the business for other customers in both style and format.
+[13] Ms. MacNeill decided to assess gross negligence penalties based on the following:
+1. The amounts by which he understated his income in each year was material in relation to the total income that he reported on his tax returns.
+2. Although Mrs. Rayner was responsible for the books, she followed the directions of Mr. Rayner. There were large cash amounts yet no evidence of issued receipts to cash customers. Mr. Rayner withdrew cash from some cash sales as required for his travel. However, no reconciliation or controls were implemented to account for cash sales and withdrawals of cash at the end of the day.
+3. She found it unusual that a business doing a large amount of cash sales would not be able to provide receipts and yet be confident that a customer had paid for a vehicle with no record basis to substantiate this. When she asked Mrs. Rayner how she was able to identify which amounts originated from Jaret Adams, Mrs. Rayner advised her that it was her “best estimate”.
+4. Mr. Rayner was resisting any changes or suggestions to improve upon the record keeping techniques he was employing.
+5. She was unable to link invoices or any combination of invoices that would equate to the cash totals.
+[14] On cross-examination, she stated that Jaret Adams initially told her he always paid the Appellants by cheque in December 2001 for the vehicle purchases but later he told her it was by cash over a period of time beginning in June/July 2001. She stated that even if she had received the invoices (Exhibit A-1) during the audit, she would still be skeptical of this documentation as it would be unusual to have a separate bill book for Elmsdale where all receipts were numbered sequentially.
+Analysis
+[15] The Appellants have admitted that they failed to report all income that was earned in the business together with the GST collected in both the 2000 and 2001 taxation years as assessed by the auditor, with the exception of the one account receivable from Elmsdale in the 2001 taxation year. This limits the focus of these appeals to whether the Appellant has to include this account receivable in his income in 2001. Ms. MacNeill was provided with the four invoices (Exhibit A-2) all dated December 28, 2001 during the course of the audit. These four invoices, totalling $44,261, were for the sale of seven vehicles and the sale of parts for a Sunfire by the Appellant, Rayner’s Auto Sales, to Elmsdale. Ms. MacNeill was unable to reconcile these invoice amounts with the bank deposits for the period December 28, 2001 and December 31, 2001. In addition the Appellant recorded the sale and purchase of these same vehicles and parts to Elmsdale on December 28, 2001.
+[16] The documentation at Exhibit A-1 was not provided to Ms. MacNeill during the net worth assessment but the Appellants produced this second set of invoices respecting the sales to Elmsdale after the Appellants filed their objection. These reflected the evidence given by the Appellant witnesses that Jaret Adams purchased by deposit amounts seven vehicles at various times between July 23, 2001 and December 13, 2001. The Appellant also produced eight new receipts, as part of Exhibit A-1, to support payment for these vehicles. These receipts indicate that it was Jaret’s father, Gerald Adams, that paid the purchase amounts to the Appellants. The last receipt at Exhibit A-1 is the eighth receipt, dated December 13, 2001, in the amount of $4,525 which, unlike the other documents at Exhibit A-1, included an amount for GST. Also unlike the other documents, there was no corresponding invoice in Exhibit A-1 to match this receipt. However, it was included in the Exhibit A-2 invoices. It is also interesting to note that the sale of a 1998 Cavalier, which is listed in the Exhibit A-1 documentation as being sold to Elmsdale, was not included in the Exhibit A-2 invoices provided to the auditor. Another factor which is suspect is contained in the Appellants’ own ledger of sales of purchases which indicates that the Appellants purchased a Volkswagen Beetle from Mike’s Rebuildables on July 23, 2001, which is the same date listed in the Exhibit A-1 documentation on which the Appellant sold the same vehicle to Elmsdale Auto Sales.
+[17] In accordance with the caselaw, the Appellants must adduce credible evidence which will satisfy me that this account receivable from Elmsdale should not be included in the income in the 2001 taxation year. I agree with the Respondent’s submissions that the focus in these appeals should not be whether or not the account receivable amounts were paid by the deposit method throughout the period June/July 2001 to December 13, 2001 but rather the focus and onus must be on the Appellants’ ability to match those deposit sales to the bank deposits. The Appellants have simply not done so. The Appellants have not pursued the most preferable method of tackling a net worth assessment by adducing evidence of what the income in the relevant years should be. In fact, the Appellants accepted all of the Minister’s net worth calculations of income except the inclusion of this account receivable. I have no evidence that these amounts were deposited into the Appellants’ bank accounts in 2001 because the Appellants could not determine with any certainty that the deposits actually related to the payments made by Elmsdale. The Appellants argued that the account receivable is accounted for or addressed in Exhibit A-3, the account deposit slips for the Credit Union account which reflected cash deposits from vehicle sales. Mrs. Rayner deducted that these deposits related to the Elmsdale transactions because the amounts and dates in the deposit documents approximated those cash sales. However, there was nothing more concrete offered except what amounted to a method of picking out large deposits and suggesting that they related to Elmsdale. I believe she referred to it in her evidence as being her “best estimate”. Guesswork and estimates will not convince a Court to change a net worth assessment.
+[18] In addition, I am faced with a number of inconsistencies within the documentation in Exhibit A-1 and Exhibit A-2. The documents initially provided to the auditor (Exhibit A-2) were contradicted by the subsequent documentation after the audit (Exhibit A-1). The invoices and receipts contained in Exhibit A-1 were not produced until after the audit was completed. Ms. MacNeill was provided with the documents at Exhibit A-2 during the audit and some of the information contained in those invoices contradicted those at Exhibit A-1. This has the appearance of a subsequent production of documents to explain this account receivable. Another problem with this documentation is that the invoices in Exhibit A-1 were sequential even though purported sales occurred over a period of months. Again this has the appearance of those invoices being completed at a time other than the date indicated. Another problem area for the Appellants is the inclusion of an additional vehicle, a 1998 Cavalier, in the documents at Exhibit A‑1 which does not show up in the Exhibit A-2 documents. The Respondent suggested that it was likely that the Appellant forgot to include pertinent taxes on the invoices at Exhibit A-1 and therefore needed to include this extra vehicle to approximate the $44,261 account receivable. Although I have no evidence that this was the case, when I view all of the overall problem areas and inconsistencies with the documents, for which I have no satisfactory answers, I must go back to the onus which is upon the Appellants to adduce credible evidence that shows on a balance of probabilities that this net worth assessment is wrong. Other problems also exist. For example, the Appellants’ ledger indicates the purchase of a vehicle from Mike’s Rebuildables on July 23, 2001 with a sale on the same date to Elmsdale. If this was the only questionable evidence, I could certainly accept an explanation that a same day purchase and resale can occur within the industry. However, when I view all of the evidence, there are simply too many other questionable areas, inconsistencies and contradictions which outweigh one small area where I might have otherwise accepted an explanation given by the Appellants. I have not been provided with sufficient, or more appropriately, any banking documents and records to support the Appellants’ assertion that payments for these vehicles were deposited to the Appellants’ bank account. I am faced with the evidence of a bookkeeper who admitted that she did not know what she was doing, did not track her bank statements or even know she had to, did not open bank statements when she received them, provided money to her husband from cash transactions which she did not track or reconcile, used no safeguard in tracking cash transactions, and generally applied guesswork in respect to amounts and dates to match cash sales to deposits. I have not been provided with the required credible evidence which would satisfy the onus which is upon the Appellants and which would support the removal of this account receivable from the Appellant’s income in the 2001 taxation year.
+[19] My determination that the account receivable is to be included in income resolves the second issue and therefore the GST calculated on this account receivable has been properly assessed.
+[20] The third and last issue is the assessment of gross negligence penalties on both the unreported income and unremitted GST amounts. Subsection 163(3) of the Income Tax Act places the onus upon the Minister to show that penalties should be applied pursuant to subsection 163(2). Section 285 of the Excise Tax Act is very similar to subsection 163(2) and the same basic principles apply in respect to both Acts when penalties are at issue. The generally accepted definition of gross negligence was set out by Strayer J. in Venne v. The Queen, 84 DTC 6247, at page 6256:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[21] Bowman, C.J. in DeCosta v. The Queen, 2005 DTC 1436, distinguished gross negligence from ordinary negligence at paragraph 11:
+In drawing the line between “ordinary” negligence or neglect and “gross” negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[22] The magnitude of the omission in relation to the income declared in these appeals was significant. In 2000, the unreported income assessed represented 33⅓ % of the gross income actually reported by the Appellant. In 2001, the unreported income assessed was 10% of the gross income reported by the Appellant. In addition, the Appellant filed tax returns in both 2000 and 2001 reporting that he was in a loss position. The GST returns were filed reporting a credit position. This resulted in GST refunds. I think all of these factors should have alerted the Appellant that something was wrong. While his wife did all of the bookkeeping, she took direction on sale/purchase transactions from her husband. He was responsible for the day-to-day operation of the business and he was in the best position to detect potential reporting problems. He was also in the best position to provide or arrange for the necessary sets of checks and balances so that surveillance existed over these cash transactions. This was not his first business venture. He was a fisherman prior to getting into auto sales. Where businesses rely on cash transactions, the onus is that much higher to maintain adequate books and records which are fairly transparent and self-explanatory to a third party that is reviewing those records. The records in this business were not only incomplete and inaccurate but they contained many inconsistencies that cannot be satisfactorily explained. In a self-assessing system taxpayers have the responsibility to clearly, accurately and consistently track and report their business activities, and particularly so where those activities involve cash transactions. According to the evidence which I heard, there was nothing that would indicate that this would be a particularly difficult business to properly track. He purchased vehicles and parts and then resold to customers who apparently paid either by cash or cheque. When it is apparent to a taxpayer that they are in over their heads and, as Mrs. Rayner stated, just do not know what they are doing, then there is a responsibility to get professional assistance. This went on for two years until they were audited. Mrs. Rayner admitted that when she found out they were to be audited, she hoped they would help her out in tracking items and setting up better records. The Appellants admittedly had strong suspicions that problems existed. While I am always reluctant to impose penalties unless the evidence has clearly established that degree of negligence that requires the imposition, I believe the evidence here supports that the Minister has satisfied the onus and that penalties are warranted.
+[23] The appeals are dismissed. No costs will be awarded in either appeal.
+Signed at Charlottetown, Prince Edward Island, this 30th day of July 2008.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2008 TCC 446
+COURT FILES NO.:
+2006-1021(GST)I
+2006-1022(IT)G
+STYLE OF CAUSE:
+Rayner’s Auto Sales and
+Wayner Rayner and
+Her Majesty the Queen
+PLACE OF HEARING
+Charlottetown, Prince Edward Island
+DATE OF HEARING
+July 7, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT
+July 30, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Jeffery Cormier
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeffery Cormier
+Firm:
+Key, McNight & Maynard,
+Summerside, Prince Edward Island
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

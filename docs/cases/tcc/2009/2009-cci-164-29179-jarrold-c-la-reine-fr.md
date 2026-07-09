@@ -1,0 +1,152 @@
+---
+title: "Jarrold c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29179/index.do"
+last_modified: "2009-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 164"
+citation2: ""
+neutral_citation: "2009 CCI 164"
+decision_date: "2009-04-07"
+language: "fr"
+item_id: "29179"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6711
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:00:27.146000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0bf7c3d8b7c593001594a1667193e2367c9d7b07ce8eb029af8244e3f380acf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jarrold c. La Reine
+
+- Citation: 2009 CCI 164
+- Decision date: 2009-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6711, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jarrold c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-07
+Référence neutre
+2009 CCI 164
+Numéro de dossier
+2008-1530(GST)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2009CCI164
+Dossier : 2008-1530(GST)I
+ENTRE :
+THOMAS RALPH JARROLD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(rendus oralement à l’audience, à Vancouver (Colombie-Britannique),
+le 3 mars 2009)
+Le juge Margeson
+[1] La question soumise ici à la Cour est de savoir si l’appelant, en tant qu’administrateur de la société Jarrold and Associates, était ou non responsable des taxes nettes non versées, dues par la société au ministre pour les années en cause, et responsable des sommes mentionnées par le ministre dans la cotisation.
+[2] Selon le ministre du Revenu national, l’appelant est responsable, en tant qu’administrateur de la société Jarrold and Associates, des taxes nettes non versées, au montant de 8 027,21 $, ainsi que des pénalités et intérêts s’y rapportant, pour les périodes en cause.
+[3] La position de l’appelant, évidemment, est qu’il n’est pas responsable des sommes en question, et il avance plusieurs arguments. La Cour tentera de répondre à chacun d’eux.
+[4] L’avocate de l’intimée a fait valoir que le premier point, exposé dans la réponse, était de savoir s’il y avait des taxes nettes non déclarées – et non versées – que l’appelant ici – un particulier – pourrait être tenu de payer. La Cour est d’avis que la preuve est tout à fait claire : il y avait des taxes nettes non versées, selon la somme énoncée dans la réponse, compte tenu des articles 225 et 228 de la Loi sur la taxe d’accise, et la somme en cause est exacte. La Cour n’est pas persuadée d’avoir devant elle quelque preuve que ce soit qui puisse réfuter l’hypothèse et la preuve du ministre montrant qu’il s’agissait là des taxes nettes qui n’avaient pas été versées au nom de la société.
+[5] L’avocate s’est référée à la décision Zaborniak v. Canada, [2004] G.S.T.C. 110 (C.C.I.), à l’onglet 18. Il s’agissait dans cette affaire de savoir si un administrateur pouvait ou non contester la cotisation sous-jacente. La décision a été rendue par le juge Bowie, et, comme l’avocate l’a noté ici, il y a lieu de se demander si la cotisation sous-jacente peut ou non être mise en doute.
+[6] La Cour a décidé, dans plusieurs affaires, que la cotisation sous-jacente ne peut pas être contestée. Le juge Bowie a estimé qu’elle pouvait l’être, affirmant que cela dépend du genre de dossier. L’affaire dont il était saisi relevait de l’article 160 de la Loi de l’impôt sur le revenu, qui concerne le cas où un bien a été transféré par une personne à une autre et que l’auteur du transfert devait des impôts. Il s’agissait là, selon le juge Bowie, d’un cas tout à fait particulier.
+[7] Le juge Bowie écrivait ce qui suit, au paragraphe 7 :
+Pour conclure que les appelants en l’espèce ont le droit de contester le montant du jugement, il faudrait que j’ajoute implicitement au paragraphe 323(1) les termes « ou tout montant inférieur dont la personne morale aurait pu être tenue responsable à la suite d’un appel accueilli de sa cotisation ». Il ne m’appartient tout simplement pas de le faire. Je suis d’accord avec les conclusions auxquelles sont arrivés le juge en chef Garon et le juge Tardif. Je signale que ces décisions ont été critiquées et décrites comme n’étant pas valables en droit. Je ne suis pas d’accord. La politique peut certainement être critiquée de façon légitime, mais ces critiques devraient être adressées au Parlement, étant donné que c’est ce dernier, et non les tribunaux, qui formule les politiques […]
+[Renvoi omis]
+[8] Il peut y avoir de bonnes raisons pour qu’un contribuable ne soit pas autorisé à contester la cotisation sous-jacente et, au vu des propos du juge Bowie, il pourrait y avoir de bonnes raisons pour qu’un contribuable soit autorisé à la contester.
+[9] La décision de la Cour est que l’on ne peut contester la cotisation sous‑jacente, quelle qu’en puisse être la raison. Dans la présente affaire, la Cour est d’avis qu’il y a lieu de faire une distinction entre les faits dont il s’agit ici et les faits qui avaient été soumis au juge Bowie. Ici, de toute évidence, l’appelant ne pourrait en aucune façon prétendre qu’il n’était pas à même de contester la cotisation initiale lorsqu’elle fut établie, et cela parce que rien ne l’empêchait d’examiner les livres et de constater qu’une somme d’argent était due ou que les taxes n’avaient pas été payées, étant donné que tout cela relevait de sa connaissance personnelle. En fait, en tant qu’unique administrateur, il exerçait un contrôle total sur les affaires de la société, de sorte que personne n’aurait été en meilleure position que lui pour savoir ce qui s’y passait. Eu égard au témoignage de l’appelant, la Cour est d’avis qu’il était certainement en position de savoir.
+[10] Sur cet aspect donc, la Cour est d’avis que la cotisation sous-jacente ne peut pas être contestée ici. Aucun fondement raisonnable ne permet de contester la cotisation dans le cas présent, même si, selon les principes généraux du droit, elle était susceptible de l’être.
+[11] Dans son argumentation, l’avocate s’est référée à la décision Scavuzzo c. Canada, [2005] A.C.I. n° 620 (C.C.I.), qui porte également sur cet aspect. Mais, encore une fois, comme on peut le voir, il s’agissait d’une cotisation faisant intervenir l’article 160, et le juge Bowman est arrivé à la conclusion qu’il a tirée. La Cour refuse d’accepter cet argument. Elle préfère s’en rapporter à ses décisions antérieures, rendues par les juges Bowie, Tardif et Garon, ainsi que le soussigné, selon lesquelles la cotisation sous-jacente ne peut pas être contestée.
+[12] L’avocate de l’intimée a dit ici que l’appelant ne devrait pas être autorisé à contester ou à mettre en doute la cotisation parce qu’il a eu toute latitude de la mettre en doute, il avait la responsabilité des dossiers à l’époque de la cotisation, il est expert-comptable, il était au fait des circonstances, et il n’a pas contesté la cotisation. Il n’a pas non plus réfuté les sommes dont il est fait état dans l’article 221, le paragraphe 225(1) et les paragraphes 228(1) et (2) de la Loi sur la taxe d’accise. La Cour est d’avis, eu égard à la preuve, que ces cotisations ont été validement établies. Le problème demeure le même.
+[13] L’avocate s’est référée à la décision Tatarnic v. Canada, [1997] G.S.T.C. 54 (C.C.I.), qui permet d’affirmer que c’est à l’appelant qu’il appartient d’établir, selon la prépondérance des probabilités, que la nouvelle cotisation, dans la mesure où elle se rapporte à une obligation prévue par la Loi sur la taxe d’accise, est erronée. La Cour est d’avis qu’aucune preuve de cette nature n’a été produite. Elle est d’avis que, si la cotisation doit être contestée, il faut que soit produite une preuve allant à la racine de ladite cotisation, et attestant son inexactitude. Une telle preuve n’existe pas dans la présente affaire. La Cour est d’avis que l’appelant n’a pas montré que la cotisation était erronée.
+[14] Par ailleurs, dans l’onglet 16, qui concerne l’arrêt Vacation Villas of Collingwood Inc. v. Canada, [1996] G.S.T.C 13 (C.A.F.), l’avocate invoque cet arrêt pour dire que, après que le ministre énonce ses phypothèses de fait dans sa réponse, alors, comme la Cour l’a indiqué à l’appelant avant qu’il ne s’exprime, il appartient à l’appelant de réfuter ces hypothèses. C’est à lui qu’il incombe d’établir, selon la prépondérance des probabilités, que la cotisation est erronée.
+[15] Comme elle l’avait décidé dans cette affaire-là, la Cour est ici d’avis que le demandeur, ou l’appelant, ne lui a pas soumis une preuve satisfaisante susceptible de réfuter les hypothèses énoncées dans la réponse du ministre et, par conséquent, ces hypothèses resteront telles.
+[16] La taxe nette que devait la société était une taxe nette qui a été calculée par le ministre et, fait intéressant à noter, les calculs du ministre étaient fondés sur l’information même que lui avait fournie le contribuable. Le contribuable est celui qui a produit les déclarations et, se fondant sur l’information fournie, le ministre a accepté cette information et a établi la cotisation.
+[17] L’appelant n’a pas produit de documents propres à réfuter la cotisation établie par le ministre. La Cour croit même qu’il a entendu ici, aujourd’hui, des témoignages qui lui ont sans doute permis de comprendre un peu mieux ce qu’était la véritable situation.
+[18] Quoi qu’il en soit, la Cour est d’avis qu’il n’a été produit aucun témoignage de vive voix ni aucun document susceptible de réfuter les hypothèses énoncées par le ministre et d’attester l’inexactitude de la cotisation établie par lui.
+[19] S’agissant des intérêts et pénalités, l’avocate a fait porter son attention sur cet aspect. Cet aspect n’a pas semblé être vraiment un point en litige pour l’appelant. Je parle ici de la question de savoir si le ministre avait le droit d’imposer des pénalités et intérêts. Ce droit est attesté par la loi elle-même. Dès que la somme due n’est pas payée à temps, le compteur commence à tourner, pour ainsi dire, et les intérêts et pénalités sont calculés en fonction de la somme en souffrance. Le contribuable ne peut pas y faire grand-chose.
+[20] Mais, s’il s’agit là d’un point en litige, ce ne peut être qu’un point soulevé par l’appelant, dans la mesure où il prie le ministre de le dispenser de l’application de l’article 280 relatif aux pénalités. La Cour est d’avis qu’elle n’a pas compétence pour réduire le montant des intérêts et pénalités. Cette décision appartient au ministre. Le ministre a déjà, semble-t-il, refusé une demande fondée sur les dispositions d’équité, au motif que la demande avait été déposée en dehors des délais, et la Cour ne trouve rien à redire ici à la décision du ministre.
+[21] Même si elle trouvait à redire à la décision du ministre, la Cour est d’avis qu’elle n’aurait pas compétence de toute façon pour la réformer. Ainsi, dans la mesure où l’appelant conteste les intérêts et pénalités, la Cour est d’avis qu’elle ne peut accorder aucun crédit à son argument.
+[22] L’appelant répond-il des taxes qui ont été calculées, comme je l’ai dit, sur le fondement de l’alinéa 323(2)a) de la Loi sur la taxe d’accise? La Cour est d’avis qu’il était un administrateur. Il a toujours été administrateur. Il est demeuré administrateur jusqu’à la fin, peut-être même jusqu’à aujourd’hui, mais, de toute évidence, à tout moment, jusqu’au présent appel, il était un administrateur.
+[23] La Cour est d’avis que le ministre a produit une preuve se rapportant aux conditions ou aux conditions préalables de l’établissement d’une cotisation à l’encontre de l’appelant. Elle est d’avis que le montant était dû. Elle est d’avis que l’appelant était un administrateur. Elle est d’avis que le ministre a pris toutes les mesures qu’il devait prendre, compte tenu des dispositions applicables de la loi. Le ministre a établi la cotisation à l’encontre de la société. Il a obtenu un certificat de la Cour fédérale. Il a déposé le certificat devant la Cour fédérale. À plusieurs reprises, il a fait savoir à l’appelant que la somme était due et exigible. Il a pris des moyens pour percevoir la somme en question et la somme n’a pas été perçue. Le bref de fieri facias a été retourné nulla bona, pour ainsi dire, et le ministre n’a pu percevoir la somme due. Toutes ces conditions préalables ont été remplies, et la Cour ne voit rien de répréhensible dans les mesures prises par le ministre.
+[24] Nous en arrivons maintenant à la question de la diligence raisonnable, et à l’arrêt Soper v. R., [1997] 3 C.T.C. 242 (C.A.F.), qui se trouve dans l’onglet 14 du recueil de précédents de l’intimée. Comme la Cour l’a déjà dit, il s’agit d’un cas, semblable au cas présent, où la Cour d’appel fédérale a passé un temps considérable à exposer la norme de prudence. Le juge Robertson examinait le paragraphe 227.1(3) de la Loi de l’impôt sur le revenu, mais la définition est la même. L’historique de la disposition correspond à celui du paragraphe 227.1(3) de la Loi. Le juge Robertson écrivait ce qui suit :
+La norme de prudence énoncée au paragraphe 227.1(3) de la Loi n’est donc pas purement objective. […]
+Il a donc dit qu’elle était à la fois subjective et objective, et ce point de vue a par la suite été rejeté. La Cour suprême du Canada a dit, dans l’arrêt Magasins à rayons People’s Inc. (Syndic de) c. Wise, [2004] 3 R.C.S. 461, que la norme de prudence est en réalité totalement objective. Considérant la norme d’un point de vue objectif, la Cour doit donc décider si l’appelant s’est ou non acquitté de l’obligation de prouver qu’il a agi, dans toutes les circonstances, comme l’aurait fait un administrateur raisonnable et prudent.
+[25] La Cour est liée par cet arrêt, et elle doit considérer la norme de prudence comme une norme totalement objective. L’arrêt Soper, qui parlait aussi des administrateurs internes et des administrateurs externes, établissait une différence entre la responsabilité d’un administrateur interne et celle d’un administrateur externe, pour conclure que, fondamentalement, un administrateur interne assumera une responsabilité beaucoup plus élevée. Il sera beaucoup plus difficile à un administrateur interne de prouver qu’il a agi comme l’aurait fait un administrateur raisonnable et prudent. La Cour accepte cet argument.
+[26] La Cour est persuadée ici, ainsi que l’a dit l’appelant lui-même, qu’il était un administrateur interne. Il disposait de renseignements privilégiés. Il était l’unique administrateur. Il avait connaissance des comptes. Il avait une formation en comptabilité. Il s’occupait des déclarations de revenus d’autres contribuables, et l’on doit donc en conclure qu’il occupait une position exigeant le niveau le plus élevé de prudence pour un administrateur.
+[27] Dans la décision Kanavarous v. R., [2008] G.S.T.C. 115 (C.C.I.), une décision de la Cour canadienne de l’impôt et un précédent très semblable à la présente affaire, le principe qui a été appliqué dans ce précédent vaut également ici. Je me souviens très bien de cette affaire.
+[28] L’administrateur dont il s’agit ici a indiqué qu’il avait des difficultés. Il traversait des difficultés financières et des difficultés personnelles, et il avait du mal à joindre les deux bouts. Il s’efforçait de conclure des ententes, de faire des paiements, et la Cour ne le blâme nullement pour les efforts qu’il a accomplis. Mais c’était trop peu et trop tard.
+[29] Comme dans l’affaire Kanavarous, précitée, le contribuable appelant voulait s’assurer que tous les travailleurs étaient payés et que l’entreprise continuait de tourner, il donnait un peu d’argent ici, et un peu d’argent au ministre là, mais la Cour a jugé, comme je le fais ici, qu’il appartenait à l’appelant de verser les sommes dues, de les percevoir et de les verser au ministre. Dans l’affaire Kanavarous, comme ici, on ne sait trop ce que l’appelant a fait avec l’argent, mais de toute évidence la taxe a été perçue, et l’argent est allé ailleurs, il n’a pas été envoyé au ministre.
+[30] Outre la nécessité de faire tourner l’entreprise dans l’espoir que les choses allaient s’améliorer, et outre la nécessité de payer les salaires des travailleurs, et ainsi de suite, il était de la responsabilité de l’appelant, et globalement de la responsabilité de l’entreprise, de s’assurer de faire les paiements au ministre lorsqu’ils devaient être faits, à l’intérieur de la période de déclaration fixée par la loi.
+[31] Les mesures prises par l’appelant ici, tout comme celles prises par l’appelant dans l’affaire Kanavarous, précitée, ne répondent pas à l’obligation qui leur était imposée par cette disposition de la loi. Elles ne répondent pas aux exigences du critère. Leur obligation, pour autant que la Cour soit concernée, est de faire en sorte que les sommes dues soient versées au ministre, et non de corriger le problème après le fait.
+[32] La Cour est d’avis, comme elle l’était dans la décision Kanavarous, et comme l’était la Cour d’appel fédérale dans l’arrêt Soper, qu’un administrateur a l’obligation de prendre les mesures requises, en établissant une méthode d’enregistrement des versements et en demandant aux agents financiers ou aux comptables de l’entreprise de présenter régulièrement des rapports. L’appelant avait l’obligation d’établir des contrôles et des méthodes propres à confirmer, à intervalles réguliers, que la taxe avait bien été perçue comme l’exige la Loi.
+[33] Toutes ces mesures, dans la présente affaire, relevaient du contrôle et du pouvoir de l’appelant, parce qu’il était l’unique actionnaire et l’unique administrateur et qu’il avait un total droit de regard sur l’entreprise.
+[34] Comme la Cour l’a déjà dit, il était un administrateur interne. Il était astreint à une norme de prudence très élevée. Il devait prendre les mesures nécessaires pour prévenir tout détournement de fonds, sans chercher à intervenir après coup pour régler le problème. Les mesures qu’il a prises pour tenter de payer la facture fiscale étaient louables, mais c’était trop peu, trop tard.
+[35] S’agissant de savoir si le ministre a ou non agi d’une manière raisonnable et responsable en attendant 10 ans avant d’établir cette cotisation, la Cour n’a aucun pouvoir sur cet aspect. Le ministre avait le droit d’attendre comme il l’a fait, mais, hormis cela, la preuve que j’ai devant moi me convainc que le temps pris par le ministre pour agir était certainement justifié. Il y avait d’abord le fait que l’appelant lui-même n’avait pas produit de déclarations. Les déclarations ont été déposées tardivement. Le ministre a tenté de faire en sorte qu’il dépose des documents, qu’il envoie l’information nécessaire, afin de pouvoir dire si l’offre qu’il faisait en vue d’un règlement de l’affaire était ou non raisonnable. Toutes ces choses expliquent en partie la lenteur à agir du ministre. En fin de compte, la Cour est d’avis que le délai a été expliqué.
+[36] La Cour est d’avis que le ministre a agi raisonnablement. Elle accepte la position de l’avocate de l’intimée selon laquelle le ministre avait le droit de décider de la manière dont il allait recouvrer cette créance. Elle est d’avis que, si le ministre a attendu pour agir, c’est notamment parce que l’un des agents chargés du dossier ne pensait pas qu’il réussirait à traiter la réclamation en raison du fait qu’il n’y avait pas d’actifs à saisir. Mais, par la suite, une autre agente était intervenue dans le dossier et, après avoir fait une recherche, elle a constaté qu’il y avait sans doute des actifs susceptibles de permettre un recouvrement de la créance. Il était donc raisonnable pour le ministre d’établir la cotisation qu’il a établie.
+[37] La Cour n’a pas compétence pour mettre en doute la décision du ministre d’agir comme il l’a fait. Elle est d’avis que le ministre avait le choix d’agir comme il l’a fait, et il n’y avait rien de répréhensible dans la manière dont il a géré la situation. Il avait le droit d’établir les pénalités qu’il a établies, et d’établir les intérêts qu’il a établis. Il n’y avait rien de répréhensible dans les décisions qu’il a prises.
+[38] S’agissant de l’argument de l’appelant, fondé sur le paragraphe 281.1(1), selon lequel la Cour avait le pouvoir d’infirmer la décision du ministre, qui disait ne pas être en mesure d’accorder à l’appelant le redressement qu’il demandait, et cela en raison de la prescription, la Cour n’a pas compétence pour décider ce point. Elle a fait part de cette position à l’appelant lorsqu’il présentait son argument. Si le ministre a jugé bon de rejeter l’argument fondé sur le délai de dix ans, c’était sa décision à lui, et non celle de la Cour. La Cour n’a pas été investie du pouvoir de se prononcer sur cet aspect. La Cour fédérale a été investie d’un certain pouvoir d’intervenir dans l’application des dispositions d’équité. Ce n’est pas le cas de la Cour canadienne de l’impôt.
+[39] L’appelant lui-même a dit qu’il était un administrateur interne, mais il pensait qu’il agissait raisonnablement, qu’il a fait tout ce qu’il pouvait faire. La Cour n’est pas persuadée qu’il a fait tout ce qu’il pouvait faire. Il a fait tout ce qu’il pouvait plus tard, lorsque la situation est devenue réellement difficile. Mais, au début, il n’a rien fait lorsque les difficultés ont commencé à surgir, alors qu’il aurait dû savoir que les sommes requises n’étaient pas versées au ministre.
+[40] En fait, la Cour tire la conclusion de ce que l’appelant lui-même a dit aujourd’hui – et elle s’est sans doute présentée parce qu’il n’a nullement examiné le dossier, ou ne l’a pas examiné suffisamment, pour s’informer de tous les faits – mais la Cour est persuadée, d’après ce qu’il a dit, que, en réalité, il ne savait même pas qu’il y avait une dette, que les déclarations avaient été produites, ni ne savait qui produisait les déclarations, ni à qui il incombait de les produire. Le commis-comptable, à un certain moment, assumait certainement une responsabilité, mais l’impression qu’il a donnée à la Cour était qu’il n’était pas sûr que la somme était due. Personne ne lui a dit qu’il devait de l’argent – que la société devait de l’argent. Ce n’était pas là une conclusion raisonnable à tirer.
+[41] Il a exprimé l’avis qu’il aurait fait quelque chose si le ministre l’avait appelé pour lui dire : « Je me rends chez vous pour examiner vos dossiers, et ensuite je vous montrerai ce que j’ai ». L’appelant lui-même a dit au ministre qu’il ne pouvait pas consacrer l’effort et le temps requis pour envoyer d’autres documents ou pour photocopier des pièces étalées sur deux ans puis les envoyer au ministre. Pour quelque raison, l’appelant a conclu que le ministre lui avait dit qu’il viendrait chez lui pour examiner les dossiers.
+[42] Telle n’est pas l’obligation du ministre. L’obligation du ministre, ou le droit du ministre, consiste à demander au contribuable de fournir les documents qui sont nécessaires, et il ne fait aucun doute que les documents requis n’ont pas été produits dans la présente affaire. Il n’était pas raisonnable pour l’appelant d’attendre que le ministre vienne chez lui pour examiner les documents, puis, le ministre ne venant pas, de ne rien faire ensuite, de ne faire aucun paiement et de ne pas payer la dette.
+[43] Ce que l’appelant aurait dû faire, si le ministre ne venait pas chez lui, c’était d’envoyer au ministre toute l’information possible, ou de lui envoyer une proposition disant : « Je vais payer telle somme, ou je vais continuer de faire les paiements », puis de voir ensuite ce qu’allait faire le ministre. Mais, même à ce moment-là, la période du détournement de fonds était passée de toute façon. Il était presque trop tard à ce moment-là, sauf si le ministre décidait d’accepter le plan de paiement qui serait proposé. Il était trop tard pour corriger la situation, parce que le mal avait déjà été fait. Les taxes à appliquer n’avaient pas été perçues ni versées.
+[44] La Cour est d’avis que, compte tenu de toutes les circonstances, l’appelant ne s’est pas conformé à la loi. Il ne s’est pas acquitté de l’obligation d’établir, selon la prépondérance des probabilités, qu’il avait agi, dans toutes les circonstances, comme l’aurait fait un administrateur raisonnable et prudent.
+[45] La Cour accepte son point de vue et se dit en accord avec lui lorsqu’il a dit : [traduction] « J’ai travaillé là‑dessus au cours des années. J’y travaille encore », ou peut-être est-il encore en train d’y travailler. Il a fait tout ce qu’il pouvait, a-t-il dit. Mais, selon la Cour, il n’a rien fait quand il aurait dû faire quelque chose, c’est-à-dire avant que ne survienne le détournement de fonds. C’est là la tâche d’un administrateur. Malheureusement pour l’appelant, il a attendu trop longtemps et a tenté de corriger la situation alors qu’il était déjà trop tard.
+[46] La Cour est consciente du fait qu’il avait des problèmes personnels, il avait des difficultés financières, et tout cela doit être pris en compte. Mais telles difficultés ne dispensent pas un administrateur de l’obligation d’agir en toutes circonstances comme le ferait un administrateur raisonnable et prudent, ni de l’obligation de prendre les mesures que la Cour a évoquées auparavant, mesures qui lui auraient permis de s’assurer que les sommes étaient déduites et versées en temps voulu.
+[47] Malheureusement donc pour l’appelant, la Cour doit rejeter son appel et confirmer la cotisation établie par le ministre.
+Signé à New Glasgow (Nouvelle-Écosse), ce 7e jour d’avril 2009.
+« T. E. Margeson »
+Juge Margeson
+Traduction certifiée conforme
+ce 18e jour de juin 2009
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009CCI164
+N° DU DOSSIER DE LA COUR : 2008-1530(GST)I
+INTITULÉ : THOMAS RALPH JARROLD ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 3 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge T. E. Margeson
+DATE DES MOTIFS ÉCRITS
+DU JUGEMENT : Le 7 avril 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Shannon M. Currie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

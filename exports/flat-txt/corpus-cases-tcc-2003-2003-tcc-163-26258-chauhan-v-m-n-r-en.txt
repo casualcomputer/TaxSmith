@@ -1,0 +1,152 @@
+Title: Chauhan v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26258/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-163-26258-chauhan-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-03-27
+
+# Chauhan v. M.N.R.
+
+- Citation: 2003 TCC 163
+- Decision date: 2003-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3989, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chauhan v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-27
+Neutral citation
+2003 TCC 163
+File numbers
+2002-684(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-684(EI)
+BETWEEN:
+MOHINDER S. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 27, 2003 at Kelowna, British Columbia
+Before: The Honourable Judge L.M. Little
+Appearances:
+Counsel for the Appellant:
+R. Wilson Rutherford
+Counsel for the Respondent:
+Nadine Taylor Pickering
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the determination of the Minister is confirmation in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 27th day of March 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC163
+Date: 20030327
+Docket: 2002-684(EI)
+BETWEEN:
+MOHINDER S. CHAUHAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS
+[1] The Appellant has worked as a labourer in orchards in the Okanagan for over 25 years.
+[2] The Appellant's brother Pritam Chauhan ("Pritam") resides in Merritt, British Columbia and is employed on a full-time basis at a sawmill owned by Weyerhaeuser Canada Ltd.
+[3] Prior to 1999 Pritam and his wife, Jasbir Chauhan, owned a 50% interest in a property (the "Property") situated in Keremeos, British Columbia consisting of 20 acres on which they operated an orchard. The Property consisted of four separate five-acre parcels of land.
+[4] Chain Singh, the father of Pritam and the Appellant, held a 50% interest in the Property.
+[5] The Property produced apples, cherries, peaches, pears and apricots.
+[6] For approximately 15 years prior to 1998 the Appellant and his wife, Balvinderjit Chauhan ("Balvinderjit") managed the Property for Pritam and Jasbir and retained any money from the sale of fruit.
+[7] In 1999 Chain Singh transferred ownership in two five-acre parcels of the Property to the Appellant and Balvinderjit. The 10-acre parcel owned by the Appellant and his wife is referred to as the Appellant's Orchard.
+[8] In 1999 the Appellant and Balvinderjit continued the day-to-day management of the orchard located on the two five-acre parcels owned by Pritam and Jasbir. The 10-acre parcel owned by Pritam and Jasbir is referred to as Pritam's Orchard.
+[9] In 1999 the Appellant and Balvinderjit also managed the Appellant's Orchard.
+[10] In filing his income tax return for the 1999 taxation year the Appellant reported a farming loss in respect of the Appellant's Orchard.
+[11] In 1999 the Appellant also received a T-4 slip from Pritam which stated that he had employment income from Pritam in the amount of $8,559.20. The T‑4 slip related to the work reported on Pritam's Orchard.
+[12] The payroll records prepared by Pritam's accountant and the monthly records prepared by Jasbir indicate that in 1999 the Appellant did not commence working for Pritam as the manager of Pritam's Orchard until the 20th day of July 1999. (The Appellant said that he did not commence work until July 20, 1999 because he was recovering from a gall bladder operation.)
+[13] The Appellant testified and the payroll records (Exhibit A-1) indicate that the Appellant claims to have worked usually 9 to 10 hours per day from July 20, 1999 until October 14, 1999 without one day off for holidays or sickness, etc. (Note – I have indicated that the usual hours recorded by the Appellant per day were 9-10 hours per day. Of the 87 continuous days of work claimed by the Appellant he indicated that he only worked eight hours per day in seven of the 87 days and he claims to have worked 9-10 hours per day for 80 continuous days.)
+[14] The payroll records of the Appellant may be summarized as follows:
+July (20-31) - 113 hours reported
+August (1-31) - - 296 hours reported
+September (1-30) - 276 hours reported
+October (1-14) - 138 hours reported
+Total 823
+[15] The Appellant received the following cheques from Pritam in 1999 in connection with the work that he carried out on Pritam's Orchard:
+Date of Cheque
+Amount
+Date Cashed
+July 31, 1999
+$ 955.45
+October 07, 1999
+August 31, 1999
+2,166.29
+October 07, 1999
+September 30, 1999
+2,053.06
+October 20, 1999
+October 31, 1999
+1,356.33
+November 02, 1999
+[16] In the 1999 taxation year the Appellant and Balvinderjit also operated the orchard located on the two five-acre parcels that were owned by the Appellant and Balvinderjit. In other words, in addition to working 9-10 hours per day for 87 continuous days on Pritam's 10-acre orchard, the Appellant claims that he also worked on his own 10-acre orchard. (Note – the Appellant said that on several occasions he hired members of his family to assist with the operation of his orchard.)
+[17] In the 2000 taxation year the Appellant and Balvinderjit leased the 10 acres of Pritam's Orchard and operated an orchard on the whole 20 acres.
+[18] The Appellant applied for benefits under the Employment Insurance Act (the "Act") for the period July 20, 1999 to October 14, 1999 (the "Period").
+[19] By letter from J. Morgan of the Canada Customs and Revenue Agency dated the 11th day of December 2001, officials of Human Resources Development Canada were advised that the Appellant was not entitled to benefits under the Employment Insurance Act. Mr. Morgan's letter contained the following comments:
+It has been decided that he (i.e. the Appellant) was not employed in insurable employment during the period under review.
+This decision is issued pursuant to subsection 93(3) of the Employment Insurance Act and is based on paragraphs 5(1)(a) and 5(2)(i) of the Employment Insurance Act.
+B. ISSUES
+[20] (1) Whether the Appellant was employed by Pritam in the Period in insurable employment and if so, how many insurable hours did he have in the Period?
+(2) In the alternative, if the Appellant was employed under a contract of service in the Period, would the Appellant and Pritam have entered into a substantial similar contract of employment if they had been dealing with each other at arm's length?
+C. ANALYSIS
+[21] The question to be answered is whether or not the employment of the Appellant was excepted employment. The relevant provisions of the Act are as follows:
+5. (3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[22] The Appellant and Pritam are blood brothers. They are therefore related persons as defined by the Income Tax Act and they are therefore deemed not to be dealing with each other at arm's length for the purposes of paragraph 5(3)(b) of the Act.
+[23] In this situation the Appellant claims that he worked in Pritam's Orchard for a total of 823 hours from July 20 – October 14, 1999 and he claims that he and his wife operated their own 10-acre orchard at the same time.
+[24] The evidence also indicates that the Appellant did not cash the cheques received from Pritam for one or two months. For example, the evidence indicates that the Appellant received a cheque dated July 31, 1999 in the amount of $955.45 and the cheque was not cashed until October 07, 1999 (a period of more than two months).
+[25] I am not convinced that the Appellant's circumstances of employment were such that he would have entered into such a type of contract of employment with a non-arm's length employer and obviously, the payor, would not have dealt with third parties in such a manner. The Appellant did so because Pritam was his brother and Jasbir was his brother's wife.
+[26] In my opinion the Appellant has failed to discharge the onus placed upon him to demonstrate that the Respondent's determination is incorrect. Therefore, the appeal is dismissed and the determination of the Minister is confirmed.
+Signed at Vancouver, British Columbia, this 27th day of March 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC163
+COURT FILE NO.:
+2002-684(EI)
+STYLE OF CAUSE:
+Mohinder S. Chauhan and
+The Minister of National Revenue
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+February 27, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT:
+March 27, 2003
+APPEARANCES:
+Counsel for the Appellant:
+R. Wilson Rutherford
+Counsel for the Respondent:
+Nadine Taylor Pickering
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+R. Wilson Rutherford
+Firm:
+Kinsman and Company
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

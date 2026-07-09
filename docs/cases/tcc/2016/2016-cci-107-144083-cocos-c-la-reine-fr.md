@@ -1,0 +1,602 @@
+---
+title: "Cocos c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144083/index.do"
+last_modified: "2016-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 107"
+citation2: ""
+neutral_citation: "2016 CCI 107"
+decision_date: "2016-05-05"
+language: "fr"
+item_id: "144083"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3073
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:03:05.239000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dc289417f71e6428cd6df365f69397fcbdc2e61f689d9675376fe85e39896ed9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cocos c. La Reine
+
+- Citation: 2016 CCI 107
+- Decision date: 2016-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3073, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cocos c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-05
+Référence neutre
+2016 CCI 107
+Numéro de dossier
+2014-3278(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Nouvelle version révisée en date 17 juillet 2017.
+Contenu de la décision
+[TRADUCTION FRANÇAISE]
+Dossier : 2014-3278(IT)I
+ENTRE :
+IOANA ALICE COCOS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 7 octobre et le 18 novembre 2015,
+à Montréal (Québec).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Marie-Claude Landry
+JUGEMENT
+À la lumière des motifs de jugement ci-joints, l’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi sur l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009 est accueilli et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen sur le fait que l’appelante a le droit de déduire les dépenses suivantes pour l’entreprise 9119-5594 Québec Inc. et que ces dépenses seront exclues du revenu de l’appelante :
+2006
+2007
+2008
+2009
+Services publics
+370,65 $
+402,15 $
+395,85 $
+460,25 $
+Taxes d’affaires, permis et droits d’adhésion
+598,15 $
+5 627,20 $
+1 924,65 $
+1 202,25 $
+Téléphone et communications
+735,00 $
+743,75 $
+690,90 $
+992,95 $
+Frais de véhicule
+−
+1 121,00 $
+1 252,00 $
+614,72 $
+Total
+1 703,80 $
+7 894,10 $
+4 263,40 $
+3 270,17 $
+Les pénalités seront modifiées en conséquence.
+Signé à Ottawa, Canada, ce 5e jour de mai 2016.
+« Réal Favreau »
+Le juge Favreau
+[TRADUCTION FRANÇAISE]
+Référence : 2016 CCI 107
+Date : 20160505
+Dossier : 2014-3278(IT)I
+ENTRE :
+IOANA ALICE COCOS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel visant de nouvelles cotisations établies pour l’appelante en date du 10 juin 2014 en vertu de la Loi sur l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), modifiée (la « Loi ») par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2006, 2007, 2008 et 2009.
+[2] Dans le cadre des nouvelles cotisations, le revenu net de l’appelante a été augmenté comme suit :
+2006 : 16 039 $
+2007 : 21 686 $
+2008 : 16 810 $
+2009 : 19 767 $
+[3] Les augmentations des montants d’impôt et les pénalités découlant de ces nouvelles cotisations sont les suivantes :
+2006
+2007
+2008
+2009
+Montant d’impôt fédéral
+(net)
+2 041,55 $
+2 716,01 $
+2 105,00 $
+2 475,50 $
+Pénalité en vertu du
+paragraphe 163(2)
+1 257,78 $
+1 600,01 $
+1 273,93 $
+1 461,18 $
+[4] Pour établir les nouvelles cotisations en cause, le ministre s’est appuyé sur les hypothèses de fait suivantes énoncées au paragraphe 15 de la réponse à l’avis d’appel :
+a. Dans sa déclaration de revenus pour les années d’imposition visées par l’appel, l’appelante a déclaré les revenus suivants :
+2006
+2007
+2008
+2009
+Revenus selon le relevé T4 (versés par Valsol)
+−
+6 500 $
+12 800 $
+19 600 $
+Revenu en intérêts
+−
+−
+105 $
+−
+Prestations d’assurance-emploi
+413 $
+−
+−
+−
+Autres revenus
+11 500 $
+7 850 $
+−
+−
+Revenu total
+11 913 $
+14 350 $
+12 905 $
+19 600 $
+b. En tout temps pendant les années d’imposition en cause, l’appelante était la seule actionnaire de 9119-5594 Québec Inc. (ci-après, « Valsol »), une entreprise faisant affaires sous le nom « Valsol ».
+c. Les activités de Valsol consistaient principalement en l’importation et la vente en gros de produits chimiques, principalement de barils de perchloroéthylène, et la vente en gros de divers matériaux de construction.
+d. Au cours des années d’imposition visées par l’appel, Valsol comptait seulement deux employés : l’appelante et son conjoint, M. Valentine Brinza.
+e. L’appelante était responsable de créer les factures, de payer les fournisseurs et de préparer les bordereaux de dépôt.
+f. L’appelante accomplissait ces tâches limitées à partir de sa résidence personnelle, où elle recevait également le courrier de Valsol.
+g. L’utilisation de la résidence de l’appelante à des fins commerciales était négligeable.
+h. Toutes les activités comptables de Valsol étaient effectuées par le comptable de l’entreprise.
+i. M. Brinza agissait à titre de vendeur pour Valsol.
+j. Valsol menait la plupart de ses activités auprès d’un nombre limité de clients : Excellent Plastique/Les Emballages Driathi, Suprême Cintres et Produits et Groulx-Robertson Ltée.
+k. Au cours des années d’imposition visées par l’appel, les stocks de Valsol étaient entreposés chez « Transport Piché » à Anjou (Québec).
+l. Périodiquement, « Transport Piché » procédait également à un inventaire des stocks de Valsol.
+m. Tous les stocks acquis par Valsol étaient expédiés directement à son entrepôt.
+n. Les stocks vendus par Valsol étaient ramassés par les clients directement à l’entrepôt ou expédiés par « Transport Piché ».
+o. Valsol a réclamé les dépenses suivantes, qui ont été refusées suite à une vérification et confirmées suivant l’objection.
+Année d’imposition se terminant le
+2006-12-31
+2007-12-31
+2008-12-31
+2009-12-31
+Frais de véhicule
+3 428 $
+5 443 $
+7 290 $
+9 354 $
+Téléphone et communications
+2 100 $
+2 125 $
+1 974 $
+2 837 $
+Frais de bureau
+2 925 $
+2 381 $
+515 $
+1 832 $
+Services publics
+1 059 $
+1 149 $
+1 131 $
+1 315 $
+Taxes d’affaires, permis et droits d’adhésion
+1 709 $
+6 792 $
+5 499 $
+3 435 $
+Réparations et entretien
+1 579 $
+1 090 $
+401 $
+993 $
+Frais de location
+3 240 $
+−
+−
+−
+Dépenses de voyage
+−
+2 706 $
+−
+−
+Total des dépenses refusées à Valsol
+16 039 $
+21 686 $
+16 810 $
+19 767 $
+p. Tous les montants susmentionnés, qui ont été refusés, représentent les dépenses personnelles de l’appelante qui ont été payées par Valsol.
+q. La majorité des dépenses réclamées à Valsol étaient liées à la résidence personnelle de l’appelante située au 478, rue de Courchevel, à Laval (Québec).
+r. L’appelante a fait l’acquisition de la résidence en question le 4 juin 2004 et l’a vendue le 23 décembre 2008.
+s. L’appelante a contracté un prêt hypothécaire pour la résidence en question et effectuait des paiements mensuels de 258,20 $, ou environ 13 426 $ par année.
+t. L’appelante a effectué des rénovations à sa résidence en 2006, 2007 et 2008.
+u. Pour les exercices se terminant le 31 décembre 2006, 2007, 2008 et 2009, le bilan de Valsol n’a indiqué aucun montant dû aux actionnaires individuels.
+Frais de véhicule
+v. En ce qui concerne les dépenses réclamées par Valsol sous forme de frais de véhicule, la vaste majorité des écritures de journal dans les livres de Valsol représentent des paiements de cartes de crédit utilisées pour des dépenses personnelles.
+w. Parmi les écritures entrées dans les livres de Valsol comme frais de véhicule en 2006 figure un chèque au montant de 2 000 $ libellé au nom de l’appelante.
+x. Les autres dépenses réclamées comme frais de véhicules se rapportent à trois véhicules : une Toyota Camry 2002, une Honda Civic 1998 et une Volvo S40 2006, qui n’ont pas été utilisées par Valsol dans le but de générer un revenu.
+y. Valsol n’a pas besoin d’un véhicule moteur pour générer un revenu d’entreprise.
+z. Valsol, l’appelante et M. Brinza n’ont pas tenu de journal de bord pour consigner l’utilisation de leurs véhicules.
+Frais de téléphone
+aa. En ce qui concerne les frais de téléphone, Valsol a déclaré comme dépense tous les frais de téléphone et les frais d’interurbain à la résidence de l’appelante, ainsi que toutes les factures de téléphone cellulaire personnel de M. Brinza.
+Frais de bureau
+bb. Les frais de bureau déclarés par Valsol comprennent, entre autres, des paiements de carte de crédit, des achats effectués à la Société des alcools du Québec, chez Walmart, chez Home Depot, chez Future Shop et dans des supermarchés, ainsi qu’un abonnement au magazine Time.
+Services publics
+cc. Les montants déclarés par Valsol comme frais de services publics représentent le montant total des factures d’électricité de l’appelante pour la résidence située au 478, rue de Courchevel.
+Taxes d’affaires, permis et droits d’adhésion
+dd. Les montants déclarés par Valsol comme taxes d’affaires, permis et droits d’adhésion comprennent, entre autres, des primes d’assurance personnelle, des taxes municipales et scolaires se rapportant à la résidence personnelle de l’appelante, des paiements effectués à la Société d’assurance automobile du Québec, un montant de 5 000 $ décrit comme un achat de devises américaines pour l’année 2007 et plusieurs paiements de carte de crédit non justifiés en 2008 et 2009.
+Réparations et entretien
+ee. Les montants déclarés par Valsol comme dépenses de réparation et d’entretien représentent les dépenses personnelles de réparation et d’entretien effectués à la résidence personnelle de l’appelante ainsi que d’autres dépenses personnelles.
+Frais de location et dépenses de voyage
+ff. Les frais de location déclarés par Valsol en 2006 et les dépenses de voyage déclarées par Valsol en 2007 n’ont pas été engagés pour générer des revenus d’entreprise et l’appelante en a tiré un avantage personnel.
+[5] Pour évaluer la pénalité prévue au paragraphe 163(2) de la Loi pour les années d’imposition 2006, 2007, 2008 et 2009 et établir les nouvelles cotisations après l’expiration de la période de cotisation normale pour l’année d’imposition 2006 de l’appelante, le ministre a pris en compte les faits suivants :
+a. Les faits établis au paragraphe 15 de la réponse au présent avis :
+b. Le revenu déclaré par l’appelante pour les années de cotisation visées par l’appel était clairement insuffisant pour assumer ses frais de subsistance de base, encore moins pour effectuer ses versements hypothécaires.
+c. À l’exception de ses versements hypothécaires, la plupart, sinon la totalité des dépenses liées à la résidence personnelle de l’appelante ont été payées par Valsol.
+d. L’appelante participait activement aux activités de Valsol.
+e. L’appelante ne pouvait vraisemblablement pas ignorer que ses dépenses personnelles étaient assumées et déclarées par Valsol.
+f. L’appelante a délibérément omis d’inclure ces avantages reçus de Valsol dans son revenu déclaré.
+g. Les montants des avantages conférés à un actionnaire sont substantiels et représentent 133 % de son revenu total déclaré en 2006, 150 % en 2007, 129 % en 2008 et 100 % en 2009.
+h. L’appelante est une femme instruite, titulaire d’un diplôme d’études supérieures en génie chimique.
+[6] L’appelante a fourni les réponses écrites suivantes à la réponse du ministre à son avis d’appel :
+1. L’appelante admet les faits allégués aux paragraphes 15(a à e) de la réponse à l’avis d’appel.
+2. L’appelante rejette les faits allégués au paragraphe 15(f). Les « hypothèses de fait » de l’intimée sont, malheureusement, pour la plupart de simples hypothèses. En ce qui concerne les « tâches limitées accomplies à partir de sa résidence personnelle », l’intimée n’a pas tenu compte, entre autres, du temps consacré aux tâches suivantes :
+▪ recherche continue de nouveaux matériaux pouvant être exportés au Canada,
+▪ recherche d’usines à l’étranger et préparation des offres d’achat,
+▪ préparation de conversations écrites et de documents légaux dans le cadre des contrats avec de nouveaux fournisseurs,
+▪ rédaction de lettres officielles afin de demander la préparation et la livraison d’échantillons,
+▪ signature de contrats et communications verbales ou écrites continues avec les compagnies de fret,
+▪ préparation de dépliants publicitaires pour les produits de l’entreprise en vente et/ou liste de nouveaux produits offerts,
+▪ préparation des rapports exigés par Environnement Canada sur la commercialisation des solvants dangereux,
+▪ recherche d’outils destinés aux entrepôts de produits chimiques (pompes péristaltiques avec débitmètre),
+▪ préparation de fiches signalétiques (FS) pour chaque chargement fourni aux clients de Valsol,
+▪ préparation d’un rapport d’analyse chimique pour chaque chargement fourni aux clients de Valsol,
+▪ préparation de listes de clients potentiels à partir de recherches dans des bases de données,
+▪ préparation des étiquettes de Valsol devant remplacer les étiquettes du fabricant sur les barils de produits chimiques,
+▪ préparation et mise à jour du logo, des cartes professionnelles des enveloppes et du site Web de l’entreprise, etc.
+3. L’appelante rejette les faits allégués au paragraphe 15(g). L’appelante et son conjoint, M. Brinza, possédaient chacun un bureau au principal lieu d’affaires et utilisaient également le garage comme entrepôt pour l’entreprise. M. Brinza « agissait à titre de vendeur pour Valsol », comme l’indique le paragraphe 15(i) de la réponse à l’avis d’appel.
+Parmi les stocks entreposés dans le garage, on trouvait notamment des échantillons de produits chimiques liquides ou solides identifiés par des étiquettes et une FS (fiche signalétique); des outils servant à peser les barils (balances analytiques), des outils commandés spécialement pour transférer des solvants liquides (pompes) stockés dans des contenants spéciaux hermétiques, des échantillons de différents formats (entre 40 L et 100 L) de barils exigés par Environnement Canada pour le transport des solvants chlorés, des rouleaux de fils électriques, des boîtes de brides électriques; etc.
+Pour calculer la partie déductible, le fondement raisonnable suivant a été appliqué :
+a. Espace de travail, comprenant les deux bureaux et le garage (400 pi2)
+b. Superficie totale de la résidence : (1 100 pi2)
+en estimant à 35 % l’utilisation de la résidence aux fins de l’entreprise.
+4. En ce qui concerne le paragraphe 15(k), l’inventaire de Valsol était entreposé à deux endroits :
+a. « Transport Piché », situé au 8550, rue Ernest Cormier, Anjou (Québec), H1J 1B4;
+b. « RPM Transport », situé au 12705, rue du Parc, Mirabel (Québec), J7J 1P3.
+Alors que l’entrepôt situé à Anjou était utilisé pour stocker des substances chimiques et des matériaux de construction, l’entrepôt de Mirabel était utilisé exclusivement pour stocker des matériaux de construction.
+5. En ce qui concerne les paragraphes 15(1, m et n), l’intimée a écrit, au paragraphe 15(c), ce qui suit : « Les activités de Valsol consistaient principalement en l’importation (...) de produits chimiques (...) et la vente en gros de divers matériaux de construction ». Toutefois, les paragraphes précités font mention uniquement des stocks de produits chimiques et omettent les activités liées aux stocks de matériaux de construction.
+6. L’appelante rejette les faits allégués aux paragraphes 15(o et p). Les montants indiqués dans le tableau préparé ont été copiés par le préposé à l’audit à partir des livres préparés par les comptables agréés. Tous ces montants ont été déduits par le comptable des « dépenses d’administration ».
+Pour les années auditées 2006 et 2007, le comptable de l’appelante fournit l’explication suivante : le montant total de tous les chèques faits et encaissés au nom de l’appelante et de son conjoint en 2006 était de 18 500,00 $. Le comptable a imputé de petites parties de ce montant à différents comptes puisque l’entreprise était exploitée à partir de la résidence personnelle. Le solde a été débité pour payer le prêt dû par l’entreprise. La ventilation détaillée du compte est fournie ci-dessous :
+Loyer
+3 240,00*
+Réparations et entretien
+1 579,00*
+Permis et taxes
+1 709,00*
+Publicité
+1 000,00
+Bureau
+1 566,00*
+Téléphone
+1 488,00*
+Services publics
+650,00*
+Prêts
+7 268,00
+TOTAL
+18 500,00
+Tableau 1 : Ventilation du compte administratif pour 2006
+Remarque : les montants accompagnés d’un astérisque (*) représentent les montants refusés par l’auditeur et par l’agent d’opposition.
+Les montants exacts refusés par les auditeurs ont été recalculés à partir du tableau 1, comme suit :
+Tableau 1
+RR
+Loyer
+3 240,00
+3 240,00
+Réparations et entretien
+1 579,00
+1 579,00
+Permis et taxes
+1 709,00
+1 709,00
+Publicité
+1 000,00
+Bureau
+1 566,00
+1 360,00
+2 926,00
+Téléphone
+1 488,00
+672,00
+2 160,00
+Services publics
+650,00
+409,00
+1 059,00
+Frais de véhicule
+3 428,00
+TOTAL
+16 101,00
+Tableau 3 : Ventilation du compte administratif par le préposé à l’audit pour 2006
+Les montants déduits du compte bancaire commercial sont : 1 360 $ (achats par carte de crédit), 672 $ (factures de téléphone) et 449 $ (factures d’Hydro-Québec).
+La même technique a été appliquée pour 2007. Le montant total déduit du compte de dépenses administratives était de 2 800 $ et de petites parties de ce montant ont été réparties par le comptable de l’entreprise dans trois comptes, comme suit :
+Téléphone
+1 200,00
+Services publics
+Réparations et entretien
+510,00
+1 090,00*
+TOTAL
+2 800,00
+Tableau 2 : Ventilation du compte administratif pour 2007
+Remarque : les montants accompagnés d’un astérisque (*) représentent les montants refusés par l’auditeur et par l’agent d’opposition.
+Ainsi, pour les dépenses décrites précédemment pour les années 2006 et 2007, l’appelante ne peut fournir d’éléments de preuve écrits des déductions, puisqu’elles n’étaient pas fondées sur des retraits de comptes bancaires réels. Comme indiqué précédemment, le comptable agréé de la compagnie a appliqué des petites fractions du montant total déduit à chacun des comptes précités.
+7. L’appelante rejette les faits allégués au paragraphe 15(u). La position de l’appelante est présentée, avec des copies écrites des dépôts, au paragraphe 20 du présent document, au chapitre « Compensation du compte de prêt des actionnaires avec les profits ».
+Frais de véhicule
+8. L’appelante rejette les faits allégués au paragraphe 15(v). Les cartes de crédit commerciales ont été principalement utilisées pour des achats d’essence et de diesel et ont été comptabilisées dans la catégorie d’écritures « Frais de véhicule ». En outre, dans le cas des achats effectués à l’aide des cartes de crédit commerciales qui étaient considérés comme des achats à des fins personnelles, le solde a été remboursé à partir de comptes personnels (pièce A).
+Pour 2006, le montant refusé dans la catégorie « Compte pour véhicule » (3 428 $) représente la somme de quatre dépenses :
+a. Un chèque de 2 000 $ (entrée erronée) – une explication est fournie ci-après (paragraphe 10);
+b. Le solde de 1 428 $ représente trois paiements de carte de crédit : achats d’essence/diesel, comptes « Repas et divertissements », « Cadeaux d’entreprise » et « Réparation et entretien » (pièce B). Veuillez prendre note que la marchandise achetée chez Réno-Dépôt a été retournée et remboursée.
+9. Pour les années auditées subséquentes, un examen approfondi des grands livres du comptable révèle également, en plus des montants de carte de crédit commerciale, les écritures suivantes : entretien et réparation de véhicule automobile et écritures erronées (pièce B).
+2007
+2008
+2009
+Automobile Paillé
+Mécanique Edmond
+439,85
+681,99
+JT BB Automobile
+JT BB Automobile
+Expedex Transport
+Mécanique Jean Talon
+358,17
+139,86
+88,49
+665,96
+Reicar Inc.
+Ministre du Revenu
+Ministre du Revenu
+Billet d’avion
+International C
+573,18
+405,07**
+100,08**
+1 754,68**
+41,54
+TOTAL
+1 121,84
+1 252,48
+2 874,55
+Tableau 4 : Écritures dans la catégorie « Dépenses d’automobile et de camion » dans les livres du comptable
+Remarque : Les astérisques (**) représentent une écriture erronée.
+Toutes les explications précédentes ont pu être regroupées dans le tableau suivant :
+Année d’imposition se terminant le
+2006
+2007
+2008
+2009
+Dépenses d’automobile (ARC)
+3 428 $
+5 443 $
+7 290 $
+9 354 $
+Écritures erronées
+(2 000 $)
+(1 290 $)
+(2 066 $)
+(2 882 $)
+(4 535 $)
+Réparations et entretien de véhicule automobile
+1 121 $
+1 252 $
+614,72 $
+Essence/diesel
+138 $
+2 255 $
+3 155 $
+4 205 $
+Tableau 5 : Montant consacré annuellement aux achats d’essence par les deux vendeurs de Valsol
+En outre, compte tenu du fait que les deux tiers environ des dépenses d’automobile ont été engagées par M. Brinza et un tiers par Mme Cocos, le calcul pour l’année d’imposition 2008 donnerait moins de 2 000 $ pour M. Brinza et moins de 1 100 $ pour Mme Cocos. Par ailleurs, compte tenu du fait que le montant a été déclaré pour l’année complète, le calcul mensuel serait d’environ 160 $ pour M. Brinza et environ 100 $ pour Mme Cocos. Finalement, compte tenu du fait que le prix moyen de l’essence en 2008 était de 1,188 $ le litre (source : Statistique Canada), ce calcul donnerait un achat mensuel moyen de 135 litres d’essence pour M. Brinza et d’environ 85 litres d’essence pour Mme Cocos.
+Compte tenu des ventes réalisées par l’entreprise au cours des années contestées et du fait que l’appelante et son conjoint agissaient à titre de vendeurs, il est évident que les dépenses déduites ne représentent qu’une fraction minime du montant total déboursé dans le but de générer un revenu d’entreprise.
+En fait, dans le cas des achats effectués à l’aide des cartes de crédit commerciales et considérés comme des achats à des fins personnelles, le solde a été remboursé à partir de comptes personnels (pièce B).
+10. En ce qui concerne le paragraphe 15(w), une copie du chèque mentionné a été jointe (pièce C). Vous trouverez également ci-joint une copie des livres du comptable pour 2006. Ces éléments permettront d’expliquer une erreur d’écriture manuelle : le montant de 2 000 $ aurait dû être ajouté par le comptable dans la colonne suivante de la charte, avec tous les chèques faits aux noms des actionnaires.
+11. Au cours des années d’imposition citées, l’entreprise et ses deux employés n’ont utilisé qu’une seule voiture (Honda Civic 1998 en 2008 et Volvo 2006 en 2009) ou deux voitures différentes, mais jamais les trois voitures citées au paragraphe 15(x).
+12. L’appelante rejette les faits allégués au paragraphe 15(y). Les activités commerciales de Valsol consistaient en la vente en gros de produits chimiques et de matériaux de construction. L’appelante et M. Brinza agissaient à titre de vendeurs. Leurs activités consistaient, entre autres, à joindre de nouveaux clients afin de leur présenter des listes écrites de produits ou d’identifier des produits sur demande, à communiquer avec les clients établis relativement à la collecte d’échantillons ou à des questions financières, à réparer et étalonner des outils et à ramasser et transporter des échantillons de produits chimiques au laboratoire afin d’en analyser les propriétés.
+En fait, l’Agence du revenu du Canada, dans un dossier intitulé « Documenter l’utilisation d’un véhicule », stipule ce qui suit :
+Le fait qu’une entreprise viable existe est habituellement un indicateur tangible que la personne a engagé des dépenses pour un véhicule, puisqu’il est extrêmement difficile d’exploiter une entreprise sans se déplacer à l’occasion. Une demande de remboursement minime ne nécessite pas de documentation approfondie afin de démontrer que le déplacement a eu lieu pour affaires.
+Frais de téléphone
+13. L’appelante rejette les faits allégués au paragraphe 15(aa). Vous trouverez ci-joint (pièce D) un exemple des frais de téléphone déclarés dans le compte « Téléphone et communication ». Puisque le site Web de l’Agence du revenu du Canada ne fournissait pas et ne fournit toujours pas d’explications claires concernant les déductions autorisées pour les frais de téléphone d’entreprise, le calcul a été fondé sur divers renseignements concernant les pourcentages acceptés pour ces déductions. Toutefois, l’information retenue par l’appelante est que les factures de services Internet et de téléphone cellulaire auraient dû être au nom de la société.
+Frais de bureau
+14. L’appelante rejette les faits allégués au paragraphe 15(bb).
+a. La majorité des dépenses engagées auprès de la Société des alcools et Walmart ont été effectuées pendant la période de Noël ou aux anniversaires de fournisseurs, de clients ou de représentants de banques. À ces occasions, Valsol a préparé des paniers-cadeaux (bouteilles de vin, chocolats fins et biscuits) qui ont été présentés avec une carte de souhaits. Tous ces cadeaux destinés à une personne ou un groupe en particulier au sein de l’entreprise devraient être déduits, selon le comptable agréé de l’entreprise, d’un autre compte (« Cadeaux d’entreprise »). Une liste des personnes qui ont reçu ces cadeaux est jointe (pièce E). Quelques achats (pièce E) effectués au magasin Walmart représentent des fournitures de bureau, qui ont été déduites du compte approprié (« Frais de bureau »).
+b. Les achats chez Future Shop représentent exclusivement des frais de bureau : télécopieur, modem, logiciels (MS Office), cartouches d’encre, etc.
+c. Des petits montants ont été déboursés pour des achats de denrées pour les dîners pris à l’entrepôt lorsque l’appelante devait passer de longues périodes sur les lieux. L’appelante et son conjoint participaient activement aux activités à l’entrepôt, dont les suivantes :
+• consignation périodique des produits et entrée en stock,
+• vérification des conteneurs de 20 pi à leur arrivée et déchargement des barils,
+• échantillonnage et analyse des propriétés des produits chimiques,
+• retrait des étiquettes initiales et application des étiquettes de Valsol,
+• remplissage de barils de différentes capacités,
+• chargement, déchargement, transport et manipulation de matériaux de construction,
+• chargement des barils de produits chimiques vides en vue de les envoyer aux sites de recyclage,
+• installation, réparation et étalonnage d’outils, etc.
+Services publics
+15. L’appelante rejette les faits allégués au paragraphe 15(cc). Le montant déclaré pour Hydro-Québec comme frais de services publics représente 408,51 $ en 2006 et 638,95 $ en 2007.
+Taxes d’affaires, permis et droits d’adhésion
+16. En ce qui concerne le paragraphe 15(dd), vous trouverez ci-dessous deux paragraphes d’un document sauvegardé dans l’ordinateur de Valsol, intitulé « Les revenues d’entreprise et de professions » et publié en 2008 par le gouvernement provincial :
+▪ 6.12.5 Primes supplémentaires d’assurance
+Vous pouvez déduire la totalité des frais liés aux primes supplémentaires d’assurance payés pour le véhicule à moteur que vous utilisez pour les besoins de votre entreprise.
+▪ 6.17 Impôts fonciers (taxes municipales et scolaires)
+Vous pouvez déduire les impôts fonciers relatifs aux biens (terrain et bâtiment) que vous utilisez pour exploiter une entreprise. Ils comprennent les taxes municipales et les taxes scolaires, à l’exclusion de toute partie remboursable de ces taxes. Les taxes municipales comprennent, entre autres, les taxes d’eau, d’égout, de voirie et d’enlèvement des ordures, les taxes propres à un secteur pour les installations ou les services publics et les taxes de financement des municipalités ou des communautés urbaines, mais elles ne comprennent pas les droits de mutation.
+En ce qui concerne la dépense de 5 000 $, l’explication est la suivante : Valsol a payé la plupart de ses fournisseurs en dollars américains. Cette dépense de 5 000 $ représente, encore une fois, une écriture erronée puisque le montant aurait dû être ajouté dans une autre colonne dans la charte des comptes de 2007. Vous trouverez le fichier de la charte de 2007 (pièce F) à titre de confirmation.
+Explications sur les calculs du comptable – Annexe F
+Réparations et entretien
+17. Concernant les frais de réparations et d’entretien pour 2006 et 2007, l’appelante ne peut fournir aucune preuve puisque, comme il a été indiqué au paragraphe 3, ces déductions n’ont pas été fondées sur des retraits de comptes bancaires réels.
+Pour 2008 (401,00 $) et 2009 (993,00 $), des copies des chèques émis ont été fournies (pièce G).
+Frais de location et dépenses de voyage
+18. Concernant le paragraphe 15(ff) :
+a. Comme il a été indiqué au paragraphe 4 de ce document, et comme le montre le tableau 3, l’appelante n’a pas fourni d’éléments de preuve écrits pour ce compte puisque ces déductions n’ont pas été fondées sur des retraits de comptes bancaires réels.
+Dépenses de voyage
+Même si tous les fournisseurs de Valsol se trouvent à l’étranger (Roumanie, Fédération de Russie, États-Unis, etc.), seules deux dépenses de voyage en avion ont été déclarées, la première en 2007 et la deuxième en 2009. Aucune dépense de voyage n’a été déclarée ou déduite en 2005, l’année où l’entreprise a commencé à négocier et à importer des produits chimiques, ou en 2008 et 2009, années où l’entreprise a ajouté de nouveaux fournisseurs, malgré le fait que les deux partenaires ont visité des installations à l’étranger. Par ailleurs, aucune autre dépense de voyage (bus, train, taxi), d’hébergement (hôtel) ou de repas n’a été déclarée ou déduite. Des éléments de preuve écrits complets des billets électroniques des voyages en avion effectués en 2009 sont présentés (pièce H).
+Compensation du compte de prêt des actionnaires avec les profits
+19. L’appelante rejette les faits allégués au paragraphe 15(u). En fait, après avoir pris possession de l’ensemble des états financiers et les avoir vraisemblablement évalués, l’avocate de l’intimée a déclaré ce qui suit :
+« Pour les exercices se terminant le 31 décembre 2006, 2007, 2008 et 2009, le bilan de Valsol n’a indiqué aucun montant dû aux actionnaires individuels. »
+20. Tous les montants en cause pourraient être déduits du montant dû aux actionnaires (497 792 $), dans la catégorie « Prêts remboursables » figurant dans l’état financier le plus récent de l’entreprise. Au cours des années auditées, l’appelante a injecté plus de 75 000 $ de son compte bancaire personnel. Des éléments de preuve des montants débités du compte bancaire personnel de l’appelante et des éléments de preuve des mêmes montants crédités au compte bancaire commercial et des virements télégraphiques de son compte bancaire personnel vers les comptes bancaires commerciaux des fournisseurs sont également joints (pièce I).
+Évaluation des pénalités
+21. Aucun rapport recommandant une pénalité n’a été émis par l’auditeur. Conformément aux dispositions du paragraphe 163(2) de la Loi de l’impôt sur le revenu, le ministre du Revenu national ne peut imposer de pénalités qu’aux contribuables qui sciemment ou dans des circonstances équivalant à faute lourde, font un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse rempli, produit ou présenté, selon le cas, pour une année d’imposition, ou y participent, y consentent ou y acquiescent.
+22. Concernant la preuve de « faute lourde », le fardeau de la preuve repose maintenant sur le ministre pour l’année frappée de prescription, à savoir 2006;
+23. L’appelante rejette les faits allégués au paragraphe 16(b). L’intimée doit tenir compte du fait que pendant toutes les années d’imposition auditées, l’appelante était mariée et habitait avec son conjoint. Par ailleurs, lorsque l’intimée a écrit que « le revenu déclaré par l’appelante (...) était clairement insuffisant pour assumer ses frais de subsistance de base », l’intimée aurait dû tenir compte des éléments de preuve que l’appelante avait déjà remis aux auditeurs indiquant les montants reçus de ses parents au cours des années auditées.
+24. Pendant toute la période pertinente, le commis-comptable de l’appelante a consigné les écritures comptables et le comptable agréé a examiné les écritures et effectué plusieurs rajustements. L’appelante estime qu’elle avait mis en place un système pour tenir des dossiers adéquats et qu’elle n’a pas sciemment fait de faux énoncé dans ses déclarations de revenus ou dans celles de la société.
+25. Comme l’a noté le juge Strayer dans l’arrêt Venne c. R, (1984), 84 CAF 6247 (FedTD), aux pages 6256 à 6249 (sic).
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi [...]
+[...] En vertu du paragraphe 163(3), « c’est au ministre que revient la responsabilité d’établir les faits qui justifient l’imposition de la pénalité. » Il faut prendre note que pour que la pénalité soit appliquée, il doit y avoir un degré de culpabilité plus élevé, impliquant une connaissance réelle ou une faute lourde, que celui prévu à l’alinéa 152(4) pour établir de nouvelles cotisations remontant à plus de quatre ans lorsqu’une simple négligence semble suffisante [...]
+CONCLUSIONS
+26. Bien que les ventes annuelles de Valsol se chiffrent à au moins 200 000 $, le sous-procureur général du Canada a estimé que l’entreprise n’avait pas besoin d’un principal lieu d’affaires, tel qu’indiqué au paragraphe 15(g), ni d’un véhicule automobile, tel qu’indiqué au paragraphe 15(y). L’entreprise et ses vendeurs n’avaient pas non plus besoin de téléphones ou de connexion Internet, tel qu’il l’a établi en rejetant les frais de téléphone et de communication. Dans sa réponse à l’avis d’appel, l’intimée a tenté de minimiser les activités de l’appelante, se disant convaincue qu’elle accomplissait des « tâches limitées » [paragraphe 15(f)] auprès d’un nombre limité de clients [paragraphe 15(j)].
+27. Les auditeurs de l’ARC, les agents d’opposition et les avocats d’appel ont convenu de refuser non seulement des montants partiels, mais également le montant total déclaré dans les états financiers, et ce, pour 7 (sept) ou 8 (huit) types de dépenses. Si l’on tient compte du fait que les états financiers annuels de Valsol comprennent au total 10 (dix) catégories de dépenses, l’ARC a refusé au total 80 % des dépenses totales déclarées.
+28. Selon les rapports de Dun & Bradstreet, « chez les entreprises comptant moins de 20 employés, la probabilité de survivre pendant quatre années d’activité n’est que de 37 % ». Valsol a amorcé l’importation et la commercialisation de produits en janvier 2005 et était active avant que l’Agence du revenu du Canada commence son audit, en juillet 2010.
+29. Les dépenses d’entreprises étaient engagées directement pour permettre à l’appelante de générer un revenu. Toutes les réclamations de l’entreprise établies par le comptable agréé sont raisonnables et compatibles avec le type d’entreprise de gros indiqué (« Frais de véhicule », « Frais de téléphone » et « Dépenses pour utilisation de la résidence aux fins de l’entreprise »). En outre, certaines dépenses engagées par Valsol n’ont pas été déclarées ou déduites, mais ont été entièrement financées par les deux partenaires.
+30. Quelques achats effectués à l’aide de cartes de crédit auraient probablement dû être déduits d’autres comptes comme « Frais de mise en exploitation d’entreprise », « Repas et divertissements », « Dépenses prépayées », « Voyages », mais ces comptes n’existent pas dans les livres comptables de Valsol. En fait, Valsol a déduit tous ses achats de 9 (neuf) comptes ou, à compter de 2007, de 10 (dix) comptes parmi les 26 (vingt-six) comptes indiqués par l’Agence du revenu du Canada (pièce J) dans le chapitre « Frais d’entreprise ». Une ventilation plus exhaustive de l’ensemble des dépenses aurait probablement fourni une image plus précise et plus réaliste des débours de l’entreprise.
+[7] Mme Cocos a témoigné lors de l’audience et a déposé au titre de la pièce A-1 ses réponses à la réponse à l’avis d’appel. Elle est titulaire d’une maîtrise en génie chimique (environnement) de l’École polytechnique de l’Université de Montréal et travaille maintenant à obtenir un doctorat. Au cours des années visées par l’appel, elle était mariée à M. Valentine Brinza et était l’unique actionnaire de 9119‑5594 Québec Inc., une entreprise faisant affaires sous le nom Valsol (« Valsol »). Valsol a amorcé ses activités commerciales en 2005; ces activités consistaient principalement en l’importation et la vente en gros de produits chimiques et la vente en gros de divers matériaux de construction. Valsol ne comptait que deux employés, à savoir l’appelante et son conjoint. Le principal lieu d’affaires de Valsol était la résidence personnelle de l’appelante, située au 478, rue de Courchevel, à Laval (Québec), qui a été achetée le 4 juin 2004 et a été vendue le 23 décembre 2008. En 2009, l’appelante a acheté une autre résidence située au 2929, rue Apple Hill, à Baie-D’Urfé (Québec), qui est devenue le principal lieu d’affaires de Valsol. En 2011, elle s’est séparée de son conjoint et Valsol a cessé ses opérations.
+[8] Mme Cocos a déclaré qu’elle a contracté un emprunt et obtenu un prêt hypothécaire pour sa résidence de Laval, dont les versements mensuels s’élevaient à 258,20 $, ou environ 13 426 par année. Le revenu net de son conjoint pour les années 2006 à 2009 se décrit comme suit :
+2006 : 12 766 $
+2007 : 15 929 $
+2008 : 11 400 $
+2009 : 24 600 $
+[9] Mme Cocos allègue qu’elle a reçu des montants entre 8 000 $ et 9 000 $ par année de son père pour l’aide à effectuer ses versements hypothécaires.
+[10] À l’étape d’opposition, le représentant de l’appelante a soumis une liasse de factures, qui comprenaient des relevés de cartes de crédit, des relevés de compte de téléphone, des factures de services Internet et de câblodistribution, des frais de services publics comme Hydro-Québec, des taxes municipales et scolaires, des assurances et des billets d’avion pour deux voyages en Roumanie. Aucune imputation n’a été faite pour le composant personnel de ces dépenses. Toutes les dépenses ont été déclarées comme des déductions au niveau de l’entreprise.
+Dispositions pertinentes de la Loi [11] Les dispositions suivantes de la Loi sont pertinentes aux fins du présent appel :
+15(1) Avantages aux actionnaires. La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire, à un associé d’une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l’actionnaire, de l’associé ou de l’actionnaire pressenti, selon le cas, pour son année d’imposition qui comprend ce moment,
+[...]
+sauf dans la mesure où cette valeur est réputée en vertu de l’article 84 constituer un dividende.
+152(4) Cotisation et nouvelle cotisation. Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenus pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+(ii) soit a présenté au ministre une renonciation, selon le formulaire prescrit, au cours de la période normale de nouvelle cotisation applicable au contribuable pour l’année;
+[...]
+152(4.01) Cotisation à laquelle s’applique l’alinéa 152(4)a) ou b). Malgré les paragraphes (4) et (5), la cotisation, la nouvelle cotisation ou la cotisation supplémentaire à laquelle s’appliquent les alinéas (4)a) ou b) relativement à un contribuable pour une année d’imposition ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’un des éléments suivants :
+a) en cas d’application de l’alinéa (4)a) :
+(i) une présentation erronée des faits par le contribuable ou par la personne ayant produit la déclaration de revenus de celui-ci pour l’année, effectuée par négligence, inattention ou omission volontaire ou attribuable à quelque fraude commise par le contribuable ou cette personne lors de la production de la déclaration ou de la communication de quelque renseignement sous le régime de la présente loi,
+(ii) une question précisée dans une renonciation présentée au ministre pour l’année;
+163(2) Faux énoncés ou omissions. Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants
+[...]
+Analyse [12] La seule question soulevée dans cet appel consiste à déterminer la portion, le cas échéant, des dépenses refusées à Valsol qui ont été engagées à des fins commerciales. Le problème découle des lacunes dans la manière par laquelle les livres et les dossiers de Valsol ont été tenus par le comptable de l’entreprise, qui était responsable de la préparation des états financiers, des déclarations de revenus et des rapports de taxes sur les produits et services.
+[13] Toutes les dépenses refusées énumérées au paragraphe (o) dans la réponse à l’avis d’appel ont été déduites par le comptable sous forme de « dépenses administratives » sans apporter d’ajustement aux composants personnels de ces dépenses malgré le fait qu’un grand nombre d’entre elles étaient liées à la résidence personnelle de l’appelant, à des voyages en Roumanie et à l’utilisation de véhicules. Comme l’a expliqué Mme Cocos, la pratique comptable chez Valsol consistait à prendre le montant total de tous les chèques écrits et encaissés par elle et son conjoint et d’imputer une partie de ce montant total à différents comptes de dépenses. Le solde était ensuite débité pour payer le prêt que Valsol lui devait.
+Utilisation de la résidence aux fins de l’entreprise [14] Je ne partage pas l’avis de l’auditeur de l’ARC que seules des tâches limitées ont été effectuées à partir de la résidence personnelle de Mme Cocos. Je ne crois pas que l’appelante a utilisé sa résidence personnelle comme une simple adresse postale pour Valsol. L’appelante, de même que son conjoint, qui agissait à titre de vendeur pour Valsol, possédaient leurs bureaux à cet endroit. Par ailleurs, le garage a été utilisé pour entreposer des échantillons de produits chimiques liquides et solides, des balances analytiques, des pompes, des rouleaux de fils électriques et des boîtes de brides électriques. L’attribution proposée de 35 % pour l’utilisation de la résidence aux fins de l’entreprise me semble raisonnable dans les circonstances (400 pi2 par rapport à la superficie totale de la résidence de 1 100 pi2)
+[15] Par conséquent, Valsol est autorisée à déduire 35 % des frais de services publics (factures d’électricité résidentielle d’Hydro-Québec, taxes municipales et scolaires et primes d’assurance résidentielle). La dépense de 5 000 $ effectuée en 2007 et décrite comme un « achat de devises américaines » est déductible puisque Valsol a payé ses fournisseurs en devises américaines.
+[16] En ce qui concerne les réparations et l’entretien de la résidence, aucun montant n’est déductible puisque l’appelante n’a pas fourni de renseignements exacts concernant la nature des travaux de réparation et d’entretien effectués.
+Frais de téléphone [17] Valsol a déclaré comme dépense la totalité des frais de téléphone résidentiel, y compris les frais d’interurbain ainsi que les factures de téléphone cellulaire personnel de M. Brinza. Puisqu’une partie des frais de téléphone et de communication a été nécessairement engagée à des fins commerciales, je considère que 35 % des dépenses sont déductibles puisqu’aucune observation n’a été fournie par l’appelante pour justifier un pourcentage plus élevé.
+Frais de bureau [18] Les frais de bureau déclarés par Valsol comprennent des paiements de carte de crédit, des achats effectués à la Société des alcools du Québec, chez Walmart, chez Home Depot, chez Future Shop et dans des supermarchés, ainsi qu’un abonnement au magazine Time. L’appelante a expliqué que la majorité des dépenses à la Société des alcools et chez Walmart ont été engagées pendant la période de Noël pour l’achat des cadeaux d’affaires destinés à des fournisseurs, des clients ou des représentants de banques. L’appelante a fourni une liste de personnes ayant supposément reçu ces cadeaux, mais aucune de ces personnes ne s’est présentée devant la Cour pour confirmer avoir reçu un de ces cadeaux. Pour ce motif, aucun montant ne peut être déduit de ce compte.
+[19] Les achats chez Future Shop représentent exclusivement des fournitures de bureau qui, en principe, sont déductibles comme dépenses d’affaires, mais comme aucun montant n’a été fourni à la Cour, aucune déduction n’est autorisée pour ces dépenses.
+[20] En ce qui concerne les denrées achetées pour les dîners à l’entrepôt par l’appelante et son conjoint, aucune dépense n’est déductible puisqu’aucun renseignement en termes de coûts et de fréquence n’a été consigné.
+[21] Finalement, l’appelante n’a pas fourni les motifs de l’abonnement au magazine Time; par conséquent, cette dépense n’est pas déductible.
+Frais de location et dépenses de voyage [22] Des frais de location ont été déclarés par Valsol en 2006 et des dépenses de voyage ont été déclarées en 2007. L’appelante reconnaît qu’elle n’a pu fournir de renseignements concernant ces déductions puisqu’elles n’étaient pas fondées sur des retraits de comptes bancaires réels. Dans ces circonstances, ces dépenses ne sont pas déductibles.
+Frais de véhicule [23] Compte tenu de la nature des activités menées par Valsol, il est raisonnable de penser qu’une partie des frais de véhicules déclarés ont été engagés à des fins commerciales. Par exemple, les trajets jusqu’aux entrepôts, pour rencontrer des clients ou aller à la banque afin de faire des dépôts et acheter des devises américaines sont parfaitement légitimes. Le problème en l’espèce est que Valsol, l’appelante et son conjoint n’ont pas conservé de journal de bord concernant l’utilisation de leurs véhicules et qu’aucune imputation n’a été faite pour l’utilisation personnelle des véhicules.
+[24] En me fondant sur les écritures entrées dans la catégorie « Dépenses d’automobile et de camion » dans les livres du comptable, j’accepte que les dépenses suivantes soient déduites pour les réparations et l’entretien des véhicules :
+2006 : nul
+2007 : 1 121 $
+2008 : 1 252 $
+2009 : 61 472 $
+[25] Concernant les achats d’essence et de diesel, l’appelante a soumis une estimation du kilométrage mensuel effectué par elle et son conjoint pour la période de 2006 à 2008 entre leur résidence de Laval, et pour l’année 2009, entre leur résidence de Baie-D’Urfé et les entrepôts, les banques, le bureau du comptable et les bureaux de leurs clients potentiels et établis. Son estimation était supposément basée sur les achats d’essence au cours de chaque année. Pour la période de 2006 à 2008, les déplacements d’affaires effectués par l’appelante et son conjoint ont été estimés à 2 424 kilomètres par mois. Pour 2009, le kilométrage mensuel a été estimé à 3 403. Aucun détail sur le calcul du kilométrage estimé n’a été soumis à la Cour pour examen. Les achats d’essence mensuels effectués par Valsol n’ont pas été calculés et la consommation d’essence de chaque véhicule n’a pas été fournie. Le kilométrage estimé calculé par l’appelante n’est pas une source fiable d’information. Pour ce motif, aucun montant ne peut être déduit dans cette catégorie.
+[26] Les montants des écritures erronées entrées chaque année par le comptable ne sont pas déductibles puisqu’aucune explication claire n’a été fournie pour expliquer pourquoi ils ont été inclus dans ce compte particulier et dans quels comptes ils auraient dû être inscrits.
+Nouvelles cotisations de 2006 et pénalité pour faute lourde [27] Les nouvelles cotisations pour l’année d’imposition 2006 ont été établies après l’expiration de la période de cotisation normale et le ministre a imposé une pénalité pour faute lourde à chacune des années visées par l’appel.
+[28] Les éléments de preuve démontrent que l’appelante participait activement aux activités de Valsol et qu’elle ne pouvait vraisemblablement ignorer que ses dépenses personnelles étaient payées et déclarées par Valsol. À l’exception de ses versements hypothécaires, la plupart des dépenses liées à la résidence personnelle de l’appelante ont été payées par Valsol. Le revenu déclaré par l’appelante et son conjoint pour les années d’imposition visées par l’appel était clairement insuffisant pour assumer les frais de subsistance de base du foyer. Les allégations de l’appelante concernant l’aide financière reçue de son père n’ont pas été corroborées.
+[29] Les avantages conférés à l’appelante par Valsol sont substantiels en comparaison avec le revenu déclaré et l’appelante a sciemment omis d’inclure ces avantages dans le revenu déclaré. Je peux raisonnablement conclure, si je me fie à la manière par laquelle les livres et les dossiers de Valsol ont été tenus, que l’appelante savait ou aurait dû savoir que des présentations erronées attribuables à une faute lourde ont été effectuées dans ses déclarations de revenus en ce qui concerne les montants refusés par le ministre. Selon les déclarations de revenus de Valsol pour les années d’imposition 2006, 2007, 2008 et 2009, le bilan n’a indiqué aucun montant dû aux actionnaires.
+[30] Par conséquent, le ministre est parvenu à établir que le sous-alinéa 152(4)a)(i) et le paragraphe 163(2) de la Loi devraient s’appliquer pour justifier les pénalités pour faute lourde après l’expiration de la période de cotisation normale.
+[31] Pour ces motifs, l’appel est accueilli et l’affaire est renvoyée au ministre du Revenu national pour l’établissement d’une nouvelle cotisation au motif que les dépenses suivantes peuvent être déduites par 9119-5594 Québec Inc. et doivent être exclues du revenu de l’appelante :
+[32]
+2006
+2007
+2008
+2009
+Services publics
+370,65 $
+402,15 $
+395,85 $
+460,25 $
+Taxes d’affaires, permis et droits d’adhésion
+598,15 $
+5 627,20 $
+1 924,65 $
+1 202,25 $
+Téléphone et communications
+735,00 $
+743,75 $
+690,90 $
+992,95 $
+Frais de véhicule
+−
+1 121,00 $
+1 252,00 $
+614,72 $
+Total
+1 703,80 $
+7 894,10 $
+4 263,40 $
+3 270,17 $
+Les pénalités seront modifiées en conséquence.
+Signé à Ottawa, au Canada, ce 5e jour de mai 2016.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2016 CCI 107
+NO DU DOSSIER DE LA COUR :
+2014-3278(IT)I
+INTITULÉ :
+Ioana Alice Cocos et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 7 octobre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 5 mai 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Marie-Claude Landry
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Me William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

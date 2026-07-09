@@ -1,0 +1,177 @@
+Title: Kasaboski v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25992/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-356-25992-kasaboski-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-19
+
+# Kasaboski v. The Queen
+
+- Citation: 2005 TCC 356
+- Decision date: 2005-05-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3725, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kasaboski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-19
+Neutral citation
+2005 TCC 356
+File numbers
+2004-4036(IT)I, 2004-4037(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+2004-4036(IT)I
+BETWEEN:
+MICHAEL KASABOSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2005 and judgment delivered orally
+on May 19, 2005, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Frank Velle
+Counsel for the Respondent:
+Jonathon Penney
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis in computing income, the Appellant is entitled to deduct expenses in the amount of $7,568.60 pursuant to paragraph 8(1)(g).
+Signed at Toronto, Ontario, this 19th day of May, 2005.
+“E.A Bowie”
+Bowie J.
+2004-4037(IT)I
+BETWEEN:
+MARIA KASABOSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2005 and judgment delivered orally
+on May 19, 2005, at Toronto, Ontario,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Agent for the Appellant:
+Frank Velle
+Counsel for the Respondent:
+Jonathon Penney
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis in computing income, the Appellant is entitled to deduct expenses in the amount of $5,106.40 pursuant to paragraph 8(1)(g).
+Signed at Toronto, Ontario, this 19th day of May, 2005.
+“E.A. Bowie”
+Bowie J.
+Citation: 2005TCC356
+Date: 20050519
+Docket: 2004-4036(IT)I
+2004-4037(IT)I
+BETWEEN:
+MICHAEL KASABOSKI and MARIA KASABOSKI,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] These two Appellants are husband and wife. They work as a team driving a long distance highway transport truck for TransX Ltd. They each appeal their assessment for income tax for the 2002 taxation year. Their dissatisfaction with the assessments is specifically as to the amount that the Minister of National Revenue has permitted them to deduct for meals that they were required to purchase, without any reimbursement from their employer, while travelling in the course of their work. The appeals were brought under the Court’s informal procedure. I heard the evidence of the two Appellants separately, one after the other, followed by argument applicable to both cases.
+[2] The Appellants live in Bancroft Ontario. They drive a truck owned by their employer to whatever destination is assigned to them. Generally they are away from home, on the road, for about two weeks at a time. Each such trip is followed by about two days off. These trips take them to all parts of North America. When they are on the road they are generally under severe time constraints in that they have a schedule that they must meet. Each of them is permitted by the relevant regulations to drive a maximum of 13 hours in a 24-hour period, so they drive shifts of about five hours. The tractor has a bunk in it, and when one is driving the other is able to sleep in the bunk. Their meal times are, of necessity, not entirely regular, but they try to eat their meals at the time when they change drivers at the end of a five-hour shift. This must vary, of course, depending on where they are, and on the facilities available. The tractor is also equipped with a small refrigerator, but they both explained that it is very difficult to carry any significant amount of food with them due to their frequent border crossings between Canada and the United States, and due to spoilage. For the most part, therefore, they take their meals in restaurants, usually truck stops, as that is where there are facilities to park a long distance rig.
+[3] Although they are away from home for two weeks at a time, they seldom stay in motels or hotels. They sleep in the bunk as I have described; only if the truck is being repaired and they have to remain overnight at a location to wait for repairs to be completed do they take a motel room, and then TransX reimburses them for it. Otherwise, if they choose to stay in a motel then they have to bear the expense themselves. They take showers at truck stops, and try to do so once a day where possible. They also gave evidence that while they are away from home they must arrange for their driveway to be cleared of snow in the winter, and for their grass to be cut in the other months, and they must pay someone to check on their house from time to time.
+[4] Paragraph 8(1)(g) of the Income Tax Act (the Act) makes provision for employees of transport companies to deduct the cost of meals and lodging when computing their income for the year, to the extent that they have not been reimbursed. The amount that may be deducted is limited, however, by the specific provisions of subsection 67.1(1). Those read as follows:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(a) …
+(g) where the taxpayer was an employee of a person whose principal business was passenger, goods, or passenger and goods transport and the duties of the employment required the taxpayer, regularly,
+(i) to travel, away from the municipality where the employer's establishment to which the taxpayer reported for work was located and away from the metropolitan area, if there is one, where it was located, on vehicles used by the employer to transport the goods or passengers, and
+(ii) while so away from that municipality and metropolitan area, to make disbursements for meals and lodging,
+amounts so disbursed by the taxpayer in the year to the extent that the taxpayer has not been reimbursed and is not entitled to be reimbursed in respect thereof;
+67.1(1) For the purposes of this Act, other than sections 62, 63 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment shall be deemed to be 50% of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+[5] In an Information Circular[1] the Minister states for the benefit of those claiming meal allowances that they may use either the detailed method or the simplified method to make their claim. The detailed method requires that the taxpayer maintain a record of each meal taken and each payment for lodging, together with vouchers to prove the expenditure. If the taxpayer maintains these records then the Minister will allow a deduction based upon the full amount paid, provided that it is a reasonable amount as subsection 67.1(1) requires. Those who do not wish to keep such detailed records are advised by the circular that they may base their claim simply upon the number of meals that they ate during the year while away from home in the course of their employment, and the Minister will allow a deduction based upon an assumed cost of $11.00 per meal[2], up to a maximum of three meals per day. In that case the circular advises them that they should enumerate the trips for which the meals are claimed.
+[6] The Appellants in this case chose to file their returns without any detailed enumeration of the meals for which they claimed, or the cost of each. In fact, their claims did not include any account of the various trips for which the meals were claimed. Michael Kasaboski simply claimed $17,712.00 for 288 days and an unspecified number of trips, and Marie Kasaboski claimed $11,623.50 for 189 days and an unspecified number of trips. In each case the claim is apparently based upon an amount of $61.50 per day. The Appellants were unable to shed much light on the manner in which their claims had been computed as their returns were prepared by a tax preparation firm. However, the amounts that they now claim to be entitled to deduct were computed by their agent, Mr. Velle, as appears in their Notices of Appeal. He asserts that the Appellants’ meal deductions should be computed using the rates established by the Treasury Board to be paid as an allowance to employees of the Government of Canada for meals and incidental expenses when travelling on government business.
+[7] There is no dispute about the fact that the two Appellants work for an employer whose business is the transportation of goods, or that they are required to be away from the municipality in which they report for work for periods of about two weeks at a time. Nor is it disputed that they are not reimbursed at all for meals that they eat during those trips. Michael Kasaboski worked for TransX for the full 12 months of 2002; Marie worked from the beginning of May until the end of the year, and that is why their claims are not identical. The Respondent, however, does resist their claims to the deductions on several grounds. First, it is argued that they have no claim for lodgings, and so they cannot be entitled to a claim for meals. Second, it is argued that they cannot be allowed deductions for meals because neither of them has a satisfactory record of their expenditures for meals. Not only did they not keep receipts for the meals, or written record of the amounts that they spent, but they both testified that as they ate together they did not pay separately; after each meal one or other of them would pay the bill, and there was apparently no accounting and settling up afterwards, so that it is impossible for either to say now which meals they paid for and which the other paid for. In addition, the Respondent takes the position that there is no provision of the Act that permits any deduction from income for the amounts expended on snow removal, grass cutting, house watching or showers, all of which the Appellants seek to recover as a claim for incidentals analogous to the allowance for incidentals paid under the Travel Regulations to a public servant on travel status. Finally, the Respondent argues that in the case of Marie Kasaboski the amount claimed for meals is so high in relation to her total income from her employment for the year that it cannot be said to be reasonable, and only reasonable amounts may be deducted because of the limiting effect of subsection 67.1(1).
+[8] I shall deal with the Respondent’s objections to the claim in order.
+no claim for disbursements for lodging
+[9] Mr. Penney argued that as the word “and” in paragraph 8(1)(g) is conjunctive, there can be no claim to deduct an amount for meals without an accompanying claim for a deduction for amounts expended for lodging. He relies on my decision in Crawford v. the Queen.[3] In that case four employees of B.C. Ferries claimed to be entitled to deduct amounts for meals that they were required to eat while working away from the municipality where they reported to work. They worked on ferries that carried passengers across the Strait of Georgia, or at least some part of it. None of them were required to spend a night away from home in the course of their employment, although some of them worked quite long days. In that context, I concluded that they were not entitled under paragraph 8(1)(g) to a deduction for their meals, and that decision was affirmed by the Federal Court of Appeal, whose reasons for judgment end with the sentence
+The deduction contemplated is only available when there are disbursements for both meals and lodging.
+The facts of that case are materially different from the present case. The taxpayers in Crawford did not spend a night away from home, whereas the present Appellants are away from home for weeks at a time. That a transport driver sleeps in her vehicle rather than in paid accommodation does not affect the fact that it is impossible for her to eat meals at home during the trip, requiring her to incur the expense of restaurant meals. Clearly the purpose of the conjunctive “and” is to limit the meal deduction to persons whose work requires them to stay away from home overnight, so that the expression “… required … to make disbursements for meals and lodging”, interpreted according to its purpose, is satisfied where the taxpayer is required to eat and to sleep away from home, and has to make disbursements for either of those purposes. In any event, the taxpayers here were required to make disbursements for lodgings. The evidence was that when their rig was being repaired they stayed in a motel, and they were reimbursed by the employer for doing so. Even the most literal reading of paragraph 8(1)(g) does not require that the taxpayer bear the cost of the lodging for it to qualify as being a disbursement for lodging that he was required to make; the concluding words limit the deduction to that which is not reimbursed or to be reimbursed, but it is nonetheless a disbursement that he was required to make, even if it has since been recovered. There also was evidence that the Appellants very occasionally paid for a motel themselves, even though they could not recover it from TransX. The Act does not specifically require that there be a claim for a disbursement for lodging for every day that there is a disbursement for meals claimed. Finally, the claims in respect of the use of showers, which I shall come to presently, is a recurring claim in respect of disbursements for lodging: see Hiscoe v. The Queen.[4]
+the quality of the Appellants’ evidence
+[10] The Respondent submits that a claim to deduct expenses that is not supported by either receipts for the amounts claimed or a contemporaneous record of those amounts maintained by the taxpayer has little prospect of success, because the oral evidence of the taxpayer, given from memory, will not meet the requirement of “… evidence … strong enough for the Court to be firmly convinced” as to the correctness of any estimate.[5] I accept that as an appropriate evidentiary standard to be applied. That does not mean, however, that the absence of receipts or a contemporaneous log of money paid for meals will disentitle the taxpayers to any deductions. That would be patently unjust, as it is obvious that they must have eaten a great many meals for which the Act provides that they are entitled to a deduction of half the cost, subject of course to the requirement of reasonableness. The number of days that the Appellants were on the road are precisely ascertainable from the logs that they were required to keep for regulatory purposes. Three meals a day would be normal, although the evidence suggests that a few meals were either missed entirely or replaced by fruit and other food that they were able to carry with them in the truck’s refrigerator. They both estimated the daily cost of meals as being between $50 and $55, including tax, but not tips. They said that the cost was roughly the same whether they were in Canada or in the United States, but of course meals eaten in the U.S. had to be paid for in U.S. currency. The exchange rate at the time was approximately $1.57 CAN = $1 US.
+[11] While it has no legal foundation, the Minister’s willingness to accept meal claims by transport employees on the so-called simplified basis is a recognition of the injustice that would result if claims were to be totally denied if the taxpayer could not produce a corroborating log. The $33.00 per day that he allows is a recognition of what I consider to be a truism — a taxpayer should never benefit from a failure to keep proper records. That said, it is obvious that $33.00 per day falls very far short of the amount that persons in the situation of these Appellants would have to spend for meals while on the road doing their employer’s business, even in Canada. It is generally true, however, that taxpayers who estimate their expenditures are more likely to overestimate them than to underestimate them.
+[12] I see no merit in the suggestion that the Appellants should be denied deductions for meals because they cannot remember now which of them paid for each meal. Where a married couple work together as these Appellants do throughout the year it is proper, I think, to infer that the payments will average out without the need for a formal accounting between them.
+public servants’ travel allowances
+[13] Mr. Velle offered no rationale for the contention that truckers should be allowed deductions for meals and other expenses at the rates established as non‑accountable allowances for public servants travelling on business for the Government of Canada, other than that he thought it to be fair. I have no mandate to allow deductions that are not provided for by Parliament simply on the basis that I think them to be fair. The Act is very specific as to the amounts that may be deducted. What paragraph 8(1)(g) and subsection 67.1(1) permit when they are read together is simply this — one-half of the amount actually spent for meals and lodging, provided always that it is a reasonable amount that was spent. There is no provision made for snow removal, grass cutting, or any other personal expense, even though it may be incurred as the necessary result of carrying out the duties of the employment away from home for an extended period: see Symes v. Canada;[6] Hogg v. Canada.[7] Allowances paid to public servants are established as a term of their employment. They are not at all relevant to the matter before me, unless as a possible test of reasonableness for the purposes of section 67.1, and they certainly cannot establish an entitlement to a deduction from income not found in the Act.
+reasonableness
+[14] I do not accept the proposition that Marie Kasaboski’s claim for meal deductions should be measured against her income for the year and found on that basis to be unreasonable. She started to work with her husband in May 2002. She was a trainee at that time, and so she earned less than he did. This, however, did not affect her nutritional requirements. In Gabco Ltd. v M.N.R.,[8] Cattanach J. set out the test of reasonableness of expenses that has been generally accepted ever since. As that test applies here, the question becomes not what in the Minister’s judgment or mine would be a reasonable amount for a trucker to pay for meals each day, but rather whether any reasonable trucker would have paid that amount. Applying that test, there is no basis on which I could find the amounts claimed by Marie to have been unreasonable, if only she could have established that she had in fact paid them.
+showers
+[15] The remaining issue is a claim for the cost of the use of showers at truck stops. The evidence establishes that the Appellants slept almost exclusively in the bunk that was part of the truck that they drove. It, of course, has no bathing facilities. Showers for the use of truckers are widely available at truck stops throughout North America, and the Appellants used them almost every day. Unlike meals, the price of these facilities is not highly variable. Marie said they cost between $5 and $7. In Hiscoe v. The Queen,[9] I suggested that the cost of showers at truck stops would have been deductible if the Appellant had been able to prove the expenditures. Bathing facilities are a necessary part of lodging, and a teleological approach to the meaning of paragraph 8(1)(g) could hardly ignore that reality. It would do violence to the intent of the statute to deny a deduction of $5.00 for a shower to a trucker who sleeps in the relative discomfort of a bunk in the tractor for purely economic reasons, while permitting a deduction of $50.00 or $100.00 if she chose to stop at a motel for the night. The cost of the showers is deductible as a component of lodging.
+conclusion
+[16] Considering all these factors, I consider that the correct basis upon which to allow the deductions under paragraph 8(1)(g) in this case is the following.
+Michael Kasaboski
+meals
+163 days in Canada: 163 x $40 x 50% = $3,260.00
+99 days in United States: 99 x $40 x 1.57 x 50% = $3,108.60
+$6,368.60
+To this I would add for the use of showers 1,200.00 Total $7,568.60
+Marie Kasaboski
+96 days in Canada: 96 x $40 x 50% = $1,920.00
+76 days in United States 76 x $40 x 1.57 x 50% = $2,386.40
+$4,306.40
+To this I would add for the use of showers 800.00
+Total $5,106.40
+[17] These amounts are substantially less than the Appellants claimed, both in the income tax returns that they filed and in their Notices of Appeal in this Court. They are almost twice as much as the amounts that the Minister allowed in assessing them under his simplified method. I am sure that they are substantially less than the amounts that they would have been entitled to deduct if only they had gone to the trouble of keeping receipts and a log of their expenditures. I appreciate that it may be tiresome to do so, but the benefit of ensuring that they can establish the deductions to which they are entitled may be worth the trouble. Those who choose to ignore the need to keep proper records to support their claims can expect that the Minister will continue to assess them on the basis of a rate per meal that he establishes unilaterally from time to time. They can appeal his assessments to this Court, of course, but without proper records they cannot expect any more than the modest success that Mr. and Mrs. Kasaboski have achieved in this case.
+[18] The appeals are allowed. The assessments are referred back to the Minister for reconsideration and reassessment on the basis that the Appellants are entitled to the deductions under paragraph 8(1)(g) that are set out above in paragraph 16.
+Signed at Toronto, Ontario, this 19th day of May, 2005.
+“E.A. Bowie”
+Bowie J.
+CITATION:
+2005TCC356
+COURT FILE NOS.:
+2004-4036(IT)I and 2004-4037(IT)I
+STYLE OF CAUSE:
+Michael Kasaboski and Marie Kasaboski
+and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 16, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENTS:
+May 19, 2005
+APPEARANCES:
+Agent for the Appellants:
+Frank Velle
+Counsel for the Respondent:
+Jonathon Penney
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The current version is IC73-21R8 dated October 23, 2003.
+[2] This rate applies to the taxation years from 1990 to 2002; the rate for 2003 is $15.00 per day.
+[3] Crawford et al v. The Queen, 2002 DTC 1883; aff’d sub nom Renko et al v. The Queen, 2003 DTC 5417
+[4] 2002 DTC 3894.
+[5] See Marcoux v. M.N.R., 91 DTC 478 at p. 488.
+[6] [1993] 4 S.C.R. 695.
+[7] 2000 DTC 3661 (T.C.C.); aff’d 2002 DTC 7038 (F.C.A.)
+[8] 68 DTC 5210 at p. 5216
+[9] Supra.

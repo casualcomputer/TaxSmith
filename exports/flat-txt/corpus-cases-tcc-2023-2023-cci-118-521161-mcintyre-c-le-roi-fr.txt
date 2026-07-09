@@ -1,0 +1,73 @@
+Title: McIntyre c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521161/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-118-521161-mcintyre-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-10-18
+
+# McIntyre c. Le Roi
+
+- Citation: 2023 CCI 118
+- Decision date: 2023-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5687, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntyre c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-10-18
+Référence neutre
+2023 CCI 118
+Numéro de dossier
+2023-1172(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2023 CCI 118
+Date : 20230810
+Dossier : 2023-1172(IT)I
+ENTRE :
+TRACY MCINTYRE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : l’honorable juge adjoint Gaston Jorré
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+[1] Cette affaire a été portée à mon attention par le greffe alors que j’occupais le poste de juge de service. On m’a demandé si ce dossier, qui a été ouvert dans le cadre d’un appel, devrait être remplacé par une demande de prorogation de délai.
+[2] Les circonstances en l’occurrence sont inhabituelles.
+[3] L’appelante a présenté non seulement un appel, mais aussi une demande de prorogation du délai pour s’opposer.
+[4]Selon les allégations de l’appelante[1] :
+Elle n’a pas reçu et n’a pas pu obtenir de copies des cotisations à l’origine du litige qui a amené l’Agence du revenu du Canada (ARC) à déclarer qu’elle doit environ 17 000 $. Les efforts déployés par l’appelante en vue d’obtenir ces cotisations comprennent ce qui suit :
+Essayer d’accéder à son compte en ligne. Malheureusement, elle est incapable d’accéder à son compte en ligne depuis juin 2022.
+Dans une lettre datée du 30 juin 2022 envoyée à l’ARC à l’intention du Centre national de vérification et de recouvrement, elle demande des copies des cotisations en cause.
+Une demande visant l’obtention de copies des avis de cotisation en litige est contenue dans la lettre envoyée par son avocat à la Division des appels de l’ARC en date du 10 février 2023; cette lettre consistait en une demande de prorogation du délai pour déposer les avis d’opposition, avec en pièce jointe un avis d’opposition.
+[5] Il est fondamental, pour que le contribuable puisse exercer ses droits, qu’il soit en mesure de consulter ses cotisations[2].
+[6] Le greffe de la Cour a écrit au ministère de la Justice[3] le 8 juin 2023 pour lui demander ses observations sur la demande de prorogation du délai. Au moment de la rédaction de la présente ordonnance, aucune réponse n’avait été reçue; toutefois, l’appelante a présenté son consentement, le 21 juillet 2023, à la prorogation du délai pour la production d’une réponse à l’avis d’appel jusqu’au 4 septembre 2023. Ce consentement a également été signé par un représentant de l’intimé à Toronto. Ce consentement ne fait aucune mention de la demande de prorogation du délai.
+[7] Compte tenu des circonstances décrites précédemment, et afin de faciliter et d’accélérer l’audition de l’appel, la Cour, de sa propre initiative, ORDONNE[4] :
+L’intimé doit, au plus tard le 20 septembre 2023, fournir à l’appelante et à la Cour une déclaration écrite concernant sa position sur ce qui suit : i) si une prorogation du délai est nécessaire ou non, ii) s’il prend la position qu’une prorogation du délai est nécessaire, s’il s’oppose ou non à la prorogation du délai et iii) s’il s’oppose à la prorogation de délai, ses motifs à cet égard.
+Si la réponse à l’avis d’appel présentée par l’intimé énonce sa position à l’égard des questions soulevées au point 1 ci-dessus, la réponse satisfait à l’exigence énoncée au point 1.
+Au plus tard le 20 octobre 2023, l’intimé doit fournir à l’appelante :
+des copies de toutes les cotisations ou de toutes les nouvelles cotisations qui ont mené au solde dû de plus de 17 000 $ mentionné par l’appelante.
+Si l’intimé n’est pas en mesure de fournir ces cotisations dans un format facile à lire et à comprendre (comme le format que prendraient ces cotisations si elles étaient envoyées par la poste), l’intimé est tenu d’envoyer un imprimé de la ou des bases de données électroniques de l’ARC, conformément à ce qu’on appelle l’« option C »; l’intimé doit simultanément fournir le nom et le numéro de téléphone de l’avocat affecté au dossier, qui pourra fournir de l’aide, au besoin, pour la lecture de cet imprimé.
+À moins que l’intimé n’accepte le fait i) que l’ARC est saisie d’un Avis d’opposition valide ou ii) que la Cour est saisie d’un Avis d’appel valide, étant donné que des questions peuvent être soulevées quant à savoir où ont été envoyées les cotisations, l’intimé doit :
+Fournir à l’appelante un registre complet des coordonnées de l’appelante qu’il a conservées, qui doit comporter les renseignements tels qu’ils étaient au 1er janvier 2015, ainsi que toutes les modifications qui ont été apportées à ces coordonnées jusqu’au 1er juin 2023.
+À moins que ce ne soit évident à la lumière du registre des coordonnées fourni, l’intimé doit fournir des copies de tout autre dossier nécessaire pour montrer où chacune des cotisations en litige a été envoyée.
+Signé à Ottawa, Canada, ce 10e jour d’août 2023.
+Gaston Jorré
+Le juge adjoint Jorré
+Traduction certifiée conforme
+ce 3e jour d’octobre 2023.
+Nicolas Bourdeau
+[1] Voir l’avis d’appel présenté par l’appelante le 1er juin 2023 et la lettre présentée par l’appelante le 2 juin 2023 demandant une prorogation du délai pour s’opposer.
+[2] Je suis parfaitement conscient du fait que l’ARC a un arriéré important pour une variété de raisons, mais je dois dire que je suis surpris de voir que l’appelante n’a pas pu obtenir de copies des cotisations en cause pendant une période d’un an.
+[3] La section du contentieux des affaires fiscales à Ottawa.
+[4] Voir le paragraphe 18.15(3) de la Loi sur la Cour canadienne de l’impôt.

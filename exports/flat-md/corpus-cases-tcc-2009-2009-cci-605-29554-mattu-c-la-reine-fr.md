@@ -1,0 +1,256 @@
+---
+title: "Mattu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29554/index.do"
+last_modified: "2009-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 605"
+citation2: ""
+neutral_citation: "2009 CCI 605"
+decision_date: "2009-11-27"
+language: "fr"
+item_id: "29554"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6372
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:20:41.713000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ea1a140ce712389921d55d316c747b9c381e4fc3568d039a21399bc3a018e5a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mattu c. La Reine
+
+- Citation: 2009 CCI 605
+- Decision date: 2009-11-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6372, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mattu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-27
+Référence neutre
+2009 CCI 605
+Numéro de dossier
+2009-416(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-416(IT)I
+ENTRE :
+GURDIP SINGH MATTU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 8 septembre 2009 à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Majawa
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies sous le régime de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2004, 2005 et 2006 sont rejetés, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de novembre 2009.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 605
+Date : 20091127
+Dossier : 2009-416(IT)I
+ENTRE :
+GURDIP SINGH MATTU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Faits
+[1] Dashmesh Roofing Tiles Ltd. (« Dashmesh ») a été constituée en société le 18 juin 2002 sous le régime des lois de la province de la Colombie-Britannique.
+[2] L’appelant était l’unique actionnaire de Dashmesh.
+[3] Le 31 août 2002, l’appelant a signé une convention d’achat visant les éléments d’actif et les stocks de Four Star Concrete Products Ltd. (« Four Star ») pour le prix de 150 000 $.
+[4] Selon une convention datée du 1er octobre 2002, Four Star a transféré ses éléments d’actif et ses stocks à Dashmesh.
+[5] De septembre 2002 à septembre 2003, Dashmesh a exploité une entreprise à l’aide des éléments d’actif et des stocks achetés de Four Star. Dashmesh produisait des tuiles de couverture, des tables de pique‑nique et des pots à fleurs, tous en béton.
+[6] À l’automne 2003, Dashmesh a cessé d’exploiter son entreprise.
+[7] Lorsque l’appelant a produit sa déclaration de revenus pour l’année d’imposition 2004, il a demandé une déduction de 236 090,00 $ pour une perte brute au titre d’un placement d’entreprise relativement à sa participation dans Dashmesh.
+[8] Le ministre du Revenu national (le « ministre ») soutient que Dashmesh ne s’est départie d’aucun des éléments d’actif qui avaient été achetés pour une contrepartie nulle au cours des années d’imposition 2002, 2003 et 2004.
+[9] Le ministre a refusé la déduction demandée pour la perte au titre d’un placement d’entreprise.
+[10] L’appelant fait également valoir qu’au début de 2003, il a commencé à participer à un placement avec un homme prénommé « Phil », qui vient des Pays‑Bas.
+[11] L’appelant a déclaré que Phil lui avait dit qu’en échange des fonds que l’appelant lui fournirait, il obtiendrait 50 000 000 $US du Ghana. Phil aurait apparemment affirmé à l’appelant qu’il [TRADUCTION] « partagerait » avec lui les 50 000 000 $US reçus du Ghana s’il l’aidait pour le financement.
+[12] L’appelant a fait en sorte que sa coopérative de crédit et d’épargne (Envision Credit Union) transfère la somme de 39 950 $ à Phil à une adresse au Royaume‑Uni. L’appelant n’a jamais reçu l’argent que Phil lui avait promis.
+[13] L’appelant a ensuite intenté une poursuite à l’encontre de la Envision Credit Union relativement aux fonds qu’il avait fait transférer à Phil par la coopérative de crédit et d’épargne. L’affaire a été instruite par la Cour suprême de la Colombie‑Britannique, et l’appelant n’a pas obtenu gain de cause.
+[14] Lorsque l’appelant a produit ses déclarations de revenus relatives aux années d’imposition 2004, 2005 et 2006, il a demandé les déductions suivantes :
+a) pour l’année d’imposition 2004, 118 045 $ pour une perte déductible au titre d’un placement d’entreprise;
+b) pour l’année d’imposition 2004, des frais d’intérêt de 9 354 $, soit les intérêts courus sur un jugement rendu par la Cour suprême de la Colombie‑Britannique;
+c) pour l’année d’imposition 2004, des frais judiciaires de 14 482 $ engagés dans le cadre de la poursuite intentée à l’encontre de la Envision Credit Union;
+d) pour l’année d’imposition 2005, une perte autre qu’en capital de 9 177 $;
+e) pour l’année d’imposition 2006, une perte d’entreprise de 50 000 $, soit la somme que l’appelant avait envoyée à Phil.
+[15] Le ministre a refusé à l’appelant la déduction des éléments énoncés au paragraphe 14 ci‑dessus.
+B. Questions en litige
+[16] Au cours de l’audience, l’appelant a affirmé que trois questions principales étaient en litige dans la présente affaire :
+1) la perte déductible au titre d’un placement d’entreprise de 236 090 $ dont il a demandé la déduction pour l’année d’imposition 2004;
+2) les frais qu’il a engagés à l’égard du paiement fait à Phil, plus les frais connexes;
+3) la déduction pour amortissement qu’il a demandée à l’égard d’une automobile de marque Cadillac pour l’année d’imposition 2003.
+C. Analyse et décision
+[17] Le prix payé par l’appelant ou par Dashmesh pour les éléments d’actif et les stocks de Four Star est source de grande confusion. J’ai employé le terme « confusion » pour les raisons suivantes :
+a) L’avocat de l’intimée a produit un recueil des pièces renfermant divers documents (pièce A‑1). L’onglet 7 de la pièce A‑1 consiste en un document appelé acte de vente qui est daté du 1er octobre 2002 et qui a été conclu entre Four Star (vendeur) et Dashmesh (acquéreur). Selon l’acte de vente, le vendeur s’engageait à vendre l’ensemble des éléments d’actif précisés à l’annexe « A » à Dashmesh pour la somme de 80 000 $. L’acte de vente avait été signé par les quatre administrateurs de Four Star (à savoir, Bhupinder S. Bains, Chuhar S. Bains, Iqbal S. Sendher et Jaswinder S. Sendher). Ce document ne porte toutefois pas la signature de l’appelant.
+b) L’avocat de l’intimée a produit un document appelé convention de rachat d’actions qui est daté du 31 août 2002 (pièce A‑1, onglet 9). Dans ce document, Four Star s’est engagé à vendre [traduction] « l’ensemble de ses éléments d’actif, y compris ses stocks, à M. Gurdip Singh Mattu pour la somme de 150 000 $ ».
+c) L’appelant a produit un autre document, lequel est daté du 15 octobre 2002 (pièce R‑1) et est aussi appelé acte de vente. Ce document précise que Four Star s’est engagée à vendre l’ensemble de ses éléments d’actif, y compris les stocks, à Dashmesh pour le prix de 250 000 $. Il est signé par Iqbal Sendher, Bhupinder S. Bains et Chuhar S. Bains. Note : Le nom Gurdip S. Mattu (président, Dashmesh Roof Tiles Ltd.) est dactylographié sur la formule, mais l’appelant n’a pas apposé sa signature sur celle‑ci.
+[18] En d’autres termes, la Cour est saisie de deux documents constatant des accords intervenus entre Four Star et Dashmesh et d’un document constatant un accord intervenu entre Four Star et l’appelant. Les documents prévoient que les mêmes éléments d’actif et les mêmes stocks appartenant à Four Star ont été vendus soit à Dashmesh, soit à l’appelant, au moyen de trois conventions distinctes, lesquelles fixent respectivement le prix de vent à 80 000 $, à 150 000 $ et à 250 000 $.
+[19] L’avocat de l’intimée a interrogé l’appelant au sujet de ces trois documents différents qui paraissent constater la vente des mêmes éléments d’actif et des mêmes stocks de Four Star. Pendant son contre‑interrogatoire, M. Mattu a affirmé qu’il avait acheté les éléments d’actif et les stocks de Four Star pour la somme de 150 000 $ (transcription, page 68, lignes 14 à 16).
+[20] L’avocat de l’intimée a posé des questions sur la convention qui avait apparemment pour but de vendre les éléments d’actif et les stocks de Four Star pour la somme de 80 000 $. L’appelant a déclaré ce qui suit :
+[traduction]
+Appelant : R. M. Bains lui a dit, nous a dit, vous savez, de conclure cette
+convention uniquement pour la TVP.
+Me Majawa : Q. Pour la TVP?
+Appelant : R. Oui.
+Me Majawa : Q. Pour qu’il paye moins de taxes?
+Appelant : R. Moins de TVP.
+(Transcription, page 69, lignes 2 à 8)
+[21] L’appelant a reconnu qu’il avait rédigé le document constatant la vente des éléments d’actif pour 80 000 $ pour rendre service à M. Bains. L’appelant a également admis qu’il savait que c’était irrégulier :
+[traduction]
+Appelant : R. Ouais, je savais que c’était irrégulier.
+(Transcription, page 69, ligne 21)
+[22] L’avocat de l’intimée a en outre demandé à l’appelant de faire des observations sur l’acte de vente du 15 octobre 2002 selon lequel les éléments d’actif de Four Star étaient apparemment vendus à Dashmesh pour la somme de 250 000 $. Il a demandé à l’appelant s’il avait rédigé ce document et l’appelant a répondu de la façon suivante :
+[traduction]
+Appelant : R. J’ai rédigé ce document parce que, vous savez, M. Lidhar et son compagnon chinois, il a dit, vous savez, mettons le prix là et nous pourrons tous obtenir le prêt pour la société.
+(Transcription, page 75, lignes 10 à 13)
+[23] Les propos suivants ont été consignés à la page 76 de la transcription :
+[traduction]
+Me Majawa : Q. Entendu, mais il a été rédigé afin de --
+Appelant : R. D’obtenir des prêts.
+Me Majawa : Q. Pour pouvoir dire à la banque « voyez, j’ai des éléments d’actif valant 200 – que j’ai payés 250 000 $ et qui peuvent servir à garantir le prêt que je demande », exact?
+Appelant : R. C’est pourquoi, peut-être que la personne responsable du prêt n’en a jamais parlé avec eux, vous savez.
+(Transcription, page 76, lignes 3 à 10)
+L’avocat de l’intimée a ajouté :
+[traduction]
+Me Majawa : Q. […] Mais vous avez rédigé ce document, exact?
+Appelant : R. Oui.
+Me Majawa : Q. Mais vous saviez que vous n’aviez pas payé 250 000 $ pour ces éléments d’actif?
+Appelant : R. Non, non, non, […]
+(Transcription, page 76, lignes 19 à 23)
+[24] L’avocat de l’intimée a assigné M. Chuhar S. Bains à témoigner. (Note : M. C.S. Bains était un des administrateurs de Four Star lorsque cette dernière a vendu ses éléments d’actif.) L’avocat de l’intimée a demandé à M. Bains combien l’appelant avait payé pour les éléments d’actif de Four Star. Voici la réponse de M. Bains :
+[traduction]
+M. Bains : R. 80 000 $.
+Me Majawa : Q. 80 000 $.
+M. Bains : R. Il a aussi aidé – il consentait à payer 1 500 $ – 15 000 $, le paiement de la facture.
+(Transcription, page 163, lignes 19 à 22)
+[25] Monsieur Bains a confirmé qu’il avait signé le document (pièce A‑1, onglet 7) constatant la vente des éléments d’actif de Four Star à Dashmesh pour 80 000 $ (transcription, page 165, lignes 6 à 10).
+[26] Il a ajouté qu’il n’y avait jamais eu d’entente visant à vendre les éléments d’actif de Four Star pour 150 000 $ (transcription, page 166, lignes 16 à 18).
+[27] Dans ce genre de situation, la question de la crédibilité revêt une grande importance. En l’espèce, la Cour est saisie de trois documents rédigés par l’appelant qui sont réputés constater la vente des mêmes éléments d’actif de Four Star à trois prix différents – 80 000 $, 150 000 $ et 250 000 $. Selon moi, le fait que trois prix d’achat ont été fixés pour les mêmes biens est des plus troublants lorsque vient le temps d’évaluer la crédibilité de l’appelant. En d’autres termes, l’appelant fait‑il preuve d’honnêteté lorsqu’il avance sa thèse?
+[28] Après avoir minutieusement examiné la preuve présentée par les parties, j’ai décidé d’accepter le témoignage de M. Bains voulant que les éléments d’actif de Four Star ont été acquis pour la somme de 80 000 $.
+[29] Outre le prix d’achat de 80 000 $, l’appelant soutient qu’il a acquis et personnellement payé les éléments d’actif de Four Star. La preuve donne à penser que l’appelant a fait les paiements suivants :
+31 août 2002 10 000 $
+19 septembre 2002 5 000 $
+[30] En plus des paiements susmentionnés, l’appelant allègue qu’il a payé les frais suivants pour le compte de Four Star :
+a) 10 meubles de rangement, à 900,00 $ chacun, de
+l’entreprise A Touch of Brass (9 350 $ + TPS)
+(pièce A-4)
+10 004,00 $
+b) Si-Port 2 Industries Ltd.
+1000 coquilles industrielles
+(pièce A-5 et pièce A-6)
+4 286,62 $
+c) 1 chariot élévateur à fourche de
+Leavitt Machinery (pièce A-7)
+11 235,00 $
+d) Information Leasing Corporation (pièce A-10)
+1 374,44 $
+TOTAL :
+26 900,06 $
+[31] Je suis disposé à admettre que l’appelant a payé 80 000 $ pour les éléments d’actif de Four Star. Je suis également disposé à reconnaître que l’appelant a acquis les divers biens énumérés plus haut pour les sommes de 15 000 $ et de 26 900,06 $.
+[32] Il me faut ensuite décider si l’appelant a droit à une déduction pour perte déductible au titre d’un placement d’entreprise relativement à la somme de 80 000 $ plus le coût des autres éléments d’actif qu’il soutient avoir achetés.
+[33] Comme il a déjà été mentionné, l’appelant a demandé la déduction d’une perte au titre d’un placement d’entreprise de 236 090,00 $, ainsi que d’une perte déductible au titre d’un placement d’entreprise de 118 045 $.
+[34] Selon l’alinéa 39(1)c) de la Loi de l’impôt sur le revenu (la « Loi »), une perte au titre d’un placement d’entreprise s’entend de la perte en capital résultant d’une disposition, après 1977, d’actions ou de créances d’une société exploitant une petite entreprise.
+[35] Je dois donc trancher la question de savoir si l’appelant a disposé d’une créance qu’il avait à l’endroit de Dashmesh. L’avocat de l’intimée a affirmé que le grand livre général paraissait totalement dénué de crédibilité. Il a ajouté que les revenus figurant dans le grand livre général ne correspondent pas aux revenus précisés dans les déclarations de revenus. En outre, l’avocat de l’intimée a signalé que le compte de prêts aux actionnaires ne permet pas d’étayer l’assertion de l’appelant selon laquelle Dashmesh lui devait 236 090 $.
+[36] L’avocat de l’intimée, Me Majawa, a mentionné ce qui suit pendant les plaidoiries :
+[traduction]
+Mais je dirais qu’il est étrange que, pour une même année, le grand livre général montre la somme de 35 000 $ à titre de revenu tandis que la déclaration de revenus fait état d’un revenu de 174 000 $. […]
+(Transcription des plaidoiries, page 17, lignes 18 à 21)
+[37] Selon l’avocat de l’intimée :
+[traduction]
+[…] Le compte de prêts aux actionnaires ne permet certainement pas de conclure à l’existence d’une dette de 236 000 $ envers M. Mattu. […]
+(Transcription des plaidoiries, page 6, lignes 24 et 25)
+[38] Au cours de l’audience, Me Majawa a appelé Jamie Monkman à témoigner. Mme Monkman était l’agente des appels chargée de la présente affaire à l’Agence du revenu du Canada (l’« ARC »). L’échange suivant a eu lieu entre eux :
+[TRADUCTION]
+Me Majawa : Q. Et vous a‑t‑on jamais fourni des renseignements, quels qu’ils soient, pour corroborer les écritures faites dans ces grands livres généraux?
+Mme Monkman: R. Non, jamais.
+Me Majawa : Q. Vous a-t-on fourni des factures?
+Mme Monkman: R. Non.
+Me Majawa : Q. Des résolutions de la société?
+Mme Monkman : R. Je n’ai pas vu de résolutions, non.
+Me Majawa : Q. Un compte expressément destiné aux prêts des actionnaires?
+Mme Monkman : R. Non.
+Me Majawa : Q. Après avoir examiné le compte de prêts des actionnaires, quelle conclusion en avez‑vous tirée? Avez-vous une conclusion précise à cet égard?
+Mme Monkman : R. Bien, il n’est pas dans un format – ou je n’avais pas suffisamment d’éléments de preuve pour étayer les sommes qui y figuraient, et il ne correspondait pas aux déductions demandées par M. Mattu. Je ne pouvais donc pas m’y fier.
+(Transcription, page 212, lignes 23 à 25, et page 213, lignes 1 à 15)
+[39] Compte tenu de la preuve et de l’insuffisance des documents fournis à la Cour, je conclus qu’il est impossible de savoir ce que Dashmesh devait à l’appelant.
+[40] La valeur des éléments d’actif appartenant à Dashmesh soulève également des difficultés. L’appelant avance que les biens n’avaient aucune valeur, mais il n’a pas appelé de témoin ni produit un quelconque élément de preuve pour établir ce fait.
+[41] L’avocat de l’intimée s’est exprimé en ces termes :
+[traduction]
+L’intimée soutient qu’il n’est tout simplement pas raisonnable que des éléments d’actif d’une valeur déclarée de 180 000 $ ne valent plus rien.
+(Transcription des plaidoiries, page 18, lignes 24 et 25, et page 19, ligne 1)
+[42] Il semble ressortir de la preuve que les éléments d’actif achetés pour une somme de 80 000 $ (ou 150 000 $ ou 250 000 $) aient perdu de la valeur, mais la Cour n’est saisie d’aucune preuve acceptable de la valeur de ces éléments d’actif.
+[43] Si l’appelant fournit aux fonctionnaires de l’ACR des renseignements sur la somme que lui doit Dashmesh et s’il établit que les éléments d’actif et les stocks que lui ou Dashmesh a achetés n’ont aucune valeur, il pourrait avoir droit à une déduction pour les années postérieures à 2004 relativement à une perte au titre d’un placement d’entreprise. Cependant, à la lumière de la preuve présentée à la Cour, je conclus que l’appelant n’a pas droit à la déduction qu’il a demandée à de la perte au titre d’un placement d’entreprise pour l’année d’imposition 2004.
+Déduction pour amortissement à l’égard de l’automobile de marque Cadillac
+[44] La preuve donne à penser que l’appelant a acquis une Cadillac Deville en 2003. L’appelant a allégué qu’il utilisait cette automobile pour exploiter son entreprise – GSM Accounting. Il a demandé une déduction pour amortissement de 20 000 $. Après vérification, l’ARC a refusé la déduction parce qu’elle ne disposait d’aucun élément de preuve établissant que l’automobile avait servi à des fins commerciales. Pendant l’audience, l’avocat de l’intimée a appelé Jamie Monkman à témoigner sur ce point. Mme Monkman a témoigné que l’appelant n’avait pas produit d’avis d’opposition relativement à l’année d’imposition 2003. L’appel visant la Cadillac est rejeté au motif que l’année d’imposition 2003 ne peut être examinée par la Cour puisque l’appelant n’a jamais produit d’avis d’opposition à l’égard de cette année‑là.
+50 000 $ et frais connexes relatifs à la somme envoyée par l’appelant à « Phil »
+[45] Au cours du témoignage qu’il a rendu à l’audience, l’appelant a mentionné que cette demande de déduction avait été réduite à 45 000,00 $ par suite d’une transaction. Cependant, l’appelant a aussi demandé la déduction de frais judiciaires et d’autres frais. L’appelant n’a produit aucun document ou élément de preuve pour établir que ces frais constituaient des dépenses d’entreprise légitimes. Je ne puis tirer qu’une seule conclusion du témoignage de l’appelant : ce dernier a été victime d’un stratagème frauduleux élaboré par Phil en vue d’obtenir de l’argent au moyen d’une opération illégale. À mon avis, aucun des frais relatifs à ce stratagème ne constitue une dépense d’entreprise déductible engagée par l’appelant.
+[46] Les appels sont rejetés, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 27e jour de novembre 2009.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2009 CCI 605
+No DU DOSSIER DE LA COUR : 2009-416(IT)I
+INTITULÉ : Gurdip Singh Mattu c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 8 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 27 novembre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Andrew Majawa
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

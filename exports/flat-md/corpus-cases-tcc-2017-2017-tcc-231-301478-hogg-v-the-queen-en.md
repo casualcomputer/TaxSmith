@@ -1,0 +1,181 @@
+---
+title: "Hogg v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301478/index.do"
+last_modified: "2017-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 231"
+citation2: ""
+neutral_citation: "2017 TCC 231"
+decision_date: "2017-11-22"
+language: "en"
+item_id: "301478"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7838
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:06:31.081000+00:00"
+cases_cited_count: 9
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "add6f28b35425ccca72ca0457e885db3dd8163a8ddc33834d3556043d3af6178"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hogg v. The Queen
+
+- Citation: 2017 TCC 231
+- Decision date: 2017-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7838, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hogg v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-22
+Neutral citation
+2017 TCC 231
+File numbers
+2013-1146(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1146(IT)G
+BETWEEN:
+DOUGLAS HOGG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 24, 2017
+at Hamilton, Ontario.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+David I. Besler
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of November 2017.
+“B. Paris”
+Paris J.
+Citation: 2017 TCC 231
+Date: 20171122
+Docket: 2013-1146(IT)G
+BETWEEN:
+DOUGLAS HOGG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Hogg claimed a fictitious business loss of $316,225 in an amendment to his tax return for his 2008 taxation year. He also filed a request to carryback the unused non-capital losses resulting from the alleged business loss to his 2005, 2006 and 2007 taxation years.
+[2] The Minister of National Revenue (the “Minister”) did not accept Mr. Hogg’s adjustment request and loss carryback request, and in a reassessment of Mr. Hogg’s 2008 taxation year, imposed a penalty of $44,733.51 under subsection 163(2) of the Income Tax Act (the “Act”) in respect of the false claims.
+[3] Mr. Hogg admits that he did not incur the business loss that was claimed in the amendment request and that he did not have any non-capital losses available to be carried back to his earlier taxation years. He is only appealing the imposition of the penalty.
+[4] Mr. Hogg testified that he was the victim of a scam carried on by certain individuals, including one who had allegedly been a previous employee of the Canada Revenue Agency (the “CRA”) (Muntaz Rasool). Mr. Hogg said he was aware that some of his co-workers who had used the services of those individuals had received large tax refunds, and therefore believed that the activities of Rasool and his associates were legitimate. He said that once he learned that the losses claimed in the amendment request were false, he cooperated with the CRA and was told that the penalty that would be imposed would only be “moderate”.
+Relevant Statutory Provisions [5] Every taxpayer who knowingly or in circumstances amounting to gross negligence makes a false statement in a tax return, form, certificate, statement, or answer filed in respect of a taxation year in respect of a taxation year is liable to a penalty under subsection 163(2). That provision reads as follows:
+163(2) False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement of omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person’s tax for the year
+If the person’s taxable income for the year were computed by adding to the taxable income reported by the person in the person’s return for the year that portion of the person’s understatement of income for the year that is reasonably attributable to the false statement or omission and if the person’s tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person’s tax for the year had the person’s tax
+had the person’s tax payable for the year been assessed on the basis of the information provided in the person’s return for the year,
+Facts [6] Mr. Hogg has a Grade 12 education and works as a labourer at a foundry. He and his spouse also raise veal calves on their farm near Durham, Ontario.
+[7] At some point in 2009, he learned that a number of his co-workers had obtained income tax refunds of up to $40,000 after having their tax returns prepared by someone who had worked at the CRA. It is not clear if Mr. Hogg was told the name of that person – Rasool – but it is not disputed that it was in fact Rasool who prepared the returns.
+[8] At the suggestion of his co-workers, Mr. Hogg met with Tom Thompson, Rasool’s associate, who told Mr. Hogg that there were deductions available for him to claim that would allow him to obtain a large tax refund, and that he could arrange to have the claim prepared for Mr. Hogg.
+[9] Mr. Hogg was not told what those deductions were, nor did he ask. Mr. Hogg simply agreed to allow Thompson to arrange to have the claim prepared and was asked to provide copies of his tax returns and assessments for the previous 10 years. He signed an agreement to pay 30% of the refund received for the 2008 taxation year and 45% of the refunds received in respect of the application of the loss carrybacks.
+[10] At a subsequent meeting with Thompson, Mr. Hogg signed a T-1 Adjustment Request form showing that he had business income of -$316,225. He also signed a Request for Loss Carryback form asking to apply non-capital losses of $71,551, $74,479 and $78,752 to his 2005, 2006 and 2007 taxation years, respectively. Mr. Hogg was also shown a form entitled “Statement of Agent Activities” on which he printed his name, and which was included with the T-1 Adjustment Request form that was sent to the CRA. The Statement of Agent Activities purported to support the business loss claim, but the information on the Statement makes no sense and the loss shown on it ($298,549) does not, in fact, reconcile with the amount of the business loss claimed on the Adjustment Request form.
+[11] Mr. Hogg said that he signed the forms without reading them. He said that it was his usual practice to sign his tax returns without reading them because he does not understand income tax matters. He believed the claims on the forms were legitimate, however, because he thought the CRA would not have given tax refunds to his co-workers if there had been any problem with the returns filed for them. He admitted in cross-examination, though, that he knew what a business loss was and that he knew that he did not have a $300,000 business loss in 2008.
+[12] For all his tax years up to and including 2008, Mr. Hogg had always had an accountant prepare his tax returns. Mr. Hogg did not ask the accountant who prepared his 2008 tax return about the T-1 Adjustment Request or Loss Carrybacks and did not try to find out how that accountant could have missed the deductions he was told by Thompson he could claim. He did not ask his co‑workers how they qualified for the refunds they received, either.
+[13] Mr. Hogg’s Adjustment and Loss Carryback Requests were denied by the CRA and he was advised that penalties could be imposed. At that point, he said he realized that Thompson and Rasool were “cons” and he offered to testify against them. He cooperated with the CRA investigation and said he was told that the penalties that would be imposed would not be severe. However, when the reassessment was issued, the total of the federal and provincial penalties and interest came to more than $70,000.
+[14] Mr. Hogg takes the position that he would not have gotten involved with Thompson and Rasool if the CRA had not paid tax refunds to his co-workers who used them to prepare their tax returns. He also points to his cooperation with the CRA investigation, and the fact that the CRA has already withheld over $17,000 of tax refunds due to him for subsequent years. He also asked the Court to take into consideration that his spouse and child have significant health issues as circumstances that would justify vacating the penalty.
+Analysis [15] The only issue before the Court is whether Mr. Hogg knowingly, or under circumstances amounting to gross negligence, made a claim for the fictitious business loss.
+[16] Subsection 163(3) of the Act provides that the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[17] In the case of Arbuckle v. The Queen, 2017 TCC 181, I set out the following summary of the test to be applied to determine whether a taxpayer’s conduct amounts to gross negligence within the meaning of subsection 163(2):
+[42] The most frequently quoted definition of gross negligence in relation to subsection 163(2) of the Act is that found in the case of Venne v. The Queen, 84 D.T.C. 6247. At paragraph 37 of that decision, Strayer J. wrote that gross negligence “must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not…”
+[43] In discussing the concept of gross negligence in subsection 163(2) of the Act, the Supreme Court of Canada in Guindon v. The Queen, 2015 SCC 41 (CanLII) (at paragraph 60), cited the following comments of this Court in Sidhu v. The Queen, 2004 TCC 174 (CanLII):
+Actions “tantamount” to intentional actions are actions from which an imputed intention can be found such as actions demonstrating “an indifference as to whether the law is complied with or not”… The burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes. The burden is to prove on a balance of probability such an indifference to appropriate and reasonable diligence in a self-assessing system as belies or offends common sense. [para. 23] …
+[44] It has been held that in drawing the line between “ordinary” negligence or neglect and “gross” negligence, a number of factors have to be considered:
+(a) the magnitude of the misrepresentation in relation to the income declared,
+(b) the opportunity the taxpayer had to detect the error,
+(c) the taxpayer’s education and apparent intelligence,
+(d) the genuine effort to comply.
+[45] No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence (DeCosta v. The Queen, 2005 TCC 545 (CanLII).
+[18] I would also adopt the following statement of this Court in Lauzon v. The Queen, 2016 TCC 71:
+The penalties provided for in section 163 of the Act have been conceived in order to ensure the integrity of our self‑assessing and self‑reporting system and to encourage a taxpayer to exercise care and accuracy in the preparation of his return, no matter who prepares the return.
+(at paragraph 19)
+[19] In the case before me, Mr. Hogg admitted that he did not read the T-1 Adjustment Request form or the Request for Loss Carryback form before signing them and having them filed with the CRA. His signature appears immediately after a declaration on each of those forms that he was certifying the information given on the forms and any attached documents was correct and complete.
+[20] This Court has repeatedly held that a taxpayer who does not review his tax returns prior to filing them is grossly negligent.
+[21] In Brown v. The Queen, 2009 TCC 28 (CanLII), Bowie J. stated that:
+Quite apart from all of that, in respect of the gross negligence penalties under the Income Tax Act, the Appellant in his own evidence early on made it clear that he signed his returns for each of the four years under appeal without having paid the least attention to what income was included in them and what expenses were claimed in them. He said that he kept the records that he kept, prepared spreadsheets from them and gave them to a tax preparer who, in each year, prepared the returns for him based on the material that he gave her. We did not hear from her on that, but taking that statement at its face value, it still leaves the Appellant with an onus to look at the completed return before signing it and filing it with the Minister. The declaration that the taxpayer makes when he signs that form is,
+I certify that the information given on this return and in any documents attached is correct, complete and fully discloses all my income.
+To sign an income tax return and make that certification without having even glanced at the contents of the return, because that is what I understood his evidence to be is of itself, in my view, gross negligence that justifies the penalties.
+(at paragraph 20)
+[22] Similarly, in Bhatti v. The Queen, 2013 TCC 143 (CanLII) , C. Miller J. wrote:
+…It is simply insufficient to say I did not review my returns. Blindly entrusting your affairs to another without even a minimal amount of verifying the correctness of the return goes beyond carelessness. So, even if she did not knowingly make a false omission, she certainly displayed the cavalier attitude of not caring one way or the other.
+(at paragraph 30)
+(See also: Laplante v. The Queen, 2008 TCC 335 and Brochu v. The Queen, 2011 TCC 75)
+[23] These cases are equally applicable in cases, such as this one, where a taxpayer files forms for the purposes of the Act and those forms contain false statements.
+[24] I do not accept that Mr. Hogg would have required knowledge of income tax beyond what he already possessed in order to appreciate that the forms in issue contained false statements. The T-1 Adjustment Request form shows quite clearly a change to business income from 0 to -$316,225 and the Request for Loss Carryback form shows a loss of $316,225 on the line for “Business Income”. By his own admission, he knew what a business loss was and that he did not have a business loss of $316,225 in 2008. Had he taken even a moment to read those forms, I am convinced that it would have been readily apparent to him that they contained false statements.
+[25] I find that Mr. Hogg abdicated his responsibility for the correctness of the information contained in the forms, and that his conduct in filing those forms amounted to gross negligence.
+[26] Mr. Hogg’s cooperation with the CRA investigation after the false statements were discovered is not relevant. The relevant point in time for the determination of whether his conduct was grossly negligent is the time he signed and filed the forms containing the false statements. I am also unable to take into account his family circumstances or the withholding of tax refunds relating to subsequent tax years. This Court has no equitable jurisdiction and I cannot reduce the amount of the penalty once I have determined that it has been imposed in accordance with the law.
+[27] For all of these reasons, the appeal is dismissed. No costs are awarded.
+Signed at Ottawa, Canada this 22nd day of November 2017.
+“B. Paris”
+Paris J.
+CITATION:
+2017 TCC 231
+COURT FILE NO.:
+2013-1146(IT)G
+STYLE OF CAUSE:
+DOUGLAS HOGG AND HER MAJESTY THE QUEEN
+PLACE AND DATE OF HEARING:
+Hamilton, Ontario
+October 24, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+November 22, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+David I. Besler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

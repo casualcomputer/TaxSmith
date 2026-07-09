@@ -1,0 +1,139 @@
+Title: Jacques v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181687/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-245-181687-jacques-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-10-27
+
+# Jacques v. The Queen
+
+- Citation: 2016 TCC 245
+- Decision date: 2016-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2989, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jacques v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-27
+Neutral citation
+2016 TCC 245
+File numbers
+2014-4093(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4093(IT)G
+BETWEEN:
+JULIE JACQUES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 21, 2016, at Calgary, Alberta
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Bryan H. Walker
+Counsel for the Respondent:
+Brooke Sittler
+JUDGMENT
+The appeal of the reassessment of the Appellant’s 2009 tax year is allowed with costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income be reduced by $389,502.
+Signed at Ottawa, Canada, this 27th day of October 2016.
+“David E. Graham”
+Graham J.
+Citation: 2016 TCC 245
+Date: 20161027
+Docket: 2014-4093(IT)G
+BETWEEN:
+JULIE JACQUES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] Julie Jacques is a Canadian resident. Her sister, Carrie Mechsner, was a resident of the United States. Ms. Mechsner passed away in 2008. At the time of her death, Ms. Mechsner held funds in a plan known as the Mohawk Carpet Corporation Retirement Savings Plan II (the “Plan”). The Plan had been established through Ms. Mechsner’s employment. Ms. Jacques was Ms. Mechsner’s named beneficiary under the Plan. As a result of Ms. Mechsner’s death, Ms. Jacques received the proceeds of the Plan. The Minister of National Revenue reassessed Ms. Jacques to include those proceeds in her income in her 2009 taxation year. Ms. Jacques has appealed that reassessment.
+[2] Subparagraph 56(1)(a)(i) of the Income Tax Act includes in a taxpayer’s income any amount received by the taxpayer in a year as, on account or in lieu of payment of, or in satisfaction of a superannuation or pension benefit. Subparagraph 56(1)(a)(i) goes on to list a number of benefits that are to be included as superannuation or pension benefits. The parties agree that the amounts Ms. Jacques received out of the Plan are not caught by any of those listed benefits. The question remains whether the amounts she received are nonetheless superannuation or pension benefits.
+[3] Subsection 248(1) defines “superannuation or pension benefit” as including any amount received out of or under a superannuation or pension fund or plan. The phrase “superannuation or pension fund or plan” is not defined.
+[4] The sole issue in this Appeal is whether the Plan was a superannuation or pension fund or plan. If the Plan was a superannuation or pension fund or plan, then the amounts Ms. Jacques received should have been included in her income.
+I. Was the Plan a Superannuation or Pension Fund or Plan?
+[5] I will examine different aspects of the Plan and consider whether those aspects indicate that the Plan was a superannuation or pension fund or plan.
+Legislative Authority for the Plan
+[6] The parties agree that the Plan was a 401(k) plan and was subject to section 401(a) of the US Internal Revenue Code. Neither party introduced expert evidence on those provisions of the Code. As a result, I am unwilling to draw any conclusions as to the nature of the Plan from the fact that it is governed by those particular provisions of the Code. I am prepared to accept that 401(k) plans are a common form of retirement planning in the US but, in the absence of evidence in respect of the relevant provisions, I am not prepared to conclude that such plans are, by their nature, either savings plans or superannuation or pension funds or plans.
+Purpose of the Plan
+[7] The Plan’s purpose is described in its governing document as follows: [1]
+The purpose of this Plan is to encourage thrift on the part of Participants by allowing them to accumulate tax-deferred savings while providing an incentive through matching contributions made by the Employer.
+[8] While accumulating savings is an important part of retirement planning, the mere fact that money is being saved towards retirement does not indicate that the vehicle through which it is being saved is a pension. I find that this aspect of the Plan does not support the Plan being a superannuation or pension fund or plan.
+Enrollment in the Plan
+[9] Qualifying employees were automatically enrolled in the Plan. However, employees had to make an election in order to begin making contributions to the Plan. Therefore, employees could effectively opt out of the Plan by electing to never make any contributions.
+[10] While participation in many, if not most, workplace pension plans is mandatory, I accept that the fact that an employee could opt out of participation does not mean that the Plan was not a superannuation or pension fund or plan.
+Employee Contributions to the Plan
+[11] Depending on the year in which the employee became enrolled in the Plan, he or she was deemed to have elected to make contributions equal to either 2% or 3% of his or her compensation. Notwithstanding this deemed election, employees could elect to contribute as little as 1% of their compensation or as much as 50%. Employees could also suspend making contributions at any time. Employees who had suspended making contributions could later choose to recommence those contributions.
+[12] This ability of an employee to significantly vary the amount contributed from nil to 50% of his or her compensation makes the Plan appear to be more like a savings plan than a superannuation or pension fund or plan.
+Employer Contributions to the Plan
+[13] The idea in the Plan was that the employer would make matching contributions, but the employer was not required to do so. The Plan contemplated the employer electing to match contributions but only to a specified percentage of an employee’s compensation, electing to match contributions at different rates for different percentages of compensation (e.g. matching 50% of contributions for the first 4% of compensation and 25% of contributions for the next 2% of compensation), or electing to match contributions to a specified dollar amount.
+[14] The fact that the employer had the option of not contributing to the Plan seems unusual. I would expect employer contributions to be an automatic part of a standard workplace pension plan. That said, the fact remains that the expectation was that the employer would contribute. Employer contributions are more consistent with a superannuation or pension fund or plan than a savings plan.
+Vesting
+[15] All of an employee’s contributions to the Plan vested immediately. Once an employee had been employed for one year, all of the employer’s contributions vested as well. This is consistent with the Plan being a superannuation or pension fund or plan.
+Investment
+[16] Each employee’s Plan had its own account. Each employee could direct how his or her account would be invested. Employees had a list of possible investment funds to choose from. Employees could switch investment funds. This is consistent both with certain types of workplace pension plans and with savings plans.
+Early Withdrawals
+[17] The Plan allowed employees to ask permission to withdraw funds from the Plan for what are described as “hardships”. The definition of hardship in the Plan includes a number of items that would normally be considered hardships, such as paying medical expenses, paying funeral expenses and avoiding eviction or foreclosure. None of these things has anything to do with retirement. They are all, however, things that one might need emergency savings to cover. The definition of hardship in the Plan also includes two items that would not normally be considered hardships: buying a house and paying for the post-secondary education of the employee or his or her family members. Again, those things have nothing to do with retirement. They are both, however, things that one might save money for. Overall, the ability to make early withdrawals from the Plan suggests that the Plan is a savings plan not a superannuation or pension fund or plan.
+Distributions Out of the Plan
+[18] The most important aspect of the Plan that I must consider is how funds are ultimately distributed out of the Plan.
+[19] In Abrahamson v. M.N.R., [2] Judge Rip, as he then was, considered whether an Individual Retirement Account in the US that had been established using funds withdrawn from a pension was a superannuation or pension fund or plan. [3] He stated that “the words ‘superannuation or pension benefit’ in subparagraph 56(1)(a)(i) contemplate a payment of a fixed or determinable allowance paid at regular intervals to a person usually, but not always, as a result of the termination of employment for the purpose of providing that person with a minimum means of existence”. Judge Rip went on to state that the regularity and amount of the payments must be made in accordance with the terms of the plan and not at the discretion or direction of the beneficiary. [4]
+[20] In Woods v. The Queen, [5] Justice Boyle stated that a “superannuation or pension fund or plan is an arrangement which provides for payment of regular post-retirement income to employees and determines the entitlement, the amount and frequency of such payments”. [6]
+[21] The Plan did not provide for the payment of anything that could be described as a fixed or determinable allowance or a regular post-retirement income. The default rule under the Plan was that distributions out of the Plan were to be made in a single lump sum payment. An employee who had attained the age of 59.5 years could withdraw some or all of his or her account balance as a lump sum whether he or she continued to work or not. Anyone who retired between the ages of 59.5 and 70.5 had to take his or her money out in a single lump sum payment. The only way that anything resembling a fixed or determinable allowance was to be paid was if a participant reached the age of 70.5 years and was still working and the participant had not already taken a fixed lump sum payment and did not elect to take one then. In that scenario, the participant was forced to begin receiving minimum annual distributions. Even then, the participant had the ability to take as much out of the Plan as he or she wanted at any time.
+[22] In my view, it is not enough that some participants in the Plan were forced to receive something resembling a fixed annual distribution. The simple fact is that everyone else received a single lump sum payment. This is far more consistent with a savings plan than a superannuation or pension fund or plan.
+Summary
+[23] Based on all of the foregoing, I conclude that the Plan was not a superannuation or pension fund or plan. The Plan was clearly designed to encourage employees to save money for retirement, but it was not a pension.
+II. Concession
+[24] Ms. Jacques also received proceeds from a second plan known as the Mohawk Industries, Inc. Management Deferred Compensation Plan. The Minister also reassessed her to include those proceeds in her income. Shortly before trial, the Respondent conceded that the proceeds from this second plan should not have been included in Ms. Jacques’ income.
+III. Conclusion
+[25] Based on all of the foregoing, the Appeal is allowed with costs and the matter referred back to the Minister for reconsideration and reassessment on the basis that Ms. Jacques’ 2009 income should be reduced by $389,502.
+Signed at Ottawa, Canada, this 27th day of October 2016.
+“David E. Graham”
+Graham J.
+CITATION:
+2016 TCC 245
+COURT FILE NO.:
+2014-4093(IT)G
+STYLE OF CAUSE:
+JULIE JACQUES v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 21, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+October 27, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Bryan H. Walker
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bryan H. Walker
+Firm:
+Norton Rose Fulbright
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Agreed Statement of Facts, Tab 3, page JAC000049
+[2] 1990 CarswellNat 534
+[3] Abrahamson was decided prior to the introduction of clause 56(1)(a)(i)(C.1)
+[4] Abrahamson at para 23
+[5] 2010 TCC 106
+[6] Woods (TCC) at para 30

@@ -1,0 +1,210 @@
+Title: Seto v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27946/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-489-27946-seto-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-28
+
+# Seto v. The Queen
+
+- Citation: 2007 TCC 489
+- Decision date: 2007-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1795, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seto v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-28
+Neutral citation
+2007 TCC 489
+File numbers
+2006-2914(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2914(IT)I
+BETWEEN:
+DON WAI CHEN SETO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Delicious Sino-Euro–Combo Food Limited (2006-2916(IT)I and (2006-2918(GST)I) on April 10, 2007 at Halifax, Nova Scotia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Michael B. Dockrill
+Counsel for the Respondent:
+Lindsay Holland
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 28th day of August 2007.
+"Diane Campbell"
+Campbell J.
+Docket: 2006-2916(IT)I
+BETWEEN:
+DELICIOUS SINO-EURO-COMBO FOOD LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Don Wai Chen Seto (2006‑2914(IT)I and Delicious Sino-Euro–Combo Food Limited
+(2006-2918(GST)I) on April 10, 2007 at Halifax, Nova Scotia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Michael B. Dockrill
+Counsel for the Respondent:
+Lindsay Holland
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation year are allowed in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 28th day of August 2007.
+"Diane Campbell"
+Campbell J.
+Docket: 2006-2918(GST)I
+BETWEEN:
+DELICIOUS SINO-EURO-COMBO FOOD LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Don Wai Chen Seto (2006‑2914(IT)I and Delicious Sino-Euro–Combo Food Limited
+(2006-2916(IT)I) on April 10, 2007 at Halifax, Nova Scotia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+Michael B. Dockrill
+Counsel for the Respondent:
+Lindsay Holland
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act with respect to the reassessment number 05CP-GB050631441523 for the period January 1, 2000 to December 31, 2002, is allowed in accordance with the attached Reasons for Judgment.
+Signed Summerside, Prince Edward Island, this 28th day of August 2007.
+"Diane Campbell"
+Campbell J.
+Citation: 2007TCC489
+Date: 20070828
+Dockets: 2006-2914(IT)I
+2006-2916(IT)I
+2006-2918(GST)I
+BETWEEN:
+DON WAI CHEN SETO,
+DELICIOUS SINO-EURO-COMBO FOOD LIMITED,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The Appellant, Don Wai Chen Seto, appeals from reassessments in respect to the 2000, 2001 and 2002 taxation years in which the Minister of National Revenue (the “Minister”) added amounts to his income using the net worth method and assessed gross negligence penalties on those amounts. The Minister also reassessed the Appellant, Delicious Sino‑Euro‑Combo Food Limited, by adding to its income, amounts appropriated by the shareholder, Mr. Seto and by varying the original HST assessment for the period January 1, 2000 to December 31, 2002 and assessing a net tax on unreported sales plus interest. Gross negligence penalties were also applied.
+[2] Since coming to Canada from China in 1979, the Appellant has always resided with his parents. When he married, his wife moved into this household. Eventually, the Appellant’s parents looked after the children while the Appellant and his wife operated a restaurant, known as Dragon City. They purchased the restaurant in 1996. The Appellant testified that he and his wife worked in the restaurant from eleven o’clock in the morning until midnight or later, on every day of the year except Christmas Day, when the restaurant closed. Mr. Seto’s accountant, James Peter Flemming, confirmed in his evidence that the Appellant and his wife worked long hours for 364 days of the year at the restaurant with the Appellant sometimes sleeping on a cot at the back of the restaurant. During this period, Mr. Flemming completed the quarterly HST returns for the business together with the yearly financial statements and returns.
+[3] Both of the Appellant’s parents testified that they all resided in the same household, that the parents shopped for groceries and clothing, looked after the Appellant’s children because of the long hours devoted to the restaurant and contributed all of their combined incomes to the family unit. They had provided the down payment for the house in which they all resided and eventually helped to pay off the mortgage. They used the bus system as they had no vehicle.
+[4] The Reply to the Notice of Appeal contained several relevant assumptions of fact upon which the Minister relied in reassessing the Appellant’s tax liability. These assumptions related specifically to the importance of the role of the Appellant’s parents in calculating the net worth assessment. The relevant assumptions contained in paragraph 18 are as follows:
+…
+g) the Appellant lived with his spouse, his four children and his parents, Kei Seto and Hung C. Seto;
+h) the financial affairs of the Appellant and his spouse and his father and mother were so intertwined that it was necessary to consider them together in making the net worth calculation;
+…
+j) the Appellant and his spouse and his parents reported total income for the period under appeal in the amounts indicated in Schedule A‑3;
+k) The Appellant, his spouse’s and his parents’ total income reported were less than that necessary to support their lifestyle; (Emphasis mine)
+[5] Also at paragraph 19 of the Reply, in reassessing the Appellant for the 2000 taxation year, the following assumption stated:
+e) the Appellant was aware of the fact that the income reported on his income tax returns and his spouse’s and parents’ incomes for the period under appeal did not support the purchase of the assets and personal expenditures for these years; (Emphasis mine)
+[6] The adjustments, however, contained in Schedule “A”, which are referred to and attached to the Reply, do not include or reference the income of the Appellant’s parents, Mr Kei Seto and Mrs. Hung Seto. This is so, even though the above referenced assumptions clearly indicate that the parents were considered to be an integral part of the net worth assessment. Mr. David Dalton, the Appeals Officer, testified that he disagreed with the assumptions at paragraphs 18 (h), (j), (k) and 19 (e). He in fact made a contrary assumption and reduced the personal expenditures by removing the parents’ income from the net worth calculation. Respondent counsel submitted that, although these assumptions, which referenced the parents’ income, were inconsistent with Schedule A, it was the calculations contained in Schedule A which I should accept as being the true depiction of the net worth assessment. She characterized the references, to the parents’ income contained in the assumptions of fact, as simply “errors”. However, she did not address this issue until it was brought up in the cross examination of her witness, Mr. Dalton, at which point I asked for her comments. She argued that the onus is upon an Appellant in a net worth assessment and that the amounts will be assumed to be correct unless an Appellant can produce evidence to disprove them.
+[7] The issues arising from these appeals are therefore as follows:
+(1) In the case of a net worth assessment, where the Minister makes an assumption that benefits the Appellant and then bases the assessment on a contrary fact, who bears the onus or burden of proof;
+(2) Should the parents’ income be accounted for in the net worth assessment;
+(3) In determining whether the Appellants understated their income for the 2000, 2001 and 2002 taxation years, are there any other aspects of the net worth calculations that should be adjusted based on the evidence;
+(4) Is the Appellant, Mr. Seto, liable to include standby charges of $4,455.64 for a company vehicle made available to him during the 2002 taxation year;
+(5) Whether the 2000 taxation year was properly reassessed beyond the normal reassessment period pursuant to paragraph 152(4)(a) of the Income Tax Act in respect to the Appellant, Delicious Sino‑Euro-Combo Food Limited;
+(6) Whether the company is entitled to a reduction of the amount of assessed GST/HST collectible;
+(7) Whether the gross negligence penalties were properly assessed.
+Analysis
+[8] A net worth assessment is a method of last resort which entitles the Minister, when assessing, to estimate a taxpayer’s income based on the best available evidence and information. However, there remains a duty upon the Minister to disclose to the taxpayer the basis of the computation of the taxpayer’s income, including all assumptions made at the time of the assessment. Because the assessment is made on an arbitrary basis, the Minister may make a computation without full knowledge of all the facts. The onus is therefore upon the taxpayer to make full disclosure of all sources of income.
+[9] In these appeals there were several assumptions of fact that were diametrically opposed to the calculation of the net worth assessment found in Schedule A-3 of the Minister’s Reply. The fact that these assumptions greatly benefit the taxpayer makes this case unique.
+[10] According to the evidence, it appears that it was the auditor that originally relied on the assumptions at paragraphs 18(h), (j), (k) and 19 (e) of the Reply. This conclusion is supported by the fact that the original audit calculation of personal expenditures apparently contemplated the expenses of the Appellant’s parents because the Statistics Canada figures used by the auditor (“Family of five or more with at least three members over 20 years of age”) accounted for the parents. However, contrary to the relevant assumptions, the parents’ income was never included in the net worth assessment. In addition Mr. Dalton, the appeals officer, testified that he changed the audit figures for personal expenditures from a family of five or more, with at least three members over 20 years old, to a family of five members with only two over 20 years of age.
+[11] During the objection stage, Mr. Dalton disagreed with the assumptions concerning the parents’ income and proceeded on the basis that the parents were not an integral part of the family’s income calculation. It is arguable that because of this change, the Minister should have disclosed the new revised basis for the net worth assessment calculation in the Reply by advancing a new assumption or alleging those facts under the "other material facts" section. However, this was not done and the Minister relied upon those original assumptions in the Reply.
+[12] I did not have the benefit of hearing from the auditor. When Mr. Dalton, on re-direct, was asked what element of the parents’ income the auditor considered, he stated: “I believe he allowed $1,000 for gifts from family, mother and father.” (Transcript p. 77) [Emphasis added]. Yet the appeals officer acknowledged that the auditor had relied on Statistics Canada figures for a family of five with three or more adults in the household in respect to the expense aspect.
+[13] During the hearing, Respondent counsel represented these as “mere errors” and sought to amend the pleadings. Of course, I denied this request as it constitutes far more than an “error” which I consider to be more in line with a typographical error. In fact Mr. Dalton testified that these assumptions were simply incorrect. The bottom line is that this type of amendment at such a late date in the course of the hearing would be highly prejudicial to the Appellant. It was most surprising that the Respondent counsel would make such a last minute request and only in response to my queries concerning this issue. I consider this behaviour reprehensible for an officer of the Court and a flagrant abuse of the processes of this Court. It is the main reason I have decided to award $500.00 costs to the Appellants in these appeals.
+[14] Some of the comments of Chief Justice Bowman, in Bowens v. The Queen, 94 DTC 1853, are equally applicable to these appeals. At paragraph 23 he stated:
+…If a new basis of upholding the assessment is conceived after the assessment is made and is advanced at trial and the original assumptions are inconsistent with that new basis they must nonetheless be disclosed in the reply and the Crown must undertake the task of establishing that the original assumptions were wrong. It would be inappropriate if the Crown were to obtain a tactical advantage by failing to disclose in its reply assumptions that are embarrassing or irrelevant to its new theory of the case or, as is the case here, inconsistent with that new theory.
+[Emphasis added]
+[15] This passage confirms that the relevant assumptions in these appeals were properly included in the Reply. Although it appeared that the inclusion of these assumptions in the Reply was an oversight on the part of the Crown, it is the Crown that must now assume the burden of proving that the assumptions are wrong.
+[16] Although the Crown did not plead the assumption that the parents’ income was not an integral part of the net worth assessment, it was an essential fact upon which the validity of the assessment depended. However, a contrary assumption was included in the Reply. The Crown should have pleaded the new facts in the Reply to emphasize the changed assumption and assumed the burden of proving the fact that the parents did not substantially contribute to the household. This follows the general rule that the Crown may plead any assumptions as facts provided that the onus of proving those facts remains with the Crown.
+[17] This was the conclusion reached in the case of Holm v. The Queen, 2003 DTC 755, where at paragraph 21 it was stated:
+(a) To plead as an assumption a fact that was undoubtedly assumed when the assessment was confirmed but arguably not when the assessment was issued may reflect an erroneous interpretation of the words "the findings or assumptions of fact made by the Minister when making the assessment" as used in the rules of this court, but it is not an egregious or flagrant abuse of this court's process. To conjure up "assumptions" that were never made at any time until the reply was drafted is of course a much more serious breach of the Crown's responsibilities and calls for a more severe remedy.
+[18] In summary, the Minister included assumptions in the pleadings that were favourable to the Appellants but contrary to the basis of the net worth assessment. When the Minister’s assessment is based on inconsistent assumptions introduced at the objection stage, the Minister bears the onus of proving that the Appellant’s parents were not an essential component to the net worth assessment. The fact that the Minister neither pleaded nor disclosed the contrary assumption further supports that the Crown bears the onus of proof. The Crown did not lead any evidence that the parents did not make the contribution of their incomes to the family unit. The Appellant’s evidence in this regard was corroborated by the testimony of both Kei Seto, the father, and Hung Seto, the mother. The evidence of all three individuals supports the assumed facts in the Reply. As the Respondent counsel failed to produce any contrary evidence, she failed to discharge the onus. As a result, all of the parents’ available income will be incorporated into the net worth assessments, under the Deductions section of Schedule A-3 of the Reply, and adjustments made to the assessment for their living expenses. This will result in the removal of the family gift of $1,000.00 for each taxation year in the Deduction section. The Personal Expenditures for the family unit should be increased to reflect the inclusion of the parents in the net worth calculation.
+[19] In addition to the contribution of the parents’ income, the Appellant also disputed various other amounts. The most significant were: food costs, the Market Bill Trading charge of $5,903.99, included in the MasterCard expenses and the cheque for $2,000.00 to the Appellant’s father-in-law. With respect to the food costs, the Appellant stated that they should be reduced based upon the fact that the cost of rice, their primary food item, was minimal. However, Mr. Dalton’s evidence indicated that the food expenditure had already been reduced by $2,000.00 in each year to account for cultural differences. This is reasonable and without further evidence, I am not prepared to alter the total food expenditures. The Appellant asserts that some personal expenditures have been double counted because they were included in Schedule A-3 (“Personal Living Expenses on the MasterCard not considered in personal expenditures section”) and would also be factored into total personal expenditures. The first of these is the charge for the 2001 taxation year, detailed as “Market Bill Trading”. The Appellant argued that this amount was for the purchase of food, the total cost of which he shared with his uncle. The uncle reimbursed the Appellant 50% of this total charge. The Appellant also disputed $2,000.00 of the $4,455.00 addition for the 2001 taxation year under the adjustment heading “cheque written on personal bank accounts: Bank of Montreal per schedule”. The Appellant stated that this cheque was given to his father-in-law to purchase clothing in China for the family. I have only the Appellant’s oral evidence respecting both of these expenditures, as well as other disputed items. These other items included the purchase of a computer, interest charges and a Sun Life refund cheque. Since I have no documentary evidence or corroborating evidence of any type to assist me in sorting through those expenditures, I must conclude that the Minister was reasonable in these remaining calculations, respecting the other disputed adjustments.
+[20] With respect to the fourth issue in this appeal, the inclusion of the standby charge in the Appellant’s income in the 2002 taxation year, the Appellant’s position is that the only personal use of this vehicle was the travel to and from the restaurant and his home. The Appellant’s residence is 2.5 kilometres from the restaurant and the Appellant contended that he used the vehicle solely for business purposes, with the exception of the trip to his work in the morning and his return at night (2.5 km x 2 trips/day). There is no question that the business made the vehicle available to the Appellant during this period and thus he is liable to pay a reasonable standby charge pursuant to paragraph 6(1)(e) of the Income Tax Act. He used the vehicle to pick up supplies and make deliveries during the day. Mr. Dalton used 308 days (313 days being the days from the date of purchase of the vehicle in 2002 until the end of the year, less 5 days for holidays) as the number of days the Appellant used the vehicle to drive back and forth between his home and the restaurant in 2002. This meant that 1,540 km (308 days x 5 km/daily) was the personal use distance in 2002. This amount is well below the maximum 12,000 km (1,000 per month) necessary to qualify for the reduced standby charge. However, when the personal use distance is compared to the total distance (5,000 km assumed for 2002) the resulting proportion of personal use is calculated to be 31%. As a result, the Appellant’s request for a reduced standby charge was denied. To obtain the reduced standby charge, the Appellant must satisfy sub clauses A (a) and A (d) of subsection 6(2). That is, he must be required by the business to use the vehicle in connection, with or in the course of the employment, and all or substantially all of the distance travelled by the vehicle is to be in connection with or in the course of the office or employment. CRA’s administrative position on the availability of a reduced standby charge is reviewed in IT-63R5, August 12, 1995. The Canada Tax Service commentary on this position provides:
+Note that for the 1988 to 2002 taxation years, the standby charge could only be reduced where substantially all (90 per cent) of the distance travelled was employment related and only to the extent that personal use averaged less than 1,000 kilometres per month.
+[21] Although subsection 6(2) was amended in 2003 to change the test in clause A from the “all or substantially all” test of the distance travelled to “primarily in connection with” employment, because the standby charges occurred in 2002, the “all or substantially all” test applies here. While the business use of the automobile was only 69% and does not satisfy the 90% threshold, this may not be fatal to the Appellant’s claim. At paragraph 20, Justice Sheridan in Keefe v. R, 2003 TCC 791 stated:
+The 90% value does not appear in the legislation itself. Further, the case law is very clear that what constitutes "all or substantially all" is a question of fact depending on the circumstances of each case.
+[22] And at paragraph 21 she quoted from McDonald v. R. [1998] T.C.J. 621 as follows:
+These dictionary definitions confirm that the word "substantially", as Bowman, J.T.C.C. remarked in Ruhl v. Canada [See Note 6 below], is elastic and an unsatisfactory medium for conveying the concept of an ascertainable proportion of the whole. The words "substantially all" in the context of paragraph 6(2)(d) need not be interpreted as 90% or more but may be a lesser proportion of the whole depending on the facts.
+[23] Although the Appellant does not satisfy the 90% guideline, the jurisprudence indicates that all of the facts and circumstances must be taken into account. Both the Appellant’s evidence and the Minister’s calculation of the charge support that the only personal use of the vehicle was the travel between his home and the restaurant. The Appellant’s evidence also indicated that he frequently picked up supplies in the morning on the way to the restaurant. It can be argued that many of the 2.5 km trips to the restaurant involved a mix of the personal element (getting to work) and employment related element (picking up supplies). While it would be inappropriate to consider this distance as purely employment related, thus removing it from the determination under clause A, it can be properly considered in determining whether substantially all of the vehicle’s use was related to employment. It is unfair to disqualify the Appellant’s claim merely because the total kilometres on the vehicle was low in 2002 (5,000 km) and resulted in a percentage of personal use greater than 10%.
+[24] In Keith v. R. 2004 TCC 793, Justice Miller at paragraph 14 stated:
+Mr. Keith’s percentages are just short of the 90% mark, but viewing his use of the business vehicle in context of what he did for the company … I am satisfied that some minimal commuting travel does not detract from the position that the car was used substantially all in connection with his employment.
+[Emphasis added]
+[25] In addition, the Appellant testified that he owned a second vehicle during much of the 2002 taxation year. Mr. Dalton, in direct examination in responding to the question “And what indication did you have that the vehicle would have been used for the Appellant’s personal use?”, stated “It was my understanding that there was one vehicle for the family …” This was an incorrect assumption upon which the appeals officer based his conclusions. The evidence also indicated that the vehicle in question was not used for leisure activities or holidays, as he and his wife worked every day of the year except Christmas Day. His parents testified that they completed many of the household chores, including grocery shopping and caring for the Appellant’s children. Mr. Flemming, their accountant, who sometimes ate at the restaurant, also corroborated the Appellant’s evidence. He testified that because the Appellant and his wife “… lived at the restaurant basically” they had “… no opportunity to use the car for anything else but business basically” (Transcript p. 47). Although the Appellant did not maintain a vehicle log, I do not consider this to be fatal to his claim. There was clear and explicit evidence presented respecting the use of this vehicle by three or four witnesses and I am satisfied that the facts in their entirety support my conclusion that substantially all of the distance travelled was the result of employment related activities. The Appellant will therefore be entitled to a reduced calculation of the vehicle standby charge pursuant to clause A as follows:
+A/B x [2% x (210,461.9)]
+1,540/10,000 x [2% x (210,461.9)]
+= $648.22
+[26] The next issue deals with the statute barred year of 2000. In most instances the normal reassessment period pursuant to subsection 152(3) of the Income Tax Act is three years. This makes the reassessment for the 2000 taxation year statute barred unless the Minister can rely upon paragraph 152(4)(a). This provision permits the Minister to reassess beyond the normal reassessment period if the taxpayer has made any misrepresentation attributable to neglect, carelessness or wilful default or committed any fraud in filing the return or supplying information. Respondent counsel submitted that the Appellant’s lack of record keeping, as required under the Act, indicates that he and his company acted with neglect or carelessness which resulted in income not being reported. Although the Appellant never really addressed this issue, the evidence suggested that he was heavily involved in the day‑to‑day operations of the business; he maintained and tracked the daily records before submitting them to his accountant; he wrote the cheques for the company and he maintained personal investments. Although Mr. Flemming testified that he believed the Appellant’s records were well kept and that “things balanced”, I have little else to assist me. I therefore conclude that the 2000 taxation year was properly reassessed by the Minister pursuant to paragraph 152(4)(a). There were certainly no intentional actions taken to mislead, or to portray a picture different from what existed, but I do believe the Appellant did not exercise reasonable care in the completion of his returns.
+[27] One of the last issues is the company’s entitlement to a reduction of the amount of assessed GST/HST collectible. Based on the impact of the adjustments, which have been made to the net worth assessment, a corresponding adjustment will be made, where applicable, to the amount of assessed GST/HST collectible by the company.
+[28] Finally, in addition to the net worth discrepancies, gross negligence penalties were assessed pursuant to subsection 163(2) of the Act. While the negligence sufficient to trigger paragraph 152(4)(a) is a failure to use reasonable care, subsection 163(2) requires more – it requires gross negligence. In Venne v. R., 1984 CTC 223, the Court stated at paragraph 37:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+Courts have therefore limited the application of this provision to circumstances “where there is a high degree of blameworthiness involving knowing or reckless misconduct” (Venne at paragraph 40).
+[29] An interesting question arises when a taxpayer is unsuccessful in challenging the Minister’s net worth assessment: Is the taxpayer liable for gross negligence penalties where amounts are determined to be unreported income? In Wajsfeld v. R., 2005, 4 C.T.C. 2341, Justice Rip dealt with the issue and concluded that the Crown must satisfy the onus necessary to impose gross negligence penalties despite finding that the unreported amounts were to be included in the taxpayer’s income. At paragraph 56 he stated:
+… The Minister must do more than simply rely on the failure of the taxpayer to rebut a net worth assessment and point to as high amount of unreported income to meet the burden under subsection 163(3) … There is no doubt that the mens rea or the gross negligence may be established by circumstantial evidence, as either can seldom be established by direct proof of the taxpayer’s intention. However, that evidence should be clear and convincing … I am of the view that in the present case, the Minister did not adequately discharge his burden of proof in that he relied almost exclusively on the fact that the Appellant was unable to reverse the net worth assessments. In effect, subsection 163(3) requires evidence of the intent of gross negligence of the contravenor. This, in my view, should be done in a structured, clear and convincing manner.
+[30] The case of Wajsfeld clearly demonstrates that the Crown maintains the onus to prove gross negligence even where the assessment is based on the net worth method. In these appeals, the Crown presented no evidence regarding the Appellant’s alleged acts of gross negligence. The Crown did not point to any specific evidence or circumstances that amounted to gross negligence other than the difference resulting from the net worth assessment. The sole basis of the Crown’s argument for imposing penalties, under subsection 163(2), is the fact that the net worth assessment indicates that there was unreported income on the respective personal and corporate returns. If the Minister is going to assess gross negligence penalties, the Crown bears the onus and must do more than refer to the unreported amounts which have been added to the taxpayer’s income. In the present appeals, the Crown simply asserted that the “substantial difference” between the net worth assessment and the net amount actually reported on the returns are indicative of gross negligence. The relevant jurisprudence requires more. Further, when the adjustments are made to include the Appellant’s parents income, the difference is no longer substantial.
+[31] In summary, the appeals are allowed, with costs of $500.00 to the Appellants, to make the following adjustments to the net worth assessment:
+1. All of the parents’ available income will be reflected in the Appellant’s net worth assessment, thereby reducing the discrepancy resulting from the assessment. Adjustments for their living expenses should also be made.
+2. The Appellant will be entitled to a reduced vehicle standby charge calculated in accordance with my reasons for judgment.
+3. Corresponding adjustments will be made, where applicable, to the amounts of assessed GST/HST collectible by the company.
+4. Gross negligence penalties will be deleted.
+Signed at Summerside, Prince Edward Island, this 28th day of August 2007.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2007TCC489
+COURT FILES NO.:
+2006-2914(IT)I
+2006-2916(IT)I
+2006-2918(GST)I
+STYLE OF CAUSE:
+Don Wai Chen Seto and
+Delicious Sino-Euro–Combo Food Limited and
+Her Majesty the Queen
+PLACE OF HEARING
+Halifax, Nova Scotia
+DATE OF HEARING
+April 10, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT
+August 28, 2007
+APPEARANCES:
+Agent for the Appellant:
+Michael B. Dockrill
+Counsel for the Respondent:
+Lindsay Holland
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,258 @@
+Title: Coicou c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28999/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-628-28999-coicou-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-12-03
+
+# Coicou c. M.R.N.
+
+- Citation: 2008 CCI 628
+- Decision date: 2008-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6748, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coicou c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-12-03
+Référence neutre
+2008 CCI 628
+Numéro de dossier
+2008-462(EI)
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2008-462(EI)
+2008-464(EI)
+2008-466(EI)
+ENTRE :
+KARL COICOU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 29 juillet 2008, à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelant :
+Me Roch Guertin
+Avocate de l'intimé :
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2008.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2008 CCI 628
+Date : 20081203
+Dossiers : 2008-462(EI)
+2008-464(EI)
+2008-466(EI)
+ENTRE :
+KARL COICOU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Monsieur Karl Coicou interjette appel de décisions rendues par le ministre du Revenu national (ministre) en vertu de la Loi sur l'assurance‑emploi (Loi). Le ministre a décidé que M. Coicou n'occupait pas un emploi assurable auprès des trois payeurs suivants (trois payeurs) durant les périodes pertinentes suivantes :
+16 mars 2005 au 27 août 2005
+Thermo Service Supérieur inc.
+1er février 2006 au 10 mai 2006
+C.S.I. Mécanique du Bâtiment inc.
+4 juillet 2006 au 16 décembre 2006
+Chauffage Electroheat inc.
+[2] Pour justifier ses décisions, le ministre a conclu que M. Coicou n'occupait pas un emploi aux termes d'un contrat de louage de services durant les périodes pertinentes en raison de la nullité des contrats du fait que M. Coicou ne possédait pas un permis de travail durant ces périodes.
+[3] Pour rendre sa décision dans le dossier 2008-464(EI) (Thermo Service Supérieur inc.), le ministre a tenu pour acquis les faits présumés suivants :
+a) durant la période en litige, l'appelant a travaillé à titre de solliciteur auprès du payeur; (admis)
+b) durant cette période, il a accumulé 608 heures de travail et a gagné une rémunération totalisant 10 223,39 [$] et ce, conformément au relevé d'emploi émis par le payeur; (admis)
+c) l'appelant est originaire d'Haïti; (admis)
+d) il réside au Canada depuis environ 30 ans; (admis)
+e) l'appelant possède un niveau de scolarité universitaire; (nié)
+f) il a été admis au Canada pour des motifs humanitaires; (admis)
+g) à son arrivée au Canada, il a demandé et obtenu un permis de travail qu'il a renouvelé annuellement jusqu'en 1991; (admis)
+h) l'appelant n'a pas renouvelé son permis de travail pendant 16 ans, soit de 1991 à 2007; (admis)
+i) l'appelant mentionne ne pas avoir renouvelé son permis de travail car ses employeurs, incluant le payeur, ne lui demandait [sic] pas de leur montrer son permis de travail; (admis)
+j) durant toutes ces années, l'appelant n'a jamais fait de demande pour obtenir des prestations d'assurance‑emploi; (admis)
+k) en 2006, il réclamait des prestations d'assurance‑emploi pour la première fois; (admis)
+l) l'appelant avait « oublié » qu'il devait détenir un permis de travail pour être admissible aux prestations; (nié)
+m) l'appelant croyait que les retenues pour l'assurance‑emploi et pour les impôts provincial et fédéral représentaient un indice suffisant pour se qualifier aux prestations; (admis)
+n) durant la période en litige, l'appelant ne détenait aucun permis de travail au Canada; (admis)
+o) l'appelant avait accès aux informations concernant l'émission et l'obtention d'un permis de travail dans une langue qu'il maîtrise bien car il possède des études universitaires en français; (nié)
+p) l'appelant connaissait les procédures à suivre pour obtenir le renouvellement de son permis de travail car il a renouvelé son permis à chaque année de 1988 à 1991; (nié)
+q) durant toutes les années où il n'a pas demandé de renouvellement de son permis de travail, ce permis coûtait entre 150 $ et 180 $ par année, l'appelant mentionne seulement qu'il n'avait pas assez d'argent pour ce genre de déboursé; (nié)
+r) les informations obtenues d'Immigration Canada ne font aucunement état que l'appelant serait autorisé à travailler au Canada sans permis de travail; (ignoré)
+s) en vertu du Code civil du Québec, l'existence d'un contrat de travail est liée à la détention d'un permis de travail valide; (question de droit)
+[4] Les faits tenus pour acquis dans les deux autres appels de M. Coicou sont essentiellement semblables à ceux du dossier 2008‑464(EI).
+[5] Lors de l'audience, seulement M. Coicou et un agent (agent CIC) de Citoyenneté et Immigration Canada (Immigration Canada) ont témoigné. Le témoignage de ce dernier nous a présenté une image beaucoup plus claire des circonstances de la présence de M. Coicou au Canada. L'agent CIC a déclaré que M. Coicou était arrivé au Canada le 2 août 1977 en vertu d'un visa d'étudiant accordé pour une période d'un an. Selon M. Coicou, il était âgé de 14 ans à cette époque. Son séjour au Canada lui a permis de continuer ses études secondaires. M. Coicou arrivait de New York et venait rejoindre ses parents, qui avaient émigré au Canada. Ses parents avaient été parrainés par un frère de M. Coicou, qui lui‑même avait émigré au Canada et épousé une Canadienne.
+[6] M. Coicou est demeuré au Canada au‑delà de la période permise par son visa d'étudiant et s'est trouvé à enfreindre la Loi sur l'immigration[1] (Loi sur l’immigration 1976). Comme M. Coicou était mineur à l'époque, le ministre lui a délivré, pour des raisons humanitaires, un permis spécial l’autorisant à continuer à séjourner au Canada. Ce permis d'un an a été renouvelé deux fois, jusqu'au 15 octobre 1981.
+[7] Selon la fiche scolaire établie par la Commission des écoles catholiques de Montréal, M. Coicou a terminé ses études secondaires à l'École secondaire professionnelle de l'Ouest le 22 janvier 1982. Parmi les cours suivis, il y a les cours de mécanicien en tôlerie, d’hydrothermie, d’électrotechnique, de dessin technique et de technique mécanique (pièce A‑4).
+[8] Contrairement à ce qui est indiqué dans sa demande de prestations d'assurance‑emploi du 28 mars 2007, M. Coicou n'a pas terminé des études universitaires (Demande d'assurance‑emploi, pièce A‑5). Il a cessé ses études à la fin du secondaire et a commencé par obtenir un travail dans une entreprise située non loin de Canadair, à Ville St‑Laurent.
+[9] Le 5 mai 1983, M. Coicou reçoit l'ordre de quitter le Canada; le permis spécial du ministre avait été révoqué ou bien n'avait pas été renouvelé. Il semble que cette décision d’Immigration Canada soit reliée aux démêlés de M. Coicou avec la justice. En effet, M. Coicou a été reconnu coupable de vol ne dépassant pas 200 $ le 11 mai 1983. Par la suite, il a été reconnu coupable de méfait à l’égard de biens publics, le 11 janvier 1984, et de vol ne dépassant pas 200 $, le 21 mars 1985. Quelques jours plus tard, soit le 24 mars 1985, sa demande de statut de réfugié était refusée.
+[10] M. Coicou s'est marié en 1986 et aurait eu un enfant au cours de cette année et un autre au cours de l'année suivante.
+[11] Même s'il ne possédait plus de statut juridique lui permettant d’être présent au Canada, M. Coicou a obtenu des permis de travail au cours des années 80 et 90. Le premier lui a été délivré pour la période du 9 août 1988 au 8 août 1989, le deuxième pour la période du 9 août 1989 au 8 août 1990, et le troisième pour la période du 1er juin 1990 au 31 mai 1991. Selon l'agent CIC, Immigration Canada fournit à un étranger qui fait une demande de permis de travail une trousse d'information dans laquelle on rappelle aux étrangers qu'ils doivent obtenir un permis de travail pour travailler au Canada et qui leur indique comment remplir la demande de permis de travail.
+[12] Le 11 novembre 1992, M. Coicou a fait une demande de résidence permanente fondée sur des considérations humanitaires[2]. Dans un premier temps, un décret a été pris par le gouvernement canadien dispensant M. Coicou de détenir un visa pour séjourner au Canada, de détenir un passeport et d’avoir à satisfaire aux critères de sélection habituels. Ces exigences s'appliquent à l'égard d'étrangers résidant au Canada depuis longtemps, y ayant une famille et ayant occupé des emplois démontrant un certain degré d'intégration de ces étrangers dans la société canadienne. Par contre, en raison du casier judiciaire de M. Coicou, sa demande de résidence permanente ne pouvait être acceptée, à moins qu'une demande de réhabilitation soit accueillie par la Commission nationale des libérations conditionnelles. M. Coicou devenait admissible à une telle réhabilitation à partir du 25 décembre 2000.
+[13] Le 29 mai 2001, M. Coicou a été invité à réagir relativement à de nouveaux renseignements qu'Immigration Canada avait obtenus et selon lesquels il pouvait être une personne interdite de territoire au Canada. Le 11 février 2002, M. Coicou a fait une demande de permis de travail (pièce I-2). Le 11 mars 2002, Immigration Canada a reçu une demande de modification des conditions de séjour signée par M. Coicou pour devenir résidant permanent. Il indique comme adresse le 5200 Dudemaine, appartement 419 et comme code postal le H4J 1N8 (à noter que le J peut-être confondu pour un T). Lors d'une entrevue du 19 juin 2002 concernant sa demande de permis de travail de février 2002, un agent d'immigration lui a recommandé de procéder à une demande de pardon le plus tôt possible afin qu'on puisse finaliser sa demande de résidence permanente.
+[14] Dans une lettre en date du 21 juin 2002, adressée au 5200 rue Dudemaine, appartement 419, H4T 1N8[3], une conseillère en immigration informe M. Coicou qu'il a été impossible de le joindre relativement à sa demande de permis de travail du 11 février 2002 et lui indique que, dans ces circonstances, elle se voyait dans l'obligation de refuser cette demande (pièce I‑2). Elle lui fait savoir que s'il désire un tel permis, il devra faire une nouvelle demande et envoyer un montant de 150 $ en paiement du document. M. Coicou ne se rappelait pas avoir fait une telle demande de permis. Il ne se souvenait pas non plus d'avoir reçu la lettre du 21 juin 2002. Il ne se rappelait pas, d'ailleurs, s'il habitait rue Dudemaine à cette époque. Lorsqu'on lui a présenté la demande de renouvellement de permis de 2002, M. Coicou a dit « je ne veux pas mentir » et a reconnu sa signature. Il a dit : « Je vais vous dire la vérité, je ne me souviens pas de l'avoir signée. » Il a dit également : « Je vais vous dire la vérité, si j'avais su que j'aurais droit à mon permis de travail si je payais 150 $, je l'aurais payé. » Dans une demande de vérification des dossiers de la police locale faite par lui le 13 mars 2007, M. Coicou indique comme une des adresses où il a habité au cours des cinq années précédentes, 5200 rue « du Domaine », appartement 419 pour mois de septembre 1997 au mois de septembre 2003. (Pièce A-7) Il est fort probable que M. Coicou a confondu « Dudemaine » pour « Du Domaine » en remplissant ce formulaire. Comme le numéro civique et le numéro de l’appartement sont les bons et qu’il avait indiqué comme adresse la rue Dudemaine dans sa demande de modification des conditions de séjour de mars 2002, il est fort probable qu’il demeurait rue Dudemaine lorsque l’agent d’immigration a tenté de la rejoindre en juin 2002. Par contre, on ne peut être certain que la lettre du 21 juin 2002 lui a été livrée en raison de l’erreur du code postal.
+[15] Le 2 décembre 2004, Immigration Canada rappelait à nouveau à M. Coicou qu'il lui était loisible, depuis le 25 décembre 2000, de présenter une demande de réhabilitation à la Commission nationale des libérations conditionnelles et lui demandait de bien vouloir faire parvenir à Immigration Canada la preuve d’une telle demande de pardon. Le 31 mars 2005, l'agent d'immigration rappelait à M. Coicou qu'il n'avait pas donné suite à la demande de fournir la preuve qu'il avait fait une demande de pardon, lui rappelait qu'il avait été déclaré coupable de plusieurs infractions criminelles de 1983 à 1997 et le déclarait interdit de territoire au Canada en vertu de l'alinéa 36(2)a) de la Loi sur l'immigration 2001 (voir pièce I‑1).
+[16] Même si une nouvelle interdiction de territoire lui a été communiquée le 31 mars 2005, il n’y a pas eu d’exécution de cette interdiction, et ce, en raison du moratoire décidé par le Canada, qui n'expulse pas de son territoire des personnes originaires d’Haïti. Ce moratoire est en vigueur depuis 2004.
+[17] À l'heure actuelle, il n'existe aucune nouvelle demande de résidence permanente qui a été présentée par M. Coicou. Ce dernier a par contre fait une demande de réhabilitation le 30 janvier 2006 (pièce A‑7). Il n'a pas encore obtenu de décision de la Commission nationale des libérations conditionnelles. Selon l'agent CIC, M. Coicou ne possède aucun statut lui permettant de résider au Canada. S'il y demeure, c'est en raison de la tolérance administrative du gouvernement canadien, selon toute probabilité en raison du moratoire visant les personnes d'origine haïtienne.
+[18] Ce sont des problèmes de santé l’empêchant de travailler qui ont amené M. Coicou à demander en 2006 des prestations d’assurance-emploi. M. Coicou a fait une nouvelle demande de permis de travail et en a obtenu un pour la période du 1er juin 2007 au 1er juin 2008.
+[19] Lors de son témoignage, M. Coicou a souvent répété qu'il n'avait pas demandé de permis de travail durant les périodes pertinentes parce que ses employeurs éventuels, y compris les trois payeurs, n’ont jamais demandé à voir de tel permis et que s'il avait su qu’un permis était nécessaire, il aurait versé sans problème la somme de 150 $. M. Coicou a rappelé qu'il avait déclaré dans ses déclarations de revenus tous les revenus qu'il avait gagnés auprès des trois payeurs et qu'il avait cotisé au régime d'assurance‑emploi.
+[20] L'agent CIC a aussi confirmé que M. Coicou aurait selon toute probabilité obtenu son permis de travail parce que la délivrance d'un tel permis est quasi automatique.
+Position des parties
+Position de l’intimée
+[21] La procureure du ministre a fait un exposé clair et concis de l'état du droit en la matière. Elle a rappelé que la disposition pertinente qu'il faut interpréter ici est l’alinéa 5(1)a) de la Loi, qui édicte :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[Je souligne.]
+[22] Comme la Loi ne définit pas ce qui constitue un contrat de louage de services et qu'il s'agit là d'une notion appartenant au domaine de la propriété et des droits civils, cette notion doit être analysée à la lumière du droit civil québécois, les contrats entre monsieur Coicou et les trois payeurs ayant été établis au Québec. C’est l'article 8.1 de la Loi d’interprétation qui requiert cette approche. Voici ce qu’il édicte :
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte
+[Je souligne.]
+[23] Voici l'analyse faite par le juge Décary dans 9041‑6868 Québec inc. c. Canada (Le Ministre du Revenu national), 2005 CAF 334, [2005] A.C.F. No 1720 (QL) (l'affaire Tambeau), aux paragraphes 5, 6 et 7 :
+5 L'article 8.1 de la Loi d'interprétation est entré en vigueur le 1er juin 2001. Il vient codifier un principe de complémentarité entre le droit privé d'une province et une loi fédérale qui était reconnu (voir St-Hilaire, précité) mais qui n'était pas toujours mis en pratique. [...]
+6 Il se peut, il est même probable dans la plupart des cas, qu'un contrat semblable amènerait une qualification semblable, que l'on applique les règles du droit civil ou celles de la common law. Mais l'exercice n'en est pas un de droit comparé et l'objectif ultime n'est pas l'obtention d'un résultat uniforme. L'exercice, au contraire, et c'est là le voeu même du Parlement canadien, est de s'assurer que la démarche du tribunal se situe à l'intérieur du système applicable et l'objectif ultime est de préserver l'intégrité de chacun des systèmes juridiques. À cet égard, ces propos du juge Mignault dans l'arrêt Curly c. Latreille, (1920) 60 R.C.S. 131, à la page 177 conservent leur actualité :
+Il est quelquefois dangereux de sortir d'un système juridique pour chercher des précédents dans un autre système, pour le motif que les deux systèmes contiennent des règles semblables, sauf bien entendu le cas où un système emprunte à l'autre une règle qui lui était auparavant étrangère. Alors même que la règle est semblable dans les deux, il est possible qu'elle n'ait pas été entendue ou interprétée de la même manière dans chacun d'eux, et, comme l'interprétation juridique--je parle bien entendu de celle qui nous oblige--fait réellement partie de la loi qu'elle interprète, il peut très bien arriver que les deux règles, malgré une apparente similitude, ne soient pas du tout identiques.
+Je ne fonderai donc pas les conclusions que je crois devoir adopter en cette cause sur aucun précédent tiré du droit anglais [...] (mon soulignement)
+7 Bref, c'est le Code Civil du Québec qui détermine les règles applicables à un contrat conclu au Québec. Ces règles se retrouvent notamment dans ces dispositions du Code qui traitent du contrat en général (art. 1377 C.c.Q. et suiv.), et dans celles qui traitent du « contrat de travail » (art. 2085 à 2097 C.c.Q.) et du « contrat d'entreprise ou de service » (art. 2098 à 2129 C.c.Q.). Les articles 1378, 1425, 1426, 2085, 2098 et 2099 C.c.Q. sont les plus pertinents pour les fins du présent dossier :
+[...]
+[Je souligne.]
+[24] C’est donc en vertu des dispositions du Code civil du Québec (Code civil ou C.c.Q.) qu’il faut décider s’il existait un contrat de travail entre monsieur Coicou et les trois payeurs.
+[25] Dans l'affaire qui nous occupe, les dispositions pertinentes du Code civil sont les suivantes:
+9. Dans l'exercice des droits civils, il peut être dérogé aux règles du présent code qui sont supplétives de volonté; il ne peut, cependant, être dérogé à celles qui intéressent l'ordre public.
+1413. Est nul le contrat dont l'objet est prohibé par la loi ou contraire à l'ordre public.
+1417. La nullité d'un contrat est absolue lorsque la condition de formation qu'elle sanctionne s'impose pour la protection de l'intérêt général.
+1418. La nullité absolue d'un contrat peut être invoquée par toute personne qui y a un intérêt né et actuel; le tribunal la soulève d'office.
+Le contrat frappé de nullité absolue n'est pas susceptible de confirmation.
+1419. La nullité d'un contrat est relative lorsque la condition de formation qu'elle sanctionne s'impose pour la protection d'intérêts particuliers; il en est ainsi lorsque le consentement des parties ou de l'une d'elles est vicié.
+1420. La nullité relative d'un contrat ne peut être invoquée que par la personne en faveur de qui elle est établie ou par son cocontractant, s'il est de bonne foi et en subit un préjudice sérieux; le tribunal ne peut la soulever d'office.
+Le contrat frappé de nullité relative est susceptible de confirmation.
+1422. Le contrat frappé de nullité est réputé n'avoir jamais existé.
+Chacune des parties est, dans ce cas, tenue de restituer à l'autre les prestations qu'elle a reçues.
+[Je souligne.]
+[26] Les dispositions pertinentes de la Loi sur l'immigration 2001 ainsi que celles du Règlement sur l'immigration et la protection des réfugiés (Règlement) sont les suivantes :
+Loi
+2(1) Les définitions qui suivent s’appliquent à la présente loi.
+« étranger » Personne autre qu’un citoyen canadien ou un résident permanent; la présente définition vise également les apatrides.
+2(2) Sauf disposition contraire de la présente loi, toute mention de celle‑ci vaut également mention des règlements pris sous son régime.
+30(1) L’étranger ne peut exercer un emploi au Canada ou y étudier que sous le régime de la présente loi.
+30(2) L’enfant mineur qui se trouve au Canada est autorisé à y étudier au niveau préscolaire, au primaire ou au secondaire, à l’exception de celui du résident temporaire non autorisé à y exercer un emploi ou à y étudier.
+41. S’agissant de l’étranger, emportent interdiction de territoire pour manquement à la présente loi tout fait — acte ou omission — commis directement ou indirectement en contravention avec la présente loi et, s’agissant du résident permanent, le manquement à l’obligation de résidence et aux conditions imposées.
+44(1) S’il estime que le résident permanent ou l’étranger qui se trouve au Canada est interdit de territoire, l’agent peut établir un rapport circonstancié, qu’il transmet au ministre.
+44(2) S’il estime le rapport bien fondé, le ministre peut déférer l’affaire à la Section de l’immigration pour enquête, sauf s’il s’agit d’un résident permanent interdit de territoire pour le seul motif qu’il n’a pas respecté l’obligation de résidence ou, dans les circonstances visées par les règlements, d’un étranger; il peut alors prendre une mesure de renvoi.
+44(3) L’agent ou la Section de l’immigration peut imposer les conditions qu’il estime nécessaires, notamment la remise d’une garantie d’exécution, au résident permanent ou à l’étranger qui fait l’objet d’un rapport ou d’une enquête ou, étant au Canada, d’une mesure de renvoi.
+45. Après avoir procédé à une enquête, la Section de l’immigration rend telle des décisions suivantes :
+a) reconnaître le droit d’entrer au Canada au citoyen canadien au sens de la Loi sur la citoyenneté, à la personne inscrite comme Indien au sens de la Loi sur les Indiens et au résident permanent;
+b) octroyer à l’étranger le statut de résident permanent ou temporaire sur preuve qu’il se conforme à la présente loi;
+c) autoriser le résident permanent ou l’étranger à entrer, avec ou sans conditions, au Canada pour contrôle complémentaire;
+d) prendre la mesure de renvoi applicable contre l’étranger non autorisé à entrer au Canada et dont il n’est pas prouvé qu’il n’est pas interdit de territoire, ou contre l’étranger autorisé à y entrer ou le résident permanent sur preuve qu’il est interdit de territoire.
+124(1) Commet une infraction quiconque :
+a) contrevient à une disposition de la présente loi pour laquelle aucune peine n’est spécifiquement prévue ou aux conditions ou obligations imposées sous son régime;
+b) échappe ou tente d’échapper à sa détention;
+c) engage un étranger qui n’est pas autorisé en vertu de la présente loi à occuper cet emploi.
+124(2) Quiconque engage la personne visée à l’alinéa (1)c) sans avoir pris les mesures voulues pour connaître sa situation est réputé savoir qu’elle n’était pas autorisée à occuper l’emploi.
+124(3) Est disculpée de l’infraction visée à l’alinéa (1)a) la personne visée au paragraphe 148(1) qui établit qu’elle a pris toutes les mesures voulues pour en prévenir la perpétration.
+125. L’auteur de l’infraction visée au paragraphe 124(1) est passible, sur déclaration de culpabilité :
+a) par mise en accusation, d’une amende maximale de cinquante mille dollars et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines;
+b) par procédure sommaire, d’une amende maximale de dix mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+Règlement
+196. L’étranger ne peut travailler au Canada sans y être autorisé par un permis de travail ou par le présent règlement.
+209. Le permis de travail devient invalide lorsqu’il expire ou lorsqu’une mesure de renvoi visant son titulaire devient exécutoire.
+[Je souligne.]
+[27] L'avocate de l'intimée a invoqué la décision rendue par le juge Dumais de la Cour du Québec dans l'affaire Saravia c. 101482 Canada inc., [1987] R.J.Q. 2658 (C.P.). Dans cette affaire, M. Saravia avait demandé des dommages‑intérêts par suite de son congédiement illégal par son employeur. Comme mesure préliminaire, le prétendu employeur avait présenté une requête en irrecevabilité à l’égard de l’action en dommages‑intérêts, en vertu de l'article 75.1 du Code de procédure civile. Cette requête fut accueillie au motif que le contrat de travail était illégal. Pour en arriver à cette conclusion, le juge Dumais avait donné effet à la prohibition de la Loi sur l'immigration 1976 et en particulier au paragraphe 18(1) du Règlement sur l'immigration de 1978, dont la portée est sensiblement la même que celles des articles 30 de la Loi sur l'immigration 2001 et 196 du règlement en vigueur durant les périodes pertinentes. Voici ce que le juge Dumais écrit à la page 2659 :
+Furthermore, the actual Immigration Act, 1976 does not clearly state that a contract of employment with an illegal immigrant is in itself illegal: the penalty is a fine or imprisonment (sec. 99 of the said Act).
+But, contends attorney for Petitioner, section 984 C.C. prevented the contract of employment of Respondent from being legal, as it clearly was “contrary to public order” (sec. 990 C.C. and 13 C.C.).
+Of course, it is accepted by this Court that the Immigration Act, 1976 is of “public order”, and cannot be modified by a contract between private parties, nor can it be overlooked by the Court.
+The Supreme Court of Canada found that the Architects’ Act of Quebec is a statute of public order, and voided a contract made in breach of said Act:
+Cette loi est non seulement une loi d’ordre public, mais elle est aussi une loi prohibitive comportant une pénalité. Il n’est pas nécessaire, je crois, de faire une longue dissertation pour démontrer qu’en principe les lois de ce genre emportent nullité quoiqu’elle n’y soit pas prononcée.
+[…]
+I would in any event be of opinion that a statute of the character here in question is one of public order importing nullity in all contracts made in breach of it.
+More recently, the Honourable Louis Doiron, J.C.S., found illegal and null a contract of employment contravening the decree under the Loi sur les relations du travail dans l’industrie de la construction, stating with both doctrinal and jurisprudential arguments:
+La sanction s’attachant à la violation d’une loi d’ordre public est la nullité absolue.
+This Court cannot find otherwise: the Immigration Act, 1976 is a statute of public order, and a contract, knowingly or not, made in breach of one or many of its sections will be void and null. Such is the sanction clearly written in sections 13 and 14 of our Civil Code.
+[Je souligne.]
+[28] Dans ses motifs, le juge Dumais se reportait non seulement aux anciennes dispositions de la Loi sur l'immigration (1976) mais également aux dispositions du Code civil du Bas‑Canada (ancien Code). La règle de l’article 13 de l'ancien Code se trouve essentiellement à l'article 9 du nouveau Code civil et les règles des articles 984 et 990 se trouvent aux articles 1413 et 1417 du nouveau Code civil.
+[29] L’avocate de l’intimée a également cité la décision que j’ai rendue dans Isidore c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 463 (QL). Voici la conclusion à laquelle j'en étais venu au paragraphe 15 :
+15 Je conclus donc, comme l'a fait le juge Dumais dans l'affaire Saravia, que la Loi sur l'immigration est une loi d'ordre public et qu'elle vise la protection de l'intérêt général. Elle vise à réglementer qui peut entrer et demeurer au Canada. Notamment les citoyens canadiens et les résidents permanents (sauf dans certaines circonstances) ont le droit d'entrer et de demeurer au Canada. Les objectifs énoncés à l'article 3 de la Loi sur l'immigration nous permettent de constater que l'ordre public constitue un des objectifs visés par cette loi. J'estime que l'article 18 du Règlement sur l'immigration de 1978 donne aux autorités canadiennes un des moyens nécessaires pour leur permettre de maintenir l'ordre public au Canada.
+[Je souligne[4].]
+[30] Le juge Charron, juge suppléant de cette Cour, a également rendu une décision semblable à celle de Saravia dans Mia c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.I. no 199 (QL)[5]. Voici ce qu'il a écrit aux paragraphes 12, 13, 17 et 18 :
+12 En l'espèce, l'appelant savait ou aurait dû savoir qu'un permis de travail en cours de validité lui était nécessaire pour prendre et conserver un emploi au Canada. Tout comme dans l'affaire Polat c. M.R.N. [1997] A.C.F. no 1675 (4 décembre 1997, A-31-97 (C.A.F.) et 96-402(UI) (C.C.I.), 17 mars 1998), l'appelant avait déjà obtenu dans le passé un permis de travail (période du 29 septembre 1994 au 24 juin 1995). L'obtention d'un premier permis de travail est significative parce que cela indique que l'appelant savait qu'à son expiration il devrait en obtenir un nouveau avant de prendre ou conserver un emploi. Au surplus, il admet qu'il a négligé d'obtenir un autre permis durant la période en litige.
+13 Au surplus, l'intimé soumet que la question de la bonne ou de la mauvaise foi n'est par [sic] pertinente, en droit civil québécois, afin de déterminer si un contrat d'emploi interdit par une loi est nul dans le contexte d'un litige en assurance-chômage. Dans l'affaire Still (supra), la Cour d'appel fédérale donnait cet avertissement : "nous ne saurions perdre de vue le fait que les affaires émanant du Québec doivent être tranchées en vertu des dispositions relatives à l'illégalité qui figurent au Code civil du Québec".
+[...]
+17 La Loi sur l'immigration est une loi d'ordre public qui vise la protection de l'intérêt général. Elle vise à réglementer qui peut entrer et demeurer au Canada.
+18 Donc en vertu du droit civil en vigueur au Québec, le contrat de travail conclu, de bonne ou de mauvaise foi, par une personne non citoyenne canadienne et non résidente permanente qui ne détient pas de permis de travail valide est nul et sans effet. (Saad c. M.R.N. [1997] A.C.I. no 644 (9 juillet 1997) Ottawa 96-1719(UI) (C.C.I.) et Kante c. M.R.N. [1997] A.C.I. no 463 (23 mai 1997) Ottawa 94-1056 et 95-1153(UI) (C.P.I.) [sic]).
+[Je souligne.]
+[31] De façon subsidiaire, à supposer que la common law doive prévaloir dans cet appel, l'avocate de l’intimée soutient que M. Coicou n'était pas de bonne foi puisqu'il savait qu'il devait obtenir un permis de travail pour pouvoir travailler et qu'il ne l'a pas fait. Elle cite la décision du juge Mogan dans l’affaire Polat c. Canada (ministre du Revenu national – M.R.N.), [1998] A.C.I. no 316 (QL). Voici ce que le juge Mogan écrit au paragraphe 16 de sa décision :
+16 Je conclus donc que la situation de l'appelant est différente de celle de Kathleen Still. Non seulement Mme Still agissait en toute bonne foi, mais encore avait-elle en sa possession un document d'Immigration Canada qui l'amenait à croire qu'elle avait le droit de chercher et d'accepter un emploi. L'appelant n'avait pas un tel document en sa possession. Il n'avait pas exercé d'emploi pendant les deux premières années qui ont suivi son arrivée au Canada, du printemps 1992 jusqu'au mois de juillet 1994, si ce n'est un emploi qu'il aurait exercé en vertu du permis de séjour pour étudiant qui lui avait été accordé pour la période allant du mois d'août 1993 au mois de février 1994. Le fait qu'il détenait un permis de séjour pour étudiant et qu'il exerçait un emploi en vertu de ce permis aurait dû éveiller son attention sur le fait que, à l'expiration du permis, il lui fallait un nouveau permis de travail avant d'accepter un autre emploi.
+[Je souligne.]
+Position de M. Coicou
+[32] L'avocat de M. Coicou a beaucoup insisté sur le fait que, si M. Coicou avait versé la somme de 150 $, il aurait obtenu un permis de travail. M. Coicou n'est pas dans une situation de clandestinité au Canada. Immigration Canada savait qu'il était sur le territoire canadien. Par contre, si on ne l'a pas renvoyé du Canada, c'est en raison du moratoire qui existe depuis 2004. L’avocat a évoqué l'approche de la common law adoptée dans l'affaire Still pour conclure qu’il ne pouvait y avoir lieu à nullité dans les circonstances de M. Coicou[6]. Il a tenté, de plus, de minimiser la portée de la décision Saravia, soutenant qu'il s'agissait là d'une décision rendue sur une requête en irrecevabilité avant l'audition au fond.
+[33] Selon lui, le contrat de M. Coicou avec les trois payeurs était un contrat légal. La prohibition de l'article 196 du Règlement ne constitue qu'une simple formalité et sa sanction doit être de nature règlementaire. Il ne peut être question d'ordre public lorsqu’il s’agit de verser une somme de 150 $ pour l'obtention quasi automatique d'un permis de travail. Il n'y a pas ici protection de l'intérêt général. À l'appui de sa prétention, il a cité Les Obligations, 6e édition, Éditions Yvon Blais, de Pierre‑Gabriel Jobin et Nathalie Vézina, en particulier le paragraphe 168, qui traite de la nullité en matière de sanctions de l'ordre public :
+F. Sanctions de l'ordre public
+168 − Nullités − En doctrine et jurisprudence classiques, la sanction qui s'impose à la violation de l'ordre public dans un acte juridique est la nullité absolue184. Toutefois, le droit, sur ce plan, a beaucoup évolué. D'abord, quand la loi interdit expressément de passer tel ou tel contrat, il y aura alors nullité185. Toutefois quand elle se borne à interdire telle ou telle activité ou un état de fait sous peine de sanction pénale ou administrative, la situation est moins claire : il n'y a pas lieu d'après nous d'annuler le contrat passé en violation d'une telle restriction quand l'objectif du législateur, dans la disposition concernée, n'exige pas que le contrat soit frappé de nullité; il convient d'opter pour une autre sanction moins draconienne (par exemple la réduction du prix), voire pour aucune sanction au plan contractuel (laissant le droit pénal régir seul la situation)186. Par voie de conséquence, la règle selon laquelle les lois prohibitives emportent nullité187 est maintenant appliquée avec nuances et de façon restrictive : cela évite de perturber le commerce et l'industrie plus que nécessaire.
+[...]
+184. Par ex. art. 1411, 1413, 1417, 1783 (incapacité des officiers de justice d'acheter des droits litigieux), 1823 (interdiction de donation à titre universel entre vifs), 1824 C.c. (formalité de la donation entre vifs).
+185. Supra no 145. Par ex. Pauzé c. Gauvin, [1954] R.C.S. 16.
+186. Voir sur ce sujet Girard c. Véronneau, [1979] R.P. 237; [1980] C.A. 534; commentaire T. Rousseau‑Houle, (1981) 41 R. du B. 134; Belgo‑Fisher (Canada) Inc. c. Lindsay, [1988] R.J.Q. 1231 (C.A.); Pomerleau c. 2319‑8419 Québec Inc., [1989] R.J.Q. 137 (C.S.); Robert Vigneux et Fils Inc. c. Therrien, [1994] R.D.I. 616 (C.S.); Dolomex inc. c. Dercon Construction Canada inc., [2002] R.D.I. 183, REJB 2002‑29590 (C.A.); Dépanneur Kildare enr. c. Elge Financialease Inc., J.E. 98‑2085, REJB 1998‑08539 (C.A.); Roch Lessard inc. c. Immobilière S.H.Q., [2003] R.J.Q. 3119, REJB 2003‑48960 (C.S.). P.‑G. Jobin, « Les effets du droit pénal ou administratif sur le contrat : où s'arrêtera l'ordre public ? », (1985) 45 R. du B. 655.
+187. Loi d'interprétation, L.R.Q. c. I‑16, art. 41.3.
+[34] De plus, selon l’avocat de M. Coicou, le travail n'était pas l'objet du contrat. L'article 196 du Règlement vise à assujettir l'exercice d'un emploi à des modalités administratives, à savoir l'obtention d'un permis de travail. La règle énoncée à l’article 1413 du C.c.Q. doit s'appliquer dans des cas clairs, comme celui où l'objet du contrat est, par exemple, la contrebande ou l'assassinat d'une personne.
+Analyse
+[35] Je souscris à ce qu’a dit l’avocate de l’intimée dans son exposé du droit.
+[36] À mon avis, le procureur de M. Coicou a tort de vouloir appliquer aux faits de ces appels l'approche adoptée par les tribunaux de common law et en particulier celle de la Cour d'appel fédérale dans l'affaire Still.
+[37] Dans Still, le juge Robertson écrivait au paragraphe 45 : « [...] j'estime que la Cour fédérale devrait s'efforcer de favoriser l'uniformité des décisions judiciaires sur la question du droit à des prestations d'assurance‑chômage. » (Je souligne.) À mon avis, l’application du principe d'uniformité faite en 1997 n'est plus de mise en raison de l’entrée en vigueur en juin 2001 de l'article 8.1 de la Loi d’interprétation, tout comme le reconnaît d'ailleurs le juge Décary dans l'affaire Tambeau. Par contre, les propos suivants du juge Robertson au paragraphe 44 de l’arrêt Still sont conformes à l'esprit de l’article 8.1 de la Loi d’interprétation : « Vu le caractère bijuridique de la Cour fédérale, nous ne saurions perdre de vue le fait que les affaires émanant du Québec doivent être tranchées en vertu des dispositions relatives à l'illégalité qui figurent au Code civil du Québec. »
+[38] En outre, pour illustrer la justesse des propos du juge Mignault dans l’arrêt Curly, cités dans l’arrêt Tambeau et reproduits plus haut, à savoir qu’il est dangereux de sortir d’un système juridique pour chercher des précédents dans un autre, il faut souligner les différences importantes existant, sur le plan du droit, entre la common law et le droit civil du Québec. Une telle différence ressort du commentaire suivant du juge Robertson dans Still au paragraphe 46 :
+46 Le professeur Waddams affirme que si une loi interdit la formation d'un contrat, les tribunaux devraient être libres de déterminer les conséquences d'une infraction à cette loi (à la p. 372). Je suis d'accord avec lui. Si les législatures ne veulent pas préciser les conséquences contractuelles qu'entraîne le non-respect d'une interdiction prévue par une loi et se contentent d'infliger une peine ou une sanction administrative, alors il est entièrement du ressort d'un tribunal de déterminer, dans les faits, si d'autres sanctions devraient être prises. Comme la théorie de l'illégalité n'émane pas du législateur, mais du pouvoir judiciaire, c'est aux juges d'aujourd'hui qu'il appartient de faire en sorte que ses principes soient compatibles avec les valeurs contemporaines. [...]
+[Je souligne.]
+[39] Contrairement aux provinces de common law, la source première du droit au Québec est le Code civil; dans les autres provinces canadiennes, c’est la common law, élaborée par les tribunaux[7]. Au Québec, l'Assemblée nationale du Québec a précisé « les conséquences contractuelles qu'entraîne le non-respect d'une interdiction prévue par une loi ». Par conséquent, contrairement à ce qui se fait dans le cas des autres provinces, soit celles de common law, un tribunal appliquant une loi québécoise ne peut adopter une théorie de l’illégalité différente de celle adoptée par le législateur québécois.
+[40] Selon l’article 1413 du Code civil, est nul le contrat dont l’objet est prohibé par la loi ou contraire à l’ordre publique. Dans l’ouvrage « Les Obligations » cité plus haut, les auteurs définissent la notion de l’objet d’un contrat comme « l’opération juridique principale que les parties avaient en vue et sur laquelle elles ont réalisé l’accord de volonté » (paragraphe 368, page 391). Ici, il est clair que l’objet des contrats liant M. Coicou aux trois payeurs était la fourniture d’un travail sous le contrôle d’une personne moyennant rémunération, soit l’exercice d’un emploi au Canada.
+[41] Or, l’article 30 de la Loi sur l’immigration 2001 et l’article 196 du Règlement édictent qu’un étranger ne peut exercer un emploi au Canada sans y être autorisé par un permis de travail ou par le Règlement. Ainsi, l’objet qui est visé par l’entente entre M. Coicou et les trois payeurs est prohibé par la loi et, comme cela a été déterminé dans les décisions citées par l’avocate de l’intimée, doit être aussi considéré comme contraire à l’ordre publique.
+[42] Les règles législatives de la nullité d’un contrat diffèrent selon qu’il s’agisse d’une nullité absolue ou d’une nullité relative. Lorsqu’il s’agit d’une nullité relative, le contrat est susceptible de confirmation. C’est ce qu’édicte le deuxième alinéa de l’article 1420 du Code civil. En outre, le premier alinéa de cet article édicte que cette nullité ne peut être invoquée que par la personne en faveur de qui elle est établie ou par son cocontractant, s’il est de bonne foi et qu’il subit un préjudice sérieux. Le tribunal ne peut la soulever d’office.
+[43] Par contre, s’il s’agit d’une nullité absolue, l’article 1418 du Code civil édicte qu’un contrat frappé d’une telle nullité n’est pas susceptible de confirmation. Cette nullité peut être invoquée par toute personne qui a un intérêt né et actuel. En outre, « le tribunal la soulève d’office ». Tel que l’édictent les articles 1417 et 1419, la sanction de la nullité absolue s’impose pour la protection de l’intérêt général alors que la nullité relative s’impose pour la protection d’intérêts particuliers.
+[44] Pour décider s’il faut appliquer ici la sanction de la nullité absolue ou celle de la nullité relative, il faut déterminer si la sanction s’impose pour la protection d’intérêts particuliers ou de l’intérêt général. La prohibition de l'article 30 de la Loi sur l’immigration 2001 et de l’article 196 du Règlement ne vise pas la protection d’intérêts particuliers. En effet, on ne voit pas comment la nécessité de détenir un permis de travail protège un travailleur ou son employeur. Elle cause plutôt un préjudice au travailleur puisqu'elle l'oblige à obtenir un permis de travail avant de pouvoir travailler, et à engager des frais, ici de 150 $. Les citoyens canadiens et les résidents permanents ne sont pas assujettis à de telles contraintes. La Loi sur l’immigration 2001 vise plutôt la protection de l’intérêt général, notamment par la réglementation de la présence d’étrangers sur le territoire canadien, tel qu’il ressort des alinéas 3(1)h) et 3(2)g) de cette loi. En vertu de ces alinéas, l'objet est de protéger la santé des Canadiens et de garantir leur sécurité tant en matière d’immigration qu’en ce qui a trait aux réfugiés. À mon avis, les propos suivants du juge Gonthier, au paragraphe 23 de l’affaire Fortin c. Chrétien, [2001] 2 R.C.S. 500[8], sont tout à fait pertinents ici : « Étant donné les impératifs liés à la protection du public auxquels répond la Loi sur le Barreau […], ses dispositions concernant l’exercice d'actes réservés ne sauraient être édictées qu’en vu de protéger l’intérêt général. » (Je souligne.) Lorsqu’une condition de formation d’un contrat s’impose pour la protection de l’intérêt général, la sanction est la nullité absolue. Ainsi, toutes les conditions d’application des articles 1413, 1417 et 1418 C.c.Q. sont présentes ici. Le travail d’un étranger au Canada est à la fois prohibé par la loi et contraire à l’ordre public à moins que le travailleur n’ait obtenu un permis de travail. La sanction dans un pareil cas est la nullité absolue puisqu’elle s’impose pour la protection de l’intérêt général, et cette nullité peut être invoquée par toute personne qui a un intérêt né et actuel. À mon avis, l’intimée a ici un tel intérêt. En plus, le tribunal doit soulever d’office cette nullité. Par conséquent, le contrat intervenu entre M. Coicou et chacun des trois payeurs est réputé n’avoir jamais existé, tel que l’édicte l’article 1422 du Code civil.
+[45] Même si cette sanction peut paraître exorbitante ou disproportionnée par rapport aux conséquences découlant du fait d’avoir travaillé au Canada sans permis de travail (M. Coicou aurait pu facilement en obtenir un), il n’appartient pas aux tribunaux de modifier le Code civil pour adopter un régime de sanction différent de celui édicté par le législateur. Dans les provinces de common law, il est clair que les tribunaux ont la latitude nécessaire pour adopter des sanctions plus équitables parce que la théorie de l’illégalité n’émane pas du législateur, mais du pouvoir judiciaire. Au Québec, contrairement à la situation dans les autres provinces canadiennes, la théorie de l’illégalité émane du législateur. Comme les dispositions du Code civil sont claires quant aux conséquences de l’absence d’une des conditions essentielles à l’existence d’un contrat, soit un objet qui n’est pas prohibé par la loi ou contraire à l’ordre publique, la Cour n’a pas d’autre choix que de conclure à l’application de la sanction édictée par le législateur, soit la nullité du contrat.
+[46] De toute façon, même si la théorie de l’illégalité adoptée par la common law, notamment dans l'affaire Still, avait été applicable ici, je n'aurais eu aucune hésitation à conclure que M. Coicou ne peut bénéficier de l'exception à la nullité des contrats, élaborée dans le cadre de cette théorie, soit l’exception de la bonne foi. Ici, contrairement à ce qui était le cas dans Still, M. Coicou n’est pas un étranger qui a cru de bonne foi pouvoir travailler au Canada sans permis de travail. Il savait très bien qu’un permis de travail était requis pour y travailler. Il séjourne au Canada depuis environ 30 ans. Il s’est trouvé en contravention de la Loi sur l'immigration en n'obtenant pas une prolongation de son visa de résident à titre d'étudiant au début des années 80. De 1988 à 1991, il a obtenu et renouvelé à plusieurs reprises des permis pour travailler au Canada.
+[47] Comme l'a rappelé l'agent CIC, Immigration Canada fournit aux personnes qui font une demande de permis de travail une trousse d'information dans laquelle est indiquée la raison pour laquelle un permis de travail est nécessaire pour un étranger. Monsieur Coicou a même fait une nouvelle demande de permis de travail en 2002. Même si la lettre du 21 juin 2002 a pu ne pas être livrée à M. Coicou, elle fait état d’une entrevue survenue le 19 juin 2002. Il a fait preuve de négligence en croyant s’en tirer sans permis de travail parce que les trois employeurs ne lui demandaient pas son permis de travail.
+[48] Pour toutes ces raisons, l’appel de M. Coicou est rejeté.
+Signé à Ottawa, Canada, ce 3e jour de décembre 2008.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2008 CCI 628
+Nº DU DOSSIER DE LA COUR : 2008-462(EI)
+INTITULÉ DE LA CAUSE : KARL COICOU c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 29 juillet 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 3 décembre 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Roch Guertin
+Avocate de l'intimée :
+Me Nathalie Labbé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Roch Guertin
+Cabinet : Roch Guertin, Avocat
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. I-2, Il est à noter qu’une nouvelle loi en matière d’immigration, soit la Loi sur l’immigration et la protection des réfugiés, S.C., 2001, ch. 27, a été sanctionnée le 1er novembre 2001 (Loi sur l’immigration 2001).
+[2] Selon le témoignage de l'agent CIC et la pièce I-1.
+[3] Selon le site Internet de Postes Canada, le code postal correspondant à cette adresse est H4J 1N8.
+[4] Une décision semblable a été rendue aussi dans l'affaire Saad c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 644 (QL).
+[5] Une autre décision du juge Charron qui va dans le même sens est Amer c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 213 (QL). Il est à noter également que la même approche a été adoptée aussi dans des décisions de tribunaux administratifs. Voir notamment la décision de la Commission d'appel en matière de lésions professionnelles dans l'affaire M'hamed Boulaajoul et Ferme M.S. Nadon Enr., 44209-60-9208. Dans cette affaire, la commissaire a rejeté la demande visant à obtenir une indemnité en vertu de la Loi sur les accidents du travail et les maladies professionnelles. Ce rejet était fondé sur l'absence d'une condition essentielle pour se prévaloir de l'article 7, qui fixe le champ d'application de ladite loi pour les accidents survenus au Québec. Pour avoir droit à une indemnité, il fallait qu'il existe une relation travailleur-employeur, et la commissaire a adopté l'approche du juge Dumais dans Savaria. Une décision semblable a été rendue par la même commission dans le dossier René Laur et Verger Jean‑Marie Tardif Inc., 22467‑62‑9010, AZ‑92156083 (SOQUIJ). Et le tribunal d'arbitrage, dans l'affaire Syndicat canadien des communications, de l'énergie et du papier, section locale 224 (F.T.Q.) et Prétium Inc., a également rendu une décision semblable le 19 juin 2001. Dans cette affaire, on a rejeté un recours d’un étranger, qui avait travaillé sans permis de travail, visant à se faire réintégrer dans son emploi. Pour rendre sa décision, l'arbitre a cité le juge Doiron qui, dans Office de la construction du Québec c. Corporation municipale de Paspébiac [1980], C.S. 70, aux pages 73 et 74, définit ce qu'il faut entendre par « ordre public » et dénonce la sanction qui se rattache à la violation d’une disposition d’ordre public. Pour une décision contraire où la Commission des lésions professionnelles du Québec adopte une approche semblable à celle de la common law en suivant, en particulier, l’arrêt Still c. Canada, [1997] A.C.F. no 1622 (QL), voir Henriquez et Aliments Mello, 2006 LNQCCLP 1558 (QL).
+[6] Pour justifier l’adoption de l'approche de la common law au Québec, il a cité les décisions de cette Cour dans Luzolo c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 822 (QL) cause qu’il avait lui-même plaidée et Haule c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 1079 (QL).
+[7] Pour une analyse plus détaillée (mais succincte) des différences entre les deux grands régimes de droit au Canada, voir l'article que j'ai rédigé et qui est cité dans l'arrêt Tambeau, précité, au paragraphe 3.
+[8] Dans cette affaire, le juge Gonthier analysait l’application de la Loi sur le Barreau et les conséquences découlant d’un contrat de service intervenu entre un client et une personne qui était radiée du Tableau de l’Ordre du Barreau du Québec.

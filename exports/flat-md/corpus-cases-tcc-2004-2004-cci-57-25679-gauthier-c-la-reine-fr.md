@@ -1,0 +1,149 @@
+---
+title: "Gauthier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25679/index.do"
+last_modified: "2004-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 57"
+citation2: ""
+neutral_citation: "2004 CCI 57"
+decision_date: "2004-02-10"
+language: "fr"
+item_id: "25679"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3837
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:49:08.163000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73f4aafe98cf4aad1d584a82712a1a450e53757673dd94866b1d61049fd301e1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gauthier c. La Reine
+
+- Citation: 2004 CCI 57
+- Decision date: 2004-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3837, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-02-10
+Référence neutre
+2004 CCI 57
+Numéro de dossier
+2003-1741(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1741(IT)I
+ENTRE :
+GILL GAUTHIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 novembre 2003 à Prince Albert (Saskatchewan)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel concernant les nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1998 et 1999 est accueilli, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour que celui‑ci fasse un nouvel examen et qu’il établisse une nouvelle cotisation en fonction des motifs du jugement.
+Signé à Ottawa, Canada, ce 10e jour de février 2004.
+« J.M. Woods »
+J.M. Woods J
+Traduction certifiée conforme
+ce 23e jour de mars 2005
+Colette Dupuis-Beaulne, traductrice.
+Référence : 2004TCC57
+Date : 20040210
+Dossier : 2003-1741(IT)I
+ENTRE :
+GILL GAUTHIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Dans les années d’imposition 1998 et 1999, Gill Gauthier a été propriétaire d’une entreprise de construction à Prince Albert, en Saskatchewan. Il interjette appel des nouvelles cotisations dans lesquelles diverses déductions sont refusées, dont plusieurs étaient des déductions de dépenses d’entreprise.
+[2] Le ministre a refusé la déduction d’un bon nombre des dépenses parce qu’il n’y avait pas assez de documents permettant de vérifier que les dépenses avaient bel et bien eu lieu et qu’elles avaient été effectuées pour les besoins de l’entreprise. M. Gauthier a déduit en dépenses d’entreprise 81 841 $ pour l’année d’imposition 1998, et 94 939 $ pour l’année d’imposition 1999. Dans les nouvelles cotisations, le ministre du Revenu national a augmenté le montant admis pour l’année d’imposition 1998 et l’a porté à 83 610$, et a diminué le montant admis pour l’année d’imposition 1999 à 70 106 $.
+[3] Avant de traiter des éléments précis qui sont en litige, je tiens à préciser qu’en général, j’ai de la difficulté à accepter un bon nombre des observations de M. Gauthier. Il reconnaît lui-même avoir mal fait ses déductions dans ses déclarations de revenus concernant des dépenses effectuées lors de la rénovation de sa résidence personnelle. De plus, M. Gauthier reconnaît avoir indiqué des montants inappropriés dans une demande de remboursement de TPS pour habitations neuves. Dans sa demande, des frais de construction supportés pour des maisons appartenant à des clients de son entreprise de construction ont été indiqués comme des frais de construction supportés pour la résidence personnelle de M. Gauthier. Selon M. Gauthier, c’est son conjoint de fait qui aurait rempli la demande de remboursement de TPS, mais on peut supposer que le détail des dépenses aurait été obtenu des registres de M. Gauthier ou de M. Gauthier lui-même. Également, le témoignage de M. Gauthier à l’audience était généralement vague et imprécis, et il n’a pas présenté de documents à l’appui. Parfois, il changeait son témoignage en fonction des faits établis par la Couronne.
+[4] Maintenant que le contexte est établi, je vais examiner les éléments en litige selon les titres utilisés dans les annexes jointes à la réponse à l’avis d’appel.
+1998 : Matériaux et outils
+[5] Dans le calcul de son revenu pour l’année d’imposition 1998, M. Gauthier a déduit 29 789 $ pour des matériaux et des outils. Le ministre a admis seulement 24 922 $, soit le montant qui pouvait être justifié par des reçus. Pour ce qui est des éléments qui n’étaient pas appuyés par des reçus, M. Gauthier affirme qu’il lui arrivait parfois de payer en espèces ou qu’il se peut que les reçus aient été égarés. Il ne se souvient pas de chaque élément précis, à l’exception d’un seul, soit l’achat d’une barre à souder pour lequel il n’y a pas de reçu.
+[6] Je peux conclure que le montant refusé par le ministre n’a pas été établi par M. Gauthier comme étant une dépense d’entreprise. Il n’y avait pas de preuve pour appuyer les dépenses, et la seule dépense dont M. Gauthier se souvenait (la barre à souder) aurait été une dépense en capital. Par conséquent, j’approuve la nouvelle cotisation en ce qui a trait aux matériaux et aux outils pour l’année d’imposition 1998.
+1998 : Main-d’œuvre
+[7] Dans le calcul de son revenu pour l’année d’imposition 1998, M. Gauthier a déduit 13 689 $ pour des montants payés à des travailleurs. Dans la nouvelle cotisation, le ministre a refusé arbitrairement 15 pourcent de ce montant parce que les registres de M. Gauthier étaient incomplets et qu’il était impossible de vérifier qu’aucune partie du montant déduit était une dépense effectuée pour la rénovation de la maison de M. Gauthier. M. Gauthier a affirmé qu’il avait effectué beaucoup plus de dépenses d’entreprise que ce qui a été admis par le ministre, mais il a avoué qu’il n’avait pas de preuves dans ses registres.
+[8] Dans toutes les circonstances de l’espèce, je peux conclure que M. Gauthier n’a pas établi la déductibilité des dépenses de main-d’œuvre au-delà de ce qui avait été admis dans la nouvelle cotisation pour l’année d’imposition 1998.
+1998 et 1999 : Location du lieu d’exploitation
+[9] Le ministre a réduit le montant déductible pour la location du lieu d’exploitation. Il est passé de 966 $ à 759 $ pour l’année d’imposition 1998, et de 1 669 $ à 771 $ pour l’année d’imposition 1999. Pendant l’audience, M. Gauthier a admis que la nouvelle cotisation établie pour la location du lieu d’exploitation était correcte et, par conséquent, j’approuve les nouvelles cotisations.
+1998 et 1999 : Sous-traitants
+[10] Dans l’établissement d’une nouvelle cotisation pour les montants que M. Gauthier avait déduits comme des paiements à des sous-traitants, le ministre a augmenté la déduction et l’a fait passer de 17 478 $ à 25 974 $ pour l’année d’imposition 1998, et a diminué la déduction de 23 604 $ à 8 975 $ pour l’année d’imposition 1999. Il y a trois éléments en litige, soit les paiements faits à Neufeld Building Movers Ltd., à Dymterko Enterprises et à Paulsen Concrete.
+[11] Neufeld Movers – M. Gauthier a payé 27 810,23 $ à Neufeld Building Movers Ltd. pour le déménagement de trois maisons du Manitoba en Saskatchewan. Ce montant a été déduit comme une dépense d’entreprise pour l’année d’imposition 1998. Une des maisons déménagées était la maison de M. Gauthier, et dans sa demande de remboursement de TPS pour habitations neuves, la moitié du montant payé à Neufeld Movers a été déduit comme dépense de déménagement de la résidence personnelle de M. Gauthier. Dans les nouvelles cotisations d’impôt établies, le ministre a refusé la déduction du tiers du montant payé à Neufeld Movers, comme montant raisonnable attribuable à la résidence personnelle. Pendant l’audience, M. Gauthier a indiqué qu’une attribution d’un cinquième du montant serait plus appropriée, étant donné qu’il était plus difficile et coûteux de déménager une des autres maisons, qui était considérablement plus grande. Dans son témoignage, il a affirmé que le déménageur lui avait dit qu’environ 50 pourcent du prix était attribuable à la maison la plus grande.
+[12] Je peux conclure que la répartition des coûts faite par le ministre est raisonnable dans les circonstances. Après la prise de positions non appuyées et contradictoires dans sa déclaration de revenus et dans sa demande de remboursement de TPS, M. Gauthier ne peut pas à mon avis simplement indiquer qu’un cinquième du montant est une attribution appropriée pour le déménagement de sa résidence personnelle. Dans les circonstances, M. Gauthier aurait dû avoir des documents venant appuyer son attribution d’un cinquième.
+[13] En plus de remettre en question le montant des coûts de déménagement qui étaient déductibles, M. Gauthier affirme qu’une partie du montant payé à Neufeld Movers devrait être déductible pour 1999 plutôt que pour 1998, conformément à ce qui a été déduit dans la déclaration. Il a indiqué qu’environ la moitié du prix total a été payé par chèque au début de décembre 1998. Cependant, Neufeld Movers aurait déposé le chèque seulement l’année suivante. M. Gauthier a expliqué que l’entreprise de déménagement ne devait pas déposer le chèque avant que le travail soit fini, et le travail a été terminé en 1999. M. Gauthier n’a pas présenté de documents ou d’autres éléments de preuve pour appuyer sa position. Par conséquent, je peux conclure que M. Gauthier n’a pas établi que la dépense a été effectuée en 1999 plutôt qu’en 1998, selon ce qu’il avait initialement déduit dans sa déclaration de revenus.
+[14] Dymterko Enterprises – Dans les nouvelles cotisations, le ministre a refusé une déduction de 3 079,50 $ qui représente un montant payé à Dymterko Enterprises pour des travaux d’excavation. La raison du refus était que ce montant avait été compté dans la demande de remboursement de TPS comme une dépense effectuée pour l’excavation de la résidence personnelle. Lors de l’audience, M. Gauthier a d’abord laissé entendre que ce montant n’avait pas été déduit dans sa déclaration de revenus. Il a ensuite admis qu’en effet, il avait été déduit dans sa déclaration. Cette admission vient confirmer que la nouvelle cotisation est correcte à cet égard.
+[15] Paulsen Concrete – Le ministre a également refusé une déduction de 3 798 $ qui représente un montant payé à Paulsen Concrete. Le montant a été refusé parce qu’il avait été compté dans la demande de remboursement de TPS comme une dépense de béton pour la résidence personnelle. M. Gauthier a affirmé que l’inclusion dans la demande de remboursement de TPS était incorrecte parce qu’il avait eu recours aux services d’une autre entreprise pour le béton de sa maison, et que la date de la facture ne correspondait pas à la date à laquelle les travaux avaient été effectués pour sa maison. Il n’a pas fourni de pièce justificative.
+[16] Je n’accorderais pas à M. Gauthier le bénéfice du doute en ce qui a trait à ce dernier élément. Étant donné les erreurs relevées dans la déclaration de revenus et dans la demande de remboursement de TPS, et compte tenu du témoignage vague et contradictoire, je peux conclure que M. Gauthier n’a pas réussi à établir que le montant de 3 798 $ payé à Paulsen Concrete était une dépense d’entreprise.
+1999 : Location de camion
+[17] Dans le calcul de son revenu pour l’année d’imposition 1999, M. Gauthier a déduit un montant de 5 102 $ pour le paiement d’une location de camion. Dans la nouvelle cotisation, le ministre a admis seulement 3 757 $ de ce montant. À l’audience, la Couronne a admis la déductibilité du montant total, à l’exception du paiement de location pour le mois de décembre, qui était de 672 $. Le paiement de décembre a été refusé parce que l’entreprise de construction avait arrêté ses activités en novembre, et M. Gauthier a alors commencé un travail à temps plein à North Battleford. M. Gauthier a indiqué qu’il terminait certains travaux dans ses temps libres pendant le mois de décembre.
+[18] Je peux conclure qu’il est raisonnable de permettre une déduction de 25 pour cent du paiement de location pour le mois de décembre.
+1999 : Téléphone cellulaire
+[19] Dans la nouvelle cotisation établie pour l’année d’imposition 1999, le ministre a admis une déduction concernant les frais de téléphone cellulaire de M. Gauthier, à l’exception du montant de 250 $ dépensé en décembre. La dépense pour ce mois-là était considérablement plus élevée que celles des autres mois, et M. Gauthier a expliqué qu’il s’agissait de frais d’interurbain pour les appels faits à partir de son nouveau lieu de travail à North Battleford.
+[20] Même si M. Gauthier a pu débourser des frais d’interurbain liés à son entreprise de construction pendant cette période, il n’y avait pas assez d’éléments de preuve pour établir ce qu’étaient les dépenses concernées. Je peux donc conclure que d’admettre une déduction de 25 pour cent des frais de cellulaire pour décembre, soit le même pourcentage que ce que j’ai admis pour la location du camion, est la solution la plus raisonnable dans les circonstances.
+1999 : Matériaux et outils
+[21] Dans le calcul de son revenu pour l’année d’imposition 1999, M. Gauthier a déduit un montant de 24 881 $ pour des matériaux et des outils. Dans la nouvelle cotisation, le ministre a admis seulement 18 950 $. La nouvelle cotisation était fondée sur une attribution arbitraire aux dépenses personnelles de 75 % des dépenses déduites pour les trois premiers mois de l’année. La raison du montant important attribué aux dépenses personnelles par le ministre était qu’aucun revenu d’entreprise n’a été généré pendant la période concernée. M. Gauthier a affirmé que, même si une partie du montant déduit pour les trois premiers mois de l’année représentait des dépenses personnelles, le montant refusé dans la nouvelle cotisation était excessif parce qu’il a fait des dépenses liées à des contrats éventuels pendant cette période.
+[22] Je n’ai pas d’éléments de preuve entre les mains qui viennent appuyer la déduction de M. Gauthier. À défaut d’avoir des registres appropriés indiquant le montant qui peut être attribué à la résidence personnelle, je peux conclure que l’attribution faite par le ministre est raisonnable.
+1999 : Bureau et entreposage à la maison
+[23] M. Gauthier a indiqué qu’il utilisait une pièce de sa maison pour faire les travaux d’écritures liés à son entreprise, et qu’il utilisait le sous-sol, le garage et l’arrière-cour pour de l’entreposage. Dans sa déclaration de 1999, M. Gauthier a déduit 25 pour cent des coûts d’entretien de sa maison (y compris les frais de téléphone) comme dépenses d’entreprise. À l’audience, M. Gauthier a avancé qu’il serait approprié d’augmenter le pourcentage à 40. Dans la nouvelle cotisation, le ministre a admis un pourcentage de seulement 12,5, en partie en raison de ce qu’il considérait être une attribution raisonnable, et en partie parce que certaines des dépenses semblaient excessives et qu’il n’y avait pas de documents justificatifs.
+[24] L’attribution de 12,5 pour cent faite par le ministre semble faible, mais je ne suis pas convaincu que le 40 pour cent avancé par M. Gauthier est raisonnable. Tout d’abord, l’attribution des frais de téléphone n’est pas fondée. Ensuite, très peu des dépenses liées à la maison peuvent être attribuées à l’arrière-cour. Finalement, je ne pense pas que l’utilisation du sous-sol pour l’entreposage justifie l’attribution de toutes les dépenses liées à la maison, y compris les frais de téléphone, selon la proportion des pieds carrés utilisés et de l’espace habité. Dans les circonstances, je pense que l’attribution de 25 pour cent déduite à l’origine par M. Gauthier est la solution la plus raisonnable.
+1999 : Paiements de TPS
+[25] Dans le calcul des revenus pour l’année d’imposition 1999, le ministre a refusé une déduction de 1 980 $ qui représente le montant de la taxe sur les produits et services (TPS) payé pour les fournitures de l’entreprise. Les motifs du refus ont été indiqués dans des observations écrites par l’avocat de la Couronne, reçues après l’audience. Les observations sont un peu difficiles à comprendre. La Couronne affirme que le contribuable s’est vu accorder des crédits de taxe sur les intrants pour la TPS payée, et les crédits de taxe sur les intrants doivent être inclus dans le revenu selon le paragraphe 248(16) et l’alinéa 12(1)x). Cependant, la Couronne ne dit pas qu’il devrait y avoir inclusion dans le revenu des crédits de taxe sur les intrants. Elle dit plutôt qu’il s’agit là d’un point qui vient justifier d’une façon ou d’une autre le refus de la déduction de la TPS payée. Je ne suis pas du même avis. La Couronne ne conteste pas le fait que la TPS a été payée comme dépense d’entreprise; alors je ne vois aucune raison de refuser la déduction.
+[26] Pour ce qui est des crédits de taxe sur les intrants, le paragraphe 248(16) stipule que les crédits de taxe sur les intrants déduits par un contribuable doivent être inclus dans le calcul du revenu comme une aide reçue d’un gouvernement visée par l’alinéa 12(1)x). Voici un extrait du paragraphe 248(16) :
+(16) Pour l’application de la présente loi, à l’exception du présent paragraphe et du paragraphe 6(8), le montant déduit par un contribuable à titre de crédit de taxe sur les intrants ou de remboursement relativement à la taxe sur les produits et services applicable à un bien ou à un service est réputé constituer une aide qu’il reçoit d’un gouvernement pour le bien ou le service […]
+(c’est moi qui souligne)
+[27] Je n’ai pas reçu d’éléments de preuve que M. Gauthier a déduit les crédits de taxe sur les intrants. Il n’y a donc rien qui me permette de conclure que les crédits de taxe sur les intrants doivent être inclus dans le revenu en application du paragraphe 248(16) et de l’alinéa 12(1)x).
+1998 et 1999 : Pension alimentaire
+[28] M. Gauthier a payé une pension alimentaire à son ex‑conjoint, soit 6 313 $ et 5 000 $ pour les années d’imposition en litige. Ces montants ont été refusés par le ministre parce qu’il n’y avait pas d’ordonnance d’un tribunal ou d’accord écrit régissant les paiements. M. Gauthier a fait valoir qu’il était inéquitable de refuser des montants si importants pour une telle raison.
+[29] Il n’y a rien sur quoi me fonder pour admettre la déduction, simplement en fonction de l’équité. Je peux donc conclure que la nouvelle cotisation établie concernant la pension alimentaire est correcte.
+Intérêts et pénalité
+[30] Pendant l’audience, M. Gauthier a indiqué qu’il disconvenait des montants établis dans la nouvelle cotisation à l’égard des intérêts sur l’impôt dû et de la pénalité pour production tardive. Il n’a cependant pas expliqué pourquoi, malgré le fait que je l’aie invité à présenter des observations écrites après l’audience. Dans les circonstances, je peux conclure que les montants établis à l’égard des intérêts et de la pénalité sont corrects.
+* * * *
+[31] L’appel est accueilli, sans dépens, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour que celui‑ci fasse un nouvel examen et qu’il établisse une nouvelle cotisation en fonction des motifs présentés ci-dessus.
+Signé à Ottawa, Canada, en ce 10e jour de février 2004.
+« J.M. Woods »
+J.M. Woods
+Traduction certifiée conforme
+ce 23e jour de mars 2005
+Colette Dupuis-Beaulne, traductrice

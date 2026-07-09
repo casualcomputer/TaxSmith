@@ -1,0 +1,210 @@
+Title: Foley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25905/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-680-25905-foley-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-15
+
+# Foley v. The Queen
+
+- Citation: 2003 TCC 680
+- Decision date: 2003-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3703, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-15
+Neutral citation
+2003 TCC 680
+File numbers
+2001-1420(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC680
+Date: 20031114
+Docket: 2001-1420(IT)G
+BETWEEN:
+MICHAEL J. FOLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket 2001-1428(IT)G
+MARK A. FOLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals, pursuant to the General Procedure, were heard together on common evidence at Toronto, Ontario, on September 17 and 18, 2003. The Appellants changed counsel in the week before the hearing and that was permitted.
+[2] The Appellants called Mark Foley and their solicitor, James N. Aitchison. The Respondent called the Appellant Michael J. Foley, and the auditor on these files, Dennis A. Barboza, C.M.A.
+[3] Statements of Agreed Facts were filed respecting both Appellants. They read:
+Mark A. Foley
+"The parties hereto, by their respective solicitors, admit the following facts:
+1. Kingsberry Properties ("Kingsberry") was a limited partnership, formed under the Limited Partnerships Act, R.S.O. 1990, c. L. 16 (the "LPA"), which was at all material times engaged in the business of real estate development including land acquisitions and sales, property development, construction, leasing and management.
+2. The fiscal period of Kingsberry ended on December 31 in each year.
+3. A Partnership Agreement was executed on October 31, 1984 by John Foley as the general partner, with Michael Foley and the Appellant as the limited partners. An Amending Agreement was signed on December 5, 1994.
+4. John Foley is the father of Michael Foley and the Appellant.
+5. Lanmark Management Limited ("Lanmark") was a corporation in the business of providing property management services to a group of related companies owned by the Appellant, his father, and his brother (generally known as the Foley Group.)
+6. The Appellant was the sole shareholder, director and officer of Lanmark.
+7. At all material times, Lanmark was engaged by Kingsberry to provide property management services to Kingsberry, including
+(a) managing its general operations and administration;
+(b) overseeing the day-to-day office matters including administration of accounts payable and receivable, certification of cheques and processing of invoices;
+(c) negotiating the acquisition of properties;
+(d) assisting John in obtaining financing from Royal Bank;
+(e) managing rental properties, including leasing, banking and arranging for repairs and serving of notices; and
+(f) overseeing and managing the development of properties, including
+(i) dealing with government authorities to obtain the necessary approvals for services;
+(ii) dealing with surveyors;
+(iii) dealing with engineers;
+(iv) obtaining all necessary approvals for the registration of plans of subdivision including making presentations at public hearings; and
+(v) appearing before the Ontario Municipal Board.
+8. Lanmark billed Kingsberry for the property management services provided."
+Michael J. Foley
+"The parties hereto, by their solicitors, admit the following facts:
+1. Kingsberry Properties ("Kingsberry") was a limited partnership, formed under the Limited Partnerships Act, R.S.O. 1990, c. L. 16 (the "LPS"), which was at all material times engaged in the business of real estate development including land acquisitions and sales, property development, construction, leasing and management.
+2. The fiscal period of Kingsberry ended on December 31 in each year.
+3. A Partnership Agreement was executed on October 31, 1984 by John Foley as the general partner, with Mark Foley and the Appellant as the limited partners. An Amending Agreement was signed on December 5, 1994.
+4. John Foley is the father of Mark Foley and the Appellant.
+5. Fridel Limited ("Fridel") was a corporation in the business of building residential properties for a group of related companies owned by the Appellant, his father, and his brother (generally known as the Foley Group.)
+6. The Appellant was the sole shareholder, director and officer of Fridel.
+7. At all material times, Fridel was engaged by Kingsberry to provide services related to the construction of residential properties to Kingsberry, including
+(a) looking after human resources, personnel;
+(b) overseeing and managing the construction of residential properties, including
+(i) drafting proposals for new construction projects;
+(ii) negotiating and signing all quotes and contracts;
+(iii) obtaining insurance coverage for various projects;
+(iv) meeting with architects and engineers;
+(v) meeting with the Ministry of Housing; and
+(vi) making recommendations to John with respect to the sales of lots to builders.
+8. Fridel billed Kingsberry for the residential construction related services provided."
+[4] Paragraphs 7, 8, 11 and 17 were admitted in the Answers filed by the Appellants. The Replies in each Appellant's Notice of Appeal are identical. Paragraphs 5 to 20 of the Replies read:
+5. This appeal involves the question of the "at-risk rules" introduced to the Income Tax Act and applicable after February 16, 1986. An interest in a partnership in existence on February 25, 1986 was grandfathered under subsection 96(2.5) as an "exempt interest" provided that:
+a) there has been no substantial contribution of capital to the partnership after February 25, 1986; and
+b) there has been no substantial increase in the indebtedness of the partnership since that date;
+6. In assessing the Appellant as a Limited Partner of a partnership in which he did not have an exempt interest under subsection 96(2.5), the Minister proceeded upon, inter alia, the following facts:
+a) At all material times, Kingsberry Properties ("Kingsberry") was a limited partnership of which the Appellant was a limited partner;
+b) Kingsberry carried on business since October 1984;
+c) the fiscal year of Kingsberry was the calendar year.
+d) From December 31. 1986 to December 31, 1990, the following increases occurred in the assets and liabilities of Kingsberry:
+i) Total assets increased by 182%
+ii) Total liabilities increased by 126%
+iii) Total rental properties/fixed assets increased by 537%
+iv) Total land held for redevelopment before the netting of outstanding letters of credit increased by 345% (or 485% after the netting of outstanding letters of credit); 83% of this increase was as a result of new projects undertaken after 1986;
+v) The number of projects increased from 13 to 18;
+e) There was a substantial increase in both the capital and the indebtedness of Kingsberry after February 25, 1986 which was not related to commitments prior to February, 1986 and which constituted a significant expansion of the activity of the partnership from that date; and
+f) The Appellant's "at risk amount" was not, at any material time, greater than nil.
+Control of Kingsberry
+7. An agreement to form Kingsberry (the "Partnership Agreement"). was executed on October 31, 1984 by John Foley (the general partner), Mark Foley and Michael Foley (the limited partners.) An Amending Agreement was signed on December 5, 1994.
+8. John Foley is the father of Mark and Michael Foley.
+9. The directors of Kingsberry were John Foley, Michael Foley, Linda Hunter and Mary Jo Bathe - the two daughters of John Foley.
+10. At all material times, the general partner, John Foley, had sole signing authority.
+11. Subparagraph 6(a) of the Partnership Agreement stipulated that the general partner shall manage the business and affairs of the partnership and may delegate to either of the limited partners the right to sign cheques and other instruments subject to the general partner's approval.
+12. Subparagraph 6(e) of the Partnership Agreement prohibits either limited partner from taking any part in the management of the business or affairs of, or transact any business for, Kingsberry and the limited partners had no right to and could not sign for or bind the partnership in any way.
+13. It was specifically and repeatedly confirmed in paragraph 6 of the Amending Agreement that,
+"In the event any provision of the Original Partnership Agreement as amended by this Agreement should have the effect of imposing upon any Limited partner any of the obligations of the General Partner, such provision shall be of no force and effect and shall not be considered a part of the Original partnership Agreement as amended by this Agreement, by the remainder of the Original Partnership Agreement as amended by this Agreement shall continue in effect."
+(Judge's note: the third last line above should read "Agreement, but the remainder of the Original ...". See Exhibit A-3, Tab 164.)
+14. The Appellant was not directly involved with the administration, management and operation nor did he take part in the control of the business of Kingsberry in the relevant taxation years.
+15. Any act by the Appellant which may be referable to the administration, management and operation of the business of Kingsberry was performed by him only as an agent of John Foley, the general partner. Otherwise, any such action was either performed by the Appellant in his capacity as an officer or trustee of Lanmark Management Limited or any one of Kingsberry's related companies and trusts.
+16. Kingsberry was effectively bankrupt on December 31, 1993 and, in accordance with subparagraph 8(a) of the Partnership Agreement, the limited partnership was dissolved.
+17. As a consequence of Kingsberry's bankruptcy, John Foley, the general partner, became liable to Kingsberry's creditors and became a bankrupt.
+18. At no time did the Appellant or his brother, Michael Foley, come forward to Kingsberry's Trustee in Bankruptcy to assert that they were general partners of Kingsberry.
+19. The Appellant was at all material times a limited partner of Kingsberry.
+20. Prior to the filing of the Amended Notice of Appeal dated March 13, 2002, the Appellant has never taken the position that he was a general partner of Kingsberry. To the contrary, his position prior to that date has consistently been that he was at all material times a limited partner of Kingsberry.
+[5] The appeals are brought in order that the Appellants may claim partnership losses incurred by Kingsberry Properties of $4,275,916 in 1993 and $4,726,003 in 1994. To do this the Appellants must establish that they were general partners in Kingsberry Properties (and not limited partners as the partnership agreement described them). The year and portions of the losses claimed which are in dispute are:
+Michael Foley Mark Foley
+1991 $294,661
+1996 $319,760 196,525
+1997
+85,514.93 185,625
+1998
+55,049.51 139,247
+[6] The following assumptions in the Replies were not refuted by the evidence:
+b) Kingsberry carried on business since October 1984;
+c) the fiscal year of Kingsberry was the calendar year;
+The remainder are in dispute.
+[7] The following paragraphs quoted from the Replies in paragraph [5] hereof are correct: 10, 11, 12, 13, 16 (by virtue of a retroactive Court Order issued in December 1997 dating back to the beginning of the receivership) 17, 18 and 20.
+[8] Each Appellant is claiming 45% of Kingsberry Properties' losses in 1993 and 1994.
+[9] There are two issues in dispute between the parties:
+1. Were the Appellants at risk and so not limited partners within the meaning of subsections 96(2.1) and (2.4) of the Income Tax Act?
+2. If not, were the Appellants' interests in Kingsberry exempt because, as the Respondent alleges, after February 25, 1986 there was a substantial increase in the indebtedness of Kingsberry which was not used for a significant expansion of its activity? (Subsection 96(2.5)).
+Issue 1 will be dealt with first.
+[10] Sections 12 and 13 of the Limited Partnership Act R.S.O. 1990 Chap L. 16 read:
+Business dealings by limited partner with partnership - s.12(1)
+12. (1) A limited partner may loan money to and transact other business with the limited partnership and, unless the limited partner is also a general partner, may receive on account of resulting claims against the limited partnership with general creditors a prorated share of the assets, but no limited partner shall, in respect of any such claim,
+(a) receive or hold as collateral security any of the limited partnership property; or
+(b) receive from a general partner or the limited partnership any payment, conveyance or release from liability if at the time the assets of the partnership are not sufficient to discharge partnership liabilities to persons who are not general or limited partners.
+Rights of limited partner - s. 12(2)
+(2) A limited partner may from time to time,
+(a) examine into the state and progress of the limited partnership business and may advise as to its management;
+(b) act as a contractor for or an agent or employee of the limited partnership or of a general partner; or
+(c) act as a surety for the limited partnership.
+R.S.O. 1980, c. 241, s. 11.
+Limited partner in control of business - s. 13(1)
+13.(1) A limited partner is not liable as a general partner unless, in addition to exercising rights and powers as a limited partner, the limited partner takes part in the control of the business.
+Additional rights and powers - s. 13(2)
+(2) For the purposes of subsection (1), a limited partner shall not be presumed to be taking part in the control of the business by reason only that the limited partner exercises rights and powers in addition to the rights and powers conferred upon the limited partner by this Act.
+R.S.O. 1980, c. 241, s. 12.
+[11] It should be noted that Kingsberry was an Ontario limited partnership in the business of property development, construction and sales in Oshawa and Durham County, Ontario. Respecting the quotation in paragraph [10]:
+1. Subsection 12(1) allows a limited partner to transact business "with" the limited partnership and not "for" the limited partnership except as described in subsection 12(2).
+2. Subsection 13(1) exempts liability to a limited partner unless the limited partner "takes part" in the control of the business.
+[12] Subparagraphs 6(a), (c) and (e) of the Limited Partnership Agreement between John, Mark and Michael Foley dated 31 October, 1984 read:
+Management
+6.(a) The business and affairs of the partnership shall be managed by the general partner who shall have all necessary powers to carry on the partnership business and may sign documents and contracts in the name of the business or in such other name as may from time to time be agreed upon by the partners and may sign, endorse and accept in the name of the business all bills, notes, cheques, drafts or other instruments for the purpose of the business. The general partner may delegate to either of the limited partners the right to sign such cheques and other instruments subject to his approval. Notwithstanding the foregoing, the general partner shall have no authority (i) to sell, exchange, pledge, mortgage or otherwise encumber or dispose of all or a substantial part of the assets of the partnership without the prior written consent of the limited partners; or (ii) to borrow money on behalf of the partnership, other than for the purpose of discharging obligations of the partnership not voluntarily incurred by the general partner, without the prior written consent of the limited partners.
+(c) The general partner may, in his discretion, employ other persons interested in or companies owned by, associated with or affiliated with the general partner to render, on behalf of the partnership, part or all of such specialized and general administrative services as are reasonably required to accomplish the purposes of the partnership.
+(e) No limited partner, as such, shall take any part in the management of the business or affairs of or transact any business for the partnership and shall have no right to and shall not sign for or bind the partnership in any way.
+[13] Kingsberry broke its operations down into three divisions:
+1. John Foley, a former plumbing and heating contractor with a high school education, located and purchased property and arranged financing.
+2. Mark Foley, who has a university degree in environmental studies, did everything relating to subdivision of the property into lots, assisted John, and did rental property management of any residences (from 10 - 22, and once up to 85 or 90).
+3. Michael Foley, who has a B.Comm., attended to the construction of underground services, to residential construction projects, and to sales.
+[14] Both Mark and Michael signed cheques and did various office administration jobs. They also instructed lawyers respecting litigation in their fields, signed cheques for Kingsberry and dealt with the bank. John signed at the bank as a general partner. Mark, born January 18, 1955 and Michael, born December 4, 1957, both signed guarantees for Kingsberry at the bank which had expired when Kingsberry was put into receivership.
+[15] Mr. Aitchison testified that he did litigation work for Kingsberry and the Appellants. In the course of the receivership the Royal Bank and its Toronto solicitors proposed to sue the Appellants on the basis that their activities for Kingsberry had taken them outside of the limited partnership status. Mr. Aitchison advised them that he thought that the Royal Bank's position was valid. On that basis the Appellants paid large sums to settle the bank's claim without it proceeding to litigation. A second claim was also settled on the same basis.
+[16] The question is whether Mark and Michael took part in the control of the business of Kingsberry. Its business was the purchase, development, construction and sale of property.
+[17] Kingsberry's business was divided into three portions. All of the evidence is that each was controlled and operated by a different Foley: John - purchases; Mark - subdivision and rentals; Michael - construction. Michael and John shared sales. While the number of projects was in the teens, the number of lots each year was in the hundreds. It is clear that both the size of Kingsberry's business and the division of labour meant that each Foley was in control of his part of Kingsberry's business. It also results in the fact that the three shared control of the whole business and the responsibility for its success or failure. Mark and Michael each took part in the control of Kingberry's business. Thus they were each at risk and were not limited partners within the meaning of subsections 96(2.1) and (2.4) of the Income Tax Act - issue one in paragraphs [9] hereof.
+[18] For these reasons it is not necessary to deal with the second issue.
+[19] The appeals are allowed and the assessments are referred back to the Minister for reconsideration and reassessment in accordance with these reasons. The Appellants are awarded party and party costs throughout, but only one set of costs is awarded respecting the hearing itself. However, both parties had two counsel in attendance at the hearing and therefore the Appellants are awarded costs for a second counsel respecting the hearing.
+These Reasons for Judgment are issued in substitution for the Reasons for Judgment dated October 15, 2003.
+Signed at Ottawa, Ontario, this 14th day of November 2003.
+Beaubier, J.
+CITATION:
+2003TCC680
+COURT FILE NO.:
+2001-1420(IT)G and 2001-1428(IT)G
+STYLE OF CAUSE:
+Michael J. Foley and H.M.Q. and
+Mark A. Foley and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 17 and 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF AMENDED REASONS FOR JUDGMENT:
+November 14, 2003
+APPEARANCES:
+Counsel for the Appellant:
+David C. Nathanson
+Adrienne Woodyard
+Counsel for the Respondent:
+Marie Thérèse Boris
+Eleanor Thorn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

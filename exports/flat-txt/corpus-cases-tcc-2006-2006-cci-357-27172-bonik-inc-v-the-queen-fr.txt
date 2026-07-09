@@ -1,0 +1,436 @@
+Title: Bonik Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27172/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-357-27172-bonik-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-06-22
+
+# Bonik Inc. v. The Queen
+
+- Citation: 2006 CCI 357
+- Decision date: 2006-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1040, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonik Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-22
+Référence neutre
+2006 CCI 357
+Numéro de dossier
+2000-3494(GST)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2000-3494(GST)G
+ENTRE :
+BONIK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Serbcan Inc. (2000‑3496(GST)G) et The Nikolic Children Trust (2000-3497(GST)G) les 13 et 14 décembre 2005 et le 5 janvier 2006, à Toronto (Ontario).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Ronald B. Moldaver, c.r.
+Avocat de l'intimée :
+Me Bobby Sood
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation de taxe établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 9 juillet 1998 et porte le numéro 00000000136, pour la période allant du 1er avril 1994 au 30 juin 1996, est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour
+nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelante n'est pas passible des pénalités prévues à l'article 285 de la Loi.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 27e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+Dossier : 2000-3496(GST)G
+ENTRE :
+SERBCAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Bonik Inc. (2000‑3494(GST)G) et The Nikolic Children Trust (2000-3497(GST)G) les 13 et 14 décembre 2005 et le 5 janvier 2006, à Toronto (Ontario).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Ronald B. Moldaver, c.r.
+Avocat de l'intimée :
+Me Bobby Sood
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation de taxe établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 10 avril 2000 et porte le numéro 04B‑116138256, pour la période allant du 1er janvier 1994 au 31 mars 1996, est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du
+fait que l'appelante a droit à des crédits de taxe sur les intrants de 693,67 $ et qu'elle n'est pas passible des pénalités prévues à l'article 285 de la Loi.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 27e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+Dossier : 2000-3497(GST)G
+ENTRE :
+THE NIKOLIC CHILDREN TRUST,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Bonik Inc. (2000‑3494(GST)G) et Serbcan Inc. (2000-3496(GST)G)
+les 13 et 14 décembre 2005 et le 5 janvier 2006, à Toronto (Ontario).
+Devant : L'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Ronald B. Moldaver, c.r.
+Avocat de l'intimée :
+Me Bobby Sood
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation de taxe établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 10 avril 2000 et porte le numéro 04BP‑116226663, pour la période allant du 1er janvier 1993 au 31 décembre 1996, est accueilli et la nouvelle cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du
+fait que l'appelante a droit à des crédits de taxe sur les intrants de 297,50 $ et qu'elle n'est pas passible des pénalités prévues à l'article 285 de la Loi.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 27e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI357
+Date : 20060622
+Dossiers : 2000-3494(GST)G
+2000-3496(GST)G
+2000-3497(GST)G
+ENTRE :
+BONIK INC., SERBCAN INC. et
+THE NIKOLIC CHILDREN TRUST,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Bien que les présents appels interjetés sous le régime de la Loi sur la taxe d'accise (la « Loi »), relativement à diverses périodes, aient été entendus sur preuve commune, le seul lien existant entre les trois appelantes tient au fait qu'elles étaient toutes contrôlées et dirigées par Bozidar (« Bob ») Nikolic et son épouse, Svetlana Nikolic. Chacun de ces appels intéresse des projets de construction et des faits pertinents différents. Je vais donc me prononcer sur chacun de ces appels de façon distincte.
+[2] Il convient de faire certaines observations d'ordre général. Selon le formulaire d'avis d'appel prescrit par les Règles de la Cour canadienne de l'impôt (procédure générale)[1] (les « Règles »), les appelantes sont tenues d'énumérer les faits pertinents qui servent de fondement à l'appel, de préciser les points en litige, de mentionner les dispositions législatives invoquées et d'énoncer les moyens sur lesquels elles entendent se fonder. Les actes de procédure produits par les appelantes ne fournissent que des faits et des moyens restreints, et omettent de préciser adéquatement les points en litige et les dispositions législatives sur lesquelles les appels sont fondés. De fait, les points en litige ne sont devenus manifestes qu'au moment où l'intimée a présenté ses conclusions finales.
+[3] En outre, l'article 55 des Règles prévoit sans équivoque la façon dont il faut procéder pour modifier les actes de procédure :
+55(1) La modification d'un acte de procédure est faite en déposant un nouvel exemplaire de l'acte de procédure initial tel que modifié, portant les dates de la modification et de l'acte de procédure initial. Le titre de l'acte de procédure doit être suivi du mot « modifié ».
+(2) La modification apportée à un acte de procédure est soulignée de façon à faire ressortir le libellé de la modification par rapport au libellé initial.
+Les appelantes ont produit des avis d'appel modifiés dans les trois appels, mais aucun d'entre eux n'était rédigé conformément aux dispositions du paragraphe 55(2), ce qui rend leur compréhension difficile.
+[4] Même s'ils ont été utiles pour déterminer les points en litige, les actes de procédure de l'intimée comportaient des erreurs touchant les périodes visées par les nouvelles cotisations. Ils se bornaient en outre à reproduire des phrases d'un appel à l'autre, notamment un paragraphe complet figurant dans la réponse à l'avis d'appel relatif à Serbcan Inc. et qui n'était manifestement pas à sa place. L'intimée aurait dû être plus minutieuse lorsqu'elle a rédigé ses actes de procédure.
+[5] Quant aux documents produits par les deux parties, bon nombre d'entre eux n'étaient que des doubles. Il aurait été utile de produire un recueil conjoint de documents pour ces documents communs qui ont tous été produits de façon distincte. En particulier en ce qui concerne les appelantes, il était décevant de voir plusieurs doubles d'un même document produits dans des pièces différentes devant la Cour. Les présents appels créent déjà suffisamment de confusion; il n'était pas nécessaire d'ajouter au désordre.
+[6] Il ressortira plus tard qu'il aurait été avantageux pour l'intimée qu'elle fasse témoigner une personne en mesure d'expliquer comment les calculs ont été effectués et sur quoi ils se fondent. Cela aurait été particulièrement important pour ce qui est de la date de l'achèvement en grande partie de l'immeuble « C » dans l'appel visant The Nikolic Children Trust (la « fiducie »). C'est pourquoi j'ai tiré une inférence défavorable à l'intimée dans les cas où il m'était impossible de justifier les calculs de ses vérificateurs en l'absence de précisions supplémentaires.
+[7] Monsieur Nikolic m'a donné l'impression d'être un homme franc, bien que quelque peu intéressé et inflexible, qui faisait de son mieux pour comprendre et appliquer un texte légal nouveau et complexe. Il a retenu les services de plusieurs spécialistes en cours de route afin d'obtenir des conseils mais, parallèlement, il a reçu ce qui paraît être des avis contradictoires de différents fonctionnaires de Revenu Canada. J'arrive à la conclusion que, même si les appelantes ont omis de produire les documents nécessaires de façon appropriée, complète et opportune, elles ne l'ont pas fait sciemment, par suite d'une faute lourde ou de faux énoncés. D'ailleurs, lorsque la loi en matière de TPS est d'abord entrée en vigueur, peu de gens se sont rendu compte de sa complexité, y compris ceux‑là même dont le ministre du Revenu national avait retenu les services pour veiller à son application.
+[8] Au début de l'audition des présents appels, l'intimée a soulevé la question de savoir si la Cour avait compétence pour les entendre. Ce même point a été examiné dans la décision Bokrika Inc. c. Canada[2], laquelle a été entendue immédiatement avant les présents appels, et l'avocat de l'intimée a renvoyé aux observations qu'il a formulées dans cette instance. Comme dans l'affaire Bokrika, je conclus que M. Nikolic était un administrateur de fait de Serbcan et de Bonik Inc. pendant les périodes en cause. À ce titre, il a tous les droits et toutes les obligations d'un administrateur, dont le pouvoir d'intenter les deux appels et de s'occuper des affaires. De plus, en qualité de fiduciaire de The Nikolic Children Trust, son pouvoir d'intenter l'appel de cette dernière et de s'occuper de l'affaire est manifeste.
+[9] Monsieur Nikolic, qui, avec son épouse, a pris le relais de son père décédé, et était notamment responsable des sociétés appelantes, a témoigné pour le compte de ces dernières. L'intimée n'a appelé aucun témoin. Comme il est mentionné plus haut, je vais examiner les trois appels de façon distincte.
+Bonik Inc. c. La Reine (2000-3494(GST)G)
+[10] La société Bonik interjette appel de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi sur la taxe d'accise[3] qui s'élève à 32 477,08 $, pour la période allant du 1er avril 1994 au 30 juin 1996. Les questions en litige sont de savoir : a) si Bonik a droit à un remboursement de la taxe de vente fédérale (« TVF ») de 421 727 $, b) si Bonik a droit, en application du paragraphe 169(1) de la Loi, aux crédits de taxe sur les intrants (les « CTI ») de 154 694 $ demandés relativement au coût de construction de l'immeuble Galaxy Tower, c) si Bonik est passible de pénalités suivant l'article 285.
+[11] Lorsqu'il a établi une nouvelle cotisation à l'égard de Bonik, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+[TRADUCTION]
+a) l'appelante était un inscrit aux termes de la partie IX de la Loi sur la taxe d'accise (la « Loi ») depuis le 1er janvier 1991;
+b) à tous les moments pertinents, l'exercice de l'appelante se terminait le 31 décembre pour l'application de la TPS;
+c) à tous les moments pertinents, l'appelante était tenue de produire des déclarations de TPS trimestriellement;
+d) les principales activités de l'appelante consistent en la construction de nouvelles résidences;
+e) pendant la période allant de 1987 à 1990, l'appelante a construit un immeuble d'habitation de 77 logements (« Galaxy Tower »);
+f) la vente de la plupart des logements et l'accomplissement de formalités préliminaires à la clôture ont eu lieu en 1990;
+g) en 1990, les acquéreurs ont intenté une poursuite dans laquelle ils alléguaient que l'immeuble Galaxy Tower comportait des vices;
+h) par une ordonnance interlocutoire datée du 4 juillet 1991, le juge S. D. Loukidelis a ordonné qu'il soit mis fin aux contrats de vente et que l'immeuble Galaxy Tower soit évacué jusqu'à ce que de plus amples travaux puissent être effectués de manière à ce que le code du bâtiment soit respecté;
+i) en application du paragraphe 191(2) de la Loi, l'appelante est réputée avoir effectué une fourniture taxable lorsqu'on a mis fin aux contrats de vente, et Galaxy Tower constituait dès lors un « immeuble d'habitation non neuf » et donc une activité exemptée;
+j) l'appelante n'a pas le droit de demander des crédits d'impôt à l'investissement [sic] relativement à une activité exemptée.
+Au début de l'audience, Bonik s'est désistée de son appel visant le remboursement de la TVF.
+[12] Lorsqu'elle a fait sa demande de CTI s'élevant à 154 694 $, Bonik a présenté cinq volumes à la Cour, y compris des centaines de pages de documents. Pourtant, ni M. Nikolic, dans son témoignage, ni l'avocat de l'appelante, dans ses observations, n'ont renvoyé à une quelconque page résumant comment cette somme avait été calculée. Le paragraphe 169(4)[4] de la Loi énonce les documents qu'un inscrit qui demande un CTI doit présenter. Cette disposition est ainsi rédigée :
+169(4) L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement; […]
+Les renseignements visés par règlement qui sont exigés à l'alinéa 169(4)a) sont énumérés à l'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH)[5] (le « Règlement ») :
+3. Les renseignements visés à l'alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n'a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles‑ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire et le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l'intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous‑alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n'est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d'elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n'est pas une fourniture détaxée, mais ne l'est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu'une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu'une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l'une ou plusieurs de celles‑ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n'est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l'ensemble de ces fournitures auxquelles s'applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n'est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+Les seuls documents utiles qui m'ont été présentés se trouvent aux onglets 6, 21 et 23 de la pièce A‑6, mais aucun de ces documents ne satisfait aux exigences fixées à l'alinéa 169(4)a) de la Loi ou à l'article 3 du Règlement (désignées collectivement comme les « exigences en matière de déclaration »). Je ne suis donc saisi que des observations formulées par l'avocat selon lesquelles la demande de CTI correspond simplement à sept pour cent du coût de 2 210 000 $ subi pour terminer le projet, coût qui a été engagé après que le juge Loukidelis eut ordonné qu'il soit mis fin aux contrats de vente et que l'immeuble Galaxy Tower soit évacué. Cela n'est tout simplement pas suffisant.
+[13] En outre, Bonik a produit en preuve une déclaration de TPS[6] datée du 30 mars 1998, pour la période de déclaration allant du 1er octobre 1997 au 31 décembre 1997, dans laquelle elle demande des CTI de 363 487,17 $ et un remboursement net de 153 487,17 $. L'avocat de l'intimée a soutenu que cette déclaration constitue la demande de Bonik visant les CTI en litige en l'espèce et que, comme cette déclaration porte sur une période de déclaration dont la Cour n'est pas saisie, l'appel devrait être rejeté pour ce seul motif. Je suis d'accord avec cette conclusion. Bonik a manifestement demandé les prétendus CTI en litige en l'espèce après la période dont je suis saisi. Si elle avait produit de quelconques factures ou documents satisfaisant aux exigences en matière de déclaration et visant des dépenses engagées au cours de la période de déclaration pertinente, ou au cours d'une période antérieure comme le permet le paragraphe 225(4), Bonik aurait pu avoir droit à ces CTI, dans la mesure évidemment où il ne s'agissait pas d'un immeuble d'habitation non neuf. Malheureusement pour Bonik, elle a omis de le faire.
+[14] Même si, compte tenu de mon raisonnement ci‑dessus, il est inutile que j'examine la question de savoir si Galaxy Tower était un immeuble d'habitation non neuf, je vais néanmoins formuler quelques observations à cet égard puisque les avocats des deux parties ont présenté des observations sur ce point. Les dispositions applicables de la Loi sont les paragraphes 191(1) et (2) :
+191(1) Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d'un immeuble d'habitation — immeuble d'habitation à logement unique ou logement en copropriété — sont achevées en grande partie,
+b) le constructeur de l'immeuble :
+(i) soit en transfère la possession à une personne aux termes d'un bail, d'une licence ou d'un accord semblable (sauf un accord qui est connexe à un contrat de vente visant l'immeuble et qui porte sur la possession ou l'occupation de l'immeuble jusqu'au transfert de sa propriété à l'acheteur aux termes du contrat) conclu en vue de l'occupation de l'immeuble à titre résidentiel,
+(ii) soit en transfère la possession à une personne aux termes d'une convention, sauf une convention portant sur la fourniture d'une maison mobile et d'un emplacement pour celle‑ci dans un parc à roulottes résidentiel, portant sur l'une des fournitures suivantes :
+(A) a fourniture par vente de tout ou partie du bâtiment dans lequel est située l'habitation faisant partie de l'immeuble,
+(B) la fourniture par bail du fonds faisant partie de l'immeuble ou la fourniture d'un tel bail par cession,
+(iii) soit, s'il est un particulier, occupe lui‑même l'immeuble à titre résidentiel,
+c) le constructeur, la personne ou le particulier locataire de celle‑ci ou titulaire d'un permis de celle‑ci est le premier à occuper l'immeuble à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l'immeuble au dernier en date du jour où les travaux sont achevés en grande partie et du jour où la possession de l'immeuble est transférée à la personne ou l'immeuble est occupé par lui;
+e) avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l'immeuble ce jour‑là.
+191(2) Pour l'application de la présente partie, lorsque la construction ou les rénovations majeures d'un logement en copropriété sont achevées en grande partie et que le constructeur du logement en transfère la possession à une personne qui en est l'acheteur en vertu d'un contrat de vente conclu à un moment où l'immeuble d'habitation en copropriété dans lequel le logement est situé n'est pas enregistré comme tel, le constructeur est réputé, si la personne ou le particulier locataire de celle‑ci ou titulaire d'un permis de celle‑ci est le premier à occuper le logement à titre résidentiel après que les travaux sont achevés en grande partie et s'il est mis fin au contrat de vente à un moment donné, autrement que par exécution du contrat, sans qu'un autre contrat de vente visant le logement soit conclu entre le constructeur et la personne à ce moment :
+a) avoir effectué et reçu, par vente, la fourniture taxable du logement au moment où il est mis fin au contrat;
+b) sauf si la possession du logement est transférée à la personne avant 1991, avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au moment où il est mis fin au contrat, la taxe relative à la fourniture, calculée sur la juste valeur marchande du logement à ce moment.
+[15] Dans la présente affaire, les parties ont convenu que les contrats de vente des logements condominiaux situés dans Galaxy Tower ont été conclus avant 1991, que l'immeuble était terminé à 75 pour 100 en date du 1er janvier 1991 et que 52 des 77 logements étaient occupés en 1989 et en 1990, avant la mise en oeuvre de la loi en matière de TPS. L'intimée a avancé que, comme on a mis fin aux contrats de vente en juillet 1991, Bonik est réputée avoir effectué une fourniture taxable en application du paragraphe 191(2) de la Loi et n'a donc pas droit aux CTI postérieurs à ce moment. Bonik fait plutôt valoir que l'immeuble n'était pas achevé en grande partie lorsqu'on a mis fin aux contrats. À l'appui de son assertion, elle affirme que plus de deux millions de dollars ont été engagés pour terminer l'immeuble après juillet 1991.
+[16] Pour que la TPS puisse être perçue suivant les paragraphes 191(1) ou (2) de la Loi, le logement en cause doit être achevé en grande partie. À la lumière du témoignage de M. Nikolic, des admissions des parties et du fait qu'en juillet 1991, le juge Loukidelis a ordonné que Galaxy Tower soit évacuée jusqu'à ce que de plus amples travaux soient effectués de manière à ce que le code du bâtiment soit respecté, j'arrive à la conclusion que les logements de Galaxy Tower n'étaient pas achevés en grande partie à ce moment. Au contraire, l'immeuble a fait l'objet d'autres travaux de construction de plus de deux millions de dollars sur une période d'environ trois ans, et il a finalement été terminé au cours de l'année 1994. J'accepte le témoignage de M. Nikolic voulant que Galaxy Tower ait été transformée en immeuble locatif en 1994, sous le nom Starbury Tower, et que les logements n'aient pas été vendus, mais plutôt loués à partir de juillet 1994.
+[17] Pour ces raisons, j'estime que Galaxy Tower n'était pas un immeuble d'habitation non neuf après 1991, et que l'immeuble était toujours en construction. Cependant, je ne puis accorder les CTI de 154 694 $ demandés par Bonik parce qu'elle a omis de satisfaire aux exigences en matière de déclaration et qu'elle a demandé ces CTI au cours d'une période de déclaration subséquente.
+[18] Le dernier point touche aux pénalités prévues à l'article 285 qui ont été imposées relativement à la TPS que Bonik a perçue sur la vente à M. Wadden. À cet égard aussi j'estime que, même si Bonik a omis de verser cette TPS perçue et que ses documents semblent désordonnés, la gravité de cette situation n'atteint pas le degré de faute lourde ou d'intention requis pour justifier l'imposition de pénalités à ce titre. Monsieur Nikolic n'a pas versé la TPS parce que, selon lui, Bonik avait droit à des CTI et à un remboursement de la TVF qui compensaient largement la TPS de 3 850 $ qu'il a omis de verser. Bien que je n'aie pas accordé ces CTI à Bonik, j'en ai décidé ainsi uniquement parce que cette dernière n'a pas réussi à satisfaire aux exigences en matière de déclaration et qu'elle a produit sa déclaration de TPS au cours d'une période subséquente, et non parce qu'elle n'a pas payé la taxe visée par ces crédits. Pour les raisons susmentionnées, j'estime que l'intérêt et les pénalités prévus à l'article 280 de la Loi sont suffisants. De surcroît, l'intimée n'a pas précisé le montant des pénalités fondées sur l'article 285 qu'elle réclamait ni les calculs effectués pour arriver à cette somme.
+[19] L'appel de Bonik est accueilli uniquement pour dispenser celle‑ci des pénalités imposées en application de l'article 285, et la nouvelle cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation en conséquence.
+Serbcan Inc. c. La Reine (2000‑3496(GST)G)
+[20] Serbcan interjette appel de la nouvelle cotisation établie par le ministre en vertu de la Loi sur la taxe d'accise qui s'élève à 9 508,26 $, pour la période allant du 1er janvier 1994 au 31 mars 1996. Les questions en litige consistent à savoir si Serbcan peut demander, en application du paragraphe 231(1) de la Loi, une déduction de 4 830 $ au titre d'une créance irrécouvrable relativement à la vente du lot Paquette, et si Serbcan a droit, en application du paragraphe 169(1) de la Loi, aux crédits de taxe sur les intrants de 14 309,06 $ et de 77 896,42 $ qu'elle a demandés au titre du coût de construction lié à la subdivision Mount Atlee et de l'immeuble « B » du Serbian Village, respectivement.
+[21] Lorsqu'il a établi la nouvelle cotisation relative à Serbcan, le ministre s'est appuyé sur les hypothèses suivantes :
+[TRADUCTION]
+a) l'appelante était un inscrit aux termes de la partie IX de la Loi sur la taxe d'accise (la « Loi ») depuis le 1er janvier 1991;
+b) à tous les moments pertinents, l'exercice de l'appelante se terminait le 31 décembre pour l'application de la TPS;
+c) à tous les moments pertinents, l'appelante était tenue de produire et a produit des déclarations de TPS trimestriellement;
+d) les principales activités de l'appelante consistent en la construction de nouvelles résidences et l'aménagement de terrain;
+e) au cours de la période se terminant le 31 mars 1994, l'appelante a vendu le lot 27 situé dans la subdivision Mount Atlee (le « lot 27 »), pour lequel une TPS de 4 830 $ (la « somme ») a été facturée, mais non versée au ministre;
+f) l'appelante soutient que la somme n'a jamais été perçue relativement à la vente du lot 27;
+g) l'appelante n'a jamais établi, par radiation dans ses livres comptables, que la somme constitue une créance irrécouvrable;
+h) l'appelante a demandé un CTI supplémentaire relativement à la subdivision Mount Atlee et le ministre a accordé la partie de ce crédit qui pouvait être étayée.
+[22] Dans son témoignage, M. Nikolic a mentionné que Serbcan avait vendu le lot 27 à M. Paquette et que le produit de cette vente avait été payé à Me Zito, lequel agissait en qualité de conseiller juridique de Serbcan. Monsieur Nikolic a en outre déclaré que ce produit avait servi à acquitter l'hypothèque grevant le bien, mais il est difficile de savoir si la partie du produit attribuable à la TPS, c'est‑à‑dire 4 830 $ : a) a également servi à acquitter l'hypothèque, b) a été utilisée par Me Zito pour payer de quelconques comptes non réglés de Serbcan, ou c) a carrément été volée par Me Zito. Même si l'avocat de Serbcan a soutenu que Me Zito s'était approprié les fonds, aucun élément de preuve autre que le témoignage de M. Nikolic n'a été présenté pour étayer cette assertion.
+[23] Le droit est clair sur ce point : dès qu'un mandataire reçoit le produit de l'opération, il est réputé l'avoir reçu pour le compte de son mandant. Cela est particulièrement vrai dans les cas où le mandataire et le mandant sont tous deux déclarés. À ce titre, Serbcan est réputée avoir reçu les fonds de Me Zito et elle est responsable de la TPS perçue sur la vente du lot 27. Si Me Zito a réellement détourné une quelconque partie de ces fonds, le recours ouvert à Serbcan consiste à intenter une action contre Me Zito. Serbcan demeure néanmoins responsable de la TPS perçue en son nom par Me Zito. Serbcan n'a pas de créance irrécouvrable susceptible de radiation.
+[24] Même si je décidais que la somme de 4 830 $ constitue une créance légitime pour Serbcan, cette créance ne pourrait néanmoins pas faire l'objet d'une déduction au titre d'une créance irrécouvrable suivant le paragraphe 231(1), selon lequel le fournisseur ne peut demander un redressement au titre d'une créance irrécouvrable que s'il a initialement déclaré, et versé, la taxe percevable relativement à la fourniture qu'il juge maintenant irrécouvrable, pour la période au cours de laquelle la taxe est devenue percevable. En l'espèce, l'appelante n'a pas présenté une preuve documentaire suffisante pour établir qu'elle avait perçu et versé la taxe au titre de laquelle elle demande maintenant un remboursement.
+[25] De plus, pour que Serbcan puisse demander un redressement au titre d'une créance irrécouvrable, elle doit d'abord avoir pris des « mesures raisonnables pour déterminer si les créances étaient impossibles à recouvrer », comme l'énonce le juge Hamlyn dans la décision Davies c. Canada[7]. Cette position a également été suivie par le juge en chef Garon dans la décision Paquin c. Canada[8], lorsqu'il renvoie à la décision Davies en l'approuvant et qu'il conclut en outre :
+[…] il n'a pas été établi que l'appelant a pris des mesures raisonnables pour tenter de recouvrer cette créance […] Pour la firme de l'appelant, cette créance était d'un montant substantiel. […] Sa simple affirmation que la créance en question était irrécouvrable ne suffit pas eu égard aux dispositions de l'article 231 de la Loi sur la taxe d'accise. De fait, l'appelant n'a fait strictement rien pour récupérer la somme qui lui était due.
+Serbcan n'a produit aucun élément de preuve montrant qu'elle avait pris des mesures raisonnables pour tenter de recouvrer cette prétendue créance irrécouvrable.
+[26] En dernier lieu, le fournisseur qui demande un redressement au titre d'une créance irrécouvrable doit établir que les comptes débiteurs ont, en bonne et due forme, été radiés de ses livres parce qu'irrécouvrables[9]. Le seul élément de preuve déposé par Serbcan pour montrer qu'elle avait radié la créance en bonne et due forme consiste en une lettre de KPMG adressée à Revenu Canada[10]. Or, ce document ne répond pas à l'exigence en matière de tenue de livres applicable à un redressement au titre d'une créance irrécouvrable. De plus, la lettre était datée du 17 avril 1997, soit une date postérieure à la période visée par la nouvelle cotisation, et elle ne précisait pas la date à laquelle la créance a été radiée. Pour les raisons susmentionnées, je conclus que Serbcan ne peut demander une déduction au titre d'une créance irrécouvrable en ce qui concerne la somme de 4 830 $ qui, selon ses dires, ne pouvait être recouvrée de Me Zito.
+[27] Quant aux CTI demandés par Serbcan relativement au coût de construction de l'immeuble « B » du projet Serbian Village, l'appelante n'a présenté aucune preuve documentaire permettant d'étayer son assertion voulant qu'elle ait engagé plus de 77 896,42 $ au titre de CTI. Serbcan n'a pas satisfait aux exigences énoncées à l'alinéa 169(4)a) de la Loi et a omis de présenter les documents nécessaires pour répondre aux exigences en matière de déclaration prévues par la Loi et son règlement d'application.
+[28] De surcroît, en réponse à des questions qui lui étaient posées au sujet des CTI de 77 896,42 $, M. Nikolic a soutenu qu'il ne savait pas comment on était arrivé à cette somme. L'avocat de l'intimée, quant à lui, a invoqué un document présenté par Serbcan selon lequel la somme de 77 896,42 $ qu'elle demande correspond en fait au total d'une partie prétendument non payée d'un remboursement de la TVF, plus les pénalités et l'intérêt exigés de Serbcan parce qu'elle n'a pas initialement procédé en temps opportun à une autocotisation relativement à l'immeuble, contrairement à ce que lui avait demandé Revenu Canada[11]. En conclusion, les documents de Serbcan elle‑même et les observations formulées par son avocat en réfutation m'incitent à conclure que la somme de 77 896,42 $ demandée par Serbcan n'avait en fait aucun lien avec la TPS qu'elle a pu payer au titre de la construction de l'immeuble « B ».
+[29] Enfin, compte tenu du témoignage de M. Nikolic, des documents dont je suis saisi et des observations faites par les deux avocats, l'immeuble « B » était achevé en grande partie en septembre 1991. À ce moment, il y aurait donc eu une fourniture à soi‑même réputée suivant l'article 191 de la Loi, et Serbcan ne serait pas admissible à des CTI pour les dépenses engagées après cette date. Il est difficile de croire que des travaux de plus d'un million de dollars ont été effectués sur l'immeuble « B » après qu'il eut été achevé en grande partie (à 90 pour 100) en 1991, surtout que cette demande n'est étayée d'aucune pièce justificative.
+[30] Quant aux CTI demandés par Serbcan au titre du coût de construction lié à la subdivision Mount Atlee, la preuve documentaire dont je suis saisi se trouve à l'onglet 16 de la pièce A‑5 et à l'onglet 24 de la pièce A‑1, et aucun de ces éléments n'a été invoqué par l'avocat de l'appelante. Ces éléments de preuve consistent notamment en plusieurs factures ainsi qu'en un grand livre manuscrit dans lequel sont énumérées les dépenses relatives au Mount Atlee, y compris la somme payée au titre de la TPS. Toutefois, ce grand livre ne précise pas les numéros d'inscription aux fins de la TPS de chacun des fournisseurs, comme l'exige le paragraphe 169(4) de la Loi et l'article 3 de son règlement d'application, et seules certaines des factures produites ont réellement été facturées à Serbcan et comprenaient un numéro d'inscription aux fins de la TPS. Après avoir examiné ces documents, je conclus que Serbcan a droit à des CTI sur la TPS qu'elle a payée relativement aux factures suivantes, dans la mesure où ils n'ont pas été demandés au cours d'une période antérieure :
+a) Ville de Sudbury — 256,17 $;
+b) KPMG, Peat Marwick Thorne — 140 $;
+c) KPMG, Peat Marwick Thorne — 297,50 $[12].
+[31] En ce qui touche les pénalités prévues à l'article 285, j'estime que, même si l'appelante a omis de verser la TPS qu'elle a perçue de façon exacte et opportune, et que ses livres paraissent désordonnés, la gravité de cette situation n'atteint pas le degré de faute lourde ou d'intention requis pour justifier l'imposition de telles pénalités. L'intérêt et les pénalités obligatoires prévus à l'article 280 de la Loi suffisent.
+[32] L'appel de Serbcan est accueilli et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation conformément aux motifs qui précèdent.
+The Nikolic Children Trust c. Canada (2000‑3497(GST)G)
+[33] La fiducie interjette appel de la nouvelle cotisation établie par le ministre en vertu de la Loi sur la taxe d'accise et s'élevant à 307 780,54 $, pour la période allant du 1er janvier 1993 au 31 décembre 1996. Les points en litige sont : a) d'établir la date à laquelle l'immeuble « C » a été achevé en grande partie, b) de savoir si la fiducie a droit aux CTI de 39 056,42 $ qu'elle demande relativement au coût de construction de l'immeuble « C », selon le paragraphe 169(1) de la Loi.
+[34] Lorsqu'il a établi la nouvelle cotisation à l'égard de la fiducie, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+[TRADUCTION]
+a) l'appelante était un inscrit aux termes de la partie IX de la Loi sur la taxe d'accise (la « Loi ») depuis le 1er janvier 1993;
+b) à tous les moments pertinents, l'exercice de l'appelante se terminait le 31 décembre aux fins de la TPS;
+c) les principales activités de l'appelante consistent à agir comme compte en fiducie pour des enfants mineurs;
+d) le 12 janvier 1992, la propriété d'un immeuble en voie de construction (l'« immeuble C ») a été transférée à l'appelante par une société liée, Serbcan Inc.;
+e) l'immeuble C est un immeuble d'habitation à logements multiples;
+f) l'immeuble C comprend 100 logements répartis sur sept étages;
+g) l'occupation des logements a débuté en mars 1993 et 69 pour 100 des logements étaient occupés au 31 décembre 1993;
+h) 90 pour 100 du coût de construction de l'immeuble C avait été engagé avant le 31 décembre 1993;
+i) la juste valeur marchande de l'immeuble C au 31 décembre 1993 se chiffrait à 2 749 000 $;
+j) en application du paragraphe 191(3) de la Loi, l'appelante est réputée avoir effectué, par vente, la fourniture taxable de l'immeuble C le 31 décembre 1993;
+k) au moment de sa vente réputée, soit le 31 décembre 1993, et par la suite, l'immeuble C constituait un « immeuble d'habitation non neuf » et donc une fourniture exonérée;
+l) l'appelante n'a pas droit aux crédits d'impôt à l'investissement [sic] demandés relativement à une fourniture exonérée.
+[35] L'issue du présent appel repose sur la date de l'achèvement en grande partie de l'immeuble « C ». Avant d'examiner cette question, je dois toutefois me demander si l'arrêt Bruner c. La Reine[13] de la Cour d'appel fédérale s'applique en l'espèce. Dans cet arrêt, la Cour d'appel a conclu qu'« un contribuable n'a pas le droit de contester une cotisation lorsque le fait pour lui d'obtenir gain de cause en appel soit ne changerait rien à l'impôt qu'il doit payer ou à son droit à un crédit de taxe sur les intrants ou à un remboursement, soit augmenterait le montant d'impôt qu'il doit payer ».
+[36] L'intimée a fait valoir que, même si la fiducie obtenait gain de cause en appel et que la date de l'achèvement en grande partie de l'immeuble « C » était réellement le 31 décembre 1996, elle serait à son tour assujettie à la TPS sur l'augmentation de la valeur de l'immeuble, soit 71 967,70 $[14]. L'avocat de l'intimée a ajouté que, comme ce montant accru de TPS ne serait pas compensé par les CTI demandés par la fiducie, le présent appel devait être rejeté en application de l'arrêt Bruner.
+[37] L'avocat de la fiducie soutient quant à lui que le changement de la date de l'achèvement en grande partie de l'immeuble aurait pour effet de réduire la somme due par la fiducie au titre des pénalités et des intérêts, et que cette somme devrait être prise en compte pour décider de l'applicabilité de l'arrêt Bruner. Je suis d'accord avec cette interprétation. Le simple bon sens veut qu'une diminution des pénalités et de l'intérêt corresponde à une réduction du montant de la taxe que le contribuable doit payer. Il s'agit donc de savoir si le contribuable s'en tirerait mieux, et tous les chiffres doivent être pris en considération pour trancher ce point.
+[38] L'avocat de l'intimée a par ailleurs affirmé que cette augmentation du montant de la TPS aurait pour effet de compenser les économies au titre de l'intérêt et des pénalités que réaliserait la fiducie, dans l'éventualité où les CTI qu'elle a demandés n'étaient pas accordés. L'avocat a présenté cette observation sans offrir aucun calcul précis, par suite d'une conversation avec une personne qui est sans doute fonctionnaire à l'Agence du revenu du Canada, mais il a omis d'appeler cette personne à témoigner pour étayer ses calculs. On me laisse donc la tâche peu enviable d'avoir à tenter de calculer les différentes issues possibles de la présente affaire, sans aucune aide des parties, pour décider si l'arrêt Bruner s'applique.
+[39] À la lumière de mes propres calculs[15], j'estime que, si la fiducie obtient gain de cause en l'espèce, ses économies au titre de l'intérêt et des pénalités se chiffreront à environ 79 858,33 $, somme qui excède manifestement n'importe quelle augmentation de la TPS recouvrable. Cependant, comme l'intimée n'a pas invoqué de faits pertinents en ce qui touche cette question, c'est elle qui assume la charge de la preuve. À cet égard, l'avocat de l'intimée a omis de fournir des documents utiles permettant de procéder aux calculs appropriés. Mes propres calculs m'amènent à conclure que, si la fiducie obtient gain de cause en l'espèce, le montant global de taxe qu'elle aura à payer sera moindre et, pour cette raison, l'arrêt Bruner ne s'applique pas.
+[40] Je me penche maintenant que la question de l'achèvement en grande partie de l'immeuble. Les dispositions pertinentes de la Loi sont les suivantes :
+191(3) Pour l'application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d'un immeuble d'habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n'est pas l'acheteur en vertu du contrat de vente visant l'immeuble, la possession d'une habitation de celui‑ci aux termes d'un bail, d'une licence ou d'un accord semblable conclu en vue de l'occupation de l'habitation à titre résidentiel,
+(i.1) transfère à une personne la possession d'une habitation de l'immeuble aux termes d'une convention prévoyant :
+(A) d'une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l'immeuble,
+(B) d'autre part, la fourniture par bail du fonds faisant partie de l'immeuble ou la fourniture d'un tel bail par cession,
+(ii) étant un particulier, occupe lui‑même à titre résidentiel une habitation de l'immeuble,
+c) le constructeur, la personne ou un particulier locataire de celle‑ci ou titulaire d'un permis de celle‑ci est le premier à occuper à titre résidentiel une habitation de l'immeuble après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l'immeuble le jour où les travaux sont achevés en grande partie ou, s'il est postérieur, le jour où la possession de l'habitation est transférée à la personne ou l'habitation est occupée par lui;
+e) avoir payé à titre d'acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l'immeuble ce jour‑là.
+[41] L'intimée avance que l'immeuble « C » était achevé en grande partie le 31 décembre 1993, et qu'à ce titre il faisait l'objet d'une fourniture à soi‑même en application du paragraphe 191(3) de la Loi, alors que la juste valeur marchande était de 2 749 000 $. La fiducie soutient que l'immeuble n'a été achevé en grande partie que le 31 décembre 1996 et que sa valeur marchande se chiffrait alors à 3 777 110 $.
+[42] L'intimée s'est appuyée sur l'hypothèse de fait selon laquelle l'immeuble « C » était achevé en grande partie le 31 décembre 1993. La fiducie, quant à elle, a contesté cette hypothèse à l'aide du témoignage de M. Nikolic, lequel était digne de foi en ce qui concerne le coût et les détails liés à la construction de l'immeuble « C ».
+[43] Même si M. Nikolic ne comprenait peut‑être pas intégralement la Loi et l'application de la TPS, il semblait connaître son métier et les coûts de construction. Il a renvoyé à des documents qui font état de l'occupation de l'immeuble « C » ainsi que de son coût, y compris une estimation du coût des travaux nécessaires pour terminer le projet. Ces chiffres peuvent se résumer de la façon suivante :
+Période
+Somme
+% des travaux achevés
+Jusqu'en mars 1993
+4 001 457 $
+82,34 %
+Jusqu'en décembre 1993
+255 818 $
+87,60 %
+Jusqu'en décembre 1994
+40 800 $
+88,44 %
+Jusqu'en décembre 1995
+4 110 $
+88,53 %
+Du 1er janvier 1996 jusqu'à l'achèvement
+557 500 $
+100 %
+Coût total de l'immeuble « C »
+4 859 685 $
+[44] La fiducie a procédé à la ventilation du coût prévu de l'achèvement de l'immeuble « C » et a notamment donné des précisions relatives aux travaux qu'il restait à faire. En fournissant ces précisions, l'appelante a réussi à infirmer l'hypothèse de fait de l'intimée. Elle a ainsi obligé cette dernière à établir comment elle avait calculé l'achèvement en grande partie ou à 90 pour 100. L'intimée a tenté d'expliquer ses calculs en précisant quels étaient, parmi les travaux à faire mentionnés dans l'estimation de la fiducie, les éléments qui, selon elle, constituaient des dépenses déductibles. Voici un résumé de la comparaison des dépenses estimatives nécessaires pour terminer l'immeuble « C » et celles accordées par l'intimée :
+Estimées par
+Accordées par
+Détails
+la fiducie
+l'intimée
+Dynamitage et excavation
+9 000 $
+NÉANT
+Plancher de béton
+13 x 2 515
+32 695 $
+27 665 $*
+Plomberie
+13 x 2 966
+38 558 $
+32 626 $*
+Électricité
+13 x 2 754
+35 802 $
+30 294 $*
+Chauffage
+13 x 2 235
+29 055 $
+24 585 $*
+Isolation
+13 x 1 475
+19 175 $
+16 225 $*
+Cloisons
+13 x 1 378
+17 914 $
+15 158 $*
+Cloison sèche
+13 x 2 476
+32 188 $
+27 236 $*
+Peinture
+13 x 975
+12 675 $
+10 725 $*
+Armoires
+13 x 2 125
+27 625 $
+23 375 $*
+Travaux de finition
+13 x 1 650
+21 450 $
+18 150 $*
+Revêtement de sol
+13 x 2 224
+28 912 $
+24 464 $*
+Salle de culture physique
+15 200 $
+NÉANT
+Protection contre l'humidité
+54 500 $
+54 500 $
+Clôtures
+55 000 $
+NÉANT
+Balustrades en métal
+22 000 $
+NÉANT
+Murs de soutènement
+76 200 $
+76 200 $
+Accessoires pour le parc
+20 000 $
+NÉANT
+Divers
+10 000 $
+NÉANT
+TOTAL
+557 949 $
+381 203 $
+[45] L'intimée a fait valoir que le coût des travaux d'achèvement doit se fonder sur un immeuble comportant 100 logements plutôt que 102 logements. C'est ce qui explique les sommes réduites marquées d'un astérisque ci‑dessus. En outre, l'intimée semble avoir refusé les dépenses relatives aux éléments qui, selon elle, n'avaient pas de lien pertinent avec la nature habitable de l'immeuble d'habitation et qui, ultimement, avaient une importance secondaire au regard de l'objet visé par le projet. Ces éléments portent la mention « NÉANT » ci‑dessus. Comme il est précisé plus haut, l'intimée n'a toutefois appelé personne à témoigner pour expliquer ces calculs, ce qui m'oblige à tenter d'établir comment le ministre en est arrivé à ces sommes révisées.
+[46] Les sommes refusées ont les effets suivants sur le coût de l'achèvement de l'immeuble « C » et sur la date de l'achèvement en grande partie de l'immeuble :
+Période
+Somme
+% des travaux achevés
+Jusqu'en mars 1993
+4 001 457 $
+85,44 %
+Jusqu'en décembre 1993
+255 818 $
+90,90 %
+Jusqu'en décembre 1994
+40 800 $
+91,77 %
+Jusqu'en décembre 1995
+4 110 $
+91,86 %
+Du 1er janvier 1996 jusqu'à l'achèvement
+381 203 $
+100 %
+Coût total de l'immeuble « C »
+4 683 388 $
+S'appuyant sur les sommes refusées par le ministre, l'intimée a donc avancé que la date de l'achèvement en grande partie de l'immeuble « C » était le 31 décembre 1993.
+[47] Sur le fondement des documents auxquels j'ai renvoyé plus haut, je conclus que le coût prévu des travaux d'achèvement fourni par l'appelante visait en réalité un immeuble de 100 logements et non de 102 logements. Selon la lettre que M. Nikolic a fait parvenir à Syd Manley, l'évaluateur, en date du 24 février 1998, laquelle se trouve à la page 3 de l'onglet 18 de la pièce A‑5, 87 logements étaient achevés à la fin de 1995, 13 autres devant être achevés après le 1er janvier 1996. Quant aux sommes refusées en raison de leur importance secondaire au regard du projet, j'estime au contraire qu'elles sont pertinentes à la nature habitable de l'immeuble dans son ensemble. Par conséquent, le ministre n'était pas fondé à refuser ces sommes lorsqu'il a établi le coût prévu des travaux d'achèvement de l'immeuble.
+[48] Manifestement, l'immeuble « C » n'était pas achevé en grande partie le 31 décembre 1993. Une question plus épineuse est celle de la date réelle de l'achèvement en grande partie de l'immeuble. Monsieur Nikolic n'était pas en mesure de fournir une date précise pour l'achèvement en grande partie des travaux parce que, selon lui, l'immeuble n'a jamais été achevé en grande partie avant que la National Mortgage Corporation n'en reprenne possession en 1998. À ce moment, il restait encore dix logements à terminer. Pendant son témoignage, M. Nikolic a assimilé l'occupation à l'achèvement, ce qui n'est pas la bonne façon d'établir la date d'achèvement en grande partie des travaux suivant la Loi, quoique cela pourrait se révéler utile en l'espèce. Il semble que l'immeuble « C » a été construit « selon les besoins », et que les logements n'étaient pas achevés tant qu'un occupant ne se montrait pas intéressé, à tout le moins en ce qui concerne les derniers logements de l'immeuble.
+[49] Si je tiens compte de l'occupation, comme l'a fait M. Nikolic, il ressort sans équivoque que l'immeuble était occupé à 90 pour 100 à la fin de 1995, sur un total de 100 logements. Cependant, mon analyse ne se termine pas là puisque d'autres coûts doivent être pris en compte, notamment ceux de la salle de culture physique, des clôtures, des balustrades en métal et d'autres éléments refusés par le ministre. À la lumière de ces éléments et, en conclusion, du témoignage de M. Nikolic, des documents présentés pour le compte de la fiducie, en particulier ceux qui se trouvent aux onglets 13 et 44 de la pièce A‑2, aux onglets 18 et 24 de la pièce A‑5 et à l'onglet 19 de la pièce R‑2, et du fait qu'aucune précision n'a été offerte par l'intimée pour expliquer les calculs, je conclus que l'immeuble « C » a été achevé en grande partie le 31 décembre 1996.
+[50] En ce qui touche les CTI demandés par la fiducie pour des frais qui, semble‑t‑il, sont afférents à la construction de l'immeuble « C », la situation est la même que dans les appels précédents : la fiducie a omis de satisfaire aux exigences en matière de déclaration fixées au paragraphe 169(4). Bien que les documents dont je suis saisi comprennent des grands livres manuscrits, il ne s'y trouve aucune facture ni aucun autre document permettant d'étayer la demande de CTI faite par la fiducie. La seule facture produite devant la Cour est celle de KPMG Peat Marwick Thorne et, à cet égard, je vais accueillir l'appel, mais uniquement pour accorder à la fiducie un CTI au titre de cette facture se chiffrant à 297,50 $ et pour supprimer les pénalités prévues à l'article 285.
+[51] L'appel interjeté par The Nikolic Children Trust est donc accueilli et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation conformément aux motifs qui précèdent.
+Signé à Ottawa, Canada, ce 22e jour de juin 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 27e jour de juillet 2007.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI357
+NOS DES DOSSIERS DE LA COUR : 2000-3494(GST)G, 2000-3496(GST)G
+et 2000-3497(GST)G
+INTITULÉ DE LA CAUSE : Bonik Inc., Serbcan Inc., The Nikolic Children Trust et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Les 13 et 14 décembre 2005 et
+le 5 janvier 2006
+MOTIFS DU JUGEMENT PAR : L'honorable C.H. McArthur
+DATE DU JUGEMENT : Le 22 juin 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Ronald B. Moldaver, c.r.
+Avocat de l'intimée :
+Me Bobby Sood
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom : Me Ronald B. Moldaver, c.r.
+Cabinet : Traub Moldaver
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] DORS/90‑688a.
+[2] 2006 CCI 301.
+[3] L.R.C. (1985), ch. E‑15.
+[4] Même si le préambule du paragraphe 169(4) a été modifié en 1993 et qu'il est réputé être entré en vigueur le 30 septembre 1992, l'ancien libellé n'a aucune incidence sur l'issue du présent appel.
+[5] DORS/91‑45. L'article 3 a été modifié le 4 mai 2000; il s'applique aux fournitures effectuées après le 23 avril 1996 dans certains cas et après mars 1997 dans d'autres. Le libellé employé dans la version antérieure de cette disposition n'a pas d'incidence sur l'issue du présent appel.
+[6] Pièce A‑8.
+[7] no 97‑1983(GST)I, 29 mai 1998, [1998] G.S.T.C. 58 (CCI).
+[8] no 2001‑4222(GST)G, 2 septembre 2004, 2004 CCI 597, [2005] G.S.T.C. 58 (CCI).
+[9] Equinox Realty Ltd. c. Canada, no 97‑824(GST)I, 14 novembre 1997, [1997] G.S.T.C. 101 (CCI), et McCool c. Canada, no 2004‑659(GST)I, 20 mai 2005, 2005 CCI 357, [2005] G.S.T.C. 108 (CCI).
+[10] Pièce A‑9, onglet 9.
+[11] Pièce R‑2, onglet 14.
+[12] Cette facture fait état d'un total de 595 $ en TPS, mais vise des services rendus à la fois à Serbcan et à la fiducie. Comme la facture ne précise pas la TPS attribuable à chacune des parties, j'ai simplement divisé la somme en deux.
+[13] no A‑475‑02, 30 janvier 2003, 2003 CAF 54, [2003] G.S.T.C. 28.
+[14] Cette somme est calculée en fonction de l'augmentation de la valeur de l'immeuble « C » du 31 décembre 1993 au 31 décembre 1996, soit 1 028 110 $, et se fonde sur les valeurs mentionnées par les parties dans leurs actes de procédure et leurs observations.
+[15] Ce calcul a été effectué de la façon suivante : le montant de l'intérêt et des pénalités jusqu'au 1er mai 1995 visait une période de 52 mois. Toutefois, si la date de l'achèvement en grande partie était le 31 décembre 1996, il faudrait calculer à nouveau le montant de l'intérêt et des pénalités en fonction d'une période de 16 mois, soit environ 30,769 pour 100 de la période initiale, ce qui donnerait un intérêt et des pénalités totalisant 115 350,50 $, et 30,769 pour 100 de 115 330,50 $ correspond à environ 79 858,33 $.

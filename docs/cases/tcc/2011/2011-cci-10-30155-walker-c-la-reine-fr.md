@@ -1,0 +1,275 @@
+---
+title: "Walker c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30155/index.do"
+last_modified: "2011-01-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 10"
+citation2: ""
+neutral_citation: "2011 CCI 10"
+decision_date: "2011-01-10"
+language: "fr"
+item_id: "30155"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7832
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:13:21.159000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3d9affb5f251d2d8a876ec139262cca01dfdddeae66545fc978ac7ce9c04228"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walker c. La Reine
+
+- Citation: 2011 CCI 10
+- Decision date: 2011-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7832, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walker c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-10
+Référence neutre
+2011 CCI 10
+Numéro de dossier
+2009-134(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-134(IT)I
+ENTRE :
+CLIVE WALKER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Normita Walker (2009-135(IT)I), à Kelowna (Colombie‑Britannique), les 2 mars 2010 et 1er et 2 novembre 2010.
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelant :
+Dewey Lotoski
+Avocate de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2003 et 2004 sont accueillis, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 25e jour de février 2011.
+Hélène Tremblay, traductrice
+Dossier : 2009-135(IT)I
+ENTRE :
+Normita Walker,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Clive Walker (2009-134(IT)I), à Kelowna (Colombie‑Britannique), les 2 mars 2010 et 1er et 2 novembre 2010.
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+Dewey Lotoski
+Avocate de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition 2003 et 2004 sont accueillis, sans dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 25e jour de février 2011.
+Hélène Tremblay, traductrice
+Référence : 2011 CCI 10
+Date : 10 janvier 2011
+Dossiers : 2009-134(IT)I
+2009-135(IT)I
+ENTRE :
+CLIVE WALKER
+NORMITA WALKER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les présents appels ont été entendus ensemble sur preuve commune et portent sur les années d’imposition 2003 et 2004 des appelants. Par des avis de nouvelle cotisation, les sommes de 120 086,35 $ et de 130 508,58 $ ont été ajoutées au revenu de société de personnes des appelants pour les années 2003 et 2004, respectivement, la moitié de ces sommes ayant été ajoutée au revenu de chacun des associés pour chacune des années en cause. De plus, la déduction demandée au titre de diverses dépenses a été refusée, et des pénalités pour faute lourde ont été imposées relativement aux deux années d’imposition. Les appelants ne contestent pas les montants de revenu non déclaré visés par les nouvelles cotisations, sauf en ce qui concerne deux sommes : 10 325,70 $ au titre du produit d’un chèque émis en livres sterling et 10 000 $ au titre d’une récupération touchant la vente d’une autocaravane en 2004.
+[2] Les appelants sont associés à parts égales dans une entreprise spécialisée dans la vente internationale de produits orthopédiques sur mesure. L’entreprise est exploitée à titre de société de personnes sous la désignation de Shuswap Orthotics (« Shuswap ») et les appelants, qui sont époux, détiennent chacun une participation de 50 pour 100. Shuswap est exploitée à partir de la résidence des appelants située à Sorrento, en Colombie‑Britannique. L’entreprise est titulaire de droits de distribution en vertu desquels elle peut vendre un produit orthopédique de Step Forward servant de support plantaire. Pendant les années d’imposition 2003 et 2004, ces droits de distribution autorisaient les appelants à vendre les produits orthopédiques partout au Canada, aux États‑Unis, au Royaume‑Uni, en Europe et en Afrique du Sud. Leurs ventes étaient en grande partie réalisées à l’occasion de foires commerciales tenues dans le monde entier, ce qui nécessitait des déplacements fréquents et prolongés, loin de leur domicile. Les stands étaient loués dans les foires commerciales et les appelants vendaient des produits orthopédiques approuvés par les autorités médicales.
+[3] Pendant les années d’imposition en cause, les appelants se sont rendus à des foires commerciales au Canada au moyen de deux véhicules : une autocaravane Bigfoot et une caravane tirée par un camion. Les appelants dormaient dans la caravane pour éviter les frais d’hôtel parce que les orthèses étaient personnalisées sur place aux foires commerciales. Ils conservaient tout le matériel nécessaire à l’appareillage et à la fabrication des orthèses dans l’autocaravane pendant leurs déplacements. Selon leur témoignage, ils utilisaient leurs trois véhicules exclusivement, ou 100 pour 100 du temps, pour leur entreprise. De plus, ils ont témoigné qu’ils étaient propriétaires d’une fourgonnette Ford plus vieille qu’ils conservaient pour leur usage personnel. Le ministre du Revenu national (le « ministre ») a attribué 20 pour 100 de l’utilisation des véhicules à l’usage personnel.
+[4] Lorsqu’ils se rendaient à des foires commerciales à l’extérieur du Canada, les appelants prenaient l’avion et demeuraient principalement dans des établissements offrant la chambre et le petit déjeuner. Lorsqu’ils faisaient affaires au Royaume-Uni, ils entreposaient leurs fournitures et leur matériel dans un entrepôt. Lorsqu’ils se rendaient à des endroits comme l’Afrique du Sud, ce qu’ils ont fait en 2004, ils transportaient en avion avec eux une partie du matériel et, pour des raisons de rentabilité, ils louaient ou achetaient d’autre matériel, comme des chaises, une fois arrivés à destination. S’ils voyageaient au Canada, ce matériel était conservé dans l’autocaravane.
+[5] Outre ces déplacements, les appelants avaient aussi des clients qui se rendaient à leur domicile pour l’appareillage de leurs orthèses. Les appelants offraient également de la formation à des concessionnaires d’orthèses, qui finissaient par agir comme techniciens aux foires commerciales. La formation pouvait durer de trois à quatre jours. Selon le témoignage des appelants, le sous‑sol de leur résidence avait été rénové presque entièrement pour répondre aux besoins de leur entreprise, y compris le classement, les communications, les réservations pour les foires, la fabrication, l’entreposage et la formation. Il ressort de leur témoignage que le sous‑sol consistait en une chambre à coucher, où dormaient les stagiaires pendant les séances de formation des concessionnaires, une salle d’eau et une petite cuisine pour les clients et les concessionnaires stagiaires, un petit bureau, un large espace ouvert où se trouvaient le bureau principal, une buanderie de même qu’une pièce où logeait la fournaise, qui servait entièrement à l’entreposage de matériel et à la fabrication de produits. Aucune activité commerciale ne se déroulait aux étages principaux de la maison. Les appelants ont témoigné qu’ils utilisaient 75 pour 100 de la superficie totale de 953 pieds carrés du sous‑sol, soit 715 pieds carrés, pour les activités liées à leur entreprise.
+[6] Les appelants ont également demandé une déduction au titre de l’utilisation commerciale d’un atelier de deux étages de 30 pieds sur 30 pieds, qui est isolé de la maison. Ils ont déduit 50 pour 100 de chacun des étages de cet atelier, soit un total de 900 pieds carrés, au titre de l’utilisation à des fins commerciales. L’atelier servait principalement d’entrepôt pour le matériel et les fournitures. Selon le témoignage des appelants et les chiffres qu’ils ont présentés dans la pièce A‑3, ils utilisaient à des fins commerciales un total de 1 615 pieds carrés (715 pieds carrés pour le sous‑sol et 900 pieds carrés pour l’atelier) sur les 4 310 pieds carrés de la maison et de l’atelier, soit 37,5 pour 100 de la superficie totale.
+[7] Il ressort du témoignage du vérificateur, Peter Dranchuk, et de la pièce R‑1 produite par le ministre, que l’atelier comptait un nombre total de 1 568 pieds carrés et non de 1 800 pieds carrés comme l’affirmaient les appelants, puisque le premier étage consistait uniquement en un local d’habitation. En conséquence, le ministre a accepté une proportion de 50 pour 100 du rez‑de‑chaussée (soit 50 pour 100 de 784 pieds carrés) de l’atelier, ou 337 pieds carrés (quoi qu’il en soit, ce calcul est inexact et j’y reviendrai plus loin dans mes motifs). De plus, le ministre a fait droit à 100 pour 100 de l’utilisation à des fins commerciales du petit bureau situé au sous‑sol et à 50 pieds carrés pour l’entrepôt au sous‑sol, soit un total de 200 pieds carrés pour l’utilisation à des fins commerciales du sous‑sol. Les chiffres relatifs aux appelants sont donc passés d’une utilisation à des fins commerciales de leur maison et de l’atelier d’environ 20 pour 100 par associé à 7 pour 100 par associé.
+[8] Outre l’utilisation à des fins commerciales de la maison, de l’autocaravane et de la caravane, les appelants contestent le refus opposé à la déduction des frais de déplacement liés aux foires commerciales en Angleterre, en Afrique du Sud et en Irlande, des frais de location de matériel en Afrique du Sud ainsi que des dépenses engagées pour la garantie prolongée et l’assurance visant l’autocaravane Bigfoot.
+[9] Les questions en litige sont les suivantes :
+1. Quel est le montant approprié de la récupération de la déduction pour amortissement découlant de la vente de l’autocaravane en 2004?
+2. La somme de 10 325,70 $, soit le montant du chèque de 4 500 livres sterling converti en devises canadiennes, doit‑elle être incluse dans le produit non déclaré des ventes en 2004?
+3. Dans quelles proportions la maison et l’atelier des appelants servaient‑ils à des fins commerciales, d’une part, et à des fins personnelles, de l’autre?
+4. Dans quelles proportions les véhicules servaient‑ils à des fins commerciales, d’une part, et à des fins personnelles, de l’autre?
+5. Les dépenses suivantes sont-elles déductibles?
+a) déplacements en avion à l’étranger;
+b) frais de traversier relatifs aux foires commerciales à l’étranger;
+c) parties du paiement pour l’autocaravane fait au titre de la garantie prolongée et de l’assurance;
+d) location de matériel en Afrique du Sud.
+6. Était-il justifié d’imposer des pénalités pour faute lourde pour les deux années d’imposition 2003 et 2004?
+7. L’intimée a‑t‑elle droit aux dépens liés à l’ajournement de l’audience en mars 2010?
+Analyse
+[10] Le fardeau de la preuve relativement à toutes ces questions incombe aux appelants, sauf en ce qui a trait aux pénalités. L’intimée s’appuie principalement sur le fait qu’un grand nombre des dépenses n’étaient pas documentées et elle demande à la Cour de tirer une inférence défavorable de l’omission des appelants de fournir des pièces justificatives et des renseignements suffisants. L’intimée a invoqué à cet égard un extrait souvent cité de l’arrêt Njenga c. La Reine, 96 D.T.C. 6593, au paragraphe 3 :
+[…] Des reçus écrits par elle‑même et des allégations sans preuve ne sont pas suffisants.
+Cependant, je n’ai jamais cru ni appliqué la règle pratique voulant que seuls les éléments amplement étayés soient acceptables. Il faut par ailleurs tenir compte de l’ensemble des circonstances, du genre de preuve corroborante fournie et de la crédibilité des témoins.
+[11] Les observations suivantes que M. le juge Miller a formulées au sujet de l’arrêt Njenga au paragraphe 6 de la décision Fenney c. La Reine, [2001] 3 C.T.C. 2592, s’appliquent en l’espèce :
+6. Certes, dans l’arrêt Njenga, la Cour a indiqué clairement que la charge de prouver le fondement de déductions admissibles incombe au contribuable et que ce dernier doit tenir de la documentation permettant d’appuyer les réclamations qu’il fait. Toutefois, il était clair dans l’affaire Njenga que le juge du procès avait conclu que l’appelante ne répondait pas aux exigences pour ce qui est de la crédibilité. Tel n’est pas le cas en l’espèce. Je crois ce que dit M. Fenney. Je n’interprète pas l’arrêt Njenga comme interdisant d’une manière absolue d’admettre des dépenses non étayées de documents : cet arrêt doit être interprété dans le contexte du manque de crédibilité d’un témoin.
+[12] Dans les présents appels, il n’est pas contesté qu’une multitude de dépenses engagées par les appelants n’étaient pas étayées et que les documents comptables, tels qu’ils existaient en 2003 et en 2004, étaient en désordre. Cependant, certains des éléments étaient étayés de reçus, délivrés par des tiers, qui correspondaient aux reçus que les appelants avaient eux‑mêmes établis. On a en outre montré que ces derniers se déplaçaient beaucoup dans le cadre de leur entreprise, de sorte qu’on pouvait s’attendre à de nombreuses dépenses. De plus, je ne doute pas de la crédibilité des témoignages des appelants. Je ne crois pas qu’ils avaient délibérément l’intention d’induire quiconque en erreur. La situation s’est compliquée pour eux lorsqu’ils ont eu l’impression que leurs ventes ne pouvaient avoir autant augmenté pendant les années d’imposition en cause et qu’ils ont donc mis en doute les calculs et les documents de l’aide‑comptable, lesquels, en rétrospective, avaient manifestement toujours été bien faits et bien tenus.
+[13] Compte tenu de ce qui précède, j’examinerai à présent chacune des questions en litige.
+Question no 1 : Quel est le montant approprié de la récupération de la déduction pour amortissement découlant de la vente de l’autocaravane en 2004?
+[14] Les appelants soutiennent maintenant qu’ils n’ont pas calculé de façon exacte le montant de la récupération découlant de la disposition de leur autocaravane en 2004. Le ministre a inclus dans le revenu d’entreprise net des appelants la somme totale de 35 929,90 $ au titre de récupération de la déduction pour amortissement. Bien que les appelants aient déclaré un produit de disposition de 32 210,00 $ et une perte finale correspondante de 8 878,59 $, il s’agissait d’une erreur puisque les sommes remboursées au titre du prêt n’étaient pas incluses dans le produit de disposition. Il n’est pas contesté que le remboursement du prêt de 44 808,49 $ devait être inclus dans le produit de disposition, mais les parties ne s’entendent pas sur le montant total de celui‑ci. Les appelants avancent que, comme un chèque de 10 000 $ sans lien avec la présente affaire a été déposé le même jour que le chèque relatif à la vente de l’autocaravane, le montant de la récupération utilisé par le ministre dans ses calculs, soit 35 929,90 $, doit donc être réduit de 10 000 $ et s’établir à 25 929,90 $.
+[15] Les appelants ont produit le chèque numéro 201 de 10 000 $ émis le 15 juillet 2004 à l’ordre de Normita Walker et tiré sur le compte que détient Shuswap Orthotics chez Westminster Savings Credit Union ainsi qu’un double du relevé bancaire pertinent délivré par l’institution bancaire montrant le retrait d’une somme de 10 000,00 $ le 15 juillet 2004 et faisant mention du chèque numéro 201. Les appelants ont en outre présenté un relevé bancaire délivré par TD Canada Trust à Normita Walker selon lequel un dépôt de 32 211,21 $ a été effectué le 15 juillet 2004 (tous ces documents figurent à la pièce A‑5). Ils font valoir que ces documents établissent l’existence d’un dépôt, distinct de celui du chèque de 10 000 $, effectué en même temps que le dépôt du produit tiré de la vente de l’autocaravane. Par conséquent, le produit après remboursement du prêt devrait s’élever à 22 211,21 $ pour les besoins de la récupération.
+[16] Selon l’intimée, il n’y a pas lieu de défalquer cette somme de 10 000 $ du montant de la récupération, parce que les appelants ont omis de produire l’original du contrat de vente de l’autocaravane, ce qui aurait permis de trancher la question de manière concluante. Les appelants ont également omis de produire l’envers du chèque de 10 000 $ pour établir que celui‑ci avait été déposé au compte de Normita Walker chez TD Canada Trust.
+[17] Le témoignage des appelants touchant l’amalgame des fonds est raisonnable à la lumière de la preuve documentaire qu’ils ont produite. Les deux appelants ont témoigné, et leurs explications ne comportaient aucune contradiction. De plus, selon le témoignage du vérificateur, Peter Dranchuk, les documents comptables faisaient bien état d’un dépôt de 10 000 $ effectué juste avant le dépôt de 22 211,21 $ et montraient que deux sommes moins élevées avaient été portées au grand livre général relativement au dépôt de 32 211,21 $. Fait plus important, je suis saisi du témoignage indépendant de Jewls Buttrey, l’actuelle aide‑comptable de Shuswap, qui a mentionné ce qui suit au sujet de ces chèques :
+[traduction]
+Q. Pourriez-vous – lorsque vous dites que vous avez vu ce dépôt, il y avait un chèque de 10 000 $ d’un compte – d’un compte de Normita Walker, exact?
+R. De l’un de leurs comptes, oui.
+Q. Il y avait un dépôt totalisant 32 210 $ fait dans un autre compte.
+R. Oui.
+Q. Vous pourriez – certains éléments montrent que ce chèque avait été déposé.
+R. Oui.
+Q. Vous n’avez jamais vu le chèque original?
+R. Il est revenu avec le relevé bancaire.
+Q. Avez-vous vu le chèque original?
+R. Oui.
+Q. Avec un – le chèque estampillé des deux côtés.
+R. Oui.
+Q. Avez-vous un double de ce document avec vous aujourd’hui?
+R. Non, je n’en ai pas.
+Q. Savez-vous qu’aucun double des deux côtés d’un chèque n’a jamais été fourni à l’Agence du revenu du Canada?
+R. Non, je ne le savais pas.
+Q. Avez-vous un quelconque document délivré par la banque destinataire, où le dépôt a eu lieu, de deux dépôts distincts?
+R. Excusez-moi, pouvez‑vous répéter cela?
+Q. Le relevé délivré par la banque où la somme de 32 000 $ a été déposée montrait‑il seulement un dépôt de 32 000 $ ce jour‑là?
+R. Oui, parce que c’était le cas – vous savez, vous faites vos dépôts, remettez vos chèques, et ils inscrivent uniquement la somme totale. Ils ne précisent pas les sommes distinctes. Et ce renseignement m’a été donné après que la déclaration de revenu eut été faite.
+(Transcription, page 222, ligne 3, à la page 223, ligne 12.)
+[18] Les témoignages de Jewls Buttrey et de Peter Dranchuk étayent tous deux les explications fournies par les appelants, et les dates figurant sur les relevés bancaires correspondent les unes aux autres. En conséquence, le montant de la récupération de la déduction pour amortissement doit être réduit du montant du chèque de 10 000 $, ce qui donne un montant de récupération total de 25 929,90 $ relativement à l’année d’imposition 2004.
+Question no 2 : La somme de 10 325,70 $, soit le montant du chèque de 4 500 livres sterling converti en devises canadiennes, doit‑elle être incluse dans le produit non déclaré des ventes en 2004?
+[19] Les appelants soutiennent que cette somme est un don de la mère de M. Walker, laquelle vit en Angleterre. Dans son témoignage, l’appelant a mentionné qu’il recevait de nombreux dons de ce genre de sa mère. Les appelants se sont appuyés sur la copie papier d’un relevé délivré par RBC Groupe Financier montrant un dépôt de 10 325,70 $ effectué le 6 décembre 2004. Cependant, en l’absence d’un double du chèque, il m’est impossible de vérifier l’origine de celui‑ci. Bien que j’eusse pu être enclin à retenir le témoignage de M. Walker si les appelants n’avaient pas fait affaires en Angleterre, je dois reconnaître le bien‑fondé de la thèse de l’intimée voulant qu’il soit tout aussi logique de penser que ce dépôt consiste en la somme totale des ventes de produits orthopédiques réalisées en Angleterre pendant une période donnée. Sans autres renseignements de la part des appelants, je ne puis accepter leur assertion relative au don de cette somme compte tenu de la très réelle possibilité que celle‑ci se rapporte à un cumul de ventes faites en Angleterre. J’espère que cela convaincra les appelants de la nécessité de tenir des documents comptables détaillés. Dans un régime d’autocotisation, ce sont eux qui, en définitive, assument cette responsabilité.
+Question no 3 : Dans quelles proportions la maison et l’atelier des appelants servaient‑ils à des fins commerciales, d’une part, et à des fins personnelles, de l’autre?
+[20] La répartition appropriée entre les dépenses d’entreprise et les dépenses personnelles quant à l’espace de travail au domicile et, par conséquent, des dépenses susceptibles d’être déduites, est fondée sur le rapport, en pieds carrés, entre l’espace réellement utilisé à des fins commerciales à l’intérieur de l’établissement domestique et le nombre total de pieds carrés utilisés à des fins personnelles.
+[21] Le paragraphe 18(12) de la Loi de l’impôt sur le revenu (la « Loi ») est ainsi rédigé :
+(12) Travail à domicile. Malgré les autres dispositions de la présente loi, dans le calcul du revenu d’un particulier tiré d’une entreprise pour une année d’imposition :
+a) un montant n’est déductible pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie d’établissement :
+(i) soit est son principal lieu d’affaires,
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+b) si une partie de l’établissement domestique autonome où le particulier réside est son principal lieu d’affaires ou lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise, le montant déductible pour cette partie d’établissement ne peut dépasser le revenu du particulier tiré de cette entreprise pour l’année, calculé compte non tenu de ce montant et des articles 34.1 et 34.2;
+c) tout montant qui, par le seul effet de l’alinéa b), n’est pas déductible pour une partie d’établissement domestique autonome dans le calcul du revenu d’entreprise du particulier pour l’année d’imposition précédente est déductible dans le calcul du revenu d’entreprise du particulier pour l’année, sous réserve des alinéas a) et b).
+[22] Il n’est pas contesté que les appelants ont le droit de déduire dans le calcul de leur revenu tiré d’une entreprise les dépenses se rapportant à l’utilisation commerciale du domicile. Le problème tient au fait que les appelants affirment qu’ils utilisent un total de 37,5 pour 100 de l’ensemble de leur établissement domestique à des fins commerciales tandis que l’intimée a réduit ce pourcentage total à 14 pour 100 (ou 7 pour 100 pour chaque appelant associé).
+[23] Les parties de l’établissement domestique qui servaient à des fins commerciales pendant les années en cause sont le garage ou atelier isolé de deux étages et le sous‑sol de la maison en bois rond. Le sous‑sol comportait une pièce logeant la fournaise, une buanderie, une chambre à coucher, une salle d’eau, un petit bureau et un espace ouvert où se trouvaient le bureau principal, une cuisine et une salle de séjour.
+[24] Le vérificateur s’est rendu sur place pour examiner les lieux, mais les appelants allèguent qu’il s’agissait d’un examen superficiel. Je ne suis pas saisi de photographies ni de diagrammes détaillés de ces espaces. Je ne dispose que des calculs des appelants. À l’étage du garage/atelier se trouvent un lit et une petite aire d’entreposage. Selon le témoignage de Clive Walker, la salle de séjour [traduction] « […] n’a été utilisée qu’une seule fois, et c’était l’année où mon épouse et moi nous sommes mariés […] » (transcription, page 31, lignes 21 à 22). À la lumière de la preuve, je dois rejeter l’assertion des appelants voulant que 50 pour 100 de l’étage ait servi à des activités ou à de l’entreposage dans le cadre de l’entreprise.
+[25] Les appelants ont également soutenu que 50 pour 100 du rez‑de‑chaussée du garage/atelier servait à des fins commerciales, et l’intimée a souscrit à ce pourcentage pour l’aire d’entreposage. Toutefois, le calcul du nombre de pieds carrés de ce rez‑de‑chaussée pose également problème. Selon les calculs des appelants, il s’agit d’un espace de 900 pieds carrés. Les appelants allèguent que 450 pieds carrés de cet espace seraient utilisés à des fins commerciales, principalement pour entreposer le matériel orthopédique et des outils. L’intimée estime que l’ensemble du garage/atelier a une superficie totale de 1 568 pieds carrés et elle a fait droit à 50 pour 100 de 784 pieds carrés (soit 1 568 divisé par deux pour le rez‑de‑chaussée) ou 337 pieds carrés. Comme je l’ai signalé plus haut dans les présents motifs, ce calcul est inexact et le résultat devrait plutôt être que 392 pieds carrés du rez‑de‑chaussée étaient utilisés à des fins commerciales selon les calculs de la superficie totale effectués par le ministre. Je retiens le calcul global du ministre en ce qui concerne le garage/atelier, sous réserve de la correction mathématique du calcul selon laquelle 392 pieds carrés, et non 337 pieds carrés, servent à des fins commerciales.
+[26] Quant au sous‑sol, on ne m’a pas présenté de plan d’étage montrant les dimensions précises de chaque pièce. Les appelants ont fait valoir que la superficie totale de l’ensemble du sous‑sol était de 953 pieds carrés et que 75 pour 100 de cet espace (ou 715 pieds carrés) servaient à des fins commerciales. Pendant le contre‑interrogatoire, M. Walker a affirmé que la buanderie était principalement utilisée à des fins personnelles. Le ministre a reconnu que le petit bureau de 150 pieds carrés, qui était utilisé par Mme Walker, servait entièrement à des fins commerciales.
+[27] La pièce logeant la fournaise, la chambre à coucher, la salle d’eau et l’espace ouvert sont toujours en litige. D’après les appelants, la pièce où se trouve la fournaise servait à 100 pour 100 à des fins commerciales parce qu’on n’y fabriquait les orthèses. Selon l’examen du vérificateur, aucun pourcentage n’a été accordé pour l’utilisation commerciale. Le vérificateur a toutefois accepté un espace de 50 pieds carrés à titre d’aire d’entreposage au sous‑sol, ce qui comprenait la pièce logeant la fournaise. Rien dans la preuve ne permet de penser que cette pièce servait principalement à autre chose qu’à chauffer l’ensemble du domicile. Comme Mme la juge Wood l’a mentionné dans la décision Hyska c. La Reine, 2009 CCI 71, au paragraphe 20 :
+[20] Je suis d’accord avec la façon dont le ministre a traité les frais de services publics. Cette façon de faire est compatible avec celle qui a été adoptée dans d’autres causes examinées par la Cour où il était question d’un garage servant de local de travail, et il est logique de traiter les dépenses communes à l’ensemble de la maison comme étant assujetties à la restriction contenue au paragraphe 18(12) de la Loi.
+Même s’il a affirmé qu’il utilisait cette pièce pour fabriquer les produits orthopédiques, M. Walker a ajouté que la [traduction] « partie polissage » du processus de fabrication était réalisée dans le garage/atelier isolé. Je ne suis saisi d’aucun élément de preuve établissant quelle partie précise de la pièce logeant la fournaise il soutient avoir utilisée ni, d’ailleurs, quelle était la superficie totale de cette pièce. Je ne sais pas à quelle fréquence il utilisait la pièce ni si elle servait souvent. Je dois donc accepter les calculs effectués par le ministre.
+[28] Je souscris en outre à la conclusion du ministre touchant la chambre à coucher située au sous‑sol. Selon le témoignage de Clive Walker, cette pièce servait aux personnes qui passaient la nuit chez lui lorsqu’il les formait en vue de leur confier une concession. Il ressort toutefois de la preuve qu’au cours des années en cause, seule une personne, tout au plus, est restée chez les appelants pour plusieurs jours pendant cette formation. Je ne crois donc pas que cette utilisation unique a pour effet de convertir l’espace en une chambre habituellement utilisée pour tirer un revenu.
+[29] Les appelants ont déclaré qu’ils recevaient environ 40 clients par année à leur domicile pour l’appareillage des orthèses, dont parfois des familles. Il est raisonnable que les entreprises puissent offrir des installations sanitaires à leurs clients. Je suis donc disposé à reconnaître que la salle d’eau faisait partie des éléments utilisés à des fins commerciales. Comme je ne connais pas les dimensions de cette pièce, je me servirai de celles, quelles qu’elles soient, que les appelants ont fournies dans le cadre du processus de vérification.
+[30] Le reste du sous‑sol, soit l’espace ouvert principal où se trouvaient le bureau, la cuisine et la salle de séjour, était, quant à moi et comme la preuve le donne à penser, destiné à un usage commercial. Le ministre a refusé la déduction relative à cet espace parce que la présence d’une cuisine et d’une salle de séjour équipée d’un canapé et d’un téléviseur dénotait une utilisation personnelle. Les appelants ont par ailleurs signalé que le téléviseur était en réalité utilisé pour des raisons de sécurité puisqu’il permettait de surveiller la grille d’entrée de l’établissement, où se présentaient les clients avant d’emprunter une longue voie d’accès menant à la maison. En outre, la preuve donne à penser que les orthèses des groupes plus importants, comme les familles, étaient appareillées dans cet espace ouvert. Il s’agissait également de l’endroit dont Clive Walker se servait comme bureau et où toutes les dispositions relatives aux foires commerciales internationales et aux déplacements étaient prises. Les appelants y conservaient aussi tous leurs documents commerciaux. De fait, leur aide‑comptable avait accès à leur domicile lorsqu’ils participaient à des foires commerciales, et elle a témoigné qu’elle s’y rendait plusieurs fois par semaine pour ouvrir le courrier et faire des dépôts. Selon le témoignage de Normita Walker, [traduction] « […] elle [l’aide‑comptable] fait tout le travail de bureau » (transcription, page 231, lignes 20 à 21) lorsque les appelants participent à ce genre de foires.
+[31] En résumé, les appelants utilisent 100 pour 100 de la salle d’eau et de l’espace ouvert principal à des fins commerciales (en plus de 100 pour 100 du petit bureau et des 50 pieds carrés d’entreposage, deux éléments acceptés par le ministre) et ils utilisent 50 pour 100 de la superficie du rez‑de‑chaussée du garage/atelier, ou 392 pieds carrés, à des fins commerciales.
+Question no 4 : Dans quelles proportions les véhicules servaient‑ils à des fins commerciales, d’une part, et à des fins personnelles, de l’autre?
+[32] Selon les cotisations établies par le ministre, les appelants utilisaient tous les véhicules à moteur à des fins personnelles dans une proportion globale de 20 pour 100. Il s’agit de quatre véhicules. Les appelants soutiennent que la fourgonnette Ford servait exclusivement à des fins personnelles et que les trois autres véhicules – une autocaravane, une caravane et un camion – servaient exclusivement à des fins commerciales. Le vérificateur a reconnu que ce pourcentage avait été fixé par suite de la mention de l’aide‑comptable voulant que les véhicules aient tous été utilisés dans une certaine mesure à des fins personnelles.
+[33] Le fait qu’aucun registre n’était tenu n’est pas nécessairement fatal pour la cause des appelants. Cependant, leur témoignage en contre‑interrogatoire ne permet pas d’étayer leur thèse relative à ces véhicules. Ils ont admis que le camion et la caravane n’avaient pas été utilisés exclusivement dans le cadre de l’entreprise. Ils s’en sont servi pour voyager en Arizona afin d’y passer une partie de l’hiver. Bien qu’ils aient poursuivi certaines activités commerciales dans cette région – la preuve fait d’ailleurs état de quelques ventes à cet endroit –, le voyage en Arizona avait principalement pour objet le plaisir. À mon avis, cela infirme leur allégation voulant que le camion et la caravane aient exclusivement servi à des fins commerciales et, en l’absence d’une quelconque documentation précisant l’utilisation exacte à de telles fins, je suis peu enclin à retenir leur témoignage selon lequel l’autocaravane était exclusivement utilisée dans le cadre de l’entreprise. En conséquence, il n’est pas justifié de modifier les conclusions du ministre touchant les proportions dans lesquelles ces véhicules servaient à des fins personnelles, d’une part, et à des fins commerciales, d’autre part.
+Question no 5 : Les dépenses suivantes sont-elles déductibles?
+a) Déplacements en avion à l’étranger
+[34] Les appelants font valoir que tous les frais de déplacement en avion au Royaume-Uni et en Afrique du Sud dont la déduction leur a été refusée se rapportaient à leur entreprise. Lorsqu’il a été contre‑interrogé sur le point de savoir si l’un ou l’autre de ses voyages en Angleterre visait expressément à rendre visite à sa mère, Clive Walker a reconnu qu’il visitait effectivement cette dernière, mais que le temps qu’il passait dans ce pays était principalement consacré à des activités commerciales. Les appelants ont produit des documents relatifs aux vols ainsi que des calendriers de 2003 et de 2004 précisant les dates des foires commerciales pertinentes. Selon les allégations formulées par l’intimée quant aux frais de déplacement, les appelants n’étaient pas certains lequel d’entre eux avait pris les vols et, en l’absence de correspondance entre les frais et les revenus gagnés, les frais de déplacement en avion doivent être intégralement refusés. La preuve étaye le fait que, même lorsqu’ils se trouvaient dans la région où vivait la mère de M. Walker, les appelants participaient à des foires commerciales se déroulant à cet endroit. Il n’est pas contesté qu’un revenu était gagné à ces endroits, et les arguments de l’intimée ne me permettent pas de rejeter la demande relative aux frais de déplacement. Comme les calendriers présentés par les appelants correspondent de façon générale aux reçus pour les vols délivrés par Air Canada et que les témoignages des appelants étaient compatibles, je suis disposé à m’appuyer sur ces calendriers pour justifier les frais de déplacement au Royaume‑Uni. Ces déplacements font partie de leur entreprise et, en ce qui concerne ces frais pour l’Angleterre et l’Écosse, les sommes suivantes seront autorisées : 1 087,85 $ pour Clive Walker au titre du déplacement effectué entre le 24 mai et le 28 juin 2003; 1 018,20 $ pour Clive Walker au titre du déplacement effectué entre le 20 août et le 1er septembre 2003; 2 310,58 $, ou 1 155,29 $ pour chacun des appelants, au titre du déplacement effectué entre le 4 octobre et le 29 octobre 2003; 864,88 $ pour Clive Walker au titre du déplacement effectué entre le 23 janvier et le 20 avril 2004; et 1 162,80 $ pour Normita Walker au titre du déplacement effectué entre le 15 février et le 31 mars 2004.
+[35] Je suis saisi d’autres éléments de preuve touchant le déplacement en avion de Normita Walker en Afrique du Sud en 2004 :
+a) copie papier d’un compte VISA faisant état de paiements de 2 586,33 $ et de 1 257,52 $ à Globespan Travel le 6 mai 2004;
+b) itinéraire pertinent fourni par Globespan Travel;
+c) calendriers des appelants montrant la participation au 2004 Royal Show en Afrique du Sud du 28 mai 2004 au 6 juin 2004;
+d) reçu du 1er juin 2004 délivré par la Royal Agricultural Society du Natal pour la location de matériel de présentation.
+L’itinéraire de Globespan Travel et les calendriers étayent le fait qu’après les foires commerciales tenues en Afrique du Sud, Normita Walker a aussi participé à des foires commerciales au Royaume-Uni avant de retourner à Vancouver. Le tronçon de vol final a coûté une somme supplémentaire de 295,54 $ pour le déplacement entre Vancouver et Kamloops. Les dates correspondent à celles des billets internationaux utilisés pour aller en Afrique du Sud. Je ne suis saisi d’aucun élément de preuve révélant pourquoi deux sommes figurent à la même date sur le relevé de carte de crédit relativement à Globespan Travel, mais je fais néanmoins droit à la plus élevée des deux sommes, soit 2 586,33 $, ainsi qu’à la somme de 295,54 $, pour un total de 2 881,87 $ au titre du déplacement en Afrique du Sud en 2004. Je refuse d’accorder les autres sommes dont il est fait état dans la pièce A‑8 parce que, selon moi, elles ne sont pas étayées.
+b) Frais de traversier à l’étranger
+[36] Je ne fais droit à aucune somme au titre des frais de traversier pour le déplacement entre Guernsey et Jersey parce que, contrairement au témoignage de Normita Walker voulant que ce déplacement ait été réservé en ligne et que le relevé de compte VISA montre un paiement effectué à « WEBSNCF » pour ces dépenses, les documents dont je suis saisi ne mentionnent qu’un seul débit de 12,11 $ en faveur de WEBSNCF. De plus, on ne m’a présenté aucun document permettant de justifier une déduction au titre de frais de traversier à destination de l’Irlande.
+c) Partie déductible du paiement visant l’autocaravane
+[37] Les appelants ont demandé une déduction de 1 568,64 $ en 2003 et de 3 790,88 $ en 2004 au titre du forfait visant une garantie prolongée et de l’assurance qu’ils étaient, selon ce qu’ils affirment, tenus d’acheter dans le cadre du financement de l’autocaravane. L’intimée a soutenu que ces sommes avaient peut‑être déjà été déduites au cours d’années antérieures. Je suis disposé à faire droit à ces sommes à la condition qu’elles n’aient pas été entièrement déduites avant les années frappées d’appel.
+d) Location de matériel en Afrique du Sud
+[38] L’intimée avance que cette somme a peut‑être déjà été accordée. Si ce n’est pas le cas, la preuve permet amplement d’autoriser une déduction de 208,34 $ (978,12 $ en rands d’Afrique du Sud) fondée sur le reçu délivré par la Royal Agricultural Society du Natal, lequel montre que cette somme visait la location de chaises légères et d’un bar blanc à l’occasion de cette foire commerciale en Afrique du Sud.
+Question no 6 : Était-il justifié d’imposer des pénalités pour faute lourde pour les deux années d’imposition 2003 et 2004?
+[39] Des pénalités pour faute lourde ont été imposées conformément au paragraphe 163(2) de la Loi relativement à des montants de revenu non déclaré pour chacune des années d’imposition en cause et à la réduction de 120 000 $, par les appelants, du revenu gagné en 2004. Les montants de revenu non déclaré en 2003 visent principalement des dépôts en devises étrangères, y compris une somme de 53 000 $US concernant leur compte détenu aux États‑Unis. Les montants de revenu non déclaré en 2004 visent un rajustement du revenu de 86 000 $, le défaut de récupérer comme il se doit une somme de 32 211,21 $ au titre de la vente de l’autocaravane et le défaut d’inclure dans le revenu un chèque de 10 325 $ émis en livres sterling.
+[40] Dans la décision Venne c. La Reine, [1984] A.C.F. no 314 (QL) (C.F. 1re inst.), 84 D.T.C. 6247, à la page 6256, la faute lourde est ainsi définie :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[41] La norme de preuve applicable en matière de faute lourde et le renvoi à la disposition prévoyant une sanction pénale ont été examinés par M. le juge Cattanach dans l’arrêt Udell v. M.N.R., [1970] Ex. C.R. 176. À la page 190, il s’est exprimé en ces termes au moment de se pencher sur le paragraphe 56(2), qui est maintenant le paragraphe 163(2) de la Loi :
+Il ne fait aucun doute que le paragraphe 56(2) est une disposition de nature pénale. Lorsque l’on interprète une telle disposition, il convient de tenir compte des observations sans faille de lord Esher dans l’affaire Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629 : lorsque le texte d’une disposition de nature pénale est susceptible à la fois d’une interprétation qui mènerait à l’imposition de la pénalité prévue, et d’une autre qui n’y mènerait pas, c’est cette dernière qui prévaut. Voici ce qu’il dit à la page 638 :
+Il faut interpréter cette disposition avec grand soin car elle mène à l’imposition d’une pénalité. S’il existe une interprétation raisonnable qui permettra d’éviter la pénalité dans une cause particulière, c’est celle-là qu’il faut retenir.
+[42] L’intimée a invoqué le critère énoncé dans l’arrêt Lacroix v. The Queen, 2009 D.T.C. 5029 (CAF), voulant que, pour l’essentiel, le critère applicable quant au paragraphe 163(2) soit le même que celui applicable quant au sous‑alinéa 152(4)c)(i) de la Loi. Cette conclusion est incompatible avec les décisions antérieures non seulement de la Cour, mais également de la Cour d’appel fédérale elle‑même. Dans la décision Dao v. The Queen, 2010 D.T.C. 1086, je critique l’arrêt Lacroix en ces termes au paragraphe 44 :
+[…] Aux paragraphes 30 à 32, ces deux dispositions sont essentiellement juxtaposées, et la même obligation est imposée au ministre à l’égard des deux dispositions. Or, cela aura pour effet de supprimer l’exigence concernant l’intention coupable et, par conséquent, d’établir des circonstances dans lesquelles des pénalités pourraient être imposées dans de nombreux appels rejetés. Lorsqu’un contribuable est accusé de s’être conduit d’une façon négligente et répréhensible, et que sa conduite est presque assimilable à un comportement criminel et peut donner lieu à l’imposition de pénalités pour faute lourde, le ministre est tenu, en vertu du paragraphe 163(2), de justifier sa décision; il ne suffit pas, comme l’enseigne l’arrêt Lacroix, de démontrer que le contribuable a un revenu non déclaré et qu’il n’a pu donner aucune explication crédible.
+[43] L’application de pénalités pour faute lourde est une question de fait et, pour décider s’il existe une telle faute, il importe de tenir compte de la définition énoncée dans la décision Venne, à savoir si la négligence correspond à une action délibérée ou à une indifférence au respect de la loi.
+[44] Les appelants ont affirmé que l’exclusion des sommes du revenu découlait d’une erreur de bonne foi. Après que leur aide‑comptable a établi leurs documents comptables pour les deux années en cause, ils ont mis en doute son travail car ils estimaient qu’elle avait mal calculé le revenu. Selon leur témoignage, ils pensaient que l’aide‑comptable avait, par erreur, inclus dans le produit des ventes des transferts de fonds effectués entre certains comptes, ce qui n’aurait pas dû être fait. Ils détenaient sept comptes bancaires, ce qui a vraisemblablement ajouté à la complexité de leurs documents comptables, en particulier lorsque des fonds étaient transférés d’un compte à l’autre. Ils ont, à deux occasions, calculé à nouveau leurs impôts et, en 2003, parce qu’ils ne convenaient pas des chiffres figurant dans le fichier de données « Simply Accounting » constitué par l’aide‑comptable, ils en ont fait abstraction et ont effectué leurs propres rajustements. Pour l’année 2004, ils ont soustrait des données du fichier Simply Accounting de l’année des sommes qui, selon eux, ne constituaient pas un revenu. Il semble que, lorsqu’ils ont mis en doute le travail de l’aide‑comptable et le système de données de Simply Accounting, ils ont incorrectement et par erreur superposé leurs propres calculs du revenu.
+[45] Le vérificateur a confirmé qu’aucune somme n’avait été mal qualifiée et que les dépôts effectués en 2003 au compte bancaire des appelants aux États‑Unis avaient été correctement consignés dans le fichier Simply Accounting. Quant à la somme de 86 971,67 $, les appelants soutiennent qu’elle a, à tort, été qualifiée de revenu en 2004. Selon la liste des éléments constituant cette somme, six d’entre eux ont été affectés au revenu, mais rien ne permet de penser que cette affectation était erronée. Les appelants ont en outre réduit le revenu d’une somme de 32 211,21 $ parce qu’ils croyaient que le produit de la vente de l’autocaravane avait déjà été inclus dans le revenu. Or, la somme avait été affectée non au revenu, mais plutôt à une autre catégorie. L’autre somme importante en litige relativement à 2004 s’élève à 10 325,70 $. Les appelants ont soutenu pendant toute l’instance qu’il s’agissait d’un don fait par la mère de Clive Walker. Ils n’ont toutefois pas été en mesure de produire un élément de preuve autre que leur témoignage de vive voix sur ce point.
+[46] Il semble que la plupart des hypothèses ayant trait au revenu faites par les appelants étaient inexactes et que la plus grande partie du revenu avait été correctement affectée par leur aide‑comptable et consignée dans les fichiers de Simply Accounting. Cela est étayé par le fait qu’en l’espèce, les appelants n’ont pas contesté la plupart des sommes qui, selon les cotisations, constituaient un revenu non déclaré et qu’ils ont uniquement mis en cause le montant de la récupération et celui du don fait par la mère. Initialement, toutefois, ils étaient convaincus que leurs propres chiffres étaient exacts et ils ont demandé des redressements pour 2003 et 2004. Ils ont procédé ainsi malgré l’avis de leur expert‑comptable qui les avait informés qu’ils risqueraient d’être l’objet d’une vérification. Il ne fait aucun doute que les appelants ont été négligents dans leur façon de procéder. Ils ont omis de tenir des documents et, même s’ils ont engagé une aide‑comptable, ils ont estimé que leurs connaissances en matière de tenue des dossiers étaient meilleures que les siennes. En rétrospective, je suis certain qu’ils reconnaissent maintenant leurs faiblesses et qu’ils auraient dû faire davantage confiance à l’aide‑comptable qui avait été engagée et payée pour remplir des fonctions précises.
+[47] Lorsque j’applique la définition de faute lourde donnée dans la décision Venne, j’arrive à la conclusion que des pénalités ne sont pas justifiées dans le cadre des présents appels. Les appelants croyaient honnêtement, quoiqu’à tort, que leur aide‑comptable avait incorrectement affecté les revenus. Cette croyance les a incités à faire des rajustements parce qu’ils pensaient que l’impôt exigible ne correspondait pas aux sommes calculées dans les documents de la société. Il ne s’agit pas d’une affaire où les appelants auraient simplement omis de déclarer un revenu. Ils tentaient de satisfaire à leurs obligations lorsqu’ils ont produit les rajustements. Ils n’ont pas tenu compte de la complexité et, dans de nombreux cas, de l’insuffisance des documents sur lesquels ils s’appuyaient. Cependant, contrairement à ce que laisse entendre le tribunal dans la décision Venne, il n’y a en l’espèce aucune indifférence au respect de la loi puisque les appelants ont plutôt tenté, bien qu’avec témérité, de corriger les sommes eux‑mêmes. Il n’y a pas d’acte à caractère délibéré et, dans ces circonstances, le ministre ne s’est pas acquitté de son obligation de justifier l’imposition de pénalités.
+Question no 7 : L’intimée a‑t‑elle droit aux dépens liés à l’ajournement de l’audition en mars 2010?
+[48] Initialement, les présents appels ont été fixés pour une audience d’une journée, qui a débuté le 2 mars 2010. Vers la fin de ce jour‑là, alors que seul l’interrogatoire principal de Clive Walker était terminé, on a soulevé la question de savoir si les pénalités pour faute lourde étaient en litige. Lorsqu’il est devenu évident que les appelants voulaient que je me prononce sur le bien‑fondé de ces pénalités, j’ai donné instructions à l’intimée de modifier sa réponse, puisque le fardeau de la preuve lui incombait à cet égard, et j’ai ajourné les appels pour que leur audition se poursuive pendant deux jours en novembre 2010. L’intimée a donc demandé, en application du paragraphe 10(2) des Règles de la Cour canadienne de l’impôt (procédure informelle), les dépens liés à cet ajournement au motif que les appelants avaient eu un an depuis la production de leurs avis d’appel, soit le 10 novembre 2008, pour veiller à ce que cette question soit soumise à la Cour. En outre, l’intimée avait écrit aux appelants six semaines avant la tenue de l’audience pour préciser les questions en litige (et les appelants n’ont pas répondu). Même si les appelants avaient modifié leurs actes de procédure ou répondu à la demande écrite, il est manifeste que l’ajournement de l’audience aurait de toute façon été nécessaire pour mener l’audience à terme. Comme l’intimée n’a subi aucun préjudice par suite de cette situation, je ne suis pas disposée à lui accorder les dépens qu’elle a demandés à cet égard.
+Résumé
+[49] Compte tenu de mes motifs, les appels sont accueillis sans dépens et les rajustements suivants doivent être apportés aux nouvelles cotisations relatives aux années d’imposition 2003 et 2004 des appelants :
+1. Réduire le revenu de société pour l’année d’imposition 2004 de 10 000 $ afin de prendre en considération l’amalgame du montant du chèque de cette somme, d’une part, et du produit tiré de la vente de l’autocaravane, d’autre part.
+2. Augmenter le pourcentage de l’utilisation à des fins commerciales de la résidence afin d’inclure la salle d’eau et l’ensemble de l’espace ouvert principal du sous‑sol tant en 2003 qu’en 2004 sur le fondement des dimensions fournies par les appelants dans le cadre de la vérification et corriger les calculs du ministre relatifs au rez‑de‑chaussée du garage/atelier pour les faire passer de 337 pieds carrés à 392 pieds carrés destinés à une utilisation commerciale.
+3. Faire droit aux sommes suivantes au titre des frais de déplacement en avion au Royaume-Uni et en Afrique du Sud, lesquels frais ont été engagés pour tirer un revenu :
+a) 1 087,85 $ et 1 018,20 $ pour Clive Walker; 1 155,29 $ pour chacun des appelants (frais engagés en totalité en 2003 relativement au Royaume‑Uni);
+b) 864,88 $ pour Clive Walker et 1 162,80 $ pour Normita Walker (frais engagés en totalité en 2004 relativement au déplacement au Royaume‑Uni);
+c) 2 881,87 $ pour Normita Walker pour le déplacement en avion en Afrique du Sud en 2004.
+4. Permettre la déduction des frais liés à la garantie prolongée et à l’assurance vie et invalidité en 2003 et en 2004 conformément aux principes comptables appropriés, à moins que le ministre ne juge, au moment d’un nouvel examen, que ces frais ont été déduits en totalité au cours d’années antérieures.
+5. Permettre à la société de déduire 208,34 $ au titre des locations relatives aux foires commerciales tenues en Afrique du Sud, dans la mesure où on n’y a pas antérieurement fait droit à l’étape de l’appel.
+6. Annuler les pénalités pour faute lourde tant pour 2003 que pour 2004.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 25e jour de février 2011.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2011 CCI 10
+NOS DES DOSSIERS DE LA COUR : 2009-134(IT)I
+2009-135(IT)I
+INTITULÉ : Clive Walker, Normita Walker et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Kelowna (Colombie-Britannique)
+DATES DE L’AUDIENCE : Le 2 mars 2010 et les 1er et 3 novembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 10 janvier 2011
+COMPARUTIONS :
+Représentant des appelants :
+Dewey Lotoski
+Avocate de l’intimée :
+Me Whitney Dunn
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

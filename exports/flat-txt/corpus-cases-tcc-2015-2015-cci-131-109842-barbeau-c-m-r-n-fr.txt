@@ -1,0 +1,457 @@
+Title: Barbeau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109842/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-131-109842-barbeau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2015-05-22
+
+# Barbeau c. M.R.N.
+
+- Citation: 2015 CCI 131
+- Decision date: 2015-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2826, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barbeau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-05-22
+Référence neutre
+2015 CCI 131
+Numéro de dossier
+2012-4560(EI), 2013-2811(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-4560(EI)
+ENTRE :
+DIANE BARBEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de
+Diane Barbeau (2013-2811(EI)),
+le 23 janvier 2015, à Ottawa, Canada.
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+Yves Grenier
+Avocate de l’intimé :
+Me Carole Plourde
+JUGEMENT
+L’appel est accueilli et la décision que le ministre du Revenu national a rendue le 2 août 2012 est annulée compte tenu du fait que Marc Martineau n’exerçait pas un emploi assurable au cours de la période du 3 septembre 2010 au 9 juillet 2011, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de mai 2015.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2013-2811(EI)
+ENTRE :
+DIANE BARBEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de
+Diane Barbeau (2012-4560(EI)),
+le 23 janvier 2015, à Ottawa, Canada.
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelante :
+Yves Grenier
+Avocate de l’intimé :
+Me Carole Plourde
+JUGEMENT
+L’appel est accueilli et la décision que le ministre du Revenu national a rendue le 10 septembre 2012 est annulée compte tenu du fait que Mélanie Hamel n’exerçait pas un emploi assurable au cours de la période du 1er septembre 2010 au 8 septembre 2011, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de mai 2015.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2015 CCI 131
+Date : 20150522
+Dossiers : 2012-4560(EI)
+2013-2811(EI)
+ENTRE :
+DIANE BARBEAU,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Aperçu [1] Deux appels connexes sont interjetés devant la Cour canadienne de l’impôt (la « CCI ») par Diane Barbeau (l’« appelante ») relativement à deux décisions rendues par le ministre du Revenu national (le « ministre ») en vertu de l’article 91 et du paragraphe 93(3) de la Loi sur l’assurance-emploi[1] (la « Loi »).
+[2] Lesdites décisions concernent l’assurabilité du travail effectué par les travailleurs Marc Martineau et Mélanie Hamel (collectivement « les travailleurs ») durant les années 2010 et 2011. Le ministre est d’avis que le travail effectué était assurable, alors que l’appelante prétend l’inverse.
+[3] Les appels ont été entendus sur preuve commune le 23 janvier dernier à Ottawa. Les parties ont par la suite déposé des observations écrites faisant état de leur position respective.
+II. Faits A. Le contexte factuel [4] L’appelante exploitait une entreprise individuelle de services d’entretien ménager sous la dénomination sociale Service d’entretien ménager de l’Outaouais (« SEMO »), et ce, depuis l’année 2002. Durant la période en litige, l’entreprise était en grande partie gérée par le conjoint de l’appelante, Yves Grenier. Elle comptait au moins une dizaine de travailleurs et une vingtaine de clients.
+[5] Avant de démarrer l’entreprise, l’appelante travaillait à titre de travailleuse autonome dans le domaine des services d’entretien ménager. Ses contrats étant devenus trop nombreux, elle a décidé de créer l’entreprise SEMO afin de pouvoir céder certains contrats à d’autres travailleurs, moyennant une commission.
+[6] Les travailleurs dont les services étaient retenus par SEMO n’avaient pas à trouver des clients. Cette tâche incombait uniquement à l’appelante. La preuve démontre que cette dernière attirait sa clientèle par le bouche à oreille et par son site Internet. Aucun contrat écrit n’a été signé entre SEMO et les clients auxquels les services d’entretien ont été rendus.
+[7] Lorsqu’un client demandait un service, l’appelante jumelait un travailleur avec ce client. Le travailleur pouvait accepter ou refuser le client qui lui était assigné. Dans le cas d’un refus, et dans la mesure du possible, l’appelante essayait de fournir un autre client au travailleur.
+[8] SEMO a conclu un contrat écrit avec chacun de ses travailleurs, y compris les deux dont il s’agit en l’espèce. Toutefois, selon le témoignage de M. Grenier, une grande partie des clauses qui s’y trouvaient n’étaient pas appliquées et ne représentaient pas les véritables relations entre les parties. Ce fait a été corroboré par plusieurs travailleurs qui ont témoigné lors de l’audience.
+[9] Avant la conclusion d’un contrat, l’appelante s’assurait des compétences des travailleurs. Pour ce faire, elle demandait aux nouveaux travailleurs de nettoyer, par exemple, une salle de bain. Selon M. Grenier, l’appelante n’indiquait pas aux travailleurs comment faire leur travail, mais il arrivait parfois qu’ils demandaient des conseils à l’appelante.
+[10] Au début, les travailleurs étaient payés directement par les clients, par chèque. Vers l’année 2008, cependant, SEMO a créé un système de paiement préautorisé par lequel l’entreprise percevait l’argent auprès des clients et le versait ensuite aux travailleurs en se servant d’un compte en fidéicommis. Ce système a été instauré à la demande des clients et des travailleurs afin de faciliter le paiement des services.
+[11] Pour s’assurer que le changement de mode de paiement n’affecterait pas le statut autonome des travailleurs, SEMO a consulté un comptable. Ce dernier a conseillé à SEMO de déposer tout montant perçu auprès des clients dans un compte en fidéicommis.
+[12] Avant que les travailleurs entreprennent le ménage, l’appelante visitait les lieux pour fournir une estimation du prix. Le client autorisait ensuite un paiement par virement bancaire, selon l’estimation fournie.
+[13] À moins qu’un travailleur ait passé plus de temps que prévu chez un client, le montant prélevé par SEMO correspondait à l’estimation originale. Par contre, les travailleurs pouvaient, le cas échéant, modifier les heures pour lesquelles ils devaient être payés sur le site Internet de SEMO. Aucune permission de SEMO n’était nécessaire pour ce faire.
+[14] SEMO prélevait les montants préautorisés et les plaçait dans le compte en fidéicommis le jour même où le service était fourni. Sauf exception, les travailleurs recevaient hebdomadairement les montants dus. Selon M. Grenier, les paiements étaient effectués une fois par semaine afin d’économiser sur les frais de virement bancaire.
+[15] SEMO se payait une commission sur les montants prélevés, à raison de 3 $ ou 4 $ l’heure[2], et remettait une facture aux travailleurs pour cette somme.
+[16] Tout au cours des périodes en cause, les travailleurs étaient mariés. Ils effectuaient des services d’entretien ménager pour SEMO à partir de septembre 2010 et jusqu’en juillet (dans le cas de M. Martineau) et en septembre (dans le cas de Mme Hamel) 2011[3].
+[17] Les travailleurs ont commencé leurs relations avec SEMO après avoir répondu à une annonce sur le site Internet d’Emploi Québec. Il y a eu une première rencontre, et ensuite, une deuxième rencontre chez l’appelante, où cette dernière a demandé aux travailleurs de nettoyer une pièce afin de confirmer leurs compétences.
+[18] Les travailleurs ont chacun signé un contrat avec SEMO. L’entente prévoyait notamment que les travailleurs pouvaient seulement offrir leurs services à SEMO, qu’ils devaient travailler un minimum de 30 heures par semaine, et qu’ils devaient suivre le code d’éthique de l’entreprise. Le contrat qualifiait les travailleurs de travailleurs autonomes. Dans le cas de M. Martineau, M. Grenier a affirmé qu’il lui avait demandé de signer un contrat dans l’unique but de ne pas se faire voler des clients.
+[19] Sauf exception, les travailleurs travaillaient ensemble. Selon Mme Hamel, ils fonctionnaient comme une « société de personnes ». M. Grenier a également vu les travailleurs de cette façon. Il a expliqué dans son témoignage que les contrats d’entretien ont été accordés uniquement à Mme Hamel et que cette dernière décidait si elle voulait effectuer le ménage seule, ou avec l’aide de son conjoint.
+[20] Les sommes versées par SEMO aux travailleurs étaient déposées dans le compte conjoint de ces derniers. Sur sa déclaration de revenus pour les années d’imposition 2010 et 2011, Mme Hamel a déclaré à titre de revenu d’entreprise la totalité des sommes reçues de SEMO et a réclamé la déduction d’une dépense pour la partie versée à M. Martineau.
+[21] SEMO a mis un terme à ses activités en septembre 2013. Les travailleurs qui fournissaient des services pour SEMO ont continué à servir les mêmes clients. La seule différence était la façon dont ils étaient rémunérés. En effet, les travailleurs étaient maintenant payés par chèque provenant directement du client, comme ce fut le cas avant que le système de paiement préautorisé ne soit mis en place.
+B. La décision du ministre [22] Suivant la cessation de leur travail, les travailleurs ont fait une demande de prestations d’assurance‑emploi auprès du ministère des Ressources humaines et du Développement des compétences du Canada (« RHDCC »). Avant d’y faire droit, le RHDCC a demandé au ministre de statuer sur l’assurabilité du travail effectué par les travailleurs pendant la durée de leurs contrats.
+[23] Après analyse, le ministre a conclu que les travailleurs n’étaient pas des employés, mais que leurs emplois étaient néanmoins assurables, et ce, en vertu de l’alinéa 5(1)d) de la Loi et de l’alinéa 6g) du Règlement sur l’assurance‑emploi[4] (le « Règlement ») :
+[2012-4560(EI)]
+À la suite de notre analyse, nous avons décidé que durant la période en litige, Marc Martineau n’était pas un employé. De plus, nous avons établi qu’en tant qu’agence de placement, vous l’avez placé et rémunéré pour fournir des services à vos clients, et ce, sous la direction et le contrôle de ces clients.
+Par conséquent, son emploi était assurable en vertu de l’alinéa 5(1)d) de la Loi sur l’assurance-emploi puisque les conditions de l’alinéa 6g) du Règlement sur l’assurance-emploi ont toutes été remplies.
+[2013-2811(EI)]
+À la suite de notre analyse, nous avons décidé que durant la période en litige, MÉLANIE HAMEL n’était pas une employée. De plus, nous avons établi qu’en tant qu’agence de placement, vous l’avez placée et rémunérée pour fournir des services à vos clients, et ce, sous la direction et le contrôle de ces clients.
+Par conséquent, son emploi était assurable en vertu de l’alinéa 5(1)d) de la Loi sur l’assurance-emploi puisque les conditions de l’alinéa 6g) du Règlement sur l’assurance-emploi ont toutes été remplies.
+[Mon soulignement.]
+[24] L’Agence du revenu du Canada (l’« ARC ») a ensuite établi un formulaire T4 uniquement au nom de Mme Hamel pour les années d’imposition 2010 et 2011.
+[25] L’appelante a fait appel de cette décision, mais en vain. Sur réexamen, la décision a été confirmée par le ministre :
+[2012-4560(EI)]
+À la suite d’un examen impartial de tous les renseignements relatifs à cet appel, il a été conclu que cet emploi était assurable. [Marc Martineau] a été appelé à exercer un emploi par Diane Barbeau en vue de fournir des services pour le compte et sous la direction et le contrôle du client de Diane Barbeau et ce travailleur a été rétribué par Diane Barbeau pour la prestation de ces services. Par conséquent, cet emploi était inclus dans les emplois assurables.
+[2013-2811(EI)]
+À la suite d’un examen impartial de tous les renseignements relatifs à cet appel, il a été conclu que cet emploi était assurable. Bien que [Mélanie Hamel] n’ait pas exercé un emploi aux termes du contrat de louage de services conclu avec vous, cette travailleuse a été appelée à exercer un emploi par vous en vue de fournir des services pour le compte et sous la direction et le contrôle de votre client, et cette travailleuse a été rétribuée par vous pour la prestation de ces services. Par conséquent, cet emploi était inclus dans les emplois assurables.
+[Mon soulignement.]
+[26] À la suite de ce revers, l’appelante a interjeté appel devant notre Cour.
+III. Questions [27] Les questions soulevées à l’audience, et qui font l’objet des présents motifs, sont les suivantes :
+1. L’alinéa 6g) du Règlement peut-il s’appliquer s’il est déterminé que les travailleurs étaient des travailleurs autonomes?
+2. Si la réponse est négative, le ministre peut-il avancer un argument subsidiaire qui n’était pas évoqué dans sa décision fondée sur le paragraphe 93(3) de la Loi? Si la réponse est affirmative, à qui incombe le fardeau de la preuve?
+3. Si le ministre peut présenter un tel argument, les travailleurs occupaient‑ils un emploi assurable auprès de l’appelante durant les périodes pertinentes, selon l’alinéa 5(1)a) de la Loi?
+IV. Application de l’alinéa 6g) aux travailleurs autonomes A. Les travailleurs autonomes sont‑ils visés par l’alinéa 6g) du Règlement? Droit applicable Le sens du mot « emploi » [28] L’alinéa 6g) du Règlement prévoit que le travail effectué par une personne qui offre des services par le biais d’une agence de placement est assurable lorsque la personne est payée par l’agence et fournit ses services sous le contrôle du client :
+6 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[...]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+[Mon soulignement.]
+[29] Dans les circonstances prévues à l’alinéa 6g), l’agence de placement est réputée être l’employeur du travailleur aux fins de la retenue et du versement des cotisations d’assurance-emploi, conformément à l’article 7 du Règlement sur la rémunération assurable et la perception des cotisations[5] :
+7 L’agence de placement qui procure un emploi assurable à une personne selon une convention portant qu’elle versera la rémunération de cette personne est réputée être l’employeur de celle-ci aux fins de la tenue des registres, du calcul de la rémunération assurable de la personne ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement.
+[30] L’alinéa 6g) du Règlement est une disposition promulguée en vertu des alinéas 5(1)d) et 5(4)c) de la Loi :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+[...]
+d) un emploi prévu par règlement pris en vertu des paragraphes (4) et (5);
+[…]
+(4) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements en vue d’inclure dans les emplois assurables :
+[...]
+c) l’emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d’un contrat de louage de services;
+[Mon soulignement.]
+[31] Les emplois assurables décrits au paragraphe 5(1) sont, de façon générale, des emplois qu’occupent des personnes liées par un contrat d’emploi. Le paragraphe 5(4), par contre, est une exception à cette règle. En effet, il élargit la portée du paragraphe 5(1) en étendant le régime de l’assurance‑emploi aux activités régies autrement que par « contrat de louage de services ». Conséquemment, les règlements pris en vertu du paragraphe 5(4) peuvent viser les activités exercées par des personnes autres que des employés, y compris le travailleur autonome.
+[32] La Cour d’appel fédérale (la « CAF ») a souscrit à ce point de vue dans la décision Sheridan c. Canada[6], dans laquelle la requérante a été déclarée responsable du versement des cotisations d’assurance-chômage en vertu de l’ancêtre de l’alinéa 6g) du Règlement (l’alinéa 12g)[7] du Règlement sur l’assurance-chômage).
+[33] Dans cette affaire, la requérante exploitait une agence de placement d’infirmières qui fournissait des services infirmiers à divers hôpitaux et cliniques de la région de Toronto. Les infirmières étaient sous le contrôle de l’hôpital où elles étaient placées, mais aucun contrat d’emploi ne liait les infirmières aux hôpitaux ou à l’agence de placement. Les infirmières étaient des travailleuses autonomes.
+[34] La requérante prétendait que l’alinéa 12g) du Règlement sur l’assurance‑chômage ne pouvait être appliqué dans les circonstances parce que sa disposition habilitante, soit l’alinéa 4(1)c)[8] de la Loi de 1971 sur l’assurance‑chômage (le prédécesseur de l’alinéa 5(4)c) de la Loi), ne visait pas les travailleurs autonomes.
+[35] Le juge Heald a rejeté cet argument, étant d’avis que l’alinéa 4(1)c) de la Loi de 1971 sur l’assurance‑chômage pouvait viser les travailleurs autonomes[9] :
+[…] L’alinéa 4(1)c) ne s'applique qu'aux personnes occupant des emplois autrement qu'en vertu d'un contrat de louage de services (y compris les travailleurs autonomes) dans les circonstances où elles accomplissent un travail dont la nature et les modalités sont semblables au travail des personnes occupant un emploi en vertu d'un contrat de service. […]
+[Mon soulignement.]
+[36] Ainsi, il a déterminé que l’alinéa 12g) s’appliquait à ce groupe de travailleurs.
+[37] Le juge Heald a notamment fondé sa conclusion sur les arrêts La Reine c. Scheer Ltd.[10] et Martin Service Station Ltd. c. M.R.N.[11] de la Cour suprême du Canada, dans lesquels il a été conclu que le mot « emploi » à l’alinéa 26(1)d)[12] de la Loi sur l’assurance-chômage (autre prédécesseur de l’alinéa 5(4)c) de la Loi) devait être interprété comme désignant « un commerce, un métier ou une occupation et non pas seulement un rapport de commettant à préposé »[13].
+[38] Depuis l’affaire Sheridan, il a été décidé que le terme « emploi » à l’article 6 du Règlement doit être interprété de façon à inclure un commerce, un métier ou une occupation, comme il est mentionné par le juge suppléant Weisman dans l’affaire Carver PA Corporation c. M.R.N.[14] :
+11 Il est bien établi en droit que le terme emploi tel qu’il est défini à l’alinéa 6g) du Règlement sur l’assurance‑emploi désigne un commerce, un métier ou une occupation et non pas seulement un rapport de commettant à préposé. Il importe peu que le travailleur en cause soit un employé ou un entrepreneur indépendant. Cette disposition du Règlement sur l’assurance‑emploi fait en sorte que les deux types d’emploi sont inclus dans les emplois assurables. […]
+[Mon soulignement.]
+B. L’appelante est‑elle tenue de verser des cotisations d’assurance‑emploi? Droit applicable [39] Pour que l’alinéa 6g) du Règlement trouve application, les critères suivants doivent être remplis : i) il doit y avoir une agence de placement; ii) une personne doit être appelée par cette agence à fournir des services à un client; iii) la personne doit être sous la direction et le contrôle du client; et iv) la personne doit être rémunérée par l’agence :
+6 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[...]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+[40] Ni la Loi ni le Règlement ne contiennent de définition d’« agence de placement ». Toutefois, le Règlement sur le Régime de pensions du Canada[15] en donne une au paragraphe 34(2) :
+34(1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+(2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[Mon soulignement.]
+[41] Étant donné la similitude entre le paragraphe 34(1) et l’alinéa 6g) du Règlement, certains juges de la CCI ont jugé bon d’appliquer la définition reproduite ci-dessus aux fins de l’alinéa 6g)[16] :
+15 Je préfère appliquer la définition du Règlement sur le Régime de pensions du Canada aux appels interjetés en vertu de la Loi parce que, dans les décisions précitées, il n’a pas été tenu compte de la définition du paragraphe 34(2) du Règlement sur le Régime de pensions du Canada. Cette disposition doit certainement s’appliquer aux affaires relevant de l’application du paragraphe 34(1) du Règlement sur le Régime de pensions du Canada. Dans ce cas, il faut donc appliquer la même définition aux instances introduites en vertu de la Loi, afin d’assurer la plus grande cohérence possible entre deux dispositions qui visent la même situation.
+[Mon soulignement.]
+[42] D’autres juges, cependant, ont opté pour une solution plus souple. En l’absence d’une définition, ils prétendent que l’expression « agence de placement » doit être lue dans son contexte, selon son sens ordinaire. Ainsi, une agence de placement, aux fins de l’alinéa 6g), doit être considérée comme « un organisme s’occupant de faire correspondre des demandes de travail à des demandes de travailleurs »[17].
+[43] Selon cette définition, il n’est pas nécessaire qu’une agence de placement ait un type particulier d’entente pour la rémunération, contrairement à ce qui est prévu au paragraphe 34(2) du Règlement sur le Régime de pensions du Canada[18] :
+14 […] Il a également soutenu que l'appelante se distinguait d'une agence de placement normale en raison de l'entente portant sur les honoraires. À mon avis, rien du libellé de l'alinéa 12g) ne lie la signification de l'expression « agence de placement » à la présence ou à l'absence de tout type particulier d'entente pour la rémunération versée par l'agence, comme l'a à un certain moment suggéré l'avocat de l'appelante.
+[44] Je fais remarquer que la CAF ne s’est pas prononcée définitivement, jusqu’ici, sur la définition à donner à l’expression « agence de placement » figurant à l’alinéa 6g) du Règlement.
+[45] Toutefois, dans l’affaire OLTCPI Inc. c. Canada[19], la CAF a accepté d’analyser le statut de l’appelante en fonction de la définition donnée au paragraphe 34(2) du Règlement sur le Régime de pensions du Canada, notamment parce que le juge de la CCI a procédé ainsi, et parce que l’appelante n’avait jamais contesté cette approche :
+27 S’agissant de la première question en litige, les dispositions du Règlement sur la RAPC et du Règlement sur le RPC qui sont pertinentes pour trancher les appels sont semblables, sans toutefois être identiques. D’abord, l’expression « agence de placement » est définie dans le Règlement sur le RPC (par. 34(2)) mais non dans le Règlement sur la RAPC. Le juge de la Cour de l’impôt a néanmoins appliqué cette définition également aux questions relatives à l’assurance‑emploi, une façon de procéder que l’appelante ne conteste pas.
+[Mon soulignement.]
+[46] Le juge Noël a déclaré que, pour déterminer si une personne est une agence de placement au sens du paragraphe 34(2), il faut se demander si la personne concernée ne fait que fournir du personnel, ou si elle le fait à l’occasion de la fourniture d’un service distinct[20] :
+30 En s’exprimant ainsi, le juge suppléant Porter s’attaquait à la difficulté que représente le fait de s’assurer que les dispositions relatives aux agences de placement ne s’appliquent pas à des personnes, comme les sous-traitants, qui fournissent des services qui obligent les travailleurs à se présenter chez leur client pour exécuter leurs fonctions, parfois sous la direction de ce client. La question qui se pose à cet égard est celle de savoir si la personne concernée ne fait que fournir du personnel ou si elle le fait à l’occasion de la fourniture d’un service distinct.
+[Mon soulignement.]
+[47] Le test formulé par le juge Noël est une reformulation des propos qu’a tenus le juge suppléant Porter de la CCI dans la décision Supreme Tractor Services Ltd. c. Canada[21], où ce dernier explique plus en détail la distinction entre la simple fourniture de personnel et la fourniture d’un service distinct :
+12 La première question est donc de savoir si le travailleur fournit des services pour l'entité A dans le cadre de l'entreprise de cette dernière - quoiqu'une partie de cette entreprise puisse être un contrat prévoyant que l'entité A doit fournir un service pour l'entité B - ou si l'entreprise même de l'entité A consiste simplement à trouver du personnel pour qu'il travaille pour l'entité B dans le cadre de l'entreprise de cette dernière, quelle qu'elle soit. Il s'agit simplement de savoir si l'entité A a l'obligation de fournir à l'entité B un service autre que la simple fourniture de personnel. A-t-elle une obligation autre que simplement faire en sorte que du personnel soit disponible? Dans l'affirmative, il est clair qu'elle exerce une activité pour son propre compte, comme un entrepreneur général sur un chantier de construction, et que le travailleur n'est pas couvert par le régime réglementaire de l'une ou l'autre loi. Dans la négative, toutefois, c'est-à-dire si elle n'est pas obligée de fournir un service autre que la fourniture de personnel, il est clair que le travailleur est visé par les régimes réglementaires adoptés en vertu des deux lois.
+13 Je considère qu'il s'agit surtout de savoir non pas qui est le bénéficiaire ultime du travail ou des services fournis, ce qui couvrirait toutes les situations de sous-traitance possibles, mais plutôt qui a l'obligation de fournir le service. Si la prétendue agence de placement a l'obligation d'assurer un service en plus de la fourniture de personnel, c'est une entité qui fournit ce service plutôt que de placer des gens et qui n'est pas visée par les Règlements.
+14 Pour faire une analogie, je renvoie à la décision rendue par la Cour d'appel fédérale dans l'affaire Vulcain Alarme Inc. c. Le ministre du Revenu national, C.A.F., no A-376-98, 11 mai 1999 ((1999) 294 N.R. 1), dans laquelle le même principe a été clairement énoncé relativement à la question de savoir si un sous-traitant devient un employé dans certaines situations. Le juge d'appel Létourneau a dit :
+Un entrepreneur par exemple qui travaille en sous-traitance sur un chantier ne dessert pas ses clients, mais ceux du payeur, i.e., l'entrepreneur général qui a retenu ses services. Le fait que M. Blouin ait dû se présenter chez la demanderesse une fois par mois pour prendre ses feuilles de service et ainsi connaître la liste des clients à servir et, conséquemment, le lieu d'exécution de la prestation de ses services n'en fait pas pour autant un employé. L'entrepreneur qui exécute des tâches pour une entreprise, tout comme l'employé dans un contrat de travail, doit connaître les lieux où ses services sont requis et leur fréquence. La priorité d'exécution des travaux requise d'un travailleur n'est pas l'apanage d'un contrat de travail. Les entrepreneurs ou sous-entrepreneurs sont aussi souvent sollicités par divers clients influents qui les forcent à établir des priorités quant à leur prestation de services ou à se conformer à celles qu'ils dictent.
+15 Ce n'est pas simplement parce que des sous-traitants ayant passé un contrat avec l'entité A sont tenus de se conformer aux exigences de l'entité B que cela fait que ces personnes sont placées sous la direction et le contrôle de l'entité B ou que cela fait de l'entité B un client de ces personnes.
+[Mon soulignement.]
+[48] Selon les principes établis par le juge suppléant Porter — et par extension la CAF —, pour que SEMO soit considérée comme une agence de placement, il faut non pas que les travailleurs aient fourni des services pour SEMO dans le cadre de l’entreprise de cette dernière, mais plutôt, que les travailleurs aient rendu des services en travaillant à leur propre compte et que l’appelante ait eu comme seule obligation le placement du personnel.
+[49] À mon avis, l’appelante répond à ces exigences.
+[50] La preuve démontre que le seul service fourni par l’appelante fut celui de trouver des contrats pour les travailleurs et de verser la rémunération payée par les clients en fidéicommis pour les travailleurs.
+[51] Le deuxième critère à l’alinéa 6g) n’est pas litigieux puisque les parties conviennent que les clients servis par les travailleurs étaient ceux de SEMO. Cette conclusion est également étayée par la preuve.
+[52] Dans ses observations écrites, le ministre, sans autre précision, affirme que les travailleurs étaient sous la direction et le contrôle des clients puisqu’il « ressort clairement de la preuve que les clients pouvaient dire aux [t]ravailleurs quoi faire même s’ils ne leur disaient pas nécessairement comment le faire »[22].
+[53] À mon avis, la preuve n’étaye pas cette conclusion.
+[54] Les travailleurs faisaient souvent le ménage chez les clients conjointement, mais les clients ne décidaient pas qui de M. Martineau ou de Mme Hamel devait faire quelle tâche ni comment elle devait être faite[23].
+[55] Les travailleurs ont chacun témoigné que les clients étaient rarement présents lorsqu’ils effectuaient leur travail[24]. Mme Hamel a précisé que les clients ne lui donnaient pas des ordres parce qu’ils lui faisaient confiance et parce qu’elle savait quoi faire[25].
+[56] Au cours des années 2010 et 2011, les travailleurs faisaient le ménage chez Geneviève Horlings, une cliente de SEMO. Mme Horlings n’était jamais présente lorsque les travailleurs venaient faire le ménage[26]. Devant la Cour, celle-ci a déclaré qu’elle avait rencontré Mme Hamel au début pour lui montrer sa maison, mais ne lui a pas expliqué comment faire son travail[27]. Selon Mme Horlings, elle n’avait pas à donner des directives puisque « c’est eux les professionnels »[28]. Mme Horlings savait que Mme Hamel travaillait avec M. Martineau, mais elle a reconnu n’avoir jamais rencontré ni parlé avec celui‑ci[29] .
+[57] La relation entre les travailleurs et Mme Horlings n’était pas unique. Selon les témoins entendus à l’audience, il y avait généralement une absence de contrôle exercé par les clients sur les travailleurs de SEMO.
+[58] Par exemple, Bryan Goulet, un travailleur, a témoigné qu’il n’avait jamais reçu d’un client des directives sur ses méthodes de travail[30]. Il a également dit qu’il pouvait refuser si des clients lui demandaient d’exécuter des tâches supplémentaires[31]. À mon avis, ce type de refus est une forte indication de l’absence de contrôle exercé par les clients sur les travailleurs.
+[59] Jean-Marc Aubry, un client, a témoigné qu’il ne disait pas aux travailleurs comment faire leur travail[32].
+[60] Dans ses observations écrites, le ministre évoque les commentaires du juge suppléant Weisman dans l’affaire Care Nursing Agency Ltd. c. M.R.N.[33] pour dire que, dans le cas de travailleurs hautement spécialisés, la direction et le contrôle peuvent s’établir lorsqu’un client explique à un travailleur quoi faire, mais sans lui dire comment.
+[61] Le ministre a raison de dire que le contrôle peut être exercé par un donneur d’ouvrage sur un travailleur spécialisé, malgré que ce contrôle soit moins serré que dans le cas d’un non-spécialiste. Le juge suppléant Weisman, cependant, n’a pas tranché la question de contrôle en se fondant sur ce seul motif. Au contraire, les faits de la cause ont démontré, par exemple, que les infirmières « avaient l’obligation de se conformer aux règles et consignes de sécurité de l’hôpital ». À mon avis, cette obligation est une forte indication de contrôle.
+[62] En l’espèce, rien n’indique qu’il y avait une situation semblable. Les clients avaient, bien entendu, un mot à dire sur les pièces de la maison qui devaient être nettoyées[34] et sur la qualité du travail à exécuter, mais cela ne devrait pas être interprété comme une indication de contrôle. Dans l’affaire Le Livreur Plus Inc. c. Canada[35], la CAF a clairement exprimé son approbation d’un tel point de vue :
+19 Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), 2002 F.C.A. 394, « rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur ».
+20 Je suis d'accord avec les prétentions de la demanderesse. Un sous‑entrepreneur n'est pas une personne libre de toute contrainte qui travaille à son gré, selon ses inclinations et sans la moindre préoccupation pour ses collègues co-contractants et les tiers. Ce n'est pas un dilettante à l'attitude cavalière, voire irrespectueuse, capricieuse ou irresponsable. Il oeuvre dans un cadre défini, mais il le fait avec autonomie et à l'extérieur de celui de l'entreprise de l'entrepreneur général. Le contrat de sous-traitance revêt souvent un caractère léonin dicté par les obligations de l'entrepreneur général : il est à prendre ou à laisser. Mais sa nature n'en est pas altérée pour autant. Et l'entrepreneur général ne perd pas son droit de regard sur le résultat et la qualité des travaux puisqu'il en assume la seule et entière responsabilité vis-à-vis ses clients.
+[Mon soulignement.]
+[63] Ainsi, à la lumière des faits présentés, je ne peux conclure que les travailleurs étaient sous la direction et le contrôle des clients qu’ils servaient.
+[64] Selon le ministre, le versement des paiements aux travailleurs par SEMO démontre que ces derniers étaient effectivement rémunérés par SEMO[36]. L’appelante insiste pour dire, cependant, que la rémunération versée aux travailleurs provenait des clients, et que SEMO n’agissait qu’à titre d’intermédiaire[37].
+[65] À mon avis, le ministre a raison sur ce point.
+[66] En interrogatoire principal, M. Grenier expliquait que, pendant les premières années de SEMO, les clients payaient les travailleurs directement par chèque ou en argent comptant[38].
+[67] Autour de l’année 2008, cependant, les clients et les travailleurs ont manifesté de l’intérêt pour la mise en place d’un système de paiement préautorisé[39]. Consciente qu’un tel arrangement pouvait avoir un impact sur le statut des travailleurs, l’appelante a consulté un comptable pour lui demander des conseils. Pour faire en sorte que les travailleurs ne soient pas considérés comme des employés, le comptable a conseillé l’ouverture d’un compte en fidéicommis pour le prélèvement des paiements sur les comptes bancaires des clients et leur versement aux travailleurs[40]. C’est de cette manière que SEMO fonctionnerait désormais.
+[68] Cette façon de faire a grandement plu aux travailleurs. La travailleuse Jocelyne Dinel, par exemple, a témoigné que le système de paiement préautorisé facilitait le recouvrement de ses revenus et lui évitait d’avoir à courir après les clients pour se faire payer, comme c’était le cas avant qu’elle se joigne à SEMO[41].
+[69] Les travailleurs inscrivaient leurs heures travaillées sur le site Internet de SEMO à la fin de chaque journée. SEMO prélevait sur les comptes bancaires des clients les sommes à payer et les déposaient dans le compte en fidéicommis. Ces sommes, moins la commission exigée par SEMO, étaient ensuite versées aux travailleurs, une fois par semaine, par virement bancaire dans leur compte conjoint[42]. Mme Hamel a reconnu que deux ou trois clients payaient par chèque, mais contrairement à ce qui se passait dans le cas de certains autres travailleurs[43], les chèques ne lui étaient pas remis directement[44].
+[70] En mettant en place le système de paiement préautorisé, M. Grenier voulait s’assurer que l’appelante préserve les caractéristiques de l’ancienne méthode de paiement par laquelle les clients rémunéraient les travailleurs[45].
+[71] À l’appui de son affirmation à ce sujet, il a signalé que SEMO faisait signer aux clients un document qui confirmait que les paiements acceptés par SEMO étaient pour les travailleurs et que SEMO n’agissait qu’à titre d’intermédiaire[46].
+[72] Toutefois, les acceptations de paiement ont été signées après que l’ARC eut commencé la vérification fiscale de l’entreprise de l’appelante en 2012. Les travailleurs ne fournissaient plus leurs services à SEMO à cette époque. La preuve présentée par l’appelante est une preuve intéressée, constituée après le fait. Par conséquent, j’estime qu’elle n’est pas probante.
+[73] La jurisprudence n’est pas plus favorable à l’appelante.
+[74] Dans l’affaire Sheridan, précitée, l’agence de placement recevait des hôpitaux la rémunération gagnée par les infirmières et versait à ces dernières cette rémunération, moins les honoraires de l’agence. Le procureur de la requérante dans cette affaire-là avait plaidé que l’agence agissait comme intermédiaire et donc ne rémunérait pas les infirmières. Le juge Heald a rejeté cet argument. Selon lui, un simple intermédiaire aurait versé la totalité de la rémunération, sans déduire des honoraires, et n’aurait pas fixé le montant de la rémunération[47] :
+Le seul autre argument du requérant sur lequel il faut se pencher porte que le paragraphe 12g) du Règlement ne s'applique pas en l'espèce car les infirmières placées par la requérante n'étaient pas "rémunérées" par l'agence comme l'exige le règlement. L'avocat a prétendu, à la lumière de ces faits, que la requérante ne faisait qu'acheminer la rémunération versée par les hôpitaux. Je ne suis pas d'accord avec cette opinion. Comme on l'a souligné plus tôt, la requérante recevait la totalité des gains réalisés par les infirmières dans les hôpitaux. Par la suite, elle remettait à chaque infirmière le montant exact gagné par chacune d'entre elles après avoir déduit de ce montant, dans la plupart des cas, ses honoraires de 10 %. Le Shorter Oxford Dictionary (3e édition) définit les termes "remunerate" et "remuneration" de la façon suivante :
+[TRADUCTION]
+1. Opération visant à rembourser, récompenser, payer de retour (des services etc.)
+2. récompenser (une personne); payer (une personne) pour des services rendus ou un travail accompli
+D'où rémunération, récompense, dédommagement, remboursement, paiement, salaire.
+Au volume 4 du Stroud's Judicial Dictionary (4th Ed.) on énonce entre autres que "rémunération" signifie contrepartie [À la page 2324 - cette définition s'appuierait sur le jugement du juge Blackburn dans R. v. Postmaster General, 1 Q.B.D. 663, à la page 664.].
+En me fondant sur les définitions susmentionnées et en donnant au verbe "rémunérer" son sens le plus courant, j'en viens à la conclusion que la présente requérante a "rémunéré" les infirmières. Elle n'était pas un simple intermédiaire. La requérante remettait aux infirmières le montant qu'elles avaient gagné pour leurs services, montant qui dépendait de leur échelle de traitement fixée non pas par les hôpitaux mais par elle-même. Cependant, dans 90 % des cas, ce ne fut pas le montant total des gains qui fut remboursé puisque la requérante déduisait 10 % de ce montant au titre de ses honoraires. Dans les autres cas, les 10 % qui restent, le plein montant gagné était remis à chacune des infirmières qui s'engageaient toutefois verbalement à verser à la requérante des honoraires de 10 %. Quoi qu'il en soit, on ne pouvait dire que la requérante était un simple intermédiaire, que ses honoraires de 10 % aient été déduits avant la remise ou qu'ils soient devenus pour elle une créance exigible auprès des infirmières en question. Si elle n'avait eu pour rôle que celui d'un simple intermédiaire, elle n'aurait fait que transmettre la rémunération dans son entier. J'estime également qu'un simple intermédiaire ne se serait pas occupé de fixer le montant de la rémunération. Je rejette donc cet argument de l'avocat de la requérante.
+[Mon soulignement.]
+[75] Ainsi, je dois conclure que l’appelante en l’espèce rémunérait les travailleurs au sens de l’alinéa 6g) du Règlement.
+[76] Étant donné qu’on n’a pas satisfait au troisième critère, l’alinéa 6g) du Règlement ne peut s’appliquer en l’espèce.
+V. L’argument subsidiaire du ministre [77] Le ministre soutient comme argument subsidiaire que l’emploi exercé par les travailleurs est assurable en vertu de l’alinéa 5(1)a) de la Loi. Cette disposition prévoit qu’un emploi est assurable lorsqu’il est exercé pour un employeur aux termes d’un contrat d’emploi exprès ou tacite, écrit ou verbal.
+[78] Les appels interjetés par l’appelante sont fondés sur une décision d’assurabilité rendue par le ministre. Ils ne sont pas fondés sur une évaluation. Ainsi, la question se pose de savoir si le ministre peut invoquer un argument subsidiaire dans le cadre des présents appels.
+A. Le ministre peut-il soulever un argument subsidiaire? [79] Lorsqu’une personne fait l’objet d’une décision du ministre quant à l’assurabilité de l’emploi qu’elle exerce, elle peut, si elle le désire, interjeter appel devant la CCI en vertu du paragraphe 103(1) de la Loi.
+[80] La CCI peut alors annuler, confirmer ou modifier cette décision, conformément au paragraphe 103(3) de la Loi :
+103(3) Sur appel interjeté en vertu du présent article, la Cour canadienne de l’impôt peut annuler, confirmer ou modifier la décision rendue au titre de l’article 91 ou 92 ou, s’il s’agit d’une décision rendue au titre de l’article 92, renvoyer l’affaire au ministre pour qu’il l’étudie de nouveau et rende une nouvelle décision; la Cour :
+a) notifie aux parties à l’appel sa décision par écrit;
+b) motive sa décision, mais elle ne le fait par écrit que si elle l’estime opportun.
+[Mon soulignement.]
+[81] L’article 104 de la Loi accorde un vaste pouvoir à la CCI pour trancher une cause. En effet, le paragraphe 104(1) prévoit que la Cour peut décider toute question de fait ou de droit qu’il est nécessaire de décider pour rendre une décision :
+104(1) La Cour canadienne de l’impôt et le ministre ont le pouvoir de décider toute question de fait ou de droit qu’il est nécessaire de décider pour rendre une décision au titre de l’article 91 ou 103 ou pour reconsidérer une évaluation qui doit l’être au titre de l’article 92, ainsi que de décider si une personne est ou peut être concernée par la décision ou l’évaluation.
+[Mon soulignement.]
+[82] À maintes reprises, la CAF a interprété les articles 103 et 104 de la Loi comme disant que non seulement la CCI peut, mais elle doit, examiner les arguments subsidiaires invoqués par le ministre pour défendre ses décisions en matière d’assurabilité.
+[83] Par exemple, dans l’affaire Canada c. Doucet[48], le ministre a rendu une décision selon laquelle l’emploi exercé par l’intimé Jacques Doucet était exclu en vertu de l’alinéa 14a) de l’ancien règlement, puisqu’il détenait plus de 40 % des actions avec droit de vote de la société pour laquelle il exerçait son emploi.
+[84] En première instance, le ministre avait modifié sa réponse à l’avis d’appel pour ajouter un argument subsidiaire. Dans l’éventualité où le juge aurait rejeté l’argument principal, le ministre a plaidé que l’emploi de l’intimé (l’appelant en première instance) ne pouvait être assurable en vertu de l’alinéa 3(1)a) de l’ancienne loi puisque l’intimé n’exerçait pas son emploi aux termes d’un contrat d’emploi.
+[85] Le juge de première instance a refusé d’examiner l’argument subsidiaire du ministre au motif que la décision transmise à l’intimé ne se fondait pas sur cet argument[49] :
+Il me reste à considérer si la décision de l’intimé [le ministre], nonobstant sa formulation, n'équivaut pas à dire à l'appelant que son emploi n'est pas assurable et qu'ainsi le ministre du Revenu national pourrait faire état de tout fait et de tout motif qui pourrait appuyer la non-assurabilité d'un emploi dans le contexte de la Loi sur l'assurance-chômage. Je ne le crois pas. […]
+[…]
+Comme dans le cas actuel, l'intimé dans le règlement de la question qu'il a communiqué à l'appelant, a indiqué qu'il s'agissait d'un emploi exclu il s'ensuit que le tribunal est restreint à déterminer la validité de cette décision. Comme l'énonce le paragraphe 70(2) de la Loi, la Cour peut infirmer, confirmer ou modifier le règlement de la question. Cette dernière expression "modifier le règlement de la question" n'autorise pas cette Cour à substituer à une décision qu'a effectivement prise le ministre du Revenu national une décision d'une tout autre nature qu'il aurait pu prendre mais qu'il n'a pas prise. […]
+[86] La CAF a cependant écarté cette décision. Selon le juge Marceau, c’est la détermination du ministre qui est mise en cause devant la Cour, plutôt que les motifs à l’appui de la détermination. Le juge de première instance aurait donc dû examiner l’argument subsidiaire soulevé par le ministre[50] :
+10 Je me permets d'ajouter, bien que ce ne soit pas nécessaire pour disposer de la demande, que le second motif de contestation soulevé par le requérant, motif qui lui en est un de droit, me paraît également bien fondé. Le requérant a raison de dire que le juge ne pouvait, à partir uniquement de la conclusion que l'emploi n'était pas exclu, affirmer immédiatement que l'emploi était assurable. Le ministre, dans ses procédures écrites, avait fait valoir que, de toute façon, exclu ou non, l'emploi sur la base duquel l'intimé prétendait à des prestations n'en était pas un qui correspondait à la définition de l'alinéa 3(1)a) de la Loi, bref qu'il ne s'agissait pas d'un emploi résultant d'un contrat de louage de services. Le juge ne pouvait pas refuser de considérer cette allégation au motif qu'elle n'avait pas été invoquée par le ministre dans sa réponse initiale à l'intimé lui faisant part que son emploi auprès d'Exolab Inc. n'était pas assurable. C'est la détermination du ministre qui était mise en cause devant le juge, et cette détermination était strictement à l'effet que l'emploi n'était pas assurable. Le juge avait le pouvoir et le devoir d'examiner toute question de fait ou de droit qu'il était nécessaire de décider pour se prononcer sur la validité de cette détermination. Ainsi le présuppose le paragraphe 70(2) de la Loi et le prévoit, dès après, le paragraphe 71(1) de la Loi qui le suit, et ainsi le veulent d'ailleurs les principes de révision judiciaire et d'appel qui exigent de ne pas confondre le dispositif d'une décision qui seul est directement remis en question et les motifs invoqués à son soutien.
+[Mon soulignement.]
+Le fardeau de la preuve [87] Selon la procureure du ministre, lorsqu’un argument subsidiaire est basé sur les mêmes faits que ceux qui ont servi de fondement à la décision du ministre, il n’y a pas lieu de renverser le fardeau de la preuve[51]. Elle soutient qu’un renversement peut seulement avoir lieu lorsque l’argument subsidiaire s’appuie sur des faits nouveaux.
+[88] Je ne partage pas l’avis de l’intimé sur cette question. Tel qu’il est mentionné plus haut, dans un premier temps Mme Lacoste, agente de décisions à l’ARC, a décidé que le travail des travailleurs était assurable en raison du fait qu’ils étaient des travailleurs autonomes mis au service des clients de l’appelante et que cette dernière agissait comme agence de placement. Mme Lacoste a conclu que les travailleurs étaient soumis à la direction et au contrôle des clients de l’appelante par suite d’une délégation du pouvoir de contrôle. Cette allégation de fait était essentielle pour que le ministre puisse conclure que les emplois des travailleurs étaient assurables en vertu de l’alinéa 6g) du Règlement.
+[89] La décision de Mme Lacoste fut confirmée par le ministre, qui conclut dans le même sens en répétant dans sa décision que les travailleurs étaient soumis à la direction et au contrôle des clients de l’appelante. Donc, la position subsidiaire de l’intimé repose en partie sur des faits qui contredisent ceux présumés par le ministre lorsqu’il a confirmé la décision de Mme Lacoste. Par conséquent, il s’avère que la réponse à l’avis d’appel est inexacte et incomplète lorsqu’il y est affirmé, au paragraphe 14 dans le dossier 2012-4560(EI) et au paragraphe 15 dans le dossier 2013-2811(EI), que le ministre a déterminé que les travailleurs occupaient un emploi assurable en s’appuyant sur les faits présumés énumérés aux paragraphes 14a) à r) dans le dossier 2012-4560(EI) et aux paragraphes 15a) à u) dans le dossier 2013-2811(EI).
+[90] En effet, me basant sur ma lecture des décisions mentionnées plus haut, je conclus que la réponse a omis de préciser que le ministre a présumé que les travailleurs étaient sous la direction et le contrôle de l’appelante plutôt que sous la direction et le contrôle des clients de l’appelante. Par conséquent, j’estime qu’il incombe à l’intimé d’établir, selon la prépondérance des probabilités, que les travailleurs étaient soumis à la direction et au contrôle de l’appelante.
+[91] Dans l’affaire Continental Bank Leasing Corporation c. Canada[52], l’appelante a formulé une objection à une modification proposée par l’intimée à la réponse à l’avis d’appel, modification qui visait à ajouter des présomptions de fait subsidiaires qui étaient manifestement en contradiction avec celles déjà plaidées dans la réponse. Le juge Bowman a autorisé la modification, mais il a précisé que le fardeau de la preuve incombe au ministre lorsque les nouveaux faits viennent contredire les faits présumés auparavant. Il s’est exprimé comme suit sur ce point :
+Il est vrai qu'il existe des contradictions entre les hypothèses qui ont été faites et les allégations formulées dans les paragraphes que le ministre désire maintenant ajouter. Si ces paragraphes avaient été inclus dans la réponse initiale, ces contradictions n'auraient pas justifié le retrait des paragraphes. L'intimée n'est pas liée par les hypothèses faites au moment de la cotisation. Elle a le droit, pour justifier la cotisation, d'alléguer de nouveaux faits ou des faits qui ne cadrent pas avec ceux présumés au moment de la cotisation, pourvu qu'elle soit en mesure d'en prouver la véracité. Une hypothèse, au sens où on l'entend maintenant dans les appels portant sur l'impôt sur le revenu, n'est pas un aveu irrévocable.
+[Mon soulignement.]
+[92] Dans l’affaire Schultz c. Canada[53], la CAF conclut dans le même sens que le juge Bowman, en s’exprimant comme suit :
+21 Selon moi, l'évolution de la jurisprudence en la matière n'empêche pas le ministre d'invoquer une défense subsidiaire devant la Cour canadienne de l'impôt. Il est vrai que dans sa plaidoirie, il est assujetti à certaines restrictions. Par exemple, il ne peut plaider une hypothèse subsidiaire qui aurait pour effet de modifier le fondement sur lequel reposait sa cotisation de sorte qu'il établirait une cotisation entièrement nouvelle. À mon avis, dans les affaires qui nous intéressent, le ministre n'a pas ainsi modifié le fondement de ses cotisations. Il a simplement tiré des conséquences juridiques différentes du même ensemble de faits en alléguant qu'à défaut de démontrer l'existence d'un rapport découlant d'un mandat, ces faits démontraient l'existence d'une entreprise conjointe ou d'une société de personnes. Même si on pouvait affirmer que le ministre a allégué de nouveaux "faits" faisant valoir sa thèse subsidiaire, le droit, tel qu'il a évolué, lui permet de le faire, mais lui impose le fardeau de la preuve de ces faits : Pillsbury, précité, à la page 5188, Continental Bank Leasing Corporation et autres c. La Reine, 93 DTC 298 (C.C.I.), à la page 302. La même opinion est exprimée implicitement dans Wise et autres c. La Reine, 86 DTC 6023 (C.F.A.) où le juge Pratte, J.C.A., déclare à la page 6024 :
+Il est établi que le Ministre avait, dans le présent cas, le fardeau d'établir l'exactitude des cotisations puisqu'il tentait de les étayer sur la foi de motifs qui différaient de ceux sur lesquels elle reposait.
+B. L’appelante est‑elle l’employeur des travailleurs? [93] L’alinéa 5(1)a) de la Loi prévoit qu’un emploi est assurable lorsqu’il est exercé pour un employeur aux termes d’un contrat de louage de services :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+[94] L’expression « contrat de louage de services » n’est pas définie dans la Loi. Ainsi, elle doit être analysée à la lumière du droit privé applicable, et ce, en vertu des articles 8.1 et 8.2 de la Loi d’interprétation[54] (Canada).
+[95] En l’espèce, le système de droit privé applicable est celui du Québec puisque les faits de la présente cause se sont déroulés dans cette province.
+[96] Les dispositions suivantes du Code civil du Québec[55] sont donc pertinentes :
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+Il peut être d'adhésion ou de gré à gré, synallagmatique ou unilatéral, à titre onéreux ou gratuit, commutatif ou aléatoire et à exécution instantanée ou successive; il peut aussi être de consommation.
+[…]
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+[…]
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[…]
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Mon soulignement.]
+[97] Malgré le fait qu’un travailleur et son donneur d’ouvrage signent un contrat pour encadrer, voire définir leur relation, le ministre n’est pas lié par les termes de ce contrat[56] :
+9 Le contrat sur lequel le ministre se fonde ou qu'une partie cherche à lui opposer est certes un fait juridique que le ministre ne peut ignorer même s'il ne produit pas d'effet à son égard (art. 1440 C.c.Q.; Baudouin et Jobin, Les Obligations, Éditions Yvon Blais 1998, 5e édition, p. 377). Cela n'empêche en rien le ministre, cependant, d'alléguer que dans les faits le contrat n'est pas tel qu'il parait être, qu'il n'a pas été exécuté selon ses termes ou qu'il ne reflète pas la véritable relation qui s'est établie entre les parties. Il est permis au ministre, et à la Cour canadienne de l'impôt après lui, de rechercher cette relation véritable, ainsi que le prévoient les articles 1425 et 1426 du Code civil du Québec, dans la nature du contrat, dans les circonstances dans lesquelles il a été conclu, dans l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que dans les usages. Et parmi ces circonstances dans lesquelles le contrat a été conclu se trouve l'intention légitime déclarée des parties, un facteur important retenu par cette Cour dans un bon nombre d'arrêts (voir Wolf c. Canada (C.A.), [2002] 4 C.F. 396, para. 119 et 122; A.G. Canada c. Les Productions Bibi et Zoé Inc., 2004 CAF 54; Le Livreur Plus Inc. c. M.R.N., 2004 CAF 68; Poulin c. Canada (M.R.N.), 2003 CAF 50; Tremblay c. Canada (M.R.N.), 2004 CAF 175.
+[98] Le rôle du juge de la CCI est d’examiner « si la véritable réalité contractuelle des parties en est une qui peut être qualifiée, en droit, de louage de services »[57].
+[99] Pour qu’il y ait contrat de louage de services, les trois éléments constitutifs d’un contrat de travail en droit québécois doivent être réunis, à savoir : i) une prestation de travail, ii) une rémunération et iii) un lien de subordination[58].
+[100] À l’inverse de la common law, la notion de contrôle (ou du lien de subordination) n’est pas qu’un simple critère. Elle est une caractéristique essentielle au contrat de travail[59] :
+37 On retrouve dans cet extrait la notion de contrôle sur l’exécution du travail aussi présente dans les critères de la common law, à cette différence que la notion de contrôle est, en vertu du droit civil québécois, plus qu’un simple critère comme en common law. Elle est une caractéristique essentielle du contrat de travail : voir D&J Driveway, précité, au paragraphe 16 de cette décision; et 9041-6868 Québec Inc. c. Canada (ministre du Revenu national), 2005 CAF 334.
+[101] Toutefois, pour déterminer s’il y a un lien de subordination, la Cour peut tenir compte des indices d’encadrement mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise[60] :
+43 En somme, il n’y a pas, à mon avis, d’antinomie entre les principes du droit civil québécois et les soi‑disant critères de common law utilisés pour qualifier la nature juridique de la relation de travail entre deux parties. Dans la recherche d’un lien de subordination juridique, c’est-à-dire de ce contrôle du travail, exigé par le droit civil du Québec pour l’existence d’un contrat de travail, aucune erreur ne résulte du fait que le tribunal prenne en compte, comme indices d’encadrement, les autres critères mis de l’avant par la common law, soit la propriété des outils, l’expectative de profits et les risques de pertes, ainsi que l’intégration dans l’entreprise.
+[Mon soulignement.]
+[102] Ces critères ont été élaborés dans l’arrêt Wiebe Door Services Ltd. c. M.R.N.[61], où le juge MacGuigan précise que toute analyse portant sur le lien relationnel entre un travailleur et son donneur d’ouvrage doit faire l’objet d’un seul test composé, en partie, des quatre éléments susmentionnés[62].
+[103] Les critères issus de la common law ne s’arrêtent pas toutefois à ces éléments. En effet, dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[63], la Cour suprême du Canada précise qu’il pourrait exister d’autres critères d’analyse au-delà de ceux énoncés par la CAF dans l’arrêt Wiebe Door :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[Mon soulignement.]
+[104] Avant d’entrer dans l’analyse, je me permets deux remarques quant à la proximité du lien de subordination requis en l’espèce.
+[105] Premièrement, il est généralement reconnu qu’un travailleur spécialisé bénéficie d’une plus large autonomie dans l’exercice de ses tâches, en comparaison avec un travailleur non spécialiste :
+En raison de la diversification et de la spécialisation des techniques de travail, il semble irréaliste que l’employeur dirige et surveille toujours un employé. Le lien de subordination est désormais beaucoup plus subtil : c’est la faculté de l’employeur de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler.
+Le pouvoir de congédier, le contrôle exercé sur le travail exécuté et le degré de supervision sont des éléments qui permettent de définir une relation d’emploi. Évidemment, le degré de subordination d’un employé dans le cadre d’un travail étroitement supervisé diffère considérablement de celui du professionnel ou de l’employé spécialisé qui bénéficie d’une plus large discrétion ou autonomie professionnelle.
+La Cour canadienne de l’impôt a jugé qu’un requérant n’était pas un salarié et, donc, n’exerçait pas un emploi assurable au sens de la Loi de 1971 sur l’assurance-chômage. La Cour d’appel fédérale a accueilli l’appel, dans Gallant c. M.R.N., et, sous la plume du juge Pratte, écrit :
+Quant au premier motif, il nous semble basé sur l’idée fausse qu’il ne peut y avoir de contrat de louage de services à moins que l’employeur n’exerce en fait un contrôle étroit sur la façon dont l’employé exécute son travail. Ce qui est la marque du louage de services, ce n’est pas le contrôle que l’employeur exerce effectivement sur son employé, c’est plutôt le pouvoir que possède l’employeur de contrôler la façon dont l’employé exécute ses fonctions. Si on envisage les circonstances de cette affaire à la lumière de ce critère, il est manifeste que le requérant était un employé plutôt qu’un entrepreneur[64].
+[Mon soulignement.]
+[106] En l’espèce, la preuve révèle que les travailleurs ont chacun œuvré pour une durée considérable dans le domaine de l’entretien ménager avant de se joindre à SEMO[65] :
+M. Martineau
+Q : Quel genre d’emploi faisiez-vous avant de rencontrer Madame Barbeau, avant 2010?
+R : J’ai fait de l’entretien ménager.
+Q : Vous faisiez de l’entretien ménager. Quel était votre expérience dans le domaine du ménage?
+R : Du ménage, j’en avais beaucoup. J’ai fait de l’entretien ménager résidentiel. J’ai fait du commercial. J’ai fait dans les écoles secondaires, polyvalentes.
+Mme Hamel
+Q : Quel genre d’emploi faisiez-vous avant de rencontrer Madame Barbeau?
+R : Moi j’ai fait un peu d’entretien ménager. J’en ai fait quand même longtemps, puis j’ai fait des petits emplois ici et là parce que j’étais pas mal longtemps à la maison avec mes cinq enfants.
+Q : Quelle était votre expérience dans le domaine du ménage résidentiel et commercial?
+R : J’en avais fait pour moi-même et j’en avais fait à des compagnies. J’avais pas mal d’expérience là-dedans.
+[107] Ainsi, une certaine liberté chez les travailleurs dans leur méthode de travail ne devrait pas nécessairement faire pencher la balance du côté d’un statut de travailleur autonome, quoique le service d’entretien ménager ne nécessite pas un niveau élevé de compétence. Donc, bien que les travailleurs aient exercé un métier qui n’était pas aussi spécialisé que d’autres peuvent l’être, je dois tout de même tenir compte dans une certaine mesure de la liberté quant à la façon d’accomplir leur travail.
+[108] Le contrat signé entre l’appelante et les travailleurs est peu utile pour déterminer le statut de ces derniers. L’entente était un contrat type qui ne reflétait pas bien la réalité entre les parties.
+[109] Bien que l’entente prévoie que les travailleurs sont des travailleurs autonomes et que les vacances et les jours fériés qu’ils prennent sont à leurs frais, elle contient, malgré tout, des stipulations qu’on retrouverait normalement dans un contrat d’emploi.
+[110] Par exemple, il est prévu que « [l]e spécialiste doit obtenir l’autorisation préalable de SEMO avant de modifier son horaire » et que « [l]e spécialiste s’engage à ne pas offrir de service d’entretien ménager ou d’aide à domicile hors de cette entente ». Ces clauses sont manifestement l’antithèse du contrat d’entreprise.
+[111] Mis à part la contradiction qui y est inhérente, l’entente ne reflétait pas la relation factuelle des parties. Par exemple, le contrat prévoit que « SEMO s’engage à créditer le compte du spécialiste pour un montant de 50 $ par mois dans le but de couvrir une partie des frais d’assurances, de produits et d’équipements encourus par le spécialiste pour faire ses contrats ». La preuve démontre, cependant, qu’aucun remboursement n’a eu lieu.
+[112] Pour établir que les parties n’avaient aucune intention commune quant au statut des travailleurs, le ministre cite un passage tiré de l’arrêt Wolf c. Canada[66], qui dit que les termes d’un contrat écrit ne se voient « accorder du poids que s’ils reflètent exactement la relation entre les parties ». Je souscris à cet énoncé.
+[113] Toutefois, lorsque le ministre tente d’établir un lien de subordination, il n’hésite pas à invoquer les dispositions de l’entente pour appuyer sa thèse. L’approche du ministre me laisse perplexe.
+[114] Comme il est mentionné ci-dessus, la Cour n’est pas liée par les termes du contrat. Lorsque ces termes ne reflètent pas la véritable relation entre les parties, il appartient à la Cour de rechercher cette véritable intention en tenant compte notamment du contexte factuel[67].
+(1) Intention [115] La preuve démontre que les parties n’avaient pas une intention commune quant au statut fiscal des travailleurs.
+[116] M. Grenier a indiqué qu’il voulait que les travailleurs soient des travailleurs autonomes. Malgré les clauses contractuelles contradictoires dont j’ai fait mention auparavant, le contrat, qui était rédigé par SEMO, indiquait que les « spécialistes » étaient des travailleurs autonomes. D’ailleurs, SEMO faisait payer aux clients la TPS et la TVQ pour les travailleurs inscrits, mais pas pour les autres[68].
+[117] M. Martineau a cependant témoigné que, au moment de la signature du contrat, il avait l’intention d’être employé[69]. Cela me paraît curieux puisqu’il a indiqué que son intention était conforme aux termes du contrat. Or, le contrat ne prévoyait aucunement que M. Martineau devait être considéré comme un employé.
+[118] Quant à Mme Hamel, elle a dit qu’elle n’avait pas d’intention spécifique à la date de la conclusion du contrat, malgré qu’elle ait su que SEMO cherchait des travailleurs autonomes[70]. Sa priorité, à cette époque, était de trouver un emploi. Qu’elle soit employée ou travailleuse autonome, cela ne pesait pas dans la balance[71]. Elle a néanmoins reconnu avoir eu besoin d’une police d’assurance‑responsabilité parce qu’elle était travailleuse autonome[72]. De surcroît, elle a dit qu’elle n’a pas fait de demande de prestations d’assurance‑emploi après la fin de son association avec SEMO parce qu’elle était travailleuse autonome. Une telle demande fut seulement déposée à la demande de l’organisme responsable de l’aide sociale au Québec[73].
+(2) Direction et contrôle [119] Tel qu’il est mentionné plus haut, il incombe à l’intimé de démontrer que les travailleurs furent soumis à la direction et au contrôle de l’appelante, et ce, en raison du renversement du fardeau de la preuve sur cette question de fait. Pour les raisons qui suivent, je suis d’avis que l’intimé n’a pas réussi à prouver ce fait selon la prépondérance des probabilités.
+[120] D’une part, M. Grenier et les travailleurs s’entendent pour dire que ces derniers pouvaient refuser des clients, et ce, sans aucune sanction[74]. D’autres travailleurs ont également témoigné en disant qu’il en était ainsi[75].
+[121] Nonobstant ce qui était prévu dans l’entente, les travailleurs pouvaient rendre leurs services à n’importe qui; ils n’étaient pas liés exclusivement à SEMO[76].
+[122] Dans les faits, il s’avère que les travailleurs ont travaillé uniquement pour les clients de SEMO[77]. Ce constat ne milite pas contre le statut de travailleur autonome puisque, d’une part, les travailleurs travaillaient à « temps plein » pour les clients qui leur étaient fournis et donc n’avaient probablement pas besoin de solliciter leurs propres clients. D’autre part, M. Martineau a reconnu qu’il aurait pu offrir ses services à ses propres clients. Ce qui importe, à mon avis, c’est que les travailleurs ont conservé leur faculté de contracter avec d’autres clients comme bon leur semblait.
+[123] Bien que l’appelante ait négocié directement avec les clients le nombre d’heures que les travailleurs devaient travailler[78], Mme Hamel a reconnu qu’elle était libre de modifier, sans donner de préavis à l’appelante, les heures facturées aux clients, et ce, pour tenir compte du temps qu’elle a réellement passé chez les clients[79]. Le chiffre établi par l’appelante était donc approximatif. Les travailleurs n’étaient pas liés par celui‑ci.
+[124] Mme Hamel a témoigné que ce n’était pas l’appelante qui établissait son horaire, mais plutôt elle[80].
+[125] Finalement, à mon avis, le fait que SEMO ait mis fin au contrat de M. Martineau[81] n’est pas déterminant quant au statut des travailleurs. En effet, un donneur d’ouvrage peut mettre fin au contrat d’un travailleur autonome autant qu’un employeur peut licencier son employé. Alors, la résiliation d’un contrat n’est pas concluante en soi.
+(3) Chances de profit et risques de perte [126] La preuve présentée au procès démontre que le critère chances de profit et risques de perte fait pencher la balance légèrement en faveur du statut de travailleur autonome.
+[127] Lorsqu’un client voulait changer le travailleur qui lui avait été assigné, ce travailleur se voyait généralement accorder un autre client[82]. Ainsi, il ne perdait pas la possibilité de gagner des revenus.
+[128] Mme Hamel a témoigné que ses paies variaient d’une semaine à l’autre, puisqu’elle avait parfois moins de clients à servir ou qu’elle décidait, de son propre chef, de ne pas travailler[83].
+[129] Mme Hamel a souscrit une police d’assurance‑responsabilité[84], mais un défaut de paiement a entraîné l’annulation de la police[85]. M. Martineau n’a jamais contracté d’assurance-responsabilité[86].
+[130] Mme Hamel a désigné M. Martineau comme son employé. C’est elle qui a reçu un T4 du ministre pour le plein montant payé par l’appelante.
+(4) Outils et équipement [131] Le facteur outils et équipement milite en faveur du statut de travailleur autonome.
+[132] M. Grenier et les travailleurs ont chacun témoigné que SEMO ne fournissait pas d’équipement aux travailleurs[87].
+[133] Mme Hamel s’est rappelé avoir reçu une fois le versement pour couvrir une partie de ses frais, mais a dit n’avoir plus jamais reçu cette allocation par la suite[88]. M. Martineau a témoigné qu’il utilisait les produits nettoyants des clients, mais que, si ces derniers n’en avaient pas, il en achetait lui-même[89]. Selon lui, SEMO ne lui a jamais payé la somme de 50 $ par mois en remboursement de ses frais[90].
+[134] Bien que M. Grenier et les travailleurs aient reconnu que SEMO a prêté un aspirateur aux travailleurs lorsque le leur ne fonctionnait pas[91], Mme Hamel a confirmé que cette situation ne s’est produite qu’une seule fois[92]. M. Grenier a affirmé que SEMO a accepté de prêter son aspirateur pour aider temporairement les travailleurs. Il a toutefois signalé que, si SEMO fournissait de l’équipement, c’était généralement par voie de location moyennant paiement d’un loyer[93].
+VI. Appréciation globale [135] À mon avis, une analyse de la relation factuelle entre l’appelante et les travailleurs démontre que ces derniers exerçaient leur travail en vertu d’un contrat d’entreprise.
+[136] Les indices d’encadrement examinés ci‑dessus sont peu probants et ils sont contradictoires.
+[137] Ainsi, c’est l’application du critère de contrôle qui permettra de trancher le débat. Le fardeau de la preuve incombait au ministre à cet égard, et comme le ministre n’a pas réussi à établir que les travailleurs furent sous la direction et le contrôle de l’appelante, je dois accueillir les appels.
+VII. Conclusion [138] Pour toutes ces raisons, je suis d’avis que les emplois qu’exerçaient les travailleurs n’étaient pas assurables.
+Signé à Ottawa, Canada, ce 22e jour de mai 2015.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE :
+2015 CCI 131
+Nos DES DOSSIERS DE LA COUR :
+2012-4560(EI), 2013-2811(EI)
+INTITULÉ DE LA CAUSE :
+DIANE BARBEAU c. M.R.N.
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 23 janvier 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 22 mai 2015
+COMPARUTIONS :
+Représentant de l’appelante :
+Yves Grenier
+Avocate de l’intimé :
+Me Carole Plourde
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour l’appelante :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.C. 1996, ch. 23.
+[2] Transcription, pages 20 et 21.
+[3] Transcription, page 188.
+[4] DORS/96-332.
+[5] DORS/97-33. Selon le paragraphe 82(1) de la Loi, « [l]’employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution […] un montant déterminé […] et de le verser au receveur général avec la cotisation patronale correspondante payable […] ».
+[6] [1985] A.C.F. no 230 (QL), juges Heald, Urie et Stone.
+[7] « 12 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus en vertu du paragraphe 3(2) de la Loi ou d’une disposition du présent règlement, les emplois suivants : […] g) l’emploi exercé par une personne appelée par une agence de placement à dispenser des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rémunérée par l’agence. »
+[8] « 4(1) La Commission peut, avec l’approbation du gouverneur en conseil, établir des règlements en vue d’inclure dans les emplois assurables […] c) tout emploi qui n’est pas un emploi aux termes d’un contrat de louage de services, s’il paraît évident à la Commission que les modalités des services rendus et la nature du travail exécuté par les personnes exerçant cet emploi sont analogues aux modalités des services rendus et à la nature du travail exécuté par les personnes exerçant un emploi aux termes d’un contrat de louage de services. »
+[9] Sheridan, précitée (note 6).
+[10] [1974] R.C.S. 1046.
+[11] [1977] 2 R.C.S. 996.
+[12] « 26(1) Avec l’approbation du gouverneur en conseil, la Commission peut édicter des règlements en vue d’inclure dans l’emploi assurable […] d) tout emploi, s’il apparaît à la Commission que la nature du travail accompli par des personnes s’adonnant à cet emploi est semblable à la nature du travail accompli par des personnes s’adonnant à un emploi assurable. »
+[13] Sheridan, précitée (note 6).
+[14] 2013 CCI 125.
+[15] C.R.C., ch. 385.
+[16] Carver PA Corporation, précitée (note 14). Voir aussi OLTCPI Inc. c. M.R.N., 2008 CCI 470, juge suppléant Weisman, et Pro-Pharma Contract Selling Services Inc. c. M.R.N., 2012 CCI 60, juge suppléant Weisman.
+[17] Computer Action Inc. c. Canada, [1990] A.C.I. no 101 (QL), au paragraphe 14, juge Bonner.
+[18] Ibid. Dans l’affaire Computer Action, la durée de l’affectation était négociée entre le consultant et le client. Le taux horaire payé au consultant était fixé par négociation entre l’appelante et le client. Le taux imposé par l’appelante au client, qui était plus élevé, était négocié entre ces derniers. À la fin de chaque semaine, pendant une affectation, le consultant remplissait et signait une fiche de présence en quatre exemplaires, dressant la liste des heures travaillées chaque jour, et il la faisait signer par le représentant approprié du client. Deux exemplaires du formulaire rempli étaient fournis à l’appelante, un exemplaire était remis au client et le dernier était conservé par le consultant. Au cours de la deuxième semaine de chaque mois, les consultants étaient payés par l’appelante pour les services fournis pendant le mois précédent. L’appelante envoyait une facture à ses clients chaque mois et devait souvent payer ses consultants pour leur travail avant de recevoir le paiement du client.
+[19] [2010] A.C.F. no 379 (QL).
+[20] Ibid.
+[21] [2001] A.C.I. no 580 (QL).
+[22] Observations écrites de l’intimé (23 février 2015), au paragraphe 28.
+[23] Transcription, page 160.
+[24] Transcription, pages 133 et 187.
+[25] Transcription, page 197.
+[26] Transcription, page 95.
+[27] Transcription, page 94.
+[28] Ibid.
+[29] Transcription, pages 95 et 99.
+[30] Transcription, pages 101 et 102.
+[31] Transcription, page 103.
+[32] Transcription, page 109.
+[33] 2007 CCI 527.
+[34] Transcription, pages 33 et 34.
+[35] 2004 CAF 68, juges Desjardins, Létourneau et Nadon.
+[36] Observations écrites de l’intimé (23 février 2015), au paragraphe 29.
+[37] Transcription, pages 23 et 24.
+[38] Transcription, page 16.
+[39] Ibid.
+[40] Ibid.
+[41] Transcription, pages 117 et 122.
+[42] Transcription, pages 132 et 179.
+[43] Bryan Goulet a témoigné que ses clients le payaient parfois par chèque fait à son ordre (transcription, pages 104 et 105).
+[44] Transcription, page 179.
+[45] Transcription, pages 23 et 24.
+[46] Pièce A-2; transcription, page 22.
+[47] Sheridan, précitée (note 6).
+[48] [1993] A.C.F. no 618 (QL), juges Marceau, Desjardins et Létourneau.
+[49] Doucet c. Canada, [1992] A.C.I. no 588 (QL), juge Garon.
+[50] Doucet, précitée (note 48).
+[51] Transcription, page 46.
+[52] [1993] A.C.I. no 18 (QL).
+[53] [1995] A.C.F. no 1470 (QL).
+[54] L.R.C. (1985), ch. I-21. Voir 9041-6868 Québec inc. c. Canada (M.R.N.), 2005 CAF 334, juges Décary, Létourneau et Pelletier.
+[55] R.L.R.Q., ch. C-1991.
+[56] 9041-6868 Québec inc., précité (note 54). Voir aussi Grimard c. Canada, 2009 CAF 47, au paragraphe 33, juges Létourneau, Blais et Trudel.
+[57] 9041-6868 Québec inc., précité (note 54), au paragraphe 8.
+[58] Ibid., au paragraphe 11.
+[59] Grimard, précité (note 56).
+[60] Ibid.
+[61] [1986] 3 C.F. 553 (CAF), juges Pratte, Mahoney et MacGuigan.
+[62] S’ajoute à ces éléments le critère du contrôle exercé par le présumé employeur.
+[63] 2001 CSC 59.
+[64] A. Edward Aust et Thomas Laporte Aust, Le contrat d’emploi, troisième édition, Cowansville (Québec), Éditions Yvon Blais, 2013, à la page 220.
+[65] Transcription, pages 126, 127 et 165.
+[66] 2002 CAF 96, au paragraphe 71.
+[67] Voir le paragraphe 97 des présents motifs.
+[68] Transcription, pages 18 et 19.
+[69] Transcription, page 129.
+[70] Transcription, page 190.
+[71] Transcription, pages 169 et 170.
+[72] Transcription, page 190.
+[73] Transcription, pages 191 et 192.
+[74] Transcription, pages 35, 137 et 172.
+[75] Transcription, pages 101, 103 et 119.
+[76] Transcription, page 57.
+[77] Transcription, pages 130, 138 et 170.
+[78] Transcription, pages 134 et 175.
+[79] Transcription, pages 182, 183 et 195.
+[80] Transcription, page 183.
+[81] Transcription, pages 151 et 152.
+[82] Transcription, pages 38, 40 et 201.
+[83] Transcription, page 181.
+[84] Transcription, page 189.
+[85] Transcription, page 203.
+[86] Ibid.
+[87] Transcription, pages 86, 148 et 185.
+[88] Transcription, page 185.
+[89] Transcription, page 148.
+[90] Transcription, pages 148 et 149.
+[91] Transcription, pages 86 et 87.
+[92] Transcription, page 186.
+[93] Transcription, page 87.

@@ -1,0 +1,170 @@
+---
+title: "Gooch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29315/index.do"
+last_modified: "2009-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 367"
+citation2: ""
+neutral_citation: "2009 TCC 367"
+decision_date: "2009-07-16"
+language: "en"
+item_id: "29315"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7054
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:07:22.260000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7935ecbdf855106d536cf6b399c53ae87c64efcda18a0e67822477d4ac6eb175"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gooch v. The Queen
+
+- Citation: 2009 TCC 367
+- Decision date: 2009-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7054, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gooch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-16
+Neutral citation
+2009 TCC 367
+File numbers
+2008-1543(GST)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2008-1543(GST)I
+2008-1546(IT)I
+BETWEEN:
+GREGORY J. GOOCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 10, 2009, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Gregory Sanders
+Counsel for the Respondent:
+Jack Warren
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (ITA) for the 1993 taxation year is allowed and the assessment is referred back to the Minister of National Revenue (Minister) on the basis that the appellant’s professional income shall be reduced by $75,000. The appeals from the assessments made under the ITA for the 1996 and 1997 taxation years are dismissed.
+The appeal from the assessment made under the Excise Tax Act for the period from January 1, 1991 to December 31, 1997 is allowed to take into account the following:
+§ for the year 1993, gross income is reduced by $75,000;
+§ for the years 1993, 1995, 1996 and 1997, the gross income subject to GST must be reduced by allowing the deduction , pursuant to section 231 of the ETA, of the bad debts accepted by the Minister or established by the appellant as follows:
+1993 $130,000
+1995 $115,000
+1996 $75,000
+1997 $117,000
+§ for the years 1991, 1992, and 1994, the gross income subject to GST shall be reduced by allowing the deduction of bad debts, if any.
+There will be no order as to costs.
+The filing fees of $200 will be reimbursed to the appellant.
+Signed at Ottawa, Canada, this 16th day of July 2009.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2009 TCC 367
+Date: 20090716
+Dockets: 2008-1543(GST)I
+2008-1546(IT)I
+BETWEEN:
+GREGORY J. GOOCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] These are appeals filed under the informal procedure against assessments of tax under the Income Tax Act (ITA) for the taxation years 1993, 1996 and 1997 and under the Excise Tax Act (ETA) with respect to the period from January 1, 1991 to December 31, 1997.
+Assessments under ITA
+1993
+[2] The appellant reported total gross income of $188,230.50 for that year (Exhibit A-1, Statement of Income and Expenses from a Professional Practice). The gross income consists of management consulting income of $161,230.50 and commissions of $27,000. Against that gross income, the appellant claimed expenses totalling $104,498.18, and so reported a net income for 1993 of $83,732.32. Among those expenses are professional fees of $75,000, which were disallowed by the Minister of National Revenue (Minister). This is the amount at issue before me for 1993.
+[3] The appellant explained in court that he was the president and a minority shareholder of Petrox Energy & Minerals Corp. (Petrox), for which a certain Steve Davis, a third-party supplier of services based in Florida in the USA, did consulting work on what was referred to as the “Oil Spill Project”. It appears that Mr. Davis billed Petrox under the name of Veritas Capital (Veritas) for the amount of $75,000. It also appears that Petrox did not have the money to pay Veritas and that the appellant, in his capacity as president of Petrox, decided to pay that debt himself. He first thought that Veritas could be paid with shares to be issued by Petrox. However, it seems that Petrox shares were delisted by the Ontario Securities Commission and thus none could be issued. The appellant therefore took it upon himself to transfer the shares that he owned in Venga Aerospace Corp (Venga) to Veritas in payment of the $75,000 bill, and it seems that Veritas was satisfied with that (Exhibit A-2).
+[4] The Minister disallowed the expense on the basis that it was not a business expense incurred by the appellant but was in fact incurred by Petrox, which is true.
+[5] The appellant advanced the money to Petrox, which was consequently then indebted to the appellant instead of being indebted to Veritas. However, the appellant explained that in computing his gross income for 1993 he included all the expenses he incurred for Petrox, including the $75,000 for which he expected to be reimbursed. He then deducted all the said expenses from the aforementioned gross income. The appellant said that he was told afterwards by his accountants that this was not the proper way to report his income. This is evidenced by his tax returns filed for 1996 and 1997 (Exhibits A-4 and A-7) in which he reported gross income much lower than that reported for 1993.
+[6] Therefore, even though the $75,000 was not an expense incurred by the appellant to earn personal professional income, and therefore was not deductible from his own income, it should not have been included in his gross income for 1993 in the first place, as it was not income for him but was a loan to Petrox. As a result, his gross income should in any event be reduced by $75,000.
+[7] In conclusion, the assessment for 1993 will be sent back to the Minister to have the appellant’s professional income reduced by $75,000.
+1996 and 1997
+[8] The appellant reported gross professional income of $28,182 and net professional income of $24,371 for 1996 (Exhibit A-4, Statement of Business Activities). However, he produced an invoice for that same year showing commissions earned from Petrox in the amount of $24,000 and fees of $56,000 for 112 days of work (Exhibit A-6). He also billed Petrox on that same invoice for expenses (travel, office, computers and office equipment and other miscellaneous expenses) totalling $20,432. According to that invoice, he only received $56,320 on that bill and he also assumed the $35,000 debt owed by Petrox to Veritas in that year. He therefore claimed a loss of $75,000 for that year.
+[9] The Minister reassessed the appellant to include in income the total amount invoiced to Petrox for commissions, fees and expenses, that is, $100,432 (Exhibit A‑6). The Minister, however, allowed the deduction of an amount of $20,432 for the expenses and the deduction of the loss of $75,000 as a bad debt against the business income (see form T7W-C for 1996, Exhibit A‑13).
+[10] I note that the bad debt of $75,000 as calculated by the appellant in Exhibit A-6 already includes the expenses of $20,432. The appellant was therefore allowed the amount of $20,432 twice. The appellant argues that the Minister should not have included the amount of $100,432 in his gross income at all. He said that the invoice filed as Exhibit A-6 was not a real invoice. It was prepared at the suggestion of his accountant during the Minister’s audit in order to provide information on the time and effort he put into Petrox without remuneration and that would entitle him to a future share in the profits of that corporation. He said that he did not expect to be paid in that year for his services.[1]
+[11] If I understand the appellant’s argument correctly, he says that the commissions and fees earned are not income but rather a capital investment that would give him a right to share in any Petrox profits that would be distributed in the future. If such was the case, the appellant had the burden of proving it. For example, the existence of his investment could be shown by the issuance of Petrox share certificates in his name in consideration for the services rendered without remuneration. There could also have been a promissory note issued by the corporation. Yet nothing was given to the Minister or provided in Court, apart from the invoice filed as Exhibit A-6, which shows, rather, that the amount in question was income earned by the appellant in 1996. The appellant filed a letter dated October 1, 1994 that was sent by him to the board of directors of Petrox and which had the agreement of the two other directors of Petrox, one of whom was Mr. Davis (Exhibit A-5, second page). However, this letter states only that the appellant did not want to incur any tax liability with respect to the services he provided in directing and managing the company. It does not say how he planned to avoid such liability, nor does it say that his remuneration for his services was anything other than what appears in Exhibit A-6.
+[12] The other letter dated October 1, 1994, sent to “Steve and Graham”, the two other directors of Petrox, is not co-signed by the two other directors (Exhibit A-5, first page). In this letter, the appellant says that the work done for Petrox for which he was not paid represents his share of the future profits of the corporation. He also seems to be saying that he reported his income on a cash basis rather than on an accrual basis, as he reported as income the amount he was actually paid.
+[13] I note that this letter is signed only by the appellant and does not seem to have been approved by the other directors. Furthermore, according to the invoice filed as Exhibit A-8 for 1997, there was a balance owing from 1996 of $19,012, which could give the impression that the appellant was in fact paid for most of his services in 1996. However, a bad debt of $75,000 was accepted by the Minister for that same year 1996, which leads me to believe that the appellant has shown that he was not in fact paid. Finally, in Exhibit A-6, it is stated that the appellant received at least $56,320 in 1996. If we deduct therefrom $20,432 in expenses, it leaves $35,888 as income for his services, and the appellant reported gross income of only $28,182 for that year in his tax return.
+[14] For 1997, the appellant reported gross income of $14,200 and net income of $11,551.38 (Exhibit A-7, Statement of Business Activities). He also reported a loss of $117,000. On the invoice filed as Exhibit A‑8, he declared commission income of $15,930, $93,500 in fees for 187 days of work and expenses totalling $15,641. He received a payment of $48,657 in that year. He also assumed the Veritas debt amounting to $115,084.
+[15] In reassessing the appellant for 1997, the Minister included in his income the amount of commissions, fees and expenses, which totalled $125,071 (Exhibit A-8) and allowed a deduction of $15,641 for those expenses and the deduction of the loss of $117,000 as a bad debt against business income (Exhibit A-13, form T7W-C for 1997). Again, the amount of $15,641 had already been included by the appellant in the calculation of his loss of $117,000. The appellant was thus allowed the deduction of $15,641 twice.
+[16] I find the appellant’s evidence very confusing. Even if I accept the fact that the appellant wished to report his income on a cash basis (as he was entitled to do if that method yielded an accurate picture of his profit for the year, pursuant to the decision of the Supreme Court of Canada in Canderel Ltd v. R., 1998 CarswellNat 80, [1998] 1 S.C.R.147), it is difficult to establish adequately, with the documents in hand, the exact income of the appellant. In the end, the appellant failed to convince me that the Minister was wrong in assessing his professional income on the basis of the invoices provided in Exhibits A-6 and A-8. The appellant was even allowed more deductions than he should have. Furthermore, the appellant was allowed bad debt deductions to take into account the fact that he was not paid in full.
+[17] The assessments made under the ITA for the 1996 and 1997 taxation years are therefore confirmed.
+GST assessments: January 1, 1991 to December 31, 1997
+[18] The appellant did not register for GST purposes under the ETA as he believed that he was a small supplier because he did not exceed the $30,000 income threshold prescribed by the ETA (Exhibit A-12).
+[19] For 1991, 1992 and 1993, the Minister assessed the GST collectible on the gross income reported by the appellant, which was $112,140 in 1991, $147,066 in 1992 and $188,230 in 1993 (Exhibit A-9). The appellant did not produce any evidence to contradict his gross income figures for 1991 and 1992. As for 1993, I have already indicated that his gross income of $188,230 was overstated by $75,000 because this was the amount of the Veritas debt paid by the appellant in Petrox’s place. That $75,000 was not income for him. The gross income for 1993 should therefore be reduced to $113,230, on which amount GST was collectible.
+[20] However, for 1993, the Minister allowed a bad debt deduction of $130,000 against the appellant’s business income (Exhibit A-13, Form T7W-C for 1993). For 1996, the bad debt accepted by the Minister was $75,000.
+[21] For 1997, the bad debt amount accepted by the Minister was $117,000. For 1995, the bad debt amount was $115,000 (Exhibit A-11).
+[22] For 1994, I cannot see from the document filed as Exhibit A-10 whether a bad debt was claimed. For 1991 and 1992, there is no documentation at all. It is my understanding, however, that there were bad debts for those years, but the figures could not be made available to the Court because of the time elapsed between those years and the audit. If the appellant can establish the amounts of such bad debts, they should be deducted from his professional income that is subject to GST.
+[23] I therefore conclude that the amounts of bad debts incurred by the appellant are to be deducted from the income on which GST is collectible, pursuant to section 231 of the ETA.
+[24] The appellant also put forward the argument that the commissions earned were in relation to the raising of funds for the corporation. He therefore argues that this is a financial service, which is an exempt supply.
+[25] The evidence is far from being sufficient to establish that the appellant provided to Petrox during the period at issue financial services within the meaning of subsection 123(1) of the ETA. The appellant alluded to the fact that part of his job was raising funds for the partnership units that had an interest in Petrox. Nothing more was said and no documentation was filed with regard to the exact duties performed by the appellant for Petrox. The appellant did not raise this point in his pleadings but presented it as a new argument in his written submissions. In my view, the evidence does not support that argument.
+[26] With respect to the input tax credits (ITCs), it is my understanding that the expenses are already included in the bad debts. Nothing more was provided in court which could permit me to allow ITCs beyond those already received.
+Decision
+[27] The appeal from the assessment made under the ITA for the 1993 taxation year is allowed and the assessment is referred back to the Minister on the basis that the appellant’s professional income shall be reduced by $75,000. The appeals from the assessments made under the ITA for the 1996 and 1997 taxation years are dismissed.
+[28] The appeal from the assessment made under the ETA for the period from January 1, 1991 to December 31, 1997 is allowed to take into account the following:
+§ for the year 1993, gross income is reduced by $75,000;
+§ for the years 1993, 1995, 1996 and 1997, the gross income subject to GST must be reduced by allowing the deduction , pursuant to section 231 of the ETA, of the bad debts accepted by the Minister or established by the appellant as follows:
+1993 $130,000
+1995 $115,000
+1996 $75,000
+1997 $117,000
+§ for the years 1991, 1992, and 1994, the gross income subject to GST shall be reduced by allowing the deduction of bad debts, if any.
+Signed at Ottawa, Canada, this 16th day of July 2009.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2009 TCC 367
+COURT FILE NO.: 2008-1543(GST)I
+2008-1546(IT)I
+STYLE OF CAUSE: GREGORY J. GOOCH v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 10, 2009
+WRITTEN SUBMISSIONS: June 17, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: July 16, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Gregory Sanders
+Counsel for the Respondent:
+Jack Warren
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gregory Sanders
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The appellant testified that he was working for partnerships that had an agreement with Petrox that would entitle them to share in any future profits of that corporation. The appellant said that he had the same arrangement with Petrox. It is not clear what work the appellant did for the partnerships and for the corporation. He said that the partnerships were put in place to raise funds for the corporation. None of these alleged agreements were provided to the court.

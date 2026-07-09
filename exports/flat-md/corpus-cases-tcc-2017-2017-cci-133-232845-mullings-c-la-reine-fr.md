@@ -1,0 +1,508 @@
+---
+title: "Mullings c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232845/index.do"
+last_modified: "2017-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 133"
+citation2: ""
+neutral_citation: "2017 CCI 133"
+decision_date: "2017-07-20"
+language: "fr"
+item_id: "232845"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2118
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:25:24.225000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "35882ae41cef86dfb75bebd4e5939d59bd7310346bbd218c9e46b199f8ca3854"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mullings c. La Reine
+
+- Citation: 2017 CCI 133
+- Decision date: 2017-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2118, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mullings c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-07-20
+Référence neutre
+2017 CCI 133
+Numéro de dossier
+2016-2938(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2938(IT)I
+ENTRE :
+ERIN MULLINGS,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 février 2017.
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Représentant de l’appelant :
+M. Norman John Adams
+Avocat de l’intimée :
+Me John Maskine
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la détermination établie au titre de la Loi de l’impôt sur le revenu, dont l’avis est daté du 27 juillet 2015, est accueilli, sans frais, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle détermination en tenant compte du fait que la cadette des enfants de l’appelante, X, est admissible au crédit d’impôt pour déficience mentale ou physique.
+Signé à Ottawa (Ontario), ce 10e jour de juillet 2017.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2017 CCI 133
+Date : 20170720
+Dossier : 2016-2938(IT)I
+ENTRE :
+ERIN MULLINGS,
+appelante,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+[Les présents motifs du jugement modifiés remplacent
+les motifs du jugement signés le 10 juillet 2017; ils corrigent
+une erreur grammaticale contenue dans la note de bas de page 19.]
+Le juge Jorré
+Introduction
+[1] La cadette des enfants de l’appelante, « X », est atteinte de phénylcétonurie (« PCU ») classique. La PCU est un trouble génétique qui élimine ou restreint gravement la capacité de l’organisme de métaboliser la phénylalanine (« PHE »), un amino-acide nécessaire à une croissance et à un développement sains. La PHE se trouve dans toutes les protéines alimentaires naturelles [1] . La PCU entraîne des conséquences très graves à moins que le plan de traitement nécessaire soit suivi rigoureusement et sans relâche. Si la PCU n’est pas traitée, elle peut entraîner des lésions cérébrales graves et permanentes pour l’enfant.
+[2] Le passage suivant décrit clairement et succinctement à la fois la nature de la PCU et ses conséquences potentielles [2] :
+[traduction]
+[…] La phénylcétonurie [classique] est une déficience héréditaire qui entrave la capacité de l’organisme de métaboliser l’amino-acide phénylalanine. Il s’agit d’une maladie génétique, ce qui signifie qu’elle commence dès la naissance et dure toute la vie. C’est une maladie grave, car le métabolisme de la phénylalanine est une fonction vitale. En l’absence de la capacité de métaboliser la phénylalanine, celle‑ci s’accumule rapidement dans l’organisme (en l’espace d’un jour) jusqu’à atteindre une concentration toxique. À court terme, une concentration élevée de phénylalanine altère la capacité cognitive (fonction exécutive) et, à long terme (chez l’enfant), elle entraîne de graves lésions cérébrales permanentes.
+Les personnes qui ne sont pas atteintes de cette déficience (c’est‑à‑dire, qui ne sont pas atteintes de phénylcétonurie) peuvent métaboliser la phénylalanine. Par conséquent, elles ne sont pas tenues de suivre un régime pauvre en phénylalanine. Les personnes atteintes de phénylcétonurie doivent suivre le plan de traitement et doivent faire surveiller leur dosage sanguin de phénylalanine pendant toute leur vie. Si elles ont un régime alimentaire normal, elles subiront des lésions cérébrales. La préparation prescrite à [X] est la suivante : un mélange quotidien composé de 110 grammes de poudre de Phenex‑2 et de 560 ml d’eau (divisé en 140 ml, quatre fois par jour) et 300 mg (20 parts) de phénylalanine par jour provenant de toutes les sources alimentaires, y compris des produits alimentaires et des produits métaboliques fournis par le Programme d’aide pour les maladies métaboliques héréditaires dans le cadre des Programmes publics de médicaments de l’Ontario. […]
+[Non souligné dans l’original.]
+[3] Comme nous le verrons plus loin, les soins thérapeutiques consistent à réguler strictement l’apport de PHE. Chaque jour, l’objectif est de consommer une quantité très précise de PHE. Si une trop petite quantité est consommée, la croissance et le développement ne seront pas normaux; si une trop grande quantité est consommée, il s’ensuivra des lésions cérébrales. Métaphoriquement, l’appelante et sa fille sont obligées de marcher sur une crête très étroite en courant de très grands risques si l’enfant tombe d’un côté ou de l’autre [3] .
+[4] L’étroitesse de la « crête » est bien illustrée par le fait qu’un seul œuf contient une quantité de PHE supérieure à la dose quotidienne permise de l’enfant.
+[5] En 2015, l’appelante a présenté une demande de crédit d’impôt pour déficience mentale ou physique, communément appelé crédit d’impôt pour personnes handicapées (« CIPH »), concernant X. Le ministre du Revenu national (le « ministre ») a déterminé que X ne respectait pas les exigences, et l’appelante interjette maintenant appel à l’encontre de la détermination établie [4] .
+[6] La seule question que la Cour est appelée à trancher en l’espèce est de savoir si X est admissible au crédit. De nombreux points ne sont pas contestés; je constate, par exemple, qu’il n’y a pas de contestation quant au calcul et quant au fait que, si X est admissible, le crédit peut être transféré à l’appelante.
+[7] Comme nous le verrons plus loin, le litige porte en fin de compte sur ce que j’appellerai « l’exigence de 14 heures par semaine ».
+Le régime législatif [5]
+[8] Les dispositions applicables sont celles des articles 118.3 et 118.4 de la Loi de l’impôt sur le revenu (la « Loi »); elles figurent à l’annexe A des présents motifs. Comme l’admissibilité est la seule question à trancher, et compte tenu des faits particuliers, seuls des passages de ces deux articles sont pertinents et je reproduirai seulement ci‑dessous une partie de ces articles :
+118.3(1) Crédit d’impôt pour déficience mentale ou physique — Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) s’il s’agit d’une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1), un médecin en titre — ou, dans chacun des cas ci‑après, la personne mentionnée en regard du cas — atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de ces soins :
+[…]
+a.3) s’il s’agit d’une ou de plusieurs déficiences des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante, l’une des personnes ci‑après atteste, sur le formulaire prescrit, que la ou les déficiences sont des déficiences graves et prolongées des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une seule activité courante de la vie quotidienne :
+(i) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre ou un ergothérapeute,
+(ii) s’il s’agit d’une autre déficience, un médecin en titre;
+b) le particulier présente au ministre l’attestation visée aux alinéasa.2) ou a.3) pour une année d’imposition;
+c) […]
+Le montant déductible est déterminé selon la formule suivante :
+[…]
+(1.1) Temps consacré aux soins thérapeutiques — Pour l’application de l’alinéa 118.3(1)a.1), lorsqu’il s’agit d’établir si des soins thérapeutiques sont donnés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine, le temps consacré à donner les soins est calculé selon les critères suivants :
+a) n’est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+b) s’il s’agit de soins dans le cadre desquels il est nécessaire de déterminer un dosage régulier de médicaments qui doit être ajusté quotidiennement, est compté, sous réserve de l’alinéa d), le temps consacré aux activités entourant directement la détermination de ce dosage;
+c) dans le cas d’un enfant qui n’est pas en mesure d’accomplir les activités liées aux soins en raison de son âge, est compté le temps que consacrent les principaux fournisseurs de soins de l’enfant à accomplir ces activités pour l’enfant ou à les surveiller;
+d) n’est pas compté le temps consacré aux activités liées au respect d’un régime ou de restrictions alimentaires ou d’un programme d’exercices (même si ce régime, ces restrictions ou ce programme sont pris en compte dans la détermination du dosage quotidien de médicaments), aux déplacements, aux rendez‑vous médicaux, à l’achat de médicaments ou à la récupération après les soins.
+(2) Personne déficiente à charge — […]
+(3) Personne déficiente à la charge de plusieurs contribuables — […]
+(4) Renseignements supplémentaires — […]
+118.4(1) Déficience grave et prolongée — Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n’est considéré comme ayant une limitation équivalant au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne que si sa capacité d’accomplir plus d’une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu’il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne;
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+f) le fait de s’habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+(2) Professionnels de la santé titulaires d’un permis d’exercice — […]
+[9] Il convient maintenant de souligner que le Canadian Oxford Dictionary (deuxième édition, 2004) définit ainsi l’expression « soins thérapeutiques » :
+[traduction]
+1 Traitement de troubles physiques ou mentaux, autrement que par la chirurgie; 2 type particulier de ce traitement.
+[10] Le même dictionnaire donne trois définitions du nom « régime » :
+[traduction]
+1 Types d’aliments qu’une personne ou un animal mange généralement; 2 conduite alimentaire spéciale qu’une personne doit observer, particulièrement pour des raisons médicales ou pour contrôler son poids; 3 occupation régulière ou série d’activités auxquelles une personne doit se livrer, ou qui constituent sa préoccupation principale, habituellement dans un but précis (un régime de lecture récréative et d’air frais).
+En l’espèce, c’est la deuxième acception qui serait pertinente.
+Les questions en litige
+[11] Selon les dispositions précitées, la Loi prévoit un certain nombre d’exigences qui doivent être respectées pour qu’une personne soit admissible au crédit d’impôt pour personnes handicapées; en l’espèce, ces exigences sont notamment les suivantes [6] :
+1. Le particulier a une ou plusieurs déficiences graves et prolongées.
+2. Les effets de la ou des déficiences doivent être tels que :
+a) la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée;
+b) la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) la capacité du particulier serait limitée de la manière décrite au point a) en l’absence de soins thérapeutiques qui respectent certaines exigences [7] .
+3. Une attestation délivrée par un médecin en titre doit être présentée.
+[12] L’intimée ne conteste pas que bon nombre des exigences sont respectées et avance la thèse suivante :
+1. Elle admet que X est atteinte d’une ou de plusieurs déficiences graves et prolongées de sorte que
+2. la capacité de X d’accomplir une activité courante de la vie quotidienne serait limitée de façon marquée en l’absence de soins thérapeutiques [8] .
+3. L’intimée soutient toutefois que les soins thérapeutiques reçus ne respectent pas les exigences de la Loi.
+[13] La seule question [9] à trancher en l’espèce est de savoir si les soins thérapeutiques respectent ou non les exigences de la Loi.
+[14] L’alinéa 118.3(1)a.1) de la Loi prévoit que la capacité du particulier :
+[…] [serait limitée de façon marquée] en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+[15] L’argument de l’intimée se limitait plus précisément au sous‑alinéa (ii) précité et à l’exigence de 14 heures par semaine [10] ; il est bien évident que les soins thérapeutiques sont administrés plus de trois fois et que cet aspect du sous‑alinéa (ii) n’est pas contesté. L’intimée n’a pas fait valoir que les exigences énoncées aux alinéas (i) et (iii) n’ont pas été respectées.
+[16] En conséquence, la question à trancher est de savoir si les soins thérapeutiques ont été administrés pendant une durée moyenne d’au moins 14 heures par semaine.
+[17] Pour calculer la durée exigée de 14 heures par semaine, il importe de tenir compte des dispositions du paragraphe 118.3(1.1), qui sont ainsi libellées :
+[…] le temps consacré à donner les soins est calculé selon les critères suivants :
+a) n’est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+b) s’il s’agit de soins dans le cadre desquels il est nécessaire de déterminer un dosage régulier de médicaments qui doit être ajusté quotidiennement, est compté, sous réserve de l’alinéa d), le temps consacré aux activités entourant directement la détermination de ce dosage;
+c) dans le cas d’un enfant qui n’est pas en mesure d’accomplir les activités liées aux soins en raison de son âge, est compté le temps que consacrent les principaux fournisseurs de soins de l’enfant à accomplir ces activités pour l’enfant ou à les surveiller;
+d) n’est pas compté le temps consacré aux activités liées au respect d’un régime ou de restrictions alimentaires ou d’un programme d’exercices (même si ce régime, ces restrictions ou ce programme sont pris en compte dans la détermination du dosage quotidien de médicaments), aux déplacements, aux rendez‑vous médicaux, à l’achat de médicaments ou à la récupération après les soins.
+[18] La version anglaise du texte est ainsi libellée :
+[…] the time spent on administering therapy
+(a) includes only time spent on activities that require the individual to take time away from normal everyday activities in order to receive the therapy;
+(b) in the case of therapy that requires a regular dosage of medication that is required to be adjusted on a daily basis, includes (subject to paragraph (d)) time spent on activities that are directly related to the determination of the dosage of the medication;
+(c) in the case of a child who is unable to perform the activities related to the administration of the therapy as a result of the child’s age, includes the time, if any, spent by the child’s primary caregivers performing or supervising those activities for the child; and
+(d) does not include time spent on activities related to dietary or exercise restrictions or regimes (even if these restrictions or regimes are a factor in determining the daily dosage of medication), travel time, medical appointments, shopping for medication or recuperation after therapy.
+Les faits
+[19] X est née en 2013 et a reçu un diagnostic de PCU peu de temps après, dans le contexte d’un processus de dépistage néonatal. L’appelante est la principale fournisseuse de soins de X.
+[20] Pour permettre à l’appelante de présenter une demande de CIPH concernant X, un formulaire prescrit (le T2201 — Certificat pour le crédit d’impôt pour personnes handicapées) a été rempli et attesté par le Dr Murray Potter, un spécialiste en métabolisme qui traite X [11] .
+[21] Le Dr Potter a fourni deux lettres à l’appui de la demande de CIPH de l’appelante. La première lettre, datée du 12 avril 2016, appuyait l’opposition de l’appelante à l’encontre de la détermination par laquelle le ministre avait refusé la demande de CIPH. La lettre expliquait la cause, les effets et le traitement de la PCU, comme cela est mentionné ci‑après [12] . Il convient de reproduire de larges extraits de la lettre :
+[traduction]
+[…]
+La phénylcétonurie, ou PCU, est un déficit enzymatique héréditaire. L’enzyme insuffisante, la phénylalanine hydroxylase, est nécessaire pour métaboliser l’amino‑acide phénylalanine (« PHE »). En l’absence de cette enzyme, la phénylalanine, une composante de toutes les protéines alimentaires, s’accumule rapidement dans l’organisme jusqu’à atteindre une concentration toxique. En une période relativement courte (de quelques semaines à un mois), une concentration élevée de phénylalanine entraîne des lésions cérébrales irréversibles. En théorie, le traitement de la PCU est simple : réduire la consommation de phénylalanine à un niveau très faible, tout juste suffisant pour fournir à l’organisme un apport lui permettant de produire de nouvelles protéines nécessaires à la croissance et au développement, sans toutefois provoquer une accumulation toxique. En pratique, c’est un objectif très difficile à atteindre.
+Le premier défi tient au fait que le degré de restriction protéique qui serait nécessaire pour assurer un niveau sécuritaire de phénylalanine dans le corps n’est pas compatible avec la vie. Par conséquent, on a créé des aliments synthétiques (appelés « aliments thérapeutiques » ou « préparations de PCU ») qui sont exempts de phénylalanine, mais qui contiennent des concentrations sécuritaires d’autres amino‑acides et d’autres nutriments. Ces aliments thérapeutiques, qui sont uniquement obtenus au moyen d’un accès spécial dans quelques centres au Canada, sont délivrés sur présentation d’une ordonnance médicale, sous la supervision étroite d’un médecin spécialiste en métabolisme et d’un diététiste. Même si les aliments thérapeutiques constituent une grande partie du régime alimentaire, il faut consommer d’autres aliments spéciaux à faible teneur en protéines pour avoir un régime alimentaire complet. Par exemple, un aliment à faible teneur en protéines pourrait être des pâtes ou un produit panifié dans lesquels l’ingrédient à haute teneur en protéines (farine) est remplacé par un substitut faible en protéines (amidon), souvent au détriment du goût. La plupart de ces aliments sont aussi offerts, par commande spéciale, dans les mêmes centres qui fournissent les aliments thérapeutiques, mais il n’est habituellement pas nécessaire d’obtenir une ordonnance pour les acheter.
+Le deuxième défi est que, comme je l’ai mentionné auparavant, une certaine quantité de phénylalanine est nécessaire à une croissance et à un développement normaux, mais une trop grande quantité est toxique. L’apport de phénylalanine est soigneusement régulé par la consommation de protéines d’une alimentation normale (qui contiennent de la phénylalanine). Essentiellement, on prescrit à X une quantité précise de phénylalanine à consommer chaque jour, qui est prise sous forme de protéine alimentaire. Il faut calculer cette quantité pour chaque aliment qui est consommé à chaque repas, tous les jours. La quantité prescrite de phénylalanine, qui change selon les étapes de la croissance et du développement, doit être surveillée attentivement au moyen de dosages sanguins fréquents de la phénylalanine (chaque semaine chez un jeune enfant, puis à des intervalles de plus en plus espacés, jusqu’à atteindre tous les 1‑3 mois à l’âge l’adulte, au terme de la croissance). Seuls des laboratoires spécialisés peuvent effectuer ces dosages sanguins (c.-à-d. un hôpital de soins tertiaires ayant un laboratoire de génétique biochimique).
+Les parents de X doivent lui fournir des soins comme suit :
+• surveiller la concentration de phénylalanine dans le sang (au moyen d’analyses sanguines) dans le but de la maintenir entre 120 et 360 umol/l;
+• préparer et administrer quotidiennement la préparation et les aliments à faible teneur en protéines (médicament pour la PCU);
+• maintenir un registre des concentrations de phénylalanine dans le sang et de la consommation quotidienne de phénylalanine.
+Le temps nécessaire pour gérer l’ordonnance de phénylalanine varie d’une famille à l’autre, et il m’est impossible de savoir exactement combien de temps un patient consacre à cette gestion. Toutefois, il s’agit d’une tâche quotidienne qui peut facilement exiger deux heures par jour (14 heures par semaine). En outre, il faut consacrer beaucoup de temps à mesurer et à suivre la concentration de phénylalanine dans le sang. Par conséquent, il est raisonnable de dire que la gestion de la PCU respecte l’exigence d’« au moins trois fois par semaine, et une durée totale moyenne d’au moins 14 heures par semaine ». La gestion de la PCU prend beaucoup de temps et fait en sorte qu’un enfant et un parent/fournisseur de soins ont moins de temps pour des activités quotidiennes. Il s’agit d’une maladie héréditaire qui dure toute la vie et exige un traitement continu.
+La mise en œuvre tôt dans la vie d’un régime à faible teneur en phénylalanine peut réduire considérablement les déficiences mentales associées à la PCU. Si elle n’est pas traitée, la PCU provoque des lésions cérébrales sévères qui entraînent une déficience cognitive grave et l’incapacité d’exécuter les fonctions mentales nécessaires à la vie quotidienne. On a traité X dès les premières semaines de sa vie grâce à un bon contrôle métabolique, ce qui protège son cerveau et lui assure un développement complètement normal. Elle devra continuer de recevoir des soins thérapeutiques afin d’éviter les effets neuropsychiatriques indésirables de la PCU.
+[Non souligné dans l’original.]
+[22] Comme je l’ai déjà mentionné, le traitement de la PCU ne consiste pas simplement à éliminer ou à réduire la PHE du régime alimentaire d’une personne. Il s’agit de maintenir la consommation de PHE à un niveau très précis, ni plus ni moins, de façon que le patient ait une quantité de PHE juste suffisante pour lui assurer une croissance et un développement normaux, mais sans plus, afin d’éviter des lésions cérébrales. L’appelante a déclaré que sa consommation quotidienne de PHE était d’environ 4 300 mg. En revanche, la consommation quotidienne cible de PHE prescrite à X était de 300 mg. Cette cible pouvait être dépassée très rapidement si l’appelante ne contrôlait pas et ne suivait pas de près le régime alimentaire de X. Dans son témoignage, l’appelante a déclaré qu’un gros œuf et une tasse de lait contiennent 341 mg et 358 mg de PHE, respectivement.
+[23] La deuxième lettre du Dr Potter, datée du 17 février 2017, a été produite à l’appui de l’appel que l’appelante a interjeté devant la Cour. La plus grande partie de la lettre a déjà été reproduite au paragraphe 2 susmentionné.
+[24] Les soins thérapeutiques consistent à gérer de façon très précise l’apport quotidien en PHE et à assurer une consommation suffisante de tous les autres amino‑acides, à l’exception de la PHE, qui constituent l’apport protéique nécessaire à l’enfant. Pour ce faire, il faut soigneusement gérer une combinaison de trois composantes :
+1. La préparation prescrite (préparation thérapeutique) que le Dr Potter a décrite comme étant des aliments synthétiques — La préparation fournit un ensemble complet de protéines, à l’exception de la PHE [13] , et doit être prise quatre fois par jour : le matin, à midi, en après‑midi et au coucher. La préparation comprend une quantité prescrite de poudre d’amino‑acide dissoute dans une quantité précise d’eau.
+2. Des aliments à faible teneur en protéines transformés de manière spéciale (aliments thérapeutiques) — Par exemple, des pâtes alimentaires où la fraction à teneur élevée en protéines (comme la farine) a été remplacée par un substitut à faible teneur en protéines (comme l’amidon); malheureusement, le résultat est moins agréable au goût par rapport aux pâtes normales. Ces aliments thérapeutiques coûtent très cher.
+3. Des quantités limitées d’aliments ordinaires qui comportent peu ou pas de PHE et l’abstinence totale de nombreux aliments à teneur élevée en PHE.
+[25] De nombreux aliments doivent être complètement évités. Dans une lettre transmise à la commission scolaire avant que l’enfant commence la prématernelle, ses parents ont écrit ce qui suit [14] :
+[traduction]
+X n’est pas autorisée à manger de viande, de fruits de mer, de volaille, d’œufs, de produits laitiers, de soya, de noix, de haricots, de graines, de lentilles ou de nombreux produits qui contiennent de la farine ordinaire. Elle n’est pas non plus autorisée à consommer de l’aspartame. Tous les aliments susmentionnés contiennent trop de PHE.
+[26] La quantité de PHE prescrite évolue au fil du temps.
+[27] Comme cela est précisé dans la lettre du Dr Potter, les aliments thérapeutiques sont préparés spécialement pour réduire la teneur en protéines. Ces aliments thérapeutiques ne sont pas accessibles en général. Ils ne peuvent pas être achetés dans les épiceries et doivent être commandés par le consommateur et expédiés à celui‑ci. Apparemment, il existe un magasin d’alimentation spécialisée à l’Hospital for Sick Children de Toronto.
+[28] Les aliments thérapeutiques sont contenus dans des emballages comportant des avertissements comme, par exemple, [traduction] « À utiliser sous surveillance médicale pour des maladies telles que des erreurs innées du métabolisme des protéines » ou [traduction] « Avis important — Doit être utilisé sous surveillance médicale. Pour le traitement diététique des troubles métaboliques héréditaires qui exigent des régimes à faible teneur en protéines. Ne convient comme seule alimentation de la personne. » Certains emballages portent la mention [traduction] « Aliment thérapeutique à faible teneur en protéines [15] ».
+[29] L’appelante a présenté une demande au Programme d’aide pour les maladies métaboliques héréditaires du ministère de la Santé et des Soins de longue durée de l’Ontario afin d’obtenir des prestations pour X. Dans le cadre de la demande, le Dr Potter devait également fournir un diagnostic et signer le formulaire [16] . Le Programme couvre apparemment les coûts de certains aliments thérapeutiques [17] .
+[30] En général, les soins thérapeutiques de X lui prennent très peu de temps par rapport au temps qu’elle consacre à ses autres activités normales, parce que, vu son âge, elle est incapable d’administrer ses propres soins thérapeutiques. Toutefois, l’appelante, en tant que principale fournisseuse de soins de X, est tenue d’administrer les soins thérapeutiques; cela lui demande beaucoup de temps et suppose l’accomplissement des activités suivantes :
+– se procurer et conserver la préparation thérapeutique et les aliments thérapeutiques;
+– planifier et préparer les repas et les collations de X, y compris ce qui suit :
+• peser les aliments afin de mesurer, de calculer et de consigner dans un registre la quantité de PHE provenant de toutes les sources, préparés pour la consommation de X, pour garantir un apport quotidien exact de PHE;
+• mesurer la préparation et consigner les renseignements dans un registre afin de veiller à une consommation adéquate de tous les autres amino‑acides (à l’exception de la PHE) qui constituent des protéines;
+– superviser la consommation d’aliments de X afin de surveiller la quantité de PHE réellement consommée;
+– si nécessaire, après un repas ou une collation, calculer de nouveau la consommation de PHE pour le reste de la journée et rajuster les collations ou les repas subséquents pour tenir compte de la consommation réelle (p. ex., si un aliment n’a pas été consommé ou s’il n’a été consommé qu’en partie de sorte que la quantité d’aliments consommée est inférieure à celle prévue, il sera alors nécessaire d’assurer une plus grande consommation de PHE en ajoutant ou en substituant un aliment par un autre; un autre exemple où des rajustements doivent être faits est le suivant : si, malgré les efforts déployés pour éviter cette situation, X finit par manger la nourriture d’un autre enfant, il peut être nécessaire de procéder à une réduction correspondante de la consommation de PHE pour la journée);
+– éduquer les autres, comme les fournisseurs de soins, les enseignants, les camarades de classe et les autres parents, à propos de la PCU afin d’éviter une consommation de PHE plus grande que prévu (p. ex., de la crème glacée chez un ami);
+– au moment de récupérer X auprès d’autres personnes ayant assuré sa garde, se renseigner sur la quantité de préparation thérapeutique et d’aliments thérapeutiques ainsi que d’aliments ordinaires qu’elle a consommés. Normalement, l’appelante ramassera les restes de repas ou de collations afin de les mesurer (peser) et pourra recalculer la quantité de PHE consommée jusqu’à ce moment‑là de la journée dans le but d’effectuer des rajustements pour le reste de la journée;
+– assister à divers rendez‑vous médicaux avec différents médecins ainsi qu’avec le diététiste;
+– surveiller la concentration de PHE dans le sang de X au moyen d’analyses sanguines hebdomadaires en vue d’assurer l’efficacité du régime faible en PHE qui lui a été prescrit.
+[31] À l’annexe B, j’ai reproduit la liste complète des tâches figurant sur la feuille de temps que l’appelante a produite et qui donne une estimation du temps qu’elle a consacré à l’administration de soins thérapeutiques à son enfant. Elle a estimé qu’en moyenne, elle y a consacré environ 29 heures par semaine.
+[32] L’appelante a produit une lettre qu’elle a envoyée à la commission scolaire avant que X commence la prématernelle [18] . Comme elle donne une bonne idée des défis que pose la fréquentation de l’école par X en prématernelle, je reproduis la lettre ci‑dessous :
+[traduction]
+Nous sommes ravis d’inscrire X en prématernelle pour septembre 2017, et elle l’est également! Son frère aîné […], actuellement en deuxième année de prématernelle, l’a bien préparée pour l’« école des grands enfants ». À l’instar de son frère, X est également atteinte de PCU (phénylcétonurie). Comme cela est précisé plus loin, j’espère que X sera placée dans la même classe de deuxième année de prématernelle que son frère afin qu’elle puisse également avoir accès au réfrigérateur qui se trouve dans la classe pour sa préparation thérapeutique.
+Qu’est-ce que la PCU?
+La PCU est une maladie métabolique héréditaire rare qui entraîne une déficience développementale et d’autres problèmes neurologiques lorsqu’on ne commence pas le traitement dès les premières semaines suivant la naissance. Nous avons commencé le traitement dès que X a reçu son diagnostic (quatre jours après sa naissance) et, par conséquent, elle devient une merveilleuse petite fille en bonne santé. Chez les personnes atteintes de PCU, l’organisme ne peut pas transformer un amino‑acide des protéines, la phénylalanine (souvent appelée PHE). Comme cet amino‑acide ne peut pas être complètement transformé, il s’accumule dans le sang, et les quantités excédentaires franchissent la barrière hémato‑encéphalique. L’accumulation de quantités excédentaires entraîne des lésions cérébrales et d’autres problèmes neurologiques.
+Comment gère‑t‑on la PCU de X?
+Heureusement, on peut gérer la PCU grâce à un régime très strict. La gestion de la PCU de X suppose ce qui suit :
+1) Contrôler son apport en protéines
+a. X n’est pas autorisée à manger de viande, de fruits de mer, de volaille, d’œufs, de produits laitiers, de soya, de noix, de haricots, de graines, de lentilles ou de nombreux produits qui contiennent de la farine ordinaire. Elle n’est pas non plus autorisée à consommer de l’aspartame. Tous les aliments susmentionnés contiennent trop de PHE. Même les fruits et les légumes doivent être soigneusement pesés et pris en compte pour que l’apport quotidien en PHE respecte la cible quotidienne; un apport supérieur à la cible risque d’entraîner des lésions cérébrales, et un apport inférieur risque d’entraîner un retard de croissance. On doit tenir compte de tout ce que X mange. De même, tout ce qu’elle ne mange pas doit être soustrait de son apport quotidien.
+2) Boire une préparation ne contenant pas de PHE
+a. La préparation thérapeutique de X fournit à son corps la plupart des protéines, des vitamines et des minéraux, ne contenant pas de PHE, dont elle a besoin pour grandir comme les enfants de son âge.
+3) Manger des aliments spéciaux à faible teneur en PHE
+a. Ces aliments sont considérés comme des « aliments thérapeutiques » et sont obtenus par commande spéciale (c.-à-d. qu’ils ne sont pas vendus dans les épiceries).
+4) Subir des analyses sanguines chaque semaine ou toutes les deux semaines
+a. X est surveillée par une équipe du McMaster Children’s Hospital. Elle doit subir des prises de sang toutes les deux semaines pour veiller à ce que la concentration de PHE dans le sang se situe dans une fourchette précise. Lorsque la concentration est trop élevée, nous nous rendons à l’hôpital chaque semaine pour que son équipe des soins cliniques puisse rajuster en conséquence les exigences relatives à son régime et à sa préparation thérapeutique.
+Pour vous donner une idée du régime très strict auquel X est soumis, X est actuellement autorisée à consommer 300 mg de PHE par jour (environ 6,5 g de protéines) d’aliments que nous avons pesés et pris en compte. Un gros œuf contient 341 mg de PHE. Une tasse (250 ml) de lait contient 358 mg de PHE. Par conséquent, comme vous pouvez le constater, X ne peut manger aucun des aliments susmentionnés à titre d’exemple, car la consommation de chacun d’eux, pris individuellement, l’amènerait à dépasser son apport quotidien permis, ou presque, ce qui signifie qu’elle ne pourrait consommer rien d’autre sans qu’il y ait une augmentation de la concentration de PHE dans le sang et que cela n’entraîne finalement des lésions cérébrales.
+Actuellement, en prématernelle, X ne mange pas ce que le centre fournit aux autres enfants. Sa nourriture est préparée et pesée à la maison et ses enseignants la lui donnent à l’heure de la collation et à celle du dîner. Le centre m’a transmis son menu afin que je puisse fournir des options similaires le plus souvent possible (p. ex., des spaghettis à faible teneur en protéines, du pain aux bananes à faible teneur en protéines, etc.). Le personnel enseignant de X sait que tout aliment qui n’est pas consommé doit être retourné à la maison pour être pesé, et il y a un avis (semblable à un avis concernant une allergie grave) dans la classe qui indique qu’elle ne doit pas manger la nourriture de ses camarades de classe ni des aliments contenant des protéines. Chaque fois que l’école offre une gâterie, les responsables communiquent avec moi pour me demander si elle est autorisée à la manger, car il y a des aliments que nous mangeons tous qu’elle peut aussi consommer (p. ex., des pommes, une purée de pommes, certaines sucettes glacées/glaces à l’eau et certains bonbons), ou m’avisent pour que je puisse fournir une solution de rechange à faible teneur en protéines (p. ex., de petits gâteaux à faible teneur en protéines) afin qu’elle ne se sente pas exclue.
+Qu’est‑ce que cela signifie pour l’école?
+Vu les nombreuses allergies et restrictions alimentaires concernant les enfants aujourd’hui, j’espère que cette situation ne représentera pas un changement important pour l’école. Tout comme pour les autres élèves, je vais bien entendu fournir le dîner/les collations de X chaque jour. Ce qui sera différent pour elle, c’est qu’elle devra rapporter à la maison tout ce qu’elle n’aura pas mangé au lieu de jeter ces restes à la poubelle ou de les placer dans le bac vert. De plus, et c’est probablement ma plus grande inquiétude, elle ne peut pas partager sa nourriture avec ses amis. Si elle donne sa nourriture à ses amis, elle aura faim, et si elle mange la nourriture de ses amis, elle risque de consommer des protéines que cette nourriture pourrait comporter. Par ailleurs, vu qu’elle consomme sa préparation thérapeutique tout au long de la journée, en plus d’une bouteille d’eau comme ses camarades de classe, elle devra également apporter à l’école une bouteille thermos/bouteille d’eau contenant sa préparation. J’espère qu’on la placera dans la même classe de deuxième année maternelle que son frère afin qu’elle puisse elle aussi mettre sa préparation dans le réfrigérateur. Enfin, pour respecter ses rendez‑vous bimensuels pour les prises de sang au McMaster Children’s Hospital, X sera malheureusement un peu en retard (environ entre 9 h 30 et 10 h) un jeudi matin sur deux. J’aviserai l’école si X devait être plus souvent en retard en raison de rendez‑vous hebdomadaires.
+Que se passe-t-il si elle mange trop de protéines?
+Il est important de noter que X n’est PAS allergique aux protéines. Si elle mange quelque chose qu’elle ne devrait pas, elle n’aura pas de réaction allergique et n’aura pas besoin de soins médicaux. Au contraire, vous constaterez peut-être un changement de comportement. Une trop grande quantité de protéines à court terme cause habituellement de l’irritabilité, de l’hyperactivité, de l’agitation, une faible capacité d’attention, etc. Un excès de protéines sur une période plus longue (même aussi courte qu’une semaine) entraîne des lésions cérébrales plus importantes (p. ex., des convulsions, un affaiblissement intellectuel). Des accidents peuvent arriver. Ce qui sera extrêmement important pour le personnel, c’est de m’aviser ou d’aviser mon époux si X mange quelque chose qu’elle ne devrait pas. Si cela se produit, nous modifierons son régime en conséquence (c.‑à‑d., offrir à X un souper comportant encore moins de protéines ce jour‑là, diminuer son apport protéique au cours des jours suivants, etc.). Je ne peux le faire que si je suis au courant de la situation.
+Si vous avez des questions supplémentaires, je vous prie de bien vouloir communiquer avec moi.
+Analyse [19]
+[33] Dans l’arrêt Johnston c. Canada [20] , la Cour d’appel fédérale a adopté les observations suivantes formulées par le juge Bowman, ancien juge en chef de la Cour, concernant le crédit d’impôt pour personnes handicapées [21] :
+[…]
+L’intention du législateur semble être d’accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L’intention n’est pas d’accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d’un tel allégement fiscal, et l’intention est que cette disposition profite à de telles personnes.
+[…]
+Pour donner effet à l’intention du législateur, qui est d’accorder à des personnes déficientes un certain allégement qui atténuera jusqu’à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante.
+[34] Comme nous l’avons vu précédemment, l’expression « soins thérapeutiques » veut simplement dire le traitement. Vu que le traitement consiste à administrer une quantité précise de PHE tous les jours, les activités décrites au paragraphe 30 précité, et également à l’annexe B, constituent toutes l’administration du traitement ou des soins thérapeutiques. Une personne doit mener ces activités afin de fournir la PHE, de mesurer le résultat (au moyen des prises de sang hebdomadaires) et, au fil du temps, de faire des rajustements.
+[35] Toutefois, pour déterminer si les soins thérapeutiques sont donnés au moins trois fois par semaine pendant une durée moyenne d’au moins 14 heures par semaine, je dois appliquer les règles énoncées au paragraphe 118.3(1.1); ces règles modifient le sens ordinaire de l’administration de soins thérapeutique. Pour des raisons pratiques, je les reproduis ci‑dessous :
+[…] le temps consacré à donner les soins est calculé selon les critères suivants :
+a) n’est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+b) s’il s’agit de soins dans le cadre desquels il est nécessaire de déterminer un dosage régulier de médicaments qui doit être ajusté quotidiennement, est compté, sous réserve de l’alinéa d), le temps consacré aux activités entourant directement la détermination de ce dosage;
+c) dans le cas d’un enfant qui n’est pas en mesure d’accomplir les activités liées aux soins en raison de son âge, est compté le temps que consacrent les principaux fournisseurs de soins de l’enfant à accomplir ces activités pour l’enfant ou à les surveiller;
+d) n’est pas compté le temps consacré aux activités liées au respect d’un régime ou de restrictions alimentaires ou d’un programme d’exercices (même si ce régime, ces restrictions ou ce programme sont pris en compte dans la détermination du dosage quotidien de médicaments), aux déplacements, aux rendez‑vous médicaux, à l’achat de médicaments ou à la récupération après les soins.
+[36] Ces règles excluent le temps consacré à certaines activités tout en tenant compte d’autres périodes de temps. Je tiens à faire observer ce qui suit :
+1. L’alinéa 118.3(1.1)a) exclut le temps qui n’oblige pas le particulier à interrompre ses activités courantes habituelles. Par conséquent, il y a peu de temps que l’enfant consacre à des activités qui serait pris en compte. Par exemple, lorsque X mange, elle reçoit une quantité limitée de PHE, mais, comme le fait de se nourrir est une activité courante habituelle, elle n’interrompt pas ses activités habituelles. Par ailleurs, une prise de sang n’est pas une activité habituelle, et le temps que X consacre chaque semaine aux prises de sang compte.
+2. L’alinéa c) dispose expressément qu’il faut compter le temps que consacrent les principaux fournisseurs de soins de l’appelante à administrer ou à surveiller l’administration du traitement.
+3. L’alinéa 118.3(1.1)b) et les mots entre parenthèses à l’alinéa d) ne semblent pas s’appliquer en l’espèce, parce que, selon ce que j’ai compris, les soins thérapeutiques consistent en une dose quotidienne fixe de PHE. Si un problème se pose au cours de la journée, des rajustements devront être effectués pour respecter la dose, mais la dose prescrite de PHE elle‑même ne change pas; elle changera peut-être à mesure que l’enfant grandit et en fonction des analyses de sang, mais il ne s’agit pas d’un rajustement quotidien de la dose.
+4. L’alinéa d) ne compte pas dans la durée moyenne de 14 heures le temps consacré aux activités liées à ce qui suit :
+– régime ou restrictions alimentaires;
+– déplacements;
+– rendez‑vous médicaux;
+– achat de médicaments.
+[37] À mon avis, les rendez‑vous médicaux dont il est question à l’alinéa 118.3(1.1)d) comprennent les rendez‑vous avec les médecins et d’autres professionnels de la santé, mais ne comprennent pas un rendez‑vous médical qui va au‑delà d’une simple rencontre ou de simples discussions avec un professionnel. Par exemple, cela ne comprendrait pas un rendez‑vous pour un traitement réel ou des tests qui font partie du traitement [22] .
+[38] En l’espèce, l’appelante a inclus dans sa feuille de temps certaines périodes de temps qui concernent les rendez‑vous médicaux, les déplacements et l’achat de médicaments. Ce temps ne peut pas faire partie de la durée moyenne de 14 heures, mais représente une petite partie du temps total qu’elle consacre à ces activités, selon ses estimations.
+[39] La question en litige est donc la suivante : dans ces circonstances particulières, qu’est‑ce qui est précisément exclu de la durée moyenne de 14 heures par semaine à l’alinéa 118.3(1.1)d) lorsque celui‑ci renvoie aux régimes ou restrictions alimentaires?
+[40] Pour appliquer le paragraphe 118.3(1.1), il faut examiner la façon dont il convient de traiter les trois composantes des soins thérapeutiques et les différentes activités liées aux trois composantes dans la présente situation, qui n’a pas probablement été envisagée par le gouvernement ou le législateur au moment où le paragraphe 118.3(1.1) a été adopté.
+[41] Les prises de sang hebdomadaires et l’administration de la préparation thérapeutique prescrite sont assez simples. Les prises de sang sont essentielles aux soins thérapeutiques afin d’assurer le maintien de la concentration adéquate de PHE. La préparation thérapeutique est administrée quatre fois par jour selon des doses très précises, et son administration n’est pas différente de celle d’autres médicaments sur ordonnance.
+[42] Par conséquent, le temps consacré aux prises de sang et à l’administration de la préparation peut être considéré comme faisant partie de l’administration des soins thérapeutiques. Cela comprend les éléments 1, 2, 3, 4 et 23 énumérés à l’annexe B. Ils représentent une durée totale moyenne de 531 minutes par semaine ou un peu moins de neuf heures par semaine [23] .
+[43] Comment compter la PHE en général?
+[44] Les soins thérapeutiques en l’espèce comportent des caractéristiques inhabituelles pour ce qui est des règles énoncées au paragraphe 118.3(1.1). La PHE est une protéine qui se trouve dans les aliments ordinaires, mais pas de façon isolée; en outre, même si les aliments contiennent des mélanges de protéines, y compris la PHE, on ne trouve pas dans les aliments ordinaires des protéines qui ne contiennent pas de PHE. Bien que la PHE soit un élément nutritif, les activités nécessaires pour assurer une consommation quotidienne précise par l’enfant de 300 mg de PHE, et pas plus, ressemblent davantage à l’administration d’un médicament qu’à la gestion d’un régime.
+[45] Il s’agit également d’une situation inhabituelle, dans la mesure où une composante importante des soins thérapeutiques est un aliment thérapeutique qui n’est pas accessible en général sur le marché et qui doit être pris sous surveillance médicale. Cet aliment thérapeutique est beaucoup plus cher que la plupart des aliments, et il existe un programme gouvernemental en Ontario qui vise à aider à payer le coût des aliments figurant sur la liste du programme; l’accès au programme exige un diagnostic approprié d’un médecin [24] .
+[46] Habituellement, dans un régime alimentaire, une personne doit éviter certains aliments, comme ceux contenant du gluten, ou noter certains types d’aliments et contrôler les quantités de différents types d’aliments, par exemple, un nombre maximal d’unités X de fruits et d’unités Y d’amidon, chaque unité ayant une quantité déterminée d’aliments [25] .
+[47] En l’espèce, certains aliments à haute teneur en protéines sont carrément évités, comme la viande, le poisson et les produits laitiers; cette situation ressemble à un régime alimentaire. La consommation d’aliments thérapeutiques, bien qu’elle permette d’assurer l’alimentation, comporte également des caractéristiques qui sont semblables à celles qui sont propres à la prise de médicaments. Le fait de compter et de gérer la consommation de PHE ressemble beaucoup plus à l’administration d’un médicament qu’à la gestion d’un régime.
+[48] En tenant compte des caractéristiques des soins thérapeutiques susmentionnées relativement aux règles énoncées au paragraphe 118.3(1.1), le fait de mesurer et de contrôler l’apport en PHE est qualifié à juste titre d’administration de soins thérapeutiques, et non de contrôle du régime de X. Par conséquent, l’application correcte de ces règles consiste à considérer que le temps consacré à la détermination de la quantité de PHE [26] devant être consommée et qui est réellement consommée, y compris le temps consacré à la consignation de l’apport en PHE, devrait faire partie de la durée moyenne de 14 heures par semaine.
+[49] L’examen de l’estimation du temps que l’appelante consacre à différentes catégories d’activités [27] montre manifestement que le temps total consacré aux activités qui peuvent être adéquatement prises en compte aux fins de l’appréciation du critère des 14 heures est supérieur à 14 heures. Plus précisément, les éléments 5, 6, 10, 11, 14, 15, 16, 17, 19, 20 et 22 de l’annexe B sont clairement consacrés à la mesure de la PHE et au contrôle de la PHE consommée [28] .
+[50] Il s’agit ainsi d’une durée moyenne de 585 minutes par semaine ou presque neuf heures. Lorsque cette durée moyenne est ajoutée à la durée de 531 minutes susmentionnée, cela représente une moyenne de quelque 1 116 minutes ou plus de 18 heures par semaine consacrées à l’administration des soins thérapeutiques au sens du paragraphe 118.3(1.1).
+[51] Compte tenu du fait que la durée des activités mentionnées à l’annexe B que je viens d’énumérer dépasse une durée moyenne de 14 heures, il n’est pas nécessaire que je détermine si d’autres activités figurant sur la liste de l’annexe peuvent ou non être prises en compte dans le calcul de la durée moyenne de 14 heures par semaine.
+Conclusion
+[52] Étant donné que l’exigence relative à la durée de 14 heures par semaine est respectée, X est admissible au crédit d’impôt pour personnes handicapées. L’appel est accueilli et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle détermination conformément aux présents motifs.
+Signé à Ottawa (Ontario), ce 20e jour de juillet 2017.
+« Gaston Jorré »
+Juge Jorré
+ANNEXE A
+118.3(1) Crédit d’impôt pour déficience mentale ou physique — Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales,
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) s’il s’agit d’une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1), un médecin en titre — ou, dans chacun des cas ci-après, la personne mentionnée en regard du cas — atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de ces soins :
+(i) s’il s’agit d’une déficience visuelle, un optométriste,
+(ii) s’il s’agit d’un trouble de la parole, un orthophoniste,
+(iii) s’il s’agit d’une déficience auditive, un audiologiste,
+(iv) s’il s’agit d’une déficience quant à la capacité de s’alimenter ou de s’habiller, un ergothérapeute,
+(v) s’il s’agit d’une déficience quant à la capacité de marcher, un ergothérapeute ou, après le 22 février 2005, un physiothérapeute,
+(vi) s’il s’agit d’une déficience des fonctions mentales nécessaires aux activités de la vie courante, un psychologue;
+a.3) s’il s’agit d’une ou de plusieurs déficiences des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante, l’une des personnes ci-après atteste, sur le formulaire prescrit, que la ou les déficiences sont des déficiences graves et prolongées des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une seule activité courante de la vie quotidienne :
+(i) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre ou un ergothérapeute,
+(ii) s’il s’agit d’une autre déficience, un médecin en titre;
+b) le particulier présente au ministre l’attestation visée aux alinéas a.2) ou a.3) pour une année d’imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n’est inclus par le particulier ou par une autre personne dans le calcul d’une déduction en application de l’article 118.2 pour l’année (autrement que par application de l’alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante :
+A × (B + C)
+où :
+A représente le taux de base pour l’année;
+B 6 000 $;
+C :
+a) si le particulier n’a pas atteint l’âge de 18 ans avant la fin de l’année, l’excédent éventuel de 3 500 $ sur l’excédent éventuel, sur 2 050 $, du total des montants représentant chacun un montant payé au cours de l’année pour le soin ou la surveillance du particulier et inclus dans le calcul de la déduction prévue aux articles 63, 64 ou 118.2 pour une année d’imposition,
+b) dans les autres cas, zéro.
+(1.1) Temps consacré aux soins thérapeutiques — Pour l’application de l’alinéa 118.3(1)a.1), lorsqu’il s’agit d’établir si des soins thérapeutiques sont donnés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine, le temps consacré à donner les soins est calculé selon les critères suivants :
+a) n’est compté que le temps consacré aux activités qui obligent le particulier à interrompre ses activités courantes habituelles pour recevoir les soins;
+b) s’il s’agit de soins dans le cadre desquels il est nécessaire de déterminer un dosage régulier de médicaments qui doit être ajusté quotidiennement, est compté, sous réserve de l’alinéa d), le temps consacré aux activités entourant directement la détermination de ce dosage;
+c) dans le cas d’un enfant qui n’est pas en mesure d’accomplir les activités liées aux soins en raison de son âge, est compté le temps que consacrent les principaux fournisseurs de soins de l’enfant à accomplir ces activités pour l’enfant ou à les surveiller;
+d) n’est pas compté le temps consacré aux activités liées au respect d’un régime ou de restrictions alimentaires ou d’un programme d’exercices (même si ce régime, ces restrictions ou ce programme sont pris en compte dans la détermination du dosage quotidien de médicaments), aux déplacements, aux rendez-vous médicaux, à l’achat de médicaments ou à la récupération après les soins.
+(2) Personne déficiente à charge — L’excédent du montant déductible en application du paragraphe (1) dans le calcul de l’impôt payable en vertu de la présente partie pour une année d’imposition par une personne (sauf une personne à l’égard de laquelle l’époux ou le conjoint de fait déduit un montant pour l’année en application des articles 118 ou 118.8) qui réside au Canada à un moment donné de l’année et qui a le droit de déduire un montant pour l’année en application du paragraphe (1) sur l’impôt payable par cette personne en vertu de la présente partie pour l’année calculé avant toute déduction en application de la présente section — à l’exception des articles 118 à 118.07 et 118.7 — est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour l’année dans le cas où :
+a) d’une part, le particulier demande pour l’année, pour cette personne, une déduction prévue au paragraphe 118(1), soit par application de l’alinéa 118(1)b), soit, si la personne est le père, la mère, le grand-père, la grand-mère, un enfant, un petit-enfant, le frère, la soeur, la tante, l’oncle, le neveu ou la nièce du particulier ou de son époux ou conjoint de fait, par application des alinéas 118(1)c.1) ou d), ou aurait pu demander une telle déduction pour l’année si cette personne n’avait eu aucun revenu pour l’année et avait atteint l’âge de 18 ans avant la fin de l’année et, dans le cas de la déduction prévue à l’alinéa 118(1)b), si le particulier n’avait pas été marié ou n’avait pas vécu en union de fait;
+b) d’autre part, le particulier ou une autre personne n’inclut dans le calcul d’une déduction en application de l’article 118.2 pour l’année aucun montant représentant une rémunération versée à un préposé ou des frais de séjour dans une maison de santé ou de repos, en raison de la déficience mentale ou physique de cette personne (autrement que par application de l’alinéa 118.2(2)b.1)).
+(3) Personne déficiente à la charge de plusieurs contribuables — Dans le cas où plus d’un particulier a le droit de déduire un montant pour une année d’imposition en application du paragraphe (2) pour la même personne, le total des montants ainsi déductibles pour l’année ne peut dépasser le maximum qu’un seul d’entre ces particuliers aurait le droit de déduire pour l’année pour cette personne en application de ce paragraphe; si ces particuliers ne s’entendent pas sur la répartition de ce maximum entre eux, le ministre peut faire cette répartition.
+(4) Renseignements supplémentaires — Lorsqu’une déduction est demandée en vertu du présent article ou de l’article 118.8 relativement à la déficience d’un particulier, les règles suivantes s’appliquent :
+a) toute personne visée aux paragraphes (1) ou (2) ou à l’article 118.8 relativement à la demande doit fournir par écrit les renseignements que le ministre lui a demandés par écrit concernant la déficience du particulier, ses effets sur lui et, le cas échéant, les soins thérapeutiques mentionnés à l’alinéa (1)a.1) qui doivent être administrés;
+b) les renseignements ainsi fournis par une personne visée aux alinéas (1)a.2) ou a.3) sont réputés figurer dans une attestation établie en la forme prescrite.
+118.4(1) Déficience grave et prolongée — Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n’est considéré comme ayant une limitation équivalant au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne que si sa capacité d’accomplir plus d’une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu’il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne;
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+f) le fait de s’habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+(2) Professionnels de la santé titulaires d’un permis d’exercice — Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien, physiothérapeute ou psychologue visé aux articles 63, 64, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s’il est question de services;
+b) s’il doit délivrer une attestation concernant un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable;
+c) s’il doit délivrer une ordonnance pour des biens à fournir à un particulier ou destinés à être utilisés par un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable, soit enfin par la législation applicable là où les biens sont fournis.
+ANNEXE B
+(Tiré de la pièce A‑1, onglet 7)
+[traduction]
+1. Surveillance : vérification de la concentration de PHE dans le sang (prélèvement veineux) à l’hôpital pour enfants McMaster (une fois par semaine)
+2. Traitement : mesure et élaboration de la préparation thérapeutique
+3. Traitement : consommation de la préparation thérapeutique et supervision de la consommation de la préparation
+4. Mesure et consignation de la quantité de préparation thérapeutique réellement administrée/bue
+5. Mesure/pesée de la quantité de PHE qui doit être consommée à tous les repas ou à toutes les collations seulement à la garderie
+6. Calcul de la quantité de PHE contenue dans les aliments administrés aux repas ou aux collations seulement à la garderie
+7. Conservation des aliments à la garderie et récupération des restes à la fin de la journée
+8. Discussion chaque jour avec le personnel de la garderie (le matin et l’après‑midi) concernant la consommation de la nourriture au cours de la journée
+9. Consignation quotidienne par le personnel de la garderie des aliments consommés
+10. Mesure/pesée des aliments réellement consommés à chaque repas ou à chaque collation à la garderie
+11. Mesure/pesée des aliments qui n’ont pas été consommés à la garderie
+12. Discussion avec le personnel de la garderie concernant les collations spéciales (p. ex., fêtes d’anniversaires, jour de la pizza) ou la consommation de PHE par inadvertance
+13. Préparation d’une solution de rechange à faible teneur en PHE pour les collations spéciales à la garderie (p. ex., fêtes d’anniversaire, jour de la pizza)
+14. Vérification des étiquettes, détermination et calcul de la PHE dans les nouveaux aliments
+15. Mesure/pesée de la quantité de PHE qui doit être consommée à tous les repas ou à toutes les collations à la maison
+16. Calcul de la quantité PHE contenue dans les aliments consommés à tous les repas ou à toutes les collations à la maison
+17. Mesure/pesée des aliments réellement consommés à tous les repas ou à toutes les collations à la maison
+18. Préparation/cuisson dans le cadre d’un régime à faible teneur en PHE (en plus de la préparation d’aliments « ordinaires »)
+19. Calcul de la consommation quotidienne de PHE avant le souper afin de déterminer le repas ou la quantité qu’il faut
+20. Calcul de la consommation de PHE quotidienne après le souper afin de déterminer la quantité de PHE à ajouter (ou non) à la préparation finale
+21. Supervision de l’apport en PHE
+22. Tenue d’un registre faisant état de l’apport quotidien en PHE
+23. Réception par courriel des résultats concernant la concentration de PHE dans le sang
+24. Consultation avec un diététiste autorisé pour rajuster la préparation thérapeutique et/ou l’apport permis en PHE
+25. Préparation pour les voyages (p. ex., voyages d’une journée, visites de fin de de semaine, longues vacances)
+26. Garderies : recherche et entrevues
+27. Absence du travail en vue de faire vérifier la concentration de PHE dans le sang (y compris les déplacements)
+28. Suivis cliniques avec un médecin spécialiste en métabolisme, un diététiste, un conseiller en génétique et un travailleur social (trois ou quatre visites par année)
+29. Commande de la préparation thérapeutique et des aliments thérapeutiques
+30. Déballage, étiquetage et conservation des aliments (périssables et non périssables) thérapeutiques et de la préparation thérapeutique
+31. Consultation avec des médecins et/ou des pharmaciens concernant la présence de PHE dans les médicaments quotidiens, les antibiotiques et les vaccins
+32. Consultation avec un pédiatre spécialiste en développement de l’enfant concernant l’évolution générale et la gestion de la PCU (trois visites par année)
+RÉFÉRENCE :
+2017 CCI 133
+No DU DOSSIER DE LA COUR :
+2016-2938(IT)I
+INTITULÉ :
+ERIN MULLINGS c. LA REINE
+LIEU DE L’AUDIENCE :
+Le 20 février 2017
+DATE DE RÉCEPTION DE LA TRANSCRIPTION DE L’AUDIENCE :
+Le 7 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 10 juillet 2017
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 20 juillet 2017
+COMPARUTIONS :
+[BLANK /EN BLANC]
+Pour l’appelante :
+M. Norman John Adams
+Avocat de l’intimée :
+Me John Maskine
+AVOCATS INSCRITS AU DOSSIER :
+[BLANK /EN BLANC]
+Pour l’appelante :
+[BLANK /EN BLANC]
+Cabinet :
+[BLANK /EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] L’aîné des enfants de l’appelante est également atteint de PCU, mais il n’est pas visé par le présent appel.
+[2] Il s’agit d’un extrait d’une lettre écrite par le spécialiste en métabolisme de l’enfant, Murray Potter, M.D., FRCPC, FCCMG, du centre médical de l’Université McMaster, à l’appui de la demande de l’appelante; voir pièce A‑1, onglet 2.
+Il n’y a eu aucune objection à la présentation de cette lettre ou de la lettre du Dr Potter du 12 avril 2016 à l’onglet 3 de la pièce A‑1.
+Il faut souligner le fait que les éléments de preuve dont je dispose en l’espèce concernent un enfant atteint de PCU classique (selon la description de la maladie par le Dr Potter). S’il existe des maladies liées, mais différentes, les conséquences et le traitement peuvent bien être différents; les éléments de preuve ne concernent pas ces maladies. De même, les éléments de preuve ne concernent pas un adulte.
+[3] La quantité quotidienne de phénylalanine qu’il faut consommer évolue au fil du temps.
+[4] L’historique de la procédure du présent appel est le suivant : le 29 mai 2015, l’appelante a présenté au ministre une demande de CIPH concernant X en remplissant le formulaire prescrit, soit le T2201. Le 27 juillet 2015, le ministre a déterminé que X ne respectait pas toutes les exigences d’admissibilité au CIPH et a rejeté la demande. L’appelante s’est opposée à la détermination le 5 octobre 2015, après que le ministre lui a accordé une prorogation du délai pour faire opposition. Le 21 avril 2016, le ministre a confirmé la détermination et, le 18 juillet 2016, l’appelante a interjeté appel à l’encontre de la détermination, sous le régime de la procédure informelle. Malheureusement, le dossier dont je dispose ne comprend pas de copies de l’avis de détermination et de l’avis de ratification; l’appelante a produit une copie du formulaire de demande; voir pièce A‑1, à l’onglet 1.
+La procédure régissant la détermination tire sa source des paragraphes 152(1), (1.01) et (1.2) de la Loi de l’impôt sur le revenu. Ces dispositions créent une procédure de détermination qui intègre par renvoi bon nombre des dispositions concernant les cotisations, les oppositions et les appels et exige qu’elles soient appliquées avec les adaptations nécessaires. Les passages pertinents de ces dispositions sont ainsi libellés :
+152(1) Cotisation — […]
+(1.01) Détermination de l’admissibilité au crédit d’impôt pour personnes handicapées — À la demande d’un particulier faite sur le formulaire prescrit, le ministre, avec diligence, détermine si une somme est déductible en application de l’article 118.3, ou le serait en l’absence de l’alinéa 118.3(1)c), dans le calcul de l’impôt à payer par le particulier en vertu de la présente partie pour une année d’imposition et envoie un avis de la détermination au particulier.
+[…]
+(1.2) Dispositions applicables — Les alinéas 56(1)l) et 60o), la présente section et la section J, dans la mesure où ces dispositions portent sur une cotisation ou une nouvelle cotisation ou sur l’établissement d’une cotisation ou d’une nouvelle cotisation concernant l’impôt, s’appliquent, avec les adaptations nécessaires, à toute détermination ou nouvelle détermination effectuée selon le paragraphe (1.01) et aux montants déterminés ou déterminés de nouveau en application de la présente section ou aux montants qui sont réputés par l’article 122.61 être des paiements en trop au titre des sommes dont un contribuable est redevable en vertu de la présente partie. Toutefois :
+a) les paragraphes (1) et (2) ne s’appliquent pas aux déterminations ou aux montants déterminés en application des paragraphes (1.01), (1.1) et (1.11);
+[…]
+[5] Il convient de noter que le texte qui figure ci‑après et à l’annexe A [de la version anglaise de la Loi] est quelque peu différent de la Loi codifiée qui se trouve sur le site Web du ministère de la Justice. Il y a au moins trois différences, mais aucune d’entre elles ne donne à penser que le sens concret est différent; l’une d’entre elles est assez considérable et constitue un ajout redondant, soit le passage final du sous‑alinéa 118.3(1)a.3)(ii), qui est ainsi libellé :
+[traduction]
+atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience mentale ou physique grave et prolongée dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1),
+L’article 31 de la Loi sur la révision et la codification des textes législatifs est ainsi libellé :
+31(1) Tout exemplaire d’une loi codifiée ou d’un règlement codifié, publié par le ministre en vertu de la présente loi sur support papier ou sur support électronique, fait foi de cette loi ou de ce règlement et de son contenu. Tout exemplaire donné comme publié par le ministre est réputé avoir été ainsi publié, sauf preuve contraire.
+(2) Les dispositions de la loi d’origine avec ses modifications subséquentes par le greffier des Parlements en vertu de la Loi sur la publication des lois l’emportent sur les dispositions incompatibles de la loi codifiée publiée par le ministre en vertu de la présente loi.
+[Non souligné dans l’original.]
+Je note également que l’article 27 de la Loi sur la révision et la codification des textes législatifs prévoit ce qui suit :
+27 Le ministre, dans le cadre de la tenue d’une codification des lois ou des règlements, peut :
+a) exclure toute loi ou tout règlement — ou toute partie d’une loi ou d’un règlement — périmé, abrogé ou ayant rempli son objet;
+b) inclure toute note historique ou autre renseignement qui améliore la qualité de la codification;
+c) corriger les erreurs grammaticales et typographiques, sans toutefois changer le fond;
+d) établir comme une loi ou un règlement distinct une loi ou un règlement pris dans le cadre d’une autre loi ou d’un autre règlement.
+[Non souligné dans l’original.]
+Les autres différences mineures ne semblent pas être visées à l’alinéa 27c) de la Loi sur la révision et la codification des textes législatifs.
+La version correcte est celle qui figure dans le texte et à l’annexe A.
+[6] Il s’agit en quelque sorte d’une simplification, mais cela suffit en l’espèce, vu que le débat est assez limité.
+[7] Il semble qu’il s’agit là de l’interprétation correcte de l’alinéa 118.3(1)a.1), mais on pourrait affirmer que le critère « en l’absence de » modifie également le deuxième volet de l’alinéa a.1); cependant, la mention du critère « en l’absence de » à l’alinéa a.2), mais pas à l’alinéa a.3), semble empêcher une telle interprétation même s’il est difficile de comprendre la justification de principe de ce qui semble être une interprétation correcte de la disposition. Quoi qu’il en soit, il n’est pas nécessaire que je tranche ce point, puisque l’affaire relève du premier volet.
+[8] Il est manifeste que l’absence de soins thérapeutiques aurait des effets graves et très négatifs sur l’enfant.
+[9] À un moment donné au cours de l’audience, j’ai pensé que l’intimée pourrait également faire valoir que X ne pouvait pas être admissible, parce qu’il n’y avait pas alors de limitation marquée, compte tenu de la décision Jasinski c. Canada, [1996] A.C.I. 647 (QL). La décision Jasinski n’étaye pas un tel argument, parce que, même si les dispositions de la Loi, telles qu’elles étaient libellées dans les années en question, exigeaient en effet l’existence d’une limitation marquée réelle, la disposition relative au critère « en l’absence de » aux alinéas 118.3(1)a.1) et a.2) n’avait pas encore été adoptée au moyen de modifications ultérieures à la Loi. Il est bien évident qu’il n’est pas nécessaire qu’il y ait une limitation marquée réelle, pourvu que les conditions du critère « en l’absence de » soient respectées. À l’examen de la transcription des observations de l’avocat de l’intimée, j’ai conclu que l’intimée soutenait simplement qu’il est nécessaire qu’il y ait une limitation marquée ou ce qui serait une limitation marquée en l’absence de soins thérapeutiques qui respectent les exigences prévues par la Loi.
+Il est également évident, aux pages 9 à 12 de la transcription, particulièrement la conclusion à la fin de la page 12 et au début de la page 13, que la Couronne soutient que, si des soins thérapeutiques étaient fournis comme l’exige la Loi, l’enfant serait alors admissible. Cette position est également compatible avec l’alinéa 8a) de la réponse.
+En effet, il y a une autre raison, très technique, pour expliquer pourquoi il y a une seule question en litige, qui est celle de savoir si les soins thérapeutiques de X respectent les exigences de la Loi.
+La réponse à l’avis d’appel, qui n’a pas été rédigée par l’avocat du ministère de la Justice, comporte, au paragraphe 1, une dénégation générale des allégations faites dans l’avis d’appel et énonce, au paragraphe 5, les hypothèses de fait suivantes :
+a) l’appelante est la mère de l’enfant (X), née en 2013;
+b) le 29 mai 2015, le médecin autorisé et qualifié de l’appelante, le Dr Murray Potter, a rempli le formulaire T2201 — Certificat pour le crédit d’impôt pour personnes handicapées;
+c) le Dr Potter a précisé dans le certificat que l’enfant (X) était limité de façon marquée quant à sa capacité de s’alimenter et qu’elle avait besoin d’un traitement de survie. Il a aussi indiqué que X avait reçu un diagnostic de phénylcétonurie (« PCU »), que la PCU est traitée au moyen d’un régime modifié et qu’il s’agissait d’un traitement de survie dont (X) avait besoin.
+Aucun autre fait n’est supposé ou allégué.
+Les hypothèses de fait du ministre, exposées dans la réponse, ne sont pas suffisantes pour justifier la détermination qu’il a effectuée. En effet, si, au début de l’audience, l’appelante n’avait présenté aucune preuve, l’intimée aurait eu à présenter une preuve pour appuyer sa détermination, et l’appel aurait certainement été accueilli si elle ne l’avait pas fait. Le juge Hugessen, s’exprimant au nom de la Cour d’appel fédérale dans l’arrêt Pollock c. Canada, [1993] A.C.F. 1055 (QL), a formulé les observations suivantes :
+[traduction]
+20 Cependant, lorsque le ministre n’a plaidé aucune supposition ou lorsque les suppositions qu’il a plaidées ont été en tout ou en partie démolies, il reste la possibilité au ministre, en tant que défendeur, de prouver, s’il le peut, le bien‑fondé de la cotisation qu’il a établie. À cette fin, il doit supporter le fardeau de preuve qui incombe ordinairement à toute partie à un procès, soit celui de prouver les faits qui étayent sa prétention à moins que ceux‑ci n’aient déjà été introduits en preuve par son adversaire. C’est une question de droit qui a fait l’objet d’une jurisprudence constante.
+La citation est également applicable lorsqu’on n’a pas formulé suffisamment d’hypothèses. Lorsque le ministre n’a pas formulé suffisamment d’hypothèses, il doit supporter le fardeau de preuve habituel d’établir les faits qu’il n’a pas supposés et qui sont nécessaires pour appuyer sa position, à moins que ces faits aient été introduits autrement en preuve.
+En ce qui concerne la preuve présentée à l’audience, la seule question qui peut se poser est de savoir si l’exigence de 14 heures par semaine, abordée plus loin, est respectée. Enfin, je tiens à souligner qu’il est inutile d’aborder le motif sur lequel le ministre s’appuie à l’alinéa 8b) de la réponse; l’appelante n’a pas soutenu que l’enfant était limité de façon marquée à ce moment‑là.
+[10] Je noterais simplement que, comme ils préviennent des lésions cérébrales graves et permanentes, les soins thérapeutiques sont essentiels au maintien d’une fonction vitale, en l’occurrence un cerveau qui fonctionne normalement. En l’absence de ces soins, la capacité d’accomplir une activité courante de la vie quotidienne, à savoir les fonctions mentales nécessaires à la vie quotidienne, serait limitée de façon marquée. De plus, il est manifeste que la gestion de la consommation de PHE n’aurait pas d’effet bénéfique sur une personne qui n’est pas atteinte de PCU.
+[11] Voir la pièce A‑1, onglet 1, pour le formulaire T2201 rempli. Je suis convaincu que le formulaire respecte l’exigence d’une attestation d’un médecin prévue à l’article 118.3. Au cours de l’audience, l’intimée a soulevé un problème concernant le formulaire, mais n’a pas étayé la question davantage dans sa plaidoirie. L’intimée avait raison de ne pas le faire; notamment, le formulaire indique que la capacité de X de s’alimenter est limitée de façon marquée, ce qui n’est pas ce que démontre la preuve. X semble être capable de s’alimenter elle‑même tout comme n’importe quel autre enfant de son âge. Cela n’a pas d’importance dans la mesure où l’article n’exige pas qu’il y ait une limitation marquée réelle lorsque le critère « en l’absence de » est respecté. En outre, il ressort clairement de la preuve que les activités courantes de la vie quotidienne qui seraient limitées en l’absence de soins thérapeutiques sont des fonctions mentales nécessaires à la vie quotidienne. Cependant, à la lecture du reste du formulaire, particulièrement les questions concernant les soins thérapeutiques à la page 7, les questions sur la durée à la page 9 de même que l’exposé des faits rédigé par le Dr Potter aux pages 7 et 9, il est évident qu’il existe une attestation appropriée. Cette conclusion est davantage renforcée à la lecture des lettres du Dr Potter présentées en preuve.
+Je soulignerais simplement que l’utilisation du formulaire en preuve n’est pas évidente dans le cas d’une personne qui n’a pas actuellement de limitations marquées, mais qui en aurait en l’absence de soins thérapeutiques. Je reconnais que le critère en jeu est très difficile à décrire de manière claire et succincte, mais l’Agence du revenu du Canada (l’« ARC ») devrait peut-être examiner sérieusement le libellé employé dans le formulaire et la possibilité de l’améliorer. J’ai analysé le formulaire actuel sur le site Web de l’ARC, et il demeure difficile de l’utiliser dans une telle situation; j’ai également passé en revue les directives qui se trouvent actuellement sur le site et j’ai noté que le guide RC4064(F) Rev. 16 n’indique pas clairement qu’une personne qui aurait une limitation marquée, en l’absence de soins thérapeutiques qui respectent les critères prévus par la Loi, serait néanmoins admissible. Encore une fois, je reconnais qu’il est difficile de rédiger clairement les critères, mais l’ARC devrait envisager de revoir ses directives et son formulaire.
+[12] Pièce A‑1, onglet 3.
+[13] Si je comprends bien, la préparation ne contient pas du tout de PHE — ou contient une quantité tellement faible qu’elle n’est pas mesurable (p. ex., l’inscription relative à l’apport de PHE pour le 2 février 2017, à la première page de l’onglet 9 de la pièce A‑1, ne montre aucune PHE pour chacun des quatre moments où l’enfant a bu sa préparation).
+[14] Voir la pièce A‑1, onglet 15.
+[15] Voir les photographies à l’onglet 10 de la pièce A‑1.
+[16] Un échantillon de formulaire se trouve à l’onglet 5 de la pièce A‑1.
+[17] À l’onglet 6 de la pièce A‑1, il semble y avoir une liste partielle de certains aliments thérapeutiques couverts par le programme, mais tous les aliments de ce genre sont loin d’être couverts. Voir la page 71 de la transcription. Voir également la page 3 de la lettre datée du 21 mai 2015, à l’onglet 1 de la pièce A‑1.
+[18] Voir l’onglet 15 de la pièce A‑1.
+[19] Au cours de l’audience, l’appelante a essayé de présenter une preuve établissant que l’ARC peut parfois se montrer incohérente dans le traitement des demandes de CIPH concernant les personnes atteintes de PCU. Comme je l’ai précisé à l’audience, une telle preuve n’est pas pertinente, et ce, pour deux raisons.
+Premièrement, dans n’importe quel cas, le traitement adéquat de la demande d’une personne repose sur les circonstances factuelles précises de la demande en question, par exemple, le nombre précis d’heures consacrées à l’administration des soins thérapeutiques, si toutes les autres conditions prévues à l’article 118.3 sont respectées.
+Deuxièmement, les pratiques et les incohérences administratives dans l’application concrète de la loi ne peuvent pas changer celle‑ci. Il est manifeste, depuis le Bill of Rights [anglais] de 1689, que le pouvoir exécutif ne peut pas suspendre la loi. Le Bill of Rights de 1689 prévoit notamment ce qui suit :
+[traduction]
+[…]
+Pouvoir de dispense
+Que le prétendu pouvoir de l’autorité royale de suspendre les lois ou leur exécution sans le consentement du Parlement est illégal.
+Pouvoir de dispense exercé par le passé
+Que le prétendu pouvoir de suspendre les lois ou leur exécution que l’autorité royale s’est attribué et a exercé par le passé est illégal.
+[…]
+Cela a été intégré dans notre droit au moyen du libellé suivant, au premier paragraphe de la Loi constitutionnelle de 1867 : « avec une constitution reposant sur les mêmes principes que celle du Royaume‑Uni ». Dans l’arrêt Canada (Pêches et Océans) c. Fondation David Suzuki, 2012 CAF 40, le juge Mainville a brièvement exposé l’historique du Bill of Rights de 1689 ainsi :
+71 […] Les deux principes directeurs de la constitution britannique – sur laquelle la nôtre est modelée – sont la souveraineté du Parlement et la primauté du droit. Ces principes constitutionnels furent en grande partie élaborés en conséquence directe et indirecte de la Guerre civile anglaise du XVIIe siècle. La lutte longue, difficile et souvent sanglante qui opposa durant cette période la monarchie et le Parlement s’acheva par la victoire des parlementaires avec la « Glorieuse Révolution », qui permit l’avènement de Guillaume et Marie d’Orange et mena à l’adoption du Bill of Rights de 1689, puis de l’Act of Settlement de 1701.
+72 C’est ainsi que la marche de l’histoire entraîna la subordination des pouvoirs de la monarchie aux lois du Parlement. Avant le Bill of Rights de 1689, l’autorité royale prétendait [TRADUCTION] « s’attribuer et exercer le pouvoir de dispenser des lois ou de leur exécution, et de suspendre les lois ou leur exécution, sans le consentement du Parlement » (préambule du Bill of Rights de 1689). Le Bill of Rights de 1689, tout en consacrant le principe de la souveraineté du Parlement, conférait implicitement aux tribunaux judiciaires, en particulier aux cours de common law, le pouvoir d’interpréter les lois du Parlement et de réprimer les actes illicites des représentants de la Couronne. Ceci se trouva plus tard confirmé par l’Act of Settlement de 1701, qui établissait l’indépendance du pouvoir judiciaire.
+73 Le Bill of Rights de 1689, l’Act of Settlement de 1701 et les principes constitutionnels découlant de ces deux lois ont ainsi subordonné la Couronne et ses représentants aux lois du Parlement […]
+[20] [1998] A.C.F. no 169 (QL), au paragraphe 10.
+[21] Ces commentaires se trouvent au paragraphe 45 de la décision Radage c. Canada, [1996] A.C.I. no 730 (QL). Les commentaires ont été repris dans un certain nombre d’affaires subséquentes, y compris, récemment, dans la décision McDermid c. La Reine, 2014 CCI 264; voir au paragraphe 9 des motifs de la juge Woods, maintenant juge à la Cour d’appel fédérale.
+[22] Bien qu’il s’agisse en quelque sorte d’un rendez‑vous médical, il ne serait pas conforme à l’esprit des présentes dispositions d’inclure dans l’exception relative au rendez-vous médical le temps consacré par un patient à subir, par exemple, une dialyse.
+[23] Voir l’onglet 7 de la pièce A‑1. Je compte deux fois le temps consacré aux prises de sang, parce que l’enfant interrompt ses activités courantes au cours de cette période et que, simultanément, l’appelante doit consacrer ce temps à la supervision de sa fille, car cette dernière ne pourrait pas se rendre seule à l’hôpital pour ses prises de sang.
+[24] Même s’il est précisé dans la lettre du Dr Potter qu’aucune ordonnance n’est nécessaire en général pour obtenir des aliments thérapeutiques, l’appelante a affirmé dans son témoignage qu’elle était nécessaire. Je crois que cela importe peu, mais si je devais me prononcer à cet égard, je conclurais que, bien qu’une ordonnance ne soit pas nécessaire pour obtenir des aliments thérapeutiques, comme c’est le cas de la préparation thérapeutique ou de médicaments sur ordonnance, l’accès au programme de l’Ontario exige qu’un médecin fasse le diagnostic approprié afin de confirmer que l’aliment thérapeutique est nécessaire. De plus, compte tenu du fait que l’aliment thérapeutique doit être pris sous la surveillance d’un médecin, la situation, bien que différente, s’apparente étroitement avec celle d’un médicament sur ordonnance.
+[25] Par exemple, une quantité qui tient dans le creux de la main.
+[26] La PHE dans les trois composantes des soins thérapeutiques, c’est-à-dire la préparation thérapeutique, les aliments thérapeutiques et les aliments ordinaires. Même si la préparation ne contient pas de PHE, l’appelante a expliqué que, si, à la fin de la journée, l’enfant n’a pas consommé assez de PHE, elle pourrait ajouter une très petite quantité de lait de vache — une once, par exemple — à la dernière préparation de la journée.
+[27] Onglet 7 de la pièce A‑1 et annexe B.
+[28] Voir également à l’onglet 7 de la pièce A‑1 pour les estimations de temps réelles.

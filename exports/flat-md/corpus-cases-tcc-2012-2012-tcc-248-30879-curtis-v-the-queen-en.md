@@ -1,0 +1,189 @@
+---
+title: "Curtis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30879/index.do"
+last_modified: "2012-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 248"
+citation2: ""
+neutral_citation: "2012 TCC 248"
+decision_date: "2012-07-12"
+language: "en"
+item_id: "30879"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7378
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:17:13.207000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47e59fa7ef54a886ac3621ba69aaff2361fdd37e0640ea686491695a4c407d58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Curtis v. The Queen
+
+- Citation: 2012 TCC 248
+- Decision date: 2012-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7378, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Curtis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-07-12
+Neutral citation
+2012 TCC 248
+File numbers
+2011-580(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-580(IT)I
+BETWEEN:
+PETER CURTIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 23, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+Michael Ashmore
+Counsel for the Respondent:
+Christopher M. Bartlett
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act with respect to the Appellant’s 2005, 2006 and 2007 taxation years are dismissed in accordance with the attached reasons for judgment.
+Signed at Kelowna, British Columbia, this 12th day of July 2012.
+"Patrick Boyle"
+Boyle J.
+Citation: 2012 TCC 248
+Date: 20120712
+Docket: 2011‑580(IT)I
+BETWEEN:
+PETER CURTIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The issue in these appeals concerns whether the section 31 restricted farm loss rules of the Income Tax Act (the “Act”) applied to Mr. Curtis’s 2005 to 2007 farm losses.
+[2] Farming is a particular type of activity. At times it may be difficult to discern if one’s activity constitutes a business. If one’s farming activity does constitute a source of business income, then losses will be restricted by section 31 of the Act unless farming, at least in part, constitutes a chief source of income for the taxpayer that year.
+[3] In this case, the Respondent has not denied that the taxpayer’s farming activities constituted a business. Nor has the Respondent disputed the business expenses claimed by the taxpayer. Thus, the only issue is whether the restricted farm loss rules in section 31 of the Act apply to Mr. Curtis’s farming losses. This will be determined by deciding whether or not farming, or a combination of farming and some other source of income, was his chief source of income in the years in question.
+I. Facts
+[4] Mr. Peter Curtis grew up in the Cornish countryside. He always loved farming and working with animals. His parents were not farmers but his neighbours were. When he played with his friends who lived on nearby farms, he naturally ended up helping out with farm chores. In his youth, he was a member of the Young Farmers’ Club (“YFC”), a British equivalent of sorts to 4‑H Clubs. At YFC, he enjoyed farming demonstrations including one on sheep shearing. His association with farms started when he was 8 years old and continued until he immigrated to Canada when he was 16 in 1962. When he was 16 and arrived in Canada, he worked for about a year on a dairy farm in Southern Ontario.
+[5] Mr. Curtis trained as a mechanic, having apprenticed with Mercedes‑Benz. He worked for a time as a mechanic at Mazda and Toyota dealerships. In 1976, he started working with CP Air as a ground equipment worker, and worked as a mechanic on gas and diesel engines and electric motors. This employment continued full time under Air Canada until Mr. Curtis retired in 2008.
+[6] In 1994, while employed full time at Air Canada, he purchased a 230‑acre farm in Dundalk, Ontario. Of this, about 150 acres were arable, though the farm had not been active and the fields had not been in production for some years. He described it as rundown at that time. Mr. Curtis and his family lived in a substantial brick farmhouse on the property.
+[7] The farm was about 100 km from his place of employment at Pearson Airport in Mississauga. He estimated this took over an hour each way to drive during his workday commutes.
+[8] It was Mr. Curtis’s intention to run a cow‑calf beef operation. No formal business plan was thought through or prepared. In his words, it had been his dream since childhood to have his own farm. He aimed to build it up to have 40 cows and to harvest crops sufficient to feed them and their calves until sold. He hoped, estimated or expected that 40 cows would produce about 32 to 35 calves annually which could be sold for about $700 when raised to about 700 lbs which would take 12 to 18 months. That is, when fully developed, the gross revenues from his cow‑calf operations would be in the range from $22,500 to $24,500. He did not expect to regularly produce excess hay or feed to sell, and expected that the occasional bumper crop year would yield him a small bonus revenue.
+[9] He never did build his operations up to his target level, although in 1996 and 1999 his calf sales revenues were in or near his desired range.
+[10] He suffered several unanticipated and unforeseeable setbacks that affected his farm operations. His old original barns burnt down in 1996 due to an electrical failure. Without barns or stored feed, he had to liquidate his herd. He rebuilt new barns with his insurance proceeds.
+[11] Later in 1996 or early in 1997, he had a substantial accident which left him unable to work on the farm for a year or longer.
+[12] His cow‑calf operations only returned to normal after the barns were rebuilt and he had recovered from his accident. In the interim approximate two years, he was able to sell more of his crops and his crop sales revenues increased as he had fewer cattle to feed. His cow‑calf sales resumed in 1999 and had amongst its best years revenue wise.
+[13] In 2003, the adverse effects of Mad Cow Disease set in and significantly wiped out the beef market prices through 2007. Calf prices were a fraction of what they had been previously. Market prices started to pick up in 2008 and 2009 and are now back to where they used to be.
+[14] Each year, Mr. Curtis’s farming operations have resulted in a loss. In 2005, 2006 and 2007, his losses were approximately $15,500, $28,000 and $104,000 respectively. He stopped operating the farm business in 2010, having concluded that the tax reassessments effectively precluded him from continuing. He has put his farm property up for sale and anticipates a capital gain which will exceed his business losses.
+[15] In addition to his farm business income, two wind turbines were built on his farm on arable parts of the land. It is not clear when they were built or when land leases were signed. They were not operational until 2008. Mr. Curtis had been in discussion with the operators in the years in question. He now receives rental income of approximately $18,000 annually from the operation.
+[16] Throughout his farming years, Mr. Curtis worked full time at Air Canada. His employment income in the three years in question was a base annual salary of approximately $60,000, but was significantly higher with overtime and was approximately $75,000 in 2006 and $100,000 in 2007. During these years, he worked full-time hours over a four‑day work shift followed by four days off. His four shifts worked in eight days is the equivalent of five eight‑hour days worked every seven days in the traditional five‑workday seven‑day week.
+[17] Mr. Curtis’s evidence of the time spent working on the farm is not entirely satisfactory. In his original Canada Revenue Agency (“CRA”) farming questionnaire, he chose not to estimate the time spent working on the farm where that question was specifically asked. He simply said that after returning home from work, he would feed, bed and tend to the animals as necessary, that on weekends he would at times clean out the barn or walk the fence line, and that he would spend his entire five‑week vacation haying.
+[18] Mr. Curtis updated his questionnaire shortly before the trial and it appeared clear from his testimony that he did this with input from his accountant representative. He estimated then that he spent 14 hours each day, seven days a week, for five straight weeks of vacation haying. I believe this to be somewhat heavy and unreliable based upon his description of what he actually did, weather requirements, etc. He also estimated that in the spring and fall, he spent four hours a day five days a week, and eight hours a day twice a week, for 27 days, tending to the cattle, mucking out the barn, and attending to the electric fence. In the winter, he estimated 14 hours per week for 20 weeks tending to the cattle inside the barn and mucking it out. Based upon his testimony of what he did, especially in cross‑examination, I suspect his estimates are somewhat heavy and unreliable for the spring and fall as well. I do not accept as reasonable his explanation that he must have forgotten his calving time in coming up with his detailed estimates, or the estimates in testimony of the time he spent at calving. It would be an odd thing to forget in a cow‑calf business. Also, he had earlier testified that no one needed to be in attendance for calving, and it often occurred, while he was away at work or sleeping in bed. I suspect it is not a coincidence that his new estimates totalled 1,742 hours worked on the farm compared with 1,739 hours worked at Air Canada (which excludes his significant commute time). As discussed below, I am not deciding this case based upon the issue of whether the hours actually spent working on the farm were or were not as estimated. Family farming in Canada is a labour-intensive process, often involving very long hours for little financial reward. I accept that Mr. Curtis spent many long hours working on his farm, but on balance I find it would have been significantly less than the time he spent working at and commuting to and from his Air Canada employment.
+[19] Mr. Curtis needed farm equipment to operate the farm, in particular for his haying. He purchased two tractors ($39,000), a skid steer ($8,000), a hay baler ($18,500), a hay binder ($5,000), and a hay rake and hay wagon ($1,000) as well as a manure spreader ($2,500). This totals almost $75,000.
+[20] In addition, he expensed his farm use of his pickup truck (totalling over $25,000 in the three years in question), and also made use of an all-terrain vehicle (“ATV”) on the farm.
+[21] His average expenses included annual interest of approximately $7,500 in the years in question, insurance of approximately $2,000 to $3,000, property taxes of approximately $1,500, and electricity approaching $2,000. These four operating costs are relatively fixed and predictable and alone significantly exceeded his aggregate farm revenues in the three years in question. These average 2005 through 2007 amounts alone would also have exceeded his cattle sales in all but three of his 17 years of operations. There were, of course, all of the other expenses of operating a farm which I need not itemize.
+[22] While the amount of expenses deducted in computing the losses have not been challenged, I must observe that Mr. Curtis had difficulty recalling and explaining the nature, characterization, and amounts involved.
+[23] Mr. Curtis’s tax return described the farming operation as a partnership with his wife. He claimed 100% of the losses in the years in question — sometimes described as 99.99%. According to Mr. Curtis, his wife did not ever work on the farm; she only worked part‑time at her employment. He said she had loaned him an unspecified amount of money to be used on the farm. Mr. Curtis was the only witness; his wife did not testify. He described the partnership nonetheless as fifty‑fifty. He was candid in saying that the losses were allocated between them based upon tax decisions taken by his tax return preparer for tax purposes. In the years in question, he claimed all of the losses. In some of the other years, they were shared fifty-fifty. In any event, the Respondent does not challenge the existence of the partnership or the reasonableness of the loss allocation between the partners.
+II. Law
+[24] The leading decision on restricted farm losses is that of the Supreme Court of Canada in Moldowan v. The Queen[1] in 1978. In that case, one of the things the Supreme Court of Canada had to consider was when a source of income would constitute a “chief source” of income, and what was required for a person’s chief source of income, if not farming, to be a “combination of farming and some other source of income”.
+[25] On the meaning of “chief source” of income, the Supreme Court of Canada wrote:
+Whether a source of income is a taxpayer’s “chief source” of income is both a relative and objective test. It is decidedly not a pure quantum measurement. A man who has farmed all of his life does not cease to have his chief source of income from farming because he unexpectedly wins a lottery. The distinguishing features of “chief source” are the taxpayer’s reasonable expectation of income from his various revenue sources and his ordinary mode and habit of work. These may be tested by considering, inter alia in relation to a source of income, the time spent, the capital committed, the profitability both actual and potential. A change in the taxpayer’s mode and habit of work or reasonable expectations may signify a change in the chief source, but that is a question of fact in the circumstances.[2]
+[26] It is clear in Mr. Curtis’s case that farming was not his chief source of income and this argument was not advanced.
+[27] The question to be decided in Mr. Curtis’s case is whether his chief source of income was a combination of his farming activities and his Air Canada employment.
+[28] On this issue, the Supreme Court of Canada in Moldowan wrote:
+It is clear that “combination” in s. 13 cannot mean simple addition of two sources of income for any taxpayer. That would lead to the result that a taxpayer could combine his farming loss with his most important other source of income, thereby constituting his chief source. I do not think s. 13(1) can be properly so construed. Such a construction would mean that the limitation of the section would never apply and, in every case, the taxpayer could deduct the full amount of farming losses.
+In my opinion, the Income Tax Act as a whole envisages three classes of farmers:
+(1) a taxpayer, for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine. Such a taxpayer, who looks to farming for his livelihood, is free of the limitation of s. 13(1) in those years in which he sustains a farming loss.
+(2) the taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood but carries on farming as a sideline business. Such a taxpayer is entitled to the deductions spelled out in s. 13(1) in respect of farming losses.
+(3) the taxpayer who does not look to farming, or to farming and some subordinate source of income, for his livelihood and who carries on some farming activities as a hobby. The losses sustained by such a taxpayer on his non-business farming are not deductible in any amount.
+The reference in s. 13(1) to a taxpayer whose source of income is a combination of farming and some other source of income is a reference to class (1). It contemplates a man whose major preoccupation is farming. But it recognizes that such a man may have other pecuniary interests as well, such as income from investments, or income from a sideline employment or business. The section provides that these subsidiary interests will not place the taxpayer in class (2) and thereby limit the deductibility of any loss which may be suffered to $5,000. While a quantum measurement of farming income is relevant, it is not alone decisive. The test is again both relative and objective, and one may employ the criteria indicative of “chief source” to distinguish whether or not the interest is auxiliary. A man who has farmed all of his life does not become disentitled to class (1) classification simply because he comes into an inheritance. On the other hand, a man who changes occupational direction and commits his energies and capital to farming as a main expectation of income is not disentitled to deduct the full impact of start‑up costs.[3]
+[Emphasis added.]
+[29] There is some uncertainty currently regarding the Supreme Court of Canada’s analysis in Moldowan of the meaning of the phrase combination of farming and other source of income as a result of the Federal Court of Appeal’s decision in Gunn v. Canada[4] and more recently in Canada v. Craig.[5] The Supreme Court of Canada has granted leave to appeal the Craig decision and that final appeal remains pending. The section 31 issue before the courts in Gunn and Craig is whether the combination question necessarily means a combination of sources of income in which farming predominates.
+[30] The Federal Court of Appeal in Gunn wrote:
+83 In my view, the combination question should be interpreted to require only an examination of the cumulative effect of the aggregate of the capital invested in farming and a second source of income, the aggregate of the income derived from farming and a second source of income, and the aggregate of the time spent on farming and on the second source of income, considered in the light of the taxpayer’s ordinary mode of living, farming history, and future intentions and expectations. This would avoid the judge-made test that requires farming to be the predominant element in the combination of farming with the second source of income, which in my view is a test that cannot stand with subsequent jurisprudence. It would result in a positive answer to the combination question if, for example, the taxpayer has invested significant capital in a farming enterprise, the taxpayer spends virtually all of his or her working time on a combination of farming and the other principal income earning activity, and the taxpayer’s day to day activities are a combination of farming and the other income earning activity, in which the time spent in each is significant.
+[31] In Craig v. The Queen,[6] Justice Hershfield in the Tax Court of Canada wrote:
+53 The challenge in Gunn is to assess how material the farming source contribution must be to the aggregation formula. Other authorities suggest that the contribution need not be quantitatively substantial (as held in Taylor v. Canada and Kroeker). However, in my view, it is implicit in Gunn that the farming source must make a meaningful contribution to the aggregation formula so as to suggest that farming is or has the potential to be a chief source.
+[Footnotes omitted.]
+[32] The Federal Court of Appeal in Craig dealt only with the issues of whether the Tax Court Judge should have applied the Gunn decision as it is arguably inconsistent with the decision of the Supreme Court of Canada in Moldowan, and whether the Tax Court Judge misapplied Gunn in Mr. Craig’s particular facts.
+[33] Regardless of the outcome of the issue of whether farming must be a predominant and not a subordinate source of income in a combination of income restricted farm loss case, I am of the opinion that Mr. Curtis’s appeals cannot succeed. If it is required that farming income predominate in a combination, Mr. Curtis fails this test each year. If it is not a requirement that Mr. Curtis’s farming income predominate, as detailed below, I am satisfied on facts in evidence and described above that, once the factors enumerated in Moldowan and in Gunn of reasonable expectation of income, ordinary mode and habit of work, time spent, capital committed, actual and potential profitability, ordinary mode of living, farming history, and future intentions and expectations, are considered and applied, Mr. Curtis is subject to the restricted farm loss rules in section 31 of the Act as he is not a person whose chief source of income is farming or whose chief source of income is from a combination of his farming activities and another source.
+[34] In order to be part of one’s chief source of income, profitability remains one of the significant considerations throughout the Moldowan, Gunn and Craig analysis of the appellate courts.
+[35] In this case, in considering the Moldowan and Gunn sideline farming considerations, it is apparent that Mr. Curtis invested a significant amount of capital in his farming operations, his mode of living revolved around a farm on which he lived and involved time spent regularly on his farming activities. All of this, notwithstanding that his farming history until starting his farm in Dundalk was light. However, Mr. Curtis fails the chief source of income test based upon intentions and expectations, actual income derived from his activities, and profitability, actual and potential.
+[36] As quoted above in Moldowan, the actual and potential profitability of one’s farming activities is relevant to determining one’s chief source of income and whether a source of income can be part of a combination of incomes that together are one’s chief source of income.
+[37] Similarly, in Gunn, the Federal Court of Appeal turned its mind to the potential to be profitable in determining one’s chief source of income. In paragraphs 85 and 86, Justice Sharlow wrote:
+85 The Judge’s answer to the principal question is based on the Moldowan principles for determining a taxpayer’s chief source of income, combined with the comment from Morrissey v. Canada (cited above) to the effect that if it is unlikely that the taxpayer’s farming operations will ever be profitable, notwithstanding all the time and capital the taxpayer is willing and able to devote to farming, the conclusion must be that farming is not a chief source of the taxpayer’s income.
+86 In my view, Morrissey is not an apt precedent for the case of Mr. Gunn. The statement in Morrissey referred to above was made in the context of a case in which the taxpayer’s own evidence indicated that he doubted the future profitability of his farm. Mr. Gunn’s evidence was that he anticipated that his farm had a potential for profit. The Crown adduced no evidence to the contrary, and in fact admitted the potential for future profit. I can find in the record no evidentiary support for the Judge’s conclusion that Mr. Gunn’s farming operations showed no potential for profit. That is a sufficient basis for setting aside the Tax Court judgment. However, there is also a second reason.
+[38] Mr. Curtis testified that, in his own mind, entirely subjectively, he always thought his farm could be profitable. However, his testimony overall, in particular as it relates to his stated intended maximum of 40 cows, clearly made that economically unattainable notwithstanding his unanticipated setbacks of farm fires, personal health and Mad Cow Disease. It is clear to me from his evidence that his farming activities never had a potential in fact to be economically profitable. Further, his accountant/representative acknowledged it would be difficult to ever be profitable if one undertakes farm operations without any plans to have more than 40 cows and selling 32 to 35 calves annually.
+[39] In Craig v. The Queen,[7] Hershfield J. also addressed potential profitability:
+52 My reading of this formulation of the combination test is that it requires that the chief source factors being examined in respect of farming, including potential profitability, be considered relative to the chief source factors being examined in respect of the second source being included in the combination. This is consistent with the directive in Moldowan that profitability be assessed relatively.
+53 The challenge in Gunn is to assess how material the farming source contribution must be to the aggregation formula. Other authorities suggest that the contribution need not be quantitatively substantial (as held in Taylor v. Canada and Kroeker). However, in my view, it is implicit in Gunn that the farming source must make a meaningful contribution to the aggregation formula so as to suggest that farming is or has the potential to be a chief source.
+. . .
+72 I am suggesting then that the test is whether the taxpayer’s mode of operation has sufficient commitment and commerciality and profit potential to be recognized as a chief source applying the Moldowan commitment and profitability criteria. Looking at time spent, capital invested, and a meaningful profit potential arising from a dedication to profitability, the question of whether the taxpayer is recognizable as a committed, viable commercial player in a genuine economic sector of the economy should be readily answered. Such a test will not put recreational farmers in an advantaged position.
+[Footnotes omitted.]
+[40] The Federal Court of Appeal also addressed the significance of potential profitability in Watt v. Canada.[8] In paragraphs 12 and 13 of its decision, the Federal Court of Appeal wrote:
+12 The Appellant argued the that the [sic] Tax Court Judge erroneously placed too much emphasis on the actual or potential profitability of the farming enterprise, and that he placed insufficient emphasis on the other factors referred to by Dickson, J. in Moldowan. We disagree as he did consider the other factors. The Tax Court Judge reviewed in some detail the facts relating to actual and potential profitability and concluded the Appellant could not reasonably anticipate an income or profit from farming.
+13 We are of the view that the Tax Court Judge properly applied the law on this point as outlined by this Court in The Queen v. Morrissey:
+On a proper application of the test propounded in Moldowan, when, as here, it is found that profitability is improbable notwithstanding all the time and capital the taxpayer is able and willing to devote to farming, the conclusion based on the civil burden of proof must be that farming is not a chief source of that taxpayer’s income. To be income in the context of the Income Tax Act that which is received must be money or money’s worth. Absent actual or potential profitability, farming cannot be a chief source of his income even though the admission that he was farming with a reasonable expectation of profit is tantamount to an admission which itself may not be borne out by the evidence, namely, that it is at least a source of income.
+Leave to appeal to the Supreme Court of Canada was refused in the Morrissey case.
+[41] Upon a proper consideration of the factors and following the analytical framework set out in section 31 of the Act, the Moldowan decision and the Gunn decision, and regardless or whether or not Craig is upheld in the Supreme Court of Canada on the issue of whether one’s farming income has the potential to predominate, on the facts of this particular case Mr. Curtis’s appeals must be dismissed for the reasons set out above. One of the significant considerations is the absence in this case of even potential profitability of Mr. Curtis’s farming activities. This remains a key consideration to determining when a source of income can be part of one’s chief source of income regardless of the ultimate outcome in Craig. Neither Mad Cow Disease nor the fire nor his injuries caused the unprofitability. It was unprofitable before these developments and continued to be so thereafter. In his best case scenario of size of herd, sales and prices, his farming activities could never be profitable as carried out by him or planned to be carried out by him.
+[42] For these reasons Mr. Curtis’s appeals for 2005, 2006 and 2007 are dismissed.
+Signed at Kelowna, British Columbia, this 12th day of July 2012.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2012 TCC 248
+COURT FILE NO.: 2011‑580(IT)I
+STYLE OF CAUSE: PETER CURTIS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 23, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: July 12, 2012
+APPEARANCES:
+Agent for the Appellant:
+Michael Ashmore
+Counsel for the Respondent:
+Christopher M. Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1978] 1 S.C.R. 480, 77 D.T.C. 5213 [Moldowan].
+[2] Ibid, at 486.
+[3] Ibid, at 487.
+[4] 2006 FCA 281, 2006 D.T.C. 6544 [Gunn].
+[5] 2011 FCA 22, 2011 D.T.C. 5047 [Craig].
+[6] 2009 TCC 617, 2010 D.T.C. 1032 [Craig v. The Queen].
+[7] Ibid.
+[8] 2001 FCA 72, 2001 D.T.C. 5237.

@@ -1,0 +1,139 @@
+Title: Nowlan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25511/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-803-25511-nowlan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-11-21
+
+# Nowlan v. The Queen
+
+- Citation: 2003 TCC 803
+- Decision date: 2003-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2369, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nowlan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-21
+Neutral citation
+2003 TCC 803
+File numbers
+2003-732(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-732(IT)I
+BETWEEN:
+TOM NOWLAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 1, 2003 at Toronto, Ontario
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bonnie Boucher
+____________________________________________________________________
+JUDGMENT
+Upon motion by the Respondent for an Order quashing the appeal filed for the 1999 taxation year on the ground that the Appellant failed to file a valid Notice of Objection pursuant to subsection 169(1) of the Income Tax Act;
+The appeal with respect to the 1999 taxation year is hereby quashed.
+The appeals from the assessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, without costs.
+Signed at Ottawa, Canada, this 21st day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2003TCC803
+Date: 20031121
+Docket: 2003-732(IT)I
+BETWEEN:
+TOM NOWLAN,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This is an appeal from the 1999, 2000 and 2001 taxation years.
+PART 1- Preliminary Objection concerning the 1999 taxation year.
+ISSUE
+Whether the Notice of Appeal that was filed by the Appellant for the 1999 taxation year is a valid Notice of Appeal.
+[2] Prior to the consideration of the appeals on their merits, the Respondent objected to the hearing of the appeal for the 1999 taxation year on the ground that the Appellant had failed, prior to filing his Notice of Appeal, to serve on the Minister a Notice of Objection to the reassessment for that year as required by sections 165 and 169 of the Income Tax Act (the "Act"). In support of the application, the Respondent relied on the Affidavit of Tracey Cooper, an official with the Toronto Tax Litigation Office of the Canada Customs and Revenue Agency (the "CCRA").
+[3] Attached as Exhibit "A" to the Affidavit of Ms. Cooper is a copy of the Notice of Reassessment for the 1999 taxation year. According to the provisions in the Act, the Appellant had 90 days from December 11, 2000, the date of mailing of the Notice of Reassessment, in which to file his Notice of Objection. He missed the March 11, 2001 deadline. The Appellant then had the option, within the following one-year period, of seeking from the Minister an extension of time within which to file a Notice of Objection. Again, he failed to do so within the time permitted. It wasn't until some eight months later in November 2002 that the Applicant made his request to the Minister. By then, under subsection 169(1), it was too late.
+[4] Accordingly, because the Appellant failed to file a Notice of Objection with the Minister as statutorily required, the Respondent's Motion is granted and the appeal for the 1999 taxation year is quashed.
+PART 2
+ISSUE
+Whether the Appellant is entitled to a deduction for the child support payments made in the taxation years 2000 and 2001.
+FACTS
+[5] The Appellant is appealing from the assessments from the 2000 and 2001 taxation year In computing his income for each of these years, the Appellant sought to deduct child support payments in the amounts of $7,200 and $7,656, respectively.
+[6] By Notices of Assessment dated April 12, 2001 and May 13, 2002, respectively, the Minister disallowed the deduction of the child support payments for these years. The Appellant filed a Notice of Objection. In a Notice of Confirmation dated November 28, 2002, the Minister confirmed the 2000 and 2001 assessments.
+[7] The Appellant testified on his own behalf. No other witnesses were called. Briefly summarized, his uncontroverted testimony was as follows:
+a) he and his former spouse were married in 1979. There were two children born during the marriage. By 1991, the Appellant and his former spouse were living separate and apart;
+b) in 1993, a separation agreement (the "original 1993 agreement") was signed by the Appellant and his former spouse pursuant to which the Appellant was to pay $600 per month commencing January 1, 1993;
+c) the original 1993 agreement was filed with the Family Responsibility Office;
+d) sometime during 1997, the Appellant encountered certain financial difficulties which resulted in, among other things, the accumulation of arrears;
+e) in a letter to the Family Responsibility Office dated January 7, 1998 ("the 1998 agreement"), the Appellant and his former spouse jointly agreed that they had "... been able to resolve the situation by a friendly amendment to the [original 1993 agreement]" and that the Appellant agreed "to pay child support on a monthly basis of $400 not taxable for the 1997 and 1998 years". The 1998 agreement further stated that "if this agreement is broken, then the [original agreement] will be initiated and refiled with the [Family Responsibility Office]";
+f) in March, 1998, the Appellant and his former spouse signed a form T1157 (97) prescribed by Revenue Canada (now "Canada Customs and Revenue Agency") called "Election for Child Support Payments" (the "joint election"). Pursuant to Part B of the form, the joint election was to apply to child support payments starting on May 1, 1997. It was filed with Canada Customs and Revenue Agency where it remained at all times pertinent to this case;
+g) the Appellant made child support payments of $400 per month pursuant to the 1998 agreement until May, 1999. In May, 1999, his child support payment cheque "bounced" thus triggering the provision in the 1998 agreement which read "if this agreement is broken, then the [original 1993 agreement] will be initiated and refiled with the [Family Responsibility Office]";
+h) some time after May, 1999 the original 1993 agreement was refiled with the Family Responsibility Office and the Appellant returned to making payments of $600 per month pursuant to that agreement. This included the payment of arrears for the years 2000 and 2001 in the amounts of $7,200 and $7,656 respectively.
+STATUTORY PROVISIONS
+[8] Subsection 56.1(4) defines "commencement day" as follows:
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+ANALYSIS
+I. Joint Election
+[9] The Appellant did not deny that he and his former spouse had signed the joint election. He further admitted that he understood the effect of signing the joint election was to render the child support payments he was making non-deductible after May 1, 1997. The Appellant argued, however, that he was entitled to the deduction of his child support payments because the reinstatement of the original 1993 agreement had the effect of revoking the joint election and of reinstating the pre-1997 regime.
+[10] While I do not doubt the sincerity of the Appellant's belief in his argument, there was no evidence before the Court to support the revocation, either express or implied, of the joint election. There was no evidence of the intentions of the other signatory to the joint election, the Appellant's former spouse. It is not open to the Appellant to revoke unilaterally the election he and his former spouse jointly signed.
+[11] Once Form T1157 was signed and filed with CCRA, the genie was out of the bottle. Under subparagraph 56.1(4)(b)(i), the "commencement day" became the date specified in the joint election form: May 1, 1997. Any child support payment amounts paid after May 1, 1997 were paid "on or after the agreement's commencement day in respect of a period that began on or after its commencement day" within the meaning of paragraph 60(b). From this it follows that the child support paid in 2000 and 2001 cannot be deductible from the Appellant's income.
+II. Change of Original Agreement or Subsequent Agreement Variation
+[12] The Appellant argued in the alternative that the reinstatement and refiling the original 1993 agreement with the Family Responsibility Office in 1999 had the effect of restoring the pre-1997 deduction/inclusion rules that had originally applied to it. Counsel for the Respondent disputed this saying no such effect was possible. She argued that the various changes brought about by the 1998 agreement and the Appellant's subsequent default under that agreement fell squarely within paragraph 56.1(4)(b). In her view, the 1998 agreement was either a variation of the original 1993 agreement, or a subsequent agreement replacing the original 1993 agreement. In either case, a "commencement day" was triggered under paragraph 56.1(4)(b) and paragraph 60(b) of the Act applied to make the child support payments non-deductible.
+[13] In Kovarik v. Canada, [2001] T.C.J. No. 181, Bowman, A.C.J. explained the impact of the new legislation on pre-1997 agreements:
+[8] Under what I may describe as the old régime (pre May 1997) spouses making payments to separated or ex spouses for the support of children could deduct those payments and the recipient had to include them in income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 C.R. 627, the legislation changed. So long as a pre May 1997 agreement remained unchanged the deduction/inclusion system under the old régime prevailed.
+[9] If a new agreement were entered into, or an old agreement was changed in a particular way, the deduction/inclusion régime ceased and only payments made up to the "commencement day", as defined, were deductible by the payor and includible by the payee.
+[14] The fact is that the 1998 agreement changed the child support from the $600 per month agreed to in the original 1993 agreement to a new child support amount of $400 per month. After the Appellant's default under the 1998 agreement, the child support changed again, reverting to the 1993 amount. Accordingly, whether these changes were a variation of the pre-1997 agreement pursuant to subparagraph 56.1(4)(b)(ii) or resulted in a new agreement, the outcome is the same. A commencement day is triggered and paragraph 60(b) applies to make the child support payments for the taxation years 2000 and 2001 non-deductible.
+[15] Accordingly, this Court has no alternative but to dismiss these appeal
+Signed at Ottawa, Canada, this 21st day of November 2003.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2003TCC803
+COURT FILE NO.:
+2003-732(IT)I
+STYLE OF CAUSE:
+Tom Nowlan and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 1, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+November 21, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bonnie Boucher
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

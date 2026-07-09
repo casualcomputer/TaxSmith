@@ -1,0 +1,223 @@
+---
+title: "Vachon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27391/index.do"
+last_modified: "2006-12-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 669"
+citation2: ""
+neutral_citation: "2006 TCC 669"
+decision_date: "2006-12-06"
+language: "en"
+item_id: "27391"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 148
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:30:35.077000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f67bbdca8b25baf0f1fa5195de66878c39469ce3c5aca74551d41ce1d519df32"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vachon v. The Queen
+
+- Citation: 2006 TCC 669
+- Decision date: 2006-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 148, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vachon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-06
+Neutral citation
+2006 TCC 669
+File numbers
+2005-1380(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1380(IT)G
+BETWEEN:
+LUCIE VACHON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 31, 2006, at Trois-Rivières, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Benoit Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 6th day of December 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+Citation: 2006TCC669
+Date: 20061206
+Docket: 2005-1380(IT)G
+BETWEEN:
+LUCIE VACHON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment made by the Minister of National Revenue ("the Minister") under the Income Tax Act ("the Act") for the 2000 taxation year.
+[2] The principal issues are as follows:
+(a) Did the appellant truly effect a subsection 85(1) rollover of her 45 Class "A" shares in 2743‑0156 Québec Inc. to 9084‑3772 Québec Inc., a holding company,
+(b) If so, was the delay in submitting Form T2057 fatal to its acceptance by the Canada Customs and Revenue Agency ("the Agency")? In addition, does the Tax Court of Canada have the power to review the Minister's discretionary decision to accept or reject the form?
+(c) If not, can the amount received by the appellant upon the sale of her shares be considered a deemed dividend within the meaning of subsection 84(3) of the Act?
+FACTS
+[3] The appellant held 45 Class "A" shares of 2743-0156 Québec Inc., and the paid-up capital, within the meaning of subsection 89(1) of the Act, for all these shares was $45.
+[4] The appellant was married to Claude Martineau until November 30, 1999, when the divorce judgment was pronounced.
+[5] In accordance with the divorce judgment, the parties agreed that the appellant would redeem her 45 Class "A" shares in 2743‑0156 Québec Inc. for $150,000 within 30 days from the judgment.
+[6] However, pursuant to an agreement that they entered into that same day, the parties agreed that the appellant's shares would first be transferred through a subsection 85(1) rollover to a holding company newly incorporated by the appellant's ex-husband, and that these shares would then be redeemed by 2743‑0156 Québec Inc., and ultimately cancelled.
+[7] A holding company, 9084‑3772 Québec Inc., was thus incorporated on November 19, 1999.
+[8] The T2057 rollover form never reached the Agency and thus does not appear with the appellant's 2000 tax return.
+[9] There is no evidence in the record that the appellant actually transferred the Class "A" shares to her holding company, 9084‑3772 Québec Inc.
+[10] The holding company, 9084‑3772 Québec Inc., did not issue any shares to the appellant.
+[11] In January 2000, 2743‑0156 Québec Inc. purchased 45 Class "A" shares of its capital stock over the counter for $150,000.
+[12] As a result, the appellant received from the Minister a notice of assessment dated December 31, 2003, taxing her on a deemed dividend of $149,955 under subsection 84(3) of the Act, and, consequently, on a taxable dividend of $187,444 under paragraphs 82(1)(a) and 12(1)(j) of the Act.
+THE APPELLANT'S SUBMISSIONS
+[13] Essentially, the appellant submits that, as form should not prevail over substance, the delay in submitting the T2057 rollover form should not be fatal to the acceptance of the form by the Minister. Such a penalty for the delay would be a grave injustice.
+[14] The appellant submits that the Tax Court of Canada has jurisdiction to correct the injustice caused by the Minister in failing to accept the form as he could have done pursuant to subsection 85(7.1) of the Act.
+[15] She told the Court that she truly did transfer her Class "A" shares in 2743‑0156 Québec Inc. to the holding company, 9084‑3772 Québec Inc.
+[16] Lastly, she told the Court that since she no longer owned the Class "A" shares of 2743‑0156 Québec Inc. when they were purchased over the counter, she should not suffer the consequences imposed by subsection 84(3) of the Act and should not be assessed for a deemed dividend under that provision.
+THE RESPONDENT'S SUBMISSIONS
+[17] The respondent submits that she cannot accept the rollover under subsection 85(1) of the Act for the following reasons:
+(a) The appellant did not transfer the Class "A" shares to the holding company, 9084-3772 Québec Inc.
+(b) The holding company, 9084-3772 Québec Inc., never issued shares of its capital stock to the appellant.
+(c) The appellant failed to submit the form required by subsection 85(6) of the Act in order to effect the rollover.
+(d) The appellant did not send Form T2057 within the time prescribed by subsections 85(6) and 85(7) of the Act.
+[18] The respondent submits that the Tax Court of Canada does not have jurisdiction to hear the appellant's challenge of the Minister's exercise of his discretion to refuse the appellant's election under subsection 85(1) of the Act. In her submission, only the Federal Court has jurisdiction to review such a decision, and that jurisdiction is conferred by section 18 of the Federal Courts Act, R.S.C. 1985, c. F‑7.
+[19] The respondent asserts that the Minister did not accept the T2057 Form, as he could have done under subsection 85(7.1), because the conditions for a rollover were not met.
+[20] She further submits that the appellant still held the Class "A" shares of 2743-0156 Québec Inc. at the time that that corporation purchased them.
+[21] Lastly, she says that the appellant is subject to subsection 84(3) of the Act and should therefore be taxed on a deemed dividend of $149,955 for her 2000 taxation year.
+[22] Despite the complexity of her case, the appellant was not represented; clearly well prepared and articulate, she sought to tender a number of documents in evidence.
+[23] To avoid having things drag on any longer than necessary, I suggested that the parties meet to look at the various documents that were eventually to be tendered in evidence. The parties did indeed meet to discuss the contents of various documents. Upon returning after the recess, counsel for the respondent made the following statement:
+[TRANSLATION]
+. . .
+Benoit Mandeville: Yes. All right, Your Honour, the respondent will consent to the appellant's documents being tendered in evidence. This having been said, the appellant admitted during our discussions that she has no evidence concerning the transfer of her shares in 2743‑0156 Québec Inc. to her holding company, 9084‑3772 Québec Inc., which was newly created in 1999. She says that in all these documents, or anything else she may have brought with her today, there is nothing to show that she transferred her shares to her holding company. The reason that the appellant has come to Court today — and the appellant can confirm this — is to challenge the respondent's decision to refuse a late election under subsection 85(1), which the Minister had the discretion to do under subsection 85(7.1). So, it seems to be more a matter of challenging the Minister's decision not to accept the election. Would that be an accurate summary?
+[24] The appellant replied:
+[TRANSLATION]
+R. Very good summary. You see, actually . . .
+THE COURT:
+Q. OK, you fully understand what counsel for the respondent just said.
+R. That is correct.
+Q. You agree with everything that he has said?
+R. Yes, Your Honour.
+Q. All right.
+R. It's really a matter of shedding light on the fact the if the rollover form had been filed, I wouldn’t have got a notice of assessment, which results, of course, from a sort of division of assets, but a division of assets following a divorce. Yes, it's a type of share transfer as well, in which I did not have to . . . and there are documents, in what has been submitted to you, that also corroborate that in fact it was left to the ex-husband’s full discretion to take the necessary steps to create the corporation with Gilles Ducharme at the time, and, yes, there may have been some anomalies, but I don't think I would have got a notice of assessment if the rollover form had been done. Because it's not really a deemed dividend. I didn’t use that money. I didn’t have the enjoyment of it. So I think it’s unfair that it be treated as a dividend and that it result in that kind of a notice of assessment. So I still believe that the Department lost no money, nor would it have lost any if the form had been done properly from the start. And what I'm actually asking for is the chance to file that rollover form, with the penalty. I'm prepared to pay up when it comes to the penalty but not the notice of assessment, because, as far as I'm concerned, it is not a deemed dividend. So that's really the reason I'm here this morning.
+. . .
+[25] The appellant seems to believe that the basis of the assessment that she is challenging is essentially tied to the issue of the form and its acceptance following the expiry of the time limit.
+[26] In other words, she submits that the only basis of the notice of assessment is the failure to file the appropriate form for the rollover contemplated in subsection 85(6) of the Act. The rollover form is not as decisive as she thinks, and, contrary to her belief, the issue here is not essentially one of form. Rather, substance is the dominant issue.
+[27] So the first question we must ask is whether the conditions set out in subsection 85(1) of the Act have been met. The second question, which we must ask only if the conditions for the rollover have been met, is whether this Court has the power to review the Minister's discretionary decision to accept or not a rollover form that is filed late.
+A) Have the conditions set out in subsection 85(1) of the Act been met?
+[28] The following is the relevant excerpt from subsection 85(1) of the Act, which sets out the fundamental conditions for a rollover:
+85. (1) Where a taxpayer has, in a taxation year, disposed of any of the taxpayer's property that was eligible property to a taxable Canadian corporation for consideration that includes shares of the capital stock of the corporation, if the taxpayer and the corporation have jointly elected in prescribed form and in accordance with subsection (6) . . .
+[Emphasis added.]
+[29] It is also important to understand that the shares of a corporation constitute "eligible property" for the purposes of that section:
+85. (1.1) For the purposes of subsection (1), "eligible property" means
+(a) a capital property (other than real property, or an interest in or an option in respect of real property, owned by a non-resident person);
+. . .
+[30] Simply put, the conditions for a rollover under subsection 85(1) of the Act are as follows:
+(i) Shares must have been transferred to a taxable Canadian corporation.
+In the case at bar, no evidence of such a transfer was provided. In her testimony, the appellant admitted that she fully agreed with the statement by counsel for the respondent that there was nothing in the documents that she submitted to the Court that showed she had transferred her shares to her corporation. Thus, the evidence does not support a finding that shares were transferred to the appellant's holding company.
+ii) Shares of the taxable Canadian corporation's capital stock must have been issued in exchange.
+Once again, the evidence does not support a finding that the holding company, 9084‑3772 Québec Inc., issued shares to the appellant.
+[31] The essential criteria for a rollover were therefore not fulfilled, and I must find that the appellant’s Class "A" shares were not rolled over under subsection 85(1) of the Act.
+[32] While the foregoing determinations are sufficient for a finding in favour of the respondent in this appeal, I will briefly address the secondary issue of whether the Tax Court of Canada has jurisdiction to review the Minister's exercise of discretion with respect to acceptance of the form after the time prescribed in subsection 85(7.1) has elapsed, since this is the appellant's main argument in terms of the merits of her appeal.
+[33] In the case at bar, the Minister had discretion under the Act. When discretion is conferred on the Minister, as in subsection 85(7.1) of the Act, the courts cannot interfere with the exercise of that discretion. In Commission des relations de travail du Québec v. L'Association unie des compagnons et apprentis de l’industrie de la plomberie et tuyauterie des États-Unis et du Canada, [1969] S.C.R. 466, at page 470, Abbott J. stated:
+[TRANSLATION]
+Section 33 confers discretion on the Commission, and, as a general rule, courts must not interfere with the exercise of such discretion. . . .
+[34] However, this rule is not absolute and this discretion is not unlimited. Indeed, the courts have been given the authority to review certain decisions through the exercise of their superintending and reviewing power.
+[35] The scope of this power is, however, limited to very specific situations, in particular those in which one has acted in pursuit of purposes that are unlawful or contrary to the spirit of the Act, those in which an administrative decision is based on irrelevant factors, those in which one has acted without valid reason, or those in which one has acted in bad faith or in a discriminatory or unreasonable manner.
+[36] However, the Tax Court of Canada does not possess such superintending and reviewing power in tax cases. This power has been expressly conferred on the Federal Court by section 18.1 of the Federal Courts Act, supra:
+18.1 (1) An application for judicial review may be made by the Attorney General of Canada or by anyone directly affected by the matter in respect of which relief is sought.
+(2) An application for judicial review in respect of a decision or an order of a federal board, commission or other tribunal shall be made within 30 days after the time the decision or order was first communicated by the federal board, commission or other tribunal to the office of the Deputy Attorney General of Canada or to the party directly affected by it, or within any further time that a judge of the Federal Court may fix or allow before or after the end of those 30 days.
+(3) On an application for judicial review, the Federal Court may:
+(a) order a federal board, commission or other tribunal to do any act or thing it has unlawfully failed or refused to do or has unreasonably delayed in doing; or
+(b) declare invalid or unlawful, or quash, set aside or set aside and refer back for determination in accordance with such directions as it considers to be appropriate, prohibit or restrain, a decision, order, act or proceeding of a federal board, commission or other tribunal.
+(4) The Federal Court may grant relief under subsection (3) if it is satisfied that the federal board, commission or other tribunal
+(a) acted without jurisdiction, acted beyond its jurisdiction or refused to exercise its jurisdiction;
+(b) failed to observe a principle of natural justice, procedural fairness or other procedure that it was required by law to observe;
+(c) erred in law in making a decision or an order, whether or not the error appears on the face of the record;
+(d) based its decision or order on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it;
+(e) acted, or failed to act, by reason of fraud or perjured evidence; or
+(f) acted in any other way that was contrary to law.
+(5) If the sole ground for relief established on an application for judicial review is a defect in form or a technical irregularity, the Federal Court may
+(a) refuse the relief if it finds that no substantial wrong or miscarriage of justice has occurred; and
+(b) in the case of a defect in form or a technical irregularity in a decision or an order, make an order validating the decision or order, to have effect from any time and on any terms that it considers appropriate.
+[Emphasis added.]
+[37] The Tax Court of Canada does not have jurisdiction to entertain an application for the judicial review of a discretionary decision by the Minister to accept or refuse the rollover form under subsection 85(7.1) of the Act. This jurisdiction belongs solely to the Federal Court.
+[38] While the appellant placed special emphasis on the issue of the form and whether or not it could be accepted, her case raises another very important question.
+B) Must the amount that she received upon the sale of her shares be considered a deemed dividend within the meaning of subsection 84(3) of the Act?
+[39] Subsection 84(3) of the Act reads as follows:
+84. (3) Where at any time after December 31, 1977 a corporation resident in Canada has redeemed, acquired or cancelled in any manner whatever (otherwise than by way of a transaction described in subsection (2)) any of the shares of any class of its capital stock,
+(a) the corporation shall be deemed to have paid at that time a dividend on a separate class of shares comprising the shares so redeemed, acquired or cancelled equal to the amount, if any, by which the amount paid by the corporation on the redemption, acquisition or cancellation, as the case may be, of those shares exceeds the paid-up capital in respect of those shares immediately before that time; and
+(b) dividend shall be deemed to have been received at that time by each person who held any of the shares of that separate class at that time equal to that portion of the amount of the excess determined under paragraph (a) that the number of those shares held by the person immediately before that time is of the total number of shares of that separate class that the corporation has redeemed, acquired or cancelled, at that time.
+[Emphasis added.]
+[40] A reading of the foregoing very clear provisions shows that their effect is to create a deemed dividend as soon as that a corporation acquires shares of its own capital stock.
+[41] Since 2743‑0156 Québec Inc. purchased over the counter 45 Class "A" shares of its own capital stock, subsection 84(3) must apply, and it is thus deemed that the appellant received a dividend following the redemption of the shares in question.
+[42] This being the case, did the appellant own the Class "A" shares of 2743‑0156 Québec Inc. at the time that that corporation purchased them over the counter?
+[43] Since the appellant's Class "A" shares were not transferred to her holding company, 9084‑3772 Québec Inc., the appellant still held the Class "A" shares at the time that they were purchased. The application of the deemed dividend provision is thus warranted.
+[44] For all these reasons, the appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 6th day of December 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 29th day of February 2008.
+Erich Klein, Revisor
+CITATION: 2006TCC669
+COURT FILE NO.: 2005-1380(IT)G
+STYLE OF CAUSE: Lucie Vachon v. Her Majesty the Queen
+PLACE OF HEARING: Trois-Rivières, Quebec
+DATE OF HEARING: May 31, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: December 6, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Benoit Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

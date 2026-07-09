@@ -1,0 +1,177 @@
+Title: Yu c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144396/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-121-144396-yu-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-05-18
+
+# Yu c. La Reine
+
+- Citation: 2016 CCI 121
+- Decision date: 2016-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3082, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-18
+Référence neutre
+2016 CCI 121
+Numéro de dossier
+2015-1924(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-1924(GST)I
+ENTRE :
+FANJIN YU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 15 janvier 2016, à Toronto (Ontario)
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelante :
+Me Adam Z. Serota
+Avocate de l’intimée :
+Me Isida Ranxi
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise à l’égard d’un remboursement de la TPS/TVH pour habitations neuves, dont l’avis de cotisation est daté du 11 décembre 2013, est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2016.
+« R. Favreau »
+Juge Favreau
+Référence : 2016 CCI 121
+Date : 20160518
+Dossier : 2015-1924(GST)I
+ENTRE :
+FANJIN YU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Mme Yu interjette appel du rejet de sa demande de remboursement de la taxe sur les produits et services et la taxe de vente harmonisée (TPS/TVH) pour habitations neuves d’un montant de 24 000 $ (le « remboursement ») à l’égard d’une propriété sise au 15, promenade Linacre, à Richmond Hill, en Ontario (la « propriété »).
+[2] Le ministre du Revenu national (le « ministre ») a refusé le remboursement, car ni l’appelante ni un parent de l’appelante n’avaient l’intention d’habiter la propriété et d’en faire sa résidence habituelle.
+[3] Le ministre a établi une nouvelle cotisation en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15, telle que modifiée (la « LTA »), dont l’avis de cotisation est daté du 11 décembre 2013, à l’égard de la demande de remboursement de l’appelante, un remboursement incorrectement accordé et crédité au constructeur.
+[4] Pour déterminer que l’appelante n’est pas admissible au remboursement, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[...]
+b) l’appelante a signé une convention d’achat pour l’achat de la propriété le 2 mai 2011;
+c) le prix d’achat était de 588 474,65 $;
+d) la résidence de l’appelante était située ailleurs à Richmond Hill, en Ontario (la « résidence »);
+e) l’appelante a pris possession de la propriété le 20 décembre 2012;
+f) l’appelante a continué d’habiter dans sa résidence après avoir pris possession de la propriété;
+g) l’appelante n’a pas emménagé dans la propriété;
+h) l’appelante n’avait pas l’intention d’emménager dans la propriété;
+i) les parents de l’appelante habitaient en Chine, où ils y avaient leur résidence personnelle pendant toute la période pertinente;
+j) les parents de l’appelante lui ont rendu visite pendant quelque temps au cours de l’hiver et du printemps 2013;
+k) les parents de l’appelante sont restés chez elle pendant leur séjour et sont retournés à leur résidence personnelle en Chine à la fin de leur séjour;
+l) les parents de l’appelante n’ont pas emménagé dans la propriété;
+m) les parents de l’appelante n’avaient pas l’intention d’emménager dans la propriété;
+n) la consommation moyenne d’eau dans la propriété du 20 décembre 2012 au 15 avril 2013 était de 30 litres par jour;
+o) la consommation moyenne d’énergie dans la propriété du 20 décembre 2012 au 29 juillet 2013 était de 5,33 kilowattheures par jour;
+p) l’appelante a vendu la propriété le 29 juin 2013 au prix de 870 000,00 $
+[5] L’alinéa 254(2)b) de la LTA stipule qu’un remboursement pour habitations neuves est versé dans le cas où, au moment où l’acheteur devient responsable ou assume une responsabilité aux termes du contrat de vente de la propriété, l’acheteur acquiert la propriété pour qu’elle lui serve de lieu de résidence habituelle ou serve ainsi à un proche.
+[6] Les dispositions pertinentes du paragraphe 254(2) sont les suivantes :
+Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[...]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[...]
+Le remboursement est égal au montant suivant : [...]
+[7] Personne ne conteste, en l’espèce, que Mme Yu a signé une convention d’achat pour acquérir la propriété le 2 mai 2011 avant sa construction. Le prix d’achat de la propriété était de 633 990 $. Mme Yu devait verser un acompte de 10 000 $ le 12 mai 2011, le 12 juin 2011, le 12 juillet 2011 et le 12 août 2011 et payer le reste du prix d’achat à la date de conclusion de la transaction, soit le 20 décembre 2012.
+[8] Mme Yu a témoigné à l’audience. Elle a déclaré qu’elle avait acheté cette propriété pour ses parents à la retraite, qui voulaient s’établir au Canada pour se rapprocher de leur fille unique et de leurs deux jeunes petits-enfants.
+[9] Le 2 décembre 2012, ses parents ont expédié, de la Chine au Canada, 34 caisses pesant 364 kilogrammes qui contenaient des articles ménagers et des meubles. Le 21 décembre 2012, les biens ont été livrés directement à la propriété avant l’arrivée de ses parents au Canada le 28 décembre 2012. Une fois arrivés, ses parents ont acheté des couvre-fenêtres, un appareil de conditionnement d’air, des électroménagers et d’autres meubles répondant à leurs besoins.
+[10] Le 18 juillet 2012, l’appelante a souscrit pour son père une assurance d’un an d’un montant de 100 000 $ qui prenait effet le 28 décembre 2012. Cette assurance, appelée « JF Optimum Visitor », a été souscrite auprès de Co-operators Compagnie d’assurance-vie. L’appelante était la seule bénéficiaire de l’assurance.
+[11] Pendant leur séjour au Canada, les parents de l’appelante se sont acquittés de tous les frais usuels rattachés à la propriété, tels que les frais liés aux services d’alimentation en eau, en électricité et en gaz, d’aqueduc et Internet, et ont remplacé la fenêtre de la porte d’entrée pour préserver leur intimité. Le père de l’appelante utilisait un cellulaire prépayé selon un mode de paiement à l’utilisation.
+[12] Pendant son témoignage, l’appelante a mentionné trois virements de fonds qui auraient été effectués pour payer la propriété. Deux virements de 51 085 $ et de 50 985 $ ont été effectués par son père les 12 et 15 septembre 2012, et un virement de 50 165 $ a été effectué par sa mère, Dong Xia Wang, le 12 septembre 2012. Ces virements ont été faits à l’appelante et à Choo-Beng Quah, son ancien conjoint.
+[13] Mme Yu a indiqué que deux événements les ont poussés, elle et ses parents, à changer leurs plans. Le premier événement est l’accident de son conjoint survenu le 1er novembre 2012. Après l’accident, trois accusations criminelles ont été portées contre lui. Aucune déclaration de culpabilité n’a été rendue, mais l’appelante était en grand désarroi pendant cette période et elle a commencé à souffrir de maladie mentale et de perte de mémoire.
+[14] Mme Yu et son conjoint vivaient séparés depuis le 15 juillet 2011 et ils ont recommencé à vivre ensemble le 18 juillet 2012 dans le but de se réconcilier, mais en vain. Ils ont finalement entamé des procédures de divorce, et leur divorce a été prononcé le 19 décembre 2013.
+[15] Le deuxième événement est la crise cardiaque de son père survenue le 20 mai 2013. Son père a été admis au Southlake Regional Health Centre, où il a dû attendre sept heures avant de voir un médecin. Après cette expérience dans cet hôpital, les parents de l’appelante ont décidé de retourner en Chine, où ils se sentaient plus en paix compte tenu de leur état de santé. Ils ont quitté la propriété le 24 mai 2013 et sont retournés en Chine le 29 mai 2013. L’appelante a mis la propriété en vente à la mi-juin, et elle a été vendue le 29 juin 2013 au prix de 870 000 $.
+[16] Lorsqu’elle a été contre-interrogée par l’avocate de l’intimée, l’appelante a confirmé que ses parents avaient conservé leur maison en Chine et qu’ils y sont retournés après avoir quitté le Canada. Elle a également confirmé qu’elle avait déclaré le profit réalisé lors de la vente de sa propriété dans sa déclaration de revenus pour l’année d’imposition 2013. Elle a aussi reconnu qu’au cours des années d’imposition 2011, 2012 et 2013, son salaire était inférieur à 20 000 $ et qu’elle travaillait à son compte à temps partiel les fins de semaine.
+[17] L’appelante a également été interrogée au sujet des demandes de remboursement pour habitation qu’elle a présentées par le passé. Un affidavit établi sous serment par Teresa D’Sa, une agente des litiges de l’Agence du revenu du Canada, démontrant que l’appelante a présenté six demandes en cinq ans, a été déposé comme pièce. Les demandes énumérées ci-après ont été effectuées à l’aide du numéro d’entreprise de l’appelante :
+1906-90, rue Stadium, Toronto
+• La date de la convention d’achat-vente était le 30 juillet 2008.
+• La date de prise de possession était le 3 mars 2011.
+• Le prix d’achat de la propriété était de 434 359,20 $.
+• Le montant du remboursement demandé et accordé était de 985,37 $.
+18, avenue Heron Hollow, Richmond Hill
+• La date de la convention d’achat-vente était le 6 avril 2011.
+• La date de prise de possession était le 12 juillet 2012.
+• Le prix d’achat de la propriété était de 668 503,76 $.
+• Le montant du remboursement demandé et accordé était de 24 000 $.
+20, promenade Linacre, Richmond Hill
+• La date de la convention d’achat-vente était le 6 avril 2011.
+• La date de prise de possession était le 30 novembre 2012.
+• Le prix d’achat de la propriété était de 664 508,71 $.
+• Le montant du remboursement demandé et accordé était de 24 000 $.
+15, promenade Linacre, Richmond Hill
+• La date de la convention d’achat-vente était le 2 mai 2011.
+• La date de prise de possession était le 20 décembre 2012.
+• Le prix d’achat de la propriété était de 588 474,65 $.
+• Le montant du remboursement demandé et accordé était de 24 000 $.
+8-21, croissant Coneflower, North York
+• La date de la convention d’achat-vente était le 31 août 2013.
+• Le prix d’achat de la propriété était de 371 672,56 $.
+• Le montant du remboursement demandé et accordé était de 24 000 $.
+1707-170, rue Avenue, Toronto
+• La date de la convention d’achat-vente était le 27 février 2011.
+• Le prix d’achat de la propriété était de 664 508,71 $.
+• Le montant du remboursement demandé et accordé était de 24 000 $.
+[18] Mme Yu a souligné que le prix d’achat de la propriété dont il est question en l’espèce était de 633 990 $ et non de 588 474,64 $ comme il est indiqué dans l’affidavit susmentionné. Elle a expliqué que la propriété située au 1906-90, rue Stadium, est une copropriété que son ancien conjoint et elle avaient achetée, que la propriété située au 8-21, croissant Coneflower est une petite maison en rangée qu’elle louait à des locataires, et que la propriété située au 1707-170, rue Avenue était elle aussi louée.
+[19] On a demandé à Mme Yu d’expliquer pourquoi la lecture du compteur d’eau indiquait une très faible consommation d’eau de 30 litres par jour à la propriété dont il est question en l’espèce. Elle a expliqué que le compteur faisait défaut et qu’il a été réparé par la suite. Elle ne se souvient toutefois pas quand il a été réparé. Elle a ajouté que ses parents prenaient leur douche seulement une fois par semaine.
+[20] M. Choo-Beng Quah, l’ancien conjoint de l’appelante, a aussi témoigné à l’audience. Il est comptable et travaille depuis 2012 pour Trans-Globe, une entreprise de gestion immobilière. Il a confirmé que les parents de l’appelante avaient envoyé de l’argent pour acheter la propriété, qu’ils avaient séjourné au Canada pendant l’hiver et le printemps 2013, qu’ils avaient expédié quelques biens personnels au Canada, et qu’ils avaient leur propre résidence lorsqu’ils étaient au Canada.
+[21] M. Quah a indiqué qu’il était copropriétaire des propriétés situées au 1906-90, rue Stadium et au 18, avenue Heron Hollow, mais qu’il ne détenait aucun droit de propriété sur les autres propriétés énumérées dans l’affidavit. Il a ajouté que la propriété sise au 18, avenue Heron Hollow, a été vendue après le divorce.
+Analyse
+[22] Il incombe à l’appelante d’établir, selon la prépondérance des probabilités, qu’elle avait convenu d’acheter la propriété le 2 mai 2011 afin qu’elle serve de résidence habituelle à ses parents. Rien dans la preuve ne m’indique que l’appelante a acheté la propriété dans le but d’en faire la résidence habituelle de ses parents.
+[23] L’année 2011 a été chargée pour l’appelante. Le 27 février 2011, elle a signé la convention d’achat-vente de la propriété située au 1707-170, rue Avenue. Le 3 mars 2011, elle a acheté la propriété située au 1906-90, rue Stadium. Le 6 avril 2011, elle a signé la convention d’achat-vente de la propriété située au 18, avenue Heron Hollow et de la propriété située au 20, promenade Linacre. Le 2 mai 2011, elle a signé la convention d’achat-vente de la propriété dont il est question en l’espèce. Le 15 juillet 2011, elle et son conjoint ont commencé à vivre séparés.
+[24] Les investissements immobiliers effectués par l’appelante en 2011 étaient très importants étant donné sa situation familiale et son revenu déclaré.
+[25] Dans les circonstances, j’accorde peu de poids à l’intention déclarée de Mme Yu concernant la propriété achetée le 2 mai 2011. Le premier indice de l’intention de ses parents de s’établir au Canada est les trois virements de fonds effectués en septembre 2012, soit plus d’un an après la signature de la convention d’achat-vente.
+[26] L’appelante a affirmé que les fonds versés par ses parents ont été utilisés pour payer la propriété. Malheureusement, rien n’indique que ces fonds ont bel et bien été utilisés à cette fin. Aucun relevé bancaire ni aucun élément de preuve n’ont été produits pour expliquer de quelle façon et à quel moment les fonds ont été utilisés pour acheter la propriété.
+[27] La venue des parents de l’appelante au Canada à la fin de 2012 n’est pas contestée. La question est plutôt de savoir à quel titre ils sont venus : à titre de visiteurs ou d’immigrants. Aucun papier d’immigration, visa ou super visa ni aucune déclaration d’immigration n’ont été déposés en preuve. On sait seulement que l’appelante a dû souscrire une assurance d’un an pour assurer son père pendant son séjour en raison de son état de santé. Il s’agissait d’une assurance pour visiteur temporaire. Le père de l’appelante n’était pas couvert par un régime de soins de santé en Ontario.
+[28] Je suis d’avis que les parents de l’appelante sont venus au Canada pour l’aider pendant une période difficile sur le plan financier et émotionnel. Ils n’ont jamais eu l’intention de venir au Canada pour y établir leur résidence habituelle. Ils ne se sont pas présentés à la Cour pour confirmer leur véritable intention. Ils ont conservé leur maison en Chine et ils ne parlaient pas anglais.
+[29] Le fait que les parents de l’appelante ont apporté quelques biens personnels au Canada, qu’ils ont habité la propriété pendant quelques mois, qu’ils ont acheté des couvre-fenêtres, un appareil de conditionnement d’air, des électroménagers et d’autres meubles, et qu’ils ont payé diverses factures de services publics ainsi que les services Internet et de téléphonie mobile, ne suffit pas pour démontrer qu’ils ont bel et bien habité la propriété avec l’intention d’en faire leur résidence habituelle.
+[30] L’argument invoqué par l’avocat de l’appelante, qui était fondé sur l’alinéa 254(2)g) de la LTA, n’est pas pertinent, car toutes les conditions précisées au paragraphe 254(2), c’est-à-dire aux alinéas a) à g), doivent être satisfaites pour que l’appelante soit admissible au remboursement. De toute évidence, ce n’est pas le cas en l’espèce.
+[31] Pour ces motifs, je conclus que l’appelante n’est pas admissible au remboursement de la TPS/TVH et son appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de mai 2016.
+« R. Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 121
+No DU DOSSIER DE LA COUR :
+2015-1924(GST)I
+INTITULÉ :
+Fanjin Yu et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 janvier 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 18 mai 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Adam Z. Serota
+Avocate de l’intimée :
+Me Isida Ranxi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Adam Z. Serota
+Cabinet :
+BRS Tax Lawyers, LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

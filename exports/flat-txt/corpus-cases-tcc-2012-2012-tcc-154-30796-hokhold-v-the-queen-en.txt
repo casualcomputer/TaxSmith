@@ -1,0 +1,174 @@
+Title: Hokhold v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30796/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-154-30796-hokhold-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-05-09
+
+# Hokhold v. The Queen
+
+- Citation: 2012 TCC 154
+- Decision date: 2012-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7537, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hokhold v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-05-09
+Neutral citation
+2012 TCC 154
+File numbers
+2010-2393(IT)G
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2393(IT)G
+BETWEEN:
+FRANK CHARLES HOKHOLD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________Appeals heard on February 22 and 23, 2012 at Vancouver, British Columbia
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessments made under the Income Tax Act (the “Act”) of the 2002 and 2003 taxation years are dismissed. The appeals from the reassessments made under the Act of the 2004, 2005, 2006 and 2007 taxation years are allowed and referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+1. the penalties imposed for the 2004, 2005 and 2007 taxation years are vacated;
+2. for the 2004, 2005, 2006 and 2007 taxation years, the Appellant incurred business expenses in respect of motor vehicle use equal to 50% of amounts claimed in Appendix “B” of the Reply to the Notice of Appeal;
+3. for the 2004, 2005, 2006 and 2007 taxation years, the Appellant incurred business expenses for salaries equal to 75% of amounts claimed in Appendix “B” of the Reply to the Notice of Appeal; and
+4. each party shall bear its own costs.
+Signed at Ottawa, Canada this 9th day of May 2012.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2012 TCC 154
+Date: 20120509
+Docket: 2010-2393(IT)G
+BETWEEN:
+FRANK CHARLES HOKHOLD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Frank Hokhold, is a dentist who in 1994 began carrying on business as a sole proprietor in Merritt, a small community in the interior of British Columbia. The dental office was located in the family home. The entire family was involved in the practice: Mrs. Hokhold, a certified dental assistant, managed the practice doing all the bookkeeping, office administration, patient bookings and when required, assisting her husband with dental procedures. The two Hokhold children effectively grew up in the dental clinic; from an early age they were expected to assist in their father’s practice after school and on weekends. They, like their mother, were paid for their work.
+[2] The Appellant is appealing the reassessments of the Minister of National Revenue of his 2002 to 2007 taxation years in which certain business expenses were disallowed. The Appellant’s problems date from his late filing of his 2002 taxation year and failure to file income tax returns for the years 2003 to 2006. The latter years were arbitrarily assessed under subsection 152(7) of the Act. His 2007 return was filed in June 2008. On September 10, 2008, the Appellant filed amended returns for the 2002 to 2007 taxation years. Notices of confirmation were eventually issued for all of the taxation years from which the Appellant now appeals.
+[3] The Appellant represented himself and testified at the hearing. Mrs. Hokhold also testified.
+[4] Insofar as the Appellant’s testimony related to his work as a member of the dental profession, he was a credible witness. He devoted himself to his clinical duties, delegating the administrative work underpinning the practice to Mrs. Hokhold and, to a lesser extent, his children. As a result, his testimony regarding the details of the business was less useful than Mrs. Hokhold’s; it was also less convincing as he tended to overstate the facts in the hope of buttressing his claims. Another weakness had to do with the Appellant’s belief that he had been badly treated by the Canada Revenue Agency, especially the Collections Branch. This made him less objective than he otherwise might have been and on occasion, distracted him from addressing the facts relevant to his claims.
+[5] However, if it is any comfort to the Appellant, I can understand his frustration as the recipient of a series of Kafkaesque letters received from the Canada Revenue Agency in response to what strike me as reasonable questions regarding the audit[1]. On the other hand, while quite ready to blame the Canada Revenue Agency for his troubles, the Appellant was less willing to acknowledge that his difficulties were rooted in his own failure to file returns.
+[6] As a result, what success the Appellant has achieved in these appeals he owes largely to the testimony of Mrs. Hokhold. She was both knowledgeable about the business aspects of the dental practice and direct in her answers. Although she, too, showed the strains of having lived through the dual ordeal of the audit and collections procedures of the Canada Revenue Agency, she nevertheless stuck to the task at hand, often filling in the factual gaps in her husband’s testimony. All in all, I found Mrs. Hokhold a convincing witness.
+[7] Called for the Respondent was the Canada Revenue Agency auditor in charge of the Appellant’s file, Mark Wensley who recounted the steps taken in the audit process.
+Analysis
+[8] Before considering the disallowed business expenses, there are two preliminary matters to be disposed of: the validity of the 2002 and 2003 appeals; and the late-filing penalties imposed by the Minister in respect of the 2004, 2005, 2006 and 2007 taxation years.
+Validity of 2002 and 2003 Appeals
+[9] The undisputed evidence of the Canada Revenue Agency auditor, Mr. Wensley, was that his search of the Appellant’s electronic records disclosed no notices of objection having been filed in respect of these taxation years. The Appellant himself explained that he did not object to the 2002 and 2003 assessments because he had been suffering from severe hypertension exacerbated by the stress of dealing with the Canada Revenue Agency’s aggressive collection efforts. Their actions also left him without the funds to hire the lawyers and accountants he felt he would have needed to advance his objection. Mrs. Hokhold confirmed this information in her testimony.
+[10] The Appellant’s failure to file notices of objection in respect of the 2002 and 2003 assessments within the time permitted under the Act means the conditions for appealing under subsection 169(1) have not been fulfilled; accordingly, the appeals of those taxation years must be dismissed.
+Late-Filing Penalties 2004, 2005, 2006 and 2007
+[11] The Minister imposed repeat late-filing penalties for 2004 and 2005 under subsection 162(2) and late-filing penalties for 2006 and 2007 under subsection 162(1) of the Act. At the hearing, counsel for the Respondent advised that her client conceded penalties ought not to be imposed for 2004, 2005 and 2007.
+[12] Turning, then, to the 2006 penalties, subsection 162(1), imposes liability for penalties where the taxpayer fails to file his return within the statutory deadline. However, the taxpayer may avoid such penalties if he is able to show due diligence in his efforts to pay on time. (Rupprecht v. R., 2007 TCC 191; affirmed 2009 FCA 314.)
+[13] Here, the Appellant did not file his 2006 return until September 10, 2008. In his defence, he again cited the pressures of maintaining his practice in the face of the collection activities of the Canada Revenue Agency and his ever-increasing health and financial problems. However, it must be remembered that the 2006 taxation year was just one in a four-year series of non-filing. While I accept that the Appellant was experiencing certain hardships, the fact is he made a choice to stop filing returns as and when required. He testified that he knew he ought to file and to pay his taxes but from his perspective, dealing with his tax obligations took a lower priority than trying to manage his other responsibilities. In these circumstances, it cannot be said he made any attempt to exercise the kind of due diligence contemplated by the case law; the subsection 162(1) penalties are justified for 2006.
+Business Expenses
+[14] Although there were many items discussed and adjusted during the audit, only a few business expenses are in dispute in these appeals. Each is dealt with under the headings below.
+1. Motor Vehicle Expenses 2004, 2005, 2006 and 2007
+[15] The Notice of Appeal does not clearly set out the amounts claimed by the Appellant in respect of motor vehicle expenses; accordingly, I have relied on the figures for each of the taxation years in Appendix ‘B’ of the Reply to the Notice of Appeal:
+Year
+Claimed by Appellant
+Allowed by Minister
+2004
+$ 5,729
+$ 1,715
+2005
+$ 5,650
+$ 1,378
+2006
+$ 7,586
+$ 1,920
+2007
+$ 7,924
+$ 1,888
+[16] The Appellant had only one vehicle, a Ford Windstar, for both family and business use. For business purposes, it was used locally for trips to the bank, post office and other services related to the practice. It was also used for longer trips; i.e. weekly trips to Kamloops to purchase business supplies and trips throughout the year to professional conferences in Vancouver and other larger centers in British Columbia. After reviewing the Appellant’s logs, the auditor ultimately ascribed approximately 20% of the motor vehicle’s use to business.
+[17] In my view, this amount is too low. While I agree with counsel for the Respondent that the Appellant weakened his testimony by trying to put a business spin on even the most obviously personal uses, i.e., driving the children to a movie to reward them for their work in the office, Mrs. Hokhold’s evidence was more convincing. It persuaded me that this was a family that permitted itself few recreational pleasures. Only one of the children was engaged in extra-curricular activities and she still had to perform her office tasks when she got home. The Appellant’s practice seems to have dominated their lives.
+[18] The Ford Windstar was used to make weekly trips to Kamloops where (even allowing for the cost of gasoline to make the 90-km trip) prices were cheaper than in their smaller, more remote community. While it is true they also bought the family groceries while there, the Appellant stocked up on business needs such as office supplies and equipment. As for local use, the auditor seems to have discounted the motor vehicle’s business use, presumably because in a small town like Merritt, the Hokholds would have walked everywhere in the performance of business tasks. I do not find that assumption very realistic. In any case, on the evidence before me, I am satisfied that 50% of the motor vehicle use was for business purposes.
+2. Meals and Entertainment
+[19] The amounts claimed by the Appellant and allowed by the Canada Revenue Agency are set out in Appendix “B” of the Reply to the Notice of Appeal:
+Year
+Claimed by Appellant
+Allowed by Minister (%)
+2004
+$ 6,444
+(50% of $12,888)
+$ 1,288
+(20% of entire claim)
+2005
+$ 7,598
+(50% of $15,196)
+$ 1,519
+(20% of entire claim)
+2006
+$ 5,547
+(50% of $11,094)
+$ 1,109
+(20% of entire claim)
+2007
+$ 6,911
+(50% of $13,822)
+$ 1,382
+(20% of entire claim)
+[20] Because he had his entire family engaged in his practice, the Appellant attempted to characterize virtually every crumb that went into their mouths as a meals expense. Counsel for the Respondent cited Symes v. Canada, [1993] 4 S.C.R. 695 at paragraphs 76-77 for the proposition that where an expense would have been incurred in any case, for example to feed or clothe the taxpayer, it cannot be claimed as a business deduction. I agree with counsel that the 20% allowed by the auditor appropriately reflects amounts spent by the Appellant when attending professional conferences or similar work-related events. Accordingly, no changes to the amounts allowed by the Minister are justified.
+3. Children’s Salaries
+[21] The Minister accepted that the Hokhold children did indeed work in the Appellant’s practice but allowed only 10% of the amounts claimed for their salaries in 2004 to 2007. Counsel for the Respondent contended that the records of their earnings were not reliable; for example, the hours of work records tended to be too similar and it was difficult to link the cheques paid for their salaries to the children’s accounts. Counsel argued further that, given their schoolwork and extra-curricular activities and paid at a rate of approximately $10 per hour, the children could not possibly have earned as much as the Appellant claimed.
+[22] But for the testimony of Mrs. Hokhold, I might have been persuaded by counsel’s arguments. However, I accept Mrs. Hokhold’s evidence regarding the degree to which the children were expected to participate in the Appellant’s business. She said that she came from a background where it was normal for children to have family duties; she had started working when she was only nine years old. Her children were 15 and 13, respectively, when in 2002 they began working in their father’s clinic. They helped with reception, did filing, babysat the children of patients while they were being seen to, entered computer data, filled in insurance forms, prepared dental trays for the next day’s procedures and did whatever else was needed. They had their own bank accounts and were expected to pay for their own recreational or extra-curricular activities using their own funds.
+[23] Mrs. Hokhold explained further that as the Appellant’s tax debt grew, he was increasingly unable to pay third party employees and it fell to her and the children to pick up the slack. The other reality was that the dental clinic was located in the family home; there was simply no getting away from the work. Mrs. Hokhold herself was already overwhelmed with the administrative work the Appellant had delegated to her – she had urged him to get bookkeeping and accounting assistance in 2000 but her request fell on deaf ears. So she had to rely more and more on the children; her evidence was that they sacrificed a lot for the sake of the Appellant’s dental practice.
+[24] Mrs. Hokhold did her best to keep their hours of work records up to date but this was difficult with all of her other tasks. I accept as reasonable her testimony regarding the number of hours the children typically worked. I also accept her explanation of what appeared at first blush to be irregularities in respect of the cheques that were paid to them.
+[25] In 2004, 2005 and 2006, the Appellant claimed a total of $12,600, $13,000 and $12,810 for the children’s salaries. In 2007, the total amount was $22,245. Based on his review of the cheques and his view of what was reasonable for child workers[2], Mr. Wensley allowed 10% of these amounts.
+[26] In my view, that amount is too low. Even if one assumes conservatively that the children worked after school for 2 hours only three days per week and only 3 hours each weekend, based on an average salary of $10 per hour, that would come to $4,320 for each child, for a total of $8,640 annually. This figure represents approximately 68% of the amounts claimed in 2004, 2005 and 2006. Applying this formula to 2007, a conservative estimate would be $15,127.
+[27] I think it likely that the children worked more than the conservatively estimated hours above. In all the circumstances, I find that the Appellant is entitled to 75% of the amounts claimed in Appendix “B” of the Reply to the Notice of Appeal.
+4. Appellant’s Further Claims for Business Expenses 2006 and 2007
+[28] As shown in Appendix “B” of the Reply to the Notice of Appeal, in 2006, the Appellant claimed as business expenses, amounts for “loss of income” and “loss of business equipment”; in 2007, he claimed amounts again for “loss of income” and for “loss of goodwill”.
+[29] A review of the Notice of Appeal shows that the Appellant blames these losses on the actions of the Canada Revenue Agency in enforcing collection of his tax debt. He also testified at length as to how their efforts had destroyed his practice. Briefly summarized, the Appellant justified the above business expense claims as follows: starting with the “loss of equipment”, because of the collection activities of the Canada Revenue Agency, he was unable to keep up the payments on a lease he had for the equipment used in his dental practice resulting in its repossession by the lessor. Without it, he was forced to use old equipment making him less efficient in his work and causing patients to go elsewhere. This, combined with other alleged misdeeds, including the Canada Revenue Agency’s having issued requirements to pay to the insurers who covered his patients’ dental bills, resulted in a “loss of income”. Meanwhile, the deterioration of his practice resulted in the “loss of goodwill” that he had built up over the years.
+[30] I agree with counsel for the Respondent that such claims are not proper business expenses as they were simply not incurred for the purpose of earning income as required under paragraph 18(1)(a) of the Act. There may be other ways of having some of these losses recognized and the Appellant may wish to seek professional advice on that score.
+[31] The Notice of Appeal also included a demand for an apology from the Canada Revenue Agency and $5,000,000 in damages in respect of their alleged misconduct. As I explained to him at the commencement of the hearing, even if he were entitled to such relief, the Tax Court of Canada does not have jurisdiction to grant it.
+Conclusion
+[32] In accordance with the attached Reasons for Judgment, the appeals from the reassessments of the 2002 and 2003 taxation years are dismissed. The appeals from the reassessments of the 2004, 2005, 2006 and 2007 taxation years are allowed and referred back to the Minister for reconsideration and reassessment on the following basis:
+1. the penalties imposed for the 2004, 2005 and 2007 taxation years are vacated;
+2. for the 2004, 2005, 2006 and 2007 taxation years, the Appellant incurred business expenses in respect of motor vehicle use equal to 50% of amounts shown as claimed in Appendix “B” of the Reply to the Notice of Appeal;
+3. for the 2004, 2005, 2006 and 2007 taxation years, the Appellant incurred business expenses for salaries equal to 75% of amounts shown as claimed in Appendix “B” of the Reply to the Notice of Appeal; and
+4. each party shall bear its own costs.
+Signed at Ottawa, Canada this 9th day of May 2012.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2012 TCC 154
+COURT FILE NO.: 2010-2393(IT)G
+STYLE OF CAUSE: FRANK CHARLES HOKHOLD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 22 and 23, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: May 9, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1, Tabs 21 to 34.
+[2] Exhibit R-1, Tab 34.

@@ -1,0 +1,115 @@
+Title: Elmer c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28733/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-388-28733-elmer-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-06-20
+
+# Elmer c. M.R.N.
+
+- Citation: 2008 CCI 388
+- Decision date: 2008-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1455, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elmer c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-20
+Référence neutre
+2008 CCI 388
+Numéro de dossier
+2007-4271(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-4271(EI)
+ENTRE :
+MICHAEL D. ELMER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 mai 2008, à Sudbury (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Craig W. Fleming
+Avocate de l’intimé :
+Me Suzanie Chua
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée pour tenir compte du fait que l’appelant n’avait aucun lien de dépendance avec Mme Crinnion durant la période en cause.
+Signé à Ottawa, Canada, ce 20e jour de juin 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 21e jour d’août 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008CCI388
+Date : 20080620
+Dossier : 2007-4271(EI)
+ENTRE :
+MICHAEL D. ELMER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 27 mai 2008, à Sudbury (Ontario).)
+Le juge Boyle
+[1] Je fais la lecture des présents motifs aujourd’hui, le mercredi 28 mai, à Sudbury, après avoir entendu l’appel de M. Elmer hier. Je demande au greffier d’ordonner qu’une transcription des présents motifs soit envoyée à Me Fleming, conformément à la discussion que nous avons eue avec lui.
+[2] Le seul point en litige en l’espèce consiste à déterminer si l’emploi de M. Elmer à titre de directeur général d’Avalon Eco Resort, dont Mme Crinnion est propriétaire-exploitante, a été exclu de la définition d’emploi assurable parce que M. Elmer et son employeuse avaient un lien de dépendance durant la période d’emploi pertinente de M. Elmer en 2005 et en 2006.
+[3] M. Elmer et Mme Crinnion étaient conjoints de fait en 2003 et en 2004. Ils ont gardé un compte bancaire personnel conjoint au moins jusqu’à la fin de 2005. M. Elmer continue même aujourd’hui à habiter la majeure partie du temps au domicile principal de Mme Crinnion, qui sert de gîte dans le cadre de son entreprise, et dans un des cinq logements que compte le centre de villégiature. L’entreprise est située dans une aire de nature sauvage dans le Nord proche de l’Ontario, à environ une heure de la ville la plus proche.
+[4] Pendant les années en cause et jusqu’à tout récemment, M. Elmer était un signataire autorisé pour le compte bancaire de l’entreprise et, durant les années en cause, il a pu non seulement régler les dépenses d’entreprise sur ce compte, mais aussi en retirer les vingt dollars nécessaires pour payer ses droits d’entrée quand il jouait au golf pendant ses jours de congé. Il n’y avait aucun élément de preuve établissant comment ces frais étaient comptabilisés par ailleurs par l’entreprise ou l’employé aux fins fiscales ou comptables.
+[5] Même si son emploi, tout comme l’entreprise, était de nature saisonnière, M. Elmer continuait à effectuer certains travaux après la saison au profit de l’entreprise et de la propriété de Mme Crinnion, sans toucher de rémunération. Il n’y avait ici non plus aucun élément de preuve établissant comment ces travaux étaient comptabilisés, sauf qu’ils ne faisaient pas partie des tâches rémunérées de M. Elmer.
+[6] Au cours de la première saison, en 2004, et alors qu’ils étaient conjoints de fait, M. Elmer avait prêté un petit montant d’argent à Mme Crinnion et avait travaillé pour l’entreprise en qualité de coentrepreneur non rémunéré. En 2005, le salaire de M. Elmer ne lui a pas été versé régulièrement, mais a été essentiellement reporté sans intérêt jusqu’au début de 2006.
+[7] Le ministre ne conteste pas le fait que M. Elmer a occupé le poste de directeur général de l’entreprise et ne prétend pas non plus que son salaire horaire d’environ quinze dollars était déraisonnable.
+[8] Pour ces motifs, je me reporte essentiellement aux seuls faits qui pourraient déterminer si M. Elmer et Mme Crinnion avaient ou non un lien de dépendance pendant les périodes d’emploi en 2005 et en 2006.
+[9] Au début de l’audience, le ministre a annoncé qu’il abandonnait la thèse principale qu’il avait énoncée dans sa réponse modifiée, selon laquelle M. Elmer et Mme Crinnion étaient des personnes liées en 2005 et en 2006 parce qu’ils étaient conjoints de fait. Il a déclaré qu’il maintenait seulement l’argument que ces deux personnes non liées avaient un lien de dépendance de fait en 2005 et en 2006. Par conséquent, il n’a pas contre-interrogé M. Elmer ni Mme Crinnion sur le fait qu’ils avaient déclaré dans leurs témoignages avoir mis fin à leur relation conjugale à l’Action de grâces 2004. Le bien-fondé de cette stratégie n’est pas clair à mes yeux. Le ministre se fonde plutôt sur son argument subsidiaire, soit que M. Elmer et son employeuse avaient, en fait, un lien de dépendance même s’ils n’étaient pas des personnes liées.
+[10] C’est techniquement à l’appelant, M. Elmer, qu’il incombe de me convaincre que les décisions de l’ARC faisant l’objet de l’appel et les hypothèses sous-jacentes sont erronées. Dans les faits cependant, le ministre s’est chargé de me persuader, dans la mesure requise, que deux personnes non liées ont néanmoins un lien de dépendance de fait, étant donné qu’un appelant n’a pas toujours beaucoup de latitude pour réfuter un argument négatif.
+[11] Le lien de dépendance entre deux personnes en matière d’assurance-emploi est défini par renvoi au sens donné à cette expression dans la Loi de l’impôt sur le revenu. Le concept de lien de dépendance de fait a été analysé dans des jugements rendus en matière d’impôt sur le revenu comme Swiss Bank Corp. et Sheldon’s Engineering. L’ARC a aussi publié le bulletin IT-419, qui décrit les circonstances dans lesquelles elle estime que des personnes ont un lien de dépendance de fait au sens de la Loi de l’impôt sur le revenu.
+[12] Plusieurs conséquences très importantes découlent, sous le régime de la Loi de l’impôt sur le revenu, de l’existence d’un lien de dépendance entre deux personnes. Il est juste de dire que, en général, ni les tribunaux ni même le bulletin de l’ARC ne concluent facilement à l’existence d’un lien de dépendance de fait.
+[13] Selon le ministre, trois faits principaux laissent croire que M. Elmer avait un lien de dépendance avec son employeuse :
+(1) M. Elmer a apporté une aide financière à Mme Crinnion en acceptant le paiement différé d’une bonne partie de son salaire de 2005 et en lui consentant un petit prêt en 2004;
+(2) M. Elmer avait accès dans une certaine mesure au compte bancaire personnel conjoint et au compte bancaire de l’entreprise pour ses dépenses personnelles;
+(3) M. Elmer a effectué certains travaux en échange d’un logement tout au long de l’année. Aucun de ces trois faits, pris séparément ou ensemble, ne m’amène à conclure que M. Elmer et son employeuse seraient considérés comme ayant un lien de dépendance de fait au sens de la Loi de l’impôt sur le revenu.
+[14] M. Elmer appréciait de toute évidence ce travail particulier mais inusité et voulait continuer de gagner modestement sa vie en restant aussi proche de la nature que possible, malgré la fin de sa relation de fait et indépendamment des rapports d’amitié qu’il conservait avec la propriétaire de l’entreprise. Ce fait, conjugué à ses besoins minimes et à son style de vie plutôt nomade, explique qu’il a accepté de toucher son salaire tardivement et, dès le début, de n’être payé qu’à la fin de la saison. Le prêt de 2004 a été consenti lorsque les deux personnes vivaient en couple et avaient un lien de dépendance et n’a pas contribué au maintien de ce lien après 2004, une fois que la relation conjugale a pris fin.
+[15] Les seules sommes que M. Elmer a retirées du compte conjoint ou du compte de l’entreprise pour ses dépenses personnelles pendant les années en cause ont servi à payer ses droits d’entrée au golf quand il était en congé. Le propriétaire d’une entreprise peut fort bien accorder ce genre d’avantage limité à un employé avec qui il n’a pas de lien de dépendance dans le cadre d’un régime d’emploi sans lien de dépendance. Compte tenu du passé et de la raison pour laquelle le compte personnel conjoint a été ouvert au départ, cette utilisation limitée du compte en 2005, même si elle est discutable, ne satisfait pas au critère rigoureux de l’existence d’un lien de dépendance de fait.
+[16] Les travaux effectués pour l’entreprise en dehors de la saison par M. Elmer, sans être payé, et le logement dont il profitait à l’année longue suscitent certaines interrogations, notamment quant à la teneur de toutes ses conditions d’emploi, à la comptabilisation des opérations d’échange et des avantages ou au fait que M. Elmer ait pu toucher des prestations d’AE en dehors de la saison, alors qu’il n’était pas disponible pour travailler ou qu’il travaillait déjà. Ces interrogations ne me permettent pas de conclure, toutefois, que M. Elmer et son employeuse avaient un lien de dépendance de fait aux fins de la Loi de l’impôt sur le revenu. Je ne crois pas que ces faits, s’il s’agissait en l’espèce d’une affaire relative à l’impôt sur le revenu, amèneraient un tribunal à conclure que M. Elmer et Mme Crinnion avaient un lien de dépendance, à moins qu’ils aient été des personnes liées.
+[17] J’accueille l’appel de M. Elmer. L’audience est levée.
+Signé à Ottawa, Canada, ce 20e jour de juin 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 21e jour d’août 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008CCI388
+DOSSIER DE LA COUR : 2007-4271(EI)
+INTITULÉ : Michael D. Elmer c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 27 mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 20 juin 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Craig W. Fleming
+Avocate de l’intimé :
+Me Suzanie Chua
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Craig W. Fleming
+Cabinet : Sudbury (Ontario)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

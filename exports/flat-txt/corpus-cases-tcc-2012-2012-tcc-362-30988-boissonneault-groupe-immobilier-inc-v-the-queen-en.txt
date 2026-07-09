@@ -1,0 +1,199 @@
+Title: Boissonneault Groupe Immobilier Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30988/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-362-30988-boissonneault-groupe-immobilier-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-16
+
+# Boissonneault Groupe Immobilier Inc. v. The Queen
+
+- Citation: 2012 TCC 362
+- Decision date: 2012-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4807, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boissonneault Groupe Immobilier Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-16
+Neutral citation
+2012 TCC 362
+File numbers
+2010-3553(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-3553(GST)G
+BETWEEN:
+BOISSONNEAULT GROUPE IMMOBILIER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 16, 2012, at Montréal, Quebec
+Before: The Honourable Alain Tardif
+Appearances:
+Counsel for the appellant:
+Dominique Gilbert
+Counsel for the respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment dated August 31, 2009, covering the period from July 1 to September 30, 2008, under the Excise Tax Act is allowed with costs to the appellant.
+Signed at Ottawa, Canada, this 16th day of October 2012.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 5th day of March 2013.
+François Brunet, Revisor
+Citation: 2012 TCC 362
+Date: 20121016
+Docket: 2010-3553(GST)G
+BETWEEN:
+BOISSONNEAULT GROUPE IMMOBILIER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This issue in this appeal is whether the respondent was justified in disallowing the GST rebate applied for by the appellant for land and buildings leased for residential purposes in respect of a complex.
+[2] Boissonneault Groupe Immobilier Inc. (hereinafter the appellant) is a family business incorporated under the Companies Act, R.S.Q. c. C‑38, operating primarily as a landlord and property manager.
+[3] In 2005, the appellant purchased a building made up of 26 residential units, located in proximity to the Cégep de Drummondville. Following said purchase, the appellant realized that there was great potential in this type of rental housing.
+[4] After lengthy negotiations with the Cégep de Drummondville management and representatives from the Ministère de l’Éducation, the appellant obtained, in July 2007, an authorization to undertake the construction of a 78-unit residential complex on land adjacent to the Cégep de Drummondville belonging to the Ministère de l’Éducation, the occupation and enjoyment of the premises having been made possible by an emphyteutic lease.
+[5] Once construction approvals were obtained, the appellant retained the services of a geological firm to assess the quality of the soil. The tests conducted first indicated that the land was adequate for the construction of the projected complex. Seeing as the land was then wooded, further testing was required once the land was cleared.
+[6] The new geological studies showed that the bearing capacity of the soil did not make it possible to erect a 40,000 square-foot complex. To remedy the problem, piles had to be used to ensure the safe construction of the building and make it compliant with good practice.
+[7] At that point, it became clear that a delay prevented the first student tenants to be housed when school began in fall 2009. To remedy the situation, the appellant offered eleven-month leases with the objective of ensuring the return of its clientele the following year on July 1.
+[8] The appellant also introduced the following policy: charge the twelfth month at half the price, that is, the appellant offered its tenants a twelve-month lease in which the twelfth month was half the price.
+[9] At the time when the appellant undertook its project, the retention rate for tenants of the building with 26 residential units located in the same district was about 90%. The management of the 26 residential units in the rental building, which was already a few years old, revealed a very keen interest in another building of the same type.
+[10] It was, therefore, realistic, reasonable and more than plausible to think that all the units would be quickly leased considering the high demand. Twelve-month leases to facilitate and simplify management and reduce operating costs were therefore not unrealistic; quite the opposite. It was a very rational objective.
+[11] In 2010, however, the appellant renewed eleven-month leases; it justified said practice as a matter of fairness, as students who had initially committed to eleven-month leases could ask for an extension for an identical term.
+[12] At present, over 70% of the appellant’s tenants residing in the new 78-unit residential complex have signed twelve-month leases.
+[13] Following the building’s construction, the appellant self-assessed itself on the building’s fair market value and also applied for a GST rebate for land and buildings leased for residential purposes.
+[14] Upon verifying the appellant’s application for a GST rebate, the respondent deemed inadmissible 38 of the 78 residential units. That figure rose to 42 units out of 78.
+[15] By notice of assessment dated August 28, 2009, the respondent determined that the amount of the GST rebate for land and buildings leased for residential purposes was $18,190.84.
+[16] On January 13, 2010, the appellant objected to the notice of assessment within the applicable deadlines.
+[17] On June 29, 2010, the respondent issued a notice of reassessment following a decision on the objection rendered on June 22, 2010, to amend the GST rebate amount for land and buildings leased for residential purposes and set the amount at $17,161.80.
+Parties’ Submissions Appellant’s Submissions [18] The appellant submits that subparagraph (iii) of the definition of “qualifying residential unit” set out in section 256.2(1)(a) of the Excise Tax Act (ETA) (hereinafter the Act) requires that it is the case, or can reasonably be expected by the person at the particular time to be the case, that the first use of the unit is or will be either (A) or (B).
+[19] As a result, the appellant submits that it is the expected use of the residential units of its complex that should determine entitlement to a GST rebate for land and buildings leased for residential purposes.
+[20] The appellant is of the view that it could have reasonably expected, at the particular time, that the first use of its complex be consistent with what is contemplated in clause (iii)(B) of the definition of “qualifying residential unit” set out in paragraph 256.2(1)(a) of the Act.
+Respondent’s Submissions [21] As for the respondent, she submits that 42 of the 78 residential units were not continuously occupied for a period of twelve months, as required by the Excise Tax Act.
+[22] The respondent is also of the view that it is necessary, under the Act, that the same person live in the residential unit for twelve months.
+Issue [23] The issue is whether the respondent was justified in disallowing the GST rebate applied for by the appellant for land and buildings leased for residential purposes in respect of the property in question.
+Relevant Legislative Provisions [24] In this case, the sole issue is the interpretation of subparagraph (a)(iii) of the definition of “qualifying residential unit” set out in subsection 256.2(1) of the Act, namely, whether the appellant meets the requirements of subparagraph (a)(iii). “Qualifying residential unit” is defined as follows:
+256.2(1) ETA
+“Qualifying residential unit” of a person, at a particular time, means
+(a) a residential unit of which, at or immediately before the particular time, the person is the owner, a co-owner, a lessee or a sub-lessee or has possession as purchaser under an agreement of purchase and sale, or a residential unit that is situated in a residential complex of which the person is, at or immediately before the particular time, a lessee or a sub-lessee, where
+(i) at the particular time, the unit is a self-contained residence,
+(ii) the person holds the unit
+(A) for the purpose of making exempt supplies of the unit that are included in section 5.1, 6.1, 6.11 or 7 of Part I of Schedule V,
+(B) if the complex in which the unit is situated includes one or more other residential units that would be qualifying residential units of the person without regard to this clause, for use as the primary place of residence of the person,
+(iii) it is the case, or can reasonably be expected by the person at the particular time to be the case, that the first use of the unit is or will be
+(A) as the primary place of residence of the person or a relation of the person, or of a lessor of the complex or a relation of that lessor, for a period of at least one year or for a shorter period where the next use of the unit after that shorter period is as described in clause (B), or
+(B) as a place of residence of individuals, each of whom is given continuous occupancy of the unit, under one or more leases, for a period, throughout which the unit is used as the primary place of residence of that individual, of at least one year or for a shorter period ending when
+(I) the unit is sold to a recipient who acquires the unit for use as the primary place of residence of the recipient or of a relation of the recipient, or
+(II) the unit is taken for use as the primary place of residence of the person or a relation of the person or of a lessor of the complex or a relation of that lessor, and
+(iv) except where subclause (iii)(B)(II) applies, if, at the particular time, the person intends that, after the unit is used as described in subparagraph (iii), the person will occupy it for the person’s own use or the person will supply it by way of lease as a place of residence or lodging for an individual who is a relation, shareholder, member or partner of, or not dealing at arm’s length with, the person, the person can reasonably expect that the unit will be the primary place of residence of the person or of that individual; or
+(b) a prescribed residential unit of the person.
+Analysis [25] Subparagraph (iii) of the definition of “qualifying residential unit” requires that it is the case, or can reasonably be expected by the person (the appellant) at the particular time to be the case, that the first use of the unit is or will be (A) or (B). In the case at bar, it is clause (B) which applies. Said clause requires that the first use of the unit be
+as a place of residence of individuals, each of whom is given continuous occupancy of the unit, under one or more leases, for a period, throughout which the unit is used as the primary place of residence. . . .
+[26] Accordingly, the explanatory notes issued in February 2001 in respect of section 256.2 of the ETA specify as follows:
+In order to target the rebate in respect of residential units to persons who provide long-term residential rental accommodation, there is also a condition that those persons must reasonably expect that the first use of the units will be as primary places of residence of individuals, which could include the landlord or a relation (within the meaning of subsection 256(1)) of the landlord. Further, the use as a primary place of residence by each such individual must be for a period of at least one year, though not necessarily under one lease (e.g., an individual could occupy a unit for one year under twelve consecutive monthly leases).
+[Emphasis added.]
+[27] Consequently, the requirements of subparagraph (iii) of the definition of “qualifying residential unit” shall be met by both the first actual use and the reasonable expectation of a first use consistent with the requirements of clauses (A) or (B).
+[28] The reasonable expectation of a first use is essentially a reasonable expectation that the use meet the criteria of the first actual use. To that end, paragraph 16 in Melinte v. R., [2009] 1 C.T.C. 2046, is very interesting but also relevant.
+16. Since the requirements of paragraph (iii) of the definition of "qualifying residential unit" will be satisfied by either the actual first use or the reasonably expected first use determined under clause (A) or (B), the first step will be to determine what actual first use will qualify. The reasonably expected first use would simply be a reasonable expectation that the use would satisfy the requirements for the actual first use.
+[29] In this case the right of the appellant to the rebate is determined on the basis of the expected use of the unit. Therefore the test is satisfied if the appellant reasonably expects at the “particular time” that the usage will be as contemplated by clause (B).
+[30] For the purposes of the rebate, the “particular time” is the time provided for in subsection 256.2(3) of the Act. This subsection provides in part as follows:
+256.2 (3) Rebate in respect of land and building for residential rental accommodation—If
+(a) a particular person, other than a cooperative housing corporation,
+(i) …
+(ii) is a builder of a residential complex, or of an addition to a multiple unit residential complex, that gives possession or use of a residential unit in the complex or addition to another person under a lease entered into for the purpose of its occupancy by an individual as a place of residence that results in the particular person being deemed under section 191 to have made and received a taxable supply by way of sale (in this subsection referred to as the “deemed purchase”) of the complex or addition,
+(b) at a particular time, tax first becomes payable in respect of the purchase from the supplier or tax in respect of the deemed purchase is deemed to have been paid by the person,
+(c) at the particular time, the complex or addition, as the case may be, is a qualifying residential unit of the person or includes one or more qualifying residential units of the person, and
+(d) the person is not entitled to include the tax in respect of the purchase from the supplier, or the tax in respect of the deemed purchase, in determining an input tax credit of the person,
+the Minister shall . . . pay a rebate to the person equal to the. . .
+[31] The “particular time” referred to in the definition of "qualifying residential unit" is, therefore, the particular time that the tax under the Act first becomes payable or is deemed to have been paid.
+[32] Since the appellant engaged another person to construct its complex at a time when it had an interest in the land where the complex is situated, the appellant is a “builder” within the meaning of section 123(1) of the ETA.
+[33] Subsection 191(3) of the Act provides for an irrebuttable presumption whereby, under certain circumstances, the builder of a multiple-unit residential complex is deemed to have made and received a taxable supply by way of sale of the complex.
+[34] This is known as the “self-supply of a multiple-unit residential complex” rule. Subsection 191(3) of the Act provides, in part, as follows:
+191. (3) Self-supply of multiple unit residential complex—For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+(b) the builder of the complex
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) …
+(ii) …
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[Emphasis added.]
+[35] Thus, the “particular time” to be considered in determining whether the appellant reasonably expected at the time that the first use would be as contemplated by clause (B) is the later of the time at which the work was substantially completed and the time possession of the unit was so given to the third party under a lease or the unit was so occupied by the builder.
+[36] Furthermore, in its explanatory note issued in February 2001 in respect of section 256.2 of the ETA, Parliament specifies that in the case of a multiple unit residential complex, the time possession of the unit so given to a third party is the day a residential unit is first leased to an individual as the primary place of residence.
+[37] To conclude, it is important to note that the requirements of clause (B) of subparagraph (a)(iii) of the definition of “qualifying residential unit” are set out in subsection 256.2(1) of the Act. Melinte v. R., supra, at paragraph 17, stands for the following doctrine:
+(a) the unit must be used as a place of residence of individuals;
+(b) each of whom is given continuous occupancy of the unit;
+(c) under one or more leases;
+(d) for a period
+(e) throughout which the unit is used as the primary place of residence of that individual;
+(f) of at least one year (or the shorter period of time contemplated by this clause).
+[38] From the outset, it appears quite obvious to me that the financial arrangements taken into account by the appellant for its new 78-unit residential complex targeted twelve-month leases. It was a realistic and entirely reasonable goal, especially since the appellant company already operated a complex in the same sector which also targeted the same clientele.
+[39] Planning for the occupation of the premises by third parties was modified for reasons beyond the control of the appellant, which had to revise its goals owing to a delay caused by a soil quality problem.
+[40] In fact, in August 2007, appellant realized that the construction of its complex was falling behind schedule and that it would not likely be ready in time for the beginning of the school year in fall 2009.
+[41] To mitigate the impact of the delay, the appellant offered, in particular through its advertisements, eleven-month leases with the objective of bringing its clientele to July 1 of the following year.
+[42] Counsel for the appellant stated that the offer to grant an eleven-month lease was explained and justified by a delay caused by the latent defect affecting the quality of the soil on which the building was to be erected.
+[43] When asked to explain how and why an eleven-month lease was still a possibility beyond the first year, counsel stated that it was a question of fairness and justice.
+[44] In such a context with such praiseworthy sentiments, am I to understand that the students would continue to pay the same rent as in the beginning? The answer is not useful except to say that the fairness and justice argument is not particularly persuasive and is somewhat simplistic.
+[45] Upon reading the relevant legislative provisions, it is obvious that Parliament intended to refer to housing units leased for an extended period of time by excluding all daily, weekly and even monthly rentals.
+[46] When drafting the legislative provisions, did Parliament intend at the time to address the situation of students who attend college at such a distance that it is simply not possible to do the daily work and, therefore, have no other choice but to live within close proximity to the institution where they are studying? These same students whose financial situation is often difficult, if not precarious, are, therefore, unable to incur non-essential costs; in such a context, it is perfectly normal and legitimate for them to seek to obtain a lease whose duration corresponds with their academic year.
+[47] While I cannot answer that question, I am, however, of the view and satisfied on the evidence that the facts make it possible to conclude that the appellant met and complied with the conditions to apply for the rebate. Indeed, there is no doubt that the residential units in question were leased for extended periods of time within the meaning and spirit of the Act.
+[48] The eleven-month lease was a rather attractive option for students at the CEGEP level whose courses generally run from August to June. The explanation based on fairness seems to me somewhat far-fetched. Nevertheless, all the other elements are reasonable and probable because in addition to being credible, they are valid for a similar model or project whose relevance is undeniable. The purpose, the location and the target clientele were a strong indication.
+[49] Seeing as when it came time to signing the leases with their clients in 2009, said clients were for the most part subject to an eleven-month term, it may appear, on its face, that the appellant could hardly expect, at the “particular time,” that the first use would be as contemplated by clause (B).
+[50] Mr. Boissonneault indicated that the first intention of the appellant’s real estate activities was always to offer long-term leases, that is to say, leases of twelve months or more. As regards the appellant’s purpose, there is no doubt that the project targeted long-term leases, which are more stable and less demanding from a management perspective.
+[51] Considering the nature of the investment, Mr. Boissonneault also stated that the profitability of the appellant’s project was based essentially on the need for long- term leases. The appellant relied heavily on the renewal of its leases.
+[52] To gain customer loyalty, the appellant allowed its tenants to personalize their units and also offered them the twelfth month of the lease at half price.
+[53] In addition, the college students with whom the appellant did business were obviously from outside the MRC of Drummondville. Thus, the students would, theoretically, relocate to Drummondville for a minimum period of 2 to 3 years, that is, the duration of a complete college program.
+[54] Furthermore, when it first began developing the project, the appellant had a tenant retention rate of 90% in the 26-unit residential complex, also located within close proximity to the Cégep de Drummondville.
+[55] The 26 residential units offered in the complex were also similar to those planned for the appellant’s new construction. The complex it already owned could certainly serve as a benchmark for the appellant when it began its project.
+[56] With its experience from managing the similar or comparable complex, the appellant had very useful and relevant data as regards expectations and needs; it was able to assess and plan using realistic and reasonable data.
+[57] The respondent’s approach relied primarily on the situation which prevailed upon the expiration of the first round of leases and on the circumstances that led to the second year of leasing.
+[58] However, it seems patent to me that the appellant had at the “particular time,” that is to say, at the later of the time at which the work was substantially completed and the time possession of the unit so given to the third party under a lease, a reasonable expectation of renewal of the leases in question.
+[59] According to the preponderence of the evidence, the appellant’s initial intention, which was reasonable and based on a number of rational, reasonable, even probable, premises was to have all the residential units occupied for minimum periods of one year.
+[60] Considering all these facts, which are also confirmed to a great extent by the passing of time, I conclude that the 78 residential units were consistent with the definition of “qualifying residential unit” set out in subsection 256.2(1) of the Act; as a result, the appeal is allowed such that the appellant is entitled to the rebate claimed, with costs.
+[61] Accordingly, the appeal is allowed with costs to the appellant.
+Signed at Ottawa, Canada, this 16th day of October 2012.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 5th day of March 2013.
+François Brunet, Revisor
+CITATION: 2012 TCC 362
+COURT FILE NO.: 2010-3553(GST)G
+STYLE OF CAUSE: BOISSONNEAULT GROUPE IMMOBILIER INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: May 16, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 16, 2012
+APPEARANCES:
+Counsel for the appellant:
+Dominique Gilbert
+Counsel for the respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For:
+Name: Dominique Gilbert
+Firm: Heenan Blaikie
+Sherbrooke, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

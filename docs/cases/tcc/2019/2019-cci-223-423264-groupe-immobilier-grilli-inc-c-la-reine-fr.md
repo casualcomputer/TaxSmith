@@ -1,0 +1,220 @@
+---
+title: "Groupe Immobilier Grilli inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423264/index.do"
+last_modified: "2019-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 223"
+citation2: ""
+neutral_citation: "2019 CCI 223"
+decision_date: "2019-10-16"
+language: "fr"
+item_id: "423264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4197
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-03T21:14:23.220000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "715dd9a76b46bb2334002450cda4d70400d4d8e5522296d67302de38f34cd6a3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Groupe Immobilier Grilli inc. c. La Reine
+
+- Citation: 2019 CCI 223
+- Decision date: 2019-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4197, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Groupe Immobilier Grilli inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-16
+Référence neutre
+2019 CCI 223
+Numéro de dossier
+2015-2243(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2243(IT)G
+ENTRE :
+GROUPE IMMOBILIER GRILLI INC.,
+Appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée.
+Appel entendu le 9 avril 2019, à Montréal (Québec)
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocat de l'appelante :
+Me Extra Junior Laguerre
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010, est rejeté, avec dépens, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour d'octobre 2019.
+« Guy R. Smith »
+Juge Smith
+Référence : 2019 CCI 223
+Date : le 15 octobre 2019
+Dossier : 2015-2243(IT)G
+ENTRE :
+GROUPE IMMOBILIER GRILLI INC.,
+Appelante,
+et
+SA MAJESTÉ LA REINE,
+Intimée.
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Aperçu
+[1] Groupe Immobilier Grilli inc. (ci-après : « Groupe Grilli » ou « l’appelante ») interjette appel d’une nouvelle cotisation établie le 27 août 2013 par le ministre du Revenu national (ci-après : le « Ministre ») refusant la déduction d’une dépense réclamée au montant de 321 429 $ pour des honoraires professionnels pour l’année d’imposition se terminant le 31 août 2010.
+[2] Selon le Ministre, cette dépense n’est pas déductible du revenu d’entreprise de Groupe Grilli puisqu’elle n’a pas été engagée ou effectuée dans le but de tirer un revenu d’entreprise ou de bien, le tout tel que requis par l’alinéa 18(1)(a) de la Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e suppl.) (ci-après : la « Loi »).
+II. La question en litige
+[3] La seule question en litige est à savoir si le Ministre était justifié de refuser la déduction de la dépense de 321 429 $ réclamée par l’appelante à l’égard des honoraires professionnels en question en application de l’alinéa 18(1)(a).
+III. Exposé des faits
+[4] Groupe Grilli est une société spécialisée dans le développement immobilier qui est constituée le 6 septembre 2005 en vertu de la Loi sur les compagnies, RLRQ. c. C-38 (« Loi sur les compagnies »), suite à la fusion de deux sociétés à numéro. L’actionnaire majoritaire est la société Placements Grilli inc. (« Placements Grilli »), une société de portefeuille dont les actionnaires sont Mario Grilli (ci-après « M. Grilli »), Rita Grilli et la Fiducie de famille Grilli.
+[5] Au cours des années 1990, une société associée à la famille Grilli, acquiert certains terrains sur le territoire de la Ville de L’Île-Bizard (amalgamée en 2002 avec la Ville de Montréal). Suite au non-paiement des impôts fonciers échus, la municipalité entreprend de faire vendre les terrains.
+[6] Lors d’une vente aux enchères qui a lieu le 13 novembre 1997, Jean Denis (ci-après : « M. Denis ») se porte acquéreur des terrains pour la somme de 175 550 $. Selon les certificats d’adjudications et reçus officiels, M. Denis effectue l’achat pour le compte d’une « compagnie à être formée ».
+[7] Le 9 novembre 1998, la société Le Village de L’Île inc. (ci-après : « Village inc. ») est constituée en vertu de la Loi sur les compagnies. Dans sa déclaration initiale, son activité principale est décrite comme étant « vente et achat d’immeubles » ou « l’exploitation de terrains à L’Île-Bizard ».
+[8] Les actionnaires fondateurs de Village inc. sont 2970-8955 Québec inc. (ci-après : « Gestion Denis »), une société dont l’actionnaire principal est M. Denis et Gestion Pasimon ltée (ci-après : « Gestion Pasimon »), dont l’actionnaire principal est Me. Yvan Papineau (ci-après « Me. Papineau »). Ils sont désignés comme administrateurs, tel que confirmé dans la déclaration initiale. Gestion Denis et Gestion Pasimon détiennent chacun 50% des actions émises.
+[9] Un acte de vente pour les terrains en question intervient finalement le 16 mars 1999 entre la Ville de L’Île-Bizard et Village inc. À partir de ce moment-là jusqu’au début 2009, le projet de développement des terrains appelé « Le Village de l’Île » (ci-après : « le Projet ») n’avance pas beaucoup quoique certains lots sont vendus. Me. Papineau s’occupe d’acquitter les taxes foncières et entreprend certaines démarches auprès de la municipalité, mais sans succès.
+[10] Selon les états financiers de 2002 et nonobstant la déclaration initiale décrite ci-haut, il appert que M. Grilli détient 50% des actions de Village inc. et qu’il doit, comme les autres actionnaires, et dans cette proportion, effectuer des avances de fonds sur une base annuelle pour acquitter sa part des impôts fonciers. Selon les états financiers de 2007, ses actions sont détenues par « une société privée » et il y a lieu de conclure qu’il s’agit de Placements Grilli.
+[11] Le 1er mars 2009, M. Denis décide de céder ses actions de Gestion Denis à la société Gestion Paolo Grilli inc. (ci-après : « Gestion Paolo »), dont Paolo Grilli, fils de M. Grilli, est l’actionnaire principal. Selon la convention de vente, Gestion Denis détient à ce moment-là, 25 % des actions de Village inc. Le prix de vente est fixé à 1 500 000 $ (incluant une créance).
+[12] Suite à cette transaction, une déclaration modificative est déposée auprès du Registraire des entreprises du Québec indiquant que les actionnaires sont Placements Grilli, Gestion Pasimon (détenu à 100% par Me. Papineau) et Gestion Denis (maintenant détenu à 100% par Gestion Paolo). M. Denis démissionne à titre d'administrateur tandis que Me. Papineau demeure et M. Grilli et Paolo Grill sont ajoutés comme nouveaux administrateurs.
+[13] À partir du printemps 2009, Groupe Grilli entreprend divers travaux nécessaires à la réalisation du Projet et retient les services d’experts-conseils pour la préparation de plans et devis et pour l’estimation des coûts pour les services (eau potable, égout sanitaire et pluvial, fondation de rue et ainsi de suite). À titre de promoteur du Projet, elle conclut une entente avec la Commission des services électriques de Montréal et acquitte les frais qui s’imposent pour la demande de lotissement.
+[14] Le 10 mars 2010, Groupe Grilli conclut une entente avec la Ville de Montréal pour les « travaux relatifs aux infrastructures et aux équipements municipaux » et, le 22 mars 2010, obtient un permis de lotissement pour la première phase. Ce faisant, l’appelante engage des dépenses importantes qui ne font pas l’objet de cet appel.
+[15] Entre-temps, les parties s’entendent que Placements Grilli va se porter acquéreur des actions de Village inc. détenues par Gestion Pasimon et Gestion Paolo (ayant chacun 25% des actions). Suite à des négociations, Gestion Pasimon remet à Groupe Grilli une facture en date du 25 février 2010 de 321 429 $ avec la mention « honoraires de consultation ». Cette facture est acquittée le jour même. Il s’agit de la facture qui fait l’objet de cet appel.
+[16] Le lendemain, soit le 26 février 2010, Gestion Pasimon et Gestion Denis conviennent une entente avec Placements Grilli pour la vente de leurs actions dans Village inc. Le prix est fixé à 1 500 000 $ par actionnaire en plus du remboursement des avances d’actionnaires.
+[17] Par la suite, soit le 30 avril 2010, Placements Grilli conclut « une convention de vente d’actions et de roulement » avec Groupe Grilli pour l’acquisition de 100% des actions de Village inc. en contrepartie de la somme de 6 000 000 $. Village inc. devient donc une filiale de Groupe Grilli, soit l’appelante dans cette instance.
+Témoignages
+[18] Il y a plusieurs témoins pour l’appelante. Je retiens l’essentiel de leurs témoignages en terminant avec celui des principaux témoins, soit M. Denis et Me. Papineau.
+[19] Me. Cristina Grilli, notaire et fille de M. Grilli, et Paolo Grilli, fils de M. Grilli, confirment que l’entreprise familiale « Groupe Grilli » est active dans le domaine de l’acquisition de terrains, le développement immobilier, incluant le lotissement, la vente de lots et la construction de nouvelles résidences et ce depuis au moins le début des années 1990.
+[20] Il y a ensuite plusieurs témoins ayant un lien directe ou indirecte avec le Projet, dont M. Sylvain Provencher, chef de division, urbanisme, permis et inspection pour la ville de l’arrondissement de l’Ile-Bizard et M. Gaétan Lafrance de la Commission des services électriques de la Ville de Montréal. Ils ont reconnu certains documents conclus avec Groupe Grilli en 2009 et 2010.
+[21] De plus, la Cour a entendu le témoignage de M. Daniel Paré, urbaniste avec Daniel Arbour et Associés de 1991 à 2011, qui est mandaté en décembre 2009 et ensuite M. Bernard Lefebvre, ingénieur avec CDGU ou « Consultants en développement et gestion urbains », un groupe de génie-conseil, aussi mandaté par Groupe Grilli pour certains travaux relativement au Projet. Selon ce dernier, il reçoit la consigne au début 2009 de facturer Groupe Grilli et non Village inc.
+[22] De même, M. Alain Croteau, arpenteur-géomètre, est mandaté par Groupe Grilli en 2010. Il confirme qu’il n’est pas inhabituel qu’un promoteur retienne ses services même s’il n’est pas propriétaire des terrains en question. Selon lui, cela arrive très fréquemment dans le monde du développement immobilier.
+[23] Ensuite, deux employés de Groupe Grilli ont témoigné, dont Mme Carole Tétreault, urbaniste, qui a préparé des plans et mandaté les experts-conseils pour le Projet, et Mme Dominique Ledoux, contrôleur corporatif. Ils confirment que M. Grilli se présente encore au bureau pendant quelques heures par jour, en dépit de son âge. A cet effet, un certificat médical est déposé en preuve confirmant qu’il ne peut témoigner en raison de son état de santé.
+[24] Me. Caroline Hébert, avocate avec Bourassa Boyer Juri-Fisc inc., explique la série de transactions et le plan fiscal, soit l’achat des actions de Village inc. par Placements Grilli suivi du roulement en faveur de Groupe Grilli.
+M. Jean Denis
+[25] À l’époque de l’achat des terrains en 1997, M. Denis est courtier hypothécaire et un ami de Me. Yves Papineau qui le présente à son client, M. Grilli. Suite au conseil de Me. Papineau, ils conviennent d’acheter les terrains de la ville, tel qu’indiqué ci-haut. M. Grilli avance 50 % du coût anticipé tandis que M. Denis et Me. Papineau avancent chacun 25 % des sommes requises pour un total d’environ 175 550 $. Le rôle de M. Denis est de représenter le groupe lors de la vente aux enchères. En contre-interrogatoire, il admet candidement que l’achat des terrains s’est effectué sans l’intervention de Groupe Grilli.
+Me. Yves Papineau
+[26] Me. Papineau est un avocat qui pratique surtout en droit immobilier sous le nom « Papineau Avocats inc. ». M. Grilli est son client depuis environ 1987. Il représente également le Groupe Grilli, quoique pas exclusivement. Selon lui, « Groupe Immobilier Grilli », tel que la société existe en 1997, est en difficulté financière. Il y a une hypothèque en faveur de la Banque Nationale et la municipalité de l’Ile-Bizard menace de vendre les terrains pour récupérer les impôts fonciers échus. C’est alors qu’il suggère à M. Grilli d’acheter les terrains de la municipalité lors de la vente aux enchères, tel qu’expliqué ci-haut, par l’entremise de M. Denis.
+[27] Il confirme le témoignage de M. Denis en précisant que M. Grilli n’est inscrit comme actionnaire de Village inc. au départ, étant donné « les divergences avec la Banque Nationale ». Il confirme que le but de la société Village inc. est de détenir les terrains « en attendant qu’on puisse les développer » et que Carole Tétreault (mentionnée ci-haut) entreprend certaines démarches avec la municipalité en vue de faire avancer le Projet. Avec l’approbation tacite de M. Grilli, mais sans qu’il y ait une entente écrite, il présente « plusieurs projets à la ville », mais sans succès puisqu’il n’y a pas d’infrastructure et que la ville de l’Ile-Bizard, au niveau du conseil d’administration surtout, n’est pas coopérante.
+[28] M. Grilli offre d’acheter ses actions pour la somme indiquée ci-haut en plus du remboursement de ses avances d’actionnaires. Me Papineau confirme qu’il n’a jamais, au fil des années, facturé Village inc. pour des honoraires professionnels ou pour ses démarches. Il explique lors de son interrogatoire:
+Me LAGUERRE: Ce montant-là de trois cent vingt et un mille quatre cent vingt-neuf (321 429), pourquoi ne pas l’avoir inclus dans le contrat de vente des actions (…)?
+Me PAPINEAU: Ben c’est parce que c’était pas pour les actions qu’il me l’a donné parce que, lui avait décidé – et je dis pas ça méchamment là – mais lui avait décidé unilatéralement que les actions ça valait un million et demi (1 500 000) et ça ne valait pas plus. Et il m’a dit : « Oui, tu mérites plus, mais pour le travail que t’as fait pour le ‘‘Groupe’’. Pis l’argent que tu ne feras pas, mais que le ‘‘Groupe’’ va faire. » Alors, c’est pour ça qu’il m’a demandé de facturer « Groupe ».
+Me LAGUERRE: Vous avez accepté comme ça les négociations?
+Me PAPINEAU: Moi je vais vous dire Me Laguerre. Je suis peut-être mal fait, mais n’importe qui qui me dit : « Fais-moi une facture de trois cent vingt et un mille quatre cent vingt-neuf (321 429 $) » je suis prêt à en faire une si j’ai un chèque qui vient avec.
+[29] Il explique ensuite pourquoi la facture a été faite au nom de Groupe Grilli :
+Me LAGUERRE: Donc, « Gestion Pasimon » c’est votre compagnie, bon; là on voit, c’est une facture qui est faite au nom de « Groupe Immobilier Grilli », pourquoi cette facture au nom de « Groupe Immobilier Grilli »?
+Me PAPINEAU: bon. Quand il a été question de vendre mes actions, je vous disais que je ne voulais pas les vendre etc. etc., là, on ne répétera pas ça. M. Grilli m’a dit : « Effectivement, tu as fait des choses pour le groupe. Tu as essayé de faire avancer le projet. C’est toi qui a arrangé le rachat des terrains de vente pour taxes. C’est toi qui ne veut pas vendre les terrains, contrairement à Jean Denis, qui lui, voulait ». […]
+Me LAGUERRE: On voit que c’est écrit « honoraires de consultation »; quelles consultations avez-vous fait?
+Me PAPINEAU: Bon, regardez, est-ce que c’est « honoraires de consultation », est-ce que c’est « honoraires pour le travail que j’ai fait avant », « honoraires pour les ventes que je n’ai pas faites », c’est peut-être pas le meilleur terme, là, mais, ça compensait le fait que « Groupe », le travail que j’avais pour « Groupe » et les profits que « Groupe » ferait avec le projet, que moi je ne ferais pas.
+[30] Et finalement, il tente d’expliquer de quelle façon les « honoraires de consultation » ont été calculés :
+Me LAGUERRE: Qui a fait « la formule » pour arriver au montant de trois cent vingt et un mille quatre cent vingt-neuf (321 429)?
+Me PAPINEAU: Qui a fait la formule, je ne le sais pas. Chose certaine, je ne pense pas que c’est moi. Qui, de l’autre côté, l’a fait, ça je ne pourrais pas vous dire.
+[31] Lors du contre-interrogatoire, Me. Papineau précise que la facture ne représente pas des honoraires professionnels puisqu’il s’agit de sa société de gestion. Il reconnaît qu’il n’y a aucune description détaillée, sauf la date avec le montant de la facture et les taxes.
+IV. Le droit applicable
+[32] L’alinéa 18(1)(a) de la Loi prévoit ce qui suit :
+Exceptions d’ordre général
+18 (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien; (…)
+[33] Le Ministre est d’avis que la dépense n’a pas été engagée ou effectuée dans le but de gagner un revenu et donc il incombe à l’appelante de démontrer, selon la prépondérance des probabilités, que la cotisation du ministre est erronée : House c. Canada, 2011 CAF 234.
+[34] Cette question doit être examinée dans le contexte de l’entreprise exploitée par le contribuable. Tel que l’explique la Cour suprême du Canada dans l’arrêt Stewart c. Canada, 2002 CSC 46 (« Stewart ») :
+[51] (…) Il est donc logique de conclure qu’une activité exercée en vue de réaliser un profit, quel que soit le niveau d’activité du contribuable, sera une source de revenus constituée soit d’une entreprise, soit d’un bien.
+[35] La Cour explique ensuite ce qui suit :
+[57] (…) Si la déductibilité d’une dépense particulière est en cause, ce n’est pas l’existence d’une source de revenus qui doit être mise en doute, mais plutôt le lien entre entre cette dépense et la source de revenus à laquelle elle est sensée se rapporter.
+[36] Quant à savoir si un contribuable doit nécessairement être propriétaire d’un bien-fonds avant de pouvoir engager une dépense qui est déductible en vertu de l’alinéa 18(1)(a), l’ancien juge en chef Bowman s’est exprimé ainsi dans la décision Gartry c. La Reine, 94 DTC 1947 (« Gartry »):
+16 On a également laissé entendre que l'entreprise n'avait peut-être pas encore débuté lorsque les dépenses ont été faites et que, s'il n'existait pas d'entreprise à ce moment, les dépenses n'ont pu être faites en vue de tirer un revenu d'une entreprise au sens de l'alinéa 18(1)a).(…) Chaque cas dépend des faits qui lui sont propres, mais, lorsqu'un contribuable a pris des mesures importantes, des mesures essentielles pour exploiter l'entreprise, il est juste de conclure que l'entreprise avait démarré. (…). À mon avis, l'entreprise avait débuté et était bien avancée lorsque les dépenses en question ont été faites. (…). Donc, même si le coût de la modification du navire représentait une dépense à titre de capital, les autres dépenses courantes comme les frais comptables, honoraires d'avocat, frais administratifs, frais de déplacement et coût d'assurance seraient déductibles. Les frais d'intérêts, comme je l'ai fait remarquer précédemment, sont déductibles en vertu de l'alinéa 20(1)c).
+(Mon soulignement)
+[37] Le juge Bowman conclut que même si le contribuable n’a pas dans les faits la propriété du bien en cause, les dépenses qu’il a engagées à son égard peuvent être déduites en vertu de l’alinéa 18(1)(a).
+[38] L’appelante dans cette instance a donc le fardeau de convaincre la Cour qu’elle a engagé la dépense en question dans le but de gagner un revenu et, plus précisément, selon Stewart (para. 57), qu’il y a un lien entre la dépense « et la source à laquelle elle est censée se rapporter ».
+[39] De plus, le lien entre la dépense réclamée et la source de revenus, doit être « suffisamment direct » et ne peut être trop « ténu ou éloigné » Sardami c. La Reine, 2017 CAF 131 (para. 14 et 18). Tel que l’indique la Cour d’appel fédérale, en citant Canada c. Byram, 99 DTC 5117 (para. 21), « une déduction ne peut être tellement éloignée du flux de revenu correspondant que son lien avec la perspective de revenu est, au mieux, ténu ».
+V. Thèse de l’appelante
+[40] L’appelante soutient qu’elle est déjà engagée dans le Projet avant d’acquérir les terrains en avril 2010. Elle a donc une activité commerciale en lien avec le Projet et donc une « source de revenus » au sens de la jurisprudence.
+[41] Selon l’appelante, la société Village inc. ne sert qu’à détenir les terrains et n’exploite pas vraiment une entreprise relativement au Projet. Elle n’a pas elle-même une « source de revenus » quant à ce projet. Elle a acquis les terrains et fait certaines démarches, mais cela ne constitue pas réellement une activité commerciale ou d’entreprise.
+[42] La dépense en question a été engagée dans le cadre des activités de Groupe Grilli. Puisque Village inc. n’a pas de source de revenus, elle ne peut déduire la dépense et seule l’appelante peut la déduire. Tout comme les dépenses encourues de façon prospective en vue de l’acquisition définitive des terrains, la dépense en question fait partie des frais d’intégration.
+[43] L’appelante soutient aussi que même si la cession des terrains s’effectue le 30 avril 2010, ils ont préalablement été vendus à l’appelante puisqu’il y a un contrat au sens du droit civil québécois, notamment l’article 1385 du Code civil du Québec, L.Q. 1991, c.64 (« C.c.Q. ») qui prévoit ce qui suit :
+1385. Le contrat se forme par le seul échange de consentement entre des personnes capables de contracter, à moins que la loi n’exige, en outre, le respect d’une forme particulière comme condition nécessaire à sa formation, ou que les parties n’assujettissent la formation du contrat à une forme solennelle.
+[44] Même si les actions de Village inc. ont été cédées à Groupe Grilli plus de soixante jours après la date de la facture en question, il y a néanmoins un « contrat » et « un échange de consentement » au sens de la disposition susmentionnée. C’est donc dans cette perspective que l’appelante a acquitté la dépense en question, ayant déjà engagé des dépenses importantes dans l’année qui a précédé l’acquisition des terrains.
+[45] Et finalement, l’appelante maintient que la dépense est raisonnable au sens de l’article 67 de la Loi et qu’il n’y pas lieu de remettre en doute le jugement d’affaires exercée par le Groupe Grilli, surtout que le montant de la dépense versé représente environ 5 % de la valeur totale des actions acquises.
+VI. Thèse de l’intimée
+[46] L’intimée maintient que l’appelante n’est devenue propriétaire des terrains que le 30 avril 2010. Les dépenses engagées avant cette date n’ont donc pas été engagées dans le but de gagner un revenu par rapport aux terrains, puisque Village inc. en est propriétaire. Il s’agit donc de la « source de revenus » de Village inc. et non pas celle de l’appelante au moment où les dépenses ont été engagées. Elle souligne que Village inc. a entrepris différentes démarches et a vendu certains terrains au fil des années.
+[47] L’appelante s’est impliquée comme promoteur du Projet, mais cela n’empêche pas qu’il s’agit de la « source de revenus » de Village inc. L’intimée prétend aussi qu’il n’y a pas de contrat de gestion entre l’appelante et Gestion Papineau, Me. Papineau ou même avec Village inc.
+[48] Finalement, l’intimée prétend que même si l’appelante aurait pu autrement déduire la dépense, la preuve ne permet pas de conclure qu’il s’agit d’une dépense qui a été engagée en vue de générer un revenu.
+VII. Analyse
+[49] Tel que précisé par l’intimée, la seule position du Ministre est que la dépense en question n’est pas déductible en vertu de l’alinéa 18(1)(a) de la Loi - même s’il est question des articles 20 et 67 dans la réponse à l’avis d’appel. Je traiterai donc uniquement de cette question.
+[50] Il est admis que Me. Papineau n’a pas facturé des « honoraires professionnels » relativement au Projet et donc la Cour doit nécessairement conclure que le Ministre avait raison de refuser la dépense à ce titre-là.
+[51] Est-ce que l’appelante pouvait néanmoins réclamer une déduction?
+[52] Dans un premier temps, il y a lieu de revoir l’avis d’appel ou il est indiqué que Village inc. « avait pour mission d’acquérir, de subdiviser et de développer un projet immobilier sur de vastes terrains » (…) (para. 12).
+[53] Il est ensuite indiqué que Me. Papineau «était en charge, sans être rémunéré, des diverses démarches requises auprès des autorités compétentes en vue d’obtenir l’autorisation du projet de développement des terrains acquis par le Village » (para. 13) et que, lors des négociations pour la vente des actions détenues par sa société de gestion « Pasimon imposa comme condition à toute entente avec l’appelante, le versement d’une compensation juste et raisonnable pour toutes les démarches effectuées auprès de diverses autorités pour l’obtention des autorisations nécessaires à la réalisation du projet immobilier » (para.19).
+[54] Le témoignage de Me. Papineau confirme ce sommaire sauf que la preuve indique sans équivoque que les actions ont été vendues à Placements Grilli. La Cour doit donc conclure que la « condition » en question a été imposée à Placements Grilli et non à l’appelante.
+[55] Le témoignage de Me. Papineau est relativement candide et crédible mais il y a des incohérences en ce qui regarde la dépense en question.
+[56] Il tente de résumer pourquoi M. Grilli a accepté de verser le montant en question en indiquant qu’il a fait « des choses pour le groupe », qu’il a « essayé de faire avancer le projet » et qu’il a « arrangé le rachat des terrains de vente de taxe », et ainsi de suite. Il indique ensuite que M. Grilli a voulu le compenser « pour l’argent que tu ne feras pas, mais que le Groupe va faire ».
+[57] Me. Papineau indique plus tard que la facture représente soit des « honoraires pour le travail que j’ai fait avant » ou des « honoraires pour les ventes que je n’ai pas fait ». Mais dans quelle proportion? Il ne peut l’expliquer et il n’y a aucune preuve là-dessus. M. Grilli n’a pas témoigné et donc n’a pu élucider la question.
+[58] Puisque la somme de 1 500 000 $ représente la juste valeur marchande des actions et que, selon Me. Papineau, le montant de la facture ne devait pas s’ajouter au prix de base rajusté, il est plus probable et la Cour doit conclure que M. Grilli a voulu le compenser pour les services rendus antérieurement, c’est-à-dire avant que Groupe Grilli ait assumé le contrôle du Projet.
+[59] Il en est de même de la suggestion que le calcul de la facture est basé sur un montant fixe par lot. Il n’y a aucune preuve pour soutenir cette thèse et je note par ailleurs que l’argument n’est pas soulevé dans l‘avis d’appel.
+[60] L’appelante prétend que seul Groupe Grilli a une source de revenus au sens de la jurisprudence. Pourtant, l’activité principale de Village inc. est décrite comme étant la « vente et l’achat d’immeubles » et « l’exploitation de terrains à l’Ile-Bizard ». Or, certains terrains ont été vendus au fil des années et Me. Papineau a certainement entrepris des démarches.
+[61] Finalement, la question de la source de revenus de Groupe Grilli n’est pas en litige et la Cour n’a pas a tranché là-dessus. De toute façon, cela ne l’empêche pas de conclure que la société Village inc. a elle aussi une source de revenus.
+[62] Puisque Me. Papineau détient des actions de Village inc. et qu’il en est administrateur, la Cour doit conclure qu’il a rendu des services pour cette société mais qu’il a néanmoins accepté de facturer l’appelante à la demande expresse de M. Grilli. Cependant, il n’y a aucune preuve d’une entente à ce sujet entre Gestion Pasimon et l’appelante ou encore entre Me. Papineau et l’appelante.
+[63] De plus, la société qui possède les terrains lors de la vente aux enchères qui a eu lieu en 1997, n’est pas l’appelante. Il se peut que celle-ci faisait antérieurement partie des compagnies du groupe corporatif de la famille Grilli, mais cela ne suffit pas.
+[64] L’appelante a seulement été constituée au mois de septembre 2005, soit plus de six ans après l’acquisition des terrains par M. Denis pour le compte d’une « compagnie à être formée », soit Village inc. et non l’appelante.
+[65] Même si la Cour accepte la prétention de l’appelante qu’il y a un contrat pour la vente des terrains à l’appelante au sens de l’article 1385 du C.c.Q., elle doit conclure que les services ont été rendus par Gestion Pasimon ou par Me. Papineau avant que Groupe Grilli ait assumé le contrôle du Projet.
+[66] Tel qu’indiqué ci-haut, « si la déductibilité d’une dépense particulière est en cause, ce n’est pas l’existence d’une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter.» (Stewart, para. 57). L’appelante avait le fardeau de convaincre la Cour, selon la prépondérance des probabilités, de l’existence de ce lien.
+[67] La Cour est d’avis que l’appelante n’a pas satisfait ce fardeau. Puisque les services ont été rendus alors que Me Papineau est administrateur de Village inc. et en partie du moins, avant que la société Groupe Grilli est constituée en 2005 et avant qu’elle assume le contrôle du Projet en 2009, et en l’absence d’une entente entre Gestion Pasimon ou Me. Papineau et l’appelante, la Cour doit conclure que le lien entre la dépense en question et la source de revenus de l’appelante n’est pas suffisamment direct pour être déductible en vertu de l’alinéa 18(1)(a) de la Loi.
+[68] Pour ces motifs, l’appel doit être rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 16e jour d'octobre 2019.
+« Guy R. Smith »
+Juge Smith
+RÉFÉRENCE :
+2019 CCI 223
+Nº DU DOSSIER DE LA COUR :
+2015-2243(IT)G
+INTITULÉ DE LA CAUSE :
+GROUPE IMMOBILIER GRILLI INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 9 avril 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+le 16 octobre 2019
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Extra Junior Laguerre
+Avocat de l'intimée :
+Me Emmanuel Jilwan
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Me Extra Junior Laguerre
+Cabinet :
+Laguerre Fiscaliste inc.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

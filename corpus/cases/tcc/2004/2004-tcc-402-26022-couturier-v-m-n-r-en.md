@@ -1,0 +1,198 @@
+---
+title: "Couturier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26022/index.do"
+last_modified: "2004-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 402"
+citation2: ""
+neutral_citation: "2004 TCC 402"
+decision_date: "2004-06-11"
+language: "en"
+item_id: "26022"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4082
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:21:18.264000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "236c21bd6b794050bbdafa97c34f004d309825f47d28245fff6539c649469dea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Couturier v. M.N.R.
+
+- Citation: 2004 TCC 402
+- Decision date: 2004-06-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4082, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Couturier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-11
+Neutral citation
+2004 TCC 402
+File numbers
+2003-1634(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-1634(EI)
+BETWEEN:
+ROGER COUTURIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+(2003-1636(CPP)) on April 7, 2004,
+at Edmundston, New Brunswick
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+Adrien Fournier
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, and the Minister’s decision is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of June 2004.
+“François Angers”
+Angers J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-1636(CPP)
+BETWEEN:
+ROGER COUTURIER,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+(2003-1634(EI)) on April 7, 2004,
+at Edmundston, New Brunswick.
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+Adrien Fournier
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of June 2004.
+“François Angers”
+Angers J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Reference: 2004TCC402
+Date: 20040611
+Dockets: 2003-1634(EI)
+2003-1636(CPP)
+BETWEEN:
+ROGER COUTURIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The Appellant is appealing from a decision of the Minister of National Revenue (the “Minister”) in which it was found that the Appellant was not employed in an insurable or pensionable employment for the period of February 18 to August 2, 2002, while he was working for Long Potato Growers Ltd. (the “Payor”), within the meaning OF paragraph 5(1)(a) of the Employment Insurance Act (the “Act”) and section 6 of the Canada Pension Plan (“CPP”). The two appeals were heard on common evidence.
+[2] In making his decision, the Respondent relied on the following assumptions of fact, which were either admitted or denied as indicated:
+a) the Payor is involved in potato-growing and wood-cutting; [admitted]
+b) the Appellant is a wood-cutter, and he owns a skidder worth approximately $20,000; [admitted]
+c) during the period at issue, the Appellant was hired by the Payor to harvest wood; [admitted]
+d) the use of the skidder was an integral part of the wood harvesting contract between the Appellant and the Payor; [denied]
+e) the wood harvesting contract was between the Appellant and the Payor; [admitted]
+f) the Appellant was required to hire another wood-cutter; [admitted]
+g) the wood-cutter’s pay came directly from the Appellant’s income; [admitted]
+h) the harvesting work was paid on the basis of a set amount per cord of wood, depending on the type of wood cut; [admitted]
+i) payments for the wood were divided between the Appellant and his skidder at the beginning of the period; [denied]
+j) after the wood-cutter was hired, payments were divided between the Appellant, his skidder, and the wood-cutter; [admitted]
+k) the Appellant received $590 per week for 14 weeks and $594 for 9 weeks during the period at issue; [admitted]
+l) the wood-cutter also received $590 per week; [admitted]
+m) the balance of the payments was allotted to the skidder; [admitted]
+n) the Appellant decided on the amount that would be recorded in the payroll register as his wages; [denied]
+o) the Appellant was responsible for the expenses relating to the use of his skidder; [admitted]
+p) the wood harvesting carried out from January 2002 until February 18 was not included by the Payor in the Appellant’s period of work; [admitted]
+q) the Appellant harvested wood under a contract of enterprise; and
+r) a contract of employment did not exist between the Appellant and the Payor.
+[3] The Appellant purchased a skidder in the fall of 2001 with financial assistance from the Payor. He repaid the Payor with the income from the first harvests of wood he carried out during the first two months of 2002. This explains why the Appellant’s record of employment identified February 18, 2002, as the first day of work. The Appellant started to work before this period, and the amounts received were used to repay the loan from the Payor.
+[4] At the outset, the Appellant worked alone. Further to an inspection by a forestry safety officer, the Appellant was required to hire a worker. He selected the worker, but this person was paid by the Payor. However, the worker’s wages were deducted from the Appellant’s wages. The Appellant was paid according to the number of cords of wood cut. The Appellant and his worker each received $590 per week, and the balance was applied against the usage costs for the skidder. This distribution was made in accordance with the Appellant’s wishes.
+[5] To perform his work, the Appellant provided four chainsaws and his skidder. He incurred all the expenses for the use and maintenance of the chainsaws and the skidder. In cases of major mechanical failures or where the weather would not permit the Appellant to perform his work, the Payor did not assign any other work, and the Appellant did not work.
+[6] A representative of the Payor indicated where the wood was to be cut and the size of the cut wood. He visited the sites every two or three days. No register of hours of work was maintained, because income was based on the volume of wood cut, according to a scale of rates. The Appellant set his own hours of work.
+[7] In his testimony, the Appellant stated that he had been self-employed since April 2003. However, he signed an employment questionnaire for Human Resources Development Canada in which he reported that he had been self-employed since February 11, 2002, that his business name was JKR Lumberjack, and that he was a skidder operator. The questionnaire also revealed that he worked with a wood-cutter five days a week, for eight hours a day. His remuneration for his services was determined according to a set rate per cord of wood cut. The remuneration identified in the questionnaire is the same as the amounts he received from the Payor for the first nine weeks.
+[8] Ms. Joanne Robichaud, Appeal Officer, confirmed some facts with respect to the relationship between the Appellant and the Payor, and filed her report. She confirmed that, according to the information received from the Payor’s representatives, the Appellant’s hours of work were not recorded, because he was paid based on the amount of wood cut. Moreover, the value of the wood cut during the first two months of 2002 was used solely to repay the loan made by the Payor to the Appellant to enable him to purchase his skidder. The Appellant admitted to this fact.
+[9] In Wiebe Door Services Ltd. v. Minister of National Revenue, [1986] 3 F.C. 553, the Federal Court of Appeal established a useful guide for distinguishing a contract of employment from a contract of enterprise. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, the Supreme Court of Canada endorsed this guide, summarizing the legal situation as follows at paragraphs 47 and 48:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[10] In Charbonneau v. Canada, [1996] F.C.J. No. 1337 (Q.L.), Marceau J. of the Federal Court of Appeal recalls that the factors at issue are guidelines which it will generally be useful to consider, but not to the point of jeopardizing the ultimate objective of the exercise, which is to determine the overall relationship between the parties.
+[11] In a recent decision, the Federal Court of Appeal restated the legal principles governing the issue of the insurability of employment. In Livreur Plus Inc. v. Canada, [2004] F.C.J. No. 267, Létourneau J. summarized these principles in paragraphs 18 and 19 of his judgment as follows:
+In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada (Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D&J Driveway Inc. v. The Minister of National Revenue, supra, at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), supra, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker."
+[12] In this case, the Payor’s version of the facts is unknown, except for the information the Appeal Officer gathered at the time of her investigation. The Appellant has not contradicted this information. The information to be retained from the facts presented overall is that the Payor did not keep track of the Appellant’s and the worker’s hours of work, and based himself solely on the quantity of wood cut and measured to pay them. The weekly advances were determined by the Appellant, and the balance owing reimbursed the expenses incurred in the use of the skidder. At the end of the period, the advances were adjusted in accordance with the quantity of wood that was actually cut. The worker’s wages were deducted from the Appellant’s income. All expenses relating to the skidder were incurred by the Appellant, and a major mechanical failure resulted in a work stoppage with no remuneration.
+[13] The work method, the use of the skidder or the chainsaw, the number of work days per week, and the number of work hours per day were at the discretion of the Appellant. The Payor did not check how the Appellant was performing his work; it only ensured that the Appellant was cutting the wood in the correct area and in the lengths required. The Payor had a greater interest in the quantity of wood cut, therefore in the results, than in exercising control over the Appellant’s activities. As Létourneau J. stated in Livreur Plus Inc., supra, “monitoring the result must not be confused with controlling the worker.” He refers to Charbonneau v. Canada, supra. In this case, Décary J. wrote the following:
+Supervision of the work every second day and measuring the volume every two weeks do not, in this case, create a relationship of subordination, and are entirely consistent with the requirements of a contract of enterprise. It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+[14] In light of the facts, the Payor was interested only in the quantity of wood cut, not in exercising control over the Appellant. The Payor was not free to assign workers other than the Appellant and his worker to the skidder. It is difficult to establish subordination in a case like this one. Moreover, the Appellant’s activities were neither integrated nor coordinated with those of the Payor. Even though the Appellant knew that the Appellant was harvesting wood in the designated areas, the Payor’s daily activities did not depend on those of the Appellant. The relationships described in the case at issue do not create a relationship of subordination comparable to the one that exists between an employer and an employee. In Canada v. Rousselle, [1990] F.C.J. No. 990, Hugessen J. concluded as follows in a similar case: “[…] the fact of giving instructions on the type of wood to be cut and checking it when it is measured does not in itself create a relationship of subordination like that which exists between an employer and an employee.”
+[15] In this case, the Appellant assumed full responsibility for the expenses relating to the use of the skidder and its maintenance and repairs. This type of agreement points clearly to the existence of a contract of enterprise, where the chance of profit or the risk of loss is the Appellant’s only. Ownership of a chainsaw in this type of work does not prevent a wood-cutter from being considered an employee. However, in this case, the Appellant provided his own skidder, financed by the Payor, something that is not normally asked of a worker in the presence of a contract of employment, owing to the costs. (See Canada v. Rousselle, supra).
+[16] I cannot ignore the fact that, on February 11, 2002—seven days before the alleged first day of work—the Appellant considered himself to be self-employed, operating under the business name JKR Lumberjack.
+[17] The facts overall allow me to conclude that the relationship between the Payor and the Appellant points to the existence of a contract of enterprise. The Appellant, therefore, was not hired under a contract of employment during the period at issue, thus he could not carry on an insurable employment within the meaning of the Act or a pensionable employment within the meaning of the CPP. Therefore, the appeals are dismissed.
+Signed at Ottawa, Canada, this 11th day of June 2004.
+“François Angers”
+Angers J.
+Certified true translation
+Colette Dupuis-Beaulne
+REFERENCE:
+2004TCC402
+COURT FILE No.:
+2003-1634(EI) and 2003-1636(CPP)
+STYLE OF CAUSE:
+Roger Couturier and the Minister of National Revenue
+PLACE OF HEARING:
+Edmundston, New Brunswick
+DATE OF HEARING:
+April 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge François Angers
+DATE OF JUDGMENT:
+June 11, 2004
+APPEARANCES:
+For the Appellant:
+Adrien Fournier
+For the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

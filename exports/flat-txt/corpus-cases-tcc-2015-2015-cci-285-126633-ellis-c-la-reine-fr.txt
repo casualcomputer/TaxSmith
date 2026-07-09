@@ -1,0 +1,195 @@
+Title: Ellis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126633/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-285-126633-ellis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-17
+
+# Ellis c. La Reine
+
+- Citation: 2015 CCI 285
+- Decision date: 2015-11-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2684, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ellis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-17
+Référence neutre
+2015 CCI 285
+Numéro de dossier
+2012-4022(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4022(IT)G
+ENTRE :
+SANDRA ELLIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 avril 2015, à Hamilton (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me John D. Buote
+Avocate de l’intimée :
+Me Dominique Gallant
+JUGEMENT
+Pour les motifs du jugement ci-joints, l’appel interjeté contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu, dont l’avis est daté du 19 janvier 2011 et porte le numéro 1153204, est accueilli, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et établissement d’une nouvelle cotisation visant à supprimer la pénalité de 10 199,73 $. Les intérêts doivent être rajustés en conséquence.
+Chaque partie doit payer ses propres dépens.
+Signé à Ottawa, Canada, ce 17e jour de novembre 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 22e jour d’avril 2016.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 285
+Date : 20151117
+Dossier : 2012-4022(IT)G
+ENTRE :
+SANDRA ELLIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] L’appelante, Sandra Ellis, interjette appel d’une cotisation établie au titre de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi ») relativement à l’intérêt indivis de 50 % sur le foyer conjugal que lui a transféré son époux, Tom Ellis.
+I. Faits [2] Le transfert de l’intérêt indivis de 50 % sur le foyer familial a eu lieu le 2 juin 2006.
+[3] Au début de l’audience, l’appelante a reconnu ne pas avoir payé une contrepartie appropriée à l’égard du bien. Autrement dit, la valeur du bien qui lui a été transféré dépassait le montant impayé de l’impôt sur le revenu de son époux.
+[4] Au moment du transfert, Tim Ellis (le « cédant ») devait les sommes suivantes :
+Année d’imposition
+Impôt fédéral sur le revenu
+Pénalité
+Intérêts
+Total
+2004
+12 695,30 $
+0,00 $
+6 267,70 $
+18 963,00 $
+2005
+13 311,74 $
+6 132,52 $
+6 189,63 $
+25 633,89 $
+2006
+2 904,34 $
+1 794,24 $
+1 222,31 $
+5 920,89 $
+Total
+28 911,38 $
+7 926,76 $
+13 679,64 $
+50 517,78 $
+Année d’imposition
+Impôt provincial sur le revenu
+Pénalité
+Intérêts
+Total
+2005
+0,00 $
+2 142,14 $
+0,00 $
+2 142,14 $
+2006
+0,00 $
+524,75 $
+0,00 $
+524,75 $
+Total
+0,00 $
+2 666,89 $
+0,00 $
+2 666,89 $
+[5] L’intimée a appelé un témoin, Wendy Rueger, agente des cas complexes employée par l’Agence du revenu du Canada (l’« ARC »). Mme Rueger a expliqué qu’il lui a été demandé de préparer les détails modifiés relatifs à la cotisation aux fins de l’appel, compte tenu des réductions appliquées à la dette fiscale de M. Ellis après que l’appelante eut fait l’objet d’une cotisation fondée sur l’article 160 de la Loi. Par suite de ces modifications, l’intimée concède maintenant que l’appelante doit la somme de 38 380,65 $, calculée de la manière suivante :
+Année d’imposition
+Impôt fédéral sur le revenu
+Pénalité
+Intérêts
+Total
+2004
+6 442,53 $
+0,00 $
+1 904,48 $
+8 347,01 $
+2005
+11 840,70 $
+8 024,58 $
+5 639,28 $
+25 504,56 $
+2006
+1 465,91 $
+2 175,15 $
+888,02 $
+4 529,08 $
+Total
+19 749,14 $
+10 199,73 $
+8 431,78 $
+38 380,65 $
+[6] Mme Rueger a confirmé que le montant susmentionné ne comprenait que l’impôt fédéral sur le revenu. Elle a présenté une analyse complète de la façon dont des rajustements ont été apportés afin que soit éliminé l’impôt provincial sur le revenu dont M. Ellis était redevable. Je conclus que la cotisation frappée d’appel ne vise que des sommes exigibles selon la Loi.
+[7] Compte tenu de ce qui précède, les questions en litige peuvent se résumer ainsi :
+(a) Les remboursements d’impôt dus à M. Ellis ont-ils été appliqués aux bonnes années d’imposition?
+(b) Le fardeau initial d’établir la dette fiscale du cédant incombe‑t‑il à l’intimée et, le cas échéant, cette dernière s’est-elle acquittée de son fardeau à cet égard?
+II. Analyse [8] Le principal argument de l’appelante était que le fardeau d’établir le montant d’impôt à payer par M. Ellis incombe à l’intimée et que celle‑ci ne s’en est pas acquittée.
+[9] Je suis d’accord avec l’appelante pour dire que le fardeau initial d’établir la dette fiscale du cédant incombe à l’intimée.
+[10] Dans la décision Beaudry c. La Reine[1], mon collègue le juge Tardif expose de la manière suivante le fardeau qui incombe à la Couronne dans le contexte d’une cotisation fondée sur le paragraphe 160(1) :
+[26] Il existe une exception et l’honorable juge Archambault a traité de cette exception dans la cause Gestion Yvan Drouin :
+Comme c’est le Ministre qui exerce le recours contre un tiers pour recouvrer la dette fiscale qui lui est due par le débiteur fiscal, il m’apparaît tout à fait raisonnable que ce soit à lui qu’incombe la charge d’établir prima facie l’existence de la dette fiscale. Pour y arriver, le Ministre a normalement en sa possession la déclaration de revenue du débiteur fiscal et, s’il a effectué une vérification, il peut détenir des copies des pièces justificatives ou de tout autre document pertinent à l’appui de sa cotisation. C’est donc lui qui est en meilleure position pour établir le montant de la dette fiscale. J’en viens donc à la conclusion que c’est au ministre qu’incombe généralement la charge de faire la preuve prima facie de la dette fiscale lorsqu’il y a une cotisation établie en vertu du paragraphe 160(1) de la Loi.
+...Dès que le ministre a fait la preuve prima facie de l’existence de la dette fiscale, la charge revient au cessionnaire de présenter une preuve contraire.
+[Non souligné dans l’original.]
+[11] Je souscris à cette observation.
+[12] Pendant son témoignage, Mme Rueger a expliqué dans le détail comment l’obligation fiscale de l’appelante prévue à l’article 160 a été recalculée compte tenu du fait que la dette fiscale de M. Ellis selon la partie I de la Loi a fait l’objet de rajustements par suite de l’établissement de nombreuses nouvelles cotisations. Son témoignage n’a pas été contredit par l’appelante. Par conséquent, je conclus que la Couronne s’est acquittée de son fardeau initial en ce qui a trait aux sommes dues par l’appelante relativement à la dette fiscale de la partie I de l’époux de celle‑ci.
+[13] Mme Rueger n’a toutefois pas expliqué pourquoi M. Ellis s’est vu imposer des pénalités pour faute lourde prévues au paragraphe 163(1) de la Loi. Étant donné que les circonstances justifiant l’imposition d’une pénalité n’ont pas été établies, les pénalités doivent être éliminées de la cotisation dont fait l’objet l’appelante.
+[14] Dans ses observations écrites, l’intimée fait valoir que l’appelante n’a pas contesté la dette fiscale du cédant dans son avis d’appel modifié. Je remarque que l’appelante n’était pas représentée par un avocat lorsqu’elle a préparé son avis d’appel modifié. Je ne crois pas que la lacune susmentionnée ait causé un préjudice à l’intimée. L’appelante avait pris des dispositions pour appeler Mme Rueger à comparaître comme témoin. Son témoignage était nécessaire pour expliquer les changements importants apportés à la dette fiscale de M. Ellis par suite des nombreuses nouvelles cotisations dont il a fait l’objet depuis qu’une cotisation fondée sur le paragraphe 160(1) a été établie à l’égard de l’appelante. Dans ce contexte, il était clair que l’obligation fiscale de M. Ellis devait être établie à l’instruction.
+[15] Pour ces motifs, l’appel interjeté par l’appelante est accueilli en partie, et l’affaire est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation visant à supprimer la pénalité de 10 199,73 $. Les intérêts doivent être rajustés en conséquence. Chaque partie doit payer ses propres dépens.
+Signé à Ottawa, Canada, ce 17e jour de novembre 2015.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 22e jour d’avril 2016.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 285
+NO DU DOSSIER DE LA COUR :
+2012-4022(IT)G
+INTITULÉ :
+SANDRA ELLIS c. LA REINE
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 avril 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 17 novembre 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John D. Buote
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Me John D. Buote
+Cabinet :
+BRS Tax Lawyers LLP
+Brampton (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 CCI 464, 205 DTC 549. Voir aussi la décision Gestion Yvan Drouin Inc. c. Canada, [2000] A.C.I. no 872 (QL), 2001 DTC 72.

@@ -1,0 +1,153 @@
+---
+title: "Marples v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232841/index.do"
+last_modified: "2017-07-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 129"
+citation2: ""
+neutral_citation: "2017 TCC 129"
+decision_date: "2017-07-06"
+language: "en"
+item_id: "232841"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2104
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:17:54.494000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5f327289eca64eda4b66662971af0a55469bbc713f2c057e78bd43f22a13c0fa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marples v. The Queen
+
+- Citation: 2017 TCC 129
+- Decision date: 2017-07-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2104, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marples v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-07-06
+Neutral citation
+2017 TCC 129
+File numbers
+2016-4526(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4526(IT)G
+BETWEEN:
+SIMON MARPLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard and decision rendered on June 22, 2017
+at Vancouver, British Columbia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Geraldine Chen
+ORDER
+Upon motion made by the Appellant for a determination pursuant to Rule 58(1)(a) of the Tax Court of Canada Rules (General Procedure);
+Upon submissions made by the Respondent in reply to the Appellant’s motion;
+And upon hearing the parties;
+For the attached reasons given orally at the hearing, the motion is dismissed. Costs of $1,650 are payable by the Appellant to the Respondent within 60 days of the date of this order.
+Signed at Toronto, Ontario, this 6th day of July 2017.
+“Patrick Boyle”
+Boyle J.
+Docket: 2016-4526(IT)G
+BETWEEN:
+SIMON MARPLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR ORDER
+Let the attached edited transcript of the reasons for order delivered orally at the hearing on June 22, 2017 at Vancouver, British Columbia, be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Toronto, Ontario, this 6th day of July 2017.
+“Patrick Boyle”
+Boyle J.
+Citation: 2017 TCC 129
+Date: 20170706
+Docket: 2016-4526(IT)G
+BETWEEN:
+SIMON MARPLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Motion heard and decision rendered orally at the hearing
+on June 22, 2017 at Vancouver, British Columbia)
+Boyle J.
+[1] This is my decision on the Appellant’s motion of this morning. The Appellant has brought a Rule 58 motion asking the Court to determine the following two questions:
+a. Whether “Social Insurance Number”, referred to in s. 237(1) of the Income Tax Act (ITA) and styled in both upper and lower case letters, is to be distinguished from “social insurance number”, styled in lower case letters only, and found in a number of Canada Revenue Agency (CRA) forms. Specifically, whether a Social Insurance Number is assigned exclusively to an individual who is a “legal representative” within the meaning of s. 248(1) of the ITA, and a “social insurance number” is assigned exclusively to the holder of an “office” within the meaning of s. 248(1) of the ITA and s. 2(1) of the Canada Pension Plan (CPP).
+b. If the answer to question (a) above is yes, what CRA form should the Appellant use to report the income he receives in his status as a “legal representative” and identified by a SIN that is a “Social Insurance Number” styled in both upper and lower case letters.
+[2] It is clear from the motion material that these questions essentially relate directly to whether or not the Appellant exercised due diligence for purposes of the gross negligence penalty assessed. That penalty is one of the two issues for the Court to decide as set out in his amended notice of appeal.
+[3] His amended notice of appeal indicates he is no longer disputing that the approximate $1,000,000 of unreported insurance sales commission related income from his company, CanTrust Financial Services Inc., over the four taxation years in issue, was properly reassessed. See paragraph 17. He did, however, include his commission income from AC&D Insurance.
+[4] In addition to the penalty issue, the amended notice of appeal seeks to claim approximately $100,000 of expenses incurred to earn the insurance sales related income.
+[5] The determination of whether Mr. Marples has or has not exercised due diligence sufficient to satisfy the exculpatory language of the penalty provision in issue will be very much dependent upon his particular facts and circumstances. This will include, among other things, how credible the Appellant is in satisfying the Court that it was reasonable for him not to report this income because of the fact that the Income Tax Act and Canada Revenue Agency forms do not consistently capitalize the term “Social Insurance Number”, but at times use upper case and at times lower case, and that sometimes the acronym “SIN” is used without a proper definition.
+[6] It may require the Court to go on to decide whether that confusion reasonably caused him to think he should characterize his insurance sales commission related income as “public money” as defined in the Financial Administration Act and that such income was, for that reason, not to be reported in his tax return.
+[7] The answer to the Appellant’s two questions will not resolve his appeal. There would still remain the substantive issue of the expenses he seeks to claim as deductions against his unreported income. Further, the amount of the penalty will be affected by any expenses which are allowed.
+[8] The issues in the Appellant’s two questions could arguably meet the requirements of Rule 58, in which a judge may order the determination of one or more questions. However, I believe that where, as here, questions of fact and the reasonableness of a taxpayer’s actions are what is actually in dispute, and may be expected to raise questions of credibility, these issues are all best left to the trial judge in the particular circumstances.
+[9] I do not believe that these could properly be decided by the judge on a motion in any manner that will reduce the amount of time to hear and decide the motion and the remaining appeal.
+[10] Further, since the taxpayer agrees that his initial answers to his questions were wrong, the answers to them are no longer in dispute and need not be determined by the Court in order to resolve his appeal.
+[11] The Appellant’s motion is therefore dismissed with costs for preparing and attending the hearing of this motion fixed at $1,650, being the amount set out in the Court tariff, to be paid to the Respondent within 60 days.
+[12] Thank you very much, Mr. Marples, Ms. Chen. We are adjourned.
+Signed at Toronto, Ontario, this 6th day of July 2017.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2017 TCC 129
+COURT FILE NO.:
+2016-4526(IT)G
+STYLE OF CAUSE:
+SIMON MARPLES v. THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 22, 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+July 6, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Geraldine Chen
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

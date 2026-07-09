@@ -1,0 +1,205 @@
+---
+title: "Sycheva c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/343633/index.do"
+last_modified: "2018-08-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 180"
+citation2: ""
+neutral_citation: "2018 CCI 180"
+decision_date: "2018-08-28"
+language: "fr"
+item_id: "343633"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4919
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:47:13.959000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0478aab2a238af2e91280f8a8e05a33fff4ba7b505c54e478bc990bcd29473ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sycheva c. La Reine
+
+- Citation: 2018 CCI 180
+- Decision date: 2018-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4919, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sycheva c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-08-28
+Référence neutre
+2018 CCI 180
+Numéro de dossier
+2016-2590(IT)G, 2016-2826(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2590(IT)G
+ENTRE :
+ZAREMA SYCHEVA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Konstantin Sychev, 2016-2826(IT)G, du 25 au 28 juin 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocats de l’appelante :
+Me Ian Morris
+Me Andrea Dickinson
+Me Peter Muto
+Avocat de l’intimée :
+Me Gregory King
+JUGEMENT MODIFIÉ
+L’appel est accueilli et les nouvelles cotisations portées en appel pour les années d’imposition 2009, 2010 et 2011 de l’appelante sont renvoyées au ministre du Revenu national afin qu’il procède à un nouvel examen et à l’établissement de nouvelles cotisations en tenant compte du fait qu’en janvier 2009, les appelants, Zarema Sycheva et Konstantin Sychev, ont reçu un prêt de 119 000 dollars de S. Kogan, qui a été remboursé au complet en décembre 2011 après le versement de parts plus ou moins égales en 2009, 2010 et 2011. Considérant le succès partagé du présent appel, aucuns dépens ne seront adjugés.
+Ce jugement modifié remplace le jugement rendu le 28 août 2018.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 29e jour d’août 2019.
+Mario Lagacé, jurilinguiste
+Dossier : 2016-2826(IT)G
+ENTRE :
+KONSTANTIN SYCHEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Zarema Sycheva, 2016-2590(IT)G, du 25 au 28 juin 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocats de l’appelant :
+Me Ian Morris
+Me Andrea Dickinson
+Me Peter Muto
+Avocat de l’intimée :
+Me Gregory King
+JUGEMENT MODIFIÉ
+L’appel est accueilli et les nouvelles cotisations portées en appel pour les années d’imposition 2009, 2010 et 2011 de l’appelante sont renvoyées au ministre du Revenu national afin qu’il procède à un nouvel examen et à l’établissement de nouvelles cotisations en tenant compte du fait qu’en janvier 2009, les appelants, Zarema Sycheva et Konstantin Sychev, ont reçu un prêt de 119 000 dollars de S. Kogan, qui a été remboursé au complet en décembre 2011 après le versement de parts plus ou moins égales en 2009, 2010 et 2011. Considérant le succès partagé du présent appel, aucuns dépens ne seront adjugés.
+Ce jugement modifié remplace le jugement rendu le 28 août 2018.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 29e jour d’août 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2018 CCI 180
+Date : 20180828
+Dossier : 2016-2590(IT)G
+ENTRE :
+ZAREMA SYCHEVA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2016-2826(IT)G
+ET ENTRE :
+KONSTANTIN SYCHEV,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction :
+[1] Ces deux appels qui soulèvent des questions identiques découlant des mêmes faits ont été entendus sur preuve commune. Avant de se rencontrer et de se marier, les deux appelants avaient tour à tour émigré de la Russie au Canada. Ils interjettent tous les deux appel des nouvelles cotisations établies le 11 avril 2016 aux termes de la Loi de l’impôt sur le revenu (Canada) (la Loi) à l’égard de leurs années d’imposition 2009, 2010 et 2011. Les présents motifs du jugement s’appliquent aux deux appels.
+[2] Les nouvelles cotisations portées en appel sont des « cotisations fondées sur la valeur nette », conformément au paragraphe 152(7) de la Loi. Les appelants, Zarema Sycheva (ZS) et Konstantin Sychev (KS), ont soulevé trois questions relativement précises à l’égard de ces nouvelles cotisations. La première question est de savoir si un don d’argent important a été fait à ZS en 2005, lequel n’avait essentiellement pas été dépensé presque quatre ans plus tard, au début de la période visée pour l’évaluation de la valeur nette à l’égard des années d’imposition en question, soit le 31 décembre 2008. Les deux autres questions en litige sont de savoir si un tel prêt en argent a été consenti à l’un ou à l’autre des appelants dans ladite période visée pour l’évaluation de la valeur nette, et dans l’affirmative, si le prêt a été entièrement remboursé pendant cette période.
+Résumé de la preuve :
+[3] Les éléments de preuve présentés à l’audience ont établi que les deux appelants se sont rencontrés à Montréal, après avoir immigré tour à tour au Canada depuis la Russie. ZS, qui a achevé ses études secondaires, est arrivée au Canada en avril 2003 avec ses trois enfants mineurs, à titre de réfugiée, ayant subi des difficultés personnelles odieuses pendant la deuxième guerre en Tchétchénie, dont la perte brutale de son mari et de ses parents qui avaient vécu à Grozny. KS est arrivé au Canada à la fin de l’année 2003, depuis Piatigorsk, en Russie, en raison du fait, a-t-il dit sans préciser davantage, qu’il n’aimait pas l’endroit où il a vécu.
+[4] Les appelants se sont mariés en février 2004. Le mois suivant, les appelants et les enfants sont déménagés à Toronto, où se trouve une population russe importante. ZS a nié les allégations énoncées dans son avis d’appel selon lesquelles elle a offert des services de garde au cours des années en question. KS a nié les allégations énoncées dans son avis d’appel selon lesquelles il a offert des services de construction générale au cours des années en question. Ils ont tous deux déclaré un revenu relativement faible au cours des années suivantes. Ils ont aménagé dans une résidence neuve et plus chère. ZS a déclaré qu’en 2005, sa sœur, à Grozny, lui a transféré 422 000 dollars américains, constituant la presque totalité du produit de la vente de la maison de leurs parents décédés.
+[5] Elle a dit qu’elle n’avait pas utilisé cette somme avant 2009, moment où elle s’en est servie pour rembourser deux prêts consentis par deux amis. Le prétendu prêt consenti par M. S. Kogan en janvier 2009 était de 119 000 dollars canadiens. ZS a déclaré que ce prêt avait été remboursé en espèces à la fin du mois de décembre 2011. Le prétendu prêt consenti par Mme S. Kravchenko également en janvier 2009 était de 123 000 dollars canadiens. ZS a déclaré que ce prêt avait été remboursé en espèces à la fin du mois de décembre 2010. Selon le témoignage de ZS, l’argent reçu de sa sœur, qui avait été conservé depuis 2005, année où il a été reçu, avait été utilisé pour rembourser les deux prêts.
+[6] Dans la réponse de l’intimée à chacun des deux appels, deux hypothèses retenues par le ministre sont formulées; elles se rapportent aux trois questions soulevées concernant le transfert d’argent de la sœur de ZS à Grozny, en 2005, ainsi que les deux prêts qui auraient été consentis au début de 2009. Ces deux hypothèses formulées par le ministre du Revenu national (ministre) sont les suivantes :
+[TRADUCTION]
+a) « l’appelante et son époux n’ont pas gardé la somme reçue en espèces en 2005 pour payer les dépenses en 2009 et 2010;
+b) l’appelante et son époux n’ont pas reçu de fonds en 2009, en 2010 et en 2011, sauf ce qui a été inclus dans le calcul du revenu (effectué par le ministre). »
+[7] Comme il est bien connu, les hypothèses de fait formulées par le ministre dans le cadre de l’établissement des (nouvelles) cotisations d’impôt sont réputées exactes à moins que le contribuable ne présente des éléments de preuve équivalant au moins à une preuve prima facie, réfutant au moins l’une des hypothèses. Le fondement logique de ce principe est que le contribuable aurait toujours une connaissance plus approfondie que le ministre de son entreprise et de ses affaires personnelles, pertinentes pour l’application de la Loi.
+[8] À cet égard et particulièrement dans le contexte des cotisations fondées sur la valeur nette, comme en l’espèce, la Cour d’appel fédérale a fait remarquer ce qui suit dans l’arrêt Lacroix c. Canada, 2008 CAF 241, aux paragraphes 18 à 20 :
+[18] À mon avis, cette jurisprudence n’établit pas le principe selon lequel le ministre ne peut ajouter au revenu d’un contribuable le revenu non déclaré qu’il constate à la suite de l’application de la méthode de l’avoir net que s’il est en mesure d’établir la source de ce revenu. Notre système de perception d’impôt sur le revenu est fondé sur la déclaration du contribuable quant au revenu qu’il a touché au cours d’une année d’imposition. S’il arrive que le ministre doute, pour quelque raison que ce soit, de l’exactitude de la déclaration de revenu produite par le contribuable, il peut entreprendre l’enquête qui lui semble nécessaire. ll peut par la suite établir une nouvelle cotisation. Si le contribuable s’oppose à la nouvelle cotisation par voie d’avis d’appel, le ministre n’a pas à faire la preuve des faits à l’origine de la nouvelle cotisation. Il n’a qu’à étayer dans sa réponse à l’avis d’appel les faits qu’il a tenus pour acquis en établissant la nouvelle cotisation. Le contribuable, qui sait tout ce qu’il y a à savoir au sujet de ses affaires, a le fardeau de « démolir » les présomptions du ministre sinon ces présomptions sont présumées être vraies.
+[19] Cette façon de procéder a reçu l’approbation de la Cour suprême à de nombreuses reprises, dont l’affaire Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, n’est qu’un exemple. Dans cette cause, la Cour s’exprime ainsi aux paragraphes 92-93 :
+92 …En établissant des cotisations, le ministre se fonde sur des présomptions (Bayridge Estates Ltd. c. M.N.R., 59 D.T.C. 1098 (C. de l’É.), à la p. 1101), et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable (Johnston c. Minister of National Revenue, [1948] R.C.S. 486; Kennedy c. M.R.N., 73 D.T.C. 5359 (C.A.F.), à la p. 5361). Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : First Fund Genesis Corp. c. La Reine, 90 D.T.C. 6337 (C.F. 1re inst.), à la p. 6340.
+93 L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie : Kamin c. M.R.N., 93 D.T.C. 62 (C.C.I.); Goodwin c. M.N.R., 82 D.T.C. 1679 (C.R.I.). Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : voir par exemple MacIsaac c. M.R.N., 74 D.T.C. 6380 (C.A.F.), à la p. 6381; Zink c. M.R.N., 87 D.T.C. 652 (C.C.I.).
+[20] L’application de la méthode de l’avoir net ne change rien à cette méthode de preuve. Dans la mesure où le ministre présume que le revenu constaté par l’application de la méthode de l’avoir net est un revenu imposable, il revient au contribuable de démolir cette présomption. Si celui-ci présente une preuve crédible que le montant en question n’a pas le caractère de revenu, le ministre doit alors aller au-delà de ses présomptions de fait et déposer la preuve de l’existence de ce revenu.
+[9] La première question est de savoir si la somme que ZS a reçue de sa sœur à Grozny en 2005, soit 422 000 dollars américains, est demeurée intacte jusqu’au début de la période visée pour l’évaluation de la valeur nette pour les années 2009 à 2011, soit le 31 décembre 2008. Le ministre formule l’hypothèse selon laquelle cet argent n’a pas été conservé pour payer les dépenses de 2009 et de 2010. Cette hypothèse est réputée vraie à moins que je conclue que les appelants ont établi au moins une preuve prima facie réfutant cette hypothèse, c.-à-d. établissant que l’argent a en fait été conservé au moins jusqu’au 31 décembre 2008 et qu’il a été utilisé en 2009 et en 2010 pour payer des dépenses.
+[10] Les appelants n’ont produit en preuve aucun document établissant ou tendant à établir qu’ils ont conservé ce don en argent au moins jusqu’au 31 décembre 2008 et au cours des années 2009 et 2010. Dans leurs avis d’appel respectifs, les appelants ont fait valoir que, d’usage, ils retiraient les sommes importantes placées dans les banques parce qu’ils ne faisaient pas confiance au système bancaire, et que la totalité ou presque de l’argent en question était disponible le 1er janvier 2008 (et non, je note, le 31 décembre 2008), et que la totalité ou presque de cet argent avait été utilisée au 31 décembre 2011 pour payer leurs dépenses personnelles.
+[11] La question des documents nous oblige à formuler des commentaires supplémentaires. À deux occasions ou plus au cours des quatre jours d’audience, SZ a déclaré de diverses façons qu’elle avait remis à son comptable, à l’Agence du revenu du Canada (ARC) ou qu’elle conservait chez elle des documents corroborant sa version des faits concernant les points en litige. Jusqu’ici, ni l’appelante ni l’appelant n’ont cherché à produire en preuve aucun de ces prétendus documents, soit de leur propre chef, soit en assignant et en interrogeant un tiers témoin, y compris un fonctionnaire de l’ARC, ce qui a soulevé la question de la crédibilité de SZ. L’avocat des appelants a été invité à fournir des explications sur cette question à la fin de sa plaidoirie, mais aucun éclaircissement n’a été donné.
+[12] Les éléments de preuve des appelants au sujet du don d’argent n’ont pas été corroborés de vive voix. Je précise que la question n’était pas de savoir si le don avait été reçu en 2005 – il l’a été –, mais si cette somme avait été conservée et qu’elle n’avait presque pas été dépensée au moins jusqu’au 31 décembre 2008. Selon le témoignage des appelants, dans les derniers mois de 2005, ils ont converti cette somme importante en versements, avec l’accord de la banque qui avait reçu ces fonds de l’étranger, et ont conservé cette somme dans un coffre-fort à leur résidence de Toronto. Ils ont soutenu avoir agi ainsi en raison de leur méfiance envers les banques, se reportant généralement aux faillites antérieures des banques en Russie. Par conséquent, il n’y a aucun document bancaire confirmant le maintien entier de cette somme importante au cours des mois et des années qui ont suivi, jusqu’au 31 décembre 2008, et par la suite.
+[13] De plus, les éléments de preuve n’indiquent pas clairement les revenus que les appelants avaient entre 2005 et 2009. Ils ont respectivement déclaré des montants de revenu annuel relativement faibles pendant cette période. Ils ont pourtant été en mesure d’acheter une maison à Richmond Hill, en 2005 ou en 2006, pour un peu plus de 400 000 dollars. Un an ou moins plus tard, ils ont vendu cette maison et en ont acheté une autre sur l’avenue Patricia dont le prix se situait entre 700 000 et 800 000 dollars, selon le témoignage de KS. Aucun éclaircissement suffisant n’a été apporté sur la provenance de l’argent servant à effectuer ces achats et à se rendre admissible aux prêts hypothécaires requis. Selon l’intimée, une certaine part ou la presque totalité du don d’argent reçu en 2005 a été utilisée pour financer ces opérations et pour payer les frais normaux de subsistance des cinq membres de la famille. Les appelants n’ont produit aucun document concernant ces opérations immobilières. De tels documents auraient pu préciser la façon dont les achats ont été financés. Les appelants n’ont de plus produit aucun document établissant le revenu gagné par l’un ou l’autre d’entre eux, indiquant leur capacité de payer de telles dépenses. Aucun élément de preuve n’a été présenté démontrant clairement la façon dont KS gagnait son modeste revenu déclaré pendant les années qui ont suivi. Comme il a été mentionné, les appelants ont nié leurs propres allégations selon lesquelles l’appelant avait travaillé dans le domaine de la construction et l’appelante, dans celui de la garde d’enfants. Selon le témoignage de l’appelante, elle mettait sur pied son entreprise de consultante en parapsychologie axée sur l’astrologie; une entreprise faisant prétendument affaire sous le nom de Best Life, établie en 2005 par l’intermédiaire de la comptable de SZ, une certaine Mme Fox, qui leur a facturé 600 dollars pour ses services; cette entreprise a cessé ses activités en 2008 ou en 2009. Mme Fox n’a pas été appelée à témoigner. Puis, il appert qu’une autre entreprise a vu le jour, faisant affaire sous le nom de Aida’s Secret, pour poursuivre ces activités.
+[14] Selon le témoignage des appelants, en 2005 un don d’argent important a été mis de côté comme [TRADUCTION] « coussin de sécurité » jusqu’au moment où les deux prétendus prêts de M. Kogan (119 000 dollars) et de Mme Kravchenko (123 000 dollars) ont été consentis, au début de 2009, afin de permettre à ZS de donner de l’expansion à son entreprise de consultante en parapsychologie à l’étranger. Aucun élément de preuve documentaire n’a été présenté pour établir que de tels investissements ou de tels paiements ont ainsi été effectués. En outre, selon le témoignage des appelants, ces deux prêts ont été effectués au moyen de versements dont chacun se chiffrait en dizaines de milliers de dollars. De plus, selon la preuve orale, ces versements étaient censés être remboursés avec les intérêts applicables sur de courtes périodes; plus courtes que ce que l’on pourrait raisonnablement s’attendre de la récupération du montant censé être investi dans l’entreprise de SZ, sans parler d’un profit.
+[15] Toujours selon le témoignage des appelants, les prêts ont été remboursés au moyen des fonds provenant du don d’argent reçu en 2005, qualifié de [TRADUCTION] « coussin de sécurité ». On a dit que la plupart de ces fonds ont servi à rembourser les prêts et le paiement des dépenses imputées à la carte de crédit. On a soutenu qu’en décembre 2010, le solde résiduel était de 270 000 – 280 000 dollars américains. Encore une fois, aucune preuve documentaire ou confirmative n’a été produite. Que s’est-il passé avec ce solde important? Avant tout, pourquoi emprunter au départ et payer des intérêts lorsqu’on dispose d’un [TRADUCTION] « coussin de sécurité » à portée de main? Pourquoi ne pas avoir simplement utilisé ces fonds selon l’objectif allégué des prêts, pour promouvoir les intérêts commerciaux de SZ dont aucune preuve confirmative n’a non plus été présentée.
+[16] En me fondant sur les considérations susmentionnées, je conclus que les appelants n’ont pas fourni une preuve prima facie que le don d’argent reçu en 2005 a été épargné jusqu’en 2009 puis dépensé par la suite, selon ce que les appelants ont fait valoir.
+[17] La deuxième des trois questions en litige est de savoir si un prêt a été consenti aux appelants ZS et KS par le défunt S. Kogan. Dans ce cas-ci, il y a certains éléments de preuve corroborants. Selon les appelants, M. Kogan était devenu un bon ami au sein de la communauté russe torontoise, et il a accepté de leur prêter de l’argent, soit une somme de 119 000 dollars. Aucune explication particulière n’a été donnée à ma question sur la raison d’être de ce montant relativement inhabituel (plutôt que, par exemple, 120 000 dollars). La preuve corroborante consiste en ce qui semble être un reçu daté du 27 décembre 2011 pour le remboursement de l’intégralité de la somme (pièce A-3) de 119 000 dollars prêtée avec intérêts. Je n’arrive pas à comprendre pourquoi ce reçu a été rédigé en anglais, alors que les appelants ont demandé qu’un traducteur russe témoigne à l’audience. Lorsque cette question lui a été posée, ZS a répondu qu’elle souhaitait que les documents soient rédigés dans la langue du pays où elle se trouvait. Sauf le respect que je lui dois, je ne comprends pas pourquoi la langue du pays l’emporterait sur sa capacité à lire et à comprendre ce document précis.
+[18] Quoi qu’il en soit, la veuve de M. Kogan, Mme Raisa Kogan, a témoigné. Elle a confirmé que la signature apposée sur le reçu susmentionné était celle de M. Kogan. Elle a également déclaré que M. Kogan lui avait dit qu’il avait prêté de l’argent aux appelants et que la somme prêtée avait été remboursée intégralement. Je ne considère pas que le témoignage de Mme Kogan ait été discrédité de façon importante en contre-interrogatoire ni à mon avis ne l’ont été les témoignages présentés par l’intimée. Par conséquent, je reconnais que les appelants ont établi au moins une preuve prima facie que le prêt de 119 000 dollars de M. Kogan aurait en fait été consenti en janvier 2009, et remboursé en totalité au plus tard en décembre 2011. Cet élément de preuve n’établit cependant pas à première vue que les remboursements du prêt consenti par M. Kogan provenaient de l’argent que ZS avait reçu de sa sœur en 2005.
+[19] La dernière question en litige porte sur l’allégation voulant qu’un prêt de 123 000 dollars de Mme S. Kravchenko ait été consenti aux appelants ou à l’un d’entre eux en janvier 2009 et remboursé intégralement en décembre 2010. Dans ce cas-ci, il y a deux éléments visant à corroborer la preuve. L’un d’entre eux est un billet à ordre signé par ZS dont le petit ami de Mme Kravchenko aurait été témoin, mais qui n’était là pour témoigner. Je ne tiens pas compte de cette corroboration, puisqu’en définitive, la seule signature qui a été établie était celle de l’appelante ZS. Nous n’avons pas entendu le témoignage de Mme Kravchenko ou d’une personne témoignant au nom de cette dernière, dont on dit qu’elle est retournée à Moscou. Les dépositions des témoins qui rapportent avoir entendu des bribes de conversations entre l’un ou l’autre des appelants et Mme Kravchenko lors d’événements sociaux, et qui relatent les avoir vus se passer des colis ayant pu contenir de l’argent étaient trop hypothétiques pour leur accorder du poids. Encore une fois, je me demande pourquoi emprunter de l’argent lorsqu’il est possible d’utiliser l’argent provenant d’un don, mis à la disposition des appelants, et ce, libre d’intérêt. De plus, pourquoi emprunter alors que ce don en argent était censément à portée de main et apparemment utilisé rapidement afin de rembourser les fonds empruntés.
+[20] Compte tenu de ce qui précède, je ne suis pas en mesure de conclure, en ce qui concerne le prêt allégué consenti par Mme Kravchenko, que l’hypothèse du ministre selon laquelle les appelants n’avaient pas reçu de fonds en 2009, en 2010 ou en 2011 –, sauf ce qui figurait déjà dans l’analyse de la valeur nette constituant le fondement des nouvelles cotisations portées en appel –, avait été réfutée, à première vue ou autrement.
+[21] Les appels sont accueillis dans la mesure où le prétendu prêt consenti par M. Kogan a été admis. Comme le résultat dans l’ensemble est divisé entre les appelants et l’intimée, il n’y aura pas d’ordonnance d’adjudication des dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 28e jour d’août 2018.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 29e jour d’août 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 180
+Nos DES DOSSIERS DE LA COUR :
+2016-2590(IT)G
+2016-2826(IT)G
+INTITULÉ :
+ZAREMA SYCHEVA c. SA MAJESTÉ LA REINE
+KONSTANTIN SYCHEV c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 juin 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 28 août 2018
+DATE DU JUGEMENT MODIFIÉ : Le 26 novembre
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Ian Morris
+Me Andrea Dickinson
+Me Peter Muto
+Avocat de l’intimée :
+Me Gregory King
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Ian Morris
+Me Andrea Dickinson
+Me Peter Muto
+Cabinet :
+Morris, Kepes, Winters LLP
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

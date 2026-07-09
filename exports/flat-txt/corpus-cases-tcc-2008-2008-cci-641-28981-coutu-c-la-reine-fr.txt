@@ -1,0 +1,276 @@
+Title: Coutu c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28981/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-641-28981-coutu-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-11-25
+
+# Coutu c. La Reine
+
+- Citation: 2008 CCI 641
+- Decision date: 2008-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6791, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coutu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-25
+Référence neutre
+2008 CCI 641
+Numéro de dossier
+2008-1272(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-1272(GST)I
+ENTRE :
+MICHEL COUTU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Diane Miron
+(2008-1273(GST)I) le 24 octobre 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 4 novembre 2005 et porte le numéro DGE‑10225 est rejeté.
+Signé à Montréal (Québec), ce 25e jour de novembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Dossier : 2008-1273(GST)I
+ENTRE :
+DIANE MIRON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Michel Coutu
+(2008-1272(GST)I) le 24 octobre 2008, à Montréal (Québec).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+Michel Coutu
+Avocate de l'intimée :
+Me Brigitte Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 4 novembre 2005 et porte le numéro DGE‑10224 est rejeté.
+Signé à Montréal (Québec), ce 25e jour de novembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2008 CCI 641
+Date : 20081125
+Dossiers: 2008-1272(GST)I
+2008-1273(GST)I
+ENTRE :
+MICHEL COUTU,
+DIANE MIRON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les appelants ont déposé auprès du ministre du Revenu du Québec (Ministre) un formulaire de remboursement de la taxe sur les produits et services (TPS) pour un immeuble d’habitation locatif neuf relativement à un triplex dont ils étaient les constructeurs. Les appelants habitent l’un des logements (48 pour cent de la superficie totale), les parents de l’appelant Michel Coutu, en habitent un autre (22 pour cent de la superficie totale), et le troisième logement occupant le reste de la superficie totale est loué à un tiers.
+[2] Le ministre considère que le triplex est utilisé principalement à titre résidentiel par les appelants et des particuliers qui leur sont liés (les parents de M. Coutu). Le Ministre a donc décidé que les appelants n’étaient pas tenus de remettre à l’intimée la TPS sur la fourniture à soi-même du triplex prévue au paragraphe 191(3) de la Loi sur la taxe d’accise (LTA), puisqu’ils bénéficiaient de l’exception prévue au paragraphe 191(5) de la LTA. Toutefois, la conséquence de ceci est que les appelants se sont vu refuser le remboursement de taxe pour un immeuble d’habitation locatif neuf qu’ils demandaient, aux termes du paragraphe 256.2(3) de la LTA. Le Ministre a ainsi établi une cotisation par laquelle il établissait à zéro la taxe nette cotisée sur la fourniture à soi-même d’un immeuble d’habitation locatif ainsi que le remboursement pour l’immeuble locatif neuf. Les appelants portent en appel cette cotisation.
+[3] Les dispositions législatives pertinentes se lisent comme suit :
+Définitions
+123. (1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+[…]
+« habitation »
+"residential unit"
+« habitation » Maison individuelle, jumelée ou en rangée, unité en copropriété, maison mobile, maison flottante, appartement, chambre d’hôtel, de motel, d’auberge ou de pension, chambre dans une résidence d’étudiants, d’aînés, de personnes handicapées ou d’autres particuliers ou tout gîte semblable, ou toute partie de ceux-ci, qui est, selon le cas :
+a) occupée à titre résidentiel ou d’hébergement;
+b) fournie par bail, licence ou accord semblable, pour être utilisée à titre résidentiel ou d’hébergement;
+c) vacante et dont la dernière occupation ou fourniture était à titre résidentiel ou d’hébergement;
+d) destinée à servir à titre résidentiel ou d’hébergement sans avoir servi à une fin quelconque.
+Definitions
+123. (1) In section 121, this Part and Schedules V to X,
+[…]
+"residential unit"
+« habitation »
+"residential unit" means
+(a) a detached house, semi-detached house, rowhouse unit, condominium unit, mobile home, floating home or apartment,
+(b) a suite or room in a hotel, a motel, an inn, a boarding house or a lodging house or in a residence for students, seniors, individuals with a disability or other individuals, or
+(c) any other similar premises,
+or that part thereof that
+(d) is occupied by an individual as a place of residence or lodging,
+(e) is supplied by way of lease, licence or similar arrangement for the occupancy thereof as a place of residence or lodging for individuals,
+(f) is vacant, but was last occupied or supplied as a place of residence or lodging for individuals, or
+(g) has never been used or occupied for any purpose, but is intended to be used as a place of residence or lodging for individuals;
+« immeuble »
+"real property"
+« immeuble »
+Les immeubles comprennent :
+a) au Québec, les immeubles et les baux y afférents;
+b) ailleurs qu’au Québec, les terres, les fonds et les immeubles, de toute nature et désignation, ainsi que les droits y afférents, qu’ils soient fondés en droit ou en équité;
+c) les maisons mobiles, les maisons flottantes ainsi que les tenures à bail ou autres droits de propriété afférents.
+"real property"
+« immeuble »
+"real property" includes
+(a) in respect of property in the Province of Quebec, immovable property and every lease thereof,
+(b) in respect of property in any other place in Canada, messuages, lands and tenements of every nature and description and every estate or interest in real property, whether legal or equitable, and
+(c) a mobile home, a floating home and any leasehold or proprietary interest therein;
+« immeuble d’habitation »
+"residential complex"
+« immeuble d’habitation »
+a) La partie constitutive d’un bâtiment qui comporte au moins une habitation,
+[…]
+"residential complex"
+« immeuble d’habitation »
+"residential complex" means
+(a) that part of a building in which one or more residential units are located,
+[…]
+« immeuble d’habitation à logements multiples »
+"multiple unit residential complex"
+« immeuble d’habitation à logements multiples » Immeuble d’habitation, à l’exclusion d’un immeuble d’habitation en copropriété, qui contient au moins deux habitations.
+"multiple unit residential complex"
+« immeuble d’habitation à logements multiples »
+"multiple unit residential complex" means a residential complex that contains more than one residential unit, but does not include a condominium complex;
+[…]
+[…]
+Fourniture à soi-même d’un immeuble d’habitation à logements multiples
+191(3) Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d’un immeuble d’habitation à logements multiples sont achevées en grande partie,
+b) le constructeur, selon le cas :
+(i) transfère à une personne, qui n’est pas l’acheteur en vertu du contrat de vente visant l’immeuble, la possession ou l’utilisation d’une habitation de celui-ci aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’habitation à titre résidentiel,
+(i.1) transfère à une personne la possession ou l’utilisation d’une habitation de l’immeuble aux termes d’une convention prévoyant :
+(A) d’une part, la fourniture par vente de tout ou partie du bâtiment faisant partie de l’immeuble,
+(B) d’autre part, la fourniture par bail du fonds faisant partie de l’immeuble ou la fourniture d’un tel bail par cession,
+(ii) étant un particulier, occupe lui-même à titre résidentiel une habitation de l’immeuble,
+c) le constructeur, la personne ou tout particulier qui a conclu avec celle-ci un bail, une licence ou un accord semblable visant une habitation de l’immeuble est le premier à occuper une telle habitation à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble le jour où les travaux sont achevés en grande partie ou, s’il est postérieur, le jour où la possession ou l’utilisation de l’habitation est transférée à la personne ou l’habitation est occupée par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+Self-supply of multiple unit residential complex
+191(3) For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+(b) the builder of the complex
+(i) gives, to a particular person who is not a purchaser under an agreement of purchase and sale of the complex, possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence,
+(i.1) gives possession or use of any residential unit in the complex to a particular person under an agreement for
+(A) the supply by way of sale of the building or part thereof forming part of the complex, and
+(B) the supply by way of lease of the land forming part of the complex or the supply of such a lease by way of assignment, or
+(ii) where the builder is an individual, occupies any residential unit in the complex as a place of residence, and
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[…]
+[…]
+Exception — utilisation personnelle
+191 (5) Les paragraphes (1) à (4) ne s’appliquent pas au constructeur d’un immeuble d’habitation ou d’une adjonction à celui-ci si :
+a) le constructeur est un particulier;
+b) à un moment donné après que la construction ou les rénovations de l’immeuble ou de l’adjonction sont achevées en grande partie, l’immeuble est utilisé principalement à titre résidentiel par le particulier, son ex-époux ou ancien conjoint de fait ou un particulier lié à ce particulier;
+c) l’immeuble n’est pas utilisé principalement à une autre fin entre le moment où les travaux sont achevés en grande partie et le moment donné;
+d) le particulier n’a pas demandé de crédit de taxe sur les intrants relativement à l’acquisition de l’immeuble ou aux améliorations qui y ont été apportées.
+[Je souligne.]
+Exception for personal use
+191 (5) Subsections (1) to (4) do not apply to a builder of a residential complex or an addition to a residential complex where
+(a) the builder is an individual;
+(b) at any time after the construction or renovation of the complex or addition is substantially completed, the complex is used primarily as a place of residence for the individual, an individual related to the individual or a former spouse or common-law partner of the individual;
+(c) the complex is not used primarily for any other purpose between the time the construction or renovation is substantially completed and that time; and
+(d) the individual has not claimed an input tax credit in respect of the acquisition of or an improvement to the complex.
+[Emphasis added.]
+[…]
+[…]
+256.2(3) Remboursement pour fonds et bâtiment loués à des fins résidentielles
+(3) Sous réserve des paragraphes (7) et (8), le ministre rembourse une personne (sauf une coopérative d’habitation) dans le cas où, à la fois :
+a) la personne, selon le cas :
+(i) est l’acquéreur de la fourniture taxable par vente (appelée « achat auprès du fournisseur » au présent paragraphe), effectuée par une autre personne, d’un immeuble d’habitation ou d’un droit dans un tel immeuble, mais n’est pas le constructeur de l’immeuble,
+(ii) est le constructeur d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples qui transfère la possession ou l’utilisation d’une habitation de l’immeuble ou de l’adjonction à une autre personne aux termes d’un bail conclu en vue de l’occupation de l’habitation à titre résidentiel et, par suite de ce transfert, elle est réputée par l’article 191 avoir effectué et reçu, par vente, la fourniture taxable (appelée « achat présumé » au présent paragraphe) de l’immeuble ou de l’adjonction;
+b) à un moment donné, la taxe devient payable pour la première fois relativement à l’achat auprès du fournisseur ou la taxe relative à l’achat présumé est réputée avoir été payée par la personne;
+c) au moment donné, l’immeuble ou l’adjonction, selon le cas, est une habitation admissible de la personne ou comprend une ou plusieurs telles habitations;
+d) la personne ne peut inclure, dans le calcul de son crédit de taxe sur les intrants, la taxe relative à l’achat auprès du fournisseur ou la taxe relative à l’achat présumé.
+Le montant remboursable est égal au […]
+256.2(3) Rebate in respect of land and building for residential rental accommodation
+(3) If
+(a) a particular person, other than a cooperative housing corporation,
+(i) is the recipient of a taxable supply by way of sale (in this subsection referred to as the “purchase from the supplier”) from another person of a residential complex or of an interest in a residential complex and is not a builder of the complex, or
+(ii) is a builder of a residential complex, or of an addition to a multiple unit residential complex, that gives possession or use of a residential unit in the complex or addition to another person under a lease entered into for the purpose of its occupancy by an individual as a place of residence that results in the particular person being deemed under section 191 to have made and received a taxable supply by way of sale (in this subsection referred to as the “deemed purchase”) of the complex or addition,
+(b) at a particular time, tax first becomes payable in respect of the purchase from the supplier or tax in respect of the deemed purchase is deemed to have been paid by the person,
+(c) at the particular time, the complex or addition, as the case may be, is a qualifying residential unit of the person or includes one or more qualifying residential units of the person, and
+(d) the person is not entitled to include the tax in respect of the purchase from the supplier, or the tax in respect of the deemed purchase, in determining an input tax credit of the person,
+the Minister shall, subject to subsections (7) and (8), pay a rebate to the person equal to […]
+[4] Tout le litige porte sur l’interprétation qu’il faut donner à l’expression que j’ai soulignée au paragraphe 191(5), aux fins de déterminer si les appelants, qui sont les constructeurs du triplex, en font une utilisation personnelle. Plus précisément, le législateur exempte de la taxe à soi-même, le constructeur d’un immeuble d’habitation qui est un particulier si l’immeuble est « utilisé principalement à titre résidentiel par le particulier, son ex‑époux ou ancien conjoint de fait ou un particulier lié à ce particulier ». Si par application de cette disposition législative, les appelants sont exempts de la taxe à soi-même, ils ne pourront par le fait même bénéficier du remboursement de la taxe prévue au paragraphe 256.2(3), qu’ils réclament.
+[5] Peut-on dire dans le cas en espèce que le triplex est « utilisé principalement à titre résidentiel par [les appelants], […] ou un particulier lié à [ces derniers] »?
+[6] On entend par « principalement », plus de 50 pour cent (voir Foote c. Canada, 2007 CCI 46, [2007] A.C.I. no 17 (QL).
+[7] Les appelants soutiennent qu’ils habitent un seul logement du triplex et n’occupent pas plus de 50 pour cent de l’immeuble. Selon eux, le fait que les parents de M. Coutu habitent un autre logement du triplex ne devrait pas être tenu en compte. Ils plaident que le texte législatif parle d’un immeuble utilisé principalement à titre résidentiel par le particulier ou un particulier lié à ce particulier. Ils soulignent que le texte de loi ne dit pas « utilisé principalement… par le particulier [et] un particulier lié à ce particulier ».
+[8] Les appelants s’appuient sur une décision de la Cour du Québec, Fortin c. Québec (Sous-ministre du Revenu), [2006] R.D.R.Q. 153 dans laquelle il fut décidé que l’utilisation du mot « ou » au paragraphe 227(2) de la Loi sur la taxe de vente du Québec, soit l’équivalent du paragraphe 191(5) de la LTA, marque l’alternative et non la conjonction. Dans cette dernière affaire, les requérants occupaient 50 pour cent de l’immeuble, et les parents de l’un des requérants occupaient 25 pour cent de l’immeuble. La Cour avait donc conclu que les requérants n’occupaient pas principalement l’immeuble à titre résidentiel puisqu’on ne devait pas tenir compte de l’utilisation d’une partie de l’immeuble par les parents. Cette décision a été portée en appel par le Ministre. Les requérants se sont désistés en appel.
+[9] L’avocate de l’intimée s’appuie sur la définition grammaticale du mot « ou » dans le Dictionnaire des difficultés du français[1] qui se lit comme suit :
+OU (conjonction) ¨ Orth. Jamais d’accent grave, à la différence de l’adverbe relatif. On reconnaît qu’on a affaire à la conjonction à ceci, qu’il est toujours possible de substituer ou bien à ou. Il boit du lait, ou du vin, ou de l’eau, ou de la cervoise, indifféremment dans l’or, dans le verre, dans la corne ou dans l’onyx (Valéry). ¨ Emploi. Dans une approximation située entre deux nombres consécutifs, on emploie la préposition ou. Il y avait là neuf ou dix personnes. Mais –> À.
+[10] Ainsi, selon elle, si l’on peut remplacer le mot « ou » par « ou bien », le mot « ou » devient une conjonction au même titre que « et ». Selon elle, le mot « ou » au paragraphe 191(5) est utilisé dans le sens conjonctif. Ainsi, si les appelants et les parents occupent plus de 50 pour cent de l’immeuble à titre résidentiel, les appelants sont exempts de la taxe à soi-même en vertu du paragraphe 191(5) et en conséquence, n’ont pas droit au remboursement prévu au paragraphe 256.2(3) de la LTA.
+Analyse
+[11] Dans l’affaire Radage c. Canada, [1996] A.C.I. no 730 (QL), le juge Bowman s’exprimait ainsi :
+16 Une question préliminaire, avant de traiter du sens de ces termes, est de savoir si le mot "et" est disjonctif ou conjonctif. Comme le fait observer Maxwell On Interpretation of Statutes, 12e éd., aux pp. 232-233 :
+[TRADUCTION]
+Dans l'usage ordinaire, le mot "et" est conjonctif, et le mot "ou", disjonctif. Toutefois, pour faire respecter l'intention du législateur, il peut être nécessaire de lire le mot "et" au lieu du mot "ou", et vice-versa.
+[12] Dans l’arrêt Russell c. Canada, [2001] A.C.I. no 409 (QL), le juge Bowman disait ceci :
+11 Il ne faut pas supposer automatiquement, sans analyser davantage la question, que, dans la définition, le mot "or" est inclusif. Les tribunaux doivent à tout le moins se demander si la disposition est ambiguë et, le cas échéant, si cette ambiguïté doit être résolue en faveur du contribuable (Stubart Investments Limited c. La Reine, C.A.F., no A-476-78, 27 avril 1981 (84 D.T.C. 6305); Canada c. Fries, [1990] 2 R.C.S. 1322 (90 D.T.C. 6662)).
+12 Ma prémisse est que le mot "or" est à première vue exclusif, et qu'il ne convient pas de lui prêter une valeur inclusive sans raison valable.
+13 Par contre, ce mot peut être inclusif si cela est justifié par le contexte. Si l'on aborde la situation en prenant pour acquis que le mot "or" est exclusif dans la définition, cela voudrait normalement dire que l'on doit prendre en compte soit le revenu du particulier, soit celui du "proche admissible" (son conjoint), mais pas les deux. Si l'on suppose au contraire que "or" signifie "and", il est clair alors que l'on doit additionner les revenus des deux conjoints. Si telle était l'intention du législateur, quel est donc le principe de rédaction des lois voulant que l'on utilise le mot "or"?
+[…]
+22 […] Je suppose que le mot "ou" peut, tout autant que "or" en anglais, être inclusif ou exclusif, tout dépendant du contexte (Marzetti c. Marzetti, [1994] 2 R.C.S. 765).
+[13] Dans l’arrêt CCH Canada Ltd. c. Barreau du Haut‑Canada, 2002 CAF 187, 2002 A.C.F. no 690 (QL), la Cour d’appel fédérale a conclu :
+45 La présente Cour, dans l'arrêt Télé-Direct, a aussi signalé que l'expression "talent, jugement ou travail" devait se lire au sens conjonctif plutôt que disjonctif.
+[14] Dans Mercier c. Canada, [1997] A.C.I. no 613 (QL), le juge Dussault disait :
+10 Quant à la question de savoir si le mot "et" utilisé au sous-alinéa 118.4(1)c)(ii) est conjonctif ou disjonctif, voici les remarques du juge Bowman à cet égard :
+Pour ce qui est du fait de s'alimenter et de s'habiller, l'avocat du ministre, Me Bundy, a fait valoir dans une plaidoirie très intelligente qu'un particulier devait être limité dans sa capacité à la fois de s'alimenter et de s'habiller. Je crois qu'il entend par là que le mot "et" a une valeur conjonctive plutôt que disjonctive. C'est une question d'interprétation. Je n'ai devant moi aucun texte faisant autorité en la matière, mais je sais qu'en certains cas, le mot "et" peut être conjonctif et que, dans d'autres cas, il peut être disjonctif. J'adopte ici ce qu'un certain jugement appelle une approche "téléologique", soit une interprétation qui semble conforme à l'esprit et à l'objet de la loi. J'estime qu'il est plus conforme à l'esprit de la loi et à l'objet de cet article d'interpréter le mot "et" comme ayant une valeur disjonctive; donc, il suffit qu'un particulier soit limité dans sa capacité de s'alimenter ou de s'habiller. Il n'est pas nécessaire qu'il soit limité dans sa capacité d'accomplir les deux activités. [Citations omises.]
+[15] Dans les archives des notes explicatives concernant le paragraphe 191(5) (LTA) sur la fourniture à soi-même d’un immeuble résidentiel (CCH fiscalité – Taxes à la consommation – Octobre 2008, Publications CCH), on dit ce qui suit :
+Archives des notes explicatives de 191(5) (LTA)
+Projet de loi C-62 (L.C. 1990, ch. 45) : Fourniture à soi-même d’un immeuble résidentiel
+Cet article institue les règles sur la fourniture à soi-même lorsqu’un constructeur construit un immeuble d’habitation ou y effectue des rénovations majeures, pour ensuite le louer à des tiers ou l’habiter en tant que résidence. Dans un tel cas, le constructeur est réputé avoir vendu et racheté l’immeuble d’habitation. En conséquence, le constructeur doit verser la TPS sur la juste valeur marchande de l’immeuble avec sa déclaration pour la période de déclaration durant laquelle l’immeuble a subi des rénovations majeures ou a été loué, la plus tardive des deux dates étant retenue. La valeur ajoutée par le constructeur est donc taxée. Le but de cette règle est de s’assurer que ces constructeurs sont soumis au même régime que les personnes qui achètent un immeuble d’habitation neuf ou ayant subi des rénovations majeures afin de le louer.
+[…]
+La règle sur la fourniture à soi-même ne s’applique généralement pas aux constructeurs qui sont des particuliers et qui occupent l’immeuble en tant que résidence principale, pourvu qu’aucun crédit de taxe sur les intrants n’ait été demandé pour l’achat du terrain et pour la construction ou les rénovations.
+[…]
+Exception en cas d’utilisation personnelle
+Les règles prévues aux paragraphes (1) à (4) ne s’appliquent pas lorsque le constructeur est un particulier et que, une fois l’immeuble achevé en grande partie, il est utilisé principalement à titre résidentiel par le constructeur (ou un autre particulier qui lui est lié ou son ex-conjoint), pourvu que le constructeur n’ait réclamé aucun crédit de taxe sur les intrants relativement à l’immeuble. Cette règle permet de traiter ces constructeurs de la même façon que les particuliers qui construisent eux-mêmes leurs maisons et qui ne sont pas considérés comme des constructeurs aux termes de la TPS (et qui ne sont donc pas assujettis aux règles sur la fourniture à soi-même). Il faut signaler que les constructeurs qui construisent leurs propres résidences peuvent être admissibles à un remboursement de la taxe aux termes de l’article 256 si l’immeuble est utilisé à titre de résidence principale.
+[16] On parle ici d’un immeuble achevé en grande partie qui est utilisé principalement à titre résidentiel par le constructeur (ou un autre particulier qui lui est lié) pour appliquer l’exception en cas d’utilisation personnelle. On ne parle pas d’une habitation de l’immeuble, pas plus que dans le texte de loi d’ailleurs.
+[17] Un immeuble d’habitation est défini comme un bâtiment qui compte au moins une habitation. Un immeuble d’habitation à logements multiples est défini comme un immeuble d’habitation qui contient au moins deux habitations. Une habitation est définie comme une maison individuelle, unité en copropriété, […] appartement occupé à titre résidentiel. Dans le cas qui nous préoccupe, l’immeuble est habité à plus de 50 pour cent par les appelants et des particuliers qui leur sont liés.
+[18] À mon avis, le texte, le contexte et l’intention du législateur dénotent plutôt que le « ou » utilisé a un sens inclusif, et exprime une conjonction plutôt qu’une alternative. En ce qui concerne le texte même, le législateur dit ceci : « l’immeuble est utilisé principalement à titre résidentiel par le particulier, son ex‑époux ou ancien conjoint de fait ou un particulier lié à ce particulier. » (Je souligne.) Il y a l’utilisation d’une virgule entre « particulier » et « son ex‑époux ou conjoint de fait ou un particulier lié à ce particulier ». Dans l’ouvrage de Maurice Grevisse, Le bon usage[2], § 124, p. 169, on dit que la virgule s’emploie obligatoirement entre les termes coordonnés sans conjonction, et que dans l’usage ordinaire, la conjonction de coordination « et » et « ou » (ou bien) ne se placent que devant le dernier terme de la coordination (§ 1033, p. 1567). Dans La grammaire pour tous[3], de Bescherelle, p. 201, on indique que la virgule à l’intérieur d’un groupe permet de ne pas répéter la conjonction de coordination, laquelle n’apparaît qu’avec le dernier mot coordonné. Finalement, le Multidictionnaire de la langue française[4], à la p. 1132, mentionne que dans une énumération, la virgule sépare les noms et les adjectifs énumérés non unis par une conjonction (et, ou, ni). Ainsi, en utilisant une virgule, le législateur donnait un sens conjonctif plutôt que disjonctif à cette expression (je me réfère également à l’arrêt CCH Canada, précité, où la même structure de phrase avait été utilisée, et la Cour d’appel fédérale avait donné un sens conjonctif aux termes utilisés).
+[19] Quant au contexte, tel que je le disais plus haut, on parle de l’occupation de l’immeuble et non de l’habitation. Il me semble plus logique de dire que le législateur visait l’utilisation principale par le particulier et tout particulier lié, plutôt que l’occupation par l’un ou l’autre, de tout l’immeuble. Quant à l’intention du législateur, dans la mesure où les archives des notes explicatives peuvent nous donner un indice, on parle de l’utilisation « principalement à titre résidentiel par le constructeur », et on ajoute entre parenthèses « (ou un autre particulier qui lui est lié) ». Dans le Multidictionnaire, précité, on enseigne que la parenthèse est un élément explicatif inséré dans une phrase (p. 1051). Il s’agit souvent d’une réflexion que fait celui qui écrit à propos de tel ou tel passage de la phrase (La grammaire pour tous, précitée, p. 205). À mon avis, l’utilisation des parenthèses vient confirmer le sens conjonctif plutôt que disjonctif. En effet, on semble indiquer ici que l’utilisation résidentielle par le constructeur inclut également celle qu’en fait le particulier qui lui est lié.
+[20] C’est pourquoi, je suis d’opinion que dès lors que plus de 50 pour cent de l’immeuble est utilisé à titre résidentiel par les appelants et les parents de M. Coutu, les appelants sont visés par l’exception du paragraphe 191(5) et ne peuvent plus réclamer le remboursement prévu au paragraphe 256.2(3) de la LTA.
+[21] Les appelants ont souligné qu’il y avait une injustice par rapport aux acheteurs de maisons unifamiliales qui peuvent réclamer un remboursement de TPS pour habitation neuve, alors que dans leur cas, ils n’auraient droit ni au remboursement de TPS pour immeuble d’habitation locatif neuf, ni au remboursement de TPS pour habitation neuve.
+[22] Je pense qu’il est important de mentionner ici que les acheteurs d’immeubles d’habitation qui ont droit à un remboursement de TPS pour habitation neuve, ont versé la TPS sur la juste valeur marchande de l’immeuble. Le constructeur d’un tel immeuble d’habitation qui l’utilise à titre résidentiel n’est pas tenu de payer cette taxe, lorsque s’applique l’exception du paragraphe 191(5) (voir Publication visant les entreprises, Direction des services à la clientèle, sur le remboursement de la TPS/TVH pour immeubles d’habitation locatifs neufs, du 14 février 2002, RITS/No : 37301, publiée par CCH Canadienne Limitée). Dans ce contexte, il ne semble pas y avoir d’injustice quant au remboursement de la TPS, tel que les appelants le prétendent.
+Décision
+[23] Compte tenu des motifs ci-haut relatés, les appels sont rejetés et les cotisations datées du 4 novembre 2005 et portant les numéros DGE‑10224 et DGE‑10225 sont confirmées.
+Signé à Montréal (Québec) ce 25e jour de novembre 2008.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2008 CCI 641
+Nos DES DOSSIERS DE LA COUR : 2008-1272(GST)I
+2008-1273(GST)I
+INTITULÉS DES CAUSES : MICHEL COUTU ET SA MAJESTÉ LA REINE
+DIANE MIRON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 24 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 25 novembre 2008
+COMPARUTIONS :
+Pour les appelants :
+Michel Coutu
+Avocate de l'intimée :
+Me Brigitte Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les usuels du Robert : Dictionnaire des difficultés du français. Paris : Le Robert, 1980, p. 512.
+[2] Grevisse, Maurice et André Goose. Le bon usage : grammaire française. 12e éd., Gembloux, Belgique : J. Duculot, 1986.
+[3] Bescherelle 3: La grammaire pour tous. Paris: Hurtubise H.M.H., 1991, p. 201.
+[4] Marie-Éva de Villers. Multidictionnaire de la langue française. 3e éd., Montréal : Québec Amérique, 1997, p. 132.

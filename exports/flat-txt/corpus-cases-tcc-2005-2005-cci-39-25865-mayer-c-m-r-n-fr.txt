@@ -1,0 +1,156 @@
+Title: Mayer c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25865/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-39-25865-mayer-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-01-21
+
+# Mayer c. M.R.N.
+
+- Citation: 2005 CCI 39
+- Decision date: 2005-01-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3859, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mayer c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-21
+Référence neutre
+2005 CCI 39
+Numéro de dossier
+2004-286(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-286(EI)
+ENTRE :
+JULIE MAYER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 novembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelante :
+Me Pierre Robillard
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de janvier 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI39
+Date : 20050121
+Dossier : 2004-286(EI)
+ENTRE :
+JULIE MAYER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 24 novembre 2004.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de Mélanie Duchesne, la travailleuse, lorsqu'au service de l'appelante pendant la période du 3 février au 11 juin 2003, la période en litige.
+[3] Le 29 octobre 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+a) l'appelante était la mère de trois jeunes enfants de 1 an, 2 ans et 3 ans; (admis)
+b) l'appelante avait placé une annonce dans un journal local pour retenir les services d'une gardienne; (admis)
+c) la travailleuse a répondu à l'annonce et a été engagée comme gardienne d'enfants; (admis avec précisions)
+d) les tâches de la travailleuse consistaient à préparer les repas des enfants, à les surveiller, à répondre à leurs besoins et à accomplir quelques tâches ménagères comme laver la vaisselle; (admis avec précisions)
+e) la travailleuse rendait ses services à la résidence de l'appelante; (admis)
+f) la travailleuse gardait uniquement les enfants de l'appelante et ne pouvait pas garder d'autres enfants; (nié)
+g) l'appelante avait déterminé l'horaire de travail de la travailleuse, selon l'horaire suivant : (nié)
+lundi 9h00 à 19h00
+mardi 9h00 à 19h00
+mercredi 9h00 à 21h00
+jeudi 9h00 à 17h00
+vendredi 9h00 à 19h00
+h) l'appelante tenait un registre des heures travaillées par la travailleuse; (admis avec précisions)
+i) l'appelante avait fixé la rémunération de la travailleuse à 250 $ par semaine pour 50 heures de travail; (nié)
+j) la travailleuse était rémunérée de montants additionnels pour les heures supplémentaires; (admis avec précisions)
+k) la travailleuse recevait sa rémunération en argent comptant à chaque semaine; (admis)
+l) la travailleuse devait suivre les instructions de l'appelante; (nié)
+m) l'appelante communiquait sur une base quotidienne avec la travailleuse; (admis avec précisions)
+n) l'appelante venait régulièrement à sa résidence pour s'assurer que tout se passait bien; (admis avec précisions)
+o) la travailleuse ne pouvait pas se faire remplacer pour l'exécution de ses tâches; (nié)
+p) les lieux, les fournitures et les équipements étaient fournis à la travailleuse par l'appelante; (nié)
+q) la travailleuse n'avait aucun risque financier dans l'exercice de son travail. (nié)
+[5] La preuve a révélé que l'appelante a fait paraître une annonce dans le journal local pour une gardienne d'enfants. L'annonce précisait que les heures de travail exigées étaient de 7 h à 19 h cinq jours par semaine du lundi au vendredi contre une rémunération de 250,00 $ par semaine et pour laquelle un reçu serait demandé à la travailleuse. L'annonce précisait également que la travailleuse devait se transporter elle même.
+[6] En répondant à cette annonce, la travailleuse s'est présentée au domicile de l'appelante pour une entrevue au cours de laquelle elle a indiqué que l'horaire suggéré posait des problèmes le jeudi alors qu'elle devait à 17 h participer à une compétition de quilles. Autre problème à résoudre, la travailleuse ne pouvait pas assurer son transport et l'appelante a décidé de lui permettre une période d'essai en attendant qu'elle puisse assurer son transport. Pendant la période d'essai, les enfants l'ont tellement aimée qu'un compromis a été fait pour le jeudi, ce qui permettait à la travailleuse de continuer ses activités aux quilles et qu'elle pouvait plus tard remplacer les deux heures en question. Le contrat de travail entre la travailleuse et l'appelante était verbal. La travailleuse devait s'occuper de la garde des trois enfants de l'appelante. Ils étaient âgés d'un an, deux ans et trois ans et demi. Pendant la période en litige, le transport de la travailleuse a été assuré par le mari de l'appelante, Sylvain Lessard, qui allait la chercher tous les matins entre 9 h et 9 h 30. Cela signifiait un trajet de 30 kilomètres par jour et ce transport lui était offert gratuitement. Les tâches de la travailleuse étaient les suivantes : lever les enfants et les habiller, les emmener dehors dans la cour pour faire des jeux pendant l'avant-midi, préparer le dîner des enfants et faire la vaisselle, dans l'après-midi préparer les enfants pour la sieste et cette activité était suivie d'une période de jeux à l'extérieur. Plus tard les enfants étaient installés devant la télévision pendant que la travailleuse préparait le souper et faisait souper les enfants. Ensuite, il fallait laver la vaisselle et préparer le bain des enfants.
+[7] La travailleuse exécutait ses tâches à la résidence de l'appelante puisque celle-ci l'exigeait. L'appelante et son mari sont tous les deux des artisans qui oeuvrent dans leur atelier situé à 50 pieds de leur résidence. L'horaire de la travailleuse avait été fixé par l'appelante et avait été stipulé dans son annonce dans le journal quoique de légères modifications y ont été apportées telles que rapportées ci-haut. Les heures de travail de la travailleuse étaient inscrites sur le calendrier par l'appelante et la travailleuse. La travailleuse oeuvrait un minimum de 50 heures par semaine plus des heures supplémentaires. Elle recevait un salaire de base de 250,00 $ par semaine pour 50 heures de travail selon l'horaire établi. Aussi, elle recevait des montants additionnels pour ses heures supplémentaires. La travailleuse n'était pas payée pour ses journées de maladie. Sa rémunération a été déterminée par l'appelante et avait été indiquée dans l'annonce placée par celle-ci dans le journal.
+[8] La travailleuse était payée chaque semaine, en argent comptant et elle remettait un reçu à l'appelante. Elle a quitté son emploi parce qu'elle ne pouvait pas s'entendre avec l'appelante sur sa période de vacances.
+[9] En ce qui concerne la supervision de la travailleuse, cette dernière a déclaré à l'audition que l'appelante venait visiter la résidence une à deux fois pendant l'avant-midi de même que l'après-midi et venait aussi parfois pour faire des commissions, mais, selon l'appelante, ces visites à la maison étaient beaucoup moins fréquentes. La travailleuse devait rendre les services personnellement pour l'appelante.
+[10] La preuve a révélé que la travailleuse décidait elle même de l'horaire des enfants et de leurs activités, mais, quant au menu, elle le préparait de concert avec l'appelante.
+[11] La preuve a révélé que la travailleuse, avec le consentement de l'appelante, avait gardé les enfants de son conjoint au domicile de l'appelante, avec les enfants de celle-ci. L'agent des appels, cependant, a rapporté que l'appelante lui avait dit que la travailleuse n'avait pas la permission de garder d'autres enfants chez elle. Lors de son témoignage, cependant, l'appelante a nié avoir fait cette affirmation à l'agent des appels.
+[12] La travailleuse a rempli un formulaire destiné au programme Action-Emploi où elle s'est décrite comme une travailleuse autonome; toutefois, elle a admis qu'à l'époque elle ignorait la différence entre une travailleuse autonome et une employée salariée. La travailleuse avait douze ans d'expérience dans ce genre de travail.
+[13] L'appelante était présente sur les lieux chaque jour, pour des courtes visites. Elle était en communication avec la travailleuse sur une base régulière durant les jours de travail. Pendant qu'elle travaillait, les communications avec la résidence se faisaient par l'entremise d'un intercom entre la résidence et l'atelier où elle travaillait.
+[14] Les lieux, les fournitures et tout le matériel pour exécuter le travail étaient fournis par l'appelante. Donc, la travailleuse n'encourait aucune dépense dans l'exécution de ses tâches.
+[15] Au terme de son analyse, le Ministre a conclu que la travailleuse occupait un emploi assurable en vertu des critères suivants, établis dans l'arrêt Wiebe Door Services Ltd. c. Le Ministre du Revenu national, [1986] 3 C.F. 553(C.A.F.), c'est-à-dire celui du contrôle, de la propriété des outils, des chances de profit et risques de perte et de l'intégration.
+[16] Le Ministre a conclu, pour ce qui concerne le premier critère, celui du contrôle, que la travailleuse effectuait son travail sous le contrôle de l'appelante. Le lieu de travail et l'horaire de la travailleuse étaient établis par l'appelante qui tenait un registre des heures travaillées, En outre, la travailleuse était tenue de rendre les services personnellement. L'appelante était en communication régulièrement avec la travailleuse durant les journées de travail.
+[17] Quant à l'analyse des faits par le Ministre sous le critère de la propriété des outils, celui-ci a conclu que les lieux, les fournitures et tout le matériel pour faire le travail étaient fournis par l'appelante. Quant à ses chances de profit et ses risques de perte, le Ministre a déterminé que la travailleuse recevait un salaire de base de 250,00 $ par semaine pour 50 heures de travail et des montants additionnels pour ses heures supplémentaires. En outre, il a déterminé que la travailleuse ne faisait aucune dépense pour faire son travail et qu'ainsi, elle n'encourait aucun risque financier.
+[18] Quant au critère de l'intégration, le Ministre a déterminé que puisqu'il ne s'agissait pas d'un travail exécuté dans le cadre d'une entreprise commerciale, ce critère n'avait aucune application dans ce contexte.
+[19] À l'audition, deux arrêts ont été portés à l'attention de la Cour. Il s'agit de l'arrêt Thériault c.Canada (ministre du Revenu national - M.R.N.), [1998] A.C.I. no 193, et de l'arrêt Mohr c. Canada (ministre du Revenu national - M.R.N.), [1997] A.C.I. no 1252.
+[20] J'ai choisi de reproduire certaines parties de l'arrêt Mohr parce que celui-ci met en cause des circonstances qui ressemblent davantage à la cause sous étude que l'arrêt Thériault. En outre, les faits rapportés dans l'arrêt Mohr démontrent que la travailleuse « Shelley » jouit d'une plus grande autonomie que la travailleuse « Stéphanie Guénette » dans l'arrêt Thériault.
+[21] Il est donc opportun de reproduire ici certains extraits de l'arrêt Mohr :
+[...]
+En janvier 1994, l'appelante et son mari se sont entendus avec Shelley pour que celle-ci garde les trois enfants aux conditions ci-après énoncées. Shelley se rendait chez l'appelante et son mari chaque jour de la semaine à 7 h 30 et y restait jusqu'à 17 h 30. Pendant cette journée de dix heures, Shelley gardait seule les trois enfants et était responsable de leur bien-être physique et émotionnel. Elle les faisait manger, elle les amenait au parc et à la bibliothèque. Elle pouvait les amener chez elle, dans son appartement, mais en fait elle devait les garder chez l'appelante parce qu'il n'était pas commode de les amener chez elle. De plus, en allant chez l'appelante, Shelley disposait de tout ce qu'il fallait pour s'occuper de jeunes enfants, par exemple, des bouteilles, des jouets et des articles comme des vêtements et des couches et des installations pour faire la lessive. Selon l'entente, Shelley faisait la lessive et effectuait de petits travaux ménagers de façon qu'en revenant à la maison le soir, les parents ne trouvent pas un amas de linge sale. Shelley jouissait d'une grande liberté pendant la journée dans la mesure où elle s'occupait des enfants d'une façon responsable. Elle pouvait faire à peu près ce qu'elle voulait. [...]
+[...]
+L'appelante soutient que Shelley était un entrepreneur indépendant parce que, à part les tâches assignées par l'appelante et son mari, elle jouissait d'une grande liberté d'action lorsqu'il s'agissait d'accepter de s'occuper d'autres enfants. Ainsi, en 1994, une enfant qui s'appelait Amanda Walton, qui avait huit ou neuf ans, avait besoin d'être gardée pendant que ses parents travaillaient. Shelley s'est entendue avec les parents d'Amanda pour que l'enfant se rende chez les Mohr à midi pour prendre son repas, puis de nouveau dans l'après-midi de 15 h 30 à 17 h 30 pour se faire garder tant que ses parents ne venaient pas la chercher. L'appelante a déclaré qu'elle n'était pas au courant des dispositions qui avaient été prises entre Shelley et les parents d'Amanda au sujet de la rémunération parce qu'elle estimait que cela ne la concernait pas. Toutefois, elle savait qu'Amanda venait chez eux et elle n'y voyait pas d'inconvénients.
+De même, en 1995, Shelley s'occupait de deux autres enfants qui s'appelaient Ben et Heidi, qui étaient frère et soeur. [...] l'appelante a pris connaissance de l'entente, elle ne s'y est pas opposée parce que Shelley semblait être capable de s'occuper de deux autres enfants [...] L'appelante ne savait pas combien d'argent les parents de Ben et de Heidi versaient à Shelley.
+[...]
+L'appelante a cité ces exemples [...] pour montrer la latitude qu'avait Shelley [...] pour montrer que la situation de Shelley ressemblait davantage à celle d'une personne qui exploitait une entreprise pour des clients [...]
+[...]
+En ce qui concerne la question du contrôle, ce critère milite en faveur de l'existence d'un emploi par opposition à un travail effectué par un entrepreneur indépendant parce que les heures étaient fixées par l'appelante et que le service devait être fourni de façon à accommoder l'appelante et son mari, soit de 7 h 30 à 17 h 30. L'appelante assignait les tâches et celles-ci devaient être accomplies à sa satisfaction tant en ce qui concerne les soins physiques comme le fait de faire manger les enfants et de les laver et de faire la lessive [...]
+En ce qui concerne la propriété des instruments de travail, ma première réaction est qu'on ne songe pas à des instruments dans le cas de services comme ceux-ci. Les instruments, dans un lieu de travail, sont habituellement des outils à la main, comme le marteau et la scie du menuisier, ou les outils du machiniste, comme un tour ou une perceuse à colonne. On ne songe pas à des instruments de travail dans le cas de la garde d'enfants, mais si l'on attribue à cette expression un sens plus large, c'est-à-dire qu'elle s'applique à des articles qui permettent de fournir un service, il s'agirait de la vaisselle et de la coutellerie utilisées pour nourrir les enfants, de la cuisinière servant à faire chauffer les aliments, des jouets, des couches, parce qu'il s'agit d'articles nécessaires lorsqu'on s'occupe d'un enfant en bas âge [...] Étant donné que tous ces « instruments de travail » appartenaient à l'appelante et étaient fournis par cette dernière, ce critère milite en faveur de l'existence d'un emploi.
+Le troisième critère se rapporte aux chances de bénéfice et aux risques de perte. À cet égard, l'appelante soutient que la possibilité pour Shelley de s'occuper d'autres enfants comme Amanda, Ben et Heidi, et Nicholas, ou de refuser de le faire, est une chance pour elle d'augmenter son revenu. Il est certain que Shelley pouvait le faire si l'appelante le lui permettait, mais je ne crois pas que ce soit le fait pertinent lorsqu'il s'agit d'appliquer le critère des chances de bénéfice ou des risques de perte. Je ne puis constater aucun risque de perte parce que, dans la mesure où les tâches assignées étaient accomplies, la rémunération quotidienne de 50 $ était versée. La rémunération n'était pas fixe, comme un taux horaire, mais elle était tout aussi sûre que le salaire horaire ou le salaire quotidien ou hebdomadaire qui pourrait être versé lorsque d'autres genres de services sont fournis. J'estime que les chances de bénéfice et les risques de perte militent en faveur de l'existence d'un emploi parce que la rémunération était garantie et qu'il n'y avait pas de risques de perte. [...]
+[22] En raison des circonstances étroitement similaires décrites dans l'arrêt Mohr, précité, et la cause sous étude, cette Cour souscrit à l'analyse faite par le juge Mogan, de cette Cour, et adopte sa conclusion.
+[23] Cette Cour ne voit donc pas le bien-fondé de son intervention et demeure persuadée que la décision du Ministre, compte tenu de la preuve recueillie à l'audition, paraît toujours raisonnable.
+[24] En conséquence, après analyse, cette Cour doit conclure, comme l'a fait le juge Mogan dans l'arrêt Mohr, précité, que la travailleuse Mélanie Duchesne, pendant la période en litige, exerçait un emploi assurable au sens de la Loi sur l'assurance-emploi.
+[25] L'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 21e jour de janvier 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2005CCI39
+No DU DOSSIER DE LA COUR :
+2004-286(EI)
+INTITULÉ DE LA CAUSE :
+Julie Mayer et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 24 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 21 janvier 2005
+COMPARUTIONS :
+Pour l'appelante :
+Me Pierre Robillard
+Pour l'intimé :
+Me Emmanuelle Faulkner
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Pierre Robillard
+Étude :
+Boivin & Deschamps
+Laval (Québec)
+Pour l'intimé :
+Jim H. Sims
+Sous-procureur général du Canada
+Ottawa, Canada

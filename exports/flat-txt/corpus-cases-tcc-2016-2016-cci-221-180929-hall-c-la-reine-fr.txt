@@ -1,0 +1,185 @@
+Title: Hall c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180929/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-221-180929-hall-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-05
+
+# Hall c. La Reine
+
+- Citation: 2016 CCI 221
+- Decision date: 2016-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2936, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-05
+Référence neutre
+2016 CCI 221
+Numéro de dossier
+2016-815(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-815(IT)I
+ENTRE :
+MURRAY E. HALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 26 août 2016, à London (Ontario)
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Nguyen
+JUGEMENT
+L’appel des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2008, 2009, 2010, 2011, 2012 et 2013 est accueilli relativement aux pénalités imposées seulement et les avis de cotisation sont renvoyés au ministre du Revenu national pour nouvel examen et nouvelle cotisation. L’appelant n’a droit à aucune autre forme de réparation.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2016 CCI 221
+Date : 20161005
+Dossier : 2016-815(IT)I
+ENTRE :
+MURRAY E. HALL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Juge D’Auray
+[1] M. Hall interjette appel des cotisations, des pénalités et des intérêts pour les excédents de cotisations versées à son REER pour les années d’imposition 2008, 2009, 2010, 2011, 2012 et 2013.
+[2] Au début de l’audience, l’intimée a renoncé aux pénalités pour toutes les années d’imposition. Par conséquent, les pénalités ne sont plus en litige en l’espèce.
+[3] Les sommes que M. Hall a versées à son REER pour les années d’imposition de 1996 jusqu’à 2008 s’élèvent à 69 056 $. Dans ses déclarations de revenus des années d’imposition 1996 à 2007, M. Hall a déduit 57 477 $ de cotisations au titre des REER.
+[4] M. Hall avait 12 029 $ d’excédents de cotisations à son REER depuis la fin de l’année civile 2008 (cette somme est composée d’un solde de 4 879 $ en cotisations non déduites des années antérieures et de la cotisation de 7 150 $ à son REER en 2008)
+[5] Les droits de cotisation à un REER non utilisés de M. Hall se présentaient comme suit :
+NÉANT
+en 2008
+NÉANT
+en 2009
+NÉANT
+en 2010
+271 $
+en 2011
+271 $
+en 2012
+271 $
+en 2013
+[6] M. Hall ne bénéficiait d’aucune déduction pour ses primes de REER relativement aux cotisations à un REER inutilisées pour les années d’imposition 2008, 2009, 2010, 2011, 2012 et 2013, et il n’en a demandé aucune.
+[7] Étant donné que M. Hall avait 12 029 $ de cotisations excédentaires à son REER depuis 2008, il devait produire une Déclaration des particuliers pour les cotisations excédentaires à un REER (« déclaration ») au moyen du formulaire T1‑OVP, pour les années d’imposition 2008, 2009, 2010, 2011, 2012 et 2013, selon les modalités et dans le délai prévu au paragraphe 204.3(1) de la Loi de l’impôt sur le revenu (la « Loi ») Le paragraphe 204.3(1) est rédigé comme suit :
+204.3 (1) Les contribuables visés par la présente partie doivent, dans les 90 jours qui suivent la fin de chaque année postérieure à 1975 :
+a) produire auprès du ministre, sans avis ni mise en demeure, une déclaration pour l’année en vertu de la présente partie, selon le formulaire prescrit et contenant les renseignements prescrits;
+b) estimer, dans cette déclaration, l’impôt dont ils sont redevables en vertu de la présente partie pour chaque mois de l’année;
+c) verser cet impôt au receveur général.
+[8] En raison du défaut de M. Hall de produire une déclaration, le ministre du Revenu national (le « ministre ») a établi comme suit la cotisation de M. Hall pour ses années d’imposition 2008, 2009, 2010, 2011, 2012 et 2013, conformément au paragraphe 152(7) de la Loi :
+Année
+Impôt fédéral
+Pénalité pour production tardive
+Intérêts sur arriérés
+2008
+515,00 $
+87,55 $
+220,84 $
+2009
+618,00 $
+105,06 $
+216,75 $
+2010
+618,00 $
+105,06 $
+170,93 $
+2011
+585,48 $
+99,53 $
+120,67 $
+2012
+585,48 $
+99,53 $
+81,38 $
+2013
+585,48 $
+99,53 $
+42,15 $
+[9] M. Hall ne conteste pas qu’il a trop cotisé à son REER. M. Hall affirme plutôt qu’il n’a pas fait l’objet d’une nouvelle cotisation dans le délai de trois ans prévu aux paragraphes 152(3.1) et 152(4) de la Loi. Il soutient que, puisque la nouvelle cotisation pour les années d’imposition 2008, 2009, 2010 et 2011 date du 10 juin 2015, ces années d’imposition étaient frappées de prescription au moment de la nouvelle cotisation.
+[10] M. Hall prétend que l’intimée n’a pas réussi à démontrer qu’il avait fait une présentation erronée par négligence, inattention ou omission volontaire, ou qu’il avait commis quelque fraude durant les années d’imposition 2008, 2009, 2010, et 2011 en produisant ses déclarations de revenus. Par conséquent, M. Hall fait valoir que le ministre ne peut procéder à de nouvelles cotisations que pour les années d’imposition 2012 et 2013 puisque toutes les autres années d’imposition sont frappées de prescription.
+[11] Par ailleurs, M. Hall affirme qu’à son avis, il n’aurait dû faire l’objet d’aucune cotisation en raison des cotisations excédentaires qu’il a effectuées à son REER parce le montant excédentaire sur lequel il a été imposé découle d’une erreur raisonnable. Il affirme également qu’il a pris des mesures raisonnables pour éliminer l’excédent cumulatif de son REER.
+[12] La position de l’intimée est que la période pour établir la cotisation de M. Hall a débuté seulement lorsque le ministre a établi une cotisation en vertu du paragraphe 152(7) de la Loi, le 10 juin 2015, puisque M. Hall n’avait pas produit de déclaration conformément au paragraphe 204.3(1) de la Loi.
+[13] Autrement dit, l’intimée fait valoir qu’il n’y a aucun délai pour établir la cotisation d’un contribuable lorsqu’une déclaration n’a pas été déposée auprès du ministre. En l’espèce, le ministre, aux termes du paragraphe 152(7) de la Loi, avait l’autorité de préparer les déclarations pour Cotisations excédentaires versées à un REER au nom de M. Hall et d’établir la cotisation en conséquence le 10 juin 2015. L’intimée soutient qu’aux termes des dispositions du paragraphe 152 de la Loi, les trois années de la « période normale de nouvelle cotisation » pour procéder à une nouvelle cotisation, dans le présent appel, vont jusqu’au 10 juin 2018, soit trois ans après l’émission de l’avis de cotisation initial du 10 juin 2015. Par conséquent, le ministre a établi une cotisation dans le délai prévu par la Loi.
+[14] En ce qui concerne le deuxième argument de M. Hall, l’intimée soutient que la Cour n’a pas compétence pour annuler le montant d’impôt exigible dû par l’appelant en application du paragraphe 204.1(4) de la Loi. En outre, l’intimée prétend que la Cour n’a pas compétence pour annuler les intérêts.
+Analyse [15] Le premier argument de M. Hall est que la nouvelle cotisation dont il a fait l’objet ne respectait pas le délai de prescription pour les années d’imposition 2008, 2009, 2010 et 2011. Par conséquent, M. Hall prétend que ces années sont frappées de prescription et ne peuvent faire l’objet d’une nouvelle cotisation parce que l’intimée n’a pas réussi à démontrer qu’il avait fait quelque présentation erronée par négligence, inattention ou omission volontaire, ou avait commis quelque fraude en produisant ses déclarations d’impôt sur le revenu.
+[16] Cependant, M. Hall était tenu de produire une déclaration en vertu du paragraphe 204.3(1) de la Partie X.1 de la Loi. La Partie X.1 s’applique lorsqu’un contribuable a trop cotisé à son REER.
+[17] Le paragraphe 204.3(1) de la Loi exige la production d’une déclaration distincte de celle produite en application de la Partie I. De plus, l’impôt payable conformément à la Partie X.1 est différent de l’impôt exigible conformément à la Partie I. Le paragraphe 204.3(1) exige que le contribuable paie l’impôt exigible conformément à cette Partie (X.1), dans les 90 jours suivant la fin de l’exercice.
+[18] Puisque la Partie X.1 énonce un impôt distinct, nécessitant une déclaration distincte de la Partie I, une déclaration produite en application de la Partie I ne s’applique pas au délai prévu au paragraphe 204.3(1) de la Loi. Ce raisonnement s’applique de la même manière à plusieurs autres parties de la Loi
+[19] La Cour, dans Gretillat c. La Reine, [1998] ACI no 143, 98 DTC 1483, a traité d’une question semblable à la question en l’espèce, portant sur la Partie X.4 de la Loi qui s’applique aux cotisations excédentaires à un REER. La Cour avait conclu que :
+[14] L’impôt payable en vertu de la Partie X.4 de la Loi, par le souscripteur d’un REEE, sur un excédent tel que défini à cette Partie X.4, est un impôt distinct de l’impôt payable en vertu de la Partie I de la Loi.
+[20] Plus loin dans Gretillat, la Cour a conclu que le délai d’évaluation applicable à la Partie X.4 n’avait pas commencé avec la production d’une déclaration conformément à la Partie I, mais qu’elle avait plutôt commencé au moment où le contribuable a fait l’objet d’une cotisation établie par le ministre pour l’impôt payable en vertu de la Partie X.4.
+[21] L’intimée a cité Cable Mines & Oils Ltd v Minister of National Revenue, 61 DTC 641, à l’appui de sa position selon laquelle une déclaration produite en vertu de la Partie I ne serait pas le point de départ de la période de cotisation pour l’impôt payable en vertu de la Partie X.1. Dans Cable Mines & Oils Ltd la Cour avait conclu que :
+[traduction]
+[20]... une cotisation établie en vertu des dispositions du paragraphe 123(10) est une cotisation initiale à l’égard d’impôts retenus et est une cotisation bien différente de toute cotisation initiale établie en vertu de l’article 46 en lien avec le revenu propre au contribuable...
+[22] Bien que Gretillat et Cable Mines & Oils Ltd ne traitent pas de la Partie X.1 de la Loi, les mêmes principes que ceux énoncés dans ces deux décisions s’appliqueraient en l’espèce. Puisque M. Hall n’a pas produit la déclaration requise pour la cotisation excédentaire à son REER en vertu de la Partie X.1 de la Loi, la cotisation initiale en lien avec cette partie s’est produite lorsque le ministre a établi la cotisation de M. Hall en vertu du paragraphe 152(7) de la Loi. Par conséquent, la cotisation initiale pour l’impôt payable en vertu de la Partie X.1 a eu lieu le 10 juin 2015.
+[23] Le paragraphe 204.3(2) édicte que l’article 152 de la Loi s’applique à la Partie X.1 de la Loi, « avec les adaptations nécessaires. » Aux termes du paragraphe 204.3(2) de la Loi, les délais de prescription du paragraphe 152(3.1) de la Loi s’appliquent à la partie X.1, avec adaptations. Le délai de trois ans pour l’évaluation débute au moment de l’envoi d’un avis initial de cotisation.
+[24] En l’espèce, l’évaluation initiale est survenue le 10 juin 2015, au moment où le ministre a établi le premier avis de cotisation de M. Hall en vertu de la Partie X.1. Par conséquent, le délai d’évaluation courrait du 10 juin 2015 au 10 juin 2018.
+[25] M. Hall prétend qu’il était déraisonnable pour le ministre d’établir une cotisation pour l’année d’imposition 2008 sept ans plus tard, soit en 2015. Bien qu’en l’espèce le ministre ait établi la cotisation de M. Hall après une longue période, le paragraphe 152(7) de la Loi n’oblige pas le ministre à respecter un certain délai pour établir une cotisation initiale.
+[26] De plus, M. Hall fait valoir que le ministre ne lui a jamais fourni d’avis ou de mise en demeure pour le paiement de l’impôt en vertu du paragraphe 204.3(1) de la Loi. Par contre, l’alinéa 204.3(1)a) de la Loi prévoit expressément que :
+204.3 (1) Les contribuables visés par la présente partie doivent, dans les 90 jours qui suivent la fin de chaque année postérieure à 1975 :
+a) produire auprès du ministre, sans avis ni mise en demeure, une déclaration pour l’année en vertu de la présente partie, selon le formulaire prescrit et contenant les renseignements prescrits;
+[Non souligné dans l’original.]
+[27] Étant donné que la Loi n’exige pas que le ministre remette un avis ou notifie une mise en demeure obligeant un contribuable à produire une déclaration en vertu du paragraphe 204.3(1) de la Loi, l’évaluation du ministre, datée du 10 juin 2015, constituait un avis de cotisation initial valide.
+[28] L’injustice résultante pouvant être causée par le fonctionnement de ces dispositions ne saurait être un fondement pour déroger à un avis de cotisation valide. La Cour d’appel fédérale, dans Lans c. Canada, [2011] ACF no 1457, 2011 CAF 290, a fait l’observation suivante :
+[9] Le fait que l’application de la loi dans des circonstances particulières puisse sembler dure ou que les fonctionnaires de l’ARC ne se soient peut-être pas toujours montrés très obligeants ne constitue pas un motif qui autoriserait la Cour de l’impôt à prononcer un redressement à l’égard d’une cotisation fiscale licite [...].
+[29] Pour conclure sur cette question, l’avis de cotisation du 10 juin 2015 était l’avis de cotisation initial pour l’impôt à payer en vertu de la Partie X.1 de la Loi, et par conséquent, le délai de prescription de trois ans a commencé à courir à cette date.
+[30] Bien que l’avis de cotisation du ministre soit valide en l’espèce, il relève du pouvoir discrétionnaire du ministre de renoncer complètement à l’impôt dû en vertu de la Partie X.1 de la Loi.
+[31] Le deuxième argument de M. Hall repose sur le paragraphe 204.1(4) de la Loi, qui se lit comme suit :
+204.1(4) Le ministre peut renoncer à l’impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l’excédent ou l’excédent cumulatif qui est frappé de l’impôt fait suite à une erreur acceptable et que les mesures indiquées pour éliminer l’excédent ont été prises.
+[32] Pendant les années en cause, M. Hall était atteint d’une maladie mentale. M. Hall a déposé auprès de la Cour des lettres dans lesquelles différents psychiatres affirment que M. Hall souffrait de dépression récurrente pendant les années en question. Plus tard, durant la période en cause, des troubles bipolaire et anxieux lui ont été diagnostiqués. Il a affirmé qu’il ne pouvait expliquer pourquoi il avait cotisé en trop à son REER en 2008 et a dit qu’il n’était pas capable, durant cette période, de prendre des décisions rationnelles. Il a ajouté que cette période avait été très difficile pour lui et son épouse. À cause de sa maladie, il a perdu son emploi en 1999, et lui et son épouse ont presque tout perdu durant la période en question. Sa cotisation excessive en 2008 était le fruit d’une erreur raisonnable en raison de sa condition mentale à l’époque.
+[33] En 2008 il n’avait rien à gagner à cotiser 7 150 $ à son REER, étant donné que cette année-là il n’a reçu que 35 802,48 $ en assurance invalidité. M. Hall ne travaillait pas au moment de l’audience et il recevait toujours des prestations d’assurance invalidité. Il demeure très fragile. Il affirme également qu’il a pris des mesures raisonnables pour éliminer l’excédent aussitôt qu’il a été avisé par l’Agence du revenu du Canada qu’il avait trop cotisé à son REER.
+[34] À l’audience, j’ai expliqué à M. Hall que la Cour n’avait pas compétence pour annuler le montant des impôts et des intérêts. Seul le ministre a le pouvoir de prendre une telle décision. Cela étant dit, je lui ai conseillé de présenter une demande d’annulation des impôts en vertu du paragraphe 204.1(4) de la Loi.
+[35] J’ai également conseillé à M. Hall de présenter une demande au ministre en vertu du paragraphe 220(3.1) de la Loi pour demander à ce dernier de renoncer aux intérêts des années en question.
+[36] Seul le ministre a le pouvoir de renoncer au montant de l’impôt en vertu du paragraphe 204.1(4) de la Loi. Si le ministre refusait de renoncer à l’impôt, alors l’appelant pourrait demander au ministre d’exercer son pouvoir discrétionnaire en vertu du paragraphe 220(3.1) de la Loi et de renoncer aux intérêts.
+[37] À la lumière des faits en l’espèce, je recommande que le ministre exerce son pouvoir discrétionnaire en ce qui concerne les années d’imposition en cause.
+[38] Comme l’a admis l’intimée, les pénalités pour les années d’imposition sont annulées.
+[39] Par conséquent, l’appel est accueilli en ce qui concerne les pénalités seulement; l’appelant n’a droit à aucune autre forme de réparation.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2016.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2016 CCI 221
+No DU DOSSIER DE LA COUR :
+2016-815(IT)I
+INTITULÉ :
+MURRAY E. HALL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 août 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 5 octobre 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Alexander Nguyen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

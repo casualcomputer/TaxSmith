@@ -1,0 +1,143 @@
+Title: Weber v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25949/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-482-25949-weber-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-11
+
+# Weber v. The Queen
+
+- Citation: 2003 TCC 482
+- Decision date: 2003-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3682, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Weber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-11
+Neutral citation
+2003 TCC 482
+File numbers
+2002-236(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-236(IT)I
+BETWEEN:
+CHRISTA ILSE WEBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 7, 2003, at Toronto, Ontario,
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+A'Amer Ather
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1994, 1995, 1996, 1997, 1998 and 1999 taxation years are dismissed.
+Signed at Ottawa, Canada, this 11th day of July, 2003.
+"A.A. Sarchuk"
+Citation: 2003TCC482
+Date: 20030711
+Docket: 2002-236(IT)I
+BETWEEN:
+CHRISTA ILSE WEBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] These are appeals by Christa Ilse Weber from reassessments of tax with respect to her 1994, 1995, 1996, 1997, 1998 and 1999 taxation years. Some background to these reassessments is warranted.
+1994 and 1995
+[2] The Appellant failed to file an income tax return for her 1994 and 1995 taxation years as required under subsection 150(1) of the Income Tax Act (the Act). Subsequently, on March 27, 2000 in the course of an ongoing audit, the Appellant filed her returns and in computing her income for those taxation years reported net business income in the amounts of $763.98 and $5,819.02, respectively, with respect to a "consulting" and "performer and musician" business. The Minister of National Revenue (the Minister) assessed the Appellant for these taxation years on November 20, 2000 and reduced the business expenses in the amount of $7,711 and $13,194, respectively, reduced gross business income by the amount of $556.
+1996, 1997 and 1998
+[3] The Appellant failed to file an income tax return for these taxation years as required under subsection 150(1) of the Act. By notices dated March 3, 2000, the Minister assessed the Appellant's tax payable pursuant to subsection 152(7) of the Act and in so doing, assessed the Appellant tax in the amount of $3,177.22, $1,800.20 and $2,230.28, respectively, with applicable interest and late-filing penalties.
+[4] On March 27, 2000, the Appellant filed her returns of income for these taxation years as a result of which the Minister reassessed on October 17, 2000 and added to the Appellant's returns for the said years additional net business income, allowed deductions from total income in respect of registered retirement savings plan contributions and deleted net commission income in the amount of $1,368 for the 1997 taxation year.
+1999
+[5] In computing income for the 1999 taxation year, the Appellant reported net business income in the amount of $38,232.85 in respect of the businesses. The Minister assessed for that taxation year by virtue of which the Appellant's business expenses were reduced by the amount of $23,507.
+[6] Subsequent to receiving the Notices for the six years in issue, the Appellant served Notices of Objection on the Minister and after due consideration, by Notices dated October 3, 2001, the Minister further reassessed her pursuant to subsection 165(3) of the Act to allow additional business expenses in each of the taxation years, reduced business income for the 1995 taxation year and deleted employment income and increased the gross business income for the 1996, 1997 and 1998 taxation years, respectively.
+[7] The issues in all of the years under appeal are:
+(a) Is the Appellant entitled to deduct expenses in excess of the amounts allowed by the Minister for the taxation years at issue?
+(b) Was the Appellant properly assessed interest in accordance with section 161 of the Act? and
+(c) Was the Appellant correctly assessed late-filing penalties in respect of the 1994, 1995, 1996, 1997 and 1998 taxation years?
+Appellant's Testimony
+[8] At all relevant times, the Appellant, as C. Weber Enterprises, carried on two separate and distinct activities described by her as "consulting" and "performing". As an example of her "consulting" business, she referred to a contract as a Y2K coordinator for a client which, she said, included the provision of the requisite software manuals, training, business resumption planning and administration of the "help desk staff". The "performing" aspect of her business related primarily to her involvement since 1986 in a community theatre group, Scarborough Theatre Guild. The Appellant does not dispute that her involvement had never been on a paid basis with the exception of, in her words, "some acting actual cash income from a couple of videos, an industrial video and a music video type of thing".[1]
+[9] The Appellant was unable to support the vast majority of the disputed expense items by vouchers, receipts, statements of account or any other appropriate documentation. Thus with respect to both aspects of her business she relied almost exclusively on daybook/calendars for supporting material. With specific reference to the travel expenses claimed, which were totally unvouchered, she reviewed the daybooks for each period under appeal "and counted the number of occurrences of travel related to generating work, travel related to attending professional development and travel related to conferences" and produced schedules relating to "travel expenses, work", "travel expenses, classes and rehearsals" and "travel expenses, conferences, concerts, theatre".[2] By way of example, for March 1994, the schedule shows, inter alia, "misc. bus/admin. x 17; health (physio, etc.) x 11; and work x 18;" Each, she said, represents the number of round trips by public transport for the described purpose. In each case, the Appellant counted the number of occurrences and, by reference to Toronto Transit fares arrived at an expense figure based on $4.00 per return trip.
+[10] The "office expenses" claimed by the Appellant related for the most part to her consulting activities and were justified by the Appellant as follows:
+(a) "Business clothing" reflected her perception that "a consultant must maintain a certain image in order to, number one, get the work and number two, keep the work". She also indicated that the expenditure was necessary to "dress to hide my weight" in order to create an appropriate "first impression that people make when they see you". Similar rationales were advanced with respect to other "office" expenditures such as haircuts, dry-cleaning and clothing repair.
+(b) A similar pattern emerged in the course of her testimony with respect to the "performing" aspect of her business. Here in addition to travel costs, expenses were claimed for meals and entertainment and "professional development" which included attending shows and movies as a form of training and such items as ballroom dance classes which she attended with her husband. In her view, dance classes and other similar activities were necessary since "the more skills an actor has or a performer of any kind, the more marketable they are. And professional training is an allowable expense". This also justified claiming, as a deductible expense, her husband's portion of the cost relating to that "training". The same rationale was applied to the cost of meals before or after rehearsals with members of the cast. A few examples of these expenses taken from Exhibit A-9 with respect to the 1998 taxation year will suffice:
+Jan 10 - $50 - supper with Gord to see movie[3]
+Jan 27 - $16 - supper with Gord re: show rehearsal
+Jan. 30 - $15 - with Gord re: karaoke (singing with audience, experience)
+Apr. 6, 7, 14 and 16 - $20 and - meals before or after rehearsal with members of cast or husband.[4]
+Nov 7 - $40 supper with Gord to see movie.
+[11] Evidence was adduced on behalf of the Respondent from Susan Shah an appeals officer with Canada Customs and Revenue Agency who dealt with the Notices of Objection filed in respect of the assessments. In that context she met with the Appellant, her counsel, and her accountant and Shah was provided with additional information which ultimately led to the reassessments in issue. In the course of her testimony, Shah made reference to a number of schedules attached to the Reply to the Notice of Appeal which set out the various expenses claimed by the Appellant as well as the amounts initially allowed by Audit and those subsequently allowed by appeals.[5] Shah dealt with the two expense categories as follows:
+(i) Consulting: The expenses disallowed by the Minister in this category fell principally into two categories: "office expenses" and "others". With respect to the office expenses, Shah testified that the Appellant had claimed the total cost of "business clothing" as well as haircuts, dry-cleaning, laundry, physiotherapy, unreceipted equipment, and other personal expenditures.[6] These were all considered to be personal expenses and, therefore, not deductible and were disallowed by the Minister. The "others" category for the most represented costs which according to Shah related to travel between home and the place where the Appellant carried on her consulting business. It is not disputed that the entire travel costs were unvouchered and that her discussions with the Appellant, her solicitor and the accountant led to a consensus that 50% properly reflected business use.
+(ii) Performing Business: Under the heading performing business, the amounts disallowed also fell into several categories, the principal one being "others" which, as before, reflected local transportation as well as unreceipted amounts regarding items such as wardrobe, makeup and "professional development". Under the heading "meals & ent", Shah dealt with amounts claimed in respect of items such as meals with her husband, attendance at movies, cost of ballroom dancing, etc. According to Shah, the items disallowed reflected personal expenditures.
+Conclusion
+[12] In the course of her submissions, the Appellant raised several issues which had not been pleaded but since no substantial objection was made on behalf of the Respondent, I propose to deal with them. First, the Appellant contends that business clothing expenses of $12,625 were claimed in what she said was "a sincere belief that their purchase was necessary to my professional image and thus to getting and keeping clients". She spoke of corporations sending their employees to image counsellors and said dressing for clients was of utmost importance in creating the requisite "power image" and that "a business suit for instance presents a corporate image of trust, security and stability, particularly important for the banking industry. That was the example they used. And the banking industry has often been my clients". Relying on Schedule II, Capital Cost Allowances, Class 12, items (i) and (k),[7] the Appellant now seeks the Court's approval to claim capital cost allowance with respect to the items of clothing because they were "uniforms required to obtain and keep contracts with my clients".
+[13] The Appellant's argument that the clothing purchases should be treated as a capital cost item is totally without merit. There is no basis upon which her "outfits" could be considered as a "uniform". The items of clothing in issue were personal wear and were not solely necessary for her conduct of her business activities. Nor is there any evidence that she was required to use any of her clothing or accessories to appear on stage or in any related activity. Accordingly, her alternative claim with respect to the availability of these items for capital cost allowance must be rejected.
+[14] I have concluded that the clothing in issue was used by the Appellant as personal wear in everyday business and is not a deductible item. Furthermore, there is no question that haircuts, dry-cleaning and clothing repair, whether claimed in the consulting aspect of her endeavours or in the performing aspect are clearly personal expenses unless, in the latter instance, she had been able to adduce evidence to establish that the clothing related to a professional (acting) requirement. In this context, there is one aspect that cannot be ignored and that is the fact that at no relevant time was the Appellant involved in income-producing activity with her community theatre group.
+[15] The Appellant argues that the expense of lunches and/or dining away from home when "travel and time and distance do not permit you to eat a meal for free at home" was deductible. She argues that in order to claim the expenses, it is "not necessary to show that income actually resulted from the particular outlay or expenditure itself. It is sufficient that the outlay or expense was part of the income-earning process". I am unable to accept this proposition as supporting her right to claim deductions for personal lunches, etc. and conclude that the Minister's rejection of these expenses was quite appropriate. I am equally satisfied that the Respondent's determination that 50% of the travel expenses be allowed was generous in the circumstances. The balance was properly disallowed as personal travel since driving between home and her place of employment or between home and the movie theatres she attended with her husband for "professional training" is a personal cost, no part of which can even remotely be considered as deductible.
+[16] The Appellant also raised an issue (not pleaded) with respect to the amount of $2,428 which could have been claimed as a capital cost allowance in the taxation years in issue but which had been overlooked by her accountant. As a result, she says, this amount is no longer available to her and argues that she should be permitted to claim it as a current expense item. Shah testified that she examined all of the years in issue, performed the additions and the UCC balances and found that at the end of 1999, there was in fact a UCC balance of $2,427.54. Shah agreed that an error had been made by the accountant creating a discrepancy between the capital cost allowances that were claimed for certain assets over the years and the amount that could have been allowed. The Appellant seeks to have these amounts treated as a business expense to be deducted in the appropriate years. Aside from the fact that the issue was not pleaded and thus raises the issue of the Court's jurisdiction to deal with it, there is no legal basis upon which it would be appropriate to convert what was unquestionably a capital expenditure item into a business expense as suggested by the Appellant.
+[17] The Appellant also seeks a cancellation of the interest, arrears and late filing penalties. Subsection 161(1) provides that a taxpayer must pay interest at an annual rate as prescribed on the amounts of tax that are unpaid after the end of the time allowed for the filing of the return. Logic indicates that interest is payable on the amount that was unpaid as of the required date since, as has often been stated, the Appellant has available for his or her use after the due date of the tax debt on April 30, funds which in other instances would in the normal course have been in the hands of the Department of National Revenue. As well, it is clear from the language of the subsection this Court does not have jurisdiction to grant the relief sought.
+[18] With respect to the late-filing penalty, subsection 162(1) of the Act provides:
+162(1) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+There is no question that in this particular case, the Appellant's returns of income for each of the taxation year 1994, 1995, 1996, 1997, 1998 and 1999 were filed late and there is nothing before the Court to suggest that the reason therefor was anything other that dereliction of duty on the part of the taxpayer. On this aspect of the appeal, it is my opinion that there is no jurisdiction in this Court to allow an appeal against the imposition of penalties as mandated by this section.
+[19] For the foregoing reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 11th day of July, 2003.
+"A.A. Sarchuk"
+CITATION:
+2003TCC482
+COURT FILE NO.:
+2002-236(IT)I
+STYLE OF CAUSE:
+Christa Ilse Weber and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+July 11, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+A'Amer Ather
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The material before the Court indicates that her gross income from "performing" in the seven taxation periods in issue was $454, $155, $71, $231, $392, $390 and $203.
+[2] Exhibits A-1, 2, 3, 4, 5, 10 and 11.
+[3] Gord is the Appellant's husband - there are seventeen such entries.
+[4] There are more than 40 such entries in 1998.
+[5] See Schedules "A", "B", "C", "D", "E" and "F" to the Reply to the Notice of Appeal. Each schedule consists of a page relating to the "consulting business" and a separate page for the "performing business".
+[6]
+Shah's review indicated that the Appellant's clothing expenses for the taxation years in issue were $1,206, $1,528, $1,760, $3,050 and $4,650, respectively. The cost of haircuts and dry-cleaning averaged $200 in those years.
+[7] (i) a uniform; (k) apparel or costume including, accessories used therewith used for the purpose of earning rental income.

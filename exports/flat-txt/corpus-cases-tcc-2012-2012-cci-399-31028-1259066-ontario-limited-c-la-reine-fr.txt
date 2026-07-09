@@ -1,0 +1,356 @@
+Title: 1259066 Ontario Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31028/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-399-31028-1259066-ontario-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-11-29
+
+# 1259066 Ontario Limited c. La Reine
+
+- Citation: 2012 CCI 399
+- Decision date: 2012-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4852, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1259066 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-11-29
+Référence neutre
+2012 CCI 399
+Numéro de dossier
+2011-341(IT)I, 2011-591(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-591(IT)I
+ENTRE :
+1259066 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Warren Johnson (2011-341(IT)I) le 17 novembre 2011 et le 11 avril 2012,
+à Ottawa (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+M. Warren Johnson
+Avocate de l’intimée :
+Me Mélanie Sauriol
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations datées du 20 février 2009 et établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2006 et 2007 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de janvier 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Dossier : 2011-341(IT)I
+ENTRE :
+WARREN JOHNSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de 1259066 Ontario Limited (2011-591(IT)I) le 17 novembre 2011 et le 11 avril 2012, à Ottawa (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Mélanie Sauriol
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations datées du 26 février 2009 et établies par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2005, 2006 et 2007 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de janvier 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2012 CCI 399
+Date : 20121129
+Dossiers : 2011-341(IT)I,
+2011-591(IT)I
+ENTRE :
+WARREN JOHNSON,
+1259066 ONTARIO LIMITED,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les présents appels ont été entendus sur preuve commune sous le régime de la procédure informelle et concernent les années d’imposition 2005, 2006 et 2007.
+[2] Les questions en litige sont les suivantes : a) le ministre du Revenu national (le « ministre ») a‑t‑il à juste titre réduit le montant des déductions pour dépenses demandées par la société 1259066 Ontario Limited (la société « 1259066 »), à savoir 10 153 $ et 6 024 $, pour les années d’imposition 2006 et 2007? et b) le ministre a‑t‑il à juste titre établi une cotisation à l’égard de M. Warren Johnson (l’« actionnaire » ou « M. Johnson »), en tant qu’actionnaire de la société 1259066, pour des revenus non déclarés de 9 655 $, de 4 881 $ et de 4 958 $ pour les années d’imposition 2005, 2006 et 2007, respectivement?
+[3] Au moyen de nouvelles cotisations datées du 20 février 2009 établies en vertu de la Loi de l’impôt sur le revenu, L.R.C.1985, ch. 1 (5e suppl.) (la « Loi »), dans sa version modifiée, le ministre a rajusté le revenu net (perte) de la société 1259066 en réduisant de 10 924 $ et de 7 020 $ les dépenses déduites pour les années d’imposition 2006 et 2007, respectivement. La société 1259066 ne conteste que les rajustements suivants concernant les frais de déplacement, les frais d’accès Internet et de télévision par câble et les frais afférents à un véhicule à moteur :
+[traduction]
+Dépenses
+2006
+($)
+2007
+($)
+Déplacements
+4 108 $
+4 107 $
+Internet et câble
+773 $
+851 $
+Véhicule à moteur
+5 272 $
+1 066 $
+Total
+10 153 $
+6 024 $
+[4] Au moyen de nouvelles cotisations datées du 26 février 2009 établies en vertu de la Loi, le ministre a augmenté de 9 655 $, de 4 881 $ et de 4 958 $ les autres revenus de l’actionnaire, pour les années d’imposition 2005, 2006 et 2007, respectivement, en se fondant sur le fait que ces montants constituaient des avantages conférés à l’actionnaire par la société 1259066 et qu’ils devaient dès lors être inclus dans le revenu de l’actionnaire en vertu du paragraphe 15(1) de la Loi. M. Johnson ne conteste que les rajustements suivants, faits à sa déclaration de revenus antérieure, concernant les frais de déplacement et les frais d’accès Internet et de télévision par câble :
+[traduction]
+2005
+($)
+2006
+($)
+2007
+($)
+Déplacements
+6 301 $
+4 108 $
+4 107 $
+Internet et câble
+737 $
+737 $
+851 $
+Total
+7 038 $
+4 881 $
+4 958 $
+[5] Pour déterminer les obligations fiscales de la société 1259066 pour les années d’imposition 2006 et 2007, le ministre a formulé les hypothèses de fait suivantes énoncées au paragraphe 23 de la réponse à l’avis d’appel modifiée :
+[traduction]
+a) l’adresse de l’appelante était le 2545 Lookout Drive, à Cumberland, en Ontario;
+b) Warren Johnson était le président et l’unique actionnaire de l’appelante (l’« actionnaire »), qui [avait été] constituée en personne morale le 12 décembre 1997;
+c) durant toute la période pertinente, l’épouse de l’actionnaire était Alida Johnson (l’« épouse »);
+d) l’actionnaire et son épouse résidaient au 2545 Lookout Drive, à Cumberland, en Ontario;
+e) l’actionnaire et son épouse étaient les seuls membres du conseil d’administration de l’appelante;
+f) l’exercice de l’appelante se termine le 31 mai;
+g) l’appelante fournissait des services d’experts-conseils en matière de gestion, de politique publique et de relations avec les Autochtones;
+h) l’actionnaire a pris sa retraite du gouvernement du Canada en 2006;
+Véhicule à moteur
+i) l’appelante a passé en charges la somme de 5 272 $ dans l’année d’imposition 2006 au titre de la dépréciation d’un véhicule à moteur;
+j) le véhicule pour lequel une somme relative à la dépréciation a été passée en charges par l’appelante appartenait à l’actionnaire;
+k) l’appelante n’a pas supporté le montant de 1 066 $ déduit à titre de frais de stationnement pour l’année d’imposition 2007;
+Déplacements
+l) le conseil d’administration de l’appelante, composé de l’actionnaire et de son épouse, se rend chaque année au Mexique pour un séjour de cinq ou six semaines;
+m) il n’était pas nécessaire de tenir les réunions du conseil d’administration de l’appelante au Mexique pour gagner un revenu d’entreprise;
+n) les frais supportés relativement aux voyages au Mexique mentionnés aux paragraphes l) et m) ci‑dessus étaient des dépenses personnelles;
+o) l’appelante n’avait pas d’entreprise ni de clients au Mexique;
+p) l’actionnaire possédait une unité en copropriété divise à temps partagé (l’« unité ») au Mexique;
+q) l’unité est située dans un hôtel tout compris;
+r) au Mexique, l’actionnaire et son épouse habitaient dans l’unité;
+s) l’actionnaire utilise souvent les points qu’il a accumulés en qualité de grand voyageur pour payer le coût des billets d’avion pour le Mexique;
+Accès Internet et télévision par câble
+t) l’appelante a déduit 1 511 $ et 1 682 $ pour les années d’imposition 2006 et 2007, respectivement, au titre de frais d’accès Internet et de télévision par câble;
+u) les frais concernant les services de base pour la télévision par câble et l’accès Internet pour les années d’imposition 2006 et 2007 étaient de 773 $ et de 851 $, respectivement;
+v) les frais concernant les services de base pour la télévision par câble et l’accès Internet n’ont pas été supportés pour tirer un revenu d’une entreprise;
+w) les frais concernant les services de base pour la télévision par câble et l’accès Internet étaient des dépenses personnelles de l’actionnaire;
+x) les montants excédant les frais concernant les services de base ont été acceptés à titre de dépenses de l’appelante;
+Autres
+y) en 2006, l’actionnaire a effectué les dépenses suivantes :
+i) frais de voyage au Mexique de 4 108 $;
+ii) frais d’accès Internet et de télévision par câble de 773 $;
+z) en 2007, l’actionnaire a effectué les dépenses suivantes :
+i) frais de voyage au Mexique de 4 107 $;
+ii) frais d’accès Internet et de télévision par câble de 851 $;
+aa) les frais énumérés aux paragraphes x), y) et z) ci‑dessus étaient des dépenses personnelles de l’actionnaire;
+bb) les frais énumérés aux paragraphes x), y) et z) ci‑dessus ont été inscrits comme dépenses par l’appelante;
+cc) l’appelante a inscrit une augmentation au compte de prêt de l’actionnaire pour les frais énumérés aux paragraphes x), y) et z) ci‑dessus;
+dd) les montants de 4 881 $ et de 4 958 $ déduits par l’appelante, à titre de frais, pour les années d’imposition 2006 et 2007, respectivement, sont des avantages conférés à l’actionnaire.
+[6] Pour déterminer les obligations fiscales de M. Johnson pour les années d’imposition 2005, 2006 et 2007, le ministre a formulé les hypothèses de fait suivantes énoncées au paragraphe 18 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelant résidait au 2545 Lookout Drive, à Cumberland, en Ontario;
+b) durant toute la période pertinente, l’épouse de l’appelant était Alida Johnson (l’« épouse »);
+c) l’appelant était l’unique actionnaire de la société 1259066 Ontario Limited (la « société »), qui [avait été] constituée en personne morale le 12 décembre 1997;
+d) l’appelant et son épouse étaient les seuls membres du conseil d’administration de la société;
+e) l’exercice de la société se termine le 31 mai;
+f) la société fournissait des services d’experts-conseils en matière de gestion, de politique publique et de relations avec les Autochtones;
+g) l’appelant a pris sa retraite du gouvernement du Canada en 2006;
+h) l’adresse de l’appelant était le 2545 Lookout Drive, à Cumberland, en Ontario;
+Déplacements
+i) le conseil d’administration de la société, composé de l’appelant et de son épouse, se rend chaque année au Mexique pour un séjour de cinq ou six semaines;
+j) il n’était pas nécessaire de tenir les réunions du conseil d’administration de la société au Mexique pour gagner un revenu d’entreprise;
+k) la société n’avait pas d’entreprise ni de clients au Mexique;
+l) l’appelant possédait une unité en copropriété divise à temps partagé (l’« unité ») au Mexique;
+m) l’unité est située dans un hôtel tout compris;
+n) au Mexique, l’appelant son épouse habitaient dans l’unité;
+o) l’appelant utilise souvent les points qu’il a accumulés en qualité de grand voyageur pour payer le coût des billets d’avion pour le Mexique;
+Frais de repas et de divertissement
+p) la partie de l’avantage de 2 617 $ calculé au titre de frais de repas et de divertissement pour 2005 se rapportait à un seul repas;
+q) les frais figurant au paragraphe p) ci‑dessus n’ont pas été supportés pour tirer un revenu d’une entreprise;
+r) les frais figurant au paragraphe p) ci‑dessus étaient des dépenses personnelles de l’appelant;
+Accès Internet et télévision par câble
+s) la société a déduit 1 487 $, 1 511 $ et 1 682 $ pour les années d’imposition 2005, 2006 et 2007, respectivement, au titre de frais d’accès Internet et de télévision par câble;
+t) les frais concernant les services de base pour la télévision par câble et l’accès Internet pour les années d’imposition 2005, 2006 et 2007 étaient de 737 $, de 773 $ et de 851 $, respectivement;
+u) les frais concernant les services de base pour la télévision par câble et l’accès Internet n’ont pas été supportés pour tirer un revenu d’une entreprise;
+v) les frais concernant les services de base pour la télévision par câble et l’accès Internet étaient des dépenses personnelles de l’appelant;
+w) les montants excédant les frais concernant les services de base ont été acceptés à titre de dépenses de la société;
+x) en 2005, l’appelant a effectué les dépenses suivantes :
+i) frais de repas et de divertissement de 2 617 $;
+ii) frais de voyage au Mexique de 6 301 $;
+iii) frais d’accès Internet et de télévision par câble de 737 $;
+y) en 2006, l’appelant a effectué les dépenses suivantes :
+i) frais de voyage au Mexique de 4 108 $;
+ii) frais d’accès Internet et de télévision par câble de 773 $;
+z) en 2007, l’appelant a effectué les dépenses suivantes :
+i) frais de voyage au Mexique de 4 107 $;
+ii) frais d’accès Internet et de télévision par câble de 851 $;
+aa) les frais énumérés aux paragraphes x), y) et z) ci‑dessus étaient des dépenses personnelles de l’appelant;
+bb) les frais énumérés aux paragraphes x), y) et z) ci‑dessus ont été inscrits comme des dépenses effectuées par la société;
+cc) la société a inscrit une augmentation au compte de prêt de l’actionnaire de l’appelant pour les dépenses énumérées aux paragraphes x), y) et z) ci‑dessus;
+dd) les déductions demandées par la société au titre de dépenses s’élevant à 9 655 $, à 4 881 $ et à 4 958 $ pour les années d’imposition 2005, 2006 et 2007, respectivement, correspondaient à des avantages conférés à l’appelant;
+ee) l’appelant a reçu des avantages correspondant aux montants énumérés aux paragraphes x), y) et z) ci‑dessus, mais il n’a pas inclus ces avantages dans ses déclarations de revenus personnelles à l’égard des années d’imposition 2005, 2006 et 2007 pour les années d’imposition 2005, 2006 et 2007.
+[7] M. Johnson était sous‑ministre adjoint au ministère des Affaires indiennes et du Nord canadien au moment où il a pris sa retraite en 2006. La société 1259066 a été constituée en personne morale le 12 décembre 1997. Il ressort du grand livre de la société 1259066 que M. Johnson était l’unique actionnaire, qui détenait les actions ordinaires de la société jusqu’au 1er avril 2010, date à laquelle son épouse a acquis 100 actions ordinaires de la société. Le 31 août 2004, M. Johnson et son épouse étaient les administrateurs élus de la société. L’exercice de la société 1259066 prenait fin le 31 mai.
+[8] M. Johnson a témoigné à l’audience, ainsi que Mme Victoria De La Ronde, une fonctionnaire à la retraite qui avait travaillé au ministère des Affaires indiennes et du Nord canadien, M. Michael Parlato, directeur général de Nuromar et de Constructing Green Energy Co., M. Alain Mercier, ancien président de Wrapped Apps Corporation, et M. Marc Thibault, le comptable de la société 1259066.
+[9] Le but du témoignage de Mme De La Ronde, de M. Parlato et de M. Mercier était de démontrer que M. Johnson avait exercé certaines activités professionnelles lorsqu’il était à Puerto Vallarta. Mme De La Ronde a déclaré qu’elle savait personnellement que M. Johnson avait travaillé lorsqu’il était à Puerto Vallarta, étant donné qu’elle avait eu des discussions téléphoniques avec lui au moyen de Skype. Elle a ajouté qu’elle ignorait si l’épouse de M. Johnson était avec lui, car elle n’avait pas participé aux discussions.
+[10] M. Parlato, qui séjournait dans le même centre de villégiature que M. Johnson, a déclaré qu’il avait vu ce dernier lire des magazines et des périodiques à la piscine du centre de villégiature et que c’est à l’hiver 2008 qu’il avait pour la première fois discuté avec M. Johnson de possibilités d’affaires. M. Parlato a également affirmé qu’il s’était depuis lors engagé dans trois entreprises commerciales avec M. Johnson. Aucune preuve documentaire concernant ces entreprises commerciales n’a été déposée devant la Cour.
+[11] M. Mercier, à titre de président de Wrapped Apps Corporation, avait été un client de longue date de la société 1259066; il a mentionné une facture qui avait été présentée à Wrapped Apps Corporation le 10 mars 2007 pour des services rendus en février 2007, lorsque M. Johnson était à Puerto Vallarta. La facture provenait de New Road Strategies, le nom commercial de la société 1259066. M. Mercier a déclaré qu’il avait eu, au fil des ans, de nombreuses conférences téléphoniques avec M. Johnson lorsque celui‑ci était à Puerto Vallarta.
+[12] M. Johnson a témoigné à l’audience. Il a déclaré que la société 1259066 n’avait réalisé aucune vente et qu’elle n’avait gagné aucun revenu pour ses années d’imposition 2005 et 2006, parce qu’il avait subi une importante opération au coeur en décembre 2004 et à cause de l’effondrement du secteur de la haute technologique. C’est ainsi que la société 1259066 n’a pas pu payer ses frais d’exploitation, que M. Johnson a donc payés à titre d’actionnaire. Les activités de la société 1259066 consistaient à fournir des services d’experts-conseils en matière de gestion, de politique publique et de relations avec les Autochtones. M. Johnson a expliqué que la société 1259066 était une exploitation unipersonnelle dans laquelle lui et son épouse agissaient à titre d’associés. Aucune preuve documentaire de l’existence d’une relation d’associés entre M. Johnson et son épouse n’a été déposée devant la Cour.
+[13] M. Johnson a expliqué que son épouse et lui avaient séjourné à Puerto Vallarta, au Mexique, pendant deux semaines en 2006 et cinq semaines en 2007 et que, à l’égard de chacune des années d’imposition 2006 et 2007, seuls des frais pour une semaine ont été imputés à la société 1259066, étant donné que ces frais avaient été supportés à des fins professionnelles. M. Johnson a décrit les activités exercées au cours de cette semaine comme étant une retraite stratégique de la société permettant de se concentrer sur (i) la constitution d’un capital intellectuel par la lecture d’études spéciales et de rapports spéciaux, (ii) l’élaboration de stratégies commerciales (nouveau site Web et nouvelle marque) et (iii) la recherche de possibilités d’affaires.
+[14] Pour chacune des deux semaines de retraite, M. Johnson a imputé à la société 1259066 les montants de 4 107,91 $ (pour 2006) et de 4 197,71 $ (pour 2007), qui comprenaient les dépenses suivantes :
+[traduction]
+Dépenses
+2006
+($)
+2007
+($)
+Coût des billets d’avion
+Frais d’hôtel à Puerto Vallarta
+Frais d’hôtel à Toronto
+Frais de taxis (2) à Ottawa
+Frais de taxis (2) à Puerto Vallarta
+Taxes et frais
+Frais de repas
+Déjeuner
+1 460,00 $
+1 562,00 $
+96,98 $
+150,00 $
+66,25 $
+236,95 $
+535,23 $
+­­­­__________
+1 460,00 $
+1 862,50 $
+96,98 $
+150,00 $
+66,25 $
+26,75 $
+518,28 $
+16,95 $
+Total
+4 107,91 $
+4 197,71 $
+[15] M. Johnson a expliqué qu’il avait payé les billets de ses voyages aller‑retour d’Ottawa à Puerto Vallarta via Toronto au moyen de ses points Aéroplan, sauf pour des frais minimes de 104 $ par billet. M. Johnson a calculé la valeur commerciale des billets d’avion en utilisant le prix ordinaire des billets d’avion en classe économique figurant dans le site Web d’Air Canada. M. Johnson a précisé que le calcul de la valeur commerciale a été fait soit au moment de la réservation, un an avant son départ, soit quelques mois après le voyage, mais avant le 31 mai, date de la fin de l’exercice de la société 1259066. M. Johnson ne pouvait pas se souvenir de la carte de crédit au moyen de laquelle les points Aéroplan avaient été gagnés, mais il était certain qu’il s’agissait d’une carte de crédit personnelle conjointe enregistrée à son nom et à celui de son épouse. Il ne s’agissait pas d’une carte de crédit professionnelle de la société 1259066.
+[16] M. Johnson a également confirmé qu’il avait acheté en 1997 l’unité en copropriété divise à temps partagé (l’« unité ») no 5007 au centre de villégiature Velas Vallarta Grand Suite Resort (le « Centre »). Le prix d’achat (moins la remise) pour 25 semaines était de 13 132,80 $ c’est‑à‑dire, 525,31 $ par semaine. M. Johnson a facturé à la société 1259066 un montant de 1 562,5 $ pour la semaine en 2006, lequel montant était supérieur au coût réel de 1 152,43 $ de l’unité (525,31 $ plus les frais d’entretien de 627,12 $ par semaine). M. Johnson a expliqué que le montant facturé à la société 1259066 était fondé sur les renseignements publiés au moment de la réservation, et il a reconnu que les montants déduits étaient supérieurs au prix réellement payé, affirmant que cela était dû au fait que l’unité avait pris de la valeur au fil du temps. Concernant la semaine de retraite en 2007, M. Johnson a utilisé les tarifs publiés du Centre (1 862,50 $), qui étaient également supérieurs aux coûts réels supportés.
+[17] En 2006, M. Johnson et son épouse ont séjourné au Centre pendant deux semaines, du 9 au 23 février. En 2007, M. Johnson et son épouse ont fait un séjour d’un mois, du 1er au 28 février, dans l’unité no 603 de la Tour B, à Bay View Grand Development Marina Vallarta pour 2 100 $US (525 $US par semaine). Ils ont également passé la semaine du 1er au 8 mars 2007 au Centre, lequel était un centre de villégiature tout compris, mais M. Johnson avait demandé une formule hôtelière simple (déjeuner, dîner et boissons à la piscine). À l’audience, M. Johnson a déclaré que les repas n’étaient pas inclus dans le coût de l’unité. Les frais d’entretien au Centre pour la semaine en 2007 s’élevaient à 747 $.
+[18] Pour ce qui est de la demande de déduction des frais de repas, M. Johnson a expliqué que les frais de repas journaliers ont été obtenus en divisant la somme totale des montants figurant sur les reçus pour la durée du voyage par le nombre de jours. À son avis, les montants déduits au titre de frais de repas pour chacune des années 2006 et 2007 représentent le coût réel des repas.
+[19] Concernant la retraite pour des raisons professionnelles en 2006 et en 2007, M. Johnson a admis qu’il n’y avait pas de présentation PowerPoint, d’ordre du jour ou de procès‑verbaux de réunions. Il a simplement déclaré que les résultats du travail accompli au cours de ces semaines ont été publiés ou mis sur son site Web.
+[20] En ce qui a trait aux frais de déplacement déduits par la société 1259066, M. Johnson ne pouvait pas expliquer pourquoi le coût associé à la semaine de retraite à Puerto Vallarta s’élevait à 6 301 $ en 2005 par rapport à 4 108 $ en 2006 et à 4 107 $ en 2007. M. Johnson n’a donné aucune explication quant au lieu de la retraite, à la durée de celle‑ci et au coût de l’hébergement. Étant donné que l’année d’imposition 2005 de la société 1259066 a été frappée de prescription durant la vérification, le ministre n’a pas établi de nouvelle cotisation à l’égard de cette année‑là, mais il a inclus les frais de déplacement et les frais d’accès Internet et de télévision par câble déduits par la société 1259066 dans le revenu de M. Johnson pour son année d’imposition 2005.
+[21] Quant à la déduction demandée par la société 1259066 concernant les frais afférents à un véhicule à moteur, M. Johnson a expliqué que le véhicule, une Volkswagen de 2001, avait été acheté conjointement par lui et son épouse, qu’il était enregistré en son nom à lui et qu’il était strictement utilisé à des fins professionnelles. M. Johnson a précisé que la déduction demandée par la société 1259066 n’était pas une déduction pour amortissement à l’égard du véhicule et que c’est plutôt le coût de la fourniture du véhicule qui a été imputé à la société 1259066, comme l’avait établi le comptable de la société 1259066. M. Johnson a également confirmé que le montant imputé à la société 1259066 relativement au véhicule n’a pas été payé par cette société, mais qu’il a plutôt été inscrit au compte des montants dus à un actionnaire. M. Johnson n’a déposé devant la Cour aucune preuve documentaire justifiant l’existence d’un contrat ou d’un arrangement conclu avec la société 1259066 quant au paiement des frais d’utilisation d’un véhicule.
+[22] M. Johnson a admis que les frais d’accès Internet et de télévision par câble dont la déduction a été refusée correspondaient aux montants pour les services de base d’accès Internet et de télévision par câble.
+[23] M. Marc Thibault a témoigné à l’audience. Celui‑ci est un spécialiste indépendant qui a préparé les états financiers et les déclarations de revenus de la société 1259066 et qui a représenté cette dernière durant la vérification concernant l’impôt sur le revenu et la taxe sur les produits et services. M. Thibault a expliqué que le total des frais d’utilisation du véhicule à moteur avait été imputé à la société 1259066, étant donné que le véhicule était utilisé exclusivement à des fins professionnelles. La dépréciation du véhicule a été calculée en fonction du prix d’achat.
+[24] M. Thibault a expliqué que les dépenses imputées à la société 1259066 et non remboursées à M. Johnson ont été inscrites à un compte d’actionnaire. En 2007, le montant figurant au compte d’actionnaire (environ 20 000 $) a été transféré à un compte de réserve en attendant les résultats de la vérification concernant l’impôt sur le revenu. Cette modification comptable a eu pour effet de retirer des documents comptables les montants qui étaient dus à M. Johnson.
+[25] Mme Karen Turner, la vérificatrice de l’Agence du revenu du Canada (l’« ARC »), qui a effectué les vérifications à l’égard de la société 1259066 et de M. Johnson a témoigné à l’audience. Mme Turner a expliqué que, lorsqu’elle avait effectué la vérification de l’entreprise, la prescription était acquise à l’égard de l’année d’imposition de la société 1259066 se terminant le 30 mai 2004 et que l’année d’imposition se terminant le 30 mai 2005 avait été frappée de prescription durant la vérification. Ces deux années d’imposition n’ont pas fait l’objet de nouvelles cotisations. Mme Turner ne pouvait pas se rappeler si les activités de la société 1259066 étaient financées par M. Johnson uniquement, mais elle a précisé que M. Johnson avait mentionné dans une lettre datée du 30 novembre 2008 que la société 1259066 avait remboursé au président/à l’actionnaire les dépenses qu’il avait supportées pour s’occuper des activités de la société, ces dépenses étant des dépenses admissibles pour la société.
+[26] Mme Turner a fourni les explications suivantes concernant les frais d’accès Internet et de télévision par câble dont la déduction a été refusée. Dans sa lettre datée du 31 octobre 2008 adressée à la société 1259066, la liste des frais dont il était proposé de refuser la déduction ne faisait état que des frais d’accès Internet, mais, dans la note explicative concernant le rajustement proposé, il est clairement précisé qu’il s’agit de frais d’accès Internet et de télévision par câble et que les frais de télévision par câble sont des dépenses personnelles. Dans une lettre postérieure datée du 3 février 2009 adressée à la société 1259066, la description des frais dont l’ARC propose de refuser la déduction ne fait état, encore une fois, que de frais d’accès Internet, alors que la note explicative ne parle que de frais de télévision par câble. Mme Turner a expliqué que, dans son document de travail, la déduction des frais pour les services de base d’accès Internet et de télévision par câble a été refusée, étant donné que ces services étaient à la disposition de M. Johnson et son épouse vingt‑quatre heures sur vingt‑quatre, et parce qu’il avait été établi, suivant une conversation avec M. Johnson, que lui et son épouse regardaient tous les deux la télévision à des fins personnelles. À l’étape de l’établissement de la cotisation, bien que les montants dont la déduction avait été refusée aient été inscrits comme étant des frais pour la télévision par câble uniquement, en réalité, ces montants concernaient aussi bien l’accès Internet que la télévision par câble.
+[27] En ce qui a trait aux frais de déplacement dont la déduction a été refusée, Mme Turner a expliqué que la déduction de toutes les dépenses de cette nature avait été refusée et que les montants utilisés par M. Johnson n’avaient pas été considérés ou examinés. Il n’a été tenu compte que de l’objet des dépenses dont la déduction était demandée.
+[28] Mme Turner a également souligné que les montants inscrits au compte de l’actionnaire étaient des montants dus à M. Johnson uniquement.
+Analyse
+[29] Les dispositions de la Loi applicables en l’espèce sont les suivantes :
+15(1) Avantages aux actionnaires — La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l’actionnaire pour l’année — sauf dans la mesure où cette valeur est réputée par l’article 84 constituer un dividende — si cet avantage est conféré autrement que :
+[…]
+18(1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) Dépense ou perte en capital — une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+h) Frais personnels ou de subsistance — le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[…]
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien — Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+a) Coût en capital des biens [DPA] — la partie du coût en capital des biens supporté par le contribuable ou le montant au titre de ce coût ainsi supporté que le règlement autorise;
+[…]
+152(1.1) Détermination des pertes par le ministre — Lorsque le ministre établit le montant de la perte autre qu’une perte en capital, de la perte en capital nette, de la perte agricole restreinte, de la perte agricole ou de la perte comme commanditaire subie par un contribuable pour une année d’imposition et que le contribuable n’a pas déclaré ce montant comme perte dans sa déclaration de revenu pour cette année, le ministre doit, à la demande du contribuable et avec diligence, déterminer le montant de cette perte et envoyer un avis de détermination à la personne qui a produit la déclaration.
+[…]
+230(1) Livres comptables et registres — Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+« frais personnels ou de subsistance » Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+b) les dépenses, primes ou autres frais afférents à une police d’assurance, un contrat de rentes ou à d’autres contrats de ce genre, si le produit de la police ou du contrat est payable au contribuable ou à une personne unie à lui par les liens du sang, du mariage, de l’union de fait ou de l’adoption, ou au profit du contribuable ou de cette personne;
+c) les dépenses inhérentes aux biens entretenus par une succession ou une fiducie au profit du contribuable à titre de bénéficiaire.
+[30] Une dépense n’est déductible dans le calcul du revenu d’un contribuable que si elle a été engagée en vue de produire un revenu. Selon la restriction générale prévue à l’alinéa 18(1)a) de la Loi, le contribuable doit avoir engagé ou effectué la dépense en vue de tirer un revenu de l’entreprise à laquelle il se consacre.
+[31] Selon l’alinéa 18(1)h) de la Loi, les « frais personnels ou de subsistance » ne sont pas déductibles par le contribuable dans le calcul de son revenu tiré d’une entreprise. Toutefois, la restriction prévue à l’alinéa 18(1)h) de la Loi ne couvre pas les frais de déplacement engagés par le contribuable dans le cadre de son entreprise pendant qu’il était absent de chez lui.
+[32] Pour établir l’objet d’une dépense, il faut examiner la raison principale pour laquelle le contribuable engage la dépense. Il existe une distinction importante entre les dépenses qui sont engagées principalement à des fins personnelles et les dépenses engagées principalement en vue de gagner un revenu, mais pour lesquelles les éléments personnels ne sont qu’accessoires ou secondaires.
+[33] Dans l’arrêt Stewart c. Canada, 2002 CSC 46, [2002] R.C.S. 645, aux paragraphes 56 et 57, la Cour suprême du Canada a fait les observations suivantes quant à l’examen de l’élément personnel de certaines activités :
+En plus de restreindre l’application du critère permettant de déterminer l’existence d’une source aux activités comportant un aspect personnel, il faut distinguer l’activité que le contribuable qualifie de source de revenu des déductions particulières qu’il associe à cette source. La tentative du contribuable de déduire ce qui est essentiellement une dépense personnelle n’influe pas sur la qualification de la source à laquelle cette déduction se rapporte. Cette distinction analytique est imposée par la structure de la Loi. Si, comme nous l’avons vu, l’art. 9 est la disposition de la Loi où est établie la distinction fondamentale entre l’activité personnelle et l’activité commerciale puis, dans le domaine commercial, entre les sources de revenu constituées d’une entreprise et les sources de revenu constituées d’un bien, la qualification des déductions s’effectue ailleurs. Plus particulièrement, l’al. 18(1)a) exige que les déductions soient attribuées à une source particulière de revenu constituée d’une entreprise ou d’un bien, alors que l’al. 18(1)h) interdit expressément la déduction des frais personnels ou de subsistance du contribuable :
+[…]
+Il ressort clairement de ces dispositions que la déductibilité des dépenses présuppose l’existence d’une source de revenu et, partant, qu’elle ne doit pas être confondue avec l’examen préliminaire portant sur l’existence de cette source. Si la déductibilité d’une dépense particulière est en cause, ce n’est pas l’existence d’une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu’une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n’influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l’art. 67 de la Loi établit un mécanisme permettant d’en réduire ou d’en supprimer le montant. Là encore, toutefois, des dépenses excessives ou déraisonnables n’ont aucune incidence sur la qualification d’une activité comme étant une source de revenu.
+[Non souligné dans l’original.]
+[34] En l’espèce, il m’est très difficile d’accepter le fait que les voyages effectués à Puerto Vallarta avaient été faits principalement pour des raisons professionnelles. À mon avis, les dépenses supportées par M. Johnson et son épouse ont été engagées principalement à des fins personnelles et les éléments professionnels qu’ils comportaient étaient seulement accessoires ou secondaires.
+[35] M. Johnson et son épouse se rendent à Puerto Vallarta depuis plusieurs années et, en 1997, M. Johnson a acheté une unité en copropriété divise à temps partagé pour 25 semaines au Centre. La semaine du 1er au 8 mars 2007 était la dernière semaine couverte par la convention d’achat de 1997 et une nouvelle convention d’achat a été négociée pour 25 autres semaines au Centre. Il me semble que la raison principale de ces voyages ait été de prendre des vacances personnelles, si l’on tient compte de la durée des séjours : deux semaines en 2006 et cinq semaines en 2007.
+[36] J’admets le fait que M. Johnson a exercé certaines activités professionnelles lorsqu’il était à Puerto Vallarta. Il a probablement appelé des clients et reçu des appels de leur part, lu des rapports et cherché des occasions d’affaires, mais ces activités auraient pu être exercées à partir de n’importe quel autre endroit. La présence physique de M. Johnson à Puerto Vallarta n’était pas nécessaire, compte tenu du fait que la société 1259066 n’avait servi aucun client local durant les séjours de M. Johnson au Mexique. Les voyages à Puerto Vallarta ont été décidés par M. Johnson selon son style de vie, et le coût de ces voyages aurait été supporté de toute façon. Le fait de travailler lorsqu’on est en vacances ne suffit pas pour transformer un voyage d’agrément en voyage d’affaires.
+[37] M. Johnson a admis qu’il n’y avait aucune présentation PowerPoint, aucun ordre du jour des réunions tenues lors des retraites pour des raisons professionnelles en 2006 et en 2007 et aucun procès‑verbal de ces réunions. Il n’a fourni aucune précision concernant le nombre de jours qu’il avait travaillé, le nombre d’heures qu’il avait consacrées à chaque activité professionnelle, les dates de tenue des réunions professionnelles ou la durée de ces réunions. M. Johnson a dit à la vérificatrice qu’il avait simplement estimé avoir passé l’équivalent d’une semaine à travailler durant ses séjours à Puerto Vallarta.
+[38] De manière générale, M. Johnson est resté évasif quant au rôle joué par son épouse dans les activités de la société 1259066 et, en particulier, en ce qui a trait à sa participation aux activités professionnelles de la société 1259066 lors de ses séjours à Puerto Vallarta. Nous savons qu’elle n’a pas participé aux diverses conversations téléphoniques avec Mme De La Ronde et avec M. Mercier. En réalité, rien ne prouve que l’épouse de M. Johnson ait fourni quelque service que ce soit à la société 1259066 durant ses séjours à Puerto Vallarta et, dans ce contexte, il m’est difficile d’accepter qu’une quelconque partie des dépenses attribuables aux voyages de l’épouse de M. Johnson à Puerto Vallarta ait été supportée à des fins professionnelles. L’épouse de M. Johnson n’a pas témoigné à l’audience pour apporter des éclaircissements quant à la nature et à l’étendue des services qu’elle avait fournis à la société 1259066 durant ses séjours à Puerto Vallarta.
+[39] Les dépenses que M. Johnson a imputées à la société 1259066 pour les billets d’avion et pour l’unité ne correspondaient pas au coût réel supporté par M. Johnson, mais plutôt à la valeur de ces éléments. Le montant qui a été imputé à la société 1259066 pour 2006 et pour 2007 était supérieur aux montants réellement payés par M. Johnson. Aucune somme n’a été déboursée pour les billets d’avion, sauf des frais minimes de 104 $. M. Johnson a utilisé ses points Aéroplan pour payer les billets d’avion. En outre, M. Johnson n’a fourni aucune preuve pour expliquer pourquoi le coût des billets d’avion et de son séjour à l’unité en 2005 était presque le double des coûts pour 2006 et pour 2007 (2 462 $ pour les billets d’avion et 3 325 $ pour l’unité en 2005).
+[40] Étant donné que j’ai conclu qu’aucune partie des dépenses déclarées à l’égard des voyages effectués à Puerto Vallarta n’est déductible par la société 1259066 à titre de dépenses d’entreprise, il n’est pas nécessaire d’établir la valeur et le caractère raisonnable des dépenses imputées à la société 1259066.
+[41] En ce qui concerne les frais afférents à un véhicule à moteur, M. Johnson a déclaré qu’il avait acheté à son propre compte un véhicule qui avait fait l’objet d’une location antérieure, mais qui était relativement neuf et qui était encore couvert par la garantie. Il avait imputé à la société 1259066 les coûts réels d’utilisation du véhicule, tels que l’essence, les réparations et l’entretien, les frais reliés aux permis et à l’immatriculation, l’assurance et un montant correspondant à la dépréciation du véhicule qui était fondé sur la déduction pour amortissement visée par le Règlement de l’impôt sur le revenu. L’ARC a reconnu que la société 1259066 n’avait jamais demandé de déduction pour amortissement à l’égard du véhicule et a accepté le fait que le véhicule était utilisé exclusivement à des fins professionnelles. Le problème qui se pose concerne la dépréciation du véhicule. Selon l’ARC, M. Johnson n’a fourni aucune preuve pour établir le prix d’achat réel du véhicule, la date d’acquisition et les montants déduits auparavant relativement à la dépréciation du véhicule.
+[42] M. Johnson a déclaré que le véhicule était un véhicule d’occasion de trois ans, qui avait été probablement acheté en 2004 et à l’égard duquel on avait déduit un montant au titre de la dépréciation pour une seule année. M. Johnson n’a présenté aucune preuve devant la Cour sur ce point, parce qu’il pensait que la question avait déjà été réglée avec la vérificatrice de l’ARC. Le comptable de la société 1259066 a témoigné qu’il ne se souvenait pas du prix d’achat de la voiture.
+[43] En l’absence de toute preuve concernant le coût réel d’acquisition du véhicule à moteur et des sommes déduites au titre de la dépréciation du véhicule depuis son acquisition, le montant imputé à la société 1259066 au titre de la dépréciation pour l’année d’imposition 2006 n’est pas déductible. Selon le paragraphe 230(1) de la Loi, quiconque exploite une entreprise doit tenir des registres et des livres appropriés afin de permettre au ministre d’établir le montant des impôts payables en vertu de la présente Loi ou des sommes qui auraient dû être déduites dans le calcul du revenu de la personne.
+[44] En ce qui concerne les frais d’accès Internet et de télévision par câble, l’ARC a refusé la déduction du montant pour les services de base, parce qu’elle ne disposait d’aucun renseignement lui permettant de déterminer le pourcentage exact correspondant à l’utilisation personnelle et celui correspondant à l’utilisation professionnelle. M. Johnson a affirmé que lui et les membres de sa famille n’utilisent jamais Internet à des fins personnelles et que son épouse et lui ne regardent jamais la télévision pour des raisons personnelles, bien qu’ils regardent les nouvelles. À cet égard, je ne crois pas que le témoignage de M. Johnson soit crédible, étant donné qu’il n’a pas été corroboré par le témoignage de son épouse et que les réservations au Centre ont été faites par Internet. La méthode utilisée par l’ARC était raisonnable, et M. Johnson a la charge d’établir que l’utilisation à des fins professionnelles représente un pourcentage plus élevé. En l’espèce, un pourcentage plus élevé d’utilisation à des fins professionnelles nécessiterait une utilisation exclusive à des fins professionnelles. Même si M. Johnson a fait valoir avec force que les services d’Internet et de distribution par câble à domicile étaient utilisés à des fins professionnelles, je considère quand même qu’une partie de ces services était utilisée à des fins personnelles, étant donné que ces services étaient à la disposition de M. Johnson et son épouse vingt‑quatre heures sur vingt-quatre, sept jours sur sept, et qu’il a été établi que M. Johnson et son épouse utilisaient la télévision pour un visionnement personnel. M. Johnson n’était pas toujours dans la pièce lorsque son épouse regardait la télévision.
+[45] Quant aux nouvelles cotisations personnelles établies pour les années d’imposition 2005, 2006 et 2007, M. Johnson a soutenu que, par suite des écritures de contre-passation, il n’a jamais obtenu les avantages que lui devait la société 1259066 et que, subsidiairement, si des avantages à l’actionnaire sont considérés comme ayant été reçus, il ne devrait pas être imposé sur le montant total, mais sur la moitié, étant donné que son épouse devrait être imposée sur l’autre moitié.
+[46] L’intimée a souligné le fait que la cotisation initiale à l’égard de l’année d’imposition 2005 a été établie le 13 avril 2006, et qu’une nouvelle cotisation relativement à cette année a été établie le 26 février 2009, ce qui a été fait dans le délai prescrit, de sorte que la nouvelle cotisation n’était pas prescrite.
+[47] En vertu du paragraphe 15(1) de la Loi, le ministre a inclus dans le revenu de M. Johnson la valeur de l’avantage correspondant au montant de la dette qui lui était due et qui avait été inscrite à son compte de prêt de l’actionnaire pour les années d’imposition 2005, 2006 et 2007. M. Johnson a délibérément, et de sa propre initiative, inscrit les montants dépensés par la société 1259066 à son compte de prêt de l’actionnaire. Il ne s’agissait pas d’une erreur. M. Johnson a donné les renseignements pertinents au comptable de la société 1259066 pour qu’il déduise les dépenses. M. Johnson avait aussi bien la possibilité que l’obligation de déclarer correctement les dettes que la société 1259066 lui devait.
+[48] L’intimée a également soutenu que la société 1259066 ne pouvait pas transférer les dépenses contestées au compte de réserve, parce que ces dépenses n’ont été mises au jour qu’après la vérification, et parce que, à ce stade-là, il était trop tard, en l’absence de toute erreur, pour que la société 1259066 effectue un reclassement. Je suis d’accord avec l’intimée, et je ne pense pas que cela convienne de permettre à un contribuable d’effectuer une planification fiscale rétroactive pendant ou après la vérification.
+[49] Je souscris aux observations suivantes faites par le juge McArthur dans la décision Tymchuk c. La Reine, 2003 CCI 699 :
+15 Pour se prévaloir des avantages que prévoient les dispositions législatives en vertu de la Loi de l’impôt sur le revenu, le type de relation qui existe entre la société et son actionnaire doit être exécutoire. Je conclus en fait que Donald a tenté de montrer que ces montants consistaient en des dépenses de la société et ne les a pas déclarés au titre de montants qu’il a perçus. Après avoir procédé à la vérification, il est trop tard pour réorganiser la relation qui existait. […]
+[50] M. Johnson a présenté certains relevés bancaires d’un compte qu’il détient conjointement avec son épouse pour établir que son épouse avait également payé certaines dépenses imputées à la société 1259066, et qu’une partie des avantages à l’actionnaire devrait donc être imposée entre les mains de celle‑ci. M. Johnson n’a pas réussi à démontrer la partie exacte des dépenses imputées à la société 1259066 que son épouse avait payées, et l’intimée a souligné que, quoi qu’il en soit, ces renseignements n’étaient pas pertinents, compte tenu du fait que le montant du compte de prêt de l’actionnaire n’était dû qu’à M. Johnson.
+[51] Il incombait à M. Johnson et à la société 1259066 d’établir que les hypothèses de fait du ministre et les nouvelles cotisations qui ont été établies en conséquence n’étaient pas correctes. Ils ont échoué.
+[52] Les appels interjetés par les deux appelants sont par conséquent rejetés.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2012.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 29e jour de janvier 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2012 CCI 399
+Nos DES DOSSIERS DE LA COUR : 2011-591(IT)I
+2011-341(IT)I
+INTITULÉS : 1259066 Ontario Limited c.
+Sa Majesté la Reine
+Warren Johnson c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 17 novembre 2011 et le 11 avril 2012
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 29 novembre 2012
+COMPARUTIONS :
+Représentant de l’appelante 1259066 Ontario Limited :
+Pour l’appelant
+Warren Johnson :
+M. Warren Johnson
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Mélanie Sauriol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

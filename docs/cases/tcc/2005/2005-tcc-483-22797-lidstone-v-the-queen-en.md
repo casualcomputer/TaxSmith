@@ -1,0 +1,163 @@
+---
+title: "Lidstone v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22797/index.do"
+last_modified: "2005-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 483"
+citation2: ""
+neutral_citation: "2005 TCC 483"
+decision_date: "2005-07-29"
+language: "en"
+item_id: "22797"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2244
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:30:32.128000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c477773de9ad93b97566bf8325060eb4890ede68712cd82357aaa7890987fe88"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lidstone v. The Queen
+
+- Citation: 2005 TCC 483
+- Decision date: 2005-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2244, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lidstone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-07-29
+Neutral citation
+2005 TCC 483
+File numbers
+2005-910(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-910(IT)I
+BETWEEN:
+ELIZABETH LIDSTONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 21, 2005 at Victoria, British Columbia.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant: Jack Lidstone
+Counsel for the Respondent: Stacey Repas
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under section 227.1 of the Income Tax Act, notice of which is dated March 9, 2004 and bears number 34173, is allowed with costs, and the assessment is vacated.
+Signed at Ottawa, Canada this 29th day of July, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC483
+Date: 20050729
+Docket: 2005-910(IT)I
+BETWEEN:
+ELIZABETH P. LIDSTONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment made under section 227.1 of the Income Tax Act on the basis that the appellant was a director of 574489 B.C. Ltd. ("574489") and was therefore liable for unremitted source deductions for the period July to December, 2000.
+[2] The appellant's position is that after June 30, 2000, 574489 had nothing to do with the business Quiznos at Fort Street in Victoria.
+[3] Corporate directors may challenge a derivative assessment under section 227.1 in one of three ways:
+(a) They may establish that they exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+This defence will be referred to compendiously as "due diligence".
+(b) They may also resist the assessment on the basis that the conditions precedent to liability in subsection 227.1(2) have not been met or the time limit in subsection 227.1(4) has not been observed.
+This defence is not raised here.
+(c) They may establish that the underlying assessment against the corporation upon which their derivative liability is based is wrong notwithstanding that the corporation has not objected to or appealed against the assessment of tax.
+[4] The appellant was represented by her husband, who both testified and argued. The assessment is based upon payroll remittances that were allegedly not made for the period July to December 2000.
+[5] Quiznos is a franchise operation that runs fast food operations in various locations in British Columbia and, I understand, elsewhere.
+[6] It is convenient to set out the assumptions upon which the assessment was based. They are as follows:
+a) the Company operated a Quiznos outlet at 731 Fort Street in Victoria, British Columbia, (the "Quiznos Outlet") from on or about January 2000 to on or about December 2000;
+b) Mario Gencarelli ("Gencarelli") was a director and president of the Company from January 2000 to June of 2000;
+c) on or about July of 2000 Gencarelli ceased to have any involvement with the Company or the Quiznos Outlet;
+d) throughout the 2000 taxation year the Appellant was a director and secretary of the Company;
+e) the Appellant was the sole director of the Company during the period of July 2000 to December 2000;
+f) the Company operated the Quiznos outlet under a purchase agreement from franchise owner EJL Management Ltd ("EJL");
+g) EJL is owned by Mr. John Lidstone
+h) the Company used the payroll services of Paytrac from January 2000 until on or about June of 2000;
+i) the Assessment is based on remittances arrears for the period of July to December of 2000;
+j) the Appellant's husband managed and operated the day to day activities of the Company from on or about May 2000 to on or about December 2000;
+k) the Company operated until on or about December 2000;
+l) the Company had employees until on or about December 2000;
+m) on or about July of 2000, the Appellant was aware of the Company's financial problems;
+n) on or about July of 2000, the Appellant was aware of the Company's failure to remit as required by the Act;
+o) employees of the Company advised the Appellant that they were not receiving the wages;
+p) the Company borrowed money from a company owned by Mr. Lidstone, 585070 BC Ltd to enable the Company to pay the July 2000 payroll (the "Loan");
+q) the Company repaid the Loan to Mr. Lidstone on or about September of 2000;
+r) the Company failed to remit to the Receiver General, Federal Income Tax in the amount of $3,974.28 that was withheld from the wages paid to its employees in the period of July to December of 2000;
+s) the Company failed to pay penalties in the amount of $896.15 and interest in the amount of $2,269.97, relating to the Federal Income Tax the Company failed to remit from July to December of 2000;
+t) a certificate for the amount of the Company's liability for Federal Income Tax, penalties and interest in the amount of $56,469.86 was registered in the Federal Court of Canada pursuant to subsection 223(2) of the Act and execution for such amount was returned wholly unsatisfied on October 20, 2003;
+u) during the period from July to December of 2000, the Appellant did not exercise the degree of care, diligence and skill to prevent the Company's failure to remit that a reasonably prudent person would have exercised in comparable circumstances.
+[7] Mr. Lidstone says that assumptions (a), (b), (c), (d), (e), (j), (k), (l), (m), (n), (o), (r) and (u) are wrong. Without dealing with each assumption seriatim I shall set out the version of the facts that Mr. Lidstone testified to. He and his wife were equal owners of EJL Management Ltd. ("EJL"). EJL purchased eight franchises from the franchisor, Quiznos Corporation.
+[8] The arrangement was that Mr. Lidstone would find a location, construct a Quiznos outlet, and find an owner-operator. Mr. Lidstone (or, more accurately, EJL) would construct the outlet on behalf of the prospective owner-operator, and, on completion, would sell the franchise to the owner-operator. The owner-operator was to be 574489, a shelf company acquired for the purpose of operating the Fort Street Quiznos franchise. Mr. Lidstone identified an individual, Mario Gencarelli ("Mario") who was to run the store and own 574489. He sold Mario 70 percent of the shares of 574489 with the intention that Mario would buy the remaining 30 percent from Mrs. Lidstone.
+[9] Mario never did, for reasons that will become clear. For the first six months of operation (January to June 2000) 574489 used a payroll company. Paytrac and all remittances were made correctly and on a timely basis.
+[10] By June 2000 it became clear that things were not working out with Mario who was apparently not performing as anticipated, for whatever reason. Mr. Lidstone then went to the store and, not to put too fine a point on it, kicked Mario out. Mario continued to be a director and a 70 percent shareholder of 574489.
+[11] From that point onwards, i.e. from July to December 2000, Mr. Lidstone operated the Fort Street Quiznos and Mario and 574489, the company that he controlled, ceased to operate the outlet. What is clear from the evidence of Mr. Lidstone is that from July 1, 2000 until the business closed on December 31, 2000, 574489 had no involvement with the operation of the franchise and indeed never did acquire the Quiznos franchise. Mr. Lidstone was emphatic in his denial that he was not operating the business on behalf of Mario or 574489. He said that he would have had no reason to do anything that would benefit Mario or his company.
+[12] An employee of the Fort Street Quiznos, Crystal Duck, testified that she received her wages in cash and was never shown as an employee of 574489. Indeed, there is nothing in the oral or documentary evidence supporting the position that from July to December 2000, 574489 was paying wages or salary, a prerequisite to its liability to withhold and remit payroll deductions.
+[13] If there was an assessment against 574489 it was not put in evidence, although the certificate filed in the Federal Court was made an exhibit. However, assuming an assessment was made against 574489 for the payroll deductions for the period from July to December 2000, the assessment was in error.
+[14] There is quite a different alternative basis upon which I think Mrs. Lidstone should be absolved of liability under section 227.1. Even assuming that 574489 was properly assessed or that, contrary to the Federal Court of Appeal decision in Gaucher v. The Queen, 2000 DTC 6778, Mrs. Lidstone cannot attack the underlying corporate assessment, she is still entitled to succeed on the basis of subsection 227.1(3) under the due diligence defence. It was reasonable for her to accept her husband's assurances that Mario and 574489 were no longer involved. Section 227.1 does not require omniscience. It requires only reasonable behaviour. Based on the knowledge that she reasonably had that 574489 was not involved there was nothing that Mrs. Lidstone could reasonably be expected or obliged to do even if 574489 should have been making and remitting payroll deductions.
+[15] The appeal is allowed and the assessment under section 227.1 against Mrs. Lidstone is vacated.
+Signed at Ottawa, Canada this 29th day of July, 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC483
+COURT FILE NO.:
+2005-910(IT)I
+STYLE OF CAUSE:
+Elizabeth P. Lidstone v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+June 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+July 29, 2005
+APPEARANCES:
+Agent for the Appellant:
+Jack Lidstone
+Counsel for the Respondent:
+Stacey Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

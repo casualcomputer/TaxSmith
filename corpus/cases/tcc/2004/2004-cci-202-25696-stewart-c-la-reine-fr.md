@@ -1,0 +1,120 @@
+---
+title: "Stewart c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25696/index.do"
+last_modified: "2004-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 202"
+citation2: ""
+neutral_citation: "2004 CCI 202"
+decision_date: "2004-03-08"
+language: "fr"
+item_id: "25696"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3789
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:43:34.784000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "493ca0fd0dfbe59e04d706bc6a631b080edb8f90861e9684df05ebac798939a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stewart c. La Reine
+
+- Citation: 2004 CCI 202
+- Decision date: 2004-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3789, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stewart c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-08
+Référence neutre
+2004 CCI 202
+Numéro de dossier
+2003-1805(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI202
+Date : 20040308
+Dossier : 2003-1805(IT)I
+ENTRE :
+IRENE F. STEWART,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelante : Barclay G. Stewart
+Avocat de l’intimée : Me John Grant
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 15 décembre 2003.)
+Le juge Bowie
+[1] Les faits en l’espèce sont clairs. L’appelante a produit, relativement à 1999, une déclaration de revenus dans laquelle elle fait état, à la page 2 – où figurent certains postes de revenu –, d’intérêts et d’autres revenus de placement s’élevant à 1 825,86 $. Comme le prévoient les termes mis entre parenthèses à la ligne applicable, le contribuable doit fournir des précisions sur ces revenus à l’annexe 4. À cette annexe, la contribuable ne donne aucune précision, sauf qu’elle a inscrit [traduction] « intérêt, 27 351,94 $, moins perte de placement, 25 526,08 $ » sur la ligne à côté du terme « Précisez » puis, à l’autre bout de cette ligne, la différence nette, soit 1 825,86 $. C’est cette somme que la contribuable a reportée à la ligne 121, à la page 2 de sa déclaration de revenus.
+[2] Selon moi, il ressort sans équivoque de l’ensemble de la preuve dont je suis saisi, et en particulier du verso de la page 12 de la pièce A‑1, à laquelle je viens de renvoyer, et de la page 14 de la pièce A‑1, que les chiffres inscrits sur ces documents par l’appelante se fondent sur son revenu de placement total – soit son revenu total en intérêts – qui, lorsqu’on en fait la somme, s’élève à 27 351,94 $.
+[3] Je n’entrerai pas dans les détails, sauf pour préciser que, de ce revenu, plus de 15 000 $ ont été versés par La Banque Toronto‑Dominion et que 10 135 $ proviennent d’obligations d’épargne de l’Ontario. Il y avait en outre plusieurs autres petits revenus en intérêts. Lorsqu’elle a produit sa déclaration, l’appelante a présumé qu’elle avait le droit de déduire de ces revenus la somme de 25 526,08 $, qu’elle a qualifiée de perte de placement, expression qui, pourrais‑je ajouter, est totalement étrangère à la Loi de l’impôt sur le revenu. Il existe un certain nombre de genres de pertes. Il y a la perte autre que perte en capital, qui est déductible du revenu, puis la perte déductible au titre d’un placement d’entreprise, laquelle peut aussi être déduite du revenu. M. Stewart (représentant de l’appelante) a, à plusieurs occasions pendant l’audience, nié cette assertion. Enfin, il y a les pertes en capital, comme celle dont il est question en l’espèce.
+[4] Si je comprends bien l’argument avancé par M. Stewart, il tient pour l’essentiel au fait que le placement, par sa mère, d’une somme de 20 000 $ dans une hypothèque consortiale constituait une entreprise, et que la perte de cette somme est donc assimilable à une perte d’entreprise. Or, cet argument est faux en ce qu’on laisse entendre que l’appelante, lorsqu’elle a décidé de placer 20 000 $ dans une hypothèque consortiale, exploitait une entreprise. Il s’agit très manifestement d’un placement de capitaux. La contribuable n’exploitait pas une entreprise de prêt, au sens ordinaire de cette expression comme elle est comprise dans la jurisprudence. Elle disposait de capitaux appréciables et elle a placé ceux‑ci sous de nombreuses formes. Elle en a placé dans des obligations d’épargne de l’Ontario. Elle en a placé dans des dépôts à La Banque Toronto‑Dominion et chez Canada Trust. Elle en a placé dans un prêt hypothécaire – par l’entremise d’une entreprise dont les activités consistaient à recevoir de tels placements et à les retransmettre, si je puis employer ce verbe, à un tiers dont l’entreprise se livrait à la promotion immobilière – afin de tirer profit de l’entreprise de ce tiers. Il ne s’agit pas d’une entreprise de prêt, ni d’une quelconque autre entreprise. Il s’agit, à proprement parler, de rien d’autre que de placements de capitaux effectués en vue de réaliser un revenu en intérêts. La somme n’est pas déductible du revenu puisqu’il s’agit d’une perte de capitaux, et non d’une perte au titre du revenu.
+[5] Le ministre a admis qu’à tout le moins le montant du principal impayé de ce prêt, soit 14 547,13 $, constitue une perte en capital et pourra donc un jour être déduit d’éventuels gains en capital. Je ne m’avancerai pas à émettre une opinion en ce qui concerne les intérêts en souffrance de 10 978,95 $, que la contribuable a également perdus lorsque le débiteur a manqué à son obligation de rembourser le prêt. Je ne suis pas certain de comprendre pourquoi cette somme ne constituerait pas aussi une perte en capital, mais je ne suis pas saisi de cette question et je ne me prononcerai pas sur celle‑ci. Ce point pourrait être soulevé relativement à une autre année d’imposition s’il y a des gains en capital desquels cette somme pourrait être déduite, mais cette question n’est pas en litige dans le cadre de l’appel dont je suis saisi. Le présent appel intéresse le simple cas d’une contribuable qui, parce qu’elle a mal compris la différence entre ce qui est imputable au compte de capital et ce qui est imputable au compte de revenus, tente de déduire de son revenu en intérêts la perte qu’elle a subie au titre d’un prêt hypothécaire. Cette perte, peu importe son montant, n’est pas imputable au compte de revenus, mais bien au compte de capital.
+[6] Le fait qu’une personne effectue de nombreux placements n’a pas pour effet de transformer cette activité en entreprise. La preuve ne permet nullement de penser que la contribuable en l’espèce achetait des titres pour les céder avec bénéfice, ce qui aurait constitué un projet comportant un risque de caractère commercial. Dans la présente affaire, la Cour est saisie de placements purs et simples dans des titres en vue de produire un revenu. L’un de ces placements s’est révélé mauvais et a été perdu, et il s’agit manifestement d’une perte en capital. L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 8e jour de mars 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 27e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2004CCI202
+No DU DOSSIER DE LA COUR :
+2003‑1805(IT)I
+INTITULÉ :
+Irene F. Stewart et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 décembre 2003
+MOTIFS DU JUGEMENT :
+L’honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 22 décembre 2003
+COMPARUTIONS :
+Représentant de l’appelante :
+Barclay G. Stewart
+Avocat de l’intimée :
+Me John Grant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,212 @@
+Title: F. Ménard inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29201/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-208-29201-f-m-nard-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-04-24
+
+# F. Ménard inc. c. M.R.N.
+
+- Citation: 2009 CCI 208
+- Decision date: 2009-04-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6697, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+F. Ménard inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-24
+Référence neutre
+2009 CCI 208
+Numéro de dossier
+2008-854(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-854(EI)
+ENTRE :
+F. MÉNARD INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 22 octobre 2008, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté, au motif que les emplois des travailleurs, messieurs François Ménard, Luc Ménard et Pierre Ménard, pour l’appelante, du 1er janvier 2005 au 14 mars 2007, étaient des emplois assurables aux termes de la Loi pour les motifs ci-après exposés.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2009.
+« Alain Tardif »
+Juge Tardif
+Référence : 2009 CCI 208
+Date : 20090424
+Dossier : 2008-854(EI)
+ENTRE :
+F. MÉNARD INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision par laquelle l’intimé a décidé que le travail exécuté du 1er janvier 2005 au 14 mars 2007 par messieurs François Ménard, Luc Ménard et Pierre Ménard pour l’appelante, F. Ménard inc. (« l’appelante »), était assurable.
+[2] Il s’agit d’une décision dont le fondement juridique est l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »). Cette disposition établit que le travail exécuté par une personne liée à son employeur au sens de la Loi de l’impôt sur le revenu est exclu des emplois assurables.
+[3] Toutefois, le législateur a prévu une exception en vertu de laquelle le travail est assurable s’il a été exécuté d’une manière semblable et à des conditions comparables à ce qui aurait existé s’il n’y avait pas eu de lien de dépendance. L’exception se lit comme suit :
+5(3)b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] Ainsi, en présence d’un lien de dépendance, le ministre doit faire une analyse beaucoup plus complète que la simple vérification de la présence des conditions classiques, à savoir la rémunération, la prestation de travail et le lien de subordination.
+[5] En effet, il doit décider si le lien de dépendance a influencé l’exécution du travail; en d’autres termes, l’analyse doit examiner si le travail en litige a été ou non effectué d’une manière semblable et à des conditions comparables à ce qui aurait existé dans le cas d’une personne sans lien de dépendance avec l’employeur.
+[6] Il s’agit là d’affaires particulières également sous un autre aspect, puisque la jurisprudence a établi que la Cour canadienne de l’impôt n’a pas compétence pour réviser une telle décision lorsque le pouvoir discrétionnaire a été exercé correctement et légalement.
+[7] En d’autres termes, lorsque l’exercice du pouvoir discrétionnaire s’est fait d’une manière responsable et judicieuse, que tous les faits pertinents ont été pris en compte et que la conclusion s’avère raisonnable, la Cour canadienne de l’impôt ne peut pas modifier la décision, même si la Cour ne souscrit pas nécessairement à la conclusion retenue.
+[8] Pour arriver à la décision dont il est fait appel, l’intimé a tenu pour acquis plusieurs hypothèses de fait, dont un grand nombre ont fait l’objet d’aveux. Les faits admis sont notamment les suivants :
+5. a) l’appelante a été constituée en société le 26 novembre 1989;
+j) les travailleurs possédaient un droit de signature au nom de l’appelante; Fulgence Ménard pouvait signer seul les chèques de l’appelante alors que dans le cas des travailleurs, 2 signatures étaient requises sur les chèques signés au nom de l’appelante;
+k) les travailleurs, actionnaires de l’appelante, participaient et prenaient toutes les décisions relatives aux opérations majeures et quotidiennes de la gestion et du fonctionnement de l’appelante;
+l) chacun des travailleurs pouvait être appelé à avoir une implication dans la gestion du personnel, à prendre des décisions d’ordre financier, à communiquer avec les clients, à établir les prix ou à être une personne ressource au nom de l’appelante;
+m) chacun des travailleurs possédait une grande autonomie d’opération dans l’exécution de ses tâches mais, ultimement, relevait du conseil d’administration de l’appelante;
+n) aucun des travailleurs n’a investi personnellement de l’argent dans l’entreprise de l’appelante et aucun n’a cautionné ou endossé de marge de crédit ou d’emprunt au nom de l’appelante;
+o) les travailleurs rendaient des services à l’appelante de façon continue et sans interruption;
+p) les travailleurs rendaient quotidiennement des services à l’appelante dans les locaux de l’appelante;
+q) durant la période en litige, chacun des travailleurs recevait une rémunération annuelle brute de 75 000,00 $ de l’appelante;
+7. d) le travail de chacun des travailleurs était indispensable à la bonne marche des activités de l’appelante;
+f) les travailleurs sont à l’emploi de l’appelante depuis de nombreuses années, ils exécutent leurs fonctions à l’année longue et leur travail correspond aux besoins opérationnels de l’appelante.
+[9] L’appelante a cependant nié les faits suivants :
+5. b) l’appelante exploite une meunerie et plus de 20 fermes porcines et de volailles et fait de la culture;
+c) l’appelante a un chiffre d’affaires de plus de 100 millions par année générant des profits d’environ 1,3 million;
+d) l’appelante embauche plus de 400 personnes par année;
+e) les travailleurs étaient, directement ou indirectement actionnaires de l’appelante et travaillaient à l’année pour l’entreprise de l’appelante;
+f) les travailleurs étaient directeur d’un secteur d’activité de l’appelante et étaient tous membres du comité de direction de l’appelante;
+g) François était directeur des meuneries et des immobilisations;
+h) Luc était directeur de la production animale;
+i) Pierre était directeur de la flotte ou logistique;
+r) les travailleurs, tout comme les autres employés de l’appelante, bénéficiaient d’une assurance collective; cette assurance était plus étendue que les autres employés dû à leurs responsabilités;
+s) la rémunération des travailleurs correspondait au temps réellement consacré par chacun dans l’exécution de ses tâches et établie selon l’expérience et la compétence de chacun;
+7. a) les travailleurs ne comptabilisaient pas leurs heures de travail mais étaient assujettis au pouvoir de l’appelante exercé par la voix de son conseil d’administration dont ils faisaient partie;
+b) les travailleurs recevaient une rémunération raisonnable eu égard aux tâches qui leurs étaient assignées par l’appelante;
+c) chacun des travailleurs demeurait responsable de son secteur d’activités et rendait des services à l’appelante comme salarié en plus de son statut d’actionnaire dirigeant;
+e) si les travailleurs avaient des conditions de travail particulières ce n’était pas en vertu de leur lien de dépendance avec l’appelante mais en vertu de leur statut de directeur de l’appelante.
+[10] Monsieur Luc Ménard et le comptable, monsieur Yvon Paquette, ont tous deux témoigné. Leur témoignage a constitué l’essentiel de la preuve présentée au soutien de l’appel.
+[11] Monsieur Luc Ménard a témoigné en premier. Il a d’abord fait l’historique de l’appelante, créée par son père. Fondée en 1961, l’entreprise n’a jamais cessé de prendre de l’expansion.
+[12] Pendant la période en litige, l’entreprise et ses filiales employaient environ 700 personnes et avaient des actifs de près de 150 millions de dollars et un chiffre d’affaires total de près de 250 millions de dollars.
+[13] Les activités étaient la vente de moulée par l’exploitation de deux meuneries et l’élevage de porcs; cette production avait deux volets, l’un étant la production de l’entreprise elle-même, et l’autre, la production avec le concours de plusieurs dizaines de fermes privées, pratique fort répandue en matière de production porcine au Québec.
+[14] Au fil des ans, l’entreprise a pris un essor considérable dans le domaine agricole; plusieurs entreprises s’y sont greffées, dont un volet fort important par le biais d’un abattoir où, en plus de l’abattage, on effectuait la transformation sous différentes formes d’une partie de la production, l’autre étant vendue purement et simplement. Ce sont là très sommairement les activités de cette très importante entreprise dans le domaine agricole.
+[15] Jusqu’en 2005, l’entreprise et ses filiales étaient administrées et gérées par monsieur Fulgence Ménard et ses quatre fils, François, Luc, Pierre et Bertrand.
+[16] En 2005, une mésentente a eu lieu, suite à quoi Bertrand est demeuré chez lui avec un salaire complet pour réfléchir à son avenir dans l’entreprise, les relations avec les autres actionnaires étant devenues difficiles.
+[17] Durant cette période, il a reçu le même salaire et n’a pas fourni de prestation de travail. En fait, il n’est jamais revenu; le désaccord s’est judiciarisé et, en fin de compte, un règlement est intervenu.
+[18] Le litige portait sur la valeur des actions et sur l’indemnité de départ; une partie soutenait qu’elle devait être payée selon la valeur marchande alors que l’autre partie prétendait que l’on devait avoir recours à une convention d’achat-vente à laquelle tous les actionnaires étaient parties. Le dossier de Bertrand n’est pas visé par l’appel.
+[19] Monsieur Ménard a aussi expliqué la nature de son travail et de celui de ses deux frères; il a affirmé que leur rémunération était inférieure à celle de certains cadres de l’entreprise. Il a aussi mentionné qu’ils bénéficiaient de certains avantages quant aux assurances collectives et d’une grande liberté et autonomie dans l’exercice de leurs fonctions respectives.
+[20] Il a notamment affirmé qu’advenant l’obligation de cesser de travailler pour cause de maladie, leur salaire serait quand même totalement payé sans intervention de l’assureur. Il a indiqué que son salaire et celui de ses frères avaient été principalement établis de façon à ce qu’ils puissent faire la contribution maximale à leur REÉR respectif.
+[21] Il a expliqué que l’entreprise respectait les goûts de chacun, qui variaient. Dans son cas, les talents de son fils pour le golf l’obligeaient à s’absenter pour le soutenir et l’encourager lors de compétitions, souvent à des endroits éloignés.
+[22] Pour l’un de ses frères, la chasse constituait son passe-temps préféré. L’un d’eux possédait un avion, dont une partie des coûts d’exploitation était payée par l’appelante.
+[23] Monsieur Luc Ménard a affirmé que lui et ses frères étaient libres, autonomes et responsables; ils bénéficiaient d’une grande autonomie. Il a cependant reconnu que cette liberté et cette autonomie auraient pu être restreintes s’il y avait eu abus de leur part.
+[24] Toutes les comparaisons tant en termes d’avantages que d’inconvénients, ont été faites par rapport aux autres employés cadres de l’appelante.
+[25] De son côté, le comptable a essentiellement confirmé le témoignage de monsieur Luc Ménard, notamment quant au fait que la rémunération des frères Ménard était établie en fonction du montant requis pour leur permettre de faire une contribution maximale à leur REÉR respectif.
+[26] Quant au salaire, les explications du comptable et de monsieur Luc Ménard furent cohérentes, voire même identiques.
+[27] La qualité du travail lors de l’enquête ayant conduit à la conclusion à l’origine de l’appel a été contestée pour discréditer le processus. L’appelante a fait valoir que l’enquête avait été incomplète et bâclée en raison de faits défaillants et incomplets, admettant d’ailleurs la responsabilité à cet égard.
+[28] D’autre part, l’appelante a aussi fait valoir que la décision était déraisonnable, justifiant ainsi une révision de la décision par cette Cour.
+[29] Plusieurs faits énumérés dans la réponse à l’avis d’appel ont été admis. Certaines allégations ont été niées; les négations ont cependant porté sur des faits plutôt secondaires, tel le chiffre d’affaires, le nombre de sous-traitants et le nombre d’employés. Quant aux faits niés, la preuve a établi qu’ils étaient soit véridiques, soit incomplets ou essentiellement mal interprétés. Chose certaine, la très grande majorité des faits niés avaient une importance plutôt limitée.
+[30] Par contre, à cet égard, la question de la rémunération aurait pu soulever un certain intérêt, puisqu’il est évident que les actionnaires méritaient une rémunération supérieure à celle des cadres de l’entreprise.
+[31] Cela est-il en soi déterminant? Bien qu’il s’agisse d’une composante importante, elle doit s’apprécier dans le contexte spécifique du statut particulier d’une personne cumulant les deux qualités, soit celle d’employé et celle d’actionnaire.
+[32] J’ai souvent rappelé qu’il faut faire une distinction entre la qualité de salarié et celle d’actionnaire; ce sont là deux qualités différentes, j’en conviens, et toute confusion est inappropriée.
+[33] Par contre, le législateur a prévu l’obligation de faire des comparaisons lorsque certains employés ont un lien de dépendance avec leur employeur. De façon générale, dans une petite ou moyenne entreprise (PME), un travailleur actionnaire, ayant ou non un lien de dépendance avec l’entreprise, a très souvent des conditions de travail différentes de celles des personnes qui travaillent pour la même entreprise et qui n’en sont pas actionnaires.
+[34] Les distinctions sont souvent avantageuses, mais aussi souvent désavantageuses. Or, une véritable comparaison requiert qu’on ait recours à des choses véritablement comparables.
+[35] En cette matière, une véritable comparaison consiste à comparer le travail exécuté par un travailleur actionnaire n’ayant pas de lien de dépendance à celui d’un travailleur actionnaire ayant un lien de dépendance.
+[36] Généralement, le fait d’être actionnaire confère des pouvoirs permettant l’octroi d’avantages compensant largement l’écart possible du salaire avec celui des cadres. En d’autres termes, les employés gestionnaires actionnaires d’une société reçoivent souvent une rémunération très différente de celle des autres employés non‑actionnaires de la même société et cela, tantôt avantageuse, tantôt désavantageuse. Je pense notamment aux dividendes, aux prélèvements, aux avances, à l’augmentation de la valeur des actions, et ainsi de suite.
+[37] Or, des personnes sans lien de dépendance qui sont actionnaires d’une entreprise ont des préoccupations particulières qui ont des effets directs et importants sur les contrats de travail qu’elles concluent avec l’entreprise dont elles détiennent des actions. Ainsi, des actionnaires peuvent préférer des dividendes à une rémunération, ou peuvent vouloir un salaire moindre pour donner l’exemple ou pour assainir les finances ou le bilan, ce que des tiers n’accepteraient pas sauf des tiers actionnaires.
+[38] Ainsi, une multitude de scénarios sont possibles, tout en demeurant à l’intérieur des composantes essentielles d’un contrat de louage de services, qui requiert essentiellement trois éléments : (1) salaire, (2) prestation de travail, (3) lien de subordination.
+[39] En conséquence, un salaire moindre, des conditions particulières, des modalités d’emploi différentes ne sont absolument pas automatiquement la conséquence du lien de dépendance pouvant exister.
+[40] En effet, tout travailleur qui détient des actions, qu’il ait ou non un lien de dépendance avec son employeur, a en principe et de façon générale de nombreuses préoccupations différentes qui le distinguent du travailleur de la même entreprise qui n’a pas d’action.
+[41] En d’autres termes, le fait d’être actionnaire modifie les attentes du travailleur. Cette réalité n’a rien à voir avec les éléments essentiels du contrat de travail d’une part et, d’autre part, n’a rien à voir avec le fait que la qualité d’actionnaire et celle de travailleur sont différentes.
+[42] Confondre les deux qualités aurait pour effet, par exemple, d’inclure dans la prestation de travail des tâches effectuées à titre non pas de travailleur mais d’actionnaire.
+[43] Toute comparaison doit se fonder sur des éléments comparables valables et pertinents. Comparer un travail exécuté par un actionnaire avec celui d’un employé non‑actionnaire de l’entreprise n’est pas pertinent. L’approche appropriée et raisonnable est celle où la comparaison se fait avec des travailleurs sans lien de dépendance dans un contexte similaire.
+[44] Une telle réalité ne bafoue pas pour autant la distinction juridique qui doit être faite entre la qualité d’actionnaire et celle de partie à un contrat de travail.
+[45] Toute personne qui détient des actions de l’entreprise pour laquelle elle travaille peut avoir des participations de différents ordres, le lien de dépendance n’ayant strictement rien à voir avec de telles préoccupations.
+[46] En l’espèce, des personnes sans lien de dépendance assumant des tâches et des responsabilités similaires auraient très bien pu avoir des conditions de travail semblables à celles des frères Ménard.
+[47] L’analyse dont le résultat est à l’origine de l’appel et qui visait à savoir si les conditions d’emploi avaient été influencées par le lien de dépendance s’est avérée un exercice plutôt hypothétique et théorique, étant donné l’absence de données comparables fiables pour soutenir des conclusions raisonnables.
+[48] L’entreprise a connu un essor et une expansion considérables dont le succès est étroitement lié aux nombreuses qualités de gestionnaire des actionnaires, principalement le père, qui a su prendre les bonnes décisions et bien s’entourer.
+[49] Plusieurs questions soulevées par l’avocat de l’appelante visaient à démontrer que les personnes visées par l’appel avaient bénéficié de certains avantages et bénéfices, mais aussi subi certains inconvénients et désavantages.
+[50] À première vue, l’exercice peut sembler pertinent et fort intéressant; par contre, je ne crois pas que cela soit déterminant, étant donné que les comparaisons avec les cadres de l’entreprise ne sont pas pertinentes.
+[51] La valeur d’une comparaison repose essentiellement sur la qualité des données comparables. Lorsque la qualité des données comparables est discutable, la qualité du résultat de la comparaison est tout aussi discutable.
+[52] Or, le travail d’une personne qui possède des actions doit être comparé à celui d’une personne qui possède aussi des actions, l’un ayant un lien de dépendance alors que l’autre n’en a pas. De plus, les responsabilités, les modalités et le contexte doivent être comparables.
+[53] Faute de comparaison valable ou acceptable, la seule avenue est de répondre à la question suivante : est-il raisonnable, plausible ou possible qu’une personne n’ayant pas de lien de dépendance, mais possédant aussi des actions de la société, effectue un travail de même nature à des conditions et pour des modalités semblables?
+[54] Dans des affaires de ce genre, on fait très souvent ressortir des qualités telles que l’engagement, l’honnêteté, le dynamisme, la générosité, le zèle, le dévouement, l’ardeur, la disponibilité et la souplesse comme étant des qualités propres aux entreprises dirigées et gérées par les membres d’une famille.
+[55] Il s’agit là d’une très mauvaise perception, ne correspondant en rien à la réalité. Les entreprises familiales ne sont pas à l’abri de tous les problèmes qui touchent les entreprises du même genre. Certes, il y a des situations où le lien familial constitue un atout important; par contre, la réalité familiale constitue aussi souvent un problème qui cause la perte de l’entreprise, étant donné que les dirigeants croient souvent être à l’abri de tout problème, négligeant ainsi souvent de mettre en place des mesures préventives telle une convention d’achat‑vente des actions lors de conflits internes pour éviter la débâcle.
+[56] Cette dimension peut évidemment être déterminante lorsqu’il s’agit d’évaluer l’influence du facteur familial.
+[57] La rémunération est donc un élément essentiel; cependant, les composantes d’une rémunération sont nombreuses et peuvent varier selon les modalités auxquelles ont convenu les parties au contrat de travail. À titre d’exemple, il n’est pas rare qu’une personne accepte une baisse de salaire pour conserver son emploi, un salaire réduit pour avoir une bonne expérience, un salaire moindre eu égard à d’autres avantages, un salaire réduit pour un meilleur avenir, une meilleure qualité de vie, et ainsi de suite.
+[58] Tenter de prouver que toutes les particularités, les inégalités, les injustices, etc., sont imputables au fait qu’il s’agit d’une entreprise familiale est un exercice tout à fait incomplet, la plupart du temps non déterminant, mais aussi non réaliste.
+[59] Je crois plutôt que la meilleure approche consiste à établir toutes les conditions et les modalités du travail en cause et à se demander après coup si un scénario semblable aurait été possible et raisonnable n’eût été du lien de dépendance. En d’autres termes, n’eût été du lien de dépendance, un contrat de travail semblable aurait-il été raisonnablement possible?
+[60] En l’espèce, il est manifeste que le père a toujours conservé son droit de regard et d’intervention. D’ailleurs, cette réalité est clairement ressortie dans le cas de Bertrand, où le père a manifestement dirigé l’affaire.
+[61] D’ailleurs, le comptable Paquette a utilisé le mot « boss » pour parler de monsieur Ménard père. Il a également demandé à ce dernier comment traiter la dépense relative aux frais d’utilisation de l’avion de l’un des fils, validant ainsi la réalité de la véritable autorité du paternel.
+[62] Il n’y a aucun doute que le père faisait confiance à ses fils, qui bénéficiaient d’une grande autonomie et du droit de prendre des décisions importantes dans leur domaine respectif. Par contre, monsieur Ménard père n’a jamais renoncé à son autorité et a toujours conservé son pouvoir de contrôle ou d’intervention et ce, comme dans une situation similaire où les personnes n’auraient pas eu de lien de dépendance.
+[63] Pour être en mesure d’exercer son pouvoir discrétionnaire d’une manière judicieuse, le ministre doit prendre les mesures raisonnables, eu égard au contexte et aux circonstances, pour rassembler tous les faits pertinents afin de dégager une conclusion quant à l’influence du lien de dépendance.
+[64] Si le ministre tient pour acquis que sa conclusion est inattaquable par la Cour canadienne de l’impôt à moins que l’on prouve un abus d’autorité ou un manquement sérieux aux règles de l’art, cela n’est pas une approche appropriée; bien plus, cela peut être suffisant pour justifier l’intervention de cette Cour.
+[65] Par contre, si le contribuable décide sciemment de boycotter sans raison le processus, il devra en assumer la responsabilité et, surtout, sera malvenu de prétendre que le responsable de l’enquête n’a pas correctement fait le travail.
+[66] S’il en était autrement, cela aurait pour effet de cautionner la mauvaise foi ou de l’encourager, tout en discréditant la saine administration de la justice, notamment en méprisant la raison d’être même de l’étape de la révision de la décision première.
+[67] Toute décision quant au caractère assurable d’un travail peut faire l’objet d’une révision dans un délai déterminé. Il s’agit là d’une étape essentielle à laquelle il faut avoir recours avant d’intenter un appel devant la Cour canadienne de l’impôt. Il ne s’agit aucunement d’une étape bidon qui peut être négligée, contournée ou même ridiculisée. Il s’agit là d’une étape sérieuse, légale et incontournable.
+[68] En l’espèce, l’appelante a cru bon de s’abstenir de collaborer sous divers prétextes, dont celui qu’elle ne croyait pas à la qualité objective du processus.
+[69] L’appelante, dans sa plaidoirie écrite, fait état d’une affaire devenue un classique, laquelle se lit comme suit à la page 3 :
+[. . .]
+Dans l’arrêt Légaré2, la Cour d’appel fédérale nous a enseigné, entre autres, que la Cour canadienne de l’impôt ne pouvait substituer purement et simplement son appréciation à celle du ministre. Cependant, la Cour doit vérifier si les faits, tels que retenus par le ministre, sont réels et qu’ils ont été appréciés correctement en tenant compte du contexte dans lequel ils sont survenus. Une fois cette vérification faite, la Cour devra se prononcer sur la raisonnabilité de la conclusion du ministre.
+Cet énoncé de la Cour d’appel fédérale permet à la Cour canadienne de l’impôt d’apprécier à sa juste valeur toute preuve soumise devant elle, que cette preuve soit documentaire, testimoniale ou autre, et ce, en dépit du fait que l’intimé n’ait pas été mis au courant de l’existence de cette preuve avant l’audition devant la Cour canadienne de l’impôt.
+Il serait déraisonnable de conclure que toute nouvelle preuve apportée devant la Cour canadienne de l’impôt à l’insu de l’intimé soit écartée, ce qui constituerait à notre point de vue un déni de justice pour l’appelante.
+Bien entendu, la Cour canadienne de l’impôt pourrait prendre en considération le contexte dans lequel le refus ou l’absence de collaboration de l’appelante s’est exercé et en tirer les conclusions qui s’imposent.
+[Je souligne.]
+2 Légaré c. M.R.N., [1999] A.C.F. 878.
+[70] En l’espèce, certes, les faits pris en considération n’étaient pas très nombreux; certes, il aurait fallu que l’enquête puisse rassembler plus de faits. Cela est‑il suffisant pour discréditer le travail réalisé lors de l’exercice du pouvoir discrétionnaire ? Ayant refusé de collaborer à l’enquête, l’appelante doit assumer la responsabilité quant à la partie qu’elle croit incomplète de son dossier d’enquête.
+[71] Refuser de collaborer à l’enquête sous prétexte de ne pas faire confiance aux représentants de l’intimé, cacher ou taire certaines informations pertinentes, déformer ou masquer volontairement certains faits sont des comportements qui ne peuvent pas constituer le fondement de griefs dont le but est de discréditer la qualité de l’exercice du pouvoir discrétionnaire.
+[72] Accepter une telle façon de faire aurait pour effet de rendre inutile les dispositions prévoyant l’exercice d’un pouvoir discrétionnaire, puisque l’audition devant la Cour canadienne de l’impôt mettrait rapidement en évidence de nombreux manquements, notamment quant à la cohérence des faits et de leur vraisemblance.
+[73] L’appelante a raison de prétendre que l’intimé a l’obligation de faire tout ce qui est raisonnable pour compléter une enquête permettant de tirer des conclusions. Une telle obligation n’oblige cependant pas le responsable à investir du temps, de l’argent et de l’énergie d’une manière déraisonnable.
+[74] Toute personne visée par une enquête a le droit fondamental de se faire entendre et d’être représentée ou assistée par un avocat. Renoncer à ce droit ne peut donner plus de droits que ceux qu’a une personne qui collabore de bonne foi.
+[75] Plusieurs décisions de la Cour d’appel fédérale affirment que la Cour canadienne de l’impôt ne peut intervenir, lorsque la décision résulte de l’exercice du pouvoir discrétionnaire prévu par la Loi sur l’assurance-emploi, que si l’exercice est entaché de manquements sérieux ou a été effectué d’une manière non judicieuse. Une enquête incomplète, dont la cause est totalement imputable au travailleur visé ou à des faits mensongers délibérément transmis par ce travailleur, sont des facteurs non pertinents pour l’analyse de la qualité de l’enquête et du processus qui a conduit à la conclusion retenue.
+[76] Admettre que de tels griefs soient suffisants pour justifier l’intervention de la Cour aurait pour effet de discréditer la saine administration de la justice, puisque l’absence de collaboration, la mauvaise foi, la divulgation de faits incomplets, le refus de répondre, la transmission de faits mensongers, l’enregistrement sans avis ni permission de conversations téléphoniques, etc., permettraient à l’appelante de se soustraire à une partie importante de son fardeau de la preuve.
+[77] Le ministre doit, pendant son enquête, composer avec certaines contraintes quant aux moyens, à la disponibilité, etc. Il s’agit essentiellement d’une enquête administrative, qui doit cependant respecter les règles de l’art, ainsi que les droits fondamentaux des personnes faisant l’objet de l’enquête.
+[78] Inversement, toute personne faisant l’objet d’une telle enquête doit collaborer et fournir les réponses et les documents requis pour permettre une détermination aux termes des dispositions de la Loi.
+[79] La sanction découlant du non‑respect de l’une ou de l’autre de ces obligations sera la tenue d’une nouvelle analyse et d’une nouvelle évaluation si le ministre n’agit pas d’une manière judiciaire en ne permettant pas au contribuable de faire valoir ses droits d’une manière raisonnable et légale. À l’inverse, si ce dernier empêche délibérément l’examen normal de l’affaire, la sanction risque d’être sévère, puisque la conclusion du ministre pourra s’avérer raisonnable eu égard aux faits disponibles et pris en considération.
+[80] En l’espèce, l’appelante a en quelque sorte boycotté l’étape de la révision sous prétexte qu’elle ne faisait pas confiance au processus et aux responsables. Dans ce cas, prétendre que l’exercice du pouvoir discrétionnaire a été entaché de graves manquements, que la conclusion retenue est déraisonnable et qu’elle doit être annulée constitue une aberration à laquelle je refuse de souscrire.
+[81] L’appelante a admis les faits suivants :
+5. a) l’appelante a été constituée en société le 26 novembre 1989;
+j) les travailleurs possédaient un droit de signature au nom de l’appelante; Fulgence Ménard pouvait signer seul les chèques de l’appelante alors que dans le cas des travailleurs, 2 signatures étaient requises sur les chèques signés au nom de l’appelante;
+k) les travailleurs, actionnaires de l’appelante, participaient et prenaient toutes les décisions relatives aux opérations majeures et quotidiennes de la gestion et du fonctionnement de l’appelante;
+l) chacun des travailleurs pouvait être appelé à avoir une implication dans la gestion du personnel, à prendre des décisions d’ordre financier, à communiquer avec les clients, à établir les prix ou à être une personne ressource au nom de l’appelante;
+m) chacun des travailleurs possédait une grande autonomie d’opération dans l’exécution de ses tâches mais, ultimement, relevait du conseil d’administration de l’appelante;
+n) aucun des travailleurs n’a investi personnellement de l’argent dans l’entreprise de l’appelante et aucun n’a cautionné ou endossé de marge de crédit ou d’emprunt au nom de l’appelante;
+o) les travailleurs rendaient des services à l’appelante de façon continue et sans interruption;
+p) les travailleurs rendaient quotidiennement des services à l’appelante dans les locaux de l’appelante;
+q) durant la période en litige, chacun des travailleurs recevait une rémunération annuelle brute de 75 000,00 $ de l’appelante;
+7. d) le travail de chacun des travailleurs était indispensable à la bonne marche des activités de l’appelante;
+f) les travailleurs sont à l’emploi de l’appelante depuis de nombreuses années, ils exécutent leurs fonctions à l’année longue et leur travail correspond aux besoins opérationnels de l’appelante;
+[82] Les faits admis par l’appelante sont suffisants pour justifier la décision dont il est fait appel; la décision est d’ailleurs tout à fait raisonnable et j’en confirme le bien‑fondé. En conséquence, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour d’avril 2009.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2009 CCI 208
+Nº DU DOSSIER DE LA COUR : 2008-854(EI)
+INTITULÉ DE LA CAUSE : F. MÉNARD INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 22 octobre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 24 avril 2009
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Mélanie Bélec
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

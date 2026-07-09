@@ -1,0 +1,1001 @@
+---
+title: "Copthorne Holdings Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27094/index.do"
+last_modified: "2005-08-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 491"
+citation2: ""
+neutral_citation: "2005 TCC 491"
+decision_date: "2005-08-03"
+language: "en"
+item_id: "27094"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 964
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:30:06.114000+00:00"
+cases_cited_count: 1
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06685c144ce3df74c359a3b52138e7968788fd7e2b1d26236d4629e5e4e7294f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Copthorne Holdings Ltd. v. The Queen
+
+- Citation: 2005 TCC 491
+- Decision date: 2005-08-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 964, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Copthorne Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-03
+Neutral citation
+2005 TCC 491
+File numbers
+2002-1316(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1316(IT)G
+BETWEEN:
+COPTHORNE HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant: Richard Pound
+Counsel for the Respondent: Franco Calabrese
+____________________________________________________________________
+ORDER
+It is ordered that the following documents[1] be delivered to the Attorney General of Canada, on the ground that they are not subject to solicitor-client privilege:
+2, 3, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 52, 53, 54, 55, 56, 57, 58, 59, 60, 63, 65, 66, 68, 69, 70, 72, 73, 79, 80, 81, 83, 84, 86, 87, 88, 90, 92, 93, 94, 95, 96, 100, 104, 109, 110, 111, 112, 113.
+Costs in the cause.
+Signed at Ottawa, Canada this 3rd day of August, 2005.
+"Gerald J. Rip"
+Rip J.
+Citation No. 2005TCC491
+Date: 20050803
+Docket: 2002-1316(IT)G
+BETWEEN:
+COPTHORNE HOLDINGS LTD.,
+Applellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rip J.
+[1] This is a motion to determine whether the appellant has a solicitor-client privilege in respect of the documents listed at Schedule "A". The appellant, Copthorne Holdings Ltd., is currently appealing an assessment by the Minister of National Revenue ("Minister") for the amount of $8,748,783.40 under subsection 215(1) of the Income Tax Act ("Act") on account of the tax payable by a non-resident, as well as a 10% penalty in the amount of $8,74,878.43 under subsection 227(8) of the Act for failing to deduct or withhold that tax (and arrears interest) following a determination by the Minister under the General Anti-Avoidance Rule contained in subsection 245(2) of the Act.
+[2] On May 14, 2004, respondent's counsel conducted an examination for discovery of the appellant's nominee, Mr. Frank Sixt. During the examination, Mr. Sixt commented that there were various documents that he would have consulted during the period relevant to the appeal. Upon request by respondent's counsel for a copy of the documents, counsel for the appellant claimed that they were privileged. Subsequently, appellant's counsel provided the respondent with a list of the documents, identifying the author, recipient, date and brief subject matter. On reviewing this information, the respondent compiled a list of those documents it continued to seek. This list forms Schedule "A" to these reasons.
+[3] The documents, of which there are a number, fall into one of four categories[2]:
+A: documents exchanged between the Appellant's Canadian law firm, Stikeman Elliot, and the law firm of Loyens & Volkmaars:
+[1, 5, 6, 12, 13, 71, 74, 76, 77, 78, 82, 85, 89, 98, 99, 101, 106, 107, 108];
+B: documents exchanged between Stikeman Elliot and third parties:
+[2, 3, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 47, 48, 50, 52, 53, 55, 56, 57, 58, 59, 60, 63, 65, 66, 68, 69, 70, 72, 73, 79, 80, 81, 83, 84, 86, 88, 90, 92, 93, 94, 95, 96, 97, 104, 109, 110, 111, 112, 113];
+C: documents exchanged between Stikeman Elliot and the appellant, or an employee thereof; and documents exchanged among Stikeman Elliot lawyers:
+[4, 25, 51, 61, 62, 64, 67, 75, 91, 103, 105];
+D: correspondence not directly involving a lawyer:
+[7, 8, 39, 49, 54, 87, 100, 102].
+[4] Before canvassing the authorities on solicitor-client privilege, I must address a preliminary issue. Many of the documents involve two corporate entities which, according to ppellant's counsel, are associated with the appellant: Concorde Pacific Developments Ltd. ("Concorde Pacific") and Cheung Kong (Holdings) Ltd. ("Cheng Kong"). The relationship of each of these entities to the appellant is important in determining whether correspondence passing from the appellant's counsel to an employee or officer at one of these entities is privileged. According to counsel for the appellant, the appellant and Concorde Pacific were at all times "controlled", within the meaning of the Act, by Mr. Li Ka-Shing, and were therefore "related" to each other for purposes of the Act by virtue of subparagraph 251(2)(c)(i). [These corporations are sometimes referred to as the "Li Group"] Appellant's counsel also submitted that "Cheung Kong is a Hong Kong public company of which Mr. Li owned approximately 35% of the issued and outstanding shares, giving him de facto control of Cheung Kong since the remaining shares were widely held". Finally, counsel for the appellant advised that, "[i]n effect, the senior officers and employees of these companies were regarded as employees of the "Li Group", rather than employees of a particular entity or entities within that group".
+[5] I am not persuaded that either Concorde Pacific or Cheung Kong should be treated, in effect, as the appellant. The appellant has failed to satisfy me that the companies were sufficiently intertwined as to warrant overriding the fact that they were separate corporate entities. Accordingly, the employees and officers of Concorde Pacific and Cheung Kong cannot be considered to be employees or officers of the appellant for the purposes of solicitor-client privilege: see Mutual Life Assurance Co. of Canada(Applicant) v. The Deputy Attorney General of Canada (Respondent), 88 DTC 6512 ("Mutual Life"), where it was held, based on documentary evidence, that there was a very close relationship between Mutual Life and its wholly-owned subsidiary.
+Solicitor-Client Privilege
+[6] "Solicitor-client privilege" is defined in subsection 232(1) of the Act and
+means the right, if any, that a person has in a superior court in the province where the matter arises to refuse to disclose an oral or documentary communication on the ground that the communication is one passing between the person and the person's lawyer in professional confidence, except that for the purposes of this section an accounting record of a lawyer, including any supporting voucher or cheque, shall be deemed not to be such a communication.
+[7] Generally speaking, there are two branches of solicitor-client privilege: litigation privilege and legal advice privilege. The former protects communications between the solicitor, client or third parties made in the course of existing or contemplated litigation while the latter protects all communications between a solicitor and client and third parties that directly relate to the seeking, formulating or giving of legal advice.
+[8] As stated by J. Heneghen in Belgravia Investments Ltd. v. R, 2002 DTC 7133 ("Belgravia Investments"), at para 42:
+The hallmark of the solicitor-client relationship is confidentiality. The solicitor-client privilege applies to those communications, oral and written, made in the context of that relationship and for the purpose of obtaining legal advice.
+[9] In Buffalo v. Canada (C.A), [1995] 2 F.C. 762 (QL) (sub nom. Samson Indian Nation & Band v. Canada), J.J.A. Macguigan and Decary held, at para 8, that:
+...it is not necessary that the communication specifically request or offer advice, as long as it can be placed within the continuum of communication in which the solicitor tenders advice; it is not confined to telling the client the law and it includes advice as to what should be done in the relevant legal context.
+[10] Significantly, the party asserting the privilege carries the evidentiary burden. To quote again the words of J. Heneghen in Belgravia Investments:
+The party asserting the privilege carries the evidentiary burden. The Applicants must show, on a balance of probabilities, that the documents in question are a communication between a solicitor and client that involves the seeking or giving of legal advice, and that the parties intend to be confidential.[3]
+Category A Documents
+[11] These are documents that were passed between Stikeman Elliot and the law firm of Loyens & Volkmaars, both of which were acting for the appellant. The
+following statement, made by J. Saunders in Mutual Life, at page 6512, deals with a similar situation:
+Most of the documents are communications and working papers of Ontario lawyers. Many are communications with U.S. persons and a few with persons in Canada outside of Ontario. Most deal with Ontario or Canadian law, or both, but in some documents there are references to the law or to a legal problem in jurisdictions outside of Ontario. In most of the latter cases, local counsel are also involved. The executives of Mutual Life apparently looked to their Ontario lawyers to advise on and supervise the legal matters of the company wherever they occurred. This is a common situation in a business which is involved in international operations. It would, in my opinion, be unduly restrictive if the privilege were to be confined to communications of Ontario lawyers involving only Canadian and Ontario law and the cases cited do not support such a restriction. (See United States of America v. Mammoth Oil Company (1925), 56 O.L.R. 635; Morrison-Knudsen Co. Inc. et al. v. British Columbia Hydro and Power Authority, supra; and Gould et al. v. Lumonics Research Ltd. (1981), 59 C.P.R. (2d) 60.)
+[12] As was the case in Mutual Life, the appellant here is a large, global enterprise; its activities were not confined to any one jurisdiction, and so it was necessary for it to employ multiple law firms. Based on the above principle, the communications between those law firms-all documents in category A-are privileged.
+Category B Documents
+[13] These are documents that were exchanged between Stikeman Elliot and third parties (i.e., Concorde Pacific and Cheung Kong, as well as accounting firms, bankers, etc.). The circumstances in which communiqué passed between a client's lawyer and accountant attract privilege were considered by President Jackett (as he then was) in Susan Hosiery Limited v. Minister of National Revenue, 69 DTC 5278, where he held, at page 5283:
+(a) that no communication, statement or other material made or prepared by an accountant as such for a business man falls within the privilege unless it was prepared by the accountant as a result of a request by the business man's lawyer to be used in connection with litigation, existing or apprehended; and
+(b) that, where an accountant is used as a representative, or one of a group of representatives, for the purpose of placing a factual situation or a problem before a lawyer to obtain legal advice or legal assistance, the fact that he is an accountant, or that he uses his knowledge and skill as an accountant in carrying out such task, does not make the communications that he makes, or participates in making, as such a representative, any the less communications from the principal, who is the client, to the lawyer; and similarly, communications received by such a representative from a lawyer whose advice has been so sought are none the less communications from the lawyer to the client.
+[14] As for communications between lawyers and other third parties, it is well-established law that these will be privileged only where the third party is found to be an agent of the lawyer or client, or where the lawyer requests the third party's assistance in respect of real or contemplated litigation, as in the case of an expert witness. J. Sopinka, S.N. Lederman, and A.W. Bryant, The Law of Evidence in Canada (1999) ("The Law of Evidence in Canada") states as follows, at para 14.71:
+A lawyer, in the ordinary course of his or her practice, utilizes employees such as articling students, law clerks and secretaries. Communication to such agents for the purpose of facilitating the obtaining of legal advice is equally protected. The same can be said about the client's agents, so long as they are employed as his or her agents for the purpose of obtaining legal advice. That is so, notwithstanding that the agent may add something to the communication as a product of his or her own skill. [...] In Goodman & Carr v. Minister of National Revenue[4], an accountant's opinion was sent to the client's lawyer at the client's request. It was held not to be privileged because the agent was not an agent for the client seeking legal advice, but was really offering his own opinion. Because these communications through agents are not normally made in a litigious atmosphere, this situation must be distinguished from the case where a third party is retained to obtain facts or to make a report to assist the client or his or her solicitor in litigation.
+[15] Based on the above, only document number 97 is privileged in this category.
+Category C Documents
+[16] This category consists of two types of documents: those exchanged between Stikeman Elliot and the Appellant, or an employee/officer thereof; and those exchanged among Stikeman Elliot lawyers. All such documents are privileged if they involve the seeking, giving, or discussion of legal advice. Two additional issues arise, however, which are particular to this class of documents:
+a) at the relevant time, Mr. Shaw was both counsel at Stikeman Elliot and a director of the Appellant. In what capacity was Mr. Shaw acting as regards the documents involving him?
+b) what is the scope of solicitor-client privilege in respect of a large corporation with numerous officers and employees?
+Mr. Shaw
+[17] A similar situation is discussed in The Law of Evidence in Canada (1999), at para 14.72:
+In Presswood v. International Chemalloy Corp., an inspector appointed pursuant to the Ontario Business Corporations Act had wide powers of examination of the company's affairs. However, the company claimed privileged from examination for certain documents that were in the possession of the company's solicitor, who was also a director of the corporation. The company argued that the particular provision of the Ontario Business Corporations Act did not override the privilege for communications between a solicitor and client. The Court recognized the fact that the company solicitor in this case was also a director and stated that any work done for the employer in a capacity other than that of solicitor could not be the subject of any legal professional privilege. Bearing this in mind, the Court held that the company could claim privilege for any particular letter, document or record in the files of the solicitor/director. Any disputes as to whether the privilege applied to a particular document were to be referred to the Master. Thus, the character of the activity carried on by the individual in question must be scrutinized to determine its nature. If the solicitor has information as a result of communications in his or her professional capacity as a lawyer, privilege will attach, but not otherwise.
+[18] The principle was expressed concisely by J. Saunders in Mutual Life, at page 6513:
+[...] The communications are privileged if they concern the employee's function as a lawyer and are not privileged if the lawyer is performing a business or other function. [...]
+[19] Upon review of the relevant case law and of the documents involving Mr. Shaw, I am satisfied that all were made in respect of Mr. Shaw's role as legal counsel.
+Scope of Privilege regarding Employees
+[20] The Law of Evidence in Canada states as follows, at para 14.74
+In Canada, there has been broad protection for confidential communications emanating from an employee, regardless of the level of his or her position in the corporate hierarchy, provided the objective was to obtain legal advice. Moreover, as long as the statement was made generally in the course of his or her employment, no specific inquiry needed to be made of the subject-matter to ensure that it fell squarely within the scope of his or her duties. For the most part, the issue has been treated by Canadian courts as one coming within the agency theory of privilege; that is, an employee can be engaged by the corporate client to pass on information to solicitors for the purpose of receiving legal advice.[5]
+[21] All of the documents in category C were exchanged among the appellant's lawyers, or between the appellant's solicitors and employees/officers. All involve the discussion, seeking or dissemination of legal advice, and hence, all are privileged.
+Category D Documents
+[22] All of these documents were exchanged amongst third parties, with appellant's counsel receiving a carbon copy of some of the documents. But for document number 102, even where the Appellant's counsel is carbon copied, the documents do not involve the seeking or giving of legal advice. In the result, document number 102 is privileged, the rest are not.
+Costs shall be awarded in the cause.
+Signed at Ottawa, Canada this 3rd day of August, 2005.
+"Gerald J. Rip"
+Rip J.
+SCHEDULE "A"
+Date
+Description
+Subject
+Category
+1.
+February 18, 1993
+letter from D. Weekes to J. Strijkers,
+cc. F. Sixt and R. Durand
+proposed reorganization of Canadian A
+companies owned directly or indirectly by Big
+City
+A
+2.
+April 26, 1993
+fax from D. Weekes to H. Brand (Big
+City), cc F. Sixt, enclosing form of
+directors' resolution
+review of directors' resolution for Big City B
+approving the sale of shares of VHHC
+Holdings Inc.
+B
+3.
+April 29, 1993
+fax from W. Shaw to F. Sixt, cc D.
+Weekes enclosing Shareholder's
+Resolution
+re: continuance of Copthorne Holdings Ltd. B
+under Business Corporations Act (Alberta)
+B
+4.
+May 10, 1993
+fax from W. Shaw to D. Weekes, cc
+F. Sixt
+Copthorne Holdings Ltd./ VHHC Holdings re: C
+continuance and proposed amalgamation
+C
+5.
+May 21, 1993
+fax memo from J. Strikjkers to D.
+Weekes
+Big City Project Corporation B.V. re: tax ruling A
+A
+6.
+May 28, 1993
+fax from D. Weekes to J. Strijkers
+Copthorne Holdings Ltd. shares, subsidiaries,
+assets
+A
+7.
+June 7, 1993
+fax memo from W.Y. Fung to F. Sixt,
+cc to D. Weekes, enclosing 3 pp. of schedules
+Copthorne Holdings Ltd. and VHHC Holdings
+Inc. tax losses/utilization
+D
+8.
+June 7, 1993
+fax from W. Y. Fung to F. Sixt, cc D.
+Weekes
+Copthorne Holdings Ltd. and schedules of tax
+losses/utilization of Copthorne and VHHC
+Holding Inc.
+D
+_
+9.
+July 15, 1993
+letter from D. Weekes to W.Y. Fung, bcc R. Durand, W. Shaw
+Sale of VHHC Holdings Inc. to Big City, copies of closing documents
+B
+10.
+July 15, 1993
+Letter from D. Weekes to W.Y. Fung
+Sale of VHHC to Big City enclosing copies of Closing Documents for Transaction
+B
+11.
+July 15, 1993
+Letter from D. Weekes to W.Y. Fung
+re: sale of VHHC Holdings to Big City, arranging for payment of $1,000.000 to Copthorne Holdings Ltd
+B
+12.
+July 20, 1993
+letter from D. Weekes to J. Strijkers (Loyens & Volkmaars), cc. F. Sixt, W.Y. Fung, K. Watson, R. Durand and Wayne Shaw
+Update re: Copthorne/ VHHC Holdings Inc.
+Reorganization
+A
+13.
+July 20, 1993
+Letter from D. Weekes to J. Strijkers, cc. cc. F. Sixt, W.Y. Fung, K. Watson, R. Durand and Wayne Shaw
+Copthorne Holdings Ltd./ VHHC Holdings Inc. reorganization update on statuts
+A
+14.
+July 21, 1993
+letter from D. Weekes to K. Watson
+Optima and Giltedged corporate
+documentation enclosed
+B
+15.
+August 10, 1993
+letter from F. Sixt to W. Shaw, cc.
+W.Y. Fung, P. Tulloch
+re: Copthorne Holdings Ltd. re: CIBC loans
+and pledge of COIL common shares.
+B
+16.
+August 24, 1993
+memo from W.Y. Fung to W. Shaw
+enclosing financial statement for
+December 31, 1992 year end of
+Copthorne Holdings Ltd. VHHC
+Holdings Inc., Li's Investment Co.
+Ltd. and Grand Realty Ltd., debt
+information
+B
+17.
+September 29, 1993
+fax from D. Kam to W. Shaw
+Copthorne Holdings Ltd. Conversion rate re:
+shares of COIL, draft financial statements.
+B
+18.
+September 30, 1993
+fax from W. Shaw to B. Straughn
+(E & Y Barbados) with enclosure
+Copthorne Holdings Ltd. Subscription for
+shares in COIL
+B
+19.
+September 30, 1993
+fax from W. Shaw to B. Straughn cc
+F. Sixt, W.Y. Fung, R. Chan
+Copthorne Holdings Ltd./ COIL Share
+subscription form (attached)
+B
+20.
+November 17, 1993
+letter from W. Shaw to F. Sixt, cc R.
+Durand and D. Weekes
+Copthorne 1993 reorganization outstanding
+share certificates, current corporate
+information sheets for Copthorne and VHHC
+Holdings Inc., directors' resolution re: Big City
+enclosed
+B
+21.
+December 1, 1993
+letter from W. Shaw to F. Sixt with
+enclosures cc W.Y. Fung and D.
+Weekes, bcc R. Durand
+Proposed amalgamation of Copthorne
+Holdings Ltd., VHHC Holdings Inc., Grand
+and Li's enclosing directors' and
+shareholders' resolutions
+B
+22.
+December 2, 1993
+letter from W. Shaw to H. Brand, cc
+F. Sixth with enclosures
+Shareholders' Resolutions re: Amalgamation
+B
+23.
+December 3, 1993
+fax from W. Shaw to F. Sixt
+Proposed Copthorne amalgamation share
+terms (attached), proposed amendments,
+continuation documents, valuations
+B
+24.
+December 9, 1993
+fax from W. Shaw to R.T.K. Li
+Amalgamation documents must be signed by year-end.
+B
+25.
+December 16, 1993
+letter from W.Y. Fung to W. Shaw
+with enclosures
+financial statements of amalgamating co.'s
+and directors resolutions for Grand and Li's
+C
+26.
+December 17, 1993
+fax from W. Shaw to F. Sixt
+continuance of Grand/Li's return of
+Resolutions
+B
+27.
+December 24, 1993
+fax from W. Shaw to F. Sixt
+signing of Amalgamation Agreement
+B
+28.
+December 28, 1993
+fax from F. Sixt to W. Shaw with
+enclosures
+resolutions of Copthorne Holdings Ltd.,
+VHHC Holdings Inc., Grand, Li's signed in
+H.K.
+B
+29.
+December 29, 1993
+fax from W. Shaw to W.Y. Fung
+enclosing director and shareholder
+resolution of Grand and Li's
+Copthorne/VHHC Holdings Inc./ Grand/ Li's amalgamation
+B
+30.
+December 29, 1993
+fax from W. Shaw to H. Brand (Big
+City) with enclosures
+Copthorne Holdings Ltd./ VHHC Holdings
+Inc./ Grand Realty Ltd. and Li's Investment
+Co. Ltd. enclosing Directors' approval and
+shareholders resolutions (Copthorne Holdings
+Ltd., VHHC Holdings Inc.), reference to draft
+Amalgamation agreement changes
+B
+31.
+December 31, 1993
+letter from W. Shaw to F. Sixt
+Copthorne Holdings Ltd. et al amalgamation.
+B
+32.
+December 31, 1993
+letter from W. Shaw to F. Sixt
+Copthorne et al amalgamation, enclosing
+copy of Amalgamation Agreement (with
+Changes from previous draft.
+B
+33.
+January 7, 1994
+fax from W. Shaw to W.Y. Fung
+post amalgamation organizational minutes
+(copy attached) also enclosed updated
+Copthorne Corporate information sheet
+B
+34.
+January 21, 1994
+letter from W. Shaw to F. Sixt
+Copthorne Holdings Ltd. amalgamation,
+enclosing post amalgamation minutes and
+various share certificates and updated
+corporate information sheet
+B
+35.
+February 14, 1994
+fax from W. Shaw to F. Sixt, cc W.Y.
+Fung, M. Allen, D. Weekes with
+enclosures
+Copthorne Holdings Ltd. post amalgamation
+follow up enclosing minutes, indebtedness
+schedule, financial statements, amended pp 4
+and 5 of minutes, draft letter re: pledge and
+guarantees
+B
+36.
+February 17, 1994
+fax from W. Shaw to F. Sixt, cc D.
+Weekes, D. Gillis
+Amalgamation - copy of Record Book
+B
+37.
+July 21, 1994
+fax from K. Watson to D. Weekes -
+11 pages
+Copthorne Holdings Ltd. and VHHC Holdings
+Inc. combined loss position and loss position
+under various scenarios.
+B
+38.
+August 23, 1994
+fax from W.Y. Fung to W. Shaw
+amalgamation documents and share capital
+of Grand Realty Ltd. and Li's Investment Co.
+Ltd.
+B
+39.
+September 7, 1994
+letter from K. Watson to W.Y. Fung,
+cc R. Durand, D. Weekes
+reorganization documents, schedules
+D
+40.
+September 19, 1994
+fax from W.Y. Fung to W. Shaw
+Copthorne Holdings Ltd. documents for
+amendments to amalgamation agreement
+B
+41.
+September 28, 1994
+fax from Wayne Shaw to W.Y. Fung
+cc R. Durand and A. Pinkney with
+enclosures
+Copthorne Reorganization - enclosing
+corporate information sheets and related
+issues.
+B
+42.
+September 29, 1994
+fax from W.Y. Fung to W. Shaw
+Copthorne Holdings Ltd. shareholder
+information for Li's and Grand's attaching
+valuation calculation sheet for these two
+companies
+B
+43.
+September 29, 1994
+fax from Wayne Shaw to W.Y. Fung
+Copthorne Holdings Ltd. update of
+amalgamation agreement
+B
+44.
+October 4, 1994
+fax from W. Shaw to F. Sixt
+Copthorne Holdings Ltd. errors in
+shareholdings enclosing documents to update
+these errors
+B
+45.
+October 4, 1994
+memo from W. Shaw to W.Y Fung,
+D. Weekes, cc. F. Sixt
+Copthorne Holdings Ltd. update enclosing
+proposed documents to update corporate
+records
+B
+46.
+October 11, 1994
+letter from W. Shaw to F. Sixt, cc
+W.Y. Fung, bcc D. Weekes
+Copthorne Holdings Ltd. post amalgamation
+updates enclosing resolution and amending
+agreement to the amalgamation agreement and copy of letter to Big City
+B
+47.
+November 2, 1994
+memo from R. Durand to J. Smith,
+B. Arrindell and M. Mahabir cc D.
+Weekes and K. Watson.
+Proposed transactions for Li Family
+Corporations.
+B
+48.
+November 14, 1994
+letter from K. Watson to R. Durand
+Giltedged Investments Ltd. and Optima
+Holdings Limited with enclosure of draft letter
+to Revenue Canada re: continuance in
+Alberta pre 1993.
+B
+49.
+November 18, 1994
+letters from F. Sixt to R. Sng (Copthorne Overseas Investment Limited) cc E. Pau, J. Li, S. Chui, W.Y. Fung, R. Durand, D. Weekes, A. Pinkney, K. Watson
+transfer of COIL's assets, business and undertaking to new company
+D
+50.
+November 28, 1994
+memo from D. Weekes to B. Straughn
+Huskey Companies - Agendas, revisions to same, refers to COIL
+B
+51.
+December 1, 1994
+fax from A. Pinkney to R. Durand, D. Weekes and W. Shaw, cc Husky Oil Legal Department, Michael Allen, Karen Watson
+draft Copthorne Holdiings Ltd. Restructuring Closing Agenda
+C
+52.
+December 1, 1994
+fax from K. Watson to D. Weekes
+with enclosure
+Copthorne re: restructuring and promissory
+notes, draft letter to F. Sixt (enclosed).
+B
+53.
+December 1, 1994
+fax from D. Weekes to B. Arrindell with enclosures.
+Draft opinions with respect to the proposed transaction re: Copthorne.
+B
+54.
+December 2, 1994
+letter from K. Watson to F. Sixt cc W.Y. Fung, R. Durand, A. Pinkney, D. Weekes.
+Copthorne transactions re: restructuring and promissory notes.
+D
+55.
+December 8, 1994
+letter from W. Shaw to F. Sixt
+Copthorne Holdings Ltd. Resolutions and documents re: reorganization
+B
+56.
+December 8, 1994
+letter from W. Shaw to F. Sixt, cc. W.Y. Fung, D. Weekes, A. Pinkney, bcc R. Durand, P. Botter-Martini
+Copthorne Holdings Ltd. Reorganization enclosing various resolutions and documents for signature, timing of matters
+B
+57.
+December 8, 1994
+letter from W. Shaw to F.Sixt
+reorganization and time draft pages of Amalgamation agreement
+B
+58.
+December 8, 1994
+letter from A. Pinkney to M. Vlokland
+with enclosures, cc D. Weekes.
+Big City Project Corporation B.V. and Asfield
+B.V. and draft resolutions.
+B
+59.
+December 9, 1994
+fax from W. Shaw to F. Sixt with
+enclosures
+Share terms, returning shares certificates as
+part of amalgamation
+B
+60.
+December 9, 1994
+fax from B. Arrindell to D. Weekes
+with enclosure
+Copthorne Holdings Ltd., VHHC Investments
+Inc., Copthorne Overseas Investment Ltd.,
+L.F. Investments (Barbados) Ltd., revised
+draft opinion letter.
+B
+61.
+December 12, 1994
+fax from W. Shaw to W.Y. Fung, cc
+D. Weekes, A. Pinkney
+Giltedged and Optima year end statements
+and incorrect date, statutory declaration
+(drafts attached) and swearing affidavits
+C
+62.
+December 12, 1994
+fax from A. Pinkney to W. Shaw, cc
+R. Durand, D. Weekes and K.
+Watson
+draft closing Agendas
+C
+63.
+December 12, 1994
+Letter from A. Pinkney to W.Y. Fung
+with enclosures
+re: Copthorne Holdings Ltd. Reorganization,
+enclosing letter from W. Shaw to F. Sixt dated
+December 8, 2004, copy of closing agenda
+and various resolutions of directors.
+B
+64.
+December 12, 1994
+fax from W. Shaw to W.Y. Fung, cc
+D. Weekes, A. Pinkney.
+re: Giltedged and Optima Minutes, draft
+statutory declarations
+C
+65.
+December 12, 1994
+letter from D. Weekes to B. Arrindell,
+cc R. Durand, K. Watson with
+attachments.
+Copthorne draft opinions.
+B
+66.
+December 13, 1994
+fax from W. Shaw to W.Y. Fung with
+enclosure
+updated verion of s. 3.1 Amalgamation Agreement and updated version of para. 4.4.2 of Amalco Share Terms
+B
+67.
+December 13, 1994
+Memo from A. Pinkney to W. Y.
+Fung
+T2062 Applications
+C
+68.
+December 13, 1994
+Draft Barbados tax opinion letter
+from Ernst & Young to D. Weekes.
+B
+69.
+December 13, 1994
+fax from Ulla Ballard to D. Weekes,
+R. Durand with enclosure.
+letter to P.C. Koh, cc W.Y. Fung, R. Durand, D. Weekes, A. Pinkney re: draft letter to Calgary District Taxation Office from Copthorne Holdings Ltd.
+B
+70.
+December 13, 1994
+fax from D. Weekes to K. Watson
+with enclosure.
+Draft Barbados tax implications opinion re: proposed reorganization
+B
+71.
+December 13, 1994
+memo from H. Decleir to D.
+Weekes.
+Netherlands tax issues.
+A
+72.
+December 14, 1994
+letter from Ernst & Young to D.
+Weekes
+opinion re: Barbados tax implications of a
+proposed reorganization involving CHL,
+VHHCI, COIL and LFI
+B
+73.
+December 14, 1994
+fax from B. Arrindell to D. Weekes
+with enclosure.
+Draft opinion letter.
+B
+74.
+December 14, 1994
+fax from H. Decleir to D. Weekes, cc
+B. Bosman with enclosure.
+Netherlands tax issues draft memorandum
+with mark-up.
+A
+75.
+December 14, 1994
+letter from A. Pinkney to R. Sng, cc
+D. Weekes
+re: sale by Copthorne Overseas Investment
+Limited of its business as a going concern to
+Copthorne International Investment Ltd.
+enclosing draft asset purchase agreement.
+C
+76.
+December 15, 1994
+fax from H. Decleir to D. Weekes, cc
+B. Bosman.
+Netherlands tax issues.
+A
+77.
+December 15, 1994
+fax from B. Bosman to D. Weekes,
+cc H. Decleir.
+Big City Project B.V. and participating
+exemption for Copthorne Holdings Ltd.
+A
+78.
+December 15, 1994
+letter from D. Weekes to H. Decleir
+Netherlands tax issues revised memorandum.
+A
+79.
+December 16, 1994
+fax from W. Shaw to F. Sixt
+updated Amalgamation Agreement, updated
+Amalco Share Terms, share certificates for
+Copthorne Holdings Ltd., VHHCI, Giltedged
+and Optima
+B
+80.
+December 16, 1994
+fax from W. Shaw to W.Y. Fung cc.
+D. Weekes, A. Pinkney, P. Botter-
+Martini
+re: Copthorne Amalgamation update of
+Section 3.1 re: Shares
+B
+81.
+December 16, 1994
+fax from W. Shaw to W.Y. Fung cc.
+D. Weekes, A. Pinkney, P. Botter-
+Martini
+Copthorne amalgamation share conversion.
+B
+82.
+December 16, 1994
+letter from D. Weekes to H. Decleir.
+Participating exemption issue and
+amendments to memorandum.
+A
+83.
+December 16, 1994
+letter from D. Weekes to B. Arrindell.
+Copthorne opinion.
+B
+84.
+December 19, 1994
+letter from B. Moorhouse (Husky) to
+W. Shaw with enclosures
+continuing COIL to,Alberta as of Jan. 3, 1995
+enclosing Consent to Act as Director,
+Resolutions of Directors dated Jan. 3, 1995
+B
+85.
+December 19, 1994
+letter from D. Weekes to J. Strijkers
+with enclosures
+re: Big City Project Corporation B.V.
+enclosing Financial statements of VHHC
+Holdings Inc and Copthorne Holdings Ltd.
+September 30, 1994 financial statements and
+amalgamation of Copthorne and VHHCH.
+A
+86.
+December 20, 1994
+memo from W. Y. Fung to A.
+Pinkney
+re: Asset Value for Giltedged and Optima as
+at November 30, 1994, Dividend due by
+Copthorne to 327645 BC Ltd. with financial
+statements for Giltedged and Optima as at
+November 30, 1994 attached, also attached
+Long River Holdings Board Resolution,
+Giltedged Board Resolution and Optima
+Board Resolution
+B
+87.
+December 20, 1994
+fax from W. Shaw to W.Y. Fung, cc
+R. Durand, D. Weekes, and A.
+Pinkney
+re: Copthorne restructuring with enclosure of
+memo to W.Y. Fung from K. Watson, cc. R.
+Durand, D. Weekes, A. Pinkney (Financial
+Information required to complete CHL
+restructuring)
+D
+88.
+December 20, 1994
+fax from W.Y. Fung to W. Shaw
+re: Copthorne Reorganization, returns and
+statements for Giltedged and Optima and
+Affidavits
+B
+89.
+December 20, 1994
+fax from D. Weekes to J. Strijkers
+with enclosures
+financial statements for Copthorne Holdings
+Ltd. for various taxation years.
+A
+90.
+December 20, 1994
+fax from W.Y. Fung to A. Pinkney.
+with enclosures
+enclosing memorandum and financial
+statements re: Giltedged, Optima, board
+resolutions re: same, dividend due by
+Copthorne to 327645 B.C. Ltd.
+B
+91.
+December 20, 1994
+letter to R. Sng and R. Chew from A.
+Pinkney with enclosure
+Sale by Copthorne Overseas Investment
+Limited of its business is a going concern to
+Copthorne International Investment Limited,
+enclosing draft Asset Purchase Agreement
+C
+92.
+December 21, 1994
+fax from W. Shaw to F. Sixt with
+enclosure
+resolutions, post amalgamation numbers to
+be finalized, fax from W.Y. Fung to W. Shaw
+dated Dec. 20/94 re: Affidavits, financial
+statements
+B
+93.
+December 21, 1994
+fax from W. Shaw to F. Sixt, cc D.
+Weekes and A. Pinkney.
+Copthorne Holdings Ltd. Reorganization with
+attachments of directors resolutions.
+B
+94.
+December 21, 1994
+fax from D. Weekes to K. Watson
+with attachment.
+Final form of declaration of trust between
+Copthorne Holdings Ltd. and L.F.
+Investments (Barbados) Ltd. faxed by A.
+Pinkney to M. Mahabir, cc D. Weekes.
+B
+95.
+December 22, 1994
+memo from K. Watson to file, cc R.
+Durand and D. Weekes
+Copthorne Holdings Ltd. Restructuring,
+transfer of preferred shares of CHL by VHHCI
+to a subsidiary
+B
+96.
+December 22, 1994
+memo from K. Watson to Copthorne
+Holding Ltd. file, cc. R. Durand and
+D. Weekes
+Copthorne Holdings Ltd. restructuring - COIL,
+foreign exchange losses, dividend, puc
+reduction, ACB, exempt surplus.
+B
+97.
+December 22, 1994
+fax from D. Weekes to K. Watson
+COIL statements for 1990 through 1993 and
+Dutch tax inspectors ruling enclosing copy of
+letter from B. Westendorp to D. Weekes re:
+Big City Project Corporation
+B
+98.
+December 22, 1994
+fax from J. Strijkers to D. Weekes
+Big City Project Corporation B.V., Asfield
+B.V., nominal paid up share capital of
+Copthorne, intended restructuring and Asfield
+reorganization.
+A
+99.
+December 22, 1994
+fax from D. Weekes to B.
+Westendorp and B. Bosman
+Copthorne Overseas Investment Limited's
+audited financial statements for 1990, 1991,
+1992 and 1993.
+A
+100.
+December 23, 1994
+Letter from COIL to CitiBank, N.A.,
+bcc R. Sng, S. Chui, A. Pinkney,
+W.Y. Fun.
+re: transfer of full balance in account to
+Copthorne International Investment Limited
+D
+101.
+December 23, 1994
+memo from R. Durand to B.
+Westendorp with enclosures
+Dutch tax inspector, letter refers to COIL and
+active business attaching copies of a letter
+from Revenue Canada dated April 29, 1992
+A
+102.
+December 24, 1994
+letter from F. Sixt to R. Sng, S. Chui,
+R. Chew, bcc R. Durand and A.
+Pinkney with enclosure.
+Copthorne Holdings Ltd. Copthorne Overseas
+Investment Ltd. and active business of
+Copthorne Overseas Investment Ltd.
+enclosing letter dated Dec. 23, 1994 from B.
+Westendorp to D. Weekes re: ruling request.
+D
+103.
+December 27, 1994
+fax from R. Chew to R. Durand, A.
+Pinkney, cc F. Sixt.
+COIL-CIIL transfer enclosing schedules on
+agreements and employees leases and a
+listing of fixed assets and net book values.
+C
+104.
+December 28, 1994
+fax from A. Pinkney to W.Y. Fung,
+R. Durand, K. Watson
+sale by COIL to CIIL
+B
+105.
+December 28, 1994
+letter from A. Pinkney to R. Sng/R.
+Chew (COIL) enclosing draft
+agreement
+sale of COIL of its business to CIIL
+C
+106.
+December 28, 1994
+fax memo from H. Decleir to D.
+Weekes and R. Durand, cc B.
+Westendorp, B. Bosman and J.
+Strijkers.
+Netherlands tax issues.
+A
+107.
+December 28, 1994
+Fax from B. Westendorp to R.
+Durand.
+Big City Project Corporation ruling.
+A
+108.
+December 28, 1994
+Fax from B. Westendorp to R.
+Durand.
+Big City Project Corporation B.V. participation
+exemption.
+A
+109.
+December 29, 1994
+fax from W. Shaw to F. Sixt's
+secretary with enclosures
+Enclosures: fax to M. Hse, cc F. Sixt from W.
+Shaw re: opinion, Certificate of Amalgamation
+and Husky Class B Shares and opinion letter
+of the same date re: amalgamation
+B
+110.
+December 29, 1994
+fax from K. Watson to R. Durand
+and D. Weekes with enclosure.
+December 28, 1994 memo from W.Y. Fung to
+K. Watson attaching revised financial
+statements for the period ended December
+20, 1994 for Copthorne Holdings Ltd., VHHC
+Investments Inc., Giltedged Investments
+Limited and Optima Holdings Limited along
+with copy of fax from Ernst & Young
+(Barbados) to COIL re: dividend.
+B
+111.
+December 29, 1994
+fax from W. Shaw to M. Hse, cc to
+F. Sixt
+Copthorne Holdings Ltd. VHHC Investments
+Inc., Giltedged Investments Limited and
+Optima Holdings Limited opinion re:
+upcoming amalgamation.
+B
+112.
+December 30, 1994
+fax from W. Shaw to M. Hse, cc to
+F. Sixt
+Copthorne Holdings Ltd. VHHCI, Giltedged
+and Optima response to questions re: opinion
+re: amalgamation.
+B
+113.
+December 31, 1994
+fax from W. Shaw to F. Sixt's
+secretary with enclosures
+fax from M. Hse to W. Shaw, cc F. Sixt J.
+Konii (Baker & Mckenzie), J. Rinino dated
+Dec. 30/ 94 re: Copthorne Holdings Ltd.,
+VHHCI, Giltedged and Optima - additional
+information required re: legal opinion
+B
+CITATION: 2005TCC491
+COURT FILE NO.: 2002-1316(IT)G
+STYLE OF CAUSE: Copthorne Holdings Ltd. v. Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 6, 2005
+REASONS FOR ORDER BY: The Honourable Justice Gerald J. Rip
+DATE OF ORDER: August 3, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Richard Pound
+Counsel for the Respondent:
+Franco Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard Pound
+Firm: Stikeman, Elliott
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] All numbers correspond to those on Schedule "A" to the Reasons for Order.
+[2] The numbers correspond to those on "Schedule A".
+[3] Paragraph 47.
+[4] [1968] 2 O.R. 814.
+[5] Page 744, para 14.74.

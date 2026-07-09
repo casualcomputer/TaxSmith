@@ -1,0 +1,210 @@
+---
+title: "Fortin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72959/index.do"
+last_modified: "2014-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 209"
+citation2: ""
+neutral_citation: "2014 TCC 209"
+decision_date: "2014-06-27"
+language: "en"
+item_id: "72959"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5192
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:40:22.461000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b26053fa48b237151108143373bff2c79a28021374eb2dc568e5f757600bdb31"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fortin v. The Queen
+
+- Citation: 2014 TCC 209
+- Decision date: 2014-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5192, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fortin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-27
+Neutral citation
+2014 TCC 209
+File numbers
+2013-4725(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-4725(IT)I
+BETWEEN:
+Christian Fortin,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 29, 2014, at Ottawa, Ontario
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Andrew Miller
+Gabrielle White
+JUDGMENT
+The appeal is allowed, and the determination is referred back to the Minister of National Revenue for redetermination on the basis that the appellant was entitled to half of the Canada Child Tax Benefit for the August 2011 to March 2012 period (2010 base taxation year), in accordance with sections 122.6, 122.61 and 122.62 of the Income Tax Act.
+Signed at Ottawa, Canada, this 27th day of June 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 14th day of January 2016
+Johanna Kratz, Translator
+Citation: 2014 TCC 209
+Date: 20140627
+Docket: 2013-4725(IT)I
+BETWEEN:
+Christian Fortin,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing a determination by the Minister of National Revenue (Minister) denying him half of the Canada Child Tax Benefit (CCTB) for the July 2011 to March 2012 period (2010 base taxation year) in accordance with sections 122.6, 122.61 and 122.62 of the Income Tax Act (ITA). To establish this determination, the Minister relied on the facts found at paragraph 6 of the Reply to the Notice of Appeal (Reply), as reproduced below:
+[translation]
+6. In establishing the redetermination and confirming it, the Minister relied on the following facts:
+(a) the appellant and Laurie-Ève Bergeron (hereafter the mother) are the parents of A-M, born in 2007, and R., born in 2009 (hereafter the children); admitted
+(b) the parents do not live together; admitted
+(c) in August 2012, the appellant filed an application to receive the CCTB for the period starting on July 1, 2011, alleging that he and the mother had shared custody of the children since this date; admitted
+(d) on August 28, 2012, the Minister sent the appellant and the mother a questionnaire to complete and a request for supporting documents to establish entitlement to the CCTB for the period starting in July 2011; admitted
+(e) on October 12, 2012, in response to the documents provided by the appellant and the mother, the Minister informed the appellant in writing that he had established that the children were living with him and the mother on a rotating basis and that both were considered to be primarily responsible for the care and upbringing of the children; admitted
+(f) on December 11, 2012, the Minister informed the mother in writing that he had established that the children were living with her and the appellant on a rotating basis and that both were considered to be primarily responsible for the care and upbringing of the children; admitted
+(g) on or around February 4, 2013, the mother served the Minister with a Notice of Objection against the redetermination established regarding the CCTB for the 2010 base taxation year, alleging that the shared custody did not begin until April 2012;
+(h) on July 5, 2013, on the basis of the documents provided by the mother at the objection stage, the Minister determined that she was the only primary caregiver responsible for the care and upbringing of the children from July 2011 to March 2012.
+[2] I heard the testimony of the appellant and the mother of his children, Laurie-Ève Bergeron. The appellant stated that he had asked his sister, Jacinte Fortin, who housed him during the period at issue, to come and testify. However, she informed him on the morning of the hearing that she could not come to court because she had to take one of her daughters to the emergency room. In the circumstances, I accepted a sworn statement from Ms. Fortin dated May 28, 2014 (Exhibit A‑6).[1]
+[3] It appears from the evidence that the appellant and Ms. Bergeron separated at Ms. Bergeron’s request and that he left the family home on May 1, 2011. The children were very young at the time. Lacking financial resources, the appellant went to live with his sister.
+[4] The appellant is a paramedic for his regional paramedics’ cooperative. He stated that he works regularly, part-time.
+[5] According to Ms. Fortin’s sworn statement, the appellant lived with her full-time from May 1, 2011, to June 30, 2012. He occupied the whole basement of her house, which includes two bedrooms, a bathroom, a living room and a separate entrance. The appellant stated that he paid his sister $550.00 a month for room and board.
+[6] The appellant submits that, as of June 2011, he was sharing the custody of his two daughters. He produced a table (Exhibit A‑3) indicating for each day of the period at issue (1) his work schedule; (2) the children’s daycare attendance (based on a document provided by the daycare and recording actual weekly attendance with service, filed as Exhibit A‑7); (3) the authorized entries using his smart card when he had gone to pick up his children at daycare (Exhibit A‑8); the days on which he had taken the children to the town pool (based on his access card); and the weeknight evenings on which he had looked after the children while their mother was teaching. The appellant stated that the daycare entries using the access card were only an indicator as he would often pick up the children when they were in the yard of the daycare, at which point there was no need to swipe the access card. Ms. Bergeron recognized this. She did, however, state that the daycare had a strict policy of asking parents to swipe their access cards regularly, for billing purposes.
+[7] The appellant explained that he found out his work schedule in April of each year and that he generally worked eight days in a row, followed by five days’ off. When he worked, he would start very early in the morning (5:30 a.m.) and finish early in the afternoon or later (up to 4:30 p.m.). He stated that, on his days off, he did not take the children to daycare, but kept them at home with him. According to his table, he looked after the children from 14 to 17 days a month.
+[8] This was contradicted by Ms. Bergeron, who submits that the appellant had custody of the children two or three days during every fortnight. She even adduced a calendar (Exhibits I‑4 to I‑5) for the period at issue, which indicates that, except for August 2011, the children had been with her most of the time.
+[9] It appears from her testimony that she kept the family home, with the appellant’s agreement that the children would live there. She admitted, however, that, when the appellant was looking after the girls, he would take them to his sister’s home.
+[10] Ms. Bergeron also submitted that she was the person who dealt with all the girls’ medical appointments. The youngest was born with a kidney problem and requires special care. The appellant submits that since he has studied medicine and become a paramedic, he knows how to care for his children and that, apart from maybe one occasion, he had been to all their medical appointments.
+[11] He adduced into evidence a document from the practice of his family physician confirming two visits, on September 8, 2011, and April 11, 2012 (Exhibit A‑4).
+[12] Ms. Bergeron filed a statement of payments and reimbursements she had received from the Régie de l’assurance maladie du Québec for medical appointments with the family physician in Ontario that she had attended with her children (Exhibit I‑6). This document lists the appointments during the period at issue, including one on September 8, 2011. She submits that she went to these appointments alone with the children and that the appellant was not present, which the appellant categorically denies.
+[13] The appellant submits that he also accompanied his daughters to gymnastics and swimming classes.
+[14] On March 26, 2012, Ms. Bergeron filed a motion for sole custody and support from the appellant. The motion resulted in an agreement on October 30, 2012 (Exhibits A‑1 and A‑2). According to the agreement, an interlocutory judgment had been rendered on April 27, 2012, granting physical custody to Ms. Bergeron and access to the appellant six days out of fourteen (which means that 42% of the children’s time is spent with the appellant). The agreement also indicated that the two parents had, in fact, shared custody of the children on a 43%/57% basis (Exhibit A‑1, page 6, para. 41). As of May 1, 2013, custody was shared on a 50%/50% basis.
+Legislation
+[15] To be entitled to the CCTB, one has to be an eligible individual. Eligible individual is defined as follows in section 122.6 of the ITA:
+Subdivision a.1 – Canada Child Tax Benefit
+122.6 Definitions — In this subdivision,
+. . .
+eligible individual in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is a parent of the qualified dependant who
+(i) is the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant and who is not a shared-custody parent in respect of the qualified dependant, or
+(ii) is a shared-custody parent in respect of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purposes of this definition,
+(f) where the qualified dependant resides with the dependant’s female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[16] An eligible individual may therefore be the shared-custody parent of a dependent. This expression is defined as follows in section 122.6:
+shared-custody parent in respect of a qualified dependant at a particular time means, where the presumption referred to in paragraph (f) of the definition eligible individual does not apply in respect of the qualified dependant, an individual who is one of the two parents of the qualified dependant who
+(a) are not at that time cohabitating spouses or common- law partners of each other,
+(b) reside with the qualified dependant on an equal or near equal basis, and
+(c) primarily fulfil the responsibility for the care and upbringing of the qualified dependant when residing with the qualified dependant, as determined in consideration of prescribed factors.
+[17] Qualified dependent is defined as follows:
+qualified dependant at any time means a person who at that time
+(a) has not attained the age of 18 years,
+(b) is not a person in respect of whom an amount was deducted under paragraph (a) of the description of B in subsection 118(1) in computing the tax payable under this Part by the person’s spouse or common-law partner for the base taxation year in relation to the month that includes that time, and
+(c) is not a person in respect of whom a special allowance under the Children’s Special Allowances Act is payable for the month that includes that time;
+[18] Section 6302 of the Income Tax Regulations (Regulations) sets out a list of factors to be considered when determining what constitutes care and upbringing of a qualified dependant.
+6302 6302. Factors — For the purposes of paragraph (h) of the definition eligible individual in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[19] Subsection 122.62(1) of the ITA sets a time limit for applying to the Minister.
+122.62(1) Eligible individuals — For the purposes of this subdivision, a person may be considered to be an eligible individual in respect of a particular qualified dependant at the beginning of a month only if the person has, no later than 11 months after the end of the month, filed with the Minister a notice in prescribed form containing prescribed information.
+Analysis
+[20] The issue here is whether the appellant fulfilled the conditions required to be a shared-custody parent during the period at issue. The appellant has to establish that he resided with the children on an equal or near equal basis and that, when the children were residing with him, he primarily fulfilled the responsibility for their care and upbringing according to the factors set out in section 6302 of the Regulations, as reproduced above.
+[21] Having considered the evidence, and in light of the agreement concluded between the parents on October 30, 2012 (Exhibits A‑1 and A‑2, para. 41), it seems that the parents regularly shared custody of the children on a 43%/57% basis. The agreement postdates the period at issue. However, the appellant’s testimony leads me to believe that he devoted a great deal of his free time to his children. This seems to be corroborated by the sworn statement of his sister, who indicated that the appellant was sharing custody, rotating every two to four days. It is true that the May 28, 2014, statement (Exhibit A‑6) indicates that the parents had been sharing custody since June 2011, while the statement provided to the respondent on September 17, 2012 (Exhibit I‑1) speaks of June 2012. Even though we were unfortunately not able to hear Ms. Fortin’s testimony, I am inclined to believe the appellant’s version that this was a typographical error. Indeed, Ms. Fortin states in the remainder of her statement that the appellant resided at her house from May 1, 2011, to June 30, 2012, occupying the basement, which has two bedrooms that housed the appellant and his children. It would be surprising if she had discussed the appellant’s shared custody outside the period he was living with her.
+[22] Even though the mother seems to suggest that the children were residing with her most of the time, the appellant’s testimony clearly indicates that he does not share this view.
+[23] The mother did not satisfy me that she had the children in her care for over 57% of the time.
+[24] In Brady v. The Queen, 2012 TCC 240, 2012 CarswellNat 5792, Justice Campbell of this Court analyzed the issue of the shared-custody parent residing with the qualified dependent on an equal or near equal basis. In her opinion, the line should not be drawn so strictly at a 50/50 split. She concluded that a 55/45 percentage split in sharing the custody of children should be deemed to be near equal.
+[25] In Van Boekel v. The Queen, 2013 TCC 132, 2013 CarswellNat 1945, Justice Woods of this Court added that it is also important to look at the circumstances of the case.
+[26] The appellant, with the help of the table he filed as Exhibit A‑3, explained that his work gave him several days off a month, a fact the children’s mother does not actually contradict. According to this table, with the exception of January 2012, he was off work 43% of the time every month, which, he stated, allowed him to stay with the children. In the months that he worked longer hours, he would pick up his daughters at daycare.
+[27] In my opinion, the appellant has established, on a balance of probabilities, that he was sharing custody of his children on a near equal basis, as defined in Brady.
+[28] Moreover, I am also satisfied that the appellant was primarily fulfilling the responsibility for the care and upbringing of his children when they were residing with him, in accordance with the factors set out in section 6302 of the Regulations.
+[29] I would allow the appeal and refer the determination back to the Minister for redetermination on the basis that the appellant was entitled to half of the CCTB for the period of August 2011 (July 2011 being excluded from the application of subsection 122.62(1) of the ITA since the appellant admitted that he filed his application in August 2012, that is, 11 months after the end of July 2011) to March 2012 (2010 base taxation year).
+Signed at Ottawa, Canada, this 27th day of June 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 14th day of January 2016
+Johanna Kratz, Translator
+CITATION:
+2014 TCC 209
+COURT FILE NO.:
+2013-4725(IT)I
+STYLE OF CAUSE:
+Christian Fortin v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+May 29, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+June 27, 2014
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Andrew Miller
+Gabrielle White
+COUNSEL OF RECORD:
+For the appellant:
+Name
+Firm:
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] The respondent adduced another sworn statement from Jacinte Fortin and her spouse, dated September 17, 2012, establishing the same facts, except that here, Ms. Fortin states that the appellant had been sharing custody since June 2012 (Exhibit I‑1) instead of June 2011, as indicated in her sworn statement dated May 28, 2014 (Exhibit A‑6). According to the appellant, this was a typographical error.

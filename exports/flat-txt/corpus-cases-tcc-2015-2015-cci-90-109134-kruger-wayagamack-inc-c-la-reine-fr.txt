@@ -1,0 +1,554 @@
+Title: Kruger Wayagamack Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109134/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-90-109134-kruger-wayagamack-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-04-14
+
+# Kruger Wayagamack Inc. c. La Reine
+
+- Citation: 2015 CCI 90
+- Decision date: 2015-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2861, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kruger Wayagamack Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-14
+Référence neutre
+2015 CCI 90
+Numéro de dossier
+2011-1739(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1739(IT)G
+ENTRE :
+KRUGER WAYAGAMACK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 10, 11 et 12 septembre 2013 et le 29 octobre 2013,
+à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocats de l’appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Vincent Dionne
+Avocats de l’intimée :
+Me Marie-Andrée Legault
+Me Philippe Dupuis
+JUGEMENT
+L’appel relatif aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004, 2005 et 2006 est rejeté, conformément aux motifs du jugement ci-joints. Les dépens sont adjugés à l’intimée.
+Si elles ne parviennent pas à s’entendre sur les dépens avant le 1er juin 2015 inclusivement, les parties doivent communiquer avec le greffe et indiquer si elles souhaitent présenter des observations par écrit ou dans le cadre d’une audience, et les dispositions nécessaires seront alors prises.
+Signé à Ottawa (Ontario), ce 14e jour d’avril 2015.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 24e jour d’août 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 90
+Date : 20150414
+Dossier : 2011-1739(IT)G
+ENTRE :
+KRUGER WAYAGAMACK INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction [1] L’appelante exploite l’usine de papier Wayagamack à Trois‑Rivières, (Québec). À l’époque où ses propriétaires en ont fait l’acquisition, en 2001, l’usine était menacée de fermeture à moins que l’on investisse des fonds et des efforts considérables dans sa modernisation.
+[2] Kruger Inc. (Kruger) et SGF Rexfor Inc. (la SGF), une entreprise appartenant au gouvernement du Québec, ont convenu de s’engager à faire l’acquisition de l’appelante et à investir dans la modernisation de l’usine dans le but de redresser sa situation[1].
+[3] La modernisation elle-même a été un succès. Les économies recherchées ont été réalisées et la combinaison de produits s’est améliorée. Un facteur, indépendant de la volonté des parties, a toutefois eu une incidence marquée sur le résultat : en planifiant la modernisation, les parties avaient présumé que le dollar canadien connaîtrait une hausse assez importante par rapport au dollar américain; malheureusement, non seulement a-t-il atteint le niveau présumé, mais il l’a nettement dépassé
+[4] Cette hausse du dollar s’est soldée par des pertes pour l’appelante et elle est à l’origine des questions qui sont en litige dans le présent appel.
+[5] Il est admis que l’appelante a exécuté des activités de recherche scientifique et de développement expérimental et que, de ce fait, elle a eu droit à des crédits d’impôt à l’investissement[2].
+[6] En raison de l’absence de profits et, par conséquent, d’impôts sur le revenu qui lui auraient permis de déduire les crédits, l’appelante a demandé des crédits d’impôt à l’investissement remboursables. Le ministre du Revenu national (le ministre) a établi sa cotisation en prenant pour base que l’appelante n’avait droit à aucun crédit remboursable.
+[7] Selon l’intimée, l’appelante est associée à Kruger au sens de l’article 256 de la Loi de l’impôt sur le revenu (la Loi).
+[8] Les parties conviennent que, si les deux sociétés sont associées, l’appelante n’a pas droit aux crédits remboursables. À l’inverse, si elles ne le sont pas, elles conviennent que l’appelante y a droit.
+[9] Par ailleurs, la question de savoir si les deux sociétés sont associées dépend de l’une des deux questions suivantes :
+a) si Kruger exerce un contrôle de jure ou de facto sur l’appelante;
+b) si Kruger exerce un contrôle du fait de l’application de certaines dispositions déterminatives de l’article 256 de la Loi.
+[10] Le litige repose entièrement sur la question du contrôle. L’une des principales questions qui se posent est la suivante : quel est le degré de contrôle nécessaire pour constituer un « contrôle effectif »? Compte tenu des faits énoncés ci-après, il sera nécessaire de décider si un contrôle opérationnel ordinaire équivaut à un « contrôle effectif » lorsqu’une entité n’est pas en mesure de prendre des décisions stratégiques, comme nous le verrons plus loin.
+[11] Je remercie les avocats.
+Le contrôle de jure ou de facto [12] Examinons tout d’abord la question de savoir si Kruger exerçait un contrôle de jure ou de facto sur l’appelante.
+Les principes juridiques applicables – Le contrôle de jure ou de facto [13] Les dispositions législatives applicables sont l’alinéa 256(1)a) et le paragraphe 256(5.1) de la Loi :
+256(1) Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+a) l’une contrôle l’autre, directement ou indirectement, de quelque manière que ce soit;
+[…]
+(5.1) Pour l’application de la présente loi, lorsque l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit, » est utilisée, une société est considérée comme ainsi contrôlée par une autre société […] — appelé « entité dominante » […] si, à ce moment, l’entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société. Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat […] de gestion ou d’une convention semblable […] dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle-ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[14] Il est bien établi que le « contrôle » d’une société signifie le contrôle de jure. La décision clé sur ce point est celle que la Cour suprême du Canada a rendue dans l’affaire Duha Printers (Western) Ltd. c. Canada[3].
+[15] Dans cette décision, la Cour suprême a énoncé ce qui constitue un « contrôle » et les aspects qu’il faut prendre en considération pour déterminer si une personne « contrôle » la société. S’exprimant au nom de la Cour suprême, le juge Iacobucci a écrit :
+70 Comme je l’ai affirmé, le but essentiel du critère de Buckerfield’s est de déterminer où est situé le contrôle véritable de la société. À mon sens, il est impossible d’affirmer qu’un actionnaire a acquis ce contrôle du seul fait qu’il est en mesure d’élire la majorité des membres du conseil d’administration, alors que ce conseil n’a peut‑être même pas réellement le pouvoir de prendre une seule décision importante au nom de la société. Le contrôle de jure d’une société par un actionnaire dépend d’une manière très réelle du contrôle exercé par la majorité des administrateurs dont l’élection est contrôlée par cet actionnaire. Quand un acte constitutif comme une CUA [convention unanime des actionnaires] prévoit que le pouvoir légal de gérer la société est conféré à une autre personne qu’au conseil d’administration, le contrôle de jure véritable change nécessairement de mains et le tribunal doit reconnaître cette réalité.
+[…]
+72 L’appelante a raison de souligner que le fait de reconnaître que la CUA influe sur le contrôle de jure élude la question de savoir dans quelle mesure les administrateurs doivent être dépouillés de leurs pouvoirs pour qu’il soit possible de conclure avec certitude que l’actionnaire détenant la majorité des voix n’a plus le contrôle de jure. Assurément, l’existence d’une CUA n’implique pas nécessairement la perte du contrôle de jure. Mais je ne saurais convenir qu’il n’y a aucun motif rationnel de décider dans quels cas un actionnaire majoritaire perd le contrôle de jure en raison d’une restriction des pouvoirs des administrateurs. Comme je vais l’expliquer plus loin, cette question se résume à une question de fait dont la réponse dépend de la mesure dans laquelle les pouvoirs des administrateurs sont restreints, de la mesure dans laquelle ces pouvoirs ont été transmis aux actionnaires et de la mesure dans laquelle les actionnaires majoritaires sont ainsi en mesure de contrôler l’exercice des pouvoirs de gestion.
+[…]
+81 […] Les dispositions particulières de la CUA doivent plutôt modifier ce contrôle en droit. Mais dans quelle mesure ces pouvoirs doivent‑ils être compromis pour qu’il soit possible d’affirmer que l’actionnaire majoritaire a perdu le contrôle de jure de la société?
+82 À mon avis, il est possible de déterminer si le contrôle de jure a été perdu par suite d’une CUA en se demandant si cette CUA laisse à l’actionnaire majoritaire quelque moyen d’exercer un contrôle effectif sur les affaires et les destinées de la société, d’une manière analogue ou équivalente au pouvoir d’élire la majorité des membres du conseil d’administration (tel que prévu par le critère de Buckerfield’s). […]
+83 À mon avis, les dispositions de la convention en cause dans le présent pourvoi n’ont pas entraîné, en réalité, la perte du contrôle de jure par Marr’s. Même si elle constituait sûrement une restriction des pouvoirs des administrateurs de gérer l’entreprise et les affaires internes de Duha no2, l’incapacité d’émettre de nouvelles actions sans le consentement unanime des actionnaires n’était pas une restriction grave au point de pouvoir dire que Marr’s avait perdu la capacité d’exercer un contrôle effectif sur les affaires et les destinées de la société grâce à sa participation majoritaire. […]
+[…]
+85 Il peut être utile, à ce stade, de résumer les principes du droit des sociétés et du droit fiscal étudiés dans le présent pourvoi, étant donné leur importance. Ces principes sont les suivants :
+(1) Le paragraphe 111(5) de la Loi de l’impôt sur le revenu vise le contrôle de jure, et non pas le contrôle de facto.
+(2) Le critère général du contrôle de jure a été énoncé dans l’arrêt Buckerfield’s, précité : il s’agit de décider si l’actionnaire majoritaire exerce un « contrôle effectif » sur « les affaires et les destinées » de la société, contrôle qui ressort de la « propriété d’un nombre d’actions conférant la majorité des voix pour l’élection du conseil d’administration ».
+(3) Pour décider s’il y a « contrôle effectif », il faut prendre en considération ce qui suit :
+a) la loi qui régit la société;
+b) le registre des actionnaires de la société;
+c) toute restriction, particulière ou exceptionnelle, imposée soit au pouvoir de l’actionnaire majoritaire de contrôler l’élection du conseil, soit au pouvoir du conseil de gérer l’entreprise et les affaires internes de la société, qui ressort de l’un ou l’autre des documents suivants :
+(i) des actes constitutifs de la société;
+(ii) d’une convention unanime des actionnaires.
+(4) Les documents autres que le registre des actionnaires, les actes constitutifs et les conventions unanimes des actionnaires ne doivent généralement pas être pris en considération à cette fin.
+(5) Lorsqu’il existe une restriction du genre visé à l’alinéa 3c), l’actionnaire majoritaire peut tout de même exercer le contrôle de jure, à moins qu’il ne dispose d’aucun moyen d’exercer un « contrôle effectif » sur les affaires et les destinées de la société, d’une manière analogue ou équivalente au critère de Buckerfield’s.
+[16] En conséquence, pour déterminer s’il s’exerce un contrôle de jure ou non :
+a) on détermine si une personne exerce un « contrôle effectif » sur la société[4] à un moment donné dans l’année[5].
+b) pour ce faire, on ne peut prendre en considération que la propriété des actions (le registre des actionnaires), la loi qui régit la société, les actes constitutifs de la société et une convention unanime des actionnaires.
+[17] L’alinéa 256(1)a) englobe à la fois le contrôle de facto et le contrôle de jure[6].
+[18] Le contrôle de jure et le contrôle de facto visent tous deux à répondre à la question de savoir si une personne exerce un contrôle effectif. La différence est la suivante.
+[19] Pour déterminer si c’est un contrôle de jure qui est exercé, il suffit d’examiner les documents décrits au point (3) du paragraphe 85 de l’arrêt Duha, précité, et de prendre en compte n’importe quel aspect pertinent qui y figure.
+[20] Pour déterminer si c’est un contrôle de facto qui est exercé, il n’y a pas de limite à ce qui peut être examiné et, là encore, n’importe quel aspect pertinent peut être pris en compte.
+[21] Comme l’a déclaré la Cour suprême du Canada, il s’agit en fin de compte d’une question de fait, qui repose sur la mesure dans laquelle un actionnaire est « en mesure de contrôler l’exercice des pouvoirs de gestion ».
+[22] Pour les besoins du présent appel, il est utile de penser qu’il existe un éventail de possibilités allant d’un contrôle complet à un contrôle entièrement partagé. Un actionnaire unique qui peut nommer les membres du conseil d’administration exerce un contrôle complet en ce sens que, dans les limites juridiques auxquelles la société est soumise, il est entièrement loisible à cet actionnaire unique de décider ce que la société devrait faire. Un actionnaire qui est capable d’élire la majorité des membres du conseil d’administration et qui n’est soumis à aucune contrainte, hormis celles qui découlent du droit général, exerce un contrôle effectif.
+[23] Cette même majorité exercera quand même un contrôle effectif, même si certaines ententes entre actionnaires, comme c’était le cas dans l’affaire Duha, imposent un certain nombre de contraintes supplémentaires, mais restreintes.
+[24] À l’autre extrémité de l’éventail de possibilités, s’il y a, disons, deux actionnaires qui, aux termes d’une convention unanime des actionnaires, ont convenu que les décisions des administrateurs seront toutes prises à l’unanimité, ou que les décisions des administrateurs seront prises à l’unanimité par les actionnaires, dans un tel cas, même si l’un des actionnaires a une majorité des actions et des administrateurs, il n’aura pas un contrôle effectif[7].
+[25] Quel degré de contrôle une personne doit-elle exercer pour avoir un contrôle effectif? La réponse à cette question ne peut pas être donnée sous la forme d’une formule précise, mais la juge Lamarre‑Proulx a utilisé la définition utile qui suit, dans la décision Plomberie J.C. Langlois Inc. c La Reine[8] :
+39 Je trouve intéressante la définition de « contrôle » donnée dans le Vocabulaire juridique, 2e édition, Gérard Cornu, PUF 1990 à la page 207 :
+• 3 Maîtrise exercée sur la gestion d'une entreprise ou d'un organisme; pouvoir assurant à son détenteur une influence dominante dans la direction ou l'orientation des destinées d'un groupe, d'une société, etc.
+[26] Adaptée au contexte dont il est question en l’espèce, la question est la suivante : Kruger exerce-t-elle une influence dominante dans la gestion ou la direction de l’appelante ou une influence dominante dans l’orientation de ses destinées?
+[27] Plus particulièrement dans les circonstances de l’espèce, cette influence dominante doit-elle aller au-delà du contrôle opérationnel des activités et de la gestion ordinaires du projet de modernisation et inclure la possibilité de prendre des décisions plus stratégiques, comme établir le budget et changer des plans d’affaires? Autrement dit, est-il possible d’exercer une influence dominante si l’on ne peut pas opérer un changement de cap important?
+[28] Dans l’arrêt Duha[9], il est évident que le contrôle effectif s’entend du contrôle que détient normalement une majorité des membres du conseil d’administration[10]. Une personne qui n’est pas en mesure de prendre des décisions stratégiques qui changeront nettement le cours général des activités d’une entreprise, ne dispose donc pas, selon moi, du contrôle effectif que détient habituellement une majorité d’administrateurs[11].
+Les faits et l’analyse – Le contrôle [29] L’appelante est une société privée sous contrôle canadien, constituée en vertu de la Loi canadienne sur les sociétés par actions. Kruger détient 51 % des actions, et la SGF les 49 % restants. Kruger peut élire trois administrateurs sur cinq.
+[30] Kruger est un important fabricant de papier pour publication, de papier à usage domestique ainsi que d’autres produits dérivés du bois.
+[31] La SGF était une société d’État du gouvernement du Québec. Son mandat consistait à « réaliser, en collaboration avec des partenaires et à des conditions de rentabilité normales, des projets de développement économique, notamment dans le secteur industriel, en conformité avec la politique de développement économique du gouvernement[12]. »
+[32] Il ressort clairement de la preuve que la SGF ne prévoyait pas ou ne voulait pas exploiter l’usine. Cependant, à cause de son mandat, elle n’était pas juste un investisseur financier; la rentabilité n’était pas son seul objectif.
+[33] L’usine était auparavant la propriété d’Abitibi Consolidated Inc. Avant la vente, et à la suite d’un examen stratégique, Abitibi avait décidé de fermer certaines usines, dont la Wayagamack. Si celle-ci avait fermé ses portes, de nombreux emplois auraient été perdus.
+[34] Même si le prix d’achat de l’usine était relativement peu élevé, il était admis qu’il allait falloir investir une somme considérable pour la rendre rentable. Kruger et la SGF prévoyaient que l’usine allait avoir besoin d’une nouvelle machine à papier, d’améliorations à son installation de fabrication de pâte et d’une modernisation de l’infrastructure tout entière. Elles estimaient le coût du projet de modernisation à une somme d’environ 400 millions de dollars.
+[35] Ni Kruger ni la SGF n’étaient prêtes à se lancer seules dans une telle entreprise. Kruger venait tout juste de faire une importante acquisition et n’était pas disposée à ajouter à son bilan une autre dépense d’envergure. Quant à la SGF, il n’était pas conforme à sa pratique habituelle d’acheter seule des entreprises. Elle travaillait plutôt avec des partenaires dans l’industrie en question.
+[36] Au départ, Kruger et la SGF ont envisagé de créer une coentreprise à parts égales. Par la suite, elles ont décidé que l’entreprise tout entière serait perçue comme plus crédible si Kruger possédait 51 % du projet et la SGF les 49 % restants[13].
+[37] Dans leurs états financiers, Kruger et la SGF qualifient toutes deux l’appelante de coentreprise[14].
+[38] À elles deux, toutefois, Kruger et la SGF avaient les fonds et l’expertise industrielle nécessaires pour se lancer dans le projet. Elles ont donc constitué l’appelante en février 2001 dans le but d’acheter, de moderniser et d’exploiter l’usine Wayagamack.
+[39] L’appelante a fait l’achat de l’usine en mars 2001.
+[40] Au moment de l’achat, l’appelante et ses actionnaires ont également conclu un certain nombre d’ententes qui allaient dicter la manière dont l’usine et le projet de modernisation seraient régis et exploités, la plus importante étant la convention unanime des actionnaires du 8 mai 2001[15].
+[41] Pour pouvoir profiter des connaissances industrielles et du réseau d’entreprises de Kruger, l’appelante a également retenu les services de cette dernière dans le cadre d’une convention de services de gestion[16] ainsi que d’une convention de commercialisation et de représentation des ventes. L’appelante et Kruger ont également conclu une convention de vente de pâte kraft.
+[42] Détenant 51 % des actions et la capacité d’élire une majorité des membres du conseil d’administration, Kruger semble être capable de contrôler l’appelante, en l’absence d’autres considérations.
+[43] Mais il y a d’autres considérations, dont la plus importante est la convention unanime des actionnaires.
+[44] Comme la convention unanime des actionnaires est d’une importance cruciale pour la présente affaire, voici quelques-unes de ses principales dispositions :
+1. DÉFINITIONS ET RÈGLES D’INTERPRÉTATION
+[...]
+1.1.1.3 « Actionnaires » désigne CANADA INC ET SGF REXFOR de même que tout Cessionnaire autorisé et toute autre personne physique ou morale qui pourrait devenir détenteur d’Actions, conformément aux dispositions des présentes, et qui intervient à la présente Convention;
+[…]
+1.1.1.11 « Contrôle ou contrôlé(e) » désigne, quand il s’agit d’une personne morale, le fait pour une ou des personnes de détenir, directement ou indirectement, des valeurs mobilières de cette personne morale lui (leur) permettant d’exercer plus de 50 % des droits de vote afférents à l’ensemble des valeurs mobilières comportant droit de vote en circulation de cette personne morale et lui (leur) permettant d’élire la majorité des administrateurs de celle-ci;
+[…]
+1.1.1.15 « Convention de service de gestion » désigne la convention de service de gestion conclue entre la Société et KRUGER en date des présentes;
+[…]
+1.1.1.16 « Convention de commercialisation » désigne la convention de commercialisation conclue entre la Société et KRUGER en date des présentes;
+[…]
+1.1.1.17 « Convention de vente de pâte kraft » désigne la convention de vente de pâte kraft conclue entre la Société et KRUGER en date des présentes;¸
+[…]
+1.1.1.26 « Mission » a le sens qui lui est donné à l’article 3;
+[…]
+1.1.1.30 « Politique de dividendes » désigne la politique de dividendes à laquelle réfère l’article 4.10;
+[…]
+1.1.1.34 « Projet » désigne l’acquisition de tous les éléments d’actif corporels et incorporels de l’Usine, son exploitation commerciale à compter de la date des présentes et sa modernisation en vue d’y fabriquer et de vendre annuellement environ 205 000 tonnes métriques de papier couché léger (LWC) et environ 57 000 tonnes métriques de pâte kraft, tel qu’il pourrait être modifié de temps à autre avec l’accord écrit des Actionnaires;
+[…]
+1.1.1.39 « Usine » désigne l’usine de pâte et papier Wayagamack située à Trois-Rivières (Québec) comprenant tous les éléments d’actif corporels et incorporels servant à son exploitation;
+[…]
+1.5.1.5 Les Parties conviennent de poser tous autres actes et de signer tous autres documents que l’une d’elles pourrait raisonnablement demander aux fins de donner pleinement effet à la Convention.
+[...]
+2. ENGAGEMENT GÉNÉRAL ET PORTE-FORT
+2.1.1 Les Parties conviennent, réciproquement et irrévocablement, de poser tout geste requis et de se gouverner à tous égards de façon à ce que les dispositions de la Convention reçoivent plein effet et, en particulier, les Actionnaires s’engagent à cette fin à exercer (ou faire en sorte que soit exercé) en conséquence le droit de vote afférent aux Actions.
+2.1.2 Chaque Partie convient de ne pas faire indirectement ce qui lui est interdit de faire directement aux termes de la Convention, à défaut de quoi toute autre Partie peut exiger l’annulation de l’acte interdit et exercer tout autre recours que lui reconnaît la loi ou la présente Convention. Un porte‑fort sera en défaut aux termes de sa promesse de porte‑fort dans l’un ou l’autre des cas suivants : s’il vote à l’encontre de sa promesse de porte‑fort, s’il s’abstient de voter dans le sens requis par sa promesse de porte-fort, s’il pose un geste à l’encontre de sa promesse de porte‑fort ou s’il s’abstient de poser un geste dans le sens requis par sa promesse de porte‑fort.
+2.1.3 Toute contravention à l’une des dispositions des présentes, sans préjudice à tout autre recours ou remède y prévu ou envisagé par la loi, donnera ouverture aux recours mandatoires et injonctifs, ce à quoi les Parties consentent expressément et irrévocablement.
+3. MISSION DE LA SOCIÉTÉ
+3.1.1 Les Actionnaires reconnaissent avoir investi dans la Société dans le but d’exploiter par son entremise une entreprise dont la mission consiste à réaliser lePprojet.
+4. RÉGIE DE LA SOCIÉTÉ
+4.1 Conseil d’administration
+4.1.1 Les Actionnaires conviennent que le nombre de membres du Conseil d’administration sera de cinq (5), dont trois (3) seront désignés par KRUGER et deux (2) seront désignés par SGF REXFOR. Les Actionnaires conviennent en outre que parmi les administrateurs qui seront élus, ils désigneront annuellement à tour de rôle un président du Conseil d’administration.[17].
+[...]
+4.2 Assemblées du Conseil d’administration
+4.2.1 Le quorum aux assemblées du Conseil d’administration est constitué de trois (3) administrateurs parmi lesquels on doit obligatoirement compter au moins un (1) représentant désigné par SGF REXFOR. Le quorum ne sera maintenu que si les administrateurs le constituant sont présents à la réunion ou y participent par un moyen technique tel que prévu à l’article 4.2.6 des présentes, en même temps et demeurent présents à la réunion tout au long de celle-ci. Si le quorum n’est pas atteint à la date et à l’heure fixées pour la tenue de l’assemblée, celle-ci doit être ajournée par les administrateurs présents. L’avis de l’assemblée ajournée doit être donné aux administrateurs en fonction au moins dix (10) jours ouvrables ou au moins trois (3) jours ouvrables si l’assemblée initiale avait été convoquée dans un cas d’urgence avant la date à laquelle l’assemblée est ajournée et l’assemblée doit être tenue au même endroit que celui où l’assemblée ajournée devait être initialement tenue. Si à la reprise de l’assemblée, le quorum n’est toujours pas atteint à la date et à l’heure fixées pour la reprise de l’assemblée, celle-ci devra être de nouveau ajournée par les administrateurs présents. L’avis de l’assemblée ajournée doit être donné aux administrateurs en fonction au moins dix (10) jours ouvrables ou au moins deux (2) jours ouvrables si l’assemblée initiale avait été convoquée dans un cas d’urgence avant la date à laquelle l’assemblée est ajournée et l’assemblée devra être tenue à la place d’affaires de la Société à Trois‑Rivières (Québec). Le quorum à cette assemblée, mais uniquement pour celle-ci, sera alors constitué des administrateurs présents à cette assemblée ajournée pourvu qu’ils soient au moins deux (2). Nonobstant les dispositions de l’article 4.2.4, seuls les sujets prévus à l’ordre du jour transmis avant la date prévue pour l’assemblée initiale peuvent être discutés au cours des assemblées ajournées et faire l’objet d’un vote si requis.
+[...]
+4.3 Décisions requérant l’unanimité des administrateurs présents
+4.3.1 Tout acte, décision, résolution ou règlement relatif à la conduite des affaires de la Société ou de toute Filiale ayant pour objet ou effet, direct ou indirect, l’un ou l’autre des sujets suivants doit, pour entrer en vigueur, être adopté ou approuvé en tout temps à l’unanimité des voix exprimées par les membres du Conseil d’administration présents à l’assemblée légalement convoquée pour en délibérer pourvu qu’il y ait quorum ou avoir fait l’objet d’une résolution écrite dûment signée par tous les administrateurs en fonction habiles à voter à l’égard de cette résolution :
+4.3.1.1 l’acquisition d’actions, de parts sociales, d’unités ou d’une partie substantielle des éléments d’actif d’une personne morale, société, société de personnes, société en commandite ou coopérative;
+4.3.1.2 la conclusion de tout emprunt, financement, refinancement, toute émission de débentures, obligations, billets ou autres titres de créance convertible ou non pour un montant supérieur à un million de dollars (1 000 000 $) par exercice financier;
+4.3.1.3 le prêt d’argent et la garantie par la Société ou toute Filiale du paiement de dettes de Tiers ou tout cautionnement.
+4.3.1.4 l’approbation du plan annuel d’affaires et du plan annuel de commercialisation ainsi que toute modification à ceux-ci;
+4.3.1.5 l’approbation du budget d’immobilisations et du budget d’exploitation (opération) annuels, l’approbation de toute modification à ceux-ci, l’approbation de toute dépense faisant partie du budget d’immobilisation dont le montant sur une base individuelle excède un million de dollars (1 000 000 $) et l’approbation de toute dépense d’immobilisations non incluse audit budget;
+4.3.1.6 toute décision relative à la déclaration et au paiement de dividendes non conformes à la Politique de dividendes;
+4.3.1.7 l’embauche et l’établissement de la rémunération de tout cadre, autre que le contrôleur, qui relève directement du directeur général, sur recommandation de KRUGER, ainsi que leur congédiement ou mise à pied autrement que par le directeur général après approbation du conseil d’administration à la majorité simple;
+4.3.1.8 l’embauche, la détermination du mandat et l’établissement de la rémunération du contrôleur[18] ainsi que son congédiement ou sa mise à pied;
+4.3.1.9 l’octroi et le paiement de tout boni, de toute prime, de toute participation aux bénéfices, de même que l’octroi de privilèges spéciaux à l’un quelconque des cadres, y compris l’octroi d’options d’achat d’actions;
+4.3.1.10 la nomination, le cas échéant, du président de la Société;
+4.3.1.11 la rémunération des administrateurs;
+4.3.1.12 la conclusion de tout contrat, entente ou convention hors du cours normal des affaires de la Société ou de toute Filiale;
+4.3.1.13 l’institution, la contestation ou le règlement de toute poursuite judiciaire intentée par la Société ou toute Filiale ou contre elle lorsque le montant réclamé est de cinquante mille dollars (50 000 $) ou plus ou lorsque le total des montants réclamés au cours d’un même exercice financier atteint cinquante mille dollars (50 000 $);
+4.3.1.14 la signature de tout bail d’une durée de plus de deux (2) ans ou d’une durée moindre, mais comportant des engagements pour la Société ou pour toute Filiale de trois cent mille dollars (300 000 $) ou plus au cours d’un même exerce financier;
+4.3.1.15 l’adoption de toute politique de rémunération des employés et de la direction de la Société ou de toute Filiale qui ne se conforme pas à la politique de rémunération des employés et de la direction en vigueur de temps à autre chez KRUGER et toute modification ou remplacement d’une telle politique qui aurait pour effet de faire en sorte qu’elle cesse de se conformer à la politique de rémunération des employés et de la direction chez KRUGER en vigueur de temps à autre; le paiement de toute rémunération aux employés et membres de direction, de la Société ou de toute Filiale dont le montant excède les normes établies dans la politique de rémunération de la Société ou de toute Filiale en vigueur de temps à autre;
+4.3.1.16 la concession de toute licence technologique par la Société ou toute Filiale;
+4.3.1.17 l’adoption ou la modification de toute délégation d’autorité ou de toute résolution bancaire;
+4.3.1.18 la constitution de tout Comité du Conseil d’administration; et
+4.3.1.19 tout acte, décision, résolution, règlement ou autre mesure mentionné à l’article 4.9 relatif aux Filiales qui requiert pour entrer en vigueur le vote affirmatif du représentant de la Société autorisé à voter lors de l’assemblée d’actionnaires de la Filiale concernée.
+[...]
+4.6 Management du Projet
+4.6.1 Les Actionnaires conviennent d’établir leurs exigences en matière de management du Projet sur la base des principes énoncés à l’Annexe B des présentes. Les Actionnaires conviennent en outre qu’un Comité directeur de Projet responsable de l’exécution du plan de management du Projet sera mis sur pied par KRUGER (le « Comité directeur de Projet ») et que le Comité directeur de Projet désignera un chef de Projet.
+4.6.2 SGF REXFOR désignera un représentant qui pourra communiquer directement avec le chef de Projet. Ce représentant aura accès au Comité directeur de Projet, aux minutes d’assemblée dudit Comité et aux rapports mensuels d’avancement des travaux. Ce représentant pourra aussi assister aux réunions du Comité directeur de Projet, aux réunions de chantier, et visiter le site de l’Usine en tout temps pendant la période de réalisation du Projet.
+4.6.3 Tous les rapports de construction devront être transmis de façon régulière par le chef de Projet simultanément au représentant de SGF REXFOR et aux administrateurs de la Société.
+4.6.4 Nonobstant les dispositions de l’article 4.6.1, toutes les décisions majeures reliées à la réalisation du Projet notamment celles mentionnées ci‑après, devront être approuvées par le Conseil d’administration de la Société :
+- toute modification ou affectation de la réserve pour imprévus;
+- toute modification de l’échéancier par secteur du Projet;
+- toute modification de l’étendue ou l’envergure (« Scope ») du Projet; et
+- le budget, lequel est établi par phase et par secteur d’investissement.
+4.7 Directeur général et contrôleur
+4.7.1 Le directeur général sera à l’emploi de KRUGER, mais ses services seront rendus au bénéfice exclusif de la Société. Toutes les modalités reliées aux services qui seront rendus par le directeur général sont régies par la Convention de service de gestion. Toutefois, le choix du directeur général de même que sa rémunération devront être approuvés au préalable par le Conseil d’administration de la Société, KRUGER devra, si elle désire congédier, mettre à pied ou changer le directeur général, en aviser au préalable le Conseil d’administration de la Société et accompagner son avis des motifs à l’appui de sa décision.
+4.7.2 Le contrôleur sera à l’emploi de la Société. Il appartient au Conseil d’administration de déterminer les responsabilités et la rémunération du contrôleur, conformément au mécanisme prévu à l’article 4.3.1.8. Bien que le contrôleur relèvera du directeur général dans ses fonctions quotidiennes, il fera toutefois rapport directement au Conseil d’administration de la situation financière de la Société et du système de contrôle interne qu’il entend mettre en place. Le directeur général ne pourra destituer le contrôleur sans avoir obtenu au préalable l’approbation du Conseil d’administration conformément à l’article 4.3.1.8. Des instructions écrites l’informant de ce qui précède lui seront communiquées par le Conseil d’administration.
+4.7.3 En outre, les descriptions de tâches du contrôleur et du directeur général prévoiront spécifiquement qu’ils ont le devoir et la responsabilité de protéger les intérêts des Actionnaires.
+[...]
+4.9 Décisions unanimes des Actionnaires
+4.9.1 Tout acte, décision, résolution, règlement ou autre mesure relatif à la conduite des affaires de la Société ou de toute Filiale ayant pour objet ou effet, direct ou indirect, l’une des questions suivantes, doit avant d’entrer en vigueur, être adopté ou approuvé en tout temps par tous les Actionnaires :
+4.9.1.1 tout changement important à la Mission de la Société;
+4.9.1.2 la création d’une Filiale et toute décision d’investir sous quelque forme que ce soit dans l’implantation de toute activité permanente ailleurs qu’envisagé au plan d’affaires initial;
+4.9.1.3 toute modification des Statuts ou des règlements, toute adoption ou révocation de règlements et toute modification à la présente Convention;
+4.9.1.4 tout changement dans le capital social autorisé, toute émission d’actions de toute catégorie ou série, toute émission de titres convertibles ou échangeables en actions de toute catégorie ou série, tout achat, rachat ou autre acquisition, échange ou conversion d’actions de toute catégorie ou série, toutes options ou tous octrois d’options de souscription d’actions de toute catégorie ou série ou de titres convertibles ou échangeables en actions de toute catégorie ou série, sauf en ce qui a trait aux émissions d’actions ou de titres convertibles ou échangeables si les droits de préemption prévus à l’article 6 des présentes sont respectés et sauf en ce qui a trait à l’achat ou au rachat d’Actions effectué en conformité avec l’article 8 des présentes;
+4.9.1.5 l’approbation ou l’inscription de tout transfert d’actions du capital social de la Société non conforme aux dispositions de la Convention;
+4.9.1.6 l’affectation des biens de la Société ou de l’une ou l’autre de ses Filiales et en particulier l’octroi, la prorogation ou la prise en charge de toute hypothèque, priorité ou autre charge grevant tout élément d’actif de celles-ci en garantie d’emprunts;
+4.9.1.7 toute modification à la Convention de service de gestion, à la Convention de commercialisation, à la Conventon de vente de pâte kraft ou à la Convention d’assumation et de prêt et toute cession de l’une de celle-ci;
+4.9.1.8 le changement du siège du centre décisionnel ou de la principale place d’affaires de la Société ou d’une Filiale;
+4.9.1.9 la liquidation, la dissolution ou la fusion de la Société ou d’une Filiale;
+4.9.1.10 l’aliénation de l’entreprise, en tout ou en partie, de même que la vente, la location ou l’échange de la totalté ou d’une partie substantielle des biens ou des éléments d’actif de la Société ou d’une Filiale, y compris l’octroi d’une option à cet effet, incluant la vente de droit de propriété intellectuelle;
+4.9.1.11 toute décision de se prévaloir des dispositions de la Loi sur la liquidation des compagnies (Québec), de la Loi sur la faillite et l’insolvabilité (Canada), de la Loi sur les arrangements avec les créanciers des compagnies (Canada) ou de toute autre législation relative à l’insolvabilité ou à la protection des débiteurs;
+4.9.1.12 l’approbation, l’adoption ou la modification des états financiers annuels de la Société ou d’une Filiale, tout changement de la date de fin d’année financière de la Société ou d’une Filiale et toute modification dans les politiques comptables établies ou utilisées par la Société ou par une Filiale dans la préparation de ses états financiers;
+4.9.1.13 la nomination et le remplacement des vérificateurs de la Société ou d’une Filiale, étant entendu que les vérificateurs devront toujours être choisis parmi les cinq (5) plus importants cabinets d’experts‑comptables d’envergure internationale; et
+4.9.1.14 toute décision relative à la signature par la Société ou par une Filiale de conventions, ententes ou contrats, y compris tout amendement, avec une entreprise avec qui elle ne traite pas à distance et, en particulier, avec un Actionnaire, avec une personne qui est Liée ou associée avec l’un ou l’autre des Actionnaires ou avec un administrateur, dirigeant ou employé de ces personnes.
+4.9.2 Les dispositions qui précèdent doivent être interprétées, conformément aux dispositions de l’article 146 de la Loi, comme un transfert de pouvoirs des administrateurs sur ces questions particulières en faveur des Actionnaires qui assumeront alors les pouvoirs et les obligations en découlant. Aucun Actionnaire n’aura à justifier son refus d’approuver ou non la mesure qui lui est soumise.
+4.10 Politique de dividendes
+4.10.1 Les parties s’engagent à appliquer la politique de dividendes décrite ci‑dessous tant que cette politique n’aura pas été modifiée conformément aux dispositions de la Convention.
+4.10.2 Les administrateurs ne pourront déclarer de dividende sur les actions du capital social de la Société, de quelque catégorie que ce soit, que si toutes les conditions suivantes sont respectées :
+4.10.2.1 la Société, rencontre les tests financiers prévus par la Loi; et
+4.10.2.2 la Société respecte les ratios financiers prévus à toute Convention de Crédit et tous les tests financiers et autres restrictions contenus à toute Convention d’aide financière.
+4.10.3 Lorsque toutes les conditions mentionnées ci-dessus seront respectées, les administrateurs devront obligatoirement, à la demande de l’un ou l’autre des Actionnaires, déclarer, lors d’une assemblée du Conseil d’administration ou par résolution signée par tous les administrateurs en fonction, un dividende égal au montant correspondant à celui indiqué par l’Actionnaire dans sa demande, sous réserve que le dividende ne pourra dépasser soixante‑quinze pour cent (75 %) du montant établi selon la formule suivante :
+le total des fonds disponibles pour versement d’un dividende calculé en accord avec les dispositions prévues à l’article 4.10.2 :
+MOINS :
+• les fonds requis pour couvrir toute perte d’exploitation (opérations) prévue selon le budget d’exploitation (opérations) adopté pour l’exercice financier courant;
+• les fonds requis pour les projets d’immobilisations acceptés dans le budget d’immobilisations pour l’exerce financier courant.
+4.10.4 Malgré ce qui précède, le montant des dividendes déclarés et payés ne pourra avoir pour effet, direct ou indirect, de placer la Société en défaut en vertu de toute Convention de Crédit ou en vertu de toute Convention d’aide financière après que tel dividende ait été versé, étant entendu que tous les ratios et tests financiers devront être respectés en tout temps.
+4.10.5 Rien de ce qui précède ne doit être interprété comme une restriction au pouvoir des administrateurs de verser des dividendes plus importants s’ils jugent que la situation financière de la Société le permet, le tout sous réserve des dispositions de toute Convention de Crédit et de toute Convention d’aide financière.
+[...]
+ANNEXE B
+MANAGEMENT DE PROJET
+[...]
+Le Management de Projet sera assuré par KRUGER INC.
+[...]
+Le Comité directeur de Projet devra:
+- Établir le Plan de management de Projet et le présenter au Conseil d’administration;
+[...]
+- Soumettre à l’approbation du Conseil d’administration :
+- Toute modification ou affectation de la réserve pour imprévus;
+- Toute modification de l’échéancier par secteur du Projet;
+- Toute modification de l’étendue ou l’envergure (« Scope ») du Projet;
+- Le budget, lequel est établi par phase et par secteur d’investissement.
+[...]
+ANNEXE D
+CONDITIONS ADDITIONNELLES À SATISFAIRE
+AU PLUS TARD LE 30 SEPTEMBRE 2001
+[...]
+9. L’approbation des coûts du Projet et du plan d’affaires par les Actionnaires[19].
+10. La constitution du Comité directeur du Projet.
+[...]
+[45] Si l’on examine les dispositions qui précèdent, il existe un éventail assez large de restrictions quant aux décisions que peuvent prendre les trois administrateurs nommés par Kruger. Il s’agit là du résultat de la liste des décisions qui requièrent l’accord unanime des administrateurs ou l’accord unanime des actionnaires, conformément aux clauses 4.3 et 4.9 de la convention[20].
+[46] Je souhaite faire ressortir un certain nombre de dispositions qui limitent la capacité de Kruger d’exercer un contrôle, et ce, que ces dispositions requièrent un vote unanime des administrateurs ou un vote unanime des actionnaires.
+[47] La société a pour mission d’exécuter le « projet », soit l’acquisition et la modernisation de l’usine ainsi que la production annuelle d’environ 205 000 tonnes métriques de papier couché léger et 57 000 tonnes métriques de pâte kraft. Aucun changement important ne peut être apporté à cette mission sans l’accord de Kruger et de la SGF[21].
+[48] Il fallait que le coût et le plan d’affaires du projet soient acceptés par les deux actionnaires assez tôt, avant le 30 septembre 2001 au plus tard[22]. Cette condition particulière était importante; si elle n’était pas remplie, elle conférait à la SGF le droit d’exiger de Kruger qu’elle achète la totalité des actions de l’appelante au prix de la SGF, soit une somme tout juste supérieure à 39 millions de dollars[23]. En fait, cela aurait obligé Kruger à quasi doubler son apport de capital et son risque.
+[49] Les changements à apporter à la portée du projet, aux délais ainsi qu’au budget devaient être soumis au conseil pour approbation[24].
+[50] Le budget d’immobilisations, le budget d’exploitation, toute modification au budget, toute dépense en immobilisations particulière d’un montant de plus d’un million de dollars ainsi que toute dépense en immobilisations non incluse dans le budget devaient être approuvés à l’unanimité par le conseil d’administration. Je signale que, chaque fois que l’unanimité des administrateurs est exigée, il s’agit de celle des administrateurs présents aux réunions.
+[51] Il convient de signaler que, pour que le conseil d’administration ait le quorum, il faut que l’un des administrateurs présents ait été nommé par la SGF[25].
+[52] Le plan d’affaires et le plan de commercialisation annuels, de même que les modifications à y apporter, exigeaient une décision unanime du conseil.
+[53] Les pouvoirs que je viens tout juste de décrire empêchent manifestement de modifier dans une large mesure le projet et le budget convenus au départ, sauf si Kruger et la SGF sont toutes deux d’accord.
+[54] Il doit aussi y avoir unanimité à l’égard des aspects suivants[26] :
+a) toute forme de financement de plus de 1 million de dollars par année;
+b) tout prêt consenti par la société à une tierce partie, ou toute garantie accordée pour une dette de tiers;
+c) embaucher les cadres, ce qui inclut le contrôleur, mais non le directeur général, fixer leur rémunération ou les congédier;
+d) accorder toute forme de prime à un cadre;
+e) la rémunération des administrateurs;
+f) la signature de tout contrat en dehors du cours normal des activités;
+g) le fait d’intenter une poursuite judiciaire, ou de se défendre contre une telle poursuite, si le montant en litige est de 50 000 $ ou plus, ou si le montant total réclamé dans une année dépasse 50 000 $;
+h) la signature d’un bail d’une durée de plus de deux ans, ou assortie d’un loyer de plus de 300 000 $ au cours d’un même exercice financier;
+i) approuver des contrats conclus avec des parties ayant un lien de dépendance avec la société, y compris des contrats avec des actionnaires, toute personne associée à un actionnaire et aux administrateurs, ainsi qu’approuver des contrats en dehors du cours normal des activités;
+j) la création d’une filiale quelconque et tout investissement non envisagé dans le plan d’affaires initial;
+k) des modifications aux statuts constitutifs, aux règlements internes ou à la convention unanime des actionnaires;
+l) toute décision d’utiliser des biens de la société en vue de garantir un prêt;
+m) toute modification à la convention de service de gestion, à la convention de vente de papier kraft ou à la convention de commercialisation conclue entre l’appelante ou Kruger;
+n) la liquidation, la dissolution ou la fusion de la société.
+[55] La convention unanime des actionnaires comporte une politique de dividendes qui énonce les circonstances dans lesquelles un dividende peut être versé et qui prévoit par ailleurs qu’un actionnaire peut forcer le paiement d’un dividende si les conditions requises sont remplies; cet actionnaire peut obliger la société à verser un dividende d’un montant n’excédant pas un chiffre calculé au moyen d’une formule. Tout changement par rapport à cette politique exigeait l’unanimité des administrateurs.
+[56] Le directeur général de l’appelante est un employé de Kruger, mais ses services doivent être fournis exclusivement pour l’avantage de la société. Le choix que fait Kruger du directeur général et sa rémunération sont soumis à l’approbation du conseil; cependant, je signale que l’unanimité n’est pas exigée, ce qui veut dire que le choix du directeur général peut être approuvé par les trois administrateurs nommés par Kruger[27].
+[57] L’embauche du contrôleur doit faire l’unanimité et, même si ce dernier relève du directeur général pour ses fonctions ordinaires, il relève directement du conseil pour ce qui est de la situation financière et des contrôles internes de la société.
+[58] Les dispositions que j’ai décrites, ainsi que d’autres figurant dans la convention unanime des actionnaires, requièrent que des décisions clés soient prises à l’unanimité, qu’il s’agisse de celle des administrateurs présents à une réunion du conseil ou de celle des actionnaires. Il doit y avoir unanimité à propos des budgets, du plan d’affaires et de la mission bien précise de la société[28].
+[59] La spécificité de la mission est importante, car tout changement important à cette dernière requiert l’assentiment des deux actionnaires. C’est donc dire qu’un changement important dans la combinaison de produits exigerait leur assentiment[29].
+[60] Il s’agit là de restrictions très importantes quant à la capacité de Kruger de contrôler l’appelante. Kruger ne peut pas prendre de décisions stratégiques qui changeront le cours des activités de l’appelante.
+[61] Cela ne veut pas dire qu’il n’y a pas de décisions importantes que peuvent prendre la majorité des administrateurs nommés par Kruger : toutes les décisions concernant la gestion des activités de production et la gestion du projet de modernisation[30]; toutes les politiques concernant les opérations et la mise en œuvre de la mission peuvent être décidées par une majorité et, de plus, quelques décisions fort importantes, telles que la fixation des paramètres concernant la négociation des conventions collectives, peuvent être décidées par une majorité[31].
+[62] Je conviens avec l’intimée que ce sont là des pouvoirs importants; on pourrait dire de ces derniers qu’ils représentent un contrôle opérationnel. Je conviens également que les deux actionnaires ne sont pas sur un pied d’égalité. Kruger a plus d’influence que la SGF.
+[63] L’intimée est d’avis que les nombreuses dispositions qui requièrent l’unanimité ne sont que des mesures de protection types à l’intention des actionnaires minoritaires. Je conviens que, dans une large mesure, cela est vrai. Cependant, dans le cas présent, les dispositions vont plus loin que cela et empêchent Kruger de prendre ce que j’ai appelé des décisions stratégiques sans l’accord de la SGF.
+[64] Compte tenu du mandat de la SGF, cela n’est pas surprenant. La SGF cherchait, au moyen de la convention, non seulement à se protéger en tant qu’investisseur, mais aussi à assurer l’exécution de la mission[32] et à réaliser ainsi les objectifs de développement économique de la Société générale de financement.
+[65] Cependant, même si ces pouvoirs restants se trouvent entre les mains des administrateurs nommés par Kruger, peut-on dire que celle-ci exerce un contrôle effectif, comme la Cour l’a dit dans la décision Plomberie J.C. Langlois, précitée? Kruger exerce-t-elle une influence dominante dans la direction de l’appelante ou dans l’orientation de ses destinées?
+[66] Dans le cas présent, la réponse est clairement « non ». Étant donné que les administrateurs des deux actionnaires ont à se prononcer à l’unanimité sur un si grand nombre de décisions clés pour la direction et l’orientation de l’appelante, Kruger n’exerce pas une telle domination. Elle ne peut pas changer sensiblement le cours général des activités de l’appelante; elle ne peut pas prendre de décisions stratégiques[33].
+[67] L’intimée est d’avis qu’en raison de l’option d’achat dont il est question à la clause 8.7 de la convention unanime des actionnaires[34], qui permet à Kruger d’obliger la SGF à lui vendre ses actions, Kruger contrôle l’appelante « à long terme », comme il est dit dans la décision Donald Applicators Ltd. c. M.N.R.[35]
+[68] Dans la décision Donald Applicators, le pouvoir à long terme reposait sur les actions que détenaient à l’époque les actionnaires particuliers, et non, comme en l’espèce, sur les actions futures que Kruger pourrait ou non acquérir au septième anniversaire de la signature de la convention unanime des actionnaires, soit le 8 mai 2008, plus d’un an après la fin de la dernière année en question en l’espèce.
+[69] Étant donné que le critère énoncé au paragraphe 256(1) est appliqué annuellement, on peut considérer que le principe découlant de la décision Donald Applicators doit être interprété comme un pouvoir à long terme qui repose sur ce qu’une personne pourrait faire à une date ultérieure avec les actions qu’elle détiendrait dans le présent. Je n’admets donc pas que Kruger exerce un contrôle à long terme pour cette raison-là.
+[70] Kruger n’exerce pas un contrôle de jure.
+[71] J’ai examiné si l’une quelconque des clauses de la convention unanime des actionnaires qui accordaient divers droits de préemption, de suite, d’achat de la part de l’autre partie ou d’obligation de vente pourrait avoir une incidence sur le résultat, mais, qu’il soit question d’examiner le contrôle de jure ou le contrôle de facto, je ne vois pas comment ces clauses conféreraient à Kruger, en l’espèce, un contrôle effectif.
+[72] Voyons maintenant la question du contrôle de facto.
+[73] Pour l’analyse du contrôle de facto, il est nécessaire d’élargir les aspects que l’on prend en compte de manière à englober tous les facteurs pertinents[36]. Il existe à cet égard deux groupes de facteurs. Premièrement, il y a trois contrats importants entre Kruger et l’appelante : la convention de service de gestion, la convention de commercialisation et la convention de vente de pâte kraft. Deuxièmement, Kruger bénéficie d’un degré de connaissance de l’industrie que la SGF ne possède pas.
+[74] Ces faits confèrent-ils un pouvoir additionnel à Kruger, de sorte que cette dernière exerce un contrôle de facto?
+[75] Examinons les trois conventions.
+[76] La convention de service de gestion du 8 mai 2001[37] prévoit que Kruger nommera le directeur général, qui sera l’un de ses employés. Tout en reconnaissant que l’appelante sera entièrement pourvue en personnel, cette convention prévoit également que Kruger fournira au besoin à l’appelante les employés possédant l’expertise voulue pour aider à la gérer[38].
+[77] La convention ne comporte pas d’élément de profit et prévoit simplement que l’appelante paiera sa part proportionnelle du salaire et des avantages sociaux des employés en question[39].
+[78] La convention prévoit de plus qu’en ce qui concerne les services d’achat et d’approvisionnement en bois fournis, Kruger veillera à ce que les coûts des matières premières de l’appelante soient comparables aux siens, et surtout à son usine de Trois‑Rivières[40].
+[79] Enfin, je signale que la convention de service de gestion, à l’instar de la convention unanime des actionnaires, prévoit qu’elle ne peut être modifiée qu’avec l’accord unanime de tous les actionnaires[41].
+[80] La convention de commercialisation[42] prévoit que Kruger vendra les produits de l’appelante. Le prix et les modalités de vente des produits de l’appelante doivent être comparables à ceux de produits de catégorie semblable de Kruger, et il existe des clauses qui garantissent que, de façon générale, le taux de temps d’arrêt qui s’applique à la fabrication du produit de l’appelante est le même que celui qui s’applique aux produits comparables sortant des usines de Kruger[43].
+[81] Kruger reçoit pour ces services une commission d’un pourcentage fixe qui vient à échéance après cinq ans et, à nouveau, après 10 ans[44].
+[82] La convention de vente de pâte kraft[45] prévoit l’achat, par Kruger, de pâte de bois auprès de l’appelante. L’intention de Kruger est d’acheter de la pâte de bois en vue de s’en servir dans ses propres usines.
+[83] La convention de vente de pâte kraft prévoit un prix calculé en fonction de ventes entre parties non liées; elle prévoit également que Kruger, si elle réduit sa demande générale en pâte, doit continuer d’acheter à l’appelante la même proportion de pâte correspondant à ses besoins. Il existe également des clauses dégageant l’une ou l’autre partie de ses engagements si elle est en mesure d’obtenir ailleurs des conditions plus avantageuses[46].
+[84] Le second facteur qu’il faut prendre en compte est que Kruger est un acteur important dans l’industrie et qu’elle possède dans le domaine des pâtes et papiers une expertise considérable que la SGF ne possède pas. Cependant, la SGF est un investisseur bien informé et spécialisé, et sa filiale qui a fait cet investissement[47] avait une vaste expérience des investissements faits dans l’industrie forestière[48].
+[85] Les trois contrats cités lient bel et bien l’appelante, à bien des égards, à Kruger, et il ne fait aucun doute que cette dernière en connaît davantage sur l’industrie[49].
+[86] Cependant, les contrats ont été conclus au départ et ils contiennent divers éléments qui protègent l’appelante contre la possibilité que Kruger tire avantage d’elle, et indirectement, de la SGF. Ces contrats ne peuvent être modifiés qu’avec l’accord unanime des actionnaires.
+[87] De plus, même si la SGF n’a pas la connaissance approfondie de l’industrie que possède Kruger, elle est un investisseur bien informé. Enfin, le fait que la SGF appartienne au gouvernement du Québec n’est pas un aspect négligeable. Ce dernier joue un rôle de premier plan dans l’industrie forestière et les industries connexes, dont celle des pâtes et papiers.
+[88] Ces circonstances ne modifient pas l’équilibre, de façon à conférer à Kruger un contrôle sur les décisions stratégiques à prendre.
+[89] En fin de compte, Kruger n’exerce pas un contrôle de facto[50].
+L’alinéa 256(1.2)c) de la Loi de l’impôt sur le revenu [90] Voyons maintenant la disposition déterminative que comporte l’alinéa 256(1.2)c) de la Loi :
+c) la société, la personne ou le groupe de personnes qui est propriétaire, à un moment donné, d’actions du capital-actions d’une autre société dont la juste valeur marchande correspond à plus de 50 % de la juste valeur marchande de toutes les actions émises et en circulation du capital-actions de cette autre société, ou qui est propriétaire, à ce moment, d’actions ordinaires du capital-actions de cette autre société dont la juste valeur marchande correspond à plus de 50 % de la juste valeur marchande de toutes les actions ordinaires émises et en circulation du capital-actions de cette autre société, est réputé contrôler cette autre société à ce moment;
+[91] Voici une définition généralement admise de la juste valeur marchande, que la Cour d’appel fédérale a citée dans l’arrêt Canada c. Gilbert[51] :
+18 Dans Nash c. Canada, 2005 CAF 386, notre Cour retenait la définition de la « juste valeur marchande » élaborée par le juge Cattanach de la Cour fédérale dans Succession Henderson et Bank of New York c. M.R.N. (1973), 73 D.T.C. 5471, à la page 5476 (confirmé par cette Cour dans [1975] A.C.F. no 1973), à savoir :
+le prix le plus élevé que le propriétaire d'un bien peut raisonnablement s'attendre à en tirer s'il le vend de façon normale et dans le cours ordinaire des affaires, le marché n'étant pas soumis à des pressions inhabituelles et étant constitué d'acheteurs disposés à acheter et des vendeurs disposés à vendre, qui n'ont entre eux aucun lien de dépendance et qui ne sont en aucune façon obligés d'acheter ou de vendre. J'ajouterais que cette définition comprend un marché libre de toutes restrictions, où le prix est établi par le jeu de la loi de l'offre et de la demande entre des acheteurs et des vendeurs avertis et désireux d'acheter et de vendre.
+[92] Le principe énoncé à l’alinéa 256(1.2)c) de la Loi semble relativement simple[52]. Parmi les questions qui se posent au sujet de la manière d’interpréter cette disposition figurent les suivantes :
+a) cette disposition s’applique-t-elle si les actions de l’appelante que détient Kruger valent plus que 50 % de ce qu’une personne paierait pour acheter en une fois la totalité des actions de l’appelante?
+ou
+b) cette disposition s’applique-t-elle si les actions de Kruger valent plus de 50 % de la totalité des actions et que l’on évalue séparément les actions que possèdent des détenteurs différents, c’est‑à‑dire : les actions de Kruger valent-elles plus que celles que détient la SGF?
+[93] De plus, il est nécessaire de prendre en considération l’alinéa 256(1.2)g) de la Loi :
+g) dans la détermination de la juste valeur marchande d’actions du capital-actions d’une société, toutes les actions émises et en circulation de ce capital-actions sont réputées ne pas conférer de droit de vote.
+[Non souligné dans l’original.]
+[94] Cela signifie qu’il faut faire l’évaluation dans un monde hypothétique où les actionnaires ne peuvent pas voter. Ils ne peuvent donc pas prendre de décisions en votant lors d’une réunion des actionnaires et ils ne peuvent pas élire d’administrateurs.
+[95] Le résultat est donc clair : pour l’évaluation, il est nécessaire de faire abstraction des questions de contrôle. Les actions doivent être évaluées sous un angle financier sans tenir compte du contrôle. C’est donc dire que, pour déterminer la valeur par action, il est nécessaire d’examiner tout d’abord les droits aux dividendes et aux biens que conféreraient les actions en cas de liquidation de la société. Deuxièmement, il faut examiner quels autres facteurs peuvent avoir une incidence sur la valeur par action, mais seuls peuvent être pris en compte ceux qui ne sont pas liés aux droits de vote et, par conséquent, au contrôle.
+[96] Kruger et la SGF possèdent la même catégorie d’actions de l’appelante, et les droits rattachés à ces dernières sont identiques.
+[97] Dans une situation où les actionnaires détiennent tous la même catégorie d’actions, comme c’est le cas en l’espèce, à défaut d’autres facteurs, chaque action a la même valeur puisque chacune donne droit au même dividende et au même partage en cas de liquidation de la société. En conséquence, le point de départ est que, normalement, 51 % des actions vaudraient plus que 49 %. Existe-t-il d’autres facteurs qui changent cela?
+[98] Les deux parties ont déposé les rapports de témoins experts en évaluation d’actions et elles les ont fait témoigner. Luc Lafontaine a témoigné pour l’appelante, et Howard Johnson pour l’intimée[53].
+[99] Il a été demandé à M. Lafontaine de déterminer, premièrement, si les actions de Kruger, considérées individuellement, avaient une juste valeur marchande équivalant à plus de 50 % de la juste valeur marchande de la totalité des actions de l’appelante et, deuxièmement, quelle était la valeur relative des actions de Kruger et de la SGF.
+[100] Je décrirai brièvement la méthode qu’a employée M. Lafontaine pour répondre à la première question.
+[101] Son point de départ a été une évaluation réalisée par une autre entreprise en vue d’estimer la valeur de la totalité des actions de l’appelante au 31 décembre 2006. Cette estimation donne lieu à une fourchette de valeurs[54].
+[102] M. Lafontaine, après avoir expliqué divers principes liés à l’évaluation des entreprises, y compris les décotes pour absence d’un pouvoir de contrôle et les décotes pour absence de négociabilité, entreprend d’appliquer ces principes en vue de déterminer la valeur des actions de Kruger. En appliquant ses décotes estimatives, il arrive à la conclusion, dans le cas de la première question, que les 51 % d’actions de Kruger valent environ 41 % à 43 % de la valeur de la totalité des actions de l’appelante.
+[103] La première décote dont il a tenu compte est liée à ce qu’il considère comme une absence de pouvoir de contrôle de la part de Kruger.
+[104] Je signale que la question posée à M. Lafontaine ne lui donnait pas instruction d’effectuer son évaluation en prenant pour base qu’aucune action ne comportait un droit de vote. Cela vaut aussi pour M. Johnson.
+[105] Deuxièmement, il a tenu compte d’une décote pour absence de négociabilité, dans laquelle il inclut l’absence de liquidité[55].
+[106] Je signale que, dans le cas de la décote pour absence de négociabilité, il y a deux éléments qu’il prend en considération. Le premier est l’absence générale de négociabilité de l’entreprise, du fait de sa nature et par suite des circonstances du moment. Cela inclut le fait qu’il y a relativement peu d’acheteurs qui s’intéressent à une usine de fabrication de papier; cela inclut également la situation financière difficile de l’usine pendant la période pertinente. Le second élément est formé des diverses clauses de la convention unanime des actionnaires qui ont une incidence sur la capacité de vendre des actions[56].
+[107] En réponse à la seconde question, M. Lafontaine examine les divers droits asymétriques que comporte la convention unanime des actionnaires pour Kruger et la SGF, relativement à l’achat ou à la vente d’actions.
+[108] Selon M. Lafontaine, il existe un droit en particulier qui pourrait mener à une valeur relative autre que 51 % pour Kruger et que 49 % pour la SGF, soit l’option de vente au bénéfice de la SGF dont il est question à la clause 8.10 de la convention unanime des actionnaires[57].
+[109] Pour en revenir à l’analyse de M. Lafontaine au sujet de la première question qui lui a été posée, il m’est généralement impossible de souscrire à la méthode qu’il emploie et, de ce fait, à sa conclusion, et ce, pour les motifs qui suivent.
+[110] Comme l’alinéa 256(1.2)g) de la Loi a pour effet de faire abstraction de tout facteur de contrôle, l’évaluation ne peut pas prendre en compte une surcote ou une décote pour le contrôle ou l’absence de contrôle. L’alinéa 256(1.2)g) s’applique à la totalité des actions et, de ce fait, il est nécessaire d’évaluer la totalité des actions, de même que les actions de Kruger et celles de la SGF sans faire un rajustement quelconque pour tenir compte du contrôle exercé.
+[111] Il me faut donc faire abstraction du rajustement que fait M. Lafontaine pour tenir compte du contrôle.
+[112] Quant à l’absence de négociabilité, je ne puis, sous réserve d’une seule nuance possible, admettre que ce facteur devrait donner lieu à une décote par rapport aux actions dans leur ensemble.
+[113] Si l’on se fie au rapport de M. Lafontaine, il semble y avoir un certain chevauchement entre l’absence de négociabilité et les questions de contrôle, car il indique que la décote pour absence de négociabilité est plus élevée dans le cas d’un intérêt minoritaire, de 40 % environ, que dans le cas d’un intérêt majoritaire, de 25 % environ[58]. Cependant, comme nous devons présumer que les actions ne sont pas assorties de droits de vote, nous devons également faire abstraction de toute différence de négociabilité qui découlerait du contrôle exercé.
+[114] Les facteurs menant à une absence de négociabilité et de liquidité s’appliquent eux aussi de la même façon aux actions dans leur ensemble et à celles que détient Kruger – il y a relativement peu d’acheteurs, et, à plus forte raison, en raison des difficultés financières. De ce fait, toute décote de cette nature doit être appliquée à la valeur totale des actions et non pas seulement pour évaluer la valeur des actions de Kruger[59].
+[115] Par conséquent, sous réserve de ce qui suit, je n’accepte pas qu’il devrait y avoir une décote différente pour l’absence de négociabilité à l’égard des actions de Kruger, par opposition aux actions dans leur ensemble ou aux actions de la SGF. Autrement dit, s’il est approprié d’avoir une décote pour négociabilité, le pourcentage de cette décote, quelle qu’elle soit, devrait être le même pour les actions de Kruger à elles seules, pour les actions de la SGF à elles seules et pour la totalité des actions. Il y a donc lieu de faire abstraction de la décote pour négociabilité.
+[116] L’idée selon laquelle un intérêt majoritaire a de la valeur par rapport à un intérêt non majoritaire est ancrée si profondément qu’il semble contre‑intuitif de souscrire aux conséquences logiques de la fiction juridique[60] selon laquelle aucune action n’est assortie de droits de vote pour les besoins de l’évaluation requise.
+[117] Même si cela peut paraître contre‑intuitif, le résultat concret de l’absence de droits de vote est que la totalité des actions présentent les mêmes caractéristiques que les actions d’un portefeuille dont le détenteur ne s’attend pas à influencer la gouvernance de la société. Les actions du détenteur de ce portefeuille ont une valeur qui repose uniquement sur le rendement financier escompté à l’avenir. Elles ont également la même valeur par action, peu importe que l’on considère chaque action isolément, la totalité des actions ensemble, les actions de Kruger ensemble ou les actions de la SGF ensemble.
+[118] Il est utile, je crois, de souligner ce qui suit : vu l’effet de l’alinéa 256(1.2)g) de la Loi, ce qu’il faut évaluer c’est le fait que Kruger détenait 51 % des actions avec un rendement financier escompté par action et que la SGF détenait 49 % des actions avec le même rendement financier escompté par action dans une situation où c’était comme si une tierce partie dirigeait l’appelante sans que Kruger ou la SGF ait la moindre influence sur cette partie. Dans de telles circonstances, il est difficile d’imaginer pourquoi une personne paierait un prix différent par action, qu’elle achète 49 actions, 51 actions ou la totalité des 100 actions. Quelle que soit la quantité d’actions que les acheteurs acquièrent, ils recevront le même rendement financier par action[61].
+[119] En conséquence, sous réserve de l’analyse qui suit, les 51 % d’actions de Kruger représentent une majorité de la valeur de la totalité des actions, ainsi qu’une valeur supérieure à celle des actions de la SGF.
+[120] Les droits de Kruger et de la SGF ne sont pas identiques selon la convention unanime des actionnaires, et c’est de ce fait que découle la seule exception possible.
+[121] Comme ces droits différents – des droits asymétriques – sont analysés dans la réponse de M. Lafontaine à la seconde question qui lui a été soumise, celle des valeurs relatives, j’examinerai cet aspect de pair avec son analyse concernant cette seconde question.
+[122] Pour résumer la situation jusqu’ici – à part l’aspect analysé ci-après – il n’y a aucune raison de conclure que 51 % des actions vaudraient moins que 51 % de la valeur, et il n’y a aucune raison d’arriver à une conclusion autre que celle selon laquelle les actions de Kruger ont une juste valeur marchande supérieure à celle des actions de la SGF.
+[123] Je signale par ailleurs que la question de savoir comment appliquer le critère énoncé à l’alinéa 256(1.2)c) importe peu; jusqu’ici, le résultat est le même, quelle que soit la question posée : les actions de Kruger valent-elles plus que 50 % de la valeur de la totalité des actions, ou valent-elles plus que les actions de la SGF?
+[124] Comme je l’ai mentionné plus tôt, après avoir étudié diverses clauses de la convention unanime des actionnaires, M. Lafontaine conclut qu’il y en a une qui peut avoir une incidence sur la valeur relative[62]. Il s’agit de celle qui confère à la SGF, à certaines conditions, le droit d’exiger de l’appelante qu’elle achète ses actions.
+[125] Voici les passages applicables de la convention unanime des actionnaires qui se rapportent à cette disposition :
+1.1.1.23 « Juste valeur marchande (des Actions, des Autres titres ou des Biens vendus, selon le cas) » signifie le prix le plus élevé convenu entre deux (2) parties compétentes n’ayant aucun lien de dépendance, agissant en toute liberté et en pleine connaissance de cause dans un marché où la concurrence peut librement s’exercer, exprimé en terme de valeur monétaire et en devise canadienne, sans tenir compte ni appliquer d’escompte, (i) du fait que les Actions ou Autres titres visés confèrent ou consistent en une participation non majoritaire ou minoritaire dans le capital social de la Société, ni (ii) de l’absence de marché ou de la faible négociabilité pour les Actions ou les Autres titres visés, ni de toute autre limitation pouvant réduire ou affecter leur liquidité, telle qu’établie, aux frais de la Société, par un Évaluateur;
+[...]
+8.10 Option de vente au bénéfice de SGF REXFOR à compter du 9e anniversaire de la date des présentes
+8.10.1 La Société consent par les présentes à SGF REXFOR l’option irrévocable d’exiger d’elle qu’elle acquière de SGF REXFOR la totalité et pas moins que la totalité des Actions et des Autres titres de SGF REXFOR (les « Titres visés ») conformément aux modalités prévues ci‑après.
+8.10.2 Cette option pourra être exercée par SGF REXFOR en tout temps à compter du neuvième (9e) anniversaire de la date des présentes.
+[...]
+8.10.4 SGF REXFOR ne pourra forcer la Société à acheter ou racheter les Titres visés et à les payer,
+8.10.4.1 si, en raison de l’exercice de l’option et du paiement du prix d’exercice de l’option, (i) la Société n’est plus en mesure de respecter les ratios et engagements financiers prévus à toute Convention de Crédit et (ii) la Société n’est plus en mesure de respecter les ratios ou engagements financiers, s’il en est, prévus à toute Convention d’aide financière; ou
+8.10.4.2 si les transactions découlant de l’exercice de l’option par SGF REXFOR constituent ou sont susceptibles de constituer un défaut ou un cas de manquement (i) aux termes de toute Convention de Crédit ou de toute convention accessoire (étant entendu que le retrait de SGF REXFOR de la Société ne sera pas réputé constituer un défaut ou un cas de manquement en vertu de toute convention d’apport et/ou de subordination et/ou prorogation de créances dans la mesure où les bénéficiaires des engagements de SGF REXFOR consentent à son retrait de la Société) ou (ii) aux termes de toute Convention d’aide financière; ou
+8.10.4.3 si, en raison de l’exercice de l’option et du paiement du prix d’exercice de l’option, la situation financière de la Société est mise en péril.
+[126] La clause 8.10.6 fixe le prix de la levée de l’option à la « juste valeur marchande » des actions, laquelle est définie à la clause 1.1.1.23, citée plus tôt.
+[127] Si cette disposition avait pour effet de hausser la valeur des actions de la SGF de 4,1 % par rapport aux actions de la SGF, les actions de la SGF vaudraient ainsi plus que celles de Kruger[63].
+[128] M. Lafontaine dit que cette disposition hausse la valeur des actions à plus de 51 % parce que la « juste valeur marchande », définie dans la convention, exclut les décotes (appelées « escomptes ») mentionnées à la clause 1.1.1.23, qui sont liées à une position minoritaire ou à un marché restreint.
+[129] Dans son analyse, M. Lafontaine[64] dit que pour déterminer la valeur des actions que détient la SGF et Kruger, il est nécessaire de procéder à une analyse de l’actualisation des flux de trésorerie concernant les actions détenues, en tenant compte d’un certain nombre de facteurs. Mais il dit qu’il ne faudrait tenir aucun compte du pouvoir de contrôle[65]. Il dit également qu’étant donné que seule compte la juste valeur marchande relative, le taux d’actualisation utilisé et la juste valeur marchande de l’avoir ne changent pas le résultat[66].
+[130] Les facteurs qu’il reste à examiner sont la probabilité qu’on lève l’option ainsi que le pourcentage de décote qui devrait s’appliquer.
+[131] Comme l’indique la clause 8.10 de la convention unanime des actionnaires, cette clause ne peut pas être exercée si cela amènerait l’appelante à manquer aux engagements financiers que lui impose n’importe quelle convention de crédit ou d’aide financière. De plus, l’option ne peut pas être exercée si cela mettait en péril la situation financière de l’appelante.
+[132] Dans les années en question, même si du point de vue opérationnel le projet fonctionnait bien et si l’appelante exécutait de nombreuses initiatives de réduction de coûts, l’appelante était aux prises avec de sérieuses difficultés financières à cause du taux de change.
+[133] Comme M. Lafontaine l’indique dans son rapport, [traduction] « la société, dès 2004, n’honorait pas ses engagements bancaires »[67].
+[134] Je signale qu’à la fin de l’exercice de 2006, la société avait omis de s’acquitter d’un engagement, mais que, peu après la fin de l’exercice, elle avait obtenu une dispense en vue de remédier à la situation[68]. De plus, si l’on examine l’avoir des actionnaires qui est indiqué dans les états financiers, il passe d’un montant d’environ 88 millions de dollars à la fin de 2002 à un déficit des actionnaires d’un montant d’environ 51 millions de dollars à la fin de 2006[69].
+[135] M. Lafontaine tient compte également de la projection qui a servi à déterminer la juste valeur marchande de la totalité des actions[70].
+[136] Cette projection est fondée sur une nette amélioration escomptée de la situation financière.
+[137] Compte tenu de ces facteurs, il a conclu que la probabilité de levée de l’option se situait dans la fourchette de 5 % à 25 %.
+[138] Il a estimé à 25 % la décote pour absence de négociabilité qui s’appliquait[71].
+[139] M. Lafontaine mentionne qu’une différence de 0 % dans le tableau signifierait que, selon la clause en question, la SGF recevrait un montant égal à la juste valeur marchande des actions de Kruger[72].
+[140] Il fait ressortir une fourchette particulière de valeurs[73]; il s’agit d’une décote de 20 % à 30 % ainsi que d’une probabilité de lever l’option de 5 % à 25 %. Entre ces deux fourchettes de valeur, les résultats varient de -1,4 % à 3,1 %. Il fait ensuite remarquer que l’estimation moyenne, c’est-à-dire une décote de 25 % et une probabilité de levée de 15 %, donne comme résultat un pourcentage positif de 0,4 %. Cela voudrait dire que les actions de la SGF valent plus que celles de Kruger.
+[141] Il est utile d’examiner l’annexe dans laquelle figure le calcul concernant l’année 2006[74]. Dans cette annexe, on constate qu’il calcule que les actions de la SGF auraient une valeur de 6 310 000 $ en appliquant la clause en question, tandis que celles de Kruger auraient une valeur de 6 260 000 $, ce qui fait une différence de 50 000 $.
+[142] D’après son calcul, la différence est fort mince; les actions de la SGF valent 50,19 % du total et celles de Kruger, 49,81 % du total. Il n’est donc pas surprenant qu’il arrive à la conclusion que les actions ont essentiellement la même valeur[75].
+[143] Les résultats sont très sensibles à la probabilité de levée de l’option, ainsi qu’à la décote appropriée.
+[144] Il m’est impossible de souscrire à la conclusion de M. Lafontaine.
+[145] Ma première difficulté tient à la probabilité de levée de l’option, ainsi qu’à la décote appropriée.
+[146] Pour la situation difficile que connaissait l’appelante à cette époque, une probabilité de levée de 15 % est trop élevée. Plus important encore, je ne comprends pas pourquoi, d’après le rapport, on choisit la décote pour absence de négociabilité de 25 %. À la section 5.3.2, il y a une analyse des données empiriques, et la conclusion à laquelle mène cette section, par rapport à diverses études, est que ces données font état de fourchettes variant de 0 % à 35 % et que la plupart des résultats dans la fourchette se situent entre 15 % et 25 %.
+[147] Plus loin, à la section 6.2.2, l’auteur fait référence à une décote pour intérêts majoritaires de 25 %[76], mais cela fait suite à un tableau énumérant quatre types d’études. La dernière de ces études correspond à l’analyse faite plus tôt - à la section 5.3.2 – sous le titre [traduction] « Études d’acquisition pour les intérêts majoritaires ». Il y est mentionné que la fourchette est de 0 % à 35 %, et la plupart des études font état d’une fourchette de 15 % à 25 %.
+[148] Compte tenu de cela, le choix d’une décote de 25 % paraît élevé; un chiffre de 20 % se situe au milieu de la fourchette et convient mieux. À 20 % ainsi qu’avec une probabilité de levée de 15 % ou moins, le tableau[77] montre que les actions de la SGF ont une valeur légèrement inférieure à celles de Kruger. À une probabilité de levée de moins de 15 %, la différence augmente.
+[149] Cela m’amène à conclure que les actions de Kruger valent plus que celles de la SGF si l’on utilise la méthode de M. Lafontaine.
+[150] Je signale que, pour les mêmes raisons, la clause 8.10 n’a pas pour effet de réduire la valeur des actions de Kruger à moins de 50 % de la valeur de la totalité des actions.
+[151] Ma seconde difficulté tient au fait que je ne puis accepter que la clause 8.10 ait l’effet suggéré.
+[152] Pour l’alinéa 256(1.2)g) de la Loi, nous sommes déjà tenus de présumer que, hypothétiquement, les actions de l’appelante ne comportaient aucun droit de vote. Nous devons également prétendre que, dans les années en question, les actions pouvaient être vendues, même si, selon la convention unanime des actionnaires, il avait été convenu qu’elles ne pouvaient l’être qu’ultérieurement. Mais, sinon, nous utilisons les faits existants.
+[153] Ici, nous devons tenir compte du fait que n’importe quel acheteur devra se conformer à la convention unanime des actionnaires et la respecter; l’acheteur peut se fonder sur cette convention, ainsi que sur les droits qu’il obtient.
+[154] Cependant, si j’examine la convention unanime des actionnaires, je ne vois pas comment notre acheteur hypothétique pourrait être le bénéficiaire de la clause 8.10. J’ai étudié cette clause ainsi que le reste de la convention et l’unique conclusion que je puis tirer est que seule la SGF peut se prévaloir de l’avantage que confère la clause 8.10.
+[155] Cela ressort clairement quand on examine la convention. Premièrement, la clause 8.10 confère expressément les droits à la SGF; je ne puis rien trouver dans cette clause, ou ailleurs dans la convention, qui confère les droits que comporte cette clause à tout successeur de la SGF.
+[156] Il y a, ailleurs dans la convention, une clause concernant les successeurs. Par exemple, la clause 8.11 permet à Kruger[78] de contraindre la SGF à vendre ses actions. Il est expressément fait référence, dans cette clause, à la SGF ou à un « cessionnaire autorisé », ce qui étend donc l’obligation à une partie autre que la SGF. Il est question des « cessionnaires autorisés » à la clause 7.2, et il s’agit du gouvernement du Québec ou de certaines entités appartenant à la SGF ou au gouvernement du Québec[79].
+[157] Un exemple plus général est la disposition qui requiert une décision unanime des actionnaires, à la clause 8.9. Comme il est simplement dit que cela s’applique aux actionnaires, cette disposition s’applique à tous les actionnaires, quels qu’ils soient. En fait, selon la section des définitions citée plus tôt, les « actionnaires » comprennent les cessionnaires autorisés et les autres personnes physiques ou morales qui pourraient devenir détenteurs des actions.
+[158] Tout cela pour dire que notre acheteur hypothétique, même s’il sera lié par la convention, ne peut pas être bénéficiaire de la clause 8.10 et que, de ce fait, dans le cas de notre vente hypothétique, il ne paiera pas un montant supplémentaire en raison de cette clause. Il s’ensuit que la clause 8.10 ne fera pas augmenter la valeur des actions de la SGF[80].
+[159] Ayant décidé que le rapport de M. Lafontaine m’amène à la seule conclusion que les actions de Kruger valent plus que 50 % de la valeur des actions, il me suffit de faire de brefs commentaires sur le rapport de M. Johnson. Ce dernier analyse lui aussi en détail la question du contrôle et, en raison de l’alinéa 256(1.2)c) de la Loi, il est nécessaire de faire abstraction de toutes les questions qui se rapportent à cet aspect.
+[160] Il est d’avis que, par rapport à la valeur de la totalité des actions, il n’y a pas lieu d’opérer une décote à celles de Kruger ni une surcote à celles de la SGF. Rien de ce j’ai entendu ou lu n’indique le contraire. Je souscris à sa conclusion.
+[161] Il n’y a donc pas lieu de s’écarter du point de départ selon lequel 51 % des actions donnant droit à 51 % des dividendes et à toute répartition de l’actif de la société valent plus que 50 % de la juste valeur marchande.
+[162] Il s’ensuit que, conformément à l’alinéa 256(1.2)c) de la Loi, Kruger est réputée contrôler l’appelante.
+Conclusion [163] En conséquence, aux termes de l’alinéa 256(1.2)c), Kruger contrôle l’appelante, et l’appel doit être rejeté[81].
+Signé à Ottawa (Ontario), ce 14e jour d’avril 2015.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 24e jour d’août 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 90
+No DU DOSSIER DE LA COUR :
+2011-1739(IT)G
+INTITULÉ :
+KRUGER WAYAGAMACK INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+10, 11 et 12 septembre 2013 et 29 octobre 2013
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE OF JUGEMENT :
+14 avril 2015
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Vincent Dionne
+Avocats de l’intimée :
+Me Marie-Andrée Legault
+Me Philippe Dupuis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Vincent Dionne
+Cabinet :
+Norton Rose Fulbright Canada
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Il y a eu une société intermédiaire, 3864057 Canada Inc., entre Kruger et l’appelante, mais ce fait est sans importance pour la présente affaire, car, pour les besoins de la présente espèce, le résultat est le même que si Kruger possédait directement la société. SGF Rexfor était une filiale de la Société générale de financement du Québec, aujourd’hui remplacée par une société appelée « Investissement Québec ». Il y a eu aussi des restructurations touchant la Société générale de financement, mais, là encore, ce fait est sans importance pour la présente affaire. Pour les besoins du présent jugement, je ne ferai référence qu’à Kruger et à SGF.
+[2] Il n’y a pas de problèmes de montant. Les années d’imposition en question sont 2003, 2004, 2005 et 2006.
+[3] [1998] 1 R.C.S. 795. Dans l’arrêt Duha, la Cour suprême s’intéressait au mot « contrôle » et non aux mots « contrôlée, directement ou indirectement, de quelque manière que ce soit ». Les mots « contrôlée, directement ou indirectement, de quelque manière que ce soit », à l’alinéa 256(1)a) de la Loi ainsi qu’au paragraphe 256(5.1), ont été ajoutés par le paragraphe 192(1) de L.C. 1988, c. 55. Avant cela, l’alinéa 256(1)a) était libellé en ces termes :
+256(1) Aux fins de la présente loi, une corporation est associée à une autre dans une année d’imposition si, à une date quelconque de l’année,
+a) une des corporations contrôlait l’autre,
+[…]
+[4] Pour déterminer si une personne exerce ce contrôle, il est nécessaire d’évaluer les divers droits des actionnaires « à long terme »; voir la décision des juges majoritaires de la Cour suprême dans l’arrêt La Reine c. Imperial General Properties Ltd., [1985] 2 R.C.S. 288. Voir aussi l’analyse qui suit, aux paragraphes 67 à 69.
+[5] « À un moment donné de l’année » est une condition qui apparaît au début du paragraphe 256(1) de la Loi. Il faut aussi appliquer le critère année après année.
+[6]Le paragraphe 256(5.1) souligne que la portée des mots « contrôlée, directement ou indirectement, de quelque manière que ce soit » est très large et que cela inclut le contrôle de fait.
+[7] À défaut d’une autre caractéristique unique, qui permettra à cet actionnaire d’influencer les autres actionnaires et d’exercer un contrôle effectif.
+[8] 2004 CCI 734. La décision a été confirmée en appel.
+[9] Voir le point (2) du paragraphe 85 de l’arrêt Duha.
+[10] Voir le point (2) du paragraphe 85 de l’arrêt Duha, ainsi que les paragraphes 81 et 82. La question est de savoir dans quelle mesure la majorité du conseil a vu son pouvoir restreint.
+[11] Une partie du raisonnement que j’ai suivi pour arriver à cette conclusion est que, dans l’arrêt Duha, la Cour suprême, en disant qu’il s’agissait d’une question de degré de contrôle, n’a pas dit que le contrôle effectif ne disparaîtrait que si les deux parties se trouvaient dans une situation où le résultat de toutes les ententes établies était tel qu’une ou plusieurs personnes, à part celle ayant une majorité des voix et des administrateurs, exerçaient une influence presque égale à celle de l’actionnaire majoritaire.
+[12] Voir la Charte de la Société générale de financement du Québec, L.R.Q., chapitre S-17, article 4, dans sa version en vigueur à l’époque.
+[13] Les motifs de ce changement, soit de 50 %‑50 % à 51 %‑49 % sont énoncés, notamment, à la page 3936, onglet 55, de la pièce A‑5.
+[14] Voir la pièce A-3, onglet 33, page 1499, où la SGF qualifie l’appelante d’[traduction] « entreprise contrôlée conjointement » à 51 %, et l’onglet 34, page 1550, où la SGF qualifie l’appelante de [traduction] « coentreprise ».
+[15] Nul ne conteste que la convention est une « convention unanime des actionnaires » au sens de la Loi canadienne sur les sociétés par actions. Elle a également été incorporée par renvoi dans le règlement interne no 13 de la société.
+[16] Ce document est mentionné dans la convention unanime des actionnaires sous le nom de « convention de service de gestion, mais le document proprement dit est intitulé : [traduction] convention de service de soutien en gestion.
+[17] Étant donné que le paragraphe 106(3) de la Loi canadienne sur les sociétés par actions exige que l’on élise des administrateurs, les parties doivent, pour ce faire, exercer les droits de vote rattachés à leurs actions; en fait, elles conviennent de le faire à la clause 2.1.1 ci-dessus.
+[18]La version anglaise de la clause 4.3.1.8, pièce A‑2, onglet 19A, dit « General Manager »; toutefois, la version française, pièce A‑3, onglet 44, indique « contrôleur ». Après avoir lu les clauses 4.3.1.7, 4.3.1.8, 4.7.1 et 4.7.2 dans les deux langues, de même que la clause 6 à la page 3 de la convention de service de soutien en gestion, pièce A‑2, onglet 19F, j’ai conclu que la version française est la bonne car le mot « contrôleur » est logique dans le contexte de ces clauses, tandis que « General Manager » ne l’est pas. Je signale que la version française produite en preuve est signée. La version anglaise ne l’est pas.
+[19] Un certain nombre de modifications ont été apportées à la convention unanime des actionnaires. Elles se trouvent à la fin de la pièce A‑3, onglet 44. Je signale que les actionnaires ont souscrit à une modification datée du 15 janvier 2002 en vertu de laquelle, notamment, ils ont modifié l’annexe D en vue de remplacer la date du 30 septembre 2001 par celle du 31 mars 2002 – cette dernière date a elle-même été remplacée par une date postérieure; ils ont également modifié l’annexe D, avec le résultat que les points 9 et 10 ci-dessus n’y figuraient plus.
+Il est à se demander s’il a été décidé d’éliminer ces deux conditions préalables ou si, quand la nouvelle annexe D a été remaniée, elles ont été omises parce qu’on y avait déjà satisfait.
+J’ai conclu qu’elles ont été exclues parce qu’on y avait déjà satisfait. Mes motifs sont les suivants : premièrement, il ressort clairement des clauses 4.6.1 et 4.6.2 qu’il reste encore à créer un « Comité directeur de Projet »; deuxièmement, d’après l’ordre du jour et le procès-verbal de la réunion des administrateurs du 19 juillet 2001, il est clair que le conseil d’administration a passé en revue et approuvé la liste des membres du Comité directeur de Projet, le plan d’affaires concernant la modernisation de l’usine et la dépense d’une somme d’environ 416 millions de dollars pour exécuter ce travail de modernisation. Voir la pièce A‑2, onglet 19C, aux pages 964 à 969, et surtout la page 968. Dans ce même procès-verbal (à la page 969), les administrateurs discutent du besoin de réinscrire la date en vue de satisfaire à d’autres conditions préalables, non encore remplies.
+[20] Aux termes du paragraphe 146(5) de la Loi canadienne sur les sociétés par actions, lorsque les actionnaires prennent des décisions à la place des administrateurs en vertu de la convention unanime des actionnaires, ils assument les responsabilités d’un administrateur.
+[21] Voir les clauses 1.1.1.34, 3.1.1 et 4.9.1.1 de la convention unanime des actionnaires. Toutes les références ultérieures à des clauses particulières, dans les présentes notes de bas de page, ont trait à des clauses de la convention unanime des actionnaires.
+[22] Voir l’annexe D, points 9 et 10. Comme il a été décrit dans une note de bas de page précédente, cela a été fait.
+[23] Voir la pièce A‑3, onglet 41, à la page 1925. Il y avait d’autres conditions auxquelles il fallait aussi satisfaire, à défaut de quoi cela pouvait déclencher le droit qu’avait la SGF d’exiger de Kruger qu’elle achète les actions.
+[24] Voir l’annexe B et la clause 4.6.4. Bien que cette dernière ne requière pas un accord unanime – et M. Bunze a convenu que c’était le cas – ce n’était pas aussi simple que cela. Même si des changements aux délais ne nécessitaient qu’une majorité des voix, les changements budgétaires nécessitaient l’unanimité des voix, comme l’indique la clause 4.3.1.5. De plus, si le changement de portée avait eu une incidence considérable sur l’exécution du projet, cela aurait nécessité l’accord des deux actionnaires, conformément aux clauses 3.1.1, 1.1.1.34 et 4.9.1.1.
+[25] Voir la clause 4.2. Selon l’appelante, cette disposition permettait à la SGF de s’opposer aux décisions qui n’exigeaient pas l’unanimité en empêchant d’atteindre le quorum. J’admets que cela est possible jusqu’à un certain point, mais non que cette possibilité a, en soi, un poids considérable, et ce, pour deux raisons. Premièrement, le fait d’utiliser la clause 4.2 de cette façon ne peut occasionner, en définitive, qu’un certain retard, car elle offre un moyen d’aller de l’avant à une réunion ultérieure sans un administrateur nommé par la SGF. Deuxièmement, compte tenu du paragraphe 122(1) de la Loi canadienne sur les sociétés par actions, il aurait fallu qu’un administrateur songe très sérieusement à la question de savoir si, dans une circonstance particulière quelconque, le fait d’empêcher délibérément d’atteindre le quorum concordait avec cette disposition et si, en agissant de la sorte, il risquait d’engager sa responsabilité.
+Le texte du paragraphe 122(1) est le suivant :
+122(1) Les administrateurs et les dirigeants doivent, dans l’exercice de leurs fonctions, agir :
+a) avec intégrité et de bonne foi au mieux des intérêts de la société; […]
+Aux termes du paragraphe 146(5) de la Loi canadienne sur les sociétés par actions, cela s’applique également aux actionnaires qui agissent à la place d’administrateurs, conformément à la convention unanime des actionnaires.
+Cependant, je signale qu’il y a tant de questions sur lesquelles Kruger et la SGF doivent s’entendre qu’il y a sans aucun doute une certaine quantité de pression exercée sur les deux pour tenter de s’assurer de la bonne volonté de l’autre; on s’attendrait donc à ce que Kruger y pense à deux fois avant d’utiliser sa majorité si la SGF croyait très fermement en quelque chose. Là encore, je n’y accorderais pas beaucoup d’importance, mais il s’agit aussi d’un facteur en arrière‑plan.
+[26] Voir les clauses 4.3 et 4.7.
+[27] Voir la clause 4.7.1.
+[28] Comme il est indiqué aux clauses 3.1.1 et 1.1.1.34.
+[29] Voir les clauses 3.1.1, 1.1.1.34 et 4.9.1.1. De plus, la nécessité d’obtenir l’unanimité au sujet du budget peut avoir le même résultat, dans la mesure où un changement quelconque à la mission obligeait la société à engager des dépenses en immobilisations.
+[30] Voir le deuxième paragraphe de l’annexe B de la convention unanime des actionnaires. Même si, d’habitude, ce type d’activité de gestion est laissé au soin des cadres et des dirigeants de la société, rien n’empêche le conseil de décider d’intervenir dans de telles décisions.
+[31] Encore que tout mandat relatif à la négociation d’une convention collective soit forcément limité par des considérations de nature budgétaire; les décisions budgétaires sont prises à l’unanimité.
+[32] Comme il est indiqué aux clauses 3.1.1 et 1.1.1.34.
+[33] Je conviens avec l’intimée, ajouterais-je, qu’il ne s’agit pas d’une coentreprise, en ce sens que Kruger a, indéniablement, plus d’influence que la SGF.
+[34] Ainsi que la clause 14.1.
+[35] 69 DTC 5122 (R.C.É.), confirmée par la Cour suprême du Canada, 71 DTC 5202. Voir aussi La Reine c. Imperial General Properties Ltd., [1985] 2 R.C.S. 288, ainsi que l’arrêt Duha, au paragraphe 48.
+[36] Et pas seulement ceux qui sont énoncés au point (3) du paragraphe 85 de l’arrêt Duha.
+[37] Pièce A‑2, onglet 19F. Comme il a été mentionné plus tôt, bien qu’elle soit désignée ailleurs sous le nom de « convention de service de gestion », la convention proprement dite est intitulée « convention de service de soutien en gestion ».
+[38] Voir les paragraphes C, D, 1 et 2 de la convention de service de gestion.
+[39] Cela est vrai également si l’on retient les services de consultants externes.
+[40] Voir la clause 5 de la convention de service de gestion.
+[41] Voir la clause 21 de la convention de service de gestion.
+[42] Aussi à la pièce A‑2, onglet 19F. À noter que, bien que cette convention soit appelée « convention de commercialisation » dans la convention unanime des actionnaires, elle porte en fait le titre de [TRADUCTION] « convention de commercialisation et de représentation des ventes ».
+[43] Voir les paragraphes 11 à 16 de la convention de commercialisation.
+[44] Voir le paragraphe 6 de la convention de commercialisation.
+[45] Pièce A‑3, onglet 43, pages 1964 à 1975. Il y a une modification ultérieure au contrat, aux pages 1967 et 1968, qui se trouve au milieu du contrat initial.
+[46] Voir l’appendice 2 de la convention de vente de pâte kraft.
+[47] SGF Rexfor Inc.
+[48] Comme on peut le voir dans les sections applicables des rapports annuels, aux onglets 34 à 39 de la pièce A‑3.
+[49] Cette connaissance était une chose que la SGF recherchait.
+[50] Si l’on avait affaire à un pur investisseur financier, la situation serait peut-être très différente. Un investisseur financier ne se soucierait peut-être pas du cours général des activités de l’entreprise, tant et aussi longtemps que cette dernière serait rentable sur le plan financier et, de ce fait, comparativement à la situation dont il est question en l’espèce, un investisseur financier aurait probablement quelques conditions nettement différentes dans n’importe quelle convention unanime des actionnaires.
+J’ajouterais que j’ai examiné à cette fin si Kruger contrôle les prix fixés par l’appelante. La réponse est, en un sens, « oui »; cependant, il s’agit là, selon moi, d’une simplification. Kruger contrôle ses propres prix du papier. La SGF et Kruger ont convenu à l’unanimité de greffer les prix de l’appelante à ceux de Kruger et elles ne peuvent changer cet arrangement que si les deux sont unanimes. Cette mesure ne confère à Kruger qu’un degré de contrôle restreint car elle peut fixer le prix de cette catégorie de produit tant pour elle-même que pour l’appelante, mais elle ne peut pas fixer différemment le prix du produit de l’appelante. Cela ne modifie pas l’équilibre.
+[51] 2007 CAF 136.
+[52] La version française de la disposition ne donne pas d’indications additionnelles, pas plus que les notes techniques accompagnant les modifications initiales. Le seul paragraphe qui se rapporte à cet aspect est le second de l’extrait suivant, tiré d’un document intitulé « Documents budgétaires – renseignements supplémentaires et avis de motions des voies et moyens sur le budget », déposé à la Chambre des communes par l’honorable Michael H. Wilson, ministre des Finances, le 10 février 1988 (reproduit - en anglais - dans Tax Partner (sous la rubrique « Technical Notes »)) :
+Contrôle
+Les sociétés qui sont contrôlées par la même personne ou le même groupe de personnes sont considérées comme formant une seule entité économique et, donc, comme associées. À cette fin, le « contrôle » n’est pas défini dans la Loi de l’impôt sur le revenu, mais il est déterminé à la lumière d’une importante jurisprudence, élaborée au fil des années. Le critère de contrôle qui s’en est dégagé est un critère relativement étroit, généralement qualifié de contrôle « de droit », d’après lequel le plus important facteur pris en considération est représenté par les droits de vote qui accompagnent les actions. Le critère de contrôle a toujours été la propriété d’un nombre d’actions qui, en raison des droits de vote correspondants, procure la majorité des voies [sic] lors de l’élection des membres du conseil d’administration. Cependant, d’après la loi actuelle, il est possible de contourner les règles sur les sociétés associées grâce à l’utilisation d’ententes spéciales de vote, l’établissement de catégories spéciales d’actions ou par l’acquisition d’actions des intermédiaires.
+Des changements seront apportés à ces règles afin d’en rendre l’application plus efficace. En premier lieu, la notion de contrôle sera étendue au contrôle de fait. En deuxième lieu, une personne ou un groupe de personne possédant plus de 50 pour cent de la juste valeur marchande de toutes les actions émises du capital‑actions d’une société (autres que certaines actions privilégiées) ou plus de 50 pour cent de la juste valeur marchande de toutes les actions ordinaires émises du capital-actions d’une société sera considéré comme contrôlant la société, même si cette personne ou ce groupe de personnes ne détient pas la majorité des actions donnant droit de vote de la société.
+[53] À l’audience, j’ai reconnu que les deux experts étaient bien qualifiés et que leur témoignage était à la fois pertinent et nécessaire. Je signale également que le rapport de l’intimée a été établi par Kim Jezior. Les deux experts ont discuté en détail de la question du contrôle, même si, comme il a été indiqué plus tôt, la fiction que crée l’alinéa 256(1.2)g) de la Loi exige que l’on fasse abstraction de la présence de cet aspect, ou de son absence.
+[54] Cette estimation figure à l’onglet 21 de la pièce A‑2, à partir de la page 1212; elle est également jointe au rapport de M. Lafontaine, à l’onglet 9 de la pièce A-8. De façon générale, on arrive au résultat en estimant les mouvements de trésorerie prévus au cours d’une période donnée, en actualisant rétrospectivement ces mouvements et en ajoutant une valeur résiduelle actualisée à la fin de la période de l’estimation. M. Lafontaine utilise une fourchette de 17 millions de dollars environ à 42 millions de dollars environ comme fourchette de valeurs pour toutes les actions de l’appelante. C’est ce que l’on voit à la troisième ligne à partir du bas de la page 1213, à l’onglet 21. À prime abord je n’ai pas compris pourquoi c’était cette fourchette que l’on avait utilisée, plutôt que celle qui se trouve à la dernière ligne de la même page, soit une somme de 105 millions de dollars à 130 millions de dollars, décrite comme suit : [traduction] « Juste valeur marchande de toutes les actions émises et en circulation de Kruger Wayagamack Inc., au 31 décembre 2006 ».
+Si l’on examine l’estimation tout entière, et surtout l’annexe XI, aux pages 1267 et 1268, il s’avère que ce chiffre plus élevé est le résultat d’une entente conclue le 27 avril 2007 avec Investissement Québec, entente par laquelle cet organisme a modifié les conditions du prêt subordonné à terme consenti à l’appelante, et ce, d’une manière qui n’était pas très avantageuse pour cette dernière. M. Lafontaine a décidé de ne pas en tenir compte parce que personne n’a été au courant de cette entente avant la fin de la période pour laquelle il établissait son évaluation.
+[55] Voir la page 12 de son rapport, au haut du texte.
+[56] Comme l’interdiction de vendre des actions avant le 8 mai 2007, les droits de préemption, etc. Les facteurs particuliers qui ont été pris en considération se trouvent à la section 6.2.2 du rapport d’expert, pièce A‑7; le même rapport se trouve aussi à la pièce A‑8, à laquelle sont joints de nombreux documents justificatifs. Le rapport figurant à la pièce A‑8 est plus lisible que la copie incluse à la pièce A‑7. Il y a aussi une énumération de facteurs de liquidité à la section 2.2.2 du rapport.
+[57] Au début de la section 7.4, à la page 25 de son rapport. Il ne laisse pas entendre que les autres droits pourraient changer les valeurs relatives.
+[58] Voir l’avant-dernier paragraphe de la page 21 de ce rapport.
+[59] À cet égard, je suis d’accord avec M. Johnson, voir son rapport, pièce R‑2.
+[60] Exigée par l’alinéa 256(1.2)g) de la Loi.
+[61] Bien que l’alinéa 256(1.2)g) crée une sorte de fiction juridique pour l’application de la Loi, il est possible de concevoir une situation d’urgence, comme une guerre, où les propriétaires d’une entreprise ou de biens pourraient être privés du pouvoir de contrôle, même si l’on continuait de reconnaître leur droit de propriété et leur droit ultime aux avantages financiers qui en découlent. Un exemple historique qui correspond de bien des façons, mais pas toutes, à une telle situation est celui de la Norwegian Shipping and Trade Mission (Nortraship) au cours de la Seconde Guerre mondiale, dans le cadre de laquelle la grande majorité de la marine marchande norvégienne (tous les navires non soumis au contrôle des Allemands) a été réquisitionnée par le gouvernement royal de Norvège. On attribue à la Nortraship le fait d’avoir joué un rôle de premier plan dans la victoire des Alliés.
+[62] Voir la seconde moitié de la section 7.3 de son rapport, à la page 25.
+[63] Le pourcentage de 4,1 % est le résultat du calcul suivant : si les actions de la SGF valaient par ailleurs 49 % et celles de Kruger 51 %, et si la clause haussait la valeur des actions de la SGF à plus de 51 %, les actions de la SGF valent plus que celles de Kruger. Deux divisé par 49 est égal à environ 4,08 %, de sorte qu’une hausse relative de 4,1 % serait suffisante pour donner plus de valeur aux actions de Kruger.
+[64] Pages 25 à 27 de son rapport.
+[65] Pour des raisons énoncées dans le premier point en retrait qui figure à la page 26 de son rapport; il faut également faire abstraction du pouvoir de contrôle pour les raisons que j’ai mentionnées plus tôt.
+[66] La valeur qui a été établie par une autre entreprise; voir le paragraphe 101 ainsi que la note de bas de page no 54 qui précède.
+[67] Page 26 de son rapport.
+[68] Voir les notes 6b) et 15 accompagnant les états financiers du 31 décembre 2006, pièce A‑2, onglet 27.
+[69] Pièce A‑2, onglets 24 à 27.
+[70] Voir le paragraphe 101 qui précède.
+[71] Voir le premier point en retrait qui se trouve à la page 26 de son rapport, qui contient un renvoi à la section 5.5.2 de son rapport. Je crois qu’il s’agit là d’une coquille. Il n’existe pas de section 5.5.2; il s’agirait plutôt de la section 5.3.2.
+[72] Des calculs basés sur une probabilité de levée de l’option de 15 % et une décote pour absence de négociabilité de 25 % sont présentés aux annexes 6A à 6D de son rapport.
+[73] Dans la case contenant les lignes pointillées dans le tableau.
+[74] Annexe 6A, page 35 du rapport.
+[75] Les annexes dans lesquelles le même calcul est fait pour les années 2003, 2004 et 2005 font état de résultats aussi proches.
+[76] Voir la page 21 du rapport.
+[77] Je fais toujours référence au tableau présenté à la page 27 de son rapport.
+[78] En fait, la clause fait référence à la société intermédiaire que possède Kruger, mais, comme cela n’a aucun effet sur le résultat, je continuerai, par souci de simplicité, de faire abstraction de cette société, comme je l’ai mentionné dans ma première note de bas de page.
+[79] La version anglaise de la clause 8.11 fait état d’un cessionnaire « certifié » (certified assignee) , mais un examen de la version française originale des clauses 7.2 et 8.11 montre bien qu’il devrait s’agir d’un cessionnaire autorisé.
+[80] Je tiens à souligner un autre problème que pose la clause 8.10.
+M. Lafontaine présume dans son analyse que la définition de la « juste valeur marchande », à la clause 1.1.1.23, fonctionne de la manière suivante : la totalité des actions a une juste valeur marchande qui tient compte d’une décote (ou « escompte ») pour absence de négociabilité qui s’applique à la totalité des actions vendues en bloc et, lorsqu’on détermine la juste valeur marchande des actions que possède la SGF, la définition oblige à faire abstraction de toute décote pour absence de négociabilité qui touche la totalité des actions, de même que de toute décote pour absence de négociabilité qui s’applique précisément aux actions de la SGF. Cela garantirait donc que la SGF, si la clause 8.10 était bel et bien exercée, toucherait non seulement sa part de 49 %, mais peut-être plus.
+La définition peut vouloir dire, subsidiairement, qu’il suffit de faire abstraction d’une décote pour absence de négociabilité qui s’applique précisément à ces actions, ce qui garantirait donc simplement que, si l’on exerçait la clause 8.10, la SGF ne toucherait que sa part de 49 %, et rien de plus.
+Il s’agit là d’un point que je n’ai pas à trancher.
+[81] Il est inutile que je traite des autres arguments subsidiaires que l’intimée a invoqués.

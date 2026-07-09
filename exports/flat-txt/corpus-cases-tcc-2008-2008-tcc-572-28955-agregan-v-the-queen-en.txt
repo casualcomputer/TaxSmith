@@ -1,0 +1,156 @@
+Title: Agregan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28955/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-572-28955-agregan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-11-10
+
+# Agregan v. The Queen
+
+- Citation: 2008 TCC 572
+- Decision date: 2008-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1395, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Agregan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-10
+Neutral citation
+2008 TCC 572
+File numbers
+2006-1147(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1147(IT)G
+BETWEEN:
+MOIRA AGREGAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 16, 2008, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Bryan J. Tham
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC572
+Date: 20081110
+Docket: 2006-1147(IT)G
+BETWEEN:
+MOIRA AGREGAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These are appeals from reassessments made under the Income Tax Act (the Act) for the Appellant’s 2000 and 2001 taxation years. In reassessing the Appellant, the Minister of National Revenue (the “Minister”) assumed that the Appellant had understated her gross income by the amounts of $26,393.55 and $9,470.78 and had overstated her expenses by the amount of $23,742.35 and $28,065.91 in 2000 and 2001 respectively. The Minister assessed gross negligence penalties against the Appellant pursuant to subsection 163(2) of the Act.
+[2] On reassessment the Minister calculated the Appellant’s gross income to be $110,982.47 and $98,109.78. The Minister allowed the Appellant a deduction for wages paid to subcontractors in the amount of $9,775.58 and $17,992.97 for the 2000 and 2001 years respectively.
+[3] In her Notice of Appeal the Appellant admitted that she had underreported her gross income for the 2000 taxation year. In Schedule A attached to the Notice of Appeal she calculated her gross income for the 2000 taxation year to be $96,098.10; however according to the amounts she used, it ought to have been $97,798.10. (Invoice #056141 was erroneously subtracted from the gross income.) As well, in Schedule C attached to the Notice of Appeal, she calculated her gross income for the 2001 taxation year to be $88,297.75. In her returns the Appellant had reported her gross income to be $84,588.92 and $88,369 in 2000 and 2001 respectively.
+[4] In Schedules B and D, also attached to the Notice of Appeal, the Appellant calculated the wages she paid to subcontractors to be the amounts of $29,162.50 and $22,487.85 in 2000 and 2001 respectively.
+[5] At the hearing of the appeal, counsel for the Respondent stated that the amount of $10,573.79 should be deleted from the Appellant’s gross income for the 2000 taxation year and that the Appellant had incurred additional expenses for wages paid to subcontractors in the amounts of $19,386.92 and $4,494.88 in 2000 and 2001 respectively. In effect the Respondent has agreed with the Appellant’s calculation of the subcontractors wages in Schedules B and D of the Notice of Appeal.
+[6] The only issues that remained were: (a) whether the Appellant’s gross income for 2000 was $100,408.68 or $97,798.10; (b) whether the Appellant’s gross income for 2001 was $98,109.78 as reassessed or $88,297.75 as recalculated by the Appellant; and, (c) whether the gross negligence penalties were properly assessed.
+[7] Since 1997 the Appellant has operated, as a sole proprietor, a drywalling business under the name Gator’s Advanced Drywall Systems (the “Business”). The Business was conducted from the Appellant’s home in Dundas, Ontario.
+[8] The Appellant received subcontract work from various businesses including D.A. Drywall and Waco Drywall Services Ltd. She also used subcontractors to complete many of the contracts which she received.
+[9] The Appellant had one bank account which was used for both the Business and personal matters. Both she and her common law spouse, Gatien Dion, had signing authority on the bank account.
+[10] It was the Appellant’s evidence that she always paid her subcontractors by cheque. She did not do a cash business. However she did pay Gatien Dion by cash but she did not consider him to be a subcontractor. He did not do drywalling as he had problems with his back. Mr. Dion negotiated the jobs she received, answered the telephone and filled out the invoices which she signed prior to submitting them to her clients for payment.
+[11] The Appellant testified that some of her clients did not pay the full amount she invoiced to them. In such a situation the Appellant wrote the amount she actually received at the bottom of the invoice. Other than the invoices, the Appellant did not keep books for the Business.
+[12] It was the Appellant’s evidence that Paul Snider prepared her income tax returns for the years under appeal. She gave him her invoice book to prepare the returns as each invoice number represented a contract and the amount of money that she received for the contract.
+[13] Mr. Snider testified that he prepared the Appellant’s returns from the records she supplied to him. These records included the invoice book, the bank deposit book and various receipts. He stated that no ledger was ever prepared for the Business and his only involvement was to prepare the income tax returns for the Appellant. Once he had finished the returns, he returned them by mail to the Appellant. He did not know if she reviewed the returns prior to signing and mailing them.
+[14] Mr. Snider referred the Appellant to Doug Simpson, an accountant, when he knew that the Appellant wanted to appeal her reassessment to the Tax Court of Canada. He stated that Doug Simpson was more familiar with the Tax Court procedure.
+[15] Doug Simpson prepared the schedules that are attached to the Appellant’s Notice of Appeal in an attempt to ascertain how the Minister calculated the amounts in the reassessments. He used the Appellant’s invoices and bank statements to produce Schedule A and C which detail the Appellant’s gross sales for 2000 and 2001. He used the Appellant’s cancelled cheques to calculate the amount paid to subcontractors in 2000 and 2001. As stated above, these amounts were detailed in Schedules B and D.
+[16] I have reviewed the calculation of gross income for 2000 in Schedules A to the Notice of Appeal. I was not given sufficient documentation to ascertain how the Minister calculated the amount he stated was unreported income for 2000. There was only a global figure given of $26,393.55 which the Minister determined after an analysis of the Business’ bank deposits, sales invoices and third party information. However, as a result of the concessions made by both parties, the only dispute remaining for 2000 is whether $2,610.58 was unreported income. I have found that according to the records of P.J. Daly Contracting which were given in Exhibit A-1, Tab 17 at page 19, the Appellant was paid the following amounts by cheque:
+DATE
+AMOUNT
+May 9, 2000
+$2,140
+May 10, 2000
+$642
+May 25, 2000
+$3,000
+June 2, 2000
+$2,500
+June 16, 2000
+$3,060
+June 28, 2000
+$2,140
+July 6, 2000
+$2,140
+July 13, 2000
+$1,500
+It appears from Schedule A and the bank records at Exhibit A-1, Tab 16, that the Appellant did not deposit the cheque dated May 10, 2000; nor did she deposit the full amount of the cheque dated June 16, 2000. The bank records show that she deposited only the amount of $1,060 on June 16, 2000. These two amounts ($642 + $2000), which were not deposited and not included in the Appellant’s calculation of gross income, exceed the amount that the Minister now states was unreported in 2000. Without any further analysis it is clear that the Appellant has not been able to establish that her calculation for gross income in 2000 is more accurate than that of the Minister’s.
+[17] In the 2001 taxation year, the amount alleged by the Minister to be unreported income was calculated as follows:
+DESCRIPTION
+YEAR
+AMOUNT
+Sales to D.A. Drywall
+2001
+$4,084.00
+Sales
+2001
+$5,386.78
+TOTAL
+$9,470.78
+I have found that all amounts from D. A. Drywall which the Minister had reassessed as unreported income have been included in the Appellant’s Schedule C. I was not provided sufficient evidence by the Respondent to ascertain the details of the amounts included in $5,386.78 and counsel for the Appellant did not address this issue.
+[18] The Appellant has demonstrated that in 2001 the amount of $4,084 was included in her calculation of gross income for 2001 on Schedule C. She has not shown that the amount of $5,368.78 was included in that Schedule.
+[19] The Appellant’s computation of gross income for 2001 included a deduction of $4,800 for amounts deposited to her bank account. These amounts were marked as personal on Schedule C. At the hearing I questioned the Appellant about this deduction. I was not given a satisfactory answer. The evidence established that the Appellant’s sole source of income was from the Business. As a result, I found that the $4800 deposited to her account had to be from sales she made in the Business and should not have been deducted from the computation of gross income.
+[20] The onus was on the Appellant to demolish the assumptions made by the Minister. This she has not done. After careful consideration of all the evidence I have concluded that the gross income as calculated by the Appellant in her Notice of Appeal is not correct. The more accurate computation of her gross income for 2000 and 2001 was $100,408.68 and $94,025.78 respectively.
+[21] The last issue is whether the Appellant is liable for the gross negligence penalty which was assessed pursuant to subsection 163(2) of the Act. That subsection provides:
+(2) False statements or omissions -- Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of …
+[22] Counsel for the Respondent submitted that the Appellant ought to have known that there was unreported income as her net business income on her income tax returns was extremely low. Her Business was the sole source of income for her family which consisted of two children and her common law spouse. Counsel correctly stated that the Appellant’s credibility is central to my final decision.
+[23] The onus is on the Respondent to establish that the Appellant knowingly, or under circumstances amounting to gross negligence made a false statement or omission in her return in 2000 and 2001.
+[24] In Venne v. R.[1] at paragraph 37 Strayer J. stated the test for gross negligence as follows:
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[25] The Appellant stated that she does not understand bookkeeping nor did she understand how Paul Snider calculated her income. She never looked at her returns; she accepted the returns as prepared by Paul Snider and signed them. This does not exonerate the Appellant as she is responsible for ascertaining the accuracy of her returns. She is also responsible for keeping books and records for her Business.
+[26] Doug Simpson used the same documents to produce the schedules attached to the Notice of Appeal that Paul Snider used to prepare the income tax returns. It was the Appellant’s position that she gave Paul Snider all of her documents and she relied on his expertise.
+[27] In DeCosta v. R.[2] at paragraph 11 Chief Justice Bowman, as he then was, wrote:
+[11] In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+[28] I found the Appellant to be unsophisticated and extremely naïve. She stated that her common law spouse negotiated the contracts for the Business and prepared the invoices. I was left to wonder who was actually in charge of the Business.
+[29] The Appellant did unquestionably seem to be lost when faced with the complexities of bookkeeping. In fact she did not have any books for the Business beyond an invoice book.
+[30] The amounts of income that the Appellant failed to report were $15,819.76 and $9,740.78 in 2000 and 2001. The unreported amounts represented 18% and 11% of the gross income reported in 2000 and 2001. I find that the magnitude of the unreported income is not so substantial that that I can conclude that the Appellant knew or ought to have known that she failed to report some of her income.
+[31] In my opinion this is not a situation of gross negligence or deliberate action or blatant disregard on the part of the Appellant. When faced with the Minister’s reassessment, the Appellant provided her documents to another accountant to ascertain how the Minister had calculated her income. This calculation she included in her Notice of Appeal. It does not appear that she deliberately set out to conceal her income. I have come to the conclusion that the circumstances of the case do not warrant the imposition of penalties.
+[32] The appeal is allowed.
+Signed at Ottawa, Canada, this 10th day of November 2008.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2008TCC572
+COURT FILE NO.: 2006-1147(IT)G
+STYLE OF CAUSE: MOIRA AGREGAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 10, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Bryan J. Tham
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bryan J. Tham
+385 Frederick Street, Suite 205
+Kitchener, Ontario
+N2H 2P2
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1984] C.T.C. 223 (FCTD)
+[2] 2005 TCC 545

@@ -1,0 +1,145 @@
+Title: Central Island Realty Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29588/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-8-29588-central-island-realty-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2010-01-07
+
+# Central Island Realty Ltd. c. M.R.N.
+
+- Citation: 2010 CCI 8
+- Decision date: 2010-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6340, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Central Island Realty Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-01-07
+Référence neutre
+2010 CCI 8
+Numéro de dossier
+2009-142(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2009-142(EI)
+ENTRE :
+CENTRAL ISLAND REALTY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 décembre 2009, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Représentant de l’intimé :
+Jonah Spiegelman (Stagiaire)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») est rejeté et la décision rendue par le ministre du Revenu national au sujet de l’appel porté devant lui en vertu de l’article 91 de la Loi est confirmée.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2010.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 8
+Date : 20100107
+Dossier : 2009-142(EI)
+ENTRE :
+CENTRAL ISLAND REALTY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s’agit d’un appel interjeté à l’encontre de la décision du ministre du Revenu national (le « ministre ») selon laquelle l’emploi exercé par Denise Dumbrell auprès de l’appelante pour la période du 1er janvier 2004 au 8 novembre 2007 était un emploi assurable selon la Loi sur l’assurance-emploi (la « Loi »). La société appelante est possédée en propriété exclusive par le père de Mme Dumbrell, Wayne Dumbrell, et par conséquent, l’emploi de Denise Dumbrell ne devrait pas, en règle générale, constituer un emploi assurable aux termes de l’alinéa 5(2)i) de la Loi. Cette disposition prévoit que l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance n’est pas un emploi assurable. Il n’y a pas de contestation que, si ce n’était de l’alinéa 5(3)b), Denise Dumbrell et l’appelante auraient eu un lien de dépendance. Toutefois, l’alinéa 5(3)b) indique ce qui suit à cet égard :
+5(3) Pour l’application de l’alinéa (2)i),
+a) […]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+En l’espèce, le ministre était convaincu que les parties auraient conclu entre elles un contrat de travail à peu près semblable si elles n’avaient pas eu de lien de dépendance.
+[2] La seule question en litige consiste à savoir si, à la lumière de l’ensemble des faits, la décision du ministre rendue en vertu de l’alinéa 5(3)b) est raisonnable. À l’audience, l’appelante a reconnu que l’emploi de Mme Dumbrell était un emploi assurable pour la période du 2 janvier 2004 au 31 août 2004. La période considérée pour les besoins de l’appel est par conséquent celle du 1er septembre 2004 au 8 novembre 2007.
+[3] Les faits sur lesquels le ministre s’est fondé pour prendre sa décision sont exposés au paragraphe 6 de la réponse à l’avis d’appel. Les parties pertinentes du paragraphe 6 sont ainsi rédigées :
+[traduction]
+6. Pour décider que le travailleur exerçait un emploi assurable pour l’appelante durant la période en question, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) [...]
+Courtier en immeubles autorisé
+p) en 2003, l’employée est devenue courtier en immeubles agrée;
+q) les fonctions de l’employée, semblables à celles des autres courtiers en immeubles au service de l’appelante, consistaient à s’occuper de la vente d’immeubles et à aider l’appelante dans ses activités administratives;
+r) au cours de la période en cause, l’appelante avait à son service un réceptionniste, un commis comptable, un gestionnaire de bureau, un assistant et des courtiers en immeubles indépendants ou travaillant comme employés;
+s) l’employée et tous les courtiers en immeubles travaillant comme employés rendaient compte au gestionnaire de bureau;
+t) au cours de la période en cause, l’employée et les autres courtiers en immeubles travaillant comme employés avaient la responsabilité d’exécuter des tâches de soutien administratif alors que les courtiers en immeubles indépendants n’y étaient pas tenus;
+u) l’employée et les autres courtiers en immeubles qui n’avaient pas de lien de dépendance avec l’appelante rendaient compte au gestionnaire de bureau;
+Heures de travail et rémunération
+v) tous les courtiers en immeubles, indépendants ou travaillant comme employés, étaient rémunérés à la commission;
+w) seuls le personnel de bureau et le gestionnaire de bureau de l’appelante étaient rémunérés selon un taux horaire;
+x) les heures de travail de l’employée et de tous les courtiers en immeubles qui n’avaient pas de lien de dépendance avec l’appelante variaient et ils étaient tous en disponibilité;
+y) l’appelante et les courtiers en immeubles ne sont pas liés par une entente écrite;
+z) l’employée était rémunérée à la commission selon une répartition 60/40 alors que certains autres courtiers en immeubles étaient rémunérés selon une répartition 70/30;
+aa) le taux de commission de l’employée était revu à la hausse selon une répartition 70/30 dès que le volume de ses ventes augmentait;
+Autres
+bb) l’employée n’avait pas de pouvoir de signature sur les comptes bancaires de l’appelante;
+cc) tout comme pour les autres courtiers en immeubles, les seules prestations auxquelles l’employée pouvait avoir droit étaient celles de la WCB;
+dd) […]
+(hh) l’employée était traitée de la même manière que tous les autres courtiers en immeubles qui n’avaient pas de lien de dépendance avec l’appelante; […]
+Analyse
+[4] Selon la Cour d’appel fédérale, le rôle de la Cour au regard de la décision du ministre rendue en vertu de l’alinéa 5(3)b) est de vérifier si les faits sur lesquels le ministre s’est fondé étaient réels et correctement appréciés en tenant compte du contexte dans lequel ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était convaincu paraît toujours raisonnable. Voir Légaré c. Canada (ministre du Revenu national)[1].
+[5] Dans Pérusse c. Canada (Ministre du Revenu national)[2], la Cour d’appel fédérale a également dit ce qui suit, au paragraphe 15 :
+15 Le rôle du juge d’appel n’est donc pas simplement de se demander si le ministre était fondé de conclure comme il l’a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l’interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s’enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s’expliquer sous serment et de se demander si la conclusion du ministre, sous l’éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l’égard de l’appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[6] À l’audience, l’appelante a appelé Mme Dumbrell à témoigner et l’intimé a appelé Richard Blakely et Linda Wik, respectivement agent des décisions et agente d’appels à l’Agence du revenu du Canada.
+[7] Selon le témoignage de Mme Dumbrell, ses conditions d’emploi aussi bien que son taux de rémunération chez l’appelante étaient très différents de ceux des autres courtiers en immeubles sans lien de dépendance, qui étaient au service de l’appelante.
+[8] Toutefois, la crédibilité de Mme Dumbrell a été minée par les incohérences aussi bien entre son témoignage devant la Cour et ses déclarations antérieures faites à M. Blakely, qu’entre le témoignage qu’elle a présenté et les renseignements que Mme Wik a reçu de Wayne Dumbrell ainsi que ceux que M. Blakely a reçu de l’épouse de Wayne Dumbrell, (la mère de Mme Dumbrell), Sharon Dumbrell, qui travaillait également chez l’appelante comme courtier en immeubles.
+[9] Premièrement, Mme Dumbrell a déclaré à l’audience que sa part de commission sur les propriétés qu’elle vendait n’était pas fixe, mais qu’elle était décidée par son père en fonction de son humeur, des besoins du moment de Mme Dumbrell ainsi que du temps qu’elle avait investi dans la vente. Toutefois, elle avait dit à M. Blakely, lors d’une entrevue téléphonique, qu’elle recevait 60 % de la commission sur les propriétés vendues et que 40 % revenaient à l’appelante. Cette répartition de la commission (60/40) a été confirmée par Sharon Dumbrell lors d’une entrevue téléphonique avec M. Blakely, et par Wayne Dumbrell lors d’une entrevue téléphonique avec Mme Wik.
+[10] Deuxièmement, d’après le témoignage de Mme Denise Dumbrell, l’appelante lui avait fourni un véhicule, un camion. Toutefois, Mme Dumbrell avait indiqué à M. Blakely qu’elle effectuait les paiements relatifs au camion. Sharon Dumbrell avait également mentionné à M. Blakely que sa fille effectuait les paiements relatifs au camion. M. Dumbrell a informé Mme Wik que sa fille devait se procurer son propre moyen de transport et s’acquitter des frais y afférents.
+[11] Troisièmement, le témoignage présenté par Denise Dumbrell au sujet de ses responsabilités chez l’appelante n’était pas compatible avec ce qu’elle avait déclaré à M. Blakely lors d’une entrevue téléphonique. Lorsque M. Blakely lui a demandé de décrire une journée de travail habituelle et en quoi consistaient ses tâches, elle a répondu [Traduction] « la vente d’immeubles, tous les aspects de la vente d’immeubles ». À l’audience, Mme Dumbrell a indiqué qu’en plus de la vente d’immeubles, ses responsabilités consistaient à accomplir toutes les tâches que son père lui demandait d’accomplir ou celles qui avaient besoin d’être faites, notamment faire des commissions, livrer des documents dans les autres bureaux de l’appelante, assurer la formation des nouveaux employés, nettoyer les bureaux, y compris passer l’aspirateur et nettoyer les salles de bain, préparer les panneaux utilisés par les courtiers en immeubles et aider les autres courtiers en immeubles, ainsi que s’occuper du bureau en l’absence de ses parents. D’après ses estimations, elle consacrait de 20 à 25 heures par semaine à des tâches sans rapport avec la vente d’immeubles et devait souvent travailler tard dans la soirée ou durant les fins de semaine.
+[12] Quatrièmement, Denise Dumbrell a affirmé dans sa déposition qu’elle n’avait jamais rendu compte au gestionnaire de bureau de l’appelante mais plutôt seulement à son père. Elle a indiqué à M. Blakely qu’elle avait plus affaire à son père qu’au gestionnaire de bureau. Sharon Dumbrell a mentionné que Denise rendait compte aussi bien à Wayne Dumbrell qu’au gestionnaire de bureau.
+[13] Finalement, dans son témoignage devant la Cour, Denise Dumbrell a indiqué que c’était sa mère qui avait envoyé la demande de remboursement des cotisations de l’appelante à l’assurance-emploi versées dans le cadre de son emploi. Sa mère avait tout de même mentionné à M. Blakely que sa fille s’était renseignée sur la possibilité d’obtenir un remboursement auprès de Grant Internationals Inc., une entreprise qui se présente sur ses papiers à en-tête[3] comme [traduction] « Les spécialistes du remboursement en matière d’assurance-emploi ».
+[14] Abstraction faite de certaines incohérences dans le témoignage de Denise Dumbrell et dans ses déclarations, je suis également frappé par les différences entre le tableau qu’elle a brossé de ses responsabilités et de ses conditions d’emploi chez l’appelante dans son entrevue avec M. Blakely, et sa déposition devant la Cour. Elle a déclaré à M. Blakely qu’elle signait des chèques, s’occupait du bureau et était en disponibilité en tout temps quand ses parents étaient absents, et qu’à d’autres moments, elle pouvait passer 20 heures par mois à accomplir des tâches non payées pour le compte de l’appelante. À l’audience, Mme Dumbrell a estimé qu’elle consacrait de 20 à 25 heures par semaine à l’exécution de [traduction] « tâches non liées à l’activité de courtier en immeubles » pour le compte de l’appelante et pour lesquelles elle n’était pas payée. Elle s’est décrite comme étant [traduction] « l’esclave personnelle de son père » et a indiqué qu’en tant que membre de la famille, elle se sentait obligée d’accomplir les tâches qu’il lui demandait de faire. Elle a également mentionné que les autres courtiers en immeubles du bureau l’appelaient [traduction] « super‑femme ». Lorsqu’on l’a interrogé à propos de l’entrevue téléphonique avec M. Blakely, elle a répondu qu’elle ne s’en rappelait pas. Je trouve cela surprenant, étant donné qu’il semble que l’entrevue ait été assez longue et détaillée.
+[15] De plus, le témoignage présenté par Mme Dumbrell concernant l’importance des tâches non liées à l’activité de courtier en immeubles n’est pas compatible avec les renseignements que les parents de Mme Dumbrell avaient fournis à l’agent des décisions et à l’agente des appels. Aucun d’eux n’a mentionné un travail supplémentaire non rémunéré accompli par Mme Dumbrell, exception faite pour les périodes où ils étaient en vacances, ce qui se produisait périodiquement d’après Sharon Dumbrell.
+[16] Comme j’ai conclu que Denise Dumbrell n’était pas un témoin crédible, je considère que l’appelante n’a réussi à fournir à la Cour aucun élément nouveau concernant l’emploi de Mme Dumbrell chez elle. Elle n’a pas non plus (à une exception près) réussi à réfuter les hypothèses faites par le ministre au sujet des conditions d’emploi de Mme Dumbrell. Il s’avère que la majorité de ces conditions étaient à peu près semblables à celles des autres courtiers en immeubles au service de l’appelante. Même si la répartition de la commission entre Denise Dumbrell et l’appelante était inférieure (60/40) à celle des autres courtiers en immeubles (leur répartition était de 70/30), il était tenu compte, d’après les explications de Sharon Dumbrell, des dépenses supplémentaires que l’appelante prenait en charge pour compte de Denise et qu’elle n’assumait pas pour les autres courtiers en immeubles, tels que les frais pour les appels interurbains, le téléphone cellulaire, l’affichage et la publicité. M. Dumbrell a précisé que la répartition de la commission était revue à la hausse en cas d’augmentation du volume des ventes de Mme Dumbrell. Toutes ces considérations semblent indiquer que les modalités financières de leur relation étaient à peu près semblables à celles qui auraient existé dans une relation sans lien de dépendance.
+[17] Je conviens que Denise Dumbrell a effectué du travail supplémentaire non rémunéré lorsque ses parents étaient absents, mais la preuve ne démontre pas clairement la fréquence ou l’importance de ce travail supplémentaire. Contrairement à l’hypothèse énoncée à l’alinéa 6bb) de la réponse à l’avis d’appel, les éléments de preuve ont démontré que l’appelante avait donné à Mme Dumbrell le pouvoir de signature sur certains de ses comptes bancaires, lequel pouvoir devait être exercé par Mme Dumbrell en l’absence des parents de celle-ci. Cependant, encore une fois, on ne sait pas à quelle fréquence elle a signé des chèques pour le compte de l’appelante. En fin de compte, l’appelante n’a pas démontré que ce travail supplémentaire était suffisant pour rendre déraisonnable la décision du ministre relativement au contrat de travail.
+[18] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de janvier, 2010.
+« B.Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 31e jour de mars 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 8
+No DU DOSSIER DE LA COUR : 2009-142(EI)
+INTITULÉ : CENTRAL ISLAND REALTY LTD.
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 15 décembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 7 janvier 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Deryk W. Coward
+Représentant de l’intimé :
+Jonah Spiegelman (Stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Deryk W. Coward
+Cabinet : D’Arcy & Deacon LLP
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1999] A.C.F. no 878.
+[2] [2000] A.C.F. no 310.
+[3] Pièce R-1.

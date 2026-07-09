@@ -1,0 +1,139 @@
+Title: Smith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/307966/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-61-307966-smith-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-03-26
+
+# Smith v. The Queen
+
+- Citation: 2018 TCC 61
+- Decision date: 2018-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7538, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-03-26
+Neutral citation
+2018 TCC 61
+File numbers
+2017-1662(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-1662(IT)I
+BETWEEN:
+THOMAS SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 16, 2018, at Nanaimo, British Columbia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+David Peters
+Counsel for the Respondent:
+Marta Zemojtel
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2015 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of March 2018.
+“Diane Campbell”
+Campbell J.
+Citation: 2018 TCC 61
+Date: 20180326
+Docket: 2017-1662(IT)I
+BETWEEN:
+THOMAS SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The issue in this appeal is whether the Appellant can claim a deduction of $3,213.00 in respect of registered pension plan (“RPP”) contributions made in the 2015 taxation year. More specifically, can the Appellant take the deduction against “other income” or is the deduction confined to the employment source from which it was derived?
+[2] The Appellant is a registered Indian under the Indian Act, R.S.C., 1985, c. 1-5. In 2015, he was employed as tribe councillor and head of economic development for the Tlowitsis-Mumtagila First Nation. He earned income of $37,800.00 from this employment (“the Income”). All of this income was 100 percent tax exempt and it was the only employment income he received in 2015. The Appellant made the RPP contributions monthly in 2015 in respect to a pension plan that was registered by his employer, the Tlowitsis‑Mumtagila First Nation.
+[3] In addition to this employment income, he had other taxable income of over $100,000.00 from dividends and capital gains interest. It is against this taxable income that the Appellant wants to claim the deduction for the RPP contributions. He submits that these contributions are general deductions and that they are not necessarily related to the employment income. In addition, he argues that there are no provisions in the Income Tax Act (“the ITA”) that precludes RPP deductions from being taken against other taxable income.
+[4] The Respondent argues that when computing his taxable income for the 2015 taxation year, the RPP deduction cannot be taken against other taxable sources of income as the Appellant suggests. Rather the deduction can be taken only against the Appellant’s employment income which is the source of the contributions and the consequent deduction.
+Analysis
+[5] There is no question that the Appellant is entitled to the deduction for his RPP contributions in 2015. The Appellant, as employee, has fulfilled all necessary requirements as did his employer in registering the plan. Rather, the issue relates to whether the deduction may be taken against a source of taxable income other than his employment income in respect of which the plan was registered and the contributions made.
+[6] Because the employment income from Tlowitsis-Mumtagila First Nation is tax exempt pursuant to paragraph 81(1)(a) of the ITA and the Indian Act, the Appellant wishes to make this deduction against his other taxable income of dividends and capital gains interest. In theory, the Appellant received the deduction for his RPP contributions in 2015 which resulted in reducing his employment income to $34,587.00. The Appellant’s reduced amount of employment income remained tax-exempt income. From a practical standpoint, the deduction has a net-zero effect if it is determined that the Appellant cannot take this deduction from his other taxable income. This is an unusual situation but the fact, that the deduction will have no net effect because the Appellant’s income is exempt, is not pertinent to the issue before me. The issue is whether, pursuant to the applicable statutory provisions, such a deduction is confined to the employment income or whether it may be taken against other taxable income.
+[7] There are several provisions which are relevant to the issue before me. Currently, there is no case law on the proper interpretation to be given to these provisions and there are no Parliamentary discussions on the intent of these provisions in either Hansard, Bill C-22, 37th Parliament, 1st Session or in reports of the Standing Committee on Finance, Sixth Report, Standing Committee on Finance, 37th Parliament, 1st Session, April 23, 2001 or in any of the relevant technical notes.
+[8] No deductions may be made by a taxpayer in computing income in any taxation year from an office or employment unless the deduction is expressly permitted in subsection 8(1) of the ITA. The deductions permitted in subsection 8(1) enable taxpayers to reduce their taxable income in any given taxation year. The preamble in 8(1) states:
+Deductions allowed
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+[Emphasis added]
+[9] The exception relevant to this appeal is found at paragraph 8(1)(m):
+8(1)
+…
+Employee’s registered pension plan contributions
+(m) the amount in respect of contributions to registered pension plans that, by reason of subsection 147.2(4), is deductible in computing the taxpayer’s income for the year;
+[10] This permits a deduction of a contribution to a RPP in a taxation year and makes reference to subsection 147.2(4), the relevant portion of which states:
+Amount of employee’s pension contributions deductible
+(4) There may be deducted in computing the income of an individual for a taxation year ending after 1990 an amount equal to the total of
+Service after 1989
+(a)the total of all amounts each of which is a contribution (other than a prescribed contribution) made by the individual in the year to a registered pension plan that is in respect of a period after 1989 or that is a prescribed eligible contribution, to the extent that the contribution was made in accordance with the plan as registered,
+...
+RPP contributions will be deductible in computing a taxpayer’s income provided they are made in accordance with a registered plan.
+[11] In the absence of case law respecting these provisions, the Respondent relied on commentary by McCarthy Tétrault entitled “Deductibility of Registered Pension Plan Contributions”, January 15, 2015, Taxnet Pro as well as the statutory interpretation applied to subsection 20(12) of the ITA by Justice Paris in FLSmidth Ltd. v The Queen, 2012 TCC 3, 2012 DTC 1052 [“FLSmidth”], affirmed in 2013 FCA 160.
+[12] The Respondent quoted portions of two paragraphs, pages 5-6, of the McCarthy Tétrault commentary:
+For the 1991 and subsequent taxation years, paragraph 8(1)(m) permits an employee to deduct, in computing income from an office or employment, an amount contributed by the employee to an RPP to the extent that such amount is deductible by reason of subsection 147.2(4). …
+In general, contributions to a pension plan are only deductible in computing a Canadian resident’s taxable income where the pension plan is registered with the CRA for the purposes of subsection 147.2(4). …
+[13] The Respondent argues that this commentary suggests that, to be deductible, RPP contributions must arise from the related employment. However, I have given no weight to these statements as they add very little value to the statutory interpretations of these provisions.
+[14] The Respondent also relied on the statutory interpretation applied to subsection 20(12) in the reasons contained in FLSmidth. Although the decision dealt with an entirely different section of the ITA respecting business and property income, the Respondent suggests that an interpretation analogous to that applied by Justice Paris should similarly be applied to paragraph 8(1)(m) and subsection 147.2(4). In interpreting subsection 20(12), the Court concluded at paragraph 30 that the wording “in computing a taxpayer’s income for a taxation year from business or property” required a computation of income for each separate business or property of the taxpayer. Accordingly, subsection 20(12) requires that income will be calculated from each sub-source separately as opposed to a single unified source of business or property income. In reaching this conclusion, Justice Paris relied on the comments of Iacobucci J. in Hickman Motors Limited v The Queen, [1997] 2 SCR 336 [“Hickman Motors”], at paragraphs 133-134, where he held that a calculation of income from a business or property requires treating each business or property separately and a computation of income will relate to each separate business or property:
+133 It is trite to say that s. 3(a) defines a taxpayer’s income as income from all sources. The section goes on to specify the most common sources of income, namely, business, property, and office or employment. Generally speaking, for tax purposes, when calculating income from business, a taxpayer may not lump together the revenues and expenses from all of that person’s various business enterprises. Rather, the taxpayer must compute, separately, his or her income or loss from each individual business. This provides the appropriate figure which the taxpayer then “plugs in” to the s. 3 formula for computing income for the taxation year.
+134 This requirement to treat each business as a separate source arises from the wording of the applicable statutory provisions. For example, s. 3(a) states that a taxpayer must “determine the aggregate of amounts each of which is the taxpayer’s income for the year . . . from each office, employment, business and property” (emphasis added). Similarly, s. 4(1)(a) provides:
+. . . a taxpayer’s income or loss for a taxation year from an office, employment, business, property or other source, . . . is the taxpayer's income or loss . . . computed in accordance with this Act on the assumption that he had during the taxation year no income or loss except from that source.... [Emphasis added.]
+Section 9(1) contains similar wording, as does s. 20(1), which lists a number of deductions permitted from a taxpayer’s income “from a business or property” (emphasis added).
+[15] At paragraph 135 of Hickman Motors, Iacobucci J. notes that the requirement to segregate income according to various sub-sources has been discussed in both academic writings and jurisprudence and cites the following passage from the Canadian Income Taxation (4th ed. 1986), Edwin C. Harris (at page 99 in Hickman Motors):
+… the Act provides that a taxpayer’s income for a taxation year is for a taxation year in his income from all sources, including but not limited to his income from each office or employment, each business, and each property. His income from each source-type is to be computed separately.
+[Emphasis Added]
+[16] At paragraph 138, Iacobucci J. concludes that:
+The requirement to calculate income from each “sub-source” separately is fundamental to the entire taxing scheme set up by Parliament. To suggest otherwise, as my colleague does, it to ignore the plain words of the Act.
+[17] Relying on these statements Justice Paris rejected the Appellant’s argument that the phrase “income…from business or property” in subsection 20(12) referred to a single unified source of income or to the income derived from business or property generally. Instead Justice Paris at paragraph 32 concluded that “the wording of subsection 20(12) contemplates a calculation of income from a specific business or property source of a taxpayer…”
+[18] The wording contained in subsection 147.2(4), in referencing deductions, does not identify a specific source of income but merely refers to an amount of employee’s pension contributions that may be deducted in computing the income of an individual. This provision is found in Part I, Division G, “Deferred and Other Special Income Arrangements” and under the sub-heading “Registered Plans”. On its own, none of this indicates that this provision is connected to a specific source of income. However, subsection 147.2(4) is referenced in paragraph 8(1)(m) which is located under Part I, Division B, “Computation of Income”, Subdivision a, “Income or Loss from an Office or Employment”. This heading indicates that these provisions are restricted to income from an office or employment. Although this is in no way definitive of the statutory interpretation of a provision, it may provide some guidance according to the placement of the provision within the overall framework. The Court in Kaiser v Minister of National Revenue, [1991] TCJ No. 429, 91 DTC 1057, at paragraph 8, relied on the following quote from “The Interpretation of Legislation in Canada” by Pierre A. Côté respecting the potential value of headings:
+…headings are part of a statute and thus relevant to its construction. Headings may help to situate a provision within the general structure of the statute: they indicate its framework, its anatomy. Headings may also be considered as preambles to the provisions they introduce….
+[19] I agree with Respondent counsel’s argument that the wording of subsection 8(1) should be interpreted in a fashion similar to the interpretation applied by Justice Paris in FLSmidth to subsection 20(12). The opening words to subsection 8(1) references computation of a taxpayer’s income “from an office or employment” and lists deductions that are permitted that are “wholly applicable to that source”. The language employed by Parliament is straightforward and unambiguous. The term “that source” clearly and directly refers back to a taxpayer’s “income…from an office or employment”. Paragraph 8(1)(m) references the deduction that a taxpayer may take in computing his or her income for the employee contributions to a RPP. That provision allows a deduction for “the amount in respect of contributions”. The use of the words “in respect of” implies that in computing income the deduction “amount” must be “connected to” or “in reference to” the specific contributions that were made. Again, the language used in this paragraph is straightforward.
+[20] I agree with the analysis of Justice Paris and his conclusions are equally applicable to the language contained in the relevant provisions in this appeal, even though subsection 20(12) deals with income from a business or property. The comments contained in Hickman Motors are also applicable. The taxing scheme set out in the ITA requires that a taxpayer must calculate income in any taxation year from all sources but it is calculated with reference to each source, which in this appeal, means each office or each employment. The deduction for RPP contributions cannot be treated as a deduction in the general sense so that it could be separated from its income source. The Appellant cannot take the deduction, which is connected to his employment with Tlowitsis-Mumtagila First Nation and apply it generally against his other income of dividends and capital gains interest.
+[21] The unfortunate result for the Appellant is that his deduction must be taken against employment income which is exempt producing a nil result for him. He would not have been in a position of making those contributions except through his employment with Tlowitsis-Mumtagila First Nation, which, as the employer, established the pension plan. The language contained in these provisions, together with the general intent and spirit of the ITA, preclude the Appellant from taking the deduction for his RPP contributions against his other income.
+[22] For these reasons, the appeal in respect to the 2015 taxation year is dismissed.
+Signed at Ottawa, Canada, this 26th day of March 2018.
+“Diane Campbell”
+Campbell J.
+CITATION:
+2018 TCC 61
+COURT FILE NO.:
+2017-1662(IT)I
+STYLE OF CAUSE:
+THOMAS SMITH AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+February 16, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+March 26, 2018
+APPEARANCES:
+Agent for the Appellant:
+David Peters
+Counsel for the Respondent:
+Marta Zemojtel
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

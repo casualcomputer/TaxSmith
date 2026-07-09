@@ -1,0 +1,113 @@
+Title: Bauskin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31100/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-64-31100-bauskin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-02-20
+
+# Bauskin v. The Queen
+
+- Citation: 2013 TCC 64
+- Decision date: 2013-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4686, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bauskin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-20
+Neutral citation
+2013 TCC 64
+File numbers
+2012-1929(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1929(IT)I
+BETWEEN:
+HARRY BAUSKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 4, 2013 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Danny Y. Baratz
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 20th day of February 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 64
+Date: 20130220
+Docket: 2012-1929(IT)I
+BETWEEN:
+HARRY BAUSKIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Harry Bauskin’s son, who has a disability, attended Crestwood Preparatory College (“Crestwood”) from 2006 to 2011. This appeal under the Income Tax Act concerns the disallowance of a medical expense tax credit in respect of $15,840 in tuition fees paid to Crestwood. The relevant taxation year is 2010.
+Factual background
+[2] Crestwood is a private school offering elementary and high school education that is designed to prepare students for further education at university. It has a broad range of students in its mainstream teaching program, as well as students with severe learning disabilities in its Transition Program.
+[3] After having difficulty in the public school system, a doctor diagnosed Mr. Bauskin’s son with attention deficit hyperactivity disorder (ADHD). The doctor recommended that the child attend Crestwood’s Transition Program. As a result, the child attended that Program for grades 7 and 8.
+[4] Crestwood did not offer the Transition Program after grade 8. Accordingly, for grades 9, 10 and 11 the son attended Crestwood’s mainstream program. During this time, the son took regular classes with students who did not have learning disabilities. However, Crestwood provided the son with supplemental assistance such as extra time to write exams and extra help with the class work. There were no extra charges for this supplemental assistance.
+[5] During the taxation year at issue, 2010, the son was in the mainstream program at Crestwood.
+Analysis
+[6] The issue is whether the tuition fees paid to Crestwood for the mainstream program in 2010 qualify as a medical expense for purposes of the medical expense tax credit.
+[7] Mr. Bauskin submits that the tuition fees qualify as a medical expense for purposes of the tax credit by virtue of s. 118.2(2)(e) of the Act, which provides:
+(2) Medical expenses - For the purposes of subsection (1), a medical expense of an individual is an amount paid
+[…]
+(e) [school, institution, etc.] - for the care, or the care and training, at a school, institution or other place of the patient, who has been certified by an appropriately qualified person to be a person who, by reason of a physical or mental handicap, requires the equipment, facilities or personnel specially provided by that school, institution or other place for the care, or the care and training, of individuals suffering from the handicap suffered by the patient;
+[8] The Crown submits that the requirements of the above provision are not satisfied because the mainstream program at Crestwood did not specially provide equipment, facilities or personnel for students with disabilities and there was no certification indicating that Mr. Bauskin’s son was required to be enrolled in the mainstream program as a result of his learning disability.
+[9] For the reasons below, I agree with the Crown’s second submission regarding the certification requirement. As this conclusion is sufficient to dispose of the appeal, it is unnecessary that I consider the first submission.
+[10] The certificate that is required by s. 118.2(2)(e) must indicate that the person with the disability requires equipment, facilities or personnel specially provided by the school. In order for this requirement to make sense in the context of the medical expense tax credit, the tuition fees at issue must relate to equipment, facilities or personnel that the certificate has identified as being required.
+[11] As the Federal Court of Appeal stated in The Queen v Scott, 2008 FCA 286, a link must exist between the disabled person’s need and the relevant expense. Trudel J.A. comments:
+[11] To satisfy this requirement, first of all, the respondent’s son must have a specific need. Second, the expenses of Rothesay must be inextricably tied to this specific need resulting from his disability: Lister v. Canada, 2006 FCA 331 at paragraph 15. Third, Rothesay must be an institution that is capable of addressing the need of a group with disabilities similar to those of the respondent’s son.
+(Emphasis added)
+[12] Mr. Bauskin provided two letters in support of the certification requirement. The first letter is from a Dr. Cohen dated December 19, 2007. Mr. Bauskin provided this letter to the Canada Revenue Agency in support of a claim for the tax credit in 2006 when the son was enrolled in the Transition Program. The problem that I have with this letter is that it only addresses the facilities provided by the Transition Program. Since it does not address equipment, facilities or personnel provided by the mainstream program, I conclude that this letter does not satisfy the certification requirement.
+[13] As noted in Scott:
+[23] However there must be true certification: one which specifies the mental or physical handicap from which the patient suffers, and the equipment, facilities or personnel that the patient requires in order to obtain the care or training needed to deal with that handicap: Title Estate v. Canada [2001] F.C.J. No. 530 at paragraph 5.
+[14] The second letter is from the Principal of Crestwood, Vincent Pagano, dated April 21, 2011. The letter is reproduced in part below:
+X is a special education student at Crestwood Preparatory College and had been assessed as requiring more accommodations than available in normal academic high school programs. He was in our transition program from 2006 until 2008 and continues to work within a modified program.
+X’s psychological assessment indicated his special needs. These accommodations included smaller class sizes, extra time for the exams, assignments and more classroom supervision.
+[15] In my view, this letter is not satisfactory evidence that a proper certificate has been given. The letter itself is not a certificate. Rather, it refers to a psychological assessment having indicated special needs. The only assessment that was entered into evidence was the 2007 assessment made by Dr. Cohen, which is insufficient to satisfy the certification requirement for the taxation year at issue. The Principal’s letter, by itself, is not satisfactory proof of an adequate certificate.
+[16] In light of my conclusion that the certification requirement in s. 118.2(2)(e) has not been satisfied, the appeal will be dismissed.
+Signed at Ottawa, Ontario this 20th day of February 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 64
+COURT FILE NO.: 2012-1929(IT)I
+STYLE OF CAUSE: HARRY BAUSKIN and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 4, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: February 20, 2013
+APPEARANCES:
+Agent for the Appellant:
+Danny Y. Baratz
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

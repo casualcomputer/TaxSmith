@@ -1,0 +1,189 @@
+Title: Slow Pub LTD c. Canada (Revenu national)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423903/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-247-423903-slow-pub-ltd-c-canada-revenu-national-fr.md
+Document type: case_law
+Last modified: 2019-10-31
+
+# Slow Pub LTD c. Canada (Revenu national)
+
+- Citation: 2019 CCI 247
+- Decision date: 2019-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4240, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slow Pub LTD c. Canada (Revenu national)
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-31
+Référence neutre
+2019 CCI 247
+Numéro de dossier
+2018-1659(EI)
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2018-1659(EI)
+ENTRE :
+SLOW PUB LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 10 mai 2019, à Regina (Saskatchewan)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Représentant de l’appelante :
+Adam Sperling
+Avocats de l’intimé :
+Me Anne Jinnouchi
+Me Nicole Sample (stagiaire)
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli, et la décision du ministre du Revenu national datée du 19 avril 2018 est annulée, au motif que John Zaremba n’occupait pas un emploi assurable alors qu’il travaillait pour l’appelante du 1er janvier 2017 au 23 octobre 2017.
+Signé à Edmonton (Alberta), ce 31e jour d’octobre 2019.
+« Susan Wong »
+La juge Wong
+Référence : 2019 CCI 247
+Date : 20191031
+Dossier : 2018-1659(EI)
+ENTRE :
+SLOW PUB LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction
+[1] L’appelante, Slow Pub Ltd., interjette appel de la décision rendue par le ministère du Revenu national (le ministre) datée du 19 avril 2018 selon laquelle John Zaremba était un employé de l’appelante et occupait un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi durant la période s’écoulant du 1er janvier au 23 octobre 2017 (la période).
+[2] Les personnes suivantes ont témoigné au nom de l’appelante : Adam Sperling (président de l’appelante), Meagan O’Flanagan (vice-présidente au marketing de Cansoft Technologies), et Kazi Mamun (PDG de Cansoft Technologies). L’intimé n’a appelé aucun témoin à la barre, et M. Zaremba n’est pas intervenu dans le présent appel.
+Question en litige
+[3] La question en litige est de savoir si M. Zaremba occupait un emploi assurable auprès de l’appelante durant la période visée. L’appelante soutient que M. Zaremba était l’un des propriétaires de la société et associé de M. Sperling durant la période visée, et non son employé.
+Critère
+[4] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 RCS 983, aux paragraphes 46 et 47, le juge Major a écrit que, même si aucun critère universel ne permet de déterminer si une personne est un employé ou un entrepreneur indépendant, « [l]a question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte ». La Cour a ensuite fait référence à une énumération restrictive de facteurs à prendre en compte :
+[47] [...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[5] Dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CAF 85, [2013] ACF no 327, aux paragraphes 38 à 42, la Cour d’appel fédérale s’est penchée sur le poids à accorder à l’intention des parties dans le contexte de l’établissement du statut d’employé (contrat de louage de services) ou d’entrepreneur indépendant (contrat d’entreprise). La Cour a conclu que le processus se déclinait en deux étapes : la première consiste à établir l’intention subjective des parties, tandis que la deuxième consiste à déterminer si la réalité objective correspond à leur intention subjective. La Cour a également énoncé que la question essentiellement demeurait la même que celle énoncée l’arrêt Sagaz, précité.
+[6] L’intention subjective des parties n’est pas déterminante à l’égard à leur relation; elle doit correspondre à la réalité objective, c’est-à-dire que la description que font les parties de la nature de leur relation (ou de leurs croyances quant à celle-ci) n’a d’importance que si cette description (ou leurs croyances) est corroborée par les faits. À cet égard, la Cour d’appel fédérale a tenu les propos suivants dans l’arrêt Connor Homes :
+[37] [...] on ne peut simplement laisser les parties décider à leur seul gré si elles sont liées par une relation d’employeur à employé ou de client à entrepreneur indépendant. La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[7] Dans le présent appel, la Cour est seulement appelée à décider si M. Zaremba était un employé et non pas s’il était un entrepreneur indépendant. Les mêmes critères s’appliquent, sauf que la Cour n’a pas à rendre une décision quant à son statut d’entrepreneur indépendant.
+A. Intention
+[8] L’appelante a été constituée sous le nom de « Slow Pub Ltd. » le 23 mars 2011. Elle a ensuite changé son nom pour devenir « Sperling Silver Distilleries Ltd. » le 26 avril 2018 [pièce A-4, rapport du profil de société tiré du registre des entreprises de la Saskatchewan]. Les directeurs et les actionnaires majoritaires de l’appelante sont M. Sperling et Alla Sidorenko, qui détiennent également les seules actions avec droit de vote.
+[9] L’appelante a d’abord exploité une brasserie et un bar sportif, puis elle a ajouté la distillerie à ses activités en 2012.
+[10] M. Sperling a témoigné qu’il avait rencontré M. Zaremba en 2002, alors que l’épouse de ce dernier travaillait pour lui. M. Sperling a indiqué qu’il a commencé à travailler avec M. Zaremba autour de 2010, lorsque ce dernier a perdu son entreprise de crêpes et lui a demandé son aide. M. Sperling a prêté des fonds à M. Zaremba et lui a donné un emploi à titre de responsable de la cave à vin dans un restaurant local.
+[11] Selon son témoignage, M. Sperling a demandé à M. Zaremba de travailler pour l’appelante à titre de maître-brasseur et directeur général lorsque celle-ci a commencé ses activités en 2011. M. Zaremba a ainsi commencé à travailler pour l’appelante au début avril 2011 [réponse à l’avis d’appel, alinéa 7g)].
+[12] Il a alors conclu des contrats de louage de services avec l’appelante le 1er avril 2011 et le 10 octobre 2015 [réponse à l’avis d’appel, alinéa 7i)]. Le contrat de louage de services d’octobre 2015 [pièce R-1] comportait les modalités suivantes, entre autres :
+a) M. Zaremba occupait un poste de [traduction] « maître-brasseur, distillateur et directeur général » [alinéa 1A du contrat];
+b) Il devait travailler au moins 50 heures par semaine et être de garde lors des jours fériés [alinéa 2B];
+c) L’appelante verserait un salaire annuel de 60 000 $ à M. Zaremba, plus une participation aux bénéfices au taux de 1,5 % des profits annuels nets, à l’exclusion des stocks invendus [alinéa 4A du contrat];
+d) M. Zaremba recevrait 21 jours de congé payé par année [alinéa 15B du contrat];
+e) Il n’y avait aucune modalité particulière reliée à l’emploi [paragraphe 3 du contrat].
+[13] Le contrat de louage de services daté d’octobre 2015 comprenait également une section intitulée [traduction] « Exclusivité et non-concurrence », laquelle prévoyait les éléments suivants, entre autres :
+a) M. Zaremba fournirait exclusivement ses services à l’appelante et ne fournirait aucun tel service à quiconque participant à une entreprise semblable [alinéa 7A du contrat];
+b) M. Zaremba n’accepterait aucun engagement ou ni aucune obligation de nature commerciale qui soit en concurrence directe avec les activités de l’appelante, et ce, avant ou après la signature du contrat de louage de services [alinéa 7C du contrat];
+c) Cette disposition demeurerait en vigueur pendant deux ans après la cessation d’emploi de M. Zaremba, et ce, qu’importe la raison de celle-ci [paragraphe 9 du contrat].
+[14] M. Sperling a indiqué que l’appelante a connu une croissance de ses activités en 2016, et c’est alors qu’il a offert à M. Zaremba la possibilité d’acquérir des actions de l’entreprise. Il a expliqué que le fait de devenir actionnaire permettrait à M. Zaremba de devenir un partenaire d’affaires, d’être rémunéré en dividendes plutôt qu’en salaire, et de voir ses revenus croître au fur et à mesure que l’appelante connaîtrait du succès. M. Sterling a également témoigné que M. Zaremba avait eu la possibilité d’obtenir des conseils juridiques et comptables indépendants avant de procéder à l’acquisition des actions. Toutefois, il avait choisi de faire appel aux services de l’avocat et du comptable de l’appelante.
+[15] Le 30 avril 2016, M. Zaremba a conclu un contrat d’achat d’actions écrit avec l’appelante [pièce A-3], lequel prévoyait les éléments suivants, entre autres :
+a) M. Zaremba achèterait 250 actions de catégorie « C » (sans droit de vote) pour la somme de 83 332,50 $ [paragraphes 1 et 2 du contrat];
+b) Le prix d’acquisition comprenait un montant de 50 000 $ en espèces, plus une participation de 33 332,50 $. La participation représentait la rémunération versée par l’appelante à M. Zaremba pour services rendus [paragraphe 4 du contrat];
+c) M. Zaremba achèterait un tiers des 250 actions chaque année, pendant trois ans, soit de 2017 à 2019. Le paiement en espèces et la participation seraient appliqués en parts égales au cours de cette même période de trois ans [paragraphe 4 du contrat].
+[16] M. Sperling a affirmé que M. Zaremba n’avait pas suffisamment de fonds en espèces pour acquérir les actions, alors l’appelante a consenti un prêt remboursable à M. Zaremba pour l’achat des actions. Même si le contrat prévoyait l’achat de 250 actions par M. Zaremba sur une période trois ans, l’appelante lui a délivré un certificat d’action pour l’ensemble des actions en date du 30 avril 2016 [pièce A-4]. Le rapport du profil de société tiré du registre des entreprises de la Saskatchewan, et daté du 13 janvier 2017 [pièce A-4], démontre que M. Zaremba détenait toutes ses 250 actions sans droit de vote de l’appelante.
+[17] M. Sperling a témoigné que ce changement de relation d’employeur à partenaire d’affaires s’est effectué par la voie d’une entente verbale. Il a dit que M. Zaremba avait ensuite commencé à recevoir des dividendes au lieu de son salaire. Les copies des talons de paie de M. Zaremba pour la période s’étirant du 1er mars 2017 au 31 octobre 2017 [pièce A-2] démontrent les éléments suivants :
+a) les totaux pour l’année à ce jour en date du 1er mars 2017 sont les suivants :
+des déductions à la source de 233,06 $, de 81,50 $ et de 1 000,18 $ pour le RPC, l’AE et l’impôt sur le revenu, respectivement;
+une indemnité de vacances de 283,02 $;
+583,34 $ en primes;
+b) de mars à octobre, les totaux pour l’année à ce jour n’ont pas changé;
+c) de mars à octobre, il a reçu 2 500 $ en revenu brut deux fois par mois, et ces sommes ont été inscrites comme des dividendes. M. Sperling a témoigné que ces paiements de dividendes étaient fondés sur le fait que M. Zaremba détenait toutes les 250 actions, malgré le fait qu’elles n’avaient pas été entièrement payées. Il a également mentionné qu’il recevait lui-même le même montant en dividendes à raison de deux fois par mois;
+d) de mars à octobre, aucune somme ne lui a été versée ou inscrite à titre de salaire;
+e) d’avril à septembre, un montant de 1 500 $ a été déduit de son chèque de paie une fois par mois, et inscrit à titre de remboursement du prêt;
+f) d’avril à octobre, des intérêts variant de 242,50 $ à 300 $ ont été déduits de son chèque de paie une fois par mois;
+g) de mars à octobre, un montant de 50 $ a été déduit de son chèque de paie et inscrit au chapitre d’un régime d’assurance collective;
+h) les montants en dividendes et en remboursement du prêt ont été calculés au pro rata durant sa dernière période de paie, conformément à sa démission du 23 octobre.
+[18] M. Sperling a témoigné qu’il avait été entendu verbalement que le statut de M. Zaremba passerait d’employé à partenaire d’affaires au moment de l’achat des actions. M. Sperling a également affirmé qu’une autre personne avait été embauchée pour remplacer M. Zaremba à titre de directeur. Il a expliqué que ces nouveaux arrangements étaient destinés à libérer M. Zaremba de sorte qu’il puisse faire la promotion des produits de l’appelante.
+[19] Contrairement au témoignage de M. Sperling, il a signé trois documents durant ou après cette période, lesquels confirmaient, reconnaissaient et affirmaient que M. Zaremba était à l’emploi de l’appelante. Il s’agit des documents suivants :
+a) une lettre du 12 janvier 2017 confirmant que M. Zaremba a commencé à travailler pour l’entreprise le 1er avril 2011 à titre d’employé, que son salaire de base était de 60 000 $, et qu’il occupait le poste de directeur général et distillateur [pièce R-2]; en contre-interrogatoire, M. Sperling a expliqué que cette lettre avait été préparée par M. Zaremba dans le but d’obtenir un prêt pour financer l’achat de ses actions;
+b) la lettre de démission non datée de M. Zaremba dans laquelle il explique qu’il quitte son poste de représentants aux ventes à compter du 23 octobre 2017 [pièce R-3]. En contre-interrogatoire, M. Sperling a expliqué qu’il avait signé cette lettre en reconnaissance de la démission de M. Zaremba, et non de son statut d’emploi;
+c) une entente de renonciation et d’exonération mutuelle non datée, laquelle fait référence à la démission du 23 octobre 2017 de M. Zaremba et au contrat de louage de services, et indique que M. Zaremba accepte de ne pas entrer en concurrence contre l’appelante en Saskatchewan pendant un an [pièce R-4]. En contre-interrogatoire, M. Sperling a témoigné que cette entente était nécessaire, car M. Zaremba avait une connaissance privilégiée des affaires de l’appelante.
+[20] M. Sperling a affirmé que l’appelante avait accepté d’acheter les actions de M. Zaremba au moment de son départ pour la somme de 6 000 $, moins les 4 600 $ déjà payés par M. Sperling, soit un montant net de 1 400 $ [pièce A-1].
+Analyse de l’intention
+[21] La crédibilité devient un élément essentiel lorsque les éléments de preuve se contredisent. Notre Cour n’a pas eu l’occasion d’évaluer la crédibilité de M. Zaremba, car il n’est ni intervenu dans l’instance ni n’a été appelé à témoigner par l’intimé.
+[22] M. Sperling était selon moi un témoin crédible. Toutefois, son témoignage quant à l’intention des parties était brouillé par les actions des parties, y compris la rédaction et la signature des pièces R-2 et R-4 décrites précédemment.
+[23] Je conclus également que l’appelante et M. Zaremba confondaient les concepts de propriétaire, d’actionnaire et d’employé, de telle sorte que notre Cour n’est pas en mesure de trouver des éléments de preuve clairs quant à leur intention subjective.
+[24] Par exemple, l’entente de renonciation et d’exonération mutuelle [pièce R-4] faisant référence au contrat de louage de services à titre de source, mais imposait une clause de non-concurrence, laquelle ne faisait pas partie du contrat de louage de services.
+[25] Autre exemple, l’appelante, dans sa lettre du 13 février 2018 adressée au ministre [pièce R-5], donne plusieurs titres de postes différents à M. Zaremba, et elle semble indiquer qu’un actionnaire ne peut pas être un employé, ce qui n’est pas exact. En effet, l’alinéa 5(2)b) de la Loi sur l’assurance-emploi exclut l’emploi assurable occupé par un employé qui contrôle plus de 40 pour cent des actions avec droit de vote de la société employeuse. En l’espèce, M. Zaremba ne détenait aucun droit de vote dans l’appelante, ce qui ne l’empêchait pas d’être un employé.
+[26] En contrepartie, la rémunération de M. Zaremba est passée d’un salaire au versement de dividendes après son passage au rôle d’actionnaire, et l’appelante a embauché quelqu’un d’autre pour le remplacer au poste de directeur. M. Zaremba a également reçu des conseils de la part du comptable et de l’avocat de l’appelante avant d’accepter le contrat d’achat d’actions. En conséquence, il comprenait ou aurait dû comprendre qu’un changement surviendrait dans sa relation avec l’appelante. Cependant, dans sa lettre du 12 janvier 2017 [pièce R-2] rédigée en vue d’obtenir du financement, il a indiqué avoir été à l’emploi de l’appelante sans interruption depuis avril 2011.
+[27] Les éléments de preuve indiquent assez clairement que l’appelante et M. Zaremba ne partageaient pas la même intention, ou encore, ils ne la partageaient pas au même moment.
+B. Réalité objective de la conduite des parties
+[28] J’entreprendrai maintenant la deuxième étape du processus afin de répondre à la question centrale de l’espèce de savoir si M. Zaremba était un employé, c’est-à-dire déterminer la réalité objective démontrée par la conduite des parties selon les facteurs pertinents mentionnés dans l’arrêt Sagaz.
+Contrôle
+[29] La Cour d’appel fédérale a tenu les propos suivants dans l’arrêt Wolf c. Canada, 2002 CAF 96, 2002 DTC 6853 au paragraphe 74 :
+[74] Le critère de contrôle, comme on le désigne communément, consiste à se demander qui contrôle le travail et comment, et quand et où cela doit être fait. En théorie, si le travailleur a un contrôle total sur l’exécution de son travail une fois qu’il lui a été attribué, ce facteur pourrait faire que le travailleur est un entrepreneur indépendant. Par ailleurs, si l’employeur contrôle en fait l’exécution du travail ou a le pouvoir de contrôler la façon dont l’employé exécute ses fonctions (Gallant c. Canada (Ministère du Revenu national) (C.A.F.), [1986] A.C.F. nº 330 (Q.L.), le travailleur sera considéré comme un employé.
+[30] Au paragraphe 75 de l’arrêt Wolf, la Cour a fait remarquer que, dans le cas de travailleurs qualifiés comme des pilotes et des médecins, le critère pouvait s’avérer inadéquat, car on ne peut pas superviser ou contrôler étroitement la façon dont le travail est effectué.
+[31] M. Zaremba a occupé des postes de travailleur qualifié à titre de distillateur, de maître-brasseur et de représentant aux ventes, lesquels ne nécessitaient pas beaucoup de supervision directe ou régulière. Selon la lettre de démission de M. Zaremba [pièce R-3] et le témoignage de M. Sperling, il semble que M. Zaremba a surtout travaillé aux ventes durant la période visée, c’est-à-dire à la promotion des produits de l’appelante.
+[32] J’accepte le témoignage de M. Sperling selon lequel M. Zaremba décidait de son propre horaire. Je ne crois pas que l’appelante avait le pouvoir de contrôler la façon dont M. Zaremba s’acquittait de ses tâches et qu’elle s’abstenait tout simplement de s’exercer ce pouvoir.
+[33] Par exemple, Mme O’Flanagan a témoigné qu’à l’été de 2017, elle vendait de la publicité pour un magazine local et avait communiqué avec M. Sperling à ce sujet. Selon son témoignage, M. Sperling l’avait dirigée vers M. Zaremba, et elle avait compris qu’il était son partenaire d’affaires. Elle a affirmé que M. Sperling et elle-même avaient tenté d’organiser une réunion avec M. Zaremba, mais qu’il ne s’était pas présenté à l’une ou l’autre des rencontres. Elle a témoigné avoir finalement vendu la publicité à l’appelante sans la participation de M. Zaremba.
+[34] Autre exemple, M. Mamun a témoigné avoir rencontré M. Sperling à trois ou quatre reprises pour discuter de marketing numérique. Il a raconté que, durant leur première réunion pour discuter du site Web de l’appelante, ils n’avaient pas été en mesure de prendre une décision, car le partenaire d’affaires de M. Sperling était absent de la réunion. En contre-interrogatoire, M. Mamun a affirmé qu’il avait compris que M. Sperling devait discuter avec M. Zaremba avant de prendre une décision. Il a également ajouté qu’il n’avait finalement jamais rencontré M. Zaremba et avait seulement traité avec M. Sperling.
+[35] Les propos de M. Sterling rapportés par Mme O’Flanagan et M. Mamun sont du ouï-dire; toutefois, leur compréhension de ce qu’ils ont entendu ne l’est pas. Ils ont tous deux retenu de leurs conversations respectives avec M. Sperling que ce dernier avait un partenaire d’affaires, et la conclusion de leurs affaires avec l’appelante a été retardée en raison de l’absence ou de l’impossibilité à joindre le partenaire d’affaires de M. Sperling.
+[36] Ces circonstances ne correspondent pas de la conduite d’un employé qualifié nécessitant peu de supervision. Il s’agit plutôt de la conduite d’une personne qui ne craint ni représailles, ni congédiement, ni aucune autre conséquence découlant de l’absence à des réunions d’affaires.
+[37] En conséquence, l’appelante n’avait aucun pouvoir sur M. Zaremba, ce qui penche en faveur d’une conclusion selon laquelle il n’était pas l’un de ses employés durant la période visée.
+Qui fournissait le matériel?
+[38] L’appelante n’a pas contesté les hypothèses formulées par le ministre dans la réponse à l’avis d’appel relativement au matériel [sous-alinéas 7ss) et tt) de la réponse]. L’appelante fournissait le matériel de distillation, comme les hydromètres, les cuves de moût, les alambiques et les fermenteurs, ainsi que le matériel et les fournitures de bureau comme les ordinateurs, le télécopieur et les imprimantes, afin de permettre à M. Zaremba d’exécuter ses fonctions de maître-brasseur, de distillateur et de représentant aux ventes.
+[39] Je m’attends à ce que M. Zaremba utilise le matériel de l’appelante, et ce, peu importe qu’il soit un employé ou un partenaire d’affaires. Par conséquent, j’estime que ce facteur est neutre.
+Occasion de profit et degré du risque financier assumé
+[40] En contre-interrogatoire, M. Sperling a témoigné que les dividendes annuels fixes de 60 000 $ (c.-à-d., 2 500 $ deux fois par mois) représentaient les dividendes versés pour les 250 actions de M. Zaremba, même si ce dernier ne les avait pas encore entièrement payées. Au cours du même contre-interrogatoire, il a affirmé que le montant des dividendes n’était pas fondé sur un calcul particulier ou sur le nombre d’actions qu’il détenait.
+[41] Les versements de 2 500 $ à M. Zaremba étaient inscrits comme des dividendes par l’appelante, une qualification acceptée par M. Zaremba, soit parce qu’il reconnaissait le changement dans sa relation avec l’appelante, soit parce qu’il souhaitait recevoir une plus grosse somme dénuée de retenues à la source. Toutefois, notre Cour n’a pas eu l’occasion d’entendre son explication et d’évaluer sa crédibilité sur ce point.
+[42] Étant donné l’achat d’actions, il y aurait eu une occasion de profit. En contre-interrogatoire, M. Sperling a affirmé que M. Zaremba assumait le risque de l’appelante et aurait pu recevoir moins de dividendes à l’avenir. Toutefois, cette affirmation est purement spéculative dans ce cas-ci, car les dividendes fixes versés à M. Zaremba le protégeaient contre les fluctuations économiques et réduisaient le risque financier.
+[43] L’avocat de l’intimé a prétendu que les bénéfices non répartis de l’appelante étaient négatifs durant la période visée [sous-alinéa 7hhh) de la réponse] et qu’il aurait été irresponsable de la part de l’appelante de verser des dividendes dans de telles circonstances.
+[44] La décision d’une société de verser des dividendes ou non n’est pas uniquement fondée sur ses bénéfices non répartis. L’article 113 de la The Companies Act, RSS 1978, ch. C-23 dispose ce qui suit :
+[traduction]
+113. Les directeurs ne doivent ni déclarer ni verser de dividendes lorsque la société est insolvable, ou lorsque le paiement de tels dividendes rendrait la société insolvable ou diminuerait son capital.
+[45] Rien n’indique que les circonstances énoncées à l’article 113 existaient durant la période visée, et rien ne permet de conclure que l’appelant ne pouvait pas verser les dividendes en question.
+[46] Considérant l’occasion de profit et le risque financier limité, je conclus que ce facteur est neutre.
+Conclusion
+[47] J’ai soupesé les facteurs pertinents et je conclus que M. Zaremba n’était pas un employé de l’appelante durant la période visée. J’aurais plus de mal à déterminer ce qu’il était véritablement, en l’absence d’éléments de preuve plus directs à ce sujet. Comme je l’ai mentionné précédemment, je suis d’avis que les parties confondaient les concepts de propriétaire, d’actionnaire et d’employé, et qu’à différents moments, chaque partie s’appuyait sur le concept qui lui convenait le mieux à ce moment donné.
+[48] La décision rendue par le ministre du Revenu national le 19 avril 2018 est annulée au motif que M. Zaremba n’occupait pas un emploi assurable durant la période visée.
+Signé à Edmonton (Alberta), ce 31e jour d’octobre 2019.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+Ce 8e jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 247
+NO DU DOSSIER DE LA COUR :
+2018-1659(EI)
+INTITULÉ :
+SLOW PUB LTD. c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 10 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 31 octobre 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Adam Sperling
+Avocats de l’intimé :
+Me Anne Jinnouchi
+Me Nicole Sample (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

@@ -1,0 +1,150 @@
+Title: Gupta v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521108/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-82-521108-gupta-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-06-08
+
+# Gupta v. The King
+
+- Citation: 2023 TCC 82
+- Decision date: 2023-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5831, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gupta v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-06-08
+Neutral citation
+2023 TCC 82
+File numbers
+2022-888(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-888(IT)I
+BETWEEN:
+OM GUPTA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard simultaneously by videoconference and teleconference on May 24, 2023, at Montréal, Québec.
+Before: The Honourable Justice Gaston Jorré, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Ève Larocque
+JUDGMENT
+In accordance with the attached reasons for judgment, the Appellant’s appeal with respect to the 2020 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 8th day of June 2023.
+“G. Jorre”
+Jorré D.J
+Citation: 2023 TCC 82
+Date: 20230608
+Docket: 2022-888(IT)I
+BETWEEN:
+OM GUPTA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré D.J.
+I. Introduction
+[1] Citizens receive Notices of Assessment and Notices of Reassessment from the Canada Revenue Agency that are often four or five pages long. Not surprisingly, they often assume that all the different $ amounts that may be shown on the Notice have been “assessed” or “determined” by the Agency pursuant to the Income tax Act (the “Act”).
+[2] This appeal turns on what exactly, as a mater of law, is “assessed” or “reassessed” by a Notice of Assessment or Reassessment made pursuant to the Act.
+II. Background
+[3] There were no issues as to the documents or as to the facts.[1]
+[4] The Appellant appeals from an assessment of his 2020 taxation year that assessed more tax than he expected.
+[5] The increase resulted from the minister having concluded that the amount of net capital losses available to the Appellant was lower than the amount claimed by the Appellant, resulting in a higher taxable income and higher tax.
+[6] The respondent reduced the net capital loss balance because part of what was included in the balance was an amount of net capital loss incurred prior to the Appellant’s discharge from bankruptcy in 1994. Pursuant to subparagraph 128(2)(g)(i) of the Income Tax Act losses incurred prior to the discharge from bankruptcy may not be deducted in taxation years after the discharge from bankruptcy.
+[7] The Appellant does not dispute the application of subparagraph 128(2)(g)(i).
+[8] The Appellant does not claim that the Notice of Assessment dated 6 May 2021 with respect to the 2020 taxation year is out of time.
+[9] What the Appellant does dispute is the Respondent adjusting the amount of capital loss carry forward so many years after his discharge.
+[10] Over the years, the Appellant has received Notices of Assessment that show a balance of his net capital loss that includes the amount of his net capital loss balance prior to his discharge from bankruptcy.
+[11] For example, this is the case 1) in the Notice of Assessment dated 23 August 2018 with respect to the 2017 taxation year[2] and 2) in the Notice of 13 May 2019 with respect to the 2018 taxation year[3].
+[12] In the Notice of Assessment of July 30, 2020 with respect to the 2019 taxation year, this changes. There is a statement that “We have reduced your net capital loss for other years to.... You cannot claim losses from before the year of your absolute discharge from bankruptcy on your return for that year or any later year.”[4]
+[13] The Appellant never sought or received a Notice of Determination of a loss.
+III. Analysis
+[14] The Appellant’s position amounts to this: the net capital loss balances shown in the various Notices of Assessment prior to July 30, 2020 reflect a determination made in an assessment many years ago that the net capital loss balance included the losses that he had prior to his discharge from bankruptcy.
+[15] Further, he submits that, some 25 years after the fact, it was far too late on July 30, 2020 for the Minister to modify that determination and make an adjustment to his loss balance due to a discharge from bankruptcy in 1994. In effect, the Appellant is arguing that such an adjustment is statute barred by reason of the earlier determination contained in an earlier assessment.
+[16] The Appellant relies on the time limitations in subsection 152(4) of the Income tax Act and on the provisions of subsection 152(1.3) of the Income Tax Act. [5]
+[17] The key words of subsection 152(1.3)[6] are :
+(1.3) … where the Minister makes a determination of the amount of a taxpayer's …, net capital loss… the determination is … binding on both the Minister and the taxpayer …[7]
+[18] I do not agree.
+[19] The Income Tax Act is very specific in terms of what is assessed or determined. The key provision with respect to assessments and reassessments is in the opening words of subsection 152(1) of the Income Tax Act:
+The Minister shall … examine a taxpayer's return of income for a taxation year, assess the tax for the year, the interest and penalties, if any, payable …[8]
+(Emphasis added)
+[20] With respect to the determination of net capital losses the key provision is in subsection 152(1.1) of the Income Tax Act:
+Where the Minister ascertains the amount of a taxpayer's …, net capital loss, … and the taxpayer has not reported that amount as such a loss in the taxpayer's return of income for that year, the Minister shall, at the request of the taxpayer, determine …, the amount of the loss and shall send a notice of determination...[9]
+(Emphasis added)
+[21] There are a number of other provisions of the Income Tax Act that provide for very specific determinations but none of them are relevant here.
+[22] In assessing a taxation year, the Minister proceeds on the basis of certain facts and a particular analytical framework. Those facts and that analysis are not “assessed” or “determined” in the sense referred to in sections 152(1) or 152(1.1) above. Some of the facts involve prior years. For example, if an asset is disposed of, it is necessary to consider its cost when acquired; similarly, in determining capital cost allowance for an asset, the amount of capital cost allowance claimed in prior years may be relevant.
+[23] The time limitations contained in subsection 152(4) of the Income tax Act only prevent reassessments of the tax, interest and penalties assessed for a particular year. They do not make all the other amounts shown in a Notice of Assessment binding.
+[24] Similarly, the effect of subsection 152(1.1) of the Income Tax Act is to render binding a specific loss determination requested by the taxpayer and conveyed to the taxpayer by a Notice of Determination. Subsection 152(1.1) does not go further than that.
+[25] As a result, it is well established that the Minister may consider the actual facts in the prior years even if in assessing a prior year the Minister had proceeded on a different factual basis.[10] Similarly, if in a prior year, the Minister makes an error in applying the law in a prior year, the Minister may correct the error when assessing a later year.
+[26] For example, in Coastal Construction & Excavating Ltd. v. R.[11], Justice Bowman, as he then was, says:
+24 Finally, the appellant contends that because the Minister, in prior years, had treated the operation as a “facility” as defined in the RDIA he was not entitled to change the investment tax credit carry-forward from those admittedly statute-barred years to affect the taxable income of a year that was not statute-barred to conform to his view that the property was qualified and not certified. This interpretation would involve a conclusion that a determination of the balance of a carry-forward of investment tax credits for a statute-barred year was tantamount to an assessment. I do not read section 152 of the Income Tax Act as supporting such a conclusion. The Minister is obliged to assess in accordance with the law. If he assesses a prior year incorrectly and that year becomes statute-barred this will prevent his reassessing tax for that year, but it does not prevent his correcting the error in a year that is not statute-barred, even though it involves adjusting carry-forward balances from previous years, whether they be loss carry-forwards or balances of investment tax credits. New St. James Ltd. v. Minister of National Revenue… (Citations omitted)
+(Emphasis added)
+[27] More recently, in Peach v. The Queen [12] Justice Monaghan, as she then was, stated:
+[66] The law is clear that:
+“if an error is made in the assessment of a statute-barred year, which affects another year, the Minister, in assessing the other year, must follow the Act and if there was an error in law in a previous year, including a statute-barred year, that error ought to be corrected so that the assessment for the current year is correct”.
+(Citations omitted)
+[28] This is a general principle that is limited only in certain very specific situations pursuant to specific provisions of the Income Tax Act.
+[29] It is quite clear from the legislation that, in the absence of a Notice of Determination, a statement contained within a Notice of Assessment that a certain amount is the available balance of net capital losses does not constitute a determination to which subsection 152(1.3) applies. Further, such a statement does not constitute an assessment of that amount subject to the time limitations set out in subsection 152(4).
+IV. Conclusion
+[30] As a result, given that, there was never a Notice of Determination, the Minister was not barred from taking account of the consequences of the bankruptcy in assessing the Appellant’s 2020 taxation year.
+[31] The appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of June 2023.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2023 TCC 82
+COURT FILE NO.:
+2022-888(IT)I
+STYLE OF CAUSE:
+OM GUPTA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Montréal, Québec[13]
+DATE OF HEARING:
+May 24, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+DATE OF JUDGMENT:
+June 8, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie-Ève Larocque
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] By agreement, the documents attached to the Notice of Appeal and the Respondent’s Book of Documents, Exhibit R-1, were entered as exhibits. The Notice of Appeal and attachments total 22 pages of which the first two pages are the Notice of Appeal.
+[2] The Notice is attached to the Notice of Appeal, see page 3 of the Notice.
+[3] See Exhibit R-1, Tab 1 at the first line on the last paragraph of page 3 of the Notice.
+[4] See Exhibit R-1, Tab 2 at page 3.
+[5] The Appellant also relied on the decision of Justice MacKay in Placer Dome Inc. v. Canada (No. 1) 1991 CanLII 14095 (FC). In Placer Dome, the reassessment in issue was statute barred by an earlier assessment. That is a quite different issue from the one here.
+[6] Although it is not relevant here, I would note that by reason of the provisions of subsection 152(1.2), as with assessments, there is a period during which redeterminations may be made as well as certain circumstances where the Minister can make redeterminations beyond the normal redetermination period.
+[7] I have removed the portions of the subsection that are not relevant to this appeal. The full text of the subsection is:
+(1.3) For greater certainty, where the Minister makes a determination of the amount of a taxpayer's non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year or makes a determination under subsection (1.11) with respect to a taxpayer, the determination is (subject to the taxpayer's rights of objection and appeal in respect of the determination and to any redetermination by the Minister) binding on both the Minister and the taxpayer for the purpose of calculating the income, taxable income or taxable income earned in Canada of, tax or other amount payable by, or amount refundable to, the taxpayer, as the case may be, for any taxation year.
+[8] I am just reproducing the key words.
+[9] The full text of the subsection is:
+Where the Minister ascertains the amount of a taxpayer's non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss for a taxation year and the taxpayer has not reported that amount as such a loss in the taxpayer's return of income for that year, the Minister shall, at the request of the taxpayer, determine, with all due dispatch, the amount of the loss and shall send a notice of determination to the person by whom the return was filed.
+[10] In this regard, it is useful to bear in mind that many returns are simply assessed as filed while other assessments or reassessments may only involve limited examination of some but not all aspects of the return.
+[11] [1996] 3 C.T.C. 2845 at 2856, 1996 CanLII 21537 at the last page (TCC), 97 D.T.C. 26.
+[12] 2020 TCC 12
+[13] The hearing was to be by videoconference. However, due to technical difficulties, the Appellant participated by telephone. The Judge was in a courtroom. The Appellant was at home and counsel for the Respondent was in her office.

@@ -1,0 +1,158 @@
+Title: Polowick v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29832/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-304-29832-polowick-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-03
+
+# Polowick v. The Queen
+
+- Citation: 2010 TCC 304
+- Decision date: 2010-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6574, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Polowick v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-03
+Neutral citation
+2010 TCC 304
+File numbers
+2003-4046(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4046(IT)G
+BETWEEN:
+RANDY POLOWICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 10, 2010, at Windsor, Ontario,
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+Roland P. Schwalm
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed, and the Minister’s assessment is confirmed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 3rd day of June 2010.
+“T.E. Margeson”
+Margeson J.
+Citation: 2010 TCC 304
+Date: 20100603
+Docket: 2003-4046(IT)G
+BETWEEN:
+RANDY POLOWICK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] The Minister of National Revenue (the “Minister”) assessed the Appellant’s tax liability for the 2000 taxation year pursuant to subsection 152(7) of the Income Tax Act (the “Act”) by notice of assessment dated November 25, 2002, and the Appellant appealed therefrom.
+[2] In the Amended Notice of Appeal, the Appellant raised several issues, but at the time of trial the only issue remaining was whether or not the Appellant was entitled to claim a deduction in respect of a business investment loss for the 2000 taxation year.
+[3] Further, the Appellant abandoned his appeals in respect of the 2001, 2002 and 2003 taxation years and those appeals are dismissed.
+Evidence
+[4] Randy William Mark Polowick testified that he was the owner of RCL Heating & Cooling Services Inc. (the “Company”). He and his wife owned the shares on a 50-50 basis. They were also the directors of the Company.
+[5] In 1997, the Company ran into financial difficulties. Clients were not paying their accounts and the Appellant was forced into borrowing money to put into the Company. As a result, he executed mortgages on his personal residence to secure financing for the Company, and also borrowed money from his sister and brother‑in-law and loaned that money to the Company. He said that the borrowed funds were used for the Company’s operations.
+[6] Exhibit A-1 (Appellant’s Book of Documents), Tab 1, was a copy of a mortgage on his personal residence for $31,000 where he is noted as the “Chargor”. He said that the mortgage was to guarantee the line of credit for the Company for $51,000.
+[7] The mortgage contained in Exhibit A-1, Tab 1, was for $31,000 and was to guarantee payment to Heritage Credit Union Inc. (“Heritage”).
+[8] In 1999, the Company was unable to make payments on the mortgages. Heritage seized the Company’s assets and the Company could not do any more work. By the end of July or August, he was broke.
+[9] He borrowed money from his sister and brother-in-law and gave it to his lawyer who paid off the credit union through his trust account. This payment amounted to $83,691.27. By September of 1999, the Company was ruined and it defaulted on three jobs and they were withdrawn from the Company.
+[10] He sued a number of clients and recovered judgment against them to the extent of $30,095.12 together with $1,500 in costs, but he was unable to collect any of the debt.
+[11] The financial statements as at November 30, 1999 show shareholders’ advance totalling $82,947 and this was transferred to contributed surplus on the financial statements dated November 30, 2000.
+[12] He said that the judgment debt was not collectible by the year 2000 even though he made efforts to collect it.
+[13] In cross-examination, he admitted that the Company had a November 30th year-end. He denied that any of the monies borrowed went to pay off any personal debts.
+[14] He agreed that he was the President of the Company and signed all Company documents. The first seizure occurred in 1999 and the Company ceased operations in July of 1999. By November 30, 1999, the Company was destroyed.
+[15] He was unable to explain why there was a small discrepancy in what he was claiming in the Notice of Appeal and the claim made in Court. He agreed that the loans to shareholders as indicated on the Company’s financial documents in 1994 were $17,000; in 1995, $2,000 and in 1996, $18,000.
+[16] He also agreed that in 1997 and 1998, the Company loaned money to the shareholders.
+[17] He was shown the tax return for the Company as of November 30, 2000, and agreed that the loans were eradicated in 1999 and became contributed surplus. He reiterated that he took steps to collect the judgment debt but it was uncollectible.
+[18] In re-direct, he said that the only dealings with Heritage Savings were the amounts of $52,077.33 and $29,386.29, and those were paid out.
+Argument on behalf of the Appellant
+[19] The Appellant testified truthfully. His evidence was credible. The amounts that were paid out were on behalf of the Company. He had no other loans. He tried to collect the judgment debt but was unsuccessful.
+[20] He should be allowed to claim a business investment loss of $82,947. The appeal should be allowed.
+Argument on behalf of the Respondent
+[21] The Minister refused to allow the deduction claimed as a business investment loss because he refused to hold the Government responsible for the Appellant’s investment choices. In essence, the Appellant revised the form of his investment from loan to shareholders’ contribution.
+[22] The Appellant was not a guarantor of the Company’s loan nor did he have an obligation to pay it off.
+[23] The Company’s records show that for three consecutive years after 1999, the Appellant’s contributions to capital were by the same amount as the debt. It was eliminated in 1999 and therefore no debt remained owing to the shareholders.
+[24] The Court must be cognizant of the distinction between the shareholder and the corporate entity: they are separate legal persons and the Company is not the agent of the shareholder.[1]
+[25] The determination of facts in any given scenario is governed by bona fide legal relationships, not economic realities.[2]
+[26] The Appellant chose to convert the form of his investment in the Company from loan to contributed surplus. This amount was thereafter locked into the Company’s capital. There was no debt existing in 2000. No amendment to the tax filing or financial information has been recorded or reported by the Company. The Appellant’s pleading that there were “other transactions”, i.e., loans or advances to the Company, is not supported by the tax filing information of the Company. This information from the Minister’s ordinary records indicates the details contained in the financial statements have been accepted by the Tax Court of Canada in many cases.[3] The Appellant’s assertion in the pleadings as to the amount of the debt in dispute, based on “other transactions”, lacks factual foundation.
+[27] There is no confusion from the financial information filed by the Company for income tax purposes. Further, the burden of proof is on the Appellant to prove this allegation and present documentation and details thereof.[4] This has not been done. Such a position is contradicted by the tax filing information.
+[28] Under the provisions of paragraph 39(1)(c) of the Act, the Appellant is required to show:[5]
+(a) he acquired a debt;
+(b) an actual or deemed disposition of the debt occurred; and
+(c) the Company qualified as a “small business corporation” at the time of the deemed or actual disposition.
+[29] The tax filing information and the financial information presented show that there was no debt owing in 2000.
+[30] If the Court should find that a debt existed in 2000, there is no evidence that there was an actual disposition of the debt. Therefore, the Minister’s presumption that there was no actual disposition of the debt stands. Therefore, subparagraph 39(1)(c)(ii) of the Act does not apply.
+[31] The Appellant must rely upon the application of subsection 50(1) to effect a deemed disposition for the purposes of subparagraph 39(1)(c)(i) of the Act. This section only applies if the Appellant made an election and the debt is established by the Appellant to have become bad.
+[32] The Appellant did not file an income tax return for the 2000 taxation year and the assessment under appeal was made on November 25, 2002. There was no subsection 50(1) election made by the Appellant for any taxation year. Therefore, the Appellant cannot succeed in his appeal.
+[33] The Appellant pleaded that the debt became bad in 1999, not 2000. As stated, the Company ceased operations in 1999. The Minister’s assumption that the debt was not established to have been bad in 2000 stands.
+[34] The Appellant was required to have made an honest attempt to collect the debt. He took no steps to make that determination. Collection of the judgment may have been possible.
+[35] Further, the Company was not a “small business corporation” at any time during the 12-month period that precedes the time of the disposition of the debt,[6] which would be any time preceding December 31, 2000. However, the evidence shows that the Company ceased operations by November 30, 1999. Therefore, the Company cannot satisfy the condition in subparagraph 39(1)(c)(iv). Therefore, the Appellant’s claim for a deemed business loss must fail.
+[36] The Appellant was not a guarantor to Heritage. The guarantor clause was not executed and it was not pleaded. In any event, the payments were made to allow the Company to extricate itself from the unsatisfactory business arrangement with Heritage and not for the purposes of gaining or producing income from a business or property. Therefore, the loss suffered is deemed to be “nil”.
+[37] The appeal should be dismissed with costs.
+Analysis and Decision
+[38] As indicated by counsel for the Respondent, in order for the Appellant to be successful in this appeal, he must satisfy the Court that he has met the requirements of paragraph 39(1)(c) of the Act.
+[39] That paragraph requires that the Court be satisfied on the evidence that he acquired a debt, that there was an actual or deemed disposition of the debt, and that the Company qualified as a “small business corporation” at the time of the actual or deemed disposition.
+[40] Counsel for the Appellant did not address these requirements in his submissions but was content to argue that the evidence of the Appellant should be accepted as he had testified truthfully that he had advanced these monies to the Company, that he had no other loans or debts to Heritage, and that he had been unable to collect the debt.
+[41] The Court is satisfied that the Appellant testified to the best of his ability about the facts of which he was aware, although he tendered no evidence of any value on the main arguments raised by counsel for the Respondent.
+[42] The Court is satisfied that the Appellant knew very little about the corporate records or how they might affect his right to claim the loss which he seeks to claim here.
+[43] The Court is satisfied that he did his best to recover the judgment debt against the Company’s former clients and was unable to collect any of that debt. In that regard, the Court accepts his evidence as well as his evidence as to how the funds were obtained by him, how the mortgages were executed against his personal residence, and how the funds eventually were disbursed to cover the debts incurred by the Company.
+[44] No one appeared on behalf of the Company to explain how the funds were treated by the Company in its books and records or as to the way they were treated in the income tax filings with Revenue Canada. It is trite to say that the Appellant was oblivious to all of this. He merely knew that he had taken out the mortgages to pay the debts of the Company and that he was unable to recover these funds. He believed that he was entitled to claim the business loss that is the subject matter of this appeal.
+[45] Counsel for the Respondent has addressed all of the requirements of the Act in respect to the claimed loss and her points are well taken.
+[46] As she argued, the mere assertion that the Appellant lost money to the Company is insufficient to establish that a debt was owed to him by the Company in the year that the loss was claimed.
+[47] The financial records and the income tax filings do contradict the Appellant’s claim that a debt was owing in the year that it was claimed. These records clearly indicate that when the Company reported $82,947 as a shareholders’ advance in 1999, that advance was eliminated in 2000 and contributed surplus of the same amount was reported in that year. It is obvious that the Appellant was unaware of that treatment or was unaware of its effect. However, if the effect was to convert his investment (the loan) to the Company’s “contributed surplus”, locking it into the Company’s capital, for all intents and purposes it eliminated the debt.
+[48] This is the effect of what the Company did. The legal reality is that the Appellant and the Company were separate and distinct entities, and even if the Appellant believed that this action by the Company did not affect the way that he viewed the loan, he was wrong.
+[49] The Court is satisfied that there was no debt existing in 2000 as claimed. The Court is further satisfied that there were no “other transactions”, i.e., loans or advances to the Company, that were established that could create such a debt as to form the basis of the Appellant’s claims.
+[50] This finding is sufficient to dispose of this appeal but the Court will also deal with the other submissions of counsel for the Respondent regarding the requirements of paragraph 39(1)(c) of the Act.
+[51] Suffice it to say that the Court accepts the submission that there was no actual or deemed disposition of any debt if one existed.
+[52] The Court is prepared to be more generous with regard to whether or not the debt was established “to have become” bad in 2000, but that does not assist the Appellant here.
+[53] The Court is satisfied that the Company was not “a small business corporation” during the required time period in light of the evidence given by the Appellant himself in the pleadings and in the documentation presented.
+[54] Further, the Court must agree with the argument of counsel for the Respondent that the payments were not shown to have been made for the purpose of gaining or producing income from a business or property.
+[55] The Court must dismiss the appeal, with costs, and confirm the Minister’s assessment.
+Signed at Ottawa, Canada, this 3rd day of June 2010.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2010 TCC 304
+COURT FILE NO.: 2003-4046(IT)G
+STYLE OF CAUSE: RANDY POLOWICK and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: May 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: June 3, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Roland P. Schwalm
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roland P. Schwalm
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Salomon v. A. Salomon & Co., [1897] A.C. 22 (H.L.).
+[2] Shell Canada Ltd. v. R., 99 DTC 5669 (S.C.C.) at paras. 38 and 39.
+[3] Turner v. R., 2005 FCA 340, [2007] 1 C.T.C. 24 (F.C.A.).
+Nichols v. R., 2009 TCC 334, 2009 DTC 1203.
+Bilodeau v. R., 2009 TCC 315, 2009 DTC 1757.
+Haynes v. R., 94 DTC 1906.
+[4] Njenga v. R., 96 DTC 6593 (F.C.A.).
+[5] Abrametz v. R., 2009 FCA 111, 2009 DTC 5828 (F.C.A.).
+[6] Abrametz, supra, at paras. 51, 52 and 53.

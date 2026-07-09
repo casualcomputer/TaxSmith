@@ -1,0 +1,216 @@
+Title: Paletta v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/146125/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-171-146125-paletta-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-07-13
+
+# Paletta v. The Queen
+
+- Citation: 2016 TCC 171
+- Decision date: 2016-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2925, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paletta v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-13
+Neutral citation
+2016 TCC 171
+File numbers
+2015-2662(IT)G
+Judges and Taxing Officers
+John R. Owen
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2662(IT)G
+BETWEEN:
+Pasquale Paletta,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on May 24, 2016 at Vancouver, British Columbia
+Before: The Honourable Justice John R. Owen
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan
+Thang Trieu
+Counsel for the Respondent:
+Robert Carvalho
+Elizabeth (Lisa) McDonald
+ORDER
+UPON reading the Appellant’s motion for an order that there be determined before the hearing, pursuant to section 58 of the Tax Court of Canada Rules (General Procedure), a question as to whether the Appellant’s reporting of his income/loss in respect of his foreign currency trading activities for each of the 2000, 2001, 2002, 2003, 2004, 2005, 2006 and 2007 taxation years was attributable to neglect, carelessness or wilful default within the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act;
+AND upon hearing the evidence and submissions of the parties;
+IT IS ORDERED, in accordance with the attached Reasons for Order, that the motion is dismissed with costs awarded to the Respondent in any event of the cause.
+Signed at Toronto, Ontario, this 13th day of July 2016.
+“J.R. Owen”
+Owen J.
+Citation: 2016 TCC 171
+Date: 20160713
+Docket: 2015-2662(IT)G
+BETWEEN:
+Pasquale Paletta,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Owen J.
+I. Introduction [1] These reasons address a motion by the Appellant for an order that a question (the “Question”) be determined before the hearing, pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) (the “Rules”).[1] In the Appellant’s written submissions, the Question is stated as follows:
+Whether the reporting of Mr. Paletta’s income/loss from the Trading Transactions for the Taxation Years is attributable to neglect, carelessness, or wilful default within the meaning of subparagraph 152(4)(a)(i) of the Income Tax Act.
+[2] The Taxation Years are 2000 to 2007 inclusive and the Trading Transactions are described as foreign currency trading activities. At the time of this motion no examinations for discovery had been held. The Respondent contests the motion.
+[3] The Notice of Appeal, the Amended Reply and the Answer filed by the parties (collectively, the “pleadings”) suggest a complex appeal in which a number of significant issues will have to be addressed by the trial judge, including:
+1. Whether under subparagraph 152(4)(a)(i) of the Income Tax Act (the “ITA”) the Minister of National Revenue (the “Minister”) was entitled to issue the reassessments of the Taxation Years (the “Reassessments”) outside the “normal reassessment period” as defined in paragraph 152(3.1)(b) of the ITA. I will refer to this issue as the “statute-barred issue”.
+2. If the Minister was entitled to issue the Reassessments outside the normal reassessment period, whether the Reassessments should be sustained, vacated or sent back to the Minister for reconsideration and reassessment on some specified basis. I will refer to this as the “reassessment issue”. In light of the pleadings, as a minimum, this question will require the Court to address:
+(a) Whether the Trading Transactions were a sham and, if so, the effect of the sham in the circumstances.
+(b) If the Trading Transactions were not a sham:
+(i) Whether the Trading Transactions were legally effective.
+(ii) Whether the losses reported by the Appellant in each of his 2000 through 2006 taxation years (the “Loss Years”) as being from the Trading Transactions (collectively, the “Losses”) were incurred by the Appellant.
+(iii) Whether the Trading Transactions were commercial transactions.
+(iv) Whether the Trading Transactions constituted a source of income for the Appellant.
+(v) Whether the Losses were realized by the Appellant.
+(c) If the Trading Transactions were not a sham, whether they gave rise to the income reported by the Appellant for his 2007 taxation year.
+(d) Whether penalties assessed against the Appellant under subsection 163(2) of the ITA should be sustained, varied or vacated.
+[4] The taxpayer bears the onus described in House v. The Queen, 2011 FCA 234, with respect to whether the Reassessments assess the correct amount of income tax for each of the Taxation Years. The Minister bears the onus with respect to the statute-barred issue[2] and with respect to the assessment of penalties under subsection 163(2) of the ITA.[3]
+II. The Positions of the Parties [5] The Appellant submits that the statute-barred issue is a suitable candidate for a discrete question under Rule 58 because, if the Question is answered in the negative, that will dispense with the balance of the issues and, even if the Question is answered in the affirmative, the evidence associated with the statute-barred issue will no longer be required.
+[6] The Appellant submits that Rule 58 has evolved over the years and that, in interpreting the current version, the principles identified by the Supreme Court of Canada in Hryniak v. Mauldin, 2014 SCC 7, [2014] 1 S.C.R. 87 (“Hryniak”) should be applied to assess whether the Question is an appropriate candidate for a Rule 58 determination.[4] If one keeps those principles in mind, it is clear that the Question satisfies the conditions for the determination of a question under Rule 58. Moreover, the Appellant is 85 years old and an expedited process would be expedient in the circumstances.
+[7] The Appellant further submits that, as stated in Rio Tinto Alcan Inc. c. La Reine, 2016 CCI 31,[5] the parties’ dispute over material facts does not disqualify the Question from a Rule 58 determination and that I have the authority under paragraph 58(3)(b) of the Rules to address any evidentiary matters related to the determination of the Question. The Appellant cited Inwest Investments Ltd. v. Canada, 2015 BCSC 1375, as an example of a court applying summary trial rules to determine the application of subparagraph 152(4)(a)(i) of the ITA.
+[8] The Respondent submits that the facts relevant to the appeal are complex and that the Question cannot be determined without a full appreciation of all the evidence that would be forthcoming at a full hearing of the appeal. In complex factual circumstances in which the credibility of the witnesses may be an issue, only at a full hearing will the Court have at its disposal the rules and procedures required to properly obtain and assess evidence. Rule 58 is not intended to be a means to circumvent the safeguards built into a full-blown trial. The suggestion by the Appellant that the evidence be tendered through affidavits and cross-examination on the affidavits is unfair to the Respondent. If instead the Court orders viva voce evidence, then the Rule 58 hearing is being used as a substitute for a trial, which is not the purpose of Rule 58. In any event, such an approach raises the question as to whether the requirement of subsection 58(2) of the Rules would be satisfied.
+III. Analysis [9] Rule 58 states:
+58(1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading or a question as to the admissibility of any evidence be determined before the hearing.
+(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+(3) An order that is granted under subsection (1) shall
+(a) state the question to be determined before the hearing;
+(b) give directions relating to the determination of the question, including directions as to the evidence to be given — orally or otherwise — and as to the service and filing of documents;
+(c) fix time limits for the service and filing of a factum consisting of a concise statement of facts and law;
+(d) fix the time and place for the hearing of the question; and
+(e) give any other direction that the Court considers appropriate.
+[10] Rule 58 has been considered in a number of cases. However, only a few cases have considered the most recent iteration of the rule, which came into effect on February 7, 2014 (SOR/2014-26, s. 6). The Regulatory Impact Analysis Statement describes the 2014 amendments to Rule 58 as follows:
+To amend sections 53 and 58 to regroup all matters where the Court may strike out a pleading under section 53, and all matters relating to the determination of questions of law, fact or mixed law and fact under section 58. As a consequence of these changes, sections 59, 60, 61 and 62 are repealed.
+[11] Accordingly, current Rule 58 represents a consolidation of sections 58, 59, 60, 61 and 62 of the Rules under a single rule, which is in some respects similar to, but in other respects quite different from, the version of Rule 58 that it replaced. The previous version stated:
+58(1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the Court or on consent of the parties, or
+(b) under paragraph (1)(b).
+(3) The respondent may apply to the Court to have an appeal dismissed on the ground that,
+(a) the Court has no jurisdiction over the subject matter of an appeal,
+(b) a condition precedent to instituting a valid appeal has not been met, or
+(c) the appellant is without legal capacity to commence or continue the proceeding,
+and the Court may grant judgment accordingly. [6]
+[12] In my view, the changes to the text and structure of Rule 58, when compared to the previous version, are sufficient to warrant a fresh consideration of the rule as it now exists.
+[13] Rule 58 continues to describe a two-stage process. Subsection 58(1) states that the Court may, in response to an application by a party, grant an order that
+1. a question of law, fact or mixed law and fact raised in a pleading, or
+2. a question as to the admissibility of any evidence,
+be determined before the hearing.
+[14] Under subsection 58(2), the Court may grant such an order if it appears that the determination of the question before the hearing may
+1. dispose of all or part of the proceeding,
+2. result in a substantially shorter hearing, or
+3. result in substantial savings in costs.
+[15] In the first stage, the Court determines whether an order should be granted, having due regard to the requirements of subsections 58(1) and (2), which are determined by applying the usual rules of statutory interpretation, keeping in mind, however, subsection 4(1) of the Rules, which requires that “[t]hese rules shall be liberally construed to secure the just, most expeditious and least expensive determination of every proceeding on its merits.”
+[16] With respect to the requirements in subsections 58(1) and (2), subsection 58(1) requires that there be either (i) a question of law, fact or mixed law and fact raised in a pleading, or (ii) a question as to the admissibility of evidence.
+[17] In Canada (Director of Investigation and Research) v. Southam Inc., [1997] 1 S.C.R. 748, the Supreme Court of Canada described what constitutes a question of law, fact or mixed law and fact as follows (at paragraph 35):
+. . . Briefly stated, questions of law are questions about what the correct legal test is; questions of fact are questions about what actually took place between the parties; and questions of mixed law and fact are questions about whether the facts satisfy the legal tests. A simple example will illustrate these concepts. In the law of tort, the question what “negligence” means is a question of law. The question whether the defendant did this or that is a question of fact. And, once it has been decided that the applicable standard is one of negligence, the question whether the defendant satisfied the appropriate standard of care is a question of mixed law and fact. . . .
+[18] The question of law, fact or mixed law and fact must have been raised in the pleadings. Rule 58 does not provide a means to address such questions that are not raised in the pleadings.[7]
+[19] The second, alternative, requirement in subsection 58(1) was introduced with the 2014 amendments to Rule 58. It expands the scope of Rule 58 to allow for questions regarding the admissibility of evidence. The inclusion of this requirement confirms the broad scope of current Rule 58, as it may now be used to address virtually any issue that could arise in a full hearing of the appeal.
+[20] Subsection 58(2) requires only that “it appear” that the Rule 58 hearing “may” lead to one or more of the specified outcomes. The word “may” is used in two senses in subsection 58(2). The first sense is permissive and this is also the sense in which it is so used in subsection 58(1). The repetition of the permissive sense makes clear the fact that the decision to grant an order is wholly in the discretion of the Court. In particular, the fact that a question may meet the requirements in subsections 58(1) and (2) by no means compels the Court to grant an order under Rule 58.
+[21] This discretionary aspect of the rule is entirely consistent with the fact that the Tax Court of Canada has the implied authority to control the process of the Court. In R. v. Cunningham, 2010 SCC 10, [2010] 1 S.C.R. 331, the Supreme Court of Canada stated:
+Likewise in the case of statutory courts, the authority to control the court’s process and oversee the conduct of counsel is necessarily implied in the grant of power to function as a court of law. This Court has affirmed that courts can apply a “doctrine of jurisdiction by necessary implication” when determining the powers of a statutory tribunal:
+. . . the powers conferred by an enabling statute are construed to include not only those expressly granted but also, by implication, all powers which are practically necessary for the accomplishment of the object intended to be secured by the statutory regime . . . .
+(ATCO Gas and Pipelines Ltd. v. Alberta (Energy and Utilities Board), 2006 SCC 4, [2006] 1 S.C.R. 140, at para. 51)
+Although Bastarache J. was referring to an administrative tribunal, the same rule of jurisdiction, by necessary implication, would apply to statutory courts.[8]
+[22] Apart from being reflective of the Court’s implied authority to control its own process, the repetition of the permissive aspect of Rule 58 reinforces the point that there may well be other considerations at play that factor into the Court’s decision whether or not to grant an order. The repeated use of permissive language in subsections 58(1) and (2) confirms that the Court is not limited to considering only the requirements set out in those subsections.[9]
+[23] The second sense of “may” used in subsection 58(2) expresses possibility. Specifically, if “it appears” to the judge hearing the Rule 58 application that the determination of the question “may” (i.e., could possibly) give rise to one or more of the three outcomes described in subsection 58(2), then the judge may (not must) grant the order.
+[24] The cases on the former version of Rule 58 are well summarized by the Chief Justice in Suncor, supra. As the Chief Justice observes, some cases under former Rule 58 have held that a question fails to meet the requirement now in subsection 58(2) if only one of two possible answers would lead to the desired results.
+[25] I do not read these cases as setting a hard and fast rule that must be applied to the current version of Rule 58. Moreover, the broad discretionary language used in current subsection 58(2) supports the position that a question should not automatically fail to meet the requirement in that subsection because one possible answer to the question would not lead to one or more of the desired results. Rather, the possibility of that answer should be factored into the Court’s consideration of whether or not to exercise its discretion to grant an order under Rule 58. In my view, such an approach respects the broad discretionary language of subsection 58(2) and is consistent with the mandate under subsection 4(1) of the Rules and the general principles enunciated by the Supreme Court of Canada in Hryniak.
+[26] With these considerations in mind, I will now address the application made by the Appellant. It is clear that the Question is a question of mixed law and fact that is raised in the Notice of Appeal filed by the Appellant. Accordingly, the Question meets one of the alternative requirements in subsection 58(1) of the Rules.
+[27] With respect to the requirement in subsection 58(2) of the Rules, the Question will require the Court to consider the application of subparagraph 152(4)(a)(i) of the ITA to the Appellant’s circumstances. Subparagraph 152(4)(a)(i) provides that an assessment, reassessment or additional assessment may be made after the Appellant’s normal reassessment period in respect of a taxation year only if the Appellant or the person filing the return has made a misrepresentation attributable to neglect, carelessness or wilful default, or committed fraud in filing the return or in supplying information under the ITA.
+[28] In Boucher v. The Queen, 2004 FCA 46 at paragraph 5, the Federal Court of Appeal stated that subparagraph 152(4)(a)(i) of the ITA imposes two requirements. First, a misrepresentation must have been made. Second, that misrepresentation must be attributable to neglect, carelessness or wilful default.
+[29] In Nesbitt v. The Queen, 96 DTC 6588, the Federal Court of Appeal stated:
+. . . A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form. . . . [10]
+[30] In light of this statement, it is apparent that, for the Court to find a misrepresentation, the Respondent must establish that there were one or more incorrect statements in the Appellant’s returns for the Taxation Years. As the correctness of the returns is the crux of the reassessment issue (save for the subsection 163(2) penalties), it seems to me that it would be difficult to address this question without a full hearing that addresses all of the issues raised in the pleadings.
+[31] The Appellant states, however, that he is prepared to have the determination of the Question proceed on the basis that there has been a misrepresentation in the reporting of his income/loss for the Taxation Years (paragraph 26 of the Appellant’s submissions).[11] This, the Appellant suggests, would leave only the issue of whether the misrepresentation is attributable to neglect, carelessness or wilful default. The Appellant submits that this is a discrete issue that does not require a 15-day trial to resolve.
+[32] I disagree. In my view, the issue of whether the conceded misrepresentation is attributable to neglect, carelessness or wilful default cannot be resolved without an appreciation of all of the circumstances surrounding the filing positions taken by the Appellant in his returns for the Taxation Years. Those circumstances have not been agreed upon by the parties and, in fact, are at the heart of the highly contested reassessment issue.
+[33] The Appellant cites Inwest Investments, supra and Rio Tinto, supra in support of his position that the existence of contentious factual issues is not fatal to his application. I agree that an absence of evidence at the time of the application under Rule 58 is not fatal to that application because paragraph 58(3)(b) of the Rules empowers the Court to address evidentiary issues. In Rio Tinto, Justice D’Auray stated:
+There are no longer any obstacles with respect to evidence in paragraph 58(3)(b) of the 2014 version. The judge may give directions as to the evidence to be given, documentary or oral.[12]
+[34] This does not mean, however, that a Rule 58 hearing should be used as a substitute for a full hearing simply because evidentiary issues can be addressed in the order. It is important to keep in mind the general principles identified by the Supreme Court of Canada in Hryniak (at paragraph 49 and 50):[13]
+There will be no genuine issue requiring a trial when the judge is able to reach a fair and just determination on the merits on a motion for summary judgment. This will be the case when the process (1) allows the judge to make the necessary findings of fact, (2) allows the judge to apply the law to the facts, and (3) is a proportionate, more expeditious and less expensive means to achieve a just result.
+These principles are interconnected and all speak to whether summary judgment will provide a fair and just adjudication. When a summary judgment motion allows the judge to find the necessary facts and resolve the dispute, proceeding to trial would generally not be proportionate, timely or cost effective. . . .
+[Emphasis added.]
+[35] In Suncor, Chief Justice Rossiter noted (at paragraph 26) that a Rule 58 determination is not a substitute for a hearing and observed that “[a]lthough Rule 58 contemplates questions of fact and of mixed law and fact, the determination of such questions is very much like a trial, except that an actual trial has the benefits of a fair hearing with evidentiary protections.”
+[36] It is also worth noting that, if the evidence that is required in order to determine the question is akin to the evidence that would be tendered at a full hearing, then the requirement in subsection 58(2) would not be satisfied. This further confirms that a Rule 58 determination is not intended to be substituted for a hearing.
+[37] In Rio Tinto, the appellant posed two questions, neither of which raised the matter of the application of subparagraph 152(4)(a)(i) of the ITA. In addressing the first question, relating to the validity of reassessments, Justice D’Auray concluded (at paragraph 62) that “[t]he facts surrounding the reassessments have nothing in common with the substantive issue, that is, whether AAI’s activities constituted SR&ED.” The second question raised a narrow legal issue regarding the permitted content of the reassessments. Accordingly, the circumstances of the application in Rio Tinto were quite different from the circumstances of this application.
+[38] In Inwest Investments, the appellant filed an application with the British Columbia Supreme Court for a summary trial under the Supreme Court Civil Rules, B.C. Reg. 168/2009. The Court described the central question in the appeal as “whether Wesbild had a permanent establishment . . . in British Columbia”,[14] which is a relatively discrete issue. The summary trial was to address whether the Minister was entitled to assess Wesbild Capital Corporation (“Wesbild”) under the authority of subparagraph 152(4)(a)(i) of the ITA and, for that purpose, the appellant conceded that Wesbild had taken an incorrect filing position in its 2002 income tax return.
+[39] The Court stated that “it is apparent that little, if any, facts are in dispute”[15] and, after indicating that there was “extensive evidence”,[16] concluded:
+. . . I find that it is appropriate to proceed with the summary trial on the limitation issue. There is sufficient evidence upon which the Court may find the necessary facts to decide that issue. . . . [17]
+[40] In this case, the pleadings disclose complex facts and numerous contentious issues material to the appeal, including whether the trading transactions were a sham, whether the trading transactions were legally effective and whether the trading transactions were commercial transactions. I do not agree with the submission of the Appellant that these issues can be readily separated from the statute-barred issue.
+[41] To assess whether the Appellant acted as a wise and prudent person[18] in the complex circumstances of this case, it is in my view necessary for the Court to understand all of the circumstances in which the relevant actions of the Appellant took place. This requires a full-blown trial in which the Court has the opportunity to see and assess all of the witnesses presented by the parties and all of the evidence tendered through those witnesses.[19] Such a hearing will also provide the parties with a full opportunity to tender their evidence through examination in chief, cross-examination, discovery read-ins, etc. in a forum that provides the safeguards of the rules of evidence and the rules and procedures of the Court. This opportunity is clearly in the interests of justice in a case where the facts are complex and highly contentious and each of the parties bears an onus with respect to those facts.
+[42] In his written submissions, the Appellant states that the evidence needed to address the statute-barred issue could be tendered through affidavits, cross-examination on the affidavits and, if necessary, oral evidence. The Appellant identifies the witnesses he would produce and outlines the evidence he hopes to establish through these witnesses. The Appellant suggests that, under this approach, the hearing of the Question will require only one or two days compared to a 15-day hearing for the full appeal.
+[43] At the same time, the Appellant emphasizes that the onus with respect to the statute-barred issue falls on the Respondent. It is therefore apparent that there is a fundamental contradiction in the Appellant’s position. On the one hand, the Appellant argues that the evidence necessary to determine the Question should be introduced in a circumscribed fashion. On the other hand, the Appellant emphasizes that the onus to establish the facts supporting the application of subparagraph 152(4)(a)(i) of the ITA falls on the Respondent. In effect, the Appellant is seeking to control the manner in which the Respondent may introduce evidence to satisfy her onus. The Appellant’s suggested approach to the evidence would not provide a fair and just adjudication of the statute-barred issue.[20]
+[44] For the foregoing reasons, the motion is dismissed with costs to the Respondent in any event of the cause.
+Signed at Toronto, Ontario, this 13th day of July 2016.
+“J.R. Owen”
+Owen J.
+CITATION:
+2016 TCC 171
+COURT FILE NO.:
+2015-2662(IT)G
+STYLE OF CAUSE:
+Pasquale Paletta v. THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 24, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice John R. Owen
+DATE OF ORDER:
+July 13, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan
+and Thang Trieu
+Counsel for the Respondent:
+Robert Carvalho
+and Elizabeth (Lisa) McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan
+Firm:
+KPMG Law LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I will refer to section 58 of the Rules as “Rule 58”.
+[2] M.N.R. v. Taylor, [1961] Ex. C.R. 318.
+[3] Subsection 163(3) of the ITA.
+[4] Hryniak addressed rule 20.04 of the Ontario Rules of Civil Procedure (the “Ontario Rules”) providing for summary judgment if “the court is satisfied that there is no genuine issue requiring a trial with respect to a claim or defence”. It appears that this determination is typically made on the basis of affidavit evidence (rule 20.02 of the Ontario Rules). Subrule 20.04(2.1) of the Ontario Rules bestows upon the judge the power to weigh the evidence, evaluate the credibility of a deponent and draw any reasonable inference from the evidence “unless it is in the interest of justice for such powers to be exercised only at a trial”.
+[5] The official English translation of this judgment was released after the motion was heard.
+[6] Paragraph 58(1)(a) was amended by SOR/2004-100 to add: “, a question of fact or a question of mixed law and fact”. Prior to that amendment, the rule addressed only a question of law.
+[7] As to what “raised in the pleadings” means, see, for example, the comments of Justice Woods in Sentinel Hill Productions IV Corp. v. The Queen, 2013 TCC 267 at paragraphs 27 to 31, a decision cited by Chief Justice Rossiter in Suncor Energy Inc. v. The Queen, 2015 TCC 210 at paragraph 14. The text of this requirement has not changed in the current version of Rule 58.
+[8] Paragraph 19. See also M.N.R. v. RBC Life Insurance Company, 2013 FCA 50 at paragraphs 35 and 36.
+[9] In McIntyre v. The Queen, 2014 TCC 111, Justice Campbell confirmed that this discretion also existed under the prior version of Rule 58 (see paragraph 25). The Chief Justice cited this observation with approval in Suncor, supra (at paragraph 16) in addressing the current version of Rule 58. In Rio Tinto Alcan Inc. v. The Queen, 2016 TCC 31, Justice D’Auray stated at paragraph 55:
+. . . the judge always has discretion and can decide, citing other grounds, that the question does not lend itself to a determination under section 58 of the Rules.
+[10] Page 6589 of the decision.
+[11] The concession is solely for the purpose of determining the Question.
+[12] Paragraph 64.
+[13] Although the Court was addressing different rules, these general principles are nevertheless germane to Rule 58.
+[14] Paragraph 46.
+[15] Paragraph 3.
+[16] Paragraph 64.
+[17] Paragraph 69.
+[18] The Queen v. Regina Shoppers Mall Limited, 91 DTC 5101 (F.C.A.) at page 5103 and Johnson v. The Queen, 2012 FCA 253 at paragraph 55.
+[19] See, generally, Vachon v. The Queen, 2014 FCA 224 at paragraph 9.
+[20] If I were to disregard the Appellant’s suggestion regarding the sources of evidence and order that all necessary evidence be given orally in person with full cross-examination, I would be substituting a Rule 58 determination for a hearing, which, as already stated, is not what Rule 58 is to be used for. This is confirmed by the fact that an order under Rule 58 would most likely result in a breach of the requirement in subsection 58(2) because none of the desired results would be achieved by such an order.

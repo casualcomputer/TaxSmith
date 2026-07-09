@@ -1,0 +1,141 @@
+---
+title: "Benjamin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27378/index.do"
+last_modified: "2006-02-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 69"
+citation2: ""
+neutral_citation: "2006 TCC 69"
+decision_date: "2006-02-02"
+language: "en"
+item_id: "27378"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 135
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:22:33.363000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ea328886075ad864d1b5ec5dd81e1850fcf2da74274c1b2ff0aaa568e00b23ec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Benjamin v. The Queen
+
+- Citation: 2006 TCC 69
+- Decision date: 2006-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 135, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Benjamin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-02
+Neutral citation
+2006 TCC 69
+File numbers
+2005-874(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-874(IT)I
+BETWEEN:
+RONALD BENJAMIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 12, 2006 at Kitchener, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: George Boyd Aitken
+Frederic Morand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1997 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant to deduct an allowable business investment loss of $37,500 in the computation of his income.
+The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 2nd day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC69
+Date: 20060202
+Docket: 2005-874(IT)I
+BETWEEN:
+RONALD BENJAMIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This is an appeal from an assessment made under the Income Tax Act for the appellant's 1997 taxation year. It has to do with a claim made by Mr. Benjamin in filing his return of income of a business investment loss ("BIL") of $50,000 resulting in a claim for a deduction of $37,500 as an allowable business investment loss ("ABIL") of $37,500.
+[2] Mr. Benjamin testified that he had been approached by Martin Sussman and Lee Harrison to participate in a project, through a corporation equally owned by him, Sussman and Harrison, involving the sale of telephone cards.
+[3] The appellant and Sussman each invested $50,000 in the company named Concepts Alive Inc. The business was actively carried on in 1996 and 1997. The cards that they sold were promotional advertising cards with the name of the advertiser on them. A number of orders for cards were obtained and a few examples were put in evidence, including Benjamin's Park Memorial Chapel, Telesonic Communications Inc., and Norseman Plastics Ltd. The money invested by the appellant and Sussman was used to pay rent and expenses of the business but the enterprise did not succeed. The concept of advertising by means of telephone cards appears to have been an idea that had not yet arrived. The company closed its doors in 1997 and the debt became bad.
+[4] The sole issue is whether the Minister's assumption that "the appellant did not invest the amount of $50,000 in the Corporation" [Concepts Alive Inc.] was correct. No other assumption relevant to the appellant's claim is pleaded. If the appellant did lend the amount of $50,000 to Concepts Alive Inc., all of the other statutory requirements entitling him to deduct an ABIL are present; the company is a Canadian controlled private corporation, carrying on an active business, and the debt became a bad debt in 1997.
+[5] The appellant's problem, at least in dealing with the Canada Revenue Agency ("CRA"), was that he had no documentation supporting the loan. Counsel for the respondent argued that in light of certain judgments of this court I should dismiss the appeal.
+[6] Whatever may be the policy of the CRA to require documentation to support an expense, a payment or a deduction, it is not the policy of this court, unless the taxing statute specifically requires it (as for example, in the case of charitable donations). If a taxpayer in court can demonstrate through credible oral testimony that a payment was made or an expense incurred, the court must make a finding based on that evidence and give effect to it. The court cannot avoid its responsibility to base its conclusions on the evidence adduced by saying in effect "It doesn't matter how credible your testimony is, if you don't have a piece of paper you must necessarily lose."
+[7] The cases referred to by the respondent do not support the proposition advanced by the respondent. They say merely that if an appellant lacks documentary evidence he or she has a more difficult task in meeting the onus of proof. If the appellant has made out a prima facie case by credible oral testimony and it is unrefuted, the appellant should win. The cases in which an appellant has lost were ones in which both paper and credibility were lacking.
+[8] In Bullas v. R., [2002] 3 C.T.C. 467, Evans J.A. speaking for the Federal Court of Appeal in dismissing an appeal from the judgment of Brulé J. said:
+... As the Judge indicated to when dismissing Mr. Bullas' appeal, a taxpayer is obliged by law to keep records to support claimed deductions and puts himself in a very difficult position if he fails to do so. Nonetheless, the Tax Court may accept other evidence in place of documentary records. However, it is for the Tax Court Judge, as the trier of fact, to consider the totality of the evidence and to assess its credibility in determining whether the taxpayer has demonstrated that the Minister was in error in disallowing the claimed deductions.
+[9] Far from making documentary proof an absolute requirement, Evans J.A. indicates that other forms of proof, if credible, may be accepted.
+[10] Here, the appellant in addition to his own testimony called the other two shareholders who both testified that the appellant loaned $50,000 to the company. They were credible witnesses and I accept their testimony. Counsel for the respondent pointed to some inconsistencies in their testimony. One said that the $50,000 was paid to the company in one lump sum, the appellant said he paid it in two and the third was uncertain. It is not surprising that there might be some lapses of memory after ten years. Far from detracting from the appellant's testimony these discrepancies enhance it. It proves that the three did not get together and concoct a consistency in the details of their story. I am not prepared to attribute to these witnesses such a degree of ingenuity that they concocted inconsistencies to make their story look credible.
+[11] Counsel referred to section 230 of the ITA which requires that a taxpayer carrying on business should keep adequate books and records. Failure to do so may bring with it certain sanctions under section 238 but one of the results is not disallowance of expenses if the taxpayer can establish the expense by credible oral testimony. There is also the obvious point that lending money to your company is not carrying on business. The approach which in my view is the correct one is stated by Woods J. in Chandan v. Canada, 2005 TCC 685 where she said at paragraph 34:
+Counsel also referred to decisions that emphasize the importance of record-keeping. [See Note 10 below] A taxpayer is required under subsection 230(1) of the Act to keep appropriate records so that the income tax returns can be verified and a taxpayer who fails to keep adequate records may have their claims disallowed. A claim for a deduction is not necessarily to be denied, however, because the taxpayer failed to keep adequate records. The requirement is that a prima facie case be established and, in my view, that is what the appellant has succeeded in doing.
+See also Weinberger v. M.N.R., 64 DTC 5060.
+[12] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment to allow the appellant to deduct an allowable business investment loss of $37,500 in the computation of his income.
+[13] The appellant is entitled to his costs, if any, in accordance with the tariff.
+Signed at Ottawa, Canada, this 2nd day of February 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC69
+COURT FILE NO.:
+2005-874(IT)I
+STYLE OF CAUSE:
+Ronald Benjamin v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Kitchener, Ontario
+DATE OF HEARING:
+January 12, 2006
+EASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+February 2, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+George Boyd Aitken
+Frederic Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

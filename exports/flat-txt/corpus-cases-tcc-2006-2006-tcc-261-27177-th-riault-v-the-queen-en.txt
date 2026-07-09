@@ -1,0 +1,126 @@
+Title: Thériault v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27177/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-261-27177-th-riault-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-07-04
+
+# Thériault v. The Queen
+
+- Citation: 2006 TCC 261
+- Decision date: 2006-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 980, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thériault v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-04
+Neutral citation
+2006 TCC 261
+File numbers
+2005-3946(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3946(IT)I
+BETWEEN:
+ROGER THÉRIAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 19, 2006, at Québec, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Virginie Falardeau
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are dismissed, without costs.
+Signed at Ottawa, Canada, this 4th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of July 2007.
+Brian McCordick, Translator
+Citation: 2006TCC261
+Date: 20060704
+Docket: 2005-3946(IT)I
+BETWEEN:
+ROGER THÉRIAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years.
+[2] The issues for determination are whether the Minister of National Revenue ("the Minister") properly added, to the Appellant's income, the amounts of $35,984 for the 2000 taxation year, $37,368 for the 2001 taxation year and $35,984 for the 2002 taxation year, and whether the Minister properly refused to grant the Appellant support payment deductions of $35,984 for the 2000 taxation year, $37,368 for the 2001 taxation year and $35,984 for the 2002 taxation year.
+[3] In making and confirming the assessments under appeal, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The Appellant and Lyne Côté separated in 1998.
+(b) The Appellant is the president and sole shareholder of the corporation.
+(c) The corporation paid Lyne Côté the sums of $35,984 for the 2000 taxation year, $37,368 for the 2001 taxation year and $35,984 for the 2002 taxation year.
+(d) During the years in issue, Lyne Côté performed no services for the corporation.
+(e) The Appellant and his ex-wife have no written agreement specifying the amount of support to be paid and the terms and conditions of payment.
+[4] The following facts were disclosed by the evidence. Firstly, subparagraphs (a), (b), (c), (d) and (e) are true,
+[5] Secondly, the testimony of the Appellant and his ex-wife disclosed that the amount that the corporation paid to Ms. Côté was not discussed or negotiated in any way.
+[6] The amount was simply established by the corporation's accountant based on the corporation's ability to pay. It appears that the Appellant's ex-wife accepted this amount without asking any questions, knowing full well that the amount was being paid to her by the corporation controlled by her ex-husband.
+[7] Although the Appellant's ex-wife rendered no services to the corporation controlled by her ex-husband, the corporation paid her the money; at the end of the year, a T4 was prepared for her so that it would be considered employment income.
+[8] Ms. Roy bore the tax consequences as though the amount was employment income, and the corporation controlled by the Appellant took advantage of the expense by entering it in the corporation's books as a salary.
+[9] Following an audit, the Minister discovered that the amount was absolutely not a salary. He immediately treated the amounts that the corporation paid Ms. Côté as a benefit that the Appellant had received from the corporation.
+[10] The Appellant submitted that the amount was not taxable because it was actually support; consequently, he objected to the assessment.
+[11] Parliament has specified the rules applicable to support. Over the years, the situation has changed a few times because various important decisions have fashioned the tax treatment of support payments.
+[12] Since The Queen v. Thibaudeau, [1995] 2 S.C.R. 627, the tax rules applicable to support payments have significantly changed. Since April 30, 1997, all written support judgments or agreements have been subject to new rules.
+[13] Previously, the rule applicable to both spousal and child support was that the payer could deduct the periodic payments from his or her income. This is no longer the case.
+[14] As of May 1, 1997, the Department of Finance has removed child support payments from the tax system.
+[15] Following the amendments, amounts paid periodically for children cannot be deducted from the payer's income and need not be included in the recipient's income.
+[16] However, where the support is for the payer's spouse, the system remains unchanged; thus, the payer may deduct the support amount from his or her income and the recipient must include it in his or her income.
+[17] Where the agreement is ambiguous as to whether the amount constitutes child support or spousal support, or the portions allocated to the child and the spouse are not defined, the support is considered a "child support amount" by virtue of the definition of the term "child support amount" in subsection 56.1(4) of the Act. In such an event, the support will not be deductible from the income of the support payer, and will not be included in the support recipient's income and therefore will not be taxable.
+[18] It is also interesting to consider the Court's decisions regarding the question whether an amount is a "support amount" according to the criteria set out in subsection 56.1(4) of the Act. It should be noted that if there is no written agreement or Court order, it cannot be a support amount: see Rioux v. Canada, 2005 TCC 217, per Rip J., and Hodson v. The Queen, A‑146‑87, November 30, 1987, 88 DTC 6001 (F.C.A.).
+[19] Similarly, payments made before such an agreement came into existence are not deductible as support: see D’Anjou v. M.N.R., 92 DTC 1326 (T.C.C.). In the same vein, even if the parties' lawyers have negotiated the agreement but the parties have no signed it, there is simply no agreement: Ardley v. M.N.R., 80 DTC 1106 (Tax Review Board). Lastly, an agreement must be in writing and cannot be oral: Knapp v. M.N.R., 85 DTC 424 (T.C.C.). In other words, a person who does not obtain a written agreement has only himself to blame when tax problems arise: Kostiner v. M.N.R., 63 DTC 478 (Tax Review Board). Informal agreements do not qualify.
+[20] Moreover, amounts paid in excess of what the agreement stipulates are not considered income for the recipient: Marks v. M.N.R., 54 DTC 125 (Tax Appeal Board).
+[21] In the case at bar, the facts disclosed by the evidence clearly do not come within the provisions of the Act, and I find that the amounts that the corporation paid to Ms. Côté are in no way support payments, and were essentially amounts paid to her based on the corporation's ability to pay so that she could take appropriate care of the children of whom the Appellant is the father.
+[22] The amounts in question here cannot and must not be considered deductible support payments. The amounts paid by the corporation were determined by the accountant based not on the financial ability of the Appellant or the financial needs of Ms. Côté, but rather, essentially, on the corporation's ability to pay.
+[23] A support payment is either determined by a court or determined by an agreement that generally results from discussions or negotiations. In theory, this involves the determination of an amount that strikes a balance between the economic needs of the recipient and the payer's ability to pay, having regard to several factors related to health, autonomy, lifestyle and so forth.
+[24] Here, the Appellant chose to come to his ex-spouse's aid and look after his children's needs by means of a very unusual tactic that consisted in paying her a salary for no consideration and no work. In no way does this approach comply with the statutory provisions concerning the tax treatment of support payments.
+[25] For all these reasons, the appeals are accordingly dismissed.
+Signed at Ottawa, Canada, this 4th day of July 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of July 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC261
+COURT FILE NO.: 2005-3946(IT)I
+STYLE OF CAUSE: Roger Thériault and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 19, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: July 4, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Virginie Falardeau
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Virginie Falardeau
+Firm: Starnino Mostovac
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

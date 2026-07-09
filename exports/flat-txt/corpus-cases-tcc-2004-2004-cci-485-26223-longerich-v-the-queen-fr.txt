@@ -1,0 +1,208 @@
+Title: Longerich v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26223/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-485-26223-longerich-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-07-09
+
+# Longerich v. The Queen
+
+- Citation: 2004 CCI 485
+- Decision date: 2004-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4020, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Longerich v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-09
+Référence neutre
+2004 CCI 485
+Numéro de dossier
+2000-1962(IT)G
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-1962(IT)G
+ENTRE :
+HANS LONGERICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Edmonton (Alberta), le 18 juin 2004.
+Devant : L'honorable T. O'Connor, juge
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Belinda Schmid
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1994 est rejeté avec dépens selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004.
+« T. O'Connor »
+Juge Connor
+Traduction certifiée conforme
+ce 7e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI485
+Date : 20040709
+Dossier : 2000-1962(IT)G
+ENTRE :
+HANS LONGERICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Dans cet appel, il s'agit de savoir si l'appelant a le droit de déduire une perte déductible au titre d'un placement d'entreprise (la « PDTPE » ) dans l'année d'imposition 1994. Les faits ainsi que la position du ministre du Revenu national (le « ministre » ) sont exposés dans la réponse à l'avis d'appel. Sous réserve de certains ajouts que j'ai faits pour plus de clarté, les paragraphes pertinents de la réponse sont ainsi libellés :
+[TRADUCTION]
+7. Dans le calcul de son revenu pour l'année d'imposition 1994, l'appelant a déduit une perte au titre d'un placement d'entreprise (la « PTPE » ) d'un montant de 233 342 $ et une perte déductible au titre d'un placement d'entreprise (la « PDTPE » ) d'un montant de 175 006 $. [Il est à noter qu'à l'audience, il a été convenu que le montant de 175 006 $ devait en fait s'élever à 172 110 $, soit les trois quarts du montant total de 229 480 $, qui est composé de la somme de 210 480 $ qui aurait censément été avancée à W.T.F. Canada et de la somme de 19 000 $ qui aurait censément été avancée à Klehini Resources comme il en sera ci-dessous fait mention.]
+8. Par un avis de nouvelle cotisation en date du 3 août 1999, le ministre a établi une nouvelle cotisation à l'égard de l'année d'imposition 1994 de l'appelant et a refusé la PTPE et la PDTPE.
+9. L'appelant a déposé un avis d'opposition en date du 12 octobre 1999 à l'encontre de la nouvelle cotisation.
+10. Le ministre a ratifié la nouvelle cotisation relative à l'année d'imposition 1994 de l'appelant par un avis de ratification en date du 28 janvier 2000.
+11. En établissant ainsi la nouvelle cotisation de l'appelant pour l'année d'imposition 1994, le ministre s'est entre autres fondé sur les hypothèses de fait ci-après énoncées :
+a) les faits admis exposés ci-dessus;
+b) l'appelant a déduit la PDTPE à l'égard de sommes investies dans W.T.F. Canada Ltd. ( « W.T.F. Canada » ) et dans Klehini Resources Ltd. ( « Klehini Resources » );
+c) pendant la période pertinente, W.T.F. Canada et Klehini Resources n'exploitaient pas une « entreprise exploitée activement » ou une « entreprise » telles que ces expressions sont définies au paragraphe 248(1) de la Loi;
+d) pendant la période pertinente, W.T.F. Canada et Klehini Resources n'étaient pas des sociétés exploitant une petite entreprise au sens du paragraphe 248(1) de la Loi;
+e) l'appelant n'avait pas de créance sur W.T.F. Canada et Klehini Resources ou sur quelque autre société privée sous contrôle canadien qui était une société exploitant une petite entreprise;
+f) l'appelant n'avait pas, sur une société privée sous contrôle canadien qui était une société exploitant une petite entreprise, une créance qui est devenue une créance irrécouvrable à la fin de l'année d'imposition 1994;
+g) l'appelant n'a pas acquis une créance en vue de tirer un revenu d'une entreprise ou d'un bien ou en contrepartie de la disposition d'une immobilisation en faveur d'une personne avec qui il n'avait aucun lien de dépendance;
+h) l'appelant n'a pas effectué de choix conformément au paragraphe 50(1) de la Loi à l'égard d'une créance ou d'une action;
+i) l'appelant n'était pas propriétaire d'actions de W.T.F. Canada ou de Klehini Resources;
+j) l'appelant n'était pas propriétaire d'actions d'une société exploitant une petite entreprise dans l'une des circonstances énoncées à l'alinéa 50(1)b) de la Loi;
+k) en 1994, l'appelant n'a pas disposé d'une action du capital-actions d'une société exploitant une petite entreprise; et
+l) dans l'année d'imposition 1994, l'appelant n'a pas subi de perte au titre d'un placement d'entreprise.
+B. QUESTIONS À TRANCHER
+12. Il s'agit de savoir si l'appelant a le droit de déduire une perte au titre d'un placement d'entreprise et, dans l'affirmative, quel est le montant en cause.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+13. Il se fonde entre autres sur les articles 3 et 9, sur les paragraphes 50(1), 125(7), 248(1) ainsi que sur les alinéas 38c), 39(1)c) et sur le sous-alinéa 40(2)g)(ii) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée.
+Arguments de l'appelant
+[2] L'appelant conteste toutes les conclusions du ministre qui sont énoncées dans la réponse. Il affirme avoir effectué le placement en croyant que les sommes en cause étaient investies dans les deux sociétés canadiennes, à savoir W.T.F. Canada et Klehini Resources, et que ces sociétés étaient des sociétés exploitant une petite entreprise au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu (la « Loi » ). Il fait également valoir que, même s'il ne possédait pas d'actions dans ces sociétés, les montants qu'il a avancés représentaient une créance, et ce, bien qu'aucun document de prêt n'ait été signé et bien qu'aucun intérêt n'ait été payable. Il a certes subi la perte et la perte devrait être admissible à titre de PDTPE en 1994 étant donné qu'il n'a jamais reçu d'actions, d'argent ou d'autres fonds.
+[3] L'appelant fait également valoir qu'il a été [TRADUCTION] « dupé » et qu'il a cru que les sociétés en cause cherchaient activement à le leurrer. Il mentionne l'arrêt Sa Majesté la Reine c. William H. Johnston, en date du 25 avril 2001, dans lequel la Cour d'appel fédérale a confirmé la décision rendue par la Cour canadienne de l'impôt dans l'affaire Johnston v. Canada, 2000 DTC 1864, [2000] 2 C.T.C. 2602 (CCI), confirmée par 2001 CAF 122, 2001 DTC 5300 (C.A.F.). Dans cette décision, le juge Bell a conclu à l'admissibilité d'un stratagème complexe visant la perpétration d'une fraude auquel s'étaient livrées certaines sociétés. Au paragraphe 59 et suivants de la décision de la Cour de l'impôt, le juge Bell a résumé comme suit les dispositions applicables :
+[59] Je souscris aux observations de l'appelant selon lesquelles il a le droit de déduire une perte déductible au titre d'un placement d'entreprise. L'alinéa 38c) se lit comme suit :
+la perte déductible au titre d'un placement d'entreprise d'un contribuable, pour une année d'imposition, résultant de la disposition d'un bien est égale aux ¾ de la perte au titre d'un placement d'entreprise que ce contribuable a subie, pour l'année, à la disposition du bien.
+L'alinéa 39(1)c) se lit en partie comme suit :
+une perte au titre d'un placement d'entreprise subie par un contribuable [...] résultant de la disposition d'un bien quelconque désigne la fraction [...] de la perte en capital [...] subie pour l'année résultant d'une disposition [...] à laquelle le paragraphe 50(1) s'applique, [...] d'un bien qui est [...] une créance du contribuable sur une corporation [société] privée dont le contrôle est canadien [...] qui est [...] une corporation [société] exploitant une petite entreprise [...]
+L'alinéa 50(1)a) prévoit que :
+lorsqu'un contribuable établit qu'une créance qui lui est due à la fin d'une année d'imposition [...] s'est révélée être au cours de l'année une mauvaise créance [...] le contribuable est réputé avoir disposé de la créance [...] à la fin de l'année pour un produit nul [...]
+Le sous-alinéa 40(2)g)(ii) prévoit ce qui suit :
+une perte résultant de la disposition d'une créance [...] sauf si la créance [...] a été acquis[e] par le contribuable en vue de tirer un revenu d'une entreprise ou d'un bien [...] est nulle;
+[60] Même si l'entente en question prévoyait l'octroi d'un prêt par l'appelant « à la coentreprise » , la somme a été avancée à WSL « pour le compte et au nom de la coentreprise » . L'appelant est la seule des deux parties à la coentreprise qui a avancé de l'argent, et cet argent a été avancé à l'autre partie. L'entente prévoyait la délivrance par WSL d'un billet à ordre attestant de l'avance de fonds et précisait en outre que WSL s'empresserait de rembourser les fonds à l'appelant si elle était incapable d'acheter le stock. Le billet à ordre rédigé et livré par WSL faisait état de l'entente de coentreprise et précisait qu'il était assujetti aux modalités de celle-ci et prévoyait qu'il était payable en conformité avec les modalités de cette entente. Je conclus que la créance ainsi acquise de WSL par l'appelant au moment où il a consenti le prêt de 57 000 $ a été acquise en vue de tirer un revenu « d'une entreprise ou d'un bien » . Ce dernier avait déjà participé à des coentreprises avec WSL, chacune lui ayant rapporté un montant supérieur à celui de son avance. Cette conclusion n'est pas incompatible avec ma conclusion selon laquelle il n'exploitait pas une entreprise parce que, dans l'esprit de l'appelant, il a avancé la somme de 57 000 $ en vue de gagner un revenu. Il importe peu de savoir si le revenu devait être tiré d'une entreprise ou d'un bien. Si le revenu tiré des quatre coentreprises antérieures de l'appelant était un revenu tiré d'une entreprise, la perte découlant de la cinquième entreprise devrait donc être une perte au titre d'un placement d'entreprise. J'ai décidé qu'elle n'en était pas une. Cependant, si le revenu des entreprises antérieures était un revenu tiré d'un bien, la perte découlant de la cinquième coentreprise, qui est identique sur le plan de la forme, doit être une perte découlant d'un bien et, par conséquent, une perte en capital.
+[61] Pour pouvoir déduire une « perte au titre d'un placement d'entreprise » en 1993, l'appelant doit avoir subi une perte en capital lors de la disposition réputée d'une créance qui s'est révélée être une mauvaise créance au cours de l'année. La réponse modifiée à l'avis d'appel de l'intimée est libellée en partie comme suit :
+[TRADUCTION]
+Pour établir la cotisation à l'égard de l'appelant pour l'année d'imposition 1993, le ministre du Revenu national [...] a refusé la déduction d'une perte déductible au titre d'un placement d'entreprise et a avisé l'appelant qu'il avait une perte en capital de 25 540 $.
+Dans ses observations, l'avocat de l'intimée n'a pas contesté l'existence d'une perte en capital. Il a plutôt essayé de convaincre la Cour que la créance donnant lieu à la perte n'était pas une créance de WSL, que cette dernière n'était pas une « corporation [société] exploitant une petite entreprise » au sens de l'alinéa 39(1)c) et que la créance n'avait pas été acquise en vue de tirer un revenu, de sorte que la perte de l'appelant serait réputée nulle aux termes du sous-alinéa 40(2)g)(ii). Dans la réponse à l'avis d'appel, l'intimée a admis que WSL était une société privée dont le contrôle était canadien. Je dois déterminer si c'était une « corporation [société] exploitant une petite entreprise » comme le requiert cette disposition. L'expression « corporation [société] exploitant une petite entreprise » est définie de la manière suivante à l'article 248 de la Loi :
+une corporation [société] privée dont le contrôle est canadien et dont la totalité, ou presque, de la juste valeur marchande des éléments d'actif sont utilisés principalement dans une entreprise que la corporation [société] exploite activement principalement au Canada.
+[62] L'expression « entreprise exploitée activement » , qui est également définie à l'article 248, désigne toute entreprise exploitée par un contribuable autre qu'une entreprise de placement désignée ou une entreprise de prestation de services personnels. Il est clair que les activités de WSL ne correspondaient ni à une « entreprise de placement désignée » ni à une « entreprise de prestation de services personnels » . J'accepte les observations de l'avocat de l'appelant selon lesquelles WSL exploitait activement une entreprise de fraude. Le fait qu'elle s'adonnait à des activités criminelles n'empêche pas de la qualifier « d'entreprise » aux fins de l'impôt sur le revenu. [NOTE DE BAS DE PAGE 5 : M.N.R. v. Eldridge, 64 DTC 5338; Buckman v. M.N.R., 91 DTC 1249.] Au cours de la période en cause, WSL avait des employés, des locaux, des entrepôts et des stocks et elle faisait la vente et l'achat de marchandises. Elle avait également de l'argent, même s'il s'agissait d'avances consenties par des personnes participant à des coentreprises. Ces éléments d'actif étaient utilisés pour leurrer ces personnes. Je conclus donc que WSL utilisait ces éléments d'actif dans l'entreprise qui consistait à attirer des coentrepreneurs et à les leurrer. Ce qui précède me convainc que WSL était une société exploitant une petite entreprise qui avait une créance envers l'appelant, laquelle créance a été acquise en vue de tirer un revenu d'une entreprise ou d'un bien. Je suis aussi convaincu que le contribuable est réputé avoir disposé de cette créance en 1993 pour un produit nul, ce qui entraîne donc une perte au titre d'un placement d'entreprise au sens de l'alinéa 39(1)c) de la Loi.
+[63] En conséquence, l'appelant n'obtient pas gain de cause en ce qui concerne ses premières observations selon lesquelles la perte découlant de la cinquième coentreprise était une perte autre qu'une perte en capital déductible. Il obtient gain de cause en ce qui concerne ses observations subsidiaires selon lesquelles il avait le droit, relativement à la perte, de déduire une perte déductible au titre d'un placement d'entreprise aux termes de l'article 3 et des dispositions mentionnées précédemment.
+[64] L'appel est admis avec frais.
+[4] Le premier argument avancé par l'avocate de l'intimée se rapporte au paragraphe 50(1) de la Loi, qui est ainsi libellé :
+50.(1) Créances reconnues comme irrécouvrables et actions d'une société en faillite - Pour l'application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu'une créance qui lui est due à la fin d'une année d'imposition (autre qu'une créance qui lui serait due du fait de la disposition d'un bien à usage personnel) s'est révélée être au cours de l'année une créance irrécouvrable;
+b) une action du capital-actions d'une société (autre qu'une action reçue par un contribuable en contrepartie de la disposition d'un bien à usage personnel) appartient au contribuable à la fin d'une année d'imposition et :
+(i) soit la société est devenue au cours de l'année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l'article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l'année,
+(iii) soit les conditions suivantes sont réunies à la fin de l'année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu'elle contrôle n'exploite d'entreprise,
+(C) la juste valeur marchande de l'action est nulle,
+(D) il est raisonnable de s'attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l'action à la fin de l'année pour un produit nul et l'avoir acquis de nouveau immédiatement après la fin de l'année à un coût nul, à condition qu'il fasse un choix, dans sa déclaration de revenu pour l'année, pour que le présent paragraphe s'applique à la créance ou à l'action.
+[5] L'avocate affirme qu'étant donné qu'aucun choix n'a été effectué (ce qui a été établi), l'appelant ne peut pas déduire une PDTPE. Je reviendrai ci-dessous sur cet argument. L'appelant a de fait déduit une PDTPE dans sa déclaration, mais il n'a pas fait de choix en vertu du paragraphe 50(1) et il n'est donc pas admissible. L'avocate ajoute ce qui suit : [TRADUCTION] « Je voulais simplement faire valoir devant vous que le législateur a consciemment décidé qu'un choix était nécessaire parce que la disposition pertinente a de fait été ajoutée au moyen d'une modification qui devait s'appliquer à l'année 1994 et aux années ultérieures. Par conséquent, auparavant, le paragraphe 50(1) ne prévoyait pas en fait qu'il était nécessaire de procéder à un choix. »
+[6] L'avocate de l'intimée a ajouté ce qui suit :
+[TRADUCTION]
+Premièrement, c'est l'appelant qui a ici la charge d'établir que la nouvelle cotisation établie par le ministre est erronée et qu'il a le droit de déduire la perte au titre d'un placement d'entreprise. Il n'appartient pas au ministre de lui refuser ce droit.
+Comme il en est fait mention dans les actes de procédure qui ont été déposés devant la Cour, dans la réponse à l'avis d'appel du ministre, il est nié que les sociétés en cause constituaient des sociétés exploitant une petite entreprise au moment pertinent. Il est également nié que les sociétés avaient contracté une dette envers M. Longerich au moment pertinent.
+Par conséquent, pour avoir gain de cause dans son appel, M. Longerich devrait réfuter ces hypothèses et convaincre la Cour de l'existence de chaque élément qui doit être présent pour qu'une perte puisse être déduite au titre d'un placement d'entreprise.
+[7] Un autre point soulevé par l'avocate de l'intimée est que l'appelant n'a tout simplement pas soumis un nombre suffisant d'éléments de preuve afin d'établir qu'il avait le droit de déduire la PDTPE. L'avocate ajoute ce qui suit :
+[TRADUCTION]
+Il ne s'agit donc pas ici de savoir si M. Longerich a perdu de l'argent, de sorte qu'il a subi une perte au titre d'un placement d'entreprise. S'il peut établir qu'il a perdu de l'argent en vue de tirer un revenu d'une entreprise ou d'un bien, il pourrait bien avoir droit à une perte en capital.
+Cependant, ce n'est pas ce qu'il cherche à obtenir, de sorte qu'il se contente de démontrer qu'il a investi des capitaux, sous quelque forme que ce soit, ce qui est loin de montrer clairement la façon dont l'affaire devait se dérouler et sous quelle forme il devait rentrer dans ses fonds et qu'il fait savoir qu'il devrait recouvrer tout son argent.
+[8] L'avocate a en outre soutenu ce qui suit :
+[TRADUCTION]
+L'intimée affirme que, bien que l'argent accordé ait initialement été payable à la société canadienne, c'est en fin de compte la société de Hong Kong qui a reçu l'argent.
+Et selon les documents, c'est la société de Hong Kong qui est légalement tenue de remettre les fonds, si l'on considère que M. Longerich a consenti un prêt.
+Bien sûr, la société de Hong Kong ne peut pas constituer une société exploitant une petite entreprise, et ce, quelles que soient les activités exercées, en ce sens qu'il ne s'agit pas d'une société privée sous contrôle canadien pour ce qui est de la perte au titre d'un placement d'entreprise.
+Et encore une fois, je me rends bien compte, étant donné le témoignage de M. Longerich, que son intention était peut-être différente et que les fonds ne devaient pas être acheminés à Hong Kong. Son intention à cet égard ne change cependant rien au fait qu'il semblerait que l'argent est en fait transmis à Hong Kong.
+Étant donné qu'il y a des incohérences entre le témoignage et la documentation et même dans les documents eux-mêmes ou entre les différents documents, je soutiendrais simplement que - que cela ne devrait pas nous amener à une conclusion voulant que l'on accepte simplement ce que le critère - ce que M. Longerich déclare parce qu'en l'espèce, il n'y a pas absence de documentation; M. Longerich affirme simplement qu'il faut le croire lorsqu'il dit qu'il n'a pas de documents et qu'il faut tirer une conclusion en conséquence. Or, il a lui-même produit des documents qui vont à l'encontre de ce qu'il affirme être la façon dont il envisageait alors les opérations.
+En outre, comme on l'a longuement expliqué, personne ne sait ce qui est arrivé à l'argent; ce qui d'une part n'est pas nécessairement déterminant. Toutefois, si vous envisagez d'autre part ainsi la chose, cela n'étaye certes pas le fait qu'une entreprise était activement exploitée au Canada à ce moment-là. Nous nous heurtons à un mur. L'argent a été remis à W.T.F. Canada à ce moment-là et personne ne sait ce qui est arrivé à l'argent.
+Je ne soutiens pas que, d'une certaine façon, cela voulait dire qu'il ne remettait pas l'argent à des fins commerciales, mais cela n'établit certes pas qu'une entreprise était activement exploitée au Canada à ce moment-là.
+Et je dirais que le fait que W.T.F. Canada semblait avoir reçu l'argent des investisseurs, notamment de M. Longerich, que la réception des fonds ne veut pas en soi dire qu'une entreprise était exploitée activement ici au Canada.
+[9] Quant à la décision Johnston, précitée, l'avocate de l'intimée affirme ce qui suit :
+[TRADUCTION]
+[...]
+M. Longerich déclare ensuite que W.T.F. Canada s'occupait de commettre des fraudes; à l'appui, il a mentionné, Monsieur le juge, la décision Johnston et Sa Majesté, un arrêt de la Cour d'appel fédérale datant de l'année 2001.
+Dans cet arrêt, la Cour d'appel fédérale examinait une décision dans laquelle la Cour canadienne de l'impôt avait autorisé le contribuable à déduire une perte déductible au titre d'un placement d'entreprise à l'égard d'un stratagème pyramidal frauduleux. Et la Cour d'appel fédérale a dit qu'elle ne pouvait pas conclure à une erreur de la part du juge de la Cour de l'impôt.
+Il n'existe donc, dans l'arrêt de la Cour d'appel fédérale, aucun motif de fond qui - à l'égard duquel il faut examiner la décision de la Cour de l'impôt pour une analyse plus complète de ce qui s'était réellement passé dans cette affaire.
+[...]
+Dans cette décision, le juge Bell avait permis à l'appelant de déduire une perte déductible au titre d'un placement d'entreprise pour le motif que la société en cause participait à un stratagème pyramidal frauduleux. Telle était la nature de l'entreprise, telle était l'entreprise qui était en fait exploitée au Canada. Et cela étant, le juge a conclu qu'il s'agissait d'une entreprise exploitée activement à ce moment-là.
+Bien sûr, même si à vrai dire aucune analyse plus approfondie n'a été effectuée, cette décision a été confirmée, pour ainsi dire, par la Cour d'appel fédérale. Par conséquent, dans la mesure où la Cour d'appel fédérale a apparemment dit qu'il est possible, que s'il est possible d'établir qu'une entreprise s'occupe en fait de commettre des fraudes et que, cela étant, il s'agit d'une entreprise exploitée activement, telle est la décision et tel est le fondement avancé par M. Longerich devant vous.
+Toutefois, je ferais plusieurs distinctions entre les faits établis devant la présente cour et la preuve sur laquelle les conclusions du juge Bell étaient fondées.
+Dans l'affaire dont vous êtes ici saisi aujourd'hui, nous disposons uniquement de l'assertion de M. Longerich selon laquelle, tout bien réfléchi, il a peut-être été dupé, qu'il s'agissait peut-être bien d'une fraude, et je ferai remarquer qu'il a employé le mot « peut-être » , et qu'il ne pouvait pas affirmer la chose avec plus de certitude.
+Selon la preuve qui vous a été soumise, il n'a simplement jamais recouvré l'argent. Il n'existe toutefois pas d'autres éléments de preuve au sujet de ce qui est arrivé à cet argent après qu'il l'eut remis à W.T.F. Canada.
+Et en fait, sur ce point, j'ai confirmé auprès de M. Longerich qu'il est également possible que l'argent ait été transmis à Hong Kong et que, pour diverses raisons d'ordre commercial, l'entreprise a alors échoué. Cela ne veut pas dire que la fraude est en cause, et je crois qu'il est important de le noter.
+On invoque une allégation passablement sérieuse lorsque l'on se présente devant la Cour sans avoir rien d'autre à dire qu'eh bien, parce qu'on a perdu de l'argent, on croyait que la société cherchait à leurrer les gens. [...]
+Mais le simple fait qu'un contribuable a perdu de l'argent n'établit pas selon la prépondérance des probabilités que le stratagème constituait tout simplement une fraude délibérée dont les investisseurs ont été victimes et que la fraude a été commise au Canada, de sorte que, soudain, W.T.F. Canada est maintenant une entreprise exploitée activement, parce qu'aucun élément de preuve ne montre qu'une autre entreprise était exploitée à ce moment-là.
+Dans cette décision particulière, plusieurs témoins ont été cités; il s'agissait d'une fraude fort complexe et la décision explique en détail le type de tromperie en cause. [...]
+[...] la raison pour laquelle je fais une distinction à l'égard de cette affaire particulière est simplement, Monsieur le juge, que si vous examinez cette décision, le type de preuve dont la cour disposait pour être en mesure de conclure à une fraude était bien loin de ressembler à la preuve dont vous disposez.
+En effet, la seule preuve dont vous disposez, c'est le fait que M. Longerich a perdu son argent, qu'il ne sait pas ce qui est arrivé à l'argent et qu'une fraude a peut-être été commise. Selon moi, compte tenu de la preuve mise à votre disposition, il n'a pas été établi - c'est-à-dire qu'il n'a pas été satisfait à l'obligation - qui lui incombait d'établir qu'il s'agissait d'un stratagème frauduleux, de sorte qu'il soit possible de dire que - que telle était en fait l'activité exercée par W.T.F. Canada.
+[10] Quant à Klehini Resources, l'avocate de l'intimée a établi que le montant maximal qui pouvait être considéré comme ayant été avancé à Klehini Resources s'élevait à 19 000 $ et il a été établi que Klehini était une société canadienne. L'avocate a en outre souligné qu'aucun élément de preuve ne montrait que Klehini exploitait activement une entreprise au Canada. L'appelant a présenté une preuve selon laquelle Klehini exploitait un gisement minier plutôt important, mais aucun autre élément de preuve n'a été soumis à cet égard et l'avocate conclut que l'appelant n'a pas droit au montant pour ce qui est de Klehini. L'avocate de l'intimée conclut ses prétentions comme suit :
+[TRADUCTION]
+Enfin, je répéterais simplement qu'il ne s'agit pas uniquement de savoir si M. Longerich a subi une perte et qu'une perte en capital a été subie s'il a simplement essuyé une perte qui serait par ailleurs admissible à titre de perte en capital, mais qu'il cherche à obtenir encore plus, à savoir à pouvoir défalquer de tout autre revenu, de toute évidence, la perte au titre d'un placement d'entreprise.
+J'insiste sur ce point parce que je crois qu'il est important d'y accorder de l'importance et - et la Cour et toute personne peut certes éprouver énormément de sympathie envers M. Longerich, qui a perdu de l'argent, mais telle n'est pas - telle n'est pas - la question dont la Cour est ici saisie, qu'il a perdu de l'argent et qu'il croyait qu'autre chose allait lui arriver.
+Comme je l'ai dit, il s'agit uniquement de savoir si la créance est admissible, dans la mesure où elle a été acquise aux fins appropriées.
+Cependant, lorsqu'on se demande si une société exploitait une petite entreprise, malheureusement, le but visé par M. Longerich, son intention n'est plus déterminante lorsqu'il s'agit de savoir si les sociétés exploitaient de petites entreprises au moment pertinent. Tels sont mes arguments.
+Analyse et décision
+[11] À mon avis, les arguments de l'avocate de l'intimée sont exacts. Selon moi, voici les principaux facteurs :
+1. Les sommes en cause, bien qu'elles aient initialement été avancées à W.T.F. Canada, ont essentiellement été acheminées à une société de Hong Kong et elles ne pouvaient clairement pas être considérées comme ayant été investies dans une entreprise exploitée activement au Canada.
+2. L'appelant avait la charge de la preuve et il est loin d'avoir satisfait à cette obligation.
+3. Pour les raisons invoquées par l'avocate de l'intimée, il est possible de faire une distinction à l'égard de la décision Johnston. En outre, il n'a pas été établi que W.T.F. Canada avait de fait commis une fraude et nous savons uniquement que l'appelant a perdu son argent. Il voulait peut-être que l'argent soit réacheminé à une société exploitant activement une entreprise au Canada, mais cette intention ne suffit pas lorsqu'elle n'est pas confirmée par les faits eux-mêmes.
+4. À mon avis, le paragraphe 50(1) de la Loi, qui exige qu'un choix soit effectué pour qu'il y ait PDTPE, doit être observé; or, il ne l'a pas été, et ce, tant en ce qui concerne W.T.F. Canada qu'en ce qui concerne Klehini Resources.
+[12] Pour les motifs susmentionnés, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2004
+« T. O'Connor »
+Juge Connor
+Traduction certifiée conforme
+ce 7e jour de février 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI485
+No DU DOSSIER DE LA COUR :
+2000-1962(IT)G
+INTITULÉ :
+Hans Longerich et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 18 juin 2004
+MOTIFS DU JUGEMENT :
+L'honorable T. O'Connor
+DATE DU JUGEMENT :
+Le 9 juillet 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Belinda Schmid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

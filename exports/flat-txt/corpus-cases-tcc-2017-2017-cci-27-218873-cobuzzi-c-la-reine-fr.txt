@@ -1,0 +1,206 @@
+Title: Cobuzzi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218873/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-27-218873-cobuzzi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-02-15
+
+# Cobuzzi c. La Reine
+
+- Citation: 2017 CCI 27
+- Decision date: 2017-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2257, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cobuzzi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-02-15
+Référence neutre
+2017 CCI 27
+Numéro de dossier
+2014-3936(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3936(IT)G
+ENTRE :
+ROSA COBUZZI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requêtes tranchées sur la base d’observations écrites
+Par l’honorable juge Gaston Jorré
+ORDONNANCE
+Pour les motifs ci-joints :
+1. La requête de l’appelante est rejetée.
+2. La requête de l’intimée est accueillie et la réponse à l’avis d’appel jointe à la requête est réputée avoir été déposée à la date de la présente ordonnance.
+Les parties devront, au plus tard 30 jours après la date de la présente ordonnance, convenir d’un échéancier pour compléter les étapes subséquentes et en informer la Cour ou, si elles ne peuvent s’entendre, demander à la Cour de fixer une audience sur l’état de l’instance.
+Considérant toutes les circonstances, il n’y aura pas de frais.
+Signé à Ottawa (Ontario), ce 15e jour de février 2017.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2017 CCI 27
+Date : 20170215
+Dossier : 2014-3936(IT)G
+ENTRE :
+ROSA COBUZZI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Jorré
+Introduction [1] J’ai devant moi deux requêtes : une de la part de l’appelante pour jugement par défaut et une de la part de l’intimée pour prorogation de délai pour déposer la réponse à l’avis d’appel.
+[2] La Cour a demandé aux parties si elles voulaient que les requêtes soient traitées par écrit et si elles voulaient faire des observations supplémentaires. Par lettres en date du 7 et du 14 novembre 2016, les parties ont demandé que les requêtes soient traitées par écrit et elles ont indiqué qu’elles n’avaient pas d’observations supplémentaires à faire.
+[3] Il est utile de rappeler un peu l’historique du dossier tel qu’on le retrouve dans le dossier de la Cour. L’appel concerne des cotisations en date du 31 octobre 2011 relatives aux années d’imposition 2005, 2006 et 2007. Comme nous le verrons ci-dessous, cet appel procède lentement.
+[4] L’appelante a déposé une demande de prorogation de délai pour interjeter appel relativement aux années d’imposition 2005, 2006, 2007, 2008, 2009 et 2010 le 1er août 2014. Suite au consentement déposé par les parties, par ordonnance en date du 19 mai 2015 la Cour a prorogé le délai en ce qui concerne les années d’imposition 2005, 2006 et 2007 jusqu’à la date de l’ordonnance; la Cour a également pris acte de l’abandon de la demande de l’appelante en ce qui concerne les avis de nouvelle cotisation relatifs aux années d’imposition 2008, 2009 et 2010.
+[5] Je note toutefois que l’avis d’appel qui avait été déposé avec la demande de prorogation n’a pas été modifié pour se limiter aux années 2005, 2006 et 2007.
+[6] Le paragraphe 21(4) des Règles de la Cour canadienne de l’impôt (procédure générale) (Règles) prévoit que « [l]e droit de dépôt […] est payé dans les cinq jours qui suivent la réception du document au greffe ».
+[7] Bien que l’ordonnance de prorogation est en date du 19 mai 2015, le droit de dépôt de 400 $ n’a été payé que le 12 avril 2016, à peu près 11 mois plus tard[1].
+[8] Six jours plus tard, le 18 avril 2016, le greffe a transmis l’avis d’appel à l’intimée.
+[9] Il y a au dossier de la Cour une copie d’une lettre en date du 2 mai 2016 adressée à l’avocat de l’appelante dans laquelle l’avocate de l’intimée informe l’appelante qu’elle a reçu le mandat de représenter l’intimée.
+[10] Le 7 septembre 2016 le greffe de la Cour écrit aux parties les invitant à fixer un échéancier.
+[11] La requête de l’appelante pour jugement par défaut a été déposée le 12 septembre 2016, sans déclaration sous serment.
+[12] La requête de l’intimée pour prorogation de délai a été déposée le 16 septembre 2016, environ trois mois après l’expiration du délai pour produire la réponse. La requête de l’intimée était accompagnée d’une déclaration sous serment à l’appui de la requête et de la réponse à l’avis d’appel que l’intimée proposait de déposer.
+[13] La déclaration sous serment à l’appui de la requête de l’appelante a été déposée le 20 septembre 2016. Les faits essentiels dans cette déclaration sont parmi les faits déjà énumérés ci-dessus.
+[14] À part certains faits déjà énumérés précédemment, l’essentiel de la déclaration sous serment déposée par l’intimée se résume à ceci : suite à l’ordonnance du 19 mai 2015 et n’ayant pas reçu signification de l’avis d’appel, l’intimée avait fermé son dossier. Après avoir reçu l’avis d’appel en avril 2016, l’avocate de l’intimée a vérifié et noté le délai de production de la réponse à l’avis d’appel. Elle a également écrit à l’avocat de l’appelante le 2 mai 2016 pour l’informer qu’elle était mandatée pour représenter l’intimée. Malgré sa connaissance du délai, elle a oublié de produire la réponse par erreur. L’intimée a toujours eu l’intention de déposer une réponse à l’avis d’appel. Il n’y a eu aucune communication entre l’avocat de l’appelante et l’avocate de l’intimée entre la signification de l’avis d’appel le 18 avril 2016 et la signification à l’intimée de la requête pour jugement par défaut le 9 septembre 2016.
+Requête pour jugement par défaut [15] Je vais commencer mon analyse avec la requête pour jugement par défaut.
+[16] Une première constatation s’impose. La requête de l’appelante demande que jugement soit prononcé à l’égard des conclusions recherchées dans l’avis d’appel. Or, l’avis d’appel demande que toutes les cotisations pour les années 2005 à 2010 inclusivement soient annulées bien que, vu l’abandon par l’appelante au moment de la requête pour prorogation de délai des années 2008 à 2010 inclusivement, l’ordonnance de prorogation de cette cour a seulement prorogé les délais des années 2005 à 2007 inclusivement. Il ne peut donc pas avoir de jugement quant aux années dont la Cour n’est plus valablement saisie.
+[17] L’article 63 des Règles prévoit :
+63(1) L’appelant peut, par voie de requête, demander qu’un jugement soit prononcé à l’égard des conclusions recherchées dans l’avis d’appel, si une réponse à l’avis d’appel n’a pas été déposée et signifiée dans les délais applicables prévus à l’article 44.
+(2) Lorsqu’elle est saisie d’une requête pour l’obtention d’un jugement, la Cour peut :
+a) ordonner l’audition de l’appel;
+b) accueillir l’appel si les faits allégués dans l’avis d’appel donnent à l’appelant le droit d’obtenir les conclusions recherchées;
+c) donner toute autre directive appropriée, y compris une directive portant sur le paiement des frais.
+(3) La présomption visée à l’alinéa (2)b) est une présomption réfutable.
+[18] Avant même que la Cour puisse considérer la possibilité de rendre le jugement pour défaut, l’alinéa 63(2)b) impose deux conditions préalables.
+[19] Premièrement, le premier paragraphe prévoit que la demande ne peut être faite que dans le cas où l’intimée n’a pas déposé sa réponse à l’intérieur du délai prévu à l’article 44 des Règles. Or, si j’accueille la requête de l’intimée en vertu de l’alinéa 44(1)b) des Règles, il ne peut être question de défaut. Je traiterai de la requête de l’intimée après celle de l’appelante.
+[20] Deuxièmement, les faits allégués dans l’avis d’appel doivent donner à l’appelante le droit d’obtenir les conclusions recherchées[2].
+[21] Quand un contribuable appelle d’une cotisation, la question devant cette cour est de savoir si les montants d’impôt, d’intérêts et de pénalités cotisés sont justifiés. Normalement au cours d’un appel l’appelant tente de démontrer par sa preuve que certaines modifications faites à son calcul du revenu par le ministre du Revenu national sont erronées.
+[22] Pour prendre un exemple très simple, si le ministre a recotisé et ajouté un montant de 17 000 $ aux revenus de l’appelant parce qu’il avait conclu qu’un montant particulier de 17 000 $ déposé dans le compte de banque de l’appelant à une date donnée était un revenu de l’entreprise de l’appelant qui n’avait pas été inclus dans les revenus bruts de l’entreprise, l’appelant pourrait, par exemple, démontrer qu’il ne fallait pas ajouter ce montant de 17 000 $ s’il prouve que ce montant de 17 000 $ était un prêt fait par une personne à l’entreprise de l’appelant.
+[23] Donc, dans mon exemple, si cette question de 17 000 $ était la seule question en litige, pour remplir la condition préalable énoncée à l’alinéa 63(2)b) et obtenir un jugement par défaut, il faudrait à la face même de l’avis d’appel alléguer le changement fait par le ministre, soit l’inclusion du revenu additionnel de 17 000 $, et il faudrait également alléguer que ce montant n’était pas revenu parce qu’il s’agissait d’un prêt fait par monsieur X à la compagnie.
+[24] Quand on examine l’avis d’appel ici, on constate diverses allégations quant à ce qui s’est passé entre l’appelante et le ministre du Revenu national. L’avis d’appel n’allègue pas quels changements ont été faits par le ministre et l’avis d’appel n’allègue pas des faits qui, si la Cour présumait qu’ils sont véridiques, pourraient mener à la conclusion que les changements faits par le ministre étaient erronés.
+[25] Le seul paragraphe de l’avis d’appel qui allègue des faits liés à la cotisation qui, selon la preuve qui sera faite à l’audition de l’appel, pourraient éventuellement avoir un impact sur la cotisation est le paragraphe 23 qui dit :
+Notamment, le Contribuable peut démontrer que les sommes questionnées par le fisc sont notamment :
+a. Un don substantiel de la mère du Contribuable dans le cadre d’une Succession suite au décès du père du Contribuable;
+b. Des paiements faits par l’ex-mari du Contribuable comme pension alimentaire pour leur enfant [S.];
+c. Des revenus locatifs pour lesquels des dépenses doivent être considérées et appliquées dans les postes nécessaires;
+d. Le résidu de la vente d’une résidence principale;
+e. Des dons et prêts faits par les enfants majeurs du Contribuable;
+[26] Quand on examine le paragraphe 23, on constate qu’il s’agit d’allégations plutôt générales. Par exemple, il est allégué que l’appelante a reçu un don substantiel de sa mère. L’allégation ne dit pas le montant ni la date; il est donc impossible de savoir l’impact sur la cotisation du ministre même si l’avis d’appel expliquait les changements faits par le ministre au cours de la cotisation.
+[27] Dans le cas particulier, cela est encore plus compliqué puisque l’avis d’appel a été rédigé relativement aux années d’imposition 2005 à 2010 inclusivement tandis que la Cour n’est saisie que des années 2005 à 2007 inclusivement.
+[28] Pour ces raisons, l’appelante n’a pas démontré qu’elle remplit la condition de l’alinéa 63(2)b) et il n’est pas nécessaire que je considère s’il serait par ailleurs approprié d’ordonner un jugement par défaut, après avoir tenu compte de la première condition au paragraphe 63(1) ou de toute autre considération pertinente.
+[29] Je ne peux donc émettre une telle ordonnance.
+Requête pour prorogation de délai pour déposer la réponse à l’avis d’appel [30] L’article 44 des Règles est pertinent à cette requête. Les paragraphes qui nous concernent disent :
+44(1) La réponse à l’avis d’appel doit être déposée au greffe dans les 60 jours suivant la signification de l’avis d’appel, à moins que :
+a) l’appelant ne consente, avant ou après l’expiration de ce délai, au dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci;
+b) la Cour ne permette, sur demande présentée avant ou après l’expiration de ce délai, le dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci.
+(2) Si la réponse n’est pas déposée dans le délai applicable prévu au paragraphe (1), les allégations de fait énoncées dans l’avis d’appel sont réputées vraies aux fins de l’appel.
+[…]
+[31] Dans l’arrêt Canada (Procureur général) c. Hennelly[3], la Cour d’appel fédérale décrit des critères qui doivent être pris en compte en examinant une demande de prorogation de délai. Le juge McDonald dit :
+3 Le critère approprié est de savoir si le demandeur a démontré :
+1. une intention constante de poursuivre sa demande;
+2. que la demande est bien-fondé;
+3. que le défendeur ne subit pas de préjudice en raison du délai; et
+4. qu’il existe une explication raisonnable justifiant le délai.
+4 Pour décider si l’explication du demandeur justifie ou non que soit accordée la prorogation de délai nécessaire, il faut se fonder sur les faits de chaque affaire particulière.
+[32] Je note que la Cour d’appel a également dit aux deux paragraphes suivants de Hennelly :
+5 Nous ne croyons pas que le juge des requêtes ait dit qu’un des critères de l’octroi d’une prorogation est de savoir si oui ou non le consentement a été donné.
+6 Dans la présente affaire, le juge des requêtes a conclu que l’inattention n’était pas une explication suffisante pour justifier le retard de l’appelant.
+[33] L’arrêt Hennelly n’est pas une cause d’impôt, mais les mêmes critères doivent être considérés dans différents contextes où les tribunaux doivent se prononcer sur une demande de prorogation de délai[4].
+[34] Toutefois, il faut garder à l’esprit[5] :
+a) que le but de ces quatre critères est d’aider la Cour « à déterminer si l’octroi d’une prorogation de délai est dans l’intérêt de la justice »,
+b) que les critères ne sont pas exclusifs et
+c) que leur importance relative est variable et qu’il n’est pas forcément nécessaire de répondre aux quatre questions en faveur du requérant.
+[35] Comme l’explique le juge Stratas dans Canada (Procureur général) c. Larkman[6], aux paragraphes 61 et, surtout, 62 :
+61 Les parties s’entendent pour dire que les questions suivantes sont pertinentes lorsqu’il s’agit pour notre Cour d’exercer son pouvoir discrétionnaire pour se prononcer sur une demande de prorogation de délai :
+(1) Le requérant a-t-il manifesté une intention constante de poursuivre sa demande?
+(2) La demande a-t-elle un certain fondement?
+(3) La Couronne a-t-elle subi un préjudice en raison du retard?
+(4) Le requérant a-t-il une explication raisonnable pour justifier le retard?
+[…]
+62 Ces principes orientent la Cour et l’aident à déterminer si l’octroi d’une prorogation de délai est dans l’intérêt de la justice. L’importance de chacun de ces facteurs dépend des circonstances de l’espèce. De plus, il n’est pas nécessaire de répondre aux quatre questions en faveur du requérant. Ainsi, « une explication parfaitement convaincante justifiant le retard peut entraîner une réponse positive même si les arguments appuyant la contestation du jugement paraissent faibles et, de la même façon, une très bonne cause peut contrebalancer une justification du retard moins convaincante » […]. Dans certains cas, surtout dans ceux qui sortent de l’ordinaire, d’autres questions peuvent s’avérer pertinentes. La considération primordiale est celle de savoir si l’octroi d’une prorogation de délai serait dans l’intérêt de la justice […].[7]
+[Je souligne. J’ai également supprimé les références.]
+[36] Il est utile de préciser ce que veut dire « demande » dans le contexte des deux premiers critères : 1. Le requérant a-t-il manifesté une intention constante de poursuivre sa demande? 2. La demande a-t-elle un certain fondement?
+[37] Dans le contexte de l’appel d’une cotisation et dans notre cas ici, la « demande » est la demande de prorogation de l’intimée.
+[38] Par contre, dans d’autres contextes, par exemple une demande de prorogation de délai pour en appeler à la Cour d’appel fédérale, il pourrait s’agir d’une demande de l’appelant ou de l’intimée. De même, selon le contexte, le test de préjudice doit être appliqué pour déterminer si la partie qui s’oppose à la requête de prorogation va subir un préjudice.
+[39] Appliquons ces principes aux faits du présent cas.
+[40] Vu les faits contenus dans la déclaration sous serment de l’intimée, il n’y a aucun doute qu’il y a toujours eu une intention de poursuivre l’appel.
+[41] Il est également très clair à la lecture du projet de réponse à l’avis d’appel qu’il y a un fondement sérieux à l’argumentation de l’intimée.
+[42] L’appelante ne soulève pas de préjudice et, dans les circonstances de ce dossier où il y a eu un délai d’environ 11 mois pour payer le droit de dépôt de la part de l’appelante, j’ai de la difficulté à concevoir qu’il y aurait un effet significatif suite au délai d’environ trois mois avant la demande de prorogation.
+[43] L’intimée satisfait donc aux trois premiers critères.
+[44] En conséquence, les questions clés ici sont :
+1. Le requérant a-t-il une explication raisonnable pour justifier le retard?
+2. Y a-t-il d’autres critères pertinents?
+3. Quel est le poids qu’il faut donner aux différents critères?
+[45] En faisant cette évaluation il faut tenir compte du fait que la « considération primordiale est celle de savoir si l’octroi d’une prorogation de délai serait dans l’intérêt de la justice ».
+[46] Il y a de la jurisprudence, par exemple Hennelly[8], qui ne considère pas l’inattention comme une explication suffisante; toutefois, il faut se souvenir que, comme nous venons de voir, il faut considérer la question globalement et la pondération des facteurs peut varier[9].
+[47] Je note que l’avocate de l’intimée a écrit à l’avocat de l’appelante deux semaines après que le greffe ait transmis l’avis d’appel à l’intimée pour l’informer qu’elle était l’avocate au dossier. Il ne s’agit pas d’une situation où l’avocat de l’appelante n’a reçu aucune communication de la part de l’intimée après que l’avis d’appel a été transmis par le greffe de la Cour à l’intimée.
+[48] Il y a un autre facteur très important qui est l’effet sur le bon déroulement de l’audition de l’appel. Vu que j’ai déjà décidé que l’appelante ne peut obtenir de jugement par défaut, si aucune réponse n’est déposée, le déroulement de l’audition serait beaucoup plus difficile pour les parties et la Cour.
+[49] Il est apparent dans le projet de réponse que la cotisation est basée sur une méthode alternative d’estimation du revenu[10]. Il est également clair à la lecture de l’avis d’appel que le fondement même de l’appel est qu’il faut rectifier les résultats du calcul fait par méthode alternative pour tenir compte de ce qui suit[11] :
+a. Un don substantiel de la mère du Contribuable dans le cadre d’une Succession suite au décès du père du Contribuable;
+b. Des paiements faits par l’ex-mari du Contribuable comme pension alimentaire pour leur enfant [S.];
+c. Des revenus locatifs pour lesquels des dépenses doivent être considérées et appliquées dans les postes nécessaires;
+d. Le résidu de la vente d’une résidence principale;
+e. Des dons et prêts faits par les enfants majeurs du Contribuable;
+[50] Or, cela compliquerait énormément l’audition de l’appel si la réponse proposée n’est pas déposée, car, dans la mesure où ces cinq rectifications alléguées sont prouvées à concurrence de certaines sommes monétaires, leur impact sur les montants d’impôt cotisés ne pourra être calculé en l’absence du calcul fait par méthode alternative qui est le point de départ pour tenir compte de ces rectifications.
+[51] Dans les circonstances particulières ici, accorder la requête pour prorogation de délai ne semble pas avoir d’effet pratique sur l’appelante bien que l’effet est de priver l’appelante du bénéfice de la présomption de la véracité des faits énoncés dans l’avis d’appel en vertu du paragraphe 44(2) des Règles, une présomption réfutable[12].
+[52] Les faits allégués sont aux paragraphes 1 à 23 de l’avis d’appel. Il y a deux raisons pour lesquelles il n’y a pas d’impact ici. Premièrement, les paragraphes 1 à 22 de l’avis d’appel parlent de divers faits qui, même en supposant qu’ils soient tous vrais, n’ont aucune conséquence sur les montants de revenus qu’avait l’appelante pendant les années en question et qui, en conséquence, n’ont aucun impact sur la question devant cette cour[13] : le ministre avait‑il raison de cotiser les montants d’impôt et de pénalités en question, ou ces montants doivent‑ils être réduits ou annulés?
+[53] Deuxièmement, quant aux cinq faits allégués au paragraphe 23 de l’avis d’appel, ils sont certainement pertinents au litige, mais parce qu’ils sont plaidés d’une façon très générale, ils ne sont d’aucune utilité pratique à l’appelante à moins qu’elle prouve les montants précis et les dates où ces montants ont été reçus. Or, la preuve nécessaire pour prouver les détails va nécessairement prouver l’existence de tels montants en général.
+[54] Le résultat est que l’avantage que l’appelante aurait pu avoir en vertu du paragraphe 44(2) des Règles n’existe pas sur le plan pratique.
+[55] Quand on considère tous ces éléments, notamment l’intention de poursuivre l’appel qui a toujours existé, le fondement sérieux de l’argumentation de l’intimée, l’absence de préjudice, le délai de 11 mois de l’appelante avant de payer le droit de dépôt et l’effet de l’absence d’une réponse sur l’audition de l’appel, je suis satisfait que « l’octroi d’une prorogation de délai serait dans l’intérêt de la justice ».
+Conclusion [56] Pour ces motifs :
+1. La requête de l’appelante est rejetée.
+2. La requête de l’intimée est accueillie et la réponse à l’avis d’appel jointe à la requête est réputée avoir été déposée à la date de la présente ordonnance.
+[57] L’article 63 des Règles prévoit également que je peux ordonner l’audition de l’appel et donner toute autre directive appropriée. Dans les circonstances, il est approprié d’ordonner que l’instance procède normalement. Les parties devront, au plus tard 30 jours après la date de la présente ordonnance, convenir d’un échéancier pour compléter les étapes subséquentes et en informer la Cour ou, si elles ne peuvent s’entendre, demander à la Cour de fixer une audience sur l’état de l’instance.
+Signé à Ottawa (Ontario), ce 15e jour de février 2017.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE :
+2017 CCI 27
+Nº DU DOSSIER DE LA COUR :
+2014-3936(IT)G
+INTITULÉ DE LA CAUSE :
+ROSA COBUZZI c. LA REINE
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Gaston Jorré
+DATE DE L’ORDONNANCE :
+Le 15 février 2017
+SIGNATAIRES DES REQUÊTES :
+Avocat de l’appelante :
+Me Claude Lévesque
+Avocat de l’intimée :
+Me Alain Gareau
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Me Claude Lévesque
+Cabinet :
+Levesque Jurisconsult Inc.
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] L’inobservation du paragraphe 21(4) est une irrégularité, mais vu qu’aucune demande n’a été faite relativement à cette irrégularité, il n’est pas nécessaire que je considère à ce stade, entre autres, l’effet des paragraphes 7, 8 et 9 des Règles.
+[2] À ces fins, la Cour doit présumer que les faits allégués sont véridiques.
+[3] [1999] A.C.F. no 846 (QL).
+[4] Par exemple, voir les paragraphes 9 à 12 de la décision de la Cour d’appel fédérale dans Tomas c. Canada, 2007 CAF 86, où il est clair que les considérations de Hennelly sont applicables à l’article 12 des Règles. Un autre exemple est la décision de la juge V.A. Miller dans Nicholls c. Canada, [2011] A.C.I. no 25 (QL), où elle reprend les principes de Hennelly au paragraphe 19.
+[5] Voir le paragraphe suivant.
+[6] 2012 CAF 204.
+[7] Voir aussi, par exemple, les paragraphes 8 et 11 de la décision du juge Gascon dans MacDonald c. Canada (Procureur général), 2017 CF 2.
+L’approche de la Cour d’appel de l’Ontario est comparable à celle de la Cour d’appel fédérale dans Larkman. Dans Mountain View Farms Ltd. v. McQueen, 2014 ONCA 194, la Cour d’appel de l’Ontario examinait une requête en annulation de jugement par défaut. Il est intéressant de lire les critères à considérer qu’elle énumère (aux paragraphes 48 et 49) : 1) Le requérant s’est-il empressé de déposer la présente requête? 2) Existe-t-il une explication raisonnable? 3) Les prétentions de la partie ont-elles un certain fondement? 4) Y a-t-il préjudice à l’autre partie? 5) Quel est l’effet d’une ordonnance que la Cour d’appel pourrait faire sur l’intégrité de l’administration de la justice? Au paragraphe 50, la Cour d’appel de l’Ontario ajoute qu’il ne s’agit pas de critères rigides et qu’elle doit considérer les circonstances particulières de la cause en décidant s’il est juste d’annuler le jugement. Au paragraphe 51, la Cour d’appel de l’Ontario donne comme exemple que, si les prétentions de la partie ont un certain fondement, il se pourrait qu’il soit justifié d’annuler le jugement même si d’autres critères ne sont pas respectés en partie ou en totalité. Les circonstances dans Mountain View sont très exceptionnelles et ne sont pas du tout comparables aux circonstances ici.
+[8] Voir le paragraphe 32 ci-dessus.
+[9] Voir le paragraphe 35 ci-dessus. Je note aussi que plus le délai est court, moins il semble être important; voir Boucher c. M.R.N., 2011 CCI 302, au paragraphe 8, et Carew v. R, [1993] 1 C.T.C. 1, aux paragraphes 4 à 6, tel qu’il est indiqué dans Taxnet Pro et TaxPartner.
+[10] La vérification originale a été faite par le ministre du Revenu du Québec; je ne sais pas s’il y a un autre appel au sujet des mêmes faits devant la Cour du Québec.
+[11] Paragraphe 23 de l’avis d’appel.
+[12] Voir les paragraphes 44(2) et (4) des Règles et le paragraphe 13 de la décision du juge Webb dans Johnson c. Canada, 2015 CAF 52.
+[13] Dans ces paragraphes il s’agit surtout du rôle du comptable qui avait été engagé par l’appelante.

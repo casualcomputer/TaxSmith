@@ -1,0 +1,119 @@
+Title: Abtan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27765/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-482-27765-abtan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-09
+
+# Abtan v. The Queen
+
+- Citation: 2005 TCC 482
+- Decision date: 2005-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 318, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abtan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-09
+Neutral citation
+2005 TCC 482
+File numbers
+2004-3125(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3125(IT)I
+BETWEEN:
+RAPHAËL ROBERT ABTAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 5, 2005 at Toronto, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Anik Jodouin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Toronto, Ontario, this 9th day of August, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2005CCI482
+Date: 20050809
+Docket: 2004-3125(IT)I
+BETWEEN:
+RAPHAËL ROBERT ABTAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This is an appeal from an assessment for the 2001 taxation year. The case proceeded in both French and English and accordingly, under section 20 of the Official Languages Act, the judgment is issued simultaneously in both official languages.
+[2] The narrow issue is whether the appellant, who declared bankruptcy in 1999 and who, in 2001 continued to be an undischarged bankrupt, was entitled to deduct under section 111 of the Income Tax Act in computing his taxable income for 2001 a non-capital loss arising essentially from a terminal loss sustained on the sale of buildings in 2000.
+[3] There was some confusion on the part of the Minister with respect to where the $82,366 came from. The Minister seems to have accepted that the appellant in 2000 sustained a non-capital loss of 50% of $230,000, or $115,000 giving rise to a net non-capital loss after the appellant’s other income of $57,000.
+[4] The witness for the respondent was unable to be specific with respect to whether the $57,000 formed part of the $82,366 claimed in 2001.
+[5] The original reply contained a number of wrong or irrelevant assumptions. However, whatever may be the figures, the respondent’s position is that non‑capital losses from prior years cannot be carried forward to a year in which the taxpayer is an undischarged bankrupt.
+[6] The non‑capital loss which he claimed to carry forward amounted to $82,366 and was declared in his 2001 return. The respondent does not question the amount of the loss but denies its deductibility in 2001 on the basis that during his bankruptcy he was not entitled in computing his taxable income to deduct under section 111 losses sustained in earlier years. He had not received his absolute discharge.
+[7] Subsection 128(2) of the Income Tax Act reads in part as follows:
+128(2) Faillite d’un particulier. Lorsqu’un particulier est en faillite, les règles suivantes s’appliquent :
+[...]
+128(2) Where individual bankrupt. Where an individual has become a bankrupt, the following rules are applicable:
+[...]
+f) malgré l’alinéa e), le particulier doit produire une déclaration distincte de son revenu pour toute année d’imposition durant laquelle il a été en faillite, calculé comme si :
+[...]
+(f) notwithstanding paragraph (e), the individual shall file a separate return of the individual’s income for any taxation year during which the individual was a bankrupt, computed as if
+[...]
+(iii) dans le calcul du revenu imposable du particulier pour l’année, aucun montant n’était déductible en application de l’un des alinéas 110(1)d) à d.3) ou de l’article 110.6 au titre d’un montant inclus dans le revenu en application du sous‑alinéa e)(i), et aucun montant n’était déductible selon l’article 111,
+[...]
+(iii) in computing the individual’s taxable income for the year, no amount were deductible under any of paragraphs 110(1)(d) to (d.3) and section 110.6 in respect of an amount included in income under subparagraph (e)(i), and no amount were deductible under section 111, and
+[...]
+g) malgré les sous-alinéas e)(ii) et (iii) et f)(iii) et (iv), lorsque le particulier obtient sa libération inconditionnelle:
+(g) notwithstanding subparagraphs (e)(ii) and (iii) and (f)(iii) and (iv), where at any time an individual was discharged absolutely from bankruptcy,
+(i) dans le calcul de son revenu imposable pour une année d’imposition se terminant après la libération, aucun montant ne peut être déduit en application de l’article 111 au titre de pertes pour les années d’imposition s’étant terminées avant la libération.
+(i) in computing the individual’s taxable income for any taxation year that ends after that time, no amount shall be deducted under section 111 in respect of losses for taxation years that ended before that time.
+[8] It was clear from Mr. Abtan’s evidence that the amount of $82,366 claimed at line 252 of his 2001 return as “Non‑capital losses of other years” represented the unused portion of a loss sustained by him in 2000.
+[9] Mr. Abtan points to what he considers to be an inconsistency. He was allowed to deduct in 2000 in computing income a portion of the loss that he sustained in that year but was denied the deduction in 2001 in computing taxable income of the unused portion that he seeks to carry forward to 2001 under section 111. The short answer is that, however illogical it may seem, the Income Tax Act permits the deduction in computing income of losses sustained in the year by a bankrupt but does not permit the deduction in computing taxable income under section 111 of losses of previous years. The result is an unfortunate one but the provision of the Act to which I referred are clear.
+[10] The appeal is dismissed.
+Signed at Toronto, Ontario, this 9th day of August, 2005.
+“D.G.H. Bowman”
+Bowman, C.J.
+CITATION:
+2005CCI482
+COURT FILE NO.:
+2004-3125(IT)I
+STYLE OF CAUSE:
+Raphaël Robert Abtan v.
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 5, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT:
+August 9, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anik Jodouin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

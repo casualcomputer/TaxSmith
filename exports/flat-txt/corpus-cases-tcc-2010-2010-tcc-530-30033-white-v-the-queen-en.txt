@@ -1,0 +1,167 @@
+Title: White v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30033/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-530-30033-white-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-22
+
+# White v. The Queen
+
+- Citation: 2010 TCC 530
+- Decision date: 2010-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7687, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-22
+Neutral citation
+2010 TCC 530
+File numbers
+2008-3624(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3624(IT)G
+BETWEEN:
+BRADY WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 6, 2010, at Halifax, Nova Scotia
+Before: The Honourable Justice Diane Campbell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stan McDonald
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004, 2005 and 2006 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of October 2010.
+"Diane Campbell"
+Campbell J.
+Citation: 2010 TCC 530
+Date: October 22, 2010
+Docket: 2008-3624(IT)G
+BETWEEN:
+BRADY WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+[1] On October 29, 2007, the Minister reassessed the Appellant in respect to his 2004 and 2005 taxation years by including income from his business in each of these taxation years. The amounts of additional income were reduced by a further Notice of Reassessment on June 19, 2008. Although no Notice of Reassessment has been issued for the Appellant’s 2006 taxation year, that year has been included in the Notice of Appeal as one of the years being appealed to this Court. During the hearing, the Appellant acknowledged that he received no reassessment and that no adjustments to his reported income had been made for this taxation year. Consequently, since there are no grounds for appeal in respect to the 2006 taxation year, the appeal is dismissed with respect to this year. The taxation years, 2004 and 2005, are validly before me.
+[2] The Appellant is the sole proprietor of a dental practice located in Eastern Passage, Nova Scotia. His practice is conducted from rented premises described by Bill Chappell, the real estate appraiser for the Canada Revenue Agency (the “CRA”), as a single family dwelling. The Appellant also has his primary and only residence located at this premises. During 2004 and 2005, the Appellant, who is divorced, had his two sons reside with him periodically on weekends and holidays.
+[3] Subsequent to his divorce and unable to borrow money, he had a friend purchase this property and, in April 2003, they entered into a written lease agreement whereby the Appellant would lease the property and pay rent of $1,800 monthly, commencing July 1, 2003, for a five year period. The second floor of the one-and-a-half wood frame structure was used solely for his personal use in 2004 and 2005, and contained two bedrooms, one of which was accessed through the other bedroom. Two rooms on the lower floor, referred to as the “operatory” and “lab”, were used exclusively for the dental practice. The remaining portions of the house consisted of a kitchen, bathroom, reception/living room and basement. These areas were used for both personal and business, although the Appellant’s evidence was that he was always working and they were primarily used for business. The Appellant estimated his business use of the premises at 80 per cent.
+[4] The initial audit allowed 31 per cent of the property as business use relating to the dental practice. The appeals officer increased the portion dedicated to business use from 31 per cent to 69 per cent, although this was the Appellant’s only place of residence.
+[5] Although there were a number of expenses referenced in the pleadings, during the hearing the Appellant acknowledged that the primary issue was how the CRA treated the rental amounts he paid pursuant to the lease agreement. The parties agreed that the only other issue before me was the salaries paid to his two sons during periods when they visited him.
+[6] The rental issue arose largely as a result of the decision of the CRA to apply the 69 per cent business use to the fair market rental value (the “FMV”) of the property in 2004 and 2005, as determined by a market rental report completed by Bill Chappell, rather than applying the 69 per cent to the monthly amount of $1,800 paid by the Appellant. It was estimated that the retrospective FMV of the property in 2004 and 2005 would be $900 monthly, and not the $1,800 that the Appellant paid monthly according to his lease.
+[7] Mr. Chappell relied on the Fourth Edition of Real Estate Appraisal (The Appraisal Institute, Chicago, 2002), which defined “market rent” as follows:
+The most probable rent that a property should bring in a competitive and open market reflecting all conditions and restrictions of the specified lease agreement including term, rental adjustment and revaluation, permitted uses, use restrictions, and expense obligations; the lessee and lessor each acting prudently and knowledgeably and assuming consummation of a lease contract as of a specified date and the passing of a leasehold from lessor to lessee under conditions whereby:
+· lessee and lessor are typically motivated.
+· both parties are well informed or well advised and acting in what they consider their best interests.
+· a reasonable time is allowed for exposure in the open market.
+· the rent payment is made in terms of cash in dollars and is expressed as an amount per time period consistent with the payment schedule of the lease contract.
+· the rental amount represents the normal consideration for the property leased unaffected by special fees or concessions granted by anyone associated with the transaction.
+Mr. Chappell completed the market rental report in 2007. Since the CRA maintains no database for residential rental rates, he compared, among other things, rents of duplexes and single family dwellings by using local newspaper rental advertisements in 2007. Most of those properties used in the analysis contained three bedrooms, while the Appellant’s leased premises contained only two bedrooms. Mr. Chappell’s report tabulated the results of the rental data and indicated a monthly rental range of $750 to $1,300. However, because of the smaller size of the subject premises, he estimated market rent to be in the range of $750 to $975 monthly in 2004 and 2005 and settled on an amount of $900 monthly.
+[8] In addition, Mr. Chappell looked at commercial rental rates in the area. He did so because the Appellant’s position is that this property is a commercial property where he happens to reside and not, as the CRA had concluded, a residence with a portion used for his business. According to Mr. Chappell’s evidence, while residential rates typically reflect the rental amount for an entire dwelling, commercial rates generally differentiate between ground floor space and basement areas as well as upper floors. The commercial rate is also usually expressed as a rental rate per square foot of leaseable area per year. From a commercial perspective, Mr. Chappell prorated the rent for this property, and in considering the main, second and basement floors of the Appellant’s premises, applied a 100 per cent rate to the square footage of the ground floor, a 50 per cent rate to the square footage of the second floor and a 25 per cent rate to the square footage of the basement. The following table, reproduced from page 16 of the report, illustrates this breakdown:
+Area Allocation
+Floor
+Area
+Ratio
+Equivalent Area
+Ground Floor
+732.21 ft.2
+x
+100%
+=
+732.21 ft.2
+Second Floor
+212.16 ft.2
+x
+50%
+=
+106.08 ft.2
+Basement
+424.00 ft.2
+x
+25%
+=
+106.00 ft.2
+Total
+1,368.37 ft.2
+944.29 ft.2
+[9] Using the total equivalent area of 944.29 square feet, Mr. Chappell stated that the 100 per cent rental rate would equate to a yearly rent of $11.44 per square foot ($10,800 ÷ 944.29 ft.2), which he rounded to $11.50 per square foot. Mr. Chappell applied this figure to the Appellant’s property and the results were reproduced in a second table at page 17 of the report:
+Rental Allocation
+Floor
+Area
+100% Rate
+Ratio
+Rent/Floor
+Ground Floor
+732.21 ft.2 x
+$ 11.50 /ft.2
+x
+100%
+=
+8,420.42
+Second Floor
+212.16 ft.2 x
+$ 11.50 /ft.2
+x
+50%
+=
+1,219.92
+Basement
+424.00 ft.2 x
+$ 11.50 /ft.2
+x
+25%
+=
+1,219.00
+Total
+1,368.37 ft.2
+10,859.34
+[10] Mr. Chappell reviewed commercial rents for five premises within the area of the subject property and concluded that the commercial data indicated a range of rental rates from $9.00 per square foot per annum to $14.00 per square foot per annum. Mr. Chappell concluded, at page 18 of his report that,
+… when represented on a “per ft.2” basis, the estimated residential monthly rental of $900 at the subject property indicates a ground floor rental of $11.50/ft.2 per annum which is within the range of commercial rents noted …
+[11] Mr. Chappell testified that reviewing and comparing the subject property to commercial premises, in light of the fact that he believed it to be a residence, was done to provide another perspective, particularly since the Appellant argued that it was not a residential property. In any event, the results indicate that the residential rate assigned by the appraiser would be similar to the commercial rate.
+[12] The only document that legally identified the Appellant’s relationship to the subject property in 2004 and 2005 was the lease agreement (Exhibit A-1, Tab 1). This document refers to the premises as a “1.5 storey single family dwelling”. The form itself is a standard residential leasing document pursuant to the Residential Tenancies Act for Nova Scotia. It contains no reference to the property being a commercial premises. The tenant is identified as Dr. Brady C. White, with other occupants being his sons. The rental is referred to as a global monthly amount and is not identified as a square footage amount as the majority of commercial leases would.
+[13] The Appellant testified that, in addition to the financial benefits, one of the primary reasons he relocated his dental practice to this premises was to take advantage of the ocean view. Although he indicated that this view provided a beneficial environment to his clientele, presumably in helping them relax while dental work was being completed, he did not adduce any evidence to support his position that the view added to his profit. He admitted he did not advertise for patients and I have no evidence before me that either indicates that his rental amount was higher because of the ocean view or that this view increased his patient volume and, consequently, his profit. In fact, it appeared from the Appellant’s evidence that, unrelated to his dental practice, one of the reasons that drew him to the property was the serenity that the ocean view provided to him personally. Although the water view may have some positive effect on the eventual selling price of this property for the owner, there was no evidence to suggest that it had any effect on either the market rental rate or on the profit margin of the dental practice.
+[14] According to the evidence and the appraiser’s report, the property is zoned C-2, which allows for residential use interspersed with small-scale commercial uses. The Appellant views the property as commercial because the dental practice permeates his entire life. As he stated in his Notice of Appeal, “I do not work at home, I live at the office”. However, in 2004 and 2005, it was where he resided and where his sons spent visitation time with him. The diagrams of the inside of the property, provided in Exhibit A-1, indicate a structural layout and style that appears at first blush to be a residential building. The location and zoning also support this conclusion. In much of the dwelling, the personal and business uses are co‑mingled. Apart from the analysis contained in the appraisal report and its conclusion, the Appellant did not provide any evidence to dispute either the 69 per cent assigned to business use by the CRA or the fair market rent of $900 monthly. I was not provided dimensions for each room to enable me to alter the assigned 69 per cent and the Appellant did not provide evidence to dispute the report’s conclusion, except to state that the $1,800 monthly rent was based on rents he had paid previously for premises from which he operated his dental practice. Since the Appellant has not established evidence which would meet the burden of proof, I must conclude that the fair market rent for the property is $900 per month and that the business use of the property was correctly assessed at 69 per cent.
+[15] With respect to the second issue, the salaries paid to his sons, the Appellant claimed business expenses of $1,100 for the salaries in each of the 2004 and 2005 taxation years. The Appellant was allowed $550 as a reasonable salary expense in each taxation year. The Appellant testified that he paid his sons, aged 12 and 15 in those taxation years, for booking appointments, transferring business information to the computer, yard work and snow removal. Other than this general information, I was not provided with any specifics which would permit me to alter the amount that the CRA concluded would be reasonable under the circumstances.
+[16] The Respondent pointed out that the within appeals were inadvertently filed as Class B when, in fact, they should have been recorded as Class A appeals.
+[17] The appeals are therefore dismissed, with costs.
+Signed at Ottawa, Canada, this 22nd day of October 2010.
+"Diane Campbell"
+Campbell J.
+CITATION: 2010 TCC 530
+COURT FILE NO.: 2008-3624(IT)G
+STYLE OF CAUSE: BRADY WHITE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: October 6, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: October 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stan McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

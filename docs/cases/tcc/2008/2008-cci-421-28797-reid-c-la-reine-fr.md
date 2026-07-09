@@ -1,0 +1,188 @@
+---
+title: "Reid c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28797/index.do"
+last_modified: "2008-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 421"
+citation2: ""
+neutral_citation: "2008 CCI 421"
+decision_date: "2008-07-30"
+language: "fr"
+item_id: "28797"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1517
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:32:23.551000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2d42871972ddceb851c7c4e05e953761a3fdbf28374c9d67c562fd642e68831f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reid c. La Reine
+
+- Citation: 2008 CCI 421
+- Decision date: 2008-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1517, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reid c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-30
+Référence neutre
+2008 CCI 421
+Numéro de dossier
+2007-4573(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4573(IT)I
+ENTRE :
+MICHAEL J. REID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 2 mai 2008, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alexandra Humphrey
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2006 est admis en partie. La cotisation visant l’appelant est modifiée conformément aux motifs du jugement. L’appelant a droit à des dépens fixés à 800 $, comprenant les droits de dépôt.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 22e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+Référence : 2008 CCI 421
+Date : 20080730
+Dossier : 2007-4573(IT)I
+ENTRE :
+MICHAEL J. REID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Monsieur Reid a eu soixante ans en mai 2006 et il a peu après commencé à recevoir des prestations dans le cadre du Régime de pensions du Canada (le « RPC »). Le présent appel intéresse le traitement fiscal des cotisations de retraite par rapport au revenu d’un travail indépendant gagné pendant l’année où le cotisant atteint l’âge ouvrant droit à pension.
+[2] Le soixantième anniversaire de naissance de M. Reid tombait le 17 mai 2006. En 2006, il n’a gagné aucun revenu devant faire l’objet de cotisations au titre du RPC avant son anniversaire. Il a toutefois gagné un revenu d’un travail indépendant pendant la deuxième moitié de l’année, soit après avoir eu soixante ans et après avoir commencé à recevoir ses chèques de prestations du RPC. M. Reid a présenté une demande de prestations du RPC avant son anniversaire et il a reçu son premier chèque de pension en juin. Malgré l’absence d’un élément de preuve direct établissant la date à laquelle on a fait droit à sa demande de prestations du RPC, je conclus qu’il est plus probable que le contraire que sa demande a été approuvée avant juin, puisqu’il a reçu son premier chèque ce mois‑là.
+I. Les dispositions législatives applicables
+[3] La section B de la partie I du RPC porte sur le calcul des cotisations. Les parties pertinentes des articles 12 et 13 du RPC, lesquelles visent respectivement les traitement et salaire ainsi que les gains provenant du travail qu’une personne exécute pour son propre compte, sont reproduites ci‑dessous :
+Montant des traitement et salaire cotisables
+12(1) Le montant des traitement et salaire cotisables d’une personne pour une année est le revenu qu’elle retire pour l’année d’un emploi ouvrant droit à pension, calculé en conformité avec la Loi de l’impôt sur le revenu (compte non tenu du paragraphe 7(8) de cette loi), plus les déductions pour l’année, faites en calculant ce revenu autrement que selon les dispositions de l’alinéa 8(1)c) de cette loi, mais ne comprend aucun revenu de cette nature reçu par cette personne :
+a) soit avant qu’elle atteigne l’âge de dix-huit ans;
+b) soit au cours de tout mois qui, en raison d’une invalidité, n’est pas inclus dans la période cotisable de cette personne conformément à la présente loi ou à un régime provincial de pensions;
+c) soit après avoir atteint l’âge de soixante-dix ans ou après qu’une pension de retraite lui soit devenue payable en vertu de la présente loi ou selon un régime provincial de pensions.
+Montant des gains cotisables des travailleurs autonomes
+13(1) Le montant des gains cotisables provenant du travail qu’une personne exécute pour son propre compte, pour une année, est le montant de ses gains provenant du travail qu’elle exécute pour son propre compte pour l’année sauf que, à l’égard d’une année au cours de laquelle elle atteint l’âge de dix-huit ou de soixante-dix ans, ou au cours de laquelle une pension de retraite lui devient payable en application de la présente loi ou selon un régime provincial de pensions, ou au cours de laquelle sa période cotisable prend fin en raison d’une invalidité aux termes de la présente loi ou selon un régime provincial de pensions, ou encore au cours de laquelle une pension d’invalidité cesse de lui être payable en vertu de la présente loi ou selon un régime provincial de pensions, le montant de ses gains cotisables provenant du travail qu’elle exécute pour son propre compte est un montant égal à la proportion du montant, pour l’année, de ses gains provenant d’un tel travail que représente, par rapport à douze, le nombre de mois dans l’année, qui, selon le cas :
+a) suivent :
+(i) soit le moment où elle atteint l’âge de dix-huit ans,
+(ii) soit le moment où cette pension d’invalidité cesse de lui être payable;
+b) précèdent :
+(i) soit le moment où elle atteint l’âge de soixante-dix ans,
+(ii) soit le moment où cette pension de retraite lui devient payable,
+(iii) soit le mois suivant le mois au cours duquel sa période cotisable prend fin conformément à la présente loi ou à un régime provincial de pensions en raison d’une invalidité.
+(2) Sous réserve du paragraphe (1), les gains cotisables d’une personne provenant du travail qu’elle exécute pour son propre compte ne comprennent pas les gains à l’égard de toute période décrite à l’alinéa 12(1)a), b) ou c).
+Amount of contributory salary and wages
+12(1) The amount of the contributory salary and wages of a person for a year is the person's income for the year from pensionable employment, computed in accordance with the Income Tax Act (read without reference to subsection 7(8) of that Act), plus any deductions for the year made in computing that income otherwise than under paragraph 8(1)(c) of that Act, but does not include any such income received by the person
+(a) before he reaches eighteen years of age;
+(b) during any month that is excluded from that person’s contributory period under this Act or under a provincial pension plan by reason of disability; or
+(c) after he reaches seventy years of age or after a retirement pension becomes payable to him under this Act or under a provincial pension plan.
+Amount of contributory self-employed earnings
+13(1) The amount of the contributory self-employed earnings of a person for a year is the amount of his self-employed earnings for the year except that, for a year in which he reaches eighteen or seventy years of age, in which a retirement pension becomes payable to him under this Act or under a provincial pension plan, in which his contributory period ends under this Act or under a provincial pension plan by reason of disability or in which a disability pension ceases to be payable to him under this Act or under a provincial pension plan, the amount of his contributory self-employed earnings is an amount equal to that proportion of the amount of his self-employed earnings for the year that the number of months in the year
+(a) after
+(i) he reaches eighteen years of age, or
+(ii) the disability pension ceases to be payable, or
+(b) before
+(i) he reaches seventy years of age,
+(ii) the retirement pension becomes payable, or
+(iii) the month following the month in which his contributory period ends under this Act or under a provincial pension plan by reason of disability,
+is of twelve.
+(2) Subject to subsection (1), the contributory self-employed earnings of a person do not include earnings with respect to any period described in paragraph 12(1)(a), (b) or (c).
+[4] La section A de la partie II du RPC touche les cotisations payables. La partie pertinente de l’article 44 est ainsi rédigée :
+Prestations payables
+44(1) Sous réserve des autres dispositions de la présente partie :
+a) une pension de retraite doit être payée à un cotisant qui a atteint l’âge de soixante ans;
+Benefits payable
+44(1) Subject to this Part,
+(a) a retirement pension shall be paid to a contributor who has reached sixty years of age;
+II. Analyse
+[5] En règle générale, dans le cadre du RPC, lorsqu’une personne commence à recevoir des prestations, elle n’a plus à verser de cotisations à ce régime sur les gains qu’elle tire d’un emploi (article 12) ou d’un travail qu’elle exécute pour son propre compte (article 13).
+[6] Toutefois, dans le cas d’un revenu tiré du travail qu’une personne exécute pour son propre compte, la règle générale énoncée au paragraphe 13(2) est expressément assujettie aux dispositions du paragraphe 13(1). Ce paragraphe prévoit une méthode de calcul précise pour répartir le revenu dans l’année où une personne commence à recevoir des prestations du RPC, entre (i) la période antérieure à son anniversaire de naissance, laquelle doit faire l’objet de cotisations au RPC, et (ii) la période postérieure à son anniversaire de naissance, laquelle n’est pas assujettie à cette obligation. Cette règle ne tient pas compte du moment de l’année où les sommes ont réellement été gagnées. On présume plutôt que le revenu a été gagné également pendant toute l’année. La règle énonce expressément que le montant des gains provenant du travail qu’une personne exécute pour son propre compte et devant faire l’objet de cotisations au RPC pendant cette année de transition est égal à la proportion du montant, pour l’année, de ses gains provenant d’un tel travail que représente, par rapport à douze, le nombre de mois dans l’année qui précèdent le moment où cette pension de retraite lui devient payable. La façon dont le mois dans lequel la pension devient payable est traité à cette fin et la question de savoir si ce mois est celui de l’anniversaire de naissance ou celui de la réception du premier chèque de pension sont examinées plus loin dans les présents motifs.
+[7] Monsieur Reid avance que, comme la totalité de ses gains provenant du travail qu’il a exécuté pour son propre compte en 2006 a été gagnée après son anniversaire et après la réception de son premier chèque du RPC, aucune cotisation au RPC ne devrait être payable au titre de ces gains. L’Agence du revenu du Canada (l’« ARC ») s’est apparemment fondée sur la méthode transitoire de calcul et de répartition prévue au paragraphe 13(1) pour établir à son égard une cotisation d’environ 600 $ au titre du RPC relativement à ce revenu. M. Reid soutient que sa thèse est étayée par la correspondance et les publications de l’ARC, laquelle perçoit les cotisations au RPC, et par Développement des ressources humaines Canada (« DRHC »), lequel applique le RPC.
+[8] À l’appui de sa thèse, M. Reid fait valoir que son avis de cotisation relatif à 2006 porte la mention suivante : [TRADUCTION] « Vous n’êtes pas tenu de verser des cotisations au RPC pour les périodes où vous avez reçu des prestations au titre d’un régime de retraite du Canada ou du Québec ou des prestations d’invalidité ».
+[9] Monsieur Reid s’appuie également sur deux lettres que lui a adressées DRHC et qui font notamment état de ce qui suit :
+[TRADUCTION]
+Impossibilité de cotiser
+Il vous est impossible de continuer à cotiser au RPC à partir du mois où commence votre pension de retraite. Si vous commencez à travailler ou si vous devenez travailleur indépendant pendant que vous recevez votre pension, vous pouvez utiliser la présente lettre pour faire savoir à votre employeur ou à l’ARC que vous n’êtes plus tenu de cotiser au RPC.
+[10] Dans le site Web de DRHC, à la rubrique « Foire aux questions », on peut lire :
+Suis-je obligé de cotiser au Régime de pensions du Canada?
+Vous ne cotisez pas au Régime si vous recevez une pension de retraite ou des prestations d’invalidité du Régime de pensions du Canada. Vous cessez de cotiser à 70 ans, même si vous travaillez toujours et que vous n’avez pas commencé à recevoir votre pension de retraite.
+[11] Monsieur Reid allègue qu’outre les lettres de DRHC, plusieurs fonctionnaires de ce ministère, lors de discussions avec lui, ont confirmé l’exactitude de sa thèse.
+[12] On comprend fort bien M. Reid d’avancer cette thèse, puisque les lettres qu’il a reçues de DRHC mentionnent explicitement que le revenu gagné après le mois où débute sa pension de retraite n’est pas assujetti aux cotisations au RPC. Le passage en question fait expressément état d’un revenu tiré d’un travail indépendant. De plus, la lettre incite M. Reid à utiliser ce document pour informer l’ARC qu’il n’est pas tenu de cotiser au RPC. C’est exactement ce qu’il a fait.
+[13] Malheureusement pour M. Reid – et malgré ma compassion pour la situation dans laquelle il s’est retrouvé par suite du libellé plutôt équivoque de la cotisation établie par l’ARC et des renseignements tout simplement inexacts fournis par DRHC –, la législation relative au Régime de pensions du Canada prévoit clairement que la méthode de calcul et de répartition applicable à l’année de transition à la retraite s’applique peu importe le fait que le revenu du cotisant n’a pas été gagné également pendant toute l’année et que la totalité du revenu tiré d’un travail indépendant pendant cette année‑là a été gagné après que le cotisant eut commencé à recevoir des prestations du RPC. À l’instar du RPC, la législation fiscale et la législation en semblables matières doivent pouvoir recourir à des méthodes aussi « rigoureuses » qui permettent, dans la plupart des cas, d’atteindre équitablement leur objet de manière réaliste et gérable, même s’il peut arriver qu’elles ne soient pas parfaitement équitables dans chaque situation particulière.
+[14] Je suis tenu d’appliquer la loi conformément à la façon dont elle a été rédigée par le législateur et, si le texte législatif est clair, sans tenir compte des renseignements que les fonctionnaires du gouvernement ont pu donner au cotisant sur l’interprétation de la loi. Ni les renseignements antérieurs erronés ni les thèses inexactes n’empêchent la Couronne de souhaiter que la Cour applique la loi de façon appropriée, pas plus qu’ils ne permettent à la Cour de déroger à la loi.
+[15] J’arrive à la conclusion que le revenu provenant du travail que M. Reid a exécuté pour son propre compte en 2006 doit faire l’objet de cotisations dans le cadre du RPC conformément au paragraphe 13(1). Je dois maintenant me demander si le ministre a régulièrement appliqué cette disposition lorsqu’il a établi une cotisation relative à la somme en cause à l’égard de M. Reid. Cependant, avant d’examiner ce point, je souhaite présenter des excuses à M. Reid pour la malencontreuse situation dans laquelle il s’est retrouvé en ce qui touche le premier point en litige. Manifestement, la seule raison pour laquelle ce point a été soumis à la Cour tient au fait que deux ministères étaient concernés. La première phrase du passage que l’ARC formule en des termes fort mal choisis et qui paraît être employée à chaque fois qu’un Canadien commence à recevoir des prestations du RPC est erronée. En réalité, l’ARC n’a d’ailleurs pas suivi cette règle lorsqu’elle a établi une cotisation à l’égard de M. Reid relativement à la première année où il a commencé à toucher des prestations du RPC. Il ressort sans équivoque du paragraphe qui est tiré des lettres adressées par DRHC à M. Reid et qui est reproduit plus haut, lequel paraît aussi servir de formule habituelle, que DRHC est tout simplement dans l’erreur et qu’il ajoute au problème en disant aux gens d’utiliser ce document pour informer l’ARC qu’ils ne sont pas tenus de payer des cotisations au RPC dans la situation précise dont je suis saisi. Ce n’est pas M. Reid qui est à l’origine du problème. La faute retombe sur l’ARC et DRHC. J’espérais qu’on me dirait que, dans l’intervalle précédant l’audition de la présente affaire, l’ARC en avait profité pour corriger le libellé de son texte, pour signaler à DRHC et convaincre ce dernier que sa position était erronée et que DRHC avait modifié en conséquence les renseignements figurant sur son site Web.
+[16] Le deuxième point en litige, à savoir si l’ARC a régulièrement appliqué le paragraphe 13(1), est soulevée parce que les termes employés ne permettent pas eux‑mêmes de déterminer comment il convient de traiter le mois dans lequel la pension devient pour la première fois payable. En l’espèce, l’ARC a inclus le mois de mai dans « le nombre de mois dans l’année, qui […] précèdent […] le moment où [la] pension de retraite […] devient payable ».
+[17] La question du manque de clarté des termes employés pour préciser la façon dont il convient de traiter le mois de transition lui‑même est expressément réglée par la Loi d’interprétation. En effet, l’article 28 de ce texte législatif dispose que, si un délai est exprimé en nombre de mois précédant ou suivant un jour déterminé, le nombre de mois se calcule, dans un sens ou dans l’autre, exclusion faite du mois où tombe le jour déterminé. Cette règle n’a pas été mentionnée au moment du débat. De toute évidence, ce passage s’applique lorsque des personnes commencent à recevoir des prestations du RPC. (Le paragraphe 2(2) du RPC comporte des dispositions analogues, mais elles traitent uniquement du cas où une personne atteint un âge donné et ne s’appliquent donc pas en l’espèce.)
+[18] La Couronne a signalé que, quoi qu’il en soit, le sous‑alinéa 13(1)b)(ii) renvoie au moment où la pension devient « payable » et elle a fait valoir que la pension de M. Reid était devenue payable en juin, soit le mois suivant son soixantième anniversaire de naissance. Elle avance en outre que, même si le titre de la section pertinente et la note marginale du paragraphe 44(1) font mention de « prestations payables », la disposition prévoit quand la pension doit être « payée ». Je ne puis adhérer à l’argument de la Couronne sur ce point. Contrairement à la Loi de l’impôt sur le revenu, le RPC ne fait pas de distinction claire ou précise entre les termes « payé » et « payable ». Cela est mis en lumière par les observations écrites que la Couronne a présentées à l’appui de cet argument. Examiner la situation au‑delà de l’article 44 exigerait une analyse d’autres dispositions qui ne cadrent pas davantage avec l’article 13 et, de toute façon, conduirait au même résultat.
+[19] Les gains cotisables provenant du travail que M. Reid a exécuté pour son propre compte en 2006 correspondent aux quatre douzièmes du revenu tiré de ce travail en 2006, et non aux cinq douzièmes de ce revenu. La cotisation relative à M. Reid sera donc modifiée en conséquence.
+[20] Dans les circonstances, même si M. Reid n’a pas entièrement obtenu gain de cause, je lui adjuge des dépens de 800 $ comprenant une somme de 100 $ au titre des droits de dépôt.
+[21] L’avocate de la Couronne a suggéré spontanément qu’il puisse s’agir d’un cas susceptible de faire l’objet d’une exemption d’intérêts aux termes des dispositions dites d’équité. J’aurais pensé qu’il était également indiqué en l’espèce d’à tout le moins envisager une remise des cotisations en cause versées au titre du RPC. Manifestement, la législation applicable a donné lieu à un résultat non voulu dans le cas particulier de M. Reid puisque la totalité du revenu provenant du travail qu’il a exercé pour son propre compte a été gagné après qu’il a eu soixante ans et qu’il a commencé à toucher des prestations du RPC. En outre, la thèse avancée par M. Reid, même si elle n’est pas fondée en droit, est étayée à la fois par la correspondance échangée avec l’ARC et celle échangée avec DRHC. Je suis franchement étonné que les ministères concernés aient laissé la présente affaire se rendre devant le tribunal. Je n’ai aucune compétence pour me prononcer sur les aspects relatifs aux dispositions d’équité ou à une remise, et je laisse donc l’examen de ces questions à ceux dont elles relèvent.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 22e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008 CCI 421
+DOSSIER DE LA COUR : 2007-4573(IT)I
+INTITULÉ DE LA CAUSE : Michael J. Reid c. Sa Majesté
+la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 2 mai 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 30 juillet 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Alexandra Humphrey
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : L’appelant lui-même
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

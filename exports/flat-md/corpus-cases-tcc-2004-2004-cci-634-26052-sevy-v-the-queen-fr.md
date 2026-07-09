@@ -1,0 +1,180 @@
+---
+title: "Sevy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26052/index.do"
+last_modified: "2004-09-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 634"
+citation2: ""
+neutral_citation: "2004 CCI 634"
+decision_date: "2004-09-20"
+language: "fr"
+item_id: "26052"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4078
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:01:51.920000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4fb2f53d18e7c11fd6204dc33c75e31c2cb3eb3c2566cedc0871a2f539bcf645"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sevy v. The Queen
+
+- Citation: 2004 CCI 634
+- Decision date: 2004-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4078, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sevy v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-20
+Référence neutre
+2004 CCI 634
+Numéro de dossier
+2002-3097(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002 -3097(IT)G
+ENTRE :
+JOY O'NEILL SEVY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Kelowna (Colombie -Britannique), le 12 août 2004.
+Devant : L'honorable Campbell J. Miller
+Comparutions :
+Avocate de l'appelant :
+Me Leslie J. Mackoff
+Avocate de l'intimée :
+Me Kristy Foreman Gear
+JUGEMENT
+L'appel d'une cotisation fiscale établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1993 est admis avec dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que la propriété de Penticton est un « bien agricole admissible » au sens du paragraphe 110.6(1) de la Loi.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI634
+Date : 20040921
+Dossier : 2002 -3097(IT)G
+ENTRE :
+JOY O'NEILL SEVY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] En 1993, M. Joy Sevy a vendu une parcelle de terre de 13,6 acres près de Penticton (Colombie-Britannique) pour la somme de 600 000 $. Le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de M. Sevy en se fondant sur le fait que M. Sevy avait réalisé un gain en capital de 513 584 $, dont les trois quarts étaient imposables. M. Sevy affirme que ce gain résulte de la disposition d'un « bien agricole admissible » et qu'il peut donc faire l'objet d'une déduction conformément à l'article 110.6 de la Loi de l'impôt sur le revenu (la « Loi » ). Je suis d'accord avec M. Sevy.
+[2] En 1962, M. Sevy a quitté les États-Unis pour aller s'installer en Colombie-Britannique. Il voulait exploiter un ranch. Il a acquis 680 acres dans le Sud de la Colombie-Britannique, plus précisément dans la région éloignée de la vallée de Kettle River. Il a loué une autre terre d'une superficie de 500 acres et il a en même temps acquis 34 vaches allaitantes. Il avait l'intention de faire l'élevage de bestiaux. Il a fait face à de gros problèmes : absence d'électricité et d'eau courante, quatre jeunes enfants et une route en mauvais état lorsqu'il s'agissait d'amener le bétail au marché. Il a déclaré qu'il lui fallait 140 têtes de bétail pour que l'entreprise soit viable. En 1965, son troupeau comptait 80 têtes de bétail.
+[3] Pendant les années 1962 à 1965, M. Sevy a clôturé la propriété; il a hersé une partie de la terre; il a fait pousser du foin et l'a récolté; il a acquis de la machinerie qu'il entretenait lui-même et il a élevé des bestiaux. Étant donné qu'il ne pouvait pas vendre tous les veaux puisqu'il devait les conserver pour augmenter la taille du cheptel, il a conclu qu'il ne pouvait pas joindre les deux bouts à ces étapes initiales.
+[4] En 1965, M. Sevy s'est installé à Penticton pour vendre de l'assurance-vie. Il a continué à faire en sorte que les champs de la ferme soient labourés et cultivés, que les clôtures soient installées, que la machinerie soit réparée et que l'on s'occupe du bétail. De plus, en 1965, M. Sevy a rencontré M. Atwood. Ensemble ils ont assisté à un séminaire agricole à Kamloops (Colombie-Britannique); ils ont alors entendu dire que le gouvernement de la Colombie-Britannique encourageait la promotion de l'industrie de l'élevage de bestiaux, parallèlement avec ce que M. Sevy a appelé l'ensilage de maïs. Cela étant, et compte tenu des difficultés auxquelles il faisait face lorsqu'il s'agissait de transporter les bestiaux à plus de 100 milles pour la vente aux enchères ainsi que de l'effet dévastateur que le transport avait pour les bestiaux, M. Sevy a conçu un projet. S'il pouvait nourrir ses animaux dans un climat plus doux pour les engraisser, dans une région où le maïs et la pâture étaient accessibles, et près du marché aux enchères, son ranch pourrait devenir une entreprise beaucoup plus viable. M. Sevy croyait également que l'aménagement d'un parc d'engraissement près de Penticton amènerait d'autres éleveurs à nourrir leurs animaux à cet endroit. Tout coûterait moins cher pour son entreprise d'élevage.
+[5] En 1965, conformément au projet, M. Sevy et M. Atwood ont acquis 42 acres près de Penticton (la propriété de Penticton) afin de mener le projet à bonne fin. L'appel porte sur une partie de la propriété de Penticton.
+[6] M. Sevy a immédiatement clôturé la propriété de Penticton. Il a également continué à chercher une terre, à proximité, en vue de cultiver du maïs. Il a étudié d'autres parcs d'engraissement et il a conclu qu'il avait besoin de 150 000 à 200 000 $ afin de créer le parc. Il a entrepris de chercher du financement.
+[7] En 1966, M. Sevy a apporté son tracteur jusqu'à la propriété de Penticton afin de herser la terre et d'enlever les roches. Il a semé de l'herbe. À l'automne 1966 et en 1967, il a en fait laissé une partie de ses bestiaux à Penticton pendant quelques jours. En vue d'aider au financement, M. Sevy a vendu le tiers de la propriété de Penticton pour la somme de 3 000 $ en 1966. Il n'a pas eu de chance auprès des banquiers, des investisseurs privés et des fournisseurs d'aliments pour animaux dans sa recherche continue d'investisseurs.
+[8] M. Sevy a témoigné qu'il poursuivait toujours le projet relatif au parc d'engraissement, étant donné qu'il croyait que c'était la seule façon dont son ranch pourrait prospérer. Il a continué à avoir cette intention jusqu'en 1973, lorsqu'il s'est mis à s'occuper de la vente d'immeubles, une entreprise qui lui plaisait et dans laquelle il réussissait.
+[9] En 1967, M. Sevy a conclu une entente avec un club d'équitation à Penticton; le club pouvait utiliser la propriété de Penticton pour y garder les chevaux et pour des randonnées à cheval; en échange, le club devait payer les impôts et aider à réparer les clôtures. Cette année-là, M. Sevy est retourné occuper le ranch situé dans la vallée de Kettle River et il a poursuivi ses activités agricoles, même si en 1967 et en 1968, compte tenu du prix du boeuf, la situation n'était pas [traduction] « très bonne sur le plan financier » comme il l'a dit.
+[10] De 1965 à 1971, M. Sevy a continué à exploiter son ranch dans la vallée de Kettle River; il a continué à faire pousser du foin, à installer des clôtures et à élever des bestiaux. M. Sevy a maintenu qu'il passait la moitié de son temps à s'occuper de l'exploitation, mais que les trois quarts de ses efforts étaient consacrés à la ferme. Les sommes excédentaires tirées de son entreprise de vente de polices d'assurance-vie étaient investies dans la ferme.
+[11] En 1968, M. Sevy s'est installé à Osoyoos; il effectuait de petits travaux pour joindre les deux bouts. Au cours des deux ou trois années suivantes, il a loué le ranch pendant l'hiver, mais il a continué à travailler personnellement au ranch. Il essayait encore d'exploiter le ranch commercialement et il ne voulait pas perdre ses droits de pâturage. M. Sevy passait environ les deux tiers de son temps à Osoyoos et le reste du temps au ranch. En 1970, il a brièvement travaillé aux États-Unis. M. Sevy a dit qu'en 1971, il ne se passait pas grand-chose à part l'entretien et la rentrée de la récolte de foin, mais il se raccrochait au projet qu'il entretenait à l'égard du parc d'engraissement, et il a continué à chercher du financement.
+[12] M. Sevy a en résumé déclaré se livrer à son activité d'élevage de bestiaux pendant toute l'année lorsqu'il vivait au ranch, et ce, pendant des milliers d'heures. Lorsqu'il ne vivait pas au ranch, il passait néanmoins de 600 à 1 000 heures à exploiter l'entreprise. Les activités accomplies au ranch étaient notamment les suivantes :
+- remplacement des toits;
+- terrassement;
+- creusage de réservoirs d'eau;
+- élevage du bétail;
+- récolte des foins;
+- construction de hangars;
+- abattage des arbres et création de terres;
+- installation de clôtures;
+- réparation de la machinerie;
+- obtention d'eau;
+- installation d'une fosse septique.
+[13] En 1981, M. Atwood a connu certaines difficultés financières qui ont amené son créancier à prendre possession de la part d'un tiers qu'il avait dans la propriété de Penticton. Il a fallu diviser les 42 acres, de sorte que M. Sevy ne possédait plus que 13,6 acres. En 1993, M. Sevy a vendu les 13,6 acres pour la somme de 600 000 $.
+Analyse
+[14] Les dispositions législatives qui sont ici pertinentes portent sur la définition de l'expression « bien agricole admissible » figurant au paragraphe 110.6(1) de la Loi de l'impôt sur le revenu (la « Loi » ), qui est ainsi libellé :
+110.6(1) Les définitions qui suivent s'appliquent au présent article.
+[...]
+« bien agricole admissible » S'agissant d'un bien agricole d'un particulier à un moment donné [...] l'un des biens suivants appartenant à ce moment donné au particulier [...]
+a) un bien immeuble qui a été utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada :
+(i) soit par le particulier,
+[...]
+pour l'application du présent alinéa, un bien immeuble n'est considéré comme utilisé dans le cadre de l'exploitation d'une entreprise agricole au Canada que si, selon le cas :
+(vii) dans le cas où le particulier ou la société de personnes a acquis le bien pour la dernière fois avant le 18 juin 1987, ou après le 17 juin 1987, [...] le bien [...] était utilisé par le particulier principalement dans le cadre de l'exploitation d'une entreprise agricole au Canada :
+(A) soit au cours de l'année où le particulier dispose du bien [...]
+(B) soit pendant au moins cinq années, pendant lesquelles le bien [...] est la propriété d'un particulier [...]
+Si le bien est admissible, il bénéficie du traitement favorable prévu au paragraphe 110.6(2) de la Loi.
+[15] Pour être admissible à titre de « bien agricole admissible » , la propriété de Penticton doit avoir été utilisée par M. Sevy dans le cadre de l'exploitation d'une entreprise agricole, ce qui, pour l'application de la définition figurant dans la Loi, exige que la propriété de Penticton ait été utilisée par M. Sevy principalement dans le cadre de l'exploitation d'une entreprise agricole pendant au moins cinq années, pendant lesquelles la propriété de Penticton lui appartenait. L'avocate de M. Sevy a soutenu que la propriété de Penticton était ainsi utilisée de 1966 à 1971, étant donné qu'elle faisait partie intégrante du ranch de M. Sevy, qui était clairement exploité pendant ces cinq années. L'intimée a avancé les arguments suivants : premièrement, la propriété de Penticton se rapportait à une entreprise distincte, l'entreprise relative au parc d'engraissement, une entreprise qui n'a jamais été exploitée; deuxièmement, si la propriété de Penticton faisait partie du ranch de M. Sevy, elle n'était pas utilisée principalement dans le cadre de l'exploitation de cette entreprise agricole, mais elle était utilisée principalement pour les besoins du club d'équitation; troisièmement, si elle était utilisée principalement dans le cadre de l'exploitation du ranch, cette utilisation a pris fin en 1968, de sorte que l'exigence relative à la période de cinq ans n'était pas respectée.
+[16] M. Sevy était un témoin direct et crédible. Dans son témoignage, il a revécu la peine que lui avaient causé les premières années plus difficiles de sa vie. Les années pendant lesquelles il avait élevé des bestiaux ne pouvaient pas être considérées comme une réussite complète, mais le succès n'est pas le critère à appliquer pour déterminer si M. Sevy exploitait une entreprise agricole. Pendant un certain nombre d'années, entre le début des années 1960 et le début des années 1970, M. Sevy a de fait exploité une telle entreprise. L'intimée ne le nie pas. Il ne s'agit pas ici de savoir si l'appelant exploitait une entreprise agricole. Il s'agit plutôt de savoir si la propriété de Penticton a été utilisée par M. Sevy principalement dans le cadre de l'exploitation d'une entreprise agricole pendant une période de cinq ans.
+[17] Il s'agit en premier lieu de savoir quelle entreprise est en cause. L'avocate de l'appelant affirme que la propriété de Penticton fait partie intégrante de l'exploitation générale du ranch de M. Sevy, et ce, même si elle est située loin du ranch, c'est-à-dire qu'une seule entreprise agricole est exploitée. De son côté, l'intimée considère la propriété de Penticton comme une nouvelle entreprise éventuelle, l'exploitation d'un parc d'engraissement, qui n'a jamais avancé jusqu'au point de constituer l'exploitation d'une entreprise. Cela étant, aucune entreprise à laquelle l'utilisation de la propriété pouvait être liée n'était exploitée.
+[18] M. Sevy avait conçu un projet, le seul projet quant à lui qui assurerait la rentabilité d'une entreprise d'élevage marginale. Il s'agissait d'acquérir une propriété plus rapprochée des marchés de bétail, une propriété où il serait possible de préparer le bétail, à des fins de revente, à l'aide de pâture accessible, principalement du maïs. M. Sevy croyait d'une façon générale qu'un tel parc d'engraissement attirerait finalement d'autres éleveurs de bestiaux. M. Sevy a de fait acquis la propriété (la propriété de Penticton) en 1965, et il a pris certaines mesures préliminaires en vue de clôturer la propriété et de la préparer pour son projet général. Il a continué à chercher une propriété qui conviendrait à la culture du maïs. Il a cherché d'autres sources de financement. Il a laissé à quelques reprises des bestiaux sur la propriété. Je suis convaincu que l'acquisition de la propriété de Penticton était une progression naturelle dans l'évolution de l'entreprise d'élevage existante de M. Sevy. Je considère plutôt la chose sous cet angle que sous l'angle d'une entreprise distincte entièrement nouvelle, comme le voudrait l'intimée.
+[19] Puisque j'ai conclu qu'une seule entreprise agricole était exploitée, j'examinerai le second aspect de l'argument de l'intimée, à savoir que même si la propriété de Penticton était considérée comme faisant partie de l'entreprise d'élevage de M. Sevy, elle n'était pas utilisée principalement dans le cadre de l'exploitation de cette entreprise. Il s'agit d'une distinction fort subtile à l'égard d'une tournure de mots; l' « utilisation » est nécessaire, et de fait l' « utilisation principale » est nécessaire, ce qui donne à entendre qu'il peut y avoir plus d'une utilisation à laquelle la propriété est affectée. Un terrain en friche que l'on acquiert dans le seul but d'agrandir une entreprise agricole existante est-il « utilisé principalement » dans le cadre de l'exploitation de cette entreprise agricole uniquement lorsque cette entreprise est pleinement exploitée? Une telle interprétation du mot « utilisation » est trop stricte et ne tient pas compte des difficultés réelles que comportent le démarrage et l'expansion d'une entreprise sur le plan commercial. On m'a référé à une seule décision portant sur la question de l' « utilisation » , pour l'application de la définition de l'expression « bien agricole admissible » . Dans la décision Larsen v. R.[1], le juge Beaubier a conclu que la vente d'un droit de coupe de bois était une vente d'immobilisation; le juge a ensuite conclu que cette immobilisation était un « bien agricole admissible » pour le motif que les bovins « utilisaient la forêt comme abri au cours des périodes où ils paissaient à cet endroit » . Il semble qu'une utilisation minimale puisse néanmoins constituer une utilisation.
+[20] Le mot « use » [utilisation] est défini comme suit dans le Canadian Oxford Dictionary : [traduction] « Employer quelque chose à une fin particulière. » Cette définition comporte deux éléments : l'emploi réel de quelque chose et une fin. De quelle façon le bien immeuble est-il employé? Comme le montre la décision Larsen, le bien a été employé du simple fait de son existence; la simple existence du bois assurait un abri. À coup sûr, une terre qui est travaillée au moyen du hersage, de l'ensemencement et de la culture est employée. Cependant, une terre offerte à titre de garantie est elle aussi employée, non au moyen d'une activité physique accomplie sur la terre, mais par son existence même. Dans le cas de M. Sevy, il y avait à la fois des éléments actifs et des éléments passifs d'utilisation, l'élément actif étant le fait que l'on réparait les clôtures et que l'on faisait paître le bétail, et l'élément passif étant constitué des efforts que M. Sevy déployait pour se procurer des fonds. M. Sevy n'essayait pas simplement de se procurer de l'argent en se fondant sur un rêve; il se fondait sur le fait qu'il possédait réellement cette parcelle de terre. L' « utilisation » qu'il faisait de cette parcelle peut sembler minime, mais il n'y avait pas d'autre utilisation et, par conséquent, la moindre utilisation constitue un emploi réel de la terre.
+[21] J'examinerai maintenant le second élément de l' « utilisation » : la fin. À quelle fin la propriété de Penticton était-elle affectée? L'intimée affirme que la propriété devait servir à l'exploitation d'un parc d'engraissement. Toutefois, il y avait une façon plus générale de définir la fin, une façon sur laquelle M. Sevy a certes mis l'accent, c'est-à-dire rendre le ranch financièrement viable. Si telle est la fin visée, le fait que l'on ne réussit pas à assurer la viabilité financière n'annule pas cette intention.
+[22] M. Sevy avait besoin de fonds considérables pour mettre pleinement à exécution le projet qu'il entretenait à l'égard de la propriété de Penticton - un financement qu'il n'a jamais pu obtenir. Cependant, il a fait ce qu'il fallait faire pour assurer l'avenir : il a clôturé la propriété, il a obtenu l'aide d'un club d'équitation afin de réparer les clôtures et de payer certains frais, il a continué à chercher des fonds, il a continué à chercher une propriété où il pourrait cultiver du maïs et, en 1966, il a vendu une partie de la propriété en vue d'obtenir des fonds. Ces activités me convainquent que la propriété de Penticton était, pendant un certain temps, utilisée principalement dans le cadre de l'exploitation de l'entreprise agricole de M. Sevy, quoique au stade initial de cet aspect de son ranch. Il n'y avait pas d'autre utilisation : il n'y avait pas d'autre objectif de nature spéculative. Il existait une intention selon laquelle la propriété de Penticton devait être utilisée dans l'entreprise d'élevage de bestiaux, un projet selon lequel la propriété de Penticton devait être utilisée dans l'entreprise d'élevage de bestiaux, des mesures prises aux fins de la réalisation de ce projet et il n'y avait aucune autre utilisation de cette propriété. Je conclus que la propriété de Penticton pouvait être utilisée principalement à la seule fin d'exploiter l'entreprise d'élevage de M. Sevy.
+[23] Cela m'amène à la dernière prétention de l'intimée, à savoir que M. Sevy n'a pas prouvé que cette utilisation principale s'est poursuivie pendant la période requise de cinq ans. Les activités décrites, l'installation de clôtures, l'ensemencement, le défrichage, le fait d'avoir laissé le bétail à cet endroit et l'obtention de fonds au moyen de la vente d'une partie de la propriété ont tous eu lieu en 1966 et en 1967. En 1968, M. Sevy vivait du ranch; en 1970, il a brièvement travaillé aux États-Unis. M. Sevy a témoigné que, même lorsqu'il ne vivait pas au ranch, il y consacrait énormément d'heures, bien qu'il ait reconnu qu'en 1971, il ne s'y déroulait pas beaucoup d'activités à part l'entretien et la rentrée du foin. Le témoignage de M. Sevy, en ce qui concerne les années 1969 à 1971, semblait surtout porter sur les activités accomplies au ranch plutôt que sur la propriété de Penticton, mais je conclus que M. Sevy a de fait continué à chercher à obtenir du financement pour son projet d'expansion au début des années 1970. Je conclus qu'en ce qui concerne la propriété de Penticton, les activités ont diminué de 1967 à 1971, mais je conclus également que M. Sevy exploitait néanmoins une entreprise agricole pendant cette période.
+[24] Puisque j'ai conclu que la propriété de Penticton était utilisée principalement dans le cadre de l'exploitation d'une entreprise agricole pendant une certaine période, je dois me demander si cette propriété a cessé d'être utilisée à cette fin avant 1971. Dans l'affirmative, on ne peut conclure qu'il s'agit d'un bien admissible. Tout compte fait, je retiens le témoignage de M. Sevy, selon lequel une certaine activité, comme la réparation des clôtures, s'est poursuivie pendant une période de cinq ans et que les efforts que M. Sevy a faits pour obtenir le financement nécessaire à l'expansion prévue grâce à la propriété Penticton se sont également poursuivis, probablement jusqu'en 1973, lorsque M. Sevy a découvert que les intérêts de sa famille pouvaient être mieux servis s'il poursuivait un autre plan de carrière. Je considère que la propriété de Penticton était utilisée, qu'elle était utilisée principalement dans le cadre de l'exploitation d'une entreprise agricole et qu'une telle utilisation principale s'est poursuivie de 1966 à 1971.
+[25] L'appel est admis pour le motif que la propriété de Penticton était un « bien agricole admissible » . Les dépens sont adjugés à l'appelant.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI634
+No DU DOSSIER DE LA COUR :
+2002-3097(IT)G
+INTITULÉ :
+Joy O'Neill Sevy et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 12 août 2004
+MOTIFS DU JUGEMENT :
+L'honorable Campbell J. Miller
+DATE DU JUGEMENT :
+Le 21 septembre 2004
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Leslie J. Mackoff
+Avocate de l'intimée :
+Me Kristy Foreman Gear
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Leslie J. Mackoff
+Cabinet :
+Mackoff et associés
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 98 DTC 2193.

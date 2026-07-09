@@ -1,0 +1,219 @@
+---
+title: "Dufour c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27824/index.do"
+last_modified: "2005-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 609"
+citation2: ""
+neutral_citation: "2005 CCI 609"
+decision_date: "2005-10-04"
+language: "fr"
+item_id: "27824"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 364
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:28:13.400000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dd25f092e339b9318a21cceec1fad932b4228414774f1a798413817a02c58b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dufour c. M.R.N.
+
+- Citation: 2005 CCI 609
+- Decision date: 2005-10-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 364, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufour c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-04
+Référence neutre
+2005 CCI 609
+Numéro de dossier
+2004-3937(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3937(EI)
+ENTRE :
+LÉO DUFOUR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+Intimé.,
+____________________________________________________________________
+Appel entendu le 28 juillet 2005 à Québec (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocate de l'intimé :
+Me Julie David
+________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 4e jour d'octobre 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence :2003CCI609
+Date : 20051004
+Dossier : 2004-3937(EI)
+ENTRE :
+LÉO DUFOUR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Québec (Québec), le 28 juillet 2005.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l’appelant auprès de Les Entreprises Besson Inc., le payeur, du 19 mai au 16 novembre 2002.
+[3] Le 16 septembre 2004, le ministre du Revenu national (le « Ministre ») a informé l'appelant de sa décision selon laquelle celui-ci n’occupait pas un emploi assurable et qu’il n’avait accumulé aucune heure assurable.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants, lesquels ont été admis ou niés par l'appelant :
+a) le payeur a été constitué en société le 27 octobre 2000; (admis)
+b) le payeur exploitait une entreprise d’excavation et d’installation de drains agricoles; (admis)
+c) le payeur possédait 5 pelles excavatrices et 4 transporteurs; (admis)
+d) l’appelant voulait acheter l’entreprise du payeur; (nié)
+e) le payeur a fait faillite le 12 février 2004; (admis)
+f) durant la période en litige, l’appelant aurait prétendument travaillé au transport de la machinerie et à faire les courses pour l’achat de tuyaux et de drains; (admis)
+g) durant la période en litige, l’appelant aurait prétendument reçu une rémunération de 750 $ par semaine pour 40 heures alors qu’en réalité l’appelant n’a jamais reçu de rémunération; (nié)
+h) le 4 février 2003, l’appelant et le payeur signaient une reconnaissance de dette du payeur envers l’appelant où le payeur reconnaissait devoir 26 semaines de salaire à l’appelant, soit le montant de 19 500,00 $; (admis)
+i) selon la reconnaissance de dette signée le 4 février 2003, la dette du payeur envers l’appelant totalisait 56 047,18 $; (admis)
+j) le 30 juin 2004, l’appelant déclarait à un représentant de l’intimé que, vers le 20 novembre 2002, la secrétaire du payeur, Nadia Larivière, lui a remis sa cessation d’emploi et lui a fait endosser 26 chèques de paie; (admis)
+k) vers le 20 novembre 2002, le payeur remettait à l’appelant un relevé d’emploi indiquant comme premier jour de travail le 19 mai 2002 et comme dernier jour de travail le 16 novembre 2002 et qui indiquait 1040 heures assurables et 19 500,00 $ comme rémunération assurable; (admis)
+l) le relevé d’emploi de l’appelant n’est pas conforme à la réalité quant aux heures travaillées ni quant à la rémunération assurable; (nié)
+m) l’appelant et le payeur ont conclu un arrangement afin de qualifier l’appelant à recevoir des prestations de chômage; (nié)
+n) l’appelant n’a jamais reçu de rémunération du payeur; (nié)
+o) l’appelant n’a jamais porté plainte pour de la rémunération impayée auprès d’un organisme gouvernemental ou auprès du syndic à la faillite du payeur. (nié)
+[5] Lors de son témoignage, l’appelant a admis qu’il avait fait des démarches pour acheter l’entreprise du payeur. Cependant, les états financiers qu’il réclamait tardaient à venir et le projet a avorté.
+[6] À l’audition, l’appelant a produit un document (pièce A-2) qui se veut une compilation des heures qu’il a travaillées pour le compte du payeur pendant la période en litige. Il a déclaré avoir préparé lui-même ce document; cependant, il ne l’aurait montré à personne auparavant. Par ailleurs, le nombre d’heures indiqué sur ce document contredit celui qui paraît sur le relevé d’emploi (pièce A-1). Il a déclaré avoir fait son calcul basé sur 50 heures de travail par semaine.
+[7] Lors de son témoignage, l’appelant a affirmé que son travail était supervisé par Sylvain Ouellette, directeur général du payeur, mais la seule preuve qu’il a apportée à ce sujet est son témoignage à l’effet que M. Ouellette l’appelait sur son téléphone cellulaire pour avoir des comptes-rendus.
+[8] Par ailleurs, dans son témoignage, l’appelant a affirmé que le payeur rencontrait des difficultés de liquidité et que pour cette raison M. Ouellette lui empruntait de l’argent. L’appelant a affirmé qu’il avait prêté 15 000 $ à l’entreprise du payeur pour permettre à celle-ci de le rémunérer pour les contrats à venir. En outre, l’appelant a ajouté que Sylvain Ouellette était insolvable et que ce dernier avait besoin de lui. L’appelant a reconnu qu’il n’avait pas été payé pour son travail pendant la période en litige.
+[9] La preuve a révélé que l’appelant a reçu du payeur la somme de 13 701 $ le 13 juillet 2003. Il a déclaré avoir appliqué cette somme contre le salaire qui lui était dû plutôt qu’envers la dette de 56 047,18 $ contractée par l’entreprise avec lui, dont les détails apparaissent sur le document intitulé « Prêt à demande » produit à l’audition sous la cote A-5. Il a été établi que l’appelant n’avait fait aucune plainte auprès de l’organisme fédéral ou provincial de main-d’œuvre pour de la rémunération impayée. Il a prétendu avoir fait une telle réclamation auprès du syndic de faillite de l’entreprise du payeur, mais il admet qu’il ne figure pas comme créancier de celui-ci.
+[10] M. Richard Powers, enquêteur pour Développement des ressources humaines Canada, a visité l’entreprise du payeur pour y vérifier les livres. Il a affirmé, à l’audition, qu’il a découvert qu’il y avait eu cumul d’heures. Il a ajouté que les employés manuels étaient payés régulièrement alors que d’autres, du côté de l’administration, recevaient des chèques en série portant des numéros consécutifs. Il n’a découvert que cinq chèques payables à l’appelant, lesquels avaient été endossés par ce dernier et redéposés au compte de l’entreprise.
+[11] M. Powers a affirmé n’avoir trouvé aucune heure de travail de l’appelant consignée au livre de salaires de l’entreprise. D’ailleurs, il a déclaré n’avoir trouvé aucun livre de salaires. Il a affirmé, en outre, que le comptable de l’entreprise du payeur ne lui avait pas parlé de preuve documentaire. L’enquêteur a témoigné avoir découvert d’autres anomalies, dont le fait que l’appelant aurait reçu un salaire plus élevé que celui du directeur général de l’entreprise.
+[12] Selon la preuve, l’appelant assurait le financement de l’entreprise du payeur, ce qui est confirmé par le document intitulé « Prêt à demande » (pièce A‑5). Ce document établit qu’au-delà des heures travaillées par l’appelant, le payeur a reconnu les investissements de celui-ci dont, par exemple : le montant de 20 695,72 $ qui représente les factures qu’il a payées; le montant de 1 200 $ qui représente le coût des meubles pour le bureau; le montant de 15 000 $ qui représente un prêt consenti à l’entreprise du payeur et le montant de 4 000 $ qui représente un autre prêt consenti à l’entreprise.
+[13] Devant ce constat, il est permis de se demander comment cette situation peut être réconciliée avec la notion de lien de subordination, élément essentiel au contrat de travail. Ne s’agit-il pas plutôt d’un lien de subordination à l’inverse?
+[14] La question en litige est de savoir si l’appelant occupait un emploi assurable aux fins de la Loi sur l’assurance-emploi (la « Loi »). La disposition pertinente est l’alinéa 5(1)a) de la Loi qui énonce ce qui suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…] (Le souligné est de moi)
+[15] L’article précité contient la définition de l’emploi assurable. C’est celui que l’on occupe en vertu d’un contrat de louage de services, c’est-à-dire, un contrat de travail. Cependant la Loi ne définit pas ce qui constitue un tel contrat. Dans l’affaire qui nous préoccupe, il n’existe aucun contrat écrit mais, à l’audition, une preuve testimoniale a été offerte quant à l’intention des parties qui s’est manifestée pendant la période en litige. C’est à l’analyse des faits présentés à l’audition que la Cour sera en mesure d’établir le type de contrat auquel sont liées les parties en cause.
+[16] Le contrat de louage de services est une notion de droit civil que l’on retrouve dans le Code civil du Québec. C’est donc en vertu des dispositions pertinentes de ce Code qu’il faudra déterminer la nature de ce contrat.
+[17] Il convient de reproduire les dispositions pertinentes du Code civil du Québec qui serviront à déterminer l’existence d’un contrat de travail pour le distinguer du contrat d’entreprise.
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d’entreprise ou de service
+2098 Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099 L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution. (Le souligné est de moi)
+[18] Les dispositions du Code civil du Québec reproduites ci-dessus établissent trois conditions essentielles à l’existence d’un contrat de travail : 1) la prestation sous forme de travail fournie par le salarié; 2) la rémunération de ce travail par l’employeur et 3) le lien de subordination. Ce qui distingue de façon significative un contrat de service d’un contrat de travail est l’existence du lien de subordination, c’est-à-dire le fait pour l’employeur d’avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[19] Les auteurs de doctrine se sont penchés sur la notion de « pouvoir de direction ou de contrôle » et sur son revers, le lien de subordination. Voici ce que l’auteur Robert P. Gagnon écrivait dans « Le droit du travail du Québec », 5e éd. Les Éditions Yvon Blais Inc., 2003 Cowansville (Québec):
+c) La subordination
+90 – Facteur distinctif – L’élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C’est cet élément qui permet de distinguer le contrat de travail d’autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d’une autre personne, moyennant un prix, comme le contrat d’entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l’entrepreneur ou le prestataire de services conserve, selon l’article 2099 C.c.Q., « le libre choix des moyens d’exécution du contrat » et qu’il n’existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l’employeur et dans le cadre établi par ce dernier.
+[…]
+92 – Notion – Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.-C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise. (Le souligné est de moi)
+[20] Il faut préciser que ce qui caractérise le contrat de travail n’est pas le fait que la direction ou le contrôle a été exercé effectivement par l’employeur, mais le fait qu’il avait le pouvoir de l’exercer. C’est ce que la Cour d’appel fédérale a statué dans Gallant c. Canada (ministre du Revenu national – M.R.N.), [1986] A.C.F. no 330 (Q.L.).
+[21] Il incombe à cette Cour, qui est chargée de déterminer le type de contrat au Québec auquel sont liées les parties, de considérer et de suivre les dispositions pertinentes du Code civil du Québec et de la jurisprudence qui les a suivi.
+[22] En l’espèce, existait-il un lien de subordination entre l’appelant et le payeur nous permettant de conclure à la présence d’un contrat de travail? Dans l’exercice du mandat qui consiste à déterminer la présence ou l’absence d’un lien de subordination, plusieurs indices peuvent être pris en considération. La jurisprudence en a développé un certain nombre. Voici les indices d’encadrement qui ressortent à la lecture de cette jurisprudence :
+1) la présence obligatoire à un lieu de travail;
+2) le respect de l’horaire de travail;
+3) le contrôle des absences du salarié pour des vacances;
+4) la remise de rapports d’activité;
+5) le contrôle de la quantité et de la qualité du travail;
+6) l’imposition des moyens d’exécution du travail;
+7) le pouvoir de sanction sur les performances de l’employé;
+8) les retenues à la source;
+9) les avantages sociaux;
+10) le statut du salarié dans ses déclarations de revenu;
+11) l’exclusivité des services pour l’employeur.
+[23] Une mise en garde s’impose, toutefois, puisque ce n’est pas parce que quelques indices appuient la conclusion qu’il existe un lien de subordination qu’il faut abandonner l’analyse. L’exercice consiste, selon la distinction établie dans le Code civil du Québec, à déterminer la relation globale qui existe entre les parties. Il s’agit donc d’établir dans quelle proportion les indices pouvant mener à la conclusion qu’il existe un lien de subordination sont prédominants par rapport aux autres.
+[24] Le Ministre, au terme de son analyse, a conclu que le payeur et l’appelant avaient conclu un arrangement afin de qualifier ce dernier à recevoir des prestations de chômage.
+[25] Une situation de la sorte s’est présentée devant notre Cour dans l’arrêt Thibeault c. Canada (ministre du Revenu national – M.R.N.), [1998] A.C.I. no. 690 où le juge Tardif écrivait :
+26 Le régime d’assurance-chômage est une mesure sociale dont l’objectif est de soutenir ceux et celles qui perdent leur véritable emploi. Il ne s’agit carrément pas d’une mesure où il suffit de payer des cotisations durant une certaine période de l’année pour avoir droit automatiquement aux bénéfices.
+27 Il s’agit là d’une assurance où toutes les conditions connues définies par la Loi et ses règlements doivent être respectées à défaut de quoi celui ou celle qui a pourtant payé des contributions, ne peut prétendre avoir un droit automatique au paiement des prestations.
+28 Généralement, le droit aux bénéfices prévus par un contrat d’assurance doit découler de faits sur lesquels le bénéficiaire éventuel n’a aucun contrôle.
+29 Certes, il n’est ni illégal, ni répréhensible d’organiser ses affaires pour profiter de la mesure sociale qu’est le régime de l’assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent à la suite d’événements sur lesquels le bénéficiaire n’a pas le contrôle. Lorsque l’importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s’avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l’effet que les parties ont convenu d’un arrangement artificiel pour permettre aux parties de profiter des bénéfices.
+30 En l’espèce, non seulement les coïncidences sont importantes et très nombreuses, l’importance du salaire n’a jamais été justifiée de façon convenable et raisonnable.
+[26] Les redevances du payeur envers l’appelant sont indéniables. Celles-ci représentent des montants autres que du salaire impayé.
+[27] En l’espèce, l’appelant maintient que le montant de 13 701 $ qu’il a reçu du payeur le 13 juillet 2003 représente une partie de la rémunération assurable qui lui a été versée. Cependant, les faits présentés à la Cour, à l’exception de cette affirmation de l’appelant, ne supportent pas cette conclusion.
+[28] Le Ministre, en prenant sa décision, s’est basé sur l’alinéa 5(1)a) de la Loi, sur le paragraphe 9.1 du Règlement sur l’assurance-emploi et sur l’article 2 du Règlement sur la rémunération assurable et la perception des cotisations. Il convient de reproduire ci-dessous ces dispositions pertinentes :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…] (Le souligné est de moi)
+9.1 Lorsque la rémunération d’une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d’heures qu’elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+Rémunération provenant d’un emploi assurable
+2(1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+[…]
+(2) Pour l’application de la présente partie, le total de la rémunération d’un assuré provenant d’un emploi assurable comprend la partie impayée de cette rémunération qui n’a pas été versée à cause de la faillite de l’employeur, de sa mise sous séquestre effective ou imminente ou d’un non-paiement de rétribution à l’égard duquel l’assuré a déposé une plainte auprès de l’organisme fédéral ou provincial de main-d’œuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l’emploi.
+[29] La preuve, en l’espèce, n’a pas établi que l’appelant s’est acquitté de son obligation édictée à l’article 2 du Règlement ci-haut mentionné qui l’oblige à prouver que le montant de sa rétribution impayée a fait l’objet d’une plainte auprès de l’organisme fédéral ou provincial de main-d’œuvre.
+[30] L’appelant avait le fardeau de prouver la fausseté des présomptions de fait du Ministre et il ne l’a pas fait.
+[31] Par ailleurs, l’appelant n’a pas réussi à établir qu’il occupait un emploi assurable auprès du payeur. En outre, il a été incapable de répondre à des questions pertinentes qui lui ont été posées sur les documents qu’il a produits lui‑même, en retard, sans en informer le Ministre, mais l’effet surprise qu’a provoqué cette production à l’audition, compte tenu des réponses incomplètes et évasives qu’il a données, a mis en cause sa crédibilité.
+[32] En raison de ce qui précède, cette Cour doit conclure, comme l’a fait le Ministre, que le payeur et l’appelant ont conclu un arrangement afin de qualifier ce dernier à recevoir des prestations de chômage.
+[33] Il convient de reproduire les articles suivants du Code civil du Québec :
+IV – De la cause du contrat
+1410. La cause du contrat est la raison qui détermine chacune des parties à le conclure.
+Il n’est pas nécessaire qu’elle soit exprimée.
+1411. Est nul le contrat dont la cause est prohibée par la loi ou contraire à l’ordre public.
+[34] En conséquence, cette Cour ne voit aucunement le bien-fondé d’intervenir dans la décision prise par le Ministre.
+[35] L’appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 4e jour d'octobre 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2003CCI609
+No DU DOSSIER DE LA COUR :
+2002-3937(EI)
+INTITULÉ DE LA CAUSE :
+Léo Dufour et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 28 juillet 2005
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 4 octobre 2005
+COMPARUTIONS :
+Pour l'appelant :
+Me Jérôme Carrier
+Pour l'intimé :
+Me Julie David
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Jérôme Carrier
+Étude :
+Rochon, Belzile, Carrier, Auger
+Québec (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

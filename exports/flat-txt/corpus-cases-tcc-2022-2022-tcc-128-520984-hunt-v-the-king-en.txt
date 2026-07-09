@@ -1,0 +1,124 @@
+Title: Hunt v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520984/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-128-520984-hunt-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-08-15
+
+# Hunt v. The King
+
+- Citation: 2022 TCC 128
+- Decision date: 2022-08-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4506, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunt v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-15
+Neutral citation
+2022 TCC 128
+File numbers
+2016-1689(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2022 TCC 128
+Date: 20221101
+Docket: 2016-1689(IT)G
+BETWEEN:
+THOMAS HUNT,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Post-Hearing submissions in writing on costs
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+David R. Davies Alexander Demner
+Counsel for the Respondent:
+David Everett Lisa Macdonell
+AMENDED ORDER AND SUMMARY REASONS FOR COSTS
+WHEREAS in its Order and Reasons for Order dated June 23, 2022, the Court provisionally awarded costs in favour of the Respondent in accordance with the applicable Tariff under the Tax Court of Canada Rules (General Procedure) (the “Rules”);
+AND WHEREAS at the conclusion of the hearing of the Rule 58 application (“motion”), the Court explained that it would do so subject to either party’s right to make further submissions on costs within 30 days;
+AND WHEREAS it is the standing practice of this Court to issue a preliminary cost order solely in accordance with the Tariff, instead of requesting cost submissions in advance of deciding the appeal and delivery of its reasons for judgment;
+AND WHEREAS the Respondent and the Appellant could not further agree on costs and therefore made permitted submissions in writing dated July 25, 2022 for consideration by the Court;
+UPON READING the written submissions of the Appellant and the Respondent regarding costs in the appeal;
+AND IN CONSIDERATION OF THE FOLLOWING CIRCUMSTANCES AND ARGUMENTS RAISED IN SUBMISSIONS:
+a) The Court in its reasons for decision initially awarded costs in favour of the Respondent as the successful party, provisionally in accordance with the applicable Tariff of the Rules;
+b) The Respondent, claims the aggregate amount of $50,915 on account of all-inclusive increased costs;
+c) The Appellant submits that the Respondent is entitled to costs solely based upon the applicable Tariff;
+d) The Respondent’s costs under the Tariff would be approximately $2,100 or 1.39% of legal costs incurred;
+e) Further, the Respondent submits in its bill of costs that:
+i) The Respondent’s two legal advisors spent considerable time docketing between them the sum of approximately $169,000.00 at a “Published Rate”;
+ii) Such Published Rates per hour range from 262.00 to 283.00 over the course of work for each of the two lawyers;
+iii) Time for work product unrelated to the motion has been deleted;
+iv) As a result of government of Canada cost recovery procedures certain minor disbursement amounts are embedded in the legal fees docketed;
+v) There are other appeals before the Court which raise the same issues heard and decided by the Court in the motions;
+vi) The Published Rates comprise a full recovery method of recouping the full cost of the legal services provided by counsel to the Respondent;
+f) Each party has provided submissions concerning the applicable section 147(3) cost factors which are outlined in a summary fashion below;
+g) The Respondent contends that subsection 147(3), in light of all the factors, supports a lump sum award of additional costs equal to 30% of the Respondent’s incurred legal costs; and,
+h) The Appellant submits that the applicable Tariff is sufficient, the Court should not depart from it and no additional costs should be awarded.
+AND WHEREAS the Court provides its written reasons for the costs as follows:
+The Court has full discretion to issue costs beyond the applicable Tariff by virtue of the following:
+i) Although Tariff B of Schedule II should be the secondary stop on the way to awarding costs; consideration of the factors in subsection 147(3) of the Rules should receive the primary and unexceptional focus of the judge: Velcro Canada v. HMQ, 2012 TCC 273 at paragraph 17;
+ii) The Court regularly departs from 147(3): Ford Motor Co. of Canada Ltd. v. HMQ, 2015 TCC 185 at paragraph 7(4) and 25; the Court in this appeal in its reasons for order reserved the parties’ rights for further submissions in order to allow circumstances otherwise not before a motion judge to be revealed, such as: offers of settlement, conduct not apparent before the Court and delays etc.;
+iii) Where the Court departs from the Tariff it must do so on a principled basis, without caprice and with regard to factors in section 147: Duffy v. HMQ, 2020 TCC 135 at paragraph 20 and 21 and CIBC World Markets v. HMQ, 2019 TCC 201 at paragraph 9;
+iv) The Court already awarded costs in accordance with the applicable Tariff, and did so not on a perfunctory, prejudicial or determinative basis concerning additional costs, but rather to receive details of submissions concerning facts it could not possibly know without such submissions;
+v) As largely agreed in submissions, the applicable cost factors and considerations in subsection 147(3) of the Rules are listed in the chart below. The Court will utilize this chart format to analyze the factors and at the conclusion arrive at an amount for additional costs by referencing a factor where justified in the circumstances before the Court in this proceeding;
+Subsection 147(3) Factor materially in dispute
+Summary of Respondent’s position
+Summary of Appellant’s position
+Observations of the Court, if any
+a) result of the proceeding
+The Respondent was fully successful on both issues and upheld the constitutionality of law.
+Respondent successful, but default nature of Tariff is there for such a reason.
+There were two grounds for the motion and distinct bases for the motion, while each one was binary, conjunctively this was not an all or nothing en bloc motion or decision.
+b) amounts in issue
+The amounts, per se, are not large but in aggregate are not inconsiderable, and similar appeals are before the Court and held in abeyance pending this outcome.
+The amounts in issue are modest.
+A Rule 58 motion was granted by the Court in Phase I because of similar ground appeals before the Court.
+c) importance of the issues
+These were novel questions, necessary to settle the penalty vs. tax issue and the constitutionality of the TFSA tax (and now applicable to other registered savings plans)
+Decision not entirely unimportant. However, its application is to the parties inter se. This was not a test case or lead case, and this factor should not be considered.
+Unlike completely taxpayer specific issues, which are factually based, this Rule 58 motion challenged the legal nature of one section and the constitutional validity of another. These are important considerations.
+d) the volume of work
+The arguments raised necessitated a full statutory interpretation of the text, context and purpose of sections 207.05 and 207.06.
+The constitutional issue was well tested in Hunt #1. The Federal Court of Appeal hypothetically posed the question leading to this Hunt #2 Rule 58 motion. Tax versus penalty required no new evidence, and although novel, no case law existed.
+By its nature, a Rule 58 application rarely involves factual evidence in dispute.
+e) the complexity of the issues
+There were 619.08 docketed hours and, generally, these included the following consequential legal issues:
+i) Penalty vs. tax (and therefore potential due diligence defences is successful);
+ii) Validity of TFSA and other tax advantage provisions, widely subscribed and used by taxpayers;
+iii) Full analysis of constitutionality through text, context and purpose;
+iv) Ministerial power to grant tax relief and its administrative law extensions.
+Penalty versus tax issue was not complex; the constitutional issue was a replay of Hunt #2.
+f) any other matter relevant to the question of costs
+Subject to outcome on appeal, this decision is one of great precedential value and the costs incurred recoverable by cost award at 30% is more than warranted.
+No addition factors.
+IN RENDERING its determination on the issue of the request for enhanced costs, the Court identifies the following concerning the applicable cost factors outlined in subsection 147(3).
+As to the results of the motion, the Respondent was fully successful on both issues before the Court: the penalty versus tax issue and the constitutionality of the section. There were four theoretical outcomes possible for either party: success on both issues, defeat on the penalty issue, success on the constitutionality issues, vice versa and defeat on both. The Respondent was successful on both. The nature and object of a Rule 58 motion is that it narrows the issues, at worst, and determines the appeal in quasi-dispositive fashion, at best. This Rule 58 application is for beyond a motion for compliance with unanswered undertakings.
+While not entirely known, the Rule 58 decision may well end the Tax Court appeal, subject to the outcome of the pending appeal. This two-day hearing with fully agreed facts likely would not produce a trial lasting much longer or requiring more witnesses. This factor militates towards costs beyond the Tariff.
+The amounts in issue prima facie are not dramatically large. What figured in the granting of a second Rule 58 motion for the Court when setting the questions in Phase I was the looming existence of similar fact appeals of other taxpayers before the Court.
+The issues are objectively important: the legal character of a levy: tax or penalty. The question goes to the heart of the consequential procedural rights of a taxpayer when legally challenging any assessment. The impugned constitutionality of the sections questions the very enforceability of tax assessment for violation of the TFSA, RRSP, RIF, RESP, HBP rules and the like. Many Canadians use such tax saving devices and a number occasionally run afoul of the tax assessed for a non-compliant benefit. The consequences of this Rule 58 motion outcome has a transparent and widespread public impact. A public interest permeates throughout the validity and character of the advantage tax and its constitutionality.
+The pre-hearing volume of work is manifested in the docketed hours; no serious challenge to the quantum of Respondent’s counsels’ time, hourly rates or applicability was advanced by Appellant’s counsel. Research determining no binding authority exists, consultation gaining appropriate instructions from clients in such circumstances and innovative advocacy gaining analogous and informative authority is just as time consuming to that of litigating known, quantifiable and predictable legal issues. These are the wages which yield Court decisions forming future “evidence of law”. The Appellant’s simplistic generalization regarding the impact of the Rule 58 motion, the decision and consequential utility of this motion is rejected.
+A legal determination has been made on issues not previously decided. That is a relevant and contributory criterion for enhanced costs.
+On balance, all applicable factors, without exception, direct and inform the Court to award enhanced costs beyond the dated, musty and insufficient Tariff when applied to the ambit of the Rule 58 motion reflected in the section 147 principles. Further, the Respondent’s bill of costs and requested indemnification level of 30% of docketed time is perfectly reasonable, if not a bit bashful. Lastly, there is no challenge regarding the itemized hours, comparatively competitive hourly rates and the itemized nature and quality of the detail describing the time which counsel expended.
+NOW THEREFORE THIS COURT ORDERS AND DIRECTS THAT:
+The Respondent shall be awarded costs as follows in this Rule 58 application:
+i) Costs under Tariff B of Schedule II of Form 147(3) in the amount of $2,100 as originally pronounced in the judgment by the Court; and,
+ii) Further additional costs in the amount of $48,800 beyond the said Tariff.
+The fixed sum of $1000 for these cost submissions.
+For all of these reasons, increased costs are granted in the amounts stated above.
+This Order and Summary Reasons for Costs are issued in substitution for the Order and Summary Reasons for Costs dated November 1, 2022 in order to correct an inadvertent reference to the wrong party in paragraph 1 above.
+Signed at Kelowna, Canada, this 15th day of November, 2022.
+“R.S. Bocock”
+Bocock J.

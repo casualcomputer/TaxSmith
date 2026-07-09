@@ -1,0 +1,226 @@
+---
+title: "2253787 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71350/index.do"
+last_modified: "2014-04-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 121"
+citation2: ""
+neutral_citation: "2014 CCI 121"
+decision_date: "2014-04-28"
+language: "fr"
+item_id: "71350"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5294
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:59:41.021000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ff73b389623cfe3dcceb0ad3a428b088daf36256fa51282da2d13615a259d9e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2253787 Ontario Inc. c. La Reine
+
+- Citation: 2014 CCI 121
+- Decision date: 2014-04-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5294, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2253787 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-04-28
+Référence neutre
+2014 CCI 121
+Numéro de dossier
+2012-3223(GST)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-3223(GST)I
+ENTRE :
+2253787 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+2266504 Ontario Inc., 2013-2538(GST)I
+le 12 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante :
+Me Bobby B. Solhi/ Me David Piccolo
+Avocats de l’intimée :
+Me Ricky Tang/ Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est rejeté compte tenu du fait que l’appelante n’avait pas droit à des crédits de taxe sur les intrants pour la période s’étendant du 16 août au 30 août 2010.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour d’avril 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 3e jour de juin 2014.
+S. Tasset
+Dossier : 2013-2538(GST)I
+ENTRE :
+2266504 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+2253787 Ontario Inc., 2013-3223(GST)I
+le 12 février 2014, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Pour l’appelante :
+Me Bobby B. Solhi/ Me David Piccolo
+Avocats de l’intimée :
+Me Ricky Tang/ Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel est rejeté compte tenu du fait que l’appelante n’avait pas droit aux crédits de taxe sur les intrants qu’elle avait demandés pour la période s’étendant du 1er au 30 octobre 2011.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour d’avril 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 3e jour de juin 2014.
+S. Tasset
+Référence : 2014 CCI 121
+Date : 2014 04 28
+Dossiers : 2012-3223(GST)I
+2013-2538(GST)I
+ENTRE :
+2253787 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-2538(GST)I
+ET ENTRE :
+2266504 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE JUGEMENT COMMUNS
+Le juge Bocock
+I. Introduction
+[1] Les appelantes sont deux entreprises privées constituées en personnes morales pour une seule fin : contourner le processus de mise en marché échelonnée par continent des célèbres iPhone 4 et iPhone 4s d’Apple en 2010 et en 2011 respectivement. Ce « marché gris » à l’égard de produits de communication faisant l’objet de grandes campagnes de mise en marché et très populaires découle du désir d’une société multinationale de vendre son produit sur des marchés privilégiés considérés comme lucratifs avant la mise en vente du produit dans des marchés moins exclusifs et où la concurrence est plus féroce. En termes simples, c’est l’interdiction temporaire de vente d’un produit dans certains marchés définis.
+[2] Certains entrepreneurs rusés comme M. Cao, le mandant des deux appelantes, contournent cette gestion de lancement par région au moyen d’une série d’achats microgérés du produit sur le marché protégé (le Canada), le produit étant ensuite rapidement exporté de façon non contrôlée sur le marché interdit pour y être revendu (en l’espèce, Hong Kong). De cette façon, les opérateurs sur le marché parallèle récoltent des bénéfices majorés liés à la vente du produit en primeur sur le marché interdit et violent du même coup l’esprit et l’intention du fabricant du matériel d’origine (en l’espèce, Apple Inc.).
+[3] Dans l’affaire qui nous occupe, et même si le processus est légèrement différent en 2010 et en 2011 en raison de modifications mineures de la politique de vente d’Apple au Canada, la méthode suivie par les appelantes est raffinée, organisée et souple. M. Cao avait recours à des amis, à des parents, à des connaissances et à des « sous-traitants » (les « premiers acheteurs ») pour acquérir un ou deux iPhone par jour d'un magasin Apple au Canada. Chaque premier acheteur obtenait le remboursement du prix d’achat et de la TVH et recevait une rémunération, pourvu que M. Cao ait reçu une preuve de paiement et les appareils téléphoniques et qu’il ait vérifié que l’encodage requis de l’appareil était compatible (ou pouvait être contourné) pour utilisation à Hong Kong. Les iPhone étaient ensuite immédiatement envoyés par messager à Hong Kong et revendus par les appelantes.
+II. Questions en litige
+[4] Les appelantes ont fait l'objet d'une nouvelle cotisation, le ministre ayant refusé d’accorder le crédit de taxe sur les intrants demandé au titre de la Loi sur la taxe d’accise, LRC 1985, ch. E-15 (la « LTA ») par les appelantes pour les achats d’iPhone d’Apple faits par les premiers acheteurs. Le ministre affirme que les appelantes n’ont pas supporté la TVH sur ces achats initiaux à titre d’acheteurs. De plus, il n’existait pas de relation légale de mandant et mandataire permettant aux appelantes de demander des CTI à l’égard de la TVH payée par les premiers acheteurs.
+[5] S’il était conclu qu’il y avait relation de mandant et mandataire, le ministre soutient à titre subsidiaire qu’il y avait lieu de refuser la déduction des CTI pour insuffisance de documentation attestant que les appelantes avaient droit à ces CTI.
+[6] Comme motif additionnel de refus d’une partie des CTI, l’intimée affirme qu’une partie des CTI demandés par l’appelante, 2253787 Ontario Inc., se rapporte à des montants de TVH payés avant que cette dernière ne soit inscrite pour les besoins de la LTA.
+[7] Les appelantes interjettent appel, affirmant qu’il existait une relation de mandant et mandataire entre elles et les premiers acheteurs et que la documentation produite suffit pour justifier la demande de CTI et, enfin, que les CTI demandés par 2253787 pour la période précédant l’inscription devraient être accordés au titre de certaines dispositions relatives aux droits acquis énoncées au paragraphe 177(1) de la LTA.
+III. Dispositions législatives pertinentes
+[8] Sauf exemption pour un motif précisé, la LTA prévoit qu’une personne effectuant une fourniture doit percevoir, comptabiliser et verser la taxe sur cette fourniture. C’est ce que prévoit l’article 133 de la LTA, qui est ainsi libellé :
+133. Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+[9] Le paragraphe 177(1), qui est particulièrement pertinent sur le plan juridique en ce qui a trait aux affirmations des appelantes sur la relation de mandant et mandataire entre le premier acheteur et les appelantes, est ainsi libellé :
+177. (1) Dans le cas où une personne (appelée « mandant » au présent paragraphe) effectue, autrement que par vente aux enchères, la fourniture, sauf une fourniture exonérée ou détaxée, d’un bien meuble corporel au profit d’un acquéreur relativement à laquelle elle n’est pas tenue de percevoir la taxe, sauf disposition contraire prévue au présent paragraphe, et qu’un inscrit (appelé « mandataire » au présent paragraphe), agissant à titre de mandataire dans le cadre de ses activités commerciales, effectue la fourniture pour le compte du mandant, les présomptions suivantes s’appliquent :
+a) lorsque le mandant est un inscrit et que la dernière utilisation du bien, ou sa dernière acquisition pour consommation ou utilisation, a été effectuée par le mandant dans le cadre d’une de ses initiatives, au sens du paragraphe 141.01(1), la fourniture est réputée, si le mandant et le mandataire en font conjointement le choix par écrit, être une fourniture taxable aux fins suivantes :
+(i) pour l’application de la présente partie, mais non pour déterminer si le mandant a droit à un crédit de taxe sur les intrants pour les biens ou les services qu’il a acquis ou importés pour consommation ou effectuée au profit de l’acquéreur,
+(ii) pour déterminer si le mandant a droit à un crédit de taxe sur les intrants pour les services que le mandataire a fournis relativement à la fourniture du bien effectuée au profit de l’acquéreur;
+b) dans les autres cas, la fourniture du bien est réputée, pour l’application de la présente partie, être une fourniture taxable effectuée par le mandataire et non par le mandant, et le mandataire est réputé, pour l’application des dispositions de la présente partie, sauf l’article 180, ne pas avoir effectué, au profit du mandant, une fourniture de services liée à la fourniture effectuée au profit de l’acquéreur.
+[10] Les paragraphes 169(1) et 169(4) de la Loi sur la taxe d’accise (la « LTA ») sont ainsi libellés :
+169. (1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable : [...]
+169. (4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+[11] Le paragraphe 169(1) et le paragraphe 169(4), non souligné dans l’original, sont pertinents en ce qui a trait à l’allégation des appelantes selon laquelle elles ont produit en preuve des documents suffisants à l’appui des CTI auxquels elles estiment avoir droit pour l’acquisition des appareils iPhone auprès du premier acheteur, Apple.
+[12] En ce qui a trait à la question de la documentation, l’alinéa 3c) du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), DORS/91-45, est ainsi libellé :
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[13] L’appelante 2253787 Ontario Inc. s’appuie sur la disposition législative qui suit pour demander des CTI concernant la période antérieure à son inscription, dans laquelle elle allègue qu’elle était un « petit fournisseur » :
+171. (1) La personne qui était un petit fournisseur immédiatement avant le moment donné où elle devient un inscrit est réputée, aux fins du calcul de son crédit de taxe sur les intrants :
+a) avoir reçu, au moment donné, une fourniture par vente de chacun de ses biens qu’elle détenait, immédiatement avant ce moment, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales;
+b) avoir payé, au moment donné, la taxe relative à la fourniture, égale à la teneur en taxe du bien à ce moment.
+IV. Analyse
+a) Y avait-il une relation juridique de mandant et mandataire?
+[14] Les parties conviennent qu’en l’absence de relation juridique de mandant et mandataire, où les premiers acheteurs auraient servi uniquement d’intermédiaires aux appelantes, les appelantes n’auraient droit à aucun CTI parce que les exigences du paragraphe 177(1) n’auraient pas été satisfaites.
+[15] Il est bien établi en droit que les éléments sous-jacents permettant de conclure à une relation de mandant et mandataire sont le consentement du mandant et du mandataire, l’autorité subsistante du mandant sur le mandataire permettant à ce dernier d’influer sur les droits ou obligations du mandant comme s’il avait lui-même conclu le marché, ainsi que le contrôle du mandant sur les actes du mandataire : Royal Securities Corporation Ltd. v. Montreal Trust [1967 OR 137]. En ce qui a trait au premier et au troisième de ces éléments, il n’est pas nécessaire d’approfondir davantage la question; c’est sur le deuxième élément que les appelantes ont commis des erreurs de fait et de droit.
+[16] Il est précisé en langage clair et sans équivoque, tant dans les politiques d’achat en magasin de détail d’Apple que dans la politique de vente et de remboursement d’Apple, que seuls les utilisateurs finaux peuvent effectuer les achats et que la revente et l’exportation sont expressément interdites. Voici, comme exemple précis, ce qui est précisé dans la politique de vente et de remboursement :
+[traduction]
+Vente exclusive aux utilisateurs finaux au Canada
+L’Apple Store accepte les commandes à destination d’adresses de facturation situées à l’intérieur des frontières du Canada. Apple n’expédiera pas des produits achetés auprès de l’Apple Store vers une boîte postale ou une adresse à l’extérieur du Canada. Il est interdit d’exporter les produits achetés auprès de l’Apple Store.
+Vente exclusivement aux consommateurs
+L’Apple Store vend et envoie des produits aux utilisateurs finaux seulement. Vous ne pouvez pas acheter des produits de l’Apple Store pour la revente et nous nous réservons le droit de refuser ou d’annuler votre commande si nous soupçonnons que vous revendez ces produits.
+[17] Le tiers vendeur, Apple, a expressément interdit la revente ou l’exportation subséquente de ses produits. Si la présumée relation de mandant et mandataire avait été divulguée au départ, Apple aurait refusé la vente. Si la relation de mandant et mandataire était devenue apparente, Apple aurait invalidé la vente, la garantie et ses obligations en vertu de ces clauses d’annulation. Pour qu’il y ait relation de mandant et mandataire, il faut que le mandataire ait la capacité d’influer sur la situation juridique du mandant en passant des contrats au nom de celui-ci; le mandant peut seulement charger un mandataire de contrats qu’il a lui-même la capacité juridique ou le pouvoir légal de conclure : Canada c. 1524994 Ontario Ltd., 2007 CAF 74, au paragraphe 18.
+[18] Chose ironique, ce n’est qu’en utilisant les premiers acheteurs comme intermédiaires que les appelantes ont pu en fait réaliser l’objectif principal de leur entreprise : contourner l’interdiction d’Apple de vendre à des revendeurs ou à des exportateurs.
+[19] Les appelantes ont atteint leur objectif principal, mais pas leur objectif secondaire. La relation de mandant et mandataire utilisée, mais dissimulée pour duper le premier vendeur et l'inciter à passer un contrat avec le premier acheteur ne peut être révélée après coup pour introduire la notion d’un acheteur « mandant » différent et éviter l’obligation, pour le premier acheteur, de s’inscrire pour la TVH et de demander les CTI en bonne et due forme. La relation de mandant et mandataire exige un fondement factuel cohérent, clair et documenté. Une histoire dont on peut changer la fin selon les besoins ne répond pas à cette exigence. On ne peut pas cacher une réalité à un tiers (Apple) pour parvenir à un objectif principal et ensuite changer sa description de la réalité lorsqu’on s’adresse à un autre tiers (le ministre) : Canada c. 1524994 Ontario Ltd., précitée, au paragraphe 20.
+[20] Compte tenu de ce qui précède, la Cour conclut qu’il n’y avait pas de relation de mandant et mandataire compte tenu de la nécessité de dissimuler les faits au premier vendeur, avec lequel, sans cette dissimulation, la relation juridique influant sur les droits et obligations du présumé mandant n’aurait pu être établie ou maintenue. Sans ce fondement juridique, les dispositions du paragraphe 177(1) de la LTA ne sont pas respectées parce que, d’après les actes des appelantes, aucune relation de mandant et mandataire ne pouvait exister en droit.
+[21] Les appelantes soutiennent que cette composante n’est plus nécessaire parce que la doctrine de la relation de mandant et mandataire a été adoptée, mais modifiée par la LTA et par des politiques connexes. La prétendue relation de mandant et mandataire nécessairement et délibérément dissimulée, le fait que le premier vendeur, Apple, comptait passer un contrat uniquement et exclusivement avec un premier acheteur canadien, ainsi que l’interdiction absolue au premier acheteur de revendre aux appelantes, l’incapacité du premier acheteur de lier les appelantes en raison de cette interdiction qui rend le contrat inexécutoire et le fait que l’argent des premiers acheteurs ait été utilisé pour acquérir des biens réduit à néant le fondement même du deuxième élément de la relation de mandant et mandataire, tant en droit que sur le plan législatif et politique.
+[22] Cet élément est compris à la section 2 de l’énoncé de politique de l’ARC sur la TPS/TVH P-182R : « Pouvoir du mandataire d’influer sur la situation juridique du mandant » (non souligné dans l’original) :
+2. Pouvoir du mandataire d’influer sur la situation juridique du mandant
+[…]
+L'exemple le plus courant de la capacité du mandataire d'influer sur la situation juridique du mandant est celui où le mandataire est autorisé à contracter avec des tiers pour le compte du mandant. Par exemple, supposons que A demande à B de négocier et d'acheter de l'équipement auprès d'un tiers (C). B signe le contrat avec C, mais il est indiqué dans le contrat que A est l'acheteur de l'équipement. Dans ce cas, B a engagé A envers les conditions du contrat. Autrement dit, en raison des actions de B, A acquiert les mêmes droits et est assujetti aux mêmes obligations que s'il avait signé le contrat. [...]
+La capacité d’Apple d’éviter le contrat, précisément en raison de l’objectif caché de la partie établissant la relation, empêche la création d’une relation ayant valeur exécutoire : R v. Glengarry Bingo Association, 1999 GTC 7101, au paragraphe 33. En l’absence de relation de mandant et mandataire, les CTI demandés ne visent pas la taxe payée par les appelantes, mais plutôt celle payée par les premiers acheteurs. Les appelantes ne peuvent pas demander des CTI pour un tiers.
+b) Preuve documentaire suffisante pour demander des CTI
+[23] Compte tenu de la conclusion qui précède, même si la question de la documentation suffisante concernant les CTI est devenue théorique, la Cour relève que nombre de noms et d’autres renseignements nécessaires concernant un nombre appréciable de premiers acheteurs sont simplement fictifs, non fiables ou manquants. Dans les faits, il est impossible pour la Cour de savoir quelles sont les transactions pour lesquelles elle dispose des renseignements voulus à l’appui des CTI. Ces lacunes sont d’autant plus étonnantes vu le fait que les appelantes affirment qu’il existait une relation de mandant et mandataire, de sorte qu’on s’attendrait à une tenue de livres plus minutieuse et plus complète pour appuyer une structure commerciale et juridique aussi complexe : Systematix Technology Consultants Inc. c. Canada, 207 CAF 226 et Calistar Construction Services Ltd. c. La Reine (2004 CCI 451).
+[24] D’après les éléments de preuve dont dispose la Cour, un pourcentage bien inférieur à la moitié des transactions pour lesquelles une déduction pour CTI est demandée répond à première vue aux normes minimales de tenue de livres nécessaires pour vérifier les faits et autoriser légalement un CTI. Toutefois, comme il a été mentionné, cet aspect est théorique en raison de l’absence de mandat.
+c) CTI pour une période précédant l’inscription
+[25] En ce qui a trait à la question des CTI pour petits fournisseurs avant l’inscription, dans le cas de 2253787 Ontario Inc., l’argument échoue également pour les motifs suivants :
+i) aucun élément de preuve n’a été produit concernant la période précise pendant laquelle 2253787 Ontario Inc. aurait été un petit fournisseur;
+ii) la période en question aurait été probablement assez brève compte tenu de la valeur immédiatement importante des biens fournis, après le commencement des achats;
+iii) d’après la loi, les biens doivent être détenus pendant la période où la personne non encore inscrite était en fait un petit fournisseur, ce qui ne s’est pas produit, ou encore s’est produit si brièvement que tout calcul donnerait un résultat minime, même si des éléments de preuve avaient été produits, ce qui n’est pas le cas.
+[26] Pour ces motifs, les appels sont rejetés. Les dépens sont adjugés à l’intimée conformément au tarif applicable, sauf si les parties demandent à présenter d’autres observations écrites sur les dépens.
+Signé à Vancouver (Colombie-Britannique), ce 28e jour d’avril 2014.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 3e jour de juin 2014.
+S. Tasset
+RÉFÉRENCE : 2014 CCI 121
+NOS DES DOSSIERS DE LA COUR : 2012-3223(GST)I
+2013-2538(GST)I
+INTITULÉS : 2253787 Ontario Inc.
+2266504 Ontario Inc.
+et sa majesté la reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT : Le 28 avril 2014
+COMPARUTIONS :
+Pour les appelantes :
+Me Bobby B. Solhi/Me David Piccolo
+Avocats de l’intimée :
+Me Ricky Tang/Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante : Bobby B. Solhi
+Tax Chambers
+Toronto (Ontario)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

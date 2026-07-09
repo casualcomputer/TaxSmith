@@ -1,0 +1,216 @@
+---
+title: "Crooks c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142798/index.do"
+last_modified: "2016-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 52"
+citation2: ""
+neutral_citation: "2016 CCI 52"
+decision_date: "2016-03-02"
+language: "fr"
+item_id: "142798"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3027
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:08:41.818000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "caaf16f4996cead6c5096bce037b1f633fc5af0d1851a61608ec4bf054f6d9c0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crooks c. La Reine
+
+- Citation: 2016 CCI 52
+- Decision date: 2016-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3027, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crooks c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-03-02
+Référence neutre
+2016 CCI 52
+Numéro de dossier
+2015-831(GST)I
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-831(GST)I
+ENTRE :
+SHERYL CROOKS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu le 15 décembre 2015 et jugement prononcé oralement à l’audience le 24 février 2016, à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Alisa Apostle
+JUGEMENT
+L’appel interjeté en vertu de la Partie IX de la Loi sur la taxe d’accise, concernant l’Avis de cotisation en date du 27 novembre 2013 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément à la transcription révisée sans modifications quant au fond des motifs prononcés de vive voix à l’audience.
+Signé à Ottawa, Canada, ce 2e jour de mars 2016.
+« J.E. Hershfield »
+Juge Hershfield
+Référence : 2016 CCI 52
+Date : 20160302
+Dossier : 2015-831(GST)I
+ENTRE :
+SHERYL CROOKS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Transcription des motifs prononcés de vive voix à l’audience le 24 février 2016.
+Le juge Hershfield
+I. Question en litige [1] Une cotisation en redressement de remboursement au montant de 24 000 $ a été établie pour l’appelante, dont la demande de Remboursement de la TPS/TVH pour habitations neuves a été rejetée. Le paragraphe 254(2) de la Loi sur la taxe d’accise (la « Loi ») établit les exigences pour le remboursement. Il s’agit en l’espèce d’un remboursement de la TPS/TVH exigible pour une unité d’habitation nouvellement construite achetée par l’appelante, comme en fait foi le contrat d’achat et de vente intervenu avec le constructeur.[1]
+[2] Bien que les exigences applicables au remboursement soient nombreuses, le litige en l’espèce porte sur la formulation et l’application appropriées de deux dispositions de la Loi, celles énoncées à l’alinéa 254(2)a) et au paragraphe 262(3).[2] Ces deux dispositions indiquent que le remboursement est offert à un « particulier » ou à un groupe de particuliers.
+[3] La première mention d’un particulier apparaît à l’alinéa 254(2)a). Cet alinéa se lit comme suit :
+254. Remboursement – habitation neuve
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+[4] En l’espèce, il faut déterminer s’il y a plus d’un particulier à qui le constructeur a effectué par vente la fourniture taxable de l’habitation en cause. Si c’est le cas, les dispositions applicables de la Loi doivent être examinées à l’égard de chacun des particuliers, afin de s’assurer que chacun d’eux satisfait aux exigences pour un remboursement. Ces exigences sont établies clairement dans le paragraphe 262(3). J’établirai cette disposition plus loin dans les présents motifs.
+[5] Je ne nie pas que l’appelante satisferait aux exigences de remboursement si elle était le seul particulier à avoir reçu la fourniture taxable de l’habitation en cause.
+[6] Cependant, il n’est pas contesté en l’espèce qu’une deuxième personne, une certaine Mme Richards, à la clôture de la vente de l’habitation en cause, apparaît sur les titres comme propriétaire à hauteur de 1 %. Elle apparaît pour la première fois comme acheteuse dans un accord d’achat et de vente exécuté peu de temps avant la clôture de la transaction.
+[7] C’est sur cette base que la Couronne fait valoir que Mme Richards est un particulier. La Couronne affirme ensuite que Mme Richards ne satisfait pas à certaines autres exigences pour un remboursement, ce qui vicie le remboursement à l’appelante, propriétaire à 99 % de l’habitation acquise. Par exemple, Mme Richards n’est pas une proche de l’appelante et n’a jamais occupé ou eu l’intention d’occuper l’habitation en cause, comme l’exige l’alinéa 254(2)b), qui se lit comme suit :
+254. Remboursement – habitation neuve
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[8] Je remarque ici qu’outre le fait que cette disposition constitue une exigence de remboursement à laquelle Mme Richards ne satisfait pas, elle prévoit clairement qu’un particulier doit avoir la responsabilité de payer le constructeur qui effectue la fourniture. Ceci souligne une question difficile qui subsiste en parallèle : si une personne est inscrite sur le titre de propriété au moment du transfert de propriété depuis le constructeur, mais que cette personne n’a aucune responsabilité envers le constructeur, est-ce que cette personne enlève son droit au remboursement à une autre personne, qui elle a cette responsabilité et qui satisfait par ailleurs à toutes les autres exigences? Je conclurai que la réponse appropriée est « non », parce que la personne sans responsabilité n’est pas, dans de telles circonstances, un particulier au sens de la Loi. Bien que cette conclusion appuie ma décision à l’effet que Mme Richards n’est pas un particulier au sens de la Loi, d’autres motifs importants justifient d’en arriver à cette conclusion. Comme il est précisé dans les présents motifs, j’ai conclu que le constructeur avait agi à titre d’agent de l’appelante en vertu de l’accord modifié, qu’à tout événement l’accord modifié est non exécutoire et inopérant et que Mme Richards n’est pas la récipiendaire d’une fourniture.
+II. Faits
+[9] L’appelante et Mme Richards ont toutes deux témoigné à l’audience. Il n’y a aucun doute dans mon esprit que leur témoignage a été direct et honnête. Ni l’une ni l’autre n’est particulièrement subtile. À mon avis, ce sont deux personnes qui non seulement ne sont pas de nature à manipuler les faits ou à déguiser leurs intentions, mais qui sont incapables d’une telle vilenie. Il s’agit simplement d’une affaire dans laquelle elles ont fait ce qu’on leur a dit qu’elles devaient faire pour permettre à l’appelante de conclure l’achat de l’habitation en cause, comme elle était légalement engagée à le faire. Cependant, il était de leur intention mutuelle de le faire sans modifier ce qui était entendu entre elles : c’est-à-dire que l’habitation était acquise par l’appelante, et pour elle seule.
+[10] Bien que la copie de l’acte d’achat et de vente original déposée en preuve par l’appelante n’ait pas été entièrement exécutée, il n’est pas contesté qu’il a été conclu par l’appelante avec le constructeur dans l’intention qu’elle acquière l’habitation à titre d’acquéreur et de propriétaire unique. Cet accord a été conclu en 2010, avant que l’habitation soit construite. Il n’existe aucune preuve permettant de croire qu’il ne s’agissait pas d’un accord exécutoire entre l’appelante seule et le constructeur. De fait, l’appelante reconnaît avoir versé le dépôt apparaissant à l’accord d’achat et de vente original (40 000 $) et qu’elle avait pris un engagement personnel à l’égard du solde du prix de vente, qui devait être financé par une institution de prêt hypothécaire. Elle a déclaré qu’elle perdrait le montant du dépôt si elle ne versait pas le solde prévu, financé par un prêt hypothécaire ou autrement.
+[11] La Couronne a également déposé en preuve un accord visant à modifier l’accord d’achat et de vente. L’accord modifié est intervenu le 9 juin 2012, environ un mois avant la date de prise de possession et de transfert de propriété. Le document de transfert de propriété a également été déposé en preuve par la Couronne. L’accord modifié ajoute Mme Richards, comme acheteur sans indiquer la nature ou l’importance de son intérêt dans la propriété prétendument acquise par elle. Le document de transfert de propriété indique que l’appelante détient une participation de 99 % dans l’habitation en cause et que la participation de Mme Richards est de 1 %.
+[12] L’appelante a témoigné qu’à l’approche de la date de clôture, la coopérative d’épargne et de crédit qui devait assurer le financement hypothécaire a exigé qu’une autre personne soit responsable de l’hypothèque. Alors que sa cote de crédit en 2010 était suffisante pour qu’elle n’ait pas besoin d’un tel garant, elle avait diminué à la mi-2012; en raison de circonstances personnelles, elle n’a pas eu d’autre choix que de demander à Mme Richards de cosigner la demande de prêt hypothécaire. La coopérative d’épargne et de crédit a également exigé que le nom de Mme Richards apparaisse sur le titre de propriété à titre de partie au prêt hypothécaire.[3]
+[13] L’appelante et Mme Richards ont toutes les deux indiqué dans leur témoignage qu’il n’avait jamais été question entre elles que Mme Richards acquière un intérêt dans l’habitation en cause. En lui offrant sa cote de crédit, Mme Richards posait un geste de confiance et d’amitié envers l’appelante. Elles étaient comme deux sœurs. Bien que Mme Richards se sente personnellement redevable envers l’appelante – non pas financièrement, mais sous tous les autres aspects – sa confiance et sa foi envers l’appelante l’ont incitée à accepter la responsabilité du prêt hypothécaire, en ayant confiance qu’elle n’aurait pas à engager cette responsabilité. Par conséquent, elle a fait ce qu’on lui a dit qu’elle devait faire. Elle a accepté que son nom apparaisse sur les titres de propriété afin de permettre à l’appelante d’obtenir un prêt hypothécaire. C’est de cette façon qu’elle a compris ce qu’elle faisait. C’est aussi ce que comprenait l’appelante. Elle ne voulait rien de l’appelante en retour.
+[14] En fait, Mme Richards a témoigné qu’elle avait demandé à l’appelante de documenter le fait qu’aucune obligation monétaire ne découlait du fait qu’elle (l’appelante) lui avait accordé ce prétendu intérêt de 1 %. Elle voulait que cela soit indiqué avec certitude dans leurs testaments respectifs, en cas de décès de l’une ou l’autre.
+[15] Le prêt hypothécaire vient à échéance en 2017. La preuve présentée m’a convaincu qu’il ne sera pas nécessaire que Mme Richards soit cosignataire d’un nouveau prêt hypothécaire et qu’elle remettra alors à l’appelante, sans contrepartie, la participation de 1 % inscrite à son nom en 2012. Les attentes et les ententes entre elles se réaliseront.
+III. Alinéa 254(2)a) [16] Cet alinéa stipule que le constructeur doit effectuer une fourniture par vente à Mme Richards pour que celle-ci soit un particulier au sens de la Loi.
+[17] Je suis convaincu que non seulement Mme Richards ne croit pas avoir acquis une participation quelconque dans l’habitation en cause, mais aussi qu’elle n’a en droit aucune propriété effective. C’est ainsi que je conclus qu’il s’agit d’un cas clair dans lequel l’appelante a acquis 100 % de la propriété effective. De façon plus importante, cependant, je conclus qu’il s’agit clairement d’une situation dans laquelle l’appelante a permis qu’un intérêt valable en droit soit enregistré au nom de Mme Richards à titre d’exigence de financement imposée par la coopérative d’épargne et de crédit.
+[18] Ceci soulève la question de savoir si cette permission (d’un transfert de participation de 1 %) constitue une fourniture de l’appelante à Mme Richards, plutôt qu’une fourniture effectuée par le constructeur.
+[19] À mon avis, la fourniture en cause a été faite par l’appelante. L’exécution de l’accord modifié, si même il a constitué un accord contraignant ou pertinent, a été fait à la demande et au bénéfice de l’appelante et de ce fait représente une fourniture faite par l’appelante à Mme Richards. Je ne suis donc pas convaincu par la preuve que le constructeur soit partie à cet accord pour compte propre. Je n’ai aucune raison de croire que le premier accord ne donnait pas à l’appelante le droit d’aliéner ou de céder son intérêt dans l’habitation en cause, qu’elle a acquise en vertu de l’accord original exécuté par elle au moment où le titre de propriété a été enregistré. Elle n’a jamais été en défaut par rapport à ce premier accord et n’a jamais perdu ses droits. Le constructeur n’a pas qualité pour être partie à ce deuxième accord à titre de vendeur ou d’effectuer la fourniture alléguée, sauf si l’appelante le lui permet. Au mieux, le constructeur est son agent. C’est donc dire que la seule fourniture effectuée par le constructeur est celle faite en vertu de l’accord initial. La fourniture d’un intérêt de 1 % a été effectuée par l’appelante. Elle a reçu contrepartie de cette fourniture sous la forme d’une garantie faite par Mme Richards à la coopérative d’épargne et de crédit. Du point de vue de Mme Richards, la garantie est un acte gratuit offert par confiance, amour et affection.
+[20] Cette conclusion devrait par elle-même suffire à conclure que l’appelante est le seul « particulier » dans cette cause. À ce titre, l’appelante a droit au remboursement en vertu du programme de Remboursement de la TPS/TVH pour habitations neuves, et son appel doit être accueilli.
+[21] Cela étant dit, je n’ai pas l’intention de laisser les choses en cet état. Il m’apparaît y avoir bien plus à dire pour appuyer ma conclusion à l’effet que l’appelante est le seul « particulier » dans cette cause. Par exemple, comme je l’ai noté au début de ces motifs, il y a mon jugement à l’effet que l’accord modifié est non exécutoire et inopérant et qu’aucune valeur ne peut lui être accordée.[4]
+[22] En arrivant à cette conclusion particulière, il est important de noter que l’appelante ne s’est pas conformée à l’accord modifié et qu’il est hautement improbable que le constructeur ait eu l’intention qu’il soit respecté. L’étendue et la nature de l’intérêt réputé devoir être transféré ne sont pas indiqués dans l’accord modifié. Il ne fait qu’ajouter le nom de Mme Richards aux acheteurs. Selon la loi, elle pourrait avoir droit d’être considérée comme un propriétaire commun ayant un intérêt indivis dans l’ensemble de la propriété. Comment alors son titre pouvait-il être enregistré comme propriétaire à hauteur de 1 % si l’accord modifié devait être un contrat exécutoire? L’inscription du titre de propriété n’a aucune ressemblance avec l’accord modifié. Le pourcentage et la nature du transfert ont été laissés à l’entière discrétion de l’appelante en vertu de son droit acquis dans le cadre de l’accord original.
+[23] En outre, je ne vois nulle part que Mme Richards ait versé quelque contrepartie que ce soit au constructeur au moment où elle a été ajoutée aux acheteurs. Pris dans l’ensemble, non seulement le constructeur n’a-t-il rien donné dans le cadre de l’accord modifié qui ait été reconnu ou mis en vigueur dans l’enregistrement du titre de propriété, mais il n’en a rien reçu non plus. L’accord modifié ne prévoit expressément aucune contrepartie qui soit la responsabilité de Mme Richards. Le constructeur a déjà reçu de l’appelante une promesse pour la totalité du prix d’achat dans l’accord original, qui n’a pas été rompu. Aucune nouvelle contrepartie ne lui était payable ou n’était payable par lui en vertu de l’accord modifié. L’accord modifié n’accomplit rien de substantiel. En fait, si un tel accord avait été conclu dans le but d’obtenir un avantage fiscal indu, il pourrait être perçu comme une transaction entièrement artificielle – un leurre. Qu’il fasse obstacle à l’obtention d’une mesure incitative voulue serait permette une recaractérisation des véritables liens, droits et obligations juridiques qui existent dans cette affaire.
+[24] J’ai fait mention des intentions du constructeur. Il n’y a aucun élément direct permettant d’inférer les intentions du constructeur à l’égard de sa participation à l’accord modifié.
+[25] Il est bien établi en droit que la formulation explicite d’un contrat n’est pas toujours le facteur primordial dans l’interprétation de ses effets. C’est plutôt l’intention des parties qui devrait prévaloir, et qui prévaut dans la plupart des cas.
+[26] Mme Richards n’avait qu’une intention, et c’était de garantir l’obligation hypothécaire de l’appelante envers la coopérative d’économie et de crédit. La seule partie, autre que l’appelante, qui ait tiré un avantage direct de la garantie et du changement dans le titre de propriété est la coopérative d’économie et de crédit.
+[27] De prime abord à tout le moins, l’ensemble de la preuve tend à démontrer que le constructeur n’avait pas l’intention de conclure un accord exécutoire pour vendre un intérêt de 1 % dans l’habitation visée à Mme Richards. De fait, sous la forme présentée, la preuve appuie l’opinion selon laquelle le constructeur n’avait aucune intention de lier l’appelante de quelque façon que ce soit.
+[28] Bien que ce ne soit pas nécessaire, j’aimerais dire quelques mots sur le fonctionnement de l’alinéa 254(2)a) dans le contexte de cet appel.
+[29] J’aimerais suggérer qu’une lecture possible de l’alinéa 254(2)a) exige qu’une fourniture effectuée par le constructeur à Mme Richards soit faite avec contrepartie pour que celle-ci soit réputée être un particulier au sens de la Loi. L’expression utilisée dans l’alinéa est qu’il doit y avoir une fourniture « effectuée par vente ». Il est curieux que cet alinéa mentionne une « fourniture effectuée par vente » alors que la seule mention de « fourniture » aurait suffi. De plus, les dispositions sur le remboursement elles-mêmes traitent non seulement d’une vente avec contrepartie, mais fixent une limite fondée sur la valeur monétaire de la contrepartie. Qui plus est, l’alinéa 254(2)b) prévoit clairement et expressément que le particulier devient responsable envers le constructeur pour la fourniture. Ayant conclu que Mme Richards ne doit pas être vue comme ayant encouru quelque responsabilité que ce soit envers le constructeur, il me semble, au moins de manière défendable (même si j’avais conclu que le constructeur avait effectué une fourniture à Mme Richards) qu’il n’y a pas eu dans le cas présent le type de fourniture qui aurait fait d’elle un particulier.[5]
+[30] Je ne devrais pas omettre dans ces motifs le fait que la Couronne s’est appuyée sur Al-Hossain c. La Reine,[6] une décision de ce Tribunal. Elle a été citée par la Couronne comme celle se rapprochant le plus, sur le plan factuel, de la cause en l’espèce. Sous plusieurs aspects, le procureur de la Couronne avait raison. Dans ce dossier, un deuxième acheteur, M. K., avait été ajouté avant la clôture de la transaction afin de permettre l’obtention d’un prêt hypothécaire. La preuve de l’intérêt de M. K. repose sur une déclaration faite par lui au moment de la signature de la demande de remboursement. Ce document indique que M. K. possède un intérêt de 0,01 % dans l’immeuble à titre de fiduciaire de M. Al-Hossain, qui est le seul propriétaire bénéficiaire de l’immeuble en cause. Le Tribunal a statué que l’ajout de M. K à titre d’acheteur rendait le propriétaire bénéficiaire à 100 % inadmissible au remboursement.
+[31] Bien que je ne sois pas tenu de suivre cette décision et que je ne sois pas enclin à le faire, je dois noter qu’il existe des facteurs distinctifs, notamment qu’il n’y a aucun doute dans ce cas quant à la réalité de la vente à M. K, incluant la question connexe de l’intention du constructeur. Contrairement au cas en l’espèce, l’avocat du contribuable dans ce dossier a témoigné à l’audience. Il a témoigné que le constructeur (plutôt que le prêteur hypothécaire) a pris l’initiative de suggérer que M. K. soit ajouté comme acheteur.[7] Son témoignage atteste que les parties savaient que le constructeur n’agissait pas uniquement comme agent du contribuable dans ce cas. Dans le cas présent, je n’ai aucune preuve provenant du constructeur et les faits indiquent que les deux dossiers ne sont pas en concordance totale.
+[32] À tout événement, le juge dans ce dossier a considéré comme un fait établi que le contribuable tentait de recaractériser la relation juridique établie par les parties au moment pertinent.
+[33] Je n’ai tiré aucune conclusion factuelle semblable dans le présent dossier.
+[34] Bien que ce soit répétitif, je souhaite insister sur ma conclusion initiale, à l’effet que l’exigence imposée par la coopérative d’épargne et de crédit à l’effet que le nom de Mme Richards apparaisse sur le titre de propriété a été satisfaite par l’appelante au moment ou l’intérêt de 1 % de Mme Richards a été inscrite sur le titre de propriété. L’accord modifié ne change rien à cela. Cela fait en sorte que Mme Richards n’a pas le statut de « particulier » au sens de l’alinéa 254(2)a).
+IV. Paragraphe 262(3)
+[35] Le paragraphe 262(3) vient faire en sorte que tous les acheteurs d’une nouvelle habitation doivent satisfaire aux exigences du paragraphe 254(2). On peut cependant faire valoir qu’il peut faire davantage s’il sert à déterminer le particulier dont il est fait mention au paragraphe 254(2). Même si j’aborderai cette question, elle ne me dissuade pas de suggérer que l’analyse suivante devrait suffire à appuyer ma décision que l’appel de l’appelante doit être accueilli.
+[36] Ce paragraphe 262(3) entre clairement en jeu lorsqu’il y a, comme plaide la Couronne, plus d’un acheteur pour la propriété à laquelle les dispositions de remboursement s’appliquent. On pourrait même dire qu’il s’agit de la disposition opératoire qui exigerait de Mme Richards qu’elle satisfasse aux exigences de remboursement. Ce paragraphe se lit comme suit :
+262. Groupe de particuliers
+(3) Lorsque la fourniture d’un immeuble d’habitation ou d’une part du capital social d’une coopérative d’habitation est effectuée au profit de plusieurs particuliers
+ou que plusieurs particuliers construisent ou font construire un immeuble d’habitation, ou y font ou font faire des rénovations majeures, la mention d’un particulier aux articles 254 à 256 vaut mention de l’ensemble de ces particuliers en tant que groupe.
+Toutefois, seulement l’un d’entre eux peut demander le remboursement en application des articles 254, 254.1, 255 ou 256 relativement à l’immeuble ou à la part.
+[37] Le paragraphe 262(3) fait en sorte que Mme Richards sera tenue de satisfaire aux obligations relatives au remboursement du paragraphe 254(2) si la fourniture d’un immeuble d’habitation lui a été faite ou si elle et l’appelante ont fait construire l’immeuble d’habitation par le constructeur (selon le paragraphe 262(3)).
+[38] Comme l’a mentionné le juge Woods dans Javaid c. La Reine[8], la question de savoir si une fourniture a été effectuée met en jeu la définition d’« acquéreur » au paragraphe 123(1) de la Loi, parce que c’est l’acquéreur, tel que ce terme est défini, qui a reçu la fourniture. Cette disposition se lit comme suit :
+123 Définitions
+(1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X. […]
+« Acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n’est payable pour une fourniture :
+i) personne à qui un bien, fourni par vente, est livré ou à la disposition de qui le bien est mis,
+ii) personne à qui la possession ou l’utilisation d’un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+iii) personne à qui un service est rendu.
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture.[9]
+[39] La portion soulignée ci-dessus a pour effet que Mme Richards doit être un « acquéreur » pour qu’une fourniture lui ait été faite.
+[40] Selon l’alinéa a) de la définition, la question est de savoir si Mme Richards était tenue en vertu de ce contrat de payer la contrepartie de l’immeuble résidentiel. Ceci suppose que l’accord modifié était un véritable contrat exécutoire par lequel le constructeur, de son plein gré, avait vendu un intérêt de 1 % à Mme Richards. Bien que j’aie rejeté cette proposition, je vais poursuivre comme si je ne l’avais pas fait.
+[41] Bien que les tribunaux aient eu l’occasion d’interpréter la responsabilité dans la définition d’« acquéreur », pour autant que je le sache, ils ne l’ont jamais fait dans le contexte du Remboursement de la TPS/TVH pour habitations neuves. Même si je vais faire brièvement mention de la jurisprudence, il n’y a aucun doute dans mon esprit que la question de savoir si Mme Richards était tenue de verser une contrepartie au sens de la définition doit tenir compte de l’intention des parties au contrat modifié, et de l’intention qui sous-tend le paragraphe 262(3) et les dispositions relatives au remboursement.
+[42] Dans Bondfield Construction Co (1983) Ltd c. La Reine,[10] madame la juge Campbell a conclu que l’obligation de payer en vertu de la définition d’ « acquéreur » demandait de déterminer qui était « de manière ultime » responsable du paiement de la fourniture. Dans ce cas, Bondfield avait payé un nouveau sous-traitant afin de corriger le travail non satisfaisant du premier sous-traitant. Bien que Bondfield ait payé le nouveau sous-traitant, l’entreprise a recouvré ses coûts en réduisant le montant payé au premier sous-traitant. La question était alors de savoir si Bondfield était l’entité qui avait versé la contrepartie au nouveau sous-traitant, et qui était par conséquent l’« acquéreur » des fournitures effectuées par le nouveau sous-traitant. Le tribunal a conclu que même si le nom de Bondfield apparaissait sur les factures du nouveau sous-traitant, c’était le premier sous-traitant qui avait accepté la responsabilité du paiement.
+[43] La juge Campbell a clarifié cette notion de responsabilité ultime dans General Motors of Canada Ltd c. La Reine[11], où elle explique que « le fait que, dans la décision Bondfield, j’ai fait référence à la personne « de manière ultime responsable » ne devrait pas être considéré comme voulant dire que la définition de l’acquéreur exige que l’on établisse qui est la personne qui reçoit finalement la fourniture, mais plutôt que l’on établisse qui est la personne qui est de manière ultime responsable, aux termes des conventions, du paiement de la contrepartie. »
+[44] Pour en revenir à l’affaire qui nous intéresse, il est parfaitement clair dans mon esprit que la responsabilité ultime envers le constructeur (quel que soit l’accord considéré) incombe uniquement à l’appelante. La seule responsabilité de Mme Richards était envers la coopérative d’épargne et de crédit. Telle était l’intention des parties (l’appelante, Mme Richards et la coopérative d’épargne et de crédit). Tel que noté plus haut, aucune preuve ne m’a été présentée concernant l’intention du constructeur. Selon la preuve, je suis convaincu que l’appelante libérerait Mme Richards de toute responsabilité pour avoir accepté que son nom apparaisse sur les titres de propriété afin de satisfaire les exigences de la coopérative d’épargne et de crédit. L’appelante a accepté la responsabilité ultime du paiement au constructeur dans l’éventualité peu probable où le constructeur aurait été en mesure de faire une réclamation contre Mme Richards. L’appelante était tenue de rembourser ces coûts à Mme Richards, le cas échéant. De la même façon que Bondfield n’a pas été jugé être un acquéreur, malgré le fait que le nouveau sous-traitant pouvait poursuivre Bondfield plutôt que le premier sous-traitant en cas de non-paiement, je conclus que Mme Richards n’est pas un acquéreur et qu’elle n’est donc pas visée par l’alinéa 262(3)a).
+[45] Bien que j’aie, dans mes conclusions sous le titre précédent, affirmé clairement que l’accord modifié n’était pas suffisant pour soutenir la conclusion que Mme Richards avait une responsabilité quelconque envers le constructeur, il n’est pas nécessaire à mon avis que le test soit aussi rigide. Je suis d’accord avec le raisonnement de la juge Campbell à l’effet qu’il suffirait de conclure que Mme Richards n’avait pas la responsabilité ultime de verser quelque contrepartie que ce soit au constructeur.
+[46] En termes plus généraux, je suis convaincu qu’une partie à un accord d’achat et de vente qui a pour seul objectif, tout au long de la série de transactions, d’aider l’acheteur initial à obtenir un financement et qui n’a au final aucune obligation envers le constructeur n’est pas un « acquéreur » et n’est pas un « particulier » au sens du paragraphe 262(3) ou de l’alinéa 254(2)a). Cette conclusion ne fait qu’aider à assurer que le but des dispositions de remboursement soit atteint. Il n’y a ici aucun méfait devant être traité. L’appelante représente exactement le genre de partie qui devait bénéficier du remboursement prévu au paragraphe 254(2).
+[47] Quant à la question de savoir si le paragraphe 262(3) pourrait s’appliquer à Mme Richards, il n’y a dans la réponse de la Couronne aucun élément probant et aucune hypothèse appuyant une conclusion à l’effet que les conditions énoncées dans ce paragraphe existent en l’instance. De fait, l’intimée n’a pas fait valoir cet argument.
+[48] Cela signifie qu’il n’y a pas en l’espèce de groupe de particuliers au sens de l’alinéa 262(3)(a). L’appelante est donc le seul « particulier » au sens de la Loi à satisfaire à l’ensemble des conditions pour le remboursement.
+IV. Conclusion
+[49] Selon les cas qui m’ont été présentés par l’avocat de l’intimée, et sur lesquels il s’appuie, il semble bien que mon analyse et mes conclusions s’écartent de la voie prise par mes collègues, bien que je ne sois pas le premier à adopter une approche téléologique de l’interprétation et de l’application des dispositions en cause.[12] Bien que certains puissent faire valoir que la formulation des dispositions en cause est suffisamment claire pour ne pas laisser prise à une analyse téléologique, ce n’est pas mon opinion. Mon opinion est que le Parlement n’avait certainement pas l’intention de bloquer cet incitatif économique dans des situations factuelles comme en l’espèce. Ces situations appellent des conclusions qui appuient le versement de l’incitatif. Bien que je ne croie pas que mes conclusions en faits et en droit en l’espèce soient exagérément généreuses, si elles l’étaient, ce ne serait pas inapproprié si le résultat est de donner effet à une loi conférant des avantages.
+[50] Dans Rizzo & Rizzo Shoes Ltd. (Re),[13] la Cour suprême du Canada a avancé :
+Enfin, en ce qui concerne l’économie de la loi, puisque la LNE (Loi sur les normes d’emploi) constitue un mécanisme prévoyant des normes et des avantages minimaux pour protéger les intérêts des employés, on peut la qualifier de loi conférant des avantages. À ce titre, conformément à plusieurs arrêts de notre Cour, elle doit être interprétée de façon libérale et généreuse. Tout doute découlant de l’ambiguïté des textes doit se résoudre en faveur du demandeur. (voir, p. ex., Abrahams c. Procureur général du Canada, [1983] 1 RCS 2, page 10; Hills c. Canada (Procureur général), [1988] 1 RCS 513, page 537). Il m’apparaît qu’en limitant son analyse au sens ordinaire des articles 40 et 40a de la LNE, la Cour d’appel a adopté une approche exagérément restrictive qui n’est pas cohérente avec le but de la Loi.
+[51] Bien que cette cause témoigne de la difficulté d’interpréter le libellé législatif, le sentiment s’applique lorsqu’il est difficile d’en arriver à des conclusions factuelles. Le bénéfice du doute doit être appliqué de manière à assurer que les avantages voulus soient conférés.[14]
+[52] Il n’y a aucune raison de politique possible d’en arriver à une conclusion différente. Le fait que l’ajout d’une personne au titre de propriété afin de satisfaire les exigences d’un prêteur hypothécaire ne devrait pas entraîner la perte du remboursement peut être démontré en examinant quel aurait été le résultat si le nom de Mme Richards avait été ajouté séquentiellement au titre immédiatement après que celui-ci ait été enregistré au seul nom de l’appelante. Dans ce cas, le remboursement n’aurait pas été refusé, puisqu’il n’y aurait eu qu’un seul acheteur – et un seul particulier. La conclusion précitée, qui affirme que Mme Richard n’est pas un particulier produit le même résultat – un résultat cohérent avec les objectifs de la Loi.
+[53] C’est pourquoi, à mon avis, les faits en l’espèce permettent un résultat qui assure l’atteinte des objectifs de la loi.
+[54] Pour l’ensemble de ces motifs, j’accueille donc l’appel, sans dépens.
+Signé à Ottawa, Canada, ce 2e jour de mars 2016.
+« J.E. Hershfield »
+Le juge Hershfield
+RÉFÉRENCE :
+2016 CCI 52
+No DU DOSSIER DE LA COUR :
+2015-831(GST)I
+INTITULÉ :
+SHERYL CROOKS et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 15 décembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge J.E. Hershfield
+DATE DU JUGEMENT :
+Le 2 mars 2016
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 41(2) du Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée DORS/2010-151 (le « Règlement de l’Ontario sur la TVH ») établit les exigences relatives au remboursement connexe de l’Ontario prévu à l’article 256.21 de la Loi. Dans le cas présent, la totalité de la somme de 24 000 $ semble être le remboursement de l’Ontario, puisque le prix d’achat de la résidence dépasse 450 000 $, le plafond pour un remboursement fédéral selon le paragraphe 254(2) de la Loi.
+[2] Pour la portion du remboursement relevant de l’Ontario, la disposition parallèle au paragraphe 262(3) est l’article 40 du Règlement de l’Ontario sur la TVH.
+[3] Si Mme Richards n’était que garante, comme la preuve semble le démontrer, les lois de l’Ontario n’exigent pas que son nom apparaisse sur les titres de propriété pour assurer la garantie. Une telle exigence est plus probablement une précaution supplémentaire prise par les prêteurs hypothécaires pour assurer la collecte des sommes dues en vertu de la garantie en cas de défaut sur le prêt hypothécaire.
+[4] En outre, on pourrait faire valoir qu’il ne serait pas pertinent même s’il s’agissait d’un accord exécutoire, puisque l’article 133 de la Loi stipule que le constructeur a effectué la fourniture au moment de la conclusion de l’accord d’achat et de vente original. On peut soutenir que la fourniture ne peut être effectuée deux fois s’il n’existe aucune preuve à l’effet que le constructeur souhaitait effectuer une nouvelle fourniture. J’aborderai la question des intentions des parties plus loin dans ces motifs.
+[5] En revanche, comme je l’indiquerai plus loin dans les présents motifs, le paragraphe 262(3), qui mentionne uniquement une « fourniture » et non une « fourniture par vente », pourrait mener à une conclusion différente. De même, une définition de « vente » qui inclurait tout transfert de propriété pourrait dicter une conclusion différente. Malgré tout, je soulève cet obiter dictum qui pourrait prêter à controverse afin d’éviter le résultat brutal et non intentionnel d’une approche d’interprétation statutaire stricte. Le recours à une interprétation téléologique du segment « fourniture par vente » comme moyen de donner pleinement effet à un avantage prescrit est justifié, sinon essentiel.
+[6] 2014 CCI 379, [2014] TCJ No 295 [Al-Hassain].
+[7] Al-Hossain, dernière ligne du paragraphe 6.
+[8] 2015 CCI 94, [2015] TCJ No 82.
+[9] L’alinéa c) de la définition d’« acquéreur » ne s’appliquerait pas puisque Mme Richards n’a jamais bénéficié d’aucun des avantages indiqués; l’habitation en cause ne lui a pas été livrée et n’a pas été mis à sa disposition, elle n’en a pas eu la possession ou l’utilisation, et elle n’a jamais été mise à sa disposition.
+[10] 2005 CCI 78, [2005] TCJ No 239.
+[11] 2008 CCI 117 au paragraphe 55, confirmé par 2009 CAF 114 sans discussion.
+[12] Voir à cet égard la décision du juge C. Miller dans Rochefort c. La Reine, 2014 CCI 34, au paragraphe 21.
+[13] [1998] 1 RCS 27 au paragraphe 36, [1998] ACS no 2.
+[14] Il vaut la peine de rappeler que le refus du remboursement s’est extrêmement développé depuis l’introduction de la TVH en Ontario en 2010. L’analyste David Sherman a produit un bon résumé afin d’expliquer pourquoi cette situation a entraîné une augmentation du nombre d’appel relatifs au remboursement pour les habitations neuves. Dans ses commentaires sur le dossier Javaid, M. Sherman écrit : [traduction] « Le remboursement maximal pour la TPS n’a jamais dépassé 8 750 $ et s’établit actuellement à 6 300 $, un montant qui n’est atteint que si la nouvelle habitation coûte exactement 350 000 $. En vertu de la TVH de l’Ontario, cependant, le remboursement provincial en vertu de l’article 256.21 pour toute habitation neuve dont le coût est supérieur à 400 000 $ est de 24 000 $ – si l’acheteur y est admissible. Il y a donc bien plus à gagner en appel. » Parlant des dossiers dans lesquels l’appel a été rejeté, il ajoute : [traduction] « Dans la mesure où le tribunal refuse d’accorder un redressement, ces situations sont injustes. Il ne semble pas y avoir de solution pratique autre que d’inscrire le non-acheteur au titre de propriété. ------Comme je l’ai mentionné précédemment, le ministère des Finances devrait envisager de modifier la loi de manière à mettre fin aux refus de remboursement lorsqu’un tiers est inscrit au titre de propriété aux seules fins du financement ----- Le résultat dans la plupart de ces cas est pénible, particulièrement au vu du montant de remboursement maintenant en jeu en Ontario, et va à l’encontre de l’intention voulue du remboursement. » (voir David M. Sherman, « New Housing Rebates Where Someone Comes on Title to Help with Financing: CRA 2, Homebuyers 1 », commentaires sur l’affaire Javaid c. R, GST et HST Notes de cas no 225 – juillet 2015). Comme le ministère des Finances a été lent à réagir, j’encourage l’ARC à examiner ses pratiques en matière de cotisation et le ministère de la Justice, dans sa réponse à des dossiers de refus du remboursement, à suivre la voie tracée dans les jugements rendus par les juges Woods et Campbell, sinon le mien. Enfin, j’ai fait allusion dans ces motifs à une solution pratique à l’inscription du non-acheteur sur les titres de propriété. Les institutions financières devraient trouver un moyen contractuel d’invoquer une inscription séquentielle des titres. Il n’est pas dans leur intérêt de faire perdre des milliers de dollars à leurs clients.

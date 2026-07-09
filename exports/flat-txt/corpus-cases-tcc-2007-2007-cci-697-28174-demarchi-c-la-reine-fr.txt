@@ -1,0 +1,130 @@
+Title: Demarchi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28174/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-697-28174-demarchi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-11-02
+
+# Demarchi c. La Reine
+
+- Citation: 2007 CCI 697
+- Decision date: 2007-11-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1990, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demarchi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-02
+Référence neutre
+2007 CCI 697
+Numéro de dossier
+2004-3538(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI697
+Date : 20071123
+Dossier : 2004-3538(IT)G
+ENTRE :
+GEORGE ALBERTO DEMARCHI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelant : L’appelant lui‑même
+Avocate de l’intimée : Me Kandia Aird
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+le 2 novembre 2007, à Toronto (Ontario))
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard des années d’imposition 1999 et 2000 de l’appelant et concernent sa demande de déduction de dépenses relatives à la société Global Power s’élevant à 86 928 $ et à 134 755 $, respectivement. Le ministre a non seulement refusé la déduction de ces dépenses, il a aussi réduit les dépenses d’emploi admises à 6 636 $ pour 1999 et à 6 423 $ pour 2000.
+[2] Naturellement, l’appelant ne s’est pas opposé à la nouvelle cotisation établie par le ministre à l’égard de l’année d’imposition 1999 après la fin de la période normale de nouvelle cotisation de trois ans. Cette nouvelle cotisation a d’ailleurs été établie par le ministre en application du paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi »). Je suis du même avis que le ministre quant au fait que l’appelant a fait une présentation erronée de ses revenus totaux de 1999 lorsqu’il a demandé la déduction de dépenses d’entreprise s’élevant à presque 87 000 $ et demandé en trop la déduction de dépenses d’emploi s’élevant à 4 441 $.
+[3] En résumé, les questions en litige sont les suivantes. Pendant les années d’imposition 1999 et 2000, l’appelant travaillait à temps plein à titre de vice‑président de la société eLoyalty (Canada), où il gagnait environ 250 000 $ par année. Dans ses déclarations de revenus, il a déduit de ses revenus plus de 210 000 $ pour les deux années en cause au titre de dépenses d’entreprise à l’égard de ce qu’il décrivait comme étant la Global Power Company (la société « Global »). L’appelant était propriétaire de l’entreprise et il l’a décrite comme une entreprise de [traduction] « production d’énergie et de gestion immobilière ».
+[4] L’organisation de Global n’était pas très claire. Tout d’abord, je trouve que l’entreprise n’avait pas vraiment de lien avec de domaine de la production d’énergie et elle n’était pas constituée en société. L’appelant l’a inscrite comme une entreprise à propriétaire unique en septembre 1997. Il semble que l’appelant l’a établie principalement dans le but de déduire des dépenses personnelles, y compris des salaires versés à ses parents, venus d’Argentine, ou plutôt, en séjour au Canada. L’appelant soutien avoir versé 25 000 $ à chacun de ses parents pendant les deux années d’imposition en cause, ce qui donne un total de 100 000 $. Outre le témoignage de l’appelant, il n’y a aucun élément de preuve indiquant que les parents de celui‑ci ont travaillé pour Global ou même qu’ils ont reçu un salaire.
+[5] D’un point de vue positif pour l’appelant, ce dernier était effectivement propriétaire d’un bien immobilier générant des revenus, et le ministre a admis les dépenses appropriées concernant ce bien. L’appelant était aussi distributeur de vitamines et de produits connexes pour Nature's Sunshine. Même s’il a demandé la déduction de dépenses s’élevant à 2 700 $ pour l’achat des produits de Nature’s Sunshine, il n’a déclaré aucun revenu à cet égard. Nous ne savons pas comment il s’est départi de ces vitamines.
+[6] J’ai eu de la difficulté à cerner quelles étaient les activités menées par Global. L’appelant a bel et bien essayé, à son propre avantage, de mettre sur pied une entreprise en concurrence avec celle de son employeur, eLoyalty. Le témoin de l’intimée, Emile Querel, un ancien employé d’eLoyalty, est venu confirmer ceci et a affirmé que l’appelant avait été forcé de démissionner de son poste pour avoir essayé de mettre sur pied sa propre entreprise en concurrence avec celle de son employeur. Étrangement, l’appelant nie le fait qu’on l’aurait renvoyé.
+[7] L’appelant a aussi présenté des éléments de preuve concernant ses efforts visant à conclure des contrats avec des sociétés. Ces efforts ne se sont soldés par aucune activité commerciale apparente et n’ont engendré aucun revenu. Il a mêlé ses dépenses faites pour Global à ses revenus et ses dépenses concernant son bien immobilier, rendant ainsi la tâche des vérificateurs très ardue.
+[8] M. Demarchi est le seul témoin ayant comparu en son nom. De son côté, l’intimée a appelé deux témoins, soit David Brown, un vérificateur, et Deborah Chapman, une agente des appels. De façon générale, en cas de divergence entre les témoignages présentés par l’intimée et celui de l’appelant, j’accepte les témoignages de Mme Chapman et de M. Brown. Il y a quelques petites exceptions à cette règle, dont le fait que j’accepte le témoignage de l’appelant sur certains points, dont celui voulant qu’il ne connaît pas un certain M. Archibald et que ce dernier n’a jamais habité dans la copropriété de l’appelant en 1999 ou en 2000. En outre, la fiancée de l’appelant n’est pas venue au Canada avant le milieu de l’année 2000, et il se peut que ses parents aient produit des déclarations de revenus pour les années 1999 et 2000. Ces divergences n’ont pas vraiment d’incidence importante sur ma décision finale.
+[9] Les commentaires suivants formulés par le juge Bowman dans la décision Chrabalowski c. La Reine[1] s’appliquent aussi en l’espèce :
+8 Somme toute, il y a probablement, dans les dépenses, des montants qui ont été déduits et qui devraient être admis, mais je ne puis déterminer ces montants parce qu'ils sont inclus dans un grand nombre de déductions non justifiées ou invraisemblables.
+9 L'appelant s'est présenté devant la Cour avec une grosse boîte de reçus. Ces reçus étaient groupés en liasses et les rubans d'additionneuse y étaient joints. Contrairement aux allégations selon lesquelles les autorités fiscales n'ont pas tenu compte des éléments de preuve de l'appelant ou ont traité l'appelant d'une façon inéquitable, je conclus que Mme Lo, la répartitrice de l'impôt qui s'est occupée du dossier, a sérieusement et consciencieusement tenté de rapprocher les déductions et les reçus et qu'elle a amplement donné à l'appelant la possibilité d'organiser les reçus d'une façon ordonnée et compréhensible. Mme Lo a cité plusieurs cas dans lesquels elle a tenté de rapprocher les reçus et les montants qui ont été déduits sous des rubriques précises, mais elle n'a pas réussi à le faire.
+Toute cette citation traduit très bien mon propre point de vue sur les présents appels et sur ce qu’a vécu Mme Chapman. Ce qui suit est une série d’exemples qui explique pourquoi je n’ai aucune difficulté à refuser les déductions demandées par l’appelant.
+[10] Mme Chapman a consciencieusement examiné les diverses factures, d’un montant total de plus de 20 000 $, si je ne m’abuse. Ces factures étaient pêle-mêle et n’avaient pas de lien précis avec une entreprise en particulier. Je vais faire la lecture de la liste écrite à la main que Mme Chapman a dressée de façon aucunement sélective. Les éléments comprennent les 20 premières lignes de la page 1 et les 10 premières lignes de la page 2 de l’onglet 14 de la pièce R-1. Tout d’abord, les éléments de la page 1 :
+[traduction]
+Essence – Canada et États‑Unis
+comprend de la nourriture, des collations,
+des achats en franchise
+Variés
+Télécopies
+Eaton Centre, chocolat Godiva
+Home Depot – serrure à pêne dormant
+Nettoyeur
+Pantoufles
+Chaussures de ville
+Chaussures de maison
+Parfum
+Chaussettes
+Chemises d’apparat
+Cadres
+Eau de Cologne « Lalique for Men »
+Achat à la boutique National Sports
+Achats non identifiés
+Aucun preuve d’achat – aucun reçu, aucun nom
+Revers – retouche de pantalons
+Ensuite, à la page 2, dans la catégorie [traduction] « reçus divers » :
+[traduction]
+Parfum acheté en franchise
+Vitamines, examen de la vue
+Alcool et parfum achetés en franchise
+LCBO
+« Kids' air » – Aéroport Pearson
+Dépanneur
+Chocolats Godiva
+Photos – Zellers
+Télécopie
+Business Depot
+En plus de ces reçus, il y a d’autres éléments qui me mettent la puce à l’oreille quant aux déductions demandées par l’appelant. Comme je l’ai déjà mentionné, il prétend avoir versé 25 000 $ en espèces à sa mère et avoir fait de même pour son père pendant les deux années en cause pour les services qu’ils auraient effectués pour Global. Même s’il se peut que ses parents aient produit des déclarations de revenus comprenant ces montants – mais je n’ai pas vu ces déclarations – ceci n’enlève rien au fait qu’il n’y avait aucun élément de preuve indiquant que ces montants en espèces ont vraiment été versés, et le vérificateur n’a trouvé aucun retrait bancaire correspondant à ces montants. Rien ne venait prouver que les déductions demandées représentaient des dépenses d’entreprise. Comme l’a affirmé le juge Bowman dans la décision Chrabalowski, ceci « me semble plutôt exagéré ».
+[11] De plus, pour l’année d’imposition 2000, l’appelant a demandé la déduction de dépenses s’élevant à 79 074 $ au titre de frais de transport et d’hébergement. Il a affirmé avoir engagé ces frais pour les fins de l’entreprise. En toute équité, il est possible qu’il y avait là un élément d’affaires, mais comme la grande majorité des dépenses semble être de nature personnelle, je ne peux même pas deviner quelles dépenses sont liées à l’entreprise. L’appelant avait de la famille en Argentine, et sa fiancée était elle aussi en Amérique du Sud. C’est à l’appelant qu’il incombait de prouver qu’il menait bel et bien des activités commerciales qui pourraient justifier des dépenses de 79 000 $ en matière de transport. Il n’a pas séparé ses prétendues dépenses d’entreprise de ses revenus et de ses dépenses relatives à son bien immobilier, et même peut-être de ses dépenses relatives à Nature's Sunshine. Il n’a pas fourni beaucoup d’information pour appuyer sa position. Le ministre n’avait donc pas d’autre choix que d’essayer de faire le tri dans l’amalgame de factures. Tout comme le ministre, je crois que l’appelant a fait ceci délibérément. Il a demandé la déduction de frais d’automobile et d’autres frais que son employeur lui avait remboursés.
+[12] De plus, l’appelant a modifié un formulaire T2200 produit pour son année d’imposition 2000. Il prétend que le ministre a perdu certains de ces documents, mais je n’accorde pas beaucoup d’importance à cette prétention. Quoi qu’il en soit, d’autres paperasseries du même genre qui avaient déjà été produites n’aiderait en rien. Le paragraphe 230(1) de la Loi oblige l’appelant à tenir des registres appropriés.
+[13] En résumé, le ministre et moi‑même n’avons pas été en mesure d’établir quelles étaient au juste les activités menées par l’entreprise de l’appelant pour laquelle il prétend avoir dépensé plus de 200 000 $ pendant les deux années en cause, sans toutefois avoir de revenus à déclarer. Rien n’est venu prouver ou même indiquer qu’il avait un comptable, même s’il a dit que son comptable avait affirmé que les mesures prises par le vérificateur étaient ridicules. De surcroît, l’appelant a indiqué que 90 % de l’utilisation de sa voiture était aux fins de l’entreprise, même s’il avait un emploi à temps plein et qu’il était remboursé dans une certaine mesure par son employeur. De toute évidence, il ne tenait pas de registre.
+[14] Une autre citation tirée de la décision Chrabalowski représente bien mes propres conclusions en l’espèce. Le juge en chef Bowman a indiqué ce qui suit :
+12 Un problème auquel fait face l'appelant dans ce genre de cas est que, s'il y a une série de dépenses excessives, invraisemblables ou déraisonnables, la chose laisse planer un doute sur toutes les dépenses. En d'autres termes, une fois qu'une tendance à l'invraisemblance ou au caractère excessif est établie, la Cour est portée à examiner avec plus de soin des dépenses qui, isolément, pourraient être justifiables. Bref, toute lacune de la preuve est comblée, et tout doute est résolu, d'une façon qui est compatible avec la tendance. J'ai examiné ce point d'une façon plus détaillée dans la décision Orly Automobiles Inc. v. The Queen, [2004] G.S.T.C. 57. Le fait que certains aspects du témoignage d'un témoin ne sont pas satisfaisants ne signifie pas que le témoignage doit être rejeté dans son ensemble. Dans un cas comme celui qui nous occupe, lorsque la preuve est à la fois complexe et contradictoire, le juge des faits doit s'efforcer de parvenir à des conclusions fondées sur la preuve dans son ensemble. Cela impliquera, de toute évidence, l'examen du comportement des témoins ainsi que l'appréciation de la vraisemblance ou de l'invraisemblance des témoignages à la lumière d'autres éléments de preuve. Le témoin Mme Turcotte a parlé à plusieurs occasions d'un « pattern » (façon habituelle de faire). Fonder des conclusions de fait sur un système ou un type habituel de comportement, un modus operandi si l'on préfère, est quelque chose qui doit se faire avec précaution. D'abord, il doit y avoir une preuve convaincante qu'une façon habituelle de faire existe. Ensuite, la Cour doit prendre garde de se fonder de façon excessive sur la façon habituelle de faire simplement comme moyen de combler des lacunes présentes dans la preuve, même si cela peut jouer un rôle limité à cet égard. Ce qui est important c'est que la détermination et la formulation d'une façon habituelle de faire peuvent être utilisées comme pierre de touche pour vérifier les conclusions de fait. Si elles sont compatibles avec une façon habituelle de faire, elles ont plus de chances d'être exactes. Inversement, il convient d'être sceptique à l'égard de conclusions de fait qui ne sont pas compatibles avec une façon générale de faire. Bien entendu, je ne parle pas de la preuve de faits similaires du droit criminel, sur laquelle il existe un grand nombre de décisions. Tenir compte d'une façon habituelle de faire aux fins quelque peu limitées que j'ai indiquées ci-dessus, pour s'aider dans des affaires civiles, à formuler ou à vérifier des conclusions de fait, est, à mon avis, approprié dans la mesure où on ne va pas trop loin. Dans des affaires civiles, les tribunaux ont considéré la preuve de l'existence d'un système ou d'une méthode comme probante sur diverses questions, comme l'indiquent Sopinka, Lederman et Bryant, dans Evidence, deuxième édition […]
+[15] Dans ses observations, l’appelant a dit avoir trouvé des défauts dans plusieurs conclusions tirées et mesures prises par le ministre. Je ne crois pas qu’il soit vraiment utile d’examiner ceci plus en profondeur. Le vérificateur et l’agente des appels du ministre ont fait de leur mieux compte tenu des dossiers et des éléments de preuve dont ils disposaient. Ma décision demeure la même, et ce, pour les mêmes motifs que ceux qui ont déjà été exposés.
+[16] Les appels sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 10e jour de janvier 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI697
+N° DE DOSSIER : 2004-3538(IT)G
+INTITULÉ : GEORGE ALBERTO DEMARCHI et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 2 et 3 octobre 2006,
+le 31 octobre et le 2 novembre 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 13 novembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Kandia Aird
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2004 CCI 644.

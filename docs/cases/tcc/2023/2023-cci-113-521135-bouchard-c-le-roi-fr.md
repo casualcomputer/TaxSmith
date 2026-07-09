@@ -1,0 +1,162 @@
+---
+title: "Bouchard c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521135/index.do"
+last_modified: "2023-08-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 113"
+citation2: ""
+neutral_citation: "2023 CCI 113"
+decision_date: "2023-08-04"
+language: "fr"
+item_id: "521135"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5851
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:04:01.482000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7571328b1d5d7bea365ad155c9521ccbb541296a248a75ec1fe072da41fe68f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard c. Le Roi
+
+- Citation: 2023 CCI 113
+- Decision date: 2023-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-04
+Référence neutre
+2023 CCI 113
+Numéro de dossier
+2018-4365(IT)G
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4365(IT)G
+ENTRE :
+MARIE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête écrite de l’intimé déposée le 21 mars 2023 en vertu de l’article 172 des Règles de la Cour canadienne de l'impôt (Procédure générale) suite au jugement de rejet découlant du dépôt d’un avis de désistement
+Parties :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Vlad Zolia
+JUGEMENT
+APRÈS AVOIR PRIS CONNAISSANCE de l’avis de requête déposé par l’intimé le 21 mars 2023, des prétentions écrites de l’intimé jointent au soutien de la requête et des prétentions écrites de l’appelante en date du l1 juin 2023 et 11 juillet 2023 :
+LA COUR ORDONNE, conformément aux motifs ci-joints, ce qui suit :
+la requête de l’intimé est accueillie en vue de modifier le rejet de l’avis d’appel en application de l’article 16.2 de la Loi sur la Cour canadienne de l’impôt;
+à cette fin, l’appel de l’appelante est accueilli en partie et la cotisation en litige est déférée à la ministre du Revenu national pour nouvel examen et nouvelle cotisation à la seule et unique fin de donner suite à l’admission de l’intimé de réduire de 19 402,10 $ le montant cotisé en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu dans le présent appel;
+le tout sans frais.
+Signé à Montréal, Québec, ce 4e jour d'août 2023.
+« J.M. Gagnon »
+Juge Gagnon
+Référence : 2023 CCI 113
+Date : 20230804
+Dossier : 2018-4365(IT)G
+ENTRE :
+MARIE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+[1] L’appelante a présenté un acte de désistement de son appel le 22 février 2023 avant la date prévue de l’audience d’une requête déposée le 26 septembre 2022 par l’intimé. Le greffe de la Cour a traité le désistement conformément aux dispositions du paragraphe 16.2(2) de Loi sur la Cour canadienne de l’impôt, LRC (1985), ch T-2, telle que modifiée (Loi). En conséquence, aucune suite n’a été donnée à ladite requête.
+[2] Le 21 mars 2023, l’intimé a déposé une nouvelle requête écrite en vertu de l’article 172 des Règles de la Cour canadienne de l'impôt (Procédure générale), DORS/90-688, telle que modifiées (Règles) afin d’obtenir une décision ordonnant la ministre du Revenu national de modifier l’avis de cotisation en appel suite à une admission de l’intimé et malgré le désistement de l’appelante.
+[3] L’appelante s’oppose à la requête de l’intimé.
+[4] La position de l’intimé est à l’effet que le 26 septembre 2022 ce dernier a déposé un avis de requête en vertu des articles 4, 64, 65, 69 et 170.1 des Règles. Cette requête en rejet d’appel faisait notamment mention d’une demande afin que la ministre du Revenu national soit ordonnée de réduire la cotisation en litige émise à l’appelante en vertu du paragraphe 160(1) de Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e suppl), telle que modifiée (LIR) de 390 022 $ à 370 619,90 $, soit d’un montant de 19 402,10 $. Telle qu’annexée à l’avis de requête, cette concession partielle faisait suite à une erreur découverte par l’intimé au moment de la préparation de l’interrogatoire au préalable. Cette erreur a été signalée à l’appelante et entraînerait une réduction de la cotisation en appel du montant de 19 402,10$.
+[5] L’audition de la requête en rejet d’appel de l’intimé devait se tenir le 6 mars 2023. Cependant, le 22 février 2023, l’appelante a déposé au greffe de la Cour un avis de désistement, accepté par l’intimé sans frais le 27 février 2023. L’acceptation de l’intimé demandait que le tribunal tienne compte de son admission décrite plus haut. La présente requête fut déposée pour donner suite à cette demande.
+[6] L’intimé est d’avis que le tribunal n’a pas eu l’occasion de statuer sur l’admission de l’intimé. L’admission est contenue au dossier de la Cour et est directement liée à la question en litige. L’intimé suggère que l’alinéa 172(1)b) des Règles autorise l’intervention de la Cour. L’intimé réfère la Cour à la décision de la Cour d’appel fédérale dans Scarola c Canada, 2003 CAF 157 (Scarola).
+[7] L’appelante est non représentée depuis le 3 février 2020. Elle a fait parvenir à la Cour en date du 9 mai 2023 une lettre adressée à l’avocat de l’intimé, et des prétentions écrites en date du 11 juin 2023 adressées à la Cour en réponse à la requête de l’intimé du 21 mars 2023. Bien que les prétentions écrites font référence à une requête, la Cour comprend qu’il s’agit de la position de l’appelante en réponse à la requête de l’intimé. La Cour n’est pas saisie d’une autre requête mais bien d’une seule requête à l’égard de laquelle la Cour a obtenu la position de chaque partie. Enfin, l’appelante a fait parvenir à la Cour une dernière correspondance en date du 11 juillet 2023 demandant une décision finale sur la requête de l’intimé.
+[8] Après avoir fait état de circonstances entourant l’historique du présent dossier, l’appelante soumet respectueusement que, suite aux désistements des 2 parties, la Cour n’a plus de juridiction pour accorder une réduction de la dette de son ex-conjoint et non la dette de l’appelante. L’appelante n’aurait jamais été cotisée et en conséquence un avis d’appel n’était pas requis. Pour l’appelante, le dossier de la Cour est fermé. Le fisc cherche à obtenir paiement d’une dette qui n’est pas la sienne.
+[9] Aux fins de considérer la présente requête de l’intimé, la Cour retient de la position de l’appelante que la Cour n’a plus de juridiction depuis que l’appelante a déposé au greffe de la Cour un avis de désistement de son avis d’appel. En conséquence, l’appelante est d’avis que la Cour n’a pas le pouvoir d’accorder les demandes de l’intimé.
+[10] Dans le cas présent, le désistement de l’avis d’appel déposé par l’appelante le 22 février 2023 et traité par le greffe de la Cour à ce titre, est visé par les dispositions de l’article 16.2 de la Loi :
+Désistement
+16.2 (1) La partie qui a engagé une procédure devant la Cour peut en tout temps s’en désister par avis écrit.
+Conséquence du désistement
+(2) Le désistement équivaut au rejet de la procédure en cause à la date à laquelle la Cour reçoit l’avis de désistement.
+[11] Compte tenu de l’article 16.2 de la Loi, le greffe a traité l’acte de désistement de l’appelante en mettant fin à l’appel de l’appelante, sans frais. Cette procédure n’a pas requis l’émission d’un jugement de la Cour et la Cour n’a pas eu à statuer sur la requête de l’intimé déposée le 26 septembre 2022 demandant notamment à la Cour de considérer une réduction dans le présent dossier de la cotisation du paragraphe 160(1) LIR d’un montant de 19 402,10 $.
+[12] La décision Scarola de la Cour d’appel fédérale représente une décision phare quant à la détermination de l’effet et de la portée de l’article 16.2 de la Loi et l’application de l’article 172 des Règles eu égard aux rejets visés à l’article 16.2.
+[13] Dans l’affaire Scarola, la Cour d’appel fédérale caractérise l’effet et la portée de l’article 16.2 et introduit l’article 172 des Règles comme suit :
+La portée et l'effet de l'article 16.2 de la Loi
+[19] L'article 16.2 de la Loi est une disposition déterminative qui crée une fiction juridique. Comme l'a dit M. le juge Beetz dans l'arrêt R. c. Verrette, 1978 CanLII 208 (CSC), [1978] 2 R.C.S. 838, à la page 845 «[u]ne disposition déterminative est une fiction légale; elle reconnaît implicitement qu'une chose n'est pas ce qu'elle est censée être, mais décrète qu'à des fins particulières, elle sera considérée comme étant ce qu'elle n'est pas ou ne semble pas être» …
+[20] …
+[21] Conformément au paragraphe 16.2(2), un désistement constitue un rejet. L'appel qui est rejeté est un appel sur lequel il a été statué, et l'appel sur lequel il a été statué n'existe plus: voir Lehner c. M.R.N., 1997 CanLII 4994 (CAF), [1997] 2 C.T.C. 309 (C.A.F.), au paragraphe 2, le juge Pratte. Le paragraphe 16.2(2) fait du dépôt d'un avis de désistement un rejet par interprétation analogue à un véritable rejet. En d'autres termes, le désistement, par suite de cette disposition, acquiert tous les attributs d'un rejet. Il a le même effet qu'un jugement par lequel la Cour rejette l'appel, quoique l'effet soit obtenu par la simple application de la fiction juridique. Dans un cas comme dans l'autre, les pouvoirs de la Cour sont épuisés: le décideur est dessaisi. Un rejet, réputé ou réel, est une décision définitive qui met fin à l'affaire, sauf dans certaines circonstances telles que la fraude ou un pouvoir prévu par la loi autorisant le décideur à conserver ou à acquérir de nouveau le pouvoir perdu.
+[22] L'article 172 [mod. par DORS/96-503, art. 4] des Règles de la Cour canadienne de l'impôt (Procédure générale) [DORS/90-688], qui est souvent désigné sous le nom de règle du «lapsus», prévoit pareil pouvoir. Il permet à la Cour d'annuler ou de modifier un jugement lorsque les conditions qui y sont énoncées sont remplies: …
+(nos soulignements)
+[14] Dans la même décision, la Cour d’appel fédérale ajoute au sujet de permettre l’application de l’article 172 des Règles aux désistements visés à l’article 16.2 de la Loi :
+[24] Comme c'est souvent le cas, les fictions juridiques ne s'intègrent pas parfaitement bien ou pleinement avec les autres dispositions législatives pertinentes existantes. Il faut parfois faire les ajustements nécessaires pour combler les lacunes ou pour éviter des disparités ou des injustices possibles. L'article 172 des Règles confère à la Cour la compétence voulue pour modifier ou pour annuler tout jugement qu'elle a rendu, y compris un jugement rejetant une affaire. Comme il en a déjà été fait mention, la fiction juridique fait d'un désistement un rejet. Ce rejet emporte le même effet qu'un jugement de rejet rendu par la Cour. Cela équivaut de fait à un jugement de rejet sur consentement.
+[25] Afin de permettre l'application des dispositions correctives restreintes de la règle 172, je suis prêt à donner un effet complet et cohérent à la fiction juridique créée par le paragraphe 16.2(2) et à combler la lacune créée par le libellé de la disposition en question et de l'article 172 des Règles. Je ne crois pas qu'il soit contraire à l'intention du législateur de conclure que le rejet prévu au paragraphe 16.2(2) doit être traité comme un jugement de rejet auquel l'article 172 des Règles s'applique si les conditions nécessaires sont remplies.
+(nos soulignements)
+[15] De ces extraits, la Cour conclut que la Cour d’appel fédérale confirme le pouvoir de la Cour d’intervenir dans le jugement de rejet de l’appel dans le présent dossier suite au désistement de l’appelante, sous réserve que les conditions d’application du paragraphe 172 des Règles soient rencontrées.
+[16] Considérant ce qui précède, et nonobstant l’effet de l’avis de désistement de l’appelante aux fins de son avis d’appel, la Cour conserve sa juridiction aux fins précises de considérer et de décider d’une requête d’une partie déposée en vertu de l’article 172 des Règles. Il ne s’agit pas pour la Cour de rouvrir l’avis d’appel de l’appelante mais de pouvoir considérer une modification ou un changement du résultat qu’a entraîné le rejet de l’avis d’appel, en conformité avec et dans le cadre permis de l’article 172 des Règles.
+[17] L’article 172 des Règles se lit comme suit :
+Annulation ou modification du jugement en raison d’erreurs — Général
+172 (1) Le jugement qui :
+a) comporte une erreur découlant d’un lapsus ou d’une omission;
+b) doit être modifié relativement à une question sur laquelle la Cour n’a pas statué,
+peut être modifié par la Cour, sur demande ou de son propre chef.
+(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+[18] L’effet direct du paragraphe 16.2(2) de la Loi dans le cas présent est que le tribunal n’a pas eu à intervenir ou même rendre jugement compte tenu de la fiction juridique qui s’applique sans autre formalité du tribunal. La Cour note qu’elle n’a donc pas eu à statuer sur aucun des aspects de la requête de l’intimé déposée le 26 septembre 2022. Dans ce contexte, mais sans formellement exclure les autres dispositions de l’article 172 des Règles, la Cour préfère s’en remettre à l’alinéa 172(2)c) pour trancher la requête de l’intimé.
+[19] L’alinéa 172(2)c) des Règles, combiné aux propos de la Cour d’appel fédérale dans l’affaire Scarola, ouvre la porte à une mesure de redressement différente de celle déjà accordée par la Loi sans que l’alinéa lui-même limite la portée de ce redressement à un jugement provenant de la Cour ou découlant de la fiction juridique de l’article 16.2 de la Loi. Dit autrement, l’alinéa 172(2)c) s’applique sans égard à l’origine du jugement.
+[20] De plus, l’ouverture de la Cour d’appel fédérale notée plus haut de donner un effet complet et cohérent à la fiction juridique créée par le paragraphe 16.2(2) de la Loi et combler la lacune créée par le libellé du paragraphe et l’article 172 des Règles s’harmonise et s’intègre ainsi davantage pour permettre à la Cour d’intervenir en vertu de l’alinéa 172(2)c) dans le cadre d’un jugement sur rejet. La Cour réfère ici aux propos de la Cour d’appel fédérale repris au paragraphe 14 des motifs.
+[21] Il doit être précisé que si un jugement prenant effet ou non en vertu des dispositions du paragraphe 16.2(2) de la Loi était admissible à un changement visé à l’article 172 des Règles, nécessairement le jugement sera adapté pour refléter la mesure retenue par la Cour. Dans un tel cas, un jugement par rejet ne peut demeurer inchangé.
+[22] La Cour est d’avis que l’alinéa 172(2)c) des Règles est applicable à l’avis de requête tel que présenté par l’intimé. La demande de redressement au jugement réputé de l’article 16.2 de la Loi sera accueillie. Dans les circonstances du présent cas, donner suite à la demande ne constitue pas une déconsidération de l’administration de la justice. Il apparait juste et souhaitable de donner suite à l’admission de l’intimé de réduire le montant de la cotisation en appel. L’admission de l’intimé de réduire le montant de la cotisation en litige est connue des parties avant la date de l’avis de désistement déposé par l’appelante, l’intimé a déjà avant cette date manifesté la volonté que cette admission soit considérée par la Cour et les conséquences en résultant soient accordées à l’appelante.
+[23] Considérant ce qui précède, la Cour ordonne que le jugement rendu par suite du rejet de l’avis d’appel de l’appelante en vertu de l’article 16.2 de la Loi soit modifié de sorte que l’appel logé par l’appelante sera partiellement accueilli à la seule et unique fin de déférer le présent dossier à la ministre du Revenu national pour nouvel examen et nouvelle cotisation afin de donner suite à l’admission partielle de l’intimé et réduire la cotisation du paragraphe 160(1) LIR d’un montant de 19 402,10 $, sans frais.
+Signé à Montréal, Québec, ce 4e jour d'août 2023.
+« J.M. Gagnon »
+Juge Gagnon
+RÉFÉRENCE :
+2023 CCI 113
+Nº DU DOSSIER DE LA COUR :
+2018-4365(IT)G
+INTITULÉ DE LA CAUSE :
+MARIE BOUCHARD ET SA MAJESTÉ LE ROI
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+le 4 août 2023
+PARTIES :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l'intimé :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

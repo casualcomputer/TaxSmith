@@ -1,0 +1,225 @@
+---
+title: "Lyon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/310824/index.do"
+last_modified: "2018-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 89"
+citation2: ""
+neutral_citation: "2018 CCI 89"
+decision_date: "2018-05-08"
+language: "fr"
+item_id: "310824"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4695
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:55:29.294000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b2d49bc493a9e8eb34ee8b61661482f1749e7987fd5c5a2b5ae4fe9d4417a510"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lyon c. La Reine
+
+- Citation: 2018 CCI 89
+- Decision date: 2018-05-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4695, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lyon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-08
+Référence neutre
+2018 CCI 89
+Numéro de dossier
+2017-10(EI), 2017-9(CPP)
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2017-9(CPP)
+2017-10(EI)
+ENTRE :
+KEARSTEN M. LYON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 28 novembre et 5 décembre 2017, à Toronto (Ontario)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocat de l’appelante :
+Me Jordan Reiner
+Avocate de l’intimée :
+Me Kieran Lidhar
+JUGEMENT
+Conformément aux motifs de jugement ci-joints, les appels sont accueillis au motif que l’appelante exerçait un emploi assurable et donnant droit à pension conformément aux dispositions des paragraphes 6(1) et 5(1) du Régime de pensions du Canada et de la Loi sur l’assurance-emploi, respectivement.
+Signé à Ottawa, Canada, ce 8e jour de mai 2018.
+« Guy Smith »
+Le juge Smith
+Référence : 2018 CCI 89
+Date : 20180508
+Dossiers : 2017-9(CPP) 2017-10(EI)
+ENTRE :
+KEARSTEN M. LYON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. INTRODUCTION
+[1] Il s’agit d’un appel interjeté par Kearsten M. Lyons (l’« appelante ») à l’encontre d’une décision du ministre du Revenu national (le « ministre) datée du 1er décembre 2016 et établissant qu’elle n’exerçait pas d’emploi donnant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada, L.R.C. 1985, c. C­8, ou d’emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, L.C. 1985, c. 23.
+[2] La question en litige dans le présent appel est de savoir si l’appelante travaillait pour Peter Tzakas, (le « payeur ») aux termes d’un contrat de service ou d’un contrat de louage de services pendant la période du 1er janvier 2015 au 18 juin 2016.
+II. EXPOSÉ DES FAITS
+[3] Le payeur est un chiropraticien autorisé qui dirige une clinique de soins de santé multidisciplinaires offrant des services de chiropratique, de physiothérapie, de massothérapie, d’acupuncture, de Pilates et de naturopathie. L’établissement est connu sous le nom de Kinetica Health Group (« Kinetica »).
+[4] L’appelante a commencé à travailler pour Kinetica en 2008 à titre de réceptionniste et d’administratrice de bureau. Ses tâches comprenaient du travail de bureau courant, la facturation, les réponses aux appels et aux courriels des clients ainsi que la prise de rendez-vous et un entretien ménager léger des lieux.
+[5] Il n’existait pas d’entente écrite entre les parties, mais une entente de confidentialité a été signée au début de la relation de travail. Cette entente est datée du 21 août 2008.
+[6] En 2010, l’appelante a commencé à assumer des responsabilités supplémentaires. Après une formation, elle a pu travailler comme assistante en chiropratique et en physiothérapie, fonction également appelée « aide en réadaptation », et plus tard, comme instructrice certifiée en Pilates.
+[7] À titre d’assistante en chiropratique et en physiothérapie, elle accompagnait les patients dans leurs programmes d’exercices établis par le chiropraticien ou le physiothérapeute traitant. Bien qu’ayant une certaine latitude quant aux exercices en tant que tels, elle était supervisée par le professionnel traitant.
+[8] Par exemple, à titre d’assistante certifiée en physiothérapie, elle devait respecter les règles et règlements établis par l’Ordre des physiothérapeutes. Plus précisément, il est clairement établi dans la norme Standard for Professional Practise: Physiotherapists Working with Physiotherapists Assistants (pièce A­3) que le clinicien demeure responsable des soins du patient et doit [traduction] « assurer une supervision adéquate selon l’état du patient, le milieu clinique, les capacités de l’assistant en physiothérapie et tout autre facteur pertinent ». Elle occupait manifestement un poste de subordonnée. En cas de difficulté, elle devait demander des directives au professionnel de la santé traitant.
+[9] Des règles semblables encadraient ses services à titre d’assistante en chiropratique, mais elle avait davantage de latitude lors des séances de Pilates compte tenu de son accréditation d’instructrice. Étant donné qu’il ne s’agit pas d’un service considéré comme étant médical, elle n’était pas supervisée par l’éventuel professionnel de la santé traitant.
+[10] De 2008 au 1er janvier 2016, l’appelante était rémunérée à titre d’entrepreneure indépendante. Au départ, elle était rémunérée à un taux de 15 $ de l’heure pour ses services de réceptionniste, d’adjointe de bureau et d’administratrice. Au fil de sa formation, de son perfectionnement et de son acquisition de compétences à titre d’assistante en chiropratique et en physiothérapie, un barème des honoraires a été établi et elle recevait un pourcentage fixe des frais facturés aux patients pour les programmes d’exercices (60 % dans le cas de services de chiropratique et 40 % dans le cas de services de physiothérapie). Elle recevait un pourcentage plus élevé pour les séances de Pilates.
+[11] Tous les membres du personnel de Kinetica, y compris l’appelante (mais à l’exception des professionnels de la santé) étaient rémunérés selon une feuille de temps appelée « feuille de rémunération », sur laquelle étaient consignées les heures travaillées. Le payeur pouvait ajuster la feuille de temps s’il n’était pas d’accord avec les renseignements qu’elle contenait.
+[12] En 2016, après avoir retenu les services d’un comptable pour remplir sa déclaration de revenus en retard, l’appelante a été avisée qu’elle aurait dû facturer la TPS. Par la suite, l’appelante a demandé un numéro de TPS et rempli un formulaire de divulgation volontaire auprès de l’Agence de revenu du Canada (« ARC ») relativement aux montants de TPS non versés.
+[13] L’appelante a abordé la question avec le payeur et l’a avisé qu’elle allait devoir facturer à Kinetica, de manière rétroactive, les montants de TPS impayés. En avril 2016, il a été convenu mutuellement que l’appelante (ainsi que d’autres membres du personnel de la clinique) deviendrait une employée de Kinetica de façon rétroactive en date du 1er janvier 2016 et que toutes les retenues à la source nécessaires, y compris celles de l’AE et le RPC, seraient comptabilisées et versées. Toutefois, cette entente a été de courte durée en raison d’une querelle qui a mené au congédiement de l’appelante en date du 18 juin 2016.
+[14] L’appelante nie désormais avoir travaillé à titre d’entrepreneure indépendante et affirme qu’elle travaillait comme employée ou aux termes d’un contrat de louage de services depuis le début de la relation de travail, en 2008.
+III. LOI ET ANALYSE
+[15] Le critère pertinent pour déterminer si une personne fournit des services à titre d’employé ou d’entrepreneur indépendant a été exprimé sous la forme d’un processus de deux étapes selon lequel la Cour doit d’abord tenir compte de l’intention subjective de chacune des parties à la relation de travail, puis analyser la relation de travail en tant que telle pour déterminer si elle correspond objectivement à cette intention : 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National), 2013 CAF 85 (« Connor Homes »).
+[16] Ce critère a été formulé comme suit :
+[33] Par conséquent, la jurisprudence de Royal Winnipeg Ballet enseigne que le premier point à prendre en considération est celui de savoir s’il y a chez les parties une entente ou une intention commune touchant leur relation. Lorsque l’on constate une telle intention commune, qu’elle soit d’établir une relation de client à entrepreneur indépendant ou d’employeur à employé, il convient d’appliquer le critère consacré par la jurisprudence Wiebe Door en examinant les facteurs voulus à la lumière de cette intention afin d’établir si, tout bien pesé, les faits pertinents cadrent avec celle‑ci et la confirment […].
+i) Intention commune des parties
+[17] Ce facteur s’est avéré déterminant dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national), 2006 CAF 87 (« Royal Winnipeg Ballet »), dans lequel les parties convenaient que les danseurs de ballet étaient des travailleurs indépendants :
+[63] Ce qui est inhabituel en l’espèce, c’est qu’il n’y a pas d’accord écrit qui vise à qualifier la relation juridique existant entre les danseurs et le RWB, et que, parallèlement, les parties s’entendent sur ce qu’elles croient être la nature de leur relation. La preuve révèle que le RWB, la CAEA et les danseurs pensaient tous que les danseurs étaient des travailleurs indépendants et qu’ils avaient agi en conséquence. Le litige portant sur la nature de la relation juridique existant entre les danseurs et le RWB vient du fait qu’un tiers (le ministre), qui a un intérêt légitime à ce que la relation juridique soit correctement qualifiée, souhaite faire écarter le témoignage des parties au sujet de leur intention commune parce que ce témoignage n’est pas compatible avec les faits objectifs.
+[64] Dans les circonstances, il me semble qu’il serait contraire aux principes applicables de mettre de côté, en le considérant comme dépourvu de toute force probante, le témoignage non contredit des parties quant à la façon dont elles comprennent la nature de leur relation juridique, même si ce témoignage ne saurait être déterminant. Le juge aurait dû examiner les facteurs de l’arrêt Wiebe Door à la lumière de ce témoignage non contredit et se demander si, dans l’ensemble, les faits étaient compatibles avec la conclusion selon laquelle les danseurs étaient des travailleurs indépendants, comme les parties le pensaient, ou s’ils étaient davantage compatibles avec la conclusion selon laquelle les danseurs étaient des employés. C’est parce que le juge n’a pas adopté cette approche qu’il en est arrivé à une conclusion erronée.
+(Non souligné dans l’original.)
+[18] Dans la décision antérieure Wolf c. Canada, 2002 CAF 96, le fait que le travailleur en question se considérait comme un travailleur indépendant (« un ingénieur mécanique spécialisé en aérospatiale ») a été largement souligné. La Cour était d’avis que l’intention expresse des parties devrait généralement l’emporter au moment de déterminer si la relation en est une d’employeur-employé ou de travailleur indépendant. La Cour a fait l’observation suivante :
+[120] De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l’embauche ne veut pas avoir de responsabilités envers un travailleur si ce n’est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l’on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d’emploi, le peu d’égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[19] En l’espèce, l’intention déclarée par les parties et la façon dont elles qualifient légalement leur relation de travail ont toutes deux changé radicalement au fil du temps. Quand elle a commencé à travailler à Kinetica, l’appelante accomplissait des tâches de nature administrative et touchait une rémunération horaire comme d’autres membres du personnel. Puisque les deux parties étaient d’accord pour dire qu’elle était une entrepreneure indépendante, aucune retenue à la source n’était nécessaire pour l’impôt sur le revenu, le RPC ou l’AE.
+[20] Tandis que le rôle de l’appelante a changé au fil du temps et qu’elle a acquis des compétences à titre d’aide en réadaptation et offert plus tard des séances de Pilates, la relation juridique s’est poursuivie et elle a continué d’être rémunérée à titre d’entrepreneure indépendante.
+[21] Les éléments de preuve indiquent clairement que jusqu’en 2016, l’appelante croyait être une entrepreneure indépendante, comme en témoignent son enregistrement aux fins de la TPS, sa tentative de facturer la TPS au payeur de manière rétroactive et la transmission d’un formulaire de divulgation volontaire à l’ARC pour la TPS non versée, conformément aux recommandations de son comptable.
+[22] L’intimée soutient que le passage du statut de travailleuse indépendante à celui d’employée de manière rétroactive au 1er janvier 2016 doit être considéré avec réserve puisqu’il s’agissait simplement d’un arrangement du payeur en vue d’alléger les difficultés financières apparentes de l’appelante du fait qu’elle avait l’obligation de verser un montant de TPS qu’elle n’avait en fait pas perçu.
+[23] L’intimée soutient que, dès le départ, l’intention commune était que l’appelante exerce ses fonctions à titre d’entrepreneure indépendante et que, malgré l’arrangement de 2016, si la Cour conclut qu’une telle intention mutuelle n’existait pas, elle devrait écarter la première partie du critère Connor Homes et examiner la réalité objective de la relation.
+[24] L’appelante soutient que, de toute évidence, l’intention commune en 2016 était qu’elle allait devenir une employée de manière rétroactive au 1er janvier 2016 et que la Cour n’a aucune raison d’arriver à une conclusion différente. Elle fait valoir qu’il s’agissant de plus qu’un arrangement à son avantage puisque la situation de tous les membres du personnel administratif a également été modifiée à ce moment-là.
+[25] En fin de compte, il est clair que l’appelante croyait, du moins initialement, qu’elle était une entrepreneure indépendante à compter du début de la relation de travail et jusqu’au 31 décembre 2015.
+[26] La Cour doit maintenant se pencher sur la question de savoir si cette croyance reflétait la réalité objective de la relation. Une analyse semblable doit être effectuée pour 2016.
+ii) Réalité objective de la relation de travail
+[27] Comme l’a observé le juge Mainville dans l’arrêt Connor Homes, précité (paragraphe 40), « […] l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs ». Par conséquent, la Cour doit prendre en compte et examiner cette réalité objective.
+[28] Il est important, en commençant cette analyse, de se rappeler que les tribunaux ont établi qu’aucun critère objectif unique ne permet de déterminer si une personne est un employé ou un entrepreneur indépendant. Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59 (« Sagaz Industries »), le juge Major l’explique comme suit :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme — en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 — qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services […] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+(Non souligné dans l’original.)
+[29] Autrement dit, la Cour doit adopter une approche complexe et un certain nombre de facteurs doivent être soupesés et pris en compte. Comme l’a décrit la Cour suprême du Canada dans l’arrêt Sagaz Industries, précité (paragraphe 47), les facteurs exerçant la plus grande incidence sont ceux établis par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd., c. Ministre du Revenu national, [1986] 3 CF 553 (« Wiebe Door »). Les facteurs Wiebe Door, qui représentent un amalgame de plusieurs critères différents utilisés dans la jurisprudence, sont :
+(a) le degré ou l’absence de contrôle exercé par l’employeur allégué;
+(b) la propriété des instruments de travail;
+(c) la possibilité de profit et le risque de perte et de responsabilité;
+(d) l’intégration du travail des employés allégués à l’entreprise des employeurs allégués.
+[30] Comme l’explique le juge Major dans l’arrêt Sagaz Industries, précité (paragraphe 47), l’objectif principal de l’analyse objective de ces facteurs consiste à répondre à la question de savoir si la personne qui fournit les services le fait à titre d’employé ou si elle « les fournit en tant que personne travaillant à son compte ».
+(a) Degré ou absence de contrôle exercé par l’employeur allégué
+[31] Pendant la période faisant l’objet de l’appel, il n’est pas contesté que l’appelante a continué de fournir des services de réception et d’administration à la clinique et qu’elle a travaillé à titre d’assistante en chiropratique et en physiothérapie, au besoin, en fonction des demandes de consultation à l’interne. Elle était également instructrice certifiée en Pilates.
+[32] À l’exception des séances de Pilates, tous les services décrits ci-dessus étaient supervisés directement par le payeur ou par le professionnel de la santé traitant. L’appelante n’avait aucun pouvoir sur la façon dont ces services étaient offerts. Elle suivait un programme d’exercices établi par le professionnel de la santé.
+[33] Même si le programme d’exercices pouvait être décrit sommairement, par exemple un « protocole pour le bas du dos », il faisait tout de même l’objet d’une supervision. Au fil du temps, il semble que l’appelante a été en mesure de fonctionner de façon hautement autonome dans la prestation de ces services.
+[34] L’intimée fait valoir que l’appelante bénéficiait également d’une grande liberté relativement à ses heures de travail; cependant, rien ne portait à croire qu’on s’attendait à ce qu’elle accomplisse une semaine de travail de 37,5 ou de 40 heures. Elle travaillait à titre de réceptionniste au besoin et à titre d’aide en réadaptation en fonction des demandes de consultation. Lors des périodes inoccupées, elle n’avait aucune raison de rester à la clinique. Si elle avait un seul rendez-vous avec un patient lors d’une matinée ou d’un après-midi, elle pouvait demander de le reporter.
+[35] Toutefois, malgré cette autonomie apparente, elle devait se plier à certaines restrictions.
+[36] En particulier, il lui était interdit de voir des patients de Kinetica à son studio à domicile et elle devait exercer ses fonctions uniquement sous le nom de marque Kinetica quand elle voyait des patients de Kinetica. Bien que l’intimée ait précisé qu’il n’était pas interdit à l’appelante de trouver des clients à voir à son studio à domicile ou de travailler dans d’autres cliniques, je conclus qu’il ne s’agit pas d’un facteur très pertinent pour l’analyse puisque nous nous intéressons au degré de contrôle dont elle faisait l’objet pendant qu’elle travaillait à Kinetica ou qu’elle voyait des patients de Kinetica.
+[37] Je conclus que les courriels présentés comme éléments de preuve par l’appelante et l’intimée brossent le portrait d’une culture de travail très décontractée et permissive à Kinetica, du moins en ce qui concerne l’appelante.
+[38] Toutefois, à mon avis, des dispositions de travail plus souples n’empêchent pas nécessairement l’existence d’une relation d’emploi. Il fait assurément partie de la prérogative des propriétaires d’entreprise d’offrir un milieu de travail favorisant la liberté et l’autonomie. Cela est particulièrement vrai dans le cas des travailleurs hautement qualifiés, groupe auquel l’appelante appartient assurément puisqu’elle possède des [traduction] « aptitudes bien supérieures à la capacité de leur employeur à les diriger » : Wiebe Doors, précité, (paragraphe 9).
+[39] Je conclus que le degré d’autonomie dont l’appelante a fait preuve est attribuable au moins en partie à la nature du travail qu’elle accomplissait et qu’il n’empêche pas l’existence d’une relation de travail.
+[40] Je conclus également que cette culture décontractée existait avec le consentement du Dr Tzakas qui, à titre de propriétaire de la clinique, détenait tout de même l’autorité absolue. Il semble avoir eu la possibilité d’imposer d’importantes restrictions sur la façon dont l’appelante accomplissait son travail à Kinetica, comme l’illustre l’interdiction de voir des patients de Kinetica à son studio à domicile. Bien que le Dr Tzakas ne semble pas avoir été consulté pour des changements mineurs comme le report de rendez-vous, les éléments de preuve indiquent qu’il a été consulté quand l’appelante a proposé d’apporter des changements aux barèmes de tarification ou aux frais facturés pour les séances de Pilates.
+[41] Dr Tzakas était également responsable du point de vue économique, fournissant les installations et la plupart, sinon tous les instruments utilisés par l’appelante. Outre quelques connaissances personnelles, presque tous les patients de l’appelante semblent provenir de la clinique. Je conclus que peu d’éléments de preuve indiquent que l’appelante a fondé une entreprise indépendante de Pilates à son studio à domicile, bien qu’elle ait peut-être exprimé l’intention de le faire avant la période qui visée par l’appel.
+[42] Le contrôle de la rémunération reçue représente une composante importante du contrôle économique. À ce chapitre, nous savons que Mme Lyon était rémunérée en remplissant chaque semaine une feuille de temps (sur laquelle elle figurait à titre de membre du « personnel ») qui indiquait le nombre de clients qu’elle avait vus ainsi que la source de la demande de consultation avec ces clients. Pendant son témoignage, le Dr Tzakas a admis que ces feuilles de temps lui étaient présentées et qu’il avait la possibilité de les modifier au besoin. Même s’il est clair que l’appelante établissait de manière proactive les prix pour les séances de Pilates et qu’elle créait des forfaits promotionnels, elle le faisait en consultant le Dr Tzakas.
+[43] À la lumière de ces considérations, je conclus que le degré de contrôle qu’exerçait le payeur sur l’appelante évoque davantage un contrat de service.
+(b) Propriété des instruments de travail
+[44] Il est admis qu’à quelques exceptions près, les instruments utilisés par l’appelante étaient la propriété de Kinetica. L’intimée soutient que la part de frais généraux compris dans sa facturation comprenait la « location » de l’équipement utilisé. Je souligne qu’aucun détail ni élément de preuve n’a été présenté relativement à la répartition exacte des coûts spécialement associés à un tel équipement.
+[45] Lorsque l’appelante a fait l’achat de nouvel équipement d’exercice à quelques reprises, par exemple à une foire commerciale, il n’est pas contesté qu’elle a été remboursée par le payeur. J’attache peu d’importance au fait qu’elle a peut-être envoyé des courriels aux membres du personnel pour leur recommander l’achat de nouvel équipement ou les inviter à essayer le nouvel équipement « gratuitement », sous sa supervision. En fin de compte, de telles initiatives seraient avantageuses à la fois pour elle et pour l’entreprise du payeur.
+[46] Tout bien considéré, je conclus non seulement que le payeur possédait l’équipement, mais aussi que tous les coûts associés faisaient simplement partie des frais généraux associés à l’exploitation de la clinique. Il n’y avait pas réellement de loyer.
+[47] Cette conclusion porte à croire que l’appelante était une employée.
+(c) Possibilité de profit et risque de perte et de responsabilité
+[48] Pour ce qui est d’évaluer si l’appelante avait réellement une possibilité de profit et un risque de perte, nous savons qu’elle n’a pas reçu de salaire fixe de la part de Kinetica. Elle touchait un salaire horaire (sans indication quant au nombre d’heures de travail hebdomadaires qu’elle cumulait habituellement) pour le travail administratif, l’administration de bureau ou l’entretien ménager et, par la suite, après avoir obtenu sa qualification à titre d’aide en réadaptation puis son certificat d’instructrice en Pilates, elle recevait un pourcentage des frais facturés aux clients directement en lien avec ses services.
+[49] Il semble que, malgré le taux horaire mentionné ci-haut, les gains de l’appelante dépendaient principalement de la réussite de Kinetica à titre de clinique de santé, de l’affluence de patients et du nombre de demandes de consultation qu’elle recevait. Je ne considérerai pas cette situation comme étant comparable à celle d’un propriétaire unique exploitant une entreprise individuelle.
+[50] L’appelante n’a pas effectué d’investissement en capital de quelque nature que ce soit pour Kinetica, bien qu’elle ait acquitté les frais de sa formation en vue d’obtenir sa certification Pilates. Elle a également acquitté les frais d’autres formations. Toutefois, elle l’a fait pour être en mesure d’élargir l’éventail de services qu’elle offrait et possiblement recevoir un plus grand nombre de demandes de consultation à la clinique.
+[51] Je conclus qu’une employée type pourrait décider de suivre des cours le soir ou une formation collégiale pour augmenter ses chances d’obtenir une promotion au sein d’une entreprise ou d’une organisation. Cependant, le fait qu’une employée à la fois motivée et ambitieuse cherche à prendre des mesures pour faire avancer sa carrière et, au bout du compte, améliorer sa situation financière, ne signifie pas nécessairement qu’elle est une travailleuse autonome ou une entrepreneure indépendante.
+[52] Les éléments de preuve indiquent que l’appelante exerçait une grande influence sur le prix que la clinique facturait pour ses séances de Pilates, y compris les « forfaits promotionnels », qui permettaient aux clients de bénéficier d’un rabais à l’achat d’un certain nombre de séances et qui représentaient une façon de leur faire acheter davantage de séances avec l’appelante.
+[53] L’intimée soutient que cette grande influence évoque une situation d’entrepreneure indépendante.
+[54] J’estime que ce facteur n’est pas concluant. Le Dr Tzakas était chiropraticien et possédait fort probablement des connaissances limitées sur le marché du Pilates. Il s’en remettait aux connaissances de l’appelante et, en tant que propriétaire d’entreprise, était prêt à écouter les conseils qu’elle avait à donner. Dans tous les cas, il avait le dernier mot.
+[55] En fin de compte, on pourrait faire valoir que les risques courus par l’appelante n’étaient pas différents de ceux courus par les employés salariés ordinaires ou rémunérés à la commission, dont le sort sera toujours lié, du moins en partie, à la réussite globale et à la santé financière de l’entreprise ainsi qu’à leur capacité à générer des revenus pour eux-mêmes en réalisant des ventes et des commissions.
+[56] Nous pouvons présumer que la fréquence des demandes de consultation auprès de l’appelante variait, mais nous ne savons pas dans quelle mesure il s’agissait d’un risque qu’elle assumait dans sa pratique. La clientèle de la clinique semblait passablement diversifiée. Personne n’attendait ou n’exigeait de l’appelante qu’elle recherche activement des clients puisqu’ils lui étaient fournis par la clinique de façon régulière et prévisible sous la forme de demandes de consultation.
+[57] S’il n’y avait eu aucun système de demandes de consultation en vigueur et si l’appelante avait dû compter entièrement sur ses efforts personnels et ses compétences entrepreneuriales pour obtenir des patients, la situation aurait été différente.
+[58] Kinetica s’est occupée pour elle de toutes ses prises de rendez-vous au moyen d’un système de rendez-vous, ainsi que des questions de facturation et de paiement. Ses services à titre d’aide en réadaptation ont été facturés à l’aide des numéros de licence des professionnels de la santé concernés. La clinique s’est également occupée de la facturation aux patients de ses séances de Pilates qui, en tant que service non médical, étaient soumis à la TPS, facturée par la clinique.
+[59] À titre de propriétaire de Kinetica, le Dr Tzakas a également admis qu’il était responsable de l’ensemble des incidents et des questions de responsabilité. Rien ne portait à croire que l’appelante détenait une quelconque responsabilité ou qu’elle était tenue de posséder une assurance de quelque type que ce soit.
+[60] L’intimée s’est appuyée sur l’arrêt Callingwood Physiotherapy Ltd. v. Minister of National Revenue, 2002 CarswellNat 316, dans lequel on a conclu que les chiropraticiens rémunérés par une clinique selon une entente de répartition des honoraires (les chiropraticiens recevant 60 % des honoraires facturés) étaient des entrepreneurs indépendants.
+[61] Toutefois, il semble que les services offerts aux chiropraticiens par la clinique se limitaient à fournir une pièce non meublée ainsi que des services de facturation et de perception des honoraires. En l’espèce, il existait un lien entre les professionnels de la santé et les services offerts par l’appelante puisqu’elle devait être supervisée. À titre d’« assistante » ou d’« aide en réadaptation », elle se trouvait dans une position de subordonnée et ses services faisaient intégralement partie des services offerts par Kinetica à titre de clinique de santé.
+[62] L’appelante s’est appuyée sur la décision Coathup c. M.R.N., 2017 CCI 54, (« Coathup »), dans laquelle la Cour canadienne de l’impôt a conclu que les enseignants donnant des cours privés à des élèves dans une école de musique étaient des employés. L’entente entre l’école et les enseignants prévoyait la répartition suivante des frais : sur le taux horaire de 46 $ facturé, 36 $ étaient versés à l’enseignant et 10 $ étaient consacrés aux frais généraux de l’école. Le revenu des enseignants était établi en fonction de leur nombre d’élèves et diminuait s’ils perdaient des élèves. Malgré ces faits, la Cour a conclu que les enseignants n’avaient aucune possibilité de profit ni aucun risque de perte dans le sens véritable de l’expression, puisqu’ils n’avaient pas besoin d’investir des fonds pour toucher un revenu et que la seule façon d’augmenter leur revenu consistait à travailler davantage, ce qui, selon la Cour, « n’est pas la même chose qu’une possibilité de profit » (paragraphe 55).
+[63] De la même façon que dans l’affaire Coathup, l’appelante n’a pas de réelle possibilité d’augmenter ses gains à Kinetica autrement qu’en voyant davantage de clients et en continuant à perfectionner ses compétences, comme elle l’a fait pendant qu’elle y travaillait. Elle aurait pu ouvrir sa propre clinique de Pilates, par exemple, mais sa capacité à le faire n’est pas pertinente dans la présente analyse puisqu’elle ne l’a pas fait.
+[64] La décision récente de la Cour canadienne de l’impôt dans 766743 Ontario Limited c. M.R.N., 2014 CCI 133, portait sur les services d’une hygiéniste dentaire. La Cour a examiné les facteurs Wiebe Doors et a conclu que « la réalité objective des faits laisse découvrir des indices beaucoup plus forts pointant vers un emploi que vers un travail d’entrepreneure indépendante en affaires pour son propre compte » (paragraphe 29).
+[65] De même, je conclus que ces facteurs indiquent que l’appelante était une employée.
+(d) Intégration du travail des employés allégués à l’entreprise des employeurs allégués
+[66] En appliquant ce facteur, il apparaît évident que peu importe si l’appelante accomplissant ses tâches administratives ou agissant à titre d’aide en réadaptation pour les professionnels de la santé, elle était entièrement intégrée à la clinique. Elle n’aurait pas pu quitter la clinique et partir à son compte pour offrir ces services.
+[67] Comme il est mentionné ci-dessus, il est reconnu qu’elle avait énormément de latitude en ce qui concerne ses séances de Pilates, mais, au bout du compte, la Cour doit conclure que ces services étaient complémentaires aux services de santé offerts par la clinique, et que le propriétaire avait le dernier mot sur ce qui pouvait être fait. Le fait que l’appelante avait la liberté d’élargir sa clientèle depuis son studio à domicile ou ailleurs n’est pas pertinent puisqu’elle n’a pas choisi de le faire, probablement parce que la panoplie complète de services qu’elle offrait était plus adaptée à l’affluence de demandes de consultation de la clinique. Cette situation semble avoir convenu au payeur.
+[68] Il est également évident que l’appelante a travaillé invariablement pour la marque Kinetica, notamment en utilisant les cartes professionnelles fournies par la clinique. Par exemple, elle était désignée comme un membre du « personnel » et assistait aux événements et aux réceptions du bureau. En fait, le Dr Tzakas a admis que, d’un point de vue extérieur, elle aurait été perçue comme une employée de Kinetica.
+[69] Par conséquent, je conclus que ce facteur porte à croire que l’appelante était une employée.
+IV. CONCLUSION
+[70] Le présent appel concerne les années 2015 et 2016. Toutefois, l’ensemble de la relation de travail entre l’appelante et le Dr Tzakas s’avère pertinent dans la mesure où il ne semble exister aucune corrélation entre l’intention expresse des parties concernant la nature de leur relation juridique et la réalité sous-jacente de leur relation.
+[71] Il semble probable que l’appelante ait été amenée à croire qu’elle pouvait être une entrepreneure indépendante si elle y consentait et si elle choisissait de le faire, même au moment où elle accomplissait des tâches de bureau et administratives et était rémunérée selon un taux horaire au début de la relation de travail, en 2008.
+[72] La conséquence de cette analyse est que, bien que la relation ait évolué et que l’appelante ait assumé de plus grandes responsabilités à titre d’aide en réadaptation et, plus tard, d’instructrice certifiée en Pilates, l’intention expresse des parties quant à la nature de leur relation était fondamentalement lacunaire dès le départ et devrait être écartée au profit des facteurs objectifs présentés ci-dessus.
+[73] Après une analyse complète des éléments de preuve en fonction des facteurs Wiebe Door, la Cour conclut que l’appelante était une employée aux termes d’un contrat de service au cours de la période pertinente. Pour ce motif, les appels doivent être accueillis.
+Signé à Ottawa, Canada, ce 8e jour de mai 2018.
+« Guy Smith »
+Le juge Smith
+RÉFÉRENCE :
+2018 CCI 89
+NOS DES DOSSIERS DE LA COUR :
+2017-9(CPP) 2017-10(EI)
+INTITULÉ :
+KEARSTEN M. LYON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 novembre et le 5 décembre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 8 mai 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Jordan Reiner
+Avocate de l’intimée :
+Me Kieran Lidhar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Jordan Reiner
+Cabinet :
+Lecker and Associates
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

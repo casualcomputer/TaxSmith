@@ -1,0 +1,98 @@
+Title: Brazeau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30038/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-546-30038-brazeau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-26
+
+# Brazeau c. La Reine
+
+- Citation: 2010 CCI 546
+- Decision date: 2010-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7710, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brazeau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-26
+Référence neutre
+2010 CCI 546
+Numéro de dossier
+2009-3263(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3263(IT)I
+ENTRE :
+NATHALIE BRAZEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 23 août 2010, à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l'intimée :
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu est accueilli en ce que l’appelante a droit à la prestation pour enfant handicapé (PEH) pour les mois de janvier à juin 2008, le tout sans frais.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+Référence : 2010 CCI 546
+Date : 20101026
+Dossier : 2009-3263(IT)I
+ENTRE :
+NATHALIE BRAZEAU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif au droit de l’appelante de recevoir le crédit d’impôt pour personnes handicapées, à l’égard de l’année de base 2006. L’autre partie au dossier étant irrecevable puisque la preuve a établi que la cotisation pour l’année 2008 était néant.
+[2] Dans un premier temps, l’appelante a expliqué et décrit les inquiétudes, les préoccupations et les exigences auxquelles son fils et elle-même étaient confrontés par la maladie de diabète insulinodépendant de son fils. Elle a préparé un résumé informatique pour démontrer l’importance du temps consacré au maintien d’un équilibre entre l’hypoglycémie et l’hyperglycémie par des injections d’insuline.
+[3] La preuve a aussi établi que son fils était très actif; il faisait partie d’une équipe de soccer. Parallèlement à sa participation à l’équipe de soccer, il s’entraînait dans un gymnase en plus de sa présence à des cours d’éducation physique.
+[4] De son côté, l’intimée a soutenu que la durée du temps consacré était beaucoup inférieure au barème établi à 15 heures par semaine pour se qualifier pour le crédit.
+[5] Pour faire cette démonstration, elle a eu recours à deux documents, soit les pièces I‑3 et I‑4 j dans un premier temps, il est fait mention d’une heure et demie et, dans un deuxième temps, de deux heures pour les mêmes tâches soient des durées beaucoup inférieures au critère du 15 heures.
+[6] Au soutien de sa preuve, l’intimée a fait entendre le fils de l’appelante qui a expliqué avoir une vie très active dans l’entraînement et les sports. Il a aussi indiqué que ses activités avaient des effets directs sur son taux de diabète.
+[7] Quand est venu le temps d’évaluer le temps consacré, il a indiqué que de façon générale, il lui en prenait 1½ heure tous les jours auxquels il fallait ajouter du temps pour les situations particulières assez nombreuses, eu égard à ses activités sportives très intenses.
+[8] La difficulté de ce dossier réside évidemment au niveau de l’évaluation du temps requis par la maladie affectant le fils de l’appelante. D’une part, deux intervenants en matière de santé fournissent des appréciations. Dans le premier cas, on évalue le temps : 1½ et, dans l’autre, à 2 heures, ce qui se traduit par un écart non négligeable de vingt-cinq pourcent.
+[9] La personne directement concernée, appelée à témoigner par l’intimée et non pas l’appelante, qui a soumis pour preuve son seul témoignage, en arrive à une toute autre conclusion, soit 1½ tous les jours sans compter le temps pour les situations particulières à la suite d’efforts particuliers d’erreurs et certains imprévus.
+[10] Bien que l’approche se veut mathématique; il m’apparaît évident que les calculs n’ont pas les caractéristiques de l’absolu. En effet, s’il est acceptable de prendre en considération deux évaluations préparées par des médecins ayant un écart de 25 pourcent, il m’apparaît possible et plausible qu’un jeune très actif peut et doit consacrer beaucoup plus qu’une évaluation essentiellement arbitraire découlant de l’expérience.
+[11] Il est notoire que le taux idéal et recherché est directement affecté par les efforts physiques. Or, voulant performer dans des activités sportives et récréatives, je ne doute pas qu’une façon de faire devait être exigeante en terme de temps au point de rendre tout à fait probable son évaluation.
+[12] La prépondérance de la preuve constituée principalement par le témoignage de ce jeune homme m’apparaît suffisante pour écarter les deux évaluations soumises par les médecins mis à contribution et finalement, conclure que ce jeune homme consacrait lors des périodes pertinentes un nombre minime de quatorze heures.
+[13] Je n’ai aucune raison d’écarter le témoignage du fils de l’appelante lequel m’est apparu très crédible d’autant plus que l’intimée lui a sans doute attribué la même qualité puisque le jeune a témoigné à sa demande.
+[14] Conséquemment, l’appel est accueilli en ce que l’appelante avait droit à la prestation pour enfant handicapé (PEH) pour les mois de janvier à juin 2008, le tout sans frais.
+Signé à Ottawa, Canada, ce 26e jour d’octobre 2010.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2010 CCI 546
+Nº DU DOSSIER DE LA COUR : 2009-3263(IT)I
+INTITULÉ DE LA CAUSE : NATHALIE BRAZEAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 23 août 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 26 octobre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l'intimée :
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

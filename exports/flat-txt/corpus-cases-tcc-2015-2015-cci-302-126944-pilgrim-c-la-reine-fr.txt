@@ -1,0 +1,137 @@
+Title: Pilgrim c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126944/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-302-126944-pilgrim-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-12-01
+
+# Pilgrim c. La Reine
+
+- Citation: 2015 CCI 302
+- Decision date: 2015-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2700, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pilgrim c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-01
+Référence neutre
+2015 CCI 302
+Numéro de dossier
+2015-3983(IT)APP
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015‑3983(IT)APP
+ENTRE :
+PETER PILGRIM,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Demande entendue le 18 novembre 2015, à Calgary (Alberta)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Représentant du requérant :
+M. Michael Baker
+Avocat de l’intimée :
+Me Jeff Watson
+ORDONNANCE MODIFIÉE
+La demande de prorogation du délai pour produire un avis d’opposition au titre de la Loi de l’impôt sur le revenu (Canada) (la « LIR ») pour les années d’imposition 2009, 2010 et 2011 est rejetée au motif que le ministre du Revenu national (le « ministre ») n’a pas réussi à prouver que les avis de nouvelle cotisation pour les années d’imposition 2009 et 2010 et l’avis de cotisation pour l’année d’imposition 2011 (collectivement les « avis ») avaient été envoyés à la bonne adresse du requérant.
+Il est ordonné et déclaré qu’en raison du fait que le ministre n’a pas envoyé les avis à la bonne adresse du requérant, le requérant a signifié au ministre son avis d’opposition pour les années d’imposition 2009, 2010 et 2011 dans les délais prévus à l’alinéa 165(1)a) de la LIR.
+Chaque partie assumera ses propres frais.
+La présente ordonnance modifiée remplace l’ordonnance datée du 1er décembre 2015.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2015.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+ce 14e jour de janvier 2016.
+M.-C. Gervais
+Référence : 2015 CCI 302
+Date : 20151201
+Dossier : 2015-3983(IT)APP
+ENTRE :
+PETER PILGRIM,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Sommerfeldt
+[1] Les présents motifs se rapportent à la demande qu’a présentée Peter Pilgrim au titre du paragraphe 166.2(1) de la Loi de l’impôt sur le revenu (Canada) (la « LIR ») en vue d’obtenir une ordonnance prorogeant le délai imparti pour signifier un avis d’opposition relativement aux années d’imposition 2009, 2010 et 2011. La demande a été entendue à Calgary, en Alberta, le 18 novembre 2015. À la fin de l’audience, j’ai rejeté la demande de M. Pilgrim au motif que le ministre du Revenu national (le « ministre ») n’avait pas réussi à prouver que les avis de nouvelle cotisation pour les années d’imposition 2009 et 2010 et l’avis de cotisation pour l’année d’imposition 2011 (collectivement les « avis ») avaient été envoyés à la bonne adresse du requérant. J’ai également ordonné et déclaré qu’en raison du fait que le ministre n’avait pas envoyé les avis à la bonne adresse de M. Pilgrim, celui‑ci avait signifié au ministre son avis d’opposition pour les années d’imposition 2009, 2010 et 2011 dans les délais prévus à l’alinéa 165(1)a) de la LIR. On m’a demandé de fournir des motifs écrits de ma décision.
+[2] La preuve examinée à l’audience était constituée d’un affidavit de M. Pilgrim, d’un témoignage de vive voix livré par M. Pilgrim, d’un document de neuf pages comprenant différentes photographies et le plan d’un complexe domiciliaire appelé « Riverview Terrace », situé au 245 Red Deer Drive SW, à Medicine Hat, en Alberta, ainsi que d’un affidavit de Paul Sendher, qui travaille à titre d’agent des litiges au bureau des services fiscaux de Vancouver au sein de l’Agence du revenu du Canada (l’« ARC »).
+[3] En septembre 2012, l’ARC a établi à l’égard de M. Pilgrim des avis de nouvelle cotisation pour les années d’imposition 2009 et 2010 et un avis de cotisation pour l’année d’imposition 2011 (collectivement définis ci‑dessus comme les « avis »). L’ARC a envoyé les avis par la poste le 28 septembre 2012.
+[4] La question qui se pose dans la présente demande consiste à savoir si les avis ont été envoyés par la poste à la bonne adresse de M. Pilgrim.
+[5] M. Pilgrim a déclaré qu’il n’avait pas reçu les avis et qu’il avait été mis au courant de l’existence des nouvelles cotisations et de la cotisation visées par les avis (collectivement les « cotisations ») à la fin du mois de mai ou au début du mois de juin 2014, lorsqu’il avait reçu l’avis de cotisation pour l’année d’imposition 2012, qui lui avait été envoyé par la poste le 15 mai 2014. Selon l’avis de cotisation pour l’année d’imposition 2012, M. Pilgrim avait un solde impayé considérable à l’égard des années d’imposition antérieures à 2012. M. Pilgrim a alors communiqué avec un comptable, qui a présenté la présente demande au nom de M. Pilgrim.
+[6] La pièce A, jointe à l’affidavit de M. Sendher, comprend un imprimé caviardé des dossiers électroniques de l’ARC montrant les cotisations ainsi qu’un imprimé des dossiers électroniques de l’ARC montrant l’historique des adresses postales de M. Pilgrim de juillet 2010 à octobre 2015. Selon la première partie de la pièce A, il semble que l’ARC ait établi les cotisations le 28 septembre 2012. La deuxième partie de la pièce A révèle que, du 15 septembre 2011 au 8 mai 2014, l’adresse postale qu’utilisait l’ARC pour joindre M. Pilgrim était 245 Red Deer Drive SW, Medicine Hat (Alberta) T1A 8P4. Le 8 mai 2014, l’ARC a modifié l’adresse postale de M. Pilgrim dans ses dossiers de la façon suivante : 318 – 245 Red Deer Drive SW, Medicine Hat (Alberta) T1A 8P4[1] (non souligné dans l’original).
+[7] Pendant l’audience, l’avocat de l’intimée a été la première personne à remarquer que l’adresse de M. Pilgrim à laquelle l’ARC avait envoyé les avis était incomplète. L’avocat de l’intimée a alors de bonne grâce reconnu que l’ARC n’avait pas envoyé les avis à la bonne adresse de M. Pilgrim.
+[8] L’historique des adresses postales qu’a utilisées l’ARC pour joindre M. Pilgrim, qui est présenté dans la deuxième partie de la pièce A, jointe à l’affidavit de M. Sendher, révèle aussi que, le 15 septembre 2011, le 5 décembre 2011 et le 8 mai 2014, des documents envoyés à M. Pilgrim par la poste ont été retournés à l’ARC, ce qui laisse entendre que l’ARC savait, ou aurait pu savoir, que l’adresse 245 Red Deer Drive SW (c’est‑à‑dire sans le numéro d’unité 318) n’était pas la bonne adresse de M. Pilgrim.
+[9] Pendant son témoignage, M. Pilgrim a déclaré que le 245 Red Deer Drive SW, Medicine Hat est l’adresse d’un grand complexe domiciliaire appelé Riverview Terrace. Le représentant de M. Pilgrim a produit un document, versé au dossier sous la cote A‑1, comprenant des photographies de l’extérieur de Riverview Terrace, un plan du complexe et une photographie du répertoire de l’intercom situé près de l’entrée principale de Riverview Terrace. Selon le plan du complexe, le stationnement de Riverview Terrace compte environ 115 espaces, et selon la photographie du répertoire de l’intercom, le complexe compte 79 appartements ou unités.
+[10] Le représentant de M. Pilgrim a soutenu que Riverview Terrace est un complexe si grand que le numéro d’unité d’un occupant est un élément essentiel de l’adresse de celui‑ci. Je souscris à cette observation. En outre, comme je l'ai déjà précisé, entre le 15 septembre 2011 et le 8 mai 2014, l’ARC a envoyé par la poste au moins trois documents à l’adresse incomplète de M. Pilgrim (c’est‑à‑dire à l’adresse ne précisant pas le numéro d’unité de M. Pilgrim, soit 318), qui ont ensuite été retournés à l’ARC, probablement sans avoir été transmis à M. Pilgrim. Par conséquent, il est vraisemblable que d’autres documents, comme les avis, envoyés à l’adresse incomplète de M. Pilgrim n’aient, eux non plus, pas été transmis à M. Pilgrim.
+[11] Aux termes de l’alinéa 166.1(7)a) de la LIR, une demande de prorogation du délai imparti pour signifier un avis d’opposition doit être présentée à l’ARC dans l’année suivant l’expiration du délai par ailleurs imparti par la LIR pour signifier un avis d’opposition. Comme l’ARC aurait envoyé les avis par la poste le 28 septembre 2012, elle a fait valoir que le délai imparti pour présenter une demande au titre du paragraphe 166.1(1) de la LIR était le 27 décembre 2013 pour les années d’imposition 2009 et 2010, et le 30 avril 2014 pour l’année d’imposition 2011. Ces supposés délais ont été calculés conformément à l’alinéa 165(1)a) de la LIR, qui prévoit qu’il est possible de s’opposer à une cotisation au plus tard au dernier en date des jours suivants :
+a. le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année;
+b. le quatre‑vingt‑dixième jour suivant la date d’envoi de l’avis de cotisation.
+[12] Essentiellement, le sous-alinéa 165(1)a)(ii) de la LIR exige seulement l’envoi d’un avis de cotisation. Il n’exige pas la réception de cet avis. Cela peut donner lieu à une conséquence fâcheuse. Par exemple, dans la décision Chomatas c La Reine[2], la Cour a affirmé que le délai d’un an et quatre‑vingt‑dix jours au cours duquel il est possible de présenter une demande de prorogation du délai commence à courir à partir du moment où l’avis de cotisation est envoyé, et qu’il n’est pas nécessaire d’avoir reçu l’avis, de sorte qu’il est possible que le droit de faire opposition expire sans que le contribuable soit même au courant de l’existence de la cotisation.
+[13] Toutefois, lorsqu’un contribuable fait valoir qu’un avis de cotisation ou de nouvelle cotisation ne lui a pas été envoyé par la poste ou ne lui a pas été communiqué de quelque autre manière, il appartient au ministre d’établir que l’avis a effectivement été envoyé au contribuable par la poste ou lui a été transmis de quelque autre manière[3].
+[14] Il incombe au ministre d’envoyer par la poste ou de transmettre autrement un avis de cotisation ou de nouvelle cotisation à la bonne adresse d’un contribuable. Dans la décision Scott v MNR[4], la Cour de l’Échiquier s’est exprimée en ces termes :
+[traduction]
+[...] le fait de donner un avis d’une cotisation fait partie de l’opération de fixation appelée cotisation dans la loi et [...] une cotisation n’est achevée que lorsque le ministre s’est entièrement acquitté de ses fonctions de répartiteur, prévues par la loi, en donnant l’avis prescrit [...]
+[...] il semble que le législateur fédéral voulait que ces avis [de cotisation] soient transmis par la poste. Cependant, comme il s’agit d’une déduction faite à partir du libellé de la loi, j’estime également que l’on doit en déduire que le législateur fédéral n’a jamais voulu qu’un avis soit valablement donné par sa « mise à la poste » au contribuable à une adressé erronée ou fictive, et je ne trouve rien dans la loi qui permette de penser que le législateur fédéral voulait que le contribuable soit lié par une cotisation ou un avis de cotisation au moment de sa mise à la poste à une adresse autre que sa véritable adresse ou à une adresse qu’il a d’une certaine manière adoptée ou autorisée comme adresse personnelle à cette fin [...] [Dans] l’arrêt Societa Principessa Iolanda Margherita di Savoia (fondata dai Bonitesi), Inc. v. Broderick) (1932), 183 N.E. 382, [...], le juge Kellogg, au nom de la Cour d’appel de New York, s’est exprimé en ces termes à la page 384 :
+Lorsque la loi précise que le chef « doit faire en sorte que l’avis en question soit envoyé par la poste » [...], nous estimons que la loi vise clairement à ce que l’avis soit « envoyé par la poste », dans une enveloppe sur laquelle est inscrite la bonne adresse;
+[...] une mise à la poste ou un envoi semblable [à une adresse incorrecte] ne constituent pas une mise à la poste ou un envoi valide au sens [de la disposition appropriée] de la Loi[5] [...]
+[15] Conformément au principe énoncé ci‑dessus, la Cour d’appel fédérale a conclu que le fait qu’un avis de nouvelle cotisation a été envoyé à la mauvaise adresse revient à dire qu’il n’a pas été délivré du tout[6].
+[16] Comme je l’ai déjà précisé, du 15 septembre 2011 au 8 mai 2014, l’ARC utilisait une adresse incomplète pour communiquer avec M. Pilgrim. En particulier, cette adresse ne précisait pas le numéro d’unité de M. Pilgrim à Riverview Terrace. Pendant cette période, au moins trois documents que l’ARC aurait envoyés à l’ARC ont été retournés à celle‑ci sans être livrés au destinataire. Ainsi, l’ARC aurait dû savoir qu’elle n’avait pas la bonne adresse de M. Pilgrim.
+[17] Aucun élément de preuve n’a été présenté à l’audience pour expliquer comment l’ARC avait obtenu une adresse incomplète pour M. Pilgrim ni comment elle avait obtenu son adresse complète le 8 mai 2014 ou vers cette date. Il se peut que M. Pilgrim ait fourni une adresse incomplète à l’ARC, mais il se peut aussi qu’il ait fourni une adresse complète, mais que l’ARC l’ait mal saisie dans son système informatique. Aux fins de la présente demande, je suis disposé à accorder le bénéfice du doute à M. Pilgrim.
+[18] En conséquence, je conclus que l’ARC n’a pas envoyé les avis à M. Pilgrim. Par conséquent, le délai prévu au sous-alinéa 165(1)a)(ii) de la LIR n’a pas commencé à courir, de sorte que l’avis d’opposition de M. Pilgrim a été signifié au ministre dans les délais prescrits à l’alinéa 165(1)a) de la LIR.
+[19] Ainsi, M. Pilgrim n’a pas à présenter une demande de prorogation du délai pour produire un avis d’opposition. Par conséquent, la question de savoir si la demande qu’a formulée M. Pilgrim au titre du paragraphe 166.1(1) de la LIR a été présentée dans les délais prescrits aux alinéas 166.1(7)a) et 166.2(5)a) de la LIR est théorique.
+[20] Comme l’avis d’opposition de M. Pilgrim a été signifié dans les délais prescrits, il convient de rejeter la demande[7] au motif que le ministre n’a pas réussi à prouver que les avis avaient été envoyés à la bonne adresse de M. Pilgrim.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2015.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+ce 14e jour de janvier 2016.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 302
+No DU DOSSIER DE LA COUR :
+2015‑3983(IT)APP
+INTITULÉ :
+PETER PILGRIM ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 18 novembre 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Don R. Sommerfeldt
+DATE DE L’ORDONNANCE :
+Le 4 décembre 2015
+COMPARUTIONS :
+Représentant du requérant :
+M. Michael Baker
+Avocat de l’intimée :
+Me Jeff Watson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pendant l’audience, l’avocat de l’intimée a expliqué que, lorsque l’ARC a corrigé l’adresse postale de M. Pilgrim dans ses dossiers le 8 mai 2014, cette modification a entraîné automatiquement la modification du contenu de tous les champs d’adresse de M. Pilgrim dans les dossiers informatiques de l’ARC. Par conséquent, la première partie de la pièce A montre maintenant la bonne adresse postale de M. Pilgrim. Cependant, si on avait consulté un dossier comparable le 28 septembre 2012, l’adresse postale de M. Pilgrim aurait été erronée.
+[2] 2013 CCI 319, au paragraphe 7. Voir aussi l’arrêt The Queen v Schafer, [2000] GSTC 82, 2000 DTC 6542 (CAF), aux paragraphes 7, 12 et 24.
+[3] Aztec Industries Inc. v The Queen, [1995] 1 CTC 327, 95 DTC 5235, 179 NR 383 (CAF), au paragraphe 12; Carcone c La Reine, 2011 CCI 550, aux paragraphes 19 et 21; et Hamer c La Reine, 2014 CCI 218, au paragraphe 3.
+[4] Scott v MNR, [1960] CTC 402, 60 DTC 1273 (Cour de l’Échiquier), aux paragraphes 27 à 29.
+[5] Des passages de la citation ci‑dessus sont cités dans l’arrêt 236130 British Columbia Ltd. c La Reine, 2006 CAF 352, au paragraphe 22; dans la décision 236130 British Columbia Ltd. c La Reine, 2005 CCI 770, au paragraphe 41; et dans la décision Carcone c La Reine, 2011 CCI 550, au paragraphe 21.
+[6] 236130 British Columbia Ltd. c La Reine, 2006 CAF 352, au paragraphe 20.
+[7] Voir l’arrêt Aztec Industries, précité à la note 3, au paragraphe 23.

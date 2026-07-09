@@ -1,0 +1,247 @@
+---
+title: "Mathew c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30915/index.do"
+last_modified: "2012-08-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 289"
+citation2: ""
+neutral_citation: "2012 CCI 289"
+decision_date: "2012-08-02"
+language: "fr"
+item_id: "30915"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7443
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:28:00.172000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1d6fd4ed26a0563875e7c177ce2eec06419184a26c6d97692924a10f038cf7f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mathew c. La Reine
+
+- Citation: 2012 CCI 289
+- Decision date: 2012-08-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7443, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathew c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-08-02
+Référence neutre
+2012 CCI 289
+Numéro de dossier
+2009-3667(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3667(IT)G
+ENTRE :
+JOSEPH MATHEW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus les 22 et 23 juin 2011 à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont rejetés. L’appel relatif à la nouvelle cotisation concernant l’année d’imposition 2004 est accueilli, conformément aux motifs du jugement ci-joints.
+L’appelant doit payer les dépens entre parties à l’intimée.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour d’août 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+François Brunet, réviseur
+Référence : 2012 CCI 289
+Date : 20120801
+Dossier : 2009-3667(IT)G
+ENTRE :
+JOSEPH MATHEW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] En l’espèce, M. Mathew conteste les nouvelles cotisations établies à l’égard de ses années d’imposition 2001, 2002, 2003 et 2004. Les questions en jeu sont les suivantes :
+- M. Mathew a‑t‑il omis de déclarer des revenus de 201 000 $ en 2001, de 321 700 $ en 2002, de 54 000 $ en 2003 et de 73 300 $ en 2004?
+- dans l’affirmative,
+(i) le ministre du Revenu national (le « ministre ») était‑il en droit d’établir des nouvelles cotisations à l’égard des années d’imposition 2001 et 2002 après la période normale de nouvelle cotisation?
+(ii) M. Mathew est‑il passible des pénalités prévues par le paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR ») relativement aux montants non déclarés pour les années d’imposition 2001, 2002, 2003 et 2004?
+[2] M. Mathew reconnaît avoir reçu les sommes en question au cours de ses années d’imposition 2001, 2002 et 2003, mais il dit que c’était à titre de dommages-intérêts pour souffrances et douleurs et qu’il s’agissait donc de rentrées de fonds non imposables. Il déclare que la somme relative à 2004 lui était également due à titre de dommages-intérêts pour souffrances et douleurs, mais qu’il ne l’a jamais touchée. Pour ces raisons, il dit n’avoir pas fait de déclarations erronées sur son revenu pour l’une quelconque des années visées par l’appel.
+[3] Par les motifs exposés ci‑dessous, je conclus que les sommes en litige pour les années d’imposition 2001, 2002 et 2003 constituaient des revenus imposables pour M. Mathew et que, en omettant de déclarer ces revenus, il a fait des déclarations erronées justifiant l’établissement, par le ministre, de nouvelles cotisations à l’égard des années d’imposition 2001 et 2002 après la période normale de nouvelle cotisation, et l’imposition, en vertu du paragraphe 163(2), des pénalités à l’égard des revenus non déclarés pour les années d’imposition 2001, 2002 et 2003. Toutefois, je conclus que l’appelant n’a pas touché la somme de 73 300 $ qui a été incluse dans son revenu pour 2004.
+Les faits
+[4] L’appelant est syndic de faillite. Il a témoigné avoir obtenu un baccalauréat en commerce à l’Université de Bangalore, en Inde, en 1985 ou 1986, et être arrivé au Canada vers 1988. Il été employé par BDO Dunwoody, à Toronto, environ de 1991 à 1994, année où il a obtenu sa propre licence de syndic. Il est ensuite entré au service d’un cabinet de syndics exploité par Howard Wasserman, à Toronto.
+[5] L’appelant a déclaré que vers la fin des années 1990, il a commencé à travailler avec son épouse, Jessy Mathew, qui, selon ses dires, exploitait une entreprise individuelle appelée « J and J Consulting » (« J and J »). Selon l’épouse de l’appelant, les initiales « J and J » désignaient [traduction] « Jessy et Joseph ». Cette entreprise assurait des conseils en matière d’insolvabilité, et Mme Mathew avait, semble-t-il, suivi un cours dans ce domaine. La nature de la relation professionnelle qu’entretenaient l’appelant et Mme Mathew n’était pas tout à fait claire. L’appelant a déclaré que son épouse et lui partageaient les bénéfices réalisés par cette entreprise, que, dans ses déclarations de revenus, il déclarait les sommes censément tirées de J and J à titre d’« autres revenus d’emploi », et, à l’audience, il s’est qualifié d’entrepreneur indépendant auprès de J and J.
+[6] L’appelant détenait sa propre licence de syndic à cette époque, mais il affirme qu’il était nécessaire d’orienter vers Wasserman les clients de J and J qui décidaient de déclarer faillite. Il n’était pas habilité à agir comme syndic de faillite, à moins de le faire sous la supervision d’une société détenant une licence de syndic, ce qui était le cas de Wasserman. Le témoignage de l’appelant n’a pas permis de tirer au clair le rôle qu’il jouait dans les affaires de faillite que J and J renvoyait ainsi à ce cabinet. Cependant, il est clair que l’appelant a maintenu ses rapports avec Wasserman même après son départ de ce cabinet, ce qui, selon lui, a eu lieu à la fin des années 1990.
+[7] L’appelant a déclaré qu’en 2000, son épouse et un cousin de cette dernière avaient constitué une société appelée Financial Crisis Counselling Inc. (« FCC ») pour exercer les mêmes activités que J and J. Le cousin en question est parti quelques mois après la constitution de cette société, et son épouse a cessé de s’intéresser celle-ci à partir de ce moment-là. Les actions de FCC ont alors été transférées à la mère de l’appelant, Kunjamma Mathai, sans aucune contrepartie, afin que celle-ci les détienne en fiducie pour la sœur de l’appelant, Tabitha Abraham.
+[8] Selon l’appelant, au milieu de l’année 2000, Tabitha Abraham lui a demandé d’entrer au service de FCC, où il remplirait les mêmes fonctions qu’au service de J and J. L’appelant a dit avoir commencé à collaborer avec FCC à titre d’entrepreneur indépendant tout en restant au service de J and J.
+[9] L’appelant a déclaré qu’en novembre 2000, il a fait une chute et s’est blessé au genou dans le bureau de FCC. Il s’est déchiré le ligament croisé antérieur (LCA) et a dû subir une intervention chirurgicale à deux reprises au début de 2001. Il a souvent été absent du travail en 2001, 2002 et 2003, et il est aussi allé en Inde pour recevoir des traitements au genou et au dos.
+[10] L’appelant soutient avoir communiqué avec un avocat en janvier 2001 et que ce dernier lui a conseillé d’intenter une poursuite contre FCC ainsi que contre sa mère, en sa qualité d’actionnaire de FCC, pour réclamer 1,5 million de dollars pour l’accident. Il a dit avoir fait des démarches auprès de sa mère et négocié avec elle et FCC un règlement dans le cadre duquel ces deux parties convenaient de lui verser la somme de 650 000 $ sur trois ans. L’appelant a produit une transaction, signée par sa mère et par lui, et établie [traduction] « en date du » 15 mars 2001.
+[11] L’appelant a soutenu qu’il ne s’attendait pas à recevoir plus de deux ou trois mille dollars par mois de FCC dans le cadre de cette transaction parce que l’entreprise n’avait pas de hauts revenus. Par contre, il a ajouté que ses chances de recevoir des fonds de sa mère étaient meilleures parce que, selon lui, celle-ci possédait en Inde des biens d’une valeur de plus d’un million de dollars.
+[12] Cependant, l’appelant a déclaré qu’un dossier sur lequel FCC avait commencé à travailler en 2001 (le dossier EPC) a fini par être très rémunérateur pour l’entreprise et a généré des revenus considérables. Il lui a donc été possible de toucher d’importantes sommes d’argent de FCC en 2001, 2002 et 2003. Ce dossier avait trait à la faillite d’une société appelée EPC Corporation, qui avait des activités à Toronto ainsi que des sociétés affiliées à Montréal et à Vancouver. Le propriétaire de cette société vivait à Hong Kong.
+[13] Selon l’appelant, FCC a transféré le dossier EPC à Wasserman afin que ce cabinet s’occupe de la procédure de faillite et FCC est intervenu pour Wasserman, recouvrant les créances pour le compte des créanciers d’EPC. L’appelant dit n’avoir accompli lui‑même que très peu de travail pour FCC dans ce dossier, mais la majeure partie des tâches de recouvrement de créances a été exécutée par d’autres personnes au service de FCC.
+[14] L’appelant a témoigné que, à sa demande, [traduction] « quelqu’un » chez FCC a donné instruction à Wasserman de lui payer les honoraires gagnés par FCC dans le dossier EPC, à titre de paiement des sommes que FCC lui devait suivant l’entente de règlement portant sur l’accident de travail. L’appelant a également dit avoir reçu d’autres clients de FCC des paiements qui constituaient des sommes que ces clients devaient à FCC.
+[15] L’appelant a déclaré avoir reçu de Wasserman et de FCC des paiements totalisant 201 000 $ en 2001, 321 700 $ en 2002 et 54 000 $ en 2003 à titre de paiements prévus par l’entente de règlement.
+[16] L’appelant a ajouté qu’en 2004, la relation qu’il entretenait avec sa mère et ses frères et sœurs est devenue tendue et qu’il n’a plus pu toucher d’autres fonds dans le cadre du règlement. En mai 2004, il a écrit à sa mère pour exiger le paiement du solde impayé, soit 73 300 $, à défaut de quoi il intenterait une action en justice contre elle et FCC. N’ayant rien reçu d’autre, il a déposé une déclaration contre ces deux parties en septembre 2004. En décembre 2004, la mère de l’appelant a consenti, en son propre nom et en celui de FCC, à un jugement représentant le plein montant que réclamait l’appelant, plus des intérêts de 8 884,56 $. L’appelant a toutefois déclaré n’avoir rien touché à la suite de ce jugement.
+[17] Dans le cadre de la déclaration déposée en septembre 2004, l’appelant a inclus la liste suivante de paiements qu’il avait reçus de FCC (y compris ceux que Wasserman avait versés) de 2001 à 2003.
+[traduction]
+ANNEXE A
+LISTE DES PAIEMENTS REÇUS
+2001
+26 juin 2001
+10 000
+11 sept. 2011
+86 000
+24 sept. 2001
+14 000
+17 oct. 2011
+50 000
+29 nov. 2011
+41 000
+201 000 $
+2002
+2 janv. 2002
+50 000
+6 févr. 2002
+50 000
+31 juill. 2002
+15 000
+5 août 2002
+150 000
+9 sept. 2002
+7 500
+7 oct. 2002
+15 200
+29 oct. 2002
+25 000
+9 déc. 2002
+5 000
+23 déc. 2002
+4 000
+321 700 $
+2003
+6 févr. 2003
+40 000
+28 juill. 2003
+14 000
+54 000 $
+576 700 $
+SOMME DUE SUIVANT L’ENTENTE :
+650 000 $
+SOMME PAYÉE (VOIR CI-DESSUS) :
+576 700 $
+SOLDE :
+73 300 $
+[18] À l’audience, l’appelant a insisté pour dire qu’il n’avait reçu aucune de ces sommes en contrepartie de travail réalisé pour le compte de FCC ou de Wasserman.
+[19] Je conclus que le témoignage de l’appelant sur la source de ces fonds est fort problématique.
+[20] Premièrement, même si l’intimée a admis que l’appelant avait subi une blessure au genou en novembre 2000, il n’existait aucune preuve convaincante que cette blessure s’était produite dans les locaux de FCC.
+[21] La version des faits que l’appelant a donnée au vérificateur à propos de sa blessure au genou contredisait le témoignage qu’a fait le témoin de l’appelant, Sriskantharajan Vallipuranathar, ainsi que celui de la mère de l’appelant.
+[22] L’appelant a dit au vérificateur qu’il avait trébuché sur un fil qui se trouvait derrière la porte d’entrée du bureau, pendant qu’il transportait des boîtes. M. Vallipuranathar a toutefois déclaré qu’il était présent sur les lieux à ce moment‑là et que l’appelant était tombé dans l’escalier menant au bureau. Mme Mathai a déclaré pour sa part que, même si elle n’avait pas été présente sur les lieux, elle croyait comprendre que l’appelant s’était fracturé la jambe.
+[23] L’appelant a déclaré au vérificateur de l’Agence du revenu du Canada (l’« ARC ») qu’il s’était heurté le genou contre le sol et qu’il ne pouvait plus se déplacer, mais il a ensuite dit que, plus tard ce soir-là, il était allé au gymnase pour y faire de l’exercice. Il a ajouté que son genou avait complètement claqué au gymnase et qu’il s’était ensuite rendu chez lui en automobile et s’était présenté à l’hôpital le lendemain.
+[24] À l’audience, l’appelant a témoigné et a déclaré qu’il avait [traduction] « glissé et chuté » dans le bureau de FCC et qu’il s’était fait [traduction] « très mal » au genou.
+[25] Il semble fort peu probable que l’appelant, s’il s’était blessé aussi gravement qu’il le dit au bureau de FCC, serait allé au gymnase pour y faire de l’exercice, plutôt que d’obtenir immédiatement des soins. Il me semble également que Mme Mathai aurait été plus au courant des détails du présumé accident, vu qu’elle déclare maintenant qu’elle (et FCC) a convenu de payer à l’appelant des dommages-intérêts de 650 000 $.
+[26] Par ailleurs, l’appelant a déclaré au vérificateur que seule sa sœur Tabitha était présente au bureau au moment de l’accident, et il n’a pas mentionné la présence de M. Vallipuranathar.
+[27] Je relève que l’appelant n’a pas appelé sa sœur Tabitha comme témoin à l’audience, malgré sa prétendue participation aux activités de FCC et sa présence au bureau au moment de l’accident. Il a déclaré qu’elle n’était pas disponible pour témoigner parce qu’elle vivait aux États-Unis. Sa mère a toutefois témoigné qu’elle vivait avec Tabitha à Ajax (Ontario) et que Tabitha se trouvait à la maison le jour où elle (la mère de l’appelant) a témoigné.
+[28] Le témoignage qu’ont rendu l’appelant et M. Vallipuranathar au sujet de la consultation que l’appelant aurait faite auprès d’un avocat après l’accident, ainsi qu’au sujet de la négociation du règlement, est également difficile à retenir.
+[29] L’appelant a déclaré avoir vu son avocat pour la première fois au début de 2001, avant même sa deuxième intervention chirurgicale, et que cet avocat lui a conseillé d’intenter une poursuite de 1,5 million de dollars, mais aucun détail n’a été donné sur la manière dont ce chiffre a été établi. Il n’a pas été dit que l’avocat avait obtenu un rapport médical concernant la blessure. Ensuite, même s’il avait retenu les services d’un avocat, l’appelant a déclaré qu’il avait négocié lui-même le règlement directement avec sa mère, qui, semble-t-il, avait décidé de renoncer à tout conseil juridique sur cette affaire. Par ailleurs, ni l’appelant ni sa mère n’ont donné une indication quelconque que Tabitha Abraham avait participé de quelque manière à ces négociations, malgré leurs prétentions selon lesquelles c’était cette dernière qui était la véritable propriétaire de FCC et que c’était elle qui en contrôlait les activités. De plus, je suis surpris par l’optimisme dont Mme Mathai a semblé faire preuve à propos du règlement, compte tenu des risques financiers possibles auxquels elle s’exposait vu l’entente.
+[30] M. Vallipuranathar a témoigné que c’était lui qui avait recommandé l’appelant à l’avocat, Mark Kushner, lequel aurait prétendument conseillé à l’appelant d’intenter une poursuite. Son témoignage sur ce point me semble tout à fait tiré par les cheveux. M. Vallipuranathar a déclaré n’avoir jamais eu recours lui-même aux services de Me Kushner, mais que, à l’époque où il avait acheté sa maison, soit en 1996, une secrétaire juridique travaillant avec Me Kushner lui avait remis la carte de ce dernier, ainsi que celles de plusieurs autres avocats. M. Vallipuranathar affirme qu’au début de 2001, il a remis cette carte à l’appelant et a ensuite conduit l’appelant jusqu’au cabinet de Me Kushner, à Aurora (Ontario), à quatre ou cinq reprises. D’après M. Vallipuranathar, la distance qui sépare Ajax d’Aurora est de 60 à 70 kilomètres.
+[31] Il m’est difficile de croire que l’appelant aurait retenu les services d’un avocat situé à une telle distance de chez lui en l’absence de références plus sérieuses et en n’ayant aucune idée du travail qu’il faisait.
+[32] M. Vallipuranathar a également déclaré qu’il était présent aux rencontres qui avaient eu lieu entre l’appelant et Me Kushner. Cela me semble très improbable. Je ne vois pas pourquoi M. Vallipuranathar aurait participé à ces rencontres.
+[33] En outre, le libellé de la transaction ne concorde pas vraiment avec le fait que celle-ci aurait été conclue le 15 mars 2001. Le passage suivant est tiré de l’exposé de cette transaction :
+[traduction]
+1. Mathew a subi une blessure très grave au genou, qui s’est soldée par deux interventions chirurgicales, dont une lourde chirurgie reconstructive du LCA, ainsi que par un long processus de rééducation et de rétablissement à la suite d’un accident survenu le 9 novembre 2000 au bureau 205, au 40, Old Kingston Road, à Ajax, c’est‑à‑dire dans les bureaux de Financial Crisis Counselling Inc.
+[Non souligné dans l’original.]
+[34] La mention d’un long processus de rééducation et de rétablissement semble incompatible avec la prétendue date de la transaction, surtout si l’on tient compte du fait que l’une des interventions chirurgicales que l’appelant a subies a eu lieu en février 2001 (voir la pièce R‑2, onglet 6). Il est également étrange que la transaction stipule qu’elle [traduction] « entre en vigueur en date du 15 mars 2001 », si c’est bien là la date à laquelle elle a été conclue. Enfin, il est également difficile de croire que les parties auraient conclu une transaction aussi importante si peu de temps après le prétendu accident, et avant que l’on puisse procéder à une évaluation raisonnablement complète des dommages subis. L’appelant a reconnu lui‑même qu’il avait continué de recevoir des traitements pour son genou et que sa capacité à travailler a été réduite pendant une longue période après la transaction. Aucun facteur n’a été mentionné qui aurait expliqué pourquoi une transaction aussi rapide avait été conclue. Il est également peu crédible que la mère de l’appelant et FCC aient convenu de conclure une transaction sans obtenir de conseils juridiques ou de rapports médicaux.
+[35] Un autre aspect dont les parties n’ont pas parlé au sujet de la transaction règlement, mais qui selon moi, mérite d’être examiné, est la clause relative à l’octroi de dommages-intérêts additionnels de 2 000 $ pour chaque mois durant lequel l’appelant était incapable de travailler, au-delà d’une période initiale de six mois. L’appelant a témoigné qu’il n’avait pas pu travailler pendant la majeure partie de l’année 2001 ainsi que pendant de longues périodes en 2002 et en 2003, mais rien n’a été dit quant à une tentative d’obtenir une indemnité en vertu de l’entente de règlement pour ces périodes d’absence du travail. Cela ne cadre pas avec la thèse de l’appelant selon laquelle il a essayé de recouvrer la totalité des sommes qui lui étaient dues suivant la transaction.
+[36] Je ne puis retenir le moyen que la prétendue transaction conclue entre l’appelant, FCC et la mère de l’appelant est authentique, pas plus qu’elle n’a été conclue en mars 2001. Il me semble nettement plus probable que l’appelant a rédigé cette entente en 2004 pour tenter de camoufler d’importants revenus qu’il avait touchés pour du travail effectué dans le dossier EPC à partir de 2001 (revenus qu’il n’a pas déclarés) en les faisant passer pour des dommages-intérêts pour souffrances et douleurs, lesquels ne sont pas imposables.
+[37] Je signale que la première mention de l’existence de la prétendue entente de règlement a coïncidé avec une vérification fiscale visant l’épouse de l’appelant. De la même façon, la première mention, par FCC, du revenu tiré du dossier EPC et des dépenses liées au prétendu règlement, coïncidait aussi avec cette vérification. Les explications que l’appelant a données quant au fait que FCC n’avait pas déclaré ce revenu et les dépenses connexes étaient alambiquées et non corroborées par quelque autre source, et elles n’étaient nullement crédibles, comme je l’expliquerai plus loin dans les présents motifs.
+[38] Voyons maintenant les éléments de preuve concernant la réception, par l’appelant, des sommes en litige. Comme je l’ai déjà signalé, il dit que ces sommes lui ont été payées conformément à la transaction et qu’ils ne n’avaient aucun rapport avec le travail qu’il avait accompli. Il déclare que ces fonds lui ont été payés soit par FCC soit par Wasserman, sur l’ordre de FCC. Je conclus toutefois que les éléments de preuve ne vont pas dans ce sens.
+[39] Les renseignements dont M. Wasserman a fait part au vérificateur de l’ARC contredisent le témoignage de l’appelant, à savoir qu’il était fort peu intervenu dans le dossier EPC pour FCC au cours des années 2001, 2002 et 2003. M. Wasserman a remis au vérificateur des chèques oblitérés, faits à l’ordre de l’appelant, pour la période de janvier 2002 à décembre 2003. Il ressort de ces chèques que M. Wasserman a payé à l’appelant 2 500 $ par mois pour les mois de janvier 2002 à mai 2003, ainsi que pour les mois d’août à décembre 2003. L’appelant a également reçu la somme de 4 226 $ en juin 2003 et de 50 000 $ en février 2002. En tout, l’appelant a reçu 80 000 $ en 2002 et 29 226 $ en 2003, directement de M. Wasserman. Ce dernier a écrit au vérificateur que ces sommes avaient été payées à l’appelant en contrepartie des services qu’il avait rendus pour le compte de FCC. Ces informations ne peuvent être conciliées avec la déclaration que l’appelant a faite devant la Cour, à savoir qu’il avait rarement été capable de travailler en 2002, ou avec sa déclaration, dans une lettre écrite par lui au vérificateur de l’ARC le 17 juillet 2007, à savoir que la plupart des fonds qu’il avait reçus directement de Wasserman en 2001, 2002 et 2003 l’avaient été pendant qu’il se trouvait dans l’impossibilité de travailler et qu’ils n’avaient pas trait à ses interventions pour le compte de FCC. Un grand nombre des chèques de Wasserman comportent la mention [traduction] « indemnité pour usage de véhicule personnel », mais cela ne change rien au fait que l’appelant, d’après Wasserman, a reçu la totalité de ces paiements quasi mensuels pour des services qu’il avait rendus et que ces paiements couvraient essentiellement la totalité des années 2002 et 2003.
+[40] Pour ce qui est de 2001, l’appelant a déclaré qu’il s’était absenté pendant de longues périodes après l’intervention chirurgicale qu’il avait subie au mois de février de cette année-là. Dans la même lettre au vérificateur, datée du 17 juillet 2007 et mentionnée plus tôt, l’appelant écrit que [traduction] « à cause de l’accident, des interventions chirurgicales et du long processus de rééducation, j’ai été absent de FCC pendant la majeure partie de l’année […] ». Toutefois, à l’audience, il a admis s’être rendu à Vancouver, à Hong Kong et à Montréal en mai et en juin 2001 dans le cadre de son intervention dans le dossier EPC. De plus, dans un courriel envoyé par l’un des collaborateurs de l’appelant à propos de ce dernier à Vancouver, l’appelant est qualifié de [traduction] « responsable » du dossier.
+[41] Par ailleurs, l’appelant a admis avoir tenu les comptes de FCC pendant toute la période de 2000 à 2004.
+[42] Un autre problème que me pose le récit de l’appelant est qu’il ne dit pas qui, si ce n’était pas lui, était intervenu dans le dossier EPC et produit ainsi les honoraires élevés que FCC avait prétendument gagnés. Il n’y a eu aucune preuve satisfaisante quant à l’identité de la ou des autres personnes concernées. Selon l’appelant, FCC faisait affaire avec de nombreux autres entrepreneurs dans le dossier, mais, ensuite, il n’a pu se souvenir que de M. Vallipuranathar et d’une personne appelée « Prabhu ». Il a aussi déclaré que sa sœur était intervenu dans le dossier. Je trouve surprenant que l’appelant n’ait pas un meilleur souvenir que cela des autres prétendus entrepreneurs, étant donné qu’il s’occupait, semble-t-il, de tenir les comptes de FCC. Ce fait, et celui qu’il avait signé les déclarations de revenus de FCC pour les années 2000, 2001, 2002 et 2003, m’amènent à croire que l’appelant était nettement plus au courant des affaires de FCC au cours de cette période qu’il ne l’a indiqué.
+[43] M. Vallipuranathar a bel et bien témoigné que lui-même et d’autres entrepreneurs de FCC étaient intervenus dans le dossier EPC, mais je ne prête pas foi à son témoignage. Il ne m’a donné aucun détail sur le travail accompli, et il ne semble pas posséder les compétences ou la formation qui expliqueraient pourquoi il aurait contribué au dossier EPC. Avant d’entrer au service de FCC, M. Vallipuranathar exploitait un restaurant offrant des mets à emporter et il opérait dans une salle de bingo. Quand on l’a interrogé sur les autres entrepreneurs qui étaient affectés au dossier EPC, M. Vallipuranathar n’a pu se souvenir que d’une personne appelée « Prabhu » et d’une autre appelée « Shankar ». Détail intéressant, l’appelant a d’abord laissé entendre lui aussi que l’un des entrepreneurs de FCC qui avaient pris part au dossier EPC s’appelait Shankar, mais il a plus tard reconnu que Shankar était le comptable externe de FCC, et non un entrepreneur. Je trouve curieux que M. Vallipuranathar ait également nommé le comptable externe de FCC comme étant l’un des entrepreneurs travaillant au dossier EPC, et que son témoignage sur les autres entrepreneurs était presque identique à celui de l’appelant. J’ai eu l’impression que l’appelant avait aidé M. Vallipuranathar à préparer son témoignage.
+[44] J’ai aussi des doutes à propos d’autres éléments du témoignage de M. Vallipuranathar. Par exemple, celui-ci a déclaré avoir entendu parler pour la première fois de FCC par la mère de l’appelant, quand celle-ci s’était présentée à son restaurant. Il dit qu’elle lui a alors remis une carte professionnelle de FCC. Cependant, il a déclaré plus tôt avoir cessé de travailler au restaurant en 1996, soit quatre ans avant la constitution de FCC en société. M. Vallipuranathar a aussi hésité à admettre qu’il est maintenant associé de l’appelant et exerce ses fonctions dans un bureau situé juste à côté de celui de ce dernier.
+[45] Un autre facteur m’amène à rejeter la thèse selon laquelle ce sont d’autres entrepreneurs de FCC qui ont généré des honoraires élevés pour la société dans le dossier EPC – FCC a déclaré avoir fait des paiements très faibles à ses sous‑traitants : 6 605 $ en 2001 et 16 500 $ en 2002. Pour ces années-là, elle n’a pas déclaré non plus de salaires versés à des employés. Il semble fort peu probable que FCC ait pu générer les revenus de 201 000 $ en 2001 et de 321 700 $ en 2002 que l’appelant dit avoir touchés, tout en payant aux travailleurs ayant prétendument généré ces sommes de 3 % ou 5 % de ces revenus au cours chacune de ces années. Enfin, aucun dossier de FCC n’a été produit pour montrer qu’elle était la personne dont l’intervention avait généré les paiements. Les seuls éléments de preuve digne de foi dont je dispose montrent que le travail a été fait par l’appelant. Je suis d’avis qu’il a effectué le travail relatif au dossier EPC et qu’il s’est simplement approprié les revenus qui en découlaient.
+[46] Je tire une conclusion défavorable du fait que l’appelant n’a pas appelé sa sœur à témoigner. Je retiens le témoignage de la mère de l’appelant selon lequel Mme Abraham vit à Ajax (Ontario) et se trouvait à la maison au moment de l’audience, plutôt qu’aux États-Unis, comme l’appelant l’a prétendu dans son témoignage. Je ne vois pas pourquoi la mère de l’appelant mentirait au sujet du lieu où se trouvait sa fille.
+[47] J’ajouterais également que, d’après moi, le témoignage de l’appelant selon lequel Mme Abraham dirigeait FCC est fort peu plausible. En fait, toute l’histoire de FCC, selon la version de l’appelant, m’a paru invraisemblable. Au départ, il a déclaré que l’entreprise avait été constituée en société par son épouse et le cousin de cette dernière et qu’elle était censée assurer les mêmes services que l’entreprise individuelle de son épouse, J and J Consulting. Mais, s’il fallait en croire l’appelant, presque aussitôt après la naissance de cette société, le cousin a déménagé aux États-Unis et l’épouse de l’appelant [traduction] « a cessé de s’intéresser à la société ». Peu après, les actions auraient simplement été transférées à la mère de l’appelant afin qu’elle les détienne pour la sœur de l’appelant, Tabitha Abraham.
+[48] L’appelant a déclaré que sa sœur avait acquis les actions de FCC parce qu’elle voulait exploiter une entreprise semblable à J and J Consulting. Il a déclaré que sa sœur avait auparavant fourni des services de conseil à Wasserman. Cependant, la mère de l’appelant a déclaré que Mme Abraham avait été au service de Wasserman au milieu des années 1990, comme secrétaire-réceptionniste.
+[49] Le moment où a été fondée la prétendue entreprise de Mme Abraham est lui aussi curieux. Selon l’appelant, Mme Abraham est devenue active au sein de FCC juste avant de déménager à Dubaï avec son époux, qui y avait obtenu un emploi. Cependant, si elle était encore présente au Canada à l’époque où elle avait prétendument commencé à jouer un rôle au sein de FCC, pourquoi les actions auraient‑elles été inscrites au nom de la mère de l’appelant plutôt qu’au sien? En revanche, si cela a été fait parce que Mme Abraham prévoyait déménager à Dubaï, pourquoi aurait-elle décidé à ce moment‑là de lancer une nouvelle entreprise au Canada? L’idée qu’elle aurait laissé sa mère s’occuper des activités en son absence est invraisemblable. Sa mère ne pouvait ni lire, ni écrire ni parler l’anglais, et elle ne semblait avoir aucune expérience des affaires. Quand on l’a interrogée sur les tâches qu’elle accomplissait au bureau de FCC, la mère de l’appelant a répondu qu’elle nettoyait le bureau et les toilettes. L’appelant lui-même a dit que sa mère se présentait rarement au bureau de FCC. Par contre, l’appelant est intervenu comme comptable pour la société, il a signé les déclarations de revenus de cette dernière jusqu’en 2004, et l’a également représentée dans tous ces rapports avec l’ARC. Il convient aussi de souligner que la société semble avoir mis fin à ses activités au même moment, à peu près, où l’appelant a lancé son entreprise actuelle : Mathew & Associates. Aucune explication n’a été donnée au sujet de la raison pour laquelle l’entreprise a ainsi mis un terme à ses activités.
+[50] Il y a un autre aspect du témoignage de l’appelant qui me paraît illogique : si FCC était réellement la société de sa sœur, comment FCC en est-elle venue à se charger du dossier EPC? Selon l’appelant, le dossier appartenait au départ à J and J. Il a déclaré qu’en mai et en juin 2001, il s’était rendu à Vancouver, à Montréal et à Hong Kong pour le compte de J and J relativement à ce dossier. Cependant, il a dit qu’il était également au service de FCC à l’époque. Fait intéressant, c’était aussi à l’époque où il a prétendu qu’il ne travaillait pas à cause de sa blessure. L’appelant voudrait que la Cour croie qu’il avait simplement transféré le dossier à FCC, sans protestation de la part de son épouse, la propriétaire de J and J, et que, à partir de ce moment-là, le dossier avait généré plus de 500 000 $ de revenus. La raison pour laquelle l’appelant aurait décidé d’entrer au service soit de J and J, soit de FCC, alors que ces ententes lui étaient manifestement désavantageuses, me laisse également perplexe. Il détenait une licence de syndic et avait, semble-t-il, plus d’expérience que son épouse ou sa sœur en matière de faillites. L’appelant a déclaré qu’il était entré au service de son épouse parce que celle-ci avait plus de relations dans le domaine que lui, mais sans donner plus de détails sur ce point. Là encore, cela me semble peu probable, puisque l’appelant avait été au service de BDO Dunwoody entre 1991 environ et 1994 et était associé à Wasserman, un cabinet de syndics de faillite, depuis 1994.
+[51] Pour en revenir aux thèses principales de l’appelant, à savoir qu’il avait reçu les sommes en cause suivant la transaction et que FCC les lui avait payées sur les revenus qu’elle avait tirés, on penserait que ces paiements ou ces revenus auraient été mentionnés de quelque façon dans les comptes et les registres de FCC. Cela n’a pas été le cas, du moins pas avant que l’ARC ne commence à vérifier la situation de l’épouse de l’appelant, à l’été de 2004. FCC n’a déclaré aucune partie des présumés paiements de règlement dans ses déclarations de revenus pour 2001, 2002 ou 2003 à titre de dépense, pas plus que FCC n’a indiqué le solde de la transaction qu’il restait à payer à titre de créance. En septembre 2004, FCC a produit une déclaration modifiée pour son année d’imposition 2003 afin qu’il soit consigné que le revenu d’EPC était un [traduction] « produit constaté d’avance » et que le solde de la transaction était une créance. Toutefois, même cette déclaration modifiée n’indiquait pas qu’une partie quelconque de la transaction avait été payée avant la fin de 2003, une incohérence qui n’a pas été expliquée à l’audience.
+[52] L’appelant a soutenu que FCC n’avait pas déclaré initialement le revenu d’EPC parce que cette société jugeait que ce revenu était encore subordonné à l’approbation, par le tribunal, des honoraires de syndic de faillite. Il a expliqué que, dans une faillite, un syndic peut faire des prélèvements au cours des procédures de faillite pour son intervention, mais que ces honoraires doivent être approuvés par le tribunal une fois que les comptes définitifs du dossier sont présentés. Selon l’appelant, si les honoraires ne sont pas approuvés, le syndic doit les rembourser. Il a ajouté que, quand il avait discuté de l’affaire avec le comptable de FCC, ce dernier avait conseillé que FCC dépose de nouvelles déclarations de manière à ce que le revenu d’EPC soit consigné dans les années où il avait été reçu. Je n’ai pas bien compris pourquoi le comptable n’aurait pas donné ce conseil au moment de la production des premières déclarations.
+[53] Les explications données par l’appelant au sujet de la situation ne me semblent pas logiques. Selon le témoignage de l’appelant, FCC n’intervenait pas comme syndic de faillite dans le dossier EPC, mais elle était rémunérée par le syndic (Wasserman) pour recouvrer les créances. Un autre problème que pose cette version des faits est que l’appelant lui-même a déclaré au vérificateur, lors d’une réunion tenue le 27 novembre 2006, que le dossier EPC comprenait à la fois une faillite et une mise sous séquestre. La mise sous séquestre avait été établie par Bank of America, qui était un créancier garanti d’EPC et à qui celle-ci devait 40 millions de dollars. Wasserman était intervenue comme séquestre ainsi que comme syndic de faillite. L’appelant a déclaré au vérificateur que la majeure partie des honoraires versés dans le cadre du dossier EPC découlait de la mise sous séquestre et que ces honoraires pouvaient être payés au séquestre sans l’accord du tribunal.
+[54] Par ailleurs, l’appelant n’a pas dit pourquoi la somme que FCC devait prétendument à l’appelant suivant la transaction n’avait pas été déclarée à titre de créance dans ses états financiers relatifs aux années 2002, 2003 ou 2004, ou pourquoi les prétendus paiements de règlement n’avaient pas été déclarés à titre de dépenses dans le calcul du revenu de FCC. La question de la déclaration des paiements de règlement à titre de dépense était tout à fait indépendante de la question de la subordination du revenu d’EPC. La non-déclaration des incidences financières de la transaction dans les déclarations fiscales de FCC m’amène à conclure que la transaction n’a pas été formée avant septembre 2004, soit la date de production de la déclaration de revenus modifiée de FCC.
+[55] Un autre point qui m’amène à conclure que la prétendue transaction n’est pas authentique est que l’appelant dit n’avoir jamais touché le solde impayé de 73 300 $ de FCC ou de sa mère. Il semble qu’après avoir obtenu en décembre 2004 un jugement sur consentement concernant le solde impayé, l’appelant n’a pris aucune mesure de recouvrement. S’il n’avait pas l’intention de donner suite à l’affaire, il y a lieu de se demander pourquoi il se serait donné la peine d’intenter une action pour recouvrer sa créance. Là encore, je crois qu’il l’a fait pour donner l’impression que la transaction était authentique et que les sommes qu’il avait reçues de Wasserman et de FCC n’étaient pas imposables.
+[56] En résumé, je conclus, selon la prépondérance des probabilités, que l’appelant a reçu les sommes en litige pour 2001, 2002 et 2003 à titre de revenus en contrepartie des services qu’il avait fournis à Wasserman et à FCC.
+Analyse
+[57] L’appelant a fait valoir que les montants ajoutés à son revenu avaient été reçus à titre de dommages-intérêts pour souffrances et douleurs. Comme je l’ai déjà expliqué, je rejette son témoignage sur ce point et je conclus que l’intimée a démontré, selon la prépondérance des probabilités, que l’appelant avait touché les sommes en litige pour 2001, 2002 et 2003 à titre de revenus en contrepartie des services qu’il avait fournis à Wasserman et à FCC.
+[58] L’appelant s’est fondé sur une jurisprudence de la Cour, Jencik c. La Reine, 2004 CCI 295, à l’appui de la thèse selon laquelle l’intimée ne s’est pas acquittée du fardeau de prouver qu’il avait fait une présentation erronée dans ses déclarations de revenu pour ses années d’imposition 2001 et 2002. L’appelant soutient que le ministre n’a donc pas démontré qu’il était en droit d’établir des nouvelles cotisations à l’égard de ces années après la période normale de nouvelle cotisation.
+[59] Dans l’affaire Jencik, le ministre avait établi des nouvelles cotisations à l’égard du contribuable après la période normale de nouvelle cotisation relativement à des revenus non déclarés. Les nouvelles cotisations étaient fondées sur une analyse des dépôts bancaires qui avaient été faits dans les comptes du contribuable. Cette analyse avait mis au jour des dépôts inexpliqués dans les comptes du contribuable, et le ministre avait assimilé ces dépôts à un revenu tiré de l’entreprise du contribuable. La Cour a noté, au paragraphe 13 de la décision Jencik que, dans de telles situations, le fardeau de l’intimée « s’étend non seulement à la preuve du caractère erroné des présentations de l’appelant à propos de son revenu d’entreprise, mais également à la preuve qu’elles étaient causées par la négligence, l’inattention ou une omission volontaire, comme le soutient le ministre ».
+[60] Dans l’affaire Jencik, l’intimée n’avait présenté aucun élément de preuve qui rattachait les dépôts à l’entreprise du contribuable. Le juge a conclu que la présomption selon laquelle les dépôts non identifiés étaient des revenus provenant d’une entreprise n’était pas étayée par une conclusion que l’on pouvait tirer de la preuve. Il a conclu que la thèse de l’intimée reposait donc sur des conjectures, et que cela n’était pas suffisant pour s’acquitter du fardeau de la preuve.
+[61] En l’espèce, l’appelant a fait valoir que l’argumentation de l’intimée reposait sur des conjectures et qu’il n’y avait aucune preuve que les montants en litige qu’il avait reçus en 2001, 2002 et 2003 représentaient des revenus plutôt que des dommages-intérêts pour souffrances et douleurs. Je ne puis retenir cette thèse. Dans l’affaire Jencik, il y avait une absence complète de preuves rattachant les dépôts bancaires à l’entreprise du contribuable. En l’espèce, il ressort des éléments de preuve que l’appelant était intervenu dans le dossier EPC pendant toute la période où il prétendait ne pas avoir travaillé à cause de sa blessure au genou, et qu’il avait exercé ses fonctions de façon continue en 2002 et en 2003 pour le compte de Wasserman. Il ressort aussi des éléments de preuve que l’appelant avait reçus directement de Wasserman des paiements importants pour ses activités au service de FCC. Je n’hésite aucunement à conclure que le total des sommes que l’appelant a admis avoir reçues de Wasserman et de FCC en 2001, 2002 et 2003 étaient des revenus pour des services qu’il avait rendus, et non pas des dommages‑intérêts. Je conclus donc que, en omettant de déclarer ces revenus dans ses déclarations de revenu pour les années d’imposition 2001, 2002 et 2003, l’appelant a fait des déclarations erronées par omission volontaire et que la période normale de nouvelle cotisation ne s’applique pas.
+[62] En revanche, pour l’année 2004, je conclus que l’appelant n’a pas touché les 73 300 $ que le ministre a inclus dans son revenu. Bien qu’il ait admis avoir reçu les sommes en cause en 2001, 2002 et 2003 de FCC ou de Wasserman et qu’il existe une preuve de son intervention, il n’a jamais admis avoir reçu la somme de 2004, et l’intimée n’a produit aucune preuve démontrant qu’il l’avait bel et bien reçue ou qu’il avait rendu des services au cours de cette année-là.
+[63] Pour ce qui est des pénalités en cause, la partie applicable du paragraphe 163(2) de la LIR dispose :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse [appelé « déclaration » au présent article] rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité [...].
+[64] Pour les motifs exposés ci­‑dessus, je conclus que l’appelant a fait sciemment des déclarations erronées en produisant ses déclarations de revenu pour chacune des années d’imposition 2001, 2002 et 2003 et en omettant d’y inclure les revenus qu’il avait reçus pour des services rendus à FCC et à Wasserman. Je conclus que la transaction que l’appelant prétendait avoir conclue avec sa mère et FCC était un stratagème et que cette entente a été rédigée après coup afin de camoufler les revenus en rentrées de fonds non imposables.
+[65] Par ces motifs, l’appel est accueilli partiellement et la nouvelle cotisation relative à l’année d’imposition 2004 est renvoyée au ministre, étant entendu que le montant de 73 300 $ sera supprimé du revenu de l’appelant. L’intimée a droit aux dépens entre parties.
+Signé à Vancouver (Colombie-Britannique), ce 2e jour d’août 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 4e jour de décembre 2012.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 289
+No DU DOSSIER DE LA COUR : 2009-3667(IT)G
+INTITULÉ : JOSEPH MATHEW c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 22 et 23 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 2 août 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

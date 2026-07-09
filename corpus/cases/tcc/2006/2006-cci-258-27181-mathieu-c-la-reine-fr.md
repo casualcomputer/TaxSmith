@@ -1,0 +1,162 @@
+---
+title: "Mathieu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27181/index.do"
+last_modified: "2006-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 258"
+citation2: ""
+neutral_citation: "2006 CCI 258"
+decision_date: "2006-04-27"
+language: "fr"
+item_id: "27181"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 984
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:39:33.444000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c8e8bc1069bf803a52971cdea8dc65fe983a75696bcbbd5ddd2077ee63f8640"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mathieu c. La Reine
+
+- Citation: 2006 CCI 258
+- Decision date: 2006-04-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 984, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathieu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-27
+Référence neutre
+2006 CCI 258
+Numéro de dossier
+2004-3220(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-3220(IT)I
+ENTRE :
+GAÉTAN MATHIEU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande faite par lettre en date du 5 avril 2006 et complétée
+par conférence téléphonique le 27 avril 2006 à Ottawa (Ontario)
+devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Michel Poulin
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+ORDONNANCE
+Vu que l'avocate de l'intimée à demandé à la Cour de reconsidérer l'adjudication des frais et dépens faite dans un jugement rendu le 29 mars 2006;
+La demande est rejetée, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI258
+Date : 20060427
+Dossier : 2004-3220(IT)I
+ENTRE :
+GAÉTAN MATHIEU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+La juge Lamarre Proulx
+[1] Il s'agit d'une demande de la part de l'intimée que la Cour reconsidère son adjudication des dépens.
+[2] Voici le texte de la demande de l'intimée :
+...
+Nous avons bien reçu copie de la décision rendue par la Cour canadienne de l'impôt datée du 29 mars 2006.
+Or, nous avons constaté, à la page 11, au paragraphe 32 de la décision que la Cour mentionne ce qui suit :
+[32] Les frais sont accordés à l'appelant à l'encontre de l'intimée pour la moitié.
+Comme ce dossier fut entendu selon la procédure informelle, normalement il n'y a pas de frais accordés à la partie appelante sauf si le montant total en litige est réduit de plus de moitié, ce qui n'est pas le cas en l'espèce.
+En effet, selon la preuve soumise lors de l'audition et selon la Réponse à l'avis d'appel du Ministre, l'impôt en litige relatif au crédit pour déficience mentale ou physique s'élève à au plus 989.00 $, tandis que l'impôt en litige relativement à la déduction pour pension alimentaire s'élève à 27 721 $ (réf : paragraphes 2, 3 et 5 de la Réponse à l'avis d'appel du Ministre).
+Donc, en accordant le crédit pour personne handicapée à l'appelant, c'est seulement la somme de 989.00 $ qui fut allouée, soit beaucoup moins que la moitié du montant total d'impôt en litige (montant total étant de : 989 $ + 27 721 $).
+[3] Je cite une partie de la Réponse de l'avocat de l'appelant :
+...
+Nous désirons vous faire part que l'Honorable juge instrumentant en Cour canadienne de l'impôt possède toute la discrétion nécessaire pour rendre les ordonnances qu'il croit appropriées, car il s'agit d'un jugement et non d'une appréciation d'un règlement.
+...
+D'autre part, même si nous considérerions le montant total en litige, il faut d'abord considérer que cette demande formulée devant la Cour canadienne de l'impôt était basée sur deux éléments complètement différents, soit, dans un cas, la déductibilité d'une dépense alimentaire et, dans l'autre cas, l'obtention d'un crédit d'impôt pour déficiences physiques.
+Nous considérons donc pour toutes ces raisons qu'il n'y a pas lieu pour le Greffier de la Cour canadienne de l'impôt de modifier l'ordonnance rendue par le tribunal de la Cour canadienne de l'impôt.
+Analyse et conclusion
+[4] Les paragraphes 10(1) et 10(2) des Règles de la Cour canadienne de l'impôt (procédure informelle) se lisent ainsi :
+10(1) Les dépens sont laissés à la discrétion du juge qui règle l'appel, dans les circonstances établies au paragraphe 18.26(1) de la Loi, qui prévoit ce qui suit :
+18.26(1) Dans sa décision d'accueillir un appel visé à l'article 18, la Cour :
+a) rembourse à l'appelant le droit de dépôt qu'il a acquitté en vertu de l'alinéa 18.15(3)b);
+b) peut, conformément aux modalités prévues par ses règles, allouer les frais et dépens à l'appelant si le jugement réduit de plus de la moitié le total des montants en cause ou le montant des intérêts en cause, ou augmente de plus de la moitié le montant de la perte en cause.
+10(2) Le juge peut ordonner le paiement d'un montant forfaitaire, au lieu des dépens taxés.
+[5] Je trouve utile de citer le paragraphe 147(3) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles » ) :
+147(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l'instance;
+b) des sommes en cause;
+c) de l'importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d'une partie qui aurait abrégé ou prolongé inutilement la durée de l'instance;
+h) de la dénégation d'un fait par une partie ou de sa négligence ou de son refus de l'admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l'instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[6] Les montants en litige ne sont pas de la même nature. Le montant de 27 000 $ est un montant afférent au calcul du revenu. Le montant de 989 $ est un montant afférent au calcul de l'impôt. Il s'agit du montant du crédit d'impôt. Il ne s'agit donc pas de deux montants qui peuvent être calculés ensemble pour déterminer si le jugement réduit de plus de la moitié le total des montants en cause. Cela amènerait, avec égard, à un résultat absurde.
+[7] Au paragraphe 18(1) de la Loi sur la Cour canadienne de l'impôt « les montants en cause » réfèrent aux montants d'impôt cotisé. Il paraîtrait surprenant que le paragraphe 18.26(1) de cette loi, qui emploie le même langage que le paragraphe 18(1) de la même loi, réfère à des montants autres que des montants d'impôt.
+[8] Toutefois, il peut arriver qu'il soit utile dans l'adjudication des frais d'avoir une certaine flexibilité et que si tous les montants considérés lors d'un litige sont tous afférents au calcul du revenu, que ce soit sur la moitié du total de ces montants que le juge décide.
+[9] Dans la présente affaire, l'avocate s'en est tenue au montant de 27 000 $ et n'a pas voulu établir ou proposer un montant sur l'impôt correspondant. Je ne conteste pas sa décision car cela aurait pu être difficile à établir. Toutefois nous sommes, ainsi que mentionné précédemment, dans une situation où les deux montants en cause ne sont pas de la même nature.
+[10] Il s'agit donc d'une situation où, à mon sens, les règles normales de la procédure doivent être utilisées pour pallier à l'insuffisance législative. Un des éléments qui peut être considéré, tel que mentionné au paragraphe 147(3) des Règles, est l'importance des questions en litige.
+[11] Dans cet appel, il y avait deux questions importantes soit le droit à une déduction pour pension alimentaire et soit le droit à un crédit d'impôt pour personne handicapée. L'intimée a eu gain de cause pour la première, l'appelant pour la seconde.
+[12] Un autre élément à considérer dans l'adjudication des frais est que l'appelant était représenté par avocat.
+[13] Pour toutes ces raisons, je suis d'avis que ma décision d'accorder la moitié des frais à l'appelant ne doit pas être modifiée.
+Signé à Ottawa, Canada, ce 27e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI258
+N º DU DOSSIER DE LA COUR : 2004-3220(IT)I
+INTITULÉ DE LA CAUSE : GAÉTAN MATHIEU c. LA REINE
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : le 27 avril 2006
+MOTIFS DE L'ORDONNANCE PAR : L'hon. juge Louise Lamarre Proulx
+DATE DE L'ORDONNANCE : le 27 avril 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Michel Poulin
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Michel Poulin
+Cabinet : Poulin, Vézina, Pettigrew
+Québec (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

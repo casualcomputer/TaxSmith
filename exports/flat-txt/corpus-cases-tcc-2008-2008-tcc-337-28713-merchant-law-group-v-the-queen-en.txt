@@ -1,0 +1,213 @@
+Title: Merchant Law Group v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28713/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-337-28713-merchant-law-group-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-06-13
+
+# Merchant Law Group v. The Queen
+
+- Citation: 2008 TCC 337
+- Decision date: 2008-06-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1438, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merchant Law Group v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-13
+Neutral citation
+2008 TCC 337
+File numbers
+2004-4624(GST)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4624(GST)G
+BETWEEN:
+MERCHANT LAW GROUP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 28 and 29, 2008 at Regina, Saskatchewan
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+Counsel for the Appellant:
+Anthony Merchant, Q.C.
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, with respect to Assessment No. 09ES0001653 relating to the 2000, 2001, 2002 taxation years and January 1 through April 30, 2003 assessment periods is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and recalculation in accordance with the reasons set out in the attached Reasons for Judgment.
+The Appellant shall have its costs as provided herein plus disbursements and applicable taxes.
+Signed at Ottawa, Canada, this 13th day of June, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2008TCC337
+Date: 20080613
+Docket: 2004-4624(GST)G
+BETWEEN:
+MERCHANT LAW GROUP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, J.
+Introduction
+[1] This is an appeal from an assessment made under Part IX of the Excise Tax Act (the “Act”) for the 2000, 2001, 2002 taxation years and January 1 through April 30, 2003, assessment periods for which the Minister of National Revenue (the “Minister”) assessed the Appellant Law Firm as owing approximately $77,350 in Goods and Services Tax (“GST”). The Minister adjusted the Appellant’s payable GST on the grounds that the latter failed to collect and remit GST on legal disbursements, which were paid by the Appellant for and on behalf of its clients, and which were almost exclusively taken out of the Appellant’s trust funds. The Minister also adjusted the Appellant’s Input Tax Credits (ITCs) and alleged errors in accounting after comparing the Appellant’s General Ledger to its GST returns.
+Facts
+[2] The Appellant is a law firm carrying on the practice of law, mainly in litigation, in Regina, Saskatchewan, amongst other places. It did not collect and remit GST on certain legal disbursements incurred for and on behalf of its clients, which were then billed to the clients or paid out of client trust funds. Those disbursements for the clients were almost always paid out of the client trust funds held by the Appellant and they included disbursements for:
+1. Appraisal Reports;
+2. Motor Vehicle Accident Reports;
+3. Courier Service;
+4. Transcripts;
+5. Investigation Reports;
+6. Hospital Records;
+7. Security Reports and Search Certificates/Reports;
+8. Medical Reports;
+9. Parking;
+10. Travel Expenses;
+11. Security Certificates;
+12. Marriage Certificates;
+13. Birth Certificates;
+14. Death Certificates.
+[3] The Appellant in billing these disbursements to its clients did not add on any additional charges, nor did it alter any of the documents, i.e. Reports, Transcripts, Certificates, which were received by the Appellant as a result of these disbursements. Practically all of the disbursements were paid out of the trust funds which had been paid to the Appellant by its clients and which funds were separate and apart from the firm’s general funds. All disbursements were incurred at the direction of its client, and for and on behalf of the advancement of the client’s case. All property ownership of the documents developed from these disbursements rested with the clients.
+[4] In some circumstances, if the disbursements were small in nature such as for example, $5 to $25 for certificates, parking, et cetera, they would be paid from the firm’s funds and then billed to the client; in all other cases the disbursements were paid out of the client’s trust funds. Courier fees, parking fees and travel expenses were incurred by the Appellant specifically for carrying out its legal duties for and on behalf of its clients; they did not represent actual expenses of the law firm itself. For example, if a lawyer of the Appellant had to travel to Saskatoon for the purpose of carrying on a discovery, the travel expenses would be specifically those for the client while if the lawyer was travelling on firm related business, such as Law Society meetings or business development, they would not be disbursements to the client but rather firm expenses.
+[5] The Appellant also provided professional services for and on behalf of Legal Aid Manitoba. Legal Aid Manitoba confirmed that the services provided by the Appellant were paid with Crown funds on behalf of the Government of Manitoba and are therefore GST exempt. Accordingly, Legal Aid Manitoba would not reimburse the Appellant for GST billed to them on certain invoices.
+[6] The Appellant engaged an external Chartered Accountant after each year end (December 31st) to do a reconciliation relating to GST. In January of each year, this Accountant reviewed the GST records of the Appellant; he compared the Appellant’s GST returns to the Appellant’s General Ledger. At the end of the review, the Accountant would inform the Appellant if any additional GST amounts are due. This process was followed in January 2004 for the year ending December 31, 2003 and an additional GST amount was found to be owed and it was paid in January 2004.
+[7] The Accountant also reviewed the Canada Revenue Agency’s (CRA) audit of the Appellant’s ITCs for 2000, 2001, 2002 and January 1 to April 30, 2003 and determined that $9,000 was owed to the Appellant. CRA assessed the amount of ITCs to which the Appellant was entitled as $25,515.66, as opposed to the $34,515.66 alleged by the Appellant and its external Chartered Accountant.
+[8] This $9,000 adjustment in increased ITCs to which the Appellant asserts it was entitled, was the result of a 100% analysis of all the invoices in question for all years in issue, while CRA’s audit only relied upon a sample of 40%.
+[9] The Respondent in reassessing the Appellant’s payable GST with regard to legal disbursements relied upon CRA’s GST/HST Policy Statement No. P-209R. That Policy Statement differentiates legal practice areas and then enumerates for which disbursements the lawyer acted as the client’s agent and as such does not need to collect and remit GST. Apparently, after the audit was completed and an objection filed, additional information was forthcoming from the Appellant and the assessment was adjusted for ITCs bringing the assessment down from $93,408.76 to $77,361.01. The auditors followed Policy No. P-209R without deviation.
+Issues
+[10] 1. Was the Appellant acting as an agent for its clients in terms of legal disbursements incurred and if so, were these disbursements subject to GST?
+2. Are the professional services provided by the Appellant to Legal Aid Manitoba subject to GST?
+3. What, if any, disbursements incurred by the Appellant are GST exempt?
+4. What, if any, additional ITCs is the Appellant entitled to?
+5. What, if any, accounting deficiencies were carried out by CRA or by the Appellant in terms of calculation of GST and/or ITCs?
+6. What, if any, penalty is the Appellant liable for?
+[11] Issues 1 to 4 and 6 were agreed to by both parties as the issues before the Court at the beginning of the trial. In closing arguments, the Appellant raised issue 5.
+Position of the Appellant
+[12] The Appellant takes the position that it was, at all times, acting as an agent for its clients and as such any disbursements made for and on behalf of the clients were not subject to GST. Further, the Appellant takes the position that invoices to legal aid, in particular Legal Aid Manitoba, are exempt from GST, pursuant to Schedule V, Part V of the Act. The Appellant further asserts that it has not been given the appropriate amount of ITCs. The Appellant also argues that there were errors in accounting conducted in the audit by CRA when it did a comparison between the Appellant’s General Ledger and its GST returns which should have been reflected in its audit. The Appellant also asserts that as a result of all of the foregoing and since there was no negligence or wilful wrongdoing on its part, it is not subject to any penalties as suggested by the Respondent.
+Position of the Respondent
+[13] The Respondent asserts that although there very well may be an agency relationship between the Appellant Law Firm and its clients, there are certain legal disbursements that are subject to GST, one of which would include accounts to Legal Aid authorities. The Respondent also states that the Appellant has received the appropriate amount of ITCs and further denies any allegation of accounting errors in CRA’s audit. Finally, the Respondent submits that the Appellant is subject to penalties for failure to remit the appropriate amount of GST.
+Law and Analysis
+[14] At the beginning of the trial and in the closing argument, the Appellant spent considerable time on the assumptions relied upon by the Minister and on what is the initial onus and how it may shift. This area of the law has been settled in Hickman Motors Ltd. v. Canada, [1997] 2 S.C.R. 336, a decision of the Supreme Court of Canada in which Madame Justice L’Heureux-Dubé stated in part, starting at paragraph 92, the following:
+92 It is trite law that in taxation the standard of proof is the civil balance of probabilities: … and that within the balance of probabilities, there can be varying degrees of proof required in order to discharge the onus, depending on the subject matter: … The Minister in making assessments, proceeds on assumptions … and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment … The initial burden is only to “demolish” that exact assumptions made by the Minister but no more: …
+93 This initial onus of “demolishing” the Minister’s exact assumptions is met where the appellant makes out at least a prima facie case: … The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minster’s assumptions: …
+94 Where the Minister’s assumptions have been “demolished” by the appellant “the onus … shifts to the Minister to rebut the prima facie case” made out by the appellant and to prove the assumptions: …
+95 Where the burden has shifted to the Minister, and the Minister adduces no evidence whatsoever, the taxpayer is entitled to succeed: …
+Issue Number 2
+[15] Are the professional services provided by the Appellant to Legal Aid Manitoba subject to GST?
+[16] In the midst of the closing arguments of the Appellant, the Respondent conceded that CRA was in error in assessing GST on professional services provided by the Appellant to Legal Aid Manitoba. The Respondent agreed that a downward adjustment of $7,112.50 (Working Paper #5500) was required in the assessment, plus interest, to reflect the fact that GST was not applicable on the professional services provided by the Appellant to Legal Aid Manitoba.
+[17] This particular issue should never have come before this Court. It could have been and should have been easily resolved by a simple inquiry by the Minister. The Minister knew or ought to have known that the supply of legal services provided under a legal aid plan administered by or under the authority of a government of a province made by the person responsible for administering the plan is exempt from GST, as per Schedule V, Part V to the Act. The Respondent conducted an audit which includes examining GST invoices and therefore it should have been fully aware of the payments made by Legal Aid Manitoba; this is clearly something that the Respondent should have inquired about during the audit process.
+Issue Numbers 1 & 3
+[18] Was the Appellant acting as an agent for its clients in terms of legal disbursements and if so were these disbursements subject to GST? What, if any, disbursements incurred by the Appellant are GST exempt?
+[19] GST/HST Policy Statement P-182R was revised by CRA in July 2003 and it examines the meaning of an “agency relationship”. It replaces Policy Statement P-182R dated June 23, 1995. This present administrative policy statement expressly states the essential qualities of an agency relationship as follows:
+1. Consent of both parties;
+2. Authority of the person to affect the other party’s legal position;
+3. The other party’s control of the person’s action.
+Additional indicators of an agency relationship are as follows:
+1. Assumption of risk;
+2. Accounting practice;
+3. Remuneration;
+4. Best efforts;
+5. Alteration of property as acquired;
+6. Use of property or service;
+7. Liability under contract / Liability for payment;
+8. Ownership of property.
+[20] It is trite to say that the relationship that exists between a solicitor and his client is one of principal and agent. In the case at bar, the evidence shows that all essential qualities constituting an agency relationship exist. The Appellant adduced specific evidence with respect to its practices on legal disbursements and the relationship that exists between the Barristers and Solicitors and their respective clients. The evidence went to establish that an agency relationship existed in this particular case as it usually would in any case involving a lawyer and his or her clients. The agency relationship is even more present in this particular case because almost all of the disbursements were paid directly out of the trust funds impressed with the Appellant by the clients. The evidence clearly established that the following types of disbursements, which were incurred by the Appellant for and on behalf of its clients, were paid directly out of the client’s trust fund and were incurred for and upon the instructions of the clients at the consent of both parties.
+Appraisal Reports;
+Motor Vehicle Accident Reports;
+Courier Fees;
+Transcript Fees;
+Investigative Reports;
+Hospital Records;
+Security Reports;
+Medical Reports;
+Parking Fees;
+Travel Expenses;
+Security and Search Certificates;
+Birth Certificates;
+Marriage Certificates;
+Death Certificates.
+[21] The evidence is equally clear that there were no add-ons to these disbursements, nor were they altered by the Appellant. Furthermore, the property ownership of the reports, certificates, et cetera, received by the Appellant, rested with the client and everything was paid out of the trust funds save and except for small disbursements.
+[22] In assessing the Appellant, the Minister relied upon GST/HST Policy Statement P-209R entitled “Lawyers and Disbursements” which states in part as follows:
+Decision
+Generally, the Canada Revenue Agency will treat a disbursement described in this policy statement in the manner indicated, unless there is strong evidence to the contrary that it should not be so treated. If in a specific case strong evidence does exist that a contrary treatment should apply to a particular disbursement, then the general position taken in this policy statement will not apply to that disbursement for that specific case and a separate analysis of the facts surrounding the particular disbursement will be completed. [Emphasis added].
+The policy goes on to discuss the disbursements which will be incurred, as an agent or not incurred as an agent, in various areas of law practice including real estate, intellectual property, business law, civil law litigation and wills and estates practice. Of particular concern in this policy are the common disbursements designated as - “not incurred as an agent” - in the area of civil litigation. In that area the policy is irrational and nonsensical. For example, it is difficult to comprehend why witness fees, fees paid for service of a document, fees for recording services or transcript production or fees for the preparation of experts’ reports or an attendance fee for expert witnesses, fees for Court transcripts or any other fees of this nature, are any less incurred by a Barrister and Solicitor as an agent for his client, than are the filing fees for pleadings in the Court or registration fees or anything of that nature. They are necessary expenses and are only incurred with the client’s consent. The line drawn by CRA’s Policy Statement P-209R between legal disbursements “not incurred as an agent” and legal disbursements “incurred as an agent” seems arbitrary and lacks legal support or obvious forethought. Indeed, the only witness called by the Respondent at the trial, the appeals officer, basically said, and this was admitted by the Respondent, that this policy was king. No advice was sought with respect to the application of the policy; no direction was sought with respect to how the policy applies in a case by case basis. The policy was applied automatically as the auditor or appeals officer saw fit without consideration of the nature of the disbursement or other factors arising out of the relationship between the principal and its agent. If a disbursement was not one described in the Policy Statement as exempt, CRA would automatically conclude that GST is applicable. The policy was followed blindly regardless of the strength of evidence that would indicate otherwise. Someone with some civil litigation experience could have been consulted with respect to whether or not the principles of an agency relationship are applicable in a case such as the one before this Court.
+[23] There is no doubt but that the Appellant has discharged the onus on Issue No. 1 and as such answered Issue No. 3. Having reviewed the lawyer’s disbursements for each year under appeal, I am satisfied that all of the lawyer’s disbursements presented by the Appellant as contested ought not to have been subject to GST and as such the appeal will be allowed, (except as herein stated), in relation to the sums of $10,139.65 for 2000, (Working Paper 5005), $8,697.87 for 2001, (Working Paper 5000), $32,041.50 for 2002, (Working Paper 5003), and $9,795.16, (Working Paper 5004), for the period of January 1 through April 30, 2003. On the review of various exhibits produced on this issue almost all of these disbursements are broken down into courier, searches, medical reports, appraisal reports, investigative reports, marriage certificates or similar certificates, transcripts, court reporting fees, assessments and a variety of appraisals. There is a reference to office expenses and the appeal with respect to these office expenses is not allowed, as no evidence or explanation was presented in that regard. Therefore, the legal disbursements consisting of office expenses are subject to GST.
+Issue Number 4
+[24] What, if any, additional ITCs is the Appellant entitled to?
+Mr. Brian Reynard, an external Chartered Accountant, was brought in by the Appellant to review the ITCs to which the Appellant thought it was entitled for the years at issue. His evidence was clear and uncontradicted. He testified that the Appellant is entitled to $9,000 more in ITCs more than CRA allocated for the period in question. He pointed out that he arrived at $9,000 by analyzing 100% of the applicable invoices while CRA’s analysis only relied upon a 40% sample. CRA refused to adjust the ITCs allowable to the claimant after the analysis of Mr. Reynard was completed. I find that the Appellant has met its onus on this issue; the evidence of the Appellant has not been contradicted by the Respondent. The appeal on this issue is allowed to the extent that the Appellant will be allowed an additional $9,000 ITCs for the years in question.
+Issue Number 5
+[25] What if any accounting deficiencies were carried out by CRA or on the Appellant in terms of calculation of GST and/or ITCs?
+The Appellant had an external accountant review its books every January to advise them as to whether or not they owed GST and if so a payment was made in the same month covering off the balance owing as of December 31st of the previous year. The Court is not in the position to make a determination that there are any errors in the audit of CRA on this particular point. The evidence of the Appellant related to the year ending December 31, 2003, with a payment having been made to CRA in January of 2004 of an additional amount of GST owing by the Appellant as of December 31, 2003. The assessment before this Court is not in relation to the year ending December 31, 2003 but was for 2000, 2001, 2002 and January 1, 2003 to April 30, 2003. There is no evidence before the Court to destroy the validity of the assessment as it relates to alleged accounting errors in the CRA’s audit.
+Issue Number 6
+[26] The Respondent had sought a penalty under subsection 280(1) of the Act. For the years under appeal, that subsection reads as follows:
+280.(1) Penalty and Interest -- Subject to this section and 281, when a person fails to remit or pay the amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the rate prescribed rate
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+[27] This penalty is strict liability and may be challenged where the taxpayer demonstrates due diligence. The Appellant has been relatively successful on the appeal and I believe the evidence demonstrates that the Appellant did exercise due diligence. The Appellant sought direction from CRA when the GST was initially instituted and received little or no response. The Appellant filed its GST returns regularly and made appropriate remittances – sometimes in excess of what was owing. The Appellant annually conducted a review of its GST status at year end and then made any additional required adjustments. Therefore, I conclude that no penalties are applicable under paragraph 280(1)(a) of the Act. I have upheld the assessment of $25,622.08 which relates to GST unpaid, subject to adjustments of GST on the disbursements as referenced to herein, the additional ITCs allowed and GST on office expenses, all subject to a recalculation of interest (however no penalty under subsection 280(1) is allowed) is accordingly due on the ultimate adjusted amount, whatever it may be.
+Costs
+[28] Rule 147 of the Tax Court of Canada Rules (General Procedure), indicates that this Court has full discretionary power over the payment of costs of all parties involved in any proceeding, the amount and allocation of those costs, and determining the persons by whom they are to be paid.
+[29] In exercising this discretion, the Court shall consider a variety of factors, in particular those which are enumerated under Rule 147(3) of the Tax Court of Canada Rules (General Procedure).
+(a) The result of the proceeding:
+Of the six issues before the Court (there were really only 5, as issue 1 and 3 were related), the Appellant was successful in three of them, one of which was conceded in the course of the Appellant’s closing argument, the second one, namely the one dealing with legal disbursements made in an agent capacity should not have proceeded to trial. The third one was the issue of the Appellant’s entitlement to additional ITCs. As a result of the Appellant’s success on these three points, the assessment was effectively reduced by approximately $60,700 without regard to interest.
+(b) The amounts in issue:
+The amounts in issue were significant, over $77,360 plus penalties and interest.
+(c) The importance of the issues:
+The issues are of extreme importance to the Appellant especially given the manner in which the Respondent moved so quickly to collect the funds in question. The Respondent froze the Appellant’s bank account within 9 days of a reassessment; before the time expired for the Appellant to even object. It should be noted that while the Respondent’s actions might seem harsh, they may have been the result of the Appellant’s unwillingness to cooperate. There appears to be evidence of two courtesy telephone calls that were placed to the Appellant, with no response forthcoming before the Crown took action on the Appellant’s bank accounts.
+(d) Offer of Settlement in writing:
+There is no indication of any offers of settlement, in writing by either party.
+(e) Volume of work:
+This case required a fair amount of preparation for the trial. It was complex in terms of numbers and co-relating documents that needed to be presented to assure a proper evidentiary flow.
+(f) Complexity of the issues:
+The issue with respect to the GST on legal aid invoices and the issue relating to legal disbursements incurred by a lawyer as its client’s agent were not complex issues and should not be classified as such. The issue with respect to the entitlement to additional ITCs and the issue dealing with the alleged errors in the CRA audit were also not complex matters. However, there were some complexities in preparing and presenting evidence at the trial by both parties’ witnesses.
+(g) The conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding:
+I believe the Respondent contributed unnecessarily to the duration of the proceeding by not conceding the issue of GST on legal aid invoices earlier and by not doing an in-depth analysis with respect to the applicability of the principal agency relationship to the circumstances of the Appellant and its clients, which has taken up most of the trial. The Appellant contributed unnecessarily to the duration of the proceedings by its preliminary Motion and argument regarding the onus of proof, the nature of it and when it shifts.
+(h) The denial or the neglect or refusal of any party to admit anything that should have been admitted:
+My comments with respect to the point (g) are applicable and I will not repeat them.
+(i) Whether any stage in the proceeding was improper, vexatious or unnecessary or taken through negligence, mistake or excessive caution:
+I believe the motion by the Appellant at the commencement of the trial was unnecessary with respect to the onus, as the law is clear on this particular point, and settled by the Supreme Court of Canada.
+(j) Any other matter relevant to the question of costs:
+It is my view that the parties, could have resolved this matter without going to Court or failing to resolve it, could certainly have shortened up the trial by having a more organized presentation in both accounts.
+[30] Having regard to all of the foregoing, the Appellant is awarded its costs in the amount of $5,500 which represents 55% of what the Court considers to be party to party cost of the Appellant under Tariff B plus reasonable disbursements and applicable taxes.
+[31] The appeal is allowed in part and the matter is referred back to the Minister for reconsideration and recalculation on the following basis:
+(1) The Appellant is not liable to pay GST on disbursements as described in the Audit Working Papers 5005, 5000, 5003 and 5004 as shown in Exhibit R-2, and as referred in paragraph 23 hereof, save and except those items as described in those working papers as office expenses and save and except additional adjustments that have already been made to the credit of the Appellant with respect to the disbursements;
+(2) The Appellant shall not be liable to pay GST on Legal Aid invoices as described in Audit Working Paper #5500 as shown in Exhibit R-2;
+(3) The Appellant shall be entitled to receive an additional $9,000 as ITCs for the taxation years 2000, 2001, 2002 and January 1 to April 30, 2003 in addition to the ones already granted to the Appellant.
+(4) The Appellant shall not be subject to penalties under paragraph 280(1)(a) of the Act but interest under paragraph 280(1)(b) is payable and shall be calculated accordingly.
+(5) The Appellant shall have its costs as provided herein plus disbursements and applicable taxes.
+Signed at Ottawa, Canada, this 13th day of June, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2008TCC337
+COURT FILE NO.: 2004-4624(GST)G
+STYLE OF CAUSE: MERCHANT LAW GROUP AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: April 28 and 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice E. P. Rossiter
+DATE OF JUDGMENT: June 13, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Anthony Merchant, Q.C.
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Anthony Merchant, Q.C.
+Firm: Merchant Law Group
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,231 @@
+Title: Seto v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27946/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-489-27946-seto-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-08-28
+
+# Seto v. The Queen
+
+- Citation: 2007 CCI 489
+- Decision date: 2007-08-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1795, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seto v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-28
+Référence neutre
+2007 CCI 489
+Numéro de dossier
+2006-2914(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2914(IT)I
+ENTRE :
+DON WAI CHEN SETO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Delicious Sino-Euro–Combo Food Limited (2006-2916(IT)I et (2006-2918(GST)I) le 10 avril 2007, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelant :
+Michael B. Dockrill
+Avocate de l’intimée :
+Me Lindsay Holland
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis, conformément aux motifs du jugement ci‑joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 28e jour d’août 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 1er jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Dossier : 2006-2916(IT)I
+ENTRE :
+DELICIOUS SINO-EURO-COMBO FOOD LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Don Wai Chen Seto (2006‑2914(IT)I) et de Delicious Sino-Euro–Combo Food Limited
+(2006-2918(GST)I) le 10 avril 2007, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+Michael B. Dockrill
+Avocate de l’intimée :
+Me Lindsay Holland
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001 et 2002 sont accueillis, conformément aux motifs du jugement ci‑joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 28e jour d’août 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 1er jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Dossier : 2006-2918(GST)I
+ENTRE :
+DELICIOUS SINO-EURO–COMBO FOOD LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Don Wai Chen Seto (2006‑2914(IT)I) et de Delicious Sino-Euro–Combo Food Limited
+(2006-2916(IT)I) le 10 avril 2007, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+Michael B. Dockrill
+Avocate de l’intimée :
+Me Lindsay Holland
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise portant le numéro 05CP‑GB050631441523, pour la période du 1er janvier 2000 au 31 décembre 2002, est accueilli conformément aux motifs du jugement ci‑joints.
+Signé à Summerside (Île-du-Prince-Édouard), ce 28e jour d’août 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 1er jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI489
+Date : 20070828
+Dossiers : 2006-2914(IT)I
+2006-2916(IT)I
+2006-2918(GST)I
+ENTRE :
+DON WAI CHEN SETO,
+DELICIOUS SINO-EURO–COMBO FOOD LIMITED,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelant, Don Wai Chen Seto, appelle des nouvelles cotisations établies à l’égard des années d’imposition 2000, 2001 et 2002, dans lesquelles le ministre du Revenu national (le « ministre ») a ajouté des montants à son revenu au moyen de la méthode de la valeur nette ainsi que des pénalités pour faute lourde imposées à l’égard de ces montants. Le ministre a également établi de nouvelles cotisations à l’égard de l’appelante, Delicious Sino‑Euro–Combo Food Limited, en ajoutant à son revenu les montants que l’actionnaire, M. Seto, s’était approprié en modifiant la cotisation de TVH initiale pour la période du 1er janvier 2000 au 31 décembre 2002 et en établissant une taxe nette sur les ventes non déclarées plus les intérêts applicables. Des pénalités pour faute lourde ont aussi été appliquées.
+[2] Depuis 1979, année où il a quitté la Chine pour venir s’installer au Canada, l’appelant a toujours résidé avec ses parents. Lorsqu’il s’est marié, son épouse est venue habiter chez lui. Par la suite, les parents de l’appelant se sont occupé des enfants pendant que l’appelant et son épouse exploitaient un restaurant, connu sous le nom de Dragon City. Le restaurant a été acheté en 1996. L’appelant a témoigné que lui et son épouse travaillaient au restaurant de 11 h à minuit ou même plus tard chaque jour de l’année, à l’exception du jour de Noël, où le restaurant était fermé. Le comptable de M. Seto, James Peter Flemming, a confirmé dans son témoignage que l’appelant et son épouse travaillaient de longues heures au restaurant, 364 jours par année, et que l’appelant dormait parfois sur un lit de camp situé à l’arrière du restaurant. Pendant la période, M. Flemming établissait les déclarations de TVH trimestrielles pour l’entreprise ainsi que les déclarations et les états financiers annuels.
+[3] Les parents de l’appelant ont tous deux témoigné que tout le monde habitait sous le même toit, qu’ils faisaient l’épicerie et achetaient les vêtements, qu’ils s’occupaient des enfants de l’appelant en raison des longues heures que l’appelant et son épouse consacraient au restaurant, et que les revenus de tous étaient mis en commun pour subvenir aux besoins de la famille. Ils avaient effectué le versement initial pour la maison dans laquelle tous les membres de la famille résidaient et ils avaient par la suite contribué au remboursement de l’hypothèque. Ils utilisaient le réseau d’autobus pour se déplacer, car ils ne possédaient pas de véhicule.
+[4] La réponse à l’avis d’appel comprenait plusieurs hypothèses de fait pertinentes sur lesquelles le ministre s’était fondé pour établir la nouvelle cotisation d’impôt à payer par l’appelant. Les hypothèses avaient particulièrement trait à l’importance du rôle que les parents de l’appelant jouaient dans le calcul de la cotisation de valeur nette. Les hypothèses pertinentes, qui figurent au paragraphe 18, sont les suivantes :
+[traduction]
+[…]
+g) l’appelant vivait avec son épouse, ses quatre enfants et ses parents, Kei Seto et Hung C. Seto;
+h) la situation financière de l’appelant et de son épouse ainsi que celle de son père et de sa mère étaient si étroitement liées qu’il fallait les considérer ensemble pour le calcul de la valeur nette;
+[…]
+j) l’appelant, son épouse et ses parents ont déclaré, pour la période en litige, un revenu total dont les montants figurent à l’annexe A‑3;
+k) le revenu total de l’appelant, de son épouse et de ses parents était insuffisant pour le maintient de leur style de vie; (Non souligné dans l’original)
+[5] De plus, au paragraphe 19 de la réponse, pour ce qui est de l’établissement de la nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2000, l’hypothèse suivante était rédigée en ces termes :
+[traduction]
+e) l’appelant savait que le revenu déclaré dans ses déclarations de revenu ainsi que le revenu de son épouse et celui de ses parents pour les périodes en litige n’étayaient pas l’achat des biens et les dépenses personnelles effectuées pour ces années‑là; (Non souligné dans l’original)
+[6] Toutefois, les rajustements contenus dans l’annexe A, qui sont mentionnés dans la réponse et joints à celle‑ci, ne comprennent pas le revenu des parents de l’appelant, M. Kei Seto et Mme Hung Seto, et n’y font pas référence. Il en est ainsi, même si les hypothèses susmentionnées indiquent clairement qu’il était considéré que les parents faisaient partie intégrante de la cotisation de valeur nette. M. David Dalton, l’agent des appels, a témoigné qu’il ne souscrivait pas aux hypothèses figurant aux alinéas 18h), j), k) et 19e). En fait, il a formulé une hypothèse contraire et a réduit le montant des dépenses personnelles en enlevant le revenu des parents du calcul de la valeur nette. L’avocate de l’intimée a allégué que, même si ces hypothèses, qui faisaient référence au revenu des parents, ne correspondaient pas à ce qui figurait dans l’annexe A, je devrais considérer que ce sont les calculs contenus dans l’annexe A qui représentent vraiment la cotisation de valeur nette. Elle a qualifié les références au revenu des parents figurant dans les hypothèses de fait de simples « erreurs ». Cependant, elle n’a abordé cette question que lorsqu’elle a été soulevée pendant le contre‑interrogatoire de son témoin, M. Dalton, et que je lui ai demandé quels étaient ses commentaires à ce sujet. Elle a fait valoir que la charge de la preuve incombe à l’appelant lorsqu’il est question d’une cotisation de valeur nette et que les montants seront présumés exacts, à moins que l’appelant ne puisse présenter des éléments de preuve prouvant leur inexactitude.
+[7] Les questions soulevées dans le cadre de ces appels sont donc les suivantes :
+(1) Dans le cas d’une cotisation de valeur nette, lorsque le ministre formule une hypothèse qui profite à l’appelant, puis établit la cotisation en se fondant sur un fait contraire, à qui incombe la charge ou le fardeau de la preuve?
+(2) Faut‑il tenir compte du revenu des parents dans la cotisation de valeur nette?
+(3) Pour ce qui est de la question de savoir si l’appelant a déclaré en moins son revenu pour les années d’imposition 2000, 2001 et 2002, faut‑il rajuster d’autres éléments dans le calcul de la valeur nette compte tenu de la preuve?
+(4) L’appelant, M. Seto, est‑il tenu d’inclure des frais pour droit d’usage de l’automobile de 4 455,64 $ à l’égard d’un véhicule de la société mis à sa disposition pendant l’année d’imposition 2002?
+(5) La nouvelle cotisation pour l’année d’imposition 2000 a‑t‑elle été établie à juste titre après l’expiration de la période normale de nouvelle cotisation en application de l’alinéa 152(4)a) de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de l’appelante, Delicious Sino‑Euro–Combo Food Limited?
+(6) La société a‑t‑elle droit à une réduction du montant de TPS/TVH à percevoir établi?
+(7) Les pénalités pour faute lourde ont‑elles été établies à juste titre?
+Analyse
+[8] La cotisation de valeur nette est une solution de dernier recours qui permet au ministre d’évaluer le revenu du contribuable en fonction des meilleurs éléments de preuve et renseignements disponibles pour l’établissement de la cotisation. Toutefois, le ministre a quand même l’obligation de communiquer au contribuable ce sur quoi il s’est fondé pour calculer son revenu, y compris toutes les hypothèses qu’il a faites pour établir la cotisation. Comme il s’agit d’une cotisation arbitraire, le ministre peut effectuer les calculs sans avoir pleine connaissance de tous les faits. Il incombe donc au contribuable de communiquer toutes ses sources de revenu.
+[9] Dans les présents appels, plusieurs hypothèses de fait étaient diamétralement opposées au calcul de la cotisation de valeur nette figurant dans l’annexe A‑3 de la réponse du ministre. Le fait que ces hypothèses sont très avantageuses pour le contribuable rend cette affaire unique.
+[10] Selon la preuve, il semble que c’est le vérificateur qui s’est initialement fondé sur les hypothèses figurant aux alinéas 18h), j), k) et 19e) de la réponse. Cette conclusion est étayée par le fait que, dans le calcul initial des dépenses personnelles, le vérificateur avait semble‑t‑il tenu compte des dépenses des parents de l’appelant, parce que les chiffres de Statistique Canada qu’il avait utilisés ([traduction] « Famille comptant cinq membres ou plus et dont au moins trois membres sont âgés de plus de 20 ans ») tenaient compte des parents. Toutefois, contrairement aux hypothèses pertinentes, le revenu des parents n’a jamais été inclus dans la cotisation de valeur nette. De plus, M. Dalton, l’agent des appels, a témoigné qu’il avait modifié les chiffres relatifs aux dépenses personnelles dans la vérification, qui correspondaient aux dépenses d’une famille comptant cinq membres ou plus, dont au moins trois membres sont âgés de plus de 20 ans, en les remplaçant par des chiffres correspondant aux dépenses d’une famille comptant cinq membres, dont seulement deux membres sont âgés de plus de 20 ans.
+[11] À l’étape de l’opposition, M. Dalton n’a pas accepté les hypothèses concernant le revenu des parents et a effectué le calcul du revenu de la famille en tenant pour acquis que les parents ne faisaient pas partie intégrante de la famille. On peut prétendre que, en raison de ce changement, le ministre aurait dû indiquer dans la réponse qu’il avait changé de fondement pour le calcul de la cotisation de valeur nette en formulant une nouvelle hypothèse ou en alléguant les fait dans la partie portant sur les [traduction] « autres faits importants ». Cependant, cela n’a jamais été fait, et le ministre s’est fondé sur les hypothèses initiales dans la réponse.
+[12] Je n’ai pas eu l’occasion d’entendre le vérificateur témoigner. Pendant le réinterrogatoire, lorsqu’on a demandé à M. Dalton de quel élément du revenu des parents le vérificateur avait tenu compte, celui‑ci a répondu : [traduction] « Je crois qu’il a accordé 1 000 $ au titre de dons de la famille, de la mère et du père. » (Transcription, p. 77) [Non souligné dans l’original]. Toutefois, l’agent des appels a reconnu que le vérificateur s’était fondé sur les chiffres fournis par Statistique Canada pour une famille de cinq membres, dont au moins trois membres sont des adultes pour ce qui est des dépenses.
+[13] Pendant l’audience, l’avocate de l’intimée a fait remarquer qu’il ne s’agissait que de [traduction] « simples erreurs » et a demandé l’autorisation de modifier les actes de procédure. J’ai bien sûr refusé sa demande, étant donné que cela est bien plus qu’une « erreur », puisqu’une erreur devrait selon‑moi plutôt s’apparenter à une erreur typographique. En fait, M. Dalton a mentionné dans son témoignage que ces hypothèses étaient tout simplement inexactes. Le fait est qu’apporter ce genre de modification si tardivement pendant l’audition serait hautement préjudiciable à l’appelant. J’ai été très surpris que l’avocate de l’intimée présente une telle demande à la dernière minute, et ce, seulement en réponse à mes demandes d’information concernant la question. Je considère qu’il s’agit d’un comportement répréhensible de la part d’un fonctionnaire judiciaire et d'un abus flagrant de la procédure de la Cour. C’est la principale raison pour laquelle j’ai décidé d’accorder des dépens de 500 $ aux appelants en l’espèce.
+[14] Certains des commentaires formulés par le juge en chef Bowman dans la décision Bowens v. The Queen, 94 DTC 1853, s’appliquent également en l’espèce. Au paragraphe 23, le juge en chef Bowman a indiqué ce qui suit :
+[…] Lorsque l’on trouve un nouveau motif pour confirmer la cotisation après que celle‑ci a été fixée, que ce motif est invoqué à l’audience et que les hypothèses initiales ne sont plus valables, il faut néanmoins que ces dernières soient exposées dans la réponse, et la Couronne doit entreprendre de démontrer qu’elles étaient erronées. Il ne serait pas convenable que la Couronne bénéficie d’un avantage tactique en omettant de révéler dans sa réponse des hypothèses qui sont embarrassantes ou sans rapport avec sa nouvelle théorie ou, comme c’est le cas en l’espèce, incompatibles avec cette théorie.
+[Non souligné dans l’original]
+[15] Ce passage confirme que les hypothèses pertinentes en l’espèce ont été incluses à juste titre dans la réponse. Même s’il semble que l’inclusion de ces hypothèses dans la réponse était un oubli de la part de la Couronne, c’est maintenant à elle qu’il incombe de réfuter les hypothèses.
+[16] Même si la Couronne n’a pas soulevé l’hypothèse selon laquelle le revenu des parents ne faisait pas intégrante de la cotisation de valeur nette, il s’agissait d’un fait essentiel dont la validité de la cotisation dépendait. Une hypothèse contraire a toutefois été incluse dans la réponse. Il aurait fallu que la Couronne expose les nouveaux faits dans la réponse pour souligner l’hypothèse qui avait été changée et qu’elle s’acquitte du fardeau de prouver le fait que les parents ne contribuaient pas de façon importante aux dépenses de la famille. Cela suit la règle générale selon laquelle la Couronne peut soulever une hypothèse de fait, à condition que le fardeau de la preuve lui incombe.
+[17] Il s’agit de la conclusion qui a été tirée dans Holm v. The Queen, 2003 DTC 755, où, au paragraphe 21, il a été indiqué ce qui suit :
+a) Le fait d'invoquer une hypothèse de fait qui a indubitablement été formulée à l'étape de la ratification de la cotisation mais peut-être pas à l'étape de l'établissement de la cotisation peut constituer une interprétation erronée des termes « les conclusions ou les hypothèses de fait sur lesquelles le ministre s'est fondé en établissant sa cotisation » figurant dans les règles de notre cour, mais cela ne représente pas un abus flagrant de la procédure de notre cour. Le fait d'invoquer des « hypothèses » qui n'ont jamais été formulées avant la rédaction de la réponse à l'avis d'appel est évidemment un manquement beaucoup plus grave aux responsabilités de la Couronne et exige une mesure de redressement plus radicale.
+[18] En somme, le ministre a inclus des hypothèses dans les actes de procédure qui étaient avantageux pour les appelants, mais qui allaient à l’encontre du fondement de la cotisation de valeur nette. Comme la cotisation du ministre est fondée sur des hypothèses contradictoires soulevées à l’étape de l’opposition, le ministre a la charge de prouver que le revenu des parents de l’appelant n’était pas un élément essentiel dans la cotisation de valeur nette. Le fait que le ministre n’a pas soulevé ou communiqué l’hypothèse contradictoire me conforte également dans mon opinion que le fardeau de la preuve incombe à la Couronne. Celle‑ci n’a présenté aucun élément de preuve indiquant que les parents n’avaient pas utilisé leur revenu pour contribuer aux dépenses de la famille. Le témoignage de l’appelant à cet égard a été corroboré par le témoignage de Kei Seto, le père, et de Hung Seto, la mère. Les trois témoignages appuient les faits présumés dans la réponse. Comme l’avocate de l’intimée n’a pas présenté d’éléments de preuve à l’appui du contraire, elle ne s’est pas acquittée du fardeau de la preuve. Par conséquent, la totalité du revenu disponible des parents sera intégré dans la cotisation de valeur nette, dans la section intitulée [traduction] « Déductions » de l’annexe A‑3 de la réponse, et des rajustements seront apportés à la cotisation pour ce qui est des frais de subsistance. Cela entraînera le retrait du don familial de 1 000 $ pour chacune des années d’imposition dans la section Déductions. Les dépenses personnelles pour la famille doivent être augmentées afin de refléter l’inclusion des parents dans le calcul de la cotisation de valeur nette.
+[19] Outre la question relative à l’inclusion du revenu des parents, l’appelant a contesté divers autres montants. Les montants les plus importants étaient les suivants : les dépenses de nourriture, le montant de 5 903,99 $ payé à Market Bill Trading inclus dans les dépenses effectuées avec la carte de crédit MasterCard, et le chèque de 2 000 $ au nom du beau‑père de l’appelant. En ce qui concerne les dépenses de nourriture, l’appelant a indiqué qu’elles devraient être réduites parce que le coût du riz, leur principal aliment, était minime. Toutefois, M. Dalton a mentionné dans son témoignage que les dépenses de nourriture avaient déjà été réduites de 2 000 $ pour chacune des années afin de tenir compte de différences culturelles. Cela est raisonnable, et je ne suis pas disposé à modifier le montant total des dépenses de nourriture sans autres éléments de preuve. L’appelant fait valoir que certaines dépenses personnelles avaient été comptées deux fois parce qu’elles étaient incluses dans l’annexe A‑3 ([traduction] « Frais personnels ou de subsistance payés au moyen de la carte de crédit MasterCard non considérés dans la section des dépenses personnelles ») et qu’elles avaient été incluses dans les dépenses personnelles totales. La première de ces dépenses pour l’année d’imposition 2001 est le montant figurant sous la rubrique « Market Bill Trading ». L’appelant a allégué que ce montant avait servi à acheter de la nourriture, et qu’il avait partagé le paiement de la facture totale avec son oncle, lequel lui avait remboursé 50 % du montant total de la dépense. L’appelant a également contesté 2 000 $ des 4 455 $ qui avaient été ajoutés pour l’année d’imposition 2001 sous la rubrique de rajustement [traduction] « chèque tiré de comptes bancaires personnels : Banque de Montréal selon l’annexe ». L’appelant a indiqué qu’il avait donné le chèque à son beau‑père afin que celui‑ci puisse acheter des vêtements pour la famille en Chine. Je n’ai que la preuve orale de l’appelant pour ces deux dépenses, ainsi que pour les autres éléments contestés, soit le coût d’un ordinateur acheté par l’appelant, des intérêts et un chèque de remboursement émis par Sun Life. Comme on ne m’a soumis aucun élément de preuve documentaire ou quelque élément de preuve corroborant que ce soit pour m’aider à faire le tri de ces dépenses, je me dois de conclure que les calculs effectués par le ministre sont raisonnables pour ce qui est des autres rajustements contestés.
+[20] En ce qui concerne la quatrième question en litige en l’espèce, soit l’inclusion des frais pour droit d’usage de l’automobile dans le revenu de l’appelant pour l’année d’imposition 2002, la position de l’appelant est qu’il n’utilisait le véhicule à des fins personnelles que pour faire l’aller‑retour entre le restaurant et la maison. La résidence de l’appelant est située à 2,5 kilomètres du restaurant, et l’appelant soutient qu’il n’utilisait le véhicule qu’à des fins professionnelles, sauf pour aller au travail le matin et pour revenir à la maison la nuit (2,5 km x 2 voyages par jour). Il ne fait aucun doute que l’entreprise mettait le véhicule à la disposition de l’appelant pendant la période. Il doit payer des frais raisonnables pour droit d'usage de l'automobile en application de l’alinéa 6(1)e) de la Loi. Il utilisait le véhicule pour passer prendre des fournitures et effectuer des livraisons pendant la journée. M. Dalton a utilisé 308 jours (313 jours étant le nombre de jours entre la date de l’achat du véhicule en 2002 et la fin de l’année, moins cinq jours pour les jours fériés) comme nombre de jours où l’appelant a utilisé le véhicule pour faire l’aller‑retour entre sa maison et le restaurant en 2002. Cela représente une utilisation du véhicule à des fins personnelles de 1 540 km (308 jours x 5 km par jour) en 2002. Ce chiffre est bien en-deçà du maximum de 12 000 km (1 000 par mois) nécessaire pour avoir droit à la réduction des frais pour droit d'usage de l'automobile. Toutefois, lorsque l’on compare la distance parcourue à des fins personnelles à la distance totale (qu’on présume être de 5 000 km pour 2002), cela donne un pourcentage d’utilisation à des fins personnelles de 31 %. Par conséquent, la demande de réduction des frais pour droit d'usage de l'automobile présentée par l’appelant a été refusée. Pour avoir droit à la réduction des frais pour droit d'usage de l'automobile, l’appelant doit remplir les critères mentionnés aux subdivisions Aa) et d) du paragraphe 6(2). C’est‑à‑dire que l’entreprise doit exiger du contribuable qu’il utilise le véhicule dans l’accomplissement des fonctions de sa charge ou de son emploi, et que la totalité, ou presque, de la distance parcourue par le véhicule doit être parcourue dans l’accomplissement des fonctions de la charge ou de l’emploi. La position administrative de l’ARC au sujet du droit à la réduction des frais pour droit d'usage de l'automobile est examinée dans le IT‑63R5, qui date du 12 août 1995. La remarque du Canada Tax Service à l’égard de la position de l’ARC est rédigée ainsi :
+[traduction]
+À noter que pour les années d’imposition 1988 à 2002, il ne pouvait y avoir de réduction des frais pour droit d'usage de l'automobile que dans les cas où la totalité ou presque (90 %) de la distance parcourue par l’automobile était parcourue dans l’accomplissement des fonctions de l’emploi et seulement dans la mesure où moins de 1 000 km par mois étaient parcourus avec l’automobile à des fins personnelles.
+[21] Même si le paragraphe 6(2) a été modifié en 2003 afin de changer le critère figurant dans la division A, soit « la totalité, ou presque » de la distance parcourue par l’automobile, pour le remplacer par la distance parcourue par l’automobile est parcourue « principalement dans l’accomplissement » de ces fonctions, comme les frais pour droit d’usage de l’automobile ont été supportés en 2002, le critère relatif à « la totalité, ou presque » s’applique en l’espèce. Même si l’automobile n’a été utilisée à des fins professionnelles que 69 % du temps et que le seuil de 90 % n’est pas respecté, cela ne porte peut‑être pas un coup fatal à la demande de l’appelant. Au paragraphe 20 de la décision Keefe c. R, 2003 CCI 791, la juge Sheridan a mentionné ce qui suit :
+Le pourcentage de 90 % ne figure pas dans la loi elle‑même. De plus, la jurisprudence indique très clairement que ce qui constitue « la totalité, ou presque » est une question de fait qui dépend des circonstances de chaque cas.
+[22] Et, au paragraphe 21, elle a cité le passage suivant de la décision McDonald c. R. [1998] A.C.I. 621 :
+Ces définitions de dictionnaire confirment que le terme « substantially » (presque), comme le faisait remarquer le juge Bowman, C.C.I., dans l'affaire Ruhl v. Canada, est élastique et ne convient guère pour exprimer l'idée d'une proportion déterminable de l'ensemble. Les termes anglais « substantially all » dans le contexte de l'alinéa 6(2)d) dans la version anglaise de la Loi n'ont pas à être interprétés comme correspondant à une proportion de 90 p. 100 ou plus; ils peuvent désigner une proportion moindre de l'ensemble, selon les faits.
+[23] Même si l’appelant ne suit pas la ligne directrice qui prévoit une utilisation de 90 %, la jurisprudence indique qu’il faut tenir compte de l’ensemble des faits et des circonstances. D’après le témoignage de l’appelant et les calculs effectués par le ministre concernant les frais, l’automobile n’était utilisée à des fins personnelles que pour faire l’aller‑retour entre la maison et le restaurant. L’appelant a également mentionné dans son témoignage qu’il passait souvent prendre des fournitures le matin avant d’aller au restaurant. On peut prétendre que, pour bon nombre des déplacements de 2,5 km effectués pour aller au restaurant, l’automobile était utilisée en partie à des fins personnelles (aller au travail) et en partie à des fins professionnelles (aller chercher des fournitures). Il ne serait pas approprié de considérer que la distance ainsi parcourue a entièrement été parcourue à des fins professionnelles, ce qui aurait pour effet de la soustraire de l’application de la division A, mais on peut en tenir compte lorsqu’il s’agit de décider si la totalité, ou presque, de la distance parcourue par le véhicule était liée à l’emploi. Il est injuste de refuser la demande de l’appelant simplement parce que le nombre total de kilomètres parcourus par l’automobile en 2002 était peu élevé (5 000 km) et qu’il s’était traduit par une utilisation à des fins personnelles plus grande que 10 %.
+[24] Dans la décision Keith c. R. 2004 CCI 793, le juge Miller a formulé les commentaires suivants au paragraphe 14 :
+Les pourcentages auxquels M. Keith est arrivé sont légèrement inférieurs au seuil de 90 p. 100, mais s’il est tenu compte du fait que l’utilisation qu’il faisait du véhicule commercial dans le contexte de ce qu’il faisait pour la société […] je suis convaincu que quelques navettes peu importantes ne changent rien à la situation : la totalité, ou presque, de la distance parcourue était parcourue dans l’accomplissement des fonctions de l’emploi.
+[Non souligné dans l’original]
+[25] De plus, l’appelant a indiqué dans son témoignage qu’il possédait un autre véhicule pendant la majeure partie de l’année d’imposition 2002. Lors de l’interrogatoire principal, M. Dalton à répondu ce qui suit à la question [traduction] « Qu’est‑ce qui vous permettait de croire que l’appelant aurait utilisé l’automobile à des fins personnelles? » : [traduction] « Je croyais qu’il n’y avait qu’une seule automobile pour la famille […] » Il s’agissait d’une hypothèse inexacte sur laquelle l’agent des appels s’était fondé pour tirer ses conclusions. La preuve indiquait également que le véhicule en question n’avait pas été utilisé pour des activités de loisirs ou des vacances, étant donné que l’appelant et son épouse travaillaient tous les jours de l’année, sauf le jour de Noël. Les parents de l’appelant ont mentionné dans leur témoignage qu’ils effectuaient de nombreux travaux ménagers, notamment faire l’épicerie et prendre soin des enfants de l’appelant. M. Flemming, leur comptable, qui mangeait parfois au restaurant de l’appelant, a également corroboré le témoignage de l’appelant. Il a témoigné que, comme l’appelant et son épouse [traduction] « […] vivaient pratiquement au restaurant », ils « […] n’[avaient] pas l’occasion d’utiliser l’automobile pour quoi que ce soit d’autre que l’entreprise, au fond » (Transcription p. 47). L’appelant n’a pas tenu de registre de ses déplacements avec le véhicule, mais je ne considère pas que cela porte un coup fatal à sa demande. Des éléments de preuve clairs et précis ont été présentés concernant l’utilisation du véhicule par trois des quatre témoins, et je suis convaincue que tous les faits appuient ma conclusion selon laquelle la totalité, ou presque, de la distance que l’appelant a parcourue avec le véhicule a été parcourue relativement à des activités liées à son l’emploi. L’appelant aura donc droit à la réduction des frais pour droit d'usage de l'automobile suivante, conformément à la division A :
+A/B x [2 % x (210 461,9)]
+1 540/10 000 x [2 % x (210 461,9)]
+= 648,22 $
+[26] La question suivante porte sur l’année 2000, qui est frappée de prescription. La plupart du temps, la période normale de nouvelle cotisation est de trois ans, selon le paragraphe 152(3) de la Loi. La nouvelle cotisation établie pour l’année d’imposition 2000 est donc frappée de prescription, sauf si le ministre peut invoquer l’alinéa 152(4)a). Cette disposition permet au ministre d’établir une nouvelle cotisation après la période normale de nouvelle cotisation si le contribuable a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement. L’avocate de l’intimée a fait valoir que le fait que l’appelant n’avait pas tenu de registre, comme l’exige la Loi, indiquait que lui et sa société avaient fait preuve de négligence ou d’inattention, ce qui avait donné lieu aux revenus non déclarés. Même si l’appelant n’a jamais vraiment abordé la question, la preuve semblait indiquer que sa participation aux activités quotidiennes de l’entreprise était très importante; qu’il s’occupait de tenir les registres quotidiens et d’en faire le suivi avant de les remettre à son comptable, qu’il faisait les chèques pour la société et qu’il s’occupait de ses placements personnels. Même si M. Flemming a témoigné qu’il croyait que les registres de l’appelant étaient bien tenus et que [traduction] « ça s’équilibrait », c’est à peu près tout ce sur quoi je peux m’appuyer. Je conclus donc que la nouvelle cotisation pour l’année d’imposition 2000 a été établie à juste titre en application de l’alinéa 152(4)a). L’appelant n’a certes pas agi de façon délibérée dans le but d’induire en erreur ou de brosser un tableau différent de la réalité, mais je crois qu’il n’a pas fait preuve de diligence raisonnable lors de l’établissement de ses déclarations.
+[27] Un des derniers points en litige est la question de savoir si la société a droit à une réduction du montant de TPS/TVH à percevoir établi. Si on se fonde sur les répercussions des rajustements, qui ont été apportés à la cotisation de valeur nette, un rajustement correspondant sera apporté, le cas échéant, au montant de TPS/TVH à percevoir par la société qui a été établi.
+[28] Finalement, en plus des écarts pour ce qui est de la valeur nette, des pénalités pour faute lourde ont été imposées en application du paragraphe 163(2) de la Loi. Même s’il suffit qu’il y ait défaut de diligence raisonnable par négligence pour entraîner l’application de l’alinéa 152(4)a), le paragraphe 163(2) exige davantage – il exige qu’il y ait faute lourde. Dans la décision Venne v. R., 1984 CTC 223, la Cour a mentionné ce qui suit au paragraphe 37 :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+Les tribunaux ont donc limité l’application de cette disposition aux cas où « le contribuable a un degré élevé de faute, notamment la connaissance ou la mauvaise conduite insouciante » (Venne, au paragraphe 40).
+[29] Une question intéressante est soulevée lorsqu’un contribuable échoue dans sa contestation de la cotisation de valeur nette du ministre, mais que la cotisation est ratifiée : le contribuable est‑il passible de pénalités pour faute lourde lorsqu’il est établi que les montants constituent un revenu non déclaré? Dans la décision Wajsfeld v. R., 2005, 4 C.T.C. 2341, le juge Rip a traité de la question et a conclu que la Couronne doit s’acquitter du fardeau de la preuve qui lui incombe pour imposer des pénalités pour faute lourde, même s’il est conclu que les montants non déclarés doivent être inclus dans le revenu du contribuable. Au paragraphe 56, il a formulé les commentaires suivants :
+[…] Le ministre doit faire plus que tout simplement se fier à l’incapacité d’un contribuable de réfuter une cotisation fondée sur la valeur nette et faire ressortir un montant élevé de revenus non déclarés pour s’acquitter de sa charge en vertu du paragraphe 163(3)
+[…]
+Il ne fait aucun doute qu’il est possible d’établir l’intention coupable ou la faute lourde au moyen de preuves circonstancielles, car l’on peut rarement établir l’un ou l’autre en prouvant directement l’intention du contribuable. Cependant, les preuves devraient être claires et convaincantes […]
+Je suis d’avis que, dans la présente espèce, l’intimé ne s’est pas acquitté convenablement du fardeau de la preuve qui lui incombait, en ce sens qu’il s’est appuyé presque exclusivement sur le fait que l’appelant était incapable de renverser les évaluations de la valeur nette. En fait, le paragraphe 163(3) exige que l’on fasse la preuve de l’intention ou de la faute lourde du contrevenant, chose qui, à mon sens, devrait être faite d’une manière structurée, claire et convaincante.
+[30] L’affaire Wajsfeld montre clairement qu’il incombe à la Couronne de prouver qu’il y a eu faute lourde, même si la cotisation est fondée sur la méthode de la valeur nette. Dans ces appels, la Couronne n’a présenté aucun élément de preuve concernant les actes présumés de l’appelant qualifiés de faute lourde. La Couronne n’a pas signalé d’élément de preuve précis ou de circonstance équivalant à faute lourde particulière autre que la différence découlant de la cotisation de valeur nette. Le seul élément sur lequel la Couronne s’est fondée pour imposer les pénalités, conformément au paragraphe 163(2), est le fait que la cotisation de valeur nette indique qu’il y avait des revenus non déclarés dans les déclarations de revenu des particuliers et des sociétés. Si le ministre veut imposer des pénalités pour faute lourde, c’est à la Couronne qu’incombe le fardeau de la preuve, et celle‑ci doit faire davantage que mentionner les montants non déclarés qui ont été ajoutés au revenu du contribuable. En l’espèce, la Couronne a simplement fait valoir que la « différence importante » entre la cotisation de valeur nette et le montant net figurant dans les déclarations révèlent qu’il y a eu faute lourde. La jurisprudence pertinente exige davantage. De plus, lorsque les rajustements sont effectués pour inclure le revenu des parents de l’appelant, la différence n’est plus bien importante.
+[31] Pour résumer, les appels sont accueillis, et des dépens de 500 $ sont adjugés aux appelants, afin d’apporter les rajustements suivants à la cotisation de valeur nette :
+1. La totalité du revenu disponible des parents sera reflétée dans la cotisation de valeur nette de l’appelant, ce qui aura pour effet de réduire l’écart découlant de la nouvelle cotisation. Des rajustements seront également apportés concernant les frais de subsistance.
+2. L’appelant aura droit à une réduction des frais pour droit d'usage de l'automobile, laquelle sera calculée conformément aux motifs du jugement.
+3. Des rajustements correspondants seront apportés, le cas échéant, aux montants de TPS/TVH à percevoir par la société qui ont été établis.
+4. Les pénalités pour faute lourde seront annulées.
+Signé à Summerside (Île-du-Prince-Édouard), ce 28e jour d’août 2007.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 1er jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2007CCI489
+NO DES DOSSIERS :
+2006-2914(IT)I
+2006-2916(IT)I
+2006-2918(GST)I
+INTITULÉ :
+Don Wai Chen Seto et
+Delicious Sino-Euro–Combo Food Limited c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 10 avril 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 28 août 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Michael B. Dockrill
+Avocate de l’intimée :
+Me Lindsay Holland
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

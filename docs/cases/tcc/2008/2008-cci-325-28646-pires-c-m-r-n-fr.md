@@ -1,0 +1,235 @@
+---
+title: "Pires c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28646/index.do"
+last_modified: "2008-05-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 325"
+citation2: ""
+neutral_citation: "2008 CCI 325"
+decision_date: "2008-05-29"
+language: "fr"
+item_id: "28646"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1110
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:42:41.385000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dabff64fec2eaf40061a80818cae0deed100e0fb23fe3557d895928007c3f3da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pires c. M.R.N.
+
+- Citation: 2008 CCI 325
+- Decision date: 2008-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1110, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pires c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-29
+Référence neutre
+2008 CCI 325
+Numéro de dossier
+2007-1154(EI)
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2007-1154(EI)
+ENTRE :
+MANUEL PIRES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 avril 2008 à Toronto (Ontario).
+Devant : L’honorable juge T. O’Connor
+Comparutions :
+Représentant de l’appelant :
+Dean Lindsay
+Avocat de l’intimé :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 29e jour de mai 2008.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 16e jour de juillet 2008.
+Sandra de Azevedo, LL.B.
+Référence : 2008CCI325
+Date : 20080529
+Dossier : 2007-1154(EI)
+ENTRE :
+MANUEL PIRES,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+QUESTION EN LITIGE
+[1] Dans le présent appel, la Cour doit se demander si les sommes payées à l’appelant, Manuel Pires (« M. Pires » ou l’« appelant »), par son ancien employeur, TDS Automotive Canada Inc., faisant affaire sous le nom de Oshawa Reduced (le « payeur ») – soit 4 999 $ par mois pendant une période de six mois allant du 19 mai 2005 au 17 novembre 2005 (la « compensation au titre du règlement ») conformément à un protocole d’entente visant certains griefs intervenu le 3 mai 2005, lesquels griefs sont datés du 31 janvier 2003 et du 25 juillet 2003 et ont été déposés par M. Pires avec l’aide et selon les instructions du syndicat, TCA‑Canada – constituaient une rémunération assurable, ce qui rendrait M. Pires admissible au bénéfice des prestations d’assurance‑emploi sous le régime de la Loi sur l’assurance‑emploi (la « LAE ») et du Règlement sur l’assurance‑emploi (le « RAE ») ou si la compensation au titre du règlement constituait une allocation de retraite ou des dommages‑intérêts, auquel cas M. Pires ne serait pas admissible à ces prestations.
+FAITS
+[2] L’appelant a cessé de travailler pour le payeur en mars 2002 et il a été mis fin à son emploi par une lettre datée du 24 juillet 2003.
+[3] Le protocole d’entente intervenu le 3 mai 2005 comportait les dispositions suivantes :
+a) la lettre de cessation d’emploi du 24 juillet 2003 a été annulée et supprimée de la fiche d’emploi de l’appelant et ce dernier devait être considéré, à toutes fins utiles, comme réintégré dans ses fonctions;
+b) l’appelant devait être considéré comme ayant été en congé sans solde pour des raisons médicales du 25 juillet 2003 au 3 mai 2005;
+c) l’appelant devait recevoir un paiement de 4 999 $ par mois pendant une période de six mois commençant le 19 mai 2005. Une fois les paiements terminés, l’appelant devait recevoir un relevé d’emploi de l’employeur précisant qu’il avait été « mis en disponibilité »;
+d) l’appelant devait être réintégré dans ses fonctions et être ainsi couvert par les régimes d’assurance‑médicaments, de soins médicaux étendus et de soins dentaires de l’employeur pour une certaine période sous réserve de quelques modifications.
+[4] Par suite d’une demande de Ressources humaines et Développement social Canada (« RHDSC »), T. Matheson, agent des décisions de RPC/AE au bureau des services fiscaux de Scarborough, a décidé que l’appelant n’était pas un employé du payeur pendant la période allant du 19 mai 2005 au 17 novembre 2005. Les deux parties ont été informées de cette décision par une lettre datée du 28 juillet 2006.
+[5] L’appelant n’était pas d’accord avec la décision de l’agent de RPC/AE et il a déposé un appel le 31 octobre 2006.
+[6] L’appelant a interjeté appel de la décision devant l’intimé pour que celui‑ci tranche la question de savoir si la compensation au titre du règlement versée par le payeur pendant la période en cause constituait une rémunération assurable au sens de la LAE.
+[7] Par une lettre datée du 30 novembre 2006, l’intimé a informé l’appelant et le payeur qu’il avait été décidé que la compensation au titre du règlement versée à l’appelant pendant la période en cause n’était considérée comme une rémunération assurable ni selon la LAE ni selon les alinéas 1(1)b) et 2(3)b) du Règlement sur la rémunération assurable et la perception des cotisations (le « RRAPC »).
+[8] L’appelant n’a pas été d’accord avec la décision du ministre et a interjeté appel devant la Cour canadienne de l’impôt le 23 février 2007.
+OBSERVATIONS DES PARTIES
+Prétentions de l’appelant
+[9] Le représentant de TCA‑Canada, M. Dean Lindsay, a assisté l’appelant dans le cadre du présent appel. Il a renvoyé aux dispositions du protocole d’entente et a conclu à la lumière de celles‑ci que l’appelant était un employé pendant la période en cause et qu’il était donc admissible au bénéfice des prestations d’assurance‑emploi. Il a en outre affirmé que la compensation au titre du règlement visée en l’espèce devait être assimilée à une rémunération aux termes du paragraphe 36(11) du RAE.
+Prétentions de l’intimé
+[10] L’intimé fait valoir que la compensation au titre du règlement reçue par l’appelant pendant la période en cause ne constituait pas une rémunération assurable selon la LAE ni selon les alinéas 1(1)b) et 2(3)b) du RRAPC.
+[11] Il demande le rejet de l’appel.
+ANALYSE
+[12] De manière générale, l’article 7 de la LAE prévoit que le prestataire doit remplir deux conditions pour être admissible au bénéfice des prestations : il doit avoir subi un arrêt de la rémunération provenant de son emploi et avoir exercé un emploi assurable pendant au moins le nombre d’heures minimal applicable.
+[13] Il ne semble pas y avoir de litige entre les parties quant au fait que l’appelant a subi un arrêt de la rémunération provenant de son emploi ou qu’il a obtenu le nombre d’heures assurables minimal. L’intimé conteste plutôt la façon dont la compensation au titre du règlement a été qualifiée. Il estime qu’il s’agit plutôt d’une « allocation de retraite ».
+[14] Le terme « allocation de retraite » est défini à l’alinéa 1(1)b) du RRAPC, lequel est ainsi rédigé :
+1. (1) Les définitions qui suivent s’appliquent au présent règlement.
+« allocation de retraite » Somme qu’une personne reçoit :
+a) soit en reconnaissance de longs états de service au moment où elle prend sa retraite d’une charge ou d’un emploi ou par la suite ;
+b) soit à l’égard de la perte de sa charge ou de son emploi, que la somme soit reçue ou non à titre de dommages-intérêts ou conformément à une ordonnance ou un jugement d’un tribunal compétent. (retiring allowance)
+« Loi » La Loi sur l’assurance‑emploi. (Act)
+« ministre » Le ministre du Revenu national. (Minister)
+« période de paie » Période pour laquelle une rémunération est versée à un assuré ou touchée par celui‑ci. (pay period)
+(2) Pour l’application de la partie IV de la Loi et pour l’application du présent règlement, « employeur » s’entend notamment d’une personne qui verse ou a versé la rémunération d’un assuré pour des services rendus dans l’exercice d’un emploi assurable.
+[Non souligné ni en caractères gras dans l’original.]
+[15] De plus, le paragraphe 2(3) du RRAPC prévoit ce qui suit :
+2. (1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+[…]
+(3) Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+a) les avantages autres qu’en espèces, à l’exception, dans le cas où l’employeur verse à une personne une rétribution en espèces pour une période de paie, de la valeur de la pension ou du logement, ou des deux, dont la personne a joui au cours de cette période de paie relativement à son emploi;
+a.1) toute somme qui est exclue du revenu en vertu des alinéas 6(1)a) ou b) ou des paragraphes 6(6) ou (16) de la Loi de l’impôt sur le revenu;;
+b) les allocations de retraite;
+[Non souligné ni en caractères gras dans l’original.]
+[16] L’appelant s’est appuyé sur le paragraphe 36(11) du RAE pour affirmer que les sommes qu’il a reçues comme compensation au titre du règlement constituaient une rémunération assurable. Voici le texte de cette disposition :
+36. (1) Sous réserve du paragraphe (2), la rémunération du prestataire, déterminée conformément à l’article 35, est répartie sur un nombre donné de semaines de la manière prévue au présent article et elle constitue, aux fins mentionnées au paragraphe 35(2), la rémunération du prestataire pour ces semaines.
+(2) Pour l’application du présent article, la rémunération du prestataire ne peut être répartie sur les semaines durant lesquelles elle n’avait pas valeur de rémunération ou n’avait pas été comptée comme rémunération selon l’article 35.
+[…]
+(11) Lorsqu’une rémunération est payée ou payable à l’égard d’un emploi en exécution d’une sentence arbitrale ou d’une ordonnance du tribunal, ou par suite du règlement d’un différend qui aurait pu être tranché par une sentence arbitrale ou une ordonnance du tribunal, et que cette rémunération est attribuée à l’égard de semaines précises à la suite de constatations ou d’aveux qui permettent de conclure à la nécessité de mesures disciplinaires, elle est répartie sur un nombre de semaines consécutives commençant par la première semaine à laquelle la rémunération est ainsi attribuée, de sorte que la rémunération totale tirée par le prestataire de cet emploi dans chaque semaine, sauf la dernière, soit égale à sa rémunération hebdomadaire normale provenant de cet emploi.
+[17] L’allocation mentionnée au paragraphe 36(11) du RAE est toutefois restreinte en raison de son assujettissement à la détermination visée à l’article 35 du même texte réglementaire voulant que les sommes aient constitué une rémunération.
+[18] Le terme rémunération est défini de manière très large de sorte qu’il englobe tout ce que le travailleur tire sous forme d’avantage pécuniaire de son travail, passé ou actuel.
+[19] La détermination de la nature des sommes reçues procède d’une analyse des faits, en particulier lorsqu’il s’agit de déterminer si un paiement constitue une « allocation de retraite », une « pension de retraite » ou une somme versée dans le cadre d’un « règlement relatif à un congédiement abusif ».
+[20] Dans l’arrêt Canada c. Plasse, [2000] A.C.F. no 1671, le juge Décary a précisé les déterminations auxquelles il faut procéder pour décider si le règlement constitue une rémunération assurable :
+18 Si un règlement comporte à la fois une acceptation de la perte de salaire et une renonciation à un droit de réintégration accordé par l’autorité compétente, seul le premier constitue une « rémunération » et uniquement la valeur attribuable au premier est allouée aux termes de l’article 57 du Règlement. Il serait évidemment loisible à la Commission dans un cas précis de s’assurer qu’un prétendu règlement n’est pas un simple leurre pour contourner le régime de l’assurance‑emploi en camouflant une indemnité pour perte de salaire en autre chose. De telles questions de fait peuvent être soulevées pour donner un effet approprié à la loi, dont l’objet a été décrit de la façon suivante par le juge Pratte, J.C.A., dans l’arrêt Procureur général du Canada c. Walford, [1979] 1 C.F. 768, à la page 772 (C.A.) :
+La Loi de 1971 sur l’assurance-chômage établit un régime d’assurance en vertu duquel on accorde une protection aux prestataires contre la perte de revenu par suite du chômage. Ce régime a évidemment pour objet d’indemniser les chômeurs d’une perte; il n’a pas pour objet de verser des prestations à ceux qui n’ont subi aucune perte. Or, à mon avis, on ne peut pas dire que le chômeur que son ancien employeur a indemnisé de la perte de son salaire, a subi une perte. Une perte dont on a été indemnisé n’existe plus. La Loi et les Règlements doivent donc être interprétés, dans la mesure du possible, de manière à empêcher ceux qui n’ont subi aucune perte de revenu de réclamer des prestations en vertu de la Loi.
+[Non souligné ni en caractères gras dans l’original.]
+EXAMEN DE LA JURISPRUDENCE
+[21] Dans l’arrêt Élément c. Canada (Ministre du Revenu national – M.R.N.), [1996] A.C.F. no 718, la Cour d’appel fédérale, dont les jugements lient la présente Cour, a tenu les propos suivants :
+1 Le requérant, employé saisonnier, n’a pas été rappelé au travail lorsqu’il aurait dû l’être. Deux ans plus tard, suite à un règlement de grief, l’employeur lui a versé une compensation monétaire équivalente au montant du salaire qu’il aurait gagné durant la période où il aurait normalement travaillé. Le requérant n’a pourtant fourni aucune prestation de travail durant cette période.
+2 Nous sommes tous d’avis que le Ministre et le juge de la Cour canadienne de l’impôt sont venus à la bonne conclusion en décidant que le requérant n’exerçait pas un emploi assurable durant cette période. Malgré le plaidoyer très habile de Me Lepage à l’effet que le contrat de travail du requérant subsistait parce que celui‑ci bénéficiait d’un droit de rappel, il n’en demeure pas moins qu’une personne qui ne fournit pas une prestation de travail et ne touche aucun salaire n’exerce pas un emploi assurable au sens de l’alinéa 3(1)a) de la Loi.
+[22] Dans l’arrêt Forrestall c. Canada (Ministre du Revenu national – M.R.N.), [1996] A.C.F. no 1638, la Cour d’appel fédérale a suivi la décision qu’elle avait rendue dans l’arrêt Élément lorsqu’elle s’est exprimée en ces termes :
+3 Nous sommes tous d’avis que le juge de la Cour de l’impôt a eu tort de conclure que ces onze jours représentaient un emploi assurable pour l’intimé. Il n’a pas travaillé pendant cette période. Ce qu’il a reçu de son employeur était, pour reprendre les mots utilisés par l’arbitre, des « dommages‑intérêts ». Il ne s’agissait pas de salaires.
+4 Comme nous l’avons dit dans l’arrêt Élément c. M.R.N. :
+[...] une personne qui ne fournit pas une prestation de travail et ne touche aucun salaire n’exerce pas un emploi assurable au sens de l’alinéa 3(1)a) de la Loi.
+[23] Dans la décision Linesman c. Canada (Ministre du Revenu national – M.R.N.), [2007] A.C.I. no 42, le juge Webb de la présente Cour a dit ce qui suit :
+10 Il s’agit en l’espèce de savoir si les sommes versées, dans le cadre du règlement qui est intervenu, pour la période suivant la cessation d’emploi de l’appelant, y compris l’indemnité pour perte de salaire, constituaient une rémunération assurable pour l’application de la Loi sur l’assurance-emploi. Les sommes en question représentaient une indemnité correspondant aux montants qu’aurait reçus l’appelant s’il avait continué à travailler au cours de la période de préavis supplémentaire prévue dans le cadre du règlement intervenu, mais elles n’ont cependant pas été versées en contrepartie de services ou de travaux accomplis par lui.
+11 La rémunération assurable est définie de la façon suivante au paragraphe 2(1) de la Loi sur l’assurance-emploi :
+« rémunération assurable » Le total de la rémunération d’un assuré, déterminé conformément à la partie IV, provenant de tout emploi assurable.
+12 Selon l’alinéa 108(1)g) de la Loi sur l’assurance-emploi (qui figure à la partie IV de la Loi) :
+108. (1) Le ministre peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
+[…]
+g) concernant la définition et la détermination de la rémunération, de la période de paie et du montant de la rémunération assurable des assurés, et la répartition de la rémunération sur une période d’emploi assurable;
+13 Les paragraphes 2(1) et (3) du Règlement sur la rémunération assurable et la perception des cotisations prévoient notamment que :
+2. (1) Pour l’application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l’application du présent règlement, le total de la rémunération d’un assuré provenant de tout emploi assurable correspond à l’ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l’assuré reçoit ou dont il bénéficie et qui lui est versé par l’employeur à l’égard de cet emploi;
+[...]
+3. Pour l’application des paragraphes (1) et (2), sont exclus de la rémunération :
+b) les allocations de retraite;
+14 Le paragraphe 1(1) du même règlement définit l’allocation de retraite de la façon suivante :
+« allocation de retraite » Somme qu’une personne reçoit :
+a) soit en reconnaissance de longs états de service au moment où elle prend sa retraite d’une charge ou d’un emploi ou par la suite;
+b) soit à l’égard de la perte de sa charge ou de son emploi, que la somme soit reçue ou non à titre de dommages-intérêts ou conformément à une ordonnance ou un jugement d’un tribunal compétent.
+15 Le terme « allocation de retraite » est aussi défini pour l’application de la Loi de l’impôt sur le revenu. Le paragraphe 248(1) de cette loi en donne la définition suivante :
+« allocation de retraite » Somme, sauf une prestation de retraite ou de pension, une somme reçue en raison du décès d’un employé ou un avantage visé au sous-alinéa 6(1)a)(iv), reçue par un contribuable ou, après son décès, par une personne qui était à sa charge ou qui lui était apparentée, ou par un représentant légal du contribuable :
+a) soit en reconnaissance de longs états de service du contribuable au moment où il prend sa retraite d’une charge ou d’un emploi ou par la suite;
+b) soit à l’égard de la perte par le contribuable d’une charge ou d’un emploi, qu’elle ait été reçue ou non à titre de dommages ou conformément à une ordonnance ou sur jugement d’un tribunal compétent.
+16 La définition d’« allocation de retraite » donnée au paragraphe 248(1) de la Loi de l’impôt sur le revenu ne diffère pas largement, en ce qui nous concerne ici, de la définition d’« allocation de retraite » qui figure au paragraphe 1(1) du Règlement sur la rémunération assurable et la perception des cotisations, étant donné que les montants en cause en l’espèce ne constituent pas une pension ou une prestation de retraite, une somme reçue en raison du décès d’un employé ou un avantage visé au sous-alinéa 6(1)a)(iv) de la Loi de l’impôt sur le revenu.
+17 Dans l’affaire Overin c. La Reine, 98 DTC 1299, le juge Rip s’est prononcé en ces termes sur la question de savoir si un certain montant devait être compté comme une allocation de retraite :
+[16] L’emploi des mots « à l’égard de » dans la définition de l’« allocation de retraite » a été reconnu comme exprimant un lien entre la perte d’emploi et la réception subséquente d’une somme d’argent. Toutefois, pour que la disposition relative à l’allocation de retraite ait réellement un sens, il faut limiter dans une certaine mesure l’étendue du lien nécessaire entre la somme reçue et la perte d’emploi. À cet égard, deux décisions peuvent être utiles. En premier lieu, dans la décision Merrins, ci‑dessus, le juge Pinard a fait observer ce qui suit, à la page 6670 :
+Il ne fait aucun doute que cette somme a été reçue par le demandeur « à l’égard » de la perte de son emploi auprès de l’ÉACL. S’il n’y avait pas eu perte d’emploi, il n’y aurait eu aucun grief, aucun règlement, aucune sentence arbitrale et, par conséquent, aucun versement de cette somme au demandeur.
+L’analyse effectuée par le juge Pinard laisse entendre qu’en déterminant les limites du lien qui existe entre un paiement et la perte d’un emploi, il convient de se poser la question suivante : « S’il n’y avait pas eu perte d’emploi, la somme aurait-elle été reçue? » Si l’on répond à cette question par la négative, il existe entre la somme reçue et la perte d’emploi un lien suffisant pour que le paiement soit considéré comme une allocation de retraite.
+[...]
+[18] Il est tout à fait clair qu’en plus du critère susmentionné, selon lequel le paiement vise à indemniser l’employé de la perte de son emploi, le montant peut être considéré comme ayant été reçu « à l’égard de » cette perte.
+EXAMEN DE LA PREUVE ET CONCLUSIONS TIRÉES PAR L’INTIMÉ
+[24] Le témoignage et les questions pertinentes présentées par l’avocat de l’intimé sont les suivantes :
+[TRADUCTION]
+Q. Le règlement est intervenu parce qu’ils ne vous avaient pas donné d’emploi, n’est‑ce pas?
+R. Oui.
+Q. Le règlement est intervenu parce vous avez été congédié?
+R. C’est exact.
+[…]
+Pendant son contre‑interrogatoire, M. Pires a admis qu’il a reçu le montant du règlement par suite de sa cessation d’emploi, parce qu’il avait perdu son emploi. […]
+Il est respectueusement soutenu que le montant du règlement en litige constitue une allocation de retraite puisqu’il a été versé en raison de la perte d’emploi de M. Pires.
+[25] L’avocat de l’intimé tire du témoignage susmentionné et d’autres éléments de preuve les conclusions suivantes :
+[TRADUCTION]
+Pour l’essentiel, n’eût été de la perte d’emploi, aurait‑il reçu l’argent? Dans la négative, il s’agit d’une allocation de retraite. La seule raison pour laquelle il a obtenu cette somme d’argent tient à la perte de son emploi. Selon les termes utilisés par l’appelant en l’espèce, « Ils m’ont acheté ». Il a perdu son emploi et ils l’ont acheté.
+[…]
+Tout d’abord, il s’agit d’une allocation de retraite puisqu’on lui a versé l’argent à titre de dédommagement pour la perte de son emploi. Même si vous concluez, M. le juge, que ce n’était pas là l’objet du paiement, je soutiens néanmoins qu’il ne s’agissait pas d’un emploi assurable puisque le paiement s’apparentait davantage à des dommages‑intérêts. Cette somme visait à le dédommager non pas pour du travail accompli ou par suite d’un contrat d’emploi, mais bien pour la violation de ce contrat d’emploi par son employeur. Il semble que la présente situation corresponde exactement aux faits de l’affaire Forrestall. […]
+[…]
+Je conviens avec M. Lindsay que le paragraphe 2, à la page 2, est fondamental. Cependant, la question en litige en l’espèce ne touche pas à la qualité d’employé de l’appelant pendant la période en cause. Il s’agit plutôt de savoir si la somme de 4 999 $ a été versée dans le cadre d’un emploi assurable, ce qui figure au paragraphe 3.
+En ce qui concerne sa réintégration pour cette période, comme il est fort correctement exposé au paragraphe 2, l’élément essentiel pour trancher ce point tient au fait que, pendant cette période, il était en congé sans solde. Il n’y avait aucune rémunération attribuable au fait d’être employé pendant cette période. Il était un employé, mais il n’a pas reçu d’argent. Si vous ne recevez pas d’argent, vous n’exercez pas un emploi assurable.
+Il est respectueusement soutenu que cela devrait suffire pour trancher l’affaire.
+Quant aux sommes versées au titre du règlement qui sont mentionnées au paragraphe 3, comme je l’ai déjà fait observer, ces sommes ne sont pas assurables suivant le paragraphe 3(1) du Règlement que j’ai invoqué plus tôt puisqu’il s’agit soit d’une allocation de retraite soit, à titre subsidiaire, de dommages‑intérêts versés pour violation du contrat d’emploi. Il ne s’agit pas d’un dédommagement pour du travail accompli.
+[26] À mon avis, le présent appel est analogue aux décisions déjà rendues en la matière et les conclusions formulées par l’avocat de l’intimé sont correctes. Les sommes payées visaient à dédommager l’appelant pour la perte de son emploi et non pour du travail accompli. Les paiements s’apparentaient à une allocation de retraite ou à des dommages‑intérêts. L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 29e jour de mai 2008.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 16e jour de juillet 2008.
+Sandra de Azevedo, LL.B.
+RÉFÉRENCE : 2008CCI325
+NO DU DOSSIER DE LA COUR : 2007-1154(EI)
+INTITULÉ : Manuel Pires c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge T. O’Connor
+DATE DU JUGEMENT : Le 29 mai 2008
+COMPARUTIONS :
+Représentant de l’appelant :
+Dean Lindsay
+Avocat de l’intimé :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

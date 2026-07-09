@@ -1,0 +1,156 @@
+Title: Titouah c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/232375/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-105-232375-titouah-c-la-reine.md
+Document type: case_law
+Last modified: 2017-06-26
+
+# Titouah c. La Reine
+
+- Citation: 2017 CCI 105
+- Decision date: 2017-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2093, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Titouah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-26
+Référence neutre
+2017 CCI 105
+Numéro de dossier
+2016-3421(GST)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-3421(GST)APP
+ENTRE :
+TAHAR TITOUAH,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Demande de prorogation du délai pour interjeter appel entendue le 10 mai 2017 à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat du requérant :
+Me François Asselin
+Avocate de l'intimée :
+Me Michelle Picard
+ORDONNANCE
+La demande de prorogation du délai pour interjeter appel de la cotisation établie en vertu de la Loi sur la taxe d’accise dont l’avis porte le numéro F‑054309 et est daté du 19 septembre 2014, pour la période du 31 mars 2010 au 31 mars 2013, est accueillie conformément aux motifs de l’ordonnance ci-joints.
+Signée à Toronto, Canada, ce 22e jour de juin 2017.
+« Réal Favreau »
+Juge Favreau
+Référence : 2017 CCI 105
+Date : 20170622
+Dossier : 2016-3421(GST)APP
+ENTRE :
+TAHAR TITOUAH,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Favreau
+[1] Le requérant demande à la Cour d’émettre une ordonnance afin de proroger le délai pour interjeter appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15, telle que modifiée (la « LTA »), par le ministre du Revenu du Québec, en tant que mandataire de la ministre du Revenu National et dont l’avis porte le numéro F‑054309 et est daté du 19 septembre 2014, pour la période du 31 mars 2010 au 31 mars 2013.
+[2] La cotisation visée par le présent litige est une cotisation en main tierce à l’égard du requérant en tant qu’administrateur de la société « Les Anges du Paysage Inc. » à qui des réclamations pour des crédits de taxe sur intrants ont été refusées.
+[3] Le 12 août 2014, le ministre a reçu par télécopieur l’avis d’opposition du requérant à l’égard de la cotisation mentionnée au paragraphe précédent.
+[4] Le 15 avril 2016, le ministre a rendu sa décision sur opposition par laquelle il maintenait la cotisation en litige. La lettre de confirmation a été livrée par Dicom Express à l’attention de monsieur Tahar Titouah et de Les Anges du Paysage inc. à l’adresse suivante : 10 867 boulevard Sainte-Gertrude, Montréal (Québec), H1G 5N7. Le récépissé de Dicom Express portant le numéro de connaissement V16786755, qui a été mis en preuve, indique que la livraison a eu lieu le 18 avril 2016 à 8h43 et porte la signature de Chafiaa.
+[5] Madame Nacef Chafiaa, qui est la conjointe du requérant, a témoigné à l’audience et son témoignage est à l’effet qu’elle ne se rappelle pas avoir signé, le 18 avril 2016, la réception de la lettre de confirmation de la cotisation. Madame Chafiaa opère une garderie en milieu familial qui ouvre habituellement ses portes à 7 heures. Madame Chafiaa a confirmé que la garderie était ouverte le 18 avril 2016 et que l’adresse où la lettre a été livrée était bien l’adresse où elle vivait avec son conjoint et ses deux filles, alors âgées de 15 et 10 ans en 2016.
+[6] Comme madame Chafiaa ne se rappelle pas d’avoir signé le récépissé de livraison quoique la signature y apparaissant est semblable à la sienne, l’avocate de l’intimée a mis en preuve la déclaration de revenu de madame Chafiaa pour l’année 2014 et sa demande d’inscription au dépôt direct. Madame Chafiaa n’a pas reconnu sa signature sur la déclaration de revenu mais a reconnu que la signature apparaissant sur la demande de dépôt direct ressemblait à la sienne.
+[7] En contre-interrogatoire, l’avocat du réquérant a mis en preuve le permis de conduire de madame Chafiaa valide à compter du 27 octobre 2015 et madame Chafiaa a reconnu sa signature apparaissant sur le permis de conduire.
+[8] Le requérant a également témoigné à l’audience. Il prétend qu’il n’a pas reçu la lettre de confirmation de la cotisation le 18 avril 2016 comme le prétend l’intimée et qu’il a effectivement reçu une copie de cette lettre que le 28 juillet 2016 suite à un appel logé auprès de l’agent d’opposition qui a traité son dossier.
+[9] Le requérant a de plus expliqué qu’il avait décidé d’appeler l’agent d’opposition le 26 juillet 2016 parce que ce dernier lui avait laissé un message téléphonique le 16 avril 2016 à l’effet que la décision prise par l’Agence du Revenu du Québec (« l’ARQ ») suite à son avis d’opposition, était de refuser la totalité des crédits d’impôt sur intrants réclamés par la société « Les Anges du Paysage Inc. »
+[10] Le requérant a également indiqué que suite à son avis d’opposition, il avait eu une rencontre avec l’agent d’opposition responsable de son dossier et son chef d’équipe et, qu’au cours du mois de juin 2016, il a conclu une entente de paiement avec la division de la perception de l’ARQ en vertu de laquelle il a convenu de verser 3 000 $ par mois pendant cinq ans. Cette entente de paiement n’a pas été déposée en preuve lors de l’audience.
+[11] Après avoir pris connaissance le 28 juillet 2016 de la lettre de confirmation de la cotisation, le requérant a indiqué qu’il avait contacté Me Jacques Del Vecchio le 1er et le 4 août 2016 et pour appuyer ses dires, il a mis en preuve le relevé de son compte Rogers pour son téléphone portable montrant qu’il a effectivement logé un appel à Me Del Vecchio à chacune de ses dates.
+[12] Selon le requérant, Me Del Vecchio lui aurait indiqué, lors de leur conversation téléphonique du 4 août 2016, qu’il n’était pas spécialisé en fiscalité et qu’il lui aurait exigé un dépôt de 5 000 $ pour ouvrir le dossier. M. Titouah a refusé l’offre et a trouvé sur internet les coordonnés de Me Asselin qui le représente aujourd’hui en cour.
+Position des parties
+A. Pour le requérant
+[13] L’intimée a fait une preuve par affidavit de l’envoi de la lettre de confirmation et la personne qui a signé l’affidavit n’est pas la personne qui a envoyé la lettre de confirmation. Par conséquent, l’affidavit est invalide et l’envoi de la lettre de confirmation par courrier recommandé n’est pas prouvé comme l’exige la LTA.
+[14] L’intimée a le fardeau de prouver l’envoi de la lettre de confirmation par courrier recommandé ou certifié.
+[15] Le requérant a démontré qu’il a toujours eu l’intention de faire appel et qu’il a agi dès que les circonstances le permettaient. Avant juillet 2016, le requérant était dans l’impossibilité d’agir et de mandater quelqu’un pour le représenter vu qu’il ne savait pas que la lettre de confirmation avait été envoyée.
+[16] Il serait juste et équitable d’accueillir la demande du requérant vu que son appel est raisonnablement fondé sur des motifs suffisants.
+B. Pour l’intimée
+[17] L’intimée soumet que la preuve d’envoi de la lettre de confirmation n’était pas nécessaire parce que la preuve de réception de ladite lettre par madame Nacef Chafiaa a été faite. La signature de madame Chafiaa qui apparaît au récépissé de Dicom Express est très similaire à la signature apparaissant sur son permis de conduire et sur sa demande de dépôt direct jointe à sa déclaration de revenu pour 2014.
+[18] Le témoignage de madame Chafiaa n’est pas clair, ni crédible pour contredire la réception de la lettre de confirmation.
+[19] Le requérant a été informé par l’agent d’opposition le 15 ou le 16 avril 2016 que la lettre de confirmation de la cotisation lui serait transmise dans les prochains jours. Le requérant a attendu plus de trois mois avant de s’enquérir auprès de l’agent d’opposition si la confirmation de la décision concernant son avis d’opposition avait été envoyée.
+[20] Entre le 15 ou le 16 avril 2016 et le 26 juillet 2016, le requérant n’était pas dans l’impossibilité d’agir et de mandater quelqu’un pour le représenter et n’a pas agi dès que les circonstances le permettaient. D’ailleurs, au cours de cette période, le requérant a discuté avec une agente chargée de la perception et a même conclu une entente pour le paiement des sommes dues à l’ARQ.
+[21] L’intimée allègue que le requérant a fait preuve de négligence en n’interjetant pas appel de la cotisation dans le délai imparti.
+Question en litige
+[22] L’intimée avait-elle l’obligation de prouver l’envoi de la lettre de confirmation par courrier recommandé ou certifié?
+Les dispositions législatives applicables
+[23] Les dispositions pertinentes de la LTA sont les articles 306 et 334 et les paragraphes 301(5), 305(1) et (5) et 335(1). Ces dispositions se lisent comme suit :
+306 Appel – La personne qui a produit un avis d'opposition à une cotisation aux termes de la présente sous-section peut interjeter appel à la Cour canadienne de l'impôt pour faire annuler la cotisation ou en faire établir une nouvelle lorsque, selon le cas :
+a) la cotisation est confirmée par le ministre ou une nouvelle cotisation est établie;
+b) un délai de 180 jours suivant la production de l'avis est expiré sans que le ministre n'ait notifié la personne du fait qu'il a annulé ou confirmé la cotisation ou procédé à une nouvelle cotisation.
+Toutefois, nul appel ne peut être interjeté après l’expiration d’un délai de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou procédé à une nouvelle cotisation.
+334 (1) Date de réception – Pour l'application de la présente partie, tout envoi en première classe ou l'équivalent est réputé reçu par le destinataire à la date de sa mise à la poste.
+(2) Paiement ou versement réputé – Le paiement ou versement qu'une personne est tenue de faire en application de la présente partie n'est réputé effectué que le jour de sa réception par le receveur général.
+301(5) Avis de décision – Après avoir examiné de nouveau ou confirmé une cotisation, le ministre fait part de sa décision par avis envoyé par courrier recommandé ou certifié à la personne qui a fait opposition à la cotisation.
+305(1) Prorogation du délai d’appel – La personne qui n'a pas interjeté appel en application de l'article 306 dans le délai imparti peut présenter à la Cour canadienne de l'impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu'elle estime justes.
+(5) Acceptation de la demande – Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai d'appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d'appel par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+335(1) Preuve de signification par la poste—Lorsque la présente partie ou un règlement d'application prévoit l'envoi par la poste d'une demande de renseignements, d'un avis ou d'une mise en demeure, l'affidavit d'un fonctionnaire de l'Agence, souscrit en présence d'un commissaire ou autre personne autorisée à le recevoir, constitue la preuve de l'envoi ainsi que de la demande, de l'avis ou de la mise en demeure, s'il indique que le fonctionnaire est au courant des faits de l'espèce, que la demande, l'avis ou la mise en demeure a été envoyé par courrier recommandé ou certifié à une date indiquée à l'intéressé dont l'adresse est précisée et que le fonctionnaire identifie comme pièces jointes à l'affidavit, le certificat de recommandation remis par le bureau de poste ou une copie conforme de la partie pertinente du certificat et une copie conforme de la demande, de l'avis ou de la mise en demeure.
+Analyse
+[24] Pour répondre à la question en litige, je suis d’avis que l’intimée avait l’obligation de prouver l’envoi de la lettre de confirmation par courrier recommandé ou certifié et ce, même si la réception de la lettre de confirmation par madame Chafiaa en date du 18 avril 2016 a été démontrée et même si le paragraphe 334(1) de la LTA prévoit que tout envoi en première classe ou l’équivalent par le ministre est réputé reçu par le destinataire à la date de sa mise à la poste. Aux fins de la présente requête en vertu du paragraphe 305(1) de la LTA, la date de réception de la lettre de confirmation n’est tout simplement pas pertinente.
+[25] Le délai d’appel à la Cour canadienne de l’impôt pour faire annuler une cotisation ou pour faire établir une nouvelle cotisation est déterminé par l’article 306 de la LTA. Si le ministre a confirmé une cotisation ou a établi une nouvelle cotisation, le délai d’appel est de 90 jours suivant l’envoi à la personne, aux termes de l’article 301, d’un avis portant que le ministre a confirmé la cotisation ou a procédé à une nouvelle cotisation.
+[26] L’article 301 de la LTA traite de la façon qu’un contribuable peut faire opposition à une cotisation et le paragraphe 301(5) prévoit l’obligation pour le ministre, après que ce dernier ait examiné de nouveau ou confirmé une cotisation, de faire part de sa décision par avis envoyé par courrier recommandé ou certifié à la personne qui a fait opposition à la cotisation.
+[27] Selon la preuve au dossier, il ne fait pas de doute que la lettre de confirmation du ministre a été envoyée au requérant et a été reçue par ce dernier mais la question qui se pose est de déterminer si la formalité du paragraphe 301(5) qui exige l’envoi d’un avis par courrier recommandé ou certifié, a été respectée.
+[28] La preuve de signification d’un avis par la poste se fait selon les dispositions du paragraphe 335(1) de la LTA. L’affidavit d’un fonctionnaire souscrit en présence d’un commissaire ou d’une personne autorisée à le recevoir, constitue la preuve de l’envoi de l’avis s’il indique que :
+a) le fonctionnaire est au courant des faits en l’espèce;
+b) l’avis a été envoyé par courrier recommandé ou certifié à une date indiquée au destinataire dont l’adresse est précisée; et que
+c) le fonctionnaire identifie comme pièces jointes à l’affidavit le certificat de recommandation remis par le bureau de poste ou une copie conforme de la partie pertinente du certificat et une copie conforme de l’avis.
+[29] En l’espèce, il n’y a aucune preuve que la lettre de confirmation a été envoyée au requérant selon les exigences du paragraphe 301(5) de la LTA. En l’occurrence, la lettre de confirmation a été envoyée par un service de messagerie et le numéro de connaissement attribué à cet envoi permet de suivre le parcours de l’avis de confirmation à partir de la date d’envoi jusqu’à la date de réception mais aucun certificat de recommandation n’a été joint à l’affidavit.
+[30] Comme le paragraphe 335(1) de la LTA impose au ministre l’obligation de prouver l’envoi de l’avis et la manière d’établir la preuve de signification, je ne suis pas convaincu qu’il y a eu effectivement envoi de l’avis de confirmation de la cotisation selon les exigences de la LTA. Par conséquent, je dois conclure que le ministre n’a jamais envoyé au requérant le résultat de son examen de l’avis d’opposition de ce dernier. À ce sujet, il suffit de se référer à la décision de la Cour d’appel fédérale dans l’affaire Kovacevic c. Canada, [2003] A.C.F. no 1044 dans laquelle le juge Rothstein a formulé les commentaires suivants :
+[17] Je ne dis pas que les exigences particulières du paragraphe 335(1) sont impératives. J'estime qu'une preuve équivalente et fiable suffirait également. […]
+[18] Le paragraphe 335(1) établit une norme de preuve d'expédition plus élevée que dans le cas où aucune exigence d'expédition formelle n'est prévue dans la loi. En l'espèce, cette norme n'a pas été respectée.
+[…]
+[21] L'indisponibilité du certificat de recommandation remis par le bureau de poste et l'absence d'un élément de preuve équivalent d'un envoi par courrier recommandé portent un coup fatal à la requête du ministre.
+[31] En l’espèce, la norme d’expédition n’a pas été respectée et l’intimée n’a pas fourni d’éléments de preuve démontrant que l’envoi effectué était l’équivalent d’un envoi par courrier recommandé ou certifié.
+[32] Comme dans l’affaire Desrosiers c. Canada, [2003] A.C.I. no 745, le requérant aurait pu se prévaloir de l’article 306 de la LTA pour loger son appel à la Cour canadienne de l’impôt mais ce dernier a plutôt choisi de se prévaloir de l’article 305 de la LTA pour demander une prorogation du délai d’appel. Pour que sa demande puisse être acceptée, il doit nécessairement remplir les conditions du paragraphe 305(5).
+[33] Les conditions de l’alinéa a) et du sous-alinéa b)(i) sont nécessairement rencontrées parce que le délai d’appel par ailleurs imparti qui est le délai de 90 jours prévu à l’article 306 n’a jamais commencé à courir. Compte tenu des raisons indiquées dans la demande et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande. La demande a été présentée dès que les circonstances le permettaient, soit à partir du moment où le requérant a reçu une copie de l’avis de confirmation et l’appel semble être raisonnablement fondé.
+[34] Par conséquent, la demande est accueillie.
+Signé à Ottawa, Canada, ce 22e jour de juin 2017.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2017 CCI 105
+Nº DU DOSSIER DE LA COUR :
+2016-3421(GST)APP
+INTITULÉ DE LA CAUSE :
+Tahar Titouah et La Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 10 mai 2017
+MOTIFS DE L’ORDONNANCE PAR :
+L'honorable juge Réal Favreau
+DATE DE L’ORDONNANCE :
+le 22 juin 2017
+COMPARUTIONS :
+Avocat du requérant :
+Me François Asselin
+Avocate de l'intimée :
+Me Michelle Picard
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom :
+Me François Asselin
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

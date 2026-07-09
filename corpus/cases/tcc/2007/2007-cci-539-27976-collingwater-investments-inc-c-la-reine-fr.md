@@ -1,0 +1,168 @@
+---
+title: "Collingwater Investments Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27976/index.do"
+last_modified: "2007-08-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 539"
+citation2: ""
+neutral_citation: "2007 CCI 539"
+decision_date: "2007-08-13"
+language: "fr"
+item_id: "27976"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1794
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:24:21.524000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6d977a0b79f2c507120f50c84787726a28b75e59fab4ce3634af822a17d6174b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Collingwater Investments Inc. c. La Reine
+
+- Citation: 2007 CCI 539
+- Decision date: 2007-08-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1794, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collingwater Investments Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-13
+Référence neutre
+2007 CCI 539
+Numéro de dossier
+2007-1687(GST)APP
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-1687(GST)APP
+ENTRE :
+COLLINGWATER INVESTMENTS INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 août 2007, à Toronto (Ontario)
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Représentant de la requérante :
+Tim French
+Avocate de l’intimée :
+Me Kate Leslie
+____________________________________________________________________
+JUGEMENT La demande de prorogation du délai à l’intérieur duquel la requérante peut déposer devant la Cour canadienne de l’impôt un avis d’appel à l’égard de l’avis de décision daté du 10 février 2006 pour la période de déclaration commençant le 1er décembre 1998 et se terminant le 30 novembre 1999 est rejetée.
+Signé à Vancouver (Colombie‑Britannique), ce 7e jour de septembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+Référence : 2007CCI539
+Date : 20070907
+Dossier : 2007-1687(GST)APP
+ENTRE :
+COLLINGWATER INVESTMENTS INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+FAITS
+[1] Au moyen d’un avis de cotisation daté du 23 février 2005, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de la requérante pour la période de déclaration commençant le 1er décembre 1998 et se terminant le 30 novembre 1999.
+[2] La requérante s’est opposée à la cotisation au moyen d’un avis d’opposition daté du 23 avril 2005 que l’Agence du revenu du Canada (l’« ARC ») a reçu le 17 mai 2005.
+[3] Le ministre a ratifié la cotisation au moyen d’un avis de décision daté du 10 février 2006.
+[4] La requérante, par l’intermédiaire de son comptable M. French, a envoyé un avis d’appel proposé que la Cour canadienne de l’impôt a reçu le 8 mai 2006. Dans une lettre datée du 12 mai 2006, M. French a été informé qu’il ne s’agissait pas d’un appel qui pouvait être interjeté sous le régime de la procédure générale et qu’un comptable ne pouvait pas représenter un contribuable devant la Cour selon les Règles de la Cour canadienne de l’impôt (procédure générale). On a demandé à M. French d’établir un avis d’appel en bonne et due forme et on lui a suggéré d’envoyer une demande de prorogation du délai pour la production de l’avis d’appel.
+[5] La seule réponse reçue de M. French figurait dans une lettre datée du 4 avril 2007, qui était rédigée en ces termes :
+[traduction]
+Les faits du litige sont ceux énoncés dans les lettres ci‑jointes.
+L’appel devrait être accueilli conformément aux dispositions en matière d’équité et en raison de la mauvaise communication des faits et des renseignements par les représentants de Revenu Canada.
+Si vous avez des questions à cet égard, n’hésitez pas à communiquer avec moi.
+[6] Les lettres en annexe étaient les mêmes lettres que celles incluses dans l’avis d’appel proposé. Robert Smith, président de Collingwater Investments Inc., a assisté à l’audience avec l’aide de M. French. Ce dernier a confirmé que la requérante avait l’intention d’interjeter appel sous le régime de la procédure générale.
+[7] L’intimée s’est opposée à cette demande de prorogation du délai au motif que l’appel n’était pas raisonnablement fondé au sens du sous‑alinéa 305(5)b)(iv) de la Loi sur la taxe d’accise (la « Loi »).
+POINT EN LITIGE
+[8] Faut‑il accorder la demande de prorogation du délai pour déposer un avis d’appel présentée par la requérante?
+ANALYSE
+[9] L’article 305 de la partie IX de la Loi est rédigé en ces termes :
+305(1) La personne qui n’a pas interjeté appel en application de l’article 306 dans le délai imparti peut présenter à la Cour canadienne de l’impôt une demande de prorogation du délai pour interjeter appel. Cette cour peut faire droit à la demande et imposer les conditions qu’elle estime justes.
+(2) La demande doit indiquer les raisons pour lesquelles l’appel n’a pas été interjeté dans le délai par ailleurs imparti.
+(3) La demande, accompagnée de trois exemplaires de l’avis d’appel, est déposée en trois exemplaires auprès du greffe de la Cour canadienne de l’impôt conformément à la Loi sur la Cour canadienne de l’impôt.
+(4) Sur réception de la demande, la Cour canadienne de l’impôt en envoie copie au bureau du sous‑procureur général du Canada.
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l’année suivant l’expiration du délai d’appel par ailleurs imparti;
+b) la personne démontre ce qui suit :
+(i) dans le délai d’appel par ailleurs imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+[10] Cet article stipule comment une demande de prorogation du délai doit être effectuée, quel est son contenu et quelles sont les conditions que le requérant doit remplir pour qu’une ordonnance puisse être rendue. J’ai conclu que la demande déposée par la requérante est inadéquate. Elle n’est pas conforme au paragraphe 305(3).
+[11] De plus, ni la demande déposée par la requérante, ni le témoignage à l’audience n’ont permis de montrer que la requérante avait des motifs raisonnables d’appeler de la cotisation selon le sous‑alinéa 305(5)b)(iv). Les seuls motifs d’appel invoqués par la requérante étaient la préclusion et les dispositions en matière d’équité, et aucun d’entre eux n’est un motif raisonnable d’appel de la cotisation.
+[12] Dans sa demande, la requérante veut essentiellement faire valoir que la préclusion empêche le ministre d’établir une cotisation d’une certaine façon, étant donné que ses représentants ont fourni des renseignements erronés. La question de la préclusion a été examinée par le juge Bowman (tel était alors son titre) dans la décision Goldstein v. Canada, [1985] 2 C.T.C. 2036. Il a mentionné ce qui suit aux paragraphes 21 à 23 :
+21 Il existe une jurisprudence volumineuse sur la question de la préclusion dans les affaires fiscales, et il ne serait pas utile de passer une fois de plus les divers cas en revue. Je tenterai toutefois d'énoncer les principes tels que je les comprends, du moins dans la mesure où ils sont pertinents. La préclusion se présente sous diverses formes : préclusion du fait du comportement, préclusion de chose jugée et préclusion du fait d'acte formaliste. Dans certains cas, il est fait référence à une notion d'« equitable estoppel » (préclusion en equity), expression qui n'est pas nécessairement exacte. Qu'il suffise de dire que le seul type de préclusion qui nous intéresse ici est la préclusion du fait du comportement. Dans l'arrêt Canadian Superior Oil Ltd. c. Paddon-Hughes Development Co. Ltd. [1970] R.C.S. 932, pp. 939-940, le juge Martland énonce comme suit les facteurs donnant lieu à une préclusion :
+Les facteurs essentiels pour fonder une fin de non‑recevoir sont, je pense, les suivants :
+(1) Une affirmation, ou une conduite y équivalant, qui a pour but d'inciter la personne à qui elle est faite à adopter une certaine ligne de conduite.
+(2) Une action ou une omission résultant de l'affirmation, en paroles ou en actes, de la part de la personne à qui l'affirmation est faite.
+(3) Un préjudice causé à cette personne en conséquence de cette action ou omission.
+22 La préclusion n'est plus simplement une règle de preuve. C'est une règle de droit positif. Lord Denning en parle comme d'un « principe de justice et d'équité ».
+23 On dit parfois que la préclusion n'est pas recevable contre la Couronne. Cette affirmation n'est pas exacte et semble provenir d'une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d'autres principes de droit. La préclusion du fait du comportement, telle qu'elle s'applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s'est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n'a aucune application lorsqu'une interprétation particulière d'une loi a été communiquée à un sujet par un fonctionnaire de l'État, que le sujet s'est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l'interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n'est pas approprié, non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu'aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n'a aucun rôle à jouer lorsque des questions d'interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[13] Le motif d’appel fondé sur la préclusion doit être rejeté, étant donné qu’une cotisation doit être établie en vertu des dispositions de la Loi et qu’il n’appartient pas à un contribuable d’invoquer la préclusion pour empêcher l’application de la loi.
+[14] La requérante a également demandé que l’appel (la demande) soit accueilli en application des dispositions en matière d’équité. L’article 281.1, communément appelé les dispositions en matière d’équité, est rédigé en ces termes :
+281.1(1) Le ministre peut annuler les intérêts payables par une personne en application de l’article 280, ou y renoncer.
+(2) Le ministre peut annuler la pénalité payable par une personne en application de l’article 280, ou y renoncer.
+[15] L’article 281.1 de la Loi confère au ministre le pouvoir discrétionnaire d’annuler des pénalités ou d’y renoncer. La Cour canadienne de l’impôt n’a pas compétence pour examiner l'exercice par le ministre de son pouvoir discrétionnaire.
+[16] Il s’agit d’une situation où les documents déposés devant la Cour et les observations faites par le représentant de la requérante étaient inadéquats. Les commentaires suivants que le juge Dussault de la Cour canadienne de l’impôt a formulés dans la décision Ferrara c. R., [2002] A.C.I. no 60, aux paragraphes 9 et 10 conviennent en l’espèce :
+[9] Lorsqu'on se présente comme comptable et qu'on prétend représenter un contribuable devant la Cour canadienne de l'impôt, ce qui est permis en vertu des dispositions législatives régissant la procédure informelle, on doit accepter de remplir les obligations qui découlent d'un tel mandat avec un minimum de professionnalisme et de compétence. Sinon, on s'expose à des recours de la part du contribuable qui peut se voir priver de ses droits.
+[10] Dans le cas présent, j'estime que l'avis d'appel ne satisfait pas à des normes minimales pour permettre d'affirmer que l'appel est raisonnablement fondé. La demande de prorogation ne remédie pas à cette situation.
+[17] La demande de prorogation du délai est rejetée.
+Signé à Vancouver (Colombie‑Britannique), ce 7e jour de septembre 2007.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour d’octobre 2007.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2007CCI539
+NO DU DOSSIER : 2007-1687(GST)APP
+INTITULÉ : Collingwater Investments Inc. c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 août 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 7 septembre 2007
+COMPARUTIONS :
+Représentant de la requérante :
+Tim French
+Avocate de l’intimée :
+Me Kate Leslie
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

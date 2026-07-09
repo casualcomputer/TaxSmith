@@ -1,0 +1,159 @@
+Title: Melindy v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25167/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-532-25167-melindy-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-09-22
+
+# Melindy v. M.N.R.
+
+- Citation: 2004 TCC 532
+- Decision date: 2004-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2547, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melindy v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-22
+Neutral citation
+2004 TCC 532
+File numbers
+2003-2024(EI)
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2003-2024(EI)
+2003-2026(EI)
+BETWEEN:
+TRUDY MELINDY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+__________________________________________________________________
+Appeals heard on common evidence with the appeals of Trudy Melindy
+(2003-2025(CPP) and 2003-2027(CPP)) on April 29, 2004
+at Gander, Newfoundland
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Thomas Johnson
+Counsel for the Respondent:
+Martin Hickey
+__________________________________________________________________
+JUDGMENT
+These appeals pursuant to subsection 103(1) of the Employment Insurance Act, are allowed and the decisions of the Minister of National Revenue on the appeal made to him under section 91 of that Act are vacated on the basis that the Appellant was engaged in insurable employment pursuant to paragraph 1(1)(b) of the Employment Insurance (Fishing) Regulations for the periods May 19, 2002 to June 15, 2002 and June 16, 2002 to August 10, 2002, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+Dockets: 2003-2025(CPP)
+2003-2027(CPP)
+BETWEEN:
+TRUDY MELINDY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+__________________________________________________________________
+Appeals heard on common evidence with the appeals of Trudy Melindy
+(2003-2024(EI) and 2003-2026(EI)) on April 29, 2004
+at Gander, Newfoundland
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Thomas Johnson
+Counsel for the Respondent:
+Martin Hickey
+__________________________________________________________________
+JUDGMENT
+The appeals are allowed and the decision of the Minister of National Revenue is vacated on the basis that the Appellant was not engaged in pensionable employment within the meaning of paragraph 6(1)(a) of the Canada Pension Plan for the periods May 19, 2002 to June 15, 2002 and June 16, 2002 to August 10, 2002 in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC532
+Date: 20040922
+Dockets: 2003-2024(EI)
+2003-2026(EI)
+2003-2025(CPP)
+2003-2027(CPP)
+BETWEEN:
+TRUDY MELINDY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] These are appeals from a decision by the Minister of National Revenue (the "Minister") that the Appellant Trudy Melindy's employment was pensionable but not insurable. The appeals were heard on common evidence. Specifically, the Minister determined that, for the periods May 19, 2002 to June 15, 2002 and June 16, 2002 to August 10, 2002, Trudy Melindy was an employee of Melindy Fisheries Ltd. under a contract of service. As such, her work was pensionable[1]. The Minister further determined that her work on the fishing boat Kelly Christine would have been insurable[2] except that she was a shareholder of Melindy Fisheries Ltd. controlling more than 40% of the company's voting shares. Accordingly, her work fell within the definition of "excluded employment"[3].
+[2] Ms. Melindy's position is that she was self-employed under a contract for services with Melindy Fisheries and was a "fisher". As such, her work on the Kelly Christine was not pensionable but ought to be insurable pursuant to paragraph 1(1)(b) of the Employment Insurance (Fishing) Regulations[4]:
+"fisher" means a self-employed person engaged in fishing and includes a person engaged, other than under a contract of service or for their own or another person's sport,
+...
+(b) in any work incidental to making or handling a catch, whether the work consists of loading, unloading, transporting or curing the catch made by the crew of which the person is a member, or of preparing, repairing, dismantling or laying-up the fishing vessel or fishing gear used by that crew in making or handling the catch, where the person engaged in any such incidental work is also engaged in making the catch; or
+...
+FACTS
+[3] To succeed in her appeals, Ms. Melindy has the burden of proving that the assumptions upon which the Minister relied in making his determination were incorrect. The facts not in dispute are that from May 19, 2002 to August 10, 2002, Ms. Melindy was a member of the crew of Kelly Christine fishing for crab. Her duties were to sort and measure the crab, as well as to help in the preparations for and the clean up at the end of the season for all of which she received a 12% share of the catch. She had no guarantee of any minimum payment for her work. The catch was sold to Eveleigh's Seafoods Inc. ("Eveleigh's"). Eveleigh's paid Ms. Melindy her share directly after making deductions for, among other things, employment insurance and "dockside monitoring"[5].
+[4] Ms. Melindy challenged the following assumptions as set out in paragraph 6 of the Minister's Reply to the Notice of Appeal:
+i) [Melindy Fisheries] was responsible for all the costs associated with fishing, including groceries for the crew;
+j) [Ms. Melindy] did not pay her share of any of the trip expenses and was not required to do so;
+k) Ms. Melindy was not sharing in [Melindy Fisheries] business as a co-venturer but as a shareholder;
+l) Ms. Melindy was [Melindy Fisheries] employee;
+m) there was a contract of service between Ms. Melindy and [Melindy Fisheries].
+ANALYSIS
+[5] Ms. Melindy and her husband, Derrick Melindy, the skipper of the Kelly Christine, were the only witnesses called. They were credible and knowledgeable in the presentation of their evidence. I accept Ms. Melindy's evidence, as supported by the testimony of Mr. Melindy, that each week she purchased the necessary groceries for the fishing expedition and that, after the crew had been paid for the catch, each reimbursed her for his proportionate share. I find as well, that she purchased, as required and at her own expense[6], a survival suit for her use as a crew member. Ms. Melindy did not purchase her own knife and crab measure, but this in itself is not fatal to her position. Dockside monitoring fees were deducted from her share of the catch. Similarly, she was required to pay for her share of bait costs[7]. She was also responsible for other expenses which stood to reduce the total crew share and thus, her potential earnings: if, for example, the Kelly Christine had suffered a major engine failure when they were fishing, the crew share otherwise available for distribution would have been reduced by the cost of repairs.
+[6] I am satisfied that, on a balance of probabilities, Ms. Melindy has proven wrong the assumptions upon which the Minister's decision was based. She was not an employee of Melindy Fisheries Ltd. under a contract of service. The evidence presented satisfies the standard tests in the case law[8]. She owned most of her own tools. Her duties, although part of the co-operative fishing operation, were unsupervised. She knew what to do and went about doing it. She was free to crew on other ships and for other kinds of catches on different terms. She was not entitled to vacation pay, sick leave or overtime. Having no guaranteed salary, she was at risk of loss - not only had she already paid for provisions and tools for the fishing venture the outcome of which was unknown, she was also liable for contingency costs such as boat repair which stood to reduce her crew share. Conversely, if the expedition was a success, she had a chance of profit from her efforts depending on the size of the catch and the market price at time of sale. As for the integration test, Ms. Melindy shared in the proceeds of the fishing venture as contemplated in Comeau Sea Foods Limited v. The Minister of National Revenue[9] where O'Connor, J. stated:
+... As to integration, the factors point in two directions. The fishermen in question were not totally integrated into the operations of the ("the fishing company") Appellant. The question that arises is whose business is it? Well it is obviously mainly the business of the Appellant but, the fact remains that the Appellant by sharing the proceeds of the catch, in effect, is sharing the proceeds of the business with the crew as a co-venturer.
+[7] Having found that Ms. Melindy was working under a contract for services, it follows that her work was not pensionable under the definition set out in the Canada Pension Plan. It remains, however, to determine whether she was a "fisher" within the meaning of subsection 1(1) of the Employment Insurance (Fishing) Regulations. The evidence shows that Ms. Melindy was a "self-employed person" engaged in measuring and sorting the crab that constituted the catch of the Kelly Christine as well as preparing the ship for and laying it up after the season. This is sufficient to bring her within the definition set out in paragraph 1(1)(b) "... work incidental to making or handling a catch ...". Accordingly, Ms. Melindy is a "fisher" and her work was insurable under the Employment Insurance (Fishing) Regulations for the periods in question.
+[8] The appeals are allowed and the Minister's decision is vacated.
+Signed at Ottawa, Canada, this 22nd day of September, 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC532
+COURT FILE NOS.:
+2003-2024(EI)
+2003-2026(EI)
+2003-2025(CPP)
+2003-2027(CPP)
+STYLE OF CAUSE:
+Trudy Melindy v. M.N.R.
+PLACE OF HEARING:
+Gander, Newfoundland
+DATE OF HEARING:
+April 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+September 22, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Thomas Johnson
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thomas Johnson
+Firm:
+O'Dea, Earle
+St. John's, Newfoundland
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to paragraph 6(1)(a) of the Canada Pension Plan
+[2] Pursuant to paragraph 5(1)(a) of the Employment Insurance Act: ... insurable employment - Subject to subsection (2), insurable employment is (a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise; ...
+[3] Pursuant to paragraph 5(2)(b) of the Employment Insurance Act: "Excluded employment ... the employment of a person by a corporation if the person controls more than 40% of the voting shares of the corporation".
+[4] SOR/96-445;
+[5] A fee charged to each crew member in accordance with his/her percentage share to cover inspection costs of the catch to ensure compliance with departmental standards.
+[6] Exhibit A-3, Invoice from Mercer's Marine
+[7] As it happened, in 2002, Eveleigh chose to provide the bait at no cost to Melindy Fisheries as a business incentive; the following year, however, Eveleigh did not continue the practice and Ms. Melindy incurred this cost.
+[8] Weibe Door Services Ltd. v. M.N.R., 87 DTC 5025, 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 4 C.T.C. 139; Comeau's Sea Foods v. Canada, [2002] F.C.J. No. 1808 (F.C.A.) upheld by the Federal Court of Appeal; Robinson v. Canada, [1991] T.C.J. No. 624 (T.C.C.); Benjamin v. Canada, [1998] T.C.J. No. 153 (T.C.C.)
+[9] [2001] T.C.J. No. 382

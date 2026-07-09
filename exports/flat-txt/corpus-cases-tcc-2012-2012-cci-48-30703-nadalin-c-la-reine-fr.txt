@@ -1,0 +1,374 @@
+Title: Nadalin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30703/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-48-30703-nadalin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-02-13
+
+# Nadalin c. La Reine
+
+- Citation: 2012 CCI 48
+- Decision date: 2012-02-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7506, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nadalin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-02-13
+Référence neutre
+2012 CCI 48
+Numéro de dossier
+2011-1798(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1798(IT)I
+ENTRE :
+JO-ANN NADALIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 décembre 2011,
+à Prince George (Colombie‑Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Shankar Kamath
+____________________________________________________________________
+JUGEMENT
+L’appel est de l’appelante est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 13e jour de février 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour d’avril 2012.
+Marie‑Christine Gervais
+Référence : 2012CCI48
+Date : 20120213
+Dossier : 2011-1798(IT)I
+ENTRE :
+JO-ANN NADALIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans le présent appel est de savoir si l’appelante a droit à la Prestation fiscale canadienne pour enfants (la « PFCE ») pour la période allant de février 2010 à août 2010 (la « période visée par l’appel ») à l’égard de sa fille (l’« enfant »). Des avis de PFCE avaient d’abord été envoyés à l’appelante pour l’informer qu’elle avait droit à la PFCE pour la période visée par l’appel. On a ensuite conclu que l’appelante n’avait pas droit à la PFCE pour cette période. La réponse indique que l’appelante a été avisée qu’elle n’avait pas droit à la PFCE parce qu’elle n’était plus la principale responsable des soins de l’enfant. La question de savoir si l’enfant résidait avec l’appelante pendant les mois en question a toutefois été soulevée dans la réponse (et l’avocat de l’intimée a reconnu qu’il s’agissait de la principale question en litige). Dans son avis d’opposition et à l’audience, l’appelante a traité des questions de savoir si l’enfant résidait avec elle et si elle était la principale responsable des soins de l’enfant.
+[2] Sous le régime de la Loi de l’impôt sur le revenu (la « Loi »), la PFCE est considérée comme un paiement en trop au titre des sommes dont un particulier est redevable en application de la Loi. Ainsi, si le particulier est admissible, la somme lui est versée en tant que remboursement du paiement en trop. Selon le paragraphe 122.61(1) de la Loi, le paiement en trop est calculé pour chaque mois. Cette disposition prévoit notamment ce qui suit :
+122.61(1) Lorsqu’une personne […] produi[t] une déclaration de revenu pour l’année, un paiement en trop au titre des sommes dont la personne est redevable en vertu de la présente partie pour l’année est réputé se produire au cours d’un mois par rapport auquel l’année est l’année de base. Ce paiement correspond au résultat du calcul suivant :
+1/12[(A - B) + C + M]
+où :
+A représente le total des montants suivants :
+a) le produit de 1 090 $[1] par le nombre de personnes à charge admissibles à l’égard desquelles la personne était un particulier admissible au début du mois,
+[…]
+C le résultat du calcul suivant :
+F – (G × H)
+où :
+F représente :
+a) si la personne est, au début du mois, un particulier admissible à l’égard d’une seule personne à charge admissible, 1 463 $[2],
+[…]
+[Non souligné dans l’original.]
+[3] Comme le paiement en trop est réputé s’être produit au cours d’un mois relativement à une personne qui était un particulier admissible à l’égard d’une personne à charge admissible au début du mois, il faut décider si une personne donnée était un particulier admissible au début de chacun des mois à l’égard de la personne à charge admissible. Par conséquent, le fait qu’une personne était le particulier admissible à l’égard d’une personne à charge admissible au début d’un mois donné ne veut pas forcément dire que cette même personne serait le particulier admissible à l’égard de la personne à charge admissible au début du mois suivant. Les définitions de « particulier admissible » et de « personne à charge admissible » se trouvant à l’article 122.6 de la Loi sont ainsi rédigées :
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+[...]
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+« personne à charge admissible » S’agissant de la personne à charge admissible d’un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n’est pas quelqu’un pour qui un montant a été déduit en application de l’alinéa 118(1)a) dans le calcul de l’impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l’année de base se rapportant au mois qui comprend ce moment;
+c) elle n’est pas quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+[4] Il n’est pas contesté en l’espèce que l’appelante est la mère de l’enfant. L’intimée a remis en cause la question de savoir si l’enfant résidait avec l’appelante durant la période visée par l’appel. Si l’enfant ne résidait avec elle durant cette période, l’appelante n’était pas un particulier admissible (étant donné qu’elle ne résidait pas avec l’enfant) et n’avait donc pas droit à la PFCE. L’intimée fait valoir que, si par contre l’enfant résidait avec l’appelante, la présomption prévue à l’alinéa f) de la définition de « particulier admissible » citée ci‑dessus ne s’appliquait pas et que, de toute façon, Colin Foreman était celui des deux parents qui assumait principalement la responsabilité pour le soin et l’éducation de l’enfant pendant la période visée par l’appel.
+[5] Selon l’alinéa g) de la définition de « particulier admissible » citée ci‑dessus, la présomption de l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement. Ces circonstances (dans lesquelles la présomption ne s’appliquerait pas) sont décrites à l’article 6301 du Règlement de l’impôt sur le revenu (le « Règlement ») et elles incluent notamment le cas où « plus d’une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible qui réside avec chacune d’elles à des endroits différents ». Si l’enfant a résidé à la fois avec l’appelante et avec Colin Foreman, comme l’appelante et Colin Foreman ont tous deux présenté un avis au ministre conformément au paragraphe 122.62(1) de la Loi et comme ils ne résidaient pas au même endroit, la présomption prévue à l’alinéa f) de la définition de « particulier admissible » citée ci‑dessus ne s’applique pas.
+[6] Les critères prévus par règlement qui sont visés à l’alinéa h) de la définition de « particulier admissible » sont énoncés à l’article 6302 du Règlement :
+6302 Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[7] Si l’enfant résidait avec l’appelante au début de l’un ou l’autre des mois de la période visée par l’appel, il faut décider si l’appelante était celle qui assumait principalement la responsabilité pour le soin et l’éducation de l’enfant à ce moment‑là.
+[8] En l’espèce, le ministre n’a émis que quelques hypothèses de fait. Le paragraphe 11 de la réponse est rédigé ainsi :
+[traduction]
+11. Le ministre a émis les hypothèses de fait suivantes pour décider si l’appelante avait droit à la PFCE pour les années de base 2008 et 2009 :
+a) l’appelante et Colin Foreman (« M. Foreman ») sont les parents de [l’enfant], née le […];
+b) à toutes les époques pertinentes, l’appelante et M. Foreman étaient divorcés et vivaient séparés;
+c) [l’enfant] a résidé avec l’appelante jusqu’en janvier 2010;
+d) [l’enfant] a commencé à résider avec son père en janvier 2010;
+e) l’appelante était le « particulier admissible » à l’égard de [l’enfant] pour les mois de juillet 2009 à janvier 2010 de l’année de base 2008 aux fins du calcul de son droit à la PFCE;
+f) à toutes les autres époques pertinentes de l’année de base 2008, une autre personne que l’appelante était le « particulier admissible » à l’égard de [l’enfant] aux fins du calcul de son droit à la PFCE;
+g) l’appelante n’était pas le « particulier admissible » à l’égard de [l’enfant] aux fins du calcul de son droit à la PFCE pour l’année de base 2009.
+[9] Dans La Reine c. Anchor Pointe Energy Ltd., 2003 CAF 294, [2004] 5 C.T.C. 98, le juge Rothstein (alors juge à la Cour d’appel fédérale) a statué ce qui suit au nom de la Cour d’appel fédérale :
+8 Dans la réponse à l’avis d’appel figurent les hypothèses sur lesquelles le ministre s’est fondé, y compris les hypothèses découlant de la décision Global. La réponse prévoit plus particulièrement ce qui suit, au paragraphe 10 :
+[traduction]
+En établissant de nouvelles cotisations, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[...]
+q) API, APII, APIII, APIV et APV n’ont pas acheté les données sismiques en vue de déterminer l’existence, la localisation, l’étendue ou la qualité d’un gisement de pétrole ou de gaz;
+r) Les données sismiques n’ont pas été utilisées pour fins d’exploration;
+[...]
+z) Les données sismiques achetées par API, APII, APIII, APIV et APV ne sont pas admissibles au titre des frais d’exploration au Canada ( « FEC » ) au sens de l’alinéa 66.1(6)a) de la Loi de l’impôt sur le revenu (la « Loi » ).
+[…]
+24 Le juge Rip a supprimé l’alinéa 10z) pour un motif additionnel. Il estimait que cet alinéa représentait « une de ces conclusions de droit qui n’ont pas leur place parmi les hypothèses de fait du ministre ».
+25 J’estime également que les déclarations ou conclusions juridiques n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre. Il en découlerait pour le contribuable le fardeau de réfuter une déclaration ou conclusion juridique et, bien sûr, cela ne doit pas être. Le critère juridique à appliquer n’a pas à être prouvé par les parties comme s’il s’agissait d’un fait. Les parties doivent présenter leurs arguments relativement au critère juridique, mais c’est à la Cour qu’il incombe en bout de ligne de trancher les questions de droit.
+26 Toutefois, il serait plus exact de qualifier l’hypothèse formulée à l’alinéa 10z) de conclusion mixte de fait et de droit. La conclusion selon laquelle des données sismiques achetées ne sont pas admissibles au titre de FEC au sens de l’alinéa 66.1(6)a) requiert d’appliquer le droit aux faits. L’alinéa 66.1(6)a) énonce le critère à respecter pour qu’une déduction au titre de FEC soit admissible. Pour décider si l’achat de données sismiques en l’espèce satisfait à ce critère, il faut établir si les faits y satisfont ou non. Le ministre peut présumer les éléments de fait d’une conclusion mixte de fait et de droit. S’il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit.
+[10] Il me semble que la question de savoir si l’enfant résidait avec l’appelante est une conclusion mixte de fait et de droit, étant donné qu’elle sera tranchée sur la foi de l’interprétation du verbe « réside » employé dans la définition de « particulier admissible » à l’article 122.6 de la Loi et de l’application des règles de droit relatives à cette interprétation aux faits en l’espèce. De même, la question de savoir si l’appelante ou une autre personne est le « particulier admissible » est une conclusion mixte de fait et de droit. La définition de « particulier admissible » énonce les conditions qui doivent être remplies pour qu’une personne soit un « particulier admissible », notamment le fait qu’elle réside avec la personne à charge admissible (une conclusion mixte de fait et de droit, comme il a été mentionné précédemment). Cette définition prévoit également d’autres conditions, notamment le fait que la personne est celui des deux parents qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge admissible selon les critères prévus à l’article 6302 du Règlement. On ne peut décider si une personne remplit ces conditions qu’après avoir déterminé si les faits remplissent ces conditions, de sorte que la question de savoir si une personne est un « particulier admissible » est une conclusion mixte de fait et de droit.
+[11] Il ne me semble pas que les hypothèses énoncées aux alinéas 11c) à g) de la réponse sont véritablement des hypothèses de fait. Le ministre aurait dû cerner clairement les faits qu’il présumait. Comme il ne l’a pas fait, il a le fardeau de la preuve à l’égard des faits. Dans l’arrêt La Reine c. Loewen, 2004 CAF 146, la juge Sharlow a fait les observations suivantes au nom de la Cour d’appel fédérale :
+11 Les contraintes imposées au ministre lorsqu’il invoque des hypothèses n’empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (C.A.F.) (autorisation d’appel refusée [1996] A.C.S.C. no 4.
+[12] L’autorisation d’interjeter appel à la Cour suprême du Canada de la décision rendue par la Cour d’appel fédérale dans l’arrêt Loewen a été refusée (338 N.R. 195 (note)).
+[13] La mention du fait que l’enfant résidait avec l’appelante jusqu’en janvier 2010 puis avec Colin Foreman au paragraphe 11 de la réponse indique toutefois à l’appelante que la question en litige consistait à savoir si l’enfant résidait avec elle. De même, la mention du fait que l’appelante a cessé d’être la principale responsable des soins aux paragraphes 6 et 8 de la réponse avisait l’appelante de cette question. Ces paragraphes sont rédigés ainsi :
+[traduction]
+6. Par un avis daté du 20 septembre 2010, le ministre a fait savoir à l’appelante qu’une nouvelle décision concernant son droit à la PFCE pour l’année de base 2008 avait été rendue par suite d’un changement touchant son enfant admissible. En conséquence, le ministre a avisé l’appelante que des paiements totalisant 1 423,33 $ qu’elle avait reçus au titre de la PFCE étaient réputés avoir été versés en trop pour les mois de février 2010 à juin 2010 parce qu’elle n’était plus la principale responsable des soins de [l’enfant] depuis février 2010.
+[…]
+8. Par un avis daté du 20 septembre 2010, le ministre a fait savoir à l’appelante qu’une nouvelle décision concernant son droit à la PFCE pour l’année de base 2009 avait été rendue par suite d’un changement touchant son enfant admissible. En conséquence, le ministre a avisé l’appelante que des paiements totalisant 572,66 $ qu’elle avait reçus au titre de la PFCE étaient réputés avoir été versés en trop pour les mois de juillet 2010 à août 2010 parce qu’elle n’était plus la principale responsable des soins de [l’enfant].
+[14] Il semblait clair également que l’appelante avait compris que le présent appel portait sur les questions de savoir si l’enfant résidait avec elle et si elle était la principale responsable des soins. Comme il a été mentionné précédemment, la principale question en litige en l’espèce consiste à savoir si l’enfant résidait avec l’appelante au début de l’un ou l’autre des mois pendant la période visée par l’appel. Or, il ne fait aucun doute que l’enfant résidait avec Colin Foreman durant toute cette période.
+[15] Compte tenu des définitions et des exigences relatives à la PFCE ci‑dessus et étant donné qu’il ne fait aucun doute que l’enfant résidait avec Colin Foreman durant toute la période visée par l’appel, la Cour doit trancher les questions suivantes en l’espèce :
+a) L’enfant résidait‑elle avec l’appelante au début de l’un ou l’autre des mois de la période allant de février 2010 à août 2010 pour l’application des dispositions relatives à la PFCE, et, dans l’affirmative, quels sont ces mois?
+b) Si l’enfant résidait avec l’appelante au début d’un mois donné (et résidait donc aussi avec Colin Foreman), lequel des deux parents était, au début de ce mois, celui qui assumait principalement la responsabilité pour le soin et l’éducation de l’enfant?
+[16] Dans l’arrêt Thomson v. M.N.R., 1945 CarswellNat 23, [1946] C.T.C. 51, le juge Rand de la Cour suprême du Canada a traité des termes « résidant » et « résidence habituelle » :
+[traduction]
+47 La progression par degrés en ce qui concerne le temps, l’objet, l’intention, la continuité et les autres circonstances pertinentes, montre que, dans le langage ordinaire, le terme « résidant » ne correspond pas à des éléments invariables qui doivent tous être présents dans chaque cas donné. Il est tout à fait impossible d’en donner une définition précise et applicable à tous les cas. Ce terme est très souple, et ses nuances nombreuses varient non seulement suivant le contexte de différentes matières, mais aussi suivant les différents aspects d’une même matière. Dans un cas donné, on y retrouve certains éléments, dans d’autres, on en trouve d’autres dont certains sont fréquents et certains autres nouveaux.
+48 L’expression « résidence habituelle » a un sens restrictif et, alors qu’à première vue elle implique une prépondérance dans le temps, les décisions rendues en vertu de la loi anglaise ont rejeté ce point de vue. On a jugé qu’il s’agit de résidence au cours du mode habituel de vie de la personne en question, par opposition à une résidence spéciale, occasionnelle ou fortuite. Pour appliquer le critère de la résidence habituelle, il faut donc examiner le mode général de vie.
+[17] Dans la décision S.R. c. La Reine, 2003 CCI 649, [2004] 1 C.T.C. 2386, le juge Bonner s’est exprimé de la sorte :
+12 L’expression « réside avec », telle qu’elle est utilisée dans la définition du terme « particulier admissible » à l’article 122.6, doit être interprétée de manière à tenir compte de l’objet de la loi. Cette loi visait à mettre en œuvre la prestation fiscale pour enfants. Cette prestation avait été mise en place en 1993 en vue de fournir un paiement mensuel unique non imposable aux conjoints ayant la garde d’un enfant. L’enfant devait être le bénéficiaire de ce paiement, lequel était versé au parent assumant principalement la responsabilité pour son soin et son éducation. Le critère est le fait de résider avec le parent. La présence physique d’un enfant qui vient rendre visite à la résidence d’un parent ne permet pas de remplir la condition imposée par la loi. Le verbe « résider », tel qu’il est utilisé à l’article 122.6, a une connotation de résidence établie et habituelle. […]
+[18] Dans la décision Lapierre c. La Reine, 2005 CCI 720, 2008 DTC 4248, le juge Dussault s’est ainsi prononcé :
+13 Si la résidence est le concept fondamental utilisé aux fins de l’assujettissement à l’impôt sur le revenu en vertu de la Loi, il n’y est cependant pas défini et ce sont les tribunaux qui ont tenté d’en circonscrire les limites. Essentiellement une question de fait, la résidence d’une personne à un endroit donné s’établit par un certain nombre de critères de temps, d’objet, d’intention et de continuité qui n’ont pas nécessairement toujours la même importance et qui peuvent varier selon les circonstances de chaque cas (voir Thomson v. M.N.R, [1946] R.C.S. 209). Toutefois, la résidence implique une certaine constance, une certaine régularité ou encore une certaine permanence selon le mode de vie habituel d’une personne en relation avec un lieu donné et se distingue de ce qu’on peut qualifier de visites ou de séjours à des fins particulières ou de façon sporadique. Lorsque la Loi pose comme condition de résider avec une autre personne, je ne crois pas qu’il convient d’accorder au verbe résider un sens qui s’écarte du concept de résidence tel qu’il a été élaboré par les tribunaux. Résider avec quelqu’un c’est vivre ou demeurer avec quelqu’un dans un endroit donné avec une certaine constance, une certaine régularité ou encore d’une manière habituelle.
+[19] Ainsi, il faut déterminer si l’enfant résidait de manière établie et habituelle avec l’appelante. Il ne suffit pas de savoir dans quelle résidence l’enfant se trouvait au début de chaque mois. Il faut se demander si elle avait une résidence établie et habituelle chez l’appelante ou si elle résidait habituellement avec l’appelante pendant la période visée par l’appel et, le cas échéant, au début de quels mois.
+[20] Deux personnes ont témoigné : l’appelante et Colin Foreman. L’intimée a produit une copie du rapport de garde et d’accès préparé conformément à l’ordonnance rendue par le juge Morgan le 17 mai 2011. Ce rapport est cependant peu utile pour déterminer si l’enfant résidait avec l’appelante durant la période de février à août 2010, car il a été préparé l’année suivante et produit le 17 août 2011. Il ne semble pas traiter en détail de la situation qui existait pendant la période visée par l’appel. Je signale toutefois les recommandations suivantes :
+[traduction]
+• les visites de jour de Jo‑Ann à [l’enfant], qui avaient lieu selon l’horaire ci‑dessous, cesseront au cours des 30 prochains jours :
+º les dimanches, de 10 h à 16 h;
+º les mardis et jeudis, de la sortie des classes jusqu’à 19 h;
+• à compter du 1er octobre 2011, [l’enfant] résidera avec chacun de ses parents selon les modalités suivantes :
+º avec Colin du mercredi après l’école jusqu’à 10 h le dimanche;
+º avec Jo-Ann de 10 h le dimanche jusqu’au moment où celle‑ci la laisse à l’école le mercredi matin.
+[21] Comme le rapport recommande que les visites de jour de l’appelante à l’enfant cessent et que l’enfant réside avec l’appelante (et avec Colin Foreman) à compter du 1er octobre 2011, il est certain que l’enfant ne résidait pas avec l’appelante lorsque le rapport a été préparé en 2011. Le rapport ne précise pas à quel moment l’enfant a cessé de résider avec l’appelante, mais il semble, selon toute vraisemblance, que cela s’est produit en janvier 2010. L’appelante a reconnu à l’audience que la situation avait changé en janvier 2010. Elle a affirmé au début de son témoignage :
+[traduction]
+R Ce que j’aimerais dire, c’est que, à compter de janvier 2010, notre famille a traversé une période très tumultueuse et ma fille a passé très peu de temps à notre résidence habituelle et a commencé à passer plus de temps chez son père.
+[22] Les témoignages sur le nombre de nuits passées par l’enfant chez l’appelante pendant la période visée par l’appel étaient contradictoires. L’appelante a déclaré ce qui suit au cours de son interrogatoire principal :
+[traduction]
+R Février, et voici les reçus de l’optométriste. Et nous avons continué à nous voir. En février, [l’enfant] m’a téléphoné un soir pour me dire qu’elle s’était disputée avec son père et me demander si elle pouvait venir chez moi. J’ai dit oui. Je suis allée la chercher et je lui ai demandé ce qui s’était passé. Elle et son père avaient eu une dispute. Elle est restée chez moi les quelques nuits suivantes. Elle est venue au travail avec moi – je travaillais seulement quelques heures le soir. Et elle a vu son père à mon travail – il travaillait au même aréna que moi comme employé de la ville. Elle est venue me chercher sur la glace pour me dire qu’elle avait vu son père et qu’il ne lui avait presque pas parlé et ne l’avait pas serrée dans ses bras. Elle était très angoissée à cause de tout ça. Elle est restée avec moi encore quelques jours, jusqu’à ce qu’elle et son père --
+[…]
+R […] Boston Pizza, une soirée que j’ai passé avec [l’enfant] et ma mère pour l’anniversaire de celle‑ci. Et je crois que [l’enfant] a passé les quelques nuits suivantes chez moi.
+[23] L’opération concernant Boston Pizza était datée du 2 mars 2010. Les questions et réponses suivantes ont été échangées au cours du contre‑interrogatoire de l’appelante :
+[traduction]
+Q Pardon, combien de nuits --
+R De nuits.
+Q -- par mois est‑elle restée avec vous pendant la période de janvier à août 2010?
+R Je ne sais pas exactement. Mais plusieurs pendant le mois.
+Q Très bien. Je répète ma question : diriez‑vous qu’elle est peut‑être restée avec vous sept jours, une semaine par mois, pendant la période de janvier à août 2010?
+R Je dirais qu’elle est restée avec moi plus que ça, y compris les jours où, par exemple, elle est allée sur la côte avec moi, ça fait plus d’une semaine.
+[24] L’échange suivant a eu lieu pendant l’interrogatoire principal de Colin Foreman :
+[traduction]
+Q Donc, combien de jours en moyenne et au maximum [l’enfant] a‑t‑elle passés chez sa mère de février à août 2010?
+R Très peu. Très peu.
+Q Un jour ou deux par mois?
+R Je dirais qu’elle lui a peut‑être rendu visite quotidiennement. Mais elle n’a pas passé la nuit chez sa mère. Elle n’a pas dormi là.
+[25] Je rejette le témoignage de Colin Foreman selon lequel l’enfant n’a pas passé de nuit à la résidence de l’appelante durant la période visée par l’appel. Il me semble, selon toute vraisemblance, que l’enfant a passé des nuits chez l’appelante pendant cette période. La question que je dois trancher cependant est celle de savoir si l’enfant avait une résidence établie et habituelle chez l’appelante et vivait habituellement avec celle‑ci pendant cette période. Il me semble que les visites de l’enfant chez l’appelante étaient le fruit du hasard à partir de janvier 2010 et que le fait de vivre avec l’appelante ne faisait plus partie de la routine de l’enfant durant la période visée par l’appel. L’enfant semble avoir passé des jours consécutifs avec l’appelante seulement lorsqu’elle l’a accompagnée lors d’un voyage de camping et lors de voyages à Surrey et à Langley au cours de l’été (outre quelques jours consécutifs en février et en mars). Or, ces voyages n’indiquent pas que l’enfant résidait de manière établie et habituelle avec l’appelante.
+[26] L’appelante a essayé d’étayer sa thèse en produisant un certain nombre de reçus pour montrer les articles qu’elle achetait pour l’enfant. Il y avait deux articles récurrents : les droits de scolarité que l’appelante versait à l’école de l’enfant et les cotisations de l’appelante au régime enregistré d’épargne‑études (« REEE ») de l’enfant. Or, ni le paiement des droits de scolarité ni les cotisations à un REEE ne permettent de savoir où l’enfant résidait.
+[27] Étant donné, comme il a été mentionné précédemment, que la question de la PFCE est déterminée sur une base mensuelle, il faut examiner la preuve produite pour chaque mois. Le seul élément de preuve qui a été produit pour janvier est une photographie de l’enfant. Pour février, l’appelante a payé les montants suivants[3] :
+Date
+Vendeur
+Montant
+Articles achetés
+11 février
+Wal-Mart
+34,99 $
+Vêtements
+18 février
+Quesnel Family Optometric
+315,00 $
+Examen de la vue et lunettes
+[28] Il est évident que la relation entre l’appelante et l’enfant a changé en décembre 2009 et en janvier 2010. L’appelante a affirmé que l’enfant l’avait accompagnée lors d’un voyage à Noël en décembre 2009 et que l’enfant avait demandé à voir son père à leur retour. L’appelante a amené l’enfant chez Colin Foreman le 30 ou le 31 décembre 2009. Il semble que l’appelante n’ait pas eu de nouvelles de l’enfant jusqu’à ce que celle‑ci lui envoie un courriel le 13 janvier 2010. L’appelante avait reçu un appel téléphonique lui apprenant que l’enfant n’était pas à l’école. Il semblerait que l’enfant et Colin Foreman aient fait un voyage sur la côte. Il semble que l’enfant soit restée chez Colin Foreman après ce voyage.
+[29] Le 23 janvier 2010 ou vers cette date, l’appelante a reçu signification d’une demande de modification de l’ordonnance de la Cour provinciale de la Colombie‑Britannique qui prévoyait que la résidence principale de l’enfant était chez l’appelante. La demande visait à modifier l’ordonnance de manière à prévoir que la résidence principale de l’enfant serait maintenant chez Colin Foreman. L’appelante a décrit dans les termes suivants la première comparution relative à cette demande :
+[traduction]
+R Depuis, c’était le 23 janvier je crois, j’ai reçu signification de cela. Nous nous sommes retrouvés en cour pour la première fois sur la côte, à Port Coquitlam. Je crois que c’était le 3 février 2010, lorsque Colin a prétendu que [l’enfant] ne voulait plus habiter chez moi, que je l’avais maltraité, etc. J’ai dit à la juge que Colin m’empêchait d’avoir des rapports avec [l’enfant], parce qu’elle continuait de venir chez moi, elle ne se conduisait pas comme si elle avait peur quand j’étais avec elle. Et la juge a accepté que l’affaire soit transférée à Quesnel parce que Colin et moi vivions dans cette ville. Elle a aussi dit à Colin que son obligation, à titre de parent, était de faire en sorte que l’accès soit plus facile, de favoriser de bonnes relations, ce dont il a convenu, mais qu’il n’a pas fait.
+[30] Il me semble que, selon toute vraisemblance, l’enfant n’habitait pas avec l’appelante au début de février. Il semble évident que, lorsque les parties se sont présentées devant le tribunal en février 2010, l’enfant vivait avec Colin Foreman et ne passait pas beaucoup de temps – si elle en passait – chez l’appelante.
+[31] L’achat fait au Wal-Mart le 11 février et le reçu attestant que l’appelante avait amené l’enfant chez l’optométriste le 18 février ne sont pas suffisants pour que l’on puisse conclure que l’enfant résidait avec l’appelante au début de février, car la situation semble avoir changé de façon importante à la fin de décembre et que l’enfant n’a pas passé de jours ou de nuits avec l’appelante en janvier. En conséquence, je conclus que l’enfant ne résidait pas avec l’appelante au début de février.
+[32] Les montants suivants ont été fournis par l’appelante pour le mois de mars :
+Date
+Vendeur
+Montant
+Articles achetés
+1er mars
+Boutique Bo Peep
+35,18 $
+Vêtements
+2 mars
+Boston Pizza
+71,24 $
+Nourriture
+12 mars
+Zellers
+29,27 $
+Vêtements
+17 mars
+Wal-Mart (Surrey)
+32,47 $
+Vêtements
+[33] Comme l’appelante l’a déclaré dans son témoignage mentionné précédemment, le montant payé à Boston Pizza avait trait à une soirée que l’enfant a passée avec l’appelante et sa mère pour célébrer l’anniversaire de celle‑ci. Selon moi, ce n’est pas parce que l’enfant a passé quelques nuits chez l’appelante après l’anniversaire de la mère de cette dernière qu’elle résidait de manière établie et habituelle avec l’appelante au début de mars. L’achat de vêtements chez Bo Peep Boutique ne permet pas non plus de tirer cette conclusion.
+[34] L’appelante a fait les achats chez Zellers et Wal-Mart alors qu’elle se trouvait à Surrey (Colombie‑Britannique). L’enfant n’était pas avec elle, mais avec Colin Foreman à ce moment‑là.
+[35] En conséquence, je conclus que l’enfant ne résidait pas avec l’appelante au début de mars 2010.
+[36] L’appelante a fourni les montants suivants pour avril :
+Date
+Vendeur
+Montant
+Articles achetés
+10 avril
+Stitches
+10,44 $
+Vêtements
+12 avril
+Urban Planet
+31,34 $
+Vêtements
+20 avril
+Booster Juice
+9,77 $
+Boissons
+20 avril
+Ardene
+31,50 $
+Vêtements
+[37] Les deux achats du 10 et du 12 avril n’établissent pas que l’enfant vivait habituellement avec l’appelante au début d’avril. L’appelante a dit ce qui suit au sujet des achats du 20 avril :
+[traduction]
+R […] [L’enfant] et moi avons passé l’après‑midi ensemble et sommes allées chez Booster Juice et au centre commercial, et l’un des nouveaux magasins en ville – à Quesnel – à l’époque était RD. C’était l’endroit où aller.
+[38] Ces propos établissent seulement que l’appelante et l’enfant ont passé un après‑midi ensemble, mais non que l’enfant résidait de manière établie et habituelle avec l’appelante.
+[39] En conséquence, je conclus que l’enfant ne résidait avec l’appelante au début d’avril.
+[40] Les montants suivants ont été fournis par l’appelante pour le mois de mai :
+Date
+Vendeur
+Montant
+Articles achetés
+12 mai
+Old Navy
+17,31 $
+Vêtements
+31 mai
+Evergreen Fishing Resort / Marigold Resort
+36,96 $
+Voyage de camping
+[41] L’achat unique de vêtements et les sommes dépensées pendant la fin de semaine de camping à la fin de mai ne démontrent pas que l’enfant résidait de manière établie et habituelle avec l’appelante au début de mai ou au début de juin. Le voyage de camping avait pour but de rendre visite à la mère de l’appelante et il n’établit pas que l’enfant habitait avec l’appelante. Je conclus que l’enfant ne résidait pas avec l’appelante au début de mai.
+[42] L’appelante a fourni les montants suivants pour le mois de juin :
+Date
+Vendeur
+Montant
+Articles achetés
+28 juin
+Ricky’s All Day Grill (Surrey)
+49,69 $
+Nourriture
+29 juin
+Ardene (Langley)
+11,20 $
+Vêtements
+29 juin
+Zellers (Langley)
+55,85 $
+Inconnu
+[43] Il n’y a eu aucune dépense après le voyage de camping à la fin de mai jusqu’à la fin de juin. L’enfant accompagnait l’appelante pendant le voyage, qui a duré environ une semaine, au cours duquel les dépenses ont été faites à Surrey et à Langley à la fin de juin. Le fait d’accompagner l’appelante lors d’un voyage de camping ou d’un autre voyage à Surrey et à Langley ne démontre pas que l’enfant résidait de manière établie et habituelle avec elle. Je conclus que l’enfant ne résidait pas avec l’appelante au début de juin.
+[44] L’appelante a fourni les montants suivants pour juillet :
+Date
+Vendeur
+Montant
+Articles achetés
+21 juillet
+Stitches
+22,95 $
+Vêtements
+22 juillet
+Wal-Mart
+25,72 $
+Vêtements
+30 juillet
+Ricky’s All Day Grill
+19,02 $
+Nourriture
+31 juillet
+Wal-Mart (Surrey)
+19,04 $
+Vêtements
+[45] Quelques achats de vêtements les 21 et 22 juillet n’établissent pas que l’enfant habitait habituellement avec l’appelante au début de juillet. Il en est de même du voyage de l’enfant et de l’appelante à la fin de juin (mentionné ci‑dessus). Je conclus que l’enfant ne résidait pas avec l’appelante au début de juillet.
+[46] L’appelante a fourni les montants suivants pour le mois d’août :
+Date
+Vendeur
+Montant
+Articles achetés
+3 août
+Boutique Claire’s (Surrey)
+22,68 $
+Parfum et sandales
+4 août
+Cineplex (Surrey)
+40,00 $
+Billets de cinéma
+7 août
+Ardene (Langley)
+5,60 $
+Inconnu
+7 août
+Old Navy (Langley)
+32,48 $ + 52,78 $
+8 août
+Famous Players (Langley)
+59,50 $
+Billets de cinéma
+9 août
+Ricky’s All Day Grill
+21,47 $
+Nourriture
+16 août
+Ardene
+6,72 $
+Inconnu
+[47] Les dépenses du début d’août ont été supportées pendant un voyage qui a commencé à la fin de juillet. Le simple fait que l’enfant était avec l’appelante pendant un voyage au début d’août ne démontre pas qu’elle résidait de manière établie et habituelle avec l’appelante au début d’août. Je conclus que l’enfant ne résidait pas avec l’appelante au début d’août.
+[48] Étant donné que l’enfant ne résidait pas avec l’appelante au début de l’un ou l’autre des mois pendant la période visée par l’appel, il n’est pas nécessaire de déterminer celui des deux parents qui assumait principalement la responsabilité pour le soin et l’éducation de l’enfant au début d’un mois donné pendant cette période.
+[49] En conséquence, l’appel de l’appelante est rejeté sans dépens.
+Signé à Ottawa, Canada, ce 13e jour de février 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 27e jour d’avril 2012.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2012CCI48
+NO DU DOSSIER DE LA COUR : 2011-1798(IT)I
+INTITULÉ : Jo-Ann Nadalin c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Prince George (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 16 décembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 13 février 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ce montant est rajusté annuellement conformément au paragraphe 122.61(5) de la Loi.
+[2] Ce montant est rajusté annuellement conformément au paragraphe 122.61(5) de la Loi.
+[3] Les montants indiqués pour chaque mois ne comprennent pas les montants récurrents au titre des droits de scolarité et des cotisations au REEE qui sont mentionnés ci‑dessus.

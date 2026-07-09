@@ -1,0 +1,117 @@
+Title: Spasic c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29170/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-193-29170-spasic-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-07
+
+# Spasic c. La Reine
+
+- Citation: 2009 CCI 193
+- Decision date: 2009-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6730, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spasic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-07
+Référence neutre
+2009 CCI 193
+Numéro de dossier
+2008-1848(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1848(IT)I
+ENTRE :
+JOVAN SPASIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 février 2009, à London (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Tanis Halpape
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre les nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 24e jour de juin 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2009 CCI 193
+Date : 20090407
+Dossier : 2008-1848(IT)I
+ENTRE :
+JOVAN SPASIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] M. Spasic travaille à temps plein chez Ford Motors comme monteur de machinerie. Il fait entre 40 et 48 heures de travail par semaine chez Ford, mais il est inquiet pour l’avenir de Ford et donc également pour son emploi futur. M. Spasic se passionne pour la mise au point de choses qui n’existent pas encore et voudrait créer des choses que l’on ne peut acheter aujourd’hui. Il a reçu une formation d’électronicien et il a une expérience de technicien en électronique dans des fonctions liées à la technologie au sein de grandes entreprises.
+[2] M. Spasic espère pouvoir mettre au point un transducteur qui soit suffisamment sensible pour faire partie intégrante d’un imageur sonique apte à produire des images tridimensionnelles. Un tel appareil, une fois mis au point, pourrait être utilisé dans plusieurs applications pratiques, dans des outils diagnostiques et professionnels qu’il espère mettre au point par la suite.
+[3] Au cours des années en cause, c’est‑à‑dire 2003 à 2005, M. Spasic était aux premiers stades de la concrétisation de ses espérances. Au cours des années antérieures, dans l’atelier de son sous‑sol, il avait obtenu un petit succès en recouvrant de cuivre, par électrolyse, des plaquettes de silicium de 2,5 pouces. C’était là une partie nécessaire du transducteur qu’il avait en tête. En 2003 ou 2004, il avait cessé d’utiliser l’atelier de son sous‑sol. Il s’est mis à rénover de fond en comble une vieille grange située sur sa ferme, pour en faire, en partie, un atelier d’électronique chauffé et, en partie, un atelier plus traditionnel, le reste de la grange servant de lieu d’entreposage. Il songeait également à faire l’acquisition, au cours de ces années‑là, d’équipements et de fournitures, à savoir des stations de travail électroniques perfectionnées et un équipement lourd traditionnel, les outils lourds ou légers qui pourraient être nécessaires, etc. Il a également, au cours de ces années, fait un travail d’approche sur le transducteur, ainsi que sur la future tondeuse automotrice à siège et la future thermopompe améliorée à jonctions Pelletier. La tondeuse et la thermopompe seraient des applications du transducteur auquel il pensait.
+[4] M. Spasic n’a pas beaucoup de temps et pas beaucoup d’argent à consacrer à ses projets. Il est très économe dans ses dépenses, achetant d’occasion ou dans des enchères les choses dont il pourrait avoir besoin ou qui pourraient lui être utiles. Il peut ainsi en avoir pour son argent, bien que cela suppose l’achat d’équipements et de fournitures qui pourraient ne jamais être nécessaires ou ne jamais lui servir. Il a donc pris bien soin de n’acheter que les choses qu’il pourrait plus tard revendre, si elles ne lui sont pas nécessaires, pour au moins le prix qu’il aura payé.
+[5] Il avait commencé son entreprise en 1999. Durant chacune des années depuis lors et jusqu’en 2007, M. Spasic a déduit une perte d’entreprise égale à la totalité de ses dépenses. Au cours des trois années en question, ses dépenses ont été de 20 000 $, 10 000 $ et 6 000 $ respectivement. M. Spasic n’a jamais tiré aucun revenu de ses projets. Aux fins de l’impôt, il a déduit la totalité de ses frais de recherche scientifique et de développement expérimental afin d’obtenir une déduction immédiate de son investissement dans l’équipement, ainsi que dans la rénovation de la grange et la construction de l’atelier à l’intérieur de la grange.
+[6] Malheureusement, sa grange a brûlé au milieu de 2008 peu de temps avant que les sections de l’atelier ne soient prêtes pour occupation. Comme la vérification a eu lieu en 2006, M. Spasic a dit que ses activités se rapportaient aux travaux de rénovation de la grange et à l’effort nécessaire de sa part pour comprendre la Loi de l’impôt sur le revenu (la « LIR »). Selon lui, il a consacré en moyenne 20 heures par semaine aux travaux de rénovation de la grange. Il semble qu’il n’a pas consacré ses énergies à la mise au point du transducteur ou à la recherche s’y rapportant.
+[7] Les projets de M. Spasic en étaient aux premières étapes. Selon ses propres mots, il avait fait des activités de recherche‑développement dans l’atelier de son sous‑sol et il travaillait au lancement d’une entreprise de recherche-développement. Puis il a fini par concevoir un transducteur simple, mais pas un transducteur pourvu des fonctions nécessaires à la réalisation de ses projets. Il ne conserve pas la trace, ni ne tient de compte rendu, des expériences qu’il effectue ou des résultats obtenus. Sur ce point, les activités de M. Spasic ne respectent évidemment pas ce que l’on appelle communément la méthode scientifique. Puisqu’il n’avait pas encore développé la capacité de mettre au point ou de créer le type requis de transducteur, il n’était pas encore au stade du prototype. Il n’avait pas eu besoin de rédiger un plan de recherche ni un plan d’entreprise parce qu’il était un entrepreneur individuel et que ce qu’il avait à l’esprit, c’était une direction générale. Il ne semblait y avoir ni calendriers, ni prévisions. Étant aux premières étapes de ses projets, il ne sentait pas la nécessité de faire une étude de marché, fût‑elle préliminaire.
+I. La question préliminaire
+[8] De l’avis de M. Spasic, les années d’imposition 2003 et 2004 étaient prescrites. Il est clair que les cotisations avaient toutes été établies à l’intérieur de la période normale de nouvelle cotisation, c’est‑à‑dire la période réglementaire de trois ans. Cette question préliminaire semble être le résultat d’une certaine confusion de la part de M. Spasic à propos du début de la période : était‑ce la date du dépôt de sa déclaration, ou était‑ce la date de la cotisation initiale établie par le ministre? Il y avait aussi le point de savoir si la nouvelle cotisation qui pourrait être nécessaire à la suite de la décision issue de la présente procédure judiciaire est elle aussi assujettie à la période de trois ans. Il a aussi quelque peu confondu tout cela avec l’obligation faite au ministre d’agir avec célérité. Vu les complexités de la Loi de l’impôt sur le revenu, il est certainement très compréhensible que des contribuables comme M. Spasic se méprennent parfois sur les questions procédurales de cette nature.
+II. La question principale
+[9] Le point principal, et sans doute déterminant, soulevé dans la présente affaire est simplement de savoir si M. Spasic exploitait ou non une entreprise au cours des années 2003 à 2005. Pour déduire des pertes d’entreprise, il est évidemment nécessaire qu’il y ait d’abord une entreprise exploitée. Le point de savoir si une entreprise était ou non exploitée sera sans doute déterminant dans la présente affaire parce que, s’il n’y a pas d’entreprise, alors il n’est pas nécessaire de savoir (i) si les dépenses étaient ou non des dépenses de recherche-développement admissibles liées à cette entreprise ou s’il s’agissait de dépenses ordinaires d’entreprise devant être réparties entre compte de capital et résultats de l’exercice, (ii) si la totalité des dépenses déduites se rapportait à l’entreprise, ou (iii) si l’entreprise exploitée consistait elle‑même en activités de recherche-développement.
+[10] L’ancien juge en chef de la Cour, le juge Bowman, dans sa décision de 1998, Kaye v. The Queen, 98 DTC 1659, décrivait en termes simples le critère à appliquer : « Y a‑t‑il une entreprise véritable? » Puis il tenait les propos suivants :
+[...] Il faut se demander : « Est‑ce qu’une personne raisonnable qui examine une activité en particulier et applique des normes courantes de gestion d’entreprise affirmerait qu’il s’agit bien d’une entreprise? » Pour répondre à la question, la personne raisonnable fictive examinerait entre autres choses la structure du capital, les connaissances du participant et le temps consacré à l’activité. Elle évaluerait également si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement.
+Et :
+En fin de compte, les choses se résument à évaluer, en faisant preuve de sens pratique, l’ensemble des facteurs, en accordant à chacun l’importance qui convient dans le contexte global. Bien entendu, on ne doit pas faire fi de la vision et de l’imagination de l’entrepreneur, mais ce sont là deux aspects qui sont difficiles à évaluer à prime abord. En d’autres termes, si vous voulez qu’on vous traite comme un homme d’affaires, agissez en homme d’affaires.
+[11] Dans l’arrêt Stewart c. Canada, 2002 CSC 46, 2002 DTC 6969, la Cour suprême du Canada parle de la nécessité de considérer la nature commerciale ou non de l’activité en cause.
+[12] Les projets de M. Spasic ont pour objet la mise au point de perfectionnements technologiques dans le dessein d’en tirer un profit en les commercialisant, par voie de licence, de fabrication ou de vente. La nécessité intrinsèque d’une créativité dans les projets technologiques de M. Spasic n’est pas sans rappeler la même nécessité chez ceux qui veulent se lancer dans des activités artistiques créatives et en faire métier. Pour cette raison, les activités scientifiques créatives devraient être traitées à cet égard de la même manière que les activités artistiques créatives. Il a été admis par la Cour que, s’agissant des artistes tels que peintres, auteurs, musiciens et sculpteurs, l’éventail de critères et le point de vue contextuel rendant compte de la réalité du domaine considéré devront sans doute être plus larges que ce ne serait le cas pour des activités commerciales plus traditionnelles, lorsque viendra le temps de dire si un contribuable a ou non déjà commencé de rentabiliser ses activités créatrices. Voir par exemple les décisions suivantes : Harrison c. Canada, 2007 CCI 19, 2007 DTC 377 (édition d’ouvrages), Malltezi c. Canada, 2009 CCI 149, [2009] A.C.I. no 104 (QL) (développement de produits), Li c. Canada, 2008 CCI 175, 2008 DTC 3039 (développement de produits), Janitsch c. Canada, 2004 CCI 378, [2004] G.S.T.C. 70 (artiste), Arsenault c. Canada, 2006 CCI 42, 2008 DTC 2224 (productions cinématographiques), Cossette v. Canada, [2003] 1 C.T.C. 2359 (arts visuels), et Tramble v. Canada, [2001] 4 C.T.C. 2160 (peinture). Ce point est également reconnu par l’Agence du revenu du Canada (« ARC ») dans son Bulletin d’interprétation IT‑504 intitulé « Artistes visuels et écrivains ».
+[13] M. Spasic a produit son témoignage d’une manière honnête et crédible, et je ne doute pas de sa véracité. Je crois qu’il a réclamé ses déductions de bonne foi. Cependant, je dois appliquer les dispositions de la Loi telles qu’elles ont été formulées par le législateur et examinées par les tribunaux. Je n’ignore pas qu’il est de la nature des activités de recherche en technologie qu’elles puissent, après avoir débuté, rester dans une phase initiale de perte plus longtemps que d’autres activités. Eu égard à l’ensemble de la preuve, il m’est tout simplement impossible de conclure que M. Spasic avait, au cours des années en cause, commencé à exploiter une entreprise. C’est par l’approche organisée et méthodique avec laquelle l’activité est conduite que l’on pourra souvent le mieux reconnaître la nature commerciale ou non de cette activité. Je ne crois pas qu’un homme ou une femme d’affaires, un scientifique ou un ingénieur dirait que les activités de M. Spasic sont de nature commerciale. Il n’y a manifestement pas suffisamment d’indices en ce sens pour que je puisse conclure que les efforts, les dépenses et autres de M. Spasic en vue de faire avancer les activités de recherche‑développement auxquelles il tient ont déjà donné naissance à une entreprise au cours des années en question.
+III. Les actes de procédure de la Couronne
+[14] Au début du procès, l’avocate de la Couronne a fait valoir que la Cour devrait d’abord décider si M. Spasic exploitait ou non une entreprise et que, dans l’affirmative, la Cour pourrait alors examiner la question du quantum des dépenses engagées, puis répartir lesdites dépenses entre dépenses d’entreprise et dépenses personnelles. J’ai informé l’avocate de la Couronne que la réponse, rédigée par un « représentant » de l’ARC qui n’est pas un avocat auprès du ministère de la Justice, ne soulevait pas ces deux derniers points de telle sorte que la Cour n’était pas saisie validement des points en question. Les actes de procédure ont préséance, même s’il peut être évident, au vu du dossier de vérification et du dossier d’appel de l’ARC, que ces points étaient eux aussi en litige. De manière générale, les contribuables ont le droit de s’en tenir aux questions telles qu’elles sont formulées par le gouvernement dans sa réponse et de les considérer comme le document auquel ils doivent se disposer à réagir. Il est possible de modifier la réponse dans les circonstances qui le justifient, mais la règle générale existe pour l’avantage des contribuables, afin qu’ils sachent à quoi s’en tenir dans leurs préparatifs. La règle existe aussi pour l’avantage de la bonne administration de la Cour. Si j’avais conclu que M. Spasic exploitait effectivement une entreprise, la manière dont la réponse était rédigée par le représentant de l’ARC m’aurait conduit à admettre toutes les dépenses réclamées, sous réserve seulement de celles qui auraient dû être considérées comme des dépenses en capital plutôt que comme des dépenses de l’exercice, étant donné que cette question est la seule qui porte sur les dépenses et dont fasse état la réponse du gouvernement. Mon commentaire ne vise nullement à critiquer la qualité de la représentation des intérêts de la Couronne par l’avocate du ministère de la Justice. Il vise seulement à rappeler à l’ARC que les vérificateurs et les agents d’appel, si compétents et capables soient‑ils, ne sont pas des avocats et que les économies de coûts comportent elles‑mêmes un coût.
+[15] L’appel du contribuable est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2009.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 24e jour de 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2009 CCI 193
+N° DU DOSSIER DE LA COUR : 2008‑1848(IT)I
+INTITULÉ : JOVAN SPASIC c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 26 février 2009
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 7 avril 7 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Tanis Halpape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

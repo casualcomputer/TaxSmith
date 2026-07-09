@@ -1,0 +1,194 @@
+Title: Johnson c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30573/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-501-30573-johnson-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2011-11-01
+
+# Johnson c. M.R.N.
+
+- Citation: 2011 CCI 501
+- Decision date: 2011-11-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7314, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnson c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-01
+Référence neutre
+2011 CCI 501
+Numéro de dossier
+2010-2792(EI)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-2792(EI)
+ENTRE :
+KIMBERLY JOHNSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 mai et le 21 juillet 2011 à Ottawa (Ontario).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelante :
+Me Robert Doran
+Avocat de l’intimé :
+Me Jonathan Wittig
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté au titre du paragraphe 103(1) de la Loi sur l’assurance‑emploi est rejeté, et la décision du ministre du Revenu national est confirmée.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 501
+Date : 20111101
+Dossier : 2010-2792(EI)
+ENTRE :
+KIMBERLY JOHNSON,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel interjeté à l’encontre d’une décision du ministre du Revenu national (le « ministre ») aux termes de laquelle l’appelante et la société de son époux, Kimberly Transport Ltd. (la société « Transport »), étaient réputées avoir un lien de dépendance au sens de l’alinéa 5(3)b) de la Loi sur l’assurance‑emploi (la « LAE »).
+[2] Le ministre soutient que, compte tenu de toutes les circonstances de l’emploi de l’appelante, des parties n’ayant pas de lien de dépendance n’auraient pas conclu entre elles un contrat de travail semblable durant la période du 17 juillet 2008 au 17 juillet 2009.
+[3] L’appelante soutient en partie ce qui suit[1] :
+[traduction]
+1. Kimbely Johnson était employée par Kimberly Transport Ltd. (la « société ») de façon continue pour la période allant entre autres d’avril 2006 au 17 juillet 2009, sauf pour une période de congé de maternité d’avril 2006 à avril 2007.
+2. L’époux de l’appelante, Thomas Johnson, est propriétaire et exploitant de la société.
+Fonctions exercées
+3. Kimberly Johnson effectuait les tâches suivantes pour la société : les opérations bancaires, la vérification, la paie, la comptabilisation des factures, les comptes clients, le traitement des chèques, l’établissement de chèques, la correspondance avec le comptable et les avocats, la préparation de documents pour l’Agence du revenu du Canada et Work Safe BC, la préparation de lettres ainsi que l’accomplissement de tâches administratives.
+4. [...] 60 % de ses fonctions à domicile, 25 % de ses fonctions au bureau de la société et 15 % étaient consacrés au déplacement.
+5. Les feuilles de temps journalières [étaient tenues] sur une base régulière et dans le cours normal des activités de l’entreprise.
+[...]
+Antécédents professionnels
+7. 27 avril 2006 – Kimberly Johnson a donné naissance à son deuxième enfant.
+8. Avril 2007 – Kimberly Johnson est retournée au travail.
+9. Avril 2007 – 17 juillet 2009 – Kimberly Johnson travaillait pour la société.
+[...]
+11. Les documents de la société indiquent qu’entre 2005 et 2008, les revenus de la société ont plus que doublé (2005 – 1 801 799 $;
+2008 – 3 987 353 $). L’augmentation considérable des revenus de la société confirme le fait que Kimberly Johnson était tenue de travailler à temps plein pour la société. [...]
+12. […] À la fin de son congé de maternité en avril 2007, Kimberly Johnson a été formée afin d’effectuer le travail détaillé et la vérification. Il lui a fallu six mois pour apprendre et maîtriser le travail. En même temps, Kimberly Johnson accomplissait aussi le travail qu’elle avait effectué auparavant pour la société avant de partir en congé de maternité en avril 2006.
+13. [...] Kimberly Johnson pouvait effectuer son travail à domicile, et c’était plus pratique pour elle de travailler à domicile qu’au bureau, compte tenu du stress intense qu’elle aurait supporté si elle avait dû travailler au bureau de la société. Elle accomplissait tout de même une partie de son travail au bureau de la société.
+[...]
+17. [...] avant la naissance de son troisième enfant, Kimberly Johnson préparait des relevés d’emploi, des versements au receveur général, des versements à la commission des accidents du travail et d’autres documents du même genre. Le comptable remplissait les déclarations de TVP et de TPS.
+18. Kimberly Johnson a donné naissance à son troisième enfant en juillet 2009. Elle a demandé des prestations de maternité.
+[...]
+25. Kimberly Johnson tenait une comptabilité exacte de son temps de la même manière que tous les employés le faisaient pour la société. Les chauffeurs de la société effectuaient un relevé récapitulatif, le personnel au bureau utilisait une carte à perforer et une horloge de pointage.
+[4] Les hypothèses de fait suivantes sont tirées de la réponse du ministre à l’avis d’appel :
+[traduction]
+a) le payeur (transport) fournissait des services de grand routier et des services de transport connexes;
+b) l’appelante est mariée à Tom Johnson, l’unique actionnaire du payeur;
+c) l’appelante a commencé à travailler pour le payeur en 2005;
+d) l’appelante a laissé entendre que ses tâches incluaient ce qui suit : les opérations bancaires, la vérification et le traitement des factures, la comptabilisation des factures, le traitement des paiements, la vérification et le traitement de la paie, le règlement des questions des employés reliées à la paie, la correspondance avec le comptable, la correspondance avec le ministère des Transports, la commission des accidents du travail, l’ARC et d’autres relations d’affaires, la préparation de lettres, le classement, les appels téléphoniques, la vérification des carnets de route des chauffeurs, le nettoyage des locaux et l’accomplissement d’autres tâches administratives;
+e) l’appelante était rémunérée au taux de 17 $ l’heure durant la période;
+f) les heures d’ouverture du payeur étaient de 7 h à 17 h, du lundi au vendredi;
+g) l’appelante enregistrait ses heures manuellement alors que les employés de bureau non liés au payeur utilisaient l’horloge de pointage située au bureau du payeur;
+h) le registre des heures de travail de l’appelante montre que celle‑ci travaillait entre 3 et 9 heures par jour, et entre 29 et 41 heures par semaine;
+i) la majorité des tâches de l’appelante était effectuée au domicile familial;
+j) l’appelante n’était pas tenue de travailler un nombre d’heures déterminé dans une période donnée;
+k) le payeur n’établissait pas l’horaire de travail de l’appelante;
+l) l’appelante avait deux enfants en bas âge à la maison durant la période;
+m) le feuillet T4 produit par l’employeur pour le compte de l’appelante en ce qui concerne les années d’imposition 2008 et 2009 faisait état d’une exemption relativement à l’AE;
+n) l’appelante n’a pas travaillé le même nombre d’heures que celui figurant sur le relevé d’emploi;
+o) le payeur a mis en place un nouveau progiciel dans l’entreprise en novembre 2008, qui a permis de réduire considérablement les tâches administratives grâce à une simplification de la vérification, de la facturation, de la préparation des factures et des paiements;
+p) l’appelante n’a pas été remplacée lorsqu’elle est partie en congé de maternité pour son troisième enfant.
+[5] L’alinéa 5(2)i) de la LAE dispose que n’est pas assurable, « l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance. » Il est admis que l’appelante et la société Transport avaient entre elles un lien de dépendance parce que l’époux de l’appelante était l’unique actionnaire de la société. L’alinéa 5(3)b) de la LAE prévoit une exception.
+[6] L’appelante soutient qu’elle remplit les critères énoncés à l’alinéa 5(3)b) de la LAE, qui prévoit ce qui suit :
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Non souligné dans l’original.]
+[7] Le juge Bowie, de la Cour, a donné des précisions et un résumé utiles de la jurisprudence quelque peu sinueuse en ce qui concerne le rôle de la Cour dans un appel formé contre la détermination du ministre en vertu des paragraphes 5(2) et (3) de la LAE.
+[8] Voici en partie la teneur des observations du juge Bowie dans la décision Birkland c. Le ministre du Revenu national[2], au paragraphe 4 :
+Si je comprends bien ces arrêts[3], le rôle de la Cour canadienne de l’impôt consiste à mener un procès au cours duquel les deux parties peuvent produire des éléments de preuve concernant les modalités aux termes desquelles l’appelant était employé, les modalités aux termes desquelles des personnes sans lien de dépendance, effectuant le même travail que l’appelant, étaient employées par le même employeur et les conditions d’emploi prévalant dans l’industrie pour le même genre de travail, au même moment et au même endroit. [...] À la lumière de tous ces éléments de preuve et de l’opinion du juge sur la crédibilité des témoins, la Cour doit ensuite déterminer si le ministre aurait pu raisonnablement, en ayant connaissance de l’ensemble de cette preuve, ne pas conclure que l’employeur et une personne avec laquelle il n’avait pas de lien de dépendance auraient conclu entre eux un contrat de travail à peu près semblable.
+[9] Après avoir entendu tous les éléments de preuve des deux parties, la Cour doit déterminer si la conclusion du ministre était raisonnable.
+Analyse
+[10]Il ne fait aucun doute qu’il existait un contrat de travail verbal entre l’appelante et la société Transport. La question est de savoir si, à la lumière de tous les éléments de preuve présentés, je peux raisonnablement conclure que la société Transport et un travailleur auquel elle n’était pas liée auraient conclu entre eux un contrat semblable.
+[11]Je me pencherai sur les conditions de travail suivantes de l’appelante :
+a) sa rémunération;
+b) le travail qu’elle effectuait;
+c) les modalités de travail;
+d) la durée, la nature et l’importance du travail effectué.
+[12]L’intimé n’a pas sérieusement contesté la rémunération de 17 $ l’heure. Les fonctions de l’emploi de l’appelante exigeaient une grande confiance et beaucoup de maturité, et aucun élément de preuve n’a été présenté pour me permettre de conclure que 17 $ l’heure n’est pas un taux de rémunération équitable pour l’accomplissement de tâches administratives d’une nature délicate. Aucune observation n’a été faite quant aux traitements horaires reçus par des employés n’ayant pas de lien de dépendance avec la société pour un travail semblable effectué pour le même employeur.
+[13]L’appelante soutient que plusieurs éléments liés à la rémunération ont indûment influencé le ministre dans l’établissement de la cotisation. Premièrement, bien que, selon les feuillets T4 initiaux pour 2008 et 2009, les gains n’étaient pas assurables, il s’agissait simplement d’une erreur du comptable de la société, et l’appelante a présenté la preuve de feuillets T4 modifiés. L’intimé ne conteste pas le fait que les erreurs contenues dans les feuillets T4 ont été rectifiées et que les déductions appropriées ont été faites. L’intimé a ajouté que seule l’appelante enregistrait ses heures manuellement plutôt que d’utiliser l’horloge de pointage comme les employés n’ayant pas de lien de dépendance avec l’employeur. Cet argument n’est pas concluant.
+[14]Fait important, le ministre a conclu que l’appelante avait été rémunérée durant une période où elle n’avait pas travaillé, et qu’elle avait travaillé durant une période pour laquelle elle n’avait pas été rémunérée. L’appelante a admis qu’elle avait été rémunérée par erreur pour la semaine du 20 juillet 2009 alors que son congé de maternité avait commencé le 17 juillet 2009, mais elle soutient qu’il s’agissait d’une erreur commise par le service de la paie de la société, et que l’employeur avait correctement inscrit le dernier jour de travail de l’appelante sur son relevé d’emploi. Cela est peut être exact, mais, pour établir les relevés d’une personne afin qu’elle puisse bénéficier de l’exception prévue à l’alinéa 5(3)b) de la LAE, il faut agir minutieusement.
+[15]Durant son congé de maternité, l’appelante a communiqué avec l’Agence du revenu du Canada (l’ « ARC ») pour le compte de son employeur. Elle a expliqué qu’elle ne faisait que rendre service à son employeur, et a exhorté la Cour à tenir compte de la situation réelle des petites entreprises, dans lesquelles les mêmes normes que celles des grandes sociétés ne sont pas applicables, et où les employés sont de temps à autre disposés à rendre de tels services. Bien que le fait pour l’appelante de simplement accomplir une tâche pour le compte de son employeur sans être rémunérée ne suffit pas à démontrer que des parties n’ayant aucun lien de dépendance n’auraient pas accepté de conclure un contrat à peu près semblable, il s’agit d’un facteur important qui doit être considéré dans le contexte global de l’emploi.
+[16]Dans la décision Fruchter c. Le ministre du Revenu national[4], le juge Jorré a fait les observations suivantes, au paragraphe 20 :
+Il y a toutefois un aspect de la preuve qui ressort. À l’alinéa 9)g) de la réponse, il est indiqué que le ministre a supposé qu’il y avait des semaines pendant lesquelles l’appelante n’avait pas rendu de services au payeur, même si elle continuait d’être payée. Comme ce point n’a tout simplement pas été abordé dans le témoignage de l’appelante, je dois tenir pour acquis qu’il y a eu de telles semaines. Abstraction faite des congés de maladie ou des congés annuels, les employeurs ne payent généralement pas les employés qui ne travaillent pas. Cela va plus loin que les horaires de travail flexibles. Cet arrangement est complètement contraire à l’arrangement qu’il pourrait y avoir dans le cadre d’une relation sans lien de dépendance. Le ministre aurait donc raisonnablement pu tirer la conclusion à laquelle il est arrivé, même si toutes les autres modalités avaient été des modalités d’emploi sans lien de dépendance.
+[17]En l’espèce, contrairement à Fruchter, il n’y a pas plusieurs semaines pendant lesquelles l’appelante a été rémunérée sans avoir travaillé, mais il n’y a plutôt qu’une seule semaine où cela s’est produit, et l’appelante met cette situation sur le compte d’une erreur de bonne foi commise par le service de la paie de la société. Toutefois, il n’y a aucun élément de preuve selon lequel l’employeur a exigé le remboursement du paiement en trop, un fait qui semble manifestement particulier à un emploi dans le cadre duquel les parties ont un lien de dépendance. Le volume de travail que l’appelante a effectué sans rémunération est plutôt négligeable. Dans la décision Samson c. Le ministre du Revenu national[5], l’appelante avait effectué un total de 135 dépôts bancaires et avait émis et signé un total de 623 chèques bien qu’elle n’ait pas figuré sur la feuille de paie du payeur et, à cause de l’importance et de la nature du travail accompli, le juge Little a conclu que le ministre avait eu raison de décider que l’appelante n’exerçait pas un emploi assurable. En l’espèce, le travail effectué par Kimberly Johnson après la cessation de son emploi est sans commune mesure avec les activités accomplies par l’appelante dans Samson.
+[18]Bien que le travail effectué par l’appelante ait peut‑être été minime et que la rémunération qu’elle a reçue sans avoir travaillé ait peut‑être été une erreur, on ne peut pas faire fi de ce travail. La décision du ministre a été fortement influencée par l’horaire de travail flexible de l’appelante et la possibilité qu’elle avait de travailler à domicile, des conditions qui ne correspondaient pas aux heures normales d’ouverture de la société et au lieu habituel d’exécution du travail.
+[19]L’appelante soutient que tous les employés de la société pouvaient travailler selon un tel horaire et que les dispositions dont il est question traduisent une tendance générale en milieu de travail, tendance qui consiste à accorder une flexibilité aux employés afin qu’ils puissent s’acquitter de leurs obligations familiales. J’admets la réponse de l’intimé selon laquelle aucun élément de preuve n’a été fourni relativement à d’autres employés de la société qui bénéficiaient réellement d’un tel arrangement à l’égard de leur horaire de travail. L’appelante et son époux ont présenté les éléments de preuve qui répondent à leurs besoins actuels, et leur témoignage ne mérite pas qu’on lui accorde le poids d’une preuve présentée par un témoin non lié.
+[20]En l’absence d’une preuve convaincante, je n’admets pas l’argument selon lequel d’autres employés pouvaient aussi travailler de temps en temps à l’extérieur du bureau, et je ne retiens pas non plus l’exemple des chauffeurs de camion de la société qui, l’on suppose, accomplissaient des tâches complètement différentes de celles de l’appelante et qui devaient normalement exécuter ces tâches à l’extérieur du bureau. Je conclus que le lieu et l’horaire de travail de l’appelante ont été établis en fonction des besoins de l’appelante en ce qui a trait à la garde d’enfants. Il n’existe aucun élément de preuve convaincant selon lequel d’autres employés avaient pris des dispositions semblables.
+[21]J’admets que Kimberly Johnson était une employée responsable et motivée, et que Transport avait concilié l’horaire de travail et les besoins familiaux de l’appelante pour la garder dans la société. Je n’accorde qu’un poids négligeable à l’argument du ministre selon lequel la charge de travail de l’appelante aurait dû diminuer par suite de l’introduction d’un nouveau logiciel de réservation. Un logiciel informatique est rarement d’une efficacité immédiate.
+[22]Le fait qu’aucun remplaçant n’a été engagé lorsque l’appelante est partie en congé de maternité est une preuve convaincante, quoique non concluante. Dans la décision Lash c. Le ministre du Revenu national[6], aucune personne n’avait été engagée en remplacement de l’employée en question, mais la Cour n’a pas considéré ce facteur comme étant concluant quant au fait que l’employée bénéficiait de conditions plus favorables que celles qui existeraient dans une relation où les parties n’auraient pas de lien de dépendance.
+[23]L’appelante a accordé beaucoup d’importance à son argument selon lequel la Cour était saisie de nouveaux éléments de preuve à l’audience, à savoir les états financiers de la société faisant état d’une forte augmentation des revenus de 2006 à 2009. Elle soutient que ces états financiers démontrent l’importance de son travail et justifient le volume d’heures qu’elle avait enregistré. Le ministre avait déjà eu accès à ces renseignements sous une autre forme lorsqu’il a établi sa détermination.
+[24]Pour apprécier l’incidence que l’augmentation du revenu de la société a eue sur les fonctions de l’emploi de l’appelante, il est utile d’examiner la décision Eagle Canyon Adventures Inc. c. Le ministre du Revenu national[7]. Dans cette affaire, la Cour a accueilli l’appel de l’appelante, faisant observer que l’employeur avait besoin d’une personne possédant les mêmes compétences que [l’employée] en matière de tenue de livres parce que les recettes de cette société avaient augmenté de plus de 150 %[8]. Dans cette affaire, l’appelante avait mis sur pied un système informatique visant à fournir de l’aide dans l’accomplissement des tâches liées à la tenue de livres. Contrairement à l’espèce, toutefois, dans Eagle, le système informatique expliquait pourquoi l’appelante pouvait commencer sa saison de travail plus tard que d’habitude dans les années subséquentes[9]. En l’espèce, les heures de l’appelante n’ont pas diminué avec la mise sur pied du nouveau logiciel. Au contraire, l’appelante soutient que le nouveau logiciel n’a pas eu d’incidence sur le nombre d’heures qu’elle travaillait.
+[25]Compte tenu de tous les facteurs énoncés ci‑dessus, le rôle de la Cour est à présent de décider si la décision du ministre était raisonnable. L’appelante exhorte la Cour à tenir compte de la décision Huang c. Le ministre du Revenu national[10], dans laquelle le juge Rowe a renvoyé aux observations qu’il avait faites dans une décision antérieure, à savoir Docherty c. Le ministre du Revenu national[11], quant à la norme qui devrait être appliquée pour savoir si le contrat de travail est à peu près semblable à celui qui aurait peut‑être été conclu par des parties n’ayant entre elles aucun lien de dépendance. Dans Docherty , le juge Rowe avait fait les observations suivantes :
+[25] Le modèle à utiliser pour établir une comparaison avec les relations de travail entre parties sans lien de dépendance ne nécessite pas une concordance parfaite. Cette affirmation se trouve confirmée par le libellé de la loi, qui utilise les termes un « contrat de travail à peu près semblable ». Chaque fois que les parties sont liées entre elles au sens de la disposition législative pertinente, la relation de travail comportera nécessairement des particularités, surtout si le conjoint est le seul employé ou s’il fait partie d’un effectif restreint. Cependant, le but n’est pas d’empêcher les personnes qui satisfont aux critères établis de participer au régime national d’assurance-emploi. Les en exclure sans raison valable est une mesure inéquitable, qui va à l’encontre de l’esprit de la loi.
+[26]Nous ne sommes pas en présence d’un cas où les particularités d’une petite entreprise ou d’une situation où des parties liées travaillent ensemble expliquent les aspects du contrat de travail qui indiquent l’existence d’un lien de dépendance, à savoir : la méthode de pointage des présences, l’horaire flexible, la possibilité de travailler à distance, le travail effectué sans rémunération, la rémunération accordée sans travail accompli et l’absence de remplaçant. La combinaison de ces facteurs a fourni au ministre des raisons suffisantes pour conclure que les parties n’exerçaient pas leurs activités sans lien de dépendance. Alors qu’aucun des indicateurs susmentionnés n’est concluant en soi, pris collectivement, ces indicateurs militent en faveur d’un emploi dans lequel les parties ont un lien de dépendance. Dans l’examen de la décision du ministre, la Cour n’a pas pour rôle de substituer son opinion à la décision du ministre. La Cour doit plutôt simplement décider si la conclusion du ministre était raisonnable, et, en l’espèce, elle l’était. Les facteurs qui soutiennent cette décision sont notamment les suivants :
+a) Dans l’ensemble, les hypothèses de fait du ministre sont exactes;
+b) Lorsque l’appelante a pris son congé de maternité, elle n’a pas été remplacée;
+c) L’appelante travaillait à son domicile et s’occupait de ses enfants en même temps qu’elle assumait ses responsabilités professionnelles;
+d) L’horaire de travail de l’appelante était flexible et son nombre d’heures de travail était fixé de manière discrétionnaire;
+e) Bien que cela fût peut-être une erreur, l’appelante avait effectué du travail pour la société Transport sans être rémunérée et elle avait été rémunérée sans avoir travaillé.
+[27]Enfin, l’appelante ne devrait pas croire à tort que le rejet de son appel, en l’espèce, est une remise en question du caractère réel de son emploi ou de la valeur des tâches qu’elle a accomplies pour la société. À cet égard, le juge Bowie a fait les observations suivantes dans la décision Glacier Raft Co. c. Le ministre du Revenu national[12] :
+9 Je dois expliquer clairement que, bien que je doive rejeter les appels, vos témoignages m’ont impressionné […]. Je ne doute absolument pas que Anne et Elizabeth travaillaient tout autant, sinon plus, que les autres guides. Il ne fait également aucun doute que M. Murphy comptait beaucoup sur leur expérience, non seulement lorsqu’il a acquis l’entreprise en 1995, mais plus tard également. Il ne s’agit certainement pas d’une situation ou l’on crée des emplois pour des raisons de commodité, afin d’avantager des membres de la famille qui pourraient ainsi profiter du système d’assurance-emploi sans y être admissibles. Néanmoins, la Loi est raisonnablement claire et, lorsque des parties ayant un lien de dépendance entre elles concluent des contrats de travail, elles doivent veiller scrupuleusement à ce que les modalités ne diffèrent pas de celles utilisées par l’employeur lorsqu’il embauche d’autres travailleurs ou de celles qui inciteraient les travailleurs à trouver du travail ailleurs s’ils désirent que leur emploi soit assurable en vertu de la Loi.
+[28]En l’espèce, l’ensemble de la preuve a amené le ministre à conclure que des parties n’ayant pas de lien de dépendance n’auraient pas conclu entre elles un contrat de travail à peu près semblable. La conclusion du ministre était raisonnable et doit être maintenue.
+Signé à Ottawa, Canada, ce 1er jour de novembre 2011.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 14e jour de décembre 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 501
+NO DU DOSSIER DE LA COUR : 2010-2792(EI)
+INTITULÉ : KIMBERLY JOHNSON
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATES DES AUDIENCES : Le 20 mai et le 21 juillet 2011
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 1er novembre 2011
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Robert Doran
+Avocate de l’intimé :
+Me Jonathan Wittig
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Robert Doran
+Cabinet : Surrey (Colombie‑Britannique)
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Tiré de l’avis d’appel.
+[2] 2005 CCI 291.
+[3] Légaré c. Canada (ministre du Revenu national), [1999] A.C.I. no 878 et
+Pérusse c. Canada (ministre du Revenu national), [2000] A.C.I. no 310.
+[4] 2008 CCI 46.
+[5] 2005 CCI 383.
+[6] 2004 CCI 291.
+[7] 2008 CCI 563.
+[8] Ibid., au paragraphe 35.
+[9] Ibid., aux paragraphes 25, 26 et 34.
+[10] 2009 CCI 35.
+[11] [2000] A.C.I. no 690.
+[12] 2003 CCI 559.

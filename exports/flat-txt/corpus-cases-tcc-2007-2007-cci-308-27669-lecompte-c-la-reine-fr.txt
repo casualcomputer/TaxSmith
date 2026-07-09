@@ -1,0 +1,118 @@
+Title: Lecompte c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27669/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-308-27669-lecompte-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-05-29
+
+# Lecompte c. La Reine
+
+- Citation: 2007 CCI 308
+- Decision date: 2007-05-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 490, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lecompte c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-29
+Référence neutre
+2007 CCI 308
+Numéro de dossier
+2006-1212(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1212(IT)I
+ENTRE :
+CHRISTIANE LECOMPTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 20 mars 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelante :
+Paul Decelles (ex-conjoint de fait)
+Avocate de l'intimée :
+Me Susan Shaughnessy
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu en date du 20 février 2004, relativement à l’année d’imposition 2000, est rejeté selon les motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 29e jour de mai 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI308
+Date : 20070529
+Dossier : 2006-1212(IT)I
+ENTRE :
+CHRISTIANE LECOMPTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel par voie de procédure informelle d’un avis de nouvelle cotisation daté du 20 février 2004, par lequel le ministre du Revenu national (le « Ministre ») a annulé, pour l’année d’imposition 2000, une perte en capital de 14 229 $ et a ajouté un gain en capital de 21 000 $ aux revenus de l’appelante, relativement à la disposition d’un immeuble situé au coin de la rue St-Charles Est et de la rue d’Auvergne à Longueuil.
+[2] Le 19 novembre 1997, l’appelante, qui est notaire, a acquis de Paul Decelles, comptable agréé, et de Hugues Viger, comptable, au coût de 120 000 $, un immeuble locatif comprenant deux logements portant les numéros domiciliaires 555, rue St-Charles Est et 58, rue d’Auvergne en la ville de Longueuil. Au moment de la transaction, monsieur Decelles était le conjoint de fait de l’appelante et le couple occupait déjà le logement du haut de l’immeuble, soit le 58 d’Auvergne. Ils y ont demeuré jusqu’au mois d’août 1998 pour surveiller les travaux de rénovation apportés à l’immeuble.
+[3] Le 26 mai 2000, l’appelante a disposé de cet immeuble pour une contrepartie de 141 000 $.
+[4] Lors de la production de sa déclaration de revenus pour l’année d’imposition 2000, l’appelante a déclaré un prix de base rajusté de 155 229 $ relativement à cet immeuble mais n’a pas justifié malgré les nombreuses demandes de l’Agence des douanes et du revenu du Canada (l’« ADRC »), la différence entre le coût d’acquisition de l’immeuble et le montant de 155 229 $ déclaré comme prix de base rajusté.
+[5] L’appelante allègue que la différence de 35 229 $ entre le prix de base rajusté de l’immeuble et le coût d’acquisition est attribuable au coût des travaux d’amélioration qui ont été exécutés sur l’immeuble entre le 19 novembre 1997 (date de l’achat) et le 26 mai 2000 (date de la vente).
+[6] À l’annexe A de l’avis d’appel daté du 12 avril 2006, l’appelante a indiqué que les travaux à l’immeuble ont été effectués suite aux interventions personnelles de monsieur Paul Decelles, qui seul, dirigeait l’accomplissement de l’ensemble des procédures inhérentes à l’exécution de ces mêmes travaux.
+[7] La preuve a révélé que le coût des travaux a été entièrement payé comptant. L’appelante faisait des avances à monsieur Decelles pour lui permettre de payer le coût des matériaux et des services rendus par les entrepreneurs et les ouvriers embauchés. Le montant des avances n’a pas été établi et aucune preuve documentaire à cet effet n’a été produite. Lors de l’audition, monsieur Decelles a confirmé que suite à des problèmes financiers antérieurs importants, il ne pouvait détenir de comptes bancaires, ni de cartes de crédit.
+[8] À l’annexe A de l’avis d’appel, l’appelante a fourni des informations expliquant comment les documents attribuables aux travaux ont été perdus et sont demeurés introuvables. Les documents relatifs aux travaux dont monsieur Decelles avait la garde étaient conservés dans des boîtes localisées au 450 – 460, rue St-Charles Ouest, à Longueuil, un bâtiment commercial dont monsieur Decelles était alors propriétaire. Suite à de graves problèmes financiers, monsieur Decelles a perdu son droit de propriété sur cet immeuble au bénéfice d’un créancier hypothécaire de premier rang, soit la Banque Nationale du Canada (la « BNC »). Suite à la prise de possession de l’immeuble par la BNC, monsieur Decelles a été privé de son droit d’accès à son bureau personnel situé dans cet immeuble et n’a jamais pu recouvrer les boîtes de documents relatifs aux travaux effectués sur l’immeuble appartenant à Me Lecompte.
+[9] À défaut de pouvoir produire des factures établissant la description des travaux exécutés, la date et le lieu d’exécution, les fournisseurs de matériaux ou de services, et le coût desdits travaux, l’appelante a produit les documents suivants :
+· une liste de quelques personnes ayant procédé à l’exécution des travaux d’amélioration (Annexe B de l’avis d’appel);
+· une énumération des travaux exécutés à l’extérieur du bâtiment (Annexe C de l’avis d’appel);
+· une énumération des travaux exécutés à l’intérieur du bâtiment (Annexe D de l’avis d’appel);
+· une estimation du coût des travaux décrits aux deux énumérations qui précèdent (document déposé sous la cote A‑1);
+· un rapport d’évaluation de la firme d’évaluateurs agréés, Bureau d’évaluation Carmon Inc., daté du 7 avril 1999, établissant la valeur marchande de la propriété au 31 mars 1999 à une somme d’environ 145 000 $ (document produit sous la cote A‑2);
+· des extraits du rôle triennal de la ville de Longueuil établissant la valeur de la propriété à 140 700 $ au 1er janvier 1998 (documents produits sous la cote A‑5);
+· certaines factures de CB Rénovation pour des travaux exécutés à l’immeuble en 1998, 1999 et 2000 montrant que les travaux ont été payés comptant (documents produits en liasse sous la cote A‑3);
+· des photographies de l’immeuble avant et après l’exécution des travaux (documents produits en liasse sous la cote A‑4).
+[10] L’appelante a également acquis en 1998 un immeuble semi-commercial sis au 144 et 150, rue St-Jean dans le vieux Laprairie. L’appelante a emménagé au 150, rue St-Jean en août 1998. Le local situé au 144, rue St‑Jean était, au moment de l’acquisition, loué et une crêperie française y était opérée. Des travaux importants aux fenêtres, au toit et à la maçonnerie ont été effectués à cet immeuble et l’appelante a bénéficié d’un programme de subvention de la ville de Laprairie. Monsieur Decelles s’est également occupé la réalisation de ces travaux en plus de certains travaux mineurs à l’intérieur de l’immeuble. Les travaux à cet immeuble ont été complétés en 2000.
+[11] Avant de résider au 150, rue St‑Jean à Laprairie, l’appelante avait comme résidence principale une propriété sise sur la rue Asselin qu’elle avait acquise en 1992 et vendue en 1998. Le logement du 58, rue d’Auvergne qu’elle a occupé jusqu’au mois d’août 1998 n’était pas sa résidence principale.
+[12] L’appelante attribue à ses maladies, soit plusieurs infarctus et accidents tromboliques, le fait qu’elle n’ait pas donné suite aux quatre lettres de demande d’information de l’ADRC concernant la disposition de l’immeuble sis au coin des rues St-Charles Est et d’Auvergne et le fait qu’elle n’ait toujours pas produit ses déclarations de revenus pour les années d’imposition 2001 à 2006. La déclaration de revenu de l’appelante pour l’année d’imposition 2000 a été produite le 17 février 2003 et les déclarations de revenus de l’appelante pour les années d’imposition 1996 à 1999 ont été produites en 2001.
+Analyse et conclusion
+[13] Je ne doute pas que des travaux de rénovation importants ont été effectués sur la propriété de l’appelante et qu’il en est résulté une augmentation de la valeur de la propriété.
+[14] Le problème ici tient au fait qu’aucune pièce justificative servant à établir le prix de base rajusté de la propriété au dessus du coût d’acquisition n’a été produite par l’appelante. Aucune information précise quant aux coûts et à la date d’exécution des travaux n’a pu être produite par l’appelante. Aucune répartition des coûts entre les dépenses courantes pour des réparations et de l’entretien et les dépenses en capital n’a été effectuée. De plus, certains coûts peuvent être considérés comme des dépenses personnelles vu que l’appelante a occupé l’appartement du haut jusqu’en août 1998.
+[15] Comme la cotisation d’impôt émise par le Ministre est réputée être valide et exécutoire en vertu du paragraphe 152(8) de la Loi de l’impôt sur le revenu (la « Loi »), il appartient au contribuable de démontrer que la cotisation contestée n’aurait pas dû être établie de la façon qu’elle l’a été.
+[16] De plus, comme notre système fiscal est basé sur l’autocotisation, les contribuables doivent être en mesure de produire toutes les informations et justifications permettant d’appuyer les réclamations qu’ils font.
+[17] La décision rendue par la Cour d’appel fédérale dans l’affaire Gary M. Bullas c. La Reine, 2002 DTC 7043, (2002) 3 CTC 467 explique bien le rôle du juge de la Cour canadienne de l’impôt dans un cas comme celui de l’appelante :
+. . . Comme le juge l'a indiqué lorsqu'il a rejeté l'appel de M. Bullas, les contribuables sont légalement tenus de conserver des pièces justifiant les déductions qu'ils réclament et ils se placent dans une situation très difficile lorsqu'ils ne respectent pas cette obligation. Néanmoins, la Cour de l'impôt peut accepter d'autres éléments que des preuves documentaires. Néanmoins, c'est au juge de la Cour de l'impôt, en qualité de juge des faits, d'examiner l'ensemble des éléments de preuve présentés et d'en apprécier la force probante en vue de déterminer si le contribuable a démontré que le ministre avait commis une erreur lorsqu'il a refusé les déductions demandées.
+[18] Dans le cas présent, je suis d’avis que le Ministre n’a pas commis d’erreur en refusant d’accorder la perte en capital de 14 229 $ et en ajoutant un gain en capital de 21 000 $ aux revenus de l’appelante pour son année d’imposition 2000.
+[19] L’absence de pièces justificatives quant à la nature des travaux exécutés, quant aux coûts de ces travaux, quant aux dates d’exécution, quant aux fournisseurs de services et de matériaux et quant aux paiements des coûts, ne peut pas être supplée par d’autres éléments de preuve, tels que des évaluations et des photographies.
+[20] L’appelante doit subir les conséquences de ne pas avoir été en mesure de produire les pièces justificatives nécessaires pour déterminer le prix de base rajusté de sa propriété. En adoptant un système de paiement au comptant pour défrayer le coût des travaux, l’appelante n’a pas posé de gestes illégaux ou contraires à la Loi mais elle s’est placée dans une situation de faiblesse face aux autorités fiscales en renonçant à un élément de preuve important.
+[21] La Cour se serait attendue de la part d’un contribuable qui pratique le notariat à un plus haut standard de respect des exigences de la Loi. Le fait de ne pas produire ses déclarations de revenus dans les délais impartis par la Loi démontre bien l’insouciance de l’appelante face à ses obligations fiscales.
+[22] Pour toutes ces raisons, l’appel de la cotisation établie en vertu de la Loi en date du 20 février 2004, relativement à l’année d’imposition 2000, est rejeté.
+Signé à Ottawa, Canada, ce 29e jour de mai 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI308
+Nº DU DOSSIER DE LA COUR : 2006-1212(IT)I
+INTITULÉ DE LA CAUSE : Christiane Lecompte et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 20 mars 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 29 mai 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Paul Decelles (ex-conjoint de fait)
+Avocate de l'intimée :
+Me Susan Shaughnessy
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

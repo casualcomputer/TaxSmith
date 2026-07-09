@@ -1,0 +1,386 @@
+Title: Terry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28907/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-559-28907-terry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-10-02
+
+# Terry v. The Queen
+
+- Citation: 2008 TCC 559
+- Decision date: 2008-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1415, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Terry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-02
+Neutral citation
+2008 TCC 559
+File numbers
+2008-1672(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1672(IT)I
+BETWEEN:
+DENNIS TERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 24, 2008,
+at St. John's, Newfoundland and Labrador
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Jerome Terry
+Counsel for the Respondent:
+Toks Omisade
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2005 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the total amount of additional taxable income of the Appellant for 2005 should be reduced from $22,166 to $14,322.
+Signed at Halifax, Nova Scotia, this 2nd day of October 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC559
+Date: 20081002
+Docket: 2008-1672(IT)I
+BETWEEN:
+DENNIS TERRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the Appellant had additional unreported income from his automotive repair business in 2005. The Appellant carried on this business as a sole proprietor. The Appellant was reassessed to increase his income for 2005 by $22,166, which was calculated as follows:
+As reported by the Appellant
+As determined by the Auditor for the Canada Revenue Agency
+Adjustment
+Gross Income:
+$217,468
+$243,946
+$26,478
+Purchases:
+$108,102
+$116,627
+($8,525)
+$17,953
+Vehicle Expenses:
+$11,235
+$7,021
+$4,213
+Total Change to taxable income:
+$22,166
+[2] The adjustment made to the gross income of the Appellant is based on an analysis of the bank account statements that were provided to the auditor for the Canada Revenue Agency (“CRA”). The auditor reviewed the bank account statements to determine whether the deposits to the account could be reconciled with the revenue as reported. Since the auditor determined that the total amount of the deposits to the bank account exceeded the amount reported as revenue (after adjusting for HST and other amounts), an amount was added to the income of the Appellant. This amount was determined as follows:
+Month
+Deposits as per the Bank Statements (1)
+Non-revenue Deposits (2)
+Total Revenue Deposits (1) – (2)
+January
+$17,852.90
+$2,402.98
+$15,449.92
+February
+$20,372.74
+$393.76
+$19,978.98
+March
+$20,965.74
+0
+$20,965.74
+April
+$28,925.37
+$485.34
+$28,440.03
+May
+$31,030.13
+$43.77
+$30,986.36
+June
+$29,117.82
+$78.94
+$29,038.88
+July
+$27,300.97
+$22.37
+$27,278.60
+August
+$25,071.65
+$2,011.50
+$23,060.15
+September
+$25,395.26
+$596.13
+$24,799.13
+October
+$21,658.71
+$243.92
+$21,414.79
+November
+$23,926.63
+$230.00
+$23,696.63
+December
+$15,578.21
+$149.50
+$15,428.71
+Total Revenue and HST deposited:
+$280,537.92
+Minus HST included in the above (15/115):
+($36,591.90)
+Gross revenue:
+$243,946.02
+Amount reported by the Appellant as gross revenue:
+$217,468.00
+Adjustment – additional revenue:
+$26,478.02
+[3] As noted above, an adjustment was also made to the amount claimed for vehicle expenses. The auditor determined that the percentage of business use of the Appellant’s two vehicles was 62.5% and not 100% as claimed by the Appellant. The Appellant did not testify during the hearing. He was present during the hearing, but the only witness who testified for the Appellant was the Appellant’s father. His father did not dispute the personal and business use percentages of the vehicle as proposed by the Respondent and therefore no adjustment will be made to the vehicle expenses as proposed by the Respondent.
+[4] The evidence of the Appellant in this case related to the unreported revenue.
+[5] During the hearing, the auditor for the CRA acknowledged that an incorrect amount was used for the deposits for March 2005. The amount that the auditor had used for the deposits for the month of March 2005 was $20,965.74. However the actual amount of deposits made to the bank account in March 2005 was $20,695.74. The six and the nine were transposed. As a result, the amount of the deposits that should be used to determine the unreported revenue should be reduced by $270.
+[6] There are several arguments made by the Appellant in relation to this matter. The Appellant had submitted that:
+- Amounts were included as additional deposits that were reimbursements for parts sold to family members.
+- Deposits were made to the bank account to reimburse the Appellant for Combined Insurance premiums that were paid by the Appellant.
+- The account was not only used for the business but also personally by the Appellant’s parents, Jerome and Loretta Terry.
+- The Appellant's father had prepared his own analysis of the bank deposits and determined the amount that he identified as non-revenue deposits.
+- The Appellant had requested that the CRA allocate the discrepancy in income equally among Jerome Terry, Loretta Terry and the Appellant and T1 adjustment requests were submitted in relation to this.
+Reimbursement for Parts
+[7] The Appellant’s father stated that they would be approached by family members to purchase parts that these family members needed for their vehicles. In those situations, the part would be purchased by the Appellant and the family member would simply reimburse the Appellant for the cost of the part plus HST. Neither the amount received for the part nor the cost of the part itself was used by the Appellant in determining his income. Two adjustments were made in relation to this by the auditor for CRA - one was an increase in the gross revenue related to the deposits received from the family members and the second was an additional amount that was allowed as an expense for the parts that were purchased. The net result of these two would not affect the net income of the Appellant.
+[8] For example, assume that a family member wanted a part that cost $100 plus $15 HST or $115 in total. The amount that the Appellant would receive from the family member would be $115. Neither the $100, (the amount received for the purchase of the part not including HST) would be included by the Appellant in revenue nor would the purchase price of the part, $100 (not including the HST) be included by the Appellant as an expense. It would appear that the Appellant did not maintain any inventory, and therefore the cost of the parts acquired would be an expense as the opening and closing balances for inventory would be nil or an insignificant amount.
+[9] By increasing the Appellant's revenue by $100 to reflect the amount of the deposit to the bank account for the amount received from the family member, but also increasing the expenses by $100, the Appellant’s net income is not changed since the increase in revenue is offset by the corresponding increase in expenses. Therefore whether the amount received from a family member is included as revenue with a corresponding increase in expenses for the amount of the part or it is treated as an agency relationship whereby the Appellant was acting as the agent for the family member in acquiring the part, it will not have any impact on the net income of the Appellant.
+[10] The Appellant’s father stated that he amounts involved in relation to this issue are reflected in the additional amount allowed for parts, $8,525. Therefore, even though the revenues were increased by $8,525 to reflect the amounts received from family members for parts purchased for them, since the purchases were also increased by $8,525 there was no change to the net income of the Appellant arising from these two adjustments and therefore no adjustment will be made to the change in the taxable income of the Appellant as reflected in the reassessment of the Appellant.
+Combined Insurance Premiums
+[11] The Appellant’s father stated that there was a Combined Insurance plan that was in place for the employees. The premiums for this were paid from the account and the employees would reimburse the Appellant for the Combined Insurance premiums. The Appellant’s father had prepared a schedule that indicated that the amount of the Combined Insurance premiums that had been collected from the employees was $3,152.64. This appears to be calculated based on the assumption that the same amount of premiums were charged for each month. There were two separate amounts identified in the bank statements as Combined Insurance – one that was withdrawn around the 7th of each month and the other around the 27th of each month. The amount determined by the Appellant’s father is equal to 12 times $208.65 plus 12 times $54.07. However the actual total amount of the Combined Insurance premiums deducted from the account was as follows:
+Date
+Amount of the Premium
+Date
+Amount of the Premium
+January 10
+$51.50
+January 27
+$206.07
+February 7
+$51.50
+February 25
+$208.65
+March 7
+$54.07
+March 28
+$208.65
+April 7
+$54.07
+April 27
+$208.65
+May 9
+$54.07
+May 27
+$208.65
+June 7
+$54.07
+June 27
+$208.65
+July 7
+$54.07
+July 27
+$208.65
+August 8
+$54.07
+August 26
+$208.65
+September 7
+$54.07
+September 27
+$208.65
+October 11
+$54.07
+October 28
+$160.15
+November 7
+$54.07
+November 25
+$160.15
+December 7
+$54.07
+December 23
+$160.15
+Total:
+$643.70
+$2,355.72
+Total amount of the Combined Insurance Premiums:
+$2,999.42
+[12] I accept the evidence of the Appellant’s father that the Appellant was reimbursed for these Combined Insurance premiums (and therefore the deposits would have included the amounts received as reimbursements of these amounts). However the amount that should be used to reduce the amount of the deposits used to determine the gross revenue should be $2,999.42 and not $3,152.64.
+Personal Use of the Account
+[13] The bank account in question was opened before 2005 and was an existing account that the Appellant started using when he took over the business on January 1, 2005. The account is identified as a “business account” on the bank statements and the name on the account is “Autocare”.
+[14] The Appellant’s father stated, however, that he and his wife would use this account for personal reasons. They were in financial difficulty and unable to obtain credit cards. They would withdraw sums of money that they would need to cover expenses when they were traveling and then re-deposit the money that was not needed back into the account when they returned. Jerome Terry’s mother was living in Springdale and she was not well. Jerome Terry and Loretta Terry would travel to visit her. The Appellant stated that approximately $5,000 to $6,000 would be amounts that were re-deposited into the bank account in 2005 in relation to this.
+[15] There are deposits to the bank account of amounts that are multiples of $20 and therefore could be re-deposited cash and not revenue. The Appellant’s business was automotive repair and therefore his labour and the parts that he sold would be subject to HST which would make it very unlikely that a charge for labour and parts would result in a number that is a simple multiple of $20. It is more likely than not that the charges for labour, parts and HST of 15% would result in a number that is not a round number and not a number that is a multiple of an integer and $20. Therefore the deposits of $240 on January 13, $220 on January 20, $200 on February 8 etc. would support the Appellant’s position that cash was being re-deposited into the bank account by Jerome and Loretta Terry.
+[16] I accept the testimony of the Appellant’s father and I will allow an adjustment of $5,500 (to reflect amounts re-deposited into the bank account by Jerome and Loretta Terry) in determining the amount of the deposits that should be considered as revenue before the HST is deducted.
+Non-Revenue Deposits
+[17] The Appellant's father had prepared a schedule in which he compared the bank deposits as determined by the auditor with the bank deposits as he determined from the bank statements. The bank deposits as used by the auditor were taken from the monthly bank statements and were simply the monthly total of all deposits made to the account. The auditor, as noted in the table above, deducted from the amount of the deposits, certain amounts identified as “non-revenue deposits”. Not all of the amounts deducted as “non-revenue deposits” were identified by the auditor. The auditor indicated that included in the non-revenue deposits were the following amounts:
+- a $1,000 deposit made in January as a loan and $1,402.48 deposited in January that represented sales from a prior year (which would total the non‑revenue deposits identified for January if the sales amount was $0.50 more or $1,402.98 instead of $1,402.48. This appears to be a typographical error in the note to the table in the auditor’s memorandum and I assume that the amount that should be stated in the note for the sales from the prior year should be $1,402.98)
+- Two deposits of $1,000 each made in August that were from the line of credit
+[18] The auditor stated that the other amounts were determined based on a review of the bank statements and discussions with the Appellant’s father. In particular he would include in non-revenue deposits any amounts that were deposited as a result of a point of sale refund, which would be a refund for a part that was returned to a supplier.
+[19] The Appellant’s father contended that there were amounts that were shown in the bank statements as deposits/credits that were not deposits and in particular that the point of sale refund amounts should not have been included as deposits.
+[20] The following table shows the bank deposits as used by the auditor (before any deduction for non-revenue deposits as determined by the auditor), the bank deposits as determined by the Appellant's father, the difference between these two amounts, the amount deducted by the auditor as non-revenue deposits (excluding the amounts identified as loans and the sales for the prior year) and the amounts of the point of sale refunds as determined from the bank account statements:
+Month
+Bank Deposits (auditor)
+Bank Deposits (Appellant)
+Difference
+Non-revenue Deposits (excluding loans and prior years sales) (auditor)
+Point of Sale Refunds (from the bank statements)
+Jan.
+$17,852.90
+$17,746.37
+$106.53
+$0.00
+$106.93
+Feb.
+$20,372.74
+$20,148.31
+$224.43
+$393.76
+$224.43
+Mar.
+$20,965.74
+$20,695.74
+$270.00
+$0.00
+$0.00
+Apr.
+$28,925.37
+$28,440.03
+$485.34
+$485.34
+$485.34
+May
+$31,030.13
+$30,986.36
+$43.77
+$43.77
+$43.77
+June
+$29,117.82
+$28,895.10
+$222.72
+$78.94
+$222.69
+July
+$27,300.97
+$27,278.60
+$22.37
+$22.37
+$22.37
+Aug.
+$25,071.65
+$25,060.15
+$11.50
+$11.50
+$11.50
+Sept.
+$25,395.26
+$24,899.13
+$496.13
+$596.13
+$496.13
+Oct.
+$21,658.71
+$21,414.79
+$243.92
+$243.92
+$243.92
+Nov.
+$23,926.63
+$23,696.56
+$230.07
+$230.00
+$230.00
+Dec.
+$15,578.21
+$15,428.71
+$149.50
+$149.50
+$149.50
+Total:
+$287,196.13
+$284,689.85
+$2506.28
+$2255.23
+$2236.58
+[21] For nine of the twelve months (January, February, April, May, July, August, September, October and December) the difference between the total deposits based on the bank statements and the amounts identified by the Appellant’s father as the “deposits” is exactly equal to the total of the point of sale refunds for those months. For two of the other months (June and November) the difference is three cents and seven cents. As noted above, there was an error in March in the amount used by the auditor for the bank deposits and this would explain the difference of $270 for that month. Therefore it seems obvious that the Appellant’s father determined the “deposits” by simply not including the point of sale refunds as “deposits”.
+[22] It also appears obvious from the above table that for most of the months (March, April, May, July, August, October, November and December) the point of sale refund amounts were deducted by the auditor as non-revenue deposits and therefore for these months, no further adjustment should be made.
+[23] For the month of January no deductions were made for any point of sale refunds yet there were two such amounts – one on January 14 for $20.68 and the other on January 28 for $86.25. These amounts should have been included in the amount determined as the non-revenue deposits.
+[24] For February and September, the amount included as non-revenue deposits by the auditor exceeded the point of sale refunds. No explanation was provided by the auditor for this and therefore the amount used by the auditor will remain.
+[25] For June, $78.94 was deducted by the auditor as a non-revenue deposit. There was a point of sale refund on June 21 for $78.94; however there was also another point of sale refund for $143.75 on June 17 that should have been included in the non-revenue deposits amount.
+[26] As a result the following are the only adjustments that should be made to the deposit amount used to determine the revenue for the Appellant in relation to this issue:
+- a deduction of $106.93 for the point of sale refunds for January and
+- a deduction of $143.75 for an additional point of sale refund for June
+Salary - Jerome and Loretta Terry
+[27] The Appellant’s father had requested that the unreported income amount as determined by the auditor be allocated equally among the Appellant, the Appellant’s father, and Loretta Terry, the Appellant’s mother. This request was denied by the appeals officer. However, notwithstanding this rejection by the appeals officer, the accountant for the Appellant prepared and filed a T1 Adjustment request that is dated 2007/02/05 to reduce the Appellant's income by $14,777.42. The explanation provided was as follows:
+The original statement of business income does not include salaries to two employees for $7,388.71 each. Total adjustment is $14,777.42. The two employees are filing 2005 T1’s to include the salaries of $7,388.71.
+[28] A copy of the 2005 Reassessment for the Appellant’s father and the Appellant’s mother, as printed from the internet, was introduced to show that they had been reassessed to include the additional amount of $7,388 each in their incomes for 2005.
+[29] The issue in this case, however, is whether the Appellant is entitled to any deduction for these amounts identified as salaries in the Appellant’s T1 adjustment request. Subsection 78(4) of the Income Tax Act provides as follows:
+(4) Where an amount in respect of a taxpayer's expense that is a superannuation or pension benefit, a retiring allowance, salary, wages or other remuneration (other than reasonable vacation or holiday pay or a deferred amount under a salary deferral arrangement) in respect of an office or employment is unpaid on the day that is 180 days after the end of the taxation year in which the expense was incurred, for the purposes of this Act other than this subsection, the amount shall be deemed not to have been incurred as an expense in the year and shall be deemed to be incurred as an expense in the taxation year in which the amount is paid.
+(emphasis added)
+[30] Since there was no indication that these amounts, identified as salary in the T1 adjustment request, were paid as salaries by the Appellant to Jerome Terry and Loretta Terry within 180 days after the end of 2005, the Appellant is not entitled to a deduction for these amounts. This was an additional issue raised by the Appellant and was not part of the basis for the reassessment and was not even raised by the Appellant until his father raised this issue with the appeal’s officer. The T1 Adjustment request was not completed until 2007. No adjustment will therefore be made to the Appellant’s income based on the proposed adjustment for salaries for the Appellant’s father and mother.
+Summary
+[31] As a result, the following adjustments should be made to the deposit amount that was used to adjust the income of the Appellant and to the taxable income of the Appellant for 2005:
+Item
+Amount
+Total Revenue and HST deposited as determined by the auditor:
+$280,537.92
+Less: Error made for the deposits in March:
+($270.00)
+Less: Amounts deposited as reimbursements for the Combined Insurance premiums:
+($2,999.42)
+Less: Amounts re-deposited by Jerome and Loretta Terry:
+($5,500.00)
+Less: Additional non-revenue deposits (points of sale refunds of $106.93 + $143.75):
+($250.68)
+Revised revenue and HST deposited:
+$271,517.82
+Minus HST included in the above (15/115):
+($35,415.37)
+Gross revenue:
+$236,102.45
+Amount reported by the Appellant as gross revenue:
+$217,468.00
+Unreported revenue:
+$18,634.45
+Additional Purchases:
+($8,525.00)
+Reduction in Vehicle Expenses:
+$4,213.00
+Total change to taxable income:
+$14,322.45
+[32] The appeal is allowed, in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the total amount of additional taxable income of the Appellant for 2005 should be reduced from $22,166 to $14,322.
+Signed at Halifax, Nova Scotia, this 2nd day of October 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC559
+COURT FILE NO.: 2008-1672(IT)I
+STYLE OF CAUSE: DENNIS TERRY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John's, Newfoundland and Labrador
+DATE OF HEARING: September 24, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 2, 2008
+APPEARANCES:
+Agent for the Appellant:
+Jerome Terry
+Counsel for the Respondent:
+Toks Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

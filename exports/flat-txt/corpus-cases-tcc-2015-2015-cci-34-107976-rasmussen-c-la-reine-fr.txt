@@ -1,0 +1,125 @@
+Title: Rasmussen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/107976/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-34-107976-rasmussen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-02-11
+
+# Rasmussen c. La Reine
+
+- Citation: 2015 CCI 34
+- Decision date: 2015-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2749, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rasmussen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-02-11
+Référence neutre
+2015 CCI 34
+Numéro de dossier
+2013-3925(GST)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013‑3925(GST)I
+ENTRE :
+TOM R. RASMUSSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 19 novembre 2014, à Ottawa, Canada.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Pierre Ranger
+Avocate de l’intimée :
+Carole Plourde
+JUGEMENT
+L’appel interjeté contre les nouvelles cotisations établies au titre de la Loi sur la taxe d’accise pour les périodes commençant le 1er octobre 2007 et prenant fin le 30 septembre 2011 est rejeté, sans dépens, conformément aux motifs du jugement ci‑joint.
+Signé à Ottawa, Canada, ce 11e jour de février 2014.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 6e jour de mai 2015
+Line Niquet, traductrice
+Référence : 2015 CCI 34
+Date : 20150211
+Dossier : 2013‑3925(GST)I
+ENTRE :
+TOM R. RASMUSSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Dans cette procédure d’appel informelle, Monsieur Rasmussen a fait appel devant la Cour du rejet par l’Agence du revenu du Canada (l’ARC) des crédits de taxe sur les intrants (CTI) à l’égard de ses activités d’élevage de chevaux de course pour les périodes commençant le 1er octobre 2007 et prenant fin le 30 septembre 2011. L’intimée estime que M. Rasmussen n’était pas admissible aux CTI parce qu’il n’exerçait une activité commerciale. Plus précisément, elle estime que M. Rasmussen exerçait son activité sans attente raisonnable de profits ou « ARP ». Le contribuable convient que la question à trancher est celle d’établir si ses activités constituaient bel et bien une activité commerciale. Le contribuable estime que ses activités constituaient une entreprise qu’il exploitait avec une ARP.
+Les faits [2] M. Rasmussen a été le seul témoin. Il a commencé ses activités agricoles en 1991. Selon les éléments de preuve dont disposait la Cour à l’audience, je conclus que, dès le départ, du moins très tôt, ses activités consistaient dans l’élevage de standardbreds et les courses de standardbreds. Pour la plupart des années précédant les années en question, l’élevage de chevaux représentait son activité agricole principale et les courses de chevaux, son activité secondaire.
+[3] Les activités d’élevage de chevaux comprenaient l’achat de juments poulinières que M. Rasmussen jugeait prometteuses, leur imprégnation et la vente des yearlings à l’encan.
+[4] Les activités de course de chevaux consistaient à acheter à l’encan des yearlings (ou des parts dans des yearlings) que M. Rasmussen jugeait prometteurs, les faire dresser et les faire courir en vue de gagner des prix en argent. Il me semble que le contribuable n’a jamais dressé ou fait courir les yearlings qu’il a élevés. Au fil des années, M. Rasmussen possédait un à quatre chevaux de course ou des parts dans ces chevaux.
+[5] Les deux parties conviennent que M. Rasmussen a perdu de l’argent chaque année entre 1991 et 2010 à raison d’une moyenne d’environ 20 000 $ par année. M. Rasmussen a cessé complètement de se consacrer à l’élevage de chevaux en 2004 ou 2005. À cette époque, les montants des bourses remises dans les courses hippiques ont augmenté considérablement en Ontario. M. Rasmussen a alors choisi de se consacrer uniquement aux courses de chevaux. À partir de 2004, ses pertes n’ont cessé d’augmenter jusqu’en 2010. Aucune de ses pertes, pas plus que l’augmentation de ses pertes à partir de 2004, ne semblent découler de l’achat de chevaux ni avoir été déduites selon la comptabilité de caisse telle qu’elle est permise pour les agriculteurs dans le calcul du revenu aux fins de l’impôt.
+[6] M. Rasmussen n’avait aucune expérience préalable de l’agriculture, y compris de l’élevage de chevaux ou des courses de chevaux. Il a commencé ses activités à peu près au même moment où il a pris sa retraite de la fonction publique fédérale. Une fois qu’il s’est lancé dans l’élevage de chevaux, il a dû se mettre en rapport avec des dresseurs, des vétérinaires, des maréchaux-ferrants, etc. Il est aussi devenu membre d’un certain nombre d’organisations équines.
+[7] La tenue de livres effectuée par M. Rasmussen au titre de ses dépenses et ses recettes, par poste et pour chaque cheval, est insuffisante pour constituer un plan ou une stratégie en vue d’atteindre la rentabilité. Il ne suffit pas qu’il ait décidé de se consacrer aux courses de chevaux pour faire de l’argent et qu’il continue de croire que son activité deviendrait rentable. Comme ne suffit pas le fait d’avoir opté pour les meilleurs choix possibles pour la santé et le dressage de ses chevaux dans l’espoir d’optimiser ses chances de remporter les bourses les plus généreuses. Les éléments de preuve fournis concernant ses plans et stratégies ne correspondent pas au degré de commercialité requis.
+[8] M. Rasmussen a produit des éléments de preuve choisis pour étayer sa position selon laquelle certains trimestres ont été rentables après 2010. Les éléments de preuve ne comprenaient toutefois pas de déclarations de revenus, d’états financiers ou de bilans. Ils ne correspondaient certainement pas au niveau nécessaire pour contester à première vue l’affirmation 12(a) figurant dans la réponse de l’intimée selon laquelle M. Rasmussen avait déclaré une perte de 9 007 $ dans sa déclaration de revenus de 2011. Les affirmations au sujet des trimestres rentables après 2011 sont d’une utilité douteuse; le contribuable n’a produit aucune déclaration relative à la TPS/TVH, aucune déclaration de revenus ni aucun autre document pour la majorité des trimestres, voire tous les trimestres. Il n’a produit non plus aucun élément de preuve selon lequel ses propres chiffres ou documents justificatifs ont été fournis à l’ARC ou examinés par celle-ci ni aucun élément de preuve concernant le statut des déclarations.
+[9] Je dois aussi souligner que M. Rasmussen tenait mordicus à sa vision des choses, au point de devenir désagréable à certains moments. Il avait tendance à se montrer évasif quand il devait répondre à des questions clés embêtantes. Par exemple, il a montré beaucoup de réticence à reconnaître que les courses de chevaux, en plus de l’élevage de chevaux, représentaient un élément primordial, bien que peut‑être secondaire, de ses activités agricoles avant 2004. Il a évité de corriger la confusion manifestée par son avocat à cet égard et a finalement répondu clairement quand le juge a demandé des précisions. Je suis persuadé que M. Rasmussen a agi ainsi pour être plus en mesure de faire valoir le fait que les courses de chevaux étaient une nouvelle activité commerciale et d’essayer d’isoler cette activité des pertes financières constantes enregistrées au cours des douze ou treize premières années. Ces aspects de son témoignage m’incitent à chercher davantage qu’en temps normal des éléments corroborants pour les principaux éléments de son témoignage de vive voix.
+Le droit [10] L’alinéa 123(1)a) des dispositions législatives sur la TPS/TVH définit ainsi l’ « activité commerciale » :
+123.(1) Définitions – Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+« activité commerciale » constituent des activités commerciales exercées par une personne :
+123.(1) Definitions – In Section 121, this Part and Schedules V to X,
+“commercial activity” of a person means”
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées.
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exem pt supplied by the person.
+[11] L’exigence d’une attente raisonnable de profits dans les affaires concernant la TPS/TVH est un critère prévu dans la définition d’« activité commerciale » figurant dans les dispositions législatives sur la TPS/TVH. La Cour suprême du Canada a examiné ce critère dans Moldowan c Canada, [1978] 1 RCS 480. Les observations formulées par la Cour suprême sur l’ARP dans Moldowan continuent de s’appliquer aux affaires de TPS/TVH malgré la décision rendue par la Cour suprême sur l’ARC dans Stewart c Canada, 2002 CSC 46, relativement à Loi de l’impôt sur le revenu. Dans Moldowan, la Cour suprême a affirmé, au sujet de l’ARP :
+Une jurisprudence volumineuse traite de la signification de l’expression expectative raisonna­ble de profit, mais il ne s’en dégage aucune constante. A mon avis, on doit s’appuyer sur tous les faits pour déterminer objectivement si un contri­buable a une expectative raisonnable de profit. On doit alors tenir compte des critères suivants: l’état des profits et pertes pour les années antérieures, la formation du contribuable et la voie sur laquelle il entend s’engager, la capacité de l’entreprise, en termes de capital, de réaliser un profit après déduction de l’allocation à l’égard du coût en capital. Cette liste n’est évidemment pas exhaus­tive. Les facteurs seront différents selon la nature et l’importance de l’entreprise: La Reine c. Matthews. Personne ne peut s’attendre à ce qu’un fermier qui achète une affaire déjà productive subisse au départ les mêmes pertes que celui qui met sur pied une exploitation forestière sur un terrain vierge.
+[12] Les tribunaux, dans Craig c Canada, [2010] 3 CCI 2341, [2001] 2 RCF 436, [2012] RCS 489, n’abordent pas, dans leur raisonnement et leur analyse, la question de l’ARP pour déterminer s’il s’agissait d’une activité commerciale ou d’une entreprise. On peut déduire clairement à partir des motifs du juge Hershfield que la Couronne avait reconnu que les activités d’élevage de chevaux de M. Craig constituaient une entreprise. La Couronne estimait que l’apparente indifférence de M. Craig quant à l’absence de rentabilité montrait que l’activité ne constituait pas sa source principale de revenus au titre des dispositions relatives aux pertes agricoles restreintes énoncée à l’article 31.
+[13] Selon les éléments de preuve dont dispose la Cour, l’appelant ne l’a pas convaincue que, selon la prépondérance des probabilités, ses activités de courses de chevaux constituaient une activité commerciale dans les périodes en question jusqu’en 2011. Vu la rareté ou la faiblesse des indicateurs de commercialité et plus d’une vingtaine d’années de pertes, il semble que M. Rasmussen, au plan personnel, aimait miser sur ses propres chevaux, qu’il élevait et dressait, plutôt que d’aller miser au guichet de paris.
+[14] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour de février 2015.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 6e jour de mai 2015
+Line Niquet, traductrice
+RÉFÉRENCE :
+2015 TCC 34
+NO DE DOSSIER DE LA COUR :
+2013-3925(GST)I
+INTITULÉ :
+TOM R. RASMUSSEN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Canada)
+DATE DE L’AUDIENCE :
+Le 19 novembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 11 février 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+Pierre Ranger
+Avocate de l’intimée :
+Carole Plourde
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Pierre Ranger
+Cabinet :
+1000‑141, avenue Laurier Ouest
+Ottawa (Ontario)
+K1P 5J3
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

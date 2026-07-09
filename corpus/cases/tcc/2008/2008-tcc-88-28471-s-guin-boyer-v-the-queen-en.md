@@ -1,0 +1,232 @@
+---
+title: "Séguin Boyer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28471/index.do"
+last_modified: "2008-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 88"
+citation2: ""
+neutral_citation: "2008 TCC 88"
+decision_date: "2008-02-07"
+language: "en"
+item_id: "28471"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1237
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:33:53.989000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8cfaf82f3514dd68d95351495d8aad009f5fa8e13e28da6e91b5cc9a6298e702"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Séguin Boyer v. The Queen
+
+- Citation: 2008 TCC 88
+- Decision date: 2008-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1237, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Séguin Boyer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-07
+Neutral citation
+2008 TCC 88
+File numbers
+2006-2346(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2346(IT)G
+BETWEEN:
+DIANE SÉGUIN BOYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 31, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Martin Laurendeau
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 7th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 2nd day of April 2008.
+Brian McCordick, Translator
+Citation: 2008TCC88
+Date: 20080207
+Docket: 2006-2346(IT)G
+BETWEEN:
+DIANE SÉGUIN BOYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from an assessment made under the Income Tax Act (ITA) by the Minister of National Revenue ("the Minister") in respect of the 2000 taxation year.
+[2] In the Minister's initial assessment, dated July 23, 2001, the Appellant's total income was determined to be $35,625, the same amount that she reported on her income tax return. This income consisted of $15,000 in employment income, $9,489 in taxable dividends, $715 in interest income, and $10,422 in taxable capital gains (based on $15,933 in capital gains).
+[3] On December 29, 2004, the Minister issued a reassessment for the year 2000, in order to add $168,283 in taxable capital gains (approximately two-thirds of $252,556, consisting of $253,605 in unreported capital gains minus $1,049 in capital losses) and impose a penalty of $20,862.12 under subsection 163(2) of the ITA. This reassessment was made beyond the normal reassessment period on the basis of subsection 152(4) of the ITA. The Minister submits that subsection 152(4) applies because the Appellant made a misrepresentation of fact attributable to neglect, carelessness or wilful default by failing to report $252,556 in net capital gains.
+[4] The Appellant is not contesting the taxation of the unreported capital gains. However, she submits that the Minister was time‑barred from issuing a reassessment beyond the normal reassessment period because the Appellant made no misrepresentation attributable to neglect, carelessness or wilful default within the meaning of subsection 152(4) of the ITA. The Appellant also contests the imposition of the penalty under subsection 163(2) of the ITA.
+[5] The parties admit that the Respondent bears the burden of proving, on a balance of probabilities, that the Minister was justified in relying on subsections 152(4) and 163(2) of the ITA to make the reassessment of December 29, 2004, which is under appeal in the instant case.
+[6] In order to make the reassessment in issue, the Minister relied on the facts alleged in paragraphs 21 and 22 of the Reply to the Notice of Appeal, which read:
+[TRANSLATION]
+21. In making and confirming the reassessment in issue, the Minister relied on the same facts, namely:
+(a) During the period from January 27, 2000, to February 22, 2000, the Appellant incurred a capital loss of $1,049 resulting from the sale of the securities described below:
+Description of security
+Number of units
+Adjusted cost base
+Proceeds of
+disposition
+Gain
+(Loss)
+Royal Dividend Fund
+244
+$5,368
+$5,164
+($204)
+Sweig Global Balanced Fund
+366
+$5,028
+$5,008
+($20)
+Royal Dividend Fund
+236
+$5,193
+$5,000
+($193)
+Sweig Global Balanced
+Fund
+366
+$5,028
+$5,000
+($28)
+Motion International Inc.
+1200
+$6,360
+$5,928
+($432)
+Motion International Inc.
+200
+$1,060
+$959
+($101)
+Motion International Inc.
+100
+$530
+$459
+($71)
+(b) The Appellant's deductible capital loss in respect of the transactions listed above in subparagraph (a) was $787.
+(c) During the period from March 6, 2000, to March 23, 2000, the Appellant realized a $253,605 capital gain resulting from the sale of the securities described below:
+Description of securities
+Number of shares
+Adjusted cost base
+Proceeds of
+disposition
+Gain
+(Loss)
+BCE Emergis Inc.
+1,000
+$11,214
+$153,159
+$141,945
+BCE Emergis Inc.
+500
+$5,607
+$59,937
+$54,330
+BCE Emergis Inc.
+500
+$5,607
+$62,937
+$57,330
+(d) The Appellant's taxable capital gains from the transactions listed in subparagraph (c) above amount to $169,070.
+(e) The Appellant realized a taxable capital gain of $168,283 from the transactions listed above in subparagraphs (a) and (c).
+(f) The Appellant did not report the taxable capital gain of $168,283 in her 2000 income tax return.
+(g) This $168,283 taxable capital gain was not included in the Appellant's income in the initial assessment of July 23, 2001.
+22. In imposing and confirming the penalty under subsection 163(2) of the Act and in making the reassessment in issue beyond the normal reassessment period, the Minister took the following facts into account:
+(a) The facts set out in paragraph 21 above.
+(b) At $303,551, the proceeds of disposition from the sale of the securities described in subparagraphs 21(a) and 21(c) above represent a significant and considerable amount for the Appellant.
+(c) At $252,556, the net capital gain realized from the sale of the securities described in subparagraphs 21(a) and 21(c) above represents a significant and considerable gain for the Appellant.
+(d) It was clear to the Appellant, upon signing her 2000 income tax return, that her $252,556 net capital gain had not been reported.
+(e) In 2000 and 2001, the Appellant's spouse was a chartered accountant.
+[7] The Appellant and her spouse Claude Boyer testified at the hearing.
+[8] The Appellant is an accounting secretary. She has a diploma in administration. Her husband has been a chartered accountant since 1975. He is primarily involved in corporate accounting. He does not work on individual income tax returns. He and the Appellant entrust the preparation of their tax returns to Johanne Bélec, who works in a nominal partnership with Mr. Boyer.
+[9] The Appellant always entrusted her personal investments to Mr. Demontigny, her broker at the Royal Bank. In 1998, she sold the family residence, which was under her name. On the advice of a couple of friends who bought and sold securities regularly, she invested some of the proceeds of disposition in the stock market. Her broker suggested that she register personally for an Action Direct account with the Royal Bank, and she did so. She was the only person who could do transactions on this account, for which she had a confidential number. She used the account to purchase the shares of BCE Emergis Inc., which she disposed of in 2000, thereby realizing the capital gain in issue.
+[10] The Appellant explained that in 2000, owing to the prevailing stock market volatility, her friends suggested that she sell. Consequently, she phoned Action Direct on March 6, 2000, and instructed them to sell 1000 shares of BCE Emergis Inc. On March 17, 2000, just before leaving for Cuba, she called back Action Direct and told them to sell 500 more shares of BCE Emergis Inc. She came back early from Cuba on March 24, 2000, following the death of her father‑in‑law. Upon her return, she checked with Action Direct to ensure that her instruction to sell the 500 shares had been carried out. This is when she learned that, in addition to 500 shares sold on March 22, 2000, a further 500 shares of the company had been sold on March 23, 2000. Since she never instructed anyone to sell the last 500 shares, she asked that the transaction be cancelled, but was told that this would be impossible. She made a $57,330 profit on that transaction. She therefore gave instructions to buy another 500 shares of BCE Emergis Inc. with the proceeds from the sale of the last transaction, and this was done on March 30, 2000. As for the proceeds of the first two sale transactions (1500 shares of BCE Emergis), she had them deposited in her Royal Bank investment fund, which was managed by Mr. Demontigny, her broker.
+[11] Since Mr. Demontigny did transactions on her investment account regularly, the Appellant did not think that the profit realized on the sale of her BCE Emergis Inc. shares was taxable. She thought that if the money was reinvested in her portfolio with the other investments, she did not need to report anything to the tax authorities.
+[12] This is why she did not tell Ms. Bélec, her accountant, about the Action Direct securities transactions at the time that her tax return was being prepared. However, she gave Ms. Bélec all the slips received from financial institutions in connection with her other investment income. This was the first year that she traded on the stock market unaided. She had no experience in the field. Her broker did not tell her that she had to report any capital gains realized through Action Direct.
+[13] She herself did not see fit to talk to her accountant or her husband, a chartered accountant, about this. It appears that even though she and her husband have been married for 35 years, they never talk to each other about their personal investments, and they raise their daughters in this context. They married separate as to property, and have separate bank accounts. They never talk business with each other.
+[14] When signing her 2000 income tax return, the Appellant met with Ms. Bélec. Although the return reports a $10,000 taxable capital gain that has nothing to do with the shares of BCE Emergis Inc., the Appellant says that she did not know what a capital gain was, and that she never asked her accountant. Yet this $10,000 gain represented close to a third of her total income.
+[15] In December 2003, she got a call from the Ministère du Revenu du Québec (MRQ) notifying her that the capital gain from the shares of BCE Emergis Inc. had not been reported. On the recommendation of the MRQ's employee, she wrote a letter explaining what happened and attached a $25,000 cheque. She did not talk to her husband about this. She received a notice of assessment from the MRQ in April 2004 claiming an additional $27,000, which she paid forthwith. The MRQ assessment did not include any penalty. Following that assessment, she spoke to the MRQ again. She allegedly asked them what she had to do with respect to her federal taxes. She was supposedly told that the MRQ was taking the necessary steps and that she would be hearing from the federal government. This time, she spoke to her husband, who told her the same thing. She did not talk to her accountant or her broker. It was only on October 18, 2004, that she received a letter from the Canada Revenue Agency (CRA). The reassessment, dated December 29, 2004, included a penalty.
+[16] In order to establish that it has the power to reassess beyond the normal reassessment period under subsection 152(4) of the ITA, the Minister must first show that the Appellant made a misrepresentation. This has been shown because the Appellant acknowledges that the capital gains in question were not included in her income tax return. Secondly, the Minister must show that the misrepresentation was attributable to the Appellant's neglect, carelessness or wilful default in reporting the capital gains in question. Neglect is established if it is shown that the Appellant did not exercise reasonable care (see Venne v. Canada (Minister of National Revenue – M.N.R.), [1984] F.C.J. No. 314 (QL), at page 6). In my opinion, the Appellant was certainly neglectful, or at least careless, in that she did not inquire about the tax consequences of her stock trades. It is true that she received tax slips in connection with her other investments. However, a modicum of care would have been sufficient for her to realize that a profit from the sale of shares could also give rise to a tax liability. She signed her income tax return (which reported more investment income than employment income) and had it explained to her. Even if she thought the reinvested money was not taxable, she should at least have asked her accountant or broker whether it was. Indeed, she received tax slips indicating investment income that she had to report in her tax return. But this money was always reinvested by her broker. If those amounts were taxable, why not her capital gains from her shares?
+[17] In my opinion, the evidence is amply sufficient to show that there was a misrepresentation attributable to neglect, carelessness or wilful default and that the Minister was justified in reassessing on the basis of subsection 152(4) of the ITA.
+[18] As for the penalty imposed under subsection 163(2), the Respondent must prove that the Appellant knowingly, or in circumstances amounting to gross negligence, omitted to report the capital gains in question.
+[19] Gross negligence must be interpreted to mean greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not (see Venne, supra, at page 11).
+[20] In Chabot v. Canada, 2001 FCA 383, Décary J.A. of the Federal Court of Appeal stated as follows at paragraph 18:
+Also relevant are the comments made by Marceau and Strayer JJ. (as they then were), in Cloutier v. The Queen, 78 D.T.C. 6485, at page 6487, and in Venne (supra, paragraph 16) at page 6256:
+The question before the Court is whether the circumstances in which the omission occurred are such that gross negligence may be attributed to the taxpayer: "gross negligence" being taken to mean a relatively serious act of negligence, which is difficult to explain and socially inadmissible. The factual circumstances in themselves do not present a problem, they are all established; it is the way in which they should be regarded which is at issue, namely, what can be deduced from them concerning the acts of plaintiff which are at issue. This is not a question of fact in the sense of a question regarding an earlier factual circumstance or an event which took place at an earlier point in time, but a question of legal appraisal and judgment on the actions, which is not subject to proof but depends on the personal conviction of the individual making the decision. (Marceau J.)
+"Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. (Strayer J.)
+[21] That is the legal appraisal of the taxpayer's conduct that must be done for the purposes of imposing a penalty. Counsel for the Appellant cited Savard v. Canada, [2002] T.C.J. No. 646 (QL),[1] for the proposition that subsection 163(2) requires a wrongful intent. In Canada (Attorney General) v. Villeneuve, 2004 FCA 20, at paragraph 6, the Federal Court of Appeal stated that wrongful intent can be established by evidence of wilful blindness. Although the wrongdoer in such a case does not have actual knowledge of the alleged ingredient, he or she will be deemed to have such knowledge.
+[22] Unlike Chabot, supra, the case at bar does not involve a legal disagreement about the characterization of taxable income. The Appellant now acknowledges that the capital gains were taxable, and is not contesting this point. In my opinion, the Appellant demonstrated wilful blindness when she did not tell her accountant about these stock trades. Had she done so, her accountant would have told her at once that the profit from these transactions had to be included in her income. Moreover, the Appellant had other investments with her broker. She reported income from her other investments, which were also being reinvested. She should have known that these stock trades would have tax consequences, or at least asked whether they would.
+[23] The appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 7th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Translation certified true
+on this 2nd day of April 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC88
+COURT FILE NO.: 2006-2346(IT)G
+STYLE OF CAUSE: DIANE SÉGUIN BOYER v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 31, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: February 7, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Martin Laurendeau
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Martin Laurendeau
+Firm: Prévost Fortin d’Aoust
+Ste-Agathe-des-Monts, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] That decision was reversed by the Federal Court of Appeal (2004 FCA 150).

@@ -1,0 +1,119 @@
+Title: Mastromonaco c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28923/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-571-28923-mastromonaco-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-16
+
+# Mastromonaco c. La Reine
+
+- Citation: 2008 CCI 571
+- Decision date: 2008-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1431, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mastromonaco c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-16
+Référence neutre
+2008 CCI 571
+Numéro de dossier
+2006-915(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-915(IT)G
+ENTRE :
+LINO MASTROMONACO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue à Ottawa (Ontario), le 16 octobre 2008.
+Devant : L’honorable juge Valerie Miller
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Ryan Hall
+____________________________________________________________________
+ORDONNANCE
+La requête est accueillie et le jugement rejetant l’appel est annulé.
+Les dépens sont adjugés à l’intimée, à hauteur de 1 000 $, quelle que soit l’issue de la cause.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 571
+Date : 20081016
+Dossier : 2006-915(IT)G
+ENTRE :
+LINO MASTROMONACO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] La présente requête vise à faire annuler le jugement rendu le 16 mai 2008 par la juge Lamarre Proulx, par lequel elle a rejeté l’appel interjeté par l’appelant quant à son année d’imposition 1999. L’appel avait été rejeté parce que personne n’avait comparu pour l’appelant à l’audience de justification tenue à Ottawa, le 13 mai 2008.
+[2] L’appelant n’était représenté durant aucune des étapes de l’appel, y compris l’audience.
+[3] Dans une lettre datée du 24 mai 2008, l’appelant a expliqué que ce n’est que le 16 mai 2008 qu’il avait reçu l’ordonnance fixant la date de l’audience de justification. Dans cette même lettre, l’appelant affirmait aussi que l’ordonnance avait été envoyée à son ancienne adresse, et ce, même s’il avait avisé la Cour et le ministère de la Justice de son changement d’adresse.
+[4] L’appelant a joint un affidavit daté du 30 juillet 2008 à son avis de requête pour la présente audience. Dans cet affidavit, l’appelant a affirmé qu’il pensait avoir avisé l’avocat de l’intimée et la Cour de son changement d’adresse dès octobre 2006, ou, au plus tard, le 27 février 2007. Pour appuyer son assertion, l’appelant a présenté la liste de documents qu’il avait envoyée à l’intimée le 27 février 2007 et sur laquelle figurait sa nouvelle adresse.
+[5] L’intimée s’est opposée à la requête d’annulation du jugement en soutenant que l’appelant n’avait pas démontré qu’il avait pris tous les moyens pour poursuivre son appel. Plus précisément, elle a affirmé que l’appelant n’avait pas déposé de document pour prouver qu’il avait avisé la Cour de son changement d’adresse comme le prévoit l’alinéa 38(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[6] L’appelant a été contre‑interrogé au sujet de son affidavit, et il a répété avoir avisé la Cour et l’intimée de son changement d’adresse, mais il a dit ne pas avoir conservé de copie de l’avis qu’il avait envoyé.
+[7] L’étude du dossier m’a permis de conclure que les parties s’étaient envoyé leurs listes de documents et avaient tenu des interrogatoires préalables. Il n’est pas clair que l’appelant ait entièrement rempli les engagements qu’il avait pris.
+[8] À la lumière du dossier qui m’a été présenté, j’ai conclu que l’appelant avait tort de croire qu’il avait avisé la Cour de son changement d’adresse. Toutefois, ce même dossier me permet de croire que l’appelant a poursuivi son appel avec diligence.
+[9] L’appelant ne devrait pas se voir privé du droit de poursuivre son appel, lequel devrait être tranché sur le fond.
+[10] Les principes sur lesquels la Cour doit s’appuyer pour annuler un jugement par défaut ont été analysés par le juge en chef Bowman (tel était alors son titre) au paragraphe 17 de Farrow c. la Reine, 2003 CCI 885 :
+[TRADUCTION]
+Les circonstances dans lesquelles une cour exercera son pouvoir discrétionnaire en vue d'infirmer un jugement consigné en toute régularité sont assez bien établies. La demande devrait être déposée dès que possible, après que le défendeur aura pris connaissance du jugement. Toutefois, un simple retard ne fera pas obstacle à la demande, sauf si un dommage irréparable est causé au demandeur ou si le retard est délibéré (Tomlinson v. Kiddo (1914), 7 WWR 93, 29 WLR 325, 7 Sask LR 132; Mills v. Harris & Craske (1915), 8 WWR 428, 8 Sask LR 114). Par ailleurs, la demande devrait être appuyée par un affidavit qui doit énoncer les circonstances dans lesquelles le jugement par défaut a été prononcé et présenter une défense valable.
+(Chitty's Forms, 13e éd., p. 83)
+[11] La requête a été présentée sans délai. Le jugement rejetant l’appel a été signé le 16 mai 2008 et envoyé le 20 mai 2008. L’appelant a envoyé sa requête de rétablissement d’appel le 24 mai 2008.
+[12] Finalement, je suis convaincue que l’avis d’appel et la réponse à l’avis d’appel soulèvent une question justifiable.
+[13] La requête est accueillie et le jugement rejetant l’appel est annulé.
+[14] Les dépens relatifs à la requête sont adjugés à l’intimée, à hauteur de 1 000 $, quelle que soit l’issue de la cause.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 27e jour de janvier 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 571
+No DU DOSSIER DE LA COUR :
+2006-915(IT)G
+INTITULÉ :
+Lino Mastromonaco et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 octobre 2008
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE :
+Le 16 octobre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ryan Hall
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,221 @@
+Title: De Pellegrin v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521342/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-134-521342-de-pellegrin-v-the-king.md
+Document type: case_law
+Last modified: 2024-10-17
+
+# De Pellegrin v. The King
+
+- Citation: 2024 TCC 134
+- Decision date: 2024-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6048, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Pellegrin v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-10-23
+Neutral citation
+2024 TCC 134
+File numbers
+2018-686(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-686(IT)G
+BETWEEN:
+ROBERT DE PELLEGRIN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Written submissions on costs filed by the parties
+Before: The Honourable Justice Patrick Boyle
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Katherine Savoie
+Marie-Aimée Cantin
+ORDER
+This Court Orders that:
+1. The respondent is awarded costs of $7,500 as set out in the Reasons for Order attached.
+2. The amount of $7,500 is to be indemnified by Me Mostovac to M. De Pellegrin promptly.
+3. Me Mostovac will promptly send a copy of the Reasons for Order and the Order to M. De Pellegrin following receipt.
+“This Amended Order is issued in substitution of the Order dated October 17, 2024. This Amended Order clarifies that it was decided upon the written submissions of the parties. The Reasons are unchanged.”
+Signed at Ottawa, Canada, this 23rd day of October 2024.
+“Patrick Boyle”
+Boyle J.
+Citation: 2024 TCC 134
+Date: 20241017
+Docket: 2018-686(IT)G
+BETWEEN:
+ROBERT DE PELLEGRIN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] The adjournment order in this matter has been sent back to me by the Federal Court of Appeal (“FCA”) so that the issue of costs can be determined after receiving submissions on the issue of costs from the parties. Both parties filed their submissions in English.
+I. Relevant Background of this Proceeding [2] This appeal was filed in 2018. On July 6, 2022, it was set down for a three-day hearing in Montréal beginning Tuesday, March 21, 2023.
+[3] On March 14, 2023, appellant’s counsel, an experienced litigator in our Court, contacted the Court requesting an adjournment and followed this up with a letter later that day stating simply that they had become aware that the forensic accountant expert witness would be out of the country the following week of trial. No explanation was given why he was out of the country, when he made the travel arrangements, or whether it would be possible for him to attend virtually. The letter went on to suggest it could be set down for the following week without indicating whether or not those dates had been checked with the respondent’s counsel before suggesting them to the Court.
+[4] The Court promptly received a letter from the respondent opposing the adjournment request. The respondent raised these same deficiencies. The respondent also explained why it would be unable to reschedule its witnesses for the following week. The respondent confirmed that it remained ready to proceed the following Tuesday as set down by the Court some 8 or 9 months earlier. The Court phoned appellant’s counsel that day at my direction asking specifically:
+1. When did they advise their principal witness of the scheduled hearing dates?
+2. When did the expert book his travel?
+3. Was their expert available to appear virtually?
+[5] Appellant’s counsel replied by letter on March 14th only that he told the expert months earlier of the several different dates the parties had proposed in their joint application to have a hearing date fixed i.e. some time before the hearing date was fixed in early July 2022. Appellant’s counsel’s letter only said he became aware in the course of trial preparation of the expert’s holiday plans, without telling the Court when that was relative to the date of his adjournment request. That is concerning. The clear implication of this, and the fact I infer, is that appellant’s counsel had not informed his expert witness of the trial dates fixed in July 2022 by the Court nor had he instructed his witness to keep all those dates available until one was fixed.
+[6] The Court was informed that the only date that the expert put in his calendar was not the one of the three that the Court fixed and requested. No explanation for this was offered. No supporting document from the witness or travel itineraries and invoices were provided.
+[7] The Court was informed that the appellant’s expert had booked his personal holiday travel on February 25th for his children’s school break and left Quebec for Toronto on March 14th and was now in Chile.
+[8] The letter said appellant’s counsel did not know whether or not his expert witness had cellular or internet coverage during the upcoming travel week. The clear inference was that counsel did not ask his witness. His second letter to the Court does not even say that he tried to communicate with his witness to have the Court’s question answered.
+[9] It can be noted that appellant’s counsel did not address these deficiencies in his factum in the FCA. He did not provide a date for when he first found out, nor did he say he spoke, or tried to speak, with his witness about virtual attendance or anything else. Nor does he address this in his written costs submissions.
+[10] Both of the appellant’s counsel’s written communications to the Court were somewhat evasive on key information the Court would need to decide his adjournment request. Respondent’s counsel wrote again maintaining its objection to the adjournment request and noting the expert’s travel had been booked long after he knew or should have known that it included the trial week of this appeal.
+[11] In 2021, appellant’s counsel had previously sought and obtained an adjournment of the fixed May 2021 hearing dates. I return to this later.
+[12] The adjournment was granted by me on Thursday, March 17, 2023. The reasons for granting a fixed award of costs to the respondent in respect of the appellant’s requested adjournment related to his expert witness having left the country on a holiday was set out in the written order dated March 21st as:
+VU la demande de l’appelant sollicitant un ajournement de l’appel fixé le 6 juillet 2022 pour audition le 21 mars 2023, à Montréal, Québec, pour une durée de trois jours, en raison que l’expert de l’appelant est en vacances à l’étranger;
+ET VU que les vacances de l’expert ont été réservées le mois dernier;
+ET attendu que la demande de remise ne contient aucune explication ni aucun motif justifiant l’absence du témoin expert proposé par l’appelant, et aucune raison n’a été donnée, lorsque la Cour leur a demandé pourquoi l’avocat de l’appelant n’a pas informé leur témoin expert des dates d’audience fixées il y a plus de 8 mois;
+ET considérant que l’avocat de l’appelant connaît bien les délais de fixation des appels de trois jours à Montréal;
+ET attendu que l’intimé s’oppose à la demande d’ajournement de l’audience;
+[13] The appellant’s 2021 requested adjournment was sought on February 26, 2021, for an adjournment of a three-day trial starting May 3, 2021, when he sought to introduce his expert evidence and report less than 90 days before the trial as set out in the Rules. As described in more detail below, the appellant’s counsel was somewhat less than candid with the Court and the respondent regarding having obtained this expert report and filed it in the parallel Cour du Québec proceeding when he told our Court after that he was ready to proceed to trial. Me Mostovac overlooked mentioning that he intended to request to file his expert report in our Court proceeding out of time.
+[14] The 2023 adjournment request was directed to me in my then capacity as Acting Associate Chief Justice of the Tax Court. In the Tax Court, the Chief Justice or the Associate Chief Justice deal with adjournment requests made prior to the opening of the hearing of an appeal. Our Court is an itinerant national court. Sitting dates are made a year in advance and the set down list then begins to be filled. Adjournments of multi-day trials that are made quite late and after this Court can set down other matters for that sitting week result in a judicial sitting week being thrown away. This results in unnecessary delay for all proceedings in our Court. It impacts all of the other cases pending and not just the particular appellant whose hearing is adjourned. This Court has no difficulty with adjournment requests made as soon as possible after last minute unforeseeable developments come to the parties’ attention or that of their counsel. Last minute adjournments result in unnecessary delay for everyone. This is an access to justice issue for the Canadian public and a loss or waste of our public resources and our Court’s resources.
+[15] This is exacerbated unnecessarily at times by parties and lawyers being tempted to seek adjustments for inappropriate reasons in order to delay in order to better prepare, to keep hoping for a settlement, to give their client time to pay their taxes or to pay their lawyer, and, if made after the name of the presiding judge is made known, to judge shop. Adjournment requests are addressed by the Chief Justice and the Associate Chief Justice in this Court in order to better manage these issues and to ensure consistency of diligence, approach and decision-making. These are this Court’s procedures. Other courts may choose to handle their procedures differently.
+II. The Parties’ Costs Submissions [16] The appellant’s submissions expressly confirm and acknowledge that Me Mostovac committed an error when he did not ever confirm the trial dates with his expert witness once they were set down.
+[17] His substantive submission on costs is simply that it would be inappropriate for counsel for the respondent to request costs in these circumstances.
+[18] He continues to focus on the history of settlement discussions between the parties, careful not to disclose their contents, seemingly as some sort of mitigating explanation for his mistake and his need for another adjournment request. However, the fact that there were settlement discussions, or that he questions the good faith of the respondent counsel’s approach to those settlement discussions, of which I find there is absolutely no supporting evidence before me, do not in any way mitigate or explain his professional error. The parties’ settlement discussions did not contribute to his need for an adjournment request. Me Mostovac says that the respondent should have been more transparent with the Court about the status of the settlement discussions. Whether or not genuine and good faith settlement discussion took place did not contribute to the expert witness being unavailable and the appellant’s adjournment request. It was also not relevant. This unsubstantiated slight of respondent’s counsel unnecessarily required the respondent to use part of the court-limited length of its submissions to respond and address it. This occupied about one-third of the respondent’s permitted five pages, and that response was appropriate and foreseeable.
+[19] While appellant’s costs submissions reference trial preparation, he still does not provide a date for when he became aware of his expert’s holiday travel plans. Me Mostovac would have prepared this witness for his expert testimony and report in the period leading up to the trial dates. In the circumstances, that must have been before the witness’ March 14th departure. It is remarkable that an experienced tax litigator in this Court and the Cour du Québec would not have orally confirmed dates and availability with his witness at that time. It is also remarkable that a professional expert witness in a regulated profession would not say that they were going on holiday from March 14th until two business days before the day that he genuinely, but mistakenly, believed the trial would start without telling his client, Me Mostovac and discussing whether and how he could be contacted while on holiday should the need arise as trial preparation continued in his absence.
+[20] Notably, Me Mostovac’s submissions do not address any of the considerations set out in Rule 147(3), directly or indirectly. His submissions end with a statement that an award of costs to the respondent in the circumstances of this case would simply encourage and perpetuate last minute discussions or even mistrust between counsel. He does not explain why. It does not make sense on its own. It appears it might be returning to avoiding the issue that needs to be addressed by suggesting that his participation in continuing settlement discussions, or his expectation thereof, is relevant to his simple and straightforward failure to tell his professional expert witness what the dates were when they were fixed by this Court nine months earlier – or even as they prepared for trial prior to the witness’ holiday.
+[21] There is still no supporting document from the expert witness confirming any of this.
+[22] The respondent’s written submission requests an award for its costs thrown away as a result of the late request for adjournment for a three-day trial, that was to include an expert witness, beginning days later. The respondent submits that a lump sum $6,000 to $10,000 would be appropriate for the following reasons:
+Late adjournment requests have been recognized as warranting costs awards in other cases, including for greater amounts than requested in this proceeding.
+Appellant’s counsel had not replied to an outstanding offer to settle when the adjournment was requested, and later rejected it, which shows that settlement discussions were truly irrelevant to the adjournment request.
+The trial would have proceeded but for only the appellant’s counsel failure to advise his expert witness of the date fixed for hearing. Nor had Me Mostovac reserved the expert for the three dates put forward in the joint request to have a date fixed when that application was signed and filed by him.
+The appellant’s prior adjournment of the 2021 fixed hearing dates was caused by counsel serving an expert report less than 90 days before the hearing date as required by our Court’s rules. Me Mostovac did this notwithstanding that in that joint application he had stated that no expert witnesses would be called to testify. Further, he later wrote to our Court that the appellant was ready to proceed with the May 2021 trial on the dates fixed, notwithstanding that he had already served his expert report in the appellant’s parallel proceeding in the Cour du Québec weeks earlier.
+[23] Appellant’s counsel filed responding submissions that did not address anything of much relevance to costs thrown away because of the adjournment resulting from his error, which is what the respondent requested. Nor did it dispute the circumstances of his 2021 adjournment request. Rather, he continued for the most part to blame the respondent’s counsel.
+[24] He did not dispute that there were thrown away costs as a result of his mistake, nor that the respondent’s $6,000 to $10,000 request was not an accurate estimate of their time and disbursements in preparing for a trial that would no longer proceed the following week.
+III. The Court’s Approach to Awarding Costs [25] A detailed description of this Court’s approach to awarding costs can be found in Univar Holdco Canada ULC v. HMQ 2020 TCC 15 at paragraphs 10 to 13.
+[26] Rule 147(3) reads as follows
+147 (3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+147 (3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[27] The principal considerations of those listed in Rule 147(3) in this case are clearly (g), (h) and (i) dealing with conduct that unnecessarily lengthened matters, the refusal to admit to something, and whether any stage in the proceeding was improper or unnecessary, or was negligent.
+[28] The Court is concerned with:
+The thrown away costs and time of the respondent for a trial that did not happen and was adjourned on inadequate notice to the respondent and to the Court.
+The waste of public resources. There is a maxim that everyone is entitled to their day in court - but they aren’t entitled to other people’s days. One of the aims of costs is to regulate and enforce the Court’s procedures and the parties’ behaviours and to regulate abuses. In our Court the respondent is always the Government of Canada on behalf of the Canadian public. That is the same Government of Canada that funds our Court’s operations and bears the cost of wasted available court hearing dates.
+The appellant’s counsel’s lack of candour with the Court in not providing it information needed and requested to properly decide his rather late request for the 2023 adjournment, especially as he had been less than candid about his prior request for the earlier 2021 adjournment to file this expert witness’ report.
+IV. Costs [29] In all of these circumstances, an appropriate costs award for an adjournment requested one week before the three-day trial because of appellant counsel’s now admitted error is $7,500. I am unable to award the respondent all it asks for as I was not provided with any specific details from either party as to how much time or costs had been spent preparing for a trial that was no longer imminent, nor on their hourly rates for services. I assume from the respondent’s submissions taken in context that the $6,000 to $10,000 range requested is the respondent’s best estimate notwithstanding that they did not clearly say so. Me Mostovac did not suggest otherwise in his responding submissions. While the parties did proceed to trial over a year later, I have no information from the parties that the preparation costs for that trial obviated or materially reduced the respondent’s need to again prepare for the 2024 trial.
+[30] Further, it should not be the Court, the respondent or the Canadian public that bears the financial costs to the respondent and to the Canadian public of lawyers’ errors. That is the reason that they have professional liability insurance. That should remain an issue between the lawyer and his client. Costs should be awarded on the same principled basis as always. In this case it would be unprincipled to overlook the lawyer’s mistake to deal with the problem promptly and candidly and have the respondent instead bear the full costs of that. This is not to say a court should never consider the reasons for an adjournment being needed due to a mistake or oversight. People make mistakes all the time. It is how they deal with them that is important. In this case, having considered it, I do not think it forms a basis or provides a basis for overlooking the otherwise appropriate costs award.
+V. Rule 152 [31] Courts recognize that it may be wrong for a client to be penalized for their lawyer’s mistakes. Our Court’s Rule 152 recognizes that in the context of costs awards.
+[32] Following receipt and review of the parties’ written submissions, I directed the Court to write Me Mostovac asking for his written submissions on whether, and the extent to which, Rule 152(1)(b) (Liability of Counsel for Costs) should be applied in respect of any costs awarded against his client.
+[33] No response was received within the 15 days allowed or at all. Two months later, I directed the Court to send a follow-up letter asking again for appellant counsel’s submissions as well as an explanation of his failure to respond to the Court’s first request. The day before the 10-day deadline to respond to the follow-up letter expired, the Court was contacted by his office to say Me Mostovac was on vacation. A further two-week extension was granted for his response.
+[34] Once received, counsel’s very brief submissions acknowledge in a single sentence that his own error cannot under any circumstances be blamed on his client M. De Pellegrin. Following that, he had two sentences again stating unsolicited comments that no costs should be awarded to the respondent.[1] I take it from this that Me Mostovac acknowledges that, to the extent any costs are awarded against his client, it is appropriate that Rule 152 be applied to require him to indemnify his client for the full amount.
+[35] Rule 152 reads as follows:
+152 (1) Where a counsel for a party has caused costs to be incurred improperly or without reasonable cause or to be wasted by undue delay, misconduct or other default, the Court may make a direction,
+(a) disallowing some or all of the costs as between the counsel and the client,
+(b) directing the counsel to reimburse the client for any costs that the client has been ordered to pay to any other party, and
+(c) requiring the counsel to indemnify any other party against costs payable by that party.
+(2) A direction under subsection (1) may be made by the Court on its own initiative or on the motion of any party to the proceeding, but no such direction shall be made unless the counsel is given a reasonable opportunity to make representations to the Court.
+(3) The Court may direct that notice of a direction against a counsel under subsection (1) be given to the client in the manner specified in the direction.
+152 (1) Si l’avocat d’une partie a fait engager des dépens à tort ou sans raison valable, ou les a fait augmenter inutilement par des retards abusifs, par mauvaise conduite ou par une autre omission, la Cour peut, par directive :
+a) lui refuser les dépens en totalité ou en partie sur une base procureur-client;
+b) lui enjoindre de rembourser son client des dépens que celui-ci est tenu de payer à une autre partie;
+c) lui enjoindre d’indemniser l’autre partie en réduisant les dépens payables par celle-ci.
+(2) La directive visée au paragraphe (1) peut être donnée par la Cour, de son propre chef ou à la suite d’une requête d’une partie à l’instance; elle ne peut être donnée que si l’avocat a eu une occasion raisonnable d’être entendu par la Cour.
+(3) La Cour peut prescrire que le client de l’avocat visé par une directive donnée en application du paragraphe (1) en soit avisé de la façon prévue par la directive.
+[36] I have summarized the Court’s approach to Rule 152 in 9128-8456 Québec Inc. v. HMQ 2014 TCC 85 as follows:
+[15] I have previously summarized the circumstances in which this Court can order that costs be payable by a party’s counsel personally under Section 152 of the Rules and under the Court’s inherent jurisdiction to control abuse of process and contempt of court. In Dacosta v. The Queen, 2008 TCC 136, I wrote:
+[20] An award of costs payable by counsel personally is permitted both as part of the Court’s inherent jurisdiction as well as under the statutory jurisdiction of Rule 152. Such awards are, in either event, extraordinary.
+[21] Chief Justice McLachlin writing for the majority of the Supreme Court of Canada on this point wrote in Young v. Young (1993), 108 D.L.R. (4th) 46:
+It is as clear that the courts possess that jurisdiction to make such an award, often under statute and, in any event, as part of their inherent jurisdiction to control abuse of process and contempt of court...
+[22] An order that counsel pay costs personally can be made as part of the inherent jurisdiction of a superior court to control abuse of process, contempt of court and the conduct of its own officers. In contrast, Rule 152 clearly increases the circumstances permitting of such orders if counsel has caused costs to be incurred without reasonable cause or to be wasted by undue delay, misconduct or other default.
+. . . [Rule 152 omitted.]
+[23] The common law inherent jurisdiction requirement that there be a finding of bad faith clearly does not constitute a prerequisite under Rule 152. The words of Rule 152 should be given their ordinary meaning. There is no requirement that the lawyer’s conduct be abusive, negligent or in bad faith. See, for example, the recent Ontario decisions in Walsh v. 1124660 Ontario Ltd. et al., [2007] O.J. No. 639 and Standard Life Assurance Co. v. Elliott et al., [2007] O.J. No. 2031.
+[24] In Standard Life, Justice Molloy writes at paragraph 25:
+However, just because the actions of a solicitor may fall within the defined circumstances in which costs may be awarded against him personally, does not mean that the court’s discretion ought to be exercised in that manner. On the contrary, the discretion ought to be exercised sparingly and only in exceptional circumstances.
+Justice Molloy then quotes approvingly from paragraph 115 of Justice Granger’s decision in Marchand (Litigation Guardian of) v. Public General Hospital Society of Chatham, [1998] O.J. No. 527 (O.C.J.Gen.Div.) as follows:
+Applying the ordinary meaning to the words found in Rule 57.07, costs incurred without reasonable cause, or by reason of undue delay, negligence or other default can be charged back to the solicitor who is responsible for such costs being incurred.
+And later:
+Although “bad faith” is not a requirement to invoking the costs sanctions of Rule 57.07 against a solicitor, such an order should only be made in rare circumstances and such orders should not discourage lawyers from pursuing unpopular or difficult cases. It is only when a lawyer pursues a goal which is clearly unattainable or is clearly derelict in his or her duties as an officer of the court that resort should be had to R. 57.07.
+[25] Although this Court’s Rule 152 differs in some respect from Ontario’s Rule 57.07, notably our rule does not refer to negligence but to misconduct, the words of Molloy J. and Granger J. are equally applicable to a consideration of our Rule 152.
+[26] Most of the cases dealing with awarding costs personally against a solicitor are concerned that lawyers not be deterred from pursuing unpopular causes or taking positions that are novel and untested. Those considerations do not apply here. We simply have a counsel whose behaviour towards this Court and whose failure to comply with a court order is inexcusable. Justice Lane’s Reasons in Walsh quoted at paragraph 17 from the Reasons of Justice Quinn in Belanger v. McGrade Estate, [2003] O.J. No. 2853 (S.C.J.):
+[Counsel] caused costs to be incurred without reasonable cause and to be wasted, by his failure to provide the necessary material to the applicant’s counsel in the time frame set out in the order of Marshall J. This has nothing to do with the fearless representation of a client.
+The discretion available under subrule 57.07(1) should be exercised with the utmost care and only in the clearest of cases. Any doubt should be resolved in favour of the solicitor. Nevertheless, even with those cautions, I think that what occurred in this case is precisely the kind of scenario intended to be caught by the rule.
+[27] I could not word it better than that in this case.
+[28] This is not a case such as Jurchison, 2000 DTC 1660 where, to paraphrase Justice Bowie, counsel’s behaviour merely did not rise to the level of civility which at one time did, and still should, characterize the way in which members of the bar conduct their dealings with one another. In this case Appellant’s counsel disregarded a Court order and did not communicate with the Court regarding the failure. This case is more similar to this Court’s decision in Whiteway v. Canada, (1998 TCC 91158, [1998] T.C.J. No. 84, [1998] 2 C.T.C. 3254) as well as the decision of this Court in Anctil v. Canada, 97 DTC 1462.
+[37] In McCarthy v. HMQ 2016 TCC 86 I wrote:
+[11] The Appellant’s waste of the time and resources of both the Respondent and of the Court are a waste of public resources. One of the purposes of Rule 152 is to discourage the wasting of such valuable, limited and expensive public resources by officers of the Court who are counsel to a party. What can reasonably be described as wasting resources needs to be determined cautiously, charitably and generously in order to ensure that the courts do not discourage counsel from fearlessly representing their client’s interest including putting forward novel, unpopular or heretofore unrecognized positions.
+[13] This Court will order and direct that one half of the costs award in favour of the Respondent and payable by the Appellant, being $2,526, is to be reimbursed promptly by counsel for the Appellant to the Appellant pursuant to Rule 152(1)(b). Counsel for the Appellant is directed to promptly send a copy of this order and the reasons for order to his client as provided for in Rule 152(3).Conclusion and Disposition
+VI. Conclusion and Disposition [38] The respondent is awarded a lump sum of $7,500 payable by the appellant.
+[39] This Court orders and directs that the costs award in favour of the respondent and payable by the appellant, is to be reimbursed promptly by counsel for the appellant to his client pursuant to Rule 152(1)(b). Counsel for the appellant is directed to promptly send a copy of this order and the reasons for order to his client as provided for in Rule 152(3).
+[40] The respondent did not request costs in respect of this costs determination.
+Signed at Ottawa, Canada, this 17th day of October 2024.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2024 TCC 134
+COURT FILE NO.:
+2018-686(IT)G
+STYLE OF CAUSE:
+ROBERT DE PELLEGRIN AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Canada
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATES OF ORDER AND AMENDED ORDER:
+October 17, 2024
+October 23, 2024
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Katherine Savoie
+Marie-Aimée Cantin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Christopher R. Mostovac
+Firm:
+Starnino Mostovac Lawyers
+1010 Rue de la Gauchetière Ouest
+Suite 2250 Montréal, Quebec
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Counsel’s written submissions stated that neither he nor his assistant ever received the Court’s first request for his submission on Rule 152 and that there is no record of this on his firm’s email server including for him and his assistant. I have confirmed in the Court that the Court’s email was sent, that it was correctly addressed to Me Mostovac, and that no undeliverable notice was received by the Court in respect of it. This is concerning, but in the circumstances it was not considered in fixing costs, nor do I weigh it in my application of Rule 152.

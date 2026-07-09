@@ -1,0 +1,206 @@
+Title: Immeubles Équation Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25599/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-943-25599-immeubles-quation-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-12-30
+
+# Immeubles Équation Inc. c. La Reine
+
+- Citation: 2003 CCI 943
+- Decision date: 2003-12-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2473, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Immeubles Équation Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-30
+Référence neutre
+2003 CCI 943
+Numéro de dossier
+2002-3503(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2003CCI943
+Date : 20031230
+Dossier : 2002-3503(IT)I
+ENTRE :
+IMMEUBLES ÉQUATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement sur le banc le 23 octobre 2003 à Montréal (Québec)
+et révisés à Ottawa (Canada) le 30 décembre 2003)
+La juge Lamarre Proulx
+[1] Il s'agit d'appels interjetés selon la procédure informelle concernant les années d'imposition 1998, 1999 et 2000.
+[2] Monsieur Jean-Guy Labonté, président et seul actionnaire de l'appelante a représenté l'appelante.
+[3] L'avis d'appel mentionne ce qui suit :
+Les faits pertinents sont les suivants : les dépenses refusées de l'entreprise pour les années 1998 - 1999 - 2000 furent ajoutées au revenu personnel du soussigné.
+[4] Le paragraphe 4 de la Réponse à l'avis d'appel (la « Réponse » ) se lit ainsi :
+a) pendant les années d'imposition en litige, l'exercice financier pour chacune des dites années de l'appelante se terminait le 31 août;
+b) pendant les années d'imposition en litige, la principale activité commerciale de l'appelante, la société « Immeubles Équation inc. » , était le courtage immobilier;
+c) monsieur Jean-Guy Labonté était, pendant les années d'imposition en litige, l'unique actionnaire de la société « Immeubles Équation inc. » ;
+d) monsieur Jean-Guy Labonté était, pendant les années d'imposition en litige, le seul employé, à titre d'agent immobilier, de la société « Immeubles Équation inc. » ;
+e) le ministre a constaté des lacunes au niveau du contrôle interne de la société, à l'égard des années d'imposition en litige;
+f) afin de vérifier les revenus déclarés de l'appelante, la société « Immeubles Équation inc. » à l'égard des années en litige, le ministre a concilié les dépôts effectués dans le compte de banque de l'entreprise aux contrats signés;
+g) également, le ministre, vu qu'il n'existait pas de pièces justificatives pour justifier les dépenses réclamées, sauf pour l'exercice se terminant le 31 août 2000, analysa avec monsieur Labonté le bien-fondé de la réclamation de chacune des dépenses, en prenant comme assise l'année d'imposition 2000;
+h) suite à cette vérification, le ministre a redressé les déclarations de revenus de l'appelante, à l'égard des années d'imposition 1998, 1999 et 2000 de la façon suivante :
+1998
+1999
+2000
+i)
+revenus non déclarés (1)
+18 695 $
+$
+1 099 $
+ii)
+dépenses refusées -
+a)
+publicité et annonce
+4 532 $
+5 130 $
+3 014 $
+b)
+assurance et permis
+2 751 $
+1 197 $
+$
+c)
+loyer
+2 243 $
+2 197 $
+2 021 $
+d)
+entretien et réparations
+1 248 $
+1 039 $
+1 087 $
+e)
+papeterie, frais de bureau
+3 156 $
+4 964 $
+3 740 $
+f)
+DPA - matériel roulant
+2 958 $
+2 071 $
+1 450 $
+(2)
+16 888 $
+16 598 $
+11 312 $
+iii)
+redressement total (1) + (2)
+35 583 $
+16 598 $
+12 411 $
+i) à l'égard du revenu non déclaré pour l'année d'imposition 1998, le ministre a déterminé l'écart par le calcul suivant, étant donné que les revenus étaient déclarés selon la comptabilité de caisse :
+Exercice financier se terminant le 31 août
+1997
+1998
+i)
+contrats signés et déposés dans le compte
+de la société
+36 113
+60 863
+ii)
+plus : dépôts au compte de la société pour les mois de sept. à nov. 1997
+27 193
+63 306
+iii)
+moins : ventes déclarées
+53 491
+51 983
+iv)
+revenus non déclarés 18 695 $
+9 815
+8 880
+j) à l'égard de la rubrique « Publicité et annonce » , le ministre a accordé 50% de la dépense réclamée pour chacune des années d'imposition en litige;
+k) à l'égard de la rubrique « Assurance et permis » , le ministre a accordé la somme de 2 500 $ pour chacune des années d'imposition 1998 et 1999, en se fondant sur l'analyse des factures pour l'année d'imposition 2000 (2 463 $);
+l) à l'égard des rubriques « loyer » et « entretien et réparations » , le ministre a accordé 10% des dépenses réclamées en se fondant sur l'estimation de la superficie utilisée de la résidence pour des fins d'affaires;
+m) à l'égard de la rubrique « papeterie et frais de bureau » le ministre a accordé une somme de 1 500 $ pour chacune des années en litige, en se fondant sur la vérification des factures pour l'année d'imposition 2000;
+n) le ministre a refusé toute réclamation d'amortissement, à l'égard du matériel roulant, pour chacune des années en litige puisque l'appelante utilise une auto louée;
+o) seules les sommes considérées au titre de revenus non déclarés furent assujetties à l'imposition de la pénalité fédérale, conformément au paragraphe 163(2) de la « Loi » ;
+p) en omettant de déclarer tous ses revenus, à l'égard des années d'imposition 1998 et 2000, l'appelante a fait sciemment, ou dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans les déclarations de revenus produites pour les années d'imposition 1998 et 2000, ou a participé, consenti ou acquiescé à ce faux énoncé ou cette omission, d'où il résulte que l'impôt qu'il aurait été tenu de payer d'après les renseignements fournis dans les déclarations de revenus déposées pour ces années-là était inférieur au montant d'impôt à payer pour ces années-là.
+[5] M. Labonté a expliqué les circonstances qui ont donné lieu aux nouvelles cotisations. Lors d'une vérification de l'appelante, les vérificateurs de l'Agence des douanes et du revenu du Canada (l' « ADRC » ) ont constaté qu'il y avait des prêts à l'actionnaire sans intérêts. De plus certaines dépenses de l'appelante ont été refusées parce qu'il n'y avait pas de facture. L'ADRC a ajouté ces intérêts ainsi que le montant des dépenses refusées au revenu de l'actionnaire. L'actionnaire a payé ces nouvelles cotisations.
+[6] Le représentant de l'appelante a admis les alinéas 4a) à 4d), 4f) et 4g) de la Réponse. Au sujet de la somme de 18 695 $ mentionnée à l'alinéa 4i) de la Réponse, il soumet que le montant pour l'année 1998 devrait être 8 880 $ pour être en conformité avec le montant mentionné à l'alinéa 4 i)iv) de la Réponse.
+[7] Au sujet de l'alinéa 4e) de la Réponse, le représentant répond qu'il manquait des factures et qu'ainsi il y avait peut-être des lacunes.
+[8] En ce qui concerne l'alinéa 4h) de la Réponse, le représentant répète à nouveau que le montant de revenu non déclaré pour l'année 1998 devrait être 8 880 $ et non 18 695 $.
+[9] En contre-interrogatoire, M. Labonté reconnaît avoir signé une entente proposée par la vérificatrice en date du 22 août 2001 et déposée comme pièce I-1. Cette entente décrit les redressements qui sont rapportés à l'alinéa 4h) de la Réponse.
+[10] Au sujet de cette acceptation, M. Labonté présente un extrait du rapport de l'agent des appels comme pièce A-1. Il souligne le passage suivant de ce rapport :
+... Il est vrai que cet accord n'a aucune valeur légale et ne remplace pas une renonciation au droit d'appel et d'opposition. ...
+[11] L'avocate de l'intimée a demandé à M. Labonté de reconnaître les états financiers de l'appelante pour les trois années an cause. Ils ont été déposés comme pièce I-2. Ces états ont été déposés pour montrer le montant substantiel des dépenses qui ont été accordées puisque ce montant ne paraissait pas dans la Réponse.
+[12] M. Labonté indique à ce moment que ce qu'il a signé au sujet des dépenses lui convient et qu'il n'entend pas le contester.
+[13] La Cour lui demande alors quel est le sujet de la contestation. Il y a selon lui l'erreur du montant du revenu non déclaré pour l'année 1998. Mais il y a surtout le fait qu'il se considère taxé deux fois sur le même montant. La déduction de certaines dépenses n'est pas permise auprès de la corporation, par ailleurs ce montant a été ajouté à son propre revenu.
+[14] L'avocate de l'intimée indique à la Cour qu'en vertu du paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ), M. Labonté en tant qu'actionnaire a été cotisé sur la moitié des redressements, que la cotisation de l'actionnaire n'est pas en cause dans le présent appel et que ce dossier a été réglé.
+[15] M. Labonté exploite son entreprise depuis 1982. Il admet qu'il n'y avait aucun registre de revenus, aucun registre de dépenses, aucune pièce justificative pour 1998 et 1999 et quelques-unes pour 2000. Il explique qu'il avait un registre des transactions immobilières, indiquant le nom des deux parties, le nom du notaire, le total de la commission, et la date du contrat notarié. Ce registre qui s'appelle registre des transactions, est un registre qu'il faut tenir en vertu des règles qui s'appliquent aux courtiers en valeurs immobilières.
+[16] L'avocate du ministère produit comme pièce I-3 une lettre qui a été envoyée à M. Labonté en date du 4 octobre 2001 ayant comme objet la tenue des livres et registres.
+[17] Madame Francine Duplessis est vérificatrice à l'ADRC. Son rapport de vérification a été déposé comme pièce I-4. Étant donné que l'entreprise n'avait pas de registres comptables et pas de pièces justificatives pour les années 1998 et 1999, la vérificatrice explique qu'elle a dû se servir des états bancaires et du registre des transactions.
+[18] Comme l'entreprise avait conservé ses factures pour l'année 2000, la vérificatrice s'en est servie pour estimer les dépenses auxquelles l'entreprise pouvait avoir droit dans les années 1998 et 1999.
+[19] En ce qui concerne le montant de 18 695 $ qui a été ajouté au revenu non déclaré pour l'année 1998, la vérificatrice explique que lorsqu'elle a fait la vérification de l'année d'imposition 1998, tel que décrit à l'alinéa 4i) de la Réponse, il y avait en addition du montant de 60 863 $ concernant les contrats signés et déposés dans le compte de la société, d'autres dépôts au montant de 27 193 $ pour les mois de septembre à novembre 1997. Donc ces derniers montants auraient dû être inclus dans l'année d'imposition 1998 puisque l'année d'imposition se terminait le 31 août.
+[20] La vérificatrice relate que M. Labonté lui aurait dit qu'il s'agissait de sommes d'argent déjà incluses dans le calcul du revenu de l'année 1997. Elle a alors vérifié l'année d'imposition 1997. En incluant le montant de 27 193 $ que l'appelant prétendait avoir reçu en 1997, il y avait quand même un montant de revenu non déclaré de 9 815 $. Au lieu d'inclure 27 193 $ pour l'année 1998, elle a inclus 9 815 $. Ce montant en s'additionnant au montant de 8 880 $ fait un total de 18 695 $.
+[21] La vérificatrice explique qu'elle a accordé des montants substantiels de dépenses. Pour les années 1998 à 2000, l'appelante a réclamé des déductions aux montants respectifs de 53 645 $, 61 834 $ et 65 068 $, la vérificatrice a respectivement accordé 36 757 $, 45 236 $ et 53 756 $.
+[22] Monsieur Allen Tremblay agent des appels a témoigné. Son rapport a été déposé comme pièce I-5. Il a maintenu l'imposition des pénalités sur le revenu non déclaré parce que l'appelante avait été négligente dans sa tenue des livres.
+[23] À une question du représentant de l'appelante qui a personnellement été cotisé en vertu du paragraphe 15(1) de la Loi, le témoin explique qu'en effet cette disposition est une disposition pénalisante. Elle a pour but de prévenir les appropriations des biens de la société par l'actionnaire. Le montant approprié par l'actionnaire n'est pas accordé à titre de dépense de salaire dans la société mais par ailleurs il peut être cotisé dans les mains de l'actionnaire. Les moyens légaux de retirer de l'argent d'une société sont notamment le paiement d'un salaire ou l'émission d'un dividende.
+Arguments
+[24] Le représentant de l'appelante reprend les plaintes déjà décrites au paragraphe 12 de ces motifs, soit, d'une part, le montant de 18 695 $ au lieu du montant de 8 880 $ à titre de revenu non déclaré et d'autre part et surtout, la prétention qu'il est sujet à la double taxation.
+[25] L'avocate de l'intimée fait valoir que l'entreprise ne tenait pas de registres comptables et que pour les années 1998 et 1999, il n'y avait pas de pièces justificatives. Elle se réfère au fardeau de preuve de l'appelante et à la décision de la Cour d'appel fédérale dans Njenga c. Canada, [1996] A.C.F. no 1218 (Q.L.), au paragraphe 3 :
+Le système fiscal est fondé sur l'autocontrôle. Il est d'intérêt public que la charge de prouver le fondement des déductions et des réclamations repose sur le contribuable. Le juge de la Cour de l'impôt a statué que les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d'appuyer les réclamations qu'elles font. Nous sommes d'accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d'une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+[26] L'avocate fait valoir que malgré l'inexistence de pièces justificatives, la vérificatrice a accordé des montants substantiels.
+[27] En ce qui concerne l'imposition de la pénalité en vertu du paragraphe 163(2) de la Loi, elle fait valoir qu'elle n'a été imposée qu'à l'égard des revenus non déclarés. Elle se réfère à la décision de la Cour fédérale de première instance dans Venne c. Canada (ministre du Revenu national), [1984] A.C.F. no 314 (Q.L.), et notamment au passage suivant :
+... La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. ...
+[28] L'avocate fait valoir qu'une personne qui exploite une entreprise depuis près de 20 ans, doit savoir qu'elle doit tenir des registres comptables et conserver ses factures un certain nombre d'années. Elle se réfère à l'article 230 de la Loi :
+230(1) Livres de comptes et registres - Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d'affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d'établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[29] Elle se réfère aussi à une décision que j'ai rendue dans l'affaire Lévesque, succession c. Canada, [1995] A.C.I. no 469 (Q.L.), au paragraphe 14 :
+L'ignorance ou le défaut de s'informer adéquatement pourrait, dans certaines circonstances, être un élément suffisant pour constituer une faute lourde, dans les cas surtout où il y a un intérêt économique à demeurer dans l'ignorance. Ici, l'élément qui fait pencher la balance en faveur de l'acceptation de la position du contribuable est qu'il n'y avait aucun intérêt économique à cette omission ou à ce défaut de s'informer adéquatement.
+Conclusion
+[30] Tout au long de l'audience, le représentant de l'appelante a abordé le sujet de sa cotisation personnelle. Ce n'est malheureusement pas de cette cotisation dont il y a appel devant moi. Chaque cotisation est analysée selon son mérite respectif.
+[31] En ce qui concerne les cotisations qui sont à l'étude dans le présent appel, le représentant de l'appelante ne conteste pas l'état des dépenses tel qu'établi par la vérificatrice. En ce qui concerne le montant de 9 815 $ qui a été ajouté au revenu non déclaré pour l'année d'imposition 1998, l'explication de la vérificatrice est tout à fait satisfaisante. De plus, la pièce I-1 montre que l'appelante était d'accord avec le montant de revenu non déclaré ajouté à son revenu pour l'année 1998 ainsi qu'avec les montants des dépenses refusées.
+[32] En ce qui concerne l'imposition de la pénalité en vertu du paragraphe 163(2) de la Loi, je suis d'avis qu'elle a correctement été imposée. La preuve a révélé que l'appelante a manifesté une grande négligence dans la tenue de ses livres et une grande insouciance relativement à l'application de la Loi.
+[33] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 30e jour de décembre 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2003CCI943
+No DU DOSSIER DE LA COUR :
+2002-3503(IT)I
+INTITULÉ DE LA CAUSE :
+Immeubles Équation Inc.
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 23 octobre 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 28 octobre 2003
+DÉCISION RENDUE ORALEMENT :
+le 23 octobre 2003
+MOTIFS RÉVISÉS DU JUGEMENT :
+le 30 décembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+Jean-Guy Labonté (représentant)
+Pour l'intimée :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

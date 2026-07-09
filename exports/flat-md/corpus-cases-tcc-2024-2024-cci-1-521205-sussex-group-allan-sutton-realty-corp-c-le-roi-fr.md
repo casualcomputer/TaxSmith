@@ -1,0 +1,177 @@
+---
+title: "Sussex Group Allan Sutton Realty Corp. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521205/index.do"
+last_modified: "2024-01-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 1"
+citation2: ""
+neutral_citation: "2024 CCI 1"
+decision_date: "2024-01-08"
+language: "fr"
+item_id: "521205"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5658
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:18:20.319000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5b7bc244b33f951f7b78492551b4dd6fe82cbbe04f3175c9289102926c441eb6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sussex Group Allan Sutton Realty Corp. c. Le Roi
+
+- Citation: 2024 CCI 1
+- Decision date: 2024-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5658, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sussex Group - Allan Sutton Realty Corp. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-01-08
+Référence neutre
+2024 CCI 1
+Numéro de dossier
+2022-1462(IT)I
+Juges et Officiers taxateurs
+Jean Marc Gagnon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-1462(IT)I
+ENTRE :
+SUSSEX GROUP – ALLAN SUTTON REALTY CORP.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 novembre 2023, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge Jean Marc Gagnon
+Comparutions :
+Représentant de l’appelante :
+Brian Dougherty
+Avocat de l’intimé :
+Me Jean Murray
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel relatif à l’avis de cotisation en date du 11 février 2020 visant l’année d’imposition 2018 est par les présentes accueilli, sans dépens.
+Signé à Belleville (Ontario), ce 8e jour de janvier2024.
+« J.M. Gagnon »
+Le juge Gagnon
+Référence : 2024 CCI 1
+Date : 20240108
+Dossier : 2022-1462(IT)I
+ENTRE :
+SUSSEX GROUP – ALLAN SUTTON REALTY CORP.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Gagnon
+I. Introduction
+[1] L’appelante a interjeté appel en vertu de la procédure informelle à l’égard d’une cotisation établie en application de la Loi de l’impôt sur le revenu (LIR) par le ministre du Revenu national (ministre), pour l’année d’imposition 2018. En vertu de cette cotisation, le ministre a imposé une pénalité de 5 858 $ en application du paragraphe 227(9) de la LIR en raison de présumés versements tardifs de retenues à la source sur les salaires pour l’année d’imposition 2018 pour un total de 61 084,96 $.
+[2] Le paragraphe 227(9) de la LIR dispose ce qui suit :
+Retenue des impôts
+Défaut de remettre une retenue à la source
+(9) Sous réserve du paragraphe (9.5), toute personne qui ne remet pas ou ne paye pas au cours d’une année civile, de la manière et dans le délai prévus à la présente loi ou à son règlement, un montant déduit ou retenu conformément à la présente loi ou à son règlement ou un montant d’impôt qu’elle doit payer conformément à l’article 116 ou à une disposition réglementaire prise en application du paragraphe 215(4) est passible d’une pénalité :
+a) soit, sous réserve de l’alinéa b) :
+(i) […],
+(ii) si le receveur général reçoit ce montant :
+(A) […],
+(B) […],
+(C) […],
+(iii) si ce montant n’est pas payé ou remis au plus tard le septième jour suivant la date où il est exigible, de 10 % du montant;
+b) soit de 20 % du montant qui aurait dû être remis ou payé au cours de l’année si, au moment du défaut, une pénalité en application du présent paragraphe était payable par la personne et si le défaut a été commis sciemment ou dans des circonstances équivalant à faute lourde.
+[3] La pénalité imposée en l’espèce était de 10 %.
+[4] La décision du ministre d’imposer la pénalité découle essentiellement d’un conflit entre les parties concernant les salaires versés par l’appelante à deux employés. L’appelante a déterminé, à la fin de l’année 2018, une rémunération finale à chaque employé pour l’année. Après avoir effectué un examen des comptes de fiducie de la paie de l’appelante pour cette année-là, l’Agence du revenu du Canada (ARC) a déterminé une répartition salariale différente entre les deux employés, ce qui a entraîné une reformulation des versements de retenues sur la paie de l’appelante en vertu de la LIR et du Règlement applicable. La pénalité est fondée sur les versements tardifs de l’appelante.
+[5] L’unique actionnaire, administrateur et dirigeant de l’appelante est M. Allan Sutton. L’appelante exploite une entreprise immobilière à titre de société immobilière détentrice de permis plutôt qu’à titre de société immobilière personnelle. M. Sutton est un agent de ventes immobilières et est désigné comme la principale source de recettes de l’appelante. Mme Angela Sutton, conjointe de M. Sutton, est également employée par l’appelante. Elle est une courtière agréée agissant à titre de courtière gestionnaire aux fins des activités immobilières de l’appelante. Son statut permet à l’appelante d’être qualifiée à titre de société immobilière détentrice de permis. Grâce à Mme Sutton, l’appelante peut exercer ses activités sans dépendre d’une maison de courtage. M. Sutton décrit cet avantage comme une norme plus élevée obligeant la société à tenir des comptes de fiducie, à faire des rapports comptables, à déposer des rapports annuels auprès de la Financial Services Authority de la province. M. Sutton ajoute qu’une norme plus élevée entraîne une gouvernance à un niveau beaucoup plus élevé.
+[6] M. et Mme Sutton sont les deux employés de l’appelante. Depuis de nombreuses années, l’appelante, en vertu de l’entente conclue entre M. et Mme Sutton, détermine à la fin de l’année la contribution que chacun a apportée au succès et aux recettes de l’appelante pour l’année donnée. Selon le témoignage de M. Sutton, Mme Sutton est un ajout clé aux activités de l’appelante et, sans elle, le succès de l’appelante serait certainement différent. Elle lui permet de se concentrer sur des aspects particuliers des activités de l’appelante tout en étant chargée de toutes les autres tâches. De plus, elle l’aide à l’égard de mandats particuliers au cours de l’année. Elle peut aussi trouver des aiguillages. Pour M. Sutton, elle est un atout pour la société et mérite une juste reconnaissance.
+[7] Pour l’année 2018, l’appelante a versé de retenues sur la paie en fonction d’une estimation du salaire de chaque employé. À la fin de l’année, les deux employés ont effectué leur examen de l’année et ont déterminé un salaire en fonction de leurs contributions dans l’entreprise. Les formulaires et les feuillets prévus par règlement pour 2018 ont été déposés par l’appelante en fonction de ces résultats. En résumé, Mme et M. Sutton ont reçu une rémunération totale de 165 000 $ et de 192 000 $, respectivement.
+[8] Au moyen d’un avis de cotisation daté du 11 février 2020, le ministre a établi une cotisation à l’égard de l’appelante visant un versement tardif du solde des retenues sur la paie pour 2018 de 1 745 $ et il lui a imposé une pénalité correspondante de 10 %, soit 124 $. Cette cotisation a été établie à la suite de l’examen des comptes de fiducie par l’ARC. L’ARC a déterminé, entre autres, une répartition de rémunération différente entre les deux employés en fonction des montants déposés dans les comptes bancaires personnels de Mme et de M. Sutton sous forme de chèques reçus de l’appelante.
+[9] Une deuxième cotisation au moyen d’un avis de cotisation daté du 11 février 2020 a également été établie à l’égard des versements des retenues sur la paie de l’appelante pour 2018 strictement pour imposer une pénalité pour versement tardif de 10 %, soit 5 858 $. Cette deuxième pénalité concerne une réaffectation des versements mensuels de retenue sur la paie par l’ARC que l’appelante aurait dû faire en fonction de la nouvelle répartition de la rémunération entre les deux employés. Seule cette deuxième cotisation fait l’objet d’un appel.
+[10] Le présent appel vise à trancher une pénalité. L’intimé a reconnu à l’audience que le fardeau de la pénalité incombe à la Couronne. Cela signifie que, si la réaffectation de la rémunération déterminée par l’intimé est erronée ou, devrais-je dire, n’est pas établie par l’intimé, il n’y a pas lieu de maintenir la pénalité.
+[11] L’intimé n’a cité aucun témoin pour étayer sa thèse. L’avocat de l’intimé a confirmé que le seul fondement pour le ministre de procéder à cette nouvelle détermination de la rémunération entre les deux employés s’appuie sur le seul examen des relevés bancaires de l’appelante, des copies des chèques de l’appelante et à l’ordre de qui les chèques étaient établis. Selon ce seul examen, les chèques et relevés bancaires confirmaient que le montant total de la rémunération des deux employés était déposé dans le compte bancaire personnel de M. Sutton, sauf un montant total de 12 675 $ qui a été déposé dans le compte bancaire personnel de Mme Sutton.
+[12] La Cour n’a entendu aucun agent ou employé de l’ARC. Au cours de l’examen des comptes de fiducie par l’ARC, l’appelante n’a pas été appelée ni invitée à expliquer les motifs à l’appui de l’option de paiement retenue par l’appelante, ni Mme Sutton, ni M. Sutton, ni leur comptable.
+[13] Pour la Cour, la procédure suivie par l’ARC consistant à procéder à l’examen n’est pas la plus convaincante. La procédure indique clairement un examen sélectif, ce qui donne l’apparence d’un examen partiel seulement du contexte réel. Cela ressort particulièrement de l’absence de tout témoignage de l’ARC pour étayer sa thèse et de tout contact pendant la vérification des comptes de fiducie avec les parties intéressées. Cela est plutôt problématique dans un contexte où le fardeau incombe à l’intimé.
+[14] Mme et M. Sutton ont témoigné à l’audience. La Cour estime que les deux sont crédibles. Tous deux ont démontré une connaissance de l’entreprise de l’appelante et ont été en mesure d’expliquer en termes raisonnables les considérations relatives à leur décision de fixer la rémunération versée par l’appelante.
+[15] M. Sutton a été le premier à témoigner. En résumé, le témoin n’a pas nié les montants qui leur ont été versés par l’appelante. Il a exposé la façon dont ils s’entendent sur leur rémunération et le moment auquel ils le font. Il signe les chèques de l’appelante. La Cour comprend qu’il s’agit d’une entreprise relativement petite et que, compte tenu de la volatilité des marchés, il peut être difficile de prévoir une juste rémunération sans savoir ce qui a été réalisé par chacun d’eux avant la fin de l’année. Il a expliqué les raisons pour lesquelles sa conjointe recevait une petite rémunération mensuelle versée directement à cette dernière et quelle était l’origine de ce montant. Mme Sutton confirme également les mêmes raisons pour lesquelles sa rémunération est un honoraire mensuel, soit l’honoraire qu’elle facturait à d’autres sociétés immobilières en contrepartie de ses services de courtage de base.
+[16] Il n’a pas nié que les deux rémunérations ont effectivement été déposées par l’intermédiaire de son compte bancaire personnel sous forme d’un seul chèque qu’il signe en fonction des flux de trésorerie disponibles de l’appelante, de temps à autre. Il n’a pas confirmé que le dépôt était le sien seul. Il a également confirmé que la procédure aurait pu être différente et qu’il aurait pu signer deux chèques. Il n’estimait pas que cela était déterminant dans la mesure où ils s’entendent tous deux sur la procédure et la répartition finale qu’ils déterminent à la fin de l’année. Pour lui, les dépôts dans un seul compte et le droit à une rémunération équitable étaient distincts et l’un n’était certainement pas un gage de l’autre.
+[17] Le témoignage de Mme Sutton portait sur sa propre compréhension de sa rémunération. Elle a été relativement brève, mais claire et véridique. La Cour n’a pas cru que son rôle était marginal, mais qu’elle était une véritable employée à qui une rémunération doit être versée en contrepartie d’un véritable rendement. Selon son témoignage, son rendement de travail dans l’ensemble pouvait varier au cours des années et elle devait assumer, chaque année, ses responsabilités à titre de courtière agréée.
+[18] Mme Sutton a expliqué que, pour elle, le fait que sa rémunération soit déposée dans le compte bancaire personnel de son conjoint ne constitue pas une préoccupation. Elle a pu bénéficier de cet argent. Elle a indiqué clairement qu’elle consentait à cette entente et elle a autorisé que l’argent soit déposé dans un seul compte. Voici la façon dont elle a expliqué la situation : [traduction] « […] Je recevais de l’argent de façon constructive par l’intermédiaire de notre compte […]. Donc, le compte paierait mes factures directes personnelles, mon visa, et il payait aussi nos dépenses partagées. »
+[19] Le contre-interrogatoire n’a pas permis à l’intimé de démolir les thèses exprimées par les deux témoins. Il n’est cependant pas exclu que la pièce A-1 et la pièce A-7 déposées par l’appelante démontrent une certaine divergence quant à la détermination exacte du salaire versé à chaque employé. Cela s’explique notamment par le fait confirmé par Mme Sutton au sujet du pourcentage des dépenses communes qu’elle a supportées en 2018. Elle a confirmé que sa part des dépenses communes était de 11 % et non de 50 %. Cette confirmation pourrait être fausse ou exacte. Pour cette raison, la répartition telle que déterminée à l’origine entre l’appelante et les employés serait alors erronée.
+[20] Nonobstant le paragraphe qui précède, il demeure clair pour la Cour que la rémunération versée à Mme Sutton en 2018, dépassait 12 675 $. Le fait qu’une telle rémunération a été en partie versée à Mme Sutton par l’intermédiaire du compte bancaire de M. Sutton n’empêche pas la thèse de Mme Sutton et de l’appelante selon laquelle elle a touchait une rémunération de l’appelante. Étant donné que les éléments de preuve étayent le fait que Mme Sutton a autorisé que les montants soient versés dans le compte bancaire de M. Sutton, qu’elle tirait toujours un avantage du dépôt dans ce compte, et qu’elle avait un droit inconditionnel de se faire payer la rémunération, le principe de la recette présumée s’applique.
+[21] Le principe de la recette présumée, aux fins de la LIR, comporte deux facteurs centraux qui permettent à un contribuable de [traduction] « recevoir » des fonds même s’il ne les a pas directement [traduction] « entre ses mains ». Selon le paragraphe 5 (1) de la LIR, le revenu est un salaire tiré par un contribuable au cours d’une année. La jurisprudence a rappelé que le mot [traduction] « recevoir » signifie obtenir ou tirer un avantage de quelque chose, donc [traduction] « en jouir sans nécessairement l’avoir entre les mains »[1]. En outre, une somme d’argent est réputée être reçue par un employé lorsqu’elle est à sa disposition[2]. La décision Blenkarn offre un exemple où l’argent pour payer le salaire du contribuable en 1960 était disponible [pour le contribuable], mais il a volontairement choisi de ne pas être payé avant 1961. Le contribuable a été considéré comme ayant réellement reçu l’argent parce que le paiement était considéré comme [traduction] « reçu » dès qu’il avait un droit inconditionnel d’être payé, soit en 1960.
+[22] Dans la décision Markman[3], la Cour a déclaré que, lorsqu’une somme est versée par un employeur à un tiers au bénéfice du contribuable, le paiement constitue une recette présumée entre les mains du contribuable. Dans la décision Belusic[4], le juge Bowman a souligné que, pour conclure à l’existence d’une recette présumée, il faut satisfaire à l’une ou l’autre des deux conditions suivantes, ou aux deux :
+1)L’appelante devrait autoriser le paiement ou, en tout état de cause, y consentir
+2)Même dans l’éventualité où elle n’avait pas autorisé le paiement ou n’y avait pas acquiescé, il aurait fallu au moins qu’il ait l’obligation légale d’effectuer le remboursement de sorte que le paiement […] avait pour effet de le libérer de cette obligation
+[23] Les facteurs énoncés par le juge Bowman pour conclure à l’existence d’une recette présumée ont été cités dans des affaires ultérieures. Plus récemment, la Cour, dans la décision Sherman[5], en citant la décision Morin, a énoncé que, selon la théorie de la recette présumée, le prestataire n’a pas reçu le montant en question, mais n’a reçu qu’un avantage correspondant. Ces notions ont été reprises par la Cour d’appel fédérale dans l’arrêt Cheema[6], citant l’arrêt Innovative Installation[7], qui a conclu que la recette présumée pouvait s’appliquer lorsqu’une personne avait un droit contractuel à recevoir un paiement.
+[24] La Cour estime que les éléments de preuve dans le présent appel soutiennent le fait que la recette présumée s’applique à l’égard de la rémunération que Mme Sutton a reçue de l’appelante.
+[25] Tel que cela a été mentionné précédemment, même si la Cour ne peut confirmer la rémunération exacte reçue par Mme Sutton, et indirectement par M. Sutton, il demeure évident que la rémunération utilisée par l’ARC pour imposer la pénalité est erronée.
+[26] Dans l’arrêt Simard[8], la Cour d’appel fédérale a fourni des éclaircissements sur la compétence de la Cour en matière d’imposition et de détermination de pénalités. L’arrêt Simard portait sur les pénalités pour faute lourde en vertu du paragraphe 163(2) de la LIR. Toutefois, la Cour d’appel fédérale a utilisé un libellé large dans ses commentaires sur la mesure dans laquelle la Cour peut intervenir dans l’imposition de pénalités. La Cour d’appel a déclaré ce qui suit :
+La décision du ministre à l’égard d’une pénalité peut être attaquée par voie d’appel devant la Cour canadienne de l’impôt à l’encontre de la cotisation qui la prélève, mais dans la mesure où la Cour constate que les faits y donnent ouverture, elle ne peut que la confirmer. En tant que ministre, la Cour n’a aucune discrétion quant au montant de la pénalité, pas plus qu’elle n’en a concernant les intérêts.
+[27] Dans la décision Portland[9], le juge Mogan a déclaré ce qui suit :
+Les obligations de retenir sont rigides, et celles de remettre les sommes sont également rigides. La pénalité prévue au paragraphe 227(9) est prescrite par la loi, et la Cour n’a pas la compétence de réduire cette pénalité ou de l’annuler, parce qu’elle est imposée par le législateur. Si l’on satisfait aux conditions qui déclenchent l’application de la pénalité (versement tardif), alors l’obligation est établie.
+[28] Le rôle de la Cour consiste à déterminer si la pénalité a été ou non valablement imposée. Il n’y a pas d’autre question en appel. De plus, ajuster le montant d’une pénalité donnée outrepasserait la compétence de la Cour. Pour ce motif, il est déterminé que les éléments de preuve en l’espèce ne permettent pas de conclure que les conditions d’imposition de la pénalité déterminées par le ministre ont été établies. En effet, la rémunération reçue par les employés et utilisée par le ministre pour imposer la pénalité est erronée et entraîne nécessairement une pénalité erronée.
+[29] Compte tenu de ce qui précède, les faits du présent appel ne donnent pas lieu à la pénalité établie par le ministre. La Cour n’a aucun pouvoir en matière de pénalité, autre que d’accueillir (refuser la pénalité) ou de rejeter (confirmer la pénalité) l’appel. Par conséquent, l’appel est accueilli, sans dépens.
+Signé à Belleville (Ontario), ce 8e jour de janvier2024.
+« J.M. Gagnon »
+Juge Gagnon
+Traduction certifiée conforme
+ce 20e jour d’août 2019.
+Crystal Simard
+RÉFÉRENCE :
+2024 CCI 1
+NO DU DOSSIER DE LA COUR :
+2022-1462(IT)I
+INTITULÉ :
+SUSSEX GROUP – ALLAN SUTTON REALTY CORP. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 30 novembre 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Jean Marc Gagnon
+DATE DU JUGEMENT :
+Le 8 janvier 2024
+COMPARUTIONS :
+Représentant de l’appelante :
+Brian Dougherty
+Avocat de l’intimé :
+Me Jean Murray
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Morin c. The Queen, [1975] CTC 106 [Morin].
+[2] Blenkarn c. MNR, 63 DTC 581 [Blenkarn].
+[3]Markman c. MRN, [1989] 1 CTC 2381 [Markman].
+[4]Belusic c. Canada, [1997] 3 CTC 2908 [Bélisic].
+[5] Sherman c. Canada, 2008 CCI 487 [Sherman].
+[6] Canada c. Cheema, 2018 CAF 45 [Cheema].
+[7] Canada c. Innovative Installation Inc., 2010 CAF 285 [Innovative Installation].
+[8]Canada (Procureur général) c. Simard, 2003 CAF 427 [Simard].
+[9] Portland Hotel Society c. The Queen, 2004 CCI 64 [Portland].

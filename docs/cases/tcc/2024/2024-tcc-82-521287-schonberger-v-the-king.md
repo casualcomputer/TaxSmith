@@ -1,0 +1,318 @@
+---
+title: "Schonberger v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521287/index.do"
+last_modified: "2024-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 82"
+citation2: ""
+neutral_citation: "2024 TCC 82"
+decision_date: "2024-05-31"
+language: "en"
+item_id: "521287"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5707
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:17:21.678000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "87c270e895c1d8696b82517095b7ffb84f03c9a41480fe1d8e54767418a3fb5d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schonberger v. The King
+
+- Citation: 2024 TCC 82
+- Decision date: 2024-05-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5707, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schonberger v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-31
+Neutral citation
+2024 TCC 82
+File numbers
+2018-4865(IT)G, 2018-4866(IT)G
+Judges and Taxing Officers
+Jean Marc Gagnon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-4865(IT)G
+BETWEEN:
+HELEN SCHONBERGER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of Tommy Schonberger 2018-4866(IT)G on June 12 and 13, 2023, at Toronto, Ontario
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Katie Beahen
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal made in respect of the Notice of Assessment dated October 18, 2017 under section 160 of the Income Tax Act, is hereby dismissed, with costs. There shall be one set of costs payable by the Appellants to the Respondent.
+Signed at Ottawa, Canada, this 31st day of May 2024.
+“J. M. Gagnon”
+Gagnon J.
+Docket: 2018-4866(IT)G
+BETWEEN:
+TOMMY SCHONBERGER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of Helen Schonberger 2018-4865(IT)G on June 12 and 13, 2023, at Toronto, Ontario
+Before: The Honourable Justice Jean Marc Gagnon
+Appearances:
+Counsel for the Appellant:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Katie Beahen
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal made in respect of the Notice of Assessment dated October 18, 2017 under section 160 of the Income Tax Act, is hereby dismissed, with costs. There shall be one set of costs payable by the Appellants to the Respondent.
+Signed at Ottawa, Canada, this 31st day of May 2024.
+“J. M. Gagnon”
+Gagnon J.
+Citation: 2024 TCC 82
+Date: 20240531
+Docket: 2018-4865(IT)G
+BETWEEN:
+HELEN SCHONBERGER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2018-4866(IT)G
+AND BETWEEN:
+TOMMY SCHONBERGER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent
+REASONS FOR JUDGMENT
+Gagnon J.
+I. Introduction
+[1] These are two appeals, heard at the same time and under common evidence, by Mrs. and Mr. Schonberger each from an assessment made by the Minister of National Revenue (Minister) under section 160 of the Income Tax Act [1] in respect of the dividends received by each of them, during the relevant period, from Graycove Developments Inc. (Corporation). According to each Notice of assessment dated October 18, 2017 (Assessment/Assessments), the Corporation owed then a total debt to the Crown in an amount of no less than $245,398 for the Corporation’s 2010, 2011, 2012 and 2013 taxation years. The amounts of alleged corporate liabilities on which the Minister has assessed Mrs. and Mr. Schonberger include interest that the Minister accrued on the Corporation’s relevant assessments until October 18, 2017.
+II. Facts and Assumptions of Facts
+[2] At all relevant times, Mrs. and Mr. Schonberger were each 50% shareholders in the Corporation, and they were the only officers and directors of the Corporation.
+[3] The Corporation’s financial statements for the financial years ending the last day of February of 2010, 2011, 2012 and 2013 were all finalized around September 10-13, 2013. All Corporation’s corresponding income tax returns were filed in the following weeks, and were ultimately assessed on October 8, 2013 by the Minister. The Corporation’s income tax return for the taxation year ending February 28, 2014, and showing a loss, was ultimately filed after January 5, 2016. The Corporation’s loss of the 2014 taxation year was subsequently carried back to its 2011, 2012 and 2013 taxation years.
+[4] Each of Mrs. and Mr. Schonberger received annual dividends from the Corporation. During the Corporation’s 2010, 2011, 2012 and 2013 financial years, the Corporation declared and paid to each shareholder a dividend of $107,500, $113,000, $113,250 and $65,500, respectively.
+[5] The Reply states that the Minister made the following assumptions of fact in assessing liability of the Appellants:
+A.Each Appellant is a shareholder of the Corporation, and the Appellants held the Corporation jointly;
+B.the Corporation had a February 28 year end;
+C.the Corporation paid each Appellant dividends as follows:
+Ending Taxation Year
+Dividend
+2010
+$107,500
+2011
+$113,000
+2012
+$113,250
+2013
+$65,500
+D.no consideration was given by the Appellants to the Corporation in exchange for the dividends;
+E.the Corporation owed amounts under the ITA as follows:
+Assessment Date
+Corporation Tax Year
+Tax
+Penalty
+Interest
+Total
+April 20, 2017
+2013
+$8,291.00
+$3,517.98
+$7,869.57
+$19,678.55
+April 20, 2017
+2012
+$5,781.00
+$3,908.98
+$4,272.34
+$13,962.32
+February 5, 2016
+2011
+$0.00
+$4,077.11
+$9,556.02
+$13,633.13
+October 28, 2014
+2010
+$114,006.62
+$20,936.01
+$63,181.55
+$198,124.18
+TOTAL
+$128,078.62
+$32,440.08
+$84,879.48
+$245,398.18
+F.the Corporation incurred a loss in its 2014 taxation year, which was carried back to reduce Part I tax in 2011 and 2012 to nil and to $5,884 in 2013. As a result, the Corporation’s provincial tax liability was reduced to nil in 2011 and 2012 and to $2,407 in 2013.
+III. Issue in Dispute
+[6] The issue under appeal is whether the Minister correctly assessed the Appellants under section 160 ITA.
+IV. Position of the Parties
+[7] The Appellants submit that they should not be held liable for the Corporation’s failure to pay the income tax owed to the Minister.
+[8] The position of the Appellants is twofold. First, the underlying Corporation’s reassessments are too high, that on consideration of the economic reality of the taxpayers' income in the years concerned, there ought not to have been, regardless of the reassessments, a liability for which the Appellants were liable. Second, in respect of the Assessments, the Appellants submit, recognizing the long line of authority that what the nature of consideration is, that it may be time to revisit whether or not the taxpayers were ceded dividends in the absence of the payment of any salary, was a consideration that was a gratuitous transfer.
+[9] The Respondent argues that the Minister correctly assessed the Appellants pursuant to section 160 ITA for $245,398. Each Appellant, as shareholders, received dividends from the Corporation totalling $399,250 during the relevant period. The Appellants gave no consideration to the Corporation in exchange for the dividends. At the time each annual dividend was paid, the Corporation had liability arising under the ITA in respect of the relevant period totalling at least $245,398 for its 2010, 2011, 2012 and 2013 taxation years. Considering the annual tax liability incurred by the Corporation in each given year in the relevant period at the time the annual dividend was paid and the amount of the corresponding dividend paid to the Appellants each such year, the Appellants are liable under section 160 for $245,398, being the lesser of the Corporation’s debt and the amount of the dividends paid.
+[10] In Manna [2], Justice Lafleur discussed who bears the burden of showing that the underlying assessments are incorrect. In short, the general rule is that a taxpayer bears the onus of establishing that an assessment or reassessment is incorrect, subject to an exception where the facts concerning the underlying assessments are exclusively within the knowledge of the Minister, the onus will then be shifted to the Minister to show the correctness of the underlying assessment. She wrote:
+[30] For the following reasons, I am of the view that the Appellant bears the burden of showing that the underlying assessments were incorrect.
+…
+[32] As indicated very recently by Justice D’Auray in Monsell v The Queen, 2019 TCC 5, [2019] T.C.J. No. 19 (QL), the general rule is that a taxpayer “bears the onus of establishing that an assessment or reassessment is incorrect” (para. 22). As an exception to that general rule, where the facts concerning the underlying assessments are exclusively within the knowledge of the Minister, the onus will then be shifted to the Minister to show the correctness of the underlying assessment. Justice Paris summarized the applicable principle in Mignardi v The Queen, 2013 TCC 67, [2013] T.C.J. No. 66 (QL) (para. 41), as follows:
+[41] I return now to the proposition that appears to flow from the Gestion Yvan Drouin Inc. case that the Minister bears the onus to prove the underlying tax liability in every appeal from a derivative liability assessment under subsection 160(1) or section 227.1 of the ITA or sections 323 or 325 of the ETA. I agree with respondent’s counsel that such a conclusion is inconsistent with the decisions of the Supreme Court and Federal Court of Appeal to which I have referred. It is only where the facts concerning the underlying tax debt are exclusively or peculiarly within the knowledge of the Minister that the burden will be shifted. Each case will turn on its own facts. Although there may be situations where the tax liability of the original tax debtor is something that is solely within the knowledge of the Crown, more often a taxpayer will have access to that information from the original tax debtor. It should be recalled that one of the bases on which a person is assessed under those provisions is his or her relationship with the tax debtor, either as in this case as a director of the debtor corporation or as a party not dealing at arm’s length with the tax debtor. As a result of this relationship, a taxpayer may very well already have or be able to obtain the information required to verify the existence or amount of the underlying liability.
+[Emphasis added.]
+[Emphasis in original.]
+[11] The Corporation was originally assessed the tax under the ITA as filed, and subsequently reassessed following objections filed. The reasons raised by the Appellants for reconsidering the Corporation’s reassessments under the ITA are closely linked to the position adopted by the Corporation itself when filing its income tax returns. Such situation is clearly not exclusively or peculiarly within the knowledge of the Minister. Therefore, the burden will remain with the Appellants to show that the underlying reassessments were, on the balance of probabilities, incorrect.
+V. Evidence
+[12] Counsel for the Appellants called Mrs. and Mr. Schonberger as witnesses. The Appellants did not call any other witness to testify or support their position. The Respondent called Ms. Zita Parry. Ms. Parry was the agent at the Appeals Division at the relevant time dealing with the Corporation’s objections.
+[13] Mrs. Schonberger’s testimony was short. She described her occupation as a housewife. She has no training in tax or accounting. Her involvement with the Corporation was essentially helping with the decorations and choosing the colour for the model homes, fabrics, etc. Otherwise, Mrs. Schonberger took care of the family and their home in order to enable Mr. Schonberger to devote all his time to their businesses. Mrs. Schonberger did not give the impression of someone being aware of details or even general information regarding the administration or financial aspects of the Corporation.
+[14] Mrs. Schonberger never met the Corporation’s accountants or the bookkeeper, and admitted to not having much knowledge about the financial situation of the Corporation. Her knowledge about the dividends paid by the Corporation is virtually non-existent.
+[15] Her cross-examination was also short. She confirmed being a 50% shareholder in the Corporation, and agreed to having received dividends from the Corporation in 2010 through 2013 but cannot confirm with certainty the amounts received. Mrs. Schonberger confirmed to never being involved with numbers. She confirmed that the information provided by Mr. Schonberger is correct. She saw Mr. Gerry Hood, the bookkeeper at Mr. Schonberger’s office but never met with him.
+[16] Mr. Schonberger’s testimony was longer. He has been in the construction business for about 40 years, and built over 300 houses and other constructions. It was his own business. He has been retired for the last six or seven years. Mrs. and Mr. Schonberger have been married for over 48 years now.
+[17] Mr. Schonberger confirmed that the Corporation was in the business of developing land, building houses, and selling them. He was approving everything from financing, trading, purchasing to selling and invoicing. He was a director, the president and secretary of the Corporation. For all his affairs, he did not take business trainings:
+A. It was strictly construction. I didn't take business training. It was -- I always had a head for business, but I didn't take a course with accounting or management or anything. It was just strictly related to construction, how to build a house, trusses and other things that are related to the actual building of a house.
+[18] And for the business’s bookkeeping and accounting, Mr. Schonberger added:
+I know nothing about accounting. I had a bookkeeper who did all -- using QuickBooks, did all the journal entries. He prepared all the cheques. I approved all the invoices. Once I approved the invoices he would enter them, and he would pay them as was required. He -- once I approved the invoices he would prepare the cheques, and I would sign the cheques, and my receptionist would send the cheques out. I had no idea, you know -- I don't even know how to use QuickBooks. I never used it. I relied solely on my bookkeeper.
+[19] The Corporation’s bookkeeper was with Mr. Schonberger for about 10 years, but not anymore. He believes the bookkeeper might be leaving in Peterborough.
+[20] Once the bookkeeper prepared all the books and accountant entries for the Corporation’s operations, Mr. Schonberger met with his accounting firm for financial statements and income tax returns:
+… and he would prepare -- he would prepare the tax receipt, the tax returns. I would go to his office and he would tell me, 'Sign here,' and I would sign -- I would sign, and he would send it.
+[21] Mr. Schonberger then went through some pages of Tab 11 of the Appellants’ Book of Documents. This tab relates to the Corporation’s journal entries in the General Ledger including about suppliers having charged the Corporation for services or goods. He gave some additional facts to describe each construction project mentioned in the General Ledger. But such information was high level, and as for numbers and specific accounts and entries under each project listed nothing specific was explained or confirmed. And, this part of Mr. Schonberger’s testimony did not last long, just for a few questions essentially repeating the numbers requested by counsel. No explanation behind the Corporation’s financial situation or accounting entries was provided except for confirming that the Corporation did not pay some suppliers. No mention about the suppliers’ position was raised or addressed.
+[22] Mr. Schonberger then went on to identify a list of suppliers that he remembered as he did not remember them all. He was asked to move to Tab 12 of the Appellants’ Book of Documents. It was confirmed that this document was not prepared by Mr. Schonberger. Again, no mention about the suppliers’ position was raised or addressed.
+[23] The Court understands that Tab 12 contained a list of accounts payable organized under each name’s project with suppliers’ names under each project. Mr. Schonberger has been asked to describe the skills of each supplier. Only a few were omitted most of the time because the supplier was too small.
+[24] Details about numbers or the particular situation of each supplier were not discussed, just general reference to the fact that the accounts were not paid by the Corporation over the years. As to how these accounts were treated in the Corporation’s accounting records, Mr. Schonberger said:
+They showed up as accounts payable for years and years and years, 'til Gerry told me that by law I have to -- I can't carry it further, so, you know, after a certain period of time I have to take it into income. So again, knowing nothing about account, I said, 'Gerry, do what you have to do.' And he -- I guess he prepared it, took it into income, and he passed it on to the accountant, and the accountant filed it.
+[25] And as to whether he approved the financial statements of the Corporation, Mr. Schonberger added:
+Truth be told, I relied strictly on my bookkeeper, my accountant. I'm not well versed in accounting, and I -- you know, you're only as good as the people you have, and I had them for 40 years and never had a problem, and I relied on them, and when the accountant told me, 'This is your return,' you know, I signed it and he sent it in. I didn't -- I didn't question anything he said. I strictly -- I relied -- I've known -- I've known them for 40 years. I strictly relied on everything they told me.
+[26] Now turned to Tab 2 of the Appellants’ Book of Documents dealing with financial statements of the Corporation, Mr. Schonberger confirmed that he did not know why the Corporation’s 2010 financial statements were prepared more than 3 years after the Corporation’s February 28, 2010 financial year.
+[27] Mr. Schonberger went through the same exercise he did with the 2010 financial statements with the financial statements as at February 28, 2011, 2012 and 2013, where the witness was asked to confirm the Notice to Reader, the date the statements were prepared, name of the accounting firm, cash, advances to related parties, numbers for liabilities, revenues, expenses, income before taxes, income taxes payable, dividends paid.
+[28] The Court notes that all answers from Mr. Schonberger were essentially to confirm the number that appears in the financial statements. In other words, the witness did not provide information supporting the reasons why these numbers were what they appeared to be. The Court understands from the witness’s testimony that it was his advisors’ responsibility.
+[29] Mr. Schonberger confirmed (i) the contact person for the 2014 income tax return was his bookkeeper and (ii) a few numbers in Schedule 100 numbers (Balance sheet information), in the Corporate Taxpayer Summary. Again, the witness basically only confirmed numbers on various lines without providing further explanations or background.
+[30] Mr. Schonberger finally explained how he and his spouse were ultimately paid dividends:
+I didn't take a salary. I didn't take a cheque. I would take draws as I needed money to live, and whatever I took -- whatever I took at the end of the year, I went to the accountant -- Gerry put the figure together, and the accountant would allocate it to me as a dividend, what I took in a year.
+[31] Mr. Schonberger’s cross-examination confirmed the Appellants being the sole shareholders of the Corporation 50-50, and the declaration and payment of dividends from the Corporation to the Appellants in each of 2010 through 2013 taxation years. Mr. Schonberger admitted that:
+the accounts payable were to be included in the Corporation’s income and that advice can from his bookkeeper. He did not question this advice with his bookkeeper or his accountants; and
+the Corporation did not have the assets to cover the debt owed to the Minister.
+[32] About the moment the CRA assessed the Appellants for the Corporation’s unpaid debt, Mr. Schonberger answered:
+I didn't think that I was liable, because since I didn't draw a salary, to me it looked like I was being compensated for my work by the -- and he gave it to me as a dividend, so in my wildest dream I didn't think that I'd be liable for a corporation taxes. I looked at it as payment for my work.
+[33] The testimony of Ms. Parry as Appeals officer confirmed that the Minister following the objections filed by the Corporation for its 2010, 2011, 2012 and 2013 taxation years made adjustments on the Corporation’s 2010, 2011 and 2013 taxation years to reduce the overstated debts by the amount of the two accounts receivable from Forest Trim and Trillium Masonry Group. According to her, the exercise did not require any adjustments for the 2012 taxation year. She explained making these adjustments based on the following:
+As an appeals officer, I am to review the documentation that's set forth in front of me by the taxpayer or in this case the representative, and there was sufficient amount of material -- materiality to adjust those two amounts, those two taxes, to accounts receivable on their tax returns.
+[34] And, as for the possibility to allow any other adjustment in respect of the Corporation’s accounts payable argument, Ms. Parry added “No, there was no documentation to support any other further adjustments, although it was requested.”
+[35] The agent then was asked about the loss declared by the Corporation in its 2014 income tax return. The loss was recognized and carried back to the 2011 taxation year (third year prior to the 2014 taxation year) as requested by the taxpayer (confirmed by notice of reassessment dated February 5, 2016) but a delay was noticed in applying the remaining of the loss as requested to the Corporation’s 2012 and 2013 taxation years (confirmed by notices of reassessment dated April 20, 2017). Tab 3 and 4 of the Respondent’s Books of Documents confirmed this information.
+[36] During her cross-examination, Ms. Parry was questioned about the result of her work during the objection process and more specifically, whether she reviewed financial statements and amount of accounts payable for the taxation years under objection. In her answers, she referred to rely on filings from the Corporation and on specific amounts raised by the Appellants, and that other amounts were not under review by the Appeals Division. The Court understands from her position that it was not her role to review all information from the taxpayer and to draw conclusions, if such conclusions are not raised at the objection level by the taxpayer to begin with. Her role was not to find the treatment the taxpayer might be entitled to but to address what is specifically requested by the taxpayer at the objection level. She did not challenge the Corporation’s filing returns and information except to review the specifics of the objection only. She also explained on how the Appeals Division was satisfied by the documentation supplied was sufficient to prove that there was an error from the Corporation’s annual filings. She confirmed that at the Appeals Division the taxpayer has to justify on the balance of probabilities that an adjustment is needed to be made. And, that objections are only reviewed on what was requested by the taxpayer. She had a vague recollection about reviewing the Corporation’s 2010, 201, 2012 and 2013 financial statements for purposes of the objection, likely she did it relating to Forest Trim and Trillium Masonry Group as requested by the Corporation and to confirm the adjustments to be made following her review.
+[37] The Appellants’ counsel insisted on the fact that the final reassessments in the file are not included in the Appellants’ or the Respondent’s Book of Documents. The auditor disagreed. She was of the view that the information in Tab 1, Tab 2, Tab 3 and Tab 4 of the Respondent’s Book of Documents reflect the content of the reassessments for 2010 being the last reassessment dated October 28, 2014, for 2011 being the last reassessment dated February 5, 2016, and for 2012 and 2013 being the last reassessments dated April 20, 2017.
+VI. Analysis
+[38] Considering the issue in dispute, the sole relevant provision is subsection 160(1) ITA:
+Tax liability re property transferred not at arm’s length
+(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person’s spouse or common-law partner or a person who has since become the person’s spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally, or solidarily, liable to pay a part of the transferor’s tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted for it, and
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[39] And, based on the circumstances of this case and the position adopted by the Appellants, the conditions of subsection 160(1) ITA that need to be reviewed in order to dispose of the appeal are the following:
+the Corporation has transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to a person with whom the Corporation was not dealing at arm’s length.
+If so, each Appellant and the Corporation are jointly and severally liable to pay under the ITA an amount equal to the lesser of:
+(i) the amount, if any, by which the fair market value of the transferred property at the time of transfer exceeds the fair market value at that time of the consideration given for the property by the Appellant, and
+(ii) the total of all amounts each of which is an amount that the Corporation is liable to pay under the ITA (including, for greater certainty, an amount that the Corporation is liable to pay under this section, regardless of whether the Minister has made an assessment under section 160 ITA for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year.
+[40] The Court does not believe that there is any dispute in this case about whether the Corporation transferred property directly to each Appellant or whether the chronological sequence of dividends is sufficient to cover, as referred to in paragraph 160(1)(e) ITA, the Corporation’s tax liability in or in respect of the taxation year in which the dividend was paid or any preceding taxation year. The lawful declaration of the dividends was not raised. Dividends were declared and paid to the Appellants in 2010, 2011, 2012 and 2013 based on entitlement between the two shareholders, which is 50-50 in this case. [3] And, whether each Appellant deals at arm’s length with the Corporation is clear. Both Appellants, as husband and wife and as the sole shareholders of the Corporation, are not dealing at arm’s length with the Corporation for purposes of the ITA. [4]
+[41] Therefore, the dispute among the parties is whether the Appellants can be found liable under section 160 ITA for any portion of the Corporation’s tax liability for its 2010, 2011, 2012 and 2013 taxation years. On this specific point, the Appellants first argue that the underlying Corporation’s assessments are too high. Second, the Appellants submit, recognizing the long line of authority, that what the nature of consideration is, that it may be time to revisit whether the Appellants were ceded dividends in the absence of the payment of any salary, was consideration that was a gratuitous transfer.
+[42] With respect to the Appellants’ first point, the Court accepts that the Appellants are allowed to legitimately challenge the underlying Corporation’s reassessments for the 2010, 2011, 2012 and 2013 taxation years. The Corporation’s action or inaction in this respect does not preclude the Appellants to do so under this appeal. [5] Counsel for the Appellants described the liability of a transferee under section 160 ITA being not the amounts on the face of the underlying assessment but for liability under the ITA. I can accept that, but it cannot be ignored that the way the liability of the transferor is to be challenged is to challenge the underlying assessment itself that reflects the basic amount of the liability under the ITA. In other words, the assessment must be challenged if a taxpayer believes the tax liability under the ITA being incorrect.
+[43] It is worth noting that the Corporation’s income tax filing for 2010, 2011, 2012 and 2013 taxation years were late. Income tax returns for all these years were filed after the financial statements for such years were prepared. The financial statements for all four years are dated September 13, 2013. Valid objections against the four initial assessments by notice dated October 8, 2013 were filed by the Corporation on or about January 6, 2014, and representations submitted with respect to the underlying notices of assessment. The Corporation’s position in each notice of objection against each of these years was then that in each year the Corporation’s income (as filed) was overstated by amounts of accounts payable which were included in income and which were not income received in the year.
+[44] The notices of objection were followed by discussions with the Appeals Division and written representations were sent dated September 3, 2014. The Corporation’s representations were essentially referring to a mistake in filing the returns for those years. In other words, the Corporation would have erroneously included in its income accounts payable to its suppliers. These accounts were originally liabilities of the Corporation and should have remained as such for financial and income tax purposes. Note that the financial statements of the Corporation for those years, prepared on the basis of a notice to reader, appear to confirm the filing position applied by the Corporation with respect to accounts payable. More specifically, the accounts payable were considerably reduced in the 2010 financial statements, and this would be consistent with the equivalent income inclusion for that taxation year. Therefore, the incorrect situation as claimed by the Corporation then and the Appellants now originates from the Corporation’s own filing.
+[45] The Corporation’s representations confirmed having obtained from several suppliers a verbal confirmation of the existence of their accounts payable (the representations do not list names or amounts). However, the evidence supports that only two suppliers for a total amount of $107,044.42 confirmed in writing their accounts payable with the Corporation. No more evidence was submitted to support the Corporation’s position. Although of the view that all accounts payable should be reversed, the Corporation concluded that it would be reasonable to resolve the objection by reducing the Corporation’s income by $107,044.42. The Appeals Division accepted by letter dated September30, 2014 that sufficient proof supported a review on that basis. The evidence at the hearing did not support that the Appeals Division was in a position to reasonably conclude that they had been provided evidence to support a different conclusion. On October 28, 2014, the Corporation’s 2010, 2011 and 2013 taxation years were reassessed to reflect the last correspondence from the Appeals Division with respect to the accounts payable accepted. A subsequent reassessment was issued for the 2011 taxation year dated February 5, 2016 to reflect the carry back loss from the 2014 taxation year. And following a subsequent request by the Appellants dated September 27, 2016 for a carry back loss from the Corporation’s 2014 taxation year to the Corporation’s 2012 and 2013 taxation years, the Minister corrected and reassessed these two years by notice dated April 20, 2017 to reflect the loss carried back. These most recent reassessments ended the dispute process engaged by the Corporation. The Court is satisfied that the evidence supports the foregoing.
+[46] Unfortunately, at the hearing, no sufficient tangible evidence from the Appellants was adduced that could allow this result to be changed. After having completed a thorough review of the evidence submitted at the hearing, the Court is not convinced that, on the balance of probabilities, the evidence introduced by the Appellants allows this Court to draw a conclusion that the underlying reassessments and more specifically the total amount that the Corporation is liable to pay under the ITA for 2010, 2011, 2012 and 2013 taxation years, were incorrect. The Appellants referred to the Corporation’s general ledger to support annual variations in accounts payable. Although some confusions appeared with respect to the details supporting the Appellants’ point, the Appellants referred to the economics of the Corporation’s activities to find that such activities ought not to have been taxable income on which the Corporation and the Appellants were assessed. The Court is unable to find in the Appellant’s argument sufficient basis to successfully attack the Corporation’s reassessments.
+[47] The arguments supporting the attack of the underlying reassessments largely rely on general statements only, and the lack of evidence, facts, circumstances, details, information, and corroboration relating to each account payable in each year is notable and significant. References to global annual amounts and impact of variations that such mentioned global amounts may have on the ultimate liability of the Corporation for its 2010-2013 taxation years are insufficient. Providing itemized internal accounting entries in the general ledger without additional evidence, drawing a conclusion from a reference to global amounts such that it would justify that an assessment be modified or considering the economic reality of the taxpayers' income in the years concerned, there ought not to have been a liability for which the taxpayer was liable, cannot in and of itself, satisfy the burden of proof on the taxpayer. As summarized in Mr. Schonberger’s testimony, the substance of the information and statements provided by the sole witness on this issue was insufficient. The Court is of the view that the manner in which the Corporation’s accounting and tax operations, internally and externally, by advisors were carried out, and Mr. Schonberger’s complete acceptance to rely on them, is an important factor explaining how the accounts payable were processed by the Corporation. Mr. Schonberger's lack of knowledge on this issue and capabilities for him to elaborate on this issue before the Court was significant. Unfortunately, the Court has not been convinced.
+[48] It is noteworthy that the Corporation’s accountants having prepared the financial statements and the Corporation’s bookkeeper who was responsible for the Corporation’s accounting entries did not testify. Mr. Schonberger was the only witness who tried to shed light on the circumstances and the numbers on the Corporation’s books. As referred to above in Mr. Schonberger’s testimony, Mr. Schonberger confirmed that he relied on his bookkeeper as to the numbers and accounting issues. He was not able to confirm any accounting entries or explain in any detail the accounting entries that could have been able to support the Appellants’ position. No one testified about the accounting entries that supported the entries in the Corporation’s income tax returns. These entries remain for the most part unexplained and unsupported, and same for the reasons that would support a different tax treatment under the ITA. Moreover, Mr. Schonberger appeared to rely on external advisers as to the Corporation’s tax affairs. Notwithstanding the considerable impact that account payables had on the Appellants’ position, the Court is of the view that no one involved in the treatment of the accounts payable of the Corporation (books, entries, process, analysis, valuation, accounting presentation, etc.) testified. And, although Mr. Schonberger admitted to still having occasional contact with the bookkeeper, and having known him for 15/20 years, this is unfortunate that Mr. Hood was not called as a witness. The only financial statements that were introduced in evidence for 2010, 2011, 2012 and 2013 taxation years were the ones that supported the original tax filings for these years. Restated financial statements were not filed at the hearing.
+[49] The Court considers Tab 11 and Tab 12 of the Appellants’ Book of Documents as background information during Mr. Schonberger’s testimony, and not to prove that additional adjustments are required in addition to what was already reflected in the Corporation’s reassessments under review at the hearing. These tabs were referred to as such, and were not reviewed in detail. In other words, these tabs are not strictly admitted as proof of their content. The Court adds that even if these tabs had been admitted as proof of their content, the Court is not convinced that, on the balance of probabilities, they would support in and of itself, for the reasons described herein, that the Corporation’s reassessments are incorrect and should be modified to reduce the Corporation’s income tax liabilities under the ITA. This is not sufficient to reverse the Appellants’ burden.
+[50] In addition, the assumptions of facts of the Respondent confirmed the Corporation’s liabilities under the ITA and the 2010, 2011, 2012 and 2013 taxation years were reassessed on October 28, 2014 (2010), February 5, 2016 (2011) and April 20, 2017 (2012 and 2013). These reassessments are the final assessments for these taxation years and the Appellants did not succeed in reversing these assumptions.
+[51] The foregoing is fatal to the Appellants’ first point against the Assessments. I do not believe the Appellants, on the balance of probabilities, satisfied their burden.
+[52] As for the second and last point, the Appellants ask the Court to reconsider that the absence of a salary for services performed by them can be a consideration given for dividends for purpose of section 160 ITA. In such a case, no liability would exist to the extent the amount of the dividends declared and paid are no less than the fair market value of the services rendered to the Corporation by the Appellants.
+[53] The Appellants recognize the long line of authority about how the courts have determined that the absence of a salary for services rendered is not consideration for a dividend for purposes of section 160 ITA, and that subsection 160(1) ITA can apply to a dividend paid by a corporation to a shareholder with whom it is not dealing at arm’s length. [6]
+[54] However, the Appellants believe that it might be time to revisit whether the taxpayers were ceded dividends in the absence of the payment of any salary, was consideration that was a transfer for purpose of paragraph 160(1)(e) ITA. The time period to which the Appellants refer is the period associated with the COVID-19 pandemic, and in particular the reaction of governments to the consequences of the pandemic and the supportive economic measures that were then adopted.
+[55] The Appellants acknowledge that this Court, following the Supreme Court of Canada’s decision in Neuman [7], consistently rejected that view, in Pauzé [8], Piuze [9], in Gazaille [10], in Côte [11], and in Duchaine [12]. The Federal Court of Appeal in Gilbert and most recently in Kufsky [13] also confirmed the same approach.
+[56] In the present case, it was argued that the Appellants also relied on their accountant to determine at the end of the year what advances would be treated by dividend or by salary.
+[57] The Appellants also acknowledge that, in each of the above cases, the courts have viewed the legal nature of entitlement to a dividend and corresponding deprivation to the corporate payor as a reason for determining that there was no consideration payable in respect of the transfer. The Appellants ask this Court to consider what happened in the extraordinary circumstances following the pandemic.
+[58] The Appellants refer to publications in respect of the Canada Emergency Response Benefit and the Canada Emergency Business Account loans. In determining entitlement to the Canada Emergency Response Benefit, the Minister expressly considered what qualifies as income for the purposes of the benefit, and recognized that common-sense approach that amounts paid by a corporation to its owner manager could include non-eligible dividends. The Minister confirms that amounts received are employment or self-employment income.
+[59] The Appellants referred to the Canada Emergency Business Account loans document where they believe the government recognizes the economic reality of small businesses:
+Since its launch, the government has made modifications to CEBA to help even more small businesses, including increasing the payroll eligibility and making CEBA available to owner-operated small businesses that do not have a payroll, sole proprietors receiving business income directly, as well as family-owned corporations remuneration in the form of dividends rather than a payroll.
+[60] The Appellants added that they see in the worst possible time the Government of Canada's recognition that it is a fact that small businesses, that owner managers, remunerate themselves by way of dividend and payroll. The Appellants concluded that, where the question of the corporation's underlying tax liability is a live issue, and the punitive provisions of section 160 ITA are intentionally punitive, if there is room to believe that the economic reality in assessing whether there has been a gratuitous transfer has been recognized by the Government of Canada to be something other than a dividend for which no compensation was received, but to be in fact payment for services rendered by owner managers, should a section 160 liability survive? In the Appellants’ view, it should not.
+[61] The Appellants ask the Court to find that the Government’s recognition is a reason for departing from the long-established case authorities reviewed during the appeal’s hearing, finding that the Neuman decision ends that enquiry.
+[62] The Court notes the Appellants’ invitation. However, the Court does not believe that the reasons submitted by the Appellants are sufficient to reconsider the long-standing position on dividends for purposes of section 160 ITA. In addition, the Court must follow the stare decisis principle. Under the doctrine of stare decisis, the decision of a higher court within the same jurisdiction acts as binding authority on a lower court within that same jurisdiction.
+[63] Moreover, the Court is not convinced that the arguments submitted by the Appellants can be interpreted in such a way that recent propositions from the Government of Canada could be seen as a change of view from the reasoning exposed by the courts to subject dividends to a section 160 assessment. The Court does not see a change of position or policy that could impact the existing wording of section 160 ITA and the interpretation given to it by the courts as of this date. To conclude otherwise would be extending the scope of the words and the context in which they are embedded.
+[64] The Court concludes that, notwithstanding the circumstances that explain how dividends were declared and paid, this is what the Appellants have ultimately accepted and agreed on. A decision was made to accept to receive distribution under a specific mechanism. Different mechanisms may lead to the same final result which is to remit cash to individuals. However, each mechanism has its own legal applicable implication that varies from one to another. All mechanisms are not necessarily available under all circumstances. However, the declaration and payment of a dividend were clearly available to the Appellants as opposed to other mechanisms. This is the choice the Appellants made. The legal consequences must be applied. The decisions listed above have made it clear that dividends do not constitute remuneration and there is an absence of consideration.
+[65] Unfortunately for the Appellants, the second point must also fail.
+VII. Conclusion
+[66] Based on the foregoing, the appeals made in respect of the Notices of assessment dated October 18, 2017, are hereby dismissed, with one set of costs payable by the Appellants to the Respondent.
+Signed at Ottawa, Canada, this 31st day of May 2024.
+“J M Gagnon”
+Gagnon J.
+CITATION:
+2024 TCC 82
+COURT FILES NO.:
+2018-4865(IT)G
+2018-4866(IT)G
+STYLE OF CAUSE:
+HELEN SCHONBERGER v. HIS MAJESTY THE KING
+TOMMY SCHONBERGER v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 12 and 13, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Jean Marc Gagnon
+DATE OF JUDGMENT:
+May 31, 2024
+APPEARANCES:
+Counsel for the Appellants:
+Leigh Somerville Taylor
+Counsel for the Respondent:
+Katie Beahen
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Leigh Somerville Taylor
+Firm:
+Professional Corporation, Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] RSC 1985, c 1 (5thSupp) [ITA].
+[2] Manna v The Queen, 2019 TCC 70 [Manna].
+[3] See Algoa Trust v The Queen, 93 DTC 405 (TCC), confirmed by the Federal Court of Appeal in Algoa Trust v Canada, (February 4, 1998, docket A-201-93, unreported) [Algoa Trust]. Cash dividend is a transfer of property without consideration for purposes of section 160 ITA.
+[4] Section 251 ITA states that related persons shall be deemed not to deal with each other at arm’s length. For such purposes, related persons include a corporation and (i) a person who controls the corporation, if it is controlled by one person, (ii) a person who is a member of a related group that controls the corporation, or (iii) any person related to a person described under (i) or (ii). Individuals connected by marriage or common-law partnership are also related persons.
+[5] The Federal Court of Appeal reiterated the position in Canada v 594710 British Columbia Ltd., 2018 FCA 166.
+[6] Including in 2753-1359 Québec Inc. v Canada, 2010 FCA 32; Canada v Gilbert, 2007 FCA 136 with application for leave to appeal before the Supreme Court of Canada dismissed April 4, 2007 [Gilbert]; Algoa Trust; and Gentile Holdings Ltd v The Queen, 2020 TCC 29.
+[7] Neuman v MNR, [1998] 1 SCR 770 [Neuman].
+[8] Pauzé v Her Majesty the Queen, 1998 CanLII 536 (TCC) [Pauzé].
+[9] Piuze c La Reine, 2002 CanLII 818 (CCI) [Piuze].
+[10] Gazaille v Her Majesty the Queen, 2001 CanLII 825 (TCC) [Gazaille].
+[11] Côte v Her Majesty the Queen, 2002 CanLII 30 (TCC) [Côte].
+[12] Duchaine v The Queen, 2015 TCC 245 [Duchaine].
+[13] Kufsky v Canada, 2022 FCA 66 [Kufsky].

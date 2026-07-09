@@ -1,0 +1,155 @@
+---
+title: "Nedelcu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28811/index.do"
+last_modified: "2008-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 417"
+citation2: ""
+neutral_citation: "2008 CCI 417"
+decision_date: "2008-08-08"
+language: "fr"
+item_id: "28811"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1525
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:30:30.278000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c29f347a6bf6b761b48d7a918ad26a969f6d51fafcad9b3000f3b8df13461123"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nedelcu c. La Reine
+
+- Citation: 2008 CCI 417
+- Decision date: 2008-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1525, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nedelcu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-08
+Référence neutre
+2008 CCI 417
+Numéro de dossier
+2007-4337(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008 CCI 417
+Date : 20080808
+Dossier : 2007-4337(IT)I
+ENTRE :
+DEBORAH ANN NEDELCU,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Pour l’appelante : L’appelante elle-même
+Avocat de l’intimée : Me G. Boyd Aitken
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 17 avril 2008, à London (Ontario).)
+Le juge McArthur
+[1] L’appelante interjette appel d’une nouvelle détermination par laquelle le ministre du Revenu national a conclu qu’elle n’avait pas le droit de recevoir un montant de 23 406 $ au titre de la prestation fiscale pour enfants (la « PFE ») pour la période allant du mois de juillet 2004 au mois d’août 2007, montant applicable aux années de base 2003, 2004 et 2005.
+[2] Il s’agit de savoir si l’appelante était une résidente du Canada au cours des années de base visées par l’appel. L’appelante, si elle ne satisfait pas à l’une des dispositions déterminatives du paragraphe 250(1) de la Loi de l’impôt sur le revenu, comme le fait d’avoir séjourné au Canada pendant 183 jours ou plus au cours d’une année d’imposition, ou d’être visée au paragraphe 253(3), ne résidait pas habituellement au Canada au cours des années pertinentes.
+[3] L’appelante est née dans le Sud de l’Afrique, au Zimbabwe, en 1964. Elle est arrivée au Canada à l’âge de 15 ans; elle résidait à London (Ontario). En 1987, elle s’est installée à Toronto; elle a travaillé à l’université de Toronto ainsi que pour Burns Fry, une institution financière. Elle s’est mariée en 1988 et a résidé à Toronto jusqu’à ce qu’elle s’installe à Bucarest, en Roumanie, en 1993, avec son mari et trois de ses enfants, nés à Toronto au mois d’août 1990, au mois de septembre 1991 et au mois de janvier 1993. L’appelante a eu un quatrième enfant en Roumanie, au mois d’avril 1994.
+[4] Ils se sont installés en Roumanie afin de s’occuper des parents âgés de son mari et d’établir une entreprise dans ce pays. Les parents sont décédés, si je ne me trompe, il y a plus de trois ans.
+[5] Au cours de l’audience, l’appelante a déclaré que son mari établissait une entreprise de transport en Roumanie et, dans une lettre envoyée à l’Agence du revenu du Canada depuis ce pays, vers le mois de septembre 2006, elle a déclaré ce qui suit :
+[traduction]
+Nous essayons d’établir une entreprise en Roumanie, laquelle nous permettrait de fournir des services aux ressortissants étrangers qui séjournent en Roumanie tout en vivant au Canada.
+Aucun détail n’a été donné au sujet de ces entreprises, si ce n’est le fait que le mari de l’appelante essayait d’en établir une depuis 1993.
+[6] Nous savons que l’appelante et sa famille vivent en Roumanie depuis 1993, chez les parents ou chez les grands‑parents du mari, et qu’ils ont repris possession de la maison après la chute du régime communiste.
+[7] Jusqu’aux années pertinentes, l’appelante recevait depuis 1993 une PFE pour ses quatre enfants. Le ministre avait informé l’appelante par une lettre, au mois d’août 2000, que sa famille et elle seraient considérées comme des résidents de fait du Canada. Tel est, si je ne me trompe, le principal argument invoqué par l’appelante, qui déclare que sa situation factuelle ainsi que celle de sa famille n’ont pas changé, mais que le ministre a changé d’idée dans un avis de nouvelle détermination daté du 20 septembre 2006. Je ne doute aucunement que l’Agence du revenu du Canada pouvait à bon droit annuler la décision antérieure et aucune préclusion n’est ici en cause.
+[8] Les moyens invoqués par l’appelante dans le présent appel sont les suivants :
+[traduction]
+En 2000, le statut de résidents des membres de ma famille a été examiné par Revenu Canada, qui a conclu que nous étions des « résidents de fait du Canada aux fins de l’impôt ». Nous vivions en Roumanie, mais nous conservions nos liens avec le Canada.
+Par suite de la réponse que nous avons reçue pour la cotisation de 2000 (16 août 2000) et d’une lettre de Revenu Canada datée du 8 avril 2002, lesquelles disaient toutes deux que nous étions des résidents de fait du Canada, j’ai continué à produire mes déclarations de revenus annuelles pour les années 2002, 2003, 2004 et 2005. En 2000, nous n’avions rien supprimé de la liste de liens que nous avions avec le Canada et que Revenu Canada a acceptée comme constituant une preuve suffisante de notre résidence.
+[...]
+Compte tenu d’un certain nombre de décisions rendues par la Cour canadienne de l’impôt par le passé, j’estime que Revenu Canada a établi la cotisation d’une façon superficielle.
+[...]
+Je vis en Roumanie, mais j’ai toujours été non-résidente en Roumanie et je suis uniquement titulaire d’un visa de résidente temporaire, lequel est valide pour une seule année et doit être renouvelé chaque année.
+Je ne possède pas de maison permanente ni de biens en Roumanie, ni nulle part ailleurs. L’habitation dans laquelle je vis appartient à mon mari et a été acquise en héritage après que les tribunaux l’eurent restituée à la suite de la chute du régime communiste.
+[...]
+Je suis la mère de quatre enfants d’âge scolaire (qui sont tous citoyens canadiens et titulaires de passeports canadiens valides) et je n’exerce aucun emploi.
+[...]
+Les comptes bancaires canadiens me permettent d’effectuer des paiements pour diverses polices d’assurance.
+[9] Je crois que l’appelante utilise les versements de PFE pour ces paiements et je crois que seuls ces montants sont déposés dans ces comptes.
+[10] Sous le titre : [traduction] « Séjours et liens familiaux », dans l’avis d’appel, l’appelante déclare ce qui suit :
+[traduction]
+Nous avons encouragé les liens et les contacts de la famille avec le Canada en organisant chaque année un séjour au Canada. Les enfants ont des arrière‑grands‑parents, des grands‑parents, des tantes, des oncles et des cousins dans un grand nombre de régions du Canada. Ma famille a de profondes racines en Ontario et nous ne voulons pas rompre d’une façon permanente ces liens pour notre famille. Le coût d’un voyage, pour une famille composée de six personnes, est exorbitant et nous sommes arrivés à un compromis : nous envoyons chaque année deux enfants au Canada et la famille y fait un séjour tous les trois ans. Nous sommes revenus au Canada en 2000, en 2001, en 2003‑2004 et en 2005.
+[11] Dans sa réponse, le ministre conclut que l’appelante n’a pas le droit de recevoir des versements de PFE. Dans cette réponse, il est déclaré ce qui suit :
+[traduction]
+25 [...] L’appelante n’a pas le droit de recevoir des versements de CTPS au montant de 602 $. [...]
+26 [...] l’appelante n’a pas le droit de recevoir des versements de PFE [...] puisqu’elle n’est pas un « particulier admissible » comme il en est fait mention à l’alinéa c) de la définition de cette expression, à l’article 122.6, [...] étant donné qu’elle n’était pas une résidente du Canada.
+[12] Au cours des années pertinentes, l’appelante vivait depuis plus de dix ans en Roumanie, où elle était et où elle est une épouse et une mère à plein temps. L’appelante a séjourné au Canada, en particulier à London (Ontario), au plus 50 jours en tout au cours des trois années pertinentes. Certains membres de sa famille étaient de fait ici et elle habitait chez eux, mais elle n’y avait aucune entreprise ni aucune résidence. Sa famille immédiate était bien établie en Roumanie, où elle vit encore. L’appelante ne sait pas quand elle reviendra, le cas échéant, au Canada d’une façon permanente.
+[13] Les hypothèses de fait sur lesquelles le ministre s’est fondé sont peu utiles. Elles figurent au paragraphe 22 de la réponse. L’alinéa a) indique les dates de naissance des enfants de l’appelante. Les alinéas b), c) et d) sont libellés comme suit :
+[traduction]
+b) avant le 1er novembre 1993, l’appelante résidait à Toronto (Ontario);
+c) le 1er novembre 1993, l’appelante s’est installée à Bucarest, en Roumanie, avec son époux et ses enfants;
+d) pendant la période pertinente, l’appelante n’était pas résidente du Canada.
+[14] Dans l’arrêt Thomson v. The Minister of National Revenue[1], le juge Rand a dit ce qui suit :
+[traduction]
+Aux fins de la législation de l’impôt sur le revenu, il est nécessaire de considérer que chaque personne a, en tout temps, une résidence. Il n’est pas nécessaire à cet effet qu’elle ait une maison ni un endroit particulier où elle demeure, ni même un abri. Elle peut dormir en plein air. Ce qui importe seul, c’est de déterminer dans l’espace les limites dans lesquelles elle passe sa vie ou auxquelles se rattache ce mode de vie ordonné ou coutumier. La meilleure façon d’apprécier la résidence habituelle est d’en examiner l’antithèse, la résidence occasionnelle, temporaire ou extraordinaire. Cette dernière semble nettement être non pas seulement temporaire et exceptionnelle quant à ses circonstances, mais s’accompagne également d’une notion de provisoire et de retour.
+Mais dans les différentes situations de prétendues "résidences permanentes", "résidences temporaires" "résidences habituelles", "résidences principales" et ainsi de suite, les adjectifs n’influent pas sur le fait qu’il y a dans tous les cas résidence; cette qualité dépend essentiellement du point jusqu’auquel une personne s’établit en pensée et en fait, ou conserve ou centralise son mode de vie habituel avec son cortège de relations sociales, d’intérêts et de convenances [...]
+Ce raisonnement et, en particulier, la phrase suivante, s’appliquent à la présente espèce :
+[traduction]
+[...] Ce qui importe seul, c’est de déterminer dans l’espace les limites dans lesquelles elle passe sa vie ou auxquelles se rattache ce mode de vie ordonné ou coutumier. [...]
+[15] Nous avons ici une appelante qui a emballé toutes ses possessions, sauf quelques effets dont elle n’avait pas besoin qui provenaient de sa mère et qui s’est installée avec son mari et ses enfants en Roumanie, où elle a vécu pendant plus de dix ans avant la période ici en cause. Son quatrième enfant est né en Roumanie.
+[16] Tous les enfants sont inscrits, et étaient inscrits pendant les années pertinentes, dans une école, en Roumanie, qu’ils fréquentent encore. Ils vivent tous en tant que famille chez le mari dans ce qui est de toute évidence la maison familiale. Le mari exploite une entreprise en Roumanie et il a peu de liens ou il n’a pas de liens connus avec le Canada. À coup sûr, la Roumanie est le cadre spatial dans lequel l’appelante passe sa vie et où se rattache son mode de vie ordonné ou coutumier.
+[17] Si nous poursuivons l’analyse des critères énoncés par le juge Rand, en tenant compte du fait que l’antithèse de la Roumanie est le Canada, je conclus que l’appelante a séjourné ici, à l’occasion, pendant 50 jours peut‑être sur une période de 1 000 jours, soit la période pertinente aux fins qui nous occupent. L’appelante a des parents ici, mais elle n’y a pas de résidence, de biens ou de moyens de subsistance, sauf pour la PFE. L’appelante a déclaré ne pas savoir à quel moment elle reviendrait au Canada, mais elle aimerait que ses enfants fassent leurs études universitaires au Canada.
+[18] Dans l’affaire Laurin v. Her Majesty the Queen[2], l’appelant était pilote à Air Canada; il avait pris sa retraite en 2000 et était citoyen canadien. Il achetait des cartes de séjour annuelles sur une île, à l’étranger, et il louait un appartement. Il utilisait la Floride comme adresse postale. Sa conjointe de fait et lui avaient construit une maison au Québec, laquelle, selon le ministre, demeurait à la disposition de l’appelant. La relation a pris fin en 1993. L’appelant a ouvert des comptes bancaires sur les îles en 1996, et il a fermé tous les comptes qu’il avait au Canada, sauf un, en 1993. Il ne séjournait jamais au Canada pendant plus de 183 jours au cours d’une année d’imposition donnée. Il produisait ses déclarations et faisait l’objet de cotisations à titre de non‑résident du Canada. Il a été conclu que l’appelant avait rompu ses liens de résidence avec le Canada. Il ne séjournait pas au Canada pendant plus de 183 jours. Il ne résidait pas habituellement au Canada.
+[19] Dans l’affaire Laurin, l’appelant était employé dans une société canadienne, Air Canada; il avait trois enfants qui avaient tous plus de 20 ans et qui vivaient au Canada. L’appelant utilisait également les services médicaux canadiens. Le juge Bowman a conclu que l’appelant n’avait pas d’adresse postale à Montréal et qu’il ne s’était pas installé, dans l’idée d’y demeurer en permanence, chez l’un ou l’autre de ses trois hôtes pendant ses séjours à Montréal. De plus, la preuve produite montrait que l’appelant n’avait effectué aucun placement et qu’il ne poursuivait aucune activité commerciale au Canada. À deux occasions, il avait séjourné à Montréal pour des raisons médicales. La position de la Couronne, dans ce cas‑ci, est beaucoup plus forte que dans l’affaire Laurin.
+[20] Je conclus sans hésiter qu’en l’espèce, l’appelante n’était pas résidente du Canada au cours des années d’imposition 2003, 2004 et 2005; les appels sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour d’août 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 19e jour de septembre 2008.
+Christian Laroche, juriste-traducteur
+RÉFÉRENCE : 2008 CCI 417
+DOSSIER DE LA COUR : 2007-4337(IT)I
+INTITULÉ : DEBORAH ANN NEDELCU
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 17 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 24 avril 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me G. Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1946] S.C.R. 209.
+[2] 2007 DTC 236.

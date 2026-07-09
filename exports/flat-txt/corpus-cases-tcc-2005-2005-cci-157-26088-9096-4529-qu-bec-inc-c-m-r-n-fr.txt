@@ -1,0 +1,191 @@
+Title: 9096-4529 Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26088/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-157-26088-9096-4529-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-02-08
+
+# 9096-4529 Québec Inc. c. M.R.N.
+
+- Citation: 2005 CCI 157
+- Decision date: 2005-02-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4149, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9096-4529 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-08
+Référence neutre
+2005 CCI 157
+Numéro de dossier
+2004-792(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-792(EI)
+ENTRE :
+9096-4529 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 18 février 2005, à Sherbrooke (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Robert Jodoin
+Avocate de l'intimé :
+Me Susan Shaughnessy
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI157
+Date : 20050208
+Dossier : 2004-792(EI)
+ENTRE :
+9096-4529 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une détermination que le travail exécuté par monsieur Martin Goulet durant la période du 4 février au 11 août 2002 pour le compte de l'appelante, la société 9096-4529 Québec Inc., l'a été en vertu d'un véritable contrat de louage de services.
+[2] Pour expliquer et justifier la détermination, l'intimé a énuméré à sa réponse à l'avis d'appel tous les faits retenus. Ces faits se lisent comme suit :
+a) L'appelante exploite une entreprise de distribution de journaux et d'annonces publicitaires; (admis)
+b) durant la période en litige, l'appelante avait un contrat avec la compagnie Transcontinentale pour la distribution de « publisacs » dans la ville de St-Hubert et les environs; (admis)
+c) l'appelante embauchait des camelots pour livrer les publisacs à toutes les portes du secteur désigné par son contrat;
+d) le travailleur a rendu des services comme camelot à l'appelante du 4 février au 11 août 2002;
+e) durant toute la période en litige, le travailleur a accompli les mêmes tâches pour l'appelante soit livrer des publisacs aux portes de chaque maison du secteur que lui désignait l'appelante;
+f) le travailleur livrait les publisacs sous la supervision et le contrôle de l'appelante;
+g) le travailleur rendait ses services les samedis, dimanches, mardis, mercredis et jeudis; (admis)
+h) le camion de l'appelante venait prendre le travailleur chez lui à tous les matins qu'il travaillait et ce, durant toute la période en litige; (admis)
+i) le travailleur recevait de l'appelante, à chaque matin qu'il travaillait, une avance sur son salaire de 20,00 $;
+j) l'appelante prétend que le travailleur a rendu des services comme salarié du 4 février au 1er juillet 2002 et comme travailleur autonome du 2 juillet au 11 août 2002 alors qu'il n'y a eu aucun changement significatif, autre que la méthode de rémunération, dans les conditions du travailleur;
+k) l'appelante a émis un relevé T4 au nom du travailleur pour ses gains du 4 février au 1er juillet 2002 avec des retenues à la source et un feuillet T4A pour ses gains du 2 juillet au 11 août 2002 sans aucune retenue; (admis)
+l) l'appelante prétend que, lorsque le travailleur était considéré en tant que salarié, le camion de l'appelante suivait et surveillait le travailleur et un petit groupe de travailleurs toute la journée en les approvisionnant après quelques rues alors que, lorsqu'il était considéré en tant que travailleur autonome, le camion laissait tous les publisacs sur un seul coin de rue et le travailleur devait en faire la distribution; (admis)
+m) du 4 février au 1er juillet 2002, l'appelante rémunérait le travailleur 7,00 $ de l'heure; (admis)
+n) il travaillait alors 38 ou 40 heures par semaine; (admis)
+o) du 4 février au 1er juillet 2002, l'appelante a versé au travailleur la somme de 5 713,75 $ pour 816,25 heures de travail; (admis)
+p) du 2 juillet au 11 août 2002, l'appelante rémunérait le travailleur 100,00 $ du 1 000 portes pour la livraison des publisacs et 50,00 $ du 1 000 portes pour la livraison de journaux; (admis)
+q) du 2 juillet au 11 août 2002, l'appelante a versé au travailleur la somme de 1 271,50 $ pour les cinq semaines de travail; (admis)
+r) au 1er janvier 2002, le taux du salaire minimum était de 7,00 $ l'heure; (admis)
+s) du 2 juillet au 11 août 2002, le travailleur a reçu plus de 245 $ par semaine pour chacune de ses cinq semaines de travail. (admis)
+[3] Les faits indiqués aux alinéas a), b), g), h) ainsi que k) à s) ont été admis.
+[4] Madame Manon Bond, présidente de la société au bénéfice de laquelle a été exécuté le travail, a témoigné. Elle a expliqué que la société qu'elle présidait exerçait ses activités dans le domaine de la distribution de dépliants publicitaires depuis plusieurs années.
+[5] La principale cliente de cette société était la compagnie Transcontinentale. Les mandats de distribution variaient; dans certains cas il s'agissait de mettre plusieurs dépliants publicitaires dans un sac devant faire l'objet de distribution, alors que, dans d'autres cas, le matériel publicitaire était prêt pour distribution.
+[6] La société appelante recevait également des instructions très précises quant au territoire à couvrir et quant au moment où le tout devait être distribué par des camelots.
+[7] Les camelots étaient engagés à la suite d'offres de services qu'ils soumettaient à l'appelante. L'entreprise publiait également des annonces pour recruter des camelots en fonction du travail de distribution à faire.
+[8] Elle avait également comme employés des chauffeurs qui transportaient aux différents lieux de distribution le matériel publicitaire à distribuer. Les chauffeurs s'occupaient aussi de transporter les camelots tout en s'assurant de la qualité du travail accompli et en veillant à ce que la bonne qualité soit distribuée et que cela se fasse aux endroits appropriés et dans le temps prescrit.
+[9] À un moment donné, les chauffeurs qui transportaient dans leurs camions le matériel publicitaire et les camelots chargés d'en faire la distribution se sont vu intercepter par des patrouilleurs routiers, qui ont interdit ce genre de transport principalement parce que les camelots ne pouvaient pas s'attacher à l'intérieur des camions.
+[10] En plus des chauffeurs de l'appelante, qui voyaient à la bonne marche des opérations de distribution, la compagnie Transcontinentale avait également des superviseurs qui vérifiaient sur le terrain si le travail était bien fait et d'une manière conforme à toutes ses instructions et attentes.
+[11] Certains camelots possédaient une automobile ou un moyen de transport. D'autres, dont monsieur Goulet, n'avaient pas de véhicule, ni aucun moyen de transport.
+[12] Lorsque les camelots n'avaient pas de moyen de transport, les chauffeurs employés de l'appelante se rendaient chez eux le matin à une heure préétablie pour les conduire aux locaux de l'entreprise. Le camion était alors chargé du matériel publicitaire. Le chauffeur et les camelots quittaient les lieux pour procéder à la distribution. La distribution s'effectuait dans des secteurs précis. Une fois la distribution terminée dans un secteur, le camelot était transporté vers un autre secteur par le chauffeur et ainsi de suite. Le temps des livraisons variait en fonction du nombre des camelots disponibles.
+[13] Les camelots étaient rémunérés selon un taux horaire correspondant au salaire minimum.
+[14] À la suite des problèmes constants éprouvés avec les patrouilleurs routiers, madame Manon Bond a décidé de modifier la façon de faire. Selon son témoignage, les chauffeurs ont cessé de transporter les camelots d'un endroit à l'autre.
+[15] Les chauffeurs déposaient désormais à des endroits stratégiques le matériel publicitaire et les camelots devaient s'y rendre pour s'approvisionner et ensuite repartir avec le nombre d'exemplaires nécessaire pour une ou plusieurs rues.
+[16] Après avoir fait la distribution, ils revenaient à l'endroit où le matériel publicitaire avait été déposé par les chauffeurs et répétaient le scénario jusqu'à épuisement du matériel à distribuer.
+[17] L'entreprise a cependant continué à s'occuper du transport des camelots qui n'avaient pas de moyen de transport. Ainsi, le matin, à une heure préétablie, les chauffeurs se rendaient chez les camelots et les amenaient aux locaux de l'entreprise.
+[18] Madame Bond, la présidente de l'entreprise, a expliqué que cela ne posait pas de problème parce que « tôt le matin » , les patrouilleurs routiers n'étaient pas de service, ou s'ils l'étaient, ils étaient moins actifs du côté de la surveillance.
+[19] Principalement à cause du problème avec les patrouilleurs routiers, elle a décidé, un beau jour, soit à compter du 2 juillet 2002, de changer les règles. Selon elle, à partir de ce moment les camelots sont tous devenus des travailleurs autonomes. Leur mode de rémunération a également été modifié.
+[20] Jusqu'alors rémunérés selon un taux horaire, ils furent à compter du 2 juillet 2002 rémunérés selon la formule 100 $ par 1 000 portes pour les fins de semaine et 50 $ par 1 000 portes en semaine, la différence entre les deux s'expliquant par la quantité de dépliants par sac, la quantité ayant un effet direct sur le poids du matériel à distribuer.
+[21] À plusieurs reprises, lors du témoignage de madame Manon Bond, le tribunal a pu constater qu'elle était une personne qui ne s'en laissait pas imposer. Elle est d'un tempérament autoritaire et il n'y a aucun doute qu'elle gérait son entreprise d'une manière très disciplinée.
+[22] Madame Bond a expliqué que c'est à la suite des problèmes éprouvés avec les patrouilleurs routiers pour les raisons précédemment mentionnées qu'elle a pris la décision de modifier la façon de faire à l'égard des personnes qui s'occupaient de la distribution.
+[23] Bien qu'il s'agisse là d'une façon assez particulière de justifier ou d'expliquer la décision de modifier les règles du jeu quant à l'exécution du travail, madame Bond n'a pas fourni d'autre explication.
+[24] Chose certaine, d'après ses explications, les modifications ont été mises en oeuvre par madame Bond. Les camelots ont dû accepter les changements. Elle a mentionné qu'à un certain moment, pour éviter les problèmes de compréhension ou d'interprétation, elle a commencé à faire signer un contrat aux camelots afin qu'il n'y ait pas d'ambiguïté quant à la nature de la relation contractuelle entre ceux-ci et la société qu'elle dirigeait.
+[25] Monsieur Martin Goulet, le camelot dont le travail a fait l'objet de la détermination en cause, a également brièvement témoigné. Il a affirmé que ses conditions de travail n'avaient jamais changé et que toutes les modalités quant à l'exécution de son travail de camelot avaient toujours été les mêmes.
+[26] Monsieur Martin Goulet, âgé de 30 ans, travaillait comme camelot depuis l'âge de 14 ans. Il exécutait son travail de telle manière et l'a toujours fait de la même façon. Il a fourni des réponses sensées et vraisemblables à toutes les questions. À la question très claire et non équivoque du tribunal de savoir si le mode d'exécution de son travail avait changé à compter du 2 juillet 2002, il a spontanément et catégoriquement affirmé que « non » .
+[27] En l'espèce, le tribunal doit déterminer la nature du contrat de travail litigieux à partir de la preuve et des faits qui existaient durant la période en cause.
+[28] À première vue, les témoignages de madame Bond et de monsieur Goulet sont tout à fait contradictoires, et cela, sur une facette fort importante. Dans un premier temps, madame Bond a affirmé qu'à compter de juillet 2002 les conditions de travail avaient été totalement modifiées en ce sens que les camelots, qui avaient jusque-là été des salariés, étaient devenus des travailleurs autonomes et exploitaient, à partir de ce moment, leur propre entreprise.
+[29] Au premier abord, ces versions contradictoires étaient assez difficiles à comprendre, d'autant plus que les deux témoins semblaient tout à fait crédibles. De plus, les contradictions portent sur un aspect important.
+[30] L'analyse de la preuve documentaire, soit, plus précisément, la liasse de photocopies des chèques, permet de comprendre et surtout d'expliquer la contradiction.
+[31] Ces chèques confirment le témoignage de madame Bond, puisque à compter de juillet, il est possible de lire deux indications ou mentions sur les copies de chèques; en effet, d'une part, on y lit « TRAV AUT » et, d'autre part, il est possible de constater que la base de la rémunération a également été modifiée: on peut voir en effet une indication que le travail était rémunéré, à compter de ce moment, à l'unité ou à la pièce. Ces ajouts sur les chèques confirment totalement les explications fournies par madame Bond.
+[32] Comment expliquer alors la version ou les explications de Monsieur Goulet, qui avait été, selon l'employeur, travailleur salarié jusqu'à ce changement survenu le 2 juillet 2002?
+[33] Les deux versions se comprennent et s'expliquent par le comportement des intéressés et par les circonstances qui ont existé au moment des changements effectués unilatéralement par madame Bond.
+[34] Un beau jour, elle a décidé, sans consultation, d'une manière unilatérale, de faire de ses camelots, jusque-là salariés, des travailleurs autonomes ou des entrepreneurs travaillant à leur compte, et cela, à compter du 2 juillet 2002.
+[35] À partir de ce moment, elle a été conséquente avec sa décision et a apporté des modifications cohérentes aux talons de paye, notamment, sans doute, en ce qui concerne les différentes retenues.
+[36] Plusieurs camelots dont Goulet n'étaient, sans aucun doute, pas en mesure de comprendre le changement et encore moins de faire la différence entre la situation avant et celle après ce changement. Je ne doute pas que cela leur ait été mentionné et qu'ils aient accepté; mais ils l'ont fait sans comprendre le changement, qui avait pour effet de leur laisser probablement une paye nette plus importante à cause du moins grand nombre de retenues.
+[37] Dans l'affaire Ambulance St-Jean c. Canada (Ministre du Revenu national - M.R.N.) [2004] A.C.F. no 1680 (C.A.F.) (Q.L.), on lit ce qui suit au paragraphe 3 :
+3 Bien que l'intention déclarée des parties ou leur entente apparente ne soit pas nécessairement déterminante quant à la nature de leur relation, il faut cependant accorder une grande importance à ces facteurs en l'absence d'un preuve contraire, par exemple un comportement qui trahit ou contredit cette intention ou cette entente. Lorsque les parties ont librement « choisi de conclure des accords commerciaux distincts [...] [et] choisissent d'agir de la sorte, plutôt qu'une des parties imposant arbitrairement ou artificiellement ce choix à l'autre, au point que cela constitue un trompe-l'oeil, on ne devrait pas intervenir dans leur choix et les autorités devraient le respecter » . [...]
+[38] L'intention et la volonté des parties à un contrat de travail sont des éléments certes très importants lorsqu'il s'agit de déterminer la nature de ce contrat de travail. Par contre, cela sous-entend que les deux parties ont librement donné leur consentement, qu'il soit tacite ou exprès. Pour donner son consentement, il faut être en mesure de comprendre et d'accepter les conditions sous-jacentes.
+[39] L'intimé a renvoyé le tribunal aux dispositions suivantes du Code civil du Québec, L.Q. 1991, ch. 64, relatives à la formation des contrats :
+1378. Le contrat est un accord de volonté, par lequel une ou plusieurs personnes s'obligent envers une ou plusieurs autres à exécuter une prestation.
+Il peut être d'adhésion ou de gré à gré, synallagmatique ou unilatéral, à titre onéreux ou gratuit, commutatif ou aléatoire et à exécution instantanée ou successive; il peut aussi être de consommation.
+[...]
+1380. Le contrat est synallagmatique ou bilatéral lorsque les parties s'obligent réciproquement, de manière que l'obligation de chacune d'elles soit corrélative à l'obligation de l'autre.
+Il est unilatéral lorsque l'une des parties s'oblige envers l'autre sans que, de la part de cette dernière, il y ait d'obligation.
+[...]
+1385. Le contrat se forme par le seul échange de consentement entre des personnes capables de contracter, à moins que la loi n'exige, en outre, le respect d'une forme particulière comme condition nécessaire à sa formation, ou que les parties n'assujettissent la formation du contrat à une forme solennelle.
+[...]
+1386. L'échange de consentement se réalise par la manifestation, expresse ou tacite, de la volonté d'une personne d'accepter l'offre de contracter que lui fait une autre personne.
+[40] En l'espèce, il n'y a pas de doute que la société 9096-4529 Québec Inc. comprenait les effets et les conséquences; il en était cependant tout autrement pour le camelot, Martin Goulet.
+[41] D'ailleurs, monsieur Goulet n'était, de toute évidence, pas le seul à ne pas comprendre, puisque madame Bond a elle-même affirmé qu'à un moment donné, pour éviter toute confusion, elle a commencé à faire signer un écrit spécifique à cet égard, ce qui explique l'incompréhension de monsieur Goulet ou tout au moins la version des faits qu'il a donnée.
+[42] Selon la façon de voir de monsieur Goulet, ses conditions de travail n'ont jamais été modifiées et il a toujours exécuté son travail de la même façon. D'ailleurs, sa description de la façon dont il a toujours exécuté son travail de camelot a permis de constater que le travail était accompli dans un encadrement très défini le travail était contrôlé et surveillé, et cela, par l'intermédiaire du chauffeur de la société, qui avait la responsabilité de fournir le matériel publicitaire aux camelots mais aussi quant de leur indiquer le territoire où devait se faire la distribution.
+[43] Comme monsieur Goulet ne possédait pas de moyen de transport, la société s'occupait de le prendre chez lui tous les matins lorsqu'il y avait de la distribution à faire.
+[44] Monsieur Goulet a expliqué que la variabilité des heures de travail dépendait essentiellement du nombre des camelots disponibles, qui variait énormément d'un jour à l'autre. Tout ce dont avait besoin monsieur Goulet pour l'exécution de son travail était fourni par la société.
+[45] Il était parfaitement intégré aux activités commerciales de l'entreprise en ce qu'il ne s'agissait aucunement de sa propre entreprise; bien au contraire, il constituait un maillon important de la chaîne de l'activité commerciale de l'entreprise pour laquelle il travaillait. Il n'avait aucun risque de perte et aucune chance de faire un profit.
+[46] Finalement, il exécutait son travail selon un programme bien arrêté et défini; il devait effectuer le travail sur un territoire également défini et n'avait aucune discrétion quant au nombre des portes où les dépliants devaient être laissés. Il était assujetti à des mesures de contrôle quant à la qualité du travail. À la lumière du témoignage de madame Bond, j'imagine bien le sort du camelot qui aurait refusé de travailler après s'être rendu disponible pour la distribution dans un secteur donné à un moment déterminé.
+[47] L'intimé a également renvoyé le tribunal à une autre décision fort pertinente. Il s'agit de l'affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. On peut y lire ce passage à la page 985 :
+[...] Il n'est donc pas logique d'imputer à un employeur la responsabilité des actes accomplis par un entrepreneur indépendant qui, par définition, exploite une entreprise pour son propre compte. En outre, l'employeur n'exerce pas sur un entrepreneur indépendant le même contrôle que sur un employé et n'est pas, de ce fait, en mesure de réduire les accidents et les fautes intentionnelles au moyen d'une organisation et d'une supervision efficaces. Aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Il faut toujours déterminer quelle relation globale les parties entretiennent entre elles. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches. Bien que AIM soit désignée dans le contrat comme étant un « entrepreneur indépendant » , cette désignation n'est pas toujours déterminante de la responsabilité du fait d'autrui. [...]
+(Je souligne.)
+[48] Dans l'affaire Livreur Plus Inc. c. Canada (Ministre du Revenu national - M.R.N.), [2004] A.C.F. no 267 (C.A.F.) (Q.L.), on peut lire les passages suivants :
+32 Le radio-émetteur et le télé-avertisseur étaient fournis aux livreurs par la demanderesse à un coût de location de 5 $ par semaine, mais ce montant, taxes en moins, leur était remboursé en fin d'année si les appareils avaient été maintenus en bon état. Les livreurs assumaient cependant les coûts des appareils en cas de perte ou de vol : voir le témoignage de M. Larose à la page 126 du dossier de la demanderesse et celui de M. Réal Morin, un livreur, à la page 132. Ces deux outils de travail appartenaient à la demanderesse. [...]
+33 Car l'outil de loin le plus important, le plus significatif et le plus coûteux demeure l'automobile. Or, il n'est pas contesté que cet outil était la propriété des livreurs.
+[...]
+35 [...] les revenus des livreurs variaient à la hausse ou à la baisse d'une semaine à l'autre en fonction du nombre de livraisons et des échanges que les livreurs pouvaient faire entre eux. Ils n'avaient pas droit à des vacances payées de sorte que leurs revenus étaient affectés s'ils décidaient de se prévaloir d'une période de repos. Ils devaient alors trouver, en sous-traitance, un remplaçant qu'ils devaient payer [...]
+36 Les contrats et les témoignages établissent que les livreurs assumaient les dépenses reliées à l'utilisation de leurs automobiles, i.e. dépréciation, réparations, essence, assurances, immatriculation, entretien, etc. Ils encouraient donc des risques de pertes et une fluctuation de leurs revenus, particulièrement en cas d'accident [...]
+37 Enfin, les livreurs engageaient leur responsabilité personnelle pour la perte des médicaments qu'ils livraient, des argents qu'ils recevaient des clients des pharmacies et, tel que déjà mentionné, des équipements de communication fournis par la demanderesse. Encore là, ils étaient exposés à un risque de pertes.
+[...]
+38 Le degré d'intégration des travailleurs dans une entreprise doit s'apprécier du point de vue des travailleurs et non de celui de l'entreprise [...]
+39 La question qu'il convient de se poser consiste à se demander à qui appartient l'entreprise. Le juge s'est bien posé cette question au paragraphe 29 de sa décision, mais il n'y a jamais répondu et n'a pas procédé à une analyse du sujet.
+[...]
+41 Les livreurs n'avaient pas de bureaux ou de locaux chez la demanderesse. Ils n'avaient pas à passer chez la demanderesse pour effectuer leur travail de livraison [...]
+[49] Selon la prépondérance de la preuve, le travail exécuté par monsieur Martin Goulet, durant la période allant du 4 février au 11 août 2002 satisfaisait à toutes les exigences requises pour qu'on puisse conclure à un véritable contrat de louage de services. La volonté et l'intention de l'appelante bien que clairement exprimées ne suffisaient pas pour changer la nature du contrat. Il eût fallu apporter des modifications plus déterminantes et obtenir l'assentiment de Martin Goulet.
+[50] Certes, il s'agit d'une activité économique où la sous-traitance avec des travailleurs autonomes pourrait être une solution intéressante. Cela sous-entend cependant une rupture réelle du lien de subordination, créant ainsi une autonomie et une liberté d'action qui n'existaient pas entre l'appelante et le camelot Martin Goulet dans la période en litige.
+[51] Pour toutes ces raisons, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI157
+No DU DOSSIER DE LA COUR :
+2004-792(EI)
+INTITULÉ DE LA CAUSE :
+9096-4529 Québec Inc. et le MNR
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 18 février 2005
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 8 mars 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Robert Jodoin
+Avocate de l'intimé :
+Me Susan Shaughnessy
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Avocat :
+Étude :
+Ville :
+Me Robert Jodoin
+Jodoin Huppé
+Grandby (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

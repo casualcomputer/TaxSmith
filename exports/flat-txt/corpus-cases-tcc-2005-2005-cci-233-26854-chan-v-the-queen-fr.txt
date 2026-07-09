@@ -1,0 +1,129 @@
+Title: Chan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26854/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-233-26854-chan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-04-11
+
+# Chan v. The Queen
+
+- Citation: 2005 CCI 233
+- Decision date: 2005-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 660, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-11
+Référence neutre
+2005 CCI 233
+Numéro de dossier
+2004-2903(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2004-2903(IT)I
+ENTRE :
+DOUGLAS CHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 décembre 2004, à Windsor (Ontario)
+Par : L'honorable juge E.A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Mes Gatien Fournier et Marie Eve Aubry
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté.
+Signé à Ottawa, Canada, ce 11e jour d'avril 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce 30e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+Référence : 2005CCI233
+Date : 20050411
+Dossier : 2004-2903(IT)I
+ENTRE :
+DOUGLAS CHAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] L'appel est interjeté à l'égard d'une nouvelle cotisation établie pour l'année d'imposition 2002. Dans la déclaration de revenus qu'il a produite pour cette année-là, l'appelant a demandé une déduction de 14 000 $ pour des frais de garde d'enfants en vertu de l'article 63 de la Loi de l'impôt sur le revenu[1] (la « Loi » ). Au départ, le ministre du Revenu national a accordé la déduction telle qu'elle avait été demandée au moment de l'établissement de la cotisation pour l'appelant. Plus tard, l'appelant a reçu une nouvelle cotisation dans laquelle la déduction avait été refusée en totalité. Plus tard encore, une autre nouvelle cotisation a été établie pour permettre une déduction de 1 700 $ seulement. Le montant accordé correspond aux frais que M. Chan a payés à l'école Montessori pour la plus jeune de ses filles. Le ministre n'a accordé à l'appelant aucune partie du montant qu'il avait demandé au titre de frais de garde d'enfants à l'égard de l'aînée. Même si d'autres questions ont été examinées dans le cadre de la présentation de la preuve, il est clair que la déduction des frais de garde d'enfants pour l'aînée a été refusée parce que, selon le ministre, les sommes que l'appelant a payées pour l'enfant ne correspondaient pas à la définition de « frais de garde d'enfants » qui se trouve au paragraphe 63(3) de la Loi, et seuls les montants qui sont visés par la définition peuvent être déduits du revenu en vertu du paragraphe (1), sauf si l'appelant peut invoquer une disposition de dérogation du paragraphe 63(4) dans un cas particulier. Bref, la question qui fait l'objet du litige entre les parties est de savoir si M. Chan peut invoquer le paragraphe (4).
+[2] Voici le passage pertinent du paragraphe 63(1) qui permet la déduction :
+[...] est déductible dans le calcul du revenu du contribuable pour l'année le montant qu'il demande, ne dépassant pas le total des montants représentant chacun un montant, au titre des frais de garde d'enfants engagés pour des services rendus au cours de l'année relativement à un enfant admissible du contribuable, [...]
+... there may be deducted in computing the taxpayer's income for the year such amount as the taxpayer claims not exceeding the total of all amounts each of which is an amount paid, as or on account of child care expenses incurred for services rendered in the year in respect of an eligible child ...
+Le paragraphe 63(3) comporte une définition de l'expression « frais de garde d'enfants » , laquelle s'applique à l'ensemble de l'article 63, et dont la partie pertinente est ainsi libellée :
+« frais de garde d'enfants » Frais engagés au cours d'une année d'imposition dans le but de faire assurer au Canada la garde de tout enfant admissible du contribuable, en le confiant à des services de garde d'enfants, [...]
+"child care expense" means an expense incurred in a taxation year for the purpose of providing in Canada, for an eligible child of a taxpayer, child care services ...
+Voici le libellé du paragraphe 63(4) :
+63(4) Les frais qu'une personne qui réside au Canada, près de la frontière canado-américaine, engage au cours d'une année d'imposition pour des services de garde d'enfants qui seraient des frais de garde d'enfants s'il était fait abstraction des passages « au Canada » à la définition de « frais de garde d'enfants » au paragraphe (3) et « résidant au Canada » à l'alinéa b) de cette définition, sont réputés (sauf s'il s'agit de frais payés pour permettre à un enfant de fréquenter un pensionnat ou une colonie de vacances à l'étranger) constituer des frais de garde d'enfants pour l'application du présent article si les services de garde sont assurés à un endroit situé plus près du lieu principal de résidence de la personne par une route suffisamment accessible, compte tenu des circonstances, que tout autre endroit au Canada où de tels services sont offerts. Pour ce qui est des frais en question, il n'est pas tenu compte, au paragraphe (1), du passage « et portant, lorsque celui-ci est un particulier, le numéro d'assurance sociale de ce particulier » . [Je souligne.]
+63(4) Where in a taxation year a person resides in Canada near the boundary between Canada and the United States and while so resident incurs expenses for child care services that would be child care expenses if
+(a) the definition "child care expense" in subsection (3) were read without reference to the words "in Canada", and
+(b) the reference in paragraph (b) of the definition "child care expense" in subsection (3) to "resident of Canada" were read as "person",
+those expenses (other than expenses paid for a child's attendance at a boarding school or camp outside Canada) shall be deemed to be child care expenses for the purpose of this section if the child care services are provided at a place that is closer to the person's principal place of residence by a reasonably accessible route, having regard to the circumstances, than any place in Canada where such child care services are available and, in respect of those expenses, subsection (1) shall be read without reference to the words "and contains, where the payee is an individual, that individual's Social Insurance Number". [Emphasis added.]
+J'ai mis en évidence les mots qui ont donné lieu au litige entre les parties. Toutefois, il est nécessaire d'examiner le contexte factuel avant d'aborder la question du sens de la loi.
+[3] L'appelant et son épouse demeurent dans la ville de Windsor en Ontario, près de la frontière canado-américaine. L'appelant est périodontiste et son épouse est orthodontiste. Ils ont deux filles. L'aînée a eu cinq ans en 2002 et la cadette deux ans. Les parents ne veulent rien de moins que la meilleure éducation possible pour leurs filles, et leur revenu familial combiné leur permet de procurer une telle éducation à leurs filles. Pour cette raison, ils ont inscrit leur fille aînée à l'école Cranbrook, qui est située à Bloomfield Hills (Michigan) aux États-Unis. Cranbrook est une école extrêmement chère et de très haute qualité dont le but est de procurer la meilleure éducation possible aux enfants de ceux qui peuvent se le permettre. Les enfants peuvent être inscrits à l'école dès l'âge de trois ans et ils peuvent y poursuivrent leurs études aux niveaux primaire, intermédiaire et secondaire. L'école possède un campus de plus de 300 acres, qui est situé juste en périphérie de la ville de Detroit. Les cours d'eau et les lacs y abondent, de même que les espaces verts et les installations sportives de toutes sortes. L'école comporte aussi un musée des sciences, une galerie d'art, ainsi que les meilleures installations scolaires qui soient. Son centre de la petite enfance a un ratio d'environ cinq enfants par employé. Bref, on ne craint aucune dépense pour assurer l'éducation et veiller au bien-être de chacun des enfants qui sont inscrits à l'école. Étant donné la description que l'appelant a faite de l'école et de ses installations, il n'est pas surprenant que les frais qu'il a engagés pour envoyer sa fille de cinq ans à la maternelle du Vlasik Family Early Childhood Center de l'école Cranbrook pour la période allant du 1er septembre 2002 au 30 juin 2003 aient été de 14 290 $US, ce qui correspondait à plus de 22 000 $CAN à ce moment-là. La fille cadette de l'appelant n'était pas inscrite à l'école Cranbrook pendant l'année 2002, seulement parce qu'elle était encore trop jeune pour y être admise. Au moment où l'appel a été entendu, soit en décembre 2004, les deux enfants étaient inscrites à l'école.
+[4] En présentant ses arguments, M. Chan n'a pas prétendu qu'il n'y avait pas de service de garde d'enfants disponible dans la vile de Windsor. Comme je l'ai dit, sa fille cadette fréquentait l'école Montessori à Windsor, qui n'est pas bien loin de la maison familiale. En effet, il y a un établissement de garde d'enfants sur la rue de l'appelant. Toutefois, aucun de ces établissements à Windsor, que ce soit une école ou une garderie, ne rivalise avec la qualité ou les coûts de Cranbrook. L'appelant affirme qu'il a le droit de déduire les frais qu'il a engagés pour envoyer sa fille à l'école Cranbrook parce que sa situation correspond au sens littéral du libellé du paragraphe 63(4). Plus particulièrement, il se fonde sur les mots « [...] de tels services [...] » que j'ai mis en évidence ci-dessus. Il dit qu'il faut considérer que le mot « services » qui se trouve à la fin du paragraphe (4), parce qu'il est modifié par le mot « tels » , renvoie à la première mention du mot « services » dans le paragraphe. Selon lui, cela veut dire que s'il n'y a pas de services de garde d'enfants à Windsor qui sont d'un niveau égal aux services de garde d'enfants auxquels son épouse et lui ont choisi d'inscrire leur fille au Michigan, alors il a droit à l'avantage prévu au paragraphe (4) et il peut déduire les frais d'inscription de l'école Cranbrook.
+[5] L'erreur dans l'argumentation de M. Chan est qu'on ne peut pas interpréter le mot « tel » de façon littérale comme s'il renvoyait aux services de garde d'enfants mentionnés au début du paragraphe, parce que ces services de garde d'enfants sont ceux-là mêmes pour lesquels l'appelant a engagé les dépenses et qu'ils sont situés aux États-Unis. M. Chan ne veut pas que cela signifie les mêmes services au sens littéral, mais plutôt les services ayant la même qualité exceptionnelle que ceux qu'il ne peut obtenir pour sa fille qu'au Michigan. En d'autres mots, il voudrait que je considère que les mots « de tels services » signifient des « services de garde d'enfants de même nature et de même qualité » . Cela reviendrait à ajouter des mots au texte de la Loi, ce que je ne peux pas faire[2].
+[6] L'interprétation proposée par l'appelant ne correspond pas non plus à l'objet de l'article 63 dans son ensemble, ni à celui du paragraphe (4). Dans l'affaire Symes c. Canada[3], la Cour suprême du Canada mentionne l'extrait suivant du livre blanc de 1969 sur la réforme fiscale[4] qui a donné lieu à l'adoption de l'article 63 de la Loi.
+2.7 Nous proposons de permettre aux parents qui travaillent de déduire certaines dépenses afférentes à la garde des enfants. Lorsque les deux conjoints travaillent, ou lorsque l'enfant n'a qu'un parent et que ce dernier travaille, bien prendre soin des enfants est un problème personnel aussi bien que social. Nous estimons souhaitable, tant du point de vue social qu'économique, qu'il soit possible de déduire du revenu, en plus de la déduction générale accordée à l'égard des enfants, certaines dépenses afférentes à la garde des enfants, sous certaines conditions bien déterminées.
+[...]
+2.9 Cette nouvelle déduction pour la garde des enfants constituera une réforme majeure. Le nombre exact de familles qui pourront en bénéficier ne peut pas être prévu mais, selon toute probabilité, il se chiffrera par plusieurs centaines de milliers. Cette nouvelle déduction aidera les nombreuses mères qui travaillent ou qui veulent travailler afin d'accroître le revenu familial, mais qui reculent devant les dépenses qu'entraîne la garde de leurs enfants. Pour les familles qui se trouvent dans cette situation, ces dépenses représentent un coût qu'elles doivent assumer en vue de gagner leurs revenus.
+À ce moment-là, l'objet de l'article 63 était de permettre, dans certaines conditions bien déterminées, une déduction qui aiderait les mères à travailler pour arrondir le revenu familial. L'article n'a jamais eu comme but de subventionner les familles aisées lorsqu'elles inscrivent leurs enfants dans des écoles privées prestigieuses aux États-Unis. Le législateur n'aurait tout de même pas pu avoir comme but de fournir une telle subvention, et certainement pas seulement à ceux qui résident près de la frontière canado-américaine et pas à tous les autres canadiens, même ceux qui demeurent à une heure ou deux de la frontière. L'objet du paragraphe (4) est évident - il s'agit de limiter les sérieux inconvénients que subiraient les quelques personnes vivant dans les collectivités situées près de la frontière qui n'ont pas de centres de garde d'enfants si l'exigence selon laquelle le centre de garde d'enfants doit être situé au Canada pour que les frais soient déductibles était appliquée sans exception.
+[7] Compte tenu du libellé du paragraphe (4) dans le contexte de l'article 63, ainsi que de l'objet de l'article dans son ensemble et du paragraphe (4) de l'article, il est clair que le paragraphe (4) prévoit la déduction des frais engagés pour la garde d'enfants aux États-Unis seulement dans les cas où un centre de garde d'enfants disponible aux États-Unis est situé moins loin du domicile du contribuable que le centre de garde d'enfants disponible au Canada situé le plus près. Le paragraphe ne demande aucune analyse comparative de la nature et de la qualité des centres de garde d'enfants qu'il y a aux États-Unis et au Canada. Si un centre de garde d'enfants au Canada est situé plus près du domicile du contribuable que celui auquel l'enfant va, le paragraphe (4) ne s'applique pas. L'argument de M. Chan est basé sur le mot « such » dans la version anglaise du paragraphe, mais j'ai aussi examiné la version française (le mot « tels » ) et je n'ai constaté aucune différence importante entre les deux versions. Dans les deux cas, il faudrait ajouter plusieurs mots à la Loi pour véhiculer l'interprétation de l'appelant. Même si cela peut donner à penser que le mot « such » ( « tels » ) est redondant, il faut simplement le considérer le mot comme une fioriture linguistique : voir l'affaire G.S.W. Appliances Limited v. Canada[5].
+[8] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 11e jour d'avril 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme ce 30e jour de septembre 2005.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2005CCI233
+NO DU DOSSIER DE LA COUR :
+2004-2903(IT)I
+INTITULÉ DE LA CAUSE :
+Douglas Chan c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Windsor (Ontario)
+DATE DE L'AUDIENCE :
+Le 9 décembre 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 11 avril 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Mes Gatien Fournier et Marie Eve Aubry
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelant :
+Nom :
+S/O
+Étude :
+S/O
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985) ch. 1 (5e suppl.), telle qu'elle a été modifiée.
+[2] Friesen c. Canada, [1995] 3 R.C.S. 103, au par. 27.
+[3] [1993] 4 R.C.S. 695.
+[4] Propositions de réforme fiscale (1969) (E. J. Benson, ministre des Finances).
+[5] 98 DTC 6010 (C.A.F.), juge Linden, aux pp. 6012-6013.

@@ -1,0 +1,324 @@
+---
+title: "Motech Technologie de Moulage Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30982/index.do"
+last_modified: "2012-10-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 351"
+citation2: ""
+neutral_citation: "2012 CCI 351"
+decision_date: "2012-10-10"
+language: "fr"
+item_id: "30982"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4800
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:21:32.843000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e64d8e6e70cedf96575c162d45dc05e5137362ba65ffcda2011c0a546f17cc5f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Motech Technologie de Moulage Inc. c. La Reine
+
+- Citation: 2012 CCI 351
+- Decision date: 2012-10-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4800, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Motech Technologie de Moulage Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-10
+Référence neutre
+2012 CCI 351
+Numéro de dossier
+2010-776(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-776(IT)G
+ENTRE :
+MOTECH TECHNOLOGIE DE
+MOULAGE INC. / MOTECH MOLDING INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 13 mars 2012, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Marc-Antoine Deschamps
+Avocat de l’intimée :
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2005 et 2006 sont rejetés avec dépens.
+Signé à Toronto (Ontario), ce 10e jour d’octobre 2012.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+Ce 12e jour de février 2013.
+François Brunet, réviseur
+Référence : 2012 CCI 351
+Date : 20121010
+Dossier : 2010-776(IT)G
+ENTRE :
+MOTECH TECHNOLOGIE DE
+MOULAGE INC. / MOTECH MOLDING INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] En l’espèce, la Cour est appelée à rechercher si l’appelante, Motech Technologie de Moulage Inc. / Motech Molding Inc. (« Motech »), a le droit de déduire, à titre de frais d’exploitation de biens pour les années d’imposition 2005 et 2006, les frais de commandite et les dépenses d’entretien et de réparation des voitures de course qu’elle a payés pour ses sociétés affiliées Phoenix Innotech Inc. (« Phoenix Innotech ») et Orion Racing Inc. (« Orion Racing »).
+[2] Motech soutient que les frais de commandite sont déductibles, car elle a payé les dépenses directement à Orion Racing afin d’augmenter la valeur de Phoenix Innotech, une filiale de Tesla Packaging Ltd. (« Tesla »), dans le but de tirer un revenu de dividendes ou d’augmenter le flux de revenu de dividendes des sociétés affiliées.
+[3] L’intimée soutient que les frais de commandite étaient liés au flux de revenu d’entreprise de Phoenix Innotech et que c’était dans le but d’améliorer la rentabilité de celle-ci que Motech en assumait les coûts. Le lien qui existait entre les frais de commandite et la source de revenu alléguée, les dividendes éventuels tirés de Tesla, était trop indirect.
+[4] Après analyse des faits, je conclus que le but dans lequel Motech payait les frais de commandite à Orion Racing pour le compte de Phoenix Innotech avait un lien avec le flux de revenu d’entreprise de Phoenix Innotech. Je suis d’avis que le lien qui existe entre les frais de commandite et le flux éventuel de revenu de dividendes est trop indirect; par conséquent, ils ne sont pas admissibles à titre de frais d’exploitation de biens.
+Les faits
+[5] À l’audience, les parties ont présenté un exposé conjoint partiel des faits qui expose les éléments suivants :
+[traduction]
+Motech Technologie de Moulage Inc.
+1. L’appelante, Motech Technologie de Moulage Inc. (« Motech »), est une entreprise de gestion et de placement dont l’exercice se termine le 31 mars de chaque année civile.
+2. Tout au long de la période pertinente pendant les exercices 2004, 2005 et 2006 de Motech, Jacek Mucha était le seul actionnaire, administrateur et directeur d’entreprise de la société.
+3. Au cours de ses exercices 2004, 2005 et 2006, Motech n’a exercé aucune activité de fabrication, n’a accompli aucun travail d’expert-conseil et n’a pas offert de services à d’autres personnes.
+4. La location, les dividendes et les intérêts étaient les seules sources de revenus de Motech pendant ses exercices 2004, 2005 et 2006.
+Orion Racing Inc.
+5. Tout au long de la période pertinente pendant les exercices 2004, 2005 et 2006 de Motech, elle était l’unique actionnaire d’Orion Racing Inc. (« Orion »), et Jacek Mucha en était le seul administrateur et directeur d’entreprise.
+6. Tout au long de la période pertinente pendant les exercices 2004, 2005 et 2006 de Motech, les courses automobiles étaient la principale activité d’Orion.
+7. Jacek Mucha prend part à la conception et à la construction des voitures de course d’Orion, et il les pilote aussi.
+8. Jacek Mucha est le seul à avoir piloté les voitures de course d’Orion pendant les exercices 2004, 2005 et 2006 de Motech.
+9. L’exercice d’Orion se termine le 31 octobre de chaque année civile.
+Tesla Packaging Inc.
+10. Tout au long de la période pertinente, soit à compter du 8 juillet 2004 pour l’exercice 2005 de Motech et pendant l’exercice 2006 de celle‑ci, Motech était l’unique actionnaire de Tesla Packaging Inc. (« Tesla »), et Jacek Mucha en était le seul administrateur et directeur d’entreprise.
+11. Tout au long de la période pertinente, soit à compter du 8 juillet 2004 pour l’exercice 2005 de Motech et pendant l’exercice 2006 de celle‑ci, Tesla était une entreprise de gestion.
+12. L’exercice de Tesla se termine le 30 juin de chaque année civile.
+13. Tesla a commencé à exercer ses activités le 8 juillet 2004.
+14. Tesla n’a jamais versé de dividendes à Motech.
+Phoenix Innotech Inc.
+15. Le 8 juillet 2004, Tesla a fait l’acquisition de 55 % de toutes les actions émises de Phoenix Innotech Inc. (« Phoenix ») que détenait Manfred Forestier, fondateur de Phoenix, à savoir 1 782 actions des 3 240 actions émises de catégorie A de Phoenix.
+16. Tout au long de la période pertinente, soit à compter du 8 juillet 2004 pour l’exercice 2005 de Motech et pendant l’exercice 2006 de celle‑ci, Telsa détenait 55 % des actions de Phoenix, et Manfred Forestier en détenait 45 %.
+17. Tout au long de la période pertinente, soit à compter du 8 juillet 2004 pour l’exercice 2005 de Motech et pendant l’exercice 2006 de celle‑ci, Jacek Mucha et Manfred Forestier étaient les administrateurs et directeurs d’entreprise de Phoenix.
+18. Tout au long de la période pertinente, soit à compter du 8 juillet 2004 pour l’exercice 2005 de Motech et pendant l’exercice 2006 de celle‑ci, l’activité principale de Phoenix était la fabrication et la commercialisation de machines d’emballage sous film étirable, principalement pour son marché américain (environ les deux tiers des clients de Phoenix sont situés aux États-Unis et un tiers de ses clients se trouvent au Canada).
+19. L’exercice de Phoenix se termine le 8 juillet de chaque année civile.
+20. Phoenix n’a jamais versé de dividendes à Tesla.
+Frais de commandite
+21. Pour ses exercices 2005 et 2006, Motech a payé des frais de commandite à l’écurie de courses automobiles d’Orion ainsi que des montants pour les dépenses d’entretien et de réparation des voitures de course appartenant à Orion (collectivement désignés « frais de commandite »).
+22. Motech a versé, pour ses exercices 2005 et 2006, les montants suivants correspondant aux frais de commandite :
+2005
+2006
+Frais de commandite
+225 000 $
+225 000 $
+Dépenses d’entretien et de réparation des voitures de course
+106 277 $
+139 786 $
+Total
+331 277 $
+346 786 $
+23. Les dépenses d’entretien et de réparation des voitures de course que Motech a assumées étaient des dépenses d’entretien et des dépenses relatives aux courses automobiles d’Orion, qui constituent des dépenses courantes ou d’exploitation d’Orion.
+24. De petits montants de frais de commandite ont été payés par Motech tout au long des exercices 2005 et 2006 de cette dernière.
+25. Le nom ou le logo de Motech ne figuraient pas sur les voitures de course d’Orion pour les exercices 2005 et 2006 de Motech.
+26. Depuis le 8 juillet 2004 pour l’exercice 2005 de Motech et tout au long de l’exercice 2006 de celle‑ci, le nom et le logo de Phoenix figuraient sur les voitures de course d’Orion, accompagnés de la mention « Les experts en emballage sous film étirable ».
+27. Tout au long de la période pertinente, soit à compter du 8 juillet 2004 pour l’exercice 2005 de Motech et pendant l’exercice 2006 de celle‑ci, Phoenix était le principal commanditaire de l’écurie de courses automobiles d’Orion, et Motech a seulement payé des commandites pour Phoenix.
+28. Les frais de commandite de Phoenix ont servi à la publicité des activités de fabrication et de commercialisation des machines d’emballage sous film étirable de Phoenix.
+29. Les responsabilités de Motech eu égard à la commandite de la part de Phoenix de l’écurie de courses automobiles d’Orion se limitaient à payer les frais de commandite.
+30. Motech a versé des frais de commandite, peu importe le classement de l’écurie de courses automobiles d’Orion dans une course donnée.
+31. Orion n’a émis aucune facture ou aucun autre document à Motech ou à Phoenix à l’égard des frais de commandite.
+32. Aucune entente de commandite n’a été convenue par écrit entre Orion et Motech ou Phoenix.
+33. C’est Jacek Mucha qui a pris la décision de commanditer l’écurie de courses automobiles d’Orion.
+34. En plus d’être principalement commanditée par Phoenix, et ce, depuis le 8 juillet 2004 pour l’exercice 2005 de Motech et tout au long de l’exercice 2006 de celle‑ci, Orion a aussi conclu d’autres ententes de commandite avec d’autres commanditaires avec lesquels elle n’avait pas de lien de dépendance, à savoir Mazda, Hoosier Tires et Red Line Oil.
+35. Ces autres commandites ont été versées soit en produits ou en espèces sous forme de récompenses pour les rendements obtenus dans les courses en échange de l’affichage des noms des commanditaires sur les voitures.
+36. La valeur monétaire des récompenses de ces autres commandites n’était pas particulièrement importante; l’appelante estime que ces récompenses représentaient environ 5 000 $ au total par année.
+[6] Au cours de l’audience, M. Mucha a déposé, ayant été cité à témoigner par l’appelante et M. Jean-François Otis, agent des appels de l’Agence du revenu du Canada, a déposé, ayant été cité à témoigner par l’intimée.
+[7] Lors de son témoignage, M. Mucha a déclaré avoir adopté avec Phoenix Innotech le même modèle d’entreprise qu’il avait auparavant utilisé avec Orion Packaging Ltd. (« Orion Packaging »). Orion Packaging est une entreprise dont M. Mucha était propriétaire dans les années 1980 et 1990. Pour permettre de bien comprendre la thèse de l’appelante, il faut donc examiner le modèle d’entreprise que M. Mucha a utilisé avec Orion Packaging.
+[8] Au cours des années 1980 et 1990, M. Mucha détenait 100 % des actions de Motech, laquelle détenait 100 % des actions d’Orion Packaging.
+[9] Pendant ce temps, Orion Packaging était l’une des principales sociétés qui se livraient à la fabrication et à la commercialisation de machines d’emballage sous film étirable en Amérique du Nord. L’entreprise vendait des équipements en Amérique du Nord et à l’étranger. L’entreprise était très rentable. Selon M. Mucha, Motech a reçu environ 2,5 millions de dollars par année en dividendes d’Orion Packaging.
+[10] Motech détenait aussi 100 % des actions d’Orion Racing Inc., dont l’activité était la course automobile.
+[11] M. Mucha a expliqué qu’il avait utilisé des voitures de course comme stratégie de marketing pour faire la promotion d’Orion Packaging. Il voulait la présenter comme une entreprise d’ingénierie d’avant-garde, à l’image des voitures de course qui sont perçues comme constituant sur une technologie d’ingénierie de pointe.
+[12] En contrepartie du versement de frais de commandite à Orion Racing, le nom et le logo d’Orion Packaging figuraient sur la voiture de course. Orion Packaging remettait aussi des brochures, des affiches et des calendriers comportant la photo de la voiture de course à ses distributeurs et à ses clients. L’écurie de courses automobiles, appelée l’écurie Mucha, a pris part à des championnats de la Formule Atlantique. La Formule Atlantique est bien connue aux États-Unis, en Australie et en Nouvelle‑Zélande. La plupart des distributeurs et des clients d’Orion Packaging se trouvaient aux États-Unis. Aux yeux de M. Mucha, la commandite d’Orion Packaging s’est traduite par une grande visibilité de cette dernière et a eu une incidence positive sur son entreprise.
+[13] Dans le calcul du revenu d’Orion Packaging pour ses exercices financiers, les frais de commandite versés par elle à Orion Racing ont été déduits.
+[14] Le 11 juin 1999, M. Mucha a vendu les actifs d’Orion Packaging à Pro Mach Inc. (« Pro Mach »). La vente faisait suite à un accord conclu le 11 juin entre Orion Racing, Orion Packaging et Pro Mach, par lequel Pro Mach a consenti à verser un million de dollars américains par année à Orion Racing en frais de commandites. Voir le recueil conjoint de documents, onglet 19.
+[15] À la suite d’un changement de propriétaire au sein du groupe Pro Mach, les nouveaux propriétaires ont cessé de commanditer Orion Racing en 2003. Le groupe Pro Mach a aussi décidé de mettre en place une nouvelle équipe de direction. Ainsi, M. Mucha, qui intervenait à titre de consultant pour le groupe Pro Mach, a décidé de cesser de travailler pour le groupe.
+[16] Aux termes de la convention d’achat d’actifs, M. Mucha s’était engagé à s’abstenir de faire concurrence à la société pendant cinq ans. Voir le recueil conjoint de documents, onglet 20.
+[17] Vers la fin de la période de cinq ans en question, M. Mucha a commencé à rechercher une autre entreprise dont il pourrait se porter acquéreur. Il a repéré Phoenix Innotech Inc., une entreprise qui, à l’instar d’Orion Packaging, se livrait à la fabrication et à la commercialisation de machines d’emballage sous film étirable.
+[18] Ainsi que je l’ai signalé auparavant, M. Mucha a déclaré qu’il désirait adopter avec Phoenix Innotech le même modèle d’entreprise que celui qu’il avait utilisé avec son ancienne entreprise, Orion Packaging. Il y a cependant deux distinctions à opérer entre le modèle d’entreprise précédent et le nouveau modèle.
+[19] La première distinction concerne la structure de l’entreprise. Motech détenait toutes les actions d’Orion Packaging, alors qu’elle ne détenait aucune action de Phoenix Innotech. Tesla, une filiale en propriété exclusive de Motech, a acheté 55 % des actions de Phoenix Innotech, les 45 % des actions restantes étant détenues par son fondateur, M. Manfred Forestier.
+[20] Lors de son témoignage, M. Mucha a déclaré que Tesla était seulement une [traduction] « entreprise sur papier » et [traduction] « une intermédiaire ». Phoenix Innotech était dans une situation financière précaire avec de nombreux créanciers. Tesla a été constituée en société pour empêcher les créanciers de s’en prendre à Motech. En outre, même si la clause de non-concurrence ne posait pas vraiment problème, l’acquisition des actions de Phoenix Innotech par Tesla, au lieu de leur acquisition par Motech, visait à prévenir tout problème.
+[21] Quant à l’autre distinction, il s’agit du fait que c’est Motech qui a versé des frais de commandite à Orion Racing pour le compte de Phoenix Innotech. Selon le modèle d’entreprise précédent, Motech n’a pas versé les frais de commandite d’Orion Packaging. C’est plutôt Orion Packaging qui a versé les frais directement à Orion Racing et qui les a déduits de son revenu.
+[22] Quant aux dépenses d’entretien et de réparation des voitures de course, Motech les a versées directement à Orion Racing et les a déduites à titre de frais de commandite. Ces dépenses, ainsi qu’il a été admis, constituaient des dépenses courantes, ou des dépenses d’exploitation, d’Orion Racing. Voir l’exposé conjoint partiel des faits, paragraphe 23.
+[23] Tant les frais de commandite que les dépenses d’entretien et de réparation des voitures de course figuraient dans les livres comptables de Motech sous la rubrique [traduction] « frais de commandite ». En conséquence, dans les présents motifs, sauf indication contraire, j’utiliserai l’expression « frais de commandite » pour désigner à la fois les frais de commandite et les dépenses d’entretien et de réparation des voitures.
+[24] Lors de son témoignage, M. Mucha a déclaré que Phoenix Innotech n’avait pas les moyens d’assumer les frais de commandite. Il a également déclaré qu’il ne voulait pas injecter de fonds dans Phoenix Innotech par l’entremise de Tesla parce qu’il craignait que les créanciers de Phoenix Innotech saisissent les fonds. Qui plus est, il ne voulait pas que la transaction soit manifeste aux yeux de l’autre actionnaire, soit Manfred Forestier, étant donné qu’il n’entretenait pas une bonne relation avec ce dernier.
+[25] M. Mucha a aussi déclaré que l’écurie Mucha était l’une des écuries les plus en vue et qu’elle a figuré sur la couverture du magazine Sports Car Club of America (« SCCA »). En tant que pilote automobile, M. Mucha a gagné de nombreuses courses. Vu que certaines courses ont été retransmises sur les ondes de Vision Sports, il estimait que la commandite s’est traduite par une bonne visibilité de Phoenix Innotech et a eu une incidence positive sur les activités de celle-ci.
+La thèse de Motech
+[26] L’avocat de Motech a fait valoir qu’il n’était pas controversé entre les parties que Motech, Orion Racing, Tesla et Phoenix Innotech sont des sociétés affiliées au sens de l’article 251.1 de la Loi de l’impôt sur le revenu (la « Loi »).
+[27] L’avocat de Motech s’appuie sur une jurisprudence de la Cour suprême du Canada, Symes c. Canada, [1993] 4 R.C.S. 695, laquelle enseigne qu’il n’est pas nécessaire qu’une dépense donne lieu à un revenu pour être déductible. Il a renvoyé la Cour aux motifs du juge Iacobucci, dans lesquels celui‑ci a déclaré au paragraphe 57, s’exprimant au nom des juges majoritaires de la Cour suprême du Canada, qu’une dépense, pour qu’elle soit déductible, n’a pas à directement faire produire un revenu :
+57 Pour être déductibles à titre de dépense d’entreprise, les frais de garde d’enfants de l’appelante doivent avoir été engagés « en vue de tirer un revenu [...] de l’entreprise ou de faire produire un revenu [...] à l’entreprise » au sens de l’al. 18(1)a) de la Loi. Cela ne veut pas dire que les dépenses doivent directement mener à la production d’un revenu. Même à partir du libellé plus restrictif de la disposition antérieure à l’al. 18(1)a), on avait reconnu dans l’arrêt Imperial Oil Ltd. c. Minister of National Revenue, [1947] C.T.C. 353 3 D.T.C. 1090 (C. de l’É.), à la p. 371, (D.T.C. 1098) qu’il n’est pas nécessaire d’établir un lien causal entre une dépense donnée et une recette donnée. En fait, une dépense peut être déductible même si elle donne lieu à une perte pourvu qu’elle satisfasse par ailleurs à l’al. 18(1)a).
+[28] Selon l’avocat de Motech, le fait que Phoenix Innotech, par l’entremise de Tesla, n’a versé aucun dividende à Motech n’a donc aucune importance pour rechercher si les frais de commandite peuvent être déduits.
+[29] Eu égard au lien entre les dépenses et le flux de revenu, l’avocat de Motech cite une jurisprudence de la Cour d’appel fédérale, HMQ v. Byram, 1999 DTC 5117.
+[30] Dans l’affaire Byram, la Cour d’appel était appelée à rechercher si M. Byram pouvait se prévaloir d’une perte en capital relativement aux prêts sans intérêt qu’il avait consentis à la USCO, étant donné qu’elle ne pouvait plus contracter d’autres emprunts. Certains de ces prêts ont été consentis pendant que M. Byram était actionnaire de la USCO et d’autres à l’époque où Elkhound Resources Ltd. était actionnaire de la USCO. Les actions d’Elkhound étaient détenues par M. Byram et des membres de sa famille. Aucun de ces prêts n’avait été consigné par écrit. M. Byram a par la suite vendu les prêts à une autre personne pour une contrepartie de 1 $ et a déduit une perte en capital. Dans le calcul de son revenu pour l’année d’imposition 1984, M. Byram a réduit ses gains en capital en déduisant une perte en capital des prêts consentis à USCO en vertu du sous‑alinéa 40(2)g)(ii). La Couronne soutenait que les prêts, bien qu’ils aient été consentis dans le but de tirer un revenu d’un bien, le revenu de dividendes éventuel tiré d’une filiale était trop indirect pour justifier une déduction en vertu du sous‑alinéa 40(2)g)(ii). Le juge MacDonald, s’exprimant au nom de la Cour d’appel, a permis à M. Byram de déduire la perte en capital étant donné que, selon lui, il y avait un lien suffisant entre M. Byram en tant qu’actionnaire et le revenu de dividendes éventuel reçu de la USCO. Voici les observations qu’il a faites au paragraphe 22 de ses motifs :
+22 Il existe un lien direct entre, d’une part, les actionnaires d’une société et, d’autre part, les gains futurs de la société et les dividendes qu’elle versera. Lorsqu’un actionnaire fournit une garantie ou un prêt sans intérêt à la société dans le but de lui fournir du capital, il existe assurément un lien entre le contribuable et le revenu futur éventuel. Lorsqu’un prêt est consenti en vue de gagner un revenu sous forme de dividendes, ce lien est suffisant pour que soit remplie la condition liée au but fixée par le sous-alinéa 40(2)g)(ii).
+[31] L’avocat de Motech a soutenu que le raisonnement exposé dans l’arrêt Byram devait être suivi en l’espèce étant donné que le libellé du sous-alinéa 40(2)g)(ii) est identique à celui de l’alinéa 18(1)a) de la Loi, lequel dispose :
+40(1) Sauf indication contraire expresse de la présente partie :
+[…]
+(2) Malgré le paragraphe (1) :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien, dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+[Non souligné dans l’original.]
+[32] Il a également rappelé à la Cour que, les sociétés en l’espèce, étaient des sociétés affiliées et que la société mère avait un contrôle direct sur les sociétés affiliées en aval, comme c’était le cas dans l’affaire Byram. Il a fait valoir qu’il existait un lien entre Motech et les gains futurs de Phoenix Innotech et le paiement de dividendes, vu que Motech était actionnaire de Tesla et que celle-ci était actionnaire de Phoenix Innotech.
+[33] Il a été soutenu que je devais interpréter l’alinéa 18(1)a) de la Loi en tenant compte de la réalité commerciale et que Motech devrait bénéficier de la lecture généreuse de la Cour suprême du Canada de l’alinéa 18(1)a) par l’arrêt Symes.
+[34] Il a aussi été soutenu qu’une jurisprudence de la Cour d’appel fédérale, Lyncorp Intermational Ltd. c. R., 2011 CAF 352, n’était pas pertinente en l’espèce.
+[35] Dans l’affaire Lyncorp, la Cour d’appel fédérale était appelée à rechercher si les dépenses liées aux vols d’un avion qui appartenait en partie à Lyncorp dont M. Mullen était l’unique propriétaire pouvaient être déduites. Aux fins de contrôle des filiales de Lyncorp, M. Mullen a utilisé un avion privé. La question était de savoir si les dépenses liées aux vols assumées par Lyncorp pour ses filiales étaient déductibles dans le calcul de son revenu. La Cour d’appel a décidé que le lien entre les dépenses de vol et le revenu de dividendes éventuel reçu des filiales était trop indirect. En conséquence, Lyncorp ne pouvait pas déduire ces dépenses.
+[36] Selon l’avocat de Motech, l’enseignement de l’arrêt Lyncorp peut être écarté, car il ne s’agissait pas de sociétés qui étaient toutes affiliées comme c’est le cas en l’espèce. En outre, il a été soutenu que, dans l’arrêt Lyncorp, la Cour d’appel fédérale a conclu que la preuve quant à la nature exacte des services fournis par M. Mullen était incomplète. Il n’existait aucune entente entre Lyncorp et M. Mullen précisant les services qu’il devait rendre. M. Mullen n’a reçu aucun honoraire quel qu’il soit pour les services qu’il a rendus, et la Cour d’appel fédérale a conclu que l’usage de l’avion par M. Mullen comportait un élément personnel. L’avocat de Motech soutient que la déduction dans l’arrêt Lyncorp a été refusée pour des motifs liés à la preuve.
+[37] Contrairement à la jurisprudence Lyncorp, il a été soutenu que la déduction des frais de commandite supportés par Motech est justifiée.
+[38] Motech était une société de gestion et de placement. La location, les dividendes et les intérêts étaient les seules sources de revenus de Motech. Lors de son témoignage, M. Mucha a déclaré que Motech avait reçu, par le passé, des dividendes de l’entreprise qu’il possédait auparavant, Orion Packaging. L’avocat de Motech a soutenu que la Cour ne peut pas remettre en question le modèle d’entreprise adopté par M. Mucha et élargir le concept de lien indirect entre la dépense et le flux de revenu appliqué dans l’arrêt Lyncorp.
+[39] L’avocat de Motech a déclaré qu’il était logique sur le plan commercial que Motech n’ait pas injecté directement des fonds dans Phoenix Innotech. Cette dernière était dans une situation financière précaire. Étant donné les nombreux créanciers de Phoenix Innotech, cela aurait été trop risqué pour Motech.
+[40] Il a soutenu que Motech a payé les frais de commandite directement à Orion Packaging afin d’augmenter la valeur de Phoenix Innotech, une filiale de Tesla, dans le but d’obtenir un revenu de dividendes ou d’améliorer le flux de revenu de dividendes du groupe de sociétés affiliées. Le commanditaire était visible sur la piste de course et l’expérience vécue avec une entreprise auparavant permettait de justifier ce modèle d’entreprise et l’anticipation de dividendes.
+[41] Selon l’avocat de Motech, la jurisprudence Potash Corporation of Saskatchewan c. Sa Majesté la Reine, 2011 CCI 213 s’appliquait à la situation de Motech. Il soutient que la jurisprudence Potash enseigne que les dépenses encourues par une société mère dans le but d’améliorer le rendement des investissements dans des filiales constituent des dépenses d’entreprise que pouvait déduire la société mère. Il a cité à cet égard les observations suivantes formulées par le juge Hershfield dans ses motifs du jugement :
+108 D’un point de vue commercial pragmatique, les dépenses en question ont effectivement répondu à un besoin de trésorerie qui faisait partie intégrante de la conduite des activités de PCS. D’un point de vue pratique, les frais de planification fiscale sont engagés dans le cours ordinaire des activités, et les dépenses ainsi engagées ne devraient pas pouvoir être dissociées aussi aisément des activités génératrices de revenus. Une fois que la dépense est dissociée de l’investissement précis qui a donné lieu au revenu – et dans le cas présent, il s’agit des actions de l’entité luxembourgeoise – il faut qu’elle soit liée à l’entreprise qui en a bénéficié. On a amélioré l’entreprise de PCS en faisant d’elle un élément actif sur le marché mondial des engrais. Même si l’extraction minière et la commercialisation de la potasse sont son entreprise, la potasse n’existe pas dans le vide. Il s’agit d’un élément d’engrais – sa valeur et sa qualité marchande en tant que nutriment sont interdépendantes du phosphate et de l’azote. Le fait d’investir dans d’autres entités en vue devenir un intervenant de premier plan dans cet aspect de sa propre entreprise ne peut pas être dissocié de sa propre activité génératrice de revenus. Cela ne fait peut-être pas de l’investissement direct en actions une dépense d’entreprise, mais les dépenses engagées en vue d’améliorer l’efficience de l’investissement de façon à pouvoir mieux exploiter sa propre entreprise en augmentant sa capacité à assurer le service de la dette et en accroissant le financement des opérations canadiennes sont des dépenses engagées en vue de tirer un revenu de l’entreprise. Le fait que les dépenses soient à titre de capital au titre de l’alinéa 18(1)b) ne change pas cette conclusion.
+[42] Il a soutenu que les montants versés à titre de frais de commandite étaient raisonnables dans les circonstances, suivant l’article 67 de la Loi. Il a fait valoir que l’article 67 ne fait pas intervenir une règle d’appréciation commerciale. Les montants dépensés à titre de frais de commandite respectaient les normes et les pratiques au sein de l’industrie. Ainsi, il a soutenu que les frais de commandite étaient raisonnables et que l’appel doit être accueilli.
+La thèse de l’intimée
+[43] Selon l’intimée, Motech essayait de déduire des dépenses qui se rattachaient aux activités d’une autre société du contribuable. Autrement dit, Motech tentait de porter les frais de commandite de Phoenix Innotech en diminution de la source de revenus, à savoir le revenu de dividendes de Tesla.
+[44] L’intimée a signalé que Motech, pendant les années d’imposition 2004[1], 2005 et 2006, n’a exercé aucune activité de fabrication, n’a pas effectué une activité d’expert-conseil et n’a pas offert de services à d’autres personnes. La location, les intérêts et les dividendes étaient les seules sources de revenus de Motech au cours de ces années d’imposition. Les responsabilités de Motech eu égard aux frais de commandite de Phoenix Innotech visant à commanditer l’écurie de courses automobiles d’Orion, se limitaient à payer lesdits frais. Voir l’exposé conjoint partiel des faits, paragraphes 3 et 27.
+[45] L’intimée a soutenu que, conformément à l’enseignement de la Cour suprême du Canada dans l’arrêt Stewart c. Canada, 2002 CSC 46, lorsqu’il s’agit de trancher une question ayant trait à la déductibilité d’une dépense, le lien qui existe entre cette dépense et la source de revenu à laquelle elle se rapporte est en cause. Elle a aussi soutenu que la Cour d’appel fédérale enseigne, par les arrêts Byram et Lyncorp, que les dépenses ne sont pas déductibles lorsque le lien qui existe entre les dépenses et la source de revenus est trop éloigné.
+[46] L’intimée a soutenu que, conformément au libellé de l’alinéa 18(1)a) de la Loi, la Cour doit rechercher objectivement la raison pour laquelle les frais de commandite ont été supportés. Ont-ils été supportés dans le but de tirer un revenu d’un bien, à savoir des dividendes, ou était-ce pour améliorer le flux de revenu de Phoenix Innotech?
+[47] L’intimée a soutenu qu’il existait, à la lumière des faits de l’espèce, un lien très direct entre les dépenses de commandite et le flux de revenu d’entreprise de Phoenix Innotech, mais que le lien entre les dépenses de commandite et le revenu de dividendes allégué de Phoenix Innotech par l’entremise de Tesla était trop indirect et ténu.
+[48] Selon l’intimée, il ressort de la preuve documentaire et du témoignage présenté à l’audience que les paiements que Motech a effectués à Orion Racing pour le compte de Phoenix Innotech à titre de frais de commandite visaient à promouvoir Phoenix Innotech afin que celle-ci devienne rentable.
+[49] L’intimée a renvoyé au paragraphe 28 de l’exposé conjoint partiel des faits, dans lequel il y est indiqué ce qui suit : Les frais de commandite de Phoenix ont servi à la publicité des activités de fabrication et de commercialisation des machines d’emballage sous film étirable de Phoenix.
+[50] L’intimée a aussi fait renvoi aux paragraphes 34, 35 et 37 de la réplique à la réponse à l’avis d’appel, dans laquelle l’appelante déclare ce qui suit :
+[traduction]
+34. L’appelante a payé les frais de commandite pour que Phoenix puisse prendre de l’expansion et tirer un revenu de son entreprise d’emballage sous film étirable, y compris, entre autres, établir une marque de concert avec Orion, proposer une marque aux ingénieurs en tant que clients importants de Phoenix et accroître la notoriété du nom de Phoenix auprès de ces clients.
+35. Il existe un lien entre le paiement des frais de commandite à Orion et les activités d’emballage sous film étirable de Phoenix, une industrie hautement spécialisée.
+37. L’appelante a payé les frais de commandite pour aider Orion et Phoenix; l’Agence du revenu du Canada n’a jamais posé de questions au sujet des pertes d’exploitation nettes découlant des activités.
+[51] En outre, l’intimée a attiré l’attention de la Cour sur le témoignage de M. Mucha selon lequel le paiement des frais de commandite visait à attirer des clients pour Phoenix Innotech. Elle estime que Phoenix Innotech était la seule société qui bénéficierait d’une augmentation des ventes attribuable à la publicité et à la promotion.
+[52] Il n’est pas controversé entre l’intimée et Motech que le modèle d’entreprise que M. Mucha avait utilisé auparavant était pertinent pour rechercher la raison d’être des paiements de frais de commandite effectués par Motech. Selon le modèle d’entreprise précédent, les dépenses de commandite étaient directement liées au flux de revenu de l’entreprise d’emballage sous film étirable. Lors de son témoignage, M. Mucha a déclaré que les frais de commandite pour Orion Racing avaient été assumés par Orion Packaging. Si les dépenses étaient directement liées à l’amélioration de la rentabilité de l’entreprise d’emballage sous film étirable d’Orion Packaging, la seule différence qui existe entre le modèle d’entreprise précédent et celui adopté au cours des années en cause tenait au fait que les frais de commandite ont été payés par Motech. La raison d’être des frais de commandite est demeurée la même, à savoir que les paiements ont été faits pour rendre Phoenix Innotech plus rentable.
+[53] Quant à la thèse de Motech voulant qu’il soit logique sur le plan commercial que celle-ci n’injecte pas de fonds dans les sociétés en aval, à savoir dans Phoenix Innotech par l’entremise de Tesla, en raison des difficultés financières auxquelles faisait face Phoenix Innotech et de ses nombreux créanciers, l’intimée a soutenu que les états financiers de Tesla, de Phoenix Innotech et de Motech indiquaient le contraire. Au cours des années en cause, Motech a versé d’importantes sommes d’argent à Tesla à titre d’avances ou de prêts, tout comme Tesla en a versées à Phoenix Innotech. En 2006, Motech avait prêté jusqu’à 1,2 million de dollars sans intérêt à Phoenix Innotech, par l’entremise de Tesla. Voir le recueil conjoint de documents, onglets 1 à 11.
+[54] L’intimée a signalé que Motech a versé toutes les sommes d’argent à Phoenix Innotech en passant par Tesla, hormis les frais de commandite. Elle a soutenu que la raison invoquée par Motech pour justifier pourquoi cette dernière avait payé directement les frais de commandite à Orion Racing ne tient pas à la lumière des livres comptables des sociétés.
+[55] L’intimée a aussi renvoyé aux écritures comptables qui démontraient que Motech a continué à assumer les dépenses d’Orion Racing liées à l’écurie de courses automobiles de même que les dépenses d’entretien et de réparation des voitures de course après que Pro Mach a cessé de payer les frais de commandite à Orion Racing en 2003 et que Tesla a fait l’acquisition, le 4 juillet 2004, de 55 % des actions de Phoenix Innotech.
+[56] L’intimée a aussi renvoyé au paragraphe 22 de l’exposé conjoint partiel des faits, dans lequel il est indiqué que les coûts d’entretien et de réparation des voitures de course de 106,277 $ et de 139,786 $ pour les années d’imposition 2005 et 2006, respectivement, auraient été payés par Motech à Orion Racing relativement aux frais de commandite. Pourtant, il est admis au paragraphe 23 de l’exposé conjoint partiel des faits que l’entretien des voitures de course d’Orion constituait des dépenses courantes ou des dépenses d’exploitation d’Orion Racing.
+[57] L’intimée a soutenu que, contrairement à la thèse de Motech, les dépenses d’entretien et de réparation des voitures de course ne pouvaient pas être rattachées aux dividendes éventuels de Phoenix Innotech.
+[58] Selon l’intimée, il y avait une autre dimension dans le présent appel, à savoir un élément personnel. M. Mucha, qui contrôlait les sociétés à l’époque pertinente, était un passionné de course automobile; il a été le seul à piloter les voitures de l’écurie Mucha pendant les années d’imposition 2004, 2005 et 2006.
+[59] Par conséquent, il ressort d’une analyse objective des faits que Motech payait les frais de commandite dans le but de rendre Phoenix Innotech plus rentable. Il existe un lien entre les frais de commandite et le flux de revenu d’entreprise de Phoenix Innotech.
+[60] L’intimée a cité la décision de la Cour rendue dans Lyncorp, laquelle a ensuite été confirmée par la Cour d’appel fédérale.
+[61] L’intimée a renvoyé aux observations suivantes formulées par le juge C. Miller, au paragraphe 46 des motifs du jugement, où il était question d’une société mère qui avait essayé de déduire des frais d’exploitation pour le compte de ses filiales :
+46 L’affaire est unique en son genre dans la mesure ou une société, Lyncorp, a engagé des frais (abstraction faite de tout élément personnel pour le moment), que je qualifierais de frais d’exploitation, pour les activités d’autres sociétés (Shulin Mining, Shulin Lake Lodge, C.R Boatland, Shear) dans lesquelles elle détenait des créances ou des parts, sans transmettre ces frais à ces sociétés en exploitation. L’appelante peut à bon droit déclarer que sa participation pourrait produire un revenu tiré d’un bien, c’est‑à‑dire qu’il s’agit d’une source de revenu. Pourtant, il est tout aussi clair que Shulin Mining, Shulin Lake Lodge, C.R. Boatland et Shear, si on leur avait demandé de payer ces frais d’exploitation, auraient pu et auraient dû les déduire étant donné que ces frais leur auraient permis de tirer un revenu de leurs activités, c’est‑à‑dire qu’il y avait une source de revenu tirée d’une entreprise. Cependant, concrètement, une seule société a engagé les frais, Lyncorp. Je reviendrai sur ce point.
+[62] L’intimée a cité les paragraphes 73 et 75 suivants des motifs du jugement dans la décision Lyncorp rendus par le juge C. Miller, dans lesquels il est question de la source de revenu qui est liée à une dépense payée par la société mère au lieu de la société en exploitation :
+73 Le dilemme est de savoir quel est le rapport qui donne éventuellement lieu à une dépense déductible : le rapport entre la dépense, soit les frais contestés de transport en avion et le revenu d’entreprise des entreprises commerciales particulières, ou le rapport entre la dépense et le revenu tiré d’un bien (les dividendes) de la société mère qui a effectué la dépense? J’ai tenté de résoudre ce dilemme, lors des débats, en demandant aux parties s’il s’agissait d’un rapport direct ou indirect. Les parties ne semblent pas avoir été prêtes à mordre à l’hameçon. Pourtant, il me semble que tel est le nœud de la cause. À quelle source de revenu la dépense est-elle censée se rapporter? Le fait que l’appelante a effectué la dépense influe peu sur la réponse à cette question. L’appelante soutient que la dépense se rapporte à la source de revenu tirée d’un bien. C’est peut‑être bien le cas, indirectement. Cependant, à coup sûr, les autres frais de transport en avion controversés se rapportent directement au revenu d’entreprise des entreprises commerciales. Les dépenses ont été effectuées en vue d’assurer la rentabilité des entreprises commerciales. Cela pourrait donner lieu, à un moment donné dans 1’avenir, à un revenu de dividendes, mais le lien direct entre la cause et l’effet est un lien entre les dépenses et le revenu d’entreprise des entreprises commerciales, et non le rapport avec la source de revenu tirée d’un bien.
+75 L’appelante a de fait donné à ses entreprises commerciales plusieurs centaines de milliers de dollars, non au moyen d’une créance ou d’une participation, mais simplement en assurant des services gratuits permettant à ces entreprises d’exercer leurs activités, dans l’espoir que cette générosité les aide à s’établir et peut-être bien un jour, d’une certaine façon, à rembourser ces fonds. Cette générosité ne constituait ni un prêt ni une participation de la part de l’appelante. Il s’agirait plutôt d’une entente dans laquelle une partie s’engage à payer les dépenses de quelqu’un d’autre. Les investissements sous forme de participation produisent un revenu de dividendes. Les investissements sous forme de créance produisent un revenu d’intérêts. Les services gratuits, sans obligation de remboursement, ne produisent que de l’espoir. Il ne s’agit pas d’une dépense déductible.
+[63] L’avocat de l’intimée a soutenu que la jurisprudence Lyncorp s’applique en l’espèce. Selon lui, les motifs du jugement du juge C. Miller vont dans le même sens que le témoignage de M. Mucha. Il ressort des preuves que ce dernier, comme c’était le cas avec M. Mullen dans l’affaire Lyncorp, voulait faire de Phoenix Innotech une société rentable. M. Mucha a déclaré que les frais de commandite avaient porté fruit pour Orion Packaging, il pourrait donc en être ainsi pour Phoenix Innotech.
+[64] L’intimée a soutenu que la jurisprudence Byram ne saurait être appliquée en l’espèce. Dans l’affaire Byram, la question était de savoir si le contribuable qui a consenti un prêt sans intérêt à une société dans laquelle il détenait des actions pouvait déduire une perte en capital en vertu du sous-alinéa 40(2)g)(ii) de la Loi.
+[65] L’intimée a soutenu que M. Byram a injecté des fonds dans son entreprise sous forme de prêt sans intérêt. Dans l’affaire Byram, il a été conclu que l’injection de capital sous forme de prêt dans une société correspond à la réalité commerciale.
+[66] L’avocat de l’intimée a soutenu que le fait pour une société mère de demander une déduction des dépenses d’exploitation d’une filiale dans laquelle elle ne détient pas d’actions, compte tenu du fait que les dépenses ont été payées dans le but de gagner un revenu sous forme de dividendes, n’est pas compatible avec la réalité commerciale. L’intimée a aussi soutenu que le fait qu’il s’agissait de sociétés affiliées est sans importance.
+[67] L’intimée a aussi fait valoir que les montants déduits à titre de frais de commandite ne ​​sont pas raisonnables en vertu de l’article 67 de la Loi.
+Analyse
+[68] Le critère permettant de décider si une dépense est déductible a été consacré par la Cour suprême du Canada par l’arrêt Stewart. S’exprimant au nom de la majorité, les juges Iacobucci et Bastarache ont expliqué sur le contribuable doit d’abord démontrer qu’il ou elle a une source de revenu en vertu de l’article 9 de la Loi. Une fois une source de revenu établie, le lien qui existe entre la dépense et la source à laquelle elle est censée se rapporter doit être analysé afin de rechercher si la dépense est déductible. Au paragraphe 57 de leurs motifs, ils se donné les explications suivantes :
+57. Il ressort clairement de ces dispositions que la déductibilité des dépenses présuppose l’existence d’une source de revenu et, partant, qu’elle ne doit pas être confondue avec l’examen préliminaire portant sur l’existence de cette source. Si la déductibilité d’une dépense particulière est en cause, ce n’est pas l’existence d’une source de revenu qui doit être mise en doute, mais plutôt le lien entre cette dépense et la source à laquelle elle est censée se rapporter. Le fait qu’une dépense soit considérée comme faisant partie des frais personnels ou de subsistance n’influe aucunement sur la qualification de la source de revenu à laquelle le contribuable tente de rattacher la dépense; cela signifie simplement que la dépense ne peut être rattachée à la source de revenu en question. De même, si, dans les circonstances, la dépense est déraisonnable eu égard à la source de revenu, alors l’art. 67 de la Loi établit un mécanisme permettant d’en réduire ou d’en supprimer le montant. Là encore, toutefois, des dépenses excessives ou déraisonnables n’ont aucune incidence sur la qualification d’une activité comme étant une source de revenu.
+[Non souligné dans l’original.]
+[69] Par conséquent, la question que je dois trancher dans le présent appel est la suivante : quelle est la source de revenu à laquelle sont rattachés les frais de commandite? Sont-ils liés au flux de revenu d’entreprise que sont les dividendes que Phoenix Innotech pourrait verser à Motech par l’entremise de Tesla, ou sont-ils liés au flux de revenu d’entreprise de Phoenix Innotech?
+[70] Pour répondre à cette question, je dois rechercher la raison pour laquelle Motech payait les frais de commandite. L’alinéa 18(1)a) de la Loi prévoit que les dépenses, pour être déductibles, doivent être effectuées en vue de tirer un revenu de l’entreprise ou du bien.
+[71] Il incombe à la Cour de rechercher la raison pour laquelle la dépense est effectuée par le contribuable en invoquant une évaluation objective des faits. Dans l’arrêt Symes, voici ce que le juge Iacobucci a déclaré au sujet de l’alinéa 18(1)a), s’exprimant au nom de la Cour suprême du Canada :
+74. Comme dans d’autres domaines du droit, lorsqu’il faut établir l’objet ou l’intention des actes, on ne doit pas supposer que les tribunaux se fonderont seulement, en répondant à cette question, sur les déclarations du contribuable, ex post facto ou autrement, quant à l’objet subjectif d’une dépense donnée. Ils examineront plutôt comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances.
+[72] Je suis également consciente du fait que la Cour suprême du Canada a décidé par l’arrêt Symes, que la dépense n’a pas à mener directement à la production de revenus pour être déductible. Par conséquent, pour rechercher si Motech a le droit de déduire les frais de commandite, il importe peu que Phoenix Innotech n’ait versé aucun dividende à Motech par l’entremise de Tesla.
+[73] À la lumière de tous les faits de l’espèce, je suis d’avis que Motech a payé les frais de commandite à Orion Racing pour le compte de Phoenix Innotech afin d’améliorer le flux de revenu de Phoenix Innotech.
+[74] Le témoignage de M. Mucha au cours de l’audience corrobore cette conclusion :
+p. 39, ligne 105 :
+[traduction]
+[105] Q. Quelle était la raison principale pour laquelle la commandite devait être mise en œuvre à partir de 2004?
+R. Eh bien, c’était dans le but d’être accepté au sein du marché, comme nous l’avons fait avec Orion Packaging, afin de bénéficier d’une visibilité au sein du marché de l’équipement d’emballage sous film étirable semblable à celle que nous avions avec Orion Packaging.
+p. 48 et 49, ligne 141 :
+[traduction]
+[141] Q. Quel était l’intérêt de Motech [...], dans quel but Motech payait-elle ces dépenses?
+R. Eh bien, Motech est [...] n’était pas la seule propriétaire à ce moment‑là, mais elle était propriétaire de Phoenix Innotech par l’entremise de Tesla et désirait promouvoir l’entreprise afin que nous puissions la rendre rentable et qu’elle verse des dividendes à Motech.
+p. 56 et 57, lignes 186 à 190 :
+[traduction]
+[186] Q. Oui, mais je pose la question seulement pour la première phrase :
+L’appelante a payé [...]
+L’appelante, c’est Motech.
+[...] a payé des frais de commandite [...]
+R. Je ne crois pas que ce soit très bien formulé.
+[187] Q. Eh bien, vous reconnaissez qu’il s’agissait de services en vue de promouvoir les activités commerciales de Phoenix d’emballage sous film étirable?
+R. Oui.
+[188] Q. Vous en convenez?
+R. Oui.
+[189] Q. Donc, cela visait les clients potentiels de Phoenix Innotech, c’est bien ça?
+R. Oui.
+[190] Q. Donc, cela visait à accroître les ventes de Phoenix Innotech à l’aide d’une certaine forme de publicité ou de promotion.
+R. Oui.
+[75] En outre, le paragraphe 28 de l’exposé conjoint partiel des faits, ainsi que les paragraphes 34, 35 et 37 de la réplique à la réponse à l’avis d’appel, confirment que les frais de commandite payés par Motech visaient à améliorer le flux de revenu de Phoenix Innotech.
+[76] Les parties se sont par ailleurs exprimées sur les faits suivants lors des débats :
+· L’avocat de Motech a déclaré qu’il était trop risqué pour Motech d’injecter directement des fonds dans Phoenix Innotech par l’entremise de Tesla, étant donné les nombreux créanciers de Phoenix Innotech. Selon les états financiers des entreprises, des sommes importantes ont été injectées par Motech chaque année, sous forme d’avances ou de prêts consentis à Phoenix Innotech par l’entremise de Tesla. Par conséquent, cette explication ne tient pas.
+· L’intimée a également fait valoir que selon les documents comptables de Motech, cette dernière a continué à payer les dépenses d’Orion Racing relatives à l’écurie de courses automobiles ainsi qu’à l’entretien et à la réparation des voitures de course même s’il n’y avait aucune entreprise à commanditer, notamment en décembre 2003 et juillet 2004. Il ne peut donc être affirmé que c’était dans le but de tirer des dividendes.
+Selon moi, ces faits peuvent être pertinents en l’espèce en ce qui a trait à un élément personnel. Toutefois, ils n’ont aucune importance pour déterminer la source de revenu à laquelle les frais de commandite se rapportaient selon le critère énoncé dans l’arrêt Stewart.
+[77] Ainsi que je l’ai mentionné auparavant, M. Mucha a tenté d’appliquer le même modèle d’entreprise que celui qu’il avait utilisé auparavant avec Orion Packaging. Dans le premier cas, c’était Orion Packaging qui payait les frais de commandite à Orion Racing. Les frais de commandite visaient clairement à donner un avantage à Orion Packaging en améliorant son flux de revenu. Dans le présent appel, si l’on applique le même modèle d’entreprise, les frais de commandite visaient clairement à donner un avantage à Phoenix Innotech, vu qu’ils amélioraient son flux de revenu.
+[78] À mon avis, bien que chaque affaire met en jeu des moyens de faits, les décisions rendues dans l’affaire Lyncorp comportent de nombreuses similarités avec le présent appel :
+· La question soulevée dans l’affaire Lyncorp est la même qu’en l’espèce, à savoir si une société mère peut déduire une dépense d’entreprise qu’elle a payée pour le compte de sa filiale en vue de tirer un revenu de dividendes.
+· Comme c’était le cas dans l’affaire Lyncorp, le fait que la société mère ait effectué les dépenses n’était pas un facteur déterminant du rapport qui existait entre les dépenses et le flux de revenu.
+· Dans l’affaire Lyncorp, les dépenses payées par la société mère se rapportaient directement au revenu d’entreprise des entreprises commerciales. Les dépenses ont été effectuées en vue d’assurer la rentabilité des entreprises commerciales. Il n’est pas controversé entre les parties que cela pourrait donner lieu, à un moment donné, à un revenu de dividendes pour la société mère, mais il s’agissait d’un lien direct entre les dépenses et le revenu d’entreprise des entreprises commerciales, et non d’un rapport avec la source de revenu tirée d’un bien. Il en va de même en l’espèce.
+· Comme c’était le cas dans l’affaire Lyncorp, il n’existait aucune entente de commandite entre Orion Racing et Motech ou Phoenix Innotech. Orion Racing n’a pas émis de facture ou autre document à Motech ou à Phoenix Innotech relativement aux frais de commandite.
+[79] Dans l’arrêt Byram, le juge McDonald de la Cour d’appel fédérale a fait une observation intéressante au sujet du concept de lien indirect. Voici ce qu’il a déclaré :
+23. Dans les cas où le contribuable ne possède pas de capital-actions de la société débitrice, mais est actionnaire de la société mère ou d’une autre société actionnaire de la société débitrice, il n’a pas le droit de recevoir un revenu de dividendes directement de la société débitrice. Règle générale, la preuve de l’existence d’un lien suffisant entre le contribuable et le revenu de dividendes sera beaucoup plus difficile à faire. La question de savoir s’il existe un lien suffisant entre le contribuable et les gains éventuels de la société débitrice est tranchée au cas par cas, en fonction des faits propres à l’affaire.
+[80] Selon moi, Motech n’a pas établi l’existence d’un lien suffisamment important entre les frais de commandite qu’elle a versés à sa filiale, Orion Racing, pour le compte d’une autre filiale, Phoenix Innotech, pour des dividendes éventuels tirés d’une autre filiale, Tesla. Autrement dit, la possibilité de recevoir des dividendes était trop faible.
+[81] Il est également difficile de comprendre comment les paiements que Motech a versés à Orion Racing pour les dépenses d’entretien et de réparation des voitures de course visaient à tirer des dividendes de Tesla. Il n’existe clairement aucun lien entre les frais d’exploitation d’Orion Racing et le revenu de dividendes allégué de Phoenix Innotech par l’entremise de Tesla.
+[82] Si Phoenix Innotech avait assumé les frais de commandite, ils auraient été déductibles dans le calcul de son revenu[2]. Les frais de commandite, sans examiner « qui » les a payés, sont des frais de nature commerciale et non des frais d’exploitation de biens. Peuvent-ils se transformer en frais d’exploitation de biens en raison du statut du payeur? Selon moi, il faut répondre à cette question par la négative. À mon avis, cela correspond à la question du concept de lien indirect sur lequel s’est exprimée la Cour d’appel par les arrêts Lyncorp et Byram. Le fait que nous ayons affaire à des sociétés affiliées est sans importance.
+[83] Par l’arrêt Stewart, les juges Iacobucci et Bastarache de la Cour suprême ont, à mon avis, étudié la même question en déclarant que lorsqu’est en cause la déductibilité d’une dépense, le lien qui existe entre cette dépense et la source de revenu à laquelle elle se rapporte est en cause.
+[84] En ce qui concerne l’affaire Potash, alors, les honoraires de consultation ont été payés par Potash pour son propre bénéfice. Potash a payé les honoraires de consultation afin de mettre en œuvre un plan grâce auquel les liquidités seraient mises à sa disposition de la manière la plus avantageuse sur le plan fiscal. Il a également été souligné dans la décision Potash que chaque entité payait ses propres frais liés à la restructuration. Il a été conclu que les honoraires de consultation étaient des dépenses en capital admissibles selon l’article 14 de la Loi et déductibles en application de l’alinéa 20(1)b) de la Loi. La décision n’est donc pas applicable en l’espèce.
+[85] Par l’arrêt Stewart, les juges Iacobucci et Bastarache ont dit que, lorsqu’il a été déterminé qu’il existe un lien entre les dépenses et la source de revenu, les dépenses peuvent toujours ne pas être déductibles si elles sont jugées déraisonnables suivant l’article 67 de la Loi ou s’il s’agit de frais personnels selon l’alinéa 18(1)h) de la Loi.
+[86] Étant donné la conclusion que j’ai tirée, je ne suis pas appelée à me prononcer sur la question à savoir si l’article 67 ou l’alinéa 18(1)h) de la Loi s’applique en l’espèce.
+[87] Les appels sont rejetés avec dépens.
+Signé à Toronto (Ontario), ce 10e jour d’octobre 2012.
+« Johanne D’Auray »
+Juge D'Auray
+Traduction certifiée conforme
+Ce 12e jour de février 2013.
+François Brunet, réviseur
+RÉFÉRENCE : 2012 CCI 351
+NO DU DOSSIER DE LA COUR : 2010-776(IT)G
+INTITULÉ : MOTECH TECHNOLOGIE DE MOULAGE INC. / MOTECH MOLDING INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 13 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge Johanne D'Auray
+DATE DU JUGEMENT : Le 10 octobre 2012
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Marc-Antoine Deschamps
+Avocat de l’intimée :
+Me Philippe Dupuis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Marc-Antoine Deschamps
+Cabinet : Morency Société d’Avocats, S.E.N.C.R.L.
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’année d’imposition 2004 de Motech n’a pas fait l’objet d’une nouvelle cotisation étant donné que le délai pour permettre de procéder à une nouvelle cotisation avait expiré.
+[2] Si la question ayant trait à un élément personnel n’est pas soulevée.

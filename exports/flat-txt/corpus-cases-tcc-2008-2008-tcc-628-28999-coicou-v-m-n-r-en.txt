@@ -1,0 +1,269 @@
+Title: Coicou v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28999/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-628-28999-coicou-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-12-03
+
+# Coicou v. M.N.R.
+
+- Citation: 2008 TCC 628
+- Decision date: 2008-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6748, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coicou v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-03
+Neutral citation
+2008 TCC 628
+File numbers
+2008-462(EI)
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2008-462(EI)
+2008-464(EI)
+2008-466(EI)
+BETWEEN:
+KARL COICOU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on July 29, 2008, at Montréal, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Roch Guertin
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, and the decision made by the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 3rd day of December 2008.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 13th day of January 2009.
+Brian McCordick, Translator
+Citation: 2008 TCC 628
+Date: 20081203
+Dockets: 2008-462(EI)
+2008-464(EI)
+2008-466(EI)
+BETWEEN:
+KARL COICOU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Karl Coicou is appealing from decisions made by the Minister of National Revenue ("the Minister") under the Employment Insurance Act ("the Act"). The Minister decided that Mr. Coicou was not employed in insurable employment by the following three payors ("the three payors") during the following relevant periods:
+March 16, 2005, to August 27, 2005
+Thermo Service Supérieur Inc.
+February 1, 2006, to May 10, 2006
+C.S.I. Mécanique du Bâtiment Inc.
+July 4, 2006, to December 16, 2006
+Chauffage Electroheat Inc.
+[2] The justification for the Minister's decisions was his finding that Mr. Coicou did not hold insurable employment under a contract of employment during the relevant periods because the contracts were null in view of the fact that Mr. Coicou did not have a work permit during those periods.
+[3] The Minister's decision in Docket No. 2008-464(EI) (Thermo Service Supérieur Inc.) was based on the following assumptions of fact:
+(a) During the period in issue, the Appellant worked for the Payor as a canvasser. (admitted)
+(b) During that period, he accrued 608 hours of work and earned a total of $10,223.39, as stated in the Record of Employment issued by the Payor. (admitted)
+(c) The Appellant is originally from Haiti. (admitted)
+(d) He has been residing in Canada for approximately 30 years. (admitted)
+(e) The Appellant has a university education. (denied)
+(f) He was admitted to Canada on humanitarian grounds. (admitted)
+(g) Upon his arrival in Canada, he requested and obtained a work permit, which he renewed annually until 1991. (admitted)
+(h) The Appellant did not renew his work permit for the 16 years from 1991 to 2007. (admitted)
+(i) The Appellant states that he did not renew his work permit because his employers, including the Payor, did not ask to see his work permit. (admitted)
+(j) The Appellant did not apply for employment insurance (EI) benefits during any of these years. (admitted)
+(k) In 2006, he claimed EI benefits for the first time. (admitted)
+(l) The Appellant "forgot" that he needed to have a work permit in order to be eligible for benefits. (denied)
+(m) The Appellant thought that the amounts withheld on account of EI and provincial and federal income tax were a sufficient indicator of his eligibility for benefits. (admitted)
+(n) During the period in issue, the Appellant held no permit to work in Canada. (admitted)
+(o) The Appellant had access to information concerning the issuance of work permits and the means by which to obtain them, and that information was available in a language in which he is fluent, since he has a French‑language university education. (denied)
+(p) The Appellant was familiar with the procedures for renewing his work permit because he renewed it each year from 1988 to 1991. (denied)
+(q) During all the years that he did not apply for a renewal of his work permit, the permit cost $150 to $180 per year, and the Appellant simply said that he did not have enough money for this type of expenditure. (denied)
+(r) The information obtained from Immigration Canada in no way discloses that the Appellant is authorized to work in Canada without a work permit. (no knowledge)
+(s) Under the Civil Code of Québec, the existence of a contract of employment is contingent on holding a valid work permit. (question of law)
+[4] The assumptions of fact in Mr. Coicou's other two appeals are substantially similar to those in Docket No. 2008‑464(EI).
+[5] The only witnesses at the hearing were Mr. Coicou and an officer from Citizenship and Immigration Canada (CIC), formerly Immigration Canada. The CIC officer's testimony provided a much clearer picture of the circumstances of Mr. Coicou's presence in Canada. The officer stated that Mr. Coicou arrived in Canada on August 2, 1977, under a one-year student visa. Mr. Coicou says that he was 14 years old at the time. Being in Canada meant that he could continue his secondary education. Mr. Coicou had come from New York to join his parents, who had immigrated to Canada. His parents had been sponsored by one of his brothers, who had immigrated to Canada and married a Canadian.
+[6] Mr. Coicou stayed in Canada beyond the expiration of his student visa, thereby violating the Immigration Act[1] ("the Immigration Act, 1976"). Since Mr. Coicou was a minor at the time, the Minister issued him a special permit authorizing him to extend his stay in Canada. This permit was renewed twice, until October 15, 1981.
+[7] According to the academic record created by the Commission des écoles catholiques de Montréal, Mr. Coicou completed his secondary studies at École secondaire professionnelle de l'Ouest on January 22, 1982. His classes at the technical school included sheet-metal mechanics, hydronics, electrotechnics, technical drawing and mechanics (Exhibit A‑4).
+[8] Contrary to what is stated in his EI benefit application dated March 28, 2007, (Exhibit A‑5), Mr. Coicou is not a university graduate. He stopped studying when he graduated from high school, and the first job that he got following his graduation was with a company located near the Canadair plant in Ville St-Laurent.
+[9] On May 5, 1983, Mr. Coicou was ordered to leave Canada; the special Minister's permit had been revoked or had not been renewed. It appears that this decision by Immigration Canada was related to some trouble that Mr. Coicou had with the law. Mr. Coicou was convicted of theft under $200 on May 11, 1983. He was later convicted of mischief causing damage to public property (January 11, 1984) and theft under $200 (March 21, 1985). A few days later, on March 24, 1985, his claim for refugee status was denied.
+[10] Mr. Coicou got married in 1986 and apparently had one child that year and another child the following year.
+[11] Although he no longer had the requisite legal status to be in Canada, Mr. Coicou obtained work permits during the 1980s and 1990s. The first permit was issued to him for the period from August 9, 1988, to August 8, 1989, the second was issued for August 9, 1989, to August 8, 1990, and the third was issued for June 1, 1990, to May 31, 1991. According to the CIC officer, CIC provides foreigners applying for work permits with an information kit that reminds them that they must obtain a work permit in order to work in Canada and tells them how to fill out an application.
+[12] On November 11, 1992, Mr. Coicou submitted an application for permanent residence based on humanitarian considerations.[2] The Government of Canada began by issuing an order exempting Mr. Coicou from the requirement to hold a visa to stay in Canada, the requirement to hold a passport, and the requirement to meet the usual selection criteria. These requirements apply to foreign nationals who have been residing in Canada for a long time, who have a family here, and who have held jobs showing a certain degree of integration into Canadian society. However, because of his criminal record, Mr. Coicou's permanent residence application could not be accepted unless he got a pardon from the National Parole Board. Mr. Coicou was to become eligible for such a pardon on December 25, 2000.
+[13] On May 29, 2001, Mr. Coicou was asked to react to new information that CIC had obtained. According to that information, Mr. Coicou was potentially an inadmissible person. On February 11, 2002, Mr. Coicou applied for a work permit (Exhibit I-2). On March 11, 2002, CIC received an application to change conditions of stay, signed by Mr. Coicou, for the purpose of becoming a permanent resident. His address, as stated on the application, was 5200 Dudemaine, Apartment 419, Montréal, Quebec H4J 1N8 (though it should be noted that the J resembles a T). In an interview held on June 19, 2002, in connection with his February 2002 work permit application, an immigration officer recommended that he apply for a pardon as soon as possible so that his application for permanent residence could be finalized.
+[14] In a letter dated June 21, 2002, sent to 5200 Dudemaine Street, Apartment 419, Montréal, Quebec H4T 1N8,[3] an immigration counsellor notified Mr. Coicou that CIC had been unable to contact him with respect to his work permit application of February 11, 2002, and told him that, in view of the circumstances, she had to refuse that application (Exhibit I‑2). She wrote that if he wanted such a permit, he would have to reapply and enclose a payment of $150 for the document. Mr. Coicou does not recall applying for such a permit. He does not recall having received the letter dated June 21, 2002, either. In fact, he does not recall whether he lived on Dudemaine Street at that time. Upon being shown the 2002 permit renewal application, Mr. Coicou said [TRANSLATION] "I do not want to lie" and recognized his signature. He said: [TRANSLATION] "Truthfully, I do not recall signing it." He also said: [TRANSLATION] "Truthfully, if I had known that the payment of $150 would have entitled me to a work permit, I would have paid it." In his request for a local police record check dated March 13, 2007, Mr. Coicou identified one of the addresses where he had lived in the course of the past five years as 5200 "du Domaine" Street, Apt. 419. He wrote that he lived there from September 1997 to September 2003 (Exhibit A‑7). It is very likely that Mr. Coicou confused "Dudemaine" for "du Domaine" when he filled out that form. Since the civic address and apartment number are correct, and since he entered the street as "Dudemaine" in his March 2002 application to change the conditions of his stay, it is very likely that he was living on Dudemaine Street in June 2002 when the immigration officer tried to reach him. However, owing to the mistake with the postal code, there is no way to be sure that the letter of June 21, 2002, was delivered to him.
+[15] On December 2, 2004, CIC reminded Mr. Coicou that he has had the option, since December 25, 2000, to ask the National Parole Board for a pardon, and it requested that he kindly provide CIC with evidence of the making of such a request. On March 31, 2005, the immigration officer reminded Mr. Coicou that he had not acted on the request for evidence that he had applied for a pardon, reminded him that he had been convicted of several criminal offences from 1983 to 1997, and declared him inadmissible to Canada under paragraph 36(2)(a) of the IRPA (see Exhibit I‑1).
+[16] Although this new declaration of inadmissibility was sent to him on March 31, 2005, there were no enforcement measures because of Canada's moratorium on the expulsion of Haitian nationals. The moratorium has been in effect since 2004.
+[17] To date, Mr. Coicou has not filed a new application for permanent residence. However, he did apply for a pardon on January 30, 2006 (Exhibit A‑7). He has not yet obtained a decision from the National Parole Board. According to the CIC officer, Mr. Coicou has no status that would enable him to live in Canada. If he remains, it is due to the Canadian government's administrative tolerance, which, in all likelihood, is due to the moratorium applicable to people from Haiti.
+[18] Mr. Coicou applied for EI benefits in 2006 because health problems prevented him from working. He submitted a new application for a work permit and obtained one for the period from June 1, 2007, to June 1, 2008.
+[19] In his testimony, Mr. Coicou frequently repeated that he did not apply for a work permit during the relevant periods because his potential employers, including the three payors, never asked to see such a permit, and that if he had known that a permit was necessary, he would have had no problem paying the $150. Mr. Coicou noted that his income tax returns report all the income that he earned from the three payors, and that he paid EI premiums.
+[20] The CIC officer also confirmed that, in all likelihood, Mr. Coicou obtained his work permit because such permits are issued almost automatically.
+The parties' positions
+The Respondent's position
+[21] Counsel for the Minister made a clear and concise statement of the law governing the issues. She noted that the relevant provision that must be interpreted here is paragraph 5(1)(a) of the Act, which provides:
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[Emphasis added.]
+[22] Since the Act does not define the concept of a "contract of service", and since the concept belongs to the field of property and civil rights, it must be analyzed from the perspective of Quebec civil law because the contracts between Mr. Coicou and the three payors were entered into in Quebec. Section 8.1 of the Interpretation Act requires such an approach. It provides:
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province’s rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+[23] Décary J.A. provided the following analysis in 9041‑6868 Québec Inc. v. Canada (Minister of National Revenue), 2005 FCA 334, [2005] F.C.J. No. 1720 (QL) (Tambeau), at paragraphs 5, 6 and 7:
+5 Section 8.1 of the Interpretation Act came into force on June 1, 2001. It codified the principle that the private law of a province and a federal statute are complementary, which had been recognized (see St-Hilaire, supra) but had not always been put into practice. . . .
+6 It is possible, and in most cases even probable, that where contracts are similar they would be characterized similarly, whether the civil law or common law rules are applied. The exercise, however, is not a matter of comparative law, and the ultimate objective is not to achieve a uniform result. On the contrary, the exercise, as was in fact intended by the Parliament of Canada, is one of ensuring that the approach taken by the court is the approach that applies in the applicable system, and the ultimate objective is to preserve the integrity of each legal system. On that point, what was said by Mr. Justice Mignault in Curly v. Latreille, (1920) 60 S.C.R. 131, at page 177 applies as well now as it did then:
+[TRANSLATION] It is sometimes dangerous to go outside a legal system in search of precedents in another system, based on the fact that the two systems contain similar rules, except, of course, where one system has borrowed a rule from the other that was previously foreign to it. Even when the rule is similar in the two systems, it may be that it has not been understood or interpreted in the same way in each of them, and because the legal interpretation — I am of course referring to interpretation that is binding on us — is in fact part of the law that it interprets, it may in fact happen that despite their apparent similarity, the two rules are not at all identical.
+I would therefore not base the conclusions that I think must be adopted in this case on any precedent taken from English law . . . (Emphasis added.)
+7 In other words, it is the Civil Code of Québec that determines what rules apply to a contract entered into in Quebec. Those rules are found in, inter alia, the provisions of the Code dealing with contracts in general (arts. 1377 C.C.Q. et seq.) and the provisions dealing with the "contract of employment" (arts. 2085 to 2097 C.C.Q.) and the "contract of enterprise or for services" (arts. 2098 to 2129 C.C.Q.). Articles 1378, 1425, 1426, 2085, 2098 and 2099 C.C.Q. are of most relevance for the purposes of this case:
+. . .
+[Emphasis added.]
+[24] Thus, the question of whether there was a contract of employment between Mr. Coicou and the three payors must be decided under the provisions of the Civil Code of Québec ("the Civil Code" or "C.C.Q.").
+[25] In the instant case, the relevant provisions of the Civil Code are as follows:
+9. In the exercise of civil rights, derogations may be made from those rules of this Code which supplement intention, but not from those of public order.
+1413. A contract whose object is prohibited by law or contrary to public order is null.
+1417. A contract is absolutely null where the condition of formation sanctioned by its nullity is necessary for the protection of the general interest.
+1418. The absolute nullity of a contract may be invoked by any person having a present and actual interest in doing so; it is invoked by the court of its own motion.
+A contract that is absolutely null may not be confirmed.
+1419. A contract is relatively null where the condition of formation sanctioned by its nullity is necessary for the protection of an individual interest, such as where the consent of the parties or of one of them is vitiated.
+1420. The relative nullity of a contract may be invoked only by the person in whose interest it is established or by the other contracting party, provided he is acting in good faith and sustains serious injury therefrom; it may not be invoked by the court of its own motion.
+A contract that is relatively null may be confirmed.
+1422. A contract that is null is deemed never to have existed.
+In such a case, each party is bound to restore to the other the prestations he has received.
+[Emphasis added.]
+[26] The relevant provisions of the IRPA and the Regulations are as follows:
+Act
+2(1) The definitions in this subsection apply in this Act.
+"foreign national" means a person who is not a Canadian citizen or a permanent resident, and includes a stateless person.
+2(2) Unless otherwise indicated, references in this Act to "this Act" include regulations made under it.
+30(1) A foreign national may not work or study in Canada unless authorized to do so under this Act.
+30(2) Every minor child in Canada, other than a child of a temporary resident not authorized to work or study, is authorized to study at the pre-school, primary or secondary level.
+41. A person is inadmissible for failing to comply with this Act
+(a) in the case of a foreign national, through an act or omission which contravenes, directly or indirectly, a provision of this Act; and
+(b) in the case of a permanent resident, through failing to comply with subsection 27(2) or section 28.
+44(1) An officer who is of the opinion that a permanent resident or a foreign national who is in Canada is inadmissible may prepare a report setting out the relevant facts, which report shall be transmitted to the Minister.
+44(2) If the Minister is of the opinion that the report is well-founded, the Minister may refer the report to the Immigration Division for an admissibility hearing, except in the case of a permanent resident who is inadmissible solely on the grounds that they have failed to comply with the residency obligation under section 28 and except, in the circumstances prescribed by the regulations, in the case of a foreign national. In those cases, the Minister may make a removal order.
+44(3) An officer or the Immigration Division may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that the officer or the Division considers necessary on a permanent resident or a foreign national who is the subject of a report, an admissibility hearing or, being in Canada, a removal order.
+45. The Immigration Division, at the conclusion of an admissibility hearing, shall make one of the following decisions:
+(a) recognize the right to enter Canada of a Canadian citizen within the meaning of the Citizenship Act, a person registered as an Indian under the Indian Act or a permanent resident;
+(b) grant permanent resident status or temporary resident status to a foreign national if it is satisfied that the foreign national meets the requirements of this Act;
+(c) authorize a permanent resident or a foreign national, with or without conditions, to enter Canada for further examination; or
+(d) make the applicable removal order against a foreign national who has not been authorized to enter Canada, if it is not satisfied that the foreign national is not inadmissible, or against a foreign national who has been authorized to enter Canada or a permanent resident, if it is satisfied that the foreign national or the permanent resident is inadmissible.
+124(1) Every person commits an offence who
+(a) contravenes a provision of this Act for which a penalty is not specifically provided or fails to comply with a condition or obligation imposed under this Act;
+(b) escapes or attempts to escape from lawful custody or detention under this Act; or
+(c) employs a foreign national in a capacity in which the foreign national is not authorized under this Act to be employed.
+124(2) For the purposes of paragraph (1)(c), a person who fails to exercise due diligence to determine whether employment is authorized under this Act is deemed to know that it is not authorized.
+124(3) A person referred to in subsection 148(1) shall not be found guilty of an offence under paragraph (1)(a) if it is established that they exercised all due diligence to prevent the commission of the offence.
+125. A person who commits an offence under subsection 124(1) is liable
+(a) on conviction on indictment, to a fine of not more than $50,000 or to imprisonment for a term of not more than two years, or to both; or
+(b) on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
+Regulations
+196. A foreign national must not work in Canada unless authorized to do so by a work permit or these Regulations.
+209. A work permit becomes invalid when it expires or when a removal order that is made against the permit holder becomes enforceable.
+[Emphasis added.]
+[27] Counsel for the Respondent cited the decision of Judge Dumais of the Quebec Provincial Court in Saravia v. 101482 Canada Inc., [1987] R.J.Q. 2658, where Mr. Saravia claimed damages for unlawful dismissal by his employer. The alleged employer brought a preliminary motion under article 75.1 of the Code of Civil Procedure to dismiss the action in damages. The motion was allowed on the ground that the employment contract was illegal. In coming to this conclusion, Judge Dumais gave effect to the prohibition contained in the Immigration Act, 1976, and, in particular, subsection 18(1) of the Immigration Regulations, 1978, provisions which, during the relevant periods, were substantially similar in scope to section 30 of the IRPA and section 196 of the Regulations thereunder. At page 2659, Judge Dumais wrote:
+Furthermore, the actual Immigration Act, 1976 does not clearly state that a contract of employment with an illegal immigrant is in itself illegal: the penalty is a fine or imprisonment (sec. 99 of the said Act).
+But, contends attorney for Petitioner, section 984 C.C. prevented the contract of employment of Respondent from being legal, as it clearly was "contrary to public order" (sec. 990 C.C. and 13 C.C.).
+Of course, it is accepted by this Court that the Immigration Act, 1976 is of "public order", and cannot be modified by a contract between private parties, nor can it be overlooked by the Court.
+The Supreme Court of Canada found that the Architects' Act of Quebec is a statute of public order, and voided a contract made in breach of said Act:
+Cette loi est non seulement une loi d'ordre public, mais elle est aussi une loi prohibitive comportant une pénalité. Il n'est pas nécessaire, je crois, de faire une longue dissertation pour démontrer qu'en principe les lois de ce genre emportent nullité quoiqu'elle n'y soit pas prononcée. [Translation: The Act is not only one of public order, it is also a prohibitory statute containing a penalty. I see no need for a lengthy dissertation to demonstrate the principle that statutes of this kind result in nullity even if nullity has not been ordered.]
+…
+I would in any event be of opinion that a statute of the character here in question is one of public order importing nullity in all contracts made in breach of it.
+More recently, the Honourable Louis Doiron, J.C.S., found illegal and null a contract of employment contravening the decree under the Loi sur les relations du travail dans l'industrie de la construction, stating with both doctrinal and jurisprudential arguments:
+La sanction s'attachant à la violation d'une loi d'ordre public est la nullité absolue. [Translation: The sanction for violating a statute of public order is absolute nullity.]
+This Court cannot find otherwise: the Immigration Act, 1976 is a statute of public order, and a contract, knowingly or not, made in breach of one or many of its sections will be void and null. Such is the sanction clearly written in sections 13 and 14 of our Civil Code.
+[Emphasis added.]
+[28] In his reasons, Judge Dumais referred not only to the provisions of the former Immigration Act, 1976, but, also, to the provisions of the Civil Code of Lower Canada ("the former Code"). The rule stated in article 13 of the former Code is essentially restated in article 9 of the new Civil Code, and the rules in articles 984 and 990 can be found in articles 1413 and 1417 of the new Civil Code.
+[29] Counsel for the Respondent also cited my decision in Isidore v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 463 (QL), where I came to the following conclusion at paragraph 15:
+15 I therefore conclude, as Judge Dumais did in Saravia, that the Immigration Act is a statute of public order and that it is for the protection of the general interest. It is aimed at regulating who may come into and remain in Canada. In particular, Canadian citizens and permanent residents (except in certain circumstances) have the right to come into and remain in Canada. The objectives set out in s. 3 of the Immigration Act make it clear that public order is one of the objectives sought by this Act. I consider that s. 18 of the Immigration Regulations, 1978 gives Canadian authorities one of the tools they must have in order to maintain public order in Canada.
+[Emphasis added.[4]]
+[30] Deputy Judge Charron, of this Court, rendered a decision similar to Saravia in Mia v. Canada (Minister of National Revenue - M.N.R.), [2001] T.C.J. No. 199 (QL).[5] At paragraphs 12, 13, 17 and 18, he wrote:
+12 In the instant case, the appellant knew or ought to have known that he needed a valid and subsisting employment authorization to engage and continue in employment in Canada. As in Polat v. M.N.R. (December 4, 1997, A-31-97 (F.C.A.) and March 17, 1998, 96-402(UI) (T.C.C.)), the appellant had already obtained an employment authorization in the past. The fact that he obtained an initial employment authorization is significant because it indicates that he knew that when it expired he would have to obtain a new one before engaging or continuing in employment. Moreover, he admitted that he neglected to obtain another authorization during the period at issue.
+13 In addition, the respondent argued that, under Quebec civil law, the question of good faith or bad faith is not relevant in determining whether a contract of employment prohibited by statute is null in the context of unemployment insurance proceedings. In Still, supra, the Federal Court of Appeal issued the following caution: "we cannot lose sight of the fact that cases originating from Quebec are to be decided under the illegality provisions found within the Civil Code of Québec."
+. . .
+17 The Immigration Act is a statute of public order that seeks to protect the general interest. It is aimed at regulating who may come into and remain in Canada.
+18 Thus, under the civil law in force in Quebec, a contract of employment entered into, whether in good faith or in bad faith, by a person who is not a Canadian citizen or permanent resident and who does not have a valid employment authorization is null and void (Saad v. M.N.R., July 9, 1997, 96‑1719(UI) (T.C.C.), and Kante v. M.N.R., May 23, 1997, 94-1056(UI) and 95‑1153(UI) (T.C.C.)).
+[Emphasis added.]
+[31] In the alternative, assuming that the common law must prevail in the instant appeal, counsel for the Respondent submits that Mr. Coicou was not in good faith because he knew that he needed to obtain a work permit in order to be able to work, and he did not obtain one. She cites the decision of Judge Mogan in Polat v. Canada (Minister of National Revenue – M.N.R.), [1998] T.C.J. No. 316 (QL). At paragraph 16 of his decision, Judge Mogan wrote:
+16 In conclusion, I find that the Appellant's circumstances are different from those of Kathleen Still. She was not only acting in good faith but had a document from Immigration Canada which encouraged her to believe that she had the right to seek and take employment. The Appellant had no such document. He was not engaged in employment in the first two years of his being in Canada from the spring of 1992 until July 1994, subject to any employment he might have had on his student authorization from August 1993 to February 1994. The fact that he had that student authorization and any employment he might have had thereunder ought to have alerted him to the fact that when the authorization came to an end, he needed a further work permit before taking on additional employment.
+[Emphasis added.]
+Mr. Coicou's position
+[32] Mr. Coicou placed a great deal of emphasis on the fact that he would have obtained a work permit if he had paid $150. Mr. Coicou is not in Canada clandestinely. CIC knew that he was on Canadian soil. However, the only reason that he was not removed from Canada was the moratorium that has been in place since 2004. Relying on the common law approach adopted in Still, his counsel submits that there could be no nullity under Mr. Coicou's circumstances.[6] He also tried to minimize the scope of the decision in Saravia, arguing that the decision was on a motion to dismiss, prior to a hearing on the merits.
+[33] Counsel for the Appellant submits as follows. Mr. Coicou's contract with the three payors was a legal contract. The prohibition in section 196 of the Regulations is a mere formality and the sanction must be regulatory. Public order is not at stake where a $150 payment almost automatically yields a work permit. The general interest is not being protected. In support of these submissions, he cites Pierre‑Gabriel Jobin and Nathalie Vézina, Les Obligations, 6th ed. (Yvon Blais), particularly paragraph 168, which addresses the issue of nullity as a sanction for violations of public order:
+[TRANSLATION]
+F. Sanctions for violations of public order
+168 − Types of nullity − In the classical scholarly writing and the old line of cases, the sanction for a violation of public order by juridical act is absolute nullity.184 However, the law with respect to this question has evolved considerably. First of all, if the law expressly forbids a certain contract from being entered into, the contract will be null.185 But if the law merely prohibits a certain activity or factual situation on pain of penal or administrative sanction, the situation is less clear: in our opinion, a contract that violates such a restriction should not be annulled when the legislator's objective in enacting the provision in question does not require it; it is better to opt for a less draconian sanction (such as a reduction of price) or perhaps not to impose any contractual sanction (and to allow the situation to be governed solely by the penal law).186 Consequently, the rule that prohibitory laws result in nullity187 is now applied in a qualified and limited manner. This approach keeps the interference with commerce and industry to the necessary minimum.
+. . .
+184. Such as articles 1411, 1413, 1417, 1783 (officers of justice incapable of acquiring litigious rights) 1823 (universal gifts inter vivos prohibited) and 1824 C.C.Q. (formalities for gifts inter vivos).
+185. Supra note 145. For example, see Pauzé v. Gauvin, [1954] S.C.R. 16.
+186. In this regard, see Girard v. Véronneau, [1979] R.P. 237; [1980] C.A. 534; case comment by T. Rousseau‑Houle, (1981) 41 R. du B. 134; Belgo‑Fisher (Canada) Inc. v. Lindsay, [1988] R.J.Q. 1231 (C.A.); Pomerleau v. 2319‑8419 Québec Inc., [1989] R.J.Q. 137 (S.C.); Robert Vigneux et Fils Inc. v. Therrien, [1994] R.D.I. 616 (C.S.); Dolomex Inc. v. Dercon Construction Canada Inc., [2002] R.D.I. 183, REJB 2002‑29590 (C.A.); Dépanneur Kildare Enr. v. Elge Financialease Inc., J.E. 98‑2085, REJB 1998‑08539 (C.A.); Roch Lessard Inc. v. Immobilière S.H.Q., [2003] R.J.Q. 3119, REJB 2003‑48960 (S.C.). P.‑G. Jobin, "Les effets du droit pénal ou administratif sur le contrat : où s'arrêtera l'ordre public ?" (1985) 45 R. du B. 655.
+187. Interpretation Act, R.S.Q., c. I‑16, section 41.3.
+[34] Counsel for Mr. Coicou further submits that work was not the object of the contract. He submits that section 196 of the Regulations seeks to subject employment to the obtaining of a work permit — an administrative modality. In his submission, the rule set out in article 1413 C.C.Q. is intended for clear-cut cases, such as where the object of the contract is contraband or homicide.
+Analysis
+[35] I agree with the statement of law provided by counsel for the Respondent.
+[36] In my opinion, Mr. Coicou is wrong in seeking to apply the approach adopted by the common law courts and, in particular, the approach adopted by the Federal Court of Appeal in Still, to the facts of the instant appeals.
+[37] In Still, Robertson J.A. wrote, at paragraph 45: ". . . I believe that the Federal Court should strive to promote consistency in decision making with respect to entitlement to unemployment insurance benefits." (Emphasis added.) In my opinion, the principle of consistency that was applied in 1997 is no longer valid in view of the coming into force of section 8.1 of the Interpretation Act in June 2001, and I should add that this was recognized by Décary J.A. in Tambeau. However, the following remarks by Robertson J.A. at paragraph 44 of the decision in Still are in keeping with the intent of section 8.1 of the Interpretation Act: "Given the bijuridical nature of the Federal Court, we cannot lose sight of the fact that cases originating from Quebec are to be decided under the illegality provisions found within the Civil Code of Québec."
+[38] Moreover, the important differences between common law and Quebec civil law show that Mignault J. was correct when he stated that it is dangerous to go outside a legal system in search of precedents in another system (Curly, quoted in Tambeau and reproduced above). One such difference can be seen from the following comments made by Robertson J.A. in Still, at paragraph 46:
+46 Professor Waddams suggests that where a statute prohibits the formation of a contract the courts should be free to decide the consequences (at page 372). I agree. If legislatures do not wish to spell out in detail the contractual consequences flowing from a breach of a statutory prohibition, and are content to impose only a penalty or administrative sanction, then it is entirely within a court's jurisdiction to determine, in effect, whether other sanctions should be imposed. As the doctrine of illegality is not a creature of statute, but of judicial creation, it is incumbent on the present judiciary to ensure that its premises accord with contemporary values. . . .
+[Emphasis added.]
+[39] In Quebec, unlike the common law provinces, the primary source of law is the Civil Code; elsewhere in Canada, the common law, developed by the courts, is the primary source of law.[7] In Quebec, the National Assembly has spelled out "the contractual consequences flowing from a breach of a statutory prohibition". Thus, contrary to the practice in the other, common law, provinces, a court that is applying a Quebec statute cannot adopt a doctrine of illegality that is different from the one adopted by the Quebec legislator.
+[40] Under article 1413 C.C.Q, a contract whose object is prohibited by law or contrary to public order is null. In the treatise Les Obligations, supra, the authors, at page 391, paragraph 368, define the object of a contract as [TRANSLATION] "the main legal transaction that the parties were thinking about, and on which their minds met." In the instant case, it is clear that the object of the contracts between Mr. Coicou and the three payors was the provision of work under the control of a person in exchange for remuneration — in other words, "work in Canada".
+[41] Section 30 of the IRPA and section 196 of the Regulations state that a foreign national must not work in Canada unless authorized to do so by a work permit or by the Regulations. Thus, the object of the agreement between Mr. Coicou and the three payors is prohibited by law, and, as was held in the decisions cited by counsel for the Respondent, it must also be considered contrary to public order.
+[42] The statutory rules concerning the nullity of contracts differ depending on whether the nullity is absolute or relative. A contract that is relatively null may be confirmed, as stated in the second paragraph of article 1420 C.C.Q. Moreover, the first paragraph of that article states that such nullity may be invoked only by the person in whose interest it is established or by the other contracting party, provided he is acting in good faith and sustains serious injury therefrom. It may not be invoked by the court of its own motion.
+[43] However, if a contract is absolutely null, article 1418 C.C.Q. states that it cannot be confirmed. Such nullity may be invoked by any person having a present and actual interest. Moreover, "it is invoked by the court of its own motion." As stated in articles 1417 and 1419, the sanction of absolute nullity is necessary for the protection of the general interest, whereas relative nullity is necessary for the protection of an individual interest.
+[44] In order to decide whether the sanction of absolute nullity or relative nullity must be applied in the instant case, we must determine whether the sanction is necessary to protect individual interests or the general interest. The prohibition contained in section 30 of the IRPA and section 196 of the Regulations does not seek to protect individual interests. Indeed, one cannot see how the requirement of a work permit protects a worker or his or her employer. Rather, it is detrimental to the worker, because it requires the worker to obtain a work permit in order to be able to work, and to incur costs, amounting in this instance to $150. Canadian citizens and permanent residents are not subject to such constraints. Thus, in fact, the IRPA seeks to protect the general interest, notably by regulating the presence of foreigners on Canadian soil, as can be seen from paragraphs 3(1)(h) and 3(2)(g) of the legislation. The purpose of those paragraphs is to protect the health of Canadians and to guarantee their safety in immigration and refugee matters. In my opinion, the following remarks by Gonthier J. in Fortin v. Chrétien, [2001] S.C.R. 500, at paragraph 23,[8] are very much relevant here: "In view of the imperatives associated with protection of the public to which the Act respecting the Barreau du Québec responds . . . the provisions of that Act relating to the performance of exclusive acts could only have been enacted for the purpose of protecting the general interest." (Emphasis added.) Where a condition of contract formation is necessary to protect the general interest, the sanction is absolute nullity. Thus, all the conditions for the application of articles 1413, 1417 and 1418 C.C.Q. are met in the instant case. Work by foreign nationals in Canada is both prohibited by law and contrary to public order unless a worker has obtained a work permit. The sanction in such a case is absolute nullity, because it is necessary for the protection of the general interest, and absolute nullity can be invoked by any person who has a present and actual interest. In my opinion, the Respondent has such an interest here. Moreover, the court must invoke this nullity of its own motion. Consequently, the contract between Mr. Coicou and each of the three payors is deemed never to have existed, as stated in article 1422 C.C.Q.
+[45] Although this sanction might appear excessive or disproportionate in relation to the consequences of working in Canada without a work permit (which Mr. Coicou could easily have obtained) it is not within the courts' power to amend the Civil Code in order to adopt a scheme of sanctions different from the one enacted by the legislator. It is clear that the courts in common law provinces have the necessary latitude to adopt fairer sanctions, for there, contrary to the situation in Quebec, the doctrine of illegality is a creature of the judiciary, not a creature of the legislator. Since the provisions of the Civil Code clearly set out the consequences that stem from the absence of one of the essential conditions for the existence of a contract, that is to say, an object that is neither prohibited by law nor contrary to public order, this Court has no choice but to find that the sanction decided by the legislator, namely the nullity of the contract, must apply.
+[46] In any event, even if the doctrine of illegality adopted by the common law provinces, notably in Still, had been applicable here, I would not have hesitated to find that Mr. Coicou cannot benefit from the good faith exception to the nullity of contracts, developed as part of this doctrine. Here, contrary to the situation in Still, Mr. Coicou is not a foreign national who believed, in good faith, that he could work in Canada without a work permit. He was very much aware that a work permit was required in order to work in Canada. He has been living here for roughly 30 years. He violated our immigration legislation by failing to obtain an extension of his student visa in the early 1980's. From 1988 to 1991, he obtained and renewed Canadian work permits several times.
+[47] As the CIC officer noted, his Department provides work permit applicants with an information kit which states the reason that foreign nationals require a work permit. Mr. Coicou even submitted a new application for a work permit in 2002. Even if the letter of June 21, 2002, could not be delivered to Mr. Coicou, it discusses an interview that took place on June 19, 2002. Mr. Coicou was negligent in his belief that he could get by without a work permit because the three employers were not asking him for his work permit.
+[48] For all these reasons, Mr. Coicou's appeal is dismissed.
+Signed at Ottawa, Canada, this 3rd day of December 2008.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 13th day of January 2009.
+Brian McCordick, Translator
+CITATION: 2008 TCC 628
+COURT FILE NO.: 2008-462(EI)
+STYLE OF CAUSE: KARL COICOU v.
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 29, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: December 3, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Roch Guertin
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Roch Guertin
+Firm: Roch Guertin, Avocat
+Montréal, Quebec
+For the Respondent : John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. I-2. It should be noted that a new immigration statute, the Immigration and Refugee Protection Act, S.C. 2001, c. 27 ("the IRPA") received assent on November 1, 2001.
+[2] Based on the CIC officer's testimony and Exhibit I-1.
+[3] According to the Canada Post website, the postal code for this address is H4J 1N8.
+[4] A similar decision was rendered in Saad v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 644 (QL).
+[5] Another decision to the same effect by Deputy Judge Charron is Amer v. Canada (Minister of National Revenue - M.N.R.), [1999] T.C.J. No. 213 (QL). It should also be noted that the same approach has been adopted in decisions by administrative tribunals. See, inter alia, the decision of the Commission d'appel en matière de lésions professionnelles [Quebec industrial accidents appeal board] in M'hamed Boulaajoul et Ferme M.S. Nadon Enr., 44209-60-9208, where the board member rejected the application for an indemnity under the Act respecting industrial accidents and occupational diseases, R.S.Q., c. A-3.001. The ground for the dismissal was the absence of a condition essential to the ability to avail oneself of section 7, which states that the statute applies to accidents that have occurred in Quebec. A worker‑employer relationship needed to exist in order for there to be a right to an indemnity, and the board member adopted Judge Dumais' approach in Saravia. A similar decision was rendered by the same tribunal in René Laur et Verger Jean‑Marie Tardif Inc., 22467‑62‑9010, AZ‑92156083 (SOQUIJ). And in Syndicat canadien des communications, de l'énergie et du papier, section locale 224 (F.T.Q.) et Prétium Inc., June 19, 2001, an arbitral tribunal rendered a similar decision. There, a proceeding by a foreign national, who had been working without a work permit, and who was seeking reinstatement in his employment, was dismissed. The arbitrator's decision cited Office de la construction du Québec v. Corporation municipale de Paspébiac [1980] C.S. 70, at pages 73-74, where Doiron J. explained the concept of "public order" and applied the sanction for a violation of a provision of public order. For a contrary decision, where the Commission des lésions professionnelles du Québec adopted an approach similar to the common law approach and specifically followed Still v. Canada, [1997] F.C.J. No. 1622 (QL) (F.C.A.), see Henriquez et Aliments Mello, 2006 LNQCCLP 1558 (QL).
+[6] In order to justify the adoption of the common law approach in Quebec, he cited the decisions of this Court in Luzolo v. Canada (Minister of National Revenue - M.N.R.), [1999] T.C.J. No. 822 (QL), in which he was counsel, and Haule v. Canada (Minister of National Revenue - M.N.R.), [1998] T.C.J. No. 1079 (QL).
+[7] For a more detailed (but succinct) analysis of the differences between Canada's two major legal systems, see my article, cited in Tambeau, supra, at paragraph 3.
+[8] Where Gonthier J. analyzed the application of the Act respecting the Barreau du Québec and the consequences of a service contract between a client and a person who had been disbarred.

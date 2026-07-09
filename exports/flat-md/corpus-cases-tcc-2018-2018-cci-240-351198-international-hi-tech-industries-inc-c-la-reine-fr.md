@@ -1,0 +1,848 @@
+---
+title: "International Hi-Tech Industries Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/351198/index.do"
+last_modified: "2018-12-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 240"
+citation2: ""
+neutral_citation: "2018 CCI 240"
+decision_date: "2018-12-10"
+language: "fr"
+item_id: "351198"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4974
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-03T19:54:17.411000+00:00"
+cases_cited_count: 22
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "58ffcc754d4896642e5bf0e0217852173b3d9a3405a3e63584c58fe55cabc175"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# International Hi-Tech Industries Inc. c. La Reine
+
+- Citation: 2018 CCI 240
+- Decision date: 2018-12-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4974, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+International Hi-Tech Industries Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-10
+Référence neutre
+2018 CCI 240
+Numéro de dossier
+2013-1150(GST)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-1150(GST)G
+ENTRE :
+INTERNATIONAL HI-TECH INDUSTRIES INC.
+par ses créanciers garantis, ses séquestres en partie et ses fondés de pouvoir,
+IHI INTERNATIONAL HOLDINGS LTD., GARMECO INTERNATIONAL CONSULTING ENGINEERS S.A.L., GARMECO CANADA INTERNATIONAL CONSULTING ENGINEERS LTD., IHI HOLDINGS LTD. et
+EARTHQUAKE RESISTANCE STRUCTURES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus du 28 au 30 novembre 2017, à Vancouver
+(Colombie-Britannique). Observations déposées par l’appelante le 3 janvier 2018 et par l’intimée le 5 janvier 2018.
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l’appelante :
+Me Andrew G. Sandilands
+Avocat de l’intimée :
+Me Matthew W. Turnell
+Jamie Hansen
+JUGEMENT MODIFIÉ
+Les présents appels sont accueillis, et les nouvelles cotisations qui font l’objet de ces appels sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations au motif que, comme l’intimée l’a concédé, l’appelante doit obtenir gain de cause à hauteur de 19 200,77 $, comme il est expliqué plus en détail dans les motifs ci-joints.
+Si les parties ne sont pas en mesure de s’entendre sur les dépens, elles peuvent déposer des observations écrites à l’égard des dépens, chaque mémoire ne devant pas dépasser cinq pages, dans les 90 jours suivant le présent jugement.
+Le présent jugement modifié remplace le jugement daté du 30 novembre 2018.
+Signé à Ottawa, Canada, ce 10e jour de décembre 2018.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Référence : 2018 CCI 240
+Date : 20181130
+Dossier : 2013-1150(GST)G
+ENTRE :
+INTERNATIONAL HI-TECH INDUSTRIES INC.
+par ses créanciers garantis, ses séquestres en partie et ses fondés de pouvoir,
+IHI INTERNATIONAL HOLDINGS LTD., GARMECO INTERNATIONAL CONSULTING ENGINEERS S.A.L., GARMECO CANADA INTERNATIONAL CONSULTING ENGINEERS LTD., IHI HOLDINGS LTD. et
+EARTHQUAKE RESISTANCE STRUCTURES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs portent sur les appels interjetés par International Hi‑Tech Industries Inc. (« IHI ») (par ses créanciers garantis, ses séquestres en partie et ses fondés de pouvoir, à savoir Garmeco International Consulting Engineers S.A.L., Garmeco Canada International Consulting Engineers Ltd., IHI Holdings Ltd. et Earthquake Resistance Structures Inc. [collectivement, le « Groupe Garmeco »])[1] de certaines nouvelles cotisations (les « nouvelles cotisations ») établies par l’Agence du revenu du Canada (l’« ARC ») au nom du ministre du Revenu national (le « ministre ») concernant la majeure partie des périodes de déclaration trimestrielles de 2006 et de 2007, à savoir :
+Période de déclaration
+Abréviation
+Redressement
+2006/01/01 à 2006/03/31
+T1-2006
+23 288,26 $
+2006/07/01 à 2006/09/30
+T3-2006
+11 012,50 $ (cr.)
+2006/10/01 à 2006/12/31
+T4-2006
+22 869,62 $
+2007/01/01 à 2007/03/31
+T1-2007
+50 771,16 $
+2007/04/01 à 2007/06/30
+T2-2007
+2 643,85 $
+2007/07/01 à 2007/09/30
+T3-2007
+20 168,41 $
+2007/10/01 à 2007/12/31
+T4-2007
+29 030,93 $
+Total
+137 759,73 $
+[2] Le 14 janvier 2011, l’ARC a envoyé à IHI un document de nouvelle cotisation de dix pages[2]. La première page de ce document est intitulée [traduction] « Avis de cotisation (nouvelle cotisation) » et contient l’énoncé suivant : [traduction] « Le présent avis vous explique les résultats de notre vérification des cotisations (ou des nouvelles cotisations) établies pour des déclarations que vous avez ou avez peut-être produites ». Il en ressort qu’il n’y a peut-être eu qu’une seule nouvelle cotisation combinée pour les sept périodes de déclaration trimestrielles. Cependant, chacune des pages 2 à 8 de ce document contient également le titre [traduction] « Avis de cotisation (nouvelle cotisation) », et chaque avis a un différend numéro de référence de 17 chiffres, et il en ressort que chacune de ces pages constitue une nouvelle cotisation distincte, correspondant aux sept périodes de déclaration en question. S’il y a eu une seule nouvelle cotisation, les présentes procédures ne constituent probablement qu’un seul appel. Cependant, s’il y a eu sept nouvelles cotisations, l’avis d’appel déposé par IHI représente plusieurs appels[3]. Sans tirer de conclusion définitive, je présumerai simplement qu’il y a eu plusieurs nouvelles cotisations et qu’il y a plusieurs appels.
+II. QUESTIONS EN LITIGE
+[3] Les questions en litige dans les présents appels sont les suivantes :
+a)Lorsqu’IHI a vendu certains terrains au T1-2006, était-elle tenue de percevoir la taxe sur les produits et services (la « TPS ») de l’acheteur?
+b)IHI avait-elle le droit de demander des crédits de taxe sur les intrants (« CTI ») à l’égard de la contrepartie payée par IHI à son agent de brevets pour des services juridiques, des frais de dépôt et des dépenses connexes?
+c)IHI avait-elle le droit de demander des CTI à l’égard de trois paiements versés à ses comptables au T3-2007 et au T4-2007?
+d)IHI avait-elle le droit de demander des CTI à l’égard de deux paiements effectués en vertu de deux lettres de crédit à Canadian Natural Resources Limited (« CNRL ») au T2-2007?
+e)IHI avait-elle le droit de demander des CTI à l’égard de divers paiements faits à ses avocats au T3‑2007 dans la mesure où ces paiements dépassaient le montant des CTI concédés par la Couronne?
+III. CONTEXTE FACTUEL
+[4] Au cours des périodes de déclaration visées par les présents appels, IHI était une société publique dont le président-directeur général était Roger Abou-Rached. Peu d’éléments de preuve ont été produits concernant la propriété d’IHI; cependant, il semble que l’actionnaire le plus important d’IHI à l’époque était la mère de M. Abou-Rached et que d’autres membres de sa famille détenaient également des actions d’IHI. Bien qu’il y ait peu d’éléments de preuve concernant les dirigeants d’IHI, il semble qu’en plus de M. Abou-Rached, d’autres membres de sa famille occupaient également des postes de responsabilité à IHI[4].
+[5] Les activités d’IHI comprenaient la construction de bâtiments à l’aide de panneaux entièrement préfabriqués faits en béton armé spécial, en mousse rigide et en métaux pliés à froid. Des machines robotisées étaient utilisées pour la fabrication des panneaux. Il semble que les machines robotisées n’ont pas toujours fonctionné comme prévu en 2006 et en 2007.
+IV. CONCESSIONS ET AVEUX
+A. Concessions de la Couronne
+[6] Au cours de sa déclaration préliminaire, l’avocat de la Couronne a signalé qu’IHI avait produit des documents à l’appui de ses demandes de CTI relativement aux montants versés à un cabinet d’avocats, Steele Urquhart, pour des services juridiques. De plus, la Couronne reconnaît que le montant de TPS supplémentaire qu’elle juge être recouvrable pour le T4-2007 doit être de 12 653,14 $ plutôt que 25 289,20 $. En d’autres termes, l’avis de nouvelle cotisation pour le T4‑2007 contenait un montant excessif de 12 736,06 $ (c.‑à‑d. 25 289,20 $ – 12 653,14 $). Par conséquent, la Couronne concède que l’appel d’IHI doit être accueilli à hauteur des montants suivants :
+Période
+Description
+Montant
+T1-2007
+CTI pour les paiements à Steele Urquhart
+801,47 $
+T2-2007
+CTI pour les paiements à Steele Urquhart
+4 158,48 $
+T3-2007
+CTI pour les paiements à Steele Urquhart
+1 504,86 $
+T4-2007
+Réduction de la TPS recouvrable
+12 736,06 $
+Total
+[EN BLANC]
+19 200,77 $
+Ainsi, la Couronne reconnaît qu’IHI doit obtenir gain de cause dans les présents appels jusqu’à concurrence de 19 200,77 $[5].
+[7] Pour le T3-2007, IHI a demandé des CTI totalisant 2 126,10 $. Les CTI concédés par la Couronne pour le T3‑2007 (c.‑à‑d. 1 504,86 $) reflètent le montant pour lequel des documents justificatifs appropriés ont été fournis par IHI. Vu que la Couronne est d’avis qu’IHI n’a pas produits les documents justificatifs appropriés pour les CTI restants au T3‑2007 (c.‑à‑d. 621,24 $), ces CTI sont toujours en cause.
+B. Aveux d’IHI
+[8] Le 25 septembre 2017, conformément au paragraphe 130(1) des Règles, l’avocat de la Coursonne a signifié à l’avocat d’IHI une demande d’aveux, qui est jointe à l’annexe A. IHI n’a pas répondu à cette demande dans le délai de 15 jours prévu par le paragraphe 131(1) des Règles, ce qui signifie aux termes du paragraphe 131(2) des Règles, IHI est réputée, aux fins des présents appels, admettre la véracité des faits et l’authenticité des documents mentionnées dans la demande d’aveux. IHI n’a pas retiré l’aveu présumé par la suite [6].
+V. ANALYSE
+A. Vente de lots
+(1) Contexte
+[9] En 1996, IHI a acquis deux parcelles de terrain vacantes, situées à Langley, en Colombie-Britannique, et décrites comme le lot 1 de l’autoroute Fraser, Langley (C.-B.), no d’identification de propriété : 003-772-560 (« lot 1 ») et le lot 2 de l’autoroute Fraser, Langley (C.-B.), no d’identification de propriété : 003‑774‑074 (« lot 2 »). Les lots 1 et 2 (ensemble, les « lots ») ont été acquis par IHI pour accommoder le propriétaire des lots de l’époque, qui était un ami d’un important actionnaire d’IHI et qui était prêt à recevoir des actions d’IHI en contrepartie de la vente des lots. Les lots n’étaient pas situés à proximité des locaux commerciaux d’IHI et n’étaient pas nécessaires pour l’exploitation de cette entreprise.
+[10] Lorsqu’IHI a acquis les lots, aucune TPS n’était exigible, puisque le vendeur était un particulier et que la fourniture des lots était apparemment par l’article 9 de la partie I de l’annexe V de la Loi sur la taxe d’accise (LTA).
+[11] Le 30 mars 2006, IHI a vendu les lots pour le prix global de 240 000 $ (soit 130 000 $ pour le lot 1 et 110 000 $ pour le lot 2). À titre de mesure d’économie, IHI a fait appel à un commissaire à l’assermentation plutôt qu’à un avocat pour documenter et mettre en œuvre la transaction de vente, tout comme l’acheteur (l’« acheteur »), qui était un particulier et qui n’était pas inscrit aux fins de la LTA. Apparemment, le commissaire intervenant pour l’acheteur était d’avis que l’exemption prévue à l’article 9 de la partie I de l’annexe V de la LTA visait les sociétés, ainsi qu’aux particuliers et aux fiducies personnelles. Il semble que le commissaire intervenant pour IHI avait un point de vue similaire. Dans son témoignage, M. Abou-Rached a déclaré que, parce qu’aucune TPS n’avait été payable par IHI au moment de l’acquisition des lots en 1996, il a supposé qu’aucune TPS ne serait exigible quand IHI a vendu les lots en 2006. Quoi qu’il en soit, le commissaire de l’acheteur a produit deux documents, chacun intitulé [traduction] « Certificat de taxe sur les produits et services » indiquant que la vente des lots était une fourniture exemptée. La partie opérante de chaque certificat indiquait : [traduction] « La vente susmentionnée est exemptée de la TPS parce qu’elle est […] une vente de terrains à usage personnel par un particulier, une fiducie ou une société qui est une vente non conclue dans le cadre d’une activité commerciale »[7]. Le commissaire intervenant pour IHI a examiné ces certificats et les a auraient approuvés, et M. Abou-Rached les a signés au nom d’IHI.
+[12] Comme M. Abou-Rached (au nom d’IHI) et l’acheteur, ainsi que leurs commissaires respectifs, étaient d’avis que la vente des lots constituerait une fourniture exemptée, aucune TPS n’a été perçue par IHI.
+[13] Quand l’ARC a effectué une vérification d’IHI à l’égard des années 2006 et 2007, le vérificateur a découvert qu’aucune TPS n’avait été perçue sur la vente des lots, ce qui s’est traduit par une nouvelle cotisation de TPS s’appliquant au T1‑2006 au montant de 9 100 $ pour le lot 1 et 7 700 $ pour le lot 2.
+(2) Disposition légale et analyse
+[14] À l’appui de sa thèse portant que la vente des lots constituait une fourniture exemptée, IHI s’appuie sur le paragraphe 9(2) de la partie I de l’annexe V de la LTA. L’avis d’appel indique que les lots ont été acquis à titre d’immobilisations, mais qu’ils n’ont jamais été utilisés, ni ne devaient l’être, dans le cadre des activités d’IHI. Par conséquent, il semble que l’appelante se préoccupait davantage de montrer que la vente des lots n’était pas visée par les alinéas 9(2)a) et b) de la partie I de l’annexe V de la LTA.
+[15] La difficulté à laquelle fait face l’appelante est que la première partie du paragraphe 9(2) de la partie I de l’annexe V de la LTA se lit comme suit :
+La fourniture par vente d’un immeuble, effectuée par un particulier ou une fiducie personnelle, à l’exclusion des fournitures suivantes […].
+IHI est une société et non pas un particulier ou une fiducie personnelle. Comme il a été mentionné plus haut, il ressort des certificats de taxe sur les produits et services signés par M. Abou-Rached au nom d’IHI, à tort, qu’il peut y avoir fourniture exonérée en cas de vente de terrains à usage personnel par un particulier, une fiducie ou une société autrement que dans le cadre d’une activité commerciale. Toutefois, la formulation de ces certificats n’était pas conforme au texte de l’exemption prévue par la loi. Un certificat mal rédigé ne peut donner lieu à une fourniture exemptée qui ne respecte pas le texte de la loi applicable. Par conséquent, ne peut jouer l’exemption prévue par le paragraphe 9(2) de la partie I de l’annexe V de la LTA.
+[16] Je ne suis au courant d’aucune disposition de l’annexe V de la LTA qui ferait de la vente des lots une fourniture exemptée, et IHI ne m’a pas cité aucune disposition autre que le paragraphe 9(2) de la partie I de l’annexe V.
+[17] Comme la vente des lots constituait une fourniture taxable, IHI était tenue, aux termes du paragraphe 221(1) de la LTA, de percevoir la TPS payable par l’acheteur à l’égard de cette fourniture. Les exceptions prévues par le paragraphe 221(2) de la LTA ne pouvaient jouer, pour les raisons suivantes :
+a)IHI était résidente du Canada aux termes de l’alinéa 132(1)a) de la LTA, et non pas seulement en raison du paragraphe 132(2) de la LTA;
+b)l’acheteur n’était pas inscrit en vertu de la sous-section D de la section V de la partie IX de la LTA;
+c)IHI et l’acheteur n’ont pas fait un choix en vertu de l’article 2 de la partie I de l’annexe V de la LTA;
+d)l’acheteur n’était pas un acquéreur prescrit.
+Par conséquent, IHI devait percevoir la TPS au montant de 16 800 $ de l’acheteur.
+B. Paiements à l’agent de brevets
+(1) Contexte
+[18] Dans les années 1990 ou autour de ces années-là, M. Abou-Rached, alors qu’il était au service de Garmeco International Consulting Engineers S.A.L., a mis au point une certaine technologie (la « technologie ») relative à un processus de construction de bâtiments utilisant des panneaux entièrement préfabriqués faits en béton armé spécial, en mousse rigide et en métaux pliés à froid. En fin de compte, à la suite d’un ou de plusieurs transferts, tous les droits visant la technologie ont été acquis par R.A.R. Consultants Ltd. (« RAR »), société qui appartenait initialement à M. Abou-Rached, mais qui appartenait ensuite directement ou indirectement à d’autres membres de sa famille.
+[19] RAR a demandé et acquis divers brevets dans le monde. M. Abou-Rached a témoigné que la technologie comprenait huit inventions et 72 brevets, qui étaient enregistrés dans 180 pays et 115 langues. En 2006 et en 2007, IHI détenait une licence accordée par RAR, en vertu de laquelle IHI était autorisée à concevoir, à commercialiser, à distribuer et à développer des produits au Canada à l’aide de la technologie.
+[20] Selon M. Abou-Rached, la « société mère » (qui faisait référence à IHI) était chargée du paiement de tous les coûts d’acquisition et de maintien des brevets. Cette entente a été résumée dans une lettre d’IHI à RAR en date du 17 juin 1996. Les dispositions de cette lettre sont les suivantes :
+[traduction]
+La présente vise à confirmer qu’International Hi Tech Industries Inc. (IHI) continuera d’être chargée de tous les frais juridiques et de dépôt concernant les brevets, les réclamations, etc., qui sont liés à RAR Consultants Ltd., à ses agents et à ses associés.
+IHI continuera de payer sa seule obligation, conformément à l’accord, pour les coûts engagés directement ou indirectement au titre des brevets et des réclamations susmentionnés.
+Toute TPS ajoutée aux factures applicables ci-dessus sera payée par IHI, qui sera la seule partie à demander les crédits de taxe pour intrants[8].
+Au cours de son témoignage, M. Abou-Rached a semblé indiquer que l’entente ci‑dessus figurait dans un accord de licence (probablement entre RAR et IHI), mais il n’a pas produit de copie de cet accord à l’audience. En fait, au cours de l’interrogatoire préalable de M. Abou-Rached, IHI a refusé de communiquer à la Couronne les copies de l’accord de licence canadienne (tel que décrit par les parties) et de l’accord de licence internationale, au motif que ces accords n’étaient pas pertinents quant à la demande de CTI d’IHI[9].
+[21] En 2006 et en 2007, l’agent de brevets auquel ont eu recours par M. Abou-Rached et ses sociétés apparentées était Fetherstonhaugh & Co. (« Fetherstonhaugh »). Du 8 décembre 2005 au 30 janvier 2007, Fetherstonhaugh a envoyé 84 factures concernant les brevets, qui indiquaient des frais juridiques et des frais totaux de 290 235,73 $ et un montant total de TPS de 19 144,42 $[10]. Toutes les factures ont été adressées par Fetherstonhaugh à RAR[11], mais ont été payées par IHI, plutôt que par RAR, car RAR n’avait pas de source de revenus et, selon M. Abou-Rached, l’entente de paiement des frais résumée ci-dessus exigeait qu’IHI effectue ces paiements.
+[22] Six des factures susmentionnées concernaient des brevets canadiens, tandis que le reste des factures concernaient des brevets étrangers ou des brevets dans des pays qui n’étaient pas précisés dans les factures. Les factures relatives aux brevets canadiens sont recensées ci-dessous :
+Date
+Première ligne du libellé
+Frais
+TPS
+Le 8 décembre 2005
+No de dossier de brevet canadien : 2176481
+475,00 $
+15,75 $
+Le 8 décembre 2005
+No de dossier de brevet canadien : 2257661
+475,00 $
+15,75 $
+Le 8 décembre 2005
+No de dossier de brevet canadien : 2257660
+475,00 $
+15,75 $
+Le 8 décembre 2006
+No de dossier de brevet canadien : 2176481
+485,00 $
+14,10 $
+Le 8 décembre 2006
+No de dossier de brevet canadien : 2257661
+485,00 $
+14,10 $
+Le 8 décembre 2006
+No de dossier de brevet canadien : 2257660
+485,00 $
+14,10 $
+Total
+[EN BLANC]
+2 880,00 $
+89,55 $
+(2) Disposition légale et analyse
+[23] La disposition légale qui permet de demander un CTI est le paragraphe 169(1) de la LTA, dont voici la partie pertinente :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert […] correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture […] devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A x B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B : […]
+c) […] le pourcentage qui représente la mesure dans laquelle la personne a acquis […] le bien ou le service […] pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales. [Italiques ajoutés.]
+[24] Aux fins des présents appels, la disposition ci-dessus de la LTA consacre trois conditions auxquelles une personne doit satisfaire pour être admissible à un CTI :
+a)le demandeur doit avoir acquis un bien ou un service;
+b)la TPS doit avoir été payable ou payée par le demandeur à l’égard de la fourniture;
+c)le demandeur doit avoir acquis le bien ou le service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales[12].
+[25] Dans le cadre de la demande de CTI d’IHI relativement à ses paiements à Fetherstonhaugh, les conditions ci-dessus peuvent être formulées comme suit :
+a)IHI doit avoir acquis les services d’agent de brevets de Fetherstonhaugh;
+b)La TPS doit avoir été payable ou payée par IHI relativement à la prestation de ces services;
+c)IHI doit avoir acquis ces services pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+Il est reconnu que c’est IHI, et non pas RAR, qui a payé la TPS indiquée dans les factures de Fetherstonhaugh, et qu’IHI avait des activités commerciales. Cependant, à la lumière des preuves, il n’était pas certain que IHI avait acquis les services fournis par Fetherstonhaugh ou que IHI avait consommé, utilisé ou assuré ces services dans le cadre de ses activités commerciales. Selon les factures, il semble plutôt que ce soit le RAR (et non IHI) qui ait acquis les services fournis par Fetherstonhaugh.
+[26] La Couronne soutient que RAR, et non IHI, a acquis les services fournis par Fetherstonhaugh, de sorte qu’IHI n’avait pas le droit de demander des CTI pour ces services. IHI soutient que, conformément à l’obligation juridique mentionnée dans la lettre du 17 juin 1996 citée ci-dessus, IHI était tenue de payer les services assurés par Fetherstonhaugh. Toutefois, comme il a été mentionné, IHI n’a produit aucune copie d’une entente entre IHI et Fetherstonhaugh ou entre IHI et RAR qui exigeait qu’IHI effectue ces paiements. De plus, lors de l’interrogatoire préalable de M. Abou-Rached, IHI a semblé avancer la position selon laquelle les accords de licence entre IHI et RAR n’étaient pas pertinents quant à cette question[13].
+[27] La Couronne s’appuie sur une observation faite par la Cour d’appel fédérale à l’occasion de l’affaire Telus Communications selon laquelle seul l’acquéreur d’une fourniture peut demander un CTI[14]. La Couronne soutient que, dans le cadre des services assurés par Fetherstonhaugh et des paiements effectués à cette dernière, IHI ne répondait pas au sens du mot « acquéreur » qui est défini comme suit au paragraphe 123(1) de la LTA :
+acquéreur
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n’est payable pour une fourniture : […]
+(iii) personne à qui un service est rendu.
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture. […][15]
+[28] Pour demander un CTI, le demandeur doit être tenu par contrat de payer au fournisseur le bien ou le service qui fait l’objet de la fourniture en question[16]. De plus, cette responsabilité contractuelle doit être fondée sur un contrat entre le fournisseur et l’acquéreur, plutôt que sur un contrat entre l’acquéreur et l’une de ses sociétés apparentées[17].
+[29] IHI a produit le témoignage oral de M. Abou-Rached selon lequel IHI payait les frais de Fetherstonhaugh. Cependant, IHI n’a pas produit d’éléments de preuve pour établir qu’IHI (plutôt que RAR) a acquis les services assurés par Fetherstonhaugh (afin de faire jouer le texte du paragraphe 169(1) de la LTA) et n’a pas non plus produit de preuves d’une entente ou d’un autre arrangement contractuel entre IHI et Fetherstonhaugh qui exigeait qu’IHI paie ces services. Comme il a été signalé précédemment, l’entente obligeant IHI à payer les frais de Fetherstonhaugh devrait être entre IHI et Fetherstonhaugh, et non entre IHI et RAR[18].
+[30] Le seul élément de preuve produit par IHI pour montrer qu’IHI était responsable du paiement des services de Fetherstonhaugh a été le témoignage verbal de M. Abou-Rached et la lettre du 17 juin 1996 concernant une prétendue entente entre IHI et RAR, qu’IHI n’a pas réussi ou a refusé de produire. Cet élément de preuve n’est pas suffisant pour établir qu’IHI était contractuellement responsable (en raison d’un contrat entre IHI et Fetherstonhaugh) de payer les frais facturés par Fetherstonhaugh.
+[31] M. Abou-Rached a témoigné qu’au cours des périodes de déclaration précédentes, l’ARC avait permis à IHI de demander des CTI relativement aux frais qu’elle avait payés à Fetherstonhaugh pour des services assurés au cours de ces périodes antérieures. IHI a avancé la position portant que, comme l’ARC avait permis à IHI de demander des CTI au cours des périodes de déclaration précédentes, l’ARC devait continuer de permettre que des CTI soient réclamés pour les périodes de déclaration en cours. Cependant, si l’ARC conclut que son traitement antérieur aux fins des cotisations d’un inscrit particulier n’était pas conforme à la LTA, rien ne l’empêche de changer sa pratique d’établissement de cotisations à l’avenir, de façon à établir des cotisations pour l’inscrit conformément à l’interprétation actuelle par l’ARC des dispositions légales applicables.
+[32] Chacune des 84 factures déposées en preuve a été adressée à RAR et décrit RAR comme le propriétaire du brevet ou le demandeur d’un brevet. Plus précisément, les factures produites par Fetherstonhaugh indiquaient qu’une partie importante des services assurés par Fetherstonhaugh se rapportaient à des demandes de brevet étrangères pour lesquelles RAR (et non IHI) était le demandeur. D’autres factures portaient sur des brevets délivrés à l’étranger et nommaient RAR comme propriétaire du brevet. Chacune des six factures relatives aux brevets canadiens définissaient les services comme suit :
+[traduction]
+Tenue un dossier concernant les frais de maintien, en vous avisant;
+Paiement des frais de maintien et des rapports à votre intention.
+Il semble que bon nombre des services d’agent de brevets assurés par Fetherstonhaugh se rapportaient au maintien annuel de divers brevets détenus par RAR et que ces services ont été assurés au profit de RAR à ce titre. Il semble que certains des autres services d’agent de brevets se rapportaient à des demandes de brevet à l’étranger de RAR. Par conséquent, je crois comprendre, d’après les factures, que RAR a acquis les services assurés par Fetherstonhaugh pour consommation ou utilisation dans le cadre de ses activités commerciales. Je n’ai reçu aucune preuve documentaire dont il ressort que les services de Fetherstonhaugh ont été acquis par IHI pour consommation ou utilisation dans le cadre des activités commerciales d’IHI. Comme l’enseigne la décision Garmeco, pour être admissible aux CTI, le demandeur doit « démontrer […] que ces produits et services avaient été acquis à des fins de consommation ou d’utilisation dans le cadre des activités commerciales de l’appelante » [italiques ajoutés][19].
+[33] Pour les raisons susmentionnées, IHI n’avait pas le droit de demander des CTI relativement aux frais qu’elle payait à Fetherstonhaugh.
+C. Paiements aux comptables
+(1) Contexte
+[34] Au milieu de 2007, IHI a retenu les services du cabinet comptable Dale Matheson Carr-Hilton Labonte LLP (exerçant ses activités sous le nom commercial « DMCL Chartered Accountants ») (« DMCL ») pour préparer et vérifier les états financiers d’IHI pour l’exercice terminé le 31 décembre 2006 et la période terminée le 31 mars 2007[20]. Le 29 août 2007, DMCL et IHI ont conclu une lettre d’entente par laquelle DMCL indiquait que ses frais seraient établis en fonction du temps consacré à sa mission selon ses tarifs standard pour des missions visant des sociétés publiques, plus les décaissements et la TPS applicable[21]. Dans cette lettre, DMCL demandait un acompte de 25 000 $ à payer avant le début des travaux; un paiement supplémentaire de 20 000 $ devait être versé au plus tard le 10 septembre 2007 et le solde devait être payé au moment de la transmission des états financiers. Le 29 août 2007, deux membres du comité de vérification d’IHI ont approuvé et signé la lettre d’entente au nom d’IHI.
+[35] Le 24 août 2007, un associé de DMCL avait déjà envoyé un courriel à M. Abou-Rached et à son frère, René Abi-Rached[22], dans lequel il indiquait que les frais de vérification seraient d’environ 60 000 $ à 70 000 $[23]. Cependant, à la mi‑novembre 2007, DMCL avait effectué des travaux de préparation et de vérification des états financiers correspondant à des frais non facturés de plus de 129 000 $[24]. Le 7 décembre 2007 ou vers cette date, DMCL et IHI ont conclu une nouvelle entente selon laquelle les frais liés aux états financiers vérifiés s’élevaient à 130 000 $, en précisant que la somme supplémentaire de 35 000 $ (en plus des 45 000 $ qui avaient déjà été payés) devait être payée dans un délai d’une semaine et une autre somme de 50 000 $ devait être payée en cinq paiements consécutifs de 10 000 $ chacun, à compter du 29 février 2008 (la fréquence, c.-à-d. mensuelle, hebdomadaire ou autre, n’était pas indiquée)[25].
+[36] Au final, IHI a versé à DMCL un montant total de 80 000 $, comme suit[26] :
+Date
+Montant
+31 août 2007
+25 000 $
+10 octobre 2007
+20 000 $
+12 décembre 2007
+35 000 $
+Total
+80 000 $
+[37] Au fil des événements, DMCL n’a pas terminé les états financiers et IHI n’a pas effectué les cinq paiements périodiques de 10 000 $ chacun. M. Abou-Rached a témoigné qu’IHI n’avait jamais reçu de factures de DMCL. Pour la préparation de ses déclarations de TPS, IHI a donc assimilé les 80 000 $ qu’elle a versés à la DMCL à des paiements qui comprenaient la TPS. Par conséquent, elle a traité chaque paiement comme étant composé de la TPS et de frais nets, comme suit[27] :
+Date
+Montant
+TPS
+Frais nets
+31 août 2007
+25 000 $
+1 415,09 $
+23 584,91 $
+10 octobre 2007
+20 000 $
+1 132,08 $
+18 867,92 $
+12 décembre 2007
+35 000 $
+1 981,13 $
+33 018,87 $
+Total
+80 000 $
+4 528,30 $
+75 471,70 $
+[38] La Couronne soutient que les trois paiements versés par IHI à DMCL en 2007 constituaient des acomptes ou des dépôts, et que le droit de demander des CTI à l’égard de ces paiements ne naissait qu’au moment où les frais et la TPS sont réellement devenus payables à DMCL, ce qui ne s’est pas produit jusqu’à ce que DMCL envoie une facture à IHI pour les frais de vérification.
+[39] Comme il a été signalé, M. Abou-Rached a témoigné que DMCL n’a jamais envoyé de facture à IHI pour les frais de vérification. Cependant, durant le contre-interrogatoire de M. Abou-Rached, qui a commencé en après-midi le premier jour d’audience, il a signalé que, durant la pause du dîner qui avait eu lieu plus tôt ce jour-là, son avocat avait reçu, de l’avocat de la Couronne, les copies de deux factures que l’avocat de la Couronne avait obtenues ce matin-là de DMCL.
+[40] Pendant le contre-interrogatoire, l’avocat de la Couronne a remis les deux factures de DMCL à M. Abou-Rached. L’avocat de la Couronne a ensuite expliquait à la Cour que, la veille, après qu’il eut reçu des documents produits tardivement par l’avocat d’IHI, il a téléphoné à l’un des associés de DMCL pour expliquer les circonstances des présents appels, et puis, le matin du premier jour d’audience, a reçu un courriel avec une pièce jointe contenant des copies de deux factures de DMCL[28]. La Couronne n’a produit aucune preuve sur la question de savoir si les originaux des deux factures avaient été envoyés à IHI par DMCL et, le cas échéant, le moment où les factures ont été envoyées.
+[41] La première facture de DMCL, datée du 18 février 2008, s’élevait à 2 625 $, et concernait un rapport que DMCL avait transmis le 23 janvier 2008[29]. La deuxième facture de DMCL, datée du 19 juin 2008, était qualifiée de facture provisoire pour services rendus dans le cadre de la vérification de fin d’exercice d’IHI en date du 31 décembre 2006[30], sans mentionner la période terminée le 31 mars 2007. La facture indique des frais de 78 452,38 $, plus la TPS au montant de 3 922,62 $, ce qui donne une facture totale de 82 375 $, qui a été payée à l’aide de fonds qualifiés de [traduction] « reçus en acompte ». Je crois comprendre que DMCL a insisté pour obtenir une avance de 5 000 $ avant de transmettre le rapport du 23 janvier 2008. Comme le coût de ce rapport (y compris la TPS) n’était que de 2 625 $, le solde de l’acompte de 5 000 $ (c.‑à‑d. 2 375 $) a été ajouté aux 80 000 $ reçus antérieurement, ce qui a donné un montant total de 82 375 $, que détenait DMCL, ce qui correspond au montant (TPS comprise) de la facture provisoire datée du 19 juin 2008.
+[42] Je le répète, M. Abou-Rached a affirmé catégoriquement qu’il n’avait jamais vu la facture datée du 19 juin 2008 jusqu’à ce qu’elle lui soit montrée pendant la pause-repas du premier jour d’audience concernant les présents appels. Compte tenu de la rupture de la relation entre IHI et DMCL, et du fait que DMCL avait arrêté de travailler sur les états financiers, sans livrer ces états à IHI, IHI ne pensait pas qu’elle allait recevoir une facture de DMCL, et c’est pourquoi IHI a produit ses déclarations de TPS pour le T3-2007 et le T4-2007 sans avoir d’abord reçu de facture.
+[43] Pour résumer la position de la Couronne, elle ne conteste pas le droit d’IHI aux CTI à l’égard des paiements qu’elle a versés à DMCL. Toutefois, la Couronne affirme que les CTI ne pouvaient être demandés que lorsque la TPS est devenue exigible, c’est-à-dire, selon la Couronne, en 2008. En d’autres termes, IHI a demandé les CTI prématurément, selon la Couronne.
+(2) Dispositions légales et analyse
+[44] Le paragraphe 169(1) de la LTA prévoit qu’un CTI peut être demandé au moment où la TPS devient exigible par l’acquéreur d’une fourniture ou est payé par l’acquéreur sans être devenu exigible. Ainsi, afin de déterminer le moment où le droit à un CTI naît, il est nécessaire de déterminer (entre autres choses) le moment où la TPS correspondante devient exigible. Le paragraphe 168(1) de la LTA prévoit que la TPS à l’égard d’une fourniture taxable est payable le jour où la contrepartie est payée ou le jour où la contrepartie devient exigible, selon la première de ces éventualités. Cependant, l’article 168 prévoit diverses exceptions à la règle générale du paragraphe 168(1). En particulier, les paragraphes 168(2) et (9) disposent :
+(2) Par dérogation au paragraphe (1), la taxe prévue à la présente section relativement à une fourniture taxable dont la contrepartie est payée ou devient due plus d’une fois est payable à chacun des jours qui est le premier en date du jour où une partie de la contrepartie est payée et du jour où cette partie devient due et est calculée sur la valeur de la partie de la contrepartie qui est payée ou qui devient due ce jour-là. […]
+(9) Pour l’application du présent article, un dépôt […], remboursable ou non, versé au titre d’une fourniture n’est considéré comme la contrepartie payée à ce titre que lorsque le fournisseur le considère ainsi.
+[45] L’une des questions, au regard du paragraphe 168(9) de la LTA, consiste à déterminer si tel ou tel paiement constitue un dépôt ou un paiement partiel de la contrepartie pour la fourniture, parfois appelé par la jurisprudence un « acompte ». Au sujet de cette question, le juge Hogan a observé à l’occasion de l’affaire Tendances et Concepts :
+À la lecture du paragraphe 152(1) de la Loi, il semble clair que le moment où les arrhes deviennent un acompte ne peut être postérieur au moment où la facture est délivrée, car c’est à ce moment que la contrepartie est réputée devenir due et, par le fait même, taxable. En conséquence, la taxe n’est généralement pas exigible avant la facturation s’il s’agit d’arrhes et, s’il s’agit plutôt d’un acompte, la taxe est exigible dès sa réception. Ces deux règles différentes illustrent l’importance de bien caractériser et distinguer les différents types de paiements faits d’avance, soit l’acompte et les arrhes. Il importe de définir la notion d’arrhes par rapport à celle d’acompte, l’acompte étant tout simplement un paiement partiel à valoir sur une somme due (une contrepartie partielle au sens de la Loi)[31]. [Note de bas de page omise.]
+La décision Tendances et Concepts comportait un examen de certains aspects du Code civil du Bas-Canada et du Code civil du Québec, de sorte qu’elle n’est peut-être pas directement pertinente en l’espèce, où les principes de droit commercial en jeu sont tirés de la common law, plutôt que du droit civil. De plus, la jurisprudence Tendances et Concepts n’a peut-être pas autant de poids maintenant, étant donné qu’elle portait sur une version française antérieure de la LTA, dans laquelle le terme « arrhes » était utilisé comme équivalent français pour le terme anglais « deposit »[32]. Les modifications techniques apportées en 2016 au texte français du paragraphe 168(9) de la LTA ont remplacé « les arrhes » par « un dépôt », sans modification du texte anglais[33].
+[46] Pour déterminer à quel moment la contrepartie d’une fourniture taxable devient exigible, le paragraphe 152(1) de la LTA dispose :
+152(1) Pour l’application de la présente partie, tout ou partie de la contrepartie d’une fourniture taxable est réputée devenir due le premier en date des jours suivants :
+a) le premier en date du jour où le fournisseur délivre, pour la première fois, une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+b) le jour où le fournisseur aurait délivré une facture pour tout ou partie de la contrepartie, n’eût été un retard injustifié;
+c) le jour où l’acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+Par conséquent, en raison de l’alinéa 152(1)a), dans de nombreux cas, la date de la facture du fournisseur détermine généralement le moment où la contrepartie de la fourniture devient exigible[34]. Cependant, les alinéas 152(1)b) et c) de la LTA peuvent, dans certains cas, prévoir une autre date d’exigibilité.
+(a) Convention écrite
+[47] Selon l’alinéa 152(1)c) de la LTA, si l’acquéreur, aux termes d’une convention écrite, est tenu de payer tout ou partie de la contrepartie pour une fourniture taxable avant que le fournisseur ne lui remette une facture, aux fins de la partie IX de la LTA, l’intégralité ou la partie de la contrepartie est réputée être exigible le jour stipulé par la convention. Par conséquent, il faut tenir compte de l’entente conclue entre IHI et DMCL concernant le paiement des frais de vérification liés aux états financiers d’IHI.
+(i) Examen des documents
+[48] Il semble que le 23 août 2007 (sinon plus tôt), M. Abou-Rached et M. Abi‑Rached avaient eu des discussions avec Barry Hartley, un représentant de Barry S. Hartley, Inc., qui était un associé de DMCL[35], au sujet du montant des frais que DMCL facturerait à IHI pour la vérification des deux ensembles d’états financiers. Le 24 août 2007, M. Hartley a envoyé un courriel à M. Abou-Rached et à M. Abi‑Rached, qui se lisait comme suit :
+[traduction]
+Comme nous en avons discuté hier, j’estime que les frais de vérification pour IHI sont d’environ 60 000 $CAN à 70 000 $CAN. Ce montant peut varier (il peut être inférieur ou supérieur) selon la qualité du dossier de documents de travail qui nous est fourni et des autres circonstances ou problèmes qui pourraient survenir.
+Je communiquerai avec vous s’il devient évident au cours de la vérification que cette estimation n’est plus valide. Cela comprendrait une raison valable et justifiable pour tout dépassement de coûts.
+J’espère que vous trouvez le tout acceptable. N’hésitez pas à communiquer avec moi si vous avez d’autres questions[36].
+Cinq jours plus tard, le 29 août 2007, la DMCL et IHI ont signé la lettre d’entente susmentionnée[37], dont la partie pertinente est la suivante :
+[traduction]
+Nos frais seront établis en fonction du temps consacré à notre mission selon nos tarifs standard pour les missions visant des sociétés publiques, plus les débours et la TPS applicable. Nos modalités de paiement sont de 30 jours nets, et des intérêts à un taux de 1,0 % par mois (taux d’intérêt annuel effectif de 12,862 %) seront imputés sur les comptes en souffrance. Nous demandons qu’un acompte de 25 000 $ soit versé avant le début de nos travaux; un paiement de 20 000 $ devra être versé d’ici le 10 septembre 2007 et le solde devra être payé au moment de la transmission des états financiers[38].
+La lettre d’entente ci-dessus ne qualifie le paiement initial de 25 000 $ que de simple acompte (qui devait être versé avant le début des travaux) et semble indiquer que le paiement de 20 000 $ et le solde devaient être des paiements au titre des frais.
+[49] Comme il a été mentionné ci‑dessus, à la mi‑novembre 2007, la quantité de travail effectuée par DMCL, si elle avait été facturée aux tarifs horaires standard, aurait correspondu à des frais bien au‑delà de l’estimation initiale donnée par M. Hartley dans son courriel du 24 août 2007. Des discussions ont eu lieu entre DMCL et IHI, ce qui a abouti à une nouvelle entente concernant le montant et le paiement des frais, tels qu’ils sont exposés dans un courriel daté du 7 décembre 2007, envoyé par M. Hartley à M. Abou-Rached et à M. Abi-Rached. Ce courriel se lit comme suit :
+[traduction]
+Comme nous en avons discuté lundi, j’aimerais confirmer notre entente :
+* Les frais seront fixés à 130 000 $;
+* Vous nous avez versé 45 000 $ jusqu’à maintenant et le reste des 130 000 $ sera versé comme suit : 35 000 $ la semaine prochaine et cinq paiements consécutifs de 10 000 $ à compter de la fin de février. Vous me remettrez les cinq chèques postdatés au moment de la remise des états financiers signés pour décembre 2006 et mars 2007;
+* Les états financiers de juin 2007 ne seront plus vérifiés;
+* En janvier 2008, nous vous fournirons un budget pour la vérification de mars 2008, ainsi qu’une liste de tous les éléments que votre personnel doit préparer pour la vérification de mars 2008;
+* Nous commencerons la vérification le lundi 10 décembre 2007.
+Je vous serais reconnaissant de m’autoriser à prendre le paiement de 35 000 $ sur la carte de crédit utilisée précédemment pour notre paiement, le lundi 10 décembre 2007[39].
+Le courriel ci-dessus indiquait simplement qu’IHI avait payé 45 000 $ à ce jour, sans qualifier une partie de ce montant d’acompte, puis indiquait l’échéancier pour le paiement du solde des frais, encore une fois sans faire référence à un acompte. Plus précisément, il ne ressort pas du courriel ci-dessus que les 35 000 $ qui devaient être payés peu de temps après devaient tenir lieu d’acompte. Par conséquent, il semble que, en raison de l’entente confirmée dans le courriel du 7 décembre 2007, chaque paiement déjà effectué ou qui n’avait pas encore été effectué par IHI à DMCL a été qualifié ou qualifié à nouveau de paiement au titre des frais de DMCL. En particulier, il semble que la nature du paiement initial de 25 000 $ soit passée d’un acompte à un paiement au titre des frais de DMCL.
+[50] Tel qu’il a été demandé dans le paragraphe de conclusion du courriel du 7 décembre 2007, M. Abou-Rached ou M. Abi-Rached a autorisé le paiement par carte de crédit au montant de 35 000 $. Le 11 décembre 2007, M. Hartley a envoyé un bref courriel à M. Abou-Rached, dans lequel il écrivait :
+[traduction]
+Merci BEAUCOUP de la télécopie autorisant le paiement; je vous en suis très reconnaissant[40].
+(ii) Jurisprudence
+[51] Dans la décision de première instance North Shore Power, le juge Bocock a défini certains contrats d’achat et d’installation d’une série de panneaux solaires. À la signature des contrats, l’acheteur a payé 50 % du prix d’achat. Le reste du prix devait être payé à la livraison des panneaux. Le juge Bocock a défini l’entente contractuelle comme suit :
+[traduction]
+Il n’y a pas grand-chose à redire sur le fait que les contrats, une fois signés, constituaient des obligations juridiquement contraignantes tant pour Menova [le vendeur] que pour North Shore [l’acheteur]. Il n’y a pas eu de paiement de dépôt pour garantir l’achèvement des contrats. Les paiements partiels importants devaient financer les coûts considérables liés aux panneaux solaires. Les contrats, même s’ils qualifiaient les sommes versées de dépôts, étaient néanmoins structurés comme des paiements partiels, la moitié étant due à l’exécution et le solde étant dû à la livraison. De façon très concluante, grâce à ces caractéristiques, les sommes versées étaient des paiements partiels[41].
+Bien que la Cour d’appel fédérale ait infirmé la décision du juge Bocock, la Cour n’a pas censuré son point de vue selon lequel les paiements initiaux de 50 % en vertu de chacun des contrats constituaient des paiements partiels plutôt que des dépôts. En fait, il semble que la juge Woods ait retenu un point de vue semblable à celui du juge Bocock, puisqu’elle a observé :
+11. Le présent appel porte sur des contrats que North Shore a conclus avec Menova Energy Inc. pour la vente et l’installation de panneaux solaires. Ces contrats exigeaient de North Shore qu’elle verse à l’avance la moitié du prix d’achat, y compris la TVH, le solde étant payable à la livraison. […]
+13. S’agissant des contrats annulés, les sommes initialement versées par North Shore s’élevaient à 2 987 785 $ au titre des prix d’achat et à 388 412 $ au titre de la TVH […][42].
+[52] Ainsi, dans l’affaire North Shore Power, les paiements initiaux, bien que qualifiés par les contrats de dépôts, se sont avérés être des paiements partiels au titre des prix d’achat. L’on pourrait en inférer que le paiement de 25 000 $ effectué par IHI à DMCL le 31 août 2007, même s’il est qualifié d’acompte, pourrait être implicitement requalifié par les parties de paiement partiel au titre des frais de DMCL.
+[53] Il y a toutefois une différence notable entre les faits de l’affaire North Shore Power et ceux des présents appels. Les faits constants de l’affaire North Shore Power opéraient clairement la distinction entre les montants versés au titre des prix d’achat et les montants versés au titre de la taxe de vente harmonisée, alors qu’aucun élément de preuve n’a été produit relativement aux présents appels tendant à établir que les paiements effectués par IHI comprenaient la TPS. Par conséquent, la jurisprudence North Shore Power n’a peut-être pas une pertinence évidente quant aux présents appels.
+(iii) Application
+[54] Cependant, peu importe la distinction notée au paragraphe précédent, la structure des paiements établie dans le courriel de M. Hartley du 7 décembre 2007 est très semblable à celle en cause dans l’affaire North Shore Power. Par conséquent, on peut soutenir qu’en date du 11 décembre 2007, les trois paiements effectués par IHI à DMCL peuvent avoir été qualifiés ou requalifiés par contrat comme paiements au titre des frais de DMCL.
+[55] Le grand livre tenu par DMCL, qui était daté du 10 décembre 2007, indiquait que les travaux pour lesquels les frais s’élevaient à 129 059,28 $ n’avaient pas encore été facturés[43]. L’indication dans le grand livre que les frais n’avaient pas été facturés et le fait que DMCL n’a pas encore produit de facture pour ces travaux n’est pas contraire à l’entente définie dans le courriel de M. Hartley du 7 décembre 2007. Il ressort clairement de la lecture concertée des alinéas 152(1)a) et c) de la LTA et des mots « est réputée devenir due le premier en date des jours suivants » dans l’introduction du paragraphe 152(1) de la LTA que l’acquéreur peut être contractuellement tenu de payer tout ou partie de la contrepartie pour une fourniture avant que le fournisseur ne lui remette une facture pour cette contrepartie.
+[56] En résumé, en raison de l’entente conclue entre DMCL et IHI, comme il est indiqué dans le courriel de M. Hartley du 7 décembre 2007, le droit d’IHI aux CTI à l’égard des trois paiements de frais qu’elle a versés à DMCL pourrait avoir été établi au T4‑2007. Toutefois, il n’est pas nécessaire que je rende une décision définitive à l’égard de ce point, compte tenu de la conclusion que je tire ci‑dessous à l’égard du paragraphe 169(4) de la LTA.
+(b) Retard injustifié
+[57] Pour déterminer s’il y a eu un retard injustifié dans l’émission d’une facture, il faut rechercher si un critère objectif ou subjectif doit être appliqué. Il semble que l’intention initiale du ministère des Finances, quand il a rédigé l’alinéa 152(1)b) de la LTA, était que le retard injustifié soit déterminé en fonction des pratiques de facturation habituelles du fournisseur en question[44].
+[58] Une autre question qui se pose consiste à savoir si le retard injustifié doit être déterminé en fonction de la conduite du fournisseur ou de l’acquéreur. À cet égard, la juge Lamarre (tel était son titre) a observé à l’occasion de l’affaire DHM Energy, qui portait sur des dispositions transitoires relatives aux services fournis avant 1991 (lorsque la TPS est entrée en vigueur), mais qui ont été facturés après le 19 avril 1991 :
+[traduction]
+Je suis d’avis que, puisque c’est l’acquéreur des services qui doit payer la taxe au bout du compte, il semble logique de dire que, si le fournisseur retarde indûment la remise d’une facture, l’acquéreur ne doit pas avoir à porter le fardeau d’une taxe qu’il n’aurait pas autrement à payer. En ce sens, je comprends que le retard justifié doit être attribuable au fournisseur et non à l’acquéreur. Par contre, si c’est à la demande de l’acquéreur que le fournisseur a reporté la facturation après avril 1991, je ne vois pas pourquoi la TPS ne devrait pas être facturée[45].
+Même si la jurisprudence DHM Energy portait sur la transition qui a eu lieu quand la TPS a été adoptée pour la première fois, les principes qu’elle consacre jouent dans un certaine mesure (mais peut-être en sens inverse) en l’espèce, où sont en cause des travaux réalisés et une contrepartie payée en 2007, avant une diminution du taux de la TPS qui est passé de 6 % à 5 % le 1er janvier 2008.
+[59] Les mots « retard injustifié » n’ont pas été définis par la jurisprudence. Toutefois, dans l’arrêt Spur Oil, la Cour d’appel fédérale a observé que, en matière d’’impôt sur le revenu, le mot « injustifié » doit être interprété dans le sens d’« excessif »[46].
+[60] La Cour d’appel fédérale a confirmé que, même dans le cas où la fourniture prévue par un contrat n’est que partiellement achevée, l’émission d’une facture peut être retardée de façon injustifiée, vu que l’alinéa 152(1)b) de la LTA vise la facture qui est remise à l’égard d’une fourniture pour la totalité ou une partie de la contrepartie[47].
+[61] Pour déterminer si DMCL a retardé de façon injustifiée l’émission de sa facture pour la préparation et la vérification des états financiers d’IHI, il convient de noter que, le 18 février 2008, DMCL a émis une facture à IHI à l’égard d’un rapport que DMCL avait envoyé le 23 janvier 2008[48]. Autrement dit, la facture n’a été émise que 26 jours après la transmission du rapport. Par ailleurs, il semble que DMCL ait cessé de travailler sur la vérification des états financiers d’IHI en novembre ou décembre 2007, mais qu’elle n’ait pas émis de facture avant le 19 juin 2008, soit un retard d’environ cinq ou six mois.
+[62] À la fin de 2007 ou au début de 2008, il y a eu rupture de la relation entre IHI et DMCL[49]. Il se peut que cette rupture ait eu une incidence sur le calendrier de facturation de DMCL.
+[63] Cependant, comme IHI n’a pas fait valoir cet argument et comme il n’y avait pas suffisamment d’éléments de preuve pour déterminer si DMCL a retardé de façon injustifiée l’émission de sa facture pour les frais de vérification, je ne me prononcerai pas à l’égard de cette question.
+(3) Documentation requise
+[64] En ce qui concerne les CTI liés aux paiements d’IHI à DMCL, la Couronne a avancé la thèse selon laquelle IHI a manqué au paragraphe 169(4) de la LTA et à l’alinéa 3c) du Règlement sur les renseignements nécessaires à une demande de crédit taxe sur les intrants (TPS/TVH) (le « Règlement sur les CTI »). Aux termes de l’alinéa 169(4)a) de la LTA, avant qu’il ne produise une déclaration demandant un CTI pour une période de déclaration, l’inscrit doit obtenir des « renseignements suffisants pour établir le montant du [CTI], y compris les renseignements visés par règlement ». Puis, l’article 3 du Règlement sur les CTI dispose que, aux fins de l’alinéa 169(4)a) de la LTA et dans le cadre des présents appels, les renseignements suivants sont des renseignements prescrits :
+Disposition Renseignements prescrits
+3a)(i) le nom du fournisseur;
+3a)(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture;
+3a)(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci;
+3a)iv) le montant total payé ou payable pour la ou les fournitures;
+3b)(i) le numéro d’inscription aux fins de la TPS attribué au fournisseur;
+3b)(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles;
+3b)(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures, une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable et une indication du taux de TPS applicable;
+3c)(ii) le nom de l’acquéreur;
+3c)(iii) les modalités de paiement;
+3c)(iv) une description suffisante pour identifier chaque fourniture[50].
+[65] L’article 2 du Règlement sur les CTI définit les mots « pièce justificative » : « [d]ocument qui contient les renseignements exigés à l’article 3 […] ». Les renseignements exigés par le paragraphe 169(4) de la LTA n’ont pas à être contenus dans un seul document; ils peuvent plutôt être contenus collectivement dans plusieurs documents[51]. Toutefois, pour constituer une pièce justificative, le document particulier doit être délivré ou signé par le fournisseur[52]. Le document préparé par l’acquéreur ne constitue pas une pièce justificative[53].
+[66] Dans le cas de DMCL, les documents présentés à titre d’éléments de preuve qui correspondent à la définition de la« pièce justificative » étaient le courriel du 24 août 2007 de M. Hartley[54], la lettre d’entente du 29 août 2007[55], le courriel du 7 décembre 2007 établissant la nouvelle entente sur les frais[56], le grand livre de DMCL en date du 10 décembre 2007[57], le courriel du 11 décembre 2007 de M. Hartley[58], la facture de DMCL du 18 février 2008[59] et la facture de DMCL du 19 juin 2008[60]. Le document préparé par un employé ou un conseiller d’IHI, aux fins du calcul des CTI réclamés (en partant du principe que les trois paiements, totalisant 80 000 $ et payés par IHI à DMCL, incluaient la TPS)[61], ne constitue pas une pièce justificative, puisqu’elle n’a pas été émise ou signée par DMCL[62].
+[67] Les pièces justificatives produites par IHI, dans la pièce A-1, indiquent clairement le nom du fournisseur et celui de l’acquéreur (c.-à-d. DMCL et IHI, respectivement), le montant total payé en 2007 pour les services de vérification (c.‑à-d. 80 000 $ moins toute TPS incluse), les dates auxquelles la TPS a été payée (c.-à-d. le 31 août 2007, le 10 octobre 2007 et le 12 décembre 2007, en supposant que la TPS était incluse), les modalités de paiement (qui sont énoncées dans le courriel du 7 décembre 2007) et la description des services fournis (qui sont énoncés dans la lettre d’entente du 29 août 2007 et dans le grand livre de DMCL). Ainsi, les sous‑alinéas 3a)(i), 3a)(iv), 3c)(ii), 3c)(iii) et 3c)(iv) du Règlement sur les CTI, énumérés au paragraphe 64 ci-dessus, ont été respectés.
+[68] Pour demander un CTI, le paragraphe 169(4) de la LTA exige que l’inscrit obtienne les preuves contenant les renseignements requis avant de produire la déclaration de TPS dans laquelle le CTI est réclamé[63]. Compte tenu de l’historique des déclarations et des cotisations relatives à l’objet des présents appels, les documents justificatifs émis ou signés par DMCL après 2007 pourraient avoir été mis à la disposition d’IHI lorsqu’elle a demandé les CTI relativement aux paiements qu’elle a faits à DMCL en 2007. Je crois comprendre qu’IHI n’a pas demandé de CTI pour les paiements à DMCL ou à Fetherstonhaugh lorsqu’elle a produit ses déclarations de TPS originales pour les périodes de déclaration de 2006 et de 2007 ou lorsque l’ARC a entrepris sa vérification en 2009 et en 2010. Apparemment, IHI a demandé les CTI plus tard, dans le cadre des procédures d’opposition ou d’appel[64].
+[69] Comme il est expliqué ci-dessus, en raison de l’effet conjugué des paragraphes 152(1) et 168(1) de la LTA, aux termes d’une convention écrite, la contrepartie l’une fourniture taxable peut devenir exigible et la TPS à l’égard de cette fourniture peut devenir payable avant que le fournisseur ne remettre une facture pour ladite fourniture. Je suis d’avis que, dans un tel cas, la facture peut être considérée comme une source attestant le numéro d’inscription aux fins de la TPS du fournisseur et, selon les circonstances, d’autres renseignements prescrits aux fins du paragraphe 169(4) de la LTA, même si la facture ne permet pas de déterminer à quel montant la contrepartie est due ou la TPS est payable. Ainsi, si DMCL avait envoyé sa facture pour les services de vérification à la date qui y est indiquée, c’est-à-dire le 19 juin 2008, et si DMCL avait envoyé une copie de cette facture à IHI peu de temps après, IHI aurait eu l’information nécessaire sur le numéro d’inscription aux fins de la TPS de DMCL (comme il est indiqué sur la facture), de façon à respecter l’alinéa 3b)(i) du Règlement sur les CTI.
+[70] Les sous-alinéas 3a)(ii) et (iii) du Règlement sur les CTI visent deux cas distincts; le sous-alinéa 3a)(ii) joue si une facture a été remise à l’égard d’une fourniture particulière, tandis que le sous-alinéa 3a)(iii) joue si une facture n’a pas été remise. Dans les présents appels, compte tenu de l’incertitude quant au moment où DMCL a préparé la facture datée du 19 juin 2008 et quant à savoir si elle l’a envoyée à IHI, il est difficile de déterminer si le sous-alinéa 3a)(ii) ou le sous‑alinéa 3a)(iii) est la disposition applicable.
+[71] Pour déterminer si la facture de DMCL a été remise, il est utile de tenir compte du sens du mot anglais « issue ». Le Black’s Law Dictionary donne plusieurs sens à ce mot; dans le contexte des présents appels, ce mot signifie [traduction] « envoyer ou distribuer officiellement »[65]. Le New Shorter Oxford English Dictionary donne de nombreux sens au mot anglais « issue », dont les suivants (qui sont les sens les plus pertinents aux fins des présents appels) :
+[traduction]
+Donner ou envoyer de manière autoritaire ou officielle; publier, émettre, mettre en circulation. […] Donner (quelque chose) officiellement à (une personne); fournir officiellement (à une personne)[66]. [Italiques dans l’original.]
+Il ressort de ces définitions que, pour émettre une facture, la facture doit non seulement être créée, mais elle doit aussi être envoyée au client.
+[72] Comme il a été signalé, M. Abou-Rached a affirmé catégoriquement qu’il n’avait pas vu la facture du 19 juin 2008 jusqu’à ce qu’elle lui soit montrée le premier jour de l’audience concernant les présents appels. Si tel était le cas, il peut être soutenu que, même si la facture a été créée le 19 juin 2008, elle n’a pas été remise à ce moment-là, auquel cas le sous-alinéa 3a)(iii) plutôt que le sous-alinéa 3a)(ii) du Règlement sur les CTI jouera. Bien que les pièces justificatives indiquent clairement qu’IHI a effectué trois paiements à DMCL en 2007, elles ne précisent pas les dates auxquelles ces paiements ont été effectués. Cette information figure plutôt dans les relevés mensuels de carte de crédit de M. Abi‑Rached[67]. Par conséquent, si le sous-alinéa 3a) (iii) du Règlement sur les CTI était la disposition pertinente (c.-à-d. si la facture n’a pas été remise), cette disposition n’a pas été respectée.
+[73] Si DMCL avait créé la facture le 19 juin 2008 et l’avait aussi postée ou envoyée d’une autre façon à IHI environ au même moment, mais que la facture avait été reçue et traitée par un employé d’IHI autre que M. Abou-Rached, l’alinéa 3a)(ii) du Règlement sur les CTI aurait joué et aurait été respecté, car la date de la facture y est indiquée.
+[74] Les sous-alinéas 3b)(iii) et (iv) du Règlement sur les CTI sont deux autres dispositions visant des cas distincts. Le sous-alinéa 3b)(iii) joue si la TPS n’est pas incluse dans le montant payé ou payable pour la fourniture, tandis que le sous‑alinéa 3b)(iv) joue si le montant payé ou à payer comprend la TPS. En ce qui a trait à l’alinéa 3b)(iv), s’il est accepté que les trois paiements versés par IHI à DMCL en 2007 comprenaient la TPS, comme IHI l’a indiqué, cet alinéa constitue en fait un obstacle pour IHI, étant donné qu’il n’y a pas de pièce justificative précisant que la TPS était incluse dans ces trois paiements et indiquant le taux de TPS applicable.
+[75] Par contre, si la TPS n’était pas incluse, de sorte que le sous-alinéa 3b)(iii) du Règlement sur les CTI était la disposition pertinente, cette disposition exigeait qu’IHI ait des renseignements sur le montant de TPS payé ou payable relativement à la fourniture. Cela soulève un tout autre problème, étant donné que la seule pièce justificative indiquant le montant de TPS payé ou payable était la facture de DMCL, mais le montant de TPS figurant sur cette facture a été calculé au taux de 5% , alors qu’IHI a demandé des CTI en se fondant sur le fait qu’elle avait payé un taux de TPS de 6 %[68]. De plus, étant donné que la facture a été préparée en fonction du fait qu’IHI avait payé 2 375 $ à DMCL en 2008, en plus des 80 000 $ payés en 2007, le montant de la contrepartie et le montant de la TPS, qui figurent sur la facture, ne correspondent pas aux montants respectifs utilisés par IHI dans sa demande de CTI.
+[76] Même si IHI devait démontrer qu’elle se conformait au sous-alinéa 3b)(iii) ou (iv) du Règlement sur les CTI, elle ne s’est conformée à aucune de ces dispositions. Par conséquent, je suis d’avis qu’IHI ne s’est pas entièrement conformée au paragraphe 169(4) de la LTA et à l’article 3 du Règlement sur les CTI. IHI n’a donc pas droit aux CTI qu’elle a demandés au T4‑2007 à l’égard des trois paiements effectués par IHI à DMCL.
+[77] Il peut être soutenu que, même si IHI n’a pas entièrement respecté le paragraphe 169(4) de la LTA et l’article 3 du Règlement sur les CTI, IHI les a observés en substance, de sorte que sa demande de CTI ne doit pas être rejetée simplement parce qu’elle ne possédait pas, au moment de la demande de CTI, des pièces justificatives indiquant tous les renseignements prescrits, en particulier une déclaration de DMCL voulant que les 80 000 $ payés en 2007 comprenaient la TPS. Toutefois, selon une jurisprudence constante, l’article 3 du Règlement sur les CTI doit être appliqué de manière stricte. Dans l’arrêt Systematix Technology, la Cour d’appel fédérale a observé :
+[4] Nous sommes d’avis que la Loi [c.-à-d. le paragraphe 169(4) de la LTA et l’article 3 du Règlement sur les CTI] exige que les personnes ayant versé des sommes au titre de la TPS à des fournisseurs veillent à fournir des numéros d’inscription des fournisseurs valides lorsqu’elles demandent un crédit de taxe sur les intrants.
+[5] Nous sommes d’accord avec le juge Bowie lorsqu’il affirme ce qui suit dans l’affaire Key Property Management Corp. c. R., [2004] G.S.T.C. 32 (CCI) :
+Le but même de l’alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l’intégrité du texte législatif [soulignement ajouté par la CAF].
+[6] Nous sommes également d’accord avec la juge Campbell lorsqu’elle affirme ce qui suit dans l’affaire Davis c. R., [2004] G.S.T.C. 134 (CCI) :
+Je ne pense pas qu’il est possible de contourner ces dispositions, étant donné que leur libellé est très précis. Elles sont manifestement obligatoires, et l’appelant n’a tout simplement pas respecté les exigences techniques que la Loi et le Règlement lui imposent à titre de participant à un régime d’autocotisation [soulignement ajouté par la CAF][69].
+[78] Dans l’affaire Oak Ridges Lumber, où l’appelant a avancé la position selon laquelle certains paiements comprenaient la TPS, mais où il n’y avait pas suffisamment de documentation à l’appui de cette position, le juge en chef Bowman a observé :
+Je crois qu’il est juste de dire qu’aucun document de la sorte [c.-à-d. les types de documents énumérés dans la définition de « pièce justificative » à l’article 2 du Règlement sur les CTI] n’a été présenté à l’Agence du revenu du Canada ou à la Cour. L’exigence de présentation de pièces justificatives n’est ni déraisonnable, ni particulièrement lourde. Il s’agit d’ailleurs d’une exigence déjà prévue dans la LTA[70].
+Le juge en chef Bowman a ensuite cité l’observation suivante, qu’il avait déjà faite dans la décision Helsi Construction Management Inc. :
+Les raisons principales du rejet étaient que les numéros d’inscription des fournisseurs n’étaient pas indiqués sur les factures. Il s’agit d’une condition prévue par l’article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Bien qu’il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu’obligatoires […], ce n’est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d’accise[71].
+[79] Par conséquent, comme IHI ne s’est pas entièrement conformée au paragraphe 169(4) de la LTA et à l’article 3 du Règlement sur les CTI, j’ai le regret de conclure qu’IHI n’a pas droit aux CTI à l’égard des paiements qu’elle a faits à DMCL au T4‑2007.
+D. Paiements à CNRL
+(1) Contexte
+[80] En 2006, CNRL et IHI ont conclu sept contrats relatifs à la construction de bureaux d’usine, d’un entrepôt et d’un centre de perfectionnement des compétences sur le site de CNRL près de Fort McMurray, en Alberta. Seul le contrat relatif aux installations de l’entrepôt principal (le « contrat de l’entrepôt ») a été produit en preuve dans son intégralité[72]; il était daté du 10 mars 2007, bien qu’il ait été signé le 28 juin 2006[73]. IHI a également produit les cinq premières pages du contrat concernant les bureaux de l’usine (le « contrat des bureaux »)[74]. Pour garantir son exécution des contrats, IHI a pris les dispositions pour que deux lettres de crédit soient émises par la Banque Royale du Canada (« RBC ») en faveur de CNRL[75].
+[81] En 2007, CNRL a craint qu’IHI ne serait pas en mesure de mener à bien les contrats dans les délais qui y étaient prescrits; par conséquent, en mai 2007, CNRL a envoyé des lettres à IHI pour l’informer que les contrats étaient résiliés et que CNRL effectuerait un prélèvement au titre des lettres de crédit[76]. Il semble que CNRL ait prélevé 1 836 711 $ sur les lettres de crédit et engagé un autre entrepreneur pour remplir les obligations d’IHI prévues par les contrats[77].
+[82] IHI soutient que les contrats conclus entre elle et CNRL autorisent CNRL à effectuer des prélèvements au titre des lettres de crédit et à utiliser ces fonds pour embaucher un autre entrepreneur pour remplir les obligations d’IHI prévues par les contrats. En particulier, le paragraphe 46.2(ii) du contrat de l’entrepôt permettait à CNRL de résilier le contrat et de terminer les travaux, aux frais et aux risques de l’entrepreneur[78]. Selon IHI, lorsque CNRL a embauché un autre entrepreneur pour achever la construction, CNRL assurait à IHI un service (c.-à-d. l’exécution des obligations d’IHI en vertu des contrats), pour lequel CNRL avait le droit de recevoir une contrepartie d’IHI (qui a été payée en effectuant un prélèvement sur les lettres de crédit)[79].
+(2) Dispositions légales et analyse
+[83] Les dispositions légales qui se rapportent particulièrement à la demande de CTI d’IHI dans le cadre des montants prélevés par CNRL au titre des lettres de crédit sont les paragraphes 169(1) et (4) de la LTA, ainsi que l’article 3 du Règlement sur les CTI. Comme ces dispositions ont été discutées plus haut au sujet de Fetherstonhaugh, la discussion ne sera pas répétée ici.
+[84] En suivant l’analyse consacrée par la décision General Motors[80], les conditions qui doivent être satisfaites pour qu’IHI puisse demander des CTI sont les suivantes :
+a)IHI doit avoir acquis des services, probablement auprès de CNRL, mais peut-être auprès de l’entrepreneur tiers embauché par CNRL pour effectuer les travaux correctifs;
+b)La TPS doit avoir été payable ou payée par IHI relativement à la prestation de ces services;
+c)IHI doit avoir acquis ces services pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+De plus, IHI doit prouver que, lorsqu’elle a demandé les CTI, elle avait obtenu les renseignements exigés par l’alinéa 169(4)a) de la LTA.
+[85] En ce qui a trait à la première exigence, c’est-à-dire celle selon laquelle IHI doit avoir acquis les services de CNRL ou peut-être de l’entrepreneur tiers, les seuls éléments de preuve produits par IHI à cet égard étaient le témoignage de vive voix de M. Abou‑Rached selon lequel CNRL avait engagé un autre entrepreneur pour terminer les travaux qui devaient être exécutés par IHI en vertu du contrat de l’entrepôt et du contrat des bureaux. IHI n’a pas produit d’éléments de preuve contenant le nom de l’entrepreneur, la description des travaux réellement exécutés par l’entrepreneur, une indication d’IHI quant à savoir si les services lui ont été assurés par CNRL ou par l’entrepreneur, ni le mécanisme par lequel IHI a réellement acquis ces services. Ainsi, IHI n’a pas produit suffisamment d’éléments de preuve pour prouver, selon la prépondérance des probabilités, qu’IHI a acquis des services, que CNRL ou l’autre entrepreneur a assuré des services à IHI, ou que les montants prélevés par CNRL au titre des lettres de crédit constituaient une contrepartie pour une telle fourniture[81].
+[86] Quant à l’exigence suivante, c’est-à-dire celle selon laquelle IHI doit prouver qu’elle a payé de la TPS à l’égard de la fourniture des services allégués, IHI a avancé la thèse portant que le montant total (c.-à-d. 1 836 711 $) qui a été payé à CNRL en vertu des lettres de crédit comprenait la TPS, laquelle s’élevait, selon le calcul d’IHI, à 103 964,77 $ (c.-à-d. 6/106 x 1 836 711 $). Cependant, IHI a admis ne pas avoir payé de TPS à l’égard des lettres de crédit[82]. Il n’est pas clair, d’après la formulation de cet aveu particulier, tel qu’il figure dans la demande d’aveux, si IHI a avoué qu’elle n’avait pas payé de TPS à l’égard de quelque contrepartie payée par elle à RBC pour obtenir les lettres de crédit ou si IHI n’avait pas payé de TPS à l’égard des fonds prélevés sur les lettres de crédit par CNRL. Indépendamment de la signification précise de l’aveu, IHI n’a produit aucun élément de preuve tendant à établir qu’elle a payé de la TPS à l’égard de quelque contrepartie que ce soit, le cas échéant, qu’elle a versée à CNRL pour la prestation présumée de services à IHI[83].
+[87] En ce qui concerne la troisième exigence, à l’occasion de l’affaire Garmeco, la juge V. Miller a expliqué que, lorsqu’il demande un CTI, l’inscrit « doit démontrer […] que ces […] services avaient été acquis à des fins de consommation ou d’utilisation dans le cadre des activités commerciales de l’appelante »[84]. Je retiens l’idée que, si des travaux correctifs effectués par l’entrepreneur tiers ou les efforts de CNRL pour organiser ces travaux constituaient des services fournis à IHI (ce qui, comme il a été noté ci-dessus, n’a pas été prouvé), il peut être soutenu que ces services étaient liés aux activités commerciales d’IHI, mais la manière dont ces services ont été utilisés par IHI dans le cadre de ces activités commerciales n’a pas été établie clairement, et IHI ne l’a pas démontré.
+(3) Jurisprudence
+[88] Il pourrait être soutenu que l’enseignement des décisions Bondfield et Bokrika va dans le sens de la position d’IHI[85]. Chaque décision portait sur un contrat de construction qui avait été violé par le fournisseur initial, après quoi le bénéficiaire initial du contrat a engagé un tiers pour effectuer des travaux correctifs qui ont été payés par le bénéficiaire initial du contrat, puis rétrofacturés au fournisseur initial. Bien que, dans l’ensemble, les faits des affaires Bondfield et Bokrika soient quelque peu semblables aux faits des présents appels, on doit aussi opérer des distinctions, et faire des critiques de ces deux décisions.
+[89] Dans l’affaire Bondfield, si les travaux du sous-traitant étaient insuffisants, Bondfield engageait un deuxième sous-traitant pour remédier à la situation. Lorsque le deuxième sous-traitant envoyait une facture à Bonfield, Bondfield payait la facture et demandait des CTI à la fois pour le montant versé au sous‑traitant initial et pour le deuxième entrepreneur. Le service de comptabilité de Bondfield comptabilisait, dans le grand livre auxiliaire conservé pour le sous‑traitant d’origine, une rétrofacturation correspondant au montant de la facture du deuxième sous‑traitant (y compris la TPS). Le montant que Bondfield versait au sous-traitant initial était réduit du montant de la rétrofacturation. Bondfield envoyait ensuite au sous-traitant original la copie de la facture du deuxième sous-traitant, accompagnée d’une lettre avisant le sous-traitant original de la rétrofacturation. Si le sous-traitant initial contestait avec succès la rétrofacturation, de sorte que celle-ci était annulée, nul problème de TPS ne se produisait parce que Bondfield avait demandé un CTI à l’égard de la facture du deuxième sous-traitant. Cependant, si le sous-traitant initial avait accepté la rétrofacturation (qui comprenait la TPS payée par Bondfield au deuxième sous-traitant), la juge Campbell était d’avis que la réduction par Bondfield du montant qu’elle a payé au sous-traitant initial permettait essentiellement à Bondfield de transférer au sous-traitant initial la responsabilité tant pour la contrepartie que pour la TPS payées par Bondfield au deuxième sous-traitant. Bondfield n’a toutefois pas ajusté ses demandes de CTI de manière à reconnaître que, d’une certaine façon, elle avait été remboursée ou indemnisée par le sous-traitant initial pour la TPS payée par Bondfield au deuxième sous-traitant. La juge Campbell a conclu que, dans ces circonstances, Bondfield n’avait pas le droit de demander les CTI. Ainsi, l’affaire Bondfield portait sur une demande de CTI d’un acquéreur, plutôt qu’une demande de CTI d’un fournisseur, de sorte que l’affaire est distincte des présents appels.
+[90] Cependant, il y a certaines observations dans la partie finale des motifs de la juge Campbell qui pourraient avoir une certaine pertinence en l’espèce :
+[123] Nous devons donc déterminer qui était « de manière ultime » responsable du paiement de la fourniture. En l’espèce, lorsque le travail d’un sous-traitant n’était pas satisfaisant, l’appelante [c.-à-d. Bondfield] avait habituellement recours à un second sous-traitant pour remédier à la situation. L’appelante tentait ensuite de recouvrer du premier sous-traitant le coût de ces réparations en exigeant des frais pour travaux correctifs, c’est-à-dire en demandant une réduction du prix stipulé dans le contrat initial, d’un montant égal au montant versé au second sous-traitant (y compris la TPS qu’elle avait payée). En acceptant ces frais, le premier sous-traitant reconnaissait sa responsabilité à l’égard du travail non satisfaisant et il assumait la responsabilité de payer la facture. Le nom de l’appelante figurait au recto de la facture, mais c’était le premier sous-traitant, et non l’appelante, qui acceptait d’être en dernier ressort responsable du paiement de la facture, y compris la TPS y afférente.
+[124] Selon certains éléments de preuve, il était loisible au sous-traitant de contester les frais pour travaux correctifs, et dans certains cas, l’appelante annulait ces frais. Toutefois, ce ne sont pas ces cas qui sont ici en cause. Le litige porte plutôt sur les cas dans lesquels l’appelante a demandé des CTI pour des factures se rapportant aux réparations même si elle avait réussi à transférer à un sous‑traitant la responsabilité de payer ces factures. Dans ces derniers cas, je conclus que le sous-traitant était l’acquéreur et que l’appelante n’a donc pas le droit de demander les CTI. […]
+[126] […] Lorsqu’un sous-traitant reçoit une lettre de notification (y compris la facture) et décide d’accepter les frais pour travaux correctifs sans modifier le contrat initial (en remettant une note de crédit), il est clair que le sous-traitant accepte la responsabilité de payer cette facture particulière[86].
+[91] La juge Campbell a indiqué qu’un premier sous-traitant qui acceptait une rétrofacturation reconnaissait sa responsabilité à l’égard des travaux déficients et assumait la responsabilité de la facture, y compris la TPS y afférente. L’on pourrait en inférer que le sous-traitant initial aurait pu demander un CTI à l’égard de la TPS sur cette facture. Cependant, la jurisprudence Bondfield n’est pas sans critiques[87]. De plus, la position du premier sous-traitant dans l’affaire Bondfield est différente de celle d’IHI pour au moins deux raisons :
+a)Je crois comprendre qu’IHI n’a pas reconnu sa responsabilité à l’égard des travaux déficients dans ses contrats avec CNRL. Je comprends également qu’il y a un contentieux en cours entre IHI et CNRL au sujet de ces contrats et du défaut allégué d’IHI d’achever les travaux faisant l’objet des contrats[88].
+b)Pour chaque rétrofacturation par Bondfield, Bondfield a envoyé une lettre d’avis et la copie de la facture du deuxième sous-traitant au sous-traitant original. La facture précisait le montant de la TPS. Dans le cadre des présents appels, CNRL n’a pas envoyé à IHI des copies des factures que CNRL a reçues de l’autre entrepreneur qui a effectué les travaux correctifs. Par conséquent, il n’y a pas de pièce justificative précisant le montant de la contrepartie payée pour les travaux correctifs ou le montant de la TPS payable à l’égard de cette contrepartie.
+[92] Dans l’affaire Bokrika, la Ville de Stoney Creek (la « Ville ») a embauché Bokrika Inc. (« Bokrika ») pour installer des égouts, des services publics, des routes, des trottoirs et des aménagements paysagers dans un lotissement résidentiel. Il semble que le montant payable à Bokrika par la Ville était d’environ 6 000 000 $. Bokrika a remis une lettre de crédit à la Ville pour couvrir les coûts des travaux non terminés. De temps à autre, si Bokrika n’effectuait pas les travaux nécessaires conformément aux modalités de l’entente, la Ville engageait un autre fournisseur pour effectuer des travaux correctifs, ce fournisseur envoyait ensuite une facture à la Ville, et la Ville effectuait un prélèvement sur la lettre de crédit pour payer le montant de ladite facture, y compris la partie de la TPS que la Ville ne pouvait pas recouvrer à titre de municipalité. Bokrika a avancé la position selon laquelle elle avait le droit de demander des CTI pour les montants versés, aux termes de la lettre de crédit, à la Ville au titre de la TPS. Le juge McArthur s’est appuyé sur la jurisprudence Bondfield pour rendre une décision en faveur de Bokrika :
+[19] J’applique le raisonnement reproduit ci-dessus [celui de l’affaire Bondfield] au présent appel parce que les faits en l’espèce sont très semblables à ceux de l’affaire Bondfield. Dans les deux causes, une tierce partie a été engagée pour exécuter des travaux correctifs qui ont été payés par l’acheteur contractant initial (en l’espèce Stoney Creek), qui en a ensuite fait payer le prix au fournisseur contractant initial (en l’espèce l’appelante [c.-à-d. Bokrika]). Même si l’intimée [c.-à-d. la Couronne] a eu raison d’affirmer que les paiements faits par l’appelante à Stoney Creek résultaient d’un bris de contrat, cette constatation importe peu puisque les paiements en question étaient remis à d’autres fournisseurs en contrepartie de fournitures taxables à l’égard desquelles l’appelante avait droit à des CTI.
+[20] La preuve qui m’a été soumise montre, comme dans l’affaire Bondfield, que Stoney Creek a conclu directement avec les nouveaux fournisseurs des conventions qui portaient sur les travaux correctifs. Stoney Creek était-elle pour autant l’acquéreur de la fourniture au sens du paragraphe 123(1) de la Loi? La juge Campbell s’est posé la question dans la décision Bondfield, et je souscris à sa conclusion que « nous devons donc déterminer qui était “de manière ultime” responsable du paiement de la fourniture » .
+[21] Stoney Creek n’était pas tenue de payer les prix demandés par les tierces parties pour l’achèvement des travaux sur le lotissement. La Ville savait en tout temps qu’elle pouvait obtenir des fonds grâce à la lettre de crédit de l’appelante, et c’est ce qu’elle a fait. En fait, elle a envoyé à l’appelante des factures faisant état de tous les fonds utilisés, et, à cet égard, la relation qui existait entre Stoney Creek et l’appelante était semblable à celle qui s’établit entre un mandant et son mandataire[89].
+Tout comme la décision Bondfield, la décision Bokrika a été critiquée[90].
+[93] Dans les présents appels, IHI n’a produit aucun élément de preuve dont il ressort que, lorsque CNRL a effectué des prélèvements sur les lettres de crédit et fait des paiements à l’autre entrepreneur, CNRL intervenait à titre d’agent d’IHI. De plus, rien n’indique que CNRL ait envoyé des factures à IHI relativement aux paiements faits par CNRL à l’autre entrepreneur. En l’absence de telles factures ou d’autres pièces justificatives, il y a eu manquement au paragraphe 169(4) de la LTA et à l’article 3 du Règlement sur les CTI n’ont pas été respectés.
+(4) Sommaire
+[94] Étant donné qu’IHI n’a pas démontré, selon la prépondérance des probabilités, qu’elle a payé la TPS à l’égard des paiements versés à CNRL au titre des lettres de crédit, et qu’IHI n’a pas produit de pièces justificatives répondant aux exigences du paragraphe 169(4) de la LTA et de l’article 3 du Règlement sur les CTI, IHI n’avait pas droit aux CTI qu’elle a demandés à l’égard des paiements prélevés par CNRL sur les lettres de crédit.
+E. Paiements aux avocats
+[95] Comme il est indiqué au paragraphe 7 ci‑dessus, au T3‑2007, IHI a demandé des CTI d’une somme totale de 2 126,10 $ pour les frais qu’elle a payés à Steele Urquhart pour des services juridiques. L’ARC et la Couronne ont concédé qu’IHI avait le droit de demander des CTI au montant de 1 504,86 $ au T3‑2007. Les autres CTI demandés au T3‑2007 (c.‑à‑d. 621,24 $) sont toujours en cause.
+[96] Au cours de l’audience sur les présents appels, IHI n’a présenté aucun élément de preuve concernant les paiements qu’elle a faits à Steele Urquhart au T3‑2007, et IHI (ou son avocat) n’a présenté aucune observation concernant les CTI de 621,24 $ que la Couronne n’a pas concédés. Par conséquent, la demande de CTI supplémentaires d’IHI d’une somme de 621,24 $ pour le T3‑2007 est rejetée.
+VI. CONCLUSION
+[97] Les présents appels sont accueillis et les nouvelles cotisations sont renvoyées au ministre aux fins d’un nouvel examen et de nouvelles cotisations au motif que, tel que la Couronne l’a concédé[91], IHI doit obtenir gain de cause à hauteur d’une somme de 19 200,77 $, ventilée comme suit :
+Période
+Description
+Montant
+T1-2007
+CTI pour les paiements à Steele Urquhart
+801,47 $
+T2-2007
+CTI pour les paiements à Steele Urquhart
+4 158,48 $
+T3-2007
+CTI pour les paiements à Steele Urquhart
+1 504,86 $
+T4-2007
+Réduction de la TPS recouvrable
+12 736,06 $
+Total
+19 200,77 $
+À tous autres égards, les nouvelles cotisations sont maintenues.
+[98] Si les parties ne sont pas en mesure de s’entendre sur les dépens, elles peuvent déposer des observations écrites à l’égard des dépens, chaque mémoire ne devant pas dépasser cinq pages, dans les 90 jours suivant le présent jugement.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2018.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+ANNEXE A
+2013-1 150(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+INTERNATIONAL HI-TECH INDUSTRIES INC.
+par ses créanciers garantis, ses séquestres en partie et ses fondés de pouvoir,
+IHI INTERNATIONAL HOLDINGS LTD., GARMECO INTERNATIONAL CONSULTING, GARMECO CANADA INTERNATIONAL, IHI HOLDINGS LTD. et EARTHQUAKE RESISTANCE STRUCTURES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+DEMANDE D’AVEUX
+VOUS ÊTES PRIÉ(E), aux fins seules de l’instance, DE RECONNAÎTRE la véracité des faits suivants :
+Nom légal des créanciers garantis et des fondés de pouvoir
+1. Le nom légal exact des créanciers garantis et des fondés de pouvoir énumérés ci-dessus dans l’intitulé de la cause est ou devrait être :
+a)IHI International Holdings Ltd.;
+b)Garmeco International Consulting Engineers S.A.L.;
+c)Garmeco Canada international Consulting Engineers Ltd.;
+d)IHI Holdings Ltd.;
+e)Earthquake Resistance Structures Inc.
+International Hi-Tech Industries Inc.
+À tous les moments importants, International Hi-Tech Industries Inc. (« IHI ») était un inscrit aux fins de la TPS et devait produire des déclarations de TPS tous les trimestres.
+Au cours de la période pertinente, IHI était une société publique.
+Le 19 novembre 2010, IHI a fait une cession en faillite.
+À tous les moments importants, Roger About-Rached était le président d’IHI.
+Activités d’IHI
+Les activités d’IHI étaient axées sur le développement et la commercialisation d’un processus de construction de bâtiments qui utilise des panneaux entièrement préfabriqués faits en béton armé, en mousse rigide et en métaux pliés à froid (la « technologie »).
+M. Rached a développé la technologie et la conception de produits connexes sur une période de 10 ans pendant qu’il travaillait pour Garmeco International Consulting EngineersS.A.L. (« Garmeco »).
+Tous les droits liés à la technologie ont été transférés par Garmeco et Canada International Consulting Engineers Ltd. à RAR Consultants Ltd. (une entreprise contrôlée par la famille de M. Rached).
+En mai 1993, IHI a acheté de M. Rached 65 % des actions de Canadian Hi-TechManufacturing Ltd. (« Canadian Hi-Tech »). Le principal actif de Canadian Hi‑Tech était une licence de RAR Consultants Ltd. pour la conception, la commercialisation, la distribution et l’installation de produits au Canada à l’aide de la technologie.
+À tous les moments importants, IHI International Holdings Ltd. détenait une licence exclusive pour utiliser la technologie dans tous les pays du monde autres que le Canada.
+Tout au long de la période de référence, RAR Consultants Ltd. était propriétaire et concédant de licence de la technologie.
+Historique des déclarations de TPS
+IHI a produit ses déclarations trimestrielles de TPS pour les périodes de déclaration trimestrielles comprises entre le 1er janvier 2006 et le 31 décembre 2007, tel qu’il est indiqué à l’annexe A aux dates indiquées dans cette annexe, et a déclaré la TPS nette telle qu’elle figure dans l’annexe.
+Vente de terrains
+Avant le 30 mars 2006, IHI possédait les biens immobiliers suivants :
+a)lot 1, autoroute Fraser, Langley (C.-B.), no d’identification de propriété : 003-772-560 (« lot 1 »);
+b)lot 2, l’autoroute Fraser, Langley (C.-B.), no d’identification de propriété : 003-774-074 (« lot 2 »; avec le lot 1, les « propriétés »);
+Au 30 mars 2006, les terrains des lots 1 et 2 étaient vacants.
+La superficie du lot 1 était de 0,237 acre.
+La superficie du lot 2 était de 0,165 acre.
+Le 30 mars 2006, l’appelante a vendu le lot 1 à un particulier (l’acheteur) pour la somme de 130 000 $.
+Le 30 mars 2006, l’appelante a également vendu le lot 2 à l’acheteur pour la somme de 110 000 $.
+L’acheteur n’était pas un inscrit aux fins de la TPS au moment de la vente.
+L’appelante a demandé des crédits de taxe sur les intrants de 1 092,70 $ relativement à la vente des propriétés dans sa déclaration de TPS pour la période se terminant le 30 septembre 2006.
+L’appelante n’a pas déclaré de TPS recouvrable sur la vente des propriétés.
+La TPS recouvrable à l’égard de la vente du lot 1 était de 9 100 $ (7 % * 130 000 $).
+La TPS recouvrable à l’égard de la vente du lot 2 était de 7 700 $ (7 % * 110 000 $).
+L’appelante a reçu une somme non déclarée de 16 800 $ au titre de la TPS pour la période de déclaration du T1-2006.
+Canadian Natural Resources Limited
+IHI et Canadian Natural Resources Limited (CNRL) ont conclu des ententes en 2006 selon lesquelles IHI, à titre d’entrepreneur, a accepté de concevoir et de construire des installations et de l’équipement pour le projet de sables bitumineux de CNRL dans la région de Fort McMurray (les « contrats de conception et de construction »).
+Conformément aux contrats de conception et de construction, IHI était tenue de fournir des lettres de crédit à CNRL comme garantie de l’exécution par IHI de ses obligations en vertu du contrat, au lieu que CNRL effectue des retenues en vertu de la Builders’ Lien Act (Alberta).
+En mai 2006, IHI International Construction Inc. a remis deux lettres de crédit à CNRL, au montant de 750 292 $ et de 1 086 419 $ (les « lettres de crédit »).
+En avril 2007, CNRL a fourni un avis de défaut en vertu des contrats de conception et de construction.
+En mai 2007, CNRL a résilié les contrats de conception et de construction et effectué un prélèvement au titre des lettres de crédit.
+IHI n’a pas payé de TPS à l’égard des lettres de crédit.
+Questions en litige
+En ce qui concerne l’alinéa 8d) de l’avis d’appel, des crédits de taxe sur les intrants de 1 092,70 $ pour des services de notaire relatifs à la vente des propriétés ont été demandés et autorisés au cours de la période de déclaration du 30 septembre 2006, et ne sont donc plus en litige en l’espèce.
+En ce qui concerne l’alinéa 10a) de l’avis d’appel, le rajustement de 6 000 $ a été annulé par la Direction générale des appels de l’ARC le 4 février 2013 et n’est donc plus en litige en l’espèce.
+En ce qui concerne les alinéas 12a), 13a) et 14a) de l’avis d’appel, ces crédits de taxe sur les intrants ont été autorisés par l’ARC et ne sont donc plus en litige dans le présent appel.
+La TPS sur les revenus du projet de 12 653,14 $ a été reçue par l’appelante et n’a pas été déclarée comme montant de TPS recouvrable dans la déclaration de TPS de l’appelante pour la période terminée le 31 décembre 2007 (tel que le décrit l’alinéa 14b) de l’avis d’appel). Par conséquent, en ce qui concerne l’alinéa 14b) de l’avis d’appel, l’appelante ne conteste que la somme de 12 736,06 $ du rajustement de 25 389,20 $ effectué par l’ARC pour la période de déclaration trimestrielle terminée le 31 décembre 2007.
+VOUS ÊTES PRIÉ(E), aux fins seules de l’instance, DE RECONNAÎTRE la véracité des faits suivants :
+Description
+Date
+Déclarations, avis et rapports
+1.
+Imprimés de l’ARC sur les activités régulières de déclaration et pièces jointes (10 pages)
+30 avril 2009
+R1
+2.
+Rapport de vérification
+7 janvier 2011
+R2
+3.
+Copie de l’avis de cotisation (nouvelle cotisation) de taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) au nom d’International Hi‑Tech Industries Inc. pour les périodes de 2006/01/01 à 2006/03/31, de 2006/07/31 à 2006/09/30, de 2007/01/01 à 2007/03/31, de 2007/04/01 à 2007/06/30, de 2007/07/01 à 2007/09/30 et de 2007/10/01 à 2007/12/31
+14 janvier 2011
+R3
+4.
+Copie de l’avis d’opposition, avec certificat de nomination en pièce jointe concernant la faillite d’International Hi-Tech Industries Inc.
+4 avril 2011
+R4
+5.
+Lettre de John D. McEown, CA, CIRP, de Boale Wood & Company Ltd., à Harriet Li, Vérification des dossiers d’entreprise, ARC, concernant la faillite d’International Hi-Tech Industries Inc. (« IHI »)
+4 avril 2011
+R5
+6.
+Rapport sur l’opposition
+29 février 2012
+R6
+7.
+Copie de l’avis de confirmation
+9 mars 2012
+R7
+8.
+Copie de l’avis de cotisation (nouvelle cotisation) de taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) au nom d’International Hi‑Tech Industries Inc. pour la période de 2006/10/10 à 2006/12/31
+12 mars 2012
+R8
+Correspondance
+9.
+Copie de la lettre de Stephen D. Wortley, Lang Michener LLP, à Roger Rached, International Hi‑Tech Industries Inc., concernant le relevé de compte d’International Hi-Tech Industries Inc. (« IHI »), avec les états de compte de 2006 à 2008 en pièce jointe
+7 mai 2009
+R11
+10.
+Copie de la lettre de Harriet Li, Section de la vérification des dossiers d’entreprises, à Ruohan Dong, CGA, concernant les déclarations de taxe sur les produits et services d’International Hi‑Tech Industries Inc. pour la période du 1er janvier 2006 au 31 décembre 2007
+9 août 2009
+R13
+11.
+Copie de la lettre télécopiée par Harriet Li, Section de la vérification des dossiers d’entreprises, à Douglas S. Bencze, International Hi-Tech Industries Inc., concernant International Hi-Tech Industries Inc. (« IHI »), avec les pièces jointes
+29 septembre 2010
+R19
+12.
+Copie de la lettre télécopiée par Harriet Li, Section de la vérification des dossiers d’entreprises, à Douglas S. Bencze, International Hi-Tech Industries Inc., concernant International Hi-Tech Industries Inc. (« IHI »), avec les pièces jointes
+1er octobre 2010
+R23
+13.
+Copie de la lettre de Douglas S. Bencze, International Hi-Tech Industries Inc., à Sidhu & Associates, objet : International Hi-Tech Industries Inc. — vente des lots 1 et 2, avec une note manuscrite de Terry Sidhu, qui a joint une copie d’une lettre du 30 septembre 2010
+18 octobre 2010
+R25
+14.
+Copie de la lettre de Harriet Li, Section de la vérification des dossiers d’entreprises, à Douglas S. Bencze, International Hi-Tech Industries Inc., concernant International Hi-Tech Industries Inc. (« IHI Tech »)
+18 octobre 2010
+R28
+15.
+Copie de la lettre de Harriet Li, Vérification des dossiers d’entreprises, ARC, à Roger A. Rached, International Hi-Tech Industries Inc., objet : déclarations de taxe sur les biens et services d’International Hi-Tech Inc., NE : 12068 2349 RT0001, pour les périodes du 1er janvier 2006 au 31 décembre 2007
+10 novembre 2010
+R35
+16.
+Copie de la lettre de Melissa Plante, Boale, Wood & Company Ltd., à Harriet Li, Bureau des services fiscaux de Vancouver, concernant la faillite d’International Hi-Tech Industries Inc., avec le dossier du créancier en pièce jointe
+10 décembre 2010
+R36
+17.
+Copie de la lettre de Harriet Li, Section de la vérification des dossiers d’entreprises, à Roger A. Rached, International Hi-Tech Industries Inc., objet : déclarations de taxe sur les produits et services d’International Hi-Tech Industries Inc. pour la période du 1er janvier 2006 au 31 décembre 2007
+13 janvier 2011
+R37
+18.
+Copie de la lettre de John D. McEown, CA, CIRP, Boale, Wood & Company Ltd., concernant la faillite d’International Hi-Tech Industries Inc., avec les pièces jointes
+18 janvier 2012
+R44
+19.
+Copie de la lettre de Cindy Yip, Division des appels, à John McEown, Boale, Wood & Company Ltd., concernant l’avis d’opposition à la cotisation de TPS d’International Hi-Tech Industries Inc., NE : 12068 2349 RT0001
+9 février 2012
+R46
+Documents de vérification et documents de travail
+20.
+Document de travail, rajustements apportés aux crédits de taxe sur les intrants
+Sans date
+R54
+21.
+Copie du contrat d’achat et de vente du lot 2 de l’autoroute Fraser entre International Hi-Tech Industries et Surjit S. Gill
+26 janvier 2006
+R65
+22.
+Copie du contrat d’achat et de vente du lot 1 de l’autoroute Fraser entre International Hi-Tech Industries et Surjit S. Gill
+26 janvier 2006
+R66
+23.
+État de rajustement de la vérification concernant International Hi-Tech Industries Inc. pour les années d’imposition 2006 et 2007
+7 janvier 2011
+R89
+24.
+Copie de l’article du Globe and Mail, « Dawn of the prefab condo » (3 pages)
+21 avril 2006
+R90
+25.
+Copie de l’ordonnance rendue en vertu des alinéas 30(1)a), 30(1)b) et 32(1) de la Real Estate Development Marketing Act (9 pages)
+14 septembre 2007
+R91
+26.
+Copie reproduite de l’avis de nouvelle cotisation pour la période allant du 2006-10-01 au 2006‑12‑31 (2 pages)
+12 mars 2012
+R92
+27.
+Copie reproduite de la lettre de l’ARC adressée à International Hi-Tech Industries Inc. et à Boale Wood & Co concernant l’opposition pour la période 2006-10-01 à 2006-12-31 (2 pages)
+5 juillet 2012
+R94
+28.
+Rapport sur l’opposition pour la période du 2006‑10‑01 au 2006‑12‑31 (3 pages)
+29 janvier 2013
+R95
+29.
+Copie de l’avis de confirmation pour la période du 2006‑10‑01 au 2006‑12‑31 (2 pages)
+30 janvier 2013
+R96
+30.
+Copie reproduite de l’avis de nouvelle cotisation pour la période du 2006-10-01 au 2006-12-31 (2 pages)
+4 février 2013
+R97
+Documents publics d’IHI
+31.
+États financiers annuels vérifiés (modifiés), au 31 décembre 2001 et 2000
+13 mai 2001
+R99
+32.
+États financiers annuels vérifiés (modifiés), au 31 décembre 2002 et 2001
+5 mai 2003
+R100
+33.
+États financiers annuels vérifiés (modifiés) au 31 décembre 2004 et 2003
+15 avril 2005
+R101
+34.
+Circulaire d’information de la direction, au 15 mai 2006
+15 mai 2006
+R102
+35.
+Rapport annuel (modifié), formule 20-F, pour l’exercice terminé le 31 décembre 2005
+19 juillet 2006
+R103
+36.
+États financiers provisoires au 30 septembre 2006 (non vérifiés)
+22 novembre 2006
+R104
+Documents fournis au cours de l’interrogatoire préalable
+37.
+Copie des certificats des dirigeants signés par les dirigeants de Canadian Natural Resources Limited et lettres de change (4 pages)
+14 juin 2007
+Documents fournis en réponse à la demande no14
+Documents de CNRL
+38.
+Copie du contrat de conception et de construction no 400922 entre Canadian Natural Resources Limited et International Hi-Tech Industries Inc. (86 pages)
+Mars 2006
+39.
+Copie de la lettre envoyée par Canadian Natural Resources Limited à International Hi-Tech Industries Inc. au sujet de l’avis de défaut pour le contrat no 400936 (1 page)
+19 avril 2007
+40.
+Copie de la lettre envoyée par Canadian Natural Resources Limited à International Hi-Tech Industries Inc. au sujet de l’avis de défaut pour le contrat no 400922 (2 pages)
+19 avril 2007
+41.
+Copie de la lettre de Canadian Natural Resources Limited à International Hi-Tech Industries Inc. concernant l’avis de résiliation pour le défaut au contrat no 400936 (2 pages)
+24 mai 2007
+VOUS DEVEZ RÉPONDRE À LA PRÉSENTE DEMANDE en signifiant une réponse rédigée selon la formule 131 DANS LES QUINZE JOURS suivant la date à laquelle cette demande vous est signifiée. Sinon, vous serez réputé(e), aux fins de l’instance, reconnaître la véracité des faits et l’authenticité des documents susmentionnés.
+FAIT à Vancouver, province de la Colombie-Britannique, ce 25e jour de septembre 2017
+PROCUREUR GÉNÉRAL DU CANADA
+Ministère de la Justice du Canada
+Bureau régional de la Colombie-Britannique
+840, rue Howe, bureau 900
+Vancouver (Colombie-Britannique)
+V6Z 2S9
+Télécopieur : 604-666-2760
+Par : Me Matthew W. Turnell
+Me Jamie Hansen
+Tél. : 604-666-0212 / 666-2097
+Courriel : matthew.turnell@iustice.gc.ca /
+jamie.hansen@justice.gc.ca
+Avocats de l’intimée
+À : Me Andrew G. Sandilands
+Dumoulin & Boskovich
+Avocats
+C.P. 52, édifice Pacific Landmark
+1095, rue West Pender, bureau 1800
+Vancouver (Colombie-Britannique)
+V6E 2M6
+RÉFÉRENCE :
+2018 CCI 240
+NO DU DOSSIER DE LA COUR :
+2013-1150(GST)G
+INTITULÉ :
+INTERNATIONAL HI-TECH INDUSTRIES INC. par ses créanciers garantis, ses séquestres en partie et ses fondés de pouvoir, IHI INTERNATIONAL HOLDINGS LTD., GARMECO INTERNATIONAL
+CONSULTING ENGINEERS S.A.L., GARMECO CANADA INTERNATIONAL CONSULTING ENGINEERS LTD., IHI HOLDINGS LTD. et
+EARTHQUAKE RESISTANCE STRUCTURES INC. et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Du 28 au 30 novembre 2017
+DATES DE DÉPÔT DES OBSERVATIONS :
+3 janvier 2018 (appelante)
+5 janvier 2018 (intimée)
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT MODIFIÉS :
+Le 10 décembre 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Andrew G. Sandilands
+Avocat de l’intimée :
+Me Matthew W. Turnell
+Jamie Hansen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Andrew G. Sandilands
+Cabinet :
+DuMoulin & Boskovich
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Même si la société IHI International Holdings Ltd. figure dans l’intitulé de la cause comme créancier garanti, séquestre en partie et fondé de pouvoir, à l’audience portant sur les présents appels, la Cour a été informée qu’International Hi-Tech Industries Inc. (désignée « IHI », soit l’abréviation utilisée par les parties à l’audience) n’était pas, et n’est pas, débitrice d’IHI International Holdings Ltd., ce qui signifie que cette dernière n’est pas créancier garanti, séquestre en partie ou fondé de pouvoir d’IHI et n’est pas membre du Groupe Garmeco.
+[2] Pièce A-1, onglet 4.
+[3] L’article 25 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») prévoit qu’une partie peut généralement joindre à un avis d’appel toutes les cotisations (ou nouvelles cotisations) faisant l’objet de l’appel. Voir aussi 3488063 Canada Inc. c La Reine, 2016 CAF 233, paragraphe 47. Dans cette affaire, la Cour d’appel fédérale a observé que, au regard de la Loi de l’impôt sur le revenu, lorsqu’il y a plus d’une cotisation, il y a appel distinct pour chaque cotisation; voir les paragraphes 51 et 53 de cette décision.
+[4] Pour obtenir d’autres renseignements contextuels sans force probante concernant M. Abou-Rached et IHI, voir Garmeco Canada International Consulting Engineers Ltd. c La Reine, 2015 CCI 194, paragraphes 5 à 7.
+[5] Déclaration préliminaire de l’intimée et résumé des questions et des concessions, p. 6, paragraphe 19.
+[6] Voir l’article 132 des Règles.
+[7] Pièce A-1, onglet 8, p. 1-2. Comme il sera discuté ci-dessous, le libellé du certificat ne suivait pas fidèlement le libellé de la première ligne du paragraphe 9(2) de la partie I de l’annexe V de la LTA.
+[8] Pièce A-1, onglet 9.
+[9] Extraits de l’interrogatoire préalable consignés en preuve par l’intimée, sous les onglets A à D (les onglets B et D contiennent des extraits d’une lettre datée du 7 octobre 2016 que l’avocat d’IHI a adressée à l’avocat de la Couronne). Dans un échange entre l’avocat d’IHI et l’avocat de la Couronne au cours de l’interrogatoire préalable de M. Abou-Rached, l’avocat et M. Abou-Rached ont tous deux fait référence à un document qualifié d’[traduction] « accord de licence canadienne entre RAR Consultants, Canadian Hi-Tech et Roger A. Rached daté du 16 mars 1993 ». Dans l’extrait de la transcription de l’interrogatoire préalable qui a consigné en preuve, rien n’indiquait si les mots « Canadian Hi-Tech » utilisés dans cet interrogatoire faisaient référence à IHI (selon la définition donnée dans les présents motifs) ou à une autre société. Il n’est pas clair si l’entente mentionnée dans l’interrogatoire préalable est la même que celle qui est mentionnée dans la lettre du 17 juin 1996 citée ci-dessus.
+[10] Pièce A-1, onglet 12.
+[11] Pièce A-1, onglet 13.
+[12] General Motors of Canada Limited c La Reine, 2008 CCI 117, paragraphe 30; conf., 2009 CAF 114, paragraphe 30.
+[13] Tel qu’il est indiqué ci-dessus, il n’est pas clairement établi que l’accord de licence dont il a été question lors de l’interrogatoire préalable était l’accord qui a fait l’objet de la lettre du 17 juin 1996, mais il semble que ce soit le cas.
+[14] Telus Communications (Edmonton) Inc. c La Reine, 2009 CAF 49, paragraphes 27 et 29; voir aussi les paragraphes 17 et 21. Aux paragraphes 30 et 31, la Cour d’appel fédérale a observé qu’une personne qui effectue un paiement au titre de la TPS d’une autre personne n’a pas droit à un remboursement en vertu du paragraphe 261(1) de la LTA.
+[15] La partie liminaire du paragraphe 169(1) de la LTA fait référence à la personne qui acquiert un bien ou un service, ce qui peut être interprété comme une référence à la personne qui reçoit une fourniture, ce qui, à son tour, peut être interprété, en raison de la dernière partie de la définition de « acquéreur », comme une référence à l’acquéreur de la fourniture. Essentiellement, tel est le raisonnement suivi dans Telus Communications, précité, note 14, paragraphe 17.
+[16] Garmeco, précité, note 4, paragraphe 31. Voir aussi PDM Royalties Limited Partnership, 2013 CCI 270, paragraphe 21; Y.S.I.’s Yacht Sales International Limited, 2007 CCI 306, paragraphe 57; et RAR Consultants Ltd. c La Reine, 2016 CCI 206, paragraphe 21.
+[17] Garmeco, précité, note 4, paragraphe 45.
+[18] Ibid.
+[19] Ibid.
+[20] À l’époque, IHI envisageait de changer sa date de fin d’exercice pour la faire passer du 31 décembre au 31 mars.
+[21] Pièce A-1, onglet 15. Seule la dernière page, soit la page 5, a été produite en preuve. Les quatre premières pages du document n’ont pas été produites.
+[22] À la pièce A-1, onglet 18, le nom de famille de René est écrit de cette façon, mais la pièce A-1, onglet 21, indique que son nom de famille est « Abou-Rached ». Pour qu’il soit plus facile de faire la distinction entre les deux frères dans les présents motifs, j’appellerai Roger « M. Abou-Rached » et René, « M. Abi-Rached ».
+[23] Pièce A-1, onglet 16.
+[24] Pièce A-1, onglet 20.
+[25] Pièce A-1, onglet 18.
+[26] Pièce A-1, onglet 21.
+[27] Pièce A-1, onglet 22.
+[28] Transcription, le 28 novembre 2017, vol. 1, p. 194, lignes 20 à 26.
+[29] Pièce R-1.
+[30] Pièce R-2.
+[31] Tendances et Concepts Inc. c La Reine, 2011 CCI 141, paragraphe 19.
+[32] Dans la décision Tendances et Concepts, ibid., paragraphe 20, le juge Hogan, relativement à l’article 1477 du Code civil du Bas-Canada, a indiqué que le mot français « arrhes » est rendu par « earnest » en anglais.
+[33] Je crois comprendre que cette modification du texte français du paragraphe 168(9) n’était pas rétroactive, mais est plutôt entrée en vigueur quand la sanction royale a été accordée, le 14 décembre 2017, au projet de loi C-63, qui contenait les modifications techniques d’abord déposées le 22 juillet 2016 et qui adoptait aussi certaines mesures fiscales proposées dans le budget fédéral du 22 mars 2017.
+[34] Alinéa 152(1)a) de la LTA. Voir aussi David M. Sherman (rédacteur en chef de la compilation législative et auteur des notes), Practitioner’s Goods and Services Tax Annotated with Harmonized Sales Tax, 37e éd. (Toronto : Thomson Reuters Canada Ltd., 2018), p. 208; voir les notes du paragraphe 168(1). Bien que j’aie cité les notes de la plus récente édition de ce livre, dans les présents motifs, j’ai cité et examiné la loi selon la version en vigueur en 2006 et en 2007.
+[35] Voir le bloc-signature dans le courriel envoyé le 24 août 2007 par M. Hartley à M. Abou‑Rached et à M. Abi-Rached; pièce A-1, onglet 16.
+[36] Pièce A-1, onglet 16.
+[37] Voir le paragraphe 34 ci-dessus.
+[38] Pièce A-1, onglet 15.
+[39] Pièce A-1, onglet 18.
+[40] Pièce A-1, onglet 19.
+[41] North Shore Power Group Inc. c La Reine, 2017 CCI 1, paragraphe 24.
+[42] North Shore Power Group Inc. c La Reine, 2018 CAF 9, paragraphes 11 et 13. L’annulation par la Cour d’appel fédérale de la décision du tribunal inférieur était fondée sur une interprétation du mot « crédit », tel qu’il est utilisé à l’article 232 de la LTA.
+[43] Pièce A-1, onglet 20.
+[44] Ministère des Finances, Taxe sur les produits et services : document technique (8 août 1989), en ligne : http://publications.gc.ca/collections/collection_2016/fin/F2-85-1-1989-fra.pdf. Voir aussi l’analyse de David Sherman sur l’article 152, dans Taxnet Pro (Thomson Reuters Canada Limited, 2018).
+[45] DHM Energy Consultants Ltd. c La Reine, [1995] GSTC 3 (CCI), paragraphe 12.
+[46] Spur Oil Ltd. c La Reine, [1981] CTC 336, 81 DTC 5168 (CAF), paragraphe 12.
+[47] The Queen c Lacroix, représentant de Canadevim Ltée, 2011 CAF 128, paragraphe 32. L’expression utilisée dans la loi est « pour tout ou partie de la contrepartie ».
+[48] Le rapport portait sur le bien-fondé du contrat de sûreté générale remis par IHI à certains membres du Groupe Garmeco.
+[49] Par exemple, voir la pièce A-1, onglet 17 (le courriel dans cette pièce a été admis en preuve seulement pour montrer qu’il a été envoyé, et non pour montrer la véracité de son contenu), et transcription, vol. 1, p. 183, lignes 2 à 6; p. 186, ligne 25 à p. 187, ligne 5; p. 188, lignes 26 et 27; p. 189, lignes 6 à 8; p. 190, lignes 12 à 23; p. 191, ligne 19 à p. 193, ligne 17.
+[50] Les chiffres et les lettres dans la colonne de gauche de la liste de renseignements prescrits ci-dessus renvoient aux sous-alinéas applicables du Règlement sur les CTI.
+[51] Westborough Place Inc. c La Reine, 2007 CCI 155, paragraphe 32.
+[52] Alinéa 2h) du Règlement sur les CTI. Voir aussi la décision Westborough Place, ibid., paragraphe 34, dans laquelle le juge Paris a déclaré que, pour être reconnu comme pièce justificative, le document « doit être signé par l’inscrit ou provenir de lui [c.-à-d. le fournisseur] ».
+[53] Ibid., paragraphe 35.
+[54] Pièce A-1, onglet 16.
+[55] Pièce A-1, onglet 15.
+[56] Pièce A-1, onglet 18.
+[57] Pièce A-1, onglet 20.
+[58] Pièce A-1, onglet 19.
+[59] Pièce R-1.
+[60] Pièce R-2.
+[61] Pièce A-1, onglet 22.
+[62] Voir l’alinéa 2h) du Règlement sur les CTI et Westborough Place, précité, note 51, paragraphes 34 et 35.
+[63] Paragraphe 169(4) de la LTA. Voir aussi Key Property Management Corporation c La Reine, 2004 CCI 210, paragraphe 14.
+[64] Extraits de l’interrogatoire préalable consignés en preuve par l’intimée, onglet J, de la p. 249, ligne 19 à la p. 250, ligne 12; et réponse de l’intimée aux observations écrites supplémentaires de l’appelante datées du 5 janvier 2008, paragraphe 7.
+[65] Bryan A. Garner (rédacteur en chef), Black’s Law Dictionary, 8e éd. (St. Paul : Thomson West, 2004), p. 850.
+[66] Lesley Brown (éditeur), The New Shorter Oxford English Dictionary (Oxford : Clarendon Press, 1993), vol. 1, p. 1428.
+[67] Pièce A-1, onglet 21. Comme il a été signalé précédemment, ces relevés indiquent que le nom de famille de M. Abi-Rached est « Abou-Rached ».
+[68] Le taux de la TPS est passé de 6 % à 5 % le 1er janvier 2008.
+[69] Systematix Technology Consultants Inc. c La Reine, 2007 CAF 226, paragraphes 4 à 6. Voir aussi Services d’entretien L.C. Inc. c La Reine, 2013 CCI 46, paragraphe 12; et Comtronic Computer Inc. c La Reine, 2010 CCI 55, paragraphes 24 à 33.
+[70] Oak Ridges Lumber Corp. c La Reine, 2008 CCI 259, paragraphe 11.
+[71] Helsi Construction Management Inc. c La Reine, [2001] GSTC 39, paragraphe 11. Voir aussi Oak Ridges Lumber, ibid., paragraphe 11.
+[72] Pièce A-1, onglet 24. Le numéro attribué par CNRL au contrat de l’entrepôt était le 400922.
+[73] Bien que le document de présentation du contrat (qui suit immédiatement la table des matières) du contrat de l’entrepôt indique que la date d’entrée en vigueur du contrat était le 10 mars 2007, il n’est pas absolument certain que l’année ait été indiquée correctement. La page titre (c.-à-d. la page initiale) du contrat indique la date « mars 2006 ». La deuxième page, qui est la page de signature, du document de présentation du contrat contenait un énoncé dactylographié indiquant que le contrat a été [traduction] « signé en ce jour de mars 2006 et applicable à la date d’entrée en vigueur [qui, comme il a été indiqué, était le 10 mars 2017] ». Les deux lettres de crédit produites par IHI pour garantir ses obligations envers CNRL, bien qu’elles n’aient pas été produites, étaient apparemment datées du 16 mai 2006. Par conséquent, il est possible que la date d’entrée en vigueur du contrat de l’entrepôt soit le 10 mars 2006 (plutôt que 2007). Aucune des parties n’a soulevé de réserve ou de question concernant la date d’entrée en vigueur du contrat. Par conséquent, je ne crois pas qu’il y ait quoi que ce soit dans ces appels qui se joue sur l’incertitude concernant la date d’entrée en vigueur.
+[74] Pièce A-1, onglet 25. Le numéro attribué par CNRL au contrat des bureaux était le 400936.
+[75] Bien que des copies des lettres de crédit n’aient pas été déposées en preuve, certains des détails concernant les lettres de crédit peuvent être tirés des lettres de change (traites à vue) qui ont été émises lorsque CNRL a prélevé des fonds au titre de ces lettres de crédit. Voir la pièce A-1, onglet 27.
+[76] Pièce A-1, onglet 26; et transcription, vol. 1, p. 150, lignes 11 à 23. IHI a produit la copie d’une seule de ces lettres, qui était datée du 24 mai 2007 et qui se rapportait au contrat des bureaux.
+[77] Pièce A-1, onglet 27; et transcription, vol. 1, p. 170, lignes 23 à 25. Les montants prélevés au titre des deux lettres de crédit étaient de 1 086 419 $ et de 750 292 $ respectivement. Bien que ce ne soit pas clair, il semble que le montant de 1 086 419 $ se rapportait au contrat des bureaux et que le montant de 750 292 $ se rapportait au contrat de l’entrepôt.
+[78] Pièce A-1, onglet 24, p. 61, paragraphe 46.2(ii).
+[79] Transcription, vol. 2, p. 279, lignes 25 à 27.
+[80] General Motors, précité, note 12, paragraphe 30 (dans les motifs de la CCI et de la CAF). Voir aussi le paragraphe 24 ci-dessus.
+[81] Il pourrait être soutenu que les montants versés à CNRL au titre des lettres de crédit constituaient ou remplaçaient les dommages-intérêts payables par IHI à CNRL. Si tel était le cas, la situation n’aurait pas fait jouer le paragraphe 182(1) de la LTA, car cette disposition joue quand il y a manquement à un contrat entre un fournisseur et un acquéreur potentiels et que des dommages-intérêts sont payés par l’acquéreur au fournisseur, mais elle ne joue pas si les dommages-intérêts sont payés par le fournisseur à l’acquéreur. En général, les dommages-intérêts payés par un fournisseur (comme IHI) à l’acquéreur (comme CNRL) sont considérés comme des dommages-intérêts compensatoires, plutôt qu’une contrepartie pour une fourniture, de sorte que les dommages-intérêts ne sont généralement pas assujettis à la TPS; voir l’Énoncé de politique sur la TPS/TVH P-218R de l’ARC, intitulé « Statut fiscal des montants versés en dédommagement, qu’ils soient ou non visés par l’article 182 de la Loi sur la date d’accise », 9 août 2007, exemple no 4. Voir aussi Surrey City Centre Mall c La Reine, 2012 CCI 346, paragraphe 34 et note de bas de page 10, qui ont exposé un argument présenté par l’appelant dans cette affaire.
+[82] Demande d’aveux, p. 4, paragraphe 30. Voir le paragraphe 8 ci-dessus.
+[83] Voir R 171 Enterprises Ltd. c La Reine, 2004 CCI 36, paragraphe 23.
+[84] Garmeco, précité, note 4, paragraphe 45.
+[85] Bondfield Construction Company (1983) Limited c La Reine, 2005 CCI 78; et Bokrika Inc. c La Reine, 2006 CCI 301.
+[86] Bondfield, précité, note 85, paragraphes 123, 124 et 126.
+[87] Brent F. Murray, « Deconstructing the Bondfield Construction Case: The Implicit Agent? » GST & Commodity Tax, juin 2005, vol. XIX, no 5, p. 33 à 35; et David Sherman, commentaire éditorial sur l’affaire Bondfield Construction, 2005 CarswellNat 1444 et Taxnet Pro, précité, note 44.
+[88] Transcription, vol. 1, de la p. 129, ligne 18, à la p. 130, ligne 18.
+[89] Bokrika, précité, note 85, paragraphes 19 à 21.
+[90] David Sherman, commentaire éditorial sur l’affaire Bokrika, 2006 CarswellNat 1671 et Taxnet Pro, précité, note 44; aussi publié dans GST & HST Case Notes, no 137, septembre 2006.
+[91] Voir le paragraphe 6 ci-dessus.

@@ -1,0 +1,160 @@
+Title: Lack v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26569/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-230-26569-lack-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-04-14
+
+# Lack v. The Queen
+
+- Citation: 2003 TCC 230
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3577, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lack v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-14
+Neutral citation
+2003 TCC 230
+File numbers
+2002-3277(IT)I
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3277(IT)I
+BETWEEN:
+TRISHA LYNN LACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 21, 2003 at Calgary, Alberta
+Before: The Honourable Judge Gordon Teskey
+Appearances
+Counsel for the Appellant:
+Natalie Fenez
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (the "Act") for the 1999 taxation year is dismissed;
+On consent of the parties, the appeal from the assessment made under the Act for the 2000 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant's income is to be reduced by $800 as the total support payments received in the year 2000 only totalled $4,000, all in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 14th day of April 2003.
+"Gordon Teskey"
+J.T.C.C.
+Citation: 2003TCC230
+Date: 20030414
+Docket: 2002-3277(IT)I
+BETWEEN:
+TRISHA LYNN LACK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant, in her Notice of Appeal wherein she appealed her reassessments of income tax for the years 1999 and 2000, elected the informal procedure.
+Issue
+[2] The sole issue before the Court is whether the Minister of National Revenue (the "Minister") properly included into income monies received by the Appellant as child support from her former husband.
+Facts
+[3] It should be remembered that the Income Tax Act (the "Act") was changed effective on May 1, 1997, which provided that all Court orders or support agreements dated on or after May 1, 1997 that the payor would not be able to deduct any support payments from income and the recipient would not include any support payments received as income.
+[4] Mr. Justice Moore of the Queen's Bench of Alberta, on Wednesday April 30, 1997, made a divorce judgment and corollary relief order without oral evidence.
+[5] The formal order states that upon the reading of the pleadings (in the action by the Appellant against her husband) and the Affidavit of the Appellant, it was adjudged that they were divorced in paragraph 1 thereof.
+[6] Paragraph 4 of this document reads:
+4. IT IS FURTHER ORDERED
+THAT the Respondent shall pay to the Petitioner for the support and maintenance of the child the sum of $400.00 per month commencing on the first day of the month following the granting of the Divorce Judgment and continuing on the first day of each and every month thereafter until the child is no longer a child of the marriage as defined in the Divorce Act, 1985.
+[7] The formal Judgment and order was entered by the clerk of the Court on May 2, 1997 and the seal of the Court affixed thereto.
+[8] The Judgment of the divorce did not take effect until May 31, 1997 and only then if no appeal by either party had been taken.
+[9] There is a written document, entitled "Minutes of Settlement". The top of this document reads:
+April
+"This Agreement made this 30th day of March 1997."
+The last sentence reads:
+"In Witness thereof the Parties hereto have hereunto set their hands and seals as of the day and year first above written."
+[10] Attached to the Minutes of Settlement is an acknowledgment pursuant to section 38 of the Alberta Property Act signed by the husband on May 5, 1997.
+[11] Attached to the agreement is an affidavit of the husband's lawyer that states he knows and saw the husband sign the Minutes of Settlement. The affidavit, which was sworn on May 5, 1997, does not state when the agreement was actually signed by the husband.
+[12] On March 21, 1997, the husband's lawyer, by courier, sent the Minutes of Settlement for execution by the Appellant on condition they be returned duly signed, together with a release. Then, the letter states:
+Upon compliance with the foregoing trust conditions, you are at liberty to utilize the final divorce documents and proceed with the divorce.
+[13] The husband's lawyer, again on April 30, by courier, further delivered to the Appellant's lawyer, certain documents on a trust condition that reads:
+On the trust condition that prior to any use of these documents or the document previously forwarded to you with our consent to the divorce you return to this office the following:
+The fourth item therein being two copies of the Minutes of Settlement duly executed by the Appellant herein.
+[14] By courier, the same day, namely April 30, 1997, as requested, the Minutes of Settlement duly executed by the Appellant were couriered back to the solicitor for the husband by the Appellant's solicitor.
+[15] The husband's solicitor returned two copies of the Minutes of Settlement duly executed by the husband and mutual release duly executed on May 6, 1997.
+The Law
+[16] Paragraph 56.1(b) of the Act defines the term "commencement day" and reads:
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+Obviously, provisions (i), (ii) and (iii) are not applicable.
+[17] Although counsel for the Appellant referred me to several different cases, I will only refer to those assisting the issues herein.
+[18] My colleague Rip, in Collins v. The Queen, [2001] 3 C.T.C. 2456, said in paragraph 14 thereof:
+14 The words "commencement day" do not determine the coming into effect of a judgment or order. The jurisprudence referred to earlier is not of any great assistance in considering this appeal other that it confirms that retroactivity is a fact of life and is now well established in income tax law, and this with respect to both the legislation and the jurisprudence. The power of a court to provide for a "commencement day" stems from the Act itself and not from the rules of a court. An agreement may have a "commencement day" different from the day the agreement is made. The definition of "commencement day" clearly contemplates that an agreement or order can specify the commencement day. Logically, this date could only be retroactive in view of the words "is the earliest of" in paragraph 56.1(4)(b). Otherwise, for example, subparagraph (iv) of subsection 56.1(4) would have virtually no meaning. The French version of "commencement day", "date d'exécution" is just as clear and subparagraph (iv) thereof refers to: "le jour précisé dans l'accord ou l'ordonnance".
+[19] My colleague Associate Chief Judge Bowman said in Kovarik v. The Queen, [2001] 2 C.T.C. 2503, in paragraph 8 and 9 thereof:
+8 Under what I may describe as the old régime (pre May 1997) spouses making payments to separated or ex spouses for the support of children could deduct those payments and the recipient had to include them in income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 S.C.R. 627, the legislation changed. So long as a pre May 1997 agreement remained unchanged the deduction/inclusion system under the old régime prevailed.
+9 If a new agreement were entered into, or an old agreement was changed in a particular way, the deduction/inclusion régime ceased and only payments made up to the "commencement day", as defined, were deductible by the payor and includible by the payee.
+[20] My colleague Herschfield's decision of Dangerfield v. The Queen, 2002 CarswellNet 990, [2002] 3 C.T.C. 2086, deals with some of the same problems as in this appeal. Paragraph 3 thereof describes what was before the Court therein:
+3 There was an Agreed Statement of Facts filed with the Court at the outset of the hearing that narrowed the issue in this matter to whether a judgment of the Court of Queen's Bench (Family Division) Winnipeg Centre ordering the subject child support payments was "made" on April 21, 1997 (or on a later date after April 30, 1997) and, if it was made on April 21, 1997, whether it was made with a commencement day, for the purposes of the Income Tax Act (the "Act"), of May 1, 1997. If it was "made" on April 21, 1997 without a specified "commencement day" for the purposes of the Act of May 1, 1997, the support payments would, as asserted by the Respondent, be taxable and the appeal would fail; otherwise, the appeal would be allowed.
+He says in paragraphs 24, 25, 26, 27 and 28:
+24 Q. B. Rule 1.04.1 prescribes that an order is "made" when it is pronounced and the May Estate case is sufficient authority, in my view, to confirm a finding that the pronouncement date of an order or judgment is the date it is spoken or uttered from the mouth of the judge. Any other finding would disrupt the interaction of the applicable provisions of the Q. B. Rules referred to and set out above and would seem to fly in the face of the overall scheme of those Rules as they deal with the making and issuance of judgments and orders by the Court of Queen's Bench in Manitoba. For example, pursuant to subsection 59.02(1) of those Q.B. Rules, an order is to be endorsed by the judge making it on a disposition sheet "at the time made". I accept that the disposition sheet bearing the date "April 21, 1997" was signed by the judge on that date. According to the Q.B. Rules, such endorsement further evidences that the order must have been made on that date since the endorsement is to be made at the time the order is made. Even if the utterance from the judge's mouth on April 21, being in the future tense, does not yet constitute an order made at that time, the signing of the disposition sheet on that date is sufficient to fix the "made" date of the order as April 21. Further, Q.B. Rule 59.03(3) provides that the order shall include the name of the judge who made it and the date on which it was made. The particular judge and that date (April 21, 1997) appear on the front page of the subject judgment.
+25 The Appellant's counsel argues that the made date or pronouncement date of the order should be when it takes effect, which in this case is May 1, 1997. He argues that there is no aspect of the order that needs to be effective prior to that date; everything in respect of the order moves forward from that date.
+26 The Q.B. Rules do not support this argument. Firstly, there is no reason to assert that an order cannot have an earlier "made" date, even if not effective until after the made date, and secondly, the subject order cannot likely be said to have a later effective date just because the only aspect of it that is date sensitive, namely the first payment date for child support payments, is a future date. The start date of a monthly payment requirement under the order does not fix the effective date of the order itself. In any event, the "made" date governs in this case which is not the same date as when an order takes effect. The "made" date of the subject order is April 21, 1997. That is the end of the matter, then, unless there is a "commencement day" under subparagraph (b)(iv) of the definition of "commencement day". That subparagraph provides that the "commencement day" is the day, if any, after April 1997, that is "specified" in the order, or in a variation thereof, as the "commencement day" of the order "for the purposes of this Act". The Respondent argues no such day is "specified" in the order "for the purposes of" the Act or at least not expressly specified.
+27 The Appellant counsel's second argument seeks to draw a necessary inference from the effective date argument which is that since nothing happens under the order until May, 1997 and since all the parties including the judge intended or understood that the tax consequences to flow from the order were that the child support payments were not to be taxable to the recipient, there is a commencement day effectively specified in the order for the purposes of the Act. Put another way, the Appellant argues that Q.B. Rule 59.01 permits, in the circumstances, recognition of an effective commencement day of the order as of May 1, 1997 for tax purposes even though the order does not expressly say that and even though the Act makes no reference to the "effective date" of an order for tax purposes. This approach has merit but relies in this case on too many inferences having to be drawn. If I accept that a date can be "specified" in the order by virtue of its intended effective date then this appeal might succeed provided I also found that such intended effective date was intended to ensure that the payments under the order were not taxable to the recipient pursuant to the post April 1997 child support regime embraced by the Act. This would be to find that there was an effective date for tax purposes that was meant to be the "commencement day" of the order without that terminology being used. While this is an attractive approach to giving effect to apparent intentions, it is not one that readily fits within the express terms of the Act and not one that can, in my view, be used where the party relying on the approach not only has to rely on a series of inferences but has failed to establish that they are in fact necessary inferences. There is in the case at bar no necessary inference that the order was intended to have an effective date of May 1. The payment commencement date alone draws no such necessary inference. The order does not specify an effective date or mention tax consequences. The judge asked about a "commencement day" and was told one was not required. If she had been properly informed of the need for a commencement day we can only speculate as to what she would have done as nowhere in her order does she refer to the tax treatment of the child support payments. While the letter to the child's father said the child support payments were to be tax free to the recipient, that letter was not referred to by the judge in the transcript of proceedings. Further, that letter said payments were to commence January 1997 and was thereby wrong in the tax consequences it purported to describe. [See Note 2 below] It seems everyone was being misinformed and to draw necessary inferences from such circumstances is dangerous at best. I would be attracted to this approach if the judge had expressly said anything that confirmed her intent or understanding that the payments ordered were to be tax free payments under the new tax regime for child support. If she had intended this result and would not be inclined to put responsibility for achieving it on counsel who drafted the signed order, I suggested to counsel for the Appellant that the better forum to pursue a just result in this case might have been to go back to that judge who made the order. This was apparently not pursued.
+Note 2: It is not possible under the definition of "commencement day" to have a commencement day prior to May 1, 1997. Accordingly the letter stating that child support payments to commence in January 1997 were tax free to the recipient and non-deductible to the payer was incorrect if it suggested there would be an earlier order.
+28 As to the third argument of the Appellant's counsel, it requires me to find that the payment commencement date of the child support payments should be taken as the commencement day of the order "specified" for the purposes of the Act. It was argued that there was a presumption that commencing the payments on May 1 would bring it into the new system which I accept was the Appellant's intention. I accept the probability that Appellant's then counsel thought the payment commencement date being May 1, 1997, was sufficient to meet the requirements of the Act to bring the Appellant into the new system and that she believed the judge in making the order was making a new system order. It is even possible that the judge thought this was the case as well in spite of having been dissuaded from pursuing questions on the commencement day issue. [See Note 3 below] This is not sufficient however to cause this Court to read in words in an order that the Act requires to be specified in the order itself. Further, subparagraph (b)(ii) of the definition of "commencement day" speaks of the day on which the first payment is made under a varied order as the "commencement day". This focus on the first payment date is absent in both paragraph (a) and subparagraph (b)(iv) of the definition of "commencement day". Such change in focus must be taken as intentional. Accordingly, the date support payments commence cannot be taken to be a "commencement day" in respect of the order itself under subparagraph (b)(iv) of the definition of "commencement day".
+Note 3: Given the context of the judge's question on the commencement day issue in the transcript, it seems she was perhaps intending only to refer to the quantum of the required support payments but even that issue is necessarily tied to an assumed tax position. That is, scheduled child support payments under the new system are assumed to be non-tax deductible to the payer and non taxable to the recipient and quantums are set with that in mind. Advising the Court that there were no quantum issues might have suggested that the new tax regime did not apply to the payments. Ultimately, then I have no basis to determine what the judge was thinking in respect of the tax position of the child support payments. The Appellant's representative had the responsibility to clearly and expressly deal with this issue for the benefit of the parties and for the CCRA as well.
+[21] I am satisfied that the Judgment and Order of Mr. Justice Moore was made on April 30, 1997. Thus, it is a court order made before May 1997 and since it does not contain a commencement day, the payments made pursuant to that order are taxable in the hands of the Appellant and the order does not fall within the provisions of subparagraph 56.1(b)(iv).
+The Minutes of Settlement
+[22] The Appellant argues that this is a stand-alone document and that I should conclude that the husband executed the document on May 5, 1997 and that since it is an agreement entered into after April 1997, the Appellant should not be taxed on the support payments. She also submits that the wording at the top of the agreement and at the end is only legalese and ought to be ignored.
+[23] The Minutes of Settlement is a very formal document and without express clear unambiguous evidence to the contrary, I find that it was executed by both parties on its purported date of April 30, 1997.
+[24] The Appellant obtained on April 30, 1997 a divorce and order for support based on a consent (letter dated April 30, 1997) and the delivery to the husband's solicitor of the Minutes of Settlement duly executed by her.
+[25] The only difference between the order and the Minutes of Settlement in regards to the support payments is the following paragraph:
+The amounts paid by The Husband to The Wife for the support of the said infant child shall be included in The Wife's income for all tax purposes, notwithstanding any legislative changes to the Income Tax Act of Canada. The Husband and Wife agree that The Wife shall pay the income tax, if any on the child support and The Husband shall be entitled to deduct from his income the amounts of the child support paid to The Wife.
+This paragraph would obviously not be included in the court order.
+[26] Thus, there was an agreement on April 30 and even if I had not found that it was signed on April 30, 1997, it is immaterial if the husband signed the Minutes of Settlement on May 5, 1997. The Appellant acted on the terms thereof to obtain her divorce based on the terms of the Minutes of Settlement. The court order makes the terms of the support as agreed upon a judgment of the court.
+[27] For these reasons, the 1999 appeal is dismissed. During the hearing, the parties agreed that the Appellant only received $4,000 in support payments i652000. Thus, that appeal is allowed without costs and that assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant's income is to be reduced by $800 as the total support payments received in the year 2000 only totalled $4,000.
+Signed at Toronto, Ontario this 14th day of April 2003.
+"Gordon Teskey"
+J.T.C.C.
+CITATION:
+2003TCC230
+COURT FILE NO.:
+2002-3277(IT)I
+STYLE OF CAUSE:
+Trisha Lynn Lack and The Queen
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+March 21, 2003
+REASONS FOR JUDGMENT BY:
+The Hon. Judge Gordon Teskey
+DATE OF JUDGMENT:
+April 14, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Natalie Fenez
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Natalie Fenez
+Firm:
+Olson Lemons
+Barristers and Solicitors
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

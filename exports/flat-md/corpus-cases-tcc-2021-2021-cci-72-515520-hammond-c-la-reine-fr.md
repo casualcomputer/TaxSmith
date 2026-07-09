@@ -1,0 +1,284 @@
+---
+title: "Hammond c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/515520/index.do"
+last_modified: "2021-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 72"
+citation2: ""
+neutral_citation: "2021 CCI 72"
+decision_date: "2021-11-03"
+language: "fr"
+item_id: "515520"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4474
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:54:40.349000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d993f947a36f910adf46a7194fb5a3e9f7f7420e1541b3af41e14b00335cbc06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hammond c. La Reine
+
+- Citation: 2021 CCI 72
+- Decision date: 2021-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4474, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hammond c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-11-03
+Référence neutre
+2021 CCI 72
+Numéro de dossier
+2020-1605(IT)G, 2020-1606(IT)G
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2020-1606(IT)G
+ENTRE :
+SYLVAIN HAMMOND,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête en radiation entendue ensemble avec la requête dans l’appel de Yolaine Labonté (2020-1605(IT)G) le 19 octobre 2021 à Montréal (Québec)
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Avocats du requérant :
+Me Michel Beauchamp
+Me Alexandre Rafael
+Avocat de l’intimée :
+Me Alain Gareau
+Audrey Turcotte-Bourgeois (stagiaire)
+ORDONNANCE
+VU la requête déposée par le requérant le 26 avril 2021 en vue d’obtenir :
+Une ordonnance en radiation des paragraphes préliminaires 2, 4, 5, 7, 11, 13, 15, 22, 23, 25, 26, 29, 31 et des alinéas 56d), e), f), g), h), i), j), k), l), m), n), o), p), s), t), u), v), w), x), y), z), aa), bb), cc), dd), ee), ff), gg), 57a) et du paragraphe 59, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+Une condamnation à l’encontre de l’intimée aux frais et aux dépens;
+ET VU la déclaration sous serment de Michel Beauchamp;
+ET après avoir entendu les représentations des parties;
+La requête est accueillie conformément aux motifs de l’ordonnance ci-joints. L’intimée pourra déposer une réponse modifiée à l’avis d’appel dans les 30 jours suivant la date de cette ordonnance.
+Les frais suivront l’issue de l’appel.
+Signé à Fredericton, Nouveau-Brunswick, ce 3e jour de novembre 2021.
+« Gabrielle St-Hilaire »
+J. St-Hilaire
+Dossier : 2020-1605(IT)G
+ENTRE :
+YOLAINE LABONTÉ,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requête en radiation entendue ensemble avec la requête dans l’appel de Sylvain Hammond (2020-1606(IT)G) le 19 octobre 2021 à Montréal (Québec)
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Avocats de la requérante :
+Me Michel Beauchamp
+Me Alexandre Rafael
+Avocat de l’intimée :
+Me Alain Gareau
+Audrey Turcotte-Bourgeois (stagiaire)
+ORDONNANCE
+VU la requête déposée par le requérant le 26 avril 2021 en vue d’obtenir :
+Une ordonnance en radiation des paragraphes préliminaires 2, 4, 5, 7, 11, 13, 15, 22, 23, 25, 26, 29, 31 et des paragraphes 48a), f), g), h), i), j), k), l), m), n), o), p), s), t), u), v), w), x), y), z), aa), bb), cc), dd), ee), ff), gg), 49a) et 51, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale);
+Une condamnation à l’encontre de l’intimée aux frais et aux dépens;
+ET VU la déclaration sous serment de Michel Beauchamp;
+ET après avoir entendu les représentations des parties;
+La requête est accueillie conformément aux motifs de l’ordonnance ci-joints. L’intimée pourra déposer une réponse modifiée à l’avis d’appel dans les 30 jours suivant la date de cette ordonnance.
+Les frais suivront l’issue de l’appel.
+Signé à Fredericton, Nouveau-Brunswick, ce 3e jour de novembre 2021.
+« Gabrielle St-Hilaire »
+J. St-Hilaire
+Référence : 2021 CCI 72
+Date : 20211103
+Dossier : 2020-1606(IT)G
+ENTRE :
+SYLVAIN HAMMOND,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2020-1605(IT)G
+ENTRE :
+YOLAINE LABONTÉ,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DES ORDONNANCES
+La juge St-Hilaire
+I. Introduction
+[1] La Cour est saisie de requêtes présentées par M. Sylvain Hammond et Mme Yolaine Labonté (les requérants) en vue de faire radier des paragraphes ou alinéas des Réponses à l’avis d’appel déposées par l’intimée le 8 décembre 2020, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[2] Les requérants ont vendu deux immeubles, un en 2015 et l’autre en 2017. Ils n’ont pas déclaré les gains tirés de la disposition de ces deux immeubles étant d’avis qu’il s’agit de gains en capital tirés de la vente de leurs résidences principales lesquels sont exemptés d’impôt aux termes de l’alinéa 40(2)b) de la Loi de l’impôt sur le revenu (Loi).
+[3] Les requérants ont fait l’objet de nouvelles cotisations pour les années d’imposition 2015 et 2017 par lesquelles la ministre a ajouté des montants dans le calcul de leur revenu ayant conclu que le revenu provenant de la disposition des deux immeubles était un revenu d’entreprise au sens de l’article 9 de la Loi.
+[4] D’autres ajustements ont été faits au revenu de M. Hammond relativement à des avantages à l’actionnaire pour les années d’imposition 2015, 2016 et 2017. Suite à ces nouvelles cotisations, Mme Labonté a également fait l’objet de nouvelles déterminations concernant l’allocation canadienne pour enfants pour les années de base 2015, 2016 et 2017. Les paragraphes et alinéas visés par les requêtes en radiation portent sur la question concernant les gains tirés de la vente des deux immeubles et ne touchent pas, du moins pas directement, les questions relatives à l’avantage à l’actionnaire et à l’allocation canadienne pour enfants.
+[5] La définition d’entreprise au paragraphe 248(1) de la Loi inclut expressément les « projets comportant un risque de caractère commercial ». En revanche, cette expression n’est pas définie dans la Loi, mais son sens a été établi dans la jurisprudence. Dans l’affaire Friesen c La Reine, [1995] 3 RCS 103, la Cour suprême du Canada nous enseigne que « la notion de projet comportant un risque de caractère commercial est une création jurisprudentielle visant à départager les opérations d’achat et de vente qui sont de nature commerciale de celles qui tiennent d’une immobilisation ». L’affaire MNR v Taylor (1956), [1956-1960] Ex CR 3, contient une analyse approfondie des critères à appliquer pour donner du sens à cette expression, critères qui ont été reconnus à maintes reprises dans la jurisprudence. Dans l’affaire Happy Valley Farms v MNR (1986), 7 FTR 3 au para 14, la Cour fédérale affirme que les critères suivants ont été appliqués par les tribunaux pour déterminer si un produit de disposition constitue un revenu d’entreprise ou un gain en capital :
+1) La nature du bien qui est vendu;
+2) La durée de la possession;
+3) La fréquence ou le nombre d’opérations similaires effectuées par le contribuable;
+4) Les améliorations faites sur le bien converti en espèces ou se rapportant à pareil bien;
+5) Les circonstances qui ont entraîné la vente du bien; et
+6) Le motif (l’intention au moment de l’acquisition).
+[traduction dans l’affaire Hansen c La Reine, 2020 CCI 102 au para 97)]
+Ces facteurs guideront la Cour dans sa détermination de la question de savoir s’il y a lieu de radier certains passages des réponses de l’intimée en l’espèce.
+II. Règle de procédure et principes juridiques applicables en matière de radiation
+[6] La partie pertinente de l’article 53 des Règles prévoit ce qui suit :
+53 (1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+[7] Les principes jurisprudentiels applicables dans une requête en radiation fondée sur l’article 53 des Règles sont bien établis et ont été repris dans de nombreuses décisions de cette Cour et de la Cour d’appel fédérale. Le représentant des requérants a fait référence aux décisions Mont-Bruno CC inc c La Reine, 2018 CCI 105, et Mudge v The Queen, 2020 TCC 77, dans lesquelles cette Cour passe en revue les principes et la jurisprudence en la matière.
+[8] Il est de jurisprudence constante que le critère applicable aux requêtes en radiation consiste à déterminer s’il est « évident et manifeste » que les faits allégués ne révèlent aucune cause raisonnable d’action ou que la position prise n’a aucune chance de succès et le seuil pour y satisfaire est élevé.
+[9] Le juge en chef Bowman (tel qu’il était alors) fait un sommaire succinct des principes jurisprudentiels pertinents en l’espèce dans l’affaire Sentinel Hill Productions (1999) Corporation, Strother c La Reine, 2007 CCI 742. Il s’exprime comme suit :
+[4] J’énoncerai en premier lieu les principes qui, selon moi, doivent s’appliquer dans une requête en radiation fondée sur l’article 53 des Règles. La question a été examinée dans de nombreuses décisions de la Cour et de la Cour d’appel fédérale. Il n’est pas nécessaire de les citer toutes étant donné que les principes sont bien établis.
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en vertu de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve.
+[citation omise]
+[10] Plus récemment, dans l’affaire Banque Canadienne Impériale de Commerce c La Reine, 2013 CAF 122, la Cour d’appel fédérale a confirmé le critère en matière de radiation d’actes de procédure en s’exprimant comme suit :
+[7] Il n’y a aucune controverse quant au critère général en matière de radiation d’actes de procédure. Il a été récemment réaffirmé dans l’arrêt R. c. Imperial Tobacco Canada Ltée., 2011 CSC 42, [2011] 3 R.C.S. 45, au paragraphe 17: s’agissant d’une requête en radiation de la réponse de Sa Majesté dans le cadre d’un appel en matière fiscale, la requête n’est accueillie que s’il est évident et manifeste, dans l’hypothèse où les faits allégués dans la réponse sont avérés, que la réponse ne permet pas de conclure de façon raisonnable que la nouvelle cotisation frappée d’appel est correcte.
+[11] En résumé, pour déterminer si certains paragraphes et alinéas des réponses de l’intimée doivent être radiés conformément à l’alinéa 53(1)d) des Règles comme le demandent les requérants en l’espèce, il faut qu’il soit évident et manifeste qu’ils ne révèlent aucune cause raisonnable d’action et dans le cas d’un débat sur la pertinence, il vaut mieux laisser cette question à l’appréciation du juge de procès.
+III. Analyse
+[12] À l’audience, le représentant des requérants a présenté ses observations en se référant à la requête dans l’appel de M. Hammond (le requérant). En ce qui concerne la requête dans l’appel de Mme Labonté, le représentant a indiqué que les mêmes observations s’appliquaient et que seuls les numéros des paragraphes pouvaient différer de ceux dans la réponse à l’avis d’appel de M. Hammond. Dans ces circonstances, dans ces motifs, la Cour va s’en remettre aux observations faites relativement à la requête de M. Hammond tout en indiquant à la fin des motifs, la décision relative aux numéros pertinents des énoncés dans la requête de Mme Labonté.
+[13] En demandant la radiation des 43 paragraphes et alinéas de la Réponse à l’avis d’appel de M. Hammond, le requérant les a organisés en trois groupes (a, b, et c) selon les motifs qui sous-tendent la demande de radiation, mais toujours en vertu de l’alinéa 53(1)d) des Règles. Le paragraphe 4 de l’avis de requête prévoit ce qui suit :
+a) Les paragraphes 56h), 56i), 56j) 56s), 56t), 56u) de la réponse ne respectent pas la forme prescrite selon l’article 49 des Règles, car ils sont de nature argumentative et/ou interprétative et ne constituent pas des faits, en plus de ne constituer aucun moyen raisonnable de contestation de l’appel, bien qu’ils se trouvent dans la section factuelle de la Réponse;
+b) Les paragraphes préliminaires 2, 4, 5, 7, 11, 13, 15, 22, 23, 25, 26, 29, 31 et les paragraphes 56j), 56k), 56l), 56), 56p), 56q), 56r), 56v), 56w), 56y), 56aa), 56bb), 56cc), 56dd), 56ee), 56ff), 56gg), 57a) et le paragraphe 59 ne révèlent aucun moyen raisonnable de contestation de l’appel;
+c) Les paragraphes 56d), 56e), 56f), 56g), 56n), 56o), 56x), 56z) réfèrent à des faits qui sont non pertinents au litige. Ces paragraphes ne révèlent en conséquence aucun moyen raisonnable de contestation de l’appel;
+[14] Tous les alinéas du paragraphe 56 contiennent des hypothèses de fait sur lesquelles la ministre s’est fondée pour établir la cotisation à l’égard de M. Hammond. L’alinéa 57a) contient une question en litige alors qu’au paragraphe 59, l’intimée indique un des moyens sur lequel elle entend se fonder. Quant aux « paragraphes préliminaires », il s’agit de paragraphes qui se retrouvent dans l’exposé des faits de la Réponse là où l’intimée indique sa position quant aux allégations de fait présentées dans l’avis d’appel. Je vais d’abord traiter des paragraphes préliminaires et des paragraphes 57 et 59.
+Paragraphes préliminaires
+[15] Je note qu’en vertu de l’article 49 des Règles, la réponse de l’intimée doit indiquer les faits admis, les faits niés et les faits qu’elle ne connait pas et n’admet pas. La partie pertinente de l’article 49 se lit comme suit :
+49 (1) Sous réserve du paragraphe (1.1), la réponse indique :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+e) tout autre fait pertinent;
+f) les points en litige;
+g) les dispositions législatives invoquées;
+h) les moyens sur lesquels l’intimée entend se fonder;
+i) les conclusions recherchées.
+[…]
+(2) Les faits allégués que l’intimée ne nie pas dans sa réponse à l’avis d’appel sont réputés admis, sauf le cas où elle affirme ne pas en avoir connaissance.
+[16] En ce qui concerne les paragraphes 5, 11, 13, 23, 25 et 29 de la réponse à l’avis d’appel de M. Hammond, l’intimée a écrit : « Le PGC nie les faits allégués au(x) paragraphe(s) … ». Ces paragraphes sont tout à fait appropriés et conformes aux exigences de l’alinéa 49(1)b) et du paragraphe 49(2) des Règles. Or, ces paragraphes ne seront pas radiés.
+[17] En ce qui concerne les paragraphes 2, 4, 7, 15, 22, 26 et 31 de la Réponse à l’avis d’appel de M. Hammond, l’intimée a écrit « Le PGC nie tel que rédigé les faits allégués au(x) paragraphe(s) … ». Par exemple, les paragraphes 2 de la Réponse à l’avis d’appel et 9 de l’avis d’appel se lisent comme suit :
+Paragraphe 2 de Réponse à l’avis d’appel de M. Hammond :
+Le PGC nie tel que rédigé les faits allégués au paragraphe 9 de l’avis d’appel.
+Paragraphe 9 de l’avis d’appel de M. Hammond :
+Cet immeuble a été acheté par l’appelant, conjointement avec sa conjointe, Mme Yolaine Labonté, en avril 2011, en tant que résidence principale et vendu en mai 2015, la possession de l’immeuble par le contribuable en tant que copropriétaire indivis s’échelonnant ainsi sur une période de quatre (4) ans.
+[18] Je note que le paragraphe 9 de l’avis d’appel de M. Hammond contient des faits dont l’intimée a tenu compte en établissant la cotisation, tel le fait que la propriété sur la rue de la Pérouse a été achetée en 2011 et vendue en 2015. L’usage de l’expression « tel que rédigé » laisse planer un doute dans l’esprit de l’appelant quant à la possibilité qu’une partie des faits contenus dans le paragraphe soit admise et quant aux faits qui feront l’objet de débat. Étant donné les hypothèses de fait au paragraphe 56 de sa Réponse, il appert que l’intimée ne nie pas l’ensemble du contenu du paragraphe 9 de l’avis d’appel.
+[19] À l’audience, l’intimée a reconnu que le libellé des paragraphes qui contiennent l’expression « tel que rédigé » ne respecte pas formellement les exigences de l’article 49 des Règles. Tel que l’explique la Cour d’appel fédérale dans l’affaire Canada c Anchor Pointe Energy Ltd, 2003 CAF 294 au para 26, alors qu’elle se prononçait sur les hypothèses contenant des conclusions mixtes de fait et de droit, il faut « que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. » Les énoncés contenant l’expression « tel que rédigé » ne permettent pas au requérant en l’espèce de savoir exactement quels faits sont contestés. Par conséquent, les paragraphes 2, 4, 7, 15, 22, 26 et 31 de la Réponse à l’avis d’appel de M. Hammond sont radiés. Cependant, l’intimée pourra les modifier.
+Alinéa 57a) et paragraphe 59
+[20] À l’alinéa 57a) de la réponse à l’avis d’appel de M. Hammond, l’intimée énonce la question en litige relativement à la disposition des immeubles alors qu’au paragraphe 59, elle indique le moyen sur lequel elle entend se fonder. Dans sa réponse, l’intimée est tenue d’indiquer les points en litige et les moyens sur lesquels elle entend se fonder conformément aux alinéas 49(1)f) et h) des Règles. J’ajouterais que tant la question en litige énoncée à l’alinéa 57a) de la Réponse que la question en litige énoncée au paragraphe 92 de l’avis d’appel, bien que rédigées différemment, indiquent que la question de savoir si le revenu est du revenu d’entreprise est un point en litige. L’alinéa 57a) et le paragraphe 59 sont conformes à l’article 49 des Règles et ne seront pas radiés.
+Les hypothèses de fait du groupe a)
+[21] Le premier groupe d’hypothèses de fait contestées sont les alinéas 56h), i), j), s), t), et u).
+[22] Les alinéas 56h) et i) contiennent des hypothèses de fait concernant la date d’achat, le prix d’achat et le coût des rénovations de l’immeuble sur la rue de la Pérouse. Dans ses observations écrites dans le dossier de requête de M. Hammond (observations écrites) relativement à l’alinéa 56h), le requérant reproche à l’intimée d’avoir fait cette hypothèse « sans soumettre le moindre fait qui permette de contredire qu’il s’agissait de la résidence principale et familiale du Requérant au moment des faits ». Quant à son attaque concernant l’alinéa 56i), le requérant affirme que le fait « de faire des rénovations ou des modifications ne constitue pas, à lui seul, un fait qui permet de quelque façon que ce soit de qualifier l’achat ‘d’entreprise’ ». Ces affirmations ressemblent plutôt à des arguments concernant la qualification du revenu provenant de la disposition de l’immeuble.
+[23] À mon avis, les alinéas 56h) et i) contiennent des faits étroitement liés au calcul du revenu d’entreprise ajouté au revenu du requérant pour l’année d’imposition 2015. En outre, l’un des facteurs à prendre en compte pour déterminer si un immeuble a été acheté à titre d’immobilisation ou de projet comportant un risque de caractère commercial est celui des améliorations faites sur le bien (voir Happy Valley Farms, supra au para 14). L’intimée a tenu compte de ces faits en établissant la cotisation et il est approprié qu’elle l’indique dans sa réponse. Ces hypothèses ne seront pas radiées.
+[24] À l’alinéa 56j) de sa réponse, l’intimée indique qu’elle a tenu comme acquis que le requérant avait « l’intention » d’habiter l’immeuble sur la rue de la Pérouse pour quelque temps avant de le revendre pour réaliser un profit. Le requérant attaque cette hypothèse en soutenant que ce n’est pas un fait et que c’est à la Cour de décider quelle était l’intention du requérant. Je note qu’à l’alinéa 56u) de sa réponse, relativement à l’immeuble sur la rue Wilfrid-Pelletier, l’intimée a aussi tenu compte de l’intention du requérant en affirmant qu’il « avait l’intention de le vendre rapidement pour faire un profit ». Le représentant de l’intimée soutient que l’intention fait partie des critères jurisprudentiels applicables en l’espèce et ajoute que même si c’est vrai que la Cour va devoir déterminer l’intention, c’est un facteur à considérer et ce n’est pas une conclusion mixte de fait et de droit.
+[25] La Cour suprême du Canada a reconnu qu’il est difficile de faire la distinction entre les questions de droit et les questions mixtes de droit et de fait (voir Canada (Directeur des enquêtes et recherches) c Southam Inc, [1997] 1 RCS 748 au para 35). À mon avis, nous faisons face à la même difficulté lorsqu’il s’agit d’apprécier la nature des hypothèses de fait dans une réponse de l’intimée en matière fiscale.
+[26] Dans le contexte d’un appel portant, en partie, sur l’existence d’un trompe-l’œil dans l’affaire Bemco Confectionary and Sales Ltd. c La Reine, 2015 CCI 48 au para 41, le juge Paris affirme ce qui suit :
+41 Bien que je convienne que l’existence d’un trompe-l’œil dépend de l’application d’un critère juridique aux faits de la situation du contribuable, je ne puis retenir, en toute déférence, l’idée que l’existence d’une intention d’induire en erreur constitue une conclusion juridique. L’intention et l’objet concernent l’état d’esprit de l’intéressé et sont des questions de fait. À l’occasion de l’affaire Edgington c Fitzmaurice (1885), L.R. 29, Ch. D. 459 (CA), le lord-juge Bowen a observé: [TRADUCTION] «[...] l’état d’esprit d’une personne participe des faits, au même titre que sa digestion. Il est vrai qu’il est très difficile de prouver quel était l’état d’esprit d’une personne à un moment donné, mais, s’il est possible de l’établir, il constitue un fait au même titre que toute autre chose. Une fausse déclaration portant sur l’état d’esprit d’une personne constitue donc une fausse déclaration portant sur un fait» (voir également l’arrêt Irrigation Industries Ltd. v. The Minister of National Revenue, [1962] S.C.R. 346, à la page 362).
+[nous soulignons]
+[27] À l’instar du juge Paris, je conclus que ce qu’une personne fait ou sait est une question de fait. (voir Bemco, supra au para 38; voir aussi Metrobec c La Reine, 2019 CCI 250). Je suis d’avis que l’intention dans le contexte d’un appel sur la question de savoir si le gain provenant de la disposition d’un immeuble constitue du revenu d’entreprise ou du gain en capital est une question de fait.
+[28] Je note que la jurisprudence a depuis longtemps reconnu que l’intention est non seulement un facteur, mais « l’un des éléments les plus importants aux fins de la détermination de la question de savoir si un gain constitue un revenu ou s’il est imputable au capital » (Happy Valley Farms, supra au para 14, traduction dans l’affaire Hansen c La Reine, 2020 CCI 102). Cela dit, l’élément de l’intention s’ajoute aux autres éléments dont les tribunaux tiennent compte tel que la durée de la possession et le nombre d’opérations similaires lorsqu’il s’agit de déterminer si un produit de disposition constitue du revenu d’entreprise ou du gain en capital. Dans Happy Valley Farms, supra, la Cour fédérale ajoute que l’intention est déduite à partir des circonstances et de la preuve directe. Je conclus que les alinéas 56j) et 56u) portant sur l’intention contiennent des allégations de fait. Ils ne seront pas radiés.
+[29] Lors de ses observations orales concernant les alinéas 56s), 56t) et 56u) de la réponse à l’avis d’appel de M. Hammond, le représentant du requérant a soutenu qu’il ne s’agit pas de faits, mais plutôt d’arguments. Dans ses observations écrites, il a affirmé que ces hypothèses sont erronées. Il ajoute que même si elles sont vraies, elles ne font pas de la construction de la maison une « entreprise ». Je m’empresse de rappeler un des principes établis dans la jurisprudence selon lequel les faits allégués dans l’acte de procédure contesté sont réputés véridiques et il n’est pas loisible à la partie qui attaque l’acte de procédure en vertu de l’article 53 des Règles d’en contester l’exactitude.
+[30] À titre d’exemple, à l’alinéa 56u), outre la partie de l’allégation portant sur l’intention discutée plus haut, l’intimée a tenu comme acquis le fait que la maison sur la rue Wilfrid-Pelletier était trop grande pour les besoins de la famille du requérant. Je note qu’au paragraphe 58 de son avis d’appel, le requérant a affirmé que « la quatrième chambre qu’ils avaient prévue lors de l’élaboration des plans … n’était désormais plus nécessaire. La maison devenait de ce fait, plus grande que ce dont ils avaient besoin ». Il appert, selon moi, que les deux parties ont une perception différente de la grandeur de la maison par rapport aux besoins de la famille et ce sera au juge du procès de déterminer quelle version est véridique et quelle est la pertinence pour la question à déterminer. Ayant déjà refusé sa radiation pour les motifs reliés à la notion d’intention, l’alinéa 56u) ne sera pas radié pour cette raison non plus. Pour les mêmes motifs, les alinéas 56s) et 56(t) qui contiennent des allégations de fait concernant les moyens financiers du requérant et la gamme de la construction de l’immeuble sur la rue Wilfrid-Pelletier ne seront pas radiés.
+Les hypothèses de fait du groupe b)
+[31] Le groupe b) des hypothèses contestées contient les alinéas 56j), 56k), 56l), 56m), 56p), 56q), 56r), 56v), 56w), 56y), 56aa), 56bb), 56cc), 56dd), 56ee), 56ff) et 56gg). Puisque le requérant a inclus l’alinéa 56j) dans les hypothèses de fait du groupe a), cette hypothèse de fait a été traitée ci-haut et ne fera pas l’objet des motifs concernant les hypothèses du groupe b).
+[32] Tant dans ses observations écrites que dans ses observations à l’audience, le représentant des requérants fait valoir que, généralement et dans leur ensemble, ces hypothèses de faits ne révèlent en conséquence aucun moyen raisonnable de contestation de l’appel et il ne traite pas de chaque hypothèse de fait individuellement. Aussi, au cours de son argumentation à l’audience, le représentant a retiré sa contestation relativement à certaines hypothèses, par exemple, les alinéas 56aa) et 56gg).
+[33] Je conclus que les hypothèses de fait faisant partie du groupe b) (y compris l’alinéa 56j) qui fut traité plus haut) ne doivent pas être radiés et je ferai référence à quelques exemples pour expliquer pourquoi.
+[34] Prenons d’abord par exemple les alinéas 56k), l), p) et v) qui se lisent comme suit :
+56k) Le 3 décembre 2014, l’immeuble de la Pérouse a été mis en vente.
+56l) Le 30 janvier 2015, l’appelant et sa conjointe ont accepté une offre d’achat et l’immeuble de la Pérouse a été vendu le 15 mai 2015 au prix de 685 000 $.
+56p) Suite à la vente de l’immeuble de la Pérouse, le Ministre a ajouté au revenu de l’appelant pour son année d’imposition 2015 un revenu d’entreprise de 84 403 $ calculer (sic) de la façon suivante : […]
+56v) Le 9 novembre 2016, l’immeuble Wilfrid-Pelletier a été mis en vente.
+[35] Puisque la question en litige consiste à déterminer si la disposition de deux immeubles donne lieu à du revenu d’entreprise ou du gain en capital, on doit s’attendre à ce que l’intimée indique les faits dont elle a tenu compte pour calculer le revenu d’entreprise et établir la cotisation. Or, les hypothèses de fait indiquant à l’appelant que l’intimée a tenu compte de la date de la mise en vente et de la date de la vente d’un immeuble ainsi que son prix de vente permettent à l’appelant de connaître les faits qu’il doit réfuter pour avoir gain de cause. Il me semble que ces faits ont un lien direct avec la détermination de la validité de la cotisation pour les années d’imposition en litige.
+[36] Au paragraphe 34 de ses observations écrites, le requérant affirme ce qui suit :
+Aux paragraphes 56k), 56l), 56v) 56y) l’intimée fait un lien entre l’acceptation d’une offre d’achat suite à la mise en vente de la première résidence et de la seconde résidence et un revenu d’entreprise comme s’il s’agissait d’offres d’achat non sollicitées par le Requérant démontrant une intention de vendre lors de l’acquisition des maisons alors que ces offres découlent de la mise en vente des immeubles par le requérant et sa conjointe;
+[37] Bien que je ne suis pas certaine de bien comprendre cet énoncé, il ne semble pas contenir une attaque des hypothèses de fait en tant que tel, mais plutôt une argumentation relativement aux facteurs à considérer par le juge de procès pour répondre à la question en litige, en particulier, celui de l’intention.
+[38] Quant à l’alinéa 56p) de la réponse à l’avis d’appel de M. Hammond, le requérant n’en a pas fait mention ni dans ses observations écrites ni à l’audience. L’alinéa 56p) fournit à l’appelant la ventilation du calcul du revenu d’entreprise qui fut ajouté au revenu de l’appelant dont l’intimée a tenu compte pour établir la cotisation pour l’année d’imposition 2015. Je note que l’alinéa 56gg) énonce lui aussi la ventilation du calcul du revenu d’entreprise, mais en ce qui concerne l’année d’imposition 2017.
+[39] Bien que sa contestation relativement à l’alinéa 56gg) fut éventuellement retirée à l’audience, les observations écrites du requérant à son égard illustre bien comment la position de l’appelant relativement à sa demande de radiation de l’alinéa 56p), qui contient une hypothèse quasi identique à l’exception des chiffres, est vouée à l’échec. À ce sujet, le requérant écrit :
+35. Au paragraphe 56gg), l’Intimée suggère que la vente de la seconde résidence génère donc du revenu d’entreprise bien que l’Intimée démontre dans sa Réponse qu’il n’y a pas de doute au fait que le Requérant fait la distinction entre ses activités personnelles et professionnelles lors de sa déclaration de revenus;
+[40] Dans son plan d’argumentation soumis à l’audience, le requérant écrit que l’alinéa 56p) ne fait que relater la construction du second immeuble en litige. Quant à l’alinéa 56gg), il écrit qu’il ne fait que ventiler le quantum de la cotisation. Puisque l’intimée a ajouté un montant à titre de revenu d’entreprise au calcul du revenu du requérant pour les années d’imposition 2015 et 2017, il est approprié, voire requis à mon avis, qu’elle précise comment ces montants ont été calculés.
+[41] À l’audience, le représentant des requérants a soutenu que les hypothèses faisant partie du groupe b) ne démontrent pas que la cotisation est correcte. Je ne peux pas conclure que ces hypothèses de fait n’énoncent aucun motif raisonnable permettant de conclure que la cotisation frappée d’appel est correcte (voir Banque Canadienne Impériale de Commerce, supra aux paras 7 et 21). Les hypothèses faisant partie du groupe b) ne seront pas radiées.
+Les hypothèses de fait du groupe c)
+[42] Le groupe c) des hypothèses contestées contient les alinéas 56d), 56e), 56f), 56g), 56n), 56o), 56x) et 56z).
+[43] Le requérant fait valoir que les alinéas 56d), 56e), 56f), 56g), 56n), 56o), 56x) et 56z) de la réponse à l’avis d’appel de M. Hammond ne sont pas pertinents à la question en litige relativement à la vente des immeubles. Certains de ces alinéas contiennent des faits qui semblent non contestés. Par exemple, à l’alinéa 56d), l’intimée a tenu comme acquis que Mme Labonté est la conjointe de l’appelant. D’autres hypothèses de fait parmi celles faisant partie de ce groupe portent sur le travail et les connaissances et l’expérience de M. Hammond et de sa conjointe. Dans ses observations écrites, le requérant affirme que « l’Intimée suggère erronément que le requérant et sa conjointe possèderaient ensemble de l’expérience en matière immobilière grâce à leur emploi et/ou métier respectifs ». Ce n’est pas parce que le requérant est en désaccord avec les faits dont l’intimée a tenu compte pour établir la cotisation que ces faits sont non pertinents.
+[44] À l’audience, le représentant du requérant a soutenu que ces énoncés ne sont pas des faits et qu’il aurait plutôt fallu dire que les requérants ont vendu x immeubles. Pourtant, le requérant demande également la radiation de l’alinéa 56g) dans lequel l’intimée écrit : « De 2001 à 2018, l’appelant et sa conjointe ont acheté et vendu huit immeubles … ». À la lecture de ces alinéas, et en tenant compte des facteurs jurisprudentiels qui doivent guider l’analyse pour déterminer si la disposition d’un bien donne lieu à un revenu d’entreprise ou à un gain en capital, ils me semblent à prime à bord être pertinents. Cela dit, je suis d’avis qu’il ne me revient pas à titre de juge de requête de déterminer la pertinence des hypothèses attaquées.
+[45] Quant aux alinéas 56n) et o), il s’agit d’hypothèses de fait concernant des problèmes d’humidité et de moisissure dans l’immeuble sur la rue de la Pérouse. Je note que le requérant a lui-même fait des allégations à ce sujet au paragraphe 29 de son avis d’appel, allégation que l’intimée a niée au paragraphe 11 de sa réponse. Au paragraphe 36 de ses observations écrites, le requérant affirme ce qui suit :
+36. Aux paragraphes 56n) et 56o), l’intimée nie qu’il y avait des problèmes majeurs d’humidité, d’infiltration d’eau et de moisissures se fondant sur la déclaration faite à l’acquéreur par le Requérant alors que l’avis d’appel décrit très bien les travaux faits par le Requérant pour éradiquer les problèmes d’infiltration y compris suite à l’offre d’achat, ce qui explique la déclaration faite lors de la vente de la maison.
+[46] À l’audience, le requérant a soutenu que les énoncés aux alinéas 56n) et o) de la réponse ne sont pas des faits et en outre, qu’il s’agit d’énoncés faits pour attaquer la crédibilité du requérant. Je ne vois pas comment une allégation de l’appelant concernant l’humidité ou la moisissure est une allégation de fait alors qu’une hypothèse de l’intimée concernant l’humidité ou la moisissure perd son caractère factuel. Le représentant de l’intimée a soutenu qu’il s’agissait de faits et que si cela mettait en doute la crédibilité du requérant, ce n’était qu’accessoire. À mon avis, il s’agit de faits et si l’intimée en a tenu compte en établissant la cotisation, il est approprié de les inclure dans la réponse. Ce sera au juge de procès de déterminer quelle partie a raison en ce qui concerne la véracité de ces énoncés tout comme cela lui reviendra d’en déterminer la pertinence relativement à la détermination de la classification du revenu découlant de la vente de l’immeuble sur la rue de la Pérouse.
+[47] Je tiens à rappeler que cette Cour a, à plusieurs reprises, confirmé le principe selon lequel il revient au juge de première instance de déterminer, après avoir entendu la preuve, si les hypothèses sont pertinentes. Dans l’affaire Mungovan c La Reine, [2001] 3 CTC 2779 (CCI), le juge en chef adjoint Bowman (tel qu’il était alors) s’exprimait comme suit:
+10 Les hypothèses ne sont pas tout à fait comme des actes de procédure déposés dans le cadre d’une action en justice ordinaire. Elles ressemblent plus à des précisions de faits sur lesquels le ministre s’est fondé en établissant la cotisation. Il est essentiel qu’elles soient complètes et véridiques. Traditionnellement, elles placent un fardeau sur les épaules d’un appelant, et, comme M. Mungovan le fait remarquer avec une justification solide, elles peuvent l’obliger à tenter de réfuter des faits dont il n’a pas connaissance. De prime abord, cela peut s’avérer, mais il s’agit d’une question qui peut être explorée lors d’un interrogatoire préalable. Le juge de première instance est dans une bien meilleure position qu’un juge entendant une requête préliminaire pour examiner quel poids devrait être accordé à ces hypothèses. Le juge de première instance peut décider qu’elles ne sont pas pertinentes. Il ou elle peut également décider d’obliger l’intimée de les prouver.
+[nous soulignons]
+[48] Le principe énoncé dans l’affaire Mungovan fut confirmé par la Cour d’appel fédérale dans l’affaire Kossow c La Reine, 2009 CAF 83 aux paras 21-23.
+[49] Par conséquent, je conclus que les hypothèses de fait du groupe c), soit les alinéas 56d), 56e), 56f), 56g), 56n), 56o), 56x) et 56z) ne doivent pas être radiées.
+Conclusion
+[50] Comme indiqué plus haut, en ce qui concerne la requête relativement à l’appel de Mme Yolaine Labonté, les mêmes observations s’appliquent aux mêmes hypothèses de fait bien que les numéros dans la réponse puissent différer de ceux dans la réponse à l’avis de M. Hammond.
+[51] Pour tous les motifs qui précèdent, les deux requêtes sont accueillies.
+[52] Les paragraphes 2, 4, 7, 15, 22, 26 et 31 de la réponse à l’avis d’appel de M. Hammond sont radiés avec permission à l’intimée de les modifier.
+[53] Les paragraphes 2, 4, 7, 15, 22, 26 et 31 de la réponse à l’avis d’appel de Mme Labonté sont radiés avec permission à l’intimée de les modifier.
+[54] L’intimée pourra déposer des réponses à l’avis d’appel modifiées dans les 30 jours suivant la date de cette ordonnance.
+[55] Les frais suivront l’issue de l’appel.
+Signé à Fredericton, Nouveau-Brunswick, ce 3e jour de novembre 2021.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+RÉFÉRENCE :
+2021 CCI 72
+Nº DU DOSSIER DE LA COUR :
+2020-1606(IT)G
+2020-1605(IT)G
+INTITULÉ DE LA CAUSE :
+SYLVAIN HAMMOND c SA MAJESTÉ LA REINE
+YOLAINE LABONTÉ c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 19 octobre 2021
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge Gabrielle St-Hilaire
+DATE DE L’ORDONNANCE :
+Le 3 novembre 2021
+COMPARUTIONS :
+Avocat de la requérante :
+Me Michel Beauchamp
+Me Alexandre Rafael
+Avocat de l’intimée :
+Me Alain Gareau
+Audrey Turcotte-Bourgeois (stagiaire)
+AVOCATS INSCRITS AU DOSSIER :
+Pour les requérants :
+Nom :
+Me Michel Beauchamp
+Me Alexandre Rafael
+Cabinet :
+1000 rue de la Gauchetière Ouest Bureau 2400 Montréal QC H3B 4W5
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

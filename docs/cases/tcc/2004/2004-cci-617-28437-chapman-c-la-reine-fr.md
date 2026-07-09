@@ -1,0 +1,192 @@
+---
+title: "Chapman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28437/index.do"
+last_modified: "2004-09-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 617"
+citation2: ""
+neutral_citation: "2004 CCI 617"
+decision_date: "2004-09-09"
+language: "fr"
+item_id: "28437"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1205
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:04:48.831000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "82e028ffe464e6bfdada8e167a2c3ca28cec6dc0204f45c92b5705355f269722"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chapman c. La Reine
+
+- Citation: 2004 CCI 617
+- Decision date: 2004-09-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1205, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chapman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-09
+Référence neutre
+2004 CCI 617
+Numéro de dossier
+2003-3618(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3618(IT)I
+ENTRE :
+ROGER CHAPMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu en même temps que l’appel de Roger Chapman (2003-3649(IT)I))
+à Calgary (Alberta), le 14 mai 2004
+Devant : L’honorable J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me George Body
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation pour le motif que les frais d’utilisation d’un véhicule à moteur, d’un montant de 9 310,03 $, sont déductibles dans le calcul du revenu.
+Signé à Toronto (Ontario), ce 9e jour de septembre 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de mars 2005
+Jacques Deschênes, traducteur
+Dossier : 2003-3649(IT)I
+ENTRE :
+ROGER CHAPMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu en même temps que l’appel de Roger Chapman (2003-3618(IT)I))
+à Calgary (Alberta), le 14 mai 2004
+Devant : L’honorable J.M. Woods, juge
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me George Body
+____________________________________________________________________
+JUGEMENT
+L’appel relatif à une nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que la pénalité pour production tardive doit être réduite à 3 379,75 $.
+Signé à Toronto (Ontario), ce 9e jour de septembre 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de mars 2005
+Jacques Deschênes, traducteur
+Référence : 2004CCI617
+Date : 20040909
+Dossiers : 2003-3618(IT)I
+2003-3649(IT)I
+ENTRE :
+ROGER CHAPMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Ces appels, interjetés en vertu de la Loi de l’impôt sur le revenu, ont été entendus l’un à la suite de l’autre sous le régime de la procédure informelle; il s’agissait d’un appel pour l’année d’imposition 1999 concernant la déductibilité des frais d’utilisation d’un véhicule à moteur que l’appelant avait engagés pour faire la navette entre sa maison et son lieu de travail et d’un appel pour l’année d’imposition 2000 concernant le calcul d’une pénalité imposée pour production tardive.
+Frais d’utilisation d’un véhicule à moteur
+[2] Roger Chapman, un résident de Calgary (Alberta), est conseiller; il fournit des services d’estimation pour des projets d’ingénierie. Pendant l’année d’imposition 1999, il s’occupait de deux projets, l’un d’une durée de neuf mois et l’autre d’une durée de trois mois.
+[3] Le projet d’une durée de trois mois a été obtenu par l’entremise d’une agence de placement qui s’appelait TRS Staffing Solutions (Canada) Inc. En vertu de ce contrat, M. Chapman était chargé de fournir ses services à Fluor Constructors Canada Ltd., à Joffre (Alberta). Pendant la période d’application du contrat, allant du 4 janvier au 1er avril 1999, M. Chapman faisait chaque semaine la navette depuis Calgary et, pendant la semaine, il logeait dans un hôtel à Red Deer, près de Joffre. Dans le calcul de son revenu pour l’année d’imposition 1999, M. Chapman a déduit comme suit les frais d’utilisation d’un véhicule à moteur qu’il avait engagés pour se rendre à son travail et en revenir :
+a) le dimanche, de sa maison, située à Calgary, à Red Deer – soit 140 kilomètres en tout;
+b) du lundi au mercredi, le voyage aller‑retour entre Red Deer et Joffre – soit 60 kilomètres par jour en tout; et
+c) le jeudi, de Red Deer à Joffre, et de Joffre à sa maison, à Calgary – soit 200 kilomètres en tout.
+[4] Le projet d’une durée de neuf mois a été obtenu par l’entremise d’une agence de placement qui s’appelait The Design Group Staffing Services Inc. En vertu de ce contrat, M. Chapman était chargé de fournir ses services à Delta Hudson Engineering Ltd., à Acadia, au sud de Calgary. Ce contrat a duré du 9 avril au 24 décembre 1999. M. Chapman se rendait en voiture à son travail depuis sa maison, située dans le nord‑est de Calgary; il a déduit les frais d’utilisation du véhicule à moteur qu’il avait engagés. La distance parcourue était d’une cinquantaine de kilomètres pour chaque voyage aller‑retour.
+[5] Le nombre total de kilomètres que l’appelant avait parcourus pendant l’année pour se rendre à ces lieux d’affectation et en revenir était de 15 710 kilomètres. M. Chapman a témoigné qu’une de ses voitures était exclusivement utilisée pour les voyages d’affaires et il a déduit le coût complet d’utilisation du véhicule à moteur pendant l’année, soit 9 310,03 $.
+[6] En établissant la nouvelle cotisation, le ministre du Revenu national a pris la position selon laquelle M. Chapman était un employé des agences de placement et il a refusé la déduction des frais d’utilisation du véhicule à moteur pour le motif qu’il n’était pas satisfait aux dispositions de l’alinéa 8(1)h.1) de la Loi. Cette position a changé dans les actes de procédure. Dans la réponse, la Couronne a reconnu que M. Chapman travaillait à son compte et elle a mis l’accent sur l’article 18 de la Loi plutôt que sur l’article 8.
+[7] Il s’agit de savoir si les frais d’utilisation du véhicule à moteur que M. Chapman a engagés pour se rendre à ses lieux d’affectation à Joffre et à Acadia et en revenir sont déductibles dans le calcul du revenu tiré d’une entreprise. La Couronne n’a pas réellement contesté la prétention de M. Chapman selon laquelle l’une de ses voitures était exclusivement utilisée dans le cadre de l’exploitation d’une entreprise et, par conséquent, je ne me suis pas demandé si les frais devraient être répartis au prorata entre l’utilisation liée à l’entreprise et l’utilisation personnelle.
+[8] La Couronne fait valoir que la déduction des frais d’utilisation du véhicule à moteur devrait être refusée en vertu des alinéas 18(1)a) et h) pour le motif que M. Chapman n’a pas engagé ces frais en vue de gagner un revenu et qu’il s’agissait de frais personnels. Les dispositions en cause sont ainsi libellées :
+(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[...]
+h) le montant des frais personnels ou de subsistance du contribuable – à l’exception des frais de déplacement engagés par celui‑ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[9] La Couronne n’a pas cité de décisions portant sur ces dispositions législatives particulières; elle a plutôt fait référence aux décisions suivantes portant sur le revenu d’emploi : R. v. Diemert, [1976] C.T.C. 301 (C.F. 1re inst.); Hogg v. R., [2001] 1 C.T.C. 2356 (C.C.I.); et Jenner v. R., [2004] 1 C.T.C. 2111 (C.C.I.).
+[10] On ne m’a pas renvoyé à aucune décision établissant que les frais qu’une personne travaillant à son compte engage pour se rendre à son travail et en revenir sont des frais personnels et qu’elle ne les engage pas en vue de gagner un revenu, mais il semble raisonnable de faire une telle inférence compte tenu des principes établis dans le contexte de l’emploi : Daniels v. The Queen, 2004 DTC 6276 (C.A.F.).
+[11] Toutefois, les faits de la présente affaire sont différents de ceux dont il était question dans ces affaires d’emploi; je ne suis pas d’accord pour dire que le même principe doit s’appliquer. La conclusion selon laquelle les frais qu’une personne engage pour se rendre à son travail et en revenir sont des frais personnels est probablement fondée sur l’idée voulant que l’endroit où une personne vit découle d’un choix personnel, de sorte que ce qu’il en coûte pour se rendre au travail dépend dans une large mesure de considérations personnelles. Cette idée ne s’applique pas à des affectations temporaires puisqu’on ne peut pas raisonnablement s’attendre à ce qu’une personne déménage afin de se rapprocher de son lieu d’affectation temporaire. Le bon sens veut que les frais qu’une personne engage pour se rendre au lieu d’une affectation temporaire ne soient pas des frais personnels et que la personne en cause les engage en vue de gagner un revenu. Les affectations de M. Chapman étaient d’une durée limitée, de trois à neuf mois. Dans ces conditions, il ne s’agissait pas de frais personnels; le contribuable a plutôt engagé ces frais en vue de satisfaire à des engagements contractuels auprès des agences de placement.
+[12] Cette approche est conforme à l’approche adoptée par la Cour suprême du Canada dans l’arrêt Randall v. M.N.R., [1967] C.T.C. 236. Dans l’affaire Randall, le contribuable gérait des champs de courses, surtout dans la région de Vancouver. Il s’était entendu pour gérer un champ de courses à Portland (Oregon) et il avait cherché à déduire ce qu’il lui en coûtait pour faire la navette entre l’Oregon et sa maison, à Vancouver. La Couronne avait soutenu que les frais que le contribuable avait engagés pour se rendre de sa maison, à Vancouver, jusqu’à Portland, étaient des frais personnels parce qu’il les avait engagés pour se rendre à son lieu de travail. Dans une décision majoritaire, la cour a coupé court à l’argument de la Couronne et a adopté une approche fondée sur le bon sens : les frais de déplacement étaient déductibles parce que M. Randall devait les engager afin de s’acquitter de ses obligations contractuelles. Les faits de l’affaire Randall sont différents de ceux de la présente espèce, mais à mon avis, l’approche fondée sur le bon sens adoptée par la Cour suprême du Canada doit également s’appliquer aux affectations temporaires lorsqu’une personne doit se rendre à différents endroits pour s’acquitter de ses obligations contractuelles.
+[13] Cette conclusion est suffisante pour régler l’appel, mais j’aimerais faire mention d’une autre série de décisions à l’appui de la déductibilité des frais engagés par M. Chapman. Cet argument subsidiaire est fondé sur le fait que la maison de M. Chapman devrait être considérée comme sa « base d’opérations ». Ni l’une ni l’autre partie n’a invoqué cet argument, peut‑être parce que M. Chapman avait reconnu qu’il ne travaillait pas chez lui aux projets Fluor ou Delta. Aucun élément de preuve n’a été présenté au sujet des modalités générales d’exploitation de l’entreprise d’expert‑conseil de M. Chapman et de l’endroit depuis lequel cette entreprise était exploitée, mais la maison de M. Chapman devrait probablement être considérée comme le point central de son entreprise d’expert‑conseil.
+[14] Les principes pertinents sont examinés dans les décisions Cumming v. M.N.R., [1967] C.T.C. 462 (C. de l’É.) et Canada v. Cork, [1990] 2 C.T.C. 116 (C.A.F.).
+[15] Les faits de l’affaire Cork sont passablement semblables à ceux de la présente espèce. Par l’entremise d’agences de placement, M. Cork était engagé comme dessinateur en vertu de contrats à court terme. Aux trois paliers d’appel, il avait été statué que les frais de déplacement de M. Cork ainsi que les frais d’un bureau à domicile étaient déductibles pour le motif que la maison de M. Cork constituait une base d’opérations. Le juge Stone, de la Cour d’appel fédérale, s’est demandé si la maison de M. Cork pouvait être considérée comme une « base d’opérations »; il a conclu qu’elle pouvait l’être :
+[...] les activités commerciales de M. Cork s’exerçaient chez lui. Qu’il ait pris des dispositions pour obtenir le travail directement ou par l'entremise d’une agence de placement, il le faisait à partir de chez lui où on pouvait le trouver. Il se servait de sa maison comme base ou point central pour cette fin ainsi que pour l'exécution de son travail dans le domaine.
+[16] Dans l’arrêt Cork, la Cour d’appel a cité de longs passages de l’arrêt anglais Horton v. Young (Inspector of Taxes), [1971] 3 All E.R. 412 (C.A.). Selon moi, le principe qui ressort de l’arrêt Horton est que la maison est une base d’opérations si une personne n’a pas d’autre lieu d’affaires qui lui est propre et fournit ses services dans les différents lieux d’affaires de ses clients.
+[17] Dans cet appel, il n’existe pas suffisamment d’éléments de preuve pour qu’il soit possible de tirer une conclusion au sujet de la base d’opérations de M. Chapman mais je crois que la maison de M. Chapman était probablement la base d’opérations de son entreprise d’expert‑conseil et que les frais que M. Chapman a engagés pour se rendre aux lieux de travail des clients et en revenir sont déductibles à titre de dépenses d’entreprise ordinaires.
+[18] Avant de conclure, j’aimerais faire remarquer que l’avocat de la Couronne s’est vigoureusement opposé à ce que M. Chapman présente de nouveaux faits dans les observations écrites qui ont été reçues après l’audience. Je suis d’accord avec l’avocat pour dire que tous les faits auraient dû être présentés à l’audience, lorsque l’avocat avait la possibilité de procéder à un contre‑interrogatoire. Par conséquent, je n’ai pas tenu compte des nouveaux faits dans cette décision.
+Pénalité pour production tardive
+[19] Dans une nouvelle cotisation établie pour l’année d’imposition 2000, le ministre a imposé une pénalité pour production tardive d’un montant de 8 979,77 $. À l’audience, M. Chapman a reconnu qu’il avait produit en retard sa déclaration de revenu pour l’an 2000 et que rien ne lui permettait de contester l’imposition d’une pénalité. Toutefois, il a déclaré que le montant de la pénalité était excessif parce qu’il n’était pas tenu compte d’un paiement qu’il avait effectué par chèque. Il semble qu’en établissant la nouvelle cotisation, le ministre ait pris la position selon laquelle le chèque n’avait pas été reçu en temps opportun aux fins du calcul de la pénalité. Après l’audience, la Couronne a examiné la question et a convenu de laisser à M. Chapman le bénéfice du doute à l’égard du moment où le paiement avait été effectué. Il a donc été convenu que le montant de la pénalité devrait être réduit à 3 379,75 $.
+[20] En réponse à cette concession, M. Chapman a soumis un nouvel argument qui, s’il était retenu, aurait pour effet d’entraîner une réduction additionnelle de la pénalité. Il a été soutenu que, dans le calcul de l’impôt exigible, la Couronne n’avait pas tenu compte d’un report d’impôt minimum qui avait été imputé à l’année d’imposition 1999. Toutefois, M. Chapman n’a pas démontré en quoi un report imputé à l’année d’imposition 1999 influerait sur le calcul de la pénalité pour production tardive se rapportant à l’année d’imposition 2000. L’argument additionnel invoqué par M. Chapman au sujet du calcul de la pénalité est donc rejeté.
+Conclusion
+[21] Pour les motifs susmentionnés, je conclus que les frais d’utilisation du véhicule à moteur que M. Chapman a déduits pour l’année d’imposition 1999 sont déductibles dans le calcul du revenu et que la pénalité pour production tardive qui a été imposée pour l’année d’imposition 2000 doit être réduite à 3 379,75 $.
+Signé à Toronto (Ontario), ce 9e jour de septembre 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 14e jour de mars 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI617
+Nos DES DOSSIERS
+DE LA COUR :
+2003-3618(IT)I et 2003-3649(IT)I
+INTITULÉ :
+Roger Chapman c. La Reine
+LIEU DE L’AUDIENCE
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 14 mai 2004
+MOTIFS DU JUGEMENT :
+L’honorable J.M. Woods
+DATE DU JUGEMENT :
+Le 9 septembre 2004
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me George Body
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,204 @@
+Title: Lépine c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22819/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-3-22819-l-pine-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-01-05
+
+# Lépine c. La Reine
+
+- Citation: 2007 CCI 3
+- Decision date: 2007-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2325, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lépine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-01-05
+Référence neutre
+2007 CCI 3
+Numéro de dossier
+2005-309(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-309(IT)I
+ENTRE :
+DIANE LÉPINE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Sogécharles Ltée (2005-323(IT)I) et Claude Gagnon (2005-324(IT)I)
+le 15 novembre 2005 et le 12 octobre 2006, à Québec (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Côté
+Me Bernard Gaudreau
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2001 est rejeté, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2005-323(IT)I
+ENTRE :
+SOGÉCHARLES LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Diane Lépine (2005-309(IT)I) et Claude Gagnon (2005-324(IT)I)
+le 15 novembre 2005 et le 12 octobre 2006, à Québec (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocats de l'appelante :
+Me Jacques Côté
+Me Bernard Gaudreau
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont accordés, sans frais, dans la mesure exprimée aux motifs du jugement ci-joints. Les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon ces motifs.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2005-324(IT)I
+ENTRE :
+CLAUDE GAGNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Diane Lépine (2005-309(IT)I) et Sogécharles Ltée (2005-323(IT)I)
+le 15 novembre 2005 et le 12 octobre 2006, à Québec (Québec).
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocats de l'appelant :
+Me Jacques Côté
+Me Bernard Gaudreau
+Avocate de l'intimée :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont accordés, sans frais, dans la mesure exprimée aux motifs du jugement ci-joints. Les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon ces motifs.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2007CCI3
+Date : 20070105
+Dossiers : 2005-309(IT)I
+2005-323(IT)I
+2005-324(TI)I
+ENTRE :
+DIANE LÉPINE,
+SOGÉCHARLES LTÉE,
+CLAUDE GAGNON,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune selon la procédure informelle.
+[2] Les faits tenus pour acquis par le ministre du Revenu national (le « Ministre » ) pour la cotisation de l'appelant Claude Gagnon pour les années d'imposition 2000 et 2001 sont décrits aux paragraphes 8 et 9 de la Réponse amendée à l'avis d'appel (la « Réponse » ) comme suit :
+8. . . .
+a) Au cours des années d'imposition 2000 et 2001, l'appelant était actionnaire et administrateur de la société Sogécharles inc., ci-après appelé la « société » , qui est une société de gestion pour des projets de construction;
+b) En produisant sa déclaration de revenu pour l'année d'imposition 2000, l'appelant n'a déclaré aucun revenu T4 provenant de la « société » ;
+c) Les dépenses encourues par la société, pour le bénéfice personnel de l'appelant, n'ont pas été incluses dans sa déclaration de revenus;
+d) Nous soutenons que ces dépenses encourues par la société pour l'appelant l'ont été à son bénéfice personnel. (Voir les annexes 1, 2, 3, 4, 5, et 6 (ci-jointes.)
+PÉNALITÉ FÉDÉRALE POUR NÉGLIGENCE
+9. Le ministre a déterminé que l'appelant avait fait sciemment ou dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans les déclarations de revenus produites pour les années d'imposition 2000 et 2001 ou avait participé, consenti ou acquiescé à ce faux énoncé ou à cette omission, d'où il résulte que l'impôt qu'il aurait été tenu de payer d'après les renseignements fournis dans les déclarations de revenus déposées pour ces années-là était inférieur au montant d'impôt à payer pour ces années-là :
+a) Les dépenses refusées proviennent en majorité d'états de compte de cartes de crédit personnelles de l'appelant et sont payées par la « société » ;
+b) L'appelant connaît bien les questions fiscales puisqu'il est diplômé en administration de l'Université Laval et a déjà fait l'objet de plusieurs cotisations par le passé;
+c) L'appelant est le seul administrateur de la « société » et doit connaître le revenu ainsi que les dépenses de la « société » ;
+d) L'appelant a signé la déclaration de revenus de la « société » ;
+e) Le total des dépenses refusées représente un pourcentage important des dépenses réclamées dans la « société » en 2000 et 2001, soit 52.3% et 59.6% respectivement et représente 208% et 131.8% des revenus bruts des années 2000 et 2001 respectivement;
+[3] Les faits tenus pour acquis par le Ministre pour les cotisations de l'appelante Sogécharles sont décrits aux paragraphes 9 et 10 de la Réponse comme suit :
+9. En établissant et en maintenant la détermination de pertes de l'année d'imposition 2000 et les nouvelles cotisations en litige pour les années d'imposition 2000 et 2001, le Ministre a tenu pour acquis les mêmes faits suivants :
+a) L'appelante est une société dont l'activité est la gestion de projets de construction;
+b) Monsieur Claude Gagnon, ci-après « Gagnon » , est l'unique administrateur de la société de même que l'un des actionnaires;
+c) Au cours des années d'imposition se terminant les 31 octobre 2000 et 2001, l'appelante a réclamé des dépenses pour des frais de bureaux au montant de 6 348 $ et de 1 193 $ respectivement pour lesquelles aucune pièce justificative acceptable n'a été présentée;
+d) Au cours de l'année d'imposition se terminant les 31 octobre 2000 et 2001, l'appelante a réclamé des dépenses pour des frais d'entretien et réparation de 4 291 $ et 4 510 $ respectivement pour lesquelles aucune pièce justificative acceptable n'a été présentée;
+e) Au cours de l'année d'imposition se terminant les 31 octobre 2000 et 2001, l'appelante a réclamé des dépenses au titre de publicité et représentation de 4 095 $ et 4 876 $ respectivement pour lesquelles aucune pièce justificative acceptable n'a été présentée;
+f) Relativement aux éléments contenus dans les paragraphes c, d, et e, le ministre a conclu que l'appelante n'avait pas encouru ces dépenses dans le but de gagner un revenu d'entreprise ou de bien mais qu'il s'agissait plutôt du paiement des dépenses personnelles de l'actionnaire;
+g) Au cours de l'année d'imposition se terminant le 31 octobre 2000, des dépenses de chevaux ont été refusées, dépenses qui consistaient en une radiation de compte à recevoir des écuries Chakrika;
+h) Le contribuable n'a pu faire la preuve que ce compte à recevoir avait déjà été inclus dans le revenu antérieurement;
+i) La dépense refusée était d'un montant de 3 000 $. La déduction a été refusée en vertu de l'alinéa 20(1)p) de la LIR puisque le contribuable n'a pu fournir au ministre les documents et les preuves indiquant qu'il a effectué tous les efforts possibles pour récupérer les montants.
+j) Au cours de l'année d'imposition se terminant le 31 octobre 2001, l'appelante a réclamé une dépense au titre d'honoraires professionnels au montant de 22 000 $ pour lesquelles aucune pièce justificative n'a été présentée. De plus l'appelante n'a pu déterminer avec précision en quoi consistaient les honoraires chargés.
+10. Lors des nouvelles cotisations du 19 janvier 2004 pour les années d'imposition 2000 et 2001, le ministre a appliqué des pénalités en vertu du paragraphe 163(2) de la Loi, relativement à des dépenses non déductibles du revenu de la « société » sur un montant de 17 734 $ et 32 579 $ respectivement, pour les raisons suivantes :
+a) Les dépenses refusées proviennent en majorité d'états de compte de cartes de crédit personnelles de l'actionnaire « Gagnon » ;
+b) Ces dépenses sont payées par chèques par la « société » et les chèques sont signés par « Gagnon » et la nature de la facture est identifiée par « Gagnon » ;
+c) « Gagnon » connaît bien les questions fiscales puisqu'il est diplômé en administration de l'Université Laval;
+d) « Gagnon » est l'unique administrateur de la « société » et par conséquent connaît les revenus et dépenses de la « société » . Il affirme qu'il passe toutes ses dépenses dans la société de gestion et charge des honoraires en conséquence lorsque le projet fonctionne. Cependant, il n'y a aucune compilation des dépenses;
+e) « Gagnon » signe les déclarations de revenus de la « société » ;
+f) La « société » n'a fourni aucune pièce justificative à l'encontre des dépenses réclamées. « Gagnon » mentionne d'ailleurs qu'il ne garde aucune pièce justificative et que ce n'est pas comme cela qu'il désire utiliser son temps;
+g) Le total des dépenses refusées totalise 52.3% des dépenses de la « société » en 2000 et de 59.6% en 2001. Les dépenses refusées représentent également 208% des revenus bruts de la « société » en 2000 et 131.8% en 2001.
+[4] En ce qui concerne la cotisation de l'appelante, madame Diane Lépine, pour l'année d'imposition 2001, les faits tenus pour acquis par le Ministre sont décrits aux paragraphes 7 et 8 de la Réponse comme suit :
+7. ...
+a) Au cours de l'année d'imposition 2001, l'appelante était actionnaire de la société Sogécharles inc., ci-après appelé la « société » , qui est une société de gestion pour des projets de construction;
+b) En produisant sa déclaration de revenu pour l'année d'imposition 2001, l'appelante n'a déclaré aucun revenu d'honoraires professionnels provenant de la « société » .
+PÉNALITÉ FÉDÉRALE POUR NÉGLIGENCE
+8. Le ministre a déterminé que l'appelante avait fait sciemment, ou dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans les déclarations de revenus produites pour l'année d'imposition 2001 ou avait participé, consenti ou acquiescé à ce faux énoncé ou à cette omission, d'où il résulte que l'impôt qu'elle aurait été tenu de payer d'après les renseignements fournis dans les déclarations de revenus déposées pour cette année-là était inférieur au montant d'impôt à payer pour cette année-là :
+a) Les revenus d'honoraires professionnels reçus par l'appelante de la « société » ont été versés en un seul paiement de 22 000 $, contrairement aux autres types de revenus reçus de l'appelante dans l'année;
+b) L'appelante n'a pas reçu d'autres revenus de ce genre dans l'année d'imposition 2001, donc elle n'a pu confondre ce paiement avec d'autres revenus;
+c) Ces revenus représentent 54.9% du revenu total de l'appelante pour l'année 2001;
+d) L'appelante a produit sa déclaration de revenus par voie électronique pour l'année 2001;
+e) L'appelante n'a pas fourni de facture d'honoraires professionnels à la société pour justifier le montant reçu;
+f) L'appelante a déjà fait l'objet d'une vérification fiscale et doit donc avoir un minimum de connaissances de questions fiscales.
+[5] Je ne mentionne pas le contenu des avis d'appel parce qu'ils avaient été préparés par le comptable et étaient très laconiques.
+[6] Il y a deux points importants dans ces appels, soit la caractérisation des dépenses réclamées par Sogécharles et refusées par le Ministre, et les honoraires de 22 000 $ reçus par madame Lépine.
+[7] Les dépenses de Sogécharles ont été refusées par le Ministre au motif qu'il s'agissait de dépenses personnelles de l'actionnaire principal, monsieur Claude Gagnon. Comme ces dépenses ont été payées par la société Sogécharles, les montants ont été inclus dans le revenu de l'appelant, monsieur Gagnon, à titre d'avantages à l'actionnaire en vertu du paragraphe 15(1) de la Loi de l'impôt sur le revenu (la « Loi » ). La déduction des honoraires payés à madame Lépine a également été refusée. Le montant a été inclus dans le revenu de cette dernière.
+[8] Les dépenses contestées ont été produites dans un cahier de documents produit comme pièce A-1. Il s'agit dans l'ensemble de montants inscrits dans les états de compte relatifs à la carte de crédit personnelle de monsieur Gagnon. Aucune facture n'appuie ces montants réclamés.
+[9] Deux documents écrits ont été produits à la demande de la Cour, l'un expliquant chacune des dépenses réclamées par Sogécharles et l'autre provenant de l'intimée expliquant pourquoi la dépense ne peut pas être accordée.
+[10] Je suis d'avis que le motif principal de refus de l'intimée est raisonnable. De simples entrées dans un état de compte d'une carte de crédit ne suffisent pas pour prouver que les dépenses soient des dépenses d'affaires malgré les affirmations ou explications en ce sens du contribuable.
+[11] Les factures doivent être produites ou une autre preuve acceptable démontrant que l'objet de la dépense était bien pour des fins d'affaires. La seule affirmation du contribuable ne peut suffire. S'il ne s'agissait que de quelques montants auprès d'un commerce où le contribuable fait régulièrement affaire mais il s'agit ici d'une multitude de montants disparates.
+[12] De plus, en ce qui concerne les frais de représentation, trop de dépenses réclamées vu leur montant, ne peuvent normalement être des factures de repas que pour une seule personne et sont dans des restaurants qui ne sont normalement pas non plus des lieux d'invitation pour affaires. Ces affirmations trop nombreuses minent la crédibilité dans l'ensemble du témoignage de l'appelant. (Voir à cet égard Chrabolowski v. R., [2005] 1 C.T.C. 2054.)
+[13] En conclusion, malgré le vaillant travail fait par l'avocat des appelants, je ne peux avoir la conviction, selon la prépondérance de la preuve, que les dépenses réclamées aient été des dépenses d'affaires.
+[14] En ce qui concerne le montant de 22 000 $ payé à l'appelante madame Lépine à titre d'honoraires pour services professionnels, la vérificatrice de l'intimée se fonde, pour refuser le paiement, qu'il n'y a pas eu de la part de madame Lépine une facture. La preuve a toutefois révélé que madame Lépine était très impliquée dans les affaires de son mari au niveau de la gestion des immeubles ou au niveau de leur aménagement paysager. Je suis d'avis que la société Sogécharles était en droit de lui verser des honoraires pour services rendus et que conséquemment elle était en droit de les déduire.
+[15] L'appelante madame Lépine n'a pas inclus ces honoraires dans sa déclaration de revenu. Maintenant elle accepte de le faire et prétend qu'il s'agit d'un oubli et qu'elle se fiait au comptable. Elle conteste l'imposition de la pénalité. Il est difficile de croire qu'elle n'a pas remarqué cette absence de revenu alors qu'il constituait plus de la moitié de son revenu pour cette année. La pénalité doit donc être maintenue.
+[16] Les appels de Sogécharles sont accordés pour permettre à Sogécharles de déduire dans le calcul de son revenu la somme de 22 000 $ versée à madame Lépine. Elle peut aussi déduire de son revenu les dépenses acceptées par l'intimée pour l'essence et pour les timbres.
+[17] En ce qui concerne l'appelant monsieur Gagnon, les sommes payées par Sogécharles et dont la déduction n'a pas été permise, doivent être incluses dans le calcul de son revenu comme avantage conféré à un actionnaire.
+[18] Dans chacun des dossiers, l'imposition de la pénalité en vertu du paragraphe 163(2) de la Loi est conforme aux faits et à la loi.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2007.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2007CCI3
+N º s DES DOSSIERS DE LA COUR : 2005-309(IT)I, 2005-323(TI)I
+et 2005-324(IT)I
+INTITULÉS DES CAUSES : DIANE LÉPINE c. LA REINE
+SOGÉCHARLES LTÉE c. LA REINE
+et CLAUDE GAGNON c. LA REINE
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 15 novembre 2005
+et le 12 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 5 janvier 2007
+COMPARUTIONS :
+Avocats des appelants :
+Me Jacques Côté
+Me Bernard Gaudreau
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants:
+Nom : Me Jacques Côté
+Cabinet : Ogilvy Renault, Avocats
+Québec (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

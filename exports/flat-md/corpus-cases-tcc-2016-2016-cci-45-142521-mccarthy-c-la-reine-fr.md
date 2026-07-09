@@ -1,0 +1,190 @@
+---
+title: "McCarthy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/142521/index.do"
+last_modified: "2016-02-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 45"
+citation2: ""
+neutral_citation: "2016 CCI 45"
+decision_date: "2016-02-15"
+language: "fr"
+item_id: "142521"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3032
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:10:18.049000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04dc5293da612c206c2e547c7c0e78b187cf5f0a962de2448a0e38a2da3acee2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCarthy c. La Reine
+
+- Citation: 2016 CCI 45
+- Decision date: 2016-02-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3032, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCarthy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-02-15
+Référence neutre
+2016 CCI 45
+Numéro de dossier
+2013-1383(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue à Toronto (Ontario), le 11 février 2016.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelant :
+Me Joel Allan Sumner
+Avocates de l’intimée :
+Me H. Annette Evans
+Me Rishma Bhimji
+Me Victoria Iozzo
+ORDONNANCE
+Vu la requête déposée par l’intimée en vue d’obtenir une ordonnance prorogeant le délai prescrit pour contraindre l’appelant à se présenter à l’interrogatoire préalable;
+Et vu les observations des parties;
+Pour les motifs ci-joints, prononcés oralement à l’audience, la Cour ordonne ce qui suit :
+1. L’appelant doit présenter sa liste de documents à l’intimée au plus tard le jeudi 18 février 2016.
+2. L’appelant doit fournir à l’intimée des copies des documents figurant sur sa liste au plus tard le lundi 22 février 2016.
+3. L’interrogatoire préalable de l’appelant doit être réalisé au plus tard le mardi 23 février 2016.
+4. Aux termes de l’article 100 des Règles de la Cour canadienne de l’impôt (procédure générale) et de la procédure no 8 (modifiée), l’avis de consignation, par l’intimée, d’extraits de l’interrogatoire préalable doit être signifié à l’appelant avant 9 h 30 le jeudi 25 février 2016. L’avis de consignation, par l’appelant, d’extraits en guise de contre-preuve doit être signifié à l’intimée avant 8 h 30 le vendredi 26 février 2016.
+Signé à Ottawa, Canada, ce 15e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de novembre 2016
+Mario Lagacé, jurilinguiste
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS D’ORDONNANCE PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs d’ordonnance prononcés de vive voix à l’audience, le 11 février 2016, à Toronto (Ontario). J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté, et pour y apporter des corrections mineures seulement. Je n’y ai fait aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 15e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de novembre 2016
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 45
+Date : 20160215
+Dossier : 2013-1383(IT)G
+ENTRE :
+DOUGLAS MCCARTHY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Requête entendue et décision rendue de vive voix à l’audience
+du 11 février 2016, à Toronto (Ontario).)
+Le juge Boyle
+[1] La date du procès de la présente affaire est fixée au vendredi 26 février 2016.
+[2] J’ordonnerai à l’appelant de présenter sa liste de documents au plus tard le jeudi 18 février 2016, ce qui correspond à l’échéance demandée par Me Sumner. En outre, l’appelant a jusqu’au lundi 22 janvier 2016 pour fournir à l’intimée des copies de tous les documents figurant sur sa liste. J’accueille la requête de l’intimée visant la prolongation, jusqu’au mardi 23 février 2016, du délai prescrit pour conclure l’interrogatoire préalable du contribuable. Il reste donc plusieurs jours avant la date fixée pour l’audience.
+[3] Il s’agit de l’une des affaires comprises dans l’un des ensembles d’appels concernant Fiscal Arbitrators présentés devant la Cour dont j’assure la gestion en remplacement de l’ancien juge responsable de la gestion d’instance, le juge Rip, qui a pris sa retraite l’an dernier.
+[4] L’appel porte également sur une déduction pour les habitants des régions éloignées, à l’égard de laquelle le fardeau de la preuve incombe au contribuable.
+[5] Je me pencherai maintenant sur la demande de l’intimée, sur les motifs pour lesquels elle a été accueillie, et sur les motifs pour lesquels la contestation de l’appelant a été rejetée. L’affaire avait été inscrite au rôle pour être entendue plus tôt. Une ordonnance précédente établissant le calendrier de l’interrogatoire préalable exigeait la conclusion de celui-ci. Le délai avait été prorogé par le précédent juge responsable de la gestion de l’instance et, malgré le fait qu’une date a été fixée pour l’interrogatoire préalable dans le calendrier prescrit dans l’ordonnance prolongeant le délai, le contribuable ne s’est pas présenté.
+[6] L’avocat du contribuable s’est opposé à la requête de l’intimée visant la prorogation du délai pour conclure l’interrogatoire préalable en s’appuyant sur quatre motifs. Le premier argument présenté par Me Sumner est que l’audience, dont la date avait été fixée au 27 novembre 2015, a été ajournée au titre d’une ordonnance rendue par l’administratrice judiciaire. Cette ordonnance a été rendue en réponse à des demandes provenant des deux parties et, juste avant son ordonnance, en réponse à une demande de l’intimée.
+[7] Me Sumner a soutenu que l’administratrice judiciaire se comportait comme un tyran et qu’elle n’avait aucun droit de rendre des ordonnances fixant un calendrier, ni même cette ordonnance d’ajournement. Il a également soutenu que ni la Cour ni le juge en chef n’avaient le pouvoir d’autoriser l’administratrice à rendre ces ordonnances. Me Sumner fait remarquer qu’il n’est pas convaincu qu’une ordonnance qui n’est pas signée par un juge puisse faire l’objet d’un appel devant une cour supérieure.
+[8] Il affirme que, depuis le 27 novembre 2015, l’instance n’a jamais été ajournée adéquatement et que, puisque le fardeau de la preuve concernant les pénalités en litige incombe à l’intimée, le contribuable devrait être réputé avoir déjà eu gain de cause dans l’appel, du moins en ce qui concerne les pénalités.
+[9] La thèse de Me Sumner sur cette question est que, si son appel a déjà été accueilli, le contribuable ne devrait pas avoir à conclure un interrogatoire préalable avant une nouvelle date d’audience.
+[10] Comme la Cour l’a souligné à l’avocat, la Loi sur la Cour canadienne de l’impôt, dûment adoptée par le Parlement, prévoit ce qui suit à l’article 23 :
+23(1) Le juge en chef peut nommer un employé du Service administratif des tribunaux judiciaires à titre d’administrateur judiciaire.
+(2) L’administrateur judiciaire exerce les fonctions non judiciaires que lui délègue le juge en chef, et ce conformément aux instructions données par celui-ci, notamment :
+a) rendre une ordonnance fixant les date, heure et lieu de l’audience, ou celles de son ajournement;
+b) prendre les dispositions nécessaires pour la répartition du travail judiciaire du tribunal.
+[11] Pour ce motif, je rejette la contestation de Me Sumner concernant cette question.
+[12] Le deuxième argument soulevé par l’avocat du contribuable est que le droit de M. McCarthy, en vertu de la Déclaration canadienne des droits, de ne se voir privé de la jouissance de ses biens que par l’application régulière de la loi est bafoué si M. McCarthy est tenu de répondre à des questions dans le cadre d’un interrogatoire préalable.
+[13] Selon l’argument de Me Sumner, le bien dont M. McCarthy se verrait privé serait son droit de ne pas être tenu par la loi de verser de l’argent au gouvernement. Me Sumner soutient que ce droit de M. McCarthy est bafoué si le gouvernement établit une cotisation qui diffère de sa déclaration et que, du fait de cette cotisation, il est obligé de payer la somme ou il devient responsable d’une dette exigible.
+[14] Me Sumner fait valoir qu’étant donné la nature de l’opposition et du processus d’appel en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la Cour canadienne de l’impôt, l’application régulière de la loi n’a aucunement été respectée; M. McCarthy n’a été convoqué à aucune audience avant que l’avis de cotisation ou de nouvelle cotisation ne soit établi à son endroit.
+[15] Me Sumner ne souhaitait pas plaider, aujourd’hui à l’audience, l’invalidité de l’ensemble de la cotisation en raison de la violation de la Déclaration canadienne des droits.
+[16] Après un examen approfondi de la Déclaration canadienne des droits, Me Sumner a indiqué qu’il ne cherchait pas à invoquer l’argument du droit de l’appelant à la jouissance de ses biens en vertu de la Déclaration canadienne des droits pour contester la convocation à l’interrogatoire préalable, mais simplement à approfondir certains aspects des arguments qu’il a avancés concernant la torture et la coercition.
+[17] Le troisième argument avancé par Me Sumner à l’encontre de la convocation à l’interrogatoire préalable est que, dans les cas où Sa Majesté la Reine est partie à l’instance, le fait d’être obligé de se soumettre à un interrogatoire préalable et de fournir des réponses sous serment constitue de la torture au sens du Code criminel du Canada.
+[18] Il soutient qu’il y a torture lorsque Sa Majesté cherche à exercer son droit à un interrogatoire. De l’avis de Me Sumner, les Règles de la Cour, selon lesquelles l’appelant doit fournir des renseignements dans le cadre d’un interrogatoire, sanctionnant la coercition, laquelle constitue de la torture du fait qu’elles provoquent de la souffrance morale chez M. McCarthy et que Sa Majesté la Reine est partie à l’instance et qu’elle se comporte toujours de façon coercitive.
+[19] Dans le même ordre d’idées, il estime que toute ordonnance rendue par la Cour relativement à la réalisation de l’interrogatoire préalable pouvant causer davantage de souffrance morale pour M. McCarthy constitue également de la torture.
+[20] Selon le paragraphe 269.1(4) du Code criminel portant sur la torture, dans toute procédure qui relève de la compétence du Parlement, une déclaration obtenue sous la torture est inadmissible en preuve, sauf à titre de preuve que cette déclaration a été obtenue sous la torture. Me Sumner soutient que cela signifie non seulement que se présenter à l’interrogatoire préalable constituerait de la torture, mais également que ce qui ressortirait de l’interrogatoire serait inadmissible en preuve.
+[21] Je ne suis aucunement convaincu par les arguments de Me Sumner voulant que les processus relatifs aux interrogatoires préalables établis par les Règles et mis en application par la Cour, lesquels processus font partie intégrante des principes de justice naturelle et d’équité procédurale susceptibles d’être appliqués par la Cour et déterminent les procédures à suivre pour assurer une meilleure administration de la justice, constituent de la torture. Je n’ai rien d’autre à ajouter.
+[22] Le quatrième argument avancé par Me Sumner est lié à la torture. Il soutient que le fait d’obliger une personne à se soumettre à un interrogatoire préalable constitue de la coercition en common law. L’avocat du contribuable est d’avis que, s’il y a coercition, la réaction de la personne qui en fait l’objet ne sera pas de nature volontaire. De plus, il soutient que, comme Sa Majesté la Reine agit toujours de façon coercitive, il y a automatiquement coercition lorsqu’elle est partie à une instance. Il conclut donc que les réponses obtenues sous serment lors de l’interrogatoire préalable ne seraient pas volontaires et seraient donc inadmissibles; elles ne seraient pas crédibles puisque le contribuable, son client, pourrait ne pas dire la vérité dans ces circonstances.
+[23] Cet argument est très semblable, mais tout de même différent de l’argument concernant la torture. L’argument n’est pas avancé relativement au fait que les Règles exigent qu’un appelant fournisse une liste de documents ainsi que des copies de ces documents. L’appelant est, en fait, disposé à s’acquitter de ces obligations dans un délai de sept jours. Me Sumner affirme une fois de plus que la Cour agirait de façon coercitive si elle rendait une ordonnance visant à obliger l’appelant à se présenter à l’interrogatoire préalable.
+[24] Je ne suis pas convaincu que la Couronne fait toujours preuve de coercition ni qu’il y a lieu de présumer qu’elle agit toujours de façon coercitive. Les arguments qui m’ont été présentés ne parviennent aucunement à me convaincre que la Couronne a agi ainsi dans l’affaire qui nous occupe.
+[25] Je vais, par conséquent, signer l’ordonnance mentionnée au début des présents motifs visant à obliger l’appelant à fournir une liste de documents et des copies complètes des documents figurant sur cette liste, ainsi qu’à proroger le délai pour conclure les interrogatoires préalables, c’est-à-dire à ordonner au contribuable de se présenter aux interrogatoires préalables conformément aux Règles, comme je l’ai mentionné au début.
+[26] L’ordonnance prévoira également un écourtement du délai prescrit pour la délivrance de l’avis concernant, le cas échéant, les extraits de l’interrogatoire préalable qui seront lus à l’audience en guise de preuve, fixant l’échéance au jour précédant l’audience, soit le jeudi 25 février 2016.
+Signé à Ottawa, Canada, ce 15e jour de février 2016.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 2e jour de novembre 2016
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2016 CCI 45
+Nº DU DOSSIER DE LA COUR :
+2013-1383(IT)G
+INTITULÉ :
+DOUGLAS MCCARTHY c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 février 2016
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 15 février 2016
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Joel Allan Sumner
+Avocates de l’intimée :
+Me H. Annette Evans
+Me Rishma Bhimji
+Me Victoria Iozzo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Me Joel Allan Sumner
+Cabinet :
+Sumner Law
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

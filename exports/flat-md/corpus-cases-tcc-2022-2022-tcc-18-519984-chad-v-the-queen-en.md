@@ -1,0 +1,369 @@
+---
+title: "Chad v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/519984/index.do"
+last_modified: "2022-01-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 18"
+citation2: ""
+neutral_citation: "2022 TCC 18"
+decision_date: "2022-01-21"
+language: "en"
+item_id: "519984"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4431
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:39:05.380000+00:00"
+cases_cited_count: 16
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed8bb1e3c37772897e647f2468d8c715815f0c2cef1dda6aab514b32869585b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chad v. The Queen
+
+- Citation: 2022 TCC 18
+- Decision date: 2022-01-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4431, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-01-21
+Neutral citation
+2022 TCC 18
+File numbers
+2017-1458(IT)G, 2019-526(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2017-1458(IT)G 2019-526(IT)G
+BETWEEN:
+S. ROBERT CHAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motions heard by videoconference on September 2, 2021 at Ottawa, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Representatives:
+Counsel for the Appellant:
+Marie-France Dompierre and
+James Trougakos
+Counsel for the Respondent:
+Charles Camirand,
+Shane Aikat and
+Larissa Benham
+ORDER
+The recitals to this Order are the following:
+A. On June 29, 2021, the Respondent filed:
+(i) a Notice of Motion under section 54 of the Tax Court of Canada Rules (General Procedure) (the “Rules”), for leave to amend the Second Amended Reply in Appeal No. 2017-1458(IT)G; and
+(ii) a Notice of Motion under section 54 of the Rules for leave to amend the Reply in Appeal No. 2019-526(IT)G.
+B. Attached to the Notice of Motion in Appeal No. 2017-1458(IT)G was a draft of the proposed Third Amended Reply (the “Draft Pleading”) for that Appeal, and attached to the Notice of Motion in Appeal No. 2019-526(IT)G was a draft of the proposed Amended Reply for that Appeal.
+C. The Respondent’s Motions were heard on September 2, 2021.
+D. In written Notes and Authorities filed with the Court and in oral submissions during the hearing of the Motions, counsel for the Appellant advised the Court that the Appellant did not oppose the Motion in Appeal No. 2019-526(IT)G. In oral submissions during the hearing of the Motions, counsel for the Respondent advised the Court that the Respondent was not seeking costs in respect of the Motion in Appeal No. 2019-526(IT)G.
+IT IS ORDERED THAT:
+1. The Respondent’s Motion in Appeal No. 2019-526(IT)G is allowed, and the Respondent is granted leave to amend the Reply in that Appeal in accordance with the proposed Amended Reply that was attached to the Notice of Motion in that Appeal, provided that the Amended Reply is filed and served by the Respondent on or before February 15, 2022.
+2. The Respondent’s Motion in Appeal No. 2017-1458(IT)G is allowed, in part, and the Respondent is granted leave to amend the Second Amended Reply in that Appeal as follows:
+(a) by deleting paragraphs 28 and 29 of the Second Amended Reply;
+(b) by revising paragraphs 16, 21, 24, 25, 42.1, 42.2, 42.3, 43 and 45 in the manner set out in the Draft Pleading;
+(c) by inserting new paragraphs 29.1, 29.2, 29.3, 29.4, 29.12 and 29.13, where and as set out in the Draft Pleading; and
+(d) by making the proposed revisions set out on the last two pages of the Draft Pleading;
+provided that the Third Amended Reply is filed and served by the Respondent on or before February 15, 2022.
+3. For greater certainty, leave is not granted to make the other amendments proposed in the Draft Pleading.
+4. As contemplated by subsection 43(1) and section 50 of the Rules, and if the Appellant so desires, the Appellant may file an Answer, provided that such Answer is filed and served no later than March 17, 2022.
+5. As contemplated by sections 81 and 87 of the Rules, the Appellant and the Respondent may each file a supplementary list of documents, so as to list any additional documents that might be used in evidence by the Appellant or the Respondent, as the case may be, to rebut or establish (or to assist in rebutting or establishing) any allegation of fact in the Third Amended Reply, provided that each such supplementary list of documents is filed and served on or before March 31, 2022.
+6. As contemplated by subsection 94(2) of the Rules, the Appellant may examine a knowledgeable current or former officer, servant or employee nominated by the Deputy Attorney General of Canada, and the Respondent may examine the Appellant, provided that such examinations for discovery pertain, and are limited, to the new or revised provisions set out in the Third Amended Reply, provided that such examinations are not repetitive of previous examinations in Appeal No. 2017-1458(IT)G, and provided that such examinations are completed on or before April 15, 2022. If difficulties are encountered by either party in completing the particular examination for discovery by such deadline, by reason of the inavailablilty of the other party or that party’s nominee, the particular party may seek an extension of that deadline. Any undertakings given during an examination for discovery shall be satisfied no later than May 13, 2022.
+7. No costs are awarded in respect of the Motion in Appeal No. 2019-526(IT)G.
+8. Each party shall bear his or her own costs in respect of the Motion in Appeal No. 2017-1458(IT)G.
+Signed at Ottawa, Canada this 21st day of January, 2022.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2022 TCC 18
+Date: 20220121
+Dockets: 2017-1458(IT)G
+2019-526(IT)G
+BETWEEN:
+S. ROBERT CHAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons relate to two Motions by the Respondent for Orders granting leave, under section 54 of the Tax Court of Canada Rules (General Procedure) (the “Rules”), to amend the Second Amended Reply in Appeal No. 2017-1458(IT)G (“Chad I”) and the Reply in Appeal No. 2019-526(IT)G (“Chad II”). The Notices of Motion in respect of the two Motions were filed on June 29, 2021. Attached to the Notice of Motion in Chad I, was a draft of the Respondent’s proposed Third Amended Reply (the “Draft Pleading”). Attached to the Notice of Motion in Chad II, was a draft of the Respondent’s proposed Amended Reply.
+II. BACKGROUND
+A. No Opposition in Chad II
+[2] On August 31, 2021, counsel for the Appellant filed with the Court a copy of the Appellant’s Notes and Authorities, which were dated the same day. In the preamble of that document, counsel for the Appellant stated that the Appellant did not oppose the Motion in Chad II. At the hearing, counsel for the Appellant confirmed that position. [1]
+B. Procedural History
+1. Chad I
+[3] In January 2021, I heard a different Motion in respect of Chad I. A detailed summary of the procedural history of Chad I is set out in my reasons for the Order that I issued in respect of that Motion. [2] An abbreviated procedural history of Chad I includes the following steps:
+(a) On March 28, 2017, the Appellant filed a Notice of Appeal.
+(b) On June 12, 2017, the Respondent filed a Reply.
+(c) On August 4, 2017, the Respondent filed her list of documents.
+(d) The Appellant filed his list of documents with effect as of July 3, 2018.
+(e) On April 16-18, 2018, the Appellant and the Respondent (the “Parties”) conducted examinations for discovery.
+(f) On July 23, 2018, the Parties provided answers to undertakings.
+(g) On November 14-15, 2018, the Parties provided answers to follow-up questions.
+(h) On April 10, 2019, an Order was issued, scheduling the hearing of this Appeal to commence on January 27, 2020, for an estimated duration of five days.
+(i) On September 13, 2019, the Parties filed a joint request to adjourn the scheduled hearing.
+(j) By letter dated September 20, 2019 and Order dated September 23, 2019, the hearing of this Appeal was rescheduled to commence on June 22, 2020, for an estimated duration of seven days.
+(k) On May 25, 2020, the hearing of this Appeal was adjourned due to the COVID-19 pandemic.
+(l) On July 29, 2020, with the consent of the Appellant, the Respondent filed and served an Amended Reply.
+(m) By Order dated July 30, 2020, the hearing of this Appeal was rescheduled to commence on February 16, 2021, for a duration of seven days.
+(n) On October 8, 2020, the Appellant filed and served an Amended Notice of Appeal.
+(o) On November 16, 2020, the Respondent filed and served the Second Amended Reply.
+(p) On December 21, 2020, the Appellant filed and served a Fresh as Amended Notice of Appeal.
+(q) By Order dated February 1, 2021, the hearing of this Appeal, which had been scheduled to commence on February 16, 2021, was adjourned sine die due to the COVID-19 pandemic. [3]
+[4] The above abbreviated procedural history of Chad I does not show the various Motions that have been made by the Parties during the course of this Appeal. By my count, between July 29, 2020 and June 29, 2021, the Appellant, the Respondent or both the Appellant and the Respondent jointly have filed eight Notices of Motion. The number of recent Motions is concerning, particularly as this Appeal was originally scheduled for the hearing (i.e., the trial) to commence on January 27, 2020, then rescheduled to begin on June 22, 2020, and subsequently rescheduled to commence on February 16, 2021, only to be adjourned again, [4] this time due to the COVID-19 pandemic.
+2. Chad II
+[5] Although the Appellant does not oppose the proposed amendment of the Respondent’s Reply in Chad II, some of the steps and pleadings in respect of that Appeal are relevant to the resolution of the Motion in Chad I. For the purposes of these Reasons, the relevant steps in the procedural history of Chad II are the following:
+(a) On February 4, 2019, the Appellant filed a Notice of Appeal.
+(b) On May 27, 2019, the Respondent filed a Reply.
+(c) On June 25, 2019, the Appellant filed an Answer.
+Several provisions of the Reply filed on May 27, 2019 in respect of Chad II will be referenced below.
+III. ANALYSIS
+A. Rule 54 and Relevant Jurisprudence
+[6] Section 54 of the Rules provides that, after the close of pleadings, a pleading may be amended by the party which filed it, either with the consent of all the other parties or with leave of the Court.
+[7] In determining whether the Court should grant leave to amend a pleading, there are various factors that the Court should consider. A frequently cited statement of those factors is set out in Canderel, as follows:
+With respect to amendments, it may be stated … that while it is impossible to enumerate all the factors that a judge must take into consideration in determining whether it is just, in a given case, to authorize an amendment, the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties. Provided, notably, that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice. [5]
+[8] The Federal Court of Appeal recently reiterated the above principle, as follows:
+The controlling principle is that an amendment should be allowed at any stage of an action if it assists in determining the real questions in controversy between the parties, provided it would not result in an injustice not compensable in costs and that it would serve the interests of justice. A court should give significant consideration to amendments which further the ability of the trial court to determine the questions in controversy…. [6]
+[9] The above statements indicate that, in determining whether to grant leave to amend a pleading, a judge should, at a minimum, consider the following three questions, each of which must be satisfied:
+(a) Would the proposed amendment assist the Court in determining the real questions in controversy between the parties?
+(b) Would it be just to authorize the proposed amendment, or would the allowance of the proposed amendment result in an injustice to the other party not capable of being compensated by an award of costs?
+(c) Would the allowance of the proposed amendment serve the interests of justice?
+[10] For the purposes of these Reasons, the third factor listed above, i.e., serving the interests of justice, is particularly significant. In Pomeroy, the Federal Court of Appeal indicated that the question of whether a proposed amendment will further the interests of justice is an over-arching criterion. [7]
+[11] Concerning the same factor, in Continental Bank Leasing, Justice Bowman (as he then was) stated:
+In the cases in the courts of Ontario and of British Columbia to which I was referred a number of tests have been developed— … whether there is a triable issue raised by an amendment … and whether the other party would suffer a prejudice not compensable in costs. Although I find that these tests have been met[,] I prefer to put the matter on a broader basis: whether it is more consonant with the interests of justice that the … amendment be permitted or that it be denied. The tests mentioned in cases in other courts are of course helpful but other factors should also be emphasized, including the timeliness of the motion to amend … , the extent to which the proposed amendments would delay the expeditious trial of the matter, the extent to which a position taken originally by one party has led another party to follow a course of action in the litigation which it would be difficult or impossible to alter and whether the amendments sought will facilitate the Court’s consideration of the true substance of the dispute on its merits. No single factor predominates nor is its presence or absence necessarily determinative. All must be assigned their proper weight in the context of the particular case. Ultimately it boils down to a consideration of simple fairness, common sense and the interest that the courts have that justice be done. [8] [Emphasis added.]
+[12] The burden on a party seeking to amend its pleading is “heavier when the amendments at issue purport to withdraw substantial admissions and would result in a radical change in the nature of the questions in controversy.” [9] That is the situation here.
+[13] In Ketteman v. Hansel Properties, Lord Griffiths stated the following:
+Whether an amendment should be granted is a matter for the discretion of the trial judge and he should be guided in the exercise of the discretion by his assessment of where justice lies. Many and diverse factors will bear upon the exercise of this discretion. I do not think it possible to enumerate them all or wise to attempt to do so. But justice cannot always be measured in terms of money and in my view a judge is entitled to weigh in the balance the strain the litigation imposes on litigants, particularly if they are personal litigants rather than business corporations, the anxieties occasioned by facing new issues, the raising of false hopes, and the legitimate expectation that the trial will determine the issues one way or the other. [10]
+B. Classification of Proposed Amendments
+[14] For the purposes of these Reasons, I have classified the Respondent’s proposed amendments into four groups, which may be described as follows:
+(a) amendments relating to a tax-shelter argument;
+(b) amendments relating to a window-dressing argument;
+(c) amendments relating to a general anti-avoidance rule (“GAAR”) argument; and
+(d) amendments relating to other arguments and provisions.
+[15] While some of the proposed amendments relate to only a single argument, other amendments relate to several arguments and thus may fit into more than one of the above categories.
+[16] At the hearing of the Respondent’s Motions, the majority of the time was spent discussing the amendments relating to the tax-shelter argument and the window-dressing argument.
+C. Tax-Shelter Argument
+1. Statements by Counsel for the Respondent
+[17] The Respondent has alleged that the Appellant’s participation in certain foreign currency trades (the “Trades”) in 2011 related to a tax shelter, as defined in section 237.1 of the Income Tax Act (the “Act”). [11] For the purposes of the hearing of a different Motion in January 2021, in which the Appellant sought to strike out certain provisions of the Respondent’s Second Amended Reply, five of the assumptions made by the Minister, as listed in paragraph 15 of the Second Amended Reply, were grouped together and were described as relating to the tax-shelter argument. In the context of that argument, the most significant of those five subparagraphs is subparagraph 15(iii), which reads as follows:
+The promoters neither applied for nor obtained a tax shelter identification number for the Foreign Exchange Straddle Loss….
+[18] At the hearing of the Motion in January, counsel for the Respondent advised that the Respondent would not rely on the tax-shelter argument at the trial of this Appeal and that the Respondent could live with subparagraph 15(iii) being struck out. However, counsel for the Respondent submitted that the other four subparagraphs that were grouped together with subparagraph 15(iii) should not be struck out, as they also related to the Respondent’s arguments concerning sham and the GAAR. Notwithstanding the representation made by counsel for the Respondent at the hearing in January, the Respondent subsequently brought this Motion for the purpose of advancing the tax-shelter argument.
+[19] To provide additional background, we should consider the following exchange between counsel, which occurred at the examination for discovery of the Respondent’s nominee on April 18, 2018:
+[Counsel for the Appellant, addressing counsel for the Respondent]: Ms. …, is it the Crown’s position that it is proceeding … with the tax-shelter allegation and argument in connection with Mr. Chad’s 2011 tax year?
+[Counsel for the Respondent]: At present, the reply does not contain any reasons relied on in relation to the tax-shelter position, and that is consistent with our instructions at the time of drafting the reply, is that we have not advanced that position. We do have assumptions of fact related to the tax-shelter position because, as you will be aware from the information conveyed to Mr. Chad during the audit, that was an aspect of the assessing position, the tax-shelter position. However -- and because we made assumptions -- the Minister made assumptions relating to the tax-shelter position, those are, of course, listed as assumptions, but the legal position as identified in the reply does not contain any position advanced in relation to the tax-shelter position. If that changes, we, of course, will let you know, and if there’s any requirement to advance the position, it would require an amendment to the reply, in our view. [12]
+[20] Subsequent to the examination for discovery on April 18, 2018, the Respondent did not advise of a change in her positon, nor did she endeavour to make an amendment to add grounds or reasons relied on in relation to the tax-shelter argument, until June 29, 2021, when the notice of this Motion was filed.
+[21] At the hearing of this Motion on September 2, 2021, I expressed concern about the representation that had been made by counsel for the Respondent at the hearing of the Motion on January 28, 2021 to the effect that the Respondent would not rely on the tax-shelter argument at trial. Counsel for the Respondent stated that the representation given in January was in the context of a pending trial, which was then scheduled to begin on February 16, 2021. At the hearing of this Motion on September 2, 2021, counsel for the Respondent took the position that, once the trial was postponed due to the pandemic, the Respondent was no longer bound by the representation made at the January hearing.
+[22] The possibility of the trial being postponed due to the pandemic was discussed at the commencement of the hearing on January 27, 2021, as indicated by this excerpt from the transcript of that hearing:
+[The Court]: … I’ve had several conversations with Chief Justice Rossiter about this and other matters. He is very concerned about the health and safety, not only of the staff, and other members of the Court, including the Judges, but also the parties themselves, the witnesses, and their counsel.
+… [H]e is monitoring the Covid-19 situation very closely, and … you’re aware that he’s now made two cancellations of sittings since late November, and the current cancellation is … set to expire the Thursday before this trial is supposed to begin.… [A]s matters now stand officially, the Court will resume sitting ... on the first day of this trial. However, the Chief Justice has told me that he will continue to monitor the Covid-19 situation.
+In addition, he’s getting instructions himself from Treasury Board concerning what the government as a whole should be doing in terms of protecting its employees and trying to slow the spread of the virus. He has indicated that either late this week, or [sometime] next week, he will make a decision as to whether it is safe to resume hearings in the middle of February or not…. [A]s things stand officially, we will be going ahead as scheduled, but he is continuing to monitor that[,] and there is a chance that he will decide that it is not yet safe to do so.
+… [T]here is that little element of uncertainty hanging out there. I have my hotel booked in Calgary. I’m planning on being there. But at this point in time, I do not have 100 percent certainty of that. [13]
+Thus, I do not accept the Respondent’s submission that the representations made by counsel for the Respondent on January 28, 2021 should be construed as being limited to a situation premised on the trial commencing on February 16, 2021.
+[23] At the conclusion of the first day of the hearing of the Motion in January, it became clear that both the Appellant and I were desirous of knowing the Respondent’s position in respect of the tax-shelter argument and another argument relating to a capital loss. [14] The Appellant’s desire and my desire for such clarification by the Respondent is illustrated by the following comments made on January 27, 2021:
+[Counsel for the Appellant]: There are two different issues that have been raised in the reply, which at various points the Crown said they were not relying on anymore. One was a completely discrete issue which had to do with capital losses that were incurred. And the Crown agreed with the appellant in a letter that was sent to the Court, so … there is a letter that was filed in the Court a couple years ago already, saying that essentially, now that the appellant had provided the Crown the relevant documents, they were no longer opposing that and they all agreed that the capital loss issue was now off the table. That’s number one.
+And number two, the question of the tax shelter argument, which was an argument potentially used to deny the trading losses, but what you’ll note is that in the reply there are some assumptions that relate to a tax shelter argument. In the statutory provisions relied on, there is a reference to 237.1, which is the tax shelter provision, but in the … grounds relied on there is not [a] statement or no allegation that the losses should be denied as a tax shelter.
+And during the discovery in 2018, the Crown acknowledged that and said, yes, that’s correct, we are not currently relying on the tax shelter argument, and if we ever decide to do that, we agree that we would have to amend the Notice of Appeal. And obviously, they have not done so until now.
+So again, whether we strike these parts that are not being relied on, or whether we’re just on the same page that they’re not being relied on, would be the same for us. And I’ll be very honest, Your Honour, we’ve tried to avoid this problem earlier on, because we did sen[d] the Crown a note asking if there were any parts of our motion that they consented to, because we said, look, let’s see if we can just agree on these things. And the Crown said, no. The Crown does not agree of [sic] our motion, which makes us wonder what does that mean?
+Do they somehow think that at trial they are going to pull out the capital loss argument? Do they somehow think that at trial, in the middle of trial, they are going to ask to amend ... their reply to raise a tax shelter argument? That’s what we wanted to avoid.
+So again, whether it’s technically struck, or not technically struck is of less consequence than us all being on the same page of what are the arguments we have to deal with. If the Crown will clearly say today, no, we are not dealing with the capital loss argument. No, we are not relying on the tax shelter argument. Then we can all go home. To the extent the Crown somehow wants to equivocate and claim that they are somehow still entitled to rely on it, then we have a bigger problem.
+So again, I think a lot of the exercise for today and for tomorrow will just be to have the Crown clearly state its position on the merits of these things. That’s all we’re really after, and that will make everyone’s job easier. Of course, it makes a big difference to us to know that we need to plan for a trial where we’re going to have to address tax-shelter or not. That makes a huge difference….
+[The Court]: … I … concur with your suggestion that we invite the Crown to comment on these two abandoned arguments. We’ll let them address that tomorrow.… I too would like to know before the trial starts whether those two arguments are going to be something that I need to prepare for or whether they are now off the table.…
+… I have faith in the Crown that if they’ve determined they are not going to pursue a particular argument, they will let us know.… [We] will invite them tomorrow to let us know [w]hat their position is on the capital loss argument and the tax shelter argument…. [15]
+[24] It was in the context of the above circumstances that counsel for the Respondent stated the following on the second day of the hearing, i.e., January 28, 2021:
+[Counsel for the Respondent]: … Now, the fifth issue, Your Honour, brought forward by the Appellant deals with two arguments of the Respondent. One is the issue concerning a capital loss claim by the Appellant, and another is the tax shelter argument.
+On the issue of the capital loss, the Respondent, as indicated previously, is conceding on the issue, and we intend to file a partial consent to judgement on it….
+On the tax shelter argument, Your Honour, we will not be relying on this argument at trial. If the Court is inclined to strike something here on this, we can live with 15 triple I [i.e., subparagraph 15(iii)] being struck….
+… I will, however, state very clearly that the Respondent will be relying on the remainder of the assumptions which the Appellant is seeking to have struck, either for the sham argument or the GAAR argument. [16]
+… [T]hese remaining assumptions dealing with the promotion of this tax avoidance scheme are very relevant to the sham argument and the GAAR argument….
+… In point of fact, in our view, they are relevant and we will be relying on them for the sham and GAAR argument, so we would reiterate that they should stay in. Frankly, we think everything should stay in, but we can live with the one assumption at 15 triple I being struck if Your Honour feels that that’s necessary. [17]
+And finally, on the issue of the capital loss and the tax shelter arguments, we do not intend to proceed on these. We will file a mutually-acceptable consent to judgement on the capital loss issue. But we still intend, Your Honour, to rely on all of the assumptions with the exception of paragraph 15 triple I.
+And finally, Your Honour, as we mentioned, we do believe that the assumptions should stay as forming a historical basis of the assessment, but if Your Honour is inclined to get rid of something we can live with 15 triple I being excised. [18] [Emphasis added.]
+2. Canderel Factors
+[25] The above-quoted statements by counsel for the Respondent on January 28, 2021 suggest that the tax-shelter argument was not, at least then, one of the real questions in controversy between the parties. During the hearing of this Motion, the Crown did not advise the Court of any additional facts, new-found evidence or other circumstances that warrant the elevation of the tax-shelter argument to the status of a real question in controversy.
+[26] I do not propose to dwell on the second Canderel factor, as I anticipate that an award of costs could compensate for any inconvenience or additional expense to which the Appellant might be put (for instance, the cost of additional examinations for discovery) if the proposed amendments were to be permitted. Rather, I will focus below on the third Canderel factor, i.e., serving the interests of justice.
+3. Observations Concerning Counsel’s Representation
+[27] When counsel for the Respondent made the above statements at the hearing on January 28, 2021, I understood those statements to be unequivocal. I did not consider those statements to be limited to the context of an interlocutory proceeding heard two or three weeks before the then-anticipated commencement of the trial. Even though the possibility of the trial being postponed due to the pandemic had been discussed on the previous day, counsel for the Respondent did not qualify his statements so as to indicate that they would no longer have effect if the trial were to be postponed.
+[28] While the statement made during the examination for discovery on April 18, 2018, by counsel for the Respondent to counsel for the Appellant, was qualified by an indication that the Respondent might change her position, in which case the Respondent would so advise the Appellant, the statements made during the hearing on January 28, 2021 by counsel for the Respondent to the Court were unqualified and unequivocal.
+[29] On January 28, 2021, I understood that one of the reasons for which counsel for the Respondent made the above statements was to persuade me not to strike out subparagraphs 15(eee), 15(fff), 15(hhh), 15(iii) and 15(jjj) of the Second Amended Reply. I understood counsel for the Respondent, in essence, to imply that I could and should leave those five subparagraphs in the Second Amended Reply because the Respondent would not be advancing the tax-shelter argument at trial. I took counsel for the Respondent at his word.
+[30] Perhaps I am being old fashioned, but it seems to me that, if a particular counsel makes a representation to the Court as to a position that will be taken, or not taken, counsel should consider himself or herself obligated to adhere to that representation, at least until such time as counsel explains why previously unforeseen intervening circumstances necessitate a change in the position and the Court permits counsel to withdraw the representation.
+[31] After making the representation on January 28, 2021 that the Respondent would not be relying on the tax-shelter argument, counsel did not communicate with the Court to advise of any necessity to withdraw the representation. At the hearing on September 2, 2021, counsel for the Respondent did not offer any explanation of changed circumstances or of the reason for which the Respondent had now decided to advance the tax-shelter argument. Rather, counsel for the Respondent took the position that the representation on January 28, 2021 had been contextual, i.e., it was binding only so long as the trial was scheduled to commence on February 16, 2021, such that the Respondent was no longer bound by that representation once the trial was adjourned sine die. Counsel for the Respondent suggested that the representation made on January 28, 2021 was akin to a pleading, such that it could be readily withdrawn or amended.
+[32] In my view, there is a distinction between a pleading and a representation made by counsel to the Court, particularly in circumstances where counsel expects the Court to rely on that representation in deciding a matter before it. The hearing on January 27 and 28, 2021 related to the Appellant’s Motion to strike out numerous provisions of the Respondent’s Second Amended Reply. I understood counsel for the Respondent to say that those provisions should not be struck out for various reasons, one of which was that the tax-shelter assumptions would not disadvantage the Appellant because the Respondent did not intend to rely on the tax-shelter argument at trial. In other words, that particular representation was made to the Court with the hope and expectation that I would take it into consideration in deciding not to strike out the provisions in question.
+[33] Counsel for the Appellant submitted that the statement made by counsel for the Respondent on January 28, 2021, to the effect that the Respondent would not rely on the tax-shelter argument, was an undertaking given by counsel, and, as such, was subject to the usual ethical rules relating to undertakings given by a lawyer. Counsel for the Appellant referred me to the Rules of Professional Conduct of the Law Society of Ontario and the Law Society of Alberta, which confirm that a lawyer is required to fulfill every undertaking given. [19] To constitute an undertaking given by a lawyer, a particular statement need not use the word undertake or be described as an undertaking. [20] For the purposes of these Reasons, I do not need to determine whether the statements by counsel for the Respondent were an undertaking in the strict legal sense of the word. In my view, it is sufficient simply to characterize the statements as a representation made by counsel to the Court.
+[34] These reasons should not be interpreted as stating that a party may never resile from a representation made to the Court. However, where a party desires to resile from a previously stated position, the party should provide an explanation as to the intervening and previously unexpected circumstances that occurred after the representation had been made and that require the party to change its position. That was not done here.
+4. Case-Management Principles
+[35] Where a party makes a representation to the court in a pre-trial conference or other case management setting, it is appropriate to hold the party to that representation. [21] In other words, a party should not say one thing to the Court and then do another. [22] The following principle, as stated in the Direct Source case, is applicable here:
+It is simply unacceptable for a party to say one thing to the Court, and then do the opposite, without providing a reasonable explanation for its change of heart. From a case management point of view, such tactics make it difficult, if not impossible, to ensure an orderly progression of the action, and must be discouraged. [23]
+[36] The principles summarized in the preceding paragraph were enunciated in cases relating to representations made by counsel in a pre-trial memorandum or a pre-trial conference in proceedings in the Federal Court. While that is not the present situation, it is my view that those principles are nevertheless applicable here, given that the statements by counsel for the Respondent were made during the course of an interlocutory proceeding, when the litigation was well advanced, and after counsel for the Appellant had requested that the Respondent clarify her position, so as to enable the Appellant to prepare for the trial. Furthermore, the statements were made after the Court had invited the Respondent to confirm her position in respect of the tax-shelter argument. [24]
+[37] The Appellant and the Court were given to understand that the tax-shelter argument was not one of the questions in controversy in Chad I. To allow the tax-shelter argument to be raised at this stage of the litigation, with its “consequent strain and anxiety,” [25] would not serve the interests of justice. After a party has repeatedly told the other party, and has made a representation to the Court, that it would not take a particular position, it does not serve the interests of justice to allow the party to amend its pleading so as to advance that position, where the party has not identified any new facts, circumstances or evidence that explain the reason for the change of position. In many situations, a party is entitled to change its position, but, as explained in Wenzel Downhole Tools, Direct Source and Nautical Data, to obtain leave to do so, it is incumbent on the party to provide a valid explanation for its reversal of position, such as the uncovering of new facts or other compelling circumstances that were not known when the initial position was stated. [26] In the absence of any new facts or other compelling circumstances that may have arisen after a representation was made to the Court, a change of heart does not justify reneging on the representation. [27]
+5. A Lawyer’s Duty to the Court
+[38] In Rondel v. Worsley, the House of Lords stated, “Counsel must not mislead the court….” [28] As well, the House of Lords said that the duty undertaken by counsel “is one in which the client, the court and the public have an interest because the due and proper and orderly administration of justice is a matter of vital public concern.” [29] Accordingly, “To a certain extent every advocate is an amicus curiae.” [30]
+[39] The Supreme Court of Canada has observed:
+For all lawyers their reputation is of paramount importance. Clients depend on the integrity of lawyers, as do colleagues. Judges rely upon commitments and undertakings given to them by counsel. Our whole system of administration of justice depends upon counsel’s reputation for integrity. [31] [Emphasis added.]
+[40] As an officer of the Court, counsel has a duty both to his or her client and to the Court. Counsel’s duty to the Court is paramount. Part of that duty is to ensure that the Court is not misled. [32]
+[41] I view the statements made by counsel for the Respondent at the hearing on January 28, 2021, to the effect that the Respondent would not rely on the tax-shelter argument at trial, as being a representation or a commitment made to the Court. In the absence of a reasonable explanation as to why counsel for the Respondent now desires to resile from that representation or commitment, I am reluctant to grant leave to the Respondent to amend the Second Amended Reply, so as to add the proposed amendments relating to the tax-shelter argument.
+6. Previous Opportunity to Amend
+[42] In the Draft Pleading, the Respondent proposes to include in the Third Amended Reply the following provision:
+39.1 In the further alternative, the Minister properly reassessed the appellant to deny the loss claimed in respect of the Foreign Exchange Transactions contemplated by the Straddle Agreement and their use in claiming a deduction in computing income in 2011, because the loss claimed in respect of the Foreign Exchange Transactions in 2011 is claimed by the appellant in respect of the Straddle Agreement, which is a “tax shelter” as defined in subsection 237.1(1) of the Income Tax Act in respect of which no tax shelter number was issued. The appellant did not file a prescribed form including the identification number of the tax shelter, and therefore subsection 237.1(6) of the Income Tax Act applies to deny the deduction of any part of the loss claimed in respect of the Straddle Agreement.
+[43] While the above paragraph 39.1 would be a new provision in the Respondent’s pleading in Chad I, it would not be the first time that the Respondent has included such a provision in a pleading. In the Reply that the Respondent filed in Chad II, the following provision appeared as paragraph 51:
+51. In the further alternative, the Minister properly reassessed the appellant to deny the losses claimed in respect of the Foreign Exchange Transactions and their use in claiming a deduction in computing income in 2012 and 2013 because the losses claimed in respect of the Foreign Exchange Transactions in 2012 and 2013 are claimed by the appellant in respect of the L Investments and L Investments is a “tax shelter” as defined in subsection 237.1(1) of the Income Tax Act in respect of which the promoter did not file a prescribed form including the identification number of the tax shelter, and therefore subsection 237.1(6) of the Income Tax Act applies to deny the deduction [of] any part of the losses claimed in respect of L Investments in 2012 and 2013.
+[44] The above paragraph 51 was pleaded by the Respondent in Chad II on May 27, 2019, which was approximately 14 months before the Respondent filed the Amended Reply in Chad I on July 29, 2020, and approximately 17 months before the Respondent filed the Second Amended Reply in Chad I on November 16, 2020. Thus, the content of paragraph 51 of the Reply in Chad II was presumably known to the Respondent when she filed both the Amended Reply and the Second Amended Reply in Chad I, but she declined to include a similar provision in either of those pleadings. Rather, she waited until June 29, 2021 (more than two years after the Reply was filed in Chad II), before endeavouring to plead such a provision in Chad I.
+[45] Although the Respondent was aware of the tax-shelter argument and had developed language to express that argument, as evidenced by paragraph 51 of the Reply in Chad II, the Respondent passed up the opportunity to plead proposed paragraph 39.1 in Chad I when she filed the Amended Reply in Chad I on July 29, 2020, and when she filed the Second Amended Reply in Chad I on November 16, 2020. Given that the Respondent had two previous opportunities to plead proposed paragraph 39.1, it is contrary to the interests of justice to permit the Respondent to wait until some later date, when the litigation was more advanced and when it was reasonable to assume that, as the Respondent had not included proposed paragraph 39.1 in the previous two amendments, she did not intend to advance that position.
+7. Timeliness
+[46] As indicated in Continental Bank Leasing, one of the factors to be considered by the Court, when determining whether a proposed amendment would serve the interests of justice, is the timeliness of the motion to amend. [33] Given that the Respondent had included paragraph 51 in her Reply in Chad II, which was filed on May 27, 2019, the current Motion to amend (so as to add proposed paragraph 39.1 and other provisions), notice of which was filed June 29, 2021, was anything but timely. In the context of determining whether a proposed amendment would serve the interests of justice, this point was expressed in Canderel as follows:
+As regards interests of justice, it may be said that the court and the parties have a legitimate expectation in the litigation coming to an end and delays and consequent strain and anxiety imposed on all concerned by a late amendment raising a new issue may well be seen as frustrating the course of justice. [34] [Emphasis added.]
+[47] There is some similarity between the current situation and the situation in Drouin, which dealt with a situation where the Crown sought to amend its reply so as to add a tax-shelter argument some two years after the Crown was aware of that argument. In dismissing the Crown’s motion for leave to amend, Justice Lamarre (as she then was) stated:
+[30] In my opinion, the respondent’s motion came much too late in the proceedings, given the fact that the auditor would have based her 2009 assessment on the issue of the tax shelter, among other things, and that, for reasons of his own, counsel for the respondent did not see fit to raise this argument in the initial reply filed in March 2011. Knowing that the appellant informed the Court throughout the case management process that he wanted to proceed quickly with this case, the respondent had to expect that the appellant would object to the amendment proposed after the examinations for discovery were completed, when everything had been organized so that the hearing could proceed as quickly as possible based on the availability of the Court. Allowing the motion would have almost inevitably delayed the expeditious hearing of the case. The course of action taken by the appellant was predicated on the argument originally adopted by the respondent. In my view, it is not acceptable to impose a new course of action on the opposing party when the party proposing the amendment could have done so much earlier. In view of the jurisprudence relied upon, I find in the circumstances that allowing the motion would not serve the interests of justice because, in my opinion, it would constitute an abuse of Court procedures, which I cannot endorse. [35] [Emphasis added.]
+In my view, the italicized statement in the above quotation is also applicable here.
+8. Decision
+[48] To summarize, the Respondent has had three opportunities to advance the tax-shelter argument:
+(a) In preparing her initial Reply (which was filed on June 12, 2017), although she included several tax-shelter assumptions, the Respondent chose not to advance the tax-shelter argument per se and refrained from mentioning that argument in the portion of the Reply where she set out the grounds on which she was relying.
+(b) When the Respondent drafted the Amended Reply (which was filed on July 29, 2020), the Respondent chose not to include an amendment so as to advance the tax-shelter argument.
+(c) When the Respondent prepared her Second Amended Reply (which was filed on November 16, 2020), the Respondent again declined to include an amendment that would have permitted her to advance the tax-shelter argument.
+[49] Furthermore, the Respondent has thrice indicated to the Appellant that she was not advancing the tax-shelter argument:
+(a) By not including the tax-shelter argument in the relied-upon grounds set out in her initial Reply, the Respondent implied to the Appellant that the tax-shelter argument was not being advanced. [36]
+(b) At the examination for discovery conducted on April 18, 2018, counsel for the Respondent confirmed that “the legal position as identified in the reply does not contain any position advanced in relation to the tax-shelter position.” [37]
+(c) During the hearing of the Motion on January 28, 2021, counsel for the Respondent stated, “On the tax shelter argument, Your Honour, we will not be relying on this argument at trial…. And finally, on the issue of the capital loss and the tax shelter arguments, we do not intend to proceed on these.” [38]
+On the third of the above three occasions, the Respondent’s representation was made to the Court, as well as to the Appellant.
+[50] In view of the above circumstances, it would not be in the interests of justice to allow the Respondent to amend the Second Amended Reply so as to advance the tax-shelter argument, as she declined on three previous occasions to include such a provision in her pleading, and she has twice previously stated expressly that she was not advancing the tax-shelter argument. Furthermore, the Respondent has failed to provide any explanation of the facts, evidence or circumstances that prompted her to change her position.
+[51] In conclusion, given the representation made by counsel for the Respondent that the Respondent would not rely on the tax-shelter argument at trial, and given the lack of a reasonable explanation for her changed position and the lack of timeliness in moving to amend her pleading, I have decided not to grant leave to the Respondent to amend the Second Amended Reply so as to add provisions relating to the tax-shelter argument.
+D. Window-Dressing Argument [39]
+[52] The Draft Pleading contains various provisions relating to a window-dressing argument that the Respondent would like to advance in Chad I. Although the Second Amended Reply makes no mention of the window-dressing argument, this is not a novel idea for the Respondent, as the Reply filed by the Respondent on May 27, 2021 in Chad II contains such an argument. Paragraphs 31 and 46 of that Reply read as follows:
+31. The Foreign Exchange Transactions were window dressing to give the appearance that the L Investments and the appellant had a source of income or loss….
+46. The Foreign Exchange Transactions were window dressing to give the illusion that the purported partnership and the appellant had a source of income.
+[53] The principal window-dressing provisions that the Respondent proposes to include in the Third Amended Reply are the following:
+25.1 The Foreign Exchange Transactions were window dressing to give the appearance that the L Investments and the appellant had a source of income or loss….
+35.1 The Foreign Exchange Transactions were window dressing to give the illusion that the purported partnership and the appellant had a source of income.
+[54] Paragraphs 25.1 and 35.1 of the Draft Pleading in Chad I are identical to paragraphs 31 and 46 respectively of the Reply in Chad II. Given that the Respondent was well aware of the window-dressing argument and had already drafted provisions for her Reply in Chad II in May 2019, it is troubling that the Respondent waited until June 2021 to attempt to introduce the identical provisions into her pleading in Chad I.
+[55] The proposed amendments to introduce the window-dressing argument raise concerns similar to some of the concerns in respect of the proposal to introduce the tax-shelter argument, namely, that the Respondent was well aware of the window-dressing argument at least two years ago and had ample opportunity (when she filed the Amended Reply and the Second Amended Reply) to introduce the window-dressing argument at that time. As was stated in Drouin, “it is not acceptable to impose a new course of action on the opposing party when the party proposing the amendment could have done so much earlier.” [40] For reasons similar to those expressed above, [41] I am unwilling to grant leave to the Respondent to include the window-dressing provisions in the Third Amended Reply.
+E. GAAR Argument
+[56] Although the Appellant’s Notes and Authorities in opposition to the Respondent’s Motion focused primarily on the tax-shelter argument and the window-dressing argument, and did not mention the GAAR argument specifically, at the hearing of this Motion, counsel for the Appellant did voice opposition to the proposed amendments in respect of the GAAR argument.
+[57] The GAAR argument was raised in both the “assumed facts” portion and the “grounds relied on” portion of the initial Reply filed by the Respondent in Chad I; therefore, it is not a new argument. The proposed provisions to be included in the Third Amended Reply in respect of the GAAR argument are designed to plead additional material facts, to refine the wording of other material facts already pleaded, [42] or to refine the wording of grounds relied on by the Respondent in respect of the GAAR argument.
+[58] I do not view the proposed amendments in respect of the GAAR argument as resulting in an injustice to the Appellant or as failing to serve the interests of justice. [43] Accordingly, leave is granted to the Respondent to amend the Second Amended Reply to the extent that the amendments pertain to the GAAR argument. For greater certainty, the Respondent is granted leave to delete paragraphs 28 and 29 from the Second Amended Reply, to include in the Third Amended Reply paragraphs 29.1, [44] 29.2, 29.3 and 29.4, and to revise paragraphs 42.1, 42.2, 42.3, 43 and 45, all as set out in the Draft Pleading.
+F. Other Arguments and Provisions
+[59] The proposed amendment in paragraph 16 of the Draft Pleading changes the reference to the Minister to be a reference to the Attorney General of Canada. The proposed amendments in paragraphs 21, 24 and 25 of the Draft Pleading refine the wording of other material facts that were previously pleaded by the Respondent. The proposed amendments in paragraphs 29.12 and 29.13 of the Draft Pleading allege that no interest was paid or payable in respect of the Straddle Agreement (as defined in paragraph 29.1 of the Draft Pleading) and that the Appellant expected that the gain from the gain leg would offset the loss from the loss leg almost completely. [45] The amendments on the last two pages of the Draft Pleading revise the location at which the document was signed and revise the names and contact information of some of the counsel for the Respondent and some of the counsel for the Appellant.
+[60] The amendments described in the preceding paragraph do not cause me any concern. They either relate to the arguments that the Respondent has already advanced in the Reply, the Amended Reply and the Second Amended Reply, or they relate to revisions that are completely innocuous (such as changing a reference to the Minister to be a reference to the Attorney General, or revising the names and contact information of some of the counsel). As those amendments do not result in an injustice to the Appellant and do not fail to serve the interests of justice, leave is granted to the Respondent to make those amendments. For greater certainty, the Respondent is granted leave to amend paragraphs 16, 21, 24 and 25 of the Second Amended Reply in accordance with the Draft Pleading, to add paragraphs 29.12 and 29.13 of the Draft Pleading to the Third Amended Reply, and to make the amendments set out on the last two pages of the Draft Pleading.
+IV. CONCLUSION
+[61] The Motion in respect of Chad II is allowed, and the Respondent is granted leave to file the proposed Amended Reply attached to the Notice of Motion in respect of Chad II. The Amended Reply in Chad II shall be filed and served by the Respondent on or before February 15, 2022.
+[62] To summarize the disposition of the Motion in respect of Chad I, as set out in paragraphs 58 and 60 above, leave is granted to the Respondent to amend the Second Amended Reply by deleting paragraphs 28 and 29 thereof, by revising paragraphs 16, 21, 24, 25, 42.1, 42.2, 42.3, 43 and 45 in the manner set out in the Draft Pleading, by including in the Third Amended Reply new paragraphs 29.1, 29.2, 29.3, 29.4, 29.12 and 29.13 as set out in the Draft Pleading, and by making the revisions set out on the last two pages of the Draft Pleading. The Third Amended Reply in Chad I shall be filed and served by the Respondent on or before February 15, 2022.
+[63] For greater certainty, leave to amend is not granted in respect of paragraphs 25.1, 29.5, 29.6, 29.7, 29.8, [46] 29.9, 29.10, 29.11, 31, 35.1, 39.1 or 39.2 of the Draft Pleading or the heading “Tax Shelter” on page 22 of the Draft Pleading. [47]
+[64] If the Appellant so desires, the Appellant may file an Answer (as contemplated by subsection 43(1) and section 50 of the Rules), provided that such Answer is filed and served no later than March 17, 2022.
+[65] The Appellant and the Respondent may each file a supplementary list of documents, as contemplated by sections 81 and 87 of the Rules, so as to list any additional documents that might be used in evidence by the Appellant or the Respondent, as the case may be, to rebut or establish (or to assist in rebutting or establishing) any allegation of fact in the Third Amended Reply, provided that each such supplementary list of documents is filed and served on or before March 31, 2022.
+[66] As contemplated by subsection 94(2) of the Rules, the Appellant may examine a knowledgeable current or former officer, servant or employee nominated by the Deputy Attorney General of Canada, and the Respondent may examine the Appellant, provided that such examinations for discovery pertain, and are limited, to the new or revised provisions set out in the Third Amended Reply, provided that such examinations are not repetitive of previous examinations in Chad I, and provided that such examinations are completed on or before April 15, 2022. [48] If difficulties are encountered by either party in completing the particular examination for discovery by such deadline, by reason of the inavailability of the other party or that party’s nominee, the particular party may seek an extension of that deadline. Any undertakings given during an examination for discovery shall be satisfied no later than May 13, 2022.
+[67] No costs are awarded in respect of the Motion in Chad II.
+[68] As success is divided in respect of the Motion in Chad I, each party shall bear his or her own costs in respect of that Motion.
+Signed at Ottawa, Canada this 21st day of January, 2022.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2022 TCC 18
+COURT FILE NO.:
+2017-1458(IT)G and 2019-526(IT)G
+STYLE OF CAUSE:
+S. ROBERT CHAD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+September 2, 2021
+REASONS FOR ORDER BY:
+The Hon. Justice Don R. Sommerfeldt
+DATE OF ORDER:
+January 21, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Marie-France Dompierre and
+James Trougakos
+Counsel for the Respondent:
+Charles Camirand,
+Shane Aikat and
+Larissa Benham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guy Du Pont, Ad.E.,
+Marie-France Dompierre and
+James Trougakos
+Firm:
+Davies Ward Phillips & Vineberg LLP [49]
+For the Respondent:
+A. François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Transcript, September 2, 2021, p. 44, lines 7-8. See also p. 2, lines 25-28, wherein counsel for the Respondent advised that the Respondent was not seeking costs in respect of the Motion in Chad II.
+[2] Chad v. The Queen, 2021 TCC 45, ¶7. For the purposes of the current Motion, a shorter procedural history will suffice.
+[3] The Order dated February 1, 2021 emanated from a trial management conference held on January 29, 2021. Even if a decision had not been made in conjunction with that conference to adjourn the hearing scheduled to commence on February 16, 2021, the hearing would have been adjourned in any event by reason of the cancellation of all in-person sittings of this Court between February 15, 2021 and March 12, 2021, as indicated in the Notice to the Public and the Profession issued by Chief Justice Rossiter on February 8, 2021.
+[4] Due to the complexity of rescheduling the large number of trials that were adjourned by reason of the pandemic-induced closures of the Court, the hearing of this Appeal has only recently been rescheduled for the weeks of June 20, 2022, June 27, 2022, July 4, 2022 and January 23, 2023.
+[5] The Queen v. Canderel Ltd., [1993] 2 CTC 213, 93 DTC 5357 (FCAD), ¶10.
+[6] The Queen v. Pomeroy Acquireco Ltd., 2021 FCA 187, ¶4.
+[7] Ibid, ¶13.
+[8] Continental Bank Leasing Corp. v. The Queen, [1993] 1 CTC 2306, 93 DTC 298 (TCC), ¶23. See also Canderel, supra note 15, ¶13, which quotes much of the above statement by Justice Bowman.
+[9] Merck & Co., Inc. et al. v. Apotex Inc., 2003 FCA 488, ¶32; and Apotex Inc. v. Bristol-Myers Squibb Company et al., 2011 FCA 34, ¶5 & 38.
+[10] Ketteman v. Hansel Properties Ltd., [1987] 1 AC 189, [1988] 1 All ER 38 (HL), at 220 (All ER 62). See also Canderel, supra note 5, ¶13, which quotes the above statement by Lord Griffiths.
+[11] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[12] Transcript of the examination for discovery on April 18, 2018, p. 18, line 11 to p. 19, line 5, as set out in Exhibit A to the Affidavit of Michelle Fung, dated December 14, 2020 and filed by the Appellant on December 14, 2020.
+[13] Transcript, January 27, 2021, vol. 1, p. 6, line 23 to p. 7, line 24.
+[14] See Chad v. The Queen, 2021 TCC 45, ¶57-60, for a brief summary of the capital-loss argument and its resolution.
+[15] Transcript, January 27, 2021, vol. 1, p. 74, line 8 to p. 77, line 26.
+[16] Transcript, January 28, 2021, vol. 2, p. 32, line 6 to p. 33, line 20.
+[17] Transcript, January 28, 2021, vol. 2, p. 37, lines 3-16.
+[18] Transcript, January 28, 2021, vol. 2, p. 39, lines 11-21.
+[19] Law Society of Ontario, Complete Rules of Professional Conduct, rules 5.1-6 & 7.2-11; and Law Society of Alberta, Code of Conduct (February 20, 2020), rules 5.1-7 & 7.2-14.
+[20] Michael McGarvie, in “A promise is a promise: A lawyer’s word is his bond,” Law Institute Journal, published by the Law Institute of Victoria (Australia), Jan/Feb 2014 88 (1/2) LIJ, p. 36, quoted from a decision of the Victorian Civil and Administrative Tribunal, in which it was stated that “the word [undertaking] does not need to be used in order for an undertaking to be given; an undertaking is simply a promise, although the word does come loaded with implications of solemnity.” Three paragraphs later, McGarvie concluded his article by stating, “A promise is a promise, and a lawyer’s promise is sacrosanct.” See also Hammond v. Law Society of British Columbia, 2004 BCA 560, ¶55, where Justice Prowse stated that “undertakings are regarded as solemn, if not sacred, promises made by lawyers, not only to one another, but also to members of the public with whom they communicate in the context of legal matters.”
+[21] Wenzel Downhole Tools Ltd. et al. v. National-Oilwell Canada Ltd. et al., 2010 FC 669, ¶20; Apotex v. Bristol-Myers, supra note 9, ¶28; and Nautical Data International, Inc. v. Navionics Inc. et al., 2017 FC 756, ¶25.
+[22] Direct Source Special Products Inc. v. Sony Music Canada Inc. et al., 2012 FC 38, ¶54.
+[23] Ibid, ¶32 & 55.
+[24] Transcript, January 27, 2001, p. 77, lines 13-19 & 24-26.
+[25] Canderel, supra note 5, ¶13; see paragraph 46 of these Reasons. See also Direct Source, supra note 22, ¶54.
+[26] Wenzel Downhole Tools, supra note 21, ¶24; Direct Source, supra note 22, ¶32, 49 and 55; and Nautical Data, supra note 21, ¶26.
+[27] Wenzel Downhole Tools, supra note 21, ¶24. See also Direct Source, supra note 22, ¶49; and Nautical Data, supra note 21, ¶26.
+[28] Rondel v. Worsley, [1967] 3 All ER 993 (HL) at 998, per Lord Reid. See also Peter J. Lukasiewicz, Thomas Arndt, Jessica Bolla & Martine Ordon, “A Lawyer’s Duty to Opposing Counsel,”
+https://www.advocates.ca/Upload/Files/PDF/Advocacy/InstituteforCivilityandProfessionalism/Duty_to_Opposing_Counsel.pdf, p. 9.
+[29] Rondel, supra note 28, p. 1011, per Lord Morris. See also Swinfen v. Lord Chelmsford, (1860) 157 ER 1436 at 1448, 5 H & N 890 at 920.
+[30] Rondel, supra note 28, p. 1011.
+[31] Hill v. Church of Scientology of Toronto, [1995] 2 SCR 1130, ¶177. My purpose in referring to Hill v. Church of Scientology is not, in any way, to suggest that there was a lack of candor or honesty or any other type of ethical concern in respect of the conduct of counsel for the Respondent in making, and then resiling from, a representation to the Court. My only objective is to emphasize that representations and commitments made by counsel to the Court are to be taken seriously (both by the maker and by the person to whom they are made), such that the maker of the representation or commitment should not renege without a reasonable explanation.
+[32] Hull v. The Queen, 2021 TCC 87, ¶57; and J. Kenneth McEwan et al., Sopinka on the Trial of an Action, 4th ed. (Toronto: LexisNexis Canada Inc., 2020), p. 8-9, ¶1.12-1.13.
+[33] Continental Bank Leasing, supra note 8, CTC 2310, DTC 302.
+[34] Canderel, supra note 5, ¶13.
+[35] Drouin c. La Reine, 2011 CCI 519, ¶30. The reasons in Drouin were published only in French. The above quotation is an unofficial translation from French to English, by a bilingual employee or contractor of the Courts Administration Service, of paragraph 30 of those reasons.
+[36] See Apotex v. Bristol-Myers, supra note 9, ¶28, where the Federal Court of Appeal stated that, “If an issue is not placed squarely on the table, all are entitled to assume that it is not on the table.”
+[37] Transcript, April 18, 2018, supra note 12, p. 18, line 27 to p. 19, line 2.
+[38] Transcript, January 28, 2021, vol. 2, p. 32, lines 23-24 and p. 39, lines 11-13.
+[39] At the hearing of this Motion, the Respondent did not indicate the meaning that she was attributing to the term window dressing. It is my understanding that the ordinary dictionary meaning of the term is “an adroit presentation of facts etc. to give a deceptively favourable impression” (Katherine Barber (editor), Canadian Oxford Dictionary, 2nd ed. (Don Mills: Oxford University Press, 2004), p. 1783); or “[t]he deceptive arrangement of something, usu. facts or appearances, to make it appear more attractive or favorable” (Bryan A. Garner (editor), Black’s Law Dictionary, 10th ed. (St. Paul: Thomson Reuters, 2014), p. 1835). Based on those dictionary meanings, it appears that, while a sham involves deceitfully misrepresenting the nature of a transaction, window dressing would seem to entail deceptively making facts appear better or more favourable than they actually are.
+Although the Supreme Court of Canada has occasionally referred to window dressing in a fiscal context, in those situations it has not actually defined that term. For instance, in Backman v. The Queen, [2001] 1 SCR 367, 2001 SCC 10, ¶32, the Court indicated that a transaction that was “nothing more than window dressing” connoted that “there was no real ancillary profit-making purpose behind the” taxpayer’s involvement in the transaction. In Singleton v. The Queen, [2001] 2 SCR 1046, 2001 SCC 61, ¶52, the Court suggested that, where a transaction amounts simply to window dressing, the legal relations pertaining to that transaction may not have been created bona fide. In Ludco Enterprises Ltd v. The Queen, [2001] 2 SCR 1082, 2001 SCC 62, ¶69, the Court implied that window dressing might be a vitiating circumstance.
+In the Tax Court of Canada, the caselaw is not definitive. In The Standard Life Assurance Company of Canada v. The Queen, 2015 TCC 97, ¶158, Justice Pizzitelli noted that the Crown had argued that window dressing is “a deception that is not about the legal validity of a transaction, as in sham, but about the taxpayer[’s] intention for entering into the transaction.” In The Estate of Pasquale Paletta v. The Queen, 2021 TCC 11, ¶245-246, Justice Spiro did not accept the Crown’s submission that there is a stand-alone judicial anti-avoidance doctrine of window dressing that is different from the doctrine of sham, as the Crown had not cited any binding authority in support of that proposition, and Justice Spiro noted that courts generally use the term window dressing “to highlight certain aspects of a sham designed to misrepresent to others the true legal relationships between the parties.” In Grenon v. The Queen, 2021 TCC 30, ¶402, Justice Smith concluded that, in the case before him, the term window dressing “is circumscribed by the ‘economic realities’ of the transaction(s) at issue and is limited to an enquiry as to whether ‘the legal relations were bona fide’....”
+[40] Drouin, supra note 35, ¶30.
+[41] See paragraphs 42-47 and notes 33-35 above.
+[42] The Respondent will bear the burden of proof in respect of the new and revised material facts.
+[43] See Canderel, supra note 5, ¶10.
+[44] Paragraph 29.1 of the Draft Pleading defines the term “Straddle Agreement” and alleges that the Appellant agreed to pay a fee to Velocity Trade in respect of the Straddle Agreement. The Appellant takes the position that paragraph 29.1 of the Draft Pleading relates only to the tax-shelter argument, while the Respondent submits that paragraph 29.1 relates to both the tax-shelter argument and the GAAR argument. I do not view paragraph 29.1 as being exclusively related to the tax-shelter argument, and I acknowledge that it could also relate to the GAAR argument, which is the reason why I have permitted paragraph 29.1 of the Draft Pleading to be included in the Third Amended Reply.
+[45] Both the Appellant and the Respondent submit that proposed paragraphs 29.12 and 29.13 relate to the tax-shelter argument, the window-dressing argument and the sham argument. In my view, those two paragraphs are at least as closely connected to the sham argument as to the other two arguments. Therefore, I consider them to be permissible amendments.
+[46] The Appellant submits that proposed paragraph 29.8 in the Draft Pleading relates solely to the tax-shelter argument, while the Respondent submits that the paragraph relates to the tax-shelter argument, the window-dressing argument and the sham argument. In my view, given that proposed paragraph 29.8 lists various representations in respect of the Straddle Agreement by the promoters to potential clients, proposed paragraph 29.8 relates predominantly to the tax-shelter argument.
+[47] As two versions of the Draft Pleading have been presented to me, each with different pagination, for clarity, the heading “Tax Shelter” is between paragraphs 39 and 39.1 of the Draft Pleading.
+[48] In a joint letter dated December 17, 2021 from counsel for the Appellant and counsel for the Respondent to the Court, counsel indicated that the Appellant would examine the Respondent’s nominee no later than January 31, 2022 and that undertakings given at that examination would be satisfied no later than February 28, 2022. While the Parties are to be commended for setting an ambitious timetable, and are encouraged to work toward the deadlines that they have set, I recognize that exigencies may arise, particularly due to the pandemic. Accordingly, these Reasons and the attached Order have set out a timetable with more latitude. Obviously, the parties are welcome to complete the various steps well in advance of the deadlines set out in these Reasons and the attached Order.
+[49] When this Motion was argued on September 2, 2021, Guy Du Pont Ad.E., Marie-France Dompierre and James Trougakos of Davies Ward Phillips & Vineberg LLP were counsel of record for the Appellant in respect of both appeals. By reason of a subsequent change of counsel in Chad I, Justin Kutyan and Dov Whitman of KPMG Law LLP are now counsel of record in Chad I. There has been no change of counsel in Chad II.

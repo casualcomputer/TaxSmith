@@ -1,0 +1,206 @@
+---
+title: "O'Brien c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521151/index.do"
+last_modified: "2023-08-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 132"
+citation2: ""
+neutral_citation: "2023 CCI 132"
+decision_date: "2023-08-31"
+language: "fr"
+item_id: "521151"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5680
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:02:10.330000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39eaf031a7e7301e0203695c31912c25cd8ac8b2ca1d4f374513f9ff20fe4f42"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Brien c. Le Roi
+
+- Citation: 2023 CCI 132
+- Decision date: 2023-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5680, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Brien c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-11-06
+Référence neutre
+2023 CCI 132
+Numéro de dossier
+2021-859(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-859(IT)I
+ENTRE :
+DELIA O’BRIEN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+Appel entendu le 16 janvier 2023 à Windsor (Ontario).
+Devant : L’honorable juge Bruce Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Ian Moffatt
+JUGEMENT
+L’appel est accueilli, avec des dépens fixes de 2 500 $ payables dans les 30 jours suivant la date du présent jugement, et j’ordonne ce qui suit :
+a)les nouvelles déterminations du droit à l’Allocation canadienne pour enfants faisant l’objet d’un appel doivent être elles-mêmes déterminées de nouveau en fonction du fait que le revenu du particulier admissible selon le paragraphe 122.62(5) de la Loi de l’impôt sur le revenu fédérale signifie le revenu établi de l’appelante pour l’année de base de 2018, moins tous les revenus qui lui ont été attribués en vertu du sous-alinéa 56(1)u)(i), c’est-à-dire qu’elle n’a pas elle-même généré, excluant ainsi le total des prestations du Régime ontarien de soutien aux personnes handicapées générées par son défunt mari, les paiements qui ont cessé définitivement au moment de son décès en janvier 2020;
+b)qu’il en soit de même pour les nouvelles déterminations faisant l’objet d’un appel du droit à l’Allocation canadienne pour enfants concernant l’année de base 2019 et la période de paiement pertinente de l’Allocation canadienne pour enfants de juillet 2020 à juin 2021;
+c)qu’il en soit de même pour les droits au crédit pour la taxe sur les produits et services/taxe de vente harmonisée (la « TPS/TVH ») faisant l’objet d’un appel pour les mêmes périodes de paiement de février à juin 2020 et de juillet 2020 à juin 2021.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour d’août 2023.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 29e jour de septembre 2023.
+François Brunet, réviseur.
+Référence : 2023 CCI 132
+Date : 31082023
+Dossier : 2021-859(IT)I
+ENTRE :
+DELIA O’BRIEN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge Russell
+I. Aperçu
+[1] L’appelante, Mme Delia O’Brien, mère de deux enfants, est prestataire de l’Allocation canadienne pour enfants (l’« ACE »). L’ACE est un paiement mensuel non imposable destiné à aider les familles admissibles à payer les dépenses relatives aux enfants, conformément à la Loi de l’impôt sur le revenu (la « Loi ») fédérale.
+[2] À la suite du décès en janvier 2020 du mari de Mme O’Brien, le ministre du Revenu national, en vertu du paragraphe 122.62(5) de la Loi, a procédé à une nouvelle détermination du montant des droits à l’ACE de Mme O’Brien. Ce faisant, le ministre a utilisé le revenu de Mme O’Brian, tel qu’il a été établi en vertu de la Loi, pour l’année d’imposition 2018. L’année 2018 est l’« année de base » pour la période de paiement de l’ACE de février 2020 à juin 2020 inclusivement, comme il est mentionné ci-dessous.
+[3] Tout au long de 2018 et jusqu’à son décès en janvier 2020, le mari de Mme O’Brien a reçu des prestations mensuelles d’invalidité en vertu de la Loi de 1997 sur le Programme ontarien de soutien aux personnes handicapées (les « prestations du POSPH »). Ces prestations du POSPH totalisaient environ 24 000 $ par année. (Il convient de noter que ce revenu n’était pas imposable, selon l’alinéa 110(1)f) de la Loi.) Cependant, c’est son épouse, Mme O’Brien, qui a déclaré ses prestations du POSPH de 2018 dans son revenu.
+[4] Ce revirement étrange est dû au sous-alinéa 56(1)u)(ii), qui exige que la prestation d’assistance sociale payée après examen des ressources, des besoins et du revenu (comme le sont ces prestations du POSPH) reçue par un époux, soit attribuée à titre de revenu au conjoint dont le revenu est par ailleurs plus élevé. En 2018, Mme O’Brien était l’épouse au revenu le plus élevé. Son revenu d’emploi était par ailleurs d’environ 27 000 $, alors que le revenu de son mari tiré des prestations du Régime de pensions du Canada était d’environ 7 000 $.
+[5] Cette somme d’environ 24 000 $ ajoutée au revenu de 2018 de Mme O’Brien a presque doublé son revenu d’environ 27 000 $ (tiré de son emploi). Mme O’Brien interjette appel au motif que le ministre a inclus à tort dans son revenu, pour l’application du paragraphe 122.62(5) (c.-à-d., nouvelle détermination du droit à l’ACE au décès d’un époux visé), les prestations du POSPH d’environ 24 000 $ que son défunt mari avait reçues au cours de l’année de base 2018. Ces prestations du POSPH ont cessé définitivement au décès de son mari.
+[6] Cette multiplication presque par deux du revenu de Mme O’Brien (environ 27 000 $ + 24 000 $) par l’ajout de la somme d’environ 24 000 $ générée par son mari, selon le sous-alinéa 56(1)u)(ii), a amené le ministre à procéder à une nouvelle détermination, en vertu du paragraphe 122.62(5), du droit de Mme O’Brien à l’ACE, ce qui l’a considérablement réduit.
+[7] Par conséquent, Mme O’Brien a interjeté appel de l’inclusion des prestations du POSPH dans son revenu pour la nouvelle détermination de son droit à l’ACE en vertu du paragraphe 122.62(5). Mme O’Brien fait aussi appel de la nouvelle détermination de son crédit pour la TPS/TVH, aussi prévu par la Loi, laquelle était aussi fondée sur son revenu net pour les années de base pertinentes. L’intimé soutient que le paragraphe 122.62(5) exigeait que le ministre prenne en considération le fait que le revenu de Mme O’Brien comprenait la somme d’environ 24 000 $ en prestations du POSPH versées à son défunt mari, en plus de son propre revenu d’environ 27 000 $. Notre Cour n’a pas compétence en ce qui concerne la Prestation ontarienne pour enfants, qui fait l’objet d’un appel, car elle est prévue par une loi ontarienne - la Loi de 2007 sur les impôts, L.O. 2007.
+II. Dispositions législatives pertinentes
+[8] Les dispositions législatives pertinentes sont le paragraphe 122.62(5) et le sous-alinéa 56(1)u)(ii), voir ci-dessous :
+122.62(5) – Décès de l’époux ou du conjoint de fait visé – En cas de décès de l’époux ou du conjoint de fait visé d’un particulier admissible à l’égard d’une personne à charge admissible, les règles ci-après s’appliquent :
+a) le particulier est tenu d’aviser le ministre de cet événement, sur le formulaire prescrit, avant la fin du premier mois civil commençant après l’événement;
+b) sous réserve du paragraphe (8), [non applicable en l’espèce] pour le calcul du montant réputé, en vertu des paragraphes 122.61(1) ou (1.2), être un paiement en trop, se produisant au cours de ce premier mois et de tout mois postérieur, au titre des sommes dont le particulier est redevable en vertu de la présente partie pour l’année de base se rapportant à ce premier mois, le revenu modifié du particulier pour l’année est réputé être égal à son revenu pour l’année. [Non souligné dans l’original]
+56(1) Sommes à inclure dans le revenu de l’année – Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition : […]
+u) la prestation d’assistance sociale payée après examen des ressources, des besoins et du revenu et reçue au cours de l’année par une des personnes suivantes, sauf dans la mesure où elle est à inclure par ailleurs dans le calcul du revenu de ces personnes pour une année d’imposition :
+[…]
+(ii) l’époux ou conjoint de fait du contribuable avec qui celui-ci habite au moment de la réception du paiement, si le revenu de l’époux ou conjoint de fait pour l’année est inférieur à celui du contribuable pour l’année; [Non souligné dans l’original]
+III. Question en litige
+[9] La question est celle de savoir si, pour déterminer de nouveau le droit de Mme O’Brien à l’ACE en vertu du paragraphe 122.62(5) à la suite du décès de son mari au début de 2020, le ministre a eu raison d’inclure dans son revenu la somme totale d’environ 24 000 $ des prestations du POSPH de son mari qu’il a reçues au cours de l’année de base 2018.
+IV. Contexte
+[10] Pour déterminer l’admissibilité à l’ACE, un facteur clé, le cas échéant, est le revenu total des époux ou conjoints de fait visés. Selon la Loi, il s’agit d’un « revenu modifié[1] ». De toute évidence, plus le revenu modifié (c.-à-d. le revenu familial) est élevé, moins le montant du droit à l’ACE est élevé, et vice versa.
+[11] Le revenu modifié s’applique à une « année de base ». Une année de base est une année récente qui est examinée pour obtenir les renseignements financiers des parties à prendre en considération concernant une période de prestation de l’ACE en cours. Par conséquent, 2018 est l’année de base pour la période de prestation de juillet 2019 à juin 2020 de l’ACE et, de même, 2019 est l’année de base pour la période de paiement de juillet 2020 à juin 2021 de l’ACE.
+[12] Comme je l’ai mentionné, le décès du mari de Mme O’Brien en janvier 2020 a déclenché l’application du paragraphe 122.62(5), indiqué ci-dessus. Il exige une nouvelle détermination du droit à l’ACE au décès d’un époux ou conjoint de fait visé. Cette disposition prévoit que la nouvelle détermination doit être fondée sur le fait que « le revenu modifié [c.-à-d. celui de Mme O’Brien] pour l’année [de base] est réputé être égal à son revenu pour l’année ». En d’autres termes, au décès d’un époux, le revenu modifié aux fins de la nouvelle détermination du droit à l’ACE est réputé correspondre au montant du revenu de l’époux survivant pour l’année.
+[13] Par conséquent, selon le paragraphe 122.62(5), au décès de l’époux, le revenu de cet époux décédé n’est plus inclus dans le revenu modifié pour l’année de base. Seul le revenu de l’époux survivant doit constituer le revenu modifié.
+[14] Donc, à la lumière de la somme d’environ 24 000 $ des prestations du POSPH de 2018 versées au mari maintenant décédé, mais ajoutées à son revenu (et non celui du mari), cette situation soulève clairement la question de savoir si, pour l’application du paragraphe 122.62(5), le revenu de l’année de base de l’époux survivant devrait inclure ce revenu.
+[15] En vertu du sous-alinéa 52(1)u)(ii), les prestations du POSPH, versées au mari de Mme O’Brien, étaient réputées être son revenu plutôt que celui du mari, simplement parce que son revenu total était par ailleurs supérieur au sien. En outre, ces prestations du POSPH au mari ont cessé définitivement d’être versées à son décès en janvier 2020.
+[16] Pour l’application du paragraphe 122.65(5), le revenu de l’époux décédé ne doit pas être inclus dans le calcul du montant modifié. Le libellé de la disposition le précise clairement. De plus, la note explicative du ministère des Finances, expliquant le paragraphe 122.62(5), indique ce qui suit :
+Le paragraphe 122.62(5) de la Loi s’applique lorsqu’il s’agit de déterminer le revenu modifié d’un particulier admissible – en vue du calcul de la prestation fiscale canadienne pour enfants – en cas de décès de son époux ou conjoint de fait visé (au sens de l’article 122.6 de la Loi). Ce paragraphe est modifié de façon à prévoir que, en cas de décès de son époux ou conjoint de fait visé, le particulier admissible est tenu d’en aviser le ministre du Revenu national sur le formulaire prescrit avant la fin du premier mois civil suivant le mois du décès. Ainsi, le revenu et le revenu gagné de la personne décédée ne seront pas pris en compte dans le calcul du revenu modifié du particulier pour l’année d’imposition en cause aux fins de détermination de la prestation fiscale canadienne pour enfants pour les mois postérieurs au mois du décès[2]. [Non souligné dans l’original, italique ajouté]
+[17] Il convient de noter l’énoncé de la note explicative, selon lequel « le revenu […] de la personne décédée ne ser[a] pas pris en compte dans le calcul du revenu modifié du particulier pour l’année [de base] en cause aux fins de détermination de [l’ACE] pour les mois postérieurs au mois du décès ».
+[18] La mention dans le sous-alinéa 56(1)u)(ii) selon lequel le versement de l’assistance sociale doit être ajouté au revenu de l’époux visé ayant un revenu plus élevé est expliquée dans les notes explicatives pertinentes de 1982 :
+Certains paiements d’assistance sociale étaient exclus du revenu en vertu du sous-alinéa 56(1)a)(i) de la Loi. L’alinéa 56(1)u) est ajouté afin d’exiger l’inclusion des paiements d’assistance sociale reçus par un particulier ou son conjoint dans le revenu du conjoint ayant le revenu le plus élevé pour l’année. Celui qui a le revenu le plus élevé maintient ainsi son droit à l’exemption de personne mariée, prévue à l’alinéa 109(1)a) de la Loi, à l’égard de son conjoint. La somme incluse dans le revenu en application de l’alinéa 56(1)u) est déductible dans le calcul du revenu imposable en vertu de l’alinéa 110(1)f). Ce changement place les paiements d’assistance sociale sous le même régime que le supplément de revenu garanti et l’allocation au conjoint en vertu de la Loi sur la sécurité de la vieillesse[3]. [Non souligné dans l’original]
+[19] L’extrait ci-dessus tiré des notes explicatives du ministère des Finances en 1982 montre que l’attribution du revenu d’un conjoint à l’autre lorsque l’autre a par ailleurs un revenu plus élevé vise simplement à permettre un meilleur droit à l’exemption de personne mariée à l’égard de l’autre conjoint. L’extrait fait également observer, comme il est indiqué ci-dessus, que le revenu d’assistance sociale n’est pas imposable.
+[20] Il permet de préciser que l’attribution du revenu d’assistance sociale en vertu du sous-alinéa 56(1)u)(ii) entre l’époux au revenu moindre et l’époux au revenu plus élevé n’a aucun effet prévu sur le droit de ce dernier à l’ACE, au décès de l’époux au revenu moindre qui avait généré le revenu d’assistance sociale en premier lieu.
+[21] Le paragraphe 122.62(5) devrait-il être interprété comme n’incluant pas dans le revenu de l’époux survivant les montants de revenu qui ont été générés par la personne décédée, revenu qui a définitivement pris fin avec le décès de cet époux?
+[22] Le fait d’ajouter le revenu généré par l’époux décédé par la suite au revenu de l’époux survivant, pour l’application du paragraphe 122.62(5), ajoute, à mon avis, un revenu « fantôme » (parce que les paiements ont cessé définitivement).
+[23] Ce revenu augmente artificiellement le revenu que l’époux survivant aurait par ailleurs, ce qui réduit directement le montant auquel il aurait droit autrement au titre de l’ACE.
+[24] En ce qui concerne la doctrine de l’absurdité, l’intimé cite principalement l’arrêt R. c. McIntosh, [1995] 1 R.C.S. 686, où, au par. 34, la Cour divisée (5/4), sous la plume du juge en chef Lamer, a écrit (dans le contexte du Code criminel) :
+Voici la proposition que j’adopterais : lorsqu’une législature adopte un texte législatif qui emploie des termes clairs, non équivoques et susceptibles d’avoir un seul sens, ce texte doit être appliqué même s’il donne lieu à des résultats rigides ou absurdes ou même contraires à la logique (Maxwell on the Interpretation of Statutes, op. cit., à la p. 29).
+[25] C’est la base de la position de l’intimé selon laquelle le libellé de la loi est clair et doit donc être appliqué, « même s’il donne lieu à des résultats rigides ou absurdes ou même contraires à la logique ».
+[26] Néanmoins, environ trois ans plus tard, la même cour – la Cour suprême du Canada – a rendu sa décision dans l’arrêt Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, au sujet d’une affaire de faillite. Le juge Iacobucci, au nom de cinq juges, à l’unanimité, a écrit ce qui suit, au par. 27 :
+À mon avis, les conséquences ou effets qui résultent de l’interprétation que la Cour d’appel [de l’Ontario] a donnée des art. 40 et 40a de la [Loi sur les normes d’emploi de l’Ontario] ne sont compatibles ni avec l’objet de la Loi ni avec l’objet des dispositions relatives à l’indemnité de licenciement et à l’indemnité de cessation d’emploi elles-mêmes. Selon un principe bien établi en matière d’interprétation législative, le législateur ne peut avoir voulu des conséquences absurdes. D’après Côté, op. cit., on qualifiera d’absurde une interprétation qui mène à des conséquences ridicules ou futiles, si elle est extrêmement déraisonnable ou inéquitable, si elle est illogique ou incohérente, ou si elle est incompatible avec d’autres dispositions ou avec l’objet du texte législatif (aux pp. 430 à 432). Sullivan partage cet avis en faisant remarquer qu’on peut qualifier d’absurdes les interprétations qui vont à l’encontre de la fin d’une loi ou en rendent un aspect inutile ou futile (Sullivan, Construction of Statutes, op. cit., à la p. 88). [Non souligné dans l’original]
+[27] En outre, au chapitre 10 de l’édition 2022 de The Construction of Statutes[4], la professeure Ruth Sullivan discute de ce qui suit : [traduction] « Analyse corrélative – Éviter l’absurdité ». Elle fait remarquer que la Cour suprême du Canada a reconnu le concept d’absurdité de la loi à diverses occasions, notamment :
+[traduction]
+a. en 1998, dans l’arrêt Rizzo & Rizzo Shoes Ltd. (Re), la Cour suprême du Canada a conclu ce qui suit – « Selon un principe bien établi en matière d’interprétation législative, le législateur ne peut avoir voulu des conséquences absurdes[5] ».
+b. en 1995, dans l’arrêt Ontario c. Canadien Pacifique Ltée, la Cour suprême du Canada a conclu ce qui suit – « Comme l’on peut présumer que le législateur ne cherche pas à créer par ses lois des résultats injustes ou inéquitables, il faut adopter les interprétations judiciaires qui permettent d’éviter de tels résultats[6] ».
+c. aussi, dans l’arrêt Morgentaler c. La Reine, la Cour suprême du Canada, en 1976, a conclu ce qui suit – « Nous devons donner aux deux articles une interprétation raisonnable et tâcher de les lire d’une façon qui a du sens et non pas d’y voir un non-sens. Nous devons avoir envers le Parlement la courtoisie de ne pas présumer aisément qu’il a édicté des incohérences ou des absurdités[7] ».
+[28] En outre, Mme Sullivan discute de plusieurs catégories reconnues d’absurdité[8]. Deux de ces catégories sont les [traduction] « distinctions irrationnelles » et les [traduction] « objectifs frustrés ». En ce qui concerne les [traduction] « distinctions irrationnelles », l’auteur fait observer que [traduction] « l’interprétation proposée est susceptible d’être qualifiée d’absurde si elle aboutit à ce que des personnes ou des choses reçoivent un traitement différent pour des raisons inadéquates ou pour aucune raison[9] ».
+[29] En ce qui concerne la catégorie des [traduction] « objectifs frustrés », la professeure Sullivan écrit que [traduction] « toute interprétation qui aurait tendance à nuire à l’objet législatif ou à saper le dispositif législatif risque d’être qualifiée d’absurde[10] ».
+[30] Récemment, dans l’arrêt Canada c. Villa Ste-Rose Inc., 2021 CAF 35, la Cour d’appel fédérale (la « CAF ») a reconnu une absurdité résultant d’une distinction irrationnelle. La CAF a examiné la question de savoir si le ministre pouvait correctement imposer des intérêts et des pénalités pour production tardive à une contribuable qui devait un montant de TPS de 736 864 $, mais qui avait aussi droit à un remboursement de 860 665 $ (c.-à-d. que le contribuable était dans une position nette positive). La contribuable gérait un centre d’hébergement pour personnes aînées. En raison d’un incendie, la contribuable devait construire un nouveau centre. Après l’achèvement du nouveau centre, la contribuable était réputée avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble en vertu du paragraphe 191(3) de la Loi sur la taxe d’accise (la « LTA »). Par conséquent, la contribuable était tenue de produire une déclaration pour sa taxe due au plus tard le 31 décembre 2014 et avait également le droit de produire une demande de remboursement de la TPS.
+[31] Toutefois, la contribuable n’a pas produit de déclaration concernant sa TPS due ou les remboursements auxquels elle avait droit, avant septembre 2015. Le ministre a donc imposé des intérêts et des pénalités pour production tardive à la contribuable.
+[32] La Couronne a soutenu que les pénalités étaient justifiées puisque les mots « à verser ou à payer » du paragraphe 280(1) et de l’article 280.1 de la LTA (c.-à-d. les dispositions qui traitaient des intérêts et des pénalités pour production tardive) n’exigent pas du ministre qu’il examine les compensations des remboursements auxquels le contribuable avait droit.
+[33] En rejetant l’appel de la Couronne (et en confirmant le jugement de la Cour), la CAF a déclaré :
+Il est bien établi, comme l’a rappelé la juge D’Auray, qu’une interprétation littérale susceptible de produire des résultats illogiques ou absurdes doit être écartée (Rizzo & Rizzo Shoes Ltd. Re), [1998] 1 R.C.S. 27, 154 D.L.R. (4e) 193 au para. 27). L’interprétation proposée par l’appelante [Couronne] voulant que les intérêts et la pénalité pouvant être imposés en cas de retard à produire une déclaration de TPS, doivent être calculés, en toutes circonstances, en fonction du montant de la taxe nette, sans égards aux remboursements par ailleurs payables, est susceptible de produire, comme on l’a vu, de tels résultats[11]. [Non souligné dans l’original]
+[34] De même, dans la présente affaire, il y a « interprétation littérale susceptible de produire des résultats illogiques ou absurdes [et qui] doit être écartée ». J’ai mentionné ci-dessus les résultats illogiques ou absurdes concernant la nouvelle détermination du droit de Mme O’Brien à l’ACE après le décès de son époux. Ces résultats absurdes découlent de l’interprétation du mot « revenu » du paragraphe 122.62(5) au sens littéral du revenu imposable de Mme O’Brien pour 2018 – sans déduction des prestations du POSPH que son époux avait reçues (bien qu’il lui ait été attribué à elle en tant revenu), prestations ayant cessé définitivement à son décès.
+[35] De plus, l’interprétation littérale du mot « revenu » comme signifiant le revenu de Mme O’Brien tel qu’il a été établi dans la cotisation pour l’année d’imposition 2018, avant le décès de son mari au début de 2020 et la cessation subséquente des prestations du POSPH en question, résulte d’une distinction irrationnelle (dans ce contexte de prestations de l’ACE), étant donné que Mme O’Brien avait par ailleurs un revenu plus élevé en 2018 que son mari décédé par la suite.
+[36] Si Mme O’Brien avait par ailleurs gagné, c’est-à-dire généré, un revenu moindre que son époux décédé par la suite, toute cette situation aurait été évitée. Il en est ainsi parce que, dans de telles circonstances, le sous-alinéa 56(1)u)(ii) n’aurait pas ajouté le montant de la prestation du POSPH à son propre revenu. Par conséquent, un redressement approprié concernant le droit à l’ACE serait offert en vertu du paragraphe 122.62(5).
+[37] Je conclus que cette absurdité existe, indépendamment de l’intention législative sans lien de distinguer lequel des époux a le revenu le plus élevé. Je n’affirme pas qu’il n’y a aucun intérêt à attribuer le revenu sur une telle base conformément au sous-alinéa 56(1)u)(ii). Ce n’est pas l’objet de la présente décision. J’affirme que cet aspect du sous-alinéa 56(1)u)(ii) a, involontairement, un effet profondément préjudiciable sur le paragraphe 122.62(5), qui nuit à la fois à l’objet et à l’application correcte de cette disposition, comme nous l’avons vu ci‑dessus, en ce qui concerne la possibilité d’une nouvelle détermination appropriée du droit à l’ACE.
+[38] Comme je l’ai indiqué, [traduction] « toute interprétation qui aurait tendance à nuire à l’objet législatif ou à saper le dispositif législatif risque d’être qualifiée d’absurde ». Ci-dessus, les objets et les contextes respectifs du paragraphe 122.62(5) et du sous-alinéa 56(1)u)(ii) ont été déterminés.
+[39] L’intention exprimée clairement dans les notes explicatives susmentionnées concernant le paragraphe 122.62(5) est que « le revenu […] de la personne décédée ne ser[a] pas pris en compte dans le calcul du revenu modifié du particulier pour l’année [de base] en cause aux fins […] ».
+[40] Toutefois, en l’espèce, le revenu de la personne décédée a été pris en compte, par attribution à Mme O’Brien du revenu qui avait été généré par la personne décédée par la suite en vertu du sous-alinéa 56(1)u)(ii), simplement et sans objet (dans ce contexte) parce que son revenu était par ailleurs plus élevé que le sien.
+[41] L’intention du paragraphe 122.65(2) est complètement contrecarrée par le sous-alinéa 56(1)u)(ii), comme il est indiqué en l’espèce. Cette situation affecte de façon substantielle et préjudiciable le portefeuille d’une famille endeuillée, dans la perspective de procéder à une nouvelle détermination du droit à l’ACE approprié.
+[42] Par conséquent, j’accueille l’appel, avec des dépens fixes de 2 500 $ payables dans les 30 jours suivant la date du présent jugement, et j’ordonne ce qui suit :
+a) les nouvelles déterminations faisant l’objet d’un appel doivent être elles‑mêmes déterminées de nouveau en fonction du fait que le revenu du particulier admissible selon le paragraphe 122.62(5) signifie le revenu établi de l’appelante pour l’année de base de 2018, moins tous les revenus qui lui ont été attribués en vertu du sous-alinéa 566(1)u)(i), c’est-à-dire qu’elle n’a pas elle-même généré, excluant ainsi le total des paiements du POSPH générés par son défunt mari, paiements qui ont cessé définitivement au moment de son décès en janvier 2020;
+b) qu’il en soit de même pour les nouvelles déterminations faisant l’objet d’un appel du droit à l’ACE concernant l’année de base 2019 et la période de paiement pertinente de l’ACE de juillet 2020 à juin 2021;
+c) qu’il en soit de même pour les droits au crédit pour la TPS/TVH faisant l’objet d’un appel pour les mêmes périodes de paiement de février à juin 2020 et de juillet 2020 à juin 2021.
+Les présents motifs modifiés du jugement remplacent les motifs du jugement daté du 31 août 2023, afin que soient ajoutées les deux phrases soulignées au paragraphe 7.
+Signé à Halifax (Nouvelle-Écosse), ce 7e jour de septembre 2023.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 29e jour de septembre 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+132 CCI 2023
+NO DU DOSSIER DE LA COUR :
+2021-859(IT)I
+INTITULÉ :
+DELIA O’BRIEN ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 janvier 2023
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 31 août 2023
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Ian Moffatt
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi, art. 122.6.
+[2] Canada, ministère des Finances, Notes explicatives concernant la Loi de l’impôt sur le revenu et des règlements connexes, Ottawa, ministère des Finances, octobre 2011, p. 79.
+[3] Canada, ministère des Finances, Notes explicatives au projet de loi modifiant la Loi de l’impôt sur le revenu, Ottawa, ministère des Finances, décembre 1982, p. 51.
+[4] Sullivan R., The Construction of Statutes, 7e éd., Toronto, LexisNexis, 2022.
+[5] Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27, à la p. 43.
+[6] Ontario c. Canadien Pacifique Ltée, [1995] 2 R.C.S. 1031, par. 65.
+[7] Morgentaler c. La Reine, [1976] 1 R.C.S. 616, à la p. 676.
+[8] Sullivan, précité, p. 303.
+[9] Ibid., p. 304 et 305.
+[10] Ibid., p. 304.
+[11] Sa Majesté c. Villa Ste-Rose Inc., 2021 CAF 35, par. 65.

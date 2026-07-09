@@ -1,0 +1,141 @@
+---
+title: "Young c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29371/index.do"
+last_modified: "2009-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 423"
+citation2: ""
+neutral_citation: "2009 CCI 423"
+decision_date: "2009-08-12"
+language: "fr"
+item_id: "29371"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6893
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:40:02.938000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79323b19ef695bdfed6d054c80e662385d44b498b2d3050659b26b0dea5354d3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Young c. La Reine
+
+- Citation: 2009 CCI 423
+- Decision date: 2009-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Young c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-12
+Référence neutre
+2009 CCI 423
+Numéro de dossier
+2008-3183(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3183(IT)I
+ENTRE :
+SHEENA YOUNG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue le 12 août 2009, à Cranbrook (Colombie‑Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentante de l’appelante :
+Mme Valerie Williams
+Avocat de l’intimée :
+Me Whitney Dunn
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’avocate de l’intimée pour obtenir une ordonnance d’annulation des prétendus appels interjetés à l’égard de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003 et 2004;
+Vu les pièces présentées, le témoignage de l’agent des appels et les observations de l’avocate de l’intimée;
+La Cour accueille la requête de l’intimée et ordonne l’annulation des prétendus appels interjetés à l’égard de cotisations établies pour les années d’imposition 2003 et 2004.
+Le droit de dépôt de 100 $ versé par l’appelante lui sera remboursé.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2009.
+« Campbell J. Miller »
+Juge C. Miller J.
+Traduction certifiée conforme
+ce 15e jour d’octobre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 423
+Date : 20090901
+Dossier : 2008-3183(IT)I
+ENTRE :
+SHEENA YOUNG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge C. Miller
+[1] Me Murray, dans vos observations, vous avez dit que la situation semble injuste. Il ne s’agit pas seulement d’une apparence : il y a injustice. Le gouvernement a commis une erreur, et cette erreur a coûté entre 300 $ et 500 $ à Mme Young – somme que lui aurait autrement versée le gouvernement de l’Alberta. Malheureusement, Mme Williams, la position de la Couronne au sujet des pouvoirs de la Cour est correcte. Je ne peux rien pour vous, si ce n’est que fulminer contre la façon dont l’appelante a été traitée. Par contre, je tiens à faire quelques commentaires, et j’espère que le ministère de la Justice les communiquera à son client, le gouvernement. Avec un peu de chance, le problème sera résolu sans que vous soyez obligée de retourner devant les tribunaux.
+[2] Mme Young a un seul recours : poursuivre le gouvernement, probablement devant la Cour fédérale, parce qu’il a commis une erreur, ce qu’il a d’ailleurs reconnu. Il est très clair que votre fille avait indiqué dans sa déclaration qu’elle était résidente de l’Alberta, et que le gouvernement, à cause de l’adresse postale de votre fille, l’a traité comme une résidente de la Saskatchewan, d’où la situation fâcheuse dans laquelle se trouve votre fille. Toutefois, le gouvernement a raison : ce sont des lois provinciales qui sont en cause, et la Cour n’a pas le pouvoir de trancher les litiges portant sur l’Alberta Royalty Rebate (un crédit d’impôt tiré des redevances perçues par l’Alberta).
+[3] À mon avis, lorsque, dans un cas comme celui‑ci, le gouvernement du Canada commet une erreur, il ne devrait pas insister pour que le contribuable – votre fille en l’espèce – entame de longues et coûteuses poursuites afin de faire corriger l’erreur. Il ne fait aucun doute que c’est le gouvernement qui s’est trompé, et c’est lui qui devrait régler le problème. Peu importe qu’il choisisse de permettre à votre fille de conserver le crédit d’impôt de la Saskatchewan et lui donne quelques centaines de dollars pour combler la différence ou qu’il prenne un autre moyen – c’est à lui de choisir. Si j’ai fait ces commentaires, et si je veux qu’ils soient mis à l’écrit, c’est parce que je tiens à dire que, compte tenu de son erreur manifeste, le gouvernement agirait de façon inadmissible en exigeant que votre fille le poursuive devant un autre tribunal pour récupérer ces quelques centaines de dollars.
+[4] Mme Williams, je ne peux rien faire d’autre que faire les présents commentaires et faire en sorte que vous en obteniez une copie écrite. Comme Me Dunn et Me Murray l’on dit, vous pourriez aussi demander un décret de remise d’impôt, mais, là encore, il vous faudrait faire des pieds et des mains pour que la situation soit corrigée; j’espère bien que le gouvernement du Canada ne vous forcera pas à le faire.
+[5] Ainsi, comme dans les autres cas semblables, je dois malheureusement accueillir la requête et annuler les appels que vous avez présentés devant la Cour. Toutefois, je ferai transcrire les présents motifs et je vous en enverrai une copie papier, de même qu’au ministère de la Justice. Avec un peu de chance – et je ne peux rien vous garantir –, la situation sera réglée sans que vous soyez obligée de porter l’affaire devant un autre tribunal.
+[6] J’ai bien peur de ne rien pouvoir faire d’autre. J’ordonnerai, le cas échéant, que le droit de dépôt que votre fille a versé lui soit remboursé.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2009.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 15e jour d’octobre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 423
+No DU DOSSIER DE LA COUR :
+2008-3183(IT)I
+INTITULÉ :
+Sheena Young et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Cranbrook (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 12 août 2009
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Campbell J. Miller
+DATE DE L’ORDONNANCE :
+Le 1er septembre 2009
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Valerie Williams
+Avocats de l’intimée :
+Me Whitney Dunn
+Me Lize Murray
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

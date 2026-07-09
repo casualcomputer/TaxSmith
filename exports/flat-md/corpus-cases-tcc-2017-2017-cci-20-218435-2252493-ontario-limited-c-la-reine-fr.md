@@ -1,0 +1,267 @@
+---
+title: "2252493 Ontario Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218435/index.do"
+last_modified: "2017-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 20"
+citation2: ""
+neutral_citation: "2017 CCI 20"
+decision_date: "2017-01-31"
+language: "fr"
+item_id: "218435"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2966
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:36:58.024000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49efeea74783a4aa34d189f05f8f4f6d367ce076abd0e219f6c9ef29af71dbde"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2252493 Ontario Limited c. La Reine
+
+- Citation: 2017 CCI 20
+- Decision date: 2017-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2966, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2252493 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-01-31
+Référence neutre
+2017 CCI 20
+Numéro de dossier
+2014-3841(GST)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-3841(GST)G
+ENTRE :
+2252493 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 novembre 2016, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocates de l’appelante :
+Me Louise R. Summerhill
+Me Meghan A. Cowan
+Avocat de l’intimée :
+Me Laurent Bartleman
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel de la nouvelle cotisation du 15 février 2013 pour la période de déclaration du 5 août 2012 au 31 octobre 2012 est rejeté au motif que l’appelante était tenue, en application de l’article 221 de la section II de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, avec ses modifications successives, de percevoir la taxe de vente harmonisée à l’égard de la vente de son immeuble, dont l’adresse municipale est le 840, rue Yonge, à Toronto (Ontario). Les dépens sont adjugés à l’intimée, conformément au tarif applicable, sous réserve des observations écrites que l’une ou l’autre des parties pourront soumettre à la Cour dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2017.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 28e jour de mai 2018.
+Elisabeth Ross, jurilinguiste
+Référence : 2017 CCI 20
+Date : 20170131
+Dossier : 2014-3841(GST)G
+ENTRE :
+2252493 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction et TPS sur les immeubles
+[1] Aux termes de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, avec ses modifications successives (la « LTA »), la personne qui effectue une fourniture taxable est tenue de percevoir la taxe sur les produits et services, aujourd’hui désignée en Ontario sous le nom de taxe de vente harmonisée (la « TVH »). Cette exigence figure dans la disposition d’assujettissement général à la taxe, au paragraphe 221(1). Il existe des exceptions pour les immeubles, selon lesquelles le « fournisseur » d’un immeuble n’est pas tenu de percevoir et de verser la TVH si certaines conditions sont remplies. Une condition essentielle est que l’« acquéreur » de la fourniture doit être un inscrit conformément l’alinéa 221(2)b) de la LTA. Quand cette condition et d’autres (qui ne sont pas pertinentes en l’espèce) sont respectées, l’acquéreur de la fourniture de l’immeuble établit lui-même sa cotisation de TVH et verse directement la somme exigible au receveur général.
+[2] Dans le présent appel, l’appelante, 2252493 Ontario Limited, le fournisseur (vendeur) de l’immeuble commercial, déclare qu’une certaine partie était à la fois acquéreur de la fourniture et un inscrit conformément à la LTA. Le ministre du Revenu national (le « ministre ») soutient pour sa part que l’acquéreur était une partie différente et n’était pas un inscrit. Étant donné que nul ne conteste l’inscription de l’acquéreur désigné par l’une ou l’autre des parties, la seule question que la Cour doit trancher est l’identité de l’acquéreur de la fourniture. Si l’acquéreur est bien l’acquéreur non inscrit comme le pense le ministre, l’appelante aurait à payer 416 881,83 $ (le « montant de la TVH ») à l’égard de la vente de l’immeuble commercial, et la nouvelle cotisation serait maintenue.
+II. Les faits
+a) Les témoins
+[3] Trois personnes ont témoigné devant la Cour pour le compte de l’appelante : M. Corazon Tan (« M. Tan »), actionnaire principal, directeur et administrateur de l’appelante, Me Yee, l’avocat qui a représenté l’appelante dans le cadre de la vente de l’immeuble situé au 840, rue Yonge, à Toronto (l’« immeuble »), et M. Ambrose, le comptable qui a exercé ses fonctions pour les dirigeants des deux entreprises qui, selon l’appelante, étaient les acquéreurs inscrits. Mme Tsioubris, une agente de l’Agence du revenu du Canada (l’« ARC »), a témoigné pour l’intimée. C’est à partir des témoignages de ces personnes, mis ensemble, principalement au sujet des documents juridiques consignant la vente et de la propriété de l’immeuble, que se dégage le fondement factuel permettant d’établir l’identité exacte de l’acquéreur.
+b) La vente de l’immeuble
+[4] À la fin de l’été 2011, M. Tan a été sollicité par un agent immobilier alors inconnu à propos de la vente de l’immeuble à un acheteur alors inconnu. Une convention de vente a été conclue le 29 octobre 2011. Le prix d’achat était de 3 200 000 $, et il devait être intégralement payé à la date de clôture du 29 août 2012. La convention de vente contenait les clauses habituelles, imprimées ou insérées dans le formulaire commercial type de l’Ontario Real Estate Association. La clause 7 prévoyait ce qui suit :
+[traduction]
+7. TPS/TVH : Si la vente de l’immeuble (décrit ci-dessus) est assujettie à la taxe sur les produits et services (TPS) ou à la taxe de vente harmonisée (TVH), cette taxe s’ajoute au prix d’achat. Le vendeur ne perçoit pas la TPS ou la TVH si l’acheteur lui fournit une garantie indiquant qu’il est inscrit conformément à la Loi sur la taxe d’accise (« LTA »), de pair avec une copie de son inscription pour l’application de la LTA, ainsi qu’une garantie qu’il établira lui-même sa cotisation de TPS ou de TVH, qu’il paiera la somme exigible, qu’il produira le formulaire prescrit et indemnisera le vendeur de la TPS ou de la TVH exigible. Les garanties susmentionnées ne s’éteignent par confusion et survivent à l’exécution de l’opération. Si la vente de l’immeuble n’est pas assujettie à la TPS ou à la TVH, le vendeur convient d’attester, à la date de clôture au plus tard, que l’opération n’est pas assujettie à la TPS ou à la TVH. Est exclue du prix d’achat toute TVH sur les biens meubles, le cas échéant.
+Selon la convention de vente, l’« acheteur » était Mayling Holding Inc. (« Mayling »). À part Mayling et l’appelante, aucune autre partie n’a apposé sa signature ou n’était mentionnée dans la convention de vente ou dans la modification écrite connexe par laquelle étaient levées certaines conditions liées à la diligence raisonnable.
+c) La clôture et la documentation
+[5] Le jour fixé pour la clôture, soit le 29 août 2012 (la « date de clôture »), les parties ont échangé leurs documents juridiques. Certains d’entre eux avaient été établis par Me Yee et d’autres par Me Romanelli, du cabinet Bratty & Co., avocats de Mayling et des autres « acheteurs » concernés. Parmi ces documents, Mayling a signé et remis un document intitulé [traduction] « Instruction relative au titre de propriété », adressé à l’appelante et au cabinet de Me Yee. Ce document était daté et signé par le président de Mayling. Il désignait Mayling Holding Inc. comme étant l’acheteur de l’immeuble et prescrivait que [traduction] « l’acte ou la cession » fût grossoyés de la manière suivante :
+[traduction]
+840 YONGE STREET HOLDINGS INC.
+Adresse de signification :
+a/s 7501, rue Keele
+Bureau 200
+Vaughan (ON) L4K 1Y2
+À l’attention d’Anthony Romanelli
+[6] L’appelante a aussi signé et remis les documents de clôture opérants qui suivent :
+i) Instruction concernant le paiement final, signée le 27 août 2012 par l’appelante;
+ii) Garantie concernant l’immeuble, signée le 27 août 2012 par M. Tan, pour l’appelante;
+iii) Acte de vente de l’immeuble, signé le 27 août 2012 par M. Tan, pour l’appelante;
+iv) Déclaration de possession de l’immeuble, signée le 27 août 2012 par M. Tan en qualité de président de l’appelante;
+v) Déclaration solennelle, signée le 27 août 2012 par M. Tan;
+vi) Cession des baux du vendeur, accordée par l’appelante en faveur de 840 Yonge Street Inc. (« 840 Holdings »), signée le 27 août 2012 par M. Tan en qualité de président;
+vii) Avis et instruction aux locataires (opération de vente), signé le 27 août 2012 par M. Tan en qualité de président de l’appelante, et désignant 840 Holdings comme étant l’« acheteur »;
+viii) Déclaration solennelle faite sous serment par M. Tan, le 27 août 2012;
+ix) Deux accusés de réception de locataire distincts, faisant état des garanties de deux locataires commerciaux quant aux modalités du bail et confirmant la réception de l’avis de vente de l’immeuble ainsi que de l’avis concernant le nouveau destinataire et bénéficiaire des loyers.
+[7] À part les accusés de réception des locataires mentionnés tout juste ci‑dessus, tous les documents définissaient ou désignaient 840 Holdings comme étant l’acheteur.
+[8] Outre l’instruction relative au titre de propriété, Mayling ou 840 Holdings ont fourni les documents de clôture suivants :
+i) Déclaration solennelle concernant la TVH, faite sous serment le 28 août 2012 par Anthony Romanelli en qualité de signataire dûment autorisé de 840 Holdings;
+ii) Déclaration et convention d’indemnisation concernant l’autocotisation, le versement et l’indemnisation pour perte concernant la TVH découlant de la vente de l’immeuble, signée par Me Romanelli en qualité de signataire dûment autorisé de 840 Holdings et datée du 28 août 2012.
+[9] Chacun des deux accusés de réception des locataires était adressé à [traduction] « Mayling ou ses cessionnaires (l’“acheteur”) », en qualité d’acheteur. Chacun de ces documents confirmait l’état du bail sous-jacent, les paiements de loyer, les dépôts et la régularité de la situation.
+[10] L’appelante seule a signé la cession susmentionnée de baux qui lui était adressée en qualité de « cessionnaire » et qui faisait mention de Mayling en qualité d’« acheteur » prenant en charge les locataires existants. Un extrait des attendus de ce document prévoit ceci :
+[traduction]
+ATTENDU QUE, par la convention de vente datée du 29 octobre 2011, avec ses modifications successives (ci-après appelé la « convention de vente »), le cédant, en qualité de vendeur, a convenu de vendre à Mayling Holdings Inc. (l’« acheteur »), en qualité d’acheteur, et l’acheteur a convenu d’acheter du cédant les terrains situés en la Ville de Toronto, en la province de l’Ontario, et légalement décrits comme suit : partie des lots 4 et 5, plan 355, Yorkville comme dans CT906968, Toronto, et comprenant la propriété dont le numéro d’identification est 21197‑0149 (LT) (ci-après appelés les « terrains »);
+ET ATTENDU QUE le contrat d’achat prévoit que l’acheteur convient de prendre en charge les locataires actuels qui occupent les terrains;
+ET ATTENDU QUE l’acheteur, par un transfert de titre daté du 27e jour d’août 2012, a transféré au cessionnaire le titre de propriété des terrains;
+[11] Le transfert de l’immeuble a été enregistré le 30 août 2012, et il comportait les renseignements qui suivent :
+Cessionnaire : 840 Yonge Street Holdings Inc.
+[12] La déclaration de droits de cession immobilière a été faite par Me Romanelli, en qualité de [traduction] « Cessionnaire – 840 YONGE STREET HOLDINGS INC. », [traduction] « e) le président, vice-président, directeur, secrétaire, administrateur ou trésorier autorisé à agir au nom de 840 YONGE STREET HOLDINGS INC., mentionnée au(x) paragraphe(s) c) ». La case b) de l’affidavit, où figurent les mots « un fiduciaire nommé dans l’acte de cession mentionné ci-dessus à qui le bien-fonds est cédé », n’a pas été cochée comme il le fallait.
+[13] L’état des rajustements est resté daté du 29 août 2012 et il indiquait le paiement du prix d’achat et des rajustements de loyer, mais sans indiquer que la TVH avait été perçue sur la fourniture de l’immeuble. Me Yee a témoigné que la TVH n’avait pas été perçue parce qu’il était d’avis que le document [traduction] « Instruction relative au titre de propriété » faisait de 840 Holdings l’acquéreur de l’immeuble. De plus, une déclaration solennelle, contenant le numéro d’inscription au registre de la TVH de 840 Holdings, a été fournie, et une recherche effectuée dans le registre en date du 29 août 2012 a confirmé l’inscription de 840 Holdings. Me Yee a donc conclu que les clauses en matière d’autocotisation de la convention de vente s’appliquaient à 840 Holdings. Celle-ci était donc légalement tenue d’établir elle-même sa cotisation de TVH sur la vente de l’immeuble et de verser la somme exigible. Détail plus important, l’appelante, sa cliente, n’avait pas à le faire et ne l’a pas fait. Un fait particulier est que l’inscription de 840 Holdings au registre de la TVH a été rétroactivement révoquée, à la requête de celle‑ci, en janvier 2013, avec effet au 23 août 2012.
+[14] Bien que tous les documents aient été fournis et que les paiements aient été déposés à temps pour l’enregistrement à la date de clôture, soit le 29 août 2012, les témoignages à l’audience ont confirmé que l’enregistrement et la renonciation ont eu lieu le 30 août 2012. Aucun document de clôture, y compris l’état des rajustements, n’a été modifié de façon à indiquer une date de clôture autre que le 29 août 2012.
+d) La nouvelle cotisation établie après la clôture
+[15] Après avoir examiné les documents lors d’une vérification et en s’appuyant sur l’hypothèse selon laquelle Mayling était l’acquéreur de l’immeuble et n’était pas inscrite au registre de la TVH, le ministre a établi une nouvelle cotisation à l’endroit de l’appelante le 15 février 2013, pour sa période de déclaration du 5 août 2012 au 31 octobre 2012.
+[16] Après l’établissement de la nouvelle cotisation, les documents suivants ont été réunis ou fournis à l’appelante par les avocats ou les représentants de 840 Holdings ou les acquéreurs supposés :
+Titre du document
+Date
+Description sommaire du contenu
+Contrat de copropriété modifié et révisé (« contrat de copropriété ») entre :
+Bazis YYC Inc. (« Bazis YYC »);
+Plazacorp Holdings Limited (« Plazacorp »);
+840 Holdings;
+846 Yonge Street Holdings Ltd.
+[traduction] « Prise d’effet le 28 août 2012 »
+Ce contrat révise un contrat de copropriété « original » et comporte les conditions suivantes :
+a) crée le statut de « représentant » pour 840 Holdings et une autre société, 846 Yonge Street Holdings Inc. (« 846 Yonge »);
+b) confère la propriété effective de l’immeuble et d’autres immeubles à Bazis YYC et Plazacorp (les « membres »);
+c) répartit entre les membres la distribution des bénéfices, de l’actif et du passif;
+d) énonce en détail les pouvoirs concernant la gestion continue des immeubles;
+e) confère à 846 Yonge la responsabilité de percevoir et de verser la TVH.
+Déclaration solennelle de l’acheteur, faite sous serment par le président de Bazis YYC, et convention d’indemnisation signée par les dirigeants autorisés de 840 Holdings et de Bazis YYC, relativement à la taxe de vente harmonisée
+[traduction] « Signé le 30 août 2012 »
+Les conditions de ce document type prévoient ce qui suit :
+1. 840 Holdings achète l’immeuble à titre de fiduciaire pour le compte de Bazis YYC;
+2. Bazis YYC est inscrit au registre de la TVH;
+3. La TVH est payable à l’achat et les [traduction] « soussignés […] ayant payé ou convenu de payer la TVH » sont assujettis à la TVH;
+4. Tant 840 Holdings que Bazis YYC s’engagent à indemniser l’appelante, en qualité de vendeur.
+Déclaration solennelle de Michael Gold, président de Bazis YYC
+30 août 2012
+Cette déclaration type confirme l’inscription de Bazis YYC au registre de la TVH, le numéro de TPS et l’usage de l’immeuble à des fins commerciales, et aussi que [traduction] « la société produira, au plus tard à la date d’exigibilité de la déclaration de TVH de la société […] la déclaration fiscale concernant l’acquisition de l’immeuble, conformément aux paragraphes 221(2) […] de la Loi ».
+Résultat de la recherche sur Bazis YYC dans le registre de la TPS/TVH
+20 octobre 2012
+La recherche, faite le 20 octobre 2012, révèle qu’en date du 29 août 2012, Bazis YYC était inscrite au registre de la TVH.
+Résultat de la recherche sur Plazacorp dans le registre de la TPS/TVH
+27 novembre 2014
+La recherche, faite le 27 novembre 2014, révèle qu’en date du 30 août 2012, Plazacorp était inscrite au registre de la TVH.
+[17] L’avocat de l’intimée a contesté à l’audience l’authenticité de la date de certains des documents ci‑dessus, soit le contrat de copropriété et la déclaration solennelle de l’acheteur et convention d’indemnisation relative à la TVH, et, par conséquent, la véracité de leur contenu. Me Yee a admis lors de son témoignage que ni lui ni l’appelante n’étaient au courant de l’existence de ces documents, pas plus que de l’existence ou de la participation de Bazis YYC ou de Plazacorp, avant que le ministre établisse la nouvelle cotisation.
+[18] En outre, plusieurs documents de ministères provinciaux ont été produits en preuve au sujet des dates de constitution en société. 840 Holdings et Bazis YYC ont été constituées en société après la signature de la convention de vente, mais avant la date de clôture. Plazacorp existait avant que la convention de vente soit signée.
+III. Les dispositions législatives applicables
+[19] Les passages applicables et pertinents de la LTA sont les suivants [non souligné dans l’original] :
+Perception
+221(1) La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+Exception – fourniture d’un immeuble
+(2) Le fournisseur, sauf un fournisseur visé par règlement, qui effectue la fourniture taxable d’un immeuble par vente n’est pas tenu de percevoir la taxe payable par l’acquéreur en vertu de la section II si, selon le cas :
+[…]
+b) l’acquéreur est inscrit aux termes de la sous-section d et, […]
+Autocotisation lors de l’acquisition d’un immeuble
+228(4) Le redevable de la taxe prévue à la section II relativement à un immeuble qui lui a été fourni par une personne qui n’est pas tenue de percevoir la taxe et n’est pas réputée l’avoir perçue est tenu :
+a) s’il est un inscrit et a acquis le bien pour l’utiliser ou le fournir principalement dans le cadre de ses activités commerciales, de payer la taxe au receveur général au plus tard le jour où il est tenu de produire sa déclaration pour la période de déclaration où la taxe est devenue payable et d’indiquer la taxe dans cette déclaration;
+[…]
+Au paragraphe 123(1), les termes « acquéreur » et « fourniture » sont définis ainsi :
+acquéreur
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+[…]
+Et, finalement, l’article 133 porte sur le moment réputé de la fourniture :
+Convention portant sur une fourniture
+133 Pour l’application de la présente partie, la fourniture objet d’une convention est réputée effectuée à la date de conclusion de la convention. La livraison du bien ou la prestation du service aux termes de la convention est réputée faire partie de la fourniture et ne pas constituer une fourniture distincte.
+IV. Les observations juridiques des parties
+a) Les observations de l’appelante
+[20] Les avocates de l’appelante affirment que l’acquéreur de la fourniture n’est pas Mayling, mais Bazis YYC ou Plazacorp, et ce, pour les raisons suivantes : (i) au moment de la clôture de la vente de l’immeuble, soit le 29 août 2012 (la « date de clôture »), l’appelante a reçu instruction d’inscrire le titre de propriété au nom de 840 Holdings; (ii) à ce moment, 840 Holdings était inscrite au registre de la TPS/TVH; (iii) à une date ultérieure, et après avoir reçu copie du contrat de copropriété, l’appelante a été informée que 840 Holdings avait acquis l’immeuble en fiducie à titre de simple fiduciaire, représentante ou mandataire à la date de clôture pour le compte de Bazis YYC ou de Plazacorp, qui étaient les propriétaires bénéficiaires (les « propriétaires bénéficiaires ») ou les mandants à parts égales; (iv) les propriétaires bénéficiaires ont payé la contrepartie; (v) les propriétaires bénéficiaires étaient des inscrits à la date de clôture et ils ont établi eux-mêmes la cotisation de TVH découlant de la vente et de l’achat de l’immeuble.
+[21] L’appelante soutient qu’indépendamment du fait que Mayling ait été désignée comme étant l’acheteur dans la convention de vente, étant donné que les propriétaires bénéficiaires de l’immeuble étaient les acquéreurs de la fourniture et des inscrits à la date de clôture, elle n’était pas tenue de percevoir la TPS/TVH en application de l’alinéa 221(1)b) de la LTA. Bien que les deux parties reconnaissent que ce fait soit sans rapport avec la nouvelle cotisation, l’appelante a également signalé que les propriétaires bénéficiaires ont établi eux-mêmes le montant de la TVH et ont payé la TVH. En raison de la nouvelle cotisation, la vente de l’immeuble a été assujettie deux fois à la TVH. Pour l’intimée, cela représente un gain fortuit.
+[22] Pour corroborer ces affirmations, les avocates de l’appelante ont fait référence à diverses publications de l’ARC dans lesquelles, peut-on lire, « lorsqu'une opération est effectuée par le fiduciaire à titre de mandataire non divulgué, le [propriétaire bénéficiaire], en tant que [mandant], doit percevoir et verser la taxe […] ». Ce passage figure dans l’Énoncé de principe P‑105, intitulé « Le traitement des simples fiducies en vertu de la Loi sur la taxe d’accise », 20 juillet 1992. Dans le même ordre d’idées, l’appelante soutient que diverses autres publications, datant des vingt dernières années au moins, indiquent que, lorsqu’il existe une simple fiducie, le propriétaire bénéficiaire a l’obligation et la responsabilité d’établir sa propre cotisation de TVH et de verser la taxe : Bulletin d’information technique B‑068 de l’ARC, « Simples fiducies » (20 janvier 1993); Mémorandum 8.1 sur la TPS/TVH de l’ARC, « Règles générales d’admissibilité » (mai 2005), paragraphe 69; David M. Sherman, « 221(2) Obligation to Collect Tax – Exceptions » (2016), p. 221‑211, Thomson Reuters Canada Ltd. (Canada GST Service); Table ronde sur la TPS/TVH de l’ARC et de l’ICAA (mai 2005), Question no 2; Table ronde sur la TPS de l’ARC et de l’ICAA, décembre 2009, no 4, p. 4; Table ronde sur la TPS de l’ARC, avril 2016, nos 8 et 9, p. 25 et 26; Blair Nixon et Vincent M. Bjorndahl, « GST and Business Trusts: Filling the Gaps » (1996) 44:3 Canadian Tax Journal, p. 742.
+[23] En bref, l’appelante déclare qu’au vu des publications de l’ARC, qui sont sans équivoque et établies depuis longtemps, concernant les simples fiducies et les mandats, l’affirmation de l’intimée selon laquelle la partie qui est désignée comme étant l’« acheteur », comme dans la convention de vente, et qui, comme en l’espèce, n’acquiert jamais un intérêt dans le bien-fonds doit payer la TVH est incohérente et inéquitable et va à l’encontre d’un principe administratif bien établi de l’ARC.
+[24] La jurisprudence confirme également ce principe administratif. L’appelante renvoie aux décisions suivantes : Peragine c. La Reine, 2012 CCI 348, où l’on a attribué un gain en capital à un propriétaire bénéficiaire plutôt qu’au simple fiduciaire acquéreur, détenteur du titre de propriété; De Mond c. La Reine, [1999] A.C.I. no 403 (QL) (C.C.I.), où les pertes attribuables à une opération immobilière ont été attribuées au propriétaire acquéreur ayant droit aux bénéfices plutôt qu’au simple fiduciaire acquéreur et détenteur du titre de propriété; Cheema c. La Reine, 2016 CCI 251 (en appel), où la Cour a conclu que la responsabilité ultime d’un propriétaire bénéficiaire l’emporte sur la propriété nominale en common law de deux acheteurs et détenteurs de titre conjoints, relativement à un remboursement de TPS pour habitations neuves; Javaid c. La Reine, 2015 CCI 94, où la Cour a conclu qu’une partie garante coacquéreuse et détentrice du titre n’était qu’une simple mandataire et que, de ce fait, le mandant répondrait aux conditions liées au remboursement de TPS; enfin, Samuel C. Young Professional Corp. c. La Reine, 2007 CCI 69, où la Cour a reconnu que le propriétaire bénéficiaire était l’acquéreur de la fourniture et que, par conséquent, l’acheteur « mandataire » acquéreur et détenteur du titre n’était pas tenu de verser la TPS.
+b) Les observations en réponse de l’intimée
+[25] L’intimée affirme que, tout simplement, Mayling, pendant toute la période qui s’est écoulée entre la date de signature et la date de clôture inclusivement, était la partie responsable aux termes de la convention de vente. Elle était donc l’acquéreur. La thèse selon laquelle 840 Holdings, Bazis YYC ou Plazacorp étaient les acquéreurs est impossible sur le plan juridique; premièrement, aucune d’entre elles n’était partie à la convention de vente et aucune n’est devenue responsable aux termes de la convention de vente. C’est ce que confirme le propre avis d’appel de l’appelante, qui ne fait jamais valoir que l’une ou l’autre de ces parties était l’acquéreur ou la partie responsable aux termes de la convention de vente.
+[26] De plus, les documents sont clairs. La convention de vente oblige Mayling à établir elle‑même la cotisation de TVH et à verser la taxe. La convention de vente contient une clause de prépondérance par rapport aux documents accessoires et aux dispositions en matière de confidentialité entre les deux parties. La convention de vente a été pleinement exécutée, conformément à ses modalités. Le simple document donnant instruction de transférer le titre à 840 Holdings fourni à l’appelante n’est ni légalement ni factuellement une cession des droits de Mayling ni, plus important encore, une prise en charge par 840 Holdings de la responsabilité de s’acquitter des obligations de Mayling. Une telle prise en charge de la responsabilité nécessiterait le consentement écrit de Mayling et de l’appelante, les seules parties à la convention de vente, pour que les modalités puissent être modifiées expressément. Cela n’a pas eu lieu.
+[27] L’intimée soutient que toute affirmation selon laquelle Bazis YYC était responsable à titre de mandant ou bénéficiaire d’une fiducie au moment où la fourniture a eu lieu, c’est-à-dire la date de la convention de vente, est encore moins plausible. Il en est de même de la capacité de 840 Holdings d’avoir été mandataire ou fiduciaire à cette époque. La raison en est fort simple : au moment de la signature de la convention de vente, ni l’une ni l’autre de ces entités n’existaient. La fourniture a légalement eu lieu à ce moment-là aux termes de l’article 133 de la LTA. 840 Holdings et Bazis YYC n’ont jamais été responsables au titre de la convention de vente, et la convention de fiducie établie après le fait, la déclaration solennelle et convention d’indemnisation sont suspectes et, par ailleurs, peu pertinentes, car ni Bazis YYC ni Plazacorp n’étaient des acquéreurs aux termes de la convention de vente. La preuve soumise à la Cour sur la capacité de Plazacorp était inexistante.
+V. La question en litige reformulée
+[28] La seule question en litige, légèrement reformulée, est la suivante : qui est l’acquéreur de la fourniture et la personne responsable, aux termes de la convention de vente, de payer le prix d’achat?
+[29] À cet égard, l’appelante qualifie 840 Holdings de simple fiduciaire ou de mandataire acquérant ou détenant l’immeuble au moyen de ce qui a été appelé de façon quasi interchangeable simple fiducie, nue-fiducie ou relation mandant-mandataire non divulguée pour Bazis YYC ou pour Plazacorp, ou les deux. Ce faisant, et par souci de clarté, l’appelante ne soutient pas que Mayling, l’acheteur selon les documents légaux, était le simple fiduciaire, le représentant désigné ou le mandant. Cela ressort clairement quand l’appelante soutient que 840 Holdings avait acquis l’immeuble en fiducie à titre de simple fiduciaire ou de représentant désigné de Bazis YYC ou de Plazacorp (les « propriétaires bénéficiaires »).
+[30] Si l’on reformule légèrement le fondement de l’appel, pour que l’appelante obtienne gain de cause, la Cour doit conclure que ni Mayling, désignée comme étant l’acheteur dans la convention, ni 840 Holdings, désignée comme étant le détenteur du titre transféré « à la clôture », n’étaient l’acquéreur de la fourniture et n’étaient tenues d’effectuer la fourniture aux termes de la convention de vente. De plus, compte tenu de la séquence des faits relativement à l’inscription des entités à la clôture, la Cour doit conclure que 840 Holdings n’était qu’un simple fiduciaire, un représentant ou un mandataire pour le compte des propriétaires bénéficiaires au moment de la clôture. En bref, y avait-il à ce moment une fiducie ou une relation de mandant-mandataire en faveur de Bazis YYC ou de Plazacorp?
+[31] Pour les motifs qui suivent, la Cour ne peut tirer ces conclusions.
+VI. Analyse et décision
+[32] Au moment où la convention de vente a été signée, ni Bazis YYC ni 840 Holdings n’existaient. En fait, aucun des présumés mandataires, simples fiduciaires, mandants ou propriétaires bénéficiaires n’existait à la signature de la convention de vente. Les motifs ci‑après concernant la preuve documentaire et l’intention des parties jusqu’à la date de clôture relativement à l’existence d’une fiducie s’appliquent également à la notion de mandat.
+[33] Il n’est correct ni en fait ni en droit, en l’absence des documents requis, de soutenir que des affirmations générales faites après la clôture d’une opération peuvent transformer un cessionnaire désigné, comme 840 Holdings, en un fiduciaire, ou transformer Bazis YYC ou Plazacorp en un acquéreur et en un débiteur pour l’application à la fois de la convention de vente, des documents de clôture ou des conventions n’éteignant pas les obligations par confusion.
+[34] Toutes les publications de l’ARC prescrivent et présument que des éléments de preuve non contredits ou, à tout le moins, prédominants qui existent à la date de clôture doivent systématiquement révéler l’existence de la fiducie (simple ou d’une autre nature) ou, d’ailleurs, de la relation mandant-mandataire. La condition « s’il existe une fiducie ou un mandat » est présente dans la quasi‑totalité de ces publications de l’ARC. En l’espèce, les conclusions de fait qui suivent ne dénotent pas qu’il existait de tel arrangement à la date de clôture ou avant :
+a) il n’y a pas de prise en charge de la part de 840 Holdings ou de consentement de la part de Mayling à l’égard de quelque responsabilité que ce soit pour l’application de la convention de vente, des documents de clôture ou de l’affidavit sur les droits de cession immobilière : Lounsbury Co. c. Duthie, [1957] R.C.S. 590, aux paragraphes 13 et 14. En droit, Mayling n’a été libérée par aucun document connu des obligations qui lui incombaient au titre de la convention de vente. De plus, l’appelante n’affirme pas qu’elle était un acquéreur, mais plutôt un mandataire ou un simple fiduciaire;
+b) il n’y a pas d’entente par laquelle Mayling aurait transféré l’immeuble ou le titre en common law sur ce dernier à 840 Holdings à titre de fiduciaire ou de mandataire des propriétaires bénéficiaires. Dans ce contexte, aucun document ne montre qu’une entité autre que Mayling était tenue de payer la contrepartie à l’appelante ou de prendre en charge les baux : Y.S.I.’s Yacht Sales International Ltd. c. La Reine, 2007 CCI 306, au paragraphe 57, et Canada c. Merchant Law Group, 2010 CAF 206, aux paragraphes 12 à 14;
+c) le contrat de copropriété daté du 30 août 2012 et la déclaration solennelle et convention d’indemnisation remaniée, produites pour la première fois après que l’on eut établi la nouvelle cotisation ou menacé de le faire, ont peu d’importance, et ce, pour plusieurs motifs. Premièrement, rien n’indique clairement quand le [traduction] « contrat de copropriété original », remplacé par le contrat de copropriété dont il est question en l’espèce, a été effectivement signé ou à quel moment l’immeuble a été effectivement transféré à la « fiducie ». Deuxièmement, ce document ne précise nulle part de quelle façon 840 Holdings a acquis son titre, ses droits ou ses obligations de Mayling en vue de les détenir en fiducie pour les propriétaires bénéficiaires. Il n’est fait nulle mention de Mayling dans ce document, et celle‑ci n’en est pas signataire. Troisièmement, la déclaration solennelle et convention d’indemnisation de Bazis YYC n’est pas datée de la date de clôture, soit le 29 août 2012, mais plutôt du 30 août 2012. Cela indique que ces documents ont été signés ou faits après la date de clôture proprement dite parce qu’ils portent la date d’enregistrement réelle. Au moment où tous les documents de clôture effectifs ont été par ailleurs établis, signés et remis, les parties ne connaissaient pas cette date. Cela dénote fortement l’existence d’une intention et d’une action ultérieures qui ne concordent pas avec le fait que l’un ou l’autre des propriétaires bénéficiaires était l’acquéreur de l’immeuble à la date de clôture;
+d) de plus, les documents destinés à réaliser la clôture délivrés à la date de clôture peuvent tout autant mener, sans que ce soit plus absurde, à la conclusion que, au moment de la clôture, 840 Holdings est devenue à la fois propriétaire bénéficiaire et propriétaire en common law de l’immeuble ou à la conclusion que, à ce moment, elle est devenue fiduciaire ou mandataire pour le propriétaire bénéficiaire, Mayling. Si l’un ou l’autre de ces deux scénarios d’interprétation est véridique, cela signifie que la cotisation portée en appel est quand même exacte et que l’appel sera rejeté. Dans les faits, ni Mayling ni 840 Holdings n’étaient en fin de compte inscrites au registre de la TVH à la date de clôture. Indépendamment de ces conjectures subsidiaires, il n’en demeure pas moins qu’aucun des documents de clôture n’indique qu’une entité autre que Mayling a été débitrice de l’appelante aux termes de la convention de vente au moment de sa signature, durant la période qui a précédé la clôture, lors de l’échange de tous les autres documents de clôture ou à la date de clôture. Par ailleurs, aucun document n’a été signé ni même établi, que ce soit à la clôture ou avant, qui indiquerait que Bazis YYC ou Plazacorp étaient des débiteurs, des propriétaires bénéficiaires ou des mandants : Ritopecki c. Breslow Kantor Inc. et al., 1983 Carswell Ont 3429, aux paragraphes 37 et 38. C’est l’appelante qui doit elle-même déterminer, en se basant sur les documents qui lui ont été remis à la clôture, qui est l’acquéreur de la fourniture et le débiteur selon la convention de fourniture au moment pertinent.
+[35] En conclusion, les fiducies (mêmes simples) et les mandats (aussi sommaires soient‑ils) ne sont pas des concepts ambitieux formés par une intention imprécise ou des plans virtuels : Baldasossarra c. MRN, 1990 CarswellNat 537 (C.C.I.), au paragraphe 12, et Low c. La Reine, [1993] A.C.I. no 245 (QL) (C.C.I.). C’est surtout vrai lorsque l’identité de l’acquéreur et du débiteur se détermine à un point fixe dans le temps : le moment où la convention de fourniture est conclue et la date de clôture. C’est ce qu’indique clairement l’article 133 de la Loi.
+[36] Par ailleurs, dans les affaires où il a été conclu qu’une simple fiducie ou un mandat existaient, et qui existaient de l’avis de l’ARC, les diverses parties ont dû communiquer des documents ou des éléments de preuve au fournisseur, au moment de la fourniture. Par exemple, dans des affaires de remboursement de la TPS pour habitations neuves, où la Cour a conclu que, parmi les parties nommées dans une convention de vente, une seule était le propriétaire bénéficiaire et l’autre un simple mandataire ou un simple fiduciaire, ces deux parties avaient signé le ou les documents créant la fourniture et les obligations connexes ou y étaient inextricablement liées.
+[37] En l’espèce, ni Bazis YYC ni Plazacorp, les supposés propriétaires bénéficiaires et mandants, ni 840 Holdings, le supposé fiduciaire ou mandataire, n’ont signé la convention de vente, n’ont été décrites en cette qualité à l’appelante ou ont été désignées comme telles de manière fiable dans d’autres documents accessoires contemporains. Ces faits se distinguent nettement de ceux à l’origine des décisions suivantes : Rochefort c. La Reine, 2014 CCI 34, aux paragraphes 11 et 24; Javaid c. La Reine, 2015 CCI 94, au paragraphe 22; Cheema c. La Reine, 2016 CCI 251, au paragraphe 54 (pour ce qui est de l’aspect documentation seulement).
+[38] En résumé, il faut des documents de création et un fondement réel pour faire jouer les publications que l’ARC a produites, la jurisprudence et, par‑dessus tout, le droit en matière de mandats ou de fiducies. Bien qu’il ne soit pas nécessaire que l’une ou l’autre de ces relations soient communiquées ou abondamment documentées, les deux doivent se refléter dans les faits, pendant la période en cause, sous une forme efficace quelconque pour satisfaire à leurs éléments juridiques respectifs : Canpar Developments Inc. c. La Reine, 2011 CCI 353, aux paragraphes 8 et 9 (au sujet des fiducies), Y.S.I.’s Yacht Sales, précitée, aux paragraphes 41 à 49 (au sujet des mandats). Dans le même ordre d’idées, le vendeur d’un immeuble à usage commercial, ce qui est le cas de l’appelante à l’égard de l’immeuble dont il est question en l’espèce, est tenu de déterminer, au moment pertinent : (i) qui est l’acquéreur au sens de la LTA; (ii) si cet acquéreur est un inscrit, afin de se dégager, à titre de fournisseur, de l’obligation de percevoir la TVH sur la fourniture. Lorsque l’acquéreur évident, la personne qui doit payer la contrepartie, est désigné dans la convention de vente comme étant l’« acheteur », il faut dans ce cas quelque chose de plus concomitant à la clôture qu’une instruction unilatérale d’une page à propos du titre de propriété pour infirmer l’entente mutuelle, les faits évidents, les conclusions logiques et les obligations juridiques dont fait état la convention de vente, qui vont tous en sens contraire.
+[39] Dans la présente affaire, il n’était pas nécessaire que les documents soient volumineux ou complexes. Une convention de cession et de prise en charge d’une ou deux pages, une simple déclaration de fiducie ou une cosignature de la convention de vente liant Mayling et 840 Holdings auraient suffi. Il aurait également été fort utile que les propriétaires bénéficiaires divulguent clairement, au moment opportun, qu’ils étaient débiteurs. Aucun de ces documents n’a été demandé par l’appelante ou remis par Mayling, 840 Holdings ou les propriétaires bénéficiaires à la date de clôture ou avant. De ce fait, on ne peut conclure sur le fondement des faits, des documents ou de déductions que l’appelante aurait dû déterminer qu’une partie autre que Mayling était l’acquéreur de la fourniture à la date de clôture. En résumé, la condition « s’il existe une fiducie ou un mandat » ne s’applique pas au présent appel.
+[40] Mayling est demeurée l’acheteur jusqu’à la clôture et, dans ce contexte, elle était tenue de payer la contrepartie. Cela satisfait à la définition et aux conditions prescrites pour que l’acquéreur perçoive et verse la TVH en vertu de la LTA, à condition que Mayling soit un inscrit. Elle ne l’était pas. De ce fait, tant la LTA que la convention de vente obligeaient l’appelante à percevoir et à verser la TVH, ce qu’elle n’a pas fait. La nouvelle cotisation est donc correcte.
+[41] Au-delà de cette conclusion, aucun fait ne donne à penser qu’à la date de clôture, ou avant, les propriétaires bénéficiaires désignés, Bazis YYC ou Plazacorp, étaient considérés par l’appelante comme étant obligés – faute de quoi ils se seraient exposés à une poursuite – de payer la contrepartie. Cela concorde avec tous les témoignages entendus à l’audience, lesquels ont révélé que l’appelante, avant la date de clôture, n’avait fait aucune recherche dans le registre de la TVH au sujet de Bazis YYC ou de Plazacorp à titre d’acquéreurs possibles et qu’elle ne l’avait fait qu’après l’établissement de la nouvelle cotisation.
+[42] L’appel est donc rejeté avec dépens à l’intimée, conformément au tarif applicable, sous réserve des observations écrites que l’une ou l’autre des parties pourront soumettre à la Cour dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2017.
+« R.S. Bocock »
+Juge Bocock
+Traduction certifiée conforme
+ce 28e jour de mai 2018.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2017CCI20
+No DU DOSSIER DE LA COUR :
+2014-3841(GST)G
+INTITULÉ :
+2252493 ONTARIO LIMITED c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 novembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 31 janvier 2017
+COMPARUTIONS :
+Avocates de l’appelante :
+Me Louise R. Summerhill
+Me Meghan A. Cowan
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Louise R. Summerhill
+Cabinet :
+Aird & Berlis, LLP
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

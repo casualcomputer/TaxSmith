@@ -1,0 +1,161 @@
+---
+title: "Zhang v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30082/index.do"
+last_modified: "2010-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 592"
+citation2: ""
+neutral_citation: "2010 TCC 592"
+decision_date: "2010-11-18"
+language: "en"
+item_id: "30082"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7604
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:50:33.168000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7b4889bd578eeaaaaa146088a7d0ffe6ff5459fbb79d1f49de06ab0e579e8272"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zhang v. The Queen
+
+- Citation: 2010 TCC 592
+- Decision date: 2010-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7604, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-18
+Neutral citation
+2010 TCC 592
+File numbers
+2009-3067(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3067(IT)I
+BETWEEN:
+FAN ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 21, 2010, at Vancouver, British Columbia.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+A. K. Sandhu
+____________________________________________________________________
+JUDGMENT
+The appeal from reassessment under the Income Tax Act with respect to the 2006 taxation year is dismissed in accordance with the Reasons for Judgment attached herewith.
+Signed at Ottawa, Canada, this 18th day of November 2010.
+"Réal Favreau"
+Favreau J.
+Citation: 2010 TCC 592
+Date: 20101118
+Docket: 2009-3067(IT)I
+BETWEEN:
+FAN ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal under the informal procedure against a reassessment made by the Minister of National Revenue (the "Minister") under the Income Tax Act, R.S.C. 1985, c. 1 (5th Suppl.) as amended (the "Act"), for the Appellant's 2006 taxation year. By the reassessment, the Minister increased the total income of the Appellant to $48,165 by:
+a) reducing the T4 earnings to $26 to match a T4 - Statement of Remuneration issued by the University of British Columbia ("UBC");
+b) increasing other income (fellowship awards) to $46,999 to match a T4A – Statement of Pension, Retirement, Annuity and Other Income issued by UBC for scholarships, fellowships, bursaries, or art production grants; and
+c) allowing a $500 exemption on the other income of $46,999 in accordance with subsection 56(3) of the Act.
+[2] In making the reassessment, the Minister relied on the facts described in paragraph 10 of the Reply to the Notice of Appeal which reads as follows:
+a) the Appellant received fellowship awards totalling $46,999 from UBC during the 2006 taxation year, and
+b) UBC has not issued a T2202A – Tuition, Education and Textbook Amounts Certificate for the 2006 taxation year to the Appellant.
+[3] The issue is whether the Appellant is entitled to an exemption for scholarships, fellowships, bursaries and prizes in excess of the $500 allowed by the Minister. The Minister submits that the amount of the exemption was properly calculated as the Appellant did not receive the fellowship awards totalling $46,999 as a student enrolled in a program that entitles her to claim the education amount as described in subsection 118.6(2) of the Act.
+[4] The relevant provisions of the Act for the purpose of this appeal are paragraph 56(1)(n), subsection 56(3) and subsection 118.6(2). They read as follows:
+56(1) Amounts to be included in income for year -- Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(n) scholarships, bursaries, etc. -- the amount, if any, by which
+(i) the total of all amounts (other than amounts described in paragraph (q), amounts received in the course of business, and amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer (other than a prescribed prize),
+exceeds
+(ii) the taxpayer's scholarship exemption for the year computed under subsection (3);
+56.(3) Exemption for scholarships, fellowships, bursaries and prizes -- For the purpose of subparagraph (1)(n)(ii), a taxpayer's scholarship exemption for a taxation year is the total of
+(a) the total of all amounts each of which is the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of a scholarship, fellowship or bursary received in connection with the taxpayer's enrolment
+(i) in an educational program in respect of which an amount may be deducted under subsection 118.6(2) in computing the taxpayer's tax payable under this Part for the taxation year, for the immediately preceding taxation year or for the following taxation year, or
+(ii) in an elementary or secondary school educational program,
+(b) the total of all amounts each of which is the lesser of
+(i) the amount included under subparagraph (1)(n)(i) in computing the taxpayer's income for the taxation year in respect of a scholarship, fellowship, bursary or prize that is to be used by the taxpayer in the production of a literary, dramatic, musical or artistic work, and
+(ii) the total of all amounts each of which is an expense incurred by the taxpayer in the taxation year for the purpose of fulfilling the conditions under which the amount described in subparagraph (i) was received, other than
+(A) personal or living expenses of the taxpayer (except expenses in respect of travel, meals and lodging incurred by the taxpayer in the course of fulfilling those conditions and while absent from the taxpayer's usual place of residence for the period to which the scholarship, fellowship, bursary or prize, as the case may be, relates),
+(B) expenses for which the taxpayer is entitled to be reimbursed, and
+(C) expenses that are otherwise deductible in computing the taxpayer's income, and
+(c) the lesser of $500 and the amount by which the total described in subparagraph (1)(n)(i) for the taxation year exceeds the total of the amounts determined under paragraphs (a) and (b).
+118.6 (2) Education credit -- There may be deducted in computing an individual's tax payable under this Part for a taxation year the amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year; and
+B is the total of the products obtained when
+(a) $400 is multiplied by the number of months in the year during which the individual is enrolled in a qualifying educational program as a full-time student at a designated educational institution, and
+(b) $120 is multiplied by the number of months in the year (other than months described in paragraph (a)), each of which is a month during which the individual is enrolled at a designated educational institution in a specified educational program that provides that each student in the program spend not less than 12 hours in the month on courses in the program,
+if the enrolment is proven by filing with the Minister a certificate in prescribed form issued by the designated educational institution and containing prescribed information and, in respect of a designated educational institution described in subparagraph (a)(ii) of the definition "designated educational institution" in subsection (1), the individual has attained the age of 16 years before the end of the year and is enrolled in the program to obtain skills for, or improve the individual's skills in, an occupation.
+[5] For purpose of subsection 118.6(2), the enrolment certificate in prescribed form issued by the designated educational institution and containing prescribed information is form T2202A.
+[6] During the 2006 taxation year, the Appellant was enrolled in a full time training program at UBC as a postdoctoral fellow ("PDF") to finance her postdoctoral fellow training program, she received two leading fellowship awards from the Canadian Institutes of Health Research ("CIHR") and the Michael Smith Foundation for Health Research ("MSFHR"). The terms of these awards were from January 1, 2006 to December 31, 2008. The stipend for the CIHR award was $40,000 per annum and the research allowance was $5,000 per annum. The stipend for the MSFHR award was $21,000. She conducted her PDF training program at the BC Cancer Research Centre in hematology under the supervision of Dr. Paul Sorensen.
+[7] The UBC Website provides the following information concerning the post doctoral fellows:
+Postdoctoral Fellows are individuals who have completed a doctoral degree and who are seeking the opportunity to train further in a particular area of research. Postdoctoral Fellows at UBC can be either employees or trainees, depending on the job description, level of direction and nature of the research grant.
+**A Postdoctoral Fellow is an employee where the individual plays a key role on a research team under the direction of and funded by the supervising faculty member.
+**A Postdoctoral Fellow is a trainee where the individual is awarded a competitive fellowship from an external granting agency, which may or may not be paid through UBC, or receive financial support from a sponsoring agency. Trainees do not have an employment relationship with UBC. They independently work under the mentorship of a supervising faculty member at UBC.
+[8] According to the Appellant, PDFs are considered by UBC to be trainees not employees. As such, PDFs are not eligible for benefits of any type (health plan, employment insurance, federal parental leave or worker's compensation in case of injury) and are not eligible for registered retirement savings plan or Canada Pension Plan contributions. She testified that the only relationship she had with UBC was through Dr. Sorensen. She did not take courses or attend seminars at UBC and she did not pay any tuition fees to UBC. She had no contract with UBC nor obtained any benefit from UBC. She further explained that her relationship with UBC Cancer Research Centre was temporary and could be terminated at any time. She worked in Dr. Sorensen's team in conducting laboratory work and in writing research articles for publication.
+[9] She also testified that she received her awards through UBC. This income was received as a T4A Scholarship/Fellowship. Income tax was withheld from her fellowship and she is seeking reimbursement of the income tax so withheld in 2006. Unlike other universities (such as McGill, Montréal, Ottawa and Dalhousie) UBC did not issue T2202A to their PDFs due to administrative complexities and the change in the income tax treatment of awards.
+[10] Despite the fact that the Appellant did not file any such T2202A certificate with the Minister, she argued that such a certificate was not required because she did not claim the education credit referred to in subsection 118.6(2) of the Act but instead claimed the unlimited exemption (effective for 2006 and subsequent taxation years), for scholarship in connection with enrolment at an educational program that qualifies under subsection 118.6(2) of the Act.
+[11] Unfortunately for the Appellant, the enrolment certificate referred to in subsection 118.6(2) of the Act is not merely directory; it is mandatory for an individual in order to deduct an amount as an education credit. As no certificate has been obtained from UBC, the Appellant is not entitled to the education credit with respect to her PDF training program.
+[12] The scholarship exemption in subparagraph 56(3)(a)(i) specifically refers to a taxpayer's enrolment in an educational program in respect of which an amount may be deducted under subsection 118.6(2) of the Act in computing the taxpayer's tax payable under Part I of the Act for the taxation year, for the immediately preceding taxation year or for the following taxation year. Accordingly, there is no amount under subparagraph 56(3)(a)(i) in respect of which an amount may be deducted under subsection 118.6(2). Consequently, as the amount set out in paragraphs 56(3)(a) and (b) is zero, the amount computed under paragraph 56(3)(c) is $500, being the lesser of $500 and the amount of the fellowships obtained.
+[13] Therefore, the Appellant must include the $46,999 minus the statutory exemption of $500 in her income for the 2006 taxation year. Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 18th day of November 2010.
+"Réal Favreau"
+Favreau J.
+CITATION: 2010 TCC 592
+COURT FILE NO.: 2009-3067(IT)I
+STYLE OF CAUSE: Fan Zhang v. Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 18, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amandeep K. Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

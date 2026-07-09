@@ -1,0 +1,309 @@
+Title: Quinco Financial Inc. (Landex Investments) v. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31068/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-20-31068-quinco-financial-inc-landex-investments-v-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-23
+
+# Quinco Financial Inc. (Landex Investments) v. La Reine
+
+- Citation: 2013 CCI 20
+- Decision date: 2013-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4709, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quinco Financial Inc. (Landex Investments) v. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-23
+Référence neutre
+2013 CCI 20
+Numéro de dossier
+2010-1608(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-1608(GST)G
+ENTRE :
+QUINCO FINANCIAL INC.
+(ANCIENNEMENT LANDEX INVESTMENTS),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 27 et 28 juin 2012, à Calgary (Alberta).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Ken S. Skingle, c.r.
+Avocates de l’intimée :
+Me Kathleen T. Lyons
+Me Donna Tomljanovic
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la partie IX de la Loi sur la taxe d’accise pour les périodes de déclaration d’octobre 2003, de novembre 2003, de décembre 2003 et de février 2004, et dont les avis sont datés du 26 novembre 2007, du 20 décembre 2007 et du 16 février 2010 est accueilli, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelante a le droit de demander des crédits de taxe sur les intrants résiduels de 2 281 753 $.
+L’appel est rejeté en ce qui concerne la déduction pour créances irrécouvrables demandée par l’appelante.
+Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 7e jour de mai 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2013 CCI 20
+Date : 20130123
+Dossier : 2010-1608(GST)G
+ENTRE :
+QUINCO FINANCIAL INC.
+(ANCIENNEMENT LANDEX INVESTMENTS),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+[1] En l’espèce, deux questions principales sont soulevées.
+A. Les crédits de taxe sur les intrants résiduels
+(i) L’appelante avait‑elle le droit de demander des crédits de taxe sur les intrants (« CTI ») résiduels en application du paragraphe 169(1) de la Loi sur la taxe d’accise (la « LTA »)? L’alinéa 232(3)c) de la LTA est-il applicable aux CTI résiduels?
+La question relative à la prescription
+(ii) Le ministre du Revenu national (le « ministre ») a‑t‑il établi les nouvelles cotisations à l’égard de l’appelante dans le délai fixé par la loi en application du sous‑alinéa 298(1)a)(i) de la LTA?
+B. La déduction pour créance irrécouvrable
+(i) L’appelante avait‑elle le droit de déduire ses créances irrécouvrables en application du paragraphe 231(1) de la LTA?
+[2] La veille de l’audience, l’appelante m’a avisée qu’elle concédait la question concernant la déduction pour créances irrécouvrables. Par conséquent, l’appel interjeté à l’égard de cette question est rejeté.
+[3] À l’audience, l’appelante a appelé un seul témoin : M. Brian Spence, l’administrateur fiscal de l’appelante. L’intimée n’a appelé aucun témoin.
+[4] Les parties ont également déposé un recueil conjoint de documents et l’exposé conjoint partiel des faits suivant :
+[traduction]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+En ce qui concerne le présent appel, les parties admettent les faits suivants et consentent à ce que, par suite de cette admission, les faits soient réputés avoir été régulièrement prouvés et acceptés par la Cour comme étant véridiques. Les parties sont libres de présenter des observations à l’égard des faits et de documents, mais elles ne reconnaissent pas pour autant le degré de pertinence ou le poids qu’il faut attribuer à ces faits et à ces documents.
+Les parties se réservent le droit de produire, relativement à toute question dont la Cour est saisie, des éléments de preuve supplémentaires pertinents et probants qui ne sont pas incompatibles avec les faits admis dans les présentes.
+Les annexes 1, 2, 3 et 5 font partie du présent exposé conjoint partiel des faits. Veuillez noter l’absence de l’annexe 4, qui a été délibérément omise par les parties[1].
+Les nouvelles cotisations visées par l’appel
+1. Les trois nouvelles cotisations relatives à la taxe sur les produits et services (la « TPS ») visées par l’appel, qui sont chacune datées du 16 février 2010, concernent des demandes de crédits de taxe sur les intrants (les « CTI ») présentées par l’appelante pour les périodes de déclaration mensuelles suivantes :
+a) octobre 2003 (la « première nouvelle cotisation »);
+b) de novembre 2003 à février 2004 (la « deuxième nouvelle cotisation »);
+c) mars 2004 et avril 2004 (la « troisième nouvelle cotisation »).
+L’appelante a été avisée de ces nouvelles cotisations visées par l’appel au moyen d’avis de nouvelle cotisation datés du 16 février 2010.
+2. Les nouvelles cotisations visées par l’appel ont été établies par le ministre du Revenu national (le « ministre ») en vertu de la partie IX de la Loi sur la taxe d’accise (Canada) (la « LTA ») pour donner effet aux décisions du ministre à l’égard de trois oppositions à des (nouvelles) cotisations antérieures relatives à la TPS, qui sont décrites au paragraphe 18 ci‑dessous. À moins d’indications contraires, les dispositions législatives mentionnées dans les présentes sont tirées de la LTA.
+Contexte général
+3. Le 27 août 2004, Brick Warehouse Corporation (la société « Brick ») a fait l’objet d’une fusion avec au moins une autre société pour former la société appelante dénommée « Landex Investments Company », laquelle a ultérieurement changé de nom pour porter celui de « Quinco Financial Inc. » Le 17 septembre 2004, l’appelante a été prorogée en vertu de la loi sur les sociétés de la Nouvelle‑Écosse et, plus tard, le 22 janvier 2010, elle a été prorogée en vertu de la loi sur les sociétés de l’Alberta.
+4. La société Brick était inscrite aux fins de la TPS, et avait des périodes de déclaration mensuelles et un exercice se terminant à la fin du mois de février.
+5. Dans ses déclarations de TPS/TVH qu’elle a produites pour ses périodes de déclaration se terminant entre le 30 septembre 1999 et le 30 avril 2004, inclusivement, la société Brick (a) a déclaré le montant de taxe perçue, (b) a demandé des CTI et (c) a déclaré une taxe nette dont les montants figurent à l’annexe 2.
+6. La société Brick a produit des déclarations de TPS/TVH pour ses périodes de déclaration mensuelles se terminant entre les dates suivantes :
+a) 1er novembre 2000 et 28 février 2001;
+b) 1er octobre 2001 et 28 février 2002;
+c) 1er août 2002 et 28 février 2003.
+Chacune de ces périodes est appelée dans les présentes « période de report ».
+7. Les activités commerciales de la société Brick consistaient à acheter auprès de divers fournisseurs, fabricants et grossistes, du mobilier, des matelas, du matériel électronique et des appareils électroménagers qu’elle revendait au détail à ses clients.
+Les demandes de CTI
+8. Durant chaque période de report, la société Brick a fait l’acquisition de fournitures de biens et de services (les « fournitures ») qui étaient imposables à 7 %, lesquelles étaient facturées par divers fournisseurs. La société Brick a inscrit dans son grand livre général, pour chacune de ces périodes de report, les montants de TPS à payer à des fournisseurs à l’égard de ces fournitures, mais elle n’a pas demandé de CTI relativement aux déclarations de TPS/TVH qu’elle a produites pour les périodes de déclaration mensuelles se terminant le 30 novembre 2000, le 31 décembre 2000 et le 28 février 2001, ainsi que pour les périodes se terminant entre le 1er octobre 2001 et le 28 février 2002 et entre le 1er août 2002 et le 31 décembre 2002. Les montants de CTI que la société Brick a demandés dans ses déclarations pour les périodes se terminant le 31 janvier 2001, le 31 janvier 2003 et le 28 février 2003 sont décrits à l’annexe 2.
+9. Le montant que la société Brick a demandé à titre de CTI dans ses déclarations de TPS/TVH produites pour les périodes de déclaration se terminant le 31 mars 2001, le 31 mars 2002 et le 31 juillet 2003 sont décrits à l’annexe 2.
+10. Durant chacune des périodes de report, la société Brick a reçu des notes de crédit de divers fournisseurs, ou a remis des notes de débit à divers fournisseurs (collectivement appelées les « notes »), pour des montants à porter au crédit du compte que la société Brick détenait auprès de ces fournisseurs (les « crédits »). L’existence de ces crédits tenait principalement aux raisons suivantes :
+a) une « prime » qui était accordée lorsque la société Brick atteignait un objectif quant au volume de ventes ou d’achats des produits du fournisseur;
+b) pour tenir compte de l’utilisation de certains articles du stock de produits de la société Brick comme articles en montre ou pour exposition dans des salons;
+c) pour tenir compte de divergences, relatives aux articles qui avaient été commandés, quant au prix unitaire, à la quantité et à d’autres spécifications des produits que la société Brick avait achetés du fournisseur précis;
+d) pour tenir compte du prix d’achat et des coûts d’expédition d’articles ayant été retournés, ou pour tenir compte du coût supporté par la société Brick relativement à des réparations mineures effectuées sur des articles conservés par la société Brick dans le cas où cette dernière avait acheté les articles du fournisseur et qu’elle s’était rendu compte par la suite que les articles étaient endommagés ou défectueux ou qu’ils n’étaient pas conformes à ceux qu’elle avait commandés.
+11. Sur chacune des notes, un montant de crédit était précisé et la TPS attribuable au montant de crédit (le « crédit pour TPS ») était consigné séparément en tant que crédit supplémentaire pour TPS.
+12. Dans chacune des déclarations de TPS/TVH produites pour les périodes de déclaration se terminant le 31 mars 2001, le 31 mars 2002 et le 31 juillet 2003, la société Brick a demandé des CTI – qui n’avaient pas été demandés auparavant – au titre de la TPS payable par la société Bricks sur les fournitures qu’elle avait acquises durant les périodes de report respectives.
+13. Le montant de CTI demandé à l’égard de chacune des périodes de report était égal au montant total de TPS brute payable initialement sur les fournitures pertinentes durant la période de report précise, moins les crédits pour TPS consignés sur les notes reçues ou remises.
+14. Suivant l’avis de ses comptables externes, la société Brick a ultérieurement décidé de demander des CTI correspondant aux crédits pour TPS inscrits durant les périodes de report à l’égard de ces fournitures pour lesquelles des notes avaient été reçues ou remises. La société Brick a alors demandé 3 910 610 $ à titre de CTI (les « CTI demandés ») dans ses déclarations de TPS/TVH pour les périodes de déclaration de septembre 2003, d’octobre 2003, de novembre 2003, de décembre 2003 et de février 2004. Les CTI demandés n’avaient pas fait l’objet d’une demande antérieure et ont été demandés dans le délai imparti de quatre ans, aux termes du paragraphe 225(4) de la LTA.
+15. Les fournitures ont été initialement acquises pour être exclusivement utilisées ou fournies par la société Brick dans le cadre de ses activités commerciales.
+Déductions concernant les dettes des titulaires de cartes
+16. La société Brick a concédé qu’elle n’avait pas droit aux déductions pour créances irrécouvrables (les « déductions ») demandées relativement aux dettes des titulaires de cartes pertinentes (selon la définition figurant dans l’avis d’appel de la société Brick) dans le calcul de sa taxe nette à un moment donné.
+Cotisations et nouvelles cotisations
+17. À l’exception de sa déclaration de TPS pour la période de déclaration de février 2004, qui a été produite tardivement le 6 avril 2004, la société Brick a produit sa déclaration de TPS pour chacune des périodes de déclaration mensuelles en cause de la manière suivante :
+Dates de fin des périodes de déclaration
+Dates de production des déclarations de TPS/TVH par la société Brick
+Dates d’échéance pour les déclarations de TPS
+31/10/2003
+28/11/2003
+01/12/2003
+30/11/2003
+31/12/2003
+31/12/2003
+31/12/2003
+02/02/2004
+02/02/2004
+31/01/2004
+09/02/2004
+01/03/2004
+29/02/2004
+06/04/2004
+31/03/2004
+31/03/2004
+30/04/2004
+30/04/2004
+30/04/2004
+31/05/2004
+31/05/2004
+18. La société Brick a fait l’objet de cotisations, a envoyé des avis d’opposition, puis a fait l’objet de nouvelles cotisations de la manière suivante :
+Périodes de déclaration mensuelles
+Oct. 2003‑févr. 2004
+Nov. 2003 - févr. 2004
+Mars 2004 ‑
+avr. 20041
+Cotisation
+26 nov. 2007
+20 déc. 2007 (nouvelle cotisation)
+30 avr. 2008
+Envoi de l’opposition
+22 févr. 2008
+30 avr. 2008
+26 juin 2008
+Nouvelle cotisation
+16 févr. 2010 (oct. 2003 uniquement)
+16 févr. 2010
+16 févr. 2010
+Les oppositions concernaient la question des CTI demandés ainsi que la question des déductions.
+______________
+1 La cotisation, l’opposition et la nouvelle cotisation subséquente concernent la question des déductions.
+19. Au moyen d’un avis de cotisation daté du 26 novembre 2007, le ministre a établi une cotisation concernant la taxe nette de la société Brick pour chacune de ses périodes de déclaration mensuelles allant d’octobre 2003 à février 2004, inclusivement (la « première cotisation »), et dans laquelle elle a augmenté la taxe nette relativement aux CTI demandés, ainsi que cela est décrit à l’annexe 1 (à la colonne « 1ère vérification – redressements) et à l’annexe 3 ci‑jointes.
+20. Au moyen d’un avis de nouvelle cotisation daté du 20 décembre 2007, le ministre a par la suite établi une nouvelle cotisation concernant la taxe nette de la société Brick pour chacune de ses périodes de déclaration allant de novembre 2003 à février 2004, inclusivement (la « deuxième cotisation ») pour augmenter la taxe nette calculée antérieurement en rajoutant les déductions que la société Brick avait demandées à l’égard de la dette des titulaires de cartes. Les redressements effectués pour chacune de ces périodes de déclaration sont décrits à l’annexe 3 ci‑jointe.
+21. Au moyen d’un avis de cotisation daté du 30 avril 2008, le ministre a établi une cotisation concernant la taxe nette de la société Brick pour ses périodes de déclaration de mars 2004 et d’avril 2004 (la « troisième cotisation ») pour rajouter le montant des déductions que l’appelante avait demandées relativement aux dettes des titulaires de cartes pertinentes. Les redressements concernant chacune de ces deux périodes de déclaration sont décrits à l’annexe 3 ci‑jointe.
+22. Prises ensemble, la première cotisation, la deuxième cotisation et la troisième cotisation ont pour effet d’augmenter de 4 688 996,05 $ le total de la taxe nette due par la société Brick pour les périodes de déclaration allant d’octobre 2003 à avril 2004, ainsi que cela ressort de l’annexe 1 ci‑jointe (à la colonne « redressements totaux après vérification »).
+23. Après avoir examiné les trois oppositions faites par la société Brick, le ministre a établi trois nouvelles cotisations datées du 16 février 2010, nouvelles cotisations qui concernaient la période de déclaration se terminant le 31 octobre 2003 (c’est‑à‑dire, la première nouvelle cotisation), les périodes de déclaration se terminant entre le 1er novembre 2003 et le 29 février 2004 (c’est‑à‑dire, la deuxième nouvelle cotisation) et les périodes de déclaration se terminant le 31 mars 2004 et le 30 avril 2004 (c’est‑à‑dire, la troisième nouvelle cotisation), respectivement. Dans les nouvelles cotisations établies le 16 février 2010, la taxe nette de la société Brick a été de nouveau calculée pour les périodes de déclaration en cause, tel que cela est mentionné à l’annexe 3 ci‑jointe.
+24. Pour établir les nouvelles cotisations du 16 février 2010, le ministre a accepté les précisions et les renseignements supplémentaires fournis par la société Brick à l’appui du fait qu’une partie des CTI demandés avaient été déduits dans le calcul de la taxe nette inscrite dans la déclaration de TPS pour la période de déclaration se terminant un mois avant le mois dans lequel le rajustement avait été effectué au moyen de la nouvelle cotisation établie le 26 novembre 2007, et que certaines déductions n’étaient pas liées aux dettes de titulaires de cartes pertinentes (selon la définition de la société Brick dans l’avis d’appel). Les rajustements effectués par le ministre dans les nouvelles cotisations du 16 février 2010 figurent à l’annexe 3.
+25. En résumé, le ministre a accepté en partie les oppositions de la société Brick et a réduit de 681 192,36 $ le total des cotisations initiales.
+26. Pour ce qui est de l’affirmation de la société Brick au paragraphe 49 de l’avis d’appel en ce qui a trait à la prescription, le montant en cause concernant les CTI demandés demeure le montant total de 3 262 755 $.
+27. Mise à part l’affirmation concernant la prescription mentionnée au paragraphe 26 ci-dessus, pour ce qui est de la question de fond quant à savoir si la société Brick a le droit de demander les CTI en question, la société Brick a admis qu’elle n’avait pas droit à 133 163 $ des CTI demandés qui ont été refusés par le ministre, étant donné que ces montants sont liés à des services de marketing ou à des services promotionnels rendus par la société Brick à certains de ses fournisseurs. Ainsi, le montant qui demeure en litige relativement à la question de fond concernant les CTI demandés est de 3 139 592 $.
+28. L’annexe 5 ci‑jointe est un « graphique chronologique de la société Brick » qui illustre trois périodes de report, le moment de présentation des demandes de CTI pour ces trois périodes de report, le moment de présentation des demandes subséquentes à l’égard des CTI demandés ainsi que les périodes de déclaration couvertes par les cotisations et les nouvelles cotisations établies par le ministre.
+A. Les CTI résiduels
+(i) L’appelante avait‑elle le droit de demander des CTI résiduels en application du paragraphe 169(1) de la LTA? L’alinéa 232(3)c) de la LTA est‑il applicable aux CTI résiduels?
+[5] Pour des raisons liées à la planification fiscale, l’appelante a reporté ses demandes de CTI, relativement à des biens et des services qu’elle avait acquis dans le cadre de ses activités commerciales, pour les trois périodes suivantes (les « périodes de report »)[2] :
+1. de novembre 2000 à février 2001;
+2. d’octobre 2001 à février 2002;
+3. d’août 2002 à février 2003.
+[6] Dans ses déclarations de TPS/TVH (les « déclarations de TPS »), l’appelante a demandé les CTI auxquels elle avait droit relativement aux trois périodes de report dans les périodes de déclaration suivantes :
+- la période se terminant le 31 mars 2001, pour la période de report allant de novembre 2000 à février 2001;
+- la période se terminant le 31 mars 2002, pour la période de report allant d’octobre 2001 à février 2002;
+- la période se terminant le 31 juillet 2003, pour la période de report allant d’août 2002 à février 2003.
+[7] Dans les déclarations de TPS mentionnées ci‑dessus, l’appelante a demandé des CTI nets composés du total de la TPS brute payable initialement sur les fournitures pertinentes moins les réductions de TPS découlant de notes de crédit reçues du fournisseur ou de notes de débit remises par l’appelante. Les CTI ainsi demandés seront ci‑après appelés les « CTI nets ».
+[8] Bien que l’appelante ait remis des notes de débit à ses fournisseurs ou reçu des notes de crédit de ses fournisseurs, il est ressorti de la preuve présentée à l’audience que, dans ses déclarations de TPS, l’appelante n’a pas procédé au redressement de sa taxe nette en application de l’alinéa 232(3)c) de la LTA. Dans son témoignage, M. Spence a déclaré que la méthode utilisée par l’appelante pour calculer les CTI nets était erronée. Selon M. Spence, l’appelante aurait dû appliquer l’alinéa 232(3)c) de la LTA pour augmenter sa taxe nette en ajoutant les montants de TPS ayant été portés à son crédit par ses fournisseurs, au moins pour ses périodes de déclaration qui ne sont pas des périodes de report.
+[9] En octobre 2002, l’appelante a retenu les services de KPMG, qui avait pour mission d’examiner si la société Brick se conformait à ses obligations en matière de TPS. KPMG a avisé l’appelante que celle‑ci avait le droit de demander des CTI relativement à la TPS brute qui était payable initialement à l’égard des factures portant sur les périodes de report. Comme l’a précisé M. Spence, l’appelante avait par erreur effectué une compensation de ses CTI à l’égard des biens et des services qu’elle avait acquis durant les périodes de report.
+[10] Par conséquent, l’appelante a demandé la différence entre les CTI nets et la TPS brute payable initialement à l’égard des factures portant sur les périodes de report. Cette différence sera désignée ci‑après « CTI résiduels ».
+[11] L’appelante a demandé les CTI résiduels suivants dans ses déclarations de TPS pour les périodes de déclaration suivantes :
+Septembre 2003 647 855 $[3]
+Octobre 2003 1 360 945 $
+Novembre 2003 944 819 $
+Décembre 2003 689 709 $
+Février 2004 267 282 $
+[12] L’appelante a demandé les CTI résiduels dans le délai de quatre ans fixé au paragraphe 225(4) de la LTA.
+[13] Les CTI résiduels font l’objet du présent appel.
+[14] Les observations de l’appelante se présentent ainsi :
+- selon le paragraphe 169(1) de la LTA, le montant des CTI auxquels l’appelante a droit relativement à la TPS payable à l’égard des fournitures en cause a été calculé au moment où chaque fournisseur a délivré sa facture pour la première fois. Les CTI ne font pas l’objet d’un redressement subséquent en vertu d’une quelconque disposition de la LTA par suite d’une note reçue ou émise ultérieurement;
+- l’esprit de la LTA est tel que, au moment où une note de crédit est reçue ou une note de débit est remise, le montant constaté par la note doit être rajouté à la taxe nette de l’inscrit en vertu de l’alinéa 232(3)c) de la LTA, à condition que l’inscrit ait demandé les CTI afférents à ce montant pour cette période de déclaration ou pour une période de déclaration antérieure;
+- l’alinéa 232(3)c) de la LTA s’applique expressément aux notes de crédit et aux notes de débit et est distinct du paragraphe 169(1) de la LTA, qui établit l’admissibilité aux CTI;
+- l’alinéa 232(3)c) de la LTA ne s’appliquait pas relativement aux notes reçues ou à celles remises, parce que l’appelante n’avait pas demandé les CTI concernant les périodes de report dans une déclaration produite pour la période de déclaration dans laquelle les notes avaient été reçues ou pour une période de déclaration antérieure. Étant donné qu’il n’avait pas été satisfait aux conditions de l’alinéa 232(3)c) de la LTA, l’appelante n’était pas tenue d’ajouter à sa taxe nette les montants de TPS issus des notes de crédit ou des notes de débit.
+[15] Les observations de l’intimée se présentent de la manière suivante :
+- l’appelante devait payer à ses fournisseurs la TPS sur la valeur de la contrepartie visée pour la fourniture au titre du paragraphe 165(1) de la LTA; si la valeur de la contrepartie était réduite, l’obligation de l’appelante à l’égard de cette fourniture serait réduite. La TPS retournée à l’appelante par le fournisseur et qui correspondait à la partie soustraite du prix ne pouvait pas être demandée à titre de CTI, étant donné que la TPS n’était plus payable sur la partie ainsi soustraite du prix en application du paragraphe 168(1) et de l’article 169 de la LTA;
+- la valeur de la contrepartie inscrite sur une facture originale et la TPS payable qui y est associée ne se « cristallisent » pas au moment de l’établissement de la facture, comme le suggère l’appelante. Compte tenu des dispositions de la LTA qui accordent à un inscrit un délai de quatre ans pour demander des CTI, il n’est pas logique de proposer que la TPS payable soit figée dans le temps par l’effet de l’établissement des factures;
+- l’article 232 de la LTA ne s’applique pas en l’espèce pour les raisons suivantes :
+· dans ses déclarations de TPS, l’appelante a demandé des CTI nets à la fois pour les périodes de report et pour les autres périodes en soustrayant de ses CTI la partie de la TPS retournée mentionnée sur les notes. Étant donné que les montants nets demandés étaient corrects, l’article 232 de la LTA ne s’applique pas. Le ministre n’était pas tenu d’effectuer un redressement de la taxe nette pour les périodes de report en application de l’article 232 de la LTA, étant donné que seule l’admissibilité à des CTI en vertu du paragraphe 169(1) de la LTA était invoquée par l’appelante relativement à sa demande de CTI;
+· l’article 232 de la LTA est une disposition qui doit être invoquée par le fournisseur et non par l’acquéreur (c’est‑à‑dire, l’appelante). L’objet de cet article est de prévoir les conséquences, à l’égard de l’acquéreur, découlant de la production d’une déclaration lorsqu’un fournisseur invoque l’article 232 de la LTA pour demander qu’on lui rende la TPS versée.
+- l’appelante ne pouvait pas demander ses CTI résiduels, étant donné qu’il n’y avait pas d’éléments de preuve suffisants permettant de calculer les CTI.
+L’analyse
+[16] Les paragraphes 168(1) et 152(1) de la LTA sont ainsi rédigés :
+168(1) La taxe prévue à la présente section est payable par l’acquéreur au premier en date du jour où la contrepartie de la fourniture taxable est payée et du jour où cette contrepartie devient due.
+152(1) Pour l’application de la présente partie, tout ou partie de la contrepartie d’une fourniture taxable est réputée devenir due le premier en date des jours suivants :
+a) le premier en date du jour où le fournisseur délivre, pour la première fois, une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+b) le jour où le fournisseur aurait délivré une facture pour tout ou partie de la contrepartie, n’eût été un retard injustifié;
+c) le jour où l’acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+[17] Selon le paragraphe 168(1) de la LTA, la taxe est payable par l’acquéreur au premier en date du jour où la contrepartie de la fourniture est payée et du jour où cette contrepartie devient due. Selon le paragraphe 152(1) de la LTA, le jour où cette contrepartie devient due est le jour où la facture est délivrée. En l’espèce, la taxe sur les fournitures est devenue payable par l’appelante le jour où chaque facture a été délivrée par ses fournisseurs.
+[18] Compte tenu du fait que la taxe était payable par l’appelante au moment où chaque facture avait été délivrée pas ses fournisseurs, le droit de l’appelante aux CTI s’est cristallisé à ce moment‑là, c’est‑à‑dire au moment où chaque facture a été délivrée. Cela découle du libellé du paragraphe 169(1) de la LTA. La partie pertinente du paragraphe 169(1) de la LTA applicable en l’espèce est rédigée de la manière suivante :
+Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne [l’appelante], pour sa période de déclaration […] relativement à un bien ou à un service qu’elle [l’appelante] acquiert […], correspond au résultat du calcul suivant […] au cours de cette période, la taxe relative à la fourniture […] devient payable par la personne [par l’appelante au moment où la facture est délivrée en vertu des paragraphes 168(1) et 152(1)] […] :
+A x B
+où :
+A représente la taxe relative à la fourniture […] qui, au cours de la période de déclaration, devient payable par la personne [par l’appelante au moment où la facture est délivrée en vertu des paragraphes 168(1) et 152(1)].
+[Les mots soulignés ont été ajoutés.]
+[19] L’interprétation que propose l’intimée, selon laquelle le droit aux CTI ne se cristallise pas au moment où la facture est délivrée en vertu des paragraphes 168(1) et 169(1) de la LTA, ne concorde pas avec le libellé de ces dispositions.
+[20] Je ne souscris pas non plus à l’argument de l’intimée selon lequel, en vertu des paragraphes 168(1) et 169(1) de la LTA, un CTI peut être réduit du montant de TPS découlant d’une note de crédit ou d’une note de débit. À mon avis, exception faite de l’article 232 de la LTA, il n’y a aucune disposition de la LTA qui oblige un inscrit à faire un redressement à l’égard d’un CTI en raison d’une note de crédit reçue ou d’une note de débit remise.
+[21] Les définitions suivantes des expressions « note de crédit » et « notes de débit » au paragraphe 123(1) de la LTA confirment l’application du paragraphe 232(3) de la LTA, lorsqu’une note de crédit est reçue ou lorsqu’une note de débit est remise.
+« note de crédit » Note de crédit remise en application du paragraphe 232(3).
+« note de débit » Note de débit remise en application du paragraphe 232(3).
+[22] Le paragraphe 232(3) de la LTA, invoqué par le fournisseur, énonce les exigences auxquelles le fournisseur et l’acquéreur doivent satisfaire lorsqu’une note de crédit est reçue ou lorsqu’une note de débit est remise. Les alinéas 232(3)b) et c) de la LTA sont ainsi libellés :
+(3) Les règles suivantes s’appliquent dans le cas où une personne redresse un montant en faveur d’une autre personne en application des paragraphes (1) ou (2), le lui rembourse ou le porte à son crédit :
+[…]
+b) le montant est déductible dans le calcul de la taxe nette de la personne pour sa période de déclaration au cours de laquelle elle remet la note de crédit ou reçoit la note de débit, dans la mesure où il a été inclus dans le calcul de sa taxe nette pour cette période ou pour une de ses périodes de déclaration antérieures;
+c) le montant est ajouté dans le calcul de la taxe nette de l’autre personne pour sa période de déclaration au cours de laquelle elle remet la note de débit ou reçoit la note de crédit, dans la mesure où il a été inclus dans le calcul d’un crédit de taxe sur les intrants qu’elle a demandé dans une déclaration produite pour cette période ou pour une de ses périodes de déclaration antérieures;
+[23] En conséquence, si une note de crédit ou une note de débit est remise, en vertu de l’alinéa 232(3)b) de la LTA, le fournisseur peut déduire de sa taxe nette le montant de taxe qu’il a crédité à l’acquéreur. Toutefois, en application de l’alinéa 232(3)c) de la LTA, si un fournisseur a remis une note de crédit à un acquéreur ou qu’une note de débit lui a été remise, l’acquéreur doit ajouter le montant de taxe crédité dans le calcul de sa taxe nette.
+[24] Je souscris à l’argument de l’appelante selon lequel le paragraphe 232(3) de la LTA ne serait pas nécessaire si l’interprétation des articles 168 et 169 faite par l’intimée était correcte.
+[25] L’intimée soutient que c’est le fournisseur qui doit invoquer le paragraphe 232(3) de la LTA et non l’acquéreur (en l’espèce, l’appelante). En l’espèce, le paragraphe 232(3) de la Loi a été invoqué par les fournisseurs lorsqu’ils ont remis des notes de crédit à l’appelante.
+[26] Toutefois, des ajouts à la taxe nette seront nécessaires en application de l’alinéa 232(3)c) de la LTA seulement si l’appelante a demandé des CTI relativement à la taxe qui lui a été créditée pour la période de déclaration au cours de laquelle les notes de crédit ont été reçues ou les notes de débit remises, ou pour une de ses périodes de déclaration antérieures.
+[27] L’alinéa 232(3)c) de la LTA n’est pas applicable en l’espèce. Il a été établi par la preuve que, en ce qui concerne les périodes de report, l’appelante n’a pas demandé les CTI pour la période de déclaration, ou pour une de ses périodes de déclaration antérieures, au cours de laquelle les notes de crédit ont été reçues ou les notes de débit remises. Aucun ajout à la taxe nette n’est exigé lorsqu’un CTI a été demandé après la période de déclaration au cours de laquelle une note de débit a été remise ou une note de crédit reçue.
+[28] L’intimée a également avancé l’argument selon lequel l’interprétation que l’appelante fait des paragraphes 168(1) et 169(1) et de l’alinéa 232(3)c) de la LTA ne respecte pas l’objet et l’esprit de la LTA, lesquels visent à assurer une neutralité en matière de taxation entre la TPS qu’un inscrit paye à ses fournisseurs dans le cadre de ses activités commerciales et les CTI qu’il demande.
+[29] Comme je l’ai déjà souligné, le paragraphe 232(3) de la Loi est, à mon avis, la disposition applicable lorsque des notes de crédit sont reçues ou lorsque des notes de débit sont remises.
+[30] Dans l’arrêt Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, la Cour suprême du Canada a fait observer que, lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation, en particulier lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné. La juge en chef McLachlin et le juge Major, s’exprimant au nom d’une cour unanime, ont fait les observations suivantes, aux paragraphes 10 à 12, à l’égard des principes d’interprétation des lois, qui sont applicables à la législation fiscale :
+10 Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+11 En raison du principe du duc de Westminster (Commissioners of Inland Revenue c. Duke of Westminster, [1936] A.C. 1 (H.L.)), selon lequel le contribuable a le droit d’organiser ses affaires de façon à réduire au maximum l’impôt qu’il doit payer, le droit fiscal canadien a reçu une interprétation stricte à une époque où l’interprétation littérale des lois était plus courante qu’aujourd’hui. De nos jours, il ne fait aucun doute que toutes les lois, y compris la Loi de l’impôt sur le revenu, doivent être interprétées de manière textuelle, contextuelle et téléologique. Cependant, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre l’accent sur l’interprétation textuelle. Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu’il a voulu que le contribuable s’appuie sur ces dispositions pour obtenir le résultat qu’elles prescrivent.
+Les dispositions de la Loi de l’impôt sur le revenu doivent être interprétées de manière à assurer l’uniformité, la prévisibilité et l’équité requises pour que les contribuables puissent organiser intelligemment leurs affaires. Comme l’affirme la Cour, au par. 45 de l’arrêt Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622 :
+[E]n l’absence d’une disposition expresse contraire, il n’appartient pas aux tribunaux d’empêcher les contribuables de recourir, dans le cadre de leurs opérations, à des stratégies complexes qui respectent les dispositions pertinentes de la Loi, pour le motif que ce serait inéquitable à l’égard des contribuables qui n’ont pas opté pour cette solution.
+Voir également l’arrêt 65302 British Columbia, par. 51, où le juge Iacobucci cite P. W. Hogg et J. E. Magee, Principles of Canadian Income Tax Law (2e éd. 1997), p. 475‑476
+[traduction] La Loi de l’impôt sur le revenu serait empreinte d’une incertitude intolérable si le libellé clair d’une disposition détaillée de la Loi était nuancé par des exceptions qui n’y sont pas exprimées, provenant de la conception qu’un tribunal a de l’objet de la disposition.
+[31] Dans la décision Dowbrands Canada Inc. v. Canada, [1997] G.S.T.C. 85, le juge McArthur, de la Cour, s’est penché sur une affaire dans laquelle, comme en l’espèce, il semblait que l’appelante avait reçu un avantage fiscal inattendu qui n’était pas envisagé par l’objet, l’esprit et le but de la Loi. Toutefois, le libellé de la Loi qui autorise l’avantage fiscal inattendu était non équivoque et, par conséquent, la Cour ne pouvait pas avoir recours à l’application de ce qui aurait semblé être une intention contraire sous-jacente aux dispositions. En conséquence, le juge McArthur a fait les observations suivantes, au paragraphe 24 :
+24 Le fait que l’appelante puisse ne pas avoir eu l’intention de rembourser une part quelconque de la TPS initialement acquittée par ses clients lorsqu’elle a versé les remises et qu’elle a par la suite demandé un avantage fiscal inattendu ne porte pas à conséquence pour ce qui est du présent appel. Je pense qu’il convient de citer l’extrait suivant tiré de la décision rendue par la Cour suprême du Canada dans l’affaire Antosko v. The Queen :
+En l’absence d’ambiguïté des termes de la disposition, il n’appartient pas à notre Cour de conclure que les appelants devraient se voir refuser une déduction parce qu’ils ne méritent pas une « aubaine » [...] En l’absence d’une ambiguïté qui forcerait le tribunal à examiner les résultats de l’opération pour déterminer l’intention du législateur, l’évaluation normative des conséquences de l’application d’une disposition donnée relève du législateur et non des tribunaux.
+[Notes de bas de page omises].
+[32] Le libellé de l’alinéa 232(3)c) de la LTA est précis et non équivoque. Un ajout à la taxe nette ne sera exigé que si l’inscrit a demandé des CTI pour la période de déclaration au cours de laquelle les notes de crédit ont été reçues ou les notes de débit remises, ou pour une de ses périodes de déclaration antérieures. Tel n’était pas le cas en l’espèce.
+[33] L’intimée soutient aussi que l’appelante n’a pas satisfait aux exigences du paragraphe 169(4) de la LTA et de son règlement d’application, qui prévoient les documents nécessaires à l’appui d’une demande de CTI. De l’avis de l’intimée, les documents à l’appui de la demande de CTI comportaient des lacunes. L’intimée a ensuite fait valoir que la méthode utilisée par l’appelante pour calculer ses CTI résiduels comportait aussi des lacunes. Ces arguments n’ont pas été soulevés dans la réponse à l’avis d’appel de l’intimée. En conséquence, ils n’auraient pas dû être soulevés à l’audience et ne peuvent pas être examinés dans les présents motifs du jugement.
+[34] L’appelante a le droit de demander ses CTI résiduels en application du paragraphe 169(1) de la LTA. L’alinéa 232(3)c) de la LTA n’est pas applicable en l’espèce.
+[35] L’appel est par conséquent accueilli en ce qui concerne les CTI résiduels.
+A. La question relative à la prescription
+(ii) Le ministre a‑t‑il établi les nouvelles cotisations à l’égard de l’appelante dans le délai fixé par la loi en application du sous‑alinéa 298(1)a)(i) de la LTA?
+[36] De nombreuses nouvelles cotisations ont été établies, mais je ne mentionnerai que celles portant sur les CTI résiduels.
+[37] La première nouvelle cotisation est celle datée du 26 novembre 2007, dans laquelle les CTI résiduels demandés par l’appelante pour les périodes d’octobre 2003, de novembre 2003, de décembre 2003 et de février 2004 ont été refusés.
+[38] La deuxième nouvelle cotisation est celle datée du 20 décembre 2007, dans laquelle les CTI résiduels demandés pour les périodes de novembre 2003, de décembre 2003 et de février 2004 ont été refusés. Cette nouvelle cotisation apportait des corrections aux montants concernant les périodes de déclaration antérieures.
+[39] Deux autres nouvelles cotisations ont été établies en février 2010. Elles visaient à donner effet à des décisions rendues par le ministre relativement à des avis d’opposition déposés par l’appelante à l’égard des nouvelles cotisations établies en 2007.
+[40] L’appelante a soutenu que le ministre n’a pas établi les cotisations dans le délai prescrit par la LTA, qui prévoit qu’une cotisation visant la taxe nette d’une personne pour sa période de déclaration ne peut pas être établie à son égard après l’expiration d’un délai de quatre ans après le dernier en date du jour où la personne était tenue par l’article 238 de produire une déclaration pour la période et du jour de la production de la déclaration.
+[41] L’appelante a soutenu qu’elle avait produit sa déclaration de TPS pour la dernière période de report avant le délai fixé du 31 mars 2003. Les déclarations concernant toutes les autres périodes de report antérieures avaient aussi été produites avant cette date. En conséquence, le ministre ne pouvait pas établir de nouvelles cotisations à l’égard de l’appelante après le 30 mars 2007. Étant donné que les premières nouvelles cotisations établies par le ministre relativement aux CTI résiduels étaient datées du 26 novembre 2007 et du 20 décembre 2007, le délai fixé pour que le ministre puisse établir de nouvelles cotisations à l’égard de l’appelante était échu selon le sous‑alinéa 298(1)a)(i) de la LTA. Par conséquent, l’appelante a le droit de demander des CTI résiduels de 3 262 755 $.
+[42] L’intimée a soutenu que l’appelante n’a pas utilisé les bonnes périodes de déclaration pour calculer le délai de quatre ans dans lequel le ministre peut établir de nouvelles cotisations. L’intimée a déclaré qu’il a été établi par la preuve que, lorsque l’appelante avait produit ses déclarations de TPS relativement à ses périodes de report en mars 2001, en mars 2002 et en juillet 2004, l’appelante avait demandé des CTI nets. Elle a déclaré qu’avant que l’appelante n’ait décidé d’agir selon les conseils reçus de KPMG et qu’elle n’ait demandé les CTI résiduels dans ses déclarations de TPS pour les périodes de déclaration de septembre 2003, d’octobre 2003, de novembre 2003, de décembre 2003 et de février 2004, le ministre n’avait rien sur quoi se fonder pour établir de nouvelles cotisations à l’égard de l’appelante. La thèse du ministre était, et demeure, que la démarche correcte consistait en ce que l’appelante déclare les CTI nets.
+[43] L’intimée a donc avancé que le délai de quatre ans dans lequel une nouvelle cotisation peut être établie à l’égard de l’appelante en vertu du sous‑alinéa 298(1)a)(i) de la LTA avait commencé à courir le 1er décembre 2003. En application de l’article 238 de la LTA, l’appelante devait produire sa déclaration de TPS pour octobre 2003 au plus tard le 1er décembre 2003. En conséquence, le ministre avait jusqu’au 1er décembre 2007 pour établir une nouvelle cotisation à l’égard de la période de déclaration d’octobre 2003. C’est donc dans le délai prescrit que la nouvelle cotisation datée du 26 novembre 2007 a été établie par le ministre à l’égard de l’appelante.
+[44] À titre subsidiaire, l’appelante a soutenu ce qui suit, dans l’hypothèse où la Cour devait conclure que les nouvelles cotisations n’étaient pas prescrites. Le passage suivant est tiré des observations écrites de l’appelante, au paragraphe 44 :
+[traduction]
+(i) l’article 232 était la seule disposition qui aurait pu être applicable pour exiger un ajout à la taxe nette relativement aux notes qui ont été remises ou reçues pour les périodes de déclaration qui comprenaient les périodes de report, et (ii) l’article 232 n’était pas applicable à l’égard des CTI demandés de 2 281 753 $ (3 129 592 $ - 847 839 $), parce que ces CTI n’ont pas été demandés pour la période de déclaration dans laquelle les notes ont été remises ou reçues, ou dans une période de déclaration antérieure, et (iii) le montant de 981 002 $ (133 163 $ + 847 839 $) a été refusé à juste titre par le ministre pour ce qui est des CTI demandés.
+L’analyse
+[45] À mon avis, le délai de quatre ans n’était pas encore échu et le ministre disposait encore de temps pour établir une nouvelle cotisation à l’égard de l’appelante, selon le sous‑alinéa 298(1)a)(i) de la LTA. L’appelante a demandé les CTI résiduels dans ses déclarations de TPS pour octobre 2003, novembre 2003, décembre 2003 et février 2004, étant donné que c’est pour ces périodes‑là que des divergences quant à la taxe nette ont été relevées. Les nouvelles cotisations étaient valides compte tenu du fait que le ministre avait jusqu’au 1er décembre 2007 pour établir de nouvelles cotisations à l’égard de l’appelante pour la période de déclaration d’octobre 2003. La deuxième nouvelle cotisation, datée du 20 décembre 2007 pour les périodes de déclaration de novembre 2003, de décembre 2003 et de février 2004, a été également établie dans le délai de quatre ans fixé au sous‑alinéa 298(1)a)(i) de la LTA.
+[46] Le ministre n’aurait pas pu établir de cotisation avant que l’appelante ne demande les CTI résiduels en octobre 2003, en novembre 2003, en décembre 2003 et en février 2004. Ainsi que l’a déclaré l’intimée, avant ces périodes, l’appelante avait déclaré et demandé des CTI nets. Il n’y avait rien sur quoi le ministre pouvait se fonder pour établir de nouvelles cotisations à l’égard de l’appelante.
+[47] Quoi qu’il en soit, l’appelante a concédé que le montant de 133 163 $ n’aurait pas dû être demandé à titre de CTI résiduels, étant donné que ce montant concernait des services de marketing ou des services promotionnels rendus par l’appelante à certains de ses fournisseurs. L’appelante a aussi admis qu’un montant de 847 839 $ n’aurait pas dû être demandé à titre de CTI résiduels, compte tenu du fait que ces CTI avaient été demandés avant que des notes de débit ne soient remises ou que des notes de crédit ne soient reçues.
+[48] Le délai fixé au sous‑alinéa 298(1)a)(i) de la LTA n’était donc pas encore échu et le ministre pouvait établir une cotisation et refuser le montant de 981 002 $ (133 163 $ + 847 839 $), étant donné que l’appelante n’avait pas le droit de demander ce montant‑là dans le calcul de ses CTI résiduels en vertu du paragraphe 169(1) de la LTA.
+[49] En conséquence, compte tenu de la conclusion que j’ai tirée selon laquelle l’alinéa 232(3)c) de la LTA n’était pas applicable aux CTI résiduels, l’appelante a le droit de demander à titre de CTI résiduels, en application du paragraphe 169(1) de la LTA, le montant de 2 281 753 $ (3 262 755 $ – 981 002 $).
+[50] Les dépens sont adjugés à l’appelante.
+Signé à Ottawa, Canada, ce 23e jour de janvier 2013.
+« Johanne D’Auray »
+Juge D’Auray
+Traduction certifiée conforme
+ce 7e jour de mai 2013.
+Mario Lagacé, jurilinguiste.
+Annexe 1
+RÉFÉRENCE : 2013 CCI 20
+No DU DOSSIER DE LA COUR : 2010-1608(GST)G
+INTITULÉ : QUINCO FINANCIAL INC. (ANCIENNEMENT LANDEX INVESTMENTS) c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 27 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT : Le 23 janvier 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ken S. Skingle, c.r.
+Avocates de l’intimée :
+Me Kathleen T. Lyons
+Me Donna Tomljanovic
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Ken S. Skingle, c.r.
+Cabinet : Felesky Flynn LLP
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les annexes jointes à l’exposé conjoint partiel des faits n’ont pas été reproduites.
+[2] L’annexe 1, qui a été produite par les parties à l’audience, est jointe aux motifs du jugement. Elle fournit des précisions concernant les CTI déclarés et demandés par l’appelante.
+[3] Les nouvelles cotisations n’incluaient pas la période de déclaration se terminant le 30 septembre 2003; cette période était prescrite.

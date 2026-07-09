@@ -1,0 +1,170 @@
+---
+title: "R. Marcouxet Fils Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27844/index.do"
+last_modified: "2005-08-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 507"
+citation2: ""
+neutral_citation: "2005 TCC 507"
+decision_date: "2005-08-23"
+language: "en"
+item_id: "27844"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 384
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:26:14.034000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c31ddeadfb9d236dba57d6d8e51e64c811d4e95e3cc93b87592b1fcc1096258"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# R. Marcouxet Fils Inc. v. The Queen
+
+- Citation: 2005 TCC 507
+- Decision date: 2005-08-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 384, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+R. Marcouxet Fils Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-23
+Neutral citation
+2005 TCC 507
+File numbers
+2004-3455(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2005TCC507
+Date: 20050823
+Docket: 2004-3455(GST)I
+BETWEEN:
+R. MARCOUX & FILS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally on May 6, 2005, at Montréal, Quebec.)
+Lamarre Proulx J.
+[1] This is an appeal under the informal procedure concerning three assessments made under the Excise Tax Act ("the Act").
+[2] The first assessment is dated April 28, 2003. It covers the period from February 1, 1999, to July 31, 2002. The notice bears the number 22022.
+[3] The second assessment is dated May 6, 2003. It covers the period from August 1, 2002, to October 31, 2002.
+[4] The third assessment is also dated May 6, 2003. It covers the period from November 1, 2002, to January 31, 2003. The notice bears the number 22027.
+[5] The assessments were confirmed on May 26, 2004.
+[6] These documents and a number of documents issued by the Appellant, were produced as Exhibit I‑1.
+[7] The issue in the case at bar is whether certain supplies of tangible personal property, made by the Appellant, were made to recipients other than consumers.
+[8] Specifically, this matter involves the application of the introductory portion of section of Part V of Schedule VI of the Act and the definition of the terms "recipient" and "consumer" in subsection 123(1) of the Act.
+[9] Schedule VI describes zero-rated supplies within the meaning of subsection 123(1) of the Act. The introductory portion of section 1 of Part V of Schedule VI reads as follows:
+[Tangible personal property] — A supply of tangible personal property (other than an excisable good) made by a person to a recipient (other than a consumer) who intends to export the property where
+. . .
+[10] For the purposes of these reasons, paragraph (a) of the definition of "recipient" in subsection 123(1) of the Act is sufficient. That paragraph reads as follows:
+"recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration;
+. . .
+[11] The term "consumer" is defined in the same subsection of the Act as follows:
+"consumer" of property or a service means a particular individual who acquires or imports the property or service for the particular individual's personal consumption, use or enjoyment or the personal consumption, use or enjoyment of any other individual at the particular individual's expense, but does not include an individual who acquires or imports the property or service for consumption, use or supply in the course of commercial activities of the individual or other Activities in the course of which the individual makes exempt supplies.
+[12] At the beginning of this hearing, counsel for the Appellant made the following admissions. Subparagraphs 33(a) to 33(g) of the Amended Reply to the Notice of Appeal ("the Reply") were admitted to. Those subparagraphs state:
+[TRANSLATION]
+(a) The Appellant is a registrant for the purposes of Part IX of the ETA.
+(b) The Appellant operates a business consisting of the supply, by way of sale, of doors and windows, and has only one place of business in Canada, namely at Coaticook, Quebec.
+(c) The recipients of the supplies made by the Appellant include Canadians and Americans.
+(d) American recipients fall into two categories: consumers, i.e. persons who receive the supplied property for personal consumption or use (this excludes consumption, use or supply in the course of commercial activities of the persons); or contractors and merchants, i.e. persons who receive the supplied property for a completely different purpose.
+(e) The property which the Appellant supplies to American recipients, whether they are consumers, contractors or merchants, was delivered to said recipients in Canada, that is that the recipients took possession at the Appellant's place of business.
+(f) The Appellant does not ship the property supplied to American recipients outside Canada, and does not hire and pay for a common carrier to do so.
+(g) The Appellant did not collect GST upon making the supplies of property by way of sale to American recipients who considered themselves consumers, and the said American recipients did not pay said GST to the Appellant.
+. . .
+[13] The witnesses were Colleen Matthews, the auditor assigned to this matter; and Richard Marcoux, the Appellant's president and owner.
+[14] Ms. Matthews testified first in order to explain the basis for the assessment.
+[15] She explained that the Appellant was audited because it had submitted negative tax accounts from the beginning. It was always a creditor.
+[16] The other facts taken into consideration by the Minister of National Revenue ("the Minister") are:
+[TRANSLATION]
+(h) For the first period in issue, the amount of GST that the Appellant did not collect upon making the supplies of property, by way of sale, to the American recipients who considered themselves consumers, is $21,626.38.
+(i) For the second period in issue, the amount of GST that the Appellant did not collect upon making the supplies of property, by way of sale, to the American recipients who considered themselves consumers, is $5,218.21.
+(j) For the third period in issue, the amount of GST that the Appellant did not collect upon making the supplies of property, by way of sale, to the American recipients who considered themselves consumers, is $763.27.
+(k) The total amount of GST that the Appellant did not collect upon making the supplies of property, by way of sale, to the American recipients who considered themselves consumers for the first, second and third periods in issue, is $27,607.86 ($21,626.38 + $5,218.21 + $763.27), and the Appellant did not include this amount in the net tax calculation that it reported to the Minister for the three periods in question.
+(l) The Appellant owes the Minister the amounts of the adjustments made to its reported net tax for the first, second and third periods in issue, plus net interest and penalties.
+[17] Paragraph 34 of the Reply must also be reproduced:
+[TRANSLATION]
+34. Subsidiarily, and for information purposes only, for the first period in issue, the true amount of GST that the Appellant did not collect upon making supplies of property, by way of sale, to American recipients who considered themselves consumers is $22,045.80, not $21,626.38 as assessed, and thus, there is a difference of $419.42 that the Minister failed to assess, and the Court should only take account of this amount if it allows the appeal and refers the assessment in issue back to the Minister for reconsideration and reassessment.
+[18] The auditor began her investigation in the fall of 2002. She asked to see the sales invoices and the general ledger. Sales to Americans only truly became significant in the spring of 2000.
+[19] The auditor drew up a list of buyers. If they were building contractors, corporations or independent businesspeople such as motel owners, she considered them recipients other than consumers. Individuals for whom she could identify no commercial activity as a reason to buy were classified as consumers.
+[20] At the hearing, the auditor agreed that a few other sales were zero-rated supplies. The tax on these sales totals $1,033.62.
+[21] Mr. Marcoux explained that 80 or 90 percent of the individuals came along with building contractors, that certain individuals were employees of building contractors, and that the names of certain individuals appeared frequently, which could suggest that they were making the purchases on behalf of commercial operations.
+[22] He also linked certain individuals to businesses that the auditor had accepted. When asked why the invoices were made out to individuals rather than to a corporate name, he replied that each of these individuals had built themselves a home.
+Arguments
+[23] Counsel for the Appellant submitted that I should accept that certain individuals who can be linked to contractors, were accompanied by contractors or were employed by contractors, or who made a number of transactions, did not receive the property as consumers.
+[24] Counsel for the Respondent noted that there was no letter or sworn declaration from the recipients whom the auditor classified as consumers stating that they had acquired the tangible personal property in the course of commercial activities. He also submitted that it is up to the Appellant to prove that these recipients were not consumers. As for the additional tax that should be deducted from the total assessment following the auditor's acceptance that certain other sales were zero‑rated, counsel submits that it should be reduced by the amount, which, by virtue of a calculation error, was not included in the total assessments, as stated in paragraph 34 of the Reply, quoted above.
+Conclusion
+[25] As I mentioned at the end of the hearing, I did not, and still do not, find it plausible that employees would use their own name to purchase supplies intended for their employers. A corroborative explanation by the employers and the employees would be necessary.
+[26] The individuals who were accompanied by building contractors were consumers if they made the purchases. A contractor can accompany an individual for whom he is building a house in order to point out the choices to the individual. The contractor can make the purchase himself and charge the amount to the individual as part of the total cost of the house. If so, the recipient is not the consumer. However, if the individual recipient does the purchasing, that recipient is a consumer.
+[27] An individual can make a purchase for the purpose of commercial activities. It is up to the Appellant to show, based on the goods received and the activities of the individual, that the goods were indeed received for commercial activities.
+[28] Letters or sworn declarations by the individuals can also be helpful.
+[29] The evidence was insufficient to satisfy me that the Minister erred in making the assessments.
+[30] The last point made by counsel for the Respondent was that I should take account of the Minister's calculation error in making the assessment. I do not believe that this proposition is in keeping with the decision in Harris v. M.N.R., 64 DTC 5332 (Exch. Ct.), 66 DTC 5189 (S.C.C.). It is a well settled principle of tax law that the Minister cannot appeal from his own assessments. He has the power to make additional assessments. If he does not, the assessments are presumed valid, and this goes both ways. In Petro‑Canada v. Canada, [2004] F.C.J. No. 734 (QL), at paragraphs 65 to 69, the Federal Court of Appeal recently confirmed this position, holding that the Minister cannot do indirectly what he could not do directly.
+[31] The appeal is allowed, without costs, to the extent that a deduction of $1,033.62 in tax is permitted. In all other respects, the Minister's assessments are confirmed.
+Signed at Ottawa, Canada, this 23rd day of August 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+On this 20th day of February, 2006.
+Garth McLeod, Translator
+CITATION:
+2005TCC507
+COURT FILE NO.:
+2004-3455(GST)I
+STYLE OF CAUSE:
+R. Marcoux & Fils Inc. and The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 4, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+May 10, 2005
+DECISION DELIVERED ORALLY ON:
+May 6, 2005
+REASONS FOR JUDGMENT:
+August 23, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Agathe Cavanagh
+Counsel for the Respondent:
+Benoit Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Agathe Cavanagh
+Firm:
+Ravinsky Ryan
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

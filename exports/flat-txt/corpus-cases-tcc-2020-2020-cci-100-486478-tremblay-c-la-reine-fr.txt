@@ -1,0 +1,297 @@
+Title: Tremblay c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/486478/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-100-486478-tremblay-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-10-05
+
+# Tremblay c. La Reine
+
+- Citation: 2020 CCI 100
+- Decision date: 2020-10-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4570, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-10-05
+Référence neutre
+2020 CCI 100
+Numéro de dossier
+2016-4530(IT)G
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4530(IT)G
+ENTRE :
+RICHARD TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 16 avril 2019, à Montréal (Québec).
+Devant : L'honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l’appelant :
+Me Mathieu Angers
+Avocat de l'intimée :
+Me Mounes Ayadi
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2010, 2011, 2012 et 2013 est rejeté, avec dépens, selon les motifs ci-joints.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2020.
+« Sylvain Ouimet »
+Juge Ouimet
+Référence : 2020 CCI 100
+Date : 20201005
+Dossier : 2016-4530(IT)G
+ENTRE :
+RICHARD TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Ouimet
+I. INTRODUCTION
+[1] Monsieur Richard Tremblay (« M. Tremblay ») interjette appel de nouvelles cotisations établies le 27 novembre 2014 et le 9 mars 2015. Par ces nouvelles cotisations, le ministre du Revenu national (le « ministre ») a refusé d’accorder à M. Tremblay des déductions pour des pertes d’entreprise subies au cours des années 2010 à 2013 inclusivement (« les années en litige »). L’activité commerciale de l’entreprise de M. Tremblay était la commercialisation de Stabiox, une technologie de traitement de boues d’épuration municipales et industrielles (la « technologie Stabiox »). Les pertes subies par cette entreprise durant les années en litige sont les suivantes :
+Année
+Pertes d’entreprise
+2010
+50 850 $
+2011
+74 614 $
+2012
+59 855 $
+2013
+48 341 $
+[2] L’avocat de l’intimée a soutenu que le ministre a refusé la déduction de toutes les dépenses reliées à l’entreprise de M. Tremblay, car cette dernière n’avait pas commencé à être exploitée. Par conséquent et pour ce motif, le ministre a aussi refusé la déduction de toutes les pertes d’entreprise de M. Tremblay.
+[3] Subsidiairement, l’avocat de l’intimée a soutenu que, si la Cour devait arriver à la conclusion que M. Tremblay exploitait une entreprise durant les années en litige, certaines des dépenses d’entreprise ne devraient pas être déductibles pour l’un ou l’autre des motifs suivants :
+1. Les dépenses n’ont pas été engagées dans le but de tirer un revenu d’une entreprise parce qu’elles étaient de nature personnelle. Par conséquent, aux termes des alinéas 18(1)a) et 18(1)h) de la Loi de l’impôt sur le revenu [1] (« LIR »), elles n’étaient pas déductibles.
+2. Les dépenses n’étaient pas raisonnables dans les circonstances. Par conséquent, elles n’étaient pas déductibles suivant l’article 67 de la LIR.
+[4] Selon les faits tenus pour acquis par le ministre afin de déterminer l’impôt payable par M. Tremblay, les dépenses qui ne sont pas déductibles pour l’un ou l’autre des deux motifs énumérés ci-dessus sont les suivantes :
+Dépenses
+2010
+2011
+2012
+2013
+Frais de bureau
+200,35 $
+193,01 $
+800,40 $
+465,70 $
+Fournitures
+717,87 $
+625,88 $
+138,43 $
+28,92 $
+Frais de repas
+94,22 $
+207,07 $
+310,67 $
+532,89 $
+Dépenses - automobile
+6 299,91 $
+5 551,67 $
+4 748,38 $
+3 311,80 $
+Frais de voyage et de transport
+2 130,36 $
+3 340,32 $
+4 679,33 $
+1 911,71 $
+Dépenses de loyer
+7 638,75 $
+6 737,25 $
+8 965,80 $
+10 619,00 $
+Frais de téléphones
+1 702,69 $
+1 819,83 $
+1 727,20 $
+1 727,83 $
+Frais comptables et honoraires professionnels
+3 121,36 $
+9 875,00 $
+0 $
+229,95 $
+Déduction pour amortissement de la technologie Stabiox et d’une automobile
+29 953,60 $
+46 496,12 $
+3 767,75 $
+28 956,46 $
+[5] M. Richard Tremblay a témoigné lors de l’audience.
+[6] L’intimée n’a présenté aucun témoin lors de l’audience.
+I. QUESTIONS EN LITIGE
+[7] Les questions en litige sont les suivantes :
+1. Est-ce à bon droit que le ministre a refusé la déduction de la totalité des dépenses reliées à l’entreprise de M. Tremblay, et ce, pour chacune des années en litige ?
+2. Est-ce à bon droit que le ministre a refusé la déduction de la totalité des pertes reliées à l’entreprise de M. Tremblay, et ce, pour chacune des années en litige ?
+[8] Afin de répondre à ces questions, la Cour devra répondre aux questions suivantes:
+1. Est-ce que, durant les années en litige, M. Tremblay avait une source de revenus d’entreprise ?
+2. Est-ce que les dépenses dont la déduction a été demandée par M. Tremblay ont été engagées dans le but de tirer un revenu de son entreprise ?
+3. Est-ce que ces dépenses étaient de nature personnelle ?
+4. Est-ce que ces dépenses étaient raisonnables dans les circonstances ?
+II. DISPOSITIONS LÉGISLATIVES PERTINENTES
+[9] Les dispositions législatives pertinentes sont les suivantes :
+Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.)
+9. (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[…]
+18. (1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[…]
+67. Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+III. LES FAITS
+A. Contexte
+[10] M. Tremblay est un ingénieur de procédés ayant plus de 25 années d’expérience. Au cours de sa carrière, M. Tremblay a participé au développement de nouveaux produits et de nouvelles technologies en lien avec les industries minière, pétrolière et métallurgique.
+[11] En 2002, M. Tremblay a été engagé comme consultant au sein d’une entreprise nommée Biolix (« Biolix »). Dans le cadre de ses fonctions, il a participé au développement d’une technologie de traitement chimique de boues d’épuration municipales et industrielles nommée Stabiox. Selon M. Tremblay, l’avantage de cette technologie est qu’elle permet de faire le traitement de ces boues à l’aide de produits chimiques à un coût inférieur aux méthodes alternatives. De plus, la boue résiduelle peut être utilisée comme fertilisant. Par conséquent, selon M. Tremblay, cette technologie est plus écologique et moins dispendieuse que les méthodes de traitement conventionnelles.
+[12] Avant son départ de Biolix en 2006, M. Tremblay a travaillé à la commercialisation de la technologie Stabiox auprès de l’industrie des pâtes et papiers. À cette époque, les clients de Biolix dans cette industrie étaient des usines de pâtes et papiers.
+[13] En 2006, M. Tremblay a commencé à travailler pour SNC-Lavalin. À la même époque, dans le but de récupérer des honoraires de consultation que lui devait Biolix, M. Tremblay a intenté une procédure judiciaire contre cette dernière. En 2009, après la faillite de Biolix, cette procédure a permis à M. Tremblay d’obtenir la propriété des brevets relatifs à la technologie Stabiox. À ce moment ou peut-être avant ‑ le témoignage de M. Tremblay n’étant pas clair à ce sujet - M. Tremblay a identifié trois principaux groupes de clients potentiels auxquels il pensait pouvoir vendre la technologie Stabiox. Il s’agissait des municipalités, des entreprises dans l’industrie des pâtes et papiers et des entreprises dans l’industrie agroalimentaire.
+[14] M. Tremblay a expliqué que la technologie Stabiox ne nécessite que très peu d’équipement pour sa mise en place. Son fonctionnement pouvait facilement être démontré aux clients potentiels puisqu’il s’agit seulement de l’ajout de produits chimiques au cours du procédé de traitement des boues qui était déjà en place chez le client potentiel. Par conséquent, M. Tremblay pouvait faire seul les démonstrations chez les clients potentiels.
+[15] Au cours de l’année 2010, les efforts de commercialisation de la technologie Stabiox de M. Tremblay ont été concentrés sur les municipalités. Monsieur Tremblay a expliqué qu’il connaissait des personnes travaillant pour certaines municipalités. Il pouvait donc les contacter en vue de vendre la technologie Stabiox à ces municipalités. Cependant, dans la majorité des cas, sa stratégie de commercialisation consistait à contacter le conseiller municipal du district où l’usine de traitement des boues était située ou à contacter le directeur technique de l’usine. Son objectif était d’identifier la personne responsable du traitement des boues auprès de la municipalité afin de contacter cette personne et éventuellement de pouvoir la rencontrer. Ainsi, il pouvait être en mesure de faire la promotion de la technologie Stabiox directement auprès de l’utilisateur. Après ces rencontres, M. Tremblay laissait à ses interlocuteurs un article de « type scientifique » facile à lire et aussi, à l’occasion, une présentation PowerPoint qui résumait les avantages de la technologie Stabiox.
+[16] Selon les dires de M. Tremblay, ce type de démarche nécessitait qu’il passe beaucoup de temps au téléphone. Notamment, il a dit avoir fait des démarches de ce type auprès des municipalités de Montréal, de Longueuil, de Québec, de Lévis, de Sainte‑Julie, de Repentigny et de Victoriaville. M. Tremblay a constaté que la majorité des municipalités contactées n’avaient aucun problème urgent de traitement des boues nécessitant l’utilisation d’une méthode alternative. Les municipalités qui avaient des problèmes avaient déjà entamé des démarches pour les résoudre. M. Tremblay se serait aussi fait dire par certaines municipalités que sa technologie n’était pas suffisamment éprouvée pour être considérée à titre de méthode alternative par celles-ci.
+[17] Durant l’année 2010 ou 2011, M. Tremblay a travaillé avec des agents de brevets afin de déterminer dans quels pays il désirait obtenir un brevet. Il a décidé d’entreprendre des démarches afin d’obtenir des brevets pour le Canada, les États‑Unis, la France, l’Allemagne et l’Angleterre. Il a aussi mentionné avoir travaillé avec des « chercheurs » pour être en mesure de fournir des « explications » aux agents de brevets concernant des « contestations » reliées aux brevets.
+[18] Au cours de l’année 2011, M. Tremblay a décidé de concentrer ses efforts de commercialisation sur les entreprises dans l’industrie du compostage et celles dans l’industrie agroalimentaire. Il entrevoyait des changements prochains dans les réglementations environnementales qui pouvaient rendre la technologie Stabiox intéressante pour ces entreprises.
+[19] Durant l’année 2011, M. Tremblay a participé à un congrès nommé « Americana ». Son objectif était d’y rencontrer des clients et des partenaires potentiels. Lors de ce congrès, il a fait la connaissance de représentants des entreprises GSI et Englobe. Après la fin du congrès, des discussions ont eu lieu avec ces deux entreprises, mais celles-ci ont finalement dit à M. Tremblay que la technologie Stabiox ne les intéressait pas. Au cours de la même année, M. Tremblay a commencé à collaborer avec l’entreprise Terratube. À l’époque, cette entreprise française produisait d’immenses sacs contenant du polymère qui pouvaient remplacer dans une certaine mesure des étangs d’épuration. Les produits de Terratube étaient aussi utilisés dans le traitement des boues d’abattoir. Ces boues sont épandues dans les champs comme fertilisants, mais ont une odeur nauséabonde. Dans une collaboration avec Terratube, M. Tremblay entrevoyait des possibilités pour la technologie Stabiox dans les abattoirs. Des essais ont été effectués dans des abattoirs appartenant à Olymel. Monsieur Tremblay a expliqué que la technologie Stabiox permettait de supprimer les odeurs nauséabondes dégagées par les boues d’abattoir. M. Tremblay avait comme objectif d’utiliser la technologie Stabiox afin de permettre l’épandage des boues sur une plus longue période pendant l’été, même en période de canicule, sans problème d’odeur. Selon M. Tremblay, les résultats obtenus étaient très intéressants du point de vue de la désodorisation, mais pour ce qui est de l’aspect filtration, ils étaient moins concluants. Finalement, les clients potentiels contactés par M. Tremblay ont décidé d’opter pour une autre méthode, soit la construction d’une usine permettant de traiter un grand volume de boues.
+[20] Par la suite, M. Tremblay a entrepris de contacter des usines de pâtes et papiers. Il a rencontré M. Bélanger de l'entreprise Papiers White Birch, dont l’usine est située dans la ville de Québec. Selon M. Tremblay, l’intérêt principal de la technologie Stabiox pour cette industrie était qu’elle permettait une diminution des coûts d’incinération pour l’entreprise, ainsi qu’une réduction des odeurs. Lors de leur rencontre, M. Tremblay a remis à M. Bélanger un article scientifique dont il n’était pas lui-même l’auteur, un document promotionnel destiné à l’industrie des pâtes et papiers et une version modifiée de sa présentation PowerPoint datant de 2010 [2] .
+[21] En décembre 2011, un incendie a endommagé la résidence principale de M. Tremblay et il ne l’a réintégrée qu’en avril 2012. Ceci a fait en sorte que M. Tremblay n’a pas eu beaucoup de temps et d’énergie à consacrer aux activités de son entreprise. De plus, au cours de l’année 2012, les activités de commercialisation de M. Tremblay ont été ralenties par la contestation de certains brevets. Monsieur Tremblay a concentré ses efforts sur les démarches déjà entreprises dans le passé.
+[22] Au cours de l’année 2013, M. Tremblay a appris que la ville de Québec projetait d’implanter sur son territoire une nouvelle usine de biométhanisation. Il y a vu une occasion de faire à nouveau la promotion de Stabiox auprès du secteur municipal, notamment auprès des villes de Québec et de Montréal. Monsieur Tremblay a toutefois rapidement constaté qu'il n'y avait aucune occasion d'affaires avec la ville de Montréal. Quant à la ville de Québec, M. Tremblay a parlé à M. Fréchette et à M. Dernais. Il y avait un certain intérêt, mais on lui a dit qu’il devait s’inscrire comme lobbyiste pour pouvoir pousser les discussions plus loin. Il a contacté un cabinet d’avocats à cette fin et on lui a expliqué qu’il n’était pas nécessaire qu’il s’inscrive comme lobbyiste. Parallèlement, il a continué à solliciter des entreprises du secteur des pâtes et papiers, par exemple F.F. Soucy, Kruger et Cascades.
+[23] Durant les années en litige, M. Tremblay a travaillé pour SNC-Lavalin entre 20 heures et 37,5 heures par semaine. Le nombre d’heures de travail hebdomadaires fluctuait en fonction des projets sur lesquels il travaillait. Durant ces années, a dit M. Tremblay, il consacrait de 150 à 200 heures à chaque client potentiel, mais il n’en a pas dit plus sur le sujet. Monsieur Tremblay n’a pas non plus donné de détails quant au nombre d’heures qu’il a consacré à la commercialisation de la technologie Stabiox, que ce soit quotidiennement, hebdomadairement ou mensuellement. De plus, M. Tremblay a dit avoir travaillé, durant les premières années, de 200 à 300 heures par année sur ses demandes de brevets. Monsieur Tremblay a été licencié par SNC-Lavalin au cours de l’année 2013.
+B. Frais de bureau et fournitures
+[24] D’après le témoignage de M. Tremblay, les dépenses de frais de bureau ont été engagées afin de payer les fournitures de bureau nécessaires à la préparation de présentations pour les clients potentiels.
+C. Frais de repas
+[25] Selon le témoignage de M. Tremblay, les dépenses relatives aux frais de repas ont été engagées pour des repas consommés seuls dans l’autobus pendant le trajet entre Québec et Montréal.
+D. Dépenses relatives à l’utilisation d’un véhicule automobile
+[26] Selon le témoignage de M. Tremblay, il a fait beaucoup de sollicitation par téléphone et par courriel. Il a dit qu’il se déplaçait parfois à l’établissement de clients potentiels afin de faire une présentation ou d’effectuer une démonstration sur place. Il a aussi dit avoir eu à se déplacer pour rencontrer des agents de brevets et des chercheurs. Monsieur Tremblay a dit qu’il utilisait une fourgonnette Dodge Caravan pour ces déplacements chez les clients potentiels. La fourgonnette était fort utile lorsqu’il devait se rendre aux usines des clients potentiels afin de les rencontrer, parce qu’il devait transporter son propre équipement protecteur, lequel comprenait un casque et des bottes ainsi que des contenants pour prendre des échantillons. Il lui arrivait aussi de devoir transporter des contenants de cinq gallons, des toiles et quelques produits chimiques. Le transport de ces produits chimiques laissait une odeur dans la fourgonnette, mais il s’y était habitué. Monsieur Tremblay ne tenait pas de registre relatif à ses nombreux déplacements aux fins de son entreprise.
+[27] Bien que M. Tremblay possédât aussi deux autres véhicules, soit une Hyundai Sonata et une Hyundai Accent, il a affirmé, lors de son interrogatoire, utiliser la fourgonnette uniquement aux fins de son entreprise.
+E. Frais de voyage et de transport
+[28] M. Tremblay a affirmé que les dépenses relatives aux frais de transport ont été engagées afin de payer le coût du trajet en autobus pour se rendre de Québec à Montréal aux fins de son entreprise. Monsieur Tremblay a dit utiliser l’autobus pour éviter d’être en retard l’hiver lorsque le climat n’était pas clément. Il a aussi indiqué utiliser l’autobus pour éviter le risque d’accident que présentaient les chevreuils au printemps.
+F. Frais de téléphone
+[29] En ce qui a trait aux frais d’utilisation de téléphone, M. Tremblay a dit à la Cour qu’il s’agissait des dépenses reliées à l’utilisation de son cellulaire et des frais de la ligne téléphonique de l’appartement de Montréal. Selon M. Tremblay, ces dépenses ont été engagées dans le cadre de l’exploitation de son entreprise.
+G. Dépenses relatives à l’appartement de Montréal
+[30] Monsieur Tremblay a expliqué à la Cour qu’il avait loué un appartement à Montréal afin d’y entreposer les archives relatives à Stabiox obtenues de Biolix. Il a expliqué avoir fait ce choix afin de pouvoir y trier ces archives et parce que les documents se trouvaient chez un syndic à Montréal. Il a expliqué que, s’il n’avait pas loué un appartement à Montréal pour ce faire, il aurait été obligé de transporter les archives par camion à Québec. Quant au nombre de boîtes en question, Monsieur Tremblay a dit qu’il s’agissait de plusieurs boîtes. M. Tremblay a aussi justifié ce choix parce qu’il était à la recherche de partenaires commerciaux. Il avait « ciblé certaines firmes de génie-conseil qui étaient très fortes ou renommées en traitement des eaux » qui avaient leur siège social à Montréal, mais il ne les a toutefois pas nommées.
+[31] Dans ses déclarations de revenus modifiées, M. Tremblay a indiqué qu’il utilisait l’appartement dans une proportion de 75 % en 2010, de 65 % en 2011, de 85 % en 2012 et de 100 % en 2013 pour l’exploitation de son entreprise. Monsieur Tremblay a dit qu’il utilisait l’appartement pour y dormir lorsqu’il devait demeurer dans la région de Montréal dans le cadre de son emploi chez SNC‑Lavalin. Il a admis en contre-interrogatoire qu’il n’est allé que très rarement à Montréal au cours de l’année 2013, que ce soit pour des raisons d’affaires ou pour son emploi chez SNC-Lavalin.
+H. Frais comptables et honoraires professionnels
+[32] Monsieur Tremblay a expliqué à la Cour les raisons pour lesquelles il avait eu à payer certains honoraires professionnels aux fins de l’exploitation de son entreprise. Selon ces explications, il s’agissait d’honoraires payés à « des comptables » en lien avec « des questions » qui étaient en majorité relatives à ses « rapports d’impôts ». Monsieur Tremblay a prétendu avoir remis à la vérificatrice deux boîtes de documents dans lesquelles se trouvaient plusieurs factures d’honoraires.
+I. Déductions pour l’amortissement du brevet ou des brevets concernant la technologie Stabiox, ainsi que pour l’amortissement d’un véhicule automobile
+[33] Monsieur Tremblay a expliqué qu’il a donné une valeur de 170 000 $ au brevet, car cette somme représentait la valeur de sa créance sur Biolix. L’explication donnée par M. Tremblay lors de son témoignage est la suivante : « R’garde, j’vas marquer ça pis on va voir qu’est-ce qu’ils vont me dire là » [3] . En ce qui concerne la déduction demandée relativement au véhicule automobile, ce point n’a pas été abordé lors de l’audience.
+IV. ANALYSE
+[34] Dans la présente affaire, le ministre a refusé la déduction de toutes les dépenses reliées à l’entreprise de M. Tremblay pour chacune des années en litige. Selon l’avocat de l’intimée, l’entreprise en question n’avait pas commencé à être exploitée. Pour cette raison, le ministre a conclu que M. Tremblay n’avait pas de source de revenus d’entreprise. Pour la même raison, le ministre a refusé les déductions de pertes d’entreprise qu’a réclamées M. Tremblay pour chacune des années en litige.
+[35] Il convient donc, en examinant la preuve présentée lors de l’audience, de déterminer si, en l’espèce, M. Tremblay avait une source de revenus d’entreprise durant les années en litige. Cette détermination s’avère nécessaire pour l’application de l’article 9 de la LIR. Cette disposition de la LIR édicte la règle fondamentale en ce qui a trait aux sources de revenus que constituent une entreprise ou un bien. Il traite aussi de la perte subie par un contribuable relativement à une entreprise. L’article 9 de la LIR est rédigé comme suit :
+9. (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+(2) Sous réserve de l'article 31, la perte subie par un contribuable au cours d’une année d'imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[Je souligne.]
+[36] Sur la nécessité, pour l’application de l’article 9 de la LIR, de déterminer si un contribuable a une source de revenus d’entreprise, la Cour suprême du Canada a dit ce qui suit dans l’arrêt Stewart c. Canada [4] :
+50 Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. Comme nous l'avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d'un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d'un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source […]. [5]
+[Je souligne.]
+1- Est-ce que, durant les années en litige, M. Tremblay avait une source de revenus d’entreprise ?
+a) Le droit applicable
+[37] Dans l’arrêt Stewart [6] , la Cour suprême du Canada a énoncé une méthode à deux volets à utiliser pour déterminer si un contribuable a une source de revenus qui est une entreprise ou un bien. Ces deux volets sont les suivants :
+1- L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle [7] ?
+2- S’il ne s'agit pas d'une démarche personnelle, la source du revenu est-elle une entreprise ou un bien [8] ?
+[38] Le premier volet de cette méthode vise à établir une distinction entre les activités commerciales et les activités personnelles d’un contribuable [9] . Il s’agit pour la Cour de déterminer si la nature de l'entreprise du contribuable comporte un ou des aspects (le terme « élément » est aussi utilisé dans la jurisprudence) indiquant qu'elle pourrait être considérée comme un passe-temps ou une autre activité personnelle [10] .
+[39] Ont été assimilés à un aspect personnel par la Cour suprême du Canada un « aspect […] récréatif » [11] ou « un passe-temps » [12] . Dans l’arrêt Tonn c. Canada [13] , la Cour d’appel fédérale a défini un élément personnel comme une activité qui procure à un contribuable une satisfaction ou des avantages personnels, notamment sur le plan psychologique. Le passage pertinent de cet arrêt est le suivant :
+29 […] Les litiges dans lesquels le critère de « l'attente raisonnable de profit » est appliqué appartiennent à deux catégories. La première se compose des cas où l'activité reprochée se caractérise en grande partie par un élément personnel. Il s'agit de situations dans lesquelles le contribuable a investi de l'argent pour poursuivre une activité qui lui procure une satisfaction ou des avantages personnels, notamment sur le plan psychologique. L'exploitation de fermes d'élevage pour chevaux, la location d'unités en copropriété à Hawaï et en Floride ou de chalets de ski, l'affrètement de yachts, l'exploitation de chenils et ainsi de suite ont été considérés comme des activités de cette nature. […]
+[Je souligne.]
+[40] Si elle ne comporte aucun aspect personnel et qu’elle est manifestement commerciale, l’activité du contribuable sera qualifiée de source de revenus d’entreprise ou de revenus tirés de biens. Il ne sera alors pas nécessaire de pousser l'examen plus loin et donc de passer au deuxième volet de la méthode [14] . Cependant, lorsque l'activité a un aspect personnel, la Cour doit déterminer si cette activité a été ou non exercée d'une manière suffisamment commerciale pour constituer une source de revenus d’entreprise ou de revenus tirés d’un bien [15] . Le contribuable a alors le fardeau d’établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux [16] . Si c’est le cas, l’activité sera qualifiée de source de revenus d’entreprise ou de revenus tirés d’un bien pour l'application de la LIR.
+[41] Afin de déterminer si une activité a été exercée d'une manière suffisamment commerciale pour constituer une source de revenus d’entreprise, la Cour doit déterminer si le contribuable avait l'intention d'exercer l’activité en vue de réaliser un profit et s'il existe des éléments de preuve étayant cette intention. Le contribuable doit établir que son intention prédominante était de tirer un profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux [17] . Il est à noter que cette détermination ne devrait toutefois pas servir à évaluer après coup le sens des affaires du contribuable. Selon ce qui a été dit par la Cour suprême du Canada dans l’arrêt Stewart, c'est la nature commerciale de l’activité du contribuable qui doit être évaluée et non son sens des affaires [18] .
+[42] En l’espèce, pour l’application du sous-alinéa 18(1)a) de la LIR, il faut aussi déterminer si, M. Tremblay avait durant les années en litige une source de revenus d’entreprise. Selon cette disposition, une dépense n’est déductible dans le calcul du revenu qu’un contribuable tire d’une entreprise que dans la mesure où elle a été faite ou engagée par le contribuable en vue de tirer un revenu de cette entreprise. Le sous-alinéa 18(1)a) de la LIR présuppose l’existence d’une source de revenus [19] et il est rédigé comme suit :
+18. (1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien.
+[43] Ceci dit, dans l’éventualité où elle concluait que M. Tremblay n’avait pas de source de revenus d’entreprise durant les années en litige, la Cour n’aurait pas besoin de pousser l’examen plus loin et de déterminer si les dépenses ont été engagées par M. Tremblay en vue de tirer un revenu de son entreprise.
+b) Application du droit en l’espèce
+[44] Selon le témoignage de M. Tremblay, il a acquis les droits sur la technologie Stabiox et a tenté de la commercialiser. La Cour n’a pas pu constater un aspect ou élément personnel quelconque dans les démarches de commercialisation entreprises par M. Tremblay. Rien dans la preuve présentée à l’audience ne permet à la Cour de conclure que cette activité était un passe-temps. Il n’y a pas de preuve indiquant que l’activité procurait à M. Tremblay un avantage personnel ou une quelconque satisfaction personnelle, qu’elle soit psychologique ou autre.
+[45] Par conséquent, il n’est pas nécessaire, en l’espèce, que la Cour détermine si les efforts de commercialisation de M. Tremblay ont été menés conformément à des normes objectives de comportement d'hommes d'affaires sérieux.
+[46] Ceci dit, selon les hypothèses de fait du ministre, durant les années en litige, l’entreprise de M. Tremblay n’avait pas commencé à être exploitée. Par conséquent, selon le ministre, cette entreprise ne pouvait pas être une source de revenu d’entreprise pour M. Tremblay. Selon le ministre, il n’y a eu aucune activité démontrant que M. Tremblay a commencé à exploiter son entreprise durant lesdites années. Compte tenu de ceci, afin de déterminer si cette hypothèse de fait a été réfutée, la Cour doit tout d’abord déterminer si les activités de commercialisation ont bel et bien eu lieu en examinant la preuve présentée par M. Tremblay lors de l’audience. Or, en l’espèce, après avoir examiné cette preuve, la Cour est d’avis que celle-ci n’est pas suffisante pour réfuter cette hypothèse de fait du ministre. La Cour est d’avis qu’aucune activité n’a été menée par M. Tremblay pour exploiter son entreprise.
+[47] Les activités de M. Tremblay en lien avec la commercialisation de la technologie Stabiox ont été décrites par M. Tremblay dans son témoignage. En fait, la quasi-totalité de la preuve présentée par M. Tremblay quant à ses démarches de commercialisation consistait en ce témoignage. Tout d’abord, il convient de rappeler qu’un témoignage seul peut être suffisant pour établir des faits [20] . Ce témoignage n’a pas non plus à être parfait [21] . Cependant, encore faut-il qu’il soit clair et non contredit.
+[48] Dans le cadre de son témoignage, M. Tremblay a dit avoir contacté quelques clients potentiels et avoir réfléchi à un plan d’affaires qu’il envisageait d'exécuter. Il a dit avoir également voulu s’associer à un partenaire d’affaires et avoir effectué au moins un test chez un client avec ce partenaire potentiel. Ses tentatives de commercialisation se seraient révélées très peu fructueuses. Monsieur Tremblay a dit avoir fait des démarches afin d’obtenir les droits de brevet pour pouvoir ainsi commercialiser la technologie Stabiox à l’étranger. Il a dit en outre avoir fait l’acquisition du matériel nécessaire afin de pouvoir faire chez les clients potentiels la démonstration de son produit.
+[49] La Cour a conclu que le seul témoignage de M. Tremblay n’était pas suffisant pour établir que des démarches de commercialisation ont réellement été faites. Même si ce témoignage n’a pas été contredit, il manquait tellement de clarté et de précision qu’il n’était pas crédible.
+[50] Le témoignage de M. Tremblay était si vague relativement aux démarches de commercialisation qu’il a prétendu avoir faites que la Cour ne peut conclure qu’elles ont vraisemblablement été faites. Afin d’illustrer le manque de précision du témoignage de M. Tremblay, il convient d’en reproduire ci-dessous certains extraits :
+- Lorsque M. Tremblay a été questionné sur les démarches entreprises auprès de la ville de Lévis, il a dit ce qui suit :
+Lévis, je suis allé là. Je suis allé là, j’ai encore rencontré des… là, j’étais allé un peu plus loin, je suis même rentré dans les usines, on s’est promis d’échanger des échantillons, des… [22]
+- Lorsque M. Tremblay a été questionné sur les villes qui ont été considérées comme des clientes potentielles, il a dit ce qui suit :
+Oui, j’ai rencontré du monde, on a discuté, on a échangé des appels, on voulait se voir, on a échangé des… les documents que j’avais, les intérêts… [23]
+- Lorsque M. Tremblay a été questionné sur les entreprises qui ont été considérées comme des clientes potentielles, il a dit ce qui suit :
+a) Concernant GSI
+Oui. GSI, puis j’ai contacté même du monde que je connaissais à l’intérieur, même à un moment donné là, ah! un Fred, un gars (inintelligible) … parce qu’à un moment donné, on reconnait des noms, t'sais, on reconnait des noms, pis il me semble que, ah! je connaissais un gars qui avait ce nom-là, pis on parle pis on voit les difficultés que ces entreprises-là ont eues parce que y’en a plusieurs qui ont fermé. Pourquoi? Parce que les normes environnementales ont changé puis leur plateforme devait s’équiper d’équipements qui connectaient tous les autres pis si la pression était trop grande, ça leur coutait [sic] trop cher, alors y’en a certains qui ont fermé. Y’a eu comme une catastrophe… [24]
+b) Concernant Englobe
+Ben, je les ai contactés pour voir où ils en étaient, qu’est-ce qu’ils voulaient faire, ils voulaient-tu se mettre aux normes, ils voulaient… y’en… mais y’en a qui ont fermé carrément. Mais, par exemple, y’avait la compagnie Englobe. Elle… elle était… j’ai eu une écoute incroyable. Pourquoi? Parce que y’a des… quelques individus là-dedans avec qui j’avais travaillé dans le passé puis qui me connaissaient un peu, t'sais? Puis y’a des individus qui connaissaient un peu la technologie pour l’avoir côtoyée là, que ça soit dans les universités ou… alors là, woup! j’avais une belle… une belle écoute. Cette compagnie-là travaille à… travaillent dans les sols contaminés puis ça l’intéressait de travailler avec les boues – les boues, les sols, t'sais, c’est cousin/cousine. Ça semblait être très intéressant du point de vue technique puis même du premier niveau de management, on a fait des échanges, on s’est parlé presque à tous les mois, malgré que y’avaient d’autres occupations, on se donnait presque des rendez-vous téléphoniques puis par courriel constamment. Et puis… et puis à un moment donné, après presque deux ans de discussions pis d’échanges, y’ont dit : « Regarde, les patrons, y’ont décidé qu’ils feraient pas une expansion à l’intérieur de la province de Québec, il dit, on va rester seulement dans les sols. Même si on a des plateformes de compostage, il dit, on reste dans les sols puis on s’en va dans l’Ouest. » Y’ont un procédé biologique puis y’ont dit « on va aller l’appliquer dans les provinces de l’Ouest. [25]
+c) Concernant White Birch
+Ben, on a parlé… on a rencontré le responsable d’environnement, Monsieur… je pense que c’était un autre M. Bélanger à part de d’ça. Mais, en tout cas, le responsable de l’environnement à ce moment-là. Un M. Tricart (phon.) aussi, puis eux autres, ben, y’ont des… sont en plein cœur de la Ville de Québec, alors… ou c’était pour les odeurs, mais eux autres c’était plus pour… il fallait qu’ils brulent [sic] les boues, puis les boues, ben, la seule manière qu’ils réussissaient à les bruler, parce que y’a un incinérateur là, un petit… c’est qu’ils mettaient du copeau de bois. Mais le copeau de bois, d’habitude ils mettent ça pour faire du papier, pas pour bruler [sic] de la boue. [26]
+- Lorsque M. Tremblay a été questionné sur ses activités relatives à l’obtention de brevets relatifs à la technologie Stabiox, il a dit ce qui suit :
+Pour les clients potentiels? Ah, ben là là, regardez là, y’a eu comme un ralentissement un peu là, OK, en termes de… puis c’était juste du téléphone pour essayer de maintenir mes… Puis en 2012, c’était les dernières années où j’avais des contestations au niveau du brevet aussi. Parce qu’oubliez pas, j’ai appliqué dans cinq… cinq pays, chacun de ces pays-là, ils nous envoient quasiment une fois par année : première examination [sic] : « Voici les questions que vous avez à répondre. » Ben là, moi, je pogne ça, je m’en allais voir les… j’allais voir l’agent de brevets, on regardait qu’essé qui était dû (phon.) à les répondre… [27]
+[51] M. Tremblay aurait pu remédier aux lacunes importantes dans son témoignage en produisant d’autres éléments de preuve; il a choisi de ne pas le faire. Il a été le seul témoin entendu par la Cour et aucun élément de preuve n’a été soumis à la Cour afin de corroborer certains faits pourtant essentiels. Par exemple, quant aux démarches prétendument entreprises auprès de municipalités et d’entreprises, dans la très grande majorité des cas M. Tremblay n’a pas pu nommer les personnes avec qui il avait eu des discussions ou des rencontres, et ce, malgré le fait qu’il a dit avoir travaillé avec certains d’entre eux par le passé. Les dates auxquelles les rencontres ont eu lieu ainsi que l’endroit où elles ont eu lieu n’ont pas non plus été précisés; exceptionnellement, les noms de certaines des personnes rencontrées ont été mentionnés.
+[52] La Cour s’explique mal pourquoi aucune preuve documentaire - courriel, lettre, etc. - n’a été soumise en preuve pour démontrer que les démarches qui avaient été faites auprès des clients potentiels l’ont bel et bien été. Aucun des clients potentiels rencontrés par M. Tremblay n’est venu témoigner afin de corroborer le témoignage de M. Tremblay quant à l’existence de ses démarches de commercialisation. Monsieur Tremblay devait pourtant réfuter l’hypothèse de fait du ministre voulant qu’aucune activité de commercialisation n’ait eu lieu. Étant donné le manque flagrant de clarté du témoignage de M. Tremblay, la vraisemblance de son contenu a été irrémédiablement compromise au point de le rendre non fiable.
+V. CONCLUSION
+[53] Compte tenu de ce qui précède, la Cour conclut que M. Tremblay n’avait pas de source de revenus d’entreprise durant les années en litige. La Cour détermine, par conséquent, que c’est à bon droit que le ministre a refusé la déduction de la totalité des dépenses reliées à l’entreprise de M. Tremblay, et ce, pour chacune des années en litige. S’appuyant sur sa même conclusion énoncée ci-dessus, la Cour détermine que le ministre a à bon droit refusé la déduction de la totalité des pertes reliées à l’entreprise de M. Tremblay, et ce, pour chacune des années en litige.
+[54] Puisque la Cour peut trancher l’appel de M. Tremblay en se basant sur la même conclusion exprimée ci-dessus, la Cour n’a pas à tirer de conclusion quant aux autres questions en litige.
+[55] L’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2020.
+« Sylvain Ouimet »
+Juge Ouimet
+RÉFÉRENCE :
+2020 CCI 100
+Nº DU DOSSIER DE LA COUR :
+2016-4530(IT)G
+INTITULÉ DE LA CAUSE :
+RICHARD TREMBLAY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 16 avril 2019
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+Le 5 octobre 2020
+COMPARUTIONS :
+Avocat de l’appelant:
+Me Mathieu Angers
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Mathieu Angers
+Cabinet :
+Mathieu Angers Avocat
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.).
+[2] Pièce A-1, Cahier des documents de l’appelant, onglets 8 et 9.
+[3] Transcription de l’audience du 16 avril 2019, p. 194 (« Transcription »).
+[4] Stewart c. Canada, 2002 CSC 46.
+[5] Ibid., par. 50.
+[6] Ibid.
+[7] Ibid.
+[8] Ibid.
+[9] Ibid., par. 52.
+[10] Ibid.
+[11] Ibid., par. 34
+[12] Ibid., par. 52.
+[13] [1996] 2 C.F. 73, [1996] 1 C.T.C. 205 (CAF).
+[14] Stewart, précité, par. 60.
+[15] Ibid.
+[16] Ibid., par. 54.
+[17] Ibid., par. 54.
+[18] Ibid., par. 55.
+[19] Ibid., par. 57.
+[20] Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, pars. 51-52, 87; House c. La Reine, 2011 CAF 234, pars. 64-69.
+[21] House, précité, par. 68.
+[22] Transcription, p. 51.
+[23] Transcription, p. 53.
+[24] Transcription, pp. 88-89.
+[25] Transcription, pp. 89-90.
+[26] Transcription, pp. 103-104.
+[27] Transcription, p. 118.

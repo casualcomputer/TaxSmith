@@ -1,0 +1,205 @@
+---
+title: "Shahsavar v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26021/index.do"
+last_modified: "2005-03-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 184"
+citation2: ""
+neutral_citation: "2005 TCC 184"
+decision_date: "2005-03-24"
+language: "en"
+item_id: "26021"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4081
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:54:05.667000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "25c77dc853fc3eb27d8083bceced700d43756e2220688b878fa1cb20954f6d23"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shahsavar v. The Queen
+
+- Citation: 2005 TCC 184
+- Decision date: 2005-03-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4081, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shahsavar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-03-24
+Neutral citation
+2005 TCC 184
+File numbers
+95-2684(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 95-2684(IT)G
+BETWEEN:
+MAC J. SHAHSAVAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on November 17 and 18, 2004 at Winnipeg, Manitoba
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Paul Walsh
+Counsel for the Respondent:
+Jeff Pniowsky, Marley Dash
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1991 and 1992 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+With respect to the 1991 taxation year all issues have been resolved as follows:
+(a) the CRA ("Agency") will remove all penalties imposed;
+(b) the Agency will remove 50% of the $12,832.00 that it added to income by reason of the over valuation of furniture and equipment transferred by Shahsavar to Excelco; and
+(c) the Appellant will accept the additions to income by reason of deemed interest benefit ($2,179.00) and payment of personal expenses by Canex ($541.00).
+With respect to the 1992 taxation year, the following issues have been resolved:
+(a) the Agency will remove all penalties imposed;
+(b) the Agency will remove 50% of the $4,901.50 that it added to income by reason of over valuation of furniture and equipment on transfer from Shahsavar to Excelco;
+(c) the Appellant will accept the addition to income by reason of the deemed interest benefit ($2,710.00);
+(d) the Appellant will accept the addition to income of $14,790.00 by reason of companies Canex and Excelco paying his personal and living expenses; and
+(e) no benefit is conferred upon the Appellant in respect to the amounts of $80,591.20 and $36,851.09 within the meaning of subsection 246(1) of the Act.
+Signed at Ottawa, Canada, this 24th day of March 2005.
+"Diane Campbell"
+Campbell J.
+Citation: 2005TCC184
+Date: 20050324
+Docket: 95-2684(IT)G
+BETWEEN:
+MAC J. SHAHSAVAR,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+Introduction:
+[1] These appeals are in respect to the Appellant's 1991 and 1992 taxation years. The Minister of National Revenue (the "Minister") conducted an audit of Excelco Systems Inc. ("Excelco") and Canex International Consultants Inc. ("Canex"). Subsequent to this audit the Appellant was reassessed for these years.
+[2] In reassessing the Appellant for the 1992 taxation year the Minister added to the Appellant's taxable income, amounts received from Excelco, on the basis that a benefit had been conferred upon the Appellant pursuant to subsection 246(1) of the Income Tax Act (the "Act"). The Minister alleged that this benefit arose when amounts were credited to the Appellant's loan account without adequate consideration.
+[3] The alleged benefit was comprised of two amounts, $80,591.20 and $36,851.09. The first amount of $80,591.20 was part of a court ordered monetary award arising from litigation involving three of the Appellant's companies, Creative Touch Mills Inc. ("CTMI"), Anesco Management Ltd. ("Anesco") and Ansco Enterprises Ltd. ("Ansco"). This amount was credited to the Appellant's loan account with Excelco.
+[4] The second amount of $36,851.09 was credited to the Appellant's loan account with Excelco in respect to a transaction referred to on the general ledger as "TRSF CANEX TO S/H".
+[5] These two amounts, which total $117,442.29, were included in the Appellant's taxable income in the 1992 taxation year because the Minister contended that a benefit was conferred on the Appellant pursuant to subsection 246(1) of the Act.
+The Evidence:
+[6] In addition to the Appellant, one witness was called, Frank Metanchuk, an appeals officer with the CRA. The Respondent did not call witnesses.
+[7] The Appellant graduated from the University of Saskatchewan in 1983 as a professional engineer. His family has a long history of patented inventions in the medical field. He has followed this family tradition and has a number of patented medical inventions including development of the only robotic arm that can perform a number of applications at the same time.
+[8] He has been involved in a number of companies throughout the years. In the late 1980's, the Appellant formed several companies to carry on the business of millwork and carpentry. In particular CTMI was incorporated to carry on some of this business. CTMI was 100% owned by a second company, Ansco, but the Appellant was the President and CEO. A third company, Anesco, was incorporated to hold the buildings and warehouse facilities from which CTMI operated. The Appellant was the sole shareholder of Ansco and owned 90% of the shares of Anesco. Johanna Cummings owned the remaining 10% of the shares of Anesco.
+[9] CTMI operated from two separate locations in Saskatoon. The buildings and some of the equipment at one of these locations was damaged by fire on June 9, 1987. The insurers took issue with the origin of the fire, arguing that the damage was caused by wear and tear and therefore was not covered by the policy. Although the manufacturing facility had been destroyed, CTMI was still obligated to complete its contracts in the midst of suing the insurers. The Appellant testified that the actions of the insurers forced CTMI to close its doors. In addition to CTMI, the lawsuit named three other plaintiffs, Ansco, Anesco and the National Bank, a secured creditor of CTMI. The lawsuit was presented to the Court in two phases, the reasoning being that if the plaintiff corporations were not successful in the first phase, the second phase would not be continued in the Courts. The first phase was decided favourably for the plaintiff corporations in April 1991. The second phase is still ongoing in the Saskatchewan Courts.
+[10] Before the first phase of the lawsuit proceeded to trial, CTMI went into receivership. Because it had a number of bonded contracts which it could not now complete, it was sued in respect to these contracts. As a result several judgments were registered personally against the Appellant, and also CTMI. The Appellant stated that these were attempts by the insurers to prevent the lawsuits from proceeding. The judgment against the Appellant meant that he could not keep a personal bank account. Because CTMI was basically bankrupt, it could no longer operate or have a bank account. During this time the Appellant stated that he scrambled to borrow money from family and friends, to pay the lawyers directly to keep the lawsuits active.
+[11] In 1991 Excelco was incorporated as a holding company. The Appellant's wife was the sole shareholder and the Appellant was the director, manager and president. His wife may have been a director for a short time from the inception of Excelco but after the birth of their child, in 1991, she was no longer involved in any way with the business and the Appellant was its sole directing mind.
+[12] An assignment agreement dated October 15, 1991 between Excelco, CTMI and Anesco was entered as Exhibit A-5. The Appellant testified that this document transferred all legal rights and interests, including the lawsuit, belonging to CTMI and Anesco to Excelco. In exchange for these rights, Excelco agreed to "... fund the expenses incurred in collecting the monies from the court actions" (transcript pages 55-56) and to pay the secured and judgment creditors of CTMI and Anesco and to retain any balance as net revenue.
+[13] In April 1991, the Saskatchewan Court of Queen's Bench delivered judgment in the first phase of the litigation. As a result $710,000.00 was collected from the insurers and approximately $80,000.00 from the sale of corporate assets held by the receiver and paid to the plaintiffs. The money was received by Hnatyshyn Singer law firm which attended to the defence of the various corporate entities that were being sued. A second law firm, Jamieson Baits, was responsible for pursuing the claim against the insurers through the Courts. The Appellant agreed that the Respondent's Exhibit R-7 was an accurate reflection of the amount retained by Hnatyshyn Singer for its outstanding legal fees. In total $60,591.20 was retained by the law firm for fees from monies paid out of court in 1991 and 1992. On cross-examination he was referred to Exhibit R-6, which was the law firm's reconciliation of billings and reconciliation of trust funds together with a handwritten one page document by David Hnatyshyn in 1992 (Exhibit R-7). Exhibit R-7 lists the various amounts that were paid into court together with the amounts that were paid out by the law firm to the various parties. On both exhibits two separate sums are referred to as being the balances held in trust by the law firm after payment to various parties and those amounts are $51,322.19 and $16,304.96. Exhibit R-6 shows receipt by the law firm of an additional amount of $12,964.05 from McKercher & Co. law firm that had represented one of the defendants in the lawsuit. This meant that Hnatyshyn Singer law firm had a total balance of $80,591.20 to disburse. The Appellant consented to the firm deducting its legal fees and instructed that the balance, $20,000.00, be paid to Excelco pursuant to the assignment. After the firm deducted its fees, a cheque for $20,000.00 was issued to Excelco in March or April of 1992. He stated that if CTMI had not gone into receivership and had not assigned its rights respecting this lawsuit to Excelco, the money would have been paid to CTMI. He would then have directed CTMI to pay Anesco for the shareholder loan made to CTMI and then for Anesco to pay the Appellant for shareholder loans made to Anesco. Finally he testified that he would have invested these monies in Excelco to pay legal fees and costs of pursuing the second phase of litigation. By allowing Hnatyshyn Singer to retain its legal fees of $60,591.20 and instructing the firm to transfer the balance of $20,000.00 to Excelco, with a notation on his loan account for the total amount of $80,591.20, the Appellant achieved the same result with fewer transactions.
+[14] The Appellant stated that the motive, in completing the assignment of the CTMI action to Excelco, was simply to enable Excelco to pursue the lawsuit. He stated there was no intention to transfer losses between these companies as there were no losses. He testified that the Court had already issued a 93 page ruling in favour of the plaintiff corporations guaranteeing at least $600,000.00 as compensation for business interruption.
+[15] The second amount in issue is the amount of $36,851.09 from Excelco to Klemmer Seed. Klemmer Seed was a business operating out of Rosetown, Saskatchewan. It exported seed to South America but wanted to expand its market in other parts of the world where the Appellant's companies had contacts. Canex was a newly incorporated company, created to export products to the Middle East. Klemmer Seed advanced approximately $60,000.00 to Canex in the hope of expanding its markets and business. Within a year, Klemmer Seed ran into financial difficulties which necessitated it withdrawing the investment to Canex. Since Canex was a new company and had already spent the Klemmer Seed money, the Appellant had to come up with an alternate means to repay Klemmer Seed. Although he did not recall the exact details of the transaction, as it occurred almost 12 years earlier, he was sure that he paid Klemmer Seed through Excelco. His evidence was that he either repaid it directly to Klemmer Seed or he wrote a cheque to Excelco, which in turn paid the funds to Klemmer Seed on behalf of Canex. He thought the likely scenario was that he already had money personally in Excelco, so when he needed this money, he directed Excelco to simply write a cheque. In the end, the $36,851.09 remains outstanding on Excelco's books today, representing Excelco's indebtedness to the Appellant for his share of the loan repayment to Klemmer. He did admit that for clarity he should have made the payment through Canex to Klemmer Seed. In the end however he stated that the result was the same via an inter-company loan from Canex to Excelco. This resulted in a debit to Excelco's inter-company account and a credit to the Appellant's loan account with Excelco. The Appellant referenced the transaction, entitled "TRSF CANEX TO S/H", which credited the $36,851.09 to the Appellant's loan account in the company, as linked directly to this payment by the Appellant personally through Excelco to Klemmer Seed but made on behalf of Canex. On cross-examination, the Appellant was asked to explain why a credit was recorded to the Appellant's loan account in the general ledger but a debit was not recorded which would correspond to this actual payment. In response, the Appellant noted that the Respondent had introduced and shown him general ledger pages 24 through 26 only and that if all of the record had been produced instead of a portion, the entire transaction would be clearly set out.
+The Evidence of Frank Metanchuk:
+[16] Mr. Metanchuk testified that he was not the appeals officer throughout this matter but that he was familiar with the audit completed by the predecessor appeals officer. He was aware that there had been a fire in 1987, which damaged a building and equipment and that as a result a lawsuit was commenced against the insurers. He confirmed that the assignment agreement dated October 15, 1991 was discovered during an audit of Excelco and Canex. He also stated that he had no evidence to dispute the date of this assignment or to dispute the fact that from the balance amount, after payment of secured creditors, the law firm of Hnatyshyn Singer paid itself $60,591.20 for legal expenses. As a result of the litigation only $20,000.00 was paid to Excelco although Metanchuk said he had no explanation why the law firm paid this amount to Excelco. He agreed that the law firm accounted for these monies in its August 7, 1992 correspondence to the Appellant. Metanchuk stated that the Appellant received a credit to his shareholder's loan account that he could draw out tax-free, based on the fact that he drew down the loan account to $35,992.34 by year end, which included the $80,591.20 figure and the $36,851.00 (Exhibit R-3).
+The Issues:
+(1) Whether CTMI and Anesco assigned the right to litigate with respect to the dispute with the insurers and Excelco;
+(2) Whether the Appellant received a benefit from the credit of $80,591.20 to his shareholder's loan account as a result of the resolution of the first phase of the litigation against the insurers;
+(3) Whether the Appellant paid Canex's debt to Klemmer Seed.
+The remaining issues as contained in the pleadings were agreed upon between the parties prior to the hearing and will be incorporated within this judgment together with my reasons on the above stated issues.
+The Appellant's Position:
+[17] The Appellant alleges that both amounts were properly credited to his loan account on Excelco's general ledger. He argues that the right to the litigation from which the first amount arises was properly assigned to Excelco and that the amounts paid out by Excelco to the Appellant and on his behalf were properly credited to his loan account. Of the total balance remaining from the first phase of the lawsuit, after secured creditors were paid, Hnatyshyn Singer law firm deducted its legal fees of $60,591.20. The remaining $20,000.00 amount was transferred to Excelco pursuant to the assignment. The entire balance of $80,591.20 was recorded in Excelco's general ledger as an investment from the Appellant in recognition of his right to the funds as a shareholder and investor in the companies involved in the litigation.
+[18] With respect to the second amount in dispute of $36,851.09, the Appellant's position is that this amount was credited against his loan account in recognition of a debt paid by the Appellant through Excelco to Klemmer Seed on behalf of Canex. The general ledgers of both Excelco and Canex contain adjustments in recognition of this transaction, which resulted in Excelco owing the Appellant the amount of $36,851.09, as a reimbursement of the amount paid to Klemmer Seed. Therefore no benefit was conferred on the Appellant through this credit to this loan account.
+[19] The Appellant also submitted that taxing these amounts would amount to double taxation as both amounts represented after-tax funds belonging to the Appellant that were transferred through Excelco.
+Respondent's Position:
+[20] In reassessing the Appellant, the Minister relied on the following assumptions of fact at paragraph 8 in the Reply to the Notice of Appeal, as they relate to the remaining issues before me:
+8. In so reassessing the Appellant, the Minister made the following assumptions of fact:
+[ ... ]
+(b) Creative Touch Millwork Inc. ("CTMI") was at all material times hereto the owner of any right of action against the insurers of CTMI;
+(c) no assignment of the said right of action has been effected by CTMI to Excelco and therefore the Appellant did not incur the legal expenses on behalf of Excelco but for his own benefit through his direct interest in CMTI through Ansco Enterprises Ltd.;
+(d) Excelco credited the loan account of the Appellant in the amount of $80,591.20 with respect to the professional fees;
+(e) The Appellant did not make any payment to Excelco or pay the said professional fees;
+(f) Excelco conferred a benefit on the Appellant in the amount of $80,591.20 as a result of the credit to his loan account by Excelco;
+[ ... ]
+(m) at the 1992 year end of Excelco, a journal entry was made in the intercompany account of Canex and the loan account of the Appellant was credited with the said amount;
+(n) the Appellant did not advance any funds to Excelco or Canex with respect to the credit set forth in the preceding subparagraph;
+(o) Excelco conferred a benefit on the Appellant in the amount of $36,581.09 (sic) as a result of the said credit; ...
+[21] Based on these assumptions, the Respondent argued that both Canex and Excelco conferred a benefit upon the Appellant pursuant to subsection 246(1) of the Act. The Respondent also argued that no evidence was adduced to contradict the assumptions. Since the Appellant has not met the onus, the case should be decided on the assumptions set forth in the Reply.
+[22] In the alternative, the Respondent took the position that any amounts paid to Hnatyshyn Singer law firm were not paid to pursue the litigation against the insurers since it was the law firm of Jamieson Bains that handled that phase of the litigation. The Respondent argued that the Appellant was unable to show that the payment of the legal fees of Hnatyshyn Singer was a benefit to Excelco.
+Analysis:
+Issue #1: The Validity of the Assessment
+[23] Since the assignment is central to the first two issues to be decided, I am reproducing it in its entirety:
+ASSIGNMENT
+In consideration of One ($1.00) Dollar and other good and valuable consideration, I, Mac. J. Shahsavar as principal shareholder and director of both Creative Touch Millworks Inc. and Anesco Management Limited have transferred all my legal rights and interests to Excelco Systems Inc. of Saskatoon, in the Province of Saskatchewan.
+In consideration for the same Excelco Systems Inc. agrees to fund all expenses incurred in collecting any and all outstanding monies from present and future court actions that are active or pending.
+Excelco Systems Inc. agrees to pay all secured and judgement creditors of the two above companies and to retain any outstanding balance as net revenue.
+This assignment shall be binding upon my heirs, executors, successors and permitted assigns.
+Dated at the City of Saskatoon, in the Province of Saskatchewan, this 15th day of October, 1991.
+SIGNED, SEALED AND DELIVERED )
+by the said MAC J. SHAHSAVAR ) (signed)
+in the presence of:
+) ________________________
+) Mac. J. Shahsavar
+(signed) )
+____________________________________)
+Witness
+(A commissioner of oaths in and for the
+Province of Saskatchewan.
+My commission expires December 31, 1996.)
+[24] The Saskatchewan Court issued its judgment on April 4, 1991. The assignment was dated October 15, 1991, some six months after the judgment in favour of the plaintiffs. The evidence supports that this document was generated and signed before the Appellant was audited. It was the Appellant who provided this assignment to the appeals officer during the audit. The Appellant presented his evidence in a straightforward manner. His responses were both direct and logical. He is a resourceful businessman who felt wronged by the insurers and took whatever steps were necessary to find the money from family and friends to continue the lawsuit on behalf of the companies through the Court. In fact Metanchuk, when questioned about this assignment, stated that he had no evidence to contradict the Appellant's testimony that the assignment was signed on October 15, 1991. There is no doubt that this document was executed on this date. The next question is whether it purports to do what the Appellant alleges. It is certainly not drafted or executed with the clarity and preciseness that one would expect if the agreement had been professionally drafted. However I believe it contains sufficient essentials for me to be able to conclude that it is a valid assignment. I am comforted in my conclusion by the Appellant's evidence respecting this document. He was a credible witness. His evidence was not contradicted and I have no reason not to accept what he told me. In addition his personal conduct and his behaviour on behalf of the companies was totally consistent with the existence of an assignment which he believed was valid and binding on these parties. The Appellant was the President, Director and directing mind of these companies. I believe he simply did not think it was necessary to sign the document three different times, on behalf of each party to the document. I accept his evidence that he intended to bind all parties by signing his name just once to the assignment instead of three times, as a law firm would have had him do. This was not an Appellant who scrambled to generate a document to evidence prior conduct between these corporate entities. The Appellant, as directing mind of each of these companies, formulated and devised an arrangement whereby the lawsuit could continue in the face of the bankruptcy of CTMI. He committed the arrangement to writing and then all of his ensuing behaviour evolved around this existing assignment.
+[25] I therefore conclude that the assignment dated October 15, 1991 is a bona fide document which validly transferred the legal rights of CTMI and Anesco to Excelco.
+Issue #2: The $80,591.20 credit resulting from the
+resolution of the first phase of litigation
+[26] In Smith v. R., [ 2000] 1 C.T.C. 33 the Federal Court of Appeal stated that the determination of whether there is a bookkeeping error or benefit is a question of fact. This is equally true where the Court is attempting to determine the correct characterization of a disputed notation on the general ledger. In Nesis v. R., [1998] 2 C.T.C. 2931, it was decided that if credits were made to an appellant's loan account without adequate consideration, then there will be a taxable credit.
+[27] The assignment agreement required Excelco to fund the court actions and ensure that all secured and judgment creditors were paid. Exhibit R-7 provides a summary of the monies paid in and out of court as a result of the first phase of the lawsuit. In total approximately $788,000.00 was paid into court with two amounts received by Hnatyshyn Singer law firm from the Court and the third amount received from McKercher & Co. law firm. The reconciliation of trust funds of Hnatyshyn Singer (Exhibit R-6) shows that the law firm received a total of $80,591.20. Once the firm paid its legal fees of $60,591.20 the balance of $20,000.00 was transferred to Excelco. I am satisfied on the evidence that these monies were the property of the Appellant. The Respondent argued that the clients of Hnatyshyn Singer are listed in Exhibit R-6 but that this client list does not include Excelco. Therefore, the Respondent argued, that legal services were not performed for Excelco. Without the assignment, Excelco had no right to any of the monies received by Hnatyshyn Singer. It could not confer a benefit because Excelco had no benefit to confer and without the assignment, the money belongs to CTMI, which in 1990 owed the Appellant $206,000.00. This amount, of course, is still on the books because CTMI is insolvent. I have already concluded that this assignment is a bona fide document and that it is not an artificial device. The Appellant thought he had a valid assignment and he conducted himself pursuant to this belief. I agree with the Appellant counsel's characterization that it would have been easier for the Appellant to tear up this assignment and simply consider the $80,591.20 less the legal fees paid to Hnatyshyn Singer as part of the repayment of the $206,000.00 outstanding on CTMI's books. The law firm would never have forwarded the balance of $20,000.00 to Excelco without the direction of the clients it was representing in this matter. The law firm was directed to send the balance to Excelco pursuant to the assignment. This is why there is no particular entry or cheque. If the money does not validly belong to Excelco pursuant to the assignment then it belongs to CTMI. Excelco is not entitled to any of this money except pursuant to the assignment. But everyone believed they had a valid and binding assignment. CTMI had no funds to continue the lawsuit. The Appellant made agreements on behalf of the companies so the lawsuit he believed in could continue. There was therefore no credit to the Appellant's loan account that was not for consideration and thus no benefit was conferred.
+Issue #3: The Loan to Klemmer Seed
+[28] In dealing with the first two issues I concluded that the Appellant was credible and truthful. I accept his evidence that Klemmer Seed loaned money to Canex, then encountered financial difficulty and required repayment of its money from Canex. Canex did not have money to repay Klemmer Seed so Excelco repaid Klemmer Seed an amount of money and the Appellant repaid Excelco. The amount was noted in the general ledger and remains outstanding today. I accept his evidence that Canex, being a newly incorporated company, had already spent the Klemmer Seed money and did not have funds available to repay Klemmer Seed. He had to come up with the money to repay Klemmer Seed. His evidence was that he probably should have funnelled the money through Canex and not Excelco. Although he could not recall specifically whether he wrote a cheque to Excelco or whether the funds may have already been there, I do not believe the lack of specifics here is sufficient for me to reject his evidence on this loan. I conclude that the amount credited on the general ledger does not represent an amount for which consideration was not made and therefore there was no benefit.
+[29] The appeal is allowed with costs to the Appellant.
+Signed at Ottawa, Canada, this 24th day of March 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC184
+COURT FILE NO.:
+95-2684(IT)G
+STYLE OF CAUSE:
+Mac J. Shahsavar and
+Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+November 17 and 18, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: March 24, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Paul Walsh
+Counsel for the Respondent:
+Jeff Pniowsky, Marley Dash
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Paul Walsh
+Firm:
+Walsh and Company
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

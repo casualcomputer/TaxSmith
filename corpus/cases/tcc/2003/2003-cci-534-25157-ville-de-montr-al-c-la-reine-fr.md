@@ -1,0 +1,184 @@
+---
+title: "Ville de Montréal c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25157/index.do"
+last_modified: "2003-07-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 534"
+citation2: ""
+neutral_citation: "2003 CCI 534"
+decision_date: "2003-07-30"
+language: "fr"
+item_id: "25157"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2603
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:56:23.690000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f7d820d9a882ec723e03be956ae380be87efddcf780126cdd4893e123c48729c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ville de Montréal c. La Reine
+
+- Citation: 2003 CCI 534
+- Decision date: 2003-07-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2603, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ville de Montréal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-30
+Référence neutre
+2003 CCI 534
+Numéro de dossier
+2001-3234(GST)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2001-3234(GST)G
+ENTRE :
+VILLE DE MONTRÉAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 novembre 2002 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocats de l'appelante :
+Me Louis-Frédérick Côté
+Me Josée Massicotte
+Avocats de l'intimée :
+Me Richard Gobeil
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise dont l'avis de cotisation porte le numéro 853398 et est daté du 19 février 1999, est rejeté avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2003.
+« Louise Lamarre Proulx »
+J.C.C.I.
+Référence : 2003CCI534
+Date : 20030730
+Dossier : 2001-3234(GST)G
+ENTRE :
+VILLE DE MONTRÉAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Il s'agit d'un appel à l'encontre de la cotisation dont l'avis porte le numéro 853398, est en date du 19 février 1999 et se rapporte à la période du 3 au 30 octobre 1998.
+[2] La question en litige concerne le crédit de taxe sur les intrants ( « CTI » ) en vertu du paragraphe 169(1) de la Loi sur la taxe d'accise (la « Loi » ), à l'égard de la collecte des matières recyclables.
+[3] En vertu de l'alinéa 20h) de la Partie VI de l'Annexe V, est une fourniture exonérée « les services de collecte des ordures y compris les matières recyclables » effectuées par une municipalité.
+[4] L'appelante cherche à obtenir la totalité des CTIs payés sur les opérations de collecte de matières recyclables au motif que cette collecte est essentielle à l'entreprise commerciale qui est le centre de tri des matières recyclables. Comme position alternative, elle fait valoir qu'elle engage une activité qui comporte un volet d'activité commerciale et un autre d'activité exonérée et qu'en vertu de l'article 141.01 de la Loi, elle a droit de réclamer les CTIs selon une formule de répartition juste et raisonnable.
+[5] Le premier témoin de l'appelante a été monsieur Pierre Bolduc, conseiller en gestion-finances pour la Ville de Montréal pendant les années 1996 à 1999. Il est la personne ressource en matière de TPS et de TVQ. Le 28 juillet 1997, il a demandé une décision à Revenu Québec concernant l'exploitation du centre de récupération au complexe environnemental de Saint-Michel. La décision de Revenu Québec, en date du 5 mars 1998, est à l'effet que le service de traitement de matières recyclables constitue une activité commerciale. Ces lettres se trouvent à l'onglet 11 de la pièce I-1. Il n'a pas été question des CTIs provenant de la collecte des matières recyclables.
+[6] La susdite décision mentionne à la page 3 : « D'après les faits soumis, nous sommes d'avis que la fourniture par la firme de service de traitement de matières recyclables provenant de la collecte sélective effectuée par la ville ou pour le compte de celle-ci sur son territoire et provenant d'autres sources constitue une fourniture taxable. »
+[7] Le témoin produit à l'onglet 9 de la pièce I-1, la convention de la Ville de Montréal avec Entreprise conjointe Groupe Construction Pamico Inc. et Rebuts Solides Canadiens Inc. concernant le projet de récupération des matières recyclables. Cette convention est en date du 9 juillet 1990.
+[8] Le témoin produit à l'onglet 10 de la pièce I-1, le document relatif à la demande de soumission concernant l'exploitation du centre de récupération au Complexe Environnemental de Saint-Michel ( « CESM » ) pour la période de 1997 à 2006.
+[9] Au même document, le témoin se réfère à l'article 8 du cahier des charges (section spéciale), article intitulé : « Propriété et vente des matières recyclables » . L'article 8.1 se lit comme suit : « Les matières recyclables deviennent la propriété de l'entrepreneur dès qu'elles ont été déchargées à l'intérieur du centre de récupération ou sur le terrain occupé aux fins du présent contrat » . Le témoin explique qu'il y a transfert de propriété de la ville à l'entrepreneur.
+[10] Les onglets 5, 6, 7 et 8 de la pièce I-1 sont les cahiers des charges concernant, pour des années différentes, la levée des contenants de matières recyclables. Les deux premiers onglets sont pour la levée des grands contenants, appelés « cloches » et les deux autres onglets concernent la collecte en bordure de rue.
+[11] Le témoin explique que le camion qui fait la cueillette des produits recyclables est divisé en deux : une section pour le papier ou les fibres et l'autre partie pour le verre, plastique et métal. Le contenu du camion est déversé à l'usine de la même manière, le papier est versé dans une section de l'usine et le verre, plastique et métal, dans une autre.
+[12] En ce qui concerne la collecte en bordure de rue, le préposé prend le bac, le dépose près du camion, fait le tri et place les matières recyclables dans l'un des deux compartiments appropriés du camion.
+[13] Le témoin explique que, selon lui, les intrants relatifs à la collecte des produits recyclables sont des intrants qui servent directement à l'activité commerciale. Si on ne ramasse pas les matières recyclables, on ne peut pas en faire un premier traitement et les vendre. On ne peut pas participer à une activité commerciale. Les CTIs demandés concernent les services relatifs à la collecte et le coût des bacs et des contenants. Les CTIs concernant les services de collecte s'élèvent à 311 000 $ et ceux concernant les bacs et contenants à 34 000 $.
+[14] La pièce A-2 est intitulée : « Méthode de répartition » . Il s'agit d'un document de travail préparé par le témoin montrant une méthode de répartition juste et raisonnable selon lui. Il s'est fondé sur le fait que sur 100 p. 100 des matières recyclables cueillies, 2 p. 100 sont rejetées comme non appropriées. Donc, selon le témoin, les matières recyclables constituent 98 p. 100 de l'activité commerciale qui est la vente des matières recyclables et c'est 98 p. 100 des CTIs relatifs à la cueillette qui est demandée.
+[15] Le témoin avait préparé la veille de l'audience une autre méthode de répartition fondée sur le coût de la collecte et le coût du traitement. Il arrive à une proportion d'environ 50 p. 100. Comme le raisonnement était nébuleux et vu mes conclusions, je n'en parlerai pas plus.
+[16] Lors du contre-interrogatoire, l'appelant a confirmé que l'entreprise, à qui avait été confiée l'exploitation du centre de tri des matières recyclables, devait verser un loyer de 25 000 $ par mois à la Ville de Montréal et qu'il y avait d'autres villes qui venaient déverser les matières recyclables à cette usine.
+[17] Le deuxième témoin de l'appelante a été madame Diane André. Elle est conseillère en aménagement, chef d'équipe à la direction de l'environnement. Elle explique qu'au centre de tri, il y a deux fosses de réception qui sont séparées selon le type de matière. Les matières sont pressées et mises en ballot. Par la suite, elles sont acheminées vers les différentes usines de recyclage.
+[18] Elle explique que les matières mises dans les bacs de récupération sont la propriété de la ville à partir du moment où elles sont déposées sur la voie publique. À partir du moment où elles sont arrivées au centre de tri, elles appartiennent à l'entrepreneur.
+[19] Elle donne son explication de la signification de la clause « Redevances » . La formule prévoit que la ville garantit à l'entrepreneur un certain tonnage qu'il aura à traiter durant l'année. Ce tonnage s'élevait à 40 000 tonnes en 1998 et 50 000 tonnes pour les années subséquentes jusqu'à la fin du contrat.
+[20] L'avocat de l'appelante réfère madame André aux documents des onglets 5 à 8 de la pièce I-1. Ce sont les cahiers de charges de la collecte sélective à faire par les transporteurs. Dans les grands bacs, il y a une distinction entre le bac pour le papier et le bac pour les autres produits recyclables. En ce qui concerne les petits bacs, ceux utilisés pour les maisons résidentielles, un citoyen met indifféremment le papier et les autres matières recyclables. C'est à l'éboueur à faire le tri entre le papier et les autres matières. L'employé laisse dans le bac ce qui n'est pas recyclable, comme par exemple, une tasse en porcelaine. Il laissera alors un billet de courtoisie expliquant la raison pour laquelle il n'a pas ramassé l'article.
+[21] Le document inclus à l'onglet 8 de la pièce I-1, est intitulé : « Cahier des charges, collecte sélective en bordure de rue » . À la page 17, « collecte sélective » est définie : « Collecte sélective signifie l'action de prendre les matières recyclables déposées en bordure des rues, les trier sommairement, les charger dans la benne de l'appareil et les transporter au centre de tri et de récupération désigné par le directeur. » À la page 26 du même document, le deuxième paragraphe de l'article 8.8 se lit : « Toutefois, les citoyens n'ont pas à séparer entre elles les différentes matières recyclables dans le bac de récupération. Cette opération doit être effectuée par l'entrepreneur lors de la collecte. » Madame André explique qu'on demande préférablement aux citoyens de mettre d'un côté les papiers, cartons ensemble et de l'autre côté les contenants. Ce n'est pas une obligation et ce n'est pas une raison pour laquelle l'entrepreneur peut laisser le bac dans la rue.
+[22] En ce qui concerne les bacs roulants qui sont dans les immeubles à appartements, l'entrepreneur doit vérifier si dans chaque bac sont les bonnes matières.
+[23] En contre-interrogatoire, le témoin confirme que les employés du centre de tri ne sont pas des employés de la Ville de Montréal et que les entrepreneurs qui faisaient la collecte avaient à payer un droit d'entrée dans le centre de tri de St-Michel. La ville remboursait le transporteur. À l'onglet 7, à la page 27, du cahier des charges pour la collecte sélective en bordure de rues pour les années 1993 à 1996, l'article 13.1, se lit comme suit « le centre de tri et de récupération chargera à l'entrepreneur un prix à la tonne à titre de droit d'entrée des matières recyclables selon l'entente intervenue entre la ville et l'entreprise qui exploite le centre de tri et de récupération. »
+[24] Monsieur Clément Gauthier, vérificateur à Revenu Québec, a témoigné à la demande de l'avocat de l'appelante. Il a expliqué qu'il avait refusé les CTIs parce que c'était des ordures ménagères qui étaient récupérées. La collecte des ordures ménagères incluant celles recyclables est une fourniture exonérée.
+Arguments de l'appelante
+[25] En premier lieu, l'avocat fait valoir comme argument principal que l'appelante a droit à l'ensemble de ses CTIs pour les dépenses engagées dans le cadre de ses activités commerciales, selon le paragraphe 169(1) de la Loi. Il rappelle que l'intimée a admis que l'exploitation du centre de récupération des matières recyclables est une activité commerciale. Il soutient donc que la totalité des services et biens relatifs à la cueillette des matières recyclables ont été engagés dans le cadre d'une activité commerciale de l'appelante, soit l'exploitation du centre de récupération des matières recyclables.
+[26] Subsidiairement, l'avocat plaide que les dits services et biens ont été engagés pour un service de collecte des matières recyclables, une activité exonérée, selon l'alinéa 20h) de la Partie VI de l'annexe V de la Loi et pour une activité commerciale, soit l'exploitation du centre de récupération.
+[27] Les faits qui confirment la dualité de buts sont les suivants : la ville trie, transporte et vend les matières recyclables dont elle est la propriétaire. Elle transfère la propriété des matières recyclables à l'entrepreneur dès qu'elles sont livrées au centre de tri.
+[28] L'avocat rappelle que la Loi ne précise pas les méthodes qui doivent être utilisées dans la répartition des biens ou des services qui ont été acquis pour être utilisés dans le cadre d'activités commerciales et pour d'autres activités. Le paragraphe 141.01(5) de la Loi prévoit que la méthode utilisée doit être juste et raisonnable. Ce principe a été confirmé dans l'arrêt Ville de Magog c. Canada, (2001) GSTC 98 (C.A.F.), [2001] A.C.F. no 1259 (Q.L.)
+[29] L'appelante propose une méthode fondée sur le fait que 98 p. 100 des matières recyclables cueillies sont utilisées dans le cadre d'une activité commerciale et que seul 2 p. 100 est sujet à rejet. Il s'agit d'une méthode de répartition juste et raisonnable au sens du paragraphe 141.01(5) de la Loi.
+[30] De plus, le paragraphe 141(1) de la Loi prévoit que, lorsque l'utilisation d'un bien ou d'un service par une personne se fait presque en totalité dans le cadre de ses activités commerciales, le bien ou le service est réputé être utilisé en totalité dans ce cadre.
+Arguments de l'intimée
+[31] L'avocat de l'intimée rappelle que l'alinéa 20h) de la Partie VI de l'Annexe V de la Loi prévoit que les services de collecte des ordures, y compris les matières recyclables, sont des fournitures exonérées. Il rappelle aussi que selon la définition d'activité commerciale au paragraphe 123(1) de la Loi, la fourniture exonérée est spécifiquement exclue de l'activité commerciale. Or, selon le paragraphe 169(1) de la Loi, une personne a droit au crédit de taxe sur les intrants relativement à un bien ou à un service qu'elle acquiert dans le cadre de ses activités commerciales. L'appelante n'aurait donc pas droit au crédit de taxe sur les intrants relativement aux services et biens concernant les services de collecte des matières recyclables.
+[32] La collecte des matières recyclables est une activité distincte de celle de la disposition. L'avocat se rapporte à la décision de la Cour d'appel fédérale dans 398722 Alberta Ltd c. Canada, [2000] A.C.F. no 644 (Q.L.), et notamment au passage suivant :
+...
+Il échet donc d'examiner si l'entreprise de l'intimée comporte, de quelque façon que ce soit, la réalisation de fournitures exonérées.
+22 Toute entreprise peut consister en plusieurs éléments, dont chacun fait partie intégrante de l'ensemble. La définition d' « activité commerciale » prend en compte cette possibilité mais pose, aux fins de la TPS, que tout élément de l'entreprise qui consiste dans la réalisation de fournitures exonérées soit considéré à part. ...
+Conclusion
+[33] L'alinéa 20h) de la Partie VI de l'Annexe V de la Loi se lit comme suit :
+20. Les fournitures suivantes effectuées par un gouvernement ou une municipalité, ou par une commission ou autre organisme établi par ceux-ci :
+...
+h) les services de collecte des ordures, y compris les matières recyclables ;
+[34] La définition d'activité commerciale se lit ainsi au paragraphe 123(1) de la Loi pour sa partie pertinente :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise ( . . . ), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (. . .), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+[35] Le paragraphe 141.01(5) de la Loi se lit ainsi pour sa partie pertinente :
+(5) Méthodes de mesure de l'utilisation
+Seules des méthodes justes et raisonnables et suivies tout au long d'un exercice peuvent être employées par une personne au cours de l'exercice pour déterminer la mesure dans laquelle:
+a) . . .
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d'une fourniture taxable pour une contrepartie ou à d'autres fins.
+[36] Comme l'avocat de l'appelante s'est référé au paragraphe 141.01(5) de la Loi, je trouve utile de me référer à la note explicative de février 1994 concernant l'interprétation à donner à l'article 141.01 de la Loi, car à mon sens, elle explique bien le jeu de cet article dans la perspective du paragraphe 169(1) de la Loi. Cette note explicative peut se retrouver à la page 84 du volume intitulé « Notes explicatives fédérales en taxes à la consommation, Archives de 1990 à 1996 » , publié par CCH dans la collection fiscale.
+[37] J'en reproduis des passages :
+Répartition des intrants [Projet de loi C-13 (L.C. 1994, ch. 9)] - Le nouvel article 141.01 de la Loi a pour objet de préciser et de renforcer l'obligation de répartir les intrants en fonction de la mesure dans laquelle ils sont consommés ou utilisés, ou acquis ou importés pour consommation ou utilisation, afin d'effectuer des fournitures taxables et non taxables. Cette répartition s'applique au calcul des crédits de taxe sur les intrants. Il est à noter que l'ajout de cet article ne constitue ni une nouvelle orientation, ni une modification du mode d'application de la taxe.
+Selon l'article 169 de la Loi, la taxe payée sur les intrants d'entreprise n'est recouvrable par le jeu du crédit de taxe sur les intrants que dans la mesure où ces intrants sont acquis ou importés pour consommation, utilisation ou fourniture dans le cadre d'une « activité commerciale » . La nécessité, dans certains cas, de répartir la taxe proportionnellement entre les divers intrants d'entreprise aux fins du calcul des crédits de taxe sur les intrants découle de la définition d' « activité commerciale » au paragraphe 123(1) de la Loi.
+Selon cette définition, une entreprise n'est pas une activité commerciale dans la mesure où elle consiste à effectuer des fournitures exonérées. ... L'une des conséquences évidentes de cette définition est que rien de ce qui sert exclusivement et directement à effectuer une fourniture exonérée n'est utilisé ou consommé dans le cadre d'une activité commerciale et, par conséquent, ne peut donner droit à un crédit de taxe sur les intrants. ...
+De nombreux biens et services nécessaires à l'exploitation d'une entreprise ne servent pas directement à effectuer une fourniture. Appelons-les des « intrants indirects » . À titre d'exemple, citons ceux relatifs aux frais généraux et les intrants affectés aux services de « soutien » de l'entreprise, comme ceux du personnel et de la vérification interne. Les fonctions de soutien, notamment celles du personnel, de la gestion et de l'administration d'une entreprise, font partie des mesures prises afin d'effectuer des fournitures, puisque ces fonctions sont exécutées pour que l'entreprise puisse atteindre son objectif ultime qui consiste à effectuer des fournitures exonérées. Ainsi, le service de vérification interne d'une institution financière qui effectue des fournitures taxables de même que des fournitures exonérées serait à la fois visé par la définition de « activité commerciale » et exclu de son application car il participe aux activités servant à effectuer les deux types de fournitures dans le cadre de l'entreprise.
+L'ajout de l'article 141.01 vise uniquement à renforcer le principe selon lequel la fin ultime qui consiste à effectuer une fourniture quelconque fait appel à tous les éléments d'une entreprise. En fait, cet article prévoit la répartition de tous les coûts engagés dans la réalisation d'une fourniture. Ces coûts ne donnent droit à un crédit de taxe sur les intrants que s'ils sont engagés pour effectuer des fournitures taxables, et uniquement dans cette mesure. ...
+[38] Cette note explicative nous dit que les intrants directs d'une activité exonérée ne sont pas sujets à répartition. C'est quand un bien ou un service sert à en partie à une activité commerciale et en partie à une activité exonérée, qu'il doit y avoir répartition. C'est sur ces activités à fins mixtes que la Cour d'appel fédérale a décidé dans Ville de Magog c. Canada, ci-dessus. Ce n'est pas ce genre d'activités dont l'appelante réclame ici les intrants.
+[39] Les intrants que l'appelante réclame sont relatifs aux coûts directs de l'activité de collecte des matières recyclables. Il s'agit des intrants payés sur les services des transporteurs et sur les bacs et contenants.
+[40] Ainsi que l'a décidé la Cour d'appel fédérale dans la décision 398722 Alberta Inc. (supra), tout élément de l'entreprise qui consiste dans la réalisation de fournitures exonérées, doit être considéré à part. La collecte des ordures incluant les matières recyclables est une activité exonérée et elle doit être considérée à part.
+[41] C'est bien ce que dit le paragraphe 169(1) de la Loi. Le crédit de taxe sur les intrants d'un inscrit relativement à un bien ou à un service acquis est calculé selon la mesure dans laquelle ce bien ou ce service a été utilisé dans le cadre des activités commerciales de l'inscrit.
+[42] Les intrants payés à l'égard des coûts directs de l'activité exonérée ne peuvent être réclamés en vertu du paragraphe 169(1) de la Loi ni être répartis selon le paragraphe 141.01(5) de la Loi.
+[43] En conséquence, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 30e jour de juillet 2003.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+No DU DOSSIER DE LA COUR : 2001-3234(GST)G
+INTITULÉ DE LA CAUSE : Ville de Montréal et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 19 novembre 2002
+MOTIFS DE JUGEMENT PAR : l'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 30 juillet 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me Louis-Frédérick Côté
+Me Josée Massicotte
+Pour l'intimée : Me Richard Gobeil
+Me Benoît Denis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me Louis-Frédérick Côté
+Me Josée Massicotte
+Étude : Mendelsohn Avocats
+Montréal (Québec)
+Pour l'intimée : Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

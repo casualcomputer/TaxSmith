@@ -1,0 +1,208 @@
+---
+title: "Belway v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120721/index.do"
+last_modified: "2015-09-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 249"
+citation2: ""
+neutral_citation: "2015 TCC 249"
+decision_date: "2015-09-25"
+language: "en"
+item_id: "120721"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2733
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:10:51.149000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c6452ee561a92c9c0661b51b6a167743b00d4ad8757814c0ecd14c8de1dacce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Belway v. The Queen
+
+- Citation: 2015 TCC 249
+- Decision date: 2015-09-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2733, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Belway v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-09-25
+Neutral citation
+2015 TCC 249
+File numbers
+2015-1746(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1746(IT)I
+BETWEEN:
+BRIAN BELWAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 23, 2015 and
+decision rendered orally on September 25, 2015
+at Calgary, Alberta.
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2011, 2012 and 2013 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of October 2015.
+“B.Paris”
+Paris J.
+Citation: 2015 TCC 249
+Date: 20151028
+Docket: 2015-1746(IT)I
+BETWEEN:
+BRIAN BELWAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] These are appeals from reassessments of the Appellant’s 2011, 2012 and 2013 taxation years, whereby the Minister of National Revenue (“Minister”) disallowed the Appellant’s claim for tax credits in respect of a wholly dependent person pursuant to paragraph 118(1)(b) of the Income Tax Act (the “Act”).
+[2] The credits were disallowed on the basis that the Appellant was required by court order to pay a support amount in respect of his son to his former common law spouse in each of the three years under appeal. Pursuant to subsection 118(5) of the Act, no amount may be claimed as a personal tax credit under subsection 118(1) in respect of a child of the taxpayer where the taxpayer is required to pay a support amount to a spouse or common law spouse or former spouse or common law spouse from whom the taxpayer was living separate and apart throughout the year.
+[3] The Appellant maintains that both he and his former common law spouse were required by court order to pay each other support amounts in respect of their son and, therefore, that subsection 118(5.1) applies in his case. Subsection 118(5.1) of the Act provides that subsection 118(5) does not apply if it would deny the credit to both parents.
+[4] The relevant provisions of the Act read as follows:
+Subsection 56.1(4)
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former common law spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+Subsection 118(5)
+No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former common law spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former common law spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former common law spouse or common-law partner.
+Subsection 118(5.1)
+Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+Facts [5] The facts of this case are not in dispute. The Appellant and Shawna Lalande-Weber are the parents of a son born in 1999. They lived together for about 18 months and separated after their son’s birth. In 2004 they began a Court-ordered shared parenting arrangement. That arrangement exists up to the present.
+[6] Under a court order issued on April 20, 2005, the Appellant was required to pay child support to Ms. Lalande-Weber in respect of their son.
+[7] An Amended Amended Consent Order pronounced by the Alberta Court of Queen’s Bench on March 9, 2011 varied the 2005 Order. The 2011 Order provided in the preamble that “the parties have agreed to depart from the Federal Child Support Guidelines” and that they “have agreed to offset the Applicant’s Section 3 child support amount with the Respondent’s Section 3 child support amount.”
+[8] The 2011 Order provided with respect to child support that:
+1. The Applicant shall continue to pay the Respondent Section 3 child support for the child in the amount of $676 per month, commencing December 1, 2010, and continuing on the 1st day of each month up to and including April 1, 2011.
+2. Commencing May 1, 2011 and continuing on the 1st day of each month, the Applicant shall continue to pay to the Respondent Section 3 child support for the child in the amount of $676 per month. . . .
+. . .
+6. As at the anniversary date of this within Order, the parties shall adjust Section 3 child support, such that the Applicant shall pay to the Respondent Section 3 child support by offsetting the amount of Section 3 child support payable by the Applicant and the amount of Section 3 child support payable by the Respondent, which shall be based on the greater of her income or $35,000.00.
+[9] The 2011 Order was further amended with respect to the amount of child support payable by an Order of the Alberta Court of Queen’s Bench dated December 14, 2012 as follows:
+Commencing on March 1, 2012 and continuing on the first day of each month thereafter until further order of this Honourable Court, the Respondent shall pay to the Applicant $1,075 for section 3 child support.
+[10] The Appellant provided excerpts of the transcript of the Court proceedings that took place on December 14, 2012 that resulted in the court order of the same date. The following discussion took place between the Court and Ms. Scheible (counsel for Ms. Lalande-Weber) referring to determination of the child support amount between the Appellant and Ms. Lalande-Weber:
+MS. SCHEIBLE: And, again, according to the consent order, the set-off amount would be $1,075?
+THE COURT: Okay. And his—her--his amount payable was what? And her amount payable was what?
+MS. SCHEIBLE: His amount payable was 1,350.
+THE COURT: Okay.
+MS. SCHEIBLE: Her amount payable was 275, for a net of $1,075.
+THE COURT: Okay. And so then you would also agree that under that order there's no other adjustments to be made because the only next adjustment with respect to section 3 child support will come along in March of 2013?
+MS. SCHEIBLE: Yes. If we’re following this order.
+And at page 67 of that transcript, the Court stated:
+THE COURT: The order further provides that the amount of section 3 child support was to be offset against the child support payable by the Respondent based on the greater of her income or $35,000.
+[11] The Appellant also testified that he consented to the 2011 Order under duress, at a time when he was under a great deal of stress and was unable to appreciate the significance of the wording used in the order.
+[12] With respect to the tax credits in issue, the Appellant said that his former common law spouse agreed that she would not claim them and that he could. The Appellant testified that Ms. Lalande‑Weber remarried in 2008 and, according to the Appellant, she and her spouse have a household income that is significantly higher than his, although Ms. Lalande-Weber’s income is minimal.
+[13] Finally, the Appellant testified that he paid the majority of his son’s fixed and variable expenses and he submitted a number of receipts for expenses incurred by him for his son, including school and sports fees, optical expenses, the cost of driving lessons and car insurance and dental work. He said that for the years in issue, his son was wholly dependent on him for support.
+The Appellant’s Position [14] The Appellant takes the position that this Court should interpret the 2011 and 2012 Court Orders as requiring both him and Ms. Lalande-Weber to pay child support amounts to the other.
+[15] He points to the preamble and to the reference in paragraph 6 of the 2011 Order to “the amount of Section 3 child support payable by the Applicant and the amount of Section 3 child support payable by the Respondent" as an indication that both he and Ms. Lalande-Weber were required under the Order to pay child support to the other pursuant to section 3 of the Child Support Guidelines SOR/97-175 (the “Guidelines”). The Appellant says their mutual obligation to pay child support is also evidenced by the references by the Court during the December 14, 2012 proceedings to section 3 child support amounts payable by both him and Ms. Lalande-Weber. He maintains that there were two section 3 child support amounts payable under the orders and that he and his former common law spouse were both obliged to pay an amount.
+[16] The Appellant seeks to distinguish his case from that in Verones v. R., 2013 FCA 69, where the Federal Court of Appeal upheld the Tax Court decision dismissing the taxpayer’s appeal from reassessments disallowing his claims for a wholly dependent person and child tax credits in respect of one of his children.
+[17] In Verones, the taxpayer was separated from his former common law spouse and was required by a court order to pay child support to her. The amount of support was determined by the Court by setting off the amount the taxpayer was required to contribute to his children’s needs according to the Guidelines against the amount that his former common law spouse was required to contribute according to those Guidelines. The taxpayer argued that, pursuant to the Guidelines, both he and his former common law spouse paid child support to each other and that the set-off of their obligations was simply a means of avoiding the unnecessary exchange of cheques between him and his former common law spouse. Therefore, he said, subsection 118(5.1) applied to enable him to claim the tax credits.
+[18] The Federal Court of Appeal definitively rejected this argument and held that subsection 118(5.1) does not apply in cases of set-off of support obligations provided for within a court order or written agreement. The Court found that only the taxpayer was required by the order to pay a “support amount” as defined by subsection 56.1(4) of the Act and that his former common law spouse’s contribution did not fall within that definition because there was no order or written agreement requiring her to make child support payments to the taxpayer.
+[19] The Court stated that “the set-off concept does not translate the parents’ respective obligation to contribute to childrearing into a “support payment” as defined in the Act.”
+[20] The Appellant in this case argues that in Verones the amount of support that the taxpayer was required to pay his former spouse was determined under section 9 of the Guidelines rather than under section 3[1].
+[21] In the Appellant’s view, the set-off of the contributions required of both parents under section 9 is different in nature from the set-off of section 3 support obligations that was done by the Court in the 2011 and 2012 Orders here. He maintains that the section 3 support obligations of each parent are independent obligations, whereas the application of section 9 of the Guidelines results in only one support obligation by one of the parents.
+[22] In support of his position, he says that section 3 of the Guidelines is based on a “payor/recipient model”, and that the references in the orders and the transcript to both his and Ms. Lalande-Weber’s section 3 obligations amount to recognition that each of them had an obligation to pay support to the other. The Appellant goes on to say that a set-off of these separate obligations does not disentitle him to the benefit of subsection 118(5.1) because there is no requirement in that provision that each parent make a payment to the other by physical exchange of funds.
+[23] Next, the Appellant submits that the 2011 and 2012 Orders were incorrect in law and that this Court should correct the errors contained therein or disregard or overturn the orders. Because of my conclusion on this point which I will set out below, it is not necessary for me to detail the alleged errors.
+[24] Finally, the Appellant maintains that subsection 118(5.1) should be interpreted to apply in cases where one of the spouses remarries and the other remains single and says that this would be consonant with the intention underlying subsection 118(5.1), that one parent be able to claim the wholly dependent person tax credit in each year in respect of the child. The Appellant also asks the Court to find that his son was wholly dependent on him for support during the years in question.
+Analysis
+[25] Although I agree with certain of the Appellant’s submissions respecting the 2011 and 2012 Court Orders, I do not agree that those orders required Ms. Lalande-Weber to make any child support payments to the Appellant.
+[26] I agree with the Appellant that the wording in the preamble to the 2011 Order and the references to section 3 of the Guidelines in the 2011 and 2012 Orders are confusing. While the preamble to the 2011 Order states that the parties have agreed to depart from the Guidelines, it then goes on to refer to the parties’ obligations under section 3 of the Guidelines.
+[27] I also agree with the Appellant that a determination of the amount of child support payable in cases of shared custody is required to be made under section 9 of the Guidelines rather than section 3, and section 3 is only applicable where no other provision of the Guidelines for determining child support applies. This is apparent from the wording of sections 3 and 9:
+Section 3
+(1) Unless otherwise provided under these Guidelines, the amount of a child support order for children under the age of majority is:
+(a) the amount set out in the applicable table, according to the number of children under the age of majority to whom the order relates and the income of the spouse against whom the order is sought; and
+(b) the amount, if any, determined under section 7. [2]
+Section 9
+Where a spouse exercises a right of access to, or has physical custody of, a child for not less than 40 per cent of the time over the course of the year, the amount of the child support order must be determined by taking into account
+(a) the amounts set out in the applicable tables for each of the spouses;
+(b) the increased costs of shared custody arrangements; and
+(c) the conditions, means, needs and other circumstances of each spouse and of any child for whom support is sought.[3]
+[28] Clearly, section 9 would be the applicable section of the Guidelines in the case of the Appellant and his former common law spouse since they shared custody of their son. In the Supreme Court of Canada case, Contino v. Leonelli-Contino, 2005 SCC 63 at paragraph 24, the Court said the following with respect to section 9:
+In fact, the wording of s. 9 is imperative. The court must determine the amount of child support in accordance with the three listed factors once the 40 percent threshold is met. There is no discretion as to when the section is to be applied: discretion exists only in relation to the quantification of child support.
+[29] However, it must be kept in mind that the 2011 Order was drafted by the parties’ counsel and was entered on consent. In any event, none of the alleged errors in that order or in the 2012 Order affect the substance or operative parts of those orders that require the Appellant alone to make child support payments each month to Ms. Lalande-Weber. The method used to establish the amount payable by the Appellant in those orders is by set-off of his and Ms. Lalande-Weber’s obligations to pay child support to the other and the result of the set-off is that only the Appellant is required to pay a support amount as that term is defined in subsection 56.1(4) of the Act.
+[30] Also, I see no material distinction between setting off what are referred to in the order as each party’s section 3 child support amounts and the kind of set-off of support obligations that occurs within the process mandated by section 9 of the Guidelines in cases of shared custody. Each set-off results in only one parent being required to make a payment of child support to the other, after taking into account what each party is required to contribute according to the Child Support Tables in Schedule 1 of the Guidelines, and after taking into account certain other factors in the case of section 9 determinations. For this reason, I do not agree with the Appellant’s argument that his case is distinguishable from Verones. Both types of set-off result in only one “support amount” within the meaning of subsection 56.4(1) of the Act.
+[31] The Court in Verones makes it clear that, in order for subsection 118(5.1) to apply, both parents must pay an amount of child support pursuant to a written agreement or court order and that a set-off of their obligations which results in an order for payment by one parent only does not suffice for the purposes of subsection 118(5.1). In cases of set-off, it is clear that because the court order does not require a payment be made by each parent to the other, there would be no exchange of cheques as claimed by the taxpayer in Verones and by the Appellant here.
+[32] The Appellant’s next argument is that the 2011 and 2012 Orders in issue are wrong in law. As I advised the Appellant during the hearing, those orders cannot be challenged in this Court and may only be varied by a Court having appellate jurisdiction over the Alberta Court of Queen’s Bench.
+[33] An attack on an order or a decision made in proceedings before another Court is known as a collateral attack and collateral attacks are not permitted. This rule was articulated by the Supreme Court of Canada in Wilson v. The Queen, [1983] 2 S.C.R. 594 at 599 as follows:
+It has long been a fundamental rule that a court order, made by a court having jurisdiction to make it, stands and is binding and conclusive unless it is set aside on appeal or lawfully quashed. It is also well settled in the authorities that such an order may not be attacked collaterally and a collateral attack may be described as an attack made in proceedings other than those whose specific object is the reversal, variation, or nullification of the order or judgment.
+[34] The Appellant’s final argument, that subsection 118(5.1) should be found to apply in cases where one parent remarries and the other remains single, is not tenable. Nothing in the wording of subsection 118(5.1) would support this reading. There is no reference whatsoever to the remarriage of either parent as a qualifier to the application of subsection 118(5.1).
+[35] I disagree with the Appellant’s assertion that Parliament’s intention in enacting subsection 118(5.1) was to ensure that in all cases at least one parent would be entitled to the wholly dependent person and child tax credits. From the text of subsection 118(5.1), it is clear that it is intended to apply in cases where the only reason for the disentitlement to tax credits is because both parents are required under a court order or written agreement to pay the other child support amounts during the year.
+[36] It is likely that subsection 118(5.1) was enacted in response to a certain number of cases decided by this Court, such as de Moissac v. The Queen, [2007] 1 C.T.C. 2001; Slade v. The Queen, [2005] 5 C.T.C. 2285; and, Leclerc v. The Queen, 2005 TCC 689 which all dealt with situations where there had been a change in custody in the course of a year and a resulting change in child support payment obligations such that both parents were required to pay support during the course of the year. In each case, the Court determined that neither parent was able to claim wholly dependent person or child tax credits because of subsection 118(5) and in each case, the Court commented on the unfairness of the result and called on Parliament to amend the Act.
+[37] In de Moissac, the taxpayer’s former common law spouse had custody of their son until June 30, 2003, and after that date the son moved in with the taxpayer. By written agreement, the taxpayer’s child support obligations terminated on June 30, 2003, and his former common law spouse commenced child support payments to the taxpayer on July 1, 2003. In Slade, the taxpayer and his former common law spouse alternated custody of their daughter for each school year and, apparently, each paid child support to the other while the other had custody. In Leclerc the taxpayer had custody of his daughter up to November 19, 2003, and received child support from his former common law spouse. After that date, the taxpayer’s former common law spouse was granted custody of their daughter and the taxpayer was required to pay child support.
+[38] Although in each of those cases the parents were required to pay support to one another at different points during the year, subsection 118(5.1) has been drafted to make it applicable in any case where both parents are required by court order or under a written agreement to make support payments to the other, including those where the parents are required to make payments to each other for the same periods of time. This has led to new difficulties, such as those described by this Court in Ochitwa[4]. At paragraphs 8 and 9 of that decision, Campbell Miller, J says:
+[8] … I am perturbed by the implications that in the same circumstances of a shared custody arrangement, that simply due to the crafting of an order or agreement, a parent will or will not get the eligible dependant amount. For example, where there is a shared custody arrangement with two children it strikes me there are three possible ways to craft the child support, where each parent earns some income:
+1. Each parent agrees to or is ordered to pay support for one child ($400 for one for example and $300 for the other – net $100.00): both could claim the eligible dependant amount.
+2. As in example 2 above, both parents agree or are ordered to pay support for both children (one pays $300 for example and one pays $400 – net $100.00: both can rely on subsection 118(5.1) of the Act kicking out the effect of subsection 118(5) of the Act).
+3. As Mr. Ochitwa did, the higher earning parent is obligated to pay support for both children (net $100.00: no eligible dependant amount would be allowed).
+[9] So, same shared custody arrangement, same fiscal effect, but different result. This is unfortunate. Why should each parent (where both parents earn income), in a two or more child shared custody arrangement of at least two children, not be able to claim the eligible dependant amount – one child each? I suggest these provisions could be clarified to more clearly ensure the policy objectives are being met, presumably for the benefit of the children.
+[39] However, the remedy to these difficulties, as noted by the Court in Ochitwa, lies with Parliament.
+[40] Since I have concluded that the 2011 and 2012 Orders do not require the Appellant’s former common law spouse to pay any support amounts to him, the appeal must be dismissed.
+Signed at Ottawa, Canada this 28th day of October 2015.
+“B.Paris”
+Paris J.
+CITATION:
+2015 TCC 249
+COURT FILE NO.:
+2015-1746(IT)I
+STYLE OF CAUSE:
+BRIAN BELWAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 25, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+October 28, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Mary Softley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] While it is not stated in Verones that the child support payable by the taxpayer was determined under section 9, it is probable that this was the case given that he and his former common law spouse had shared custody of their children.
+[2] Section 7 deals with extraordinary expenses
+[3] The references to applicable tables in those sections are to the Federal Child Support Tables, found in Schedule 1 to the Guidelines. Those tables set out the support payable per child according to the income of the parent and according to the province of residence.
+[4] supra, footnote 1

@@ -1,0 +1,188 @@
+---
+title: "Cloutier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/179756/index.do"
+last_modified: "2016-08-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 184"
+citation2: ""
+neutral_citation: "2016 TCC 184"
+decision_date: "2016-08-24"
+language: "en"
+item_id: "179756"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2886
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:44:09.403000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55dfca2843197e51124d6276b8147b94c9f629238b45c907d942464d76282e93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cloutier v. M.N.R.
+
+- Citation: 2016 TCC 184
+- Decision date: 2016-08-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2886, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cloutier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-08-24
+Neutral citation
+2016 TCC 184
+File numbers
+2015-4377(EI)
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Employment Insurance Act
+Decision Content
+[ENGLISH TRANSLATION]
+Docket: 2015-4377(EI)
+BETWEEN:
+RENÉ CLOUTIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on March 16, 2016, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+JUDGMENT
+The appeal from the June 30, 2015 decision of the Minister of National Revenue regarding the insurability of the appellant’s employment at Les Cartes Sportives de la Capitale Inc. for the period from May 25, 2014, to October 26, 2014, is allowed, and the matter is referred back to the Minister for redetermination on the basis that the appellant accumulated 808 insurable hours and insurable earnings totalling $11,935 during the period at issue, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of August 2016.
+"Réal Favreau"
+Favreau J.
+Citation: 2016 TCC 184
+Date: 20160824
+Docket: 2015-4377(EI)
+BETWEEN:
+RENÉ CLOUTIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] René Cloutier appeals before this Court the June 30, 2015 decision of the Minister of National Revenue (the "Minister") regarding the insurability of his employment at Les Cartes Sportives de la Capitale Inc. (the "payor") for the period from May 25, 2014, to October 26, 2014 (the "period at issue").
+[2] In letters dated June 30, 2015, the Canada Revenue Agency (the "CRA") informed the appellant and the payor of the following decision:
+(a) During the period at issue, the appellant was an employee and his employment with the payor was insurable under paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996 (the "Act").
+(b) Under subsection 2(1) of the Insurable Earnings and Collection of Premiums Regulations SOR/97-33, the appellant accumulated insurable earnings totalling $8,607 during the period at issue.
+(c) Under section 9.1 of the Employment Insurance Regulations SOR/96­332, the appellant accumulated 676 insurable hours during the period at issue.
+[3] The appellant’s employment status is not disputed. The appellant was employed in insurable employment within the meaning of paragraph 5(1)(a) of the Act and under a contract of employment within the meaning of article 2085 of the Civil Code of Québec (the "CCQ"). However, the amount of insurable earnings and the number of hours of insurable employment he accumulated with the payor during the period at issue are in dispute.
+[4] In making his decision, the Minister made the following assumptions of fact:
+(a) The payor was a corporation carrying on the business of buying and selling collectors’ items.
+(b) The payor’s sole shareholder was Sylvain Martineau.
+(c) The payor operated year-round, but business was slower in the summer, from June to August.
+(d) The contract of employment between the appellant and the payor had been entered into verbally in the province of Quebec.
+(e) The appellant had been hired by the payor as an employee.
+(f) The appellant’s job was to greet the payor’s customers and to organize events that allowed the payor’s employees to purchase collectors’ items.
+(g) The appellant worked mostly in the payor’s office.
+(h) The appellant was paid $12 an hour when he worked in the payor’s office.
+(i) The appellant marked down his hours when he was in the payor’s office.
+(j) The appellant occasionally worked on the road.
+(k) The appellant was paid a flat rate of $100 per day when he worked on the road.
+(l) The appellant was paid every week by direct deposit.
+(m) The appellant was reimbursed in cash for money spent on meals and gas when he was on the road.
+(n) The appellant generally worked Wednesday to Sunday from 9 a.m. to 5 p.m.
+(o) There were weeks during the period at issue when the appellant worked less than 40 hours.
+(p) The appellant did not work any overtime for the payor during the period at issue.
+(q) The appellant had filed a complaint with the Commission des normes du travail for unpaid overtime.
+(r) The appellant had been unable to provide evidence showing that he had worked overtime.
+(s) The payor had issued a Record of Employment to the appellant when he left.
+(t) The Record of Employment showed insurable earnings of $8,606.62 for the period at issue.
+(u) The Record of Employment showed 675.49 insurable hours for the period at issue.
+[5] At the outset of the hearing, the appellant filed, with the consent of counsel for the respondent, a response to the reply to the notice of appeal, claiming that the respondent had not taken into account the following facts:
+(a) The payor was a corporation carrying on the business of buying and selling gold and silver and collectors’ items across Canada and online.
+(d) The contract of employment between the appellant and the payor had been entered into verbally and later in writing in the province of Quebec.
+(f) The appellant’s job was to greet the payor’s customers and to organize events that allowed the payor’s employees to purchase gold, silver and collectors’ items.
+(g) The appellant worked in the payor’s office and spent a minimum of 45 days working on the road across Canada in 2014.
+(i) The appellant marked down the days when he worked on the road and punched in and out when he worked in the office.
+(j) The appellant spent a minimum of 45 days working on the road during the period at issue and is entitled to wages for that time since, according to Quebec labour standards, an employee is deemed to be at work when travel is required by the employer.
+(k) The appellant was paid a flat rate of $125 per day when he worked on the road.
+(l) The appellant was paid every week by direct deposit and in cash by the payor for those weeks when he worked over 40 hours.
+(m) The appellant was reimbursed in cash for money spent on meals and gas and for those hours worked in excess of the 40 weekly hours when he was on the road.
+(n) The appellant usually worked from 8:30 a.m. to 5 p.m. when he worked in the office and from 7 p.m. on Tuesday to 8 p.m. on Sunday when he was on the road.
+(n) The appellant worked a minimum of 275 hours of overtime for the payor during the period at issue.
+(q) The appellant had filed two complaints with the Commission des normes du travail: a complaint for a prohibited practice and a pecuniary complaint concerning unpaid wages and overtime paid in cash and at straight time.
+(r) The appellant provided all the evidence necessary to show that the employment relationship had been terminated on October 26, 2014, and that he was entitled to reinstatement under section 123 of the Act respecting labour standards; the payor paid him for his outstanding hours on May 8, 2015, and August 20, 2015.
+(s) The payor did not issue a Record of Employment to the appellant when he left; at the appellant’s request, Service Canada sent him an electronic copy on February 3, 2015.
+(t) The Record of Employment showed 660 insurable hours for the period from May 25, 2011, to October 26, 2014; whereas the Record of Employment from the previous year showed 808.50 insurable hours for the period from September 19, 2013, to January 22, 2014.
+[6] Only Mr. Cloutier testified at the hearing. He said that he had received $3,329 from the payor in cash for overtime worked during the period at issue, and that those hours had been paid at straight time. He submitted that, for all of 2014, he had received $3,809 from the payor in cash; this amount was added to his income for the 2014 taxation year and assessed by the CRA in a reassessment dated September 21, 2015. According to the appellant, his gross insurable earnings for 2014 were $11,935.82.
+[7] When the appellant was hired by the payor on August 19, 2013, there was no written contract of employment. A contract of employment was entered into between the payor and the appellant on January 12, 2015, as a result of an out-of-court settlement agreement reached between the parties in respect of a complaint for a prohibited practice and a pecuniary complaint filed with the Commission des normes du travail. Under the settlement agreement, the employee was to be reinstated:
+• on January 20, 2015;
+• to the same position;
+• under the previous conditions;
+• subject to the following condition:
+Contract of employment signed on 2015-01-12 by the parties;
+• with all the privileges and benefits accorded to the employee prior to his dismissal.
+[8] The contract of employment entered into on January 12, 2015, provided that the appellant was to act as a purchaser, work for an indeterminate period beginning on January 13, 2015, be paid $125 a day when on the road, and be reimbursed for travel and entertainment expenses authorized by the employer on the presentation of vouchers.
+[9] Under the contract of employment dated January 12, 2015, the appellant worked for the payor only the week of January 13 to 18, 2015, and he received a $780 cheque for the 65 hours worked.
+[10] Since the employee could not be reinstated, on May 19, 2015, the parties entered into an agreement under the guidance of the Commission des relations du travail whereby the appellant waived his right to reinstatement in exchange for payment by the payor of the sum of $2,000. In consideration of the parties’ compliance with their respective obligations, the parties exchanged a full and final release from any right or recourse arising from the job, the employment relationship and its termination on October 26, 2014, including the complaints filed by the appellant with the Commission des normes du travail.
+[11] The appellant testified that the payor had not counted the overtime as insurable hours for Employment Insurance purposes. Those overtime hours were worked when he was travelling on behalf of the payor. When he was on the road, the appellant was entitled to a daily rate of $125 for a 40-hour week. Any hours worked in excess of the 40 weekly hours were paid in cash at straight time every week. The 40 weekly hours were paid by direct deposit.
+[12] According to the appellant’s notes, he spent 45 days working on the road during the period at issue, including 14 consecutive days in June 2014 in PEI and New Brunswick. He worked in several places in Quebec and even went to Toronto. When he was working off-site, he was always with another employee. The appellant would fill out time cards indicating the number of hours worked each day at the straight time or overtime rate and the places where he worked.
+[13] The Minister did not accept the appellant’s claims, because the information he had provided was not corroborated by the payor or by the employees who had accompanied him. With regard to the two complaints, the Commission des normes du travail did not accept that the appellant had worked overtime paid in cash during the period at issue.
+[14] The appellant adduced no evidence of his travel expenses. Such evidence would have clearly shown the places he went along with the exact dates and distances travelled each day. However, the appellant did adduce as evidence certain ads made by the payor announcing the arrival of its experts in an area and providing the dates, locations and addresses, as well as the times at which people could go meet with them (usually 9 a.m. to 5 p.m.). These events were even held on Saturdays and Sundays.
+[15] The respondent thinks it possible that the appellant was paid a flat rate of $125 per day by direct deposit and paid in cash for overtime, but finds that the appellant’s method of calculation is imprecise and that it is consequently difficult to determine the appellant’s exact earnings for the period at issue. It is even harder to determine the number of insurable hours because the payor provided no evidence of the number of hours that the appellant actually worked.
+[16] According to the respondent, the number of hours of insurable employment must be determined in accordance with subsection 10(5) of the Insurable Earnings and Collection of Premiums Regulations SOR/97-33, which reads as follows:
+10(5) In the absence of evidence indicating that overtime or excess hours were worked, the maximum number of hours of insurable employment which a person is deemed to have worked where the number of hours is calculated in accordance with subsection (4) is seven hours per day up to an overall maximum of 35 hours per week.
+[17] Despite the application of subsection 10(5), the Minister accepted the 40 weekly hours based on the payor’s information.
+[18] In any event, I believe that the appellant’s appeal should be allowed. He has convinced me that, during the period at issue, he worked overtime that was paid in cash. His testimony was credible, and the documentary evidence adduced, though lacking and vague in some respects, was sufficient to show the number of overtime hours worked.
+[19] The appellant was consistent in his version of the facts. He filed complaints with the Commission des normes du travail and reported in his tax return for 2014 the sums received from the payor in cash.
+[20] For all of these reasons, the appeal is allowed and the matter is referred back to the Minister for redetermination on the basis that the appellant accumulated 808 insurable hours and insurable earnings totalling $11,935 during the period at issue.
+Signed at Ottawa, Canada, this 24th day of August 2016.
+"Réal Favreau"
+Favreau J.
+CITATION:
+2016 TCC 184
+COURT FILE NO.:
+2015-4377(EI)
+STYLE OF CAUSE:
+RENÉ CLOUTIER AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+March 16, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+August 24, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

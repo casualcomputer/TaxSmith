@@ -1,0 +1,174 @@
+---
+title: "Ojo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29795/index.do"
+last_modified: "2010-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 244"
+citation2: ""
+neutral_citation: "2010 TCC 244"
+decision_date: "2010-05-04"
+language: "en"
+item_id: "29795"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6601
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:24:03.351000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f23ca30883668b27ce50c7f5a133ac4762a6b5a3b58ec9366391d76880847ab"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ojo v. The Queen
+
+- Citation: 2010 TCC 244
+- Decision date: 2010-05-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6601, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ojo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-04
+Neutral citation
+2010 TCC 244
+File numbers
+2008-2887(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2887(IT)I
+BETWEEN:
+OTEGBOLA OJO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 21, 2010, at Belleville, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Sharron Wharram-Spry
+Counsel for the Respondent:
+Tanis Halpape
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct the Third Party Payments from his income.
+Costs are awarded to the Appellant in the amount of $1,000.
+The $100 filing fee is to be refunded to the Appellant.
+Signed at Ottawa, Canada, this 4th day of May, 2010.
+“C.H. McArthur”
+McArthur J.
+Citation: 2010 TCC 244
+Date: 20100504
+Docket: 2008-2887(IT)I
+BETWEEN:
+OTEGBOLA OJO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from a reassessment by the Minister of National Revenue (Minister) disallowing claimed support payments of $51,800 (the amount) for the 2003 taxation year under the informal procedure. The amount was paid by the Appellant to third parties for the support and benefit of his former spouse, Mrs. Ojo, and children under a Court Order of the Superior Court of Justice of Ontario (SCO) dated March 15th, 2002. The issue is whether Mrs. Ojo had discretion over the amount pursuant to subsections 56.1(2) and 60.1(2) of the Income Tax Act (the Act).
+[2] The Order provided that the Appellant pay $7,380 monthly child support and $9,000 monthly for his ex-spouse, Mrs. Ojo, who was also granted exclusive possession of the matrimonial home.
+[3] In question is the deductibility of the $51,800 paid by the Appellant to the mortgagee of the matrimonial home, $2,415 monthly, and for insurance coverage and others all for the benefit of Mrs. Ojo and the children. Third party car payments for Mrs. Ojo’s car may have been accepted by the Minister. The Order does not specifically refer to these third party payments.
+[4] The Appellant and Mrs. Ojo separated in November 2000. I believe it was a second marriage for both of them. Their acrimonious proceedings continue to this day. He is a successful physician (kidney specialist) with related business activities that take him frequently to the Caribbean Islands.
+[5] He submits that the amount is implied to be direct payments because the Family Responsibility Office of Ontario (FRO) has accepted it as support payments under the 2002 Interim Order. He adds, through his agent Ms. Wharram-Spry C.A., that he represented himself before the SCO and his third party payments were for the benefit of his former wife and children pursuant to the Court Order. Taken from the Notice of Appeal, his agent set out the following:
+16. ... In the SCO [Order] in 2005 a schedule of payments both to the Family Responsibility Office and direct withdrawals and payments to third parties were documented on a schedule. This schedule has been accepted and the amounts were considered support payments with no differentiation between child and spousal support. It was concluded that child support should be in the amount of $7,380 per month. A balance paid of $459,690.53 was determined and agreed to by the courts.
+17. FRO accepted the Court Order and reported the third party payments on their schedule in satisfaction of payment for spousal and child support. An adjustment was made to the FRO schedule to agree to the support payments received.
+18. In a letter dated April 2, 2003, from Mrs. Ojo’s lawyer, it was accepted in general, that the schedule format of third party and direct payments would be recognized as child and spousal payments. Both parties worked towards a final schedule that was presented and accepted by Justice DiTomaso and identified as child and spousal support payments. It is reasonable to assume that the acceptance of these payments as child and spousal support would also be deductible under the Income Tax Act.
+19. CRA has denied any third party payments for spousal support as it concludes from S60.1(2), that no mention is made in the orders of the tax consequences and no mention is made of the relevant income tax sections, being S56.1(2) and S60.1(2). However, CRA did allow deductions for spousal support payments when they concluded the payments were made directly to FRO. The reasoning seeming to be that it was a direct payment and therefore it is deductible. It is the Appellant’s position that the balance of payments is implied to be direct payments due to the fact that FRO has accepted the full amount as payment on their statements.
+[6] She also refers to the decision in Veilleux v. Her Majesty the Queen[1] and Bailey v. Her Majesty the Queen.[2]
+[7] The Minister relies on the grounds set out in the Reply to the Notice of Appeal submitting that:
+18. ... the Third Party Payments do not represent amounts over which the Appellant’s former spouse had discretion. The requirements of subsections 56.1(2) and 60.1(2) of the Act were not met by the terms of any written agreement or by the Order of a competent tribunal.
+[8] The assumption of facts upon which the Minister relied in arriving at its decision includes paragraph 15(e).
+The Appellant’s former spouse did not have discretion as to the use of the Third Party Payments.
+This, of course, is not a fact but a question of law for me to decide.
+[9] The Respondent’s counsel emphasizes that the third party payments did not give Mrs. Ojo “discretion as to the use of the amount”. Subsection 56.1(4) includes the following.
+Support amount means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and the children of the recipient if the recipient has discretion as to the use of the amount, and (a) specifically the amount is receivable under an order of a competent tribunal or under written agreement.
+(Emphasis added)
+[10] The Respondent concludes there was no written agreement or court order with respect to third party payments and Mrs. Ojo did not have discretion as to the use of these payments. She adds that the payments went directly from the Appellant’s bank account to the mortgagee of her home and to insurance companies, for the health coverage and that of the children and Mrs. Ojo was not aware of the tax consequences.
+Court Orders
+[11] A March 15, 2002 Court Order of Hatton J. reads in part:
+...
+3. Effective February 1st, 2002, the Applicant shall pay child support for the three children, namely, James Adeola (“Ade) Ojo, born July 16th 192, Elizabeth Bonesede Ojo, born November 22nd, 1995 and Paige Julia Peeters, born February 21st, 1985, in the amount of $7,380.00 per month, based on an income of $530,400.00 pursuant to the Child Support Guidelines.
+5. Effective February 1st, 2002, the Applicant shall pay to the Respondent, spousal support in the amount of $9,000.00 per month.
+8. The Respondent shall be granted exclusive possession of the matrimonial home, located at 7925 Cedarbrook Trail, Brooklin, ON L0B 1C0.
+9. The Applicant’s request to sell the matrimonial home or have the Respondent purchase the Applicant’s interest in same is dismissed.
+13. Unless this Order is withdrawn from the Director’s office, it shall be enforced by the Director of the Family Responsibility Office, and the amounts owing under this Order, except in regard t the disbursements payable pursuant to paragraph 10 hereof shall be paid to the Director, who shall pay them to the Respondent.
+[12] In 2005, DiTomaso J. dealt with an application to vary the March 15, 2002 Order and ordered (in part):
+3. The amount of child support remains the same as that ordered by Justice Hatton, in the amount of $7,380.00 a month, based on three children and an income of $530,400 a year, pursuant to the Child Support Guidelines.
+4. The amount of spousal support remains the same as that ordered by Justice Hatton, in the amount of $9,000.00 a month.
+The March 15, 2002 Order provides in paragraph 13 “it shall be enforced by the Director of the Family Responsibility Office ...” The FRO’s enforcement provided for the third party payments to be included in as amounts ordered in paragraphs 3 and 5 of the Order. This should not be ignored. I interpret this as the Court Order giving the FRO discretion on behalf of Mrs. Ojo in deciding whether the payments comply with the Order. The SCO did not consider the tax liability in question and left allocation of payments to the FRO. I infer that the FRO, on behalf of Mrs. Ojo was aware of the tax consequences.
+[13] The following words of Cory J. of the Supreme Court of Canada in the decision of Thibaudeau v. The Queen[3] are of assistance:
+... If there is any disproportionate displacement of the tax liability between the former spouses ( as appears to be the situation befalling Ms. Thibaudeau), the responsibility for this lies not in the Income Tax Act, but in the family law system and the procedures from which the support orders originally flow. This system provides avenues to revisit support orders that may erroneously have failed to take into account the tax consequence of the payments. …
+(Emphasis added)
+This statement is of assistance presently as it points me in the direction of the FRO that has accepted the payments as spousal support in complying with the 2002 Order.
+[14] The requirements that the amounts must have been paid to and received by the former spouse are subject to two exceptions found in subsections 56.1(1), 60.1(1), 56.1(2) and 60.1(2) of the Act, and these exceptions are available only if the recipient has discretion at any time to have the payments paid to his or herself.
+[15] First dealing with “paid under an agreement order” I find that the correspondence from Mrs. Ojo’s lawyer, Allison M. Kotler to the Appellant’s lawyer, Gene C. Colman, forms an “agreement” as required. The author, Allison Kotler was of adverse interest in a contentious dispute and her written acknowledgment forms an agreement between Mrs. Ojo and the Appellant. This agreement stated in part in pages 2 and 3:
+... Mrs. Ojo is prepared to give Dr. Ojo credit for the first mortgage payment in the amount of $2,415.15 per month that he has continued to pay on her behalf and on behalf of the children. Mrs. Ojo is prepared to accept that these mortgage payments in respect of the first mortgage are payments that are properly subsumed within the monthly amounts of support received by Dr. Ojo. Accordingly, Mrs. Ojo is prepared to give Dr. Ojo credit in the amount of $36,227.25 on account of this first mortgage. . .
+Mrs. Ojo is prepared to accept that the car lease payments and the car insurance payments that were paid on her behalf by Dr. Ojo be credited to him. . .
+...
+Mrs. Ojo is prepared to give credit to Dr. Ojo for the life insurance payments paid on her behalf in the amount of $83.19.
+...
+Mrs. Ojo is prepared to give Dr. Ojo credit for the dental expenses that he paid on behalf of Mrs. Ojo and the children.
+...
+[16] She also refers to Veilleux v. The Queeen[4] amd Bailey v. The Queen.[5]
+I find by inference that these acknowledgments apply to the entire 2003 taxation year and are an agreement within the meaning of the Act. I accept that the lawyers were aware on behalf of their clients of the tax implications of the agreement.
+[17] Subsections 56.1(2) and 60.1(2) deal with payments for support that are paid directly to third parties such as a mortgage company and an insurance company. These subsections deal with amounts that are specified in an agreement or order to be payable to a third party and deems them to have been paid and received as an allowance on a periodic basis over which the recipient has discretion. In fact, the recipient may not have discretion at all. This exception is available if the agreement or order states that these subsections are to apply.
+[18] In Veilleux, the issue was whether the Appellant was justified under section 60 and subsection 60.1(2) in deducting payments made to third parties pursuant to an agreement. The Federal Court of Appeal found that an express reference to the numbers of subsections 56.1(2) and 60.1(2) is not required in the written agreement; it need only be apparent from the written agreement that the parties have understood the tax consequences of the agreement.
+[19] Mrs. Ojo had the discretion to demand and enforce that the third party payments be paid directly to her and using her discretion whether she paid the mortgagee and other creditors or made alternate arrangements. This discretion, of course, is subject to the spousal amount limit not exceeding $9,000 monthly in 2003. In conclusion, I find that Mrs. Ojo chose to have exclusive possession of the matrimonial home. She and her lawyer chose to have the mortgage payments paid indirectly. She did not testify and these findings are the facts presented. Further, there was a contractual agreement between the parties’ lawyers who were aware of the tax consequences. Finally, the FRO accepted the third party payments on Mrs. Ojo’s behalf, and it can be inferred that the FRO was aware of the tax consequences.
+[20] In allowing the entire appeal, I have considered the limited grounds contained in the Minister’s Reply and the limiting monetary restrictions that apply under the informal procedures of this Court.
+[21] The appeal is allowed, with costs to the Appellant set at $1,000.
+Signed at Ottawa, Canada, this 4th day of May, 2010.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2010 TCC 244
+COURT FILE NO.: 2008-2887(IT)I
+STYLE OF CAUSE: OTEGBOLA OJO and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Belleville, Ontario
+DATE OF HEARING: January 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: May 4, 2010
+APPEARANCES:
+Agent for the Appellant:
+Sharron Wharram-Spry
+Counsel for the Respondent:
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2002 FCA 201.
+[2] 2004 TCC 98.
+[3] [1995] 2 S.C.R. 627.
+[4] 2002 FCA 201.
+[5] 2004 TCC 98.

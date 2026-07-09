@@ -1,0 +1,269 @@
+---
+title: "Wasserman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29878/index.do"
+last_modified: "2010-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 312"
+citation2: ""
+neutral_citation: "2010 CCI 312"
+decision_date: "2010-06-14"
+language: "fr"
+item_id: "29878"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6405
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:54:02.371000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "818e8614314aa8bf37fdfe266699af97afa19e3363a8c8da084650c280556c0c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wasserman c. La Reine
+
+- Citation: 2010 CCI 312
+- Decision date: 2010-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6405, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wasserman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-14
+Référence neutre
+2010 CCI 312
+Numéro de dossier
+2008-934(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-488(GST)I
+ENTRE :
+HENRYK WASSERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel no 2008-934(IT)G, le 10 février 2010, à Winnipeg (Manitoba)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Julien Bédard
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie conformément au paragraphe 323(1) de la Loi sur la taxe d'accise, dont l'avis est daté du 10 février 2008 et porte le numéro 09CR0603065, pour les périodes qui ont pris fin le 1er janvier 2003 et le 31 décembre 2004, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait qu'il est renoncé aux pénalités pour faute lourde imposées en vertu de l'article 285 de la Loi.
+Signé à Ottawa, Canada, ce 14e jour de juin 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 13e jour d’août 2010.
+Hélène Tremblay, traductrice
+Dossier : 2008-934(IT)G
+ENTRE :
+HENRYK WASSERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l'appel no 2008-488(GST)I le 10 février 2010, à Winnipeg (Manitoba)
+Devant : L'honorable juge C.H. McArthur
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Julien Bédard
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2003 et 2004 est accueilli sans qu'aucuns dépens soient adjugés, et les nouvelles cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l'appelant a le droit de déduire 80 p. 100 des frais afférents à un véhicule à moteur utilisé aux fins de l'entreprise et qu'il est renoncé aux pénalités imposées en vertu du paragraphe 163(2) de la Loi.
+Signé à Ottawa, Canada, ce 14e jour de juin 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 13e jour d’août 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 312
+Date : 20100614
+Dossiers : 2008-488(GST)I
+2008-934(IT)G
+ENTRE :
+HENRYK WASSERMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s'agit d'appels interjetés en vertu de la Loi de l'impôt sur le revenu (la « LIR ») et de la Loi sur la taxe d'accise (la « LTA ») de décisions que le ministre du Revenu national (le « ministre ») a prises à l'égard des années d'imposition 2003 et 2004 de l'appelant.
+[2] Le ministre a ajouté au revenu de l'appelant un montant de 74 082 $ pour l'année 2003 et de 46 780 $ pour l'année 2004 à titre de revenu non déclaré, ce que l'appelant conteste. Le ministre a conclu que certains dépôts en espèces effectués par l'appelant étaient réputés constituer des montants non déclarés au titre du revenu et de la taxe sur les produits et services et il a imposé des pénalités pour faute lourde en vertu du paragraphe 163(2) de la LIR et de l'article 285 de la LTA.
+[3] L'appelant a hérité de ses parents une animalerie, à Winnipeg, qu'il exploite avec succès depuis plus de 20 ans. Les présents appels découlent de la première et seule vérification dont l'appelant a fait l'objet au moyen d'une analyse de ses dépôts bancaires. La méthode de la valeur nette habituellement employée n'a peut‑être pas été utilisée à cause du train de vie frugal de l'appelant et de l'absence d'actifs visibles.
+[4] La présente affaire doit être tranchée principalement compte tenu des faits qui lui sont propres. L'avocat du ministre a reconnu que l'appelant disait la vérité, mais que sa tenue de livres était tout à fait inadéquate. L'appelant mettait en commun son argent personnel et l'argent de l'entreprise et il traitait ce montant comme constituant ses épargnes, mais il n'établissait pas de documents appropriés.
+[5] Pour les années d'imposition 2003 et 2004, l'appelant a déclaré les montants suivants :
+Ventes conclues en 2003 : 389 870,60 $ Revenu net d'entreprise : 29 326,42 $
+Ventes conclues en 2004 : 362 782,16 $ Revenu net d'entreprise : 9 530,07 $
+[6] Le ministre soutient que l'appelant a omis de déclarer un revenu additionnel parce que les dépôts effectués dans le compte bancaire d'entreprise de l'appelant étaient beaucoup plus élevés que les montants déclarés susmentionnés. Les montants non déclarés s'élèvent à 84 453 $ pour 2003 et à 53 330 $ pour 2004. Le ministre ajoute que ces montants comprennent la taxe de vente provinciale (la « TVP ») non déclarée et la taxe sur les produits et services (la « TPS ») non déclarée compte tenu des montants déposés en espèces qui n'ont pas été identifiés.
+[7] Le ministre est arrivé à ces conclusions en prenant le montant total déposé dans le compte bancaire de l'appelant et en déduisant tout prêt consenti à l'appelant et les virements provenant de tout autre compte. Selon le ministre, le résultat net donne les revenus non déclarés pour les années en litige.
+[8] L'appelant prend la position selon laquelle ces montants ne constituent pas un revenu non déclaré, mais qu'il s'agit plutôt d'un revenu déclaré d'années antérieures qu'il conservait à titre d'épargnes. Il affirme qu'étant donné qu'il était l'unique propriétaire de l'entreprise, il ne pensait pas avoir à rendre compte de ses ventes à qui que ce soit. Malheureusement, il n'a pas conservé les reçus de caisse ou quelque autre document et il n'a pas établi un compte de banque personnel distinct de celui de l'entreprise.
+[9] L'avocat du ministre a déclaré ce qui suit (pages 3, 4 et 5 de la transcription) :
+[traduction]
+[...] Il était au courant des rentrées et des sorties et il devait couvrir les sorties. Il n'établissait tout simplement pas de documents.
+[...] nous avons un système d'autocotisation; en l'absence de documents exacts, le ministre peut utiliser d'autres méthodes pour calculer le revenu; il incombe à l'appelant de démontrer que la cotisation est inexacte et il doit le faire au moyen d'éléments de preuve dignes de foi et crédibles. Des pénalités sont souvent imposées lorsque les documents du contribuable sont en désordre et s'il n'existe aucun document, comme c'est ici le cas.
+[10] La position prise par l'appelant, selon ses propres termes, est notamment la suivante :
+[traduction]
+J'ai payé le montant de la nouvelle cotisation et des intérêts de 96 432 $ ainsi qu'un montant de 14 654,90 $ au service de la TPS. Presque tout le montant est composé de PRÊTS, [...]
+Les montants les plus gros se rapportent à des dépôts provenant de mes épargnes personnelles, qui étaient composées d'argent accumulé au cours de plus de 20 années de travail,
+[...]
+Je passais presque toute la journée à travailler, sans avoir le temps de dépenser de l'argent. Je me rendais uniquement à des salons professionnels payés par les fournisseurs.
+[...]
+Je vis dans une petite pièce à l'arrière du magasin depuis 1994.
+[...]
+Il fallait faire réparer un appareil de chauffage (une chaudière), mais un nouvel appareil coûtait moins cher que ce que coûtaient les réparations à effectuer sur l'ancienne chaudière; il a fallu que je puise dans mes épargnes. Il fallait réparer le toit, il fallait réparer une vitrine avant du magasin, qui était cassée, et il a également fallu que je me serve de mes épargnes pour ces réparations.
+[11] Le ministre a également contesté certaines dépenses d'entreprise que l'appelant avait déduites. L'appelant avait déduit la totalité des frais afférents à son véhicule (un VUS) et la totalité des frais de télédistribution et d'Internet. Le ministre a admis ces dépenses dans une proportion de 50 p. 100.
+[12] Lors de son témoignage, l'appelant m'a semblé ouvert et il semblait être convaincu que ses méthodes irrégulières étaient valables, même si elles étaient fort intéressées. L'appelant a de toute évidence un train de vie frugal; il vit dans un local de moins de 400 pieds carrés à l'arrière de son magasin. Il semble s'être consacré à son animalerie et s'intéresser tout particulièrement aux oiseaux et aux poissons.
+[13] Dans l'ensemble, les six ou sept pages d'hypothèses de fait figurant dans les réponses aux avis d'appel du ministre sont exactes. À la page 7, alinéas 16 ee) à uu), le ministre déclare ce qui suit :
+[traduction]
+ee) l'appelant n'a pas dressé d'inventaire exact des marchandises de l'entreprise; l’état des résultats des activités de son entreprise renferme plutôt des estimations;
+ff) des dépôts bancaires étaient régulièrement effectués; il s'agissait de dépôts en argent d'un grand nombre de billets de 20, de 50 et de 100 dollars;
+gg) l'appelant n'a pas déclaré les montants suivants au titre du revenu :
+Rajustements (2003)
+Ventes non déclarées
+TPS perçue
+TVP perçue
+Total
+Dépôts en argent
+non identifiés
+Montants versés en argent
+Dépenses
+70 133,89
+3 948,51
+74 082,39
+4 909,37
+276,40
+5 185,77
+4 909,37
+276,40
+5 185,77
+79 952, 63
+4 501,30
+84 453,93
+Rajustements (2004)
+Ventes non déclarées
+TPS perçue
+TVP perçue
+Total
+Dépôts en argent
+non identifiés
+Montants versés en argent
+Dépenses
+43 086,48
+3 694,18
+46 780,76
+3 016,06
+258,59
+3 274,65
+3 016,06
+258,59
+3 274,65
+49 118,70
+4 211,37
+53 330,07
+hh) au cours de l'année d'imposition 2003, l'appelant a effectué des dépôts en argent non identifiés au montant de 79 952,63 $, dont un montant de 70 133,89 $ représentait un revenu non déclaré, un montant de 4 909,37 $ représentant la taxe de vente provinciale non déclarée (« TVP ») et un montant de 4 909,37 $ représentant la taxe sur les produits et services non déclarée (« TPS »);
+ii) au cours de l'année d'imposition 2004, l'appelant a effectué des dépôts en argent non identifiés au montant de 49 118,70 $, dont un montant de 43 086,48 $ représentait un revenu non déclaré, un montant de 3 016,06 $ représentait la TVP non déclarée et un montant de 3 016,06 $ représentait la TPS non déclarée;
+jj) au cours de l'année d'imposition 2003, l'appelant a payé des dépenses à l'aide d'argent provenant d'un montant non déclaré de 4 501,30 $, sur lequel un montant de 3 948,51 $ représentait un revenu non déclaré, un montant de 276,40 $ représentait la TVP non déclarée et un montant de 276,40 $ représentait la TPS non déclarée;
+kk) au cours de l'année d'imposition 2004, l'appelant a payé des dépenses à l'aide d'argent provenant d'un montant non déclaré de 4 211,37 $, sur lequel un montant de 3 694,18 $ représentait un revenu non déclaré, un montant de 258,59 $ représentait la TVP non déclarée et un montant de 258,59 $ représentait la TPS non déclarée;
+ll) au cours de l'année d'imposition 2003, les ventes non déclarées de l'appelant s'élevaient à 84 453,93 $ dont un montant de 74 082,39 $ représentait un revenu d'entreprise non déclaré, un montant de 5 185,77 $ représentait la TVP non déclarée et un montant de 5 185,77 $ représentait la TPS non déclarée;
+mm) au cours de l'année d'imposition 2004, les ventes non déclarées de l'appelant s'élevaient à 53 330,07 $, dont un montant de 46 780,76 $ représentait un revenu d'entreprise non déclaré, un montant de 3 274,65 $ représentait la TVP et un montant de 3 274,65 $ représentait la TPS;
+nn) au cours de l'année d'imposition 2003, l'appelant a déposé un montant de 584 990,78 $ dans les comptes bancaires de l'entreprise;
+oo) un montant d'au plus 13 000 $ sur les montants déposés dans les comptes bancaires de l'entreprise au cours de l'année d'imposition 2003 provenait de prêts consentis à l'appelant;
+pp) un montant d'au plus 44 400 $ sur les montants déposés dans les comptes bancaires de l'entreprise au cours de l'année d'imposition 2003 a été viré d'un autre compte bancaire de l'entreprise;
+qq) au cours de l'année d'imposition 2004, l'appelant a déposé un montant de 484 924,57 $ dans les comptes bancaires de l'entreprise;
+rr) un montant d'au plus 9 400 $ sur les montants déposés dans les comptes bancaires de l'entreprise au cours de l'année d'imposition 2004 provenait de prêts consentis à l'appelant;
+ss) un montant d'au plus 9 627,50 $ sur les montants déposés dans les comptes bancaires de l'entreprise au cours de l'année d'imposition 2004 a été viré d'un autre compte bancaire de l'entreprise;
+tt) des achats au montant de 2 516,78 $ déduits par l'appelant au cours de l'année d'imposition 2003 au titre de dépenses d'entreprise n'ont pas été effectués en vue de tirer un revenu d'une entreprise ou d'un bien;
+uu) des achats au montant de 17 972,31 $ déduits par l'appelant au cours de l'année d'imposition 2004 au titre de dépenses d'entreprise n'ont pas été effectués en vue de tirer un revenu d'une entreprise ou d'un bien;
+[14] Puisqu'il n'a pas de documents, l'appelant doit se fonder sur sa preuve orale, qui était composée de généralités visant à réfuter les hypothèses.
+[15] Le ministre a entre autres cité l'arrêt Njenga v. The Queen[1], de la Cour d'appel fédérale :
+[...] les personnes comme la requérante doivent être en mesure de produire toutes les informations et justifications permettant d'appuyer les réclamations qu'elles font. Nous sommes d'accord avec cette conclusion. Mme Njenga, à titre de contribuable, a la responsabilité de justifier ses affaires personnelles d'une manière raisonnable. Des reçus écrits par elle-même et des allégations sans preuve ne sont pas suffisants.
+[16] Ce principe est couramment suivi, mais il existe certaines décisions dans lesquelles une preuve orale crédible a été acceptée en vue d'expliquer des dépôts non identifiés. En analysant l'arrêt Njenga, le juge C. Miller a conclu ce qui suit dans la décision Fenney c. La Reine[2] :
+Je n'interprète pas l'arrêt Njenga comme interdisant d'une manière absolue d'admettre des dépenses non étayées de documents : cet arrêt doit être interprété dans le contexte du manque de crédibilité d'un témoin.
+Dans le cas d'un témoin digne de foi comme M. Fenney, je suis disposé à prendre en considération les dépenses dont il a fait état au procès, en vue de déterminer si elles sont raisonnables.
+[17] De même, dans la décision Wainberg c. La Reine[3], le juge Bowie a fait les remarques suivantes au sujet de l'arrêt Njenga :
+L'avocate de l'intimée a fait référence à la décision de la Cour d'appel fédérale dans l'affaire Njenga c. La Reine. Dans cette affaire, il a été statué qu'un contribuable qui ne tient pas compte des exigences prévues par la Loi de garder à sa disposition des renseignements et une documentation détaillés à l'appui des demandes qu'il présente devrait s'attendre à avoir d'énormes difficultés à s'acquitter de la charge d'établir ces demandes. Cependant, le besoin d'étayer un témoignage verbal avec des documents n'est certainement pas un absolu. Si le contribuable est un témoin crédible, le bien‑fondé de la demande peut être établi par un simple témoignage verbal, si celui‑ci est suffisamment convaincant. [...]
+[18] M. Wasserman tenait lui‑même les livres et s'occupait lui-même de la comptabilité, notamment de la TPS, de la TVP et des déclarations de revenus. Il compte jusqu'à huit employés, dont cinq sont des membres de sa famille[4]. Il conservait l'argent dans des coffres‑forts et il n'avait pas de reçus de caisse, sauf pour les ventes conclues à l'aide de cartes de débit ou de crédit. Il était au courant de l'existence de REER et, puisqu'il avait déclaré des revenus nets de 35 308 $, de 29 326 $ et de 9 530 $, il a versé des cotisations s'élevant à 14 000 $, à 6 000 $ et à 3 000 $ dans des REER au cours de chacune des années 2002, 2003 et 2004 respectivement. Il savait qu'il pouvait déduire des dépenses en vue de réduire son revenu d'entreprise, et il a notamment déduit la totalité du coût d'un téléviseur à grand écran chez lui. Il mettait en commun ses épargnes et son revenu d'entreprise en utilisant une partie de l'argent qu'il recevait pour des dépenses personnelles et pour des dépenses d'entreprise, sans établir de documents. De toute évidence, le ministre s'est vu obligé d'analyser les dépôts bancaires de l'appelant. L'appelant avait suivi un cours de tenue de livres et il exploitait une entreprise depuis 20 ans. Il savait ou aurait dû savoir qu'il avait un associé passif à l'Agence du revenu du Canada.
+[19] L'appelant convient qu'il aurait dû établir de meilleurs documents, mais il croyait n'avoir de comptes à rendre à personne. Selon la position qu'il a prise, tous les dépôts provenaient de ventes d'années antérieures. Le présent appel est entendu sous le régime de la procédure générale de la Cour. Les appels interjetés dans les affaires Fenney et Wainberg portaient sur des montants beaucoup moins élevés et ils ont été entendus sous le régime de la procédure informelle. Ce serait aller trop loin que d'accepter une preuve orale non corroborée dans ce cas‑ci.
+[20] Les seules concessions raisonnables se rapportent à l'utilisation du véhicule à moteur aux fins de l'entreprise et aux pénalités pour faute lourde. Je retiens la preuve de l'appelant lorsqu'il déclare qu'il utilisait son VUS principalement aux fins de l'entreprise; au bout de neuf ans, 56 000 kilomètres seulement avaient été effectués. Il est raisonnable de porter l'utilisation du VUS aux fins de l'entreprise de 50 à 80 p. 100 pour les deux années.
+[21] Quant aux pénalités, l'avocat du ministre a déclaré, d'une façon passablement justifiée :
+[traduction]
+Je ne crois pas qu'il cherche à tromper ou qu'il mente. Il a tout simplement adopté le même système que ses parents, comme il l'a dit, et il a utilisé ce système pendant 20 ans, mais le système ne fonctionne pas. Et après qu'il eut fait l'objet d'une vérification, c'est alors que nous nous sommes rendu compte que son système n'était pas conforme à la Loi de l'impôt sur le revenu.
+Je crois que c'est le problème qui se pose dans ce cas‑ci, il s'agit d'un malentendu au sujet des lois fiscales canadiennes[5].
+[22] Je souscris au point de vue de l'avocat, mais je ne crois pas que le ministre se soit acquitté du fardeau de la preuve dans les présents appels. Dans l'arrêt Venne v. R.[6], qui est souvent cité, le juge Strayer a dit ce qui suit :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. Je ne conclus pas à l'existence d'un tel degré de négligence en rapport avec les faux énoncés de revenus commerciaux. [...]
+[23] L'appelant est crédible et il n'a pas intentionnellement omis d'établir des documents en vue de tenter d'éviter de payer des impôts. La méthode qu'il a suivie ne comportait pas un degré élevé de négligence. L'omission d'établir des documents constitue de l'insouciance et de la négligence, mais il ne s'agit pas d'une « faute lourde » susceptible d'entraîner des pénalités conformément au paragraphe 163(2) de la LIR et à l'article 285 de la LTA.
+[24] Aucun élément de preuve ne montre que les déclarations en moins ont été faites sciemment. Dans l'arrêt Farm Business Consultants Inc. v. The Queen[7], la Cour d'appel fédérale a approuvé les remarques que le juge Bowman avait faites en première instance lorsqu'il avait dit :
+Le paragraphe 163(2) est une disposition pénale et, si, au moment de l'appliquer, le type de conduite à laquelle est attribuable la présentation erronée des faits soulève un doute, il faudrait accorder le bénéfice du doute au contribuable.
+[25] Je conclus sans aucune hésitation que le ministre ne s'est pas acquitté du fardeau qui lui incombait d'établir la faute lourde.
+[26] En conclusion, l'appel concernant l'impôt sur le revenu est accueilli uniquement en vue de porter le taux d'utilisation du véhicule à moteur aux fins de l'entreprise de 50 à 80 p. 100 et de renoncer aux pénalités imposées en vertu du paragraphe 163(2) de la LIR.
+[27] Quant à l'appel concernant la TPS, je conclus que l'appelant n'a pas tenu de registres suffisants permettant au ministre d'établir ses obligations et responsabilités en application de la Loi ou de déterminer le remboursement auquel il a droit comme l'exige l'article 286 de la LTA. Il était raisonnable pour le ministre de se fonder sur les dépôts bancaires en vue de déterminer le montant minimum perçu ou à percevoir par l'appelant au titre de la taxe. L'appel concernant la TPS est accueilli uniquement en vue de renoncer aux pénalités pour faute lourde imposées en vertu de l'article 285 de la LTA.
+Signé à Ottawa, Canada, ce 14e jour de juin 2010.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 13e jour d’août 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 312
+Nos DES DOSSIERS DE LA COUR : 2008-488(GST)I
+2008-934(IT)G
+INTITULÉ : HENRYK WASSERMAN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 10 février 2010
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 14 juin 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Julien Bédard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 96 DTC 6593.
+[2] [2001] A.C.I. no 431, paragraphe 6.
+[3] 2003 CCI 610, paragraphe 3.
+[4] Son neveu, sa soeur et trois des enfants de sa soeur.
+[5] Il est fait mention des huit dernières lignes, à la page 3 de la transcription.
+[6] 84 DTC 6247, page 6256.
+[7] 96 DTC 6085.

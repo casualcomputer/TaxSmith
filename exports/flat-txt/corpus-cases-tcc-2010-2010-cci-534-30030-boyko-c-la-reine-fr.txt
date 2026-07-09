@@ -1,0 +1,120 @@
+Title: Boyko c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30030/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-534-30030-boyko-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-19
+
+# Boyko c. La Reine
+
+- Citation: 2010 CCI 534
+- Decision date: 2010-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7685, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boyko c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-19
+Référence neutre
+2010 CCI 534
+Numéro de dossier
+2009-3711(IT)APP
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3711(IT)APP
+ENTRE :
+ZENON TARAS BOYKO,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 6 avril 2010 à Winnipeg (Manitoba).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Pour le requérant :
+Le requérant lui‑même
+Avocate de l’intimée :
+Me Larissa Benham
+____________________________________________________________________
+ORDONNANCE
+VU la demande de prorogation du délai pour signifier un avis d’opposition à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005;
+VU les documents produits, et après avoir entendu le requérant et l’avocate de l’intimée;
+LA COUR ORDONNE que la requête soit rejetée. Aucuns dépens ne sont adjugés.
+Signé à Calgary (Alberta), ce 19e jour d’octobre 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 1er jour de décembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 534
+Date : 20101019
+Dossier : 2009-3711(IT)APP
+ENTRE :
+ZENON TARAS BOYKO,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge D’Arcy
+[1] Le requérant a présenté une demande en application de l’article 166.2 de la Loi de l’impôt sur le revenu (la « Loi »), en vue d’obtenir une prorogation du délai pour déposer un avis d’opposition relativement à son année d’imposition 2005.
+Les faits
+[2] Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard du requérant pour l’année d’imposition 2005 au moyen d’un avis de cotisation daté du 18 septembre 2008.
+[3] Le requérant a déposé à la Cour le 4 décembre 2009, une demande en application de l’article 166.2 de la Loi, en vue d’obtenir du ministre une prorogation du délai pour déposer son avis d’opposition. Un avis d’opposition concernant l’année d’imposition 2005 du requérant était joint à la demande. Dans l’avis d’opposition, le requérant contestait la décision du ministre de lui refuser les « crédits pour dons de bienfaisance » qu’il avait demandés pour son année d’imposition 2005.
+[4] Il ressort clairement du témoignage du requérant et de la déclaration sous serment déposée par l’intimée que le requérant n’a jamais déposé à l’Agence du revenu du Canada (l’« ARC «) un avis d’opposition relativement à son année d’imposition 2005. Selon la déclaration du requérant, l’ARC a établi de nouvelles cotisations à l’égard du requérant relativement à la même question de dons de bienfaisance pour les années d’imposition 2003, 2004 et 2006 du requérant. Le requérant a déposé des avis d’opposition pour chacune de ces années d’imposition.
+[5] Le requérant a déclaré à la Cour qu’il n’a été au courant de la nouvelle cotisation établie à son égard relativement à l’année d’imposition 2005 qu’au cours de la seconde moitié de l’année 2009. Aussitôt qu’il a eu connaissance de la nouvelle cotisation, il a cherché conseil auprès de l’organisme de bienfaisance qui avait délivré les reçus. L’organisme de bienfaisance lui a conseillé de présenter à la Cour une demande de prorogation du délai pour déposer son avis d’opposition.
+Le droit
+[6] Le paragraphe 166.2(1) de la Loi est ainsi libellé :
+166.2(1) Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision.
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+[7] Comme l’a fait remarquer la Cour dans McKernan v. R[1], un contribuable ne peut pas demander à la Cour une prorogation du délai pour signifier un avis d’opposition s’il n’a pas d’abord demandé au ministre une prorogation du délai en vertu de l’article 166.1 de la Loi.
+[8] Le problème réside, en l’espèce, dans le fait que le requérant n’a pas présenté au ministre une demande de prorogation du délai pour déposer un avis d’opposition au titre de l’article 166.1 de la Loi.
+[9] À l’audience, j’ai demandé à l’avocate de l’intimée si le ministre pouvait accepter la demande déposée à la Cour comme une demande présentée en application de l’article 166.1 de la Loi. L’avocate de l’intimée a fait observer qu’une demande déposée à la Cour ne devrait pas être considérée comme ayant été présentée au ministre.
+[10] J’ai examiné les dispositions pertinentes de la Loi et je suis d’accord avec l’avocate de l’intimée.
+[11] Les articles 166.1 et 166.2 de la Loi fournissent un cadre législatif en ce qui concerne la demande de prorogation du délai pour présenter un avis d’opposition. Ces dispositions prévoient que la demande soit d’abord présentée au ministre et qu’après soit l’expiration d’un délai de 90 jours soit le rejet de la demande par le ministre, le contribuable ait alors le droit de déposer une demande à la Cour.
+[12] Le paragraphe 166.1(3) de la loi prévoit que la demande, accompagnée d’un exemplaire de l’avis d’opposition, soit envoyée au chef des Appels d’un bureau de district ou d’un centre fiscal de l’ARC soit par personne, soit par courrier.
+[13] La demande présentée par le requérant a été adressée au greffier de la Cour canadienne de l’impôt et a été remise à la Cour. Je ne saurais conclure que cette demande a été envoyée au chef des Appels de l’ARC.
+[14] En outre, le requérant a déclaré qu’il croyait, au moment où il a envoyé la demande, que celle‑ci devait être déposée à la Cour. En d’autres termes, il avait l’intention de présenter la demande à la Cour. Il n’a jamais eu l’intention d’envoyer la demande au chef des Appels de l’ARC.
+[15] Pour les motifs exposés ci‑dessus, la demande est rejetée. Aucuns dépens ne sont adjugés. Je reconnais que ma décision est dure pour le requérant; toutefois, je suis lié par les dispositions de la Loi.
+Signé à Calgary (Alberta), ce 19e jour d’octobre 2010.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 1er jour de décembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 534
+NO DU DOSSIER DE LA COUR : 2009-3711(IT)APP
+INTITULÉ : ZENON TARAS BOYKO
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 6 avril 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE : Le 19 octobre 2010
+COMPARUTIONS :
+Pour le requérant :
+Le requérant lui‑même
+Avocate de l’intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [2003] 1 C.T.C. 2275.

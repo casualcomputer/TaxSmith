@@ -1,0 +1,254 @@
+Title: 9103-4348 Québec inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/119833/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-220-119833-9103-4348-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-09-10
+
+# 9103-4348 Québec inc. c. La Reine
+
+- Citation: 2015 CCI 220
+- Decision date: 2015-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2738, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9103-4348 Québec inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-09-10
+Référence neutre
+2015 CCI 220
+Numéro de dossier
+2010-699(GST)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-699(GST)G
+ENTRE :
+9103-4348 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 12 et 13 février 2014 et le 30 mars 2015, à Granby (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocat de l’appelante :
+Me Robert Jodoin
+Avocates de l’intimée :
+Me Claudine Alcindor
+Me Catherine-A. Boisvert
+JUGEMENT
+L’appel de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour les périodes fiscales comprises entre le 1er octobre 2005 et le 31 mars 2008, dont l’avis est daté du 3 avril 2009 et ne portant aucun numéro distinctif, est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait qu’un montant de 1 147,17 $ doit être retranché du montant que l’appelante devait percevoir à titre de TPS pour les périodes comprises entre le 1er octobre 2007 et le 31 mars 2008.
+À tout autre égard, l’appel est rejeté et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2015.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2015 CCI 220
+Date : 20150910
+Dossier : 2010-699(GST)G
+ENTRE :
+9103-4348 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Faits [1] Par avis de cotisation daté du 3 avril 2009, le ministre du Revenu du Québec (le « ministre ») a rajusté la taxe sur les produits et services (la « TPS ») percevable par 9103-4348 Québec Inc. (l’« appelante ») d’un montant de 14 189,91 $ pour les périodes comprises entre le 1er octobre 2005 et le 31 mars 2008.
+[2] En outre, le ministre a calculé des intérêts et des pénalités pour versement tardif d’un montant de 3 228,73 $ suivant l’article 280.1 de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (« LTA »).
+[3] Le 8 décembre 2009, à la suite du dépôt d’un avis d’opposition le ou vers le 4 mai 2009, le ministre a confirmé la cotisation pour la période visée.
+[4] En début d’audience, l’intimée a annulé un montant de 1 147,17 $ pour les périodes comprises entre le 1er octobre 2007 et le 31 mars 2008, en raison d’une erreur de calcul.
+[5] Pendant les périodes en litige, soit les périodes du 1er octobre 2005 au 30 septembre 2006, du 1er octobre 2006 au 30 septembre 2007 et du 1er octobre 2007 au 31 mars 2008, l’appelante a exploité un restaurant-bar du nom de Golden Pub.
+[6] Pendant ces périodes, toutes les fournitures effectuées par l’appelante dans le cadre de ses activités commerciales constituaient des fournitures taxables.
+[7] De 2005 à 2008, l’appelante a utilisé dans son établissement deux systèmes différents d’enregistrement des ventes, soit le système « Maitre’D » jusqu’en mai 2006 et le système « Veloce » à compter de juin 2006. Pour l’entrée des données comptables, l’appelante utilisait un programme appelé « Acomba ».
+Choix de la méthode de vérification alternative [8] Lors de l’interrogatoire principal de madame Gendron, gestionnaire[1] à l’Agence du Revenu du Québec (l’ « ARQ »), par l’avocat de l’appelante, Me Jodoin, madame Gendron a expliqué le déroulement du dossier.
+a) Madame Gendron a indiqué qu’à la suite d’une analyse préliminaire, il a été décidé que le dossier de l’appelante serait vérifié.
+b) À cet effet, madame Matthews s’est vu assigner à titre de vérificatrice à l’ARQ le dossier de l’appelante. Madame Gendron était la gestionnaire de madame Matthews.
+c) Le 12 mai 2008, madame Matthews s’est rendue au commerce de l’appelante pour commencer la vérification.
+d) Madame Matthews n’a constaté aucun écart digne de mention dans les livres comptables de l’appelante. Les montants au grand livre correspondaient aux montants de revenus dans les états financiers et dans le système d’enregistrement des ventes « Veloce ».
+e) Il a été décidé par madame Gendron, à la suite de la recommandation de madame Matthews, d’appliquer une méthode de vérification alternative dans le dossier de l’appelante, notamment pour les raisons suivantes[2]:
+1) selon l’ARQ le ratio achats‑ventes était hors norme; les achats de nourriture représentaient 44,13 % des ventes et les achats de boissons représentaient 55,48 % des ventes, alors que, selon l’ARQ, le pourcentage pour ce genre de restaurant-bar devrait se situer entre 30 % et 35 %;
+2) selon l’ARQ, le pourcentage de crédits de taxes sur les intrants (« CTI »), soit 46,6 % était trop élevé par rapport aux remises de TPS effectuées par l’appelante;
+3) la marge brute était entre 52 % et 55 %, alors que selon l’ARQ, elle aurait dû se situer entre 65 % et 70 %;
+4) il n’y avait aucune copie du ruban de sécurité du système d’enregistrement des ventes « Maitre’D » que l’appelante avait utilisé pour la majeure partie de l’année 2006; ainsi, les données sur les ventes étaient manquantes pour cette période;
+5) l’appelante n’avait pas fourni à l’ARQ les documents, soit les feuilles de contrôle d’inventaire indiquant les gratifications, les items gratuits, les escomptes aux employés, les « deux pour un », les pertes dues aux bouteilles brisées ou inutilisables. Afin de ne pas alourdir le texte, je référerai à « gratuités et pertes » pour l’ensemble de ces termes;
+6) l’analyse des notes de repas avait permis de déterminer que les numéros de celles-ci ne se suivaient pas; de plus, pour la période du 1er octobre 2006 au 30 septembre 2007, 9,15 % des notes étaient manquantes.
+Méthode de vérification alternative utilisée [9] Dans ce dossier, le ministre a utilisé la méthode du ratio ventes par litre pour déterminer les fournitures taxables et par conséquent la TPS que l’appelante devait percevoir.
+[10] Le montant des achats d’alcool pour les périodes en litige n’est pas contesté par l’appelante. À partir des achats en l’espèce de litres de bière en bouteille et de vin, le ministre a déterminé le nombre de litres d’alcool disponibles pour la revente pour les périodes en litige.
+[11] Le ministre s’est appuyé sur les ventes inscrites dans le système de vente de l’appelante « Veloce » afin de déterminer, pour chaque période, le ratio que génère un litre d’alcool vendu. Le ministre a accordé dans ses calculs un pourcentage en ce qui a trait aux « gratuités et pertes ».
+[12] Pour la période où l’appelante utilisait le système de vente « Maitre’D », soit avant mai 2006, comme les données étaient manquantes, le ministre a utilisé les données de 2007, calculant un écart à la baisse de 2 %.
+[13] Les paragraphes 16f) à 16r) de la Réponse à l’avis d’appel expliquent en détail la méthode de vérification alternative que le ministre a utilisée afin de déterminer les fournitures taxables et la TPS à percevoir.
+16. […]
+f) afin de déterminer le montant de la TPS que l’appelante a perçue ou était tenue de percevoir pendant la période visée, le montant des fournitures taxables effectuées par l’appelante a été reconstitué à partir du rapport annuel des ventes et escomptes de l’appelante, soit le rapport du système Maitre’D avant mai 2006 et le système Veloce à compter de mai 2006, systèmes utilisés par l’appelante;
+g) le Ministre a considéré toutes les ventes d’alcool pour chacun des produits afin de déterminer, par année, le ratio que génère un litre d’alcool vendu;
+h) le Ministre a relevé le nombre de litres d’alcool achetés par l’appelante auprès des brasseurs et de la Société des alcools du Québec;
+i) le Ministre a déterminé que pour chaque litre de bière et de vin confondus que l’appelante a fourni par vente, cette dernière a effectué des fournitures taxables au montant de 110,96 $ pour la période du 1er octobre 2006 au 30 septembre 2007 et au montant de 126,24 $ pour la période du 1er octobre 2007 au 31 mars 2008;
+j) considérant que l’appelante ne pouvait fournir tous ses documents pour la période du 1er octobre 2005 au 30 septembre 2007, le Ministre a utilisé un ratio de 108,74 $, soit le ratio calculé pour la période se terminant le 30 septembre 2007, allouant un écart à la baisse de 2% afin de couvrir l’augmentation des prix de vente des produits [110,96 $ X 2% de moins];
+k) plus précisément, le Ministre a relevé tous les litres de bière et de vin vendus et comptabilisés par l’appelante pour connaître le ratio des ventes mentionnées plus haut sur les achats soit :
+1er octobre 2005 au 30 septembre 2006
+7 700,770 litres
+1er octobre 2006 au 30 septembre 2007
+6 404,600 litres
+1er octobre 2007 au 31 août 2008
+2 361,489 litres
+l) les montants mentionnés aux sous-paragraphes précédents pour toute la période visée, à compter de la mi-mai 2006 ont été établis en fonction de toutes les données comptables disponibles remises par l’appelante au Ministre, lesquelles étaient très détaillées, soit le « SYSTÈME VELOCE »;
+m) en fonction des factures d’acquisition que l’appelante lui a remises ou des données émanant des brasseurs et de la SAQ[3], le Ministre a relevé les quantités, converties en litre [sic], de vin et de bière acquises par l’appelante qu’elle a fournies par vente pour chacun des trois exercices contenus dans la période visée incluant certaines rectifications pour tenir compte de pertes encourues par l’appelante (les quantités utilisées en cuisine ou consommées par le personnel, les gratuités offertes aux clients et les pertes de toute nature établies, établies à quelques [sic] 5%);
+n) le montant des fournitures taxables effectuées par l’appelante ainsi reconstitué par le Ministre est de 837 400,72 $, pour la période comprise entre le 1er octobre 2005 et le 30 septembre 2006 (7 700,700 litres x 108,74 $, à quelques [sic] 27,00 $ près), 710 665,30 $ pour l’exercice se terminant le 30 septembre 2007 (6 404,600 litres x 110,96 $, à quelque 10,00 $ près), 298 113,43 $ pour la période se terminant le 31 mars 2008 (2 361,489 litres x 126,24 $, à quelque 0,94 $ près);
+o) le montant de TPS que l’appelante a perçu ou qu’elle était tenue de percevoir pendant la période visée était de :
+période du 1er octobre 2005 au 30 septembre 2006 :
+55 829,51 $
+période du 1er octobre 2006 au 30 septembre 2007 :
+42 639,92 $
+période du 1er octobre 2007 au 31 mars 2008 :
+16 276,99 $
+Total
+114 746,42 $
+p) l’appelante a produit ses déclarations de taxe nette et y a globalement déclaré pour la période visée un montant de 100 556,39 $ de TPS perçue ou percevable dans le calcul de sa taxe nette;
+q) l’appelante n’a, par conséquent, pas déclaré, dans le calcul de sa taxe nette, pendant la période visée, un montant de 14 190,03 $ (114 746,42 $ - 100 556,39 $) à titre de TPS perçue ou percevable (il existe un écart de 0,12 $ à l’avantage de l’appelante sur le montant cotisé de 14 189,91 $);
+r) l’examen de l’ensemble des documents démontre que l’appelante ne déclarait pas, pendant la période visée, toutes et chacune des ventes effectuées et pour laquelle une taxe au taux de 7% (6% pour les fournitures effectuées après juin 2006 et 5% pour les fournitures effectuées après décembre 2007) sur la valeur de la contrepartie de la fourniture était payable par les acquéreurs à l’appelante qui devait la percevoir.
+II. Questions en litige [14] i) Est-ce que le témoignage de madame Gendron constitue du ouï-dire?
+ii) Est-ce que le ministre était justifié d’utiliser une méthode de vérification alternative?
+iii) Est-ce que le ministre a correctement établi une cotisation à l’encontre de l’appelante en ajoutant dans son calcul de la taxe nette un montant de 14 189,91 $ à titre de TPS que l’appelante n’aurait pas comptabilisée et remise au receveur général?
+III. Position des parties et analyse juridique i) Est-ce que le témoignage qu’a donné madame Gendron lors de son interrogatoire principal par l’avocate de l’intimée, Me Alcindor, constitue du ouï-dire?
+[15] Lors du début de l’interrogatoire principal de madame Gendron par Me Alcindor, l’avocat de l’appelante, Me Jodoin, s’est opposé à toutes questions relatives au travail accompli par la vérificatrice au dossier, soit madame Matthews. Selon Me Jodoin, la grande majorité des questions posées par Me Alcindor à madame Gendron constituait du ouï-dire, car madame Gendron n’avait pas une connaissance personnelle du travail de vérification effectué par madame Matthews.
+[16] Me Alcindor a indiqué que madame Matthews, la vérificatrice responsable du dossier de l’appelante, avait pris sa retraite de l’ARQ cinq ou six ans auparavant et qu’il avait été décidé de ne pas la faire témoigner, car il aurait été trop compliqué pour madame Matthews de se remettre dans le dossier.
+[17] De plus, selon Me Alcindor, madame Gendron pouvait témoigner, car, en tant que gestionnaire de madame Matthews, c’est elle qui avait autorisé l’utilisation de la méthode de vérification alternative. De plus, elle avait supervisé le dossier de près et avait été impliquée à chaque étape du dossier. En outre, madame Gendron avait participé aux rencontres avec madame Matthews, le représentant et l’actionnaire de l’appelante, M. Drummond, et son avocat afin de discuter du dossier de l’appelante.
+[18] J’ai réservé ma décision sur l’objection et j’ai demandé aux parties de faire valoir lors de leurs arguments leur position sur le ouï-dire.
+[19] Il est à noter que, lors de l’audience, Me Jodoin a procédé à l’interrogatoire principal de madame Gendron. L’avocate de l’intimée, Me Alcindor, a choisi de ne pas contre-interroger madame Gendron et de plutôt procéder à l’interrogatoire principal de cette dernière.
+[20] Lors des arguments, l’appelante a fait valoir que la majeure partie du témoignage de madame Gendron constitue du ouï-dire. L’appelante fait valoir que madame Gendron ne s’est pas déplacée sur les lieux du restaurant-bar de l’appelante, que les données ont été compilées par madame Matthews et que les feuilles de travail ont été préparées par madame Matthews, ainsi que le rapport de vérification T-20. De plus, c’est cette dernière qui a vérifié les registres et les notes de repas et qui a pris connaissance des rapports de ventes dans le système de vente « Veloce ». L’appelante fait valoir qu’aucune raison valable n’a été donnée par l’intimée pour l’absence de madame Matthews à la Cour. De plus, l’appelante fait valoir qu’aucune des exceptions au ouï-dire ne s’applique en l’espèce.
+[21] L’appelante fait donc valoir que l’appel doit être accueilli du fait que l’intimée n’est pas en mesure de justifier le choix de la méthode de vérification alternative dans ce dossier.
+[22] Quant à l’intimée, elle fait valoir qu’au moment de l’audience madame Matthews avait pris sa retraite de l’ARQ, et ce, depuis cinq ou six ans auparavant. Il aurait été compliqué pour madame Matthews de sortir de sa retraite et de prendre connaissance du dossier et une décision d’opportunité a été prise.
+[23] De plus, l’intimée prétend que madame Gendron a une connaissance personnelle du dossier. En tant que gestionnaire de madame Matthews, madame Gendron était la seule qui pouvait autoriser l’utilisation de la méthode de vérification alternative. De plus, toutes les données qui ont été utilisées par madame Matthews ont été prises dans les documents de l’appelante qui font partie intégrante du dossier de l’ARQ. Par exemple, la copie du système de vente « Veloce » de l’appelante fait partie intégrante du dossier. Toutes les feuilles de travail de madame Matthews sont au dossier de l’ARQ. Tous les calculs des ratios faits par madame Matthews sont évidents à lecture des documents émanant de l’appelante. La seule donnée qui provient de l’ARQ est le pourcentage des « gratuités et pertes ». À cet égard, l’intimée fait valoir que le pourcentage a été déterminé par l’ARQ parce que l’appelante n’avait pas fourni les feuilles de contrôle d’inventaire établissant le pourcentage des « gratuités et pertes ». Par ailleurs, le pourcentage a été déterminé par l’ARQ à la suite de rencontres où madame Gendron était présente avec madame Matthews ainsi que l’avocat de l’appelante et M. Drummond pour l’appelante.
+[24] L’intimée fait donc valoir que le témoignage de madame Gendron est admissible, car il est fiable pour les raisons suivantes : madame Gendron connaissait personnellement le dossier étant donné son implication dans le dossier. De plus, les données provenaient des documents de l’appelante. Madame Gendron avait accès à ces documents; son témoignage ne pouvait constituer du ouï-dire, car il était fiable.
+[25] L’intimée fait aussi valoir que le témoignage de madame Gendron est admissible en preuve puisque l’appelante a consenti à son admissibilité en procédant elle-même à l’interrogatoire principal de madame Gendron.
+[26] Je vais commencer avec le dernier argument de l’intimée, soit celui selon lequel en procédant à l’interrogatoire principal de madame Gendron, l’appelante a consenti implicitement à la preuve par ouï-dire.
+[27] Je suis d’avis qu’en procédant à l’interrogatoire principal de madame Gendron sur les faits relatifs aux tenants et aboutissants du choix de la méthode de vérification alternative et à la cotisation en l’espèce, l’avocat de l’appelante ne peut s’opposer, lors de l’interrogatoire principal de madame Gendron par l’avocate de l’intimée, à des questions qui portent également sur les faits relatifs aux tenants et aboutissants du choix de la méthode de vérification alternative et à la cotisation.
+[28] Il ressort de la jurisprudence et de la doctrine que l’appelante ne peut introduire dans un dossier une preuve par ouï-dire dont elle plaide plus tard l’irrecevabilité. Le professeur Ducharme explique, dans son ouvrage Précis de la preuve, 6e éd., Montréal, Wilson & Lafleur, 2005, les nuances à considérer lors d’un consentement à la preuve par ouï-dire :
+1438. Contrairement à ce que certains auteurs affirment, dans le cas d’une preuve par ouï-dire, une distinction doit être faite entre une renonciation, c’est-à-dire une absence d’objection, et un consentement. Une partie peut s’abstenir pour plusieurs raisons de s’opposer à ce qu’un témoin rapporte la déclaration d’une autre personne. Elle peut agir ainsi, notamment, parce qu’elle croit, à tort ou à raison, qu’il s’agit d’un fait pertinent au litige et non parce qu’elle entend consentir à ce que cette déclaration serve à titre de témoignage. Pour que la renonciation d’une partie à s’opposer à la preuve d’une déclaration équivaille à un consentement au sens de l’article 2869 C.c.Q, il faut que cette partie n’ait pu ignorer que c’est à titre de témoignage que cette preuve a été faite. Il y aurait lieu de présumer un consentement si une partie produisait elle-même, à titre de témoignage, une déclaration qui lui est défavorable.
+[Je souligne.]
+[29] Dans l’affaire Construction Nelson inc c Centre de rénovation Gervais Roch inc, 2013 QCCQ 7618, la défenderesse avait renoncé à faire valoir une objection à la preuve d’un prêt en interrogeant au préalable M. Massicotte sur les tenants et aboutissants de ce prêt et en produisant intégralement cet interrogatoire au dossier de la Cour. Le juge Landry de la Cour du Québec énonce ce qui suit aux paragraphes 55 à 58 de ses motifs:
+[55] Dans son traité sur La preuve civile, le professeur Royer25 écrit à ce sujet (à la page 1426) :
+« Le plaideur qui consent à la présentation d’une preuve ou qui introduit ou utilise une preuve ne peut subséquemment s’y objecter en invoquant des règles de non-recevabilité dont la sanction ne porte pas atteinte à l’ordre public, notamment celles qui sont énoncées aux articles 2860 à 2868 du Code civil du Québec. Ainsi, le défendeur qui interroge le demandeur sur l’existence ou le contenu d’un acte juridique ne peut empêcher subséquemment son adversaire de l’établir par témoignage, même s’il contredit un écrit valablement fait. La partie qui interroge son adversaire sur son affidavit et dépose cet interrogatoire au dossier ne peut s’opposer à la recevabilité du témoignage par affidavit. Ces renonciations à la sanction d’une règle d’irrecevabilité se sont souvent produites à l’occasion d’examens au préalable faits en vertu des articles 397 ou 398 C.p.c. »
+(soulignements ajoutés)
+[56] Plusieurs jugements ont été rendus dans le même sens26, dont celui de la Cour d’appel dans Sabourin c. Charlebois :
+« Dans le cas à l’étude, l’avocat de l’appelant a décidé d’interroger l’intimée avant la production du plaidoyer (article 397 C.p.c.); cette déposition fait partie du dossier (article 396 C.p.c.). À cette occasion, l’avocat de l’appelant a lui-même introduit la preuve à laquelle il tentera de s’opposer durant l’instruction. »
+(soulignements ajoutés)
+[57] Dans l’affaire Barrest27, Monsieur le juge Bachand résume ainsi l’état du droit sur la question :
+« En vertu de l’arrêt Iarrera c. Guinta Iarrera 1987 RDJ 223 (CA) et du jugement dans Via Route inc. c. Zawahry J.E. 97-197 (CS), une partie qui a elle-même introduit une preuve inadmissible par le dépôt d’un interrogatoire au préalable, telle une preuve testimoniale, ne peut pas par la suite s’objecter à une telle preuve. »
+(soulignements ajoutés)
+[58] Par conséquent, cet argument de la défenderesse pour conclure au rejet de l’action est mal fondé. La requête pour rejet doit donc être examinée en prenant pour acquis que le prêt allégué est établi.
+______________________
+25 4e édition, 2008, Les Éditions Yvon Blais inc., Cowansville, 1891 pages.
+26 Sabourin c. Charlebois [1982] C.A. 361; Via Route inc. c. Zawahry J.E. 97-197 (C.S.); Iarrera c. Guinta Iarrera [1987] RDJ 223 (C.A.); Barrest c. Dumoulin B.E. 2006BE-110.
+27 Citée note précédente.
+[30] Par conséquent, le témoignage de madame Gendron est admissible quant aux faits relatifs à la méthode de vérification alternative et à la cotisation établie par le ministre. L’objection de l’appelante est rejetée.
+[31] Compte tenu de cette conclusion, je n’ai donc pas à examiner la question à savoir si l’exception au ouï-dire en vertu de la méthode de l’analyse raisonnée exposée par la Cour suprême du Canada s’applique au témoignage de madame Gendron[4].
+ii) Est-ce que le ministre était justifié d’utiliser une méthode de vérification alternative?
+[32] L’appelante fait valoir que c’est à l’intimée de justifier le choix du ministre d’utiliser une méthode de vérification alternative aux fins de cotisation, et si cette Cour décidait que l’utilisation de la méthode de vérification alternative par le ministre n’était pas justifiée, la présomption de la validité de la cotisation ne tiendrait plus.
+[33] Contrairement à l’appelante, l’intimée fait valoir que c’est l’appelante qui a le fardeau de la preuve et que cette dernière doit prouver pourquoi le ministre n’était pas justifié d’utiliser une méthode de vérification alternative aux fins de cotisation. Elle cite à cet égard, le paragraphe 299(3) de la LTA :
+299(3) Sous réserve d’une nouvelle cotisation et d’une annulation prononcée par suite d’une opposition ou d’un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire.
+[34] Je suis d’accord avec l’intimée. Tel que l’a indiqué la Cour d’appel fédérale dans Amiante Spec Inc c Sa Majesté la Reine, 2009 CAF 139, c’est le contribuable qui doit s’acquitter du fardeau initial de démolir les présomptions du ministre. Dans Amiante Spec Inc, la juge Trudel énonce ce qui suit aux paragraphes 15, 23 et 24 de ses motifs.
+[15] L’affaire Hickman nous a rappelé que le ministre se fonde sur des présomptions pour établir une cotisation et que la charge initiale de démolir les présomptions exactes formulées par celui-ci est imposée au contribuable. Ce dernier s’acquitte de ce fardeau initial lorsqu’il présente au moins une preuve prima facie démolissant l’exactitude des présomptions formulées dans la cotisation. Enfin, lorsque le contribuable s’est déchargé de son fardeau initial, le fardeau de la preuve passe au ministre qui doit alors réfuter la preuve prima facie faite par celui-là et prouver les présomptions (Hickman, supra aux paragraphes 92-93-94).
+[…]
+[23] Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, [2000] T.C.J. No. 53 au paragraphe 23).
+[24] Bien qu’il ne s’agisse pas d’une preuve concluante, « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » considérant « qu’il s’agit de l’entreprise du contribuable » (Voitures Orly inc. c. Canada, 2005 CAF 425 au paragraphe 20). Cette Cour a précisé que c’est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle » (ibid.).
+[35] L’appelante fait aussi valoir que le ministre n’était pas justifié d’utiliser la méthode de vérification alternative puisque ses registres et livres comptables ainsi que ses états financiers étaient adéquats et fiables.
+[36] L’appelante fait valoir que les normes établies par madame Gendron et madame Matthews[5] sont arbitraires. Lors de son témoignage, madame Gendron a expliqué que le pourcentage des achats par rapport aux ventes devrait se situer entre 30 % à 35 % tant pour la nourriture que pour les boissons. Selon l’appelante, ce pourcentage n’est pas fondé, car il ne repose pas sur des données statistiques solides ou sur une expertise reconnue en matière de restauration. De plus, l’appelante se réfère au témoignage de madame Gendron, dans lequel elle a indiqué que, durant les périodes en litige, l’ARQ n’avait pas de guide de référence établissant des normes dans la restauration.
+[37] Selon l’appelante, le ministre ne pouvait pas tenir compte des ratios en l’espèce, soit un ratio de 44,13 % pour les achats/ventes de la nourriture et un ratio de 55,48 % pour les achats/ventes de boissons, pour justifier l’utilisation de la méthode de vérification alternative. L’appelante indique que madame Gendron ne pouvait se fier à son expérience de vérification dans la restauration pour déterminer que les ratios achats/ventes de l’appelante étaient trop élevés.
+[38] Selon l’appelante, les autres ratios utilisés par l’ARQ, soit le ratio de la marge brute et le pourcentage des crédits des intrants réclamés par rapport à la TPS perçue par l’appelante sont aussi arbitraires.
+[39] L’appelante fait aussi valoir que plusieurs témoins sont venus expliquer pourquoi certaines factures étaient manquantes pour les périodes en litige. Ces derniers ont tous témoigné dans le même sens, c’est-à-dire qu’il y avait plusieurs redistributions et annulations de factures. Elle fait aussi valoir que le système « Veloce » avait un problème technique connu par l’ARQ. Le système sautait des factures et cela expliquait pourquoi les numéros des factures ne se suivaient pas. De plus, le système « Veloce » ne gardait pas en mémoire les factures redistribuées ou annulées. Ainsi, l’ARQ ne pouvait utiliser ce critère pour utiliser la méthode de vérification alternative.
+[40] L’appelante fait aussi valoir que si la vérificatrice, madame Matthews, ou d’autres personnes à l’ARQ avaient demandé les feuilles de contrôle d’inventaire pour les périodes en litige, l’appelante aurait remis ces documents établissant le pourcentage des « gratuités et pertes ».
+[41] Quant aux documents manquants, soit la copie du ruban de sécurité des données du système de vente « Maitre’D » pour la majeure partie de l’année 2006, selon l’appelante, l’ARQ aurait pu faire une copie du disque dur.
+[42] Ainsi, selon l’appelante, le ministre n’était pas justifié d’utiliser la méthode de vérification alternative.
+[43] Pour sa part, l’intimée fait valoir que le ministre pouvait utiliser la méthode de vérification alternative puisque, tel qu’en fait foi le document déposé par l’appelante sous la côte A-1, le ratio de la marge brute et les ratios achats/ventes de fournitures et de boissons étaient hors norme et le pourcentage des CTI réclamés par l’appelante était élevé par rapport à la TPS perçue par l’appelante.
+[44] De plus, l’intimée fait valoir que l’appelante n’a pas fourni les feuilles de contrôle d’inventaire établissant le pourcentage de « gratuités et pertes » pour les périodes en litige. De plus, l’appelante n’avait pas de copie du ruban de sécurité du système « Maitre’D », système d’enregistrement des ventes qu’elle utilisait pour la majeure partie de l’année 2006; ainsi l’appelante n’a pas pu fournir la majeure partie des données quant aux ventes pour l’année 2006. De plus, selon l’intimée, il manquait des factures. Bien que la redistribution puisse expliquer une partie des factures manquantes, le taux de 9,15 % établi après trois jours d’échantillonnage était élevé. L’intimée fait aussi valoir que l’appelante n’a pas mis en preuve le pourcentage de redistribution de factures durant les périodes en litige.
+[45] Par conséquent, l’intimée fait valoir que les livres et registres comptables n’étaient pas fiables puisque l’appelante n’a pas été en mesure de fournir les pièces justificatives relatives à l’inventaire et les pièces relatives aux ventes étaient manquantes pour la majeure partie de l’année 2006. L’intimée prétend par conséquent, que le ministre était justifié de ne pas se fier aux livres, aux registres comptables et aux états financiers de l’appelante.
+[46] Je suis d’avis qu’en l’espèce le ministre était justifié d’utiliser une méthode de vérification alternative pour cotiser l’appelante. Il ne suffit pas que les livres et registres comptables existent et qu’ils concordent entre eux; ces derniers doivent être fiables. L’appelante n’a fourni aucun document établissant le pourcentage des « gratuités et pertes » pour les périodes en litige. De plus, aucune donnée n’a été fournie concernant les ventes pour la période couvrant la majeure partie de l’année 2006.
+[47] Le paragraphe 299(1) de la LTA énonce que le ministre n’est pas lié par quelque déclaration, demande ou renseignement livré par une personne ou en son nom; il peut établir une cotisation indépendamment du fait que quelque déclaration, demande ou renseignement ait été livré ou non.
+[48] Dans la décision 9100-8649 Québec inc c La Reine, 2013 CCI 160, le juge Favreau réitère le principe applicable permettant aux autorités fiscales d’appliquer une méthode de vérification alternative. Au paragraphe 39 de ses motifs du jugement, il écrit ce qui suit :
+[39] Les tribunaux permettent aux autorités fiscales d’utiliser une méthode de vérification alternative non seulement lorsque le contribuable ne possède pas de registres comptables adéquats mais également lorsque ses livres, registres et états financiers ne sont pas fiables.
+[49] Le juge Tardif, dans la décision 9010-9869 Québec Inc c La Reine, 2007 CCI 365, a écrit ce qui suit aux paragraphes 49 à 52 quant à l’utilisation par le ministre d’une méthode de vérification alternative:
+[49] En effet, à défaut d’une comptabilité adéquate et de toutes les pièces justificatives, la vérification devra se faire au moyen d’une méthode de rechange qui, d’entrée de jeu, ne peut avoir la fiabilité de la méthode directe réalisée grâce à une comptabilité satisfaisant aux règles de l’art et aux dispositions de la Loi.
+[…]
+[52] Ainsi, à moins de pouvoir démontrer la présence d’une approche abusive, vindicative, non sérieuse et empreinte d’arbitraire et d’une façon de travailler inacceptable, l’inscrit devra vivre avec les conséquences financières, si pénibles soient-elles.
+[50] Dans l’affaire 9100-8649 Québec inc, l’appelante, comme en l’espèce, n’avait aucun document à l’appui des prises d’inventaire. Le juge Favreau a indiqué que, dans un tel cas, l’appelante ne pouvait prétendre que ses livres, registres et états financiers étaient complets et fiables. Le juge Favreau a déterminé que la méthode de vérification alternative était justifiée.
+[51] L’appelante fait aussi valoir qu’aucune demande écrite du ministre ne lui a été acheminée concernant les documents manquants. À mon avis, il importe peu que l’appelante ait ou non reçu une demande écrite requérant les documents manquants. L’obligation de tenir des registres se trouve au paragraphe 286(1) de la LTA, qui prévoit que toute personne qui exploite une entreprise au Canada « doit tenir des registres […] en la forme et avec les renseignements permettant d’établir ses obligations et responsabilités aux termes de la présente partie ». Cette obligation repose sur les épaules du contribuable. Il lui revient donc de produire toutes les informations et justifications permettant de soutenir ses allégations.
+[52] Par conséquent, le ministre était justifié d’utiliser la méthode de vérification alternative aux fins de cotisation.
+[53] Je tiens aussi à souligner qu’il est important de faire une distinction entre ce qui a amené le ministre à recourir à la méthode de vérification alternative et les faits sur lesquels le ministre s’est appuyé pour établir la cotisation en l’espèce. Les ratios de marge bénéficiaire, les ratios des achats par rapport aux ventes, les CTI réclamés par rapport à la TPS perçue, les factures manquantes, l’absence des feuilles de contrôle de l’inventaire pour les « gratuités et pertes » et l’absence des documents du système de vente « Maitre’D » n’ont servi qu’à titre d’indices qui ont poussé le ministre à recourir à la méthode de vérification alternative; ces éléments n’ont pas été utilisés pour l’établissement de la cotisation à l’égard de l’appelante. Ainsi, l’argument de l’appelante selon lequel le ministre ne pouvait se fier aux ratios établis par l’ARQ pour recourir à la méthode de vérification alternative, car ces ratios avaient été déterminés à la lumière de l’expérience de madame Gendron acquise dans la vérification de restaurants, ne tient pas. Les ratios n’étaient que des indices parmi d’autres indices qui ont soulevé des doutes quant à la fiabilité des livres, des registres comptables et des états financiers. La décision du ministre de recourir à la méthode de vérification alternative reposait sur plusieurs indices.
+[54] En l’espèce, le ministre a établi la cotisation en se servant du nombre de litres de bière et de vin achetés par l’appelante durant les périodes en litige. Il n’y a pas de contestation quant au nombre de litres de bière et de vin achetés, l’appelante ayant admis ces données. À partir des ventes enregistrées dans le système de vente « Veloce », le ministre a procédé à l’établissement du ratio que génère chaque litre de bière et de vin vendu. À partir de ces données, les fournitures taxables de l’appelante ont été reconstituées. Tel que l’a décrit le juge Favreau au paragraphe 37 de ses motifs du jugement dans 9120-1616 Québec Inc c La Reine, 2014 CCI 4, cette méthode de vérification a été entérinée par plusieurs décisions de notre Cour :
+[…] La méthode indirecte de vérification utilisée par le ministre a été entérinée par plusieurs décisions de notre Cour, dont celles rendues dans 9100-8649 Québec Inc. c. La Reine, 2013 CCI 160 (en appel à la Cour d’appel fédérale), Restaurant Place Romaine Inc. c. La Reine, 2010 CCI 347 et 9110-1568 Québec Inc. c. La Reine, 2009 CCI 554, […].
+iii) Est-ce que le ministre a correctement établi une cotisation à l’encontre de l’appelante en ajoutant dans son calcul de la taxe nette un montant de 14 189,91 $ à titre de TPS que l’appelante n’aurait pas comptabilisée et remise au receveur général?
+[55] L’appelante n’a pas contesté la fiabilité de la méthode de vérification alternative utilisée par le ministre. Ainsi, la seule possibilité pour l’appelante est de contester le pourcentage qui lui a été attribué en ce qui a trait aux « gratuités et pertes », lesquelles ont pour effet de diminuer les ventes.
+[56] L’appelante a fait témoigner plusieurs personnes qui ont travaillé pour elle durant les périodes en litige. Ces dernières ont indiqué que, sous l’actionnaire M. Drummond, tout ce qui se vendait devait être entré dans les systèmes de vente. Si, à la fin d’un quart de travail, les inventaires ne balançaient pas avec les ventes, le serveur ou la serveuse devait débourser la différence.
+[57] M. Drummond a, pour sa part, indiqué qu’il n’était pas sur place, car il travaillait comme huissier; il était donc important pour lui de mettre en œuvre un système pour le protéger contre les vols. Il a témoigné que ses directives étaient claires : un repas ne pouvait sortir de la cuisine sans reçu et la boisson ne coulait pas si elle n’était pas entrée dans le système « Veloce ». De plus, selon son estimation 80 % des factures étaient payées par Visa ou par carte bancaire[6].
+[58] Les témoins ont aussi indiqué que la compétition était féroce et que, pour attirer des clients, l’appelante avait mis en œuvre plusieurs promotions, par exemple, des rabais pour des personnes qui travaillaient dans les centres de ski, des « deux pour un » pour des équipes de hockey et de rugby, des promotions avant et après les spectacles du Chapiteau Bromont et des activités spéciales afin d’attirer la clientèle. Selon ces témoignages, l’appelante devait être généreuse en ce qui concerne les « gratuités et pertes » afin d’attirer une clientèle.
+[59] L’intimée a déposé en preuve un rapport émanant de « Veloce » pour la période du 1er octobre 2006 au 30 septembre 2007, qui indique ce qui est inclus dans le système « Veloce »[7] :
+1.
+GRATIFICATION
+12 840,53 $
+2.
+ITEM GRATUIT
+1 709,60 $
+3.
+ESC. EMPLOYE
+5 515,15 $
+4.
+ESCOMPTE 10%
+534,32 $
+8.
+menhir
+59,10 $
+[60] À la suite de rencontres avec l’appelante, l’ARQ a accordé un pourcentage additionnel de 5 % pour les « gratuités et pertes ». Ce 5 % s’ajoute à ce qui était déjà entré dans le système « Veloce ». Selon madame Gendron, le pourcentage des « gratuités et pertes » et autres dans « Veloce » était de l’ordre de 3,9 %.
+[61] Lors de l’audience, l’appelante n’a pas indiqué pourquoi les feuilles de contrôle d’inventaire sur lesquelles étaient inscrites les « gratuités et pertes » et visant les périodes en litige n’ont pas été déposées en preuve.
+[62] Aucun des témoins n’a été capable de dire quel était le pourcentage des « gratuités et pertes », durant les périodes en litige, sauf pour dire que plusieurs « gratuités » étaient offertes aux clients de l’appelante.
+[63] Par conséquent, sans aucune preuve, je ne peux augmenter le pourcentage des « gratuités et pertes ».
+[64] Par conséquent, compte tenu de la concession de l’intimée, l’appel est accueilli afin que le montant de 1 147,17 $ soit retranché du montant que l’appelante devait percevoir à titre de TPS pour les périodes comprises entre le 1er octobre 2007 et le 31 mars 2008. À tout autre égard, l’appel est rejeté et les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 10e jour de septembre 2015.
+« Johanne D’Auray »
+Juge D’Auray
+RÉFÉRENCE :
+2015 CCI 220
+Nº DU DOSSIER DE LA COUR :
+2010-699(GST)G
+INTITULÉ DE LA CAUSE :
+9103-4348 QUÉBEC INC c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Granby (Québec)
+DATE DE L’AUDIENCE :
+Les 12 et 13 février 2014 et le 30 mars 2015
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 10 septembre 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Robert Jodoin
+Avocates de l’intimée :
+Me Claudine Alcindor
+Me Catherine-A. Boisvert
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante:
+Nom :
+Me Robert Jodoin
+Cabinet :
+Jodoin Lagüe
+Société d’avocats s.e.n.c.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Madame Gendron a indiqué que vers 1998 ou 1999, alors qu’elle était à l’emploi de l’ARQ, elle a commencé à effectuer des vérifications dans le secteur de la restauration. Par la suite, elle a donné de la formation pour les vérificateurs dans ce secteur, à Montréal et Québec. En 2008, madame Gendron a obtenu un poste à titre de gestionnaire. À ce titre, elle avait sous sa supervision, entre autres, une équipe de vérification dans le secteur de la restauration au bureau de Sherbrooke.
+[2] Certains des critères qui ont été utilisés pour procéder à une méthode de vérification alternative ont aussi été utilisés pour déterminer si l’ARQ effectuerait une vérification de l’appelante.
+[3] Lors de l’audience, il a été établi que la vérificatrice s’est servie des données de l’appelante et non pas de la SAQ pour déterminer les achats de bouteilles de vin.
+[4] R c Khelawon, 2006 CSC 57, [2006] 2 RCS 787.
+[5] Voir la pièce A-1.
+[6] Selon la pièce I-2, le 4 décembre 2008, 77 % des factures étaient payées par des cartes de débit ou des cartes de crédit, le 5 décembre, le pourcentage était de 65 %, le 10 décembre, 80 % à 0 :48 et 92 % à 3 :47, le 18 décembre, 45 % et le 19 décembre, 47 %.
+[7] Voir la pièce I-1.

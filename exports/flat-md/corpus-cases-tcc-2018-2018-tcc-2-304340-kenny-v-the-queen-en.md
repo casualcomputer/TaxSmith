@@ -1,0 +1,186 @@
+---
+title: "Kenny v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304340/index.do"
+last_modified: "2018-01-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 2"
+citation2: ""
+neutral_citation: "2018 TCC 2"
+decision_date: "2018-01-02"
+language: "en"
+item_id: "304340"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7905
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:56:23.374000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c30197e0129629764dd9926b2c2bc01d5641f7d3e378908c51fdc7d5dd7be3da"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kenny v. The Queen
+
+- Citation: 2018 TCC 2
+- Decision date: 2018-01-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7905, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kenny v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-02
+Neutral citation
+2018 TCC 2
+File numbers
+2017-348(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-348(IT)I
+BETWEEN:
+TREVOR KENNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on December 15, 2017, at Calgary, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+John Sutherland
+Counsel for the Respondent:
+E. Ian Wiebe
+JUDGMENT
+The Appeal from the assessment made under the Income Tax Act with respect to the 2014 taxation year is dismissed.
+Signed at Ottawa, Canada, this 2nd day of January 2018.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2018 TCC 2
+Date: 20180102
+Docket: 2017-348(IT)I
+BETWEEN:
+TREVOR KENNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Kenny appeals by way of the informal procedure the confirmation of the assessment by the Minister of National Revenue (the “Minister”) of Mr. Kenny’s 2014 taxation year. The Minister relied on section 118.94 of the Income Tax Act (the “Act”) to deny Mr. Kenny, a resident of Ireland in 2014, entitlement to certain non-refundable tax credits.
+[2] In 2014, Mr. Kenny, both an Irish National and an Irish resident, worked in Fort McMurray, Canada for a few weeks earning employment income from Kentz Canada TSS Limited in the amount of $32,728.52. Other than the few weeks in Canada, Mr. Kenny resided in Ireland, and due to illness, he received the following payments from the Government of Ireland:
+Jobseekers allowance $1,597.02 €
+Child benefit $1,560.00 €
+Basic supplement welfare $8,077.10 €
+Rent supplement $4,384.50 €
+Back to school C and F $100.00 €
+Overpayment deduction $40.00 €
+Total amount paid: $15,678.80 €
+There was no disagreement that this converted to $23,002.37 Cdn.
+[3] Mr. Kenny testified that he was not required to file a return in Ireland reporting these amounts. He acknowledged that all but the child benefit were social assistance payments provided on a means-tested basis.
+[4] In filing a Canadian return, Mr. Kenny reported the employment income but not the Irish Social Assistance payments. He claimed tax credits for the following:
+Basic personal amount $11,138.00
+Amount for an eligible dependant $11,138.00
+Amount for children born in 1997 or later $2,255.00
+CPP or QPP contributions $1,446.00
+Employment insurance premiums $613.00
+Canada employment amount $1,127.00
+Children’s fitness amount $500.00
+Children’s arts amount $500.00
+Total $28,717.00
+I note that the eligible dependant involved was Mr. Kenny’s son who was born after 1997.
+[5] The Minister assessed Mr. Kenny reducing the credits from $28,717 to $2,559, on the basis Mr. Kenny could not claim the credits due to the application of section 118.94 of the Act, which reads:
+Sections 118 to 118.07 and 118.2, subsections 118.3(2) and (3) and sections 118.8 and 118.9 do not apply for the purpose of computing the tax payable under this Part for a taxation year by an individual who at no time in the year is resident in Canada unless all or substantially all the individual’s income for the year is included in computing the individual’s taxable income earned in Canada for the year.
+[6] To be clear at the outset, I am satisfied the Canada-Ireland Tax Treaty (the “Treaty”) does not preclude the Minister from denying these credits as subsection 24(3) of the Treaty reads:
+Nothing contained in this Article shall be construed as obliging a Contracting State to grant to a resident of the other Contracting State any exemptions, allowances, reliefs and reductions for tax purposes which it grants to its own residents.
+[7] Mr. Kenny’s counsel suggested subsection 24(1) of the Treaty precluded such treatment, as well as precluded the application of a surplus tax (though this latter item was not raised in Mr. Kenny’s Notice of Appeal). Subsection 24(1) of the Treaty reads:
+Non-Discrimination
+1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected.
+[8] I read this provision as applying to nationals, not residents, to ensure that a Canadian citizen residing in Ireland and receiving the same payments (employment from Canada and social assistance from Ireland) as Mr. Kenny would not be treated any differently. I do not find subsection 24(1) of the Treaty assists Mr. Kenny in this regard.
+[9] Turning then to the crux of the matter, was all or substantially all of Mr. Kenny’s income for the year included in computing his taxable income earned in Canada? Mr. Kenny’s counsel argued that because Mr. Kenny did not have to report the social assistance payments as income in Ireland, they should not be considered income for purposes of section 118.94 of the Act. He was unable to provide any authority for such a proposition.
+[10] In determining whether or not the social assistance payments constitute income for the purposes of the application of section 118.94 of the Act, a starting point is section 3 of the Act which details the rules for determining the income of a taxpayer (the definition of taxpayer under subsection 248(1) of the Act includes any person whether or not liable to pay tax). Subsection 3(a) of the Act reads:
+determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+[11] I then turn to paragraph 56(1)(u) which includes in income:
+a social assistance payment made on the basis of a means, needs or income test and received in the year by
+(i) the taxpayer, other than a married taxpayer or a taxpayer who is in a common-law partnership who resided with the taxpayer’s spouse or common-law partner at the time the payment was received and whose income for the year is less than the spouse’s or common-law partner’s income for the year, or
+(ii) the taxpayer’s spouse or common-law partner, if the taxpayer resided with the spouse or common-law partner at the time the payment was received and if the spouse’s or common-law partners income for the year is less than the taxpayer’s income for the year,
+except to the extent that the payment is otherwise required to be included in computing the income for a taxation year of the taxpayer or the taxpayer’s spouse or common-law partner;
+[12] I conclude that the payments received by the taxpayer, Mr. Kenny, from the Irish government, other than the child benefit, fall squarely into this category as social assistance payments. Had Mr. Kenny reported the social assistance payments on his Canadian return, he could have relied on paragraph 110(1)(f) of the Act to deduct them out in computing taxable income. That provision goes to the determination of taxable income but does not in any way remove these payments from “income”. I am unable to find anything in the legislation that provides that these foreign social assistance payments do not constitute income.
+[13] So, I turn to some of the case law to which counsel referred me. In the case of Fang v R,[1] which dealt with a foreign retirement arrangement, I distinguish between a social assistance payment caught under paragraph 56(1)(u) of the Act and a foreign retirement arrangement under subparagraph 56.1(i)(c.1). This latter provision was not raised by Mr. Kenny, but I find it is inapplicable in any event. The payments described by Mr. Kenny do not reflect a foreign retirement arrangement but rather reflect means-tested social assistance payments.
+[14] In the case of Luscher v R,[2] Wyman J addressed the applicability of section 118.94 of the Act as follows:
+6. In my opinion neither position is correct in relation to the determination of the Appellant’s income for 2008. The Act is divided into several Parts. In this case Part I is the relevant Part. This Part is divided into various Divisions including:
+Division A – Liability for Tax (section 2)
+Division B – Computation of Income (sections 3 to 108)
+Division C – Computation of Taxable Income (sections 109 to 114.2)
+Division D – Taxable Income Earned in Canada by Non-Residents (sections 115 to116)
+Division E – Computation of Tax (sections 117 to 127.41)
+7. Section 118.94 of the Act requires two calculations – one is the person’s income for the year and the second is the person’s taxable income earned in Canada for the year. Once these two amounts are known, it is then necessary to determine whether all or substantially all of the Appellant’s income for 2008 was included in computing his taxable income earned in Canada for 2008. To determine this it will be necessary to determine what amounts are included in the Appellant’s income for 2008 and also included in computing the Appellant’s taxable income earned in Canada for 2008.
+8. The first question is, therefore, what is the Appellant’s income for 2008? Since Division B of the Act addresses the computation of income it would seem to me that this is the Division that should be reviewed to determine the Appellant’s income for 2008.
+…
+10. Section 3 provides the general rules for the determination of income from various sources, and in particular the general rules related to the amount that is to be included in income for taxable capital gains and allowable capital losses. The opening part of section 3 of the Act provides that a person’s income for the purposes of Part I of the Act is to be determined in accordance with the rules as set out in this section. Since section 118.94 of the Act is within Part I of the Act, the rules for determining income, as set out in section 3 of the Act, apply in determining income for the purposes of section 118.94 of the Act.
+…
+12. Therefore, for the first calculation that is required for the purposes of section 118.94 of the Act, it is necessary to determine the Appellant’s income for 2008, as it would be determined for the purposes of Part I of the Act, regardless of where the income was earned. It is clear in paragraph 3(b) of the Act that, with respect to the dispositions of capital properties, the amount to be included in income (in relation to the taxable capital gains or allowable capital losses realized on the dispositions of such capital properties) is the amount, if any, by which the Appellant’s taxable capital gains realized during the year exceed his allowable capital losses for the year.
+[15] This is entirely in line with how Mr. Kenny’s Irish social assistance payments fall into income for purposes of Division B of the Act.
+[16] Having concluded that the Irish social assistance payments form part of Mr. Kenny’s income (again, other than the child benefit) it is then necessary to determine if all or substantially all of his income was included in computing his taxable income earned in Canada. Subsection 115(1) of the Act sets out a non-resident’s taxable income earned in Canada. It reads:
+115(1)(i) incomes from the duties of offices and employments performed by the non-resident person in Canada and, if the person was resident in Canada at the time the person performed the duties, outside Canada,
+[17] Clearly, Mr. Kenny’s taxable income earned in Canada is $32,728, yet his overall income is that amount plus the social assistance payments (less the amount of the child benefit). A rough calculation suggests the taxable income earned in Canada represents approximately 60% of Mr. Kenny’s total income. Administratively, the Canada Revenue Agency has used an arbitrary 90% ratio to determine what is meant by substantially all. In the case of Watts v R,[3] Bowman J indicated:
+33. There are many cases in this Court that have considered the meaning of "all or substantially all". They consistently comment on the elasticity and ambiguity of the expression and on the inadvisability of using an arbitrary percentage, such as 90%. For example, Rip J. in McDonald v. The Queen, 98 DTC 2151 stated at p. 2154.
+[18] Indeed, cases have relied on percentages as low as 76% to be considered substantially all. In Mr. Kenny’s case, I would be stretching “substantially all” beyond any measure of elasticity if I concluded that 60% represented “substantially all”. It certainly reflects a majority but that is not the same as substantially all.
+[19] I conclude Mr. Kenny has been caught by the application of section 118.94 of the Act and is not entitled to tax credits beyond what the Minister has allowed. The Appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of January 2018.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2018 TCC 2
+COURT FILE NO.:
+2017-348(IT)I
+STYLE OF CAUSE:
+TREVOR KENNY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+December 15, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+January 2, 2018
+APPEARANCES:
+Counsel for the Appellant:
+John Sutherland
+Counsel for the Respondent:
+E. Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John Sutherland
+Firm:
+MacLeod Trail Business Services
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2016 TCC 166.
+[2] 2012 TCC 151.
+[3] 2004 TCC 535.

@@ -1,0 +1,113 @@
+Title: Carrière c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26188/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-289-26188-carri-re-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-06-05
+
+# Carrière c. La Reine
+
+- Citation: 2006 CCI 289
+- Decision date: 2006-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3920, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrière c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-05
+Référence neutre
+2006 CCI 289
+Numéro de dossier
+2003-609(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-609(IT)I
+ENTRE :
+LINDA CARRIÈRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 mai 2006 à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Antoine Gérin
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté selon la procédure informelle à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu portant le numéro 18621 et datée du 10 décembre 2001 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de juin 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI289
+Date : 20060605
+Dossier : 2003-609(IT)I
+ENTRE :
+LINDA CARRIÈRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelante conteste une cotisation d'une somme de 11 550,39 $ établie par le ministre du Revenu national (le « ministre » ) en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ) et datée du 10 décembre 2001. La cotisation se rapporte au transfert à l'appelante par son conjoint, monsieur René Messier, le 10 mars 1995, d'un bien-fonds situé au 294, rue Caravelle, à Fleurimont (Québec) (le « bien-fonds » ). Au moment du transfert, monsieur Messier avait une dette fiscale de 11 550,39 $ aux termes de la Loi.
+[2] Les parties s'entendent sur les faits suivants :
+i) l'appelante et monsieur Messier se sont mariés sous le régime de la société d'acquêts le 12 mai 1983;
+ii) le 14 mai 1985, monsieur Messier a acquis le bien-fonds;
+iii) l'appelante et monsieur Messier ont cessé de faire vie commune en octobre 1994;
+iv) la juste valeur marchande du bien-fonds le 10 mars 1995 était de 84 400 $;
+v) Au moment du transfert du bien-fonds, monsieur Messier devait un montant de 5 283,61 $ en impôt et en pénalité en vertu de la Loi;
+vi) Au moment de l'établissement de la cotisation sous appel le 10 décembre 2001, les intérêts accumulés sur la dette fiscale de 5 283,61 $ s'élevaient à un montant de 6 266,78 $ pour une dette fiscale totale de 11 550,39 $;
+vii) le 24 mars 2005, un jugement de divorce entre l'appelante et monsieur Messier a été prononcé par l'honorable Suzanne Mireault, J.C.S., qui entérinait la convention sur mesures accessoires intervenue entre eux.
+[3] La seule question en litige est la suivante : est-ce que le bien-fonds a été transféré par monsieur Messier à l'appelante en vertu d'une ordonnance ou d'un jugement d'un tribunal compétent ou en vertu d'un accord écrit de séparation au sens du paragraphe 160(4) de la Loi?
+[4] Il convient de souligner que personne n'a témoigné à l'appui de la position de l'intimée et de l'appelante.
+[5] L'avocat de l'appelante a déposé en preuve l'acte de donation (pièce A-1) en vertu duquel le bien-fonds a été transféré à titre gratuit par monsieur Messier à l'appelante. Sous la rubrique « ÉTAT CIVIL ET RÉGIME MATRIMONIAL » , il est fait mention que l'appelante et monsieur Messier sont séparés de fait depuis octobre 1994. L'avocat de l'appelante a soutenu que cette mention à l'acte de donation constituait en soi un accord écrit de séparation aux termes desquels le bien-fonds avait été transféré. L'avocat de l'appelante a prétendu que, puisque le bien-fonds avait été transféré aux termes d'un accord écrit de séparation et que les parties vivaient séparées au moment du transfert, l'appelante était en droit de bénéficier de la règle d'exception prévue au paragraphe 160(4) de la Loi et qu'ainsi l'appelante ne pouvait être tenue de payer au ministre la somme de 11 550,39 $ conformément au paragraphe 160(1) de la Loi.
+[6] Somme toute, la seule question à laquelle je dois répondre est la suivante : est-ce que la seule mention à l'acte de donation selon laquelle l'appelante et monsieur Messier vivaient séparés depuis octobre 1994 peut constituer en soi un accord écrit de séparation au sens du paragraphe 160(4) de la Loi? À mon avis, ce n'est pas parce que les parties vivaient séparées que l'on peut interpréter l'acte de donation comme constituant un accord écrit de séparation et lui attribuer cette caractéristique qu'il ne comporte manifestement pas selon son libellé même. Je ne vois absolument pas comment cette simple mention à l'acte de donation peut constituer un transfert de biens aux termes d'un accord écrit de séparation. Les prétentions de l'avocat de l'appelante ne sont tout simplement pas étayées par les faits. À mon avis, un accord écrit de séparation doit comprendre, de façon générale, des dispositions écrites concernant la garde et l'entretien des enfants, la pension alimentaire et le partage des biens qui sont prises par un couple qui est habituellement sur le point d'obtenir un divorce ou une séparation légale. L'acte de donation en vertu duquel le bien-fonds a été transféré ne contient aucune disposition écrite concernant ces faits.
+[7] Je conclus que le transfert du bien-fonds n'a pas été fait en vertu d'un accord écrit de séparation mais bien en vertu d'un acte de donation pur et simple. Par conséquent, l'appelante ne pouvait invoquer l'exception prévue au paragraphe 160(4) de la Loi.
+[8] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 5e jour de juin 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI289
+No DU DOSSIER DE LA COUR :
+2003-609(IT)I
+INTITULÉ DE LA CAUSE :
+Linda Carrière et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 17 mai 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 5 juin 2006
+COMPARUTIONS :
+Pour l'appelante :
+Me Antoine Gérin
+Pour l'intimée :
+Me Benoit Mandeville
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Antoine Gérin
+Étude :
+Gérin, Leblanc et Associés
+Sherbrooke (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

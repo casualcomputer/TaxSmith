@@ -1,0 +1,299 @@
+Title: Homa v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28519/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-113-28519-homa-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-02-27
+
+# Homa v. The Queen
+
+- Citation: 2008 TCC 113
+- Decision date: 2008-02-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1248, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Homa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-27
+Neutral citation
+2008 TCC 113
+File numbers
+2006-1065(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1065(IT)G
+BETWEEN:
+DAVID HOMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 30, 2007, at Ottawa, Ontario,
+and written representations submitted subsequently.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédérick Morand
+____________________________________________________________________
+ORDER
+Upon motion by the appellant asking this Court to direct the respondent to answer by way of an affidavit a question on written examination for discovery;
+The motion is granted but only to the extent suggested in paragraph 28 of the respondent’s written representations, which reads as follows:
+Accordingly, the Respondent undertakes to answer, on a best efforts basis, the Appellant’s questions to the extent that they are relevant, namely to provide CRA’s position on the issue of “medical practitioner” with respect to:
+a) Naturopaths practicing in the province of Ontario (see subparagraphs 17 a) ii) and v) of the Reply to the Notice of Appeal);
+b) Physiotherapists practicing in the province of Ontario (see subparagraph 17 a) vi) of the Reply to the Notice of Appeal);
+c) Osteopaths practicing in the province of Ontario (see subparagraph 17 a) iii) of the Reply to the Notice of Appeal);
+d) Naturopaths practicing in the province of Quebec (see subparagraph 17 a) ii) of the Reply to the Notice of Appeal).
+Costs will be in the cause.
+Signed at Ottawa, Canada, this 27th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2008TCC113
+Date: 20080227
+Docket: 2006-1065(IT)G
+BETWEEN:
+DAVID HOMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Lamarre J.
+[1] The appellant presented a motion asking this Court to direct the respondent to answer by way of an affidavit in Form 114 of the Tax Court of Canada Rules (General Procedure) ("Rules"), a question on written examination for discovery.
+[2] The question relates to who, for the purposes of the medical expense credit in section 118.2 of the Income Tax Act, as amended ("ITA"), is considered by the Canada Revenue Agency ("CRA") to be a medical practitioner within the definition in subsection 118.4(2) of the ITA. More particularly, the appellant refers to "medical practitioners" as listed in paragraph 3 of the income tax Interpretation Bulletin IT‑519R2 (concerning, among other things, medical expenses) under the general heading "References to Medical Professionals". Paragraph 3 of that bulletin reads as follows:
+References to Medical Professionals
+. . .
+3. For purposes of the medical expense and disability tax credits under sections 118.2 and 118.3, subsection 118.4(2) provides that a reference to a medical practitioner, dentist, pharmacist, nurse or optometrist means a person who is authorized to practice as such according to the following laws:
+(a) for a service rendered to an individual, the laws of the jurisdiction in which the service is rendered;
+(b) for a certificate issued for an individual, the laws of the jurisdiction in which the individual resides or of a province; and
+(c) for a prescription issued to an individual, the laws of the jurisdiction in which the individual resides, of a province or of the jurisdiction in which the prescription is filled.
+Medical practitioners authorized to practice in accordance with the above laws can include (depending on the applicable province or jurisdiction, as the case may be) the following:
+(i) an osteopath;
+(ii) a chiropractor;
+(iii) a naturopath;
+(iv) a therapeutist (or therapist);
+(v) a physiotherapist;
+(vi) a chiropodist (or podiatrist);
+(vii) a Christian Science practitioner;
+(viii) a psychoanalyst who is a member of the Canadian Institute of Psychoanalysis or a member of the Quebec Association of Jungian Psychoanalysts;
+(ix) a psychologist;
+(x) a qualified speech-language pathologist or audiologist such as, for example, a person who is certified as such by The Canadian Association of Speech-Language Pathologists and Audiologists (CASLPA) or a provincial affiliate of that organization;
+(xi) an occupational therapist who is a member of the Canadian Association of Occupational Therapists;
+(xii) an acupuncturist;
+(xiii) a dietician; and
+(xiv) a dental hygienist.
+Additionally, a "nurse" includes a practical nurse whose full-time occupation is nursing as well as a Christian Science nurse authorized to practice according to the relevant laws referred to in subsection 118.4(2).
+[3] More precisely, the appellant asks the following questions:
+1. For an osteopath practising in Ontario:
+a) does the CRA consider the medical practitioner to be authorized?
+b) does the CRA allow the medical expense?
+c) if the response to (a) is "no" and the response to (b) is "yes" why is it allowed?
+2. Same as (1) but for every province and jurisdiction namely:
+− Alberta
+− British Columbia
+− Manitoba
+− New Brunswick
+− Nova Scotia
+− Ontario
+− Prince Edward Island
+− Québec
+− Saskatchewan
+− Newfoundland
+− N.W.T.
+− Nunavit [sic]
+− Yukon
+3. Same as (1) and (2) but for all the medical practitioners listed in IT‑519R2:
+− Osteopath;
+− Chiropractor;
+− Naturopath;
+− Therapeutist;
+− Therapist;
+− Physiotherapist;
+− Chiropodist;
+− Podiatrist;
+− Christian Science practitioner;
+− Psychoanalyst who is a member of the Canadian Institute of Psychoanalysis or a member of the Quebec Association of Jungian Psychoanalysts;
+− Psychologist;
+− Qualified speech‑language pathologist or audiologist such as, for example, a person who is certified as such by The Canadian Association of Speech‑Language Pathologists and Audiologists (CASLPA) or a provincial affiliate of that organization;
+− Occupational therapist who is a member of the Canadian Association of Occupational Therapists;
+− Acupuncturist;
+− Dietician;
+− Dental hygienist;
+− Practical nurse
+[4] In paragraph 37 of his Amended Notice of Appeal, the appellant raises the matter of inconsistencies between IT‑519R2 and the ITA, as follows:
+37. The Appellant submits that IT‑519R2, an Administrative Interpretation of the Medical Expense and Disability Tax Credits published by the Minister, contains errors and inconsistencies which create absurdities:
+(a) An example of an error is that IT‑519R2 states that a nurse includes a practical nurse whereas the Act only allows a registered nurse. During the parliamentary debate on July 21, 1942 this was confirmed by the Hon. James Ilsley, Minister of Finance, who said, "We cannot let in the practical nurse, because anybody could qualify.”
+(b) An example of an inconsistency is that whereas IT‑519R2 allows the title of medical practitioner to be conferred on certain practitioners who are not medical doctors, it fails to keep a balance between what the Act allows and what IT‑519R2 allows. One example is that the Act allows both the cost of a doctor and the medication prescribed whereas IT‑519R2 may allow the cost of the practitioner but not the cost of the medication prescribed.
+[5] The appellant feels that the question posed in the present motion is important because of the above‑stated allegation that IT‑519R2 contains errors and inconsistencies which create absurdities, and he expects that the answer to the question will show this to be true.
+[6] The respondent refuses to answer the question for all seventeen practitioners for each of the thirteen provinces and territories. The respondent's position is the following, as stated in her written representations:
+16. In support of its [sic] refusal to answer questions for all eighteen [sic] practitioners for each of the thirteen provinces and territories, the Respondent refers to the following passage from Chief Justice Bowman's reasons in Baxter v. Her Majesty the Queen, 2004 D.T.C. 3947 [my underline]:
+14. I turn then to the specific questions in issue. The numbers correspond to those in the list. Quite frankly, I personally do not think that it would affect the outcome of the case if none of the questions were answered. Similarly, if they were answered, the outcome would not be affected by what the answer was. Nonetheless, I shall endeavour to draw a line between questions that are clearly irrelevant and those that a trial judge might arguably be asked by counsel to consider of some possible relevance in the context of all the evidence. I asked counsel for the appellant why, if the questions are as irrelevant as he contends, he does not simply let his witness answer. The objection gives to the question the appearance of importance that it might not otherwise have.
+17. As stated above by Justice Campbell in General Motors of Canada Ltd. [v. Her Majesty the Queen, [2006] G.S.T.C. 40], “discoveries should never become general fishing expeditions”.
+18. Accordingly, the Respondent submits that the Appellant’s statement that the questions are “important to [him] because of the allegations he makes in the Annex of the Notice of Appeal, paragraph 37, that IT-519R2 contains errors and inconsistencies which create absurdities and he expects that the answer to the question will show this to be true”, is not sufficient in itself to justify his current request.
+19. For the sake of argument, the Respondent acknowledges the existence of inconsistencies between each province and territory with respect to the issue of which health practitioner might be recognized as a “medical practitioner”.
+20. That being said, the Respondent submits that the situation is due to the fact that the actual determination for each health profession is left to the legislative bodies of the respective province and territory.
+21. CRA’s determination of whether a taxpayer is entitled to claim a medical expense tax credit under section 118.2 of the Income Tax Act is therefore dependant [sic] upon the laws of the jurisdiction in which the service is rendered.
+22. This situation is confirmed by paragraph 118.4(2)(a) of the Income Tax Act which provides [my underline]:
+(2) For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech-language pathologist is a reference to a person authorized to practice as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+23. Accordingly, the Respondent submits that CRA’s general views found at paragraph 3 of Interpretation Bulletin IT-519R2 (Consolidated), Medical Expense and Disability Tax Credits and Attendant Care Expense Deduction are simply a reflection of the statutory framework established at paragraph 118.4(2)(a) of the Income Tax Act.
+24. It should be noted that IT-519R2 (Consolidated) is not law and does not define the term “medical practitioner”. Instead, it refers to the proper source for this determination.
+[7] In the conclusion to her written representations, the respondent states the following:
+CONCLUSION
+25. In light of the jurisprudence mentioned above, the Respondent agrees to provide the Appellant with CRA’s position with respect to the issue of “medical practitioner” as it relates only to naturopaths, physiotherapists and osteopaths practicing in the province of Ontario, as well as naturopaths practicing in the province of Quebec.
+26. While the Respondent maintains that such information can be obtained by consulting the relevant legislative statutes and regulations for the provinces of Ontario and Quebec, it [sic] nevertheless agrees to provide it on the basis that:
+"It is in the interest of justice that each party should be as well informed as possible about the positions of the other parties and should not be put at a disadvantage by being taken by surprise at trial."2
+27. It is the Respondent’s position that the Appellant’s questions, as they relate to additional health practitioners rendering services in any of the other provinces or territories, need not be answered on the basis that they are irrelevant to the scope of the Appellant’s appeal.
+28. Accordingly, the Respondent undertakes to answer, on a best efforts basis, the Appellant’s questions to the extent that they are relevant, namely to provide CRA’s position on the issue of “medical practitioner” with respect to:
+a) Naturopaths practicing in the province of Ontario (see subparagraphs 17 a) ii) and v) of the Reply to the Notice of Appeal);
+b) Physiotherapists practicing in the province of Ontario (see subparagraph 17 a) vi) of the Reply to the Notice of Appeal);
+c) Osteopaths practicing in the province of Ontario (see subparagraph 17 a) iii) of the Reply to the Notice of Appeal);
+d) Naturopaths practicing in the province of Quebec (see subparagraph17 a) ii) of the Reply to the Notice of Appeal).
+2 This principle was confirmed by Justice Woods in [Mil (Investments) S.A. v. Her Majesty the Queen, 2006 TCC 208, at paragraph 12.]
+[8] The appellant was reassessed for his 2003, 2004 and 2005 taxation years and his claims for the medical expense tax credit were disallowed. Those medical expenses that were disallowed for tax credit purposes are described in paragraph 17 of the Reply to the Second Amended Notice of Appeal ("Reply") as follows:
+a) The Disallowed Expenses consist of amounts paid by the Appellant:
+i) for items for himself and his wife Anne Tompkins (“Tompkins”) such as food, vitamins, herbs, minerals, digestive aids, supplements derived from plants, hot water bottle and orthotics (collectively, the “Products”),
+ii) for services rendered to the Appellant and Tompkins in either the province of Ontario or the province of Québec by Judith Spence, a naturopath at the NAET Clinic of Ottawa,
+iii) for services rendered to the Appellant and Tompkins in the province of Ontario by Sylvain Dagenais, an osteopath,
+iv) for services rendered to the Appellant and Tompkins in the province of Québec by a naturopath at [sic] the Ordre des Naturothérapeutes du Québec,
+v) for services rendered to the Appellant and Tompkins in the province of Ontario by Ramila Padiachy, a naturopath at Ramila’s Natural Alternatives and/or Ramila’s Healing Arts Clinic,
+vi) for services rendered to the Appellant in the province of Ontario by a physiotherapist at the Ottawa & District Physiotherapy Clinic (items (ii) to (vi) are collectively referred to as the “Services”),
+vii) to the City of Ottawa for fitness classes taken by the Appellant, and
+viii) for dental services rendered to the Appellant and Tompkins, for which the Appellant was reimbursed by his insurer, Sun Life Assurance Company of Canada.
+[9] In disallowing the tax credit for medical expenses, the Minister of National Revenue ("Minister") relied on the following assumptions, which are set out in paragraphs 17b) et seq. of the Reply:
+The Products
+b) The Products were not prescribed by a medical practitioner as defined in paragraph 118.4(2) of the Income Tax Act (the “ITA”);
+c) The Products were not recorded by pharmacists;
+The Services
+d) The province of Ontario does not license or authorize osteopaths to practice as medical practitioners;
+e) Judith Spence is not licensed to practice naturopathy in the province of Ontario;
+f) Ramila Padiachy is not licensed to practice as a medical practitioner in the province of Ontario;
+g) The province of Ontario does not license or authorize physiotherapists to practice as medical practitioners;
+h) The province of Québec does not license or authorize naturopaths to practice as medical practitioners;
+The Fitness Classes
+i) The amounts paid by the Appellant for fitness classes are not a medical expense as defined in subsection 118.2(2) of the ITA;
+Amounts Reimbursed by Insurer
+j) During 2003, 2004 and 2005, the Appellant had dental coverage under Sun Life Assurance Company of Canada policy 25555; and
+k) In 2003, 2004 and 2005, the Appellant paid amounts to a dentist, for which he was partially reimbursed by Sun Life Assurance Company of Canada.
+[10] The statutory provisions relied upon by the respondent are paragraphs 118.2(2)(a) and (n) and subsection 118.4(2) of the ITA, which read as follows:
+118.2(2) Medical expenses – For the purposes of subsection (1), a medical expense of an individual is an amount paid
+118.2(2) Frais médicaux – Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés:
+(a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the "patient") who is the individual, the individual's spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l'année d'imposition où les frais ont été engagés;
+. . .
+. . .
+(n) for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances − sauf s'ils sont déjà visés à l'alinéa k) − qui sont, d'une part, fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d'une maladie, d'une affection, d'un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d'autre part, achetés afin d'être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a), sur ordonnance d'un médecin ou d'un dentiste, et enregistrés par un pharmacien;
+. . .
+. . .
+118.4(2) Reference to medical practitioners, etc. – For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+118.4(2) Professionnels de la santé titulaires d'un permis d'exercice – Tout audiologiste, dentiste, ergothérapeute, infirmier, infirmière, médecin, médecin en titre, optométriste, orthophoniste, pharmacien ou psychologue visé aux articles 63, 118.2, 118.3 et 118.6 doit être autorisé à exercer sa profession:
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+a) par la législation applicable là où il rend ses services, s'il est question de services;
+(b) where the reference is used in respect of a certificate issued by the person in respect of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides or of a province; and
+b) s'il doit délivrer une attestation concernant un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable;
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+c) s'il doit délivrer une ordonnance pour des biens à fournir à un particulier ou destinés à être utilisés par un particulier, soit par la législation applicable là où le particulier réside, soit par la législation provinciale applicable, soit enfin par la législation applicable là où les biens sont fournis.
+[11] In his appeals, the appellant raises the issue of whether paragraphs 118.2(2)(a) and (n) of the ITA, by requiring that amounts for medical services be paid to a medical practitioner, or by requiring that drugs, medicaments or other preparations or substances be prescribed by a medical practitioner and recorded by a pharmacist, violate his right under section 15 of the Canadian Charter of Rights and Freedoms ("Charter") to equal protection and equal benefit of the law without discrimination based on physical disability.
+[12] The appellant also relies on section 7 of the Charter and argues that the conditions laid down by paragraphs 118.2(2)(a) and (n) of the ITA also infringe on his right to life, liberty and security of the person. If there is any such infringement of the appellant’s rights under the Charter, the ultimate issue is whether the infringement represents a reasonable limit on those rights that is demonstrably justified in a free and democratic society pursuant to section 1 of the Charter.
+[13] In reply to the respondent’s written representations on the present motion, reproduced above, the appellant states the following:
+2. Interpretation Bulletin IT-519R2 discusses the sections of the Income Tax Act that deal with medical expenses as interpreted by the Canada Revenue Agency (CRA). Although the bulletin states it does not have the force of law, it nevertheless represents the way CRA administers the Act.
+3. The answer to the question for discovery is important to the Appellant because at his appeal hearing he wishes to use the answer as evidence to support the two arguments outlined in paragraphs 4 and 5 on the next page. He already has some knowledge of what the answer to the question for discovery will be because of a CRA internal document he has in his possession which is reproduced here on page 4. The Appellant will be unable to use this document, however, as evidence at his appeal hearing for the reasons given in paragraph 6.
+4. The first argument the Appellant wishes to make is that IT-519R2 is a source of errors and inconsistencies which create absurdities. The Respondent knows that the Appellant wishes to make this argument because it is outlined in the Appellant’s Notice of Appeal, paragraph 37.
+5. The other argument concerning IT-519R2 is that it abuses the Appellant’s section 15 Charter rights in that it allows some taxpayers to claim treatment and medication beneficial to them as a refundable tax credit whereas the Appellant, who is a taxpayer who cannot claim the same treatment and medication but can claim other vital treatment and medication, is denied this benefit because of his physical disability.
+6. Here are the reasons why the Appellant will be unable to make use of the CRA internal document on page 4 that he already has as the evidence he needs at his appeal hearing:
+- The document is not identified as a CRA document;
+- The document is not dated;
+- Therapeutist is missing from the list;
+- Physiotherapist should be listed by itself and not included with a physical therapist;
+- Christian Science Practitioner is missing from the list;
+- Psychoanalyst is missing from the list;
+- Language pathologist is missing from the list;
+- Therapist should be listed by itself.
+6. [sic] The Appellant wishes to ensure that there should be no misunderstanding concerning any of the three parts to the question for discovery.
+Part (a) asks whether CRA considers the medical practitioner to be authorized which is not the same as asking whether the medical practitioner is authorized. This difference seems to have been overlooked by the Respondent in the last paragraph, page 1 of his [sic] letter to the Appellant of April 3, 2007.
+Part (b) seeks to discover any unauthorized medical practitioners for which medical expenses are allowed and if so,
+Part (c) asks CRA to provide the reason why such medical expenses are allowed.
+7. The Appellant requests the Respondent to answer the question for discovery on a factually correct basis and not “on a best efforts basis” as stated in paragraph 28, page 9 of the Respondent’s Written Representation [sic]. The Appellant wishes to rest easy in the expectation that at his appeal hearing the Honourable Court will readily be able to accept the facts of the answer provided by the Respondent as adjudicative facts.
+8. On page 9 of the Respondent’s Written Representations, June 15, 2007, the Respondent’s position is that it [sic] need not answer the question for discovery for a medical practitioner and province combination (also known as an intersection) where no service was rendered to the Appellant because it would be “irrelevant to the scope of the Appellant’s appeal”.
+9. The Appellant’s position is that all the intersections are relevant because they provide the factual evidence that the Appellant needs to support the arguments he wishes to present to the Honourable Court at his appeal hearing.
+[14] It is therefore my understanding that the appellant wishes to ask his question in order to try to prove that Interpretation Bulletin IT‑519R2 abuses his Charter rights. He clearly states that what he wants to know is whether the CRA considers the medical practitioner to be authorized, which is not the same, he says, as asking whether the medical practitioner is authorized.
+[15] In other words, what the appellant wants to establish through his question on written examination for discovery is the administrative policy of the CRA rather than what is required by the ITA.
+[16] In my view, a parallel can be drawn with the situation in R. v. Sinclair, 2003 FCA 348, a case dealing with the application of section 87 of the ITA. The Federal Court of Appeal stated the following at paragraphs 7 and 8:
+[7] In our view, it is not open to the Tax Court to set aside a tax reassessment on the ground that the taxpayer ought to have been given the same favourable treatment as others who are similarly situated. The issue before the Tax Court in this case is whether Ms. Sinclair is entitled to an exemption under section 87. This must be decided on the basis of the interpretation of the section and its application to her situation: that others are given the benefit of the exemption is simply not relevant to Ms. Sinclair's appeal. See Hokhold v. Canada, [1993] 2 C.T.C. 99 (F.C.T.D.); Ludmer v. Canada, [1995] 2 F.C. 3 (C.A.); Hawkes v. The Queen, [1997] 2 C.T.C. 5060 (F.C.A.). Apart from the allegation that some similarly situated taxpayers receive more favourable treatment, Ms. Sinclair does not suggest that section 87 is unconstitutional, either as interpreted or as applied to her case.
+[8] If Ms. Sinclair wishes to challenge the validity of the Guidelines issued by the Minister with respect to the interpretation and application of section 87 on the ground that they are contrary to section 15 by virtue of their under inclusiveness, she might seek a declaration of invalidity in the Federal Court.
+[17] On the basis of this reasoning, it is to be inferred that what the policy of the CRA is with respect to the application of the ITA is not a matter that is relevant before this Court. This Court has jurisdiction to determine whether an assessment is valid under the ITA. Any question at the discovery level that is outside the scope of that jurisdiction is therefore irrelevant to the issue in the appeal. In General Motors of Canada Ltd. v. The Queen, 2006 TCC 184, [2006] G.S.T.C. 40, Justice Campbell said at paragraph 8:
+8 The scope of these objectives has resulted in the tendency by Courts "not to circumscribe the avenues of discovery but to widen them" (Henderson v. Mercantile Trust Co. (1922), 52 O.L.R. 198 (Ont. H.C.). [sic] in Violette v. Wandlyn Inns Ltd.). However it is also clear that discoveries should never become general fishing expeditions. As a result, the issue of relevancy in respect to what is at issue in the pleadings is crucial when determining which questions counsel will be permitted to ask at a discovery. The issue of relevancy was considered at length by Christie A.C.J. in Shell Canada Ltd. v. R. (1996), 97 D.T.C. 247 (T.C.C.). In Baxter v. R., 2004 D.T.C. 3497 (T.C.C. [General Procedure]), Chief Justice Bowman set out the following principles that should be applied respecting relevancy in discovery proceedings at paragraph 13 of the decision:
+(a) Relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+(b) A motions judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party [being examined] [sic] to justify each question or explain its relevancy;
+(c) The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial Judge may consider relevant;
+(d) Patently irrelevant or abusive questions or questions designed to embarrass or harass the witness or delay the case should not be permitted.
+[18] In his Amended Notice of Appeal, the appellant seeks to establish that the conditions laid down in paragraphs 118.2(2)(a) and (n) of the ITA violate his rights under the Charter. One of the reasons invoked is that those provisions do not provide effective relief specific to persons such as the appellant, and at the same time they show bias by providing relief to a wide variety of persons with other disabilities (see paragraph 19 of the Amended Notice of Appeal).
+[19] That being one of the questions at issue, the appellant has the burden of showing that there is differential treatment and that his rights under sections 7 and 15 of the Charter have been violated. The respondent is willing to acknowledge the existence of inconsistencies between provinces and territories with respect to which health practitioners are recognized as "medical practitioners". The respondent submits, however, that this situation is due to the fact that the actual determination for each health profession is left to the legislative bodies of the various provinces and territories (see paragraphs 19 and 20 of the respondent’s written representations).
+[20] In view of the respondent's acknowledgment, I do not see how it will help the appellant's argument to ask which practitioners, for the purposes of the ITA, are recognized as medical practitioners in each province and territory. The differential treatment — which depends on the province in which the services are rendered, or in which the individual resides, or in which the drugs are prescribed — is recognized by the respondent.
+[21] There is therefore no need to ask the question that the appellant seeks to have asnswered. That would only result in a lengthy process not necessary to the actual debate before this Court.
+[22] As for the CRA’s policy with respect to the application of the provisions in question and, more particularly, with respect to which medical expenses the CRA considers eligible under the ITA, that is not a matter that is relevant before this Court. I refer again to Sinclair, supra, and to Main Rehabilitation Co. v. Canada, 2004 FCA 403 (leave to appeal to the Supreme Court of Canada refused (2005), 343 N.R. 196), where the Federal Court of Appeal said at paragraphs 7 and 8:[1]
+[7] . . . Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers' Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[23] I should add that paragraph 3 of IT‑519R2 only indicates what the CRA believes is a medical practitioner. An interpretation bulletin is not determinative of the law. It may be a factor to consider but does not represent a change in either the law or the assessing policy as it applies to, in the present case, who is a medical practitioner or which medical expenses qualify for the tax credit under the ITA (see, in another context, Nowegijick v. The Queen, [1983] 1 S.C.R. 29).
+[24] In the case at bar, the appellant’s eligibility for the medical expense credit is not affected by the wording of paragraph 3 of IT-519R2. As stated earlier, that paragraph only indicates the CRA’s interpretation of what is a medical practitioner. It is in no way determinative. Any error of interpretation by the CRA contained in that bulletin could have no influence on the judgment of this Court with respect to the appellant’s eligibility for the medical expense credit.
+[25] The respondent, however, has agreed to provide the appellant with the CRA’s position regarding the "medical practitioner" issue only as it relates to naturopaths, physiotherapists and osteopaths practising in the province of Ontario, as well as naturopaths practising in the province of Quebec (those being the health practitioners that are at the heart of the matter in the present appeals), even though that information can be obtained by consulting the relevant statutes and regulations for the provinces of Ontario and Quebec.
+[26] Subsections 95(1) and (2) of the Rules read as follows:
+Scope of Examination
+95.(1) A person examined for discovery shall answer, to the best of that person's knowledge, information and belief, any proper question relating to any matter in issue in the proceeding or to any matter made discoverable by subsection (3) and no question may be objected to on the ground that,
+Portée de l'interrogatoire
+95.(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu'elle tient pour véridiques, aux questions légitimes qui se rapportent à une question en litige ou aux questions qui peuvent, aux termes du paragraphe (3), faire l'objet de l'interrogatoire préalable. Elle ne peut refuser de répondre pour les motifs suivants :
+(a) the information sought is evidence or hearsay,
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+b) la question constitue un contre-interrogatoire, à moins qu'elle ne vise uniquement la crédibilité du témoin;
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+(2) Prior to the examination for discovery, the person to be examined shall make all reasonable inquiries regarding the matters in issue from all of the party's officers, servants, agents and employees, past or present, either within or outside Canada and, if necessary, the person being examined for discovery may be required to become better informed and for that purpose the examination may be adjourned.
+(2) Avant l'interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l'étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l'interrogatoire préalable peut être ajourné.
+[Emphasis added.]
+[27] The motion is therefore granted, but only to the extent suggested in paragraph 28 of the respondent’s written representations, which I reproduce again:
+28. Accordingly, the Respondent undertakes to answer, on a best efforts basis, the Appellant’s questions to the extent that they are relevant, namely to provide CRA’s position on the issue of “medical practitioner” with respect to:
+a) Naturopaths practicing in the province of Ontario (see subparagraphs 17 a) ii) and v) of the Reply to the Notice of Appeal);
+b) Physiotherapists practicing in the province of Ontario (see subparagraph 17 a) vi) of the Reply to the Notice of Appeal);
+c) Osteopaths practicing in the province of Ontario (see subparagraph 17 a) iii) of the Reply to the Notice of Appeal);
+d) Naturopaths practicing in the province of Quebec (see subparagraph 17 a) ii) of the Reply to the Notice of Appeal).
+[28] Costs will be in the cause.
+Signed at Ottawa, Canada, this 27th day of February 2008.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2008TCC113
+COURT FILE NO.: 2006-1065(IT)G
+STYLE OF CAUSE: DAVID HOMA v. THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: May 30, 2007
+RESPONDENT'S
+REPRESENTATIONS: June 15, 2007
+APPELLANT'S REPLY: June 29, 2007
+TIME LIMIT FOR REBUTTAL: July 6, 2007
+REASONS FOR ORDER BY: The Honourable Justice Lucie Lamarre
+DATE OF ORDER: February 27, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédérick Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the recent decision of Luciano v. The Queen, 2008 FCA 26, the Federal Court of Appeal also relied on Main Rehabilitation, supra, for the proposition that the Tax Court of Canada does not have jurisdiction to set aside an assessment "on the basis of an abuse of process at common law or in breach of section 7 of the Charter" (paragraph 6 of the Federal Court of Appeal's reasons in Main Rehabilitation).

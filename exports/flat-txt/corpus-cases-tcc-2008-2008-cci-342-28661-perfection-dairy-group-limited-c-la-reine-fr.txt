@@ -1,0 +1,237 @@
+Title: Perfection Dairy Group Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28661/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-342-28661-perfection-dairy-group-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-10
+
+# Perfection Dairy Group Limited c. La Reine
+
+- Citation: 2008 CCI 342
+- Decision date: 2008-06-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1125, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perfection Dairy Group Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-10
+Référence neutre
+2008 CCI 342
+Numéro de dossier
+2006-2954(GST)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2954(GST)I
+ENTRE :
+PERFECTION DAIRY GROUP LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Halifax (Nouvelle‑Écosse), le 12 mai 2008.
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocate de l’intimée :
+Me Deanna M. Frappier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu de la Loi de la taxe d’accise (la « Loi ») à l’égard de la cotisation No 01DC0010069, datée du 12 décembre 2001, est accueilli, sans dépens, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante a droit à un crédit de taxe sur les intrants de 23 702,66 $ à l’égard de la TPS payée en 1998 relativement à des honoraires professionnels. Comme la pénalité qui avait été imposée en vertu de l’article 280 de la Loi était fondée sur le refus de ce crédit de taxe sur les intrants, la pénalité est annulée.
+Signé à Halifax (Nouvelle‑Écosse) ce 10e jour de juin 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 25e jour de juillet 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008CCI342
+Date : 20080610
+Dossier : 2006-2954(GST)I
+ENTRE :
+PERFECTION DAIRY GROUP LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le présent appel porte sur une demande de crédit de taxe sur les intrants, faite en vertu de la Loi sur la taxe d’accise (la « Loi »), à l’égard de la TPS payée en 1998 relativement à des honoraires professionnels. Les crédits de taxe sur les intrants refusés s’élevaient à 23 702,66 $. Une pénalité avait aussi été imposée, en vertu de l’article 280 de la Loi, tel qu’il était libellé en 1998, relativement aux crédits de taxe sur les intrants refusés.
+[2] L’appelante, Perfection Dairy Group Limited, est la société mère de Perfection Foods Ltd (« PFL »). PFL était établie à Charlottetown (Île‑du‑Prince‑Édouard), où elle exploitait une entreprise de produits laitiers. L’entreprise avait été fondée en 1921, et, avec le temps, elle avait connu une croissance importante. À une certaine époque, elle employait 350 personnes et elle transformait du lait provenant de 450 fermes. À son apogée, PFL réalisait des ventes qui oscillaient entre 75 et 80 millions de dollars. En 1991, PFL a été mise sous séquestre, puis elle a déclaré faillite.
+[3] Lorsque PFL était une entreprise en exploitation, l’appelante lui fournissait des services de gestion à titre onéreux. Après la mise sous séquestre de PFL, l’appelante a continué à exploiter son entreprise de services de conseil, mais les revenus qu’elle en tirait, après la mise sous séquestre et la faillite de PFL, étaient beaucoup moins importants que les honoraires de gestion qu’elle recevait auparavant de PFL. En 1998, les revenus de l’appelante provenant d’honoraires de conseil ne s’élevaient qu’à 14 207 $.
+[4] Un certain nombre de questions juridiques portant sur la mise sous séquestre et la faillite de PFL ont été soulevées. La principale question portait sur la poursuite qui avait été intentée en 1996 (la « poursuite ») devant la Cour suprême de l’Île­‑du‑Prince‑Édouard (chambre générale de la Section de première instance). Les demandeurs nommés dans la poursuite étaient John Alfred Simmonds, Perfection Group Limited et Perfection Dairy Group Limited. Un certain nombre de défendeurs étaient nommés dans la poursuite, dont la Province de l’Île‑du‑Prince‑Édouard. La déclaration comportait 36 pages et 97 paragraphes. Les demandeurs réclamaient des dommages‑intérêts généraux de 30 000 000 $, des dommages‑intérêts spéciaux de 20 000 000 $, et 10 000 000 $ (ou la somme la plus élevée qu’il leur était permis de demander) à titre de dommages‑intérêts alourdis, punitifs et exemplaires. Les honoraires professionnels engagés en 1998 étaient relatifs à la poursuite.
+[5] Durant l’audience, l’intimée s’est demandée si PFL (en faillite) était indirectement une partie à la poursuite. L’alinéa 12j) de la réponse à l’avis d’appel modifiée est rédigé de la façon suivante :
+[TRADUCTION]
+12. Lorsqu’il a déterminé l’impôt exigible de l’appelante pour la période se terminant le 31 décembre 1998, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[…]
+j) en septembre 1996, l’appelante, Perfection Group Limited et John Alfred Simmonds – en son propre nom et pour le compte de Perfection Foods Limited (en faillite) – ont déposé une déclaration devant la Cour suprême de l’Île‑du‑Prince‑Édouard relativement à la faillite de Perfection Foods Limited (la « poursuite »);
+[6] Plus tard au cours de l’audience, l’avocate de l’intimée a dit qu’elle ne se fondait plus sur l’hypothèse de fait 12j), et elle a ensuite affirmé que PFL (en faillite) n’était pas une partie à la poursuite.
+[7] Le paragraphe 3 de la déclaration contenait le passage suivant :
+[TRADUCTION]
+[…] le demandeur John Alfred Simmonds (ci‑après appelé « Jack Simmonds ») est un homme d’affaires qui habite à York Point, dans le comté de Queens, à l’Île‑du‑Prince‑Édouard. Il est autorisé à intenter les présentes procédures en son propre nom et à ses propres frais et risques en application d’une ordonnance rendue par la Cour suprême de l’Île‑du‑Prince‑Édouard en vertu de l’article 38 de la Loi sur la faillite et l’insolvabilité, L.R.C. (1985), ch. B­‑3. Le syndic de l’actif de Perfection Foods a cédé et transféré à Jack Simmonds tous ses droits, titres et intérêts sur les biens et droits qui font l’objet de la présente procédure, y compris tout document à l’appui de ces procédures, le tout en vertu de l’article 38 de la Loi sur la faillite et l’insolvabilité, précitée. Jack Simmonds intente les présentes procédures en son propre nom et pour son propre profit, et au nom de Perfection Foods Limited (en faillite) en application de ce qui précède.
+[8] L’avocate de l’intimée a déposé en preuve une copie d’une ordonnance rendue par la Cour suprême de l’Île‑du‑Prince‑Édouard relativement à la faillite de PFL. Cette ordonnance autorisait, en vertu de l’article 38 de la Loi sur la faillite et l’insolvabilité, John Alfred Simmonds à intenter, en son propre nom et à ses propres frais et risques, des procédures à l’encontre des défendeurs dans la poursuite.
+[9] L’article 38 de la Loi sur la faillite et l’insolvabilité est ainsi rédigé :
+38. (1) Lorsqu’un créancier demande au syndic d’intenter des procédures qui, à son avis, seraient à l’avantage de l’actif du failli, et que le syndic refuse ou néglige d’intenter ces procédures, le créancier peut obtenir du tribunal une ordonnance l’autorisant à intenter des procédures en son propre nom et à ses propres frais et risques, en donnant aux autres créanciers avis des procédures projetées, et selon les autres modalités que peut ordonner le tribunal.
+(2) Lorsque cette ordonnance est rendue, le syndic cède et transfère au créancier tous ses droits, titres et intérêts sur les biens et droits qui font l’objet de ces procédures, y compris tout document à l’appui.
+(3) Tout profit provenant de procédures exercées en vertu du paragraphe (1), jusqu’à concurrence de sa réclamation et des frais, appartient exclusivement au créancier intentant ces procédures, et l’excédent, s’il en est, appartient à l’actif.
+(4) Lorsque, avant qu’une ordonnance soit rendue en vertu du paragraphe (1), le syndic, avec la permission des inspecteurs, déclare au tribunal qu’il est prêt à intenter les procédures au profit des créanciers, l’ordonnance doit prescrire le délai qui lui est imparti pour ce faire, et dans ce cas le profit résultant des procédures, si elles sont intentées dans le délai ainsi prescrit, appartient à l’actif.
+[Non souligné dans l’original.]
+[10] Le paragraphe 38(3) de la Loi sur la faillite et l’insolvabilité prévoit clairement que tout excédent (qui représenterait la différence entre le profit provenant de la procédure intentée par John Simmonds et la somme de sa réclamation et de ses frais) résultant de la réclamation de PFL dans le cadre de la poursuite appartiendrait à l’actif, c’est‑à‑dire à PFL (en faillite). Ainsi, PFL (en faillite) profiterait de la poursuite dans la mesure où le produit de la réclamation de PFL dépasserait la somme de la réclamation de John Simmonds à l’encontre de PFL et des frais de celui‑ci. La preuve n’a pas révélé la somme réclamée à PFL par John Simmonds.
+[11] C’est l’intimée, parce qu’elle a changé sa position quant à la participation de PFL (en faillite) à la poursuite, qui a le fardeau de démontrer les faits permettant d’étayer sa nouvelle position.
+[12] Dans Loewen, 2004 CAF 146, la juge Sharlow s’est exprimée de la façon suivante au nom de la Cour d’appel fédérale :
+[11] Les contraintes imposées au ministre lorsqu'il invoque des hypothèses n'empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, 1995 CanLII 3545 (C.A.F.), [1996] 1 C.F. 423 (C.A.), autorisation d'appel à la C.S.C. refusée, [1996] A.C.S.C. no 4.
+[Non souligné dans l’original.]
+[13] La Cour suprême du Canada a refusé d’autoriser l’appel de la décision rendue par la Cour d’appel fédérale dans Loewen (338 N.R. 195 (note)).
+[14] En l’espèce, la question en litige est de savoir si PFL (en faillite) a, dans le cadre de la poursuite, une réclamation relativement à la cessation de l’exploitation de son entreprise. L’intimée aurait pu démontrer que PFL (en faillite) n’avait aucune réclamation dans le cadre de la poursuite si la somme de la réclamation et des frais de John Simmonds avait été égale ou supérieure à la somme réclamée par PFL dans la cadre de la poursuite. Comme aucune preuve quant à l’importance des frais de John Simmonds et de sa réclamation à l’encontre de PFL n’a été présentée, l’intimée n’a pas démontré que la somme de la réclamation et des frais de John Simmonds était plus importante que la somme réclamée par PFL dans le cadre de la poursuite. Donc, aux fins du présent appel, je présume que PFL (en faillite) a une réclamation dans le cadre de la poursuite.
+[15] L’avocate de l’intimée a prétendu que PFL n’avait pas réclamé, dans le cadre de la poursuite, de dommages‑intérêts pour pertes de revenus. Cependant, l’importance des dommages‑intérêts généraux, 30 000 000 $, et des dommages‑intérêts spéciaux, 20 000 000 $, laisse croire que ces sommes incluraient sans aucun doute un dédommagement pour les pertes de revenus subies par PFL. La poursuite découle de la perte, pour PFL, de l’entreprise de produits laitiers qu’elle exploitait. On peut donc logiquement s’attendre à ce qu’une partie des dommages‑intérêts réclamés vise les pertes de revenus subies par PFL.
+[16] L’appelante a soutenu qu’elle avait droit à la totalité du crédit de taxe sur les intrants de 23 702,66 $ à l’égard de la TPS payée en 1998 relativement à des honoraires professionnels, et ce, en vertu du paragraphe 169(1) de la Loi, parce que ces honoraires avaient été engagés relativement à l’entreprise de conseil que l’appelante exploitait durant cette année‑là.
+[17] Le paragraphe 169(1) de la Loi est ainsi rédigé :
+169. (1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[Non souligné dans l’original.]
+[18] Le paragraphe 169(1) de la Loi ne doit pas être interprété isolément. L’article 141.01 de la Loi prévoit que :
+141.01 (1) Au présent article, constituent les initiatives d’une personne :
+a) ses entreprises;
+b) ses projets à risque et ses affaires de caractère commercial;
+c) la réalisation de fournitures d’immeubles lui appartenant, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+(1.1) Pour l’application des paragraphes (1.2), (2) et (3), une contrepartie symbolique n’est pas une contrepartie.
+[…]
+(2) La personne qui acquiert ou importe un bien ou un service, ou le transfère dans une province participante, pour consommation ou utilisation dans le cadre de son initiative est réputée, pour l’application de la présente partie, l’acquérir, l’importer ou le transférer dans la province, selon le cas, pour consommation ou utilisation :
+a) dans le cadre de ses activités commerciales, dans la mesure où elle l’acquiert, l’importe ou le transfère dans la province afin d’effectuer, pour une contrepartie, une fourniture taxable dans le cadre de l’initiative;
+b) hors du cadre de ses activités commerciales, dans la mesure où elle l’acquiert, l’importe ou le transfère dans la province :
+(i) afin d’effectuer, dans le cadre de l’initiative, une fourniture autre qu’une fourniture taxable effectuée pour une contrepartie,
+(ii) à une fin autre que celle d’effectuer une fourniture dans le cadre de l’initiative.
+(3) La consommation ou l’utilisation d’un bien ou d’un service par une personne dans le cadre de son initiative est réputée, pour l’application de la présente partie, se faire :
+a) dans le cadre des activités commerciales de la personne, dans la mesure où elle a pour objet la réalisation, pour une contrepartie, d’une fourniture taxable dans le cadre de l’initiative;
+b) hors du cadre des activités commerciales de la personne, dans la mesure où elle a pour objet :
+(i) la réalisation, dans le cadre de l’initiative, d’une fourniture autre qu’une fourniture taxable effectuée pour une contrepartie,
+(ii) une autre fin que la réalisation d’une fourniture dans le cadre de l’initiative.
+(4) Lorsqu’un fournisseur effectue, dans le cadre de son initiative, la fourniture taxable (appelée « fourniture gratuite » au présent paragraphe) d’un bien ou d’un service à titre gratuit ou pour une contrepartie symbolique et qu’il est raisonnable de considérer que la fourniture gratuite a pour objet notamment de faciliter, de favoriser ou de promouvoir soit une initiative, soit l’acquisition, la consommation ou l’utilisation d’autres biens ou services par une autre personne, les présomptions suivantes s’appliquent :
+a) pour l’application du paragraphe (2), le fournisseur est réputé, dans la mesure où il a acquis ou importé un bien ou un service, ou l’a transféré dans une province participante, afin d’en effectuer la fourniture gratuite ou afin de le consommer ou de l’utiliser dans le cadre de pareille fourniture, avoir acquis ou importé ce bien ou ce service, ou l’avoir transféré dans la province, selon le cas, à la fois :
+(i) afin de l’utiliser dans le cadre de son initiative,
+(ii) aux fins auxquelles la fourniture gratuite est effectuée et non pas afin d’effectuer cette fourniture;
+b) pour l’application du paragraphe (3), le fournisseur est réputé, dans la mesure où il a consommé ou utilisé un bien ou un service afin d’effectuer la fourniture gratuite, avoir consommé ou utilisé ce bien ou ce service aux fins auxquelles la fourniture gratuite est effectuée et non pas afin d’effectuer cette fourniture.
+(5) Seules des méthodes justes et raisonnables et suivies tout au long d’un exercice peuvent être employées par une personne au cours de l’exercice pour déterminer la mesure dans laquelle :
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins;
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d’une fourniture taxable pour une contrepartie ou à d’autres fins.
+(6) Lorsqu’une présomption de faits ou de circonstances prévue par une disposition de la présente partie, sauf les paragraphes (2) à (4), s’applique à la condition qu’un bien ou un service soit, ou ait été, consommé ou utilisé, ou acquis, importé ou transféré dans une province participante pour consommation ou utilisation, dans une certaine mesure dans le cadre des activités, commerciales ou autres, d’une personne, ou hors de ce cadre, cette mesure est déterminée en conformité avec les paragraphes (2) ou (3) en vue d’établir si la condition est remplie. Toutefois, si cette condition est ainsi remplie et que les autres conditions d’application de la disposition soient réunies, la présomption prévue par cette disposition s’applique malgré les paragraphes (2) et (3).
+(7) Les dispositions de la présente partie portant que la contrepartie d’une fourniture est réputée ne pas en être une, qu’une fourniture est réputée effectuée à titre gratuit ou qu’une personne est réputée ne pas avoir effectué une fourniture ne s’appliquent pas aux paragraphes (1) à (4).
+[19] Dans Blanchard o/a Four Pillar Financial v. The Queen, [2001] T.C.J. No. 484, [2001] G.S.T.C. 94, le juge Bowie a décrit la relation entre les articles 169 et 141.01 de la Loi de la façon suivante :
+[19] La conclusion selon laquelle il n'y a qu'une seule entreprise a pour résultat que le droit à des CTI doit être déterminé en vertu des articles 169, 141 et 141.01 de la Loi. Bien qu'ils soient complexes, ils peuvent être résumés ainsi. Le droit à des CTI ne survient que dans la mesure où une taxe sur les produits et services a été payée relativement à des biens ou à des services qui ont été acquis afin d'effectuer des fournitures taxables pour une contrepartie. […]
+[20] Dans BJ Services Company Canada v. The Queen, [2002] G.S.T.C. 124, 2003 G.T.C. 513, le juge C. Miller a conclu que les dispositions de l’article 141.01 de la Loi ne devaient pas être interprétées de manière à constituer une règle générale. Il s’est exprimé ainsi :
+[61] L’article 141.01 n’indique pas explicitement qu’il est ou qu’il vise à tenir lieu de disposition omnibus sur la définition d’activité commerciale. Je ne l’interprète pas comme exigeant l’application d’un critère relatif à l’objectif avant qu’un intrant puisse être jugé avoir été engagé dans le cadre d’une activité commerciale. Son objet est seulement de répartir les intrants d’un contribuable qui réalise une combinaison de fournitures taxables et de fournitures exonérées ou d’un contribuable qui engage des intrants aux fins de réaliser les fournitures taxables et à des fins autres que de réaliser des fournitures taxables. Dans ces circonstances, un intrant donné doit être réparti.
+[62] En toute franchise, j’ai conclu que le législateur n’a pas eu à l’esprit le type d’intrant particulier à l’espèce lorsqu’il a rédigé l’article 141.01. Rien dans les communiqués ni dans les notes explicatives n’indique qu’il l’a envisagé. Ces documents de clarification confirment que l’intention du législateur était de répartir un intrant, non de déterminer si l’intrant dans son ensemble est admissible aux CTI. Je conclus que le critère strict relatif à l’objectif contenu dans l’article 141.01 ne s’applique pas au cas de Nowsco et qu’il n’a donc aucune incidence sur la conclusion que les honoraires ont été versés dans le cadre d’une activité commerciale. Pour refuser les CTI à une société comme Nowsco qui ne réalise que des fournitures taxables pour des intrants tels que des honoraires pour des conseils financiers versés dans un scénario de prise de contrôle hostile, il faudrait que la loi soit explicite et non que l’interprétation se fasse par induction ou par renvoi croisé.
+[21] Le juge C. Miller avait fondé sa conclusion sur le communiqué du ministère des Finances et les notes explicatives accompagnant la Loi. Toutefois, la simplicité et la clarté de l’article 141.01 donnent à penser qu’il énonce une règle d’application générale. Dans Haggart c. La Reine, 2003 CCI 185, 203 G.T.C. 739, [2003] G.S.T.C. 71 (confirmée par la Cour d’appel fédérale, 2003 CAF 446, 2004 G.T.C. 1057, [2003] G.S.T.C. 174), dont il est question ci‑dessous, il semble que le juge Little a appliqué les dispositions de l’article 141.01 comme s’il s’agissait d’une règle d’application générale. Aux fins du présent appel, il n’est pas nécessaire de traiter de cette question plus longuement, car le juge C. Miller a expliqué que « [s]on objet est seulement de répartir les intrants d’un contribuable […] qui engage des intrants [afin] de réaliser les fournitures taxables et à des fins autres que de réaliser des fournitures taxables ». Le cas est le même en l’espèce.
+[22] Je crois le témoignage de John Simmonds selon lequel la réputation de l’appelante avait été entachée par suite de la mise sous séquestre et de la faillite de PFL, et que le succès de la poursuite permettrait à l’appelante de retrouver sa crédibilité sur le marché. La crédibilité est importante dans le milieu des services de conseil.
+[23] Avant la mise sous séquestre de PFL, l’activité commerciale principale de PFL et de l’appelante était l’exploitation d’une entreprise de produits laitiers. Bien que l’appelante ait reçu des honoraires de gestion de PFL avant 1990, ce n’est que parce que PFL exploitait une entreprise de produits laitiers qu’elle lui versait ces honoraires. C’est la cessation de l’exploitation de cette entreprise qui est la source principale de la réclamation constituant la poursuite.
+[24] Pour que la TPS de 7 % payée relativement aux honoraires de gestion versés en 1998 s’élève à 23 702,66 $, il faut que les honoraires y correspondant aient été de 338 609,42 $. Il s’agit là d’une dépense considérable pour une entreprise de conseil dont les revenus pour 1998 n’étaient que de 14 207 $. John Simmonds a dit que l’appelante administrait la poursuite au nom de tous les demandeurs. Il semble logique que le demandeur principal soit PFL (en faillite), étant donné que la réclamation découle de la cessation de l’exploitation de l’entreprise de PFL. Il semble donc logique que les honoraires professionnels en cause aient été engagés relativement à la réclamation de PFL (en faillite) dans le cadre de la poursuite. Donc, quoique les honoraires professionnels aient très bien pu avoir été engagés en partie pour effectuer des fournitures taxables de services de conseil, ils ont été principalement engagés à une autre fin, soit le financement de la réclamation de PFL (en faillite) à l’encontre des défendeurs.
+[25] S’il s’agissait là des seuls articles de la Loi pertinents en l’espèce, l’appel ne pourrait qu’échouer. Dans Haggart, la question était de savoir si l’appelant dans cette affaire, l’actionnaire principal de Haggart Construction Ltd., avait droit à des crédits de taxe sur les intrants pour la TPS qu’il avait payée pour des frais juridiques engagés pour intenter une poursuite contre la CIBC relativement à une demande de remboursement de prêt qui avait forcé la société de M. Haggart à cesser ses activités. M. Haggart et sa société avaient eu gain de cause dans la poursuite intentée à l’encontre de la CIBC. Dans sa décision, le juge Little a émis le commentaire suivant :
+[22] En prenant en considération l'application de l'article 169 de la Loi, je ne crois pas qu'on puisse dire que l'appelant a entamé la poursuite judiciaire ou payé les frais juridiques afin d'effectuer ou de produire des fournitures taxables.
+[Souligné dans l’original.]
+[26] Le paragraphe 169(1) de la Loi n’exige pas que des frais juridiques soient payés « afin d'effectuer ou de produire des fournitures taxables ». La seule exigence prévue par ce paragraphe est que les services aient été acquis par la personne « pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales ».
+[27] À l’article 123 de la Loi, l’« activité commerciale » est définie de la façon suivante :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[28] Toujours à l’article 123 de la Loi, l’« entreprise » est définie de la façon suivante :
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[29] Ni la définition d’« activité commerciale », ni celle d’« entreprise » se trouvant à l’article 123 de la Loi n’exigent expressément que la personne effectue des fournitures taxables. Bien qu’une personne ne puisse pas être considérée comme exerçant une activité commerciale dans la mesure où elle réalise des fournitures exonérées, rien dans ces définitions n’exige explicitement que la personne réalise des fournitures taxables.
+[30] À l’article 123 de la Loi, la « fourniture taxable » est définie comme une « fourniture effectuée dans le cadre d’une activité commerciale ». La définition d’« activité commerciale » exprimerait un raisonnement circulaire si elle exigeait qu’une personne réalise des fournitures taxables, puisqu’une fourniture taxable est, par définition, une fourniture effectuée dans le cadre d’une activité commerciale.
+[31] Les paragraphes 141.01(2) et (3) de la Loi exigent explicitement qu’un bien ou un service soit acquis afin d’effectuer une fourniture taxable pour qu’une personne ait droit à un crédit de taxe sur les intrants. En faisant référence à cette fin, le juge Little semble avoir appliqué les dispositions de l’article 141.01 de la Loi en tant que règle générale.
+[32] Dans la décision rendue par la Cour d’appel fédérale dans l’affaire Haggart, le juge Evans s’est exprimé de la sorte :
+[2] Bien que le demandeur ait relancé son entreprise comme une entreprise à propriétaire unique, il n'a pas établi de lien direct ou indirect entre l'acquisition de services juridiques et une fourniture permanente de services taxables. Il s'ensuit que les services juridiques n'ont pas été acquis « dans le cadre de ses activités commerciales » au sens du paragraphe 169(1) de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, et que, si le paragraphe 140.01(2) s'applique, les services n'ont pas été acquis « afin d'effectuer une fourniture taxable dans le cadre de l'initiative ».
+[Non souligné dans l’original.]
+[33] Il semble qu’il aurait fallu faire référence au paragraphe 141.01(2) plutôt qu’au paragraphe 140.01(2). Puisque, comme je l’ai déjà noté, l’article 141.01 exige explicitement que le bien ou le service soit acquis afin d’effectuer une fourniture taxable, il semble que, dans la première phrase du paragraphe cité ci‑dessus, la Cour d’appel fédérale laisse entendre que les dispositions de l’article 141.01 de la Loi constituent une règle d’application générale. Cependant, à la dernière phrase de ce paragraphe, la Cour dit « si le paragraphe [sic] 140.01(2) s'applique », ce qui laisse entendre qu’il ne s’agit peut‑être pas d’une règle d’application générale.
+[34] Toutefois, une différence importante distingue les faits de l’affaire Haggart des faits en cause en l’espèce. Dans Haggart, c’est un particulier – David Haggart – qui avait demandé un crédit de taxe sur les intrants, alors qu’en l’espèce, il s’agit d’une personne morale. Le paragraphe 186(1) de la Loi est ainsi rédigé :
+186. (1) Sous réserve du paragraphe (2) et pour le calcul de son crédit de taxe sur les intrants, une personne morale mère qui acquiert, importe ou transfère dans une province participante, à un moment donné, un bien ou un service est réputée l’avoir acquis, importé ou transféré dans la province pour utilisation dans le cadre de ses activités commerciales dans la mesure où il est raisonnable de considérer qu’elle l’a ainsi acquis, importé ou transféré dans la province pour consommation ou utilisation relativement à des actions du capital-actions d’une autre personne morale qui lui est liée à ce moment, ou à des créances contre cette autre personne, si les conditions suivantes sont réunies :
+a) la personne morale mère est un inscrit qui réside au Canada;
+b) au moment où la taxe relative à l’acquisition, à l’importation ou au transfert devient payable, ou est payée sans être devenue payable, par la personne morale mère, la totalité, ou presque, des biens de l’autre personne morale sont des biens qu’elle a acquis ou importés la dernière fois pour consommation, utilisation ou fourniture par celle-ci exclusivement dans le cadre de ses activités commerciales.
+[35] L’appelante, en tant que personne morale, peut avoir recours à cette disposition si elle satisfait aux autres exigences de la disposition, mais tel n’était pas le cas de M. Haggart.
+[36] Durant l’année 1998, l’appelante était un inscrit. Toutes les actions de PFL appartenaient alors à l'appelante, ce qui veut dire que PFL était liée à l’appelante en 1998. La cessation de l’exploitation de l’entreprise de PFL a anéanti l’investissement fait par l’appelante dans PFL. Le fait d’engager des honoraires professionnels était lié aux actions de PFL et aux créances contre PFL, car la réussite de la poursuite aurait une incidence directe sur la valeur des actions de PFL et sur la capacité de PFL à rembourser ses dettes envers l’appelante. La faillite de PFL fait en sorte que PFL ne peut pas financer la poursuite. La responsabilité de financer la poursuite incombe donc à l’actionnaire principal de PFL. Je prête foi au témoignage de John Simmonds selon lequel les demandeurs, s’ils avaient gain de cause dans leur poursuite, auraient l’intention de redémarrer l’exploitation de l’entreprise de produits laitiers de PFL. Les honoraires professionnels engagés en 1998 ont été engagés relativement à la poursuite. Si la poursuite réussissait, PFL recommencerait à exploiter son entreprise de produits laitiers, ce qui entraînerait une augmentation importante de la valeur des actions de PFL et de la créance de l’appelante contre PFL. Par conséquent, il est raisonnable de considérer que les services professionnels se rattachant aux honoraires payés ont été acquis pour être consommés relativement aux actions de PFL ou aux créances contre PFL.
+[37] La prochaine question est celle de savoir si les dispositions de l’alinéa 186(1)b) de la Loi ont été respectées. Il faut donc faire un examen des biens qui appartenaient à PFL en 1998. Durant cette année‑là, l’actif de PFL était uniquement composé de mobilier de bureau, de peintures, et de divers autres biens (les « biens divers ») – qui avaient été rendus par le syndic de faillite après la fin de son mandat en 1993 – et de la réclamation de PFL (en faillite) dans le cadre de la poursuite.
+[38] Les biens divers rendus par le syndic de faillite avaient été acquis par PFL à l’époque où elle exploitait son entreprise de produits laitiers. PFL se servait de ces biens pour exploiter son entreprise. L’alinéa 265(1)c) de la Loi est rédigé en ces termes :
+265. (1) Les règles suivantes s’appliquent aux fins de la présente partie en cas de faillite d’une personne :
+[…]
+c) les biens et l’argent du failli, immédiatement avant le jour de la faillite, sont réputés ni être passés au syndic ni lui être dévolus au moment de la prise de l’ordonnance de faillite ou du dépôt de la cession, mais demeurer la propriété du failli;
+[39] La faillite de PFL ne change donc pas le moment où les biens divers ont été acquis. Rien ne me permet de croire que les biens divers avaient été transférés au séquestre. La seule question portait sur l’éventuel transfert des biens au syndic de faillite, puis à PFL après la fin du mandat du syndic de faillite.
+[40] Par conséquent, les biens divers sont des biens qui avaient été acquis par PFL en vue d’être utilisés par PFL exclusivement dans le cadre de ses activités commerciales. Le seul autre actif qu’avait PFL en 1998 était sa réclamation dans le cadre de la poursuite. Comme je l’ai expliqué ci‑dessus, la poursuite découle de la cessation de l’exploitation de l’entreprise de PFL.
+[41] Le paragraphe 141.1(3) de la Loi est rédigé en ces termes :
+141.1. (3) Pour l’application de la présente partie :
+a) dans la mesure où elle accomplit un acte, sauf la réalisation d’une fourniture, à l’occasion de l’acquisition, de l’établissement, de l’aliénation ou de la cessation d’une de ses activités commerciales, une personne est réputée avoir accompli l’acte dans le cadre de ses activités commerciales;
+b) dans la mesure où elle accomplit un acte, sauf la réalisation d’une fourniture, à l’occasion de l’acquisition, de l’établissement, de l’aliénation ou de la cessation d’une de ses activités non commerciales, une personne est réputée avoir accompli l’acte en dehors du cadre d’une activité commerciale.
+[42] Comme le paragraphe 141.1(3) de la Loi n’exige pas de conclusion voulant qu’une personne ait accompli, dans quelque mesure que ce soit, un acte relativement à la cessation d’une activité commerciale, l’acquisition par PFL de sa réclamation dans le cadre de la poursuite n’est pas, pour l’application du paragraphe 141.1(3), visée par les dispositions du paragraphe 141.01(6) de la Loi. Par conséquent, dans la mesure où PFL a accompli un acte dans le contexte de la cessation de l’exploitation de son entreprise, elle est réputée l’avoir accompli dans le cadre de ses activités commerciales. Donc, la réclamation de PFL dans le cadre de la poursuite (qu’elle a acquise dans le contexte de la cessation de l’exploitation de son entreprise) sera réputée avoir été acquise par PFL dans le cadre de ses activités commerciales.
+[43] Ainsi, tous les actifs qui appartenaient à PFL en 1998 seraient des biens qu’elle a acquis, la dernière fois, pour consommation, utilisation ou fourniture par celle‑ci exclusivement dans le cadre de ses activités commerciales. Les conditions prévues par l’alinéa 186(1)b) de la Loi sont ainsi respectées.
+[44] L’appelante est donc réputée avoir acquis les services professionnels dans le cadre de ses activités commerciales dans la mesure où il est raisonnable de considérer qu’elle les a ainsi acquis pour consommation ou utilisation relativement à des actions de PFL ou à des créances contre cette dernière. Comme le paragraphe 186(1) de la Loi n’exige pas de conclusion quant à un certain pourcentage, pour l’application du paragraphe 186(1) de la Loi, l’acquisition des services professionnels par l’appelante n’est pas assujettie au paragraphe 141.01(6) de la Loi.
+[45] Le paragraphe 186(1) de la Loi prévoit notamment que, lorsque les conditions établies aux alinéas a) et b) sont remplies :
+[…] pour le calcul de son crédit de taxe sur les intrants, une personne morale mère qui acquiert, importe ou transfère dans une province participante, à un moment donné, un bien ou un service est réputée l’avoir acquis, importé ou transféré dans la province pour utilisation dans le cadre de ses activités commerciales dans la mesure où il est raisonnable de considérer qu’elle l’a ainsi acquis, importé ou transféré dans la province pour consommation ou utilisation relativement à des actions du capital-actions d’une autre personne morale qui lui est liée à ce moment, ou à des créances contre cette autre personne […]
+[46] Le paragraphe 186(1) de la Loi n’exige pas que les services professionnels aient été acquis afin d’effectuer une fourniture taxable en échange d’une contrepartie. Ce paragraphe prévoit seulement que, dans la mesure où les services professionnels ont été acquis relativement à des actions de PFL ou à des créances contre cette dernière, l’appelante sera réputée les avoir acquis dans le cadre de ses activités commerciales. Comme le paragraphe 186(1) de la Loi ne s’applique que dans certaines situations, toute incompatibilité entre cette disposition et l’article 141.01 de la Loi sera résolue de la façon suivante : si les conditions prévues au paragraphe 186(1) de la Loi sont remplies, c’est cette disposition qui sera appliquée, et non pas l’article 141.01 de la Loi. Comme l’a écrit M. Driedger à la page 186 de la troisième édition de Construction of Statutes :
+[TRADUCTION]
+Lorsqu'il y a incompatibilité entre deux dispositions et que l'une d'elles porte spécifiquement sur la question en litige, tandis que l'autre est d'application plus générale, l'incompatibilité peut être évitée par l'application de la disposition spécifique à l'exclusion de la disposition plus générale. Le spécifique l'emporte sur le général; il importe peu de savoir quelle disposition a été édictée en premier.
+L’expression latine generalia specialibus non derogant correspond à ce mécanisme de résolution des incompatibilités. J’utiliserai ici l’expression « exception implicite », car la disposition spécifique établit de façon implicite une exception à la règle générale.
+[47] Donc, si l’article 141.01 de la Loi est une règle d’application générale et que les conditions prévues au paragraphe 186(1) de la Loi sont remplies, ce paragraphe l’emportera sur l’article 141.01 de la Loi.
+[48] Par contre, si l’article 141.01 de la Loi n’est pas une règle d’application générale, il se peut quand même, comme je l’ai déjà souligné, qu’il soit applicable en l’espèce. L’incompatibilité entre l’article 141.01 et le paragraphe 186(1) de la Loi doit être résolue conformément à la décision rendue par la Cour suprême du Canada dans La Reine c. Canada Trustco Mortgage Company, 2005 CSC 54, 2005 DTC 5523 (Eng.), [2005] 5 C.T.C. 215, 340 N.R. 1, 259 D.L.R. (4th) 193, [2005] 2 R.C.S. 601. La Cour suprême du Canada s’y est exprimée de la façon suivante :
+[10] Il est depuis longtemps établi en matière d’interprétation des lois qu’« il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : voir 65302 British Columbia Ltd. c. Canada, 1999 CanLII 639 (C.S.C.), [1999] 3 R.C.S. 804, par. 50. L’interprétation d’une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s’harmonise avec la Loi dans son ensemble. Lorsque le libellé d’une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d’interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d’un sens raisonnable, leur sens ordinaire joue un rôle moins important. L’incidence relative du sens ordinaire, du contexte et de l’objet sur le processus d’interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d’une loi comme formant un tout harmonieux.
+[49] À mon avis, l’interprétation voulant que le paragraphe 186(1) de la Loi doive l’emporter sur l’article 141.01 de la Loi est en harmonie avec la Loi dans son ensemble. Les deux dispositions font que la consommation ou l’utilisation de certaines fournitures sont réputées avoir été faites dans le cadre d’activités commerciales. Le législateur a dû vouloir que les dispositions du paragraphe 186(1), qui ont une portée spécifique, l’emportent sur l’article 141.01, dont la portée est plus générale. Il ne m’apparaît pas raisonnable d’exiger, une fois que l’appelante aurait satisfait aux conditions prévues au paragraphe 186(1) de la Loi – ce qui ferait que les services acquis relativement aux actions de PFL ou à une créance contre PFL auraient été réputés avoir été acquis dans le cadre d’activités commerciales –, qu’elle satisfasse en plus au critère établi à l’article 141.01 de la Loi pour avoir droit à des crédits de taxe sur les intrants. Le fait de conclure, pour l’application du paragraphe 186(1) de la Loi, que les services professionnels ont été acquis dans le cadre d’activités commerciales est suffisant pour permettre l’application du paragraphe 169(1) de la Loi. Comme je l’ai déjà noté, le paragraphe 169(1) de la Loi ne fait état que des biens et services ayant été acquis pour être consommés ou utilisés dans le cadre d’activités commerciales.
+[50] Comme l’appelante a acquis les services professionnels relativement à son entreprise de conseil, ou relativement aux actions de PFL ou à une créance contre cette dernière, l’appelante a droit à un crédit de taxe sur les intrants à l’égard de la TPS payée relativement aux honoraires professionnels.
+[51] L’article 18.3009 de la Loi sur la Cour canadienne de l’impôt prévoit que :
+18.3009. (1) Dans sa décision d'accueillir un appel visé à l'article 18.3001, la Cour rembourse à la personne qui a interjeté appel le droit de dépôt qu'elle a acquitté en vertu de l'alinéa 18.15(3) b), et la Cour peut, conformément aux modalités prévues par ses règles, allouer les frais et dépens à cette personne, si le montant en litige est réduit de plus de moitié et si :
+[…]
+c) dans le cas d'un appel interjeté en vertu de la partie IX de la Loi sur la taxe d'accise :
+(i) le montant en litige n'excède pas 7 000 $,
+(ii) le total des fournitures pour l'exercice précédent de la personne n'excède pas 1 000 000 $.
+[52] Comme le présent appel est visé par l’article 18.3001 de la Loi sur la Cour canadienne de l’impôt, et puisque le montant en litige excède 7 000 $, aucuns dépens ne sont alloués à l’appelante.
+[53] L’appel est accueilli, sans dépens, et la question est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelante a droit à un crédit de taxe sur les intrants de 23 702,66 $ à l’égard de la TPS payée en 1998 relativement à des honoraires professionnels. Comme la pénalité qui avait été imposée en vertu de l’article 280 de la Loi était fondée sur le refus de ce crédit de taxe sur les intrants, la pénalité est annulée.
+Signé à Halifax (Nouvelle‑Écosse) ce 10e jour de juin 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 25e jour de juillet 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI342
+No DU DOSSIER DE LA COUR :
+2006-2954(GST)I
+INTITULÉ :
+Perfection Dairy Group Limited et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE :
+Le 12 mai 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 10 juin 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Bruce S. Russell, c.r.
+Avocate de l’intimée :
+Me Deana M. Frappier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Bruce S. Russell, c.r.
+Cabinet :
+McInnes, Cooper
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

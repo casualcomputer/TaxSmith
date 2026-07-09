@@ -1,0 +1,175 @@
+Title: Dupuis c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27179/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-360-27179-dupuis-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-07-07
+
+# Dupuis c. M.R.N.
+
+- Citation: 2006 CCI 360
+- Decision date: 2006-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 982, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dupuis c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-07
+Référence neutre
+2006 CCI 360
+Numéro de dossier
+2005-2331(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-2331(EI)
+ENTRE :
+JACQUES DUPUIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 26 mai 2006, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Représentante de l'intimé :
+Chantal Roberge (stagiaire)
+________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 7e jour de juillet 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI360
+Date :20060707
+Dossier : 2005-2331(EI)
+ENTRE :
+JACQUES DUPUIS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 26 mai 2006.
+[2] Il s'agit d'un appel de la décision du ministre du Revenu national (le « ministre » ) en date du 8 juin 2005 selon laquelle, l'appelant n'exerçait pas un emploi assurable aux termes d'un contrat de louage de services durant la période du 23 au 27 février 2004 alors qu'il était au service de la Clinique de physiothérapie de Louiseville Inc. (le « payeur » ).
+[3] Subsidiairement, le ministre a déterminé que même s'il était adjugé que l'appelant exerçait un emploi assurable, celui-ci serait exclu des emplois assurables selon l'alinéa 5(2)a) de la Loi sur l'assurance-emploi (la « Loi » ) puisqu'il était occasionnel à des fins autres que celle de l'activité professionnelle ou de l'entreprise du payeur.
+[4] En rendant sa décision, le ministre s'est appuyé sur les faits présumés suivants énoncés au paragraphe 5 de la Réponse à l'avis d'appel :
+a) le payeur a été constitué en société le 19 janvier 2004;
+b) le payeur exploitait une entreprise de physiothérapie, ostéopathie et massothérapie;
+c) l'appelant est menuisier;
+d) en 2004, le payeur a effectué des travaux d'aménagement d'un bureau;
+e) pour les travaux, le payeur a engagé l'appelant ainsi qu'un tireur de joints et un poseur de tapis et de céramique;
+f) les tâches de l'appelant consistaient à l'agrandissement d'un bureau et à la réfection du plafond;
+g) l'appelant était payé au taux horaire de 20,00 $;
+h) l'appelant a facturé le payeur pour 11 heures le lundi, 10,5 heures le mardi, 5 heures le mercredi, 5 heures le jeudi et 8,5 heures le vendredi pour un total de 40 heures pour la période en litige;
+i) l'appelant a débuté ses heures de travail à 14 h le lundi; à 11 h le mardi, à 17 h le mercredi, à 18 h le jeudi et à 11 h le vendredi;
+j) l'appelant décidait de son horaire de travail de chaque jour;
+k) le payeur ne contrôlait pas l'horaire de travail de l'appelant;
+l) l'appelant fournissait ses propres outils de menuisier dans l'exécution de ses tâches pour le payeur;
+m) les activités de menuiserie n'étaient pas intégrées aux activités du payeur;
+n) l'embauche de l'appelant correspondait à un besoin occasionnel pour le payeur;
+o) l'appelant oeuvrait selon un contrat d'entreprise.
+[5] L'appelant a admis les faits présumés du ministre énoncés aux alinéas a), b), c), g) et m); il a nié ceux énoncés aux alinéas j), k) et o); et il a voulu apporter des précisions sur les faits présumés du ministre énoncés aux alinéas d), e), f), h), i), l) et n).
+[6] Il a été révélé que René Ebacher est physiothérapeute et l'unique propriétaire du payeur. Il connaissait l'appelant depuis plusieurs années l'ayant rencontré d'abord comme patient et étant devenus amis par la suite. L'appelant avait déjà travaillé pour lui comme menuisier, alors qu'il était employé d'un entrepreneur en construction.
+[7] Monsieur Ebacher avait jugé l'appelant assez compétent pour faire les travaux de rénovation de sa clinique. Il a approché l'appelant et ils se sont entendus sur les termes de l'embauche de ceux-ci. Il s'agissait de travaux mineurs et le payeur désirait réduire le coût des travaux. Pour son travail, l'appelant a demandé une rémunération de 20,00 $ l'heure, ce qui se situe dans les normes de la construction pour la rénovation. L'appelant a demandé au payeur d'être embauché et traité comme un employé. Le payeur a accepté ce que lui proposait l'appelant et une entente à l'amiable a été conclue entre eux. Il s'agissait d'aménager une nouvelle pièce dans la clinique qui servirait à la fois de bureau et de salle de traitement à monsieur Ebacher. Aucun plan de construction n'avait été préparé. Monsieur Ebacher savait ce qu'il voulait et pendant la semaine qu'a duré l'emploi de l'appelant, la construction évoluait selon le progrès des travaux.
+[8] Les heures de travail de l'appelant étaient établies de façon à ne pas perturber les activités de la clinique. Monsieur Ebacher a toujours été présent durant les travaux et a assisté l'appelant dans l'exécution de ceux-ci. L'appelant s'est avéré compétent quant aux travaux qu'il a exécutés selon les exigences du payeur. Le payeur n'avait pas à lui montrer comment faire son travail, puisque qu'il était complètement en dehors de sa compétence.
+[9] Dans l'exécution de ses tâches, l'appelant a utilisé ses propres outils, comme il est courant dans la menuiserie. Cependant, le payeur a loué pour l'appelant un instrument qui a servi à décoller le prélart.
+[10] Le payeur a rémunéré l'appelant aux taux horaire de 20,00 $ et a fait les retenues à la source pour le RRQ, l'assurance-emploi et les impôts fédéral et provincial.
+[11] Pour réaliser son projet de rénovation, le payeur a aussi retenu les services d'un tireur de joints et d'un poseur de céramique. Ceux-ci ont été embauchés à contrat, par soumission et n'ont pas reçu de relevé d'emploi du payeur.
+[12] Il a été établi que l'appelant inscrivait ses heures de travail dans un agenda. Il en a produit une copie à l'audition sous la cote A-4.
+[13] La question en litige est à savoir si l'appelant occupait un emploi assurable aux fins de la Loi. La disposition pertinente est l'alinéa 5(1)a) de la Loi, qui énonce ce qui suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière ; [Je souligne]
+[14] Il faudra également dans le contexte des contrats au Québec, tenir compte de l'article 8.1 de la Loi d'interprétation, L.R.C. (1985), Ch. 1-21, modifié, depuis son entrée en vigueur le 1er juin 2001, lorsque confrontée à un litige comme celui sous étude. Voici ce que le législateur a édicté à cet article:
+Propriété et droits civils
+8.1 Le droit civil et la Common Law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s'il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d'assurer l'application d'un texte dans une province, il faut, sauf règles de droit s'y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l'application du texte. [Je souligne]
+[15] Il convient de reproduire les dispositions pertinentes du Code civil du Québec qui serviront à déterminer l'existence d'un contrat de travail au Québec pour le distinguer du contrat d'entreprise :
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d'entreprise ou de service
+2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099 L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution. [Je souligne]
+[16] Les dispositions du Code civil du Québec reproduites ci-dessus établissent trois conditions essentielles à l'existence d'un contrat de travail : 1) la prestation sous forme de travail fourni par le salarié; 2) la rémunération de ce travail par l'employeur; et; 3) le lien de subordination. Ce qui distingue de façon significative un contrat de service d'un contrat de travail, c'est l'existence du lien de subordination, c'est-à-dire le fait pour l'employeur d'avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[17] La preuve a établi que monsieur Ebacher était présent sur les lieux de travail en tout temps pendant l'exécution des travaux par l'appelant et qu'il assistait celui-ci. L'appelant a fait la preuve que l'horaire et l'endroit où étaient faits les travaux ont été établis par le payeur qui a décidé des matériaux à utiliser et des rénovations à exécuter. Le lien de subordination a été établi. Il est vrai que le payeur n'était pas en mesure de diriger l'appelant dans la manière d'exécuter ses tâches, mais le manque de qualification du payeur dans le domaine de la menuiserie n'exclut pas la présence de contrôle sur l'appelant par le payeur. À cet égard, il convient de souligner les propos du juge Marceau de la Cour d'appel fédérale dans l'affaire Freddy Caron c. M.N.R., [1987] A.C.F. no. 270 :
+Quant à la question de savoir s'il y avait eu effectivement louage de service, le juge ne conteste pas la réalité de la relation contractuelle mais se demande uniquement si cette relation contractuelle avait donné naissance à un contrat de louage de services ou à un contrat d'entreprise et sa conclusion à l'effet que l'employeur n'avait pas eu sur le travail de l'employé le contrôle caractéristique du contrat de louage de service se retrouve dans le paragraphe que voici :
+En ce qui concerne le contrôle du travail de l'appelant par l'employeur, Roberto Caron, la preuve nous fournit des éléments que nous devons analyser en fonction de ce contrôle, car ce contrôle est exercé par le bénéficiaire des services sur le travail de celui qui les fournit en décelant le lien de subordination caractéristique du contrat de travail. Cependant, le degré de contrôle varie selon les circonstances et la nature du travail à exécuter. Or, le travail de l'appelant est de bûcher du bois, ce qui demande, évidemment, de l'expérience, laquelle l'appelant possédait. Par contre, l'employeur, Roberto Caron, qui est chauffeur de camion a admis qu'il n'avait aucune expérience dans le domaine de bûcher du bois ainsi que sa mère. Et pour contrôler le travail de l'appelant, l'employeur n'étant pas expérimenté non plus que sa mère, ne pouvait en aucune manière exercer un contrôle quelconque, ni sa mère. Même s'il allait sur les chantiers le samedi voir le travail et que sa mère voyait les voyages de bois faits par l'appelant, cela ne démontrait pas le contrôle voulu sur le travail de l'appelant. Et nous pouvons dire qu'il y avait absence totale de contrôle par l'employeur, Roberto Caron, et sa mère; d'ailleurs, l'employeur affirmait qu'il laissait l'appelant libre de faire son travail, se contenant simplement d'une vérification à la fin du travail le samedi pour voir si ce dernier était fait ou non. » . (En fait ce n'est pas de la mère dont il s'agissait mais de la brue, la femme de l'employeur.)
+À mon avis, le juge s'est référé pour interpréter la situation à une notion de contrôle qui dépasse en étendue celle requise en droit pour fonder une relation de commettant à préposé. S'il fallait accepter une telle notion, il ne pourrait jamais se créer de contrat de louage de service entre un employeur non-expérimenté dans l'exécution d'un travail à accomplir et un employé pour qui l'exécution d'un tel travail est le métier. Les faits tels que rapportés par le juge ne permettent certes pas d'affirmer que l'employeur n'était pas maître au niveau de la fixation des heures de travail, de la définition des services à rendre, de la détermination des tâches à accomplir au jour le jour, et la conclusion du juge ne saurait sans cela tenir. »
+[18] La preuve a établi l'existence d'une entente verbale entre les parties. Ceci n'avait rien de formel, mais les parties ont convenu des termes de l'entente entre eux. La jurisprudence a reconnu l'importance qu'on doit attribuer à l'intention exprimée par les parties. La Cour d'appel fédérale en a statué ainsi dans l'affaire Wolf c. Canada, [2002] A.C.F. no. 375 où la juge Desjardins écrivait ce qui suit :
+119 Les contribuables peuvent organiser leurs affaires de la façon légale qu'ils désirent. Personne n'a suggéré que M. Wolf ou Canadair ou Kirk-Mayer ne sont pas ce qu'ils disent être ou qu'ils ont arrangé leurs affaires de façon à tromper les autorités fiscales ou qui que ce soit. Lorsqu'un contrat est signé de bonne foi comme un contrat de service et qu'il est exécuté comme tel, l'intention commune des parties est claire et l'examen devrait s'arrêter là.
+[19] D'ailleurs la juge Lamarre Proulx de cette Cour a reconnu la portée du principe énoncé dans l'arrêt cité ci-haut en écrivant ceci dans l'affaire Drapeau c. Canada (ministre du Revenu national M.R.N.), [2006] A.C.I. no. 186, 2006CCI242 :
+[25] L'enseignement récent de la Cour d'appel fédéral est que l'intention commune des parties est un élément important pour déterminer la nature d'un contrat. Voir Wolf c. Canada, (2002) 4 C.F. 396 et Royal WinnipegBallet v. M.N.R., [2006] FCA 87 no. 339. La cour d'appel précise toujours toutefois que cette intention ne doit pas avoir pour but de contourner de manière illicite l'application de la loi. Ici, il n'y a pas de telle prétention de la part de l'intimé.
+[26] L'intention des parties telle que clairement exprimée par les différentes pièces produites à l'audition de cet appel, est évidente. Il s'agit d'un contrat de travail. L'affirmation d'une des parties que pour la dernière période, la relation en était une d'entreprise est contredite par les documents signés par cette partie elle-même.
+[20] Même si les parties ne sont pas liées par un contrat écrit, l'intention des parties se dégage des actions qu'ils ont faites et des documents produits à l'audition, par exemple, le relevé d'emploi, l'agenda de l'appelant, le rapport de paie et les déclarations des parties faites aux enquêteurs.
+[21]Le bien-fondé de ce raisonnement a été reconnu par cette Cour dans l'arrêt Whitney Elizabeth Gleason v. M.N.R., (83-177(UI)) par le juge suppléant Millar, qui écrivait ce qui suit :
+A fifth test is to look at the nature of a contract and to ask what the parties intended.
+In this case, there was no document, and little to add ... that during the material period source deductions were made, and this included Unemployment Insurance.
+From this one draws the inference from that if the proprietor put his mind to the subject at all, then he thought he was employing someone in a contract of service.
+[22] En raison de ce qui précède, il convient de conclure que l'appelant a réussi à prouver l'existence d'un contrat de travail qui le liait au payeur au sens du Code civil du Québec, ainsi qu'un contrat de louage de services, au sens de l'alinéa 5(1)a) de la Loi.
+[23] Il s'agit maintenant d'analyser la preuve produite qui vise à soutenir la prétention de l'appelant selon laquelle son emploi n'est pas exclu en vertu de l'alinéa 5(2)a) de la Loi qui se lit comme suit :
+5(2) N'est pas un emploi assurable :
+a) l'emploi occasionnel à des fins autres que celles de l'activité professionnelle ou de l'entreprise de l'employeur
+[24] Un examen de la jurisprudence saura mettre en lumière les principes en cause dans un cas comme celui-ci et la façon dont les tribunaux les ont appliqués dans des circonstances semblables.
+[25] Le juge Linden de la Cour d'appel fédérale dans l'arrêt Roussy c. Canada (ministre du Revenu national - M.R.N., [1992] A.C.F. no. 913 écrivait ce qui suit :
+5 Dans l'arrêt Abrahams c. Procureur général du Canada [1983], 1 R.C.S. 2, la Cour suprême du Canada a jeté un peu de lumière sur le sens du mot « occasionnel » dans cette affaire, qui mettait en cause une disposition différente mais liée, l'alinéa 44(1)c) [aujourd'hui l'alinéa 31(1)c)] lequel concerne les travailleurs qui, lors d'une grève, exercent une autre occupation d'une façon régulière. Le juge Wilson a opposé la notion d'emploi régulier à celle d'emploi « occasionnel » ou « intermittent » , expliquant que si une personne « ne doit se présenter au travail que sur appel » , elle « n'exerce pas un emploi d'une façon régulière » . Le juge a fait remarquer que l'expression « d'une façon régulière » exige « un cadre fixe plutôt qu'une période fixe d'emploi « . Sa conclusion était la suivante :
+La caractéristique essentielle n'a pas trait à la durée de l'emploi mais à la régularité de l'horaire de travail. Il ressort implicitement de cette interprétation que l'emploi n'a pas besoin d'être de longue durée...pour autant qu'il est régulier pendant qu'il dure.
+6 Une autre décision utile est le CEIC c. Roy [1986] 1 C.F. 193, p. 209, où le juge MacGuigan, suivant les motifs du juge Wilson, a donné l'explication suivante :
+...la seule régularité exigée de l'emploi dépend de la nature du travail lui-même. En ce sens, la durabilité requise d'un emploi saisonnier n'est qu'une durée saisonnière, ou une durée temporaire d'un emploi à court terme. Bien entendu, un terme pourrait être trop court pour être accepté comme réel, s'il était, par exemple, « un emploi d'un jour ou deux, ici et là, sans engagement ferme de la part du prestataire ou de son nouvel employeur » ...
+Toujours dans l'affaire Roy, à la page 197, le juge Pratte a aussi fait remarquer qu'une personne exercera un emploi de façon occasionnelle lorsqu'elle « s'engagera pour un laps de temps si bref qu'il sera vraiment impossible de juger de la régularité de l'horaire de travail » .
+[26] La Cour suprême dans l'arrêt Abrahams, précité, avait le mandat de statuer sur un emploi semblable à celui en l'espèce. Voici les circonstances particulières qui se présentaient devant cette Cour :
+Après la perte de son emploi par suite d'un arrêt de travail causé par un conflit collectif, l'appelant a travaillé trois jours par semaine pendant six mois pour un autre employeur. Il a quitté cet emploi pour des raisons de santé et a demandé des prestations d'assurance-chômage. La commission d'assurance-chômage et le conseil arbitral, auprès duquel il avait interjeté appel, l'ont tous les deux informé qu'il n'avait pas droit aux prestations d'assurance-chômage à cause du par. 44(1) de la Loi de 1971 sur l'assurance-chômage. Un juge-arbitre a infirmé la décision du conseil, mais la Cour d'appel fédérale a infirmé celle du juge-arbitre. D'où le présent pourvoi portant sur l'interprétation correcte de l'al. 44(1)c) de la Loi.
+[27] La Cour suprême a accueilli le pourvoi en statuant que :
+La caractéristique essentielle pour être employé « d'une façon régulière » à quelque autre occupation n'a pas trait à la durée de l'emploi, mais à la régularité de l'horaire de travail. L'expression « d'une façon régulière » dans l'al. 44(1)c) de la Loi exige un cadre fixe plutôt qu'une période fixe de l'emploi. En conséquence l'emploi n'a pas besoin d'être de longue durée. Il peut durer le temps de la grève seulement pour autant qu'il est régulier pendant qu'il dure.
+[28] Le juge Linden dans l'arrêt Roussy, précité, a statué ce qui suit :
+7 Le temps durant lequel une personne travaille n'est donc pas concluant pour dire d'un emploi qu'il est occasionnel ; la durée peut être un facteur dont il faut tenir compte, mais il y a un aspect plus important ; celui de savoir si l'emploi est « éphémère » ou « transitoire » ou, si l'on veut, imprévisible et peu sûr. Il faut qu'il soit impossible d'en déterminer la régularité. Autrement dit, lorsqu'une personne est appelée de façon intermittente, une fois de temps en temps, pour effectuer quelques travaux pendant un temps indéfini, cela peut être considéré comme un emploi occasionnel. En revanche, lorsqu'une personne est engagée pour effectuer un nombre précis d'heures de travail pendant une période déterminée ou jusqu'à l'achèvement d'un projet particulier, il ne s'agit d'un emploi occasionnel, même si le laps de temps est court. Le juge de la Cour canadienne de l'impôt a donc commis une erreur en s'attachant exclusivement à [TRADUCTION] « l'expiration implicite, connue des deux parties au début » , ainsi qu'à la nécessité de procurer un [TRADUCTION] « emploi permanent » . Il ne s'agit pas d'une exigence automatique.
+8. Il ne faudrait pas considérer que d'après ce qu'a déclaré le juge Marceau dans l'affaire Bélanger, citée précédemment, il est nécessaire que l'emploi soit d'une durée indéterminée pour être quelque chose de stable, de continu et sur quoi on peut compter ; un emploi peut être tout cela à la fois et ne durer qu'un court laps de temps. Comme l'a dit le juge MacGuigan dans l'affaire Roy, précitée, à la page 209 : « il est impossible d'exclure tous les emplois à court terme » . Si le législateur avait voulu le faire, il aurait pu préciser que les emplois temporaires sont exclus. Il ne l'a pas fait. Il a manifestement pensé qu'il pouvait protéger l'intégrité de l'économie de la Loi sur l'assurance-chômage, en exigeant notamment que l'emploi dure pendant un nombre minimal de semaines de référence pour que l'employé ait droit à des prestations d'assurance-chômage.
+[29] L'emploi de l'appelant dans la cause sous étude est de courte durée, certes, mais, comme l'ont statué la Cour suprême et la Cour d'appel fédérale, il ne s'agit là que d'un facteur à considérer, mais il y a un aspect plus important. Je reprends les paroles du juge Linden dans l'arrêt Roussy, précité, qui écrivait ceci :
+En revanche, lorsqu'une personne est engagée pour effectuer un nombre précis d'heures de travail pendant une période déterminée ou jusqu'à l'achèvement d'un projet particulier, il ne s'agit pas d'un emploi occasionnel même si le laps de temps est court.
+[30] Compte tenu des faits en l'espèce, je dois conclure que l'emploi de l'appelant n'était pas occasionnel au sens de l'alinéa 5(2)a) de la Loi. L'appelant a travaillé sous la direction du payeur, en tout temps, selon l'horaire de ce dernier, lequel concordait avec les heures d'ouverture de sa clinique. Le travail de l'appelant a duré une semaine ou jusqu'à l'achèvement du projet. Cette période était courte, mais elle était déterminée par la nature précise du projet. L'engagement des parties entre elles était précis et non vague, transitoire ou éphémère.
+[31] En raison de ce qui précède, je dois conclure, en premier lieu, que l'appelant exerçait un emploi assurable aux termes d'un contrat de travail selon le Code civil du Québec et d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi. En outre, l'emploi de l'appelant n'était pas exclu des emplois assurables en vertu de l'alinéa 5(2)a) de la Loi.
+[32] En conséquence, l'appel est accueilli et la décision rendue par le ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 7e jour de juillet 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2006CCI351
+No DU DOSSIER DE LA COUR :
+2005-2331(EI)
+INTITULÉ DE LA CAUSE :
+Jacques Dupuis et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 26 mai 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 7 juillet 2006
+COMPARUTIONS :
+Pour l'appelant :
+Me Gilbert Nadon
+Pour l'intimé :
+Chantal Roberge (stagiaire)
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Gilbert Nadon
+Étude :
+Ouellet, Nadon, Barabé, Cyr, De Merchant, Bernstein, Cousineau, Heap, Palardy, Gagnon, Tremblay Montréal (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

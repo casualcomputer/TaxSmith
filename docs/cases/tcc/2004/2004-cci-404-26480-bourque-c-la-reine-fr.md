@@ -1,0 +1,213 @@
+---
+title: "Bourque c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26480/index.do"
+last_modified: "2004-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 404"
+citation2: ""
+neutral_citation: "2004 CCI 404"
+decision_date: "2004-06-14"
+language: "fr"
+item_id: "26480"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3198
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:21:15.342000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a75da3abf6565e95068b9419136d4a9c1df976b52ec6be06ab01fc6d443e5383"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourque c. La Reine
+
+- Citation: 2004 CCI 404
+- Decision date: 2004-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3198, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourque c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-14
+Référence neutre
+2004 CCI 404
+Numéro de dossier
+2003-3985(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3985(IT)I
+ENTRE :
+MARIO BOURQUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Requête entendue le 1er mars 2004 à Québec (Québec)
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocat de l'appelant :
+Me Patrick Poulin
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'avocate de l'intimée afin d'obtenir le rejet des appels pour défaut d'intérêt;
+Et vu la déclaration sous serment d'Alain Solliec déposée;
+La requête de l'intimée est accueillie et les appels de monsieur Bourque à l'égard des cotisations d'impôt visant madame Brunelle sont rejetés, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juin, 2004.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2004CCI404
+Date : 20040614
+Dossier : 2003-3985(IT)I
+ENTRE :
+MARIO BOURQUE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Archambault
+[1] L'intimée a présenté une requête pour obtenir le rejet des appels de monsieur Bourque pour défaut d'intérêt puisqu'ils visent des cotisations de son ancienne épouse, soit celles pour les années d'imposition 1996, 1997 et 2000. Pour mieux comprendre comment a pris naissance cet imbroglio juridique, il est utile de citer les faits énoncés dans l'avis d'appel de monsieur Bourque :
+B. LES FAITS
+1. Le 3 mars 1993, un jugement confirmant le divorce de l'appelant et de son ex-épouse, dans la cause portant le numéro 200-12-048091-921, a été prononcé.
+2. Dans ce jugement, l'Honorable juge Goodwin a fixé la pension alimentaire à être payée par l'appelant aux bénéfices de ses enfants sur une base nette d'impôt, et ce, afin de respecter le jugement de pension alimentaire, daté du 3 septembre 1992.
+3. En 1994, en raison d'une période financière plus difficile, l'appelant a demandé que le montant de pension alimentaire soit révisé à la baisse.
+4. La demande de l'appelant a été accordée dans un jugement de l'Honorable juge Goodwin, datée du 24 février 1994.
+5. Toutefois, dans son jugement diminuant le montant de pension alimentaire à être versé, l'Honorable juge Goodwin n'a pas mentionné si cette nouvelle pension alimentaire était calculée sur une base nette d'impôt.
+6. Selon la législation en vigueur à l'époque du prononcé de ces jugements, les pensions alimentaires pour enfants étaient fiscalisées, c'est-à-dire que le payeur pouvait déduire les montants payés aux bénéficiairex [sic] et ce dernier devait les inclure à son revenu.
+7. Ainsi, l'appelant a déduit de son revenu des années 1993 à 1999, conformément à la législation en vigueur à ce moment, les montants de pension alimentaire versés à son ex-épouse pour le bénéfice de ses enfants.
+8. Or, l'ex-épouse du contribuable n'incluait pas ces montants à son revenu.
+9. L'Agence des douanes et du revenu du Canada (ci-après « ADRC » ) a alors cotisé l'ex-épouse de l'appelant pour les années d'imposition 1998 et 1999, vu que celle-ci n'avait pas inclus les montants de pension alimentaire reçus, au cours de ces deux années, dans ses déclarations de revenus.
+10. L'ex-épouse de l'appelant a donc réclamé le montant des cotisations à l'appelant.
+11. Sur la base des deux jugements établissant et modifiant la pension alimentaire, le juge Walters a condamné l'appelant à payer ces montants à l'ADRC, dans un jugement daté du 4 mai 2001.
+12. L'appelant s'est conformé à ce jugement et à [sic] versé à l'ADRC, les sommes réclamées à son ex-épouse.
+13. Le 13 mai 2003, des avis de nouvelles cotisations ont été émises à l'ex-épouse de l'appelant pour les années d'imposition 1996, 1997 et 2000.
+14. Les motifs à l'appui de ces nouvelles cotisations sont les mêmes que ceux des avis de cotisation portant sur les années d'imposition 1998 et 1999.
+15. Or, l'ex-épouse de l'appelant n'a pas contesté ces avis de nouvelles cotisation [sic], malgré que ceux-ci soient mal fondés en droit.
+16. En effet, les avis de cotisation pour les années d'imposition 1996 et 1997 sont prescrites [sic].
+17. Aussi, depuis l'année 1997, l'ex-épouse de l'appelant n'a pas à inclure les sommes reçues à titre de pension alimentaire dans le calcul de son revenu vu la défiscalisation du régime des pensions alimentaires, d'autant plus que l'appelant n'a pas déduit les sommes versées à celle-ci dans l'année d'imposition 2000.
+18. Conformément aux jugements établissant la pension alimentaire, l'ex-épouse du contribuable a bel et bien reçu une pension alimentaire nette d'impôt en 2000, celle-ci n'étant pas dans l'obligation d'inclure cette somme à son revenu.
+19. Or, malgré que l'appelant ait respecté ses obligations fiscales, ce dernier est le débiteur ultime des montants cotisés au nom de son ex-épouse et ce, en raison de l'application de la Loi facilitant le paiement des pensions alimentaires, loi qui est administrée par le Ministère du Revenu du Québec (ci-après « MRQ » ).
+20. En effet, le 22 mai 2003, le MRQ a fait parvenir à l'appelant une demande de paiement lui exigeant de payer les montants réclamés à son épouse dans les avis de cotisations mentionnées [sic] ci-haut et portant les numéros 6476079, 6476080 et 6476081.
+21. L'appelant à [sic] contesté sa responsabilité eu égard à ces sommes en déposant un avis de contestation auprès du MRQ, en date du 22 juin 2003.
+22. Or, le MRQ a rejeté la demande de l'appelant.
+23. L'appelant, à titre de débiteur ultime de la dette fiscale de son ex-épouse, a contesté les avis de cotisations mentionnés ci-dessus en déposant auprès de l'ADRC des avis d'opposition, eu égard aux trois cotisations ci-haut mentionnées, en date du 17 juillet 2003.
+24. Le 26 août 2003, l'ADRC a fait parvenir une lettre à l'appelant lui mentionnant que ses oppositions pour les années 1996, 1997 et 2000 ne pouvaient être traitées car le délai d'un an pour s'opposer à des cotisations est expiré.
+25. L'ADRC a traité les avis d'opposition de l'appelant, datés du 17 juillet 2003, comme des avis d'opposition à l'égard des cotisations initiales de l'appelant datées du 27 mars 1997, 26 mars 1998 et 14 juin 2001.
+26. Le 29 août 2003, l'appelant a fait parvenir une lettre à l'ADRC réitérant que ce dernier s'opposait aux cotisations émises à l'égard de son ex-conjointe dont il est le débiteur ultime et non aux cotisations émises en son propre nom et demandant une réponse à l'ADRC relativement à ces premières oppositions.
+27. Le 4 septembre 2003, l'ADRC a répondu à l'appelant en lui mentionnant que la lettre du 26 août 2003 constituait sa réponse aux avis d'opposition.
+28. Toutefois, l'ADRC refuse de se prononcer sur les motifs invoqués dans les avis d'opposition de l'appelant.
+29. Ce n'est que lors des conversations téléphoniques entre l'appelant et un des représentants de l'ADRC que l'appelant a découvert que l'ADRC refusait de traiter les avis d'opposition de l'appelant au motif que ce dernier n'a pas l'intérêt nécessaire à la contestation des avis de cotisation émis au nom de son ex-conjointe.
+30. Or, tel qu'il sera démontré lors de l'audience, l'ADRC a ainsi fait une interprétation erronée du paragraphe 165(1) de la Loi de l'impôt sur le revenu (ci-après « LIR » ).
+31. En effet, un contribuable est en droit de s'opposer à un avis de cotisation lorsque ce contribuable est le débiteur ultime d'une dette fiscale.
+32. Étant le débiteur ultime de la dette fiscale de son ex-épouse eu égard aux avis de cotisation ci-dessus mentionnés, ayant lui-même respecté ses propres obligations fiscales dans les années 1996, 1997 et 2000, et ayant des motifs de fond à faire valoir à l'encontre desdits avis de cotisation, nous croyons que l'appelant était et est toujours en droit de s'opposer à ces avis de cotisation et de demander leur annulation.
+33. Le présent appel est bien fondé en faits et en droit
+POUR CES MOTIFS, PLAISE À LA COUR;
+ACCUEILLIR le présent appel;
+ANNULER les avis de cotisation portant les numéros 6476079, 6476080 et 6476081, datés du 13 mai 2003;
+SUBSIDIAIREMENT;
+ORDONNER à l'intimé [sic] de permettre à l'appelant d'amender sa déclaration fiscale pour l'année d'imposition 2000 afin d'éviter une double imposition;
+LE TOUT, avec frais.
+NOUS DEMANDONS que la procédure informelle prévue aux articles 18.1 à 18.28 de la Loi sur la Cour canadienne de l'impôt régissent [sic] le présent appel.
+[2] Dans sa requête, la procureure de l'intimée invoque comme motif que les cotisations établies en vertu de la Loi de l'impôt sur le revenu (Loi) par le ministre du Revenu national (ministre ou l'Agence) l'ont été à l'égard d'un particulier autre que l'appelant, que ce dernier n'a pas le mandat de représenter ce particulier, soit madame Ginette Brunelle, et que, par conséquent, il n'a pas l'intérêt nécessaire pour interjeter appel de ces cotisations.
+[3] À l'appui de sa contestation de la requête, le procureur de monsieur Bourque a produit certains documents, dont une décision rendue le 4 mai 2001 par le juge Walters de la Cour supérieure du Québec. Tout d'abord, on constate dans cette décision que le juge Walters a ordonné à monsieur Bourque de payer la somme de 3 073,24 $ que madame Brunelle devait à l'Agence pour les années d'imposition 1998 et 1999. De plus, sans mentionner de dates ou d'années d'imposition, il a ordonné à monsieur Bourque de rembourser à madame Brunelle toute somme qu'elle pouvait avoir à verser à l'Agence pour des arriérés relatifs à la pension alimentaire nette de 480 $ qu'il était tenu de payer par mois (voir la page 19 de la décision du juge Walters). Or, il est intéressant de noter que le juge Walters évoque, dans l'exposé de ses motifs, la possibilité que madame Brunelle soit tenue de verser de l'impôt à l'égard de l'année d'imposition 2000. Aucune mention n'est faite des années 1996 et 1997. Voici comment le juge Walters s'exprime à la page 7 :
+Il ne faut pas perdre de vue qu'il se pourrait que l'AGENCE DES DOUANES ET DU REVENU du CANADA ajoute une cotisation pour l'année 2000 si le défendeur a inclus la pension alimentaire dans sa déclaration de revenus. Il est fort probable que le Ministère du Revenu du Québec va lui aussi réclamer à la demanderesse, l'impôt sur la pension alimentaire qu'elle a reçue.
+(Voir aussi la page 8 de ses motifs.)
+Par conséquent, il est probable que l'ordonnance mentionnée plus haut visait l'impôt pour l'année 2000.
+[4] Finalement, le juge Walters a modifié, à compter du 22 mars 2001, la pension alimentaire que devait verser monsieur Bourque à madame Brunelle. En effet, il a ordonné à monsieur Bourque de verser une pension annuelle défiscalisée et indexée de 5 831,75 $, soit 485,97 $ par mois. À cela s'ajoute une pension supplémentaire défiscalisée et indexée de 50 $ par mois pour un autre des enfants du couple Bourque/Brunelle.
+[5] Il faut mentionner également que le juge Walters donne une version des faits différente à plusieurs égards de celle fournie dans l'avis d'appel de monsieur Bourque. Notamment, il indique à la page 6 que monsieur Bourque n'a pas demandé la déduction de sa pension alimentaire en 1993, contrairement à ce qui est allégué aux paragraphe 7 de l'avis d'appel de monsieur Bourque. De plus, le juge Walters interprète différemment de monsieur Bourque la décision du 25 février 1994 du juge Goodwin. Ce dernier n'aurait pas modifié à la baisse la pension alimentaire[1], mais aurait plutôt modifié l'exigibilité de cette pension : « il n'y a pas eu diminution de la pension alimentaire mais simplement du paiement d'une partie de celle-ci » (page 5 des motifs du juge Walters). C'est pour cette raison qu'il a rejeté la position de monsieur Bourque, selon laquelle il « n'est plus tenu de respecter l'obligation qui lui était imposée de verser une pension alimentaire nette, puisque selon lui, le jugement n'a pas renouvelé cette obligation » (page 4 de la décision du juge Walters).
+[6] Selon les informations fournies par le procureur de monsieur Bourque, ce dernier aurait acquitté les arriérés de pension alimentaire à l'égard des années d'imposition 1998 et 1999 en versant l'impôt que devait madame Brunelle à l'égard de ces deux années d'imposition. Toutefois, il aurait refusé de verser 5 994,06 $ représentant des arriérés de pension alimentaire, arriérés qui consistaient dans l'impôt que devait madame Brunelle à l'égard des années 1996, 1997 et 2000 et dont le paiement lui avait été demandé par le ministère du Revenu du Québec (MRQ) le 22 mai 2003. En fait, monsieur Bourque a contesté cette demande en produisant auprès du MRQ, le 2 juin 2003, un avis de contestation en vertu de l'article 61 de la Loi facilitant le paiement des pensions alimentaires (L.R.Q. ch. P-2.2) (Loi PPA). Comme motifs de cette contestation, monsieur Bourque indique que les dettes envers le fisc fédéral pour les années d'imposition 1996, 1997 et 2000 n'étaient pas des arriérés de pension alimentaire et dit, « [qu']il s'agit plutôt d'une déclaration amendée présentée par Mme Ginette Brunelle pour chacune des années d'imposition » ! De plus, monsieur Bourque allègue que « Madame Ginette Brunelle s'est tout simplement rendue de son propre chef faire modifier ou amendé [sic] des déclarations d'impôt fédéral des années concernées par pure vengeance [...] » .
+[7] Le 12 juin 2003, le MRQ rendait sa décision et rejetait l'avis de contestation de monsieur Bourque en déterminant qu'il n'y avait eu aucune erreur dans l'établissement du montant demandé. On l'informait alors de son droit de se prévaloir d'un recours auprès de la Cour supérieure en vertu de l'article 63 de la Loi PPA. De plus, le MRQ lui a dit : « si vous êtes en désaccord avec les conclusions rendues par le juge Hubert Walters, nous vous enjoignons de vous adresser au tribunal afin de faire modifier les jugements. Ainsi, le ministre donnera suite à toute nouvelle ordonnance qui sera rendue dans votre dossier. » Or, monsieur Bourque ne s'est prévalu de ni l'un ni l'autre droit d'exercer un recours devant la Cour supérieure.
+[8] Il a plutôt décidé de déposer, le 16 juillet 2003, un avis d'opposition à l'encontre des cotisations d'impôt établies par l'Agence qui concernaient madame Brunelle. Comme le nom de madame Brunelle n'apparaît pas sur le formulaire d'opposition - uniquement les numéros des avis de cotisation la concernant étant indiqués - il n'est pas surprenant que l'Agence ait traité les avis d'opposition de monsieur Bourque comme étant des avis d'opposition à l'encontre de ses propres cotisations. Vu l'insistance de monsieur Bourque, qui contestait véritablement les cotisations de madame Brunelle (et non les siennes), et vu l'avis d'appel déposé devant cette Cour à l'encontre de ces cotisations, l'intimée a été contrainte à produire sa requête en rejet d'appel pour défaut d'intérêt.
+[9] La décision du juge Walters révèle d'autres faits intéressants, dont, tout d'abord à la page 2, le fait que le « jugement de divorce entérinait une convention sur mesures accessoires dans laquelle la pension alimentaire était établie comme suit » :
+Fixe la pension alimentaire à être payée par le défendeur à la demanderesse, pour le bénéfice de ses trois enfants mineurs, à 480 $, nets d'impôts, d'avance le 1er de chaque mois, au domicile de la demanderesse;
+Advenant que la demanderesse soit imposée pour les sommes reçues du défendeur à titre alimentaire, Ordonne au défendeur de payer à la demanderesse, sur demande, un montant équivalent à la somme requise pour procurer à la demanderesse, après déduction selon le taux marginal combiné applicable aux revenus de la demanderesse, les versements ci-dessus prévus, nets d'impôts.[2]
+[10] En outre, à l'époque de la signature de cette convention, monsieur Bourque était « technicien au service du Ministère du Revenu Québec » (motifs du juge Walters, page 6) et « les parties[étaient] conseillées par des avocates d'expérience » (page 3 des motifs du juge Walters). Cela nous fait donc voir sous un tout autre éclairage le fait que monsieur Bourque n'a pas demandé la déduction de la pension alimentaire pour l'année 1993 et que madame Brunelle ne l'avait pas incluse non plus dans son revenu. De plus, le juge Walters indique que monsieur Bourque l'avait déduite en 1994 sans en informer madame Brunelle, qui, elle, ne l'a pas incluse dans son revenu pour cette année-là ni pour les années subséquentes. Le juge Walters décrit ainsi, à la page 6 de ses motifs, les circonstances dans lesquelles des nouvelles cotisations ont été établies à l'égard de madame Brunelle pour les années 1998 et 1999 :
+La demanderesse a reçu un premier avis de cotisation pour 1998; s'ajoutera 1999. Une fois la première surprise passée, elle s'est rendue à l'Agence des douanes, où elle a appris que le défendeur avait déclaré dans ses rapports, la pension alimentaire qu'il lui versait. Ses démarches pour tenter de faire annuler les avis de cotisation sont demeurées vaines, de sorte qu'elle était endettée envers Revenu Canada, au 10 février 2001 (R-1), d'un montant de 3 073,24 $, ce qui comprend un remboursement des prestations fiscales pour enfants, étant donnés les changements intervenus dans son revenu; s'ajoutent les intérêts.
+Comme les parties n'avaient pas tenu compte dans leurs rapports d'impôts respectifs de 1993, de la pension alimentaire, la demanderesse a pris pour acquis qu'il en serait ainsi par la suite. En ce faisant, elle a été, dans une certaine mesure, naïve et imprudente car il aurait été préférable pour elle de s'informer, auprès du défendeur, si ce dernier continuait à ne pas déclarer la pension[3], mais il s'avère qu'il n'y a aucune communication entre les parties, ce qui ne facilite pas les choses, et de toute façon, la demanderesse pouvait s'imaginer qu'elle était protégée par les jugements qui lui accordaient une pension alimentaire nette, tout en faisant confiance au défendeur qu'elle a cru de bonne foi.
+Quant au défendeur, un technicien au service du Ministère du Revenu Québec, il n'était pas sans connaître les conséquences de sa décision d'inclure la pension alimentaire dans sa déclaration fiscale après 1994; on ne peut que désapprouver sa façon d'agir, sans en avoir fait mention à la demanderesse, pas plus que de n'avoir fait parvenir au Ministère que le jugement de 1994.
+Analyse
+[11] À l'appui de sa contestation de la requête de l'intimée, le procureur de monsieur Bourque invoque plusieurs motifs. Tout d'abord, il fait valoir qu'en vertu du paragraphe 165(1) de la Loi, « le contribuable qui s'oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d'opposition. [...] » . Le procureur souligne que le législateur traite de l'opposition à « une » cotisation et non pas à « sa » cotisation. Selon lui, ce texte donne donc ouverture à un recours exercé par une tierce partie qui est, dit-il, l'ultime débiteur des impôts dus, en l'occurance par madame Brunelle. Évidemment, une fois la décision rendue par le ministre sur l'opposition, le contribuable a un droit d'interjeter appel devant la Cour. Selon le procureur, il serait contraire au principe de la justice naturelle, et notamment à la règle fondamentale de audi alteram partem, si on refusait à une personne comme monsieur Bourque le droit d'en appeler d'une décision rendue par le ministre sur son opposition. Le procureur cite notamment la décision rendue par le juge Frenette de la Cour supérieure du Québec dans l'affaire Québec (Sous-ministre du Revenu) c. Guay, 1993 CarswellQue 514, aux paragraphes 27 à 29. Il cite aussi plusieurs décisions rendues par des tribunaux fédéraux, notamment celle de la Cour d'appel fédérale dans l'affaire Gaucher c. Canada, [2000] A.C.F. no 1869 (Q.L.), 2000 DTC 6678 et deux décisions de cette Cour, l'une du juge en chef adjoint Bowman dans Elias c.Canada, [2002] A.C.I. no 8 (Q.L.), 2002 DTC 1293, et l'autre du juge McArthur dans Bâtiment Fafard International Inc. c. La Reine, 99 DTC 504.
+[12] Dans Gaucher et dans Elias, les tribunaux ont décidé qu'un contribuable qui avait fait l'objet d'une cotisation établie en vertu de l'article 160 (Gaucher) ou de l'article 227.1 (Elias) de la Loi pouvait contester l'existence d'une dette fiscale d'une tierce partie, notamment l'auteur du transfert dans le cas d'une cotisation en vertu de l'article 160, ou la société pour laquelle le contribuable était un administrateur dans le cas d'une cotisation selon l'article 227.1 de la Loi. Dans Bâtiment Fafard, le tribunal a décidé qu'un administrateur avait le droit de se substituer à l'appelante dans l'appel d'une société ayant fait faillite, appel que le syndic avait refusé de poursuivre.
+[13] À mon avis, la position défendue par monsieur Bourque est tout à fait mal fondée. Tout d'abord, il n'y a pas ici matière à invoquer le principe de la règle de audi alteram partem, puisque la cotisation de madame Brunelle ne concerne pas monsieur Bourque : il n'est pas une des parties à la cotisation! Monsieur Bourque n'a pas d'intérêt juridique pour contester une cotisation d'impôt visant son ancienne épouse. Seule cette dernière peut interjeter appel à l'encontre des cotisations la concernant. Le fait que monsieur Bourque soit tenu de rembourser l'impôt dû par madame Brunelle en vertu de l'entente qu'ils avaient conclue lors de leur divorce, entente qui stipulait que monsieur Bourque devait verser à madame Brunelle un montant de pension alimentaire net d'impôt, ne lui donne pas le droit de contester les cotisations d'impôt de son ancienne épouse. Si madame Brunelle croit que l'impôt était dû, monsieur Bourque n'a pas à s'y immiscer.
+[14] L'obligation de monsieur Bourque de payer la pension alimentaire, dont le montant dépend en partie de l'impôt que doit payer madame Brunelle, ne découle pas de la Loi ni d'aucune autre loi fiscale. Elle découle en dernier ressort de la décision de la Cour supérieure qui a homologué une entente entre les parties elles-mêmes! Si monsieur Bourque n'était pas satisfait de la décision du juge Walters, il aurait pu interjeter appel devant la Cour d'appel du Québec. Si monsieur Bourque n'était pas satisfait de la décision du MRQ sur son avis de contestation, il aurait pu interjeter appel devant la Cour supérieure en vertu de la Loi PPA. Si monsieur Bourque croyait que madame Brunelle avait agi de façon malicieuse ( « par pure vengeance » ) et en portant atteinte à ses droits en ne contestant pas les cotisations du ministre pour les années 1996, 1997 et 2000, il aurait pu s'adresser également à la Cour supérieure. À mon avis, c'est là le forum approprié où monsieur Bourque pourrait faire sa contestation[4]. Or, monsieur Bourque n'a encore rien fait de tout cela. S'il n'a pas été entendu, c'est parce qu'il n'a pas demandé au bon tribunal de l'entendre.
+[15] En outre, il est loin d'être certain que monsieur Bourque a raison lorsqu'il affirme que les montants d'impôt n'étaient pas dus par madame Brunelle. Je n'ai pas à décider de cette question puisqu'elle n'a pas été débattue et la preuve n'a pas été faite. Monsieur Bourque n'a même pas comparu devant moi et il n'a pas témoigné lors de la contestation de la requête[5].
+[16] De toute façon, même si madame n'avait pas à payer ces impôts, cela ne changerait en rien ma décision. À mon avis, la décision Guay (précitée) invoquée par le procureur de monsieur Bourque n'est d'aucune utilité pour lui. Contrairement à monsieur Bourque (par rapport à la cotisation de madame Brunelle), monsieur Guay n'était pas une tierce partie; il contestait son propre impôt. Monsieur Guay demandait rétractation d'un jugement obtenu par le MRQ en vertu du dépôt d'un certificat attestant que monsieur Guay devait des sommes d'impôt au MRQ, le tout selon l'article 13 de la Loi sur le ministère du Revenu. Dans cette affaire, il est curieux qu'il n'y ait aucune mention de production d'avis d'opposition par monsieur Guay auprès du MRQ pour contester ses cotisations d'impôt puisque, au paragraphe 5 de la décision, il est indiqué que de telles cotisations avaient été établies et qu'un échange de correspondance était intervenu entre le MRQ et le comptable de monsieur Guay. L'exposé des faits du juge Frenette n'indique pas ce qui est advenu à cet égard. Y avait-il eu production d'avis d'opposition selon la procédure normale et avait-on communiqué à monsieur Guay la décision du MRQ à l'égard de ces avis d'opposition? L'exposé des faits, je le répète, est silencieux sur cette question. Si monsieur Guay avait été informé en temps opportun de la cotisation et qu'il ne se soit pas prévalu de son droit d'opposition, je m'explique mal qu'on puisse prétendre qu'il y a eu violation de la règle de justice naturelle de audi alteram partem dans de telles circonstances!
+[17] Quant aux décisions Gaucher et Elias, elles ne sont d'aucune aide non plus à monsieur Bourque puisque, dans ces décisions, les deux contribuables étaient visés personnellement par des cotisations établies par le ministre en vertu des articles 160 ou 227.1 de la Loi et qu'ils contestaient ces cotisations. Or, il s'agit ici de cotisations visant non pas monsieur Bourque, mais madame Brunelle. À mon avis, il faut plutôt appliquer l'approche suivie par le juge Strayer, alors juge à la Cour fédérale, Section de première instance, dans l'affaire Nova Ban-Corp. Ltd. c. Tottrup, [1990] 1 C.F. 288, aux pages 294 et 295, 89 DTC 5489, à la page 5491 :
+La Loi de l'impôt sur le revenu [S.C. 1970-71-72, chap. 63] interdit également à quiconque sauf au contribuable de contester une cotisation d'impôt. Les termes mêmes de la Loi ne le prévoient pas. Selon les articles 165, 169 [...] et l'ancien article 172 (qui autorise les appels devant la Cour fédérale), seul le « contribuable » est autorisé à déposer une opposition à une cotisation ou à intenter un appel. En l'espèce, il est évident que Nova Ban-Corp Limited n'est pas le contribuable en question. Je ne peux pas trouver une disposition de la Loi de l'impôt sur le revenu en vertu de laquelle la créancière Nova Ban pourrait interjeter appel de la cotisation de Container Port en intentant une poursuite au nom de cette dernière. [...] Mise à part l'absence d'une autorisation expresse permettant une telle procédure, je partage l'avis de mon collègue le juge Walsh qui, dans l'affaire Hart c. Canada (M.R.N.) [Voir Note 2 ci-dessous] a statué que le créancier d'un contribuable n'avait pas qualité pour contester la cotisation et les mesures d'exécution prises en vertu de ladite cotisation. J'estime que l'arrêt de la Chambre des lords Inland Revenue Comrs v. National Federation of Self-Employed and Small Businesses Ltd., [Voir Note 3 ci-dessous] qu'il a cité, justifie clairement le rejet de toute idée selon laquelle une personne autre que le contribuable peut contester sa cotisation. Dans cette affaire, la Chambre des lords a mis l'accent sur le principe de la confidentialité des renseignements en matière d'impôt, principe selon lequel les tiers ne peuvent contester une cotisation. Au Canada, cette confidentialité est requise, dans des circonstances semblables à celles en l'espèce, par le paragraphe 241(2) [...] de la Loi de l'impôt sur le revenu qui dispose qu'aucun fonctionnaire ne peut être contraint, dans le cadre de procédures judiciaires, à témoigner au sujet de renseignements obtenus au nom du Ministre aux fins de la présente Loi. Cela constituerait clairement un obstacle majeur pour un tiers qui déciderait de contester une cotisation devant le tribunal et on ne peut pas inférer qu'une telle contestation est autorisée.
+[18] La seule décision, à mon avis, qui semble favoriser la thèse de monsieur Bourque est celle rendue dans l'affaire Bâtiment Fafard International Inc. Il est important de mentionner que, dans cette affaire, un administrateur voulait poursuivre l'appel interjeté par une société qui avait, par la suite, fait faillite. Le juge a permis à monsieur Fafard de contester la cotisation d'impôt établie à l'égard de la société pour défaut de remise de retenues à la source, parce que, selon lui (au paragraphe 25) :
+[...] si je refuse le droit à Monsieur Fafard de continuer les procédures pendantes, le résultat serait inéquitable. L'appelante serait non représentée puisque le syndic refuse d'agir. Qu'advient-il du processus adversatif de notre système juridique, l'un des piliers sur lequel [sic] est basé tout le système juridique? L'injustice adviendra puisque l'appelante ne pourra pas se présenter devant la Cour, ayant personne pouvant la représenter. [...] D'ailleurs, permettre à Monsieur Fafard de continuer les procédures est la façon la plus efficace de rendre justice expéditivement.
+[19] Or, cette approche va clairement à l'encontre de la décision rendue par le juge Strayer dans l'affaire Nova Ban-Corp. Ltd. De plus, il faut noter qu'il s'agit d'une décision rendue avant celle de la Cour d'appel fédérale dans l'affaire Gaucher et celle de cette Cour dans Elias, qui reconnaissent pleinement le droit à un administrateur de contester, dans le cas d'une cotisation établie en vertu de l'article 227.1 de la Loi, le montant même de la dette fiscale (résultant du défaut d'avoir remis les retenues à la source) de la société dont il était un administrateur. L'injustice décrite par le juge dans Bâtiment Fafard International Inc. serait évitée en raison des principes adoptés dans les décisions Elias et Gaucher. Par conséquent, je suis loin d'être certain que ce juge aurait adopté la même approche s'il avait eu le bénéfice de ces décisions avant de rendre la sienne.
+[20] Je conclurai ces motifs en répétant la suggestion qui avait été faite à monsieur Bourque par le MRQ : si monsieur Bourque n'est pas satisfait de la décision rendue par la Cour supérieure, ou s'il croit que la portée qu'on a donnée à celle-ci est trop grande, il doit s'adresser à la Cour supérieure. C'est devant cette cour-là que monsieur Bourque aura la possibilité d'établir si madame avait véritablement une dette fiscale et si la conduite de cette dernière porte atteinte à ses droits.
+[21] Pour tous ces motifs, la requête de l'intimée est accueillie et les appels de monsieur Bourque à l'égard des cotisations d'impôt visant madame Brunelle sont rejetés[6].
+Signé à Ottawa, Canada, ce 14e jour de juin, 2004.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI404
+No DU DOSSIER DE LA COUR :
+2003-3985(IT)I
+INTITULÉ DE LA CAUSE :
+Mario Bourque et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 1er mars 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Pierre Archambault
+DATE DU JUGEMENT :
+le 14 juin 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Patrick Poulin
+Pour l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Patrick Poulin
+Étude :
+Joli-Coeur, Lacasse, Geoffrion, Jetté, St-Pierre, avocats (senc)
+Sillery (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir par. 5 de l'avis d'appel de monsieur Bourque.
+[2] Voir la note 5 ci-après.
+[3] Voir la note 5 ci-après.
+[4] Dans l'exercice d'un tel recours, monsieur Bourque pourrait invoquer l'approche adoptée par la Cour d'appel fédérale dans l'affaire Gaucher ainsi que celle adoptée par le juge en chef adjoint Bowman dans Elias et soulever la question de l'exigibilité des sommes qu'on lui réclame. À mon avis, la Cour supérieure serait tout à fait compétente pour décider si madame Brunelle avait une dette fiscale et si monsieur Bourque était tenu en vertu des ordonnances antérieures de la Cour supérieure à verser à madame Brunelle une somme correspondant à une telle dette fiscale.
+[5] J'ajouterai, toutefois, que même si son procureur a soutenu lors de l'audition que les années 1996 et 1997 étaient prescrites (par. 16 de l'avis d'appel), le ministre pouvait toujours établir des nouvelles cotisations s'il était établi que madame Brunelle avait fait dans sa déclaration de revenus une présentation erronée des faits par inattention, négligence ou omission volontaire. Or, les faits relatés dans la décision du juge Walters sont troublants. Tout d'abord, monsieur Bourque est un technicien au service du MRQ qui, selon les dires du juge Walters, « n'était pas sans connaître les conséquences de sa décision d'inclure la pension alimentaire dans sa déclaration fiscale après 1994 » . Quant à moi, j'adopterais une position différente de celle de ce dernier. Je dirais plutôt que monsieur Bourque n'était pas, selon toute vraisemblance, sans connaître l'obligation qu'avait son ancienne épouse d'inclure sa pension alimentaire dans sa déclaration de revenus pour l'année 1993 et le droit qu'il avait lui-même de la déduire de ses propres revenus. Pourquoi ne l'a-t-il pas déduite en 1993? Était-ce parce qu'il ne voulait pas attirer l'attention des autorités fiscales sur le fait que la pension alimentaire n'avait pas été incluse dans les revenus de son ancienne épouse? Il semble que son économie d'impôt résultant de la déduction de la pension alimentaire aurait été inférieure à l'impôt à payer par madame Brunelle relativement à cette pension. Il faut rappeler que monsieur Bourque, un technicien du MRQ, et madame Brunelle étaient conseillés par des avocates d'expérience lorsqu'ils ont négocié le paiement d'une pension alimentaire nette d'impôt. Ils devaient donc savoir que madame Brunelle avait l'obligation d'inclure dans son revenu la pension alimentaire versée à la suite d'une ordonnance d'une cour et que monsieur Bourque avait le droit de la déduire.
+Il faut mentionner de plus ces propos, rapportés par le juge Walters, tenus par le juge de la Cour supérieure qui avait rendu la décision du 3 septembre 1992 portant sur les mesures provisoires :
+Comme le taux d'imposition marginal combiné sur les revenus de la demanderesse est susceptible d'être supérieur à celui applicable aux revenus moindres du défendeur, il en va de l'intérêt de ce dernier de ne pas réclamer la déduction de la pension alimentaire qui devrait être majoré du montant requis pour procurer une rente annuelle nette de 480 $ entre les mains de la demanderesse.
+Je dois mentionner que je suis tout à fait surpris que de tels propos aient été tenus dans cette décision. Ils laissent entendre que l'imposition d'une pension alimentaire reçue par le bénéficiaire dépend de la déduction demandée par le payeur d'une telle pension. Une simple lecture des dispositions pertinentes de la Loi et de celles de la Loi sur les impôts en vigueur en 1993 indique clairement que l'inclusion d'une pension alimentaire dans le revenu d'un contribuable ne dépend pas de la déduction de cette pension par le payeur. Au contraire, toute pension alimentaire (à savoir une somme payable périodiquement pour subvenir aux besoins alimentaires du bénéficiaire de la pension) versée en vertu d'une « entente écrite » ou d'une « ordonnance [...] d'un tribunal » ayant compétence en la matière doit être incluse dans le revenu du bénéficiaire de la pension. (D'autres conditions doivent être remplies, mais elles ne sont pas pertinentes ici.) Si monsieur Bourque, un technicien au service du MRQ, et madame Brunelle ont véritablement été bien conseillés par des avocates « d'expérience » , j'ose espérer qu'ils savaient pertinemment que madame Brunelle devait inclure sa pension alimentaire dans son revenu et que monsieur Bourque devait, pour satisfaire à l'ordonnance de la Cour supérieure, verser un montant de 480 $ majoré de l'impôt payable par madame Brunelle.
+Je m'explique donc mal que madame Brunelle n'ait pas inclus en 1993 la pension versée par monsieur Bourque et que ce dernier ne l'ait pas déduite dans le calcul de son revenu. Il ne serait pas surprenant, comme l'a d'ailleurs laissé entendre le procureur de monsieur Bourque, que madame Brunelle ait décidé de faire une « déclaration volontaire » pour régulariser la situation à l'égard des années 1996 et 1997.
+Quant à l'année 2000, la pension alimentaire versée par monsieur Bourque au cours de cette année l'a été en vertu d'une ordonnance de la Cour supérieure antérieure à mai 1997. Je ne vois pas comment cette pension pourrait avoir été défiscalisée (par. 17 de l'avis d'appel)! La décision du juge Walters a été rendue le 4 mai 2001! (Voir la définition de « date d'exécution » au paragraphe 56.1(4) de la Loi.)
+[6]
+Monsieur Bourque a demandé subsidiairement qu'on lui permette de modifier sa déclaration fiscale pour l'année d'imposition 2000. La Cour n'a pas cette compétence. D'ailleurs, son procureur n'a cité aucune disposition de la Loi à l'appui de cette demande. Il s'agit là d'une demande plutôt surprenante pour quelqu'un qui affirme n'avoir interjeté appel qu'à l'encontre des cotisations de madame Brunelle!

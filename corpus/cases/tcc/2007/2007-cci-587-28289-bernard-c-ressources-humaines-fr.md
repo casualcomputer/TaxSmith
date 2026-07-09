@@ -1,0 +1,195 @@
+---
+title: "Bernard c. Ressources Humaines"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28289/index.do"
+last_modified: "2007-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 587"
+citation2: ""
+neutral_citation: "2007 CCI 587"
+decision_date: "2007-10-22"
+language: "fr"
+item_id: "28289"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1873
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:09:39.572000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f179f2626487074af56405b5b031133deaae8893157525e39bc009c7533f704"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bernard c. Ressources Humaines
+
+- Citation: 2007 CCI 587
+- Decision date: 2007-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1873, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernard c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-22
+Référence neutre
+2007 CCI 587
+Numéro de dossier
+2007-1611(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2007-1611(EI)
+ENTRE :
+MICHELINE BERNARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+____________________________________________________________________
+Appel entendu le 27 août 2007, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l'appelante :
+Réal Bernard
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est accueilli au motif que monsieur Lawrence Bernard a effectué du travail pour l’appelante, Micheline Bernard, du 10 avril au 19 mai 2006 dans le cadre d'un emploi assurable au sens de l’alinéa 5(1)a) de la Loi, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI587
+Date : 20071022
+Dossier : 2007-1611(EI)
+ENTRE :
+MICHELINE BERNARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à l’assurabilité d’un travail exécuté pendant la période allant du 10 avril au 19 mai 2006 pour le compte de Micheline Bernard.
+[2] L’intimé a tenu pour acquis les hypothèses de fait suivantes pour en arriver à sa décision quant à son assurabilité :
+5. a) L’appelante exploite une cantine-restaurant de 32 places, immatriculée le 24 novembre 1994 1988 sous la raison sociale de « Restaurant Cantine Mimi »;
+b) l’appelante est la propriétaire du commerce mais c’est son conjoint, M. Réal Bernard qui gère le commerce;
+c) Seuls l’appelante et son conjoint travaillent au commerce, leur fille y travaille occasionnellement;
+d) M. Réal Bernard exploite aussi un « card lock », une station service pour véhicules lourds, sur un terrain qu’il loue;
+e) M. Réal Bernard doit assumer l’entretien du terrain et du garage et il a acheté un « loader » pour faire le déneigement de tous les terrains (restaurant, « card lock », résidences et autres bâtiments);
+f) le restaurant de l’appelante est situé au 560, route 108, la résidence de l’appelante et de M. Réal Bernard est située au 570, route 108 et le travailleur, frère de Réal, habite au 580, route 108;
+g) il s’agit de 3 bâtiments distincts situés l’un à côté de l’autre et le garage est situé à l’arrière de la résidence de l’appelante et de Réal Bernard;
+h) Les bâtiments situés au 560 et 570, route 108 appartenaient à Réal [sic] Bernard tandis que celui du 580, route 108, appartenait à l’appelante;
+i) en plus de ses autres activités, Réal Bernard a accepté, en 2006, un nouveau contrat pour la fabrication de palettes à partir de morceaux de mélamine;
+j) plus précisément, Réal Bernard devait couper des bouts de mélamine, mesurant 3 pouces par 3 pouces sur 61 pouces de long, en longueur de 48 pouces, il les cordait, mettait des capuchons pour empêcher l’eau d’abîmer la mélamine et les enveloppait dans du plastique pour les livrer;
+k) M. Réal Bernard ne voulait pas obtenir de numéro d’employeur pour ses autres activités non liées au restaurant et toutes les transactions commerciales passaient par le commerce de l’appelante;
+l) les revenus de la coupe de mélamine étaient déclarés dans la déclaration d’impôt de l’appelante;
+m) Réal Bernard et l’appelante ne faisaient pas de réelle distinction entre leurs entreprises respectives et nous pouvons concevoir que l’appelante soit considérée comme l’employeur;
+n) le travailleur n’a jamais rendu de service à la cantine-restaurant de l’appelante;
+o) le travailleur aurait été embauché par son frère, Réal, pour s’occuper des travaux liés à la coupe des morceaux de mélamine;
+p) le travailleur prétend que, durant la période en litige, il faisait 40 heures par semaine alors que ses heures n’étaient pas comptabilisées ni par l’appelante ni par Réal Bernard;
+q) le travailleur aurait été embauché par son frère, Réal, pour s’occuper des travaux liés à la coupe des morceaux de mélamine;
+r) le travailleur prétend que, durant la période en litige, il faisait 40 heures par semaine alors que ses heures n’étaient pas comptabilisées ni par l’appelante ni par Réal Bernard;
+s) le travailleur a obtenu un relevé d’emploi de l’appelante alors qu’il travaillait au garage du 570, route 108 appartenant à Réal Bernard;
+t) le travailleur travaillait généralement seul au garage et personne ne contrôlait ses heures de travail;
+u) durant la période en litige, il aurait reçu 12 $ de l’heure, pour 40 heures par semaine (480 $ brut) alors que dans les faits on lui versait un montant en argent liquide après avoir déduit une somme pour son loyer;
+v) Réal Bernard décidait du montant qu’il remettait au travailleur sur sa paie et le montant qu’il conservait supposément pour le loyer;
+w) il n’existe aucune preuve des sommes versées au travailleur pour son prétendu travail effectué pour l’appelante ou pour Réal Bernard;
+x) le relevé d’emploi émis par l’appelante au nom du travailleur ne reflète pas la réalité quant à la période de travail, quant aux heures réellement travaillées et quant à la rémunération versée au travailleur;
+y) le prétendu travail du travailleur s’est terminé après 6 semaines, en considérant 40 heures par semaine, soit après qu’il ait obtenu un nombre suffisant d’heures pour le qualifier à recevoir des prestations de chômage;
+6. L’appelante et le travailleur sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+a) l’appelante est la seule propriétaire de la cantine-restaurant exploitée sous la raison sociale de « Restaurant Cantine Mimi »;
+b) l’appelante est considérée le payeur du travailleur;
+c) le travailleur est le beau-frère de l’appelante;
+d) le travailleur est lié à une personne qui contrôle le payeur;
+7. De plus, le ministre a déterminé que l’appelante et le travailleur avaient un lien de dépendance entre eux dans le cadre de l’emploi. En effet, le ministre a été convaincu qu’il était raisonnable de conclure que l’appelante et le travailleur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le travailleur prétend qu’il recevait 12 $ de l’heure pour 40 heures de travail par semaine alors que personne ne peut préciser ses heures réelles de travail;
+b) le travailleur recevait une rémunération en argent liquide après que Réal Bernard eu déduit une somme pour le paiement du loyer pour la maison qu’il occupait et qui appartenait à l’appelante;
+c) il n’existe aucune preuve quelconque du montant versé au travailleur pour le prétendu travail effectué pour l’appelante;
+d) le travailleur n’était pas contrôlé pour le prétendu travail effectué pour l’appelante;
+e) le travailleur a obtenu un relevé d’emploi indiquant 6 semaines de travail ou 240 heures soit suffisamment d’heures pour le qualifier à recevoir des prestations de chômage;
+[3] Seul le conjoint de l’appelante, Réal Bernard, a témoigné au soutien de l’appel. L’intimé a fait entendre le travailleur, frère du représentant de l’appelante. Le représentant de l’appelante a admis les paragraphes 5a) à 5o) inclusivement, les alinéas q), s) et t), ainsi que les paragraphes 6a) à 6d) inclusivement.
+[4] Réal Bernard a décrit les lieux de l’exécution du travail. Il a expliqué qu’il se rendait souvent à l’atelier situé très près de l’endroit où était exécuté le travail; il aidait alors le travailleur qui n’était pas en mesure de faire seul certains travaux.
+[5] Il a également expliqué que la proximité de l'atelier et de l’endroit où le travail était effectué faisait en sorte qu’il avait accès aux lieux de travail très facilement mais aussi très rapidement.
+[6] Réal Bernard a affirmé que le début et la fin de la période de travail ont été déterminés par des faits sur lesquels il n'avait aucun contrôle. Avant que la période de travail ne commence, l’employeur avait dû attendre l’autorisation du fournisseur de la matière première; il a indiqué que le travail a pris fin à la suite d’un différend avec le fournisseur de la matière première.
+[7] Pour ce qui est du salaire, le représentant de l’appelante a expliqué que cela lui apparaissait raisonnable et comparable à ce qu’il aurait dû payer à toute personne avec laquelle il n’aurait pas eu de lien de dépendance.
+[8] La rémunération de 12 $ de l’heure était payée en argent en fonction d'un horaire de travail de 40 heures par semaine. À la demande du travailleur, l'employeur déduisait du salaire certains montants pouvant représenter le remboursement d’avances ou même d’arrérages ou de loyer; en effet, le travailleur résidait dans une maison qui était la propriété de son frère et la conjointe de celui‑ci et qui était située à quelques dizaines de pieds de l’atelier où était exécuté le travail.
+[9] Il a fourni plusieurs explications pour justifier le paiement du salaire en argent, explications qui peuvent se résumer à une question de coûts, d’efficacité et d'avantages tant pour le payeur que pour le travailleur.
+[10] Il a cependant beaucoup insisté sur le fait que tout était clairement et expressément inscrit au livre des salaires de l’entreprise, tenu par une firme d’experts en la matière. Il a d’ailleurs produit une copie des documents comptables validant ses prétentions à cet effet.
+[11] Le travailleur a témoigné à la demande de l’intimé. Il a, en gros, confirmé le témoignage de son frère, bien que, sur certains aspects, son témoignage était assez flou ou confus, notamment en ce qui concerne les retenues relatives à ses dettes à l’endroit de son frère.
+[12] Madame Sylvie Bourque a également témoigné en sa qualité d’enquêteur au dossier. Elle a indiqué avoir fait enquête sur les faits à l’origine de la décision faisant l’objet du présent appel.
+[13] Elle a relevé toute une série d’éléments qui, manifestement, ont influencé fortement sa recommandation faite aux autorités devant prendre la décision finale.
+[14] Elle a notamment relevé les faits suivants :
+· Le travailleur était payé en argent.
+· Le montant versé était souvent amputé du remboursement d’une dette ou du montant relatif à son loyer.
+· Il y avait de la confusion au niveau des activités imputées au restaurant.
+· Le relevé d’emploi ne faisait pas état du lien de dépendance entre le travailleur et son employeur.
+· Il y avait une absence de contrôle quant au nombre d’heures travaillées.
+· L'employeur était continuellement absent des lieux de travail.
+· Il y avait une coïncidence entre la durée du travail et le nombre de semaines de travail nécessaires pour être admissible à l'assurance‑emploi.
+· Le travailleur a tardé à déposer sa demande de prestations.
+[15] Le témoignage de madame Bourque a cependant permis à la Cour de savoir qu’elle avait communiqué avec la personne du bureau de comptables responsable des entrées relatives au salaire du travailleur. En raison de ce renseignement, l'hypothèse que le salaire était payé comptant perdait toute pertinence.
+[16] Le relevé d’emploi permettant d’évaluer le nombre d’heures manquantes a aussi permis de constater que le salaire du travailleur ayant trait à la coupe des sapins de Noël correspondait sensiblement à celui reçu pour l’exécution du travail en question.
+[17] En substance, les fondements de la détermination ne sont aucunement déterminants lorsqu'ils son replacés dans leur véritable contexte. En d'autres termes, l'analyste a interprété la plupart des faits retenus hors contexte.
+[18] De son côté, l’appelante prétend qu’un véritable contrat de louage de services a été conclu et que toutes les conditions nécessaires à l’existence d’un tel contrat étaient présentes.
+[19] Outre le fait de conclure que le lien de dépendance a façonné ou influencé la relation de travail, l’intimé soutient qu’il s’agissait d’un arrangement entre frères qui visait à permette à Lawrence Bernard de devenir admissible à des prestations d’assurance‑emploi et que l'employeur avait établi un relevé d’emploi de complaisance.
+Analyse
+[20] Il s’agit d’un dossier dont le sort repose essentiellement sur la crédibilité des parties.
+[21] Dans un premier temps, je reconnais que certains éléments ont très clairement identifiés par l’enquêteur au dossier, soit principalement : (1) le paiement en argent, (2) les retenues pour diverses dettes et (3) la période de travail correspondant à ce que le travailleur avait ’il avait besoin pour devenir admissible aux prestations d’assurance-emploi.
+[22] Ces éléments appuient la recommandation de l’enquêteur qui, de plus, a conclu que l'employeur n'exerçait pas ou très peu de contrôle et que les activités étaient imputées à l’administration de la cantine dont les activités habituelles n’avaient rien à voir avec le travail exécuté par le travailleur.
+[23] La preuve a permis de faire la lumière sur les faits qui discréditent l’évaluation sur laquelle est fondée la décision dont il est fait appel.
+[24] En effet, l’intimé prétend qu’il y a absence de preuve de paiements de rémunération étant donné que les paiements auraient été faits en argent comptant. Or, les registres comptables de l’entreprise font bel et bien état des paiements dus et faits à titre de rémunération. Le fait de payer quelqu’un en argent comptant complique peut-être les choses au niveau de la preuve, mais ce n’est certainement pas en soi une preuve de non‑paiement.
+[25] En l’espèce, le représentant de l’appelante a de plus expliqué pourquoi des paiements ont été faits en argent. L'explication voulant que l'employeur n’avait pas à faire de dépôt pour couvrir les chèques, un aspect pratique tant par le débiteur que pour le créancier, est une explication plausible et raisonnable.
+[26] Pour ce qui est de la gestion intégrée aux activités du restaurant, cette façon de faire n’était pas la formule idéale, mais elle n'était certainement pas inacceptable.
+[27] Quant à la durée de l’emploi, le représentant de l’appelante a fourni des explications valables, à savoir que le début du travail avait coïncidé avec le feu vert donné par l’entreprise à qui appartenait les pièces de mélamine sur lesquelles devaient être faits des travaux. Quant à la fin du travail, monsieur Bernard a affirmé que l’entente était insatisfaisante et qu’à défaut d’une révision à la haussé de la contrepartie, il en était venu à la conclusion que l’activité n’était pas rentable; il a donc abandonné l'activité et a retourné la matière première à l’entreprise. Une preuve documentaire appuyant cette explication a été fournie.
+[28] Quant au salaire, il était raisonnable et correspondait au salaire habituel que recevait le travailleur pour son travail lié à la coupe de sapins de Noël.
+[29] Finalement, pour ce qui est du contrôle, les explications soumises m’apparaissent largement suffisantes pour conclure qu'il y avait un tel contrôle, celui‑ci étant le fondement d’un véritable lien de subordination.
+[30] En effet, la proximité des lieux, la nature du travail et les visites fréquentes du représentant de l’appelante sont des éléments largement suffisants pour conclure à l’existence d’un véritable lien de subordination.
+[31] Ce sont là des éléments qui constituent les fondements de la preuve soumise par l’appelante. Il s’agit d’une preuve prépondérante dont les composantes étaient disponibles au moment de l’enquête.
+[32] L’analyse de ces éléments et surtout les conclusions retenues ne sont pas raisonnables; elles sont même déraisonnables puisqu’elles reposent principalement sur le fait que les déclarations du travailleur et du payeur n’étaient pas crédibles; en d’autres termes, pour justifier sa décision, l’intimé a tenu pour acquis que le travailleur et son frère, représentant de l’appelante, ont menti sur toute la ligne. Il eût alors fallu démontrer les faits permettant de justifier une appréciation aussi sévère.
+[33] J’avoue avoir des réserves quant à la véracité de certaines de leurs affirmations. Je ne crois cependant pas que l’ensemble de leur témoignage doive être écarté au motif qu'ils ne sont pas digne de foi.
+[34] La prépondérance de la preuve commande une révision de la décision, dont l'appelante fait appel.
+[35] Je conclus au bien‑fondé de l'appel au motif que le travail exécuté entre le 10 avril et le 19 mai 2006 a été exécuté en vertu d'un véritable contrat de louage de services semblable à celui qu’un tiers aurait pu conclure dans une situation comparable.
+[36] L’appel est donc accueilli.
+Signé à Ottawa, Canada, ce 22e jour d'octobre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI587
+Nº DU DOSSIER DE LA COUR : 2007-1611(EI)
+INTITULÉ DE LA CAUSE : MICHELINE BERNARD ET MRN
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 27 août 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 22 octobre 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Réal Bernard
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

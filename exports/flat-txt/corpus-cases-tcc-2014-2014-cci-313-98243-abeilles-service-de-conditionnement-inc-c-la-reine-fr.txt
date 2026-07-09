@@ -1,0 +1,649 @@
+Title: Abeilles service de conditionnement inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98243/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-313-98243-abeilles-service-de-conditionnement-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-10-23
+
+# Abeilles service de conditionnement inc. c. La Reine
+
+- Citation: 2014 CCI 313
+- Decision date: 2014-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abeilles service de conditionnement inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-23
+Référence neutre
+2014 CCI 313
+Numéro de dossier
+2011-2054(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2054(IT)G
+ENTRE :
+LES ABEILLES SERVICE DE
+CONDITIONNEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 18, 19, 20, 26 juin et 11 juillet 2013,
+à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocate de l’appelante :
+Me Julie Patenaude
+Avocate de l’intimée :
+Me Christina Ham
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2009 est accueilli, avec dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que les projets 2007-01, 2007-02, 2009-01 et 2009-02[1] constituent du développement expérimental au sens de la Loi.
+Si les parties ne parviennent pas à s’entendre sur les dépens au plus tard le 19 décembre 2014, j’entendrai les observations des parties à une date devant être fixée par le greffe de la Cour.
+Signé à Ottawa (Ontario), ce 23e jour d’octobre 2014.
+« Gaston Jorré »
+Juge Jorré
+Référence : 2014 CCI 313
+Date : 20141023
+Dossier : 2011-2054(IT)G
+ENTRE :
+LES ABEILLES SERVICE DE
+CONDITIONNEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction [1] Le 27 janvier 2011, le ministre du Revenu national a émis une nouvelle cotisation relative à l’année d’imposition 2009. Le ministre a révisé à la baisse le montant du crédit d’impôt pour recherche scientifique et développement expérimental réclamé par l’appelante relativement aux projets suivants :
+a) 2007-01 : Développement d’un nouveau procédé d’assemblage de moteurs pour sécheuses (ce projet a débuté en 2007).
+b) 2007-02 : Développement d’un nouveau procédé d’assemblage d’éléments chauffants pour sécheuses (ce projet a débuté en 2007).
+c) 2009-01 : Développement d’un nouveau procédé d’assemblage de panneaux de contrôle en flux tirés avec séquencement électronique.
+d) 2009-02 : Synchronisation d’opération à haute vitesse pour l’application de composantes secondaires sur une composante imprimée.
+[2] La très grande majorité des dépenses donnant lieu au crédit réclamé sont des dépenses de salaires encourues au cours d’essais sur la chaîne de production.
+[3] Le ministre affirme que les activités de l’appelante ne comportaient pas d’incertitude scientifique, qu’elles n’ont pas été réalisées selon une investigation ou une recherche systématique d’ordre scientifique ou technologique et qu’elles n’étaient que des activités de routine ne comportant aucune recherche pure, aucune recherche appliquée et aucun développement expérimental. Pour ces raisons, le ministre prétend qu’il avait raison de refuser la réclamation de l’appelante.
+[4] Il n’y a aucun doute que le but des projets en question était d’augmenter l’efficacité de la production et, dans un cas[2], de maîtriser une production de nature nouvelle.
+[5] L’appelante conteste la décision du ministre et prétend que les projets étaient admissibles au crédit demandé.
+[6] À l’article 248, la Loi de l’impôt sur le revenu définit « activités de recherche scientifique et de développement expérimental » de la façon suivante[3] :
+Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux techniques, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données[4].
+[7] Si nous enlevons les parties qui ne sont pas pertinentes à ce litige, la définition se lit :
+Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) […]
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux […] dispositifs […] ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable […] relativement aux travaux techniques, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais […], lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable […] et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) […]
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) […]
+h) […]
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) […]
+k) […]
+[8] Ultimement, le débat essentiel est de savoir si les projets en question constituent :
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux […] dispositifs […] ou procédés ou de l’amélioration, même légère, de ceux qui existent[5].
+[9] Au cœur du débat, il y a la question de savoir s’il s’agit de progrès technologique; il y a aussi une différence importante de perspective. L’intimée a plus tendance à regarder de façon isolée chaque essai fait par l’appelante; l’appelante regarde plus globalement tous les essais à l’intérieur d’un projet.
+[10] Je note en passant le contexte dans lequel l’appelante opère. L’appelante fait, entre autres, du sous-assemblage pour une compagnie qui assemble des sécheuses à Montréal. Vu le coût de la main-d’œuvre à Montréal, c’est une opération qui aurait facilement été délocalisée ailleurs, par exemple au Mexique ou en Asie.
+[11] Les projets dont il est question visent à augmenter l’efficacité de ce que fait l’appelante, une efficacité obtenue sans dépense de sommes énormes que l’appelante ne pourrait financer tout en restant concurrentielle. Trois de ces projets sont liés à la fabrication de sous-assemblages de sécheuses; c’est justement cette recherche d’efficacité qui permet à l’appelante et à son client d’éviter la délocalisation de la fabrication de sécheuses[6].
+[12] Pour les raisons qui suivent, l’appel sera accueilli avec dépens.
+Les faits[7] [13] Serge Caouette est le président et, au moment de l’audition, l’unique actionnaire de l’entreprise Les Abeilles.
+[14] Cette entreprise a été fondée en 1987 par la mère de M. Caouette. Dans les premières années, l’entreprise rendait différents services d’emballage et de finition d’imprimerie à des compagnies de tabac. Les restrictions imposées à la publicité des produits du tabac ont toutefois forcé l’entreprise à diversifier ses activités.
+[15] Tout en continuant de faire de la finition d’imprimerie, l’appelante a commencé à faire de l’emballage pour des compagnies œuvrant dans les secteurs alimentaire et cosmétique.
+[16] L’appelante a également élargi ses activités au milieu industriel. C’est alors qu’elle a commencé à faire de l’assemblage de composantes mécaniques.
+[17] Essentiellement, ses activités consistent en l’assemblage de composantes fournies par le client. Une fois le sous-assemblage complété, il est envoyé au client qui l’insère dans sa « ligne principale » afin d’obtenir le produit final.
+[18] L’appelante commence à faire des projets de développement en 2002. Sa première demande de recherche scientifique et de développement expérimental remonte à 2003. Depuis, elle a fait plusieurs demandes par année.
+Les projets concernés [19] Pour l’année 2009, l’appelante a fait des demandes de crédit pour recherche scientifique et développement expérimental relativement à six projets. Deux seulement ont été acceptées. Les quatre autres ont été refusées.
+Projets liés aux sous-assemblages faits pour Mabe/General Electric [20] Trois des quatre projets refusés sont liés à des sous-assemblages faits pour la compagnie Mabe. Mabe fabrique des sécheuses General Electric. Ces trois projets de développement sont :
+a) 2007-01 : Nouveau procédé d’assemblage de moteurs pour sécheuses.
+b) 2007-02 : Nouveau procédé d’assemblage d’éléments chauffants pour sécheuses.
+c) 2009-01 : Nouveau procédé d’assemblage de panneaux de contrôle en flux tirés avec séquencement électronique.
+[21] Les deux premiers projets avaient commencé en 2007 et furent acceptés par l’Agence du revenu du Canada dans les années antérieures à 2009.
+[22] Le but de ces projets est non seulement d’augmenter l’efficacité, mais de le faire tout en respectant des normes de qualité très sévères.
+[23] Mabe possède une usine à Montréal qui fait de l’assemblage pour General Electric. General Electric détient 49 % de Mabe et est à l’origine de la collaboration entre Mabe et l’appelante, car c’est General Electric qui a demandé à ce que certains éléments soient produits chez l’appelante. Toutefois, ce sont Mabe et l’appelante qui sont liées par contrat.
+[24] C’est en 2004 que commencent les discussions avec Mabe afin d’obtenir des contrats de Mabe et d’entreprendre les projets dont il est question. Mabe avait avantage à collaborer avec l’appelante puisque les projets de cette dernière visaient à accroître l’efficacité de la production tant chez l’appelante que chez Mabe.
+[25] Au cours d’un projet, il y a de nombreux essais qui se font sur la chaîne de production[8]. En général, ces essais durent plusieurs heures.
+[26] Quand l’appelante ne suit pas le processus normal de production, ceci est une « déviation » de la production normale. Il existe trois types de « déviations » selon l’appelante :
+a) la substitution,
+b) la modification d’ingénierie et
+c) le développement expérimental.
+[27] Le débat ici ne concerne que les essais constituant le dernier type de déviation.
+[28] Avant de procéder à des essais, il faut l’autorisation de Mabe[9]. Une demande est faite à Mabe pour l’essai et, si Mabe est d’accord, Mabe envoie un document intitulé « DSI » contenant l’autorisation.
+[29] Mabe fournit gratuitement les composantes utilisées pour l’essai et, après la fin de l’essai, les sous‑assemblages sont envoyés à Mabe qui les envoie au Mexique pour être désassemblés[10].
+[30] M. Caouette a expliqué que c’est lors de rencontres quotidiennes opérationnelles qu’il était décidé si des essais seraient faits dans la journée.
+[31] Lors d’un essai, la production commerciale arrête, on installe ou on modifie le changement que l’on souhaite tester, on fait l’essai, on remet tout en place comme c’était avant l’essai[11] et, ensuite, on recommence la production. M. Caouette explique que lors d’un essai on tente de faire un très grand nombre d’assemblages, permettant ainsi d’évaluer la qualité et le temps de cycle.
+[32] Il y a une série de problèmes particuliers qu’il faut résoudre pour arriver au but recherché et il peut y avoir plusieurs essais pour résoudre un problème particulier.
+[33] Chaque essai est relatif à une modification du processus.
+[34] Si l’essai est concluant, ou si la série d’essais est concluante, le projet devra être approuvé tant par l’appelante que par General Electric avant d’aller sur le marché. Une fois approuvé par l’appelante, le projet passe à l’étape du « first piece ». Il s’agit de faire, par exemple, une dizaine de sous‑assemblages et de les faire approuver par General Electric. Ensuite, le projet doit passer les étapes du « pilot [run] A » et du « pilot [run] B ». À chaque étape, il s’agit de fournir un plus grand nombre de pièces à General Electric qui doit ensuite approuver la production. Lors des « pilot [run] », les pièces sont mises dans des sécheuses et vendues sur le marché[12].
+[35] Par contre, les étapes après l’essai ne font pas partie de ce qui est en litige ici.
+[36] Il est possible de retracer les étapes des différents projets en utilisant le « log », le registre ou la chronologie des essais[13]. M. Caouette a expliqué que les projets requéraient de nombreuses heures de travail par beaucoup de personnes. Minimalement, il fallait autant d’employés pour mener un test que pour assurer la production commerciale régulière.
+[37] Il y a également des descriptions détaillées des projets et des essais mis en preuve[14].
+Projet 2007-01 : les moteurs [38] Le projet de l’appelante avait plusieurs objectifs.
+[39] Ce projet a commencé en 2007 après la réception du convoyeur principal. L’objectif était d’augmenter l’efficacité de la production, qui était mesurée en termes du temps nécessaire à la fabrication, et d’adapter ce convoyeur pour qu’il puisse assembler toutes les familles de moteurs.
+[40] À l’origine, chez Mabe, la production de chaque type différent de moteur se faisait sur un carrousel différent. Il y avait un gabarit différent pour chaque type de moteur. Changer les gabarits sur le carrousel prenait assez longtemps[15].
+[41] Au début de 2009, le convoyeur était en opération commerciale et l’appelante montait un type de moteur, le moteur régulier. L’appelante se servait toujours du carrousel (ou des carrousels[16]) pour tous les autres types de moteurs.
+[42] Pour l’année 2009, le principal objectif de ce projet était de pouvoir assembler tous les différents types de moteurs[17] sur la même chaîne de production. On souhaitait aussi arriver à assembler un moteur toutes les neuf secondes tout en respectant le niveau de qualité demandé par le client, soit un maximum de 300 sous‑assemblages de moteurs rejetés par million de sous‑assemblages, c’est‑à-dire un maximum de trois rejets sur 10 000 moteurs; au début de l’année, l’appelante était à environ 14 secondes[18].
+[43] Non seulement l’appelante voulait se débarrasser des carrousels d’assemblage qui étaient moins efficaces, mais l’appelante souhaitait également pouvoir changer le modèle en production sans avoir à arrêter la chaîne de production de façon à pouvoir rapidement changer de modèle de moteur à la demande du client.
+[44] L’atteinte de ces objectifs nécessitait de régler les problèmes suivants :
+a) l’adaptation des équipements aux différents types de moteurs (presse‑poulie, gabarits, mandrins);
+b) la synchronisation des équipements.
+[45] Sur la chaîne développée par l’entreprise, il n’y a qu’un seul gabarit de moteur pour toutes les familles, plutôt que plusieurs gabarits sur le carrousel. Sur la nouvelle chaîne, il n’y a pas de pièces à changer lorsque l’on décide de produire un modèle différent, ce qui permet de ne jamais arrêter la chaîne[19].
+[46] À la fin 2009, toutes les familles de moteurs pouvaient être assemblées sur la chaîne. Les équipements ont donc été adaptés (presse-poulie, gabarits, mandrins) et le carrousel a été éliminé[20]. Le temps de cycle a été réduit à environ 10 secondes.
+[47] Au cours de l’année 2009, dans le cadre de ce projet il y a eu 32 essais. L’annexe A du jugement énumère tous les essais ainsi que certains autres travaux pour le projet.
+[48] En 2009, l’appelante a investi plus de 9 000 heures‑personnes dans ce projet. La répartition des heures se retrouve à l’annexe B du jugement[21]. Les dépenses réclamées relatives à ce projet sont environ de 137 000 $ en salaires et de 1 300 $ en matériaux[22].
+[49] Quand l’appelante a commencé à travailler avec Mabe/General Electric, ils ont essayé de trouver des solutions déjà disponibles pour atteindre les objectifs visés.
+[50] L’entente que l’appelante a avec leur client lui donne accès à toutes les connaissances disponibles dans le réseau Mabe/General Electric, mais malgré toute l’expérience disponible dans ce réseau, personne n’a pu lui donner plus que des principes généraux; personne n’avait des solutions spécifiques. Elle n’a pas pu trouver plus d’information en parlant avec ses fournisseurs ou en faisant des recherches sur le Web[23].
+[51] L’appelante a dû trouver elle-même les solutions nécessaires pour atteindre les objectifs.
+Projet 2007-02 : les éléments chauffants [52] C’est en 2005 que les discussions avec Mabe au sujet de ce projet ont commencé. L’idée était encore d’améliorer la productivité de l’usine de Mabe. En effet, l’assemblage des éléments chauffants se faisait alors sur six lignes de production. L’appelante avait comme projet de centraliser cette production sur une seule ligne, tout en respectant un temps de cycle de sept secondes et un niveau de qualité de moins de 300 rejets par million de sous-assemblages.
+[53] En 2009, de nouveaux modèles d’éléments chauffants devaient être ajoutés sur la ligne. Il fallait toujours atteindre le temps de cycle souhaité[24] et le niveau de qualité convoité, le tout de façon sécuritaire (d’où le recours à des « détrompeurs »[25]). Pour ce faire, il fallait, entre autres, régler les problèmes suivants : trop grande proximité entre l’élément chauffant et le boîtier, faux rejets occasionnés par la station de test, instabilité causée par de la poussière de béton, dépôt de lubrifiant non nettoyé dans les équipements, stabilité générale.
+[54] À la fin 2009, le temps de cycle était de 8,9 secondes et le niveau de qualité souhaité n’était toujours pas atteint. Cependant, les quatre familles d’éléments pouvaient être assemblées sur la même ligne et les problèmes de proximité et de faux rejets étaient réglés.
+[55] Le problème de proximité a été réglé par l’utilisation d’un système de vérin. Cette solution fut la troisième d’une série de trois. La première était manuelle et nécessitait un outil spécial. La deuxième était hybride et comprenait un détecteur de pouce.
+[56] Le problème de faux rejets était occasionné par le choc entre l’élément et la butée devant l’arrêter à la station de test. La solution trouvée fut d’installer une butée à mouvement linéaire qui ne créait pas d’onde de choc déplaçant l’élément.
+[57] À la connaissance de M. Caouette, ce type de ligne d’assemblage n’existe pas ailleurs. En effet, ni le réseau de General Electric, ni les fournisseurs de l’appelante, ni une recherche sur le Web, ni le fabricant des éléments chauffants n’ont permis de trouver d’entreprise faisant ce type d’assemblage. D’ailleurs, General Electric et l’appelante étaient les premiers en Amérique à utiliser les éléments chauffants au mica.
+[58] En 2009, l’appelante a fait 19 essais et a investi plus de 7 500 heures‑personnes dans ce projet[26]. L’appelante a réclamé environ 110 000 $ en salaires et 1 100 $ en matériaux[27].
+Projet 2009-01 : les panneaux de contrôle (dosserets) [59] C’est en 2009 que Mabe a approché l’appelante afin de centraliser l’assemblage des panneaux de contrôle de sécheuses sur une même ligne. Les objectifs sont de développer un système i) qui est capable de faire 174 variations de panneaux, variations qui sont faites à partir de 600 composantes possibles, ii) qui peut réaliser la variation particulière commandée dans les quatre heures suivant la commande[28] et iii) qui peut produire les panneaux nettement plus rapidement que le faisait Mabe.
+[60] Pour atteindre cet objectif, l’appelante a appliqué l’« approche chirurgien » à leur méthode d’assemblage. Cette approche consiste en un employé[29] qui rassemble les composantes nécessaires à l’assemblage d’un modèle de panneau donné et qui amène le tout à l’assembleur qui fait son travail sans avoir à se déplacer, comme un chirurgien à qui l’on apporte les outils nécessaires à l’opération.
+[61] L’approche dite « chirurgien » était le deuxième choix de l’appelante, leur premier choix étant trop dispendieux à mettre en place.
+[62] Non seulement fallait-il valider le concept de l’« approche chirurgien » appliqué à l’assemblage de panneaux de contrôle, mais il fallait aussi pouvoir assembler tous les modèles et changer d’un modèle à l’autre dans un délai de 30 secondes. Encore ici, le niveau de qualité recherché était de moins de 300 rejets par million de sous-assemblages et des détrompeurs étaient nécessaires.
+[63] En mars 2009, il est devenu évident qu’il fallait informatiser le processus de communication entre les différents intervenants, autrement il aurait été impossible de s’améliorer davantage. Pour ce faire, il fallut développer de nouveaux logiciels puisqu’aucun logiciel existant ne répondait aux besoins de l’entreprise. À cette fin, l’appelante a recouru à l’aide du sous‑traitant ISG. Les modules suivants ont été créés : module d’informatisation des commandes, module d’importation/exportation permettant de transférer l’information entre le système de l’entreprise et le système du client, module de sondage permettant de voir ce que le client a à produire, module d’assemblage permettant de donner le bon modèle à l’assembleur, module d’expédition permettant au client de confirmer l’expédition de sa commande et de savoir l’état des stocks de composantes chez l’appelante.
+[64] L’appelante n’a pas réclamé de crédit pour la partie « développement » des logiciels, car c’est ISG qui a fait le travail.
+[65] À la fin 2009, beaucoup d’objectifs n’étaient pas encore atteints. Les modules précédents ont néanmoins tous été développés et l’« approche chirurgien » a été validée.
+[66] Au niveau des problèmes rencontrés, il a fallu régler un problème de statique pouvant provoquer une étincelle faisant griller les contrôles électroniques. Ce problème a été réglé par une mise à terre placée entre les assembleurs.
+[67] Les essais entourant l’assemblage comme tel n’ont pas été interrompus par l’informatisation des communications. Des tests avaient toujours lieu par rapport au convoyeur, aux gabarits, etc.
+[68] Ce projet s’est poursuivi en 2010.
+[69] En 2009, l’appelante a fait 22 essais et a investi plus de 9 000 heures‑personnes dans ce projet[30]. L’appelante a réclamé environ 160 000 $ en salaires et 2 600 $ en matériaux[31].
+[70] Subséquemment, Mabe/General Electric essaie d’appliquer les connaissances développées par l’appelante dans des usines au Mexique[32].
+Projet 2009-02 : la finition d’imprimerie (application de composantes secondaires)[33] [71] Ce projet est le seul qui n’a aucun lien avec Mabe/General Electric. Avant 2009, l’appelante avait déjà établi une ligne de finition d’imprimerie qui permettait de manipuler une variété de composantes imprimées (magazines, cartons, encarts publicitaires) et d’y ajouter des composantes secondaires; il y avait un convoyeur à succion et divers équipements (un alimentateur primaire, un alimentateur secondaire, une applicatrice de colle, une étiqueteuse, deux modules de pliage, etc.).
+[72] Le tout était opéré à une cadence nominale de 6 000 applications par heure. Individuellement les différents équipements pouvaient fonctionner beaucoup plus rapidement qu’ils ne pouvaient le faire ensemble.
+[73] En 2009, les objectifs étaient i) d’augmenter la vitesse à laquelle le tout pouvait opérer ensemble à 11 000 applications par heure, ii) de modifier l’alimentation secondaire afin qu’elle puisse accueillir de plus grandes composantes et iii) d’ajouter de nouvelles composantes secondaires.
+[74] Au niveau des problèmes à régler pour atteindre les objectifs principaux, il y avait l’irrégularité de la quantité de colle appliquée sur les composantes, le positionnement d’un nouveau module projetant des étiquettes, les éléments non détectés par le module de détection et la synchronisation des équipements.
+[75] Pendant 2009, l’alimentateur secondaire modifié pour accueillir de plus grandes composantes a été installée et sa stabilité a été confirmée. À la fin de l’année, l’objectif de 11 000 applications par heure n’est toujours pas atteint lorsque tous les modules fonctionnent ensemble.
+[76] Une fois les essais terminés, le matériel était mis au recyclage, et non pas désassemblé comme dans le cadre des autres projets.
+[77] À la connaissance de M. Caouette, une entreprise de Chicago aurait des installations similaires, mais ne souhaitait pas partager ses connaissances. M. Caouette n’avait pas été capable de trouver une ligne d’assemblage déjà capable de faire le travail voulu. Certains modules ont été achetés tels quels mais devaient être adaptés à la ligne conçue par l’appelante, par exemple, le module d’application de colle et le module d’application d’étiquettes. D’autres modules ont été entièrement développés par l’appelante, dont l’alimentateur primaire, le système de détection, l’alimentateur secondaire, l’alimentateur secondaire modifié et les modules de pliage.
+[78] En 2009, l’appelante a fait 13 essais et a investi près de 6 000 heures‑personnes dans ce projet[34]. L’appelante a réclamé environ 74 000 $ en salaires et 300 $ en matériaux[35].
+Les expertises[36] [79] L’appelante a fait témoigner Martin Gariépy comme témoin expert. M. Gariépy a un baccalauréat en mathématiques pures, une maîtrise en génie aérospatial et un doctorat en génie mécanique. Il a enseigné certains cours à l’École polytechnique de Montréal et il a fait divers travaux relatifs, entre autres, à l’aérodynamique.
+[80] M. Gariépy a été qualifié comme expert.
+[81] L’intimée a fait témoigner Steven Kooi comme témoin expert. M. Kooi a un baccalauréat en sciences en génie chimique et une maîtrise et un doctorat en génie mécanique. Avant de commencer à travailler pour l’Agence du revenu du Canada, il a eu 22 années d’expérience variée dans l’industrie.
+[82] Il était le conseiller scientifique au stade de la vérification.
+[83] L’appelante s’est objectée à la qualification de M. Kooi comme témoin expert. L’appelante ne conteste pas la formation et l’expérience de M. Kooi, mais plutôt son indépendance. J’ai pris l’objection en délibéré et j’ai permis à M. Kooi de témoigner. Pour des raisons qui deviendront évidentes ci-dessous, il n’est pas nécessaire que je me prononce sur cette objection. Je note que ce qui importe est l’impartialité du témoin expert plutôt que son indépendance[37].
+[84] Les deux expertises ont comme conclusion que les projets sont, ou ne sont pas, de la recherche scientifique et du développement expérimental au sens de la Loi. Or, cette question est celle à laquelle la Cour doit répondre et ne peut être l’objet d’une expertise[38]. Bien que l’ancienne règle selon laquelle une opinion n’était jamais admissible lorsqu’elle concernait la question même que le juge devait trancher a été écartée depuis un certain temps, plus l’expertise touche la question même, plus il est nécessaire pour la Cour de scruter attentivement l’opinion[39].
+[85] Je note que de façon générale il aurait été utile d’avoir une preuve experte plus axée sur l’état actuel des pratiques et des connaissances en techniques et en méthodes d’assemblage.
+[86] Je note que le rapport de M. Gariépy est relativement général.
+Le témoignage de M. Kooi [87] J’ai plusieurs difficultés avec le témoignage et le rapport de M. Kooi en tant que témoin expert.
+[88] Ma première difficulté est la suivante. Au cours de son témoignage et dans son rapport, il y a confusion entre son rôle comme conseiller scientifique au cours de la vérification et celui comme témoin expert.
+[89] En tant que conseiller scientifique au stade de la vérification, il est tout à fait normal que M. Kooi soit guidé par les lignes directrices de l’Agence du revenu du Canada pour ce qui est de la recherche scientifique et du développement expérimental, y compris certaines normes relatives à la preuve des faits que doit établir le contribuable pour satisfaire l’Agence.
+[90] Toutefois, son rôle est différent en tant que témoin expert, car il s’agit de son expertise personnelle sur des questions telles que celle de savoir s’il y a une incertitude technologique. Un expert peut être d’accord avec une autorité reconnue dans un domaine, mais il doit quand même s’agir de son opinion.
+[91] Or, au cours de son témoignage et de son rapport, il y a des moments où M. Kooi semble souvent être plus guidé par les lignes directrices et les politiques de l’Agence du revenu du Canada que par son expertise personnelle.
+[92] Par exemple, M. Kooi a attaché beaucoup d’importance à l’existence ou non d’une certaine documentation contemporaine comme l’exige l’Agence[40]. À l’étape de la vérification, l’Agence est tout à fait libre de décider ce que le contribuable devrait normalement faire pour la convaincre de certains faits.
+[93] Par contre, au cours du témoignage d’un expert, ce dernier émet une opinion sur la base de certains faits; ce n’est pas le rôle du témoin expert de déterminer les faits[41]. S’il y a un débat relatif aux faits, c’est au tribunal de décider quels sont les faits.
+[94] L’existence ou non de documents contemporains ou le fait que les documents contiennent ou non certains renseignements sont pertinents à la résolution par la Cour d’un débat de fait. Toutefois, l’existence de documentation contemporaine, ou de documents contemporains avec un contenu particulier, n’est pas une condition à la reconnaissance de la recherche scientifique ou du développement expérimental[42].
+[95] Cette confusion de rôles est également illustrée par un nombre de références aux exigences de l’Agence du revenu du Canada, telles que « l’Agence exige que l’analyse tienne compte des éléments probants suivants » précédant une liste de 14 éléments d’une page de long[43].
+[96] L’avant-dernière conclusion à la page 47 du rapport[44] est :
+Nous avons conclu que les documents présentés par Les Abeilles pour appuyer les essais réclamés n’étaient pas contemporains aux essais. Malgré le fait que des matériaux utilisés pour les essais étaient fournis par les clients, et non réclamés par Les Abeilles, les matériaux utilisés et consacrés aux essais font partie des pièces justificatives requises pour suivre le progrès, l’évolution et la justification des essais.
+Encore une fois, il s’agit d’une question de détermination des faits et non d’expertise[45].
+[97] Je conclus de tout cela que M. Kooi n’est pas impartial.
+[98] Avant de passer à ma deuxième difficulté, je note que l’emphase de M. Kooi sur l’absence de certains documents fait qu’il n’est pas toujours évident sur quelle base factuelle l’opinion est exprimée[46].
+[99] Deuxièmement, il y a certaines erreurs numériques qui donnent lieu de conclure qu’en arrivant à ses conclusions, M. Kooi avait une impression assez fausse d’une partie du contexte.
+[100] Spécifiquement, il est clair qu’en préparant son rapport, le témoin croyait que la quantité de temps réclamée relativement aux essais sur la chaîne de production était beaucoup plus importante qu’elle ne l’était en réalité.
+[101] Dans le rapport de M. Kooi relatif au projet 2007-02, on peut lire, entre autres :
+En examinant le Tableau 2, dix-huit essais ont été effectués et entre 11 personnes (essai 2456) et 56 personnes (essai 2282) ont été impliquées dans ces essais. Nous avons constaté que dans ces deux cas extrêmes, basé sur l’opération de la machine vingt-quatre heures sur vingt-quatre, on estime que onze (11) jours et vingt-six (26) jours dans de deux essais ont été consacrés et réclamés comme la production expérimentale. Des justifications pour ces longs essais tels que des données des tests, le rapport et des raisons pour continuer des essais après des tests n’ont pas été démontrées. Nous avons de la difficulté pour confirmer la validité de la réclamation[47].
+[102] Dans ce paragraphe, on constate que le témoin présume que les deux essais de production en question, 2456 et 2282, ont duré l’équivalent de 11 et de 26 jours de production continue 24 heures sur 24, respectivement.
+[103] Au tableau 2, il y a un sommaire de tous les essais au cours de l’année pour le projet 2007-02. L’essai 2282 est celui avec le nombre d’heures le plus important, soit 627,25 heures. L’essai 2325 comprend le nombre d’heures le plus bas, soit 113 heures. C’est l’équivalent de 4,7 périodes de 24 heures, à peu près cinq jours.
+[104] Le total des heures au tableau 2 est de plus de 6 000 « heures de tests ». C’est l’équivalent de 250 périodes de 24 heures ou de 250 jours.
+[105] Si cette chaîne de production particulière opérait 365 jours par année, 24 heures par jour, les essais représenteraient plus de 68 % de l’opération annuelle de la chaîne de production en question. Par contre, si la chaîne opérait 24 heures par jour, cinq jours par semaine, ce serait l’équivalent de près de 100 % de l’opération annuelle de la chaîne.
+[106] Si cela était le cas, je comprendrais bien que cela provoquerait des doutes sur le plan factuel vu qu’il s’agit d’une chaîne de production opérationnelle.
+[107] Cette erreur n’est pas juste relative au projet 2007-02. Au dernier paragraphe de la page 43 relatif au projet 2009-02, on voit qu’il y a la même sorte de présomption factuelle selon laquelle les 537,5 heures représentent un essai qui dure 22 jours.
+[108] Dans le rapport, il y a le tableau 1[48], semblable au tableau 2, relatif au projet 2007-01[49]. Le total des « heures de tests » au tableau 1 est de plus de 8 000 heures ou de 330 périodes de 24 heures. Vu la façon que le témoin a compris les heures d’essai, cela implique qu’il comprenait la réclamation comme étant pour des heures d’essai ce qui représentait la quasi-totalité de l’utilisation de cette chaîne de production au cours de l’année.
+[109] Or, en examinant la preuve, il est clair qu’il s’agit d’heures-personnes de travail au cours de l’essai et non d’heures d’opération de la chaîne de production. Les essais ont duré beaucoup moins longtemps que ne le croit le témoin[50].
+[110] Dans le paragraphe précité, le rapport dit également que 56 personnes ont été impliquées à l’essai 2282. Or, le témoin a corrigé cela au début de son témoignage et a indiqué que cela devrait être 28 personnes au lieu de 56.
+[111] Plus généralement au tableau 2, il a corrigé la colonne intitulée « Nombre de personnes au tableau 2 »; le nombre indiqué à chaque ligne doit, en général, être divisé en deux[51].
+[112] Je conclus qu’en préparant son rapport, M. Kooi a tiré ses conclusions avec, entre autres, un fond factuel où les essais relatifs aux quatre projets en question ont constitué l’utilisation principale des quatre chaînes de production pendant la majorité de l’année. La preuve démontre que les essais ont duré beaucoup moins longtemps[52].
+[113] Une telle erreur de contexte doit nécessairement affecter l’opinion[53].
+[114] Pour ces raisons, je n’accorde qu’une portée très limitée au témoignage de M. Kooi en tant que témoin expert[54].
+[115] Par contre, dans la mesure où M. Kooi a témoigné relativement à ce qu’il a fait en tant que conseiller scientifique au stade de la vérification, j’accepte son témoignage, mais je souligne qu’il ne s’agit pas de preuve experte.
+[116] Les raisons qui ont mené M. Kooi, en tant que conseiller scientifique, à conclure qu’il ne s’agissait pas de développement expérimental sont résumées dans son rapport d’examen technique du 18 novembre 2010[55].
+[117] Sauf en ce qui concerne le projet 2009-01, M. Kooi conclut qu’il n’y a pas d’obstacle de nature technologique, car il s’agit de défis d’ingénierie et les solutions sont basées sur la pratique courante d’ingénierie standard.
+[118] Par exemple, il exprime sa conclusion relative au projet 2007-01 comme suit :
+[…] nous avons constaté que des essais ont été effectués pour régler les problèmes qui ne sont pas d’obstacle de la nature technologique. Les problèmes à régler pour ces projets tels que décrits […] : l’amélioration du mandrin de la presse poulie capable de fonctionner pour tous les types de moteurs, l’alignement des moteurs, l’alignement des poulies, l’amélioration le temps de cycle, la validation et confirmation du fonctionnement des équipements, etc. sont les défis d’ingénierie. Les solutions apportées pour régler ce genre de problèmes sont basées sur la pratique courante d’ingénierie standard d’essais et erreurs. Nous concluons que pour la présente réclamation des travaux effectués sont liés à l’application de la technologie développée à une nouvelle situation pour stabiliser le procédé ainsi que l’amélioration de plusieurs stations de montage[56].
+[119] Le cas du projet 2009-01 est un peu différent, car le rapport conclut que « les travaux sont non corroborés » et qu’en conséquence aucune opinion n’est émise[57].
+[120] Quand on lit le rapport du 18 novembre 2010, vu l’importance que M. Kooi y a attachée au cours de son témoignage, il est surprenant de constater qu’il n’est pas question d’absence de documents contemporains[58].
+Une note relative aux faits et aux documents [121] Il est utile à ce stade de noter que les documents ont été déposés par consentement et leur contenu n’a pas été contesté[59].
+[122] En conséquence, je tiens pour acquis que les descriptions factuelles des projets et des essais dans ces documents représentent correctement le but et le déroulement des projets ainsi que ce qui a été fait au cours des essais[60].
+Le témoignage de M. Gariépy[61] [123] M. Gariépy a commencé à témoigner en donnant certaines définitions. D’abord, il explique ce qu’est une « incertitude scientifique ». D’une part, il cite la définition de l’Agence du revenu du Canada et, d’autre part, il en donne son interprétation. Selon lui, il y a incertitude scientifique lorsque l’on a un objectif précis, mais que l’on ignore si on va l’atteindre et comment on va l’atteindre. Il définit ensuite la notion d’« investigation systématique ». Cela signifie qu’une fois les incertitudes identifiées, il faut faire une revue de la littérature pour trouver des solutions déjà existantes, émettre des hypothèses et effectuer des tests pour les confirmer ou les infirmer. Il ajoute que l’investigation systématique n’a pas à avoir de forme particulière[62].
+[124] Il explique enfin ce qu’est un « avancement technologique ». Il s’agit, selon sa compréhension de la politique de l’Agence, d’un avancement des connaissances ou des procédés de l’entreprise qui n’est pas facilement accessible, par exemple, on ne peut faire cet avancement en faisant une revue de la littérature ou en achetant une machine[63].
+[125] Ensuite, M. Gariépy donne son opinion sur la présence d’incertitudes dans les différents projets. En ce qui concerne le projet 2007-01 relatif à l’assemblage de moteurs, M. Gariépy est d’avis qu’il est évident qu’il y avait des incertitudes scientifiques dans ce projet. On ne savait pas, au départ, si l’objectif d’atteindre un temps de cycle de neuf secondes était atteignable. Il en va de même pour l’objectif de base d’assembler tous les types de moteurs sur la même ligne.
+[126] Quant au projet 2007-02 concernant les éléments chauffants, il y avait des incertitudes au niveau du temps de cycle, du taux de rejets et de l’assemblage des différents modèles sur la même ligne.
+[127] En ce qui a trait au projet 2009-01 relatif aux panneaux de contrôle (dosserets), M. Gariépy affirme que l’ensemble de ce que l’on voulait faire était incertain. Bien que le « lean manufacturing » soit un concept théorique connu, son application concrète requiert du développement.
+[128] Enfin, le projet 2009-02 concernant la finition d’imprimerie était également incertain. Le fait que chacun des éléments séparés ait le potentiel d’atteindre les objectifs voulus n’empêche pas qu’il y ait incertitude quant à l’objectif global de tout faire fonctionner ensemble.
+[129] M. Gariépy insiste sur le fait qu’il faut regarder les projets « au niveau le plus élevé », c’est-à-dire qu’il faut regarder un projet dans son ensemble. Regarder chaque petite étape équivaudrait à dénaturer le projet. Il précise qu’il est possible qu’un objectif secondaire ne représente pa s d’incertitude, ce qui n’empêche pas la qualification du projet dans son ensemble. Plus loin dans son témoignage, M. Gariépy affirme que, selon son interprétation des directives de l’Agence du revenu du Canada, il faut regarder le projet à partir du début, et non seulement pour l’année fiscale concernée[64].
+[130] Selon M. Gariépy, il ne fait aucun doute qu’il y a eu investigation systématique de la part de l’appelante. Ils avaient des réunions d’équipe pour déterminer les objectifs, ils cherchaient des solutions accessibles dans la littérature, ils planifiaient des essais, ils les documentaient et ils en tiraient des conclusions.
+[131] M. Gariépy donne ensuite son opinion quant à la présence d’avancement technologique pour chaque projet[65]. Pour le projet 2007-01, le fait d’atteindre 10,9 secondes est un avancement. L’adaptation du mandrin, celle de la presse‑poulie, etc. sont des avancements.
+[132] Quant au projet 2007-02, il y a également eu de nombreux avancements. Le simple fait de rendre le processus d’assemblage plus stable est un avancement.
+[133] Le projet 2009-01 en lui-même constitue un avancement. Ils ont développé un « nouveau concept de chaîne de montage » qui n’existait pas, à tout le moins, pas de façon appliquée. Selon M. Gariépy, un indice majeur du niveau d’avancement est le transfert technologique vers le Mexique qui a eu lieu par la suite.
+[134] Quant au projet 2009-02, l’augmentation de plus de 50 % du nombre d’applications par heure en améliorant la synchronisation est un avancement majeur.
+[135] M. Gariépy critique le rapport de M. Kooi, l’expert de l’intimée, au motif que ce dernier regardait les projets de beaucoup trop près, plutôt que de les regarder du niveau le plus élevé. Il exprime aussi un doute quant à la compréhension qu’avait M. Kooi des différents projets[66].
+[136] M. Gariépy adresse ensuite la question de la « pratique courante » qui revient souvent dans le rapport de M. Kooi. Selon M. Gariépy, « la pratique courante ce sont des processus ou des méthodes […] qu’on fait sur une base régulière ». Encore une fois, sa définition est une vulgarisation de la définition de l’Agence du revenu du Canada. Selon lui, il n’y a pas de mal à recourir à la pratique courante si cela peut nous permettre d’atteindre notre objectif[67].
+[137] Dans son contre-interrogatoire, M. Gariépy explique que le fait de réaliser un projet à moindre coût lorsque la technologie est disponible ailleurs, mais trop dispendieuse, peut représenter un avancement. Il fait alors référence au logiciel développé dans le cadre du projet 2009-01.
+Analyse [138] La question essentielle à décider est : les quatre projets en question constituent-ils du « développement expérimental » tel qu’il est défini dans la Loi?
+[139] Le terme « développement expérimental » est défini de la façon suivante[68] :
+[…] les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux […] dispositifs […] ou procédés ou de l’amélioration, même légère, de ceux qui existent[69].
+[140] Il faut donc répondre aux questions suivantes :
+a) Les projets ont-ils été entrepris dans l’intérêt du progrès technologique?
+b) Ont-ils été entrepris en vue de la création de nouveaux procédés ou de l’amélioration, même légère, de procédés?
+[141] La jurisprudence a développé un certain nombre de considérations utiles pour déterminer s’il y a eu ou non une activité qui constitue de la recherche scientifique ou du développement expérimental. Ces critères énumérés par le juge Bowman, tel qu’il était alors, ont été approuvés par la Cour d’appel fédérale. Ces considérations sont résumées dans l’arrêt CW Agencies Inc. c. Canada[70] où la Cour d’appel dit ceci :
+17 Les deux parties se sont appuyées sur les critères énoncés dans Northwest Hydraulic Consultants Limited c. Sa Majesté la Reine, [1998] D.T.C. 1839. Dans cette décision, le juge Bowman de la Cour de l'impôt a énoncé cinq critères utiles pour déterminer si une activité donnée constitue de la RS & DE. Ces critères ont été approuvés par la Cour d'appel fédérale dans RIS-Christie c. Sa Majesté la Reine, [1999] D.T.C. 5087, à la page 5089. Les critères sont les suivants :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l'avancement des travaux?
+[142] Il faut garder à l’esprit qu’il s’agit de considérations pour aider à déterminer s’il y a eu ou non un avancement technologique. La première considération, l’incertitude technologique, est une façon d’aborder le critère du progrès technologique; il peut difficilement être question d’un avancement technologique si on sait déjà comment obtenir le résultat; les deuxième et troisième considérations sont, entre autres, une façon de s’assurer que les travaux ont été entrepris dans l’intérêt du progrès technologique et qu’il ne s’agit pas, par exemple, d’un avancement obtenu par accident plutôt que des travaux entrepris dans l’intérêt du progrès technologique.
+[143] Les cinq critères n’ont pas un caractère absolu. Par exemple, il n’est pas obligatoire que le travail ait mené à un progrès technologique; si le travail échoue, mais que par ailleurs il s’agit de travail entrepris dans l’intérêt du progrès technologique, le travail peut néanmoins être qualifié[71].
+[144] Je vais commencer avec l’examen du projet 2007-01, les moteurs de sécheuses.
+[145] La preuve est très claire.
+[146] Il y avait au début de l’année deux objectifs, premièrement, celui d’accélérer le rythme de production de sous‑assemblage de moteurs toutes les 14 secondes à un sous‑assemblage de moteurs toutes les neuf secondes. Deuxièmement, l’appelante cherchait à rassembler tous les différents types de moteurs sur la même chaîne de production qui, au début de l’année, ne pouvait faire que les moteurs « réguliers » sans être obligée d’arrêter la production pour changer de taille de moteurs.
+[147] À la fin de l’année, l’appelante était arrivée à environ un sous‑assemblage toutes les 10 secondes, une augmentation d’à peu près 40 % et l’appelante était capable de faire les sous‑assemblages de toutes les tailles de moteurs sur la même chaîne. En conséquence, il y a eu non seulement une augmentation de productivité, mais également une augmentation très nette de la flexibilité de production puisque l’appelante pouvait changer la taille des moteurs de nombreuses fois par jour.
+[148] Il n’y a aucun doute que non seulement l’appelante cherchait à obtenir des améliorations importantes de ses procédés de production, mais qu’il y a eu des améliorations importantes des procédés de production des moteurs.
+[149] S’agit-il de progrès technologique, ou s’agit-il, comme le prétend l’intimée, de l’application de procédures habituelles ou d’études techniques courantes?
+[150] Il est vrai que lorsqu’on examine les essais individuels, souvent ces derniers ne semblent pas en soi être un avancement important[72].
+[151] En argumentation l’intimée avait pris la position que M. Gariépy allait trop loin en regardant la totalité du projet 2007-01 à partir de son début en 2007.
+[152] Je suis entièrement d’accord qu’il faut qu’il y ait du développement expérimental dans l’année en question. Toutefois, cela n’a pas comme conséquence qu’on ne peut pas examiner l’historique d’un projet qui a commencé dans une année précédente en examinant la question si, dans l’année particulière en litige, il y a eu du développement expérimental au sens de la Loi.
+[153] De plus, il faut considérer chaque projet globalement dans l’année et non chaque essai individuellement[73].
+[154] Il est très clair dans la preuve que l’appelante ne savait pas au départ comment elle passerait d’un rythme de moteur toutes les 14 secondes à un rythme de moteur toutes les neuf secondes; elle ne savait pas non plus comment elle allait changer la chaîne de production pour être capable de produire tous les moteurs sur la même chaîne.
+[155] L’appelante avait accès au réseau de connaissances de Mabe/General Electric. Les ingénieurs de Mabe/General Electric n’ont pu lui donner que des principes généraux. Elle n’a pas trouvé de solution toute faite en parlant avec ses fournisseurs ou en faisant des recherches sur le Web.
+[156] L’appelante a dû trouver elle-même les solutions, et ce, à des coûts relativement modestes — sa réclamation totale pour ce projet est de moins de 239 000 $[74].
+[157] J’accepte, comme l’a témoigné M. Gariépy, qu’il y a eu une « investigation systématique ». Ceci se voit très bien dans de nombreux documents y compris ceux retrouvés aux onglets 8 et 9 de la pièce I-2. Il est clair dans ces documents que des hypothèses ont été formulées et qu’il y a eu application de la méthode scientifique[75]. Je note que cela est également vrai pour les trois autres projets.
+[158] Pour trouver ses solutions, l’appelante a dû faire 32 essais et investir plus de 9 000 heures-personnes. À chaque essai l’appelante a dû faire les changements nécessaires à la chaîne de production et, après l’essai, l’appelante remettait la chaîne dans l’état où elle était avant les modifications faites pour l’essai. Les sous-assemblages sont ensuite désassemblés.
+[159] Il ne s’agit pas d’essais où l’on a fait des ajustements à un procédé de production connu. Il y a eu toute une série de modifications dont certaines ont aidé les objectifs et d’autres ont été un échec. Il n’y avait aucune certitude du résultat et d’ailleurs l’appelante, malgré tous ses efforts, n’a pu obtenir son objectif de sous‑assemblage toutes les neuf secondes en 2009.
+[160] Quant aux essais qui ont du succès, ce n’est qu’ultérieurement, avec l’approbation de Mabe/General Electric, que le ou les changements seront définitivement mis en place sur la chaîne de production[76].
+[161] Je ne vois pas comment dans ces circonstances on peut qualifier ce qu’a fait l’appelante en 2009 comme étant de l’application de procédures habituelles ou d’études techniques courantes. Il y avait incertitude technologique[77]. Il ne s’agit pas de procédures habituelles.
+[162] À la fin de l’année l’appelante avait un nouveau processus qui consistait en certains équipements arrangés et ajustés d’une façon particulière pouvant dorénavant produire plus rapidement et de façon plus flexible.
+[163] Il n’y a aucun doute qu’il s’agit de progrès technologique et que les travaux ont été faits dans ce but[78].
+[164] La situation est assez semblable pour les autres projets.
+[165] Dans le cas du projet 2007-02, au début de 2009 l’appelante avait trois objectifs : premièrement, atteindre la vitesse recherchée, un sous‑assemblage toutes les sept secondes — au début de l’année elle n’avait atteint que 9,6 secondes; deuxièmement, atteindre le niveau de qualité voulu, moins de 300 rejets par million; troisièmement, intégrer de nouveaux modèles d’éléments chauffants en plus du modèle « régulier » qui était déjà en production[79].
+[166] Encore une fois l’appelante ne savait pas comment elle allait atteindre ses buts. Des informations sur la façon d’y arriver n’existaient pas ailleurs.
+[167] Comme dans le premier projet, l’appelante a dû faire de nombreux essais pour trouver des solutions. Spécifiquement, l’appelante a fait 19 essais et a investi plus de 7 500 heures‑personnes dans ce projet. Comme pour les autres projets, la plupart des essais représentaient un nombre important d’heures de production et une quantité importante de production. Les sous-assemblages produits ont été désassemblés au Mexique comme ceux produits pour le premier projet.
+[168] Dans le cadre du projet, l’appelante a entrepris une investigation systématique et, à la fin de l’année, elle a partiellement réussi ses objectifs. Elle a réussi à intégrer les nouveaux modèles d’éléments chauffants, mais elle n’a que partiellement réussi son objectif quant au temps d’assemblage. L’appelante a atteint un temps de 8,9 secondes, soit une amélioration d’un peu moins de 8 %[80]. Finalement, quant à la qualité, le but n’était toujours pas atteint à la fin de l’année.
+[169] Cela a été fait à un coût relativement modeste d’environ 111 000 $[81].
+[170] Encore une fois je n’ai aucun doute qu’il y avait incertitude technologique et qu’il s’agit de développement expérimental au sens de la Loi.
+[171] Quant au projet 2009-01, les panneaux de contrôle de sécheuses, il s’agit d’un projet très ambitieux qui a débuté en 2009. Avec la méthode de l’« approche chirurgien » l’appelante voulait être capable d’avoir une production très flexible tout en améliorant la productivité par rapport à ce qu’elle était à l’origine à l’usine Mabe/General Electric.
+[172] Ce n’est pas surprenant que ce projet a eu beaucoup plus de difficultés quand on considère à quel point les objectifs étaient ambitieux : un système i) capable de faire 174 variations de panneaux, ii) avec la réalisation de la variation particulière commandée dans les quatre heures de la commande, iii) tout en augmentant le rythme de production.
+[173] L’appelante s’est attaquée au projet de façon systématique. À la fin de 2009, l’appelante avait validé l’« approche chirurgien », mais en général elle n’avait pas atteint ses objectifs, et ce, malgré 22 essais, environ 9 000 heures‑personnes et 163 000 $ investis dans le projet[82].
+[174] Il est clair que l’appelante ne savait pas comment elle allait atteindre ses objectifs et qu’il y avait incertitude technologique. Il s’agit de travaux entrepris dans l’intérêt du progrès technologique. Il ne s’agit pas de procédures habituelles.
+[175] Finalement, quant au projet 2009-02, la finition d’imprimerie, au début de l’année l’appelante avait comme objectif d’augmenter de plus de 80 % le nombre de composantes secondaires qui pouvaient être ajoutées à des imprimés[83], de rendre l’alimentateur secondaire capable d’accueillir de plus grandes composantes et d’ajouter de nouvelles composantes secondaires.
+[176] L’appelante a fait 13 essais et a investi plus de 6 000 heures-personnes et environ 74 000 $.
+[177] Encore une fois, il est clair qu’il y avait de l’incertitude technologique; l’appelante ne savait pas au départ comment atteindre ses buts et, en fait, elle n’a pu que partiellement les atteindre — à la fin de l’année l’alimentateur secondaire pouvait appliquer de plus grandes composantes, mais le but de 11 000 applications par heure n’était pas encore atteint. L’appelante a essayé d’obtenir les connaissances nécessaires ailleurs, mais elle n’a pu le faire[84] et a donc dû développer les solutions elle-même.
+Conclusion [178] Pour résumer, les quatre projets dont il est question constituent du développement expérimental au sens de la Loi.
+[179] En conséquence, l’appel sera accueilli, avec dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que les projets 2007-01, 2007-02, 2009-01 et 2009-02[85] constituent du développement expérimental au sens de la Loi.
+Signé à Ottawa (Ontario), ce 23e jour d’octobre 2014.
+« Gaston Jorré »
+Juge Jorré
+ANNEXE A
+Projet 2007-01[86]
+9-Jan-09
+Rencontre sur la planif. et les rôles
+Discussions avec Serge et Sébastien pour déterminer la façon d’accélérer la ligne et les dates de shut-down
+12-Jan-09
+Essai de production de mandrins universels
+Installation et validation d’un nouveau mandrin sur la presse #2 pour pouvoir faire toutes les sortes de poulies
+20-Jan-09
+Essai de recalibration du système électronique (relais)
+Utiliser 2 contacts par relais au lieu d’un sur la presse #2 pour éviter que les contacts se soudent et validation
+22-Jan-09
+Essai de validation des cycles de la presse poulie 2
+Test avec presse #2 pour valider les cycles de travail avec différentes poulies
+2-Feb-09
+Essai de validation de presse universelle (cycle 9 sec. ciblé)
+Test de vitesse presse universelle (16.2 sec./9 sec.) besoin de la ligne complète pour améliorer les temps de cycle
+4-Feb-09
+Branchement de la presse poulie 2
+Remplacement de la presse #1 par la presse #2
+9-Feb-09
+Essai de validation de ligne universelle (cycle 9 sec. ciblé)
+Test de validation sur ligne universelle avec presse #2 (14.2 sec./ 9 sec.)
+23-Feb-09
+Essai de production de mandrins universels
+Test avec vérin positionneur sur mandrin automatique
+24-Feb-09
+Vérin positionneur (échec)
+Essai de production avec presse #2 (mandrin universel) et vérin positionneur
+26-Feb-09
+Essai de positionnement des plaques avant mandrin univ.
+Essai de positionnement des plaques de moteur sur gabarit de travail avec vérin positionneur
+9-Mar-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation sur ligne universelle modifiée (cycle de 13.7 sec./9 sec.)
+16-Mar-09
+Calibration de la presse poulie 2
+Recalibration de la presse #2 (augmentation du temps d’arrêt pour assurer un bon maintien de la poulie sur l’arbre)
+16-Mar-09
+Recalibration du système d’air comprimé
+Augmentation du diamètre du tuyau d’air principal pour assurer un débit constant
+16-Mar-09
+Essai de validation avec nouvelle calibration
+Augmentation du diamètre du tuyau d’air principal pour assurer un débit constant
+30-Mar-09
+Essai de validation de ligne universelle (cycle de 13.2 sec. sur 9 sec. ciblé)
+Essai de validation de la ligne universelle après modifications (cycle de 13.2 sec./9 sec.)
+13-Apr-09
+Essai de production de mandrins universels
+Essai de production avec mandrins universels
+6-May-09
+Reconfiguration des aimants de la presse poulie 2
+Remplacement des aimants de la presse #2 par des aimants plus forts pour empêcher les poulies de tomber
+8-May-09
+Essai de validation de la nouvelle configuration magnétique
+Test pour valider la nouvelle configuration magnétique
+22-Jun-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Essai de validation de la ligne universelle après modifications (cycle de 13.0 sec./9 sec.)
+23-Jun-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Essai de validation de la ligne universelle après modification de la presse (cycle de 11.3 sec./9 sec.)
+29-Jul-09
+Essai de validation de la nouvelle configuration magnétique
+Essai de validation #2 avec la nouvelle configuration magnétique
+20-Aug-09
+Branchement de la presse poulie 2
+Branchement de la presse poulie #2
+24-Aug-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Essai de validation en production de la ligne universelle (cycle de 14.1 sec./ 9 sec.)
+26-Aug-09
+Modification de la presse poulie 2
+Remplacement des relais des signaux pneumatiques qui ont tendance à coller par des relais plus gros
+26-Aug-09
+Modification du programme de la presse (condition automate programmable)
+Ajout d’une condition dans la programmation pour empêcher un conflit de signal pneumatique
+27-Aug-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Essai de validation de la ligne universelle après modifications (cycle de 12.3 sec./9 sec.)
+2-Sep-09
+Essai de validation de ligne universelle (cycle de 14.0 sec. sur 9 sec. ciblé)
+Essai de validation #2 sur ligne universelle après modifications (cycle de 14.0 sec./9 sec.)
+3-Sep-09
+Essai de production de mandrins universels
+Essai de production avec nouveaux mandrins universels
+9-Sep-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Essai de validation de la ligne universelle avec nouveaux mandrins (cycle de 27.1 sec./9 sec.)
+14-Sep-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation de la ligne universelle (cycle de 11.3 sec./9 sec.)
+16-Sep-09
+Validation du temps de cycle de la presse poulie
+Validation du temps de cycle sur la presse à poulies
+17-Sep-09
+Validation du temps de cycle de la presse poulie
+Essai pour valider les temps de cycles de la presse poulie #2
+17-Sep-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation #2 de la ligne universelle (cycle de 10.9 sec./9 sec.)
+18-Sep-09
+Calibration de la presse poulie 2
+Recalibration au niveau pneumatique de la presse poulie #2, redéfinir la pression d’opération minimale
+21-Sep-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Essai de validation #2 de la ligne universelle après modification de la presse (cycle de 11.7 sec./9 sec.)
+30-Sep-09
+Changement de configuration des mandrins universels
+Ajout de détecteurs de fin de course du mandrin universel
+1-Oct-09
+Essai de validation de la configuration des mandrins
+Test pour valider le changement sur les mandrins universels
+1-Oct-09
+Modification des limites du mandrin universel
+Modification de la profondeur des mandrins universels pour permettre un déboîtement constant des poulies moteurs
+6-Oct-09
+Essai de production de mandrins universels (confirmé)
+Essai de production avec les mandrins plus profonds
+13-Oct-09
+Rectification du mandrin universel
+Remplacement du mandrin par un diamètre médian
+14-Oct-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation de la ligne universelle. Validation du mandrin rectifié, négatif trop de moteurs Magellan demeurent bloqués. Nous avons déterminé que le dégagement est probablement en cause (cycle de 19.7 sec./9 sec.).
+20-Oct-09
+Rectification du mandrin universel
+Rectification du diamètre des mandrins universels
+21-Oct-09
+Essai : validation du mandrin rectifié plus grand
+Validation du mandrin rectifié, négatif trop de moteurs ne sont pas bloqués, probablement causé par un diamètre trop grand.
+9-Nov-09
+Essai : validation de patin pour éviter coincements
+Ajout et validation d’un patin caoutchouté sur le mandrin automatique pour éviter les coincements
+11-Nov-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation sur la ligne universelle après ajout d’un patin caoutchouté (cycle de 10.8 sec./ 9 sec.)
+13-Nov-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation #2 sur la ligne universelle (cycle de 10.2 sec./9 sec.)
+16-Nov-09
+Modification des limites du mandrin universel
+Suppression du réservoir d’air sur le mandrin universel
+16-Nov-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation de la ligne universelle après suppression de la réserve d’air (cycle de 10.7 sec./ 9 sec.)
+30-Nov-09
+Modification des limites du mandrin universel
+Ajout d’un régulateur de débit pour limiter la vitesse du mandrin automatique et les secousses lors du relâchement de la poulie
+1-Dec-09
+Essai de validation de ligne universelle (cycle de 9 sec. ciblé)
+Test de validation de ligne universelle (cycle de 10.0 sec./9 sec.)
+ANNEXE B
+Projet 2007-01[87]
+Employés
+Heures
+Gérard Gorce
+589
+Jacques Plante
+227
+Marcel Brossard
+267
+Sébastien Dufour
+0
+Serge Caouette
+23
+Alexandre Quinta
+0
+Bernard Sallafranque
+0
+Youssef Houboub
+0
+David Bourque
+0
+Employés de production
+8 261.5
+Total
+9 367.5
+[Marcel Brossard est l’ingénieur de la qualité de l’appelante.]
+RÉFÉRENCE :
+2014 CCI 313
+Nº DU DOSSIER DE LA COUR :
+2011-2054(IT)G
+INTITULÉ DE LA CAUSE :
+LES ABEILLES SERVICE DE CONDITIONNEMENT INC.
+c. LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 18, 19, 20, 26 juin et 11 juillet 2013
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 23 octobre 2014
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Julie Patenaude
+Avocate de l’intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Me Julie Patenaude
+Cabinet :
+Jean-Philippe Gervais, avocat
+Montréal (Québec)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Pour préciser, les travaux faisant partie de ces projets sont énumérés dans la liste de travaux et d’essais à l’onglet 5 de la pièce A‑1.
+[2] 2007-02.
+[3] Tel que la Loi se lisait à la fin de 2009.
+[4] La version anglaise du texte se lit comme suit :
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection.
+[5] Le texte anglais correspondant est :
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new . . . devices . . . or processes, including incremental improvements thereto,
+[6] L’économie canadienne aurait tout avantage à ce que le plus de compagnies possible fassent de tels efforts. Cela aiderait non seulement à éviter des délocalisations, mais pourrait peut-être encourager l’inverse, des relocalisations.
+[7] L’audience a duré cinq jours au cours de trois semaines différentes. Il y a eu cinq témoins (Serge Caouette, Martin Gariépy, Steven Kooi, Yves Hamelin et Denis Frayce) et de nombreux documents mis en preuve. M. Hamelin est président du Groupe HLP qui est spécialisé dans la représentation de clients dans le cadre de demandes de crédit pour recherche scientifique et développement expérimental. Il a témoigné relativement à la vérification et à l’opposition. M. Frayce, qui est le superviseur de M. Kooi, a témoigné relativement à la vérification. Il n’est pas nécessaire que j’examine leurs témoignages qui sont surtout liés au processus de vérification et de cotisation.
+[8] Dans un projet, il ne s’agit pas d’une chaîne proprement dit; dans ce cas-là, il s’agit de l’« approche chirurgien ».
+[9] Au cours de la preuve, il y a eu une certaine confusion par moments relativement au rôle de Mabe et de General Electric. Il est clair que General Electric, Mabe et l’appelante collaborent étroitement et je suis d’avis qu’aux fins de cette cause cela n’a aucun impact pour que quelque chose soit fait par Mabe plutôt que par General Electric ou vice versa.
+[10] Les pièces désassemblées peuvent être renvoyées à l’appelante pour faire de nouveaux essais, mais elles ne le sont pas nécessairement (transcription, page 368).
+[11] Transcription, page 142, ligne 16, à la page 144, ligne 13. Les quatre premiers volumes de la transcription sont numérotés de la page 1 à la page 1141; dans ces notes je ne fais aucune référence au volume V.
+[12] La preuve ne révèle pas la fréquence de ces approbations par General Electric. Nous ne savons pas si, par exemple, il était typique d’avoir réussi plusieurs modifications avec succès avant d’obtenir l’approbation et de faire un « first piece » ou s’il y avait en général une demande après la plupart des essais qui ont eu du succès.
+[13] M. Caouette a parlé du « log »; je vais appeler cela le registre des essais. Ce registre se retrouve non seulement à l’onglet 5 de la pièce A-1, mais également à l’intérieur de la feuille de calcul électronique à la pièce A-12.
+[14] Voir, par exemple, la pièce I-1 qui, à part les 11 premières pages, ne contient que de telles descriptions. Il n’y a pas de numérotation consécutive à la pièce I-1, mais les descriptions de projets et d’essais représentent une épaisseur d’à peu près 1,5 po, ou 3,8 cm, de papier. Les mêmes documents se retrouvent en grande partie aux onglets 8 et 9 de la pièce I-2.
+[15] Transcription, pages 117 et 118.
+[16] Je note qu’il n’est pas tout à fait clair dans la preuve si l’appelante avait un carrousel différent pour chaque type de moteur différent, mais ma conclusion est que c’était le cas. Si je comprends bien la preuve, à l’origine Mabe avait six lignes de production de sécheuses (« régulier », « international » et « quiet pack », par exemple) et chaque ligne de production avait un carrousel différent qui produisait les sous-assemblages de moteurs : voir la transcription aux pages 98 et 99. Au début l’appelante a commencé de la même façon en ce qui concerne les moteurs autres que « réguliers ».
+Cela était aussi le cas en ce qui concernait les éléments chauffants (2007-02); quand Mabe les faisait tous dans son usine, il y avait des lignes séparées pour l’assemblage de chaque type d’élément chauffant (voir les pages 169 et 170 de la transcription). Par contre, tel que je comprends le témoignage de M. Caouette, en 2007, l’appelante n’a commencé qu’avec l’assemblage d’un seul élément chauffant qui servait uniquement au modèle « régulier »; toutefois, en 2007, dès le début, l’appelante avait commencé par la production d’assemblages utilisant un type d’élément chauffant en mica qui était nouveau et qui n’avait pas été utilisé auparavant.
+[17] Par exemple, « quiet pack » et « international ».
+[18] Voir, entre autres, la première page 2 à l’onglet 2007-01 de la pièce I-1.
+[19] Si j’ai bien compris le témoignage de M. Caouette, il y a un léger ralentissement de la production au moment de la transition d’un type de moteur à un autre.
+[20] Selon M. Caouette, une fois ces changements faits, non seulement on pouvait faire ces changements rapidement, mais il arrivait qu’on change de type de moteur une vingtaine de fois dans une journée; voir le bas de la page 119 de la transcription.
+[21] La source des informations est indiquée à l’annexe.
+[22] Pour les salaires, voir la première page de l’onglet 6 de la pièce I-2.
+[23] Voir les pages 158 à 162, 268, 365 et 366 de la transcription.
+[24] La cible était de sept secondes, mais au début de l’année l’appelante était rendue à environ 9,6 secondes.
+[25] Les détrompeurs assurent que toutes les composantes sont à leur place. S’il manque une composante, ou si une mauvaise composante est installée, l’assemblage ne fonctionnera pas.
+[26] Voir la pièce A-12 à la page ou onglet intitulé « Partie comptable » à la colonne J relative au projet 2007-02.
+[27] Voir la première page de l’onglet 6 de la pièce I-2.
+[28] Pièce I-1, onglet 2009-02, première page.
+[29] Appelé « water spider ».
+[30] Voir la pièce A-12 à la page ou onglet intitulé « Partie comptable » à la colonne I relative au projet 2009-01.
+[31] Voir la première page de l’onglet 6 de la pièce I-2.
+[32] Voir, entre autres, les pages 268 et 320 de la transcription.
+[33] Par exemple, un petit échantillon ou un coupon sur une composante imprimée.
+[34] Voir la pièce A-12 à la page ou onglet intitulé « Partie comptable » à la colonne G relative au projet 2009-02.
+[35] Voir la première page de l’onglet 6 de la pièce I-2.
+[36] Je vais maintenant examiner les expertises et faire l’analyse du premier projet en litige et ensuite revenir aux autres projets.
+[37] Le simple fait d’être employé de l’Agence du revenu du Canada n’est pas suffisant, en soi, pour refuser de qualifier une personne comme expert. Il faut faire un examen plus profond de toutes les circonstances. La question clé qu’il faut examiner est l’impartialité, ou non, du témoin. Voir Hospira Healthcare Corporation c. Eli Lilly Canada Inc., 2010 CAF 282, où la Cour d’appel fédérale dit :
+8 Quoique les tribunaux se soient exprimés sur le fait qu’il était souhaitable que les experts soient indépendants vis-à-vis des parties et que leurs opinions soient impartiales (voir par exemple, National Justice Campania Naverai SA c. Prudential Assurance Co. Ltd. (The Ikarian Reefer), [1993] 2 Lloyd’Rep. 68, aux pages 81 et 82), il convient de distinguer l’indépendance de l’impartialité. Différentes décisions traitent de la question de l’indépendance comme d’un obstacle à l’admissibilité du témoignage d’un expert, plutôt que comme un facteur à considérer pour évaluer le poids à accorder à ce témoignage. Ces décisions sont examinées dans United City Properties c. Tong, 2010 BCSC 111. Il n’est pas nécessaire que nous tranchions cette question pour régler la présente affaire. Je dirais toutefois qu’il ressort de l’examen de bon nombre de ces décisions que l’on conteste au titre du manque d’indépendance se révèle en fait souvent être un manque d’impartialité. Le manque d’impartialité est le problème qui a donné lieu aux récentes modifications des Règles des Cours fédérales, DORS/98‑106, auxquelles l’avocat de Hospira a fait référence.
+9 Aucune des décisions invoquées par Hospira n’étaye la proposition selon laquelle le témoignage d’un expert validement qualifié doit être rejeté sur le seul fondement de son manque d’indépendance. Merck & Co c. Apotex Inc., 2004 CF 567, [2004] A.C.F. no 684, traite de la question du caractère approprié d’une ordonnance de confidentialité. Aucune décision n’a été rendue quant à l’admission ou au rejet du témoignage de l’expert. Dans Biovail Pharmaceuticals Inc. c. Canada (Ministre de la Santé nationale et du Bien-être social), 2005 CF 9, [2005] A.C.F. no 7, après avoir répété le passage souvent cité de The Ikarian Reefer, la Cour a accepté à titre de témoin expert le vice-président, Technologie pharmaceutique, de la demanderesse, en dépit des objections des défendeurs qui invoquaient les intérêts financiers du témoin dans l’issue du procès. Dans Lundbeck Canada Inc. c. Canada (Ministre de la Santé), 2009 CF 146, [2009] A.C.F. no 249, la Cour a rejeté la contestation de la qualité d’expert d’un certain témoin pour le motif qu’il avait témoigné vingt fois pour la même partie au cours des trente dernières années. La Cour a accepté son témoignage après avoir estimé qu’il ressortait de son contre-interrogatoire qu’il était objectif.
+Comme la Cour d’appel l’indique, il y a un débat sur le fait de savoir si la partialité est une question de poids ou d’admissibilité; vu mes conclusions ci‑dessous, il n’est pas nécessaire que je tranche ce débat.
+Les sérieuses difficultés que j’ai avec le témoignage de l’expert de l’intimée, et que j’exprime ci-dessous, illustrent les dangers à faire témoigner le conseiller scientifique au stade de la vérification comme témoin expert.
+[38] Voir, par exemple, le bas des pages 8 à 23 de la pièce A-10 et le paragraphe 7.5 à la page 19 de la pièce I-3.
+[39] Voir R. v. Jacobs, 2014 ABCA 172, au paragraphe 60; je reconnais que Jacobs est dans un contexte tout à fait différent.
+[40] Voir, par exemple, le dernier paragraphe de la page 23 de son rapport (pièce I-3) ou le paragraphe 9.4.2 à la page 34 de son rapport.
+[41] Bien qu’il y a des situations où un expert peut témoigner de certaines choses qu’il a constatées; par exemple, un médecin qui témoigne comme expert ayant examiné un patient peut certainement donner la preuve de certaines constatations qu’il a faites au cours de son examen. Ici, il ne s’agit pas d’une telle situation.
+[42] Dans 116736 Canada inc. c. Canada, [1998] ACI no 478 (QL), le juge Archambault explique que des rapports contemporains de tout essai sont des éléments potentiellement très importants de preuve, mais que cela n’est pas obligatoire. Il dit ceci :
+38 Essentiellement, l’objet de cet appel consiste à déterminer si une investigation systématique a eu lieu. Le conseiller scientifique du Ministre a conclu que ce n’était pas le cas parce qu’une preuve suffisante ne lui avait pas été donnée pour établir qu’une telle investigation avait été effectuée. Essentiellement, il n’a pas reçu de rapports valables décrivant les progrès des projets de R-D et plus spécifiquement, décrivant les types d’essais effectués, les résultats obtenus, etc.
+39 L’avocat de l’intimée a fait valoir qu’une investigation systématique n’a pu avoir lieu en l’absence de rapports détaillés établissant chacune des étapes de l’investigation effectuée par l’appelante. En l’occurrence, il n’existe aucune preuve de calculs qui auraient été effectués dans le cadre de l’investigation. Par conséquent, de l’avis de l’avocat, il n’y avait pas suffisamment de preuve pour soutenir la conclusion selon laquelle une investigation systématique avait été menée.
+40 À mon avis, des rapports contemporains fournissant des détails précis de chaque expérience tentée par un chercheur devraient constituer une preuve d’une investigation systématique. Tout contribuable qui tenterait de convaincre le Ministre qu’il a droit de déduire des dépenses de R-D sans fournir une telle preuve se placerait dans une position très précaire. Un contribuable serait dans une position semblable s’il se présentait devant la présente cour pour contester le refus du Ministre de permettre la déduction de ses dépenses de R-D.
+41 Toutefois, la Loi et le Règlement n'exigent pas la production de tels rapports écrits pour permettre à un contribuable de déduire de telles dépenses. Il est possible de présenter une preuve par témoignage verbal. Que le Ministre ou le juge puisse conclure que les activités censément exécutées par un contribuable l'ont réellement été devient alors une question de crédibilité.
+[Je souligne.]
+Voir également la décision RIS–Christie Ltd. c. Canada, [1998] ACF no 1890 (QL), où la Cour d’appel fédérale dit :
+14 […] Bien que les preuves testimoniales soient admissibles au même titre que les preuves documentaires à cet égard, le seul moyen infaillible d'établir que la recherche scientifique a été effectuée de façon systématique consiste à produire des preuves documentaires qui font ressortir la progression logique entre chaque essai et les essais précédents ou subséquents.
+15 Il est donc raisonnable d’attendre du contribuable qu’il administre la preuve documentaire des recherches systématiques, essais y compris. Si cependant il y a une explication plausible du défaut de produire cette preuve, le juge peut toujours conclure, compte tenu de la probabilité la plus forte, qu’il y a eu des recherches systématiques. Par exemple, quand les notes de recherches ont été détruites par accident, il faut qu’il soit permis au juge de première instance de conclure, à la lumière de l’ensemble des preuves produites, qu’il y a eu recherches systématiques. Durant les débats, l’avocate représentant le ministre a reconnu ce principe, ne serait-ce que parce que cette hypothèse d’école ne s’applique pas en l’espèce. J’estime cependant qu’il doit être également permis de conclure que le contribuable a entrepris des recherches systématiques s’il est prouvé que ces recherches se sont soldées par une avancée technologique. Il doit en être ainsi parce que les dispositions de la Loi et du Règlement relatives aux recherches scientifiques ne peuvent pas reposer sur la seule condition de la possibilité de répéter l’expérience. Autrement dit, cette condition réduirait à néant la validité de toutes les autres preuves de recherche scientifique.
+Quand on examine la décision en première instance dans RIS-Christie, on constate qu’il y avait une documentation limitée qui ne répondait pas à toutes les exigences de l’Agence.
+De plus, je note que dans cette cause une partie de la documentation est contemporaine; par exemple, les pages ou onglets intitulés « Chronologie 2009 » (une forme de « log » ), « Data » et « Perf Dos » dans les feuilles de calcul électronique en Excel à la pièce A-12 proviennent de la base de données de l’appelante, dont les données furent accumulées au fur et à mesure que les activités se déroulaient. Il y a dans la note 59 ci‑dessous plus de détails relatifs à « Data ». Je note aussi que les pièces A-3 et A-4 sont contemporaines et contiennent certaines informations limitées relatives aux projets.
+[43] Rapport de M. Kooi, pièce I-3, pages 17 et 18. La liste est répétée aux pages 24 et 25, 35 et 36, 44 et 45. Voir aussi les deux dernières lignes du paragraphe 9.6 à la page 37 de ladite pièce.
+[44] Pièce I-3.
+[45] Il est surprenant de lire dans ce qui est censé être un rapport d’expertise : « Les informations fournies concernant le projet 2009-02 étaient fausses. » Voir les lignes 6 et 7 de la page 46 du rapport de l’intimée (pièce I‑3).
+Cette phrase suit une phrase citée par l’appelante apparaissant au paragraphe 1.2.1.1.6 à la première page 5 de l’onglet intitulé « 2009-02 » (pièce I-1), paragraphe qui décrit l’essai 2305. Bien qu’il y a une erreur dans la phrase citée par M. Kooi et, comme le dit M. Kooi, l’appelante se mêle entre le projet 2009-02 et les trois autres projets, je note qu’au paragraphe 1.2.1.2.6 l’appelante dit seulement que les matériaux ont été fournis par le client. Il en est de même aux paragraphes 1.2.1.3.6, 1.2.1.4.6, 1.2.1.5.6, 1.2.1.6.6, 1.2.1.7.6, 1.2.1.8.6, 1.2.1.9.6, 1.2.1.10.6, 1.2.1.11.6, 1.2.1.12.6 et 1.2.1.13.6.
+Le projet 2009-02 est le seul qui n’implique pas Mabe/General Electric, et le témoignage de M. Caouette, que j’accepte, était que les matériaux pour le projet 2009-02 étaient fournis par le client et que tout était envoyé au recyclage à la fin du test.
+Je note aussi que la dernière conclusion du rapport (page 47) est :
+La réclamation dans le contexte de production expérimentale doit respecter des critères décrits dans la Politique d’application RS&DE 2002-02R2.
+[En italiques dans l’original.]
+[46] Par exemple, le troisième paragraphe sous « 8.4.3 » du rapport de M. Kooi (pièce I-3, page 24) dit :
+Par exemple, dans l’essai 2282, l’objectif de cet essai était de valider l’ajout de poussoirs pneumatiques. Or, 56 personnes ont été impliquées à effectuer cet essai et des dépenses pour la main-d’oeuvre afférente ont été réclamées. Toutefois, le succès a été atteint après quelques ajustements. Basé sur l’opération de la machine vingt-quatre heures sur vingt-quatre, il y aurait eu 627,25 heures de tests correspondaient vingt-six (26) jours d’opérations. Les pièces justificatives correspondantes n’ont pas été soumises. Nous n’avons pas les moyens pour vérifier la validité des activités réclamées par ces employés dans le projet.
+Quand je lis ce passage, je me pose les questions suivantes : M. Kooi accepte-t-il que l’essai 2282 a eu lieu tout en mettant en doute la longueur de l’essai et le nombre de personnes affectées à l’essai? Le témoin met-il en doute la description de l’essai que l’on retrouve au bas de la page 10 de l’onglet 8b de la pièce I-2? (On retrouve ce même document à la page 001365 de l’onglet 4 de la pièce A-1. Ailleurs dans les documents, on en retrouve une page semblable où la description en bas de page est plus courte. Il y a aussi les pages 56 à 58 relatives à l’essai 2282 qui se retrouvent à l’onglet 9 de la pièce I-2.)
+Dans cet exemple, dans le contexte du titre de la section 8.4.3 à la page 24 du rapport, j’ai tendance à croire que c’est plutôt le quantum de temps qui est mis en doute. Toutefois, s’il s’agit de quantum, il n’est pas évident pourquoi cela aurait un effet sur la caractérisation de l’activité décrite.
+Nous verrons ci-dessous que les chiffres dans les paragraphes cités sont erronés. Il y a 28 personnes qui ont été impliquées à différents moments de l’essai et non 56; il n’y avait pas 28 personnes présentes en même temps. Nous verrons également que l’essai n’a pas duré 26 jours de 24 h, mais plutôt une période beaucoup plus courte, probablement de l’ordre de 20 % du temps indiqué dans le rapport, car il s’agit de 627,25 heures‑personnes de travail affecté à l’essai et non de 627,25 heures d’essai.
+[47] Rapport de M. Kooi, pièce I-3, page 26, paragraphe du milieu.
+[48] Pièce I-3, page 13 du rapport, tableau 1.
+[49] Il y a des tableaux semblables pour les projets 2009-01 et 2009-02.
+[50] Quand on examine la preuve, il est évident qu’il s’agit d’heures‑personnes de travail et non d’heures d’essai.
+Je reconnais que dans les documents de l’appelante, il y a, entre autres, une page pour chaque essai avec une description et, notamment, le nom des employés qui ont participé à la production et le nombre d’« heures de tests ». M. Kooi a interprété « heures de tests » littéralement. L’intimée aurait été plus précise s’il avait décrit cela comme « heures‑personnes de travail attribuables à l’essai ».
+Toutefois, on constate facilement qu’il s’agit d’heures-personnes. Si on considère le projet 2009-02, le montant de salaires réclamé est de 110 416 $ (voir le paragraphe 21q) de la réponse à l’avis d’appel). Il est évident qu’un montant de 110 000 $ ne peut suffire à payer pour plus de 6 000 heures d’opération de la chaîne de production quand il y a plusieurs employés. Si les employés étaient payés 10 $ l’heure seulement, il y aurait 11 000 heures de travail ce qui équivaudrait à moins de deux employés en moyenne par heure de production. On voit sur les feuilles relatives à chaque essai qu’il y a plusieurs personnes impliquées pour chaque essai (voir, par exemple, la page 3 à l’onglet 8b de la pièce I-2).
+De plus, il y a en preuve les feuilles de calcul électronique à la pièce A-12. À la page ou à l’onglet intitulé « Data », on retrouve une liste pour chaque employé qui a travaillé au cours d’un essai : le nom ou le numéro de l’employé, la date, l’heure de l’essai, l’heure de départ et le nombre d’heures de travail. Il est évident, à partir de ces données, qu’il y a toujours plusieurs employés qui travaillent au cours de chaque essai, ce qui n’est pas surprenant puisqu’il s’agit d’essais de production.
+Je n’ai pas fait d’analyse détaillée, mais après un examen des données sous « Data » pour tous les essais du projet 2007‑02, je suis satisfait qu’en termes d’ordre de grandeur, il y a typiquement cinq employés ou plus qui participent et qui travaillent en même temps pendant chaque essai du projet 2007-02.
+Par exemple, pour l’essai 2282, dont il a déjà été question, toutes ces informations sont aux lignes 3081 à 4242 de « Data » quand la colonne M est ouverte à « Mic 2007-02 ». Il faut donc diviser le nombre d’heures‑personnes par un minimum de cinq pour avoir une idée du nombre d’heures de durée des essais sur la ligne de production.
+Pour les trois autres projets, quand on examine la page ou l’onglet intitulé « Data », il est également clair que plusieurs personnes participent à chaque essai.
+[51] Il a fait la même correction pour les tableaux 1, 3 et 4.
+[52] Sauf peut-être le projet 2009-02 où il y aurait eu selon le raisonnement du témoin plus de 170 jours de 24 heures d’essai. Cela serait à peu près 47 % de l’utilisation de la chaîne pour l’année si la chaîne est en opération 24 heures par jour, 365 jours par année. Il est fort probable que 170 jours représentaient plus de 50 %.
+[53] Je note que pour une partie du projet 2009-01, M. Kooi n’émet pas d’opinion. À la page 38 de son rapport, (pièce I-3) au dernier paragraphe, il dit qu’une partie du projet « n’était pas corroborée ». Dans son témoignage, il a expliqué (pages 870 et 871 de la transcription) que « non corroboré » veut dire qu’il ne peut donner d’opinion.
+[54] Dans la mesure où il a témoigné relativement à ce qu’il a fait en tant que conseiller scientifique au stade de la vérification, j’accepte son témoignage, mais il ne s’agit pas de témoignage en tant qu’expert.
+[55] Pièce I-2, onglet 7.
+[56] Pièce I-2, onglet 7, rapport du 18 novembre 2010, page 4.
+[57] Pièce I-2, onglet 7, rapport du 18 novembre 2010, page 5 (paragraphe du milieu) et page 6.
+[58] Il n’est pas question non plus d’absence de « log » ou de la quasi‑absence de dépenses de matériel de la part de l’appelante.
+J’ouvre une parenthèse pour mentionner qu’au cours de son témoignage M. Kooi a de nombreuses fois attaché beaucoup d’importance à la quasi-absence de dépenses de matériel : voir parmi beaucoup d’exemples le témoignage de M. Kooi aux pages 904 et 905 de la transcription. Je suis incapable de comprendre pourquoi le fait que l’appelante n’avait presque pas de dépenses de matériel, dans des circonstances où le matériel était fourni par le client, soit un indice qu’il n’y a pas eu de développement expérimental.
+Si le ministre ne croit pas qu’il y avait du matériel utilisé et qu’il n’y a pas eu d’essai, ou si le ministre croit qu’il s’agissait tout simplement de production qui a été en réalité vendue, il devrait émettre une cotisation qui est basée sur de telles présomptions de fait et la Cour aurait à décider ce qui s’est passé. Toutefois, ici ce n’est pas le cas; la preuve est que le matériel a été fourni par le client.
+[59] En préparant son rapport du 18 novembre 2010, il est clair que M. Kooi a consulté, entre autres, tous les documents des onglets 8 et 9 de la pièce I‑2 (voir la page 2 du rapport qui est à l’onglet 7 de la même pièce). M. Kooi ne semble pas avoir hésité à se fier à ces documents pour rendre sa décision dans le rapport.
+[60] M. Kooi a soulevé dans son rapport et son témoignage le fait que beaucoup de documents n’étaient pas contemporains. Cela est exact, mais vu que les documents ont été admis par consentement et que leur contenu n’a pas été mis en doute, leur contenu reste comme preuve détaillée du déroulement des projets.
+Je note que M. Kooi a témoigné qu’il n’y avait aucun « log » ou « logbook » contemporain; je suis incapable de comprendre cette affirmation, car la page ou l’onglet intitulé « Chronologie 2009 » de la feuille de calcul électronique en Excel à la pièce A-12 est une forme de « log » tenu par l’appelante de façon contemporaine dans sa base de données. Le contenu de « Chronologie 2009 » ne contient peut-être pas toutes les informations que l’Agence croit devraient être dans un « log », mais je ne vois pas comment on pourrait dire qu’il n’y a pas de « log » contemporain. Des parties de « Chronologie 2009 » sont ailleurs dans la preuve documentaire et la portion relative au projet 2007-01 est reproduite à l’annexe A de ces motifs.
+Je note aussi que la page ou l’onglet intitulé « Data » contient tous les détails des heures de travail associées aux essais (nom de l’employé ou parfois son numéro au lieu de son nom, date, heure d’arrivée, heure de départ, nature du travail de l’employé, par exemple le projet et le numéro de l’essai). De plus, « Data » semble également contenir les heures de travail qui ne sont pas liées au projet. Il s’agit de données qui ont été enregistrées sur une base contemporaine dans la base de données de l’appelante. M. Caouette a expliqué que chaque employé avait un code-barres et que chaque sorte de travail avait un code-barres — par exemple, il y avait un code-barres pour chaque essai. Quand l’employé commençait à travailler, par exemple, sur l’essai numéro 1, il plaçait son code‑barres personnel devant un lecteur de code-barres et ensuite il plaçait le code-barres pour l’essai; le tout était ensuite enregistré dans la base de données de l’appelante.
+J’ai déjà indiqué dans une note que les pièces A-3 et A-4 sont des documents contemporains qui contiennent certaines informations limitées relatives aux projets.
+[61] Je note que le témoin se réfère beaucoup aux documents et aux définitions de l’Agence.
+[62] Transcription, pages 548 à 552.
+[63] Transcription, pages 556 et 557.
+[64] Transcription, page 607.
+[65] Transcription, pages 575 à 583.
+[66] Transcription, pages 583 à 586.
+[67] Le témoin a également expliqué que les projets accomplis par l’appelante n’étaient pas réalisés par simple « essais et erreurs », qu’il y avait des raisons pour lesquelles on souhaitait faire tel essai et valider telle chose et qu’on ne se contentait pas de faire mille et une modifications pour voir laquelle donnerait le meilleur résultat (voir les pages 597 et 598 de la transcription).
+[68] À l’alinéa c) de la définition d’« activités de recherche scientifique et de développement expérimental » de l’article 248 de la Loi.
+[69] Le texte anglais correspondant est :
+. . . work undertaken for the purpose of achieving technological advancement for the purpose of creating new . . . devices . . . or processes, including incremental improvements thereto,
+[70] 2001 CAF 393.
+[71] De même, quant à la cinquième considération, bien qu’il est souhaitable pour un appelant d’avoir la meilleure documentation contemporaine possible, car cela faciliterait sa preuve, il ne s’agit pas d’une obligation absolue (voir le paragraphe 94 et la note 41 ci-dessus).
+[72] Par exemple, le 16 mars 2009 l’augmentation du diamètre du tuyau d’air principal.
+[73] Évidemment, il est toujours possible qu’il y ait un débat, à savoir si une étape ou un essai fait partie d’un projet de développement expérimental, mais dans cet appel il n’a jamais été suggéré qu’un essai particulier ne fasse pas partie de l’un des projets. Le débat a procédé sur la base que chaque projet était ou n’était pas du développement expérimental.
+[74] Nous ne savons pas la valeur de la contribution de matériel de Mabe/General Electric.
+[75] Les deuxième et troisième critères énumérés ci-dessus.
+[76] Voir le paragraphe 34 ci-dessus.
+[77] Le premier critère ci-dessus.
+[78] Quant au quatrième critère, comme déjà dit, bien que le but doit être de progrès technologique, un projet peut échouer. Ici, il se trouve que l’appelante a réussi. Quant au cinquième critère, comme déjà mentionné, la Loi n’exige pas de documentation particulière bien qu’une bonne documentation aide énormément un appelant à démontrer qu’il y a eu du développement expérimental. De toute façon, ici il y a une certaine documentation contemporaine et, de plus, il y a une très importante preuve devant moi.
+[79] Pour des raisons de sécurité, il était très important de s’assurer que le bon élément chauffant était utilisé dans chaque sous-assemblage.
+[80] Toutefois, une production de plus de 8 % par heure avec la même équipe représente une amélioration réelle du coût de production.
+[81] Plus la contribution de Mabe/General Electric dont nous ne savons pas la valeur monétaire.
+[82] Plus, comme dans les autres cas, le matériel fourni par Mabe/General Electric qui, comme pour les deux premiers projets, a ensuite désassemblé les panneaux.
+[83] 11 000 applications par heure au lieu de 6 000.
+[84] Voir le paragraphe 77 ci-dessus.
+[85] Pour préciser, les travaux faisant partie de ces projets sont énumérés dans la liste de travaux et d’essais à l’onglet 5 de la pièce A‑1.
+[86] Ce tableau provient de la pièce A-12 qui contient une feuille de calcul électronique de l’appelante utilisant le logiciel Excel. Il est légèrement modifié pour montrer plus clairement quels événements sont les essais. Spécifiquement, il s’agit de la portion liée au projet 2007-01 de la page intitulée « Chronologie 2009 ». Le tableau 1 du rapport de M. Kooi (pages 13 à 15) est une liste des mêmes essais que le tableau ici sauf que le tableau 1 du rapport ne fait référence qu’aux essais et non aux autres événements, et les descriptions sont celles de M. Kooi. À noter que M. Kooi a corrigé son tableau 1 au début de son témoignage. Le nombre de personnes impliquées doit être réduit de moitié ou, dans certains cas, de moitié avec arrondissement au chiffre entier vers le bas. Par exemple, pour l’essai 2231 au tableau 1, M. Kooi indique 27, mais si on regarde à la pièce I-1 à l’onglet « 2007-01 » à la page qui décrit 2231, quand on examine la liste de noms il y a 13 personnes et non 27 qui est le total des deux colonnes y compris la dernière ligne qui est une description. La page qui décrit 2231 comprend à la première ligne dans le haut la date « 3 septembre 2009 » et est numérotée 26 dans le bas. Il s’agit de la page 26 dans le troisième groupe de pages numérotées à l’onglet.
+[87] Ceci provient également de la pièce A-12 qui contient une feuille de calcul électronique utilisant le logiciel Excel. Spécifiquement, il s’agit de la portion liée au projet 2007-01 de la page ou de l’onglet intitulé « Partie comptable ».

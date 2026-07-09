@@ -1,0 +1,370 @@
+---
+title: "Lichtman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309787/index.do"
+last_modified: "2018-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 82"
+citation2: ""
+neutral_citation: "2018 TCC 82"
+decision_date: "2018-04-30"
+language: "en"
+item_id: "309787"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4796
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:48:56.257000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9c36d809a65ccd44c9186dddebcfa4bce97a130d4d7b9d70bdfb80d2b1d6ee42"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lichtman v. The Queen
+
+- Citation: 2018 TCC 82
+- Decision date: 2018-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4796, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lichtman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-30
+Neutral citation
+2018 TCC 82
+File numbers
+2016-323(IT)I, 2016-324(IT)I, 2016-326(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-323(IT)I
+BETWEEN:
+RABBI ADAM LICHTMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Order respecting Written Submissions on Costs
+By: The Honourable Justice Diane Campbell
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Deborah Toaze and Eric Brown
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+ORDER
+The Respondent is awarded costs as set out in the attached Reasons for Order.
+Signed at Ottawa, Canada, this 30th day of April 2018.
+“Diane Campbell”
+Campbell J.
+Docket: 2016-324(IT)I
+BETWEEN:
+RABBI LAWRENCE GOLDMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Order respecting Written Submissions on Costs
+Before: The Honourable Justice Diane Campbell
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Deborah Toaze and Eric Brown
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+ORDER
+The Respondent is awarded costs as set out in the attached Reasons for Order.
+Signed at Ottawa, Canada, this 30th day of April 2018.
+“Diane Campbell”
+Campbell J.
+Docket: 2016-326(IT)I
+BETWEEN:
+RABBI SHLOMO ESTRIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Order respecting Written Submissions on Costs
+Before: The Honourable Justice Diane Campbell
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.,
+Deborah Toaze and Eric Brown
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+ORDER
+The Respondent is awarded costs as set out in the attached Reasons for Order.
+Signed at Ottawa, Canada, this 30th day of April 2018.
+“Diane Campbell”
+Campbell J.
+Citation: 2018 TCC 82
+Date: 20180430
+Docket: 2016-323(IT)I
+BETWEEN:
+RABBI ADAM LICHTMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-324(IT)I
+AND BETWEEN:
+RABBI LAWRENCE GOLDMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2016-326(IT)I
+AND BETWEEN:
+RABBI SHLOMO ESTRIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER RESPECTING
+WRITTEN SUBMISSIONS ON COSTS
+Campbell J.
+[1] I heard these appeals over several different dates in 2017 in Vancouver. On December 18, 2017, I issued reasons and dismissed the appeals. I gave the parties 60 days from the date of the Judgment to provide written submissions on costs if they were unable to reach a settlement on this issue. On January 1, 2018, the Appellants filed appeals to the Federal Court of Appeal. I received written submissions respecting costs from both Appellant and Respondent counsel on February 16, 2018. The Appellants discontinued their appeals on April 12, 2018.
+[2] These appeals were commenced under the Informal Procedure and they were originally set down for hearing for two days. Within the first hour after these appeals commenced, I adjourned when it became apparent that expert evidence would be necessary. Appellant counsel, relying on comments made by former Chief Justice Bowman in several of his decisions, made a decision that expert evidence would not be required. Based on a number of objections by Respondent counsel, I repeatedly advised Appellant counsel that they would require expert evidence if they intended to pursue certain lines of questioning. Since I was “not inclined to adjourn to get an expert”, I advised counsel that the Appellants would “simply have the perils of proceeding” if experts were not called (Transcript, Vol. 1, page 38, lines 1-2 and 9-10).
+[3] After discussions with both counsel, Appellant counsel agreed to an adjournment to permit the Appellants sufficient time to obtain an expert (Transcript, Vol. 1, page 41, line 21 and page 50, lines 8-10). The adjournment meant that the appeals took an additional seven days to be heard with four of these days being devoted to hearing expert evidence. My reasons in these appeals relied heavily on the expert testimony in reaching the conclusions I did.
+[4] The Respondent seeks reimbursement in respect to all of its disbursements under Rule 11.2 in the amount of $29,859.48 together with party and party costs under Rules 10(2) and 11 in the amount of $5,745.
+[5] The Appellants submit that the parties should each bear their own costs related to the appeals based on the following two arguments.
+(1) The Appellants were not responsible in any way for undue delays in the resolution of these appeals (Written Submissions of Appellants in Respect of Costs, page 1, para. 3).
+(2) The Crown’s claimed disbursements are exceptional and unreasonable when compared to previous awards given under the Informal Procedure Rules.
+I. Analysis
+A. Legislation:
+[6] The foundational authority of this Court to award costs is contained in subsection 18.26(1) of the Tax Court of Canada Act:
+Costs
+18.26(1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+[Emphasis added]
+[7] When appeals are heard under the Informal Procedure, there are a number of Rules that apply when this Court is considering an award of costs either for or against a party. The general Informal Procedure Rules is contained in Rule 10(1):
+10(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+[8] The language contained in Rule 10(1) gives a wide discretionary power to this Court to determine not only the amount of costs but also the allocation of those costs and the person or party required to pay them. While Rule 10(1) gives this Court wide discretionary power to award disbursements, Rule 10(2) imposes limits on awarding costs to the Respondent with respect to a claim for party and party costs:
+10(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+[9] According to Rule 10(2), in order to give an award of party and party costs to a Respondent, this Court must make a finding that an appellant caused “undue delay” in the prompt resolution of the appeal. If such a finding is made by the Court then the award of party and party costs that may be given to a Respondent will be capped by Rule 11, which states:
+11 On the taxation of party and party costs the following fees may be allowed for the services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+[10] Rule 11 is pertinent to these reasons because the Respondent is requesting the maximum amount of party and party costs of $5,745.
+[11] Lastly, unless the Court otherwise directs, Rule 12(2) establishes a daily cap of $300 in respect to an expert in preparing himself to give evidence and giving evidence:
+12(2) There may be paid to a witness who appears to give evidence as an expert a reasonable payment, not to exceed $300 per day unless the Court otherwise directs, for the services performed by the witness in preparing himself to give evidence and giving evidence.
+B. Party and Party Costs:
+[12] I will deal first with the Respondent’s request for party and party costs. Pursuant to Rule 10(2), I have to find that the Appellants caused undue delay in the course of the proceedings to award the Respondent any amount in this regard. Although the Appellants commence their submissions at paragraph 2 of their written submissions on costs by claiming that “their actions did not unduly delay the prompt and effective resolution of the Appeal”, I conclude they did. This is supported by their subsequent submissions where the Appellants do in fact assume partial responsibility for the delay in these proceedings:
+(1) At paragraph 3(A), page 2, the Appellants state:
+A. The initial adjournment of the hearing of the Appeals was occasioned by a joint failure of the parties to effectively communicate prior to the hearing (see paras. 15 to 30 of the Submissions);
+[Emphasis added]
+(2) At paragraph 15, page 12, the Appellants state:
+… For the reasons outlined below, the necessity for the adjournment arose out of a failure of communication between the parties.
+[Emphasis added]
+(3) At paragraph 30, page 17, the Appellants state:
+The Appellants therefore submit that the necessity of adjourning the hearing to retain expert evidence in light of the Respondent’s objections is a delay that should not be attributed specifically to the Appellants’ actions so as to warrant a punitive costs award against them.
+[Emphasis added]
+[13] It appears that the Appellants were “lulled into a false sense of security” because the appeals were governed by the Informal Procedure Rules. At paragraph 21 of their submissions, they state:
+21. Prior to the hearing, counsel for the Appellants acted on the basis that, under the Informal Procedure Rules, the formalities of the rules of evidence are loosened to some degree.
+[14] While this statement is correct, it in no way negates an obvious need for expert testimony. The Appellants’ case dealt with an area in which the Court required specific knowledge and assistance to decide the issues before it. In fact, the pleadings of both parties reference particular areas concerning the principles and beliefs of Orthodox Judaism. Yet, the Appellants contended that they proceeded “on the basis that they might confine the scope of the hearing to the applicability of the Clergy Residence Deduction to the Vancouver Jewish community and on the basis that expert evidence on the general beliefs of Orthodox Judaism would not be particularly helpful for this Honourable Court” (paragraph 20, Appellant’s Written Submissions). This was presumptuous to the extent that within the first hour after the commencement of the hearing, Appellant counsel, in direct examination, was already questioning the first witness respecting the very areas which prompted objections and required expert evidence. Although these appeals were being heard under the Informal Procedure, the onus or burden of proof remained with the Appellants. Such assumptions highlight the unfortunate consequences that may result.
+[15] Another example of the Appellants’ assumptions, which I believe, may be partly attributable to the fact that they were proceeding under the Informal Procedure Rules, is contained at paragraph 23 of their written submissions:
+23. In light of the pleadings, the Appellants proceeded to the hearing with the expectation that the Respondent would not object to questions posed on topics regarding the principles and practices of Orthodox Judaism. The Appellants were of the view that an objection, if there was one, would have been raised and could have been resolved through amicable pre-hearing dialogue and the early retention of an expert. This expectation was heightened by the Appeals proceeding under the Informal Procedure.
+[16] It is a huge leap of faith by counsel to assume that opposing counsel will not raise objections to potentially crucial elements of a case and this left the Appellants in a precarious situation when the decision was made to proceed on that basis without initiating discussion in this regard before the hearing began. In fact, Appellant counsel went so far as to propose that opposing counsel should have suggested to the Appellants that they bring an expert to Court (Transcript, Vol. 1, page 31, lines 8-10). While counsel on both sides should act respectfully toward one another, it does not change the fact that our system of law is adversarial in nature.
+[17] The Appellants’ decision, to come to the hearings without an expert, caused an undue delay as the proceedings had to be adjourned. In using my discretion to order an adjournment, I was required to balance fairness to the parties under the somewhat unusual circumstances, against the underlying need to move forward as efficiently as possible with the conduct of the hearing, which had already commenced. The problem that prompted an adjournment was procedural in nature and in granting an adjournment the delay did not cause prejudice to either party.
+[18] The Appellants also argued that some of the delay was caused by the Respondents’ failure to move the appeals to the General Procedure pursuant to section 18.11 of the Tax Court of Canada Rules. The Appellants assert that the Respondent had an obligation to move these appeals to the General Procedure and that the delay “… stemmed from the Appeals proceeding under the Informal Procedure” (Written Submissions, page 24, paragraph 57). It was the Appellants’ decision to commence their appeals under the Informal Procedure. The Respondent had the right to bring a motion, if it chose to do so, to move the appeals to the General Procedure; however, they are not obligated to do so. For whatever reasons, the Respondent chose not to bring a motion. I am not in a position to second guess (nor should I) the carriage of its case.
+[19] In concluding that the actions of the Appellants unduly delayed the prompt resolution of the appeals, I am permitted to award costs to the Respondent pursuant to Rule 10(2). However, the amount in respect to party and party costs is limited by Rule 11, which exists to accommodate the appellant-friendly framework of the Informal Procedure. The Respondent is seeking $5,745 in party and party costs, which is the maximum amount it can be awarded under Rule 11 in the circumstances of these appeals.
+[20] Applying Rule 11 in respect to the Respondent’s claim for party and party costs, I am awarding $5,745 to the Respondent for the services of counsel as follows:
+For services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal
+$185.00
+(b) for preparing for the hearing
+$250.00
+(c) for the conduct of the hearing, $375 for each half day or part of a half day
+(Heard: February 7, May 8, 9, 10, 11, June 14, 15 and 16, 2017) 6 full days x $750 per = $4,500 and 2 half days x $375 = $750
+$5,250.00
+(d) for taxation of costs
+$60.00
+[21] Although the Respondent argued that these costs should be awarded in part because they were required to change counsel when the proceedings were adjourned, I note that the only justification for an award of party and party costs is a finding of undue delay.
+C. Disbursements:
+[22] As a general rule, disbursements incurred in Informal Procedures may be awarded to either party. Unlike an award for party and party costs, under Rule 10(1) of the Informal Procedure Rules, this Court has discretion to award costs with respect to disbursements to a Respondent even where the Appellants may not have caused undue delay in the proceedings. Nevertheless, this discretion should be exercised with caution. Under Rule 11.2, there are only two restrictions on the recovery of disbursements: (1) the disbursements claimed must have been essential for the conduct of the appeal and (2) the disbursements must have been actually incurred or made or that the party seeking the reimbursement is liable for them. The Respondent meets both requirements. It made disbursements essential to the conduct of the appeal and the Respondent is liable to pay them. The Affidavit of Disbursements of Olinda Samuel, a paralegal with the Department of Justice, itemized and established that the disbursements were in fact made and that the Respondent is liable for them.
+[23] The Respondent’s Bill of Costs with respect to Disbursements contains two exhibits: Exhibit A relates to the costs for retaining Rabbi Eleff, the Respondent’s expert and Exhibit B relates to transcript and printing costs, for which supporting invoices were attached to the Affidavit of Olinda Samuel.
+[24] Although raised in the context of the General Procedure, the principles with respect to reasonable disbursements, outlined by Hogan J. in General Electric Capital Canada Inc. v Canada, 2010 TCC 490, 2010 DTC 1353, at paragraph 41, are relevant:
+41 It is generally accepted that expert fees are to be reimbursed as a disbursement, with certain notable exceptions. Expert fees can be reduced where an expert does not testify. Further, expert fees can be reduced where they are not reasonable.
+[25] There may be other reasons where expert fees will be reduced, for example, where the expert report contained blatant flaws.
+(1) Rabbi Eleff’s Costs
+[26] Rabbi Eleff submitted two different invoices to the Respondent in respect to his services: one dated May 18, 2017 in the amount of $14,116.35 (USD) or $19,057.07 (CAD) and a second invoice dated June 20, 2017 in the amount of $5,660.46 (USD) or $7,528.41 (CAD). These invoices were attached to the Affidavit of Olinda Samuel. I have attached them for ease of reference as Schedule A (“the May invoice”) and as Schedule B (“the June invoice). Some of these costs are excessive according to the applicable Rules. More importantly, Rule 12(2) establishes a cap of $300 daily for services by a witness who is qualified to give evidence as an expert. Those services include both his/her preparation to give evidence and the actual giving of the evidence at the hearing. Rule 12(2), however, leaves discretion with the court regarding the imposition of the daily cap by including the words “unless the Court otherwise directs”. This Court has discretion therefore to award an amount beyond the daily maximum of $300 per day for the services of the expert where it may be warranted.
+[27] The Respondent in its written submissions on costs made no reference at all to Rule 12(2), to the cap contained therein or to any special circumstances that existed in these proceedings that would warrant the use of my discretion to award an amount beyond the daily $300 cap. Consequently, I am unable to maximize the daily amount set out in Rule 12(2) without argument and submissions by the Respondent with respect to the invoice headings: Rabbi Eleff’s report writing, preparation with lawyers and giving evidence at trial. I have taken the hours specified in the two invoices at face value in respect to these heads and applied the daily cap based on eight-hour days. I have also calculated and applied the same exchange rates to the invoice amounts that the Respondent used. The USD/CAD exchange rate applied to the May invoice amounts is 1.35% and to the June invoice amounts it is 1.33%. Schedules C and D attached to my reasons, set out the head of costs, the time spent according to the two invoices, the American dollar amount claimed by Rabbi Eleff, the conversion of the hours to the number of days and the resulting Canadian dollar amount after application of the maximum daily cap of $300 set out in Rule 12(2).
+[28] With respect to the head of costs entitled “travel”, being ten hours in the May invoice and twelve hours in the June invoice, I have not capped these amounts at $300 daily. I do not consider the actual travel time of Rabbi Eleff as “preparation to give evidence” or “giving evidence” referred to in Rule 12(2). “Preparation to give evidence” envisions an activity like report writing. “Giving evidence” means giving testimony. Consequently, these amounts claimed by Rabbi Eleff will be allowed in full as part of the disbursements incurred by the Respondent. These amounts are set out also in Schedules C and D with the relevant exchange rates applied.
+[29] I should also note that, as pointed out by the Appellants, the heading “Prep w/lawyers”, contained in the May invoice is too vague with respect to the actual nature of that preparation. Since the Respondent did not provide details, I have capped the 10.5 hours claimed to the equivalent of one day. This equates to $300 as required pursuant to Rule 12(2). It was incumbent on the Respondent to break down the amount of time spent preparing Rabbi Eleff to testify at the hearing as opposed to the time spent by counsel to prepare the cross-examination of the Appellants’ experts (which would not be recoverable) (General Electric Capital Canada Inc. v Canada, supra, at paragragh 46, citing GlaxoSmithKline Inc. v Pharmascience Inc., 2008 FC 849, at paragraph 6).
+[30] I have reviewed the travel arrangements claimed by Rabbi Eleff and I have determined that they were reasonable. The Appellants argued that it was unreasonable for the Respondent to employ an expert witness from the United States to testify in the proceedings. There may have been many reasons known only to the Respondent for choosing Rabbi Eleff and I am not inclined to second guess the decision of Respondent counsel to look outside Canada for an expert to give the best representation it could on behalf of its client. It was a reasonable decision and these travel costs under the heading “Extras” on both invoices are allowed. They include airfare in economy class, accommodation at a Ramada on Granville Street, taxis and meals. None of the travel arrangements for which invoices were attached to the Affidavit of Olinda Samuel, could be considered lavish expenses.
+(2) Costs Relating to Transcripts and Printing
+[31] Finally, the disbursement costs, claimed for transcripts covering the several hearing dates and the printing and reproduction of various documents relating to the proceedings, are reasonable and were supported by invoices attached to the Affidavit of Olinda Samuel. I am therefore allowing those disbursements which the Respondent incurred in the amount of $2,675.30 for transcripts and $598.70 for the reproduction of documents. In addition, these amounts were not challenged by the Appellants.
+II. Summary
+[32] I have attached as Schedule E a summary of the costs that I am awarding to the Respondent comparing the amounts awarded to those that were claimed. In total, the award for costs in Canadian funds is $22,214.48. This amount is composed of:
+Reference
+Amount Allowed
+Party and Party Costs
+$5,745.00
+(For Services of Counsel)
+Disbursements:
+(Schedule “A”)
+$7,694.57
+(Rabbi Eleff’s May Invoice)
+(Schedule “B”)
+$5,500.91
+(Rabbi Eleff’s June Invoice)
+(Transcript Costs)
+$2,675.30
+(Document Reproduction Costs)
+$598.70
+________
+Total
+$22,214.48
+Signed at Ottawa, Canada, this 30th day of April 2018.
+“Diane Campbell”
+Campbell J.
+SCHEDULE A
+SCHEDULE B
+SCHEDULE C
+Invoice for May 18, 2017
+Head of Costs
+Amount of Time Spent
+Dollar Amount Claimed (in USD)
+Number of days
+Dollar Amount Capped (in CAD)
+Report Writing
+20 hours
+$5,000.00
+2.5
+$900.00
+Prep with lawyers
+10.5 hours
+$2,625.00
+1
+$300.00
+Travel
+10 hours
+$2,500.00
+-
+$3,375.00
+Trial
+8.5 hours
+$2,125.00
+2
+$600.00
+Subtotal
+-
+$12,250.00
+-
+$5,175.00
+Per diem and reimbursements
+-
+$1,866.35
+-
+$2,519.57
+Total
+-
+$14,116.35
+-
+$7,694.57
+USD/CAD Exchange Rate for May = 1.35
+SCHEDULE D
+Invoice for June 20, 2017
+Head of Costs
+Amount of Time Spent
+Dollar Amount Claimed (in USD)
+Number of days
+Dollar Amount Capped
+(in CAD)
+Travel
+12 hours
+$3,000.00
+-
+$3,990.00
+Trial
+7 hours
+$1,750.00
+1
+$300.00
+Subtotal
+-
+$4,750.00
+-
+$4,290.00
+Per diem and reimbursements
+-
+$910.46
+-
+$1,210.91
+Total
+-
+$5,660.46
+-
+$5,500.91
+USD/CAD Exchange Rate for June = 1.33
+SCHEDULE E
+Summary of Costs Allowed
+Reference
+Amount Claimed (in CAD)
+Amount Awarded in CAD
+Party and Party Costs
+$5,745.00
+$5,745.00
+Schedules C and D
+$26,585.48
+$13,195.48
+Transcript Costs
+$2,675.30
+$2,675.30
+Document Reproduction Costs
+$598.70
+$598.70
+Total
+$35,604.48
+$22,214.48
+CITATION:
+2018 TCC 82
+COURT FILE NO.:
+2016-323(IT)I, 2016-324(IT)I and
+2016-326(IT)I
+STYLE OF CAUSE:
+RABBI ADAM LICHTMAN and THE QUEEN
+RABBI LAWRENCE GOLDMAN and THE QUEEN
+RABBI SHLOMO ESTRIN and THE QUEEN
+REASONS FOR ORDER BY:
+The Honourable Justice Diane Campbell
+DATE OF ORDER:
+April 30, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C., Deborah Toaze
+and Eric Brown
+Counsel for the Respondent:
+Elizabeth (Lisa) McDonald
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Edwin G. Kroft, Q.C., Deborah Toaze
+and Eric Brown
+Firm:
+Blake, Cassels & Graydon LLP
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

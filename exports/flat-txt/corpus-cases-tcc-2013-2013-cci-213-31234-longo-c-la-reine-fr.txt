@@ -1,0 +1,189 @@
+Title: Longo c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31234/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-213-31234-longo-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-07-09
+
+# Longo c. La Reine
+
+- Citation: 2013 CCI 213
+- Decision date: 2013-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5139, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Longo c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-07-09
+Référence neutre
+2013 CCI 213
+Numéro de dossier
+2012-1829(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1829(IT)I
+ENTRE :
+DONATO LONGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 juin 2013, à London (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant de l’appelant :
+M. Rudolfo Terracina
+Avocate de l’intimée :
+Me Tamara Watters
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie à l’égard de l’appelant pour les années d’imposition 2007 et 2008 est rejeté.
+Signé à Winnipeg (Manitoba), ce 9e jour de juillet 2013.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 12e jour d’août 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 213
+Date : 20130709
+Dossier : 2012-1829(IT)I
+ENTRE :
+DONATO LONGO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Donato Longo a déduit diverses dépenses d’entreprise dans les déclarations de revenus qu’il a produites pour les années d’imposition 2007 et 2008. M. Longo prétend que ces dépenses se rapportaient à une entreprise de conseil.
+[2] Le ministre du Revenu national a refusé la plupart de ces déductions. L’intimée soutient qu’en réalité, toutes les déductions auraient dû être refusées, mais que des dépenses à hauteur de 1 590 $ ont été acceptées par suite d’une erreur. Elle reconnaît que le montant de la cotisation ne peut être augmenté en appel et que, pour cette raison, elle ne demande pas que ces dépenses soient refusées.
+[3] Pour établir la nouvelle cotisation à l’égard de M. Longo, le ministre a appliqué des pénalités pour faute lourde au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[4] La présente affaire pose essentiellement deux questions. Premièrement, les dépenses refusées devraient-elles être acceptées? En cas de réponse négative, y a-t-il lieu d’appliquer des pénalités pour faute lourde aux dépenses refusées?
+L’entreprise de conseil
+[5] Dans sa déclaration de revenus de 2007, M. Longo a indiqué avoir tiré 2 000 $ en revenu brut de profession libérale et dépensé 17 154 $, ce qui correspond à une perte de 15 154 $ reliée à une entreprise exploitée sous le nom de Donato’s Consulting Services.
+[6] Dans sa déclaration de revenus de 2008, M. Longo a déclaré une perte subie dans le cadre de la même activité, mais cette fois, il a inscrit cette perte dans la catégorie des pertes d’entreprise plutôt que des pertes provenant d’une profession libérale. Il n’a déclaré aucun revenu brut d’entreprise, mais des dépenses de 12 190 $, ce qui donnait une perte de 12 190 $.
+[7] Au procès, M. Longo était représenté par un mandataire du nom de Rudolfo Terracina. Dans son témoignage, M. Longo a déclaré que M. Terracina était le seul client de son entreprise de conseil. M. Terracina exploite une entreprise sous le nom d’Agemo Tax Services. Il n’est pas clair si l’entreprise est ou non constituée en personne morale. M. Longo a fait allusion à la fois à M. Terracina et à Agemo dans son témoignage. Puisque cette question n’a aucune incidence en l’espèce, je ferai référence à cette entreprise comme si M. Terracina en était l’unique propriétaire.
+[8] M. Longo a déclaré que l’objet de son entreprise de conseil consistait à présenter des clients potentiels à M. Terracina et à offrir à ce dernier des services de chauffeur en le conduisant, par exemple, de sa résidence située à l’extérieur de London, en Ontario, jusqu’au lieu de rencontre avec ses clients ou les clients potentiels que M. Longo lui présentait. M. Longo a indiqué qu’il avait connu M. Terracina en 2003 et que, bien qu’il ait tenté, depuis ce temps jusqu’à aujourd’hui, de diriger d’éventuels clients vers lui, ce n’était qu’au cours de 2007 et de 2008 qu’il s’était consacré plus sérieusement à cette activité.
+[9] M. Longo a précisé en témoignage qu’il n’avait [traduction] « pas véritablement » d’entente avec M. Terracina quant à la manière dont il serait payé pour les clients potentiels qu’il lui présentait. Il a déclaré qu’il [traduction] « espérait » que, s’il dirigeait un client engagé dans un litige fiscal vers M. Terracina et si ce dernier obtenait un règlement favorable, M. Terracina lui verserait un pourcentage des gains reçus du client. Toutefois, il a indiqué qu’il ne s’était pas entendu avec M. Terracina sur le pourcentage qu’il devait recevoir tout en ajoutant que, dans les faits, M. Terracina ne lui avait jamais payé quoi que ce soit. Interrogé au sujet des 2 000 $ de revenu brut qu’il avait déclaré avoir tiré de son entreprise de conseil dans sa déclaration de revenus de 2007, M. Longo n’a pas été en mesure de faire concorder l’existence de ce supposé revenu avec le fait qu’il n’avait reçu aucun paiement de la part de M. Terracina. Il ne se souvenait plus de la raison pour laquelle ce revenu figurait dans sa déclaration.
+[10] M. Longo a déclaré qu’il n’exigeait pas de paiement de M. Terracina lorsqu’il le conduisait quelque part, parce qu’il espérait toucher des commissions de la part de ce dernier et apprendre de lui.
+[11] M. Longo a remis à la Cour une liste de 18 particuliers et sociétés qu’il affirme avoir présentés à M. Terracina afin qu’ils deviennent ses clients. La liste a été établie environ deux semaines avant le procès. M. Longo a raconté que M. Terracina et lui s’étaient réunis pour dresser la liste. Ils n’avaient jamais remis une telle liste de clients potentiels au ministre auparavant. Vu la façon dont elle est rédigée, il est clair à mon sens que la liste a été écrite par M. Terracina. En effet, elle renferme non seulement les noms des clients potentiels, mais également des précisions sur ce qui s’est ou non passé avec eux. J’ai prévenu M. Terracina que j’accepterais la liste en preuve, mais que je ne considérerais aucune des déclarations qui y sont faites comme probante, à moins que M. Longo témoigne lui-même à leur sujet. Je fais cette précision, parce que la liste indique que M. Longo a été rémunéré relativement aux deux premiers clients potentiels de la liste. Or, dans son témoignage, M. Longo a clairement indiqué que M. Terracina ne lui avait rien versé. Le deuxième client potentiel de la liste était la compagnie du frère de M. Longo, Longo Custom Kitchens. M. Longo a déclaré que son frère lui avait donné des matériaux de construction en guise de remerciement pour lui avoir présenté M. Terracina; cependant, M. Longo a clairement indiqué qu’il n’avait reçu de M. Terracina aucun paiement pour cette recommandation.
+[12] Le ministre a émis l’hypothèse de fait selon laquelle M. Longo [traduction] « n’exerçait pas d’activité commerciale consistant à fournir des services de conseil ». Le témoignage de M. Longo a été la seule preuve apportée pour tenter de réfuter cette hypothèse. Il n’y avait pas de preuve documentaire contemporaine susceptible d’étayer l’existence de l’entreprise et personne d’autre n’a été appelé à témoigner en faveur de M. Longo.
+[13] Il est vrai que le témoignage oral d’un contribuable peut s’avérer suffisant pour démolir une hypothèse (House c. La Reine, 2011 CAF 234, 2011 DTC 5142), mais je n’ai pas trouvé M. Longo crédible. Il se souvenait assez bien des événements de 2007 et 2008 qui s’étaient déroulés en marge de son entreprise prétendue et répondait franchement aux questions qui s’y rapportaient. Toutefois, confronté à des questions touchant le nœud de son dossier, il faisait souvent de longues pauses, comme s’il cherchait une réponse acceptable, puis disait ne pas arriver à se souvenir. J’ai eu la nette impression non pas que M. Longo avait oublié la réponse, mais qu’il ne souhaitait pas la donner, ou plus vraisemblablement, encore, qu’il n’existait pas de réponse, puisque l’entreprise en cause était fictive. Le fait que M. Longo se soit laissé guider par M. Terracina pendant qu’il témoignait n’a pas non plus aidé à asseoir sa crédibilité. Outre ce qui précède, mon sentiment concernant la crédibilité de M. Longo a été fortement influencé par le fait qu’il avait déduit, dans ses déclarations de revenus, des dépenses pour lesquelles il n’a pu trouver de justification. Ces déductions sont plus amplement décrites un peu plus loin.
+[14] M. Terracina n’a pas témoigné. On peut présumer qu’il aurait été en mesure d’indiquer si M. Longo lui avait bel et bien offert ses services, d’expliquer ses attentes concernant le paiement de ces services et la nature de ses échanges avec les clients figurant dans la liste et de dire si, en définitive, il avait versé quoi que ce soit à M. Longo en guise de paiement pour ses services. Je tire une inférence défavorable du fait que M. Terracina n’a pas témoigné.
+[15] Aux dires de M. Longo, les prétendus clients potentiels de l’entreprise de conseil étaient en fait principalement des amis, des connaissances ou des personnes avec qui il faisait affaire dans le cadre de l’entreprise de pose d’armoires de cuisine qu’il exploitait par l’entremise d’une société à numéro. La moitié de ces clients habitait dans la région de London. On peut présumer qu’au moins un d’entre eux aurait pu témoigner pour dire si M. Longo avait réellement tenté de le convaincre de retenir les services de M. Terracina, s’il avait effectivement fait appel aux services de M. Terracina et s’il avait payé ce dernier pour ces services. Je tire une inférence défavorable du fait que M. Longo a omis de citer l’une quelconque de ces personnes comme témoin.
+[16] L’intimée a appelé à la barre un seul témoin, le vérificateur Tyler Heslop, que j’ai jugé crédible. M. Heslop a indiqué que, lorsqu’il a amorcé la vérification relative à M. Longo, il a fait, selon ses termes, un [traduction] « appel spontané » pour informer ce dernier qu’il faisait l’objet d’une vérification. M. Heslop a déclaré que, lors de cet appel, il a interrogé M. Longo au sujet de son entreprise de conseil et que celui-ci était incapable de se rappeler de quelle entreprise il s’agissait.
+[17] À la lumière de tout ce qui précède, je conclus que M. Longo n’a pas réussi à présenter une preuve propre à démolir, à première vue, l’hypothèse du ministre selon laquelle il [traduction] « n’exerçait pas d’activité commerciale consistant à fournir des services de conseil ».
+Le critère de l’arrêt Stewart
+[18] L’avocate de l’intimée a attiré mon attention sur un arrêt de la Cour suprême du Canada, Stewart c. La Reine, 2002 CSC 46, 2002 DTC 6969, me demandant instamment de conclure que M. Longo ne tirait aucun revenu de sa prétendue entreprise de conseil. À mon sens, il n’est pas utile d’examiner l’arrêt Stewart. Au paragraphe 50 de ses motifs, la Cour suprême énonce le critère à appliquer en ces termes :
+Il est manifeste que, pour que l’art. 9 s’applique, le contribuable doit d’abord déterminer s’il a une source de revenus constituée soit d’une entreprise, soit d’un bien. Comme nous l’avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenus constituée d’un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenus constituées d’un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+[Non souligné dans l’original.]
+[19] L’application du critère énoncé dans Stewart suppose qu’il y ait une « activité ». Or, comme nous l’avons expliqué plus haut, M. Longo n’est pas parvenu à démolir l’hypothèse de l’intimée selon laquelle aucune activité n’était exercée. Par conséquent, il n’y a pas d’activité à laquelle appliquer le critère de Stewart.
+[20] À supposer que je sois dans l’erreur et qu’une activité ait bel et bien été exercée, je conclus qu’il s’agissait d’une activité d’entreprise, car je ne vois guère quelle dimension personnelle aurait pu avoir la prétendue activité.
+Les dépenses
+[21] À supposer que je sois dans l’erreur et qu’en 2007 et en 2008, M. Longo avait bel et bien une entreprise de conseil qui lui procurait une source de revenus, je conclus soit qu’il n’a pas engagé les dépenses qu’il a déduites relativement à cette entreprise, soit qu’il ne les a pas engagées en vue de tirer un revenu de cette entreprise.
+[22] Dans ses déclarations de revenus de 2007 et 2008, M. Longo a demandé les déductions suivantes :
+Dépenses
+2007
+2008
+Publicité
+670 $
+860 $
+Taxe d’affaires, frais, licences, etc.
+314 $
+490 $
+Frais de repas et de divertissement
+580 $
+600 $
+Véhicule à moteur
+7 964 $
+3 660 $
+Frais de bureau
+1 280 $
+720 $
+Frais de déplacement
+290 $
+Fournitures
+280 $
+1 490 $
+Honoraires juridiques, comptables et autres
+1 200 $
+1 200 $
+Téléphone et services publics
+876 $
+480 $
+Autres dépenses – cours
+2 400 $
+Frais de gestion et d’administration
+2 400 $
+Déduction pour amortissement
+1 590 $
+Total
+17 154 $
+12 190 $
+[23] Lors de son témoignage, M. Longo a déclaré que toutes les dépenses qui précèdent se rapportaient intégralement à son entreprise de conseil alléguée.
+[24] Au cours de 2007 et de 2008, M. Longo a travaillé en partie comme camionneur pour une entreprise située à London, en Ontario. Il a clairement indiqué dans son témoignage que les dépenses susmentionnées ne se rapportaient pas à cet emploi.
+[25] En 2006, M. Longo a constitué une société : 1690478 Ontario Limited. Au cours de 2007 et de 2008, cette société offrait des services de pose d’armoires de cuisine. M. Longo a clairement indiqué dans son témoignage que les dépenses susmentionnées ne se rapportaient ni aux dépenses de cette société ni à son travail au sein de la société.
+[26] Je me propose ici de passer en revue chacune des catégories de dépenses :
+a) Publicité : M. Longo a déclaré qu’il n’avait fait aucune publicité pour son entreprise de conseil alléguée, mis à part le fait qu’il avait placé quelques dépliants remis par M. Terracina dans la salle de montre de l’entreprise de confection d’armoires de cuisine de son frère. M. Longo a ajouté qu’il n’avait pas payé M. Terracina pour les dépliants. Il n’a pas été en mesure d’expliquer pourquoi il avait déduit des dépenses de publicité.
+b) Taxe d’affaires, frais, licences, etc. : M. Longo a été incapable de se souvenir de quelque dépense qu’il avait engagée et qui entrerait dans cette catégorie.
+c) Frais de repas et de divertissement : M. Longo a déclaré qu’il invitait à l’occasion des clients potentiels à prendre un café ou à dîner. Il ne pouvait dire s’il avait offert le café ou le dîner à ces personnes ou s’il s’était contenté de payer ce qu’il avait lui-même consommé. Comme il a indiqué que ces personnes étaient toutes des amis, des connaissances ou des relations d’affaires rattachées à son entreprise de pose d’armoires de cuisine, je ne suis pas convaincu que ces repas visaient à tirer un revenu de l’entreprise de conseil.
+d) Véhicule à moteur : La grille de calcul des frais de véhicule à moteur accompagnait la déclaration de revenus produite par M. Longo pour 2007, mais cette page était absente de la copie de la déclaration de 2008 déposée en preuve. Dans la déclaration de 2007, il était indiqué que M. Longo avait utilisé son véhicule à près de 95 p. 100 à des fins d’affaires. M. Longo ne tenait pas de carnet de route. Or, étant donné qu’il a travaillé à temps plein pendant au moins six mois en 2007, qu’il devait se rendre à son travail et en revenir et qu’il utilisait probablement aussi son véhicule à des fins personnelles, il est absolument invraisemblable que son véhicule ait servi à près de 95 p. 100 à des fins d’affaires. Confronté à ce fait en contre‑interrogatoire, M. Longo a laissé entendre qu’une erreur devait s’être glissée dans la déclaration de revenus. Il a toutefois omis de préciser à quoi pouvait correspondre un pourcentage plus réaliste d’utilisation du véhicule à des fins d’affaires. Un document écrit à la main par M. Terracina lors d’une rencontre entre deux vérificateurs de l’ARC et M. Longo a été déposé en preuve. Dans ce document, on pouvait lire qu’en fait, en 2007, M. Longo avait parcouru à des fins d’affaires un nombre de kilomètres de près de 50 p. 100 supérieur à ce qu’il avait réclamé dans sa déclaration de revenus. Si les chiffres indiqués dans la déclaration étaient réellement le fruit d’une simple erreur, pourquoi alors M. Longo aurait-il aggravé cette erreur en exagérant encore davantage la part de l’utilisation de son véhicule pour affaires lors de sa rencontre avec le vérificateur.
+e) Frais de bureau : Aucun élément de preuve ne permettait de penser que M. Longo avait eu un bureau en 2007 ou en 2008. M. Longo a affirmé qu’une partie de son sous-sol avait commencé à servir de bureau à M. Terracina, cependant cela n’a eu lieu qu’à partir de 2009.
+f) Frais de déplacement : Rien dans la preuve n’indiquait que M. Longo avait engagé des frais de déplacement autres que ceux résultant de l’utilisation de son véhicule.
+g) Fournitures : M. Longo a déclaré que, lorsqu’il a commencé à collaborer avec M. Terracina, celui-ci se trouvait en mauvaise posture, de sorte qu’il payait les frais de bureaux de ce dernier, comme le papier et les cartouches d’encre. Cela me semble assez invraisemblable.
+h) Honoraires juridiques, comptables et autres : M. Longo était incapable de dire à qui il avait payé ces frais. Compte tenu de la description qu’il a donnée de son entreprise, je ne vois pas à qui d’autre que M. Terracina il aurait pu payer des honoraires. Si M. Terracina est celui qui a reçu ces honoraires, il aurait certainement pu le confirmer en témoignant ou fournir à M. Longo des copies des factures pertinentes.
+i) Téléphone et services publics : M. Longo a indiqué qu’il faisait chaque mois quelques appels pour affaires au moyen de son cellulaire. Il n’a fourni aucune autre preuve de ses dépenses de téléphone et de services publics. Je ne puis admettre que ces quelques coups de fil mensuels correspondent aux dépenses de 876 $ et 480 $ déduites par M. Longo pour les années d’imposition 2007 et 2008, respectivement.
+j) Autres dépenses (cours): M. Longo a été incapable de dire pour quel cours il avait dépensé 2 400 $ en 2007 relativement à son entreprise de conseil.
+k) Frais de gestion et d’administration : M. Longo a été incapable de dire à qui il avait versé 2 400 $ en frais de gestion et d’administration en 2008. Compte tenu de la nature de son entreprise, je ne peux concevoir les raisons pour lesquelles il aurait eu à assumer de tels frais. Il n’y avait tout simplement rien à gérer ou à administrer.
+l) Déduction pour amortissement : M. Longo n’a produit aucune preuve concernant la déduction pour amortissement réclamée en 2007 et les raisons pour lesquelles il n’avait pas fait cette même réclamation en 2008. La déduction pour amortissement de 1 590 $ correspond au montant que le ministre a autorisé par erreur lors de l’établissement de la nouvelle cotisation à l’égard de M. Longo.
+[27] Aucune pièce justifiant l’une quelconque de ces dépenses n’a été produite en cour. M. Longo a fourni un certain nombre de relevés de cartes de crédit et de reçus aux vérificateurs, mais ceux-ci n’ont pas été déposés en preuve. Bien que le contribuable ne soit pas toujours tenu de produire des reçus, il est, à mon sens, essentiel de le faire dans un cas comme celui‑ci, où le contribuable ne se souvient, au mieux, que de très peu de choses concernant l’objet des prétendues dépenses.
+[28] M. Longo a déclaré que ses déclarations de revenus étaient préparées par M. Terracina. Il remettait un dossier rempli de documents à ce dernier, qui se chargeait de remplir la déclaration à l’aide de ces documents. Si tel est le cas, M. Terracina aurait vraisemblablement pu, par son témoignage, offrir de précieuses explications quant à la façon dont les divers montants figurant dans les déclarations avaient été calculés. Je tire une inférence défavorable du fait que M. Terracina n’a pas été appelé à témoigner sur ce point.
+[29] En conclusion, si l’on suppose que M. Longo avait une entreprise de conseil, je ne suis pas convaincu que la grande majorité des dépenses susmentionnées ont réellement été engagées. Les seules dépenses que j’estime plausibles sont les frais liés au véhicule et les frais de repas et de divertissement. Cela dit, dans la mesure où M. Longo a effectivement engagé ces frais, je ne suis pas convaincu qu’il l’a fait en vue de tirer un revenu et, quoi qu’il en soit, je ne dispose d’aucune preuve fiable pour m’aider à en déterminer le montant.
+Le caractère raisonnable
+[30] À titre d’argument subsidiaire supplémentaire, l’intimée a avancé que, dans l’hypothèse où M. Longo avait engagé les dépenses qu’il avait déduites en vue de tirer un revenu, ces dépenses étaient déraisonnables. À la lumière des conclusions auxquelles je suis arrivé précédemment, il est inutile d’examiner cet argument.
+Les pénalités pour faute lourde
+[31] M. Longo s’est vu imposer des pénalités pour faute lourde au titre du paragraphe 163(2) de la Loi. Le critère servant habituellement à déterminer s’il y a lieu d’appliquer de telles pénalités est énoncé dans Venne v. The Queen, 84 DTC 6247, une décision de la Cour fédérale, Section de première instance. Ce critère a été adopté par la Cour d’appel fédérale, au paragraphe 21 de l’arrêt Findlay v. The Queen, 2000 DTC 6345 :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[32] C’est à l’intimée qu’incombe le fardeau d’établir les faits justifiant l’imposition de pénalités pour faute lourde. Dans le cadre du présent appel, elle peut le faire en prouvant soit que la prétendue entreprise de conseil n’existait pas, soit que les dépenses n’ont pas été engagées en vue de tirer un revenu.
+[33] Puisque l’intimée ne peut s’acquitter du fardeau de preuve en se fondant sur son hypothèse de faits, elle ne peut justifier l’imposition de pénalités pour faute lourde relativement à l’inexistence de l’entreprise de conseil. J’ai conclu précédemment que cette entreprise n’existait pas du fait que M. Longo n’avait pas réussi à démolir l’hypothèse formulée par le ministre à cet égard. Privée de cette hypothèse, toutefois, l’intimée ne dispose pas d’éléments de preuve suffisants de l’inexistence de l’entreprise pour établir le bien-fondé des pénalités pour faute lourde.
+[34] Il en va cependant autrement des dépenses de M. Longo. L’intimée est en mesure de s’acquitter de son fardeau à l’égard de ces dépenses. M. Longo a admis avoir signé ses déclarations de revenus, les avoir examinées au préalable et savoir que, par sa signature, il avait attesté la véracité des renseignements qu’elles renfermaient. M. Longo n’a pu fournir aucune explication crédible tendant à indiquer que les sommes inscrites dans ses déclarations de revenus relativement à sa prétendue entreprise de conseil avaient été dépensées en vue de tirer un revenu. Au mieux, j’ai le sentiment que M. Longo ne se souciait nullement de savoir si les dépenses qu’il avait déduites dans sa déclaration étaient ou non exactes. Mais la conclusion qui me semble la plus probable est que M. Longo a demandé ces déductions tout en sachant que les dépenses étaient fausses.
+[35] À la lumière de tout ce qui précède, l’appel est rejeté.
+Signé à Winnipeg (Manitoba), ce 9e jour de juillet 2013.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 12e jour d’août 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 213
+No DU DOSSIER DE LA COUR : 2012-1829(IT)I
+INTITULÉ : DONATO LONGO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 20 juin 2013
+MOTIFS DU JUGEMENT : L’honorable juge David E. Graham
+DATE DU JUGEMENT : Le 9 juillet 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Rudolfo Terracina
+Avocate de l’intimée :
+Me Tamara Watters
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : William F. Pentney
+sous-procureur général du Canada
+Ottawa, Canada

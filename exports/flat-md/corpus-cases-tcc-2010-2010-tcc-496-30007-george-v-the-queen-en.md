@@ -1,0 +1,144 @@
+---
+title: "George v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30007/index.do"
+last_modified: "2010-10-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 496"
+citation2: ""
+neutral_citation: "2010 TCC 496"
+decision_date: "2010-10-06"
+language: "en"
+item_id: "30007"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7678
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:58:54.056000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a7e7740adcc588b6abe8a3c541c6beeb3e095e3524866a81f042087d74801f0e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# George v. The Queen
+
+- Citation: 2010 TCC 496
+- Decision date: 2010-10-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7678, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+George v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-06
+Neutral citation
+2010 TCC 496
+File numbers
+2010-844(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-844(IT)I
+BETWEEN:
+MICHAEL GEORGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 30, 2010 at Fredericton, New Brunswick
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2007 taxation year is dismissed.
+Signed at Ottawa, Canada this 6th day of October 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 496
+Date: 20101006
+Docket: 2010-844(IT)I
+BETWEEN:
+MICHAEL GEORGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in this appeal is whether the appellant, Michael George, is entitled to a deduction for the cost of child care for his severely disabled son pursuant to subsection 63(1) of the Income Tax Act.
+[2] In the 2007 taxation year, the appellant incurred expenses totalling $19,109 as remuneration for child care. In his income tax return, the appellant claimed $10,000 of this amount as a deduction under subsection 63(1) of the Act, which is the maximum amount allowed under the provision. The balance of the expenditure, $9,109, was claimed as an attendant care expense for purposes of the medical expense tax credit.
+[3] The deduction under section 63 was disallowed by the Minister of National Revenue on the basis that the deduction is only available to the spouse with the lower income.
+[4] The appellant acknowledges that he had the higher income in the relevant year, but he submits that the Minister’s interpretation of the legislation is too restrictive. His reasons were summarized in a well-presented argument as follows:
+7. However, I will show that this argument is
+(i) too simplistic and too narrow an interpretation of the CCED when applied against the complexities of supporting a child with severe and prolonged disabilities, and
+(ii) Not relevant as it relates to a child who requires 24 hrs/day care, and
+(iii) Punitive and unreasonable when the supporting person has no financial means to afford the cost of necessary care for such a child, and
+(iv) Counter to the purpose of the legislative provisions regarding child care expenses which is to provide financial relief for taxpayers while achieving horizontal equity within the tax system.
+[5] Although the circumstances of this case are extremely sympathetic, I am unable to give the relief that the appellant seeks. By virtue of subsection 63(2) of the Act, the deduction under s. 63(1) is not available if the taxpayer has a higher income than his spouse for the relevant taxation year. Certain exceptions are provided, but none of these are applicable here.
+[6] The denial of the deduction to the higher income spouse is provided for by way of a formula which is not easy to read. Nevertheless, it is clear that the formula denies the deduction to the spouse with the higher income: Stone v. The Queen, 2003 FCA 268, 2003 DTC 5493.
+[7] Subsection 63(2) provides:
+63(2) Where the income for a taxation year of a taxpayer who has an eligible child for the year exceeds the income for that year of a supporting person of that child (on the assumption that both incomes are computed without reference to this section and paragraphs 60(v.1) and (w)), the amount that may be deducted by the taxpayer under subsection (1) for the year as or on account of child care expenses shall not exceed the lesser of
+(a) the amount that would, but for this subsection, be deductible by the taxpayer for the year under subsection (1), and
+(b) the amount determined by the formula
+A × C
+where
+A is the total of all amounts each of which is the periodic child care expense amount in respect of an eligible child of the taxpayer for the year, and
+C is the total of
+(i) the number of weeks in the year during which the child care expenses were incurred and throughout which the supporting person was
+(A) a student in attendance at a designated educational institution or a secondary school and enrolled in a program of the institution or school of not less than 3 consecutive weeks duration that provides that each student in the program spend not less than 10 hours per week on courses or work in the program,
+(B) a person certified by a medical doctor to be a person who
+(I) was incapable of caring for children because of the person’s mental or physical infirmity and confinement throughout a period of not less than 2 weeks in the year to bed, to a wheelchair or as a patient in a hospital, an asylum or other similar institution, or
+(II) was in the year, and is likely to be for a long, continuous and indefinite period, incapable of caring for children, because of the person’s mental or physical infirmity,
+(C) a person confined to a prison or similar institution throughout a period of not less than 2 weeks in the year, or
+(D) a person who, because of a breakdown of the person’s marriage or common-law partnership, was living separate and apart from the taxpayer at the end of the year and for a period of at least 90 days that began in the year, and
+(ii) the number of months in the year (other than a month that includes all or part of a week included in the number of weeks referred to in subparagraph (i)), each of which is a month during which the child care expenses were incurred and the supporting person was a student in attendance at a designated educational institution or a secondary school and enrolled in a program of the institution or school that is not less than 3 consecutive weeks duration and that provides that each student in the program spend not less than 12 hours in the month on courses in the program.
+[8] The appellant seeks an interpretation of section 63 which provides greater financial relief to families who care for severely disabled children. That may be a desirable from a policy perspective, but it is not provided for in section 63. In order to grant the relief sought, I would effectively have to ignore the legislative restriction in subsection 63(2). Parliament has decided to restrict the child care deduction to the spouse with the lower income, and it is within Parliament’s prerogative to do so.
+[9] The appeal will be dismissed.
+Signed at Ottawa, Canada this 6th day of October 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 496
+COURT FILE NO.: 2010-844(IT)I
+STYLE OF CAUSE: MICHAEL GEORGE and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: September 30, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: October 6, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

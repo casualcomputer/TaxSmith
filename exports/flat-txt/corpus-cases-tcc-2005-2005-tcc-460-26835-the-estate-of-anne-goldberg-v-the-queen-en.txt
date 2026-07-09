@@ -1,0 +1,94 @@
+Title: The Estate of Anne Goldberg v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26835/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-460-26835-the-estate-of-anne-goldberg-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# The Estate of Anne Goldberg v. The Queen
+
+- Citation: 2005 TCC 460
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 706, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Estate of Anne Goldberg v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 460
+File numbers
+2004-3493(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC460
+Date: 20050906
+Docket: 2004-3493(IT)I
+BETWEEN:
+THE ESTATE OF ANNE GOLDBERG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on May 20, 2005, in Montreal, Quebec.)
+Paris, J.
+[1] This is an appeal from a reassessment dated June 23, 2003 for the Appellant's 2001 taxation year by which the Minister of National Revenue included $5,000 in the Appellant's income.
+[2] In reassessing the Appellant, the Minister assumed that the Appellant had received a death benefit of $5,000 under the Quebec Pension Plan that fell within paragraph 56(1)(a.1) of the Income Tax Act.
+[3] At the hearing, counsel for the Respondent admitted that the amount of the death benefit was $2,500 instead of $5,000 and conceded that the Appellant should be allowed to that extent.
+[4] The Appellant is appealing the reassessment on the basis that the death benefit in question was paid directly to the heirs of the Appellant rather than to the Appellant. The Appellant says that paragraph 56(1)(a.1) of the Act is not applicable and that no amount of the benefit should be included in its income.
+Facts
+[5] There is no dispute between the parties as to the facts of the case.
+[6] The death benefit in question was paid pursuant to section 168 of the Quebec Pension Plan in respect of the death of Ms. Anne Goldberg (also known as Ms. Anne Wise.)
+[7] The deceased's son, Mr. Jerry Wise, was the liquidator of the estate. He made the application for the death benefit under section 169 of the Quebec Pension Plan on behalf of the heirs of the deceased, and the benefit was paid by cheque made payable to "the heirs of Anne Wise."
+Statutory provision in issue
+[8] The relevant portions of paragraph 56(1)(a.1) of the Act read as follows:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a.1) where the taxpayer is an estate that arose on or as a consequence of the death of an individual, each benefit received under section 71 of the Canada Pension Plan, or under a similar provision of a provincial pension plan as defined in section 3 of that Act, [...]
+Position of the Parties
+[9] The Appellant admits that the death benefit in question was of a kind that, had it been received by the Appellant's estate, would have had to have been included in the estate's income pursuant to paragraph 56(1)(a.1) but takes the position that the benefit was not received by the estate but by the heirs directly and therefore, sub-paragraph 56(1)(a.1) is not applicable.
+[10] For its part, the Respondent says that the payment of the death benefit to the heirs of the Appellant amounted to receipt of the benefit by the Appellant's estate and must be included in the estate's income by virtue of paragraph 56(1)(a.1) .
+[11] Counsel for the Respondent was asked to submit written submissions in support of the Respondent's position with reference to the Civil Code of Quebec. According to those submissions, "heir" is a defined term in section 619 of the Civil Code which reads:
+619. A successor to whom an intestate succession devolves or who receives a universal legacy or a legacy by general title by will [...]
+[12] Although the term "estate" or its equivalent in French, "succession", is not defined in the Civil Code, the following description of "succession" appears in Le nouveau droit des successions by Germain Brière (2nd edition, Wilson & Lafleur, 1987, p.1):
+Au sens propre, il [succession] désigne la transmission à une ou plusieurs personnes vivantes des droits et obligations transmissibles d'une personne décédée.
+[...]
+Dans un sens dérivé, le mot succession désigne l'ensemble des biens et dettes qui font l'objet de cette transmission, c'est-à-dire le patrimoine successoral.
+[...]
+Une troisième acception du mot succession s'ajoute parfois aux autres; il arrive en effet que, dans le langage courant, on dise la succession lorsque l'on parle de l'ensemble des personnes qui reçoivent les biens du défunt.
+[13] Counsel for the Respondent further states in her written submissions:
+Further to the above explanations, it appears that except in the case of common usage the terms "heir" and "succession" are not synonymous.
+Analysis
+[14] From these comments, it is clear that in civil law the heirs of an estate and the estate itself are distinct entities, and that the first definition of "succession" referred to above is to be preferred. Therefore, I find that there is no support in law for the Respondent's position that the payment of an amount to the heirs of a person effects a payment to the estate. I agree with the Appellant's representative that the death benefit in question never entered the patrimony of the Appellant, and that the payment belonged at all times to the heirs of Ms. Goldberg rather than to her estate.
+[15] In conclusion, I find that the Appellant did not receive a death benefit as described in paragraph 56(1)(a.1) of the Act, and the appeal is therefore allowed with costs.
+Signed at Vancouver, British Columbia, this 6th day of September 2005.
+"B. Paris"
+Paris, J.
+CITATION: 2005TCC460
+COURT FILE NO.: 2004-3493(IT)I
+STYLE OF CAUSE: THE ESTATE OF ANNE GOLDBERG AND THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: May 20, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: September 6, 2005
+APPEARANCES:
+Agent for the Appellant:
+Jerry Wise
+Counsel for the Respondent:
+Suzanne Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

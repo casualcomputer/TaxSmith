@@ -1,0 +1,337 @@
+---
+title: "Martel v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304444/index.do"
+last_modified: "2017-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 238"
+citation2: ""
+neutral_citation: "2017 TCC 238"
+decision_date: "2017-11-28"
+language: "en"
+item_id: "304444"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7917
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:05:42.209000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "509b1b4da628cd29ddefd81cb35492bc5f09c2854b6039d392577e347a8637c7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martel v. M.N.R.
+
+- Citation: 2017 TCC 238
+- Decision date: 2017-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7917, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martel v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-28
+Neutral citation
+2017 TCC 238
+File numbers
+2016-2417(EI), 2016-2423(EI), 2016-2426(EI)
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2016-2417(EI)
+BETWEEN:
+CHRISTIAN MARTEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ARCI CABINET COMPTABLE INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with appeals by
+Éric Lalancette, 2016-2423(EI) and Danny Dallaire, 2016-2426(EI),
+May 31, 2017, at Chicoutimi, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Valérie Messore
+Representative for the intervener:
+Christian Martel
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (the “EIA”) is allowed and the decision made by the Minister of National Revenue on September 16, 2015 is amended. The appellant did not hold insurable employment according to paragraph 5(2)(i) of the EIA while in the service of the intervener for the period of August 1, 2015 to September 16, 2015, since the appellant and the intervener had a non-arm’s length relationship between them.
+Signed at Ottawa, Canada, this 28th day of November 2017.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2016-2423(EI)
+BETWEEN:
+ÉRIC LALANCETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ARCI CABINET COMPTABLE INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of
+Christian Martel, 2016-2417(EI) and Danny Dallaire, 2016-2426(EI),
+May 31, 2017, at Chicoutimi, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Valérie Messore
+Representative for the intervener:
+Éric Lalancette
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (the “EIA”) is allowed and the decision made by the Minister of National Revenue on September 16, 2015 is amended. The appellant did not hold insurable employment according to paragraph 5(2)(i) of the EIA while in the service of the intervener for the period of August 1, 2015 to September 16, 2015, since the appellant and the intervener had a non-arm’s length relationship between them.
+Signed at Ottawa, Canada, this 28th day of November 2017.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2016-2426(EI)
+BETWEEN:
+DANNY DALLAIRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ARCI CABINET COMPTABLE INC.,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of
+Christian Martel, 2016-2417(EI) and Éric Lalancette, 2016-2423(EI),
+May 31, 2017, at Chicoutimi, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Valérie Messore
+Representative for the intervener:
+Danny Dallaire
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act (the “EIA”) is allowed and the decision made by the Minister of National Revenue on September 16, 2015 is amended. The appellant did not hold insurable employment according to paragraph 5(2)(i) of the EIA while in the service of the intervener for the period of August 1, 2015 to September 16, 2015, since the appellant and the intervener had a non-arm’s length relationship between them.
+Signed at Ottawa, Canada, this 28th day of November 2017.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2017 CCI 238
+Date: 20171128
+Docket: 2016-2417(EI)
+BETWEEN:
+CHRISTIAN MARTEL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ARCI CABINET COMPTABLE INC.,
+Intervener,
+Docket: 2016-2423(EI)
+AND BETWEEN:
+ÉRIC LALANCETTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ARCI CABINET COMPTABLE INC.,
+Intervener,
+Docket: 2016-2426(EI)
+AND BETWEEN:
+DANNY DALLAIRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ARCI CABINET COMPTABLE INC.,
+Intervener.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. FACTS A. Background [1] The appeals of Messrs. Éric Lalancette, Christian Martel and Danny Dallaire (“the appellants”) were heard on common evidence.
+[2] Mr. Lalancette is a tax specialist by training and has a graduate degree in taxation from the Université de Sherbrooke.
+[3] Mr. Martel is a chartered professional accountant and has a graduate degree in financial planning.
+[4] Mr. Dallaire is a chartered professional accountant and an auditor.
+[5] During the period in dispute, which is from August 1, 2015 to September 16, 2015, the appellants worked at ARCI Cabinet Comptable inc. (“ARCI”).
+[6] ARCI provides financial statement preparation services, bookkeeping, tax services, and income tax return preparation.
+[7] During the 1990s, ARCI had only one shareholder, Mr. Bernard Fortin. Around 2012, Mr. Martel purchased a portion of Mr. Fortin’s shares.
+[8] Early in 2005, Mr. Lalancette purchased Mr. Fortin’s shares and Mr. Fortin retired. Thus, in 2015, Mr. Martel held 51% and Mr. Lalancette held 49% of voting shares in ARCI.
+[9] In order to provide more service for the agricultural sector, Mr. Martel and Mr. Lalancette asked Mr. Dallaire, who has several clients in the agricultural sector, to join ARCI as a shareholder and an employee.
+[10] Thus, starting on August 1, 2015, Messrs. Martel, Lalancette and Dallaire each held 33 1/3% of voting shares in ARCI. Each shareholder also held the same number of preferred shares and were entitled to a discretionary dividend.
+[11] However, since each of them held less than 40% of voting shares in ARCI, ARCI asked the Canada Revenue Agency (the “CRA”) to determine whether the appellants were insurable within the meaning of section 5 of the Employment Insurance Act (the “EIA”).[1] If the Minister of National Revenue (the “minister”) decides that each of them has insurable employment, ARCI must make source deductions for each of the appellants, which ARCI did not do during the period in dispute.
+[12] By letter dated September 16, 2015, the minister determined that the jobs held by the appellants in the ARCI corporation were insurable within the meaning of subsection 5(1) of the EIA.
+[13] The period in dispute (August 1, 2015 to September 16, 2015) is short in length. In 2016, Mr. Dallaire left ARCI and sold his shares to two shareholders. However, starting in late September 2016, Mr. Martel and Mr. Lalancette held 50% of voting shares in ARCI, and therefore, they did not have to make source deductions regarding employment insurance under the exclusion in paragraph 5(2)(b) of the EIA. According to that paragraph, a job is not insurable if a person controls more than 40% of voting shares in the corporation for which the person works.
+B. Operation of the ARCI corporation and the shareholders’ conditions of employment [14] In the company, Mr. Lalancette performed tax advice services for his clients in matters of company transactions and transfers. He also prepared and reviewed corporate income tax returns.
+[15] Mr. Martel performed financial statement preparation services and bookkeeping.
+[16] Mr. Dallaire performed the same tasks as Mr. Martel, in addition to conducting audit engagements.
+[17] During the period in dispute, neither the appellants nor ARCI rendered services for another accounting firm.
+[18] With respect to management tasks, Mr. Martel is responsible for bookkeeping, managing employees, and other administrative tasks. Mr. Lalancette takes care of office maintenance, including the computer systems.
+[19] ARCI employs one person full time, a chartered professional accountant, who takes care of bookkeeping at an hourly rate of $22. During tax season, the corporation employs a chartered professional accountant at an hourly rate of $30.
+[20] The appellants indicated that ARCI paid them a salary and according to its ability to pay, dividends could be reported. During the period in dispute, ARCI paid $1,000 per week in salary to the appellants:
+Éric Lalancette: $35,270 in 2015 and $52,000 in 2016
+Christian Martel: $35,270 in 2015 and $52,000 in 2016
+Danny Dallaire: none in 2015 and $16,270 in 2016
+[21] The appellants are aware that their salaries are lower than what they would receive if they worked for an accounting firm in which they were not shareholders.
+[22] During his testimony, Mr. Lalancette indicated that generally, a person with fifteen years of experience in taxation earns around $100,000 per year. Messrs. Martel and Dallaire also indicated that if they worked for an [accounting study], their pay would also be around $100,000 per year.
+[23] The appellants also indicated that they did not count the hours that they worked for ARCI. They can work as much as 85 to 90 hours per week. In addition, regardless of the hours worked, their salaries stay the same.
+[24] The appellants also control their schedules. The corporation does not impose a minimum number of chargeable hours. As for vacations, if an appellant decides to take a vacation, he does not have to ask permission from the other shareholders. They consult each other so that one of them is present at the office. For example, during the period in dispute, Mr. Lalancette took five to six weeks of vacation and Mr. Martel took eight weeks of vacation. The appellants were paid during their vacations.
+[25] The important decisions regarding ARCI were made collectively by the appellants. Decisions of lesser importance were made individually. For example, an appellant may refuse to work or accept a new client. That being said, since ARCI is a small corporation, the appellants often consult each other and decision-making is done informally.
+[26] However, Mr. Lalancette indicated that if the appellants did not all concur, the decision made by the majority would prevail and the dissenter would be bound by that decision. However, there is no agreement between the shareholders in the event of a conflict between them. The power relationship is the same for each shareholder.
+[27] Messrs. Martel and Lalancette secured ARCI’s line of credit with a financial institution, which has also made advances to the corporation in order to finance accounts receivable. To that end, Mr. Martel indicated that he used his personal line of credit to make advances to the corporation.
+[28] At the close of the fiscal year ending 2015, the balance of the “due to shareholders” box was $92,630. It was $334,956 in 2016.
+[29] The appellants benefit from life insurance, for which the premiums are paid by the corporation. However, the appellants pay for their own disability insurance.
+[30] The invoices that are given to clients are in the name of ARCI, the lease is in the corporation’s name, without personal endorsement from the shareholders and the work-related expenses are assumed by ARCI.
+[31] The work tools, such as computers, belong to ARCI. According to Mr. Lalancette, the profession does not require [translation] “a big toolbox”. Mr. Dallaire manages his own clientele using software that is distinct from that of the corporation. He has his own software for invoicing, financial statements, and preparing income tax returns.
+[32] If ARCI incurred losses and could not repay its loans, it would be the appellants who would suffer the losses, since they are the guarantors of the corporation’s borrowings.
+II. POSITIONS OF THE PARTIES [33] The appellants maintain that they are self-employed workers; that is, there is no contract of services between them and ARCI. In addition, they argue that they perform a job that is not insurable under paragraph 5(2)(i) of the EIA, since they have a non-arm’s length relationship with their employer.
+[34] The respondent maintains that the appellants hold insurable employment. In addition, she argues that their jobs are not excluded from insurable employment in accordance with paragraph 5(2)(i) of the EIA, which is jobs for which the employer and employee have a non-arm’s length relationship.
+III. ISSUE [35] The issue is determining whether the appellants held insurable employment within the meaning of paragraph 5(1)(a) of the EIA from August 1, 2015 to September 16, 2015. If the appellants held insurable employment in accordance with paragraph 5(1)(a) of the EIA, were the appellants’ jobs excluded from insurable employment under paragraph 5(1)(i) of the EIA?
+IV. LEGAL ANALYSIS A. Insurable employment in accordance with 5(1)(a) of the EIA [36] Insurable employment within the meaning of the EIA is defined as follows:
+5 (1) Subject to subsection (2), insurable employment is
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[37] Under section 8.1 of the Interpretation Act,[2] we must refer to the principles of Quebec civil law, in this case, the concept of the contract of employment within the meaning of the Civil Code of Québec, to establish whether there was insurable employment within the meaning of the EIA. [3]
+[38] The relevant provisions of the Civil Code of Québec that distinguish between a contract of employment and a contract of service are as follows:
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+2086. A contract of employment is for a fixed term or an indeterminate term.
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099. The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[39] The contract of employment therefore includes three essential elements: the performance of work, remuneration, and a relationship of subordination.
+[40] This last criterion fundamentally distinguishes a contract of employment from a contract of enterprise, in that the first requires the direction or control of the work by the employer.[4]
+[41] A relationship of subordination is established with the help of several indicators, such as the employee’s integration into the business, the expectation of profits and risk of losses, and the ownership of tools.[5] None of these criteria taken alone is determinative in itself.[6]
+[42] In his testimony, Mr. Martel claims that there were no contracts of employment between the corporation and the appellants. However, in law, the parties’ description is only valid if it translates into factual reality, in the execution and behaviour of the parties.[7]
+[43] The appellants also reported their profits to the CRA as employment income.
+[44] In this case, I am of the view that a contract of employment bound each of the appellants to ARCI, since the constituent elements of a contract of employment are present in this case.
+[45] In fact, the appellants performed accounting or taxation work on behalf of ARCI. Their work was remunerated by the corporation. Their salary was fixed and not linked to their productivity or profitability.
+[46] The appellants were also under the control of the ARCI corporation due to their integration, the opportunity for profits and the risk of losses, and the ownership of tools, along with the power to intervene in the corporation.
+[47] The appellants were in fact integrated into their corporation. They performed work exclusively in behalf of the corporation and at its premises. It was also the corporation who issued invoices to the clients of the three appellants.
+[48] The equipment and materials were also supplied by ARCI.
+[49] As for the effective subordination, the important decisions for the corporation were always made consensually and collectively by the appellants. Nevertheless, to evaluate the presence of control, the relevant question is whether the corporation in fact has this power, and not whether this power manifested in the facts:
+The question the trial judge should have asked was whether the company had the power to control the way the workers did their work, not whether the company actually exercised such control. The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.[8]
+[50] According to Tardif J. of our Court, a context of collectivity and consensus does not change this rule in any way:
+In the case at bar, the fact that authority did not seem to be exercisable against the Théorêt brothers and that decisions concerning the company were made by consensus and collegially does not mean that the company was deprived of its authority over the work done by the interveners. The evidence did not show that the company had waived its power to influence their work or that its right to do so was reduced, limited or revoked.[9]
+[51] In this case, ARCI’s board of directors never reduced, limited or revoked its power. It had the power to intervene in the appellants’ performance of their work. For example, it would have certainly been able to dismiss one of the appellants or order a certain operation.
+[52] In addition, Mr. Lalancette acknowledged in his testimony that one of the appellants would have been bound by a majority decision by them.
+[53] Although the appellants received broad autonomy in the performance of their professional tasks, they were not protected from intervention in or control over their work. Case law in this matter is clear, and we cannot find that there was not a relationship of subordination on the sole fact that the workers performed their tasks autonomously and without supervision.
+[54] For all of those reasons, I am of the view that the relationship that existed between the appellants and ARCI was an “employer-employee” relationship in nature, and that therefore, there was a contract of employment between the appellants and ARCI.
+B. Non-arm’s length relationship [55] I must now determine whether the appellants’ jobs were not insurable employment under subparagraph 5(2)(b)(i) and subsection 5(3) of the EIA. The relevant passages in those provisions are:
+(2) Excluded employment - Insurable employment does not include:
+i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) Arm’s length dealing - For the purposes of paragraph (2)(i),
+a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act;
+b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[Emphasis added.]
+[56] Subsection 251(1) of the Income Tax Act (the “ITA”) states what constitutes a non-arm’s length relationship:
+251. (1) Arm’s length -- For the purposes of this Act,
+a) related persons shall be deemed not to deal with each other at arm’s length;
+b) a taxpayer and a personal trust (other than a trust described in any of paragraphs (a) to (e.1) of the definition trust in subsection 108(1)) are deemed not to deal with each other at arm’s length if the taxpayer, or any person not dealing at arm’s length with the taxpayer, would be beneficially interested in the trust if subsection 248(25) were read without reference to subclauses 248(25)(b)(iii)(A)(II) to (IV); and
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm’s length.
+[Emphasis added.]
+[57] In this case, because the appellants are not related to each other, only paragraph 251(1)(c) of the ITA applies. According to that paragraph, persons who are not related to each other may have a non-arm’s length relationship at a given time. It is after an analysis of the facts that a court will determine whether there is a non-arm’s length relationship between unrelated persons.
+[58] I do not concur with the respondent that in this case, the question to determine is whether, according to paragraph 5(3)(b) of the EIA, the minister correctly used her discretion, and that the minister’s decision may only be reversed if I decide that it was not reasonable for the minister to decide, given all of the factual circumstances, that the appellants’ jobs were insurable employment.
+[59] Paragraph 5(3)(b) of the EIA does not apply in this case. That paragraph only applies to persons who are related under the ITA. In this case, the appellants are not related persons under the ITA.
+[60] As a result, I must determine whether the appellants have a non-arm’s length relationship with their employer, ARCI. As I have already mentioned, in accordance with 251(1)(c) of the ITA, this determination is one of fact.
+[61] In her written representations, the respondent mainly relies on the criteria that were elaborated in tax decision in order to deny any sort of non-arm’s length relationship between the appellants and the corporation. The respondent also cited the remarks by Archambault J. in Gestion Yvan Drouin inc.[10] to maintain that an appellant must have control.
+[62] Nevertheless, it is useful to recall that those criteria were specified by Archambault J. as part of litigation dealing with subsection 160(1) of the ITA and not for an employment insurance case. For that purpose, Archambault J. mentioned in that decision that it is useful, if not essential, to consider Parliament’s objective to better grasp the scope of the expression “dealing at arm’s length” in a given provision[11].
+[63] Furthermore, in Thivierge,[12] which was also heard by Archambault J., he did not use the criteria established in cases targeting the ITA in order to determine whether there was a non-arm’s length relationship between unrelated persons in an employment insurance context. Archambault J. used criteria that reflect the object of the EIA,[13] particularly the conditions of employment:
+To illustrate the application of this decision in the context of paragraph 3(2)(c) of the Act, one may imagine the following example. Two employers not related to each other agree that each of them will hire the other’s son under terms and conditions of employment which persons dealing at arm’s length would not adopt. I believe that, in these circumstances, that the employment of those persons would be excepted from insurable employment because of factual non-arm’s length dealing. One may therefore observe from this example that employment may be excepted from insurable employment even if the parties are not related to each other.
+[Emphasis added.]
+[64] In Quigley Electric Ltd.,[14] Hershfield J. adopts the same position as Archambault J., that is, that we cannot apply the principles that were set forth in decisions regarding the ITA. In addition, Hershfield J. is of the view that the same standard of analysis must be used for both related and unrelated persons:
+[31] I suggest then that to rigidly apply income tax principles (such as identifying adverse economic interests) in determining when parties are not, for the purposes of the Act, dealing at arm’s length, is to apply an analysis that runs contrary to common sense. To avoid this problem it seems necessary, for the purposes of the Act, to read into the common law determination of whether parties are dealing at arm’s length, a determination of whether, having regard to all circumstances of employment including duration, nature and importance of work performed, remuneration and other terms and conditions attaching to such employment, the employment is on terms substantially similar terms to those that would be entered into by arm’s length parties. His is the standard of arm’s length dealings taken directly from the Act albeit in the context of related persons. I suggest that the same standard is meant to apply in the context of unrelated persons. The emphasis should be on the employment relationship as a whole, not on the relationship of the parties as a whole.
+[Emphasis added.]
+[65] This standard of analysis was reiterated by the CRA in its publication entitled Not dealing at arm’s length for purposes of the Employment Insurance Act (EIA), dated December 20, 2016, which states the following:
+In situations where the parties are non-related, the same circumstances of employment as those with related persons have to be considered. The analysis of all the circumstances of the employment is necessary to establish if it is reasonable to conclude that the parties would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. If the circumstances are substantially different, the employee and employer would be considered, in fact, not to be dealing with each other at arm’s length, and the employment will not be insurable.
+[Emphasis added.]
+[66] Consequently, in light of those decisions and the CRA publication, I am of the view that in order to determine whether an unrelated employer and employee are not dealing at arm’s length, I must analyze all of the circumstances of employment in order to determine whether the employee and employer will be considered in the facts as having a non-arm’s length relationship. In other words, would the parties have signed a substantially similar contract of employment if they were dealing at arm’s length with each other?
+C. In this case, do the appellants’ conditions of employment reveal a non-arm’s length relationship with the corporation? [67] In his written representations, the respondent argued that in order to determine whether there is a non-arm’s length relationship, I must consider the status of the appellants not only as employees, but also as shareholders. According to the respondent, my analysis must examine comparable conditions of employment, that is: would an employee who is also a shareholder have accepted a job with substantially similar conditions?[15]
+[68] I do not concur with the respondent’s claim. In my view, in order to determine whether there is a non-arm’s length relationship between an employer and an employee, I do not have to analyze whether an employee who is also a shareholder would accept a job with substantially similar conditions. That is not what paragraph 5(2)(b)(i) of the EIA prescribes. That paragraph refers to the relationship between employer and employee, and not to the employee-employer-shareholder relationship.
+[69] In order to determine whether there is a non-arm’s length relationship when the parties are not related, just like for related persons, I must analyze the circumstances of the employment, and if they are substantially different, the employee and employer will be considered in the facts as having a non-arm’s length relationship and the employment will not be insurable.
+[70] In this case, in light of the facts, I am of the view that there was a non-arm’s length relationship between the employer, ARCI, and the appellants. As a result, the appellants did not hold insurable employment.
+[71] What stood out from the evidence was that the appellants received a salary of $52,000 per year. The respondent did not dispute the testimony of the appellants in which that salary was far lower than what the appellants could receive if they worked in an accounting firm. Each of the appellants has worked for more than fifteen years as a professional in the fields of accounting and/or taxation.
+[72] In addition, the corporation did not impose any schedule or minimum of chargeable hours on the appellants. During periods that were less busy, the appellants could choose to work fewer hours per week or take leave without consulting each other. However, during busier periods, the appellants worked from 70 to 85 hours per week and they were not paid for overtime. The salaries of the appellants were fixed, no matter how many hours were worked. In my view, those elements argue in favour of a non-arm’s length relationship between the taxpayer and the corporation.[16]
+[73] The appellants also had a great deal of freedom as to their vacations. They were free to choose the time and number of weeks of vacation without asking for permission beforehand from the other appellants. However, the presence of one of the appellants at the office was required. As was already indicated, during the period in dispute, Mr. Lalancette took five to six weeks of vacation and Mr. Martel took eight weeks of vacation. They were paid during their vacations. Those facts also argue in favour of a non-arm’s length relationship with the corporation.
+[74] Each of the appellants could refuse a new client and also refuse to work for a client. In my view, that fact also argues in favour of a non-arm’s length relationship.
+[75] The important decisions were made by the appellants. However, the minor decisions were made independently by each of the appellants. As an example, Mr. Dallaire worked using software that was different from what the other two appellants used. Generally, an accounting firm, an employer, would not authorize an employee to use software that is different from what the corporation uses.
+[76] In addition, Mr. Martel and Mr. Lalancette were guarantors of the corporation’s line of credit. In an arm’s length employer-employee relationship, the employee is not the guarantor of the employer’s line of credit. In that matter, the CRA states in its 2016 publication with respect to dealing at arm’s length that a non-arm’s length relationship is suggested when:
+The employee signs substantial guarantees that can affect their personal assets or property (and there is not justification)
+V. CONCLUSION [77] I am of the view that, between Messrs. Lalancette, Martel and Dallaire and ARCI, there was a non-arm’s length relationship regarding the period in dispute, from August 1, 2015 to September 16, 2015.
+[78] Consequently, the appeal from each of the three appellants is allowed.
+Signed at Ottawa, Canada, this 28th day of November 2017.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2017 TCC 238
+COURT FILE No.:
+2016-2417(EI)
+2016-2423(EI)
+2016-2426(EI)
+STYLE OF CAUSE:
+CHRISTIAN MARTEL v MNR and ARCI CABINET COMPTABLE INC.
+ÉRIC LALANCETTE v MNR and ARCI CABINET COMPTABLE INC.
+DANNY DALLAIRE v MNR and ARCI CABINET COMPTABLE INC.
+PLACE OF HEARING:
+Chicoutimi, Quebec
+DATE OF HEARING:
+May 31, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+November 28, 2017
+APPEARANCES:
+Counsel for the appellants:
+The appellants themselves
+Counsel for the respondent:
+Valérie Messore
+Representatives for the intervener:
+Christian Martel, Éric Lalancette and Danny Dallaire
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+[BLANK / EN BLANC]
+Firm:
+[BLANK / EN BLANC]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996, c. 23.
+[2] R.S.C. (1985), c. I-21.
+[3] Grimard v Canada, 2009 FCA 47, at paragraph 26; 9041-6868 Québec inc. v Canada, 2005 FCA 334.
+[4] Grimard v Canada, supra, at paragraphs 30 and 37.
+[5] Ibid, at paragraphs 38 to 43.
+[6] Ibid, at paragraph 42.
+[7] Ibid, at paragraph 33.
+[8] Groupe Desmarais Pinsonneault & Avard inc. v Canada (Minister of National Revenue - MRN), 2002 FCA 144, at paragraph 5.
+[9] Roxboro Excavation inc. v Canada, [1999] TCJ no 32, at paragraph 31.
+[10] Gestion Yvan Drouin inc v Canada, [2000] TCJ no 872.
+[11] Ibid, at paragraph 63.
+[12] Thivierge v Canada, [1994] TCJ no 876, at paragraph 47.
+[13] The underlying object of the disposition that excludes persons who are not dealing at arm’s length from the concept of insurable employment seems to be to thwart any abuse of the program, whether through fictitious jobs or working conditions that are substantially different than those offered by an employer that has a de facto arm’s length relationship with the employee.
+[14] Quigley Electric Ltd. v Canada, [2002] TCJ no 674, at paragraph 31.
+[15] F. Ménard inc. v Canada, [2009] TCJ no 208, at paragraph 53.
+[16] Bélanger v Minister of National Revenue, 2005 TCC 36, at paragraphs 62 to 64; Crawford and Co. v Canada, [1999] TCJ no 850, at paragraph 47; Garneau v Minister of National Revenue, 2006 TCC 160, at paragraphs 123 to 137; McMillan v Canada, [1996] TCJ no 1384, at paragraph 24; V. Y. F. Express inc. v Minister of National Revenue, 2015 TCC 139, at paragraphs 54 to 58.

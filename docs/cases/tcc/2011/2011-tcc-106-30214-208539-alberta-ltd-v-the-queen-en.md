@@ -1,0 +1,154 @@
+---
+title: "208539 Alberta Ltd v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30214/index.do"
+last_modified: "2011-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 106"
+citation2: ""
+neutral_citation: "2011 TCC 106"
+decision_date: "2011-02-17"
+language: "en"
+item_id: "30214"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7768
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:51:10.063000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "054b64cfea53dbd548a6c8d1d2eb2428f3809f9ad8436f6652d6daf7c94878c9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 208539 Alberta Ltd v. The Queen
+
+- Citation: 2011 TCC 106
+- Decision date: 2011-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7768, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+208539 Alberta Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-17
+Neutral citation
+2011 TCC 106
+File numbers
+2010-1500(GST)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1500(GST)I
+BETWEEN:
+208539 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2010, at Calgary, Alberta
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Agent for the Appellant:
+Robert Madlener
+Counsel for the Respondent:
+Scott England
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated August 18, 2008, for the period from July 1, 2007 to September 30, 2007 is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to claim an input tax credit in its reporting period ending on September 30, 2007 of $17,039.93 in respect of GST paid on imported goods.
+Signed at Ottawa, Canada, this 17th day of February 2011.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2011 TCC 106
+Date: 20110217
+Docket: 2010-1500(GST)I
+BETWEEN:
+208539 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The Appellant has appealed a notice of assessment dated August 18, 2008 in respect of its GST reporting period from July 1, 2007 to September 30, 2007.
+[2] Mr. Robert Madlener testified on behalf of the Appellant. At all material times, Mr. Madlener owned 100% of the shares of the Appellant and was the controlling mind of the Appellant.
+[3] During the late 1990's, the Appellant imported door reinforcement products in the course of its commercial activities. In 1999, Canada Customs[1] disagreed with the value for duty declared by the Appellant for the imported goods. As a result, Canada Customs physically seized certain goods of the Appellant and made a demand for payment under section 124 of the Customs Act, R.S.C. 1985, c. 1 (2nd Supp.), s. 1 (the “Customs Act”) in respect of goods previously imported by the Appellant.
+[4] The issue in this appeal relates to the nature of the amounts collected by Canada Customs under section 124 of the Customs Act. The collection of amounts under section 124 is referred to as an ascertained forfeiture.
+[5] The dispute between the Appellant and Canada Customs continued for a significant period of time. The agent for the Appellant attempted to explain the nature of the dispute, but it was clear from his testimony that he did not fully understand the procedures used by Canada Customs when it made the ascertained forfeiture. However, he did provide numerous documents and letters issued by Canada Customs.
+[6] It is not clear from the evidence before me when Canada Customs first indicated that they intended to make an ascertained forfeiture. The Appellant did not provide the Court with all of its communications with Canada Customs and the Respondent chose not to provide any evidence with respect to the actions of Canada Customs.
+[7] The Appellant provided the Court with a letter issued on February 19, 2003 by an appeals officer of Canada Customs (the "First Canada Customs letter"). The letter indicates that the ascertained forfeiture was made on or before February 19, 2003. The First Canada Customs letter states that Canada Customs has made a Notice of Ascertained Forfeiture and a demand for payment of $96,462.77 "representing $32,150.93 of duties unpaid and an additional amount of $64,311.84 representing a penalty of two times the revenue evaded." (Exhibit A1, page 17).
+[8] The Appellant appealed the ascertained forfeiture noted in the First Canada Customs Letter. In a letter dated July 31, 2007 (the "Second Canada Customs Letter”), an official of Canada Customs Adjudication Division states that the ascertained forfeiture will stand, however the demand for payment was reduced to $96,124.78. (Exhibit A1, page 1).
+[9] The Appellant also provided the Court with a schedule, apparently prepared by Canada Customs, which shows that the $96,124.78 was comprised of $15,001.66 of duty short paid and $17,039.93 of GST short paid. (Exhibit A2).
+[10] Mr. Madlener paid the $96,124.78 to the Receiver General on September 4, 2007.
+[11] When calculating its net tax for its GST reporting period from July 1, 2007 to September 30, 2007, the Appellant claimed an input tax credit of $54,607.28 in respect of the amount paid to Canada Customs on September 4, 2007. The Minister of National Revenue (the “Minister”) disallowed the $54,607.28.
+[12] Subsection 169(1) of Part IX of the Excise Tax Act, R.S.C. 1970, c. E-13, s. 1 (the “GST Act”) allows a registrant to claim input tax credits for tax paid on goods imported into Canada. The input tax credit can be claimed to the extent the goods are imported for consumption, use or supply in the course of the registrant’s GST commercial activity.
+[13] The Minister denied the input tax credit on the assumption that the Appellant did not pay any tax on the imported goods since the $96,124.78 collected by Canada Customs was an amount forfeited to Her Majesty pursuant to sections 109.1, 109.3 and 124 of the Customs Act. It is the Respondent’s position that Canada Customs did not receive any amount as duty, excise tax or GST. The Respondent did not provide any jurisprudence to support its position.
+[14] The ascertained forfeiture in the current appeal was made under subsection 124(1) of the Customs Act, which provides as follows:
+124. (1) Where an officer believes on reasonable grounds that a person has contravened any of the provisions of this Act or the regulations in respect of any goods or conveyance, the officer may, if the goods or conveyance is not found or if the seizure thereof would be impractical, serve a written notice on that person demanding payment of
+(a) an amount of money determined under subsection (2) or (3), as the case may be; or
+(b) such lesser amount as the Minister may direct.
+(2) For the purpose of paragraph (1)(a), an officer may demand payment in respect of goods of an amount of money of a value equal to the aggregate of the value for duty of the goods and the amount of duties levied thereon, if any, calculated at the rates applicable thereto
+(a) at the time the notice is served, if the goods have not been accounted for under subsection 32(1), (2) or (5) or if duties or additional duties have become due on the goods under paragraph 32.2(2)(b) in circumstances to which subsection 32.2(6) applies; or
+(b) at the time the goods were accounted for under subsection 32(1), (2) or (5), in any other case.
+[15] The Respondent’s argument was predicated on the assumption that the $94,124.78 collected by Canada Customs was comprised solely of a penalty equal to three times the duties and GST payable on the importation.
+[16] The Appellant argued that the $94,124.78 was comprised of duty, GST and a penalty. In support of its position, the Appellant produced the First Canada Customs letter, which states that amount of the ascertained forfeiture was comprised of unpaid “duties” and a penalty equal to two times the unpaid “duties.” Exhibit A2 evidences that the unpaid “duties” referred to in the First Canada Customs letter was comprised of duty short paid of $15,001.66, and GST short paid of 17,039.93.
+[17] The only evidence before me with respect to the nature of the amount received by Canada Customs was the First Customs Letter, the Second Customs Letter and Exhibit A2. The Respondent did not file any evidence with respect to the nature of the amount received by Canada Customs.
+[18] I accept that, in certain instances, the amount received by Canada Customs under the ascertained forfeiture provisions of the Customs Act may be comprised solely of penalties (see for example the Federal Court of Appeal’s decision in Amway of Canada, Ltd. v. Canada, [1996] 2 C.T.C. 162, with respect to an ascertained forfeiture made pursuant to former subsection 192(1) of the Customs Act). However, the only evidence before me with respect to the nature of the amount received by Canada Customs in the current appeal evidences that $17,039.93 of the amount received was received as GST.
+[19] For the foregoing reasons, I find that $17,039.93 of the $96,124.78 paid to Canada Customs on September 4, 2007, was collected by Canada Customs as GST.
+[20] However, this is not the end of the matter; the Respondent raised two additional issues.
+[21] The Respondent argued that even if GST was collected by Canada Customs the Appellant was still not entitled to claim any input tax credits in respect of the importations since the $96,124.78 was not paid by the Appellant, but rather was paid by Mr. Madlener personally.
+[22] Section 212 of Division III of the GST Act levies the GST (the “Division III tax”) on every person who is liable under the Customs Act to pay duty on imported goods, or who would be so liable if the goods were subject to duty. Section 214 of the GST Act provides that the Division III tax on imported goods is paid and collected under the Customs Act.
+[23] While Mr. Madlener may have been the person who reported the imported goods to Canada Customs, the evidence before me was that he reported the goods, and paid the $96,124.78 to Canada Customs, as agent for the Appellant. As a result, it was the Appellant who imported the goods under the Customs Act and paid the $17,039.93 of Division III tax.
+[24] The final issue raised by the Respondent was that the Appellant has not provided the Canada Revenue Agency (the “CRA”) with the documentation required by subsection 169(4) of the GST Act.
+[25] Paragraph 169(4)(a) of the GST Act provides that
+A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed…
+[26] The prescribed information is contained in the Input Tax Credit Information (GST/HST) Regulations[2], to the GST Act. It is clear from the wording of the regulations that the regulations are only intended to apply to tax paid by a recipient to a supplier under Division II of the GST Act. The regulations do not apply to tax collected by Canada Customs under Division III of the GST Act.
+[27] The Appellant satisfied the paragraph 169(4)(a) documentary requirements once it provided the CRA with sufficient information to enable the amount of the input tax credit to be determined. As I noted previously, the First Customs Letter, the Second Customs Letter and Exhibit A2 together evidence the amount of Division III tax that Canada Customs collected from the Appellant ($17,039.93) and the fact that the Division III tax was paid by the Appellant in respect of the imported goods.
+[28] I have not considered whether the limitation periods contained in section 225 of the GST Act applied to prevent the Appellant from claiming, in its reporting period ending on September 30, 2007, an input tax credit for the $17,039.93 of Division III tax. The Respondent did not raise this issue in its pleadings or during the hearing.
+[29] For the foregoing reasons, the appeal is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to claim an input tax credit in its reporting period ending on September 30, 2007 of $17,039.93 in respect of GST paid on imported goods.
+Signed at Ottawa, Canada, this 17th day of February 2011.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2011 TCC 106
+COURT FILE NO.: 2010-1500(GST)I
+STYLE OF CAUSE: 208539 ALBERTA LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: October 20, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: February 17, 2011
+APPEARANCES:
+Agent for the Appellant:
+Robert Madlener
+Counsel for the Respondent:
+Scott England
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Canada Customs refers to the Canada Border Services Agency and its predecessors, Revenue Canada, and the Canada Customs and Revenue Agency
+[2] S.O.R./2000-180, s. 1

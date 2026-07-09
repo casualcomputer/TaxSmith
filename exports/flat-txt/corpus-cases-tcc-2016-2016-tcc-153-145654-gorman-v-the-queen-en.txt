@@ -1,0 +1,303 @@
+Title: Gorman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145654/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-153-145654-gorman-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-06-22
+
+# Gorman v. The Queen
+
+- Citation: 2016 TCC 153
+- Decision date: 2016-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2911, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gorman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-06-22
+Neutral citation
+2016 TCC 153
+File numbers
+2011-257(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-257(IT)G
+BETWEEN:
+Barbara G. Gorman,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 14 and 15, 2015, at London, Ontario.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 22nd day of June 2016.
+“Sylvain Ouimet”
+Ouimet J.
+Citation: 2016 TCC 153
+Date: 20160622
+Docket: 2011-257(IT)G
+BETWEEN:
+Barbara G. Gorman,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Ouimet J.
+I. introduction [1] This is an appeal by Barbara Gorman (the “Appellant”) in respect of her 2000 taxation year. The Minister of National Revenue (the “Minister”) reassessed the Appellant to include in her income the amount of $52,880.00 pursuant to subsections 146(1), 146(8), 146(9), and 146(10) of the Income Tax Act (the “ITA”). In reassessing the Appellant for the 2000 taxation year, the Minister determined that she was liable to a penalty under subsection 163(2) of the ITA for not reporting the amount of $52,880.00 in her return for that year.
+[2] The amount of $52,880.00 represents the amount used by the Appellant’s self-directed RRSP trust to purchase shares of 629900 Saskatchewan Ltd. (“629900”) in the 2000 taxation year.
+II. ISSUES [3] The issues in this appeal are as follows:
+1. Whether the Minister rightfully included $52,880.00 in the Appellant’s income for her 2000 taxation year;
+2. Whether the Appellant is liable to a penalty under subsection 163(2) of the ITA;
+3. Whether the Appellant is entitled to claim a capital loss under sections 38 and 39 of the ITA.
+III. THE PERTINENT LEGISLATIVE PROVISIONS [4] The key applicable provisions of the ITA are:
+38. (b) a taxpayer’s allowable capital loss for a taxation year from the disposition of any property is ¾ of the taxpayer’s capital loss for the year from the disposition of that property; and
+. . .
+39(1)(b) a taxpayer’s capital loss for a taxation year from the disposition of any property is the taxpayer’s loss for the year determined under this subdivision (to the extent of the amount thereof that would not, if section 3 were read in the manner described in paragraph (a) of this subsection and without reference to the expression “or the taxpayer’s allowable business investment loss for the year” in paragraph 3(d), be deductible in computing the taxpayer’s income for the year or any other taxation year) from the disposition of any property of the taxpayer other than
+(i) depreciable property, or
+(ii) property described in any of subparagraphs (a)(i), (ii) to (iii) and (v); and
+. . .
+40(1)(b) a taxpayer’s loss for a taxation year from the disposition of any property is,
+(i) if the property was disposed of in the year, the amount, if any, by which the total of the adjusted cost base to the taxpayer of the property immediately before the disposition and any outlays and expenses to the extent that they were made or incurred by the taxpayer for the purpose of making the disposition, exceeds the taxpayer’s proceeds of disposition of the property, and
+(ii) in any other case, nil.
+. . .
+146(1) Definitions — In this section,
+“benefit” includes any amount received out of or under a retirement savings plan other than
+(a) the portion thereof received by a person other than the annuitant that can reasonably be regarded as part of the amount included in computing the income of an annuitant by virtue of subsections 146(8.8) and 146(8.9),
+(b) an amount received by the person with whom the annuitant has the contract or arrangement described in the definition “retirement savings plan” in this subsection as a premium under the plan,
+(c) an amount, or part thereof, received in respect of the income of the trust under the plan for a taxation year for which the trust was not exempt from tax by virtue of paragraph 146(4)(c), and
+(c.1) a tax-paid amount described in paragraph (b) of the definition “tax-paid amount” in this subsection that relates to interest or another amount included in computing income otherwise than because of this section
+and without restricting the generality of the foregoing includes any amount paid to an annuitant under the plan
+(d) in accordance with the terms of the plan,
+(e) resulting from an amendment to or modification of the plan, or
+(f) resulting from the termination of the plan;
+. . .
+“qualified investment” for a trust governed by a registered retirement savings plan means
+(a) an investment that would be described by any of paragraphs (a), (b), (d) and (f) to (h) of the definition “qualified investment” in section 204 if the references in that definition to a trust were read as references to the trust governed by the registered retirement savings plan,
+. . .
+(d) such other investments as may be prescribed by regulations of the Governor in Council made on the recommendation of the Minister of Finance;
+. . .
+146(8) Benefits taxable — There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer’s income.
+. . .
+146(9) Where disposition of property by trust — Where in a taxation year a trust governed by a registered retirement savings plan
+(a) disposes of property for a consideration less than the fair market value of the property at the time of the disposition, or for no consideration, or
+(b) acquires property for a consideration greater than the fair market value of the property at the time of the acquisition,
+the difference between the fair market value and the consideration, if any, shall be included in computing the income for the taxation year of the annuitant under the plan.
+146(10) Where acquisition of non-qualified investment by trust — Where at any time in a taxation year a trust governed by a registered retirement saving plan
+(a) acquires a non-qualified investment, or
+(b) uses or permits to be used any property of the trust as security for a loan,
+the fair market value of
+(c) the non-qualified investment at the time it was acquired by the trust, or
+(d) the property used as security at the time it commenced to be so used,
+as the case may be, shall be included in computing the income for the year of the taxpayer who is the annuitant under the plan at that time.
+. . .
+146(12) Change in plan after registration — Where, on any day after a retirement savings plan has been accepted by the Minister for registration for the purposes of this Act, the plan is revised or amended or a new plan is substituted for it, and the plan as revised or amended or the new plan, as the case may be (in this subsection referred to as the “amended plan”), does not comply with the requirements of this section for its acceptance by the Minister for registration for the purposes of this Act, subject to subsection 146(13.1), the following rules apply:
+. . .
+(b) the taxpayer who was the annuitant under the plan before it became an amended plan shall, in computing the taxpayer’s income for the taxation year that includes that day, include as income received at that time an amount equal to the fair market value of all the property of the plan immediately before that time.
+. . .
+163(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of . . .
+. . .
+163(3) Burden of proof in respect of penalties — Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+. . .
+204 Definitions — In this Part,
+“qualified investment” for a trust governed by a deferred profit sharing plan or revoked plan means,
+(a) money that is legal tender in Canada, other than money the fair market value of which exceeds its stated value as legal tender, and deposits (within the meaning assigned by the Canada Deposit Insurance Corporation Act or with a branch in Canada of a bank) of such money standing to the credit of the trust,
+. . .
+(d) share listed on a prescribed stock exchange in Canada,
+. . .
+(f) guaranteed investment certificates issued by a trust company incorporated under the laws of Canada or of a province,
+(g) investment contracts described in subparagraph (b)(ii) of the definition “retirement savings plan” in subsection 146(1) and issued by a corporation approved by the Governor in Council for the purposes of that subparagraph.
+[5] The key applicable provisions of the Income Tax Regulations (“Regulations”) are:
+4900(6) For the purposes of subparagraphs 146(1)(g)(iv) and 146.3(1)(d)(iii) of the Act, except as provided in subsections (8) and (9), a property is a qualified investment for a trust governed by a registered retirement savings plan . . . at any time if at that time the property is
+(a) a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1)) . . .
+(b) an interest of a limited partner in a small business investment limited partnership; or
+(c) an interest in a small business investment trust.
+5100(1) In this Part,
+“eligible corporation”, at any time, means
+(a) a particular corporation that is a taxable Canadian corporation all or substantially all of the property of which is at that time
+(i) used in a qualifying active business carried on by the particular corporation or by a corporation controlled by it,
+(ii) shares of the capital stock of one or more eligible corporations that are related to the particular corporation, or debt obligations issued by those eligible corporations, or
+(iii) any combination of the properties described in subparagraphs (i) and (ii).
+“qualifying active business”, at any time, means any business carried on primarily in Canada by a corporation, but does not include
+(a) a business (other than a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rent and royalties), or
+(b) a business of deriving gains from the disposition of property (other than property in the inventory of the business),
+and, for the purposes of this definition, a business carried on primarily in Canada by a corporation, at any time, includes a business carried on by the corporation if, at that time,
+(c) at least 50 per cent of the full time employees of the corporation and all corporations related thereto employed in respect of the business are employed in Canada, or
+(d) at least 50 per cent of the salaries and wages paid to employees of the corporation and all corporations related thereto employed in respect of the business are reasonably attributable to services rendered in Canada.
+IV. WITNESSEs AT TRIAL [6] The Appellant testified at trial. The Respondent did not present any witnesses.
+V. THE RELEVANT FACTS [7] The Appellant obtained a degree in chemistry from the University of Western Ontario in 1979 and a certificate in public health from the University of Toronto around 1983. She ran a business with her husband from 1995 to approximately 2004 and was in charge of purchasing, stocking, cleaning, bookkeeping, and taxes for the business. She is experienced in bookkeeping, having purchased a bookkeeping program and a Quicken program in 1995 for use in the business. She taught herself how to use both. The Appellant also rendered bookkeeping services to third parties during that time. Later, in 2000, she worked for Primerica selling Registered Education Savings Plans under which people could invest money for their children and receive tax deductions in much the same way as with an RRSP. In the same year, the Appellant took an insurance licensing course with Primerica, at which she learned about life and term insurance, different ways to invest through such insurance, the tax consequences, and income tax reporting. The Appellant has been investing in her RRSP since the 1980s.
+[8] In 1999, the Appellant wanted to get a better return in her RRSP. In November 1999, she attended in a London, Ontario hotel a one-day seminar on how to obtain better returns in her RRSP. The seminar presenter, Doug Henderson, talked about making RRSP investments in humanitarian projects and directed her to Trevor Chilton, 629900’s president, and gave her Mr. Chilton’s phone number. The Appellant called Mr. Chilton and they had a short conversation, after which she decided to invest with him.
+[9] In November or December of 1999, the Appellant drove to Toronto to meet Mr. Chilton. They met in a hotel lobby and had a discussion, during which she signed documents to effect her investment. The documents originally signed involved an Alberta limited company, but it was later changed to 629900.
+[10] It is not clear from the evidence when this actually happened, but the Appellant discussed the investment with Trevor Chilton and Rick Cahill, 629900’s vice-president and its director in charge of international funds. During the discussion or discussions, the Appellant was told that she could expect a 50% to 100% return on her investment within one to two years. Mr. Chilton did not tell the Appellant the nature of the investment and its location other than to say that it involved, in part, projects outside Canada and, in part, traders. The Appellant did not ask Mr. Chilton and Mr. Cahill any questions about how they could achieve 50% to 100% returns, and she did not have any knowledge of their respective qualifications and work experience.
+[11] Mr. Chilton and Mr. Cahill did not give the Appellant any further information or relevant financial documents regarding her investment. The Appellant did not receive any business plan, prospectus or information with respect to the nature of the investment, including information on where the funds would be invested. It is not clear from the evidence when, but she later heard that some investments were in humanitarian projects.
+[12] Sometime after meeting Mr. Chilton and Mr. Cahill, the Appellant met with Gary Price. Mr. Price was the Appellant’s financial advisor at that time and he had been managing the Appellant’s RRSP since the 1980s. The Appellant needed Mr. Price in order to transfer the funds from her RRSP because he was the one managing it. The Appellant informed Mr. Price of the investment she was going to make with Mr. Chilton. Mr. Price told her that he was nervous about the investment and that she should not undertake it. While the Appellant testified that she was aware that there was a foreign content limit for RRSP investments, she did not ask Mr. Price whether the investment would qualify for RRSP purposes, nor did she ask him for advice on that subject. The Appellant did not obtain any other advice from any independent third party regarding the investment.
+[13] On November 23, 1999, the Appellant opened a self-directed RRSP trust account with Canadian Western Trust (“CWT”) because Mr. Chilton had told her to do so in order for her to make the investment. Mr. Chilton had also told her that she needed to open this type of account, transfer money into it from her RRSP and then direct the RRSP to invest in 629900.
+[14] On the application form that the Appellant signed in order to open the account at CWT, she acknowledged that it was her responsibility to determine the eligibility of each investment under the provisions of the applicable tax legislation and that she was aware of the adverse tax consequences of including in the account investments which did not qualify for an RRSP under such tax legislation.
+[15] Between November 23, 1999 and December 6, 1999, the Appellant sold part of her personal RRSP holdings, consisting of an investment in AGF Funds Inc., for an amount of $52,880.00. On December 6, 1999, the Appellant authorized the transfer of $52,880.00 from her RRSP to her self-directed RRSP trust at CWT.
+[16] On December 24, 1999, the Appellant signed a letter addressed to Mr. Chilton to which was attached a document entitled Freedom Foundations Inc. (“FFI”) Humanitarian Project Funding Agreement that she also signed. In the agreement, the Appellant acknowledged that she had been advised by FFI to consult and retain her own experts and representatives to advise her concerning the legal and tax effects of any transaction made. Under this agreement, the Appellant agreed to place an amount of $52,880.00 in the care of FFI for the purpose of deriving profits from humanitarian projects. The investment did not bear interest; the funds remained at all times in FFI's bank account, under its full control, and subject to its signing authority. The profits were to be deposited into FFI's offshore account at the end of each 15 to 45-day cycle and would be distributed every 30 days from the date of entry into the agreement and within 10 days of their being received in FFI's account. Profits from the investment would be distributed to the Appellant and not to her RRSP trust.
+[17] On January 21, 2000, the Appellant signed a letter of indemnity for CWT directing CWT to invest an amount of $52,880 in 5,288 shares of 629900. In this letter, she also confirmed and certified that this investment was a “qualified investment” as defined in the ITA and acknowledged that it was her responsibility to evaluate the investment and that she had sought and obtained independent financial, investment, legal, and tax advice to the extent she deemed necessary.
+[18] The Appellant also indicated in the letter of indemnity that attached thereto was a letter from 629900’s officers/accountants/solicitors or other qualified professional advisor declaring the investment in 629900 to be a “qualified investment” and stating that the current fair market value of a share of 629900 was $10.00. In cross‑examination, the Appellant admitted that no such letter was attached to the letter of indemnity and that she had not seen such a letter before signing the letter of indemnity. The Appellant said that she believed the value of a share to be $10.00 although she did nothing to determine the fair market value of the shares. On the basis of that belief, she later instructed her RRSP trust to purchase the shares of 629900 at $10.00 a share. It is unclear from the evidence given by the Appellant when and from whom the Appellant got a copy of the letter from Blaine Cisna of Cisna Accounting dated May 27, 2000, indicating that, in his opinion, the fair market value of the shares was $10.00 per share and that 629900 was an eligible corporation under the ITA. What is clear from the testimony of the Appellant is that Mr. Cisna was not retained by her and that she did not have any contact with him.
+[19] On February 9, 2000, the Appellant’s RRSP trust at CWT purchased the 5,288 shares of 629900 for an amount of $52,880.00.
+[20] Between February 9, 2000 and April 10, 2002, when the Appellant signed her 2000 income tax return, she received e-mails from Mr. Chilton. In one e‑mail, dated February 7, 2000, matters such as mortgage fraud, credit card fraud, fictitious loan fraud and a project enabling people to purchase $1,000 worth of gold for $1 were mentioned. On February 23, 2000, Mr. Chilton noted in another e-mail that the retrieval of investment funds was moving along slowly because a third party named Louis Grenier was stalling. In an e-mail dated January 2, 2001, Mr. Chilton stated that Mr. Cahill’s phone lines were under surveillance, that he could not speak to anyone without jeopardizing security and confidentiality, and that they were looking at quarterly distributions of the profits starting in March 2001. In this e-mail, Mr. Chilton also described a number of investment projects (“IP”) outside Canada, these being the following:
+Project # 1
+As much as I would like to forget about this one, none the less we have to deal with what lies on the table today. Dec. 13th Donald and myself met with Sam & Larry to go over the various projects and issues at hand with them. First of all they are looking after the retrieval of the funds placed with Louis Grenier and Steve McKim out of California. Some of the participants in this ill fated venture have talked to Louis only to get more fairy tales, post ponements and ridiculous excuses. The simple fact is that these fools lost all control over these funds and are just feeding back to us the garbage that is fed them. Through our efforts in the U.K. the great news is that they have traced the path of these funds and found them and much more. This effort has been advanced particularly since September when the U.K. really went to work on our file.
+These less than scrupulous individuals that made the contract with these two fools have indeed succerred others as well. The approach now is to issue a friendly advisory to those at the top so that they will want to return the funds prior to an official investigation being launched against them. I am sure that they are well aware that they do not really want an official investigation as that would most likely lead to someone seeing jail time over their less than scrupulous business activities. This has hardly been a pleasant experience but highly educational as to what happens when you release control of funds to those that you do not know. Unfortunately this has been a costly learning experience for all concern however it is the only way to learn the rules of the game. In the long run our education will be highly rewarding once we get over this bump in the road. This is how we have come to know what the red flags are and this is what I now introduce people to at our seminars. These lessons certainly govern how and with who concerning some house cleaning matters with the participants in this venture early in the new year, I shall advise you of a date. I do believe we will be successful in this retrieval in the new year and can put this one behind us forever.
+Project # 2
+March 4th, 2000 $249,000 usd
+Placed in a custodial account under our signature in Europe. These are currently earning interest at a very high bank rate as compared to here. This is not a banking program but a business venture involving the high tech area of diamond cutting using lazers. This is a very long term play that would pay us off for many years once the business is developed. That is what they have been doing this year setting up the company that is going to do this and getting the contracts for distribution particularly in the orient and the supplies or the raw product in South Africa and Russia. Like most businesses this is much more time consuming than a simple bank instrument trading program. I believe many do not have the entire concept down here and what reasonable expectations will ensue. We are assured by our partners that it will indeed be very lucrative after all why are DeBeers in the business. This is not a short term hit but a very long term pay back that will have us smiling for years. The beginning of the dividends should not be to far way now.
+Project # 3
+April 4th & 10th, 2000 $280,000 usd
+June 20th, 2000 $275,000 usd
+Place into funding the establishment of a Humanitarian housing project in Mexico of absolutely huge proportions. This is also a very long term project in that we could well be involved with our partners in this area for easily 5-10 years. The minimum position was for us to double our money but many other opportunities abound in this area that would cause us to well exceed that. We expected the first trading of instruments to start this fall but with the election in Mexico and the first change of political parties in over 60 years has indeed slowed the progress with the Mexican officials. All is back on track, their cabinet was sworn in Dec. 1st. Sam and Larry just got back from working down there on the project in early December. 2001 will definitely see this first stage of projects getting off the ground with many to follow.
+Project # 4
+August 1st, 2000 $200,000 usd
+September 1st, 2000 $252,000 usd
+Both placed into an ongoing program that pays out 50% & 40% respectively a month while trading. This was due to pay out at the end of November but has been rescheduled to pay out in three portion in each of Jan., Feb., and March. This slow down was caused by a cease trading order issued as a result of an ill founded investigation that has since been settled.
+Project # 5
+December 6th, 2000 $425,000 usd
+Placed into a Letter of Credit program that is also up and running on an ongoing basis. Bank to Bank arrangement guarantee with banks in Costa Rica and Bahamas. This will provide a long term, at least 5 years steady income stream on at least a quarterly basis. Through the leveraging of these LOC’s we will be able to magnify this no risk investment into at least 50% per year.
+Project # 6
+December 29h, 2000 $1,048,000 usd
+Placed into a very short term (less than 1 month) US Treasury Bill trading program. Profits as yet are not determined other than exceptional. The contract will be provided to us early in the new year. We maintain full signature control of our funds at all times and can back out at any times. Absolutely zero risk on the instruments plus we are dealing with established contacts that are well know to us. [1]
+[21] On February 12, 2001, the Appellant e-mailed Mr. Cahill over concerns she had with the investment. Mr. Cahill responded to the e-mail and stated that, among other things, Mr. Chilton had taken in excess of US$2million and had been removed as president and a director of FFI and 629900 by the other directors.
+[22] On March 8, 2001, Donald Neuls, a director of 629900, sent an e-mail to the Appellant stating that Mr. Chilton could not participate in the diamond industry investment because of his criminal record and present fraudulent dealings, that 100% profits were expected from the Mexican investment, and that they had achieved very good results in Mexico and hoped to see, within the month, profits at much more than the expected doubling. Two private placement programs were to yield respectively 50% and 40% per month net returns, which would be paid around March 15, 2001 and March 22, 2001.
+[23] On July 4, 2001, the Appellant received another e-mail from Mr. Neuls in which he spoke of a letter from Mr. Chilton containing misrepresentations. Mr. Neuls wrote that the shares in 629900 held in trust at CWT needed to be returned and that establishing a price would be a problem because Mr. Chilton had refused to turn over the records. Mr. Neuls asked the shareholders for their cooperation in producing proof of the funds transferred to CWT for shares in 629900.
+[24] On April 10, 2002, the Appellant signed her 2000 income tax return and in doing so certified that the information given was correct, complete and fully disclosed all of her income.
+[25] On December 31, 2002, 629900 was struck from the corporate registry on the basis that it was inactive. [2]
+VI. ANALYSIS A. Did the Minister rightfully include in the Appellant’s income for the 2000 taxation year the amount of $52,880.00? [26] In answering this question, I will conduct an analysis to determine whether the shares of 629900 acquired by the Appellant’s self-directed RRSP trust are a “qualified investment” in an “eligible corporation” pursuant to subsections 146(1) and (10) of the ITA and subsections 4900(6) and 5100(1) of the Regulations.
+[27] If necessary, I will determine whether the 629900 shares acquired by the Appellant’s self-direct RRSP trust were acquired for a consideration greater than their fair market value pursuant to subsection 146(9) of the ITA and whether the Appellant received out of or under an RRSP a benefit in the amount of $52,880.00 pursuant to subsection 146(8) of the ITA.
+(1) Were the shares of 629900 acquired by the Appellant’s RRSP a qualified investment in an eligible corporation under the ITA and the Regulations? [28] A qualified investment for a trust governed by an RRSP includes investments prescribed by regulation.[3] According to the applicable regulation, a property is a qualified investment for a trust governed by an RRSP if at the relevant time the property is a share of the capital stock of an eligible corporation within the meaning assigned by subsection 5100(1) of the Regulations, unless the annuitant under the plan is a designated shareholder of the corporation.[4]
+[29] An eligible corporation is defined by regulation as being a taxable Canadian corporation of which all or substantially all of the property is used at the relevant time in a qualifying active business carried on by the particular corporation or by a corporation controlled by it.[5]
+[30] “Qualifying active business” means any business carried on primarily in Canada by a corporation.[6]
+[31] On the basis of these definitions, the 629900 shares acquired by the Appellant’s self-directed RRSP trust will be a qualified investment under the ITA if, at the time of the acquisition of the shares, 629900 was a taxable Canadian corporation that used all or substantially all of its property in an active business carried on primarily in Canada.
+[32] In Harquail v The Queen, [7] the Federal Court of Appeal (“FCA”) provided guidance on the meaning to be given to the term “active business”. The Court held:
+It is not easy to delimit the content of the concept of carrying on business. One can see two outside parameters where the carrying on of business does not occur: on the one hand, when a company, which has been incorporated, has not actually commenced operation and, on the other hand, when a company has become dormant and is only holding annual meetings and filing its returns so as to avoid the forfeiture of its charter. There are, in between, some activities, however, which are signs that a company is operating and which should fall within the spectrum of the concept of carrying on business, even though, for example, the activities are carried on for the purpose of reaching an agreement which eventually is not reached or even though they do not result in the earning of income.[8]
+[33] In order to determine whether 629900 was carrying on an active business in Canada at the time its shares were purchased by the Appellant’s RRSP trust, I have to answer the three following questions:
+1. What was the business carried on by 629900?
+2. Did 629900 carry on that business in Canada?
+3. Did 629900 carry on that business actively?
+[34] According to the assumptions of fact made by the Minister, at the time the Appellant’s self-directed RRSP trust purchased the shares of 629900, the corporation had not filed any income tax returns, had not produced a prospectus for the distribution of shares, and had not provided a business plan, a budget, or any financial statements to support the share transactions. Furthermore, the Minister assumed that 629900 held no property, had no employees and no bank accounts, and conducted no business activity.
+[35] In making assessments and reassessments, the Minister proceeds on the basis of assumptions. The initial onus is on the taxpayer to "demolish" the Minister's exact assumptions and nothing more. This initial onus of "demolishing" the Minister's exact assumptions is met when an appellant makes out a prima facie case.[9]
+[36] In Amiante Spec Inc v Canada,[10] the FCA defined what constitutes a prima facie case as follows:
+A prima facie case is one "supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence" (Stewart v. Canada, [2000] T.C.J. No. 53, paragraph 23).[11]
+[37] The Appellant failed to adduce evidence to demolish any of the assumptions of fact mentioned in paragraph 34 above. I was not presented with any evidence that would allow me to determine the business in which 629900 was involved. No evidence was presented to me that demonstrated that 629900 was an operating company or that it conducted any activities other than selling its shares. The simple fact that shares of the corporation were being sold does not prove that the corporation was operating and was an active business.
+[38] Since the Appellant has failed to meet the onus of demolishing the assumptions of fact made by the Minister, I must accept those assumptions. I must accept that 629900 had not filed any income tax returns, had not produced a prospectus for the distribution of shares, and had not provided a business plan, a budget or any financial statements to support the share transactions, and that it held no property, had no employees and no bank accounts, and most importantly, did not conduct any business activity.
+[39] On the evidence before me, I conclude that 629900 was not an active business; it was not carrying on a business. Therefore, 629900 was not a qualifying active business within the meaning of the Regulations and thus the purchase of its shares by the Appellant’s self-direct RRSP trust was a non‑qualified investment. Given that conclusion, the application of subsection 146(10) is automatically triggered and the fair market value (“FMV”) of the shares at the time of their acquisition must be included in the Appellant’s income.[12]
+(2) Were 629900’s shares acquired by the Appellant’s self-directed RRSP trust for a consideration greater than their fair market value? [40] In Nash v Canada,[13] the FCA endorsed the following definition of FMV:
+[8] . . .
+The statute does not define the expression "fair market value", but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+[41] The Minister assumed that the value of a share was $1.00. The Appellant had to submit prima facie evidence to demonstrate the fair market value of the shares. The Appellant did not adduce evidence to demolish this assumption of the Minister and did not establish the FMV of the shares. The only evidence adduced by the Appellant on that point was her testimony that she believed that the value of a share was $10.00 even though she did not do anything to determine the fair market value of the shares. On the basis of that belief, she instructed her RRSP trust to purchase the shares of 629900 at $10.00 a share.
+[42] In my opinion, this transaction does not constitute evidence of the FMV of a share of 629900. For a transaction to be evidence of the FMV of a share according to the definition endorsed by the FCA in Nash, it must represent the highest price that a share might reasonably have been expected to sell for if it had been sold, using the normal method applicable to shares, in the ordinary course of business in an open and unrestricted market in which an informed buyer and an informed seller were dealing at arm's length, were not exposed to any undue stresses, and were not under any compulsion to buy or sell.
+[43] I was not presented with such evidence. The transaction entered into by the Appellant does not meet the criteria of the definition in Nash. Therefore, I cannot consider the price paid for a share of 629900 by the Appellant’s self‑directed trust as evidence of the FMV of the shares. The Appellant failed to provide evidence to demolish the assumption of fact made by the Minister. I must accordingly accept the Minister’s assumption of fact and conclude that the fair market value of a share of 629900 was $1.00 as assumed by the Minister. Having come to that conclusion, I must also conclude, pursuant to subsection 146(9) of the ITA, that the shares of 629900 were acquired by the Appellant’s self-directed RRSP trust for a consideration greater than their fair market value.
+[44] Having determined that the shares of 629900 acquired by the Appellant’s self-directed RRSP trust are not a “qualified investment” in an “eligible corporation” and that these shares were acquired for a consideration greater than their fair market value, it is not necessary for me to determine whether the Appellant received out of or under an RRSP a benefit, pursuant to subsection 146(8) of the ITA, to dispose of this appeal.
+(3) Conclusion [45] The amount of $5,288.00, representing the FMV of the 5,288 shares of 629900 purchased by the Appellant’s RRSP trust in the 2000 taxation year must be included in the Appellant’s income pursuant to subsection 146(10) of the ITA. Pursuant to subsection 146(9) of the ITA, the difference between the consideration given to acquire the shares ($52,880.00) and the FMV of the shares ($5,288.00) must also be included in the Appellant’s income for that year. Therefore, an additional amount of $47,592 should be included in the Appellant’s income.
+B. Is the Appellant liable to penalties under subsection 163(2) of the ITA? [46] Under subsection 163(2) of the ITA, where a taxpayer knowingly, or under circumstances amounting to gross negligence, has made or participated in, assented to or acquiesced in the making of, a false statement or omission in an income tax return filed in respect of a taxation year, he or she is liable to a penalty.
+[47] In Laplante v The Queen,[14] this Court summarized as follows the interpretation given by the courts to the words gross negligence:
+[11] The concept of "gross negligence" accepted in the case law is that defined by Mr. Justice Strayer in Venne v. Canada (Minister of National Revenue – MNR) . . .
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[12] In Da Costa v. Canada . . . the Honourable Chief Justice Bowman . . . made the following remarks:
+[9] . . . The question in every case is . . .
+(a) was the taxpayer negligent in making a misstatement or omission in the return? and
+(b) was the negligence so great as to justify the use of the somewhat pejorative epithet ‘gross’?
+. . .
+11 In drawing the line between ordinary negligence or neglect and gross negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer’s education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+. . .
+[13] Further, in Villeneuve v. Canada . . . the Federal Court of Appeal made it clear that gross negligence could include wilful blindness in addition to an intentional act and wrongful intent.[15]
+[48] Gross negligence includes the situation where a taxpayer is wilfully blind to relevant facts, where the taxpayer becomes aware of the need for some inquiry but declines to make the inquiry because the taxpayer does not want to know the truth.[16]
+[49] The concept of wilful blindness was discussed at length by this Court in Torres v The Queen,[17] a decision in which the following summary of the principles that emerge from the jurisprudence dealing with this concept is to be found at paragraph 65:
+[65] . . .
+a) Knowledge of a false statement can be imputed by wilful blindness.
+b) The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act . . .
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how readily detectable it is;
+iii) the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.[18]
+[50] The Appellant clearly acted with indifference as to whether the law was complied with or not. Her negligence was such, in my opinion, that it can be qualified as gross negligence. In the circumstances surrounding this case, there were sufficient warning signs to cause the Appellant to make, prior to filing her return for the 2000 taxation year, further inquiries regarding the nature of the investment her self‑directed RRSP trust was making in 629900 and regarding the tax impact of that investment. In my opinion, the Appellant intentionally kept herself unaware of the facts by not making such inquiries because she did not want to know the truth about her investment in 629900.
+[51] I can summarize these circumstances as follows:
+1. The Appellant was told that she could expect a 50% to 100% return on her investment within one to two years. The Appellant did not ask Mr. Chilton and Mr. Cahill how they could achieve such returns.
+2. The Appellant was not given any information or any relevant financial documents concerning 629900 or its future investments.
+3. The Appellant placed complete trust in Mr. Henderson, Mr. Chilton and Mr. Cahill after only a few meetings. The Appellant did not know anything about Mr. Henderson, Mr. Chilton and Mr. Cahill, including their qualifications or experience, before deciding to trust them with her money and her investments.
+4. The Appellant’s financial advisor, Mr. Price, told her that the investment made him nervous and he suggested that she not go through with it.
+5. The Appellant knew that there was a foreign content limit in RRSPs and she was aware that there were as many as six foreign projects in the investment.
+6. Between February 9, 2000 and April 10, 2002, the Appellant received a number of e-mails whose contents, she admitted, caused her concern: Among them were the e-mails from Mr. Chilton. The e-mails from Mr. Cahill and Mr. Neuls on February 12, 2001 and March 8, 2001, respectively, confirmed that there were serious problems with the investment and the people who were promoting it.
+7. The Appellant had other RRSP funds and received yearly statements for those funds, but did not receive the same type of statements for this investment.
+8. When the Appellant opened her self-directed RRSP trust account with CWT, she acknowledged on the application form that it was her responsibility to determine the eligibility of each investment for her plan under the provisions of the applicable tax legislation, and she attested that she was aware of the adverse tax consequences of including investments which did not qualify under such legislation.
+9. In the letter of indemnity to CWT that she signed, she confirmed and certified that this investment was a “qualified investment” as that term is defined in the ITA, acknowledged that she had sought and obtained independent financial, investment, legal and tax advice to the extent she deemed necessary, and further acknowledged that it was her responsibility to evaluate the investment.
+10. In the Freedom Foundations Inc. Humanitarian Project Funding Agreement, she acknowledged that she had been advised and was now being advised to consult and retain her own experts and representatives to advise her on the legal and tax effects of any transaction entered into.
+[52] Despite all these circumstances and red flags, the Appellant did not ask Mr. Price or anybody else for formal advice on this investment and its tax consequences prior to filing her income tax return for the 2000 taxation year.
+[53] I conclude that the Appellant knowingly, or under circumstances amounting to gross negligence, made a false statement or an omission in her 2000 tax return when she failed to include in her income the amount of $52,880.00 used by her self-directed RRSP trust to purchase the shares of 629900. The circumstances of this case were such that the Appellant was aware of the need for some inquiry. Yet despite her knowledge of investments and her prior work experience, she chose to make none.
+[54] For all these reasons, I find that the Appellant is liable to a penalty under subsection 163(2) of the ITA.
+C. Is the Appellant entitled to claim a capital loss in her 2000 taxation year? [55] In her oral submissions, the Appellant raised an issue that was not raised in her Notice of Appeal. The Appellant suggested that she might be entitled to claim a capital loss for the 2000 taxation year. Given the fact that the Appellant was not represented by counsel, I consented to hear her submissions on that issue. Both the Appellant and the Respondent were given the opportunity to provide written submissions on the issue.
+[56] Pursuant to paragraph 38(b) and subsections 39(1)(b) and 40 (1)(b), in order for a taxpayer to claim a capital loss in a taxation year, there must first be a disposition of property. In the present case, and in light of the evidence before me, the Appellant’s self-directed RRSP trust did not dispose of its 629900 shares or of any other property in the 2000 taxation year. As there was no disposition of property, a capital loss is not allowable.
+VII. conclusion [57] For all these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 22nd day of June 2016.
+“Sylvain Ouimet”
+Ouimet J.
+CITATION:
+2016 TCC 153
+COURT FILE NO.:
+2011-257(IT)G
+STYLE OF CAUSE:
+Barbara G. Gorman v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+September 14 and 15, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+June 22, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ron D.F. Wilhelm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1, Tab 26.
+[2] See Admitted Facts, numbers 17 and 23.
+[3] ITA, subsection 146(1).
+[4] Regulations subsection 4900(6).
+[5] Ibid, subsection 5100(1).
+[6] Ibid.
+[7] Harquail v The Queen, 2001 FCA 320.
+[8] Ibid at paragraph 62.
+[9] Hickman Motors Ltd v Canada, [1997] 2 SCR 336 at paragraphs 92-93.
+[10] Amiante Spec Inc v Canada, [2009] FCJ No 603 (QL).
+[11] Ibid at paragraph 23.
+[12] Nunn v The Queen, 2006 FCA 403 at paragraph 22.
+[13] Nash v Canada, 2005 FCA 386.
+[14] Laplante v The Queen, 2008 TCC 335.
+[15] Ibid at paragraphs 11-13.
+[16] Torres v. The Queen, 2015 FCA 60 at paragraph 4.
+[17] Torres v The Queen, 2013 TCC 380, affirmed 2015 FCA 60.
+[18] Ibid at paragraph 65.

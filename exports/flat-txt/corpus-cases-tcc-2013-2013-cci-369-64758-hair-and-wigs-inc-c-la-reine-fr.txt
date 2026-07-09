@@ -1,0 +1,142 @@
+Title: Hair And Wigs Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64758/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-369-64758-hair-and-wigs-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-11-21
+
+# Hair And Wigs Inc. c. La Reine
+
+- Citation: 2013 CCI 369
+- Decision date: 2013-11-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5890, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hair And Wigs Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-21
+Référence neutre
+2013 CCI 369
+Numéro de dossier
+2012-931(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-931(GST)I
+ENTRE :
+HAIR AND WIGS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 3 octobre 2013, à Toronto (Ontario).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentante de l’appelante :
+Mme Carmelle Farley
+Avocat de l’intimée :
+Me Christian Cheong
+JUGEMENT
+L’appel relatif à la nouvelle cotisation datée du 23 septembre 2009 qui a été établie en vertu de la partie IX de la Loi sur la taxe d’accise à l’égard des périodes de déclaration commençant le 1er janvier 2006 et prenant fin le 31 décembre 2007 est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 8e jour de janvier 2014.
+S. Tasset
+Référence : 2013 CCI 369
+Date : 20131121
+Dossier : 2012-931(GST)I
+ENTRE :
+HAIR AND WIGS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Hair and Wigs Inc. interjette appel d’une nouvelle cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15, avec modificatifs (la « LTA »), à l’égard des périodes de déclaration commençant le 1er janvier 2006 et prenant fin le 31 décembre 2007 (les « périodes de déclaration »).
+[2] Par une nouvelle cotisation établie à l’endroit de l’appelante à l’égard des périodes de déclaration, et dont l’avis correspondant est daté du 23 septembre 2009, le ministre du Revenu national (le « ministre ») a refusé des crédits de taxe sur les intrants (« CTI ») pour cause d’absence de pièces justifiant les montants déclarés; ces derniers sont les suivants :
+Période
+CTI demandés
+CTI refusés
+CTI révisés
+2006-03-31
+15 578 $
+13 728 $
+1 850 $
+2006-06-30
+22 463 $
+19 795 $
+2 668 $
+2006-09-30
+23 657 $
+20 847 $
+2 810 $
+2006-12-31
+20 627 $
+18 177 $
+2 450 $
+2007-03-31
+12 683 $
+11 362 $
+1 321 $
+2007-06-30
+25 433 $
+22 784 $
+2 649 $
+2007-09-30
+22 436 $
+20 099 $
+2 337 $
+2007-12-31
+23 102 $
+20 696 $
+2 406 $
+[3] Le ministre a également imposé des pénalités pour faute lourde de 36 873 $ en vertu de l’article 285 de la LTA pour les périodes de déclaration, des pénalités pour versement tardif de 2 889,71 $ en vertu de l’ancien article 280 de la LTA pour les périodes de déclaration, des pénalités de 21,30 $ en vertu de l’article 280.1 de la LTA pour défaut de produire les déclarations de taxe sur les produits et services (« TPS ») pour les périodes prenant fin le 30 juin, le 30 septembre et le 31 décembre 2007, de pair avec des arriérés d’intérêts de 32 925,36 $ et des intérêts de 770,78 $ pour les périodes de déclaration.
+[4] À l’audition de l’appel, Mme Farley, seule actionnaire et exploitante de l’entreprise, a confirmé que l’appelante était une société exploitant un magasin au détail se spécialisant dans la vente de cheveux humains et de perruques et que l’appelante était, pendant toute la période en cause, une entreprise inscrite au titre de la partie IX de la LTA qui produisait sa déclaration de TPS aux trois mois.
+[5] Mme Farley a expliqué que les années 2006 à 2009 avaient été fort difficiles pour elle : sa sœur s’était suicidée, son père était décédé, elle avait été l’objet de quatre poursuites bancaires, elle avait perdu le bâtiment dans lequel elle exploitait son entreprise, et ses livres et ses registres avaient disparu à l’époque où son ancien comptable les lui avait renvoyés. Les états financiers de l’appelante pour les années 2006 et 2007 ont été reconstitués en mai 2009. Des sommaires de la TPS et des calculs des CTI ont été transmis à l’Agence du revenu du Canada (« ARC ») le 29 mai 2009. L’appelante n’a ensuite demandé que des CTI de 11 506 $ pour 2006 et de 12 094 $ pour 2007, comparativement aux montants de 82 325 $ et de 83 654 $ qu’elle avait initialement demandés en 2006 et en 2007.
+[6] Mme Farley a reconnu avoir été négligente en 2006 et en 2007 dans la façon dont elle s’était occupée des déclarations de TPS de l’appelante, mais elle a soutenu que cela était dû à des circonstances indépendantes de sa volonté.
+Analyse
+[7] L’appelante a le fardeau d’établir qu’elle a droit à des CTI. Il lui faut donc établir qu’elle a payé la TPS relativement aux dépenses de son entreprise et qu’elle dispose de pièces justificatives avant de produire ses déclarations de TPS, comme l’exige le paragraphe 169(4) de la LTA. La preuve présentée dans le cadre du présent appel est tout à fait insatisfaisante et ne permet pas à l'appelante de s'acquitter de ce fardeau à ces deux égards.
+[8] Les états financiers reconstitués de l’appelante ont confirmé en fait que celle-ci avait demandé un montant excessif de CTI pour les années 2006 et 2007.
+[9] Aucun témoin indépendant n’a été appelé à la barre pour corroborer les déclarations de Mme Farley selon lesquelles les documents justifiant les demandes de CTI avaient été perdus, soit dans une inondation, soit lorsque son ancien comptable les avait renvoyés. À tout le moins, il aurait fallu que la personne ayant établi les déclarations de TPS vienne témoigner.
+[10] Je ne suis donc pas convaincu que les dépenses indiquées ont été supportées ou que l’appelante détient les documents prescrits qu’exige le paragraphe 169(4) de la LTA.
+[11] Quant à la pénalité prévue à l’article 285 de la LTA, il m’apparaît clairement que l’appelante, sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé dans ses déclarations de TPS concernant les périodes de déclaration, ou qu’elle y a participé, consenti ou acquiescé. L’appelante, de manière systématique et sans justification aucune, avait demandé des CTI qui étaient trop élevés pour les périodes de déclaration, et ces montants excédentaires étaient importants. L’appelante exploite ses activités depuis l’année 2000 et a été l’objet à trois reprises d’une vérification de la TPS entre les années 2000 et 2006. Mme Farley était au courant du processus et elle savait ou aurait dû savoir que les demandes de CTI de l’appelante étaient erronées et excessives.
+[12] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 21e jour de novembre 2013.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 8e jour de janvier 2014.
+S. Dasset
+RÉFÉRENCE : 2013 CCI 369
+No DU DOSSIER DE LA COUR : 2012-931(GST)I
+INTITULÉ : Hair And Wigs Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 3 octobre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 21 novembre 2013
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Carmelle Farley
+Avocat de l’intimée :
+Me Christian Cheong
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

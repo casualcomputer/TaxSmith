@@ -1,0 +1,185 @@
+---
+title: "McIntosh c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30251/index.do"
+last_modified: "2011-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 147"
+citation2: ""
+neutral_citation: "2011 CCI 147"
+decision_date: "2011-03-08"
+language: "fr"
+item_id: "30251"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8020
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:02:17.158000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6a6ab8304913bffa2e396847de5134a402b174fc481a1355323e6b20682aecee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McIntosh c. La Reine
+
+- Citation: 2011 CCI 147
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8020, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntosh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-08
+Référence neutre
+2011 CCI 147
+Numéro de dossier
+2008-3962(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3962(IT)G
+ENTRE :
+REESE McINTOSH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 9 juin 2010 à Calgary (Alberta).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocate de l’intimée :
+Me Connie L. Mah
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’avocate de l’intimée en vue d’obtenir le rejet de l’appel au motif que la Cour canadienne de l’impôt n’a pas compétence pour connaître de l’appel selon l’alinéa 58(3)a) des Règles de la Cour canadienne de l’impôt;
+Conformément aux motifs de l’ordonnance ci‑joints,
+LA COUR ordonne :
+1. La requête est accueillie et l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 de l’appelant est rejeté avec dépens.
+2. En ce qui concerne la requête abandonnée par l’appelant, les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 8e jour de mars 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 12e jour de mai 2011.
+François Brunet, réviseur
+Référence : 2011 CCI 147
+Date : 110308
+Dossier : 2008-3962(IT)G
+ENTRE :
+REESE McINTOSH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge D’Arcy
+[1] Le 17 mars 2010, l’intimée a déposé une requête en rejet de l’appel, en application de l’alinéa 58(3)a) des Règles de la Cour canadienne de l’impôt (procédure générale) (la « requête de l’intimée »). L’intimée soutient que la question portée en appel ne relève pas de la compétence de la Cour. L’audition de la requête avait d’abord été fixée au 25 mars 2010. Toutefois, à la demande de l’avocat de l’appelant, la Cour a ajourné l’audition de la requête de l’intimée au 9 juin 2010.
+[2] Le 2 juin 2010, l’appelant a présenté à la cour une requête (la « requête de l’appelant ») par laquelle il sollicitait les mesures suivantes :
+[traduction]
+1. Une ordonnance […] qui accueille l’appel interjeté de [la] cotisation d’impôt au motif que la Cour canadienne de l’impôt a compétence sur l’objet de l’appel aux termes de l’article 169 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch.1 (5e suppl.) (la « Loi »);
+2. L’exercice, par la Cour, de sa compétence en equity et la radiation de l’avis de requête et de la déclaration sous serment de l’intimée au motif qu’ils ne révèlent aucun moyen raisonnable de contestation de l’appel aux termes de l’alinéa 58(1)b) des Règles de la Cour canadienne de l’impôt (procédure générale) (DORS/90‑688a) (les « Règles »);
+3. Subsidiairement, autoriser l’appelant à présenter devant la Cour l’ensemble de ses arguments à l’égard de l’avis de nouvelle cotisation et de son droit aux crédits et déductions prévus pas la loi; ou toute autre directive appropriée et l’adjudication des dépens à l’appelant;
+4. L’autorisation de produire les éléments de preuve suivants au titre de l’alinéa 58(2)a) des Règles aux fins de la présente requête :
+a) Les actes de procédure versés au dossier;
+b) La déclaration sous serment que REESE MCINTOSH a souscrite le 1er juin 2010;
+c) Tout autre document que [la] Cour peut autoriser.
+La requête de l’appelant
+[3] Au début de l’audition, l’avocat de l’appelant a avisé la Cour que ce dernier retirait la requête qu’il avait présentée.
+[4] L’audition de la requête de l’intimée a été reportée de trois mois pour satisfaire l’avocat de l’appelant. En outre, l’appelant a eu connaissance pour la première fois de la nouvelle date d’audition de la requête le 22 mars 2010, presque deux mois et demi avant la date fixée pour l’audition de la requête. Malgré ces faits, l’appelant n’a déposé sa requête que six jours avant la date d’audition de la requête et, après que l’intimée a déposé sa réponse, l’appelant a alors choisi de retirer sa requête. J’ai donc décidé d’adjuger les dépens à l’intimée relativement à la requête de l’appelant.
+La requête de l’intimée
+Contexte
+[5] L’appelant a déposé un avis d’appel dans lequel il soutient que le ministre du Revenu national (« le ministre ») a sous-évalué, lors de l’établissement de la nouvelle cotisation à l’égard de l’appelant, le revenu d’emploi de ce dernier et les retenues à la source effectuées par l’employeur de l’appelant à l’égard de l’impôt sur le revenu.
+[6] Il est constant que le ministre, lors de l’établissement de la nouvelle cotisation à l’égard de l’appelant, avait utilisé les montants figurant sur un feuillet T4 (le « T4 ») délivré par l’ancien employeur de l’appelant, Crystal Ridge Fuels Ltd. (la « société »), pour calculer le revenu d’emploi de l’appelant.
+[7] L’appelant a soulevé deux questions dans son avis d’appel. Premièrement, il a soutenu qu’il avait reçu de sa société en 2003, un revenu d’emploi plus élevé que celui qui figure sur son T4. Deuxièmement, il avancé que les montants réellement retenus par la société au titre de l’impôt sur le revenu étaient supérieurs à ceux figurant sur le feuillet T4. L’appelant n’a pas contesté, dans son avis d’appel, les retenues à la source indiquées sur son feuillet T4 et effectuées au titre du Régime de pensions du Canada (le « RPC ») et de l’assurance‑emploi.
+[8] Selon l’intimée, les deux questions soulevées en l’espèce ne relèvent pas de la compétence de la Cour.
+Première question
+[9] Je rechercherai d’abord si la Cour a compétence pour examiner l’argument selon lequel le revenu d’emploi de l’appelant était supérieur au montant indiqué sur le T4 délivré par la société.
+[10] L’intimée a soutenu que [traduction] « l’appelant sollicite en substance l’augmentation de la nouvelle cotisation établie par le ministre à l’égard de l’appelant relativement au revenu imposable de ce dernier et à son impôt fédéral exigible. » Selon l’avocate de l’intimée, cette question ne relève pas de la compétence de la Cour étant donné que la jurisprudence enseigne qu’un tel redressement équivaudrait, pour le ministre, à en appeler de sa propre nouvelle cotisation.
+[11] L’avocat de l’appelant a soutenu que la Cour avait compétence pour connaître de tous les appels interjetés des cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi »).
+[12] Je retiens la thèse de l’intimée. Le droit est clair sur ce point; la Cour n’a pas compétence pour connaître d’un appel où la mesure sollicitée par l’appelant donnait lieu à l’augmentation de l’impôt à payer pour le contribuable. Dans Millette c. Her Majesty the Queen, [1999] 4 C.T.C. 2621, la juge Lamarre Proulx a fait l’observation suivante, au paragraphe 72 :
+Il est accepté par la jurisprudence que cette Cour ne puisse pas augmenter le montant de la cotisation du Ministre parce que cela équivaudrait à un appel de la cotisation par le Ministre, ce que le Ministre ne peut pas faire. Le Ministre ne peut pas en appeler de sa propre cotisation; Harris v. M.N.R., 64 DTC 5332, 5337; Shiewitz v. M.N.R., 79 DTC 340, 342 et Abed v. The Queen, 82 DTC 6099, 6103.
+Deuxième question
+[13] J’examinerai à présent la deuxième question soulevée par l’intimée : la Cour a‑t‑elle compétence pour établir le solde dû par un contribuable dans la mesure où il est question du calcul des retenues d’impôt sur le revenu effectuées par l’employeur du contribuable?
+[14] Dans sa requête, l’intimée a présenté les deux arguments suivants, aux alinéas f) et i) respectivement :
+[traduction]
+f) Le paragraphe 152(1) de la Loi [de l’impôt sur le revenu] définit une cotisation comme étant le calcul de l’« impôt payable », et ne prévoit pas le calcul de l’impôt dû après que les retenues à la source ont été effectuées; et, par conséquent, la Cour n’a pas compétence pour créditer à l’appelant les retenues à la source supplémentaires dont il fait état […];
+[…]
+i) […] [L’] appelant n’interjette pas appel d’une cotisation faisant état de son impôt payable, mais cherche plutôt en fait à réduire son impôt dû relativement aux montants qui, selon l’appelant, ont été déjà retenus à la source (mais n’ont pas été versés) par la société. Toutefois, il s’agit là d’une question de recouvrement, et non de cotisation, qui échappe à la compétence de la Cour canadienne de l’impôt [.]
+[15] L’appelant a avancé les arguments suivants dans ses observations écrites :
+[traduction]
+14. La question ultime dont la Cour est saisie est de savoir si la cotisation d’impôt établie par le ministre est correcte. Le montant des crédits auxquels le contribuable a droit est un des éléments constitutifs de la cotisation. L’appelant a interjeté appel de la cotisation d’impôt auprès de la Cour en se fondant sur le fait que le ministre n’a pas dûment tenu compte des retenues effectuées et des crédits auxquels il avait droit. La Cour a compétence pour examiner la question de savoir si la cotisation d’impôt établie par le ministre est correcte […]
+Analyse
+[16] Aux termes de l’article 12 de la Loi sur la Cour canadienne de l’impôt, la Cour a compétence exclusive pour entendre les renvois et les appels portés devant elle sur les questions relevant de la Loi de l’impôt sur le revenu (et les autres lois mentionnées).
+[17] Selon le paragraphe 169(1) de la Loi, lorsque le contribuable a signifié un avis d’opposition à une cotisation, en vertu de l’article 165, il peut interjeter appel devant la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation.
+[18] Le paragraphe 171(1) de la Loi dispose que la Cour canadienne de l’impôt peut rejeter l’appel ou en l’accueillir en :
+i. annulant la cotisation
+ii. modifiant la cotisation
+iii. déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[19] Il ressort clairement de ces dispositions que la compétence de la Cour est limitée aux appels interjetés d’une cotisation. Il s’agit seulement des appels interjetés d’une cotisation établie en vertu de la Loi (voir les observations du juge Rip (tel était alors son titre) dans McMillen Holdings Limited c. The Minister of National Revenue, 87 DTC 585, aux pages 591 à 592).
+[20] Le ministre est tenu, aux termes de l’article 152(1) de la Loi, d’établir une cotisation de l’impôt payable pour l’année au titre de la Loi. Je retiens la thèse de l’intimée selon laquelle le paragraphe 152(1) de la Loi ne prévoit pas le calcul de l’« impôt dû » après que les retenues à la source ont été effectuées, et, par conséquent, la Cour n’a pas compétence pour créditer à l’appelant les retenues à la source d’impôt sur le revenu supplémentaires dont il fait état.
+[21] Ma conclusion est conforme à l’enseignement de la Cour dans la décision Liu c. Her Majesty The Queen, [1995] 2 C.T.C. 2971 (« Liu ») et à celui de la Cour d’appel fédérale dans l’arrêt Neuhaus c. R. [2003] 2 C.T.C. 177 (CAF) (« Neuhaus »).
+[22] Dans la décision Liu, précitée, l’appelant avait interjeté appel devant la Cour au motif que le feuillet T4A qui lui avait été délivré relativement à des commissions qu’il avait gagnées en tant qu’entrepreneur indépendant ne faisait pas état de l’impôt sur le revenu retenu à la source par le payeur. Le juge Bowman (tel était alors son titre) a rejeté l’appel pour les motifs suivants (au paragraphe 14) :
+Même si j’en étais venu à une conclusion différente, la Cour n’aurait pas eu la compétence voulue pour déclarer qu’en déterminant le solde que M. Liu doit au gouvernement du Canada, il faudrait tenir compte du montant retenu sur les commissions, mais non versé. La compétence de la Cour, en l’espèce, consiste à entendre les renvois et les appels sur les questions découlant de l’application de la Loi de l’impôt sur le revenu. Essentiellement, les appels fondés sur la Loi de l’impôt sur le revenu visent à déterminer si une cotisation est exacte ou si une perte a été subie […]
+[23] De même, la Cour d’appel fédérale a fait les observations suivantes, au paragraphe 4 de l’arrêt Neuhaus précité :
+Or, en l’occurrence, la demanderesse ne recherche pas l’annulation ou la modification des cotisations en litige. Elle prétend plutôt que les impôts tels que cotisés par le Ministre ont déjà été payés par voie de retenue à la source (voir l’article 227(9.4) qui rend inter alia l’employeur responsable des impôts dûs par un employé jusqu’à concurrence des montants retenus à même le salaire et non remis). Dans ces circonstances, c’est à bon droit que la première juge s’est déclarée sans juridiction et c’est donc à tort qu’elle s’est penchée sur le fond du litige.
+[24] L’avocat de l’appelant a invoqué les décisions suivantes de la Cour : Ashby c. Her Majesty the Queen, [1996] 1 C.T.C. 2464 ( « Ashby »), Manke c. Her Majesty the Queen, [1999] 1 C.T.C. 2186 (« Manke ») et Ramsay c. Her Majesty the Queen, [2000] 4 C.T.C. 2397 (« Ramsay ») à l’appui de sa thèse selon laquelle la Cour a compétence pour accorder un redressement à l’égard des retenues à la source effectuées par l’employeur d’un appelant.
+[25] Je retiens l’enseignement de la décision Ashby, précitée : la Cour a compétence pour connaître d’un appel portant sur des retenues à la source effectuées en vertu de la Loi sur l’assurance‑emploi (la « LAE ») et du RPC. Il découle de l’article 118.7 de la Loi que de telles déductions sont des éléments constitutifs de la cotisation.
+[26] Toutefois, l’appelant ne conteste pas les retenues effectuées au titre de la LAE et du RPC. L’appelant conteste uniquement retenues à la source effectuée au titre de l’impôt sur le revenu. Je rejette l’idée que les retenues à la source effectuées au titre de l’impôt sur le revenu sont un élément constitutif d’une cotisation établie en vertu de la Loi.
+[27] Je retiens les observations du juge Hamlyn dans la décision Valdis c. Her Majesty the Queen, [2001] 1 C.T.C. 2827, au paragraphe 17, au sujet des jurisprudences Ashby, Manke et Ramsay :
+En toute déférence, je considère que, bien que l’article 118.7 de la Loi prévoie expressément le calcul de crédits au titre de cotisations d’assurance-emploi et de cotisations au RPC qui réduisent l’impôt exigible d’un contribuable, l’impôt sur le revenu retenu à la source par un employeur ne réduit pas l’impôt exigible en vertu de la Loi. À mon avis, au paragraphe 152(1), le législateur a déterminé que, par une « cotisation » d’impôt, le ministre « fixe l’impôt pour l’année [...] éventuels payables » et non l’impôt pour l’année dû par un contribuable après que des retenues à la source effectuées par un employeur sont soustraites de l’impôt exigible selon la cotisation d’impôt pour l’année. Je conclus que l’on ne peut dire que l’impôt sur le revenu retenu par un employeur est un élément constitutif d’une cotisation d’impôt qui peut faire l’objet d’un appel en vertu de l’article 169. Cependant, je suis bel et bien d’accord sur la décision rendue dans l’affaire Ashby, à savoir que, dans la mesure où des sommes ont été retenues au titre de l’assurance-emploi ou du RPC en vertu de l’article 118.7, de telles sommes font partie intégrante d’une cotisation d’impôt, et notre cour a donc compétence pour examiner ces crédits dans un appel.
+[28] Par les motifs exposés ci‑dessus, la requête en rejet de l’appel de l’appelant relativement à l’année 2003, au motif que la Cour n’a pas compétence sur l’objet de l’appel, présentée par l’intimée est accueillie avec dépens.
+Signé à Ottawa, Canada, ce 8e jour de mars 2011.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 12e jour de mai 2011.
+François Brunet, réviseur
+RÉFÉRENCE : 2011 CCI 147
+No DU DOSSIER DE LA COUR : 2008-3962(IT)G
+INTITULÉ : REESE McINTOSH
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 9 juin 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge Steven K. D’Arcy
+DATE DE L’ORDONNANCE : Le 8 mars 2011
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Matthew Clark
+Avocate de l’intimée :
+Me Connie L. Mah
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Matthew Clark
+Cabinet : Shea Nerland Calnan LLP
+Calgary (Alberta)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

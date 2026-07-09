@@ -1,0 +1,249 @@
+Title: Raby v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29009/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-10-29009-raby-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-30
+
+# Raby v. The Queen
+
+- Citation: 2009 TCC 10
+- Decision date: 2009-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6757, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-30
+Neutral citation
+2009 TCC 10
+File numbers
+2006-215(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-215(IT)G
+BETWEEN:
+CHRISTINE RABY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on February 25, 2008 at
+Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Jeffrey L. Goldman
+Counsel for the Respondent:
+Suzanne M. Bruce
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Amended Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 30th day of November 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 10
+Date: 20091130
+Docket: 2006-215(IT)G
+BETWEEN:
+CHRISTINE RABY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] Aapex Driving Academy Ltd. (“Aapex”) was incorporated under the laws of the Province of Ontario in 1994.
+[2] At all material times, Christine Raby (“Raby” or the “Appellant”) and her brother, Michael Racine (“Racine”), owned 51% and 49% of the common shares respectively of Aapex.
+[3] Aapex owned and operated a driving school that offered both classroom instruction and in-car driving lessons to its customers.
+[4] The classroom instruction and driving lessons were taught by driving instructors employed by Aapex.
+[5] The Appellant maintains that she was an employee of Aapex.
+[6] The Appellant maintains that she received a salary from Aapex in the following amounts (Transcript, p. 110, lines 20 – 21):
+(a) 2000 - $28,000;
+(b) 2001 - $30,000; and
+(c) 2002 - $0.
+[7] The Appellant stated that she owned between 22 to 27 automobiles and one truck (the “Vehicles”) during the relevant taxation years.
+[8] The Vehicles were registered and licensed in the Appellant’s name (Transcript, p. 103, lines 2 – 5).
+[9] The Appellant said that she provided the Vehicles to Aapex for its use in operating its business; the Vehicles were used by the driving instructors during driving lessons.
+[10] The Minister of National Revenue (the “Minister”) determined that the Appellant charged Aapex a fee for the use of the Vehicles based upon a per kilometre rate (“Vehicle Fees”).
+[11] The Vehicle Fees that were used for each of the 2000, 2001 and 2002 taxation years were calculated based on rates prescribed under Regulation 7306 of the Income Tax Regulations (“Regulations”).
+[12] At the end of each taxation year, Aapex credited the Vehicle Fees in a shareholder account shared by Raby and Racine (the “Shareholder Account”). The following amounts were used in the respective taxation years:
+(a) 2000 - $273,991;
+(b) 2001 - $343,959; and
+(c) 2002 - $431,946.
+[13] The Minister determined that the Vehicle Fees credited in the Shareholder Account were divided equally between Raby and Racine.
+[14] Aapex paid all of the operating expenses relating to the use of the Vehicles including gas, loan payments, license payments, insurance, maintenance and repairs (the “Vehicle Operating Expenses”).
+[15] At the end of the 2000, 2001 and 2002 taxation years Aapex made an adjusting entry in its books to reverse most of the Vehicle Operating Expenses for the year by debiting the amount of the Vehicle Operating Expenses in the Shareholder Account.
+[16] The following Vehicle Operating Expenses were not adjusted in the books of Aapex (the “Unadjusted Operating Expenses”):
+(a) 2001 - $19,914 for insurance;
+(b) 2001 - $34,383 for maintenance and repairs; and
+(c) 2002 - $7,619 for interest on loan payments for the Vehicles.
+[17] Counsel for the Appellant maintains that the Appellant’s portion of the Vehicle Fees credited in the Shareholder Account was never received by her. Instead, counsel for the Appellant maintains that the Appellant received cash payments of approximately $580 a week from Aapex for the use of the Vehicles (“Cash Payments”).
+[18] Counsel for the Appellant maintains that the Appellant received the following Cash Payments from Aapex for the use of the Vehicles:
+(a) 2000 - $31,660;
+(b) 2001 - $48,010; and
+(c) 2002 - $30,160.
+[19] The net of the amounts debited and credited in the Shareholder Account that were in excess of the Cash Payments remained in the Shareholder Account.
+[20] Most of the driving instructors of Aapex were permitted to use the Vehicles for their personal use outside of Aapex’s regular business hours.
+[21] The instructors paid the Appellant the following amounts for personal use of the Vehicles (the “Instructor Vehicle Fees”):
+(a) 2000 - $9,180;
+(b) 2001 - $12,500; and
+(c) 2002 - $14,920.
+[22] During the relevant taxation years, the Appellant did not include in her income any Vehicle Fees, Instructor Vehicle Fees, or any other payments received by her with respect to the use of the Vehicles.
+B. ISSUES TO BE DECIDED
+[23] The issues to be decided are whether the Minister properly assessed Raby to include in her income the amounts of $136,995, $178,239 and $222,433 in the 2000, 2001 and 2002 taxation years, respectively, as business income pursuant to subsection 9(1) of the Income Tax Act (the “Act”);
+C. ANALYSIS
+[24] I found the evidence presented during the hearing by both parties to be contradictory and confusing. With the limited evidence available to me, I was able to find the following.
+[25] The Minister reassessed the Appellant’s 2000, 2001 and 2002 taxation years to include the Appellant’s portion (50%) of the Vehicle Fees in her income as business income pursuant to subsection 9(1) of the Act.
+[26] Counsel for the Respondent said that the theory underlining the reassessments is that the shareholders of Aapex failed to declare income received through a business they operated in concert with Aapex. Ms. Bruce said that Aapex operated a driving school and that the shareholders of Aapex (Raby and Racine) collected income through a car rental business.
+[27] In the Reply to the Notice of Appeal the Minister denied that the Appellant had received any salary from Aapex in 2000 and 2001 (see subparagraph 11(g)).
+[28] The Minister determined that the Appellant was required to include the income received from the car rental business in computing her income pursuant to subsection 9(1) of the Act.
+[29] During the hearing, counsel for the Respondent stated that the revised total business income of the Appellant should be calculated as follows:
+Profit earned by rental of vehicles to Aapex:
+Taxation Year
+2000
+2001
+2002
+Income
+Less Expenses
+Gas
+Loan Interest
+Licenses
+Insurance
+Maintenance & Repairs
+CCA
+Total Expenses
+281,402.69
+64,294.54
+10,233.95
+1,180.38
+27,937.88
+37,067.51
+51,024.00
+191,738.26
+363,862.89
+59,727.16
+12,589.25
+2,378.10
+38,953.22
+34,549.72
+59,860.00
+206,057.45
+462, 853.17
+74,747.28
+13,816.98
+2,595.50
+38,374.87
+54,186.82
+56,167.00
+239,888.45
+Profit
+89,664.43
+157,805.44
+222,964.72
+Ms. Raby’s net income:
+Taxation Year
+2000
+2001
+2002
+Profit (from above)
+Add: Instructor Vehicle Fees
+89,664
+9,180
+157,805
+12,500
+222,965
+14,920
+Total
+Percentage attributable to Raby
+98,844
+50%
+170,305
+50%
+237,885
+50%
+Total Net Business Income
+49,422
+85,153
+118,942
+(Note: This is a change from the original reassessments.)
+[30] During the hearing counsel for the Appellant maintained that the non-taxable automobile allowance that is provided for in paragraph 6(1)(b) of the Act should be applied in this situation with respect to all of the Vehicles owned by the Appellant.
+[31] The tax-free automobile allowance provided for in subparagraph 6(1)(b)(vii.1) is provided for to assist employees who receive a reasonable allowance from their employers for the use of their own vehicles while performing their employment duties.
+[32] Counsel for the Appellant maintains that the Vehicle Fees credited in the Appellant’s Shareholder Account should be tax-free on this basis. Counsel for the Appellant maintains that the Vehicle Fees were appropriately determined on a per-kilometre basis to provide an allowance to the Appellant for use by Aapex of her fleet of 22 – 27 Vehicles.
+[33] I do not agree with the submissions made by counsel for the Appellant on this point. Although I accept the Appellant’s evidence that she is an employee of Aapex, and that the Vehicle Fees were calculated on a per-kilometre basis, I do not believe that subparagraph 6(1)(b)(vii.1) would provide a tax-free allowance to an employee who provides an entire fleet of automobiles to her employer for use in the operation of the employer’s business. Such an allowance in these circumstances is not a “reasonable allowance”, as is required by subparagraph 6(1)(b)(vii.1).
+[34] However, as an employee of Aapex, the Appellant also used the automobiles during driving lessons. On this basis, I have concluded that the Appellant should be allowed to receive a reasonable allowance for two automobiles on a tax-free basis pursuant to subparagraph 6(1)(b)(vii.1). The reasonable allowances should be calculated on a per-kilometre basis, using the appropriate rates provided under the Regulations.
+[35] For the remaining 20 – 25 Vehicles owned by the Appellant in the relevant taxation years, I have concluded that subparagraph 6(1)(b)(vii.1) does not apply to the respective Vehicle Fees to exempt them from being taxed in the hands of the Appellant.
+[36] Counsel for the Respondent maintains that the Appellant and her brother were operating a car rental business.
+[37] Based on the evidence before me I have concluded that the Appellant and Racine were operating either a car rental business or an adventure in the nature of trade when they provided 22 – 27 Vehicles to Aapex.
+[38] However, I do not agree with the Minister’s calculation of the Appellant’s business income with respect to the Vehicles. The revised total net business income amounts for the Appellant includes the full amount of the Appellant’s portion of the Vehicle Fees, Instructor Vehicle Fees, less the Vehicle Operating Expenses and CCA.
+[39] I accept the Appellant’s evidence that the full amount of the Vehicle Fees were never actually received by her. Instead, the Vehicle Fees were simply a year-end calculation of the appropriate automobile allowance under subparagraph 6(1)(b)(vii.1), based on the rates provided under the Regulations. The Vehicle Fees, along with the Vehicle Operating Expenses, were simply credited and debited in the Shareholder Account the Appellant shared with her brother.
+[40] I find it significant that the Appellant only received the Cash Payments from Aapex for the use of the Vehicles. In addition, the Appellant received the Instructor Vehicle Fees directly from those instructors for personal use of the Vehicles.
+[41] At the year-end of each relevant taxation year, Aapex made the appropriate journal entries for the Vehicle Fees and the Vehicle Operating Expenses. Any amounts that exceeded the Cash Payments and Instructor Fees received by Raby were credited in the Shareholder Account. I accept the Appellant’s evidence that she did not receive any of these additional amounts that were credited in the Shareholder Account.
+[42] In the absence of any records indicating that the Appellant actually received the full amount of her portion of the Vehicle Fees, I have concluded that only the actual cash payments that she received from Aapex and the Instructor Vehicle Fees that she received should be included in her income in each of the relevant taxation years. The Cash Payments received in each relevant taxation year is the true net amount of funds received by the Appellant in exchange for the use of the Vehicles by Aapex.
+[43] Based on the evidence before me, I am satisfied that the Appellant received the Cash Payments and Instructor Vehicle Fees in full and that these payments were not shared with Racine. Therefore, the entire amount of these payments should be included in the Appellant’s income.
+[44] I have concluded that the Appellant’s business income pursuant to subsection 9(1) of the Act for the relevant taxation years should be determined as follows:
+Taxation Year
+2000
+2001
+2002
+Cash Payments
+$31,660
+$48,010
+$30,160
+Instructor Vehicle Fees
+9,180
+12,500
+14,920
+Total Net Business Income
+$40,840
+$60,510
+$45,080
+[45] The Appellant should also be allowed a non-taxable automobile allowance for two vehicles pursuant to subparagraph 6(1)(b)(vii.1) of the Act.
+[46] The appeals are allowed, and the Minister is to reassess the Appellant in accordance with the conclusions outlined above. Since success is divided by the parties I am not prepared to award costs.
+Signed at Vancouver, British Columbia, this 30th day of November 2009.
+“L.M. Little”
+Little J.
+CITATION:
+2009 TCC 10
+COURT FILE NO.:
+2006-215(IT)G
+STYLE OF CAUSE:
+Christine Raby and
+Her Majesty the Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+February 25, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT
+January 8, 2009
+DATE OF AMENDED JUDGMENT:
+November 30, 2009
+APPEARANCES:
+Counsel for the Appellants:
+Jeffrey L. Goldman
+Counsel for the Respondent:
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+Counsel for the Appellants:
+Name:
+Jeffrey L. Goldman
+Firm:
+Jeffrey L. Goldman
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

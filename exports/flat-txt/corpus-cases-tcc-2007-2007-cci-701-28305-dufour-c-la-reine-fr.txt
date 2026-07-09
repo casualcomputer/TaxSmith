@@ -1,0 +1,149 @@
+Title: Dufour c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28305/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-701-28305-dufour-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-11-27
+
+# Dufour c. La Reine
+
+- Citation: 2007 CCI 701
+- Decision date: 2007-11-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1859, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dufour c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-11-27
+Référence neutre
+2007 CCI 701
+Numéro de dossier
+2007-1530(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1530(IT)I
+ENTRE :
+DIANE DUFOUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 30 octobre 2007, à Montréal (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentant de l’appelante :
+Michel Morin
+Avocate de l'intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de l'avis de nouvelle détermination par lequel le ministre du Revenu national a refusé à l'appelante la prestation fiscale canadienne pour enfants, pour la période de février à juin 2005 et de juillet à octobre 2005 pour les années de base 2003 et 2004, est accueilli sans frais et l'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelante était bel et bien le parent admissible pour la période en question, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI701
+Date : 20071207
+Dossier : 2007-1530(IT)I
+ENTRE :
+DIANE DUFOUR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel d'une décision en vertu de laquelle l'intimée a déterminé que l'appelante n'était pas le particulier admissible pour la période de février à juin 2005 et de juillet à octobre 2005, générant ainsi un trop payé de 383,37 $ pour l'année de base 2003 et de 301,57 $ pour l'année de base 2004.
+[2] L'intimée s'est fondée sur les hypothèses de fait suivantes pour rendre sa décision :
+a) L'appelante est la conjointe de M. Michel Morin;
+b) M. Michel Morin est le père de Marie-Pier Morin née le 11 novembre 1989;
+c) La mère de Marie-Pier Morin est Mme Chantal Perreault;
+d) Au cours des périodes en litige, Marie-Pier Morin demeurait à la résidence de sa mère;
+e) Au cours des périodes en litige, le Ministre a déterminé que Mme Perreault était le particulier qui assurait principalement le soin et l'éducation de Marie-Pier Morin.
+[3] L'appel soulève la question en litige suivante :
+Le Ministre a-t-il correctement révisé les montants des prestations fiscales pour enfants de l'appelante et déterminé que les montants reçus en trop s'élevaient à 383,37 $ pour l'année de base 2003 et à 301,57 $ pour l'année de base 2004?
+[4] Seul un particulier admissible au sens de l'article 122.6 de la Loi peut demander la prestation fiscale canadienne pour enfants. Un particulier admissible est défini ainsi à l'article 122.6 de la Loi de l'impôt sur le revenu :
+122.6 « particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés,
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère.
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+252(1) : Dans la présente loi, est considérée comme un enfant d'un contribuable
+[...]
+c) un enfant de l'époux ou du conjoint de fait du contribuable;
+[5] Les critères pour déterminer en quoi consistent le soin et l'éduction de l'enfant sont prévus à l'article 6302 du Règlement de l'impôt sur le revenu (« Règlement »).
+6302. Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[6] L'appelante était représentée par son conjoint, le père de l'enfant mineur visé par l'appel. Dans un premier temps, il a admis les faits mentionnés aux alinéas a), b) et c), qu'il y a lieu de reproduire :
+a) L'appelante est la conjointe de M. Michel Morin;
+b) M. Michel Morin est le père de Marie-Pier Morin née le 11 novembre 1989;
+c) La mère de Marie-Pier Morin est Mme Chantal Perreault;
+[7] D'entrée de jeu, la position de l'appelante était délicate, voire même assez précaire puisque deux éléments ayant une certaine importance appuyaient la décision de l'intimée, soit le fait que le père versait à la mère de l'enfant une pension alimentaire, et cela, pour la période visée par l'appel.
+[8] L'appelante elle‑même, le père de l'enfant qui agissait comme son représentant, monsieur Denis Grégoire et la mère de la mère de l'adolescente ou, en d'autres termes, sa grand-mère maternelle, ont témoigné à l'appui de la thèse de l'appelante.
+[9] De son côté, l'intimée a fait témoigner la mère de l'adolescente, définie par l'intimée comme le parent admissible. Cette dernière a affirmé que l'adolescente avait toujours résidé avec elle durant la période allant de février à juin 2005 et de juillet à octobre 2005.
+[10] À l'appui de son témoignage, la mère a fait valoir le fait que l'adresse de sa jeune fille figurant dans différents documents scolaires et autres était la sienne. Elle a décrit verbalement l'intérêt qu'elle portait à sa fille.
+[11] De son côté, le père qui, je le rappelle, agissait à titre de représentant sa conjointe de fait qui fait face à la réclamation pour trop-payé, a affirmé d'une manière très ferme mais claire que l'adolescente avait bien résidé avec lui et sa conjointe durant la période en question. Il a expliqué qu'il s'agissait là d'ailleurs du choix de sa fille, choix qu'il avait toujours respecté. À plusieurs reprises, il a exprimé sa frustration à l'endroit de la mère de l'enfant qui osait contester ce fait non équivoque quant à la résidence de l'enfant.
+[12] L'appelante a aussi témoigné. Loquace et raisonnable dans son propos, elle a expliqué d'une manière simple et claire que l'enfant avait bel et bien résidé avec elle et son conjoint. Elle a, de plus, affirmé avoir elle-même pris l'initiative d'informer le bureau responsable de l'attribution du statut de particulier admissible que l'enfant avait décidé de retourner avec sa mère.
+[13] Je ne crois pas qu'il soit possible d'obtenir une contradiction plus absolue et totale. Les parents affirment tous deux que l'adolescente a résidé avec eux au cours d'une période clairement définie. L'évidente contradiction ne s'avère toutefois pas un grave problème puisque le témoignage de la mère ne fait pas le poids vis‑à‑vis celui de l'appelante. L'un est imprécis, confus, général et la gène de la mère est manifeste. De son côté, l'appelante a témoigné d'une façon simple, précise et calme. Je ne doute aucunement de la sincérité de ce témoignage qui, évidemment, a pour effet le rejet de celui de la mère qui, de surcroît n'était pas de très grande qualité.
+[14] Qui croire? Quelle version retenir? Quelle version rejeter? Je n'ai aucune hésitation à rejeter la version de la mère et à retenir celle de la conjointe du père, soit l'appelante dans le dossier.
+[15] Pourquoi est-ce que je rejette la version de la mère? Je ne nie pas que la mère soit une personne qui avait à cœur l'intérêt et le bien-être de sa fille. Je suis même convaincu qu'elle a fait ce qui lui apparaissait important pour permettre à sa fille de devenir une adulte mature et responsable. Est-ce suffisant pour conclure que sa fille a résidé chez elle durant la période en question? Cela pourrait s'avérer suffisant d'autant plus qu'elle recevait une pension alimentaire et avait en outre le droit de garde.
+[16] En l'espèce, je mets en doute la véracité de son témoignage quant au lieu de résidence de l'enfant pour la période en question. Sur cet aspect, madame s'est appuyée sur des documents indiquant que l'adresse de sa fille était la même que la sienne, ce qui était tout à fait légitime, eu égard au fait qu'elle avait le droit de garde. D'ailleurs, j'ouvre une parenthèse pour dire que j'aurais rejeté l'appel si la preuve à l'appui du dossier de l'appelante n'avait pas été aussi nettement prépondérante.
+[17] L'appelante a témoigné d'une manière simple, précise et très raisonnable, sans malice, ni frustration. Elle a expliqué avoir accueilli l'adolescente le jour où cette dernière a exprimé son désir de résider chez elle avec son père, qui est le conjoint de l'appelante.
+[18] Elle a aussi affirmé avoir respecté de la même façon le désir de la jeune fille de choisir un autre lieu de résidence à la fin de la période. Quelques heures après son départ, elle a elle-même entrepris les démarches pour informer les autorités responsables de l'identification du parent admissible que l'enfant avait cessé d'habiter avec eux.
+[19] Le représentant de l'appelante a fait témoigner un ami du couple, soit monsieur Denis Grégoire, qui a affirmé s'être rendu régulièrement chez l'appelante et y avoir vu souvent et même régulièrement l'adolescente qui, selon lui, résidait bel et bien à cet endroit.
+[20] Le représentant de l'appelante, monsieur Morin, a demandé à la grand‑mère maternelle de témoigner à l'encontre du témoignage de sa propre fille. La grand-mère a reconnu que sa petite‑fille avait résidé chez l'appelante et son ex‑gendre, mais n'était pas en mesure de préciser les dates. Ce témoignage n'a de ce fait aucun effet sur la preuve si ce n'est qu'il s'agissait là d'une initiative très audacieuse qui aurait très bien pu avoir l'effet contraire à celui recherché. Le témoignage a donc un effet neutre. Toutefois, la décision de faire entendre ce témoin indique une assurance invraisemblable de l'appelante et son conjoint quant au bien-fondé de l'appel.
+[21] Le conjoint de l'appelante a récemment initié une procédure judiciaire, soit une requête en modification des mesures accessoires signée le 6 septembre 2007 (pièce A-2). À sa face même, la requête est postérieure à la période en question; cependant, le paragraphe 4 de la requête fait état de ce qui suit :
+4. Depuis le prononcé du dernier jugement qui accordait la garde de Marie‑Pier et Jean‑Michel à leur mère, plusieurs changements sont intervenus à savoir :
+a) Marie-Pierre habite un logement et occupe un travail;
+b) l'enfant Marie-Pierre a habité avec votre requérant du 25 janvier 2005 au 1er octobre 2005;
+c) Depuis le 30 juillet 2007, Jean-Michel a quitté la résidence de sa mère et habite à temps plein avec son père;
+[22] La requête est appuyée d'un affidavit. La requête a fait l'objet d'un consentement suivi d'un jugement.
+[23] Les faits mentionnés au paragraphe 4 de la requête sont clairs et précis. S'il s'était agi de faussetés, la mère aurait dû faire corriger le contenu de telles allégations. D'autre part, la Cour ne peut concevoir que le père aurait jugé bon de mentionner dans sa requête de tels faits s'il s'agissait là d'un grossier mensonge.
+[24] Il ne s'agit pas là d'allégations anodines ou d'allégations que la mère pourrait réfuter en invoquant un problème d'interprétation ou de perception; il s'agit plutôt de quelque chose d'important. En soi, ce seul élément ne serait peut‑être pas suffisant pour conclure au bien‑fondé de la thèse de l'appelante, mais valide cependant la forte perception que commande la preuve.
+[25] Ce fait s'inscrit d'ailleurs dans la logique de son témoignage fort crédible confirmé par celui de son conjoint et celui d'un tiers. À cela s'ajoute l'audace de la partie appelante d'appeler à la barre des témoins, la grand‑mère maternelle, qui, manifestement mal à l'aise, a confirmé que l'adolescente lors d'une période qu'elle ne peut pas préciser a bel et bien résidé avec l'appelante et son conjoint.
+[26] Pour toutes ces raisons, je fais droit à l'appel de l'appelante en ce que la prépondérance de la preuve est à l'effet que, pendant les périodes de février à juin 2005 et de juillet à octobre 2005, elle était le parent admissible pour les années de base 2003 et 2004.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI701
+Nº DU DOSSIER DE LA COUR : 2007-1530(IT)I
+INTITULÉ DE LA CAUSE : Diane Dufour et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 30 octobre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 7 décembre 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+Michel Morin
+Avocate de l'intimée :
+Me Annick Provencher
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

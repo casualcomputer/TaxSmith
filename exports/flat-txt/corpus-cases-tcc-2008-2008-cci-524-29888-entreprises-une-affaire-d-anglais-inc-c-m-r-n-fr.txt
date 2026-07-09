@@ -1,0 +1,212 @@
+Title: Entreprises Une affaire d'anglais inc c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29888/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-524-29888-entreprises-une-affaire-d-anglais-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-09-25
+
+# Entreprises Une affaire d'anglais inc c. M.R.N.
+
+- Citation: 2008 CCI 524
+- Decision date: 2008-09-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6381, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Entreprises Une affaire d'anglais inc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-25
+Référence neutre
+2008 CCI 524
+Numéro de dossier
+2007-622(EI)
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-622(EI)
+ENTRE :
+LES ENTREPRISES UNE AFFAIRE
+D'ANGLAIS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JOHN CHEETHAM,
+intervenant.
+____________________________________________________________________
+Appel entendu le 29 novembre 2007 et les 28 et 29 janvier 2008,
+à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Sarto Veilleux
+Avocat de l'intimé :
+Me Benoit Mandeville
+Pour l’intervenant :
+L’intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est accueilli et la décision du ministre du Revenu national est annulée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 524
+Date : 20080925
+Dossier : 2007-622(EI)
+ENTRE :
+LES ENTREPRISES UNE AFFAIRE D'ANGLAIS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+JOHN CHEETHAM,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel de Les Entreprises Une Affaire d’Anglais Inc. (« Une Affaire d’Anglais ») à l’encontre d’une décision du ministre du Revenu national (le « ministre ») à l’effet que monsieur John Robert Cheetham (le « travailleur ») avait exercé un emploi assurable auprès de Une Affaire d’Anglais au cours de la période du 30 juin 2004 au 30 juin 2005 car cet emploi était exercé aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, L.C. (1996), ch. 23, telle que modifiée (la « Loi »).
+[2] Le ministre a déterminé que le travailleur exerçait un emploi auprès de Une Affaire d’Anglais aux termes d’un contrat de louage de services, en s’appuyant sur les présomptions de faits suivantes décrites au paragraphe 21 de la Réponse à l’avis d’appel :
+a) l’appelante a été constituée en société le 15 juillet 1993; (admis)
+b) l’appelante offrait aux gens d’affaires et aux professionnels, des services de formation en langue anglaise et en d’autres langues; (admis)
+c) le personnel de l’appelante comportait 9 employés, dont des formateurs à temps plein, et 35 à 40 formateurs à temps partiel, que l’appelante considérait comme sous-traitants; (admis)
+d) l’appelante avait développé un programme de formation original intitulé « Go-Ahead »); (nié)
+e) les cours de langue se donnaient chez les clients de l’appelante; (nié tel que rédigé parce que les cours étaient dispensés à l’extérieur des locaux de l’appelante)
+f) le travailleur est australien, il a immigré au Canada en 1998; (ignoré)
+g) le travailleur détenait un baccalauréat en Histoire et une licence d’enseignement; (ignoré)
+h) le travailleur a été embauché par l’appelante en 2001, il s’agissait de son premier emploi au Canada; (nié)
+i) le travailleur n’a pas signé de contrat avec l’appelante, sauf le 18 septembre 2003, les parties ont signé une entente de non‑sollicitation et confidentialité; (admis)
+j) le travailleur était formateur d’anglais; (admis)
+k) les tâches du travailleur consistaient à donner des périodes de cours de 90 minutes chaque, aux clients de l’appelante; (nié tel que rédigé parce que la durée des cours pouvait varier)
+l) à son embauche, le travailleur avait suivi une première formation de 2 jours, donnée par l’appelante; (admis)
+m) par la suite, le travailleur a suivi une formation de 3 à 4 jours pour approfondir la méthode d’apprentissage « Go-Ahead »; (nié)
+n) ces formations étaient obligatoires pour tout nouvel enseignant, de même qu’au début de chaque année, le travailleur devait suivre obligatoirement un certain nombre de « work shop » pour améliorer ses compétences et prendre connaissance des plans de formation; (nié parce que les formations n’étaient pas obligatoires)
+o) le travailleur bénéficiait du soutien de l’équipe technique de l’appelante ainsi que d’un mentor attitré pendant une période de probation de 2 à 4 mois; (nié)
+p) les heures de formation, les lieux de formation, les étudiants à former et les objectifs de formation étaient établis par l’appelante; (nié)
+q) la formation se donnait généralement dans les locaux du client de l’appelante; (admis)
+r) le travailleur devait utiliser la méthode d’enseignement développée par l’appelante; (nié)
+s) le travailleur devait assister à des réunions obligatoires afin de discuter des objectifs et des problèmes en cours; (nié)
+t) l’appelante fournissait le matériel d’enseignement ainsi que les exercices; (nié)
+u) le travailleur avait accès aux locaux de l’appelante pour faire des photocopies (1000 par mois), pour accéder à la bibliothèque ainsi qu’à la salle des professeurs pour ses recherches et préparation de cours; (admis)
+v) le travailleur devait évaluer les étudiants à la fin de chaque session selon une grille d’évaluation et des critères d’évaluation établis par l’appelante; (admis)
+w) le travailleur était tenu d’accomplir ses tâches personnellement, il ne pouvait en aucun cas engager un remplaçant pour donner le cours à sa place; (nié)
+x) le travailleur rendait régulièrement des comptes à l’appelante, incluant sa facturation, la liste des présences au cours et le déroulement selon le plan des activités d’enseignement; (nié)
+y) l’appelante et non le travailleur était responsable du contrôle de qualité et éventuellement de recevoir les plaintes des clients; (nié)
+z) l’appelante formait le travailleur et lui donnait des instructions précises sur l’exécution de son travail; (nié)
+aa) le travailleur facturait l’appelante au taux de 22 $ de l’heure; (admis)
+bb) le travailleur travaillait une trentaine d’heures par semaine pour l’appelante; (nié)
+cc) l’appelante avait demandé au travailleur d’enregistrer une raison sociale et de lui présenter une facture de services une fois par mois; (nié)
+dd) le 28 janvier 2002, le travailleur a enregistré une entreprise individuelle ayant comme raison sociale le nom « JohJoh »; (admis)
+ee) les cours obligatoires de formation étaient facturés sous la rubrique « Frais divers »; (nié tel que rédigé)
+ff) l’appelante remboursait les dépenses de déplacement (kilométrages et repas) des formateurs à l’extérieur d’une zone de 20 kilomètres; (nié tel que rédigé)
+gg) le travailleur bénéficiait d’une allocation de temps de déplacement et de remboursement des bières et du vin, pris avec les étudiants, à la fin de la session; (admis)
+hh) le travailleur a demandé à l’appelante, en 2003 et en 2004, d’être considéré comme un employé; (nié)
+ii) le travailleur a porté plainte à la Commission des normes du Travail, qui le 25 avril 2006, a envoyé un avis de mise en demeure à l’appelante pour un montant de 5 978,78 $ incluant 3 416,80 $ pour du salaire impayé. (admis car en contestation)
+[3] L’appelante est d’avis que la décision du ministre est non fondée en faits et en droit et ce, pour les motifs ci-après mentionnés décrits aux paragraphes 7 à 32 de l’avis d’appel :
+7. L’Appelante est agréée par Emploi‑Québec comme organisme formateur aux fins de la Loi favorisant le développement de la formation de la main‑d’œuvre (L.R.Q., c. D-7.1) […] conformément au Règlement sur l’agrément des organismes formateurs, des formateurs et des services de formation (L.R.Q., D. 7.1, r.0.1.) (ci-après le « Règlement »), tel qu’il appert d’une copie du répertoire des formateurs et d’une copie du Règlement;
+8. Cet agrément conféré par Emploi-Québec est obligatoire pour tous les organismes offrant des services de formation lorsque leur clientèle désire se prévaloir du traitement fiscal particulier applicable à l’investissement obligatoire de 1% de la masse salariale annuelle utilisé pour la formation de son personnel;
+9. Pour maintenir en tout temps son agrément, l’Appelante doit en tout temps se conformer aux dispositions du Règlement;
+10. L’Appelante doit notamment s’engager à ne dispenser de la formation que par des formateurs titulaires d’un agrément accordé par Emploi-Québec, conformément au Règlement et détenant l’expérience et la compétence requises;
+11. Pour ce faire, l’Appelante doit s’assurer que ses formateurs ont une expérience minimale de travail dans chacun des champs professionnels dans lesquels la formation est dispensée et qu’ils ont accumulé des heures de formation selon les prescriptions suivantes du Règlement;
+12. Ainsi, selon le Règlement ces formateurs peuvent être soit des salariés de l’organisme agréé, soit des contractuels et ce, malgré les formations que l’Appelante doit dispenser à ceux‑ci avant que ne débutent les cours en vertu de ce Règlement;
+13. Le Règlement exige également que les formateurs fournissent, à la fin de la session de cours, certains documents afin d’assurer l’admissibilité de la formation aux crédits d’impôts pour la clientèle;
+14. Il est donc impératif que l’Appelante respecte les conditions énoncées au Règlement et cela n’a pas pour effet de compromettre le statut de travailleurs autonome des formateurs qui sont à son service;
+15. M. Cheetham est un formateur agréé, tel qu’il appert du répertoire des formateurs;
+16. En tout temps pertinent à la réclamation, l’Appelante a exploité son entreprise de la même manière, c’est-à-dire que dans un premier temps, elle conclut des contrats de formation en langue seconde avec sa clientèle et, dans un second temps, elle donne à sous‑contrat la prise en charge de ces contrats de formation conclu avec sa clientèle à des formateurs agréés qui sont des travailleurs autonomes;
+17. L’Appelante contacte donc les formateurs inscrits dans sa banque de données afin de leur offrir de dispenser les cours prévus au contrat et ceux‑ci sont libres d’accepter ou de refuser;
+18. Aucun contrat n’intervient entre l’Appelante et ces formateurs, à l’exception d’une entente de non‑sollicitation de la clientèle de l’Appelante et de confidentialité, tel qu’il appert d’une copie de l’entente de non‑sollicitation et de confidentialité signée par M. Cheetham;
+19. Ces ententes de non‑sollicitation et de confidentialité ne constituent pas des ententes de non-concurrence ou d’exclusivité des services, pas plus qu’elles ne constituent des contrats de travail;
+20. Ainsi, en conformité avec les dispositions du Règlement, l’Appelante donne une formation aux formateurs indépendants dont elle retient les services, ce qui ne les rend pas pour autant des salariés de l’Appelante;
+21. De plus, ces formateurs ne sont soumis à aucun contrôle de la part de l’Appelante, si ce n’est des obligations réglementaires qui sont imposées à cette dernière en tant qu’organisme agréé et aux formateurs agréés;
+22. Dans le cadre de l’exécution de leurs services, les formateurs dispensent leurs cours de langues directement dans les locaux de la clientèle de l’Appelante qui a conclu un contrat de formation au bénéfice de ses employés;
+23. De plus, les formateurs sont notamment libres de choisir et d’établir leurs plans spécifiques de formation, la conception, la programmation et la mise en œuvre des activités, la fourniture de matériaux, équipements et logiciels qu’ils détiennent, sous réserve toutefois du respect du contrat signé entre l’Appelante et sa clientèle;
+24. Les formateurs gèrent eux-mêmes l’assignation de leur travail (horaire de travail), après s’être entendus directement avec la clientèle ou leurs employés. De fait, les formateurs n’ont même aucune obligation de se présenter à la place d’affaires de l’Appelante;
+25. Les formateurs conservent également la liberté de cesser d’offrir leurs services en tout temps en cours de session;
+26. Par ailleurs, ces formateurs peuvent se faire remplacer par un autre formateur agréé de leur choix lorsqu’ils le désirent. La seule obligation de l’Appelante est de s’assurer du respect des conditions du Règlement et de celles du contrat intervenu avec son client;
+27. À la fin de chaque session, afin de se conformer aux exigences du Règlement, les formateurs remettent à l’Appelante des fiches de présence comme preuve de la durée de la formation, des employés ayant participé à la formation et de la réussite du cours par ces employés;
+28. De plus, les services de ces formateurs ne sont pas exclusifs à l’Appelante et ces derniers peuvent parallèlement offrir leurs services aux principaux concurrents de l’Appelante qui œuvrent dans le même secteur d’activité. De même, ils sont libres d’offrir leurs services à d’autres entreprises tout en respectant leur engagement de non‑sollicitation de la clientèle de l’Appelante;
+29. Par ailleurs, M. Cheetham utilise la raison sociale Johjoh pour ses activités à titre de consultant linguistique, tel qu’il appert d’une copie de l’état des informations sur une entreprise individuelle (CIDREQ);
+30. Or, si ce formateur était un salarié bénéficiant d’un contrat de louage de services comme le prétend l’Intimé, il est inconcevable qu’il travaille également pour les principaux compétiteurs de l’Appelante en même temps qu’il travaille pour l’Appelante sans qu’elle n’allègue son devoir de loyauté qui existe dans tout contexte de relation employeur-employé;
+31. Ainsi, M. Cheetham est clairement un travailleur autonome et la décision de l’Intimé relativement à l’assurabilité de son emploi en raison de l’existence d’un contrat de louage de services est totalement injustifiée et mal fondée en fait et en droit;
+32. L’Appelante et M. Cheetham exercent leurs activités dans le contexte ci‑avant décrit depuis plusieurs années sans qu’il n’y ait eu aucun débat relativement à son statut sauf depuis qu’il a mis fin à sa relation d’affaires avec l’Appelante.
+ANALYSE
+[4] Le droit applicable en l’espèce se trouve aux articles 2085 à 2097 du Code civil du Québec (le « Code civil ») pour ce qui est du « contrat de travail » et aux articles 2098 à 2129 du Code civil pour ce qui du « contrat d’entreprise et de service ».
+[5] Le « contrat de travail » est défini de la façon suivante à l’article 2085 du Code civil :
+Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+[6] Le « contrat d’entreprise ou de service » est défini de la façon suivante à l’article 2098 du Code civil :
+Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à payer.
+[7] La définition du « contrat d’entreprise ou de service » de l’article 2098 du Code civil est complétée par l’article 2099 du Code civil qui fournit la principale caractéristique d’un contrat d’entreprise ou de service :
+L’entreprise ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[8] Ce qui distingue fondamentalement un contrat de service d’un contrat de travail est l’absence d’un lien de subordination entre le prestataire de services et le client. Il faut donc déterminer en l’espèce si, au cours de la période en litige, il y avait ou non un lien de subordination entre l’appelante et le travailleur.
+[9] L’appelante a le fardeau de la preuve, selon la prépondérance des probabilités, des faits pour faire rejeter la décision du ministre. En l’absence d’un contrat écrit, l’intention commune des parties et leur comportement doivent être examinés.
+[10] De nombreux témoins ont été entendus à l’audience. En plus de madame Diane Ippersiel, propriétaire à 95% de l’appelante, et de monsieur John Cheetham, le travailleur, les personnes suivantes ont rendu compte sur la façon d’opérer de l’appelante :
+— madame Julie Marcoux : responsable de la comptabilité chez l’appelante;
+— monsieur Duncan Flowers : coordonnateur des ressources humaines chez l’appelante;
+— monsieur Olivier May : formateur;
+— monsieur Gregory Hogg : directeur des projets spéciaux chez l’appelante;
+— monsieur David Ballam : formateur;
+— monsieur Peter Darbyshire : formateur.
+[11] Les indices suivants tendant à démontrer une absence de lien de subordination entre l’appelante et le travailleur sont ressortis de ces témoignages et des documents mis en preuve :
+a) le travailleur a formé une société de consultations linguistiques sous la raison sociale de « JohJoh » à compter du 28 janvier 2002 et a demandé à l’appelante en février 2002 que ses factures mensuelles soient payées directement dans le compte de banque de « JohJoh »;
+b) le travailleur maintenait un bureau à sa résidence et il assumait le coût de son ordinateur, son téléphone cellulaire et du matériel qu’il utilisait pour préparer et dispenser ses cours; il n’avait pas de bureau chez l’appelante;
+c) le travailleur fournissait ses disponibilités et il était libre d’accepter ou de refuser les offres de travail de l’appelante; il n’y avait pas de sanction en cas de refus d’un contrat;
+d) le travailleur n’a pas fourni d’exclusivité à l’appelante et il a effectivement rendu des services à d’autres clients;
+e) le travailleur avait la possibilité de négocier le montant de ses honoraires et il avait obtenu le droit de se faire rembourser certains frais encourus pour le bénéfice des clients de l’appelante, tels bières, croustilles, vins, etc.;
+f) le travailleur n’avait pas d’obligation de se présenter au lieu de travail de l’appelante puisque les cours étaient dispensés chez les clients de l’appelante;
+g) le travailleur était le seul responsable de la préparation de ses cours, de la manière de les dispenser et du choix du matériel didactique; le contenu des cours n’avait pas à être approuvé par l’appelante;
+h) le travailleur avait également la responsabilité de convenir avec les clients son horaire de travail; il pouvait annuler des cours, les refixer et même se faire remplacer par un autre professeur qu’il devait lui-même trouver et ce, sans l’approbation préalable de l’appelante;
+i) le travailleur contrôlait son horaire de travail et il n’était pas tenu d’effectuer un nombre d’heures minimum dans une semaine, un mois ou une session; de plus, il choisissait ses jours de congé et ses périodes de vacances; le travailleur n’avait à produire aucun rapport sur son emploi du temps;
+j) le travailleur n’était pas tenu de fournir de rapport hebdomadaire ou autre sur l’évolution de son travail et sur la méthodologie adoptée pour donner ses cours;
+k) au cours de la période concernée, le travail du travailleur n’a fait l’objet d’aucune supervision de la part de l’appelante et aucune mesure disciplinaire n’a été prise contre lui;
+l) le travailleur était payé mensuellement sur production d’une facture montrant le nom des clients à qui des cours ont été dispensés au cours du mois, leur niveau, les jours où les cours ont été dispensés et le nombre d’heures d’enseignement; ces factures indiquaient également les demandes de remboursement de frais, tels les frais de transport, de repas et de stationnement;
+m) le travailleur n’avait droit à aucun avantage normalement associé à une charge ou à un emploi, tels que fonds de pension, paie de vacances, congé de maladie, assurances collectives, etc. Aucune déduction à la source au titre de l’impôt sur le revenu n’était effectuée par l’appelante sur les sommes versées au travailleur;
+n) en 2005, l’appelante comptait 8 ou 9 employés surtout impliqués dans l’administration de l’entreprise, sauf un formateur qui pour des raisons familiales avait demandé d’avoir le statut d’employé.
+[12] Les indices suivants tendant à démontrer l’existence d’un lien de subordination entre l’appelante et le travailleur. Sont également ressortis des témoignages et des documents mis en preuve :
+a) le 18 septembre 2003, le travailleur a conclu avec l’appelante une entente renfermant notamment des clauses de non-sollicitation et de confidentialité et des clauses concernant la propriété des droits de propriété intellectuelle développés ou créés dans le cadre de l’exécution de son travail;
+b) les évaluations faites par les étudiants à la fin de chaque session conformément aux exigences d’Emploi-Québec et dont une copie était remise à l’appelante;
+c) en conformité avec les exigences d’Emploi-Québec, le travailleur devait remettre à la fin de chaque session des fiches de présence à l’appelante pour attester de la durée de la formation, des étudiants ayant participé à la formation et de la réussite des cours;
+d) le travailleur a participé à des ateliers de formation dispensés par l’appelante aux nouveaux formateurs et, de temps à autre, par la suite; au cours de la période visée, il a assisté à 3 ateliers et il a été payé pour la durée de ces ateliers au taux de 8 $ l’heure;
+e) le remboursement de certaines dépenses par l’appelante, tels les frais de transport et de stationnement;
+[13] Le travailleur a réclamé le statut d’employé auprès de l’appelante après avoir mis fin à ses relations d’affaires avec l’appelante au mois d’août 2005. Par la suite, il a été un membre-fondateur de la Coopérative linguistique du Québec, une nouvelle coopérative de travailleurs offrant des cours d’anglais comme langue seconde aux entreprises ainsi que des services de traduction. Cette nouvelle coopérative a débuté ses opérations en septembre 2006.
+[14] L’appelante était très consciente de l’importance du statut fiscal des formateurs et, sans exception, elle ne faisait affaires qu’avec des personnes qui acceptaient d’être des travailleurs autonomes. D’ailleurs, un des ateliers de l’appelante portait justement sur la fiscalité des travailleurs autonomes. Le fait que le travailleur ait enregistré une raison sociale en février 2002 et qu’il ait demandé à ce que les montants de ses factures soient déposés dans le compte de banque de sa compagnie démontre clairement, à mon avis, qu’il avait accepté son statut de travailleur autonome.
+[15] Pour ce qui est de la notion de « contrôle », l’aspect important n’est pas de déterminer le degré de contrôle réel exercé mais plutôt de cerner le pouvoir de contrôle de l’appelante sur le travailleur, tel que décrit dans la décision 9041-6868 Québec Inc. c. Canada, 2004 CCI 648. Dans le cas en l’espèce, il est assez évident que le contrôle n’a pas été exercé par l’appelante sur le travailleur. La question qui se pose est de savoir si l’appelante avait le pouvoir d’exercer un tel contrôle sur le travailleur. Selon les obligations respectives des parties, je ne crois pas que l’appelante avait la capacité ou le pouvoir de contrôler le travailleur. Quel contrôle peut vraiment exercer une entreprise sur un travailleur qui peut, en tout temps et sans préavis, mettre fin à ses relations d’affaires? Si contrôle il y avait de la part de l’appelante, il s’agissait du contrôle des résultats du travail et non pas du contrôle du travailleur ou du contrôle dans l’exécution de ses fonctions de formateur. De plus, comme le juge Létourneau de la Cour d’appel fédérale l’a dit au paragraphe 16 dans l’arrêt Poulin c. Canada, 2003 CAF 50, même les contrats de services sont sujets à une certaine forme de contrôle;
+[. . . ]
+la notion du contrôle n’est pas nécessairement absente du contrat de services
+[. . . ]
+Les travaux exécutés par contrat de services sont aussi soumis à des contrôles d’exécution, de productivité et de qualité.
+[16] Pour ce qui est des critères énoncés par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, soit le degré ou l’absence de contrôle exercé par l’appelante, la propriété des instruments de travail, les chances de profit ou les risques de perte et l’intégration du travail du travailleur dans l’entreprise de l’appelante, il y a lieu de mentionner que ces critères n’ont pas une grande utilité en l’espèce. La notion de contrôle a été examinée aux paragraphes précédents; la propriété des instruments de travail nécessaires à l’exécution du travail n’est pas très révélateur compte tenu de la nature des services rendus, des besoins desservis et du peu d’instruments de travail utilisés; les chances de profit et les risques de perte sont pratiquement inexistantes alors que le facteur d’intégration aux activités de l’entreprise est de moins en moins utilisé vu la spécialisation des travailleurs.
+[17] Pour ces motifs, je conclus que le travailleur n’exerçait pas un emploi assurable auprès de l’appelante pour la période pertinente. Je dois toutefois préciser ici que chaque cas en cette matière est un cas d’espèce et qu’une décision sur le statut du travailleur n’entraîne pas nécessairement que les autres travailleurs de l’entreprise de l’appelante ont le même statut que celui du travailleur.
+[18] En conséquence, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 25e jour de septembre 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 524
+Nº DU DOSSIER DE LA COUR : 2007-622(EI)
+INTITULÉ DE LA CAUSE : Les Entreprises Une Affaire D'anglais Inc. et M.R.N. et John Cheetham
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 29 novembre 2007 et
+les28 et 29 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 25 septembre 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Sarto Veilleux
+Avocat de l'intimé :
+Me Benoit Mandeville
+Pour l’intervenant :
+L’intervenant lui-même
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Sarto Veilleux
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenant :

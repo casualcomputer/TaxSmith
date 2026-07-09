@@ -1,0 +1,215 @@
+---
+title: "Kirkwood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26305/index.do"
+last_modified: "2003-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 76"
+citation2: ""
+neutral_citation: "2003 TCC 76"
+decision_date: "2003-03-14"
+language: "en"
+item_id: "26305"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3317
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:27:06.548000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8cb620342cffe544d93f637d89e3738d876ca25a5434cde3bd721bf975d98e75"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kirkwood v. The Queen
+
+- Citation: 2003 TCC 76
+- Decision date: 2003-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3317, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kirkwood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-14
+Neutral citation
+2003 TCC 76
+File numbers
+2000-530(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-530(IT)G
+BETWEEN:
+PETER KIRKWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of Peter Kirkwood Holdings Limited (2000-531(IT)G) on September 16, 2002 at London, Ontario
+Before: The Honourable Judge L.M. Little
+Appearances:
+Counsel for the Appellant:
+Graeme J. Sperryn
+Counsel for the Respondent:
+Daniel Bourgeois
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (the "Act") for the 1990 taxation year is allowed, without costs, and reassessments should be issued to reflect the terms as outlined in the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 14th day of March 2003.
+"L.M. Little"
+J.T.C.C.
+Docket: 2000-531(IT)G
+BETWEEN:
+PETER KIRKWOOD HOLDINGS LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on common evidence with the appeal of Peter Kirkwood (2000-530(IT)G) on September 16, 2002 at London, Ontario
+Before: The Honourable Judge L.M. Little
+Appearances:
+Counsel for the Appellant:
+Graeme J. Sperryn
+Counsel for the Respondent:
+Daniel Bourgeois
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1990 taxation year is allowed, without costs, and reassessments should be issued to reflect the terms as outlined in the attached Reasons for Judgment
+Signed at Vancouver, British Columbia, this 14th day of March 2003.
+"L.M. Little"
+J.T.C.C.
+Citation: 2003TCC76
+Date: 20030314
+Dockets: 2000-530(IT)G
+2000-531(IT)G
+BETWEEN:
+PETER KIRKWOOD,
+PETER KIRKWOOD HOLDINGS LIMITED,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+A. FACTS:
+[1] The appeals were heard in London, Ontario on common evidence.
+[2] At the commencement of the hearing the parties filed a Combined Partial Agreed Statement of Facts which reads as follows:
+1. The Appellant Peter Kirkwood is a Canadian resident who resides at 15 Cherokee Road, London, Ontario and was at all material times President, a director and sole shareholder of Peter Kirkwood Holdings Limited ("Holdings").
+2. The Appellant Peter Kirkwood Holdings Limited ("Holdings") is an Ontario Corporation incorporated on May 30, 1990.
+3. In or about September of 1990, Kirkwood Roussy Insurance Inc. ("KR Insurance") sold its book of business consisting of insurance clients (the "Book of Business") to Rowlands Insurance Limited ("Rowlands") and ceased further business operations.
+4. At the time of the sale of the Book of Business by KR Insurance to Rowlands, Peter Kirkwood Holdings Limited ("Holdings") owned all of the issued and outstanding share capital of KR Insurance so that KR Insurance was a wholly owned subsidiary of Holdings.
+5. On or about December 28, 1990, the Director of KR Insurance passed a Resolution to declare a capital dividend out of its capital dividend account in the amount of $94,000.00 to its sole shareholder, Holdings. Form T2054 to elect under Section 83(2) of the Income tax Act was prepared and filed together with a certified copy of such resolution required pursuant to Section 2101(b) of the Income Tax Regulations.
+6. On December 28, 1990, the Director of Holdings passed a Resolution declaring a capital dividend in the amount of $94,000.00 payable to its sole shareholder, Peter Kirkwood. Form T2054 to elect under Section 83(2) of the Income Tax Act was prepared and filed together with a certified copy of such resolution required pursuant to Section 2101(b) of the Income Tax Regulations.
+7. On December 31, 1990 a cheque was drawn on the bank account of KR Insurance payable to Holdings in the amount of $94,000.00. On the same date a cheque was issued on the bank account of Holdings in favour of Peter Kirkwood in the amount of $94,000.00. On the same date, December 31, 1990 a cheque was drawn on the personal account of Peter Kirkwood in favour of KR Insurance in the amount of $94,000.00. All three cheques were presented to the bank at the same instant.
+8. The fiscal year end for KR Insurance was September 30. The fiscal year end for Holdings was September 30.
+9. For accounting purposes, the cheque payable by Peter Kirkwood to KR Insurance was credited against indebtedness owing by the Appellant Peter Kirkwood to KR Insurance, which, on December 31, 1990, was greater than $94,000.00.
+10. On or about October 10, 1995, the Minister reassessed (assessed) KR Insurance for the fiscal period ending September 30, 1991) and determined monies owing for tax, in the amount of $50,068.25 together with interest and penalties.
+11. As part of the assessment for 1991, the Minister disallowed bad debt expenses claimed by KR Insurance of $48,000.00.
+12. On December 16, 1998 the Minister issued Notices of Reassessment against both Appellants pursuant to subsection 160 of the Income Tax Act (the "Act") in the amount of $94,000.00 each.
+B. ISSUE
+[3] The issues are:
+(a) Whether each of the Appellants is subject to tax on a joint and several basis under section 160 of the Income Tax Act (the "Act"); and
+(b) Is KR Insurance ("KRI") allowed to deduct a bad debt in the amount of $48,000.00 in determining its tax liability for the 1991 taxation year?
+C. ANALYSIS
+[4] Section 160 of the Act reads as follows:
+160. (1) Where a person has, on or after the 1st day of May, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) his spouse or a person who has since become his spouse,
+(b) a person who was under 18 years of age, or
+(c) a person with whom he was not dealing at arm's length,
+the following rules apply:
+(d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74 to 75.1, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the aggregate of all amounts each of which is an amount that the transferor is liable to pay under this Act or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[5] Section 160 essentially provides that if a taxpayer has a tax liability and that taxpayer transfers property to a non-arm's length party the Minister may reassess the transferee to recover the tax owing by the original taxpayer but only to the maximum value of the amount that was transferred.
+[6] In order to determine if section 160 applies in this situation we must consider the following questions:
+(a) Was there a transfer of property from KRI and if so, to whom?
+(b) Did KRI owe tax at the time of the transfer of the property?
+(c) If there was a transfer of property, was the transferee dealing at arm's length with the transferor?
+[7] With respect to whether there was a transfer of property from KRI, counsel for the Appellant argued that the transfer of the cheques in question represented nothing more than a "shuffling of paper" where one cheque covered the other and hence nothing really happened to constitute a transfer.
+[8] Counsel for the Appellant also noted that the lack of funds in the accounts of KRI and Holdings meant that the dividends that were declared could not be realized.
+[9] Because of the lack of funds in the bank accounts of KRI and Holdings, counsel for the Appellants maintained that there was "no value" to the transaction. Counsel for the Appellants specifically noted that since there were no funds in the bank accounts of KRI and Holdings, there could be no transfer of funds.
+[10] The above facts indicate that KRI sold its Book of Business in 1990 for $390,000.00. The funds received on the sale were added to the capital dividend account of KRI and became the source of funds from which the dividend was taken. Mr. Kirkwood said that his accountants determined that the sum of $94,000.00 was the amount that should be declared as a capital dividend.
+[11] In my opinion it follows that there was, in fact, value behind the dividend. I reject the Appellants' argument that there was no value when the capital dividend was declared by KRI.
+[12] Counsel for the Respondent also argued that any liability imposed by section 160 of the Act must be reduced by the fair market value of any consideration given for that transfer. In my opinion there was no consideration provided on the transfer of the funds.
+[13] In this situation there were three transfers of funds:
+1. Mr. Kirkwood deposited $94,000.00 in the bank account of KRI;
+2. KRI transferred $94,000.00 to the bank account of Holdings; and
+3. Holdings transferred $94,000.00 to Mr. Kirkwood.
+[14] Mr. Kirkwood owned all of the shares of Holdings and Holdings owned all of the shares of KRI. It therefore follows that Mr. Kirkwood was not dealing with KRI or Holdings at arm's length. (See section 251 of the Act.)
+[15] Based on this analysis of the transaction as outline above I believe that there was a transfer within the meaning of section 160 of the Act.
+[16] We must next determine if KRI had a tax liability for the purpose of determining whether section 160 applies. According to the Notification of Confirmation issued by the Minister on November 30, 1999 KRI was reassessed on October 10, 1995 and tax, interest and penalties were assessed as follows:
+Federal Tax $50,068.25
+Interest $49,758.20
+Penalties $8,511.60
+[17] During the hearing counsel for the Appellants suggested that Mr. Kirkwood should not be subject to tax under section 160 because of the "cascading" argument that had been referred to in other cases. Counsel for the Appellants referred to the case of Nanini v. Canada, [1994] T.C.J. No. 426 where Judge Tremblay found that the automatic application of section 160 to transferees receiving property after it has passed through another transferee creates a "cascading effect" and section 160 should not apply to the second transferee.
+[18] I have also considered the case of Jurak v. The Queen, 2002 DTC 1236. In that case Madam Justice Lamarre Proulx of the Tax Court of Canada did not follow Mr. Justice Tremblay's decision in Nanini. She wrote in her decision:
+Malgré toute la déférence que j'ai pour le savant juge Tremblay, je ne peux le suivre dans sa décision Nanini (supra). Cette interprétation n'a pas été reprise par les juges de cette Cour. Le bénéficiaire d'un transfert peut devenir lui-même l'auteur d'un transfert sujet à l'application du paragraphe 160(1) de la Loi si au moment du deuxième transfert, il est lui-même débiteur fiscal soit de son propre chef ou en tant que débiteur solidaire avec le premier auteur.
+[19] The Jurak decision is a recent decision, and no official translation has been released. The above paragraph can be translated as follows:
+Despite all the respect I have for the learned Judge Tremblay, I cannot follow his decision in Nanini (supra). This interpretation has not been taken up by the judges of this Court. The beneficiary of a transfer can become the author of a transfer subject to the application of subsection 160(1) of the Act if, at the moment of the second transfer, he is liable for tax either of his own doing or as a result of joint liability with the first author.
+[20] I believe that Judge Lamarre Proulx in Jurak has properly interpreted the wording of section 160 and I do not believe that Mr. Kirkwood can escape liability under section 160 based upon the cascading argument.
+[21] I have also considered the claim made by counsel for the Appellant that KRI is entitled to deduct a bad debt in determining its income for the 1991 taxation year.
+[22] At the hearing Graeme Sperryn, counsel for the Appellant, stated that as far as bad debts of KRI were concerned he could only provide evidence of bad debts totalling $19,800.00 (not $48,000.00 as referred to in the Notice of Appeal. (See page 39 of the transcript)
+[23] Mr. Kirkwood testified that the figure of $19,800.00 was a write-off of an account receivable by KRI. In my opinion KRI should be allowed to deduct a bad debt in the amount of $19,800.00 in determining its income for the 1991 taxation year.
+[24] Justification for the reassessment of KRI can be found in Thorsteinson v. MNR, 80 DTC 1369, where the Court held that a taxpayer who was reassessed under section 160 was entitled to have the Court consider the underlying reassessment that gave use to the section 160 reassessment.
+[25] The appeals of the Appellants are allowed, without costs, and the Minister is to reassess the 1991 taxation year of KRI to allow a bad debt in the amount of $19,800.00. The Minister is also to reassess the Appellants to recognize the reduction in the tax liability.
+[26] In determining the tax liability of Mr. Kirkwood and Holdings under section 160 the Minister must recognize that a section 160 reassessment does not create a tax debt and therefore Mr. Kirkwood and Holdings should not be assessed for interest after the date of the transfer (see Algoa Trust v. The Queen, 98 DTC 1614).
+Signed at Vancouver, British Columbia, this 14th day of March 2003.
+"L.M. Little"
+J.T.C.C.
+CITATION:
+2003TCC76
+COURT FILE NOS.:
+2000-530(IT)G, 2000-531(IT)G
+STYLE OF CAUSE:
+Peter Kirkwood and
+Peter Kirkwood Holdings Limited
+v. Her Majesty the Queen
+PLACE OF HEARING
+London, Ontario
+DATE OF HEARING
+September 16, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge L.M. Little
+DATE OF JUDGMENT
+March 14 2003
+APPEARANCES:
+Counsel for the Appellants:
+Graeme J. Sperryn
+Counsel for the Respondent:
+Daniel Bourgeois
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Graeme J. Sperryn
+Firm:
+Siskinds,
+London, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

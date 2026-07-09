@@ -1,0 +1,212 @@
+---
+title: "Anderson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30960/index.do"
+last_modified: "2012-09-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 333"
+citation2: ""
+neutral_citation: "2012 TCC 333"
+decision_date: "2012-09-21"
+language: "en"
+item_id: "30960"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4834
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:09:45.036000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "83767a8e8410081c71bf4bfa8f618c5875ddd88ec38cb5625425b1dca4880509"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson v. The Queen
+
+- Citation: 2012 TCC 333
+- Decision date: 2012-09-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4834, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-09-21
+Neutral citation
+2012 TCC 333
+File numbers
+2010-1646(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1646(GST)G
+BETWEEN:
+LANCE ANDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2012, at Toronto, Ontario.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Roxanne Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act (the “GST Act”), notice of which is dated April 14, 2008, is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is liable under subsection 323(1) of the GST Act to pay $255,625.81.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 21st day of September 2012.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2012TCC333
+Date: 20120921
+Docket: 2010-1646(GST)G
+BETWEEN:
+LANCE ANDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is whether the Appellant is liable, as a director, for net tax that Empire Pubs Limited (the “Company”) failed to remit under Part IX of the Excise Tax Act (the “GST Act”).
+[2] On April 14, 2008, the Minister of National Revenue (the “Minister”) assessed the Appellant $269,911.58 in respect of the failure of the Company to remit an amount of net tax as required under subsection 228(2) of the GST Act. The amount assessed included interest and penalties payable by the Company.
+[3] The Appellant filed a notice of objection to the assessment. On February 16, 2010, the Minister confirmed the assessment. The Appellant then appealed the assessment to this Court.
+[4] The Respondent’s counsel informed the Court at the commencement of the hearing that the Minister had made an error with respect to the amount assessed. The amount assessed should have been $255,625.81.
+[5] The Appellant and Ms. Nancy Eichenberger, a Canada Revenue Agency (“CRA”) official, testified at the hearing.
+Summary of the Relevant Facts
+[6] The Appellant and his father incorporated the Company on December 31, 1982. Originally, the Appellant and his father were the common shareholders and directors of the Company. However, at the time of the introduction of the GST in 1991, the Appellant was the only director and shareholder of the Company.[1]
+[7] The Appellant is a sophisticated businessperson. He holds a Bachelor of Commerce degree from the University of Toronto and obtained his Chartered Accountant designation in 1980. Between his graduation from university and 1986, he worked for Clarkson Gordon, Burns Fry, and the Toronto Stock Exchange. He joined the Company in 1982.
+[8] The Company was formed to carry on the business of owning and operating pubs located close to the Toronto subway. By 1987, the Company owned five pubs, the Sticky Wicket, the Guv’nor Pub, the Spotted Dick, the Porkers’ Stern and the Jersey Giant.
+[9] The Appellant testified that the Company began, in the early 1990’s, to experience financial difficulties. He blamed the financial difficulties on the introduction of the GST and on the recession that hit the Canadian economy in 1992.
+[10] According to the Appellant, the Company responded to these difficulties by curtailing its expansion plans and reducing its staff. He noted that the recession resulted in a significant credit “crunch”, which limited the ability of the Company to raise funds or sell pubs.
+[11] The Company decided in 1994 to sell or close the five pubs that it owned. The Company sold the first pub in the fall of 1994. Three of the remaining pubs were sold in 1995 and the first half of 1996. The Company closed the fifth pub. The Appellant referred to this as an orderly liquidation of the pubs.
+[12] The Appellant noted that, after Company sold the last pub, it began to carry on the business of building turnkey pubs for third parties. The Company would enter into a lease with a property owner, build a pub on the site and then sell the completed pub to a third party. The Company would also purchase an existing pub and then sell the pub to a third party.
+[13] The Company carried on this business from 1996 until 2003. The Appellant testified that this business ended in 2003. However, it became clear during cross‑examination of the Appellant that the business of building turnkey pubs did not end in 2003. Rather, Empire Freehouse Incorporated, a new corporation incorporated by the Appellant’s spouse, continued the business.
+[14] The Appellant’s testimony with respect to the termination of the Company’s business of selling turnkey pubs damaged his credibility. In fact, I do not believe the Appellant was completely forthcoming when testifying before the Court. The Appellant’s testimony with respect to the proceeds realized on the sale of the pubs is another example of testimony that damaged his credibility.
+The Law
+[15] Subsection 323(1) of the GST Act provides that the directors of a corporation are jointly and severally liable to pay any amount of net tax that the corporation fails to remit. A director’s liability under subsection 323(1) includes any interest on, or penalties relating to, the net tax that is not remitted.
+[16] Paragraph 323(2)(a) of the GST Act provides that a director is not liable under subsection 323(1) unless “a certificate for the amount of the corporation’s liability . . . has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part.”
+[17] In addition, under subsection 323(3) of the GST Act, a director is not liable under subsection 323(1) “where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.”
+[18] The Appellant admits that he was a director of the Company at the time it failed to remit tax and pay interest and penalties totaling $255,625.81. Further, the Appellant did not challenge the evidence of the Respondent that the conditions in subsection 323(2) of the GST Act were satisfied. The Appellant’s sole argument is that his conduct satisfies the requirements of the due diligence defence contained in subsection 323(3).
+[19] It is a question of fact whether the Appellant, in his role as director of the Company, exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances. The standard of care, skill and diligence required under subsection 323(3) of the GST Act is an objective standard.[2] The burden is on the Appellant to show that he has satisfied the conditions of subsection 323(3).
+Application of Due Diligence Defence
+Preliminary Issue
+[20] It is the Respondent’s position that the $255,625.81 assessed under section 323 relates to twenty-three quarterly reporting periods of the Company ending between January 31, 1995 and April 30, 2003.
+[21] The Appellant disagrees. It is the Appellant’s position that the $255,625.81 relates primarily to quarterly reporting periods of the Company ending in 1992, 1993 and 1994.
+[22] The Appellant disagrees with how the CRA applied the numerous payments made by the Company between June 1994 and September 1998. Counsel for the Appellant argued that the determination of the relevant reporting periods is important for the purposes of the due diligence defence since the defence arises with respect to the failure to remit for a specific reporting period.
+[23] Both parties presented evidence with respect to the net tax of the Company for specific reporting periods and with respect to the payments made by the Company. I have divided this evidence into the following three periods:
+· GST reporting periods of the Company ending between January 31, 1991 and October 31, 1993 (the “1991-1993 Period”).
+· GST reporting periods of the Company ending between January 31, 1994 and October 31, 1998 (the “1994-1998 Period”).
+· GST reporting periods of the Company ending between January 31, 1999 and July 31, 2003 (the “1999-2003 Period”).
+[24] The Appellant provided a summary of the net tax of the Company and the payments made by the Company during all of the relevant periods.[3] With respect to the 1991-1993 Period, the Appellant noted that the Company reported positive net tax in each of its reporting periods but only made one payment to the CRA, an amount of $5,664 remitted on March 5, 1991. However, the Company did not remit $241,749 of net tax that it reported on its GST returns for the reporting periods ending in the 1991-1993 Period.
+[25] The Respondent’s evidence[4] in that regard is consistent with the Appellant’s evidence.
+[26] In summary, at the end of the 1991-1993 Period the Company owed $241,749 plus interest and penalty interest in respect of late GST remittances.
+[27] The Appellant’s evidence shows that the Company reported positive net tax in sixteen of its twenty reporting periods ending in the 1994-1998 Period. The reported positive net tax in these sixteen periods totalled $140,811. In the remaining four reporting periods, the Company claimed refunds of $16,925.[5]
+[28] It was the Appellant’s evidence that the Company made payments on its GST account of $384,687 during the 1994-1998 Period.[6] The Appellant testified that the Company wanted the CRA to first apply a payment to any positive net tax of the Company that arose in the reporting period in which the payment was made to the CRA. Any excess amount would then be applied to amounts owed for prior reporting periods.
+[29] The Appellant acknowledged that the Company did not make any payments for the three quarterly reporting periods of the Company ending on April 30, 1994, April 30, 1995 and April 30, 1996. The Company reported positive net tax for each of these reporting periods.
+[30] The Respondent’s evidence is consistent with the Appellant’s with respect to the reported net tax of the Company during the 1994-1998 Period.[7] However, the Respondent does not agree with the Appellant’s evidence with respect to payments made by the Company.
+[31] The Respondent provided a computer-generated schedule that summarizes the information in the CRA’s records with respect to payments made by the Company.[8] The schedule shows that during the 1994-1998 Period the Company made payments to the CRA of $580,928. However, the Company made $211,040 of these payments by cheques that the Company’s bank returned because of insufficient funds in the Company’s bank account. As a result, it is the Respondent’s position that the actual amount received by the CRA was $369,888.
+[32] I accept the Respondent’s evidence. The evidence before me shows that certain of the amounts that the Appellant claims were payments were remitted by cheques that were subsequently returned. Further, the Appellant has acknowledged that the total amount assessed is correct. If the total amount assessed is correct, then it would appear reasonable to conclude that the CRA’s calculation of the payments made by the Appellant is also correct.
+[33] The Respondent’s witness testified that the CRA applied the payments received to specific reporting periods on the basis of the remittance slip used by the Company. She noted that if the Company remitted the payment with a GST tax return for a specific reporting period (regardless of whether the return was filed on time) the CRA applied the payment to that reporting period. Alternatively, if the Company did not remit the payment with a GST tax return, the CRA treated the payment as an arrears payment and applied it to the Company’s outstanding liability beginning with the first reporting period of the Company in respect of which it owed an amount. She noted that the CRA provided different remittance slips for payments made with a return and for arrears payments.
+[34] It is the Respondent’s position that the CRA only received five payments (totalling $24,832) with returns filed by the Company for the 1994-1998 Period. The CRA considered the remaining payments to be arrears payments and applied those payments to the Company’s outstanding liability beginning with the first reporting period of the Company in respect of which it owed an amount.
+[35] In summary, it is the Appellant’s position that the amount assessed relates to four of the Company’s reporting periods that ended in the 1994-1998 Period. It is the Respondent’s position that the amount assessed relates to eleven of the Company’s reporting periods that ended in the 1994-1998 Period.
+[36] Before leaving the 1994-1998 Period, it is important to note that most of the payments made by the Company during this period were made pursuant to payment arrangements between the Company and the CRA’s collections division. The evidence before me discloses the following payment arrangements (although there may have been others):
+· In 1994, the Company agreed to pay $20,000 per month in respect of its outstanding GST liability. It provided the CRA with six cheques; all of the cheques were returned by the bank because of insufficient funds.
+· In December 1994, the Company made an $80,000 payment to the CRA. The Appellant testified that his spouse, who increased the mortgage on the family home, supplied the money.
+· In September 1995, the Company made a $108,353 payment to the CRA. This amount was paid pursuant to a direction in favour of the CRA that required the Company’s lawyers to pay the amount out of the proceeds received on the sale of the Sticky Wicket.
+· In the fall of 1995, the Company agreed to pay $5,000 per month in respect of its outstanding GST liability. It provided the CRA with six cheques, three of which were returned by the bank because of insufficient funds.
+· In the fall of 1996, the Company agreed to pay $6,000 per month in respect of its outstanding GST liability. It provided the CRA with twenty-four cheques; six of the cheques were returned by the bank because of insufficient funds.
+[37] With respect to the 1999-2003 Period, the Appellant’s evidence shows that the Company reported positive net tax in twelve of its nineteen reporting periods. The reported positive net tax in these periods totalled $51,451. In the remaining seven reporting periods, the Company claimed refunds of $67,420.
+[38] It was the Appellant’s evidence that a single payment was made to the CRA during the 1999-2003 Period. This payment was for $2,651 in respect of the Company’s reporting period ending on October 31, 2000. The Appellant acknowledged that the Company did not make any payments in respect of the remaining $48,800 of net tax the Company reported for the 1999-2003 Period.[9]
+[39] The Respondent’s evidence is consistent with the Appellant’s evidence with respect to the net tax and refunds reported by the Company. However, the Respondent does not agree that the Appellant made a payment of $2,651 during the period. I accept the Respondent’s evidence on this point. Although the Appellant provided copies of cheques to support the payments made during the 1994-1998 Period, he did not provide a copy of the $2,651 cheque that he claims the Company provided to the CRA during the 1999-2003 Period. In addition, the Appellant has agreed that the Respondent’s calculation of the amount owing by the Company is correct.
+[40] In summary, the Company failed to remit net tax of $51,451 in respect of its GST reporting periods ending in the 1999-2003 Period. Appendix A to the Amended Reply shows that $89,371 of $255,626 assessed under section 323 of the GST Act relates to the 1999-2003 Period. This amount includes the $51,451 of net tax plus interest and penalty interest.
+[41] As a result, the issue is whether the remaining $166,255 assessed relates to reporting periods of the Company ending in 1992, 1993 and 1994 (the Appellant’s position) or reporting periods ending in 1995, 1996, 1997 and 1998 (the Respondent’s position).
+[42] As counsel for the Respondent noted, the law in this area is well settled. It was summarized by the Federal Court – Trial Division in 464734 Ontario Inc. et al. v. The Queen, 90 DTC 6206 at page 6215 as follows:
+Where no direction is given by the debtor then the creditor is free to apply the monies received as the creditor sees fit. The debtor must expressly authorize how the funds he is paying to the creditor are to be applied and failure to do so leaves the creditor to decide. . . .
+[43] There was no evidence before me that either the Appellant or the Company provided written directions to the CRA with respect to how the CRA was to apply the payments. The Appellant testified that he made the “comment” to CRA collections officials on numerous occasions that the payments should first be applied to the current reporting periods and any excess then applied to outstanding amounts in respect of prior reporting periods.[10]
+[44] Ms. Eichenberger testified that the Appellant did not provide her with instructions with respect to how the payments were to be allocated. Further, she reviewed the CRA’s records and could not find any past communication from the Company directing how the payments should be allocated.
+[45] It appears to me that if the Company had wanted amounts allocated to certain reporting periods then it would have provided written instructions at the time it made the payments to the CRA. At a minimum, one would expect written instructions to have been provided with the large payments made in 1994 and 1995, particularly the payments of $80,000 and $108,353.
+[46] After considering all of the evidence, I have concluded that the Company did not provide directions to the CRA with respect to how the CRA was to apply the Company’s payments.
+[47] However, this issue is not determinative of the appeal. As I will discuss, there is no evidence before me that the Appellant, at any time between 1992 and 2003, took any steps to prevent the failure by the Company to remit its GST.
+Due Diligence Defence
+[48] The Appellant, during his testimony, and his counsel, during argument, focused on the Appellant’s actions during 1992, 1993 and 1994. Counsel for the Appellant argued that, in those years, the Appellant was exercising diligence to prevent the failure of the corporation to remit tax for reporting periods of the Company ending in those years.
+[49] The Appellant testified that between 1991 and the cessation of the Company’s operations in 2003 it was he who directed the operation of the Company’s business and its financial reporting. He also acknowledged that he prepared 90% of the GST returns. The Company’s bookkeeper prepared the remaining GST returns, which were reviewed by the Appellant and then filed.
+[50] On cross-examination, the Appellant conceded that the Company filed a number of its GST returns late. This is an understatement. Exhibit R8 provides the filing history of the Company for its thirty-five GST quarterly reporting periods ending between November 1, 1994 and July 31, 2003. The Company reported positive net tax in twenty-six of the reporting periods. During those nine years, thirty-three of the Company’s thirty-five GST returns were filed late. Many of the returns were filed one year or more after their due date.
+[51] The Appellant testified that he first became aware that the Company was behind in its GST remittances in the summer of 1991. Since he was the person who prepared and filed the returns and directed the Company’s operation, it is clear that he was aware of the Company’s failure on May 31, 1991, the date that the Company’s return for its second reporting period was due, and the Company failed to remit at least $20,000 of its net tax for the period.
+[52] The Appellant stated that the Company responded to its failure to remit the GST by curtailing its expansion plans and reducing its staff at the pubs and its head office. He noted that the 1992 recession had caused a severe credit crunch that limited the ability of the Company to raise funds.
+[53] The witness testified that he took the following steps to mitigate or stop late remittances:
+· The business was started with a strong business plan.
+· The Company was properly capitalized and was a proven concept.
+· The Company put in place a proper accounting system.
+· Once the Company realized that the situation would not improve and when the credit market improved, it began to sell the pubs.
+[54] None of these actions constitute a due diligence defence under subsection 323(3) of the GST Act. As the Federal Court of Appeal noted in Buckingham, the duty of care in subsection 323(1) of the GST Act is intended to prevent the failure by a corporation to remit net tax. The Federal Court of Appeal stated that in order to rely on the subsection 323(3) defence, “. . . a director must . . . establish that he turned his attention to the required remittances and that he exercised his duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.”[11]
+[55] There is no evidence before me that the Appellant took any steps to prevent the failure by the Company to remit its positive net tax. Rather, the evidence before me shows that the Appellant was the person who decided not to remit the tax. The evidence shows that the Appellant made this decision in an effort to keep the pubs operating, presumably with the hope that the financial position of the Company would improve or that the pubs could be sold.
+[56] The Appellant and his counsel placed a great deal of weight on the sale of the pubs. During his testimony, the Appellant emphasized that the Company used the proceeds from the sale of the pubs to pay the outstanding GST. Counsel for the Appellant argued that the Appellant showed himself to be diligent by selling the pubs to raise funds to pay the GST.
+[57] The evidence before me does not support a factual finding that the Company used the proceeds from the sale of the pubs to pay the outstanding GST liability.
+[58] The four pubs were sold between October 1994 and the summer of 1996. The Appellant testified that the sales raised gross proceeds of $750,000 and “net” proceeds of $433,000 (after paying off secured lenders, landlords and some other creditors). He testified that the Company used the net proceeds to pay the outstanding GST debt.
+[59] However between October 1994 and the end of 1996 the Company only paid $230,353 in respect of its outstanding GST remittances. The Appellant testified that $80,000 of the $230,353 came from a second mortgage on his home, meaning that, at most, $150,000 came from the sale of the pubs. This represents only 20% of the gross proceeds realized on the sale of the pubs. It is my view, based upon the evidence before me, that the Company used 80% of the sale proceeds to pay outstanding debts of the Company and fund the ongoing consulting business of the Company.
+[60] The Appellant’s testimony with respect to the sale of the pubs and the use of the proceeds seriously damaged his credibility.
+[61] Regardless, the Appellant’s actions of continuing the operation of the pubs for three years while failing to remit over $240,000 of GST in the hope that this failure could be corrected if the business recovered or the pubs were sold does not constitute a defence under subsection 323(3) of the GST Act. As the Federal Court of Appeal stated in Buckingham:
+. . . In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuation of the operations of the corporation. It is precisely such a situation which both section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act seek to avoid. The defence under subsection 227.1(3) of the Income Tax Act and under subsection 323(3) of the Excise Tax Act should not be used to encourage such failures by allowing a due diligence defence for directors who finance the activities of their corporation with Crown monies on the expectation that the failures to remit could eventually be cured.[12]
+[62] The Appellant provided no evidence with respect to any steps he took to prevent the failure of the Company to remit GST in the years after it sold the pubs. This is surprising since the Appellant accepts that the amount assessed properly includes $88,371 in respect of the 1999-2003 Period. The Appellant’s own evidence shows that the Company failed to pay the net tax that is included in the $88,371 (the remainder being interest and penalty interest).
+[63] In summary, there is no evidence before me that the Appellant took any steps during the twelve-year period at issue to prevent the Company’s failure to remit its positive net tax. In fact, it is clear from the evidence before me that the Appellant made the decision not to remit the tax. The Appellant considered the GST charged on the Company’s sales to be part of the Company’s revenue. He viewed positive net tax for a specific GST reporting period of the Company as an expense of the business that was to be accrued and only paid when the Company had excess funds.
+[64] For the foregoing reasons, the appeal is allowed with costs to the Respondent. The assessment dated April 14, 2008 is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is liable under subsection 323(1) of the GST Act to pay $255,625.81.
+Signed at Ottawa, Canada, this 21st day of September 2012.
+“S. D’Arcy”
+D'Arcy J.
+CITATION: 2012TCC333
+COURT FILE NO.: 2010-1646(GST)G
+STYLE OF CAUSE: LANCE ANDERSON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 16, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT: September 21, 2012
+APPEARANCES:
+Counsel for the Appellant:
+David M. Piccolo
+Counsel for the Respondent:
+Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. Piccolo
+Firm: David M. Piccolo
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant held his shares, directly and indirectly through a holding company.
+[2] The Queen v. Buckingham, 2011 FCA 142, 2011 DTC 5078 (“Buckingham”).
+[3] Exhibit A6.
+[4] Exhibit R9.
+[5] Exhibit A6.
+[6] Exhibits A6 and A3.
+[7] Exhibit R9.
+[8] Ibid.
+[9] See Exhibit A6.
+[10] Transcript, pages 31-32.
+[11] Buckingham, supra, at para. 40.
+[12] Buckingham, supra, at para. 49.

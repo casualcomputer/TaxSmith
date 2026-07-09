@@ -1,0 +1,220 @@
+---
+title: "Colavecchia c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29741/index.do"
+last_modified: "2010-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 194"
+citation2: ""
+neutral_citation: "2010 CCI 194"
+decision_date: "2010-04-09"
+language: "fr"
+item_id: "29741"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6548
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:07:12.636000+00:00"
+cases_cited_count: 4
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c9c5cda3309cb34dd09ca3d80dc14aa0f2918981d40b86a2ac7d14bcebc87538"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Colavecchia c. La Reine
+
+- Citation: 2010 CCI 194
+- Decision date: 2010-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6548, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Colavecchia c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-09
+Référence neutre
+2010 CCI 194
+Numéro de dossier
+2009-2418(IT)I
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009­2418(IT)I
+ENTRE :
+GIUSEPPE COLAVECCHIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ________________________________________________________________
+Appel entendu le 16 février 2010, à Toronto (Ontario).
+Devant : L'honorable juge T. E. Margeson
+Comparutions :
+Représentant de l'appelant :
+M. Alessandro Colavecchia
+Avocat de l'intimée :
+Me Ian Theil
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations établies conformément à la Loi de l'impôt sur le revenu pour les années d'imposition 2005 et 2006 sont rejetés, et les nouvelles cotisations du ministre sont ratifiées. Les dépens partie‑partie sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 9e jour d'avril 2010.
+« T.E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 3e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 194
+Date : 20100409
+Dossier : 2009­2418(IT)I
+ENTRE :
+GIUSEPPE COLAVECCHIA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Pour les années d'imposition 2005 et 2006, l'appelant a déduit des montants de 4 198,18 $ et de 4 241,78 $ au titre de frais afférents à un véhicule à moteur. Le ministre du Revenu national (le « ministre ») a refusé la déduction de ces frais et le refus a été confirmé dans un avis de ratification le 22 mai 2009. Le contribuable a interjeté appel devant la Cour.
+La preuve
+[2] Les pièces R‑1, A‑1 et A‑2 ont été admises sur consentement.
+[3] Au cours des années en question, l'appelant travaillait pour Con‑Drain Company (1983) Limited (la « société »). Le contremaître l'informait de l'endroit où il devait se présenter pour travailler. À l'occasion, il était informé par téléphone la veille. Pendant la journée de travail, il pouvait se faire dire d'aller à un autre endroit. Il utilisait sa propre voiture pour se rendre de chez lui au lieu de travail.
+[4] Au cours des années en question, il avait deux voitures familiales dont il se servait. Au lieu de travail, il y avait une roulotte qu'il pouvait utiliser pour changer de vêtements et manger son repas.
+[5] En contre-interrogatoire, il a souscrit aux hypothèses du ministre qui sont formulées aux alinéas 8a), b), c), d), e), h) et i). Il a nié les alinéas 8f), j) et k). En ce qui concerne l'alinéa g), il a dit qu'il apportait une pelle ou du ciment si le contremaître le lui ordonnait.
+[6] Il ne se souvenait pas des différents endroits où il avait travaillé ni des dates précises, mais il se rappelait les différents lieux de travail mentionnés à l'alinéa 8d) de la réponse.
+[7] Il a nié l'allégation énoncée à l'alinéa 8f), précisant qu'il se rendait à différents lieux de travail le même jour.
+[8] Il a soutenu qu'il avait effectivement versé les frais déduits et qu'il ne s'agissait pas de frais personnels ou de subsistance.
+[9] Il était aide‑poseur de tuyaux et faisait partie d'une équipe de cinq ou six personnes dont chacune devait exécuter des tâches précises.
+[10] Il utilisait habituellement la voiture Oldsmobile Achieva pour se rendre au travail, tandis que son épouse se servait de cette voiture ainsi que de la Plymouth Voyager.
+[11] Le contremaître mangeait dans la roulotte, mais il y avait une autre roulotte réservée à l'usage de l'entreprise.
+[12] L'appelant n'avait aucun reçu à l'égard des frais déduits et a expliqué qu'il les avait perdus. Il n'utilisait aucune carte de crédit et payait uniquement en argent comptant.
+[13] Il a identifié sa déclaration de revenus pour 2006, qui se trouve à l'onglet 2 de la pièce R‑1. Il avait signé le document, mais ne l'avait pas lu. Il l'avait signé parce qu'il se fiait au teneur de comptes.
+[14] En ce qui concerne son relevé des frais afférents à un véhicule à moteur, il a mentionné que certains des montants étaient des montants minimaux et d'autres, des montants estimatifs, comme les frais déduits pour le carburant et l'entretien.
+[15] Il avait fourni au teneur de comptes un montant final qu'il avait calculé à l'aide des petits bouts de papier qu'il conservait. Il n'a plus les bouts de papier en question.
+[16] Il a identifié son relevé des frais afférents à un véhicule à moteur pour l'année 2005, qui se trouve à l'onglet 1 de la pièce R‑1. Les déclarations qui y figurent lui ont été lues.
+[17] Les renseignements relatifs aux dépenses d'emploi déduites pour cette année‑là ont été présentés de la même façon que ceux pour l'année 2006. Les montants représentaient des montants estimatifs minimaux au titre des frais de carburant, et l'appelant utilisait les renseignements figurant sur les bouts de papier pour calculer le total de la distance parcourue. Encore là, il n'a plus ces bouts de papier.
+[18] Il a confirmé l'affidavit qu'il avait signé le 6 mars 2008 et qui se trouve à la page I‑24 de la pièce R‑1.
+[19] Il faisait une vidange d'huile tous les 5 000 kilomètres et inscrivait la distance parcourue. Il changeait également le filtre à huile.
+[20] L'appelant a également confirmé les renseignements figurant à la pièce R‑1, plus précisément aux pages I‑25, I‑26 et I‑27, au sujet de ses deux voitures. Il a dit qu'il s'agissait de son [TRADUCTION] « registre ». Il a aussi confirmé les renseignements apparaissant aux pages I‑37, I‑38, I‑44 et I‑45 en ce qui a trait à l'entretien et aux vidanges d'huile de ses deux voitures.
+[21] Les données mentionnées au sujet de la distance parcourue lui semblaient exactes. Le teneur de comptes avait probablement fait une erreur lors du calcul de la distance, puisqu'il avait inscrit 33 000 kilomètres dans la déclaration, alors qu'à la page I‑18, il avait inscrit uniquement 24 005 kilomètres. L'appelant ignorait laquelle des deux données était la bonne.
+[22] La distance de 11 555 kilomètres figurant à la page I‑34 était à peu près exacte, mais une distance de 23 000 kilomètres était inscrite dans la déclaration de revenus pour l'année 2006. La distance de 11 555 kilomètres était erronée.
+[23] On a montré à l'appelant la page I‑36 de la pièce R‑1, où il avait mentionné avoir parcouru une distance de 15 716 kilomètres, mais il a déclaré que seule une distance de 4 160 kilomètres correspondait à son usage personnel.
+[24] Lorsqu'il fait une vidange d'huile, il inscrit le mot « filtre »; cependant, lorsqu'on lui a montré la page I‑19 de la pièce R‑1, où le mot « filtre » n'apparaît pas, il a expliqué qu'il ne savait pas s'il s'agissait d'une vidange d'huile ou non, et ensuite, il a dit qu'il ne se souvenait pas ce que cette inscription signifiait.
+[25] On a montré à l'appelant une inscription figurant à la page I‑38 de la pièce R‑1 sous la date du 31 décembre 2006 au sujet de la Plymouth Voyager, mais le document indique que cette voiture a été mise à la ferraille en mars de cette année‑là.
+[26] Il a reconnu qu'il ne tenait pas de registre détaillé de ses activités quotidiennes. Il a également admis que les données relatives à la distance parcourue n'étaient pas tout à fait exactes pour 2005 et 2006. Il n'a pu trouver les reçus pour l'huile et les filtres qu'il avait achetés.
+[27] Nunzio Bitondo était le chef de la direction de la société, dont le siège social est situé à Cochrane, en Ontario. La société indique aux travailleurs l'endroit où ils doivent travailler. Leur travail est prévu à l'avance. Le contremaître appelle les travailleurs et leur dit où ils doivent aller pour travailler. Ils sont appelés la veille, que ce soit le jour ou le soir.
+[28] La société compte une centaine de lieux de travail, qui se trouvent principalement dans le Sud de l'Ontario, à Orillia, à Oshawa et à Hamilton. Les chantiers en question appartiennent à des tiers.
+[29] Monsieur Bitondo a cité le document figurant à l'onglet 4 de la pièce A‑1, qui énonce la politique de la société en ce qui a trait à l'obligation de posséder une voiture afin de pouvoir travailler pour la société. Il y a habituellement deux roulottes aux lieux de travail, dont l'une est réservée aux employés syndiqués et l'autre, aux employés de la société. Les employés syndiqués utilisent la roulotte pour se changer, pour ranger leurs effets personnels et pour manger.
+[30] En contre‑interrogatoire, M. Bitondo a dit qu'il avait signé les feuillets T‑2200. Le 15 janvier 2008, il avait fait parvenir à l'Agence du revenu du Canada une lettre expliquant la politique de la société au sujet de l'obligation pour l'employé d'avoir sa propre voiture.
+Arguments de l'appelant
+[31] Le représentant de l'appelant a soutenu qu'il n'était pas nécessaire que les travailleurs se rendent au lieu d'affaires habituel de la société. Il a cité l'arrêt Chrapko c. Canada, no A‑1359‑84, 6 octobre 1988 (C.A.F.), pour alléguer que les déductions que l'appelant avait faites devraient être accordées. À son avis, il appert de cet arrêt que l'alinéa 8(1)h) vise à permettre aux employés comme M. Chrapko, qui doivent exercer leurs fonctions à différents endroits, de déduire les frais qu'ils engagent pour se rendre à leurs lieux de travail secondaires comme s'il s'agissait de frais engagés pour exercer les fonctions de leur emploi.
+[32] Le représentant de l'appelant a également cité la décision que le juge Paris a rendue dans Rousseau c. La Reine, 2006 CCI 552, où la Cour a admis que les frais soient déduits lorsque le travailleur devait accomplir les fonctions de son emploi à différents endroits.
+[33] De plus, il a cité Royer c. La Reine, no 98‑707(IT)I, 16 février 1999, [1999] A.C.I. no 111 (QL) (C.C.I.), où la juge Lamarre Proulx a accepté le raisonnement suivi dans R. c. Merten, no T‑1971‑86, 9 octobre 1990 (C.F. 1re inst.), et dans Chrapko et a accepté la déduction de ces frais au motif que la Cour fédérale, Section de première instance, et la Cour d'appel fédérale avaient modifié le texte légal exigeant que le contribuable effectue le déplacement « dans l'exercice des fonctions de son emploi ».
+[34] En ce qui a trait au calcul des frais, le représentant de l'appelant a expliqué qu'il avait calculé la distance totale parcourue au moyen de Mapquest pour déterminer l'emplacement des lieux de travail en question, en se fondant sur les registres de présence de la société. Il avait aussi utilisé le prix moyen du carburant selon le ministre. Il avait révisé les dernières déductions demandées en diminuant le montant. De plus, il avait réclamé la déduction pour amortissement relative aux voitures en se fondant sur les renseignements obtenus du site Web du gouvernement en ce qui a trait à la valeur desdites voitures et il avait utilisé les cotes de consommation de carburant s'y rapportant.
+[35] Cette méthode de calcul est efficace et devrait être autorisée.
+[36] Le représentant a fait valoir que le ministre n'avait pas tenu compte du fait qu'il n'y avait aucun lieu d'affaires habituel pour l'appelant.
+[37] L'appelant se présentait à différents endroits et avait donc eu des frais afférents à un véhicule à moteur pour se déplacer dans l'accomplissement des fonctions de son emploi.
+[38] Il n'y avait aucun lieu d'affaires habituel, simplement un lieu d'affaires principal où l'employé n'est pas tenu de se rendre, puisqu'il doit plutôt travailler à différents endroits. En conséquence, l'employé ne peut pas contrôler ses frais et sa situation est semblable à celle qui a été décrite dans l'affaire Royer, c'est‑à‑dire qu'elle est visée par l'intention du législateur de créer une déduction à l'intention de ceux qui sont en mesure de contrôler leurs frais de déplacement vers leur principal lieu de travail, mais qui, parce qu'ils sont tenus de se présenter à différents endroits de travail, ne peuvent contrôler ces frais.
+[39] Selon le représentant, l'appel devrait être accueilli avec dépens.
+Arguments de l'intimée
+[40] L'avocat a fait valoir qu'il existe deux tendances jurisprudentielles opposées, soit celle représentée par l'arrêt Hogg c. La Reine, [2002] 4 C.F. 443, 2002 CAF 177, et celle représentée par l'arrêt Chrapko. Selon la première, le travailleur doit se déplacer et travailler, tandis que, selon la seconde, le travailleur n'est pas tenu de travailler pendant ses déplacements.
+[41] L'avocat a cité Potter c. Canada, 2008 CCI 228, où le juge Boyle a suivi la décision rendue dans O'Neil c. La Reine, no 1999‑3989(IT)I, 23 août 2000 (C.C.I.), laquelle a été confirmée dans l'arrêt Hogg, où il a été conclu que les déplacements effectués dans l'exercice des fonctions doivent nécessairement comprendre « l'exécution d'un service quelconque et non simplement constituer le déplacement de la maison au lieu de travail ».
+[42] Dans la présente affaire, l'appelant a confirmé, à l'alinéa 8e) de la réponse, qu'il se rendait simplement au lieu de travail.
+[43] L'avocat a également cité l'arrêt Daniels c. Canada (Procureur général), 2004 CAF 125, où la Cour d'appel fédérale a décidé que les frais doivent avoir été engagés dans le cadre des fonctions du contribuable et non simplement lui permettre d'accomplir celles‑ci.
+[44] Dans O'Neil, le juge Rip, alors juge de notre Cour, s'est exprimé ainsi au paragraphe 23 :
+23 [...] Dans les affaires qu'ils ont été appelés à trancher, les tribunaux anglais ont établi une nette distinction entre les frais engagés dans l'accomplissement des fonctions d'une charge ou d'un emploi et les frais engagés dans le but d'exécuter le travail initialement ou d'accomplir les tâches de cette charge de façon plus efficace. [...]
+[45] De l'avis de l'avocat, dans l'arrêt Chrapko, la Cour d'appel fédérale a fait preuve d'indulgence en permettant la déduction des frais, parce qu'elle n'a pas tenu compte du texte légal lorsqu'elle a fait allusion au déplacement dans l'exercice de l'emploi. Selon l'avocat, les décisions postérieures font davantage autorité pour ce qui est d'exiger que le déplacement soit effectué dans l'exercice des fonctions de l'emploi.
+[46] La décision Royer a été rendue un an et demi avant O'Neil et l'affaire McDonald c. La Reine, no 97‑2209(IT)I, 27 juillet 1998 (C.C.I.), a également été tranchée avant O'Neil.
+[47] L'avocat ne souscrivait évidemment pas aux décisions rendues dans Rousseau et Homsy c. La Reine, no 2003‑1649(IT)I, 19 février 2004 (C.C.I.). En ce qui concerne la décision rendue dans Rozen c. Canada, no T‑506‑85, 4 novembre 1985, [1985] A.C.F. no 1002 (QL) (C.F. 1re inst.), le libellé de la loi était différent. Quant au calcul des frais, l'avocat a souligné que les relevés de l'odomètre ne correspondaient pas à la distance alléguée.
+[48] Pendant ses observations, l'intimée a examiné les registres de l'appelant concernant les vidanges d'huile effectuées et la totalité de la distance parcourue au cours de chaque période et a comparé ces données à la distance censément parcourue pour aller aux chantiers de construction. L'avocat s'est servi des renseignements fournis par l'appelant à l'égard des deux voitures.
+[49] Une comparaison entre les relevés de l'odomètre et les registres montre que des milliers de kilomètres ont été parcourus à des fins personnelles. Selon l'avocat, les relevés de l'odomètre et les estimations ne sont pas crédibles et les hypothèses n'ont pas été réfutées.
+[50] D'après lui, ces calculs montrent que l'appelant ne conduisait pas sa voiture de son domicile aux chantiers de construction mentionnés. Un examen attentif de ces registres montre plutôt que la distance déclarée ne correspond pas à la distance effectivement parcourue.
+[51] Une distance de 3 408,1 kilomètres a été déclarée pour la période allant du 5 octobre au 31 décembre 2005, mais n'aurait pu avoir été parcourue. De plus, pour la période allant du 14 octobre au 31 décembre 2006, 1 010,8 kilomètres ont été déclarés, mais cette distance n'a pas été réellement parcourue.
+[52] En ce qui concerne les frais estimatifs se rapportant au carburant, à l'entretien, aux assurances, aux permis et à l'immatriculation ainsi que les autres frais, notamment les frais de lavage, les montants que l'appelant a déduits à cet égard ont été grandement exagérés.
+[53] Lorsqu'il a calculé la consommation de carburant, l'appelant a supposé qu'il s'agissait en tout temps de conduite en milieu urbain, ce qui n'était pas le cas en réalité.
+[54] Selon l'avocat, l'appel devrait être rejeté avec dépens.
+Réplique
+[55] En réplique, le représentant de l'appelant a soutenu que l'arrêt Chrapko visait à aider les travailleurs comme l'appelant, qui devaient se rendre à différents lieux de travail, et que cette tendance jurisprudentielle devrait être suivie.
+[56] Il n'y avait pas de lieu d'affaires habituel et, par conséquent, l'appelant ne pouvait diminuer ses frais.
+[57] Comme l'a souligné le juge Jerome dans l'arrêt Chrapko, l'intention du législateur était de permettre aux travailleurs de réduire leurs frais de déplacement lorsqu'ils devaient se rendre à différents lieux de travail.
+[58] L'appelant n'a pas tenu de registres suffisamment détaillés, de sorte que des estimations ont été utilisées.
+[59] Dans la demande de déduction révisée, il n'a pas déduit de frais au titre des réparations, parce qu'il n'avait pas de reçu.
+[60] Les montants que l'appelant a déduits au titre des frais de déplacement étaient fondés sur les renseignements fournis par la société. C'est là une façon plus raisonnable de calculer les frais comparativement à l'utilisation de reçus.
+[61] Les faits de la présente affaire s'apparentent davantage à ceux de l'arrêt Chrapko.
+[62] Le facteur le plus important réside dans l'intention du législateur de permettre à l'appelant de déduire ses frais dans de telles circonstances.
+Analyse et décision
+[63] Le ministre a refusé la déduction des frais en se fondant sur le paragraphe 248(1) de la Loi, au motif qu'il s'agissait de frais personnels ou de subsistance, de sorte que l'appelant n'avait pas le droit de les déduire en vertu de l'alinéa 8(1)h.1) de la Loi, puisqu'il ne les avait pas engagés dans l'accomplissement des fonctions de son emploi, mais plutôt pour se déplacer de son domicile à son lieu de travail. De plus, l'employé n'était pas habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits.
+[64] Voici l'extrait pertinent de l'alinéa 8(1)h.1) :
+h.1) dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, [...]
+[65] Selon le représentant de l'appelant, cette disposition énonce quatre exigences que le contribuable doit satisfaire pour pouvoir demander les déductions :
+(1) L'employé doit être tenu d'accomplir les fonctions de son emploi ailleurs qu'un lieu d'affaires de son employeur ou à différents endroits.
+Le représentant soutient que cette condition a été remplie.
+(2) L'employé doit être tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de son emploi.
+Le représentant soutient que cette condition a été remplie.
+(3) L'employeur doit attester sur le formulaire prescrit que ces conditions ont été remplies.
+Le représentant fait valoir que cette exigence a été remplie, comme le montre le formulaire T2200 déposé.
+(4) Le contribuable doit avoir engagé les frais pour se déplacer dans l'accomplissement des fonctions de son emploi.
+Selon le représentant, c'est la seule condition qui n'a pas été remplie, et Ming C. Fu a admis ce fait pour le compte de l'Agence du revenu du Canada dans sa lettre du 23 mai 2008.
+[66] Il convient de souligner que les seuls frais en litige sont ceux que l'appelant aurait eus pour se déplacer de son domicile au lieu de travail. Il appert de la preuve qu'il se déplaçait également d'un lieu de travail à un autre et qu'il a eu des frais pour ces déplacements. Cependant, ces frais ne sont pas en litige parce que l'appelant ne cherche pas à les déduire, étant donné qu'il n'a pu les prouver.
+[67] La Cour convient que la seule question à trancher dans la présente affaire se limite essentiellement à celle qui figure à la condition (4) énoncée au paragraphe 65 qui précède.
+[68] La Cour convient également qu'il existe deux tendances jurisprudentielles différentes sur ce sujet. Une de ces tendances est celle représentée par l'arrêt Chrapko, et l'autre, celle représentée par l'arrêt Hogg. La Cour ne croit pas qu'il soit possible de concilier ces décisions ou de les distinguer en ce qui a trait au point (4) susmentionné.
+[69] Dans l'arrêt Chrapko, la Cour d'appel fédérale a estimé que les deux pistes de course constituaient le lieu de travail habituel, même si une certaine distance les séparait. De plus, elle n'a pas fait mention de l'obligation pour le contribuable de « se déplacer dans l'exercice des fonctions de son emploi » ou de l'exigence visant les « frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi ». Il se pourrait, comme l'avocat de l'intimée l'a souligné, que la Cour d'appel fédérale ait été indulgente.
+[70] La Cour ne voit aucun élément du texte légal donnant à penser que l'intention du législateur corresponde à la description qui en a été donnée dans l'arrêt Chrapko. Aucun élément de preuve n'a été présenté à l'appui de cette position, et la disposition légale en question ne traite pas d'une personne qui est en mesure de contrôler les frais de ses déplacements vers son principal lieu de travail parce qu'elle doit se présenter à différents endroits. La disposition renvoie indéniablement aux frais que le contribuable engage dans l'accomplissement des fonctions de sa charge ou de son emploi.
+[71] De l'avis de la Cour, il est difficile de conclure que si une personne doit se présenter à différents lieux de travail, cette exigence est liée à l'accomplissement des fonctions d'une charge ou d'un emploi.
+[72] D'après les faits présentés en l'espèce, l'appelant n'a certainement pas commencé à accomplir les fonctions de sa charge ou de son emploi avant d'arriver au premier lieu de travail, quel qu'en soit l'emplacement. Jusqu'à ce moment, il parcourait simplement la distance qui séparait son domicile de son premier lieu de travail de la journée.
+[73] De toute évidence, les faits mis en preuve en l'espèce s'apparentent à ceux qui ont été décrits dans l'affaire Hogg, où la Cour d'appel fédérale, citant la décision que la Chambre des lords avait rendue dans Ricketts v. Colquhoun, [1926] A.C. 1, a conclu que les frais que le contribuable avait versés pour faire la navette entre sa résidence et son lieu de travail n'étaient pas des frais engagés dans l'accomplissement des fonctions de sa charge ou de son emploi, mais plutôt des frais engagés afin de lui permettre d'accomplir ces fonctions.
+[74] De plus, au paragraphe 13 de l'arrêt Hogg, la Cour d'appel fédérale s'est exprimée en ces termes :
+13 Donc, selon moi, suivant le sens ordinaire des versions française et anglaise de l'alinéa 8(1)h.1) de la Loi, il ressort clairement que les termes « frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi » exigent nécessairement que ces frais soient engagés par le contribuable dans l'accomplissement des fonctions de sa charge.
+[75] De toute évidence, dans la présente affaire, lorsque le contribuable avait les frais en question, il n'avait pas commencé à accomplir ses fonctions pour le compte de l'employeur.
+[76] Récemment, le juge Boyle a conclu ce qui suit au paragraphe 11 de la décision Potter, susmentionnée :
+11 [...] Dans ces décisions, il est clairement établi que les déplacements effectués dans l'exercice des fonctions doivent nécessairement comprendre l'exécution d'un service quelconque et non simplement constituer le déplacement de la maison au lieu de travail. En l'espèce, rien ne vient prouver ou même laisser entendre que M. Potter amenait des membres de l'équipe ou apportait des fournitures à Fort McMurray pour son employeur.
+[77] Dans la présente affaire, il n'a nullement été établi que le contribuable faisait autre chose que se déplacer de son domicile à son lieu de travail, quel qu'en soit l'emplacement; or, pendant ces déplacements, il ne fournissait aucun service pour son employeur.
+[78] Cette conclusion suffit pour trancher le présent appel; cependant, la Cour examinera également le second aspect du litige, qui concerne le caractère suffisant de la preuve relative aux montants dépensés.
+[79] La preuve que l'appelant a présentée à ce sujet était tout à fait insuffisante. Ses documents étaient incomplets et inexacts et reposaient, au mieux, sur des hypothèses. Il a manifestement déduit des montants supérieurs à ceux qu'il aurait peut-être eu le droit de déduire si ses arguments avaient été retenus au sujet de la première question, et une telle preuve soulève un doute sur la fiabilité du reste de sa preuve.
+[80] Le représentant a tenté vaillamment de calculer les frais de l'appelant de façon plus objective, mais ses calculs étaient également fondés en grande partie sur ce que l'appelant lui avait dit et, en conséquence, ses résultats ne peuvent pas être considérés comme une preuve de la valeur totale des frais déduits.
+[81] L'appelant n'a pas réfuté les hypothèses énoncées dans la réponse et celles‑ci doivent être acceptées.
+[82] L'appel est rejeté et la nouvelle cotisation du ministre est ratifiée.
+[83] L'intimée a droit à ses dépens, qui seront taxés sur une base partie­partie.
+Signé à Ottawa, Canada, ce 9e jour d'avril 2010.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 3e jour de juin 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 194
+NO DU DOSSIER DE LA COUR : 2009­2418(IT)I
+INTITULÉ : GIUSEPPE COLAVECCHIA c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 16 février 2010
+MOTIFS DU JUGEMENT : L'honorable juge T. E. Margeson
+DATE DU JUGEMENT : Le 9 avril 2010
+COMPARUTIONS :
+Représentant de l'appelant :
+M. Alessandro Colavecchia
+Avocat de l'intimée :
+Me Ian Theil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant : S/O
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

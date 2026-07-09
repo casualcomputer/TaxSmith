@@ -1,0 +1,107 @@
+Title: Fera v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27033/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-644-27033-fera-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-30
+
+# Fera v. The Queen
+
+- Citation: 2005 TCC 644
+- Decision date: 2005-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 643, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fera v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-30
+Neutral citation
+2005 TCC 644
+File numbers
+2004-4661(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4661(IT)I
+BETWEEN:
+GIUSEPPE FERA,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 16, 2005, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax under the Income Tax Act for the 2000 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant's income received from 1190069 Ontario Limited is in the amount of $27,300.
+Signed at Ottawa, Canada, this 30th day of September, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC644
+Date: 20050930
+Docket: 2004-4661(IT)I
+BETWEEN:
+GIUSEPPE FERA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] The Appellant failed to file an income tax return for the 2000 taxation year as required by subsection 150(1) of the Income Tax Act (the Act). On January 19, 2004, the Minister of National Revenue assessed the Appellant's tax payable for that year pursuant to subsection 152(7) of the Act. In so assessing him, the Minister assumed that in the relevant taxation year, the Appellant had received income from his employment with 1190069 Ontario Limited, in the amount of $32,500. The Minister further assumed that the Appellant had received a T4A slip from 1190069.
+[2] The Appellant denies that he received that amount of income from his employment with 1190069 in that taxation year, and further contends that he never received a T4A slip from the employer or the employer's accountants. Absent the necessary information, he submitted $11,587.50 as an estimated amount of earnings for the 2000 taxation year to Canada Revenue Agency.
+[3] 1190069 was the owner of Mud Hen's Tap & Grill, located in Pickering. For a number of years, the Appellant was employed by Mud Hen's as a bartender and shift manager. He generally worked on Thursday, Friday and Saturday, from 5:00 p.m. until the bar closed at approximately 2:00 a.m. As well, during the National Football League schedule, he worked Sundays which as a rule, entailed a five to six-hour shift. At the beginning of his daily shift, he was responsible for the pick-up of the liquor order for the bar. Following that, his duties were primarily tending bar and supervising the two waiters. His immediate "bosses" were three of the owners, Sherrie Alexiuk, her husband, Wesley Bagnell, and Joe Palaca. He said that Alexiuk and Bagnell were primarily responsible for the management of the bar and noted that although he described himself as a manager, he had absolutely no responsibility for attending to the company's books, which was strictly Sherrie Alexiuk's responsibility. He further testified that during the relevant period, there were continuing conflicts between the five owners and "they were stealing between each other. So, they hired a receiver to come in and count all their money at the end of the night". He added that the "books would be all scrambled and nobody knew exactly what was happening. That's why they were four or five years behind in their corporate taxes, PST and GST, and so forth". He described the situation as chaotic and noted that at the end of each business day, a receiver came in to "count the take" in his presence, and that of the on-duty manager. He also made reference to disagreements between the owners with respect to which accounts were to be paid, and of the degree of distrust between them which led to accusations of stealing, as a result of which he said "cameras were put in", and ultimately led to a criminal investigation.
+[4] The Appellant maintains that for the taxation year in issue, he never received a T4 from the employer, or from the employer's accountants. He ultimately received a copy of the T4 from the Respondent, and maintains that the amount set out therein is completely wrong. By way of example, he said that in 1999 he worked a few months and earned $3,951 and in 2001, for a full year's employment, was paid $11,250. He contends that the amount of $32,500 is incorrect and does not reflect the amount he was paid in the taxation year in issue. He made an effort to obtain the cheques, but was unable to do so and suggested that if there was as large a number of cheques as indicated by the Respondent, he doubted whether they had been endorsed by him. In this context, he also observed that on occasion when cheques were issued, there was no money in their bank account and that "they were bouncing cheques constantly. Like it was just a nightmare to get money, a nightmare to get paid because the receivership was - - the receivership was just taking care of the landlord, and all the suppliers. Like the staff was waiting". He also testified that on occasion, although a cheque would be issued for his wages, one of the owners would insist on paying him in cash rather than giving him the cheque.
+[5] Evidence was adduced on behalf of the Respondent from Stephanie Cannata (Cannata), a bookkeeper and senior staff member of BGS Chartered Accountants (BGS). She introduced a document described in the covering letter from BGS as "a summary of cheques written during the calendar year ended December 31, 2000 to Joe Ferra" (sic).[1] The letter also indicated, and this fact was confirmed by the witness, that the amounts were recorded based on cleared cheques, but no copies of the bank statements or cleared cheques are currently available as they had been returned to the client. With respect to the document itself, Cannata testified that pages two and three constituted a "general ledger detail", and more specifically referred to management fees which included "cheque numbers, dates, who they're payable to, and the amounts". This information, she said, was obtained from 1190069 which provided "12 sets of bank statements along with the original cheque forms, and those cheques were cashed and that's how we recorded them". Cannata also noted that while the accountants also received the returned cheques, they were unable to determine who cashed them since the reverse side of the cheque had not been provided. Payments in the amount of $27,300 which are recorded as being made to the Appellant by cheque are shown in a column captioned "Source CD" which, according to her, reflects "cash disbursements that come from a bank statement". Reference was also made by Cannata to a debit item in the amount of $5,200 on the second page of this document which reads: "to record remaining management fees paid to Joe Ferra (sic) to reconcile his annual to $32,500". She said that the BGS accountants had been told by the management of 1190069 that the Appellant's total salary for that particular year "should have equalled $32,500. And they assured us that he received that total value". She conceded there was no cheque or documentary proof of that fact, and that the entry to that effect (i.e. the additional $5,200) was "based solely on conversations and interviews with the client", and for that reason, it was not reflected as a cash disbursement that came from bank statements, but represented an adjustment made by management of 1190069.
+Conclusion
+[6] The onus of establishing that the Minister's assessment was incorrect is on the Appellant, and to do that, it was necessary for him to establish facts on which it could reasonably be asserted that the assessment was wrong. Such facts may be established by direct evidence or by reasonable inference. In the present appeal, there is no question that the financial difficulties of 1190069 were exacerbated by the infighting between the partners, and that the financial problems may very well have led to some of the "arrangements" with respect to wage payments as described by the Appellant. It is unfortunate that he was unable to provide any bank statements, pay stubs, or any other documentation to support his position. However, absent any independent evidence, it is difficult to accept the Appellant's estimate of $11,587.50 as correctly reflecting his earnings in that year. The same holds true with regard to the Appellant's claim with respect to the hours worked. In his testimony, he spoke of a total weekly shift time of approximately 40 hours, but then also spoke of filling in on other days when necessary. Since the Appellant's estimate of his earnings is premised on vague and unsupported evidence, it is not impossible to accept that amount as reasonable in the circumstances.
+[7] I turn next to the amount of $5,200 which was recorded on the basis that it was an adjusting entry and in respect of which there is no acceptable evidence to establish that it reflected wages paid by 1190069 to the Appellant. I am somewhat surprised that the BGS accountants accepted management's unsupported "assurance" and made no further enquiries. Indeed, Cannata testified that this amount was an adjusting entry in respect of which, she said, "so the source is a journal entry. It's not coming from a bank statement. It's just an entry that we initiated". In my view, there is absolutely no evidence to connect that amount to the wages paid by 1190069 to the Appellant. The statements which may have been made by an unidentified representative of 1190069 are nothing more than hearsay evidence, and are totally unsupported by any other shred of information, and can be given little or no weight. Accordingly, I have concluded that the amount of $5,200 should not be included in the calculation of the Appellant's income in the taxation year in issue.
+[8] The appeal is allowed on the basis that the Appellant's income in the 2000 taxation year is $27,300.
+Signed at Ottawa, Canada, this 30th day of September, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC644
+COURT FILE NO.:
+2004-4661(IT)I
+STYLE OF CAUSE:
+Giuseppe Fera and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+September 16, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+September 30, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Paolo Torchetti
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1. This document was prepared by Ensa Spermoni of BGS on the 28/03/2003.

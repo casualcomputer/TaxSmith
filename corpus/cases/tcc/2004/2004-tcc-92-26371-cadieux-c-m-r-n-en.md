@@ -1,0 +1,158 @@
+---
+title: "Cadieux c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26371/index.do"
+last_modified: "2004-01-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 92"
+citation2: ""
+neutral_citation: "2004 TCC 92"
+decision_date: "2004-01-27"
+language: "en"
+item_id: "26371"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3384
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:52:16.530000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ebb8945a129800c343db479f904365e801bce63cd73b1d6f249f4d9a34d17522"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cadieux c. M.R.N.
+
+- Citation: 2004 TCC 92
+- Decision date: 2004-01-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3384, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cadieux c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-27
+Neutral citation
+2004 TCC 92
+File numbers
+2003-1071(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-1071(EI)
+BETWEEN:
+CHRISTIANE CADIEUX,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 8, 2004, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Richard Goulet (articling student)
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act concerning the decision of the Minister of National Revenue dated
+December 16, 2002 is dismissed and the Minister's decision upheld pursuant to the attached Reasons for Judgment.
+Signed at Ottawa, Canada, the 27th day of January, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC92
+Date: 20040127
+Docket: 2003-1071(EI)
+BETWEEN:
+CHRISTIANE CADIEUX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Justice Lamarre Proulx
+[1] This is an appeal from a decision of the Minister of National Revenue (the "Minister") to the effect that the Appellant's employment with Chaussures Confort Inc. from June 2 to 28, 2002, was not insurable employment. The Minister's decision is dated December 16, 2002.
+[2] The Minister based the decision on the presumptions of fact described in paragraph 5 of the Reply to the Notice of Appeal (the "Reply") as follows:
+The Respondent, the Minister of National Revenue, based the decision on the following presumptions of fact:
+a) the Payer runs a specialized shoe (orthotics) sales firm located in the St-Jean sur le Richelieu shopping centre;
+b) Mr. André Cadieux, the Appellant's brother, was the firm's sole shareholder;
+c) the Payer usually hired four people, including Mr. Cadieux and his two daughters;
+d) the Appellant is an experienced social psychologist and usually worked in schools as a special-education teacher;
+e) the Appellant was unemployed and her brother hired her as a consultant because he wanted to re-organize the Payer's firm;
+f) the Payer initially told the Appellant that her services would be required only for a maximum of four weeks because he had a limited budget;
+g) the Payer asked the Appellant to act as an observer with a view to making recommendations for developing the business and increasing traffic and to improving communication among employees and customer relations;
+h) the Appellant was supposed to be in the store between 9:00 a.m. and 2:00 p.m. to observe and completed her work by conducting research in the library on customer psychology;
+i) the Appellant could finish her work at home and provided the Payer with her recommendations orally;
+j) the Appellant did not have a specific work schedule to be followed and the Payer did not keep track of her hours of work;
+k) under the initial agreement, the Appellant was supposed to be paid $10 an hour for approximately 30 hours of work a week;
+l) the Appellant's hours of work increased to 40 hours a week and her compensation to $20 an hour during the last two weeks of the period at issue;
+m) when she completed her work, the Appellant did not prepare a written report on her recommendations for the Payer;
+n) during the period at issue, the Appellant accumulated 140 hours of work, of which 100 were hours of observation on the Payer's premises;
+o) the services provided by the Appellant were outside her usual specialty and were unrelated to the Payer's normal activities;
+p) during the short period of her employment (four weeks) the Appellant's compensation increased from $10 to $20 an hour without justification and without the Payer having any control over the hours she actually worked.
+[3] During her testimony, the Appellant accepted paragraphs 5(a) to 5(e) of the Reply. In connection with paragraph 5(c), she mentioned that someone else normally worked for the Payer, a Mr. Bertrand. The Appellant mentioned in connection with paragraph 5(d) that it was difficult to find work in her area of expertise which explained why she was working as a special education teacher.
+[4] In connection with paragraph 5(f), the Appellant mentioned that her services had been retained on a week by week basis.
+[5] She accepted paragraphs 5(g) to 5(i). She mentioned that opposed to what is written in paragraph 5 (h), she observed from 9:00 a.m. to 1:00 p.m. for the first two weeks. Her observation work increased one hour a day during her last two weeks.
+[6] She denied paragraph 5(j). She mentioned that she was supposed to do her observation work during the times specified by her brother, who did not want her on the premises when there were a lot of people in the store.
+[7] She accepted paragraphs 5 (k) to 5 (m) of the Reply. In connection with the increase in her hourly pay from $10 to $20, she explained that that was what she had requested from the start and her brother had not agreed, but did so for the last two weeks of the period.
+[8] In connection with paragraph 5 (n), she said that she did about 90 hours of observation and 50 hours of research at home or the library.
+[9] In connection with paragraph 5(o), the Appellant mentioned that she used her social psychology training to render the services she provided.
+[10] In connection with paragraph 5(p), she reiterated what she had already said, that she had asked for $20 an hour and her brother had finally agreed. Her brother saw her observing and she reported to him once a week, on Fridays, thereby ensuring that her brother knew what she was doing. She followed his orders and instructions and was not in the store when he did not want her there. There were no specific objectives to be met. There was no work description in writing.
+[11] Ms. Julie Lambert, Appeals Officer, testified. She had a conference call with the Appellant and her counsel on December 11, 2002. During this call, she learned that there was no work contract in writing, that the agreement was on a week to week basis, that the Appellant was scheduled to observe during periods when she would not disturb customers and her brother did not plan the work or supervise her. The firm did not provide her with any tools. Mr. Cadieux, the Payer, did not want to answer the Appeals Officer's questionnaire. He referred to the testimony he had provided the insurability officer.
+[12] The Appellant pointed out that it was insurable employment because her brother could dismiss her when he wanted. Further, he controlled her because he decided when she did her observation work and she had to report to him: every Friday she reported her observations for the week. The raise from $10 to $20 was a small one because a consultant can earn much more.
+[13] Counsel for the Respondent pointed out that the employer had not provided any justification for increasing the hourly rate from $10 to $20. The terms and conditions of the employment were that the observation on the premises was to be done when there were not too many customers in the store and the research was to be done at home or at the library. It was therefore not a typical job in the firm. The employer did not provide any instructions on how services were to be provided. There was no written contract or final report.
+[14] Counsel for the Respondent cited two Federal Court of Appeal decisions: Massignani v. Canada (Minister of National Revenue), [2003] T.C.J. No 542 (Q.L.) and Miller v. Canada (Minister of National Revenue), [2002] T.C.J. No 1498 (Q.L.).
+[15] He cited paragraph 2 in the Massignani decision:
+2 First, the deputy judge failed to consider and fulfill his role under the Unemployment Insurance Act, S.C. 1970-71-72. c. 48 (the "Act"), paragraph 3(2)(c), a role that this Court described in Légaré v. Canada (1999), 246 N.R. 176 and Pérusse v. Canada (2000), 261 N.R. 150, which were followed in Valente v. Minister of National Revenue, 2003 FCA 132. This role does not allow the judge to substitute his discretion for that of the Minister, but it does encompass the duty to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, ... decide whether the conclusion with which the Minister was 'satisfied' still seems reasonable": see Légaré, supra, at page 179, Pérusse, supra, at page 162.
+[16] He cited paragraphs 3 and 4 in the Miller decision:
+3 At the first stage of the inquiry, the Tax Court Judge must assess the legality of the Minister's determination. In doing so, the Tax Court Judge must accord judicial deference to the Minister's discretionary decision unless the Tax Court Judge finds that the Minister has exercised his discretion in a manner contrary to law. In assessing whether the Minister has exercised his discretion properly, the Tax Court Judge need not defer to the Minister's findings of fact, but have regard to the facts raised before the Court during the hearing of the appeal.
+4 The Tax Court Judge may only proceed to the second stage and consider the merits of the Minister's decision if one of the following grounds for interference is established: (i) the Minister acted in bad faith or for an improper purpose or motive; (ii) the Minister failed to take into account all of the relevant circumstances, as expressly required by subparagraph 3(2)(c)(ii); or (iii) the Minister took into account an irrelevant factor. Therefore, it "is only where the Minister's determination lacks a reasonable evidentiary foundation that the Tax Court's intervention is warranted"
+Analysis
+[17] Paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act (the "Act") read as follows:
+5(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+Arm's length dealing
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[18] Provision is made in paragraph 5(2)(i) that insurable employment is not employment where the employer and employee deal with each other at non-arm's length.
+[19] Provision is made in subsection 5(3) of the Act that if the Minister is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that the Appellant's brother and the Appellant would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length, then the employment is not excepted from insurable employment.
+[20] In the case at hand, was the Minister not convinced that it was reasonable to reach this conclusion? Was the decision right or wrong?
+[21] It would be difficult for me to decide that the decision was wrong.
+[22] The facts on which the Minister based the decision are accurate. There is no dispute as to the facts in the case at hand. The initial impression of the facts is that a contract for services, not a contract of employment, is involved. It is therefore hard to understand why an employer would offer a consultant a contract of employment. If this consultant is an unrelated person, the employer will normally want to know at the outset how much the consulting contract will cost and to obtain a report. He or she would have a real need for this consultant and would have given it a great deal of thought before hiring him or her.
+[23] The hourly rate seems to have been set by the Appellant. It doubled after two weeks without the work changing. The hours also became longer, but the workload did not increase. The Appellant had 90 hours of observation work and 50 hours of research at home and at the library. The Friday reports were oral and no written report was provided at the end.
+[24] Under a contact of employment, there is control which translates into a subordinate relationship. Establishing control is not telling the working not to conduct observations at certain times. There were no instructions provided as to how the tasks were to be carried out. The Appellant decided how her observations were to be conducted.
+[25] The employer did not testify. He did not want to fill out the Appeals Officer's questionnaire. Further, the work was not related to the employer's normal activities.
+[26] I think that it was reasonable for the Minister to conclude that had the Appellant not been the sister of the Payer's sole shareholder, a similar contract of employment would not have been entered into.
+[27] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, the 27th day of January, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Certified true translation
+Colette Beaulne

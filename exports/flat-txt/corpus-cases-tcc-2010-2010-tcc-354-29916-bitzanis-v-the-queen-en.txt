@@ -1,0 +1,170 @@
+Title: Bitzanis v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29916/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-354-29916-bitzanis-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-28
+
+# Bitzanis v. The Queen
+
+- Citation: 2010 TCC 354
+- Decision date: 2010-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6436, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bitzanis v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-28
+Neutral citation
+2010 TCC 354
+File numbers
+2009-831(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-831(IT)I
+BETWEEN:
+CONSTANTINA BITZANIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Nickolaos Bitzanis (2009-832(IT)I)
+on June 21, 2010, at Montréal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Sarom Bahk
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Morell, Prince Edward Island, this 22nd day of July, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Docket: 2009-832(IT)I
+BETWEEN:
+NICKOLAOS BITZANIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Constantina Bitzanis (2009-831(IT)I)
+on June 21, 2010, at Montréal, Quebec
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sarom Bahk
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Morell, Prince Edward Island, this 22nd day of July, 2010.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2010TCC354
+Date: 20100628
+Dockets: 2009-831(IT)I
+2009-832(IT)I
+BETWEEN:
+CONSTANTINA BITZANIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2009-832(IT)I
+NICKOLAOS BITZANIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The appeals of Nickolaos Bitzanis and Constantina Bitzanis were heard together on common evidence. Both Appellants testified at the hearing. Called for the Crown was Clodie Robitaille, the Canada Revenue Agency Appeals Officer in charge of the Appellants’ files. The only issue in this Informal Procedure appeal is the deductibility of a management fee in the Appellants’ rental property business.
+[2] In reassessing the Appellants’ 2003 taxation year, the Minister of National Revenue relied on the same assumptions of fact for both Appellants:
+a) In reporting the rental income for the 2003 taxation year [each Appellant] reported the following amounts of net rental income:
+Property
+Interest
+Total (Loss),
+Profit
+Appellant’s Interest
+3960-662 Grand Allee, Montreal
+25%
+$ 1,391.00
+$ 347.75
+1831-1835 Delorimier, Montreal
+50%
+($ 8,898.00)
+-($4,449.00)
+158 1st Avenue, Lasalle
+50%
+($11,874.00)
+($5,937.00)
+3767-3771 Verdun Ave. Montreal
+25%
+$ 779.00
+$ 194.75
+3773-3783 Verdun Ave. Montreal
+50%
+($14,526.00)
+($7,263.00)
+2721-29 St Helen, Montreal
+25%
+$ 2,044.00
+$ 511.00
+($31,084.00)
+($16,595.50)
+b) During the taxation year the properties at 3767-3771 Verdun Ave., Montreal, 3773-3783 Verdun Ave., Montreal, and 158 1st Avenue, Lasalle were disposed of, with a sharing for the realized gain shared by the owners at 25% for [each Appellant] and 50% for Adam Bitzanis, nephew of the appellant.
+c) In determining the rental income for the 2003 taxation year for:
+i) 158 1st Avenue, Lasalle, [each Appellant] claimed $5,000 (Appellant’s interest 50% of $10,000) as Administration fees;
+ii) 3773-3783 Verdun Avenue, Montreal, [each Appellant] claimed $10,000 (Appellant’s interest 50% of $20,000) as Administration fees;
+iii) 1831-1835 Delorimier, Montreal, [each Appellant] claimed $5,000 (Appellant’s interest 50% of $10,000) as Administration fees;
+iv) The amounts so claimed were allegedly paid by the [Appellants] to Charalambos (Bobby) Bitzanis and Adam Bitzanis;
+v) The [Appellants] could not provide evidence as to proof of payment of the $40,000 allegedly paid to Charalambos (Bobby) Bitzanis and Adam Bitzanis;
+vi) The [Appellants] did not claim any similar amounts for Administration fees for any other years of ownership;
+vii) The amount provided was not reasonable and is considered, by the CRA, to be a gift by the [Appellants] to [their] relatives.[1]
+[3] In 2003, the Appellants claimed a deduction for management fees totalling $40,000 for three of these properties[2] owned jointly with their nephew Adam (“Adam the Nephew”). The Appellants also have a son Adam (“Adam the Son”) and another son, Charalambos.
+[4] They testified that the $40,000 had been paid to their sons for performing management tasks for the rental properties, including maintenance and repairs, collecting rents and taking care of problems in the buildings or with tenants. In addition to being reimbursed for their out-of-pocket expenses i.e., transportation costs, repair materials and so on, the sons were paid a salary. As often happens in family-run businesses, there were no written agreements between the Appellants and their sons for their management work nor were records of the payments kept. Both Appellants said that the $40,000 had been paid in cash in various amounts over the year depending on the work done and the amount of funds available to pay them. Neither of the sons reported any such payments in their 2003 income tax returns. Apparently, after some urging from his father, Charalambos reported an amount of approximately $27,000 in 2009.
+[5] The Minister disallowed the management fee on the basis that there was no evidence that the work had actually been done by the sons, that the payments had been made or that, if they had been made, the $40,000 claimed in respect of the management fee was unreasonable given that the gross revenue from the properties was only just over $29,000. On the other hand, the Minister did allow the deduction of all the other expenses claimed i.e., property taxes, maintenance and repair, advertising and so on.
+[6] It goes without saying that the onus is on the Appellants to show that the Minister’s reassessment is incorrect. Both Appellants struck me as hard-working individuals with a respect for their obligations under the Income Tax Act. I have no doubt that they paid $40,000 to their sons in 2003 or that from time to time, their sons helped out with the rental properties. However, the evidence falls far short of establishing that their sons actually performed management services in respect of the properties.
+[7] Mr. Bitzanis urged the Court to take into account the fact that in 2009 one of the sons took his parents’ advice and reported the receipt of a $20,000 payment in 2003. I agree with the Appeals Officer, Ms. Robitaille, that the mere fact of reporting an amount paid does not convert that amount into a valid management fee. The Appellants must still be able to prove that their sons did management work and that the amount paid was reasonable. For a business expense to be deductible under paragraph 18(1)(a) of the Income Tax Act, the taxpayer has to be able to show that that cost was incurred for the purpose of earning income from that business.
+[8] In the present case, I am not persuaded that the $40,000 that the Appellants paid to their sons did anything to generate income from the rental properties. It seems much more likely that the amounts were paid to help their sons out during difficult times in their lives; for this, the Appellants cannot be faulted. But that does not mean the sons performed management services. The evidence is clear that the co-owner of the properties, Adam the Nephew, was responsible for property management; I simply do not believe the Appellants’ claim that his management role was limited to his 50% interest in the rental properties. The Appellants had no documentation to support their claims. Their sons were not called to testify. The Appellants themselves claimed not to be able to remember what amounts were paid, when or for what tasks. There were inconsistencies between the information provided to the Canada Revenue Agency officials at various stages in the inquiry and their evidence at the hearing. Even if I accept that the sons did do some work in respect of the properties, it seems to me that it was more in the line of maintenance and repair, the value of which has already been allowed as a regular business expense deduction. And even if that work could be characterized as management services, given the gross income of the rental properties in question, a payment of $40,000 for such work would not be reasonable. In all the circumstances, there is simply not sufficient evidence to justify interfering with the Minister’s reassessment of the 2003 taxation year. Accordingly, the appeals are dismissed.
+Signed at Morell, Prince Edward Island, this 22nd day of July, 2010.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2010TCC354
+COURT FILE NOS.: 2009-831(IT)I; 2009-832(IT)I
+STYLE OF CAUSE: CONSTANTINA BITZANIS AND HER MAJESTY THE QUEEN AND BETWEEN NICKOLAOS BITZANIS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 21, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: July 22, 2010
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Sarom Bahk
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Reply to the Notice of Appeal of Nicholaos Bitzanis and Amended Reply to the Notice of Appeal of Constantina Bitzanis, paragraph 16.
+[2] Exhibits R-1 and R-2.

@@ -1,0 +1,135 @@
+---
+title: "Maquito v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30229/index.do"
+last_modified: "2011-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 123"
+citation2: ""
+neutral_citation: "2011 TCC 123"
+decision_date: "2011-02-23"
+language: "en"
+item_id: "30229"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7754
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:50:20.545000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ccc0844c451be10b3d7e35429681d445251dfc8f98bc5eb626f45a2bbceec96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maquito v. The Queen
+
+- Citation: 2011 TCC 123
+- Decision date: 2011-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7754, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maquito v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-23
+Neutral citation
+2011 TCC 123
+File numbers
+2010-2892(GST)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-2892(GST)I
+BETWEEN:
+CLARENCE MAQUITO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 25, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Ben Yevzeroff
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment under the Excise Tax Act, notice of which is dated August 3, 2010, for the period January 1, 2007 to March 31, 2008 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached. The Appellant is entitled to additional Input Tax Credits in the amount of $91.88.
+Signed at Ottawa, Canada, this 23rd day of February 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation : 2011TCC123
+Date: 20110223
+Docket: 2010-2892(GST)I
+BETWEEN:
+CLARENCE MAQUITO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issues in this appeal are whether the Minister of National Revenue (the Minister) properly assessed additional GST collectible in the amount of $417.05 and disallowed Input Tax Credits (“ITCs”) in the amount of $11,743.78 for the reporting periods from January 1, 2007 to March 31, 2008.
+[2] At the hearing, the Appellant was represented by his agent, Bernard Yevzeroff. Testimony was given by the Appellant and Najrul Muhammad who was the auditor for the Canada Revenue Agency (“CRA”) on this file.
+[3] The Appellant is a real estate broker who operates a sole proprietorship business. During the period, he earned commission income through the Sutton Group–Admiral Realty Inc. (Sutton Group).
+[4] The Appellant’s GST returns were audited because he claimed a refund on most of his returns. As well, the sales, as represented on his GST returns, were different than the business income reported on his income tax returns for 2004, 2005 and 2006 taxation years.
+[5] The auditor stated that the Appellant’s records were disorganized. To complete his audit, he used the Appellant’s records and bank statements, and the records from the Sutton Group. Mr. Muhammad compared the commission income which the Appellant received from the Sutton Group to the GST collectible on the GST returns and he concluded that the Appellant had under-reported GST in some reporting periods and had over reported GST in other reporting periods. The total adjustment increased GST collectible by the amount of $417.05.
+[6] The Appellant has presented no evidence to show that the auditor’s calculation of GST collectible was incorrect.
+[7] Mr. Muhammad stated that there were two reasons why ITCs were disallowed. First, the Appellant had claimed ITCs on personal expenses and these claims were disallowed. Second, the Appellant did not have documentation to support some of the ITCs which he had claimed and these as well were disallowed.
+[8] Mr. Muhammad explained how he conducted his audit. He compared the ITCs recorded in the Appellant’s records with the amounts claimed on the GST returns. There was a variance of $7,750.37 which could not be explained by the Appellant and this amount was disallowed. Mr. Muhammad then reviewed the ITCs recorded in the Appellant’s records and disallowed the amount of $4,195.90. This amount was not supported by documentation in accordance with subsection 169(4) of the Excise Tax Act (ETA).
+[9] It was the Appellant’s position that no ITCs were allowed for his use of an automobile.
+[10] In his testimony, Mr. Muhammad reviewed his working papers to show that he had allowed the Appellant all ITCs which had been claimed for gas, repairs, parking, and insurance. He disallowed the claim for ITCs for a leased vehicle as the Appellant did not have documentation to show that he had leased a vehicle.
+[11] At the hearing, the Appellant did submit documentation which supported that he paid total GST of $122.50 on lease payments for a 2004 Toyoto for the period January 1 to May 31, 2007.
+[12] On May 9, 2007, the Appellant acquired a motor vehicle by means of a loan from the Bank of Montreal. At the objection stage of this appeal, the appeals officer concluded that the Appellant’s use of this vehicle was 75% for business purposes and she allowed the Appellant ITCs in the amount of $202.50. It was the Appellant’s position that the business use of the vehicle was greater than 90%.
+[13] In reaching the conclusion that the Appellant’s business use of his vehicle was 75%, the appeals officer considered that the Appellant had one vehicle and he used this vehicle to drive to and from his office.
+[14] The onus was on the Appellant to show that the business use of his vehicle was greater that 75%. This he has not done. He gave no details that would allow me to ascertain the personal versus business use of his vehicle. The Appellant did not keep a log book in 2007. He submitted log books which he made at the objection stage to present to the appeals officer. These documents are self serving and I have given them no weight.
+[15] The agent for the Appellant argued that the Notice of Reassessment dated August 3, 2010 was null and void because it referred to the “Prior Balance” owed by the Appellant. This reassessment was issued as a result of the Appellant’s Notice of Objection. It gave the Appellant a further credit of $231.52 for the period October 1, 2007 to December 31, 2007. Its reference to the balance outstanding in the Appellant’s account does not make the reassessment null and void. Subsection 300(2) of the ETA gives the scope of a notice of assessment or reassessment[1] as follows:
+300 (2) A notice of assessment may include assessments in respect of any number or combination of reporting periods, transactions, rebates or amounts payable or remittable under this Part.
+[16] On review of the evidence, I have concluded that the appeal is allowed and the Appellant is entitled to additional ITCs in the amount of $91.88 ($122.50 x 75%).
+Signed at Ottawa, Canada, this 23rd day of February 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC123
+COURT FILE NO.: 2010-2892(GST)I
+STYLE OF CAUSE: CLARENCE MAQUITO AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 25, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: February 23, 2011
+APPEARANCES:
+Agent for the Appellant:
+Ben Yevzeroff
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See subsection 123(1) where assessment is defined as follows:
+“assessment” means an assessment under this Part and includes a reassessment under this Part

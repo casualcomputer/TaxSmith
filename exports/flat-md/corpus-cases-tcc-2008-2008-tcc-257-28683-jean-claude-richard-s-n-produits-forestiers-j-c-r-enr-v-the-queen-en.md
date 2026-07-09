@@ -1,0 +1,483 @@
+---
+title: "Jean-Claude Richard s/n Produits Forestiers J.C.R. Enr. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28683/index.do"
+last_modified: "2008-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 257"
+citation2: ""
+neutral_citation: "2008 TCC 257"
+decision_date: "2008-05-20"
+language: "en"
+item_id: "28683"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1473
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:10:52.902000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "340a75f20ea845a837bf50bd8abfcb1b5fea29a630ba4548ddd7950107872b57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jean-Claude Richard s/n Produits Forestiers J.C.R. Enr. v. The Queen
+
+- Citation: 2008 TCC 257
+- Decision date: 2008-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1473, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jean-Claude Richard s/n Produits Forestiers J.C.R. Enr. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-20
+Neutral citation
+2008 TCC 257
+File numbers
+2007-1469(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1469(IT)I
+BETWEEN:
+JEAN-CLAUDE RICHARD, S/N PRODUITS
+FORESTIERS J.C.R. ENR.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 16, 2008, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of May 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of July 2008.
+Brian McCordick, Translator
+Citation: 2008TCC257
+Date: 20080520
+Docket: 2007-1469(IT)I
+BETWEEN:
+JEAN-CLAUDE RICHARD, S/N PRODUITS
+FORESTIERS J.C.R. ENR.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] In computing his income for the 2002 and 2003 taxation years, the Appellant claimed losses from the operation of a logging business in the amounts of $43,292 and $37,062, respectively. By notice of reassessments dated April 18, 2005, the Minister of National Revenue ("the Minister") made the following changes in computing the Appellant's income for the taxation years in issue:
+(a) the Minister's position is that the Appellant is carrying on a farming business with the reasonable expectation of profit, but whose chief source of income is not farming or a combination of farming and some other source of income;
+(b) the Minister allowed $8,750 per year as deductible losses from a farming activity that is not the chief source of income, and computed the limited farming losses that may be carried forward as $34,542 and $28,312, respectively.
+The Appellant has appealed from the income tax reassessments made by the Minister for the 2002 and 2003 taxation years.
+[2] In making and confirming the reassessments, the Minister assumed the same facts:
+(a) the Appellant has worked for Hydro-Québec since 1981; (admitted)
+(b) the Appellant is a lumberjack's son and worked in that occupation from 1969 to 1978; (admitted)
+(c) the Appellant and Michèle Neveu have a blended family with three children:
+(i) Kathleen, born in February 1982;
+(ii) Joanie, born in May 1987;
+(iii) Pierre-Olivier, born in February 1993.
+(admitted)
+(d) for the taxation years in issue, the Appellant declared that he was carrying on business as sole proprietor exploiting the following property or assets under the business name Produits forestiers J.C.R. enr.:
+(i) woodlots in St-Michel-des-Saints (4 lots);
+(ii) land adjacent to the woodlots where four cottages were built;
+(iii) rental of 146 acres of land from the Ministère des Ressources naturelles on which there is a sugar maple bush, with the intention of producing maple syrup.
+(admitted)
+(e) for the 2002 and 2003 taxation years, the Appellant worked four days a week as a Hydro-Québec employee; (denied as worded)
+(f) during the 17-year period (1987 to 2003), gross income from the alleged operation of a forest business by the Appellant was higher than his income from employment on only three occasions (1988, 1999 and 2000); (denied)
+(g) during that 17-year period (1987 to 2003), the Appellant incurred annual losses in relation to the alleged operation of a forest business, except in the 1999 taxation year; (denied)
+(h) for the taxation years in issue, the losses incurred were practically equal to the Appellant's income from employment; (no knowledge)
+(i) for the 2002 and 2003 taxation years, the auditor noted the breakdown of gross income from the alleged operation of a forest business under the following various heads:
+2002
+2003
+(i)
+Subsidies
+2,419
+4,897
+(ii)
+syrup sales
+5,345
+3,722
+(iii)
+syrup by-product sales
+649
+1,656
+(iv)
+interest income (syrup)
+122
+1,146
+(v)
+gross rental income
+2,000
+2,000
+(vi)
+miscellaneous income
+2,290
+3,526
+(vii)
+timber sales
+36
+0
+12,861
+16,947
+(admitted)
+(j) the Minister is of the opinion that sylviculture and maple syrup production represent activities that generate farming income rather than income from forest operations; (denied)
+(k) however, the Minister is of the opinion that the Appellant is carrying on a farming business that is not his chief source of income. (denied)
+[3] The Appellant, whose credibility was not questioned, testified that:
+(a) during the years in issue he was employed as a meter reader at Hydro-Québec;
+(b) his income from employment during those years was $38,960 in 2002 and $40,000 in 2003;
+(c) he worked 130 days for Hydro-Québec in 2003. It should be noted that the Appellant filed Hydro-Québec records, as Exhibit A‑11, to corroborate his testimony on this point;
+(d) he spent 1,375 hours working in his business in 2003, over 235 days;
+(e) during 2002, the days spent working for Hydro-Québec and the days and hours spent on his business were substantially the same as in 2003;
+(f) he has owned woodlots since 1983. During the years in issue, he was the owner of about 176 hectares of woodlots;
+(g) in 1986, he became a forest producer within the meaning of section 120 of the Forest Act (R.S.Q., c. F‑4.1). As a forest producer, the Appellant was eligible for an assistance program for putting private woodlots into production. The program offers financial and technical assistance for forest producers to carry on logging activities in private forests. The purpose of the activities is to protect and put into production any forest area registered under section 120 of the Forest Act[1]. The activities covered by the assistance are:
+(a) preparation of forest management plans;
+(b) technical assistance;
+(c) carrying out sylviculture work;
+(d) supplying plants for reforestation.
+It should be noted that a producer must retain a certified forestry consultant in order to obtain financial assistance and have access to the professional and technical services needed for carrying out the eligible work. The Appellant explained that in order to receive this assistance, he had to retain a forestry engineering firm in 1986, Sylva Croissance, the firm that has been advising him on the management of his woodlots since that date;
+(h) the work he did under the assistance program included the following:
+(i) in 1987, he prepared 1.5 hectares of land (scarifying, working, burning, etc.) and planted 7,500 spruce trees on the land;
+(ii) in 1988, he prepared 1.1 hectares of land and planted 2,700 spruce trees on it, and also maintained the trees planted on 3 hectares;
+(iii) in 1998, he built 1.4 kilometres of forest roads and also improved 0.774 kilometres of forest roads;
+(iv) in 2000, he did precommercial clearing on a two-hectare area. It should be noted that commercial clearing is a logging activity whose purpose is to select and segregate future young trees from their less promising neighbours, which are interfering with their growth. This type of logging is called "precommercial" because the logs cut are not large enough to be used by industry. The logs are therefore left on site to enrich the soil as they decompose;
+(v) in 2000, he did commercial clearing on a 0.7 hectare area. Commercial clearing is a sylvicultural practice that involves removing some of the trees in the forest in order to provide the trees chosen to remain in place with more light and space. Commercial clearing is used to recover trees that would die sooner or later or could not recovered;
+(vi) in 2000, he built 0.846 kilometres of forest roads;
+(vii) in 2001, he did precommercial clearing on a one hectare area;
+(viii) in 2003, he built 2.92 kilometres of forest roads;
+(i) concurrently with the subsidized work, he recovered (cut down and sawed up) timber for market. It should be noted that the Appellant's income from the sale of timber to sawmills and paper mills was as follows:
+in 1988:
+$19,054
+in 1989:
+$27,001
+in 1990:
+$5,558
+in 1991:
+$667
+in 1992:
+$4,636
+in 1993:
+$365
+in 1994:
+nil
+in 1995:
+$2,379
+in 1996:
+$1,454
+in 1997:
+$6,093
+in 1998:
+$15,267
+in 1999:
+$215,922
+in 2000:
+$77,247
+in 2001:
+$14,751
+in 2002:
+$36
+in 2003:
+nil
+I would immediately note that the Appellant was not able to state the number of hectares on which the logging work was done;
+(j) he did the sawing and felling of the trees himself, except in 1999 and 2000, when he hired subcontractors to do the work. The Appellant explained that he had recovered a large quantity of wood for market in 1999 and 2000 in order to reduce his debt from the purchase of a woodlot in 1999, which he was no longer able to pay;
+(k) he did not recover any wood for market during the years in issue. The Appellant explained that he had spent his time during those years building forest roads and repairing his cottages in the woodlot he had purchased in 1999;
+(l) in 1998, he decided to diversify his business and started producing maple syrup. For that purpose, he rented a 146-acre lot from the Ministère des Ressources naturelles on which there was a maple sugar bush and purchased equipment to produce maple syrup. When the maple syrup market collapsed in 2000, he decided to sell his maple syrup equipment and significantly reduce his maple syrup production while waiting to find a buyer for his equipment. In 2002, he sold most of his maple syrup equipment and operated part of the sugar bush on a small-scale basis until 2005, when he completely abandoned the production of maple syrup.
+[4] The evidence also establishes that:
+(a) during the 17-year period from 1987 to 2003, the Appellant suffered annual losses in connection with his business, except in 1999;
+(b) for the years from 1987 to 2003, the Appellant's gross business income, net business income and income from employment were as follows:
+Gross business income
+Net business income
+Income from employment
+Type of income according to income tax return
+1987
+$1,548
+-$3,384
+$42,680
+Farm income
+1988
+$25,864
+-$8,979
+$38,145
+Business income
+1989
+$27,975
+-$5,028
+$27,766
+Farm income
+1990
+$5,851
+-$9,761
+$45,658
+Business income
+1991
+$870
+-$11,017
+$41,227
+Business income
+1992
+$6,623
+-$446
+$39,880
+Farm income
+1993
+$429
+-$8,743
+$40,136
+Farm income
+1994
+$1,115
+-$4,176
+$45,456
+Farm income
+1995
+$6,452
+-$3,520
+$38,763
+Farm income
+1996
+$1,454
+-$6,343
+$40,446
+Farm income
+1997
+$6,083
+-$4,175
+$42,277
+Farm income
+1998
+$36,632
+-$1,891
+$39,728
+Farm income
+1999
+$234,290
+$9,824
+$24,130
+Business income
+2000
+$117,884
+-$31,112
+$41,300
+Business income
+2001
+$34,554
+-$57,715
+$41,439
+Business income
+2002
+$14,244
+-$43,292
+$44,050
+Farm income
+2003
+$18,287
+-$37,062
+$43,269
+Farm income
+It should be noted that the Appellant himself described his business income in his income tax returns as farm income, except for the years from 1999 to 2001;
+(c) For the years 1998 to 2006, the Appellant's gross business income was broken down under the following heads:
+Woodlot sales
+Syrup sales
+Other income
+Cottage rental
+Total
+1998
+20,267
+14,191
+2,172
+36,630
+1999
+215,922
+14,885
+3,483
+234,290
+2000
+77,247
+26,107
+14,529
+117,883
+2001
+14,751
+15,775
+4,028
+34,554
+2002
+36
+5,345
+7,480
+12,861
+2003
+3,759
+13,598
+17,357
+2004
+1,170
+5,494
+5,576
+2,000
+14,240
+2005
+5,949
+2,000
+5,322
+7,600
+20,871
+2006
+13,773
+11,578
+2,400
+27,751
+______________________________________________________________
+Total
+349,115
+87,556
+67,766
+12,000
+516,437
+(d) the Appellant's long-term business debt was $220,851 as at December 31, 2000, $205,514 as at December 31, 2001, $156,408 as at December 31, 2002, $142,276 as at December 31, 2003, $127,040 as at December 31, 2004, $117,242 as at December 31, 2005 and $107,291 as at December 31, 2006;
+(e) the Appellant's capital contributions to his business were as follows:
+Year
+Contribution
+1998
+‑
+1999
+12,000
+2000
+43,387
+2001
+47,082
+2002
+39,555
+2003
+38,070
+2004
+31,762
+2005
+18,643
+2006
+25,301
+(f) the interest paid by the Appellant on the business's long-term debt was as follows:
+Year
+Interest paid
+1998
+2,729
+1999
+12,960
+2000
+16,301
+2001
+16,006
+2002
+14,548
+2003
+10,703
+2004
+7,552
+2005
+7,011
+2006
+7,211
+Appellant's Position
+[5] The position taken by the Appellant at the hearing is essentially what is set out in his notice of appeal, which reads as follows:
+[TRANSLATION]
+I am a lumberjack's son and I was a lumberjack myself by trade from 1969 to 1978. I then took a course in welding and I was hired by Hydro‑Québec in 1981 and still work for that company.
+Since 1983, I have also owned woodlots that today have an approximate area of 500 acres. The production from cutting these trees is intended for market: for sawmills, peeling, panels, pulp and paper or firewood.
+Because my plan was multi-resource in nature and the geographic location was favourable to that kind of business, I purchased the land adjacent to my properties, on which there were already four cottages. After some maintenance work, the cottages could be rented. As well, the purchase meant that I could expand my woodlot. To attract customers, we had to be able to offer activities in all four seasons, and so I rented 146 acres of land from the Ministère des Ressources naturelles on which there was a maple sugar bush used to produce maple syrup. The information I had received at the time led me to believe that the project was viable and profitable. At the same time, the spring thaw is not a good time for logging, and so I thought I could make that time of year profitable. Unfortunately, the information I had received from the consulting Ministère did not turn out to be completely true. But the investment had been made already. The economic situation in the maple syrup market collapsed. For all these reasons, my plan was affected and my financial situation became very precarious. In 2000, my decision to divest myself of my maple syrup equipment was made, but it was nearly two years before I found a buyer. What was supposed to be just a sideline to diversify my income became my economic nightmare.
+My business is not a part-time farming business; in fact, it is a commercial logging business. The income I receive from it comes primarily from selling timber to plants and paper mills. Since 1988, the year when I set about diversifying my portfolio, my cumulative gross business income has amounted to nearly a half-million dollars, and 69% of that income comes from the sale of timber, according to my financial statements.
+I work on cutting down trees and sawing them up. I do not reforest my land; rather, I prefer to allow natural regrowth, given that there is enough land to allow for this, and thus contribute to sustainable development. In this I have the assistance of a forestry engineer, who has in fact drawn up a management plan for my business. Obviously, however, some work, such as building roads, has to be done. These hours of work do not generate immediate income, but expenses. That is why a business has to be looked at in its entirety. A year when there may seem to be low income does not mean that fewer hours of work were invested.
+I will therefore rely on Interpretation Bulletin IT-373R2 to show that my woodlot is a commercial woodlot for which there is a management plan and that I have the skills and experience to operate it. I sell raw materials for lumber and my income is subject to the market price. I will submit a document proving the reasonable expectation of profit from my business.
+I am convinced, in good faith, that section 31, which restricts the deductibility of losses, does not apply to my business, because I will show that my woodlot is commercial and not a farm. Nature alone produces timber, and I do not carry out any special treatment. I do not "raise" timber. I harvest timber that grows completely naturally on the land that I own and I sell it to businesses that process it.
+. . .
+Analysis
+[6] The Appellant is essentially arguing that his business (68% of the income from which from 1998 to 2006 came from selling timber) is not a farming business, it is a commercial logging business. On that point, the Appellant submits that his woodlot has an area of about 180 hectares and was used for logging activities, while the Respondent argues that it was used by a farming business.
+[7] I would first like to quote the following passage from Desrosiers,[2] in which Dussault J. explained his analysis (which appears to be very much on point in this case) of the term "farming" as it is defined in subsection 248(1) of the Act, and the factors that must be considered and that must be analyzed in the effort to determine whether we are dealing with a farming operation:
+51 Subsection 248(1) of the Act does not provide a true definition of the word "farming". However, it does indicate the following:
+"farming" includes tillage of the soil, livestock raising or exhibiting, maintaining of horses for racing, raising of poultry, fur farming, dairy farming, fruit growing and the keeping of bees, but does not include an office or employment under a person engaged in the business of farming.
+52 Clearly, such a definition is not intended to be exhaustive. Recourse to the ordinary meaning of the word therefore seems appropriate in order to determine its scope.
+53 In Le Grand Robert, Dictionnaire alphabétique et analogique de la langue française, 2nd Edition, 1988 (Le Grand Robert) the primary meaning of the French word "agriculture" (farming) is given as follows:
+Culture, travail de la terre; par ext., production des plantes et des animaux utiles fournissant les denrées alimentaires et les matières premières d'autres industries. --> Culture; apiculture, arboriculture, aviculture, horticulture, pisciculture, sériciculture, sylviculture, viticulture; élevage; primaire (secteur primaire).
+[TRANSLATION]
+Cultivation, working the land; by ext., production of useful plants and animals providing foodstuffs and raw materials for other industries. --> Cultivation; bee-keeping, arboriculture, poultry raising, horticulture, pisciculture, sericulture, silviculture, viticulture; animal raising; primary (primary sector).
+54 While this definition does not set absolute limits for the scope of the word, it does nevertheless indicate a number of activities that are associated with it and which go beyond those already listed in the Act. The words "aboriculture" and "silviculture" are clearly the ones in which we are interested in the instant case. There are no definitions of these terms in the Act. Le Grand Robert defines their French equivalents as follows:
+ARBORICULTURE
+. . .
+Partie de l'agriculture qui a pour objet la culture des plantes ligneuses. --> Arbre. Arboriculture forestière. --> Foresterie, sylviculture. - Spécialt. Production de fruits. Arboriculture fruitière. --> Agrumiculture, horticulture, pomoculture (ou pomologie), viticulture. Arboriculture d'ornement. --> Jardinage; horticulture.
+[TRANSLATION]
+Part of farming having to do with the cultivation of ligneous plants. --> Tree. Forest arboriculture. --> Forestry, silviculture. – Esp. Fruit production. Fruit arboriculture. --> Citriculture, horticulture, --> pome fruit production(or pomology), viticulture. Ornamental arboriculture. --> Gardening; horticulture.
+SYLVICULTURE
+. . .
+Didact. Exploitation rationnelle des arbres forestiers (conservation, entretien, régénération, reboisement, etc.). --> Arboriculture.
+[TRANSLATION]
+Tech. Rational exploitation of forest trees (conservation, maintenance, regeneration, reforestation, etc.). --> Arboriculture.
+55 In the same work, the French verb "exploiter" (exploit) in the expression "exploiter un bois" (exploit a woodlot) is given the meaning of "en abattre et débiter les arbres" (felling and cutting up the trees).
+56 Where do these definitions lead us? While they do not draw an absolute line between the words "farming" on the one hand and "logging" on the other, they do quite clearly indicate those activities that are more specifically associated with one or the other and whose scope it is appropriate to measure, to the extent that farming and logging are carried on concurrently. In a borderline case like this one, the solution therefore ultimately hinges on the nature of the activities and their relative importance.
+57 One will have already noted that this is precisely the approach suggested in paragraph 13 of Interpretation Bulletin IT-373R2 dealing with woodlots, published on July 16, 1999. As we know, these bulletins are not binding on the courts but they can prove very useful when interpretation problems crop up. The recent publication date is not, in my view, an obstacle as regards this case since the bulletin sets out a logical, realistic and balanced approach. I would add that, with respect to the question before us, the ideas expressed in the bulletin are not in any way the result of recent changes in the legislation or case law. For the sake of convenience, I cite again paragraph 13 of Interpretation Bulletin IT-373R2, which reads as follows:
+13. Whether a woodlot constitutes a farming operation or a logging business or another commercial operation is a question of fact. If the main focus of a business conducted with a reasonable expectation of profit (a COMMERCIAL WOODLOT) is not lumbering or logging, but is planting, nurturing and harvesting trees pursuant to a forestry management or other similar resource plan and significant attention is paid to manage the growth, health, quality and composition of the stands, it is generally considered a farming business (a COMMERCIAL FARM WOODLOT). If the main focus of a business is logging (a commercial non-farm woodlot), and is not growing, nurturing and harvesting trees, the fact that reforestation activities are carried out would not transform that business into a farming operation.
+[8] Accordingly, in order to determine whether the Appellant was operating a farming operation or logging business, we must establish, in my opinion, based on the evidence submitted, what activities (in connection with the operation of the woodlots) were really carried on by the Appellant; we must then determine which of those activities were associated specifically with one or another of the businesses; and finally, we must determine their relative importance. In other words, in a borderline case like this one, the solution must ultimately be determined from the nature of the activities and their relative importance.
+[9] The activities (in connection with the operation of the woodlot) that were really carried on by the Appellant during the years 1987 to 2003 were as follows:
+(a) The Appellant did work associated with the conservation, maintenance, regeneration and reforestation of his woodlot (work that, in my opinion, is associated specifically with a farming operation), on land with an area of a little over nine hectares, that is, about 5% of the total area of his woodlot, which, it will be recalled, covered about 180 hectares. I note that starting in 1999 the Appellant did work of this nature on an area representing barely 2% of the total area of his woodlot. I would also point out that the Appellant did no work of this nature during the years in issue.
+(b) The Appellant also built about 4 kilometres of forest roads on his woodlot, 2.3 kilometres of which were built during the years in issue. It should be noted that the Appellant built the forest roads himself, to all intents and purposes, using the machinery and equipment he owned. In my opinion, that activity must be associated specifically with the operation of a logging business, and is in no way associated with a farming operation, because its primary purpose is to allow the operator to gain access to the forest resource. In fact, forest roads allow for the rational and profitable exploitation of the forest resource, because they make it possible for heavy logging equipment to gain access to that resource and facilitate transportation of the resource to market. On this point, I would note that Alex Gagnon (the Appellant's forestry engineer for several years) testified that the forest road construction work was heavy work and there were few subsidies available for it.
+(c) The last point is that the Appellant cut and felled trees (work that, in my opinion, is associated specifically with a logging business) with the wood being destined for sale to paper mills and sawmills. Although the Appellant could not specify the number of hectares on which the logging work was done starting in 1987, the evidence did show that during the years from 1998 to 2006, the Appellant's business generated cumulative gross income of about $500,000, 68% of which came from the sale of timber to sawmills and paper mills. In fact, the Appellant's annual sales during that period totalled about $39,000, on average. It should be noted that the logging work was done by the Appellant during that period, with the exception of 1999 and 2000, when he hired subcontractors to do it. I would also note that the Appellant did not do logging during the years in issue.
+[10] Counsel for the Respondent argued that the primary focus of the Appellant's business was not "lumbering or logging, but [was] planting, nurturing and harvesting trees pursuant to a forestry management or other similar resource plan", to quote paragraph 13 of Interpretation Bulletin IT‑373R2, essentially because the Appellant has not shown that the logging was done on areas larger than the areas where the work associated with conservation, maintenance, regeneration and reforestation was done, that work, I would point out, having been done on an area representing barely 5% of the total area of the Appellant's woodlot. Counsel for the Respondent also stressed that the Appellant described his business as a farming operation in his income tax returns.
+[11] It seems to me to be reductionist and simplistic, at the least, to decide that the Appellant's business is a farming operation on the ground that he has failed to show that the logging was done on an area larger than the area where the work associated with conservation, maintenance, regeneration and reforestation was done. The factor involving the area associated with either of the activities is a factor that must be considered, but in my opinion it cannot be decisive, particularly when, in this case, the so-called farming work has been done, since 1987, on barely 5% of the area of the woodlot, and barely 2% of the area since 1999. Rather, we must consider a series of factors, in particular the time and financial or other resources devoted to each of the activities by the Appellant. On that point, it seems to me to be implausible to conclude, having regard to the evidence submitted, that the time spent by the Appellant on logging and building forest roads from 1987 to 2003 was less significant than the time spent maintaining, conserving, regenerating and reforesting on less than 5% of the area of the woodlot. It also seems obvious to me that the largest share of the financial resources was devoted by the Appellant to building forest roads and cutting timber.
+[12] For these reasons, it is my opinion that the Appellant's business was not a farming operation, it was a logging business, because the activities associated strictly with the logging business were more significant than the activities associated specifically with a farming operation. Accordingly, the Appellant was entitled to deduct the losses associated with the operation of the logging business during the years in issue from his income from employment in the same years.
+[13] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 20th day of May, 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of July 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC257
+COURT FILE NO.: 2007-1469(IT)I
+STYLE OF CAUSE: JEAN-CLAUDE RICHARD, S/N PRODUITS FORESTIERS J.C.R. ENR. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: January 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: May 20, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] (See Exhibit I-2)
+[2] Desrosiers Estate v. Canada, [2000] T.C.J. No. 160 (QL), File No. 98-906(IT)G.

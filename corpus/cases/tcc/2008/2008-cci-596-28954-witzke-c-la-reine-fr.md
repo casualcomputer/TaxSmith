@@ -1,0 +1,178 @@
+---
+title: "Witzke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28954/index.do"
+last_modified: "2008-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 596"
+citation2: ""
+neutral_citation: "2008 CCI 596"
+decision_date: "2008-11-07"
+language: "fr"
+item_id: "28954"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1394
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:13:58.333000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2fa0689f0a945d3cd85e900b978db9c76a9dc42f4b86860c19a7cc291186f91c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Witzke c. La Reine
+
+- Citation: 2008 CCI 596
+- Decision date: 2008-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1394, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Witzke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-11-07
+Référence neutre
+2008 CCI 596
+Numéro de dossier
+2007-773(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2007-773(IT)I
+2008-1779(IT)I
+ENTRE :
+EDWIN WITZKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune le 23 octobre 2008,
+à Edmonton (Alberta).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Deborah McGuire
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2003, 2004 et 2005 sont rejetés, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 7e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+Référence : 2008CCI596
+Date : 20081107
+Dossiers : 2007-773(IT)I
+2008-1779(IT)I
+ENTRE :
+EDWIN WITZKE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Dans les présents appels, la question à trancher est de savoir si l’appelant est en droit de déduire, dans le calcul de son revenu aux fins de la Loi de l’impôt sur le revenu (la « Loi »), les montants qu’il a versés à son épouse en 2002, en 2003, en 2004, et en 2005 alors que le couple vivait séparé. À titre subsidiaire, l’appelant soutient qu’on devrait [traduction] « lui accorder l’exemption de personne mariée » du fait qu’il subvenait aux besoins de son épouse.
+[2] L’appelant et son épouse se sont mariés le 12 août 1963. Le 1er juin 2001, l’épouse de l’appelant a déménagé du domicile conjugal, et le couple a vécu séparé depuis lors.
+[3] L’appelant a consulté un avocat au sujet de ses obligations à l’égard de son épouse, et il a appris qu’il devait verser une pension à celle‑ci. En 2002 et en 2003, l’appelant a effectué des paiements mensuels au profit de son épouse. En 2004, il a consulté un autre avocat, qui lui a lui aussi confirmé qu’il devait verser de l’argent à son épouse, ce qu’il a donc continué de faire. Malheureusement, aucun des deux avocats n’a mentionné à l’appelant que ces paiements devaient être effectués aux termes d’un accord écrit ou de l’ordonnance d’un tribunal s’il prévoyait les déduire de son revenu en vertu de la Loi.
+[4] L’appelant a consulté un troisième avocat, lequel a entrepris de rédiger un accord écrit qui devait permettre aux époux de régler diverses questions, y compris celle des montants que l’appelant versait à son épouse. Cette démarche a abouti à la conclusion d’un accord entre les époux. L’appelant a signé cet accord le 5 décembre 2005. Toutefois, son épouse s’y est refusée. Plus précisément, elle a manifesté son désaccord à l’égard de certaines parties de l’article 2 traitant de la pension alimentaire. À la suite de la suppression de certains passages de cet article, l’épouse de l’appelant a signé l’accord le 16 janvier 2006.
+[5] L’alinéa 60b) de la Loi prévoit qu’un contribuable peut déduire de son revenu certains paiements effectués à titre de pension alimentaire. L’alinéa 56(1)b) de la Loi est la disposition correspondante, qui obligerait l’épouse de l’appelant à ajouter à son revenu les sommes que celui‑ci aurait légitimement le droit de déduire. Par conséquent, si l’appelant peut déduire la pension alimentaire, ces mêmes montants représenteront un revenu pour son épouse. L’alinéa 60b) de la Loi prévoit ce qui suit :
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[Non souligné dans l’original.]
+[6] Le paragraphe 56.1(4) de la Loi définit une « pension alimentaire » de la manière suivante :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[Non souligné dans l’original.]
+[7] Par conséquent, afin d’être considéré comme une pension alimentaire, et donc comme un montant que le payeur peut déduire (et qui est un revenu pour le bénéficiaire), le montant doit avoir été versé (et donc reçu) aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit. En l’espèce, aucune ordonnance d’un tribunal compétent n’a été rendue au sujet de la pension alimentaire, et le seul accord écrit qui existe est l’accord susmentionné, qui n’a été finalisé qu’en 2006, quand l’épouse de l’appelant l’a signé. Par conséquent, les paiements effectués par l’appelant en 2002, en 2003, en 2004 et en 2005 (sous réserve des dispositions du paragraphe 60.1(3) de la Loi) ne peuvent être considérés comme ayant été effectués aux termes de cet accord, dans la mesure où celui‑ci n’est entré en vigueur qu’en 2006.
+[8] Le paragraphe 60.1(3) de la Loi prévoit que, dans certains cas, les montants payés avant l’entrée en vigueur d’un accord écrit peuvent être considérés comme ayant été effectués aux termes de cet accord. Ce paragraphe est ainsi rédigé :
+60.1(3) Pour l’application du présent article et de l’article 60, lorsqu’un accord écrit ou l’ordonnance d’un tribunal compétent, établi à un moment d’une année d’imposition, prévoit qu’un montant payé avant ce moment et au cours de l’année ou de l’année d’imposition précédente est considéré comme payé et reçu au titre de l’accord ou de l’ordonnance, les présomptions suivantes s’appliquent :
+a) le montant est réputé avoir été payé au titre de l’accord ou de l’ordonnance;
+b) l’accord ou l’ordonnance est réputé, sauf pour l’application du présent paragraphe, avoir été établi le jour où un tel montant est payé pour la première fois. Toutefois, lorsque l’accord ou l’ordonnance est établi après avril 1997 et modifie un montant de pension alimentaire pour enfants payable au bénéficiaire par rapport au dernier semblable montant qui lui a été payé avant mai 1997, chaque montant modifié de pension alimentaire pour enfants payé aux termes de l’accord ou de l’ordonnance est réputé avoir été payable aux termes d’un accord ou d’une ordonnance dont la date d’exécution correspond au jour où le montant modifié est à verser pour la première fois.
+[9] Comme il a été mentionné ci‑dessus, certains passages de l’article 2 ont été supprimés avant que l’épouse de l’appelant n’accepte de signer l’accord. Il s’agit des extraits suivants :
+[traduction]
+Les parties reconnaissent et attestent que l’époux a payé à l’épouse, par suite d’une entente entre les parties, et que l’épouse a reçu, les montants suivants, à partir de janvier 2004, à titre de paiements mensuels de pension alimentaire :
+a) 1 733,90 $ par mois du 1er janvier 2004 au 31 décembre 2004, soit un montant total de 20 806,80 $ pour 2004;
+b) 1 399,30 $ par mois du 1er janvier 2005 au 31 décembre 2005, soit un montant total de 16 791,60 $ pour 2005.
+[10] Aussi bien l’appelant que son épouse ont parafé l’accord afin d’attester qu’ils reconnaissaient et qu’ils acceptaient la suppression de la partie de l’article 2 reproduite ci‑dessus. D’autres changements ont été apportés au paragraphe suivant du même article. Avant ces changements, cet article était ainsi rédigé :
+[traduction]
+L’époux continuera de verser mensuellement la somme de 1 399,30 $ à titre de pension alimentaire, payable le premier jour de chaque mois, et ce, à partir du 31 janvier 2006, à la condition que ces paiements de pension alimentaire prennent définitivement fin à compter du versement payable le mois suivant celui où l’épouse touchera la partie de la pension de retraite de l’époux qui lui revient conformément aux termes du présent accord.
+Les mots [traduction] « continuera de verser » ont été remplacés par [traduction] « versera », et le montant de 1 399,30 $ a été remplacé par [traduction] « 1 408 $ plus les augmentations liées à l’indexation sur le coût de la vie ». Par ailleurs, à la deuxième ligne, les mots [traduction] « premier jour » ont été rayés.
+[11] Les parties n’ont pas supprimé le troisième paragraphe de l’article 2, qui prévoit ce qui suit :
+[traduction]
+Les parties conviennent que les paiements de pension alimentaire déjà effectués, tout comme ceux qui seront effectués à l’avenir, seront considérés comme des revenus imposables pour l’épouse et seront déductibles par l’époux.
+[12] Ce dernier paragraphe de l’article 2 pourrait laisser entendre que les parties souhaitaient que les dispositions du paragraphe 60.1(3) de la Loi (et celles du paragraphe correspondant pour le bénéficiaire, à savoir le paragraphe 56.1(3) de la Loi) s’appliquent. Toutefois, l’appelant a témoigné avoir compris, quand l’accord a été signé, que le fait de supprimer la première partie de l’article 2 impliquait qu’il ne pourrait pas déduire de son revenu les paiements effectués avant 2006. Interrogé au sujet du dernier paragraphe de l’article 2, l’appelant a déclaré que ce paragraphe aurait dû être supprimé, et qu’il s’agissait sans doute d’une omission. L’appelant a de toute évidence compris que son épouse ne voulait inclure dans son revenu aucun des paiements qu’il lui avait faits avant 2006, et qu’il ne pourrait déduire ces montants.
+[13] L’extrait suivant se trouve à la page 267 de la 14e édition de l’ouvrage Cheshire, Fifoot & Furmston’s Law of Contract :
+[traduction]
+Dans les domaines où ils s’appliquent de manière exclusive, les principes d’equity ont permis de trancher de manière satisfaisante des litiges où le consentement, bien qu’indéniable et authentique, a par erreur été exprimé de façon inexacte dans un instrument ultérieur. Supposons que A s’engage oralement à vendre une maison à B, le terrain adjacent n’étant pas compris dans l’entente. Par erreur, un instrument ultérieur, écrit et formel, décrit le jardin comme partie intégrante du bien à vendre, et, ce qui est plus grave, le transfert qui s’ensuit a pour effet de remettre effectivement le terrain entre les mains de B. A peut‑il obtenir la rectification de l’accord écrit et de l’acte de transfert, ou l’argument voulant qu’un document écrit et signé prévale l’emportera‑t‑il?
+On doit immédiatement répondre à cela que, dans les affaires de ce genre, quand il est prouvé qu’en raison d’une erreur le contrat écrit ne donne pas une idée exacte de l’intention réelle des parties, la Cour a compétence, non seulement pour rectifier l’accord écrit, mais également pour ordonner que celui‑ci soit exécuté en nature conformément à ladite rectification.
+[14] Le passage suivant est extrait de la 28e édition de l’ouvrage Anson’s Law of Contract :
+[traduction]
+Quand un accord a été couché sur papier, ou qu’un acte a été signé, et que le document écrit ou l’acte, du fait d’une erreur mutuelle, n’exprime pas l’intention commune des parties au moment de sa signature, la Cour rectifiera le document de manière à ce qu’il soit conforme à leur intention véritable.
+[15] En l’espèce, la question à trancher n’est pas de savoir si l’accord devrait être modifié par la suppression du dernier paragraphe de l’article 2 (ce qui de toute manière ne pourrait être fait, étant donné que la Cour n’est pas une cour d’equity (Sunil Lighting Products c. Canada (Ministre du Revenu national – M.R.N.), [1993] A.C.I. n° 666)), mais plutôt de savoir si, en appliquant à l’appelant les dispositions du paragraphe 60.1(3) de la Loi, on doit tenir compte du dernier paragraphe de l’article 2 de l’accord. Étant donné que l’appelant a clairement déclaré avoir compris que le fait de supprimer la première partie de l’article 2 impliquait qu’il ne pourrait pas déduire de son revenu les montants versés avant 2006, et que, lorsqu’il a été interrogé au sujet du dernier paragraphe de l’article 2, il a déclaré que cet article aurait dû être supprimé et qu’il s’agissait probablement d’une omission, je suis d’avis que, dans la mesure où le fait de tenir compte de ce paragraphe avantagerait l’appelant au détriment de son épouse, et où l’appelant reconnaît que ce paragraphe ne devrait pas figurer dans l’accord, il ne serait pas approprié que je considère le dernier paragraphe de l’article 2 comme faisant partie intégrante de l’accord.
+[16] Il apparaît clairement qu’à l’origine, quand l’accord a été rédigé et qu’il a été signé par l’appelant, les dispositions de l’article 2 visaient à permettre à ce dernier de déduire de son revenu les montants payés en 2004 et en 2005 (en tenant pour acquis que son épouse aurait signé l’accord en décembre 2005). Étant donné que cette partie de l’article a été supprimée de l’accord avant que l’épouse de l’appelant n’accepte de le signer, on ne peut considérer ce passage comme faisant partie de l’accord signé en 2006, et les paiements effectués en 2005 (à savoir l’année précédente) ne sont pas déductibles.
+[17] À titre subsidiaire, l’appelant a demandé que lui soit accordé un crédit d’impôt, parce que lui et son épouse étaient toujours mariés et qu’il subvenait aux besoins de cette dernière. Le crédit de personne mariée subvenant aux besoins de son conjoint est prévu par l’alinéa 118(1)a) de la Loi, qui énonce notamment ce qui suit :
+118. (1) Le produit de la multiplication du total des montants visés aux alinéas a) et e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+a) si, à un moment de l’année, le particulier est marié ou vit en union de fait et subvient aux besoins de son époux ou conjoint de fait dont il ne vit pas séparé pour cause d’échec de leur mariage ou union de fait, le total de 7 131 $ et de la somme obtenue par la formule suivante : […]
+[Non souligné dans l’original.]
+[18] Étant donné que l’appelant vivait séparé de son épouse en 2002, en 2003, en 2004 et en 2005, il ne peut recevoir de crédit en vertu de l’alinéa 118(1)a) de la Loi.
+[19] Par conséquent, les appels sont rejetés, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 7e jour de novembre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI596
+NOS DES DOSSIERS DE LA COUR : 2007-773(IT)I et 2008-1779(IT)I
+INTITULÉ : Edwin Witzke et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 23 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 7 novembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Deborah McGuire
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,145 @@
+Title: Wright v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26194/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-485-26194-wright-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-08-09
+
+# Wright v. The Queen
+
+- Citation: 2005 TCC 485
+- Decision date: 2005-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3925, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wright v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-09
+Neutral citation
+2005 TCC 485
+File numbers
+2003-1995(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1995(IT)G
+BETWEEN:
+WILLIAM H. WRIGHT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+By: The Honourable D.G.H. Bowman, Chief Justice
+Written Submissions:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stacey Repas
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant to compel the production by the Respondent of certain documents;
+The motion is dismissed.
+The costs of this motion may be dealt with by the trial judge.
+Signed at Toronto, Ontario, this 9th day of August 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Docket: 2003-1993(IT)G
+BETWEEN:
+DONNA L. WRIGHT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+By: The Honourable D.G.H. Bowman, Chief Justice
+Written Submissions:
+Agent for the Appellant:
+William Wright
+Counsel for the Respondent:
+Stacey Repas
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant to compel the production by the Respondent of certain documents that the Appellant's motion be quashed;
+The motion is dismissed.
+The costs of this motion may be dealt with by the trial judge.
+Signed at Toronto, Ontario, this 9th day of August 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC485
+Date: 20050809
+Dockets: 2003-1995(IT)G
+2003-1993(IT)G
+BETWEEN:
+WILLIAM WRIGHT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+- and -
+BETWEEN:
+DONNA L. WRIGHT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowman, C.J.
+[1] On June 21, 2005, I heard a motion by the appellants for an order permitting them to examine an officer of the Crown for discovery. The reason an order was necessary was that the amount in issue was $23,009.22. If the amount in issue is less than $25,000 the Tax Court of Canada Rules (General Procedure) require that an oral discovery cannot be held unless the court so orders. The granting of such an order is discretionary and, on the facts before me, I ordered that oral discoveries could be held and were to be completed by August 31, 2005 and undertakings given at discovery were to be completed by September 30, 2005.
+[2] The appellants now seek an order for the production of certain documents. Mr. Wright has informed counsel for the Respondent that he will not proceed with the examinations for discovery of a Crown officer until the documents are produced. Counsel has refused and this motion ensued. It proceeded by way of written submissions.
+[3] The appellants now want the Crown to produce three categories of documents.
+(a) Organizational charts of Canada Customs and Revenue Agency ("CRA") and of the International Tax Service Office and the Vancouver Tax Service Office.
+I do not know what the appellants hope to achieve with this information. It is, in my view, totally irrelevant to the issues that are properly before the court.
+The appeals are against assessments. The issue is whether the assessments are right or wrong. It is not an action against officers of the CRA.
+(b) The appellants seek as well production of print-outs of certain accounts of the CRA. I have no way of knowing what these accounts are. I assume they have to do with the appellants' tax accounts. They may be relevant to the argument that interest was improperly assessed. The initial response by Crown counsel that the Tax Court of Canada has no jurisdiction to consider the correctness of interest assessed is utterly without foundation. Interest, like tax and penalties, is a component of the assessment that the Minister is entitled to make and the correctness of its computation or imposition is a matter that can be challenged in an appeal to the Tax Court of Canada from an assessment. There must however be some foundation laid for such a challenge. If Mr. Wright wishes to ask an officer of the Crown on discovery how the interest was calculated he may do so if the question is relevant to the issues raised in the pleadings.
+Apart from the unfounded arguments based on jurisdiction, the respondent's argument seems to be that the respondent cannot be compelled to produce any relevant documents that are not set out in its list of documents because the production of documents in this case is governed by section 81 of the Rules and not section 82. Moreover the respondent argues that no rule permits the court to compel the production of documents. No such rule is required. The court has an inherent power to control its own processes and compelling the production of relevant documents is clearly an aspect of that power. I reject the startling proposition that relevant documents not listed in the Crown's list of documents need not be produced if requested but must be obtained under the Access to Information procedures.
+The Tax Court of Canada Rules are unique in that section 81 of the Rules permits a party to provide a list of only those documents that that party intends to rely on at trial. All other Courts in Canada, including the Federal Court of Canada, require full disclosure. Where an order for full disclosure is made under section 82 of the Rules, section 88 permits the court to compel the production of further documents, cross-examination on the affidavit or the service of a further and better affidavit of documents. These specific powers appear to arise in the context of an order under section 82 of the Rules. Despite the absence of a similar rule where section 81 of the Rules is applicable, the Court obviously has the power to compel production of relevant documents not mentioned in the section 81 list.
+Although I think the Crown is stonewalling, I am not satisfied that a prima facie case has been made that the documents that the appellants wish to have produced are relevant to the issues raised in the pleadings. If production is improperly refused after a proper foundation is laid in the examinations for discovery, the appellants can renew their motion.
+If the Crown continues to take the position that it need not produce documents not set out in its list, the appellants may wish to bring a motion for an order for full production under section 82 of the Rules.
+The refusal by the Crown to disclose documents not set out in its list of documents or forcing an appellant to apply under the Access to Information Act may well result in a decision by the Rules Committee to remove Rule 81, leaving all production of documents to be dealt with under the full disclosure provisions of Rule 82.
+(c) Correspondence and memoranda between the CRA and the Department of Justice are prima facie covered by solicitor-client privilege and are not producible unless some basis is established for lifting the solicitor-client privilege. This has not been done.
+[4] There has been altogether too much procedural manoeuvring in this case. I would urge the parties to stop the pointless wrangling and posturing, hold the examinations for discovery and get on to trial on the substantive issues.
+[5] The motion is dismissed. The costs of this motion may be dealt with by the trial judge.
+Signed at Toronto, Ontario, this 9th day of August 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC485
+COURT FILE NO.:
+2003-1995(IT)G
+2003-1993(IT)G
+STYLE OF CAUSE:
+William Wright and
+Donna L. Wright and
+Her Majesty The Queen
+PLACE OF HEARING:
+N/A
+DATE OF HEARING:
+N/A
+REASONS FOR ORDER BY:
+The Honourable D.G.H. Bowman
+Chief Justice
+DATE OF ORDER AND
+REASONS FOR ORDER:
+August 9, 2005
+WRITTEN SUBMISISONS:
+Agent for the Appellants:
+William Wright
+Counsel for the Respondent:
+Stacey Repas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

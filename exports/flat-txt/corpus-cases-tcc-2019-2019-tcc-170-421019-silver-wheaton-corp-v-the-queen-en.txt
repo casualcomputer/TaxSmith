@@ -1,0 +1,314 @@
+Title: Silver Wheaton Corp. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/421019/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-170-421019-silver-wheaton-corp-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-08-19
+
+# Silver Wheaton Corp. v. The Queen
+
+- Citation: 2019 TCC 170
+- Decision date: 2019-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4235, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Silver Wheaton Corp. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-19
+Neutral citation
+2019 TCC 170
+File numbers
+2016-77(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-77(IT)G
+BETWEEN:
+SILVER WHEATON CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+JOE ELEK, THOMAS BARTSCH, LARRY BRANDOW,
+DIANA CHOI, BENJAMIN POTARACKE,
+JEDRZEJ BOROWCZYK, CHARLES REMMEL,
+Applicants (Moving Parties).
+Motion heard on May 16, 2019 at Vancouver, British Columbia
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Thomas Gelbman
+Carly Fidler
+Counsel for the Respondent:
+Matthew Turnell
+Perry Derksen
+Michael Taylor
+Counsel for the Applicants:
+Paul Miller
+ORDER
+In accordance with the attached Reasons for Order:
+1. The Applicants are granted leave of this Court to file their motion;
+2. The Applicants’ motion with respect to the implied undertaking of confidentiality, as more particularly described in the attached Reasons for Order, is dismissed; and
+3. Costs are granted to Silver Wheaton Corp., with 70% payable by the Applicants and 30% payable by the Respondent. The parties will have 30 days from the date of this order to arrive at an agreement on the amount of such costs, failing which they are directed to file written submissions within 60 days of the date of this order. Such submissions shall not exceed 10 pages.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2019.
+“S.D’Arcy”
+D'Arcy J.
+Citation: 2019 TCC 170
+Date: 20190819
+Docket: 2016-77(IT)G
+BETWEEN:
+SILVER WHEATON CORP.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+JOE ELEK, THOMAS BARTSCH, LARRY BRANDOW,
+DIANA CHOI, BENJAMIN POTARACKE,
+JEDRZEJ BOROWCZYK, CHARLES REMMEL,
+Applicants (Moving Parties).
+REASONS FOR ORDER
+D'Arcy J.
+[1] Seven individuals who are not parties to the appeal before the Court bring this motion. I will refer to the seven individuals as the “Non-parties”. As I will discuss, the Non-parties are the representative plaintiffs in a class action suit filed in California.
+[2] The motion relates to the application of the implied undertaking of confidentiality to the Appellant Silver Wheaton Corp.’s discovery. The motion as originally filed requested the following:
+- An order of the Court granting leave to the Non-parties to file and serve this motion;
+- An order of the Court requiring Silver Wheaton Corp. (“Silver Wheaton”) to provide the Non-parties with copies of the following for use in related litigation in California:
+All documents Silver Wheaton has identified in any list of documents (and any amendments or supplements thereto) filed in this appeal;
+All documents Silver Wheaton has produced in response to discovery undertakings in this appeal;
+All written responses to discovery undertakings in this appeal;
+Transcripts of all examinations for discovery of Silver Wheaton’s representatives in this appeal;
+All affidavits of Silver Wheaton’s representatives in this appeal; and
+All answers to requests for admissions in this appeal.
+[3] Shortly after the Non-parties’ counsel began his argument, I asked him whether this Court has the jurisdiction to issue a production order requiring Silver Wheaton to produce documents to someone who is not a party to the proceedings before the Court. After considering this issue, counsel for the Non‑parties, with the consent of counsel for Silver Wheaton and counsel for the Respondent (the Crown), amended the Non-parties’ motion such that it no longer requests an order for the production of documents, but rather focuses solely on the application of the implied undertaking to Silver Wheaton’s discovery. Specifically, the amended motion requests the following:
+An order declaring that the implied undertaking of confidentiality does not apply, or alternatively, if it does apply, that it is waived with respect to:
+All documents Silver Wheaton has identified in any list of documents (and any amendments or supplements thereto) filed in this appeal;
+All documents Silver Wheaton has produced in response to discovery undertakings in this appeal;
+All written responses to discovery undertakings by Silver Wheaton in this appeal;
+Transcripts of all examinations for discovery of Silver Wheaton’s representatives in this appeal;
+All affidavits of Silver Wheaton’s representatives in this appeal; and
+All answers to requests for admissions by Silver Wheaton in this appeal.
+[4] Silver Wheaton opposes the revised motion.
+[5] The Crown supports the Non-parties’ position that the implied undertaking of confidentiality does not apply to Silver Wheaton’s discovery. She takes no position with respect to the Non-parties’ request that the Court waive the implied undertaking with respect to Silver Wheaton’s discovery. As I will discuss below, I find it troubling that the Crown, who is a party in every proceeding before this Court, supports a position that, if accepted, would seriously weaken the application of the implied undertaking of confidentiality in this Court.
+I. Summary of Facts
+[6] On January 8, 2016, Silver Wheaton filed in this Court, an appeal (the “Tax Court Appeal”) from reassessments issued by the Minister of National Revenue (the “Minister”) on September 24, 2015.
+[7] The issues raised in the reassessments and the Tax Court Appeal relate to transfer pricing adjustments under section 247 of the Income Tax Act for the 2005 to 2010 taxation years. The amounts at issue exceeded 280 million dollars.
+[8] In the course of the appeal, the parties carried out numerous litigation steps, including providing their lists of documents and conducting discovery of the other party’s nominees.
+[9] Silver Wheaton informed the Court that Silver Wheaton and the Crown disclosed approximately 32,000 documents with a date range from 2004 to 2011. Silver Wheaton’s two discovery nominees were questioned over 23 days of examinations for discovery. Silver Wheaton responded to approximately 900 undertakings.
+[10] On December 13, 2018, Silver Wheaton, on behalf of the parties, informed the Court that the parties had entered into Minutes of Settlement on that same date and that Silver Wheaton had announced the terms of the settlement agreement by way of a news release.
+[11] The settlement occurred prior to the completion of discovery.
+[12] All documents filed with the Tax Court of Canada in this appeal, including all transcripts and motion material, except for the Notice of Appeal, Reply to the Notice of Appeal and Answer, are subject to a sealing order issued by the case management judge, my colleague Justice Hogan. That order is due to expire on September 30, 2019. Either party may bring a motion on or before September 30, 2019 for an extension of the sealing order or for a permanent sealing order.
+[13] On December 18, 2015, the Non-parties filed a federal securities class action in the United States District Court, Central District of California (which I will refer to as the “U.S. Class Action”). The Non-parties filed the U.S. Class Action on behalf of a class of all persons and entities who purchased or otherwise acquired the securities of Silver Wheaton from March 30, 2011 to July 6, 2015. The defendants in the U.S. Class Action are Silver Wheaton and three individuals. The three individuals are officers and former officers of Silver Wheaton.
+[14] In the U.S. Class Action, the Non-parties argue that they suffered injury as a result of a drop in Silver Wheaton’s share price that they claim Silver Wheaton caused by its alleged failure to report, on a timely basis, the Minister’s reassessment under section 247 of the Income Tax Act. The U.S. Class Action is described in a decision of the United States District Court, Central District of California as follows:
+Plaintiffs’ Consolidated Complaint . . . alleges that Silver [Silver Wheaton] . . . filed false and misleading financial statements with the U.S. Securities and Exchange Commission (“SEC”), namely, that Silver failed to disclose a risk that the Canadian Revenue Agency (“CRA”) likely would reassess its tax liability under Canada’s transfer pricing rules for profits earned by Silver’s Cayman Island subsidiary, on which Silver paid no Canadian income tax. . . . On July 6, 2015, Silver announced it had received from the CRA a proposal to reassess Silver’s income earned by foreign subsidiaries for tax years 2005 through 2010, under the transfer pricing provisions of Canadian tax law. . . . Silver is challenging that reassessment in Canadian tax court. These consolidated actions were filed on July 8 and 9, 2015, alleging that Silver would have been informed of the CRA’s intention to conduct an audit by no later than February of 2011. . . . Accordingly, the class period runs from March 30, 2011 to July 6, 2015. . . . [1]
+[15] At some point, the Non-parties filed a motion in the U.S. Class Action to compel production of documents. Specifically, the Non-parties sought production of two categories of documents: first legal opinions provided by Silver Wheaton to its auditor, Deloitte & Touche LLP (Canada), and to its consultant, PricewaterhouseCoopers LLP (Canada); and second, all discovery evidence produced in this appeal, i.e., the Tax Court Appeal. This included discovery evidence produced by both Silver Wheaton and the Crown.
+[16] The United States District Court granted the motion with respect to the first group of documents [2] but denied the motion with respect to the discovery evidence produced in the Tax Court Appeal. The Court stated the following in reaching its decision with respect to the discovery:
+Plaintiffs seek an order compelling production of all discovery that has occurred in the Canadian Tax Court where Silver [Silver Wheaton] is challenging the CRA reassessment. This would include transcripts of depositions of Silver personnel and documents produced to Silver by the CRA. Silver contends that the Canadian common law principle of an “implied undertaking” forbids a party from using discovered documents in another proceeding without first obtaining the approval of the Canadian court to [sic] whom the undertaking is owed. The parties disagree over whether the “implied undertaking” doctrine would be applicable to all the discovery sought by the Plaintiffs.
+As an initial matter, the Canadian Tax Court documents exclusively concern a Canadian proceeding that does not “touch base” with the United States. Thus, Canadian privilege law applies to the Tax Court documents. Further, it appears that the Canadian doctrine of “implied undertaking” applies to bar disclosure of the documents in this proceeding, absent a ruling from the Canadian Tax Court. Justice Bastarache [Silver Wheaton’s expert witness in the United States District Court motion] notes in his declaration that, based on case authority, “Because the undertaking is to the court presiding over the litigation, only the court to which the undertaking was made has jurisdiction to vary on its application.” (Doc. No. 171, ¶40.) An applicant can seek to vary an implied undertaking by showing, on a balance of probabilities, the existence of a public interest of greater weight than the values of privacy and efficient conduct of civil litigation. (Id., ¶41.) Plaintiffs contend that the public interest in this case would warrant variance from the implied undertaking but, even assuming that is so, Plaintiffs must present this contention to the Canadian Tax Court for resolution in the first instance. [3]
+[17] The Non-parties subsequently brought this motion. However, the Non‑parties are only requesting access to Silver Wheaton’s discovery evidence. At this point in time, they do not seek any order with respect to the Crown’s discovery evidence.
+II. Issues Raised by the Parties
+[18] The parties, particularly the Non-parties, raise the following issues:
+Does the Court have jurisdiction to grant an order that the implied undertaking does not apply to Silver Wheaton’s own discovery or to grant an order waiving the implied undertaking?
+Do the Non-parties have standing to bring this motion?
+Does the implied undertaking apply to Silver Wheaton’s own documents or discovery transcripts and written responses?
+If the implied undertaking does apply to Silver Wheaton’s discovery, should the Court waive the undertaking as it applies to Silver Wheaton’s discovery?
+III. The Implied Undertaking of Confidentiality
+[19] The Tax Court of Canada rules do not contain a specific provision dealing with the use of discovery evidence outside of the appeal in which it was provided. Therefore, the Court must look to the common law.
+[20] The leading case on the implied undertaking of confidentiality is the decision of the Supreme Court of Canada in Juman v. Doucette, 2008 SCC 8, [2008] 1 S.C.R. 157 (“Juman”).
+[21] The appellant in Juman provided day-care services in her home. A 16‑month-old child suffered a seizure while in the appellant’s care. The child and her parents sued the owners and operators of the day-care centre for damages. At the time of the Supreme Court of Canada hearing, the Vancouver Police Department had been conducting a criminal investigation of the appellant. The appellant was arrested in May of 2004, but as of the date of the Supreme Court of Canada hearing no charges had been laid,
+[22] The appellant brought in the British Columbia Supreme Court (BCSC) an interlocutory motion seeking to prohibit the parties to the civil proceedings from providing the transcripts of the discovery (which had not yet been held) to the police. She also sought an order preventing the release of information from the transcripts to the police or the Attorney General of British Columbia and an order prohibiting the Attorney General of British Columbia, the police and the RCMP from obtaining and using copies of the transcripts and solicitor’s notes without further court order. She relied upon the implied undertaking of confidentiality.
+[23] The Attorney General of British Columbia opposed the appellant’s motions and brought his own motion in the BCSC asking for an order declaring that:
+. . . the implied undertaking which will attach to the transcript of the examination for discovery of the Defendant, Suzette Juman, also known as Suzette McKenzie, be varied so as to permit:
+1. any person in lawful possession of the transcript to provide a copy to the police or to the Attorney-General to assist in the investigation and/or prosecution of any criminal offence which may have occurred;
+2. the police or the Attorney-General to employ any investigative tool (including, but not limited to search warrants and subpoenas) which might otherwise be available to them to procure a copy of the transcript. [4]
+[24] Subsequent to the hearing in the BCSC, the appellant was examined for discovery for four days between June 2005 and September 2006. In 2006, the parties settled the civil action. The appellant’s discovery was never entered into evidence at trial, nor were its contents disclosed in open court.
+[25] The BCSC dismissed the appellant’s motions but issued a declaration that the implied undertaking applied to the appellant’s discovery. Specifically, the BCSC order stated the following:
+THIS COURT DECLARES that:
+1. The Attorney General of British Columbia and the Vancouver Police Department, and their servants and agents, are under a legal obligation not to cause any of the parties to this action or their solicitors to violate their undertaking in respect of the proposed examinations for discovery of the Defendant, Suzette McKenzie, in these proceedings, without the consent of the Defendant, Suzette McKenzie, or without further order of this Court. . . . [5]
+[26] The Attorney General of British Columbia appealed the BCSC order to the British Columbia Court of Appeal (BCCA). The BCCA allowed the appeal and found as follows:
+[88] The implied undertaking of confidentiality in the civil discovery process does not preclude the parties to this action from disclosing Ms. McKenzie's discovery evidence to the police in good faith for the purpose of assisting the police in their criminal investigation.
+[89] The Attorney General of British Columbia, the VPD, and the RCMP may obtain Ms. McKenzie's discovery evidence by lawful investigative means, including subpoenas and search warrants.
+[27] The appellant, Suzette Juman, appealed the BCCA decision to the Supreme Court of Canada. The Supreme Court of Canada allowed the appeal, stating the following at paragraph 58 of its decision:
+[58] As stated, none of the parties bound by the implied undertaking made application to the court to be relieved from its obligations. The application is made solely by the Attorney General of British Columbia to permit
+any person in lawful possession of the transcript to provide a copy to the police or to the Attorney-General to assist in the investigation and/or prosecution of any criminal offence which may have occurred. [B.C.S.C., at para. 6]
+While I would not deny the Attorney General standing to seek to vary an implied undertaking to which he is not a party, I agree with the chambers judge that his application should be rejected on the facts of this case. The purpose of the application was to sidestep the appellant’s silence in the face of police investigation of her conduct. The authorities should not be able to obtain indirectly a transcript which they are unable to obtain directly through a search warrant in the ordinary way because they lack the grounds to justify it.
+[28] In reaching its decision, the Supreme Court of Canada carried out a detailed review of the common law surrounding the implied undertaking of confidentiality. At paragraph 27 of Juman, Justice Binnie stated as follows the rule as it applies to documentary and oral information obtained on discovery:
+For good reason, therefore, the law imposes on the parties to civil litigation an undertaking to the court not to use the documents or answers for any purpose other than securing justice in the civil proceedings in which the answers were compelled (whether or not such documents or answers were in their origin confidential or incriminatory in nature). . . .
+[29] As this Court noted in Armstrong v. The Queen, 2013 TCC 59, [2013] T.C.J. 208 (QL) at paragraph 26, relying on Juman, the purpose of an implied undertaking is to provide a reasonable measure of protection to an examinee’s privacy right where the production of documents and information is compelled, and to encourage complete and candid discovery.
+[30] The Supreme Court of Canada in Juman noted that the implied undertaking may be varied or waived in certain specific situations and is lost once a document is presented in open court. The Court also noted that the implied undertaking survived the settlement of the civil lawsuit. The fact that a settlement has rendered the discovery moot does not affect the appellant’s privacy interest. The undertaking continues to bind the parties. [6]
+[31] In its reasons in Juman, the Supreme Court of Canada referred to its earlier decision in Lac d’Amiante du Québec Ltée v. 2858-0702 Québec Inc., [2001] 2 S.C.R. 743 (Lac d’Amiante). The issue in Lac d’Amiante was whether there is an implied rule of confidentiality concerning evidence or information at examinations on discovery under the Quebec Code of Civil Procedure. The appellants argued that no such rule existed under Quebec civil law. The respondent argued that the implied rule of confidentiality is accepted in common law jurisdictions throughout Canada and that introducing that rule in Quebec civil law would be useful to facilitate the conduct of examinations. In addition, the respondent argued that support for the rule is found in changes that have occurred in Quebec civil procedure and in principles of substantive law.
+[32] The Supreme Court of Canada held at paragraph 79 of Lac d’Amiante that “the rule of confidentiality, the effects of which are analogous to the principles developed by the common law, may be recognized in Quebec in accordance with the techniques of civil law analysis, based on the fundamental principles around which the civil law and judicial procedure are organized.”
+[33] In reaching that decision, the Court made a number of comments with respect to the application of the implied undertaking of confidentiality, relying, in part, on the common law. While some of these comments were repeated in Juman, the Court did make a specific comment emphasizing that if the information is not produced in open court it remains confidential. In particular, at paragraph 65, the Court made the following statement:
+Adopting this rule means that although confidentiality is compromised to some extent at the stage of examination on discovery, there is still a degree of protection of privacy. If the trial never takes place, the information remains confidential. Moreover, when the party who has conducted an examination decides not to use the evidence or information obtained for the purposes of the trial, a right to complete confidentiality remains, except for what may be the practical consequences of communicating the information.
+[Emphasis added.]
+IV. Positions of the Parties
+[34] The Non-parties note that this Court has inherent jurisdiction over its own process. Since protection under the implied undertaking arises from a party’s obligations under the Court’s discovery rules, decisions with respect to permitted disclosure under the implied undertaking rule are part of the Court’s process. Further, since the undertaking is owed to the Court, only the Court can waive the implied undertaking. For these reasons, the Court has the jurisdiction to hear the Non-parties’ motion.
+[35] With respect to the Non-parties’ standing to bring this motion, the Non‑parties rely on the Supreme Court of Canada’s decision in Juman. They argue that the Supreme Court of Canada clearly states that a third party may bring a motion to vary the implied undertaking.
+[36] The Non-parties’ key argument is that the implied undertaking rule does not apply to the documents being sought by the Non-parties because “they seek only documents produced by Silver Wheaton in discovery, and not those of CRA [Canada Revenue Agency] or other parties or witnesses.” [7] They argue that the implied undertaking does not apply to a party’s own discovery documents, transcripts of oral discovery or written responses to undertakings. In effect, they are arguing that while the implied undertaking would apply if they were seeking production of Silver Wheaton’s discovery evidence from the Crown, it does not apply when, as in this motion, they seek production of such discovery evidence from Silver Wheaton.
+[37] In the alternative, the Non-parties argue that the implied undertaking should be waived since the parties and issues involved in the Tax Court Appeal and the U.S. Class Action are sufficiently similar to warrant disclosure of the documents sought by the Non-parties. Counsel for the Non-parties argues that, as between the two actions, there only needs to be a “direct or indirect” relevance of the evidence. In such a situation, it is unlikely the disclosing party will ever be prejudiced. Further, the Non-parties argue that the onus is on Silver Wheaton to show that there would be a substantial detriment or injustice to it.
+[38] The Non-parties also argue that Silver Wheaton, by producing documents in the Tax Court Appeal under section 81 of the Tax Court of Canada Rules (General Procedure), has acknowledged the documents’ relevance to the technical merits of its tax position.
+[39] Counsel for the Crown began his argument by noting that the Crown’s interest in this motion is limited because the Non-parties are not seeking documents from the Crown and they are not seeking the Crown’s documents from Silver Wheaton.
+[40] While counsel described the Crown’s interest as limited, this description is not consistent with the Crown’s actions. The Crown filed a detailed brief in which she strongly argued that the Court should grant the Non-parties’ motion. Further, while a single counsel represented the Non-parties and two counsel represented Silver Wheaton, the Crown chose to have three counsel present at the hearing.
+[41] The Crown argued that this Court has the jurisdiction to consider the extent to which the implied undertaking of confidentiality applies and whether any variations of the implied undertaking are appropriate. The Crown took no position with respect to whether the Court should waive the implied undertaking.
+[42] However, the Crown did agree with the Non-parties’ key argument. She argued that the implied undertaking of confidentiality does not apply to Silver Wheaton’s discovery, including the discovery transcripts, because those are Silver Wheaton’s own documents and discovery. Counsel for the Crown noted that the Crown would not be supporting the Non-parties’ position if the Non‑parties had continued to ask for the evidence from all discovery that has occurred in Canada, including the Crown’s discovery. Counsel stated: “We would agree that the implied undertaking would apply, especially with respect to the Crown’s documents.” In short, the Crown has adopted the Non‑parties’ argument that, while the implied undertaking would apply if the Non-parties sought production of Silver Wheaton’s discovery evidence from the Crown, it does not apply when, as in this motion, they seek production of such discovery evidence from Silver Wheaton.
+[43] I find the Crown’s position with respect to the application of the confidentiality rule to a party’s own discovery troubling. I would have expected the Crown, as someone who is always one of the parties before the Court, to be arguing to protect a rule that is an essential element of the Court’s process. The rule facilitates full disclosure during discovery, particularly the examination of a party’s nominee. Discoveries are essential for the efficient operation of the Court. Besides allowing for an efficient trial and avoiding “litigation by ambush”, a discovery also frequently leads to the parties settling the appeal in question. In short, the Crown is arguing a position that would negatively affect the efficient operation of the Court.
+[44] In addition, the Crown is supporting a position that will negatively affect her in the future. The rule of confidentiality is intended to protect the privacy of the person being examined during discovery, i.e., the nominee both of the appellant and of the Crown.
+[45] If I accepted the Crown’s argument, it would mean that the Crown’s discovery in one appeal, particularly the transcripts of oral discovery and answers to undertakings, could be used in another proceeding before the Court. For example, an appellant in a case involving the general anti-avoidance rule (the “GAAR”) could request the Crown’s discovery in other GAAR cases involving similar provisions.
+[46] When I raised this scenario with the Crown’s three counsel, they replied that in such a situation the Crown would rely upon subsections 241(1) and (2) of the Income Tax Act. In my view, because of the operation of subsection 241(3), the Crown’s discovery would not be protected by subsections 241(1) and (2). As my former colleague Justice Jorré noted in Dominion Nickel Investments Ltd. v. The Queen, [8] it is the very rule that the Crown seeks to destroy, the implied undertaking of confidentiality, that offers protection. Justice Jorré explained the application of paragraph 241(3)(b) and the importance of the implied undertaking as follows:
+. . .
+[26] In section 241 of the Act, Parliament has clearly expressed a strong policy protecting privacy in income tax matters. However, paragraph 241(3)(b) clearly allows for the production of evidence in “any legal proceedings relating to the administration or enforcement of” the Act.
+[27] Accordingly, while the privacy of tax information is, of course, an important consideration, section 241 has no direct application here.
+[28] The general rule is that, where a document is relevant, it will have to be produced in its entirety. However, parts of it may be redacted where the part is “clearly irrelevant”.
+. . .
+[32] In considering privacy interests, it is important to keep in mind that there is now a strong implied undertaking established in Canada that information obtained on discovery may only be used for the purpose of the action in the course of which it was obtained. Except to the extent that the information becomes public in the course of trial, the undertaking survives after the end of the action.
+[33] This undertaking inherently limits the further disclosure of the information and helps protect privacy interests of others.
+[47] Silver Wheaton argues that this Court does not have jurisdiction to waive the implied undertaking of confidentiality for the benefit of the Non-parties. It argues that this Court’s statutory jurisdiction does not empower it to decide matters collateral to the substance of a tax appeal, particularly when the relief is sought by foreign non-parties.
+[48] Silver Wheaton accepts that documents produced in the course of its business, such as a letter written on a specific date, would have to be produced in the U.S. Class Action, if relevant for the purposes of that proceeding. It is not arguing that a document is privileged or covered by a cloak of secrecy merely because it has been produced in the Tax Court Appeal. However, it is arguing that the discovery transcript of its nominee and the “full en block [sic] mass” of documents produced in its discovery in the Tax Court Appeal are subject to the implied undertaking of confidentiality. The implied undertaking protects all materials produced through discovery from being conveyed to a non-party against the producing party’s will.
+[49] Silver Wheaton argues that the implied undertaking of confidentiality should not be waived or varied since the Non-parties have not satisfied the test for such waiver or variance set out in Juman.
+V. Disposition of Motion
+[50] I will first address the issue of whether the Court has the jurisdiction to grant the relief sought by the Non-parties. Besides seeking an order waiving the implied undertaking of confidentiality, the Non-parties seek an order declaring that the implied undertaking of confidentiality does not apply to Silver Wheaton’s own discovery.
+[51] As the Supreme Court of Canada noted in Juman, the duty of the parties not to use the discovery documents, transcripts of oral discovery or answers to discovery questions for any purpose other than securing justice in the civil proceeding in which the answers were compelled is owed to the Court in which the discovery occurs. As a result, it is only the Tax Court of Canada that can waive the implied undertaking of confidentiality with respect to the discovery in the Tax Court Appeal.
+[52] It is my view, that this fact, combined with the Court’s inherent jurisdiction, results in the Court having the jurisdiction to grant the relief sought by the Non-parties.
+[53] In R. v. Cunningham, Rothstein J., wrote for the Supreme Court of Canada:
+[18] Superior courts possess inherent jurisdiction to ensure they can function as courts of law and fulfil their mandate to administer justice (see I. H. Jacob, “The Inherent Jurisdiction of the Court” (1970), 23 Curr. Legal Probs. 23, at pp. 27-28). Inherent jurisdiction includes the authority to control the process of the court, prevent abuses of process, and ensure the machinery of the court functions in an orderly and effective manner. . . .
+[19] Likewise in the case of statutory courts, the authority to control the court’s process and oversee the conduct of counsel is necessarily implied in the grant of power to function as a court of law. This Court has affirmed that courts can apply a “doctrine of jurisdiction by necessary implication” when determining the powers of a statutory tribunal:
+. . . the powers conferred by an enabling statute are construed to include not only those expressly granted but also, by implication, all powers which are practically necessary for the accomplishment of the object intended to be secured by the statutory regime . . . .
+(ATCO Gas and Pipelines Ltd. v. Alberta (Energy and Utilities Board), 2006 SCC 4, [2006] 1 S.C.R. 140, at para. 51)
+Although Bastarache J. was referring to an administrative tribunal, the same rule of jurisdiction, by necessary implication, would apply to statutory courts. [9]
+[54] The Tax Court of Canada is both a superior court and a statutory court. In my view, in light of the Supreme Court of Canada’s decision in Cunningham, the Tax Court clearly has the jurisdiction to determine whether the implied undertaking of confidentiality should be waived. This is part of the Court’s inherent jurisdiction to control the process of the Court and prevent abuses of process. It is only the Court that can waive the implied undertaking of confidentiality and it is the Court that remedies any breach of the undertaking.
+[55] In the motion before the Court, the Tax Court of Canada’s jurisdiction is limited to deciding whether to waive the implied undertaking of confidentiality. The Tax Court of Canada does not have the jurisdiction to direct the United States District Court with respect to what documents do and do not constitute discovery documents. While transcripts of oral discovery and answers to undertakings are clearly part of discovery, there may very well be other documents requested by the Non-parties that are not part of discovery. That is for the United States District Court to decide. As noted previously, Silver Wheaton accepts that a business document that existed prior to discovery does not become privileged merely because it was produced in the Tax Court Appeal. In fact, it appears that a number of Silver Wheaton’s pre-existing business documents have been produced in both appeals.
+[56] The Court’s jurisdiction to decide whether to waive the implied undertaking of confidentiality only comes into play if a duty is owed to the Court under the implied undertaking. Thus, the Tax Court of Canada has the jurisdiction to determine if, in the fact situation before me, a duty under an implied undertaking is owed to the Court.
+[57] During the hearing of the motion, I raised the issue of whether the Non‑parties’ and the Crown’s argument that the implied undertaking of confidentiality does not apply to Silver Wheaton’s own discovery is a collateral attack on the decision of the United States District Court. After reviewing the reasons of the United States District Court, I have concluded that that Court did not issue an order with respect to whether or not the implied undertaking of confidentiality applied to a party’s own discovery.
+[58] The next issue, I must address is whether the Non-parties have standing to bring this motion.
+[59] I have concluded that the Non-parties do have standing to bring this motion. The Supreme Court of Canada noted in Juman that it would not preclude, on the basis of standing, an application by a non-party to vary an undertaking, although success on such an application would be unusual. [10] In Livent Inc. v. Drabinsky, the Ontario Superior Court of Justice noted at paragraph 14 that, “[a]t common law, it appears that non-parties could seek relief from the undertaking but such relief was not readily granted.” [11]
+[60] While the Non-parties have a high mountain to climb before the Court will waive the implied undertaking of confidentiality, they do have standing to make their argument.
+[61] I will now turn to the third issue: whether the implied undertaking of confidentiality applies to Silver Wheaton’s own discovery, including the oral discovery of its nominee. For the following reasons, it is my view that the implied undertaking of confidentiality does apply to Silver Wheaton’s own discovery.
+[62] The implied undertaking of confidentiality is, as stated by the Supreme Court of Canada in Lac d’Amiante, a rule of confidentiality. The rule is that neither documentary nor oral information obtained on discovery is to be used for any purpose other than securing justice in the civil proceedings in which the answers were compelled. The rule may be varied by the court in which the civil proceedings occurred, and a party is always free to voluntarily use its own discovery for any purpose.
+[63] The rule arose as a result of the conflict between the examinee’s privacy interests and the statutory compulsion to participate fully in pre-trial oral and documentary discovery. The rule exists to facilitate full disclosure during discovery and to provide a measure of protection for the privacy interests of the examinee. The Supreme Court of Canada explained these reasons for the rule as follows:
+[24] In the first place, pre-trial discovery is an invasion of a private right to be left alone with your thoughts and papers, however embarrassing, defamatory or scandalous. At least one side in every lawsuit is a reluctant participant. Yet a proper pre-trial discovery is essential to prevent surprise or “litigation by ambush”, to encourage settlement once the facts are known, and to narrow issues even where settlement proves unachievable. . . .
+[25] The public interest in getting at the truth in a civil action outweighs the examinee’s privacy interest, but the latter is nevertheless entitled to a measure of protection. The answers and documents are compelled by statute solely for the purpose of the civil action and the law thus requires that the invasion of privacy should generally be limited to the level of disclosure necessary to satisfy that purpose and that purpose alone. Although the present case involves the issue of self-incrimination of the appellant, that element is not a necessary requirement for protection. Indeed, the disclosed information need not even satisfy the legal requirements of confidentiality set out in Slavutych v. Baker, [1976] 1 S.C.R. 254. The general idea, metaphorically speaking, is that whatever is disclosed in the discovery room stays in the discovery room unless eventually revealed in the courtroom or disclosed by judicial order.
+[26] There is a second rationale supporting the existence of an implied undertaking. A litigant who has some assurance that the documents and answers will not be used for a purpose collateral or ulterior to the proceedings in which they are demanded will be encouraged to provide a more complete and candid discovery. This is of particular interest in an era where documentary production is of a magnitude (“litigation by avalanche”) as often to preclude careful pre-screening by the individuals or corporations making production. . . . [12]
+[Emphasis added.]
+[64] As discussed previously, in Lac d’Amiante the Supreme Court of Canada emphasized that a right to complete confidentiality remains if discovery evidence is not used in open court.
+[65] In remarks similar to the comments it made in Juman, the Supreme Court of Canada in Lac d’Amiante noted that one of the judicial policy reasons for the confidentiality rule is to facilitate full disclosure during discovery. The Court made the following comments at paragraphs 74 and 75 of its decision:
+[74] There are other judicial policy reasons why it is legitimate to recognize the confidentiality rule. As we have seen, examination on discovery is an exploratory proceeding. As Fish J.A. pointed out in his reasons, the purpose of the examination is to encourage the most complete disclosure of the information available, despite the privacy imperative. On the other hand, if a party is afraid that information will be made public as a result of an examination, that may be a disincentive to disclose documents or answer certain questions candidly, which would be contrary to the proper administration of justice and the objective of full disclosure of the evidence. Recognizing the implied obligation of confidentiality will reduce that risk, by protecting the party concerned against disclosure of information that would otherwise not have been used in the case in which the examination was held and the information was disclosed.
+[75] In addition, it is sometimes difficult for a party, at the examination on discover [sic] stage, to assess whether information is useful or relevant to the outcome of the case. This creates a problem for the people who are compelled to disclose personal information that is potentially damaging to their interests. It would therefore be surprising if damaging personal information that was communicated at an examination could be used for purposes unrelated to the case, without being used in that case . . . .
+[Emphasis added.]
+[66] The Supreme Court of Canada was clear in stating that the answers and documents are compelled by statute solely for the purpose of the civil action: “whatever is disclosed in the discovery room stays in the discovery room unless eventually revealed in the courtroom or disclosed by judicial order.” As the Supreme Court of Canada noted in Lac d’Amiante, it would be surprising if damaging personal information that was communicated at an examination for discovery could be used for purposes unrelated to the appeal before the Court, without first being used in that appeal.
+[67] Yet this is exactly what the Non-parties and the Crown are proposing. They are arguing that damaging personal information that was communicated at an examination for discovery can be used by a third party for purposes unrelated to the appeal. All the third party has to do is seek production from the party that was examined. In my view, this would defeat the purpose of the implied undertaking of confidentiality.
+[68] Appellants in appeals before this Court are taxpayers. Their appeals involve their tax liability under the Income Tax Act or the Goods and Services Tax legislation. As a result, they are always required to disclose private personal financial information.
+[69] For example, counsel for Silver Wheaton noted that during its discovery Silver Wheaton’s nominees provided answers to questions seeking private information regarding such things as confidential business practices, commercial negotiations with third parties, and how Silver Wheaton identified, evaluated, priced and negotiated the ten transactions at issue in the appeal. The nominees were required to provide personal information about shareholders, former employees and former directors.
+[70] The Crown and Non-parties are now arguing that the information provided by Silver Wheaton is not protected by the rule of confidentiality. I cannot accept such an argument.
+[71] It is essential for the efficient operation of the Court that there be a full and complete discovery. Information provided at discovery, such as that disclosed by Silver Wheaton, must be protected by the rule of confidentiality, otherwise nominees will be hesitant to disclose such information or, at a minimum, will be very careful about the information they disclose during discovery. As the Supreme Court of Canada noted, such a disincentive to disclose documents or answer certain questions candidly is contrary to the proper administration of justice and the objective of full disclosure of evidence.
+[72] For example, it would lead to prolonged procedural battles. The Court already sees too many motions to produce, which are very time consuming and which lead to delays in the hearing of appeals.
+[73] In addition, full disclosure facilitates settlement. Over the last few years the Court has seen a dramatic increase in settlements, such as the one reached in this appeal. Settlements allow the parties to avoid the cost of lengthy hearings and contribute to the efficient operation of the Court.
+[74] There is no better example of this than what has occurred in the current appeal. After the disclosure of 32,000 documents and after a lengthy examination of Silver Wheaton’s nominees, the parties were able to reach a settlement, thereby avoiding a very long and costly trial.
+[75] As the Supreme Court of Canada has directed, the rule must be applied in a manner that provides the person or entity being discovered with a measure of protection of that person or entity’s privacy interests and facilitates a complete and candid discovery. In my view, this only occurs if the rule of confidentiality applies to a person’s own discovery.
+[76] The Non-parties and the Crown adopt a narrow reading of the Supreme Court of Canada’s description of the implied undertaking of confidentiality. They focus on the parts of the decision that refer to the implied undertaking of confidentiality being given to the other party and on the fact that it is described as an undertaking. In their view, an implied undertaking of confidentiality can only be given to a party to the proceeding. I do not accept that the Supreme Court of Canada intended the rule of confidentiality to be applied on such a narrow basis.
+[77] An implied undertaking can only be given by a party to the proceedings. The parties are the only ones who have copies of the documents and transcripts. The implied undertaking is a means of enforcing the rule of confidentiality.
+[78] This does not mean that the rule of confidentiality only applies to limit disclosure of a person’s discovery to disclosure by the other parties to the proceedings. Such a result would seriously weaken, if not defeat, the purpose of the rule of confidentiality. The rule would offer no comfort to parties being examined if they believed a third party had unfettered access to their discovery.
+[79] A person’s discovery is subject to the rule of confidentiality. The discovery evidence will only be disclosed to a third party with the consent of the person or by order of the Court. As Justice Phelan, of the Federal Court of Canada, suggested in Peak Energy Services Ltd., [13] to rule otherwise would be counter to the guidance provided by the Supreme Court of Canada.
+[80] The defendants in Peak Energy Services Ltd. raised the same issue that the Non-parties raise in the motion before this Court. Specifically, the defendants argued that “the implied undertaking does not operate or should not operate because the principle is meant to prevent the receiving party (the “questioner”) from using the transcripts outside the litigation. The Defendants say that the implied undertaking is not designed to protect the answering party and in that regard relies [sic] on the decision of the Ontario Court of Appeal in Tanner v. Clark, 63 O.R. (3d) 508 (CA)” (paragraph 20).
+[81] Justice Phelan did not accept this argument. He stated the following in finding that the implied undertaking of confidentiality applied to a party’s own discovery:
+[25] This Court has long recognized that any document or information produced or given under compulsion as a result of the civil process of this Court by any person, if it is not given in open Court, is confidential to that person unless and until the contrary is shown. (See N.M. Paterson & Sons Ltd. v. St. Lawrence Seaway Management Corp., 2002 FCT 1247)
+[26] Contrary to the Defendants’ position, the privacy interest being protected by the Supreme Court is that of the person compelled to answer – in this instance the Plaintiff’s representatives questioned in those other actions. The Defendants’ position also ignores the fact that discoveries in other actions may also disclose, either in question or answer, information about other persons who may or may not be involved in the litigation. While this is not the same third party information referred to in paragraph 75 of the Lac D’Amiante decision quoted above, the same principle of protection is equally applicable.
+[27] In the case of Tanner relied on by the Defendants, the medical reports at issue had been disclosed in an arbitration which was public. The document had lost its quality of confidentiality by that reason alone. Furthermore, it was a document which would have had to be produced under the “continuing obligation to disclose” rule which governs all such litigation.
+[28] In my view, the Ontario Court of Appeal did not undercut the implied undertaking rule in any sense. Even if it did, this Court, given the guidance of the Supreme Court, ought not [to] do so.
+[82] My conclusion on this issue is also consistent with the previous decisions of this Court in Welford v. The Queen [14] and Morrison v. The Queen [15] .
+[83] The Non-parties and the Crown rely on the decision of the British Columbia Court of Appeal in Schober v. Tyson Creek Hydro Corporation [16] However, that decision addresses the issue of whether a party can voluntarily disclose its own discovery to a third party. Tyson Creek Hydro Corporation wanted to disclose the discovery transcript of a Mr. Schober, one of its officers, directors and managers, to a regulatory authority that was not a party to the action in which Mr. Schober was discovered. Mr. Schober objected to the disclosure on the basis that his oral discovery was protected by the implied undertaking rule. At paragraph 24 of its decision, the British Columbia Court of Appeal dismissed Mr. Schober’s motion on the basis that “[t]he undertaking has never stood as a bar to a party voluntarily disclosing information or testimony from its own examination for discovery.” That is not the situation before this Court. In the motion before this Court, Silver Wheaton is not consenting to the voluntary disclosure of the testimony of its nominee.
+[84] The Non-parties also rely on the decision of the Ontario Court of Appeal in Tanner v. Clark [17] (“Tanner”). That decision predates the Supreme Court of Canada’s decision in Juman. Regardless, in my view the decision stands for the proposition that the implied undertaking of confidentiality does not throw a cloak of privilege over evidence given before an administrative tribunal. This is consistent with the decision of the Supreme Court of Canada in Juman. The Ontario Court of Appeal in Tanner ordered disclosure of the documents on a basis that, in my view, would constitute a waiver of the implied undertaking of confidentiality as subsequently set out by the Supreme Court of Canada.
+[85] The last issue for the Court to address is whether it should waive the implied undertaking of confidentiality. For the following reasons, the Court will not waive or otherwise modify the implied undertaking of confidentiality.
+[86] The Supreme Court of Canada stated in Juman that the implied undertaking of confidentiality may be modified or waived in exceptional circumstances. The Supreme Court noted, as follows, that this may arise as a result of a compelling public interest:
+[30] The undertaking is imposed in recognition of the examinee’s privacy interest, and the public interest in the efficient conduct of civil litigation, but those values are not, of course, absolute. They may, in turn, be trumped by a more compelling public interest. Thus, where the party being discovered does not consent, a party bound by the undertaking may apply to the court for leave to use the information or documents otherwise than in the action, as described in Lac d’Amiante, at para. 77:
+Before using information, however, the party in question will have to apply for leave, specifying the purposes of using the information and the reasons why it is justified, and both sides will have to be heard on the application. [18]
+[87] The Supreme Court further noted that, in addition to the party bound by the implied undertaking of confidentiality, a third party may also apply to the Court for a modification or waiver of the rule. The Supreme Court agreed with the statement by the Ontario Superior Court of Justice in Livent Inc. v. Drabinsky [19] that success on such an application would be unusual.
+[88] The Supreme Court of Canada emphasized that, in order to protect the integrity of the implied undertaking of confidentiality, it should only be modified or varied in exceptional circumstances. With respect to an application by a third party, it noted the following:
+. . . a non-party engaged in other litigation with an examinee, who learns of potentially contradicting testimony by the examinee in a discovery to which that other person is not a party, would have standing to seek to obtain a modification of the implied undertaking and for the reasons given above may well succeed. Of course if the undertaking is respected by the parties to it, then non-parties will be unlikely to possess enough information to make an application for a variance in the first place that is other than a fishing expedition. But the possibility of third party applications exists, and where duly made the competing interests will have to be weighed, keeping in mind that an undertaking too readily set aside sends the message that such undertakings are unsafe to be relied upon, and will therefore not achieve their broader purpose. [20]
+[Emphasis added.]
+[89] The Court’s discretion to waive or modify requires a careful weighing of the public interest asserted by an applicant against the public interest in upholding a litigant’s privacy and promoting an efficient civil justice process. [21] The Court may waive or modify the rule if the applicant demonstrates that the interest of justice outweighs any prejudice that would result to the party who disclosed the evidence during discovery.
+[90] Contrary to the argument of the Non-parties, it is they who bear the burden of demonstrating that the implied undertaking of confidentiality should be waived. Specifically, the person making the application must demonstrate, on a balance of probabilities, the existence of a public interest of greater weight than the values that the implied undertaking of confidentiality is designed to protect, namely privacy and the efficient conduct of civil litigation. [22]
+[91] The Supreme Court of Canada provided a number of examples of situations where the rule may be waived or modified, repeating that “an undertaking designed in part to encourage open and generous discovery by assuring parties being discovered of confidentiality will not achieve its objective if the confidentiality is seen by reluctant litigants to be too readily set aside.” [23]
+[92] The Non-parties rely on two of the examples. The first is where discovery material in one action is sought to be used in another action with the same or similar parties and the same or similar issues. The Supreme Court of Canada noted that in such a situation prejudice to the examinee is virtually non‑existent and leave will generally be granted. [24]
+[93] The second is the situation noted previously with respect to impeachment of prior inconsistent testimony.
+[94] With respect to the first example, the parties are not the same in the Tax Court Appeal and the U.S. Class Action. The only common party is Silver Wheaton. Further, there are no similarities between the class of litigants in the U.S. Class Action, represented by the Non-parties, and the Crown, the other party in this appeal.
+[95] In addition, the issues are not the same or similar. The issue in the Tax Court Appeal is the amount of Silver Wheaton’s taxable income under the Canadian Income Tax Act for each year from 2005 to 2010. The issue in the U.S. Class Action concerns a breach of U.S. securities law that allegedly occurred beginning in February of 2011.
+[96] Silver Wheaton has produced, in the U.S. Class Action, over 115,000 documents comprising nearly one million pages. In addition, its accountants have produced in excess of another 1,800 documents. [25]
+[97] Notwithstanding this extensive disclosure (which appears to include numerous documents produced in this appeal), the Non-parties have not been able to refer to a specific document in this appeal whose disclosure would be in the public interest. Nor have they provided any evidence that Silver Wheaton’s discovery contains any statements that are inconsistent with its disclosure in the U.S. Class Action.
+[98] In my view, the only reason the Non-parties brought this motion is that they hope that they can find something in Silver Wheaton’s complete discovery in the Tax Court Appeal that can help them in their action in the U.S. District Court or provide support for a future motion in this Court seeking copies of the Crown’s discovery. In other words, the Non-parties’ motion is a fishing expedition, a fishing expedition that is not based on any public interest and would result in prejudice to Silver Wheaton, through the disclosure of significant confidential commercial information, including the information of third parties.
+[99] The granting of the Non-parties’ motion would result in the very evil the Supreme Court cautions against: defeating the objective of the implied undertaking of confidentiality, which is to encourage open and generous discovery by assuring the parties being discovered of confidentiality.
+[100] For the foregoing reasons the motion is denied. Silver Wheaton is awarded its costs, with 70% payable by the Non-parties and 30% payable by the Crown. The parties will have 30 days from the date of the order herein to arrive at an agreement on the amount of such costs, failing which they are directed to file written submissions within 60 days of the date of the order herein. Such submissions shall not exceed 10 pages.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2019.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2019 TCC 170
+COURT FILE NO.:
+2016-77(IT)G
+STYLE OF CAUSE:
+SILVER WHEATON CORP. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 16, 2019
+REASONS FOR ORDER BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER:
+August 19, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Thomas Gelbman
+Carly Fidler
+Counsel for the Respondent:
+Matthew Turnell
+Perry Derksen
+Michael Taylor
+Counsel for the Applicants (Moving Parties):
+Paul Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Thomas Gelbman
+Amanda Heale
+Carly Fidler
+David Ross
+Firm:
+Osler, Hoskin & Harcourt LLP
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Affidavit of Trinh Hoang, Exhibit B, page 1.
+[2] This part of the court’s decision was overturned on appeal.
+[3] Affidavit of Trinh Hoang, Exhibit B, pages 4-5.
+[4] Doucette v. Wee Watch Day Care Systems Inc., 2005 BCSC 400, at paragraph 6.
+[5] Doucette v. Wee Watch Day Care Systems Inc., 2006 BCCA 262, at paragraph 13.
+[6] Juman, paragraph 51.
+[7] Non-parties’ Notice of Motion, paragraph 38.
+[8] Dominion Nickel Investments Ltd. v. The Queen, 2015 TCC 14, 2015 DTC 1069, at paragraphs 26-28 and 32-33.
+[9] R. v. Cunningham, 2010 SCC 10, [2010] 1 S.C.R. 331, at paragraphs 18 and 19.
+[10] Juman, paragraph 53.
+[11] Livent Inc. v. Drabinsky, 53 O.R. (3d) 126.
+[12] Juman, paragraphs 24, 25 and 26.
+[13] Peak Energy Services Ltd. v. Douglas J. Pizycki Holdings Ltd., 2007 FC 824.
+[14] 2006 DTC 2353.
+[15] 2015 TCC 319, affirmed 2016 FCA 256.
+[16] Schober v. Tyson Creek Hydro Corporation, 2014 BCCA 12.
+[17] Tanner v. Clark, [2003] O.J. No. 677 (QL).
+[18] Juman, paragraph 30.
+[19] Supra, note 11.
+[20] Juman, paragraph 53.
+[21] Juman, paragraph 33.
+[22] Juman, paragraph 32.
+[23] Juman, paragraph 38.
+[24] Juman, paragraph 35.
+[25] Appellant’s Responding Affidavit of Elon B. Slutsky, sworn on April 24, 2019.

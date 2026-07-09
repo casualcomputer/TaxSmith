@@ -1,0 +1,282 @@
+Title: M.A.P. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30734/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-70-30734-m-a-p-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2012-03-02
+
+# M.A.P. v. M.N.R.
+
+- Citation: 2012 TCC 70
+- Decision date: 2012-03-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7529, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.A.P. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-02
+Neutral citation
+2012 TCC 70
+File numbers
+2010-1560(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-1560(EI)
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of M.A.P. (Mentorship, Aftercare, Presence), 2010-1562(CPP), 2010-3404(IT)I, 2010-3719(CPP)
+and 2010-3720(EI), on January 11 and 12, 2012, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Richard Hudson
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated May 31, 2007, for the period from January 1, 2006 to March 31, 2007, for employment insurance premiums plus related interest payable pursuant to sections 67 and 82 of the Employment Insurance Act is dismissed and the assessment is confirmed.
+Signed at Ottawa, Canada, this 2nd day of March 2012.
+“Lucie Lamarre”
+Lamarre J.
+Docket: 2010-1562(CPP)
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-3404(IT)I, 2010-3719(CPP)
+and 2010-3720(EI), on January 11 and 12, 2012, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Richard Hudson
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated May 31, 2007, for the period from January 1, 2006 to March 31, 2007, for Canada Pension Plan contributions plus related interest payable pursuant to sections 8 and 21 of the Canada Pension Plan is dismissed and the assessment is confirmed.
+Signed at Ottawa, Canada, this 2nd day of March 2012.
+“Lucie Lamarre”
+Lamarre J.
+Docket: 2010-3404(IT)I
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-1562(CPP), 2010-3719 (CPP)
+and 2010-3720(EI), on January 11 and 12, 2012, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Richard Hudson
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made on March 25, 2009 for failure to remit income tax source deductions for the 2007 taxation year pursuant to section 153 of the Income Tax Act is dismissed.
+Signed at Ottawa, Canada, this 2nd day of March 2012.
+“Lucie Lamarre”
+Lamarre J.
+Docket: 2010-3719(CPP)
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-1562(CPP), 2010-3404(IT)I
+and 2010-3720(EI), on January 11 and 12, 2012, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Richard Hudson
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated March 26, 2009, for the period from April 1, 2007 to December 31, 2007, for Canada Pension Plan contributions plus related interest payable pursuant to sections 8 and 21 of the Canada Pension Plan is dismissed and the assessment is confirmed.
+Signed at Ottawa, Canada, this 2nd day of March 2012.
+“Lucie Lamarre”
+Lamarre J.
+Docket: 2010-3720(EI)
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-1562(CPP), 2010-3404(IT)I
+and 2010-3719(CPP), on January 11 and 12, 2012, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+Richard Hudson
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment dated March 26, 2009, for the period from April 1, 2007 to December 31, 2007, for employment insurance premiums plus related interest payable pursuant to sections 67 and 82 of the Employment Insurance Act is dismissed and the assessment is confirmed.
+Signed at Ottawa, Canada, this 2nd day of March 2012.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2012 TCC 70
+Date: 20120302
+Dockets: 2010-1560(EI)
+2010-1562(CPP)
+2010-3719(CPP)
+2010-3720(EI)
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+and
+Docket: 2010-3404(IT)I
+BETWEEN:
+M.A.P. (Mentorship, Aftercare, Presence),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The five appeals herein relate to assessments dated May 31, 2007, March 25, 2009 or March 26, 2009, as the case may be, made by the Canada Revenue Agency (CRA) for Canada Pension Plan (CPP) contributions, employment insurance (EI) premiums and income tax source deductions under the Income Tax Act (ITA) payable on behalf of Fritz Clarke (worker) for the years 2006 and 2007. These assessments were made for the period at issue after a ruling determining that the worker, while working for the appellant, was employed in pensionable employment within the meaning of paragraph 6(1)(a) of the CPP and insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (EI Act) was confirmed by the CRA on March 6, 2006.[1] The March 6, 2006 decision of the CRA was not itself appealed, hence the issuance of the EI and CPP assessments dated May 31, 2007 and March 26, 2009 for the years 2006 and 2007 and the issuance of the income tax source deductions assessment dated March 25, 2009 for the 2007 taxation year. It is those assessments that are under appeal before me, not the ruling, and this is why my decision will resolve the issue for the years 2006 and 2007 only.
+[2] The appellant is of the view that the worker was not employed in insurable and pensionable employment but rather was hired as an independent contractor working on his own account, and that, as a consequence, no deductions at source had to be made.
+[3] The parties agreed on certain facts:
+(a) the appellant operated a small non-profit charitable organization to provide support and aftercare to persons who had been released from prison;
+(b) the organization was funded by private donations, grants, Correctional Services Canada and the government of Ontario;
+(c) the appellant’s board of directors (BOD) consisted of four or five volunteers;
+(d) the worker’s duties were, among other things, to manage the organization, recruit new volunteer team members, provide training and support to the volunteers, and schedule and carry out fundraising events on behalf of the appellant;
+(e) the worker was a clergyman with experience working with prisoners;
+(f) the organization’s founder, Bing Gallant, had performed the services prior to the worker performing them;
+(g) the worker was replaced by Dan Kelly, who had his own corporation, Johnstone Training and Consultation Inc.;
+(h) the worker had signing authority on the appellant’s bank account, but two signatures were required on all cheques (the evidence revealed, however, that in a few instances the worker was the sole person to sign on behalf of the appellant, even when his own pay cheques were involved);
+(i) the appellant terminated the worker’s services on August 31, 2008 (Exhibit R-2, Tab 3);
+(j) the worker provided his own vehicle and was responsible for its maintenance and repair;
+(k) the worker was entitled to three weeks of paid annual vacation leave (Transcript, p. 24), but this came into question further on in the evidence (Transcript, pp. 151, 152);
+(l) the worker was entitled to casual absence/sick leave with pay credited to him at the rate of ¾ of a day each month;
+(m) the appellant paid the worker mileage at the rate of $0.42 per kilometre, which was based on the Ontario government rates;
+(n) for a portion of the period under review, the worker submitted invoices to the appellant; and
+(o) the worker charged the appellant goods and services tax (GST) on his services.
+[4] Mr. Charles Richard Hudson, vice-president of the BOD, explained in court that the appellant is a small charitable organization which trains volunteers to help people who are released from prison. When one of the co-founders, Bing Gallant, died of cancer, they engaged the worker to carry out the training of the volunteers. It was always their intention to hire someone on a contractual basis as they were not equipped to act as an employer (often being forced to work with no money, with the help of volunteers). According to Mr. Hudson, this was always made very clear to the worker before any contract was signed with him. Two chartered accountants were consulted and they outlined a method to be followed in order for the worker to be treated as a contractor, which MAP did follow. At first (before the period at issue), the worker was working for the Pentecostal Assemblies of Canada (PAC), and an agreement was apparently signed between PAC and MAP for services to be provided by the worker; it was understood that PAC could occasionally supply other pastors.
+[5] Mr. Hudson said that the worker was a pastor, who knew better than the BOD members the work that had to be done. He mentored offenders who were released from prison, found coaches, encouraged the coaching teams, and sought donations or funding opportunities. The worker was known by outsiders as the executive director and director of MAP, but he was never a member of MAP’s BOD.
+[6] The worker provided guidance to the coaches on an ongoing basis, being their primary contact with MAP. He was also responsible for matching them with the inmates to be mentored (Transcript, pp. 84, 85). There was no supervision of any kind (Transcript, pp. 42 and 86). The BOD, however, set the course for the organization, within the limits of the appellant’s “boundary documents” (Transcript, pp. 160, 161). Mr. O’Gorman, the president and co-founder of MAP, testified that the boundary documents were drawn up to help the coaches protect themselves in dealing with the ex-offenders, to keep them safe (Transcript, p. 239). The BOD was also trying to give guidance and help in relation to the organization’s finances, and the worker, although not a board member, took part in decision making with regard to what course of action to take (Transcript, p. 242).
+[7] MAP operated from a borrowed one-room office, with some donated equipment, namely: cell phones, one old computer, one filing cabinet, one table and two old chairs. The office’s location was unpublished for safety reasons. The worker had access to that office.
+[8] The worker did most of the work that needed to be done himself but could occasionally engage another pastor from PAC. However, Mr. Hudson did not know whether the other pastor would have been paid. In fact, the worker did engage pastors to provide in-prison services and volunteers to speak at certain events. BOD members were also called upon to speak. Mr. Hudson said that he doubted that they received any payment for doing so (Transcript, pp. 43, 44), with the exception of one case where the worker, on his own initiative, engaged a speaker who charged MAP $7,500, much to the displeasure of the BOD (Transcript, p. 213, 214, and Exhibit R-2, Tab 5).
+[9] Although the contract stipulated that the worker was to be paid for 40 hours or so of work per week, the worker worked far more hours than that in a week without being paid anymore (Transcript, p. 45). Sometimes, when there was no money available, the worker worked without pay without complaining to the BOD (Transcript, p. 49). But in the end, he was paid the full amount that he invoiced (Transcript, p. 133). With respect to paying suppliers, many cheques were signed only by the worker, and the BOD did not keep track of this. Mr. Hudson explained that the BOD members were all volunteers and not readily available. He stated that from the outset, “the board was set up as the policy setting board, not a hands-on daily worked-on-by-volunteers kind of board” (Transcript, p. 50).
+[10] In cross-examination, it was made clear that the first agreement entered into between MAP and the worker directly was signed on October 15, 2004 for the period commencing September 1, 2004 and ending August 31, 2005 (Exhibit R-2, Tab 1). Under that agreement, the worker was hired to manage MAP. He was to be paid a fixed amount for a 42-hour work week, with no additional pay for overtime. He was given 15 days of leave during the contract period and paid sick days. Mr. Hudson’s testimony in this regard was that MAP did not keep track of the worker’s days off (Transcript, p. 152). Pay cheques were to be issued twice monthly on receipt of invoices from the worker. He was required to have an automobile and to maintain office space off premises. Mileage was to be paid by MAP.
+[11] In a second agreement, entitled Service Contract, signed between MAP and the worker on January 20, 2006, the worker agreed to invoice the organization on a periodic basis at a fixed rate per day plus GST on a “net seven days” basis. It was stipulated that the worker was responsible for maintaining his own office, including paying premises costs and providing all computer and communications equipment. The worker also had to provide his own automobile but was to be reimbursed for his mileage (Exhibit R-2, Tab 2). Although the two contracts were drafted differently, Mr. Hudson acknowledged that the worker’s role did not change over the years (Transcript, p. 136) and it was understood that he would be working under the same terms as before (Transcript, p. 232, 235, 236).
+[12] During the period at issue, part of MAP’s funding came from the Ontario Multifaith Council (Ontario government) and Correctional Services Canada.[2] The worker, acting on his own, took the initiative to execute contribution agreements (see as an example Exhibit R-2, Tab 12, and see also Transcript, pp. 177, 178) and send reports to those two organizations on behalf of MAP (Transcript, pp. 97, 98). Although he was not specifically authorized to do these things, the BOD was most probably aware that he was doing them and did not disapprove (Transcript, p. 178). Further, Mr. Fritz Clarke testified that Correctional Services Canada and the Ontario Multifaith Council would not let him maintain his own office because of the confidential information provided to MAP regarding inmates. Mr. Hudson testified that he had never heard of that and that any file on an offender was kept in the parole office (Transcript, pp. 144, 145).
+[13] Furthermore, although Mr. Hudson said that the worker did not have the authority to do so, the worker also performed administrative services on his own, without necessarily informing the BOD. Most of the time, this went unnoticed, but sometimes the worker was reprimanded by the BOD. Such was the case, for example, when the worker advised the CRA that MAP had withheld money at source from his remuneration, which, according to Mr. Hudson, it had not done. Another example is that of the worker signing cheques (including his own pay cheques) on behalf of MAP without asking a BOD member to co-sign (Transcript, pp. 105 to 113). Mr. Hudson acknowledged, however, that the worker was the one who did most of the work for MAP and that he was giving MAP full value for the money he was being paid (Transcript, pp. 121, 122).
+[14] The remuneration paid to the worker constituted the major expense in the budget (Transcript, pp. 102, 103, 105, and see MAP’s budget for 2004, 2005 and 2006 under the item “salaries” in Exhibit R-2, Tab 12, Appendix B, and MAP’s profit and loss Statement for 2007 under the item “employees”, Exhibit R-2, Tab 7, last page).
+[15] When the worker’s contract was terminated in August 2008, MAP gave him a severance package. Mr. Hudson testified that they did not feel legally obligated to do so, but they thought that it would be fair (Transcript, p. 154).
+[16] Mr. Chris O’Gorman, one of the co-founders of MAP also testified. He explained that the BOD, of which he is the president, is made up of three to five people, all working elsewhere, but giving of their time to that charitable organization. None of them were in a position to actually run it and they could only provide advice and guidance. When Bing Gallant, the pastor who was the other co‑founder, died, the BOD decided to hire someone to run the operation full-time. They interviewed a number of people and Reverend Fritz Clarke was hired because of his background and his good-heartedness. The BOD had absolutely no control over his day-to-day activities (Transcript, p. 204). The BOD held meetings from time to time that were attended by Mr. Clarke. Those meetings were centred mostly on how to find funding and volunteers and how to advance the cause of MAP. In signing the contract with the worker MAP never intended to become an employer. The contract was conceived in order for MAP to be able to pay him. Afterwards, they found out that Mr. Clarke made a lot of misguided financial decisions as a result of which MAP lost money instead of raising funds. As an example, he paid his own remuneration out of cash advances from his own Visa credit card in anticipation of funding coming in. All of a sudden, he revealed the existence of a $20,000 debt, and he had not previously advised anyone of the situation (Transcript, pp. 225, 226, 227). In fact, the BOD did not exercise any supervision and bad decisions were made that resulted in a huge deficit. BOD members met regularly with the worker, not to have him account for what was being done, but rather to encourage him, to give him support. But Mr. O’Gorman said that had he known that the funding had dried up, they probably would have terminated the worker’s contract earlier (Transcript, pp. 262, 263).
+[17] Mr. Robert Gibbons Birch, another member of the BOD, also testified. He said that the worker was hired as a consultant and the BOD gave him guidelines within which to work. On a couple of occasions Mr. Birch raised with the BOD the issue of whether the worker should be treated as an employee, but the others members of the BOD were opposed. He confirmed that there was no day-to-day guidance given to the worker (Transcript, pp. 289 to 292). He recognized that Fritz Clarke was the coaches’ contact at MAP (Transcript, p. 295) and the point man for raising donations (Transcript, p. 296), but maintained that, whatever title Mr. Clarke used, he was always acting for MAP as a consultant (Transcript, p. 297). He had an all-encompassing role, dealing with prisoners, organizing teams of coaches, and reporting back to the BOD on how he presented MAP to outside agencies and on the work done. Mr. Birch agreed that Mr. Clarke was running the MAP organization (including overseeing the paperwork and any administrative work), but he also stated, without really knowing whether it was so, that Mr. Clarke may also have worked as a Pentecostal minister at the same time (Transcript, pp. 298 to 304). Mr. Birch admitted as well that Mr. Clarke received guidelines from the BOD within which he was to work (Transcript, pp. 312, 313).
+[18] An affidavit signed by JoAnne Christie, another member of the BOD, was filed as Exhibit A-7. She was out of town at the time of the hearing and could not be cross-examined. Essentially, what she says in her affidavit is the same as what was stated by the other members of the BOD in court, and she explains why they all considered Mr. Clarke as a contractor rather than an employee. She mentions that the BOD had monthly meetings to discuss administrative details and give guidance and establish priorities when necessary. She also alluded to weekly meetings between Mr. Clarke and two BOD members, the purpose of the meetings being to support Mr. Clarke and his work, but they were not meant as direct supervision and scrutiny of his work.
+[19] Ms. Kathleen Elizabeth Buchan, an employee of the CRA, explained that the appellant was assessed on March 25, 2009 for failure to remit source deductions following receipt of a T4 slip issued for Mr. Clarke on August 14, 2008 (as per the payroll account filed as Exhibit R-3, at pages 5 and 6 of 17, and the notice of assessment filed as Exhibit R-1, Tab 3C). It also appears from the payroll account that arrears payments were made on behalf of the appellant from July 2005 to June 2008 (Exhibit R-3). The letter sent by the CRA to Mr. Clarke on April 19, 2006 (Exhibit A-8) stated that the CRA noted that Mr. Clarke had reported self-employment business earnings for the years 2002, 2003 and 2004. Attached to that letter was a summary of the income and deductions that the CRA had on record and the summary showed an amount owing of $182.96 for those years. Ms. Buchan explained that, after a review of Mr. Clarke’s file, the CRA determined that he was an employee for the years 2006 and 2007. It is my understanding that that decision, which is at issue before this court, did not have any impact on previous years.
+[20] Finally, I heard the testimony of Reverend Fritz Clarke.[3] He studied theology and ethics in university and, before joining MAP, had had experience working with individuals with addiction problems. He testified that he saw himself as a contractor when he was first hired, but his role subsequently changed. He said that, when he signed the second contract in January 2006 (Exhibit R-2, Tab 2), he was questioning the nature of his status with MAP. There was an ongoing dialogue with the BOD until he received from the CRA, one month after signing the second contract, the ruling that determined that he was indeed an employee. He did register for the purposes of the GST and did remit GST because, until the ruling, he had to abide by his contract. His responsibilities were not spelled out in his contract, but it was his understanding that the functions he performed (i.e., training and recruiting volunteers, selecting individuals for mentorships, administrative duties—including paying bills, answering emails, raising funds, bringing forward proposals for approval by the BOD (examples of contribution agreements signed are found in Exhibit R-2, Tabs 12, 13 and 14) — and filing reports to donors) were all required of him. He had been working full-time for MAP up until the beginning of January 2008, at which time he started to work part-time only until he was laid off. He stated that prior to 2008 he was the only one there full-time to conduct day‑to‑day operations, but there was always someone helping him out. He followed guidelines set by the BOD for training the volunteers and he discussed things with the members of the BOD. He carried on his work mainly at MAP’s office, as it was not appropriate for him to work from home. Board meetings were held at least ten times a year and Mr. Clarke attended all of them.
+[21] Mr. Clarke’s first contract required him to work 42 hours per week but he worked more than that. Hours were irrelevant to him and the BOD members did not control his schedule. The second contract did not change anything. He did not ask for any time off. For the first contract, he invoiced MAP by dividing the total remuneration provided for in the contract by the number of weeks in the year, and under the second contract, he invoiced a certain amount per day. His expenses for attending meetings at Correctional Services Canada or with the Ontario Multifaith Council were reimbursed by those two organizations directly.
+[22] For an eight-month period, MAP was out of funds and Mr. Clarke advanced money using his own credit card. He did that as a goodwill gesture in the belief that the funding would come in and that he would be paid back. In the end, MAP reimbursed him in full. He also signed his own pay cheques when no one else was available to co-sign, but all cheques were recorded and accessible to members of the BOD.
+[23] The BOD members kept informed about what was taking place, asked him whether he needed assistance and gave him advice. But Mr. Clarke acknowledged that it was the donors, mostly, whose approval was required and who tended to say what was expected from MAP.
+[24] In his personal tax returns, Mr. Clarke reported his income as a contractor until the CRA ruling was issued. He then took it upon himself to pay the CRA source deductions for employment insurance, CPP and income tax on his remuneration. In his testimony, he said that he did not pay more than a few thousands dollars in this fashion. He also issued his own record of employment when he was laid off. Mr. Clarke said that he approached the BOD a few times regarding his employment status, but the issue remained unresolved. He never did receive a formal response from the BOD.
+Analysis
+[25] The issue before me is whether the worker, Reverend Fritz Clarke, held employment with MAP or was an independent contractor for the period from January 2006 to December 2007. If he was an employee, the appellant was required to remit to the Receiver General employment insurance premiums pursuant to sections 67 and 82 of the EI Act, CPP contributions pursuant to sections 8 and 21 of the CPP and income tax source deductions pursuant to section 153 of the ITA.
+[26] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61 (QL), 2001 SCC 59, the Supreme Court of Canada stated the principles applicable to the determination of a person’s status as follows at paragraphs 46, 47 and 48:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations . . ." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose. . . . The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[27] Further, in Royal Winnipeg Ballet v. M.N.R., [2006] F.C.J. No. 339 (QL), 2006 FCA 87, the majority of the Federal Court of Appeal stated as well that the terms of the written contract between parties are to be given weight if they properly reflect the relationship between them. That being so, the evidence of the parties’ understanding of their contract must always be examined, keeping in mind, though, that the parties’ declaration as to the legal nature of their contract is not necessarily determinative. Thus the intention of the parties is also a factor to consider in the determination of the legal nature of the relationship between the parties. Sharlow J.A. stated the following at paragraphs 59 through 62:
+59 It seems to me from Montreal Locomotive that in determining the legal nature of a contract, it is a search for the common intention of the parties that is the object of the exercise. The same idea is expressed as follows in the reasons of Décary J.A. in Wolf, at paragraph 117:
+I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e. the intention of the parties.
+60 Décary J.A. was not saying that the legal nature of a particular relationship is always what the parties say it is. He was referring particularly to Articles 1425 and 1426 of the Civil Code of Quebec, which state principles of the law of contract that are also present in the common law. One principle is that in interpreting a contract, what is sought is the common intention of the parties rather than the adherence to the literal meaning of the words. Another principle is that in interpreting a contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account. The inescapable conclusion is that the evidence of the parties' understanding of their contract must always be examined and given appropriate weight.
+61 I emphasize, again, that this does not mean that the parties' declaration as to the legal character of their contract is determinative. Nor does it mean that the parties' statements as to what they intended to do must result in a finding that their intention has been realized. To paraphrase Desjardins J.A. (from paragraph 71 of the lead judgment in Wolf), if it is established that the terms of the contract, considered in the appropriate factual context, do not reflect the legal relationship that the parties profess to have intended, then their stated intention will be disregarded.
+62 It is common for a dispute to arise as to whether the contractual intention professed by one party is shared by the other. Particularly in appeals under the Canada Pension Plan and the Employment Insurance Act, the parties may present conflicting evidence as to what they intended their legal relationship to be. Such a dispute typically arises when an individual is engaged to provide services and signs a form of agreement presented by an employer, in which she is stated to be an independent contractor. The employer may have included that clause in the agreement in order to avoid creating an employment relationship. The individual may later assert that she was an employee. She may testify that she felt coerced into signifying her consent to the written form of the contract because of financial need or other circumstances. Or, she may testify that she believed, despite signing a contract containing such language, that she would be treated like others who were clearly employees. Although the court in such a case may conclude, based on the Wiebe Door factors, that the individual is an employee, that does not mean that the intention of the parties is irrelevant. Indeed, their common intention as to most of the terms of their contract is probably not in dispute. It means only that a stipulation in a contract as to the legal nature of the relationship created by the contract cannot be determinative.
+[28] Therefore, the central question here is whether the person who was engaged to perform the services, namely, Reverend Clarke, performed them as a person in business on his own account. In making this determination, I have to consider, if applicable, the level of control MAP had over the worker’s activities, whether he provided his own equipment, whether he hired his own helpers, the degree of financial risk taken by the worker, the degree of responsibility that he had for investment and management, and the worker’s opportunity for profit. The common intention of the parties will help in determining the worker’s status, if that common intention is uncontested by them.
+[29] In the present case, it is not crystal clear what the worker’s intention was when he signed the second contract in January 2006. Mr. Clarke testified that he abided by the terms of that contract in invoicing MAP and charging GST. However, at the same time, he had conversations with people from the CRA and was awaiting their decision. He also testified that he approached the BOD on the matter of re-evaluating his status, but the issue remained unresolved. On the other hand, Mr. Hudson and Mr. O’Gorman (as well as Ms. JoAnne Christie in her affidavit filed as Exhibit A-7) were clearly of the opinion that MAP was not in a position to be an employer and that the intention was always to hire someone on a contract basis to do the work done by Mr. Clarke. Mr. Birch was less clear on that but accepted the other BOD members’ decision to treat Mr. Clarke as a consultant and not an employee.
+[30] In this context, and taking into account that the evidence of the parties’ understanding of their contract must be examined and given appropriate weight, I find that the stated intention of each party is not conclusive in resolving the issue.
+[31] I will therefore analyze the other factors set out in the case law in order to determine the nature of the relationship between MAP and Mr. Clarke.
+Control
+[32] As stated by Hershfield J. of this Court in W.B. Pletch Company Limited v. The Queen, 2005 TCC 400, at paragraph 9, in applying the control test, we are “faced with the frequently encountered problem of determining whether the independence in the performance of a role of a worker is attributable to the freedom that derives from the nature of the relationship, from the party in a position to control choosing not to exercise control or whether it is attributable to the nature of the tasks assigned and the worker’s particular skills to perform such tasks without direction”.
+[33] Here, it is obvious that Mr. Clarke was hired for his skills in dealing with ex-offenders leaving prison and for his abilities and his acquaintances as a chaplain, which were useful in seeking donations. It is also obvious from the evidence that the BOD members, all working elsewhere and all volunteers sharing the same goal of helping people through the charitable organization, relied almost completely on Mr. Clarke to run MAP’s activities with almost no supervision.
+[34] At the same time, MAP signed contribution agreements with the Ontario Multifaith Council and Correctional Services Canada. Examples of such agreements were tendered (Exhibit R-2, Tabs 11, 12, 13, 14). It is my understanding that MAP had to report to those two government services on how the funding was being spent, and that ultimately, MAP was responsible and accountable with respect to demonstrating good management practices in the allocation of those funds to the subsidized programs for the reintegration of offenders into the community. The same can be said of other donors, like Telus and the Community Foundation of Ottawa, as evidenced by the letters of donation filed as Exhibit R-2, Tab 8.
+[35] Mr. Clarke was the key person acting for MAP in that respect, and although enjoying a lot of freedom of action, he ultimately reported regularly to the BOD, which held meetings once a month. In the end, it was MAP that was responsible for the day‑to‑day decisions taken by Mr. Clarke on how the contribution monies were spent. Indeed, MAP committed itself to reporting to the contributing organizations in order to demonstrate its use of good management practices in its financial planning with respect to the contribution monies.
+[36] In fact, MAP’s president testified that on at least two occasions he reprimanded Mr. Clarke for his mismanagement of MAP funds (the payment of $7,500 to a guest speaker and Mr. Clarke’s advances to himself totalling $20,000, for his remuneration). Mr. O’Gorman testified that had he known that MAP was out of funds he would have terminated Mr. Clarke’s contract before August 2008.
+[37] In my view, this shows that, although Mr. Clarke was treated like a de facto board member with regard to many of the decisions to be taken, the BOD still oversaw and kept an eye on Mr. Clarke’s work. However, while this type of control could be likened to that which exists between a board and a senior officer (as discussed by Hershfield J. in Pletch, supra), the respondent conceded that the control test is difficult to apply in the case of managers because, generally, they are given a considerable amount of autonomy. Indeed, one must keep in mind that monitoring the result is not to be confused with controlling the worker (see Charbonneau v. Canada (M.N.R.), [1996] F.C.J. No. 1337 (QL) at par. 10)
+[38] I therefore conclude that this is a case in which the control factor is not conclusive one way or the other and that the other factors must be looked at.
+Ownership of tools
+[39] Mr. Clarke made substantial use of an office and computer provided by MAP, but he also used his own car to visit prisons and prospective donors and to attend conferences (although under the terms of the contract he was entitled to reimbursement of vehicle expenses on a mileage basis). Although he was required by his contract to maintain his own office, it appears that he was not allowed to work there due to confidentiality requirements imposed by the Ontario Multifaith Council and by Correctional Services Canada. Counsel for the respondent conceded in his argument that this factor should be taken as being neutral and I agree.
+Chance of profit and risk of loss
+[40] Under the first contract Mr. Clarke was compensated on the basis of a fixed salary that was divided by the number of weeks in the year. Under the second contract, he was paid according to the number of days he worked. He was not paid for overtime. Mr. Clarke invoiced MAP and charged GST, as he was required to do by the contracts. Nevertheless, Mr. Clarke’s remuneration was fixed and was not dependent on hours worked, nor was there any realistic way in which he could have made a profit through sound management in the performance of his duties.
+[41] Further, Mr. Clarke was working on a full-time basis for MAP, and he did so with such dedication that he had no time to carry on any other business activities.
+[42] It would also appear that costs (including mileage on his vehicle) associated with attending work-related training sessions and seminars were paid by Correctional Services Canada, the Ontario Multifaith Council and MAP. The worker was also apparently entitled to casual absence/sick leave. Further, although not legally required to do so, MAP gave him severance pay when the contract was terminated.
+[43] With respect to the risk of loss factor, Mr. Clarke advanced to himself his own remuneration when MAP was out of funds. However, he did so on his own initiative, without telling the BOD, which expressed disapproval of that practice when informed of the situation. Ultimately, MAP did reimburse him for the advances.
+[44] I am therefore of the view that Mr. Clarke genuinely had no chance of profit or risk of loss. This factor favours the existence of an employer-employee relationship.
+Integration test
+[45] The Supreme Court of Canada stated the following in Sagaz, supra, at paragraph 47:
+The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account.
+[46] Here, the appellant stated that the concept of business is difficult to apply to a charitable organization. This may be true, except that people who happen to work for a charitable organization are entitled to the same rights as anyone working for a for-profit organization. If the charity makes it clear from the beginning that it cannot afford to pay anyone, then people wishing to give of their time may very well agree to work for it as volunteers.
+[47] From the moment a charity agrees to remunerate a person working for the organization and signs a contract with that person, the legal rules applicable to other workers apply equally to that worker.
+[48] As Hershfield J. said in Art City in St. James (Town) v. Minister of National Revenue, 2006 TCC 507 at paragraph 41, non-profit organizations cannot seek to abuse workers by claiming that a lack of funds to pay benefits, and a worker’s acceptance of that, is a basis to avoid categorizing the workers as employees.
+[49] Here, the appellant received funding from, among other sources, government organizations. The funding agreements filed in evidence stipulated that MAP was responsible for any and all deductions, including CPP, EI and income tax, required to be made from employees’ income and for any and all payments to employees. The budget appended to one of those agreements showed salaries as the major expense, and it was admitted in evidence that Mr. Clarke’s remuneration was included in that item.
+[50] Now, was Mr. Clarke’s work an integral part of MAP’s operations? It seems obvious that MAP was a body corporate capable of obtaining funding from various sources for the purpose of carrying out its mandate to actively encourage former prison inmates to become reintegrated into the community and assist them in that. It is quite clear that without such funding the services of the worker would not have been required. Moreover, Mr. Clarke acted and represented himself as MAP’s director on his business cards, in letters sent on behalf of MAP, in pamphlets and in annual reports, and the BOD tolerated this practice.
+[51] The business, or the mandate, was clearly MAP’s, as is attested by the contribution agreements entered into between MAP on the one hand and Correctional Services Canada, or the Ontario Multifaith Council, or any other donor on the other hand. As stated earlier, it was MAP, and not Mr. Clarke, who ultimately was responsible, and accountable to the donors, with regard to how the funds were spent by him. The services of the worker were integral to MAP’s core function rather than being merely ancillary to its operations (see Long-Term Inmates Now in the Community v. Minister of National Revenue, 2002 CarswellNat 1028, at paragraph 22; the situation in that case shows great similarity with the facts of the present case; see also Pluri Vox Media Corp. v. R., 2011 TCC 237; 2011 CarswellNat 1344, at paragraph 19).
+[52] Furthermore, and in accordance with the observations of Hershfield J. in Pletch, supra, at paragraph 12(a), the fact that the worker maintained on a full-time basis an enduring long-term relationship with MAP is not a factor that is consistent with his being an independent contractor carrying on business on his own account, particularly in circumstances where there is no evidence that the worker was engaged in similar activities with other clients.
+[53] I therefore conclude that the integration test favours employee status.
+[54] I am of the opinion that, in the whole context of this case, there are enough factors (particularly the integration test, which is, here, a very significant aspect of the relationship) that militate in favour of a finding that there was an employment contract.
+[55] I therefore conclude that the Minister did not err in determining that the worker was providing services pursuant to a contract of service and thus held insurable and pensionable employment. [4]
+[56] Before making its submissions in this case, the appellant stated that the CRA had already been paid what it was owed, and that, in the event that I determined that the worker’s remuneration was insurable and pensionable, which I have found to be the case, the CRA would be getting paid twice.
+[57] The respondent submitted the CRA’s records showing what was credited to MAP’s account as having been remitted, and Ms. Buchan testified that the assessments at issue were based on those numbers. I agree with the respondent that the appellant has submitted no evidence to show that these calculations are wrong or to establish an amount of source deductions actually remitted to the government that differs from that shown in the statement of account filed in evidence.
+[58] For all these reasons, I conclude that Reverend Fritz Clarke, the worker, was an employee of the appellant, and not an independent contractor working on his own account, during the period at issue.
+[59] Consequently, the appeals are dismissed and the assessments issued for the 2006 and 2007 taxation years, which are the object of the present appeals, are confirmed.
+Signed at Ottawa, Canada, this 2nd day of March 2012.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2012 TCC 70
+COURT FILE NO.: 2010-1560(EI), 2010-1562(CPP),
+2010-3404(IT)I, 2010-3719(CPP),
+2010-3720(EI)
+STYLE OF CAUSE: M.A.P. (Mentorship, Aftercare, Presence) v. M.N.R.
+M.A.P. (Mentorship, Aftercare, Presence) v. Her Majesty the Queen
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: January 11 and 12, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: March 2, 2012
+APPEARANCES:
+Agent for the Appellant:
+Richard Hudson
+Counsel for the Respondent:
+Shane Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 9 of the Reply to the Notice of Appeal (2010-1560 (EI) and 2010-1562 (CPP)), Exhibit R-1, Tabs 1B and 2 B, and paragraph 4 of the Reply to the Notice of Appeal (2010-3719(CPP) and 2010-3720 (EI)), Exhibit R-1, Tabs 3B and 4B.
+[2] Mr. Hudson did not want to acknowledge that the primary funding came from government (Transcript pp. 95 to 105). However, when I look at the contribution agreement signed between MAP and Correctional Services Canada and filed as Exhibit R-2, Tab 12, it appears that contribution payments of an amount not exceeding $146, 000 towards eligible expenses were to be made for a two-year period (sections 4 and 11 of the contribution agreement). This represented $73,000 per year. This is the amount of revenue referred to in the 2005/2006 budget as being from contributions, which represented 47% of total revenues ($156,000), at least for the period ending March 31, 2006.
+[3] An important portion of Mr. Clarke's testimony was not recorded due to a technical problem, and the parties were advised in court of that situation. I have therefore relied on my handwritten notes and that is why there are no references to the transcript.
+[4] I do not want to comment on the contractual status of Mr. Dan Kelly, who replaced the worker after the years at issue (see Exhibits A-3 and A-5), as his contractual arrangement may have been different and, in any event, is not at issue before me.

@@ -1,0 +1,202 @@
+Title: Maragos v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521561/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-4-521561-maragos-v-the-king.md
+Document type: case_law
+Last modified: 2026-01-07
+
+# Maragos v. The King
+
+- Citation: 2026 TCC 4
+- Decision date: 2026-01-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5638, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maragos v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-01-07
+Neutral citation
+2026 TCC 4
+File numbers
+2023-230(GST)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2023-230(GST)G
+BETWEEN:
+ANASTASE MARAGOS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on December 18, 2025 at Vancouver, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Alistair G. Campbell
+David McCormick
+Counsel for the Respondent:
+Kayla Baldwin
+Jean Murray
+ORDER
+BACKGROUND:
+The parties asked that the Court determine the following question under section 58 of the Tax Court of Canada Rules (General Procedure):
+When did the Appellant last cease to be a director (either a de jure director or a de facto director) of Salmon’s Linen Supply Inc. for the purposes of subsection 323(5) of the Excise Tax Act?
+ORDER:
+The Court determines that the Appellant last ceased to be a de jure director of Salmon’s Linen Supply Inc. on July 24, 2018 and has never been a de facto director of the corporation.
+Signed this 7th day of January 2026.
+“David E. Graham”
+Graham J.
+Citation: 2026 TCC 4
+Date: 20260107
+Docket: 2023-230(GST)G
+BETWEEN:
+ANASTASE MARAGOS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Appellant, Anastase Maragos, was a director of Salmon’s Linen Supply Inc. (“SLS”). SLS was incorporated under the Canada Business Corporations Act (the “CBCA”).
+[2] In 2018, the Director for Innovation, Science and Economic Development Canada (the “CBCA Director”) dissolved SLS under section 212 of the CBCA for failing to file its annual returns. At that point, SLS ceased to exist.[1]
+[3] The Minister of National Revenue subsequently applied to have SLS restored. The Minister then tried to collect certain outstanding GST debts from SLS. When that failed, the Minister assessed Mr. Maragos for director’s liability under section 323 of the Excise Tax Act (the “ETA”). Mr. Maragos has appealed that assessment.
+I. Rule 58 Question [4] Mr. Maragos has applied under section 58 of the Tax Court of Canada Rules (General Procedure) to have the following question determined:
+When did the Appellant last cease to be a director (either a de jure director or a de facto director) of Salmon’s Linen Supply Inc. for the purposes of subsection 323(5) of the Excise Tax Act?
+[5] Mr. Maragos takes the position that he last ceased to be a director when SLS was dissolved and that the assessment was therefore made beyond the two-year limit set out in subsection 323(5).
+[6] The Respondent takes the position that, while the dissolution of SLS caused Mr. Maragos to cease to be a director, its revival reinstated him. The Respondent says Mr. Maragos maintained his reinstated position as director until he formally resigned. That resignation occurred less than two years before the Minister assessed Mr. Maragos.
+[7] I will first consider when Mr. Maragos last ceased to be a de jure director. If that date was more than two years before he was assessed, I will then consider whether Mr. Maragos was ever a de facto director and, if so, when he last ceased to be one.
+II. De Jure Director [8] To determine when Mr. Maragos last ceased to be a de jure director, I must apply the law of the relevant jurisdiction (Aujla v. The Queen[2]). In Mr. Maragos’ case, that is the CBCA.
+[9] In Aujla, the Federal Court of Appeal considered a British Columbia company that had been involuntarily dissolved under the Company Act.[3] Justice Ryer, writing for the majority, held that the company’s directors had ceased to be directors when the company was dissolved. He went on to conclude that retroactive reconstitution of their directorships could only have arisen out of express language to that effect in the court order that restored the company.[4] Since such language was missing, Justice Ryer concluded that the taxpayers were not liable.
+[10] The Respondent accepts that, even though the relevant legislation is different, Aujla is authority that Mr. Maragos ceased to be a director of SLS when the corporation was involuntarily dissolved and that the restoration of SLS did not retroactively reinstate Mr. Maragos as a director on the date of dissolution.[5] The Respondent therefore concedes that Mr. Maragos was not a director from the date of dissolution (July 24, 2018) until the date of revival (December 24, 2018).
+[11] However, the question is not whether Mr. Maragos ceased to be a director when SLS was dissolved. Subsection 323(5) asks when he “last ceased to be a director”. If restoring SLS had the effect of prospectively reinstating Mr. Maragos as a director, then he last ceased to be a director when he formally resigned from that position (May 15, 2019).
+A. Helpfulness of Aujla [12] Mr. Maragos argues that Aujla supports his position. I am less sure of that.
+[13] I need to determine whether the revival of a CBCA corporation has the effect of prospectively reinstating directors. Aujla does not answer that question. At best, the majority discusses, in obiter, whether the revival of a Company Act company has that effect.[6] At worst, the majority specifically refused to consider it.[7]
+[14] In my view, there is minimal value in trying to parse the similarities and differences in wording between the Company Act and the CBCA in an attempt to either follow or distinguish the majority’s obiter. The issue was not before the Court. The majority wisely noted that the underlying commercial law may vary jurisdiction to jurisdiction and may potentially produce different fiscal consequences in different jurisdictions.[8]
+[15] For similar reasons, I see little value in trying to extract a cogent approach from the various Tax Court decisions cited by the Respondent that were issued before Aujla, involved different legislation or different issues, and were either ignored by the Court of Appeal or addressed only in the dissent of Justice Blais (as he then was).
+[16] The appropriate way to approach this issue is to conduct a textual, contextual and purposive analysis of the relevant CBCA provision: subsection 209(4).
+B. Textual Analysis [17] The relevant portions of subsection 209(4) read as follows:
+Subject to any reasonable terms that may be imposed by the [CBCA] Director, to the rights acquired by any person after its dissolution and to any changes to the internal affairs of the corporation…after its dissolution, the revived corporation is, in the same manner and to the same extent as if it had not been dissolved,
+(a) restored to its previous position in law, including the restoration of any rights and privileges whether arising before its dissolution or after its dissolution and before its revival; and
+(b) liable for the obligations that it would have had if it had not been dissolved whether they arise before its dissolution or after its dissolution and before its revival.
+[18] The operation of subsection 209(4) is relatively straight forward. It restores a dissolved corporation “in the same manner and to the same extent as if it had not been dissolved” subject to three things: (1) any reasonable terms imposed by the CBCA Director; (2) any rights acquired by any person after the corporation was dissolved; and (3) any changes to the internal affairs of the corporation after its dissolution.
+Silence on Directors [19] Unfortunately, subsection 209(4) does not explicitly refer to the revived corporation’s directors. It neither states that the corporation’s former directors are reinstated nor states that the shareholders need to elect new ones.
+[20] Both sides argue that this silence supports their position. Mr. Maragos says that, if Parliament had wanted to reinstate directors, it would have done so explicitly. The Respondent says that the subsection does not need to explicitly refer to directors because the phrase “restored to its previous position in law” includes having the corporation’s directors reinstated. I find the silence is ambiguous.
+Reasonable Terms That May Be Imposed [21] Mr. Maragos submits that the phrase “subject to any reasonable terms that may be imposed by the [CBCA] Director” supports his interpretation. He says that the phrase gives the CBCA Director the power to require former directors to be reinstated. I do not find this phrase helpful in interpreting the subsection.
+[22] Mr. Maragos’ argument is circular. He starts from the assumption that directors are not automatically reinstated, presumes that the CBCA Director must therefore have the power to require that they be reinstated and then treats the existence of that power as proof that they are not automatically reinstated and the lack of its exercise in Mr. Maragos’ case as evidence that he was not a director. The Respondent could just as easily make the same circular argument in reverse.
+Articles of Revival Are Not Helpful [23] The Respondent emphasizes that the Articles of Revival for SLS state that the public record will show SLS’s Articles exactly as they were when it was resolved. While that sounds significant, a review of SLS’s Articles and the Articles of Revival shows that they say nothing about who its directors were, let alone who they would be post-revival.
+[24] The Articles of Revival do state that, following the revival, SLS must file “[a]ny change in directors”. While this could suggest that the directors have been reinstated and that SLS must let the CBCA Director know of any changes that are made to those directors going forward, it could also suggest that SLS should notify the CBCA Director who the shareholders have elected as directors of the revived corporation. The fact that, in either case, the necessary form is titled “Changes Regarding Directors” and that part 3 of the form specifically provides for the appointment of new directors does nothing to clear up the ambiguity.
+Changes to the Internal Affairs of the Corporation [25] The Respondent argues that phrase “subject…to any changes to the internal affairs of the corporation…after its dissolution” in subsection 209(4) indicates that a director could resign while a corporation was dissolved. I disagree for three reasons.
+[26] First, the parties agree that directors cease to be directors when a corporation is dissolved. How could a director resign from a position that they no longer held? Similarly, how could someone who was no longer a director but feared that they would someday be reinstated as a director possibly resign from their future reinstatement?
+[27] Second, subsection 108(2) of the CBCA states that the resignation of a director becomes effective when the director sends a written resignation to the corporation. How could a director send a resignation to a corporation that no longer existed?
+[28] Third, subsection 2(1) of the CBCA defines “affairs” to mean the relationships among a corporation, its affiliates and the shareholders, directors and officers of such bodies corporate. The Respondent is selecting one of the many relationships described by the term “affairs” and assuming it must have meaning in subsection 209(4). The Respondent’s argument would have more merit if “affairs” only referred to the relationship between a corporation and its directors. However, “affairs” might simply refer to the relationship between a corporation and its shareholders, recognizing, for example, that the revival of a corporation would be subject to a change in share ownership arising on the death of a shareholder that occurred during the period of dissolution.
+[29] If anything, the phrase “any changes to the internal affairs of the corporation…after its dissolution” supports Mr. Maragos’ interpretation of the subsection. The elimination of all of the directors of the corporation on dissolution was a change to its internal affairs. The corporation is restored subject to that change. In other words, the directors are not reinstated.
+[30] The Respondent rightly points out that that change occurred on dissolution, not after dissolution. However, while that may weaken support for Mr. Maragos’ interpretation, it does nothing to fix the logical weaknesses of the Respondent’s interpretation. At best, it further shows the ambiguity of the text.
+The Respondent’s Logical Tightrope [31] The Respondent is trying to walk a logical tightrope between the decision in Aujla and the Minister’s desire to have a director automatically reinstated on revival. It is clear that subsection 209(4) has retroactive effect. The revived corporation is restored to its previous position in law to the same extent as if it had not been dissolved.
+[32] The majority in Aujla held that that retroactive effect did not extend to retroactively reinstating directors. The Respondent accepts that conclusion. Yet the Respondent urges me to accept a textual interpretation that looks beyond the retroactive language. In essence, the Respondent asks me to conclude that, when a corporation is dissolved, a director is held in some sort of suspended animation pending a possible revival, that during that period of suspended animation the director could resign from their non-existent position, and that, upon revival, the director is freed from that suspension and reinstated, not retroactively but prospectively. Nothing in the text of subsection 209(4) supports this position.
+Textual Conclusion [33] Based on all of the foregoing, I find that the textual analysis slightly favours Mr. Maragos but largely leaves it unclear how directors are to be treated.
+C. Contextual Analysis Corporations Without Directors [34] Subsection 102(2) of the CBCA requires every corporation to have at least one director. If restoring a corporation does not prospectively restore its directors, then the result would appear to be that every revived corporation would be in breach of subsection 102(2). This would appear to argue in favour of the Respondent’s interpretation. However, a broader contextual analysis shows that there are many situations where a corporation could be left with no directors.
+[35] Subsection 108(1) provides that a director ceases to hold office when the director dies, resigns, is removed or becomes disqualified from acting through bankruptcy or incapacity. So, for example, if a corporation only had one director and that director became bankrupt, subsection 108(1) would treat the director as having ceased to hold office despite the fact that the corporation would be left with no directors in breach of subsection 102(2). The same problem would arise any time the directors of a corporation resigned on mass.[9]
+[36] In all of those situations, the solution is that the shareholders simply elect new directors. There is no reason to think that Parliament did not picture the same solution for a revived corporation.
+[37] But what if the shareholders fail to act? Subsection 109(4) demonstrates that Parliament turned its mind to the possibility that a corporation might nonetheless end up in a position where it had no directors. The subsection states that “[i]f all of the directors have resigned or have been removed without replacement, a person who manages or supervises the management of the business and affairs of the corporation is deemed to be a director for the purposes of this Act.” In other words, the de facto directors of the corporation become its directors.
+[38] In summary, if Mr. Maragos’ interpretation is correct, a dissolved corporation is restored without directors and it is up to the shareholders to elect new ones. If its shareholders fail to do so, as long as someone manages or supervises the management of the corporation’s business and affairs, that person will automatically become its director.[10]
+[39] Based on all of the foregoing, it is clear that the CBCA contemplates the possibility that a corporation could have no directors and has solutions in place to deal with it. While it may be preferable to avoid an interpretation of subsection 209(4) that would lead to that result, that alone is insufficient for me to find against the Appellant’s interpretation.
+Conflicts With Other Provisions [40] I am concerned that the Respondent’s interpretation would cause conflicts with other provisions of the CBCA.
+[41] Subsection 106(9) requires an individual to have consented (directly or through their actions) to their election or appointment as a director. If that consent is lacking, the subsection deems them not to have been elected or appointed. I struggle to see how, having ceased to be a director on dissolution, an individual like Mr. Maragos who was not notified of the corporation’s revival until after it had already occurred, could in any way be said to have consented to their ex-parte appointment. Thus, under the Respondent’s interpretation, subsection 106(9) would deem the very directors who had just been reinstated not to be directors.
+[42] In certain circumstances, the Respondent’s interpretation would also cause a revived corporation to breach subsections 105(3) to (4) of the CBCA. Those subsections set out certain residency requirements for directors. If, after dissolution, a director ceased to be a Canadian resident, the Respondent’s interpretation would mean that, on revival, the corporation could immediately find itself in breach of those provisions. The shareholders would have had no opportunity to avoid the problem by electing resident directors.
+[43] Neither of the foregoing conflicts would be present under Mr. Maragos’ interpretation.
+Contextual Conclusion [44] Based on all of the foregoing, I find that the contextual analysis leans slightly in favour of Mr. Maragos’ interpretation.
+D. Purposive Analysis [45] There are two distinct purposes that I must consider: the purpose of corporate continuity and the purpose of limitation periods.
+Corporate Continuity, Not Director Continuity [46] The purpose of subsection 209(4) is to preserve corporate continuity despite temporary dissolution. Both parties’ interpretations are consistent with this purpose.
+[47] Under Mr. Maragos’ interpretation, upon revival, the shareholders can elect new directors or re-elect the old ones. If they fail to do so, the de facto directors become the directors. Either way, corporate continuity is preserved.
+[48] The Respondent argues that reinstating directors better ensures corporate continuity because the directors run the corporation. However, subsection 209(4) makes it clear that the continuity to be preserved is the continuity of the corporation’s rights, privileges and obligations. It says nothing about the continuity of its directors.
+[49] Admittedly, it may not be efficient for the shareholders to elect new directors. The provisions of the CBCA for holding annual general meetings contemplate those meetings being set by the directors (section 133). However, there are provisions for acting by unanimous shareholder resolution in place of a meeting (subsection 142), for shareholders to call a meeting (subsection 111(2)) and, ultimately, for a court to order that a meeting be held (section 144).
+[50] Without saying it, what the Respondent is really arguing is that Parliament would have favoured certainty of who the directors of a revived corporation would be over shareholders’ rights to elect directors. I have no basis to reach that conclusion.
+[51] The fact that a corporation has been dissolved may say something about how well the former directors were doing their jobs. The shareholders may well want new directors. Furthermore, external changes during the period of dissolution may warrant different directors.
+[52] I can certainly understand why Parliament would want to preserve the rights of the corporation and the rights of third parties. I cannot, however, see how the goal of preserving corporate continuity would require Parliament to presume that it knew better than the shareholders who the directors of a revived corporation should be.
+[53] Based on all of the foregoing, I find that the purpose of subsection 209(4) is of limited value in deciding between the two interpretations. Both parties’ interpretations fulfill that purpose. Mr. Maragos’ interpretation does so at the expense of efficiency and certainty. The Respondent’s does so at the expense of shareholder rights.
+Vastly Expanded Limitation Period [54] The Respondent’s interpretation of subsection 209(4) would significantly undermine the purpose of limitation periods.
+[55] The purpose of limitation periods is to provide certainty, evidentiary integrity and diligence. In the Supreme Court of Canada’s decision in Markevich v. The Queen, Justice Major, writing for the majority, summarized these purposes as follows.[11] The certainty rationale recognizes that, with the passage of time, an individual should be secure in their reasonable expectation that they will not be held to account for ancient obligations. The evidentiary rationale recognizes the desire to preclude claims where the evidence used to support that claim has grown stale. The diligence rationale encourages claimants (in this case the Crown) to act diligently and not sleep on their rights.
+[56] Markevich involved limitation periods on the collection of tax debts. The director’s liability provisions in section 323 are a mechanism for collecting tax debts – the debts of the corporation. Justice Major went on to specifically apply the above principles to tax debts:[12]
+Each of the rationales…are directly applicable to the Minister's collection of tax debts. If the Minister makes no effort to collect a tax debt for an extended period, at a certain point a taxpayer may reasonably come to expect that he or she will not be called to account for the liability, and may conduct his or her affairs in reliance on that expectation. As well, a limitation period encourages the Minister to act diligently in pursuing the collection of tax debts. In light of the significant effect that collection of tax debts has upon the financial security of Canadian citizens, it is contrary to the public interest for the department to sleep on its rights in enforcing collection. It is evident that the rationales which justify the existence of limitation periods apply to the collection of tax debts.
+[57] In Therrien (Re), the Supreme Court of Canada made it clear that, when two statutes enacted by Parliament address related subject matters, an interpretation favouring harmony between them should prevail.[13] Accordingly, I should seek an interpretation that allows subsections 209(4) of the CBCA and 323(5) of the ETA to work together. However, in the circumstances of this appeal, I do not even have to look beyond the CBCA when seeking harmony. The CBCA has its own director’s liability provisions built into it. I am not just seeking cross-statute harmony, but also internal-statute harmony.
+[58] Section 119 of the CBCA provides for director’s liability for certain unpaid wages. Subsection 119(3) states that a director is not liable under that section unless sued “while a director or within two years after ceasing to be a director”. I must presume that Parliament intended that provision to work harmoniously with subsection 209(4).
+[59] Section 209 of the CBCA does not place a time limit on restoring a corporation. Under the Respondent’s interpretation, this would mean that there was effectively an extended limitation period on director’s liability for a dissolved corporation.
+[60] If I accepted the Respondent’s interpretation, then a former employee of a dissolved CBCA corporation could, long after its dissolution, apply to restore the corporation and, immediately thereafter, sue the reinstated directors under section 119. That would run completely counter to the certainty, evidentiary and diligence rationales laid out by the Supreme Court. A former director who had reasonably come to expect that they would not be called to account for the liability and had conducted their affairs in reliance on that expectation would suddenly be fully exposed.
+[61] The Respondent argues that there could still be a limitation period. The Respondent points out that a revival under subsection 209(4) is subject “to the rights acquired by any person after its dissolution”. The Respondent says that, if the corporation were not restored within two years, the directors could arguably have acquired a right not to be assessed and the revival would be subject to that right.
+[62] Indirectly, the Respondent is saying that minimum period limitation for directors of a dissolved corporation is four years less a day. So long as the corporation was restored one day before the end of the initial two-year limitation period, the reinstatement of the directors would reset the clock and, even if the directors immediately resigned, still expose them to liability for a further two years.
+[63] I can see no reason why Parliament would want to treat directors of dissolved corporations differently than directors of other corporations. If a corporation ceased carrying on business and the directors simply resigned, they would be potentially liable for two years. Why would Parliament provide for an extra 729 days in the case of a dissolution?
+[64] The Respondent argues that Mr. Maragos’ interpretation would put directors of “negligent corporations” (that being how the Respondent describes corporations that do not stay up to date on filing their annual returns) in a better position than directors who take the formal step of resigning. It is unclear why they would be in a better position. It seems to me they would be in the identical position – both benefiting from a fixed two-year limitation period.
+[65] In SLS’ case, it appears the Minister learned of the dissolution relatively quickly. SLS was dissolved in July 2018. By December, the Minister had restored the corporation. The Minister still had 19 months within which he could have assessed Mr. Maragos. He did not do so. Part of the reason for limitation periods is to force the Minister to act diligently. It seems to me that what the Minister is really arguing is that Mr. Maragos should be punished for the Minister’s choice to sleep on his rights.
+[66] If Parliament is truly concerned that directors are escaping liability through involuntary dissolution, the solution is to extend the limitation period in subsection 323(5) to give the Minister more time to assess in those circumstances, not to contort the meaning of subsection 209(4) to fit the Minister’s needs.
+Purposive Conclusion [67] In summary, Mr. Maragos’ interpretation would preserve both the goals of corporate continuity and the certainty, evidentiary and diligence rationales for limitation periods. By contrast, the Respondent’s interpretation would preserve the goal of corporate continuity but significantly undermine the certainty, evidentiary and diligence rationales by extending limitation periods in both the CBCA and the ETA. The Respondent’s disharmonious interpretation cannot have been Parliament’s intention.
+E. De Jure Director Conclusion [68] Based on the foregoing textual, contextual and purposive analysis, I conclude that Mr. Maragos’ interpretation is correct. While the text is largely ambiguous, the context provides some support for Mr. Maragos and the purpose makes it clear that his interpretation is the correct one. The former directors of a dissolved CBCA corporation are not reinstated on its revival.
+[69] Accordingly, Mr. Maragos did not become a director when SLS was restored on December 24, 2018. He last ceased to be a de jure director on July 24, 2018 when the corporation was dissolved.
+III. De Facto Director A. Burden [70] The Minister assessed Mr. Maragos on the basis that he was a de jure director, not a de facto director. As a result, the Minister made no assumptions of fact to support his assessment as a de facto director.
+[71] The Respondent filed an Amended Reply shortly before I heard the first stage of this motion. The Amended Reply raised for the first time the alternative argument that Mr. Maragos became a de facto director when SLS was restored. The burden of proving the facts to support this alternative argument lies with the Respondent.
+[72] The Amended Reply did not plead any facts in support of the Respondent’s alternative argument beyond the bald assertion that Mr. Maragos “continued to fulfil the functions of a director”. Mr. Maragos denies that he did so.
+[73] The Respondent has not provided any evidence that SLS carried on any activities whatsoever or even held any assets after it was restored. The evidence before me indicates that, by the spring of 2018, SLS had surrendered its lease, transferred its assets to a different company, no longer had any employees and had collected the last of its accounts receivable.
+[74] Similarly, the Respondent has not indicated what functions Mr. Maragos purportedly performed after the corporation was restored. By the time SLS was dissolved on July 24, 2018, it had no business or affairs for Mr. Maragos or anyone else to manage or supervise.
+[75] The Respondent’s suggestion that, in receiving mail from the CRA advising him that SLS had been restored, Mr. Maragos somehow performed the functions of a director has no merit.
+[76] In the circumstances, I find the Respondent has not met his burden.
+B. Effect of Subsequent Resignation [77] A few months after Mr. Maragos learned that the Minister had restored SLS, he filed a protective resignation to remove his name from the public record. Since I have found that SLS’s restoration did not reinstate Mr. Maragos as a de jure director, I find there was nothing for him to resign from. His resignation was meaningless.
+[78] Nonetheless, the Respondent argues that, in failing to immediately resign from a position that he did not actually hold, Mr. Maragos somehow held himself out to the public as occupying that position and thus became a de facto director. I do not see how Mr. Maragos’ promptness or lack thereof in dealing with an administrative error could in any way suggest that he was managing the business or affairs of SLS.
+[79] In any event, the Minister is not some innocent third party who was misled by public records. The Minister caused SLS to be restored and, in doing so, caused Mr. Maragos to incorrectly be shown as a director. The Minister did so without notice to Mr. Maragos. It is a stretch to suggest that the Minister was somehow misled by Mr. Maragos’ somewhat delayed response to the Minister’s own actions.
+C. De Facto Director Conclusion [80] Based on the foregoing, I find that Mr. Maragos did not act as a de facto director at any time after the dissolution caused him to cease being a de jure director.
+IV. Summary [81] In conclusion, I find that Mr. Maragos last ceased to be a de jure director of SLS on July 24, 2018 when the corporation was dissolved and that he has never been a de facto director.
+[82] The two-year time limit in subsection 323(5) began on July 24, 2018 when SLS was dissolved. It ended on July 24, 2020, well before the Minister issued the May 14, 2021 assessment.
+[83] In the circumstances, it is difficult to see how the Respondent could succeed in the appeal. However, it is not my role in hearing a section 58 motion to determine the outcome of the appeal. I leave it to the parties to determine how they will proceed.
+Signed this 7th day of January 2026.
+“David E. Graham”
+Graham J.
+CITATION:
+2026 TCC 4
+COURT FILE NO.:
+2023-230(GST)G
+STYLE OF CAUSE:
+ANASTASE MARAGOS v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 18, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+January 7, 2026
+APPEARANCES:
+Counsel for the Appellant:
+Alistair G. Campbell
+David McCormick
+Counsel for the Respondent:
+Kayla Baldwin
+Jean Murray
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Alistair G. Campbell
+Firm:
+Legacy Tax + Trust Lawyers
+Vancouver, British Columbia
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] CBCA, subsection 213(5).
+[2] 2008 FCA 304, at paras. 23 to 25.
+[3] R.S.B.C. 1995, c. 62.
+[4] At para. 33.
+[5] In Jobin v. The Queen (2014 TCC 326), Chief Justice Rip specifically held, albeit in obiter, that directors of a CBCA corporation cease to be directors on dissolution.
+[6] At para. 40.
+[7] At para. 41.
+[8] At para. 25.
+[9] As an aside, the Respondent places significance on the fact that dissolution is not included in the subsection 108(1) list of things that cause a director to cease to be a director. To me, there is no reason to include it. On dissolution, the corporation ceases to exist. There is no need to specify that a director has ceased to hold an office that no longer exists.
+[10] While it is of no import, I note that this is essentially the same conclusion that the majority in Aujla reached in obiter (at para. 40).
+[11] 2003 SCC 9, at para. 19.
+[12] At para. 20.
+[13] 2001 SCC 35, at para. 121.

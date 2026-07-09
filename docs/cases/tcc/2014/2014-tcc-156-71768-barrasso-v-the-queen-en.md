@@ -1,0 +1,196 @@
+---
+title: "Barrasso v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/71768/index.do"
+last_modified: "2014-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 156"
+citation2: ""
+neutral_citation: "2014 TCC 156"
+decision_date: "2014-05-20"
+language: "en"
+item_id: "71768"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5337
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:45:08.852000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7213a18e0d3b986e017ec4e332dadda0e67831c1cb4c1baabb562be0d78fd25b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barrasso v. The Queen
+
+- Citation: 2014 TCC 156
+- Decision date: 2014-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5337, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrasso v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-05-20
+Neutral citation
+2014 TCC 156
+File numbers
+2010-2651(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-2651(IT)G
+BETWEEN:
+VINCENZO BARRASSO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 12, 2014, at Montreal, Quebec.
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Serge Fournier
+Counsel for the Respondent:
+Natalie Goulard
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003, 2004, 2005, 2006 and 2007 taxation years are dismissed with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of May 2014.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 9th day of December 2014.
+Erich Klein, Revisor
+Citation: 2014 TCC 156
+Date: 20140520
+Docket: 2010-2651(IT)G
+BETWEEN:
+VINCENZO BARRASSO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The appellant is challenging the disallowance by the Minister of National Revenue (the Minister) of capital losses that arose from the implementation of a tax‑planning technique known as a “value shift”. The amounts of the losses disallowed were $22,499,900 in 2005, $34,499,900 in 2006 and $7,499,967 in 2007.
+[2] The issue is whether the general anti-avoidance rule (the GAAR) is applicable to the transactions undertaken by the taxpayer to create these losses. The Federal Court of Appeal has already ruled on the application of the GAAR in similar circumstances and decided that the losses created in those cases by means of a value shift constituted a misuse or abuse of paragraphs 38(b), 39(1)(b) and 40(1)(b) of the Income Tax Act: 1207192 Ontario Ltd. v. Her Majesty the Queen (1207192)[1] and Triad Gestco Ltd. v. Her Majesty the Queen (Triad Gestco).[2]
+[3] In the case at bar, the appellant submits that the Court should distinguish between the facts in his case and those in 207192 and Triad Gestco, and find that the GAAR is not applicable.
+The facts
+[4] The appellant operates a real estate business. He realized capital gains of over $30,000,000 in 2005, of $34,632,636 in 2006 and of $48,931.50 in 2007 from the sale of certain properties.
+[5] In December 2005, the appellant undertook the following series of transactions:
+-On December 5, 2005, the appellant incorporated Les Immeubles Molibec Inc. (“Immeubles Molibec”) under Part IA of Quebec’s Companies Act.
+-Immeubles Molibec issued Class A common shares in consideration of
+a demand note, which bore no interest and allowed Immeubles
+Molibec to receive $22,500,000 from the appellant on demand.
+-On December 6, 2005, Immeubles Molibec declared a dividend on the 100
+Class A common shares held by the appellant. The dividend was
+payable by the issuance of 100 Class H preferred shares that had a total redemption value of $22,500,000 and a paid-up capital of $100.
+- On December 6, 2005, the appellant sold 50 Class A common shares
+of Immeubles Molibec to each of his two sons, Marcello Barrasso and Agostino
+Barrasso, for an amount of $1 per share.
+-The disposition by the appellant of 100 Class A common shares of Immeubles
+Molibec resulted in a capital loss of $22,499,900.
+[6] In December 2006, the appellant undertook a second series of transactions:
+-On December 12, 2006, the appellant incorporated Les Investissements
+Molibec (“Investissements Molibec”) under Part IA of Quebec’s Companies Act.
+-The appellant became the sole shareholder of Investissements Molibec by
+subscribing for 100 Class A common shares at a price of $345,000 per share
+for a total of $34,500,000, and for 100 Class C preferred shares at a price
+of $1 per share.
+-Investissements Molibec issued Class A common shares in consideration of
+a demand note, which bore no interest and allowed Investissements Molibec to
+receive $34,500,000 from the appellant on demand.
+-On December 15, 2006, Investissements Molibec declared a dividend of
+$345,000 per share on the 100 Class A common shares held by
+the appellant. The dividend was payable by the issuance of 3,450 Class G preferred shares that had a total redemption value of $34,500,000 and a paid-up capital of $34.50.
+-On December 18, 2006, the appellant sold 50 Class A common shares
+of Investissements Molibec to each of his two sons, Marcello Barrasso and
+Agostino Barrasso, for an amount of $1 per share.
+- The disposition of 100 Class A common shares of Investissements
+Molibec resulted in a capital loss of $34,499,900.
+[7] Finally, in December 2007, the appellant undertook a third series of transactions:
+-On December 19, 2007, the appellant subscribed for 1,644 Class
+B common shares of Immeubles Molibec at the price of $4,652.04 in exchange for
+a demand note, which bore no interest and allowed Immeubles Molibec to receive
+$7,500,000 from the appellant on demand.
+-On December 19, 2007, Immeubles Molibec declared a dividend of $4,562.04
+per share on the 1,644 Class B common shares held by the appellant.
+The dividend was payable by the issuance of 33 Class H preferred shares that had a total redemption value of $7,500,000 and a paid-up capital of $33.
+-On December 19, 2007, the appellant sold 822 Class B common shares of
+Immeubles Molibec to each of his two sons, Marcello Barrasso and Agostino
+Barrasso, for an amount of $1 per share.
+-The disposition of 1,644 Class B common shares of Immeubles Molibec resulted in a capital loss of $7,499,967.
+[8] The appellant disputed neither the fact that the capital losses created by these transactions constituted a tax benefit within the meaning of subsection 245(1) of the ITA nor the fact that some of these transactions were not undertaken or arranged for bona fide purposes within the meaning of subsection 245(3) of the ITA. The tax benefit resulted from avoidance transactions.
+[9] The only issue before the Court is whether the avoidance transactions resulted in each case in a misuse or abuse of paragraphs 38(b), 39(1)(b) and 40(1)(b) of the ITA.
+Analysis
+[10] The transactions undertaken each year by the appellant in this case and the transactions in 1207192 and Triad Gestco have a number of elements in common, in particular, that the taxpayer received shares from a new company controlled by the taxpayer in exchange for consideration of significant value (either property or a promissory note). The value of the shares at the time of their issuance to the taxpayer was equal to the value of the consideration provided by the taxpayer.
+[11] Shortly after the issuance of the shares to the taxpayer, the new company declared a stock dividend (of a different class). These shares had a high redemption value and a low paid-up capital.
+[12] The stock dividend had the effect of shifting the value of the shares initially issued to the taxpayer to the shares resulting from the stock dividend.
+[13] Subsequently, the taxpayer sold the original shares to a related party and thus created a capital loss on the disposition.
+[14] Counsel for the appellant emphasizes two elements of this case that differ from 1207192 and Triad Gestco. First, the taxpayer in this case sold his original shares to his two sons, whereas in 1207192 and Triad Gestco the taxpayers sold their shares to trusts.
+[15] Second, in the case at bar, the taxpayer is an individual. In 1207192 and Triad Gestco, of course, the two taxpayers were companies.
+[16] The appellant submits that these two differences are sufficient to enable the Court to conclude that there was no misuse or abuse of paragraphs 38(b), 39(1)(b) and 40(1)(b) within the meaning of subsection 245(3) of the ITA.
+[17] I disagree.
+[18] It is obvious that, just as in 1207192 and Triad Gestco, the losses incurred by the appellant are solely theoretical losses and not economic losses. In the words of the Federal Court of Appeal in Triad Gestco, at paragraph 39:
+. . . All that happened is that the high inherent value of the common shares was moved to the preferred shares - because they are paid in priority - with the result that the common shares were left with a nominal value and a high cost, thereby allowing for the loss to be realized on the disposition of these shares to the Peter Cohen Trust. The appellant was neither richer nor poorer after this disposition.
+[19] The appellant submits that, since he is an individual and not a company, the disposition of the shares received as stock dividends, which have a high value and a low cost, is a certainty even if he chooses to never divest himself of the shares, because there will be a deemed disposition upon his death. Thus, no later than on his death, this deemed disposition will result in gains equivalent to the capital losses at issue in this case and, therefore, the capital losses incurred in 2005, 2006 and 2007 are not theoretical or artificial. In my view, the fact that the appellant is an individual and not a company does not change the actual or the theoretical nature of the losses claimed. The Federal Court of Appeal rejected a similar argument in Triad Gestco at paragraphs 57 to 59:
+The appellant argued for the first time during the course of the hearing of the appeal that the disallowance of the claimed loss gives rise to a form of unfairness given that it remains the holder of the preferred shares. It points out that since these shares have tax characteristics which inversely mirror those of the common shares - i.e. a correspondingly high value and low cost - their disposition would trigger a gain tantamount to the loss claimed.
+I need only observe that many years have passed since the loss was claimed, and there is no suggestion that the preferred shares have been sold. This is not surprising since the purpose of the transactions was to avoid paying taxes on the gain resulting from the sale of the commercial building back in 2001. I note in this respect that contrary to individuals, a corporation can maintain ownership of capital assets without any time limitation.
+That said, had the appellant been able to put forth a credible scenario indicating that the preferred shares were to be sold, thereby reducing the extent of the tax benefit obtained, it would have been open to it to request that the tax consequences resulting from the application of the GAAR be adjusted pursuant to subsection 245(5). No such request was made.
+[20] The capital losses that resulted from the transactions undertaken by the appellant did not entail any financial loss for him, although, in the distant future, gains on the shares obtained as stock dividends may be realized. During the years in issue, the appellant simply did not suffer any financial loss on the sale of the shares to his sons.
+[21] Furthermore, just as in Triad Gestco, the taxpayer did not present evidence that he had sold the shares received as stock dividends and did not request an adjustment of the tax consequences arising out of the application of the GAAR to take into account a potential sale of the shares.
+[22] The appellant also argues that the fact that he sold his shares to his sons and not to a trust, as was the case in Triad Gestco and 1207192, ought to lead the Court to conclude that the losses resulting from these transfers were not artificial. He refers to paragraph 40(2)(g) of the ITA, an anti-avoidance provision that disallows capital losses where the person disposing of property has not truly relinquished his or her economic interest in that property because the person transferred the property to one or more affiliated persons. The appellant submits that the definition of “affiliated persons” in section 251.1 of the ITA has never included parents and their children, and therefore transfers to children are not subject to paragraph 40(2)(g) or subsection 40(3.4), whereas that definition was amended in 2005 to include trusts.
+[23] However, it is clear that the artificial nature of the losses in question in 1207192 and Triad Gestco did not stem from the fact that there was a transfer of shares to a trust in each case. Rather, the artificiality of the losses stemmed from the value shift that occurred between two classes of shares held by the taxpayer. It appears to me that the decisions of the Federal Court of Appeal in those two cases would have been the same regardless of the identity of the purchaser of the shares whose value had decreased or regardless of the existence of a non-arm’s length relationship between the purchaser and the taxpayer. For this reason, the amendments made to the definition of the term “affiliated persons” in 2005 are not relevant in the present case.
+[24] In conclusion, I can make no distinction between the facts before me and those in 1207192 and Triad Gestco, and I therefore find that the appellant has not shown that subsection 245(4) must be invoked to vacate the assessment under appeal.
+[25] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 20th day of May 2014.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 9th day of December 2014.
+Erich Klein, Revisor
+CITATION: 2014 TCC 156
+COURT FILE NO.: 2010-2651(IT)G
+STYLE OF CAUSE: VINCENZO BARRASSO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 12, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: May 20, 2014
+APPEARANCES:
+Counsel for the appellant:
+Serge Fournier
+Counsel for the respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the appellant:
+Name: Serge Fournier
+Firm: BCF, LLP
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2012 FCA 259, [2012] F.C.J. No. 1294 (leave to appeal to the Supreme Court of Canada denied, 2013 CarswellOnt 3394).
+[2] 2012 FCA 258, [2012] F.C.J. No. 1274.

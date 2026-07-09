@@ -1,0 +1,148 @@
+Title: Grau c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29049/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-60-29049-grau-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-30
+
+# Grau c. La Reine
+
+- Citation: 2009 CCI 60
+- Decision date: 2009-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6857, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-30
+Référence neutre
+2009 CCI 60
+Numéro de dossier
+2007-3805(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑3805(IT)I
+ENTRE :
+PATRICK GRAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 22 octobre 2008, à St. Catharines (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+Les appels relatifs aux nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996, 1997, 1998, 1999, 2000 et 2001 sont rejetés, conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2009.
+« G.A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+David Aubry, LL.B.
+Réviseur
+Référence : 2009CCI60
+Date : 20090130
+Dossier : 2007‑3805(IT)I
+ENTRE :
+PATRICK GRAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE JUGEMENT
+La juge Sheridan
+[1] L’appelant interjette appel de la nouvelle cotisation relative à ses années d’imposition 1996 à 2001. L’appel concerne deux questions non liées : la première consiste à savoir si l’appelant a le droit de déduire certaines dépenses relatives à une entreprise de nolisement de bateau qu’il disait avoir exploitée de 1999 à 2001; la seconde consiste à savoir s’il peut déduire des montants déclarés à titre de pension alimentaire pour conjoint pour les années 1996 à 2001 en application de l’alinéa 60b) de la Loi de l’impôt sur le revenu (la « Loi »). Sous cette rubrique, pour ce qui est des nouvelles cotisations relatives aux années 1996 à 1998 seulement, il y a la question préliminaire de savoir si le ministre du Revenu national a eu raison d’établir une nouvelle cotisation après la période normale de nouvelle cotisation en vertu du paragraphe 152(4) et, dans l’affirmative, si des pénalités ont été imposées à bon droit en application du paragraphe 163(2) de la Loi.
+Les dépenses relatives à l’entreprise de nolisement de bateau (1999, 2000 et 2001)
+[2] En 1999, l’appelant a acheté un voilier de 38 pieds pour la somme de 15 836,20 $[1]. À cette époque, le bateau se trouvait hors de l’eau depuis 10 ou 12 ans et avait besoin de beaucoup de réparations. L’appelant a expliqué qu’il en avait fait l’achat dans le but de réaliser son rêve d’exploiter une entreprise de nolisement sur le lac Ontario. Cela dit, il a admis que le bateau est resté sur la terre ferme pendant toutes les années 1999, 2000 et 2001. Il n’en a pas moins déduit des dépenses de 9 156 $, de 9 225 $ et de 3 150 $, respectivement, pour des éléments tels que des travaux d’entretien, des réparations, une assurance et des intérêts. En 1999 seulement, il a également déduit des dépenses relatives aux frais de livraison et de délivrance de permis, de même que des frais juridiques et comptables.
+[3] Le ministre a rejeté les déductions de l’appelant au motif que ce dernier, en réalité, n’avait pas exploité une entreprise de nolisement de bateau au cours de ces années‑là. La position de l’intimée est que le rêve qu’avait l’appelant d’exploiter une entreprise de nolisement ne s’est jamais concrétisé; on ne peut donc pas dire que les dépenses déduites ont été engagées en vue de tirer un revenu d’une entreprise, ainsi que l’envisage la Loi de l’impôt sur le revenu.
+[4] L’avocat de l’intimée a renvoyé la Cour au critère à deux volets que la Cour suprême du Canada a établi dans l’arrêt Stewart v. R.[2] : une fois qu’il est déterminé qu’une entreprise, de par sa nature, peut être soit commerciale soit personnelle, le tribunal doit examiner si, s’agissant du contribuable, « […] son intention prédominante était de tirer profit de l’activité et [si] cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux »[3]. Pour ce faire, la Cour doit passer au second volet du processus en examinant les facteurs énumérés dans l’arrêt Moldowan c. La Reine[4] :
+1) l’état des profits et pertes pour les années antérieures;
+2) la formation du contribuable;
+3) la voie sur laquelle il entend s’engager;
+4) la capacité de l’entreprise de réaliser un profit[5].
+[5] Un voilier peut servir tout aussi facilement à des fins récréatives personnelles que dans le cadre de l’exploitation d’une entreprise. Il incombait donc à l’appelant de faire la preuve qu’il s’était lancé dans l’entreprise de nolisement de bateau d’« une manière suffisamment commerciale » pour que cela soit considéré comme une source de revenus au sens de la Loi. Ses éléments de preuve, lorsqu’on les considère dans le contexte des facteurs énumérés plus tôt, ne satisfont pas à ce critère.
+[6] Dans les trois années d’imposition à l’étude, l’appelant a subi des pertes considérables et il n’a pas gagné un sou. Il n’est pas surprenant que son entreprise de nolisement n’ait généré aucun revenu car, durant toute la période en cause, le bateau était solidement ancré dans son entrée de cour. Bien que la sincérité de l’appelant quant à son rêve d’exploiter une telle entreprise soit parfaitement crédible, il n’en demeure pas moins qu’il n’avait pas les ressources nécessaires pour concrétiser ce rêve : il n’avait pas d’argent pour lancer son entreprise et aucune formation dans le domaine des affaires ou de la gestion. Même si, dans sa jeunesse, il avait travaillé sur les Grands Lacs et si, peu après l’achat du bateau, il avait suivi une sorte de cours de recyclage sur la navigation à voile, pour autant que je sache il ne détenait pas de permis pour emmener des passagers payants sur l’eau; mais peut‑être qu’il n’en faut pas. Quant à un plan d’affaires, il n’avait jamais déterminé quel prix il allait devoir facturer pour rentrer dans ses frais lors de ses sorties, mais il a déclaré que cela était difficile à évaluer car il n’y avait aucune entreprise comparable dans le secteur. À vrai dire, a‑t‑il ajouté, ce fait même faisait partie des facteurs qui l’avaient incité à se porter acquéreur du bateau. Même si cela, à première vue, n’est pas déraisonnable, sans faire de recherches sur la question, il est également possible de conclure que, s’il n’existait pas d’entreprises de ce genre, c’était parce qu’il n’y avait aucun marché pour elles. Même la preuve documentaire joue contre lui : le constat du commissaire d’avaries[6] établi au moment de l’achat indique que le bateau a une vocation [Traduction] « récréative ».
+[7] Si j’énumère ces points faibles dans la prétention qu’a l’appelant d’avoir exploité une entreprise, ce n’est pas pour dénigrer de quelque façon la valeur de son rêve ou l’importance que ce rêve avait pour lui personnellement. C’est juste pour montrer qu’au regard des critères énoncés dans la jurisprudence, ses éléments de preuve ne montrent pas qu’il ait jamais établi une activité commerciale pour laquelle il avait le droit de déduire des dépenses. De ce fait, aucun des montants déclarés ne peut être déduit à titre de dépenses d’entreprise.
+Les déductions au titre de la pension alimentaire pour conjoint (de 1996 à 2001)
+[8] De 1996 à 2001, l’appelant a commencé à déduire des montants[7] pour ce qui constituait, comme il l’a déclaré, des paiements de pension alimentaire pour conjoint. Le ministre a rejeté ces déductions au motif que de tels paiements, s’ils ont été faits, ne l’ont pas été « aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit », comme l’exige le paragraphe 56.1(4)[8] de la Loi. Le vérificateur chargé du dossier de l’appelant était M. Bryce Corbett. Celui‑ci a expliqué que quand il a commencé à examiner les déductions de l’appelant, il s’est posé une question additionnelle, celle de savoir si l’appelant vivait en fait séparé de son épouse. L’examen de certains documents, dont l’accord de séparation de l’appelant et divers dossiers publics et gouvernementaux, a finalement amené M. Corbett à soupçonner que l’appelant s’était prévalu d’une déduction au titre de la pension alimentaire pour conjoint à laquelle il savait ne pas avoir droit. C’est sur cette base que le ministre a justifié l’établissement de la nouvelle cotisation après la période normale de nouvelle cotisation concernant les années d’imposition 1996 à 1998 en application du paragraphe 152(4), ainsi que l’imposition de pénalités en vertu du paragraphe 163(2) de la Loi. Étant donné que le fardeau de preuve relatif à ces questions passe de l’appelant au ministre, ces aspects relatifs aux nouvelles cotisations concernant la période de 1996 à 1998 sont examinés séparément ci‑après.
+[9] Certains faits de base ne sont pas contestés : pendant toute la période en cause, l’appelant est demeuré marié à celle qui était à l’époque son épouse. L’adresse du domicile conjugal était le 98 Leaside Drive. La mère de l’appelant possédait une maison non loin de là, au 84 Leaside Drive. Un accord de séparation, conclu le 27 juin 2001[9], comporte une clause indiquant que l’appelant et son ex‑épouse vivent séparés depuis janvier 2000.
+[10] L’appelant a admis qu’avant l’accord de séparation du 27 juin 2001, il n’existait aucune ordonnance d’un tribunal ou aucun accord écrit selon lesquels il était tenu de payer une pension alimentaire pour conjoint; il l’avait fait en se fondant sur ce qu’il estimait être sa juste obligation en tant qu’époux et père responsable. Chaque mois, il payait la totalité des dépenses de subsistance de la famille, les versements hypothécaires, les factures de services publics, les taxes municipales, et ainsi de suite; en se fondant sur ce montant total, il déclarait ensuite un montant forfaitaire[10] dans chaque année d’imposition au titre de la pension alimentaire pour conjoint.
+[11] L’admission qui précède est en soi suffisante pour disposer de l’appel de l’appelant concernant les années d’imposition 1996 à 2001[11], relativement à son admissibilité à une déduction au titre de la pension alimentaire pour conjoint au titre de l’alinéa 60b). Cette disposition autorise à déduire une « pension alimentaire », terme défini à l’alinéa 56.1(4)a) :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+[…]
+[12] Comme la définition qui précède est rédigée de façon conjonctive, même sans vérifier si l’appelant et son ex‑épouse vivaient séparés, le fait que : 1) les montants allégués n’ont pas été payés « aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit » ou 2) que ces montants n’ont pas été payés à titre « périodique » suffit pour les exclure du sens du terme « pension alimentaire ». Il s’ensuit que l’appelant n’a pas droit à une déduction au titre de la pension alimentaire pour conjoint en application de l’alinéa 60b) de la Loi pour les années d’imposition 1996 à 2001.
+La nouvelle cotisation établie en vertu du paragraphe 152(4) et les pénalités imposées en vertu du paragraphe 163(2) (1996, 1997 et 1998)
+[13] En ce qui concerne les années d’imposition 1996 à 1998 seulement, il reste à déterminer si le ministre était fondé à établir une nouvelle cotisation après la période normale de nouvelle cotisation, ainsi qu’à imposer des pénalités à l’appelant. Il incombe au ministre de faire la preuve que les conditions énumérées aux paragraphes 152(4) et 163(2) ont été remplies.
+[14] Selon l’intimée, au cours des années d’imposition 1996 à 1998, l’appelant a vécu avec son épouse au 98 Leaside Drive et il a déduit des montants de pension alimentaire pour conjoint, tout en sachant que son admissibilité à une telle déduction était conditionnelle au fait que, notamment, il vive séparé de son épouse.
+[15] L’appelant a carrément nié qu’il vivait au 98 Leaside Drive durant ces années, insistant pour dire qu’il vivait quelques maisons plus loin, dans la même rue, soit chez sa mère au 84 Leaside Drive. Pour corroborer son témoignage, il a cité comme témoins son ex‑épouse, sa mère et son amie de cœur de l’époque.
+[16] Commençons tout d’abord par son ex‑amie de cœur; le témoignage de cette dernière n’a été d’aucune utilité pour l’appelant à propos de ses années d’imposition 1996 et 1997, car elle ne l’a rencontré qu’en 1998. J’accepte son témoignage selon lequel elle ne s’est jamais présentée au domicile maternel de l’appelant (84 Leaside Drive) et qu’elle n’a mis les pieds dans le domicile conjugal (98 Leaside Drive) qu’après juillet 2001; en fait, sa présence à cette adresse‑là, avant cette date, était expressément interdite par la clause 29 de l’accord de séparation. Elle n’était donc pas en mesure de dire si l’appelant vivait au 84 ou au 98 Leaside Drive en 1996, 1997 ou 1998.
+[17] Quant à l’ex‑épouse et à la mère de l’appelant, la relation qu’elles entretiennent avec ce dernier limite la franchise de leur témoignage et, de ce fait, il m’est impossible d’y accorder un poids considérable.
+[18] Ne subsiste donc que le témoignage de l’appelant qui, pour résister au poids de la preuve habilement réunie par l’avocat de l’intimée, se devait d’être convaincant. Admettant que l’intimée n’avait aucune preuve directe quant au lieu de résidence de l’appelant, l’avocat de l’intimée s’est fondé sur le témoignage et la preuve documentaire du vérificateur pour étayer l’inférence selon laquelle l’appelant vivait au 98 Leaside Drive durant les années en question. Il convient de signaler l’accord de séparation, dans lequel la date de séparation indiquée est janvier 2000. L’appelant a minimisé l’importance de ce fait en expliquant que même s’il avait effectivement quitté la maison en 1996, il avait convenu de la date de janvier 2000 pour permettre à son ex‑épouse d’attribuer une valeur supérieur au domicile conjugal. Non seulement cette déclaration n’a‑t‑elle pas été confirmée par son ex‑épouse, mais celle‑ci a eu l’air assez perplexe quand elle a été contre‑interrogée sur ce point. Quoi qu’il en soit, l’explication de l’appelant n’a aucun sens. Il ressort clairement de l’accord de séparation que l’appelant et son ex‑épouse étaient tous deux représentés par un avocat. Le paragraphe 15(1) de l’accord de séparation reconnaît expressément qu’aucune évaluation officielle de la résidence n’a été demandée ou faite. Dans ces circonstances, il me semble que, pour le règlement des conditions de leur séparation, il était loisible aux parties d’attribuer la valeur qu’elles voulaient au domicile conjugal.
+[19] Sa crédibilité ainsi réduite en miettes, l’appelant n’a pu expliquer de manière raisonnable pourquoi, si ce n’était pas là qu’il vivait, les documents suivants indiquaient que son lieu de résidence était le 98 Leaside Drive : documents d’enregistrement foncier[12], documents d’immatriculation de véhicule à moteur[13], inscription dans l’annuaire téléphonique[14], contrat de vente du voilier[15] (lequel, a‑t‑il admis sans détour, a été garé au 98 Leaside Drive, de 1999 à 2001), permis de bateau[16], formulaire d’inscription à un cours de recyclage sur la navigation à voile[17] et état bancaire au nom de son entreprise de navigation[18]. À vrai dire, seuls les annuaires téléphoniques ont été créés dans les années d’imposition 1996 à 1998, mais, au dire de l’appelant, il a quitté le 98 Leaside Drive le 23 mars 1996 et n’y a pas réaménagé avant juillet 2001, date à laquelle il a eu droit à la possession du foyer conjugal aux termes de l’accord de séparation. Selon cette prémisse, d’aucuns penseraient qu’au moins certains des documents susmentionnés comporteraient une adresse autre que le 98 Leaside Drive. Il se trouve que les seuls documents dans lesquels l’appelant a pris soin de ne pas utiliser l’adresse du 98 Leaside Drive sont ses déclarations de revenus pour 1996 à 2000, sans nul doute pour donner un peu de crédibilité à sa déduction au titre de la pension alimentaire pour conjoint (en plus d’utiliser l’adresse de sa mère, soit le 84 Leaside Drive, il a aussi coché la case « séparé » pour indiquer son état matrimonial dans chaque déclaration) et pour s’assurer de l’envoi approprié de chèques de remboursement, s’il y en avait. Dans l’ensemble, la version des faits de l’appelant manque tout simplement de véracité.
+[20] Le sous‑alinéa 152(4)a)(i) de la Loi exige que le ministre fasse la preuve que l’appelant, en se prévalant d’une déduction au titre de la pension alimentaire pour conjoint dans ses déclarations de revenus pour 1996, 1997 et 1998, « […] a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou […] a commis quelque fraude en produisant la déclaration […] ». Comme l’a fait remarquer avec justesse l’avocat de l’intimée, les dispositions de l’alinéa 60b) sont techniquement complexes. Et je souscris au témoignage de l’appelant selon lequel, étant donné qu’il dû subvenir à ses propres besoins à un jeune âge, il n’a pas les mêmes avantages dont jouissent de nombreuses personnes sur le plan de l’instruction. De ce fait, je ne suis pas disposée à dire (et, à mon avis, l’intimée n’a pas plaidé ce fait) que la conduite de l’appelant était assimilable à de la fraude.
+[21] Cependant, je suis persuadée que le fait de réclamer des déductions au titre de la pension alimentaire pour conjoint dans les circonstances décrites plus tôt était imputable à de la négligence, à une inattention ou à une omission volontaire, ce qui justifie que le ministre établisse sa nouvelle cotisation après la période normale de nouvelle cotisation. L’appelant a reconnu qu’il avait toujours rempli ses déclarations personnelles ainsi que celles de divers membres de sa famille. En outre, il gagnait un peu d’argent chaque année en remplissant les déclarations de revenus de quelques collègues de travail. Enfin, on ne tombe pas par hasard sur une déduction au titre de la pension alimentaire pour enfants : vu la complexité de l’alinéa 60b) et des dispositions connexes, il est difficile d’imputer la faute d’une déduction injustifiée à une tenue de dossiers ou une comptabilité négligentes. Il ressort de la preuve que l’appelant en savait juste assez sur les exigences de l’alinéa 60b) pour se mettre dans de sérieuses difficultés.
+[22] Ce qui m’amène à la question des pénalités imposées en vertu du paragraphe 163(2) de la Loi. Pour avoir le droit d’imposer des pénalités en vertu de cette disposition, le ministre doit pouvoir montrer que l’appelant « sciemment, ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration […] ou y participe, y consent ou y acquiesce ». La jurisprudence est claire : compte tenu de la nature pénale du paragraphe 163(2), ce libellé soumet le ministre à une norme de preuve plus stricte que celle qu’exige le paragraphe 152(4)[19]. Les éléments de preuve examinés plus tôt dénotent l’existence d’une conduite délibérée qui, de pair avec le témoignage de M. Corbett selon lequel le dossier de l’appelant faisait partie d’un groupe de dossiers utilisant la même stratégie de fractionnement de revenus, cadre avec celle décrite au paragraphe 163(2). La seule réponse de l’appelant aux arguments de l’intimée a été de persister à dire qu’il ne vivait pas au 98 Leaside Drive dans les années en question. Je suis au regret de dire qu’il m’est impossible de le croire. Tout bien considéré, je suis convaincue que l’intimée s’est acquittée avec succès du fardeau de montrer que le ministre avait le droit d’imposer des pénalités en vertu du paragraphe 163(2) à l’égard des années d’imposition 1996, 1997 et 1998.
+[23] Pour les motifs qui précèdent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 30e jour de janvier 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+David Aubry, LL.B.
+Réviseur
+RÉFÉRENCE : 2009CCI60
+No DU DOSSIER DE LA COUR : 2007‑3805(IT)I
+INTITULÉ DE LA CAUSE : PATRICK GRAU ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : St. Catharines (Ontario)
+DATE DE L’AUDIENCE : Le 22 octobre 2008
+MOTIFS DE JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 30 janvier 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce R‑1, onglet 8; pièce R‑2.
+[2] [2002] 3 C.T.C. 439, cahier de jurisprudence de l’intimée, onglet 11, aux paragraphes 53 à 55.
+[3] Précité, au paragraphe 54.
+[4] [1978] 1 R.C.S. 480.
+[5] Stewart, précité, au paragraphe 55.
+[6] Pièce R‑2.
+[7] De 1996 à 2001 : 12 000 $, 13 800 $, 15 600 $, 15 600 $, 15 600 $ et 11 200 $, respectivement.
+[8] Par le paragraphe 60.1(4) de la Loi, la définition donnée au paragraphe 56.1(4) s’applique au terme « pension alimentaire » qui figure à l’alinéa 60b).
+[9] Pièce R‑1, onglet 2.
+[10] Par exemple, une copie d’un reçu manuscrit concernant le montant total payé en 1996 figure à la pièce R‑1, onglet 15.
+[11] Pour la période de juillet à décembre 2001, le ministre a fait droit à une déduction de 2 400 $ pour des montants de 400 $ par mois que l’appelant a versés aux termes de l’accord de séparation daté du 27 juin 2001. Cette déduction n’est pas contestée.
+[12] Pièce R‑1, onglet 10.
+[13] Pièce R‑1, onglet 3.
+[14] Pièce R‑1, onglet 4.
+[15] Pièce R‑1, onglet 8.
+[16] Pièce R‑3.
+[17] Pièce R‑1, onglet 9.
+[18] Pièce R‑1, onglet 7.
+[19] Venne v. R., [1984] C.T.C 223 (C.F. 1re inst.), à la page 233.

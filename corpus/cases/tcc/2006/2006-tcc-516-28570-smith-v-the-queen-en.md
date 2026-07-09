@@ -1,0 +1,151 @@
+---
+title: "Smith v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28570/index.do"
+last_modified: "2006-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 516"
+citation2: ""
+neutral_citation: "2006 TCC 516"
+decision_date: "2006-04-19"
+language: "en"
+item_id: "28570"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1103
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:09:02.835000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b93546a488d1cb998c66bd102fc89757e4f372e39ea2c5c7f30cd9094e889c0a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Smith v. The Queen
+
+- Citation: 2006 TCC 516
+- Decision date: 2006-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1103, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-19
+Neutral citation
+2006 TCC 516
+File numbers
+2004-452(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+TAX COURT OF CANADA
+IN RE: The Income tax Act
+2004-452(IT)I
+BETWEEN:
+BRYAN E. SMITH,
+Appellant;
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+--------------
+Held before Mr. Justice Little at 455 Columbia Street, Room 223, Kamloops, B.C., on Wednesday, April 19, 2006.
+--------------
+APPEARANCES:
+Mr. E. Smith, For the Appellant;
+MS. S. Fairbridge, For the Respondent.
+--------------
+THE REGISTRAR: A. Skuce
+--------------
+Allwest Reporting Ltd.
+#302-814 Richards Street
+Vancouver, B.C.
+V6B 3A7
+Per: S. Leeburn
+REASONS FOR JUDGMENT
+(Delivered Orally in Kamloops, B.C. on April 19, 2006)
+JUSTICE: I'm going to give the decision on the appeal filed by Bryan E Smith. The facts are in the 1999 taxation year the appellant was a long haul truck driver. In 1999 the appellant worked for the following companies: January 1 to February 22, 1999, Beaver Trucking Service Ltd in Kamloops; from February 25, 1999 to December 31, 1999 Cascade Carriers Ltd in Calgary. The appellant worked as a truck driver on the road for 161 days in 1999.
+In 1999 the appellant and his wife, Heather Smith, also operated a music business know as North 40 Music Studios ("North 40"). North 40 was established in 1996 to supply DJ services, the rental of PA equipment and mobile recording services for bands and solo artists in the Kamloops area. When the appellant filed his 1999 income tax return, he claimed a business loss in the amount of $19,522.68 in respect of North 40. The financial position of North 40 may be summarized as follows: Gross business income reported, $2,500; current expenses, $6,595.08; capital cost allowance claimed, $13,493.60; business use of home, $1,933.
+The Minister of National Revenue (The Minister) reassessed the appellant on the following basis: The appellant was allowed a business loss of $1,429.10 in respect of North 40, which was determined on the following basis:
+(a) business income of $2,500 was accepted;
+(b) current expenses $3,243.10 and CCA of $683 was allowed.
+The tax issues are:
+(a) whether expenses in excess of the amount allowed by the Minister were incurred by the appellant for the purpose of gaining or producing income from a business;
+(b) whether the amount of $12,807.60 for CCA was properly disallowed by the Minister; and
+(c) whether the appellant is entitled to claim a work space in the home.
+I will now give my analysis and decision.
+The appellant was unable to be present for the hearing because of a work commitment, and his father, Mr. Ed Smith, acted as the appellant's agent. Mr. Ed Smith also provided evidence with respect to the appellant's business activities.
+At the commencement of the hearing Mr. Ed Smith filed an affidavit signed by the appellant. Counsel for the Crown, Sara Fairbridge, objected to evidence being produced by affidavit, and I agree with Ms. Fairbridge's comments. However, in an attempt to resolve the issue without any further delay (there have been two adjournments of the appeal already) I agreed to proceed with the appeal, but I told Mr. Ed Smith that he may have difficulty establishing his son's case since the evidence produce by Ed Smith will be hearsay, will be second-hand evidence, and sometimes of little or no value.
+I will now deal with the individual items in dispute and I will use the appellant's affidavit as a guide.
+(1) Capital Cost Allowance. The amount claimed was $13,493; the amount allowed by the Minister was $686. During the hearing the agent introduced Exhibit A-4, which contained further information re new purchases of equipment in the amount of $11,261. This equipment was purchased in 1999. If we apply the 50 percent rule to this new equipment, the correct figure for additions to the class is $5,630. During the hearing the agent agreed that a Mercedes automobile, costing in excess of $32,000, was a luxury vehicle and he dropped the claim for capital cost allowance with respect to the Mercedes.
+After carefully considering the evidence of the agent I have concluded that the capital cost allowance claimed for 1999 should be as follows:
+The original amount of the claim is $31,171. This is the original amount of the capital cost available. We should add to that figure the amount of $5,630, being one half of the additions for 1999, which give the total of the capital cost allowance schedule of $36,701. The original claim for 1999 was $2,748.50. I am going to add a further figure of $7,240 to make it a total CCA available for the year 1999 of $10,008.
+(2) Re: Travel. Paragraph 20 of the affidavit, the appellant's agent said that he made an error when he prepared the tax return re travel when he claimed only $113.85. The appellant's agent now claims it should have been $860.41 and he filed Exhibit A-9 to prove this point. In making his calculations on A-9, the appellant's agent used a rate of 45.5 cents per kilometre. This is the 2006 rate, which he obtained from the Canada Revenue Agency. I believe it should be reduced to 35 cents per kilometre. As a result of using 35 cents per kilometre, using the numbers contained in the exhibit provided by the appellant's agent, I have concluded that the travel amount that should be allowed is $661 instead of $860.41. So the new amount is $661 re travel.
+Next category, Meals and Entertainment Re the Shows put on by North 40. The appellant claimed $350 when he filed his 1999 tax return. The Minister allowed zero. The appellant's agent claimed that this amount should be $12,015 and he filed Exhibit A-10 to establish his point. However, the appellant's claim was based upon $45 per day for meal allowances, which were the 2006 rates. In the 1999 return, and in evidence from the appellant's agent, the appellant admits that the claim for 1999 should be $33 per day for meal allowance not $45. If we use the appellant's figures of 18 days times 33 we get a figure of $594. We must then deduct 50 percent as the Act requires to give a figure of $297. There were three shows, we multiply the 297 by 3, which gives us a figure of $891 instead of the amount shown on exhibit A-10 of $12,015. So the new amount re meals and entertainment is $891 at the rate of $33 per day.
+Next item, Re: Meals as a Trucker. Exhibit R-1, the appellant's tax return shows that he appellant claimed $5,213 for meals. I am not convinced on the evidence that any further amount should be allowed in this category.
+Next item, Re: Office in the Home. The appellant claimed that $1,933 as the expense he thought he should deduct for 1999. Section 18(12) of the Income Tax Act prohibits a deduction of expenses re office in a home in a situation such as this where there is a loss created. I, therefore, have decided that no amount should be allowed in this category.
+Next item, Re: Interest. Paragraph 25, of the affidavit indicates that the appellant claimed $1,547 when he filed his tax return. The Minister allowed $1,006.37. This claim was with respect to the interest paid by the appellant on a loan of $21,000 obtained from the Community Futures Development Corporation. The agent for the appellant attached forms from Community Futures Development Corporation re interest shown on the affidavit. I have calculated the interest as charged to the appellant by Community Futures and I have concluded that the Minister was correct and the agent was incorrect in his calculations. The correct figure was $1,006.37 for 1999 and no adjustment should be made to this figure.
+The agent for the appellant also argued that there should be additional interest re the amounts that the appellant failed to claim for 1996, 1997 and 1998 (Refer to paragraph 27 of the affidavit). Those years are statute barred and the appellant cannot go back ten years to claim interest on a loan that was outstanding ten years ago. The Minister cannot be faulted for the errors and mistakes made by the appellant and his agent re unclaimed interest.
+Next item, Legal Fees. When he filed his tax return the appellant claimed legal fees of $275. The Minister allowed zero. The agent for the appellant indicated that the appellant paid legal fees or administrative fees equal to one percent of the loan. According to Exhibit 5 of the affidavit of the appellant, the loan balance in 1999 was at the beginning of 1999 $11,231.13. I will allow 1 percent of $11,231 or $112.
+Next item is insurance. The appellant claimed $436.89 which is 40 percent of $1,092.22. The Minister allowed 10 percent of this amount or 109.25. I will allow $436. That is the original amount that was claimed by the appellant.
+The appellant also claimed the expenses re a telephone. He claimed $907.74, which is 60 percent for business. The Minster allowed zero. I will allow 50 percent of $907.74 or $453.87.
+The agent for the appellant also referred to child tax credits and child tax benefits, which he says were delayed because of the appeal that was filed. The agent or the appellant should check with Canada Revenue Agency officials re these issues.
+Finally I wish to say that the appellant is fortunate that the Minister recognized that the appellant was carrying on the business in 1999. I say this for the following reasons:
+(1) the income received from North 40 was minimal, that is only $2,500 in the year, compared to expenses and equipment and automobiles approaching $200,000, and also compared to projected income for the business of $185,500 which was shown on Exhibit A-1, the document submitted to Community Futures. The projection there, as I say, was $185,500 for 1999 and the actual amount was apparently only $2,500.
+(2) I also note that the records were very poorly prepared; they were less than adequate. They were just a series of receipts with no explanation. For example reference was made to a CB radio. Exhibit 3 indicates that a CB radio was sold to Cascade Carriers, not the appellant, in July 30, 1999.
+Reference was also made to the appellant's wife, Heather, being a partner in North 40. However, all of the loss of North 40 was applied to the appellant and no portion of the loss was applied to Heather. To know the full answer, we should have seen Heather's tax return or heard from Heather. I also wish to note that Exhibit A-5 refers to the fact that Heather apparently had a capital cost allowance claim of $23,651.80 but there was no reference to which year this related to.
+Exhibit R-3 refers to the courier business apparently operated by Heather in Canmore from October to December 1999, but there was no reference to any income received or capital cost allowance allowed. This type of evidence raises questions: What was going on? Was any income reported? Were expenses okay? Evidence of this nature raises questions and creates problems but provides no answers. I again note that Brian and Heather were partners in North 40. The court should have information about the partnership. Without that information there are unanswered questions and points of concern.
+Finally if the appellant thinks he is entitled to additional losses he or his wife should have been in Court yesterday, and they should have maintained proper books and records. By not keeping proper records, they are the cause of their own problems. Mr. Ed Smith did the best he could under the circumstances but his hands were tied because of the poor and totally inadequate records and the absence of the appellant or his business partner, Heather Smith.
+The appeal will be allowed without costs and the Minster will make the adjustments I have referred to above. Thank you appeal allowed without costs.
+(PROCEEDINGS CONCLUDED)
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+S. Leeburn, COURT REPORTER
+CITATION:
+2006TCC516
+COURT FILE NO.:
+2004-452(IT)I,
+STYLE OF CAUSE:
+Bryan E. Smith and
+Her Majesty the Queen
+PLACE OF HEARING:
+Kamloops, B.C.
+DATE OF HEARING:
+April 19, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+April 19, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

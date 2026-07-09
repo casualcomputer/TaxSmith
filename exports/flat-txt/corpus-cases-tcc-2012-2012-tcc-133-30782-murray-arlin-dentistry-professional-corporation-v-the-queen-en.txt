@@ -1,0 +1,158 @@
+Title: Murray Arlin Dentistry Professional Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30782/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-133-30782-murray-arlin-dentistry-professional-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-04-24
+
+# Murray Arlin Dentistry Professional Corporation v. The Queen
+
+- Citation: 2012 TCC 133
+- Decision date: 2012-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7586, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murray Arlin Dentistry Professional Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-04-24
+Neutral citation
+2012 TCC 133
+File numbers
+2010-3646(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3646(IT)I
+BETWEEN:
+MURRAY ARLIN DENTISTRY
+PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 19, April 10 and 12, 2012
+at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agents for the Appellant:
+Julie Bond
+Mauricio Haliska
+Counsel for the Respondent:
+Christopher Bartlett
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2007 and 2008 taxation years is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 24th day of April 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 133
+Date: 20120424
+Docket: 2010-3646(IT)I
+BETWEEN:
+MURRAY ARLIN DENTISTRY
+PROFESSIONAL CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellant is a professional corporation that operates the dental practice of Dr. Murray Arlin, a periodontist who specializes in implants.
+[2] The appellant made claims under the Income Tax Act for investment tax credits in respect of scientific research expenditures in the amount of $103,950 for each of the 2007 and 2008 taxation years. Following an audit by the Canada Revenue Agency, the claims were disallowed.
+[3] The appeal has been instituted under the Court’s informal procedure even though the claims exceed the monetary limits for this procedure. The appellant has accordingly agreed to limit the relief to $12,000 per year, and to forego the balance of the $21,000 claims.
+[4] The appellant had three witnesses, Dr. Arlin, Julie Bond, a consultant who prepared the claims, and Alfred Kucharski, a scientific consultant who was retained to provide an expert opinion. The only witness for the respondent was Punita Aneja, a research and technology advisor for the CRA who reviewed the claims on audit.
+Background facts
+[5] Dr. Arlin, a periodontist, specializes in dental implants. He carries out approximately 1,000 implant surgeries each year.
+[6] In addition to seeing patients during regular work hours on Monday through Thursday, Dr. Arlin manages to be very active in professional development and marketing activities. For many years, he has been prolific in writing articles, lecturing and participating in study clubs. His curriculum vitae is impressive.
+[7] Fifteen years ago, Dr. Arlin purchased a computer software program called the Tritan Dental Implant Management System, which is designed to track the success rate of various types of dental implants. The program contains approximately 200 potential inputs for every implant. According to the testimony, Dr. Arlin uses about 50 of these. By offering patients free follow up examinations, Dr. Arlin is able to track the success rate of many implants for several years. Currently he has records for approximately 12,000 implants.
+[8] Dr. Arlin uses the software to compare the success rate of implants in different circumstances. Some of the variables relate to the patients’ circumstances (e.g. smokers versus non-smokers) and other variables relate to the characteristics of the implant device.
+[9] Dr. Arlin believes that by studying this data he can provide a useful addition to scientific knowledge. He expressed the view that studies done by manufacturers of implants are susceptible to bias. Although Dr. Arlin has accumulated a significant amount of data, he acknowledges that his studies would be more valuable if they included data from other practitioners.
+[10] The information that Dr. Arlin develops is useful to him in his practice, and it is also useful to other dentists through dissemination in publications and lectures.
+[11] For purposes of the claims for 2007 and 2008, Dr. Arlin estimated that he spent 350 hours per year on scientific research, which is slightly less than one day per week. The basis for the estimate is that Fridays were spent by Dr. Arlin on research when he does not see patients. Dr. Arlin testified that this estimate is conservative because he also works during evenings and weekends.
+[12] As mentioned earlier, claims were made for scientific research expenditures in the amounts of $103,950 for each year. This is comprised of (1) $70,000, which represents approximately one-fifth of Dr. Arlin’s salary, excluding bonus, (2) plus $45,000, which is a proxy amount determined under the legislation, and (3) less $11,500, representing government assistance.
+Position of appellant
+[13] The appellant submits the claims qualify as expenditures on applied research, which is included in clause (b) of the definition of “scientific research and experimental development” (SRED) in s. 248 of the Act.
+[14] The appellant also submits that to the extent that there is insufficient documentation to support the claims, leniency should be given because the appellant is a first time claimant.
+Position of respondent
+[15] The respondent submits that the research is not sufficiently documented to qualify as “systematic investigation” for purposes of the SRED definition. In particular, it is submitted that Dr. Arlin failed to develop specific hypotheses prior to the data collection. Reliance is placed on Northwest Hydraulic Consultants Limited v The Queen, 98 DTC 1839 (TCC).
+[16] It is also submitted that there is insufficient evidence of time spent by Dr. Arlin on research in the relevant years.
+Analysis
+[17] This appeal engages two elements of the SRED requirements: whether there was systematic investigation, and whether the allocation of Dr. Arlin’s time was reasonable.
+[18] A significant focus at the hearing was on the requirement of systematic investigation in the definition of SRED in s. 248(1) of the Act. The definition is reproduced below.
+248. (1) In this Act,
+[…]
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+(Emphasis added)
+[19] Northwest Hydraulic is the seminal judicial decision as to the meaning of “systematic investigation.” At paragraph 16, Chief Justice Bowman states:
+[16] Although I do not presume to have the technological expertise of the persons who assisted in the preparation of the circular, or the witnesses who appeared before me, including the highly qualified experts who appeared on behalf of the appellant and the respondent, I should like to set out briefly my own understanding of the approach to be taken:
+1. Is there a technical risk or uncertainty?
+(a) Implicit in the term "technical risk or uncertainty" in this context is the requirement that it be a type of uncertainty that cannot be removed by routine engineering or standard procedures. I am not talking about the fact that whenever a problem is identified there may be some doubt concerning the way in which it will be solved. If the resolution of the problem is reasonably predictable using standard procedure or routine engineering there is no technological uncertainty as used in this context.
+(b) What is "routine engineering"? It is this question, (as well as that relating to technological advancement) that appears to have divided the experts more than any other. Briefly it describes techniques, procedures and data that are generally accessible to competent professionals in the field.
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+It is important to recognize that although a technological uncertainty must be identified at the outset an integral part of SRED is the identification of new technological uncertainties as the research progresses and the use of the scientific method, including intuition, creativity and sometimes genius in uncovering, recognizing and resolving the new uncertainties.
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+(a) It is important to recognize that although the above methodology describes the essential aspects of SRED, intuitive creativity and even genius may play a crucial role in the process for the purposes of the definition of SRED. These elements must however operate within the total discipline of the scientific method.
+(b) What may appear routine and obvious after the event may not have been before the work was undertaken. What distinguishes routine activity from the methods required by the definition of SRED in section 2900 of the Regulations is not solely the adherence to systematic routines, but the adoption of the entire scientific method described above, with a view to removing a technological uncertainty through the formulation and testing of innovative and untested hypotheses.
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+(a) By general I mean something that is known to, or, at all events, available to persons knowledgeable in the field. I am not referring to a piece of knowledge that may be known to someone somewhere. The scientific community is large, and publishes in many languages. A technological advance in Canada does not cease to be one merely because there is a theoretical possibility that a researcher in, say, China, may have made the same advance but his or her work is not generally known.
+(b) The rejection after testing of an hypothesis is nonetheless an advance in that it eliminates one hitherto untested hypothesis. Much scientific research involves doing just that. The fact that the initial objective is not achieved invalidates neither the hypothesis formed nor the methods used. On the contrary it is possible that the very failure reinforces the measure of the technological uncertainty.
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self-evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+[20] It is the position of the respondent that there was insufficient evidence of systematic investigation because hypotheses were not determined prior to the data collection. This position is very narrow and I am reluctant to agree with it.
+[21] The main problem that I have with the appellant’s position is that there was very little detailed evidence regarding the analysis done in the years at issue and the time spent.
+[22] Dr. Arlin testified that he updated his research for all of his lectures. This testimony was very brief and it should have been possible to provide greater detail and documentary support. I would note that many of the lectures were not given to implant specialists and they had a marketing component.
+[23] Further, the evidence was far too vague to establish the time spent by Dr. Arlin on either analysis or data collection in the years at issue. It is quite possible that some applied research was undertaken, but the brief and vague evidence is not sufficient to justify any allocation of the appellant’s salary to this endeavour. I would also note that the Tritan program is designed to present comparative tables at the press of a button. The actual time spent on applied research potentially might be very small.
+[24] In order to support the appellant’s claims, the evidence as to actual research done, and the amount of time spent, would have to be much more detailed.
+[25] I would also comment briefly concerning the expert report of the appellant’s witness, Dr. Kucharski. The report discussed an article by the appellant that was published in the Journal of the Canadian Dental Association in November 2007. I tend to agree with Dr. Kucharski that SRED was undertaken in preparing this article. However, there was not sufficient evidence that the work was done in the years at issue.
+[26] Dr. Arlin testified that he could not remember when he prepared this article. The evidence as a whole is not sufficiently detailed to justify an SRED claim in 2007 or 2008 in relation to this article.
+[27] Finally, the appellant submits that there should be leniency with respect to documentation requirements because it has not filed SRED claims before. Even if I were to accept that some leniency is appropriate, lack of documentation is only one of the problems in this case. The evidence as a whole, oral and documentary, was not sufficient to justify the SRED claims.
+[28] The appeal will be dismissed.
+Signed at Toronto, Ontario this 24th day of April 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 133
+COURT FILE NO.: 2010-3646(IT)I
+STYLE OF CAUSE: MURRAY ARLIN DENTISTRY PROFESSIONAL CORPORATION v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATES OF HEARING: January 19, April 10 and 12, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: April 24, 2012
+APPEARANCES:
+Agents for the Appellant:
+Julie Bond
+Mauricio Haliska
+Counsel for the Respondent:
+Christopher Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

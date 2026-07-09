@@ -1,0 +1,303 @@
+---
+title: "Giannakouras c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25557/index.do"
+last_modified: "2005-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 225"
+citation2: ""
+neutral_citation: "2005 CCI 225"
+decision_date: "2005-03-29"
+language: "fr"
+item_id: "25557"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2459
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:04:44.901000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ddb05d38df519080b879c3ee899670c7f35a7616a69660a80d336270bd07bcaa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giannakouras c. La Reine
+
+- Citation: 2005 CCI 225
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2459, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giannakouras c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-29
+Référence neutre
+2005 CCI 225
+Numéro de dossier
+2003-1331(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-1331(IT)G
+ENTRE :
+NICHOLAS GIANNAKOURAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Requête relative aux dépens entendue le 4 février 2004, à Ottawa, Canada.
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Avocates de l'appelant :
+Me Susan Tataryn et
+Me Shelley J. Kamin
+Avocat de l'intimée :
+Me Michael Ezri
+____________________________________________________________________
+ORDONNANCE
+L'intimée est condamnée à payer à l'appelant des dépens de 5 000 $ sans délai, conformément aux motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005.
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI225
+Date : 20050329
+Dossier : 2003-1331(IT)G
+ENTRE :
+NICHOLAS GIANNAKOURAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Bell
+[1] Le 2 juillet 2003, l'intimée, représentée par Michael Ezri (« Me Ezri »), a déposé un avis de requête par lequel elle a demandé à la Cour ce qui suit :
+[TRADUCTION]
+1. Une ordonnance annulant l'appel de l'appelant, avec dépens;
+2. À titre subsidiaire, une ordonnance prorogeant le délai dans lequel l'intimée doit produire sa réponse à l'avis d'appel de l'appelant à 30 jours suivant la date où la Cour canadienne de l'impôt aura tranché la présente requête et prorogeant le délai pour signifier la réponse déposée à cinq jours suivant la date de son dépôt;
+3. Toute autre mesure de redressement que l'intimée pourra demander et que la Cour estimera juste.
+[2] Selon l'avis de requête, la requête se fondait sur les moyens suivants : l'appel a été déposé plus de 90 jours après l'avis de ratification relatif aux années d'imposition 1989, 1990, 1993 et 1994 de l'appelant et après l'avis de nouvelle cotisation faisant suite à l'avis d'opposition relatif à l'année d'imposition 1992.
+[3] L'intimée a joint à l'avis d'appel l'avis de requête en cause ainsi que le consentement écrit de l'appelant en ce qui concerne la prorogation du délai de production de la réponse. Le dossier de la requête comprenait les affidavits des personnes suivantes : Robert Meehan (« M. Meehan »), agent des appels à l'Agence des douanes et du revenu du Canada (« ADRC ») à Kingston (Ontario); Elainne Durant (« Mme Durant »), commis aux appels à l'ADRC à Belleville (Ontario); Chris O'Hara (« M. O'Hara »), agent des nouvelles cotisations à l'ADRC à Summerside (Île‑du‑Prince‑Édouard); Rhoda Waite (« Mme Waite »), commis à la production des avis à l'ADRC à Summerside (Île‑du‑Prince‑Édouard); Michael Case (« M. Case »), chef d'équipe à la section de la gestion du matériel de l'ADRC à Summerside (Île‑du‑Prince‑Édouard). Ces affidavits révèlent ce qui suit :
+1. Monsieur Meehan a parlé avec Paul Tierney (« M. Tierney »), expert‑comptable représentant l'appelant, et lui a envoyé une lettre mentionnant que l'examen de l'avis d'opposition de l'appelant était terminé et qu'il allait « traiter » ce document. Monsieur Meehan a affirmé qu'il n'avait reçu aucun autre renseignement ni aucune autre communication de M. Tierney.
+2. M. Meehan a ensuite explicité certaines procédures de l'ADRC.
+3. Le dernier paragraphe de son affidavit est ainsi rédigé :
+[TRADUCTION]
+Dans le cadre de mon emploi à l'ADRC, il est arrivé que du courrier envoyé par l'ADRC au sujet de dossiers dont je m'occupe ne soit pas livré. Habituellement, dans de tels cas, les lettres sont renvoyées au service du courrier de l'ADRC qui a expédié les documents et, de là, elles me sont retournées. On procède ainsi qu'il s'agisse de lettres expédiées par courrier ordinaire ou par courrier recommandé. En ce qui concerne l'appelant, je n'ai jamais reçu de lettres retournées ou ne pouvant être livrées qui auraient été envoyées à ce dernier ou à son représentant.
+4. Dans son affidavit, Mme Durant explique comment se fait l'envoi, des bureaux de Belleville à ceux de Terre‑Neuve, des documents devant être « traités » et comment ces documents lui sont retournés.
+5. L'affidavit de M. O'Hara fait mention du traitement de la nouvelle cotisation manuelle relative à l'année d'imposition 1992 de l'appelant.
+6. Dans son affidavit, Mme Waite décrit simplement les procédures qu'elle applique au centre fiscal de Summerside.
+7. L'affidavit de M. Case expose les procédures employées au centre fiscal de Summerside. Il comporte notamment les paragraphes suivants :
+[TRADUCTION]
+3. Lorsqu'elle reçoit du courrier devant être envoyé par courrier recommandé par l'ADRC, la Section prépare un document portant l'adresse de destination, la date de l'expédition ainsi que le numéro de recommandation permettant d'effectuer un suivi du courrier devant être expédié (le « document »).
+4. Un membre du personnel de la Section apporte ensuite le courrier recommandé au bureau de poste de Summerside où un membre du personnel de Postes Canada paraphe notre document afin d'accuser réception du courrier à expédier.
+5. L'ADRC a pour politique de conserver le document pendant un an. À la fin de cette période, le document est déchiqueté sur place.
+6. J'ai effectué une recherche des documents de l'ADRC. Les documents relatifs au courrier envoyé par courrier recommandé au cours du mois d'avril 2002 ont été détruits vers le 5 mai 2003.
+[4] Aucun des affidavits susmentionnés n'établit l'envoi d'un quelconque document pertinent à l'appelant.
+[5] Les [TRADUCTION] AFFIDAVITS DE L'APPELANT PRODUITS POUR CONTESTER LA REQUÊTE EN ANNULATION DE L'INTIMÉE ET ÉTAYER LA DEMANDE EN PROROGATION DU DÉLAI D'APPEL consistent en les affidavits de l'appelant et de Shelley Jean Kamin (« Me Kamin »). Selon son affidavit, l'appelant était le seul actionnaire et administrateur de Moroni's Restaurant (« Moroni's »), il a déposé des avis d'opposition visant les nouvelles cotisations relatives aux années d'imposition 1989, 1990, 1992, 1993 et 1994, et son expert‑comptable, M. Tierney, était [TRADUCTION] « en négociation avec l'agent des appels ». Certains paragraphes tirés de cet affidavit sont reproduits ci‑dessous :
+[TRADUCTION]
+18. Le courrier ordinaire en provenance de l'ADRC se trouvait toujours dans une enveloppe brune. Je recevais tellement d'états et de lettres de l'ADRC en 2001 et en 2002 que je n'arrivais pas à comprendre ce qui se passait. Ils m'enterraient sous des masses de documents. Je remettais le courrier ordinaire sans le lire à Mme Tierney, qui se chargeait de la paie à la quinzaine de la société, pour qu'elle‑même le remette à M. Tierney.
+19. À ma connaissance, aucun courrier recommandé ne m'a été envoyé par l'ADRC au cours de l'année civile 2002. Je n'ai reçu aucun courrier recommandé contenant des documents de l'ADRC, y compris les documents intitulés « Avis de ratification » ou T7WC datés du 18 avril 2002, lesquels me sont actuellement montrés et sont joints à mon affidavit à titre de pièces « C » et « D ».
+20. Je n'ai jamais dit à l'ADRC de ne communiquer qu'avec M. Tierney ou de ne correspondre qu'avec lui lorsque la décision relative à mon opposition serait prise.
+21. À une occasion, un agent de l'ADRC m'a téléphoné pour me poser des questions. Je lui ai demandé de communiquer avec M. Tierney. À ma connaissance, je n'ai reçu aucun autre appel de l'ADRC en ce qui a trait aux questions soulevées dans mes oppositions ou à la décision de l'ADRC confirmant l'opposition.
+[6] Dans son affidavit, l'appelant précise que c'est par un appel de l'agent des recouvrements de l'ADRC qu'il a été informé pour la première fois qu'une décision avait été prise quant à l'avis d'opposition. Il ajoute qu'il a ensuite appelé M. Tierney, mais qu'il n'a pas reçu de réponse. Il a donc retenu les services de Me Kamin à titre d'avocate pour interjeter appel de la nouvelle cotisation et pour [TRADUCTION] « prendre les mesures nécessaires pour poursuivre l'appel »[1]. L'appelant a en outre affirmé dans son affidavit que des documents obtenus par son avocate sous le régime de la Loi sur la protection des renseignements personnels, soit un « rapport sur une opposition » daté du 9 janvier 2002 et un autre document manuscrit daté du 4 janvier 2002, laissent entendre que des discussions en vue d'un règlement, dont il a été informé par M. Tierney en mars ou en avril 2002, ont en réalité eu lieu en décembre 2001 et
+[TRADUCTION]
+[...] se sont terminées en janvier 2002. Je n'avais jamais été informé que des discussions en vue d'un règlement s'étaient déroulées en décembre 2001.
+Il mentionne ensuite qu'il avait toujours eu l'intention d'interjeter appel des nouvelles cotisations parce que, selon lui, elles n'étaient pas fondées.
+[7] Dans son affidavit, Me Kamin déclare qu'elle est avocate et que l'appelant a retenu ses services le 11 décembre 2002 afin de déterminer où en étaient rendus les avis d'opposition produits par son expert‑comptable, M. Tierney. Elle ajoute avoir parlé à M. Meehan le 20 décembre 2002 pour lui faire savoir [TRADUCTION] « qu'il semblait que M. Giannakouras n'avait pas reçu la réponse du ministre aux avis d'opposition ».
+[8] Le paragraphe 7 de son affidavit est ainsi rédigé :
+[TRADUCTION]
+7. J'ai demandé à M. Meehan de vérifier s'il pouvait retrouver l'accusé de réception, par M. Giannakouras, de l'avis de ratification du ministre. J'ai signalé que, comme l'avis de ratification avait été envoyé par courrier recommandé, l'ADRC devrait être en mesure de vérifier auprès de Postes Canada s'il y a eu réception. Monsieur Meehan s'est d'abord montré réticent, mais je lui ai dit que s'il ne voulait ou ne pouvait pas faire cette vérification, M. Giannakouras ferait valoir devant la Cour de l'impôt que l'avis de ratification n'a pas été reçu. Je lui ai en outre dit qu'en revanche, si M. Giannakouras avait reçu l'avis de ratification, il faudrait présenter à la Cour de l'impôt une demande de production tardive de l'avis d'appel de M. Giannakouras, et que ce dernier serait tenu de présenter des motifs raisonnables à l'appui de l'appel.
+L'affidavit mentionne également ce qui suit :
+[TRADUCTION]
+Après discussion, M. Meehan a dit qu'il vérifierait auprès de Belleville
+pour voir si les documents relatifs aux envois par courrier recommandé faits par l'ADRC établissaient que l'avis de ratification et la nouvelle cotisation avaient été livrés à l'appelant. Dans son affidavit, Me Kamin précise ensuite que le 2 janvier 2003, M. Meehan a laissé un message selon lequel il avait parlé au superviseur à Belleville et qu'ils demandaient toujours à Terre‑Neuve de vérifier si du courrier avait été posté à l'appelant. Elle déclare ensuite que M. Meehan a laissé un message le 7 janvier 2003 voulant que Terre‑Neuve ne soit pas en mesure de prouver que l'avis de ratification et la nouvelle cotisation avaient été postés, ni que l'appelant les avait reçus.
+[9] Maître Kamin a affirmé qu'elle avait parlé au téléphone avec M. Meehan le 8 janvier 2003 et que ce dernier lui avait dit que Terre‑Neuve [TRADUCTION] « ne pouvait fournir le numéro de recommandation permettant de vérifier auprès de Postes Canada si les documents avaient été livrés ». L'affidavit mentionne que, le 9 janvier 2003, Me Kamin a reçu de l'ADRC, par courrier recommandé, une copie de l'avis de ratification daté du 18 avril 2002 et portant sur les années d'imposition 1989, 1990, 1993 et 1994 ainsi que d'autres documents. Elle a précisé que la lettre d'envoi à son intention était datée du 8 janvier 2003.
+[10] Me Kamin ajoute dans son affidavit que le 22 janvier 2003, elle a présenté des demandes pour le compte de l'appelant et de Moroni's[2] afin d'obtenir des renseignements et des documents sous le régime de la Loi sur la protection des renseignements personnels et de la Loi sur l'accès à l'information. Le paragraphe 20 de l'affidavit est ainsi rédigé :
+[TRADUCTION]
+20. Aucun des documents obtenus de l'ADRC sous le régime de la Loi sur la protection des renseignements personnels ou de toute autre source ne comprenait des copies d'une quelconque lettre portant une date adressée à M. Giannakouras et à laquelle aurait été annexé l'avis de ratification ou la nouvelle cotisation.
+[11] Le texte du paragraphe 22 de son affidavit est ainsi formulé :
+[TRADUCTION]
+22. J'ai déposé l'avis d'appel de M. Giannakouras auprès de la Cour de l'impôt le 7 avril 2003. Je n'ai pas présenté de demande de prorogation du délai applicable à la production de l'avis d'appel parce que M. Meehan avait affirmé que l'ADRC n'était pas en mesure de prouver que l'avis de ratification et la nouvelle cotisation avaient été postés. J'ai estimé, à la lumière de la jurisprudence pertinente, que comme le ministre ne pouvait établir l'envoi par la poste des documents, une demande de production tardive serait nulle et sans effet.
+[12] D'autres paragraphes de l'affidavit mentionnent ce qui suit :
+[TRADUCTION]
+34. Le 5 juin 2003, j'ai reçu une lettre de Michael Ezri, avocat de l'intimée, par laquelle il demandait la prorogation du délai applicable à la production d'une réponse à l'avis d'appel de M. Giannakouras. La lettre de Me Ezri expliquait notamment qu'il n'avait pas encore eu l'occasion d'examiner le dossier connexe visant Moroni's. Compte tenu des questions de fait et de droit communes soulevées par les appels de M. Giannakouras et de Moroni's, l'intimée souhaitait avoir l'occasion d'examiner l'appel de Moroni's avant de produire sa réponse à l'avis d'appel de M. Giannakouras. Une copie de la lettre de Me Ezri est jointe au présent affidavit comme pièce « Q ».
+35. Était également joint à la lettre de Me Ezri un projet de document constatant le consentement de M. Giannakouras (le « consentement ») à la prorogation au 29 juillet 2003 du délai applicable à la production de la réponse de l'intimée à l'avis d'appel de M. Giannakouras.
+36. J'ai téléphoné à Me Ezri le 5 juin 2003. Je lui ai dit que d'ordinaire, je consens aux demandes des avocats de l'intimée visant à obtenir une prorogation du délai dans lequel ils doivent produire une réponse. Cependant, en l'espèce, j'étais réticente à consentir à la demande de Me Ezri à moins qu'il ne m'assure que l'intimée ne contesterait pas la production de l'avis d'appel de M. Giannakouras. Maître Ezri m'a répondu qu'il ne pouvait me donner une telle garantie à ce moment. Il a précisé qu'il en était toujours à vérifier si l'avis de ratification et la nouvelle cotisation avaient été postés. J'ai informé Me Ezri que M. Meehan avait déjà vérifié ce point et qu'il m'avait dit que l'ADRC n'était pas en mesure de vérifier si l'avis de ratification et la nouvelle cotisation avaient été postés. Maître Ezri a répondu qu'il examinait toujours la question.
+37. Maître Ezri a également affirmé que, si le consentement était signé, il déposerait la réponse à l'avis d'appel de M. Giannakouras avant l'expiration du délai dans lequel ce dernier pouvait présenter à la Cour une demande de prorogation du délai applicable à la production de l'avis d'appel, s'il y avait lieu.
+38. J'ai par la suite téléphoné à Me Ezri et j'ai laissé un message dans sa messagerie vocale. Je lui ai expliqué qu'il était nécessaire que je reçoive la réponse à temps pour produire une demande de prorogation du délai applicable à la production de l'avis d'appel de M. Giannakouras, s'il y avait lieu. Le consentement à la demande de prorogation du délai de production de la réponse de l'intimée à l'avis d'appel de M. Giannakouras n'aurait donc effet que jusqu'au 4 juillet 2003. J'ai invité Me Ezri à m'appeler si cette nouvelle date ne lui convenait pas.
+39. J'ai modifié le consentement envoyé par Me Ezri et j'ai remplacé la date de production de la réponse qui y était précisée, soit le 29 juillet 2003, par la date du 4 juillet 2003. J'ai signé le consentement et je l'ai envoyé par télécopieur à Me Ezri tard dans la journée du 5 juin 2003. Des copies du consentement et de la feuille d'envoi par télécopieur sont jointes au présent affidavit comme annexe « R ».
+40. Le 6 juin 2003, Me Ezri a laissé un message dans ma messagerie vocale. Il mentionnait avoir reçu le consentement de même que mon message. Il a affirmé qu'il comprenait les raisons pour lesquelles la date précisée sur le consentement avait été remplacée par la date du 4 juillet et qu'il acceptait ce changement.
+[...]
+42. Je n'ai reçu aucune autre communication de Me Ezri avant le 2 juillet 2003. À cette date, j'ai reçu par messager les deux avis de requête que l'intimée avait déposés à la Cour de l'impôt afin d'annuler les appels de M. Giannakouras et de Moroni's.
+[13] Le 25 juillet 2003, l'intimée a déposé devant la Cour un avis de requête afin d'obtenir une ordonnance :
+[TRADUCTION]
+(1) autorisant l'intimée à interroger sous serment ou affirmation solennelle M. W. Paul Tierney, avant l'audition des requêtes en annulation présentées par l'intimée relativement à ces deux appels, en vue d'obtenir le témoignage de cette personne de sorte qu'il soit possible de le produire en preuve à l'audition de ces deux requêtes;
+(2) obligeant M. Tierney à produire, pendant son interrogatoire, la totalité de son dossier concernant les oppositions des deux contribuables, notamment toutes les factures et tous les états de compte établis par M. Tierney ou son cabinet, le plan d'entreprise, les documents relatifs aux prêts ainsi que les autres documents connexes mentionnés au paragraphe 22 de l'affidavit de M. Giannakouras, de même que tous les documents émanant de l'ADRC qui ont été envoyés à M. Tierney ou à M. Giannakouras et qui ont été remis à M. Tierney;
+(3) permettant à l'intimée de traiter M. Tierney comme un témoin ayant un intérêt opposé à celui de l'intimée et de poser des questions suggestives pendant son interrogatoire;
+(4) voulant que toute question posée à M. Tierney et visée par une objection fasse l'objet d'une réponse et que toute pièce visée par une objection soit marquée, selon le cas, et qu'il relève du juge qui entend les requêtes en annulation de statuer sur l'admissibilité de cette réponse ou de cette pièce;
+(5) accordant les dépens liés à la présente requête;
+(6) accordant les autres mesures de redressement que l'intimée pourra demander et que la Cour estimera justes.
+Les motifs à l'appui de la requête sont les suivants :
+1. M. W. Paul Tierney était l'expert-comptable des appelants et il agissait comme leur représentant en ce qui touche les oppositions qu'ils ont déposées auprès de l'Agence des douanes et du revenu du Canada pour les années d'imposition visées par l'appel dans ces deux affaires. L'ADRC a des raisons de croire qu'elle a envoyé des documents, notamment des avis de ratification et des avis de nouvelle cotisation, aux appelants et à M. Tierney. L'appelant, Nicholas Giannakouras, nie avoir reçu une grande partie de ces documents et allègue que ceux‑ci n'ont donc pas été envoyés. L'intimée croit donc que M. Tierney pourrait rendre un témoignage pertinent sur ces questions.
+2. Monsieur Tierney a refusé de coopérer avec l'une ou l'autre des parties au présent appel. Il n'a signé aucun affidavit en ce qui concerne les requêtes en annulation et il a expressément refusé de fournir des renseignements à l'intimée au sujet de ces requêtes.
+3. Selon le témoignage que rendrait M. Tierney, l'intimée pourrait examiner à nouveau la nécessité de donner suite aux requêtes en annulation qui ont été déposées dans le cadre de l'appel de M. Giannakouras à la Cour. Cela permettrait à toutes les parties de gagner du temps et de l'argent puisqu'elles n'auraient pas à contre‑interroger les autres personnes ayant déposé des affidavits dans le cadre des requêtes en annulation. Cela pourrait également permettre aux parties et à la Cour de gagner du temps et de l'argent s'il n'est plus nécessaire de procéder à l'audition de la requête en annulation de l'appel de M. Giannakouras.
+[14] Dans un document intitulé [TRADUCTION] « OBSERVATIONS ÉCRITES DE L'INTIMÉE », Me Ezri fait état de la réticence de M. Tierney à fournir des renseignements en les termes suivants :
+[TRADUCTION]
+M. Tierney détient des éléments de preuve pertinents en ce qui a trait aux requêtes en annulation.
+Il ajoute :
+[TRADUCTION]
+M. Tierney est vraisemblablement la personne la mieux placée pour témoigner au sujet des discussions qu'il a eues, le cas échéant, avec M. Giannakouras en ce qui concerne les oppositions et les renseignements qu'il a donnés à M. Giannakouras quant à l'évolution et à la résolution de ces oppositions.
+Il ajoute ensuite que l'article 119 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») permet à la Cour d'accorder l'autorisation d'interroger une personne avant l'audience :
+[TRADUCTION]
+Même si les facteurs énumérés que la Cour doit prendre en considération pour accorder ou non l'autorisation ne s'appliquent pas en l'espèce, il faut interpréter cette disposition des Règles de façon libérale, et l'alinéa 119(2)f) prévoit que la Cour doit prendre en considération « […] les autres questions pertinentes » pour décider s'il y a lieu d'accorder l'autorisation. Dans la présente affaire, les autres questions pertinentes qui militent en faveur du prononcé de l'autorisation sont les suivantes :
+a) M. Tierney n'a pas coopéré avec les parties aux requêtes en annulation;
+b) Selon le témoignage que rendrait M. Tierney, l'interrogatoire de ce dernier avant l'audition des requêtes en annulation et avant le contre‑interrogatoire des auteurs d'affidavits dans le cadre de ces requêtes pourrait permettre aux parties à la présente instance d'économiser le temps et l'argent nécessaires aux contre‑interrogatoires et à l'audition de ce qui pourrait se révéler être une requête longue et complexe;
+c) Le témoignage de M. Tierney est éminemment pertinent pour trancher les questions de fait en litige. Son témoignage pourrait permettre d'établir non seulement que l'ADRC a envoyé les avis, mais également que lui, M. Giannakouras ou les deux les ont reçus.
+[15] Dans les [TRADUCTION] « OBSERVATIONS RELATIVES AUX DÉPENS » qu'il a formulées par écrit, l'avocat de l'intimée a soutenu que la requête était présentée pour obliger M. Tierney à témoigner
+[TRADUCTION]
+[…] en raison de son manque de coopération [...] L'intimée croyait que cette requête pouvait permettre d'abréger la durée de l'instance en rendant inutile le contre‑interrogatoire de M. Giannakouras sur les raisons pour lesquelles il a tardé à produire son appel.
+[16] L'avocat a affirmé ce qui suit :
+[TRADUCTION]
+Les parties ont changé leur thèse en raison de la présente requête. Monsieur Giannakouras a abandonné son allégation voulant que le ministre ait manqué à son obligation prévue par la loi d'envoyer les avis de nouvelle cotisation et de ratification, et a consenti à ce qu'il soit mis fin à son appel.
+[17] À l'affidavit de Shelley Merrifield, adjointe juridique au ministère de la Justice, est jointe une copie d'une lettre datée du 23 juillet 2003 que M. Tierney a adressée à Me Ezri. Ce document est ainsi rédigé :
+[TRADUCTION]
+J'ai parlé à mon conseiller juridique et il m'a conseillé de ne pas vous fournir de renseignements au sujet des oppositions de M. Giannakouras.
+Cependant, veuillez noter que tous les renseignements dont je dispose à cet égard ont été fournis à l'avocate de M. Giannakouras, Me Susan Tataryn, avec qui vous avez déjà correspondu.
+Par conséquent, je vous suggère de communiquer avec elle afin d'obtenir les renseignements pertinents en l'espèce.
+[18] Le 23 janvier 2004, le juge en chef adjoint Bowman a prononcé une ordonnance modifiée prévoyant ce qui suit :
+[TRADUCTION]
+ORDONNANCE MODIFIÉE
+Vu le consentement au prononcé d'une ordonnance statuant sur chacune des demandes suivantes : (i) la requête en annulation déposée par l'intimée le 2 juillet 2003; (ii) la demande de prorogation de délai produite par l'appelant le 15 juillet 2003; (iii) la requête, déposée le 25 juillet 2003, visant à contraindre M. W. Paul Tierney à se présenter à un interrogatoire avant l'audience;
+La Cour ordonne :
+1) Que la requête en annulation de l'intimée soit accueillie en partie et que l'appel introduit le 7 avril 2003 par l'appelant relativement à ses années d'imposition 1989, 1990, 1992, 1993 et 1994 soit annulé;
+2) Que la demande de l'appelant visant à obtenir une prorogation du délai applicable à l'introduction d'un appel soit accueillie et que le délai dans lequel l'appelant doit déposer un avis d'appel relatif à ses années d'imposition 1989, 1990, 1992, 1993 et 1994 soit prorogé jusqu'à la date de l'ordonnance à laquelle il a été consenti en l'espèce;
+3) Que la requête de l'intimée visant à contraindre M. W. Paul Tierney à se présenter à un interrogatoire avant l'audience soit rejetée;
+4) Que la question des dépens liés à chacune des requêtes et à la demande susmentionnées soit tranchée par le juge de la Cour canadienne de l'impôt saisi de la requête présentée dans l'affaire Moroni's Restaurant Inc. et Sa Majesté la Reine, 2003‑1915(IT)G.
+[19] C'est en application de cette ordonnance que je dois, après avoir entendu la requête de Moroni's, me prononcer sur l'adjudication des dépens payables relativement aux questions concernant l'appelant et auxquelles on renvoie dans l'ordonnance modifiée susmentionnée.
+OBSERVATIONS DE L'APPELANT RELATIVES AUX DÉPENS
+[20] L'avocate de l'appelant a écrit ce qui suit :
+[TRADUCTION]
+L'intimée a eu recours à des démarches inutiles, longues et coûteuses qui ont occasionné aux appelants des frais juridiques importants avant même que leurs appels ne soient introduits. Cela aura pour effet de compromettre la capacité des appelants de poursuivre efficacement leur appels, en particulier si l'intimée continue sur sa lancée.
+Elle affirme ensuite que l'intimée a déposé deux requêtes, la première pour obtenir l'annulation de l'avis d'appel et la seconde afin d'interroger M. Tierney. Elle ajoute que la première requête a contraint l'appelant à présenter une demande de prorogation du délai applicable à la production de son avis d'appel.
+[21] L'avocate mentionne que Me Kamin a demandé à l'ADRC de fournir une preuve montrant que les documents ont été postés et qu'elle a été informée de l'absence d'éléments prouvant cet envoi. Elle avance ensuite :
+[TRADUCTION]
+6. La requête en annulation de l'appel de M. Giannakouras était étayée par cinq affidavits distincts de même que par un affidavit supplémentaire, pour un total de 69 pages avec les pièces. Ces affidavits laissent entendre que, si elle avait cherché des éléments de preuve établissant l'envoi avant la production de l'avis d'appel en avril 2003, l'intimée en aurait trouvés. Les affidavits omettent certains renseignements fondamentaux, à savoir que l'ARC a bel et bien tenté d'obtenir une preuve de l'envoi avant la production de l'avis d'appel, mais en vain.
+L'avocate ajoute :
+[TRADUCTION]
+7. En ce qui concerne la requête visant l'interrogatoire, elle était étayée par près de 100 pages de documents, dont la plupart consistaient en des extraits tirés des Règles de procédure civile de la Cour supérieure de justice de l'Ontario et de la jurisprudence connexe.
+Deux autres paragraphes sont ainsi rédigés :
+[TRADUCTION]
+8. L'avocate de l'appelant devait minutieusement examiner les documents déposés par l'intimée au soutien de sa requête. L'appelant devait produire des affidavits en réponse à la requête en annulation de l'appel de M. Giannakouras. L'avocat de l'intimée a informé l'avocate de l'appelant à deux occasions qu'il allait demander que soit fixée la date de l'audition de la requête visant l'interrogatoire, et il a donné suite en écrivant deux fois à la Cour, soit le 25 juillet 2003 et le 3 novembre 2003, pour demander qu'une telle date lui soit communiquée. L'avocate de l'appelant a donc dû se préparer en vue de l'audition de cette requête.
+9. En définitive, la requête en annulation de l'appel de M. Giannakouras et la requête visant l'interrogatoire ont été réglées de la façon proposée par le juge en chef adjoint dans le cadre de l'instance du 31 juillet [...]
+[22] L'avocate a alors soutenu que l'intimée devait assumer le fardeau financier lié à ses requêtes en faisant valoir que les parties sont maintenant dans la même situation que celle où elles se trouvaient avant que l'intimée ne dépose sa requête, sauf que les appelants ont dû dépenser des sommes appréciables. Contrairement à ce qu'affirme Me Ezri, l'avocate de l'appelant avance qu'en l'espèce, M. Giannakouras a obtenu gain de cause puisque son avis d'appel a été accepté. Elle a ensuite mentionné que Me Kamin avait dû retenir les services de Me Tataryn pour débattre des requêtes parce que Me Kamin, ayant produit son propre affidavit dans cette affaire, avait été dans l'impossibilité de représenter l'appelant devant la Cour. Elle a en outre allégué que la requête visant l'interrogatoire était frivole et vexatoire parce que les règles en matière de procédure générale n'offrent aucun fondement pour une demande de cette nature.
+[23] L'avocate a ensuite demandé que les dépens soient adjugés à l'appelant sur la base procureur‑client en ce qui touche la requête en annulation, la requête visant l'interrogatoire et la demande de prorogation du délai applicable à la production de l'avis d'appel, plus les débours et la TPS. À titre subsidiaire, elle a demandé la somme fixe de 15 000 $, laquelle constitue :
+[TRADUCTION]
+[…] une estimation modeste des dépens procureur‑client, des débours et de la TPS.
+ANALYSE ET CONCLUSION
+[24] Dans son affidavit, Me Kamin a déclaré qu'elle avait signé le consentement, après avoir modifié la date de production de la réponse, et qu'elle avait envoyé le document par télécopieur à Me Ezri le 5 juin 2003. Elle ajoute que Me Ezri a laissé un message dans sa messagerie vocale le 6 juin 2003 pour l'informer qu'il comprenait les raisons pour lesquelles elle avait changé la date et qu'il était d'accord. Elle précise n'avoir reçu aucune autre communication de Me Ezri jusqu'au 2 juillet 2003, date où elle a reçu, par messager, un avis de requête que l'intimée avait déposé afin de faire annuler l'appel de l'appelant. Cette situation semble être la conséquence naturelle du processus de communication défectueux entre les avocats. Aucun des éléments produits ne permet de croire que les avocats ont envisagé de se rencontrer pour se pencher ensemble sur tous les aspects de la situation entourant l'opportunité du dépôt de l'avis d'appel et la validité de celui‑ci.
+[25] Comme il est mentionné plus haut, le juge en chef adjoint Bowman a signé une ordonnance le 15 décembre 2003, laquelle a été déposée à la Cour le lendemain. Cette ordonnance porte :
+[TRADUCTION]
+ORDONNANCE
+Vu le consentement au prononcé d'une ordonnance produit en l'espèce;
+La Cour ordonne que les parties consentent au prononcé d'une ordonnance statuant, conformément aux modalités prévues par le consentement au prononcé d'une ordonnance, sur chacune des demandes suivantes : (i) la requête en annulation déposée par l'intimée le 2 juillet 2003; (ii) la demande de prorogation de délai produite par l'appelant le 15 juillet 2003; (iii) la requête visant à contraindre M. W. Paul Tierney à se présenter à un interrogatoire avant l'audience déposée le 25 juillet 2003.
+[26] Selon ce consentement, lequel est joint à l'ordonnance susmentionnée, la requête par laquelle l'intimée demande d'annulation de l'appel visant les années d'imposition 1989, 1990, 1992, 1993 et 1994 est accueillie et la demande de prorogation du délai applicable à la production d'un appel présentée par l'appelant est accueillie en date du prononcé de l'ordonnance. Le consentement prévoyait en outre le rejet de la requête visant à contraindre M. Tierney à subir un interrogatoire avant l'audience. Un grand nombre de personnes ont passé du temps à préparer les démarches relatives à ces requêtes. Celles‑ci ont en outre nécessité beaucoup de recherches, l'établissement de rapports considérables et la production d'une grande quantité de documents. Mais à quelle fin?
+[27] Les documents montrent que, selon l'appelant, aucun avis de ratification n'a été reçu et que, selon le témoignage mordant de M. Case, il ne pouvait être établi qu'un avis de ratification avait été envoyé. Il convient de signaler que, même si l'envoi d'un avis de ratification avait été établi par l'intimée dans le délai visé, l'appelant avait toujours la possibilité de présenter une demande de prorogation du délai applicable à la production d'un avis d'appel. La demande aurait alors été entendue et aurait bien pu être accueillie. L'intimée ne paraît pas avoir tenu compte de cette situation lorsqu'elle a décidé d'introduire la requête en annulation. Si l'intimée a tenu compte de cette situation, il faudrait conclure que l'intimée tenait sans démordre à empêcher l'appelant de poursuivre son appel.
+[28] L'avocat de l'intimée affirme ce qui suit dans l'introduction de ses observations relatives aux dépens :
+[TRADUCTION]
+Comme la requête de M. Giannakouras a été réglée sur consentement, il ne devrait y avoir aucune adjudication des dépens à ce titre.
+Cette assertion est vide de sens puisque M. Giannakouras consentait au règlement de sa propre requête. Même s'il a été fait droit à la requête en annulation, la demande de prorogation du délai de production d'un avis d'appel de l'appelant a été accueillie par la même ordonnance. Cette issue était exactement celle que souhaitait l'appelant; il ne voulait rien de plus.
+[29] En outre, les Règles ont été élaborées pour permettre à un contribuable d'introduire un appel devant la Cour et de poursuivre cet appel. Selon l'interprétation de l'intimée, ces règles auraient pour effet de jeter les bases permettant de faire échec à cet objectif.
+[30] L'intimée doit avoir passé un temps excessivement long à préparer les nombreux documents et rien ne donne à penser qu'une quelconque tentative a été faite par les avocats pour se rencontrer en vue d'essayer de régler cette simple affaire.
+[31] La communication entre les avocats était littéralement absente dans la présente affaire. Une série d'actes unilatéraux, dans le cadre desquels on fait usage de lettres, de télécopies et de notes de service, ne peut être assimilée à la communication. Il y a communication lorsqu'une conversation personnelle concrète visant à trouver une solution raisonnable à un litige a lieu. Vouloir que l'objet visé par un appel soit déclaré fondé est un objectif valable qui, à moins qu'il n'existe des facteurs défavorables manifestes, devrait être respecté tant par l'intimée que par l'appelant.
+[32] Quant à M. Tierney, l'avocat de l'intimée a reconnu que cinq des six facteurs dont la Cour doit tenir compte lorsqu'elle exerce son pouvoir discrétionnaire d'ordonner ou non la tenue d'un interrogatoire de ce genre ne s'appliquent pas en l'espèce. L'article 119 des Règles est ainsi rédigé :
+119.(1) La partie qui se propose d'utiliser la déposition d'une personne à l'audience peut, avec l'autorisation de la Cour ou le consentement des parties, interroger cette personne sous serment ou affirmation solennelle avant l'audience afin que son témoignage puisse y être présenté.
+(2) Dans l'exercice du pouvoir discrétionnaire conféré par le paragraphe (1), la Cour prend en considération les éléments suivants :
+a) la facilité pour la personne qui doit être interrogée de se conformer à la directive;
+b) l'éventualité qu'elle soit empêchée de témoigner à l'audience pour cause d'infirmité, de maladie ou de décès;
+c) la possibilité qu'elle se trouve hors du ressort de la Cour au moment de l'audience;
+d) les dépenses que peut entraîner son déplacement pour témoigner à l'audience;
+e) la nécessité qu'elle vienne témoigner en personne;
+f) les autres questions pertinentes.
+(3) Sauf directive contraire de la Cour, la partie qui désire obtenir, par voie de requête, l'autorisation d'interroger un expert en application du paragraphe (1) signifie aux autres parties, avant de présenter sa requête, le rapport de l'expert visé au paragraphe 145(2).
+Il ressort de l'examen du libellé des alinéas a) à e) que l'alinéa conjonctif f) ne peut être interprété comme s'il s'agissait d'un facteur « autonome » sans aucun lien avec les alinéas précédents. En réalité, cet alinéa emploie le terme « pertinentes » pour qualifier les autres questions. De toute évidence, ces facteurs intéressent pour l'essentiel la facilité pour le témoin de se conformer à la directive, le décès, l'état de santé, la possibilité que le témoin se trouve hors du ressort de la Cour, les dépenses et la question de savoir s'il est nécessaire que le témoin vienne témoigner en personne à l'audience.
+[33] La présentation d'une telle requête relevait d'une stratégie tactique offensive, totalement incompatible avec la manifestation d'un quelconque degré de coopération visant à résoudre un problème qui aurait dû être réglé bien avant d'en arriver au stade atteint en l'espèce. La requête paraît avoir été produite après que les fonctionnaires de l'ADRC ont échoué dans leur tentative d'établir que l'avis de ratification avait effectivement été posté à l'appelant. L'incapacité de l'ADRC de prouver que cet avis a bel et bien été envoyé a été établie avant le 5 mai 2003 par l'affidavit de M. Case, lequel mentionne notamment :
+[TRADUCTION]
+5. L'ADRC a pour politique de conserver le document pendant un an. À la fin de cette période, le document est déchiqueté sur place.
+6. J'ai effectué une recherche des documents de l'ADRC. Les documents relatifs au courrier envoyé par courrier recommandé au cours du mois d'avril 2002 ont été détruits vers le 5 mai 2003.
+Cet affidavit était daté du 17 juin 2003. Le 25 juillet 2003, soit quarante‑neuf jours plus tard, l'appelant présentait la requête visant à obtenir l'autorisation d'interroger M. Tierney au sujet de la réception de l'avis de ratification.
+[34] En ce qui concerne tant la présente affaire que l'appel interjeté par Moroni's Restaurant Inc., société appartenant à l'appelant, dans le cadre duquel l'intimée a introduit la requête en annulation de l'appel, l'avocate a soutenu ce qui suit :
+[TRADUCTION]
+[…] les appelants avaient été contraints d'assumer des frais importants pour répondre à plusieurs démarches qui auraient été inutiles si le ministre avait pris des mesures conformes à l'esprit et à la lettre de la loi.
+Elle a affirmé que, comme Me Kamin avait été obligée de signer un affidavit et de devenir témoin dans le cadre de l'instance, on avait dû retenir de Me Tataryn pour débattre de ces requêtes pour le compte des deux appelants. L'avocate a demandé à la Cour de prononcer une ordonnance adjugeant les dépens à l'appelant sur la base procureur‑client en ce qui a trait à la requête en annulation, à la requête visant l'interrogatoire et à la demande de prorogation du délai applicable à la production de son avis d'appel, ainsi que les débours et la TPS. À titre subsidiaire, elle a demandé à la Cour de rendre une ordonnance fixant les dépens à une somme globale de 15 000 $, laquelle constitue, selon elle, [TRADUCTION] « une estimation modeste des dépens procureur‑client, des débours et de la TPS ».
+[35] Selon l'avocat de l'intimée, les plaintes de l'appelant relatives à la façon dont l'intimée a poursuivi la requête en annulation et la requête visant l'interrogatoire sont « dénuées de fondement ». Il avance :
+[TRADUCTION]
+[…] Le ministre a dû consacrer du temps et engager des frais pour obtenir six affidavits afin de prouver l'envoi des documents pertinents; une fois cela accompli, le ministre avait tant le droit que l'obligation de contester la validité de l'appel de M. Giannakouras puisque cet appel était invalide et que la Cour canadienne de l'impôt n'avait pas compétence pour l'instruire tel qu'il a été produit;
+J'interprète l'assertion qui précède comme si elle signifiait que ce qui a été « accompli », c'est l'obtention des six affidavits, parce qu'il ne fait aucun doute que la preuve de l'envoi par la poste des documents pertinents, elle, n'a pas été faite. L'assertion de l'avocat ne fait nullement allusion à un éventuel examen de la possibilité de proroger le délai applicable à la production d'un appel, mais elle fait état de l'« obligation » de poursuivre un seul et unique objectif : annuler l'appel.
+[36] En réalité, même une fois établie l'incapacité de l'intimée à prouver l'envoi, Me Ezri a refusé de coopérer et de mettre fin à sa mission d'annulation. Revenons à la description faite par Me Kamin au paragraphe 36 de son affidavit, reproduit plus haut, où elle affirme :
+[TRADUCTION]
+J'ai informé Me Ezri que M. Meehan avait déjà vérifié ce point et qu'il m'avait dit que l'ADRC n'était pas en mesure de vérifier si l'avis de ratification et la nouvelle cotisation avaient été postés. Maître Ezri a répondu qu'il examinait toujours la question.
+[Je souligne.]
+[37] Sans entrer dans tous les détails des disputes pseudo‑juridiques qui ont eu lieu, il ne fait aucun doute dans mon esprit que les avocats n'ont en aucun temps manifesté une quelconque intention de coopérer et qu'ils étaient tous deux plutôt à la poursuite d'une victoire dans une affaire qui, comme il est mentionné plus haut, aurait dû être réglée par la communication. Tout bien pesé, au moment d'introduire la requête en annulation de l'avis d'appel, on aurait pu envisager que la demande de prorogation du délai applicable à la production d'un avis d'appel soit accueillie. Cette affaire aurait dû faire l'objet d'un règlement. En effet, il est répréhensible pour une partie de s'appuyer sur des dispositions techniques pour obtenir gain de cause dans ce qui paraît avoir été un combat personnel et non une tentative honnête de résoudre une question qui ne soulevait aucune difficulté particulière. Comme il a été signalé, la requête visant l'interrogatoire a été présentée quelque quarante‑neuf jours après la signature de l'affidavit de M. Case montrant qu'il n'existait aucun document établissant l'envoi de l'avis, et cela malgré le consentement de l'appelant à proroger le délai dans lequel l'intimée devait produire une réponse à l'avis d'appel. Cela montre bien le manque d'intérêt à coopérer par la communication afin de régler cette affaire. C'est presque comme si on avait voulu créer des difficultés.
+[38] L'avocat de l'intimée soutient en outre ce qui suit :
+[TRADUCTION]
+L'intimée a présenté sa requête visant à obliger M. Tierney à témoigner à la suite du manque de coopération de ce dernier, et cela malgré les rapports professionnels continus qu'il entretenait avec l'appelant. L'intimée croyait que cette requête pouvait permettre d'abréger la durée de l'instance en rendant inutile le contre‑interrogatoire de M. Giannakouras sur les raisons pour lesquelles il avait tardé à produire son appel;
+Cette assertion ne fait que souligner ce que j'ai affirmé plus haut.
+[39] Je renvoie brièvement à l'article 147 des Règles. Cette disposition prévoit que la Cour, dans l'exercice de son pouvoir discrétionnaire en matière de fixation des dépens, peut tenir compte de la conduite d'une partie qui aurait abrégé ou prolongé inutilement la durée de l'instance. Les requêtes et les actes de l'intimée ont assurément prolongé la durée de l'instance en l'espèce.
+[40] Bien que l'intimée ait fait du zèle, l'adjudication de dépens sur la base procureur‑client n'est pas justifiée. Je suis arrivé à la conclusion que, comme le déclarait le juge McLachlin, tel était alors son titre, dans l'arrêt Young c. Young, [1993] 4 R.C.S. 3, à la page 17, l'intimée n'a pas fait preuve d'une « conduite répréhensible, scandaleuse ou outrageante » dans la présente affaire.
+[41] L'introduction de requêtes qui non seulement font obstacle au déroulement de l'appel, mais font en outre augmenter inutilement les frais liés au litige ne peut être considérée légitime dans les situations comme celle dont je suis saisi. Il paraît évident que les avocats des deux parties avaient choisi de ne pas coopérer et de ne pas communiquer ensemble. Malgré les raisons avancées par Me Kamin pour ne pas produire la demande de prorogation de délai, l'appelant aurait pu déposer une telle demande avant que la requête en annulation ne soit produite. Cependant, les mesures offensives prises par l'intimée, laquelle a présenté deux requêtes dans une affaire où il était simplement question, pour l'essentiel, d'une demande de prorogation du délai applicable à la production d'un avis d'appel, étaient
+injustifiées. Par conséquent, je condamne l'intimée à payer sans délai à l'appelant des dépens de 5 000 $.
+Signé à Ottawa, Canada, ce 30e jour de mars 2005
+« R. D. Bell »
+Juge Bell
+Traduction certifiée conforme
+ce 19e jour de janvier 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI225
+NO DU DOSSIER DE LA COUR : 2003-1331(IT)G
+INTITULÉ DE LA CAUSE : Nicholas Giannakouras c. La Reine
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L'AUDIENCE : Le 4 février 2004
+ORDONNANCE ET MOTIFS
+DE L'ORDONNANCE PAR : L'honorable R.D. Bell
+DATE DU JUGEMENT : Le 30 mars 2005
+COMPARUTIONS :
+Avocates de l'appelant :
+Me Susan Tataryn et
+Me Shelley J. Kamin
+Avocat de l'intimée :
+Me Michael Ezri
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelant :
+Nom : Me Susan Tataryn et Me Shelley J. Kamin
+Cabinet : Rasmussen Star Ruddy
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Comme Me Kamin a signé un affidavit, etc., elle a été remplacée par Me Susan B. Tataryn, laquelle a agi en qualité d'avocate dans le cadre de la requête.
+[2] Une société contrôlée par l'appelant et faisant également l'objet d'une nouvelle cotisation.

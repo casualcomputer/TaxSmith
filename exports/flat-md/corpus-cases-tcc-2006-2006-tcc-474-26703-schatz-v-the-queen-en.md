@@ -1,0 +1,136 @@
+---
+title: "Schatz v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26703/index.do"
+last_modified: "2006-09-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 474"
+citation2: ""
+neutral_citation: "2006 TCC 474"
+decision_date: "2006-09-01"
+language: "en"
+item_id: "26703"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3449
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:47:48.423000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "01aeff2367460a829d5b5e9551f4e2ddfe657e00aa5febd36da0d94daec43523"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Schatz v. The Queen
+
+- Citation: 2006 TCC 474
+- Decision date: 2006-09-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3449, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Schatz v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-01
+Neutral citation
+2006 TCC 474
+File numbers
+2005-987(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC474
+Date: 20060901
+Docket: 2005-987(IT)I
+BETWEEN:
+MARCELLA SCHATZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Calgary, Alberta, on May 17, 2006.)
+Beaubier, J.
+[1] This appeal of penalties under subsection 163(2) of the Income Tax Act was heard at Calgary, Alberta, on May 15, 2006. The Appellant testified, as did CRA's auditor on the file, Jill Ann Armstrong.
+[2] Paragraphs 5 to 13 of the Reply to the Notice of Appeal set out the matters in dispute. They read:
+5. The Appellant was reassessed for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years. The Notices of Reassessment were dated February 10, 2003.
+6. In reassessing the Appellant on February 10, 2003 for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years, the Minister of National Revenue ("Minister") disallowed business losses in the amount of $6,584, $7,474, $9,570, $9,668, $12,610 and $22,879 respectively and denied rental expenses in the 1995 Taxation Year in the amount of $4,744. The Appellants business losses were disallowed pursuant to sections 9 and 18 of the Income Tax Act (the "Act") on the basis that no business existed and all expenses claimed were personal expenses of the Appellant. Rental expenses were disallowed in 1995 pursuant to paragraph 18(1)(a) of the Act on the basis that they were personal expenses of the Appellant. The Minister penalized the Appellant pursuant to subsection 163(2) of the Act in the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years in respect of all adjustments.
+7. The Appellant objected to the reassessments by notice received May 1, 2003. In her Notice of Objection, the Appellant objected to the assessment of the gross negligence penalty assessed by the Minister.
+8. The Minister confirmed assessment of the gross negligence penalty by notice dated January 4, 2005.
+9. In so assessing the gross negligence penalty for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years and in confirming the gross negligence penalty the Minister relied upon the same facts as follows:
+(a) In filing her income tax returns for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years the Appellant claimed a business loss in respect of Memories by Marcie (the "Activity");
+(b) The alleged business of the Activity was floral arrangements;
+(c) The Activity had no source of revenue and a business did not exist;
+(d) All expenses claimed in respect of the Activity were personal expenses of the Appellant;
+(e) The Appellant knew that she was claiming personal expenses and that no business existed;
+(f) The Appellant claimed expenses in respect of the Activity that were claimed by her spouse on his income tax returns;
+(g) The Appellant claimed her children's vehicle expenses in respect of the Activity;
+(h) The Appellant claimed pet expenses in respect of the Activity;
+(i) The Appellant claimed amounts for maintenance and repairs, although the Activity had no assets;
+(j) The Appellants spouse prepared her income tax returns for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years;
+(k) The Appellant signed her income tax returns for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years;
+(l) The Appellant knowingly, or in the alternative, under circumstances amounting to gross negligence, made, participated in, assented to, or acquiesced in the making of false statements or omissions in her 1995, 1996, 1997, 1998, 1999 and 2000 tax returns when she claimed business losses and personal expenses on her 1995 income tax return;
+(m) As a result of the false statements or omissions, the Appellant understated her tax payable for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years by the amounts of $2,382.20, $2,033.50, $2,561.36, $2,551.56, $3,307.1 and $5,725.00, respectively.
+B. ISSUES TO BE DECIDED
+10. The issue is whether the Minister properly assessed a penalty pursuant to subsection 163(2) of the Act.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He relies on subsection 163(2) of the Act as amended for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years.
+12. The Minister properly assessed a penalty in the amounts of $1,191.10, $1,016.75, $1,280.68, $1,275.78, $1,653.55 and $2,862.50 in accordance with subsection 163(2) of the Act as the Appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of, a false statement or omission in her income tax returns filed for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years and as a result, the tax payable for the 1995, 1996, 1997, 1998, 1999 and 2000 Taxation Years exceeded that tax that would have been payable had the Appellant been assessed on the basis of the information provided in the Appellants returns for the years by the amounts of $2,382.20, $2,033.50, $2,561.36, $2,551.56, $3,307.1 and $5,725.01, respectively.
+13. He requests that the appeal be dismissed.
+[3] Appellant's counsel stated in particular that assumptions 9(e) and (i) were in dispute. Because the onus of proof is on the Respondent, the paragraphs quoted will be dealt with in detail.
+[4] Paragraphs 5 and 6 of the Reply were established in evidence. Paragraphs 7 and 8 were not disputed in evidence and are accepted as correct.
+[5] Assumptions 9(a), (b), (f), (g), (j), and (k) were established in evidence. Respecting the remaining assumptions:
+9(c) - The auditor testified that there were no sales slips or invoices. There were merely notes by the Appellant of some sales to customers, often by first name only. In other cases columns of numbers were added by the Appellant to the appropriate total sales number for the year. Mrs. Schatz testified that if she gave a flower arrangement personally to someone, she charged herself an appropriate figure. Mrs. Schatz said she charged double the cost of the material in an arrangement. Her own figures indicate that she did not do this. She charged far less, except in 2001, after the audit commenced.
+9(d) - This is true in respect to the expenses. They were household expenses, holiday expenses, car expenses for the Appellant's children and even the alleged expenses for the floral arrangements were personal because Mrs. Schatz filled out an alleged sales figure for her personal gifts of arrangements and did not specify how much of her alleged sales this constituted. Nor did Mrs. Schatz identify any sales to third parties in any verifiable way.
+9(e) - Mrs. Schatz testified that when she saw her large refunds, she at first was suspicious, but she did nothing. One year she asked her husband, Richard, who was completing her income tax returns, why the number was so large, and he said it was because the "business space" had increased. She accepted this. Mrs. Schatz testified that she, a teacher for 37 years at the date of the hearing and with a B.Ed., was doing flower arrangements as a therapeutic activity and to see if she wanted to go into this business upon her retirement. Thus, in her own words, she was not in business during the years in dispute. But she knew she was claiming business expenses because she filled out various income and expense statements for Richard to use for her income tax returns. Finally, as the Respondent's counsel pointed out to her, her refund amounts claimed were right above her signatures on the income tax forms. In 1996, the refund was almost 20 times her alleged gross business income. In every year the refund was more than four times her alleged gross business income. Her denials that she did not know that she was claiming personal expenses and that no business existed are simply not credible, and she is not believed.
+9(h) - Was not established in evidence.
+9(i) - Is true. The claims for maintenance and repairs were for her personal family assets.
+9(m) - Was not testified to by either party but the Appellant has paid the income tax assessed and merely disputes the penalties and interest assessed on the penalties.
+[6] Assumption 9(l) and paragraph 10 are the crux of the case. To the Court, the Court's denial of the Appellant's credibility as described herein indicates that she knowingly participated in making the false statements in her income tax returns. However, even in her version, the Court finds that the Appellant, in circumstances amounting to gross negligence, acquiesced in the making of false statements in all of her income tax returns in dispute when she claimed business losses and personal expenses. In the words of the 2002 edition of the Shorter Oxford Dictionary, "to acquiesce" is to:
+acquiesce ... 1 Remain at rest or in quiet subjection; rest satisfied. ... 2 Agree, esp. tacitly; concur (in); raise no objections (to). ...
+That is what the Appellant did. She questioned the claims for refunds or was suspicious, but did nothing; she asked Richard about one and rested satisfied with his answer; she signed the returns with the refund claims directly above her signature and took the refund money. All of this occurred even though her alleged business activity was "therapeutic" and she did not make out bills or invoices and she prepared numbers for Richard which she says gave her version of the alleged "business" income and expenses. She knew that some of the alleged income, namely her own charges, was fictitious. In the time worn phrase, respecting the large tax refunds, she "took the money". She acquiesced to the entire proceeding.
+[7] For these reasons, the appeal is dismissed and the assessment of penalties and interest is confirmed.
+Signed at Calgary, Alberta, this 1st day of September, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC
+COURT FILE NO.: 2005-987(IT)I
+STYLE OF CAUSE: Marcella Schatz v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: May 15, 2006
+ORAL REASONS FOR
+JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF ORAL REASONS: September 1, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Jason M. Stephan
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jason M. Stephan
+Firm: Felesky Flynn LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

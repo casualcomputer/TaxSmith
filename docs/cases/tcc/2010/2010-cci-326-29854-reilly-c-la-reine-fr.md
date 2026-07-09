@@ -1,0 +1,202 @@
+---
+title: "Reilly c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29854/index.do"
+last_modified: "2010-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 326"
+citation2: ""
+neutral_citation: "2010 CCI 326"
+decision_date: "2010-06-17"
+language: "fr"
+item_id: "29854"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6411
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:53:03.395000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13d0edda635114c6bdb21af05b697ab893e6c574a3ff09bf7cb0f1056a1c8fac"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reilly c. La Reine
+
+- Citation: 2010 CCI 326
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6411, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reilly c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-17
+Référence neutre
+2010 CCI 326
+Numéro de dossier
+2007-3352(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3352(IT)G
+ENTRE :
+MICHAEL BRUCE REILLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus les 4 et 5 novembre 2009 et poursuivis le 20 avril 2010, à Vancouver (Colombie‑Britannique).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Johanna Russell
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2001 et 2002 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 18e jour d'octobre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 326
+Date : 20100617
+Dossier : 2007-3352(IT)G
+ENTRE :
+MICHAEL BRUCE REILLY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s'agit ici de savoir si l'appelant a le droit de déduire, dans le calcul de son revenu pour l'année 2001, certaines dépenses de campagne qu'il avait faites en 1999 lorsqu'il s'était porté candidat comme maire de Delta (Colombie‑Britannique). Dans son avis d'appel, l'appelant a soulevé la question de savoir s'il devait être autorisé à déduire certaines autres dépenses dans le calcul de son revenu des années 2001 et 2002, mais la seule question qui a été examinée à l'audience se rapportait au montant dont la déduction était demandée au titre des dépenses de campagne, en 2001. Au cours de l'audience, le montant auquel l'appelant affirmait avoir droit a été ramené de 33 185,34 $ à 31 978,91 $[1].
+[2] L'appelant détenait quarante pour cent des actions d'United Realty RCK & Associates Ltd. (« United Realty »). Il fournissait ses services à United Realty à titre de courtier et de promoteur immobilier indépendant. Il facturait la TPS sur ses services et il déclarait son revenu de commission à titre de revenu de travailleur indépendant. Il touchait également des jetons de présence à titre d'administrateur d'United Realty, qu'il déclarait à titre de revenu tiré d'un emploi.
+[3] En 1999, l'appelant s'est porté candidat comme maire de Delta (Colombie‑Britannique). Des extraits des propos échangés entre l'avocate de l'intimée et l'appelant au sujet des raisons pour lesquelles l'appelant s'était porté candidat comme maire et des promesses qu'il avait faites lors de la campagne sont reproduits ci‑dessous :
+[TRADUCTION]
+Q. : Est‑il juste de dire qu'en 1999, certaines questions que vous vouliez soulever vous passionnaient passablement ou — certains problèmes auxquels vous vouliez remédier vous passionnaient passablement, des questions sur lesquelles vous vouliez attirer l'attention de la ville de Delta?
+R. : En fait, je ne me souviens pas de quelque question que ce soit qui me passionnait, si ce n'est de profiter de l'occasion pour m'impliquer et améliorer mon image. Cependant, quant aux questions, je ne — je ne peux pas dire qu'il y avait une question à laquelle je m'intéressais et que je voulais régler, si c'est là ce que vous voulez dire.
+Q. : La question de la protection de terres écologiquement fragiles et de la protection de l'environnement m'intéresse. Est‑il juste de dire que ces questions vous passionnaient à ce moment‑là?
+R. : Non. En fait, j'ai rédigé des articles publicitaires dans lesquels j'ai parlé de la mise en valeur de la tourbière Burns. Les propriétaires de la tourbière Burns avaient communiqué avec moi, il s'agit ici d'une question prêtant énormément à controverse. Il s'agit de terres d'une superficie de 10 000 — de 10 000 acres sur lesquels on se proposait de construire des hôtels et des casinos et toutes sortes d'immeubles. En fait, des sénateurs étaient venus me rencontrer pour m'en parler, et les gens de l'industrie des casinos disaient qu'ils voulaient qu'après ma candidature, j'envisage de les aider si possible à mettre ces terres en valeur.
+Par conséquent, la publicité que je faisais était défavorable sur le plan de l'environnement, ce qui ne plaisait pas trop au grand public. Cependant, un promoteur doit promouvoir la chose; les promoteurs doivent se montrer sensibles à l'environnement, mais il faut aussi comprendre qu'il faut encourager l'industrie, les emplois, la construction d'habitations et ainsi de suite. Par conséquent, si vous dites que je suis un environnementaliste et que l'environnement me passionnait, je dirais que non. Absolument pas.
+Q. : Les questions dont vous parliez à vos électeurs ne vous passionnaient pas?
+R. : Non. Quant à moi, il s'agissait strictement de faire des affaires.
+Q. : Eh bien, je vous dirai que votre décision de vous porter candidat comme maire de Delta comportait un aspect personnel, que vous faisiez un choix personnel et qu'il ne s'agissait pas de faire des affaires.
+R. : Eh bien, vous êtes bien en droit de le dire, et j'aimerais certainement être maire d'une ville. Le type d'affaires que je fais se rapporte à l'immobilier et à la mise en valeur immobilière, et puisque je m'occupais de mise en valeur, je comprends le processus et je pourrais aider d'autres personnes à atteindre leur but et à contribuer à l'assiette fiscale d'une collectivité. Si la chose est considérée sous cet angle, j'aimerais être maire de la ville de Vancouver ou d'une autre ville. C'est un emploi fort intéressant. De fait, le salaire annuel s'élève à environ 100 000 $, de sorte qu'il s'agit d'un emploi fort bien payé.
+Q. : Par conséquent, lorsque vous faisiez campagne afin de remporter ce poste, ne parliez‑vous pas aux électeurs et ne leur promettiez‑vous pas d'attirer l'attention de la ville sur leurs préoccupations si vous étiez élu?
+R. : Je n'ai rien promis à qui que ce soit si ce n'est pour dire que si j'étais élu, je gérerais la ville comme une entreprise, de la même façon que je gère mes sociétés immobilières.
+Q. : Cependant, n'aviez‑vous pas comme objectif principal d'appuyer les préoccupations de la collectivité de Delta lorsque vous vous portiez candidat à la charge de maire, vous ne vous présentiez pas seulement — vous ne faisiez pas uniquement valoir les préoccupations de M. Reilly, mais vous faisiez également valoir les préoccupations et les besoins d'une collectivité dans son ensemble, vous cherchiez à effectuer des améliorations à Delta dans son ensemble?
+R. : Je dirai pour mémoire qu'en cherchant à devenir maire, j'estimais qu'il s'agissait d'un emploi comme un autre, où je ferais fondamentalement la même chose que ce que je fais dans le domaine de la promotion immobilière. Il s'agirait d'un contrat d'une durée de trois ans. Je gagnerais un revenu pendant ce temps. C'est la seule chose qui m'intéressait. Il ne s'agissait pas tant de faire connaître à la collectivité les préoccupations de la population, comme vous le dites. Je n'écoutais pas trop ce que disait la population. J'écoutais ce que disaient les entreprises. Tel était mon — c'était ce que j'avais l'intention de faire.
+Q. : Par conséquent, vous cherchiez avant tout à toucher le salaire intéressant qui se rattachait au poste de maire?
+R. : Oui.
+[4] Il semble que rien ne passionnait l'appelant si ce n'est le fait d'améliorer son image et de gagner le salaire de maire. De plus, l'appelant n'écoutait pas la population de Delta et il ne semblait pas s'intéresser énormément aux préoccupations exprimées. Il n'est donc probablement pas surprenant qu'il n'ait pas été élu.
+[5] L'appelant affirme avoir engagé les dépenses de campagne en vue d'améliorer son image et d'augmenter son revenu de courtier et de promoteur immobilier. Il a déclaré que la publicité qu'il faisait portait non seulement sur sa candidature au poste de maire, mais qu'elle indiquait aussi ses antécédents professionnels et les services qu'il offrait. Les dépenses de campagne ont été engagées en 1999. United Realty a payé les dépenses pour le compte de l'appelant en 1999. Selon les dispositions qui avaient été prises, l'appelant devait rembourser United Realty, et c'est ce qu'il a fait en 2001. La première question soulevée par l'intimée est qu'étant donné que les dépenses ont été engagées en 1999, l'appelant ne pouvait pas les déduire en 2001.
+[6] La position prise par l'appelant est qu'il pouvait à bon droit déterminer son revenu selon la comptabilité de caisse et qu'étant donné qu'il n'a remboursé United Realty qu'en 2001, il a le droit de déduire ce montant en 2001. Dans ce cas‑ci, l'appelant n'était pas employé par United Realty à titre de vendeur à commission. L'appelant a affirmé, ce que l'intimée n'a pas contesté, qu'il exerçait ses activités de courtier et de promoteur immobilier (relativement auxquelles il demandait la déduction des dépenses de campagne) à titre d'entrepreneur indépendant. Par conséquent, la façon dont l'appelant doit calculer le revenu tiré de ses activités de courtier et de promoteur immobilier doit être établie conformément à l'article 9 de la Loi de l'impôt sur le revenu (la « Loi ») (et conformément aux autres dispositions applicables de la Loi) plutôt que conformément aux articles 5, 6 et 8 de la Loi.
+[7] L'article 5 de la Loi (qui s'applique aux employés) prévoit que toute rémunération reçue au cours de l'année doit être incluse dans le revenu. L'alinéa 8(1)f) de la Loi (qui s'applique au contribuable qui est « employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur » parle des sommes dépensées. Par conséquent, les employés utiliseraient la comptabilité de caisse afin de calculer leur revenu d'emploi. Toutefois, l'appelant n'était pas « employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur », de sorte que l'alinéa 8(1)f) de la Loi ne s'applique pas à son cas. L'appelant exploitait une entreprise et il affirmait que les frais de publicité étaient déductibles dans le calcul du revenu tiré de son entreprise.
+[8] Le paragraphe 9(1) de la Loi, qui s'applique à l'appelant lorsqu'il s'agit de déterminer le revenu tiré de son entreprise, prévoit simplement ce qui suit :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[9] Dans la décision Ken Steeves Sales Ltd. c. La Reine, [1955] R.C. de l'É. 108, 55 D.T.C. 1044, [1955] C.T.C. 47, le juge Cameron a dit ce qui suit :
+[TRADUCTION]
+Pour ces motifs je dois conclure que la méthode « des encaissements et des dépenses » prétendument utilisée par l'appelante en l'espèce n'est pas permise par la Loi. Je dis cela à cause du fait que cette méthode exclut du revenu toutes les créances, alors que celles-ci, à mon avis, forment une partie essentielle de tout état des résultats d'un commerçant. Cette méthode est incomplète et propre à induire en erreur, et elle ne montre pas entièrement la véritable situation du contribuable ni ne révèle ses véritables résultats. [...]
+[10] Dans la décision Freeway Properties Inc. c. La Reine, no T‑369‑84, 14 mars 1985, le juge Addy, de la Division de première instance de la Cour fédérale, a dit ce qui suit :
+L'article 9 de la Loi de l'impôt sur le revenu énonce effectivement que les bénéfices doivent être comptabilisés conformément aux pratiques commerciales normales, à moins que la loi ne le stipule autrement. Le procureur de Freeway a cité plusieurs jugements, et notamment Ken Steeves Sales Ltd. c. MRN, 55 D.T.C. 1044 et Industrial Mortgage and Trust Company c. MRN, 58 D.T.C. 6185, afin de souligner l'importance de s'en remettre aux pratiques commerciales normales. Je n'ai aucune difficulté à conclure, et la Couronne a d'ailleurs admis, que Freeway était justifiée d'utiliser la méthode de comptabilité d'exercice pour ses activités, plutôt que la méthode de caisse : elle était d'ailleurs tenue de le faire. [...]
+[11] Dans l'ouvrage de Vern Krishna intitulé The Fundamentals of Income Tax Law (Carswell, 2009), il est dit ce qui suit (page 164) :
+[TRADUCTION]
+Contrairement à l'obligation d'avoir recours à la comptabilité de caisse pour le revenu d'emploi, il faut habituellement rendre compte du revenu tiré d'une entreprise ou d'un bien selon la comptabilité d'exercice. La Loi ne prévoit pas expressément de méthode particulière aux fins du calcul du revenu tiré d'une entreprise ou d'un bien. L'article 9 dit seulement que le revenu qu'un contribuable a tiré d'une entreprise ou d'un bien est le bénéfice qu'il en a tiré. Toutefois, les tribunaux ont interprété le terme « bénéfice » comme s'entendant du bénéfice calculé conformément à la pratique commerciale; or, la pratique commerciale favorise le recours à la comptabilité d'exercice pour la plupart des entreprises. Par conséquent, la méthode de la comptabilité d'exercice est indirectement exigée compte tenu de l'obligation de se conformer aux principes comptables généralement reconnus.
+[Souligné dans l'original.]
+[12] Dans l'arrêt Canderel ltée c. La Reine, [1998] 1 R.C.S. 147, le juge Iacobucci, de la Cour suprême du Canada, a dit ce qui suit :
+V. L'analyse
+(1) Les principes généraux de calcul du bénéfice
+[28] Dans un arrêt relativement récent Symes, précité, notre Cour a examiné les principes généraux qui régissent le calcul du bénéfice aux fins de l'impôt sur le revenu. Toutefois, comme certains des principes énoncés dans cet arrêt ont peut‑être été mal interprétés, je me propose de les réexaminer afin de trancher la question en litige dans le présent pourvoi et de clarifier la question cruciale du calcul du bénéfice aux fins de la Loi de l'impôt sur le revenu.
+a) Le cadre d'interprétation
+[29] Il convient de commencer l'examen de la question du calcul du bénéfice par le par. 9(1) de la Loi, qui définit le revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition comme étant « le bénéfice qu'il en tire pour cette année ». Fait important, le mot « bénéfice » n'est pas défini au par. 9(1) ni ailleurs dans la Loi. Il me semble qu'il s'agit là d'un choix délibéré du législateur, compte tenu particulièrement du fait que la Loi contient des définitions exhaustives de nombreux autres termes et notions dont elle traite. Ce choix reflète bien le fait qu'une seule et même définition ne peut pas s'appliquer adéquatement aux millions de contribuables assujettis à la Loi. Dans le cadre de notre régime d'autocotisation, chaque contribuable doit être en mesure de calculer son revenu de façon à donner une image fidèle de son revenu, sous réserve, évidemment, de l'application des dispositions expresses de la Loi qui exigent que certains types de dépenses ou de recettes soient traités d'une façon précise.
+[30] Par conséquent, quelle est la véritable nature du « bénéfice » aux fins de l'impôt? Bien que cette notion ait été exprimée de diverses manières, la formulation la plus claire et la plus concise de ce terme a peut‑être été donnée dans l'arrêt souvent cité de notre Cour M.N.R. c. Irwin, [1964] R.C.S. 662, à la p. 664, où les bénéfices d'une année ont été décrits comme étant constitués de [TRADUCTION] « la différence entre les recettes du commerce ou de l'entreprise encaissées pendant cette même année [...] et les dépenses effectuées pour réaliser ces recettes » (en italique dans l'original). Cette définition a été reprise par le président Jackett dans la décision Associated Investors of Canada Ltd. c. M.N.R., [1967] 2 R.C. de l'É. 96, où il a déclaré ceci, à la p. 102 :
+[TRADUCTION]
+Les principes commerciaux ordinaires prescrivent, suivant les décisions, qu'il faut déterminer le profit annuel d'une entreprise en défalquant des revenus de cette dernière pour l'année les dépenses engagées en vue de tirer lesdits revenus.
+[31] Acceptant cette définition fondamentale, dans l'arrêt Symes, précité, aux pp. 722 et 723, la majorité a fait les observations suivantes au sujet du calcul du bénéfice :
+[...] le concept de « bénéfice » au par. 9(1) est en soi un résultat net qui présuppose des déductions de dépenses d'entreprise. Il est maintenant généralement reconnu que c'est le par. 9(1) qui autorise la déduction des dépenses d'entreprise; le par. 18(1) est limitatif seulement [...]
+En vertu du par. 9(1), la déductibilité est habituellement considérée de la façon dont elle l'avait été par le président Thorson dans Royal Trust, [Royal Trust Co. c. Minister of National Revenue, 57 D.T.C. 1055 (C. de l'É.)] (à la p. 1059) :
+[TRADUCTION]
+[...] pour savoir si un débours ou une dépense était déductible aux fins d'impôt la première étape était de déterminer si la déduction était conforme aux principes ordinaires des affaires commerciales ou aux principes bien reconnus de la pratique courante des affaires [...] (Je souligne.)
+En conséquence, dans l'analyse des déductions, il faut commencer par le par. 9(1), disposition qui englobe, comme l'a précisé le juge de première instance, un « critère des affaires » aux fins du calcul du bénéfice imposable.
+C'est un critère qui a été formulé de bien des façons. Comme le juge de première instance l'a bien fait ressortir, la détermination du bénéfice en vertu du par. 9(1) est une question de droit : Neonex International Ltd. c. The Queen [...] C'est peut‑être pour ce motif (comme le laisse entendre implicitement Neonex) que les tribunaux ont hésité à énoncer, relativement au par. 9(1), un critère fondé « sur les principes comptables généralement reconnus » (P.C.G.R.) [...]. Toute mention des P.C.G.R. comporte l'idée d'un degré de contrôle exercé par des comptables professionnels, ce qui est incompatible avec un critère juridique du « bénéfice » en vertu du par. 9(1). Alors qu'un comptable s'interrogeant sur l'opportunité d'une déduction peut être motivé par le désir de présenter un tableau plutôt conservateur du niveau des profits courants, la Loi vise une fin différente : la perception de revenus publics. Pour ces motifs, dans l'examen du par. 9(1), il convient davantage de parler de « principes bien reconnus de la pratique courante des affaires (ou comptable) » ou de « principes bien reconnus des affaires commerciales ». [Souligné dans l'original.]
+[32] La grande difficulté qui semble avoir affligé les tribunaux dans la détermination du bénéfice aux fins de l'impôt sur le revenu fait ressortir la nécessité de formuler le plus clairement possible le critère juridique applicable à cet égard. Le postulat de départ est évidemment que la détermination du bénéfice visé au par. 9(1) est une question de droit, non de fait. Les facteurs juridiques déterminants sont au nombre de deux : premièrement, l'existence d'une disposition expresse de la Loi de l'impôt sur le revenu commandant l'application d'un traitement précis à l'égard de certaines dépenses ou recettes, notamment la limite générale formulée à l'al. 18(1)a), et, deuxièmement, l'existence de règles de droit établies découlant de l'interprétation que les tribunaux ont donnée de ces diverses dispositions au fil des ans.
+[33] À part ces paramètres, tous les autres moyens d'analyse susceptibles d'aider à déterminer le bénéfice ne sont que ce que leur nom indique : des critères d'interprétation, sans plus. Entrent dans cette catégorie les « principes bien reconnus de la pratique courante des affaires (ou comptable) » mentionnés dans l'arrêt Symes, également appelés « principes commerciaux ordinaires » ou « principes ordinaires des affaires commerciales », entre autres. Ces principes ont été formellement codifiés dans les « principes comptables généralement reconnus » (« PCGR ») établis par la profession comptable pour la préparation des états financiers. La profession comptable reconnaît que ces principes produisent une information financière fidèle relativement à l'objet des états financiers, et ils deviennent « généralement reconnus » soit parce qu'ils sont effectivement suivis dans un certain nombre de cas, soit parce qu'ils trouvent appui dans les déclarations faites par des organismes professionnels ou dans les écrits d'universitaires et d'autres personnes, ou encore par une combinaison de ces facteurs : voir Peter W. Hogg et Joanne E. Magee, Principles of Canadian Income Tax Law (2e éd. 1997), aux pp. 180 et 181. Il ne faut toutefois pas oublier qu'il s'agit d'outils non juridiques et, de ce fait, extrinsèques à la détermination du bénéfice en droit, alors que les dispositions de la Loi et les autres règles de droit établies constituent la base même de cette notion.
+[34] Cette constatation ne vise pas à minimiser le rôle clé que jouent ces principes commerciaux bien reconnus (ainsi que je les désignerai ci‑après) dans le processus de calcul du bénéfice. Dans ses motifs dans Friesen c. Canada, [1995] 3 R.C.S. 103, le juge Major a fait l'observation suivante au par. 41 :
+La Loi ne définit pas le terme « bénéfice » et n'établit pas de règles précises pour en faire le calcul. La jurisprudence en matière fiscale a établi que la détermination du bénéfice en vertu du par. 9(1) est une question de droit qui doit être tranchée selon le critère des « principes reconnus de la pratique des affaires (ou comptable) » ou des « principes reconnus des échanges commerciaux », sauf lorsque ceux‑ci sont incompatibles avec les dispositions expresses de la Loi de l'impôt sur le revenu [...]
+[35] Je pense que cet énoncé décrit bien le lien qui doit exister entre le droit fiscal et les principes commerciaux. En l'absence de définition de la notion de bénéfice dans la loi, il ne serait pas sage que le droit renonce aux indications précieuses qu'offrent des principes commerciaux bien établis. En effet, plus souvent qu'autrement, ces principes constitueront la base même de la détermination du bénéfice. Cependant, des principes commerciaux reconnus ne sont pas des règles de droit et, partant, il est possible qu'un principe donné ne s'applique pas à tous les cas. Fait plus important encore, ces principes doivent nécessairement occuper un rang subordonné par rapport aux règles de droit qui régissent la question.
+[36] La raison de ce fait est simple : en règle générale, les principes commerciaux reconnus tirent leur origine de la méthodologie de la comptabilité générale, qui, comme il a été mentionné dans Symes, est motivée par des facteurs fondamentalement différents de la fiscalité. De plus, la comptabilité générale vise habituellement à fournir une image comparative du bénéfice d'une année à l'autre et tend donc à respecter une uniformité méthodologique pour le bénéfice de ceux à qui sont destinés les états financiers : notamment les actionnaires, les investisseurs, les prêteurs, les organismes de réglementation. Par contre, le calcul de l'impôt vise seulement à produire, pour le bénéfice du contribuable et du percepteur d'impôts, une image fidèle du revenu pour chaque année d'imposition. Selon l'activité commerciale du contribuable au cours d'une année donnée, la méthode utilisée pour calculer le bénéfice aux fins de l'impôt peut être très différente de celle utilisée l'année précédente, qui elle aussi a pu différer de celle utilisée l'année d'avant. Par conséquent, bien que la comptabilité générale puisse, dans les faits, constituer à certaines fins une méthode fidèle de détermination du bénéfice, son application à la question juridique du bénéfice est intrinsèquement limitée. La prudence s'impose dans l'application de principes comptables à des questions juridiques.
+[37] Je ne voudrais toutefois pas que l'on croie que je minimise le rôle des PCGR dans la détermination du bénéfice aux fins de l'impôt sur le revenu. Certains ont déduit de mes motifs dans l'arrêt Symes l'intention d'écarter complètement les PCGR : voir, par exemple, Hogg et Magee, op. cit., aux pp. 185 à 187. Telle n'était pas mon intention. De fait, la meilleure façon de voir les choses est de dire que les PCGR forment généralement la base même des « principes commerciaux reconnus » applicables au calcul du bénéfice. Toutefois, il est important que les tribunaux évitent de déléguer la responsabilité des critères du test juridique du bénéfice à la profession comptable, voilà pourquoi il faut maintenir une distinction. Autrement dit, même si, plus souvent qu'autrement, les PCGR correspondent aux principes commerciaux reconnus par le droit, il peut survenir des occasions où ils différeront, auxquels cas les derniers doivent avoir préséance : voir, par exemple, l'arrêt Friedberg c. Canada, précité.
+[38] De plus, il y aura naturellement des cas où les PCGR offriront diverses solutions acceptables dans la préparation des états financiers, et où le contribuable sera libre, aux fins de la comptabilité générale, d'adopter celle qui sert le mieux ses objectifs financiers à ce moment. Dans de tels cas, les PCGR ne seront sûrement pas déterminants quant à la méthode permettant d'obtenir une image fidèle du bénéfice aux fins de l'impôt, quoiqu'ils puissent rester utiles pour indiquer les diverses méthodes acceptables de calcul, dont l'une pourrait fournir le résultat approprié aux fins de l'impôt.
+[39] Le paragraphe 18(9) de la Loi, qui exige que certaines dépenses payées d'avance soient amorties sur les périodes auxquelles elles se rapportent est un bon exemple du rapport qui existe entre les dispositions de la Loi, les principes élaborés par la jurisprudence et les PCGR ou les principes commerciaux reconnus. Il est possible, quoique je n'exprime aucune opinion précise à cet égard, que certaines de ces dépenses puissent être traitées autrement dans l'application des PCGR ou dans la pratique des affaires; peut‑être pourraient‑elles être déduites en entier dans l'année où elles ont été engagées, ou même capitalisées. Toutefois, pour les fins de l'impôt, cette possibilité est écartée en raison du traitement particulier que leur réserve la loi.
+[13] Dans l'ouvrage intitulé Financial Accounting: Principles and Issues (Prentice‑Hall Inc., 1977), Michael Granof a dit ce qui suit (page 104) :
+[TRADUCTION]
+L'idée selon laquelle il faut rendre compte des produits et des charges selon la comptabilité d'exercice est cruciale dans le domaine de la comptabilité, telle qu'elle existe de nos jours. Les effets d'opérations et autres événements financiers sur l'actif et le passif d'une entreprise doivent être constatés au moment où ils ont leur principal effet économique, et pas nécessairement au moment où l'argent est reçu ou déboursé. Les produits doivent être imputés à la période au cours de laquelle ils sont gagnés. On parle de réalisation des produits au moment où ces produits sont gagnés. Les dépenses sont passées en charge au cours de la période pendant laquelle elles donnent lieu aux services prévus en vue de générer des produits.
+[Souligné dans l'original.]
+[14] Dans l'ouvrage intitulé Intermediate Accounting (7e édition canadienne, John Wiley & Sons Canada Ltd., 2005), Donald E. Kieso et al. ont dit ce qui suit :
+[TRADUCTION]
+La plupart des entreprises utilisent une comptabilité d'exercice, c'est‑à‑dire qu'elles constatent leurs produits lorsqu'ils sont réalisés et comptabilisent leurs charges dans l'exercice au cours duquel celles‑ci sont engagées, sans se soucier du moment où se produisent les encaissements ou les décaissements. Par contre, certaines petites entreprises et la plupart des particuliers utilisent une comptabilité de caisse, ou encore une comptabilité de caisse modifiée. La comptabilité de caisse suppose que les produits sont constatés au moment où ils font l'objet d'un encaissement et que les charges sont imputées à l'exercice au cours duquel elles sont payées. Selon cette méthode, le revenu est calculé à partir des produits encaissés et des charges réglées, sans qu'il soit tenu compte du principe de comptabilisation des produits et du principe de rattachement des charges aux produits. Ainsi, les états financiers établis selon la comptabilité de caisse ne sont pas conformes aux principes comptables généralement reconnus.
+[Souligné dans l'original.]
+[15] Je ne crois pas qu'il faille interpréter l'arrêt Canderel de la Cour suprême du Canada de façon à permettre aux contribuables de déclarer à leur gré leur revenu selon la méthode de la comptabilité d'exercice ou selon la méthode de la comptabilité de caisse. Comme le juge Iacobucci l'a fait remarquer, « plus souvent qu'autrement, [les principes commerciaux bien établis] constitueront la base même de la détermination du bénéfice ». Puisqu'il est clair que les principes commerciaux bien établis veulent qu'il faille calculer les produits et les charges selon la comptabilité d'exercice et non selon la comptabilité de caisse, et que « les états financiers établis selon la comptabilité de caisse ne sont pas conformes aux principes comptables généralement reconnus », il me semble que seules les personnes auxquelles la Loi accorde ce droit peuvent utiliser la méthode de la comptabilité de caisse pour déterminer leur revenu. L'article 28 de la Loi permet aux agriculteurs et aux pêcheurs de le faire. Selon les articles 5, 6 et 8 de la Loi, les employés rendent compte de leur revenu au moyen de la comptabilité de caisse. Toutefois, aucune disposition de la Loi ne permet à l'appelant, qui n'est pas un employé lorsqu'il fournit ses services à titre de courtier et de promoteur immobilier, de rendre compte de son revenu au moyen de la comptabilité de caisse.
+[16] Par conséquent, si les montants dont la déduction est demandée pour la publicité, au titre des dépenses de campagne, sont déductibles, ils le sont dans le calcul du revenu de 1999 de l'appelant (soit l'année au cours de laquelle ces dépenses ont été engagées) et non en 2001. Étant donné qu'en l'espèce, il s'agit uniquement de savoir si pareils montants étaient déductibles en 2001, l'appelant ne peut pas avoir gain de cause. L'intimée a soulevé d'autres questions, à savoir si les dépenses ont été faites en vue de gagner un revenu ou s'il s'agissait de frais personnels, ainsi que la question de savoir si les dépenses faites sont imputables au capital. Étant donné que les montants en question ne sont de toute façon pas déductibles lorsqu'il s'agit de déterminer le revenu de l'appelant pour l'année 2001, je n'examinerai pas ces questions additionnelles.
+[17] Par conséquent, les appels que l'appelant a interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi pour les années d'imposition 2001 et 2002 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de juin 2010.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 18e jour d'octobre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2010 CCI 326
+No DU DOSSIER DE LA COUR :
+2007-3352(IT)G
+INTITULÉ :
+Michael Bruce Reilly c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L'AUDIENCE :
+Les 4 et 5 novembre 2009 et le 20 avril 2010
+MOTIFS DU JUGEMENT :
+L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 17 juin 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Johanna Russell
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L'appelant a reconnu qu'il ne demandait plus de déduction à l'égard des macarons (1 110,13 $, TPS non comprise) et des billets (96,30 $, TPS non comprise).

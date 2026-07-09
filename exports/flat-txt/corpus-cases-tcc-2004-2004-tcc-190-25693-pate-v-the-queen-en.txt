@@ -1,0 +1,134 @@
+Title: Pate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25693/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-190-25693-pate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-03-01
+
+# Pate v. The Queen
+
+- Citation: 2004 TCC 190
+- Decision date: 2004-03-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3800, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-01
+Neutral citation
+2004 TCC 190
+File numbers
+2002-1022(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC190
+Date: 20040301
+Docket: 2002-1022(IT)I
+BETWEEN:
+STEPHEN PATE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+___________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: John Shipley
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on August 26, 2003,
+at Charlottetown, Prince Edward Island)
+Mogan J.
+[1] This is an appeal for the 1999 taxation year in which the Appellant deducted in computing income the amount of $5,887.80 which he expended in that year on legal fees. The legal fees were paid in connection with a lawsuit he commenced against a former employer because of the termination of his employment on June 7, 1999. The Appellant claims that the amount in issue is deductible under paragraph 8(1)(b) or under paragraph 60(o.1) of the Income Tax Act. The Appellant has elected the informal procedure. He represented himself and testified at length regarding the circumstances leading up to the lawsuit.
+[2] His Notice of Appeal is a well-drafted document. On pages 2 and 3, the Appellant has in substance summarized the oral testimony which he delivered in court. Therefore, I propose to use pages 2 and 3 of his Notice of Appeal as a way of adapting the relevant facts which produced the legal action. The Appellant is a business person who in 1985 incorporated a company called Island Computer Limited, a Prince Edward Island corporation. The Appellant obviously has computer skills and a good knowledge of business. In 1994, Island Computer Limited incorporated a subsidiary called Aquilium Software Corporation which was a private corporation under the laws of Canada. Later these two companies were amalgamated and the amalgamated company was also called Aquilium Software Corporation ("Aquilium"). At all relevant times prior to the spring of 1999, the Appellant was the president and chief executive officer of Aquilium.
+[3] In late 1996 and early 1997, there were discussions about Aquilium becoming a public company. Outside investors were found who wanted to put money into Aquilium. In preparation for this, the Appellant was advised to enter into an employment contract with Aquilium so that his position would be defined at the time the company became public. On or about January 1997, an employment agreement was signed between the Appellant and Aquilium.
+[4] In July 1997, Aquilium became a public corporation; new investors arrived on the scene and the company was traded on the Alberta Stock Exchange. Between December 1998 and April 1999, there was a dispute among a number of persons over control of Aquilium; and "control" in that dispute meant control of the board of directors. The result of the dispute was that new persons came on the scene who had acquired de facto control of Aquilium. Immediately thereafter, disagreements arose between the new control group and the Appellant. According to his oral testimony, he could see that his time with Aquilium was limited because of this dispute between him and the controlling group. June 7, 1999 is an important date because on that date the Appellant's employment by Aquilium effectively ended. The Appellant entered Exhibit A-1 in support of his appeal a binder of 24 documents which are relevant and useful to demonstrate and support the statement of facts which are not in dispute. I do not propose to refer to all 24 documents but two or three of them, in my view, are of particular relevance and I will refer later to one of the pleadings in the lawsuit.
+[5] On termination, Aquilium did not pay to the Appellant his vacation pay (in the range of $47,000) as required under the Ontario Employment Standards Act, or other benefits which were accruing to him by reason of his employment. The Appellant sought legal advice in Toronto and his Toronto lawyer negotiated in good faith with the employer with a view to resolving the claim which the Appellant had against Aquilium. Exhibit A-1, Tab 8 is a letter dated July 29, 1999 from Stikeman, Elliott, the lawyers representing Aquilium, responding to a letter from the Appellant's lawyer. On page 3 of Tab 8 which is less than two months after the termination date, the following paragraph appears:
+If your client seriously believes that he is entitled to payments of the amount claimed in your letter from a Company which is presently in a difficult financial position, we encourage your client to commence his action sooner rather than later.
+[6] The Appellant moved to PEI in July 1999 and commenced an action in that province on August 6, 1999. The Statement of Claim appears at Exhibit A-1, Tab 10. I do not intend to recite the document at length but on the third page, there is a claim for damages in the amount of $1,411,557; and on page 5, in paragraphs 18, 19, 20 and 21, there is a summary and description of certain amounts which seem to add up to the $1,411,557. And so the global amount claimed is broken down into more precise smaller amounts, but the dominant amount is a claim for $1,271,205 which is said to be four times his annual salary of $331,960 at the time of termination. There are many succeeding pleadings. The Appellant explained that in litigation like this, where an individual is suing a public corporation, it comes down to a kind of economic battle. Lawyers sometimes call it a war of attrition on the basis that the person with the deeper pockets will prevail. That seems to be the case here because of other pleadings which follow in fairly rapid succession.
+[7] The Statement of Defence of Aquilium (Tab 12) was filed on September 8, 1999. Tab 13 is a Reply to the Statement of Defence; Tab 15 is an Amended Statement of Claim; Tab 16 is an Amended Statement of Defence and Counterclaim; and Tab 20 is an Amended, Amended Statement of Claim. Those are all the pleadings in the binder. The lawyers appear to be wearing themselves out or wearing out the pocketbooks of their respective clients in litigation of this kind. Tab 18 is an Offer to Settle prepared in what I would call final form. Many lawyers are familiar with an Offer to Settle made in a letter and offered without prejudice. This Offer to Settle signed by the Appellant's lawyer in Charlottetown is in pleading form in that it includes the style of cause.
+[8] The Offer to Settle is an interesting document. The Appellant was offering to settle for an amount which I add up to about $1,072,000 which is a reduction from the original claim for $1,411,557. The offer was turned down in a letter from the lawyers for Aquilium who wrote back six months later in January 2001. The last sentence in that lawyer's letter stated:
+Please be advised that we have received instructions to reject your settlement offer of May 24, 2000.
+It took them seven months to turn down the settlement offer. Those are the basic facts.
+Analysis
+[9] The Appellant claims the right to deduct the amount of $5,887.80 under paragraph 8(1)(b) of the Income Tax Act which states:
+8(1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(a) ...
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+That provision is a clear permission to deduct amounts expended to recover salary or wages and it is the basic claim of the Appellant.
+[10] The position of the Respondent is based on the proposition that the Appellant has not sued to collect salary or wages because the substance of his action is to collect an amount that the Appellant would be entitled to in lieu of notice for the sudden termination of his employment as a high executive officer of the defendant corporation. A payment in lieu of notice for sudden termination is not salary and wages. Salary and wages are amounts owing to a person for services already rendered in circumstances where the employer has failed to pay such salary and wages. Part of the Appellant's claim is for vacation pay which is the significant amount of $47,000. The Appellant stated in evidence, and I have no reason to disbelieve him because he is a totally credible witness, that his vacation pay would now be an amount in the range $59,000.
+[11] Counsel for the Respondent conceded in argument that vacation pay is tantamount to salary and wages because vacation pay accrues through the earning of salary and wages. Therefore, the action commenced by the Appellant is, at least in part, an action for the recovery of salary and wages. Counsel's point, however, is that the vacation pay portion of the claim ($47,000) is so relatively small as against the totality of the claim ($1,411,557) that it would be less than five percent and, relatively, a minuscule amount. But he did concede that, in the circumstances, the legal fees should be prorated even if only to give effect to this relatively small amount which the Minister of National Revenue concedes would fall under the umbrella of salary and wages.
+[12] The reason put forward by the Respondent for not permitting the deduction of the bulk of the legal fees is that they were not paid for salary and wages but for a retiring allowance defined in the Income Tax Act as follows:
+248(1) In this Act,
+"retiring allowance" means an amount ... received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of damages or pursuant to an order or judgment of a competent tribunal.
+This definition provides that if a person has to sue for damages suffered by termination of employment without notice, and recovers a judgment against the former employer, that amount would fall into the definition of retiring allowance. That is basically what the Appellant is doing with the greater portion of the legal action because his salary was generous, in the range of approximately $330,000, and when he claimed three or four years' salary, he was really claiming an amount of over $1,200,000 which amount would be a retiring allowance if he recovered judgment in that amount.
+[13] I should also refer to the definition of "salary or wages" in section 248 of the Act because that definition excludes a retiring allowance. If an amount is caught as a payment for failure to give notice in the definition of "retiring allowance", it would then be excluded in the definition of "salary or wages". There is another section of the Act, however, under which the Appellant claims relief and which may be applicable; and that is paragraph 60(o.1), the relevant parts of which state:
+60 There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+(a) ...
+(o.1) the amount, if any, by which the lesser of
+(i) the total of all legal expenses ... paid by the taxpayer in the year or in any of the 7 preceding taxation years to collect or establish a right to an amount of
+(A) ...
+(B) a retiring allowance of the taxpayer ..., and ,
+(ii) the amount, if any, by which the total of all amounts each of which is
+(A) an amount described in clause (i) ... (B)
+(I) that is received after 1985,
+(II) in respect of which legal expenses described in subparagraph (i) were paid, and
+(III) that is included in computing the income of the taxpayer for the year or a preceding taxation year, or
+...
+[14] The amount permitted to be deducted in paragraph 60(o.1) is the lesser of the legal fees paid and the amount that may be recovered in an action at law. Therefore, paragraph 60(o.1) prevents a taxpayer from deducting an amount of legal fees greater than what the taxpayer may recover. In my view, the amount permitted to be deducted under paragraph 60(o.1) may be deducted only when an amount is actually recovered, if an amount is recovered, from the former employer by legal action or otherwise. Also, there is a seven-year carry-forward provision so that, assuming legal fees are paid, the statute permits those fees to be accrued and deducted over a seven-year period.
+[15] Where does that bring the Appellant having regard to the provisions of paragraphs 8(1)(b) and 60(o.1)? The Respondent concedes that the action in respect of vacation pay is an action for salary or wages. The Respondent maintains that the action for damages for failure to give notice is a claim to a retiring allowance and the related legal expenses may be recovered only under paragraph 60(o.1). The Respondent concedes that proration is in order. I accept the proposition of the Respondent that proration is appropriate in the circumstances of this case. It is a question of determining what fraction the proration will be.
+[16] To help myself in this, I look to the Offer to Settle (Tab 18). Normally a plaintiff who is claiming the sun and the moon in a Statement of Claim will realistically settle for a much smaller star or, if I were to use the metaphor of the Appellant's lawyer against Aquilium, you go for a homerun but you might be happy to hit a single. The Offer to Settle is not a great deal less in terms of inviting settlement from the initial claim. The initial claim is for $1,411,557 and the Offer to Settle is for approximately $1,072,000 which is a difference of approximately $340,000. These amounts are significant but the claim for vacation pay is only $47,000.
+[17] The Offer to Settle itemizes the amounts the Appellant expects in much the same way as his basic Statement of Claim, and I have rounded off some of them. The Appellant claims vacation pay of $47,000 as of May 2000 but now states that, three years later, it is up to $59,000. Those are substantial amounts. He claims a vehicle benefit of $30,000 based on a three-year period; $20,000 for his move from Toronto back to PEI because the employer wanted him in Toronto; and then there are smaller amounts like $6,800 for travel expenses which he had incurred before his termination and which were not reimbursed; and $7,200 for Visa expenses in the same vein. These amounts add up to approximately $118,000; and then he claims three years' salary (which he has reduced from a four-year claim) in the amount of $954,000. It would appear on this basis that his salary was $318,000 per year.
+[18] Again, the dominant amount is the lack of notice claim for $954,000 compared with other items of $118,000. In other words, if Aquilium had settled or paid him the day he was terminated, and he had agreed to one year's salary, some of the other amounts are material, particularly the vacation pay. Of the other items, it is the largest amount. Perhaps the $30,000 vehicle benefit would be reduced to the extent that the three-year salary was reduced in negotiation. Perhaps the $5,300 Blue Cross benefit which was also based on three years would be reduced. There is $118,000 of itemized amounts which are not retiring allowances, and some of them are not salary or wages either.
+[19] Some of those items would be reimbursement for laid-out costs by the Appellant, such as Visa, travel and $1,500 for the IBM Think Pad Computer. In other words, considering the $118,000 of other items, there was enough paid out to merit litigation even if the Appellant did not claim anything in respect of the failure to give him notice. When counsel for the Respondent said he thought that a prorating was appropriate in a case like this, I invited him to help me in that regard. He suggested that because the vacation pay was approximately $47,000 against an initial Statement of Claim for $1,411,557 which is less than 5%, then a 10% proration under paragraph 8(1)(b) would be appropriate.
+[20] I would go higher based on the amounts at issue in the Offer to Settle adding up to about $118,000. In my view, it would be difficult to estimate the Appellant's chances of success concerning the $954,000 in the Offer to Settle or the $1,411,557 in the Statement of Claim. I say that because in Tab 20, the Amended Amended Statement of Claim, the Appellant makes the following statement in paragraph 15 which seems to be against his interest:
+At approximately 9:00 a.m. on June 7, 1999, the Defendant purported to give the Plaintiff verbal notice of his termination; however, the Plaintiff challenged the legal authority of the person purporting to represent the Defendant. Subsequently, on June 7, 1999:
+i. the Plaintiff sent the Defendant a letter of resignation via facsimile and courier around 1:00 p.m.; and
+ii. the Defendant mailed a written termination letter to the Plaintiff at an incorrect address and consequently the Plaintiff never saw that letter until after the commencement of these legal proceedings.
+[21] It does appear that on that June 7, 1999, the Appellant resigned at the same time he was terminated, and anyone can see the obvious arguments which that leads to in his action against Aquilium. It is difficult to speculate on what settlement negotiations might lead to or what a court in PEI might award as to whether there was termination by Aquilium or resignation by the Appellant. Setting aside those speculations, I see grounds for litigation on the other issues and would, therefore, prorate 25% of the legal fees to amounts which would be dominated by vacation pay, and 75% for the claim with respect to retirement allowance. The 75% portion of legal fees is not deductible under paragraph 8(1)(b) because it is in this no-man's-land of a possible retiring allowance representing whatever notice period is justified. The appeal, therefore, is allowed in part only to the extent of permitting the Appellant to deduct 25% of his legal expenses.
+[22] The Appellant has a second claim which I will deal with briefly. That is his claim under the Charter of Rights and Freedoms and specifically section 15 which is the well-known clause providing for equality under the law and a prohibition of discrimination. The Appellant, in his Notice of Appeal, claims discrimination, as I read it, under two headings. He claims that there is a discriminatory treatment under paragraph 60(o.1) because any employer engaged in business would be able to deduct legal fees as part of carrying on the business but a former employee who has been terminated is paying his legal fees out of after-tax dollars unless there is a permitted deduction. Therefore, he appears to be claiming that there is a different tax treatment as between employers and former employees in litigation. Well, there may be but I do not see it as any kind of discrimination which would come within section 15 of the Charter. It is an economic disadvantage of the former employee; and that phrase I take right out of the Appellant's argument. In my view, the economic disadvantage does not discriminate between employers and terminated employees as a class. It is just a fact of life that a plaintiff with a shallow pocket and limited opportunity to deduct legal expenses will find it difficult to litigate against a defendant with a deep pocket and a greater opportunity to deduct legal expenses. I do not see that as a ground of discrimination.
+[23] The Appellant has another ground which is based on his disability. The Appellant was a victim of polio at a very young age and walked with significant impairment but he overcame those difficulties. His business record is a good indication of how successfully he overcame his polio as an infant. However, there is a post-polio syndrome which weakens people who have had polio after a period of 30 or 40 years. The muscles they have had to use to an extra extent to achieve a near normal life in the years after infancy wear out faster than the muscles in a person who has never had polio. The Appellant, at a relatively early age during this period of the 1990s when he was having his dispute with Aquilium, started to lose some of his mobility, particularly in his legs. It can be seen in court today that he travels distances in a wheelchair but he can walk short distances with the aid of canes as he did to the witness box. He claims that, as a disabled person, he is discriminated against under paragraph 60(o.1) because it is much more difficult for him to get employment once he has been terminated, whereas a person who has not been disabled in any way can more easily get backup employment, and finance the kind of legal action which the Appellant is engaged in here.
+[24] In other words, it is easier for a non-disabled person to finance litigation than it is for a disabled person because the non-disabled person will find alternative employment easier. The Appellant recited an interesting statistic in this regard. He said that the rate of unemployment in Canada runs roughly in the range of 7 or 8%, whereas the rate of unemployment among disabled persons runs in the range of 70%, which means it is ten times more difficult for a disabled person to get employment. That may be true but, in order to make a case under section 15 of the Charter, there has to be discrimination against a class of persons. In my view, an economic disadvantage that may pertain to a disabled person is not something imposed by or even accidental to paragraph 60(o.1).
+[25] Paragraph 60(o.1), as I read it, is non-discriminatory. It simply states that the ability to deduct legal expenses paid to recover a retiring allowance, which is the substance of what is involved in the disallowance of 75% of the legal fees in this appeal, is delayed until something is recovered. In my opinion, paragraph 60(o.1) is neutral with regard to all citizens. It does not discriminate against any person by reason of physical disability, religion or race. It simply looks at those persons who have to pay legal expenses to try and recover something like a retiring allowance. It looks at them as a group, neutral in all respects, and states: you cannot deduct your legal expenses until you recover something against which those expenses can be applied. I do not see this as a Charter case either in the class of employers and former terminated employees or as between disabled persons and other persons who have to sue for this kind of damages. Therefore, I do not accept the Charter argument; and would revert to my original decision and allow the appeal only to the extent of permitting the Appellant to deduct 25% of the legal expenses he has paid in 1999.
+Signed at Ottawa, Canada, this 1st day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC190
+COURT FILE NO.:
+2002-1022(IT)I
+STYLE OF CAUSE:
+Stephen Pate and Her Majesty the Queen
+PLACE OF HEARING:
+Charlottetown, Prince Edward Island
+DATE OF HEARING:
+August 26, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+September 4, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Shipley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

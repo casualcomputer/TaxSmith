@@ -1,0 +1,117 @@
+---
+title: "Stricker Oolup v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26883/index.do"
+last_modified: "2003-12-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 947"
+citation2: ""
+neutral_citation: "2003 CCI 947"
+decision_date: "2003-12-30"
+language: "fr"
+item_id: "26883"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 755
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:21:34.424000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f3bb4a2663010a4c1d3c9c4403726b88e0c1c634e7f8f950f08ff8efaf8b6504"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stricker Oolup v. The Queen
+
+- Citation: 2003 CCI 947
+- Decision date: 2003-12-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 755, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stricker Oolup v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-30
+Référence neutre
+2003 CCI 947
+Numéro de dossier
+2003-775(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-775(IT)I
+ENTRE :
+SANDRA STRICKER OOLUP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 octobre 2003 à Toronto (Ontario)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Brent Cuddy
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour de décembre 2003.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI947
+Date : 20031230
+Dossier : 2003-775(IT)I
+ENTRE :
+SANDRA STRICKER OOLUP,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+QUESTION EN LITIGE
+[1] La question en litige est celle de savoir si la somme de 10 000 $ reçue par l'appelante lors de l'année d'imposition 2000 lui appartenait en sa capacité de titulaire survivante d'un compte CPG conjoint ou s'il s'agit d'un revenu qu'elle aurait reçu en qualité d'honoraires d'exécution testamentaire.
+FAITS
+[2] Sandra Oolup est enseignante. Elle est la seule fille d'une famille de cinq enfants. Après le décès de sa mère, elle s'est beaucoup rapprochée de ses grands-parents. Elle les visitait régulièrement et les aidait à gérer leurs affaires. Ses grands-parents ont déposé leurs économies dans un compte CPG conjoint. Le nom de Mme Oolup a été ajouté à ce compte quand ils étaient encore en vie. Son grand-père est décédé en 1996 et sa grand-mère, en 1998.
+[3] Mme Oolup est devenue l'exécutrice testamentaire de sa grand-mère, après que sa tante a refusé d'agir en cette capacité. Puisqu'elle n'avait aucune expérience en matière de succession, Mme Oolup a communiqué avec le seul avocat qu'elle connaissait, un certain M. Shea, qui s'était occupé de la vente de sa maison. Celui-ci l'a informée que, puisqu'elle était titulaire conjoint des certificats du compte CPG, alors les 200 000 $ y investis étaient maintenant sa propriété. La preuve de Mme Oolup démontre qu'elle a accepté le conseil de son avocat, avec qui elle était d'accord. Cependant, pour maintenir l'harmonie familiale, elle a choisi de ne garder que 10 000 $ du compte CPG et de distribuer le reste en parties égales aux enfants de sa grand-mère ou à leurs héritiers.
+ANALYSE
+[4] Le ministre fait valoir que les 200 000 $ du compte CPG faisaient partie de la succession de la grand-mère de Mme Oolup et que les 10 000 $ provenant de ce compte et versés à Mme Oolup constituaient ses honoraires pour services d'exécution testamentaire. Sur le fondement de la présomption de fiducie par déduction énoncée par la Cour suprême du Canada dans l'affaire Niles v. Lake[1], le ministre fait valoir que Mme Oolup a le fardeau de prouver qu'après la mort de sa grand-mère, l'argent investi dans les CPG lui appartenait. Le ministre soutient que le simple fait que les CPG ont été placés dans un compte conjoint ne suffit pas pour réfuter la présomption qu'ils formaient partie de la succession. Pour appuyer son argumentation, le ministre fait appel à la preuve de Mme Oolup : elle a admis qu'elle n'avait pas contribué financièrement à l'achat des CPG, fait qui, dans Hammond v. Hammond[2], a contribué à ce que le demandeur ne réussisse pas à réfuter la présomption. On trouve dans le témoignage de Mme Oolup un argument supplémentaire appuyant la prémisse selon laquelle les CPG faisaient partie de la succession : elle a distribué les fonds déposés dans le compte CPG pour payer les dépenses de la succession; elle a distribué le résidu parmi les membres de la famille en parties proportionnelles aux termes du testament; les 10 000 $ ont été qualifiés de [traduction] « Honoraires de l'exécutrice » dans le formulaire intitulé « Distribution et renonciation » préparé par son avocat. Le ministre fait valoir que la preuve dans son ensemble mène à la conclusion que les CPG faisaient partie de la succession et que les 10 000 $ ont été versés à Mme Oolup en tant qu'honoraires d'exécution testamentaire. Il en découle que les 10 000 $ auraient dû être ajoutés au revenu de Mme Oolup pour l'année d'imposition 2000.
+[6] Mme Oolup fait valoir que sa preuve réfute la présomption. Dans son témoignage non contredit, elle a déclaré que sa grand-mère lui disait continuellement qu'elle voulait que les fonds placés dans les CPG lui appartiennent après sa mort. Cela distingue la situation de Mme Oolup des faits dans l'affaire Hammond où le demandeur a admis que sa mère n'a jamais dit avoir ouvert le compte conjoint pour que, après sa mort, l'argent appartienne au demandeur. Un autre facteur défavorable au demandeur dans l'affaire Hammond est le suivant : la seule raison pour laquelle un compte conjoint a été ouvert était pour que le demandeur puisse payer les factures de sa mère. Selon la preuve non contestée de Mme Oolup, les fonds des CPG n'étaient pas utilisés pour effectuer des opérations financières de tous les jours; sa grand-mère avait plutôt maintenu un autre compte de chèques distinct et en son nom seul à ces fins, que Mme Oolup utilisait pour s'occuper de ces affaires, munie d'une procuration octroyée par sa grand-mère.
+[7] Mme Oolup est un témoin crédible. Son explication des événements est raisonnable dans le cadre des circonstances uniques de l'affaire en espèce et de la réalité de la dynamique familiale. Bien qu'elle ait accepté l'avis de son avocat que les fonds placés dans les CPG lui appartenaient en tant que titulaire survivante du compte conjoint, elle [traduction] « ne se sentait pas à l'aise » avec l'idée de garder tout l'argent pour elle. Elle savait que sa grand-mère désirait que les CPG lui appartiennent en raison de tous les moments qu'elles avaient passés ensemble. Cependant, elle a trouvé répugnante l'idée que ses parents puissent songer que son dévouement pour ses grands-parents ait été motivé par l'argent. Pour éviter cela, elle a choisi de partager tout l'argent placé dans « ses » CPG avec sa famille, à l'exception des 10 000 $.
+[8] Pour répondre aux déclarations du ministre au sujet de l'effet de l'élément de preuve documentaire, Mme Oolup fait valoir que la simple qualification de [traduction] « Honoraires de l'exécutrice » , apposée aux 10 000 $ dans la lettre afférente au formulaire courant Distribution et renonciation, ne tranche pas la question en litige. Selon son témoignage, ce document avait été préparé [traduction] « par habitude » et, dans les paroles de son avocat, « [...] pour des raisons de commodité » . Compte tenu du fait qu'il s'agit de sommes modiques, ainsi que de la générosité unique de Mme Oolup, l'emploi du formulaire d'usage courant, plus ou moins applicable, par M. Shea nous fournit une preuve pratique, quoique imprécise, de l'opération. Selon la preuve présentée, la décision de Mme Oolup de partager l'argent des CPG en parties égales entre les quatre enfants de sa grand-mère est compatible avec le désir de maintenir la famille en paix et avec le désir de donner effet aux termes du testament.
+[9] La Cour est satisfaite que selon la prépondérance des probabilités, l'appelante a réfuté avec succès la présomption de fiducie par déduction et que les fonds des CPG lui appartenaient à la suite du décès de sa grand-mère. Par conséquent, les 10 000 $ gardés par l'appelante en sa capacité de titulaire survivante du compte conjoint n'ont pas été reçus en tant qu'honoraires d'exécution et ne doivent pas être ajoutés au revenu en vertu du paragraphe 5(1).
+[10] L'appel est accueilli.
+Signé à Ottawa, Canada, ce 30e jour de décembre 2003.
+Juge Sheridan
+Traduction certifiée conforme
+ce 5e jour de mai 2004.
+Ingrid B. Miranda, traductrice
+[1] [1947] S.C.R. 291.
+[2] [1995] B.C.J. No. 1153.

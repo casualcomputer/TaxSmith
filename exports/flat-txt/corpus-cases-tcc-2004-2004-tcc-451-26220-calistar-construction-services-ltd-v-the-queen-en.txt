@@ -1,0 +1,159 @@
+Title: Calistar Construction Services Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26220/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-451-26220-calistar-construction-services-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-06-28
+
+# Calistar Construction Services Ltd. v. The Queen
+
+- Citation: 2004 TCC 451
+- Decision date: 2004-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4017, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calistar Construction Services Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-28
+Neutral citation
+2004 TCC 451
+File numbers
+2003-4546(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-4546(GST)I
+BETWEEN:
+CALISTAR CONSTRUCTION SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 8, 2004, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Mark Chechotko
+Counsel for the Respondent:
+Karen Wood
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act notice of which is dated January 17, 2003, and bears number 10BT0200533, for the period August 1, 1999 to July 31, 2001 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment only on the basis that the Appellant is entitled to the input tax credit of $743.40.
+The Appellant is not entitled to any further relief.
+Signed at Ottawa, Canada, this 28th day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC451
+Date: 20040628
+Docket: 2003-4546(GST)I
+BETWEEN:
+CALISTAR CONSTRUCTION SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Appellant, Calistar Construction Services Ltd., raises three issues in its appeal of the Minister of National Revenue (the Minister) assessment of its goods and services tax (GST) liability:
+(i) the denial by the Minister of input tax credits (ITCs) of $743.40 in connection with the construction of a bison fence;
+(ii) the denial by the Minister of the ITCs of $392.59 in connection with work provided by RC Electro Comp; and
+(iii) the imposition of penalties pursuant to section 280 of the Excise Tax Act (the Act).
+[2] The Appellant was owned entirely by Mr. Mark Chechotko. The Appellant was in the business of clearing, preparing and cleaning sites so oil companies could establish an oil or gas well, of building and maintaining gravel paths to such sites and of extracting, processing and supplying gravel and sand out of a gravel pit. In the summer of 2000, the Appellant had a contract with Kensington Energy Ltd. to prepare a site on the property of Mr. Richard Woloszyn, a cousin of Mr. Chechotko. Mr. Woloszyn kept bison on his property. It was determined, in conjunction with the oil company's consultant, that a fence would be required to keep the bison out of the site, and that Mr. Woloszyn would be the person most capable of constructing such a fence, which he did. He rendered an invoice to the Appellant for such work in the amount of $10,620 plus GST of $743.40. The invoice was a printed form with the name "Laurich Farm Supply Centre" at the top of the invoice. Someone, presumed by Mr. Chechotko to be Mr. Woloszyn, crossed out "Laurich Farm Supply Centre" and wrote in "Richard Woloszyn". There was a GST number at the bottom of the invoice. The Appellant included this work in its invoice onto Kensington Energy Ltd. The Appellant then paid Mr. Woloszyn the full amount of $11,363.40.
+[3] The invoice from RC Electro Comp in the amount of $6,001.03, including $392.59 of GST, was primarily for materials in connection with a gravel crusher. The invoice is dated December 3, 1999. It was paid by the Appellant on December 16, 1999. The invoice was addressed to the Appellant's address, but in the space where there had been a name, the name had been whitened out. It was clear however that the name whitened out was Allied Gravel Sales. Mr. Chechotko explained that he was a part owner of Allied Gravel Sales in 1999, but some time through the summer of 1999 Allied Gravel had shifted its sand and gravel operation over to the Appellant. When questioned initially by the Crown on cross-examination as to what vehicles and equipment were owned by the Appellant, Mr. Chechotko made no mention of any crusher.
+[4] Mr. Chechotko acknowledged that a mistake had been made in reporting GST, by improperly claiming ITCs in January 2001 of $8,431.56, which was the net tax remitted by the Appellant to the government in the previous period. Mr. Chechotko referred to this as a bookkeeping error. He admitted that neither he nor his wife, a nurse by profession, had experience with bookkeeping. Mr. Chechotko's wife tried to manage the paperwork, with some difficulty, every week or two. According to Mr. Chechotko, this was a time of expansion and money was tight, so no regular bookkeeping assistance was sought. At year end all the records were provided to an accountant for year end statements. The Appellant was assessed a penalty of $1,311.01.
+Analysis
+Bison Fence ITC
+[5] The first issue is the Appellant's entitlement to an ITC in connection with the bison fence. There is no question the Appellant had the work done and paid for it, including paying the GST. While the Respondent's pleadings suggest that the fence was not used in commercial activity, this was not pursued at trial. The sole issue is whether the supporting documentation in connection with this ITC complies with the requirements of subsection 169(4) of the Act and section 3 of ITC Information Regulations:
+Excise Tax Act
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+...
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+ITC Information Regulations
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) here an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) he total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) he name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the "total tax rate") of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[6] The Respondent pleaded in the Reply to the Notice of Appeal, not as an assumption, but as an "Other Material Fact" the following:
+11. The registration number that was listed on the documentation provided by the Appellant to support the input tax credit of $743.40, which it claimed with respect to the payment allegedly made to Richard Woloszyn, was not assigned to Richard Woloszyn.
+There was no evidence as to whom the GST number on the invoice from Mr. Woloszyn belonged, though there is a presumption it was assigned to Laurich. There was no evidence, however, whether Laurich was a separate entity or simply a trade name of Mr. Woloszyn's. There was also no evidence whether Mr. Woloszyn or Laurich did or did not remit the GST. Mr. Chechotko, when asked if he had any evidence to refute the Respondent's assertions in paragraph 11 of the Reply, acknowledged that he had not. He confirmed that he simply paid the GST, relying on the invoice.
+[7] I do not intend to wade into the mandatory versus directory debate surrounding the requirements of ITC Information Regulations (see cases of Helsi Construction Management Inc. v. R.[1] and Jospeh Ribkoff Inc. c. R.).[2] This informal procedure case can be decided on a different basis.
+[8] In determining whether the GST number on the invoice was the number of the supplier, Mr. Woloszyn, I am left with very little evidence. The Respondent has not proven the number was not assigned to Mr. Woloszyn: the Respondent presented no evidence, but simply relied on Mr. Chechotko's testimony. Mr. Chechotko has not proven the GST number was assigned to Mr. Woloszyn - he does not know. But he has presented the invoice. What should I take from the invoice? Is it prima facie proof of a GST number assigned to Mr. Woloszyn or prima facie proof of a GST number assigned to an entity other than Mr. Woloszyn? Does the crossing out of "Laurich Farm Supply Centre" and insertion of "Richard Woloszyn" alter a presumption that the GST number on an invoice delivered by a supplier is the supplier's GST number? I do not believe it does. That invoice meets the requirements of subsection 169(4) of the Excise Tax Act and the Input Tax Credit Information Regulations, unless I am presented with clear evidence to the contrary. I would have thought this would be an easy matter for the Respondent to provide, as such information is certainly more readily available to the Respondent than to the Appellant, yet the Respondent presented no evidence. Reliance on Mr. Chechotko's testimony, which was to the effect that he did not know, falls far short of proving the GST number was not Mr. Woloszyn's. I therefore find the Appellant has complied with subsection 169(4) of the Act and the Input Tax Credit Information Regulations, and is entitled to the ITC of $743.40.
+RC Electro Comp ITC
+[9] With respect to the invoice from RC Electro Comp, I find the original invoice was addressed to Allied Gravel, acknowledged by Mr. Chechotko to be a separate entity. I also find that the invoice was paid by the Appellant. The materials invoiced are shown as being supplied over the period August to November 1999. Mr. Chechotko testified that it was sometime in the summer of 1999 the gravel operation shifted from Allied to the Appellant, though he was not definite on this point. It is impossible to tell from the invoice whether the supplies were received by the Appellant or Allied Gravel.
+[10] The Respondent's position is first, that Allied Gravel, and not the Appellant, was the recipient of the supply; second, even if the Appellant was the recipient, the supporting documentation has not met the requirements of the ITC Information Regulations, as the supporting documentation does not contain the recipient's name. Given Mr. Chechotko's uncertainty as to the timing of the Appellant taking over Allied Gravel's business, the lack of any documentation in connection with that transaction, the fact that the only supporting documentation, as required by the ITC Information Regulations, evidences an invoice in the name of Allied Gravel and the lack of mention by Mr. Chechotko of the crusher as being part of the Appellant's equipment, leads me to conclude that it was Allied Gravel, and not the Appellant, who was the person who acquired property, as required by subsection 169(1) of the Act. The Appellant, although the payor, is therefore not entitled to the ITC.
+Penalties
+[11] Finally, I turn to the issue of the penalty assessed pursuant to section 280 of the Act. It is well established that the taxpayer can be relieved of this penalty if the Court is satisfied the taxpayer exercised due diligence in attempting to comply with the requirements of the Act (see Pillar Oilfield Projects Ltd. v. Canada,[3]Canada (Attorney General) v. Consolidated Canadian Contractors Inc. (C.A.),[4] and more recently Corporation de L'École Polytechnique c. Canada).[5] This latter case summarizes the appropriate principles in reviewing the due diligence of the taxpayer. Briefly, acting in good faith is not sufficient to meet the due diligence defence; it is met only if a reasonable person would have committed the error at issue in the same circumstances: a more demanding test.
+[12] What did the Appellant do that a reasonable person in similar circumstances would have done to avoid the mistake, the mistake being claiming a prior period's net tax as an ITC in the subsequent period? Very little. I accept the Appellant's contention that, as a registrant, he has been put in the position of serving as the government's collection agent in a system of complicated laws and regulations. He is indignant that in giving it his best effort, but making a mistake, he will be penalized. This attitude is certainly understandable, if the taxpayer has acted reasonably to avoid the mistake. I am not satisfied however that Mr. Chechotko did act in this case with the requisite degree of diligence.
+[13] The mistake was not a bookkeeper error, as Mr. Chechotko described it, but a mistake of law. The Appellant claimed as an ITC something that was not eligible for such treatment. Any inquiry of Canada Customs and Revenue Agency or a bookkeeper or an accountant would have quickly revealed that no ITC was available in such circumstances. But Mr. Chechotko's evidence was that money was tight and his wife, untrained in bookkeeping, was left to look after the GST filings. Neither of them knew the law. This is not at all surprising given the complexity of the legislation. It would be unrealistic to expect them to know. It is not however, unrealistic or unreasonable to expect them to ask someone. This was not a matter of an adding mistake or a decimal point in the wrong place. This was a case of claiming ITCs for a prior period's net tax owing - a fundamental error in the application of the GST scheme, an error that with minimum inquiry, could have been avoided.
+[14] The Appellant's argument is tantamount to a position that, because he is a registrant and is providing a service on behalf of the government, it is unjust that he should be penalized for a mistake. The flaw in this approach is that it is missing the following proviso: "provided I have acted reasonably to avoid the mistake". Although it may appear to Mr. Chechotko at the time of rapid expansion and tight money, that corners could be cut by not seeking proper advice, that was not a prudent course to follow and not a course a reasonable person in similar circumstances would have followed. I find the defence of due diligence has not been established to relieve the Appellant of the penalty pursuant to section 280 of the Act.
+[15] In summary, the appeal is allowed with respect to the availability of the ITC of $743.40, but with no further relief available to the Appellant.
+Signed at Ottawa, Canada, this 28th day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC451
+COURT FILE NO.:
+2003-4546(GST)I
+STYLE OF CAUSE:
+Calistar Construction Services Ltd. and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+June 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+June 28, 2004
+APPEARANCES:
+Agent for the Appellant:
+Mark Chechotko
+Counsel for the Respondent:
+Karen Wood
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2001] G.S.T.C. 396 (T.C.C.) affirmed [2002] G.S.T.C. 113 (F.C.A.).
+[2] [2003] G.S.T.C. 104 (T.C.C.).
+[3]
+[1993] T.C.J. No. 764.
+[4] [1999] 1 F.C. 209.
+[5] 2004 FCA 127.

@@ -1,0 +1,333 @@
+---
+title: "Ackles v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30186/index.do"
+last_modified: "2011-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 57"
+citation2: ""
+neutral_citation: "2011 TCC 57"
+decision_date: "2011-01-28"
+language: "en"
+item_id: "30186"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7735
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:54:36.496000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f58200d18d355d7ec6a1bcc3280cadd7e6bf493850bee76b593d52925807b8d7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ackles v. The Queen
+
+- Citation: 2011 TCC 57
+- Decision date: 2011-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7735, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ackles v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-28
+Neutral citation
+2011 TCC 57
+File numbers
+2007-4009(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4009(IT)G
+BETWEEN:
+GARY J. ACKLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 16, 2010, at Prince George, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 28th day of January 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 57
+Date: January 28, 2011
+Docket: 2007-4009(IT)G
+BETWEEN:
+GARY J. ACKLES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant resides in Dawson Creek, British Columbia.
+[2] The Appellant was the founder of Aquatic Cellulose International Corporation (the “Corporation”).
+[3] The Corporation was a publicly traded company incorporated in the State of Nevada in March, 1996.
+[4] The Corporation had a fiscal year end of May 31.
+[5] The Appellant was the President, Chief Executive Officer, a director and a shareholder of the Corporation until he resigned on March 26, 2003.
+[6] The Appellant had developed and patented technology that was used to harvest submerged timber.
+[7] The Minister of National Revenue (the “Minister”) maintains that the Appellant gave the Corporation a license to use the technology that the Appellant had developed.
+[8] In the Reply, the Minister states that, from April 1, 2003 to February 2004, the Appellant acted in an advisory capacity and performed various duties for the Corporation pursuant to a Consulting Agreement between the two parties.
+[9] The Appellant said that the Corporation was going to pay him a consulting retainer of $5,500 per month for a minimum of six months. The Appellant said, “… I never did an hour’s work for them. …” (Transcript, page 32, lines 12-13). The Appellant also said that he never received a consulting fee from the Corporation (Transcript, page 32, lines 10, 15 and 16).
+[10] In the Reply, the Minister maintains that, during the Corporation’s 1999 fiscal year, the Appellant borrowed US$97,500 from the Corporation to finance the Appellant’s exercise of an option to purchase shares of the Corporation (the “Shareholder Debt”). The Appellant denies this statement.
+[11] On February 22, 2000, the Appellant purchased shares of the Corporation.
+[12] The Minister maintains that, as of May 26, 2003, the Appellant was owed US$395,733.34 by the Corporation for the following amounts (the “Corporate Debt”):
+a) Unpaid Wages (“Consulting Fees”) US$293,774.82
+b) Reimbursement of Expenses US$19,140.74
+c) Severance US$82,817.78
+[13] On or about May 26, 2003, Sheridan Westgarde replaced the Appellant as President and Chief Executive Officer of the Corporation.
+[14] The Minister maintains that, on May 26, 2003, the Appellant entered into an agreement with the Corporation (the “Agreement”). Pursuant to this Agreement, the Shareholder Debt of US$97,500 was set off against the Corporate Debt (the “Consideration”).
+[15] The Minister also maintains that, since the Appellant received the Consideration, the Shareholder Debt was eliminated and the Corporate Debt was reduced by the amount of US$97,500 as follows:
+US$395,733.34
+- 97,500.00
+US$298,233.34
+[16] The Minister also maintains that the Consideration, in the amount of $133,653(Cdn) (US$97,500), was a taxable benefit received by the Appellant by virtue of his office or employment with the Corporation in the 2003 taxation year.
+[17] The Minister maintains that the Appellant transferred 3.6 million shares back to the Corporation to facilitate a loan to the Corporation. (Note: According to a letter dated March 27, 2003, the Appellant transferred 15,510,214 shares, having a value of US$310,204, back to the Corporation.)
+[18] The Minister said that the Appellant continued to trade shares in the Corporation throughout 2003, up until December 2003. The Appellant admitted that he traded a number of shares of the Corporation but said that he paid tax on any gains realized on the sale of shares of the Corporation. (Note: I have reviewed the Appellant’s income tax returns for the 2000, 2001 and 2002 taxation years and these tax returns confirm the Appellant’s statement that he included capital gains on the sale of the shares of the Corporation in his income for the years in question.)
+[19] A further point in issue is the transfer of funds by the Appellant to his son, Sean, by Western Union wire, in the amount of $24,000 (Cdn). The Appellant deducted the amount of $24,000 in computing his income for the 2003 taxation year.
+B. ISSUES TO BE DECIDED
+[20] The issues are:
+a) Did the Appellant receive the Consideration of $133,653 (Cdn) as a benefit by virtue of his office or employment with the Corporation during the 2003 taxation year?
+b) Is the Appellant allowed to deduct the amount of $24,000 that was transferred to his son Sean?
+C. ANALYSIS:
+[21] During the hearing, the Appellant testified that he had developed robotic technology which could be used to harvest submerged trees.
+[22] The Appellant said that originally he was looking at Canada as being the primary market for harvesting submerged wood but he said that the value of the submerged wood in Canada was not there (Transcript, page 16, lines 19-22).
+[23] The Appellant explained the robotic technology as follows:
+…I developed the technology and it was able to reach down under the water and grab these trees, cut them off and then retrieve them to the surface. …
+(Transcript, page 19, lines 18 to 20)
+[24] The Appellant also testified that, after reviewing various business possibilities, he decided to use the robotic technology to harvest some of the trees that were flooded in the Tucurui reservoir located some 200 miles from the mouth of the Amazon River in northern Brazil. The Appellant said that there were approximately 450,000 hectares of inundated forest of high quality wood in the reservoir, i.e., trees such as mahogany, masaran duba, jatoba and redwood (Transcript, page 15, lines 3 to 5).
+[25] The Appellant said that the Corporation harvested thousands of trees in Brazil but there were some unscrupulous individuals who robbed a lot of their wood as they brought it into port (Transcript, page 21, lines 13 to 18).
+[26] The Appellant said, “…literally our wood was being taken away and being sold elsewhere.” (Transcript, page 27, line 25 to page 28, line 1).
+[27] The Appellant said that he had lost several hundred thousand dollars of his own money in the attempt to harvest submerged wood in Brazil (Transcript,
+page 29, lines 23 to 24).
+[28] The Appellant also said that he had put all of his shares back into the company (i.e. the Corporation) to try to keep the company going (Transcript, page 29, line 24 to page 30, line 1).
+[29] Counsel for the Respondent said that the amount of US$55,000 per month for consulting fees is not the basis of the assessment (Transcript, page 41, lines 23 to 25). (Note: My comments - this number should probably be US$5,500 per month, not US$55,000, in accordance with the evidence of the Appellant.)
+[30] Counsel for the Respondent said, “… The basis of the assessment is A-7, the document at A-7 and then the set off…” (Transcript, page 41, line 25 to page 42, line 2). Counsel for the Respondent referred to Exhibit A-7 and said:
+That's the one that details the amounts that are owed to him for salary and wages, reimbursement of expenses and severance and discuss the detail and calculates this set off of the $97,500 with respect to the options.
+(Transcript, page 42, lines 7 to 11)
+[31] Counsel for the Respondent also said:
+Mr. Majawa: With the exchange rate of, I believe at the time was 1.3708, that comes out to $133,000. And the basis of the assessment is of course set out in the Reply. The reason for it is that Mr. Ackles borrowed money from the company in the company's 1999 fiscal year to exercise options to purchase shares. When he left the company he and Mr. Westgarde agreed that that $97,500 loan would be forgiven or set off against the amounts still owing to him. That forgiven is what –
+Justice: So are you saying $97,500 is the promissory note?
+Mr. Majawa: Correct. That’s right.
+Justice: Or outstanding note, it says.
+Mr. Majawa: That’s right, the outstanding note.
+Justice: And you say that that amount translates into Canadian dollars [$]133,000?
+Mr. Majawa: That’s correct. …
+(Transcript, page 44, lines 7 to 24)
+[32] The Appellant denied that he owed money to the Corporation to exercise the stock option. The Appellant said:
+… Now there was nothing ever called. They are trying to represent this [$]97,500 as being called, somehow I was called on this. It was never the case. There was never any calling of any kind. "The balance owed to the company was offset as offsets against unpaid wages due Gary Ackles." This is fabrication. I have never seen this before it was presented to me, and I had no input into any of this whatsoever. I think this is strictly an accounting sleight of hand to reduce the debts that were on the books, I would imagine. And I have never been notified of this. And it is surprising how somehow I get pegged with having to pay $100,000 but yet the other two shareholders were -- the loans were forgiven. Just, bingo. But yet Gary Ackles somehow has $100,000, right?
+(Transcript, page 51, line 15 to page 52, line 4)
+[33] The Appellant also said:
+… But why would he put [$]132,000 owed to Mr. Westgarde and Gary Ackles for unpaid consulting fees? I never received any. And this document was news to me when I received it. Again I had nothing to do with it. I was long gone from this company before this stuff happened.
+(Transcript, page 54, lines 11 to 16)
+[34] The Appellant also said:
+… This debt of 97 [$97,000] is an option based on shares that basically all the shares were back in the company so there was no possible way I could have ever had a financial gain when the shares that I had were already in the company. So I imagine that is about all I can say about that is I do feel that there was no financial gain whatsoever. The shares had gone back into the company, the company owed me huge volumes of money at that time, which I never received, and again, I guess unfortunately this document surfaced and I would have signed it based on where my mind was at the time, which is sometimes hard to get my head around right now. But anyway.
+(Transcript, page 55, line 16 to page 56, line 2)
+[35] On cross-examination, Counsel for the Respondent referred to the transfer of the licensing fees and said:
+All right. And in this letter you mention that and you say that "all outstanding licensing fees are still owed and must be paid in cash or shares at my discretion". So this was another one of those amounts owing to you that you want to make sure you document for the record?
+(Transcript, page 80, lines 16 to 25)
+[36] Counsel for the Respondent asked the Appellant if he borrowed money from the Corporation. The following exchange occurred:
+[Mr. Majawa:] Q Okay, now the reference there in that paragraph to the options being issued to you, you have already admitted in the request to admit that that was a true state of affairs, that you were issued an option to purchase shares and you borrowed the money from the corporation to do so.
+[Appellant:] A No, I didn't borrow any money from the corporation. They got their -- the shares went right back into the company, so there was never a financial gain. I never borrowed money from the company, believe me.
+(Transcript, page 94, lines 3 to 13)
+[37] A further exchange between the Appellant and Counsel for the Respondent occurred:
+[Mr. Majawa:] Q But you said yes that you agreed that you borrowed [$]97,500 from the corporation to finance the purchase of the option.
+[Appellant:] A But the overriding factor is the money was put back into the company.
+[Mr. Majawa:] Q I take your position.
+[Appellant:] A No financial gain.
+[Mr. Majawa:] Q I understand your position, but you do agree that you -- to exercise the option to purchase the shares, you borrowed the money. Regardless of what happened afterwards that you borrowed the money to purchase those shares?
+[Appellant:] A I didn't borrow anything.
+[Mr. Majawa:] Q Well, you said yes here that you did borrow.
+[Appellant:] A Well again, maybe it is a misstatement. Maybe I should have looked at this thing a little bit closer. I never borrowed a dime from this company. Ever. I guess I should have maybe not filled this out at all and discussed all these things while we were here.
+(Transcript, page 95, line 22 to page 96, line 17)
+[38] Counsel for the Respondent referred to the Securities Exchange Commission (“SEC”) filing by the Corporation and asked the Appellant to agree that the Corporation granted the Appellant options. The Appellant said:
+A It is correct, but we have to also look at this and say, "Okay, we have options to the directors, right? Why at the end of the day would they say, "Okay, we are going to exercise -- we need to call Gary's note and we'll cancel the other two directors notes"? I just think there is something foul there. So they are cancelling two directors notes, except for Gary's. Why? Because they want to keep writing me down on the books and getting rid of me, possibly.
+(Transcript, page 103, lines 12 to 20)
+The Appellant also said:
+… Obviously when they owe you the kind of money in shares they owed me, believe me I had no delusion in my mind that somehow I owed them money.
+(Transcript, page 105, lines 19-21)
+[39] Counsel for the Respondent also asked the Appellant to comment on another SEC filing which referred to the offset of the amount alleged to have been owed by the Appellant to the Corporation. The Appellant said:
+… They are trying to reduce their debt within the company and do it at anybody's expense, and it was obviously at mine. That statement is just as unrealistic as the one that says "The remaining two loans were forgiven to the other two directors." Just a broad statement. They are forgiving other directors but somehow they are not forgiving Gary. It's the damnedest thing I've ever seen.
+(Transcript, page 112, lines 16 to 23)
+[40] There is a further reference to the alleged loan at page 116. Counsel for the Respondent said:
+[Mr. Majawa:] Q Okay. Now, we referenced this or you referenced this during your evidence in chief but if you turn to tab 18, and this is the SEC filing for the fiscal year ending May 31st, 2005. So again this is after you've left. The last paragraph on the third page of that tab says:
+"During the fiscal year ended May 31st, 2003 approximately $100,000 of loans made to a director for the exercise of company stock option was called by the company."
+Now, did that never happen?
+[Appellant:] A It never happened.
+[Mr. Majawa:] Q There was never a call?
+[Appellant:] A There was never a call.
+(Transcript, page 116, lines 10 to 23)
+[41] Counsel for the Respondent asked a further question:
+[Mr. Majawa:] Q From your responses and some of the evidence you gave in your evidence in chief my understanding of your position is that even though the letter at tab 13, the agreement at tab 13 is clear as to what it provides for, that you didn't feel that you were indebted to ACIC because you had returned all of those other shares. Is that a fair characterization of your position?
+[Appellant:] A Shares and money. They got huge amounts of my money also. I would sell shares and put that money into the company. I mean whatever it took to do it. So believe me there was no dilution to indebtedness.
+[Mr. Majawa:] Q I mean your position at the end of the day, I take it is that "They owed me a lot of money."
+[Appellant:] A A lot of shares.
+[Mr. Majawa:] Q Lot of shares.
+[Appellant:] A Option shares, all went back in the company everything.
+[Mr. Majawa:] Q So, but so it didn't bother you at the time to sign this agreement at tab 13, because you realized, "Well I owed -- I exercised this option and this happened, I can reduce that amount because they still owe me a lot more than that."
+[Appellant:] A They owed me so much that this was, obviously again, where I was at that point in time I just don't think it mattered. It was closure.
+(Transcript, page 117, line 14 to page 118, line 15)
+[42] In his argument, the Appellant said:
+… the reality is the company did not have -- was not in a position and would never be in a position to be able to repay me any of this money that was owed to me. That's where my head was coming from at that time.
+(Transcript, page 167, lines 17 to 21)
+[43] In essence, the Appellant believes that since he never received the money in question from the Corporation, he should not have to pay tax on the money.
+Gold Mining Expenses of $24,000 Claimed by Appellant
+[44] The Appellant said that after he left the Corporation in March of 2003, he and his son Sean began to pursue the business concept of using the robotic technology that he had developed to locate gold in the Amazon region of Brazil.
+[45] When the Appellant filed his income tax return for the 2003 taxation year, he claimed expenses of $24,000 in connection with the gold mining venture.
+[46] The Appellant said that he transferred $24,000 (approximately $2,000 per month) to his son by wire transfers sent by Western Union to Brazil (Transcript, page 131, lines 17 to 19).
+[47] The Appellant admitted that he sent his son more than $24,000 (Transcript, page 138, lines 10 to 17). (Note: There was also a reference in the documents to the fact that some of this money was sent to Ms. Bichara for translation services provided by her. Ms. Bichara was Sean’s girlfriend at the time and she is now his wife.)
+[48] The Appellant admitted that he cannot tell from the list of wire transfers sent to his son what amount went to what functions (Transcript, page 142, lines 14 to 20).
+D. CONCLUSION RE: $133,653
+[49] As noted above, Counsel for the Respondent stated, on page 41 of the transcript, that the basis of the Assessment is found in Exhibit A-7. A-7 reads as follows:
+May 26, 2003
+Gary Ackles
+[…]
+[…]
+Mr. Ackles
+This letter is in regards to share options issued to you at the price of $0.03 per share resulting in 3,250,000 of Aquatic Cellulose International Corp. shares issued to you in February of 1999. As we have agreed, I have deducted this amount from the amount owed to you in missed wages, expenses and severance. Please note the following calculation and if you agree please sign and return it to me.
+Thank You
+[Calculation US Dollars Conv@1.35]
+Amount owed to you.
+Missed Wages $396,596.00 [CAN] - $293,774.82
+Missed Expenses $25,840.00 [CAN] - $19,140.74
+Missed Severance $111,804.00 [CAN] - $82,817.78
+Total -$395,733.34
+Less your outstanding note. - $97,500
+Balance owed to you -$298,233.34 [US]
+Note: This calculation does not include outstanding licensing fees or calculations for shares you have loaned the company.
+Sincerely,
+Acknowledged:
+“Sheridan Westgarde” “Gary Ackles”
+Sheridan Westgarde Gary Ackles
+President/CEO
+[50] I have carefully reviewed the words contained in the letter and I have concluded that the words contained in this letter are inconsistent and not reliable when compared to some of the other documents. I have reached this conclusion for the following reasons:
+(a) Sheridan Westgarde provided the Appellant with a letter dated May 30, 2006. This letter reads as follows:
+May 30, 2006
+Mr. Gary Ackles
+Dear Gary;
+Gary please note the following responses I have to your situation with Revenue Canada and the subsequent complaint you have levied with us;
+· I certainly acknowledge the fact that the, approximately, $97,000 dollar loan reimbursement was discounted from the aggregate value of of [sic] the total funds Aquatic owed you at the time and that it was never discussed what these funds represented.
+· Additionally, I would like to remind you that, I think as far back as 2002, we have made continual acknowledgement of the shares that you loaned back to the Company.
+· Given the fact that you did loan shares back to the company it does seem difficult to understand the tax implications since it would appear that until that account is settled you would not have benefited financially.
+Respectfully,
+“Sheridan Westgarde”
+Sheridan Westgarde
+Director/CEO
+(Exhibit A-8)
+It will be noted that Mr. Westgarde stated: “… as far back as 2002, we have made continual acknowledgement of the shares that you loaned back to the Company.” In his letter, Mr. Westgarde also said: “Given the fact that you did loan shares back to the company it does seem difficult to understand the tax implications since it would appear that until that account is settled you would not have benefited financially.”
+(b) I also refer to a letter from Sheridan Westgarde to the Appellant dated March 27, 2003 (Exhibit R-1, Tab 11). This document reads as follows:
+March 27, 2003
+Gary Ackles
+[…]
+[...]
+Mr. Ackles,
+I, Sheridan Westgarde, hereby acknowledge the debt owed to Gary Ackles of $534,240.00 [ĈDN].
+This amount represents $396,596.00 in outstanding wages, $25,840.00 in expenses and $111,804.00 represents a minimum severance package as stated in section 7.1 of your Service Agreement dated November 1, 2000.
+I also acknowledge 15,510,214 free-trading Aquatic Cellulose International Corporation shares having a cash value of $310,204 [US] at the time of transaction and owed to you as per a loan agreement. Your shares were returned to treasury to facilitate ongoing Aquatic Cellulose International Corporation operations.
+I wish to continue to use your services on an “as required” consulting basis during the transition phase and into the future at a retainer of $5500.00US per month for a minimum of six months.
+Sincerely,
+“Sheridan Westgarde”
+Sheridan Westgarde
+President/CEO
+It will be noted that Mr. Westgarde states that 15,510,214 free-trading shares of the Corporation having a cash surrender value of US$310,204 were returned to Treasury by the Appellant to facilitate the Corporation’s ongoing appeals. The records do not show that officials of the Canada Revenue Agency (“CRA”) realized or recognized that the Appellant had a capital loss of $310,204 or any loss re the shares that were transferred back to the Corporation.
+(c) Finally, I refer to a memorandum dated July 10, 2004:
+SETTLEMENT AGREEMENT
+JULY 10, 2004
+THIS MEMORANDUM OF UNDERSTANDING MADE this ____ day of _______ 2004.
+1. PARTIES TO THIS AGREEMENT
+1.1 The following entities will hereinafter be referred to collectively as the “Parties”.
+1.2 Aquatic Cellulose International Corporation, hereinafter referred to as “Aquatic”, is a publicly traded company incorporated under the laws of the state of Nevada of the United States of America and traded on the “Pink Sheets”, trading symbol AQCI, the Chairman and CEO being
+Mr. Sheridan B. Westgarde, a resident of Vernon, British Columbia Canada.
+1.3 Legacy Systems Corporation, hereinafter referred to as “Legacy”, is a 100% privately owned company and incorporated under the laws of the state of Nevada of the United States of America, the Owner and President being Mr. Gary J. Ackles a resident of Vernon British Columbia Canada.
+1.3.1 Gary J. Ackles, hereinafter referred to as “Ackles”, is an individual residing in the city of Vernon British Columbia Canada.
+2. SCOPE OF THIS AGREEMENT
+2.1 This document is the primary instrument for establishing the particulars regarding;
+2.1.1. The settlement of all outstanding debt owed to Ackles for unpaid wages, licensing fees and stock returned to treasury totaling $555,889[US].
+2.1.2. The settlement of note owed to Legacy by Aquatic totaling $44,000 and ownership of the ATH mechanical assembly built and stored at Beaver Manufacturing Kamloops BC, Canada.
+2.2 It is here stated that the bodies of the respective board of directors and or principal parties of the respective parties have unanimously agreed to enter into this agreement.
+2.3 The terms of this settlement may only be amended in writing signed by all parties.
+3. ATH MECHANICAL ASSEMBLY & $44,000 LOAN
+3.1 Legacy hereby exercises its right to forgo the $44,000 loan made to Aquatic in exchange for full unencumbered rights to the ATH mechanical assembly built and stored at Beaver Manufacturing Kamloops. Legacy hereby assumes all costs of storage and/or any outstanding liabilities associated.
+4. AMOUNTS DUE LEGACY PRE-CONSOLIDATED
+4.1 Aquatic agrees to relinquish all claims to the Aquatic Timber Harvesting Machine and Legacy to assume full unencumbered rights to the said equipment.
+4.2 Aquatic agrees to issue 40,000,000 pre-consolidated shares of the Company’s common stock in exchange for the forgiveness of the funds borrowed from Legacy Systems and $80,000 of amounts due to Legacy for un-paid licensing.
+4.3 Each disbursement order Legacy will assign full voting rights of all those shares to the Aquatic Board of Directors regardless of who they are dispersed to.
+5. AMOUNTS DUE ACKLES POST-CONSOLIDATED
+5.1 Ackles and Aquatic hereby agree to a TOTAL SETTLEMENT AMOUNT DUE ACKLES TO BE $417,000, which will be converted into 13 percent of the issued and outstanding post-consolidated shares of the Company pending shareholder approval of the Proxy.
+5.2 Regarding the post-consolidated shares Ackles would be an affiliate of the Company bearing all the restrictions of affiliates according to the Securities and Exchange Act of 1933 as well as retain all rights associated with these shares.
+5.3 Ackles agrees to an alternative method of payment for the remaining $417,000 whereby should Aquatic chose to exercise this option, Aquatics can pay Ackles a cash payment of 130% of the value owed or $542,100 and Ackles will forgo all post-consolidated compensation as stated in item 5.1 above. Aquatic and Ackles agree that this option will be subject to this cash payment being made to Ackles before the anticipated consolidation.
+5.4 Ackles and Aquatic hereby agree that this agreement shall preclude all other agreements and that all other agreements, licensing, consulting or otherwise shall be rendered terminated.
+6. SIGNATORIES TO THIS AGREMENT
+IN WITNESS WHEREOF the Parties hereto have caused this Agreement to be executed the day and year first before written.
+Gary J. Ackles
+Legacy Systems Corporation
+Aquatic cellulose International Corporation
+(Exhibit R-1, Tab 6)
+It will be noted that paragraph 5.1 of this Agreement states as follows:
+5. AMOUNTS DUE ACKLES POST-CONSOLIDATED
+5.1 Ackles and Aquatic hereby agree to a TOTAL SETTLEMENT AMOUNT DUE ACKLES TO BE $417,000, which will be converted into 13 percent of the issued and outstanding post-consolidated shares of the Company pending shareholder approval of the Proxy.
+5.2 Regarding the post-consolidated shares Ackles would be an affiliate of the Company bearing all the restrictions of affiliates according to the Securities and Exchange Act of 1933 as well as retain all rights associated with these shares.
+5.3 Ackles agrees to an alternative method of payment for the remaining $417,000 whereby should Aquatic chose to exercise this option, Aquatics can pay Ackles a cash payment of 130% of the value owed or $542,100 and Ackles will forgo all post-consolidated compensation as stated in item 5.1 above. Aquatic and Ackles agree that this option will be subject to this cash payment being made to Ackles before the anticipated consolidation.
+5.4 Ackles and Aquatic hereby agree that this agreement shall preclude all other agreements and that all other agreements, licensing, consulting or otherwise shall be rendered terminated.
+The Appellant testified that, by the time this Agreement was entered into in 2004, the shares of the Corporation were of no value (Transcript, page 169, lines 5 to 11). In addition, Counsel for the Respondent indicated that the Appellant recognized that he was not likely to get paid back (Transcript, page 189, lines 19 to 23). Once again, we have a situation where it is acknowledged that the Corporation owed the Appellant US$555,889 (see paragraph 2.1.1 of the Agreement) and he received nothing of value from the Corporation in connection with this debt. Furthermore, officials of the CRA have not taken this loss into consideration.
+[51] In addition, if Counsel for the Respondent wanted to establish the validity of the Agreement dated May 26, 2003, he should have subpoenaed Mr. Westgarde and had him establish the proper interpretation to be placed on the Agreement. (Note: According to the Appellant, Mr. Westgarde lives in the Kootenays, in British Columbia.)
+[52] It should also be noted that the Corporation forgave the loans made to Mr. Westgarde and another director but the Corporation did not forgive the “so‑called loan” that the Minister claims was made to the Appellant.
+[53] Counsel for the Respondent did not call any witnesses from the CRA or any outside party to contradict any of the statements of the Appellant or any of the letters or agreements that are referred to above.
+[54] I have concluded that officials of the CRA have relied upon documents to determine that a benefit was received by the Appellant, but the CRA has not taken into consideration the huge losses suffered by the Appellant when he transferred 15,510,214 shares back to the Corporation and basically received nothing for these shares.
+[55] I have, therefore, concluded that the Appellant is not required to include the amount of US$97,500 or $133,654(Cdn) in his income for the 2003 taxation year. The appeal is allowed on this point.
+Expenses re Gold Mining Project - $24,000
+[56] I have concluded that the expenses of $24,000 that were claimed by the Appellant as business expenses are not deductible. I have concluded that these payments by the Appellant to his son were personal in nature, i.e., payments made by a father to his son, (or to his son’s wife), to support an undocumented business venture.
+[57] Since success has been divided, I am not prepared to award costs.
+Signed at Vancouver, British Columbia, this 28th day of January 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 57
+COURT FILE NO.: 2007-4009(IT)G
+STYLE OF CAUSE: GARY J. ACKLES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: August 16, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: January 28, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Majawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

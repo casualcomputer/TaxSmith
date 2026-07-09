@@ -1,0 +1,202 @@
+Title: Yadgar c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521127/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-104-521127-yadgar-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-07-18
+
+# Yadgar c. Le Roi
+
+- Citation: 2023 CCI 104
+- Decision date: 2023-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5846, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yadgar c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-07-18
+Référence neutre
+2023 CCI 104
+Numéro de dossier
+2018-848(IT)G
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-848(IT)G
+ENTRE :
+MOHAMMAD YADGAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 20 mars 2023 à Toronto (Ontario).
+Devant : l’honorable juge Gabrielle St-Hilaire.
+Comparutions :
+Avocat des appelants :
+Me Osborne G. Barnwell
+Avocat de l’intimé :
+Me Amin Nur
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009 est rejeté et les dépens sont adjugés à l’intimé, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2023.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Traduction certifiée conforme
+ce 11e jour d’octobre 2024.
+Sébastien D’Auteuil, jurilinguiste
+Référence : 2023 CCI 104
+Date : 20230718
+Dossier : 2018-848(IT)G
+ENTRE :
+MOHAMMAD YADGAR,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge St-Hilaire
+I. Introduction
+[1] La Cour est saisie d’un appel interjeté par Mohammad Yadgar (l’« appelant ») à l’encontre des nouvelles cotisations établies en vertu du paragraphe 15(1) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »). Dans les nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 2006, 2007, 2008 et 2009, le ministre du Revenu national (le « ministre ») a revu à la hausse les revenus de l’appelant en y ajoutant des attributions à l’actionnaire totalisant 512 211 $ et imposé des pénalités pour faute lourde.
+[2] L’appelant est né en Afghanistan, où il a obtenu un diplôme d’études secondaires et étudié la physique à l’université pendant deux ans. Après un séjour au Pakistan, il a immigré au Canada en 1995. Peu après son arrivée au Canada, et même s’il n’avait pas suivi de formation en boucherie en Afghanistan, l’appelant s’est trouvé un emploi dans ce secteur à Paradise Fine Foods, un commerce de Toronto spécialisé en viandes halal. Il a ensuite travaillé comme boucher pour Sardar Shanawazi à son supermarché de Mississauga appelé Kabul Farms, une entreprise qui était exploitée par un propriétaire unique. En 2004, Kabul Farms Inc. a été constituée en société (« Kabul »), l’appelant et Sardar Shanawazi détenant chacun 50 % des actions ordinaires de la société.
+[3] Après trois ou quatre mois (le moment exact n’est pas connu), l’appelant a acquis les actions de la société détenues par Sardar Shanawazi. À un certain moment en 2004, l’appelant est devenu la seule personne à exploiter l’entreprise et à effectuer des opérations sur le compte d’entreprise de Kabul.
+[4] Durant les années d’imposition en cause, l’appelant était aussi le seul actionnaire de 1648074 Ontario Inc., une société exploitant une épicerie. De plus, il était actionnaire d’Amana Canadian Ltd., une société exploitant une entreprise d’entreposage.
+[5] Le ministre a effectué une analyse des dépôts effectués dans le compte bancaire de Kabul, ainsi que dans les comptes conjoints de l’appelant et de son épouse. À l’étape de l’opposition, l’appelant a produit des annexes révisées faisant état d’attributions à l’actionnaire de 194 579 $, 272 985 $, 23 679 $ et 20 968 $ pour les années d’imposition 2006, 2007, 2008 et 2009 respectivement.
+II. Questions en litige
+[6] L’appelant ne conteste pas l’exactitude des attributions à l’actionnaire, totalisant 512 211 $, incluses dans son revenu conformément au paragraphe 15(1) de la Loi pour les années d’imposition en cause. Il conteste toutefois le bien-fondé de la nouvelle cotisation établie par le ministre au-delà de la période normale de nouvelle cotisation ainsi que le bien-fondé de l’imposition de pénalités pour faute lourde. Le fait que les nouvelles cotisations ont été établies après la période normale de nouvelle cotisation n’est pas contesté. Par conséquent, les deux questions dont la Cour est saisie peuvent être ainsi résumées :
+Le ministre était-il fondé à établir une nouvelle cotisation à l’égard de l’appelante au-delà de la période normale de nouvelle cotisation pour les années d’imposition 2006, 2007, 2008 et 2009?
+Le ministre était-il fondé à imposer des pénalités pour faute lourde pour les années d’imposition 2006, 2007, 2008 et 2009?
+III. Information sur les cotisations de Kabul
+[7] Dans son avis d’appel, l’appelant a déclaré qu’il se basait sur les faits invoqués dans l’acte de procédure dans l’appel interjeté par Kabul (dossier no 2016-3660(IT)G), étant donné que la vérification dans ce dossier avait mené à l’établissement des nouvelles cotisations à l’égard de l’appelant. Kabul n’avait pas produit de déclaration de revenus pour les années d’imposition en cause. Les parties ont déposé un consentement à jugement dans l’appel interjeté par Kabul renvoyant l’affaire au ministre pour nouvel examen et nouvelle cotisation, à établir sur le fondement que Kabul n’avait pas déclaré les ventes et les bénéfices bruts suivants pour les années d’imposition se terminant les 31 mai 2005, 2006, 2007, 2008 et 2009, et que les pénalités seraient annulées :
+Année
+2005
+2006
+2007
+2008
+2009
+Ventes
+2 237 324 $
+2 460 926 $
+2 887 950 $
+2 755 685 $
+2 547 001 $
+Bénéfices bruts
+314 192 $
+306 520 $
+266 355 $
+400 220 $
+198 343 $
+[8] La Cour a rendu un jugement le 23 novembre 2016 accueillant l’appel conformément aux modalités du consentement à jugement.
+[9] Au procès, l’appelant a affirmé que son comptable à l’époque, Costa Abinajem (appelé « Costa » par l’appelant durant le procès), lui avait conseillé d’ouvrir un deuxième compte bancaire et de déposer le produit des ventes en espèces dans son compte personnel et dans celui de son épouse afin d’éviter [traduction] « certains » frais. En outre, l’appelant a reconnu que des sommes d’argent provenant de Kabul avaient été déposées dans ses comptes bancaires personnels.
+IV. Analyse
+Établissement d’une nouvelle cotisation au-delà de la période normale de nouvelle cotisation
+[10] Pour trancher la première question soulevée dans le présent appel, la Cour doit déterminer si le ministre était fondé à établir une nouvelle cotisation à l’égard de l’appelant au-delà de la période normale de nouvelle cotisation pour les années d’imposition 2006, 2007, 2008 et 2009. Pour les motifs suivants, j’estime que le ministre s’est acquitté du fardeau qui lui incombait pour établir la nouvelle cotisation.
+[11] Le paragraphe 152(4) de la Loi confère au ministre le droit d’établir une cotisation au-delà de la période normale de nouvelle cotisation déterminée en application du paragraphe 152(3.1). La disposition pertinente dans le présent appel, le sous-alinéa 152(4)a)(i), est ainsi libellée :
+152 (4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+152 (4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[12] Dans la décision MF Electric Incorporated c. Le Roi, 2023 CCI 60, aux paragraphes 31 à 33 [MF Electric], je traite des principes qui, à mon avis, doivent être pris en compte pour déterminer si le ministre était fondé à établir une nouvelle cotisation au-delà de la période normale de nouvelle cotisation :
+[31] Selon le libellé du sous-alinéa 152(4)a)(i), il suffit au ministre d’établir qu’il y a eu négligence ou inattention sans avoir à examiner s’il y a eu omission volontaire ou fraude (voir Deyab c. Canada, 2020 CAF 222, par. 58 à 61). Cela dit, il incombe au ministre d’établir que le contribuable ou la personne qui remplit la déclaration de revenus a fait une présentation erronée des faits et que celle-ci est imputable à la négligence, à l’inattention, à l’omission volontaire ou à la fraude (voir Vine (Succession) c. Canada, 2015 CAF 125, par. 23 et 24).
+[32] Il incombe au ministre d’établir qu’il y a eu une présentation erronée des faits au moment de la production de la déclaration de revenus. Dans ses observations sur la question du moment dans la décision Nesbitt c. Canada, [1996] A.C.F. no 1470 (QL), au paragraphe 8, la Cour d’appel fédérale a exprimé son point de vue sur l’objet du paragraphe 152(4) :
+[...] Il me semble que l’un des objets du paragraphe 152(4) est de favoriser l’établissement soigné et exact des déclarations de revenus. C’est au moment où la déclaration est produite que l’on peut déterminer s’il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s’il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. Cela demeure une présentation erronée de fait même si le ministre pourrait relever ou relève effectivement l’erreur dans la déclaration en procédant à une analyse attentive des documents justificatifs. Le caractère autodéclaratif du système fiscal serait miné si les contribuables pouvaient remplir avec négligence les déclarations tout en fournissant dans les documents de travail des données de base exactes, en espérant que le ministre ne trouve pas l’erreur mais que, si cela arrivait dans les quatre années suivantes, la pire conséquence serait l’établissement d’une nouvelle cotisation exacte à ce moment-là.
+[Non souligné dans l’original.]
+[33] Il est bien établi en droit que le critère applicable pour déterminer s’il y a présentation erronée des faits n’est pas strict. À l’appui de ce point de vue, le juge Bocock a écrit ce qui suit au paragraphe 20 de la décision Francis & Associates c. La Reine, 2014 CCI 137 :
+Une présentation erronée de faits s’entend de n’importe quelle déclaration « inexacte » : MNR v. Foot, [1964] C.T.C. 317 (CSC). Par ailleurs, il a été indiqué dans plusieurs décisions que « toute » erreur commise dans une déclaration produite est assimilable à une présentation erronée des faits : MNR v. Taylor, [1961] C.T.C. 211 (C. de l’É.), Nesbitt c. La Reine, 1996 et Ridge Run Developments Inc. c. R, [2007] 3 C.T.C. 2605 (CCI) [procédure générale]). C’est donc dire que le critère qui permet d’établir l’existence d’une présentation erronée des faits n’est pas strict.
+[13] En l’espèce, l’intimé n’a pas allégué qu’il y avait eu fraude de la part de l’appelant, mais plutôt qu’il avait fait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+[14] Dans ses déclarations pour les années d’imposition en cause, l’appelant a déclaré les revenus suivants, qui sont considérablement inférieurs aux revenus non déclarés établis dans les nouvelles cotisations, dont l’exactitude n’est pas contestée.
+Année d’imposition
+2006
+2007
+2008
+2009
+Revenu non déclaré
+194 579 $
+272 985 $
+23 679 $
+20 968 $
+Revenu déclaré
+10 600 $
+10 300 $
+6 300 $
+10 950 $
+[15] Puisque l’appelant ne conteste pas l’exactitude du revenu établi dans les cotisations pour les années d’imposition en cause, le revenu qu’il avait déclaré est inexact. Cela suffit, à mon avis, pour établir que l’appelant (ou la personne qui a produit sa déclaration) a fait une présentation erronée des faits en produisant sa déclaration ou en fournissant quelque renseignement sous le régime de la Loi aux termes du sous-alinéa 152(4)a)(i). Je note que Sajid Usmani, le nouveau comptable de l’appelant, a témoigné à l’audience, mais pas Costa. Sajid Usmani a expliqué qu’il avait récupéré les documents de l’appelant et préparé les annexes faisant état des dépôts et des retraits pour les comptes bancaires de Kabul et de l’appelant, puis déterminé le revenu non déclaré, revenu que le ministre a accepté et à partir duquel il a établi la nouvelle cotisation sur la base de ce qui est indiqué au paragraphe 13 ci-dessus. Cependant, comme l’a affirmé la Cour d’appel fédérale au paragraphe 8 de l’arrêt Nesbitt, précité : « [c]ela demeure une présentation erronée de fait même si le ministre pourrait relever ou relève effectivement l’erreur dans la déclaration en procédant à une analyse attentive des documents justificatifs ». Ainsi, puisque la présentation erronée des faits est survenue au moment où les déclarations ont été produites, le fait que l’appelant ait retenu les services d’un nouveau comptable après la production des déclarations inexactes par Costa n’est pas pertinent.
+[16] Comme je l’indique plus haut, le ministre doit établir non seulement que l’appelant a fait une présentation erronée des faits, mais aussi que celle-ci est attribuable à la négligence, à l’inattention ou à l’omission volontaire. L’appelant a témoigné que Costa était à la fois le comptable de Kabul et son comptable personnel. Il a ajouté que Costa était le comptable de son premier employeur, Paradise Fine Foods, et qu’il préparait ses déclarations de revenus depuis ce temps. Costa a continué de préparer les déclarations de revenus du particulier pour l’appelant quand il travaillait à Kabul Farms pour Sardar Shanawazi, dont Costa était aussi le comptable. Après la constitution de Kabul en société, y compris lorsqu’il en est devenu l’unique actionnaire, l’appelant a continué de faire appel à Costa. Je remarque que Costa a participé à la constitution en société de Kabul, de 1648074 Ontario Inc. et d’Amana Canadian Ltd.
+[17] L’appelant a témoigné qu’il remettait ses documents commerciaux (factures, bordereaux de caisse et courrier) à Costa tous les deux ou trois mois. Costa venait le voir à l’occasion, de sorte qu’ils se rencontraient tous les mois ou les deux mois, pour un total d’une trentaine de rencontres au cours des années d’imposition en cause. L’appelant a affirmé que Costa produisait ses déclarations de revenus, mais qu’il ne les signait jamais. En outre, l’appelant a admis qu’il ignorait la provenance des chiffres ayant servi à établir le revenu déclaré.
+[18] L’appelant a témoigné qu’il était le soutien d’une famille de six personnes durant les années d’imposition en cause. Le revenu total déclaré par l’appelant et son épouse n’était pas suffisant pour payer les frais de subsistance de sa famille, y compris les paiements hypothécaires pour la maison qu’il a achetée en 2006, ni pour fournir les fonds que Kabul avait déclarés comme des prêts reçus de l’appelant, totalisant plus de 3 millions de dollars.
+[19] L’appelant n’avait peut-être pas une connaissance approfondie du régime fiscal, mais je conclus de son témoignage qu’il produisait ses déclarations de revenus depuis son tout premier emploi à Paradise Fine Foods en 1995; il a donc produit des déclarations pendant une dizaine d’années avant les années d’imposition en cause. Il était actionnaire de trois sociétés et administrateur de deux d’entre elles. Il était l’unique actionnaire d’une entreprise très fructueuse, Kabul, qui a réalisé un chiffre d’affaires de plus de 2 millions de dollars et des bénéfices allant de 200 000 $ à 400 000 $ par année pour les années d’imposition se terminant entre 2005 et 2009. De plus, l’appelant avait des biens immobiliers en Afghanistan qu’il a vendus pour acheter une propriété en Ontario. Il a d’abord acheté un terrain pour 290 000 $, puis une maison pour 456 827 $, avec une mise de fonds de 27 000 $ et un prêt hypothécaire pour financer le reste.
+[20] L’appelant a reconnu qu’il avait omis de déclarer une partie considérable de son revenu pour les années d’imposition en cause et qu’il n’avait jamais cherché à confirmer l’exactitude des montants déclarés. Il a également reconnu que Costa lui avait recommandé d’ouvrir un autre compte bancaire pour éviter des frais. Pour reprendre les mots employés par la Cour d’appel fédérale au paragraphe 7 de l’arrêt Canada c. Regina Shoppers Mall Ltd, [1991] A.C.F. no 52 (Regina Shoppers), je conclus que l’appelant n’a pas mené un « examen réfléchi et attentif de la situation » avant de produire ses déclarations; il s’est contenté de se fier à la confiance qu’il affirmait avoir dans Costa. Dans l’arrêt Regina Shoppers, la Cour d’appel fédérale conclut qu’il a été établi que « le soin nécessaire doit correspondre à celui d’une personne sage et prudente et que la déclaration doit être faite d’une façon que le contribuable croit véritablement appropriée » (voir MF Electric, précitée, par. 36). Une personne sage et prudente aurait passé ses déclarations en revue et aurait remarqué le revenu non déclaré.
+[21] À l’audience, l’appelant a expliqué qu’il déléguait tout à Costa, qu’il se contentait de rassembler ses reçus et ses factures pour les remettre à Costa, qu’il ne passait pas en revue ses déclarations et qu’en une trentaine de rencontres avec Costa, il ne lui a jamais posé de questions. L’avocat a affirmé qu’il était justifié que l’appelant fasse confiance à Costa, car il le connaissait depuis son premier emploi et Costa lui avait été recommandé, et qu’en plus, malgré son succès en affaires, il [traduction] « ne s’y connaissait pas en fiscalité ». L’argument de l’avocat était fondé sur une décision de notre Cour (Aridi c. La Reine, 2013 CCI 74, par. 43 à 45), dans laquelle le juge Hogan a conclu que le comptable avait fait preuve de négligence, mais pas le contribuable. À mon avis, les circonstances dans l’affaire Aridi sont complètement différentes de celles en l’espèce. En bref, dans l’affaire Aridi, le contribuable savait que l’opération en cause pouvait avoir des conséquences fiscales, a donné à son comptable tous les documents nécessaires et lui a posé des questions sur sa déclaration de revenus. Selon le juge Hogan, « [i]nvoquer et prouver la négligence du comptable ou du professionnel ayant agi pour le contribuable ne suffiront pas pour empêcher l’application du sous-alinéa 152(4)a)(i) de la LIR. Le contribuable doit également avoir agi de façon diligente, ou à tout le moins, contredire la preuve du ministre selon laquelle il aurait agi de façon négligente » (Aridi, précitée, par. 50)
+[22] En l’espèce, l’appelant n’a pris aucune mesure pour confirmer l’exactitude de ses déclarations. Il n’a tout simplement pas posé de questions. L’appelant ne peut pas se protéger des conséquences du sous-alinéa 152(4)a)(i) en rejetant la responsabilité sur Costa (voir par exemple Snowball c. Canada, [1996] A.C.I. no 276, par. 18; voir également Daszkiewicz c. La Reine, 2016 CCI 44). L’appelant n’a pas fait preuve d’une diligence raisonnable (voir Venne c. Canada (ministre du Revenu national - M.R.N.) (C.F. 1re inst.), [1984] A.C.F. no 314, par. 16 [Venne]).
+[23] Compte tenu de ce qui précède, je conclus que l’appelant a fait des présentations erronées des faits dans ses déclarations de revenus pour les années d’imposition 2006, 2007, 2008 et 2009 et que ces présentations erronées des faits sont attribuables à la négligence ou à l’inattention. Cela suffit pour conclure que le ministre s’est acquitté du fardeau qui lui incombait pour établir une nouvelle cotisation à l’égard de l’appelant après la période normale de nouvelle cotisation pour les années d’imposition pertinentes.
+Pénalités prévues au paragraphe 163(2)
+[24] Pour trancher la deuxième question soulevée dans le présent appel, la Cour doit déterminer si le ministre était fondé à imposer des pénalités en vertu du paragraphe 163(2) de la Loi en lien avec le revenu sous-déclaré de l’appelant pour les années d’imposition 2006, 2007, 2008 et 2009.
+[25] Le paragraphe 163(2) de la Loi est ainsi libellé :
+(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of […]
+[26] Aux termes du paragraphe 163(3) de la Loi, le ministre a la charge d’établir les faits qui justifient l’imposition d’une pénalité en vertu du paragraphe 163(2). Le ministre doit donc démontrer que l’appelante a fait une fausse déclaration, ou y a participé, consenti, ou acquiescé et qu’il l’a fait sciemment ou dans des circonstances équivalant à faute lourde.
+[27] En l’espèce, l’appelant a reconnu qu’il a omis de déclarer la totalité de son revenu et que les sommes établies dans la nouvelle cotisation sont exactes. En omettant de déclarer correctement son revenu, l’appelant a fait un faux énoncé, de sorte que le premier élément du critère énoncé au paragraphe 163(2) est établi. La principale question est donc de déterminer si l’appelante a fait le faux énoncé « sciemment » ou « dans des circonstances équivalant à faute lourde ».
+[28] Depuis la décision de principe en la matière Venne, précitée, les tribunaux considèrent que la « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable, dont l’exercice pourrait être suffisant pour éviter l’application du sous-alinéa 152(4)a)(i) dont il est question plus haut. Dans la décision Venne, précitée, au paragraphe 37, la Cour fédérale a déclaré que, pour qu’il y ait faute lourde « [il] doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi ». Il a été établi que cela désigne un comportement qui « s’apparente […] à faire l’autruche » (voir Guindon c. Canada, 2015 CSC 41, par. 60).
+[29] Dans l’arrêt Wynter c. Canada, 2017 CAF 195 [Wynter], la Cour d’appel fédérale a confirmé que le ministre pouvait s’acquitter de son fardeau d’établir que le faux énoncé a été fait sciemment en démontrant que le contribuable avait fait preuve d’aveuglement volontaire, de sorte que la connaissance pouvait lui être imputée (voir également MF Electric, précitée). En outre, dans l’arrêt Wynter, la Cour d’appel fédérale a affirmé que la faute lourde, qui se distingue de l’aveuglement volontaire, « se manifeste lorsque la conduite d’un contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre de la part d’un contribuable raisonnable. En termes simples, alors que le contribuable volontairement ignorant savait, le contribuable coupable d’une faute lourde aurait dû savoir » [Wynter, précité, par. 18].
+[30] Pour les motifs suivants, je conclus que l’appelant a fait un faux énoncé dans des circonstances équivalant à faute lourde.
+[31] Respectueusement, j’estime que l’avocat de l’appelant n’a pas clairement distingué sa thèse concernant l’application du paragraphe 163(2) de celle concernant l’application du paragraphe 152(4). Il a, à juste titre, invoqué la décision Venne pour mettre en lumière les différentes normes qui s’appliquent à ces deux dispositions. Il a fait valoir que l’appelant est arrivé au Canada comme réfugié, a travaillé comme boucher et pouvait servir beaucoup de clients qui parlaient sa langue maternelle, le dari, alors qu’il connaissait très peu l’anglais, et que sa conduite devait être interprétée comme celle d’un contribuable peu versé en fiscalité.
+[32] L’avocat a reproché à l’intimé pour ne pas avoir appelé le vérificateur à témoigner. À cet égard, je note qu’au paragraphe 32 de l’arrêt Lacroix c. Canada, 2008 CAF 241, la Cour d’appel fédérale a affirmé que, « dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable ». Dans des observations ultérieures sur l’arrêt Lacroix, la Cour d’appel fédérale a précisé que les circonstances liées à l’omission de déclarer les revenus doivent être examinées pour déterminer si les exigences de chaque disposition ont été remplies. La Cour prend bien soin de marquer une distinction avec le fait de constater qu’un montant non déclaré est imposable, ce qui ne conduit pas inévitablement à la conclusion qu’une pénalité pour faute lourde est justifiée, mais ne donne pas plus d’information sur la façon dont le ministre peut s’acquitter du fardeau de la preuve qui lui incombe (voir Deyab c. Canada, 2020 CAF 222, par. 65 et 66, et Khanna c. Canada, 2022 CAF 84, par. 23 et 24).
+[33] Les qualités personnelles de l’appelant, notamment son niveau d’instruction, son intelligence et son expérience, ne sont pas pertinentes pour déterminer s’il a commis une faute lourde. À cet égard, je trouve les remarques du juge Owen aux paragraphes 49 et 50 de la décision Peck c. La Reine, 2018 CCI 52, instructives en ce qui concerne la pertinence des qualités personnelles d’un contribuable :
+[49] La nature subjective de la norme de l’ignorance volontaire signifie également que les qualités personnelles de la personne peuvent être prises en compte pour déterminer si elle a fait preuve d’ignorance volontaire.
+[50] En revanche, la nature objective de la norme de la faute lourde signifie que les qualités personnelles ne sont pas pertinentes à moins que la personne établisse qu’elle est incapable d’apprécier le risque qu’elle n’a pas réussi à éviter (voir l’arrêt R. c. Beatty, 2008 CSC 5, [2008] 1 R.C.S. 49, au paragraphe 40).
+[34] Comme je le mentionne plus haut, la faute lourde se manifeste lorsque la conduite du contribuable se situe considérablement en deçà de la conduite à laquelle on est en droit de s’attendre d’un contribuable raisonnable. À mon avis, la conduite de l’appelant s’écarte nettement de celle à laquelle on est en droit de s’attendre d’une personne raisonnable dans les mêmes circonstances. Qu’aurait donc fait une personne raisonnable dans les mêmes circonstances que l’appelant? Elle aurait demandé de voir ses déclarations de revenus. Elle les aurait passées en revue et aurait trouvé alarmant qu’un revenu aussi peu élevé soit déclaré. Elle aurait posé des questions à son comptable concernant le revenu déclaré. Si elle avait douté des explications du comptable, elle aurait demandé des conseils indépendants. Une personne raisonnable dans les circonstances de l’appelant aurait posé des questions sur les déclarations de revenus de la société et sur les sommes transférées entre ses comptes personnels et ses comptes d’entreprise.
+[35] À mon avis, la conduite de l’appelant s’écarte nettement de celle à laquelle on peut s’attendre d’une personne raisonnable placée dans les mêmes circonstances. L’appelant n’a donné aucune explication pour ses faux énoncés, si ce n’est qu’il s’est fié à son comptable pour la préparation de ses déclarations. Comme le contribuable dans la décision Peck, précitée, l’appelant ne peut pas se contenter de dire qu’il s’est fié aveuglément à son comptable sans chercher à mieux comprendre ses obligations et sans vérifier l’exactitude du revenu déclaré dans ses déclarations de revenus.
+[36] Pour ces motifs, je conclus que le ministre a établi que l’appelant a fait de faux énoncés dans ses déclarations de revenus pour les années d’imposition 2006, 2007, 2008 et 2009 et qu’il l’a fait dans des circonstances équivalant à faute lourde.
+V. Conclusion
+[37] Pour tous les motifs exposés ci-dessus, je conclus que le ministre était fondé :
+à établir une nouvelle cotisation à l’égard de l’appelante après la période normale de nouvelle cotisation pour les années d’imposition 2006, 2007, 2008 et 2009;
+ii. à imposer des pénalités pour faute lourde pour son omission de déclarer des revenus pour les années d’imposition 2006, 2007, 2008 et 2009.
+[38] L’appel interjeté par l’appelant concernant les années d’imposition 2006, 2007, 2008 et 2009 est rejeté et les dépens sont adjugés à l’intimé.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2023.
+« Gabrielle St-Hilaire »
+La juge St-Hilaire
+Traduction certifiée conforme
+ce 11e jour d’octobre 2024.
+Sébastien D’Auteuil, jurilinguiste
+RÉFÉRENCE :
+2023 CCI 104
+NO DU DOSSIER DE LA COUR :
+2018-848(IT)G
+INTITULÉ :
+MOHAMMAD YADGAR c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 mars 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Gabrielle St-Hilaire
+DATE DU JUGEMENT :
+Le 18 juillet 2023
+COMPARUTIONS :
+Avocat des appelants :
+Me Osborne G. Barnwell
+Avocat de l’intimé :
+Me Amin Nur
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Osborne G. Barnwell
+Cabinet :
+515 Consumers Road, bureau 202
+North York (Ontario)
+M2J 4W9
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

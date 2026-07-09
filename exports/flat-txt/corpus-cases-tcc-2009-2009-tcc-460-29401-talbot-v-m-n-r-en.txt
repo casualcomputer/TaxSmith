@@ -1,0 +1,146 @@
+Title: Talbot v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29401/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-460-29401-talbot-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-09-15
+
+# Talbot v. M.N.R.
+
+- Citation: 2009 TCC 460
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6924, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Talbot v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-15
+Neutral citation
+2009 TCC 460
+File numbers
+2008-3281(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-3281(EI)
+BETWEEN:
+GILLES TALBOT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard at Montréal, Quebec, on June 3, 2009.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Robert Ledoux (articling student)
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, I accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of October 2009.
+Daniela Possamai, Translator
+Citation: 2009 TCC 460
+Date: 20090915
+Docket: 2008-3281(EI)
+BETWEEN:
+GILLES TALBOT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The issue for determination in the instant case is whether Gilles Talbot (the "Worker") met the requirements of a contract of service, under paragraph 5(1)(a) of the Employment Insurance Act (the "Act"), while employed with Loblaws (the "Payor") from July 1, 2006, to November 18, 2007 (the "period in issue").
+[2] In making his decision, the Minister of National Revenue (the "Minister") relied on the following assumptions of fact set out in paragraph 5 of the Reply to the Notice of Appeal which were admitted by the Worker, with the exception of the assumptions set out in paragraphs 5(d) and 5(h) about which he did not know anything:
+[TRANSLATION]
+(a) the Appellant has already worked as a chef and has more than 30 years' cooking experience;
+(b) the Appellant answered an advertisement for a job offer as a chef demonstrator on the Emploi Québec Web site;
+(c) the offer of employment was being advertised by Gestion Culinaire André P. Moreau Inc. (Gestion APM) who was seeking a chef instructor to offer his or her services as a self-employed worker for the Payor;
+(d) André P. Moreau was the sole shareholder of Gestion APM and a chef by profession;
+(e) Gestion APM held a contract from Provigo/Loblaws to act as an intermediary and recruit chef instructors or teach cooking classes at Loblaws stores;
+(f) the chef instructor, such as the Appellant, had more stable work because he was guaranteed 24 hours of work per week whereas the chef teaching classes worked flexible hours;
+(g) André P. Moreau recruited 32 or 33 chefs for the 37 Loblaws stores; he verified the skills and experience of the chef prior to referring him to one of the stores;
+(h) Gestion APM did not receive a bonus for each of the chefs hired; it only received an amount for their recruitment and replacement;
+(i) after answering the offer of employment being advertised, the Appellant was hired by Caroline Bulbulian, collaborator, Gestion APM;
+(j) the Appellant was hired verbally and after having worked 2 or 3 days at the Loblaws store in St-Hyacinthe, he worked throughout the period in issue at the Loblaws supermarket in Granby;
+(k) the Appellant was not interviewed by the director of the store where he worked;
+(l) at the supermarket at which the Appellant worked, he generally had to prepare two recipes per week for customers to taste;
+(m) the Appellant received from Mr. Moreau week the two recipes to be prepared during his workweek a week in advance;
+(n) the Appellant purchased the products required for the recipes directly from the supermarket and went through a cash register that charged the food items to a specific account (disbursement code);
+(o) the Payor only indicated to the Appellant where it wanted him to set up the food-tasting station;
+(p) the Appellant supplied his own knives and cutting board whereas the Payor supplied the butane stove, a removable board and pans;
+(q) although the Appellant was able to communicate with Mr. Moreau if he wished to obtain more details about a recipe, he did not receive any instructions from the store manager;
+(r) the Appellant travelled from Farnham to Granby to work and he had to pay his car travel expenses;
+(s) the Appellant had to work a set schedule determined by the Payor in all Loblaws stores; he worked from 3 p.m. to 8 p.m. on Thursdays and Fridays and from 9 a.m. to 4 p.m. on Saturdays and Sundays for a total of 24 hours per week;
+(t) on Sundays, he would hand in a sheet to the Payor on which he entered his name, his address, the disbursement code, the transit number and the number of hours worked (24 hours);
+(u) the Appellant submitted his "time slip" to the store's cashier who paid him directly in cash (except for the first week when he was paid by cheque;
+(v) the Appellant received a fixed salary of $600 per week from the Payor;
+(w) unlike the store's employees, the Appellant did not have to "punch" his hours; he only had to submit his "time slip;"
+(x) unlike the Payor's employees, the Appellant did not receive any benefits from the Payor (medical or disability insurance, pension plan or other fringe benefits);
+(y) the Appellant could bring and hand out his own business cards to the store's customers;
+(z) in 2006 and 2007, the Appellant declared business income in his returns.
+[3] The evidence also revealed that
+(i) the Worker did not have a contract with Loblaws;
+(ii) the Payor did not provide any instructions on how to prepare the recipes. I note that the Worker acknowledged that he could modify the recipe when a necessary ingredient was not available at the Loblaws store where he worked;
+(iii) the Worker could refuse to work. He could also take leave without pay. In the case of his absence, he notified Gestion APM who had to find a replacement for him. I therefore note that the Worker testified that as a self-employed worker, he thought he could ask for an advance on his pay;
+(iv) Gestion APM contacted the Worker to end his contract following a call from the director of the Loblaws store where he worked.
+Analysis and conclusion
+[4] To be eligible for employment insurance, one must hold insurable employment within the meaning of paragraph 5(1)(a) of the Act. It contains the terms "contract of service," "employer" and "employed person" and sets out that the latter must receive earnings from the employer or some other person for the determination of worker status.
+[5] The Act does not define what a contract of service is. Paragraph 5(1)(a) of the Act must therefore be analyzed in the light of Quebec civil law when the applicable provincial law is that of Quebec.[1]
+[6] A contract of employment, formerly referred to as "contract of service," is defined in article 2085 of the Civil Code of Québec. Three elements must be present for there to be a contract of employment, namely: performance of work, remuneration and control exercised by the employer. However, monitoring the result must not be confused with controlling the worker.
+[7] The issue for determination in this case is whether there was a relationship of subordination between the Payor and the Worker. In other words, we need to determine whether the Payor had the right to direct or control the worker.
+[8] In the case at bar, the only facts filed in evidence that might lead us to conclude that there was a relationship of subordination between the Payor and the Worker involved the following:
+(i) work schedule;
+(ii) the exact place where the Worker had to execute recipes for the Loblaws store at which he worked.
+[9] I do not believe this implies a relationship of subordination between the Payor and the Worker. In my opinion, the requirements related to a work schedule and workplace are not a distinguishing and exclusive characteristic of an employment contract. It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. What we must see in this case in the facts is a control over the result of the work and not control over its performance.
+[10] Although we have concluded that there was no relationship of subordination between the Worker and the Payor, we will nonetheless consider whether the Worker held insurable employment within the meaning of paragraph 5(1)(a) of the Act.
+[11] In that regard, the Act permits the Canada Employment Insurance Commission, with the consent of the governor in council, to extend by regulations insurance coverage to employment that is usually uninsurable. It is therefore necessary to refer to the regulations to find out which employment is included in or excluded from insurable employment. Paragraph 6(g) of the Employment Insurance Regulations reads as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+. . .
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+As it appears from this provision, the Worker would have held insurable employment had he been under the direction and control of the Payor and had he been remunerated by Gestion APM. In the case at bar, the evidence revealed that the Worker was remunerated by the Payor and not by Gestion APM. Furthermore, I note that I concluded that there was no relationship of subordination between the Worker and the Payor. Accordingly, the Worker cannot claim to have held insurable employment under 6(g) of the Employment Insurance Regulations.
+[12] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of October 2009.
+Daniela Possamai, Translator
+CITATION: 2009 TCC 460
+COURT FILE NO.: 2008-3281(EI)
+STYLE OF CAUSE: GILLES TALBOT AND M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 3, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: September 15, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Robert Ledoux (articling student)
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Grimard v. Canada, 2009 FCA 47; 9041-6868 Québec Inc. v. Canada (Minister of National Revenue – M.N.R.) 2005 FCA 334.

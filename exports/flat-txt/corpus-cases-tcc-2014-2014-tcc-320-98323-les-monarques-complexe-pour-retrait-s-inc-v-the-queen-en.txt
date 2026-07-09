@@ -1,0 +1,179 @@
+Title: Les Monarques complexe pour retraités Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/98323/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-320-98323-les-monarques-complexe-pour-retrait-s-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-10-28
+
+# Les Monarques complexe pour retraités Inc. v. The Queen
+
+- Citation: 2014 TCC 320
+- Decision date: 2014-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5258, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Monarques complexe pour retraités Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-28
+Neutral citation
+2014 TCC 320
+File numbers
+2014-643(GST)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-643(GST)APP
+BETWEEN:
+LES MONARQUES COMPLEXE POUR RETRAITÉS INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on semi-common evidence with the application of Le Sage au piano, limited partnership (2014-638(GST)APP) on July 2, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the applicant:
+Camille Janvier
+Counsel for the respondent:
+Benoît Denis
+ORDER
+The application for an extension of time for filing a notice of objection in respect of the assessment dated June 3, 2013, made under the Excise Tax Act, for the period from September 1, 2010, to September 30, 2010, is dismissed.
+Signed at Ottawa, Canada, this 28th day of October 2014.
+"Johanne D'Auray"
+D'Auray J.
+Translation certified true
+on this 3rd day of December 2014
+Monica F. Chamberlain, Translator
+Citation: 2014 TCC 320
+Date: 20141028
+Docket: 2014-643(GST)APP
+BETWEEN:
+LES MONARQUES COMPLEXE POUR RETRAITÉS INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+D'Auray J.
+INTRODUCTION [1] The case of Les Monarques complexe pour retraités Inc. (the applicant) was heard on semi-common evidence with the application of Le Sage au piano, limited partnership. Some elements were common to both files, for example, the companies belong to the same corporate group and the witnesses were the same; the evidence was different given the orders made in each file.
+[2] On February 5, 2014, the applicant filed with the Court an application under Part IX of the Excise Tax Act (the ETA) to extend the time to file a notice of objection in respect of the assessment dated June 3, 2013, for the period from September 1, 2010, to September 30, 2010.
+[3] The issues are as follows:
+− Does the presumption under subsection 334(1) of the ETA apply?
+− Does the applicant meet the conditions set out in subsection 304(5) of the ETA?
+FACTS [4] The applicant is a company whose headquarters are located at 465 Rue Bibeau, door 600, Saint-Eustache, Quebec.
+[5] Since September 1, 2010, the applicant has been operating a residence for semi-independent seniors located at 495 Rue Bibeau in Saint-Eustache. The applicant is the owner of a multiple-unit residential complex that is used as the residence.
+[6] On May 2, 2011, the Agence du revenu du Québec (ARQ) assessed the applicant, for and on behalf of the Minister of National Revenue (the Minister), for the period from September 1, 2010, to September 30, 2010, under the ETA.
+[7] This assessment followed the determination by the ARQ of the fair market value (FMV) of the residential complex and involved the amount of net tax reported by the applicant in relation to the FMV.
+[8] The applicant contends that it filed an objection to the May 2, 2011, assessment within the time period prescribed by the ETA.
+[9] On May 6, 2011, the ARQ sent the applicant a final notice of payment. The applicant accordingly paid the amount in the notice.
+[10] In 2013, the applicant was audited by the ARQ. On May 27, 2013, the ARQ sent the applicant the results of the audit.
+[11] On June 3, 2013, the ARQ assessed the applicant under the ETA for the period from September 1, 2010, to September 30, 2010 (the period at issue).
+[12] The assessment dated June 3, 2013, was the result of a higher assessment by the ARQ of the FMV of the complex and involved the amount of net tax reported by the applicant in relation to the FMV.
+[13] Ms. Forget, accountant and comptroller for the applicant, testified that the assessment dated June 3, 2013, dealt with the same issues as the assessment dated May 2, 2011, the FMV of the complex.
+[14] On June 20, 2013, the ARQ sent the applicant, for the period at issue, a request for payment and a statement of account. Ms. Forget stated that she paid the balance indicated on the request for payment.
+[15] It should be noted that the statement of account attached to the request for payment refers to the assessment dated June 3, 2013.
+[16] The applicant did not file a notice of objection to the June 3, 2013, assessment within 90 days of the date the notice of assessment was sent.[1]
+[17] Ms. Forget testified that the applicant never received the notice of assessment dated June 3, 2013. She stated that the applicant learned only on September 16, 2013, that an assessment had been made on June 3, 2013. Ms. Forget learned about this from a telephone conversation with Ms. Bouchard, the ARQ auditor on the file. Following this conversation, Ms. Bouchard sent the notice of assessment, which the applicant received on September 23, 2013.
+[18] Ms. Forget stated that the applicant had always intended to file an objection to the assessment and had similarly filed an objection to the FMV established by the ARQ in the assessment dated May 2, 2011, for the same immovable.
+[19] On October 8, 2013, the applicant filed with the Minister an application to extend the time to file a notice of objection and attached the notice of assessment.
+[20] On January 8, 2014, the ARQ informed the applicant that its application to extend the time to file a notice of objection could not be granted because the assessment had been sent to the applicant's address and that, under subsection 334(1) of the ETA, the notice of assessment is deemed to have been received by the applicant on the day it was mailed. The ARQ also informed the applicant that it should be aware that the assessment existed because the assessment had been paid.
+[21] On February 5, 2014, the applicant filed with the Court an application to extend the time to file a notice of objection for the period at issue.
+[22] At the hearing, Ms. Privé, analyst at ARQ's Division du flottage, de l’impression, de l’expédition et l’insertion massive, explained ARQ's procedure for sending communications and the deposit to Canada Post of the notice of assessment dated June 3, 2013.
+[23] Ms. Privé submitted a file containing details of the communication to the applicant, including the applicant's taxation number, the production date and the production number (31501) of the notice of assessment, the applicant's postal code, the physical lot number and the specific number given to the communication. Ms. Privé also filed an excerpt of the page for physical lot number 0151, which included the notice of assessment dated June 3, 2013, as well as the sequence report by document number indicating that the notice of assessment was part of a lot of 1,689 items processed that day. The witness filed the worksheet for June 3, 2013, for a document entitled “DDE Quotidien” showing that the notice of GST assessment bearing the production number 31501 and physical lot number 0151 was part of a lot of 1,689 communications included in the 21,947 items processed that day. The witness filed a document from Canada Post called a deposit summary indicating that on June 3, 2013, the ARQ deposited 21,947 (mail) items, which corresponds to the total number of items indicated on the DDE Quotidien worksheet.
+Analysis [24] The applicant submits that it did not file a notice of objection to the Minister within the time prescribed by the ETA because it never received the notice of assessment dated June 3, 2013. It maintains that the presumption under subsection 334(1) of the ETA cannot apply.
+[25] However, the respondent maintains that the assessment was duly sent and consequently the presumption under subsection 334(1) of the ETA applies.
+[26] It should be noted here that the applicant does not allege that there was an error in the address used by the ARQ in the notice of assessment.
+[27] Subsection 334(1) of the ETA provides that anything sent by first class mail shall be deemed to have been received on the day it was mailed. That subsection reads as follows:
+334(1) Sending by mail - For the purposes of this Part and subject to subsection (2), anything sent by first class mail or its equivalent shall be deemed to have been received by the person to whom it was sent on the day it was mailed.
+[28] When a taxpayer claims that he or she did not receive a document and believes that the document was not sent, the appropriate taxing authority has the burden of proving that the document was sent. This principle was noted by the Federal Court of Appeal in Aztec Industries Inc v Canada, [1995] FCJ No 535, 95 DTC 5235. The Federal Court of Appeal stated the following:
+Where as in the present case, a taxpayer alleges not only that he has not received the notice of assessment but that no such notice was ever issued, the burden of proving the existence of the notice and the date of its mailing must necessarily fall on the Minister; the facts are peculiarly within his knowledge and he alone controls the means of adducing evidence of them.
+[29] Subsection 334(1) of the ETA creates an irrebuttable presumption, the Minister must prove that the notice of assessment was sent and not that the notice was received by the taxpayer. In Schafer v Canada, [2000] FCJ No 1480, 2000 DTC 6542, Justice Sharlow, of the Federal Court of Appeal, wrote the following at paragraph 24 of his reasons regarding subsection 334(1) of the ETA:
+[24] The statutory provisions for assessments, objections and appeals are intended to provide clear rules for determining when the Minister's obligation to make an assessment is fulfilled, and to provide procedures by which taxpayers may challenge assessments that may be mistaken. Parliament has chosen to adopt a rule that makes no allowance for the possibility, however remote, that the taxpayer may miss the deadline for objecting or appealing because of a failure of the postal system. I do not understand why Parliament has chosen to deprive taxpayers of the chance to challenge an assessment of which they are unaware, but that is a choice that Parliament is entitled to make.
+[30] In this case, the Minister has proven that the notice of assessment dated June 3, 2013, was sent to the taxpayer's address. Ms. Privé's testimony is conclusive in that regard. By describing the procedure, Ms. Privé demonstrated, with supporting documentation, that the notice of assessment dated June 3, 2013, was sent on June 3, 2013. The evidence clearly establishes all the steps in the mailing procedure. Consequently, pursuant to subsection 334(1) of the ETA, the notice of assessment is deemed to have been received by the applicant on the day the notice was mailed, June 3, 2013.
+[31] It should be noted that identical evidence was recently established in Déjoie c La Reine, No 2013-4773(GST)APP, on May 1, 2014. In that case, a manager from the mail branch of the ARQ also testified to explain ARQ's procedure for sending communications. The manager also submitted a file similar to the one submitted by Ms. Privé. In his judgment, Justice Favreau found that the ARQ manager had proven that the notice of assessment was sent and that the notice was thus deemed to have been received by the taxpayer.
+[32] Now we must analyze the conditions set out in subsection 304(5) of the ETA by which the Court may grant an application for extension of time to file a notice of objection.
+[33] The applicant submits that it has met all the conditions set out in subsection 304(5) of the ETA.
+[34] The respondent submits that it has not established that it has met all the conditions set out in subsection 304(5) of the ETA.
+[35] This subsection sets out the conditions that must be met to allow an application for extension of time to file a notice of objection. These conditions are cumulative and must all be met for the Court to allow an application.
+304(5) When application to be granted - No application shall be granted under this section unless
+(a) the application was made under subsection 303(1) within one year after the expiration of the time otherwise limited by this Part for objecting or making a request under subsection 274(6), as the case may be; and
+(b) the person demonstrates that
+(i) within the time otherwise limited by this Act for objecting,
+(A) the person was unable to act or to give a mandate to act in the person’s name, or
+(B) the person had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+304(5)(a) [36] There is no issue with the condition set out in paragraph 304(5)(a) of the ETA. No one is challenging the fact that the one-year time limit was respected.
+304(5)(b)(i) [37] The applicant must establish that within the time limited for objecting,
+− it was unable to act or to give a mandate to act in its name, or
+[38] The applicant is deemed to have received the notice of assessment dated June 3, 2013, pursuant to subsection 334(1) of the ETA. In this case, the applicant has not submitted any evidence that it was unable to act or to give a mandate to act in its name and file a notice of objection within the time allowed. On the contrary, it is clear from the documentary evidence that the document attached to the request for payment dated June 20, 2014, the statement of account, refers to the assessment of June 3, 2013. Thus, the applicant was aware of the assessment of June 3, 2013, or at least should have been if it had paid attention to that document. At that point, the applicant was still within the time period allowed for filing an objection under the ETA.
+[39] In Canada v Louisbourg SBC, 2014 FCA 78, Chief Justice Blais of the Federal Court of Appeal stated at paragraph 14 that the respondent could clearly attempt to establish that it had been impossible to act, but it also had to demonstrate that the error was not the result of its own negligence.
+[40] Also in Louisbourg, Chief Justice Blais noted that it is not because a taxpayer has not received a notice of assessment that the taxpayer is incapable of acting.
+− it had a bona fide intention to object to the assessment
+[41] The applicant contends that it always had a bona fide intention to object to the assessment. To support its argument, it notes past actions such as the fact that the assessment of June 3, 2013, is identical to the assessment of May 2, 2011, for which it filed an objection.
+[42] In my opinion the applicant did not succeed in proving that it had a bona fide intention to object to the assessment for the following reasons:
+− Ms. Forget's testimony
+[43] Ms. Forget testified that she works for a group of about thirty companies that includes the applicant. She testified that she is responsible for the accounting, end-of-year transactions and everything involved in being the comptroller for the applicant and the limited partnership Le Sage au piano.
+[44] Given Ms. Forget's professional training and work experience, it is difficult for me to accept that Ms. Forget did not know that a taxpayer would not receive a final notice of payment without an assessment first being issued. In this regard, the evidence established that the notice of payment dated June 20, 2013, was clearly related to the assessment of June 3, 2013, since there was no balance owing for the previous assessments.
+[45] I also question Ms. Forget's testimony when she stated that she did not know that the applicant had an assessment dated June 3, 2013. Yet the statement of account attached to the request for payment dated June 20, 2013, clearly refers to it.
+[46] Moreover, during her testimony in chief, Ms. Forget testified that she had sent the request for payment dated June 20, 2013, to the applicant's counsel, Mr. Fournier, and that he had indicated that they had to wait for the assessment before filing an objection. However, under cross-examination, she stated the opposite, that she had not sent the request for payment to Mr. Fournier; she did not have to do so since she knew that for GST, she had to pay it. In my opinion, the request for payment was not sent to Mr. Fournier; what was sent to Mr. Fournier was the draft assessment dated May 31, 2013, and that was when Mr. Fournier told her to wait for the assessment.
+− lack of evidence; past actions of the applicant
+[47] In her testimony, Ms. Forget noted that the applicant had taken steps with respect to the assessment of May 2, 2011, and it had mandated the applicant’s counsel to file an objection. She stated that a notice of objection was accordingly filed within the prescribed time period. She stated that the subject of the assessment of June 3, 2013, is identical to the assessment of May 2, 2011, and the period at issue is the same, September 1, 2010, to September 30, 2010.
+[48] I believe Ms. Forget’s statement that the subject of the assessment of May 2, 2011, is the same as that of the assessment of June 3, 2013. This evidence in itself does not prove that the applicant had a bona fide intention to object to the assessment of June 3, 2013. The applicant did not submit evidence of the notice of objection to the assessment dated May 2, 2011. The respondent does not acknowledge that the applicant objected to the assessment of May 2, 2011. Filing this notice of objection would have corroborated Ms. Forget’s testimony and would have provided important documentary evidence for the assessment of the applicant’s true intention.
+− the actions of the applicant regarding the assessment dated June 3, 2013
+[49] Exhibit I-4, [Translation] “audit results”, received on May 31, 2013, by the applicant states the following: [Translation] “However, the notices of assessment for these adjustments will be sent to you separately in the next few days.”
+[50] Moreover, Exhibit I-2, [Translation] “request for payment,” dated June 20, 2013, included a statement of account in which an amount appears in the owing column with the description [Translation] “reassessment” and the date “2013-06-03”.
+[51] Furthermore, on July 10, 2013, Ms. Tessier, the applicant's accounting technician, phoned Ms. Moraga of the ARQ to ask about the $99 file handling fee, which seems to me to be another indication that an assessment has been made. In Déjoie c La Reine, No 2013-4773(GST)APP, May 1, 2014, Justice Favreau stated the following at paragraph 24:
+[Translation]
+...On April 11, 2013, the applicant received the added file handling fee and on April 16, 2013, the final notice, without doing anything to obtain more information about his tax liability and the associated assessments and to find out why his file was transferred to the enforcement division. When the applicant received both documents, he was still within the 90-day period for filing a notice of objection, but he did not do so. ...
+[52] I believe that Justice Favreau's statement applies to this applicant. It is difficult to understand why the applicant did nothing, either through Ms. Forget or a member of its team, to find out the reasons why the applicant’s file had been transferred to the enforcement division, particularly in light of the request for final payment and the statement of account dated June 20, 2013, which refers to the assessment of June 3, 2013. It seems to me that if the applicant had not received the notice of assessment of June 3, 2013, as it claims, after reviewing the statement of account, it would have promptly contacted the ARQ to obtain a copy. It should be noted that when the applicant received the documents from the ARQ, including the statement of account in June 2013, and at the time of the telephone conversations between Ms. Moraga and Ms. Forget and between Ms. Moraga and Ms. Tessier, the applicant was still within the 90-day period for filing a notice of objection.
+[53] Thus, in light of the evidence on the record, I am of the view that the applicant did not prove that it had a bona fide intention to object to the assessment dated June 3, 2013.
+[54] As I stated at paragraph 36 of the reasons for this order, the conditions set out in subsection 304(5) of the ETA are cumulative and the applicant must meet all the conditions under that subsection to obtain an extension. Since the applicant did not prove that it met one of the conditions set out in subparagraph 304(5)(b)(i), I do not have to review the other conditions set out in subsection 304(5) of the ETA.
+DISPOSITION [55] First, I find that the presumption under subsection 334(1) of the ETA applies since the Minister proved that the assessment dated June 3, 2013, was sent.
+[56] Second, since the applicant did not prove that it met all of the conditions set out in subsection 304(5) of the ETA, the application for an extension of time for filing a notice of objection in respect of the assessment dated June 3, 2013, is dismissed.
+Signed at Ottawa, Canada, this 28th day of October 2014.
+"Johanne D'Auray"
+D'Auray J.
+Translation certified true
+on this 3rd day of December 2014
+Monica F. Chamberlain, Translator
+CITATION:
+2014 TCC 320
+COURT FILE NO.:
+2014-643(GST)APP
+STYLE OF CAUSE:
+LES MONARQUES COMPLEXE POUR RETRAITÉS INC. v. THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 2, 2014
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D'Auray
+DATE OF ORDER:
+October 28, 2014
+APPEARANCES:
+Counsel for the appellant:
+Camille Janvier
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Camille Janvier
+Firm:
+BCF, LLP
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 301(1.1) of the ETA prescribes that a notice of objection be filed with the Minister within 90 days after the day notice of the assessment is sent.

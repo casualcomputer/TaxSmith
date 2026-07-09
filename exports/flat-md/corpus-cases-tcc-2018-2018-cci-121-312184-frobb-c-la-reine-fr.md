@@ -1,0 +1,204 @@
+---
+title: "Frobb c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/312184/index.do"
+last_modified: "2018-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 121"
+citation2: ""
+neutral_citation: "2018 CCI 121"
+decision_date: "2018-06-27"
+language: "fr"
+item_id: "312184"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5091
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:51:46.062000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "abd6efbb5683c9acb50dedb98595e5ec10fb37d28a5fe7f4fbbb90f62310455a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Frobb c. La Reine
+
+- Citation: 2018 CCI 121
+- Decision date: 2018-06-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5091, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frobb c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-27
+Référence neutre
+2018 CCI 121
+Numéro de dossier
+2016-2786(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2786(IT)I
+ENTRE :
+FRANCES FROBB,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 mai 2018, à Nelson (Colombie-Britannique)
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Spencer Landsiedel
+JUGEMENT
+Les appels sont accueillis, sans dépens, au motif que l’appelante est la principale pourvoyeuse de soins et qu’elle a droit à la Prestation fiscale canadienne pour enfants ainsi qu’au crédit pour taxe sur les produits et services pour les périodes suivantes :
+1) la portion de l’année de base 2011 comprise entre avril et juin 2013;
+2) l’année de base 2012, soit la période entre juillet 2013 et juin 2014;
+2) l’année de base 2013, soit la période entre juillet 2014 et juin 2015.
+L’appel concernant l’année de base 2014 est annulé avec l’accord des parties.
+Signé à Ottawa, Canada, ce 27e jour de juin 2018.
+« Diane Campbell »
+La juge Campbell
+Référence : 2018 CCI 121
+Date : 20180627
+Dossier : 2016-2786(IT)I
+ENTRE :
+FRANCES FROBB,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les appels concernent l’admissibilité de l’appelante à la Prestation fiscale canadienne pour enfants (la « PFCE ») et au crédit pour taxe sur les produits et services (le « CTPS ») pour les années de base 2011, 2012, 2013 et 2014. Le ministre du Revenu national (le « ministre ») a réexaminé l’admissibilité à la PFCE et au CTPS, et il en est résulté un trop-payé versé à l’appelante pour les années de base susmentionnées.
+[2] Au début de l’audience, les parties ont informé la Cour que l’appel relatif à l’année de base 2014, soit la période entre juillet 2015 et juin 2016, devrait être annulé parce que l’appelante n’avait pas produit d’avis d’opposition au sujet du réexamen de l’admissibilité à la PFCE et au CTPS. L’appelante a convenu que la Cour n’avait pas à être saisie en l’espèce. L’une des conditions préalables pour présenter une demande d’appel n’a pas été respectée, du fait qu’il n’y a pas eu d’opposition déposée en lien avec l’année de base 2014. Par conséquent, j’annule l’appel concernant l’année de base 2014.
+[3] Les périodes visées sont donc les suivantes :
+1) l’année de base 2011, soit les mois compris entre juillet 2012 et juin 2013 relativement à la PFCE, et les trimestres entre juillet 2012 et juin 2013 relativement au CTPS;
+2) l’année de base 2012, soit les mois compris entre juillet 2013 et juin 2014 relativement à la PFCE, et les trimestres entre juillet 2013 et juin 2014 relativement au CTPS;
+3) l’année de base 2013, soit les mois compris entre juillet 2014 et juin 2015 relativement à la PFCE, et les trimestres entre juillet 2014 et juin 2015 relativement au CTPS.
+[4] L’appelante et son ex-époux, Juniper Miller, ont trois enfants. Ils se sont séparés une première fois en mars 2012, puis se sont réconciliés pendant quelque temps, soit du 20 septembre 2012 au 15 mars 2013. Dans l’avis d’opposition qu’elle a déposé et dans son témoignage, l’appelante indique que pour la période durant l’année de base 2011 où ils ont été séparés, ils avaient une entente de parentage partagé concernant leurs trois enfants, mais qu’elle était la principale pourvoyeuse de soins. En juillet et en août 2012, l’appelante a habité chez son frère sur la côte et partageait la garde des enfants avec M. Miller. Ces derniers passaient deux semaines chez l’un des parents, puis deux semaines chez l’autre. M. Miller n’a pas contredit ces affirmations. Pendant l’année scolaire, soit de septembre 2012 à juin 2013, l’appelante a éduqué ses enfants à domicile. Après la séparation, survenue le 15 mars 2013, les parties ont partagé la garde des enfants à raison de trois jours chez l’un et trois jours chez l’autre, et l’appelante a continué de leur faire la classe à la maison. Selon M. Miller, les enfants passaient plutôt deux jours chez lui, puis deux jours chez leur mère. M. Michael Gabriel, qui a été un médiateur non officiel entre les parties pour l’essentiel des périodes visées par l’appel et qui était un ami proche de la famille avant et après la séparation, se souvient pour sa part qu’il s’agissait d’une entente moitié-moitié. Peu importe le nombre de jours de garde, l’entente s’est poursuivie jusqu’au 15 novembre 2013.
+[5] Selon les éléments de preuve, après la deuxième séparation, celle survenue en mars 2013, l’appelante a continué d’éduquer les enfants à la maison. Dans son témoignage, M. Miller a dit qu’il avait participé à l’éducation des enfants, mais n’a pas donné de précisions. L’appelante a dit qu’entre mars et octobre 2013, elle avait demandé à répétition à M. Miller d’apporter une aide financière. N’ayant pas pu obtenir l’aide demandée, c’est elle qui a dû acheter les vêtements de printemps et d’été des enfants, leurs souliers et l’équipement dont ils avaient besoin.
+[6] Le 15 novembre 2013, l’appelante a obtenu une ordonnance ex parte. À la suite d’un « incident » entre les parties, la Cour provinciale de la Colombie-Britannique a ordonné que M. Miller voit ses enfants exclusivement sous supervision. Les visites devaient avoir lieu en présence de Maureen Miller, la mère de Juniper, ou de toute personne dont les parties auraient convenu. Maureen Miller a apparemment agi en tant que médiatrice jusqu’en février 2014, préférant s’arrêter à ce moment-là parce qu’elle trouvait la situation trop stressante. C’est à ce moment que M. Gabriel est devenu un superviseur non officiel.
+[7] Le 9 décembre 2013, la Cour a émis une ordonnance provisoire et une ordonnance de protection. Aux termes de l’ordonnance de protection, M. Miller ne devait pas communiquer avec l’appelante, ni la suivre ou se rendre chez-elle. Il lui était également interdit de posséder une arme à feu. L’ordonnance provisoire a mené à l’ajournement de la demande que l’appelante a déposée le 23 janvier 2014 pour obtenir une pension alimentaire et prévoyait que M. Miller aurait les périodes de parentage suivantes :
+du 13 au 15 décembre 2013;
+du 23 au 30 décembre 2013;
+par la suite, les trois premières fins de semaine de chaque mois, à compter du 3 janvier 2014.
+2. Les parents devaient aller chercher et déposer les enfants à la résidence de Maureen Miller, la mère de Juniper Naam Miller.
+[8] Il semble qu’entre novembre et décembre 2013, l’appelante était la principale pourvoyeuse de soins, puisque M. Miller a eu peu, voire pas du tout, de contact avec les enfants en raison de l’incident ayant mené à l’émission d’une ordonnance de protection. Par la suite, en décembre 2013, M. Miller a eu droit à neuf jours de visite aux termes de l’ordonnance provisoire.
+[9] Toujours aux termes de cette même ordonnance provisoire, rendue le 9 décembre 2013, M. Miller avait la garde des enfants au cours des trois premières fins de semaine de chaque mois, et ce, à compter de janvier 2014. Le 20 mars 2014, la Cour provinciale de la Colombie-Britannique a émis une ordonnance sur consentement, ordonnant :
+1. que les parties maintiennent les temps de parentage, conformément à l’ordonnance rendue le 9 décembre 2013;
+2. que les parties se partagent à parts égales les vacances estivales des enfants, selon des termes convenus entre elles, à l’exception des cinq jours qui suivent la fin des classes et les sept qui précèdent la rentrée, les enfants étant alors avec la répondante [sic], Frances Anne Frobb.
+[10] Selon les éléments de preuve présentés, les arrangements parentaux, tels qu’ils ont été établis dans l’ordonnance sur consentement, ont pour l’essentiel été respectés jusqu’en novembre 2014. M. Miller s’est occupé des enfants pendant la première fin de semaine de juin 2014, car l’appelante était en vacances avec sa famille. Les parents se sont partagés à parts égales les mois de juillet et d’août 2014, à raison de quatre jours de garde consécutifs chacun, conformément à l’ordonnance sur consentement émise le 20 mars 2014. D’après le témoignage de l’appelante, à la rentrée en septembre 2014, ils sont revenus au calendrier imposé par le tribunal, à savoir que M. Miller avait les enfants les trois premières fins de semaine de chaque mois. Cette rotation a été maintenue en septembre et en octobre. Le 20 octobre 2014, le ministre a informé l’appelante que son admissibilité à la PFCE et au CTPS avait été réexaminée et qu’elle avait touché des sommes en trop. Comme elle avait déjà versé la moitié de ces sommes à M. Miller et qu’elle n’avait toujours pas obtenu d’ordonnance concernant le versement d’une pension alimentaire, l’appelante, après discussions avec le père, a donné à ce dernier une nuit supplémentaire avec les enfants dans l’espoir qu’il respecterait ses engagements financiers envers ceux-ci. M. Miller était absent durant la dernière semaine d’octobre; il a donc commencé à prendre les enfants les trois premières fins de semaine de chaque mois à compter de novembre 2014, en plus de chaque mercredi soir après l’école, jusqu’au début des classes le lendemain matin. En décembre 2014, M. Miller a eu les enfants du 14 au 26 décembre. Le 27 décembre, l’appelante a amené les enfants au chevet de leur grand-mère, qui était mourante. Ils sont revenus le 8 janvier 2015 et les parents ont repris le calendrier dont ils avaient convenu (chaque mercredi soir et les trois premières fins de semaine de chaque mois chez le père) jusqu’en mars 2015. Durant tout ce mois, M. Miller était en Inde et les enfants, chez l’appelante.
+[11] L’appelante a déclaré qu’en avril 2015, elle avait voulu revenir à l’entente imposée par le tribunal, à savoir les trois premières fins de semaine de chaque mois, car l’ajout du mercredi soir n’avait pas eu l’effet escompté, soit d’obtenir de M. Miller qu’il apporte une contribution financière. Selon l’appelante, M. Miller a rejeté sa demande de revenir à l’entente de départ (sans les mercredis soirs), et ce, en dépit du fait qu’il contrevenait ainsi à l’ordonnance du tribunal. Pendant cette période, les enfants ont commencé une thérapie, mais M. Miller a refusé de faire de même. L’appelante a conclu qu’elle devrait continuer de lui laisser les enfants le mercredi soir jusqu’à ce qu’elle puisse obtenir d’un tribunal qu’il modifie l’ordonnance. Cet arrangement s’est donc poursuivi jusqu’en juin 2015, soit le dernier mois de l’année de base 2013 et la dernière période visée par l’appel que la Cour doit trancher.
+[12] Tant M. Miller que M. Gabriel ont déclaré que durant cette période, si un mois comptait quatre fins de semaine, M. Miller avait les enfants les jours de semaine qui précédaient cette fin de semaine. Au-delà de quelques vagues souvenirs, aucun des deux témoins n’a pu, indépendamment, fournir de dates, d’heures ou d’autres détails qui auraient pu me convaincre que les choses s’étaient déroulées ainsi.
+[13] Le 8 octobre 2015, la Cour provinciale de la Colombie-Britannique a rendu une autre ordonnance et même si cette dernière a été émise après juin 2015, qui est la dernière période à l’égard de laquelle je dois trancher, je conclus qu’une des dispositions de cette ordonnance est tout particulièrement pertinente en l’espèce :
+LA COUR ORDONNE ET SUR CONSENTEMENT DES PARTIES ce qui suit :
+1. Frances Anne Frobb doit continuer d’être la principale pourvoyeuse de soins des enfants et le temps de parentage de M. Miller doit être celui établi dans l’ordonnance rendue par la Cour le 9 décembre 2013… [Non souligné dans l’original.]
+[14] La période susmentionnée est celle qui précède la date de l’ordonnance. De plus, c’est sur consentement des parties que la Cour reconnaît que l’appelante continue d’être la principale pourvoyeuse de soins des enfants.
+Discussion
+[15] L’appelante soutient que c’est principalement elle qui subvient aux besoins des enfants (les personnes à charge admissibles) et qui s’occupe de leur éducation. Aux termes de l’article 122.5 pour ce qui est de la PFCE et de l’article 122.6 relativement au CTPS de la Loi de l’impôt sur le revenu (la « Loi »), les régimes sont similaires, à l’exception de la période par rapport à laquelle le calcul est fait. Le montant de la PFCE est établi pour un particulier admissible en lien avec des mois déterminés.
+[16] En ce qui concerne la PFCE, le paragraphe 122.5(4) se lit comme suit :
+Pour l’application du présent article, les mois déterminés d’une année d’imposition sont juillet et octobre de l’année d’imposition suivante et janvier et avril de la deuxième année d’imposition suivante.
+[17] Le paragraphe 122.5(6) est pour sa part libellé ainsi :
+La personne qui, en l’absence du présent paragraphe, serait la personne à charge admissible de plusieurs particuliers par rapport à un mois déterminé d’une année d’imposition est réputée être la personne à charge admissible par rapport à ce mois :
+a) soit de celui parmi ces particuliers sur lequel ceux-ci se sont mis d’accord;
+b) soit, en l’absence d’accord, des particuliers qui, au début de ce mois, sont des particuliers admissibles (au sens de l’article 122.6, le terme « personne à charge admissible » à cet article s’entendant au sens du paragraphe (1)) à son égard;
+c) soit, dans les autres cas, de nul autre que le particulier désigné par le ministre.
+[18] Les termes « particulier admissible » et « personne à charge admissible » sont définis aux articles 122.5 et 122.6, en fonction du sens qu’ils ont à chacun de ces articles. Le calcul de la PFCE est expliqué au paragraphe 122.5(3) et le montant dépend de ce que le parent qui recevra la prestation à des personnes admissibles à charge ou non. Conformément au paragraphe 122.5(1), par rapport à un mois déterminé d’une année d’imposition, une personne à charge admissible d’un particulier est l’enfant du particulier, elle est âgée de moins de 19 ans, elle vit avec le particulier, elle n’est pas un particulier admissible et elle n’est pas un proche admissible d’un particulier. Toutefois, si le particulier admissible est un parent ayant la garde partagée, alors le paragraphe 122.5(3.01) s’applique, malgré l’exigence générale relativement au lieu de résidence de la personne à charge admissible et du particulier admissible. De cette façon, chaque parent ayant la garde partagée peut réclamer une partie du crédit à l’égard des personnes à charge admissibles. Dans ce paragraphe, on renvoie à la définition de « parent ayant à la garde partagée » donnée à l’article 122.6 de la sous-section A1 ‑ Allocation canadienne pour enfants :
+parent ayant la garde partagée S’entend, à l’égard d’une personne à charge admissible à un moment donné, dans le cas où la présomption énoncée à l’alinéa f) de la définition de particulier admissible ne s’applique pas à celle-ci, du particulier qui est l’un des deux parents de la personne à charge qui, à la fois :
+a) ne sont pas, à ce moment, des époux ou conjoints de fait visés l’un par rapport à l’autre;
+b) résident avec la personne à charge sur une base d’égalité ou de quasi-égalité;
+c) lorsqu’ils résident avec la personne à charge, assument principalement la responsabilité pour le soin et l’éducation de celle-ci, ainsi qu’il est déterminé d’après des critères prévus par règlement.
+[19] En ce qui concerne le CTPS, le terme « particulier admissible » est défini à l’article 122.6 de la Loi : il s’agit de la personne qui réside avec la personne à charge, qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge et qui est un parent ayant la garde partagée à l’égard de la personne à charge. Aux fins du présent appel, les trois alinéas pertinents sont les suivants :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+L’alinéa 122.6 f) entraîne une présomption en faveur de la mère de la personne à charge. Cependant, à l’alinéa g), il est précisé que cette présomption ne s’applique pas dans les circonstances prévues au règlement 6301(1) :
+6301(1) Pour l’application de l’alinéa g) de la définition de particulier admissible à l’article 122.6 de la Loi, la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances suivantes :
+a) la mère de la personne à charge admissible déclare par écrit au ministre qu’elle réside avec le père de cette personne et qu’il est celui qui assume principalement la responsabilité pour le soin et l’éducation de chacune des personnes à charge admissibles avec lesquelles les deux résident;
+b) la mère est une personne à charge admissible d’un particulier admissible et chacun d’eux présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible;
+c) la personne à charge admissible a plus d’une mère avec qui elle réside et chacune des mères présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la personne à charge admissible;
+d) plus d’une personne présente un avis au ministre conformément au paragraphe 122.62(1) de la Loi à l’égard de la même personne à charge admissible qui réside avec chacune d’elles à des endroits différents.
+[20] Des quatre circonstances décrites au règlement 6301, c’est celle décrite à l’alinéa d) qui s’applique en l’espèce. La demande de prestations présentée par M. Miller signifie que la présomption en faveur de la mère dont il est question à l’alinéa f) ne s’appliquait plus.
+[21] La définition de « parent ayant la garde partagée » énonce les critères examinés et analysés pour déterminer quel parent est réputé être celui qui assume principalement la responsabilité pour le soin et l’éducation d’une personne à charge. Une liste de ces critères, qui figure également à l’alinéa h), se trouve au règlement 6302 :
+6302 Pour l’application de l’alinéa h) de la définition de particulier admissible à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[22] Le paragraphe 122.61(1.1) de la Loi porte sur le calcul du CTPS que touchent les parents ayant la garde partagée, lorsque les deux parents sont admissibles au crédit du fait qu’ils partagent à parts égales la responsabilité pour le soin et l’éducation des personnes à charge admissibles au cours du même mois. Si au début du mois, ils sont des parents ayant la garde partagée, alors le CTPS sera calculé conformément à ce paragraphe et sera réparti également entre les deux. Le montant établi en application du paragraphe 122.61(1.1) remplace le montant qui aurait autrement été considéré comme étant un trop-payé au titre de ce même paragraphe.
+[23] Il incombe à l’appelante d’établir qu’elle et son ancien époux n’étaient pas des parents ayant la garde partagée et qu’elle a droit à la PFCE et au CTPS à l’égard des trois enfants, pour les périodes en question, du fait qu’elle est le seul parent assumant la responsabilité pour le soin et l’éducation des enfants. Elle a méticuleusement tenu un dossier; elle a présenté un classeur contenant des faits, les dates et les heures d’événements survenus chaque mois visé pendant les années de base, ainsi que des copies des ordonnances de la Cour, des portions de transcriptions, des renseignements financiers, des courriels, des lettres de conseillers, d’une clinique dentaire, d’un art-thérapeute, d’une école et de services communautaires, en plus de divers affidavits appuyant l’affirmation selon laquelle elle est la principale pourvoyeuse de soins. Je sais que les auteurs de ces lettres n’étaient pas présents à l’audience et qu’ils n’ont pas été contre-interrogés, et cela relève nécessairement de la force probante.
+[24] Il est clair que M. Miller est un excellent père pour les enfants lorsqu’il en a la garde. Les éléments de preuve indiquent qu’il se soucie grandement de leur bien-être et qu’il est très impliqué dans leurs activités lorsqu’ils sont avec lui. Selon son témoignage, il les emmène faire du camping, du vélo et de la randonnée, dans les environs mais dans d’autres provinces aussi. Ils font du yoga ensemble. M. Miller les encourage à s’initier aux arts comme la peinture et la musique. Lorsque les enfants étaient avec leur père, ils résidaient à la résidence que ce dernier habite depuis 10 ans. Il ajoute qu’il subvenait à leurs besoins, notamment hygiéniques, qu’il était présent pour eux et qu’il les guidait quand il en avait la garde. Il ne fait aucun doute que M. Miller est un parent dévoué et aimant lorsqu’il a la garde des enfants.
+[25] L’appelante a changé de résidence à plusieurs reprises au cours de cette période, mais les éléments de preuve indiquent que les enfants jouissaient malgré tout d’un environnement sécuritaire et stable. Les éléments de preuve montrent en outre qu’elle était la personne-ressource en ce qui concerne les rendez-vous chez le médecin et le dentiste. La plupart du temps (en raison des périodes de garde qui changeaient constamment), elle était aussi la personne-ressource pour l’école, où les enfants allaient après qu’elle a eu cessé de leur faire la classe à domicile, en juin 2013. M. Miller était sur la liste des personnes que l’école pouvait appeler en cas d’urgence. Dans son témoignage, l’appelante a dit qu’elle déposait les enfants à l’école et qu’elle venait les chercher à la fin de la journée, et qu’elle participait à diverses activités scolaires. À l’évidence, c’est une mère engagée qui répond aux besoins quotidiens des enfants lorsqu’elle en a la garde. Elle les a éduqués à domicile de septembre 2012 et à juin 2013. Depuis 2012, les trois enfants sont inscrits à des activités de danse, et en 2013 et 2014, ils ont fait de la natation et du patinage. Elle a payé l’inscription aux activités ainsi que l’équipement et les vêtements requis. En mai ou juin 2015, elle a inscrit les enfants à des leçons d’équitation. Plusieurs de ces activités étaient organisées par l’école.
+[26] Lors du contre-interrogatoire, l’appelante a indiqué qu’elle et M. Miller avaient convenu de chacun payer la moitié des frais d’inscription des enfants à des leçons de ski. Cependant, M. Miller ayant refusé de payer sa part, l’école a apporté une contribution financière pour que les enfants puissent poursuivre les leçons. Selon les éléments de preuve qu’elle a produits, elle a acheté et payé la plupart des vêtements dont les enfants avaient besoin. Des publications laissent entendre que M. Miller a aussi fait quelques achats, mais certaines de ces publications montrent également que ces achats sont survenus après que de nombreuses demandes eurent été faites par l’intermédiaire du médiateur, Michael Gabriel. Dans l’un des cas, l’appelante a envoyé à M. Gabriel, sur une période de deux semaines, des courriels concernant l’achat de vêtements d’automne pour l’école et d’articles pour une activité de plein air.
+[27] L’appelante a par ailleurs indiqué que c’est elle qui s’occupait des besoins ordinaires comme le traitement contre les poux qu’elle a appliqué aux trois enfants sur une période de trois mois, entre septembre et novembre 2014. Dans son témoignage, elle affirme que le traitement s’est étiré en raison du refus de M. Miller de l’appliquer aux enfants lorsqu’il en avait la garde.
+[28] Pour en revenir à la définition de « parent ayant la garde partagée », il faut tenir compte du critère énoncé à l’alinéa b), selon lequel le parent doit résider avec la personne à charge d’abord et qu’il doit résider avec celle-ci sur « une base d’égalité ou de quasi-égalité. » Dans les motifs de la décision qu’il a rendue dans l’arrêt Campbell c. La Reine, 2010 CCI 67, 2010 DTC 1072, le juge Webb indique que pour déterminer où l’enfant réside, ou réside habituellement, le critère est le fait pour l’enfant de vivre avec le parent « de manière établie et habituelle. » Pour en arriver à cette conclusion concernant le verbe « résider », le juge s’est appuyé sur les décisions rendues et les commentaires faits dans les arrêts Thomson v. M.N.R., [1946] SCR 209, 2 DTC 812; S.R. c. La Reine, 2003 CCI 649 et Lapierre c. La Reine, 2005 CCI 720, 2008 DTC 4248. Dans la décision que j’ai rendue concernant l’arrêt Brady c. La Reine, 2012 CCI 240, 2012 DTC 1204, je parle du terme « quasi-égalité » figurant dans la définition de « parent ayant la garde partagée. » Dans cette affaire, j’ai conclu qu’une différence de 14 heures dans un partage à 55/45 correspondait à une « quasi-égalité. »
+[29] Au cours des périodes à l’égard desquelles je dois trancher, l’appelante et son ancien époux, pour les mois de l’année de base 2011 où ils étaient séparés, résidaient avec les enfants sur une base d’égalité, à raison d’une semaine de garde chacun en juillet et en août 2012. Par la suite, de mars à juin 2013, ils avaient la garde des enfants pendant trois jours avant de les confier à l’autre parent. Enfin, pour les mois de juillet, août, septembre et octobre 2013 de l’année de base 2012, chaque parent a résidé avec les enfants sur une base d’égalité, à raison de trois jours consécutifs chacun. En novembre 2013, la Cour a limité le temps de parentage de M. Miller à des visites supervisées, et en décembre 2013, la Cour a ordonné que M. Miller ait la garde de ses enfants pendant les trois premières fins de semaine de chaque mois, et sur une base d’égalité en juillet et en août. Jusqu’en novembre 2013, chaque parent résidait avec les enfants sur une base d’égalité, mais les éléments de preuve montrent qu’après cela, les enfants étaient chez l’appelante pendant la majorité du mois. Durant l’année de base 2013, la Cour a ordonné que le calendrier établi soit maintenu entre juillet et octobre 2014. En novembre 2014, l’appelante a permis aux enfants de passer les mercredis soirs chez M. Miller, en plus d’y passer les trois premières fins de semaine de chaque mois. Cet arrangement s’est poursuivi jusqu’en juin 2015.
+[30] Même si l’avocat de l’intimée est d’avis que le compte d’heures pendant lesquelles chaque parent a eu la garde des enfants correspond à la définition de « parent ayant la garde partagée », je ne suis pas d’accord. Certes, M. Miller avait les enfants les trois premières fins de semaine de chaque mois et le mercredi soir quand ils n’avaient pas d’école, mais c’est l’appelante qui assumait, pendant la majeure partie du mois, la responsabilité pour le soin et l’éducation de ceux-ci. Je ne crois pas que l’appelante, quand elle avait la garde des enfants, n’assumait pas ses responsabilités de pourvoyeuse de soins quand ceux-ci étaient à l’école. Elle était la première personne que l’école devait contacter en cas d’urgence, et elle participait bénévolement au programme de restauration scolaire, ainsi qu’à d’autres activités parascolaires. Il ressort de ces faits, concernant le temps que les enfants passaient avec chacun de leur parent, qu’il s’agissait d’une garde partagée sur une base d’égalité pendant les périodes de l’année de base 2011 où les parents étaient séparés jusqu’au mois d’octobre 2013 (année de base 2012). Toutefois, de novembre 2013 à juin 2015, soit le reste de l’année de base 2012 et toute l’année de base 2013, les enfants résidaient plus souvent avec l’appelante qu’avec M. Miller.
+[31] En résumé, d’après mon examen du temps que les enfants ont passé avec chacun de leur parent durant les trois années de base à l’égard desquelles je dois trancher, ainsi que d’après les critères permettant de déterminer quel parent assume la responsabilité pour le soin et l’éducation des enfants, je conclus que la garde n’a été partagée que durant les mois de juillet et d’août 2012 de l’année de base 2011. Durant ces deux mois, la garde a été partagée sur une base d’égalité et les éléments de preuve indiquent qu’il s’agissait d’un arrangement de garde partagée. M’appuyant sur les faits, je conclus que pendant le reste de l’année de base 2011, c’est-à-dire d’avril 2013 à octobre 2013 (année de base 2012), l’appelante assumait la responsabilité pour leur soin et leur éducation, et ce, bien que les enfants résidaient avec chacun des parents sur une base d’égalité ou de quasi-égalité. Lorsque l’arrangement a pris fin en novembre 2013, l’appelante a continué d’être la principale pourvoyeuse de soins, tant en ce qui concerne le temps que les enfants passaient chez elle qu’en ce qui concerne les critères applicables. Ma conclusion est étayée par les ordonnances de la Cour, en particulier par l’ordonnance du 8 octobre 2015, qui confirme que l’appelante continuerait d’être la principale pourvoyeuse de soins et que M. Miller conserverait le même temps de parentage, à savoir les trois premières fins de semaine de chaque mois, que celui établi dans l’ordonnance du 9 décembre 2013. Bien que M. Gabriel ait généralement soutenu le témoignage de M. Miller, les deux hommes n’ont pas donné d’information précise et j’ai eu l’impression que M. Gabriel se trouvait dans une position délicate du fait qu’il était l’ami des deux parents. Néanmoins, il n’a pas été en mesure de fournir de preuves concrètes à l’appui du témoignage de M. Miller, lequel témoignage était au mieux vague et incohérent.
+[32] Les appels sont accueillis, sans dépens, au motif que l’appelante est la principale pourvoyeuse de soins comme l’indiquent les faits présentés et qu’elle a droit à la Prestation fiscale canadienne pour enfants ainsi qu’au crédit pour taxe sur les produits et services pour les périodes suivantes :
+1) la portion de l’année de base 2011 comprise entre avril et juin 2013;
+2) l’année de base 2012, soit la période entre juillet 2013 et juin 2014;
+2) l’année de base 2013, soit la période entre juillet 2014 et juin 2015.
+[33] L’appel concernant l’année de base 2014 est annulé avec l’accord des parties.
+Signé à Ottawa, Canada, ce 27e jour de juin 2018.
+« Diane Campbell »
+La juge Campbell
+RÉFÉRENCE :
+2018 CCI 121
+Nº DU DOSSIER DE LA COUR :
+2016-2786(IT)I
+INTITULÉ :
+FRANCES FROBB c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Nelson (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 15 mai 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 27 juin 2018
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Spencer Landsiedel
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

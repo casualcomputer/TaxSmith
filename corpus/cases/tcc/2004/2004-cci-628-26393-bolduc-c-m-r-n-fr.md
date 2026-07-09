@@ -1,0 +1,177 @@
+---
+title: "Bolduc c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26393/index.do"
+last_modified: "2004-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 628"
+citation2: ""
+neutral_citation: "2004 CCI 628"
+decision_date: "2004-09-22"
+language: "fr"
+item_id: "26393"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3340
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:00:43.531000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0a3c933053241824b822c855e2ee4653a7296c834a1559a5935f4b1579030e21"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bolduc c. M.R.N.
+
+- Citation: 2004 CCI 628
+- Decision date: 2004-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3340, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bolduc c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-22
+Référence neutre
+2004 CCI 628
+Numéro de dossier
+2004-1214(OAS)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1214(OAS)
+ENTRE :
+CHRISTIAN BOLDUC,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES,
+intimé.
+_______________________________________________________________
+Appel entendu le 23 août 2004, à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu de la Partie II de la Loi sur la sécurité de la vieillesse concernant la période de paiement d'avril à juin 2003 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI628
+Date : 20040922
+Dossier : 2004-1214(OAS)
+ENTRE :
+CHRISTIAN BOLDUC,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT
+DES RESSOURCES HUMAINES,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel portant sur la Loi sur la sécurité de la vieillesse la « Loi » ), notamment les articles 2, 10, 12, 14, 27.1 et 28. L'appel porte également sur les articles 3, 56 et 146.01 de la Loi de l'impôt sur le revenu.
+[2] La question en litige est de savoir si l'intimé a correctement inclus dans le revenu de l'appelant la somme de 578 $ provenant d'un Régime enregistré d'épargne-retraite ( « REÉR » ) pendant l'année 2003 et s'il a correctement déterminé que son revenu est de 7 302,72 $ aux fins du calcul du supplément de revenu garanti prévu à la Partie II de la Loi pour le trimestre de paiement d'avril à juin 2003.
+[3] L'appelant a reconnu comme étant exactes toutes les hypothèses de faits de l'intimé reproduites dans la Réponse à l'avis d'appel. Ces hypothèses sont les suivantes :
+a) En 1992, l'appelant a retiré 8 672,92 $ d'un Régime enregistré d'épargne-retraite (REÉR) pour l'acquisition d'une habitation dans le cadre du régime d'accession à la propriété (RAP);
+b) En vertu de ce régime d'accession à la propriété, l'appelant doit inclure dans ses revenus, à chaque année depuis 1995 et ce pendant 15 ans, un montant de 578,41$ au titre de revenus provenant d'un REÉR, correspondant au remboursement annuel qu'il aurait été requis de faire dans son REÉR;
+c) Or, en 2003, l'appelant n'a effectué aucun remboursement dans son REÉR;
+d) L'appelant est devenu admissible à une pension de la Sécurité de la vieillesse et au Supplément de revenu garanti en avril 2003;
+e) En juillet 2002, l'appelant a présenté une demande de supplément de revenu garanti prévu à la Partie II de la Loi sur la sécurité de la vieillesse pour la période de juillet 2002 à juin 2003;
+f) Dans cette demande, il a déclaré que son revenu annuel pour l'année 2001 s'élevait à 12 508,31 $;
+g) Le 15 janvier 2003, l'appelant a rempli un formulaire de déclaration de revenu estimatif pour l'année 2003 puisque son revenu annuel allait être diminué de 12 508,31 $ à 7 302,72 $ à partir d'avril 2003;
+h) Le revenu estimé par l'appelant pour l'année 2003 se détaillait comme suit :
+Prestations du RPC/RRQ (552,06 $ x 9 mois) .........
+Intérêts ........................................................
+Revenus d'un REÉR ........................................
+6 624,72 $
+100,00 $
+578,00 $
+Total ..........................................................
+7 302,72 $
+i) En se basant sur ces informations, l'intimé a donc estimé que le revenu de l'appelant aux fins du calcul du supplément du revenu garanti était de 7 302,72 $ pour l'année d'imposition 2003.
+[4] L'appelant conteste le caractère raisonnable de la décision du ministre du Développement des ressources humaines, tout en reconnaissant la logique et l'aspect mécanique du traitement de son dossier. Il a d'ailleurs bien exprimé sa conception et ses prétentions dans une lettre du 9 juillet 2003 dont le contenu est le suivant :
+Développement des ressources humaines,
+Programmes de la sécurité du revenu,
+333, rue de la Gare-du-Palais,
+Québec, Qc
+[...]
+À qui de droit,
+J'aimerais soumettre à nouveau à votre attention le revenu de $578.00 déclaré à la ligne 120 de la demande de supplément de revenu garanti.
+Cette somme représente une partie d'un régime d'accession à la propriété que j'ai retiré en 1992 sans qu'il soit imposé.
+J'avais alors le choix de racheter ce REER ou de le déclarer comme revenu imposable à compter de 1995 pour une période de 15 ans. J'ai opté pour cette dernière solution et déclarerai donc jusqu'en 2010 la somme de $578.00 ($578.41) au Ministère du Revenu pour lui permettre de récupérer les impôts impayés en 1992.
+L'ambiguité [erreur dans l'original] vient sans doute de ce que ce montant est indiqué à la ligne 129 (revenus de REER) de la déclaration des revenus.
+Il ne représente pas une somme qui augmente mon revenu annuel comme ce serait le cas pour un retrait d'un régime d'épargne enregistré. Ce n'est pas un revenu réel pour l'année en cours mais une somme déclarée pour fins d'impôt.
+Le montant de supplément de revenu garanti est déterminé chaque année parce que les revenus réels d'un individu peuvent varier chaque année. Ainsi, si une personne retire $578.00 d'un fonds de retraite pour l'année 2003, on en tiendra évidemment compte pour déterminer le montant de supplément puisque ses revenus auront réellement augmenté de $578.00 pour cette année-là.
+Toutefois, dans mon cas, cette somme n'augmente pas mes revenus chaque année puisque je ne la reçois pas : je la déclare pour fins d'impôt.
+Vous trouverez ci-joint des documents fournis par le Ministère du Revenu qui confirment que la somme déclarée concerne bien un RAP.
+Je vous demande donc de faire les ajustements nécessaires et vous prie de me croire,
+[...]
+[5] L'appelant, qui est sympathique et s'exprime très bien, a essentiellement fait valoir qu'il trouvait déraisonnable que ses revenus calculés en vertu des dispositions de la Loi de l'impôt sur le revenu soient ceux pris en considération pour l'application des dispositions relatives au calcul du supplément de revenu garanti pour la période d'avril à juin 2003 puisqu'il n'avait aucunement joui de ces revenus.
+[6] Il a également fait valoir que le ministre du Développement des ressources humaines (le « Ministre » ) devrait avoir ses propres règles, critères et conditions pour le calcul du supplément du revenu garanti. Selon l'appelant, cela permettrait de tenir compte du revenu réel de la personne concernée lors de l'évaluation du droit au supplément de revenu. En d'autres termes, l'appelant a exposé que le but ou l'objectif visé par le droit au supplément serait mieux servi si les responsables de son application avaient plein pouvoir et toute l'autorité nécessaire pour établir le revenu disponible et n'étaient pas liés par les dispositions de la Loi de l'impôt sur le revenu.
+[7] Bien que sympathiques, les arguments de l'appelant ne sont pas valables; en effet, le Ministre a toute la compétence et la juridiction pour agir. Le fait que l'on doive se référer à une loi dans le cadre de l'application d'une autre loi n'est ni un manquement ni un défaut; au contraire, cela permet plus de cohérence et de facilité. En effet, il est beaucoup plus simple, et surtout plus cohérent, que les mêmes notions aient le même sens : cela permet une meilleure compréhension ou une simplification au niveau de l'application.
+[8] Les citoyens font déjà face à une multitude de lois très complexes, et les avocats renoncent de plus en plus à agir comme généralistes pour concentrer leur compétence dans des secteurs bien précis et plus spécialisés. Conséquemment, lorsque les lois définissent et prévoient que certains concepts communs veulent dire ou signifient la même chose, il s'agit là d'un avantage et non d'un défaut. Souvent cette complexité est aggravée par la présence dans un même champ d'activité de plusieurs niveaux de gouvernement ou d'autorité.
+[9] Pour illustrer cette difficulté, je pense notamment à la question de l'invalidité ou de l'incapacité totale permanente, où il n'existe pas vraiment de définition qui satisfasse tout le monde.
+[10] En l'espèce, les dispositions applicables sont claires et ne laissent place à aucune équivoque ou ambiguïté possible. D'ailleurs, le fondement de ces dispositions est d'un rationnel et d'une logique incontournable. Dans un premier temps, le législateur a permis à toute personne physique de se constituer un capital appelé communément REÉR, avec des avantages fiscaux incontestables, de manière à planifier la retraite plus facilement.
+[11] Dans un deuxième temps, il a prévu que les détenteurs de REÉR pouvaient retirer en tout ou en partie les montants accumulés à l'abri de l'impôt sous le régime pour faciliter l'accession à la propriété (le Régime d'accession à la propriété ou « RAP » ) par le biais d'un procédé qui exige que le retrait soit remboursé sur une période de 15 ans.
+[12] Cette obligation de rembourser est sanctionnée par une mesure qui a le même effet que si le contribuable n'avait pas fait de retrait, c'est-à-dire que le montant qu'il aurait dû rembourser est imposé comme s'il avait procédé au retrait du montant. En d'autres termes, le contribuable doit assumer une charge fiscale sur un montant non reçu, mais présumé avoir été reçu, à cause de son choix antérieur dans le cadre du RAP.
+[13] Partant de là, l'appelant soutient qu'il s'agit d'un revenu essentiellement théorique qui devrait être occulté des revenus tenus pour acquis lors du calcul du supplément.
+[14] La revendication de l'appelant est d'autant plus sympathique que le fondement des dispositions relatives au supplément est la situation financière difficile du bénéficiaire touché par cette loi.
+[15] Par contre, souscrire aux prétentions de l'appelant aurait pour effet de faire indirectement ce qu'il ne pouvait pas faire directement, c'est-à-dire retirer un montant de son REÉR dans le cadre du RAP sans payer d'impôt.
+[16] Bien plus, cela aurait pour effet de récompenser ceux qui ont choisi de profiter du RAP durant les années précédant la retraite en ne remboursant pas les montants qui devraient, selon l'appelant, être exclus du calcul des revenus disponibles.
+[17] L'ajout du revenu théorique des suites de non-remboursement du REÉR serait alors essentiellement théorique, puisqu'il devrait être ultérieurement soustrait du fait de ne pas être disponible, favorisant ainsi le résultat pour permettre l'accès au programme de supplément.
+[18] Bien qu'il s'agisse de petits montants, je comprends qu'ils ont une importance significative pour une personne qui aspire à se qualifier dans le cadre du programme de supplément.
+[19] Par contre, il est tout aussi essentiel que tant l'esprit que la lettre de la Loi ne soit pas bafoué par une ou des décisions qui permettraient de faire indirectement ce qu'il n'était pas possible de faire directement.
+[20] En l'espèce, l'intimé a correctement inclus dans le revenu de l'appelant la somme de 578 $ à titre de revenu provenant d'un REÉR pour l'année d'imposition 2003, le tout ayant pour effet d'établir son revenu à 7 302,72 $ aux fins du calcul du supplément de revenu garanti.
+[21] Pour toutes ces raisons, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI628
+NoDU DOSSIER DE LA COUR :
+2004-1214(OAS)
+INTITULÉ DE LA CAUSE :
+Christian Bolduc et le ministre du développement des ressources humaines
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 23 août 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 22 septembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé:
+Me Emmanuelle Faulkner
+AVOCAT(E) INSCRIT(E) AUX DOSSIERS :
+Pour l'appelant :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

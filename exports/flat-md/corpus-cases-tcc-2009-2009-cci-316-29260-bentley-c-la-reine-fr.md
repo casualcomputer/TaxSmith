@@ -1,0 +1,145 @@
+---
+title: "Bentley  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29260/index.do"
+last_modified: "2009-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 316"
+citation2: ""
+neutral_citation: "2009 CCI 316"
+decision_date: "2009-03-18"
+language: "fr"
+item_id: "29260"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7013
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:02:54.699000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "be93412193b3ae1c77b54a74bbc8073fbe105cec1ccb3089a2f825784364c343"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bentley  c. La Reine
+
+- Citation: 2009 CCI 316
+- Decision date: 2009-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7013, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bentley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-18
+Référence neutre
+2009 CCI 316
+Numéro de dossier
+2008-2230(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2230(IT)I
+ENTRE :
+HAZEL LYNN BENTLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 18 mars 2009, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Natasha Reid
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 9e jour de juin 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 17e jour de juillet 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 316
+Date : 20090609
+Dossier : 2008-2230(IT)I
+ENTRE :
+HAZEL LYNN BENTLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] En l’espèce, la question est de savoir si l’appelante peut déduire, à titre de frais médicaux, les sommes dépensées pour acheter des médicaments naturopathiques. Les faits ne sont pas vraiment en litige; la question porte simplement sur la façon d’appliquer la loi.
+[2] L’appelante souffre de diverses maladies chroniques. L’effet combiné de ces maladies est grave, et, selon le médecin de famille de l’appelante, les maladies dont souffre l’appelante font qu’elle ne peut pas travailler. Certaines de ces maladies causent des douleurs généralisées à l’appelante.
+[3] L’appelante est intolérante à la plupart des médicaments pharmaceutiques. Par conséquent, elle prend un bon nombre de médicaments naturopathiques, comme le lui a conseillé son médecin actuel.
+[4] Dans sa déclaration de revenus pour l’année d’imposition 2006, l’appelante a demandé la déduction d’un certain nombre de frais médicaux. Dans la nouvelle cotisation, les déductions demandées à l’égard de visites chez le naturopathe et de l’achat de médicaments naturopathiques ont été refusées.
+[5] L’appelante a présenté un avis d’opposition, auquel le ministre du Revenu national a répondu en établissant une autre nouvelle cotisation par laquelle il a accordé la déduction demandée à l’égard de visites chez le naturopathe, mais il a encore une fois refusé la déduction des frais liés aux médicaments naturopathiques.
+[6] Les médicaments naturopathiques en cause avaient été achetés au bureau du naturopathe de l’appelante.
+[7] Les membres du personnel du bureau du naturopathe qui ont vendu à l’appelante les médicaments naturopathiques n’étaient pas des pharmaciens autorisés par le College of Pharmacists of British Colombia (l’ordre professionnel des pharmaciens de la Colombie‑Britannique).
+[8] Pour que l’appelante puisse déduire les frais en cause, les exigences fixées à l’alinéa 118.2(2)n) de la Loi de l’impôt sur le revenu (la « Loi »), qui est ainsi rédigé, doivent être respectées :
+118.2(2) Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+n) pour les médicaments, les produits pharmaceutiques et les autres préparations ou substances […] pour servir au diagnostic, au traitement ou à la prévention d’une maladie, d’une affection, d’un état physique anormal ou de leurs symptômes ou en vue de rétablir, de corriger ou de modifier une fonction organique et, d’autre part, achetés afin d’être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a), sur ordonnance d’un médecin […] et enregistrés par un pharmacien;
+[9] J’éprouve beaucoup de compassion pour l’appelante, qui semble obtenir un soulagement grâce aux médicaments naturopathiques. Toutefois, il est clair que l’une des exigences essentielles de l’alinéa 118.2(2)n) de la Loi est que les médicaments aient été « enregistrés par un pharmacien ». Un pharmacien est une personne reconnue comme telle par la législation provinciale applicable[1].
+[10] En l’espèce, il est clair que cette exigence n’est pas respectée. Je dois donc rejeter l’appel.
+Signé à Ottawa, Canada, ce 9e jour de juin 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 17e jour de juillet 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 316
+No DU DOSSIER DE LA COUR :
+2008-2230(IT)I
+INTITULÉ :
+Hazel Lynn Bentley et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 18 mars 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Gaston Jorré
+DATE DU JUGEMENT :
+Le 9 juin 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Natasha Reid
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Ray c. Canada, 2004 CAF 1, aux paragraphes 1, 11, 12 et 13, de même que Selent c. La Reine, 2004 CCI 113, aux paragraphes 13 à 15. L’appelante a aussi cité deux autres décisions de la Cour canadienne de l’impôt. La première, Frank v. R., [2001] 3 C.T.C. 2596, bien qu’ayant adopté une approche large, est antérieure à la décision de la Cour d’appel fédérale dans Ray. La deuxième, Claussen Estate v. R., [2003] 2 C.T.C. 2363, n’aide pas l’appelante directement, mais, au paragraphe 7, la Cour a suggéré au législateur de modifier la législation de façon à reconnaître le rôle de la médecine naturelle.

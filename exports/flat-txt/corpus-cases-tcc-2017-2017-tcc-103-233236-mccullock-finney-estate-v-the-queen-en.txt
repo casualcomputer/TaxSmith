@@ -1,0 +1,159 @@
+Title: McCullock-Finney  (Estate) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/233236/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-103-233236-mccullock-finney-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-09
+
+# McCullock-Finney  (Estate) v. The Queen
+
+- Citation: 2017 TCC 103
+- Decision date: 2017-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2113, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCullock-Finney (Estate) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-09
+Neutral citation
+2017 TCC 103
+File numbers
+2015-5636(IT)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-5636(IT)I
+BETWEEN:
+ESTATE OF THE LATE CHRISTINA McCULLOCK-FINNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 31, 2017, at Montreal, Quebec.
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Jason Finney
+Counsel for the Respondent:
+Gabriel Girouard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2010 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Ontario, this 9th day of June 2017.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2017 TCC 103
+Date: 20170609
+Docket: 2015-5636(IT)I
+BETWEEN:
+ESTATE OF THE LATE CHRISTINA McCULLOCK-FINNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] This is an appeal from a Notice of Reassessment dated May 8, 2015, made under the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the “Act”) against the Appellant, now represented by her estate, for the 2010 taxation year. What is at issue is a claimed Capital Gains Deduction of $43,727 that was disallowed on the disposition of two properties that were owned by the Appellant since 1979 and disposed of in 2010.
+Factual Context
+[2] Christina McCullock-Finney was born October 10, 1942. She passed away on June 20, 2016 at the age of 73. Consequently, her estate now has carriage of this appeal. Throughout these reasons for decision, where I use the term Appellant, I do so interchangeably to mean either Christina McCullock-Finney personally or her estate.
+[3] This appeal is in relation to the disposition in 2010 of two rental properties owned by the Appellant situated in Lachine Quebec. These properties are situated at 82-86, 11th Avenue, Lachine, Quebec and 1091-1099 Saint-Louis, also in Lachine, Quebec (the “Properties”). She has owned the Properties for quite some time − since 1979. She also owned other rental real estate that is not the subject of this appeal.
+[4] The Properties were disposed of in 2010.
+[5] In filing her income tax return for the 2010 taxation year, the Appellant declared a taxable capital gain in the amount of $36,942 from the disposition of the Properties. She subsequently filed a T1 Adjustment Request Form for the 2010 taxation year wherein she claimed a Capital Gain Deduction of $43,727.
+[6] In a reassessment dated May 8, 2015, the Minister disallowed the amount of $43,727 claimed by the Appellant as a Capital Gain Deduction on the grounds that the Appellant never filed a Form T664 “Election to Report a Capital Gain on a Property Owned at the End of February 22, 1994” pursuant to s. 110.6(19) of the Act, nor a Form T657A “Calculation of Capital Gains Deduction for 1994 on Other Capital Property”, when she filed her personal tax return for 1994. In addition, the Respondent takes the position that the Appellant did not declare a Capital Gain and did not claim a Capital Gain Deduction resulting from the s. 110.6 election in her 1994 tax return. On August 4, 2015, the Appellant filed a Notice of Objection in respect of the reassessment dated May 8, 2015. The Minister, by way of Notice of Confirmation dated October 13, 2015, confirmed the reassessment. Hence the appeal to this Court.
+[7] The issue to be decided is whether the Minister was justified in disallowing the Capital Gain Deduction in the amount of $43,727 claimed by the Appellant.
+[8] Christiansen Lebrun is a Chartered Professional Accountant. He was the accountant for Christina McCullock-Finney while she was alive. He first met her in 2012. At that time, she was undergoing a Canada Revenue Agency (the “CRA”) audit for the 2009 and 2010 years. He prepared an objection on her behalf and built up a file for the CRA’s consideration. This file was submitted to the CRA but apparently it was lost. Consequently, he had to rebuild the file and resubmit it to the CRA. This was done in October 2014 and took some considerable effort on his part. Mr. Lebrun is certainly a dedicated professional who prides himself in providing quality services to his clients. He did not disappoint. As a result of his efforts, all of the outstanding issues between Ms. McCullock-Finney and the CRA were successfully resolved except for the capital gains issue.
+[9] Mr. Lebrun explains that the capital gains tax changed as of February 22, 1994. Before that date, the inclusion rate of capital gains into taxable income was 25% of the capital gain. It was changed to 50% as of February 22, 1994. The Minister decided to permit eligible taxpayers to elect to declare a disposition of capital property at the fair market value of the property at that time and then to claim an off-setting Capital Gains Deduction so as to take advantage of the existing Capital Gains Exemption. In order to do so, a taxpayer had to complete Form T664 “Election to Report a Capital Gain on Property Owned at the End of February 22, 1994”. In this form, the taxpayer designated properties for which he/she was filing an election. Mr. Lebrun is in possession of the Appellant’s working papers for 1994 and he produced to the Court, a copy of a completed Form T664 dated April 21, 1994 (part of Exhibit A-2) signed by the Appellant. In this Form T664, the Appellant designated the two Properties. The Appellant also established the fair market value of the Properties, subtracted the adjusted cost base for the Properties, determined the elected capital gains of $65,888 and arrived at an elected taxable capital gain of $49,416. This is the capital gain that had to be reported in her T1 personal tax return. Mr. Lebrun also produced from the Appellant’s working papers a copy of a signed Form T657A “Calculation of Capital Gains Deduction for 1994 on Other Capital Property” (also dated April 21, 1994 and also part of Exhibit A-2). On this form, the Appellant calculated the amount of $49,416 as a capital gain exemption. This amount also had to be claimed on the Appellant’s T1 personal tax return in order to avoid paying tax on the elected taxable capital gain. By completing those two forms and by properly reporting both the elected taxable capital gain and the claimed Capital Gain Deduction in his/her T1 personal tax return, a taxpayer would not be taxed on the exempt portion, when the property is sold years later. If the taxpayer did not make a proper election and report the deemed disposition in his/her return, any gains in the future would be taxed at the prevailing rates which would be higher than they were prior to February 22, 1994.
+[10] Mr. Lebrun is of the view that the Appellant clearly intended to take advantage of the capital gains exemption. He is convinced that the Appellant completed the necessary elections in Forms T664 and T657A and he concludes that she must have sent them to the CRA at the time of filing her 1994 personal tax return. Otherwise, why else would she go through the trouble of completing these forms and preserving copies of these forms in her personal files? Mr. Lebrun stated that he is in possession of a copy of the Appellant’s personal tax return for 1994. He candidly admits that she did not complete Schedule 3, “Capital Gains (or Losses) in 1994” and attach it to her personal tax return for 1994 as she was required to do. He admits that she did not report her electable taxable capital gain at line 127 of her 1994 personal tax return, as she was required to do. He also candidly admits that she did not claim the Capital Gain Deduction at line 254 of her 1994 tax return, as she was required to do.
+[11] In cross-examination, Mr. Lebrun agreed that the Appellant likely also completed and signed a second T664 form (see Exhibit R-1). However, this T664 does not contain the same information as in the first T664 – it is in relation to only one of the Properties, the one on St. Louis. It makes no mention at all of the property on 11th Avenue. In addition, the numbers on the two T664 forms are different. Apparently, the Appellant also completed another Form T657A (see Exhibit R-2). The information contained on this second T657A is different from the information contained on the first T657A. Mr. Lebrun cannot tell us why the Appellant would have prepared two different T664 and T657A forms. He cannot tell us which of these two sets of forms she would have intended to file nor which ones were in fact filed, if any. He can only conclude that she meant the election forms to be filed and he believes that they were. He agrees that the amount calculated on the forms have to be carried over to Schedule 3 of the tax return which has to be attached to the tax return. The elected capital gain had to be declared on line 127 of the tax return. The T657A Capital Gain Deduction had to be included on line 254 of the tax return. Mr. Lebrun cannot tell us why the Appellant did not include this information on her personal tax return for 1994. He agrees that this information must appear on the tax return but it does not. He opines that she did not know she had to complete Schedule 3 or fill in line 127 and line 254 of her return. He is of the view that she believed that the two election forms T664 and T657A alone were sufficient. In his view, the Appellant should be allowed to claim the Capital Gain Deduction that was disallowed by the Minister. She went out of her way to obtain the requisite Forms T664 and T657A and she completed them and signed them. She fully intended to file them and he concludes that she likely did so since she preserved copies of these documents in her personal files. She did everything to the best of her knowledge and her abilities to comply with the requirements of the Act.
+[12] Catalina Sylvia Tempea is a litigation officer employed by the CRA in the Montreal Tax Services Office. She examined all of the electronic documents that the CRA had on file with respect to the Appellant’s 1994 personal tax returns. She produced to the Court an electronic document known as an “Option-C” computerized printout (see Exhibit R-5). This document contains the information pertaining to the income and deductions reported in the Appellant’s personal tax return for 1994. The information contained thereon is cross-referenced to the corresponding line numbers on the personal tax return. She states that if all the necessary forms had been properly completed and filed to make an election pursuant to s. 110.6(19) of the Act, this would have been so indicated on the Option-C printout. The Option-C printout would show that Schedule 3 as well as Forms T664 and T657A had been filed. It does not. The Option-C printout shows a taxable capital gain of $43,747 cross-referenced to line 127 of the return but it does not. It would also show that the capital gain exemption of the same amount would have been cross-referenced to line 254 of the tax return; but it does not. There was no reference to line 127, line 254 and Schedule 3. According to her, there is no information regarding capital gain or capital gain exemption on Option-C for the 1994 taxation year. This is consistent with the evidence of Mr. Lebrun to the effect that Schedule 3, line 127 and line 254 of the Appellant’s return were not completed.
+[13] According to Ms. Tempea, this means that the capital gain was not declared and the offsetting capital gain exemption was not claimed. Ms. Tempea stated that the fact that the file in relation to the 2009 and 2010 years may have been lost, has no impact on the 1994 taxation year.
+[14] She testified that the election we are dealing with in the instant case involves more than completing and filing the election Forms T664 and T657A. The taxpayer has to make the election and also has to declare the capital gain and claim the exemption in the tax return. A properly-made election and capital gain deduction had to be claimed in the 1994 taxation return. It could not be made later when the property is subsequently sold. Even if forms T664 and T657A were included with the Appellant’s 1994 personal tax return, the information was not reported in the return. This is not a matter of intention or good faith; it is a matter of properly declaring a deemed disposition as a gain and then claiming the exemption. Ms. Tempea is of the view that the election was not properly made.
+Position of the Parties
+[15] The Appellant’s representative and accountant candidly and forthrightly admit that the elected taxable capital gain was not calculated in Schedule 3 and was not reported at line 127 of her 1994 tax return. It is also admitted that she did not claim the Capital Gain Deduction, which should have been shown at line 254 of her return. However, she knew that it was important to make an election in the 1994 tax year. She did what she believed was necessary and the fact that she had the forms in her personal file indicates that she likely filed the election forms. The Appellant’s representative argues that the Respondent had lost the appellant’s tax information or otherwise rendered the information inaccessible for proper verification. Unfortunately, there is no record of the forms anymore. It is argued that this does not prove that the Appellant did not file the forms. The Respondent simply failed to correctly record her election. It is argued that the Appellant was entitled to the capital gain exemption on the Properties that she owned as of February 22, 1994 and she did everything that she believed was necessary to make the election and claim the capital gain exemption. She may not have known the complexity of the law but she knew that an election had to be made and she always intended to comply. She believed that filing the forms was sufficient. It is argued that she was entitled to the capital gain deduction. The Appellant’s representative prays therefore that the appellant’s appeal be allowed so as to permit the capital gain deduction of $43,727.16.
+[16] The Respondent argues that there is no evidence of either Form T664 or T657A having been filed; if they had been, this would be so indicated on the Option-C printout. It is also argued that even if the forms had been filed, that in and of itself is not enough. The Appellant had to complete Schedule 3 and attach it to her personal tax return. She also had to declare the capital gain at line 127 of her personal tax return and then claim the Capital Gain Deduction at line 254 of her personal return for the 1994 taxation year. This she failed to do. Therefore, there was no elected capital gain declared and no Capital Gain Deduction claimed. The failure to declare the capital gain and to claim the Capital gain Deduction is fatal to her appeal. The Respondent therefore prays that this Appeal be dismissed.
+Legislative dispositions
+[17] Subsection 110.6 of the Act reads in part as follows:
+Election for property owned on February 22, 1994
+110.6(19) Subject to subsection 110.6(20), where an individual (other than a trust) or a personal trust (each of which is referred to in this subsection and subsections 110.6(20) to 110.6(29) as the “elector”), elects in prescribed form to have the provisions of this subsection apply in respect of
+(a) a capital property . . . owned at the end of February 22, 1994 by the elector . . . the property shall be deemed . . . ,
+(i) to have been disposed of by the elector at that time for proceeds of disposition equal to the greater of
+(A) the amount determined by the formula
+A – B
+where
+A is the amount designated in respect of the property in the election, and
+B is the amount, if any, that would, if the disposition were a disposition for the purpose of section 7 or 35, be included under that section as a result of the disposition in computing the income of the elector, and
+(B) the adjusted cost base to the elector of the property immediately before the disposition, and
+(ii) to have been reacquired by the elector immediately after that time at a cost equal to
+. . .
+(C) in any other case, the lesser of
+(I) the designated amount, and
+. . .
+110.6(24) Time for an election. An election made under subsection 110.6(19) shall be filed with the Minister
+(a) where the elector is an individual (other than a trust),
+(i) if the election is in respect of a business of the elector, on or before the individual’s filing-due date for the taxation year in which the fiscal period of the business that includes February 22, 1994 ends, and
+(ii) in any other case, on or before the individual’s balance-due day for the 1994 taxation year; and
+. . .
+110.6(25) Revocation of election. Subject to subsection 110.6(28), an elector may revoke an election made under subsection 110.6(19) by filing a written notice of the revocation with the Minister before 1998.
+110.6(26) Late election. Where an election made under subsection 110.6(19) is filed with the Minister after the day (referred to in this subsection and subsections 110.6(27) and 110.6(29) as the “election filing date”) on or before which the election is required by subsection 110.6(24) to have been filed and on or before the day that is 2 years after the election filing date, the election shall be deemed for the purposes of this section (other than subsection 110.6(29)) to have been filed on the election filing date if an estimate of the penalty in respect of the election is paid by the elector when the election is filed with the Minister.
+110.6(27) Amended election. Subject to subsection 110.6(28), an election under subsection 110.6(19) in respect of a property or a business is deemed to be amended and the election, as amended, is deemed for the purpose of this section (other than subsection 110.6(29)) to have been filed on the election filing date if
+(a) an amended election in prescribed form in respect of the property or the business is filed with the Minister before 1998; and
+(b) an estimate of the penalty, if any, in respect of the amended election is paid by the elector when the amended election is filed with the Minister.
+110.6(28) Election that cannot be revoked or amended. . . .
+110.6(29) Amount of penalty. The penalty in respect of an election to which subsection 110.6(26) or 110.6(27) applies . . .
+Analysis
+[18] As I pointed out in Sicurella v. Canada, [2013] T.C.J. No. 67, the statutory provisions that apply to the Capital Gains Exemption are complex. With respect to the Capital Gains Exemption, as provided for in s. 110.6 of the Act, it is appropriate to learn a bit about the history of capital gains taxation in Canada. Justice Lamarre-Proulx provided us with a very brief overview on this history in her reasons for decision in Foisy v. The Queen, 2000 CanLII 431 (TCC) at para. 16 et seq.:
+[16] I consider it useful in this case to briefly summarize the history of capital gains taxation. I have taken the information from the following works in particular: Lord, Sasseville and Bruneau, Les principes de l'imposition au Canada, 10th ed. (1993), chapters II and VII; and Hogg and Magee, Principles of Canadian Income Tax Law (1995), chapters 3 and 15.
+[17] Before 1972, capital gains were not subject to income tax. In 1967, the report of the Royal Commission on Taxation, known as the Carter Commission, recommended that such gains be taxable in the same way as business earnings. In 1969, the White Paper on Taxation recommended the full taxation of capital gains with the exception of those on shares of Canadian public corporations, which would be taxed at 50 percent. The Income Tax Act that came into force on January 1, 1972, provided for a 50 percent tax rate for capital gains.
+[18] In 1985, the Act was amended to give individuals a cumulative capital gains exemption that could progressively reach $500,000. That exemption increased gradually: thus, the limit was $20,000 in 1985, $50,000 in 1986 and $100,000 in 1987. It was then supposed to increase by $100,000 each year until it reached a final limit of $500,000 in 1990.
+[19] The exemption was said to be cumulative because it was necessary to accumulate the exemptions taken throughout an individual's life. Any exemption amount used in a previous year reduced the available exemption limit.
+[20] The increase in the exemption limit stopped at $100,000 in 1987 with the tax reform of that year. The same reform provided that the taxable portion of capital gains would rise to 66 2/3 percent in 1988 and 75 percent starting in 1990. The $100,000 exemption ended in 1994. (The federal budget of February 28, 2000, contains a proposal to bring the inclusion rate for capital gains realized after February 27, 2000, down to two thirds.)
+[21] The end to the increase in the tax exemption limit that occurred in 1988 did not apply to qualified farm property or qualified small business corporation shares. For them, the exemption reached its final limit in 1990 and did not end in 1994.
+[22] When the $100,000 exemption was repealed in 1994, subsection 110.6(19) of the Act enabled individuals to make an election by which capital property would be deemed to be disposed of on February 22, 1994, and repurchased at its fair market value or some lower value. The elected value became the property's adjusted cost base. The election had to be made within the time set out in subsection 110.6(24) of the Act.
+[19] I observe in paragraph 16 of Sicurella that subsection 110.6(19) of the Act makes it possible for a taxpayer to elect to use the amount remaining from the cumulative capital gains exemption to prevent the exemption from being lost forever. The taxpayer, through the T664 election, designates a capital property or properties and elects a value for those properties. According to the statutory provisions, the taxpayer is deemed to have disposed of the designated property and to have reacquired it for the elected value. Any gain on the deemed disposition will result in a taxable capital gain that could be offset by the amount remaining to the taxpayer as a cumulative exemption. In future, when there is a disposition or sale of the property, the gain at that time will be offset against the elected amount, rather than the original cost and the future gain. This will result in a reduction of tax payable from the eventual sale of the property. In paragraph 18 of Sicurella, I point out that the amount designated by the taxpayer as proceeds of disposition (and therefore the new cost of acquisition of the property) in the T664 election is very important in calculating the capital gain when the property is ultimately sold possible many years later. However, the election, the declaration of capital gain and the claim of capital gain exemption all had to be done in the 1994 personal tax return or within the time frame set out in s. 110.6(26) of the Act. If not, then the capital gain exemption is forever lost.
+[20] What must a taxpayer have done in order to perfect his/her election and thus take maximum advantage of the capital gain exemption? At the risk of being repetitive, the taxpayer had to follow the following procedure.
+[21] The taxpayer had to complete Form T664 “Election to Report a Capital Gain on Property Owned at the End of February 11, 1994. In this form the taxpayer designated selected capital properties for which the election was being filed. The taxpayer then had to determine the elected proceeds of disposition for the designated properties in an amount not exceeding the fair market value (or available capital gain exemption) of those properties as of February 22nd 1994. The elected capital gain for the designated properties was then calculated. This then leads to a determination of the elected taxable capital gains based on the then current inclusion rate. This amount is then carried over to line 546 of Schedule 3 “Capital Gains (or Losses) in 1994”. The total amount of taxable capital gains is then reported at line 127 of the T1 General Tax Return for 1994. A completed Schedule 3 had to be attached to the return. The effect of this was to include the elected taxable capital gains into total income. If nothing further were done, the taxpayer would be taxed on the elected taxable capital gains. The taxpayer could avoid paying taxes on the elected taxable capital gains by completing Form T657A “Calculation of Capital Gains Deduction for 1994 on Other Capital Property”. The Capital Gains Deduction calculated on this form was then transcribed to line 254 of the T1 Tax Return, which is then subtracted from total income thus avoiding the payment of taxes on the elected capital gains. This all had to be done in the taxpayer’s 1994 tax return. According to s. 110.6(24), the election had to be made no later than April 30, 1995, the due date for filing one’s 1994 personal tax return. Subsection 110.6(26) permitted a late election to be made but extended the time for two years and this was subject to penalties.
+[22] In the case at bar, I am satisfied that the Appellant was an honest person who had every intention of complying with the requirements of the Act. However, there are difficulties with this appeal:
+a. The Appellant’s representative and her accountant while she was alive are of the view that the forms T664 and T657A were filed because she went through the trouble of completing the forms and preserving copies of them in her personal records. The Respondent is of the view that the forms were not filed for if they were, it would be so indicated on the Option-C printout. On the basis of the evidence that has been presented to me, I am satisfied that the Appellant had every intention of filing the forms and making the proper election. However, on the evidence that has been led before me, there are two different sets of forms containing different information. They cannot both have been filed. I am unable to determine if the forms were in fact filed with her 1994 tax return and if so, which set of forms were filed. It is trite law that in tax cases, the burden of proof rests on the Appellant: see Hickman Motors Ltd. v. Canada, [1997] 2 SCR 336 at paras. 91 to 98. The weight of the evidence does not sway me one way or the other.
+b. Even if the forms were filed, it is not disputed that the Appellant did not complete Schedule 3 nor did she attach it to her tax return for 1994.
+c. Even if the forms were filed, it is admitted that the Appellant did not declare on line 127 of her 1994 return that she had elected a taxable capital gain.
+d. Even if the forms were filed, it is admitted that the Appellant did not claim on line 254 of her 1994 return a Capital Gains Deduction.
+[23] Even though the Appellant did intend to make a s. 110.6(19) election and actually produced working papers demonstrating that intention, she did not follow through on the election. In view of the incontrovertible fact that the Appellant did not complete and attach a Schedule 3, she did not declare a taxable capital gain and she did not claim a Capital Gain Deduction in her 1994 return, I come to the conclusion that the Minister was justified in disallowing the claimed Capital Gain Deduction.
+Conclusion
+[24] For all of the foregoing reasons, this appeal is dismissed.
+Signed at Kingston, Canada, this 9th day of June 2017.
+“Rommel G. Masse”
+Masse D.J.
+CITATION:
+2017 TCC 103
+COURT FILE NO.:
+2015-5636(IT)I
+STYLE OF CAUSE:
+Estate of the late Christina Mccullock-Finney and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+March 31, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+June 9, 2017
+APPEARANCES:
+Agent for the Appellant:
+Jason Finney
+Counsel for the Respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

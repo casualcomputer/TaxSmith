@@ -1,0 +1,224 @@
+---
+title: "Culig v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521585/index.do"
+last_modified: "2026-02-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 36"
+citation2: ""
+neutral_citation: "2026 TCC 36"
+decision_date: "2026-02-18"
+language: "en"
+item_id: "521585"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5615
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-02-24T09:01:13.747000+00:00"
+cases_cited_count: 11
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d3327afc5aeedf8595bbf54c59074e5e2f217aa1386c0fbb8d0e45eea55aa48b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Culig v. The King
+
+- Citation: 2026 TCC 36
+- Decision date: 2026-02-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5615, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Culig v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-02-18
+Neutral citation
+2026 TCC 36
+File numbers
+2024-1803(IT)G, 2024-1804(IT)G
+Judges and Taxing Officers
+Jenna Clark
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1803(IT)G
+BETWEEN:
+GABRIJEL CULIG,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on January 29, 2026 at Vancouver, British Columbia
+Before: The Honourable Justice Jenna Clark
+Appearances:
+Counsel for the Appellant:
+Fayme Hodal
+Counsel for the Respondent:
+Erin Krawchuk
+ORDER
+WHEREAS the Respondent brought a motion to compel the Appellant to answer undertakings made at the examination for discovery and sought an extension of time for completion of steps;
+AND UPON reviewing the affidavit evidence and the oral and written submissions of counsel for the Appellant and counsel for the Respondent;
+AND IN ACCORDANCE with the attached Reasons for Order;
+IT IS ORDERED that:
+1.the Appellant is to provide answers to undertakings 1, 2, 18 and 19 made at examination for discovery no later than March 20, 2026;
+2.on or before April 30, 2026, the parties shall file one of the following with the Court:
+(a)a joint application to fix a time and place for the hearing using Form 123;
+(b)a letter requesting a settlement conference (refer to Practice Note 21); or
+(c)a letter confirming that the appeal will settle and the anticipated date of settlement; and
+3.Costs of this motion are awarded to the Respondent in any event of the cause.
+Signed this 18th day of February 2026.
+“Jenna Clark”
+Clark J
+Docket: 2024-1804(IT)G
+BETWEEN:
+BOZENA CULIG,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on January 29, 2026 at Vancouver, British Columbia
+Before: The Honourable Justice Jenna Clark
+Appearances:
+Counsel for the Appellant:
+Fayme Hodal
+Counsel for the Respondent:
+Erin Krawchuk
+ORDER
+WHEREAS the Respondent brought a motion to compel the Appellant to answer undertakings made at the examination for discovery and sought an extension of time for completion of steps;
+AND UPON reviewing the affidavit evidence and the oral and written submissions of counsel for the Appellant and counsel for the Respondent;
+AND IN ACCORDANCE with the attached Reasons for Order;
+IT IS ORDERED that:
+on or before April 30, 2026 the parties shall file one of the following with the Court:
+(a)a joint application to fix a time and place for the hearing using Form 123;
+(b)a letter requesting a settlement conference (refer to Practice Note 21); or
+(c)a letter confirming that the appeal will settle and the anticipated date of settlement.
+Signed this 18th day of February 2026.
+“Jenna Clark”
+Clark J.
+Citation: 2026 TCC 36
+Date: 20260218
+Docket: 2024-1803(IT)G
+BETWEEN:
+GABRIJEL CULIG,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent,
+Docket: 2024-1804(IT)G
+AND BETWEEN:
+BOZENA CULIG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Clark J.
+Introduction [1] The Respondent seeks an order compelling answers to four questions posed at the examination for discovery of Gabrijel Culig. Counsel for the Appellants undertook to answer those questions. Five business days before the deadline for answering undertakings, counsel for the Appellants advised that the questions would not be answered.
+[2] For the reasons that follow, I am issuing an Order requiring Gabrijel Culig answer undertakings 1, 2, 18 and 19.
+[3] Counsel’s undertakings create a binding promise to provide requested information. Undertaking to provide an answer to a question asked at examination for discovery is an important element of the litigation process. Resiling from undertakings is not something to be taking lightly, and in any event requires leave of this Court.
+[4] Additionally, the four undertakings seek information relevant to matters in issue. Even if counsel had refused to answer the questions, rather than undertaking to answer them, and this were an ordinary motion to compel, I would find that the four undertakings are proper questions.
+[5] The Respondent also moves for an amendment to the timetable order dated November 20, 2024. The amendment is granted. Mr. Culig has until March 20, 2026 to provide answers to undertakings 1, 2, 18 and 19. The parties have until April 30, 2026 to file a joint application to fix a time and place for the hearing, file a letter requesting a settlement conference or file a letter confirming that the appeal will settle and the anticipated date of settlement.
+Background [6] The Appellants disposed of four properties in 2018 and 2021. These appeals turn on whether those dispositions were on account of income or capital. Also at issue is application of penalties pursuant to subsection 163(2) of the Income Tax Act (ITA).
+[7] An Order of this Court dated November 20, 2024, set a timetable for completion of steps in litigation, including setting a deadline for answering undertakings of July 4, 2025, and for communicating with the Court by August 8, 2025.
+[8] The Respondent examined Bozena Culig on May 20, 2025 and Gabrijel Culig on May 21, 2025. Undertakings were given at the examination for discovery of Gabrijel Culig, with a deadline set for delivery of answers of July 4, 2025. Answers were delivered June 26, 2025.
+[9] On August 1, 2025, the Respondent asked the Appellants to reconsider the refusals. The Respondent directed the Appellant to portions of the Notice of Appeal in support of its’ position that undertakings sought information relevant to the proceeding. On August 4, 2025, counsel for the Appellants advised by email that she would seek reconsidered responses from Mr. Culig. On August 6, 2025, the Respondent filed a joint request to amend the November 20, 2024 Order setting a deadline of August 8, 2025 to report to this Court because the parties required more time to complete undertaking responses.
+[10] On September 2, 2025, the Registry of this Court advised that the parties needed to bring a motion to extend the deadline to provide a response to undertakings. This motion seeks a new deadline for the Appellants’ delivery of answers to undertakings and new deadline for all parties to report to the Court.
+Respondent’s Position [11] The Respondent seeks answers to four undertakings given at the examination for discovery of Mr. Culig held on May 21, 2025:
+Undertaking 1 asks how much the monthly mortgage payments were for the property located at 7403-203B Street Langley;
+Undertaking 2 asks how many rental properties were owned by the Appellants;
+Undertaking 18 asks for a list of properties held in the Appellants’ two numbered companies;
+Undertaking 19 seeks copies of the mortgage documents related to properties held by the two numbered companies from 2010 to 2021.
+[12] The Respondent’s position is that the questions are relevant to matters in issue and points to paragraphs 13 and 28 of Mr. Culig’s pleading:
+13. The Appellant further states that he has a history of compliance, and where a property has been purchased on account of income for the purposes of selling the same at a profit, the Appellant has reported the transactions as such, and paid the appropriate tax accordingly.
+28. The Appellant’s conduct in relation to the Properties is further bolstered when viewed as against the Appellant’s means of dealing with properties in general.
+Appellants’ Position [13] The Appellants oppose the motion and ask for the matter to be dismissed and ask for judgment in the Appeal in favour of the Appellants.
+[14] The basis for the Appellants’ refusal to answer the undertakings is that the Minister of National Revenue reassessed only the Appellants’ 2018 and 2021 taxation years and did not reassess the Appellants’ corporations.
+[15] The Appellants argue that the information falls into two categories, either:
+the documents lack a connection to facts at issue, or to relevant tax years; or
+the documents are those of corporate taxpayers which were not a part of the audit, were not reassessed and thus are non-parties to the appeals.
+[16] The Appellants further assert that as the Respondent is seeking production of information beyond the court-ordered deadline for answering undertakings, and failed or refused to take steps in advance of the relevant deadline (July 4, 2025). The Appellants state that this Court should dismiss the motion and allow the appeal in whole. The Appellants rely on sections 70 and 8 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) in support of this position.
+[17] The Appellants also state that the information is not relevant because the auditor had the ability to obtain the undertaken information.
+Undertakings are a Promise [18] The courts have long held that undertakings constitute an unequivocal promise from one party to another.
+[19] This Court considered the role of undertakings in the discovery process in a number of decisions, including Alexander v Canada, 2022 DTC 1108, Bathurst Machine Shop Ltd. v R, 2006 TCC 378 and Stack v Canada, 2024 TCC 164. Each of those decisions considered that an undertaking is an unequivocal promise to perform a certain act.
+[20] The Ontario Superior Court decision in Towne v Miller, 2001 CarswellOnt 3828 has been cited in several decisions of this Court, and in particular the following paragraphs that succinctly convey the import of counsel’s undertakings:
+[8] …An undertaking is an acknowledgement that the question is proper and that the subject-matter of the undertaking is relevant. Put crudely, should counsel be permitted to renege on a production-undertaking when he or she subsequently comes to the belief that a document or part thereof is not relevant in the action? This question invades the sanctity of a solicitor's undertaking.
+[9] An undertaking is an unequivocal promise to perform a certain act. I do not see any material difference between, for example, an undertaking given in the context of a real estate transaction (when lawyers undertake to do, or obtain, something necessary to complete the transaction) and an undertaking given on an examination for discovery. Each involves a promise. In an examination for discovery, the undertaking may be given by the litigant being examined or it may come from his or her counsel. Both are equally binding.
+[21] In Triteq Lock & Security, LLC v Minus Forty Technologies Corp., 2023 FC 819 the Federal Court considered the binding nature of undertakings given during examination for discovery. That court held that an undertaking is an unequivocal promise that must be strictly and scrupulously fulfilled, and that there is no principled basis to allow unilateral reconsideration of undertakings. Permitting parties to resile from undertakings would introduce uncertainty into the discovery process and increase motions related to undertakings.
+[22] A party cannot simply resile from an undertaking made at examination for discovery simply by sending counsel a letter and advising their position has changed. The Appellants were represented by counsel, who could have taken any number of steps if they were concerned about potential relevance of the questions. They could have asked the questioner for a brief explanation of relevance. They could have taken the question under advisement and provided a considered response at a later time. Or they could have refused to answer the question. Instead, they chose to promise to provide the requested information.
+[23] Instead, undertakings were made. Then counsel for the Appellants advised that they intended to resile from the undertakings by simply sending a letter shortly before the court‑ordered deadline to provide answers to undertakings.
+[24] The Appellants now take the position that the Respondent is at fault for not moving to extend the deadline to provide answers to undertakings, between June 26 and July 4, 2026.
+[25] I find the Respondent’s actions to address the breach were appropriate. Counsel for the Respondent wrote to counsel for the Appellant to ask counsel to reconsider, advising as to the relevance of the questions, and offering to work with counsel to obtain an extension of time. It is not the Respondent’s responsibility to seek an extension of time for the Appellants to fulfil their undertakings.
+[26] If any party is responsible for the breached Order, it is the Appellants. The Appellants were the first party to breach the November 20, 2024 Order when they failed to provide answers to undertakings on July 4, 2025.
+Relevance [27] It is too late to refuse to provide an answer to an undertaking on the grounds of relevance once an unqualified undertaking has been given (Bathurst Machine Shop Ltd.). However, I have also considered the Appellants’ position and determined that in any event, the four undertakings in issue were proper questions.
+[28] Subsection 95(1) of the Rules requires a person examined as part of the discovery process to answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding.
+[29] The scope of relevance has been considered by this Court and the Federal Court of Appeal, and is summarized in Canada v Lehigh Cement Limited, 2011 FCA 120:
+[34] The jurisprudence establishes that a question is relevant when there is a reasonable likelihood that it might elicit information which may directly or indirectly enable the party seeking the answer to advance its case or to damage the case of its adversary, or which fairly might lead to a train of inquiry that may either advance the questioning party's case or damage the case of its adversary. Whether this test is met will depend on the allegations the questioning party seeks to establish or refute. See Eurocopter at paragraph 10, Eli Lilly Canada Inc. v. Novopharm Ltd., 2008 FCA 287, 381 N.R. 93 at paragraphs 61 to 64; Bristol‑Myers Squibb Co. v. Apotex Inc. at paragraphs 30 to 33.
+[35] Where relevance is established the Court retains discretion to disallow a question. The exercise of this discretion requires a weighing of the potential value of the answer against the risk that a party is abusing the discovery process. See Bristol-Myers Squibb Co. v. Apotex Inc. at paragraph 34. The Court might disallow a relevant question where responding to it would place undue hardship on the answering party, where there are other means of obtaining the information sought, or where "the question forms part of a 'fishing expedition' of vague and far-reaching scope": Merck & Co. v. Apotex Inc., 2003 FCA 438, 312 N.R. 273 at paragraph 10; Apotex Inc. v. Wellcome Foundation Ltd., 2008 FCA 131, 166 A.C.W.S. (3d) 850 at paragraph 3.
+[30] Mr. Culig plead at paragraph 13 of his Notice of Appeal that the Appellants’ means of dealing with properties in general is relevant to the determination of the appeal.
+[31] The Respondent plead in subparagraph 13(e) that the Appellant has a history of purchasing and selling properties for profit, at subparagraph 13(f) that the Appellant has an above average understanding of the real estate market and at subparagraph 14(b) that the Appellant and spouse had the ability to manage corporations that deal mainly in buying and selling real properties for many years (sic).
+[32] Given the scope of relevance framed by the pleadings, I conclude that these questions fall within the broad scope of relevance. It is for the trial judge to determine if the information produced in response to the undertakings is relevant for the purposes of determining the appeal.
+Undertaking 1 [33] Mr. Culig’s counsel undertook to advise the amount of monthly payments made for the 7403-203B Street Langley property. The initial response was “we’ll do our best” and was later refused for relevance.
+[34] What may have been meant by this response is that the Appellant would attempt to provide the information if obtainable. This is not a case where the Appellant is now advising of its best efforts but stating that the information was not obtainable. The Appellant is now advising that it refuses to engage in its best efforts to obtain the information. The Appellant has given no reason for refusing to fulfil its undertaking aside from relevance. Relevance was admitted when the undertaking was made.
+[35] Although 7403-203B Street Langley is not one of the subject properties at issue in the appeal, both parties have put in issue the Appellants’ treatment of other real properties. Had the Appellants initially refused this question, I would have found it to be proper as the information sought falls within the broad scope of relevance for the purpose of examination for discovery.
+Undertaking 2 [36] The Appellant undertook to advise how many rental properties were owned by the Appellants. Counsel for the Appellant initially agreed to provide the information and later advised that the question was refused on the basis of being overbroad, as well as on the basis that this information was provided as part of document production. I conclude that the Appellant must answer the undertaking.
+[37] The undertaking made was to provide the number of properties owned by the Appellants. This question cannot be answered only by reference to documents. The documents may or may not include all properties owned by the Appellants. The question is relevant to matters in issue given that both parties put in issue the Appellants’ experience generally with real estate properties.
+Undertakings 18 and 19 [38] Counsel for Mr. Culig undertook to provide a list of properties held by the Appellants’ two numbered companies between 2010 to 2021. Counsel later refused to provide the information on the basis that it was irrelevant and overly broad.
+[39] The question arose from testimony at discovery that the Appellant was the property manager. He was asked if he recalled if the properties purchased through corporations had mortgages. The Appellant answered that he didn’t know, but he thought that most did.
+[40] Undertaking 19 sought copies of mortgage documents related to properties held by numbered companies between 2010 to 2021. Counsel for the Appellant initially agreed to provide the information, then by a letter dated June 26, 2025, refused to provide the information based on relevance.
+[41] Aside from the fact that counsel provided an undertaking to provide answers to questions 18 and 19 and thus admitted relevance, I would have also found that these questions are proper. Both parties put in issue the Appellants’ general experience with real estate. The questions are not overly broad. They specify a time frame and the specific information sought.
+Duplication of Production [42] At the hearing of the motion, counsel for the Appellants argued that the undertakings need not be answered because the Minister of National Revenue ought to have sought the information during the audit.
+[43] Relevance at examination for discovery is defined by the pleadings (Baxter v The Queen, 2004 TCC 636 at paras 10 and 13), and not by the Notice of Reassessment, as asserted by the Appellants (Appellants’ Response to Motion at para 55).
+[44] Examinations for discovery in tax cases are not limited in scope because the Minister may have had an opportunity to obtain information prior to litigation (see Sandia Mountain v The Queen, 2005 TCC 65 at para 19; Gaudreau v The King, 2023 TCC 115 at paras 46, 47). So too may a taxpayer obtain information at examination for discovery that it could have obtained during audit. The purposes of producing information in the context of litigation include protection under the implied undertaking rule, ability to produce the information at hearing and reducing “ambush” at hearing.
+Case Management [45] The Appellants ask for case management. They are free to make that request to the Chief Justice in accordance with Section 126 of the Rules.
+Costs [46] The Appellant, Mr. Culig, ought to have provided responses to his own undertakings by July 4, 2025. Its failure to do so resulted in the need for the Respondent to bring this motion. One set of the costs of this motion are therefore awarded to the Respondent in any event of the cause.
+Signed this 18th day of February 2026.
+“Jenna Clark”
+Clark J.
+CITATION:
+2026 TCC 36
+COURT FILE NO.:
+2024-1803(IT)G
+2024-1804(IT)G
+STYLE OF CAUSE:
+GABRIJEL CULIG AND HIS MAJESTY THE KING
+BOZENA CULIG AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+January 29, 2026
+REASONS FOR ORDER BY:
+The Honourable Justice Jenna Clark
+DATE OF ORDER:
+February 18, 2026
+APPEARANCES:
+Counsel for the Appellants:
+Fayme Hodal
+Counsel for the Respondent:
+Erin Krawchuk
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Fayme Hodal
+Firm:
+KSW Lawyers
+Surrey, British Columbia
+For the Respondent:
+Marie-Josée Hogue Deputy Attorney General of Canada Ottawa, Canada

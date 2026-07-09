@@ -1,0 +1,178 @@
+Title: Martel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30152/index.do
+Corpus path: corpus/cases/tcc/2011/2010-tcc-634-30152-martel-c-la-reine-en.md
+Document type: case_law
+Last modified: 2011-01-11
+
+# Martel c. La Reine
+
+- Citation: 2010 TCC 634
+- Decision date: 2011-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7834, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martel c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-11
+Neutral citation
+2010 TCC 634
+File numbers
+2008-3443(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3443(IT)G
+BETWEEN:
+RÉAL MARTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 8, 2010, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Guy Matte
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated June 15, 2007 and bears number 48215, is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 11th day of January 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 11th day of January 2011
+François Brunet, Revisor
+Citation: 2010 TCC 634
+Date: 20110111
+Docket: 2008-3443(IT)G
+BETWEEN:
+RÉAL MARTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The sole question to be decided in this appeal is whether the Canada Revenue Agency (“CRA”) can use the collection provisions in section 160 of the Income Tax Act (the “Tax Act”) to collect taxes owed by a corporate taxpayer from an owner‑manager shareholder who has received dividends from the corporation after the time that a properly disclosed creditor proposal under the Bankruptcy and Insolvency Act (the “BIA”) is made, accepted by the creditors and ratified by the court.
+I. Facts
+[2] Mr. Martel is an owner‑manager and significant shareholder of Martel Management Inc. (“Martel Management”). Martel Management operates a consulting business that counts several persons.
+[3] Martel Management made a proposal to its creditors including the CRA under the proposal provisions of the BIA in December 2003. The BIA proposal was amended at the request of creditors and was accepted by the creditors of Martel Management in January 2004. Neither the CRA nor any other creditor asked for any participation in the future profits of the company during the course of the proposal process. The proposal, as accepted, provided that unsecured creditors would be paid 30% of their claims (aggregating approximately $180,000) at the rate of $2,000 per month. The CRA was an unsecured creditor for an amount of $15,000 and thus was to receive approximately $4,500 under the proposal accepted by it. (To the extent the CRA was also a preferred creditor, the proposal also provided that any amount described in subsection 224(1.2) of the Tax Act would be fully paid within six months.)
+[4] After the BIA proposal was accepted by the creditors, it was approved by the Quebec Superior Court in March 2004.
+[5] In February 2005, Martel Management declared a $30,000 dividend payable on the class of shares owned by Mr. Martel. According to Mr. Martel’s testimony, that dividend was declared and paid to reflect the absence of payment of any salary to him for services rendered to Martel Management in 2003 and 2004. The detailed work records of himself and Martel Management’s other consultants were offered in evidence.
+[6] Martel Management had posted financial losses in 2003 and 2004. By 2005 Martel Management was returning to profitability and positive cash flows. Its 2005 revenues had increased by approximately $300,000 and it realised profits of $67,000. In 2005 Mr. Martel was paid approximately $40,000 in salary in addition to the $30,000 in dividends. This, according to his testimony, was a fraction of the salary he had received in the years before Martel Management experienced financial difficulties. Mr. Martel acknowledged that the salary/dividend mix was chosen for tax purposes.
+[7] The dividend was paid in 2005. This was before the final $2,000 payment under the proposal was made on January 2, 2006. The terms of the proposal were fully complied with by Martel Management in timely fashion and the CRA received the amounts it had agreed to under the proposal. The payments called for by the proposal continued to be made in timely fashion after the dividend was declared and paid to Mr. Martel.
+[8] The testimony was clear and uncontradicted as to the funds from which the dividend was declared and paid: those were the revenues and profits realised by Martel Management after the proposal had been accepted by the creditors and ratified by the court. There is no question in this case of assets having been concealed within or outside of the company’s estate to the detriment of any creditors, including the CRA.
+[9] In accordance with the provisions of the BIA, the trustee filed an application for discharge before the Quebec Superior Court, which allowed it in September 2006. The CRA did not exercise its rights under the BIA to object to the discharge of the trustee for not having pursued the rights of the creditors or otherwise.
+II. Issues
+[10] There are two issues raised in this case:
+1) At the time of the payment of the dividend in 2005, the transfer for purposes of section 160 of the Tax Act, was the tax debt the initial amount of approximately $15,000 or the reduced 30% amount payable under the terms of the creditor-accepted and court-ratified BIA proposal? Specifically, under the terms of subparagraph 160(1)(e)(ii) of the Tax Act, what was the company’s unpaid tax liability for 2005 and prior years?
+2) Was there consideration in the form of services rendered in exchange for the receipt by Mr. Martel in 2005 of the mix of salary and dividends?
+III. Law
+Tax Act
+160(1) Transfert de biens entre personnes ayant un lien de dépendance — Lorsqu’une personne a […] transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+[…]
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+[…]
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[…]
+(3) Extinction de l’obligation — Dans le cas où un contribuable donné devient, en vertu du présent article, solidairement responsable, avec un autre contribuable, de tout ou partie d’une obligation de ce dernier en vertu de la présente loi, les règles suivantes s’appliquent :
+a) tout paiement fait par le contribuable donné au titre de son obligation éteint d’autant l’obligation solidaire;
+b) tout paiement fait par l’autre contribuable au titre de son obligation n’éteint l’obligation du contribuable donné que dans la mesure où le paiement sert à réduire l’obligation de l’autre contribuable à une somme inférieure à celle dont le contribuable donné est solidairement responsable en vertu du présent article.
+160(1) Tax liability re property transferred not at arm’s length — Where a person has. . . transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+. . .
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+. . .
+(3) Discharge of liability — Where a particular taxpayer has become jointly and severally liable with another taxpayer under this section in respect of part or all of a liability under this Act of the other taxpayer,
+(a) a payment by the particular taxpayer on account of that taxpayer’s liability shall to the extent of the payment discharge the joint liability; but
+(b) a payment by the other taxpayer on account of that taxpayer’s liability discharges the particular taxpayer’s liability only to the extent that the payment operates to reduce that other taxpayer’s liability to an amount less than the amount in respect of which the particular taxpayer is, by this section, made jointly and severally liable.
+IV. Positions of the Parties
+[11] The transferee in a section 160 dispute is entitled to challenge the tax debt of the transferor in the same manner as the tax debtor itself: See, for example, Thorsteinson v. M.N.R., 80 DTC 1369 (TRB). That is not in dispute. In this case, Mr. Martel submits that, by the time of the transfer, that is the time when the dividend was paid to him, the tax debt had been reduced in part as a result of the acceptance and court approval of the proposal. He also notes that thereafter the company fully satisfied the remaining tax debt and the remaining debt was fully discharged.
+[12] The parties agree that, as held by the Federal Court of Appeal in The Queen v. Heavyside, 97 DTC 5026, a section 160 transferee’s debt under the Tax Act arises at the time of the transfer and is unaffected by a discharge from bankruptcy of the tax debtor occurring after that time.
+[13] The parties further agree that 2753-1359 Québec Inc. and Larouche v. The Queen, 2010 CAF 32, 2010 DTC 5031 applies; in that case, the Federal Court of Appeal rejected the technical argument in a section 160 claim emanating from the province of Quebec that the payment of a dividend is consideration for the settlement of the debt created under corporate law when the dividend was declared.
+[14] The Appellant’s counsel cites Visionic Inc. c. Michaud, [1982] J.Q. no 174, for the proposition that, in Quebec at least, a dividend can be paid in consideration of foregone salary or in consideration of services rendered. In that case the owner‑managers of the corporation had changed their remuneration from salary to dividends. They did this for tax planning purposes. The Quebec Superior Court concluded that a dividend is nonetheless salary, at least for the purposes of the provincial Loi sur les normes du travail. The change in form of the remuneration did not remove its character as salary. It is not entirely clear to me whether that holding applied only with respect to the Loi sur les normes d’emploi or for all purposes under the laws of Quebec. Since I am allowing this appeal on other grounds, I do not have to decide this issue; it will be for another court to do so eventually at another time.
+[15] The issue that needs to be decided in this case is: when is the tax debtor partly released and the tax debt partly discharged by virtue of a successful proposal under the BIA?
+[16] The BIA is silent as to when a debtor is released from its liabilities in the case of a proposal. It is the Respondent’s position that, under subsection 66(1) of the BIA, the bankruptcy provisions of the BIA are to supplement, by analogy, the provisions of the BIA relating to proposals. It is clear, under the bankruptcy provisions of that statute, that the debtor is released at the time of an order of discharge of the bankrupt: see subsection 178(2). It is the Respondent’s position that, by analogy, the time of the partial discharge of a debt and partial release of the debtor under a BIA proposal is the time of the order of discharge of the trustee or the time the trustee issues a certificate under section 65.3 that the proposal has been fully performed. If the Respondent is correct in this regard, Mr. Martel is in the unfortunate position of having had Martel Management pay him his dividend too early, that is, at a time when the CRA had, technically, the right to collect the entire uncompromised tax debt of Martel Management from Mr. Martel, even though under the BIA it clearly could not collect it from Martel Management itself and even though the CRA did not have any rights in the additional amount under the terms of the accepted and approved proposal. The Respondent also points to section 69.1 of the BIA which restrains creditors from taking action between the filing of a proposal and the discharge of a trustee or the occurrence of a bankruptcy if the proposal is not accepted or approved. The Respondent submits that this also supports its position that it is the time of the order of discharge of the trustee which governs in the case of a proposal. The Respondent submits that, at the time the dividend was declared and paid, the tax debt therefore remained the full amount of the debt even though the creditors could not collect that amount from the debtor if the terms of the proposal were complied with by the debtor.
+[17] Further, the Respondent submits that paragraph 160(1)(e) of the Tax Act addresses the transferee’s joint liability for the transferor’s tax liability under that Act, that is, the Respondent submits, without regard to any compromise under the BIA.
+[18] It is the taxpayer’s position that, if the BIA is properly read analogically, the time of the partial release of the debtor and partial discharge of the original debt under a BIA proposal is the time at which the proposal has been ratified by the court following the acceptance thereof by the creditors. If the Appellant’s position is correct, the CRA is not permitted to use section 160 of the Tax Act against persons to whom property of the original tax debtor has been transferred after the creditor’s acceptance and court ratification.
+[19] The Appellant cites Deslauriers on “La faillite et l'insolvabilité au Québec”[1] in support of his position that it is not the date of the discharge of the trustee by the court that is the effective date of the settlement of the debt under the proposal:
+ii) Libération des dettes du débiteur
+La proposition peut avoir pour effet de libérer le débiteur d’une partie de ses dettes. En effet, une proposition prévoyant le versement d’un certain pourcentage des créances (par exemple 30 %) aura pour effet de libérer le débiteur pour le solde si ce concordat est accepté (art. 62(2) L.f.i.). Le débiteur ne sera toutefois pas libéré des dettes visées par l’article 178(1) L.f.i. à moins que les créanciers concernés n’y consentent. De plus, les personnes tenues au paiement de la dette, à titre d’associé, de cocontractant ou de caution, ne seront pas libérées par l’acceptation de la proposition (art. 62(3) et 179 L.f.i.).
+Certaines cautions ont déjà prétendu que la remise consentie par les créanciers lors d’un concordat devait profiter aux cautions et les libérer en conséquence. En effet, la remise d’une dette éteint normalement le cautionnement, car ce dernier est un accessoire d’une obligation principale, qui une fois éteinte, met fin au cautionnement. Cependant, la remise de dette résultant d’un concordat n’est pas une remise volontairement consentie par le créancier. Cette remise résulte plutôt de circonstances imposées par la loi et d’une décision du tribunal. De plus, l’article 179 L.f.i. prévoit que la libération obtenue par un débiteur ne profite pas aux cautions et l’article 62(3) L.f.i. édicte que l’acceptation d’une proposition par un créancier ne libère aucune personne qui ne le serait pas aux termes de la Loi sur la faillite par la libération du débiteur.
+[Emphasis added.]
+[20] In addition, the Appellant cites Houlden and Morawetz on “Bankruptcy and Insolvency Law of Canada”[2] where it is stated:
+When a proposal is accepted by creditors and approved by the court, the debtor receives the same relief as he or she would receive from a discharge from bankruptcy, i.e., a release of all debts and liabilities to unsecured creditors, except those listed in s. 178: Flint v. Barnard (1888), 22 Q.B.D. 90, 58 L.J.Q.B. 53, 37 W.R. 185, 5 T.L.R. 79 (C.A.); Anderson v. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157, 1999 CarswellOnt 1896 (Ont. Gen. Div.).
+[Emphasis added.]
+[21] In particular, Houlden and Morawetz cite Anderson v. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157, [2000] C.C.S. No. 7021, where the Ontario Court of Justice, which has jurisdiction over the application of the BIA in that province, wrote at paragraphs 40 and 41:
+I have no doubt that Mr. Wallace is meticulously correct in his submission that a court‑approved proposal grants the debtor the same relief as the debtor would get from a discharge in bankruptcy. In Houlden & Morawetz, The 1999 Annotated Bankruptcy and Insolvency Act, (Toronto: Carswell, 1998) one finds the following supporting comment for that view at p. 199:
+A proposal which has been accepted by creditors and approved by the court is binding on:
+(a) all unsecured creditors, and
+(b) all secured creditors with claims in a class of secured creditors that voted for the acceptance of the proposal by a majority in number and two‑thirds in value of the secured creditors in that class.
+When a proposal is accepted by creditors and approved by the court, the debtor receives the same relief as he or she would receive from a discharge from bankruptcy, i.e., a release of all debts and liabilities to unsecured creditors, except those listed in s. 178: Flint v. Barnard (1888), 22 Q.B.D. 90, 58 L.J.Q.B. 53, 37 W.R. 185, 5 T.L.R. 79 (C.A.).
+If one moves to s. 178(2) of BIA one finds, in somewhat cryptic language, that “an order of discharge releases the bankrupt from all claims provable in bankruptcy.” I take it, then, that, by analogy, the approved Proposal has a similar releasing effect on otherwise valid unsecured claims.
+[Emphasis added.]
+[22] The Respondent points out that Houlden and Morawetz add:
+E§85 Proposal Performed in Full
+If a proposal is fully performed, the trustee gives a certificate to the debtor and to the official receiver: s. 65.3. The form of the certificate is Form 46. Presumably the certificate has the same effect as a discharge from bankruptcy.
+[Emphasis added.]
+[23] The taxpayer also refers to subsection 62(2) of the BIA which provides that “a proposal accepted by the creditors and approved by the court is binding on creditors in respect of. . . all unsecured claims”. Further, subsection 62(2.1) provides that “a proposal accepted by the creditors and approved by the court does not release the insolvent person from any particular debt or liability referred to in subsection 178(1) [being specific types of debts not generally subject to compromise under the BIA such as fines, alimony, fraud, etc.] unless the proposal explicitly provides. . . ”
+V. Analysis and Conclusion
+[24] In Wannan v. The Queen, 2003 FCA 423, 2003 DTC 5715, the Federal Court of Appeal acknowledges that the effects of the application of section 160 of the Tax Act can be unjust, unfair and unwarranted but that Parliament nonetheless has the power to, and did, give such a broad collection power to the CRA.
+[25] In Clause v. HMQ, 2010 TCC 410, I applied the provisions in section 160 in a manner which arguably led to an unfair result. That being said, in that case, I had to decide whether the transfer to Mrs. Clause occurred prior to a second BIA proposal or prior to the original BIA proposal being reinstated subsequent to default and the language of the BIA and the proposals were clear.
+[26] As in Clause, the Respondent in this case is unable to answer my question as to how, if I dismiss the appeal, I could explain to Mr. Martel that the result will be fair or that, in view of the language of the BIA, I am clearly bound to dismiss the appeal. Indeed, the Respondent’s counsel concedes that such a result may appear unjust.
+[27] While the Respondent’s arguments are not without merit, at the end of the day, I am persuaded by Houlden and Morawetz and Deslauriers.[3] I am not bound by the interpretation of the BIA on this very issue propounded by the Ontario Court of Justice in Anderson v. CIBC, however, I am prepared to follow that decision. That Court's interpretation is sensible since that legislation does not specifically address proposals; in addition, in this case, it will lead to a fair result. Finally, in the interest of judicial comity, the Tax Court should follow the interpretation of courts having jurisdiction over proposals under the BIA.[4]
+[28] The Respondent submits, in the alternative, that the language of section 160 applies strictly; the amount of the liability under the Tax Act must be determined according to that legislation and no regard must be had to any proposal under the BIA. I cannot accept that argument. If it were taken literally, the CRA could pursue transferees in respect of transfers made years after a bankruptcy discharge or a successful proposal for the amount foregone voluntarily by the CRA as creditor under a BIA proposal or involuntarily under a bankruptcy. Section 160 may lead, in some cases, to unfair, unjust and harsh results, but common sense surely imposes some limits.
+[29] The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 11th day of January 2011.
+"Patrick Boyle"
+Boyle J.
+Translation certified true
+On this 11th day of January 2011
+François Brunet, Revisor
+CITATION: 2010 TCC 634
+COURT FILE NO.: 2008-3443(IT)G
+STYLE OF CAUSE: RÉAL MARTEL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: September 8, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: January 11, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Guy Matte
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Guy Matte
+Firm:
+Montreal, Quebec
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Deslauriers, Jacques. La faillite et l’insolvabilité au Québec (Montreal: Wilson & Lafleur, 2004), at 132.
+[2] Houlden, L.W. and Morawetz, G.B. Bankruptcy and Insolvency Law of Canada, 3rd ed. (revised), vol. 2 (Toronto: Carswell) at 2-166.
+[3] I note that the first above quoted passage from Houlden and Morawetz is more specific than the second; the former is supported by reference to caselaw whereas the latter is described as a presumption.
+[4] For general comments on the principle of judicial comity among courts of coordinate jurisdiction, see Houda International Inc. v. The Queen, 2010 TCC 622.

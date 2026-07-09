@@ -1,0 +1,177 @@
+Title: Équipements Boifor Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/307789/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-53-307789-quipements-boifor-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2018-03-14
+
+# Équipements Boifor Inc. c. M.R.N.
+
+- Citation: 2018 CCI 53
+- Decision date: 2018-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7581, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Équipements Boifor Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-03-14
+Référence neutre
+2018 CCI 53
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2017-1301(EI)
+ENTRE :
+ÉQUIPEMENTS BOIFOR INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+Appel entendu le 20 février 2018, à Montréal (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Avocat de l’appelante :
+Me Guillaume Richard
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+Conformément aux motifs du jugement ci-joint, l’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (la « Loi ») est accueilli et la décision que la ministre du Revenu national a rendue le 5 janvier 2017 (la « Décision ») est modifiée de la façon suivante :
+M. David Marion et M. Marc Lepage n’occupaient pas un emploi assurable au sens de la Loi lorsqu’ils étaient au service de l’appelante pendant la période du 16 avril 2014 au 31 décembre 2015; et
+puisque l’appelante ne poursuit pas l’appel pour ce qui est de la période du 1er janvier 2014 au 15 avril 2014, la Décision reste inchangée et, plus précisément, il est constaté que M. David Marion et M. Marc Lepage occupaient un emploi assurable au sens de la Loi lorsqu’ils étaient au service de l’appelante pendant cette période.
+Signé à Ottawa, Canada, le 14e jour de mars 2018.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2018 CCI 53
+Date : 20180314
+Dossier : 2017-1301(EI)
+ENTRE :
+ÉQUIPEMENTS BOIFOR INC.,
+appelante,
+et
+LA MINISTRE DU REVENU NATIONAL,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. CONTEXTE
+[1] La Cour est saisie d’un appel interjeté par Équipements Boifor Inc. (« Boifor ») en vertu du paragraphe 103(1) de la Loi sur l’assurance-emploi (LC 1996, ch. 23, telle que modifiée) (la « Loi ») contre deux décisions rendues par la ministre du Revenu national (la « Ministre ») confirmant que les emplois de monsieur Marc Lepage et monsieur David Marion étaient des emplois assurables selon la Loi. Ces décisions sont toutes deux datées du 5 janvier 2017.
+[2] Au début de l’audience, l’avocat de Boifor a informé la Cour que le présent appel ne portera que sur la période du 16 avril 2014 au 31 décembre 2015 (la « Période »); il admet que, pour la période du 1er janvier 2014 au 15 avril 2014, les emplois de messieurs Lepage et Marion étaient assurables aux termes de la Loi.
+[3] Toutes les citations de dispositions législatives sont tirées de la Loi, sauf mention contraire.
+[4] Pour la Période, l’appelante admet que messieurs Lepage et Marion sont tous deux liés par un contrat de louage de services selon l’alinéa 5(1)a); l’intimée ne conteste pas cette admission.
+[5] Il s’agit donc de rechercher si les exceptions prévues aux alinéas 5(2)b) et 5(2)i) s’appliquent. Ils se lisent ainsi :
+5(2) Restriction — N’est pas un emploi assurable :
+a) […]
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(2) Excluded employment — Insurable employment does not include
+(a) . . .
+(b) the employment of a person by a corporation if the person controls more than 40% of the voting shares of the corporation;
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+[6] L’alinéa 5(3)a) vient préciser que c’est la Loi de l’impôt sur le revenu (LRC (1985), ch. 1 (5e suppl.), telle que modifiée) (la « LIR ») qui détermine le sens des mots « lien de dépendance » :
+5(3) Personnes liées — Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+[ ]
+5(3) Arm’s length dealing — For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+. . .
+[7] Dans le cadre du présent appel, puisque messieurs Lepage et Marion ne sont pas « liés » entre eux et ne sont pas « liés » à Boifor au sens de la LIR, seul l’alinéa 251(1)c) de la LIR est pertinent :
+251(1) Lien de dépendance — Pour l’application de la présente loi :
+[…]
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+251(1) Arm’s length — For the purpose of this Act,
+. . .
+(c) in any other case, it is a question of fact whether persons not related to each other are, at a particular time, dealing with each other at arm’s length.
+II. LES FAITS
+[8] À l’audience, monsieur Lepage et monsieur Marion ont témoigné. Ils ont été crédibles et la Cour est d’avis que les faits relatés par eux sont conformes à la réalité. À cet égard, la Cour note également que madame Nicole Guy, agente des appels, a admis que les faits relatés au cours de l’audience correspondaient à ceux qui lui avaient été rapportés lors de son étude du dossier de Boifor.
+1. La structure corporative
+[9] Boifor est détenue par trois personnes : monsieur Lepage détient 26 actions de catégorie D non participantes et donnant droit à 25,7% des votes, monsieur Marion détient 25 actions de catégorie D non participantes et donnant droit à 24,8% des votes, et Gestion Boifor Inc. (« Gestion ») détient 25 actions de catégorie B et 25 actions de catégorie C, ces actions étant les seules actions participantes émises et donnant droit à 49,5% des votes, et 300 000 actions de catégorie E (non votantes et non participantes). Les deux seuls administrateurs et dirigeants de Boifor sont messieurs Lepage et Marion; monsieur Lepage est également président et monsieur Marion est vice-président et secrétaire.
+[10] Gestion est détenue par monsieur Lepage et monsieur Marion en parts égales : monsieur Lepage détient 50 actions de catégorie A, 10 actions de catégorie C et 325 000 actions de catégorie F représentant 50% des votes et de la participation; monsieur Marion détient 50 actions de catégorie A, 10 actions de catégorie B et 325 000 actions de catégorie F représentant 50% des votes et de la participation. Les deux seuls administrateurs et dirigeants de Gestion sont messieurs Lepage et Marion; monsieur Marion est également président et monsieur Lepage est vice-président et secrétaire.
+[11] Une convention d’actionnaires a été signée par toutes les parties dans ce groupe; cette convention ne constitue pas une convention unanime d’actionnaires.
+[12] Gestion a été mise en place à des fins fiscales et d’affaires et plus particulièrement dans un but de protection d’actifs; Gestion a été créée lors du rachat des parts de monsieur Jacques Marion, le père de David Marion. Gestion loue à Boifor les locaux dans lesquels l’entreprise exerce ses activités, de même que l’équipement informatique et le mobilier.
+2. L’entreprise
+[13] Boifor intervient à titre d’agent pour certaines sociétés situées dans l’ouest canadien et américain et fabrique, par l’intermédiaire de sous-traitants, des pièces d’équipement forestier. Boifor compte une centaine de clients.
+[14] Le rôle de monsieur Lepage consiste dans la vente des pièces, la supervision de la fabrication et la recherche et le développement. Monsieur Marion est plutôt chargé du côté technique, l’installation/la formation, la comptabilité, l’achat des pièces/des équipements et supervise les 2 employés à temps partiel.
+3. Le rôle des parties et la prise de décisions
+[15] Les décisions dans Boifor et dans Gestion, que ce soit sur le plan des opérations ou de la gestion, sont toujours prises de concert par messieurs Lepage et Marion : ils se sont toujours bien entendus, ils arrivent toujours à un consensus, tous deux sont économes et l’harmonie règne entre eux. Messieurs Lepage et Marion sont deux partenaires d’affaires qui ont à cœur le meilleur intérêt de leur entreprise, chacun ayant des qualités et des forces propres qui lui profitent. Compte tenu des tâches complémentaires effectuées par chacun d’eux, il ressort des preuves que si l’un d’eux voulait quitter l’entreprise, l’autre ne pourrait continuer à exploiter l’entreprise à lui seul et devrait procéder à la liquidation de celle-ci.
+[16] Monsieur Lepage a témoigné que, en ce qui concerne le calendrier des congés annuels (soit environ 3 ou 4 semaines par année), il avisait au préalable monsieur Marion afin d’éviter tout chevauchement. Il a ajouté qu’il n’est pas possible pour lui de congédier monsieur Marion, et inversement. La seule solution consisterait à liquider Boifor ou à racheter les parts de monsieur Marion. L’horaire de travail officiel est de 8 h à 16 h, mais messieurs Lepage et Marion ont témoigné qu’ils travaillaient tous les jours—parfois ils débutent à 5 h 30 et terminent vers 23 h (compte tenu du décalage horaire avec l’ouest du continent); de plus, monsieur Marion se déplace très fréquemment les fins de semaine pour des pannes d’équipements. Leur salaire a été fixé d’un commun accord—le même salaire de base est payé et a été fixé conformément au salaire que faisait monsieur Lepage auprès d’une autre société auparavant. Le temps supplémentaire n’est pas payé.
+[17] Monsieur Lepage a cautionné des prêts dus par Boifor auprès de la caisse populaire. La Cour peut valablement supposer que monsieur Marion a également fourni une caution auprès de la caisse puisque ce dernier a confirmé au début de son témoignage que tout ce qu’avait relaté monsieur Lepage était correct et valait également pour lui.
+[18] Madame Guy a témoigné à l’audience; elle a expliqué le processus qui l’a amenée à conclure que les emplois en cause n’étaient pas exclus et étaient donc assurables, puisqu’à son avis, ni monsieur Lepage ni monsieur Marion ne contrôlaient plus de 40% des actions avec droit de vote de Boifor. Madame Guy a confirmé ne pas avoir recherché si l’exception prévue à l’alinéa 5(2)i) était applicable en l’espèce, à savoir si les emplois comportaient un lien dépendance.
+III. THÈSES DES PARTIES
+[19] Boifor soutient que puisque monsieur Lepage et monsieur Marion contrôlaient chacun plus de 40% des actions donnant droit de vote de Boifor, leurs emplois n’étaient pas assurables aux termes de l’alinéa 5(2)b) pendant la Période. En outre, puisqu’il existe un lien de dépendance entre Boifor et monsieur Lepage d’une part, et monsieur Marion d’autre part, leurs emplois n’étaient pas assurables selon l’alinéa 5(2)i) pendant la Période.
+[20] L’intimée soutient plutôt que ni monsieur Lepage ni monsieur Marion ne contrôlaient plus de 40% des actions avec droit de vote de Boifor et qu’il y avait absence de lien de dépendance entre Boifor et monsieur Lepage d’une part, et monsieur Marion d’autre part, pendant la Période. Étant donné que ni l’exception prévue à l’alinéa 5(2)b) ni celle prévue à l’alinéa 5(2)i) ne trouve application et qu’aucune autre exception n’est applicable en l’espèce, les emplois de messieurs Lepage et Marion étaient des emplois assurables auprès de Boifor aux fins de la Loi pendant la Période.
+IV. DISCUSSION
+1. Alinéa 5(2)b) — contrôle de plus de quarante pour cent des actions avec droit de vote de Boifor
+[21] L’intimée soutient que les conditions prévues à l’alinéa 5(2)b) ne sont pas réunies en l’espèce, puisque messieurs Lepage et Marion ne détiennent que 25,7% et 24,8% des votes de Boifor respectivement. Vu que, selon l’alinéa 5(2)b), l’employé doit contrôler plus de 40% des actions avec droit de vote, les votes détenus par Gestion ne peuvent être pris en compte dans ce calcul. Au cours de l’audience, en réponse à une question de la Cour, l’intimée a admis que si Gestion était liquidée, l’exception prévue à l’alinéa 5(2)b) serait applicable et donc que les emplois de messieurs Lepage et Marion auprès de Boifor ne constitueraient pas des emplois assurables pendant la Période puisque le test du 40% serait satisfait.
+[22] L’intimée ajoute que les témoignages sont clairs : messieurs Lepage et Marion prennent toutes les décisions de concert, ils travaillent ensemble, l’un ne peut congédier l’autre et l’un ne peut décider seul de verser un dividende ou d’émettre des actions. Ainsi, selon l’intimée, chaque actionnaire peut toujours entraver le contrôle de l’autre.
+[23] Pour qu’un emploi soit exclu aux termes de l’alinéa 5(2)b), l’employé doit avoir le contrôle de plus de 40% des actions avec droit de vote de l’employeur.
+[24] La jurisprudence enseigne que cet alinéa ne vise pas le contrôle d’une société par actions, mais le contrôle d’actions (Canada (Procureur général) c Cloutier, [1987] 2 CF 222 au para 4, [1986] ACF no 778 (QL) [Cloutier]). Le mot « contrôle » vise non seulement le contrôle de jure mais aussi le contrôle effectif (Quincaillerie Le Faubourg (1990) inc c MNR, 2009 CCI 411 au para 34, [2009] ACI no 336 (QL) [Quincaillerie Le Faubourg]).
+[25] Le contrôle effectif est le contrôle dont l’exercice est libre et non entravé par des circonstances indépendantes de son titulaire (Cloutier, supra). Dans l’affaire Cloutier, supra, il ressortait des faits que monsieur Cloutier avait transféré ses actions en fiducie et que tant que les actions étaient détenues en fiducie, les droits de vote rattachés aux actions ne pouvaient être exercés. La Cour d’appel fédérale avait alors conclu que l’emploi de monsieur Cloutier était un emploi assurable puisque monsieur Cloutier n’avait pas le contrôle effectif des actions de son employeur ainsi détenues en fiducie.
+[26] À l’occasion de l’affaire Dupuis c MRN, 90 NR 399, [1988] ACF no 556 (QL) [Dupuis], la Cour d’appel fédérale a observé :
+Comme cette Cour l’a signalé dans l’arrêt Cloutier, (1987) 74 N.R. 396, ce texte législatif ne parle pas de contrôle de corporation mais de contrôle d'actions; l’on pourrait ajouter aujourd’hui qu’il ne parle pas non plus de propriété mais bien de contrôle. Il est de l’évidence que celui qui contrôle cent pour cent des actions d’une corporation qui, à son tour, contrôle plus de quarante pour cent des actions d’une seconde corporation contrôle plus de quarante pour cent des actions de cette dernière.
+[Non souligné dans l’original]
+[27] La question de savoir si ce même raisonnement est applicable se pose dans le cas de messieurs Lepage et Marion qui détiennent chacun 50% des actions de Gestion, et non pas 100% comme c’était le cas pour monsieur Dupuis dans l’affaire Dupuis, supra. La Cour est d’avis que le même raisonnement est applicable compte tenu de la jurisprudence de cette Cour et de la Cour d’appel fédérale résumée ci-dessous.
+[28] À l’occasion de l’affaire Paris Ladouceur & Associés Inc c MRN, 2005 CCI 107, [2005] ACI no 62 (QL), notre Cour a conclu qu’ajouter un échelon de société ne peut modifier le raisonnement de la décision Dupuis, supra. Ainsi, la Cour a conclu qu’un employé détenant 100% d’une société, laquelle à son tour détient 50% d’une autre société détenant 100% de la société employeur, sera considéré contrôler plus de 40% des actions votantes de la société employeur (para 20).
+[29] À l’occasion de l’affaire Remstar Distribution Inc et al. c MRN, [2002] ACI no 479 (QL), notre Cour a conclu que les emplois de Maxime et Julien Rémillard n’étaient pas des emplois assurables puisqu’ils contrôlaient plus de 40% des actions avec droit de vote des sociétés qui les employaient. La Cour avait constaté les faits suivants (para 46) : Maxime et Julien Rémillard détenaient chacun 50% des actions d’une société de gestion; cette société de gestion détenait 100% des actions de deux sociétés distinctes, soit Remstar Distribution Inc. (« Distribution ») et Remstar Productions Inc. (« Productions »); Maxime était président-directeur général de Productions et Julien était président-directeur général de Distribution. Julien et Maxime étaient les deux seuls administrateurs des trois sociétés. Les décisions étaient prises de façon consensuelle et leur salaire avait été établi d’un commun accord (para 23, 24 et 40). Le juge Nadon de la Cour d’appel fédérale a conclu que le juge de la Cour canadienne de l’impôt n’avait commis aucune erreur en concluant que Maxime et Julien Rémillard contrôlaient chacun plus de 40% des actions votantes des sociétés pour lesquelles ils travaillaient respectivement (Canada (Procureur général) c Remstar Distribution Inc, 2004 CAF 8, [2004] ACF no 131 (QL) [Remstar]).
+[30] De plus, l’intimée semble confondre le contrôle des actions avec droit de vote et le contrôle de la gestion de l’entreprise lorsqu’il avance les faits suivants : messieurs Lepage et Marion prennent toutes les décisions de concert, ils collaborent, l’un ne peut congédier l’autre et l’un ne peut décider seul de verser un dividende ou d’émettre des actions. Ainsi, selon l’intimée, chaque actionnaire peut toujours entraver le contrôle de l’autre. La Cour d’appel fédérale a clairement conclu à l’occasion de l’affaire Canada (Procureure générale) c Acier Inoxydable Fafard Inc, 2002 CAF 214, 294 NR 384, [2002] ACF no 794 (QL), que, pour les fins de l’alinéa 5(2)b), le contrôle sur la gestion de l’entreprise n’est pas pertinent, c’est plutôt le contrôle des actions avec droit de vote qui importe (para 9).
+[31] De surcroît, les faits du présent appel sont tout à fait différents de ceux de l’affaire Cloutier, supra, citée par l’intimée à l’appui de ses thèses. Dans cette affaire, le travailleur ne pouvait exercer ses droits de vote tant que les actions étaient détenues en fiducie. En l’espèce, messieurs Lepage et Marion peuvent exercer leurs droits de vote.
+[32] Ainsi, conformément au précédent établi par la Cour d’appel fédérale à l’occasion de l’affaire Remstar, supra, la Cour conclut que les emplois de messieurs Lepage et Marion auprès de Boifor pendant la Période n’étaient pas des emplois assurables au sens de la Loi puisque l’alinéa 5(2)b) est applicable : monsieur Lepage contrôlait 50,45% des actions avec droit de vote de Boifor (soit 25,7% des votes pour les actions détenues directement par monsieur Lepage plus la moitié de 49,5% des votes pour les actions détenues par Gestion) et monsieur Marion en contrôlait 49,55% (soit 24,8% des votes pour les actions détenues directement par monsieur Marion plus la moitié de 49,5% des votes pour les actions détenues par Gestion).
+[33] La Cour est d’avis qu’appliquer la Loi de la manière avancée par l’intimée produirait des résultats absurdes et contraires à l’objet de la Loi : elle est de nature sociale et vise à aider financièrement les travailleurs qui perdent leur emploi pour des périodes dont la durée peut varier (Quincaillerie Le Faubourg, supra au para 8). Permettre à messieurs Lepage et Marion de bénéficier des avantages offerts par la Loi, alors que ce sont deux entrepreneurs qui contrôlent toute la structure de leur entreprise et prennent toutes les décisions concernant la gestion et les opérations de l’entreprise serait contraire à l’objet de la Loi.
+[34] L’appel est donc accueilli et la décision de la Ministre est modifiée pour porter que, pendant la Période, messieurs Lepage et Marion n’occupaient pas un emploi assurable auprès de Boifor au sens de la Loi.
+[35] De plus, la Cour aurait également pu accueillir l’appel et modifier la décision de la Ministre au motif que messieurs Lepage et Marion occupaient tous deux un emploi dans le cadre duquel l’employeur et l’employé avait entre eux un lien de dépendance et, conséquemment, que l’emploi de chacun d’eux auprès de Boifor n’était pas assurable aux termes de l’alinéa 5(2)i).
+[36] L’intimée soutient que ni monsieur Lepage ni monsieur Marion n’avaient de lien de dépendance avec Boifor et elle s’appuie sur la définition du lien de dépendance aux fins de la LIR (Canada c McLarty, 2008 CSC 26 au para 62, [2008] 2 RCS 79; Campbell c Canada (ministre du Revenu national), [1998] ACI no 571 (QL) au para 13; Peter Cundill & Associates Ltd v The Queen, 91 DTC 5085 au para 31) :
+– un seul cerveau dirige les négociations pour les deux parties à la transaction;
+– les parties à la transaction agissent de concert, sans intérêts distincts; et
+– l’une des parties exerce un contrôle effectif sur l’autre (contrôle de facto).
+[37] Suivant ces principes, l’intimée soutient qu’il n’y a aucun lien de dépendance entre Boifor et messieurs Lepage et Marion, puisque ni monsieur Lepage ni monsieur Marion ne contrôlaient Boifor, et que chacun d’eux avait des intérêts distincts pour établir leur salaire respectif. L’intimée ajoute qu’il faut également examiner les conditions de travail à cet égard et, dans ce cas précis, puisque le salaire a été fixé selon les conditions du marché et que des bonis étaient versés, il n’y avait pas de lien de dépendance ni entre monsieur Lepage et Boifor et ni entre monsieur Marion et Boifor.
+[38] Pour déterminer si l’employé et l’employeur ont un lien de dépendance selon l’alinéa 5(2)i) de la Loi, la Cour est d’avis qu’il faut analyser toutes les circonstances afin de déterminer si l’emploi est un « emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance. » Pour les motifs suivants, la Cour est d’avis qu’un tel lien de dépendance existe entre chacun de monsieur Lepage et monsieur Marion d’une part, et Boifor d’autre part.
+[39] Les faits présentés en preuve à l’audience démontrent clairement que messieurs Lepage et Marion agissent de concert, sans intérêt distinct, dans le cadre de leur relation avec Boifor. La preuve a démontré que messieurs Lepage et Marion prennent toutes les décisions concernant les opérations et la gestion de l’entreprise de façon concertée; ces deux personnes agissent dans le meilleur intérêt de Boifor et, ultimement, dans leur intérêt puisqu’ils sont les actionnaires ultimes de Boifor. Les efforts fournis par chacun d’eux dans le cadre de leur emploi bénéficieront à Boifor dans un premier temps et, au final, au deux actionnaires. Messieurs Lepage et Marion sont deux partenaires d’affaires qui s’entendent pour la bonne marche de leur entreprise. La convention d’actionnaires ne contient aucune disposition octroyant le contrôle à l’un ou l’autre de monsieur Lepage ou Marion.
+[40] En examinant les relations de messieurs Lepage et Marion en leur qualité d’employé par rapport à Boifor à titre d’employeur, la Cour est d’avis qu’un contrat de travail substantiellement similaire n’aurait jamais été conclu avec une personne sans lien de dépendance avec Boifor.
+[41] Tel que mentionné ci-dessus, messieurs Lepage et Marion travaillaient sans arrêt; ils étaient toujours disponibles, débutant leur journée de travail à 5 h 30 et la terminant vers 23 h. Monsieur Marion a témoigné que monsieur Lepage et lui travaillaient 24 heures par jour, 7 jours par semaine. Les témoignages de messieurs Lepage et Marion ont été crédibles et ils m’ont semblé des hommes d’affaires et entrepreneurs totalement dévoués à leur entreprise, soit à Boifor.
+[42] Boifor ne leur imposait pas d’heures précises de travail. Messieurs Lepage et Marion prenaient leurs congés à leur gré, en se concertant sur le calendrier afin de ne pas laisser l’entreprise sans direction. Messieurs Lepage et Marion disposaient donc d’une grande liberté.
+[43] Le salaire a été fixé par référence à un emploi antérieur de monsieur Lepage. Selon la Cour, ce salaire pourrait sembler raisonnable à première vue mais compte tenu des heures consacrées par chacun d’eux à l’entreprise, il est clair qu’une personne sans lien de dépendance n’aurait jamais conclu un tel contrat d’emploi. De plus, aucune heure supplémentaire n’était payée par Boifor.
+[44] Également, messieurs Lepage et Marion étaient les seuls dirigeants et administrateurs de Boifor. En outre, il ressort des preuves que messieurs Lepage et Marion ont cautionné des emprunts de Boifor auprès de la caisse populaire. Il est extrêmement rare qu’un employé sans lien de dépendance cautionne des prêts de son employeur.
+[45] Pour ces raisons, l’appel est accueilli et la Décision est modifiée de la façon suivante :
+MonsieurDavidMarion et monsieurMarcLepage n’occupaient pas un emploi assurable au sens de la Loi lorsqu’ils étaient au service de Boifor pendant la période du 16 avril 2014 au 31 décembre 2015; et
+puisque Boifor ne poursuit pas l’appel pour ce qui est de la période du 1er janvier 2014 au 15 avril 2014, la Décision reste inchangée et, plus précisément, il est constaté que monsieur David Marion et monsieur Marc Lepage occupaient un emploi assurable au sens de la Loi lorsqu’ils étaient au service de Boifor pendant cette période.
+Signé à Ottawa, Canada, le 14e jour de mars 2018.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2018 CCI 53
+NO DE DOSSIER DE LA COUR :
+2017-1301(EI)
+INTITULÉ :
+ÉQUIPEMENTS BOIFOR INC. ET LA MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Le 20 février 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 14 mars 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Guillaume Richard
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Guillaume Richard
+Cabinet :
+Ekitas, Avocats et Fiscalistes Inc.
+Laval (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

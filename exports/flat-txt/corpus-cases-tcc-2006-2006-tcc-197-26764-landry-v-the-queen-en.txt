@@ -1,0 +1,123 @@
+Title: Landry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26764/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-197-26764-landry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-21
+
+# Landry v. The Queen
+
+- Citation: 2006 TCC 197
+- Decision date: 2006-04-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3510, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-21
+Neutral citation
+2006 TCC 197
+File numbers
+2005-789(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-789(IT)I
+BETWEEN:
+YVES LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 20, 2006, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+William Noonan
+Counsel for the Respondent:
+Martin Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of April 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of November 2006
+Monica F. Chamberlain, Reviser
+Reference: 2006TCC197
+Date: 20060421
+Docket: 2005-789(IT)I
+BETWEEN:
+YVES LANDRY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal, under the informal procedure, from a reassessment by which the Minister of National Revenue ("the Minister") added $17,769 to the Appellant's income for the 2001 taxation year on account of interest and other investment income derived from the Appellant's disposition of a life insurance policy that he held. The Appellant submits that he did not have to report this income of $17,769 in the 2001 taxation year because tax on this income had been paid in 1999 under an agreement made on December 2, 1999, with the Canada Customs and Revenue Agency ("the Agency").
+Facts
+[2] On April 8, 1990, the Appellant obtained an insurance policy ("the policy") from Desjardins‑Laurentian Life Assurance Inc. ("Desjardins") on his life. The insured principal upon issuance was $50,000.
+[3] In each of the years 1993, 1994, 1995 and 1996, the Appellant invested $6,000 in this policy by means of equal and consecutive monthly instalments of $500.
+[4] At December 31, 2000, Desjardins estimated that $121,024 had accumulated in the policy.
+[5] On June 11, 2001, the Appellant disposed of a part of his interest in the policy and received the sum of $83,000 from Desjardins as a result.
+[6] In computing his income for the 2001 taxation year, the Appellant did not include the sum of $17,769 associated with his disposition of a part of his interest in the policy. This amount of $17,769 represented the amount by which the proceeds of disposition[1] of his interest in the policy exceeded the adjusted cost base of his interest in the policy immediately prior to the disposition. Desjardins issued a T5 slip (Statement of Investment Income) indicating that, in 2001, the Appellant received $17,769 in income from the disposition of a part of his interest in the policy. It should be noted that the Appellant attached this T5 to the income tax return that he filed for his 2001 taxation year, although he did not include this amount in computing his income for that year.
+[7] The Appellant was audited for the 1995 and 1996 taxation years. The Agency used the net worth method to establish the Appellant's unreported income for those years.[2]
+[8] On or about December 2, 1999, the Agency accepted the Appellant's offer of $50,000 (Exhibit A‑1) in settlement of tax, interest and penalties associated with his unreported income for the 1995 and 1996 taxation years.
+The Appellant's position
+[9] In his oral submissions, counsel for the Appellant essentially repeated the arguments made in the Notice of Appeal, which read as follows:
+[TRANSLATION]
+12. However, the Statement of Net Worth prepared by auditor Johanne Ouellet in September 1998 takes into account the assets held in the insurance policy issued by Desjardins‑Laurentian Assurance Inc. as shown by a copy of the said statement, which will be produced at the hearing.
+13. In light of the foregoing, the Canada Customs and Revenue Agency is attempting to disregard a final and comprehensive settlement that it reached with the objector and is now seeking to assess him a second time on an amount that was already audited and assessed for years prior to 1997.
+14. In short, the objector has already paid the tax due on the insurance policy.
+15. Moreover, and in the alternative, even if the audit method did not include the investment interest or profit, the Canada Customs and Revenue Agency, through Johnny Gallagher, nonetheless clearly agreed with the objector — notably by characterizing the settlement as "full and final" with regard to the 1995 and 1996 tax returns — that the objector was entitled to consider all liabilities in relation to these returns definitively settled.
+16. Indeed, no particulars regarding the consequences of using the net worth assessment method were given or reported to the opponent, thereby reinforcing the certainty that the 1995 and 1996 returns were definitively settled without any reservation by the Canada Customs and Revenue Agency.
+17. Thus, the Canada Customs and Revenue Agency erred in determining that the amount of $17,769 had to be included in the opponent's income, because that amount includes interest earned during years prior to 1997, years for which a final and comprehensive settlement was reached, all of which is established by documents that will be produced at the hearing.
+Analysis
+[10] Based on my analysis of the Statement of Net Worth prepared by Ms. Ouellet of the Agency, I find that the amounts under the item "Desjardins‑Laurentian Life Insurance" (Exhibit I‑6, page 2) were simply amounts that the Appellant invested in the policy during 1993, 1994, 1995 and 1996. By adding the cost of the Appellant's investments in the policy during a year to his balance for that year, the Agency was simply seeking to determine the changes in the Appellant's principal from year to year — a sensible process that is indispensable in determining the Appellant's additional or unreported income in a given year. Indeed, when the Minister uses the net worth method to determine a taxpayer's unreported income in a given year, one of the things that he must do is determine the taxpayer's balance at the end of that year and compare it with the balance at the end of the previous year. If this process identifies an increase in the taxpayer's principal that year, and the taxpayer is unable to explain it, the Minister will correctly conclude that the difference constitutes the taxpayer's unreported income for that year.
+[11] In my opinion, the inclusion of the amounts that the Appellant invested in the policy was not intended to include, in his income, the profit from the policy or the interest accrued therein, nor did it have that effect. Rather, the only intent and effect of the inclusion was to determine the Appellant's additional or unreported income.
+[12] The Appellant submitted that the inclusion of the $17,769 in his income for the 2001 taxation year resulted in a kind of double taxation because the Minister had already taken account of the assets that the Appellant held in the policy when he determined the Appellant's additional unreported income for the 1995 and 1996 taxation years. In my opinion, the inclusion of the $17,769 in the Appellant's income did not result in any double taxation. As I stated, the only intent and effect of the inclusion, in the Appellant's 1995 and 1996 balances, of the amounts that he had invested, was to determine the Appellant's additional and unreported income during these years, not to tax the Appellant on the profit from or interest accrued in the policy at December 31, 1996, or, in other words, to tax the Appellant on the income from the Appellant's deemed disposition of his interest in the policy on December 31, 1996. Moreover, the amounts that the Appellant invested in the policy were not subject to double taxation because they were part of the adjusted cost base of his interest in the policy. I emphasize that when a taxpayer disposes of his interest in a policy, he must add to his income, in the year of disposition, the amount by which the proceeds of disposition of his interest exceed the adjusted cost base (including the amounts that the taxpayer invested in the policy) of his interest in the policy immediately prior to the disposition.
+[13] Lastly, turning to the alternative argument made by the Appellant in the Notice of Appeal, which reads as follows:
+[TRANSLATION]
+Moreover, and in the alternative, even if the audit method did not include the investment interest or profit, the Canada Customs and Revenue Agency, through Johnny Gallagher, nonetheless clearly agreed with the objector — notably by characterizing the settlement as "full and final" with regard to the 1995 and 1996 tax returns — that the objector was entitled to consider all liabilities in relation to these returns definitively settled.
+[14] In my opinion, the terms of the settlement between the Agency and the Appellant are clear and leave no room for interpretation. I find that the only purpose of this settlement was fully and finally to settle all the tax, interest and penalties owed by the Appellant for the 1995 and 1996 taxation years. I find it implausible that the agreement could have been intended to effect a full or partial settlement of the Appellant's tax liability in respect of his future or potential disposition of all or part of his interest in the policy.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of April 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 29th day of November 2006
+Monica F. Chamberlain, Reviser
+CITATION: 2006TCC197
+COURT FILE NO.: 2005-789(IT)I
+STYLE OF CAUSE: Yves Landry and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: March 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: April 21, 2006
+APPEARANCES:
+For the Appellant:
+William Noonan
+For the Respondent:
+Martin Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name: William Noonan
+Firm: Sillery, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] $83,000.
+[2] See Exhibit I-6.

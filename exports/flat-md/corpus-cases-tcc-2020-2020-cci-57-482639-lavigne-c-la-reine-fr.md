@@ -1,0 +1,222 @@
+---
+title: "Lavigne c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482639/index.do"
+last_modified: "2020-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 57"
+citation2: ""
+neutral_citation: "2020 CCI 57"
+decision_date: "2020-07-16"
+language: "fr"
+item_id: "482639"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4589
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:02:33.714000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce00c1eefbb222402ac2fb5b0a310d728f97aefbe73550d56472e904ac2c5c11"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lavigne c. La Reine
+
+- Citation: 2020 CCI 57
+- Decision date: 2020-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4589, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavigne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-16
+Référence neutre
+2020 CCI 57
+Numéro de dossier
+2015-3870(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-3870(IT)G
+ENTRE :
+RIKA LAVIGNE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 mars 2019 à Windsor (Ontario).
+Devant : L’honorable juge suppléant Gaston Jorré
+Comparutions :
+Représentant de l’appelante :
+Alexander R. Menzies
+Avocat de l’intimée :
+Me Dustin Kenall
+JUGEMENT
+En conformité avec les motifs du jugement ci-joints, l’appel est rejeté.
+Quant à la question des dépens, le greffe de la Cour écrira aux parties pour qu’elles présentent de brèves observations écrites sur les dépens, compte tenu de l’historique de la procédure en l’espèce [1] .
+Signé à Ottawa, Canada, ce 16e jour de juillet 2020.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour d'août 2020.
+François Brunet, réviseur
+Référence : 2020 CCI 57
+Date : 20200716
+Dossier : 2015-3870(IT)G
+ENTRE :
+RIKA LAVIGNE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+[1] La présente affaire porte sur des dépenses professionnelles et des pénalités. La majeure partie des dépenses professionnelles déclarées par l’appelante ont été rejetées et des pénalités pour faute lourde ont été imposées.
+[2] L’appelante dit être courtière hypothécaire. Elle a déclaré des revenus bruts d’environ 148 000 $ et 146 000 $ par an pour les années d’imposition 2010 et 2011, respectivement. Elle a également déclaré des dépenses d’environ 138 000 $ et 145 000 $, ce qui donne un revenu net d’environ 10 700 $ et 1 200 $ [2] .
+[3] L’Agence du revenu du Canada (Agence) a établi de nouvelles cotisations à l’égard des deux années et a rejeté des montants très importants des dépenses déclarées [3] .
+[4] L’appelante a déposé un avis d’opposition et, par la suite, l’Agence a augmenté légèrement le montant des dépenses admissibles; la conséquence ultime des modifications apportées a été le rejet d’environ 76 000 $ et 74 000 $ de dépenses déclarées pour les années 2010 et 2011 respectivement. Ces sommes rejetées représentent un peu plus de la moitié des dépenses déclarées chaque année.
+Faits et analyse – Dépenses
+[5] À l’audience, l’appelante n’a pas fondamentalement contesté un grand nombre des dépenses rejetées.
+[6] Par exemple, au cours des deux années, l’appelante a déclaré des dépenses salariales de 38 500 $; l’Agence a refusé 26 000 $ de dépenses. Le solde de 12 500 $ par an a été versé au mari de l’appelante et accepté par l’Agence. Les 26 000 $ de dépenses refusés en 2010 et 2011 représentent plus d’un tiers des dépenses en cause.
+[7] Étant donné que ces dépenses salariales rejetées font partie des montants assujettis à la pénalité pour faute lourde, je formulerai quelques autres observations à leur sujet.
+[8] À l’audience, ces dépenses ont seulement été évoquées lors du contre-interrogatoire, lorsque l’appelante a reconnu avoir déclaré les 26 000 $ en 2010 pour des services informatiques et de nettoyage qu’elle avait payé en espèces, et qu’elle n’avait aucun document pour appuyer sa demande [4] . Elle n’a nommé personne et n’a pas fait état d’autres détails.
+[9] Je ne crois tout simplement pas qu’une personne qui conserve des centaines de reçus de restaurant, dont certains sont inférieurs à 10 $, n’obtiendrait aucun document relatif au paiement des 52 000 $ de salaires en question, sur une période de deux ans. Cela représente 500 $ par semaine [5] . Il est également peu probable qu’elle aurait payé exactement 26 000 $ pour des services de nettoyage et de conseil en informatique deux années de suite.
+[10] La seule conclusion raisonnable que l’on peut en tirer est que les 26 000 $ de dépenses salariales pour chacune des années étaient fictifs. L’appelante aurait dû savoir que ces sommes étaient fictives.
+[11] Un autre exemple où la modification de l’Agence n’a pas été contestée concerne 2 851 $ en frais de repas et de représentation qui ont été refusés pour l’année d’imposition 2010. La modification concernant les frais de repas et de représentation en 2011 a été contestée et j’y reviendrai plus loin.
+[12] Je note également que l’appelante a explicitement déclaré qu’elle ne contestait pas la modification apportée par l’Agence en ce qui concerne les frais d’automobile.
+[13] L’appelante a témoigné, tout comme M. D. Kupin, un vérificateur de l’Agence. De nombreux documents ont été produits.
+[14] Pour ce qui est des parties contestées de la cotisation, je commencerai par les frais de repas et de représentation pour 2011. C’est également le moment opportun d’examiner la question de la crédibilité en général.
+[15] Quant aux dépenses de 2010 déclarées sous la rubrique repas et divertissements, l’Agence a finalement admis 58 % de ces dépenses après avoir examiné les renseignements produits. Quant à l’année d’imposition 2011, plutôt que d’examiner chaque dépense individuelle, l’Agence a simplement admis 58 % de la somme déclarée sans examiner les dépenses individuelles.
+[16] En 2011, l’appelante a déclaré 8 648 $ à titre de dépenses de repas et de représentation. Compte tenu de la règle des 50 % prévue à l’article 67.1 de la Loi de l’impôt sur le revenu, la somme déclarée suppose que l’appelante a dépensé deux fois ce montant d’argent pour des repas d’affaires.
+[17] La pièce A-2 contient deux listes de frais de repas déclarés ainsi que des photocopies de reçus, concernant l’année 2011. Les deux listes sont similaires. La première liste de sept pages fait état des dépenses regroupées par restaurant qui s’élèvent à 16 284,84 $ au total. La deuxième liste de huit pages, formatée différemment, est dressée par date. Plusieurs doublons à exclure du total y sont indiqués. Bien que la deuxième liste ne comporte pas de montant d’argent total, le total des dépenses figurant sur cette liste est quelque peu inférieur à celui des dépenses figurant la première liste, étant donné que les doublons totalisent environ 400 $ à 500 $ [6] .
+[18] Les dépenses initialement déduites comprenaient le double comptabilisation des repas pour lesquels il existait des reçus en double.
+[19] L’appelante a expliqué qu’elle engage des dépenses de représentation pour obtenir des contrats. L’Agence ne conteste pas cet élément. L’Agence conteste le montant de ces frais.
+[20] Une grande partie des éléments de preuve de l’appelante manquait de détails. Dans l’ensemble, sa preuve n’est pas crédible. Voici quelques-unes des considérations qui m’amènent à ma conclusion sur la crédibilité :
+a) L’appelante a déclaré des paiements de salaire inexistants dans ses déclarations d’impôts.
+b) Même après la suppression des repas en double, l’appelante a présenté des demandes relatives à quelque 360 repas totalisant environ 16 000 $ pour l’année 2011. Lorsqu’on examine la deuxième liste, compte tenu du nombre considérable de repas et du moment des repas, il est peu probable que tous soient des repas d’affaires. Bon nombre d’entre eux ont eu lieu un samedi ou un dimanche; il y a des jours où le moment du repas est assez particulier, par exemple : le 30 avril 2011, 14 h 02, 17 h 41 et 21 h 35 figurent sur des reçus de restaurant; de même le 26 novembre 2011, un samedi, 11 h 36, 11 h 58 et 18 h 37 figurent sur des reçus de restaurant.
+c) Outre le fait qu’il s’agissait de doublons, je conclus que plusieurs reçus sur lesquels l’appelante s’est appuyée ont été modifiés pour en augmenter le montant. En effet, par exemple, l’appelante a admis avoir modifié la date d’un reçu pour remplacer 2009 par 2010 [7] .
+d) Parmi les repas déduits par l’appelante en 2011, on compte au total de 36 repas au Palette Dining Lounge et au restaurant Breeze. Les deux restaurants se trouvent au MGM Grand, un casino du Michigan [8] . Après avoir examiné les reçus, je conclus qu’il s’agissait uniquement de repas personnels de l’appelante et de son mari, ou, à tout le moins, principalement de repas personnels [9] .
+e) Elle a également déclaré des dépenses pour des éléments qui sont à première vue des dépenses personnelles et qui n'ont rien à voir avec son entreprise; par exemple, une facture de Costco produite en preuve comprenant un filet de porc, un bifteck de Montréal, des aérosols Pam, des céréales Special K, des poivrons rouges et des piments [10] .
+[21] Absolument rien dans la preuve ne me permet de conclure que l’appelante a droit à des frais de repas d’affaires supplémentaires.
+[22] L’appelante a également fait valoir que l’Agence aurait dû examiner chaque déduction de repas individuelle pour 2011, comme elle l’a fait pour l’année 2010, et non se contenter d’accorder le même pourcentage des dépenses pour les années 2011 et 2010. Je ne connais aucune règle de droit qui empêche l’Agence de suivre la méthode qu’elle a retenue pour décider des frais de repas admissibles. La méthode retenue n’était pas déraisonnable.
+[23] L’Agence ayant pris cette décision, il incombait alors à l’appelante de démontrer à notre Cour que des frais de repas plus élevés étaient admissibles. Or, comme je l’ai déjà mentionné, l’appelante ne l’a pas fait.
+[24] En 2010, l’appelante a déclaré 4 932,30 $, versés à un cabinet d’avocats le 28 janvier 2010 ou vers cette date. Cette dépense a été refusée par l’Agence.
+[25] Un exemplaire d’un chèque de ce montant, libellé à l’ordre de Hogarth Hemiston in Trust, a été produit en preuve [11] . L’appelante a déclaré qu’elle faisait parfois des erreurs et qu’il lui arrivait de devoir rembourser l’avocat s’il avait déjà entamé son intervention. Cependant, elle ne savait pas à quoi servait ce chèque précis et elle a déclaré que l’écriture sur le chèque semblait être celle de son mari.
+[26] Je ne suis pas convaincu que ce chèque a été fait en paiement d’une dépense professionnelle. L’appelante est la mieux placée pour fournir des renseignements sur ses affaires financières et on s’attendrait à ce qu’elle soit en mesure d’expliquer à quoi le montant était destiné et de produire d’autres pièces justificatives [12] .
+[27] L’appelante a également déclaré 5 798 $ en 2010 et 4 032 $ en 2011 relativement des dépenses afférentes à l’utilisation professionnelle de son domicile. Ces dépenses s’élèvent à 25 % du coût du chauffage, de l’électricité, de l’assurance, de l’entretien, des intérêts hypothécaires et des impôts fonciers de sa maison familiale. Ces sommes d’argent ont été entièrement refusées par l’Agence.
+[28] Entre autres conditions, avant que le contribuable puisse déclarer des frais professionnels pour l’utilisation de son domicile, il doit remplir la condition énoncée au sous-alinéa 18(12)a)i) ou la condition énoncée au sous-alinéa 18(12)a)ii) de la Loi de l’impôt sur le revenu. Plus précisément, un montant n’est déductible pour la partie de la résidence que si cette partie :
+(i) soit est son principal lieu d’affaires;
+(ii) soit lui sert exclusivement à tirer un revenu d’une entreprise et à rencontrer des clients ou des patients sur une base régulière et continue dans le cadre de l’entreprise;
+[Non souligné dans l’original.]
+[29] L’appelante a payé le loyer d’un bureau situé à l’extérieur de son domicile s’élevant à près de 9 132 $, chacune des deux années en question. Je remarque également que, bien que sa demande ait été réduite, l’appelante s’est vu accorder plus de 10 000 $ en frais d’automobile par année, ce qui représente un nombre de trajets en voiture considérables pour mener à bien son activité.
+[30] Je reconnais que l’appelante a pu, à l’occasion, rencontrer des clients à son domicile; toutefois, dans son témoignage elle ne démontre pas que son domicile était son principal lieu d’affaires ni qu’une partie du domicile était utilisée exclusivement pour son entreprise [13] . Par conséquent, l’Agence n’a commis aucune erreur en rejetant les frais d’utilisation de la résidence à des fins professionnelles [14] .
+[31] Il reste divers autres éléments que l’appelante a contestés à l’audience, dont beaucoup pourraient être qualifiés de cadeaux. Je constate que certains cadeaux d’entreprise ont été admis par l’Agence.
+[32] Je ne suis pas convaincu que l’appelante a droit à ces éléments supplémentaires, étant donné ma conclusion générale quant au poids à accorder à ses éléments de preuve. Vu cette conclusion, il aurait fallu des éléments de preuve clairs et indépendants pour démontrer qu’une dépense contestée et apparemment de nature personnelle était en fait une dépense professionnelle valable. Ces éléments de preuve n’ont pas été produits en l’espèce. Le témoignage d’un tiers ou le dossier clair d’un tiers auraient pu constituer ces éléments de preuve [15] .
+[33] Il n’y a aucune raison d’augmenter les dépenses admissibles.
+[34] À certains moments de l’audience, l’appelante a indiqué qu’elle était salariée, bien qu’elle ait rempli sa déclaration d’impôts à titre de travailleuse autonome et que la cotisation ait été établie en conséquence. En effet, elle a également affirmé qu’elle était travailleuse indépendante [16] . Quoi qu’il en soit, il ne ressort pas des preuves produites que l’appelante était travailleuse indépendante [17] .
+La pénalité prévue par le paragraphe 163(2)
+[35] Les principaux éléments du paragraphe 163(2) de la Loi de l’impôt sur le revenu qui sont pertinents dans le cadre du présent appel sont les suivants :
+i. Premièrement, il existe un faux énoncé;
+ii. Deuxièmement, l’énoncé a été fait et la personne y a consenti ou acquiescé
+1. sciemment ou
+2. dans des circonstances équivalant à faute lourde.
+[36] Il est clair que la première condition est remplie. Il ne fait aucun doute qu’il y a eu de faux énoncés. De nombreuses dépenses inexistantes ou personnelles ont été déclarées à titre de dépenses professionnelles.
+[37] En ce qui concerne la deuxième condition, l’appelante a essentiellement déclaré qu’elle n’avait pas de formation spécialisée en matière de fiscalité ou de comptabilité et qu’elle faisait de son mieux en ce qui concerne ses déclarations de dépenses.
+[38] Elle a engagé une personne [18] pour faire ses déclarations de revenus et lui a fourni le total de ses dépenses dans chaque catégorie, mais ne lui a pas fourni de reçus.
+[39] L’appelante n’a pas témoigné au sujet des efforts qu’elle a déployés pour vérifier l’exactitude des renseignements contenus dans les déclarations avant de les signer. Elle n’a pas témoigné des efforts qu’elle a déployés pour s’assurer qu’elle choisissait une personne qualifiée pour effectuer ses déclarations ni des discussions qu’elle a eues avec cette personne pour déterminer, s’il y a lieu, ce qui pouvait être déduit ou non. Comme M. Bauer n’a pas été appelé à témoigner, nous n’avons pas le bénéfice de son témoignage sur les renseignements qu’il a demandés et les renseignements qui lui ont été produits.
+[40] Il n’est pas nécessaire d’avoir une formation ou une expertise particulière pour savoir qu’on ne peut pas déclarer une dépense qui n’a jamais été faite. Il n’est pas non plus nécessaire d’avoir de telles connaissances pour savoir qu’un dîner avec son conjoint n’est normalement pas une dépense professionnelle.
+[41] Quant à la deuxième condition, il est clair qu’un grand nombre des faux énoncés ont été faits sciemment, cette exigence est donc remplie. C’est le cas des 26 000 $ déclarés par an en salaire inexistant et d’autres déclarations telles que celles dont les reçus ont été modifiés ou celles concernant les repas pris avec son mari. Plus généralement, je ne doute pas que l’appelante, qui a travaillé dur, savait qu’elle ne faisait pas tout ce travail pour un revenu net de seulement environ 10 700 $ et 1 022 $ en 2010 et 2011 respectivement. L’appelante devait savoir que ses dépenses étaient gonflées.
+[42] Même sans tenir compte des dépenses précises que l’appelante savait assurément non valables, étant donné l’ampleur des dépenses déclarées et non valables, je conclus qu’il importait peu à l’appelante de savoir si les dépenses qu’elle déclarait étaient valables ou non [19] .
+[43] Cette indifférence constitue un aveuglement volontaire et répond à l’exigence de faire « sciemment » un faux énoncé [20] .
+[44] Il n’y a aucune raison de modifier la pénalité.
+Conclusion
+[45] Pour les motifs susmentionnés, l’appel est rejeté. Le greffe communiquera avec les parties relativement aux observations sur les dépens.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2020.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 17e jour d'août 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2020 CCI 57
+Nº DU DOSSIER DE LA COUR :
+2015-3870(IT)G
+INTITULÉ :
+RIKA LAVIGNE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Windsor (Ontario)
+DATE DE L’AUDIENCE :
+DATE À LAQUELLE LA COUR A PU CONSULTER LA TRANSCRIPTION :
+Le 6 mars 2019
+Le 20 mars 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Gaston Jorré
+DATE DU JUGEMENT :
+Le 16 juillet 2020
+COMPARUTIONS :
+Représentant de l’appelante :
+Alexander R. Menzies
+Avocat de l’intimée :
+Me Dustin Kenall
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] La présente affaire a été instruite sous régime de la procédure générale et en partie sous régime de la procédure informelle. L’appel a été instruit sous le régime de la procédure générale jusqu’au matin du début de l’audience. Au début de l’audience, l’appelante a demandé que le régime de la procédure informelle, plutôt que le régime de la procédure générale, régisse l’appel; ce à quoi l’intimée a consenti, tout en déclarant qu’elle le faisait en se réservant le droit de demander les dépens si l’appel était accueilli. Dans les circonstances, quelques minutes après le début de l’audience, j’ai autorisé le choix tardif de l’appelante; voir le paragraphe 18(1) de la Loi de l’impôt sur le revenu et le paragraphe 16(1) des Règles de la Cour canadienne de l’impôt (procédure informelle).
+[2] Au cours des années 2004 à 2009, l’appelante a déclaré aux lignes 162 et 135 de ses déclarations de revenus un revenu d’entreprise brut et net d’environ 185 000 $ et 74 000 $ en 2004; 140 000 $ et 41 000 $ en 2005, 115 000 $ et 24 000 $ en 2006, 124 000 $ et 11 000 $ en 2007, 180 000 $ et 17 000 $ en 2008 et 122 000 $ et 5 000 $ en 2009; voir les pages 11 à 17, à l’onglet 41 de la pièce R-2.
+[3] La Loi de l’impôt sur le revenu habilite le ministre du Revenu national à exercer ses fonctions par l’intermédiaire de ses représentants. Toutefois, en raison de la Loi de l’impôt sur le revenu et de sa mise en œuvre, concrètement, les citoyens ont l’impression de traiter avec l’Agence et non avec le ministre; par conséquent, je ferai référence à l’Agence du revenu du Canada plutôt qu’au ministre du Revenu national dans les présents motifs.
+[4] Dans la pièce R-1B, ses réponses à l’interrogatoire préalable écrit; la réponse 46 (en haut de la cinquième page) et la réponse 47 (dans la moitié supérieure de la sixième page) vont dans le même sens. Dans ces deux réponses, elle ajoute qu’elle n’a pas pu retracer le concierge et le consultant en informatique qu’elle avait payés.
+[5] Les demandes de remboursement des repas en tant que frais de représentation sont examinées ci-dessous. Un reçu du restaurant Subway de 8,44 $, du restaurant McDonald’s de 5,98 $ et du magasin Yogen Fruz de 6,67 $ sont exemples de reçus de repas inférieurs à 10 $ – voir la première liste de la pièce A-2 qui compte sept pages et qui est dressée par ordre alphabétique par restaurant.
+[6] L’appelante a dû compter deux fois les 400 $ à 500 $ au moment où la déclaration a été produite pour obtenir des totaux approchant ceux qui sont nécessaires pour justifier les montants déclarés.
+[7] Voir, par exemple, les pages 102 et 103 de la transcription concernant un reçu de restaurant de 134 $ qui n’était initialement que de 34 $ ou les pages 129 à 130 de la transcription où un reçu de cadeau a été modifié pour passer de 3,50 $ à 33,50 $. Consulter la page 123 de la transcription pour voir le reçu dont la date a été modifiée.
+Il y a également des cas où l’appelante a soumis à la fois la facture du restaurant et le bordereau de carte de crédit d’un repas en particulier où les noms des personnes reçues inscrits au dos de la facture et au dos du bordereau de carte de crédit étaient différents. Par exemple, l’appelante a inclus dans ses documents des photocopies du recto d’une facture et d’un bordereau de carte de crédit pour un repas ayant eu lieu le 28 janvier 2010 au restaurant Mezzo. Nous n’avons pas de copies du verso; cependant, on peut voir sur la photocopie que des noms ont été écrits au verso; en regardant les pages éclairées par l’arrière, les noms au verso semblent différents – voir les pages 46 et 47 de la pièce R-4 et les pages 108 à 110 de la transcription où l’appelante convient qu’il s’agit du même repas, mais elle a affirmé ne pas être en mesure de dire si les noms de personnes différentes sont inscrites.
+Autre exemple : du côté gauche de la page 5, onglet 4, pièce R-3, on trouve une facture et un bordereau de carte de crédit pour le même repas, le 16 avril 2010, au restaurant Pit for Pasta. Les copies ne sont pas très lisibles; toutefois, il est clair qu’elles concernent le même repas et que le nom de l’invité figurant au dos de chacune d’elles est différent.
+[8] Les reçus sont consignés dans la pièce A-2.
+[9] Certaines parties de ces reçus ne sont pas lisibles; cependant, il est généralement possible d’en lire assez pour en déduire qu’on s’est servi d’une carte de fidélisation ou de récompenses quelconque appartenant à l’appelante et à son mari, Andrew, pour payer le dîner. Par exemple, sur le reçu du restaurant Palette du 19 septembre 2011 à 20 h 17 figurent deux repas au buffet pour un total de 56 $; de ce total, 18,24 $ semblent avoir été payés au moyen de la carte de l’appelante et 33,76 $ au moyen de la carte de son mari. Le solde a été payé en espèces. Il y a également des repas dont le montant a été payé au moyen de la carte de crédit de son mari; voir par exemple le reçu de carte de crédit du restaurant Palette du 3 avril 2011 pour un total 56 $, payé au moyen de la carte de crédit du mari de l’appelante. Au restaurant Breeze, on s’est parfois servi des cartes de récompenses de l’appelante et de son mari et, d’autres fois, seulement la carte de son mari – par exemple, seule la carte de son mari a été utilisée pour régler 17 $ associés au reçu du restaurant Breeze daté du 8 avril 2011.
+[10] Voir la page 15 de la pièce R-4.
+[11] Pièce R-4, à la page 18.
+[12] On s’attendrait à ce qu’elle ait reçu une facture faisant état de ce qui a été payé. Compte tenu de tous les reçus de repas conservés par l’appelante, on pourrait s’attendre à ce qu’elle ait également conservé une facture de près de 5 000 $. En outre, si la facture avait été perdue, on pourrait s’attendre à ce que l’appelante ait essayé d’obtenir une copie auprès de son avocat; à cet égard, je remarque que sa déclaration de 2010 était datée du 15 juin 2011 (voir pièce R-1B) et que la vérification a commencé par une lettre de contact initial datée du 16 octobre 2012 (voir page 2, onglet 7 de la pièce R-2).
+[13] Vu les éléments de preuve, il n’était pas question de prétendre sérieusement que les conditions du sous-alinéa 18(12)a)i) ou du sous-alinéa 18(12)a)ii) étaient réunies.
+[14] Compte tenu de cette conclusion, il n’est pas nécessaire que j’analyse le montant des dépenses d’utilisation du domicile. Toutefois, si cela avait été nécessaire, j’aurais souligné qui suit : l’appelante a déclaré des sommes de 5 798 $ et 4 032 $ relativement à l’utilisation professionnelle de sa résidence en 2010 et 2011 respectivement. Ces chiffres étaient fondés sur l’utilisation de 25 % de la résidence à des fins professionnelles au cours des deux années. Le détail des sommes déclarées figure dans les deux déclarations d’impôt T1, au verso de la pièce R-1B.
+Au stade de la vérification, l’Agence a d’abord examiné les dépenses totales relatives à la résidence et a conclu qu’elles étaient inférieures à celles indiquées dans les déclarations d’impôt. Plus précisément, alors que les déclarations de 2010 et 2011 faisaient état d’intérêts hypothécaires totaux de 10 998 $ et 4 455 $ respectivement, le vérificateur n’a reçu aucune information sur les intérêts hypothécaires déclarés et a supposé qu’aucun intérêt hypothécaire n’avait été payé. Voir la page 28 à l’onglet 8 et la page 19 à l’onglet 11 de la pièce R-2. À l’audience, l’appelante n’a présenté aucune preuve pour appuyer la somme déclarée la plus élevée dans les déclarations.
+L’Agence a également conclu que le pourcentage d’utilisation professionnelle du domicile s’élevait à 16 % au cours des deux années. Une fois toutes ces conclusions prises en compte, l’Agence a conclu que les sommes potentiellement déductibles étaient de 1 237 $ et de 1 176 $.
+Cependant, étant donné que l’Agence a conclu qu’aucune des deux conditions préalables n’était remplie, elle n’a pas admis les dépenses d’utilisation de la résidence à des fins professionnelles. À l’audience, l’appelante n’a présenté aucune preuve quant aux frais de bureau à domicile ou au pourcentage d’utilisation de la résidence à des fins professionnelles.
+Par conséquent, même si les conditions préalables établies aux sous-alinéas 18(12)a)i) ou ii) avaient été réunies, les sommes admissibles auraient été de 1 237 $ et de 1 176 $ et non de 5 798 et de 4 032 $.
+[15] Je suis conscient des difficultés de produire de tels éléments de preuve, surtout pour une série de petits montants d’argent, mais l’appelante s’est mise dans cette situation. Par exemple, 600 $ ont été déclarés relativement à un match des Lions de Detroit auxquels ont assisté des partenaires d’affaires au moment de la fête de l’Action de grâces aux États-Unis. L’appelante a affirmé qu’elle avait cherché à obtenir des billets à la dernière minute et que la seule façon de s’en procurer était d’acheter des billets chez Armando’s, un restaurant de Windsor. Le restaurant Armando’s a également assuré le transport en bus. Un reçu en grande partie illisible provenant du restaurant Armando’s, sans aucune indication sur le montant perçu, a été fourni pour appuyer ces déclarations – le reçu se trouve à la page 7, onglet 6 de la pièce R-3. S’il y avait eu des frais de représentation valables, le montant déductible de 50 % aurait été réduit au titre du paragraphe 67.1(1), parce que le coût de la participation à un événement sportif est une dépense de représentation.
+Des achats à la LCBO, des billets au spectacle d’Elton John, du tissu pour la fabrication d’un costume sont d’autres exemples de dépenses dans cette catégorie.
+Il y a également une demande de 200 $ au titre d’une contribution politique concertant un particulier se portant candidat à la mairie. Dans ce cas particulier, le montant n’est pas déductible, car il est exclut par l’alinéa 8(1)n) de la Loi de l’impôt sur le revenu. Étant donné que le candidat se présentait à une charge municipale, le crédit d’impôt pour contribution politique fédérale prévu au paragraphe 127(3) ne joue pas.
+[16] Bien sûr, il s’agit au final d’une question de droit.
+[17] Hormis une lettre (pièce A-1) qui contient la simple affirmation d’une personne qui n’a pas témoigné selon laquelle l’appelante était une employée, il n’y a aucun élément de preuve permettant d’étayer une telle conclusion. Il n’y a aucun élément de preuve selon lequel un contrôle était exercé sur l’appelante ou indiquant qu’on lui aurait fourni des outils ou du matériel. De plus, l’appelante a certainement eu la possibilité de dégager des bénéfices et de courir le risque de subir des pertes. Je ne vois pas non plus en quoi le fait d’être une employée aurait aidé l’appelante dans son appel.
+[18] Un certain M. Bauer figure dans les déclarations de revenus sous le nom de Matthew Bauer Tax Services.
+[19] Aucun élément de preuve ne me convainc ni même ne tend à établir que les considérables dépenses non valables ont été déclarées en dépit d’efforts sincères de s’assurer que seules les dépenses véritables aient été déclarées.
+[20] Voir, par exemple, la discussion sur le droit applicable par le juge Owen dans l’arrêt Peck c. La Reine, 2018 CCI 52, paragraphes 43 à 56. Voir également les paragraphes 4 à 45 de la décision du juge D’Auray dans l’arrêt Bradshaw c. La Reine, 2019 CCI 1 (Règles de la Cour canadienne de l’impôt (procédure générale)).

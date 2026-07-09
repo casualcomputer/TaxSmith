@@ -1,0 +1,198 @@
+---
+title: "Barrick Gold Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218484/index.do"
+last_modified: "2017-02-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 18"
+citation2: ""
+neutral_citation: "2017 TCC 18"
+decision_date: "2017-02-01"
+language: "en"
+item_id: "218484"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2610
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:29:14.137000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ae8049322b23bb2e5673a087cc2938e5f920d104eb2849170d78e3b985a496ae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barrick Gold Corporation v. The Queen
+
+- Citation: 2017 TCC 18
+- Decision date: 2017-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2610, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barrick Gold Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-02-01
+Neutral citation
+2017 TCC 18
+File numbers
+2013-828(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-828(IT)G
+BETWEEN:
+BARRICK GOLD CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 7, 8 and 9, 2016
+at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Brian R. Carr
+Carla Hanneman
+Gerald Grenon
+Counsel for the Respondent:
+Josée Tremblay
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1998 taxation year is allowed, with costs to the Appellant on a party and party basis, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 1st day of February 2017.
+“B.Paris”
+Paris J.
+Citation: 2017 TCC 18
+Date: 20170201
+Docket: 2013-828(IT)G
+BETWEEN:
+BARRICK GOLD CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from a reassessment of the Appellant’s 1998 taxation year, by which the Minister of National Revenue (the “Minister”) disallowed a portion of the resource allowance claimed by the Appellant pursuant to now‑repealed paragraph 20(1)(v.1) of the Income Tax Act (the “Act”).
+[2] The resource allowance enabled mineral producers to deduct a percentage of their income earned from producing and processing minerals, and was added to the Act to compensate for the non-deductibility of Crown royalties. The amount of a taxpayer’s resource allowance was dependent on the taxpayer’s gross resource profits determined under the Income Tax Regulations (the “Regulations”).
+[3] The issue in this appeal is whether the profit earned by the Appellant when it closed out certain derivative instruments in 1998, that it had entered into in order to hedge the price of gold it expected to produce, constitute gross resource profits pursuant to subsection 1204(1) of the Regulations.
+[4] For the reasons that follow, I find that the profit falls within the definition of “gross resources profits” and that the Appellant is therefore entitled to the full resource allowance claimed.
+Facts
+[5] In 1998, the Appellant was in the business of producing and processing gold in Canada. It had interests in three mines. It owned the Holt-McDermott Mine and the Bousquet Mine, and held a 50% interest in the Doyon Mine. The other 50% interest in the Doyon Mine was held by Cambior Inc., an arm’s-length party.
+[6] To hedge the risk associated with fluctuations in the price of gold, the Appellant would enter into derivatives in respect of its anticipated gold production.
+[7] The Appellant recognized any profits or losses from its hedges of its gold production as income or loss from its business of producing and processing gold.
+[8] The Appellant included any profits or losses from its hedges of its gold production in computing its gross resource profits for purposes of computing its resource allowance, and except for the amounts in issue in this appeal, the Minister accepted this position.
+[9] Prior to 1998, the Appellant entered into derivatives known as spot deferred forward contracts to hedge some of its anticipated gold production from each of its mines. These contracts included three spot deferred forward contracts (the “Forward Contracts”) to hedge anticipated production of 300,000 ounces of gold from the Doyon Mine.
+[10] On January 19, 1998, the Appellant entered into a letter of intent to sell its interest in the Doyon Mine to Cambior Inc. The letter of intent was subject to a number of conditions.
+[11] On January 20, 1998, the Appellant entered into contracts to purchase 300,000 ounces of gold at the then current spot price from a third party. On January 26, 1998, the Appellant took delivery of the gold and used it to close out the Forward Contracts.
+[12] All of the conditions relating to the sale of the Appellant’s interest in the Doyon Mine to Cambior Inc. were fulfilled and, on January 27, 1998, the Appellant entered into a purchase agreement with Cambior Inc. (the “Purchase Agreement”) and sold its interest in the Doyon Mine. The Purchase Agreement provided that the transfer of the Appellant’s interest was deemed to have occurred on January 1, 1998 (the “Deemed Transfer Time”) and that the Appellant was not entitled to any production or revenue derived after January 1, 1998 from the transferred interest, except to the extent of the Appellant’s “Participation Right” in the mine. The Participation Right was an amount payable annually to the Appellant if the average price of gold exceeded $375 U.S. per ounce. No amount was paid in respect of the Participation Right in 1998.
+[13] The Appellant realized a profit of $56,679,461 when it closed out the Forward Contracts.
+[14] On its 1998 financial statements, the Appellant reported the profit from the closing out of the Forward Contracts as part of the “Gain on Sale” of its interest in the Doyon Mine. Proceeds from the sale of gold produced from the Holt‑McDermott Mine and the Bousquet Mine, as well as profits from the closeout of derivatives in respect of gold sales from those two mines were reported as “Gold Sales Revenue”. “Gain on Sale” and “Gold Sales Revenue” were separate line items on the financial statements.
+[15] For tax filing purposes, the Appellant included the profit on the Forward Contracts as well as the amount reported on the financial statements as “Gold Sales Revenue” from the Holt-McDermott and Bousquet Mines in its gross resource profits for 1998 and computed its resource allowance on the combined amount.
+[16] The Minister allowed the inclusion of the Gold Sales Revenue in the calculation of gross resource profits but disallowed the inclusion of the profit from the Forward Contracts.
+[17] It is not disputed that the profit earned by the Appellant on the Forward Contracts was on income account. The parties also agree that the Appellant did not enter into the Forward Contracts for the purpose of speculation and that its sole intention was to hedge the risk of fluctuations in the price of gold that it expected to produce from the Doyon Mine. Finally, the parties also agree that the Appellant had no intention of speculating on the price of gold when it purchased the gold required to close out the Forward Contracts.
+Statutory Scheme
+[18] For the 1998 taxation year, paragraph 20(1)(v.1) of the Act permitted a taxpayer to claim a deduction in respect of such amount as was allowed by regulation in respect of mineral resources in Canada. The deduction was referred to as the “resource allowance”.
+[19] The relevant portions of paragraph 20(1)(v.1) of the Act read, at the time, as follows:
+20(1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+(v.1) such amount as is allowed to the taxpayer for the year by regulation in respect of natural accumulations of petroleum or natural gas in Canada, oil or gas wells in Canada or mineral resources in Canada;
+…
+[20] Subsection 1210(1) of the Regulations provided for a resource allowance of 25% of an amount based on the taxpayer’s “adjusted resource profits”. “Adjusted resource profits” depended on “resource profits”, which, in turn, depended on “gross resource profits”. A taxpayer’s “gross resource profits” were computed pursuant to subsection 1204(1) of the Regulations. The relevant portions of subsection 1204(1) read, at the time, as follows:
+1204(1) For the purposes of this Part, “gross resource profits” of a taxpayer for a taxation year means the amount, if any, by which the aggregate of
+…
+(b) the amount, if any, of the aggregate of his incomes for the year from
+…
+(ii) the production and processing in Canada of
+(A) ore, other than iron ore or tar sands ore, from mineral resources in Canada operated by him to any stage that is not beyond the prime metal stage or its equivalent,
+[21] The relevant portion of the definition of “production” was found in subsection 66(15) of the Act:
+“production” from a Canadian resource property or a foreign resource property means
+…
+(c) ore (other than iron ore or tar sands) produced from the property processed to any stage that is not beyond the prime metal stage or its equivalent…
+Respondent’s Position
+[22] The Respondent submits that the legislative framework for computing the resource allowance is restrictive and that the allowance is permitted only with respect to income generated from mineral resources in Canada. The definition of “gross resource profits”, found in subsection 1204(1) of the Regulations, limits gross resource profits to specific sources of income, including “the production and processing in Canada of ore … from mineral resources in Canada operated by him to any stage that is not beyond the prime metal stage or its equivalent.” The Respondent refers to the decision of the Federal Court of Appeal in Gulf Canada Ltd. v. Canada, 92 DTC 6123 to the effect that income from production and processing as defined under subsection 1204(1) is a narrow concept restricted to extraction from the ground.
+[23] In this case, the Respondent takes the position that the profit on the closeout of the Forward Contracts cannot be connected to production and processing of gold from the Doyon Mine in 1998 because the Appellant did not carry out any production or processing from the Doyon Mine on its own account as of January 1, 1998. Therefore, the Respondent says that the profit does not meet the test set out in 3850625 Canada Inc. for inclusion in gross resource profits, which requires that there be a sufficient connection between the amount and the taxpayer’s production and processing activities.
+[24] The Respondent relies on the fact that, under the Purchase Agreement, the transfer of the Appellant’s 50% interest in the Doyon Mine to Cambior Inc. was deemed to be effective as of January 1, 1998 and any gold production or processing related to the Doyon Mine after that date was on Cambior Inc.’s account. Therefore, the Respondent submits that the Appellant was not entitled to revenue from the production of gold, if any, from the Doyon Mine from January 1, 1998 to the closeout date of the Forward Contracts on January 26, 1998.
+[25] The Respondent says that, given the absence of any production or processing of gold ore from the Doyon Mine by the Appellant in 1998, the profit on the Forward Contracts cannot be connected to any production or processing activities of the Appellant and the profit cannot qualify as gross resource profits under subsection 1204(1) of the Regulations.
+[26] The Respondent says that this case is distinguishable from that of Echo Bay Mines Ltd. v. The Queen, 92 DTC 6437, in which the Federal Court, Trial Division, held that profits earned by the taxpayer mining company from hedging transactions entered into to fix the price of its anticipated silver production were part of its gross resource profits for the purpose of the resource allowance. While the Respondent recognizes that income earned from hedging mineral production may form part of gross resource profits pursuant to subsection 1204(1) of the Regulations, counsel says that the income in issue in this case did not arise from hedging transactions. The Respondent says that the Forward Contracts ceased to be hedges prior to their closeout because as of January 19, 1998, at the latest, the Appellant no longer anticipated any future gold production from the Doyon Mine. With no anticipated production, there was no longer any risk associated with the fluctuation of the price of gold from the Doyon Mine. Since the risk that the Forward Contracts were intended to hedge no longer existed, the Contracts ceased to be hedges and the profit on the closeout of the Contracts could not be considered to relate to the income generated from the business of producing and processing gold from the Doyon Mine.
+[27] In support of its position that the Forward Contracts ceased to be hedges prior to being closed out, the Respondent relies on the expert accounting evidence given at the hearing by Ms. Patricia O’Malley. Ms. O’Malley testified that a hedging relationship is established between a hedged item and a hedging item. The hedged item exposes the entity to the risk of price fluctuations and the hedging item is expected to offset that risk. According to Generally Accepted Accounting Principles (GAAP), in the context of mineral production and sales, if a valid hedging relationship exists, total revenue from the sale of the mineral would consist of revenue from the actual sale of the mineral plus the offsetting income gains or losses from the corresponding hedging item, which is typically a derivative instrument. However, if the hedging relationship ceases, income gain or losses from the hedging item must be reported separately from the sale of the mineral.
+[28] Ms. O’Malley further testified that the Forward Contracts in this case ceased to be hedges for accounting purposes once the Appellant no longer anticipated future production from the Doyon Mine. She said that this occurred when the Appellant entered into the conditional agreement on January 19, 1998 to sell its interest in the Doyon Mine.
+[29] Therefore, she said that in the absence of a hedging relationship, the income earned by the Appellant on the closing out of the Forward Contracts was required by GAAP to be reported separately from revenue from the sale of gold produced from the Doyon Mine. This, the Respondent’s counsel points out, is how the Appellant accounted for the profit on the Forward Contracts in its financial statements. Therefore, counsel says that the Appellant’s own accounting treatment of the profit on the Forward Contracts conclusively demonstrates that the company did not consider that the profit from the closeout of the Forward Contracts was connected to its gold production from the Doyon Mine. Without such connection, the profit cannot enter into the computation of gross resource profits.
+[30] Ms. O’Malley also stated that, according to GAAP, where a hedging relationship ceases to exist, the profit is considered to be attributable to speculative activity. The Respondent maintains, therefore, that the profits earned on the Forward Contracts was income from speculative activities and, as such income is not within the scope of gross resource profits, it cannot be taken into account in computing the resource allowance.
+[31] The Respondent’s final argument is that, as stand-alone transactions, the Forward Contracts cannot be considered to be related to the Appellant’s production and processing of gold from the Doyon Mine. The Respondent says that the profit on the Forward Contracts resulted from the delivery of gold purchased by the Appellant from a third party and not from the delivery of gold originating from the Appellant’s own production and processing activities and is therefore connected to the third party’s production and processing activities, rather than the Appellant’s.
+Analysis
+[32] The question to be decided is whether the profit earned by the Appellant on the closeout of the Forward Contracts constituted gross resource profits within the meaning of paragraph 1204(1)(b) of the Regulations.
+[33] The test to be applied is that set out in 3850625 Canada Inc. v. Canada, 2011 FCA 117. In that case, the Federal Court of Appeal upheld the decision of this Court by Woods J. that refund interest earned on the overpayment of the taxpayer mining company’s income taxes was properly included in calculating its resource allowance. The Federal Court of Appeal confirmed that the test for whether an item of income should be included in gross resource profits is “whether the [income in question is] sufficiently connected to the [taxpayer’s] production and processing activities to constitute income from that source” and also stated that “income amounts are included in the computation of the resource allowance where they are related to production as a source of income” (at paras 20 and 21).
+[34] I will deal firstly with the Respondent’s position that the Appellant did not produce or process gold from the Doyon Mine in 1998 and that there were therefore no relevant activities to which the Forward Contract profits could be connected for the purposes of subsection 1204(1) of the Regulations.
+[35] While the Respondent purports to accept the test laid down by the Federal Court of Appeal in 3850625 Canada Inc., counsel’s initial contention that income from production and processing as defined in subsection 1204(1) is “a narrow concept restricted to extraction from the ground” is one that was specifically rejected in that case. At paragraphs 20 and 21 of the decision in 3850625 Canada Inc., the Court wrote:
+[20] However, on appeal, the Crown contends that the construction that was given to the phrase “production and processing” in Gulf is more restrictive and that the Tax Court Judge erred in failing to follow that approach. In particular, the respondent refers to the following passage of the reasons of McNair J. at paragraph 44:
+I am satisfied to accept the submissions of plaintiff's counsel on this issue, namely, that sections 124.1 and 124.2 are much more specific in their scope and intendment than the calculation of income provisions under section 3 of the Act, in requiring that the income and deductions be related to production in the sense of extraction from the ground as the source of income. In my opinion, the scientific research expenditures in issue, being related to the long-term objectives of the plaintiff and not to the actual present production from mineral resources, ought not to be included in the calculations. …
+[Emphasis added]
+[21] I do not read this passage as providing for an approach that is more restrictive than the one adopted by the Tax Court Judge. The reasoning is that in order to qualify for inclusion in the computation of “taxable production profits”, the income (or the deductions) must be related to production in the narrow sense of extraction from the ground as a source of income. This does not restrict the qualifying activity to extraction per se. As was made clear on appeal, extraction per se is not a source of income; only the “business of production” can give rise to income (see the decision of the Appeal Division at p. 6127). In my respectful view, the Gulf test is consistent with the one set out in Echo Bay Mines and which the Tax Court Judge applied in this case, i.e. whether the refund interest was sufficiently connected to the production and processing activities to constitute income from that source. I therefore reject the contention that the Tax Court Judge applied the wrong legal test.
+[36] According to 3850625 Canada Inc., then, the relevant nexus for determining gross resource profits is between the taxpayer’s business of production, as opposed to the more narrow nexus between the income and the physical act of extracting resources.
+[37] I find that the Respondent’s position that the income in question must be specifically referable to production and processing activities carried on by the Appellant in 1998 to be too restrictive. I do not accept that it is necessary to relate the Forward Contract profits to production and processing activities carried out in relation to the Doyon Mine in the 1998 taxation year alone in order for the profit to be “sufficiently connected to the production and processing activities to constitute income from that source.” In 3850625 Canada Inc., the Federal Court of Appeal upheld the decision of Woods J. of this Court that interest paid to the taxpayer in 1996 in respect of an overpayment of tax relating to its 1985 to 1990 taxation years was sufficiently connected to its production and processing activities to enter into the computation of its resource allowance for the 1996 taxation year. In determining that the refund interest was sufficiently connected, Woods J. took into account that the issues giving rise to the appeal were “primarily related to activities that are integral to production and processing.” Those issues arose in the earlier years and not in the year the interest was received. Despite the fact that the tax refund was received several years after the resource activities were completed in the 1985 to 1990 taxation years, Woods J. found that the refund interest was properly included in the computation of the taxpayer’s resource allowance.
+[38] In 3850625 Canada Inc., Woods J. also rejected the Crown’s contention that there was insufficient connection “because income tax is not paid in the course of the resource business but after the resource activities were completed.” In doing so, she relied on the decision of the Federal Court of Appeal in Munich Reinsurance Company (Canada Branch). v. The Queen, 2001 FCA 365 and Irving Oil Ltd. v. The Queen, 2001 FCA 364, in which the Court found that “the right of the appellant to be paid its tax overpayments was a right acquired in the course of carrying on its business.”
+[39] In this case, the Forward Contracts were entered into and closed out in the course of the Appellant’s business of production and processing from the Doyon Mine. There is no doubt on this point. The Respondent admits that the Appellant’s sole reason for entering into the Forward Contracts was to hedge the risk of price fluctuations in the price of gold that it expected to produce from the Doyon Mine. Furthermore, the evidence showed that the Appellant regularly entered into derivative financial instruments to reduce the risk associated with price volatility it was exposed to in the course of carrying on its gold producing and processing business and to stabilize the revenues it earned in the course of carrying on that business. Finally, the Appellant’s only source of income both at the time the Forward Contracts were entered into and closed out was that business.
+[40] On the basis of this evidence, I find that the Forward Contracts were an integral part of the Appellant’s business of producing and processing gold ore and therefore that the profit that arose from closing out the Contracts were sufficiently connected to those activities to constitute income from that source and therefore are properly part of its gross resource profits in 1998.
+[41] I reject the Respondent’s next argument that this case is distinguishable from Echo Bay Mines because the Forward Contracts ceased to be hedges and therefore ceased to be connected to the Appellant’s producing and processing activities at the moment the Respondent agreed to sell its interest in the Doyon Mine to Cambior Inc. I find that this view of what took place to be highly artificial, since it is admitted that the Appellant’s sole intention in entering into the Forward Contracts was to hedge the price of gold produced from the Doyon Mine.
+[42] In this case, there is no evidence of a change of intention on the part of the Appellant with respect to the Forward Contracts, and the steps taken to close them out immediately after the decision to sell its interest in the Doyon Mine was made, supports the Appellant’s position that the Contracts were entered into solely to mitigate the risk of price volatility. Furthermore, the Respondent has admitted that the Appellant had no speculative purpose when it purchased the gold used to close out the Forward Contracts. The Forward Contracts were activities reasonably connected with marketing intended production from the Doyon Mine and served no other purpose. The following statement by MacKay J. at page 6447 of the Echo Bay Mines case is, in my view, equally applicable here:
+…Activities reasonably interconnected with marketing the product, undertaken to assure its sale at a satisfactory price, to yield income, and hopefully a profit, are, in my view, activities that form an integral part of production which is to yield income, and resource profits, with Regulation 1204(1).
+[43] I also find that the accounting treatment of the profits on the Forward Contracts is not determinative of the nature of that profit for income tax purposes. In Shell Canada Ltd. v. Canada, [1999] 3 SCR 622, Iaccobucci J. wrote that “[t]his Court has frequently held that accounting practices, by themselves, do not establish rules of income tax law”(at para 73). In Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, Iaccobucci J. also wrote that:
+…well-accepted business principles are not rules of law and thus a given principle may not be applicable to every case. More importantly, these principles must necessarily take a subordinate position relative to the legal rules which govern. (at para 35)
+[44] The test for whether income earned by a taxpayer falls within the definition of gross resource profits is a legal test and has been decided in 3850625 Canada Inc. Thus there is no need to resort to accounting principles to assist in the required determination and it is immaterial how the profit earned on the Forward Contracts was required to be treated for financial statement purposes.
+[45] Given my conclusion that the Forward Contracts did not cease to be hedges prior to being closed out, it is not necessary to deal with the Respondent’s further argument that the Contracts should be considered “stand-alone transactions” and that the gold used to satisfy the Contracts was produced by third parties. I would only note that there is no need for a taxpayer to fulfill a hedge contract with production from its own mine in order to have a valid hedge: Placer Dome Canada Ltd. v. Ontario (Minister of Finance), 2006 SCC 20 at para 52.
+[46] For all of these reasons, the appeal is allowed and the matter is referred back to the Minister for reassessment on the basis that the profit earned by the Appellant on the Forward Contracts be included in the Appellant’s gross resource profit for the purposes of determining its resource allowance for 1998.
+Signed at Vancouver, British Columbia this 1st day of February 2017.
+“B.Paris”
+Paris J.
+CITATION:
+2017 TCC 18
+COURT FILE NO.:
+2013-828(IT)G
+STYLE OF CAUSE:
+BARRICK GOLD CORPORATION AND HER MAJESTY THE QUEEN
+PLACE AND DATES OF HEARING:
+Toronto, Ontario
+March 7, 8 and 9, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+February 1, 2017
+APPEARANCES:
+For the Appellant:
+Brian R. Carr
+Carla Hanneman
+Gerald Grenon
+Counsel for the Respondent:
+Josée Tremblay
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian R. Carr
+Carla Hanneman
+Gerald Grenon
+Firm:
+KPMG Law LLP
+Toronto, Ontario and Calgary, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

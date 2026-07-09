@@ -1,0 +1,205 @@
+Title: Marilake Education Centre Inc. v. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31157/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-82-31157-marilake-education-centre-inc-v-m-r-n-fr.md
+Document type: case_law
+Last modified: 2013-04-30
+
+# Marilake Education Centre Inc. v. M.R.N.
+
+- Citation: 2013 CCI 82
+- Decision date: 2013-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4746, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marilake Education Centre Inc. v. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-30
+Référence neutre
+2013 CCI 82
+Numéro de dossier
+2012-1756(EI), 2012-1757(CPP)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2012-1756(EI)
+ENTRE :
+MARILAKE EDUCATION CENTRE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CARRIE LAI,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 février 2013 à Toronto (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me Christopher P. Goldson
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Jasmeen Mann
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision rendue au titre de la Loi sur l’assurance-emploi est rejeté, conformément aux motifs du jugement ci-joints.
+Signé ce 30e jour d’avril 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 5e jour de juin 2013.
+C. Laroche, traducteur
+Dossier : 2012-1757(CPP)
+ENTRE :
+MARILAKE EDUCATION CENTRE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CARRIE LAI,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 14 février 2013 à Toronto (Ontario).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelante :
+Me Christopher P. Goldson
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Jasmeen Mann
+L’intervenante elle-même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la décision rendue au titre du Régime de pensions du Canada est rejeté, conformément aux motifs du jugement ci-joints.
+Signé ce 30e jour d’avril 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 5e jour de juin 2013.
+C. Laroche, traducteur
+Référence : 2013 CCI 82
+Date : 20130430
+Dossiers : 2012-1756(EI),
+2012-1757(CPP)
+ENTRE :
+MARILAKE EDUCATION CENTRE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CARRIE LAI,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’appels interjetés au titre de la Loi sur l’assurance-emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime »). La même question est soulevée dans les deux appels. Dans une décision rendue le 14 février 2012, le ministre du Revenu national (le « ministre ») a conclu que, durant la période où Carrie Lai (l’« intervenante ») avait travaillé pour le Marilake Education Centre Inc. (l’« appelante »), soit du 1er janvier au 26 juin 2010 (la « période »), elle exerçait un emploi assurable et ouvrant droit à pension au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime. L’appelante n’est pas d’accord avec ces décisions, si bien qu’elle a interjeté les présents appels.
+[2] Depuis 2005, l’appelante propose un enseignement supplémentaire aux écoliers : ses cours sont offerts dans des salles de classe, tous les samedis durant l’année scolaire. L’enseignement supplémentaire est conforme aux lignes directrices sur les programmes éducatifs de la province de l’Ontario pour les élèves de la prématernelle à la douzième année. Pour offrir ce service, l’appelante loue des salles de classe et des installations dans deux écoles à Toronto. L’appelante embauche des enseignants de divers domaines (les arts, les langues, les mathématiques et les sciences) pour fournir ses services. Au cours de l’année scolaire 2009-2010, l’appelante disposait d’environ 75 tuteurs.
+[3] L’entreprise de l’appelante appartient à une dénommée Kwan Chi Chow. Elle est également la directrice du Centre. Elle a la responsabilité d’obtenir les permis requis et de louer les installations. L’inscription aux cours se fait sur demande, et l’embauche des tuteurs dépend de ces inscriptions. L’appelante n’offre pas un cours si moins de quatre élèves y sont inscrits. C’est la directrice qui fixe les frais facturés aux parents. Selon le témoignage de Mme Chow, elle n’a pas les compétences requises pour superviser les tuteurs, en raison de sa formation scolaire insuffisante, et les tuteurs gèrent leurs classes eux-mêmes.
+[4] L’embauche des tuteurs se fait sur base annuelle. Ils touchent entre 19 et 52 dollars de l’heure, selon leurs qualifications et leur expérience professionnelle. Le paiement se fait par chèque ou par dépôt direct, par le truchement d’une entreprise d’administration de la paie; aucune retenue n’est effectuée. Il s’agit de la démarche utilisée avec tous les tuteurs. Ils sont rémunérés uniquement pour les heures travaillées.
+[5] Au début de l’année scolaire, c’est-à-dire en septembre, Mme Chow rencontre un groupe de tuteurs potentiels. Ceux qui sont intéressés s’engagent par contrat avec l’appelante; Mme Chow passe le contrat en revue avec eux, page par page. Elle explique de quelle manière ils seront payés et leur indique qu’il n’y aura pas de retenues sur le salaire et qu’ils seront des entrepreneurs indépendants.
+[6] L’intervenante a rencontré Mme Chow le 21 août 2009. Le contrat lui a été présenté (pièce A-2, onglet 6), elle l’a parcouru rapidement et l’a signé le même jour. Plus tard, on lui a dit qu’elle ne pourrait pas en obtenir une copie, car il avait été détruit. Mme Chow a signé le contrat au nom de l’appelante le 12 septembre 2009. Il est important de noter que la première ligne de chacune des trois premières pages du contrat a été ainsi modifiée à la main : [traduction] « Reconnaissance de contrat d’entreprise »; toutefois, la dernière page n’a pas été modifiée, si bien qu’elle indique : [traduction] « Reconnaissance de contrat de louage de services ». Mme Chow a reconnu avoir modifié la première page du contrat après la signature. Il convient également de signaler que, d’après Mme Chow, le contrat avait été rédigé par un des enseignants (tuteurs) et qu’elle ne l’avait pas approuvé. J’aborderai plus loin les autres questions se rapportant au contrat conclu avec l’intervenante. En ce qui a trait à l’intervenante, elle pensait avoir été embauchée à titre d’employée. Elle voulait être une employée, car elle ne dirigeait pas sa propre entreprise de tutorat.
+[7] D’après Mme Chow, les tuteurs devaient disposer de suppléants aptes à les remplacer au besoin et les tuteurs payaient ces suppléants. Certains tuteurs soumettaient des factures pour les heures travaillées, tandis que d’autres téléphonaient pour signaler leurs heures de travail. Les tuteurs décidaient du nombre de classes qu’ils souhaitaient, ainsi que du plan de cours qu’ils suivraient. Il était suggéré qu’un tuteur avise l’appelante deux semaines à l’avance s’il voulait prendre congé et que le tuteur soumette un formulaire de demande de congé. Mme Chow a nié qu’un tuteur n’était autorisé à s’absenter qu’à trois reprises durant l’année scolaire, car le taux d’absentéisme était élevé. Elle a également nié qu’un tuteur pouvait être pénalisé au moyen d’une réduction de salaire s’il ne se conformait pas aux règles de l’appelante.
+[8] L’appelante fixe les frais facturés aux parents. Bien que l’appelante loue les installations, elle n’est pas responsable des dommages. S’il y a des dommages, la responsabilité incombe aux tuteurs. L’appelante n’exerce aucune influence sur ce qui se passe dans la salle de classe ou sur la façon dont les tuteurs enseignent ou sur leurs méthodes; de plus, l’appelante ne surveille pas les tuteurs. Selon Mme Chow, l’appelante ne fournit aucun outil et fait confiance aux tuteurs pour ce qui est de respecter les lignes directrices de l’Ontario.
+[9] Bien que Mme Chow ait affirmé ne pas avoir approuvé le contrat rédigé par un des tuteurs, l’appelante a néanmoins signé ce contrat et s’en est servi pour embaucher des tuteurs, y compris l’intervenante. Les tâches et responsabilités d’un tuteur (enseignant) sont exposées au paragraphe 3 du contrat :
+[traduction]
+3. Fonctions et responsabilités
+L’enseignant accepte les règles et responsabilités de l’enseignant ci-jointes (l’« annexe B »). Il travaillera à titre de titulaire de classe et, par conséquent, aura la responsabilité de gérer et d’administrer chacune de ses classes. Cela englobe, mais sans s’y limiter, l’exécution des fonctions suivantes :
+a) offrir un enseignement et encadrer la discussion relativement à la matière désignée dans les plans de cours approuvés, tels qu’ils ont été compilés en collaboration avec les autres enseignants et l’École;
+b) distribuer des lettres, avis et documents du Secrétariat et recueillir des articles des élèves pour le Secrétariat;
+c) en tout temps dans les locaux de l’École, à l’intérieur ou à l’extérieur de la salle de classe, exécuter ses tâches d’enseignement de manière ponctuelle et professionnelle, en adoptant une tenue et un comportement professionnels dignes d’un enseignant, en faisant preuve de bonne volonté, et en agissant dans l’intérêt supérieur des élèves de l’École Marilake;
+d) dresser et maintenir des listes d’élèves pour consigner les renseignements pertinents (les coordonnées, l’assiduité, les devoirs remis et les résultats, les résultats de test et d’examen), ainsi que la rédaction des bulletins à la fin de l’année scolaire;
+e) téléphoner aux élèves qui se sont absentés, consigner les motifs d’absence, aviser le Secrétariat de ces motifs d’absence par courriel, par télécopieur ou en laissant un message téléphonique, au plus tard la mardi suivant le cours;
+f) préparer, avant le début de l’année scolaire, tous les tests/examens et devoirs hebdomadaires qui seront donnés aux élèves (6 pages);
+g) réviser les devoirs avant de les photocopier;
+h) corriger les devoirs et les remettre aux élèves dès la classe suivante;
+i) collaborer avec les autres enseignants en vue de se partager équitablement le fardeau d’élaborer et de préparer les plans de cours, les devoirs, les feuilles-réponses, les avis de test ou d’examen, les tests et les examens; préparer cette documentation avant la date d’échéance fixée pour la révision et l’approbation par le Secrétariat de l’École, et soumettre cette documentation au Secrétariat pour que d’autres enseignants puissent s’en servir;
+j) assumer de temps à autre les fonctions [traduction] « d’enseignant de garde » dans les locaux où travaille l’enseignant.
+[10] En contre-interrogatoire, Mme Chow a affirmé que l’alinéa 3a) était inexact. Pour ce qui est de l’alinéa 3c), elle a indiqué qu’il ne reflète pas la façon dont les choses s’étaient déroulées dans la pratique; toutefois, elle a convenu que l’alinéa 3f) était exact. Il est important de reproduire également la clause 4 du contrat, car elle contredit de nombreux éléments du témoignage de Mme Chow :
+[traduction]
+4. Absences et demandes de suppléant
+a) Les enseignants qui doivent s’absenter en raison d’une maladie, d’une blessure, d’une urgence médicale ou d’une urgence familiale doivent en aviser l’École en communiquant avec un employé du Secrétariat dès que possible. Il incombe à l’enseignant qui s’absente pour un des motifs ci‑dessus de s’assurer que son suppléant dispose de la documentation et des instructions requises.
+b) L’enseignant accepte les règlements ci-dessous qui régissent les absences pour des motifs autres que ceux exposés à l’alinéa 4a) :
+i) l’enseignant doit remplir une [traduction] « Demande de congé » et la soumettre au Secrétariat de l’École au plus tard deux (2) samedis avant la date où il prévoit s’absenter, puis confirmer cette demande auprès du Secrétariat;
+ii) l’enseignant doit se conformer à toutes les instructions énoncées dans la [traduction] « Demande de congé »;
+iii) l’enseignant peut s’absenter d’une partie ou de l’ensemble de son cours du samedi à un maximum de trois (3) reprises;
+iv) l’enseignant doit être présent pour donner ses cours lors des deux derniers samedis de l’année scolaire (selon l’établissement scolaire où il se trouve).
+c) Si l’enseignant ne respecte pas l’alinéa 4b) et/ou fait preuve d’un mépris flagrant à l’égard des exigences énoncées à l’alinéa 4b), l’École se réserve le droit de prélever, à sa discrétion et relativement à chaque incident, sur le salaire de l’enseignant pour le mois où les manquements à l’alinéa 4b) ont été commis, le total d’une heure de rémunération, selon le taux en vigueur au moment du manquement, à titre d’indemnisation versée au Secrétariat pour les inconvénients causés par les absences.
+[11] Aux termes de la clause 5 du contrat, les tuteurs acceptent d’être rémunérés pour leurs services à titre de travailleurs autonomes. La clause stipule également que l’appelante se réserve le droit d’augmenter unilatéralement le taux horaire de rémunération ou d’offrir au tuteur un plus grand nombre de classes; de plus, si le tuteur ne respecte pas les règlements ou n’exécute pas ses fonctions de manière adéquate, l’appelante se réserve le droit de réduire le nombre de classes assignées au tuteur et/ou son taux horaire de rémunération.
+[12] L’alinéa 6c) du contrat revêt aussi une certaine importance, dans la mesure où il vise le matériel pédagogique utilisé dans la salle de classe. Il est rédigé ainsi :
+[traduction]
+c) L’enseignant reconnaît par la présente que tout matériel de cours ou toute documentation administrative de l’École dont il est fait mention dans le présent contrat sont la propriété privée de l’École et que, par conséquent, à l’achèvement du contrat, ou à la résiliation du contrat pour quelque motif que ce soit, l’enseignant cédera à l’École toutes les copies de la documentation de l’École et du matériel de cours, y compris, mais sans s’y limiter : les ressources et le matériel didactiques, incluant le matériel élaboré par l’enseignant dans le cadre de ses fonctions et responsabilités à l’École; les travaux, tests et examens des élèves; les coordonnées des élèves et parents; ainsi que les listes de renseignements, le matériel de cours, les formulaires et documents administratifs et les dossiers.
+[13] Les responsabilités des tuteurs sont exposées dans un document annexé au contrat. Selon le témoignage de Mme Chow, l’appelante ne veillait ni à l’application du contrat, ni à l’application des stipulations de cette annexe. Aux termes de l’annexe, les tuteurs devaient préparer un plan de cours approprié et bien structuré, puis le soumettre à Mme Chow. Ils devaient préparer des devoirs, du matériel didactique ainsi que des tests et des examens – sur ce plan, tous les enseignants devaient se partager la charge de travail. Ils devaient soumettre les comptes rendus de leurs réunions à Mme Chow; ils devaient acheminer les tests et les examens, accompagnés du corrigé, au Secrétariat; ils devaient également envoyer leurs plans de cours quotidiens. L’annexe décrivait ce que les tuteurs devaient faire durant les classes et ce qu’ils ne devaient pas faire, ainsi que comment ils devaient annoter les devoirs; de plus, ils devaient montrer les devoirs annotés au personnel du Secrétariat. Les tuteurs devaient arriver 15 minutes avant le début de leur classe et pointer à chaque arrivée. L’annexe abordait également les tâches en salle de classe, les devoirs, les examens, la discipline des élèves et la manière de parler aux parents.
+[14] Durant sa période d’emploi, l’intervenante a également reçu des courriels de l’appelante. Selon son témoignage, Mme Chow n’était pas au courant de ces courriels, mais plusieurs d’entre eux ont été présentés en preuve (voir les pièces R‑2 à R‑5). Dans ces courriels, l’appelante demande aux tuteurs de soumettre du matériel de cours (avis de test, révisions de test, ébauches de test, barèmes de correction et plans de cours) et fixe des échéanciers pour la remise de ce matériel. Un de ces courriels signale que Mme Chow a découvert que certains enseignants avaient rédigé des examens en copiant les questions des examens de l’année précédente. Il y a également des courriels qui contiennent des instructions à l’intention des enseignants sur les activités à réaliser à l’intérieur et à l’extérieur de la salle de classe, sur la manière de rédiger des rapports, sur l’endroit où les enseignants peuvent se procurer des craies pour la salle de classe, etc. Interrogée sur ces courriels, Mme Chow a simplement répondu qu’il s’agissait uniquement de suggestions ou de lignes directrices. Dans un courriel à l’intervenante en date du 27 octobre 2009, l’appelante lui indique la personne qui la remplacera le 14 novembre 2009.
+[15] Selon les témoignages de deux autres tuteurs, ils fournissaient leurs services à l’appelante à titre d’entrepreneurs indépendants. Ils n’étaient pas au courant de l’entente entre l’appelante et l’intervenante, et n’avaient pas travaillé avec cette dernière. Ils ont affirmé qu’ils utilisaient leur propre matériel, tel que leurs ordinateurs portables et des fournitures pour les expériences en salle de classe. Les deux tuteurs ont indiqué avoir choisi et payé un suppléant, mais avoir soumis leur choix à l’approbation de Mme Chow auparavant. Lorsqu’ils s’adressaient à l’appelante pour la production de copies, les frais engagés par celle-ci étaient soustraits de leurs paies. Un des tuteurs a affirmé que, de temps à autre, il montrait ses plans de cours à l’appelante.
+[16] Selon son témoignage, l’intervenante a travaillé de 9 h à 16 h tous les samedis durant l’année scolaire 2009-2010. Elle avait trois classes d’anglais : deux classes du niveau de la deuxième année et une classe mixte regroupant des élèves de la première et de la deuxième année. Elle devait préparer des plans de cours et, en fait, avait préparé 32 de ces plans. L’appelante lui demandait de soumettre ces plans pour approbation. L’appelante préparait des exercices à faire en classe et des exercices à faire en devoir à la maison, et l’intervenante n’a jamais eu à défrayer quoi que ce soit pour les photocopies. Elle pointait à son arrivée et à sa sortie, et quand elle était en retard, elle téléphonait à l’appelante. Celle-ci décidait du nombre d’élèves qu’il y aurait dans sa classe et choisissait les élèves. Si l’intervenante voulait un congé, elle demandait l’autorisation de l’appelante; à son souvenir, c’était l’appelante qui trouvait et payait le suppléant. De plus, l’appelante fournissait à l’intervenante le matériel requis pour préparer des feuilles de travail et des cartes-éclair pour ses salles de classe, ainsi que d’autres outils pour ces classes; l’intervenante n’a jamais eu à défrayer quoi que ce soit pour ce matériel et ces outils. En outre, elle suivait les instructions exposées dans les courriels que l’appelante lui envoyait.
+[17] L’intervenante n’administrait pas une entreprise enregistrée. Elle a réagi avec surprise en recevant un T4A et il ne lui était pas venu à l’esprit de demander pourquoi aucune retenue n’avait été prélevée sur sa paie. De plus, elle a toujours eu l’impression qu’elle était une employée.
+[18] L’affidavit de Mme Chow présenté en preuve par l’appelante était accompagné d’une note, sans date, signée par l’intervenante : dans ce document, l’intervenante reconnaissait qu’elle travaillait pour l’appelante à titre d’entrepreneure indépendante, et non à titre d’employée. L’intervenante a témoigné que, en juin 2010, l’appelante l’avait avisée qu’elle était une entrepreneure indépendante et qu’elle devait signer le document. Il semble que l’intervenante, comme certains de ses collègues, n’avait pas le choix.
+[19] Comme les tribunaux l’ont expliqué dans plusieurs décisions (671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983; Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553; Royal Winnipeg Ballet c. M.R.N., 2006 CAF 87, [2007] 1 R.C.F. 35, et, en particulier, le juge MacGuigan dans Wiebe Door, précité), il incombe au juge de première instance d’examiner attentivement l’ensemble de la preuve et, ensuite, d’appliquer aux faits le critère à quatre volets qui a été élaboré au fil des ans. Par conséquent, le juge doit examiner : les faits se rapportant au droit de l’employeur, aux termes du contrat, de superviser et de contrôler la manière dont le travail est exécuté; les faits se rapportant à la propriété des outils requis pour accomplir le travail; les faits se rapportant à la possibilité qu’a le travailleur de tirer un bénéfice ou au risque de subir une perte; les faits se rapportant au degré d’intégration du travail dans l’entreprise de l’employeur du point de vue du travailleur. Le juge doit également répondre à la question suivante, posée par le juge Cooke dans Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.) :
+[traduction]
+La personne qui s’est engagée à accomplir ces tâches les accomplit-elle en tant que personne travaillant à son compte?
+[20] Dans l’arrêt Sagaz, précité, le juge Major a ainsi résumé l’affaire, aux paragraphes 47 et 48 :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[21] Dans un arrêt plus récent de la Cour d’appel fédérale, 1392644 Ontario Inc. s/n Connor Homes et le ministre du Revenu national, 2013 CAF 85, le juge Mainville a passé en revue les nombreuses décisions rendues par les tribunaux au cours de la dernière année, notamment Wolf c. La Reine, 2002 DTC 6853 (CAF), et Royal Winnipeg Ballet c. Canada, 2006 CAF 87, et a conclu que ces deux arrêts décrivent une démarche en deux étapes visant à répondre à la question centrale et ce en quoi consistent ces deux étapes. Je cite ci-dessous les paragraphes pertinents :
+[traduction]
+[36] Cependant, la démarche exposée dans Royal Winnipeg Ballet, bien comprise, met tout simplement l’accent sur le principe bien connu selon lequel toute personne a le droit d’organiser ses affaires et ses relations comme bon lui semble. Les rapports des parties à un contrat sont généralement régis par ce dernier. Les parties peuvent donc fixer dans leur contrat leurs obligations et responsabilités respectives, les modalités financières relatives aux services à fournir et une grande variété d’autres aspects de leur relation. Cependant, l’effet juridique résultant de cette relation, c’est‑à‑dire l’effet juridique du contrat, qui crée une relation d’employeur à employé ou de client à entrepreneur indépendant, n’est pas une question que les parties peuvent décider par une simple stipulation. Autrement dit, il ne suffit pas d’énoncer dans le contrat que le travailleur fournit les services en tant qu’entrepreneur indépendant pour que ce soit effectivement le cas.
+[37] Étant donné que la qualification de la relation professionnelle a des conséquences juridiques et pratiques importantes et d’une portée considérable, qui intéressent entre autres le droit de la responsabilité délictuelle (la responsabilité du fait d’autrui), les programmes sociaux (l’admissibilité et les cotisations), les relations de travail (la syndicalisation) et la fiscalité (l’enregistrement aux fins de la TPS et la situation au regard de la Loi de l’impôt sur le revenu), on ne peut simplement laisser les parties décider à leur seul gré si elles sont liées par une relation d’employeur à employé ou de client à entrepreneur indépendant. La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[. . . ]
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement réel de chacune d’elles, par exemple les factures pour les services rendus, l’enregistrement aux fins de la TPS et les déclarations de revenus en tant qu’entrepreneur indépendant.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties ainsi que les modalités du contrat, puisqu’elles influent sur la relation. Ainsi qu’il est expliqué au paragraphe 64 de Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère de Wiebe Door et de Sagaz est ou non rempli, c’est‑à‑dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur-employé.
+[41] La question centrale à trancher reste celle de savoir si la personne recrutée pour fournir les services les fournit, dans les faits, en tant que personne travaillant à son compte. Comme l’expliquent aussi bien Wiebe Door que Sagaz, aucun facteur particulier ne joue de rôle dominant, et il n’y a pas de formule établie pour répondre à cette question. Les facteurs à prendre en considération varieront donc selon les faits de l’espèce. Néanmoins, les facteurs que spécifient Wiebe Door et Sagaz se révéleront habituellement pertinents, ces facteurs étant le degré de contrôle exercé sur les activités du travailleur, ainsi que les points de savoir si ce dernier fournit lui‑même son outillage, engage ses assistants, gère et assume des risques financiers, et a l’occasion de tirer un profit de l’exécution de ses tâches.
+[22] La question à trancher en l’espèce est de savoir si l’intervenante a été embauchée pour fournir ses services à titre d’employée ou à titre d’entrepreneure indépendante ou, pour formuler la question autrement, l’intervenante a-t-elle été embauchée en tant que personne travaillant à son compte?
+[23] À première vue, le contrat signé par l’appelante et l’intervenante semble indiquer que cette dernière a été embauchée à titre d’entrepreneure indépendante. Non seulement le contrat l’affirme expressément, mais, en outre, l’appelante a décidé de changer la formule [traduction] « contrat de louage de services » dans l’en-tête pour la formule [traduction] « contrat d’entreprise », après que les parties ont signé le contrat. De plus, l’appelante a fait en sorte que l’intervenante reconnaisse son statut d’entrepreneure indépendante en juin 2010, dans des circonstances que je qualifierais de discutables.
+[24] Ce qui est également discutable, c’est la position de l’appelante concernant les modalités du contrat. Durant le témoignage de Mme Chow, il est devenu clair que l’appelante accordait peu d’importance au contrat. Mme Chow a laissé entendre qu’un tuteur l’avait rédigé et que les modalités n’étaient que des suggestions ou des lignes directrices qui n’étaient pas appliquées. Il est difficile d’admettre les déclarations de Mme Chow concernant l’importance qu’elle accordait au contrat, étant donné que la réputation et la réussite de son entreprise dépendaient de la qualité de l’enseignement offert.
+[25] Les services assurés par l’intervenante étaient pleinement intégrés dans les activités de l’appelante et étaient nécessaires au bon fonctionnement de l’appelante à titre d’établissement de tutorat. Il ne fait aucun doute que l’intervenante représentait l’appelante lorsqu’elle offrait ses services. Voilà, à mon avis, l’intention des parties au moment où elles ont conclu l’entente visant les services de l’intervenante. Dans certaines circonstances, telles que dans la présente affaire, l’existence d’une clause de contrat stipulant que la personne sera rémunérée à titre de travailleur autonome ne constitue pas nécessairement un facteur décisif pour ce qui est de relever l’intention des parties. C’est grâce à une analyse de l’ensemble des faits et circonstances pertinents – en particulier la preuve présentée par les parties en cause – qu’il est possible d’établir quelles étaient les intentions respectives des parties. Même si les parties avaient l’intention de conclure un contrat d’entreprise (par opposition à un contrat de louage de services), les faits établis peuvent mener le tribunal à une conclusion différente – et j’arrive à une telle conclusion en l’espèce, à la lumière des faits.
+[26] Les activités exercées sont celles de l’appelante. Celle-ci avait son mot à dire pour ce qui est du nombre d’élèves par classe et de la sélection des élèves qui fréquenteraient les classes de l’intervenante. L’appelante devait approuver les plans de cours, et tous les plans de leçon devaient être soumis pour approbation.
+[27] À la lumière du contrat, et en particulier des stipulations touchant les fonctions et responsabilités des enseignants examinées précédemment dans les présents motifs, il est clair que l’appelante voulait s’assurer que la manière dont l’intervenante offrait ses services et exécutait son travail était conforme à ses instructions – avec raison d’ailleurs, car la réputation de l’appelante était en jeu. Il y a des clauses du contrat qui pointent davantage vers un contrat de louage de services que vers un contrat d’entreprise. En voici quelques‑unes : l’intervenante pouvait être pénalisée au moyen d’une réduction de salaire si elle ne respectait pas les règles; elle devait remettre les tests et le matériel de cours à l’appelante à la fin de son contrat ou à la résiliation de ce dernier; et l’appelante fixait l’horaire de travail et choisissait l’endroit où l’intervenante devait offrir ses services. Selon l’annexe jointe au contrat, l’intervenante devait pointer 15 minutes avant le début de sa classe. Cette annexe comporte aussi de nombreuses autres instructions à l’intention de l’intervenante qui montrent le degré de contrôle exercé par l’appelante sur l’intervenante et sur la manière dont elle devait accomplir le travail. Bien que cela ne soit pas prévu dans le contrat, l’appelante a trouvé et payé un suppléant pour l’intervenante lorsqu’elle a dû s’absenter. De plus, il y a les nombreux courriels envoyés à l’intervenante.
+[28] Ces faits tendent à confirmer l’existence d’une relation employeur-employé, malgré les efforts de l’avocat de l’appelante pour minimiser les exigences du contrat en affirmant que ce contrat n’était pas appliqué et qu’il ne contenait que des suggestions. Il s’agit néanmoins d’un document incontestable, qui établit que l’appelante surveillait de quelle manière les enseignants accomplissaient leur travail.
+[29] Pour ce qui est de la propriété des outils et du matériel requis pour assurer les services, la preuve présentée appuie ma conclusion selon laquelle l’appelante fournissait gratuitement à l’intervenante tout le matériel de cours, ainsi que les tests, les examens, la photocopieuse, les craies et, surtout, la salle de classe. Il ne s’agit pas d’une situation où les services de tutorat auraient pu être offerts à domicile. En raison du nombre d’élèves inscrits, il fallait louer des locaux scolaires, si bien que ces locaux constituaient un outil important et incontournable. Ce facteur tend à confirmer l’existence d’une relation employeur-employé.
+[30] En ce qui a trait à la possibilité de tirer un bénéfice et du risque de perte, l’intervenante en l’espèce touchait un salaire de 20 $ de l’heure peu importe le nombre d’élèves dans sa classe. Elle n’avait pas à défrayer les coûts d’exploitation ou d’autres dépenses, et elle ne payait pas le suppléant si elle devait s’absenter. L’intervenante n’avait qu’à pointer à son arrivée et à son départ et l’appelante lui versait régulièrement son salaire. Bien que le contrat ait permis à l’intervenante d’offrir des services de tutorat à domicile à titre privé et indépendant, elle devait se conformer à une clause restrictive et à un engagement de non-divulgation qui lui interdisait, entre autres, de posséder, exploiter, diriger ou gérer un centre ou un camp privé d’enseignement ou de tutorat qui serait en concurrence avec l’appelante, ou d’être la propriétaire unique d’un tel établissement, ou encore une associée. Par conséquent, l’intervenante faisait l’objet de restrictions, durant et après l’année scolaire, de sorte qu’il n’y avait pas de possibilité de tirer un bénéfice ni de risque de perte.
+[31] L’intention initiale de l’appelante lors de la création d’un contrat de prestation de services est éclipsée par : le fait qu’elle a unilatéralement modifié ce contrat après la signature, de façon à ce qu’il fasse renvoi à un contrat d’entreprise; la nécessité de demander à l’intervenante de signer, à la fin de l’année scolaire en juin, un document reconnaissant qu’elle avait été embauchée à titre d’entrepreneure indépendante. Si l’intention de l’appelante avait été claire, de telles mesures ne se seraient pas avérées nécessaires. La conduite de l’appelante est très suspecte.
+[32] Par conséquent, je conclus que l’intervenante était à l’emploi de l’appelante et exerçait un emploi assurable et ouvrant droit à pension au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime durant la période visée par les appels.
+[33] Par conséquent, les appels sont rejetés.
+Signé ce 30e jour d’avril 2013.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 5e jour de juin 2013.
+C. Laroche, traducteur
+RÉFÉRENCE : 2013 CCI 82
+NOS DES DOSSIERS DE LA COUR : 2012-1756(EI)
+2012-1757(CPP)
+INTITULÉ : Marilake Education Centre Inc. c. M.R.N.
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 14 février 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 30 avril 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Christopher P. Goldson
+Avocate de l’intimé :
+Pour l’intervenante:
+Me Jasmeen Mann
+L’intervenante elle-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Christopher P. Goldson
+Cabinet : Christopher P. Goldson
+Toronto (Ontario)
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

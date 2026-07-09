@@ -1,0 +1,205 @@
+Title: Cloutier v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22801/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-58-22801-cloutier-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-02-24
+
+# Cloutier v. The Queen
+
+- Citation: 2003 TCC 58
+- Decision date: 2003-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2281, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cloutier v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-24
+Neutral citation
+2003 TCC 58
+File numbers
+2001-3398(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3398(IT)I
+BETWEEN:
+CONNIE CLOUTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on August 20, 2002 at Edmundston, New Brunswick
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+Guy Decarie
+Counsel for the Respondent:
+Claude Lamoureux
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1999 taxation year is dismissed.
+Signed at Edmundston, New Brunswick, this 24th day of February 2003.
+"François Angers"
+J.T.C.C.
+Citation: 2003TCC58
+Date: 20030224
+Docket: 2001-3398(IT)I
+BETWEEN:
+CONNIE CLOUTIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] In computing her income for the 1999 taxation year, the appellant reported employment income of $12,724 and claimed a corresponding deduction. By Notice of Assessment dated October 10, 2000, the Minister of National Revenue (the "Minister") disallowed the deduction. The appellant is appealing the assessment.
+[2] It was agreed by the parties that the followings facts were applicable to the determination of this appeal:
+1. The appellant is a citizen of the United States but resident in Canada at all material times.
+2. During the 1999 taxation year, she was employed as a teacher by the Maine School Administrative District # 27 in the United States.
+3. On her 1999 income tax return, the appellant reported other employment income of $12,724 and claimed a deduction for the same amount under subparagraph 110(1)(f)(i) on the grounds that it was exempt under Article XIX of the Canada-US Income Tax Convention.
+4. The total remuneration received by the appellant for services performed during the course of employment in the United States was $8,654 in U.S. currency. The deduction was disallowed by the Minister.
+5. The appellant had a permanent home available to her in Canada and did not have a permanent home available to her in the United States.
+[3] The only fact denied by the appellant was that the services performed by the appellant as a teacher were not rendered in the discharge of functions of a governmental nature. Neither party called witnesses.
+[4] The issue in this appeal is whether the appellant's employment income while employed as a public school teacher in the United States is exempt from taxation in Canada by reason of Article XIX of the Canada-US Income Tax Convention (the "Convention"), which applies in respect of remuneration for the exercise of governmental functions. The appellant does not dispute the fact that she is a resident of Canada and therefore required to pay income tax on her employment income. Can she claim a deduction under subparagraph 110(1)(f)(i) of the Income Tax Act (the "Act") which reads:
+110(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+(f)... or any amount that is
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada,
+The provision of the Convention on which the appellant relies is Article XIX. It reads:
+Remuneration, other than a pension, paid by a Contracting State or a political subdivision or local authority thereof to a citizen of that State in respect of services rendered in the discharge of functions of a governmental nature shall be taxable only in that State. However, the provisions of Article XIV (Independent Personal Services), XV (Dependent Personal Services) or XVI (Artistes and Athletes), as the case may be, shall apply, and the preceding sentence shall not apply, to remuneration paid in respect of services rendered in connection with a trade or business carried on by a Contracting State or a political subdivision or local authority thereof.
+[5] The appellant's position is that Article XIX of the Convention provides for only two types of services that can be performed by government employees. Either the services are rendered in the "discharge of functions of a governmental nature" or they are rendered in "connection with a trade or business". There is no third category of services that are neither governmental in nature nor connected with a trade or business. If there is, the services performed by the appellant are nevertheless governmental in nature and remuneration for such services shall be taxable only in that state, i.e. the United States.
+[6] The respondent's position is that Article XIX of the Convention was intended to apply only when functions of a governmental nature are rendered in a situation where one state (the sending state) sends an individual in the other state (the host state) to render services of a governmental nature and does not apply to citizens employed in the jurisdiction where they are deemed resident for purposes of the Convention. As an example, counsel suggested that it applies to a situation where a person working for the U.S. military is sent to work for the U.S. government but in Canada. Counsel's position is supported by paragraph 2 of the Technical Explanation to Article XIX of the Convention which reads:
+" ... As a result, a U.S. citizen resident in Canada and performing services in Canada in the discharge of functions of a governmental nature for the United States is taxable only in the United States on remuneration for such services."
+[7] Counsel for the respondent further argues that the fact that an individual works for the government does not necessarily mean that the requirements of Article XIX of the Convention are met and more particularly, the fact that one works for a government does not mean that the functions performed are of a governmental nature. It is further submitted by the respondent that since the income of the appellant originates from the U.S., the question of whether her functions are of a governmental nature should be determined according to their concept. In support of his submission, counsel for the respondent cited the Technical Explanation to Article 19 of the U.S. Model Income Tax Convention which reads:
+The phrase "functions of a governmental nature" is not defined. In general it is understood to encompass functions traditionally carried on by a government. It would not include functions that commonly are found in the private sector (e.g. education, health care, utilities). Rather, it is limited to functions that generally are carried on solely by the government (e.g. military, diplomatic service, tax administrators) and activities that directly support the carrying out of those functions.
+[8] According to counsel for the respondent, Article XIX of the Convention is not applicable to the appellant's situation. He concludes by stating that the income tax liability of the appellant must be determined in accordance with Article XV of the Convention, which renders the appellant taxable in Canada on income earned as a public school teacher.
+[9] The provisions of the Convention that are relevant in the determination of this appeal are reproduced below. I have also added the Technical Explanations for some of the sections with the caveat that they do not constitute authority on a question of law but are simply an element to be taken into account in the interpretation process of the Convention (see Kubicek Estate v. The Queen).
+Article I: Personal Scope
+This Convention is generally applicable to persons who are residents of one or both of the Contracting States.
+...
+Technical Explanation [1984]
+Article 1 provides that the Convention is generally applicable to persons who are residents of either Canada or the United States or both Canada and the United States. The word "generally" is used because certain provisions of the Convention apply to persons who are residents of neither Canada nor the United States.
+Article III- General Definitions
+2. As regards the application of the Convention by a Contracting State any term not defined therein shall, unless the context otherwise requires and subject to the provisions of Article XXVI (Mutual Agreement Procedure), have the meaning which it has under the law of that State concerning the taxes to which the Convention applies.
+Article IV- Residence
+1. For the purposes of this Convention, the term "resident" of a Contracting State means any person that, under the laws of that State, is liable to tax therein by reason of that person's domicile, residence, citizenship, place of management, place of incorporation ....
+2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+(a) He shall be deemed to be a resident of the Contracting State in which he has a permanent home available to him; if he has a permanent home available to him in both States or in neither State, he shall be deemed to be a resident of the Contracting State with which his personal and economic relations are closer (centre of vital interests);
+(b) If the Contracting State in which he has his centre of vital interests cannot be determined, he shall be deemed to be a resident of the Contracting State in which he has a habitual abode;
+(c) If he has an habitual abode in both States or in neither State, he shall be deemed to be a resident of the Contracting State of which he is a citizen; and
+(d) If he is a citizen of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
+...
+Technical Explanation [1984]:
+...
+Paragraphs 2, 3, and 4 provide rules to determine a single residence for purposes of the Convention for persons resident in both Contracting States under the rules set forth in paragraph 1. Paragraph 2 deals with individuals. A "dual resident" individual is initially deemed to be a resident of the Contracting State in which he has a permanent home available to him. If the individual has a permanent home available to him in both States or in neither, he is deemed to be a resident of the Contracting State with which his personal and economic relations are closer. If the personal and economic relations of an individual are not closer to one Contracting State than to the other, the individual is deemed to be a resident of the Contracting State in which he has an habitual abode. If he has such an abode in both States or in neither State, he is deemed to be a resident of the Contracting State of which he is a citizen. If the individual is a citizen of both States or of neither, the competent authorities are to settle the status of the individual by mutual agreement.
+5. Notwithstanding the provisions of the preceding paragraphs, an individual shall be deemed to be a resident of a Contracting State if:
+(a) The individual is an employee of that state or of a political subdivision, local authority or instrumentality thereof rendering services in the discharge of functions of a governmental nature in the other Contracting State or in a third State; and
+(b) The individual is subjected in the first-mentioned State to similar obligations in respect of taxes on income as are residents of the first-mentioned State.
+Article XV- Dependent Personal Services
+1. Subject to the provisions of Articles XVIII (Pensions and Annuities) and XIX (Government Service), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in a calendar year in the other Contracting State shall be taxable only in the first-mentioned State if:
+(a) Such remuneration does not exceed ten thousand dollars ($10,000) in the currency of that other State; or
+(b) the recipient is present in the other Contracting State for a period or periods not exceeding in the aggregate 183 days in that year and the remuneration is not borne by an employer who is a resident of that other State or by a permanent establishment or a fixed base which the employer has in that other State.
+Article XIX - Government Service
+Remuneration, other than a pension, paid by a Contracting State or a political subdivision or local authority thereof to a citizen of that State in respect of services rendered in the discharge of functions of a governmental nature shall be taxable only in that State. However, the provisions of Article XIV (Independent Personal Services), XV (Dependent Personal Services) or XVI (Artistes and Athletes), as the case may be, shall apply, and the preceding sentence shall not apply, to remuneration paid in respect of services rendered in connection with a trade or business carried on by a Contracting State or a political subdivision or local authority thereof.
+Technical Explanation [1984]:
+Article XIX provides that remuneration, other than a pension, paid by a Contracting State or political subdivision or local authority thereof to a citizen of that State in respect of services rendered in the discharge of governmental functions shall be taxable only in that State. (Pursuant to paragraph 5 of Article IV (Residence), other income of such a citizen may also be exempt from tax, or subject to reduced rates of tax, in the State in which he is performing services, in accordance with other provisions of the Convention.) However, if the services are rendered in connection with a trade or business, then the provisions of Article XIV (Independent Personal Services), Article XV (Dependent Personal Services), or Article XVI (Artistes and Athletes), as the case may be, are controlling. Whether functions are of a governmental nature may be determined by a comparison with the concept of a governmental function in the State in which the income arises.
+Pursuant to paragraph 3(a) of Article XXIX (Miscellaneous Rules), Article XIX is an exception to the "saving clause." As a result, a U.S. citizen resident in Canada and performing services in Canada in the discharge of functions of a governmental nature for the United States is taxable only in the United States on remuneration for such services.
+Article XXIV - Elimination of double taxation
+...
+3. For the purposes of this Article:
+(a) Profits, income or gains (other than gains to which paragraph 5 of Article XIII (Gains) applies) of a resident of a Contracting State which may be taxed in the other Contracting State in accordance with the Convention (without regard to paragraph 2 of Article XXIX (Miscellaneous Rules)) shall be deemed to arise in that other State; and
+(b) Profits, income or gains, of a resident of a Contracting State which may not be taxed in the other Contracting State in accordance with the Convention (without regard to paragraph 2 of Article XXIX (Miscellaneous Rules)) or to which paragraph 5 of Article XIII (Gains) applies shall be deemed to arise in the first-mentioned State.
+4. Where a United States citizen is a resident of Canada, the following rules shall apply:
+(a) Canada shall allow a deduction from the Canadian tax in respect of income tax paid or accrued to the United States in respect of profits, income or gains which arise (within the meaning of paragraph 3) in the United States, except that such deduction need not exceed the amount of the tax that would be paid to the United States if the resident were not a United States citizen; and
+(b) For the purposes of computing the United States tax, the United States shall allow as a credit against United States tax the income tax paid or accrued to Canada after the deduction referred to in subparagraph (a). The credit so allowed shall not reduce that portion of the United States tax that is deductible from Canadian tax in accordance with subparagraph (a).
+Article XXIX - Miscellaneous Rules
+...
+2. Except as provided in paragraph 3, nothing in the Convention shall be construed as preventing a Contracting State from taxing its residents (as determined under Article IV (Residence) and, in the case of the United States, its citizens (including a former citizen...) and companies electing to be treated as domestic corporations, as if there were no convention between the United States and Canada with respect to taxes on income and on capital.
+3. The provisions of paragraph 2 shall not affect the obligations undertaken by a Contracting State:
+(a) under...ArticlesXIX (Government Service) ... XXIV (Elimination of Double Taxation) ... and XXVI (Mutual Agreement Procedure);
+[10] In constructing the meaning of a provision under an income tax treaty, the leading authority is found in The Queen v. Crown Forest Industries Ltd., 95 D.T.C. 5389 (hereinafter Crown Forest) where Iacobucci J. laid down the governing principles. At page 5393 he cites:
+In interpreting a treaty, the paramount goal is to find the meaning of the words in question. This process involves looking to the language used and the intentions of the parties.
+[11] He later pointed to the intention of the drafters as the guiding factor in the interpretation and application of a treaty provision. At page 5396, he said:
+Reviewing the intentions of the drafters of a taxation convention is a very important element in delineating the scope of the application of that treaty. As noted by Addy J. in J.N. Gladden Estate v. The Queen, [1985] 1 C.T.C. 163 (F.C.T.D.), at pp. 166-67:
+Contrary to an ordinary taxing statute a tax treaty or convention must be given a liberal interpretation with a view to implementing the true intentions of the parties [as emphasized]. A literal or legalistic interpretation must be avoided when the basic object of the treaty might be defeated or frustrated in so far as the particular item under consideration is concerned.
+[12] He later outlined the goals and purposes of the Canada-U.S. Convention at page 5396:
+"The principle purposes of the proposed income tax treaty between the United States and Canada are to reduce or eliminate double taxation of income earned by citizens and residents of either country from sources within the other country, and to prevent avoidance or evasion of income taxes of the two countries."
+[13] The Court in Crown Forest, supra, also referred to other extrinsic materials that can be used by courts in the interpretation of treaties such as the O.E.C.D. Model Tax Convention on Income and Capital, the U.N. Model Conventions, as well as academic articles and textbooks.
+[14] Articles 31 and 32 of the Vienna Convention on The Law of Treaties to which Canada acceded in 1970 and which came into force in 1980 also sets out principles applicable to treaty interpretation. They read as follows:
+Article 31
+1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in light of its object and purpose.
+2. The context for the purpose of the interpretation of a treaty shall comprise, in addition to the text, including the preamble and annexes:
+(a) any agreement relating to the treaty which was made between all the parties in connection with the conclusion of the treaty;
+(b) any instrument which was made by one or more parties in connection with the conclusion of the treaty and accepted by the other parties as an instrument related to the treaty;
+3. There shall be taken into account, together with the context:
+(a) any subsequent agreement between the parties regarding the interpretation of the treaty or the application of its provisions; ...
+Article 32
+Recourse may be had to supplementary means of interpretation, including the preparatory work of the treaty and the circumstances of its conclusion, in order to confirm the meaning resulting from the application of Article 31, or to determine the meaning when the interpretation according to Article 31:
+(a) leaves the meaning ambiguous or obscure; or
+(b) leads to a result which is manifestly absurd or unreasonable.
+[15] Paragraph 2 of Article XIX of the Technical Explanation [1984] reads:
+Pursuant to paragraph 3(a) of Article XXIX (Miscellaneous Rules), Article XIX is an exception to the "saving clause". As a result, a U.S. citizen resident in Canada and performing services in Canada in the discharge of functions of a governmental nature for the United States is taxable only in the United States on remuneration for such services.
+[16] The respondent relies on this Technical Explanation to argue that Article XIX was enacted to deal strictly with citizens working abroad in the discharge of governmental functions. Although the Technical Explanation is but one element in the interpretation process, it has found support in the Crown Forest (supra) decision where Iacobucci J. made the following comment on the general scope of the Convention, at page 5396:
+At this point in the analysis, it is important to take a step backwards and isolate exactly whom the Convention was intended to benefit. The target group are Canadians working in the United States (or vice versa) and Canadian companies operating in the United States (again, or vice versa)....
+[17] Although Article XIX does not specifically refer to citizens employed in the other Contracting State in the discharge of functions of a governmental nature, it appears that the primary purpose, if not the only purpose, for which Article XIX was enacted was to provide the taxing rule applicable to employees working abroad in the discharge of governmental functions. Were it not for Article XIX, these employees would be taxed in the jurisdiction where they work pursuant to Article XV.
+[18] The O.E.C.D. Model Convention on which the Canada-U.S. Convention was based in part appears to support that domestically-employed government workers are not what the drafters had in mind with regard to the scope of Article XIX. It was designed for employees employed abroad in the service of their country.
+[19] The term "services of a governmental nature" is not defined under the Convention. Paragraph 1 of the Technical Explanation accompanying Article XIX of the Convention provides inter alia:
+Whether functions are of a governmental nature may be determined by a comparison with the concept of a governmental function in the State in which the income arises.
+[20] With this in mind, Article 19 of the U.S. Model Convention along with its Technical Explanation seems to exclude teaching services for purposes of Article XIX. Article 19 and the Technical Explanation provide:
+Article 19 GOVERNMENT SERVICE
+1. Notwithstanding the provisions of Articles 14 (Independent Personal Services), 15 (Dependent Personal Services), 16 (Director's Fees) and 17 (Artistes and Sportsmen):
+a) Salaries, wages and other remuneration, other than a pension, paid from the public funds of a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority in the discharge of functions of a governmental nature shall, subject to the provisions of subparagraph (b), be taxable only in that State;
+b) such remuneration, however, shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
+i) is a national of that State; or
+ii) did not become a resident of that State solely for the purpose of rendering the services.
+2. Notwithstanding the provisions of paragraph 1 of Article 18 (Pensions, Social Security, Annuities, Alimony, and Child Support):
+a) any pension paid from the public funds of a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority in the discharge of functions of a governmental nature shall, subject to the provisions of subparagraph (b), be taxable only in that State;
+b) such pension, however, shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
+Technical Explanation
+The phrase "functions of a governmental nature" is not defined. In general it is understood to encompass functions traditionally carried on by a government. It would not include functions that commonly are found in the private sector (e.g. education, health care, utilities). Rather, it is limited to functions that generally are carried on solely by the government (e.g. military, diplomatic service, tax administrators) and activities that directly support the carrying out of these functions."
+[21] Article 19 of the O.E.C.D. Model Convention is almost identical to Article XIX under the Canada-U.S. Convention. The current amended provision under the Model Convention no longer includes the phrase "functions" of a governmental nature.
+[22] In a CCRA publication entitled The Income Tax Treaties Reference Manual referred to as 94 ITC 301, Revenue Canada's position is that these functions include executive, legislative and judicial functions and in particular involve the formulation, determination, implementation and carrying out of policies of the government. The former Canada-United States of America Tax Convention granted an exemption from tax in the host State to professors or teachers who were resident in the other Contracting State but who were temporarily residing in the host State for the purposes of teaching at a University, college, school or other educational institution (Article VIIIA). This provision is left out under the current Convention. It would appear that the intention of both Canada and the U.S. was to tax public school and university teaching services in accordance with the rules in Article XV.
+[23] I therefore conclude that the appellant was not employed in the discharge of functions of a governmental nature within the meaning of Article XIX of the Convention and therefore cannot claim an exemption conferred under the provision in respect of such services. The appellant is liable to pay tax in Canada under Article XV of the Convention on the basis that the remuneration earned did
+not exceed $10,000 U.S. in accordance with paragraph 2(a). The appellant may claim a credit under the Convention in respect of taxes payable in the United States pursuant to Article XIV of the Canada-U.S. Convention.
+[24] The appeal is therefore dismissed.
+Signed at Edmundston, New Brunswick, this 24th day of February 2003.
+"François Angers"
+J.T.C.C.
+CITATION:
+2003TCC58
+COURT FILE NO.:
+2001-3398(IT)I
+STYLE OF CAUSE:
+CONNIE CLOUTIER
+and Her Majesty the Queen
+PLACE OF HEARING
+Edmundston, New Brunswick
+DATE OF HEARING
+August 20, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable Judge François Angers
+DATE OF JUDGMENT
+February 24, 2003
+APPEARANCES:
+Agent for the Appellant:
+Guy Décarie
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

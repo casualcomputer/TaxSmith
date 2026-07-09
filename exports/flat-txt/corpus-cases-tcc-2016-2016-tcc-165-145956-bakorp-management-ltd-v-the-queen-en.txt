@@ -1,0 +1,147 @@
+Title: Bakorp Management Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/145956/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-165-145956-bakorp-management-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-07-05
+
+# Bakorp Management Ltd. v. The Queen
+
+- Citation: 2016 TCC 165
+- Decision date: 2016-07-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2919, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bakorp Management Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-07-05
+Neutral citation
+2016 TCC 165
+File numbers
+2015-1101(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1101(IT)G
+BETWEEN:
+BAKORP MANAGEMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on October 14, 2015, at Toronto, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+E. Rebecca Potter
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+ORDER
+In accordance with the attached reasons for order:
+The Respondent’s motion for an order, pursuant to the Tax Court of Canada Rules (General Procedure), dismissing the appeal is dismissed;
+The Respondent shall file a reply to the Notice of Appeal within 60 days of the date of this order.
+Costs are awarded to the Appellant in the amount of $2,000, payable forthwith.
+Signed at Antigonish, Nova Scotia this 5th day of July 2016.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2016 TCC 165
+Date: 20160705
+Docket: 2015-1101(IT)G
+BETWEEN:
+BAKORP MANAGEMENT LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D'Arcy J.
+[1] The Respondent has brought a motion for an order dismissing the appeal or, in the event this relief is not granted, an order extending the time to file a reply to the Notice of Appeal to 60 days from the date of my order. The Respondent is also asking for costs of $1,000 payable forthwith.
+[2] The Appellant filed an appeal with this Court on March 17, 2015. The appeal relates to the amount of non-capital losses that the appellant is entitled to deduct in its taxation year ending on March 10, 1992 (the March 1992 Taxation Year).
+[3] The Notice of Appeal states the following with respect to the Appellant’s filings with the Canada Revenue Agency regarding the March 1992 Taxation Year and with respect to the Minister’s assessments:
+11. On February 10, 2011, the Appellant filed its tax return for the March 1992 Taxation Year . . .
+. . .
+13. . . . by Notice of Assessment dated June 6, 2012 (the “Assessment”), the Minister assessed the March 1992 Taxation Year to deny the deduction of the $439,581 of NCLs [non-capital losses] that were carried forward to that year (and also applied the ITCs [investment tax credits] which had not been included in the computation of income as filed).
+14. The Assessment resulted in Part I taxes of $257,923 and a failure to file penalty under subsection 162(1) of the Act in the amount of $43,846.
+15. By notice of objection dated September 4, 2012, the Appellant objected to the Assessment.
+16. By notification dated December 17, 2014, the Minister notified the Appellant of the reduction to the failure to file penalty imposed in respect of the March 1992 Taxation Year. The notification further stated:
+On June 26, 2013, a reassessments [sic] was process [sic], as there was no tax change, no notice of reassessment was issued. However, the failure to file penalty was reduced by $22,400.00. This amount was applied against the balance owing for the March 10, 1992 tax year-end.
+17. The Appellant hereby appeals the Assessment to this Court.
+[4] Paragraph 18 of the Appellant’s Notice of Appeal states that the issue to be decided is as follows:
+Was the Appellant’s income properly calculated for the March 1992 Taxation Year? Specifically, was the amount of NCLs [non-capital losses] available to be carried forward and applied to the March 1992 Taxation Year understated by $439,581?
+[5] It is clear from the Notice of Appeal that the parties do not agree on the amount of non-capital losses the Appellant is entitled to deduct under section 111 of the Income Tax Act (the Act). The parties also disagree on the application of subsection 152(4.3).
+[6] In its Notice of Appeal the Appellant relies, in part, on the following facts to support its legal argument:
+3. The Appellant and the Minister of National Revenue (the “Minister”) were involved in extensive litigation regarding the reassessment of the Appellant’s 1989 taxation year (the “1989 Appeal”), the result of which would determine, inter alia, the value of certain shares (the “Shares”) and the quantum of NCLs [non-capital losses] that would be available to be carried forward.
+. . .
+8. Pursuant to Amended Minutes of Settlement which were fully executed on April 15, 2010, the Appellant and the Minister reached a settlement with regards to the 1989 Appeal. As a result of that settlement, the value of the Shares was determined and the amount of the Appellant’s NCLs available to be carried forward was increased (although not by the amount that the Appellant had sought).
+9. Because a smaller NCL carryforward balance resulted from the resolution of the 1989 Appeal, decisions needed to be made as to how best to apply the revised NCLs that were available.
+10. By written request dated December 7, 2010 made pursuant to subsection 152(4.3) of the Act (the “Request”), the Appellant requested that the Minister reduce the amount of NCLs carried forward and applied by the Appellant in its taxation year ended January 18, 1992 (the “January 1992 Taxation Year”) by $439,581 and, instead, apply $74,312 of available investments [sic] tax credits (“ITCs”) in that year; thereby preserving the NCLs for the March 1992 taxation Year.
+11. On February 10, 2011, the Appellant filed its tax return for the March 1992 Taxation Year based on the result of the 1989 Appeal and on the basis that the Request would be granted in accordance with subsection 152(4.3) of the Act. On these bases, the Appellant deducted $51,960,121 of NCLs (which amount included the $439,581 of NCLs that the Appellant requested the Minister remove from the January 1992 Taxation Year as described in paragraph 10 above).
+12. By letter dated November 23, 2011, the Minister, to the Appellant’s surprise, denied the Request with the notable result being that the $439,581 of NCLs carried forward from the Appellant’s 1989 taxation year continued to be applied in the January 1992 Taxation Year.
+The Respondent’s Position [7] It is the Respondent’s position that the Appellant’s appeal should be dismissed because this Court lacks the requisite jurisdiction to grant the relief sought by the Appellant.
+[8] The Respondent’s counsel, in her oral argument, provided the following three reasons why this Court lacks the requisite jurisdiction:
+1. The jurisdiction of the Tax Court of Canada excludes issuing an order of mandamus.
+2. This Court does not have jurisdiction to compel the Minister to reassess under subsection 152(4.3) of the Income Tax Act.
+3. The Tax Court of Canada has no jurisdiction to make an order affecting a taxation year that is not before the Court.
+[9] The Respondent argued that the only way the Court can allow the Appellant’s appeal is by ordering the Minister to reassess the Appellant’s March 1992 Taxation Year on the basis that the $439,581 of non-capital losses, that originated in its 1989 taxation year, no longer apply to the Appellant’s January 1992 Taxation Year and are available to be applied to its March 1992 Taxation Year.
+[10] In the Respondent’s view, such a result would constitute issuing an order of mandamus against the Minister.
+The Court’s Decision [11] For the following reasons, I will dismiss the Respondent’s motion.
+[12] The Court does have jurisdiction to hear the appeal and grant the relief requested by the Appellant.
+[13] The Minister, under section 152, assessed the tax for the Appellant’s March 1992 Taxation Year. The Appellant subsequently objected, under section 165, to the assessment. It is now appealing, under section 169, in order to have the assessment varied. The determination of the correctness of the assessment is within the jurisdiction of this Court. In fact, this Court has exclusive jurisdiction to hear such an appeal. As noted by the Federal Court of Appeal in JP Morgan Asset Management (Canada) Inc. v Canada (National Revenue):[1]
+Validity of assessments. The Tax Court has exclusive jurisdiction to review the correctness of assessments by way of appeal to that Court. Sections 165 and 169 of the Income Tax Act constitute a complete appeal procedure that allows taxpayers to raise in the Tax Court all issues relating to the correctness of the assessment, i.e. whether the assessment is supported by the facts of the case and the applicable law. . .
+[14] The Respondent is in effect saying that the Appellant did not have $439,581 of non-capital losses to apply to the March 1992 Taxation Year since the Minister did not grant the subsection 152(4.3) request.
+[15] The Appellant disagrees; it argues in paragraph 21 of its Notice of Appeal that “by operation of the Act” the written request dated December 7, 2010, made pursuant to subsection 152(4.3) of the Act, resulted in the Appellant having an additional $439,581 of non-capital losses available to be carried forward and applied in the March 1992 Taxation Year. The Appellant in effect is arguing that, in light of the facts, no action is required by the Minister; the non-capital losses exist under the Income Tax Act.
+[16] The Appellant’s Notice of Appeal is a properly framed appeal of an assessment. The Appellant is asking the Court to grant its appeal on the basis of the application of the law to the relevant facts. It is not asking the Court to review the decision of the Minister or issue an order of mandamus. If I understand the Appellant’s argument correctly, the Appellant is saying that the Minister’s decision is irrelevant in view of the provisions of the Act.
+[17] The Appellant is asking the Court to determine the amount it was entitled to deduct in the March 1992 Taxation Year in respect of non-capital loss carry-forwards. Such an issue is properly before this Court. As former Chief Justice Bowman stated in Aallcann Wood Suppliers Inc. v. Canada. at paragraph 4,[2]
+. . . In challenging the assessment for a year in which tax is payable on the basis that the Minister has incorrectly ascertained the amount of a loss for a prior or subsequent year that is available for deduction under section 111 in the computation of the taxpayer’s taxable income for the year under appeal, the taxpayer is requesting the Court to do precisely what the appeal procedures of the Income Tax Act contemplate: to determine the correctness of an assessment of tax by reviewing the correctness of one or more of the constituent elements thereof, in this case the size of a loss available from another year.
+[18] It seems to me that the Respondent is arguing that the Court should dismiss the appeal on the basis that it has no chance of success. However, since the Court’s rules do not provide for summary judgment, the Respondent is in fact asking me to strike out the Appellant’s pleadings.
+[19] The Supreme Court of Canada stated the test for striking out pleadings in R. v. Imperial Tobacco Canada Ltd.,[3] as follows:
+. . . This Court has reiterated the test on many occasions. A claim will only be struck if it is plain and obvious, assuming the facts pleaded to be true, that the pleading discloses no reasonable cause of action: Odhavji Estate v. Woodhouse, 2003 SCC 69, [2003] 3 S.C.R. 263, at para. 15; Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959, at p. 980. Another way of putting the test is that the claim has no reasonable prospect of success. Where a reasonable prospect of success exists, the matter should be allowed to proceed to trial: see, generally, Syl Apps Secure Treatment Centre v. B.D., 2007 SCC 38, [2007] 3 S.C.R. 83; Odhavji Estate; Hunt; Attorney General of Canada v. Inuit Tapirisat of Canada, [1980] 2 S.C.R. 735.
+[20] Is it plain and obvious, assuming the facts pleaded to be true, that the Appellant’s pleadings disclose no reasonable cause of action?
+[21] No, the Appellant has appealed an assessment on the basis of its interpretation of specific provisions of the Act, particularly sections 3 and 111 and subsections 152(4.3), 152(4.4) and 162(1). It is not for the motion judge to determine the merits of the Appellant’s legal argument.
+[22] The parties will place before the Court the relevant facts and their interpretation of the law. The trial judge will then decide, using those facts and applying his or her view of the law, the amount of non-capital losses the Appellant is entitled to deduct in its March 1992 Taxation year. It may very well be the case that the Appellant is not entitled to claim the $439,581 of non-capital losses when determining its taxable income for the March 1992 Taxation Year. If so, the trial judge will determine that the assessment is correct and dismiss the appeal.
+[23] For the foregoing reasons the motion is dismissed. The Appellant is awarded costs of $2,000.
+[24] The Respondent has sixty days from the date of this order to file her reply to the Notice of Appeal.
+Signed at Antigonish, Nova Scotia, this 5th day of July 2016.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2016 TCC 165
+COURT FILE NO.:
+2015-1101(IT)G
+STYLE OF CAUSE:
+BAKORP MANAGEMENT LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 14, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF ORDER:
+July 5, 2016
+APPEARANCES:
+Counsel for the Appellant:
+E. Rebecca Potter
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+E. Rebecca Potter
+Firm:
+Thorsteinssons LLP
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2013 FCA 250, [204] 2 F.C.R. 557, at paragraph 82.
+[2] [1994] T.C.J. No 280 (QL).
+[3] 2011 SCC 42, [2011] 3 S.C.R. 45, at paragraph 17.

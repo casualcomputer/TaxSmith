@@ -1,0 +1,185 @@
+Title: Nguyen v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28019/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-574-28019-nguyen-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-09-28
+
+# Nguyen v. The Queen
+
+- Citation: 2007 CCI 574
+- Decision date: 2007-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1605, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nguyen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-28
+Référence neutre
+2007 CCI 574
+Numéro de dossier
+2006-388(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-388(IT)I
+ENTRE :
+GA KY NGUYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________Appels entendus le 23 novembre 2006, à Toronto (Ontario).
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sonia Akibo-Betts
+__________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont accueillis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant occupait personnellement le tiers de l’immeuble situé au 1272, rue Bloor Est, à Toronto (Ontario).
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI574
+Date : 20070928
+Dossier : 2006-388(IT)I
+ENTRE :
+GA KY NGUYEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Sarchuk
+[1] Il s’agit d’appels de nouvelles cotisations établies pour les années d’imposition 1999 et 2000 en vertu de la Loi de l’impôt sur le revenu, par lesquelles le ministre du Revenu national a rejeté certains montants que l’appelant avait déduits au titre de dépenses à défalquer de son revenu de location. L’appelant conteste les nouvelles cotisations en se fondant sur le fait que ces dépenses étaient à juste titre déductibles dans le calcul de son revenu imposable.
+Les faits
+[2] En 1997, l’appelant et une autre personne ont acheté un immeuble situé au 1272, rue Bloor Est, à Toronto. L’appelant est l’unique propriétaire de l’immeuble depuis le mois d’août 1999.
+[3] Dans le calcul de son revenu pour les années d’imposition 1999 et 2000, l’appelant a déclaré un revenu brut de location d’un montant de 9 600 $ en 1999 et de 18 000 $ en 2000; il a déduit des pertes locatives d’un montant de 24 791,32 $ et de 12 043,75 $ respectivement. Au cours des deux années en question, l’appelant a déduit la totalité des dépenses afférentes à l’immeuble dans le calcul de ses pertes locatives.
+[4] Le ministre a établi les nouvelles cotisations en se fondant sur les faits suivants :
+a) au cours des années d’imposition 1999 et 2000, l’appelant n’avait pas payé ou engagé de dépenses à l’égard de l’immeuble en sus des montants de 33 132,54 $ et de 23 154,03 $ respectivement en vue de tirer un revenu du bien en question au cours de ces années d’imposition;
+b) étant donné que, pendant la période pertinente au cours de ces années d’imposition, l’appelant occupait au moins 50 p. 100 de l’immeuble à titre de résidence principale, les dépenses d’un montant de 16 556,27 $ et de 11 577,01 $ représentaient, dans une proportion de 50 p. 100, des dépenses personnelles de l’appelant, que ce dernier ne pouvait donc pas déduire[1].
+[5] L’intimée fait en outre valoir que les frais de réparation et d’entretien de 10 682 $, déduits par l’appelant au cours de l’année d’imposition 2000, comprenaient un montant de 6 240,22 $ que l’appelant avait payé aux fins de la rénovation du plafond, des murs et du plancher et d’améliorations électriques, et qu’il s’agissait donc d’une dépense en capital de l’appelant. Par conséquent, le paragraphe 18(1) et l’alinéa 18(1)b) de la Loi empêchaient l’appelant de déduire ce montant dans le calcul de la perte locative en vertu des paragraphes 9(1) et 9(2) de la Loi. Je me propose d’examiner d’abord cette question.
+Les frais de rénovation
+[6] Les bâtiments en question étaient situés sur un lot étroit d’environ 18 pieds de largeur et 100 pieds de profondeur. Selon un plan d’arpentage qui a été soumis avec l’avis d’appel de l’appelant, des bâtiments avaient été construits sur l’ensemble de la propriété. La façade était composée d’un bâtiment de deux étages auquel était rattachée une petite section d’un étage que l’appelant a décrite comme suit : [traduction] « Cela fait partie du magasin, qui est vide, qui n’est pas utilisé[2]. » L’appelant a décrit le deuxième étage de ce bâtiment comme étant composé d’un [traduction] « logement de deux chambres à coucher », que des locataires occupaient depuis 1998.
+[7] En ce qui concerne le rez‑de‑chaussée, l’appelant a témoigné qu’en l’an 2000, une locataire éventuelle, Vu My Trang (« Mme Trang ») était prête à louer la propriété pour y exploiter un magasin; elle avait cependant fait savoir qu’il fallait effectuer de grosses réparations avant qu’elle puisse l’occuper.
+[8] L’appelant a reconnu que le plafond et les murs étaient fortement endommagés et qu’il y avait [traduction] « beaucoup de choses qui étaient cassées ». Il a ajouté que [traduction] « personne n’avait effectué de réparations, de sorte que le bâtiment était passablement détérioré » et qu’il fallait donc effectuer des rénovations, notamment de grosses réparations au plafond, au plancher, à la plomberie, aux portes endommagées et aux cloisons sèches. L’appelant a ajouté ce qui suit : la locataire éventuelle était prête à [traduction] « m’aider, de sorte que je l’ai laissée m’aider, pour réparer et rénover les lieux à fort peu de frais »; en effet, l’appelant croyait que si [traduction] « le magasin n’était pas remis en état, la locataire ne louerait pas les lieux ».
+[9] À l’appui de son témoignage, l’appelant a mentionné une lettre datée du 15 mai 2002, signée par Mme Trang, qu’il a envoyée à Revenu Canada. Cette lettre est rédigée comme suit :
+[traduction]
+Comme l’a demandé le propriétaire de l’endroit que nous avons loué pour tenir un commerce au 1272, rue Bloor Ouest, à Toronto (Ontario), nous écrivons aujourd’hui cette lettre en vue de donner des explications au sujet de la somme d’argent que nous avons dépensée, parce que nous avions convenu qu’il fallait réparer le magasin avant que nous en prenions possession, mais étant donné que le propriétaire était occupé, il nous a engagés pour le faire. Voici ce que nous avons fait :
+- du 1er au 15 mai : le mur du côté droit du bâtiment était endommagé à cause de l’humidité attribuable à la température (il était fermé à l’extérieur); nous l’avons enlevé, nous avons installé des cloisons sèches avec du composé et nous les avons peintes. Cela a coûté 1 642 $;
+- du 16 au 20 mai, nous avons réparé le quart du plafond parce qu’il y avait des fissures et qu’il était sur le point de tomber; cette situation était dangereuse pour les employés et les clients qui se présentaient au magasin; nous avons installé de nouveaux tuyaux à eau en cuivre pour remplacer les anciens tuyaux; nous avons installé les cloisons sèches, nous avons appliqué le composé, nous avons poncé les cloisons et nous les avons peintes; cela a coûté 1 815 $;
+- les 21 et 22 mai, nous avons jeté les ordures et nous avons nettoyé les lieux, ce qui a coûté 353,22 $;
+- du 24 au 30 mai, nous avons coupé le quart du plancher et nous avons remplacé le bois pourri (sur lequel reposait le plancher), nous avons posé du contreplaqué sur le plancher;
+- nous avons remplacé le revêtement en vinyle, ce qui a coûté 2 430 $.
+Le coût total était de 6 240 $. J’ai été remboursée par le propriétaire et j’ai produit ma déclaration de revenus en déclarant mon revenu pour l’année 2000[3].
+[10] L’appelant a également soumis le témoignage de la locataire, Mme Trang, qui a initialement déclaré avoir personnellement aidé aux réparations et avoir [traduction] « effectué des travaux de plomberie, réparé le plancher, la porte endommagée ». Mme Trang a aussi affirmé ce qui suit : [traduction] « J’ai installé les cloisons sèches » et ainsi de suite. Toutefois, lors du contre‑interrogatoire, les propos suivants ont été échangés avec l’avocate :
+[traduction]
+Q. En ce qui concerne les réparations, M. Nguyen était trop occupé pour s’en charger, de sorte qu’il vous a embauchée pour les effectuer, n’est‑ce pas?
+R. Il a dit que c’était moi qui avais demandé que les réparations soient faites. Il ne voulait pas effectuer les réparations, de sorte que je lui ai proposé d’embaucher quelqu’un pour faire le travail, mais il devait me rembourser pour que cette personne fasse le travail.
+Q. Lorsque vous avez déclaré que vous aviez exécuté les travaux de plomberie, réparé le plancher et la porte endommagée, installé les cloisons sèches, vous avez dit ce qui suit : « J’ai installé les cloisons sèches. » Ce n’est pas vous qui avez installé les cloisons sèches?
+R. J’ai été obligée d’engager quelqu’un.
+Q. Ce n’est pas vous qui avez personnellement installé les cloisons sèches?
+R. Non.
+[11] L’appelant a eu de la difficulté à expliquer ce sur quoi il se fondait quant à cet aspect des appels. Il est juste de dire qu’il cherchait principalement à établir que les réparations en question étaient peu importantes, comme son comptable l’a dit dans l’avis d’opposition :
+[traduction] Contrairement à ce qu’a soutenu le représentant du gouvernement, ces frais de réparation et d’entretien ne répondent pas aux critères applicables à la capitalisation. Ces frais visaient à remédier à l’usure et non à accroître la valeur de la propriété. De plus, le contribuable s’est vu obligé de réparer et de nettoyer la propriété, de façon qu’elle puisse être louée à des locataires. Les frais de réparation et d’entretien devraient donc être déduits en 1999 et en l’an 2000 comme ils l’ont initialement été.
+Conclusion
+[12] Il s’agit de savoir si les frais de réparation constituaient une dépense imputable au capital ou au revenu. Dans l’arrêt Johns‑Manville Can. Inc. v. The Queen[4], la Cour suprême du Canada a procédé à un examen approfondi de certaines décisions portant sur la caractérisation des dépenses, à savoir s’il s’agissait de dépenses courantes ou de dépenses imputables au capital. Le juge Estey a cité les remarques suivantes que le vicomte Cave avait faites dans l’arrêt British Insulated and Helsby Cables v. Atherton[5] :
+[traduction]
+[...] lorsqu’une dépense est faite non seulement une fois pour toutes, mais dans le but de créer un bien ou un avantage qui profite à une entreprise de façon durable, je crois que c’est un motif très valable (en l’absence de circonstances spéciales menant à une conclusion dans le sens opposé) pour considérer une telle dépense comme véritablement imputable non pas au revenu, mais au capital.
+[13] Il importe également de mentionner l’arrêt The Queen v. Canadian Reynolds Metal Co., Limited[6], dans lequel le juge Décary a expressément fait la remarque suivante :
+La qualification des dépenses en tant que dépenses d’exploitation ou en immobilisations a été compliquée par la tendance qui existe dans la jurisprudence de se concentrer sur la nature du bien lui-même et sur la question de savoir s’il doit ou non être remplacé de façon répétitive, au lieu de s’occuper de l’avantage que la dépense vise à conférer à l’entreprise. Il est cependant clair que, bien que la nature répétitive d’une dépense puisse constituer un facteur pertinent pour créer une distinction entre les dépenses en immobilisations et les dépenses d’exploitation, elle n’a aucune valeur décisive. Par ailleurs, il est aussi clair qu’il n’est pas nécessaire qu’un élément d’actif ait une nature perpétuelle pour qu’il puisse être classé comme élément de capital aux fins de l’impôt.
+[14] L’argument invoqué par l’appelant semble être que les dépenses en question étaient d’une nature récurrente et qu’elles ont été engagées sur les instances de la locataire, Mme Trang. Or, cela est tout à fait incompatible avec la preuve. Il ressort clairement des réponses que l’appelant a données aux questions qui lui ont été posées qu’il s’agissait d’un bâtiment de 93 ans, exigeant énormément de rénovations. Je citerai comme exemple les propos suivants échangés entre l’appelant et l’avocate de l’intimée :
+[traduction]
+Q. Vous envisagiez de le mettre en état et de le louer à des locataires, n’est‑ce pas?
+R. Oui.
+Q. Lorsque vous l’avez acheté, il n’était pas en état d’être loué, n’est‑ce pas?
+R. Si quelqu’un le voulait, je pouvais le lui louer.
+Q. Vous avez déjà déclaré que les locataires du magasin refusaient d’emménager tant que vous n’auriez pas fait de réparations dans le magasin, n’est‑ce pas?
+R. Oui.
+Q. Le fait que vous n’avez pas pu trouver qui que ce soit qui soit prêt à le louer donne à entendre qu’il n’était pas en état d’être loué, n’est‑ce pas?
+R. Beaucoup de gens manifestaient de l’intérêt, mais ils voulaient tous que des réparations soient effectuées.
+Q. Il ne pouvait pas être loué tel quel?
+R. Cela dépend du genre de commerce. Ces gens se sont présentés et ils voulaient que tous les travaux soient d’abord exécutés. C’est pourquoi nous l’avons fait, parce qu’il fallait le faire. Je devais le mettre en état avant de pouvoir le louer et je l’ai laissé inoccupé pendant environ deux ans, trois ans maintenant.
+[15] De toute évidence, les dépenses qui ont été déduites se rapportaient à de gros travaux de rénovation de la partie du bâtiment en question; il ne s’agissait pas de réparer une propriété en état d’être louée, mais il s’agissait plutôt de réparations nécessaires pour que la propriété puisse être louée, le but visé étant de conférer un avantage durable à la propriété.
+[16] Il est possible de trancher simplement la question de la distinction entre une dépense en capital et une dépense quelconque en se demandant si la dépense a été engagée en vue de conserver une immobilisation en tant qu’immobilisation, ou si elle a été engagée à des fins de revenu. Il va sans dire que les dépenses que le contribuable engage en vue de rénover un bâtiment délabré sont des dépenses en capital qui ne seraient pas considérées comme se rapportant à l’entretien régulier. Étant donné la vétusté des locaux, les travaux qui ont été exécutés constituaient bien plus que des réparations mineures.
+[17] J’ai conclu que les nouvelles cotisations établies par le ministre, selon lesquelles les dépenses engagées étaient des dépenses en capital, étaient exactes en fait et en droit.
+La question de l’utilisation personnelle
+[18] L’appelant a soutenu que, pendant les années d’imposition en question, il n’y a eu absolument aucune [traduction] « utilisation personnelle » de la propriété. L’appelant a ajouté que, dans un certain nombre de pièces, en parlant de [traduction] « l’endroit où [il] habitai[t] », il voulait simplement dire qu’il s’agissait d’un [traduction] « logement temporaire, un endroit où rester pendant la durée des rénovations ». Toutefois, cette assertion est contredite par un certain nombre de déclarations que l’appelant a faites en témoignant, ainsi que par certains documents qui ont été produits en preuve dans les présents appels. En voici des exemples :
+a) L’opposition que l’appelant a faite, par l’entremise du comptable qui agissait alors pour son compte, aux nouvelles cotisations envoyées par Revenu Canada est en partie rédigée comme suit :
+[traduction]
+Le 27 octobre 2004, j’ai examiné la question et j’en ai parlé au contribuable : j’ai conclu qu’il n’était pas raisonnable de considérer que la propriété était utilisée à 50 p. 100 à des fins personnelles. L’utilisation personnelle par le contribuable ne devrait être que de 40 p. 100. La propriété avait une superficie de 2 596 pieds carrés, dont 1 024 pieds carrés étaient utilisés par le contribuable à des fins personnelles. L’utilisation personnelle devrait donc être de 40 p. 100 (1 024/2 596). L’utilisation à 50 p. 100 mentionnée dans les nouvelles cotisations établies par l’Agence des douanes et du revenu du Canada n’est pas raisonnable dans ce cas‑ci[7].
+b) Dans la lettre non datée qu’il a envoyée à Revenu Canada[8] en réponse à une demande de renseignements, l’appelant a fourni un croquis du bâtiment, comportant deux sections décrites comme étant [traduction] « l’endroit où [il] habitai[t] »;
+c) Dans une lettre subséquente reçue par l’intimée le 11 décembre 2004[9], l’appelant a fourni un autre croquis de la propriété, montrant qu’il utilisait à des fins personnelles le deuxième étage de la section décrite dans le plan d’arpentage comme étant un [traduction] « garage en brique ». Le lendemain, l’appelant a envoyé à Revenu Canada une autre note, en ajoutant la remarque suivante au sujet de ce croquis : [traduction] « Le bâtiment a 18’ de largeur et 100’ de longueur, sa superficie totale étant de 1 800 pieds carrés. J’occupe 450 pieds carrés (le quart de la superficie). »;
+d) Dans son avis d’appel daté du 26 janvier 2006, l’appelant a déclaré ce qui suit :
+[traduction]
+Il a été conclu que le bâtiment était utilisé à 50 p. 100 à des fins personnelles et à 50 p. 100 à des fins locatives. C’est plus que ce que j’utilise, le tiers n’est pas le chiffre exact, mais cela est néanmoins acceptable, parce que le bâtiment est composé d’un rez‑de‑chaussée et d’un deuxième étage; le sous‑sol est trop bas, il ne peut servir à quoi que ce soit. J’occupe l’arrière du rez‑de‑chaussée, et à l’arrière, il n’y a pas de deuxième étage, il n’y a pas de sous‑sol, et c’est plus petit que l’avant du rez‑de‑chaussée. Je vous fais parvenir le plan d’arpentage de la propriété; j’ai essayé de tracer un plan pour que vous puissiez plus facilement comprendre.
+[19] Il convient de faire mention de la déclaration de revenus T1 générale de l’appelant concernant l’année 1999, dans laquelle l’adresse indiquée est le 1272, rue Bloor Est, Toronto (Ontario)[10]. Ce document montre également que l’appelant a demandé des crédits d’impôt foncier de l’Ontario de 881 $, compte tenu du fait que la propriété en question lui servait de résidence principale. En outre, l’appelant a attesté que les renseignements donnés dans cette déclaration étaient exacts et complets.
+[20] Néanmoins, l’appelant maintient qu’au cours de la période pertinente, la propriété n’a aucunement été utilisée à des fins personnelles et que, depuis 1991 au moins, il louait une chambre dans un immeuble appartenant à Mme Trang. Lors de l’interrogatoire principal, l’appelant a posé les questions suivantes à Mme Trang :
+[traduction]
+Q. Est-ce que je vous verse encore un loyer? En 1999, est‑ce que je vous ai remis de l’argent, l’argent du loyer?
+R. Oui.
+Q. Et j’étais encore votre locataire en l’an 2000?
+R. Oui.
+[21] L’appelant s’est fondé dans une large mesure sur le témoignage de Mme Trang. Toutefois, lors du contre‑interrogatoire, lorsqu’on lui a demandé à quel moment l’appelant avait commencé à louer, Mme Trang a répondu : [traduction] « Il a vécu là fort longtemps, depuis 1991 environ, il a vécu là fort longtemps. » Lorsqu’on lui a demandé à quel moment l’appelant avait déménagé, Mme Trang a répondu : [traduction] « Il a déménagé vers 2002 ou 2003, à peu près à ce moment‑là. » Lorsqu’on lui a demandé si des reçus avaient été fournis, Mme Trang a répondu : [traduction] « Non, seulement lorsqu’il en avait besoin, comme vous le savez, c’est ainsi que font les Vietnamiens, lorsqu’ils en ont besoin, nous en donnons un. Les Vietnamiens aiment payer en argent comptant. »
+[22] Il est difficile de considérer ce témoin comme crédible étant donné que ses réponses étaient vagues et incohérentes et, plus particulièrement, compte tenu du fait qu’elle était prête à signer la lettre rédigée par l’appelant sans la lire et sans prendre de mesures pour confirmer les faits[11]. Je note qu’avec son avis d’appel, l’appelant a soumis une copie du plan d’arpentage de la propriété en question, et qu’il y avait un reçu de Mme Trang daté du 20 mai 2002, dans lequel cette dernière reconnaissait avoir [traduction] « reçu de Nguyen Ky Ga la somme de 6 240,22 $ pour la réparation du magasin ». Or, ce document indique que le paiement a été effectué au moins dix jours avant la date à laquelle les réparations auraient apparemment été terminées, selon la lettre susmentionnée.
+[23] L’appelant a également soumis deux reçus, datés du 15 octobre 2006, disant qu’une certaine Pauline Vu avait reçu un montant de 5 100 $ au cours de chacune des deux années pour le loyer du 22, avenue Oakwood, à Toronto. L’appelant a affirmé que ces deux reçus se rapportaient [traduction] « à l’année pendant laquelle [il avait] vécu à cet endroit »; lorsqu’on lui a demandé à quel moment les montants avaient été payés, l’appelant a répondu : [traduction] « Dans la communauté vietnamienne, ce que nous payons, c’est pour l’année, pour l’année 1999 ou 2000. » Lorsqu’on lui a demandé pourquoi les reçus étaient datés du 25 octobre 2006, l’appelant a répondu : [traduction] « Parce que, dans la communauté vietnamienne, nous nous faisons mutuellement confiance, de sorte que lorsque nous donnons de l’argent, nous n’obtenons pas de reçu[12]. »
+Conclusion
+[24] Il incombe au contribuable d’établir l’inexactitude des faits sur lesquels les nouvelles cotisations du ministre sont fondées. La charge qui incombe au contribuable n’oblige pas celui‑ci à réfuter tous les ensembles possibles de faits justifiant les nouvelles cotisations. Toutefois, étant donné que c’est probablement l’appelant qui connaît le mieux les faits, il lui incombe d’établir d’une façon affirmative la thèse sur laquelle il s’appuie, à savoir, en l’espèce, que pendant les années d’imposition en question, sa résidence principale n’était pas située au 1272, rue Bloor Est. Or, l’appelant ne l’a pas fait. Dans un certain nombre de documents qu’il a préparés, l’appelant a décrit une partie de la propriété comme étant [traduction] « l’endroit où [il] habitai[t] ». Je ferai expressément mention de l’avis d’opposition dans lequel le comptable a écrit ce qui suit :
+[traduction] Le 27 octobre 2004, j’ai examiné la question et j’en ai parlé au contribuable : j’ai conclu qu’il n’était pas raisonnable de considérer que la propriété était utilisée à 50 p. 100 à des fins personnelles. L’utilisation personnelle par le contribuable ne devrait être que de 40 p. 100. La propriété avait une superficie de 2 596 pieds carrés, dont 1 024 pieds carrés étaient utilisés par le contribuable à des fins personnelles.
+Je tiens à ajouter que, dans l’avis, il n’est aucunement fait mention du fait que la propriété était utilisée comme [traduction] « logement temporaire, un endroit où rester pendant la durée des rénovations ».
+[25] Somme toute, étant donné le témoignage qui a été présenté pour le compte de l’appelant, il n’est pas possible de conclure avec exactitude que l’appelant n’utilisait pas la propriété comme résidence principale.
+[26] Il reste à savoir dans quelle proportion l’utilisation de la propriété doit être attribuée à l’appelant. J’ai évalué la preuve et je suis porté à conclure qu’il serait tout à fait acceptable d’attribuer le tiers de la propriété à des fins personnelles, comme en ont convenu les parties. Les appels sont accueillis dans cette mesure. À tous les autres égards, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2007.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI574
+No DU DOSSIER DE LA COUR : 2006-388(IT)I
+INTITULÉ : GA KY NGUYEN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 23 novembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge A.A. Sarchuk
+DATE DU JUGEMENT : Le 28 septembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Sonia Akibo-Betts
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S.O.
+Cabinet : S.O.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’intimée a invoqué le paragraphe 248(1), les alinéas 18(1)a) et h), le paragraphe 9(2) et l’article 3 de la Loi de l’impôt sur le revenu.
+[2] Voir la pièce A‑1 – Plan d’arpentage, parties étiquetées [traduction] « en brique ». Il importe de noter qu’il y avait deux autres structures sur le reste de la propriété. Le plan d’arpentage les décrit comme étant un [traduction] « hangar en bois » et un [traduction] « garage en brique », mais l’appelant les a décrites comme étant [traduction] « l’endroit où [il] habitai[t] ». (Voir les pièces R‑1 et R‑2.)
+[3] Pièce R‑8 – L’avocate de l’intimée a fait remarquer que la présentation de cette lettre est semblable à celle de toutes les lettres reçues de l’appelant en l’espèce; de fait, l’appelant a reconnu avoir rédigé cette lettre pour Mme Trang, afin qu’elle la signe.
+[4] 85 DTC 5373; [1985] 2 R.C.S. 46.
+[5] [1926] A.C. 205, page 213.
+[6] 96 DTC 6312.
+[7] Pièce R-3.
+[8] Pièce R‑1.
+[9] Pièce R-2.
+[10] Pièce R-5.
+[11] Pièce R-8.
+[12] L’appelant n’a soumis aucune autre preuve au sujet de ces documents. On a donné à entendre qu’il y avait suffisamment de temps et qu’il pourrait être fort utile à l’appelant de citer la signataire comme témoin, mais l’appelant a décidé de ne pas le faire.

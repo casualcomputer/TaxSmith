@@ -1,0 +1,101 @@
+Title: Leclaire c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25552/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-852-25552-leclaire-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-12-12
+
+# Leclaire c. La Reine
+
+- Citation: 2003 TCC 852
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2456, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leclaire c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-12
+Neutral citation
+2003 TCC 852
+File numbers
+2003-1107(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1107(IT)I
+BETWEEN:
+HUGUETTE LECLAIRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 3, 2003, at Trois-Rivières, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Michel Tessier
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 2001 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to the tax credit for severe and prolonged mental or physical impairment on the as set forth in the attached Reasons for Judgment.
+Signed at Edmundston, Canada, this 12th day of December 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 20th day of April 2004
+Sharon Moren, Translator
+Citation: 2003TCC852
+Date: 20031212
+Docket: 2003-1107(IT)I
+BETWEEN:
+HUGUETTE LECLAIRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] This is an appeal from an assessment for the year 2001 in which the Minister of National Revenue disallowed the Appellant's claim for the tax credit for severe and prolonged mental or physical impairment under section 118.3 of the Income Tax Act ("the Act"); the reason for disallowing the claim is that the Appellant was not, by reason of her impairment, markedly restricted in her ability to perform basic activities of daily living in accordance with sections 118.3 and 118.4 of the Act.
+[2] The Appellant underwent a delicate brain operation in 1990. As a result of this operation, the Appellant now experiences epileptic seizures. Initially, these seizures were very frequent. Thus, she had to be hospitalized 122 times. After having tried various drugs, high doses of some, the frequency of the seizures diminished, but the Appellant still experiences one or two per month.
+[3] The Appellant states that these seizures begin without warning and that she loses complete physical control. At times, she loses consciousness, falls, or moves without being aware of her movements. The duration and degree of intensity of the seizures vary. The seizures cause great fatigue in the Appellant and she cannot get her bearings. Following a seizure of this nature, she no longer has control of her digestive system.
+[4] Due to this affliction, the Appellant has not worked since the operation. She lives with her elderly mother because she cannot be completely alone. When the Appellant has a seizure, her mother calls on the Appellant's brother or sister for help. In fact, the Appellant does nothing alone. She needs always needs to be accompanied in her daily life and in every activity she undertakes.
+[5] To control the seizures, she must take drugs with side effects that affect her balance and vision and cause pain in her joints.
+[6] The Appellant's brother came to confirm her testimony. He claimed that the Appellant's condition causes major inconvenience in that they occur without warning; when it happens she has no physical control and she cannot be alone. She must be watched at all times, as her life can be in danger. Whether in the bath or walking down the street, she has to be watched. Her brother witnessed eight or nine seizures per year and said that she has had others. They last from five to 30 minutes and vary in intensity. These are uncontrolled seizures.
+[7] Two doctors' statements on the prescribed forms were produced as evidence, as well as an additional questionnaire one of the physicians was asked to complete following the Appellant's opposition. These statements confirm that since 1990 the Appellant has suffered from uncontrolled epilepsy requiring constant supervision at home and outside the home. There is no indication that the Appellant's condition will improve. However, the physicians answered in the affirmative to the questions asked on the prescribed statement forms.
+[8] Being incapable of working since 1990, the Appellant is eligible for a pension under the Act respecting the Québec Pension Plan and receives social assistance. The fact that she is eligible for a pension of this nature or other forms of service is not a determining factor regarding her entitlement to a tax credit under section 118.3 of the Act.
+[9] Section 118.4 of the Act describes as follows the circumstances that markedly restrict an individual's ability to perform a basic activity of daily living:
+118.4.(1) Nature of impairment - For purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+(ii) feeding oneself or dressing oneself,
+(iii) speaking so as to be understood, in a quiet setting, by another person familiar with the individual,
+(iv) hearing so as to understand, in a quiet setting, another person familiar with the individual,
+(v) eliminating (bowel or bladder functions), or
+(vi) walking;
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living; and...
+[10] In this case, there is no doubt that the Appellant's illness is one that reduces her autonomy in that she must have someone with her who can help her in the event of an epileptic seizure. In normal times, according to the physicians' statements, the Appellant is in full possession of her mental and physical faculties and consequently can perform the basic activities of daily life herself. The difficulty arises with regard to her inability to live alone or to take care of her daily personal needs or personal hygiene without constant supervision. The possibility of an epileptic seizure giving rise to inability in all these regards is a type of time bomb that compromises the performing of the basic activities of daily life. Without another person present, her life is in danger. Moreover, even if someone is present, that does not prevent a seizure from occurring. The presence of another person does not remedy, like a device, a prosthesis or therapy, the Appellant's illness. This constant presence is, however, essential for the Appellant's survival and that, in my opinion, makes her an individual who marginally meets the requirements of sections 118.3 and 118.4.
+[11] In this case, the Appellant testified openly and honestly. I do not believe that she has exaggerated her condition. Her life depends on the presence of another individual and she can do nothing unaccompanied. This situation is the result of her uncontrolled epileptic seizures.
+[12] This is, as I mentioned, a borderline case and when there is doubt, the benefit of the doubt must be given to the person requesting the tax credit, as the Federal Court of Appeal stated in particular in Johnston v. Canada, [1998] F.C.J. No. 169 (Q.L.) (98 DTC 6169).
+[13] I also quote Bowman, J. (now associate chief justice) in Radage v. Canada, [1996] T.C.J. No. 730 (Q.L.) (96 DTC 1615). At subsection 46 (DTC 1625) he writes:
+. . . Each case depends on its own facts and to a degree upon the court's perception of the severity of the problem. If asked "Where do you draw the line?" I can only answer that I draw the line in any given case where my own common sense, based on the evidence and on a compassionate view of what I think Parliament was trying to achieve in section 118.3 tells me to draw it.
+(5) I do not mean by the foregoing to imply by any means that the determination be based on an arbitrary and subjective knee-jerk reaction. It must be based not only on the facts of the particular case but upon appropriate legal principles. I shall try to state briefly those principles upon which this decision is based:
+(a) The legislative intent appears to be to provide a modest amount of tax relief to persons who fall within a relatively restricted category of markedly physically or mentally impaired persons. The intent is neither to give the credit to everyone who suffers from a disability nor to erect a hurdle that is impossible for virtually every disabled person to surmount. It obviously recognizes that disabled persons need such tax relief and it is intended to be of benefit to such persons.
+(b) The court must, while recognizing the narrowness of the tests enumerated in sections 188.3 and 118.4, construe the provisions liberally, humanely and compassionately and not narrowly and technically. . . .
+[14] These principles apply to this case. I find that the impairment presented by the Appellant meets the criteria of sections 118.3 and 118.4. The appeal is thus allowed.
+Signed at Edmundston, Canada, this 12th day of December 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 20th day of April 2004.
+Sharon Moren, Translator

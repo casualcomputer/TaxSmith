@@ -1,0 +1,184 @@
+Title: Guilmette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26330/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-101-26330-guilmette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-29
+
+# Guilmette c. La Reine
+
+- Citation: 2004 CCI 101
+- Decision date: 2004-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3277, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guilmette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-29
+Référence neutre
+2004 CCI 101
+Numéro de dossier
+2003-1266(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1266(IT)I
+ENTRE :
+ANN GUILMETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 4 novembre 2003 à Québec (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelante :
+Me Alain Béland
+Avocate de l'intimée :
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de janvier, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI101
+Date : 20040129
+Dossier : 2003-1266(IT)I
+ENTRE :
+ANN GUILMETTE,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx,
+[1] Il s'agit d'un appel par voie de la procédure informelle concernant les années d'imposition 1998 et 1999.
+[2] Les questions en litige sont de savoir si l'appelante et son mari, M. Daniel Cozak, vivaient en union conjugale durant les années en litige et si une voiture appartenant à l'appelante a été utilisée pour fins d'affaires.
+[3] Les faits sur lesquels le ministre du Revenu national (le « Ministre » ), s'est appuyé pour établir ses nouvelles cotisations, sont décrits au paragraphe 12 de la Réponse à l'avis d'appel (la « Réponse » ), comme suit :
+DÉPENSES D'EMPLOI
+a) au cours des années d'imposition en litige, l'appelante était à l'emploi de la société Traitement de recyclage Industriel Inc. (ci-après, la « société » );
+b) Monsieur Daniel Cozak est actionnaire majoritaire de la société;
+c) Monsieur Daniel Cozak est le conjoint de l'appelante;
+d) l'appelante a réclamé les montants respectifs de 3 621 $ et 6 893 $ pour les années d'imposition 1998 et 1999 à titre d'autres dépenses d'emploi;
+e) les montants mentionnés au paragraphe précédant ne représentent que des dépenses pour amortissement d'un véhicule;
+f) pour chacune des années d'imposition en litige, l'appelante a produit un formulaire T777 - État des dépenses d'emploi;
+g) pour l'année d'imposition 1998, l'appelante a déclaré avoir parcouru avec son véhicule personnel, 25 000 km pour fins d'affaires sur un total de 28 000 km; et ce, pour la période du 28 août 1998 au 31 décembre 1998;
+h) pour l'année d'imposition 1999, l'appelante a déclaré avoir parcouru 10 000 km pour fins d'affaires et 10 000 km au total;
+i) en réponse à la demande du vérificateur du Ministre, l'appelante a produit un registre sur lequel elle détaillait avoir fait 29 594 km pour ses déplacements d'affaires sur un total de 35 405 km parcourus pour l'année d'imposition 1998;
+j) le véhicule qu'elle aurait utilisé pour ses déplacements a été acquis en novembre 1998;
+k) l'appelante indique avoir loué le véhicule à partir du 28 août 1998 jusqu'à son achat en novembre 1998;
+l) pour l'année d'imposition 1999, les déplacements indiqués sur le registre étaient de l'ordre de 10 162 km pour fins d'affaires et 10 162 km parcourus au total;
+m) lors d'une conversation téléphonique avec le vérificateur du Ministre, l'appelante a mentionné qu'elle quittait directement sa résidence pour rencontrer ses clients;
+n) lors d'une conversation téléphonique ultérieure avec le vérificateur du Ministre, l'appelante a mentionné qu'elle voyageait avec un copain pour se rendre au bureau et qu'elle partait du bureau, avec le véhicule, pour se rendre chez ses clients;
+o) l'appelante a refusé d'identifier le « copain » avec qui elle voyageait;
+p) sur la base de ce qui précède, le vérificateur du Ministre a considéré que le registre produit par l'appelante n'était pas valide; et a par conséquent, refusé à celle-ci les montants respectifs de 3 621 $ et 6 893 $ pour les années d'imposition 1998 et 1999 réclamés à titre d'autres dépenses d'emploi;
+q) au stade des oppositions, le représentant de l'appelante a informé la représentante du Ministre que toutes les dépenses d'essence et d'entretien du véhicule étaient payées par l'appelante et que cette dernière se faisait rembourser par la société;
+r) la représentante du Ministre a demandé au représentant de l'appelante de lui fournir la preuve de ces déplacements et du remboursement par l'entreprise; ce, afin d'appuyer les déplacements;
+s) suite à cette analyse, la représentante du Ministre en est venue aux mêmes conclusions que le vérificateur; soit, que les pièces fournies ne corroboraient pas les déplacements indiqués au registre soumis; et que, de plus, les montants indiqués étaient parfois déraisonnables.
+CRÉDIT POUR ÉQUIVALENT DE CONJOINT
+t) l'appelante a réclamé les montants respectifs de 5 918 $ et 6 290 $ à titre de montants pour personne mariée entrant dans le calcul des crédits d'impôt non remboursables, pour les années d'imposition 1998 et 1999;
+u) par avis de cotisation pour l'année d'imposition 1999, expédié à l'appelante en date du 8 mai 2000, le Ministre a réduit à « NÉANT » le montant réclamé par celle-ci à titre de montant pour personne mariée entrant dans le calcul des crédits d'impôt non remboursables;
+v) par avis de nouvelle cotisation pour l'année d'imposition 1998, expédié à l'appelante en date du 21 mars 2002, le Ministre a réduit à « NÉANT » le montant réclamé par celle-ci à titre de montant pour personne mariée entrant dans le calcul des crédits d'impôt non remboursable;
+w) le ou vers le 17 mai 2002, l'appelante a signifié au Ministre ses oppositions à l'encontre des nouvelles cotisations du 21 mars 2002 pour les années d'imposition 1998 et 1999;
+x) pour faire suite à une demande téléphonique, par laquelle l'appelante réclamait un montant de 5 380 $ à titre de montant pour équivalent de conjoint entrant dans le calcul des crédits d'impôt non remboursables, pour l'année d'imposition 1998, le Ministre a émis une nouvelle cotisation en date du 21 mai 2002, en vertu du paragraphe 152(4) de la Loi;
+y) le ou vers le 5 septembre 2002, l'appelante a signifié au Ministre son opposition à l'encontre de la nouvelle cotisation du 21 mai 2002 pour l'année d'imposition 1998;
+z) par avis de nouvelle cotisation pour l'année d'imposition 1998, expédié à l'appelante en date du 7 janvier 2003, le Ministre a réduit à « NÉANT » le montant réclamé par celle-ci à titre de montant pour équivalent de conjoint entrant dans le calcul des crédits d'impôt non remboursables;
+aa) au cours des années d'imposition en litige, l'appelante résidait au 54 Louis-Jolliet, Ste-Catherine-de-la-Jacques-Cartier (ci-après, la « résidence » );
+bb) beaucoup de dépenses personnelles passées aux dépenses de la société de Monsieur Daniel Cozak, étaient pour le bénéfice de la résidence;
+cc) parmi ces dépenses, il y avait de l'épicerie, des loisirs, vêtements et nettoyage de vêtements pour femme et autres dépenses pour l'appelante et les enfants;
+dd) de plus, plusieurs dépenses d'entretien et rénovations de la maison qui sert de résidence à l'appelante ont été payées par la société;
+ee) selon les feuillets T4 émis par la société, au bénéfice de l'appelante, celle-ci a reçu les montants respectifs de 28 000 $ et 21 250 $ pour les années d'imposition 1998 et 1999, à titre de salaires;
+ff) Monsieur Daniel Cozak a réalisé les revenus totaux de 50 367 $ et 41 511 $ respectivement, pour les années d'imposition 1998 et 1999;
+gg) l'appelante ne recevait aucune pension alimentaire et dit avoir réinvesti presque tout son salaire dans la société;
+hh) au cours de la période sous vérification, l'appelante a cotisé un montant total de 12 496 $ à titre de « Régime Enregistré d'Épargne Retraite » ;
+ii) l'appelante n'a jamais voulu justifier ces entrées de fond;
+jj) Monsieur Daniel Cozak a fourni au Ministre, un bail à titre de preuve de sa résidence;
+kk) ce bail est pour un local qui lui sert de bureau d'affaires à Trois-Rivières;
+ll) de plus, la totalité du local est réclamé à titre de dépenses d'entreprise de la société;
+mm) à la lumière de ce qui précède, le Ministre a conclu que Monsieur Daniel Cozak et l'appelante ne vivaient pas séparés au cours des années d'imposition en litige;
+nn) le Ministre a donc refusé à l'appelante le montant pour équivalent de conjoint entrant dans le calcul des crédits d'impôt non remboursables pour les années d'imposition 1998 et 1999;
+CRÉDIT/MONTANT SUPPLÉMENTAIRE POUR CHAQUE PARTICULIER
+oo) l'appelante a réclamé les montants respectifs de 925 $ et 1 000 $ à titre de supplément des montants personnels entrant dans le calcul des crédits d'impôt non remboursables, pour les années d'imposition 1998 et 1999;
+pp) selon les feuillets T4 émis par la société, au bénéfice de l'appelante, celle-ci a reçu les montants respectifs de 28 000 $ et 21 250 $ pour les années d'imposition 1998 et 1999, à titre de salaires;
+qq) Monsieur Daniel Cozak a réalisé les revenus totaux de 50 367 $ et 41 511 $ respectivement, pour les années d'imposition 1998 et 1999;
+rr) compte tenu de ce qui précède, le Ministre a déterminé que l'appelante n'avait droit à aucun montant pour l'année d'imposition 1998 et seulement à un montant de 117 $ pour l'année d'imposition 1999, à titre de montant supplémentaire entrant dans le calcul des crédits d'impôt non remboursables.
+[4] L'appelante a longuement témoigné. Elle a une formation universitaire en anthropologie. Au cours des années en litige, elle travaillait à Traitement Recyclage Industriel Inc., ou TRI, entreprise qui appartient à Daniel Cozak, qui selon l'appelante, est son ex-conjoint. M. Cozak a un doctorat en chimie et son entreprise oeuvre dans le domaine de l'environnement.
+[5] Ils ont commencé à faire vie commune en 1989 et se sont mariés en 1991. Ils ont deux enfants nés, l'un, en 1989 et l'autre, en 1991. La maison familiale du 54 Louis-Jolliet, Ste-Catherine-de-la-Jacques-Cartier a été achetée en 1992 et elle appartient à l'appelante. Elle a été payée par M. Cozak après la vente d'une première entreprise.
+[6] L'appelante relate qu'au cours de l'année 1995, il y a eu un événement de violence conjugale entre elle et son mari. La police a arrêté son mari et l'a mis en prison pour la fin de semaine. Elle produit à cet égard la pièce A-1, un engagement de la part de monsieur Cozak de garder la paix et avoir une bonne conduite avec l'interdiction de communiquer directement ou indirectement avec Ann Guilmette et défense de se trouver au 54 Louis-Jolliet, Ste-Catherine-de-la-Jacques-Cartier sauf pour fins de travail au sous-sol. Cet engagement est en date du 27 février 1995.
+[7] Le 11 juillet 1995, une ordonnance de probation est rendue. Le domicile de M. Cozak est indiqué comme étant le 54 Louis-Jolliet. Les deux seules conditions sont de ne pas molester ou ennuyer madame Ann Guilmette et de continuer à suivre le traitement qu'il a commencé. Les mots « ne pas communiquer ou tenter de communiquer directement ou indirectement avec madame Ann Guilmette » ont été rayés.
+[8] L'appelante affirme qu'à partir de cet événement de violence, elle et M. Cozak n'auraient pas vécu en union conjugale. Il n'y a toutefois jamais eu de procédure légale de séparation. Pendant une année et demie, il aurait habité dans le sous-sol ce qui lui permettait de voir ses enfants. Elle explique que même par la suite quand M. Cozak aurait pris un autre logement, il venait voir les enfants à la maison, car elle préférait que les enfants n'aillent pas chez lui.
+[9] M. Cozak serait parti pour de bon à la fin de l'année 1996, début de l'année 1997. Il a loué un logement rue St-Stanislas. Dans les années 1998 et 1999, il avait encore son propre appartement même si ce n'était pas le même. L'appelante n'est pas certaine des adresses des appartements occupés par M. Cozak. Elle affirme cependant que dans les années 1998 et 1999, ils vivaient toujours séparés. Les relations qu'ils avaient étaient des relations de travail.
+[10] Le bureau de l'entreprise était d'abord situé sur la route de l'aéroport à Ste-Foy à 25 kilomètres du domicile. Le bureau a été déménagé il y a environ quatre ans sur la rue Newton à Québec. La distance d'avec le domicile de l'appelante est maintenant d'environ 40 kilomètres. Le kilométrage pour les enfants en 1998 et 1999 était sensiblement le même.
+[11] L'appelante explique que l'entreprise est dans la conceptualisation de projets de valorisation agricole de boues de papetières ou de coupes de gazon. Il n'y avait pas de laboratoire. M. Cozak ne faisait plus d'expériences, il ne faisait que de la consultation. Si pour ces rapports, il y a des analyses à faire, il les fait faire par des laboratoires. Quant à elle, elle agit dans la partie communication.
+[12] Elle travaillait environ trois ou quatre jours dans une semaine. L'appelante relate que les salaires qu'elle déclarait, elle les réinvestissait dans l'entreprise. Ces dettes de l'entreprise à son égard sont presque toutes éteintes parce que l'entreprise les lui a remboursées d'une certaine manière.
+[13] Les déclarations de revenu de l'appelante pour les années 1998 et 1999 ont été déposées comme pièces I-1 et I-2. Ces déclarations ont été préparées par M. Cozak. L'appelante déclare un revenu d'emploi de 28 000 $. Elle réclame un montant de 3 621 $ comme autres dépenses d'emploi qui a trait à l'amortissement de la voiture.
+[14] En ce qui concerne la pièce I-3, qui se veut un journal détaillé des déplacements de l'appelante pour les années 1998 à 2000, ce n'est pas cette dernière qui l'aurait complété. Dans cette pièce, il est notamment mentionné que la voiture « Villager » a été louée du 28 août à novembre 1998, l'appelante affirme au contraire que cette voiture n'a jamais été louée.
+[15] La pièce A-2 est constituée de factures concernant la voiture Villager 1998. La première facture est en date du 24 août 1999. Le kilométrage indiqué est de 46967. La deuxième facture en date du 28 octobre 1999 montre un kilométrage de 55901. Une troisième facture est en date du 30 novembre 1999 et le kilométrage est à 59895. Une dernière facture est en date du 21 mars 2000 pour un kilométrage de 69424.
+[16] M. Mario Gaudet, à titre de concierge, a produit comme pièce A-3 un bail concernant M. Daniel Cozak. Ce bail concerne le 6 rue St-Stanislas, app. 28 et est pour la période du 1er décembre 1996 au 30 juin 1997. Une lettre en date du 7 juillet 1997 indique que le bail qu'il a signé expire le 30 juin 1997 et que le propriétaire est disposé à renouveler le bail pour une période de 12 mois du 1er juillet 1997 au 30 juin 1998 au pris de 310 $ par mois. Aucun document montrant un renouvellement du bail n'a été produit.
+[17] Madame Rachel Pelletier agent des appels à l'Agence des douanes et du revenu du Canada ( « l'ADRC » ) a témoigné. L'appelante demandait de l'amortissement pour la voiture ce qui avait été refusé au niveau de la vérification. Mme Pelletier a communiqué avec l'appelante au sujet du registre des déplacements. Cette dernière lui a demandé de communiquer avec M. Cozak. Les frais d'essence et les frais d'entretien était remboursés par l'entreprise. Mme Pelletier a demandé à voir les factures pour valider les déplacements. Elle a additionné toutes les factures pour l'année 1998 pour un total de 784 $. En calculant un dollar pour dix kilomètres, on arrivait à un nombre de kilomètres parcourus de 16 840. L'appelante disait avoir effectué 35 400 kilomètres pour affaires pour l'année 1998. C'était donc hors proportion. Les dépenses d'essence ne correspondaient pas du tout au registre des déplacements.
+[18] Madame Marie-Julie Durand, policière pour la Ville de Montréal depuis l'année 1997, a témoigné pour la partie appelante. Elle est ingénieure de formation. Avant 1997, elle a travaillé pour l'entreprise TRI pendant environ deux ans, soit de 1995 à 1997. Elle y faisait de la consultation. Elle et M. Cozak allaient rencontrer des entreprises pour essayer de trouver des contrats de consultation en valorisation de déchets. Elle pouvait y aller seule ou avec lui. Ils ont fait beaucoup de contrats pour les boues de papetières. Ils rédigeaient des rapports se rapportant au domaine environnemental. La majeure partie de son travail se passait au bureau mais il lui arrivait assez souvent d'aller rencontrer des clients potentiels chez eux comme à Trois-Rivières et ailleurs au Québec. Ils allaient voir des entreprises qui rejetaient des déchets dans le but de revaloriser ces déchets. Elle a aussi rencontré quelques agriculteurs pour des expériences. Par exemple, on prenait un terrain d'agriculture, on le séparait en parcelles, il y avait une parcelle témoin et une autre où l'on mettait des boues de papetières.
+[19] Elle utilisait pour ses déplacements le véhicule automobile de M. Cozak qui était une Tempo.
+[20] Elle connaissait Ann Guilmette parce que cette dernière était la femme de M. Cozak, son patron. Le témoin relate que Mme Guillemette a travaillé quelques fois avec eux. Ils se sont à l'occasion déplacés ensemble pour rencontrer des gens du gouvernement ou des gens de papetières.
+[21] Mme Durand relate qu'elle et son patron étaient ensemble huit heures par jour. Elle ajoute que M. Cozak n'était pas quelqu'un qui parlait beaucoup de ses affaires personnelles. Toutefois, un matin où il n'avait pas l'air en forme, il lui a expliqué qu'avec sa femme ça n'allait pas et qu'il s'était pris un logement dans le vieux Québec. C'était probablement en automne 1996. Elle n'a pas vraiment communiqué de nouveau avec lui après son départ.
+[22] M. Cozak a relaté qu'en 1995 et en 1996, il a eu des problèmes matrimoniaux avec l'appelante. Il a été à l'époque arrêté pour violence conjugale. On lui a demandé de ne pas communiquer avec madame Guilmette, mais il devait quand même se rendre à la maison pour effectuer son travail, puisque son bureau y était à ce moment là.
+[23] Il s'est trouvé un appartement à Québec, rue St-Stanislas, où il a habité environ un an et il aurait renouvelé le bail, mais il a dû le casser au terme de la deuxième période parce qu'il a déménagé à Trois-Rivières.
+[24] À Trois-Rivières, il a loué un logement au 442 Laviolette. Il a produit le bail comme pièce A-4. La date de signature est du 1er juillet 1998 pour un bail se terminant le 30 juin 1999. Il est intéressant de noter que ce bail indique comme adresse de M. Cozak le 54 Louis Jolliet.
+[25] Il dit que l'appelante s'occupe de la communication dans les projets environnementaux. Elle s'occupe aussi de faire du développement des affaires en visitant des clients et en trouvant de nouveaux marchés.
+[26] Il affirme que son logement à Trois-Rivières est sa résidence permanente. À la question : « Comment peut-il habiter Trois-Rivières et en même temps être à son bureau qui est sur la rue Newton à Québec? » , il répond que lorsqu'il a pris un bureau à Trois-Rivières, c'est que 90 p. 100 du chiffre d'affaires était avec la papetière Kruger. Présentement, le bureau de Trois-Rivières est une coquille parce que le client lui donne très peu de travail.
+[27] Monsieur Alain Tremblay est vérificateur pour l'ADRC. Il a commencé la vérification de l'entreprise TRI et ensuite les dossiers de monsieur et madame. L'appelante a indiqué son état civil de 1990 à 1996 comme étant mariée, en 1996 comme étant séparée, en 1997, mariée et 1998 à maintenant, séparée. Monsieur Cozak s'est déclaré conjoint de fait jusqu'à l'année 1995 inclusivement. Il s'est déclaré séparé à partir de l'année 1996.
+[28] Dans ses déclarations de revenu, monsieur Cozak déclarait, jusqu'en 1996 inclusivement, son adresse comme étant le 54 Louis-Jolliet à Sainte-Catherine. À partir du 10 mars 1997, il déclarait le 6 rue St-Stanislas jusqu'au 29 décembre 1998. À partir du 29 décembre 1998, l'adresse donnée est le 442 Laviolette à Trois-Rivières. Le 14 septembre 2000, l'adresse a été changée pour le 54 Louis Jolliet jusqu'au 23 juillet 2001, puis c'est revenu à l'adresse de Trois-Rivières. Pour l'appelante, c'est le 54 rue Louis-Jolliet.
+[29] En novembre 2001, monsieur Tremblay est allé quelques fois frapper à la porte du 442 Laviolette et il n'y avait pas de réponse. En décembre 2001, il y est retourné et il a vu monsieur Cozak. Il a visité l'appartement où est le bureau de Trois-Rivières. Dans les pièces, il n'y avait pratiquement pas de meubles, il n'y avait pas de frigidaire ni cuisinière, il y avait une table et une étagère dans une pièce. Il n'y avait pas de matelas ou de lit. Il a demandé à visiter la salle de bain, il y avait un lavabo et une toilette. À l'extérieur, c'était écrit TRI, il s'agissait plutôt d'un bureau, ce n'était pas une habitation à logement domestique autonome.
+[30] M. Tremblay relate que l'appelante n'encaissait pas ses salaires et que les salaires étaient systématiquement réinvestis dans la société. Beaucoup des dépenses de la société étaient consacrées aux dépenses personnelles de l'appelante, comme l'épicerie, les taxes, vidéos et cinéma. Il y avait aussi des factures relatives à des modifications à la résidence comme le revêtement extérieur de la résidence et les abords de la piscine.
+[31] M. Tremblay a obtenu des versions différentes, dépendant s'il parlait avec madame ou avec monsieur. En ce qui concerne le kilométrage, il a eu deux versions différentes. Au départ, madame partait de chez elle et allait au travail et ensuite allait voir des clients. Par la suite, elle a dit: « Non, je pars de chez moi, je vais voir des clients et après je me rends au travail. » Quand il lui a demandé qui étaient les clients, elle lui a répondu qu'elle préférait qu'il en parle à monsieur Cozak. Quand il a demandé à M. Cozak le livre de bord, il lui a dit qu'il l'aurait. Il lui a demandé de le voir immédiatement parce que ça permettrait de croire à la version des faits, mais ça a pris sept jours pour l'avoir.
+[32] En contre-interrogatoire, il admet qu'il n'a pas visité le logement de Trois-Rivières en 1998 ou en 1999. Le rapport du vérificateur a été déposé comme pièce I-6. Le rapport T2020 a été produit comme pièce I-7.
+[33] En réplique, l'appelante explique que les dépenses de maison personnelles payées par l'entreprise sont des remboursements pour les salaires et les investissements qu'elle avait faits dans la société.
+Conclusion
+[34] Les années en litige sont 1998 et 1999. À cette époque, selon la version des faits de l'appelante et de M. Cozak, ils vivaient séparément. L'appelante n'a pas mentionné au cours de son témoignage que ce dernier avait Trois-Rivières comme lieu de son domicile. Il aurait alors fallu expliquer comment il pouvait en même temps être au bureau de Québec ou encore qui dirigeait le bureau de Québec ou encore où habitait M. Cozak quand il dirigeait le bureau de Québec. Rien de cet aspect n'est moindrement ressorti du témoignage de l'appelante. Ce qui est ressorti de son témoignage était les hésitations quant aux lieux de domicile de M. Cozak. De plus, la pièce A-4 qui est le bail pour le local de Trois-Rivières, indique l'adresse de M. Cozak comme étant le 54 Louis-Jolliet.
+[35] Il faut aussi prendre en compte que les dépenses de la famille et de la maison du 54 Louis-Jolliet étaient payées par l'entreprise de M. Cozak.
+[36] Tous ces faits ne peuvent pas amener à la conclusion que l'appelante et son mari M. Cozak étaient séparés de fait.
+[37] En ce qui concerne l'usage de la voiture pour fins d'affaires, là encore la preuve n'est pas satisfaisante. C'est M. Cozak qui a complété le registre des déplacements bien après les événements. L'appelante demandait aux vérificateurs de s'enquérir auprès de M. Cozak pour avoir les explications relatives aux déplacements. Il y a une inscription voulant que la voiture ait été louée depuis le mois d'août et achetée en novembre. Selon l'appelante, la voiture n'a pas été louée. Elle a été achetée en novembre. L'agent des appels a tenté de corroborer les affirmations concernant les déplacements avec les dépenses d'essence qui étaient payées par l'entreprise. Il n'y avait aucune proportion entre ces dépenses et le kilométrage censément parcouru.
+[38] Le témoignage d'une jeune employée de l'entreprise au cours des années 1995 et 1996 ne corrobore nullement le fait que l'appelante aurait été très présente au bureau. Elle corrobore toutefois pleinement le travail exercé par l'entreprise.
+[39] Selon la prépondérance de la preuve présentée à l'audience, l'appel doit en conséquence, être rejeté.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI101
+No DU DOSSIER DE LA COUR :
+2003-1266(IT)I
+INTITULÉ DE LA CAUSE :
+Ann Guilmette et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 4 novembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 29 janvier 2004
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Alain Béland
+Avocate de l'intimée :
+Me Annick Provencher
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Alain Béland
+Étude :
+Béland, Massicotte, Petitclerc, avocats
+Québec (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

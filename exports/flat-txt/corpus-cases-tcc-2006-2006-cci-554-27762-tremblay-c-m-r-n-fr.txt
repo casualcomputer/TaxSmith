@@ -1,0 +1,142 @@
+Title: Tremblay c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27762/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-554-27762-tremblay-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-11-14
+
+# Tremblay c. M.R.N.
+
+- Citation: 2006 CCI 554
+- Decision date: 2006-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 315, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-14
+Référence neutre
+2006 CCI 554
+Numéro de dossier
+2005-2759(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-2759(EI)
+ENTRE :
+ANDRÉ TREMBLAY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 3 octobre 2006, à Roberval (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Pierre Hébert
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI554
+Date : 20061114
+Dossier : 2005-2759(EI)
+ENTRE :
+ANDRÉ TREMBLAY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Monsieur André Tremblay (l’« appelant ») interjette appel d’une décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance-emploi (la « Loi »). Dans une lettre datée du 22 juin 2005, le ministre informa l’appelant de sa décision selon laquelle il avait occupé un emploi assurable au cours des périodes pendant lesquelles il était au service de la compagnie Aménagement Myr Inc. (le « payeur »), pendant le nombre d’heures et pour les rémunérations suivantes :
+i) du 26 avril au 2 novembre 1999, pendant 1482 heures et pour une rémunération totalisant 16 976,72 $;
+ii) les 24 et 25 novembre 1999, pendant 16 heures pour une rémunération totalisant 183,28 $;
+iii) du 14 au 17 février 2000, pendant 32 heures et pour une rémunération totalisant 345,65 $;
+iv) du 29 février au 2 mars 2000, pendant 24 heures et pour une rémunération totalisant 259,24 $;
+v) le 20 mars 2000, pendant 8 heures et pour une rémunération de 86,41 $;
+vi) du 18 avril au 22 septembre 2000, pendant 1308 heures et pour une rémunération totalisant 14 128,78 $
+[2] Le ministre a fondé sa décision sur les hypothèses de fait suivantes, énoncés au paragraphe 6 de la Réponse à l’avis d’appel :
+a) le payeur a été constitué en société le 4 janvier 1994;
+b) la compagnie BMR Satellite inc. détenait toutes les actions votantes du payeur;
+c) les actions de BMR Satellite inc. étaient réparties comme suit :
+- Mario Richard avec 35% des actions,
+- Josée Laliberté, conjointe de Mario Richard, avec 15% des actions,
+- Clairette Tremblay, mère de Josée Laliberté, avec 50% des actions.
+d) le payeur exploitait une entreprise forestière, plus précisément dans le débroussaillage;
+e) les principaux clients du payeur étaient Bowater et Abitibi‑Consolidated;
+f) le payeur embauchait de 30 à 90 débroussailleurs par année;
+g) durant les périodes en litige, l’appelant a travaillé comme contremaître pour le payeur;
+h) il a travaillé à Port-Cartier, à Lebel sur Quévillon et au Lac-St-Jean;
+i) en plus de son travail de contremaître, l’appelant réparait les scies mécaniques dans un garage mobile en forêt;
+j) il travaillait de 4 à 7 jours par semaine;
+k) malgré un horaire de travail variable, de 40 à 80 heures par semaine, l’appelant recevait une rémunération fixe à chaque semaine;
+l) durant les périodes en litige, l’appelant rendait des services au payeur et faisait du cumul d’heures;
+m) en 1999, l’appelant a obtenu un relevé d’emploi du payeur indiquant qu’il avait travaillé du 17 mai au 15 octobre, accumulé 1 210 heures assurables et gagné une rémunération assurable totalisant 16 500 $;
+n) en 2000, l’appelant a obtenu un relevé d’emploi du payeur indiquant qu’il avait travaillé du 15 mai au 22 septembre, accumulé 1 140 heures assurables et gagné une rémunération assurable totalisant 14 820 $;
+o) les relevés d’emploi émis par le payeur ne reflètent pas la réalité quant aux périodes de travail ni quant aux heures réellement travaillées ni quant à la rémunération assurable de l’appelant;
+p) en 1999, l’appelant a travaillé pour le payeur du 26 avril au 2 novembre 1999, pendant 1 482 heures et pour une rémunération totalisant 16 976,72 $ et les 24 et 25 novembre 1999, pendant 16 heures et pour une rémunération totalisant 183,28 $;
+q) en 2000, l’appelant a travaillé pour le payeur du 14 au 17 février pendant 32 heures et pour une rémunération totalisant 345,65 $, du 29 février au 2 mars 2000, pendant 24 heures et pour une rémunération totalisant 259,24 $, le 20 mars 2000, pendant 8 heures et pour une rémunération de 86,41 $ et du 18 avril au 22 septembre 2000, pendant 1 308 heures et pour une rémunération totalisant 14 128,70 $.
+[3] Parmi les faits énoncés au paragraphe 6 de la Réponse à l’avis d’appel, l’appelant n’a admis que les faits énoncés aux sous-paragraphes 6a), 6b), 6c), 6d), 6f), 6g), 6i), 6j), 6m) et 6n). Il a nié tous les autres sous-paragraphes.
+[4] Il convient de souligner que la position de l’appelant est à l’effet que les relevés d’emploi (I-5) sont véridiques en ce qui a trait aux périodes pendant lesquelles il avait travaillé pour le payeur, au nombre d’heure assurables et à la rémunération assurable. Ces relevés d’emploi révèlent que :
+i) en 1999, l’appelant avait travaillé pour le payeur du 17 mai au 15 octobre et accumulé 1 210 heures assurables et gagné une rémunération assurable totalisant 16 500 $;
+ii) en 2000, l’appelant avait travaillé pour le payeur du 15 mai au 22 septembre et accumulé 1 140 heures assurables et gagné une rémunération assurable totalisant 14 820 $.
+Contexte
+[5] Le payeur a plaidé coupable en 2004 d’avoir établi de faux relevés d’emploi au nom de ses travailleurs dans les années concernées et a payé une amende de 50 000 $ à cet égard. Le payeur avait établi notamment un système de « banquage » d’heures, en plus d’établir des relevés d’emploi pour des périodes pendant lesquelles les employés ne travaillaient pas. Des agents du RPC/AE ont rendu des décisions dans le cadre de leurs enquêtes sur les pratiques du payeur à l’égard de 24 de ses travailleurs et seulement 9 d’entre eux (dont l’appelant) ont interjeté appel de la décision du ministre.
+[6] Lors de la perquisition effectuée chez le payeur le 6 mai 2003 par RHDCC en collaboration avec la GRC, deux chemises (pièces 1-2 et 1-3) contenant des informations sur l’appelant liées aux années 1999 et 2000 ont été saisies. Le ministre a allégué que les documents perquisitionnés indiquaient clairement en détail les renseignements sur les jours travaillés par l’appelant hors des périodes indiquées sur les relevés d’emploi. Le ministre est convaincu que ces documents prouvent que l’appelant avait travaillé pour le payeur hors des périodes indiquées sur les relevés d’emploi pendant 36 jours et 29 jours en 1999 et 2000 respectivement, et ce, à raison de 8 heures par jour.
+[7] L’appelant a soutenu que les informations qui apparaissaient sur les documents saisis indiquaient tout simplement les jours où il avait rendu des services au payeur à titre d’entrepreneur indépendant. Selon l’appelant, les services ainsi rendus au payeur étaient liés à la réparation et à l’entretien des débroussailleuses du payeur.
+[8] Les passages pertinents de la déclaration statutaire (pièce I-3) signée par l’appelant le 23 février 2004 en présence de monsieur Réal Couture, un agent d’enquête des fraudes majeures à l’emploi de Développement des ressources humaines du Canada, et un agent de la Gendarmerie Royale du Canada (« GRC »), se lisent ainsi :
+« … En plus de contremaître, je répare les scies dans un garage mobile en forêt, j’ai de l’expérience et une formation dans le domaine. En 2002, j’ai terminé de travailler le 11 octobre 2002 et je n’ai pas retravaillé même pas dans mon garage. D’ailleurs, personne n’a jamais travaillé dans mon garage. Lorsque vous me demandez si Heintje Gilbert a travaillé à réparer des scies dans mon garage, je vous dis que non. Lorsque vous me dites que vous m’avez vu sur une cassette vidéo, en train de faire du débroussaillage ainsi que le repas pour les employés, je vous réponds que j’étais en forêt point final. Lorsque vous me montrez des documents où il y apparaît des dates, je vous dis que je n’ai pas travaillé dans ces périodes. Lorsque vous me montrez un dossier avec mon nom et où il y est inscrit " heures accumulées " je vous réponds que c’est la secrétaire qui a inscrit ça, ce n’est pas moi…»
+Témoignage de l’appelant
+[9] L’appelant témoigne que :
+i) il avait une formation de mécanicien;
+ii) le payeur lui avait octroyé un contrat d’entreprise aux termes duquel il s’était engagé à réparer et à maintenir en bon état les débroussailleuses du payeur en contrepartie d’une somme forfaitaire annuelle que l’appelant a été incapable de préciser malgré maintes et maintes questions à cet égard. L’appelant a ajouté que le payeur lui avait remboursé le coût des pièces et des matériaux qu’il avait achetés pour réparer les débroussailleuses. L’appelant a relaté qu’il avait réparé pendant l’hiver environ 60 débroussailleuses en 1999 et environ le même nombre en 2000. Il a expliqué qu’il rendait ce service au payeur à titre d’entrepreneur indépendant en ce qu’il accomplissait ce travail dans son garage, à son gré et sans que le payeur ne le supervise. Enfin, l’appelant a donné notamment les explications suivantes sur les modalités de paiement de la contrepartie qui lui était due : « Il me remettait ça sur mon salaire au printemps. Il me remettait ça sur mes périodes d’emploi… Il grossissait ma paye… »;
+iii) les documents saisis lors de la perquisition contenaient en fait ses notes personnelles quant au jour où il avait réparé les débroussailleuses dans le cadre du contrat d’entreprise qui lui avait été octroyé;
+iv) monsieur Couture et l’agent de la GRC l’avaient forcé à signer la déclaration statutaire en le menaçant de " couper son assurance-chômage ". L’appelant a expliqué qu’il n’avait pas collaboré avec monsieur Couture parce qu’il s’était senti menacé par ce dernier et par l’agent de la GRC. Il a relaté qu’il n’avait pas livré à monsieur Couture ses explications quant aux documents saisis qui le concernaient parce qu’il était effrayé. L’appelant a affirmé que ce n’est que lors de cette rencontre du 23 février 2004 qu’il avait appris de monsieur Couture que le payeur avait mis en place un système de « banquage » d’heures. Enfin, l’appelant a témoigné qu’il ne se souvenait pas d’avoir parlé à madame Lyne Courcy, l’agente des appels.
+Témoignage de monsieur Réal Couture
+[10] Monsieur Réal Couture, un témoin dont la crédibilité n’a pas à être mise en doute dans le présent litige, a déclaré que :
+i) dans le cadre de son enquête sur les activités du payeur en 2004, il avait rencontré, 24 employés du payeur, dont l’appelant;
+ii) il avait rencontré l’appelant à Dolbeau aux bureaux de RHDCC le 23 février 2004 en présence d’un agent de la GRC;
+iii) il se souvenait du peu de collaboration dont avait fait preuve l’appelant; celui-ci avait refusé systématiquement de répondre à la plupart des questions qui lui avaient été posées. Monsieur Couture a expliqué qu’il se souvenait de ce fait parce que l’appelant était le seul de 24 employés qui n’avait pas collaboré. Il a ajouté que ce fait explique aussi la courte durée de cette rencontre (37 minutes) et la courte déclaration statutaire qui en avait résulté;
+iv) ni monsieur Couture ni l’agent de la GRC n’avaient menacé directement ou indirectement l’appelant. L’agent de la GRC n’avait pas posé de questions à l’appelant.
+Analyse et conclusion
+[11] La preuve de l’appelant dans la présente affaire reposait essentiellement sur son témoignage qui, pour le moins, m’a paru peu crédible. D’abord, toutes les explications de l’appelant liées aux documents saisis qui le concernaient semblaient invraisemblables. En effet, je ne vois pas l’utilité pour l’appelant de noter sur des feuilles uniquement les dates où il aurait réparé les débroussailleuses ni l’utilité de remettre ces feuilles au payeur puisque l’appelant a témoigné que la contrepartie convenue avec le payeur pour faire ce travail était une somme forfaitaire. Je constate que ces feuilles indiquent que l’appelant aurait réparé des débroussailleuses non seulement pendant l’hiver comme il l’a affirmé dans son témoignage, mais aussi pendant d’autres périodes de l’année.
+[12] De façon générale, l’appelant était élusif, évasif et incompréhensible. Le témoignage de l’appelant quant à la contrepartie (et aux modalités de paiement de celle-ci) négociée avec le payeur pour réparer les débroussailleuses en est l’illustration parfaite. Le temps que l’appelant mettait à répondre lorsque contre-interrogé, ses hésitations, sa mine et ses trous de mémoire n’ont fait que confirmer mes doutes quant à sa crédibilité. Son incapacité de donner des explications sur la nature et les modalités du contrat d’entreprise qui l’aurait lié au payeur ou son refus de le faire m’ont convaincu qu’un tel contrat d’entreprise n’existait pas. À l’appui de son témoignage il aurait pu produire des pièces justificatives liées à l’achat de pièces de remplacement qu’il avait payées. Il ne l’a pas fait bien qu’il aurait été en mesure de le faire. J’en infère que cette preuve lui aurait été défavorable. Il avait la possibilité de soumettre en preuve ses déclarations de revenus pour les années concernées, déclarations qui auraient pu démontrer que l’appelant avait gagné des revenus d’entreprise pendant ces années mais il ne l’a pas fait.
+[13] L’affirmation de l’appelant selon laquelle qu’il n’avait pas divulgué, lors de la rencontre du 23 février 2004, son contrat d’entreprise avec le payeur parce qu’on l’avait menacé ne m’a pas convaincu. Je m’explique difficilement pourquoi l’appelant n’a pas dénoncé à l’agente des appels les menaces dont il aurait fait l’objet et pourquoi il ne lui aurait pas divulgué le contrat d’entreprise qu’il aurait conclu avec le payeur. L’appelant n’a pas donné d’explications sur ces omissions. Pourtant l’appelant n’a jamais déclaré que l’agente des appels l’avait intimidé ou
+menacé d’une façon quelconque. J’imagine que l’appelant n’a pas confiance en quelque fonctionnaire que ce soit!
+[14] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2006CCI554
+Nº DU DOSSIER DE LA COUR : 2005-2759(EI)
+INTITULÉ DE LA CAUSE : ANDRÉ TREMBLAY ET M.R.N.
+LIEU DE L’AUDIENCE : Roberval (Québec)
+DATE DE L’AUDIENCE : le 3 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 novembre 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Pierre Hébert
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Pierre Hébert
+Étude : Simard Boivin Lemieux, avocats
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

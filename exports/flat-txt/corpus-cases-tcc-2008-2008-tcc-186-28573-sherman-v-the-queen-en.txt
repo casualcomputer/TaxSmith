@@ -1,0 +1,363 @@
+Title: Sherman v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28573/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-186-28573-sherman-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-03
+
+# Sherman v. The Queen
+
+- Citation: 2008 TCC 186
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1074, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sherman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-03
+Neutral citation
+2008 TCC 186
+File numbers
+2005-1604(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1604(IT)G
+BETWEEN:
+SIMONE SHERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of David M. Sherman (2005‑1605(IT)G) on May 7, 8, 9, June 21 and September 25, 2007
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Robert McMechan
+Counsel for the Respondent:
+Ernest Wheeler
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 1994, 1995, 1996, 1997, 1998, 1999 and 2000 taxation years is dismissed.
+The respondent is entitled to costs, with one set of counsel fees only for this and the appeal of David M. Sherman.
+Signed at Toronto, Ontario, this 3rd day of April, 2008.
+"J. Woods"
+Woods J.
+Docket: 2005-1605(IT)G
+BETWEEN:
+DAVID M. SHERMAN
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Simone Sherman (2005‑1604(IT)G) on May 7, 8, 9, June 21 and September 25, 2007
+at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Robert McMechan
+Counsel for the Respondent:
+Ernest Wheeler
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 1994 and 1995 taxation years is dismissed.
+The respondent is entitled to costs, with one set of counsel fees only for this and the appeal of Simone Sherman.
+Signed at Toronto, Ontario, this 3rd day of April, 2008.
+"J. Woods"
+Woods J.
+Citation: 2008TCC186
+Date: 20080403
+Dockets: 2005-1604(IT)G
+2005-1605(IT)G
+BETWEEN:
+SIMONE SHERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+DAVID M. SHERMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in these appeals under the Income Tax Act is whether, and to what extent, the appellants are entitled to deduct capital cost allowance (CCA) in respect of computer software acquired by them in 1994.
+[2] CCA deductions in respect of the software were claimed by the appellants in the aggregate amount of $900,000 for the 1994 taxation year, based on the depreciation rate applicable to property described in Class 12 of Schedule II to the Income Tax Regulations.
+[3] The deductions have been disallowed by the Minister of National Revenue in their entirety.
+[4] The respondent attempts to support the reassessments on several grounds, which are summarized below.
+(a) Paragraph 1102(1)(c) of the Regulations prohibits CCA from being claimed because the computer software was not acquired for the purpose of gaining or producing income.
+(b) The appellants did not acquire “computer software,” within the applicable meaning of that term, because they acquired only a right to market, not full ownership rights or even a right to use.
+(c) The software was not “available for use,” as that term is defined, and accordingly its cost is excluded from the pool of expenditures that qualify for CCA by virtue of subsection 13(26) of the Act.
+(d) The purchase price for the software, $1,800,000, was contingent at the relevant time, and consequently the software had no cost for CCA purposes.
+(e) Section 69 of the Act applies to reduce the cost to nil because the software had no value and was acquired from a non-arm’s length person.
+[5] The reassessments under appeal are for the 1994 and 1995 taxation years of David Sherman, and for the 1994 to 2000 taxation years, inclusive, of Simone Sherman. The only issue to be determined, however, is the entitlement to CCA for the 1994 taxation year. The reassessments for the other taxation years made consequential adjustments only.
+[6] The appeals were heard together on common evidence over a period of five days.
+[7] Viva voce evidence on behalf of the appellants was presented by: (1) the appellants themselves; (2) Peter Hart, a lawyer and businessman who sold the software to the appellants; (3) Brian Bawden, a lawyer and former partner of Osler, Hoskin & Harcourt; (4) Janet Baccarani, a chartered accountant and former vice president of Carswell in charge of tax publications; (5) Paul Foraker, a software test engineer based in San Jose, California; and (6) Dennis Leung and Howard Johnson, business valuators with Campbell & Associates.
+[8] The respondent did not call any witnesses.
+Facts and evidence
+[9] The following summary of facts and evidence includes both findings of fact and summaries of testimony and other evidence.
+[10] The appellants, David and Simone Sherman, have been married for several years and both have professional careers.
+[11] Mr. Sherman is a tax lawyer who is well known as an author and editor of tax publications for Carswell Publishing, including annotated versions of the Income Tax Act and the Excise Tax Act, Department of Finance Technical Notes, and a comprehensive GST service. He also has an extensive background in computer software design and programming.
+[12] Mrs. Sherman is a chartered accountant who, during the relevant period, was employed by Revenue Canada.
+Development of the software
+[13] The computer software that is the subject of these appeals was the brainchild of Peter Hart, a former Bay Street lawyer who early in his career branched off into business. One of the primary focuses of Mr. Hart’s business ventures was the development of computer applications for the legal profession.
+[14] A U.S.-based publisher of legal material, Clark Boardman, was a major funder of the initial development work. It subsequently became part of the Thomson publishing organization.
+[15] In the late 1980s, Clark Boardman was interested in developing software that could convert its books into electronic form. The publisher retained Mr. Hart for this purpose, who by this time had developed a concept of organizing electronic books into a user-friendly format that resembled a library shelf.
+[16] At the beginning of the project, Mr. Hart hired five computer programmers, including Mr. Sherman with whom he had worked on an earlier project.
+[17] Clark Boardman provided most, if not all, of the funding for a period of time, but Mr. Hart retained ownership of the software through a Canadian corporation.
+[18] In 1990, Clark Boardman, now owned by Thomson, discontinued its involvement in the project because Thomson wanted its entire organization to have a consistent approach to electronic publishing.
+[19] Also in 1990, Mr. Hart moved from Canada to the United States where he continues to reside.
+[20] After Clark Boardman’s withdrawal, Mr. Hart looked elsewhere for partners to fund the project. For a short period, he financed the project himself, and then at the end of 1990 he entered into a partial funding arrangement with Osler, Hoskin & Harcourt, who had previously participated in the project informally as a sounding board.
+[21] The result of this development work was the creation of a software application program called The Compleat Desktop for Lawyers (“The Compleat Desktop”).
+[22] Near the end of 1991, The Compleat Desktop was ready to be used in a pilot project by the Osler law firm. Notwithstanding that the pilot was successful, the firm decided to terminate its arrangement with Mr. Hart early in 1992.
+[23] At this point, the total development costs for The Compleat Desktop exceeded $1,000,000.
+[24] After Osler, Hoskin & Harcourt withdrew, Mr. Hart made extensive efforts to market the software either to another law firm or to a publisher. For this purpose, the product was simplified by removing some secondary applications and the software was renamed The Compleat Carrel.
+[25] During the period from 1992 to 1994, Mr. Hart made at least 50 serious demonstrations of the software, but all were to no avail. Publishers came close to concluding deals several times, but none came to fruition.
+[26] The major competitor to The Compleat Carrel was “Folio,” which was the search tool used by some of the major publishers. Although the two software products are similar, they are not identical. The Compleat Carrel has some functions that Folio does not have.
+[27] During this period, Mr. Hart became aware that computer software transactions were being marketed in Canada to groups of investors and it occurred to him that The Compleat Carrel could perhaps be marketed in this manner. He had discussions with Mr. Sherman, among others, about being involved in such a venture.
+[28] Rather than being part of an investor group, Mr. Sherman proposed to Mr. Hart that he acquire The Compleat Carrel himself, without third party participation.
+[29] Mr. Sherman was in a good position to market the software because he was intimately familiar with it, having worked on its development and having used it himself as an aid in his writing and editing for Carswell.
+[30] Mr. Sherman testified that his initial focus was to market The Compleat Carrel in conjunction with tax material that was readily available, such as the Income Tax Act, the Excise Tax Act, and government bulletins. He also testified that he retained copyright on annotations to the material that he had produced for Carswell.
+[31] Further, Mr. Sherman testified that the software had several potential revenue sources, including software licence fees, charges for each book sold, fees from publishers to market their product, and service fees to maintain databases for professional firms.
+[32] The transaction proposed by Mr. Sherman was accepted by Mr. Hart, and on October 31, 1994 the appellants acquired certain rights to The Compleat Carrel. As will be seen below, the arrangement lasted just a few weeks.
+[33] The following paragraphs briefly outline the relevant agreements and events surrounding these transactions. Details of the more relevant agreements will be provided later.
+Co-ownership agreement – December 1, 1993
+[34] The appellants testified that they, and particularly Mrs. Sherman, had been concerned for some time about Mr. Sherman’s revenue being too dependent on Carswell.
+[35] On December 1, 1993, the appellants signed a co-ownership agreement under which they agreed to endeavour to acquire one or more types of software or manuscripts to supplement and eventually replace their respective existing sources of income (Ex. AR-1, Tab 26). The agreement contemplates that the property to be acquired could include property written or created in whole or in part by the appellants or by third parties.
+[36] The Compleat Carrel was acquired by the appellants as co-owners (and not as partners) in accordance with this agreement.
+Acquisition of software by appellants – October 31, 1994
+[37] On October 31, 1994, Mr. Hart and the appellants concluded an agreement under which the appellants acquired rights to The Compleat Carrel.
+[38] The stated consideration for the software was $1,800,000, which was to be paid in full on the third year anniversary. An interest-bearing promissory note (the “Promissory Note”) evidenced the obligation.
+[39] Under the terms of a Consulting Agreement, Mr. Hart agreed to provide consulting services in respect of the software for a period of 15 months for a total fee of $105,000. The fee, which was payable regardless of whether Mr. Hart’s services were used, was payable in two tranches, $35,000 on November 1, 1994, and $70,000 on October 31, 1995.
+Transfer of software to corporation – December 7, 1994
+[40] On December 7, 1994, approximately five weeks after the appellants acquired the software, they transferred it to a wholly-owned corporation on terms that are typical of rollover transactions subject to section 85 of the Act.
+[41] The transfer documents were not introduced into evidence but it is not in dispute that the software was transferred to 1108025 Ontario Inc. (“Softcorp”) in consideration of the assumption by Softcorp of one-half of the purchase price obligation and by the issuance of Softcorp common shares. The appellants were released from that part of the obligation that was assumed by Softcorp and they remained personally liable for the other half. Mr. Sherman also received a royalty-free licence from Softcorp to use the software in his other business activities.
+[42] Mr. Sherman testified that it was always his intent to transfer the software to a corporation after claiming CCA for the first year (Transcript, May 8, p. 283). This objective required that he retain his interest in the software until after his fiscal year end on October 31, 1994, and that Mrs. Sherman retain her interest in the software until after her fiscal year end on November 30, 1994.
+Sale of Softcorp shares to Hart – December 1994 and January 1995
+[43] In a letter from Mr. Hart to the appellants dated December 15, 1994, which was approximately six weeks after the appellants’ acquisition of the software, Mr. Hart agreed to the appellants’ request to take the software back through an acquisition of the shares of Softcorp. The letter expresses two reasons for Mr. Hart’s acquiescence to this request - an acknowledgement that the appellants’ circumstances had changed, and Mr. Hart’s own interest in pursuing internet applications of The Compleat Carrel. Shortly after this, the shares of Softcorp were transferred to Mr. Hart.
+[44] The unwind documents were not entered into evidence, but based on other evidence the transaction was implemented in the manner outlined in section 5.8 of the Software Warranty Agreement (set out below). Accordingly, the Softcorp shares were transferred to Mr. Hart in satisfaction of, among other things, the portion of the purchase price obligation retained by the appellants (i.e., $900,000 payable in three years). The sale of the shares was completed in two tranches, the first on December 28, 1994 and the second on January 12, 1995.
+[45] As part of this arrangement, Mr. Hart also received a cash payment of $64,000, which was described in the testimony as a present-valued prepayment of the balance owing under the Consulting Agreement. Since $35,000 had already been paid under this agreement, a total of $99,000 was paid to Mr. Hart.
+Subsequent transactions
+[46] A few months after the shares of Softcorp were acquired by Mr. Hart, the corporation defaulted on its obligation, and Mr. Hart realized on his security, which was the software.
+[47] Since that time, Mr. Hart continues to own the software. It has never been marketed and Mr. Hart has pursued other business interests. According to Mr. Hart’s testimony, one of his main reasons for not pursuing business opportunities with The Compleat Carrel was the death of an individual with whom he had wished to partner on this venture.
+Reporting of transactions for tax purposes
+[48] The transactions described above were reported by the appellants for tax purposes in the following manner.
+(a) In respect of the appellants’ acquisition of the software on October 31, 1994, they each claimed a CCA deduction in the amount of $450,000 for the 1994 taxation year. The aggregate deductions, $900,000, is in accordance with the depreciation rate of 100 percent for Class 12 property, and the half-year rule applicable in the year of acquisition.
+(b) In respect of the transfer of the software to Softcorp on December 7, 1994, the appellants applied the elective rollover provisions of section 85 of the Act in order to avoid recapture of CCA.
+(c) In respect of the sale of the Softcorp shares to Mr. Hart in December 1994 and January 1995, the appellants reported capital gains of approximately $450,000 each. However, the capital gains were offset almost entirely by the $500,000 lifetime capital gains exemption that is available under section 110.6 of the Act for dispositions of shares of certain private corporations.
+Relevant details of agreements
+[49] The acquisition of the software by the appellants was implemented through a series of agreements all made on October 31, 1994. Some of the more salient provisions in the agreements are set out in this section.
+[50] The main agreement was a Software Acquisition Agreement, which described the rights acquired as including ownership of the software for the purpose of the preparation and use of legal information by lawyers, accountants and consultants throughout North America. Mr. Hart retained residual rights, including rights outside North America and the right to market to others.
+[51] The purchase price for the software was stated to be $1,800,000, which was payable in three years with interest at the rate of seven percent. The interest was payable quarterly commencing on January 31, 1995, but no interest was payable for any part of a three-month period.
+[52] Pursuant to the Software Acquisition Agreement and a Software Warranty Agreement, the appellants were permitted to transfer the software to a corporation wholly-owned by them.
+[53] Under a Software Security Agreement, Mr. Hart was granted a security interest in the software to secure the purchase price obligation. Mr. Hart acknowledged on cross-examination that he had not registered this interest.
+[54] Under a Software Warranty Agreement, Mr. Hart represented and warranted for a period of one year that the appellants could expect a business that generates revenues contemplated by a marketing plan. The marketing plan was identified at the hearing as a document dated September 30, 1994 and titled “The Compleat Carrel Marketing Plan” (Ex. AR-1, Tab 35).
+[55] Due to the relevance of the Software Warranty Agreement to the issues in these appeals, some of its provisions are set out below. For purposes of clarity, I note that the references to “Amanuenses” in these excerpts are to Mr. Hart’s trade name.
+ARTICLE 2
+COMMERCIAL VALUE WARRANTY
+2.1 SALES REVENUE – Amanuenses represents and warrants (the “Commercial Value Warranty”) that the Shermans can reasonably expect a business that uses the Software as contemplated by the Marketing Plan to generate the sales revenues projected in the Marketing Plan.
+ARTICLE 3
+REMEDIES, RIGHTS & OBLIGATIONS
+3.1 LIMITED RECOURSE – The parties agree that if, on or before October 31, 1995, the Shermans have notified Amanuenses that Amanuenses is in breach of its Commercial Value Warranty, and if Amanuenses is then actually in breach of its Commercial Value Warranty, the only liability of Amanuenses and the only remedy for the Shermans shall be the transfer to Amanuenses of all the right, title and interests acquired by the Shermans in and to the software in satisfaction of the Principal and Interest owing under the Software Acquisition Agreement and the orderly termination of the Main Agreements in accordance with the termination provisions of this Agreement.
+3.2 TERMINATION NOTICE – On or before October 31, 1995, the Shermans may give notice (the “Termination Notice”) to Amanuenses. The Termination Notice must include:
+(a) the claim by the Shermans that Amanuenses is in breach of the Commercial Value Warranty;
+(b) the reasons and particulars of the Shermans’ claim; and
+(c) their intent to transfer to Amanuenses all the right, title and interests acquired by the Shermans in and to the Software in satisfaction of the Principal and Interest owing under the Software Acquisition Agreement and to cooperate in the orderly termination of the Main Agreements in accordance with the termination provisions of this Agreement.
+3.3 AMANUENSES OPTIONS – On receipt of the Notice of Termination, Amanuenses has five business days within which to give notice to the Shermans of its decision to either:
+(a) dispute the reasons given by the Shermans and
+(i) ask the Shermans to withdraw the Termination Notice, or
+(ii) begin dispute resolution proceedings;
+or,
+(b) accept the Notice of Termination and cooperate with the Shermans in completing the provisions set out in this Agreement for the transfer to Amanuenses of all the right, title and interests acquired by the Shermans in and to the Software in satisfaction of the Principal and Interest owing under the Software Acquisition Agreement and the termination of the Main Agreements.
+ARTICLE 5
+PERMITTED TRANSFER TO A CORPORATION
+5.1 TRANSFER TO A CORPORATION – The Shermans may transfer all their right, title and interest in and to the Software to an Ontario corporation (“SoftCorp”) wholly owned by them, in consideration of SoftCorp:
+(a) assuming the obligation to pay all or part of the Principal and Interest owing under the Software Acquisition Agreement;
+(b) assuming all the other obligations of the Shermans in this Agreement and in the Main Agreements; and
+(c) acknowledging that the Software is subject to the securities granted in the Security Agreement.
+5.3 ACCEPTANCE – On receipt of the Transfer Notice, if on the date of the transfer, SoftCorp has no substantial assets or liabilities other than the rights and Obligations acquired with the transfer, Amanuenses shall accept the transfer and, to the extent that SoftCorp has assumed the Obligations, shall release the Shermans and look to SoftCorp for the performance of the Obligations.
+5.7 JOINT TERMINATION NOTICE – If the Shermans have transferred all of the Software to SoftCorp and retained their personal liability for payment of all or part of the Principal and Interest owing under the Software Acquisition Agreement, they may join with SoftCorp to give a joint Notice of Termination (the “Joint Notice of Termination”) in the same way and to the same effect as the giving of a Notice of Termination pursuant to Article 3 of this Agreement.
+5.8 TERMINATION INVOLVING THE TRANSFER OF SOFTCORP SHARES – If a Termination Date has been set as a consequence of a Joint Termination Notice, then, as between Amanuenses and the Shermans, on or before the Termination Date, the Shermans shall transfer all the shares of SoftCorp to Amanuenses in satisfaction of the Principal and Interest owing by the Shermans to Amanuenses on the Termination Date, as follows:
+(a) […] (h).
+[56] Mr. Hart testified that the Marketing Plan was a reworking of material that he would have prepared for himself over the years, with modifications for the transaction with the appellants (Transcript, May 9, p. 57, 58). The plan contemplates that the software could be marketed to lawyers, accountants and consultants throughout North America with anticipated revenues of US$25,200 in the first year and rising to US$29,119,800 in year eight.
+The Carswell relationship
+[57] Carswell Publishing (now part of Thomson) and its predecessor (De Boo) have been Mr. Sherman’s main source of income for some time. Historically, the relationship has been a very good one, and has generated significant fees for Mr. Sherman.
+[58] On July 7, 1994, Mr. Sherman’s principal contact at Carswell, Barry Garnet, was summarily fired (Ex. AR-1, Tab 58, p. 7). His superior, Gary Rodrigues, took over on an interim basis until a replacement could be found.
+[59] At that time, Mr. Rodrigues held the view that Mr. Sherman was grossly overpaid for his work (Ex. AR-1, Tab 28). Consequently, late in July Carswell informed Mr. Sherman that it had decided to cut back on his services and use a team of editors to take on much of this work.
+[60] Over the next few months, Mr. Sherman vigourously tried to reverse this decision.
+[61] Effective October 17, 1994, Carswell hired Janet Baccarani to be in charge of its tax publications. She was to report to Mr. Rodrigues until a new vice president was named (Ex. AR-1, Tab 37). Ms. Baccarani had become aware of the Carswell opportunity through Mr. Sherman, whom she had met at various tax conferences.
+[62] Ms. Baccarani testified that, after some internal discussion at Carswell, an editor was retained on a trial basis to do some of the annotation work previously done by Mr. Sherman.
+[63] After a period of time, Ms. Baccarani formed the view that Mr. Sherman’s services were worth what Carswell was paying. Her thinking was influenced partly by the positive feedback that she received about Mr. Sherman’s work at a tax conference in late November 1994, and partly by the less than stellar results produced by the trial editor.
+[64] Mr. Sherman testified that, by early December 1994, Ms. Baccarani made it clear to him that she now had control over the work that he did for Carswell. As a result, according to his testimony, the appellants decided to attempt to negotiate out of the arrangement with Mr. Hart so that Mr. Sherman could devote most of his time to Carswell. He said that discussions with Mr. Hart took place in early to mid-December (Transcript, May 8, p. 130, 134). A further stated reason for the change of heart, but not a significant one, was that Mrs. Sherman had sustained a repetitive strain injury.
+Value of the software
+[65] In confirming the reassessments, the Minister assumed that the fair market value of the software was nil at the time of the acquisition by the appellants.
+[66] The appellants introduced expert testimony as to the value from Howard Johnson and Dennis Leung, who are with the business valuation firm, Campbell & Associates. They estimated the value of the software at the relevant time to be in a range from $1,300,000 to $1,900,000.
+[67] The respondent submits that this valuation is not reliable because it is based to a great extent on Mr. Sherman’s own view as to the potential market for the software. I completely agree with this. Whether there would be a market for the software is a key factor in the valuation of the software, and the considerable reliance that the valuators placed on Mr. Sherman’s self-interested views renders their opinion virtually worthless, in my view.
+[68] The testimony of Mr. Bawden and Mr. Foraker satisfies me that the software has useful functions, but that does not mean that it could be successfully marketed to professional firms.
+[69] I find that the evidence as a whole is not sufficient to rebut the Minister’s assumption that the value of the software at the relevant time was nil.
+Analysis
+[70] The respondent raises five arguments in support of the reassessments, and these are briefly outlined at the beginning of these reasons. Some are what I would describe as technical arguments, and others raise more fundamental issues. My analysis will be restricted to the latter. If the transactions pass muster on the fundamental issues, I am loathe to find a technical defect in the transactions, unless the defect is clear which it is not in this case.
+Was software acquired for purpose of earning income?
+[71] The respondent submits that the acquisition of the software does not satisfy paragraph 1102(1)(c) of the Regulations, which requires that the property be acquired for the purpose of earning income. The provision reads:
+1102. (1) The classes of property described in this Part and in Schedule II shall be deemed not to include property
+(c) that was not acquired by the taxpayer for the purpose of gaining or producing income;
+[72] In Ludco Enterprises Ltd. et al. v. The Queen, 2001 D.T.C. 5505, the Supreme Court of Canada considered a similar income-earning purpose test found in s. 20(1)(c) of the Act, which deals with the deduction of interest. I believe that the principles of interpretation set out in that decision should also apply for purposes of paragraph 1102(1)(c), although the wording of the two provisions is slightly different.
+[73] The Supreme Court first stated that the taxpayer’s purpose should be determined based on both subjective and objective factors, and that an ancillary income-earning purpose will suffice. The following comments by Justice Iacobucci are helpful in determining how the standard is to be determined.
+[54] Having determined that an ancillary purpose to earn income can provide the requisite purpose for interest deductibility, the question still remains as to how courts should go about identifying whether the requisite purpose of earning income is present. What standard should be applied? In the interpretation of the Act, as in other areas of law, where purpose or intention behind actions is to be ascertained, courts should objectively determine the nature of the purpose, guided by both subjective and objective manifestations of purpose: see Symes, supra, at p. 736; Continental Bank, supra, at para. 45; Backman, supra, at para. 25; Spire Freezers, supra, at para. 27. In the result, the requisite test to determine the purpose for interest deductibility under s. 20(1)(c)(i) is whether, considering all the circumstances, the taxpayer had a reasonable expectation of income at the time the investment was made.
+[55] Reasonable expectation accords with the language of purpose in the section and provides an objective standard, apart from the taxpayer’s subjective intention, which by itself is relevant but not conclusive. It also avoids many of the pitfalls of the other tests advanced and furthers the policy objective of the interest deductibility provision aimed at capital accumulation and investment, as discussed in the next section of these reasons.
+[74] Second, the Court held that “income” should be determined on a gross basis, and that the sufficiency of the income should come into play only in limited circumstances. Justice Iacobucci states:
+[59] […] absent a sham or window dressing or similar vitiating circumstances, courts should not be concerned with the sufficiency of the income expected or received.
+[75] Finally, Justice Iacobucci comments at paragraph 64 of Ludco Enterprises that the economic realities are not relevant if the statutory requirements are otherwise satisfied.
+[76] As for the relevance of a tax saving intention, counsel for the appellants submits that the fact that tax savings may also have been intended is irrelevant, relying on Hickman Motors Ltd. v. The Queen, 97 D.T.C. 5363 (SCC), at 5364.
+[77] I agree with this statement as far as it goes, but it assists the appellants only if an income-earning purpose has already been established, as it was in Hickman Motors.
+[78] It is significant that, in both Hickman Motors and Ludco Enterprises, the taxpayers had actually earned some income. In my view, if income has not been earned, the fact of a tax-saving intention may be relevant in determining whether the taxpayer has the requisite income-earning intent.
+[79] However, the relevance of a tax-saving intent depends on the circumstances. In Water’s Edge Village Estates (Phase II) Ltd. v. The Queen, 2002 D.T.C. 7172 (FCA), Justice Noël comments that a tax saving intent and an income-earning purpose are often compatible with each other. He states:
+[17] […] An asserted business intent will be particularly difficult to exclude when it is consistent with the achievement of a predominant tax motivation and is supported by objective evidence.
+[80] Turning to the facts and circumstances of these appeals, I find that the subjective and objective factors as to an income-earning intent go both ways. The question to be asked, then, is whether it is more likely than not that the appellants acquired the software with a business intent, as opposed to the arrangement being purely tax-driven.
+[81] Based on the evidence as a whole, I have concluded that it is more likely that the arrangement was tax-motivated only, with no ancillary income-earning purpose.
+[82] In particular, I find that it is likely that the transactions unfolded as planned, involving a short period of ownership, significant tax benefits being claimed (CCA deductions of $900,000), and few expenses being incurred beyond Mr. Hart’s $99,000 fee.
+[83] A few things stand out in these transactions. First, there is the short period of ownership, with just six weeks passing between the time of acquisition and the time that the unwinding had been documented in Mr. Hart’s December 15 letter.
+[84] Second, it struck me from the evidence that the relationship between Mr. Hart and Mr. Sherman was a close one and that the testimony did not present a clear picture of the full discussions between them.
+[85] Third, as mentioned above the appellants incurred little expense beyond the $99,000 paid to Mr. Hart. I note in particular that the appellants did not incur any interest on the deferred purchase price because interest did not accrue for any part of a three-month period. Interest accrued only on amounts outstanding on January 31, 1995, and the appellants’ obligation was fully satisfied shortly before this.
+[86] Further, it appears from the documentary evidence that the amount of the purchase price, $1,800,000, enabled the appellants to claim very close to the maximum capital gains exemption that was available to them at the time.
+[87] In addition, I note that Mr. Hart had not been able to successfully market the software after the Osler law firm had pulled out of the project. Further, I am not satisfied by the evidence that Mr. Hart had any intent to do anything with the software after he reacquired it.
+[88] I would also comment that since the appellants had not concluded any licences with third parties, neither the appellants nor Mr. Hart had incurred any ongoing obligations to licensees.
+[89] In reference to some of the strongest evidence in support of the appellants’ position, I would make the following comments.
+[90] First, I acknowledge that the appellants undertook some marketing efforts during their period of ownership. These were described in a submission by Mr. Sherman to the Canada Revenue Agency (CRA) dated August 3, 1996 (Ex. AR-1, Tab 58, p. 15, 16) as follows:
+Immediately following acquisition of the software, we commenced demonstrations and marketing. For example:
+· I met for several hours with Barry Garnet, who was now operating on his own and seeking publishing/marketing opportunities involving computers and law. I demonstrated the software to him in detail, and we initiated discussions as to whether he could take on part of the job of marketing it to law and accounting firms. We also discussed using the software to publish material to assist users of TaxPrep and other tax return preparation programs; having law firms use it for in-house publishing; and linking the marketing with other commercial products such as SoftQuad.
+· I had preliminary discussions in Vancouver with Malcolm Campbell, Vice-President of Dr. Tax, Canada’s second largest tax return preparation firm, regarding using the software to publish a parallel information resource that could be used by Dr. Tax users for research in the course of preparing tax returns. These were followed by further discussions by telephone with the President of Dr. Tax, George Farkas, who made arrangements to come to Toronto from Montreal in late January 1995 to discuss these issues.
+· I set up a meeting with Ron Collins, President of Gavel & Gown Software, to discuss co-offering the Compleat Carrel with links to Gavel & Gown’s “Amicus Attorney” lawyer’s personal information management software, as well as to explore gaining access to Gavel & Gown’s customer base. The first meeting, scheduled for December 8, 1994, had to be postponed two hours before the meeting at his request and was held in January 1995.
+· I spent several hours demonstrating the software to Janet Baccarani and Steven Webb of Carswell, and we discussed using the document modelling elements of the software for publishing document models in tax. This would be a way to use the software as a supplement to Carswell’s more conventional electronic publishing disk and CD-ROM products, which had just recently been launched.
+[91] I accept that Mr. Sherman had preliminary discussions with potential customers, but it is worth noting that he had no discussions with the core customer base, which was law and accounting firms.
+[92] It is also significant in my view that, with such a short period of ownership, it would have been easy for these preliminary discussions to have been terminated before they became serious.
+[93] In this regard, I note the following excerpt from the cross-examination of Ms. Baccarani in which she stated that there was no follow up to the meeting at which the software was demonstrated to her.
+Q. Were you the individual who would have been responsible for changing what Carswell used, had you felt it was an advantage to do so?
+A. I wouldn’t have been responsible for it, but I would have been able to put him in touch with people who were responsible. […]
+Q. Okay, but you did not do that?
+A. No.
+Q. Why not?
+A. Because at the point that he was showing it to me, as I said, I really didn’t know how it would relate to anything, and so then a few months later, he didn’t say anything more about it.
+Q. So neither of your pursued it?
+A. No.
+[94] For these reasons, I conclude that little weight should be attributed to the business meetings that were held.
+[95] I have also taken into account Mr. Sherman’s relationship with Carswell at the relevant time. I accept that this relationship was on the point of collapse in the summer of 1994 and that Mr. Sherman would have been receptive to other business opportunities at that time. I am not satisfied, however, that a business involving The Compleat Carrel was such an opportunity.
+[96] What is lacking in this case is objective evidence that clearly links the timing of the events at Carswell to the timing of the software transaction. The evidence in this regard, other than the testimony of the appellants and Mr. Hart, who I do not view as a disinterested witness, was not persuasive. The evidence as a whole seems more consistent with a finding that the Carswell events and the software transaction were two unconnected events which occurred during overlapping time periods.
+[97] First, I note that by the appellants’ agreement dated December 1, 1993 they contemplated pursuing a business opportunity such as this in possible replacement of their existing sources of income. Mr. Sherman’s long-time contact at Carswell, Mr. Garnet, was summarily fired seven months after this agreement was made. Although I accept the appellants’ testimony that they were concerned about Mr. Sherman’s economic dependency on Carswell, I do not understand why as of December 1, 1993 the appellants would both contemplate giving up their existing sources of income.
+[98] Second, the time frame necessary to connect the turnaround at Carswell to the unwinding of the software transaction is extremely tight. I have not found the evidence sufficiently persuasive that the events unfolded precisely as the appellants have suggested.
+[99] The appellants testified that, in early December, they viewed the Carswell situation as sufficiently secure that they decided to terminate the software venture. They then engaged in discussions with Mr. Hart, who documented his agreement on December 15, 1994.
+[100] In my view, the objective evidence, and particularly Ms. Baccarani’s testimony, is not sufficiently detailed to support this time frame.
+[101] Although Ms. Baccarani’s testimony supports the appellants’ position in a general way, it does not provide clear support of the time frame that is suggested. Ms. Baccarani testified that she evaluated the situation for a period of time and then she informed Mr. Rodrigues what she wanted to do. In her examination-in-chief, she stated (Transcript, June 21, p. 12):
+Let’s see up to about the first month and a half or two, then I started to say okay, this is what I want to do. And I told Gary.
+[102] In my view, it is important that there be clear evidence that supports the testimony of the appellants and Mr. Hart regarding this tight time frame. I am not satisfied that Ms. Baccarani’s testimony does that.
+[103] I would also note that the timing of events is not supported by an unsigned memo to file which provides a detailed evaluation of the work done by the trial editor. The memo is dated December 17, 1994. In my view, it is unlikely that Ms. Baccarani herself undertook the detailed assessment of this work and I conclude that she likely received the evaluation on or around December 17, 1994.
+[104] Given that Carswell had decided in the summer to use other editors, that Mr. Rodrigues was firm in his view that Mr. Sherman’s work was overvalued, and that Ms. Baccarani informed Mr. Rodrigues of her plans, I think it is unlikely that Ms. Baccarani would have formed a view about Mr. Sherman’s work until after the evaluation of the trial editor’s work was received.
+[105] Given the extremely short time frame that these events were said to have occurred, it is important that there be objective evidence supporting the timing. I did not find the evidence convincing in this regard.
+[106] For all these reasons, when the evidence is looked at in its entirety, I am not satisfied that the appellants had acquired the software for any income-earning purpose.
+[107] As an alternative argument, the appellants submit that the income-earning purpose test is satisfied through Mr. Sherman’s personal use of the software in his existing business. It could be argued that this use is sufficient to constitute an ancillary income-earning purpose, at least as it relates to the CCA claimed by Mr. Sherman.
+[108] I am not satisfied, though, that any personal use of the software by Mr. Sherman is connected to the software acquisition on October 31, 1994. Mr. Sherman had a pre-existing informal arrangement to use the software and there is no reason to believe that it was considered necessary to formalize this arrangement.
+[109] For these reasons, I conclude that the software was acquired by the appellants only for the tax deductions that were claimed, and not for any income-earning purpose. Accordingly, the requirement in s. 1102(1)(c) of the Regulations has not been satisfied.
+Was the purchase price contingent?
+[110] The above conclusion is sufficient to dispose of the appeals. However, since the respondent placed considerable emphasis on the contingent liability issue, I will also consider it. For purposes of this section only, I will assume that the transactions had an income-earning purpose.
+[111] The parties do not disagree as to the applicable legal principle regarding contingent liabilities and CCA. It is acknowledged that a contingent obligation does not form part of the cost of property for purposes of CCA.
+[112] I agree with this, but I would observe that the decision on which the respondent relies, Mandel v. The Queen, 80 D.T.C. 6148 (SCC), did not express a view on the appropriate legal principle. In a very brief decision, the Supreme Court merely stated that it agreed with the result of the decision in the Federal Court of Appeal (78 D.T.C. 6518).
+[113] I note that the Federal Court of Appeal decision appears to be based on accountancy evidence as opposed to a legal principle. At p. 6523, Ryan J. states:
+[…] On the basis of the accountancy evidence properly accepted by the trial judge, the appropriate method of determining the capital cost to the taxpayers for the 1971 taxation year was to include the cash payment and to exclude the contingent liability. Future payments, if any, could be brought in when made. […]
+[114] Notwithstanding that the Supreme Court in Mandel did not address the issue, I agree with the legal principle as stated by the parties.
+[115] The leading case on determining whether there is a contingency is Wawang Forest Products Ltd. et al. v. The Queen, [2001] 2 C.T.C. 233 (FCA). Justice Sharlow states:
+[16] […] the correct question to ask, in determining whether a legal obligation is contingent at a particular point in time, is whether the legal obligation has come into existence at that time, or whether no obligation will come into existence until the occurrence of an event that may not occur. […]
+[116] In these appeals, the appellants submit that they were unconditionally obligated to pay $1,800,000 to Mr. Hart in three years time.
+[117] The respondent, on the other hand, suggests that the warranty agreement gives the appellants the right to walk away from the deal at any time within the first year because it is not realistic to expect that the warranty could be satisfied. In this respect, the Marketing Plan contemplates that the software could be marketed to over 135,000 users by the eighth year of operation for cumulative revenues of over US$55,000,000.
+[118] I would comment first that the appellants’ obligation to pay $1,800,000 is subject not only to the warranty but also to the possible release of the obligation by a transfer of the software and the related obligation to a corporation.
+[119] The second item was not raised by the respondent and therefore I will not base a decision on it. However, I question whether an absolute obligation to pay $1,800,000 has been incurred in these circumstances, particularly where the property has a nominal value.
+[120] Turning back to the warranty, I agree with the respondent that this agreement is bereft of commerciality.
+[121] The representation in the warranty reads as follows (section 2.1 of Software Warranty Agreement):
+[…] the Shermans can reasonably expect a business that uses the Software as contemplated by the Marketing Plan to generate the sales revenues projected in the Marketing Plan.
+[122] One of the problems with this clause is that it assumes that the appellants will conduct a business in the manner described in the Marketing Plan. But this was not the appellants’ intention, at least in the initial stages of the business when the warranty was to be operative.
+[123] The Marketing Plan contemplates that the software could be licensed throughout North America to 135,496 “desks” by the eighth year of operation. The appellants testified, though, that their initial focus was on professional firms in Canada, and in particular tax professionals.
+[124] The appellants submit that the geographic market contemplated by the Marketing Plan is not relevant and that the focus should be on the revenue projections alone. They submit that these are reasonable if one takes into account their business plans for the Canadian market.
+[125] I think this misinterprets the warranty agreement. Under its terms, the appellants could not expect to successfully invoke the warranty unless the software was used in the manner contemplated by the Marketing Plan.
+[126] Further, even if the software was to be used in the manner contemplated by the Marketing Plan, the sales projections are so unrealistic that the parties could not possibly have anticipated that the representation could be satisfied within a one-year time frame.
+[127] The revenues that were projected were over US$55,000,000 on a cumulative basis over eight years. It is implausible that any of the parties would think that this business would show indications of producing potential revenues of this magnitude within the first year, which is the period in which the warranty could be invoked.
+[128] The Marketing Plan itself projects a very limited number of sales in the first year and contemplates that a number of preliminary activities would be undertaken. These are outlined in the Marketing Plan as follows:
+Operating Plan
+a) Hire a marketing support person and a software engineer to ready the software for installation at a test site;
+b) Obtain two or three test sites, such as the tax departments in large law and accountancy firms in Toronto;
+c) Negotiate with publishers for suitable library material;
+d) Build an electronic reference library consisting of the published materials and reusable work product for the test departments;
+e) Train the lawyers and staff at the first test site and begin testing;
+f) Add the second and third test sites;
+g) License server software for a World Wide Web site and arrange with content owners to publish a Compleat Carrel test library on the World Wide Web. Make a special browser available for free during the first year to gauge the level of interest. Incorporate the WWW browsing capabilities into Compleat Carrel’s standard product;
+h) Hire additional software engineers to improve the existing software and plan the multi-platform software development;
+i) Prepare a new business plan that
+i. develops the next generation of the software
+ii. opens up new markets
+iii. builds alliances with publishers and private information providers.
+[129] For these reasons, I cannot accept that this warranty was intended by the parties to be enforced by Mr. Hart. The only reasonable interpretation is that the agreement was intended by the parties to give the appellants the right to walk away from the arrangement at any time within the first year.
+[130] I note that this finding goes slightly beyond the assumption made by the Minister at the time of the audit. This assumption was confirmed during the discoveries when the team leader on the audit confirmed that the respondent believed that the appellants could not simply walk away from the deal.
+[131] Although I am generally loathe to reject admissions of fact by the respondent, the facts before me compel me to do so. I would also note that the audit team likely did not have the benefit of the extensive evidence that was produced at trial. In my view the only common sense interpretation of the warranty agreement in the circumstances of this case is that it was intended to give the appellants the right to walk away from the arrangement at any time within the first year.
+[132] Where does that leave us? Does it mean that the entire purchase price is contingent, as suggested by the respondent?
+[133] A similar question is currently before the Supreme Court of Canada in the Crown’s appeal of McLarty v. The Queen, 2006 D.T.C. 6340 (FCA). The appellants requested that this decision not wait for the Supreme Court’s decision, and I agree with this approach.
+[134] On the facts of these appeals, the amount that is contingent in my view depends on the value of the software.
+[135] At the time that the cost of the property is to be determined, the appellants had several choices. They could either keep the software and pay $1,800,000 in three years’ time with interest, they could transfer the software to a corporation and be released from any or all of the purchase price obligation, or they could transfer the software (or shares of Softcorp) back to Mr. Hart in satisfaction of the principal and interest then owing by them.
+[136] In these circumstances, the maximum amount that the appellants are committed to pay to satisfy the purchase price obligation is $1,800,000 or the value of the software, whichever is less. Accordingly, if the software has a nominal value, the appellants cannot be considered to have incurred an absolute obligation to pay $1,800,000.
+[137] The Minister made an assumption during the objection stage that the value was nil, and, as discussed earlier in these reasons, the evidence has not been sufficient to rebut this presumption.
+[138] For this reason I conclude that the entire purchase price is contingent and that the cost of the software to the appellants is nil.
+[139] Before concluding this part of the analysis, I would also comment by way of obiter that there is another approach that could be taken which gives the same result.
+[140] The purchase price in this case is far in excess of the fair market value of the software. There is, however, other property acquired as part of the same arrangement and some or all of the consideration could be allocated to it. The warranty agreement permits the appellants to satisfy a $1,800,000 obligation by transferring a property of nominal value. In this case, the warranty agreement itself must have had a value close to $1,800,000.
+[141] It makes little sense to allocate the entire consideration to the software when property of much greater value has been acquired. If the consideration is apportioned based on the actual value of the properties acquired in the arrangement, the software will have no more than a nominal cost.
+Conclusion
+[142] In light of these conclusions, I do not propose to consider any of the other arguments raised by the respondent which were set out at the beginning of these reasons. The respondent did not strongly press any of them, and correctly so in my view.
+[143] The appeals will be dismissed. The respondent will be entitled to costs, but with a single set of counsel fees only.
+Signed at Toronto, Ontario, this 3rd day of April, 2008.
+"J. Woods"
+Woods J.
+CITATION:
+2008TCC186
+COURT FILE NOS.:
+2005-1604(IT)G
+2005-1605(IT)G
+STYLE OF CAUSE:
+Simone Sherman v.
+Her Majesty the Queen, and
+David M. Sherman v.
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+May 7, 8, 9, 2007
+June 21, 2007
+September 25, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Woods
+DATE OF JUDGMENT:
+April 3, 2008
+APPEARANCES:
+Counsel for the Appellants:
+Robert McMechan
+Counsel for the Respondent:
+Ernest Wheeler
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Robert McMechan
+Firm:
+Robert McMechan
+Ottawa, Canada
+For the Respondent:
+John S. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,217 @@
+Title: Tremblay c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27141/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-486-27141-tremblay-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-09-14
+
+# Tremblay c. La Reine
+
+- Citation: 2006 CCI 486
+- Decision date: 2006-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 977, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-14
+Référence neutre
+2006 CCI 486
+Numéro de dossier
+2005-1083(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1083(IT)I
+ENTRE :
+YVON TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 24 août 2006, à Chicoutimi (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés, sans frais, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI486
+Date : 20060914
+Dossier : 2005-1083(IT)I
+ENTRE :
+YVON TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'appels de cotisations établies par le ministre du Revenu national (le « ministre » ) en vertu de la Loi de l'impôt sur le revenu (la « Loi » )pour les années d'imposition 2000 et 2001.
+[2] La question en litige consiste à déterminer si, pour ces années d'imposition, le ministre était justifié de refuser la déduction, dans le calcul du revenu de l'appelant tiré d'une charge ou d'un emploi, des sommes de 8 315 $ et de 10 699 $ respectivement réclamées à titre d' « autres dépenses d'emploi » .
+[3] Pour établir et ratifier la cotisation, le ministre a tenu pour acquis les faits suivants :
+a) pendant les années d'imposition en litige, l'appelant était à l'emploi de la société « Compagnie d'Assurance Combined d'Amérique » ; (admis)
+b) l'appelant, pendant les années d'imposition en litige, occupait le poste de gérant sous-régional dans la région de Chicoutimi, Saguenay, Lac Saint-Jean, La Baie, Dolbeau, Forestville et Charlevoix; (admis)
+c) l'appelant, pendant les années d'imposition en litige, était responsable d'une équipe de 30 agents; (admis)
+d) à l'égard des années d'imposition 2000 et 2001, l'appelant avait déclaré des sommes respectives de 15 305 $ et de 18 218 $, à titre de commissions brutes; (admis)
+e) l'appelant avait réclamé, à l'égard des années d'imposition 2000 et 2001, des sommes respectives de 13 465 $ et de 15 697 $, à titre de « autres dépenses d'emploi » ; (admis)
+f) selon le formulaire T2200 intitulé « Déclaration des conditions de travail » rempli par l'employeur, à l'égard de l'année d'imposition 2000, l'appelant eut droit aux remboursements suivants : (admis en partie)
+i)
+ii)
+iii)
+frais d'automobile
+frais (exécution des tâches)
+dépenses de bureau (domicile)
+6 832 $
+18 994 $
+3 868 $
+29 694 $;
+g) selon le formulaire T2200 intitulé « Déclaration des conditions de travail » rempli par l'employeur, à l'égard de l'année d'imposition 2001, l'appelant eut droit aux remboursements suivants : (nié)
+i)
+ii)
+iii)
+frais d'automobile
+frais (exécution des tâches)
+dépenses de bureau (domicile)
+5 218 $
+19 483 $
+2 400 $
+27 101 $;
+h) selon le formulaire T2200 intitulé « Déclaration des conditions de travail » rempli par l'employeur, à l'égard de l'année d'imposition 2000, l'appelant a été remboursé, selon le taux de 0,23 du kilomètre, pour un kilométrage d'affaires de 29 704; (admis)
+i) selon le formulaire T2200 intitulé « Déclaration des conditions de travail » rempli par l'employeur, à l'égard de l'année d'imposition 2001, l'appelant a été remboursé selon le taux de 0,23 du kilomètre, pour un kilométrage d'affaires de 22 688;(admis)
+j) pour l'année d'imposition 2000, une somme de 4 477 $ fut accordée, à l'égard des frais d'automobile, selon le calcul suivant : (admis)
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+vii)
+essence
+entretien et réparation
+assurances
+immatriculation
+frais de location
+usage personnel 20 %
+remboursement de l'employeur
+3 736 $
+1 173 $
+960 $
+203 $
+8 064 $
+14 136 $
+2 827 $
+11 309 $
+6 832 $
+4 477 $;
+k) pour l'année d'imposition 2000, le ministre accorda les dépenses suivantes : (nié)
+i)
+ii)
+iii)
+frais d'automobile
+publicité et promotion
+frais comptables
+4 477 $
+523 $
+150 $
+5 150 $;
+l) pour l'année d'imposition 2001, une somme de 4 153 $ fut accordée, à l'égard des frais d'automobile, selon le calcul suivant : (nié)
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+essence
+entretien et réparation
+assurances
+immatriculation
+frais de location
+usage personnel 28 %
+2 912 $
+1 263 $
+1 022 $
+377 $
+7 515 $
+13 089 $
+3 718 $
+9 371 $
+m) (nié)
+remboursement de l'employeur
+5 218 $
+4 153 $;
+n) pour l'année d'imposition 2001, le ministre accorda les dépenses suivantes : (nié)
+i)
+ii)
+iii)
+frais d'automobile
+publicité et promotion
+frais comptables
+4 153 $
+695 $
+150 $
+4 998 $;
+o) pour chacune des années d'imposition en litige, des dépenses furent refusées parce qu'elles avaient été remboursées par l'employeur : (nié)
+i)
+ii)
+Année
+2000
+2001
+Réclamées
+13 465
+15 697
+Accordées
+5 150
+4 998
+Refusées
+8 315
+10 699
+[4] Au soutien de la preuve, dont il avait le fardeau, l'appelant a essentiellement fait valoir qu'il recevait des revenus à deux titres différents : l'un à titre de salarié pour la société « Compagnie d'Assurance Combined d'Amérique » et l'autre à titre de vendeur à commission pour le compte de la même entreprise.
+[5] Pour soutenir ses prétentions, il a déposé les deux contrats qu'il a conclus, l'un à titre d'agent à commission et l'autre à titre de gérant de district.
+[6] Dans le cadre de son travail de gérant comme salarié, ses dépenses lui étaient remboursées par la Compagnie d'Assurance Combined d'Amérique.
+[7] Il a donc affirmé que les dépenses qui lui étaient remboursées n'étaient que celles engagées dans le cadre de son travail de salarié. Selon lui, il avait aussi droit, en sus des dépenses remboursées par son employeur, à la déduction de celles effectuées dans le cadre de son travail à commission.
+[8] De son côté, le responsable du dossier de l'appelant a expliqué le cheminement suivi qui avait conduit à la cotisation. Il a admis avoir tenu pour acquis que les dépenses engagées l'avaient été pour l'ensemble du travail de l'appelant. Les dépenses prises en compte étaient celles remboursées par l'employeur.
+[9] Pour établir le bien-fondé de ses prétentions, il aurait fallu que l'appelant fasse une démonstration convaincante et cohérente quant aux dépenses directement liées à chacun de ses deux postes, et ce, pour éviter la confusion.
+[10] L'appelant n'a pas été en mesure d'indiquer précisément le nombre de kilomètres parcourus dans le cadre de chacune de ses fonctions; il a soutenu avec très peu de conviction que le remboursement des dépenses de bureau correspondait essentiellement aux frais d'appels interurbains alors que les documents pertinents n'appuyaient aucunement cette interprétation.
+[11] D'autre part, les observations de l'appelant ont essentiellement porté sur le fait qu'il fallait distinguer la source de ses revenus en tenant compte de ses deux fonctions, soit l'une en qualité de salarié et l'autre en qualité de travailleur autonome rémunéré à commission.
+[12] Même sur cet aspect, la preuve soumise n'a pas été déterminante. En effet, le fait d'avoir été partie à un contrat remontant à plusieurs années décrivant les conditions de travail et établissant que l'appelant était rémunéré à commission n'a pas pour effet de démontrer automatiquement le bien-fondé des prétentions de l'appelant, d'autant plus que la relation juridique qui y est décrite était possiblement nécessaire pour que l'appelant soit salarié; en effet, la fonction de salarié assumée par l'appelant signifiait qu'il pouvait à l'occasion donner l'exemple à ceux et à celles dont il avait la responsabilité relativement aux ventes.
+[13] Toute cotisation est présumée avoir été établie conformément aux faits et aux dispositions légales pertinentes. Pour attaquer le bien-fondé d'une cotisation, il ne suffit pas de critiquer la façon de faire du ministre; il est tout à fait essentiel de prouver ce qu'aurait dû être la cotisation.
+[14] En l'espèce, l'appelant a essentiellement soumis qu'il avait deux fonctions différentes, ce qui lui permettait de réclamer des dépenses excédant celles qui ont été remboursées par son employeur. Il aurait été important, voire même fondamental, de soumettre une preuve déterminante quant aux détails des dépenses refusées liées exclusivement à son travail autonome.
+[15] Faute d'une telle preuve, je dois conclure que l'appelant n'a pas satisfait au fardeau de la preuve qui lui incombait et, par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2006CCI486
+N º DU DOSSIER DE LA COUR : 2005-1083(IT)I
+INTITULÉ DE LA CAUSE : Yvon Tremblay et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Chicoutimi (Québec)
+DATE DE L'AUDIENCE : le 24 août 2006
+MOTIFS DU JUGEMENT PAR : l'honorable juge Alain Tardif
+DATE DU JUGEMENT : le 14 septembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

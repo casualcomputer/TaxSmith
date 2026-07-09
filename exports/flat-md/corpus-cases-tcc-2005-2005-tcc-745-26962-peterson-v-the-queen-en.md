@@ -1,0 +1,155 @@
+---
+title: "Peterson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26962/index.do"
+last_modified: "2005-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 745"
+citation2: ""
+neutral_citation: "2005 TCC 745"
+decision_date: "2005-11-22"
+language: "en"
+item_id: "26962"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 572
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:06:19.308000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9072bfdfe2fb0af1bf87303b8ce7ed2b21c983612f1e5824475d947f9a3a9ede"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Peterson v. The Queen
+
+- Citation: 2005 TCC 745
+- Decision date: 2005-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 572, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Peterson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-22
+Neutral citation
+2005 TCC 745
+File numbers
+2003-3104(GST)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3104(GST)G
+BETWEEN:
+THOR T. PETERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 3, 2005, at Nanaimo, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated January 24, 2003and bears number 76726­­­­­­ is dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is awarded its party-and-party costs.
+Signed at Toronto, Ontario, this 22nd day of November 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC745
+Date: 20051122
+Docket: 2003-3104(GST)G
+BETWEEN:
+THOR T. PETERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Nanaimo, British Columbia on October 3, 2005. The Appellant was the only witness.
+[2] At the outset Respondent's counsel objected to the Appellant raising the penalty issue at the hearing of the appeal as set out in subparagraph 3(b) of his Written Submissions. There were two reasons for the objection:
+1. It had not been raised in the Notice of Appeal.
+2. Respondent's counsel wrote Mr. Peterson on March 22, 2005 and specifically advised Mr. Peterson that if he wished to raise any issue "beyond the limitation issue" he should amend his Notice of Appeal whereupon the Respondent would take its own procedural steps. (See Tab E, of the Hearing Record, Affidavit of Lorne Lemko.)
+For those reasons, the Court upheld the objection.
+[3] As a result the hearing proceeded on the issue appealed by Mr. Peterson as namely, whether Mr. Peterson was assessed within the time prescribed under the Excise Tax Act (the "Act").
+[4] Paragraphs 2 to 9 of the Reply to the Notice of Appeal set out the matters in dispute. They read:
+2. With respect to paragraph b) of the Notice of Appeal, he states that the third party assessment issued to the Appellant under dispute is dated January 24, 2003, not June 4, 2003.
+3. With respect to paragraph c) of the Notice of Appeal, he admits that Corker & Ibbotson Agencies Ltd. (the "Corporation") was assessed on February 12, 1998 and that the third party assessment was issued to the Appellant in his capacity as a director on January 24, 2003, but he denies the balance of the paragraph.
+4. The Minister of National Revenue (the "Minister") assessed the Appellant by Notice of Assessment No. 76726, dated January 24, 2003 (the "Assessment"), in the amount of $29,627.47, which was comprised of $6,915.88 net tax, $9,508.89 interest and $13,202.70 penalty, in respect of the Goods and Services Tax ("GST") debt of the Corporation.
+5. The Appellant served a Notice of Objection upon the Minister on March 7, 2003.
+6. By Notice of Decision dated June 4, 2003, the Minister confirmed the assessment.
+7. In so assessing and confirming the Appellant, the Minister relied on the following assumptions:
+a) the facts stated and admitted above;
+b) at all material times the Appellant was the sole director of the Corporation;
+c) the Corporation was incorporated on August 18, 1959;
+d) the Corporation was involved in property development;
+e) the Corporation was a GST registrant with GST Registration No. 101152940RT;
+f) the Corporation was required by the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act") to file its GST returns on a quarterly basis;
+g) the GST Return for the Corporation for the period ending December 31, 1993 (the "1993 Return") was due to be filed on January 31, 1994 and was received by the Minister on February 14, 1994;
+h) the 1993 Return was due to become statute-barred on February 14, 1998, four years after it was filed;
+i) the Corporation was reassessed by Notice dated February 12, 1998 for the periods from October 1, 1993 to December 31, 1995 (the "Periods") with respect to net tax of $17,368.66, penalty of $5,422.76 and interest of $3,927.81;
+j) the GST debt of the Corporation was certified on February 26, 2001;
+k) the execution with respect to the assets of the Corporation was returned unsatisfied on August 6, 2002;
+l) the Appellant was assessed as a director of the Corporation on January 24, 2003; and
+m) the Appellant had not resigned from the Corporation as of January 24, 2003.
+B. ISSUES TO BE DECIDED
+8. The issue is whether the Minister assessed the Appellant for the GST debt of the Corporation within the time prescribed under the Act.
+C. STATUTORY PROVISIONS RELIED ON
+9. He relies on section 221, 313, 296, 298, 299, 300, subsections 323(1), 323(2), 323(3), 323(4), 323(5) and 228(2) of the Act and the Financial Services (GST Regulations (SOR/91-26)
+[5] None of the assumptions were refuted by the evidence.
+[6] In essence, the Appellant's argument is that, as a director of Corker & Ibbotson Agencies Ltd., he became liable to pay taxes owed by the Corporation when it failed to pay its taxes. Therefore any assessment upon him more than four years after that date is out of time and statute-barred.
+[7] The Respondent's counsel quoted subsection 323(2) of the Act which reads:
+(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a receiving order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the date of the assignment or receiving order.
+The Act is specific. All of the steps described in subsection (2) must be completed before a director is liable for a corporation's un-paid taxes. Thus, the Appellant was assessed as a director in a timely fashion.
+[8] For this reason the appeal is dismissed. The Respondent is awarded its party-and-party costs.
+Signed at Toronto, Canada, this 22nd day of November 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC745
+COURT FILE NO.: 2003-3104(GST)G
+STYLE OF CAUSE: Thor T. Peterson v. The Queen
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: October 3, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: November 22, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

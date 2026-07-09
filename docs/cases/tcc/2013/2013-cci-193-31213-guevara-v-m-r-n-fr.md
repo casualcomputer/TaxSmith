@@ -1,0 +1,137 @@
+---
+title: "Guevara v. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31213/index.do"
+last_modified: "2013-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 193"
+citation2: ""
+neutral_citation: "2013 CCI 193"
+decision_date: "2013-04-12"
+language: "fr"
+item_id: "31213"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5052
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:23:01.073000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6dfb072060879242cdcaa46f7b360ceafe83dd57e75998b79e2fae22e1261c17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guevara v. M.R.N.
+
+- Citation: 2013 CCI 193
+- Decision date: 2013-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5052, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guevara v. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-12
+Référence neutre
+2013 CCI 193
+Numéro de dossier
+2012-3991(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Référence : 2013 CCI 193
+Date : 20130619
+Dossier : 2012-3991(EI)
+ENTRE :
+JESUS GUEVERA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 12 avril 2013,
+à Vancouver (Colombie‑Britannique)).
+La juge V.A. Miller
+[1] L’appelant interjette appel d’une décision rendue par le ministre du Revenu national (le « ministre »), décision selon laquelle l’appelant n’occupait pas un emploi assurable auprès de la société Tricon Pacific Contracting Ltd. (le « payeur ») durant la période allant du 1er juillet 2010 au 10 octobre 2010.
+[2] Les témoins à l’audience étaient l’appelant et Alex Chang.
+[3] Le payeur exerçait ses activités dans le domaine de la construction d’habitations neuves et de la rénovation d’habitations existantes. Il a été constitué en société en 2008, et a commencé ses activités en 2009. Alex Chang était son unique actionnaire.
+[4] Avant 2009, M. Chang avait exploité la société FCH Construction Ltd., et l’entreprise de cette société avait été transférée au payeur en 2009.
+[5] L’appelant avait une entreprise de peinture qu’il exploitait comme une entreprise individuelle sous le nom de Prism Coating and Design.
+[6] Selon la preuve, l’appelant avait travaillé auprès de diverses sociétés de M. Chang depuis 1996. M. Chang a témoigné que l’appelant travaillait à la fois comme gestionnaire du payeur et comme entrepreneur indépendant auprès du payeur. La situation d’emploi de l’appelant variait en fonction du flux de trésorerie du payeur. Si le flux de trésorerie du payeur était suffisant, l’appelant était employé par le payeur comme gestionnaire de ses nombreux projets. Parfois, lorsque le payeur n’avait pas suffisamment d’argent, il donnait un de ses propres clients à l’appelant pour que celui‑ci puisse terminer l’exécution du contrat et être rémunéré par le client.
+[7] Durant la période, les tâches dont l’appelant devait s’acquitter auprès du payeur consistaient à gérer les chantiers du payeur afin de veiller à ce que le travail soit exécuté correctement par le personnel du payeur. En outre, l’appelant commandait et ramassait les matériaux nécessaires pour l’exécution des divers travaux. Il bénéficiait de la protection offerte par la Commission des accidents du travail à laquelle le payeur versait des cotisations.
+[8] À la lumière du témoignage de M. Chang, j’ai conclu que ce dernier pensait que l’appelant était un employé durant la période. M. Chang pensait qu’il ne pouvait pas donner de relevé d’emploi (« RE ») à l’appelant pour cette période, parce que le payeur faisait l’objet d’une vérification par l’Agence du revenu du Canada (l’« ARC »). La Cour n’a jamais reçu d’explication quant à la relation entre le fait de délivrer un RE et la vérification menée par l’ARC.
+[9] Pour déterminer si une personne est un employé ou un entrepreneur indépendant, la question fondamentale qu’il faut se poser est de savoir si la personne qui accomplit les tâches les accomplit en tant que personne à son compte : 1671122 Ontario Ltd c. Sagaz Industries Canada Inc., 2011 CSC 59. Dans l’arrêt récent 1392644 Ontario Inc. S/N Connor Homes c. Le ministre du Revenu national, 2013 FCA 85, le juge Mainville, s’exprimant au nom de la Cour d’appel fédérale, a énoncé une analyse en deux étapes pour traiter cette question centrale. Voici la teneur des observations du juge Mainville :
+[…] La première étape de l’analyse devrait toujours être de déterminer l’intention des parties puis, en deuxième lieu, d’examiner sous le prisme de cette intention la question de savoir si leur relation, concrétisée dans la réalité objective, est une relation d’employeur à employé ou de client à entrepreneur indépendant. […]
+Dans la deuxième étape, les facteurs qui ont été analysés dans les arrêts Sagaz et Wiebe Door sont pertinents, sans qu’aucun facteur particulier soit dominant.
+L’intention des parties
+[10] L’appelant a témoigné qu’il était un entrepreneur indépendant auprès du payeur pour la période allant du 1er janvier au 30 juin 2010. Il avait par la suite demandé de figurer sur la liste de paie en tant qu’employé du payeur pour la période allant du 1er juillet au 31 octobre 2010. Selon le témoignage de M. Chang, l’appelant était à la fois un employé et un entrepreneur indépendant auprès du payeur durant la période allant du 1er juillet au 31 octobre 2010. Toutefois, cette affirmation était en contradiction avec son témoignage ultérieur, lorsqu’il a évoqué le fait de donner un RE à l’appelant.
+[11] L’appelant n’a pas produit sa déclaration de revenus pour 2010 selon son intention déclarée. Dans sa déclaration pour 2010, il a inclus un revenu d’entreprise et a demandé la déduction de dépenses d’entreprise, mais il n’a inclus aucun revenu figurant sur un feuillet T4. L’appelant a expliqué qu’il n’avait pas déclaré de revenu d’emploi parce qu’il n’avait pu obtenir un feuillet T4 du payeur qu’en décembre 2011. Il a depuis lors modifié sa déclaration de revenus pour 2010.
+[12] À mon avis, l’appelant et le payeur ont tranché la question de savoir si l’appelant était un employé ou un entrepreneur indépendant sans tenir compte de la véritable relation entre les parties. Leur décision était fondée sur la manière dont l’appelant voulait être rémunéré pour la période.
+Le contrôle
+[13] M. Chang a témoigné qu’il n’avait pas supervisé l’appelant dans l’exécution de son travail. Il a déclaré qu’il avait travaillé avec l’appelant pendant au moins dix ans, et que celui‑ci avait beaucoup d’expérience dans le domaine.
+[14] L’appelant n’était pas d’accord avec M. Chang quant au témoignage de ce dernier. Il a déclaré qu’il devait répondre de ses actes et qu’il était supervisé par M. Chang, qui communiquait avec lui plusieurs fois, chaque jour, au moyen d’un téléphone cellulaire. M. Chang lui ordonnait souvent de se rendre sur différents chantiers.
+[15] J’estime qu’il est normal que, lorsqu’une personne est engagée pour son expérience, elle ne soit habituellement pas supervisée de près dans l’exécution de ses tâches. Toutefois, la question n’est pas de savoir si le payeur a exercé un contrôle sur l’appelant, mais il s’agit de savoir si le payeur avait le droit d’exercer ce contrôle : Canada (procureur général) c. Groupe Desmarais Pinsonneault & Avard Inc., [2002] CAF 144, au paragraphe 5.
+[16] Le témoignage de l’appelant n’a pas été mis en doute lors du contre‑interrogatoire, et j’ai conclu de ce témoignage que le payeur avait bel et bien supervisé l’appelant, et qu’il avait le droit de contrôler la manière dont il exécutait ses tâches. À mon avis, le facteur de contrôle indique qu’il y avait un contrat de louage de services entre l’appelant et le payeur.
+La propriété des instruments de travail
+[17] Comme il est de coutume dans le domaine de la construction, l’appelant était propriétaire de tous les outils manuels dont il avait besoin pour fournir ses services. Toutefois, si des outils plus gros étaient nécessaires, il utilisait ceux du payeur.
+[18] Selon le témoignage de l’appelant, lui et le payeur s’échangeaient leur véhicule durant la période. L’appelant avait un camion GM qui se prêtait à la livraison du matériel et de fournitures aux chantiers et le payeur avait une Jeep Cherokee. Ils s’échangeaient leur véhicule, de telle sorte qu’un autre employé pouvait utiliser le camion GM pour livrer les fournitures aux chantiers. Le payeur payait les frais d’essence et d’entretien de la Jeep Cherokee qui était utilisée par l’appelant.
+[19] À mon avis, la propriété des instruments de travail est un facteur qui indique davantage l’existence d’une relation employé/employeur.
+Les sous‑traitants et l’embauchage des aides
+[20] L’appelant a déclaré que, durant la période, il n’avait conclu aucun contrat pour son compte, et qu’il ne pouvait pas le faire, étant donné qu’il travaillait presque 60 heures par semaine pour le payeur. L’appelant a affirmé qu’il travaillait souvent de 8 h à 18 h, six jours par semaine. Ni l’appelant ni le payeur n’ont consigné les heures de travail de l’appelant.
+[21] Durant la période, l’appelant n’a pas embauché de personnes pour l’aider dans l’accomplissement de ses tâches auprès du payeur.
+La possibilité de profits et le risque de pertes
+[22] L’appelant et le payeur ont négocié le salaire de l’appelant pour la période.
+[23] Le salaire mensuel de l’appelant était de 4 000 $, moins les retenues. Toutefois, il n’a été rémunéré que pour les mois de juillet et d’août 2010. Le payeur n’avait pas de fonds pour le rémunérer pour septembre et octobre 2010; et en novembre 2010, le payeur a proposé à l’appelant de lui céder un de ses clients.
+[24] À mon avis, durant la période, l’appelant n’avait pas de possibilité de profits. Il a subi une perte, parce que le payeur n’était pas capable de le rémunérer pour les deux derniers mois qu’il avait travaillés. Toutefois, il n’a pas subi de pertes en tant qu’entrepreneur.
+Conclusion
+[25] Après avoir procédé à l’examen de tous les facteurs, j’ai conclu que l’appelant n’exploitait pas d’entreprise à son compte durant la période. Les conditions de sa relation avec le payeur, analysées par rapport aux facteurs établis dans l’arrêt Wiebe Door, militent en faveur de son intention d’être un employé durant la période.
+[26] L’appel est accueilli.
+Signé à Ottawa, Canada, ce 19e jour de juin 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 2e jour d’août 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2013 CCI 193
+No DU DOSSIER DE LA COUR : 2012-3991(EI)
+INTITULÉ : JESUS GUEVERA c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 12 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 19 avril 2013
+DATE DES MOTIFS
+DU JUGEMENT : Le 19 juin 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+Mme Angela Guevera
+Avocat de l’intimé :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

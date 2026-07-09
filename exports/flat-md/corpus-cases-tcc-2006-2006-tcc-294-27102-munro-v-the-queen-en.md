@@ -1,0 +1,202 @@
+---
+title: "Munro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27102/index.do"
+last_modified: "2006-05-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 294"
+citation2: ""
+neutral_citation: "2006 TCC 294"
+decision_date: "2006-05-23"
+language: "en"
+item_id: "27102"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 972
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:04:40.674000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ecc847ff8230ea92215315e9fe38f65e6ffef6151a3969a3dbb69499d13719f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Munro v. The Queen
+
+- Citation: 2006 TCC 294
+- Decision date: 2006-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 972, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Munro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-23
+Neutral citation
+2006 TCC 294
+File numbers
+2005-2251(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2251(IT)I
+BETWEEN:
+NANCY MUNRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of David Munro (2005-2252(IT)I) on February 8 and May 17, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+David Stuart
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of May 2006.
+"D.W. Beaubier"
+Beaubier J.
+Docket: 2005-2252(IT)I
+BETWEEN:
+DAVID MUNRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Nancy Munro (2005-2251(IT)I) on February 8 and May 17, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+David Stuart
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of May 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC294
+Date: 20060523
+Docket: 2005-2251(IT)I
+BETWEEN:
+NANCY MUNRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2005-2252(IT)I
+AND BETWEEN:
+DAVID MUNRO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence at Calgary, Alberta, on February 8 and May 17, 2006. The Appellants' valuer, Randolph Peters, B.Ed., testified. There is no evidence that Mr. Peters is a qualified appraiser. The Respondent's appraiser, Robert Kotchon, A.A.C.I., testified. The Respondent's appraiser was first called by the Appellants' agent and later was called by the Respondent's counsel in rebuttal. The Court was not asked to qualify either of these witnesses to give expert evidence respecting the property in question.
+[2] The matter in dispute is the value of 4 acres of land situated west of Calgary and north east of Cochrane, Alberta upon which the Appellants' home sat when they sold their house, barn, riding hall and ¼ section being NW 8, 26-3-W5th in the Municipal District of Rocky View on January 15, 1999 for $2,425,000.
+[3] Appellants' valuer arrived at a reported value of $170,000 consisting of:
+4 acres @ $30,000/acre $120,000
+Contribution value of services and amenities $ 50,000
+Total $170,000
+(See page 17 Report)
+Respondent's appraiser's value was:
+4 acres @ $26,225/acre $106,900
+Depreciated cost of site improvements $ 13,100
+Total $120,000
+[4] The surrounding details of the sale itself are set out in paragraphs 12 to 16 of the Reply to Notice of Appeal No. 2005-2251(IT)I. They read:
+12. In so reassessing the tax of the Appellant and in so confirming the reassessments, the Minister relied on the same assumptions of fact, as follows:
+a) in 1991 the Appellant and her spouse acquired property described as NE ¼-8-26-3 W5, located near Cochrane, Alberta, (the "Cochrane Property");
+b) the Appellant and his spouse each had a 50% interest in the Cochrane Property;
+c) the area of the Cochrane Property was 158 acres, and included a residence, a barn and a riding hall;
+d) the Appellant and her spouse acquired the Cochrane Property at a cost of $1,167,209.08;
+e) the Cochrane Property was sold January 15, 1999;
+f) the total proceeds from the sale of the Cochrane Property was $2,600,000.00;
+g) the sale agreement for the Cochrane Property allocated the sale price as follows:
+Residence and 2 Acres: $ 625,000.00
+Main Barn 600,000.00
+Riding Hall 600,000.00
+Land 600,000.00
+Tools, fencing, mobile home,
+equipment, machinery, etc. 175,000.00
+Total $2,600,000.00
+h) the Appellant and her spouse received cash and land as consideration for the Cochrane Property;
+i) the land received as part of the consideration for the Cochrane Property was sold and the Appellant and her spouse acquired property near Airdrie, Alberta;
+j) the replacement property rules set out in section 44 of the Act apply when determining the Appellant's 50% share of the gain for the Cochrane Property;
+k) in addition to the sale proceeds from the principal residence and 2 acres of $625,000.00 set out in subparagraph 12(g) above, an additional 2 acres was necessary for the Appellant's use and enjoyment of the principal residence on the Cochrane Property;
+l) of the $600,000.00 sale proceeds allocated to land as set out in subparagraph 12(g) above, no more than $7,594.94, being 2 acres at $3,797.47 per acre is attributable to the principal residence;
+m) in calculating the capital gain on the sale of the Cochrane Property, the allocation of the $600,000.00 proceeds for the sale of the land is as follows:
+Principal Residence Portion
+(2 Acres @ $3,797.47) $ 7,594.94
+Remainder: Non-Principal
+Residence Portion: $592,405.60
+Total $600,000.00
+n) no more than four acres of land was necessary for the use and enjoyment of the principal residence on the Cochrane Property.
+B. ISSUES TO BE DECIDED
+13. The issue to be decided is of the $600,000.00 sale proceeds allocated to land, whether an amount in excess of $7,594.94 can be allocated to the principal residence portion of the Cochrane Property, and if so, what is the amount that can be allocated.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+14. The Respondent relies on sections 3, 13, 38, 39, 40, 44, 53, 54 and 110.6 and subsection 248(1) of the Act as amended for the 1999 taxation year.
+15. It is submitted that of the $600,000.00 sale proceeds allocated to land as set out in subparagraph 12(g) above, no more than $7,594.94, being 2 acres at $3,797.47 per acre is attributable to the principal residence.
+16. He submits that the Appellant had a taxable capital gain on the land portion of the Cochrane Property of no less than $108,702.53 as set out in paragraph 8 above and this amount has been determined according to sections 38, 39, 40, 44, 53 and 54 of the Act and has been included into income according to section 3 of the Act.
+[5] Mr. Peters relied completely on his comparable # 8 which he examined. From his testimony, the Court finds that he did not physically inspect any of his other 7 alleged comparables. Rather, he simply pulled them out of a computer search of acreage sales in the vicinity of Cochrane. Mr. Kotchon physically inspected all of the comparables proposed by both. He also searched the transfer of comparable # 8 which was a transfer of 4.25 acres. This number reduces Mr. Peters' acreage calculations for the land to approximately $28,235 per acre. The resulting discrepancy for land value between the appraisers is therefore only $2,010 per acre.
+[6] The major discrepancy between the parties is the "services and amenities" which were in place at the time of the sale. These include electric power, gas and a paved road from the road to the house and landscaping on the site of grass, bushes and trees. Mr. Peters inspected the site physically and also inspected his comparable # 8. He obtained this valuation from the Marshall and Sweet manual. Upon receipt of this valuation Mr. Kotchon inspected these improvements from the road side, but did not go on either the subject property or comparable # 8. Mr. Kotchon then added the amount of $13,100 to his appraisal report for a depreciated calculation of these "site improvements". Neither testified that he in fact contacted the gas and electrical authorities, plumbing contractors or landscapers for these figures.
+[7] These improvements to the site have a value but a new owner might not want the landscaping so purchased. Nonetheless, the gas, electrical and sewage improvements are of a definite and lasting value. Although, certainly, the sewage service may have a limited life on an acreage, rural, site.
+[8] The Court accepts Mr. Kotchon's valuation of the improvements to the acreage on the basis of the analysis in paragraph [7] hereof and because no landscaper's valuation of the landscaping was presented in evidence. Therefore the improvements are accepted at a value of $13,100 as found by the Respondent's appraiser.
+[9] The Appellants' valuer reported that the subject site has a view to the south and west. That is a view that has a value in the Cochrane region. He also testified that his comparable # 8 was similar in that respect. There is not sufficient evidence as to the view of any of the other comparables which are all in an area of high rolling hills and deep valleys around the Bow River. For this reason, the Court adds the figure of:
+$2,010
+x 4
+$8,040
+to Mr. Kotchon's "Revised Fair Market Value". On the last page of his report he determines a value of the matter in dispute as follows:
+$120,000
++ 8,040
+$128,040
+[10] The appeal is allowed and this matter is referred to the Minister of National Revenue for reconsideration and reassessment on the basis that the value of the land and improvements on the principal residence site on January 15, 1999 was $128,040.
+Signed at Ottawa, Ontario, this 24th day of May 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC294
+COURT FILE NO.: 2005-2251(IT)I and 2005-2252(IT)I
+STYLE OF CAUSE: NANCY MUNRO AND HER MAJESTY THE QUEEN and DAVID MUNRO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: February 8 and May 17, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: May 24, 2006
+APPEARANCES:
+Counsel for the Appellant:
+David Stuart
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Stuart
+Firm: Meyers Norris Penny LLP
+Calgary, Alberta
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

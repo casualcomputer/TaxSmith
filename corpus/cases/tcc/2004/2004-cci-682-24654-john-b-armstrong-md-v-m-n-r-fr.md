@@ -1,0 +1,201 @@
+---
+title: "John B. Armstrong, MD v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/24654/index.do"
+last_modified: "2004-10-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 682"
+citation2: ""
+neutral_citation: "2004 CCI 682"
+decision_date: "2004-10-18"
+language: "fr"
+item_id: "24654"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2181
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:55:49.661000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "071cb4c2bee2232aad1d7b647d22c248ad9d3db8d588af7e45bb2a95a6dcb4ea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# John B. Armstrong, MD v. M.N.R.
+
+- Citation: 2004 CCI 682
+- Decision date: 2004-10-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2181, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+John B. Armstrong, MD v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-18
+Référence neutre
+2004 CCI 682
+Numéro de dossier
+2003-3801(CPP)
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003-3801(CPP)
+ENTRE :
+LE DOCTEUR JOHN B. ARMSTRONG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel du docteur John B. Armstrong, (2003-3802(EI)), à Vancouver (Colombie-Britannique), le 20 juillet 2004.
+Devant : L'honorable T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Stacey Repas
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 15e jour de juin 2005.
+Sara Tasset
+Dossier : 2003-3802(EI)
+ENTRE :
+LE DOCTEUR JOHN B. ARMSTRONG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel du docteur John B. Armstrong, (2003-3801(CPP)), à Vancouver (Colombie-Britannique), le 20 juillet 2004.
+Devant : L'honorable T. O'Connor
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Stacey Repas
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 15e jour de juin 2005.
+Sara Tasset
+Référence : 2004CCI682
+Date : 20041018
+Dossiers : 2003-3801(CPP)
+2003-3802(EI)
+ENTRE :
+LE DOCTEUR JOHN B. ARMSTRONG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Dans ces appels, il s'agit de savoir si, dans les années 2001 et 2002, Mme Joanne Shovar ( « Joanne » ) et Mme Tracy Martyn ( « Tracy » ), (ensemble les « travailleuses » ), exerçaient un emploi assurable conformément à l'alinéa 5(1)a) de la Loi sur l'assurance-emploi et un emploi ouvrant droit à pension conformément au paragraphe 6(1) du Régime de pensions du Canada dans le cadre des relations de travail qui existaient avec l'appelant.
+[2] Le ministre du Revenu national (le « ministre » ) a conclu que les travailleuses exerçaient un emploi assurable ouvrant droit à pension compte tenu du fait qu'elles avaient été embauchées en vertu de contrats de louage de services par opposition à des contrats d'entreprise (qui s'appliquent aux entrepreneurs indépendants); le ministre a établi à l'égard de l'appelant des cotisations s'élevant à 800,01 $ et à 1 455,64 $ au titre des cotisations d'assurance-emploi qui n'avaient pas été déduites en 2001 et en 2002 respectivement ainsi qu'à 1 017,48 $ et à 2 043,22 $ au titre des cotisations au régime de pensions du Canada qui n'avaient pas été déduites en 2001 et en 2002 respectivement, soit un montant s'élevant à 5 316,35 $ en tout.
+[3] La Cour est souvent saisie de ce type de question; il est reconnu que la question est généralement tranchée selon un critère à quatre volets, à savoir :
+(1) le contrôle;
+(2) la propriété des instruments de travail;
+(3) les chances de bénéfice et les risques de perte;
+(4) le critère d'intégration.
+[4] Avant d'analyser ces éléments, il convient de faire les remarques générales suivantes.
+[5] En statuant sur la question, je ne substitue pas simplement mon opinion à celle du ministre; je dois traiter la décision du ministre avec une certaine déférence. Ces principes ont été élaborés par la Cour d'appel fédérale dans les arrêts ci-après mentionnés. Dans l'arrêt Légaré c. Canada (Ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, la cour a eu l'occasion d'examiner la question. Au paragraphe 4 des motifs de décision rendus par les juges Marceau, Desjardins et Noël, il est dit ce qui suit :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre: c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[6] De plus, dans l'arrêt Pérusse c. Canada (Ministre du Revenu national - M.R.N.), [2000] A.C.F. no 310, le juge Marceau a dit ce qui suit au paragraphe 14 :
+En fait, le juge agissait dans le sens que plusieurs décisions antérieures pouvaient paraître prescrire. Mais cette Cour, dans une décision récente, s'est employée à rejeter cette approche, et je me permets de citer ce que j'écrivais alors à cet égard dans les motifs soumis au nom de la Cour.
+[7] Puis, au paragraphe 15, le juge a dit ce qui suit :
+Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus. Mais parler de discrétion du ministre sans plus porte à faux.
+[8] À mon avis, voici les faits les plus importants lorsqu'il s'agit de trancher la question en litige :
+1. L'appelant pratiquait la médecine depuis une clinique. Il s'occupait principalement de la gestion des cas de patients atteints de douleurs chroniques non liées au cancer et de patients toxicomanes; il arrivait parfois que certains patients soient atteints de ces deux maladies. Les travailleuses et l'appelant accomplissaient tous certaines tâches administratives et s'occupaient tous de la tenue de livres. L'appelant était médecin; il avait obtenu son diplôme de l'université McGill, à Montréal. Toutefois, Joanne s'occupait également du soin des patients; quant à Tracy, en plus d'exécuter les tâches administratives, elle offrait également des séances de counselling à son gré.
+...
+En général, les travailleuses s'occupaient notamment de la gestion générale du bureau, du soin des patients, du prélèvement d'échantillons provenant des patients; elles dirigeaient également des séances de thérapie de groupe. Elles traitaient avec le ministère des Ressources humaines de la Colombie-Britannique afin d'obtenir des prestations pour les patients; elles s'occupaient de counselling personnel et elles répondaient aux patients qui étaient en situation de crise, même en dehors des heures de travail.
+Les travailleuses n'étaient pas obligées de toujours accomplir leurs tâches à la clinique et, dans la mesure où elles fournissaient leurs services, elles le faisaient à leur entière discrétion et elles fournissaient parfois des services ailleurs qu'à la clinique et, dans certains cas, depuis leur domicile.
+2. Les taux de rémunération n'étaient pas fixés par l'appelant; ils avaient plutôt été fixés de gré à gré par les travailleuses et par l'appelant. Joanne touchait 11,50 $ l'heure et la rémunération de Tracy était un peu plus élevée; Tracy gagnait en outre une rémunération additionnelle pour les heures consacrées au counselling. Les travailleuses étaient rémunérées deux fois par mois. Elles enregistraient leurs propres heures et elles étaient rémunérées sur cette base. À un moment donné, le taux de rémunération de Tracy a augmenté.
+3. Lorsque l'appelant a embauché les travailleuses, il a été convenu qu'elles devaient fournir leurs services à titre d'entrepreneurs indépendants.
+[9] Quant au contrôle, la preuve est abondante et pas entièrement concluante, mais, compte tenu des facteurs dans leur ensemble, je conclus que l'élément « contrôle » , s'il est appliqué au cas qui nous occupe, indique l'existence d'un contrat d'entreprise. Voici les principales raisons qui m'amènent à tirer cette conclusion :
+Les travailleuses n'étaient pas supervisées;
+Les travailleuses choisissaient leurs propres heures et elles n'étaient pas obligées de se présenter régulièrement à la clinique;
+Les travailleuses n'avaient droit à aucune assurance-maladie, à aucunes vacances, à aucun congé de maladie et à aucune rémunération supplémentaire et elles n'étaient pas rémunérées pour les heures effectuées à la maison;
+Les travailleuses pouvaient accepter du travail d'autres personnes;
+L'appelant était très occupé dans l'exercice de sa profession; il n'avait pas le temps d'exercer une supervision et un contrôle;
+Les services des travailleuses ont été retenus à cause de leurs compétences personnelles lorsqu'il s'agissait de prodiguer des soins aux patients; le fait que les travailleuses ne pouvaient pas avoir recours à des assistants ou à des remplaçants n'est donc pas un facteur important.
+[10] Quant à la propriété des instruments de travail, ce critère n'est probablement pas très important dans ce cas-ci. On pourrait considérer que le principal instrument de travail est la clinique de l'appelant, où les travailleuses fournissaient la plupart de leurs services. Tracy avait son propre téléavertisseur ou téléphone cellulaire, mais cela ne peut pas être considéré comme un facteur important. Tout compte fait, l'élément « propriété des instruments de travail » militerait en faveur de l'existence d'un contrat de louage de services. Toutefois, comme il en a été fait mention, la propriété des instruments de travail dans ce cas-ci n'est pas un facteur très important.
+[11] En ce qui concerne les chances de bénéfice, il est établi que Joanne organisait des réunions avec des patients en dehors des heures de travail, ailleurs qu'à la clinique, en vue de leur parler et de leur faire prendre intérêt aux produits qu'elle vendait. Tracy avait toute latitude pour organiser des séances de counselling additionnelles moyennant un tarif plus élevé et, de sa propre initiative, elle a accru ses possibilités de réaliser des bénéfices en acceptant certains patients atteints de douleurs chroniques dans son programme de counselling, ce qui lui assurait une rémunération additionnelle. En conclusion, même si l'élément « chance de bénéfice » n'est pas absolument clair, il permet somme toute de conclure, à mon avis, à l'existence d'un contrat d'entreprise par opposition à un contrat de louage de services.
+[12] Quant aux risques de perte, l'appelant a soutenu avec véhémence qu'il existait un certain risque de pertes, mais il semble tout au plus que ce risque ait été éloigné et, à coup sûr, aucune perte n'a été établie. Je conclus que cet élément milite en faveur de l'existence d'un contrat de louage de services plutôt que d'un contrat d'entreprise.
+[13] En ce qui concerne le critère d'intégration, il est fait mention de l'arrêt Precision Gutters Ltd. c. Canada, [2002] A.C.F. no 771 (C.A.F.), dans lequel le juge Sexton a dit que la question à trancher en ce qui concerne ce critère consiste à savoir « si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte » . Cette façon de traiter la question permet de tenir compte des cas dans lesquels il y a plus d'une entreprise. Il est reconnu qu'il faut aborder la question du point de vue du présumé employé ou du présumé entrepreneur. L'appelant soutient que le travail des travailleuses était accessoire au sien et, en outre, que même si ce travail était utile et souhaitable, il n'était pas essentiel ou ne faisait pas partie intégrante de l'exercice de sa profession; en effet, l'appelant avait déjà exercé ses activités, tant sur le plan administratif qu'en ce qui concerne le soin des patients, en n'ayant qu'à l'occasion recours à de l'aide. L'appelant signale que, même si les travailleuses n'apportaient pas leur contribution, cela ne l'empêcherait pas d'exercer sa profession. À mon avis, la position prise par l'appelant est exacte en ce sens que les travailleuses accomplissaient des tâches accessoires aux activités de celui-ci plutôt que des tâches qui faisaient partie intégrante de ces activités. Ce critère, même s'il n'est pas lui non plus concluant, indique l'existence d'un contrat d'entreprise plutôt que d'un contrat de louage de services.
+ANALYSE ET CONCLUSION
+[14] Je conclus en premier lieu que le ministre n'a pas tenu compte de tous les facteurs ou qu'il n'a pas accordé suffisamment d'importance à certains facteurs. Quant à tous les critères, il faut se reporter aux remarques qui ont ci-dessus été faites.
+[15] Je conclus en second lieu que les témoignages de l'appelant et de Tracy étaient entièrement crédibles, soit une considération importante dans les cas de ce genre.
+[16] Il faut examiner la relation totale qui existe entre les parties, et ce, dans le contexte des critères qui ont ci-dessus été analysés. Je conclus, selon la prépondérance des probabilités, que des contrats d'entreprise avaient été conclus.
+[17] En outre, bien que l'arrangement fondamental entre les parties n'établisse pas nécessairement l'existence d'une présomption et ne soit pas entièrement déterminant lorsqu'il s'agit de trancher la question, il s'agit d'une considération cruciale. Plus précisément, voir Wolf c. Canada, [2002] 4 C.F. 396 (CAF), où le juge Noël a dit ce qui suit :
+[...] il s'agit d'un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids [...] dans une issue serrée comme en l'espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l'intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[...] Comme les parties ont estimé qu'elles se trouvaient dans une relation d'entrepreneur indépendant et qu'elles ont agi d'une façon conforme à cette relation, le juge de la Cour de l'impôt n'avait pas le loisir de ne pas tenir compte de leur entente.
+De plus, dans la décision Bradford v. M.N.R., 88 DTC 1661,le juge Taylor, de la Cour de l'impôt, a dit ce qui suit, à la page 11 de ses motifs de décision :
+Le principe général qui s'impose à moi dans cet appel et dans la récente jurisprudence mentionnée est que, dans un ensemble donné de circonstances où l'on trouve certaines caractéristiques de « l'employé » et de « l'entrepreneur indépendant » , quelques autres aussi qui sont plutôt ambiguës, les intentions et les objectifs des parties, s'ils sont clairement exprimés et acceptés de façon non équivoque, devraient être un facteur prédominant dans la décision de la Cour [...]
+[18] En conclusion, comme il en a été fait mention, certains critères vont dans un sens alors que d'autres vont dans l'autre sens, mais à mon avis, selon la prépondérance des probabilités, Joanne et Tracy étaient régies par des contrats d'entreprise, c'est-à-dire qu'elles étaient des entrepreneurs indépendants.
+[19] Par conséquent, les appels sont accueillis et les décisions du ministre sont annulées.
+Signé à Ottawa, Canada, ce 18e jour d'octobre 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 15e jour de juin 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI682
+Nos DES DOSSIERS
+DE LA COUR :
+2003-3801(CPP) et 2003-3802(EI)
+INTITULÉ :
+Le docteur John B. Armstrong c. MRN
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 20 juillet 2004
+MOTIFS DU JUGEMENT :
+L'honorable T. O'Connor
+DATE DU JUGEMENT :
+Le 18 octobre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Stacey Repas
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

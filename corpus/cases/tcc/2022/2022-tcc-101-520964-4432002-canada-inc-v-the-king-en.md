@@ -1,0 +1,292 @@
+---
+title: "4432002 Canada Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520964/index.do"
+last_modified: "2022-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 101"
+citation2: ""
+neutral_citation: "2022 TCC 101"
+decision_date: "2022-09-07"
+language: "en"
+item_id: "520964"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4490
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:08:27.964000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "979e984f24d61506b25eeeb9976982530b0bdb5901402c102ff0fa445a9d6c73"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 4432002 Canada Inc. v. The King
+
+- Citation: 2022 TCC 101
+- Decision date: 2022-09-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4490, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4432002 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-09-07
+Neutral citation
+2022 TCC 101
+File numbers
+2019-2559(IT)G
+Judges and Taxing Officers
+Gabrielle St-Hilaire
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2559(IT)G
+BETWEEN:
+4432002 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 4, 2022, at Montréal, Quebec
+Before: The Honourable Justice Gabrielle St-Hilaire
+Appearances:
+Counsel for the Appellant:
+Guillaume Rochon Sophia Guedez
+Counsel for the Respondent:
+Christina Ham
+JUDGMENT
+In accordance with the attached reasons, the appeal from the reassessments made on June 28, 2016 under the Income Tax Act (the “Act”) for the taxation years ending December 31, 2010 and 2012 is dismissed, with costs to the respondent.
+Given the valid election made by the appellant pursuant to section 184 of the Act, the appeal from the assessments made on August 11, 2016 under Part III for the 2012, 2013 and 2014 taxation years is allowed.
+Signed at Ottawa, Canada, this 7th day of September 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 6th day of September 2023.
+Melissa Paquette, Jurilinguist
+Citation: 2022 TCC 101
+Date: 20220907
+Docket: 2019-2559(IT)G
+BETWEEN:
+4432002 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+St-Hilaire J.
+I. Introduction [1] The appellant is appealing the assessments made by the Minister of National Revenue (the “Minister”) under the Income Tax Act (the “Act”)[1] for the taxation years ending December 31, 2010, 2012, 2013 and 2014.[2] This appeal concerns the amounts received by the appellant following the disposition of its rights in a software program called GreenHopper (the “Software” or “GreenHopper”).
+[2] The appellant was incorporated on September 5, 2007 under the Canada Business Corporations Act.[3] The shareholders of the appellant are common‑law spouses Jean‑Christophe Huet and Valérie Coulombe, who hold 51% and 49% of the shares, respectively.
+[3] GreenHopper was developed by Mr. Huet in collaboration with a company called Pyxis Technologies Inc. (“Pyxis”), which was his employer at the time that the Software was developed. The Software is a plug-in that works exclusively on the Jira platform, one of the best-selling project management software programs in the world.[4] The parties agree that the main intent of the appellant was to hold Mr. Huet’s share of the rights in the Software. The appellant and Pyxis each held half of the rights in GreenHopper.
+[4] In May 2009, the appellant and Pyxis assigned their rights in GreenHopper to a company called MITT Australia Pty Ltd. (“MITT”). According to the Deed of Assignment (the “DOA”),[5] the consideration payable to the appellant included lump-sum payments and additional payments corresponding to a percentage of the Software’s sales. In addition, the agreement of sale stipulated that Mr. Huet had to join MITT as an employee for at least three years; non-compliance with this clause would result in a reduction in payments.
+[5] Mr. Huet ended his employment with MITT before the end of the minimum three‑year period. To avoid the application of the penalty clauses in the DOA, Mr. Huet and MITT entered into negotiations that resulted in an amended agreement of sale: the Deed of Amendment (the “ADOA”), which was entered into on September 14, 2010.[6] The payments received by the appellant pursuant to the original agreement of sale and the amended agreement of sale are at the heart of the dispute in this case.
+[6] In summary, the crux of the issue in this appeal concerns the tax treatment of certain amounts received by the appellant after the assignment of its interest in GreenHopper. More specifically, the issue is whether amounts received as additional payments in 2010 and 2012 must be included in the appellant’s income pursuant to paragraph 14(1)(b) or pursuant to paragraph 12(1)(g) of the Act. The answer to this question will determine the amount that can be added to the capital dividend account (CDA), which, in turn, could affect the amount of dividends that can be paid to shareholders on a tax-free basis, as well as the application of the tax under Part III of the Act to excess capital dividends, if any.
+II. Issues [7] The first issue concerns the tax treatment of certain additional payments received by the appellant following the sale of GreenHopper. It is important to specify that the lump-sum payments made by MITT in 2009 are not at issue, nor is the additional payment made by MITT on November 17, 2009. More specifically, it is a matter of determining whether the additional payments received by the appellant in 2010 and 2012 should be included in the appellant’s income for the 2010 and 2012 taxation years, respectively, as income from business pursuant to paragraph 12(1)(g) of the Act, as the respondent claims, or pursuant to paragraph 14(1)(b), as the appellant claims.
+[8] The second issue relates to the tax under Part III of the Act that applies to the payment of a capital dividend that exceeds the balance of the CDA. This second issue is closely linked to the first. It must be determined whether the $961,751, $145,000 and $270,647 capital dividends paid by the appellant during its 2012, 2013 and 2014 taxation years, respectively, are subject to Part III tax pursuant to subsection 184(2). In this regard, it is a matter of determining whether these capital dividends, paid pursuant to the election set out in subsection 83(2), exceeded the balance of the appellant’s CDA.[7] Such an excess could result from a determination with respect to the first issue that the additional payments are taxable, in whole or in part, pursuant to paragraph 12(1)(g). As a secondary concern, the issue of whether the appellant can avail itself of the protection provided by the election set out in subsection 184(3) of the Act must also be considered.
+III. The law [9] Paragraph 12(1)(g) of the Act provides for the inclusion in a taxpayer’s income from business or property of any amount received that was dependent on the use of or production from property. This paragraph reads as follows:
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable
+. . .
+(g) any amount received by the taxpayer in the year that was dependent on the use of or production from property whether or not that amount was an instalment of the sale price of the property, except that an instalment of the sale price of agricultural land is not included by virtue of this paragraph;
+[10] Under the scheme that applied to eligible capital property before 2017, paragraph 20(1)(b) of the Act provided that part of the costs of these assets could be amortized at a fixed rate based on a declining‑balance method that applied to the eligible capital property class. The “cumulative eligible capital” account included 75% of “eligible capital expenditures”, and a taxpayer had to deduct any deduction made pursuant to paragraph 20(1)(b) as well as 75% of the proceeds of the disposition of an asset of that class. These deductions could result in a negative balance in the eligible capital property class, namely, in the “cumulative eligible capital” account.
+[11] However, when a taxpayer sold eligible capital property, part of the gain may have needed to be included in income from business pursuant to subsection 14(1) of the Act. Paragraph 14(1)(a) provided for an inclusion of the negative balance in income from business, not exceeding the amount that had been deducted pursuant to paragraph 20(1)(b), which was in fact a recovery of sorts; paragraph 14(1)(b) provided for the inclusion of part of the excess of the negative balance in the deductions recovered pursuant to paragraph 14(1)(a). This last amount was considered an increase in the value of the eligible capital property in that class and was treated in the same way as a capital gain even though it was not a capital gain within the meaning of the Act. I would note that this appeal concerns only paragraph 14(1)(b); paragraph 14(1)(a) was not the subject of debate in the parties’ pleadings.
+[12] Subsection 14(1) reads as follows:
+14(1) Where, at the end of a taxation year, the total of all amounts each of which is an amount determined, in respect of a business of a taxpayer, for E in the definition cumulative eligible capital in subsection (5) (in this section referred to as an “eligible capital amount”) or for F in that definition exceeds the total of all amounts determined for A to D in that definition in respect of the business (which excess is in this subsection referred to as “the excess”), there shall be included in computing the taxpayer’s income from the business for the year the total of
+(a) the amount, if any, that is the lesser of
+(i) the excess, and
+(ii) the amount determined for F in the definition cumulative eligible capital in subsection (5) at the end of the year in respect of the business, and
+(b) the amount, if any, determined by the formula
+2/3 × (A − B − C − D)
+where
+A is the excess,
+B is the amount determined for F in the definition cumulative eligible capital in subsection (5) at the end of the year in respect of the business,
+C is 1/2 of the amount determined for Q in the definition cumulative eligible capital in subsection (5) at the end of the year in respect of the business, and
+D is the amount claimed by the taxpayer, not exceeding the taxpayer’s exempt gains balance for the year in respect of the business.
+[13] It appears that the amounts at issue in this case can be caught by section 12 and section 14 of the Act. Given that the tax treatment arising from the application of paragraph 12(1)(g) (namely, the inclusion of all payments as income) is different from the tax treatment arising from the application of paragraph 14(1)(b) (namely, the inclusion of a fraction of the payments), it is necessary to determine which of these two provisions should apply in this case. It is important to note that subsection 248(28) of the Act recognizes that two provisions can apply to one transaction and is intended to avoid double counting unless the Act clearly compels such a result.[8]
+[14] Regarding the second issue, paragraph (c.2) of the definition of CDA in subsection 89(1) of the Act authorizes adding to the CDA the amount that is required to be included in income pursuant to paragraph 14(1)(b). The CDA is a notional account that allows private corporations to keep track of tax-free amounts accumulated over time. Pursuant to subsection 83(2) of the Act, a private corporation can elect to pay capital dividends to its shareholders on a tax-free basis when it has a positive balance in its CDA. If a corporation pays capital dividends in an amount that exceeds its CDA balance, it will be subject to tax equal to 60% of the excess, pursuant to subsection 184(2) of the Act. However, pursuant to subsection 184(3), a corporation that has paid a dividend that exceeds its CDA balance can elect, with shareholder approval, to treat this excess as a taxable dividend. In the circumstances of this case, the appellant made that election with regard to the capital dividends declared during the 2012, 2013 and 2014 taxation years, knowing that if the respondent’s position were accepted, the appellant would have paid excess capital dividends.[9]
+IV. Positions of the parties Position of the appellant
+[15] At the heart of the appellant’s position is the submission that the additional payments received in 2010 and 2012 should be included in its income pursuant to paragraph 14(1)(b) of the Act, which has the effect of authorizing the inclusion of an amount in the CDA and, consequently, of offering the appellant the possibility of paying capital dividends to its shareholders on a tax‑free basis. According to the appellant, by disposing of its rights in GreenHopper, it disposed of eligible capital property, which is a transaction that is caught by paragraph 14(1)(b), and this provision must take priority over paragraph 12(1)(g); otherwise, this would result in illogical outcomes. In addition, the appellant maintains that one of the conditions for the application of paragraph 12(1)(g) was not met, namely, the condition that a paid amount must have been dependent on the use of or production from property.
+Position of the respondent
+[16] According to the respondent, this case essentially raises an issue of the interpretation of contracts, specifically the DOA and the ADOA, and since the payments at issue are dependent on the use of or production from the Software, the payments must be included in full in the appellant’s income as income from business pursuant to paragraph 12(1)(g) of the Act.
+V. Analysis [17] At the hearing, the parties asserted that the relevant facts in this case are not in dispute; the crux of the dispute essentially concerns the interpretation of contracts, specifically the DOA and the ADOA, and the relevant provisions of the Act. Under the circumstances, it is important to specify the content of the clauses that are at the heart of the debate in this case.
+[18] It should be recalled that the appellant and Pyxis signed an agreement of sale (the DOA) pursuant to which they assigned all their rights in GreenHopper in May 2009. As mentioned above, Mr. Huet had agreed to work for MITT for a period of three years, and the consideration payable to the appellant included lump‑sum payments and additional payments based on Software sales.
+Payments received by the appellant under the DOA
+[19] Clause 7.1 of the DOA, which is reproduced in Appendix 1, stipulated the amounts and payment dates for five lump-sum payments. It is important to note that the lump-sum payments that are provided for in clauses 7.1(a)(i)(D) and (E) of the DOA were not paid seeing as those payments were scheduled for dates that fell after the date that the ADOA was entered into.[10] Pursuant to clause 3.1(c) of the ADOA, the appellant waived those payments.[11] In August 2009, the appellant received a total of US$750,000 (C$890,400) in lump-sum payments as stipulated in clauses 7.1(a)(i)(A), (B) and (C) of the DOA. The appellant declared half of that amount as income from business pursuant to paragraph 14(1)(b) in its taxation year ending August 31, 2009.[12]
+[20] Clause 7.3 of the DOA, which is reproduced in Appendix 1, stipulated payments to be made exactly one, two and three years after the date that the DOA came into effect, which was on May 1, 2009, based on a percentage of the Software sales. Other than the payment dates, the difference between clause 7.3(a), clause 7.3(b) and clause 7.3(c) was limited to the percentage of the sales, which dropped from 35% to 25% and ultimately to 17.5% over the three years.
+[21] In November 2009, the appellant received $269,466, which was the first part of the additional payment stipulated in clause 7.3(a) of the DOA.[13] This payment was calculated based on the Software sales that were known at that time.[14] The appellant declared this income pursuant to paragraph 14(1)(b) of the Act in its taxation year ending January 13, 2010.[15] This first part of the payment provided for in clause 7.3(a) is not at issue, although the second part is. This second part—an amount of $878,823—was received on May 25, 2010 and was included in the appellant’s income for the taxation year ending December 31, 2010.[16] No payments were made pursuant to clauses 7.3(b) and (c) of the DOA because Mr. Huet resigned and the parties negotiated a new agreement, namely the ADOA entered into on September 14, 2010, before the due dates of the payments stipulated in clauses (b) and (c), which were to be made in May 2011 and May 2012.
+[22] Clause 7.8 of the DOA provided for a maximum of US$8 million for the proceeds of the disposition of the Software. Mr. Huet had insisted on a value of $8 million for GreenHopper, and after long and arduous negotiations, the parties agreed on a combination of lump-sum payments and payments based on sales up to a maximum of US$8 million.[17]
+Payments received by the appellant under the ADOA
+[23] According to Mr. Huet, everything was going very well at the beginning of his employment with MITT or Atlassian,[18] even though integration in Australia was difficult for his family. He stated that things began to deteriorate from the moment when Atlassian created stock purchase options for its employees but excluded Mr. Huet because, according to him, it was considered that he was already making enough money with the Software. It was at that point that Mr. Huet, faced with a feeling of rejection from being excluded from the stock purchase options and with the difficulties that his family was facing, decided to resign from his position and return to Montréal, thereby reneging on his agreement to work for MITT/Atlassian for at least three years.[19]
+[24] Following Mr. Huet’s resignation, MITT proposed two options to resolve their dispute, giving the appellant and Pyxis the choice between those two options. As part of the first option, MITT offered a set amount of $1.8 million, whereas as part of the second, MITT offered an amount of about $1.7 million that could vary depending on the income relating to the Software, while accounting for the penalties for violating the employment agreement. Mr. Huet, on behalf of the appellant, chose the second option, while Pyxis chose the first. Mr. Huet testified that he chose this option in the hope that it would provide him with more money, which would allow him to get closer to his estimated value of the Software; this hope was based on his certainty that GreenHopper would perform incredibly well.
+[25] Clause 3.2 of the ADOA, which is reproduced in Appendix 2, stipulated the amounts that would be paid to the appellant in accordance with this out-of-court settlement. Pursuant to clauses 3.2(a) and (b) of the ADOA, the appellant would receive US$1,733,784 (C$1,615,409) as prepayment for the amounts owed pursuant to clause 7.3 of the DOA. The appellant received this amount on December 29, 2010.
+[26] Clause 3.2(d) of the ADOA provided that payments would be made to the appellant in application of clauses 7.3(b) and (c) of the DOA, subject to reductions for failing to comply with the employment clause. Also, clause 3.2(d)(i) stipulated that the appellant would not have to reimburse a portion of the $1,615,409 payment made under clause 3.2(a) even if it turned out that the amount calculated pursuant to clause 3(d) was lower than that amount. In addition, the maximum amount of payments that could be received by the appellant decreased from US$8 million to US$7.6 million.
+Payments received by the appellant that are at issue
+[27] The payments received by the appellant that are at issue are the following:[20]
+(i) Payment of $878,823 received on May 25, 2010 pursuant to clause 7.3(a) of the DOA (namely, pursuant to the initial agreement of sale);
+(ii) Payment of $1,615,409 received on December 29, 2010 pursuant to clause 3.2 of the ADOA (namely, pursuant to the amended agreement of sale);
+(iii) Payment of $345,145 received on May 27, 2012 pursuant to clause 3.2 of the ADOA (namely, pursuant to the amended agreement of sale).
+[28] It is worth reiterating that the main issue that I have to decide is whether paragraph 12(1)(g) of the Act applies to these three payments.
+[29] The appellant maintains that the payment clauses in the DOA and the ADOA are reverse earn-out clauses and not earn-out clauses and that paragraph 12(1)(g) does not apply to reverse earn-out payments. Given that the Act does not define these terms, the parties have relied upon academic articles and other documents to support the meaning that they give to these expressions.
+[30] In support of its position, the appellant cites the following statements taken from materials prepared for a seminar presented in 2007 and written by Beaubier and Pederson:
+With an earn-out, the purchase price may be increased if profits of the acquired business are greater than a set amount. With a reverse earn-out, the purchase price may be reduced if the profits of the business fail to achieve a set level. By their very nature, however, earn-out agreements are complex.
+For a seller, any payment which depends upon “the use of or production from property” is included in income, regardless whether the amount is an installment payment on the purchase price of that property. Only the variable portion of the purchase price that is contingent upon future earnings is taxable as income, not the fixed component of the purchase price. . . . Thus, an earn-out may result in the conversion of what would otherwise be a capital gain or a gain on eligible capital property (both of which would be taxable at reduced rates) into fully taxable income. . . .
+Paragraph 12(1)(g) does not apply to reverse earn-outs. However, the maximum amount must be set at the fair market value of the assets and there must be a reasonable expectation at the time of the disposition of the business that the profitability conditions will be met. With a reverse earn-out, the entire proceeds are treated as proceeds of disposition, and if the conditions are not met subsequently, an appropriate adjustment is made in the year in which the amount of the reduction in the sale price is known with certainty.[21] . . .
+[Footnotes omitted.]
+[31] At the hearing, in support of the position that it is not a matter of earn‑out clauses in this case, counsel for the appellant stated the following:
+[translation]
+Another point that I would like to submit to you, Madam Justice, is that notwithstanding the wording used in the Deed of Assignment agreement and the Deed of Settlement agreement, we are not dealing with what could be called an earn-out clause; we are dealing with what could be called a reverse earn-out clause. The difference is the following: an earn-out clause is defined as a clause that sets a minimum initial amount that can then be increased when certain criteria and conditions . . . are met; a reverse earn-out clause is a clause where the maximum price that a party can receive in relation to the disposition of an asset is set out in the agreement and where this maximum price set out in the agreement can be reduced if certain criteria and conditions, once again as set out between the parties in their agreement, have been met or not.[22]
+[32] Counsel for the appellant added that since the DOA and the ADOA provided for a maximum amount that could not be exceeded regardless of Software sales, this confirms that these are reverse earn-out agreements.
+[33] With respect, in my opinion, the text cited by the appellant as well as the submissions made by its counsel lead me to find that the clauses at issue in this case are earn-out clauses and not reverse earn-out clauses.
+[34] The following text, which was written by Stirling and Bright, published by the Canadian Tax Foundation and cited in support of the respondent’s claims, is even more clear in this respect:
+There are two standard approaches to structuring an earnout: a traditional earnout and a “reverse-earnout”. In a typical earnout arrangement, the purchaser would pay to the vendor a portion of the purchase price on closing. The remainder of the purchase price would be payable under a purchase agreement based upon an agreed schedule of payments that would only become payable if, as and when certain financial metrics are achieved. In other words, the vendor “earns out” the full purchase price by continuing to participate in the business, and indirectly continuing to participate in the profits of the business, provided that certain financial targets are met. On the other hand, where the parties choose to enter into a reverse earnout arrangement, the purchaser would typically pay to the vendor an amount equal to the maximum possible agreed-upon purchase price, a portion of which would be returned to the purchaser if certain financial targets are not met.
+. . .
+Earnouts
+Amounts received by the vendor as earnout payments may be required by paragraph 12(1)(g) of the Income Tax Act (Canada) (the “Act”) to be included in computing the vendor’s income in the taxation year in which they are received. . . . Because earnout payments are generally made with reference to the financial success of the sold business, such payments are considered to be dependent on the use of, or production from, the property of the sold business such that paragraph 12(1)(g) generally applies, notwithstanding that the earnout payments also represent deferred proceeds of disposition of the property of the sold business.
+. . .
+Reverse Earnouts
+. . . Such an arrangement generally should not involve payments that would attract the application of paragraph 12(1)(g); indeed, a primary reason for entering into such an arrangement is for the vendor to avoid that provision’s application. The CRA recently confirmed that paragraph 12(1)(g) does not apply “where the sale price of property is originally set at a maximum which is equivalent to the fair market value of the property at the time of the sale and which can be subsequently decreased if certain conditions related to production or use are not met in the future.” [23]
+[Footnotes omitted; emphasis added.]
+[35] On the basis of the statements made by Beaubier and Pedersen in their description of a reverse earn-out, and borrowing the words of author André Paquette, who was quoted by the Federal Court of Appeal in Fiducie Claude Deragon v. R., it is clear that this is not an arrangement by which [translation] “the share purchase price is determined at the closing of the transaction and is a maximum price that may be revised downwards.”[24] This is not a situation where the agreement of sale stipulates that MITT will pay the maximum amount, a portion of which might have to be reimbursed if certain financial targets are not met. A careful review of the DOA and the ADOA does not reveal any clause of this nature. Rather, what are found in reviewing the DOA and the ADOA are clauses that stipulate the payment of lump-sum amounts and the payment of additional amounts based on Software sales. Insofar as it is useful to characterize the agreements of sale in this case, in my opinion, these are clearly earn-out agreements. The fact that both the DOA and the ADOA provided for a maximum for the total of the payments that could be received by the appellant does not change this finding in any way.
+[36] Therefore, the appellant’s argument that paragraph 12(1)(g) of the Act does not apply in this case because this provision cannot apply to reverse earn‑out clauses cannot be accepted.
+[37] The appellant argues that in circumstances where paragraph 12(1)(g) and paragraph 14(1)(b) could apply, paragraph 14(1)(b) of the Act should be used. In support of this claim, the appellant cites Jean-Paul Rouleau Estate v. R.[25] In that decision, Chief Justice Garon of this Court, as he then was, preferred to apply paragraph 14(1)(b) because he found it absurd that, during the disposition of eligible capital property, a portion of the payment could be included in income pursuant to paragraph 12(1)(g) and a portion pursuant to paragraph 14(1)(b), in which case this could have an illogical effect on the cumulative amount of eligible capital property. I note that this decision does not seem to have ever been cited by the courts; in addition, a line of authority has emerged that promotes the application of paragraph 12(1)(g) under the appropriate circumstances. In Smith v. R., Justice Favreau stated the following:
+The fact that the client list of the appellant was the subject of a “business” transaction to which section 14 of the Act would normally apply, can nevertheless become the subject of further review as “property” under paragraph 12(1)(g) of the Act.[26]
+[38] I agree with the statements made by Favreau J., and I find that nothing in the wording of paragraphs 12(1)(g) and 14(1)(b) precludes a review of the application of paragraph 12(1)(g) in the circumstances of this case. During this review, it must be determined whether the three payments at issue received by the appellant were “dependent on the use of or production from property”, namely, dependent on Software sales. Moreover, in my view, nothing in the wording of paragraph 14(1)(b) suggests that precedence must be given to that paragraph over paragraph 12(1)(g). Furthermore, the fact that the treatment of the cost of eligible capital property, in this case, the Software, is subject to paragraph 14(1)(b) of the Act is not relevant to whether the income from its production must be subject to paragraph 12(1)(g).
+Tax treatment of the May 25, 2010 payment made under the DOA
+[39] Clause 7.3(a) of the DOA stipulated an additional payment to the appellant and to Pyxis of an amount representing 35% of GreenHopper sales during the 12‑month period following the date that the DOA came into effect, specifically from May 1, 2009 to April 30, 2010. The first portion of this amount was received by the appellant in November 2009. On May 25, 2010, the appellant received the second portion of the payment (specifically, $878,823). In the Agreed Statement of Facts, the appellant acknowledged that this payment was made pursuant to clause 7.3(a).[27] In my view, there is no doubt that the receipt of this payment was “dependent on the use of or production from property”, namely, dependent on GreenHopper sales. Therefore, the appellant must include this amount in its income for the taxation year ending December 31, 2010 pursuant to paragraph 12(1)(g).
+[40] At the hearing, counsel for the appellant stated that paragraph 12(1)(g) could not apply to the $878,823 payment received by the appellant on May 25, 2010 because the payment was made pursuant to a reverse earn-out clause.[28] As I have found that this is not a case of reverse earn-out, this argument cannot be accepted.
+Tax treatment of payments made under the ADOA
+[41] Clause 3.2 of the ADOA provided for additional payments to the appellant. Pursuant to clauses 3.2(a) and (b), MITT had to make a $1,615,409 payment, which was described as a “prepayment in the amount of USD1,733,784 [C$1,615,409] towards any Earn-Out Payments pursuant to clause 7.3 of the ‘Deed of Assignment’” (DOA). Clause 3.2(d) of the ADOA stipulated that the additional payments set out in the DOA would be made pursuant to clauses 7.3(b) and (c) of the DOA while noting that the purpose of the prepayment made pursuant to clause 3.2(a) (specifically, the $1,615,409 amount) would be to reduce the amounts payable pursuant to clauses 7.3(b) and (c). Also, clause 3.2 indicated that the appellant would not have to reimburse a portion of the prepayment if it turned out that the payments calculated based on sales pursuant to clauses 7.3(b) and (c) were lower than the prepayment amount.
+[42] I would like to reiterate that clause 7.3(b) of the DOA provided for an additional payment of an amount based on 25% of GreenHopper sales during the period from May 1, 2010 to April 30, 2011, while clause 7.3(c) of the DOA stipulated an additional payment of an amount based on 17.5% of GreenHopper sales during the period from May 1, 2011 to April 30, 2012.
+[43] No payments were made in 2011, which suggests that once sales for the relevant period were accounted for, the amount owed did not exceed the prepayment amount of $1,615,409.
+[44] In the Agreed Statement of Facts, the appellant acknowledged that the $345,145 payment received on May 27, 2012 was made pursuant to clause 7.3(c) of the DOA.[29] As mentioned above, this clause stipulated a payment based on 17.5% of GreenHopper sales for the relevant period. I find that the May 27, 2012 payment was based on Software sales such that the received payment was “dependent on the use of or production from property”, namely, dependent on GreenHopper sales. Therefore, it falls within the parameters of paragraph 12(1)(g), and it is pursuant to this paragraph that the appellant must include it in its income for the taxation year ending in 2012.
+[45] In the Agreed Statement of Facts, the parties stated that the $1,615,409 payment received on December 29, 2010 was made pursuant to the regulations, specifically the ADOA, without clarifying the applicable clauses.
+[46] However, I would like to reiterate that clause 3.2(d) of the ADOA expressly stipulates that earn-out payments will be made pursuant to clauses 7.3(b) and 7.3(c) of the DOA. In my view, this clearly indicates that the payments will be recorded based on a percentage of the sales. This makes it possible to find that the $1,615,409 payment is a payment that was dependent on GreenHopper sales and that it is caught by paragraph 12(1)(g). Furthermore, it seems to me that to account for the $345,145 amount that was paid in May 2012 pursuant to clause 7.3(c) (an amount based on 17.5% of sales), it was necessary to know the amount calculated pursuant to clause 7.3(b) (an amount based on 25% of sales). Once the amount was calculated pursuant to clause 7.3(b), MITT was able to determine the excess of the total owed on the $1,615,409 prepayment, this amount having been paid in May 2012. This confirms the finding that the $1,615,409 prepayment is an amount that was dependent on sales and that is caught by paragraph 12(1)(g). The fact that MITT specified that the appellant would not be required to reimburse any amounts does not change that at all. Only conclusive evidence concerning how the $1,615,409 payment amount was determined could have persuaded this Court otherwise. The evidence presented at the hearing does not reveal how the $1,615,409 payment amount was determined. I would like to note that when the ADOA was entered into, MITT was already aware of sales for over four months of the period that relates to clause 7.3(b) of the DOA.
+[47] Counsel for the appellant cited Brosseau v. R.[30] in support of the claims. In that case, the appellant had sold his list of clients and had received $125,072. However, the contract stipulated that the appellant would receive payments for five years based on the professional income generated by his former clients but that he should receive a minimum of $100,000. This Court found that the $100,000 amount was not caught by paragraph 12(1)(g). In my view, in the circumstances of that case, the $100,000 received by Mr. Brosseau was a payment that is rather of the same nature as the lump-sum payments received by the appellant in 2009, which are not caught by paragraph 12(1)(g). Furthermore, it is worth specifying that despite any potential similarity in the facts, the issue at the heart of this dispute must be decided based on the evidence in the record, and this Court must perform a thorough and independent analysis of this case based on that evidence.[31]
+[48] Given the finding that the three amounts received by the appellant were dependent on use of or production, namely, dependent on GreenHopper sales, the amounts are taxable pursuant to paragraph 12(1)(b) of the Act. This consequently reduces the amounts that could be added to the CDA in relation to these payments pursuant to paragraph (c.2) of the definition of CDA in subsection 89(1). Given the elections made in relation to capital dividends declared during the 2012, 2013 and 2014 taxation years pursuant to subsection 83(2), this triggers payments of excess capital dividends subject to Part III tax.[32] It is therefore relevant to consider whether the appellant can avail itself of the protection offered by subsection 184(3) of the Act.
+[49] In November 2016, after the notices of assessment were issued in August 2016, the appellant communicated protection elections pursuant to subsection 184(3).[33] As mentioned above, this provision authorizes a corporation to avoid the tax set out in Part III of the Act on excess capital dividends by treating the excess as a taxable dividend. It should be recalled that the appellant had requested that these elections be suspended until this appeal is resolved. At the hearing, the respondent did not dispute that the appellant had fulfilled the conditions for the application of subsection 184(3), and in fact, she made no submissions in relation to this issue. It appears that the respondent was of the view that the issue regarding the assessments based on Part III tax and the protection election was secondary and would depend on the determination with respect to the main issue in this case.
+[50] In Gladwin Realty Corporation v. R.,[34] the Federal Court of Appeal stated the following:
+When a private corporation has a positive CDA balance, it may distribute those surpluses, tax-free, by way of a capital dividend, but only to the extent of the corporation’s CDA balance immediately before the dividend becomes payable (subsection 83(2)). Should a corporation elect to pay a capital dividend in excess of the CDA, it incurs the additional tax on excessive elections imposed under Part III of the Act, specifically subsection 184(2), unless it elects, with the agreement of the relevant shareholders, to treat the excess as a regular taxable dividend (subsections 184(3) and 184(4)).
+[Emphasis added.]
+[51] I find that the elections made by the appellant pursuant to subsection 184(3) are valid. As a result of these elections, the excess dividends are considered taxable dividends, and the result is the authorized avoidance of Part III tax.
+VI. Conclusion [52] The appellant has not shown that the payments at issue should escape paragraph 12(1)(g) of the Act. Indeed, the payments received by the appellant on May 25, 2010, December 29, 2010 and May 27, 2012 must be included in its income pursuant to paragraph 12(1)(g) of the Act. The appeal from the reassessments made on June 28, 2016 for the taxation years ending December 31, 2010 and December 31, 2012 is dismissed, with costs to the respondent.
+[53] Under these circumstances, the Minister was justified in reducing the CDA balance, which resulted in the appellant having declared excess capital dividends subject to Part III tax pursuant to subsection 184(2) of the Act. However, the valid elections made pursuant to subsection 184(3) authorize the appellant to avoid this tax, with the excess capital dividends being considered a taxable dividend. Consequently, the appeal from the Part III tax assessments made on August 11, 2016 for the 2012, 2013 and 2014 taxation years is allowed.
+Signed at Ottawa, Canada, this 7th day of September 2022.
+“Gabrielle St-Hilaire”
+St-Hilaire J.
+Translation certified true
+on this 6th day of September 2023.
+Melissa Paquette, Jurilinguist
+Appendix 1 Deed of Assignment (DOA) Clauses 7.1 and 7.3
+7. Payments
+7.1 Lump Sum Payment Schedule
+(a) As consideration for the assignment of the GreenHopper IP and transfer of the GreenHopper elements to MITT and the Vendors fulfilling their obligations under this deed, MITT will pay the Purchase Price as follows, subject to clause 9 :
+(i)Payments to each of Pyxis and 4432002 of :
+(A) (First Lump Sum Payment): USD625,000 on assignment of the GreenHopper IP and delivery of the items referred to in clause 3.3;
+(B) (Second Lump Sum Payment): USD50,000 which will be owing on the 30th Business Days after the Start Date and payable without penalty within 20 Business Days of such date;
+(C) (Third Lump Sum Payment): USD75,000 which will be owing on the first anniversary of the Effective Date and payable without penalty within 5 Business Days of such date;
+(D) (Fourth Lump Sum Payment): USD50,000 no earlier than the second anniversary of the Effective Date and payable without penalty within 5 Business Days of such date; and
+(E) (Fifth Lump Sum Payment): USD25,000 no earlier than the third anniversary of the Effective Date and payable without penalty within 5 Business Days of such date.
+. . .
+7.3 Earn-Out Payments Schedule
+Subject to clauses 7.4, 7.6 and 9, MITT will pay the Earn-Out Payments to each of Pyxis and 4432002 calculated as follows and at the times referred to below:
+a) within 20 Business Days of the anniversary of the Effective Date an amount equivalent to 35% of all sales during the 12 months from the Effective Date plus any Earn-Out Interest;
+b) within 20 Business Days of the second anniversary of the Effective Date an amount equivalent to 25% of all Sales during the 12 months after the first anniversary of the Effective Date plus any Earn-Out Interest; and
+c) within 20 Business Days of the third anniversary of the Effective Date an amount equivalent to 17.5% of the Sales during the 12 months after the second anniversary of the Effective Date plus any Earn-Out Interest.
+Appendix 2 Deed of Amendment (ADOA) Clause 3.2
+3. Revised Payment Obligations
+. . .
+3.2 Payments to 4432002 and Huet
+Notwithstanding anything contained in the Deed of Assignment, 4432002, MITT and Huet agree to discharge all payment obligations pursuant to the Deed of Assignment on the following terms:
+(a) Subject to Huet’s compliance with clause 4, on or before 10 January 2011, MITT must arrange for the payment of USD1,733,784 to the bank account nominated by 4432002 (or by such other means as is agreed by MITT and 4432002);
+(b) 4432002 and Huet acknowledge and agree that a payment pursuant to clause 3.2(a), if any, constitutes a prepayment in the amount of USD1,733,784 towards any Earn-Out Payments pursuant to clause 7.3 of the Deed of Assignment that will become due and payable to 4432002 at such times as are set out in the Deeds of Assignment;
+(c) 4432002 and Huet acknowledge and agree that:
+(i) the Lump Sum Payments pursuant to clauses 7.1(a)(i)(D) and 7.1(a)(i)(E) of the Deed of Assignment; and
+(ii) any interest that may have accrued on those amounts pursuant to clause 7.2 of the Deed of Assignment,
+is forfeited in its entirety and that no claim, action, or demand (of any kind) will be made or brought against MITT in relation to those amounts or payments;
+(d)4432002, Huet and MITT acknowledge and agree that the Earn-Out Payments pursuant to the Deed of Assignment will be made in accordance with clauses 7.3(b) and 7.3(c) of the Deed of Assignment subject to :
+(i)a reduction of the Earn-Out Payments for any prepayment, if any, of those amounts pursuant to clause 3.2(a), however, for the sake of clarity but subject to clause 6.6, no refund of the prepayment amount pursuant to clause 3.2(a) is payable by 4432002 to MITT in the event that the calculation of the Earn‑Out Payments pursuant to clause 3.2(d) is less than the amount of the prepayment pursuant to clause 3.2(a);
+(ii)the 50% reduction in the total Earn-Out Payment payable to 4432002 as provided for by clause 9.1(b)(i)(B) of the Deed of Assignment; and
+(iii)notwithstanding any other provision of this deed or the Deed of Assignment, the total Purchase Price (as paid in total to all Vendors) not exceeding USD7,600,000.
+(e)4432002 and Huet acknowledge and agree that the Earn-Out Interest pursuant to clauses 7.5 of the Deed of Assignment is forfeited in its entirety and that no claim, action, or demand (of any kind) will be made or brought against MITT in relation to those payments; and
+(f)4432002 and Huet must, within one (1) Business Day of the Execution Date provide all consents and signatures required for the release of the funds to MITT as contemplated by clause 7.2(b)(ii) of the Deed of Assignment; and (sic)
+CITATION:
+2022 TCC 101
+COURT FILE NO.:
+2019-2559(IT)G
+STYLE OF CAUSE:
+4432002 CANADA INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 4, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gabrielle St‑Hilaire
+DATE OF JUDGMENT:
+September 7, 2022
+APPEARANCES:
+Counsel for the Appellant:
+Guillaume Rochon
+Sophia Guedez
+Counsel for the Respondent:
+Gabriel Girouard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Guillaume Rochon Sophia Guedez
+Firm:
+Ravinsky Ryan Lemoine, s.e.n.c.r.l.
+For the Respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.).
+[2] Even though the appellant had more than one fiscal year during certain years, the relevant taxation years in this case are those for the fiscal years ending December 31, 2010, 2012, 2013 and 2014, hereinafter referred to as the 2010, 2012, 2013 and 2014 taxation years.
+[3] Canada Business Corporations Act, R.S.C. 1985, c. C-44.
+[4] According to Mr. Huet, the purpose of the GreenHopper plug-in was to expand Jira’s features, such that GreenHopper was only usable by Jira clients. See hearing transcript (the “Transcript”) at pages 12–13.
+[5] Exhibit AI-1, Tab 3.
+[6] Exhibit AI-1, Tab 4 and partial agreed statement of facts (the “Agreed Statement of Facts”), paragraphs 17–18.
+[7] For elections made pursuant to subsection 83(2) of the Act, see Exhibit AI-1, tabs 15–22.
+[8] See Imperial Oil Ltd. v. R., 2004 FCA 361, at paragraph 68, reversed on other grounds by 2006 SCC 46.
+[9] It is relevant to mention that the appellant asked the Minister to suspend the application of the election made pursuant to subsection 184(3) of the Act until the appellant’s challenge to the assessments in relation to the payments at issue was dealt with. See Exhibit AI-1, Tab 14.
+[10] The appellant received the payments stipulated in clauses 7.1(a)(i)(A), (B) and (C) but not those stipulated in clauses 7.1(a)(i)(D) and (E) of the DOA. Paragraph 10 of the Agreed Statement of Facts is incorrect in this respect. See Transcript at pages 41–42.
+[11] Exhibit AI-1, Tab 4, DOA.
+[12] See Agreed Statement of Facts at paragraph 10.
+[13] Agreed Statement of Facts, at paragraph 11. It is worth noting that in these reasons, the amounts are expressed in Canadian dollars, unless otherwise indicated.
+[14] See Transcript at page 46.
+[15] See Agreed Statement of Facts at paragraphs 12, 13 and 15. The appellant’s taxation year ended on January 13, 2010 when Mr. Huet and Ms. Coulombe left Canada, and a new taxation year began on January 14, 2010.
+[16] Agreed Statement of Facts, at paragraphs 14 and 21.
+[17] See Transcript at page 20.
+[18] According to the Agreed Statement of Facts at paragraph 8, Mr. Huet had agreed to work for MITT. However, according to his testimony, he was working for Atlassian Pty Limited, which was somehow connected to MITT and was in fact a party to the DOA and the ADOA. See Transcript at page 22.
+[19] See Transcript at pages 22–23.
+[20] It should be recalled that the amounts are expressed in Canadian dollars.
+[21] Beaty Beaubier, The Purchase and Sale of a Business: A Review of the Tax Issues, edition revised by Yens Pedersen, Saskatchewan Legal Education Society Inc., March 2007, at pages 26–27.
+[22] Transcript, at page 66.
+[23] Andrew Stirling, Jonathan C.G. Bright, “Selected Issues in Purchase and Sale Transactions”, in 2017 Ontario Tax Conference (Toronto: Canadian Tax Foundation, 2017), pages 1–4.
+[24] See Fiducie Claude Deragon v. R., 2015 TCC 294, at paragraph 36.
+[25] Jean-Paul Rouleau Estate v. R., [1991] 1 C.T.C. 2055, 91 D.T.C. 115 (French version), 91 D.T.C. 120 (“Rouleau Estate”).
+[26] Smith v. R., 2011 TCC 461, at paragraph 12. Favreau J. cited 289018 Ontario Ltd. v. R., [1987] 1 C.T.C. 2095, 87 D.T.C. 38 (TCC), a decision that Garon J. had cited in Rouleau Estate, supra, note 25 at paragraph 50. Garon J. found that it could be distinguished on the facts without elaborating any further on his thinking. For other decisions in which the courts were called upon to decide on the application of paragraph 12(1)(g), see Lackie v. R., [1979] C.T.C. 389, 79 D.T.C. 5309 (FCA) and Porta-Test Systems Ltd. v. R., [1980] C.T.C. 71, 80 D.T.C. 6046 (F.C.T.D.).
+[27] Agreed Statement of Facts, at paragraph 14, and Transcript, at page 47.
+[28] Transcript, at page 86.
+[29] Agreed Statement of Facts, at paragraph 22.
+[30] Brosseau v. R., [1986] 1 C.T.C. 2558, 86 D.T.C. 1412 (TCC).
+[31] Ray-Mont Logistiques Montréal Inc. v. R., 2020 FCA 113, at paragraph 21.
+[32] See the Reply to the Notice of Appeal at paragraph 23.
+[33] Exhibit AI-1, Tab 14.
+[34] Gladwin Realty Corporation v. Canada, 2020 FCA 142, at paragraph 58.

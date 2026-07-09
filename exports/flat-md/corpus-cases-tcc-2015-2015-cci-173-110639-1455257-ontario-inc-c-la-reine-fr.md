@@ -1,0 +1,249 @@
+---
+title: "1455257 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110639/index.do"
+last_modified: "2015-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 173"
+citation2: ""
+neutral_citation: "2015 CCI 173"
+decision_date: "2015-07-07"
+language: "fr"
+item_id: "110639"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2666
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:27:51.106000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1c8f0ee81b7597561773004a92156a82478a17b4f40a7bee8ac6c6137616aa51"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1455257 Ontario Inc. c. La Reine
+
+- Citation: 2015 CCI 173
+- Decision date: 2015-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2666, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1455257 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-07-07
+Référence neutre
+2015 CCI 173
+Numéro de dossier
+2012-4138(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4138(IT)G
+ENTRE :
+1455257 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 6 mars 2015, à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Domenic Marciano
+Avocat de l’intimée :
+Me Craig Maw
+ORDONNANCE
+ATTENDU que l’intimée a présenté une requête visant à :
+[traduction]
+a) ajourner l’appel pour 60 jours afin de permettre à l’appelante de prendre les mesures nécessaires pour obtenir sa reconstitution conformément au paragraphe 241(5) de la Loi sur les sociétés par actions de l’Ontario et d’aviser la Cour et l’intimée des progrès accomplis à cet égard;
+b) subsidiairement, annuler l’appel parce que l’appelante est – et a été pendant toute la période pertinente – une société dissoute et n’a pas la capacité requise pour déposer un appel auprès de la Cour canadienne de l’impôt et pour prendre des mesures quelconques dans le cadre de cet appel, y compris, notamment, le dépôt d’une requête;
+c) subsidiairement encore, exiger de l’appelante qu’elle dépose un cautionnement pour dépens d’un montant de 7 000 $ ou de tout autre montant que la Cour considère comme juste, et que l’ancien administrateur ou une autre personne intéressée, à titre personnel, s’engage à se conformer à toutes les ordonnances et à tous les jugements que rendra la Cour canadienne de l’impôt dans le présent appel;
+d) obtenir tout autre redressement que la Cour estime approprié.
+ET VU les éléments de preuve déposés, ainsi que les observations formulées par les avocats de l’appelante et de l’intimée;
+LA COUR ORDONNE :
+1. L’appel est ajourné pour 60 jours afin de permettre à l’appelante de prendre les mesures nécessaires pour obtenir sa reconstitution conformément au paragraphe 241(5) de la Loi sur les sociétés par actions de l’Ontario.
+2. L’appelante confirmera à la Cour, par écrit, qu’elle a obtenu sa reconstitution dans les dix jours suivant la date de reconstitution, et elle en informera simultanément l’intimée.
+3. La requête de l’intimée est accueillie avec dépens.
+Signé à Nanaimo (Colombie-Britannique), ce 7e jour de juillet 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 3e jour de novembre 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2015 CCI 173
+Date : 20150707
+Dossier : 2012-4138(IT)G
+ENTRE :
+1455257 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Lyons
+[1] L’intimée a présenté une requête en vue d’obtenir une ordonnance visant à :
+a) ajourner l’appel pour 60 jours afin de permettre à l’appelante, 1455257 Ontario Inc. (« 1455257 »), d’obtenir sa reconstitution conformément au paragraphe 241(5) de la Loi sur les sociétés par actions de l’Ontario, LRO 1990, ch. B.16, dans sa version modifiée (la « LSA ») et d’aviser la Cour et l’intimée des progrès accomplis à cet égard[1];
+b) subsidiairement, annuler l’appel;
+c) subsidiairement encore, exiger que 1455257 dépose un cautionnement pour dépens d’un montant de 7 000 $ ou de tout autre montant que la Cour considère comme juste, et que l’ancien administrateur ou une autre personne intéressée, à titre personnel, s’engage à se conformer à toutes les ordonnances et à tous les jugements que la Cour canadienne de l’impôt rendra dans le cadre du présent appel.
+I. Le contexte [2] 1455257 a été constituée en société le 15 décembre 2000. Elle a été dissoute le 29 janvier 2007 ou vers cette date et la province de l’Ontario a annulé le certificat de constitution le 11 février 2007, en application de l’article 241 de la LSA.
+[3] Le ministre du Revenu national a établi un avis de cotisation, daté du 18 octobre 2010, à l’égard de 1455257 en application de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi ») relativement à la dette fiscale, jusqu’à cette date, de 1473661 Ontario Limited.
+[4] 1455257 a fait opposition à la cotisation. Le ministre a ensuite envoyé un avis de ratification de la cotisation. Par la suite, 1455257 a déposé un avis d’appel auprès de la Cour le 16 octobre 2012.
+[5] La réponse de l’intimée à l’avis d’appel a été déposée auprès de la Cour le 31 décembre 2012.
+[6] Par des ordonnances datées du 13 juin et du 31 octobre 2013, la Cour a ordonné à chaque partie de signifier à la partie adverse une liste de documents (communication partielle), conformément à l’article 81 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), au plus tard le 6 août 2013, d’effectuer les interrogatoires préalables au plus tard le 6 janvier 2014, de se conformer aux engagements pris à l’interrogatoire préalable au plus tard le 7 avril 2014 et de communiquer par écrit avec le coordonnateur des audiences au plus tard le 7 mai 2014. Ces mesures ont été prises.
+[7] Avant la dissolution, Enrico Lisi était le président, secrétaire et unique administrateur de 1455257[2].
+[8] Les questions en litige sont les suivantes :
+1. 1455257 a-t-elle la capacité requise pour poursuivre l’appel?
+2. Dans la négative, qui donne des instructions à un avocat pour le compte de 1455257?
+3. 1455257 doit-elle déposer un cautionnement pour dépens en vue de poursuivre l’appel, et l’ancien administrateur ou une autre personne intéressée sont-ils tenus de s’engager à titre personnel à se conformer à toutes les ordonnances et à tous les jugements de la Cour?
+II. Les dispositions législatives applicables [9] Les dispositions pertinentes sont les paragraphes 241(5) et 242(1) de la LSA :
+Reconstitution
+241.(5) En cas de dissolution d’une société aux termes du paragraphe (4) ou d’une disposition qu’il remplace, le directeur peut, à la demande de toute personne intéressée et à sa discrétion, reconstituer la société aux conditions qu’il estime opportunes. Dès lors, sous réserve des conditions que le directeur impose et des droits éventuels acquis par toute personne après la dissolution, la société est réputée à toutes fins ne jamais avoir été dissoute. 1999, chap. 12, annexe F, art. 9.
+Recours postérieurs à la dissolution
+242.(1) Malgré la dissolution d’une société aux termes de la présente loi :
+a) les actions ou instances de nature civile, pénale ou administrative introduites par la société ou contre elle avant sa dissolution peuvent être poursuivies comme si la dissolution n’avait pas eu lieu;
+b) des actions ou instances de nature civile, pénale ou administrative peuvent être introduites contre la société comme si la dissolution n’avait pas eu lieu;
+c) les biens qui auraient servi à satisfaire à un jugement, à une ordonnance ou à un ordre, si la société n’avait pas été dissoute, restent disponibles à cette fin;
+d) le titre d’un bien-fonds qui appartenait à la société immédiatement avant sa dissolution peut être vendu par suite d’une instance visant l’exercice d’un pouvoir de vente. L.R.O. 1990, chap. B.16, par. 242(1); 1998, chap. 18, annexe E, par. 27(1) et (2).
+III. Les thèses des parties [10] Aux dires de l’intimée, 1455257, à titre de société dissoute, n’avait pas la capacité requise pour introduire l’appel, pour prendre d’autres mesures dans le cadre de ce dernier ou pour donner des instructions à un avocat, tant et aussi longtemps qu’elle n’avait pas obtenu sa reconstitution. C’est donc dire qu’à sa dissolution, 1455257 a cessé d’être une entité juridique ayant la capacité d’introduire l’appel et de le poursuivre. Permettre à 1455257 d’engager une instance et de prendre d’autres mesures dans le cadre du litige est un abus de la procédure de la Cour. Il est nécessaire que cette dernière donne des directives en vue de lier une personne ayant la capacité requise à l’égard d’une ordonnance quelconque de la Cour.
+[11] 1455257 est d’avis qu’elle défend une cotisation que le ministre a établie à son égard après sa dissolution et qu’elle a la capacité requise pour prendre toutes les mesures liées à l’instance « comme si la dissolution n’avait pas eu lieu », conformément à l’alinéa 242(1)b) de la LSA. À titre d’administrateur, Enrico Lisi est implicitement autorisé à continuer de donner des instructions pour le compte de 1455257 « comme si la dissolution n’avait pas eu lieu ».
+[12] De plus, rien dans les Règles ne traite d’un cautionnement pour dépens qui s’appliquerait à la situation de 1455257. L’article 160 des Règles ne s’applique qu’à l’appelant qui « réside à l’étranger ».
+[13] Enfin, il n’existe dans la Loi, dans les Règles ou ailleurs aucune disposition qui exige que l’on s’engage personnellement à se conformer à l’ensemble des ordonnances et des jugements que rend la Cour canadienne de l’impôt comme condition préalable à la poursuite d’un droit d’appel prévu par la loi.
+IV. Analyse [14] La société qui omet de se conformer aux dispositions applicables précisées à l’article 241 de la LSA s’expose à un risque de dissolution[3]. En cas de défaut, un avis de dissolution est donné. Aux termes du paragraphe 241(4), le certificat de constitution est ensuite annulé. Cependant, le paragraphe 241(5) permet à toute personne intéressée de remédier au défaut et de demander la reconstitution de la société. Au moment de sa reconstitution, la société est réputée à toutes fins ne jamais avoir été dissoute.
+[15] Une société dissoute peut être l’objet d’une action ou d’une instance de nature civile, pénale ou administrative. L’alinéa 242(1)a) de la LSA autorise une société dissoute à poursuivre une action ou une instance introduite par elle ou contre elle avant sa dissolution comme si la dissolution n’avait pas eu lieu. L’alinéa b) autorise l’introduction d’une action ou d’une instance contre la société dissoute après sa dissolution comme si la dissolution n’avait pas eu lieu.
+[16] Dans la présente demande, l’accent est principalement mis sur l’interprétation de l’alinéa 242(1)b) de la LSA ainsi que sur les courants jurisprudentiels divergents. Chacune des parties a fourni de nombreux précédents, et, dans les présents motifs, je ne traiterai que des plus importants d’entre eux. L’intimée a appris, entre le mois de janvier 2014 et le 7 mai 2014, que 1455257 avait été dissoute en 2007.
+[17] L’intimée a fait valoir que l’appel a été interjeté par 1455257, et non à son encontre, après sa dissolution (en 2007) et que, étant dissoute, la société n’avait pas la capacité requise pour former l’appel en 2012, pas plus qu’elle ne peut prendre aujourd’hui d’autres mesures, tant et aussi longtemps qu’elle ne s’est pas reconstituée[4].
+[18] Elle invoque la décision GMC Distribution Ltd. c Sa Majesté la Reine, 2012 CCI 262, [2012] ACI no 206, dans laquelle le juge Webb a conclu qu’à moins que GMC, une société dissoute constituée en vertu de la LSA, soit reconstituée, elle ne pouvait pas poursuivre l’action[5]. Cette conclusion a été tirée dans le contexte d’une demande d’une personne autre qu’un avocat qui sollicitait l’autorisation de la Cour pour représenter GMC. Le juge Webb s’est fondé sur la décision Reliable Life Insurance v Ingle [2009] OJ No. 2312, où il était également question d’une requête visant à obtenir l’autorisation d’accorder à un particulier la capacité de représenter deux sociétés dissoutes et non reconstituées, de façon à ce qu’elles puissent se défendre pleinement contre une action civile.
+[19] Comme dans l’affaire GMC, l’affaire Reliable mettait en cause l’alinéa 242(1)a), et la protonotaire Haberman a conclu que les sociétés, à moins de prendre les mesures de reconstitution requises, étaient des entités qui n’avaient pas d’existence juridique et n’avaient aucun droit à l’égard du litige[6]. Elle a fait référence à la décision Wolf Offshore Transport Ltd. v Sulzer Canada Inc., [1992] NJ No. 82, dans laquelle la cour avait fait remarquer qu’une société dissoute était semblable à une personne décédée, inexistante et sans capacité aucune, sauf si elle était reconstituée dans le délai prévu par la LSA[7]. Elle a également fait référence à la décision Swale Investments Ltd. v National Bank of Greece (Canada), [1997] OJ No. 4997, où la cour avait conclu qu’une société dissoute pouvait être poursuivie « comme si la dissolution n’avait pas eu lieu », mais qu’elle n’avait pas la capacité de se défendre, tant et aussi longtemps qu’elle n’était pas reconstituée[8]. Au paragraphe 44, la protonotaire Haberman a écrit ce qui suit :
+[traduction]
+Je suis d’avis que, bien qu’une société dissoute puisse être poursuivie comme « si la dissolution n’avait pas eu lieu », elle n’est pas habilitée à se défendre tant qu’elle n’est pas reconstituée. Si l’actionnaire est préoccupé par le risque qu’il court personnellement et par la question de savoir s’il sera en mesure de se défendre en lieu et place de la société quand il sera poursuivi, il lui appartient alors de prendre des mesures pour reconstituer les sociétés afin de protéger ses intérêts personnels. […]
+[20] La Cour supérieure de justice de l’Ontario, dans la décision 1141824 Ontario Ltd v Shannon [2010] OJ No. 2165, ainsi que la Cour supérieure de justice de l’Ontario (rôle commercial) dans la décision Cold River Resources LLC v 1279514 Ontario Inc., [2012] OJ No. 5867, ont appliqué le principe énoncé dans la décision Reliable et, dans la dernière de ces deux décisions, la cour a souscrit à la manière dont la protonotaire Haberman avait caractérisé les dispositions en cause.
+[21] 1455257 a fait valoir que l’appel relatif à la cotisation établie à son encontre constituait une défense conforme à l’alinéa 242(1)b) « comme si la dissolution n’avait pas eu lieu » et qu’il était inutile de procéder à une reconstitution.
+[22] Elle a invoqué la décision 460354 Ontario Inc. v Her Majesty the Queen, 92 DTC 6534 (CF 1re inst.), où la Cour fédérale a conclu que le droit de tirer avantage d’une procédure d’appel dans le contexte d’une instance administrative (la cotisation) doit être à la disposition d’une société dissoute en vertu de la loi qui autorise l’action. 460354 s’était dissoute volontairement et elle contestait des nouvelles cotisations qui avaient été établies après sa dissolution. Par la suite, le ministre avait demandé que l’on radie l’appel de 460354 parce que cette dernière, à titre de société dissoute, n’avait pas la capacité requise pour contester les nouvelles cotisations. Rejetant la requête, la Cour fédérale a conclu que l’établissement d’une cotisation à l’encontre d’un contribuable sous le régime de la Loi de l’impôt sur le revenu est une instance de nature administrative au sens de l’alinéa 241(1)b) (aujourd’hui l’alinéa 242(1)b)) de la LSA. La contribuable a ensuite le droit d’exercer tous ses droits d’appel – depuis le dépôt d’un avis d’opposition jusqu’à l’introduction d’un appel – dans le cadre de la procédure d’appel que prévoit la Loi de l’impôt sur le revenu, car toutes les mesures prises ultérieurement concernent directement la cotisation. C’est donc dire que toutes les mesures ultérieures (l’appel) sont consécutives à la mesure de cotisation que le ministre a prise.
+[23] Cette approche a été confirmée par la Cour d’appel fédérale dans l’arrêt 495187 Ontario Ltd. v Her Majesty the Queen, 94 DTC 6229 (CAF)[9]. 495187, une société constituée en vertu de la LSA, avait fait l’objet d’une nouvelle cotisation à l’insu du ministre et de la Cour canadienne de l’impôt, au moment de traiter de l’appel plus d’un an après sa dissolution[10]. La Cour d’appel fédérale a accueilli l’appel de 495187, a indiqué qu’elle était la partie qui avait le droit d’interjeter appel et a fait remarquer que la thèse du ministre était indéfendable.
+[24] 1455257 a également invoqué la décision Malamas v Crerar Properties Corp., [2009] OJ No. 4726, 2009 CarswellOnt 6878 (C.S. Ont). Malamas avait déposé une requête en vue de faire radier la défense de Crerar du fait de son absence de capacité. Malamas avait introduit l’action après la dissolution de Crerar. Le juge Matlow a rejeté la requête en se fondant sur son interprétation et sa conclusion selon lesquelles l’alinéa 242(1)b) comportait implicitement le droit de Crerar de se défendre, parce que cette disposition autorisait à déposer une action contre Crerar et qu’il aurait été [traduction] « impensable » ainsi qu’une [traduction] « présomption contre l’absurdité » que la loi reconnaisse à Malamas le droit d’engager une action contre Crerar, tout en privant cette dernière du droit de se défendre[11].
+[25] Dans la décision Tomken Kamato (V) Ltd. v 752458 Ontario Ltd., 2014 CarswellONT 10331 (C.S. Ont.), la cour a préféré l’analyse exposée dans la décision Malamas à celle exposée dans la décision Reliable[12]. La requête de Tomken a été rejetée et 752458 a pu se défendre, déposer sa propre requête et procéder à la demande reconventionnelle. La cour a conclu que la manière dont la cour avait interprété l’alinéa 242(1)b) dans la décision Malamas concordait avec le libellé de l’alinéa 242(1)a), qui autorise une société qui est poursuivie avant d’être dissoute à se défendre dans l’action comme si la dissolution n’avait pas eu lieu, et elle a fait remarquer que, dans la décision Reliable, la seule question en litige était celle de savoir si deux sociétés dissoutes pouvaient être représentées par une personne autre qu’un avocat. Malgré l’observation de la cour selon laquelle la décision Malamas avait été rendue un mois avant la décision Reliable et qu’on n’y avait pas fait référence dans cette dernière, je signale qu’elle a été rendue le 27 mai 2009 et la décision Malamas, le 9 novembre 2009.
+[26] 1455257 a fait valoir que les observations formulées dans les décisions Reliable et GMC à propos de la capacité d’une société dissoute de se défendre avaient été rendues par inadvertance, qu’il s’agissait de remarques incidentes et qu’elles contredisaient la jurisprudence applicable (460354 et 495187). De plus, les décisions Wolf et Swale avaient trait à des sociétés dissoutes qui [traduction] « introduisaient » après leur dissolution une demande contre un tiers; elles ne se défendaient pas contre un demandeur.
+[27] Pour les motifs qui suivent, je suis d’avis que la conclusion tirée dans les décisions GMC et Reliable, à savoir que la reconstitution était nécessaire, est juste. Outre le fait que GMC avait demandé l’autorisation de permettre à une personne autre qu’un avocat de la représenter, l’intimée cherchait à faire rejeter l’appel à cause du manque de capacité de GMC. Le juge Webb a conclu, en se fondant sur la décision Reliable et, indirectement, sur les décisions Wolf et Swale, que GMC, étant dissoute, ne pouvait pas déposer une requête, et il a accueilli la requête de l’intimée. Au paragraphe 9, le juge Webb a conclu ce qui suit :
+Ainsi, même si le paragraphe 242(1) de la LSAO dispose que l’appel interjeté par l’appelante en vertu de la Loi de l’impôt sur le revenu suivra son cours malgré la dissolution de l’appelante, tant qu’elle n’aura pas été reconstituée en vertu de la LSAO, l’appelante ne peut prendre aucune mesure se rapportant au présent appel, pas même déposer une requête […]
+[28] Tout en se concentrant sur l’alinéa a), parce que GMC avait fait l’objet d’une cotisation et avait ensuite déposé un appel avant sa dissolution, le juge Webb a considéré que le paragraphe 242(1), formé à la fois des alinéas a) et b), exigeait que l’on reconstitue une société avait qu’elle puisse continuer de se défendre.
+[29] Cette approche est à comparer à la décision Malamas, dans laquelle la cour a considéré que l’alinéa 242(1)a) contenait un moyen de défense, mais pas l’alinéa 242(1)b). Elle a jugé que cette dernière disposition autorisait expressément le dépôt d’une action à l’encontre de Crerar, en tant que société dissoute, mais qu’elle n’autorisait pas Crerar à se défendre contre les actions intentées. La cour a estimé qu’il s’agissait là d’une lacune dans la loi et d’une présomption contre l’absurdité et elle a considéré que l’alinéa b) reconnaissait implicitement le droit qu’avait Crerar de se défendre conformément à l’alinéa 242(1)a). La cour est arrivée à cette conclusion à la suite d’une analyse textuelle étroite, tout en concluant à la présence d’une absurdité dans la loi.
+[30] Contrairement à l’analyse textuelle effectuée dans la décision Malamas, dans la décision Reliable, sur laquelle repose la décision GMC, la cour a interprété le libellé de l’alinéa 242(1)a) en y intégrant contextuellement le régime législatif prévu par l’article 242, et, en décidant que la reconstitution était nécessaire, elle a signalé que toute personne intéressée pouvait reconstituer une société en vertu du paragraphe 241(5). C’est ce qui est illustré ci-dessous :
+[traduction]
+30 Une dissolution ne ressemble en rien à une faillite. Elle ne protège pas une société contre ses créanciers. Elle ne permet pas à une société de se soustraire à ses dettes ou à ses obligations, ou de les réduire. Une société dissoute peut encore faire l’objet d’une action ou d’une instance de nature civile, pénale ou administrative. Ses biens demeurent également disponibles pour exécuter tout jugement rendu et toute ordonnance prononcée contre elle après la dissolution. En fait, s’ils distribuent les biens de la société à d’autres après la dissolution, les actionnaires de la société demeurent tous redevables du paiement des demandes au titre de l’article 242, jusqu’à concurrence du montant qu’ils ont reçu. Ceux qui font de telles demandes peuvent poursuivre directement les actionnaires en vue de recouvrer leurs biens.
+31 L’article 242 a pour objet de veiller à ce qu’une société ne puisse se soustraire à ses dettes en se plaçant dans un état de non-conformité qui lui permettra de se dissoudre. L’objectif de l’article 243 est de permettre à un créancier de recouvrer ce qu’on lui doit même si la société dissoute se départit de ses biens en faveur d’autres personnes.
+32 Quiconque a un intérêt dans l’issue de ces faits peut intervenir et reconstituer la société. On s’attendrait normalement à ce que ce soit les actionnaires qui le fassent, car ce sont eux qui sont potentiellement exposés si l’un quelconque des biens de la société tombe entre leurs mains, comme cela est arrivé ici, semble-t-il.
+[31] Je suis d’avis que l’analyse contextuelle qui a été faite dans la décision Reliable est valable, compte tenu du libellé de la disposition. De plus, je ne suis pas d’accord avec 1455257 pour dire que les remarques faites dans cette décision ainsi que dans la décision GMC sont incidentes.
+[32] Dans la décision Malamas, il est d’une certaine importance qu’avant la reprise de la requête antérieurement ajournée, Crerar avait présenté une demande de reconstitution et avait pris toutes les mesures nécessaires pour le faire. Le retard, comme l’a signalé la cour, était dû au traitement de la demande par les autorités gouvernementales. Il se peut fort bien qu’au moment de rendre sa décision, la cour ait été influencée par le fait que la demande de reconstitution avait déjà été déposée. Il semble qu’en prenant de telles mesures Crerar était également d’avis qu’une reconstitution était nécessaire.
+[33] Une autre difficulté que me pose le raisonnement exposé dans la décision Malamas est le fait que la cour, après avoir tiré sa conclusion, a ensuite énoncé plusieurs questions pertinentes, dont celle de savoir qui serait habilité à donner des instructions à l’avocat, qui paierait les dépens de la défense et ce qu’il adviendrait des biens de la société, relativement à leur usage réel avant qu’ils soient confisqués au profit de la Couronne. La cour a toutefois refusé de traiter de ces questions et a fait remarquer qu’on pouvait laisser à d’autres le soin d’y répondre. Il s’agissait là de certaines des préoccupations – et je les fais miennes dans le présent appel – que la protonotaire Haberman avait soulevées dans la décision Reliable.
+[34] Dans la décision GMC, la Cour s’est également fondée sur la décision Cotton Inc. v 1397945 Ontario Ltd., 2010 ONSC 6548, où la Cour supérieure de justice de l’Ontario avait conclu qu’étant donné que les inscriptions des trois sociétés avaient été annulées, ces sociétés étaient des entités qui n’avaient pas d’existence juridique et ne pouvaient pas ester en justice, mais qui pouvaient être poursuivies en vertu de l’article 242 de la LSA.
+[35] Pour ce qui est de la décision 460354, rendue en 1992, ainsi que de la décision 495187, le législateur a changé depuis cette époque le libellé du paragraphe 241(5) pour prévoir que, au moment de la reconstitution, une société « est réputée à toutes fins ne jamais avoir été dissoute », ce qui est différent du libellé antérieur de cette disposition.
+[36] Je conclus qu’après sa dissolution en 2007, 1455257 a cessé d’exister. Pour surmonter cet obstacle, 1455257 doit être reconstituée et, tant et aussi longtemps qu’elle ne le sera pas en vertu du paragraphe 241(5) de la LSA, elle n’aura pas la capacité requise pour poursuivre l’appel ou se défendre dans le cadre de celui‑ci. C’est donc dire qu’après sa reconstitution 1455257 sera « réputée à toutes fins ne jamais avoir été dissoute ».
+[37] Il est peut-être peu commode pour 1455257 de se reconstituer, mais je suis d’avis qu’il est nécessaire de reconstituer son statut de société, ce que 1455257 avait la possibilité de faire à l’époque où la cotisation a été établie contre elle en 2010. Après sa reconstitution, la situation juridique de 1455257 sera rétablie, et celle-ci sera « réputée à toutes fins ne jamais avoir été dissoute », conformément au paragraphe 241(5). À mon avis, cela valide le dépôt de l’appel ainsi que toutes les mesures qui en découlent, et un aspect inhérent à cela est la capacité qu’a 1455257 de se défendre.
+[38] Compte tenu de ma conclusion, il est inutile d’examiner les autres questions.
+[39] La requête de l’intimée est accueillie. L’appel est ajourné pour 60 jours à compter de la date de la présente ordonnance afin de permettre à 1455257 de prendre les mesures nécessaires pour reconstituer son statut de société, conformément au paragraphe 241(5) de la LSA.
+[40] Les dépens sont adjugés à l’intimée, suivant l’issue de la cause.
+Signé à Nanaimo (Colombie-Britannique), ce 7e jour de juillet 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 3e jour de novembre 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2015 CCI 173
+No DU DOSSIER DE LA COUR :
+2012-4138(IT)G
+INTITULÉ :
+1455257 ONTARIO INC. et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 mars 2015
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge K. Lyons
+DATE DE L’ORDONNANCE :
+Le 7 juillet 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Domenic Marciano
+Avocat de l’intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelante :
+Nom :
+Domenic Marciano
+Cabinet :
+Marciano Beckenstein LLP
+Concord (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’affidavit a été déposé par Raphael Rutman à l’appui de la requête.
+[2] Rapport sur le profil de la société.
+[3] Avis de dissolution
+241.(1) Si le ministre des Finances l’avise qu’une société ne se conforme pas à l’une ou l’autre des lois suivantes, le directeur peut, par courrier recommandé ou au moyen d’un avis publié une seule fois dans la Gazette de l’Ontario, aviser la société qu’il sera donné un ordre de dissolution de la société si elle ne remédie pas à la situation dans les 90 jours de cet avis :
+0.1 Loi de 1996 sur la réglementation des alcools et des jeux et la protection du public.
+1. Loi sur l’imposition des sociétés.
+2. Loi sur l’impôt-santé des employeurs.
+3. Loi de la taxe sur les carburants.
+4. Loi de la taxe sur l’essence.
+5. Loi sur les droits de cession immobilière.
+6. Loi sur la taxe de vente au détail.
+6.1 Loi de 2007 sur les impôts.
+7. Loi de la taxe sur le tabac. 2004, chap. 31, annexe 4, art. 1; 2008, chap. 19, annexe V, art. 1; 2010, chap. 1, annexe 1, art. 12.
+Idem
+(2) Si la Commission avise le directeur qu’une société ne s’est pas conformée aux articles 77 et 78 de la Loi sur les valeurs mobilières, le directeur peut, par courrier recommandé ou au moyen d’un avis publié une seule fois dans la Gazette de l’Ontario, aviser la société qu’il sera donné un ordre de dissolution de la société si elle ne se conforme pas aux dispositions des articles 77 et 78 de la Loi sur les valeurs mobilières dans les quatre-vingt-dix jours de cet avis. L.R.O. 1990, chap. B.16, par. 241 (2).
+Idem, non-conformité
+(3) Si une société ne se conforme pas à une obligation de dépôt prévue par la Loi sur les renseignements exigés des personnes morales, ou ne paie pas des droits exigés aux termes de la présente loi, le directeur peut, au moyen d’un avis donné conformément à l’article 263 ou publié une seule fois dans la Gazette de l’Ontario, aviser la société qu’il sera donné un ordre de dissolution de la société si elle ne se conforme pas à l’obligation ou ne paie pas les droits dans les 90 jours de l’avis. 1998, chap. 18, annexe E, par. 26 (1).
+Ordonnance de dissolution
+(4) Si la société ne se conforme pas à l’avis donné aux termes du paragraphe (1), (2) ou (3), le directeur peut donner un ordre d’annulation du certificat de constitution et sous réserve du paragraphe (5), la société est dissoute à la date indiquée dans l’ordre. L.R.O. 1990, chap. B.16, par. 241 (4).
+[…]
+Délai de présentation de la demande
+(5.1) La demande visée au paragraphe (5) ne peut être présentée plus de 20 ans après la date de dissolution de la société. 2006, chap. 34, annexe B, art. 37.
+Statuts de reconstitution
+(6) La demande visée au paragraphe (5) est présentée sous forme de statuts de reconstitution rédigés selon la formule prescrite. L.R.O. 1990, chap. B.16, par. 241 (6)
+Certificat de reconstitution
+(7) Dès réception des statuts de reconstitution et de tout autre document prescrit, le directeur, sous réserve du paragraphe (5), y appose le certificat de reconstitution conformément à l’article 273. L.R.O. 1990, chap. B.16, par. 241 (7).
+[…]
+Interprétation
+(1.1) La définition qui suit s’applique au présent article et à l’article 244.
+« instance » S’entend en outre d’une instance visant l’exercice d’un pouvoir de vente à l’égard d’un bien-fonds introduite aux termes d’une hypothèque. 1998, chap. 18, annexe E, par. 27 (3).
+Signification postérieure à la dissolution
+(2) Pour l’application du présent article, la signification de tout acte de procédure à la société, après sa dissolution, est réputée suffisante si elle est faite à l’une des personnes dont le nom figurait en tant qu’administrateur ou dirigeant aux dossiers du ministère immédiatement avant la dissolution. L.R.O. 1990, chap. B.16, par. 242 (2).
+Avis d’action
+(3) La personne qui introduit une action, une poursuite civile ou une autre instance contre une société après sa dissolution signifie au Tuteur et curateur public le bref ou tout autre acte introductif de l’action, de la poursuite civile ou de l’instance, conformément aux règles qui s’appliquent généralement à une telle signification. 1998, chap. 18, annexe E, par. 27 (4).
+Idem, instance visant l’exercice d’un pouvoir de vente
+(4) La personne qui introduit une instance visant l’exercice d’un pouvoir de vente à l’égard d’un bien-fonds contre une société après sa dissolution signifie un avis de l’instance au Tuteur et curateur public conformément aux exigences de la Loi sur les hypothèques régissant l’avis à donner au titulaire d’un intérêt sur le bien-fonds enregistré au bureau d’enregistrement immobilier compétent. 1998, chap. 18, annexe E, par. 27 (4).
+[4] L’intimée a fait référence à l’article 21 des Règles de procédure civile et au fait que le mot « capacité » signifie que le demandeur n’a pas la capacité juridique d’introduire ou de poursuivre l’action ou que le défendeur n’a pas la capacité juridique d’être poursuivi.
+[5] GMC avait omis de produire des déclarations de revenus et avait été dissoute en vertu des dispositions du paragraphe 241(4) de la LSA. L’alinéa 242(1)a) s’applique parce que GMC avait interjeté appel trois ans avant la dissolution. Elle avait omis de payer une adjudication de dépens défavorable en 2009 et de poursuivre avec promptitude l’appel, qui datait de huit ans.
+[6] Au paragraphe 33 de la décision Reliable, la cour fait montre d’une certaine préoccupation parce que la personne était incapable de dire qui allait lui donner des instructions étant donné que les sociétés avaient été dissoutes ou qui allait respecter une ordonnance de dépens à la conclusion du procès si une telle ordonnance était accordée.
+[7] L’affaire Wolf mettait en cause une société constituée en vertu de la Loi canadienne sur les sociétés par actions qui avait été dissoute en 1985. Environ un mois et demi après la dissolution, Wolf, la demanderesse, avait introduit une action devant la Section de première instance de la Cour suprême de Terre-Neuve. En 1990, elle avait reconstitué son statut de société, et la question était axée sur l’effet de la reconstitution sur l’action. La Cour suprême de Terre-Neuve a conclu que l’article 242 ne permettait pas à une société dissoute d’introduire une demande après la dissolution.
+[8] Swale, la demanderesse, avait été dissoute et avait déposé une demande trois ans après la dissolution. La défenderesse avait sollicité une ordonnance rejetant l’action au motif que Swale avait introduit l’action après sa dissolution. La cour a conclu que l’article 242 de la LSA de l’Ontario ne s’appliquait pas à une action introduite par une société dissoute après sa dissolution.
+[9] Dans un arrêt très succinct, la Cour d’appel a confirmé que la question de fond dans cet appel avait été tranchée correctement par le juge en chef adjoint Jerome dans la décision 460354 Ontario Inc. v The Queen, [1992] 2 C.T.C. 287, 95 D.L.R. (4th) 351 (C.F. 1re inst.).
+[10] Le ministre a fait valoir que la décision de la Cour canadienne de l’impôt était entachée de nullité et a proposé que la société soit reconstituée en vue d’interjeter appel auprès de la Section de première instance de la Cour fédérale. La Cour fédérale n’a pas exigé la reconstitution de 495187 et a conclu que l’intitulé de la cause devrait faire référence au dernier administrateur/actionnaire de la contribuable du fait de sa dissolution.
+[11] Malamas a demandé – mais s’est vu refuser – l’autorisation par la Cour divisionnaire de l’Ontario de porter en appel l’interprétation de l’article 242 : Malamas v Crerar Properties Corp., 2010 CarswellOnt 3435 (C. div. Ont.).
+[12] En septembre 2012, Tomken a présenté une demande à l’encontre de 752458, qui s’est défendue et qui a présenté une demande reconventionnelle en janvier 2013; six jours plus tard, 752458 était dissoute. Tomken a déposé une requête en jugement sommaire, sollicitant le rejet de la demande reconventionnelle au motif que 752458 n’avait pas la capacité requise pour se défendre dans la requête, pour déposer une requête ou pour poursuivre la demande reconventionnelle.

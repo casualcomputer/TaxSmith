@@ -1,0 +1,470 @@
+---
+title: "Planches murales Jenleau inc. c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521143/index.do"
+last_modified: "2023-08-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 120"
+citation2: ""
+neutral_citation: "2023 CCI 120"
+decision_date: "2023-08-17"
+language: "fr"
+item_id: "521143"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5674
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:16:10.234000+00:00"
+cases_cited_count: 27
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ceee4de4f565686f11b9780888437e9dd6138ac4fa0d45ebde3e37702dfbd1ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Planches murales Jenleau inc. c. Le Roi
+
+- Citation: 2023 CCI 120
+- Decision date: 2023-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5674, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Planches murales Jenleau inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-17
+Référence neutre
+2023 CCI 120
+Numéro de dossier
+2011-2692(GST)G, 2011-2695(GST)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-2692(GST)G
+ENTRE :
+LES PLANCHES MURALES JENLEAU INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Dossier : 2011-2695(GST)G
+ET ENTRE :
+LES RÉSIDENCES CHAMBRU INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appels entendus le 2, 3, 4, 5, 9, 10, 12, 16, 17, 18, 19, 23, 24, 25, 26 et 30 novembre 2020 à Montréal (Québec) et le 12, 13 janvier 2022 par vidéo conférence à Ottawa (Ontario) et observations écrites déposées le 18 mars 2022, le 19 avril 2022 et le 16 mai 2022.
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocats des appelantes :
+Me Soleil Tremblay
+Me Michel Latendresse
+Avocats de l'intimé :
+Me Nadja Chatelois
+Me Gabriel Déry
+JUGEMENT
+Conformément aux motifs ci-joints, les appels sont accueillis et les cotisations sont déférées à la ministre pour nouvel examen et nouvelles cotisations, étant entendu que les cotisations en lien avec les CTI réclamés pour les factures de Les systèmes intérieurs L.V.C. inc., sont prescrites. Cependant, les cotisations refusant les CTI pour les autres Fournisseurs sont confirmées.
+Les dépens sont adjugés en faveur de l’intimé au prorata de son succès sur l’ensemble des cotisations.
+Signé à Ottawa, Canada, ce 17e jour d'août 2023.
+« Guy R.Smith »
+Juge Smith
+Référence : 2023 CCI 120
+Date : 20230817
+Dossier : 2011-2692(GST)G
+ENTRE :
+LES PLANCHES MURALES JENLEAU INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Dossier : 2011-2695(GST)G
+ET ENTRE :
+LES RÉSIDENCES CHAMBRU INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Smith
+I –Le survol
+[1] Les Planches murales Jenleau inc. (« Jenleau ») et Les résidences Chambru inc. (« Chambru »), œuvraient dans le domaine de la construction et de la rénovation et étaient des inscrits en vertu de la Partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (« LTA »). Dans le cadre de leurs activités, ils ont produit des déclarations pour la taxe nette et réclamé des crédits sur les intrants (« CTI ») pour les fournitures de onze (11) sous-traitants que l’Agence du revenu du Québec a qualifiés de fournisseurs de factures de complaisance (« FFC ») ou d’accommodation (collectivement, les « Fournisseurs »).
+[2] Jenleau interjette appel de deux cotisations établies les 15 octobre et 20 octobre 2010, par l’Agence de revenu du Québec (« ARQ ») pour le compte de l’intimé (« la ministre ») refusant des CTI au montant 192 794,84 $ qui ont été « demandés et obtenus en trop, par erreur ou sans droit », et imposant des pénalités pour faute lourde et versement tardif, plus les intérêts, pour les périodes trimestrielles entre le 1er septembre 2003 et le 31 mai 2010.
+[3] Chambru interjette appel d’une cotisation établie le 11 janvier 2011 refusant des CTI d’un montant de 89 147,41 $ qui ont été « demandés et obtenus en trop, par erreur ou sans droit » ou qu’elle « a perçu ou était tenue de percevoir » d’un montant de 1 673,00 $, pour un montant total de 90 820,41 $, et imposant des pénalités pour faute lourde et versement tardif, plus les intérêts, pour les périodes trimestrielles entre le 1er décembre 1999 et le 31 août 2009.
+[4] En bref, les appelantes maintiennent que les cotisations sont mal fondées en fait et en droit puisque les Fournisseurs étaient de réels sous-traitants qui ont rendu les services et que les pièces justificatives contenaient tous les éléments requis par la LTA de sorte qu’ils avaient droit aux CTI réclamés.
+[5] Il y a lieu de commenter brièvement la question des délais en indiquant que l’audience de ces appels devait procéder au mois de novembre 2015. Cependant, la Cour a ordonné la suspension des procédures en attendant la conclusion des poursuites pénales dont il sera question ici-bas. Au début de cette audience, les appelantes ont présenté une requête interlocutoire demandant que les appels soient accueillis en raison des délais importants. Cette requête a été rejetée pour des motifs rendus oralement qu’il n’est pas nécessaire de répéter ici.
+[6] Ces appels ont été entendus ensemble sur preuve commune.
+II – Les questions en litige
+La Cour doit examiner les questions suivantes :
+i)Les appelantes avaient-elles droit aux CTI réclamées en lien avec les factures émises par les Fournisseurs?
+ii)Si oui, la ministre était-elle en droit d’établir les cotisations au-delà de la période normale prévue pour les cotisations?
+iii)La ministre était-elle en droit d’imposer des pénalités pour faute lourde; et
+iv)En dernier lieu, la Cour doit adresser l’impact des plaidoyers de culpabilité dans le contexte de certaines poursuites au pénal.
+III – Les hypothèses de faits
+[7] Selon les hypothèses de faits, la ministre a refusé les CTI en question parce que les appelantes n’ont pas fourni les renseignements suffisants pour satisfaire aux exigences de la LTA et les pièces justificatives relativement aux fournitures des Fournisseurs étaient fausses ou étaient « des factures d’accommodation ou de complaisance » en ce que les appelantes i) n’ont pas acquis les fournitures de biens ou de services qu’elles prétendent avoir acquis ou ii) ont acquis lesdites fournitures de tout autre fournisseur que ceux indiqués sur les pièces justificatives.
+[8] De plus, la ministre a tenu pour acquis que les appelantes ont participé à un stratagème dont le but était de pouvoir effectuer des demandes de CTI indues, en fonction des exigences de la LTA, dans le calcul de leur taxe nette par le biais de l’utilisation de factures dites « d’accommodation » ou « de complaisance », et ce « afin de payer comptant le salaire de certains de ses employés » sans que ceux-ci les déclarent au ministre et remplissent « leurs obligations légales à cet égard ».
+[9] La ministre maintient que les appelantes, étant les personnes « accommodées », ont fait appel aux services de tierces personnes exploitant ou non de véritables entreprises, peu importe, les personnes « accommodatrices », soit certains Fournisseurs qui émettaient des factures aux appelantes pour des fournitures de biens ou de services qu’elles n’ont pas effectués et que ces derniers n’ont pas acquis de l’une ou de l’autre.
+[10] En ce qui concerne Jenleau, la ministre a identifié les Fournisseurs suivants, tous inscrits en vertu de la LTA/TVQ au moment de rendre les services, en indiquant la période et le montant versé pour le calcul des CTI réclamés :
+Fournisseurs de Jenleau
+Dates
+« Sous-traitants »
+Montant versé
+2003-11-03 au 2004-03-22
+Les systèmes intérieurs L.V.C. inc. *
+(« LVC inc. »)
+76 220,56 $
+2003-03-29 au 2005-10-24
+9125-9853 Québec inc. * (« 9125 »)
+(« Energypse / Canagypse / Nikita »)
+1 056 144,71 $
+2004-05-20
+Finitions Pro-Techni inc.
+(« Finitions Pro »)
+9 524,07 $
+2005-10-31 au 2006-11-06
+9158-7154 Québec inc. * (« 9158 »)
+(ou Construction Lachapelle )
+1 045 069,03 $
+-22 887,43 $
+2005-11-10 au 2006-01-13
+Construction Lubac inc. (« Lubac »)
+17 713,15 $
+2005-12-09 au 2005-12-22
+Construction Aspro inc. (« Aspro »)
+2 924,14 $
+2006-05-02
+9137-6483 Québec inc. (« 9137 »
+(« Cie Gypse.com »)
+18 979,13 $
+2006-11-13 au 2008-09-02
+9108-2347 Québec inc. (« R2LM ») *
+902 843,50 $
+-33 832,67 $
+2008-09-11 au 2009-09-02
+9145-3126 Québec inc. (« 9145 »)0
+(« Construction Technopro inc.» )
+168 097,75 $
+2008-09-08 au 2009-09-28
+9178-6467 Québec inc. * (« 9178 »)
+(« Construction RL »)
+433 245,23 $
+2009-10-05 au 2009-11-30
+Les entreprises M. St-Pierre inc. *
+(« Entreprises St. Pierre »)
+73 552,60 $
+Total
+3 747 593,77 $
+Fournisseurs de Chambru
+Date
+« Sous-traitant »
+Montant versé
+2000-12-13 au 2003-09-25
+Les systèmes intérieurs L.V.C. inc. *
+(« LVC inc. »)
+1 153 511,79 $
+2002-03-28 au 2002-07-04
+A.R. Construction (« Argypse »)
+19 122,38 $
+2004-05-13 au 2005-03-24
+9125-9853 Québec inc. *
+(« Energypse / Canagypse / Nikita »)
+170 802,36 $
+2005-12-19 au 2006-09-26
+9158-7154 Québec inc. *
+(« Construction Lachapelle »)
+10 973,52 $
+2007-11-12 au 2008-07-18
+9108-2347 Québec inc. (« R2LM ») *
+110 381,72 $
+2008-09-02
+9145-3126 Québec inc.
+(« Construction Technopro inc.» )
+2 448,89 $
+2008-12-01 au 2009-06-30
+9178-6467 Québec inc. *
+(« Construction RL »)
+12 057,31 $
+Total
+1 479 337,97 $
+[11] Sans reproduire l’ensemble des hypothèses de faits, ce qui suit est un sommaire non exhaustif des hypothèses de faits en lien avec l’ensemble des Fournisseurs :
+Ils sont inscrits à la Commission de la Construction du Québec (« CCQ ») pour une très courte période de temps, mais ne déposent pas de rapports et déclarent peu ou pas de contrats;
+Les dirigeants, administrateurs ou actionnaires déclarent très peu ou pas de revenus d’emploi ou d’entreprise, plusieurs sont prestataires de l’aide sociale depuis longue date ou n’ont aucun lien avec l’entreprise;
+Ils n’ont pas d’adresses d’affaires connues ou l’adresse est invalide ou encore il s’agit d’une case postale, ou d’un comptoir de courrier, d’un motel sans lien avec l’entreprise, et dans bien des cas, la ministre n’a pu rejoindre l’entreprise par lettre ou par téléphone;
+Ils n’ont pas (ou peu) de véhicules enregistrés avec la Société de l’assurance automobile du Québec (« SAAQ »);
+Ils ont encaissé des chèques pour plusieurs millions de dollars en transigeant par des centres d’encaissements situés principalement au Québec, mais ne rapportent aucun revenu et ne produisent pas une déclaration de taxes ou d’impôt;
+Ils ont peu ou pas d’employés, il n’y a pas de retenue à la source (« RAS ») et aucune déclaration (ou très peu) de salaire n’est faite à la Commission de la santé et de la sécurité du travail (« CSST »);
+Les sociétés n’ont pas la capacité, les ressources humaines et matérielles pour fournir les services facturés.
+[12] Pour les six (6) Fournisseurs identifiés ci-haut avec un astérisque (*), la ministre a tenu pour acquis que les factures avaient été faites et transigés par Louis Couture (« M. Couture »), un travailleur de longue date. Les appelantes n’avaient que des copies de ces factures qui étaient préparées à partir d’un « blueline pad » et complétées manuellement. Elles présentaient très peu de détails quant à la nature des services rendus et la presque totalité des factures ne contenait pas l’adresse ni les coordonnées des Fournisseurs et le même « blueline pad » était utilisé pour un nouveau fournisseur subséquent avec la même suite numérique.
+IV – Les dispositions législatives pertinentes
+Les dispositions législatives pertinentes sont les suivantes :
+Partie IX de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (« LTA »)
+169(4) l’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a)il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par le règlement.
+[…]
+Faux énoncés ou omissions
+285. Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse – appelés « déclaration » au présent article – établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité […]
+Période de cotisation
+298 (1) Sous réserve des paragraphes (3) à (6.1), une cotisation ne peut être établie à l’égard d’une personne en application de l’article 296 après l’expiration des délais suivants :
+a) s’agissant d’une cotisation visant l’un des montants suivants, quatre ans après le dernier en date du jour où la personne était tenue par l’article 238 de produire une déclaration pour la période et du jour de la production de la déclaration :
+[…]
+Exception en cas de négligence, fraude ou renonciation
+(4) Une cotisation peut être établie à tout moment si la personne visée a :
+a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+b) commis quelque fraude en faisant ou en produisant une déclaration selon la présente partie ou une demande de remboursement selon la section VI ou en donnant, ou en ne donnant pas, quelque renseignement selon la présente partie;
+c) produit une renonciation en application du paragraphe (7) qui est en vigueur au moment de l’établissement de la cotisation.
+Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) DORS/91045 (le « Règlement »)
+Définitions
+2. Les définitions qui suivent s’appliquent au présent règlement. (…)
+« intermédiaire » - Inscrit qui, agissant à titre de mandataire d’une personne ou aux termes d’une convention conclue avec la personne, permet à cette dernière d’effectuer une fourniture ou en facilite la réalisation. (intermediary)
+(…)
+3. Les renseignements visés à l’article 169(4) de la Loi, sont les suivants :
+[…]
+c) Lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i)Les renseignements visés aux alinéa a) et b),
+(ii)Soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii)Les modalités de paiement,
+(iv)Une description suffisante pour identifier chaque fourniture.
+V – La thèse des appelantes
+[13] Les appelantes prétendent que les factures émises par les Fournisseurs répondent aux exigences prescrites de la LTA et de son règlement d’application.
+[14] Elles ajoutent que ces factures reflètent des fournitures qui ont réellement été acquises de sorte qu’elles avaient l’obligation légale de les acquitter. Elles notent en plus que ces dépenses n’ont pas été refusées au niveau de l’impôt.
+[15] Les appelantes maintiennent qu’elles étaient de bonne foi, qu’elles ont été diligentes au meilleur de leur connaissance dans la vérification des Fournisseurs, qu’elles avaient un mécanisme de contrôle permettant notamment de valider le numéro de TPS/TVQ, le numéro d’entreprise (NEQ), les enregistrements auprès de la Commission de la construction du Québec (« CCQ ») et de la CSST de même que la licence émise par la Régie des bâtiments du Québec (« RBQ »). Elles maintiennent qu’elles n’avaient pas à faire d’autres vérifications.
+[16] Les appelantes ajoutent qu’elles n’avaient pas connaissance et ne pouvaient pas savoir si les Fournisseurs étaient ou non des délinquants fiscaux ou des FFC, ou qu’elles n’avaient pas la capacité financière ou matérielle pour effectuer les fournitures ou encore que les administrateurs et dirigeants étaient fictifs ou prestataires d’aide sociale. Ces renseignements étaient propres aux autorités gouvernementales, ce que les témoins de l’intimé ont d’ailleurs admis. Elles prétendent qu’elles n’avaient aucun contrôle pour le dépôt des chèques remis aux Fournisseurs et qu’elles n’avaient aucun contrôle et ne pouvaient savoir que ces derniers encaissaient leurs chèques dans divers centres d’encaissement pour obtenir de l’argent comptant.
+[17] Elles maintiennent qu’elles ont structuré leur affaire pour avoir un minimum d’employés, que les travailleurs étaient tous des sous-traitants à la charge des Fournisseurs. Elles nient avoir participé à un stratagème quelconque pour payer leurs employés au noir indiquant qu’il s’agissait de travailleurs sous la responsabilité des Fournisseurs ou de M. Couture et des sociétés avec qui il transigeait. Elles ajoutent qu’il n’y a aucune preuve que ces employés ont été payés au noir et que, en fin de compte, cette question n’est pas pertinente à l’admissibilité des CTI.
+[18] Les appelantes maintiennent qu’elles ont toujours été en règle avec les autorités fiscales, qu’elles ont toujours déposé leurs déclarations d’impôts et de taxes et qu’elles ont subi au moins trois vérifications pendant la période en litige, mais sans résultats concrets et sans aucune mention de la question des Fournisseurs délinquants.
+VI – La thèse de l’intimé
+[19] L’intimé maintient que les appelantes devaient démontrer par une preuve positive et prépondérante que les Fournisseurs étaient « de réels sous-traitants » ou « des intermédiaires » qui auraient facilité la « réalisation » des travaux. Puisqu’elles n’ont pas démontré que les sociétés inscrites sur les factures représentaient celles qui avaient véritablement rendu les services, les factures ne rencontraient pas les exigences règlementaires de la LTA et elles n’avaient pas droit aux CTI réclamés.
+[20] L’intimé maintient que la preuve des appelantes était constituée « de témoignages de personnes ayant un intérêt direct dans l’issue du litige » ajoutant que « la bonne foi et la diligence ne sont pas des motifs pouvant justifier le droit à des intrants ».
+[21] L’intimé prétend que les appelantes auraient dû nécessairement faire témoigner les travailleurs qui étaient sur leurs chantiers ou encore la « personne contacte » pour chacun des Fournisseurs. L’intimé demande à la Cour de tirer une inférence négative de l’absence de ces témoins, dont M. Couture.
+[22] L’intimé ajoute qu’il a rencontré son fardeau quant aux faits qui étaient « de la connaissance exclusive du ministre » et que la preuve présentée, notamment par les vérificateurs de l’ARQ, a établi clairement que les divers Fournisseurs étaient des FFC et que, par ailleurs, plusieurs de ceux-ci avaient déjà été jugés comme FFC. L’intimé maintient que les appelantes n’ont soumis aucun élément de preuve pouvant indiquer le contraire.
+[23] L’intimé maintient que les travailleurs, de même que M. Couture étaient réellement des « employés » des appelantes et que ces dernières n’ont pas réussi à renverser les présomptions factuelles du ministre en ce qui concerne le statut des travailleurs ou le stratagème pour payer les employés au noir. L’intimé maintient essentiellement que les travailleurs étaient tous sous la gouvernance de M. Couture qui était un employé des appelantes « ou directement sous la direction des Champagnes » et qu’ils n’ont jamais eu de contact avec les FFC ou leurs dirigeants. L’intimé ajoute qu’il est invraisemblable que les « travailleurs » qui étaient, selon les appelantes, employés des Fournisseurs, aient tous changé d’employeur au même moment que M. Couture ou lorsqu’il y avait un changement de Fournisseur.
+[24] L’intimé demande à la Cour d’accorder un poids important aux aveux extrajudiciaires de Jenleau et de M. Champagne, soit les plaidoyers de culpabilité du 20 juin 2017, d’avoir « fait des déclarations fausses ou trompeuses (…) ou participé ou consenti à leur énonciation dans les déclarations produites (…) représentant la taxe prétendue payée ou payable » pour au moins deux des Fournisseurs. L’intimé maintient que ces plaidoyers de culpabilité constituent des aveux extrajudiciaires qui jouissent d’une présomption de véracité, ajoutant que M. Champagne n’a pas commenté la chose. Seul Bruno a témoigné en indiquant qu’ils voulaient mettre un terme à toutes les procédures tant pénales et que fiscales.
+[25] L’intimé ajoute que M. Couture a aussi plaidé coupable à plusieurs chefs d’accusation en rapport avec au moins trois des Fournisseurs pour la même période visée et que les appelantes n’ont pas tenté de l’assigner comme témoin au procès même s’il était leur « personne-contact » pour plusieurs des FFC. L’intimé demande à la Cour de tirer une inférence négative de l’absence de M. Couture, ajoutant que son témoignage aurait été « défavorable aux appelantes ».
+[26] En fin de compte, l’intimé soutient que la bonne foi et la diligence raisonnable ne sont pas des motifs pouvant justifier le droit aux intrants. Il maintient qu’il n’y avait aucune preuve de diligence raisonnable puisque les vérifications se limitaient aux numéros d’enregistrement des Fournisseurs, mais sans vérifier le nom des dirigeants au Registraire des entreprises. De plus, il n’y avait aucune preuve d’une relation contractuelle entre les appelantes et les Fournisseurs.
+[27] L’intimé maintient que les déclarations des appelantes ont été faites sciemment puisque les appelantes savaient que le nom des Fournisseurs apparaissant sur les factures n’était aucunement lié aux travailleurs qui rendaient les services. L’intimé ajoute que si nous ne sommes pas en présence de fraudes ou de fausses déclarations faites sciemment, il s’agit d’aveuglement volontaire. Enfin, l’intimé maintient que la ministre était justifiée de cotiser au-delà de la période normale de cotisation et d’imposer les pénalités.
+VII – Les témoins des appelantes
+[28] Il y a eu trois témoins pour les appelantes, soit Réjean Champagne (« M. Champagne ») fondateur et président des appelantes, son épouse Nicole Groleau (« Mme Groleau ») et leur fils, Bruno Champagne (« Bruno »).
+M. Réjean Champagne
+[29] Il a constitué Jenleau en 1983 et Chambru en 1989. Ils étaient spécialisés dans le domaine de la finition des systèmes intérieurs d’immeuble de logements. Le siège social était situé dans la résidence de la famille Champagne jusqu’en 2007 lorsqu’ils ont aménagé dans un espace commercial.
+[30] M. Champagne avait 74 ans lorsqu’il a témoigné devant la Cour. Il avait terminé sa 7e année et avait toujours travaillé dans le domaine de la construction avant d’établir les « entreprises familiales » dont il est ici question.
+[31] Au fil du temps, il avait établi une réputation pour son honnêteté et la qualité de son travail, ce qui lui a permis de grossir sa clientèle de constructeurs d’immeubles de logements. Ces derniers lui remettaient les plans et devis et il préparait une soumission pour la main-d’œuvre et les matériaux. Cependant, les travaux étaient effectués par des sous-traitants qui se suivaient d’un chantier à l’autre. Il fallait tracer les lignes, monter les divisions de métal, installer l’isolant, poser le gypse, tirer les joints et ainsi de suite « unité par unité » et « étage par étage ».
+[32] Avec son fils Patrice Champagne (« Patrice »), ils se rendaient presque quotidiennement sur les différents chantiers pour vérifier le travail effectué par les travailleurs et s’assurer qu’il était de bonne qualité et conforme aux plans et devis. Il était très exigeant pour la qualité des travaux. Si le travail n’avait pas été bien exécuté, cela relevait de la responsabilité les travailleurs. Ceci dit, ils n’ont jamais subi de poursuite pour « malfaçons » ou défauts de construction.
+[33] M. Champagne et Patrice se rendaient sur les lieux le lundi pour récupérer les factures qui comportaient le détail de ce qui avait été fait avec le numéro de l’unité. Parfois, les factures étaient livrées au bureau. Mme Groleau et Bruno vérifiaient le détail des factures et faisaient des ajustements surtout lorsque les sous-traitants étaient payés « à la job » ou selon le pied carré du travail effectué.
+[34] M. Champagne connaissait M. Couture depuis plus de trente ans. Il avait travaillé sous la supervision de leur contremaître de chantier. M. Couture l’a éventuellement remplacé, mais il a voulu créer sa propre compagnie. Les Systèmes intérieurs L.V.C. inc. (« LVC inc ») a été constituée en 1993. Par l’entremise de cette compagnie et les sociétés qui l’ont succédé, L. Couture embauchait presque tous les travailleurs comme employés, incluant ses deux fils, Sébastien et Christian.
+[35] En contre-interrogatoire, M. Champagne a indiqué que M. Couture était « son employé » et qu’il était « payé à l’heure », mais aussi qu’il avait sa propre compagnie. Il a aussi confirmé que M. Couture embauchait ses propres travailleurs dont certains avaient travaillé pour lui pour 10 à 15 ans, en plus de ses deux fils.
+[36] Il n’avait pas personnellement vérifié les numéros de taxe ou autre enregistrement des Fournisseurs, mais était certain que ces recherches avaient été effectuées par sa conjointe ou Bruno, indiquant que ça relevait de la comptabilité et non de lui. Ces derniers s’assuraient que le sous-traitant « existait » et obtenait les lettres nécessaires de la CCQ. Il constatait que c’était nécessaire « pour être en loi ». Il n’avait pas souvenir du nom corporatif des Fournisseurs, ni des administrateurs ou dirigeants, expliquant qu’il fonctionnait plutôt avec le nom de la personne-contact du Fournisseur, comme par exemple, M. Couture.
+[37] Il ne pouvait pas expliquer pourquoi M. Couture avait changé de compagnie à quelques reprises, mais pour lui, la personne-contact était toujours la même. Au fil du temps, les nouveaux travailleurs ou les travailleurs qui avaient été « ses » employés sont tous devenus des employés des Fournisseurs, notamment de la société de M. Couture. Même s’ils travaillaient surtout pour les appelantes, l’explication donnée était qu’ils pouvaient avoir plus de flexibilité ou plus d’ouvrage sur d’autres chantiers. Le nom de ces travailleurs avec leurs heures facturables ou le détail de leur service était indiqué sur les factures préparées par M. Couture au nom d’un Fournisseur. Les matériaux étaient presque toujours fournis par les appelantes afin de respecter les normes et les exigences des plans et devis et de la soumission.
+Mme Nicole Groleau
+[38] Mme Groleau avait une 6e année et avait 72 ans au moment de rendre son témoignage. Elle était responsable de « l’administration » et de la « facturation » des appelantes, mais n’avait aucune formation ayant « appris sur le tas ».
+[39] Elle vérifiait les renseignements des sous-traitants, s’assurant qu’ils avaient leurs numéros de TPS/TVQ, un numéro de la CCQ, une licence de la RBQ, un numéro d’enregistrement avec la CSST et le NEQ. Tous les sous-traitants devaient avoir ces numéros d’enregistrement sinon elle ne payait pas leur facture. Même si ces renseignements étaient fournis par le sous-traitant, elle prenait le temps de les vérifier et entrait les données dans son logiciel. Elle ne vérifiait pas le Registre des entreprises du Québec (« REQ ») pour identifier les administrateurs ou les dirigeants.
+[40] Le lundi, M. Champagne ou Patrice « ramassaient les factures » des sous-traitants. Une fois revues et approuvées par Bruno, elle préparait les chèques qui étaient livrés au chantier le jeudi. Tous les sous-traitants étaient payés par chèque signé par M. Champagne. À la fin du mois, elle vérifiait l’encaissement des chèques pour faire la réconciliation bancaire. Ceci faisant, elle vérifiait parfois, mais pas toujours, l’endos des chèques et se souvenait d’une fois qu’elle ne reconnaissait pas l’étampe de l’institution financière. Elle s’était informée auprès du sous-traitant en question qui avait répondu qu’il n’avait pas eu le temps d’aller à la banque et que c’était plus pratique de l’encaisser à cet endroit. Elle était satisfaite de la réponse donnée.
+[41] Elle gardait aussi un registre informatisé des montants versés aux sous-traitants. À la fin de l’année, elle produisait « un rapport de paiement contractuel » ou le formulaire T5018 qu’elle remettait aux sous-traitants pour les aider à remplir leurs déclarations d’impôts. Le formulaire T5018 avec le nom de tous les sous-traitants était ensuite joint à la déclaration de revenus des appelantes.
+[42] Afin de se prémunir contre les réclamations, et à la demande de M. Champagne, le constructeur retenait 10 % du contrat total jusqu’à la fin du projet et les appelantes retenaient le même montant des sous-traitants jusqu’à ce qu’ils remettent une lettre de conformité « en bonne et due forme » de la CCQ et de la CSST, à défaut de quoi, ils n’étaient pas payés. Parfois, s’il y avait des problèmes, le montant retenu d’un sous-traitant était remis directement à la CCQ ou la CSST.
+[43] En contre-interrogatoire, Mme Groleau a insisté sur le fait que les appelantes avaient depuis longtemps une pratique de retenues de 10 % pour tous les Fournisseurs, même ceux qui étaient associés à M. Couture. Elle a aussi insisté sur le fait qu’elle exigeait les numéros d’enregistrement des « nouveaux » sous-traitants et ensuite faisait une vérification « au complet » auprès des registres gouvernementaux, pour ensuite refaire les mêmes vérifications tous les six mois pour s’assurer qu’ils étaient « en loi ». Si un sous-traitant n’avait pas un numéro, elle retenait son chèque jusqu’à ce qu’il soit en règle. Elle faisait de même pour les nouvelles sociétés avec qui M. Couture transigeait. Elle a confirmé qu’elle vérifiait l’existence d’une société en obtenant le NEQ sans toutefois vérifier le nom des administrateurs ou des dirigeants. Elle savait que M. Couture était administrateur ou dirigeant de LVC inc., sa première société, mais qu’il ne l’était pas pour les sociétés qui ont suivi et qu’il n’était pas non plus le « répondant » pour la CCQ ou RBQ. Cependant, elle a toujours insisté sur le fait que ceux-ci devaient être en règle.
+[44] En ré-interrogatoire, Mme Groleau a spécifiquement reconnu qu’elle avait effectué les vérifications pour les sous-traitants, dont chacun des Fournisseurs, et que l’information était conservée dans un système informatique. Ces vérifications étaient effectuées auprès des sites gouvernementaux lorsqu’il était question d’un nouveau sous-traitant et ensuite tous les six mois ou au début de l’année fiscale.
+M. Bruno Champagne
+[45] Bruno a d’abord travaillé sur les chantiers à l’adolescence puis, ayant complété un diplôme en génie civil vers la fin des années 1990, il a occupé une fonction plus administrative dont la préparation des estimations et des soumissions.
+[46] Après un certain temps, les appelantes ont acquis un logiciel pour faire le calcul des matériaux et de la main-d’œuvre. Selon l’envergure du projet, il faisait valider ses calculs par son père et son frère Patrice.
+[47] Pour les matériaux, ils avaient un choix d’environ quatre différents fournisseurs. Mais pour les travailleurs, ils connaissaient leur taux et donc il n’y avait pas de négociation en tant que telle. Une partie de leur « recette de succès » était d’essayer de garder le même groupe de travailleurs dont les « poseurs de métal », « tireurs de joints » et « poseurs de gypse » et ainsi de suite. Lorsque le contrat avec le constructeur était conclu, il fallait mobiliser les travailleurs.
+[48] Bruno confirme que M. Couture était un travailleur hors pair. Il était bien connu dans l’industrie de la finition intérieure pour son expertise et sa capacité de « lire » les plans et devis et de tracer les lignes pour les divers projets. Il assumait aussi un rôle important dans la gestion du projet et des travailleurs.
+[49] Bruno confirme notamment le processus avec la CSST et la CCQ pour l’obtention d’une « lettre d’attestation » ou d’un « état de situation » qu’ils devaient remettre au client pour être payés. Pour chaque projet, il devait transmettre un rapport à la CSST, indiquer le nom du client, l’emplacement du projet, le travail effectué, la durée des travaux, les montants versés et identifier les sous-traitants. Ces derniers devaient soumettre leur propre rapport et remettre une lettre d’attestation, sinon leur retenue n’était pas libérée. Un processus semblable était en place pour obtenir un « état de la situation » de la CCQ. De cette façon, ils s’assuraient d’être en règle. Parfois, ils devaient remettre la retenue d’un sous-traitant directement à la CSST pour obtenir la lettre d’attestation et ensuite remettre le tout au client pour être payés.
+[50] Bruno confirme que les sous-traitants devaient être en règle et que c’est surtout Mme Groleau qui avait mis en place une « structure » pour effectuer les vérifications. Ils avaient préparé un formulaire pour les nouveaux sous-traitants afin d’accélérer le processus de vérification. Cependant, même les numéros fournis par les sous-traitants étaient vérifiés. Ces vérifications pouvaient être répétées au début d’un nouveau projet et même trimestriellement. S’il y avait un problème, il faisait le suivi avec le sous-traitant en question.
+[51] Pour la vérification des travaux, M. Champagne et Patrice étaient régulièrement sur les lieux. Ils pouvaient donc valider les factures en s’assurant que les travaux avaient bien été effectués. Sinon, la facture n’était pas payée.
+[52] En 2007, il est devenu actionnaire des appelantes avec son frère Patrice. Le but était d’acquérir l’ensemble des actions de leurs parents, mais de façon graduelle pour qu’ils puissent éventuellement se retirer. C’était le plan de carrière.
+[53] Bruno indique que les appelantes ne pouvaient savoir si un Fournisseur était en défaut de produire un rapport de taxe ou d’impôt, que ces renseignements étaient confidentiels au ministre et qu’il n’était pas possible de faire une recherche pour savoir si le Fournisseur avait la capacité financière ou les ressources humaines pour rendre les services. Ils ne vérifiaient pas si le Fournisseur avait des véhicules enregistrés auprès de la SAAQ, « en autant que le sous-traitant était sur le chantier ». Ils ne pouvaient pas connaître la totalité des contrats d’un Fournisseur ni le montant des chèques encaissés dans des centres d’encaissement. Ils ne pouvaient pas savoir si un administrateur ou dirigeant était prestataire de l’assurance-emploi. Selon lui, le Fournisseur était en règle au moment de rendre les services et était indiqué dans les rapports de TPS/TVQ et dans le formulaire T5018. Les vérifications s’arrêtaient là. Il en était ainsi pour tous les Fournisseurs.
+VIII - Les témoins de l’intimé
+[54] La Cour a entendu le témoignage de plusieurs professionnels en vérification de l’ARC dont M. Pierre-Luc Gosselin, Mme Jessica Gagnon, Mme Hélène Constantineau, Mme Nancy Grenier, Mme Anousorn Senaphanh (agente d’accompagnement) et la vérificatrice en chef, Mme Sonia Brin.
+[55] Leurs témoignages ont permis de valider les hypothèses de faits de la ministre pour chacun des Fournisseurs et de confirmer qu’ils étaient des FFC. En contre-interrogatoire, ils ont tous reconnu que plusieurs de ces renseignements étaient confidentiels et n’auraient pas été accessibles aux appelantes.
+Les systèmes intérieurs L.V.C. inc. (« LVC inc. »)
+[56] Cette société a été constituée en 1993 et s’est inscrite auprès du CCQ la même année. M. Couture est administrateur et actionnaire avec sa conjointe Lynne Veilleux. L’entreprise n’a pas déposé de déclaration d’impôts depuis 1999 ou de déclaration de taxes depuis 2007. Elle a déclaré peu de contrats à la CCQ. Depuis 1999, elle n’a pas de véhicules enregistrés auprès de la SAAQ. Les vérificateurs n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone. La société n’avait pas la capacité ou les ressources humaines et matérielles pour fournir les services facturés. La société a encaissé des chèques dans des centres d’encaissement pour un montant de 2 498 000 $ entre janvier 2001 et septembre 2003.
+9125-9853 Québec inc. (Energypse)
+[57] Elle s’est inscrite à la CCQ le 26 novembre 2003, mais n’est plus en activité depuis octobre 2005. L’entreprise n’a jamais produit de déclarations d’impôts et a produit trois relevés de taxe à zéro. Un faux nom avec un faux numéro d’assurance sociale a été déclaré comme président. L’entreprise a encaissé des chèques dans des centres d’encaissement pour un montant de 2 970 762 $ et en fin de compte les représentants de L’ARC ont conclu qu’elle n’avait pas la capacité ou les ressources humaines et matérielles pour fournir les services facturés.
+9158-7154 Québec inc. (Construction Lachapelle)
+[58] Cette société s’est inscrite à la CCQ le 31 octobre 2005, mais n’est plus en activité depuis la fin du mois d’août 2007. Les représentants du ministre n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone et lors de la vérification, ils ont constaté que l’unique administrateur est prestataire d’assistance sociale depuis quelques années. L’adresse de la société est un comptoir UPS et aucun véhicule n’est enregistré à la SAAQ. Elle n’a produit aucune déclaration de taxes, de retenues à la source ou d’impôt depuis son inscription. Elle a encaissé des chèques dans des centres d’encaissement pour un montant de 1 060 000 $ entre octobre 2005 et novembre 2006.
+9108-2347 Québec inc. (R2LM)
+[59] Cette société s’est inscrite à la CCQ le 20 août 2004, mais n’est plus en activité depuis la fin du mois d’août 2009. L’adresse de l’entreprise correspond à une case postale de Postes Canada. Les représentants du ministre n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone. Ils ont pu constater que plusieurs personnes avaient agi à titre d’administrateurs et plusieurs d’entre elles étaient prestataires d’assurance sociale depuis quelques années. L’entreprise n’a pas déclaré de revenus ou de retenues à la source depuis le mois d’octobre 2006. Elle a encaissé des chèques dans cinq différents centres d’encaissement et trois banques à charte pour un montant total de 15 758 500 $.
+Les entreprises M. St. Pierre inc.
+[60] Cette société s’est inscrite à la CCQ le 21 mai 2009, mais le numéro au RBQ est erroné. Les représentants du ministre n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone et ont pu constater qu’en décembre 2009, il y a eu un changement d’administrateur. Au moment de la vérification, l’administrateur en poste était bénéficiaire d’assistance sociale. La société n’a aucun véhicule enregistré à la SAAQ et depuis 2006, elle n’a pas déclaré de revenus ou de retenues à la source. La vérification a démontré que la société avait encaissé pour plus de 2 930 458 $ dans des centres d’encaissements.
+Finitions Pro-Techni inc.
+[61] Cette société s’est inscrite à la CCQ le 9 mars 2004, mais n’est plus en activité à la fin décembre 2004. Les représentants du ministre n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone et lorsqu’ils se sont présentés à l’adresse de l’entreprise, le président a refusé de s’entretenir avec eux. L’entreprise n’a jamais produit de déclarations de taxes ou de revenus et son président et unique actionnaire n’a pas déclaré de revenus d’emploi ou d’entreprise. Elle n’a pas de véhicules enregistrés à la SAAQ. L’entreprise n’a pas déclaré les appelantes comme donneur d’ouvrage. Les appelantes n’ont pas déclaré la société à la CCQ et n’ont pas demandé de lettre d’état de la situation. Aucun inspecteur de la CCQ n’a vu les prétendus travailleurs sur les chantiers des appelantes et ses dossiers indiquent que la société opère sans licence. L’entreprise a encaissé des chèques dans des centres d’encaissement pour un montant de 2 989 726 $. Elle a aussi déposé des chèques pour plus de 3 211 300 $ dans un compte de la Banque Laurentienne, mais les montants ont été immédiatement suivis d’un retrait au comptoir. Dans le fichier des appelantes, la personne-contact est un dénommé « Éric Tremblay », mais aucune personne de ce nom n’est associée à la société.
+Construction Lubac inc.
+[62] Cette société s’est inscrite à la CCQ le 8 juin 2005, mais n’est plus en affaires depuis le 28 janvier 2006. Pendant cette période, elle a encaissé des chèques dans un centre d’encaissement pour un montant total de 3 727 513 $. Son président et intervenant à la CCQ a déclaré des heures comme « poseur de gypse », mais est prestataire de l’aide sociale depuis plusieurs années. Elle n’a pas de véhicules ou d’employés selon les registres. L’entreprise n’a pas déclaré les appelantes comme donneur d’ouvrage. Les appelantes n’ont pas déclaré la société à la CCQ et n’ont pas demandé de lettre d’état de la situation. Aucun inspecteur de la CCQ n’a vu les travailleurs de cette société sur les chantiers des appelantes. Elle a produit une seule déclaration de taxes demandant un remboursement de TPS/TVQ de quelques dollars, mais ne déclarant aucun revenu. Dans le fichier des appelantes, la personne-contact est un dénommé « Gaétan », mais aucune personne de ce nom n’est associée à la société.
+Construction Aspro inc.
+Elle s’est inscrite auprès de la CCQ le 5 mars 2005, mais la licence de la RBQ a été annulée le 10 mai 2006. L’intervenant à la CCQ et président de l’entreprise se déclare comme « briqueteur ». La société n’a pas produit une déclaration de taxe ou d’impôt. Les représentants du ministre n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone. Elle a encaissé des chèques dans des centres d’encaissements pour un montant de 10 985 417 $. La facturation est douteuse en ce que les factures diffèrent d’un « client à un autre », les numéros des factures ne se suivent pas, les adresses et numéros de téléphone indiqués sur les factures sont invalides. Elle n’a aucun véhicule enregistré à la SAAQ et tout indique qu’elle n’a pas la capacité ou les ressources humaines et matérielles pour fournir les services facturés aux appelantes. Dans le fichier des appelantes, la personne-contact est un dénommé « Frédéric Dupont » alors qu’aucune personne de ce nom n’est associée à la société.
+9145-3126 Québec inc. (Construction Technopro inc.)
+[63] Elle s’est inscrite à la CCQ le 12 juin 2008. Les représentants du ministre n’ont pu joindre les représentants de l’entreprise par lettre ou par téléphone. L’adresse de l’administrateur est invalide. De 2006 à 2009, elle a déclaré des taxes nettes inférieures à 500 $, mais elle a encaissé des chèques pour plus de 1 931 000 $. Au REQ, elle a déclaré n’avoir aucun employé et ne s’est pas inscrite aux retenues à la source. La facturation est douteuse en ce que l’entreprise a trois types de factures différentes et les numéros de factures ne se suivent pas. L’entreprise n’a fait aucun rapport de remises à la CCQ et les représentants de la ministre ont conclu qu’elle n’avait pas la capacité ou les ressources humaines et matérielles pour fournir les services facturés aux appelantes. Dans le fichier des appelantes, la personne-contact est un dénommé « Bob Ryan » alors qu’aucune personne de ce nom n’est associée à la société. Cette société a remis des factures pour un total de 148 823 $ et chaque chèque des appelantes a été visé. Cependant, les appelantes déclarent ne pas être au courant.
+[64] Les appelantes ont produit trois types de facture de vente pour ce fournisseur. Les premières sont entièrement informatisées tandis que les autres sont des factures imprimées, complétées manuellement, mais dont la personne-contact ou les adresses et les numéros de téléphone sont différents.
+Témoignage de Mme Sonia Brin
+[65] Mme Brin a déposé en preuve son rapport de vérification pour Jenleau (la pièce I-14) et Chambru (la pièce I-13). Lors de la vérification initiale, elle n’avait pas relevé d’anomalies entre la comptabilité et les états financiers.
+[66] Cependant elle a noté que plusieurs des pièces justificatives pour les sous-traitants comportaient des ajustements à la baisse des montants inscrits sur les factures. De plus, plusieurs des factures provenant des sous-traitants étaient très peu détaillées quant à la description des services rendus. La vérification a ensuite relevé plusieurs factures de sous-traitants provenant de compagnie connue comme étant des fournisseurs de factures de complaisance. C’est à partir de ce moment-là qu’elle a intégré les rapports de vérification des divers Fournisseurs.
+[67] Elle a pu constater que les factures provenant de LVC inc. étaient toutes préparées à la main en utilisant un cahier de factures qu’elle a décrit comme un « blueline pad », disponible dans les magasins de fournitures de bureau. Ces factures comportaient peu de détails sauf le nom des travailleurs et les heures facturées. Le nom du sous-traitant était inscrit à la main ou à l’aide d’une étampe.
+[68] La suite numérique des factures préparées au nom de LVC inc. continuait pour les « nouveaux » Fournisseurs associés à M. Couture. Elle a pu constater que lorsqu’un Fournisseur avait des difficultés avec la CCQ ou la CSST ou si les numéros de taxe étaient annulés, M. Couture changeait de Fournisseur. Elle a noté que la durée de la relation avec les Fournisseurs était de plus en plus courte.
+[69] Suite à ses discussions avec M. Champagne et Bruno, Mme Brin a pu constater que M. Couture avait une relation très étroite et même privilégiée avec les appelantes. Même s’il facturait ses services au nom d’une société, il travaillait uniquement pour les appelantes et le plus souvent son travail était facturé à l’heure.
+[70] Mme Brin a pu constater que M. Couture était gestionnaire de plusieurs projets et qu’il complétait les « feuilles de travail contrôlées » des autres travailleurs, lesquelles étaient remises aux appelantes le lundi matin. Elle a aussi constaté que les travailleurs qui se déclaraient aux inspecteurs de la CCQ comme étant « employés » d’un Fournisseur, changeant d’employeur au moment même où M. Couture s’associait à un nouveau Fournisseur. En fin de compte, elle a conclu que les « travailleurs » étaient tous en réalité des employés des appelantes.
+[71] Pour les autres Fournisseurs, Mme Brin n’avait pas réussi à déceler un lien contractuel avec les appelantes qui ne connaissaient pas les administrateurs ou les dirigeants et transigeaient uniquement avec des personnes-contact. Elle a pu constater dans le fichier des appelantes que la personne-contact de ces Fournisseurs était un individu sans aucun lien avec le Fournisseur en question.
+[72] Lors de sa vérification, elle a rencontré les représentants d’un Fournisseur et demandé s’ils avaient des registres ou des livres de comptabilité. Ces derniers ont tout simplement présenté une boite contenant des factures imprimées au nom de la société avec les numéros de taxe, de la CCQ et de la RBQ.
+[73] En fin de compte, Mme Brin a pu constater que chaque Fournisseur avait un modus operandi semblable, soit celui de faire imprimer des factures en blanc au nom de l’entreprise, lesquelles étaient distribuées à des travailleurs ou des entreprises sur les chantiers de construction pour qu’elles soient complétées avec leurs heures travaillées afin de facturer un donneur d’ouvrage. Le chèque émis par le donneur d’ouvrage, dans cette instance les appelantes, était ensuite encaissé dans un centre d’encaissement en échange d’une commission et l’argent comptant était remis à un réseau des personnes plus ou moins connues pour payer les travailleurs.
+Témoignage de Mme Louise Joly
+[74] Mme Joly a fait une lecture de ses notes sténographiques (la pièce I-5, 10 de 26) ou il était indiqué qu’elle a eu une première rencontre avec M. Couture concernant « Construction Lachapelle ». Elle lui a indiqué que selon les inspecteurs, ils identifiaient les mêmes travailleurs sur les chantiers des appelantes, mais que ceux-ci se déclaraient « employés » de différents Fournisseurs. Elle a expliqué à M. Couture qu’il devait déclarer les heures de tous les travailleurs.
+[75] Mme Joly a ensuite revu ses notes ou il était indiqué que « M. Couture dit avoir parlé deux fois seulement » avec l’administrateur de Construction Lachapelle « (…) depuis qu’il facture à travers eux (…) » et plus loin que « M. Couture précise qu’il facture à travers Construction Lachapelle et maintenant R2LM » et « qu’il donne 6 % du total au propriétaire pour se servir de leur licence ».
+[76] Les appelantes se sont opposées à cette déclaration au motif qu’il s’agissait de « ouï-dire » puisque M. Couture n’était pas présent pour subir un contre-interrogatoire. Ils ont maintenu qu’il s’agissait d’une déclaration présumée inadmissible en vertu de l’article 2870 du Code civil du Québec.
+[77] La Cour a pris la question en délibéré et a rendu une décision le lendemain. Elle a accepté l’analyse faite dans CMLF c. RBC Dominion valeurs mobilières, 2005 CanLII (QC SC) (« CMLF ») où la Cour supérieure du Québec s’est appuyée sur « la règle établie dans O’Brien » (La Reine c. O’Brien, 1977 CanLII 168 (CSC), [1978] 1 RSC 591), soit qu’une déclaration extrajudiciaire est « irrecevable lorsqu’elle cherche à établir la véracité de la déclaration; toutefois, cette preuve n’est pas du ouï-dire et est donc recevable lorsqu’elle cherche à établir, non pas la véracité de la déclaration, mais simplement que celle-ci a été faite ».
+[78] Dans CMLF, la Cour a ajouté qu’un témoignage est recevable s’il « explique la trame chronologique des évènements dont il a été témoin en relatant (…) l’existence de certaines déclarations extrajudiciaires auxquelles il a réagi (…) sans que pour autant ce témoignage soit recevable pour établir la véracité desdites déclarations extrajudiciaires » (par. 14).
+[79] Dans un deuxième temps, la Cour a noté que l’article 2870 du C.c.Q. prévoit une exception à la règle du ouï-dire lorsque « les circonstances entourant la déclaration donnent à celle-ci des garanties suffisamment sérieuses pour pouvoir s’y fier ». Cet article prévoit que « sont présumés présenter ces garanties (…) les documents insérés dans un registre dont la tenue est exigée par la loi (…) ».
+[80] La Cour a donc conclu que la déclaration faite par M. Couture était insérée dans un registre préparé par Mme Joly dans le cadre de ses fonctions et qu’il s’agissait donc d’une exception à la règle du ouï-dire. Dans l’alternative, la Cour a accepté que Mme Joly pouvait expliquer « la trame chronologique » et relater la déclaration extrajudiciaire non pas comme preuve de sa véracité, mais pour établir que M. Couture avait fait la déclaration en question.
+IX – La ministre était-elle en droit de refuser les CTI réclamés par les appelantes pour les périodes visées en lien avec les Fournisseurs ?
+[81] Afin d’établir un cadre analytique approprié et permettre à la Cour de trancher les questions dont elle est saisie, il est pertinent de revoir les principes de base énoncés par la Cour suprême du Canada dans Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336. Ces principes ont été repris par la Cour d’appel fédérale dans l’affaire House c. Canada, 2011 CAF 234 (« House ») ou la Cour a indiqué ce qui suit:
+Dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités;
+Le contribuable a la charge initiale de « démolir » les présomptions sur lesquelles le ministre se fonde pour établir sa cotisation;
+Le contribuable s’acquitte de cette charge initiale lorsqu'il présente une preuve prima facie;
+Lorsque le contribuable a établi une preuve prima facie, le fardeau de la preuve passe alors au ministre qui doit réfuter cette preuve en démontrant, selon la prépondérance des probabilités, l’exactitude de ses présomptions;
+Si le ministre ne présente aucune preuve satisfaisante, le contribuable a gain de cause.
+La Cour a ensuite examiné la notion de la preuve prima facie en citant Amiante Spec Inc. c. Canada, 2009 CAF 239, ou elle avait indiqué ce qui suit :
+[23] Une preuve prima facie est celle qui est « étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la Cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé. Une preuve prima facie n’est pas la même chose qu’une preuve concluante, qui exclut la possibilité que toute conclusion autre que celle établie par cette preuve soit vraie » (Stewart c. Canada, 2000 CanLII 426 (CCI), [1997] T.C.J. No. 53 au paragraphe 23).
+[24] Bien qu’il ne s’agisse pas d’une preuve concluante, « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement » considérant « qu’il s’agit de l’entreprise du contribuable » (Voitures Orly inc. c. Canada, 2005 CAF 425 au paragraphe 20). Cette Cour a précisé que c’est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle » (ibid.).
+[Non-souligné dans l’original]
+[82] La Cour a ajouté qu’un « témoignage crédible n’a besoin d’aucun document d’appui pour établir un point » et que cela peut être suffisant comme preuve prima facie pour démolir les hypothèses du ministre si l’intimé « n’a ni contesté ni discrédité » le témoignage en question ni « présenté une preuve réfutant la preuve prima facie » pour établir « selon la prépondérance des probabilités que ses hypothèses étaient justes (…) » (paras. 66 à 77).
+[83] Il est entendu « qu’il peut y avoir des instances ou les hypothèses de faits invoqués relèvent de la connaissance exclusive et particulière du ministre et que la règle concernant le fardeau de preuve peut avoir des conséquences inéquitables au point de justifier une mesure corrective » : Canada c. Anchor Pointe Energy Ltd (C.A.F.), 2005 CAF 425. Tel que l’indique le juge Owen dans Morrison c. La Reine, 2018 CCI 220, « la signification du mot « exclusive » veut dire que le ministre est la seule personne qui possède les renseignements » (par. 116).
+[84] Dans Entreprises DRF inc. c. La Reine, 2013 CCI 95 (« Entreprises DRF »), il était question de facture de complaisance et le juge Angers a indiqué ce qui suit :
+[36] Le fardeau de la preuve applicable lorsqu’un inscrit réclame des CTI, alors que l’existence d’un stratagème de factures de complaisance est alléguée, est résumé de la façon suivante par le juge Bédard dans la décision Les Pro‑Poseurs Inc. c. Canada, [2011] A.C.I. no 89, confirmée dans [2012] A.C.F. no 856 :
+[35] L’affaire Hickman Motors Ltd. […] nous enseigne que le ministre se fonde sur des hypothèses pour établir une cotisation et que la charge initiale de démolir les hypothèses formulées par le ministre repose sur le contribuable […] Par conséquent, l’appelante en l’espèce devait démontrer au moyen d’une preuve prima facie qu’elle avait réellement acheté les fournitures des fournisseurs douteux. […] Enfin, l’appelante devait aussi démontrer que les factures prétendument établies par ces fournisseurs douteux répondent aux exigences de la LTA et du Règlement.
+[37] L’appelante doit donc dans un premier temps démontrer au moyen d’une preuve prima facie qu’elle n’a pas participé à un stratagème de fausses factures et qu’elle a réellement acheté les fournitures des sous-traitants. Dans un deuxième temps, l’appelante doit démontrer que les factures des sous-traitants répondent aux exigences de la Loi et du Règlement.
+[Non-souligné dans l’original]
+[85] Le paragraphe 169(4) de la LTA exige que l’inscrit soit en mesure de présenter des renseignements suffisants pour demander des CTI. Il doit notamment pouvoir présenter des pièces justificatives qui contiennent les renseignements exigés par le Règlement dont le nom du « fournisseur » ou de son « intermédiaire ». Selon la définition, un « intermédiaire » est celui qui agit à titre de mandataire d’un inscrit aux termes d’une convention conclue avec l’inscrit, pour effectuer ou faciliter une fourniture.
+[86] Dans l’affaire Systematix Technology Consultants Inc., c. La Reine, 2007 CAF 226 (« Systematix »), la Cour d’appel fédérale a cité la décision Key Property Management Corp. c. R [2004] G.S.T. C. 32 (CCI) en rappelant que le but de la législation était « de protéger le Trésor contre les violations tant frauduleuses qu’innocentes » qui « ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées » (par. 5).
+[87] Comme l’explique le juge Boyle dans Comtronic Computer Inc. c. La Reine, 2010 CCI 55 (« Comtronics »), lorsqu’il est question dans Systematix de numéro d’inscription valide, il s’agit d’un de numéro « valablement attribué » à un fournisseur. Le juge Boyle ajoute qu’une application stricte de la LTA « est une source potentielle d’injustice pour l’acheteur qui paye la TPS de bonne foi » et qu’il peut être nécessaire de « mettre en place des mesures de gestion du risque dans leurs relations tant avec leurs nouveaux fournisseurs qu’avec leurs fournisseurs existants » et au besoin de faire « des recherches plus approfondies » (par. 29).
+[88] Dans Entreprises DRF, le juge Angers explique qu’un « acquéreur a droit aux CTI seulement si le numéro de TPS qui figure sur la facture appartient au fournisseur réel » (par. 47) et « par conséquent, le simple fait de prouver que les services ont effectivement été rendus ne saurait suffire pour avoir droit aux CTI. » Il ajoute que l’inscrit doit tout de même « prouver que les sous-traitants, dont les numéros d’inscription figurent sur les factures (…) étaient effectivement des fournisseurs de services » (par. 48).
+[89] De même, dans l’affaire La Reine c. Salaison Lévesque inc., 2014 CAF 296 (« Salaison Lévesque »), la Cour d’appel fédérale souligne que « la seule véritable question devant le juge […] était de déterminer si Salaison avait présenté des factures décrivant le nom du fournisseur du service ou de l’intermédiaire tel que requis par le Règlement » et que ceci était « une question de faits » (par. 17).
+[90] Puis dans Pépinière A. Massé c. La Reine, 2014 CCI 271 (« Pépinière Massé »), le juge Paris a conclu que l’inscrit n’avait pas « déchargé son fardeau de démontrer que les sociétés et entreprises en cause lui ont fourni la main-d’œuvre ou agissaient comme intermédiaire » (par. 57) et que même si elle avait fait preuve « de diligence raisonnable face aux changements de sociétés par ses sous-traitants […] la jurisprudence enseigne clairement que même en l’absence de preuve de connaissance, de connivence ou de collusion […] si le nom et le numéro de taxe du fournisseur sur la facture ne sont pas ceux du vrai fournisseur, l’acquéreur n’a pas droit aux CTI » (par. 58).
+[91] Dans l’affaire Agence du revenu du Québec c. Système intérieur GPBR inc., 2015 QCCA 1402 (« GPBR »), la Cour d’appel du Québec a également conclu que les dispositions similaires de la Loi sur la taxe de vente du Québec avaient un caractère impératif. La Cour a noté que seules les factures présentées par un fournisseur ou son mandataire « c’est-à-dire une personne qui a le pouvoir de le représenter dans l’accomplissement d’un acte juridique avec un tiers (…) peuvent donner lieu à un CTI ». La Cour a ajouté que « la facture doit émaner d’un inscrit qui détient un intérêt à effectuer la facturation, ce qui exclut d‘emblée la facturation de complaisance ou pis encore, la fausse facturation » (par. 38).
+[92] Dans Agence du revenu du Québec c. Stamatopoulos, 2018 QCCA 474 (« Stamatopoulos ») la Cour d’appel du Québec a revu la décision de GPBR expliquant que l’inscrit « n’avait pas réussi à prouver que les factures émanaient des personnes avec qui elle avait directement contracté » et qu’il « avait fait affaire avec des ouvriers « en chair et en os », soit des poseurs de gypse et des tireurs de joints œuvrant seuls, qu’elle reconnaissait comme étant ses véritables « fournisseurs de services ». L’inscrit « n’avait pas directement transigé avec ces sociétés, qui n’avaient aucun lien avec les travaux exécutés » (par. 41).
+[93] La Cour d’appel a cependant conclu dans Stamatapolous qu’elle devait distinguer la décision de GPBR puisque qu’en l’espèce, même si la ministre avait fait la démonstration que les fournisseurs étaient des délinquants fiscaux, le juge de première instance avait conclu que le mandataire « rencontrait un représentant, pour chaque sous-traitant » et il y avait « des négociations (…) quant au prix, quantités et délai de livraison » (par. 55) de sorte qu’il pouvait conclure qu’il existait une preuve prima facie que les sous-traitants indiqués dans les factures étaient de véritables « fournisseurs » ou « intermédiaires » au sens de la LTA et que « le travail de confection avait été effectué par les sous-traitants dont les noms apparaissent sur les factures » (par. 45).
+[94] Dans SNF S.E.C., c. La Reine, 2016 CCI 12, (« SNF »), il était question de fournisseurs qui avaient un numéro de TPS valide, mais ne remettaient pas la taxe. La ministre avait refusé les CTI alléguant que les fournisseurs n’avaient pas la capacité et les ressources nécessaires pour effectuer les fournitures et qu’ils étaient des prête-noms pour des personnes inconnues, mais non les véritables fournisseurs. Cependant, la Cour a accepté la preuve de l’appelante qu’elle rencontrait généralement le fournisseur potentiel et obtenait le plus de détails possible avant l’ouverture du compte, dont les numéros de taxe (par. 27). Elle a cependant précisé que si un inscrit « a des doutes quant à la légitimité de la personne en sa qualité de fournisseur, il achète les fournitures à ses risques et périls » (par. 79).
+[95] De même, dans Les Ventes et Façonnage de Papier Reiss Inc. c. La Reine, 2016 CCI 289, « Reiss »), il était question d’un inscrit qui ne vérifiait que les numéros de taxe et n’avait aucune procédure pour vérifier l’identité même des fournisseurs et n’effectuait pas de vérification auprès du REQ pour identifier les administrateurs et dirigeants. La juge Lafleur a conclu que la procédure était insuffisante pour réclamer des CTI ajoutant que « la jurisprudence est bien fixée: la bonne foi de l’inscrit qui réclame les CTI n’a aucune pertinence » (par. 192). Voir aussi 9194-2359 Québec Inc., c. La Reine, 2019 CCI 179 (par. 67).
+Analyse de la première question en litige
+[96] Dans un premier temps, la Cour est d’avis que les appelantes ont établi une preuve prima facie que les fournitures pour les périodes en cause et pour les montants indiqués, soit 3 747 593 $ pour Jenleau et 1 479 337 $ pour Chambru, ont réellement été rendues ou acquises. Elles avaient mis en place un système de vérification plutôt rigoureux pour s’assurer que les factures reflétaient des travaux réellement effectués et n’avaient pas intérêt à payer pour des services qui n’avaient pas réellement été rendus. D’ailleurs, tout indique que la ministre a accepté les montants payés pour fin d’impôt même si les CTI ont été refusés.
+[97] Dans un deuxième temps, la Cour est d’avis que les appelantes ont démontré une certaine diligence en effectuant des vérifications de façon répétée pour obtenir ou confirmer le NEQ de même que les numéros de TPS/TVQ, CCQ, RBQ et CSST. D’ailleurs l’intimé ne remet pas en doute que les appelantes ont effectué ces vérifications. Ceci dit, la question est de savoir si cela était suffisant.
+[98] Pour avoir droit aux CTI réclamés, les appelantes devaient présenter une preuve prima facie que les Fournisseurs étaient les réels fournisseurs. Or, comme l’indique le juge Angers dans Entreprises DRF, « la preuve à ce sujet semble plutôt mince, voire inexistante » (par. 48) pour au moins cinq (5) des six (6) Fournisseurs associés à M. Couture. Mme Groleau a indiqué qu’il était administrateur de LVC inc., mais qu’il ne l’était pas pour les sociétés qui l’ont succédé. Force est de constater que les autres membres de la famille Champagne le savaient aussi. Il n’y avait aucune preuve que M. Couture était « intermédiaire » ou « mandataire » de ces autres Fournisseurs au sens de la définition.
+[99] Les appelantes ont effectué des vérifications pour obtenir le NEQ et ainsi confirmer « l’existence » juridique des Fournisseurs cependant elles n’ont pas effectué une recherche auprès du REQ afin d’identifier les administrateurs ou les dirigeants. Il n’y a aucune preuve qu’elles ont tenté de communiquer avec eux ou qu’elles ont conclu une entente quelconque avec ces cinq Fournisseurs.
+[100] En fin de compte, la Cour peut conclure que les appelantes ont aveuglément accepté que M. Couture était la personne-contact ou le représentant attitré, et ce, même si les factures étaient complétées manuellement en utilisant un « blueline pad » dont les numéros se suivaient d’un Fournisseur à l’autre. La Cour doit conclure qu’il s’agissait du « blueline pad » de M. Couture et non des Fournisseurs qu’il prétendait représenter.
+[101] La Cour est d’accord avec l’intimé sur le fait que les appelantes ont pu profiter de cette situation en évitant toute rupture dans les services rendus par le regroupement de travailleurs bien connus des appelantes qui continuaient de travailler sur les chantiers, mais se déclaraient « employé » d’un nouveau Fournisseur. Comme l’a indiqué M. Champagne, l’important était la qualité des services. La Cour peut conclure que la relation contractuelle avec les nouveaux Fournisseurs n’importait pas, du moment que les « numéros » étaient en règle.
+[102] Dans Stamatopoulos, la ministre avait allégué que les fournisseurs étaient des délinquants fiscaux qui n’avaient pas la capacité de rendre les services. Cependant, la Cour d’appel du Québec a accepté la conclusion du juge de première instance selon laquelle l’inscrit avait rencontré le représentant de chacun des sous-traitants pour l’ouverture d’un compte - ce qui n’est pas le cas ici.
+[103] Il en va de même pour les autres Fournisseurs. Les appelantes n’ont présenté aucune preuve probante qu’il s’agissait des réels fournisseurs. Elles n’ont pas vérifié le REQ et se contentaient de transiger avec des « personnes-contact » qu’elles avaient de la difficulté à identifier lors de l’audience et dont elles avaient seulement un numéro de téléphone. Cependant, il n’y a eu aucune preuve d’une communication directe avec ces Fournisseurs et aucune preuve qu’elles transigeaient avec un dirigeant ou un intermédiaire attitré. La Cour doit encore conclure que les appelantes ont aveuglément accepté de transiger avec la personne qui présentait une facture au nom d’un Fournisseur dont les numéros étaient en règle. La Cour est d’avis que les appelantes ont donc acquis ces fournitures à leurs « risques et périls » en lien avec les CTI réclamés.
+[104] D’ailleurs la Cour accepte la preuve des vérificateurs de l’ARQ selon laquelle les Fournisseurs étaient tous des FFC, soit des sociétés bidon n’ayant pas les ressources ou la capacité matérielle ou humaine pour effectuer les travaux. Elles ne déclaraient pas d’impôts ou de taxes au profit de personnes qui demeurent inconnues. La preuve indique que le seul but de ces sociétés était de faire le trafic de factures en blanc et d’agir comme intermédiaire pour le dépôt des chèques dans des centres d’encaissement en échange d’un pourcentage du montant déposé.
+[105] Ajoutons à tout cela, que l’intimé a fait la preuve que certains de ces Fournisseurs, soit 9137-6483 Québec inc. (Cie Gypse.com), Construction Aspro inc., Construction Lubac inc. et Finitions Pro-Techi inc., ont déjà été adjugés comme étant des FFC dans d’autres instances juridiques (la pièce I-19).
+[106] Même si la Cour accepte la prétention des appelantes qu’elles ne pouvaient savoir que les Fournisseurs étaient des délinquants fiscaux et des FFC et que ces renseignements étaient confidentiels et seulement accessibles aux autorités gouvernementales, il reste qu’il ne s’agissait pas de réels fournisseurs et la jurisprudence indique que les exigences de la LTA sont impératives.
+[107] De plus, même si les appelantes ne pouvaient pas connaître la totalité des chèques déposée par les Fournisseurs dans des centres d’encaissement, la preuve indique que plusieurs de leurs chèques avaient été visés. La Cour est d’avis que les appelantes auraient dû en prendre note et constater qu’un grand nombre des chèques remis aux Fournisseurs avaient été déposés dans des centres d’encaissement et le témoignage au contraire n’était pas crédible.
+[108] Les appelantes ont indiqué qu’elles ne savaient pas que les travailleurs étaient payés en argent comptant, mais la Cour est d’avis qu’elles devaient le savoir. Même si elles n’ont pas directement participé au stratagème, elles ont tout de même fait preuve d’indifférence et d’aveuglement volontaire.
+[109] En fin de compte, la Cour est d’avis que la preuve des appelantes n’était pas étayée par des éléments de preuve convaincants, qu’elle était constituée presque exclusivement du témoignage non corroboré de personnes ayant un intérêt dans le litige. La Cour doit tirer une inférence négative de l’absence de témoignage des travailleurs ou des personnes-contact des Fournisseurs.
+[110] La Cour doit conclure que les appelantes n’ont pas réussi à établir une preuve prima facie qu’elles avaient acquis les fournitures des Fournisseurs. Cela suffit pour conclure que les pièces justificatives ne rencontraient pas les exigences de la LTA et donc que les appelantes n’avaient pas droit aux CTI demandés.
+[111] Il reste la société LVC inc. qui a été constituée en 1993 et a cessé ses activités au mois de mars 2004. Il s’agissait de la société de M. Couture qui était président et actionnaire avec sa conjointe. L’intimé maintient qu’il s’agissait aussi d’un délinquant fiscal et d’un FFC. Cependant, l’intimé n’a pas remis en doute que M. Couture était administrateur et que les appelantes ont toujours transigé directement avec lui. Puisque les pièces justificatives refusées par la ministre ont été produites pendant la période prescrite, la Cour traitera cette question ici-bas.
+[112] L’intimé a tenu pour acquis que les appelantes avaient participé à un stratagème dont le but était « de payer comptant le salaire de certains de ses employés » sans que celles-ci les déclarent au ministre et remplissent « leurs obligations légales à cet égard ». Dans les représentations écrites, l’intimé ajoute que les travailleurs, de même que M. Couture, étaient réellement des « employés » des appelantes et que ces dernières n’ont pas réussi à renverser les présomptions factuelles du ministre en ce qui concerne le statut des travailleurs ou le stratagème pour payer les employés au noir. L’intimé maintient essentiellement que les travailleurs étaient tous sous la gouvernance de M. Couture qui était lui-même un employé des appelantes « ou directement sous la direction des Champagnes » et qu’elles n’ont jamais eu de contact avec les FFC ou leurs dirigeants. L’intimé ajoute qu’il est invraisemblable que les « travailleurs » aient changé d’employeur au même moment que M. Couture ou lorsqu’il y avait un changement de Fournisseur.
+[113] Selon les appelantes, elles ont structuré leurs affaires de sorte à réduire la masse salariale en minimisant le nombre d’employés et en s’assurant que tous les « travailleurs » étaient à la charge de M. Couture. La preuve indique qu’il occupait un rôle important au sein des opérations. M. Champagne a d’ailleurs indiqué qu’il était « son employé » même s’il avait sa propre compagnie.
+[114] La preuve indique que M. Champagne et Patrice vérifiaient fréquemment les travaux effectués, mais le but était de veiller à la qualité des résultats afin de s’assurer qu’ils étaient conformes au plan et devis prévus par le contrat avec le constructeur. C’était en partie la clef de leur succès. Or, comme l’indique la Cour d’appel fédérale dans Fédération des caisses Desjardins du Québec c. Canada (Revenu national), 2020 CAF 182 (« Fédération »), « le contrôle des résultats n’équivaut pas au contrôle de l’exécution des travaux, lequel est propre au contrat de louage de services » (par 4 et 5).
+[115] En fin de compte, la Cour est d’avis que les appelantes n’avaient pas à renverser une hypothèse de faits portant sur « le statut des travailleurs » et « le stratagème pour payer les employés au noir » puisqu’elle n’était pas pertinente au litige. Dans la décision SNF, le juge Rip a indiqué ce qui suit :
+[72] Le ministre a également formulé certaines hypothèses qui sont vraies, mais qui ne sont pas pertinentes : par exemple, le paiement en argent comptant empêche le fisc de vérifier les montants en question entre les mains des prétendus fournisseurs et les chèques libellés à l’ordre de fournisseurs par SNF ont été encaissés par SNF. L’argent comptant a cours légal et constitue un mode de paiement pour les biens et les services. Le fait qu’il puisse être difficile pour un tiers de suivre la trace de l’argent comptant n’a pas d’incidence sur l’achat et la vente eux‑mêmes ni n'a pour conséquence qu’il est interdit à l’inscrit de demander des CTI.
+[Non-souligné dans l’original]
+X – Les cotisations au-delà de la période normale prévue pour les cotisations
+[116] L’alinéa 298(4)a) prévoit que la ministre peut « à tout moment » établir une cotisation au-delà de la période de prescription si l’inscrit a « fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ». Il est bien établi qu’il revient à l’intimé de faire la preuve de ceci. La période de prescription pour Jenleau est le 1er octobre 2006 et celle de Chambru, le 1er décembre 2007.
+[117] Dans MF Electric Incorporé c. La Reine, 2023 CCI 60, la juge St. Hilaire a fait l’analyse d’une disposition semblable de la Loi de l’impôt sur le revenu, L.R.C. (1985), Ch. 1 (5e suppl.), expliquant qu’une présentation erronée de faits s’entend de n’importe quelle déclaration « inexacte » et que le « seuil permettant d’établir l’existence d’une fausse déclaration est bas » (par. 33). Elle a ajouté ce qui suit :
+TRADUCTION
+[31] Le libellé du sous-alinéa 152(4)a)(i) est tel qu'il suffit au ministre d'établir la négligence ou l'inattention sans avoir à déterminer s'il y a eu omission volontaire ou fraude (voir Deyab c Canada, 2020 CAF 222 aux paragraphes 58-61 [Deyab]). Cela dit, il incombe au ministre d'établir à la fois que le contribuable ou la personne qui produit la déclaration a fait une présentation erronée des faits et que celle-ci est imputable à la négligence, à l'inattention, à l'omission volontaire ou à la fraude (voir Vine c R, 2015 CAF 125 aux paras 23-24).
+[Non-souligné dans l’original]
+[118] Dans Francis & Associates c. La Reine, 2014 CCI 137, le juge Bocock a commenté la question de la « norme de diligence (…) que l’on exige du contribuable raisonnable » (par. 22 et 23) en citant l’arrêt Regina Shoppers Mall Ltd. v. R, [1991] 1 C.T.C. 29 ou la Cour d’appel fédérale a indiqué que « le soin nécessaire doit correspondre à celui d’une personne sage et prudente ». Le juge Bocock a ensuite cité la décision Reilly c. R, [1984] C.T.C. (par. 51) ou le juge Muldoon, également de la Cour fédérale, a ajouté « que la norme applicable est celle d’une personne sage et prudente », mais qu’il fallait se rappeler « que la sagesse n’est pas infaillible » et « la prudence n’est pas la perfection ».
+[119] Dans cette instance, la Cour a déjà conclu que les pièces justificatives ne reflétaient pas le nom des réels Fournisseurs et cela suffit pour conclure que les appelantes ont fait « une présentation erronée des faits ». Même si les appelantes prétendent qu’elles étaient de bonne foi, qu’elles ont démontré une certaine diligence, qu’elles ont agi au meilleur de leur connaissance, la Cour ne peut conclure qu’elles ont agi comme des personnes « sages et prudentes ». Elles n’ont pas fait de vérifications ou de recherches auprès du REQ pour identifier les représentants réels des Fournisseurs et elles ont « aveuglement » accepté que M. Couture était le légitime représentant des sociétés qui ont succédé à LVC inc. (acceptant de plus ses factures confectionnées à la main avec le même « blueline pad »). Elles ont aussi « aveuglement » accepté sans aucune vérification que certains individus pourtant peu connus étaient les représentants attitrés des autres Fournisseurs. Elles ont transigé avec ces personnes à leurs risques et périls.
+[120] La Cour est d’avis que cela suffit pour conclure que les appelantes ont fait une présentation erronée des faits par « négligence » ou par « inattention » et que leur comportement n’était pas celui d’une personne « sage et prudente ».
+[121] Il reste la société LVC inc. dont M. Couture était administrateur. Les appelantes ont transigé avec cette société de 1983 à 2004 et ont seulement fait la transition aux nouveaux Fournisseurs lorsqu’elles ont pris connaissance des difficultés avec le CCQ et la CSST. Cependant, en transigeant directement avec M. Couture, un individu que M. Champagne connaissait depuis presque trente ans, la Cour est d’avis que les appelantes ont agi selon le standard d’une personne « sage et prudente ». Puisque l’intimé n’a pas fait la preuve du contraire, la Cour est d’avis que les cotisations établies en lien avec les factures de LVC inc., sont prescrites.
+[122] Même si la Cour venait à conclure que les pièces justificatives comportaient peu de détails ou ne contenaient pas suffisamment de renseignements pour satisfaire aux exigences de la LTA et du Règlement, la Cour conclut néanmoins que les cotisations établies en lien avec les factures de LVC inc., sont prescrites.
+XI – Les pénalités pour faute lourde
+[123] L’article 285 de la LTA impose une pénalité lorsqu’une personne « sciemment ou dans des circonstances équivalent à faute lourde, fait un faux énoncé ou une omission dans une déclaration » ou un autre document établi pour une période de déclaration « ou y participe, y consent ou y acquiesce ».
+[124] Dans la décision Venne c. la Reine, 1984 CanLII 5717 (FC), [1984] FCJ No 314 (FCTD) (« Venne »), la Cour fédérale a expliqué que la notion de « faute lourde » exige une négligence plus grande que le simple fait de ne pas faire preuve d'attention raisonnable, ce qui pourrait autrement être suffisant pour l'application du paragraphe 298(4)a) dont il a été question plus haut. La Cour fédérale a déclaré que la « faute lourde » doit comporter « un degré élevé de négligence équivalant à un acte intentionnel, une indifférence quant au respect ou non de la loi » (par. 37).
+[125] Depuis l’arrêt Canada (Procureur général) c. Villeneuve, 2004 CAF 20, la Cour d’appel fédérale a ajouté que l’expression « faute lourde » peut englober « l’aveuglement volontaire ». Puis dans Panini c. La Reine, 2006 CAF 224, la Cour a expliqué que l’aveuglement volontaire se produit lorsqu’une personne qui a ressenti le besoin de se renseigner refuse de la faire parce qu’elle préfère ne pas connaître la vérité. Dans ces circonstances, le droit imputera une connaissance au contribuable qui, dans des circonstances qui lui commanderaient ou lui imposeraient de s’enquérir de sa situation fiscale, refuse ou néglige de le faire sans raison valable (par. 42-43).
+[126] Dans l'affaire Wynter c. Canada, 2017 CAF 195 (« Wynter »), la Cour d'appel fédérale a affirmé que la ministre pouvait s'acquitter de son fardeau de démontrer que la fausse déclaration avait été faite sciemment en démontrant que le contribuable était volontairement aveugle, de sorte que la connaissance pouvait lui être imputée. En faisant la distinction entre l'aveuglement volontaire et la faute lourde, la Cour a déclaré ce qui suit :
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée. (…). Dans ces circonstances, la doctrine de l’ignorance volontaire impute une connaissance au contribuable (…) L’ignorance volontaire est la doctrine ou le mécanisme par lequel l’élément de connaissance requis aux termes du paragraphe 163(2) est établi.
+[127] La Cour d’appel fédérale a ajouté que la « faute lourde » exige une « appréciation objective du comportement du contribuable » tandis que l’aveuglement volontaire s’analyse à partir de « l’état d’esprit subjectif du contribuable » (par. 12).
+[128] Dans ces instances, les appelantes avaient mis en place un système de vérification des enregistrements et numéros des Fournisseurs dont la TPS/TVQ pour s’assurer qu’ils étaient en règle. En effectuant ces vérifications, elles ont fait preuve d’une certaine diligence et donc la Cour ne peut conclure qu’il y avait un « degré élevé de négligence équivalant à un acte intentionnel » ou « une indifférence quant au respect ou non de la loi », tel que l’explique la Cour dans Venne.
+[129] Cependant, il reste la notion de l’aveuglement volontaire qui, selon la décision Wynter, s’analyse selon l’état subjectif du contribuable. La jurisprudence a établi que l’éducation, l’intelligence, les connaissances et l’expérience du contribuable, l’ampleur de l’avantage ou de l’omission, la possibilité de détecter la fausse déclaration, étaient toutes pertinentes dans l’analyse de l’état subjectif du contribuable : Torres c. La Reine, 2013 CCI 380 (conf. Strachan c. Canada, 2016 CAF 60).
+[130] Certes, M. Champagne et Mme Groleau n’avaient pas un degré d’éducation élevé, mais ils étaient en affaires depuis quelques décennies. Ils avaient connu un certain succès et acquis une certaine renommée. Ils avaient constitué plusieurs sociétés. Ils étaient en contact avec des comptables et des notaires. Ils auraient pu chercher conseil auprès de ces professionnels quant aux exigences de la LTA et des pièces justificatives, mais ils ne l’ont pas fait. Bruno et Patrice avaient un bac universitaire et même s’ils sont devenus administrateurs en 2007, ils étaient employés des appelantes au début de la période en cause.
+[131] La Cour doit conclure que les appelantes n'étaient pas des débutantes ou des néophytes dans le monde des affaires. Elles étudiaient les plans et devis de leurs clients, préparaient des soumissions pour les matériaux et la main-d’œuvre. Le tout était bouclé par la signature d’un contrat en bonne et due forme qui, selon Bruno, contenait le « verbiage juridique » habituel.
+[132] Cependant, pour les Fournisseurs dont il est ici question, il n’y avait pas de rencontres ou de négociations qui pourraient donner lieu à un contrat. Lorsque M. Couture a soudainement abandonné LVC inc. après plus de 10 ans d’activité, que ce soit « objectivement » ou « subjectivement », les appelantes auraient dû entreprendre des démarches pour confirmer qu’il était un représentant attitré. Les montants payés à ces sociétés étaient considérables. Il en est de même pour les autres Fournisseurs. Les appelantes ont fait preuve d’aveuglement volontaire en transigeant avec des personnes-contact qui se disaient représentants, mais sans chercher à confirmer le tout.
+[133] Pour conclure, la Cour est d’avis que l’intimé a établi que les appelantes ont fait preuve d’aveuglement volontaire dans leur rapport avec les Fournisseurs. Pour reprendre les mots de la Cour d’appel fédérale dans Wynter, les appelantes n’ont pas fait enquête parce qu’elles ne voulaient pas connaître la vérité ou elles voulaient soigneusement éviter de la connaître, soit que les Fournisseurs n’étaient pas les véritables fournisseurs des fournitures en question.
+[134] Pour ces motifs, la Cour doit conclure que la ministre a établi que les appelantes ont fait preuve d'aveuglement volontaire en réclamant des CTI pour les montants versés aux Fournisseurs (à l’exception de LVC inc.) et ainsi que les déclarations ont été faites dans des circonstances équivalant à une faute lourde.
+XII – Les plaidoyers de culpabilité
+[135] Il suffit pour les fins de cette analyse de dire que M. Champagne, Bruno, Jenleau et M. Couture ont été inculpés le 20 avril 2012 de 36 chefs d’accusation pour avoir « fait des déclarations fausses ou trompeuses, ou [avoir] participé, consenti ou acquiescé à leur énonciation dans des rapports produits ou faits en vertu de la LTA » et « utilisé dans le cadre d’un stratagème de factures de complaisances ». Ces chefs d’accusation portent sur la période entre le 1er septembre 2005 et le 31 mars 2010, tel que décrit dans la « sommation » du 20 avril 2012 (la pièce I-8).
+[136] Le procès-verbal de la Chambre criminelle et pénale du Québec daté du 20 avril 2017 (la pièce I-7) indique que suite à une requête invoquant des « délais déraisonnables », M. Champagne et Jenleau ont plaidé coupables au premier chef d’accusation portant sur la société 9158-7154 Québec inc. pour la période du 1er septembre au 31 décembre 2005. Ils ont chacun été condamnés à payer une amende. Les autres chefs d’accusation, de même que ceux contre Bruno, ont été retirés.
+[137] De même, M. Couture a plaidé coupable à six chefs d’accusation portant sur les sociétés 9108-2347 Québec inc., 9178-6467 Québec inc. et Les Entreprises St. Pierre inc. pour la période du 1er septembre 2008 au 31 mars 2010. Il a aussi été condamné à payer des amendes, mais les autres chefs d’accusation ont été retirés.
+[138] Bien que M. Champagne n’ait fait aucune mention de ces accusations lors de son témoignage, la Cour accepte le témoignage de Bruno à titre d’administrateur de Jenleau, et ses explications selon lesquelles son père et Jenleau ont plaidé coupables, espérant mettre un terme aux procédures pénales et fiscales.
+[139] Les appelantes maintiennent que la Cour ne devrait pas accorder de poids aux plaidoyers de culpabilité. Elles invoquent la décision Samaroo c. La Reine, 2016 CCI 290, où le juge Bocock a refusé d’accepter « les constatations de faits établies dans l’instance criminelle » précisant que rien n’empêcherait « les parties de produire à l’audition des appels des éléments de preuve supplémentaires qui mettront en doute, réfuteront ou renforceront ces constatations de faits » (par. 1 de l’ordonnance).
+[140] L’intimé maintient que les plaidoyers de culpabilité constituent des aveux extrajudiciaires qui jouissent d’une présomption de véracité, mais dont la force probante est laissée à l’appréciation du tribunal. Dans Desroches c. La Reine, 2013 CCI 81 (« Desroches »), le juge Favreau a indiqué ce qui suit :
+[41] L’article 2852 du C. c. Q. édicte les règles quant à la force probante d’un aveu en ces termes :
+Art. 2852. L’aveu fait par une partie au litige, ou par un mandataire autorisé à cette fin, fait preuve contre elle, s’il est fait au cours de l’instance où il est invoqué. Il ne peut être révoqué, à moins qu’on ne prouve qu’il a été la suite d’une erreur de fait.
+La force probante de tout autre aveu est laissée à l’appréciation du tribunal.
+[42] Même si, selon l’article 2852 du C.c.Q., la force probante d’un aveu extrajudiciaire est laissée à l’appréciation du tribunal, la doctrine enseigne qu’il y a une présomption de vérité qui s’attache à toute déclaration extrajudiciaire par laquelle une personne reconnaît un fait contraire à ses intérêts et qu’un tribunal ne peut écarter un aveu extrajudiciaire sans raison valable (…)
+[Non soulignés dans l’original]
+[141] Plus récemment, dans Clermont c. La Reine, 2017 CCI 32, la juge Lamarre a repris les propos du juge Favreau dans Desroches indiquant que « le plaidoyer de culpabilité donné par l’appelant devant la Cour du Québec de même que les dépositions qui ont été faites constituent des aveux extrajudiciaires (article 2852 C.c.Q.) » et que « le procès-verbal fait partie des registres des cours de justice et constitue en soi un acte authentique qui fait preuve de son contenu et est admissible en preuve (…) » (par. 54–55).
+[142] L’intimé souligne que M. Couture n’a pas témoigné et donc la présomption de véracité de son plaidoyer de culpabilité n’a pas été renversée et la Cour doit y ajouter foi. Dans le contexte de ce litige, la Cour est d’avis que cela confirme qu’il n’était pas en réalité la « personne-contact » des Fournisseurs qui ont succédé à LVC Inc. Il présentait les factures sachant qu’il s’agissait de factures de complaisance.
+[143] La Cour est aussi d’avis que les aveux extrajudiciaires de M. Champagne et de Jenleau sont probants aux fins du présent litige puisque la Cour a déjà conclu que les appelantes n’avaient pas transigé avec les réels fournisseurs tel que l’exige la LTA. Pour de multiples raisons, elles ont dû constater qu’il s’agissait de fournisseurs douteux même si des travailleurs « en chair et en os » effectuaient les travaux. De plus, même si elles ne savaient pas qu’il s’agissait de délinquants fiscaux et de FFC, elles ont fermé les yeux au retour de chèques encaissés dans des centres d’encaissements. Elles maintiennent qu’il n’y a aucune preuve que les travailleurs étaient payés en argent comptant et pourtant la preuve semble indiquer le contraire.
+[144] Pour le reste, la Cour est d’avis que les appelantes n’ont pas produit « des éléments de preuve supplémentaires » et n’ont pas réussi à remettre en doute ou à réfuter la « présomption de validité » des plaidoyers de culpabilité en question. La Cour doit accorder une force probante aux plaidoyers dans le contexte de ce litige et l’ensemble de la preuve. Il n’y a aucune « raison valable » de les écarter.
+[145] Ceci dit, les plaidoyers de culpabilité portent sur la période après le 1er septembre 2005 de sorte qu’il n’y a pas de conflit avec la conclusion de la Cour que les cotisations en lien avec les CTI réclamés pour les factures de LVC inc., sont prescrites.
+XII – La conclusion
+[146] Conformément aux présents motifs, les appels sont accueillis et les cotisations sont déférées à la ministre pour nouvel examen et nouvelles cotisations, étant entendu que les cotisations en lien avec les CTI réclamés pour les factures de Systèmes intérieurs L.V.C. inc. sont prescrites. Cependant, les cotisations refusant les CTI pour les autres Fournisseurs sont confirmées.
+[147] Les dépens sont adjugés en faveur de l’intimé au prorata de son succès sur l’ensemble des cotisations.
+Signé à Ottawa, Canada, ce 17e jour d'août 2023.
+« Guy R.Smith »
+Juge Smith
+Acronymes :
+CCQ – Commission de la construction du Québec
+CSST – Commission de la santé et de la sécurité du travail
+NEQ – Numéro d’entreprises du Québec
+RBQ – Régie du bâtiment du Québec
+REQ – Registre des entreprises du Québec
+SAAQ – Société de l’assurance automobile du Québec
+RÉFÉRENCE :
+2023 CCI 120
+Nos DES DOSSIERS DE LA COUR :
+2011-2692(GST)G
+2011-2695(GST)G
+INTITULÉ DE LA CAUSE :
+LES PLANCHES MURALES JENLEAU INC.,
+LES RÉSIDENCES CHAMBRU INC. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Montréal (Québec) : 2, 3, 4, 5, 9, 10, 12, 16, 17, 18, 19, 23, 24, 25, 26 et 30 novembre 2020 et Ottawa (Ontario) : 12 et 13 janvier 2022
+DATES DE L’AUDIENCE :
+Les 2, 3, 4, 5, 9, 10, 12, 16, 17, 18, 19, 23, 24, 25, 26 et 30 novembre 2020, 12 et 13 janvier 2022 et observations écrites déposées les 18 mars 2022, 19 avril 2022 et 16 mai 2022
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+le 17 août 2023
+COMPARUTIONS :
+Avocats des appelantes :
+Me Soleil Tremblay
+Me Michel Latendresse
+Avocats de l'intimé :
+Me Nadja Chatelois
+Me Gabriel Déry
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes:
+Nom :
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

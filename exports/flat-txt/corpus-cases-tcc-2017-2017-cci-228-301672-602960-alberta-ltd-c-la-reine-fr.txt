@@ -1,0 +1,147 @@
+Title: 602960 Alberta Ltd.  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/301672/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-228-301672-602960-alberta-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-11-24
+
+# 602960 Alberta Ltd.  c. La Reine
+
+- Citation: 2017 CCI 228
+- Decision date: 2017-11-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7820, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+602960 Alberta Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-11-24
+Référence neutre
+2017 CCI 228
+Numéro de dossier
+2016-1777(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1777(IT)I
+ENTRE :
+602960 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu et jugement rendu oralement à l’audience du 16 octobre 2017 à Lethbridge (Alberta).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Représentant de l’appelante :
+Darrell Torris
+Avocat de l’intimée :
+Aminollah Sabzevari
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 9 avril 2014, pour inobservation de l’obligation de payer le montant de 26 932,61 $ en vertu du paragraphe 224(4) de la Loi de l’impôt sur le revenu est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2017.
+« Réal Favreau »
+Le juge Favreau
+Référence : 2017 CCI 228
+Date : 20171124
+Dossier : 2016-1777(IT)I
+ENTRE :
+602960 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelante le 9 avril 2014 par le ministre du Revenu national (le « ministre ») pour inobservation de l’obligation de payer le montant de 26 932,61 $ en vertu du paragraphe 224(4) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa forme modifiée (la « Loi »).
+[2] En vue d’établir et de maintenir cette cotisation, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) 600717 Alberta Ltd. faisant affaire sous le nom de DT Contracting Service (ci-après le « débiteur fiscal ») avait une dette fiscale relative aux années d’imposition se terminant le 30 septembre 2009 et le 30 septembre 2012;
+b) Le débiteur fiscal exploitait un service de camion-citerne au moyen de marchés-cadres;
+c) Dwayne Torris était propriétaire de toutes les actions du débiteur fiscal;
+d) Le débiteur fiscal a été constitué en société en Alberta en 1996 et radié du registre en 2014;
+e) L’appelante, constituée en société en 1994, exploite elle aussi un service de camion-citerne au moyen de marchés-cadres sous le nom de Dash Contracting Services;
+f) Darrell Torris est propriétaire de toutes les actions de l’appelante;
+g) Dwayne Torris et Darrell Torris sont frères;
+h) Le débiteur fiscal a fourni des services à l’appelante à titre de sous-traitant;
+i) Le 23 novembre 2012, le débiteur fiscal avait une dette fiscale s’élevant à 38 595,30 $;
+j) Le 23 novembre 2012, l’appelante était tenue d’effectuer des paiements au débiteur fiscal;
+k) Le 23 novembre 2012, le ministre a fait parvenir à l’appelante une obligation de payer en vertu du paragraphe 224(1) de la Loi relativement à une dette ne dépassant pas 38 595,30 $;
+l) Le 15 janvier 2013 ou autour de cette date, l’appelante a dit dans sa réponse que les parties cherchaient à établir des modalités pour le paiement de la dette de 26 932,61 $ envers le débiteur fiscal;
+m) Cette somme de 26 932,61 $ représente des fonds que le débiteur fiscal a avancés à l’appelante en février et en août 2010, et ce, sans modalités de paiement ni conditions de rentabilité;
+n) Au 9 avril 2014, le débiteur fiscal avait une dette fiscale qui s’élevait à 46 439,37 $.
+[3] M. Darrell Torris a témoigné au procès. Il a alors affirmé qu’il était le seul propriétaire de l’appelante, laquelle exploite un service de camion-citerne au moyen de marchés-cadres sous le nom de Dash Contracting Services. Son frère, Dwayne Torris, est propriétaire de toutes les actions de 600717 Alberta Ltd., laquelle exploite elle aussi un service de camion-citerne au moyen de marchés-cadres sous le nom de DT Contracting Service.
+[4] M. Darrell Torris a expliqué qu’en janvier 2010, l’appelante a acheté un camion usagé au coût de 260 000 $ qui aurait été financé au moyen de sa marge de crédit renouvelable et divers prêts bancaires, même si aucun document bancaire n’a été déposé en preuve pour confirmer cette affirmation. Le témoin a affirmé que l’achat de ce camion a été réalisé sans l’aide financière de son frère Dwayne ni l’aide de l’entreprise de son frère.
+[5] De plus, M. Darrell Torris a expliqué qu’il éprouvait des problèmes conjugaux en janvier 2010, ce qui l’a contraint à rester à la maison pendant quelque temps et qui explique pourquoi il a donné en sous-traitance à 600717 Alberta Ltd. le contrat qu’il avait signé avec Mag Division Ltd. de Grande Prairie, Alberta (« l’exploitation de Grande Prairie »). De janvier à avril 2010, l’appelante a rendu des services, par l’entremise de son sous-traitant, d’une valeur de 210 000 $ à Mag Division Ltd., mais Mag Division Ltd. n’a versé à l’appelante que 70 000 $ à une date indéterminée. La procédure suivie par l’appelante consistait à payer 600717 Alberta Ltd. pour les services rendus à l’exploitation de Grande Prairie et déduisait ce montant à titre de dépense pour le calcul de son revenu net.
+[6] En février et en août 2010, 600717 Alberta Ltd. a avancé des fonds s’élevant à 26 932,61 $ à l’appelante. Selon M. Darrell Torris, les fonds avancés n’ont pas servi d’acompte pour l’achat d’un camion, mais auraient plutôt été un investissement visant à élargir les activités de 600717 Alberta Ltd. dans la région et obtenir du travail d’un client, Mag Division Ltd. Lorsque l’exploitation de Grande Prairie a mis fin à ses activités en 2010, 600717 Alberta Ltd. a continué de travailler pour l’appelante à titre de sous-traitant pendant quelques années et le 2 octobre 2012, l’appelante a versé à 600717 Alberta Ltd. son dernier paiement contre services rendus.
+[7] M. Darrell Torris a expliqué en outre que lors de l’année d’imposition se terminant le 30 septembre 2010, l’appelante a déclaré une créance irrécouvrable de 143 489,91 $ attribuable à Mag Division Ltd. Les efforts de recouvrement de cette créance se sont poursuivis jusqu’en novembre 2011, et il a été décidé à ce moment que les recours judiciaires étaient épuisés, Mag Division Ltd. n’ayant pas d’actifs. Les deux parties ont alors convenu d’annuler la dette dans leurs livres comptables, et c’est ce qui avait été fait dans les deux entreprises en date du 30 septembre 2012. Ce sursis d’exécution concernant l’annulation de la dette s’explique, selon M. Darrell Torris, par le fait que les deux entreprises avaient pris du retard dans leur comptabilité.
+[8] Lors du contre-interrogatoire, M. Darrell Torris a confirmé que l’appelante avait reçu de l’Agence du revenu du Canada (« l’ARC ») une obligation de payer à l’ordre du receveur général du Canada datée du 23 novembre 2012 toutes les sommes payables à 600717 Alberta Ltd. n’excédant pas 38 595 $. Lorsque l’obligation de payer a été délivrée, le solde impayé du prêt accordé par 600717 Alberta Ltd. était de 26 933,61 $.
+[9] Le 15 janvier 2013, M. Darrell Torris a fourni au nom de l’appelante une réponse à l’obligation de payer pour indiquer, entre autres, que les sommes en litige ou d’engagements éventuels à verser à 600717 Alberta Ltd. s’élevaient alors à 26 932,61 $ et que les parties en négociaient les modalités de règlement. La réponse de M. Darrell Torris montre que la dette de l’appelante à l’égard de 600717 Alberta Ltd. demeurait impayée le 23 novembre 2012 au moment où l’obligation de payer a été envoyée à l’appelante. M. Darrell Torris a prétendu que les modalités de règlement lui avaient été recommandées par son comptable et qu’il aurait dû inscrire « zéro » à titre de somme en litige ou découlant d’engagements éventuels qui était due à cette date à l’égard de 600717 Alberta Ltd.
+La position de l’appelante
+[10] Le représentant de l’appelante prétend qu’il n’y avait pas de dette impayée envers 600717 Alberta Ltd. le 23 novembre 2012 au moment où l’obligation de payer a été délivrée. Il s’ensuit que l’appelante n’avait pas l’obligation de payer un montant quelconque en vertu du paragraphe 224(1) de la Loi et que, par conséquent, elle n’est pas responsable des sommes impayées.
+[11] Le représentant de l’appelante prétend en outre que même si la dette n’avait pas été annulée dans les livres comptables de l’appelante, il n’y avait pas de dette impayée parce que, selon les modalités de l’entente verbale conclue en novembre 2011, 600717 Alberta Ltd. a subi une partie des pertes liées à l’exploitation de Grande Prairie. Comme le contrat n’avait pas été rentable, 600717 Alberta Ltd. n’avait pas droit au remboursement de l’appelante.
+La position de l’intimée
+[12] L’intimée soutient que, au 23 novembre 2012, 600717 Alberta Ltd. avait une dette fiscale s’élevant à 38 595,30 $ et que l’appelante était tenue d’effectuer des paiements à 600717 Alberta Ltd. d’une valeur de 26 932,61 $ correspondant aux fonds avancés par 600717 Alberta Ltd. à l’égard de l’appelante en février et en août 2010, et ce, sans modalités de remboursement ni conditions de rentabilité de l’exploitation de Grande Prairie.
+[13] En ce qui concerne l’argument voulant que 600717 Alberta Ltd. ait subi une partie des pertes de l’exploitation de Grande Prairie, la demanderesse fait valoir que cette explication ne correspond pas aux conditions d’origine du prêt que les conditions du prêt ont fait l’objet d’une renégociation après le 15 janvier 2013, soit après la délivrance de l’obligation de payer. De plus, la demanderesse soutient qu’en cas contraire, 600717 Alberta Ltd. aurait annulé l’intégralité de la créance irrécouvrable liée à l’exploitation de Grande Prairie. Si le remboursement envers 600717 Alberta Ltd. dépendait de la rentabilité de ce contrat, cette créance aurait été radiée plus tôt, au moment où l’appelante l’avait fait.
+Dispositions législatives
+[14] Les dispositions suivantes de la Loi sont pertinentes aux fins du présent appel :
+224(1) Saisie-arrêt
+S’il sait ou soupçonne qu’une personne est ou sera, dans les douze mois, tenue de faire un paiement à une autre personne qui, elle-même, est tenue de faire un paiement en vertu de la présente loi (appelée « débiteur fiscal » au présent paragraphe et aux paragraphes (1.1) et (3)), le ministre peut exiger par écrit de cette personne que les fonds autrement payables au débiteur fiscal soient en totalité ou en partie versés, sans délai si les fonds sont immédiatement payables, sinon au fur et à mesure qu’ils deviennent payables, au receveur général au titre de l’obligation du débiteur fiscal en vertu de la présente loi.
+. . .
+224(4) Défaut de se conformer aux par. (1), (1.2) ou (3)
+Toute personne qui omet de se conformer à une exigence du paragraphe (1), (1.2) ou (3) est tenue de payer à Sa Majesté un montant égal au montant qu’elle était tenue, en vertu du paragraphe (1), (1.2) ou (3), selon le cas, de payer au receveur général.
+227(10) Cotisation
+Le ministre peut, en tout temps, établir une cotisation pour les montants suivants :
+(a) un montant payable par une personne en vertu des paragraphes (8), (8.1), (8.2), (8.3) ou (8.4) ou 224(4) ou (4.1) ou des articles 227.1 ou 235;
+(b) un montant payable par une personne ou une société de personnes en vertu des paragraphes 237.1(7.4) ou (7.5) ou 237.3(8);
+(c) un montant payable par une personne en vertu du paragraphe (10.2) pour défaut par une personne non-résidente d’effectuer une déduction ou une retenue;
+(d) un montant payable en vertu de la partie XIII par une personne qui réside au Canada.
+Les sections I et J de la partie I s’appliquent, avec les modifications nécessaires, à tout avis de cotisation que le ministre envoie à la personne ou à la société de personnes.
+Analyse et conclusion
+[15] Pendant toute la période pertinente, jamais il n’y a eu d’entente entre l’appelante et 600717 Alberta Ltd. concernant les fonds avancés à l’appelante en février et en août 2010 et l’utilisation de ces fonds par l’appelante. Ne sont pas connues les modalités et conditions de l’avance de fonds telles que l’objet et l’utilisation des fonds, le taux d’intérêt, les modalités de remboursement, etc.
+[16] Les éléments de preuve et la conduite des parties m’amènent à croire que ces fonds ont été avancés en tant que prêts. M. Darrell Torris n’a fourni aucune information concernant l’utilisation réelle des fonds avancés par 600717 Alberta Ltd. Il a prétendu que les fonds n’ont pas servi d’acompte pour l’achat d’un camion en 2010, mais sans expliquer la façon par laquelle les fonds investis par 600717 Alberta Ltd. ont permis à 600717 Alberta Ltd. d’élargir ses activités dans la région et obtenir du travail de Mag Division Ltd.
+[17] M. Darrell Torris a également soutenu que l’appelante et 600717 Alberta Ltd. ont convenu en novembre 2011 de radier la créance de Mag Division Ltd. dans leurs livres comptables. M. Darrell Torris n’a présenté aucun élément pour prouver cette allégation et l’appelante n’a pas non plus appelé M. Dwayne Torris à témoigner. Le fait que l’appelante n’a pas appelé M. Dwayne Torris à témoigner pour confirmer l’objet et l’utilisation des fonds avancés et les modalités de l’entente verbale qui aurait été conclue par les parties en novembre 2011 m’amène à tirer une conclusion défavorable.
+[18] Selon la preuve présentée, j’en suis venu à la conclusion que l’appelante devait toujours 26 932,61 $ à 600717 Alberta Ltd. le 23 novembre 2012 au moment où l’obligation de payer a été envoyée à l’appelante.
+[19] 600717 Alberta Ltd. a annulé sa créance envers l’appelante le 30 septembre 2012 tout en déclarant la cession d’un prêt d’investissement au prix de base de 26 933 $ sans aucune recette dans sa déclaration pour l’année d’imposition se terminant le 30 septembre 2012, laquelle a été déposée le 5 mars 2013, soit après la délivrance de l’obligation de payer.
+[20] Le 15 janvier 2013, M. Darrell Torris a envoyé une réponse à l’obligation de payer que lui envoyait l’appelante. Il a indiqué que les sommes en litige ou d’engagements éventuels à verser à 600717 Alberta Ltd. s’élevaient à 26 932,61 $ à cette date et que les parties étaient en discussion sur les modalités de règlement. Cet élément montre que le passif a été réglé d’un commun accord entre les deux parties dans l’intervalle du 15 janvier au 5 mars 2013. Par conséquent, la dette était encore due le 23 novembre 2012 au moment où l’obligation de payer a été envoyée.
+[21] Pour ces motifs, la Cour ne saurait faire droit à l’appel formé par l’appelante, celle-ci ne s’étant pas acquittée du fardeau de prouver qu’elle n’avait pas une dette envers 600717 Alberta Ltd. d’une valeur de 26 932,61 $, contrairement à la présomption du ministre. En conséquence, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 24e jour de novembre 2017.
+« Réal Favreau »
+Le juge Favreau
+RÉFÉRENCE :
+2017 CCI 228
+NO DU DOSSIER DE LA COUR :
+2016-1777(IT)I
+INTITULÉ :
+602960 Alberta Ltd. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Lethbridge (Alberta)
+DATE DE L’AUDIENCE :
+Le 16 octobre 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 24 novembre 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+Darrell Torris
+Avocat de l’intimée :
+Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

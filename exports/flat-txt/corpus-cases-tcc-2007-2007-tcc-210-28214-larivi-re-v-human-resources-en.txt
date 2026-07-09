@@ -1,0 +1,105 @@
+Title: Larivière v. Human Resources
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28214/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-210-28214-larivi-re-v-human-resources-en.md
+Document type: case_law
+Last modified: 2007-03-14
+
+# Larivière v. Human Resources
+
+- Citation: 2007 TCC 210
+- Decision date: 2007-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2061, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larivière v. Human Resources
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-14
+Neutral citation
+2007 TCC 210
+File numbers
+2006-1897(OAS)
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Old Age Security Act
+Decision Content
+File Number 2006-1897(OAS)
+THE TAX COURT OF CANADA
+IN THE MATTER OF The OLD AGE SECURITY ACT
+BETWEEN:
+OLIVETTE LARIVIÈRE
+Appellant
+‑ and ‑
+THE MINISTER OF HUMAN RESOURCES DEVELOPMENT
+Respondent
+[OFFICIAL ENGLISH TRANSLATION]
+Heard before the Honourable Justice Paris of the
+Tax Court of Canada
+DECISION
+APPEARANCES:
+Madeleine Larivière for the Appellant
+Sonia Bellerive (Student-at-Law) for the Respondent
+HELD AT:
+The Tax Court of Canada
+Motions Room, 2nd floor
+200 Kent Street
+Ottawa, Ontario
+Wednesday, March 14, 2007
+--- Upon commencing on Wednesday, March 14, 2007, at
+9:31 a.m.
+THE REGISTRAR: This Sitting of the Tax Court of Canada, at Ottawa, is now resumed. Justice Paris is presiding.
+The Court will now deliver its decision in file number 2006-1897(OAS) between Olivette Larivière, Appellant, and the Minister of Human Resources Development, Respondent.
+For the Appellant, Madeleine Larivière, and for the Respondent, Suzanne Bellerive.
+JUSTICE PARIS: Good day.
+Ms. LARIVIERE: Good day.
+JUSTICE PARIS: You may be seated.
+This matter is before me by way of a reference under subsection 28(2) of the Old Age Security Act (the Act).
+The issue is whether the Respondent, the Minister of Human Resources and Skills Development, correctly determined the income of the Appellant for the 2002 and 2003 reference years for the purpose of calculating her Guaranteed Income Supplement for the period from January 2004 to June 2005.
+In calculating the Appellant’s income for reference years 2002 and 2003, the Respondent relied on the income tax returns filed by the Appellant to the Minister of National Revenue for those years.
+The calculations for 2002 and 2003 determined the amount of the supplement to which the Appellant was entitled for the payment periods of July 2003 to June 2004 and July 2004 to June 2005 respectively.
+However, in January 2004, the Appellant incurred a reduction in income from her registered retirement savings fund, which entitled her to file a statement of her estimated income with the Respondent for the year 2004, pursuant to subsection 14(4) of the Act.
+This statement should have been used to calculate the Appellant’s income for reference years 2002 and 2003 for the purposes of calculating the Guaranteed Income Supplement, and the Appellant should have been entitled to a larger supplement as of January 2004.
+The relevant part of subsection 14(4) reads as follows:
+Where in a current payment period a person who is an applicant . . . may, not later than the end of the payment period immediately after the current payment period, in addition to making the statement of income required by subsection (1) . . . file a statement of the person’s estimated income for the calendar year in which the loss is suffered other than pension income received by that person in that part of that calendar year that is before the month in which the loss is suffered . . .
+Yet, the Appellant did not file a statement of estimated income for the year 2004 until October 10, 2005.
+The Respondent refused to accept this statement on the grounds that it had been received after the deadline of June 30, 2005, set out in subsection 14(4) of the Act.
+The Appellant claims that as of March 28, 2005, the Respondent had all the information necessary to recalculate her Guaranteed Income supplement, which would have been before the deadline set out in subsection 14(4).
+The agent for the Appellant filed with the Court a copy of the Appellant’s Notice of Assessment for taxation year 2004, sent by the Canada Customs and Revenue Agency on March 21, 2005.
+The agent also filed part of a letter from the Agency specifying inter alia that the Agency provided income information to the Canadian Department of Social Development, which at the time was responsible for administering the Guaranteed Income Supplement, for clients who were required to provide this information to the Department in order to continue receiving their supplementary benefits.
+The letter also stated that the information in question was provided to the Agency on a weekly basis.
+The agent for the Appellant therefore argues that the Respondent had received the details respecting the Appellant’s income for 2004 one week at the latest after the Assessment Notice dated March 21, 2005, was sent.
+However, this exchange of information between the two departments does not render it unnecessary for a beneficiary to file the statement described in subsection 14(4) under the circumstances contemplated therein.
+The Act expressly requires the beneficiary to file this statement, and to file it no later than the end of the payment period immediately after the current payment period.
+It is common ground that the statement filing deadline was June 30, 2007. It is also common ground that the statement in question was not filed until October 10, 2005.
+The agent for the Appellant also claims that she had contacted the Department of Human Resources Development every year to find out whether her mother (the Appellant) was required to file a new application for the supplement and that she was told no every time. Moreover, nobody from the Department had ever told her about the requirement to file a statement of estimated income following a reduction in the Appellant’s income.
+Accordingly, the agent asks that the Court apply section 32 of the Act, which reads as follows:
+Where the Minister is satisfied that, as a result of erroneous advice or administrative error in the administration of this Act, any person has been denied a benefit, or a portion of a benefit, to which that person would have been entitled under this Act, the Minister shall take such remedial action as the Minister considers appropriate to place the person in the position that the person would be in under this Act had the erroneous advice not been given or the administrative error not been made.
+First, the Minister’s power under section 32 is a discretionary power over which this Court has no jurisdiction.
+The decision regarding whether to apply this provision is not related to the calculation of income by the Minister of National Revenue, but rather is made by the Respondent after the calculation of income by the Minister of Revenue.
+Only these calculations fall within the jurisdiction of the Tax Court of Canada.
+However, even if the Court could decide that issue, the Appellant has failed, in my opinion, to demonstrate that section 32 would apply in this case.
+Among the documents filed for this Court are the notices sent by the Respondent to the Appellant in July 2004, 2005 and 2006 with respect to her Guaranteed Supplement.
+These notices state the Appellant’s income for the relevant reference year, as well as the amount of the monthly benefit for the current year.
+On the back of the statement dated July 2006, under the heading "2004 Income", the following is written:
+We usually use the amount of your
+income from the previous year as
+reported on you income tax return
+(2004) or your application. However,
+if you retire from your job, close your business, or if your income from another pension you receive goes down or stops, please contact us.
+We may be able to recalculate your benefit using an estimate of your 2005 income.
+The backs of the 2004 and 2005 notices were not filed for the Court, but I have no reason to believe that the instructions would have been any different in those notices.
+It therefore seems to me that the Appellant was aware of the need to contact the Department in the case of a reduction in her pension income and that she was first informed of this in July 2004.
+In light of all the evidence, there was no administrative error by those in charge of the Department of Development that prevented the Appellant from filing a statement of estimated income pursuant to subsection 14(4) of the Act.
+For this reason, section 32 of the Act does not apply in this case.
+While I have sympathy for the Appellant in the circumstances of this case, I see no error in the Minister’s refusal to accept the statement of estimated income filed by the Appellant for reference years 2002 and 2003. Accordingly, the appeal must be dismissed.
+THE REGISTRAR: This hearing is now adjourned.
+Translation certified true
+on this 30th day of July 2007.
+Francie Gow

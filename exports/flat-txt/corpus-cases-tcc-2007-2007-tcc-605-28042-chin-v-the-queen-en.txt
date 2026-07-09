@@ -1,0 +1,159 @@
+Title: Chin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28042/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-605-28042-chin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-31
+
+# Chin v. The Queen
+
+- Citation: 2007 TCC 605
+- Decision date: 2007-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1627, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-31
+Neutral citation
+2007 TCC 605
+File numbers
+2006-3872(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3872(IT)I
+BETWEEN:
+BRENT CHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 31, 2007, at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Representative for the Respondent:
+Mahvish Mian (Student-at-law)
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the assessment made under the Income Tax Act, for the 2005 taxation year is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+This Judgment is issued in substitution for the Judgment dated October 15, 2007.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+"L.M. Little"
+Little J.
+Citation: 2007TCC605
+Date: 20071015
+Docket: 2006-3872(IT)I
+BETWEEN:
+BRENT CHIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The Appellant and Annie Isabelle Castello ("Isabelle") were married on August 10, 1986.
+[2] The Appellant and Isabelle had two children, a son born February 21, 1993 (the "Son") and a daughter born September 12, 1997 (the "Daughter"). The Son and Daughter are collectively referred to as the "Children".
+[3] The Appellant and Isabelle separated in 2005.
+[4] The Appellant and Isabelle negotiated a Draft Separation Agreement (the "Draft Agreement") which provided that the Appellant would pay Child Support and Spousal Support on the following basis:
+CHILD SUPPORT
+15. Commencing on the 15th of March 2005, Brent will pay to Isabelle for the support of the children, the sum of $1124.12 each month, payable in two equal instalments on the 15th and last day of each and every month, in accordance with the child support guidelines differential between their incomes, as set out in the parties schedule attached, until he has no further child support obligation. The support amount attributed to the children shall be 15% of both Brent’s base salary and bonus. (Support amounts based on bonus amounts payable at time bonus is paid to Brent once per quarter.)
+16. If Brent dies, the obligation to pay support shall continue and be a first charge against his estate and shall be satisfied by the estate providing security for payment in a form satisfactory to Isabelle prior to the distribution of the estate. Brent agrees to maintain a current Will including a clause consistent with the provision. (Child support ending should be written in – should be age of majority – 18 or after attendance in post secondary school, death of either husband or wife within terms of life insurance, child marries)
+TIME LIMITED SPOUSAL SUPPORT
+17. Brent acknowledges that it will be necessary for Isabelle to re-establish herself financially because of their separation. In order to assist her in this re-establishment, Brent agrees to pay Isabelle for support, the sum of $* per month for 48 months as set out in the parties schedule attached. The support amount attribute to Isabelle shall be 15% of Brent’s base salary and 20% of his bonus.
+18. Once this 48 month time period is complete, Brent will pay Isabelle support for an additional 36 months until the earlier of the following:
+(a) she remarries;
+(b) she cohabits in a relationship or relationships resembling marriage;
+(c) her income reaches $* per year, or
+(d) she dies.
+(We discussed that these conditions would still be part of the first 4 years. The others were dropped but these should remain.)
+Note – The Appellant said that the Draft Agreement was not signed although he and Isabelle agreed to all of the points dealing with Child Support and Spousal Support. (Exhibit A-2)
+[5] The Appellant and Isabelle negotiated and signed a document on February 24, 2005 that was referred to as the Temporary Separation Agreement. ("Separation Agreement") (See Exhibit A-1)
+[6] Paragraph 6 of the Separation Agreement provided as follows:
+TEMPORARY SUPPORT
+6. Commencing on the March 15th, 2005, Brent will pay Isabelle for the support of the children and herself, on a without prejudice basis to any final amount agreed on, the sum of $4,225.00 each month, payable in two equal instalments on the 15th and last day of each and every month, while this agreement is in effect.
+[7] When the Appellant filed his income tax return for the 2005 taxation year he claimed an amount for an eligible dependent in the amount of $7,344.00 and he claimed spousal support in the amount of $29,392.73.
+Note –The Appellant indicated in his income tax return that he had claimed the Daughter as an eligible dependent and that Isabelle had claimed the Son as an eligible dependent.
+[8] By Notice of Assessment dated July 31, 2006, the Minister of National Revenue (the "Minister") disallowed the amounts of $7,344.00 and $29,392.73 as claimed by the Appellant for the 2005 taxation year.
+B. Issue
+[9] Whether the Appellant is allowed to deduct an amount of $29,392.73 for spousal support and an amount of $7,344.00 for an eligible dependent in determining his income for the 2005 taxation year.
+C. Analysis and Decision
+I Spousal Support
+[10] Under the former rules contained in the Income Tax Act (the "Act") (pre‑May 1997) a spouse making support payments to the ex-spouse or for the support of children could deduct those payments and the recipient was required to include the payments as income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 S.C.R. 627, the legislation was amended. The revised legislation provided that so long as a pre-May 1997 agreement remained unchanged, the deduction/inclusion system that was contained in the former legislation applied.
+[11] The revised legislation provided that if a new agreement was entered into after April 30, 1997 the deduction/inclusion regime for child support payments ceased and any child support payments made after April 30, 1997 were not deductible by the taxpayer and not included in the income of the payee.
+[12] The amendments to the Act that took effect on May 1, 1997 left the treatment of spousal support payments unchanged.
+[13] The Minister has determined that in the 2005 taxation year the Appellant is not entitled to claim an amount of $29,392.73 for spousal support pursuant to sections 60.1 and 60(b) of the Act, since the Separation Agreement did not specifically distinguish between child support and spousal.
+[14] In reaching this conclusion the Minister relied upon subsection 56.1(4) of the Act. Subsection 56.1(4) reads as follows:
+56.1 (4) "child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+[15] In considering the application of the Act to this situation it will be noted that the Separation Agreement provides that commencing on March 15, 2005, the Appellant will pay to Isabelle for the support of the children and herself the sum of $4,225.00 each month payable on the 15th and last day of each and every month.
+[16] The Appellant filed Exhibit A-6 which contains a summary of various cheques issued by the Appellant to Isabelle plus copies of the cheques.
+[17] Exhibit A-6 indicates that commencing on March 15, 2005 the Appellant issued cheques to Isabelle totalling $50,456.59 in the 2005 taxation year.
+[18] The Appellant also filed a calculation prepared by him showing how he had determined the Support Payments pursuant to the Federal Child Support Guidelines. (Exhibit A-3)
+[19] I have considered the uncontradicted testimony of the Appellant with respect to the payments made by the Appellant to Isabelle and I have concluded that there is an ambiguity in the words contained in paragraph 6 of the Separation Agreement.
+[20] Canadian courts have stated that where a document or a provision contained in a statute is ambiguous, it is possible to resort to extrinsic evidence to ascertain the intention of the parties.
+[21] In Noranda Metal Industries Ltd. and I.B.E.W. Local 2345 et al., 44 0.R. (2d) 529, Mr. Justice Dubin writing for the Court stated at pages 535/536:
+… I agree with Mr. Justice White that the clause was patently ambiguous and the arbitrator was entitled to resort to extrinsic evidence to assist him in ascertaining the true intentions of the parties, but, in any event, he was entitled to resort to extrinsic evidence to determine whether there was any latent ambiguity, or in applying it to the facts.
+That proposition was stated by Gale C.J.O. in Leitch Gold Mines Ltd. et al. v. Texas Gulf Sulphur Co. (Inc.) et al., [1969] 1 O.R. 469 at p. 524, 3 D.L.R. (3d) 161, wherein he stated:
+Extrinsic evidence may be admitted to disclose a latent ambiguity, in either the language of the instrument or in its application to the facts, and also to resolve it, but it is to be noted that the evidence allowed in to clear up the ambiguity may be more extensive than that which reveals it. Thus, evidence of relevant surrounding circumstances can be accepted to ascertain the meaning of the document and may clarify the meaning by indirectly disclosing the intention of the parties.
+[22] I have concluded that in order to resolve this ambiguity we should review the other evidence filed by the Appellant including the terms of the Draft Agreement.
+[23] The Appellant testified that he and Isabelle met with Colin Brannigan, a Mediator, in an attempt to resolve various issues concerning their separation.
+[24] The Appellant also testified that he and Isabelle agreed to the recommendation of Mr. Brannigan concerning the Child Support Payments in the amount of $1,124.12 per month commencing on March 15, 2005.
+[25] The Appellant also testified that he and Isabelle agreed to the recommendations of Mr. Brannigan with respect to Spousal Support Payments.
+[26] With respect to Spousal Support the Appellant testified that he had agreed to pay Isabelle and Isabelle had agreed to accept Spousal Support Payments equal to 15% of the Appellant’s salary plus 20% of the Appellant’s bonus.
+[27] It will be noted that the Appellant testified that after discussions with Colin Brannigan he agreed to pay and Isabelle agreed to accept Spousal Support for the 2005 year determined as follows:
+15% of the Appellant’s salary $15,870.00
+20% of the Appellant’s bonus $12,480.00
+Total Spousal Support $28,350.00
+[28] According to Exhibit A-6 the Appellant actually paid Isabelle the sum of $29,401.53 as Spousal Support in 2005.
+[29] I found the Appellant’s testimony regarding the Spousal Support Payments to be clear and uncontradicted.
+[30] After carefully considering the testimony of the Appellant and there being no evidence submitted by or on behalf of Isabelle, I have concluded that the Appellant paid Spousal Support payments to Isabelle in the amount of $29,401.53 in 2005.
+[31] I have also concluded that in determining his income for the 2005 taxation year the Appellant is entitled to deduct Spousal Support Payments in the amount of $28,350.00. In reaching this conclusion, I have determined that the words “in the agreement” found in subsection 56.1(4) of the Act mean “in the agreement as interpreted using extrinsic aids”.
+Note: The amount of $28,350.00 is based on the Draft Agreement (Exhibit A-1 the Separation Agreement (Exhibit A-2) and the Calculation (Exhibit A‑3).
+[32] Because of the amendment to section 60 of the Act effective May 1, 1997, I have concluded that the Appellant is not entitled to deduct any Child Support Payments that he made to Isabelle in the 2005 taxation year.
+II Eligible Dependent
+[33] The Appellant maintains that in determining his income for 2005 he is entitled to claim the amount of $7,344.00 for an eligible dependent (his daughter) pursuant to subsection 118(5) of the Act. Subsection 118(5) reads as follows:
+118(5) No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[34] I have concluded that subsection 118(5) applies in this situation because:
+1. the Appellant was required to pay a "support amount" as defined;
+2. the Appellant lived separate and apart from the spouse;
+and
+3. the Appellant claimed a deduction for the year because of section 60 in respect of a support amount paid to the spouse.
+[35] In my opinion the Appellant is not allowed to claim the Daughter as an eligible dependent in determining his income for the 2005 taxation year.
+[36] The appeal will be allowed, without costs, and the Minister will reassess in accordance with the Reasons for Judgment.
+Signed at Toronto, Ontario, this 15th day of October 2007.
+“L.M. Little”
+Little J.
+CITATION: 2007TCC605
+COURT FILE NO.: 2006-3872(IT)I
+STYLE OF CAUSE: Brent Chin v.
+Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 31, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: October 15, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Representative for the Respondent:
+Mahvish Mian (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

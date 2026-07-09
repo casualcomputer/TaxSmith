@@ -1,0 +1,156 @@
+Title: McIntosh c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30649/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-579-30649-mcintosh-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-12-29
+
+# McIntosh c. La Reine
+
+- Citation: 2011 CCI 579
+- Decision date: 2011-12-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7206, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntosh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-29
+Référence neutre
+2011 CCI 579
+Numéro de dossier
+2011-2800(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-2800(IT)I
+ENTRE :
+GORDON McINTOSH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Susan McIntosh (2011‑2801(IT)I) le 14 décembre 2011 à Edmonton (Alberta).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Paige Atkinson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations compte tenu du fait que les éléments suivants doivent être exclus du revenu de l’appelant :
+a) des frais de repas de 1 209 $ et de 813 $, plus la TPS, pour les années d’imposition 2007 et 2008, respectivement;
+b) une avance intersociétés de 14 000 $ pour l’année d’imposition 2008;
+c) une somme de 618 $ concernant des frais afférents à un véhicule à moteur pour l’année d’imposition 2008.
+L’appelant a droit à ses dépens, le cas échéant.
+Signé à Toronto (Ontario), ce 29e jour de décembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Dossier : 2011-2801(IT)I
+ENTRE :
+SUSAN McINTOSH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Gordon McIntosh (2011‑2800(IT)I) le 14 décembre 2011 à Edmonton (Alberta).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Représentant de l’appelante :
+M. Gordon McIntosh
+Avocate de l’intimée :
+Me Paige Atkinson
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est accueilli, et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations compte tenu du fait que les éléments suivants doivent être exclus du revenu de l’appelante :
+a) des frais de repas de 1 209 $ et de 813 $, plus la TPS, pour les années d’imposition 2007 et 2008, respectivement;
+b) une avance intersociétés de 14 000 $ pour l’année d’imposition 2008;
+c) une somme de 618 $ concernant des frais afférents à un véhicule à moteur pour l’année d’imposition 2008.
+L’appelante a droit à ses dépens, le cas échéant.
+Signé à Toronto (Ontario), ce 29e jour de décembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 579
+Date : 20111229
+Dossier : 2011-2800(IT)I
+ENTRE :
+GORDON McINTOSH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2011-2801(IT)I
+ET ENTRE :
+SUSAN McINTOSH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] En l’espèce, la Cour est appelée à décider si Gordon McIntosh et Susan McIntosh ont reçu un avantage à titre d’actionnaires relativement à leurs frais de repas qui ont été payés par la société que les appelants détiennent à 100 p. 100. Pour les années d’imposition 2007 et 2008, des frais de repas de 1 209 $ et de 813 $, plus la TPS, ont été inclus dans le revenu de chacun des appelants aux termes du paragraphe 15(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Deux autres questions avaient été soulevées dans les avis d’appel. Elles ont été réglées en faveur des appelants avant l’audience.
+[3] Dans les années d’imposition pertinentes, les appelants exerçaient des travaux d’esthétique automobile au moyen de la société qu’ils détenaient à 100 p. 100, à savoir la Quick‑Clean Incorporated (« Quick‑Clean »). Les appelants étaient les seules personnes à travailler dans la société durant ces années‑là.
+[4] Les clients de Quick‑Clean étaient presque exclusivement des concessionnaires automobiles et des vendeurs en gros d’automobiles. Pendant les deux années en cause, les activités de Quick‑Clean ont porté sur environ 500 automobiles. Les appelants étaient obligés de travailler des heures irrégulières compte tenu de la nature de leur entreprise, y compris le soir et les fins de semaine.
+[5] La plupart des dépenses en cause portent sur des repas pris au restaurant en dehors des heures normales de travail, et visent des circonstances dans lesquelles les appelants devaient retourner au travail après le repas.
+[6] Le ministre du Revenu national (le « ministre ») a supposé que ces dépenses représentaient un avantage conféré aux appelants en leur qualité d’actionnaires, et qu’elles n’avaient pas été supportées en vue de tirer un revenu de l’entreprise.
+[7] À mon avis, il ressort de la preuve que c’est à tort que le ministre a formulé son hypothèse. Les dépenses ont été supportées dans l’intérêt de l’activité de Quick‑Clean de la même manière que toute société accepte de rembourser à ses employés avec lesquels elle n’a pas de lien de dépendance des frais de repas supportés par ces employés lorsqu’ils travaillent des heures supplémentaires. Les repas ont été fournis aux appelants en leur qualité d’employés ou d’entrepreneurs indépendants et non en leur qualité d’actionnaires.
+[8] L’avocate de l’intimée a renvoyé la Cour à la décision Kowalchuk c La Reine, 2005 CCI 757, 2005 DTC 1754, dans laquelle la juge Campbell a décidé que les repas fournis à un actionnaire représentaient un avantage conféré à ce dernier. Cette décision tenait compte du fait que le contribuable n’avait pas fourni de preuve crédible pour réfuter les hypothèses du ministre. Les circonstances de l’espèce sont très différentes de celles de Kowalchuk.
+[9] J’ai conclu que le coût des repas a été inclus à tort dans le revenu des appelants à titre d’avantage conféré à un actionnaire.
+[10] La Cour a également été renvoyée à une remarque incidente faite dans la décision Kowalchuk, remarque selon laquelle les avantages relatifs aux repas sont imposables même s’ils sont conférés à une personne en sa qualité d’employé. Il n’est pas nécessaire que je me penche sur cette remarque parce que l’intimée n’a pas soulevé la question concernant les avantages sociaux dans ses actes de procédure.
+[11] Les appels sont accueillis compte tenu du fait que les éléments suivants doivent être exclus du revenu des appelants :
+a) des frais de repas de 1 209 $ et de 813 $, plus la TPS, pour chacun des appelants, à l’égard des années d’imposition 2007 et 2008, respectivement;
+b) une avance intersociétés de 14 000 $ pour l’année d’imposition 2008;
+c) une somme de 618 $ pour chacun des appelants concernant des frais afférents à un véhicule à moteur pour l’année d’imposition 2008.
+[12] Les appelants ont droit à leurs dépens, s’il y a lieu.
+Signé à Toronto (Ontario), ce 29e jour de décembre 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de février 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 579
+NOS DES DOSSIERS DE LA COUR : 2011-2800(IT)I et
+2011-2801(IT)I
+INTITULÉ : GORDON McINTOSH
+c.
+SA MAJESTÉ LA REINE
+et
+SUSAN MCINTOSH
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 14 décembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 29 décembre 2011
+COMPARUTIONS :
+Représentant des appelants :
+M. Gordon McIntosh
+Avocate de l’intimée :
+Me Paige Atkinson
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

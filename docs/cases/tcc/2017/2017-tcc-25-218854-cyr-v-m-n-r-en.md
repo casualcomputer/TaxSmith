@@ -1,0 +1,351 @@
+---
+title: "Cyr v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/218854/index.do"
+last_modified: "2017-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 25"
+citation2: ""
+neutral_citation: "2017 TCC 25"
+decision_date: "2017-02-13"
+language: "en"
+item_id: "218854"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2255
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:28:39.687000+00:00"
+cases_cited_count: 10
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b29687173066b8a23d5a8a57739fe935328bccf5003d41a5cbdc94a1d096aa42"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cyr v. M.N.R.
+
+- Citation: 2017 TCC 25
+- Decision date: 2017-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2255, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cyr v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-02-13
+Neutral citation
+2017 TCC 25
+File numbers
+2015-1199(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2015-1199(EI)
+BETWEEN:
+CHANTAL CYR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on October 20, 2016, at Montreal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amelia Fink
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister of National Revenue on December 23, 2014 under the Employment Insurance Act is confirmed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Ontario, this 13th day of February 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 25
+Date: 20170213
+Docket: 2015-1199(EI)
+BETWEEN:
+CHANTAL CYR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction
+[1] The Appellant, Chantal Cyr, runs a music school. The issue before the Court is whether five music teachers were engaged in insurable employment. Specifically, during the period from January 1, 2013 to March 19, 2014 were Amélie Poupart, Jessica Muneret, [1] Kim Derome, Maxime Capuano and Lionel Charles engaged in insurable employment?
+[2] The Appellant’s position is that the teachers were independent contractors. The position of the Minister of National Revenue is that they were employees of the Appellant.
+The Law
+[3] While there are well‑established principles for distinguishing a contract of employment from a contract of enterprise or for services, an independent contractor, the variety of employment and business arrangements are such that in some cases the application of those principles can be difficult.
+[4] Paragraph 5(1)(a) of the Employment Insurance Act says that insurable employment is “employment in Canada by one or more employers, under any express or implied contract of service”.
+[5] The paragraph does not define a contract of service. To determine if there is a contract of service, one must turn to the general civil law in the relevant province to determine whether there is a contract of employment. [2]
+[6] The Civil Code of Québec (Civil Code) provides as follows:
+2085. A contract of employment is a contract by which a person, the employee, undertakes, for a limited time and for remuneration, to do work under the direction or control of another person, the employer.
+[7] In this case, the teachers perform work and are paid for it. The key question is whether the teachers worked under the direction or control of the Appellant, the third element required in a contract of employment.
+[8] The Civil Code defines a contract of enterprise or for services as follows:
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to another person, the client, to carry out physical or intellectual work or to supply a service, for a price which the client binds himself to pay to him. [3]
+[9] The main principles of law in distinguishing these two kinds of relationship have been reviewed in numerous decisions including the Federal Court of Appeal decisions in Grimard v. Canada [4] and 1392644 Ontario Inc. (Connor Homes) v. Canada (National Revenue) [5] as well as the Supreme Court of Canada decision in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [6]
+[10] I do not propose to do any extensive review of these cases. The key points of the jurisprudence are as follows:
+1. As with all contracts, intention of the parties is always a factor but the intention cannot override the actual arrangements between the parties if those arrangements are inconsistent with the intention. [7]
+2. The key test of employment in the civil law is control or subordination of the worker, the judicial subordination of the worker. What matters is not whether the control is exercised but whether the payer has the right to exercise that control. [8]
+3. The civil law indicia of control are discussed by the author Robert Gagnon in his book Le droit du travail du Québec [9] where he says:
+[TRANSLATION]
+92 — Concept — Historically, the civil law first developed a so-called strict or classical concept of legal subordination that was used as a test for the application of the principle of the civil liability of a principal for injury caused by the fault of his agents and servants in the performance of their duties (art. 1054 C.C.L.C.; art. 1463 C.C.Q.). This classical legal subordination was characterized by the immediate control exercised by the employer over the performance of the employee’s work in respect of its nature and the means of performance. Gradually, it was relaxed, giving rise to the concept of legal subordination in a broad sense. The diversification and specialization of occupations and work techniques often mean that the employer cannot realistically dictate regarding, or even directly supervise, the performance of the work. Thus, subordination has come to be equated with the power given a person, accordingly recognized as the employer, of determining the work to be done, overseeing its performance and controlling it. From the opposite perspective, an employee is a person who agrees to be integrated into the operating environment of a business so that it may receive benefit of his or her work. In practice, one looks for a number of indicia of supervision that may, however, vary depending on the context: compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct or behaviour, requirement of activity reports, control over the quantity or quality of the work done, ownership of tools, chance of profit, risk of loss and so on. Work in the home does not preclude this sort of integration into the business. [10]
+4. In Grimard, above, Justice Létourneau of the Federal Court of Appeal explained that there is no antinomy between the Quebec civil law and the common law in determining whether or not there is a contract of employment. The conceptual approaches of the two legal systems differ, but as a practical matter the indicia used to determine whether or not there is control or subordination in the civil law and the indicia used in the common law are much the same. [11]
+5. The kinds of considerations mentioned by Robert Gagnon, above, are comparable to those used in the common law.
+6. For example, in Connor Homes, above, the Federal Court of Appeal says:
+41 The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+7. This is similar to the following statements of the Supreme Court of Canada decision in Sagaz, above:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker’s activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker’s opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non‑exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+8. Consequently, in determining whether or not there is a contract of employment, the following principles are to be applied:
+(a) One considers the parties’ intention and whether the actual contract is consistent with that intention.
+(b) To determine the nature of the contract, one looks for the presence or absence of indicia of control or subordination. What matters is the power to control, whether or not it is exercised.
+(c) There is no fixed list of indicia, all relevant factors are to be considered; the relevance and weight of the indicia will vary with the context.
+(d) Among the matters to be considered are compulsory attendance at a workplace, the fairly regular assignment of work, imposition of rules of conduct, responsibility for management, requirement of activity reports, control over the quantity or quality of the work done, the ability to hire helpers, ownership of tools, the investment made by the worker, chance of profit or loss and the degree of risk.
+[11] With these principles in mind, let us turn to the evidence.
+The Facts
+[12] The Minister made his determination on the following basis: [12]
+The Appellant
+(a) the Appellant operated a music school;
+(b) the Appellant operated as sole-proprietor;
+(c) the Appellant registered the business on October 15, 1998;
+(d) the Appellant operated under the name Vimont Musique;
+(e) the Appellant had 350 to 400 students;
+(f) the business hours were Monday to Friday from 2:30 p.m. to 9:30 p.m. and Saturday from 9:00 a.m. to 5:00 p.m.;
+(g) the Appellant hired 20 teachers and 4 to 5 administrative employees;
+(h) the Appellant sold books and materials related to the courses;
+The Workers
+(i) the Workers were hired as music teachers by the Appellant;
+(j) Lionel Charles gave lessons in bass, guitar and ukulele;
+(k) Maxime Capuano gave guitar lessons;
+(l) Kim Derome gave piano lessons;
+(m) Jessica Muneret gave guitar lessons;
+(n) Amélie Poupart gave piano lessons;
+(o) the Workers gave lessons to the clients of the Appellant;
+(p) the Workers and the Appellant were dealing with each other at arm’s length;
+(q) the Workers gave lessons at the Appellant’s business location;
+(r) the Workers performed their duties during the business hours of the music school;
+(s) the Appellant established the schedule for the lessons;
+(t) the Appellant managed the Workers’ schedules;
+(u) the Workers and the Appellant entered into written contracts;
+(v) the Appellant provided the Workers with specific instructions on the work to be completed;
+(w) the Appellant required that the material covered in the lessons included solfeggio (note reading), ear training and music theory;
+(x) the Appellant imposed a dress code;
+(y) the Workers were required to keep the students’ parents up to date on their progress;
+(z) the Workers required the Appellant’s permission if they needed to be absent;
+(aa) the Workers provided their own musical instruments;
+(bb) certain instruments such as the piano and drums were provided by the Appellant, to facilitate teaching;
+(cc) the Appellant provided the premises where the music lessons took place;
+(dd) the Workers were paid between $16.00 to $20.00 dollars per hour by the Appellant;
+(ee) the Workers’ hourly rate was determined by the Appellant;
+(ff) the hourly rate was based on experience, seniority and education;
+(gg) the Workers were paid by cheque;
+(hh) the Workers were paid every two weeks;
+(ii) the Appellant established the fee for the lessons;
+(jj) the clients paid about $40.00 per hour for the lessons;
+(kk) the clients paid the Appellant for the lessons;
+(ll) the Workers did not invoice the Appellant;
+(mm) the Appellant provided a pay slip to each worker for the period from January to June and another for the period from September to December for each year;
+(nn) the Workers had to sign the pay slip;
+(oo) the clients were exclusively the Appellants; [13]
+(pp) the Appellant prohibited the exchange of phone numbers or contact information between the Workers and the clients;
+(qq) the Workers did not incur expenses;
+(rr) the Appellant considered the Workers to be self-employed; and
+(ss) the Appellant issued T4 slips to the Workers in 2012.
+[13] The Appellant disagrees with many of the factual assumptions.
+[14] The Appellant testified as well as two of the workers, Amélie Poupart and Kim Derome. [14]
+Intention
+[15] After this section I examine the indicia of supervision as shown by the actual behaviour. [15] That examination leads to a clear conclusion as to the nature of the contractual relationship even if I assume that in this case the intention was to have a contract for services.
+[16] As a consequence it is not necessary for me to decide the intention although some of the discussion and some of the evidence referred to in this section are relevant to the following sections. [16]
+[17] Prior to 2013 the school had treated all the teachers as employees.
+[18] It was clear from the Appellant’s testimony that some time towards the end of 2012 she made a decision that, as of the beginning of 2013, the school would treat the teachers as independent contractors. She testified that the school advised the teachers of this change by a letter that went out with the last pay cheque for 2012. Unfortunately, the letter is not in evidence. [17]
+[19] She explained the reasons for the change. When she started the school she had a particular vision of how music should be taught and wanted the school to operate in accordance with that vision. However, the industry was changing and she decided that the school would operate differently.
+[20] Nothing in the evidence suggests that there was any discussion with the teachers before the school made the decision to change the status of the employees. The new arrangement appears to have simply been imposed by the payer without negotiation.
+[21] On the other hand, there is no suggestion that any teachers objected to the new contracts and the teachers signed the new contracts.
+[22] The two signed contracts in evidence, Exhibits R‑1 and R‑2 are identical one‑page documents except for the teacher who signed and the fact that one teacher was paid $0.25 more than the other for each 30‑minute class.
+[23] The contracts are consistent with the school being behind the change; they are entitled “Procedures and Regulations 2013-2014” and say, just below the heading “Please read and sign your acceptance”.
+[24] Given that the teachers accepted the terms in Exhibits R‑1 and R‑2, there is a common agreement upon those terms and as a result a common intent in respect of the terms reflected in that document.
+[25] I will paraphrase or describe the agreement: [18]
+The agreement is entitled “Procedures and Regulations 2013-2014” with the subtitle “For all the independent teachers of Vimont Musique”.
+There are then the following clauses to the agreement:
+1. Teachers should be punctual and advise the school of any changes to the teaching schedule.
+2. The teachers are to provide their own teaching material including the musical instrument (except for pianos and drums) as well as the musical scores for the students.
+3. We ask you to give a complete course including note reading, ear training and music theory. Students were advised that this would be included in the course.
+4. It is important to keep parents informed of the progress of their child. It is essential to talk to the parents after the course and advise them of the homework.
+5. There should be no personal telephone calls, other than emergencies, during class hours.
+6. Even though it is sometimes difficult to remain patient, no rudeness towards students, their parents or other teachers will be tolerated.
+7. No solicitation of students will be tolerated. There will be no sale of any kind between the teachers and the students at the school. Students who wish to purchase a product will do so using the school as an intermediary.
+8. Professors and students may not exchange telephone numbers and contact information. Students having questions related to their course must do so by contacting the school reception by telephone. The exchange of information using Myspace, Facebook or similar sites is prohibited.
+9. The ninth clause imposes a dress code to further the professional image of the school.
+10. Each student is to be given two makeup classes per year provided they advised that they would be absent at least 24 hours in advance. The clause continues by suggesting teachers plan to do work or to practise during periods when they do not have a class.
+11. This clause provides a pay rate of $9.50 (or $9.75 in the other contract) for each 30‑minute class with a single student and a pay rate of $8 per student for group classes.
+12. Each independent teacher is required to provide a receipt for payments received at Christmas time, at the end of the school year and, if he leaves before then, on his last day of work. Payments will be made by cheque every two weeks.
+13. This clause requires the teachers to keep the classrooms clean and prohibits the teachers from wearing boots in the classroom in winter time.
+14. This clause says that the kitchen is available for teachers, but it is their responsibility to properly wash up and clean up. It also says that pianos are not to be used as tables.
+[26] Finally, after these clauses is a statement just before the signature lines where it is stated that the teacher agrees that he or she has read the document and understands that failure to conform to the regulations in the document can lead to the loss of the teacher’s students without notice.
+[27] It must be remembered that what matters in the contract are the terms and conditions agreed to by the parties and not simply the words chosen by the parties to characterize the nature of the contract. As Justice Mainville of the Federal Court of Appeal puts it in Connor Homes, above: “In other words, it is insufficient to simply state in a contract that the services are provided as an independent contractor to make it so.” [19]
+[28] While the references to independent teacher in the second line and at the beginning of clause 12 [20] are consistent with a contract for services, the actual terms of the agreement are not so clear.
+[29] The terms and conditions impose many rules on the teachers including the teaching of musical notation, ear training and musical theory and a dress code. Without the word “independent”, these look a lot like rules applied to teachers under a contract of employment.
+[30] On the other hand, a number of terms which suggest control can equally be seen as consistent with the teachers working under a contract for services; for example, given that the school provides the premises it is normal for it to be advised of schedule changes so it can allocate a classroom and for it to impose conditions on the use of its facilities (clean them up after use).
+[31] Similarly, the requirement for teachers to provide their own musical instrument — except for drums and pianos — is, by itself, consistent with either a contract of employment or a contract for services. It is common for musicians to own their instrument whether they are employees or self‑employed. [21]
+[32] Overall, the terms of the agreement look more like a contract of employment than a contract for services; however, it is clear that much of the actual arrangement is not expressed in the agreement and, depending on the totality of the terms of the actual agreement, [22] the terms of the agreement could be consistent with either contract of employment or a contract for services. In that sense, the actual terms of the written agreement are inconclusive.
+[33] The two other factors to note in relation to intention are the following:
+1. In testifying, Kim Derome mentioned that one thing that had changed was the expenses she could deduct for income tax purposes. I take this to be a reference to her claiming additional expenses as an independent contractor. This is conduct consistent with an intention to be an independent contractor. It does not change the terms of the contract.
+2. Ms. Derome testified with regard to the receipts shown in Exhibit R‑4. She testified that these two receipts had been prepared by the school and given to her. Amélie Poupart testified that in years subsequent to the period in issue she provided invoices sporadically. For the periods in question she was less certain, but thought that the receipts may have been provided at the end of the year. Normally one would expect a person providing a service to invoice the customer on or before payment. Providing receipts after the fact is not consistent with that.
+[34] To summarize:
+1. There was an intention initiated by the Appellant to have the workers engaged under a contract of service and the Appellant drafted an agreement that she believed reflected that intention.
+2. The employees accepted the agreement and signed it.
+3. However, the terms of the written agreement are, in themselves, inconclusive as to the nature of the agreement.
+[35] As I said earlier, it is unnecessary for me to reach a conclusion on intention. [23]
+Indicia of Supervision, the Objective Reality — Evidence and Analysis
+Control
+[36] The students were clients of the school and paid the school for the music lessons. Classes were held at the school’s premises.
+[37] During the period in question, the school operated during fixed hours. Within the framework of those fixed hours, the teachers would advise the school of the days and hours during which they were available for the particular session. [24]
+[38] However, although the teachers made themselves available for certain hours and had more flexibility than in the past, it was the school that assigned the work by assigning students to specific teachers at certain times. There was also no guarantee that there would be work during all the hours proposed by the teacher and there were some class periods when a teacher was available but was not assigned a student. [25] Whether work was assigned was, of course, a function of the student demand for music lessons.
+[39] Before 2013 the school had imposed much more of the class content than after 2012 when teachers became relatively free to decide how to teach and what music to choose for the lessons. The teachers were contractually bound to include musical notation, ear training and music theory in their classes although the evidence suggested that if a student resisted these subjects the teacher might de‑emphasize them. The teachers were also subject to the dress code. This contractual requirement does indicate the right to exercise some control. [26]
+[40] The Appellant explained that when hiring teachers the school ensured that the individual had appropriate experience and qualifications. She also explained that they would ask potential teachers how they would conduct the class so as to ensure that the teachers fit within one of the teaching philosophies accepted by the school.
+[41] By choosing to contract with teachers whose teaching philosophy is aligned with one of the philosophies accepted by the school, one is reducing the need to actually exercise control.
+[42] Overall, holding classes at the school, the Appellant assigning the work and setting some content requirements directly are all indicia of control that point in the direction of a contract of employment, although not strongly so. [27]
+Ownership of the Tools/Investment
+[43] The school premises where classes are held are a significant investment.
+[44] Apart from the school the main tools used for the classes were musical instruments. When the student studied playing drums or the piano the school provided the instrument.
+[45] For other instruments the evidence was that the students would have their own instrument and the teachers would also have their own instrument.
+[46] Given that the teachers are musicians they would own at least one instrument that they played; this would typically be whether they are students, employees or independent contractors or any combination of the three. There is no suggestion that they specifically bought an instrument just for the purpose of a music teaching business. [28]
+[47] Ms. Derome was a piano teacher; in her case, unlike the four other teachers, she taught using a school instrument.
+[48] It also came out in evidence that the teachers would use their own computer, for example to get musical scores. Again there was no suggestion that these computers were bought specifically for a teaching business.
+[49] Overall, the school’s investment in its premises is a greater investment than that of the teachers. This points somewhat towards a contract of employment.
+Helpers
+[50] There was evidence that if teachers could not make a class they could arrange for someone else to replace them. The evidence I heard from the two teachers who testified suggests that the first thing that teachers who could not make a class did was to see if they could reschedule the class, something that might not be that difficult where they were teaching a single student. If they could not do that, they would find a substitute, often another teacher at the school but also, sometimes, someone who is not a current teacher. That teacher was paid either by the teacher or the school.
+[51] No one suggested that the substitute was ever paid less than the teacher would have earned for teaching the particular class if the teacher had been present.
+[52] Apart from the fact that here the substitute was sometimes paid by the worker, this is not all that different from what often happens in employment situations. It is not uncommon for employers to accommodate employees’ need to change their schedule in circumstances where the employee arranges for an alternate replacement employee, normally another existing employee.
+[53] While the school’s practice gave a certain additional flexibility to the workers, this is not the same as a situation where the contractor is free to hire workers to do part or even all of the work he was contracted to do and where their rate of pay is set so as to increase the contractor’s profitability. I am quite satisfied that had a teacher who had been just engaged by the school to teach during the next semester turned around immediately after his engagement and hired someone else to teach all his classes, the school would have, to say the least, been surprised and would have vigorously opposed the subcontracting of the entire session; it is clear that the school was concerned with the quality of the teaching, something it cared about when choosing teachers.
+[54] What we have here is an ability by each teacher to arrange a replacement teacher when circumstances make it necessary. This is not a full‑fledged ability to hire helpers. Overall, it is not a clear indicator one way or another.
+Chance of Profit/Risk of Loss
+[55] The arrangement does not give the teachers any real possibility to increase profitability.
+[56] If they teach for more hours they can earn more but that is no different from any employee. Because they are paid by the quantity of time spent teaching, they cannot increase their revenue per hour even if they find a way to achieve a given result in training students more quickly than previously.
+[57] As we have seen in the discussion on helpers, they cannot cut costs by hiring lower cost workers to do all or part of the work they have contracted to do.
+[58] There is very little in the way of other costs that they could reduce to increase their profits. [29]
+[59] I note that because, normally, they already own their musical instrument that cost is relatively fixed and relatively modest and, in any event, depending on the circumstances of the individual teacher not all of its cost necessarily relates to the individual’s teaching. [30]
+[60] Thus, the teachers have no material chance of profit or risk of loss and, as a result, this clearly points in the direction of a contract of employment.
+Other Factors
+[61] The Appellant points out that the teachers had other opportunities to earn income at the school. For example, they could teach what was referred to as a “master class” for any interested students; where they did this they would be paid by the students and not by the school. They could also earn money as accompanists to students doing recitals. They were also free to sell recordings of their own music.
+[62] The evidence does not reveal how often a master class occurred or whether this represented significant revenues for the teachers in issue. The teachers who testified both said they had never taught a master class.
+[63] These opportunities do not appear to be significant. I do not see how allowing teachers to sell their own recordings helps qualify the relationship. I am not satisfied these events make much of a difference for the issue here. Also, when a teacher accompanied a student at a recital, he was hired by the student; this is outside the contractual relationship with the school.
+[64] Usually a person running a business has to invest a certain amount of effort managing it. The five teachers in issue here do not really manage much; once they have advised the school of their availability, it is pretty much the school that makes the management decisions.
+[65] It is true that once the students and the time are assigned, the teachers, within the very general framework set out by the employer, [31] will in very large measure exercise their own skill, experience and judgment in carrying out the musical training but that is not unique to an independent contractor; skilled workers and professionals commonly do this, whether they are employees or performing a contract for services. When teaching and when preparing for classes, the workers are carrying out the work; they are not managing it.
+[66] In the period, on the evidence before me, while teachers appear to have other activities as musicians and while the teachers were free to teach elsewhere or privately as long as they did not teach students from the school, there is little evidence on the extent this was done by the five teachers and little reason to conclude that the five teachers were doing a significant amount of teaching elsewhere. Further, the fact of teaching at another school does not tell us in what capacity it is done; it may be under a contract of employment or a contract for services. [32]
+Overall Assessment of the Indicia
+[67] When one ways up the indicia, particularly the absence of any real chance of profit or risk of loss, investment and who is doing the management, and the fact that the school assigns the students to the teachers, [33] it is clear that the workers giving music classes for the Appellant are doing so under a contract of employment. The lessons given at Vimont are not part of a teaching business of the workers. [34]
+[68] As a result, it is clear that the Minister came to the correct determination and I must dismiss the appeal.
+[69] Before concluding I would like to discuss the two cases relied on by the Appellant: Wincza v. M.N.R. [35] and Lomness-Seely v. M.N.R. [36]
+[70] In Lomness-Seely, [37] the Appellant was a professional dancer who took the position that she was not an employee of a dance school. There are a number of parallels with the situation here; however, there are a number of important differences regarding control. In Lomness-Seely, the Appellant’s “control of the classroom was absolute”. [38] That is not the case here where, for example, there is the contractual obligation to teach musical notation, ear training and music theory and there are a number of rules such as the dress code imposed by the contract on the teachers. Another important difference is that Ms. Lomness-Seely was in fact able to increase her revenues. Not only did Ms. Lomness-Seely negotiate her hourly rate, but she was able to renegotiate her hourly rate upward if the success of her class resulted in more students enrolling in it. [39] Thus, she was able to increase her profitability per teaching hour, giving her a chance of profit.
+[71] That is a different situation from here. I am satisfied that Lomness‑Seely does not apply to the circumstances here.
+[72] Wincza is an interesting case involving music teachers at the Hamilton Conservatory for the Arts. In some ways I find that decision surprising given that the contract reproduced [40] appears to impose a lot of control on the teachers. [41]
+[73] It is less surprising when I consider the conclusions the Court reached in respect of what it viewed as the most important characteristics. [42] These include, notably, that the workers established the fees to be paid by the students, that the workers paid to the Conservatory a fixed amount per hour of lessons, that the teachers paid their own expenses to advertise for students and that the Conservatory collected the workers’ pay (i.e. the student fee) from the students on behalf of the workers while only retaining its fixed fee of $10 per hour. [43] It appears that it is as if, in essence, the Court viewed the Conservatory as a service provider to the teachers — although it did not express itself in such terms.
+[74] This case is rather different and Wincza is not applicable to the circumstances here.
+Conclusion
+[75] For these reasons, I conclude that the Minister correctly determined that the workers were engaged under a contract of service and the appeal will be dismissed. [44]
+Signed at Ottawa, Ontario, this 13th day of February 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 25
+COURT FILE NO.:
+2015-1199(EI)
+STYLE OF CAUSE:
+CHANTAL CYR v. M.N.R.
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+October 20, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+February 13, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Amelia Fink
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] In the case of Jessica Muneret, the period is from January 1 to October 31, 2013.
+Both the reply to the notice of appeal and the Appellant’s opening brief refer to the period in issue for all five employees as being from January 1, 2013 to March 19, 2014. However, when the notice of appeal was filed, the Appellant’s representative at the time attached to the notice of appeal what appears to be a copy of the Minister’s decision; it showed the period for Jessica Muneret as January 1 to October 31, 2013.
+Given that strictly speaking the Minister’s decision was not in evidence and given both the Appellant’s brief and the reply, I asked the registry to verify the accuracy of the date with the parties; they were asked to respond no later than January 16, 2017. The Respondent responded to the registry on January 9, 2017 and confirmed that October 31, 2013 was the end of the period for Ms. Muneret. As of the date of my signing these reasons no response has been received from the Appellant.
+Employment insurance appeals in this Court are heard under a modified version of the Tax Court of Canada Rules (Informal Procedure). Paragraph 18.29 of the Tax Court of Canada Act provides that certain sections of the informal procedure apply to employment insurance appeals including subsection 18.15(3). Given that subsection 18.15(3) says that “the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit”, given the response from the Respondent, given the date shown on what was apparently the Minister’s decision attached to the notice of appeal and given that it is a minor point, I am satisfied that it is appropriate to render a decision now without inquiring further from the Appellant on the point.
+[2] See section 8.1 of the Interpretation Act. The section reflects the pre-existing law prior to its enactment.
+[3] In a contract for services the contractor is free to choose the means of performing the services as is set out in the Civil Code:
+2099. The contractor or the provider of services is free to choose the means of performing the contract and, with respect to such performance, no relationship of subordination exists between the contractor or the provider of services and the client.
+[4] 2009 FCA 47.
+[5] 2013 FCA 85.
+[6] 2001 SCC 59, paragraphs 33 to 48. Also helpful is the decision of the Court of Appeal of Québec in Bermex International inc. c. Agence du revenu du Québec, 2013 QCCA 1379, particularly at paragraphs 39 to 56.
+[7] See paragraphs 32 and 33 of Grimard and paragraphs 39 and 40 of Connor Homes.
+[8] See paragraph 5 of the decision of Justice Noël (as he then was) in Canada (Attorney General) v. Groupe Desmarais Pinsonneault & Avard Inc., 2002 FCA 144.
+[9] Sixth edition, Cowansville: Éditions Yvon Blais, pages 68 and 69. Similarly, see Fernand Morin, Jean‑Yves Brière, Dominic Roux and Jean‑Pierre Villaggi, Le droit de l’emploi au Québec, fourth edition, Montreal: Wilson & Lafleur, section 2.2 at II‑54 and II‑55, especially the second paragraph of II‑55.
+[10] Indeed we are in a world where not only as Robert Gagnon puts it “[t]he diversification and specialization of occupations and work techniques often mean that the employer cannot realistically dictate regarding, or even directly supervise, the performance of the work”, but also one where employers, even if they were in a position to provide day‑to‑day control, find it efficient and effective to rely on their employees’ knowledge, skill and judgment.
+[11] See paragraphs 27 to 44 of Grimard.
+[12] See paragraph 7 of the translated reply to the notice of appeal setting out the Minister’s assumptions of fact.
+[13] This is the way assumption (oo) reads. Presumably, there is a missing apostrophe. It was not contested that the music students were the Appellant’s clients and not the clients of the teachers.
+[14] Exhibits A-1 to A-20 as well as R-1 to R-5 were filed. In addition, the Appellant provided the Court with an 11‑page document entitled “Appellant’s Opening Brief”, an aide-mémoire setting out generally the Appellant’s position on the facts and the law.
+[15] The objective reality.
+[16] Consider: Lippert Music Centre Inc. v. M.N.R., 2014 TCC 170, where Justice Graham said at paragraph 11: “I am simply stating that, even with the most favourable interpretation of the intention test, Lippert will still not succeed on its appeal so there is no need to examine a less favourable interpretation.” In this context, Justice Graham was referring to the most favourable intention from the perspective of the Respondent.
+[17] At the time the letter setting out the change went out, as I understand the evidence, the teachers would already have agreed to teach in the period starting in January 2013. Insofar as there might already be contracts for the period beginning in January, there could be some interesting questions regarding the change from one status to another when a contract already existed. No such questions were raised.
+[18] The agreement is in French.
+[19] At paragraph 36, which also states:
+. . . The relationship of parties who enter into a contract is generally governed by that contract. Thus the parties may set out in a contract their respective duties and responsibilities, the financial terms of the services provided, and a large variety of other matters governing their relationship. However, the legal effect that results from that relationship, i.e. the legal effect of the contract, as creating an employer‑employee or an independent contractor relationship, is not a matter which the parties can simply stipulate in the contract. In other words, it is insufficient to simply state in a contract that the services are provided as an independent contractor to make it so.
+[20] “Professeur autonome”, given that the agreements are in French.
+[21] Indeed, common enough that paragraph 8(1)(p) of the Income Tax Act allows employee musicians to claim capital cost allowance on their instruments subject to certain limitations.
+[22] For example, it is implicit that the teachers were to teach music and all parties understood that, but not only does the agreement not spell out that music is to be taught, it also does not spell out to whom, nor does it spell out how the students to be taught are to be determined. While I do not think one should attach much importance to this, this absence of specifics points a little in the direction of an employment contract since it implies that the payer has the power to allocate the students. Usually, one might expect a little more specifics if one has a contract for services.
+[23] Two additional comments:
+Firstly, the term “independent teacher” in the agreement is, in this context, the same as if the parties had used “independent contractor” or if they had referred to a “contract for services”. I do not need to decide whether the simple use of the term together with an agreement whose terms are inconclusive would justify the conclusion that there was an intention, in substance, to have a contract for services.
+Secondly, if it were necessary to answer this question, it might be possible to do so. The Canada Evidence Act says at section 40:
+In all proceedings over which Parliament has legislative authority, the laws of evidence in force in the province in which those proceedings are taken, including the laws of proof of service of any warrant, summons, subpoena or other document, subject to this Act and other Acts of Parliament, apply to those proceedings.
+As a result, we can supplement federal law with provincial law and the Civil Code provides in article 2864 that:
+Proof by testimony is admissible to interpret a writing, to complete a clearly incomplete writing or to impugn the validity of the juridical act which the writing sets forth.
+It is clear that the agreement here is incomplete and that under article 2864 it is permissible to have testimony to complete the agreement and to assist in interpreting it.
+There was no testimony or written evidence directed to the existence of unwritten terms of the contract, as such. However, there was evidence about the actual relationship that showed a common understanding that goes beyond the written agreement. Arguably, that common understanding could be used to infer additional terms that would complete the agreement and enable one to reach a definitive conclusion as to whether or not it was a contract for services.
+[24] The Appellant emphasized that the teachers were freer to choose when to work after 2012 than before because they were completely free to choose their hours, whereas previously they had been generally expected to be available during the opening hours of the school on any day that they worked. There was no doubt a shift, but it was clear from the evidence that it was not as great as the Appellant suggested. Prior to 2013 it is clear that not only could teachers work only on certain days of the week, but that there was some flexibility even within a given day of the week. For example, Ms. Derome testified that in her first year, 2007, she worked on Saturdays only and in her second year on Wednesday evenings; she also testified that she could ask to teach classes such that she could finish before the school closing time. As a practical matter, I would note that operational requirements and practical considerations would also constrain flexibility. For example, teachers need to be available at the same time every week. A teacher who does not live close to the school is not likely to want to come in for a single hour and it might, in any event, not be so easy for the school to fit a request for a single hour into the schedule if it were one of peak demand.
+[25] As we have seen, clause 10 of the agreement, Exhibit R‑1, suggests that teachers plan for something to do during such empty periods.
+[26] I would just note again that it is the ability to control rather than the actual exercise that matters. Ms. Poupart testified that she chose to teach music theory and agreed that the dress code was appropriate. The fact that Ms. Poupart was in agreement with these two requirements and followed them voluntarily in no way reduces the power of control in the contractual provisions.
+[27] I say not strongly so because it is a question of overall balance and the factors above are close. For example, there is a fine line between defining what is to be taught and how to teach it.
+[28] As indicated in an earlier note it is common enough for employee musicians to own their own instrument that the Income Tax Act has a specific provision to allow them to take capital cost allowance — paragraph 8(1)(p). In Dynamex Canada Corp. v. M.N.R., 2010 TCC 17, Justice Archambault took account of the fact that a worker would have, in any event, owned a car.
+[29] There were some small costs for things like stickers and small gifts for the students. One teacher referred also to the cost of music sheets, while the other said music sheets were paid for by the students. These expenses were not quantified.
+[30] For example, if the teachers are currently students or employed elsewhere and use the instrument for those purposes as well.
+[31] I am referring to the requirement to teach musical notation, ear training and music theory.
+[32] A teacher giving private lessons has his own clients for those private lessons and, in providing those lessons, the teacher would be providing a service under a contract for services. In itself, giving such private lessons would not tell us much about the relationship of a teacher to a school unless the evidence showed that the teaching of private lessons and the teaching at Vimont were part of a single business of the teacher.
+In this respect it is worth recalling that a person can simultaneously be an employee of one person while also providing services to other persons who are clients.
+[33] In doing so, it is assigning the work.
+[34] In this case the chance of profit or risk of loss is clearly the most important factor.
+[35] 2005 TCC 338.
+[36] 2007 TCC 653.
+[37] The decision came relatively soon after the decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. Canada (M.N.R.), 2006 FCA 87, and before later decisions of the Federal Court of Appeal such as Connor Homes, above.
+[38] See paragraph 17.
+[39] See paragraph 17.
+[40] At paragraph 5 of the decision.
+[41] Including, according to the agreement, the Conservatory allocating students.
+[42] And which are found, in part, in paragraph 4 of the decision.
+[43] See the fourth sentence of paragraph 9 as well as a reference in paragraph 13 to “the works of administration for the teachers by the Conservatory”.
+[44] In cases such as this, the borderline between a contract of employment and a contract for services is not an easy one for payers and payees to determine. While it is probably impossible to always make the boarder clear cut, it might be worthwhile if Parliament and the government were to consider whether it was possible to amend the Employment Insurance Act so as to reduce the degree of uncertainty.

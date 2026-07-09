@@ -1,0 +1,197 @@
+---
+title: "Burley c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/482894/index.do"
+last_modified: "2020-07-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 68"
+citation2: ""
+neutral_citation: "2020 CCI 68"
+decision_date: "2020-07-24"
+language: "fr"
+item_id: "482894"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4598
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:01:02.743000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c7222631141f41ae422356944aa47f5fab01bd4b02332fd595ac49589a404f5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Burley c. La Reine
+
+- Citation: 2020 CCI 68
+- Decision date: 2020-07-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4598, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-07-24
+Référence neutre
+2020 CCI 68
+Numéro de dossier
+2019-1007(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1007(IT)I
+ENTRE :
+DON H. BURLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 mars 2020, à Ottawa, au Canada
+Devant : L’honorable juge R. Masse
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Zac Delong
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie sous le régime de la Loi de l’impôt sur le revenu (la Loi) pour l’année d’imposition 2016 est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Kingston, Ontario, ce 24e jour de juillet 2020.
+« R. Masse »
+Le juge suppléant Masse
+Référence : 2020 CCI 68
+Date : 20200724
+Dossier : 2019-1007(IT)I
+ENTRE :
+DON H. BURLEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] L’appelant, M. Burley, interjette appel d’une cotisation établie aux termes de la Loi de l’impôt sur le revenu, LRC (1985), c 1 (5e suppl.) (la Loi), pour son année d’imposition 2016.
+[2] M. Burley a produit ses déclarations pour 2016 et a fait l’objet d’une cotisation initiale conforme à ses déclarations. Cet avis de cotisation initial était daté du 13 mars 2017. Par la suite, M. Burley a produit un formulaire T2125 – Demande de redressement qui a été reçu par le ministre du Revenu national (le ministre) le 18 mai 2017. Dans cette demande de redressement, M. Burley a demandé un redressement pour son année d’imposition 2016 afin que soit admise la somme de 33 363 $ au titre d’honoraires juridiques, comptables et autres honoraires professionnels supplémentaires comme dépenses professionnelles. Le ministre a rejeté la demande d’autoriser ces dépenses supplémentaires par lettre datée du 11 décembre 2017. M. Burley a déposé un avis d’opposition le 24 mars 2018. Après examen, le ministre a confirmé la cotisation et en a informé M. Burley par un avis de confirmation daté du 16 novembre. M. Burley conteste maintenant la décision du ministre de refuser la somme de 33 363 $ d’honoraires d’avocats, de frais de comptabilité et autres honoraires professionnels supplémentaires. D’où l’appel interjeté devant la Cour.
+Contexte factuel
+[3] Les faits pertinents ne sont vraiment pas contestés. Le contexte factuel suivant a été glané à partir des actes de procédure et des témoignages entendus lors de l’audience. M. Burley a été le seul témoin entendu à l’audience. Je suis d’avis qu’il était un témoin articulé, intelligent et honnête.
+[4] Pendant toute la période pertinente, M. Burley a exploité un service de conseil en gestion à titre d’entreprise individuelle. En août 1992, une société à numéro, 995432 Ontario Limited, faisant affaire sous le nom de « Business Allies », a été constituée. M. Burley était le seul titulaire des actions de catégorie A (avec droit de vote) et le seul dirigeant de cette société.
+[5] En janvier 2003, Business Allies a créé un plan de retraite individuel (PRI) pour M. Burley. Il s’agissait d’un régime de pension agréé. M. Burley était le seul bénéficiaire du PRI.
+[6] Malheureusement, la relation conjugale de M. Burley s’est rompue. Cela a nécessité l’égalisation des éléments d’actif. Un litige s’en est suivi.
+[7] Le 11 février 2013, le juge John Johnston de la Cour supérieure de justice, chambre de la famille (Ontario), a rendu une ordonnance [1] qui prévoyait, entre autres, ce qui suit :
+M. Burley a versé à son épouse un paiement d’égalisation net total de 447 365,00 $;
+L’épouse de M. Burley devait libérer l’ensemble de ses intérêts dans la société à numéro 995432 Ontario Limited;
+M. Burley devait verser à son épouse un paiement forfaitaire de 294 469,00 $ au titre de la pension alimentaire pour conjoint;
+Toutes les sommes dues aux termes de la présente ordonnance sont garanties par une charge de premier rang sur toutes les économies et tous les investissements de M. Burley, ainsi que sur les économies et les investissements de la société à numéro 995432 Ontario Limited, et constituent une telle charge.
+[8] Les difficultés de M. Burley n’ont pas pris fin pour autant. Le 8 mars 2013, à la suite de l’ordonnance du tribunal susmentionnée, M. Burley a fait une cession de ses biens en vertu de la Loi sur la faillite. Le 6 février 2015, Business Allies a été acculée à la faillite. Cependant, la société a continué de fonctionner pendant près de deux ans. Selon les actes de procédure de M. Burley, la succession de Business Allies a été libérée de la faillite le 26 mai 2016. Puis, la société a été dissoute. Le 1er juin 2016, le coordinateur de l’insolvabilité auprès de la Commission des services financiers de l’Ontario a nommé Mercer (Canada) Limited (Mercer) en tant qu’administrateur du PRI de M. Burley afin de liquider le plan.
+[9] M. Burley a été libéré de la faillite le 10 août 2016.
+[10] Le 17 août 2016, le juge Kershman de la Cour supérieure de justice, chambre de la famille (Ontario), a rendu une ordonnance [2] qui prévoyait, entre autres, ce qui suit :
+la moitié de la somme accumulée dans le PRI de M. Burley devait être transférée à l’épouse de M. Burley;
+La somme accumulée dans le PRI devait être calculée après déduction du paiement autorisé par le surintendant des services financiers de la province de l’Ontario au titre des honoraires et débours des prestataires de services devant être versés à Mercer, qui a supervisé la liquidation du PRI.
+[11] Afin de se conformer à cette ordonnance du tribunal, M. Burley a versé à Mercer des honoraires d’avocats, des frais de comptabilité et autres honoraires professionnels de 33 653 $ relativement au processus de liquidation du PRI. Tous les versements requis dans le cadre du plan ont été effectués le 10 novembre 2016.
+Question en litige
+[12] La seule question à trancher est celle de savoir si le ministre était justifié de refuser comme dépenses professionnelles les honoraires d’avocats, les frais de comptabilité et autres honoraires professionnels supplémentaires de 33 653 $ réclamés par M. Burley pour l’année d’imposition 2016.
+Thèse des parties
+[13] M. Burley estime que les dépenses réclamées aux présentes étaient des dépenses professionnelles légitimes liées à Business Allies et plus précisément à l’administration de son PRI. Elles ont été engagées dans le seul but de gagner ou de produire des revenus d’entreprise ou de biens. Le PRI avait engagé des dépenses de cette nature pendant environ 15 ans et celles-ci avaient toujours été admises comme dépenses professionnelles déductibles aux termes de l’article 18(1)a) de la Loi et devraient encore être admises. M. Burley affirme également que les sommes d’argent dans le PRI ont été assujetties à une double imposition, bien que cela n’ait pas été vigoureusement allégué. Quoi qu’il en soit, je ne vois aucun fondement à l’argument de la double imposition.
+[14] L’intimée fait valoir trois arguments :
+les dépenses n’ont pas été engagées dans le but de tirer un revenu d’une entreprise ou d’un bien;
+les dépenses refusées étaient de nature personnelle et n’ont été engagées que pour satisfaire à l’ordonnance du tribunal exigeant de M. Burley qu’il liquide son PRI afin d’effectuer les paiements d’égalisation à la dissolution de son mariage;
+la déduction des dépenses réclamées n’est autorisée par aucune disposition de la Loi ou elle est expressément interdite. En fait, les honoraires d’avocats, les frais de comptabilité et autres honoraires professionnels liés à la division ou au règlement du PRI découlant de la rupture d’un mariage sont expressément exclus aux termes de l’alinéa 60(o.1) de la Loi.
+Discussion
+[15] Un contribuable qui cherche à déduire une dépense d’un revenu d’entreprise ou de biens doit d’abord avoir une source de revenus provenant d’une entreprise ou d’un bien. Dans l’arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, la Cour suprême du Canada a établi un critère en deux étapes pour relever une source de revenu d’entreprise ou de biens :
+L’activité est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+[16] Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenus; dans le deuxième volet, on qualifie la source d’entreprise ou de bien. L’objectif du premier volet est simplement de faire la distinction entre les activités commerciales et les activités personnelles. Le contribuable doit démontrer que ses activités ont été exercées de manière objectivement professionnelle; toutefois, la Cour a clairement indiqué que l’attente raisonnable de profit du contribuable n’est pas déterminante en l’espèce, et il n’appartient pas à la Cour d’évaluer le sens des affaires du contribuable.
+[17] En l’espèce, il ne peut être nié que Business Allies a effectivement constitué une source de revenu d’entreprise pour M. Burley. En effet, il a tiré son gagne-pain de cette entreprise pendant des années. Après avoir déterminé que M. Burley avait une source de revenu d’entreprise, nous devons examiner la relation entre les dépenses réclamées et la source de revenu d’entreprise pour déterminer si les dépenses déclarées sont déductibles aux termes de la Loi. En règle générale, une dépense engagée par le contribuable conformément à des pratiques commerciales ou comptables bien acceptées est déductible, sauf si la Loi l’exclut expressément.
+[18] Le calcul du revenu ou de la perte provenant d’une entreprise ou d’un bien est décrit dans les dispositions de l’article 9 de la Loi qui prévoit ce qui suit :
+9(1) Revenu
+9 (1) Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+Perte
+(2) Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+[...] (3) [...]
+[19] Aux termes de l’article 9 de la Loi, un contribuable peut déduire les dépenses engagées pour gagner ce bénéfice, sous réserve des exceptions prévues par la Loi. L’article 18 de la Loi fixe des exceptions d’ordre générales aux déductions. L’alinéa 18(1)a) prévoit qu’une dépense n’est déductible que dans la mesure où elle a été engagée par le contribuable dans le but de tirer un revenu de l’entreprise. L’alinéa 18(1)h) interdit de déduire du revenu d’entreprise les frais personnels ou de subsistance. Les dispositions de ces deux alinéas sont rédigées ainsi :
+18(1) Exceptions d’ordre général
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+Restriction générale
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+[...] b) [...]
+[…]
+Frais personnels ou de subsistance
+h) le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[20] En outre, aux termes de l’article 67 de la Loi, un contribuable ne peut pas déduire une dépense « déraisonnable », même si cette dépense est par ailleurs déductible en vertu de la Loi.
+[21] Les honoraires d’avocats, les frais de comptabilité et les honoraires professionnels peuvent normalement être déduits comme dépenses professionnelles lorsqu’ils sont engagés dans le cours normal des activités génératrices de revenus d’une entreprise ou lorsqu’ils sont engagés pour défendre ces activités. En effet, comme l’a souligné M. Burley dans ses actes de procédure, il en est ainsi même si les honoraires d’avocats du contribuable ont été engagés pour le défendre contre des accusations pénales, pour autant qu’il soit démontré que l’activité ayant donné lieu aux accusations pénales fait partie intégrante de la réalisation du revenu illégal. Par exemple, non seulement le revenu d’une personne vivant des produits de la prostitution est imposable, mais les dépenses engagées pour gagner ce revenu sont également déductibles : M.N.R. c. Eldridge, [1964] C.T.C. 545 (Cour de l’Éch.). Permettre à un contribuable de déduire des dépenses pour un crime semblerait contrecarrer le Code criminel; cependant, les autorités fiscales ne se préoccupent pas de la nature légale d’une activité : Toth v. The Queen, [2004] 2 CTC 2537, au paragraphe 56.
+[22] Ce ne sont pas tous les frais juridiques qui sont déductibles. Pour être déductibles, les frais doivent être engagés dans le but de tirer un revenu. Dans la décision Solman v. Canada, [2000] T.C.J. No. 271, un avocat spécialisé dans les litiges commerciaux a été impliqué dans un nombre important de litiges matrimoniaux avec son ancienne épouse. Il a versé des honoraires d’avocats importants pour faire respecter les droits pécuniaires qui lui avaient été accordés par diverses décisions des tribunaux. Ces honoraires ont également été versés pour récupérer les trop-payés de pension alimentaire versés à sa femme et pour se protéger des fausses accusations portées contre lui par sa femme. Le juge Sarchuk de la Cour canadienne de l’impôt a estimé que ces frais n’avaient pas été engagés dans le but de tirer un revenu d’une entreprise ou d’un bien; les frais étaient des dépenses personnelles liées à sa rupture conjugale. Le juge Sarchuk a fait observer ceci au paragraphe 11 de ses motifs de décision :
+[traduction]
+11 [...] D’emblée, je dois dire que j’aurais beaucoup de mal à conclure que les honoraires d’avocat engagés dans le cadre d’une procédure matrimoniale ne sont pas des frais personnels. Les dépenses comme celles que l’appelant a engagées aux termes des ordonnances alimentaires sont essentiellement des dépenses de nature personnelle effectuées à partir du capital ou des revenus après qu’ils ont été gagnés.
+La décision Solman ne correspond pas exactement à la présente affaire, mais elle fournit quelques indications.
+[23] Dans la décision Leduc c. La Reine, 2005 CCI 96, un avocat a été accusé d’infractions pénales de nature sexuelle. Pour se défendre des accusations pesant contre lui, il a engagé des honoraires d’avocats s’élevant à 140 000 $. L’avocat a fait valoir que s’il ne se défendait pas contre les accusations et s’il était condamné, il perdrait son permis d’exercice du droit, ce qui, bien entendu, nuirait à sa capacité de gagner des revenus en tant qu’avocat. La juge Lamarre de la Cour (aujourd’hui juge en chef adjointe) a estimé que de tels honoraires d’avocats n’avaient pas été engagés dans le cadre de son entreprise en tant qu’avocat. Les frais étaient de nature personnelle et donc non déductibles du revenu de l’entreprise. La juge Lamarre a estimé que même si l’avocat n’avait pas pratiqué le droit, il aurait néanmoins engagé les frais juridiques en question pour se défendre devant les tribunaux contre les accusations criminelles. C’est l’activité qui a donné lieu aux accusations et son lien avec l’entreprise qui déterminent la déductibilité des frais juridiques liés à la défense.
+[24] La juge Lamarre de la Cour, s’appuyant sur les dicta du juge Iacobucci de la Cour suprême du Canada dans l’arrêt Symes c. Canada, [1993] 4 RCS 695, a indiqué au paragraphe 16 de ses motifs de décision qu’il peut être pertinent d’examiner si une déduction est habituellement autorisée à titre de dépense professionnelle par les comptables. De même, il est pertinent d’examiner si la dépense est habituellement engagée par d’autres dans une entreprise de même nature que celle du contribuable. Il est parfois utile d’examiner si une dépense donnée aurait été engagée si le contribuable ne visait pas la production d’un revenu d’entreprise. Si de fait tel est le cas, il y a de bonnes raisons de penser que la dépense sert une fin personnelle. La juge Lamarre a indiqué de plus au paragraphe 17 qu’il pourrait également être utile de recourir au critère des « besoins de l’entreprise ». Indépendamment de l’entreprise, le besoin existerait‑il? Si un besoin existe même en l’absence de l’activité d’entreprise, la dépense faite pour répondre à ce besoin serait une dépense personnelle.
+[25] À mon avis, on ne peut pas dire que les frais de liquidation d’un PRI établi par une société au nom d’un actionnaire sont engagés dans le cours normal des activités génératrices de revenus. En l’espèce, les honoraires d’avocats, les frais de comptabilité et autres honoraires professionnels ont été engagés précisément pour se conformer aux modalités de l’ordonnance de la chambre de la famille de liquider le PRI et de transférer 50 % de la valeur du plan à l’épouse de M. Burley dans le cadre de l’égalisation des éléments d’actif familiaux. Ces dépenses n’ont pas été payées dans le but de générer des revenus pour la société, le PRI ou le contribuable, ni pour défendre leurs activités génératrices de revenus. Il est peut-être vrai que, dans le passé, ces dépenses étaient en fait déductibles du revenu gagné par la société ou le PRI, mais c’était à l’époque où la société et le PRI étaient activement engagés dans des activités rémunératrices et ces dépenses étaient en fait engagées précisément dans ce but.
+[26] Il est regrettable que le mariage de M. Burley ait été rompu. La rupture du mariage a entraîné certaines conséquences juridiques telles que l’égalisation des éléments d’actif. Il arrive très souvent que le régime de pension d’un conjoint doive être partagé lors de la rupture d’un mariage. Par conséquent, même si M. Burley n’était pas un homme d’affaires, il aurait quand même dû partager les éléments d’actif familiaux, y compris les régimes de retraite, avec son épouse et il est donc très probable qu’il aurait quand même dû payer les frais liés à la liquidation du PRI.
+[27] Au moment de la liquidation de l’entreprise et du PRI, ceux-ci n’étaient engagés dans aucune activité génératrice de revenus. La société était en faillite et en cours de dissolution, et le PRI était en cours de liquidation afin de satisfaire à une ordonnance du tribunal portant sur la répartition du PRI. Les honoraires d’avocats, les frais de comptabilité et autres honoraires professionnels engagés par M. Burley étaient tout simplement trop éloignés des activités génératrices de revenus de la société et du PRI pour pouvoir bénéficier de déductions fiscales valables, et sans lien avec ceux-ci.
+[28] Je suis conforté dans mes conclusions par l’article 60 de la Loi, qui dispose en partie ce qui suit :
+Autres déductions
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+Frais judiciaires et extrajudiciaires [concernant la perte d’emploi ou les prestations de retraite]
+o.1) l’excédent éventuel du moins élevé des montants suivants :
+(i) le total des frais judiciaires ou extrajudiciaires, sauf ceux se rapportant au règlement ou au partage de biens découlant du mariage ou union de fait ou de son échec, payés par le contribuable au cours de l’année ou de l’une des sept années d’imposition précédentes pour recouvrer l’un des montants suivants ou pour établir un droit à ceux-ci :
+(A) une prestation prévue par quelque régime ou caisse de pensions [...] en raison de l’emploi du contribuable [...],
+[Non souligné dans l’original.]
+[29] Par conséquent, la déduction des frais juridiques liés à la division ou au règlement d’un régime de retraite à la suite d’une rupture de mariage est expressément interdite par la Loi.
+[30] Pour tous les motifs qui précèdent, j’estime que les honoraires d’avocats, les frais de comptabilité et autres honoraires professionnels engagés par M. Burley, pour la somme de 33 653 $, ont été engagés dans le but de se conformer aux modalités d’une ordonnance de la chambre de la famille rendue contre lui et dans le but de liquider et de partager son PRI dont il était le seul bénéficiaire. Les dépenses n’ont pas été engagées dans le but de tirer un revenu d’une entreprise ou d’un bien; Ces dépenses ont été engagées à des fins personnelles.
+[31] L’appel est donc rejeté.
+Signé à Kingston, Ontario, ce 24e jour de juillet 2020.
+« R. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2020 CCI 68
+NO DU DOSSIER DE LA COUR :
+2019-1007(IT)I
+INTITULÉ :
+DON H. BURLEY et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 12 mars 2020
+MOTIFS DU JUGEMENT
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 24 juillet 2020
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Zac Delong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+[EN BLANC]
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pièce R-1.
+[2] Voir la copie de l’ordonnance du tribunal déposée comme pièce R-2.

@@ -1,0 +1,156 @@
+---
+title: "Corsaut c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29768/index.do"
+last_modified: "2008-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 73"
+citation2: ""
+neutral_citation: "2008 CCI 73"
+decision_date: "2008-01-31"
+language: "fr"
+item_id: "29768"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6514
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:11:58.207000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09ee201024754ee4da43c40ae9ebdff32d31fae9a22788cd30148170623cace9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corsaut c. M.R.N.
+
+- Citation: 2008 CCI 73
+- Decision date: 2008-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6514, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corsaut c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-31
+Référence neutre
+2008 CCI 73
+Numéro de dossier
+2006-3068(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3068(EI)
+ENTRE :
+RONALD CORSAUT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 21 janvier 2008 à London (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Pascal Tétrault
+____________________________________________________________________
+JUGEMENT
+La décision rendue par le ministre est modifiée pour qu’il soit tenu compte du fait que M. Corsaut a travaillé 35 heures d’emploi assurable par semaine durant la période en cause et que sa rémunération assurable était fondée sur un salaire de 15 $ l’heure.
+Signé à Ottawa (Canada) ce 31e jour de janvier 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de mars 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A. Trad. jur.
+Référence : 2008CCI73
+Date : 20080131
+Dossier : 2006-3068(EI)
+ENTRE :
+RONALD CORSAUT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] En l’espèce, M. Ron Corsaut interjette appel d’une décision du ministre du Revenu national à l’égard d’une décision rendue par l’Agence du revenu du Canada (l’« ARC »), en vertu de la Loi sur l’assurance-emploi, quant à ses heures d’emploi assurable et à sa rémunération assurable durant la période débutant le 20 avril 2002 et se terminant le 25 avril 2003. Au début de l’audition du présent appel, l’avocat de la Couronne a demandé à ce que les dates et la période mentionnées dans sa réponse soient corrigées de façon à refléter ces dates.
+[2] L’avocat de la Couronne, au début de l’audition de l’appel, a aussi retiré les observations écrites qu’il avait précédemment présentées à la Cour, selon lesquelles l’appel n’avait pas été déposé dans les délais prescrits et la Cour n’avait pas compétence pour entendre un deuxième appel de M. Corsaut à l’égard du même emploi. Lorsqu’elle a formulé la première observation, la Couronne ne semble pas avoir tenu compte de l’ordonnance de prorogation de délai d’appel rendue par la juge Woods en 2006. Pour ce qui est de la seconde observation, elle est tout simplement incorrecte. Les articles 90, 91 et 103 de la Loi sur l’assurance‑emploi énoncent clairement que l’employé peut interjeter appel de toute décision mentionnée au paragraphe 90(1). Lorsque l’ARC rend plusieurs décisions, chacune d’entre elles peut être portée en appel devant le ministre en vertu de l’article 91, et chaque décision du ministre rendue en appel peut être portée en appel devant la Cour canadienne de l’impôt.
+[3] En 2005, l’appel interjeté par M. Corsaut devant le juge en chef de la Cour a été couronné de succès. Cet appel, Corsaut c. M.R.N., 2005CCI112, visait une décision antérieure de l’ARC portant qu’il n’avait pas occupé un emploi assurable durant la période en cause. Puisque, selon la décision rendue par la Cour en 2005, M. Corsaut avait occupé un emploi assurable, l’ARC devait déterminer sa rémunération assurable et ses heures d’emploi assurable afin de pouvoir calculer le montant de ses prestations d’assurance-emploi. Le présent appel porte sur ces déterminations. La décision de 2005 et le présent appel concernent le même emploi. Les périodes se chevauchent, mais elles ne sont pas identiques. L’appel de 2005 portait sur la situation d’emploi de M. Corsaut durant la période débutant le 28 avril 2001 et se terminant le 28 avril 2003. Le présent appel, à l’égard du calcul de ses prestations d’assurance-emploi, a trait à sa rémunération assurable et à ses heures d’emploi assurable durant la période du 20 avril 2002 au 25 avril 2003 seulement.
+[4] En 2007, M. Corsaut a brièvement comparu devant le juge Rossiter de la Cour dans le cadre de la présente affaire au sujet d’une question relative à l’incapacité de l’ARC d’obtenir des dossiers d’emploi et de l’information financière suffisants auprès de l’employeur, un particulier qui exploite une entreprise de vente et d’entretien de pneus pour véhicules automobiles.
+La preuve
+[5] Lors de son témoignage, M. Corsaut a affirmé avoir travaillé au magasin de pneus de 8 h à 18 h tous les lundis, mercredis et vendredis de la période visée par le présent appel, laquelle ne représente que la dernière partie de la période visée par la décision de 2005. Il a aussi dit qu’il travaillait durant une autre journée de la semaine, habituellement pour une bonne partie de cette journée. Il se rendait alors chez des vendeurs de pneus des environs afin de choisir des pneus usés ou abimés pour le magasin de son employeur.
+[6] M. Corsaut a aussi témoigné qu’il recevait un salaire horaire de 15 $ durant la période en cause et qu’on lui remettait son salaire net en espèces, déduction faite des retenues sur le salaire habituelles. Son salaire horaire était passé de 14 $ à 15 $ durant sa première année de travail. Aucune pièce corroborante n’a été présentée.
+[7] L’employeur a témoigné pour le compte de la Couronne. Il a confirmé que M. Corsaut travaillait 10 heures par jour tous les lundis, mercredis et vendredis. Il a nié l’affirmation voulant que M. Corsaut ait travaillé à d’autres moments ou qu’il ait eu du travail à faire chez des fournisseurs ou ailleurs à l’extérieur du magasin. Il a aussi nié avoir versé un salaire horaire de 15 $ à M. Corsaut. Il a clairement affirmé avoir toujours versé un salaire quotidien en espèces à M. Corsaut, et ce depuis l’embauche de ce dernier en 2001. Le salaire hebdomadaire qu’il a affirmé lui avoir versé pour ses dix heures de travail quotidiennes était de 90 $ en 2001, de 100 $ en 2002, puis de 110 $ en 2003. Il a dit n’avoir jamais effectué de retenues sur le salaire parce qu’il le payait en espèces. L’employeur a soutenu n’avoir eu d’autres employés que son propre fils et M. Corsaut pendant la période en cause. Durant le contre-interrogatoire, M. Corsaut a confronté son ancien employeur à la décision rendue en 2007 par le Tribunal d’appel de la sécurité professionnelle et de l’assurance contre les accidents du travail de l’Ontatio, laquelle révélait que l’employeur, dans son témoignage donné dans le cadre de cette instance, avait affirmé que M. Corsaut ne recevait qu’un salaire hebdomadaire variant entre 40 $ et 100 $. Le témoin a dit ne pas se souvenir d’avoir fait cette déclaration. M. Corsaut a aussi signalé au témoin que selon la décision du Tribunal d’appel de l’Ontario, il y avait plus d’un employé à cette époque. Encore une fois, le témoin a affirmé ne pas se rappeler avoir dit qu’il y avait des employés. Il n’avait d’autre souvenir que celui de la présence de fournisseurs et de flâneurs au magasin.
+[8] Le fils de l’employeur a aussi témoigné. Il était lui aussi employé à temps plein au magasin de pneus. Il a confirmé que M. Corsaut travaillait dix heures par jour tous les lundis, mercredis et vendredis. Il a corroboré le témoignage de son père selon lequel M. Corsaut ne travaillait pas les autres jours de la semaine, et ce ni au magasin, ni à d’autres endroits où il aurait ramassé des pneus. Il n’a pas su fournir de témoignage utile au sujet du taux de salaire que recevait M. Corsaut, puisqu’il ne s’occupait pas de la paye, hormis les quelques fois où il aurait donné 100 $ à M. Corsaut à la fin d’une journée.
+[9] Le dernier témoin qu’a appelé la Couronne est l’agente des appels de l’ARC qui a étudié la décision de cette dernière lorsqu’elle a été contestée et qui a rendu la décision faisant l’objet du présent appel. La même agente des appels avait aussi traité la décision ou l’évaluation établie à l’endroit de l’employeur quant à son employé, M. Corsaut. Cette dernière décision n’avait pas été portée en appel par l’employeur devant la Cour. Après que l’appel de M. Corsaut a été accueilli par le juge en chef Bowman en 2005, le juge ayant conclu que l’emploi de l’appelant était assurable, il était nécessaire que des décisions quant à sa rémunération assurable et à ses heures assurables soient rendues, et ce parce que ni l’employé ni l’employeur n’avaient fourni suffisamment d’information financière à l’ARC. Cette dernière n’a pas réussi à communiquer avec les parties à l’étape de la décision. Il semblerait que ni l’employeur, ni l’employé n’aient été satisfaits de la décision rendue par l’ARC, puisqu’ils l’ont tous deux portée en appel. Lors de la procédure d’appel, l’employeur et l’employé n’ont fourni aucun registre commercial ou financier. L’agente des appels s’est servie des chiffres fournis à titre d’estimation par le comptable de l’employeur. Selon ces chiffres, M. Corsaut aurait travaillé durant 30 heures par semaine et il aurait reçu un salaire horaire de 9 $ en 2001, de 10 $ en 2002 et de 11 $ en 2003. L’agente des appels s’est assurée que ces chiffres étaient comparables à ceux se trouvant dans les banques de données sur les professions de Service Canada auxquelles l’ARC avait accès avant d’en faire le fondement de sa décision.
+[10] L’agente des appels n’a pas expliqué son refus d’accepter les chiffres présentés par l’employé quant au nombre d’heures travaillées et à son salaire horaire. Bien que l’agente ait témoigné de façon claire, crédible et professionnelle, je m’interroge quant à la sagesse de la décision de la Couronne d’appeler, en tant que seul témoin venant de l’ARC, l’agente qui a tranché l’appel. M. Corsaut, comme d’autres Canadiens, a peut-être raison d’être surpris de voir la personne qu’on lui avait présentée comme une vérificatrice et une arbitre impartiale devenir l’unique témoin de la Couronne dans le litige qui l’a opposé à l’ARC. De plus, bien que cela ne rejaillisse pas sur l’agente des appels ou sur son témoignage, l’apparence ainsi créée, qu’un agent des appels a un intérêt personnel à ce que sa décision soit confirmée, est fâcheuse. Enfin, je ne comprends pas pourquoi la Couronne ne lui a pas demandé pour quelles raisons elle a cru la version des faits de l’employeur plutôt que celle de l’employé dans une affaire où aucune preuve ne permettait de corroborer l’une ou l’autre de ces versions.
+Conclusions
+[11] Je dois décider si j’accepte la version des faits de M. Corsaut, selon laquelle il travaillait environ 40 heures par semaine à un taux horaire de 15 $ durant la période visée par le présent appel; celle de l’employeur, selon laquelle M. Corsaut n’aurait travaillé que 30 heures par semaine à un taux horaire de 11 $ pendant la partie pertinente de 2003 et à un taux de 10 $ pendant la partie pertinente de 2002; ou encore si je crois, selon la prépondérance des probabilités, que le nombre d’heures travaillées et le taux horaire étaient différents. Pour ce faire, je dois d’abord me pencher sur les contradictions importantes entre les témoignages donnés par les deux parties lors du présent appel et ce qu’elles ont dit ou écrit auparavant.
+[12] Dans les motifs de sa décision de 2005, le juge en chef a très sagement mis en garde les juges appelé à juger de la crédibilité de témoignages contradictoires. Il a souligné l’importance de ne pas prendre ces décisions à la légère. Le juge en chef Bowman s’est exprimé en ces termes :
+[15] À la fin de l’instruction, il m’a semblé que les deux témoins étaient, sur le plan de la crédibilité, dans un match nul. J’ai donc pris le jugement en délibéré, en me fondant sur la décision que j’avais rendue dans l’affaire 1084767 Ontario Inc. (s/n Celluland) c. Canada, [2002] A.C.I. no 227 :
+[8] La preuve de chacun des deux témoins est radicalement opposée à celle de l’autre. J’ai pris le jugement en délibéré puisque je ne crois pas approprié de tirer à la légère des conclusions relatives à la crédibilité ou, de façon générale, de rendre ces conclusions oralement à l’audience. Le pouvoir et l’obligation d’établir des conclusions relatives à la crédibilité est l’une des plus lourdes responsabilités d’un juge de première instance. Le juge doit exercer cette responsabilité avec soin et après mûre réflexion puisqu’une conclusion défavorable de la crédibilité suppose que l’une des parties ment sous la foi du serment. Vouloir mettre un terme rapidement à une affaire ne peut être une excuse justifiant le mauvais usage de ce pouvoir. La responsabilité qui repose sur le juge d’un procès qui doit tirer des conclusions relatives à la crédibilité doit être particulièrement rigoureuse si l’on considère que l’on ne peut pratiquement pas en appeler de telles conclusions.
+Voir également la décision Chomica c. La Reine, 2003 DTC 535.
+[13] La version de M. Corsaut, selon laquelle il aurait été payé 15 $ l’heure (14 $ l’heure au cours de la première année) pour quatre jours de travail de dix heures chacun, est compatible avec le résumé de la preuve fait par le juge en chef Bowman dans le cadre de l’appel de 2005. Comme l’a si bien dit le juge en chef dans cette décision, M. Corsaut avait antérieurement présenté plusieurs chiffres différents quant au salaire net hebdomadaire qu’il touchait en espèces et au nombre d’heures travaillées. Les mêmes contradictions sont ressorties au cours du présent appel.
+[14] Dans de son témoignage lors du présent appel, l’employeur a clairement affirmé avoir toujours payé 90 $, puis 100 $ et ensuite 110 $ par journée de travail de 10 heures à M. Corsaut. Il a aussi dit que M. Corsaut travaillait 30 heures par semaine. Dans l’instance de 2005 qui s’est déroulée devant la Cour, l’employeur a affirmé, selon les motifs du juge en chef, que M. Corsaut n’avait jamais travaillé pour lui ni été son employé, et ce, malgré qu’il ait déclaré à d’autres fonctionnaires que M. Corsaut travaillait 15 heures par semaine ou bien qu’il l’aidait parfois.
+[15] Je conclus qu’il est plus vraisemblable que M. Corsaut ait travaillé 35 heures par semaine en contrepartie d’un salaire horaire brut de 15 $, même si son salaire net en espèces était inférieur en raison des retenues qui auraient dû être faites. Les cinq heures par semaine supplémentaires correspondent à la quatrième journée par semaine durant laquelle M. Corsaut a affirmé avoir travaillé une bonne partie de la journée, et elles reflètent le fait que le magasin n’était ouvert que durant sept heures plutôt que dix le samedi.
+[16] Après avoir considéré l’ensemble de la preuve, je trouve que la nouvelle version des faits présentée par l’employeur n’est nullement convaincante. Aucun document n’est venu appuyer les déclarations de l’employeur quant au salaire qu’il versait à M. Corsaut. Fait encore plus révélateur, son témoignage lors du présent appel est tout à fait incompatible avec celui qu’il a rendu devant la Cour en 2005 à propos de la même question (d’après le résumé qui en a été fait par le juge en chef dans ses motifs). Il est aussi incompatible avec son témoignage quant à l’emploi de M. Corsaut qu’a résumé le Tribunal d’appel de la sécurité professionnelle et de l’assurance contre les accidents du travail de l’Ontario dans sa décision de 2007. Bref, le juge en chef de la Cour, dans sa décision de 2005, a déjà porté un jugement défavorable quant à la crédibilité de l’employeur. Il est saisissant de voir que l’employeur offre maintenant à la Cour un récit complètement différent des mêmes faits.
+[17] Je me demande pourquoi le présent appel s’est rendu jusqu’au procès, alors que le seul témoin important de la Couronne est l’employeur, qui, après avoir témoigné sous serment devant la Cour que M. Corsaut n’avait jamais travaillé pour lui – témoignage que la Cour avait alors rejeté, – est maintenant venu affirmer que M. Corsaut a bien travaillé pour lui depuis le début, à raison de trois journées de travail de dix heures par semaine, et qu’il a reçu un salaire régulier, ce qui est corroboré par le fils de l’employeur. En raison de ces circonstances, l’ARC et le ministère de la Justice auraient facilement pu prévoir le résultat du présent appel.
+[18] La preuve au dossier était constante quant à un point, le fait que M. Corsaut était rémunéré en fonction d’un salaire horaire. Il a dit recevoir un certain montant pour chaque heure de travail. Selon l’employeur, il recevait un certain montant pour chaque journée de travail de dix heures. Tous deux ont témoigné que la rémunération était versée sur une base horaire. Puisque j’ai conclu que la rémunération assurable de M. Corsaut était de 15 $ l’heure, je n’ai pas à me pencher sur l’argument de la Couronne voulant que la Cour n’ait pas compétence pour modifier une décision quant aux heures assurables rendue en vertu du paragraphe 10(3) du Règlement sur l’assurance-emploi.
+[19] Un jugement modifiant la décision du Ministre sera rendu pour qu’il soit tenu compte du fait que M. Corsaut a travaillé 35 heures d’emploi assurable par semaine durant la période en cause et que sa rémunération assurable était fondée sur un salaire de 15 $ l’heure.
+Signé à Ottawa (Canada) ce 31e jour de janvier 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 13e jour de mars 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A. Trad. jur.
+RÉFÉRENCE :
+2008CCI73
+Nº DU DOSSIER DE LA COUR :
+2006-3068(EI)
+INTITULÉ :
+Ronald Corsaut et
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 21 janvier 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 31 janvier 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Pascal Tétrault
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Canada)

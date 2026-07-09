@@ -1,0 +1,114 @@
+Title: Stevenson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25793/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-252-25793-stevenson-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-04-07
+
+# Stevenson v. The Queen
+
+- Citation: 2004 CCI 252
+- Decision date: 2004-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3803, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevenson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-07
+Référence neutre
+2004 CCI 252
+Numéro de dossier
+2003-4280(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4280(IT)I
+ENTRE :
+ROBERT LOUIS STEVENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 25 mars 2004 à Nanaimo (Colombie-Britannique)
+Par : L'honorable juge D. W. Beaubier
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Stacey Michael Repas
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés conformément aux motifs du jugement ci-joints.
+Signé à Regina (Saskatchewan) ce 7e jour d'avril 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de juillet 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI252
+Date : 20040407
+Dossier : 2003-4280(IT)I
+ENTRE :
+ROBERT LOUIS STEVENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Nanaimo, en Colombie-Britannique, le 26 mars 2004. Seul l'appelant a témoigné.
+[2] Les paragraphes 4 à 9 de la Réponse à l'avis d'appel nous donnent un aperçu des questions en litige :
+[traduction
+]
+4. Le ministre a émis, par des avis datés du 27 février 2003, de nouvelles cotisations à l'égard de l'appelant pour les années d'imposition 2000 et 2001 refusant les frais et le remboursement de TPS qu'il avait réclamés.
+5. L'appelant s'est opposé aux nouvelles cotisations et a signifié au ministre un Avis d'opposition daté du 4 avril 2003.
+6. Le 12 septembre 2003, le ministre a confirmé les nouvelles cotisations émises à l'égard de l'appelant pour les années d'imposition 2000 et 2001, au moyen d'une notification portant la même date.
+7. Le ministre s'est fondé sur les mêmes hypothèses de fait, lorsqu'il a établi une nouvelle cotisation à l'égard de l'appelant dans le cadre des années d'imposition 2000 et 2001, pour émettre les nouvelles cotisations et pour les confirmer :
+a) Pendant l'année 2000, l'appelant était employé par Highway Constructors Ltd., (l' « employeur » );
+b) pendant l'année 2000, l'appelant a reçu de l'employeur un revenu d'emploi s'élevant à 59 858 $;
+c) pendant l'année 2001, l'appelant a reçu des revenus d'emploi des employeurs suivants :
+Employeur Revenu
+Highway Constructors - de janvier à juillet 2001 2 232 $
+Tracker Contracting Ltd.
+1 151 $
+Willms Enterprises Ltd. 796 $
+Formula Transport Ltd. 5 808 $
+d) pendant les années d'imposition 2000 et 2001, l'appelant n'a pas tenu de registre de son kilométrage;
+e) l'appelant n'a pas tenu de registre de ses frais;
+f) l'appelant n'a pas déposé les formulaires T2200 intitulés « Déclaration des conditions de travail » en même temps que ses déclarations de revenus correspondant aux années 2000 et 2001. Il n'a déposé les formulaires qu'à une date ultérieure;
+g) les frais comprenaient des montants que l'appelant avait dépensés relativement à des allers et retours entre sa résidence et les sites de construction où il travaillait;
+h) l'appelant a réclamé des frais sur la base de taux variés;
+i) l'appelant n'a pas engagé ces frais dans le cadre de son emploi.
+B. QUESTION EN LITIGE
+8. La question en litige est de savoir si l'appelant est en droit de déduire les frais.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES
+9. Il se fonde sur les paragraphes 8(1), 8(2) et 8(10), ainsi que sur les alinéas 8(1)h) et 8(1)h.1) de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5 e suppl.) dans sa version modifiée (la « Loi » ).
+[3] Seules les hypothèses 7e), f) et i) ont été réfutées. Voici ce que la Cour a conclu à leur sujet :
+e) L'appelant est un homme de 63 ans qui se consacre à la conduite de camions et d'équipement de construction. Normalement, il conservait un registre de ses dépenses. Cependant, après les années 2000 et 2001 pendant lesquelles il a travaillé au Island Highway à partir de son domicile à Campbell River, en Colombie-Britannique, et puis en Alberta, il a jeté les registres en question - probablement au cours d'un déménagement car il pensait qu'il devrait s'installer ailleurs pour trouver du travail.
+f) Après avoir reçu les cotisations, l'appelant s'est rendu compte qu'il avait besoin des formulaires T2200 pour les années en question et il les a obtenus auprès de Highway Contractors Ltd. Ils ont été déposés comme pièces au dossier.
+i) L'appelant a acquitté des frais dans le cadre de son emploi lorsqu'il a été obligé de se déplacer dans sa camionnette d'un site de construction à l'autre, selon les instructions de son employeur, lorsque la construction était arrêtée dans certains sites en raison de problèmes de construction ou de protection de l'environnement. Ces déplacements avaient lieu sur des chemins de construction difficiles ou sur des pistes montagneuses que seules des camionnettes à quatre roues motrices peuvent franchir. Ces frais s'élevaient à environ deux tiers du total, en raison de la rigueur du terrain et des problèmes mécaniques et de pneumatiques en découlant.
+[4] Il résulte que l'appelant a démontré avoir effectivement engagé des frais dans le cadre de son emploi et les formulaires T2200 lui donnent la possibilité de les réclamer. Le problème est qu'il n'a pas conservé ses reçus et que son comptable a fondé les réclamations sur plusieurs taux kilométriques, en combinant des déplacements personnels et des déplacements dans le cadre de son emploi. Ces taux kilométriques correspondent à ceux du gouvernement de la Colombie-Britannique pendant les années en cause et ils varient légèrement selon les régions.
+[5] Le dossier de l'appelant soulève un certain nombre de problèmes qui ont commencé lorsque son comptable a préparé les déclarations de revenus en question, et notamment les infractions suivantes aux règles :
+1. l'absence de jonction des formulaires T2200 à ses déclarations de revenus correspondant aux années en question.
+2. La contravention à l'obligation, pour un employé, de ne réclamer que les frais pouvant être vérifiés et à l'impossibilité, pour un employé, de réclamer sur la base d'un taux kilométrique.
+3. La contravention à l'interdiction, pour un commerçant ou un employé, de réclamer les frais de déplacement entre son domicile et son lieu de travail, ou ses frais de voyages personnels.
+[6] Lors de sa déposition, l'appelant n'a été en mesure que d'évaluer les déplacements personnels qu'il a effectués dans son camion, et il n'a pas évalué ses véritables frais ni été en mesure de les vérifier.
+[7] Il en résulte que la Cour croit que l'appelant a engagé certains frais de déplacement admissibles, mais qu'il n'a pas été capable d'en prouver le montant. De plus, ces problèmes existaient déjà et auraient pu être corrigés quand il a déposé ses déclarations de revenus.
+[8] Pour ces motifs, les appels sont rejetés.
+Signé à Regina (Saskatchewan) ce 7e jour d'avril 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 26e jour de juillet 2004.
+Ingrid B. Miranda, traductrice

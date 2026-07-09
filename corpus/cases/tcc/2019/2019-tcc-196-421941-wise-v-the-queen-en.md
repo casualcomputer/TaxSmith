@@ -1,0 +1,219 @@
+---
+title: "Wise v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/421941/index.do"
+last_modified: "2019-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 196"
+citation2: ""
+neutral_citation: "2019 TCC 196"
+decision_date: "2019-09-17"
+language: "en"
+item_id: "421941"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4183
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:44:39.247000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c1d6218916ef4e0291919e2baa1f2602ea28982f7c3cfcffa7ecf1cffb3a232"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wise v. The Queen
+
+- Citation: 2019 TCC 196
+- Decision date: 2019-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4183, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wise v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-09-24
+Neutral citation
+2019 TCC 196
+File numbers
+2016-3191(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Notes
+A correction was made on September 25, 2019
+Decision Content
+Docket: 2016-3191(IT)G
+BETWEEN:
+VALERIE WISE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 3rd, 2019, at Victoria, British Columbia.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the Appellant:
+J. Andre Rachert
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+AMENDED JUDGMENT [This Amended Judgment is issued in substitution of the Judgment dated September 17th, 2019]
+In accordance with the attached Reasons for Judgment, the appeal from a reassessment made under the Income Tax Act in respect of the Appellant’s 2011 and 2012 taxation years, is hereby allowed with costs to the Appellant in accordance with Tariff B.
+Signed at Ottawa, Canada, this 24th day of September 2019.
+“Guy R. Smith”
+Smith J.
+Citation: 2019 TCC 196
+Date: September 17, 2019
+Docket: 2016-3191(IT)G
+BETWEEN:
+VALERIE WISE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT [These Amended Reasons for Judgment are issued in substitution of the Reasons for Judgment dated September 17th, 2019]
+Smith J.
+I – Introduction
+[1] The Minister of National Revenue (the “Minister”) reassessed the Appellant for shareholder benefits of $457,663 and $164,006 for the 2011 and 2012 taxation years, respectively, and did so pursuant to subsection 15(1) of the Income Tax Act, R.S.C.1985, c.1 (5th Supp.), as amended (the “Act”).
+[2] As set out in the Reply to the Notice of Appeal, the Minister also argued in the alternative that the benefits should be included in the Appellant’s income pursuant to sections 3 and 5 and paragraphs 6(1)(a) of the Act. I note that none of these grounds were actually raised or addressed during the course of the hearing.
+II – The Issues
+[3] The sole issue in this appeal is whether the Appellant’s taxable income should be increased by the amount of the alleged shareholder benefit(s).
+III – The Background
+[4] The material facts are not in dispute and a Partial Agreed Statement of Facts was filed prior to the hearing. It is attached hereto as Annex A.
+[5] The Appellant and her son, Nicholas Wise (“Nicholas”) testified at the hearing. I find that they were both credible witnesses.
+[6] In September 2008, the Appellant and her husband, Robert Wise, purchased a building located at 225 Dundas Street (the “Building”) for the sum of $950,000. It was not listed for sale at the time and a building inspection was not carried out. It was owned and occupied by a medical clinic operated by a certain Dr. Murray who was also a family acquaintance.
+[7] Following the acquisition, the main floor and mezzanine as well as the basement were rented to the medical clinic pursuant to a two year lease to September 2010. Dr. Murray granted a vendor take-back mortgage to the Appellant and her husband, to assist with the acquisition-financing.
+[8] In the meantime, the Appellant and her husband commenced extensive renovations to the second floor, eventually occupying it as their residence in October 2009. It is not disputed that those renovation costs in the amount of $170,000, were paid by the Appellant and her husband from their personal funds.
+[9] Robert Wise eventually passed away in October 2010 and the Appellant became the sole owner of the Building. She continued to occupy the second floor.
+[10] The Appellant and Nicholas were the principal shareholders of Wise Victoria Mortgages Inc. (“WVM”), incorporated in 2009. Both were employed by WVM as mortgage brokers and realtors. They wished to relocate the business and occupy the Building once the medical clinic had vacated the premises.
+[11] On September 15, 2010, the Appellant and VWM entered into a five year lease (the “Lease”) containing an option for an additional five years.
+[12] The Appellant testified that she relied on her legal counsel for the preparation of the Lease including its duration. As between her and Nicholas, it was contemplated that VWM would occupy the premises indefinitely.
+[13] The Lease included “the street level and mezzanine floors and basement” with exclusive use of the parking area on the north side and patio on the east side.
+[14] The Lease provided for base rent of $2,200 per month, electricity costs that were to be separately metered as well as “Additional Operating Costs” described as 1) 100% of the “maintenance and landscaping of the parking area, garden and patio” and 2) two thirds (2/3) of “the repair or routine maintenance of the Premises”, including, inter alia, municipal charges, insurance, “exterior painting…maintaining the exterior of the Building” but “excluding structural repairs and repairs to or replacement of the walls, floors, foundation, roof or any structural component of the Building”, as described in clause 4.3(e)(i).
+[15] Despite the exclusion of “structural repairs”, as noted above, VWM as lessee was entitled, pursuant to clause 5.8, to “make or erect any alterations, additions or improvements in or to the Premises…” with the lessor’s consent.
+[16] It was clear from the testimonial evidence that the Appellant had authorized the proposed renovations but it was also understood that they would be paid for by VWM as it was intended that the Building would be the flagship for the business. Nicholas in particular testified as to the importance of the quality of the renovations as a means of attracting new clients.
+[17] According to the oral testimony, it was not possible to obtain a fixed price contract given the age of the building and the uncertainty surrounding the actual state of the premises. Also, it was necessary to meet the up-dated requirements of the municipal building code, which also added to the costs.
+[18] As a result, the original estimate of $150,000 increased to $250,000 and then ballooned to a total of $457,663 in 2011 and a further $164,005 in 2012.
+[19] It is not disputed that the renovation expenses (the “Renovation Expenses”) were much more than cosmetic. In fact they were extensive and included many structural changes and improvements including new insulation, replacement of windows, new bathrooms, new walls and flooring and replacement of the mechanical and electrical systems.
+[20] It is not disputed that VWM included the Renovations Expenses as Class 13 “leasehold improvements” and claimed capital cost allowance in respect thereof for the 2011 and 2012 taxation years.
+[21] It is also not disputed that VWM paid for the Renovation Expenses, that it was not reimbursed by the Appellant and that there was no agreement that she would do so. Also, the rent was not increased to reflect the improvements.
+[22] In March 2012, the Appellant obtained an appraisal of the Building for the purpose of obtaining a new mortgage to discharge the vendor take-back mortgage. Despite the cost of the renovations, including those to the upper floor (approximately $1,741,668), the fair market value was established at $1,250,000.
+[23] In or about May, 2013, VWM entered into an agreement for the sale of the leasehold improvements to Womble & Studebaker Holdings Ltd., a company wholly owned and controlled by the Appellant, for the sum of $560,000.
+[24] On or about the same date, the Appellant entered into an agreement for the transfer of a 2/3 interest in the Building to Womble & Studebaker Holdings Ltd.
+[25] These documents were prepared on the recommendation of the Appellant’s accountants or legal advisers and were intended to mitigate the effect of the Minister’s reassessment which is the subject of the present appeal.
+IV – The Law and Authorities
+[26] Although the Respondent has set out an alternative position, as noted above, it relies primarily on subsection 15(1) of the Act, the aim of which is to tax the value of benefits not otherwise included in a shareholder’s income.
+[27] As noted by V. Miller J. in Post v. The Queen, 2016 TCC 92 (para. 30), “one of the purposes of section 15 of the ITA is to prevent corporations from using an indirect means of conferring an untaxed economic benefit on its shareholders”. It provides as follows:
+15 (1) If, at any time, a benefit is conferred by a corporation on a shareholder of the corporation, on a member of a partnership that is a shareholder of the corporation or on a contemplated shareholder of the corporation, then the amount or value of the benefit is to be included in computing the income of the shareholder, member or contemplated shareholder, as the case may be, for its taxation year that includes the time, except to the extent that the amount or value of the benefit is deemed by section 84 to be a dividend or that the benefit is conferred on the shareholder (…)
+(My emphasis)
+[28] Most instances involving subsection 15(1), involve the conferral by the corporation of a personal benefit or advantage in the nature of accommodations or luxury vehicle, for example, used directly by a shareholder or family member.
+[29] In those instances, the Court must consider “the fundamental question of whether there was a shareholder benefit, and if so, how much it was worth”: Canada v. Fingold, (1997) 3 CTC 441 (“Fingold”).
+[30] In Fingold, a corporation controlled by the appellant acquired a penthouse condominium for $1.8 million and proceeded to renovate it at a further cost of $2.2 million. The Federal Court of Appeal concluded that the shareholder had enjoyed “a benefit consisting of a luxury home of his choice over which he had exclusive use and control” (para. 20) and that the value of the benefit could be calculated based on an appropriate “equity rate of return” of the actual costs incurred by the company in respect of the benefit.
+[31] Similarly, in Youngman v. The Queen, [1990] 2 C.T.C. 10 (“Youngman”), the subject company paid for the shareholder’s personal residence at a cost of $395,549. The shareholder then paid monthly rent of $1,100 but the Minister assessed a benefit of $37,251 per year based on a presumed equity rate of return on the funds expended by the company.
+[32] The Federal Court of Appeal indicated that “it is well settled that paragraph 15(1)(c) applies only when a shareholder has received, qua shareholder, a benefit or advantage from a corporation” and that in “valuing a benefit allegedly received…it is necessary to find what the shareholder would have had to pay for the same benefit in the same circumstances if he had not been a shareholder of the company” (para. 18).
+[33] In both Fingold and Youngman, it was apparent that the shareholders had received a personal benefit but the issue was primarily one of valuation. In both instances, the shareholders were assessed based on the value of the benefit in the taxation year in which it was received.
+[34] The earlier decision of Saint-Germain v. Minister of National Revenue, [1969] S.C.R. 471 (“Saint-Germain”), relied upon by the Respondent, involved a situation where the appellant had leased land and a building to a manufacturing company that he controlled. It undertook “substantial additions” over a three-year period and the Minister assessed a benefit pursuant to subsection 8(1) of the Act (the predecessor to subsection 15(1). The Supreme Court of Canada concluded that:
+4. These improvements and additions were for the use by the company in its business. The additions and improvements were carried out and paid for by the company and appear to have been carried in the company’s books as an asset.
+(…)
+9. It is clear to me that, from the very outset, it was never contemplated that these improvements and additions would be removed on the termination of the lease; with the exception of the shed, they were an integral part of, and permanent improvements and additions to, the existing buildings.
+(…)
+13. As I have stated, the lease, given by appellant to the company controlled by him, was a verbal one and on a month to month basis. The extensive additions and improvements made to the leased premises were of a permanent character, were integrated with the existing buildings and could not be removed with any conceivable economic advantage to the tenant. It was never contemplated that they would be removed (…).
+(My emphasis)
+[35] As noted by the Appellant in closing submissions, the conclusion reached in Saint-Germain appears to be predicated, in part, on a finding that the improvements were “of a permanent character” but also that the lease “was a verbal one and on a month to month basis”. As a result, the court concluded that the benefit was immediate and should be taxed in the year it was received.
+[36] In R. v. Neudorf, [1975] C.T.C. 192 (FCA) (“Neudorf”), also relied upon by the Respondent, the taxpayer owned premises that he rented to a company which he controlled. It paid for an addition to the existing building which it claimed as a “leasehold improvement” and deducted capital cost allowance.
+[37] The Minister assessed the shareholder on the basis that the addition “passed by operation of law to the defendant from the time it was erected” and accordingly that it should be characterized as a shareholder benefit.
+[38] Relying on Saint-Germain, the Federal Court of Appeal agreed, noting that “there was no written lease at the time the addition was constructed” and that a lease signed by the parties subsequent to the assessments, was “an ex post facto arrangement” and “a self-serving document prepared in an attempt to escape the consequences of taxation…” The implication is that, had there been a valid lease, a shareholder benefit would not necessarily have arisen.
+[39] The Respondent also relies on the decision of Soyko v. Minister of National Revenue, (1971) Tax A.B.C. 140 (Tax Appeal Board) where a company controlled by the shareholder had undertaken “extensive alterations and improvements”. The Appeal Board, citing the Saint-Germain decision, found that the shareholder had received a benefit based on the “well-known principle in law which says that the owner of the building becomes the owner of the improvements” (para. 8). In that decision, the Court noted that the lands and building were “rented by verbal agreement”.
+[40] The Appellant relies on the decision of Kennedy v. Minister of National Revenue, [1973] CTC 437 (Federal Court of Appeal) (“Kennedy”) where a shareholder benefit, inter alia, was assessed where a company controlled by the shareholder had built an addition on property leased from the shareholder for a period of four and a half years.
+[41] The Minister assessed the shareholder on the basis that the expenditure conferred a benefit equal to the cost of the improvement. But the Federal Court of Appeal did not agree and Jackett CJ indicated as follows:
+15. (…) Where a tenant improves the leased premises, the extent to which, if at all, the improvement confers a benefit on the landlord will depend on the extent to which the improvement increases the value of the reversionary interest and that, in turn, will depend on the term and conditions of the lease and on the nature of the improvement. If there is a long term lease, it may be that no benefit will be conferred at all. Compare King v. Earl Cadogan, (1915) 3 K.B. 485 (CA). If the lease is a monthly tenancy, the result may be equal to the amount by which the value of the property was improved. Compare St-Germain v. Minister of National Revenue, (1969) S.C.R. 472, (1969) C.T.C. 194, 69 D.T.C. 5086 (…)
+(…)
+20. (…) having regard to the fact that there were at least three and half years left in the lease of the property at the fixed rent and not a mere month to month tenancy as in the St. Germain case, in my view, the amount of the benefit was not equivalent to the amount spent on the improvement.”
+(My emphasis)
+[42] Similarly, in Chandler v. the Queen, 2003 TCC 34 (informal Procedure), (“Chandler”) relied upon by the Appellant, the taxpayer owned real property as well as a controlling position in an operating company that erected a structure thereon in 1999. Three years later, the parties entered into a ten-year lease. The Minister assessed a shareholder benefit equal to the costs incurred.
+[43] The Court indicated that the lease could not “retroactively eradicate the benefit if one was conferred in 1999” but found that the document “formalized an arrangement of the sort intended at the outset” and that on the basis of the oral testimony, it was satisfied that the improvement had been made in response to the specific needs of the tenant and not as “a device conceived with a view to conferring a benefit on the Appellant as shareholder” (para 12).
+[44] In Melançon v. The Queen, 2018 TCC 73, (“Melançon”), the shareholder’s construction company completed leasehold improvements and occupied the basement of the shareholder’s personal residence. It then claimed capital cost allowance of the value of the improvements over a three year period before vacating and leaving the improvements intact.
+[45] Though there was no lease, the Minister assessed imputed rent for the duration of the occupation and, more to the point, assessed the appellant for the residual value of the leasehold improvements at that time – and not the initial cost of the improvements made three years earlier. The assessment was upheld.
+[46] The Respondent relies on two decisions to support the contention that even if there is an existing lease, given use of the words “at any time” in subsection 15(1), a shareholder benefit may be calculated in the taxation year in which such costs are incurred : Angle v. Minister of National Revenue, (1969) C.T.C. 624 (“Angle”) and Colubriale v. The Queen, (2005) FCA 329 (“Colubriale”).
+[47] In Angle, a company controlled by the appellant shareholder, paid for and installed a swimming pool at her residence. The shareholder then purported to lease the property to the company. The Court considered the permanent nature of the improvement in light of the principle set-out in Saint-Germain and, finding that the lease was “ineffective”, determined that there was a shareholder benefit equal to the cost of the installation in the same taxation year.
+[48] In Colubriale, Noel J. (as he then was) indicated that improvements made by a tenant “would have been taxable in the years in which they were conferred” (para. 36). However, that assertion appears to be obiter dicta since the Court also found that there was no evidence as to “the cost of the work or when it was done” (para. 4). In other words, the issue was not really before the court.
+[49] As argued by the Appellant, the approach set out in Kennedy and Chandler appears to be consistent with CRA Technical Interpretation IT-432R2 (1995) which, although not binding on this Court, is instructive:
+10. A corporation that is renting a building owned by a shareholder may make an addition or improvement to the building. If such an addition or improvement vests in the owner of the building, a benefit is considered to have been conferred on the shareholder by the corporation pursuant to subsection 15(1). The amount of the benefit is considered to be the present value of the amount, if any, by which the addition or improvement increases the value of the building to the shareholder at the time the building reverts to the shareholder. (…).
+(My emphasis)
+[50] This appears to confirm the qualification made by the Federal Court of Appeal in Kennedy to the broad principle set out in the Saint-Germain decision.
+[51] Whether an improvement increases the value of a landlord’s reversionary interest will depend on the terms and conditions of the lease – “and if there is a long term lease, it may be that no benefit will be conferred at all” (Kennedy, para. 15).
+[52] Black's Law Dictionary (6th edition, West Publishing, St. Paul, 1990) defines a “reversionary interest” as follows:
+The interest which a person has in the reversion of lands or other property. A right to the future enjoyment of property, at present in the possession or occupation of another. The property that reverts to the grantor after the expiration of an intervening income interest. Assume, for example, G places real estate in trust with income to A for eleven years and, upon the expiration of this term, the property returns to G. Under these circumstances, G has retained a reversionary interest in the property. A reversionary interest is the same as a remainder interest except that in the latter case the property passes to someone other than the original owner (e.g., the grantor of a trust) upon the expiration of the intervening interest.
+(My emphasis)
+V – Analysis
+[53] As noted by the Respondent, in matters of taxation, form matters (Canada v. Friedberg (1989) 1 C.T.C. 274, at para. 5) such that the Court cannot, in this instance, lose sight of the fact that the Appellant and WVM had entered into a five year lease with an option for a further five year renewal.
+[54] The oral testimony confirmed that WVM was still in possession of the leased premises at the time of this hearing and that the intention of the parties was that it would remain in possession for a much longer period of time.
+[55] The Respondent argues that the Lease did not provide for the extensive structural improvements that took place. While it is true that the Lease excluded “structural repairs”, a further provision allowed the tenant to make structural changes to the leased premises with the prior consent of the landlord.
+[56] The Appellant’s oral testimony was that she had consented to those structural changes as long as they were paid for by WVM who would directly benefit from them for at least the term of the Lease.
+[57] The Respondent argues that the monthly lease payments were not increased to reflect the value of the Renovation Expenses. I am not convinced that this is determinative of the issue since the oral testimony established that the basic rent agreed to at the commencement of the lease period reflected commercial rates for the building taken “as is”. The Minister appears to have agreed to this.
+[58] The Respondent argues that an arm’s length commercial tenant would never have agreed to pay rent of $26,400 per year ($2,200 per month) as well as the equivalent of $62,166 per year, being the value of the Renovation Expenses amortized over the duration of the lease.
+[59] I find that the Minister’s position is speculative and that, in any event, this assumption has been refuted by the oral testimony. Nicholas emphasized the importance of the quality of the improvements and the desire to renovate a heritage building as an iconic or flagship head office for WVM.
+[60] As argued by the Appellant, the Renovations Expenses quickly ballooned given the age of the building and the need to meet municipal by-laws. They had little control over those costs but were determined to complete the project.
+[61] It is neither unusual nor surprising that a taxpayer would incur substantial costs in the renovation of a heritage building. However, it is not the role of this Court to second-guess the business acumen or judgment of the taxpayer incurring those costs. As argued by the Appellant, the Minister has not expressly relied on section 67 of the Act or suggested that the costs were “unreasonable”.
+[62] It is apparent, as argued by the Respondent, that some of the Renovation Expenses were incurred for structural improvements “of a permanent character”, as described in Saint-Germain, including the electrical and mechanical systems, for example. However, in light of the leasehold interest granted to VWM (which could extend beyond the 10 year term), it is not possible for the Court to quantify the value of the alleged shareholder benefit or to speculate as to the life-expectancy or residual value to the Appellant. That is a matter for another day.
+[63] In Angle, Noel J. explained that that the application of subsection 15(1) involves the taxation of a shareholder benefit “equal to the value of the property appropriated” (para. 33) but “the benefit must be real” (para. 27) and “in the absence of a real benefit, there is no legal fiction whereby a benefit is deemed to exist…”. The evidence must show that the shareholder “did in fact receive a benefit” (para. 28). In this instance, I am satisfied that she did not.
+[64] In other words, despite the use of the words “at any time” in subsection 15(1), the Court must conclude that the residual value of the leasehold improvements cannot be quantified until such time as they revert back to the Appellant. If the Minister felt otherwise, it was incumbent on it to produce evidence to the contrary, possibly in the form of an expert report.
+VI - Conclusion
+[65] As to whether the Appellant received a shareholder benefit pursuant to subsection 15(1) in connection with the leasehold improvements made during the subject taxation years, the Court finds that she did not.
+[66] Consistent with the authorities cited above, notably Kennedy and Chandler, the residual value of her reversionary interest will have be to evaluated in due course, assuming WVM eventually decides to vacate the premises.
+[67] As to the agreements (as described above) that were allegedly prepared and intended to mitigate the effect of the reassessments which are the subject of the present appeal, the Court agrees with the Respondent they are best described as an “ex post facto arrangement” which cannot be given any retrospective effect. Whatever their effect, they are not relevant to the issues before the Court.
+[68] I find that the alternative grounds advanced by the Minister, as set out above, are not applicable in this instance.
+[69] As a result of the foregoing, the appeal must be allowed.
+Signed at Ottawa, Canada, this 24th day of September 2019.
+“Guy R. Smith”
+Smith J.
+Annex A
+CITATION:
+2019 TCC 196
+COURT FILE NO.:
+2016-3191(IT)G
+STYLE OF CAUSE:
+VALERIE WISE AND THE QUEEN
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+September 3, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Guy R. Smith
+DATE OF JUDGMENT:
+DATE OF AMENDED JUDGMENT:
+September 17, 2019
+September 24, 2019
+APPEARANCES:
+Counsel for the Appellant:
+J. Andre Rachert
+Counsel for the Respondent:
+Cédric Renaud-Lafrance
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+J. Andre Rachert
+Firm:
+Cook Roberts LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

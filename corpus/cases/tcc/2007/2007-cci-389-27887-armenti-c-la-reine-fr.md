@@ -1,0 +1,211 @@
+---
+title: "Armenti c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27887/index.do"
+last_modified: "2007-08-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 389"
+citation2: ""
+neutral_citation: "2007 CCI 389"
+decision_date: "2007-08-21"
+language: "fr"
+item_id: "27887"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1735
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:22:56.339000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0c2fae69effc98def178f7948126b860626ee0f51bb7be2ece47632c97a1302"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Armenti c. La Reine
+
+- Citation: 2007 CCI 389
+- Decision date: 2007-08-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1735, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Armenti c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-21
+Référence neutre
+2007 CCI 389
+Numéro de dossier
+2005-4492(IT)G
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-4492(IT)G
+ENTRE :
+DOMENIC ARMENTI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 avril 2007 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Ovadia
+Avocate de l'intimée :
+Me Stéphanie Côté
+___________________________________________________________________
+JUGEMENT
+L'appel interjeté à l’encontre de la cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 est accueilli, avec dépens, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 21e jour d'août 2007.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 3e jour d’octobre 2007
+Hélène Tremblay, traductrice
+Référence : 2007CCI389
+Date : 20070821
+Dossier : 2005-4492(IT)G
+ENTRE :
+DOMENIC ARMENTI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'un appel interjeté sous le régime de la procédure générale à l’encontre d'une cotisation au montant de 53 011 $ établie à l'égard de l'appelant par le ministre du Revenu national (le « ministre ») en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi ») pour les années d'imposition 1999 et 2000.
+Les faits
+[2] L'appelant est le fils de M. Enzo Armenti, le président, l'administrateur et l'unique actionnaire de la société Le Groupe Armenti Inc. (la « société »). La société œuvrait dans le domaine de l'excavation. Elle n'a pas produit de déclaration de revenus pour les années d'imposition 1999 à 2001. Pendant ces mêmes années, la société Les Excavations Super Inc. (« Excavation ») a octroyé à la société des contrats d'excavation totalisant environ 200 000 $. Les revenus provenant de ces contrats ne furent jamais déclarés par la société.
+[3] Les transactions bancaires de la société en 1999 et en 2000 s'effectuaient à partir d'un compte qu'elle avait à la Caisse populaire de Notre‑Dame‑de‑Grâce (la « Caisse »). M. Enzo Armenti était, pendant ces mêmes années, la seule personne autorisée par la société à transiger sur ce compte. Il convient de souligner que ce compte faisait l'objet de plusieurs saisies pendant ces mêmes années dues aux sérieuses difficultés financières qui accablaient la société.
+[4] Pendant les années 1999 et 2000, Excavation a émis notamment trois chèques en contrepartie des services rendus par la société.
+[5] Ainsi, en septembre 1999, Excavation tirait un premier chèque[1] sur son compte bancaire de 46 010 $ payable à l'ordre de la société. Ce chèque fut endossé dans un premier temps par M. Enzo Armenti, tel qu'autorisé par la société, puis dans un deuxième temps par l'appelant, qui encaissa la somme de 46 010 $ à la Caisse où il détenait lui‑même un compte bancaire. Le numéro du compte bancaire de l'appelant apparaissait aussi à l'endos du chèque.
+[6] En novembre 1999, Excavation tirait un deuxième chèque[2] sur son compte bancaire de 2 000 $ payable à l'ordre de la société. Ce chèque fut endossé dans un premier temps par M. Enzo Armenti, tel qu'autorisé par la société, puis dans un deuxième temps par l'appelant, qui encaissa la somme de 2 000 $ à la Caisse où il détenait lui‑même un compte bancaire. Les numéros de comptes bancaires de l'appelant et de son père apparaissaient aussi à l'endos du chèque.
+[7] L'appelant, dont la crédibilité n'a pas à être mise en doute dans la présente affaire, a affirmé dans son témoignage qu'il avait remis la totalité des montants ainsi encaissés à son père. Son témoignage à l'égard des circonstances de l'encaissement des deux chèques mérite d'être cité[3] :
+[traduction]
+« Q. Pouvez-vous nous expliquer les circonstances qui ont mené à l’encaissement de ce chèque?
+R. Bien, il s’adonnait que je devais me rendre à la banque ce jour‑là, et mon père, Enzo Armenti, m’a demandé de lui rendre service.
+Q. Pourriez‑vous […]
+R. Oh! Je suis désolé. Excusez-moi.
+Q. […] vous adresser directement au juge?
+R. Oui, je suis désolé. Mon père, Enzo Armenti, m’a demandé de lui rendre service et d’aller encaisser le chèque pour lui, étant donné que j’allais à la banque et qu’il devait travailler toute la journée. »
+[8] En août 2000, conformément à une directive de paiement donnée par la société[4] à Excavation, cette dernière tirait un chèque de 29 011 $ sur son compte bancaire payable à l'ordre de M. Enzo Armenti personnellement en paiement des services qui lui avaient été rendus par la société. Seule la signature de M. Enzo Armenti apparaissait à l'endos de ce chèque, ainsi que le numéro du compte bancaire personnel qu'il détenait à la Caisse. À cet égard, M. Enzo Armenti, dont la crédibilité n'a pas été mise en doute, a affirmé dans son témoignage qu'il avait personnellement encaissé ce troisième chèque à la Caisse et qu'il avait demandé que soit déposé une partie du montant du chèque, soit une somme de 5 000 $, dans le compte bancaire de l'appelant. Il a expliqué que cette somme de 5 000 $ avait été déposée dans le compte bancaire de son fils en paiement partiel des arriérages de loyer qu'il devait à son fils. Il convient de souligner à cet égard que M. Enzo Armenti habitait alors une résidence qui était la propriété de l'appelant et qu'ils étaient liés par un bail qui fut produit en preuve sous la cote A‑4.
+La question en litige
+[9] La seule question en litige est la suivante : Ces trois chèques ont-ils fait l'objet d'un transfert en vertu de l'article 160 de la Loi entre la société et l'appelant avec ou sans contrepartie suffisante?
+La position de l'intimée
+[10] L'intimée soutient dans un premier temps que la réponse à la question à savoir s'il y a eu transfert en l'espèce entre la société et l'appelant se trouve dans les dispositions pertinentes de la Loi sur les lettres de change, L.R.C. (1985), ch. B‑4 (la « LLC ») :
+INTERPRÉTATION
+2. [Définitions] Les définitions qui suivent s’appliquent à la présente loi.
+[« livraison » “delivery”] Transfert de possession réelle ou présumée d’une personne à une autre;
+[…]
+Forme de la lettre et interprétation
+16. (1) [Lettre de change] La lettre de change est un écrit signé de sa main par lequel une personne ordonne à une autre de payer, sans condition, une somme d’argent précise, sur demande ou à une échéance déterminée ou susceptible de l’être, soit à une troisième personne désignée – ou à son ordre –, soit au porteur.
+[…]
+20. (1) [Négociabilité] La lettre qui comporte une clause en interdisant la cession ou indiquant l’intention de la rendre non cessible est valable entre les parties intéressées, mais n’est pas négociable.
+(2) [Lettre négociable] Une lettre négociable peut être payable à ordre ou au porteur.
+(3) [Payable au porteur] La lettre est payable au porteur lorsqu’elle comporte une clause à cet effet ou lorsque l’unique ou le dernier endossement est un endossement en blanc.
+[…]
+39. (1) [Formalités] Entre les parties immédiates et en ce qui concerne toute autre partie qui n’est pas détenteur régulier :
+a) la livraison doit, pour produire son effet, être faite par le tireur, l’accepteur ou l’endosseur, selon le cas, ou avec leur autorisation;
+b) il n’est pas nécessaire que la livraison vise au transfert de propriété de l’effet, mais peut être manifestement conditionnelle ou avoir été faite à une autre fin particulière.
+(2) [Présomption] Le fait que la lettre soit entre les mains d’un détenteur régulier est la présomption irréfragable qu’une livraison valable de l’effet a été effectuée par toutes les parties antérieures de façon à les obliger envers lui.
+40. [Présomption de livraison] La lettre qui n’est plus entre les mains de la personne qui l’a signée comme tireur, accepteur ou endosseur est réputée, jusqu’à preuve contraire, avoir été livrée valablement et sans condition par celle‑ci.
+[…]
+Négociation
+59. (1) [Par transfert] Il y a négociation quand le transfert de la lettre constitue le cessionnaire en détenteur de la lettre.
+(2) [Par livraison] La lettre payable au porteur se négocie par livraison.
+(3) [Par endossement] La lettre payable à ordre se négocie par endossement du détenteur.
+[…]
+62. (1) [Endossement avec signature seulement] L’endossement peut consister seulement dans la signature de l’endosseur.
+[…]
+66. (1) [Endossement] L’endossement peut être en blanc ou spécial.
+(2) [Endossement en blanc] L’endossement en blanc ne désigne aucun endossataire, l’effet devenant ainsi payable au porteur.
+(3) [Endossement spécial] L’endossement spécial désigne la personne à qui ou à l’ordre de qui la lettre est payable.
+(4) [Application de la loi] Les dispositions de la présente loi relatives au preneur s’appliquent, compte tenu des adaptations de circonstance, au bénéficiaire d’un endossement spécial.
+(5) [Conversion d’un endossement en blanc] Le détenteur d’une lettre peut convertir l’endossement en blanc en endossement spécial en inscrivant au‑dessus de la signature de l’endosseur la mention de son nom ou de payer à son ordre, ou à celui d’un tiers.
+[…]
+[Non souligné dans l’original.]
+[11] À l'égard des deux premiers chèques, en s'appuyant sur les dispositions pertinentes de la LLC qui prévoient qu'un chèque endossé en blanc est payable au porteur, donc à celui qui en a la possession, l'intimée soutient que, lorsque M. Enzo Armenti, à titre de personne autorisée par la société, a remis les deux chèques endossés en blanc à son fils, la société, par son représentant, a automatiquement transféré à l'appelant la propriété des deux chèques ou du droit de recevoir le produit des deux chèques. De plus, l'intimée prétend que ces transferts ont été faits sans contrepartie, puisque l'appelant a remis la totalité des sommes encaissées à son père personnellement qui, toujours selon l'intimée, n'était pas l'auteur du transfert.
+[12] Subsidiairement, l'intimée soumet que la contrepartie versée par l'appelant ne constitue pas une contrepartie au sens de l'article 160 de la Loi, car elle découle d'une obligation morale qu'avait l'appelant de remettre les sommes ainsi encaissées à son père. L'intimée appuie sa prétention à cet égard sur la décision de la Cour d'appel fédérale dans l'arrêt Raphael c. Canada, 2002 A.C.F. 23.
+[13] L'intimée soutient aussi que la société, par son représentant, M. Enzo Armenti, n'a pas donné de mandat à l'appelant d'encaisser pour elle ces deux chèques, puisqu'en fonction des dispositions pertinentes de la LLC, un transfert de propriété a eu lieu lorsque la société a remis les deux chèques endossés en blanc à l'appelant, alors que dans le cadre d'un mandat, il ne peut y avoir un transfert de propriété.
+[14] Finalement, l'intimée soutient que si j’en venais à conclure que les transferts ont plutôt eu lieu dans un premier temps entre la société et le père, puis entre le père et le fils, il y aurait de toute façon application en cascade de l'article 160 de la Loi. À cet égard, l'intimée s'appuie sur la décision de la Cour d'appel fédérale dans l'arrêt Jurak c. Canada, 2003 A.C.F. 58.
+L'analyse et la conclusion
+Le droit
+[15] Le paragraphe 160(1) de la Loi est rédigé en ces termes :
+ARTICLE 160 : Transfert de biens entre personnes ayant un lien de dépendance
+(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens,
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années,
+ou d’une aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[Non souligné dans l’original]
+[16] La Cour d’appel fédérale, dans l’affaire Raphael précitée, a réitéré les conditions d’application du paragraphe 160 (1) de la Loi :
+4 Le juge de la Cour de l'impôt a énoncé quatre conditions à remplir pour que le paragraphe 160(1) s'applique; ce faisant, il suivait une décision de la Cour de l'impôt, Doreen Williams c. La Reine, n° 98-1604, 4 juillet 2000. Il s'agissait des conditions ci-après énoncées:
+1) il doit y avoir eu un transfert de biens;
+2) il faut que l'auteur et le bénéficiaire du transfert aient un lien de dépendance;
+3) le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l'auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante);
+4) l'auteur du transfert doit payer un montant en vertu de la Loi au cours de l'année dans laquelle les biens ont été transférés ou d'une année antérieure.
+[Non souligné dans l’original.]
+Je retiens de l'arrêt Raphael, précité, que toutes et chacune des conditions qui y sont énumérées doivent être rencontrées pour que l'appelant puisse être tenu responsable solidairement des dettes fiscales de la société.
+Le premier et le deuxième chèques
+[17] Dans un premier temps, j’examinerai la question de savoir s'il y a eu un transfert des deux premiers chèques entre la société et l'appelant, soit la première des conditions d'application du paragraphe 160(1) de la Loi énoncée dans l'arrêt Raphael, précité. L'intimée soumet que c'est plutôt la société, par l'entremise de son représentant autorisé, M. Enzo Armenti, qui a remis les deux premiers chèques endossés en blanc à l'appelant, et non le père à titre personnel qui a remis à son fils les deux chèques. Autrement dit, l'intimée prétend qu'il n'y a pas eu de transfert entre la société et le père. La question de savoir qui, de la société ou du père, a remis les deux chèques à l'appelant mériterait une détermination si la remise de ces deux chèques endossés en blanc constituait un transfert au sens du paragraphe 160(1) de la Loi. Or, à mon avis, la remise d'un chèque endossé en blanc ne constitue pas automatiquement, aux fins du paragraphe 160(1) de la Loi, un transfert. L'intimée soutient que, en s'appuyant sur les dispositions pertinentes de la LLC, la remise d'un chèque endossé en blanc constitue un transfert étant donné que la personne qui a le chèque en sa possession à la suite de la remise en devient automatiquement propriétaire ou obtient le droit de l'encaisser. À mon avis, les dispositions pertinentes de la LLC permettent tout simplement aux tiers de présumer que la personne qui a un chèque endossé en blanc en sa possession en est le propriétaire et qu'elle a aussi le droit de l'encaisser. La LLC ne permet pas pour autant de qualifier la nature de la transaction intervenue en l'espèce entre la personne qui a remis le chèque endossé en blanc et la personne qui a reçu le chèque. En l’espèce, la preuve a révélé que le père, peu importe que ce soit à titre personnel ou à titre de représentant autorisé par la société, n'a jamais voulu transférer la propriété de ces deux chèques à l'appelant, pas plus qu'il n'a voulu que la propriété de ces deux chèques soit dévolue à l'appelant. En aucun temps l'appelant n'a eu le droit d'utiliser, de jouir ou de disposer à sa guise de ces deux chèques. Ainsi, contrairement à la disposition de l'entreprise à l'effet qu'il ne pouvait s'agir en l'espèce d'un mandat, je suis d'avis que la transaction intervenue entre le père, que ce soit à titre personnel ou à titre de représentant autorisé par la société, et le fils était de la nature d'un mandat au sens du Code civil du Québec. En effet, la preuve a révélé très clairement en l'espèce que le père, que ce soit personnellement ou à titre de représentant autorisé de la société, a tout au plus donné à l'appelant le mandat d'encaisser ces deux chèques et de lui remettre les sommes ainsi encaissées, mandat qui a été exécuté à titre gratuit par l'appelant. Puisqu'il n'y a jamais eu, en l'espèce, de transfert de propriété de ces deux chèques à l'appelant, je suis d'avis que, en ce qui concerne les chèques en question, l'appelant ne peut être solidairement tenu responsable des dettes fiscales de la société, à l'égard de ces deux chèques.
+Le troisième chèque
+[19] En ce qui concerne le troisième chèque de 29 011 $, la situation est fort différente de celle concernant les deux premiers chèques. En effet, conformément à une directive de paiement donnée par la société à Excavation, cette dernière tirait un chèque de 29 011 $ sur son compte bancaire payable à l'ordre de M. Enzo Armenti personnellement, et ce, en paiement de services qui lui avaient été rendus par la société. Ce qui, à mon avis, a donné lieu à un transfert d'une somme de 29 011 $ de la société au père de l’appelant. Par la suite, le père encaissa le produit de ce chèque à la Caisse à l'exception d'une somme de 5 000 $ pour laquelle il exigea qu'elle soit déposée directement dans le compte bancaire que l'appelant détenait dans cette même institution. Ceci donna donc lieu, à mon avis, à un deuxième transfert, soit un transfert d'une somme de 5 000 $ du père à son fils. Je rappelle que la preuve a aussi relevé que le père avait transféré cette somme de 5 000 $ à son fils en paiement d'arriérages de loyer.
+[20] En l'espèce, il y a donc eu un transfert d'une somme de 5 000 $ entre le père et le fils, deux personnes ayant un lien de dépendance. Mais encore faut‑il, pour que l'appelant soit tenu responsable en vertu de l'article 160 de la Loi des dettes fiscales de son père, dont la preuve n'a pas été faite, que ce deuxième transfert ait été fait sans contrepartie ou encore sans contrepartie suffisante. Or, en l'espèce, la contrepartie était suffisante puisque le père, en faisant déposer la somme de 5 000 $ dans le compte de banque de son fils, a payé une partie des arriérages de loyer qu'il lui devait.
+[21] S'appuyant sur les enseignements de la Cour d'appel fédérale dans l'arrêt Jurak, précité, qui a confirmé en quelque sorte le principe de l'application en cascade de l'article 160 de la Loi, l'intimée soutient que ce deuxième transfert de 5 000 $ a entraîné la responsabilité solidaire de l'appelant pour un montant équivalent. À mon avis, le principe de l'application en cascade de l'article 160 confirmé dans cet arrêt ne peut pas s'appliquer en l'espèce, parce que lors du deuxième transfert, il y a eu une contrepartie suffisante.
+[22] Pour ces motifs, l'appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 21e jour d'août 2007.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 3e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI389
+Nº DU DOSSIER DE LA COUR : 2005-4492(IT)G
+INTITULÉ DE LA CAUSE : Domenic Armenti et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 12 avril 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 21 août 2007
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Ovadia
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Daniel Ovadia
+Ville : Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir pièce A‑1
+[2] Voir pièce A‑2
+[3] Voir les notes sténographiques témoignage de l'appelant, page 8.
+[4] Voir pièce R‑1.

@@ -1,0 +1,219 @@
+---
+title: "Wang v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/516529/index.do"
+last_modified: "2021-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 86"
+citation2: ""
+neutral_citation: "2021 TCC 86"
+decision_date: "2021-11-19"
+language: "en"
+item_id: "516529"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4452
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:17:54.403000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8e3b7b5daa2e886bfee5cce97aae624a375f239a5a7217911e3e84c6dbc5d97d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wang v. The Queen
+
+- Citation: 2021 TCC 86
+- Decision date: 2021-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4452, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-11-19
+Neutral citation
+2021 TCC 86
+File numbers
+2019-2157(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-2157(GST)I
+BETWEEN:
+XIU HUA WANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 28, 2021, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Sean Hu
+Counsel for the Respondent:
+William Switzer
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+1. The assessments dated June 28, 2018 and July 25, 2018, levied under the Excise Tax Act, RSC 1985, c-15, as amended (the “Act”), are vacated on the basis that the Appellant was not a builder within the meaning of subsection 123(1) of the Act carrying on commercial activity which generated a taxable supply;
+2. No costs are awarded.
+Signed at Ottawa, Canada, this 19th day of November, 2021.
+“R.S. Bocock”
+Bocock J.
+Citation: 2021TCC86
+Date: 20211119
+Docket: 2019-2157(GST)I
+BETWEEN:
+XIU HUA WANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] The Appellant, Ms. Wang, appeals this assessment for Harmonized Sale Tax (HST) on the sale of real property. The Minister assessed Ms. Wang as a “builder” within the definition subsection 123(1) of the Excise Tax Act, RSC 1985, c. E-15, as amended (the “Act”). In doing so, the Minister assumed Ms. Wang purchased the property with the intention to sell it for a profit in the course of a business or concern in the nature of trade. Ms. Wang asserts she bought the property to inhabit as a principal place of residence, but change her mind when she got engaged, married and moved to the U.S. and was married.
+II. FACTS
+[2] Ms. Wang signed an agreement of purchase and sale (“APS”) on November 13, 2007, with a builder to purchase a townhouse under construction at 4600 Steeles Avenue East Unit T7 (or alternatively U7), Markham, Ontario (the “property”). The purchase price was $413,080.
+[3] Ms. Wang testified at the hearing through an interpreter. At the time of signing the APS, Ms. Wang testified she intended to use the property as her residence. Ms. Wang took possession of the property on May 19, 2011 and did physically reside there the same month. Although she met and started a relationship with her current husband, a US citizen, back in December 2010, she was not ready to alter her original plan to live in the property. Registered title to the property was conveyed to Ms. Wang on December 22, 2011.
+[4] Ms. Wang’s relationship with her fiancé grew and became permanent. In early 2012, Ms. Wang made plans for her exit from Canada in anticipation of her move to the US to join her then fiancé. She decided to list and sell the property around April 2012. It was sold on June 29, 2012 for $478,000.
+[5] After selling and vacating the property, Ms. Wang lived briefly with a relative in the Toronto area. In December 2012, she left Canada for the US. She has lived there to this day. She married in 2013.
+[6] While this appeal concerns HST for commercial activity concerning the property, Ms. Wang faced a previous complementary tax assessment. In 2015, Ms. Wang was audited and reassessed by the Minister on account of business income arising from the disposition of the property for the taxation year 2012 under the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”). The net proceeds from the sale were assessed as profit from a business; after deducting the selling expenses, the net profit was assessed at $43,041. That reassessment gave rise to this consequential HST assessment.
+[7] The business income reassessment has texture. On account of the profit, Ms. Wang was reassessed additional income taxes payable totaling $22,160.98 as shown in a Notice of Reassessment dated December 10, 2015. Ms. Wang objected to the Reassessment and the objection was confirmed in February 2017. Although not fully explained, Ms. Wang did not appeal to the Tax Court following the confirmation. Instead, she paid the $22,160.98 owing in full while living in the United States. As a kind of ironic thanks, in June 2018, the CRA imposed a GST/HST account on Ms. Wang and, deemed her a “builder” under the Act.
+[8] The Minister then assessed HST on the sale of the property. One assessment and one reassessment comprise the net tax liability. The month of June 2012 is the reporting period. The details of the assessment are described because much argument concerning its accuracy was submitted by Ms. Wang’s agent at the trial. The assessment of June 28, 2018 assessed a taxable supply of $423,008.85 yielding $54,991.15, in HST collectible, arrears interest in $20,036.52 and non-filer penalties of $2,199.64
+[9] A reassessment followed on July 25, 2018. It recognized and allowed a general HST rebate in the amount of $21,337.39, added net arrears interest (from June 28, 2018) of $122.33 and deducted rebated interest of $3,404.41.
+[10] Quite apart from the ITA assessment, never decided on its merits, the issue under the Act before the Court is whether Ms. Wang was a builder who made a taxable supply when she sold the property and must pay HST thereon.
+III. LAW
+a) Case Law
+[11] The following relevant excerpts from the definitions section of the ETA provides as follows:
+…
+builder of a residential complex … means a person who
+(d) acquires an interest in the complex
+(i) in the case of … or residential condominium unit, at a time when the complex is not registered as a condominium, or
+(ii) in any case, before it has been occupied by an individual as a place of residence or lodging,
+for the primary purpose of
+(iii) making one or more supplies of the complex or parts thereof or interests therein by way of sale, or
+(iv) making one or more supplies of the complex or parts thereof by way of lease, licence or similar arrangement to persons other than to individuals who are acquiring the complex or parts otherwise than in the course of a business or an adventure or concern in the nature of trade, or …
+but does not include
+(f) an individual … who
+(i) carries on the construction …
+(ii) engages another person to carry on the construction or …
+(iii) acquires the complex or interest in it,
+otherwise than in the course of a business or an adventure or concern in the nature of trade
+b) Authorities
+[12] The primary determination is whether Ms. Wang acquired and then sold the property in the course of business or an undertaking in the nature of trade. As the legal test for such a question, the Respondent cited the Federal Court of Appeal’s decision in Happy Valley Farms Ltd v MNR, 1986 CarswellNat 375 which provides as follows:
+14 Several tests, many of them similar to those pronounced by the Court in the Taylor case, have been used by the courts in determining whether a gain is of an income or capital nature. These include:
+1. The nature of the property sold. Although virtually any form of property may be acquired to be dealt in, those forms of property, such as manufactured articles, which are generally the subject of trading only are rarely the subject of investment. Property which does not yield to its owner an income or personal enjoyment simply by virtue of its ownership is more likely to have been acquired for the purpose of sale than property that does.
+2. The length of period of ownership. Generally, property meant to be dealt in is realized within a short time after acquisition. Nevertheless, there are many exceptions to this general rule.
+3. The frequency or number of other similar transactions by the taxpayer. If the same sort of property has been sold in succession over a period of years or there are several sales at about the same date, a presumption arises that there has been dealing in respect of the property.
+4. Work expended on or in connection with the property realized. If effort is put into bringing the property into a more marketable condition during the ownership of the taxpayer or if special efforts are made to find or attract purchasers (such as the opening of an office or advertising) there is some evidence of dealing in the property.
+5. The circumstances that were responsible for the sale of the property. There may exist some explanation, such as a sudden emergency or an opportunity calling for ready money, that will preclude a finding that the plan of dealing in the property was what caused the original purchase.
+6. Motive. The motive of the taxpayer is never irrelevant in any of these cases. The intention at the time of acquiring an asset as inferred from surrounding circumstances and direct evidence is one of the most important elements in determining whether a gain is of a capital or income nature.
+15 While all of the above factors have been considered by the courts, it is the last one, the question of motive or intention which has been most developed. That, in addition to consideration of the taxpayer’s whole course of conduct while in possession of the asset, is what in the end generally influences the finding of the court.
+16 … This has meant, in some cases, that even where it could be established that a taxpayer’s main intention was investment, a gain on the sale of the asset would be held taxable as income if the court believed that, at the time of acquisition, the taxpayer had in mind the possibility of selling the asset if his investment project did not, for whatever reason, materialize. …
+[13] The Court is require to analyze these factors through the specific facts and circumstances before it.
+IV. SUBMISSIONS OF THE PARTIES
+a) The Appellant
+[14] Ms. Wang’s agent argued at length that the Minister’s miscalculations concerning the inclusion or exclusion of legal fees, real estate fees and the like rendered the HST taxable supply calculation incorrect. Further, the agent argued that the HST housing rebate had been incorrectly included in the CRA working paper outlining the actual outlays in the acquisition of the property. Lastly, the agent sought to marshal an argument concerning the amount of business income assessed against Ms. Wang by virtue of the previous ITA assessment.
+[15] As preliminary items, the mathematical calculations of the Minister did not appear incorrect. Moreover, as was pointed out to Ms. Wang’s agent, the main issue before the Court was the liability for HST on the sale of the property by Ms. Wang as a builder in the course of business. On the ITA calculations, the Court notes that such issue was previously procedurally conceded when Ms. Wang did not appeal the confirmation of assessment in 2017. That concession, although it emboldened the Minister, does not have material consequent bearing on this Court in this HST appeal since it was not litigated before the Court, despite initially being objected to by the then non-resident, Ms. Wang.
+[16] Ms. Wang’s agent made the following arguments concerning her testimony:
+i) Ms. Wang intended to live in the property;
+ii) She did first occupy the property in subsequent co-tenancy with another person;
+iii) She did not carry on a business or undertaking in anything approaching a commercial like fashion;
+iv) She moved out because of life changing events: her engagement and subsequent marriage, which caused her to relocate to a foreign country, the U.S.
+b) The Respondent
+[17] Counsel for the Respondent focused on the factors outlined in Happy Valley Farms to determine whether the proceeds of sale from the property are of by their nature income or capital. In doing so, he submitted that:
+i) The nature of the property was a single unit condominium which is easily sold for profit in business or trade;
+ii) Ms. Wang “owned”the property for less than one year;
+iii) As to similar transactions, no submission was made, there were unaddressed ministerial assumptions made that Ms. Wang owned another condominium, likely acquired sometime after 2007;
+iv) No improvements appear to have been made to the property, although admittedly it was a brand new condominium;
+v) The circumstances necessitating sale are varied. Although Ms. Wang was engaged and subsequently married, she barely lived in the property;
+vi) Ms. Wang’s motive at the outset was to acquire the property to sell for a profit.
+c) Preliminary matter: certain assumptions in the reply disproved or demolished
+[18] There were certain factual assumptions made by the Minister, which based upon the testimony, concessions and/or documents adduced at trial were on balance inaccurate or untrue.
+14 (e) -- On December 22, 2011, the Appellant acquired title to the Property
+[19] As conceded by counsel, registered “title” is a legal term. Alone, it does not uniquely imply or initiate legal ownership. In fact, equitable title to the property was acquired by Ms. Wang under the APS in the spring of 2007. This critical APS date was omitted from the reply. It is true that Ms. Wang was conveyed registered legal title to the property in 2011. However, she was living at the property at the time. This is all relevant because it nullifies the ostensible argument Ms. Wang “owned” the property for only a short time in assessing the Happy Valley Farms criteria.
+14 (h) -- The mortgage on the property was payable on demand with interest set at prime plus 10%.
+[20] Like most modern land title charges, a “notional” interest rate well above any negotiated fixed or floating rate was reflected in the document registered on title. This obviates the need to amend registered documents when interest rates change over the life of the debt. Documents were produced at trial which reflected the actually contractual terms of the mortgage: a 5-year term, variable rate mortgage, fixed monthly payments and 30-year amortization and the regular monthly payments owing to the bank by Ms. Wang.
+14(n) and (o) -- At all material times, the Appellant did not occupy the property. At all material times, a tenant did not occupy the property
+[21] Ms. Wang and her tenant testified each lived in the property after completion and before anyone else. As such, she was the first to occupy within the meaning of the Act. In this particular case, both by herself and otherwise through a tenant.
+14(s) -- The Appellant did not move to the USA prior to 2013
+[22] Ms. Wang moved to the United States permanently in 2012, the same year she sold the property.
+V. ANALYSIS
+a) The critical “fall line” in the definition of “builder”
+[23] The Court observes that no arguments, submission or pleading sought to advance the argument of exemption from “self-supply” under subsection 191(5) of the Act. In short, this is an alternative argument: if Ms. Wang conceded that she were a “builder”, she could still be a builder not making a taxable supply by virtue of 191(5). This exception would only be available (assuming it had been pleaded or, at least, advanced) if Ms. Wang (or related party), as a builder, (i) was the first to primarily use the property as a place of residence, (ii) during construction until substantial completion and, (iii) had not claimed input tax credits. Aside from the argument not having been advanced, argued or defended, it is otherwise a moot point by virtue of the reasons for decision in this appeal.
+[24] The legal dividing line before the Court is clear. Did Ms. Wang acquire the interest in the property under construction in the course of business or undertaking in the nature of trade. If she did so in the course of business or an undertaking in the nature of trade, she cannot take advantage of the “non-commercial” exclusion provided for in paragraph (f) of the definition of “builder” under subsection 123(1) of the Act. In that instance, the Minister’s assessment and reassessments will stand.
+b) Did sufficient indicia of an undertaking in the nature of trade exist?
+[25] To analyze whether Ms. Wang engaged in a business or commercial undertaking, the facts are to be analyzed through the factors or criteria outlined in Happy Valley Farms to gauge the overall tenor of either the commercial or non-commercial nature of the purchase and subsequent sale of the property. Respondent’s counsel exhorted the Court to use this framework. The Court has done so. The various criteria from Happy Valley Farms are considered below.
+i) nature of property sold
+[26] For the purposes of determining whether Ms. Wang acquired and sold the property in the course of business or otherwise (which is the countervailing consideration in the Act), the criteria of the nature of the property is not particularly determinative in this appeal or in any other concerning a residential housing unit. A condominium unit may be both a long-term investment and/or residence or a short-term asset in inventory intended to be opportunistically sold.
+ii) the length of period of ownership
+[27] Ms. Wang acquired her beneficial legal interest in the property in 2007 and sold it in 2012. Objectively, and given the transitory nature of modern, urban living, this is not an inconsiderable or particularly short time. To conclude, as did the Minister both in the reply (where the date of the APS was not pleaded) and in argument that “ownership” was for only one year is not balanced or legally correct.
+[28] This issue was raised by the Court with Respondent’s counsel as too narrow an interpretation of registered legal ownership which ignores the realities of new condominium construction, the “purchaser” obligations arising upon execution of the APS and interim occupancy, all of which events Ms. Wang experienced (or more likely endured) from 2007 to 2012. Further, the right to assign her beneficial ownership, either during construction or interim occupancy, existed. She did not exercise that right as she might have opportunistically in the course of business.
+iii) The frequency or number of similar transactions
+[29] There was no specific evidence argued before the Court of other ownership of real property aside from certain assumptions made in the reply concerning a condominium nearby. Details of when any APS was entered into for that other unit were not assumed or produced before the Court. Given the incorrect or omitted date of the APS for the property itself, the Court is not prepared to give this assumption weight beyond its single occurrence within the factor.
+iv) Work expended on or in connection of the property
+[30] There was no assumption or other evidence concerning work expended. It was a new condominium so more likely than not, there was not a great deal of work performed. Again, this is not determinative.
+v) The circumstance giving rise to the sale
+[31] The only evidence before the Court of circumstances giving rise to the sale were the meeting, engagement, emigration and marriage of Ms. Wang with her now husband. This was 3 years after she entered into the APS and resulted in her irrevocable move to the US in 2012.
+vi) Motive
+[32] On the issue of motive, the period of measure is from the time of acquisition and the facts and circumstances existing and whether these are buttressed by other actions throughout. In short, were there facts revealed by subsequent actions which suggest, at the time of property acquisition, that a plausible and rational plan to sell the property for profit existed in Ms. Wang’s mind (the “Plan B”)?
+[33] From 2007 to 2011, there is no evidence of such, even latently. After meeting in 2010 and then becoming increasingly serious in 2011 with her soon to be husband there certainly was. However, all concede there is no evidence to suggest that such a sequence of events was either anticipated or falls within the usual alternative business plan manifested in a practical “Plan B”. If Ms. Wang had retained the property, moved out and rented it, arguably, this would have been a Plan B. Even then, such a Plan B would have supported the argument of an investment versus that of a business. It would also have caused Ms. Wang to be a non-domiciled owner of a rental unit in a different country; this would also yield a troublesome absentee landlord arrangement despite the convenience of dispelling the Respondent’s motive argument. There is little evidence, if any, of Ms. Wang’s intention when signing the APS of a business or venture. The life-changing events arising afterwards are even more and not less serendipitous.
+VI. SUMMARY, CONCLUSION AND COSTS
+[34] Three overriding considerations figure prominently in the Court’s reasons for judgment in this appeal.
+[35] Ms. Wang, on balance, conducted herself during the acquisition of the property more in keeping with an investment and/or residence of an onwer-occupier relevant to a number of Happy Valley Farms factors. She held the property for 5 years. She moved into the property. She gave a conventional mortgage. She took on a co-habiting tenant.
+[36] Ms. Wang has credible and logical reasons for acquiring the property to live in or as an investment and then selling it after its completion and her occupancy. By any conventional measure, Ms. Wang was not dealing with the property in the course of business or trade. There was no apparent business plan, no commercial approach and certainly no organized effort to sell the property rapidly, competitively or in a business like fashion. Her ad hoc approach, the errors in the Minister’s assumptions otherwise pointing to commercial-like hallmarks and Ms. Wang’s demonstrable inattention to detail do not rest easy on the mantelpiece of a business or trade.
+[37] Lastly, Ms. Wang was a single working person when she committed to buy the property in 2007. Three years later, she met a boyfriend. They became engaged. They left the country together. They got married. As changes in circumstances go, that sequence of events is compelling to this Court, if not the Minister. It is the overriding fact. Also, it outweighs the other factors, most of which are per se not compelling one way or the other. This fact and series of events cannot be ignored or allocated anything but determinative weight.
+[38] For all of these reasons, the Court concludes Ms. Wang was not a builder under subsection 123(1) of the Act. Therefore, the appeal is allowed. To give proper effect to the Judgment, both the assessment dated June 28, 2018 and the reassessment dated July 25, 2018 are vacated. This makes consistent the facts that although there was no taxable supply and no HST arising from the sale, neither shall there be any input tax credits allowed.
+[39] Also, given the express and clear intention of Parliament within section 18.3009 of the Tax Court of Canada Act, there can be no costs awarded.
+Signed at Toronto, Canada, this 19th day of November, 2021.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2021TCC86
+COURT FILE NO.:
+2019-2157(GST)I
+STYLE OF CAUSE:
+XIU HUA WANG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 28, 2021
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 19, 2021
+APPEARANCES:
+Agent for the Appellant:
+Sean Hu
+Counsel for the Respondent:
+William Switzer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

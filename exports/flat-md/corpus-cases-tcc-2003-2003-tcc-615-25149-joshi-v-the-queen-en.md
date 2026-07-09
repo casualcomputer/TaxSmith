@@ -1,0 +1,135 @@
+---
+title: "Joshi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25149/index.do"
+last_modified: "2003-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 615"
+citation2: ""
+neutral_citation: "2003 TCC 615"
+decision_date: "2003-09-04"
+language: "en"
+item_id: "25149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2595
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:47:19.304000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed87a716c5ef9222fbf84053292e5468ff2ef21d4d27dcf7ae2c9938db164706"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Joshi v. The Queen
+
+- Citation: 2003 TCC 615
+- Decision date: 2003-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2595, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Joshi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-04
+Neutral citation
+2003 TCC 615
+File numbers
+2003-1605(IT)I
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1605(IT)I
+BETWEEN:
+HANSA JOSHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 23, 2003 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Navin Joshi
+Agent for the Respondent:
+Rachel Furey
+(Student-at-Law)
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent for an Order quashing the Appellant's appeal in respect of the 2000 taxation year and to quash the Appellant's appeal with respect to moving expenses for the 2001 taxation year;
+And upon motion made by the Respondent for an extension of time in which to file a Reply to the Notice of Appeal;
+... 2
+The motion to quash in respect of the 2000 appeal is granted. The motion in respect of the 2001 taxation year is denied, without costs, and the Respondent has 60 days from the date hereof to file a Reply to the Notice of Appeal, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 4th day of September 2003.
+"J.E. Hershfield"
+Hershfield, J.
+Citation: 2003TCC615
+Date:20030904
+Docket: 2003-1605(IT)I
+BETWEEN:
+HANSA JOSHI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield, J.
+[1] This Order is further to an interim Order made by me on June 26, 2003. The interim Order set out the reasons for my reserving my decision on a motion made by the Respondent for an Order quashing the Appellant's appeal in respect of the 2000 taxation year and parts of the Appellant's appeal in respect of the 2001 taxation year. The interim Order, amongst other things, requested written submissions on several issues raised at the hearing of the motion.
+[2] The issues arising from the motion have been narrowed.
+[3] Firstly, in respect of the 2000 taxation year, the only issue identified by the Appellant's representative is the Appellant's entitlement to the Saskatchewan Child Tax Benefit. The Respondent asserts that this Court has no jurisdiction to hear such appeal. The Respondent is correct. This Court has no jurisdiction to hear such appeals. See Bowater Mersey Paper Co. v. The Queen, [1987] 2 C.T.C. 159 (F.C.A.); Hennick v. The Queen, [1998] 4 C.T.C. 2855 (T.C.C.) and Gardner v. The Queen, [2000] 4 C.T.C. 2531 (T.C.C.) and [2002] 1 C.T.C. 302 (F.C.A.) (leave to appeal refused, 2002 CarswellNat 2541 (S.C.C.)). As a collateral issue the Appellant's representative raised the question as to whether the Appellant's residency in Saskatchewan in 2000 was a question over which this Court had jurisdiction. I am satisfied that this is not a question over which this Court has jurisdiction. Residency for the purposes of the Saskatchewan Income Tax Act is, pursuant to that Act, for the Court of Queen's Bench of Saskatchewan to determine. This is clearly spelled out in paragraph 98(2)(a) and subsection 99(1) of the Saskatchewan Income Tax Act which requires residency appeals to be filed with "the court" defined as the Court of Queen's Bench in paragraph 2(i) of the Saskatchewan Income Tax Act.
+[4] Accordingly the motion to quash the 2000 Notice of Appeal is allowed.
+[5] Secondly, there is the issue as to whether or not this Court has jurisdiction to hear that part of the Appellant's appeal in respect of her 2001 taxation year which relates to her claim for moving expenses in that year given that 2001 was a nil assessment year. The Respondent accepts that the Appellant be allowed to continue her appeal in respect of the 2001 taxation year as it relates to the Canada Child Tax Benefit and the Goods and Services Tax Credit for that year. The Respondent does not take issue that such matters are open to appeal notwithstanding the nil assessment of the taxpayer's 2001 taxation year. On the other hand, the Respondent does not accept that it is open for the Appellant to claim certain carried-over moving expenses in 2001, a nil assessment year, even though the Appellant has argued that certain other tax credits included in the assessment by the Respondent, namely certain education credits, were the cause of the assessment being a nil assessment. The Appellant's representative argues that if such other credits were not included in the assessment, it being her intention not to claim them in the 2001 year, the assessment would not be a nil assessment thereby permitting the appeal of the moving expenses. Appellant's representative also argues that the moving expenses in question are only deductible in the year incurred and the following year (see paragraph 62(1)(b) of the Income Tax Act (the "Act")) while the education credits in question, the tuition tax credit provided for under sections 118.5 and 118.61 of the Act and the education tax credit provided for under sections 118.6 and 118.61 of the Act, are not so restricted so that imposing such credits to effect a nil assessment is to impose a denial of moving expenses in the last year contemplated by the Act as being available to make such claim.
+[6] The Respondent has not made a convincing submission on the issue raised by the Appellant. It has recited the line of cases which hold that no appeal lies from a nil assessment. That line of cases does not deal with a tax credit issue. Where there is a tax credit issue there is a tax liability issue that this Court is empowered to hear. The education tax credits reduce tax payable only if claimed. The Appellant asserts the claim was not made. In Martins v. M.N.R., 88 DTC 1382 this Court held that a nil assessment was not a bar to an appeal of the calculation of a refundable tax credit. The Respondent argues that that case only applies to credits framed in the Act as deemed payments of tax which is to limit that case to its exact facts. I see no logic in so confining the finding in Martins. There is nothing in the judgment that would distinguish credits that reduce a tax liability and credits deemed to have been paid as tax (the latter being an approach to framing refundable credits). The case stands for the principle that credits can be appealed in a nil assessment year. I also note that denying appeals in nil assessment years, generally speaking, does not create a bar for an effective appeal in a subsequent year. In this case the window that the Appellant seeks to open by challenging the credit is her last chance to claim unused moving expenses incurred in her 2000 taxation year. In any event, the burden in respect of the interlocutory motion before me is on the Respondent and I am not satisfied that any aspect of the 2001 appeal should be quashed. The appeal should proceed and if questions of this Court's jurisdiction arise at trial it is open for the trial judge to determine the question. It need not be disposed of with finality as an interlocutory matter. Accordingly, the Respondent's motion in respect of the 2001 taxation year is denied and the Respondent is given 60 days from the date hereof to file a Reply to the Notice of Appeal.
+Signed at Ottawa, Canada, this 4th day of September 2003.
+"J.E. Hershfield"
+Hershfield, J.
+CITATION:
+2003TCC615
+COURT FILE NO.:
+2003-1605(IT)I
+STYLE OF CAUSE:
+Hansa Joshi v. Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 23, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice
+J.E. Hershfield
+DATE OF JUDGMENT:
+September 4, 2003
+APPEARANCES:
+Agent for the Appellant:
+Navin Joshi
+Agent for the Respondent:
+Rachel Furey
+(Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

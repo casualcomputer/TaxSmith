@@ -1,0 +1,166 @@
+Title: Dickie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30959/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-327-30959-dickie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-09-19
+
+# Dickie c. La Reine
+
+- Citation: 2012 CCI 327
+- Decision date: 2012-09-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4833, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dickie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-19
+Référence neutre
+2012 CCI 327
+Numéro de dossier
+2008-2808(IT)G
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008‑2808(IT)G
+ENTRE :
+REYNOLD DICKIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocats de l’appelant :
+Me Sarah D. Hansen et Me Robert Janes
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+____________________________________________________________________
+ORDONNANCE
+Pour les raisons qui sont énoncées dans les motifs de l’ordonnance ci‑joints, la Cour octroie à l’appelant une somme forfaitaire de 80 000 $ au titre des dépens, ainsi que 10 000 $ au titre des débours, soit un total de 90 000 $.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2012.
+« F.J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+M.‑C. Gervais
+Référence : 2012 CCI 327
+Date : 20120919
+Dossier : 2008‑2808(IT)G
+ENTRE :
+REYNOLD DICKIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Pizzitelli
+[1] Dans ma décision du 10 juillet 2012, j’ai prié les parties de me présenter des observations écrites si l’une ou l’autre d’entre elles était d’avis que l’octroi de dépens normaux dans la décision n’était pas satisfaisant. L’appelant a présenté des observations à ce sujet et l’intimée y a répondu.
+[2] L’appelant veut obtenir des dépens qui l’indemnisent intégralement (sur une base procureur‑client) plus ses débours, ou bien, subsidiairement, des dépens qui l’indemnisent partiellement et qui correspondent à un octroi allant de 50 à 75 % de ses dépens plus ses débours. L’appelant demande donc soit l’intégralité des dépens de 133 000 $ plus ses débours de 10 000 $ soit, subsidiairement, des dépens allant de 66 500 $ à 99 750 $ plus ses débours de 10 000 $. L’intimée fait valoir que l’appelant ne mérite pas d’avoir des dépens supérieurs à ceux qui sont prévus au tarif et qui représenteraient un octroi de 13 000 $.
+[3] Il est entendu que l’article 18.26 de la Loi sur la Cour canadienne de l’impôt, L.R.C. 1985, c. T‑2, avec ses modifications, et l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») traitent de la compétence de la Cour en matière de dépens. Voici le libellé de ces dispositions :
+18.26 (1) La Cour peut, sous réserve de ses règles, ordonner le paiement des frais et dépens. Elle peut notamment en allouer à l’appelant si le jugement réduit de plus de la moitié le total de tous les montants en cause ou des intérêts en cause, ou augmente de plus de la moitié le montant de la perte en cause.
+(2) Pour en venir à sa décision d’allouer ou non les frais et dépens, la Cour peut prendre en compte les offres écrites de règlement faites après le dépôt de l’avis d’appel.
+147. (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur‑client.
+(6) La Cour peut, dans toute instance, donner des directives à l’officier taxateur, notamment en vue :
+a) d’accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l’annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l’annexe II;
+c) de permettre à l’officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l’article 154.
+(7) Une partie peut :
+a) dans les trente jours suivant la date à laquelle elle a pris connaissance du jugement;
+b) après que la Cour a décidé du jugement à prononcer, au moment de la présentation de la requête pour jugement,
+que le jugement règle ou non la question des dépens, demander à la Cour que des directives soient données à l’officier taxateur à l’égard des questions visées au présent article ou aux articles 148 à 152 ou qu’elle reconsidère son adjudication des dépens.
+[4] En résumé, la Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter sous le régime du paragraphe 147(1) des Règles et, dans l’exercice du pouvoir discrétionnaire que cette disposition lui confère, elle peut tenir compte des facteurs énoncés au paragraphe 147(3) des Règles. De plus, comme le prévoit le paragraphe 147(4) des Règles, la Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés. Le paragraphe 147(6) des Règles permet à la Cour de donner des directives à l’officier taxateur, notamment en vue d’accorder des sommes supplémentaires à celles prévues au tarif.
+[5] Par conséquent, dans l’exercice du pouvoir discrétionnaire que la disposition ci‑dessus me confère, je tiendrai compte des facteurs pertinents en l’espèce, qui sont énumérés au paragraphe 147(3) des Règles et qui ont été abordés par les parties dans leurs observations à la Cour, mais pas nécessairement dans l’ordre.
+a) Le résultat de l’instance
+[6] Il n’y a aucun doute que l’appelant a eu entièrement gain de cause dans le présent appel.
+b) Les sommes en cause
+[7] Le revenu imposable de l’appelant a fait l’objet d’une nouvelle cotisation de 688 927 $ pour l’année d’imposition 2003, ce qui représentait une augmentation de 653 243 $ par rapport à la première cotisation et ce qui lui créait une dette fiscale approximative de 185 000 $. L’intimée a admis à l’instruction que l’appelant avait droit à une déduction de 23 107 $. Compte tenu des intérêts et des pénalités applicables, sa dette a augmenté et, au moment du dépôt de l’appel, elle s’établissait à 441 380,26 $; en date du 31 juillet 2012, l’appelant a été avisé par l’Agence du revenu du Canada (l’« ARC ») qu’il devait 509 759,60 $.
+[8] Pour une petite entreprise, il s’agit là de sommes considérables. Toutefois, l’appelant a soutenu que les parties ne s’entendaient pas non plus en ce qui concerne les années d’imposition 2004 et 2005 et qu’elles avaient convenu de laisser en suspens la question de l’établissement de nouvelles cotisations pour ces années en attendant l’issue du présent appel. L’appelant a été avisé par l’ARC qu’en date du 31 juillet 2012, il devait 325 448,33 $ pour 2004 et 159 171,42 $ pour 2005.
+[9] En ce qui concerne le montant dû par l’appelant pour les années d’imposition 2003, 2004 et 2005, celui‑ci risquait de devoir plus de 994 379,35 $ si son appel était rejeté, ce qui représente un montant très important pour une entreprise de cette taille et ce qui aurait entraîné la ruine de l’appelant, selon les allusions faites par ses avocats dans leurs observations. En réponse, l’intimée n’a formulé aucun commentaire au sujet de ces observations de l’appelant.
+c) L’importance des questions en litige
+[10] D’un point de vue juridique, l’appelant fait valoir que la question en litige dans le présent appel – l’imposition du revenu gagné par des entreprises autochtones et, implicitement, la question de savoir s’il est ou non exempt d’impôt – est d’importance nationale et a longuement été examinée par la Cour suprême du Canada au cours des années, sans parler des tribunaux d’instance inférieure, pourrais‑je ajouter. L’intimée elle‑même reconnaît dans sa réponse que ce domaine du droit est en évolution et revêt une grande importance, mais elle allègue que le critère des « facteurs de rattachement » applicable en l’espèce a été étudié judiciairement dans de nombreux contextes mettant en cause un revenu d’entreprise, laissant ainsi entendre en fait qu’il n’y avait rien de vraiment nouveau en l’espèce pour faire intervenir la question de l’importance des questions en litige.
+[11] En ce qui concerne l’intimée, l’appel a été l’une des premières affaires en matière de revenu d’entreprise autochtone à être instruite après les arrêts Succession Bastien c. Canada, 2011 CSC 38, [2011] 2 R.C.S. 710, et Dubé c. Canada, 2011 CSC 39, [2011] 2 R.C.S. 764, qui avaient eu pour effet de changer le poids et l’importance de l’un des facteurs traditionnellement pris en considération dans l’application du critère des « facteurs de rattachement », celui du « caractère commercial » de l’entreprise, créant ainsi une nouvelle dynamique dans l’application du critère des facteurs de rattachement. En fait, on pourrait faire valoir de façon convaincante que les seules autres affaires qui ont suivi les arrêts Succession Bastien et Dubé devant les tribunaux portaient sur la pêche et les activités d’exploitation forestière à petite échelle. La nature de l’entreprise de l’appelant en l’espèce donnait lieu à des activités à plus grande échelle qui faisaient clairement concurrence à des entreprises non autochtones dans ce qui a toujours été considéré comme le marché ordinaire, une affaire de concurrence directe entre une entreprise autochtone et des concurrents non autochtones. À mon avis, la présente affaire a des répercussions importantes sur l’interprétation des arrêts Succession Bastien et Dubé de la Cour suprême du Canada. Le nom du critère des « facteurs de rattachement » applicable n’a pas changé, mais le poids et l’importance du facteur du marché ordinaire ont été considérablement réduits, voire presque éliminés, lorsqu’il s’agit de trancher la question de la résidence dans la réserve.
+[12] Beaucoup d’arguments ont été formulés sur la question du marché ordinaire nonobstant les arrêts Succession Bastien et Dubé et, indépendamment du fait que l’intimée a souscrit sans conviction à la décision, elle a continué de plaider et de faire valoir la question avec ferveur devant le tribunal, tout comme la question accessoire de l’avantage non visé pour les entreprises autochtones. La Cour a passé beaucoup de temps sur cette question et une grande partie de ma décision en traite. Manifestement, les deux parties considéraient que l’interprétation par la Cour des arrêts Succession Bastien et Dubé revêtait une grande importance.
+[13] Toutefois, il est entendu que la déductibilité des frais de gestion payés était uniquement une question secondaire à l’audience, et je conviens qu’elle a peu d’importance dans l’ensemble d’un point de vue juridique.
+d) Toute offre de règlement
+[14] Ni l’une ni l’autre des parties à l’instance n’ont fait d’offre de règlement.
+f) La complexité des questions en litige
+[15] Cette question est manifestement liée à l’importance des questions qui ont été examinées ci‑dessus. J’aimerais toutefois ajouter qu’à mon avis, les actes de procédure et les arguments solides de l’intimée au sujet de la question du « caractère commercial » ont de toute évidence rendu le litige plus complexe, en ce sens que l’intimée a clairement tenté de restreindre l’interprétation que la Cour suprême du Canada a faite de la question dans les arrêts Succession Bastien et Dubé. L’appelant a clairement été forcé de consacrer beaucoup de temps et d’efforts pour faire valoir que les arrêts de la Cour suprême du Canada avaient une portée plus large que celle que prétendait l’intimée.
+e) La charge de travail
+[16] Je ne vois rien dans les arguments des parties qui donne à penser que le processus suivi en l’espèce sortait de l’ordinaire pour une affaire de cette nature. L’appelant a laissé entendre que l’intimée avait signifié un avis de demande d’admission un mois avant l’instruction et qu’elle avait présenté d’autres questions écrites en interrogatoire préalable une semaine avant l’instruction, ce qui avait alourdi sa propre charge de travail, mais, comme l’a fait remarquer l’intimée, les autres questions écrites portaient sur des documents énumérés dans une liste supplémentaire de documents qui avait été signifiée à l’intimée la veille. Je ne puis donc conclure que l’intimée a imposé à l’appelant une surcharge de travail de dernière minute.
+[17] Toutefois, compte tenu de l’importance et de la complexité des questions mentionnées précédemment, je suis d’avis que l’appelant a été forcé d’aborder, d’une manière approfondie et ardue, le caractère applicable de l’argument du marché ordinaire plaidé par l’intimée, nonobstant les arrêts Succession Bastien et Dubé. Comme je l’ai mentionné auparavant, je suis d’avis que l’appelant a été forcé de passer beaucoup de temps à examiner une question que la Cour suprême du Canada avait selon moi clairement déjà tranchée.
+j) Toute autre question pouvant influer sur la détermination des dépens
+[h) La dénégation d’un fait par une partie ou sa négligence ou son refus de l’admettre]
+[18] En ce qui concerne ce facteur, compte tenu des conclusions formulées par la Cour suprême du Canada dans les arrêts Succession Bastien et Dubé au sujet du revenu gagné dans le marché ordinaire, l’appelant affirme qu’il a écrit une lettre de quatre pages à l’intimée huit mois avant l’audience pour lui demander de revoir sa position au sujet de la nouvelle cotisation dans le but d’éviter les frais d’un procès, ce que l’intimée a refusé de faire dans une réponse de deux phrases. L’appelant admet que cette lettre ne constituait pas une offre de règlement, mais il allègue en fait que, si la Couronne lui avait fourni des motifs plus étoffés pour rejeter ses observations sur les arrêts susmentionnés de la Cour suprême du Canada, cela aurait pu permettre de restreindre les questions en litige en appel ou peut‑être d’aboutir à des négociations en vue d’un règlement. L’intimée réplique que les arrêts de la Cour suprême du Canada ne contenaient pas de fondement qui aurait permis d’exempter d’impôt le revenu d’entreprise de l’appelant, et elle a rejeté la demande pour ce motif.
+[19] Je conviens avec l’intimée que le critère des facteurs de rattachement nécessite une analyse qui ne se limite pas à l’argument du marché ordinaire et que l’arrêt de la Cour suprême du Canada ne contenait en soi aucune raison de renoncer à l’analyse intégrale des facteurs du critère. La nature de ce critère exige que l’ensemble de la preuve soit examiné dans le but d’établir si le revenu était situé dans la réserve ou non, notamment en tenant compte des nombreux autres facteurs qui constituent le critère des facteurs de rattachement. Se contenter d’admettre que l’argument du marché ordinaire n’avait pas de valeur déterminante n’aurait pas été déterminant quant à l’issue de l’appel non plus.
+[20] Cependant, je conviens aussi avec l’appelant, eu égard au libellé clair et à l’intention des arrêts de la Cour suprême du Canada, qui ont réellement réduit, si ce n’est éliminé, l’importance du facteur du marché ordinaire, que l’intimée aurait pu abréger l’instance en admettant ce fait avant l’instruction. Bien que l’avocate de l’intimée ait admis qu’il fallait réduire le poids à accorder à la question dans les plaidoiries à l’instruction, elle a néanmoins réitéré ses hypothèses à l’égard du marché ordinaire et elle a fait valoir avec vigueur qu’un tel facteur conférerait un avantage aux entreprises autochtones par rapport aux entreprises non autochtones; à mon avis, cet argument est clairement incompatible avec les arrêts de la Cour suprême du Canada sur la question. Comme je l’ai mentionné dans ma décision, si les autres facteurs suffisent à établir que le revenu est situé dans une réserve, tout avantage qui en découle est acceptable. À mon avis, l’intimée aurait pu réduire considérablement la durée de l’audience en admettant l’argument avant l’instruction, après avoir reçu la lettre des avocats de l’appelant. Je suis d’avis que cette question relève de l’alinéa 147(3)h) des Règles, qui traite de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis. À mon avis, l’intimée a souscrit sans conviction aux arrêts de la Cour suprême du Canada sur l’importance à accorder à l’argument du marché ordinaire, mais elle s’est présentée à l’instruction en faisant valoir qu’il s’agissait de l’un de ses arguments les plus solides.
+g) La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance
+[21] Aucun argument n’a été présenté directement au sujet de ce facteur, exception faite des arguments de l’appelant dans le cadre de l’examen d’autres facteurs prévus par l’alinéa 147(3)j) des Règles, que j’ai examinés ci‑dessus.
+i) La question de savoir si une étape de l’instance était inappropriée, vexatoire, inutile, etc.
+[22] Aucun argument n’a été formulé directement à ce sujet.
+[23] Compte tenu des analyses qui précèdent, je suis d’avis que rien ne justifie que j’adjuge à l’appelant des dépens équivalant à une pleine indemnisation. Le droit est sans équivoque dans la jurisprudence citée par l’appelant lui‑même, à savoir l’arrêt Consorzio del Prosciutto di Parma c. Maple Leaf Meats Inc., 2002 CAF 417, [2003] 2 C.F. 451, et la décision Succession Zeller c. Canada, 2009 CCI 135, 2009 DTC 1106, qui citent la Cour suprême du Canada dans les arrêts Baker c. Canada (Ministre de la Citoyenneté et de l’Immigration), [1999] 2 R.C.S. 817, et Young c. Young, [1993] 4 R.C.S. 3, respectivement, lesquels concluent que les dépens comme entre procureur et client sont exceptionnels et ne sont généralement accordés que s’il y a eu conduite répréhensible, scandaleuse ou outrageante d’une des parties. Je ne trouve pas que l’intimée a adopté une conduite de cette nature en l’espèce. L’appelant lui‑même l’a admis dans ses observations.
+[24] Subsidiairement, l’appelant demande à la Cour d’exercer son pouvoir discrétionnaire pour adjuger une somme globale au titre des dépens en sus du tarif compte tenu des facteurs à prendre en considération au paragraphe 147(3) des Règles analysés précédemment, et il cite l’arrêt Consorzio del Prosciutto di Parma, dans lequel le juge Rothstein (qui siégeait alors à la Cour d’appel fédérale) s’est exprimé ainsi au paragraphe 10 :
+Par conséquent, la Cour peut, à sa discrétion, ne pas tenir compte du tarif, particulièrement lorsqu’elle est d’avis qu’une adjudication des dépens conformément au tarif n’est pas satisfaisante. En outre, le montant des dépens avocat‑client, bien qu’il ne détermine pas la contribution appropriée des dépens partie‑partie, peut être considéré par la Cour si cette dernière le juge approprié. Le pouvoir discrétionnaire doit être exercé avec prudence. Toutefois, on doit garder à l’esprit que l’adjudication des dépens est une question de jugement en ce qui concerne les éléments appropriés, et non un exercice comptable.
+[25] Je suis conscient de la mise en garde de la Cour d’appel fédérale dans l’arrêt Finch c. Canada, 2003 CAF 267, 2003 DTC 5501 (C.A.F.), selon laquelle l’adjudication d’une somme globale ne devrait pas être l’équivalent de l’adjudication de dépens sur la base procureur‑client, à moins qu’un élément du dossier le justifie. Comme je l’ai mentionné ci‑dessus, je n’en vois aucune justification de ce genre en l’espèce. Je suis également conscient du fait qu’en règle générale, le plaideur qui a eu gain de cause a droit aux dépens entre parties, comme l’a établi le juge Bowman (tel était alors son titre) dans la décision Merchant v. Canada, [1998] 3 DTC 2505, et dans la décision Continental Bank of Canada c. Canada, [1994] A.C.I. no 863 (QL). Toutefois, je partage également l’avis du juge Hogan, qui a soutenu, au paragraphe 26 de la décision General Electric Capital Canada Inc. v. Canada, 2010 TCC 490, 2010 DTC 1353, que, abstraction faite des dépens procureur‑client :
+[traduction]
+[…] à mon avis, le comité des règles savait pertinemment qu’il existe de nombreux facteurs pouvant justifier un écart du tarif et l’adjudication des dépens entre parties sur un fondement différent, y compris l’adjudication d’une somme forfaitaire. Le paragraphe 147(3) des Règles confirme cette réalité en énumérant des facteurs précis, puis en ajoutant l’alinéa j), disposition fourre‑tout qui renvoie à « toute autre question pouvant influer sur la détermination des dépens ». Si l’inconduite ou la malveillance était le seul cas où la Cour pouvait s’écarter du tarif, le paragraphe 147(3) serait superflu. Les mots que comporte un texte législatif ne sont généralement pas considérés comme des mots superflus.
+[26] Selon moi, compte tenu du fait que l’appelant a eu gain de cause de manière évidente en l’espèce, du montant considérable de l’impôt en litige, y compris à l’égard des autres années pour lesquelles la présente affaire a servi de cas type, de l’importance de la question du commerce ordinaire en particulier, de la complexité de la question en litige compte tenu de la position adoptée par l’intimée indépendamment des arrêts que la Cour suprême du Canada a rendus dans les affaires Succession Bastien et Dubé, de la charge de travail que la position de l’intimée sur cette question a imposée à l’appelant et de l’importance que l’intimée a continué d’accorder au facteur du marché ordinaire dont il a été question ci‑dessus, et qui aurait dû selon moi être admis avant l’audience afin d’abréger la durée de celle‑ci et de restreindre les questions en litige, il est clair qu’en se fondant sur l’application des facteurs énoncés au paragraphe 147(3) des Règles, on constate qu’il existe des circonstances particulières qui justifient l’adjudication à l’appelant de dépens supérieurs à ceux prévus par le tarif.
+[27] L’appelant a demandé de 50 à 75 % des dépens procureur‑client en plus des débours, ce qui est compatible avec la fourchette des sommes habituellement octroyées selon l’auteur Mark Orkin dans son ouvrage Law of Costs, 2e éd., vol. 1 (Aurora, Canada Law Book, 2008), p. 2‑3, cité par la juge Campbell dans la décision Succession Zeller, ci‑dessus, au paragraphe 9. Les dépens sur une base procureur‑client réclamés par l’appelant se chiffrent à 133 000 $, plus 10 000 $ pour les débours. À mon avis, l’appelant mérite d’avoir 60 % de la somme qu’il réclame, ce qui équivaut à 80 000 $, plus des débours de 10 000 $, ce qui donne un total de 90 000 $.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2012.
+« F.J. Pizzitelli »
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+M.‑C. Gervais
+RÉFÉRENCE : 2012 CCI 327
+No DU DOSSIER DE LA COUR : 2008‑2808(IT)G
+INTITULÉ : REYNOLD DICKIE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Observations écrites sur les dépens
+MOTIFS DE L’ORDONNANCE : L’honorable juge F.J. Pizzitelli
+DATE DE L’ORDONNANCE : Le 19 septembre 2012
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Sarah D. Hansen et Me Robert Janes
+Avocate de l’intimée :
+Me Nadine Taylor Pickering
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Sarah D. Hansen
+Cabinet : Miller Thomson S.E.N.C.R.L., s.r.l.
+Vancouver (Colombie‑Britannique)
+Nom : Robert Janes
+Cabinet: Janes Freedman Kyle Law Corp.
+Victoria (Colombie‑Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

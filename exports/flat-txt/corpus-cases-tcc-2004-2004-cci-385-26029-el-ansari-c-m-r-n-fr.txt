@@ -1,0 +1,322 @@
+Title: El Ansari c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26029/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-385-26029-el-ansari-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-05-31
+
+# El Ansari c. M.R.N.
+
+- Citation: 2004 CCI 385
+- Decision date: 2004-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4089, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+El Ansari c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-31
+Référence neutre
+2004 CCI 385
+Numéro de dossier
+2001-397(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-397(EI)
+ENTRE :
+RHITA EL ANSARI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 17 novembre 2003, notes écrites reçues de l'appelante le 19 novembre 2003, notes écrites reçues de l'intimé le 10 décembre 2003 à Montréal (Québec)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l'appelante :
+Dr Abdelhak Guessous
+Avocate de l'intimé :
+Me Chantal Jacquier
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi ( « LAE » ) est rejeté et la décision du ministre du Revenu national en date du 18 janvier 2001 dans laquelle on a considéré que l'emploi exercé par l'appelante auprès de l'ambassade du Royaume du Maroc au cours de la période du 1er septembre 1997 au 30 juin 2000 n'était pas un emploi assurable aux termes de l'alinéa 5(2)d) de la LAE, est confirmée.
+Signé à Ottawa, Canada, ce 31e jour de mai 2004.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2004CCI385
+Date : 20040531
+Dossier : 2001-397(EI)
+ENTRE :
+RHITA EL ANSARI,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L'appelante en appelle d'une décision de l'Agence des douanes et du revenu du Canada ( « l'ADRC » ) dans laquelle on a considéré que l'emploi exercé par madame El Ansari auprès de l'ambassade du Royaume du Maroc ( « l'ambassade du Maroc » ) au cours de la période du 1er septembre 1997 au 30 juin 2000 n'était pas un emploi assurable aux termes de l'alinéa 5(2)d) de la Loi sur l'assurance-emploi ( « LAE » ), qui se lit comme suit :
+5.(2) N'est pas un emploi assurable :
+[...]
+d) l'emploi exercé au Canada au service du gouvernement d'un pays étranger ou de celui d'une subdivision politique d'un tel pays;
+[2] Ainsi, l'emploi exercé au Canada au service d'un gouvernement d'un pays étranger n'est pas, en principe, un emploi assurable. Toutefois, l'alinéa 5(4)e) de la LAE permet à la Commission de l'assurance-emploi du Canada ( « Commission » ) de réglementer l'inclusion d'un tel emploi dans les emplois assurables, dans la mesure où le gouvernement employeur y consent. L'alinéa 5(4)e) de la LAE se lit comme suit :
+5.(4) La Commission peut, avec l'agrément du gouverneur en conseil, prendre des règlements en vue d'inclure dans les emplois assurables :
+[...]
+e) l'emploi exercé au Canada au service du gouvernement d'un pays étranger ou de celui d'une subdivision politique d'un tel pays, si le gouvernement employeur y consent;
+[3] La Commission a exercé son pouvoir réglementaire en édictant l'article 3 du Règlement sur l'assurance-emploi ( « Règlement » ) qui stipule ce qui suit :
+3.(1) L'emploi exercé au Canada au service du gouvernement d'un pays étranger ou de celui d'une subdivision politique d'un tel pays, ou au service d'un organisme international, qui, sans les exclusions prévues aux alinéas 5(2)d) et e) de la Loi, serait un emploi assurable peut être inclus dans les emplois assurables si le gouvernement employeur ou cet organisme, selon le cas, y consent par écrit.
+(2) Le consentement donné conformément au Règlement sur l'assurance-chômage, dans sa version antérieure au 30 juin 1996, et non retiré est considéré comme un consentement aux termes du paragraphe (1).
+[4] Dans la présente affaire, il n'est pas contesté que l'appelante était engagée en vertu d'un contrat de louage de services auprès de l'ambassade du Maroc au cours de la période en litige et que n'eût été des dispositions législatives invoquées ci-dessus, l'emploi de l'appelante aurait été un emploi assurable. Les parties reconnaissent également que le gouvernement du Royaume du Maroc ( « gouvernement du Maroc » ) n'a pas consenti par écrit à ce que les emplois exercés au Canada au service de l'ambassade du Maroc soient inclus dans les emplois assurables aux termes de la LAE et du Règlement.
+Questions en litige
+[5] L'appelante qui dit être citoyenne canadienne, invoque essentiellement que les alinéas 5(2)d) et 5(4)e) de la LAE et l'article 3 du Règlement, qui tels que rédigés rendent son emploi non assurable, sont discriminatoires envers les citoyens canadiens qui travaillent pour le gouvernement d'un pays étranger qui n'a pas donné son accord écrit, tel que stipulé plus haut, par rapport à ceux qui travaillent pour tout autre employeur. Cette discrimination est, selon elle, contraire au paragraphe 15(1) de la Charte canadienne des droits et libertés ( « Charte » ). L'appelante invoque également que ces dispositions législatives et cette disposition réglementaire ne constituent pas une règle de droit dont les limites sont raisonnables et dont la justification peut se démontrer dans une société libre et démocratique au sens de l'article 1 de la Charte. Les dispositions pertinentes de la Charte, auxquelles il est fait référence, se lisent comme suit :
+1. La Charte canadienne des droits et libertés garantit les droits et libertés qui y sont énoncés. Ils ne peuvent être restreints que par une règle de droit, dans des limites qui soient raisonnables et dont la justification puisse se démontrer dans le cadre d'une société libre et démocratique.
+15. (1) La loi ne fait acception de personne et s'applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+24. (1) Toute personne, victime de violation ou de négation des droits ou libertés qui lui sont garantis par la présente charte, peut s'adresser à un tribunal compétent pour obtenir la réparation que le tribunal estime convenable et juste eu égard aux circonstances.
+32. (1) La présente charte s'applique :
+a) au Parlement et au gouvernement du Canada, pour tous les domaines relevant du Parlement, y compris ceux qui concernent le territoire du Yukon et les territoires du Nord-Ouest;
+b) à la législature et au gouvernement de chaque province, pour tous les domaines relevant de cette législature.
+[6] Par ailleurs, l'appelante invoque que les alinéas 5(2)d) et 5(4)e) de la LAE et le paragraphe 3(1) du Règlement sont incompatibles avec la Loi sur les missions étrangères et les organisations internationales, S.C. 1991, ch. 41 (L.R.C., ch. F-29.4) (laquelle a annexé certaines dispositions de la Convention de Vienne sur les relations diplomatiques et de la Convention de Vienne sur les relations consulaires), et avec la Loi sur l'immunité des États, L.R.C., chap. S-18.
+[7] Selon l'appelante, les autorités diplomatiques et consulaires du gouvernement du Maroc doivent observer la législation sociale au Canada aux termes de ces deux dernières lois et conventions et ne bénéficient pas de l'immunité diplomatique pour échapper à leurs obligations de contribuer aux divers régimes canadiens de sécurité sociale (incluant l'assurance-emploi) pour leurs employés qui sont des ressortissants canadiens et qui sont assujettis à l'impôt canadien. À cet égard, l'appelante s'appuie également sur les articles 3118 et 3149 du Code civil du Québec ( « CCQ » ) et sur l'article 6 de la Convention de Rome de 1980.
+[8] L'intimé conteste à tout point de vue la position adoptée par l'appelante. L'intimé soutient que le Canada, en raison des deux lois et des deux Conventions de Vienne invoquées ci-dessus par l'appelante, n'est pas en mesure de forcer un gouvernement étranger à assujettir ses employés au régime d'assurance-emploi au Canada. Contrairement à ce qui est invoqué par l'appelante, l'intimé soutient que les alinéas 5(2)d) et 5(4)e) de la LAE et l'article 3 du Règlement sont cohérents avec ces lois et conventions.
+[9] Quant à la question de la sécurité sociale des employés de l'ambassade du Maroc, l'avocate de l'intimé précise qu'il existe effectivement une Convention de sécurité sociale entre le gouvernement du Canada et le gouvernement du Maroc ( « Convention » ) qui a été signée le 1er juillet 1998 et qui est entrée en vigueur le 1er septembre 2000. Toutefois, cette convention ne s'applique, pour le Canada, qu'à la Loi sur la sécurité de la vieillesse et au Régime de pensions du Canada ainsi qu'aux règlements qui découlent de ces deux textes législatifs; elle ne vise pas la LAE. L'intimé soutient également que les articles 3118 et 3149 du CCQ de même que l'article 6 de la Convention de Rome relèvent du droit international privé et n'ont aucune application et ne sont d'aucune utilité pour l'appelante dans la résolution de la question en litige.
+[10] En ce qui concerne l'argument de discrimination invoqué par l'appelante, celle-ci invoque que l'employeur étranger est traité de façon préférentielle par rapport aux employeurs nationaux. L'avocate de l'intimé soutient qu'il faut se situer du côté de l'employé pour voir s'il y a discrimination. Ici il n'y a pas de différence de traitement basée sur une caractéristique personnelle de l'appelante. L'attachement au marché du travail, un statut d'employé ou un statut d'employeur ne constitue pas une caractéristique personnelle immuable qui pourrait constituer un motif analogue aux fins de l'article 15 de la Charte. Finalement, l'appelante n'a pas démontré que la distinction contestée porte atteinte à sa dignité et ne la respecte pas en tant que membre à part entière de la société. En effet, la question n'est pas de savoir si l'appelante a subi un désavantage financier, mais plutôt de savoir si cette privation des prestations favorise l'opinion que les employés des ambassades ou consulats sont moins capables ou moins dignes d'être reconnus ou valorisés en tant qu'êtres humains (voir Gosselin v. Québec (Procureur général) (2002), 298 N.R. 1, paragraphes 24 et 25, et Granovsky c. Canada, [2000] 1 R.C.S. 703, p. 734).
+Faits
+[11] L'appelante a été fonctionnaire au ministère d'État chargé des Affaires étrangères et de la Coopération du Maroc ( « ministère des Affaires étrangères du Maroc » ) de 1961 à 1991 et de 1993 au 31 juillet 2000. Elle a été affectée dans plusieurs pays au cours des années. En 1991, elle revient au Maroc pour ensuite rejoindre ses enfants au cours de la même année à Montréal. Je crois comprendre qu'elle a reçu le statut d'immigrante et est devenue résidente du Canada à compter de 1991. Par la suite, elle se fait proposer par ce ministère une affectation au consulat du Royaume du Maroc ( « consulat du Maroc » ) à Montréal comme agent d'exécution à compter du 1er septembre 1993.
+[12] Je crois comprendre qu'elle a dû revenir au Maroc au mois d'août 1993 pour aller chercher le document autorisant sa mutation au consulat du Maroc à Montréal (pièce I-2).
+[13] Le 1er septembre 1997, l'appelante reçoit une nouvelle affectation à l'ambassade du Maroc à Ottawa (pièce I-3). En mars 2000, elle est rappelée au Service central de Rabat au Maroc pour être affectée à la Direction des affaires américaines du ministère des Affaires étrangères du Maroc à compter du 30 juin 2000 (voir pièces I-4 et I-5). L'appelante prend alors la décision de ne pas accepter cette nouvelle affectation au Maroc et elle est ultimement rayée des cadres du ministère des Affaires étrangères du Maroc le 1er août 2000, date à laquelle son employeur lui aurait versé ses derniers émoluments (pièce I-10). Il semble qu'au cours de son emploi, certaines déductions à la source auraient été faites par son employeur relativement à une pension et à un prélèvement obligatoire de solidarité nationale au Maroc (pièce I-10). Il ne ressort pas de la preuve que des déductions à la source auraient été effectuées par l'employeur en faveur du fisc canadien. Par ailleurs, il est admis par l'appelante qu'elle n'a jamais contribué au régime d'assurance-emploi canadien pendant toutes les années où elle a travaillé au Canada (soit de 1993 à 2000), et qu'elle n'a jamais demandé d'être couverte par ce régime. Il est également admis que l'ambassade du Maroc n'a jamais cotisé au régime d'assurance-emploi au Canada pour le bénéfice d'aucun de ses employés puisque le gouvernement du Maroc n'a pas consenti par écrit à participer à ce régime pour ses employés travaillant au Canada. Finalement, il ressort de la preuve que l'appelante n'a jamais produit de déclaration personnelle de revenu au Canada. Elle et son mari auraient produit une déclaration de revenu conjointe en 2000 (ce qui n'est pas la norme en vertu de la Loi de l'impôt sur le revenu, qui prévoit que chaque individu doit produire sa déclaration de revenu sur une base individuelle), mais celle-ci n'a pas été déposée en preuve.
+[14] Par ailleurs, j'ai entendu le témoignage de Stéphane Tremblay, conseiller principal en politique à la Direction de l'élaboration de la politique et de la législation à la Commission de l'assurance-emploi du Canada, qui a parlé de l'historique législatif de la LAE. Son témoignage relate essentiellement le contenu de sa déclaration assermentée qui a été déposée sous la cote I-14 et que je crois utile de relater tout au long :
+JE, STÉPHANE TREMBLAY, EXERÇANT MES FONCTIONS DANS LA VILLE DE GATINEAU, PROVINCE DE QUÉBEC, AFFIRME SOLENNELLEMENT CE QUI SUIT :
+1. Je suis conseiller principal en politique à la Direction de l'élaboration de la politique et de la législation, à la Commission de l'assurance-emploi du Canada (la CAEC), ayant ses bureaux au 140 promenade du Portage, dans la ville de Gatineau, province de Québec, K1A 0J9. J'occupe ce poste de conseiller principal en politique depuis 1999.
+2. J'ai exercé auparavant d'autres fonctions à la CAEC, au ministère du Développement des ressources humaines :
+- Agent d'enquête et de contrôle de 1993 à 1997;
+- Agent senior d'investigation de 1997 à 1998;
+- Agent d'opération en 1999.
+3. La Direction de l'élaboration de la politique et de la législation relève de la « Direction générale de la politique d'assurance » du ministère. Son rôle consiste à formuler les politiques relatives au régime d'assurance-emploi.
+La Direction est également responsable de l'élaboration des modifications proposées au texte de la Loi sur l'assurance-emploi et de l'élaboration des dispositions réglementaires, y compris sur l'assujettissement des emplois à l'assurance-emploi.
+4. Mon rôle, en tant que conseiller principal en politique, consiste à participer à l'élaboration de la politique et des dispositions législatives envisagées, relatives à l'assurance-emploi.
+5. En tant que conseiller principal en politique, je connais les politiques présentes et passées relatives à l'assujettissement des emplois à l'assurance-emploi.
+I- HISTORIQUE LÉGISLATIF
+6. Au Canada, le régime d'assurance-emploi a été créé en 1940 suite à un amendement constitutionnel qui a conféré au Parlement fédéral une compétence exclusive en matière d'assurance-chômage.
+7. Dès ses débuts, seulement certains types d'emplois étaient assurables. À titre d'exemple, les emplois sous l'autorité du gouvernement d'une province n'étaient assurables qu'avec l'assentiment de la province : voir première annexe de la Loi sur l'assurance-chômage, S.C. 1940, c. 44. Selon le rapport Cousineau, intitulé « Report of the Study for Updating the Unemployment Insurance Programme » , 1968, ce consentement était nécessaire pour des raisons constitutionnelles, à savoir, selon ce rapport, parce que le gouvernement fédéral ne pouvait pas taxer le gouvernement provincial et ne pouvait pas l'obliger à cotiser à l'assurance-chômage (p. 25, part II).
+8. La Loi sur l'assurance-chômage de 1940 ne contenait pas de disposition assujettissant à l'assurance-chômage les emplois au service d'un gouvernement étranger.
+9. Dès la mise en place du régime, plusieurs gouvernements étrangers (gouvernements des pays du Commonwealth et d'autres gouvernements) exprimèrent le désir d'avoir certains, si ce n'est la totalité, de leurs employés travaillant au Canada couverts par l'assurance-chômage. Accepter les cotisations de ces gouvernements étrangers ne permettait toutefois pas au Canada d'assujettir ces employés à l'assurance-chômage en l'absence de disposition législative.
+10. Par conséquent, le 1er septembre 1943, la Loi sur l'assurance-chômage a été modifiée pour permettre aux gouvernements étrangers qui le désiraient d'assujettir à l'assurance-chômage au Canada les emplois occupés par leurs employés. Voir débats de la Chambre des communes du 17 juillet 1943. C'est une option qui était offerte aux gouvernements étrangers avec l'assentiment de la Commission d'assurance-chômage, et non pas une obligation.
+11. La Loi sur l'assurance-chômage de 1955, a prévu que les emplois au Canada sous l'autorité d'un gouvernement provincial ou sous le gouvernement d'un pays étranger étaient des emplois exceptés, mais sous réserve que la Commission d'assurance-chômage pouvait les inclure dans les emplois assurables avec le consentement de la province ou du gouvernement étranger.
+12. Selon mes recherches, le rapport Gill de novembre 1962, intitulé « Report of the Committee of Inquiry into the Unemployment Insurance Act » , n'a pas envisagé de modification aux dispositions de la Loi de 1955 et de son règlement concernant les emplois sous des gouvernements étrangers. Par contre, il recommandait que le consentement des provinces pour les fonctionnaires provinciaux s'applique à tous ces fonctionnaires (p. 107).
+13. Le rapport Cousineau de 1968 précité a examiné plus avant ces dispositions. Les auteurs du rapport indiquent que si la Commission d'assurance-chômage n'est pas en mesure de percevoir des cotisations auprès des provinces, auprès des gouvernements étrangers ou auprès des organismes internationaux, l'exclusion des emplois qui sont sous leur autorité au Canada se justifie. Les auteurs recommandent de suivre la recommandation du rapport Gill de 1962 pour les emplois des fonctionnaires provinciaux (consentement de la province visant tous les fonctionnaires) et d'exclure, par contre, totalement des emplois assurables les emplois au service de gouvernements étrangers et ceux au service des organismes internationaux, sauf dans ce dernier cas, si les employés sont assujettis à l'impôt au Canada.
+14. Le livre blanc « L'assurance-chômage au cours des années 1970 » , déposé par le ministre du Travail en 1970, ne reprend pas la recommandation du rapport Cousineau de ne pas assujettir du tout à l'assurance-chômage les emplois au service d'un gouvernement étranger, et ne reprend pas non plus la recommandation du rapport Cousineau concernant les organismes internationaux. Dans les deux cas, c'est optionnel : les emplois ne sont assurés qu'avec le consentement du gouvernement étranger ou de l'organisme international. En ce qui concerne les gouvernements provinciaux, le livre blanc prévoit qu'ils pourront choisir soit d'assurer les emplois de tous leurs fonctionnaires, soit de n'en assurer aucun.
+15. La Loi de 1971 sur l'assurance-chômage et son règlement d'application, qui ont suivi le livre blanc, ont exclu des emplois assurables les emplois au service d'un gouvernement étranger ou d'un organisme international, mais un règlement de la Commission d'assurance-chômage permet de les inclure si le gouvernement étranger ou l'organisme y consent. Les emplois des fonctionnaires provinciaux sont également exclus, mais un règlement de la Commission d'assurance-chômage permet au gouvernement provincial de renoncer à l'exclusion et de faire assurer tous les fonctionnaires provinciaux.
+16. La Loi sur l'assurance-emploi et son règlement d'application, qui ont remplacé en 1996, la Loi sur l'assurance-chômage et son règlement d'application sont au même effet.
+17. Un élément essentiel du régime d'assurance-emploi consiste en son financement par les cotisations des employeurs et celles des employés. C'est à la base même de l'existence du régime.
+18. Selon mes recherches, les dispositions législatives qui exigent le consentement du gouvernement étranger ou de l'organisme international pour assujettir à l'assurance-emploi les emplois qui sont sous leur autorité sont toujours nécessaires, car ni la Commission d'assurance-emploi ni l'Agence des douanes et du revenu du Canada ne peuvent contraindre les ambassades étrangères au Canada, les consulats étrangers au Canada et les organismes internationaux, à payer des cotisations d'assurance-emploi, en raison de l'immunité dont ils jouissent.
+19. Dès lors que le consentement est donné, l'assujettissement à l'assurance-emploi des emplois au Canada sous l'autorité d'un gouvernement étranger ou d'un organisme international s'applique sans égard à la nationalité ou citoyenneté des employés visés.
+II- DEMANDES D'ASSUJETTISSEMENT DES EMPLOIS À L'ASSURANCE-EMPLOI PAR LES GOUVERNEMENTS ÉTRANGERS OU LES ORGANISMES INTERNATIONAUX
+20. La Division de la politique relative à l'assujettissement et aux cotisations de la Commission d'assurance-emploi reçoit les demandes d'assujettissement faites par les gouvernements de pays étrangers ou de subdivisions politiques de pays étrangers et par les organismes internationaux.
+21. Cette Division constate le consentement écrit donné par le gouvernement étranger ou par l'organisme international, en accuse réception auprès de ce gouvernement ou de cet organisme et en informe l'Agence des douanes et du revenu du Canada pour que le ministre du Revenu national considère les emplois visés assurables et que l'Agence perçoive en conséquence les cotisations d'assurance-emploi.
+22. Les données suivantes m'ont été communiquées par le chef intérimaire de la Division : 68 consentements de gouvernements de pays étrangers ou de subdivisions politiques de pays étrangers et 6 consentements d'organismes internationaux, ont été donnés, à ce jour, pour rendre des emplois assurables au Canada.
+23. J'ai constaté, après vérification, que le gouvernement du Royaume du Maroc n'a pas demandé à assujettir à l'assurance-emploi les emplois exercés par ses employés au Canada.
+[15] Finalement, l'intimé a fait témoigner Jean Lauzière, conseiller principal, privilèges et immunités, au service du corps diplomatique du ministère des Affaires étrangères du Canada. Il a expliqué que toute mission étrangère au Canada peut demander au gouvernement canadien que ses employés travaillant au Canada soient couverts par le système social canadien. Ceci est permis par la Convention de Vienne sur les relations diplomatiques et par la Convention de Vienne sur les relations consulaires. Le cas échéant, les seuls employés qui seraient assurables sont les résidents permanents ou les employés non accrédités, et ce, seulement dans la mesure où le pays accréditant signe une entente à ce sujet avec le Canada. Ainsi, une mission étrangère au Canada qui veut assujettir ses employés canadiens au régime d'assurance-emploi doit en aviser l'ADRC et le ministère des Ressources humaines et faire les arrangements nécessaires en tant qu'employeur pour se soumettre à la législation canadienne vis-à-vis leurs employés. Les étrangers diplomates ne sont pas assujettis à ce régime sauf si eux-mêmes engagent des domestiques privés qui sont résidents permanents du Canada, auquel cas ils devront se conformer à la législation canadienne en tant qu'employeur de ce personnel canadien.
+[16] Une mission étrangère n'a pas l'obligation d'informer le Canada des employés canadiens qu'elle embauche dans ses ambassades ou consulats. Elle doit par contre informer le Canada et obtenir la permission du gouvernement canadien pour embaucher des personnes non-citoyennes ou n'ayant pas le statut de résident permanent au Canada.
+[17] Monsieur Lauzière a expliqué que le but des deux Conventions de Vienne était de protéger un ressortissant étranger dans l'exécution de son travail dans le pays où il travaille. Ces conventions ne tiennent pas lieu d'ententes entre les pays pour permettre aux employés des ambassades ou des consulats de profiter du système social dans le pays hôte. Autrement dit, ces conventions ne visent pas le bénéfice personnel d'un ressortissant étranger.
+Analyse
+Loi sur les missions étrangères et les organisations internationales, Loi sur l'immunité des États et les deux Conventions de Vienne
+[18] Avant d'aborder l'application de la Charte dans le cas en l'espèce, je vais, à l'instar de l'avocate de l'intimé, tenter en premier lieu de cerner les obligations internationales du Canada en regard des deux lois précitées et des deux Conventions de Vienne. Les dispositions pertinentes de ces lois et conventions se lisent comme suit :
+Loi concernant les privilèges et immunités des missions étrangères et des organisations internationales
+[Sanctionnée le 5 décembre 1991]
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+TITRE ABRÉGÉ
+1. Loi sur les missions étrangères et les organisations internationales.
+[...]
+3. (1) Les articles 1, 22 à 24 et 27 à 40 de la Convention de Vienne sur les relations diplomatiques sont applicables sur le territoire canadien à tous les États étrangers, qu'ils soient ou non parties à celle-ci. Il en va de même pour les articles 1, 5, 15, 17, 31 à 33, 35, 39 et 40, les paragraphes 1 et 2 de l'article 41, les articles 43 à 45 et 48 à 54, les paragraphes 2 et 3 de l'article 55, le paragraphe 2 de l'article 57, les paragraphes 1 à 3 de l'article 58, les articles 59 à 62, 64, 66 et 67, les paragraphes 1, 2 et 4 de l'article 70 et l'article 71 de la Convention de Vienne sur les relations consulaires.
+[...]
+ANNEXE I
+(article 2)
+CONVENTION DE VIENNE SUR LES RELATIONS DIPLOMATIQUES
+Les États parties à la présente Convention,
+Rappelant que, depuis une époque reculée, les peuples de tous les pays reconnaissent le statut des agents diplomatiques,
+Conscients des buts et des principes de la Charte des Nations Unies concernant l'égalité souveraine des États, le maintien de la paix et de la sécurité internationales et le développement de relations amicales entre les nations,
+Persuadés qu'une convention internationale sur les relations, privilèges et immunités diplomatiques contribuerait à favoriser les relations d'amitié entre les pays, quelle que soit la diversité de leurs régimes constitutionnels et sociaux,
+Convaincus que le but desdits privilèges et immunités est non pas d'avantager des individus mais d'assurer l'accomplissement efficace des fonctions des missions diplomatiques en tant que représentant des États,
+Affirmant que les règles du droit international coutumier doivent continuer à régir les questions qui n'ont pas été expressément réglées dans les dispositions de la présente Convention,
+Sont convenus de ce qui suit :
+Article 1
+Aux fins de la présente Convention, les expressions suivantes s'entendent comme il est précisé ci-dessous :
+a) l'expression « chef de mission » s'entend de la personne chargée par l'État accréditant d'agir en cette qualité;
+b) l'expression « membres de la mission » s'entend du chef de la mission et des membres du personnel de la mission;
+c) l'expression « membres du personnel de la mission » s'entend des membres du personnel diplomatique, du personnel administratif et technique et du personnel de service de la mission;
+d) l'expression « membres du personnel diplomatique » s'entend des membres du personnel de la mission qui ont la qualité de diplomates;
+e) l'expression « agent diplomatique » s'entend du chef de la mission ou d'un membre du personnel diplomatique de la mission;
+f) l'expression « membres du personnel administratif et technique » s'entend des membres du personnel de la mission employés dans le service administratif et technique de la mission;
+g) l'expression « membres du personnel de service » s'entend des membres du personnel de la mission employés au service domestique de la mission;
+h) l'expression « domestique privé » s'entend des personnes employées au service domestique d'un membre de la mission, qui ne sont pas des employés de l'État accréditant;
+[...]
+Article 10
+1. Sont notifiés au ministère des Affaires étrangères de l'État accréditaire ou à tel autre ministère dont il aura été convenu :
+a) la nomination des membres de la mission, leur arrivée et leur départ définitif ou la cessation de leurs fonctions dans la mission;
+b) l'arrivée et le départ définitif d'une personne appartenant à la famille d'un membre de la mission, et, s'il y a lieu, le fait qu'une personne devient ou cesse d'être membre de la famille d'un membre de la mission;
+c) l'arrivée et le départ définitif de domestiques privés au service des personnes visées à l'alinéa a) ci-dessus, et, s'il y a lieu, le fait qu'ils quittent le service desdites personnes;
+d) l'engagement et le congédiement de personnes résidant dans l'État accréditaire, en tant que membres de la mission ou en tant que domestiques privés ayant droit aux privilèges et immunités.
+2. Toutes les fois qu'il est possible, l'arrivée et le départ définitif doivent également faire l'objet d'une notification préalable.
+[...]
+Article 33
+1. Sous réserve des dispositions du paragraphe 3 du présent article, l'agent diplomatique est, pour ce qui est des services rendus à l'État accréditant, exempté des dispositions de sécurité sociale qui peuvent être en vigueur dans l'État accréditaire.
+2. L'exemption prévue au paragraphe 1 du présent article s'applique également aux domestiques privés qui sont au service exclusif de l'agent diplomatique, à condition :
+a) qu'ils ne soient pas ressortissants de l'État accréditaire ou n'y aient pas leur résidence permanente; et
+b) qu'ils soient soumis aux dispositions de sécurité sociale qui peuvent être en vigueur dans l'État accréditant ou dans un État tiers.
+3. L'agent diplomatique qui a à son service des personnes auxquelles l'exemption prévue au paragraphe 2 du présent article ne s'applique pas doit observer les obligations que les dispositions de sécurité sociale de l'État accréditaire imposent à l'employeur.
+4. L'exemption prévue aux paragraphes 1 et 2 du présent article n'exclut pas la participation volontaire au régime de sécurité sociale de l'État accréditaire pour autant qu'elle est admise par cet État.
+5. Les dispositions du présent article n'affectent pas les accords bilatéraux ou multilatéraux relatifs à la sécurité sociale qui ont été conclus antérieurement et elles n'empêchent pas la conclusion ultérieure de tels accords.
+[...]
+Article 37
+[...]
+2. Les membres du personnel administratif et technique de la mission, ainsi que les membres de leurs familles qui font partie de leurs ménages respectifs, bénéficient, pourvu qu'ils ne soient pas ressortissants de l'État accréditaire ou n'y aient pas leur résidence permanente, des privilèges et immunités mentionnés dans les articles 29 à 35, sauf que l'immunité de la juridiction civile et administrative de l'État accréditaire mentionnée au paragraphe 1 de l'article 31 ne s'applique pas aux actes accomplis en dehors de l'exercice de leurs fonctions. Ils bénéficieront aussi des privilèges mentionnés au paragraphe 1 de l'article 36 pour ce qui est des objets importés lors de leur première installation.
+3. Les membres du personnel de service de la mission qui ne sont pas ressortissants de l'État accréditaire ou n'y ont pas leur résidence permanente bénéficient de l'immunité pour les actes accomplis dans l'exercice de leurs fonctions, et de l'exemption des impôts et taxes sur les salaires qu'ils reçoivent du fait de leurs services, ainsi que de l'exemption prévue à l'article 33.
+4. Les domestiques privés des membres de la mission qui ne sont pas ressortissants de l'État accréditaire ou n'y ont pas leur résidence permanente sont exemptés des impôts et taxes sur les salaires qu'ils reçoivent du fait de leurs services. À tous autres égards, ils ne bénéficient des privilèges et immunités que dans la mesure admise par l'État accréditaire. Toutefois, l'État accréditaire doit exercer sa juridiction sur ces personnes de façon à ne pas entraver d'une manière excessive l'accomplissement des fonctions de la mission.
+[...]
+ANNEXE II
+(article 2)
+CONVENTION DE VIENNE SUR LES RELATIONS CONSULAIRES
+[...]
+Considérant que la Conférence des Nations Unies sur les relations et immunités diplomatiques a adopté la Convention de Vienne sur les relations diplomatiques qui a été ouverte à la signature le 18 avril 1961,
+Persuadés qu'une convention internationale sur les relations, privilèges et immunités consulaires contribuerait elle aussi à favoriser les relations d'amitié entre les pays, quelle que soit la diversité de leurs régimes constitutionnels et sociaux,
+Convaincus que le but desdits privilèges et immunités est non pas d'avantager des individus mais d'assurer l'accomplissement efficace de leurs fonctions par les postes consulaires au nom de leurs États respectifs,
+Affirmant que les règles du droit international coutumier continueront à régir les questions qui n'ont pas été expressément réglées dans les dispositions de la présente Convention,
+Sont convenus de ce qui suit :
+Article premier
+Définitions
+1. Aux fins de la présente Convention, les expressions suivantes s'entendent comme il est précisé ci-dessous :
+a) l'expression « poste consulaire » s'entend de tout consulat général, consulat, vice-consulat ou agence consulaire;
+b) l'expression « circonscription consulaire » s'entend du territoire attribué à un poste consulaire pour l'exercice des fonctions consulaires;
+c) l'expression « chef de poste consulaire » s'entend de la personne chargée d'agir en cette qualité;
+d) l'expression « fonctionnaire consulaire » s'entend de toute personne, y compris le chef de poste consulaire, chargée en cette qualité de l'exercice de fonctions consulaires;
+e) l'expression « employé consulaire » s'entend de toute personne employée dans les services administratifs ou techniques d'un poste consulaire;
+f) l'expression « membre du personnel de service » s'entend de toute personne affectée au service domestique d'un poste consulaire;
+g) l'expression « membres du poste consulaire » s'entend des fonctionnaires consulaires, employés consulaires et membres du personnel de service;
+h) l'expression « membres du personnel consulaire » s'entend des fonctionnaires consulaires autres que le chef de poste consulaire, des employés consulaires et des membres du personnel de service;
+i) l'expression « membre du personnel privé » s'entend d'une personne employée exclusivement au service privé d'un membre du poste consulaire;
+[...]
+Article 48
+Exemption du régime de sécurité sociale
+1. Sous réserve des dispositions du paragraphe 3 du présent article, les membres du poste consulaire, pour ce qui est des services qu'ils rendent à l'État d'envoi, et les membres de leur famille vivant à leur foyer, sont exemptés des dispositions de sécurité sociale qui peuvent être en vigueur dans l'État de résidence.
+2. L'exemption prévue au paragraphe 1 du présent article s'applique également aux membres du personnel privé qui sont au service exclusif des membres du poste consulaire, à condition :
+a) qu'ils ne soient pas ressortissants de l'État de résidence ou n'y aient pas leur résidence permanente; et
+b) qu'ils soient soumis aux dispositions de sécurité sociale qui sont en vigueur dans l'État d'envoi ou dans un État tiers.
+3. Les membres du poste consulaire qui ont à leur service des personnes auxquelles l'exemption prévue au paragraphe 2 du présent article ne s'applique pas doivent observer les obligations que les dispositions de sécurité sociale de l'État de résidence imposent à l'employeur.
+4. L'exemption prévue aux paragraphes 1 et 2 du présent article n'exclut pas la participation volontaire au régime de sécurité sociale de l'État de résidence, pour autant qu'elle est admise par cet État.
+[19] Par ailleurs, l'immunité de juridiction est accordée aux États étrangers par application de la Loi sur l'immunité des États. Les articles pertinents sont les suivants :
+Loi portant sur l'immunité des États étrangers devant les tribunaux
+TITRE ABRÉGÉ
+1. Loi sur l'immunité des États.
+2. Les définitions qui suivent s'appliquent à la présente loi.
+« activité commerciale » Toute poursuite normale d'une activité ainsi que tout acte isolé qui revêtent un caractère commercial de par leur nature.
+« État étranger » Sont assimilés à un État étranger :
+a) le chef ou souverain de cet État ou d'une subdivision politique de celui-ci, dans l'exercice de ses fonctions officielles;
+b) le gouvernement et les ministères de cet État ou de ses subdivisions politiques, ainsi que les organismes de cet État;
+c) les subdivisions politiques de cet État.
+« organisme d'un État étranger » Toute entité juridique distincte qui constitue un organe de l'État étranger.
+« subdivision politique » Toute province, tout état ou toute autre subdivision politique similaire d'un État étranger à régime fédéral.
+3. (1) Sauf exceptions prévues dans la présente loi, l'État étranger bénéficie de l'immunité de juridiction devant tout tribunal au Canada.
+(2) Le tribunal reconnaît d'office l'immunité visée au paragraphe (1) même si l'État étranger s'est abstenu d'agir dans l'instance.
+[...]
+5. L'État étranger ne bénéficie pas de l'immunité de juridiction dans les actions qui portent sur ses activités commerciales.
+[...]
+11. (1) Sous réserve du paragraphe (3), il ne peut être accordé de réparation par voie d'injonction, d'exécution en nature ou de récupération de biens fonciers ou autres contre un État étranger, sauf dans les cas et dans la mesure où celui-ci y a consenti par écrit.
+(2) La soumission de l'État étranger à la juridiction du tribunal ne constitue pas le consentement prévu au paragraphe (1).
+(3) Le présent article ne s'applique pas à un organisme d'un État étranger.
+12. (1) Sous réserve des paragraphes (2) et (3), les biens de l'État étranger situés au Canada sont insaisissables et ne peuvent, dans le cadre d'une action réelle, faire l'objet de saisie, rétention, mise sous séquestre ou confiscation, sauf dans les cas suivants :
+a) l'État a renoncé, de façon expresse ou tacite, à son immunité relative à l'insaisissabilité et aux autres mesures mentionnées ci-dessus, toute révocation ultérieure de la renonciation ne pouvant être faite que suivant les termes de la renonciation qui l'autorisent;
+b) les biens sont utilisés ou destinés à être utilisés dans le cadre d'une activité commerciale;
+c) l'exécution a trait à un jugement qui établit des droits sur des biens acquis par voie de succession ou de donation ou sur des immeubles situés au Canada.
+(2) Sous réserve du paragraphe (3), les biens des organismes des États étrangers sont saisissables et peuvent, dans le cadre d'une action réelle, faire l'objet de saisie, rétention, mise sous séquestre et confiscation en exécution du jugement d'un tribunal dans toute instance où les dispositions de la présente loi ne reconnaissent pas l'immunité de juridiction à ces organismes.
+[20] Ainsi, les ressortissants étrangers travaillant en sol canadien au service de l'État accréditant, bénéficient de certains privilèges et immunités, dont celui d'être exempté des dispositions de sécurité sociale en vigueur au Canada. Peut-on dire, a contrario, que les ressortissants canadiens qui travaillent pour un gouvernement étranger en sol canadien doivent obligatoirement être protégés par le système de sécurité sociale en vigueur au Canada? Je crois que non. Le préambule des deux Conventions de Vienne indique clairement que leur but n'est pas d'avantager des individus, mais d'assurer l'accomplissement efficace des fonctions des missions diplomatiques en tant que représentant des États. Les deux Conventions ne prévoient pas que les ressortissants du pays accréditaire (le Canada) qui travaillent pour un État étranger (le Maroc) doivent être assujettis aux dispositions de sécurité sociale de l'État accréditaire. En effet, l'État étranger n'a pas l'obligation, comme c'est le cas de l'agent diplomatique ou du membre d'un poste consulaire qui engage un domestique privé canadien, d'observer les obligations imposées par les lois sociales du pays accréditaire. Selon ces conventions, c'est seulement sur une base volontaire que les États étrangers se soumettront à la législation locale en matière de sécurité sociale.
+[21] D'ailleurs, le Canada ne peut forcer un État étranger à cotiser à un régime social au Canada (tel que l'assurance-emploi) pour les employés qui travaillent auprès de son ambassade ou de ses consulats, et ce en raison de l'immunité de juridiction dont jouit l'État étranger (voir l'historique législatif présenté par Stéphane Tremblay, pièce I-14 et plus particulièrement le paragraphe 18, de même que le témoignage de monsieur Lauzière). Selon les articles 3 et 5 de la Loi sur l'immunité des États, l'État étranger bénéficie de l'immunité de juridiction devant tout tribunal au Canada, sauf dans les actions qui portent sur ses activités commerciales. Or, tel que mentionné par l'avocate de l'intimé, bien qu'un contrat de louage de services puisse constituer en soi une activité commerciale, cela ne signifie pas qu'un tel contrat de travail relève exclusivement du domaine commercial. Ainsi, les Canadiens qui travaillent pour un État étranger souverain ont le droit de recourir aux tribunaux canadiens pour l'exécution de leur contrat de travail[1]. Mais il semble que la gestion des activités d'un État souverain à l'étranger ne soit pas de caractère commercial, et ne pourrait donc pas être assujettie à la réglementation canadienne. Ainsi dans l'affaire Re Code Canadien du travail [1992] 2 R.C.S. 50, une majorité de juges de la Cour suprême du Canada a décidé que l'État canadien ne pouvait forcer un État étranger à participer à une négociation collective pour ses employés au Canada en permettant l'accréditation du personnel canadien en vertu du Code Canadien du travail. On a jugé que le lien entre cet objectif et la gestion de la base navale américaine exploitée au Canada constituait une atteinte inacceptable à la souveraineté américaine (voir page 81 de cette décision). En d'autres termes, la requête en accréditation au nom du personnel civil canadien portait directement sur les attributs de la souveraineté d'un État étranger qui devait continuer de bénéficier de l'immunité à l'égard de telles procédures (voir page 89 de cette même décision).
+[22] De façon similaire, l'on pourrait dire, comme l'a soutenu l'avocate de l'intimé, que forcer un État étranger à contribuer à un régime social (tel que l'assurance-emploi, qui prévoit une contribution financière de l'employeur) institué par une loi canadienne est une action essentiellement gouvernementale et non commerciale. En ce sens, c'est un acte de souveraineté pour un État étranger que de choisir de participer ou non à un tel régime. En conséquence, le Canada ne peut décider que les employés de l'ambassade du Maroc doivent être couverts par le régime de l'assurance-emploi. D'ailleurs, on ne pourrait contraindre un pays étranger à contribuer à un tel régime à cause de l'immunité d'exécution qui rend toute saisie impossible dans un tel cas (voir articles 11 et 12 de la Loi sur l'immunité des États). C'est pourquoi il faut que l'État souverain donne son consentement pour adhérer au régime d'assurance-emploi au Canada. Je n'ai aucune raison de ne pas acquiescer à ce raisonnement contre lequel l'appelante n'a pas, à mon avis, apporté d'arguments valables.
+[23] Par ailleurs, le fait que l'immunité de juridiction du pays étranger puisse priver ses employés canadiens du droit à la protection de la législation ouvrière dont bénéficient tous les autres Canadiens, bien que regrettable, est la conséquence nécessaire de l'engagement du Canada à respecter les politiques de courtoisie et de réciprocité internationales (voir l'arrêt Re Code Canadien du travail, précité, page 91).
+[24] Ainsi, contrairement à ce que prétend l'appelante, je suis d'accord avec l'avocate de l'intimé que les alinéas 5(2)d) et 5(4)e) de la LAE et l'article 3 du Règlement sont cohérents avec les articles 33 et 37 de la Convention de Vienne sur les relations diplomatiques ainsi qu'avec l'article 48 de la Convention de Vienne sur les relations consulaires, lesquels articles font partie intégrante de la Loi sur les missions étrangères et les organisations internationales, de même qu'avec la Loi sur l'immunité des États.
+Articles 3118 et 3149 du CCQ et article 6 de la Convention de Rome de 1980
+[25] Par ailleurs, l'appelante invoque que les articles 3118 et 3149 du CCQ de même que l'article 6 de la Convention de Rome de 1980 garantissent la protection des travailleurs canadiens oeuvrant au Canada et que les employeurs étrangers ne peuvent en ignorer la portée.
+[26] Les articles 3118 et 3149 du CCQ se lisent comme suit :
+ART. 3118 Le choix par les parties de la loi applicable au contrat de travail ne peut avoir pour résultat de priver le travailleur de la protection que lui assurent les dispositions impératives de la loi de l'État où il accomplit habituellement son travail, même s'il est affecté à titre temporaire dans un autre État ou, s'il n'accomplit pas habituellement son travail dans un même État, de la loi de l'État où son employeur a son domicile ou son établissement.
+En l'absence de désignation par les parties, la loi de l'État où le travailleur accomplit habituellement son travail ou la loi de l'État où son employeur a son domicile ou son établissement sont, dans les mêmes circonstances, applicables au contrat de travail.
+[...]
+ART. 3149 Les autorités québécoises sont, en outre, compétentes pour connaître d'une action fondée sur un contrat de consommation ou sur un contrat de travail si le consommateur ou le travailleur a son domicile ou sa résidence au Québec; la renonciation du consommateur ou du travailleur à cette compétence ne peut lui être opposée.
+[27] L'appelante a reproduit l'article 6 de la Convention de Rome de 1980 dans son mémoire écrit, lequel se lit comme suit :
+Article 6 Contrat individuel de travail
+1. Nonobstant les dispositions de l'article 3, dans le contrat de travail, le choix par les parties de la loi applicable ne peut avoir pour résultat de priver le travailleur de la protection que lui assurent les dispositions impératives de la loi qui serait applicable, à défaut de choix, en vertu du paragraphe 2 du présent article.
+2. Nonobstant les dispositions de l'article 4 et à défaut de choix exercé conformément à l'article 3, le contrat de travail est régi:
+a) par la loi du pays où le travailleur, en exécution du contrat, accomplit habituellement son travail, même s'il est détaché à titre temporaire dans un autre pays,
+ou
+b) si le travailleur n'accomplit pas habituellement son travail dans un même pays, par la loi du pays où se trouve l'établissement qui a embauché le travailleur,
+à moins qu'il ne résulte de l'ensemble des circonstances que le contrat de travail présente des liens plus étroits avec un autre pays, auquel cas la loi de cet autre pays est applicable.
+[28] Dans un premier temps, je suis d'accord avec l'avocate de l'intimé que ces dispositions sont des règles de droit international privé visant à déterminer quelle est la loi applicable aux obligations contractuelles engendrées par un contrat de travail, lorsque la loi de deux États pourrait être en cause. Le choix par un État étranger d'adhérer au régime social d'un autre État pour ses employés relève plutôt du domaine public. Par ailleurs, je suis d'accord que la Convention de Rome ne concerne que les pays faisant partie de la Communauté économique européenne, ce qui n'inclut pas le Canada, et n'est donc pas applicable ici. Dans un deuxième temps, j'ajouterai simplement que l'appelante désire être couverte par la législation canadienne en matière d'assurance-emploi. Or, la LAE, qui est la loi pertinente en l'espèce, exclut spécifiquement l'emploi de l'appelante des emplois assurables dans les circonstances actuelles. Les articles 3118 et 3149 du CCQ et l'article 6 de la Convention de Rome ne lui sont donc d'aucun secours.
+Paragraphe 15(1) de la Charte
+[29] La démarche adoptée par la Cour suprême du Canada relativement à l'interprétation du paragraphe 15(1) de la Charte repose sur trois questions primordiales reprises dans l'arrêt Law c. Canada, [1999] 1 R.C.S. 497, à la page 548 :
+(A) La loi a-t-elle pour objet ou pour effet d'imposer une différence de traitement entre le demandeur et d'autres personnes?
+(B) La différence de traitement est-elle fondée sur un ou plusieurs des motifs énumérés ou des motifs analogues?
+(C) La loi en question a-t-elle un objet ou un effet discriminatoires au sens de la garantie d'égalité?
+[30] Ainsi, il faut déterminer si la loi entraîne une différence de traitement et, si oui, si cette différence de traitement constitue de la discrimination réelle.
+[31] La Cour suprême du Canada a élaboré trois tests permettant de se prononcer sur une allégation de discrimination fondée sur le paragraphe 15(1) de la Charte. Ces trois tests sont les suivants (voir Law, précité, pages 548 et 549) :
+(A) La loi contestée: a) établit-elle une distinction formelle entre le demandeur et d'autres personnes en raison d'une ou de plusieurs caractéristiques personnelles, ou b) omet-elle de tenir compte de la situation défavorisée dans laquelle le demandeur se trouve déjà dans la société canadienne, créant ainsi une différence de traitement réelle entre celui-ci et d'autres personnes en raison d'une ou de plusieurs caractéristiques personnelles?
+(B) Le demandeur fait-il l'objet d'une différence de traitement fondée sur un ou plusieurs des motifs énumérés ou des motifs analogues?
+et
+(C) La différence de traitement est-elle discriminatoire en ce qu'elle impose un fardeau au demandeur ou le prive d'un avantage d'une manière qui dénote une application stéréotypée de présumées caractéristiques personnelles ou de groupe ou qui a par ailleurs pour effet de perpétuer ou de promouvoir l'opinion que l'individu touché est moins capable ou est moins digne d'être reconnu ou valorisé en tant qu'être humain ou que membre de la société canadienne, qui mérite le même intérêt, le même respect et la même considération?
+[32] Je vais donc analyser les faits en l'espèce à la lumière de chacun de ces tests énoncés par la Cour suprême du Canada.
+A) 1er test
+[33] Les articles contestés de la LAE et du Règlement établissent-ils une distinction formelle entre l'appelante et d'autres personnes en raison d'une ou de plusieurs caractéristiques personnelles, créant ainsi une inégalité? Pour répondre à cette question, il faut d'une part déterminer quel est le groupe de comparaison et d'autre part déterminer quelle est la caractéristique personnelle invoquée qui ferait en sorte qu'il y aurait une différence de traitement. Il appartient à l'appelante de choisir le groupe de comparaison approprié (voir Lavoie c. Canada, [2002] 1 R.C.S. 769, à la page 802). Celle-ci semble établir une distinction entre les employés engagés par des États étrangers n'ayant pas consenti par écrit à assujettir leurs employés au régime d'assurance-emploi versus les employés engagés par d'autres employeurs. Les dispositions contestées ne font pas de distinction selon la nationalité ou la citoyenneté de l'employé comme telles. Ces dispositions font plutôt allusion à l'emploi pour un gouvernement étranger qui n'a pas donné son accord écrit. C'est à cause de cette situation particulière que l'appelante ne peut bénéficier de l'assurance-emploi, par opposition à un employé qui aurait travaillé pour un employeur canadien ou un gouvernement étranger qui aurait donné son accord écrit. On ne peut a priori parler d'une distinction fondée sur une caractéristique personnelle de l'appelante.
+B) 2e test
+[34] L'appelante fait-elle l'objet d'une différence de traitement fondée sur un ou plusieurs des motifs énumérés ou des motifs analogues? Encore une fois, la distinction invoquée doit toucher une caractéristique personnelle de l'employé. Le paragraphe 15(1) de la Charte énumère les motifs de discrimination : la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
+[35] Dans l'arrêt Corbiere c. Canada (Ministre des Affaires indiennes et du Nord canadien), [1999] 2 R.C.S. 203, paragraphe 13, les juges Bastarache et McLachlin ont défini les critères permettant de qualifier d'analogue un motif de distinction :
+En conséquence, quels sont les critères qui permettent de qualifier d'analogue un motif de distinction? La réponse est évidente, il s'agit de chercher des motifs de distinction analogues ou semblables aux motifs énumérés à l'art. 15 - la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques. Il nous semble que le point commun entre ces motifs est le fait qu'ils sont souvent à la base de décisions stéréotypées, fondées non pas sur le mérite de l'individu mais plutôt sur une caractéristique personnelle qui est soit immuable, soit modifiable uniquement à un prix inacceptable du point de vue de l'identité personnelle. Ce fait tend à indiquer que l'objet de l'identification de motifs analogues à la deuxième étape de l'analyse établie dans Law est de découvrir des motifs fondés sur des caractéristiques qu'il nous est impossible de changer ou que le gouvernement ne peut légitimement s'attendre que nous changions pour avoir droit à l'égalité de traitement garantie par la loi. Autrement dit, l'art. 15 vise le déni du droit à l'égalité de traitement pour des motifs qui sont immuables dans les faits, par exemple la race, ou qui sont considérés immuables, par exemple la religion. D'autres facteurs, que la jurisprudence a rattachés aux motifs énumérés et analogues, tel le fait que la décision produise des effets préjudiciables à une minorité discrète et isolée ou à un groupe qui a historiquement fait l'objet de discrimination, peuvent être considérés comme émanant du concept central que sont les caractéristiques personnelles immuables ou considérées immuables, caractéristiques qui ont trop souvent servi d'ersatz illégitimes et avilissants de décisions fondées sur le mérite des individus.
+[36] L'appelante invoque qu'elle subit une différence de traitement par rapport à un employé qui travaille pour un employeur canadien ou pour un État étranger qui a donné son accord écrit. Il s'agit plutôt d'une distinction fondée sur des catégories d'emploi et non sur des catégories de personnes. Une telle distinction est liée aux circonstances de l'emploi et ne donne pas droit à la protection de l'article 15 de la Charte (voir Canada c. George, [1991] 1 C.F. 344 (C.A.F.); Clarke v. Canada, [1990] F.C.J. No. 436 (F.C.A.) (Q.L.); et Canada v. Taylor, 81 D.L.R. (4th) 679 (F.C.A.)). La distinction invoquée par l'appelante ne touche donc pas une caractéristique personnelle, pas plus qu'elle n'est fondée sur un motif analogue aux motifs énumérés à l'article 15 de la Charte. En effet, le fait de travailler pour un État étranger qui n'a pas consenti à être assujetti à la législation canadienne ne peut être associé à une « caractéristique personnelle [de l'individu] qui est soit immuable, soit modifiable uniquement à un prix inacceptable du point de vue de l'identité personnelle » (voir Corbiere, précité, paragraphe 13). Le choix ainsi effectué par l'État étranger est une décision administrative qui relève de la souveraineté des États et n'a rien à voir avec l'identité personnelle des employés de cet État étranger. De même, le choix effectué par le Canada dans la législation contestée de respecter la volonté de l'État étranger relève du respect de l'immunité souveraine des États et non pas de caractéristiques ou de l'identité personnelles des employés de cet État étranger.
+C) 3e test
+[37] Finalement, la différence de traitement est-elle discriminatoire en ce qu'elle prive l'appelante d'un avantage d'une manière à promouvoir l'opinion que les employés des ambassades ou consulats de pays étrangers qui n'ont pas donné leur accord écrit sont moins capables ou moins dignes d'être reconnus en tant qu'êtres humains ou que membres de la société canadienne? Poser la question, c'est y répondre. Il est clair que la législation contestée ne donne pas un tel résultat. En effet, l'on doit se demander si la distinction, examinée dans son contexte, traite le sujet comme une personne de moindre valeur ou moins empreinte de dignité, sur le fondement d'un motif énuméré ou analogue. Ainsi, il faut faire un examen contextuel pour déterminer si la distinction, considérée du point de vue d'une personne raisonnable placée dans la situation de l'appelante, porte atteinte à la dignité de la personne (voir Gosselin, précité, page 23, paragraphes 24 et 25).
+[38] Le système d'assurance-emploi est un régime contributif qui procure une assurance sociale aux Canadiens qui subissent une perte de revenu du fait qu'ils perdent leur emploi ou qui sont incapables de travailler pour différentes causes prévues à la LAE (voir Canada c. Lesiuk, [2003] 2 C.F. 697, page 712). Ce régime se finance à même les cotisations des salariés qui exercent un emploi assurable et celles des employeurs. Or, il a été vu plus haut que l'on ne peut forcer un État étranger à cotiser à un tel régime. On a vu également, parallèlement, que l'appelante n'a jamais cotisé à l'assurance-emploi lorsqu'elle était au service du gouvernement du Maroc au Canada. On ne peut donc dire que la distinction invoquée par l'appelante, considérée du point de vue d'une personne raisonnable placée dans la situation de cette dernière, porte atteinte à la dignité de la personne, lorsque l'on regarde le contexte dans lequel on a instauré les dispositions contestées de la LAE.
+[39] De plus, l'approche adoptée par le législateur en rendant assurables les emplois auprès d'États étrangers, dans la mesure où ces derniers donnent leur consentement écrit, semble une solution raisonnable retenue afin de concilier la souveraineté des États, de même que le but et l'objet de la LAE. En effet, en agissant ainsi, on a tenté d'améliorer, dans la mesure du possible, la situation des employés canadiens qui perdent leur emploi après avoir été au service d'États étrangers au Canada. Une telle solution engendre inévitablement des cas où certains groupes de personnes ne pourront se qualifier pour des prestations. À ce propos, je crois utile de reproduire les commentaires suivants du juge Létourneau dans l'affaire Lesiuk, précitée, au paragraphe 67, qui reprenait les remarques formulées par les juges s'exprimant pour la majorité dans l'arrêt Gosselin, précité :
+[67] Quelle que soit la condition minimale d'admission, il y aura toujours des personnes ou des groupes de personnes qui ne pourront se qualifier pour des prestations. Les deux commentaires suivants formulés par les juges majoritaires et exposés au paragraphe 55 de l'arrêt Gosselin sont à propos ici:
+Il est possible de conclure qu'une disposition contestée ne viole pas le par. 15(1) de la Charte canadienne même en l'absence de correspondance parfaite entre un régime de prestations et les besoins ou la situation du groupe demandeur. On peut éprouver de la sympathie pour les personnes qui, pour une raison ou une autre, n'ont peut-être pas pu participer aux programmes. Cependant, le fait qu'un programme social donné ne réponde pas aux besoins de tous, sans exception, ne nous permet pas de conclure que ce programme ne correspond pas aux besoins et à la situation véritables du groupe concerné. Comme l'a souligné le juge Iacobucci dans Law, précité, au par. 105, nous ne devrions pas exiger « qu'une loi doi[ve] toujours correspondre parfaitement à la réalité sociale pour être conforme au par. 15(1) de la Charte » . L'élaboration d'un régime d'aide sociale destiné à répondre aux besoins des jeunes adultes est un problème complexe, auquel il n'existe pas de solution parfaite. Quelles que soient les mesures adoptées par le gouvernement, il existera toujours un certain nombre de personnes auxquelles un autre ensemble de mesures aurait mieux convenu. Le fait que certaines personnes soient victimes des lacunes d'un programme ne prouve pas que la mesure législative en cause ne tient pas compte de l'ensemble des besoins et de la situation du groupe de personnes touché, ni que la distinction établie par cette mesure crée une discrimination réelle au sens du par. 15(1).
+Notre rôle dans une telle situation est de nous assurer que le législateur a été raisonnable dans le choix qu'il a fait de l'endroit où la ligne doit être tracée. Je suis convaincu que le choix du législateur ici entre dans une gamme de solutions raisonnables.
+[40] Eu égard à ce qui précède, je suis d'avis que l'appelante n'a pas démontré en vertu du paragraphe 15(1) que la distinction contestée est discriminatoire en ce sens qu'elle porte atteinte à sa dignité et ne la respecte pas en tant que membre à part entière de la société.
+[41] Comme j'ai conclu à l'absence de violation du paragraphe 15(1) de la Charte, il n'est pas nécessaire d'examiner l'article 1 de la Charte.
+[42] L'appel est donc rejeté et la décision du Ministre est confirmée.
+Signé à Ottawa, Canada, ce 31e jour de mai 2004.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE :
+2004CCI385
+No DU DOSSIER DE LA COUR :
+2001-397(EI)
+INTITULÉ DE LA CAUSE :
+Rhita El Ansari c. M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+NOTES ÉCRITES REÇUES DE L'APPELANTE :
+NOTES ÉCRITES REÇUES DE L'INTIMÉ :
+Le 17 novembre 2003
+Le 19 novembre 2003
+Le 10 décembre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 31 mai 2004
+COMPARUTIONS :
+Pour l'appelante :
+Dr Abdelhak Guessous
+Pour l'intimé :
+Me Chantal Jacquier
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ainsi il semble en l'espèce que la question de savoir si l'appelante a été rémunérée ou si elle a été congédiée légalement en vertu de son contrat de travail avec le gouvernement du Maroc ait été considérée de nature commerciale puisque les tribunaux canadiens semblent avoir refusé l'immunité de juridiction au gouvernement du Maroc à cet égard (voir jugement de la Cour d'appel du Québec, [2003] J.Q. no 13913 (Q.L.), dont la demande d'autorisation d'appel a été rejetée par la Cour suprême du Canada, le 15 avril 2004, no 30068, lesquelles décisions font partie du dossier de l'appelante). Toutefois, ce n'est pas cette question qui est soulevée devant moi mais bien la question de savoir si l'emploi de l'appelante est un emploi assurable au sens de la LAE, ce qui, dans l'affirmative, aurait pour effet de forcer le gouvernement du Maroc à verser des cotisations patronales à l'assurance-emploi. Cette question n'a pas été traitée dans le débat mettant en cause l'appelante à l'encontre du gouvernement du Maroc devant la Cour d'appel du Québec et la Cour suprême du Canada.

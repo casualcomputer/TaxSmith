@@ -1,0 +1,487 @@
+---
+title: "HSBC Bank Canada v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29986/index.do"
+last_modified: "2010-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 462"
+citation2: ""
+neutral_citation: "2010 TCC 462"
+decision_date: "2010-09-08"
+language: "en"
+item_id: "29986"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7108
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:02:06.724000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc08128c2dc47f016553b7aa0aa1632227966d313fbcddb9a4c43ddd5d32f0fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# HSBC Bank Canada v. The Queen
+
+- Citation: 2010 TCC 462
+- Decision date: 2010-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7108, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+HSBC Bank Canada v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-08
+Neutral citation
+2010 TCC 462
+File numbers
+2006-3579(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3579(IT)G
+BETWEEN:
+HSBC BANK CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions presented on written submissions
+By: The Honourable Justice Campbell J. Miller
+Signatories:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.
+Counsel for the Respondent:
+John Shipley and Justine Malone
+____________________________________________________________________
+AMENDED ORDER
+IT IS HEREBY ORDERED that:
+1. The Appellant shall, pursuant to subsection 83(1) of the Tax Court of Canada (General Procedure) Rules (the "Rules"), disclose and produce for inspection on or before October 22, 2010 all relevant documents in the possession, control or power of its Parent affiliated corporations (HBAP, HHBV and HGHQ), including but not limited to those documents identified in Requests 1, 11, 12, 15, 26, 27, 28, 29, 31, 32, 33, 35, 36 and 48, from Schedule A to the Respondent’s Notice of Motion. This should provide considerable guidance to the Parties as to what the Court considers relevant for purposes of this Rule 83(1) production order.
+2. Such production of documents shall be subject to the provisions of the Confidentiality Order of April 27, 2010.
+3. The Appellant shall, pursuant to section 110 of the Rules, have its nominee reattend examinations to answer the following questions from the list of 48 Requests in Schedule A to the Respondent’s Notice of Motion: Requests 1, 2, 3, 6, 7, 9, 11, 12, 13, 14, 15, 18, 20, 21, 22, 26, 28, 31, 32, 33, 38, 41, 45, 46, and 48, and any proper questions arising from the answers. The following Requests have already been answered or need not be answered: Requests 4, 5, 8, 10, 16, 17, 19, 25, 29 (re: the Appellant only), 34, 35 (re: the Appellant only) 37, 39, 40, 44 and 47.
+4. With respect to Request 23, the Appellant shall advise the Respondent of the efforts taken to locate the missing financial statements.
+5. With respect to Request 24, the Appellant shall provide updates received by the Board for the relevant period in terms of credit issues and credit quality.
+6. With respect to Request 27, the Appellant shall provide internal risk assessment reports of both the Appellant and the Parents. Further, only if the Parents have in their possession external reports, such as DBRS, S&P or Moodys are they required to produce them; otherwise the Respondent shall be required to make its own inquiries.
+7. With respect to Request 29, as it pertains to the Parents, the Appellant shall provide such external information only if already compiled by it.
+8. With respect to Request 36, as it pertains to the Parents, the Appellants shall provide such information that it can obtain from materials presented at the Parents’ Board meetings or from the Parents’ files of those employees involved directly with the guarantees and their ongoing scrutiny.
+9. With respect to Request 42, the Appellant shall provide the final version of the draft HKBC guarantee, and shall answer question 805, if it is able to locate Mr. Atkinson.
+10. With respect to Request 43, the Appellant shall provide the letters in response to undertaking number 60 in unredacted form.
+11. All documents required to be produced pursuant to paragraphs 3 through 10 of this Order, including but not limited to documents arising from Requests 5, 6, 9, 10, 21, 22, 24 and 27 shall be produced by the Appellant on or before October 12, 2010.
+12. Costs for the Respondent in any event of the cause except for incremental costs arising from the personal attendance of the expert witnesses for their cross‑examination.
+Signed at Ottawa, Canada, this 16th day of September 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010TCC462
+Date: 20100908
+Docket: 2006-3579(IT)G
+BETWEEN:
+HSBC BANK CANADA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Miller J.
+[1] The Respondent seeks an order:
+i) directing the Appellant, pursuant to section 110 of the Tax Court of Canada (General Procedure) Rules (the "Rules"), to answer the questions listed in Schedule "A" to the Respondent’s Notice of Motion, a total of 48 Requests, and any proper questions arising from the answers given by the Appellant;
+ii) directing the Appellant, pursuant to subsection 83(1) of the Rules to disclose all relevant documents in the possession, control or power of its affiliated corporations and to produce for inspection all such documents;
+iii) directing the Appellant pay all costs of this motion, apart from the incremental costs arising from the personal attendance of the Respondent’s expert witnesses for their cross-examination, forthwith and in any event of the cause. Further, the Respondent, if successful, wants to receive the documents by October 11, 2010.
+[2] The Appellant challenges all 48 Requests for a variety of reasons:
+- already answered
+- relevance, including failure of Respondent to establish an appropriate factual paradigm
+- fishing expedition
+- speculative
+- improper third party request
+[3] Before addressing these areas of challenge and specifically the 48 Requests, I will reiterate certain principles, applicable to this case, which I set out in dealing with the Appellant’s request to compel: the principles applicable to this Motion are:
+a) relevancy on discovery must be broadly and liberally construed and wide latitude should be given;
+b) a motion’s judge should not second guess the discretion of counsel by examining minutely each question or asking counsel for the party being examined to justify each question or explain its relevancy;
+c) a motion judge’s should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant;
+d) patently irrelevant or abusive questions or questions designed to embarrass or harass a witness or delay the case should not be permitted;
+e) the threshold test for relevancy on discovery is very low but it does not allow for a fishing expedition;
+f) the examining party is entitled to any information and production of any documents that may fairly lead to a train of inquiry that may directly or indirectly advance his case or damage that of the opposing party;
+g) the Court should preclude questions that are clearly abusive, clearly a delaying tactic or clearly irrelevant.
+[4] The Parties agree that two additional principles of discovery come into play on this motion:
+a) it is somewhat abusive of the discovery process for a party to require the other party to expend great time and effort to obtain information within the examining party’s "means of knowledge"; and
+b) questions which are too general need not be answered. "Discovery" should not become the objective of the discovery process such that the goal is to uncover as much as possible from the party being examined however marginally relevant.
+[5] There is no disagreement with respect to these principles, but it is in the application of the principles that the Parties diverge.
+[6] These principles have been amply reviewed by myself and others and need no further discussion. I do however wish to consider in more detail the question of the propriety of third party requests in the context of Rule 83 and Rule 95 and also the assertion by the Appellant that the Respondent has not established the appropriate factual paradigm, which goes to the issue of the relevance of some of the requests.
+[7] The Respondent asserts that the Appellant should be ordered to provide information relating to the Appellant’s affiliated companies (the "Parents"), relying for authority on the cases of Her Majesty the Queen v. Crestbrook Forest Industries Limited[1], Monarch Marketing Systems Inc. v. Esselte Metro Ltd.[2] and Michelin North America (Canada) Inc. v. 9130-4550 Québec Inc.[3].
+[8] I will consider these cases in applying my discretion in the application of Rule 83 which reads:
+(1) The Court may direct a party to disclose all relevant documents in the possession, control or power of the party’s subsidiary or affiliated corporation or of a corporation controlled directly or indirectly by the party and to produce for inspection all such documents that are not privileged.
+(2) The direction under this section may be limited to such documents or classes of documents, or to such of the matters in question as may be specified in it.
+There is no question that Honkong and Shanghai Banking Corporation Limited ("HBAP"), HSBC Holdings BV ("HHBV") and HSBC Holdings PLC ("HGHQ") (collectively the "Parents") are affiliated corporations of the Appellant.
+[9] The Federal Court of Appeal stated the following in Crestbrook:
+…
+However, in Monarch Marketing Systems Inc. v. Esselte Metro Ltd. (1983), 75 C.P.R. (2d) 130, Mahoney, J. (as he then was), in ordering a corporate officer to answer questions in a patent action concerning matters in the knowledge of foreign affiliated companies, referred to a most important consideration which in my opinion must be taken into account in modern business litigation. At page 133, he said:
+Today's commercial reality, with international corporations, large and small, doing business through affiliates across much of the world and treating national boundaries as minor inconveniences to be coped with by international organizations, dictates that the corporate veil ought not be permitted to inhibit the administration of justice in Canada. Examination for discovery is an important tool in the administration of justice on its civil side. I have no doubt that, under proper sanctions by the court, Canadian companies can readily and economically obtain from their foreign affiliates answers to proper questions on discovery. I am convinced that they should be required to try and pay the consequences of their failure or their affiliates' recalcitrance. International businesses ought not be permitted, either as an incident or object of their organizational set-ups, to avoid full compliance with the law of Canada in respect of the business they do here.
+In my view what Mahoney, J. said was consistent with the philosophy underlying Rule 465 (and its successor, Rule 455). In the appropriate circumstances, this Court does have the power to require the sort of answers sought by the Crown here, but the Court will only do so in special situations, where it is shown as a prerequisite that it is in the interests of the administration of justice to look behind the sanctity of the corporate identity. To the extent, therefore, that the decision of the Court in Indalex is in conflict with that in Monarch Marketing Systems v. Esselte Metro, the latter should be taken as the correct statement of the law on this issue.
+This power, while for understandable reasons used by the courts only sparingly, has been recognized for some time. …
+[10] In Michelin, Justice Tremblay-Lamer stated:
+…
+21 I am aware that Crestbrook, supra, stands for the proposition that ordering a party to answer questions for which knowledge lies with third party affiliates is an exceptional power that must only be used when the interest of justice so dictates. This is one such situation.
+22 I do not accept the plaintiff's argument that the defendants ought to avail themselves of more appropriate procedural channels to discover those known to possess the relevant information, for the reasons addressed in Crestbrook, supra, and Eli Lilly, supra. Having the plaintiff obtain information from related third party entities does not circumvent the procedure for examining assignors and non-parties set out in Rules 237 and 238. Rather, this offers a practical solution given the commercial reality of international and affiliated corporations, and the challenges faced by parties in seeking information in this context. Nor do I accept the plaintiff's contention that the defendants want this information only to support blunt allegations of design functionality. References to functionality are apparent, among other ways, from the plaintiff's own promotional materials. A clear foundation for functionality exists.
+…
+I could not agree more with Justice Tremblay-Lamer’s attitude of seeking a practical approach to obtaining proper information.
+[11] The Appellant argues that there are no special circumstances here justifying these requests for information from the Parents. With respect, I disagree.
+[12] The emphasis in considering a request for information from the third party should be placed on assessing the question – what is in the best interests of justice in the context of an assessment by the Government of Canada in the circumstances of any particular case? In considering the request before me, I need to bear in mind that this is not just a transfer pricing case but there is also a paragraph 18(1)(a) of the Income Tax Act ("ITA") issue whether the non-arm’s length guarantee fee was paid for the purpose of earning income. From the perspective of both issues (payment for earning income and application of transfer pricing provisions), the role of the Parent guarantor, its economic position at the time, any existing guarantee or transfer pricing policies, indeed most of the information sought is integral to afford the trial judge a full understanding of the nature and substance of the guarantee arrangement. This is not a matter of an uninvolved Parent. This is, I find, a special situation of the Parent corporation intimately a part of the very matter before the Court. The trial judge will want to know why the Appellant paid what it did as well as what would be paid in an arm’s length situation. It is in the best interests of the administration of justice that both the Appellant and the Parents fully explain the circumstances surrounding the fee and provide relevant documentation.
+[13] The Appellant raises another factor, relying on a comment from Justice Hugessen in Eli Lilly v. Apotex Inc.[4], cited in the Michelin case, that it is proper to require third party information only where one may reasonably expect that it will be honoured because of the relationship between the party and third party. The Appellant contends it would not be reasonable to expect a request would be honoured by the Parents with respect to highly sensitive information, such as the requirements of financial regulatory regimes governing the Parents, nor to documents that lack any connection with the Appellant (eg. other guarantees and comfort letters). Bringing the Parents’ documents under the protection of the Confidentiality Order issued in this case should address the Appellant’s first concern and alleviate any similar concern of the Parents. With respect to the request for documents to which the Appellant is not a party, I see the issue of reasonable expectation less in terms of the lack of connection as I do in terms of whether or not the document is indeed relevant. Given these views, I have no hesitation in concluding that it is reasonable to expect the Parents to respond positively to relevant inquiries. I see no impediment in exercising my discretion pursuant to Rule 83 to order production of relevant documents. This conclusion addresses all those challenges by the Appellant to the Requests based on documents not being in the Appellant’s possession or control, where such documents may be in the possession, control or power of the Parents.
+[14] In reaching this conclusion, I recognize the parties disagree as to what is relevant. I will comment on the question of relevancy as I go through the 48 Requests. My intention is that my comments will help the parties determine relevance for purposes of the Rule 83 production.
+[15] I want to also address the Appellant’s views on establishing the appropriate factual paradigm before ruling on relevancy. Getting to the heart of the Appellant’s concern is that information with respect to non-arm’s length dealings is not relevant because the so-called factual paradigm in a transfer pricing case should be limited, in this case, to arm’s length guarantors and arm’s length borrowers. The Appellant goes so far as to suggest I will have made an error in law if I permit the Respondent to obtain and use information concerning non-arm’s length transactions when such transactions do not involve the Appellant. While I appreciate that the transfer pricing provisions do not call for comparison with other non-arm’s length transactions, I can certainly see some relevance to how sister corporations were treated in connection with determining the issue of whether the fee was incurred for the purpose of earning income. Without having to determine the relevance of circumstances surrounding the implicit support of the Parent in connection with the transfer pricing, I find that such information is generally relevant in determining the question of whether the fee was incurred for the purpose of earning income.
+[16] Taking these preliminary observations into account, I will now turn to each of the 48 Requests, indicating the request itself and the Appellant’s grounds for challenge.
+1. Request
+Request that the Appellant obtain from its parent company a copy of the transfer pricing policy prepared by HSBC Holdings PLC for the relevant taxation years.
+Challenge
+- the evidence does not support a finding of relevance
+- the issue is not raised in the pleadings
+- document not in the possession, control or power of the Appellant.
+[17] In support of her motion the Respondent provided affidavits of two financial experts. The Appellant examined both the experts on their affidavits. The Appellant argues that the Respondent’s experts, Dr. Kane and Dr. van Deventer, were not able, upon such examination, to establish that such a request was warranted. I find no need to consider the experts’ views on this point. A transfer pricing policy prepared by HSBC Holding PLC is patently relevant in my view. The fact that such a policy may pertain to other subsidiary companies does not mean it was not applicable to the Appellant. While the policy itself is not referenced in the pleadings, I simply do not follow the Appellant’s argument that this is "information which was not raised in the pleadings". This seems to suggest that parties must plead evidence. Not so.
+[18] In the case of Lloyd M. Teelucksingh v. Her Majesty the Queen[5], Justice Bowie set forth the principle that:
+…
+(i) Examination for discovery is an examination as to the information and belief of the other party as to facts that are relevant to the matters in issue, as defined by the pleadings.
+…
+So, is the Appellant’s Parent’s policy on transfer pricing relevant to a matter in issue, as defined by the pleadings? It seems self-evident that transfer pricing is a matter in issue – how could such a policy of one of the parties to the guarantee fee arrangement not be relevant to this matter in issue?
+[19] Finally, the Appellant raises the arguments, already addressed in the context of Rule 83, concerning third party production. This document is captured by my section 83 ruling, but this is one of the instances that should give guidance to the Appellant for the Rule 83 production. I find this document specifically is relevant and must be produced.
+Requests 2, 3, 4, 5, 6 and 7
+2. Request that the Appellant ask the Parent company (HGHQ) to confirm that it provided guarantees and letters of comfort to non-UK group members (in relation to R-4).
+3. Request that the Appellant ask the Parent company (HGHQ) whether it provided guarantees and letters of comfort to non-UK group members to satisfy local banking regulatory requirements (in relation to R-4).
+4. Request that the Appellant enquire of its Parent to confirm that the approach taken by the Parent was accepted by Inland Revenue whereby letters of comfort, awareness and responsibility should not attract a charge for the period 1997 through 2000 (in relation to R-4).
+5. Request that the Appellant enquire of its Parent to confirm that the approach taken by the Parent was accepted by Inland Revenue whereby there should be no charge in respect to guarantees of a capital nature for the period 1997 to 2000 (in relation to R-4).
+6. Request that the Appellant enquire of its Parent to confirm that it has not been the practice to charge for guarantees of depositors and legally binding undertakings of support which contain explicit words of promise that the subsidiary will meet its obligations for such guarantees as has always been perceived that there’s no real commercial transfer of value as a result of guarantees being put in place (in relation to R-4).
+7. Confirm that the Parent bank’s practice of having no intention to charge for such guarantees either retrospectively or going forward was carried out for at least the period 1997 through 2000 (in relation to R-4).
+Challenge
+- the information is not relevant for purposes of subsections 69(2) and 247(2) because the transactions are between non-arm’s length persons
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- the Appellant is not required by the Rules to contact third parties for the information
+- the issue is not raised in pleadings
+[20] Exhibit R-4 in these proceedings is the HSBC "Transfer Pricing Review, updated January 2002". It claims "the guiding principle is that all cross-border transactions are to comply with the arm’s length standard". The Respondent contends, in light of this stated objective, that in assessing the reasonableness of the guarantee fee and whether reasonable efforts were taken to determine and use arm’s length prices, it is relevant not only to consider the policies of the HSBC Group, but whether they were applied consistently in practice and applied to the guarantee at issue. The Respondent argues that is what Requests 2 to 7 relate to. The answer to these questions may suggest either consistency or inconsistency. In the context of the transfer pricing issue it is not as readily apparent, as the Respondent contends, that the answers are relevant from a common sense appreciation of that issue. Yet the answers may shed light on the level of implicit support from the Parent to its subsidiaries, and consequently the determination of value of the fee to help answer the question – what would a subsidiary bank with implicit support pay for a third party guarantee? The answers to these Requests are not to demonstrate any arm’s length comparison as such, but to help establish the impact of this significant economic factor.
+Requests 4 and 5, however, are unlike the others as they go to the U.K. treatment of guarantee fees. This does not pertain to the Canadian situation.
+[21] The answers may also be relevant in addressing the paragraph 18(1)(a) of the ITA issue, as they also go to the issue of whether there was any value at all. I find the questions may be relevant. I do not see these questions as a fishing expedition. The Appellant is required to make the inquiries, other than with respect to Requests 4 and 5.
+8. Request
+Confirm whether the Parent bank took the position within Inland Revenue that no charges should be made for such guarantees and that some effort was made to resolve on the basis of 5 basis points for obligations subject to guarantee for the relevant taxation years.
+Challenge
+- the information is not relevant for purposes of subsections 69(2) and 247(2) because the transactions are between non-arm’s length persons
+- the question is a pure fishing expedition
+- the Appellant is not required by the Rules to contact third parties for the information
+- the issue is not raised in pleadings
+[22] Although this Request arises from Exhibit R-4, I see no relevance to any position the Parent took with Inland Revenue. This is a Canadian issue, not a U.K. issue.
+9. Request
+Provide the reason why the Parent treated the non-Canadian groups and the Appellant differently.
+10. Request
+If the difference in treatment relates to the contents of the guarantees being provided or the substance of the guarantees being provided by the Parent, have the parent produce copies of those guarantees or letters of comfort.
+Challenge
+- The information is not relevant for purposes of the subsections 69(2) and 247(2) because the transactions are between non-arm’s length persons
+- The question is a pure fishing expedition
+- The Appellant is not required by the Rules to contact third parties for the information
+- The issue is not raised in pleadings
+[23] Request 9 also arises from Exhibit R-4, specifically section 3.4.2.2, which describes the guarantee at issue. The question seeks the reasoning behind what on its face appears to be different treatment. This may be relevant, again not so much for purposes of any comparison between different non-arm’s length arrangements, but to get an understanding why the fee was incurred by the Appellant. Request 9 is answerable.
+[24] Request 10 however goes solely to a comparison of the contents of the different non-arm’s length guarantees and adds nothing to the transfer pricing issue, nor to the paragraph 18(1)(a) of the ITA issue. It is simply going too far afield.
+11. Request
+Request to enquire of the Parent bank (HHBV) whether it has copies of the board papers referred to in the May 6, 1999 GEM about the renegotiation of the guarantee arrangements.
+Challenge
+- the Appellant is not required to contact third parties for information
+- the document not in the possession, control or power of the Appellant
+[25] As I have indicated at the outset, it is appropriate and in the interests of justice to seek answers from the Parents. The issue here is one of relevancy. The Appellant argues that this only goes to a comparison of a non-arm’s length transaction and is therefore irrelevant. I disagree. It may go to the very business essence of the guarantee, assisting in understanding the commerciality and value of that guarantee.
+12. Request
+Request for copies of the monthly and quarterly financial statements of the Parent companies (HBAP and HHBV) for the taxation years under appeal.
+Challenge
+- The Appellant provided, to the Respondent, the financial statements of HBAP (1996) and HHBV (1997 to 2000), which it located in its records on November 30, 2009
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- documents not in the possession, control or power of the Appellant
+[26] The Respondent relies on the experts’ affidavits to argue that the reasonableness of the fees depends on information about the financial viability of both the Appellant and the entities providing the guarantee. Further, that the value will depend on the creditworthiness and financial strength of both. The Appellant discounts the experts’ evidence for the following reasons:
+a) the requests for information on based on "wish lists";
+b) the requests for information have been made without Dr. Kane or Dr. van Deventer knowing what methodology might be used to value the guarantee fee;
+c) the sweeping requests for information were made in an effort to support a precise or theoretically perfect price for the guarantee once a methodology is chosen; and
+d) the requests for information are based on a paradigm which cannot be correct because it assumes that the Parents remain involved as the guarantors as well as shareholders.
+[27] Having read the experts’ discovery, I disagree with the Appellant that such Requests represent wish lists. They represent reasonable efforts to determine a reasonable fee. Further, until asked to provide a report, the very little uncertainty as to methodology is inconsequential. Nor do I accept the Appellant’s categorization that the experts are really seeking some theoretically perfect price. This is more the Appellant’s take on the evidence than any such specific testimony by the experts.
+[28] Finally, the Appellant argues the experts are proceeding on an incorrect paradigm – one where the Parents continue to provide the guarantee and remain as shareholders of the Appellant. The Appellant suggests the appropriate paradigm is a borrower with the profile of the Appellant who transacts with an arm’s length person guarantor. The borrower is a wholly owned subsidiary of a non-resident with the profile of the Parent. The Appellant suggests this paradigm takes account only of the explicit guarantee and does not provide for any element of implicit support of the Parent for the Appellant. I fail to see support for this proposition of the Appellant. If the Appellant’s paradigm has a borrower with a profile of the Appellant and a parent with a profile of the Parents in this case, then those profiles must address the financial strengths of each of them. And, consequently, there may be a question of implicit support of a hypothetical parent for a hypothetical subsidiary. The role of implicit support may well be an issue at trial (this may depend to some extent on the outcome of the General Electric Capital Canada Inc. v. Her Majesty the Queen[6] Appeal) but to rule it out as irrelevant at the stage of discovery is, I find, not appropriate.
+[29] I want to be clear that I find this is relevant, and therefore producible in any event pursuant to Rule 83(1).
+13. Request
+Request of the Parent banks whether they conducted risk assessments of the Appellant during the relevant taxation years.
+Challenge
+- the evidence does not support a finding of relevance
+- the Appellant is not required by the Rules to contact third parties for the information
+[30] This is relevant in determining the commerciality of the guarantee and is answerable.
+14. Request
+Make enquiries of the Parent companies and advise what expenses were incurred by these Parents in monitoring the activities of the Appellant and which of these expenses were directly the result of the contractual obligation to the CDIC and guarantee of the Appellant’s deposits.
+31. Request
+Provide a complete record of the expenses that the Parents incurred in monitoring and controlling the Appellant during the years under appeal. Provide an explanation of which of the expenses were specifically occasioned by the guarantee in issue in this appeal. Provide a detail of the entity bearing the cost of these expenses.
+Challenge
+- the evidence does not support a finding relevance
+- the question a pure fishing expedition
+- the Appellant is not required by the Rules to contact third parties for the information
+- documents not in the possession, control or power of the Appellant
+[31] The Respondent relies on Dr. Kane’s affidavit in ascertaining the relevance is apparent, as Dr. Kane states that Parents incur expenses in monitoring and controlling their subsidiaries, and that specific expenses relating to the guarantee would affect the fair market value of the guarantee. The Appellant argues that even those specific expenses are of no relevance to an arm’s length guarantor. I disagree: such costs could well be a factor in the arm’s length guarantor’s determination of an appropriate fee. They certainly could be evidence of implicit support.
+15. Request
+Request for the funds transfer pricing policy for the years under appeal of the parent bank.
+33. Request
+Provide copies of internal policy documents or policies and procedures of the Appellant and the parents in respect of "funds transfer pricing" for the years under appeal.
+Challenge
+- the information is not relevant for purposes subsections 69(2) and 247(2) because the transactions are between non-arm’s length persons and within departments of a financial institution
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- document not in the possession, control or power of the Appellant
+[32] The Appellant argues this is irrelevant in a transfer pricing context as it relates only to non-arm’s length transactions. Yet, it is also the policy that would apply to the Appellants and would therefore provide some insight into implicit financial support. Given the low threshold for relevancy at the discovery stage, and given I have not been convinced of a clear irrelevancy, I find the requests are answerable.
+16. Request
+Determine whether it was the position of the Appellant that HBAP would not have provided the guarantee absent the explicit agreement that was entered into.
+17. Request
+Determine whether it was the position of the Appellant that HHBV and HSBC Holdings would not have provided the guarantee absent the explicit agreement that was entered into.
+Challenge
+- the question is a pure fishing expedition
+- the Appellant is not required by the Rules to contact third parties
+- the question calls for speculation and an opinion
+[33] As I have indicated, the question of implicit support at this stage of the litigation cannot be ruled irrelevant. The Respondent argues basically that as implicit support is relevant, these questions are proper. I note that it was in paragraph 64 of the Respondent’s Reply where she raises additional facts in support of the assessment that one finds the statement: "The Appellant would have been fully supported by HBAP and HHBV even in the absence of the Deed of Guarantee." The Appellant argues that as a new argument from the Respondent, the Respondent should not be allowed to shift the burden to the Appellant by having the Court order it to answer "what if" questions. The Appellant maintains hypothetical questions calling for speculation and an expression of an opinion are not proper. I agree. It is for the trial judge to determine this key fact, based on a review of all of the evidence presented as to what occurred those many years ago. It does not follow that just because the question of implicit support may be relevant, the Appellant should be required to speculate regarding the ultimate issue pertaining to implicit support. This is unfair and improper. The facts relating to the respective financial strengths of parent and subsidiary, their respective policies and all other surrounding circumstances leading to the explicit guarantee will have to be assessed and weighed. An officer of the Appellant, 14 and 23 years after the fact hypothesizing to what might have been without a guarantee is simply not appropriate.
+18. Request
+Request for the sourcing of the information set out in A-1 Tab 102 for each taxation year under appeal.
+19. Request
+Provide the identity of the depositors (in the context of a question relating to how many of the 18$ billion deposits in 1996 were sourced from other banks and other entities within the Appellant’s corporation group).
+20. Request
+Provide the source of the attrition assumptions set out at Exhibit A-1, Tab 102 for the period 1997-200 and the identity of the depositors.
+Challenge
+- question answered
+[34] The Exhibit referred to in this group of questions is the Appellant’s own analysis of the benefit of the guarantee. With respect to Request 18, the Appellant indicated in its November 30, 2009 correspondence to the Respondent that it was able to provide the answer. I am unclear, however, whether it has yet done so. Given the Confidentiality Order in this case, confidentiality should not be an issue. The Appellant should proceed to answer as it has indicated it will.
+[35] With respect to Request 19, the Appellant advised the Respondent it searched its records but was unable to find the information. I accept this response, and so too should the Respondent.
+[36] With respect to Request 20, the attrition rate used by the Appellant is significant in impacting the benefit. The Appellant does not appear to have addressed this. It is relevant and should be answered.
+21. Request
+Request for the financial information provided to the CDIC in 1999‑2000 for the purpose of establishing the Appellant’s rating category.
+22. Request
+Request for the quarterly and monthly financial information that would have been provided to OSFI during the period of 1996 to 2000.
+Challenge
+- the information is not relevant for purposes of subsections 69(2) and 247(2) because the financial information is not available to arm’s length persons for any purpose including the determination of an arm’s length guarantee fee
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- the Respondent asked the Appellant to produce the monthly and/or quarterly filings that would have been given to OSFI during the period 1996 to 2000. As a courtesy to the Respondent, the Appellant provided financial statements, posted to the OSFI website, in the binder accompanying the Appellant’s 2010 undertaking response.
+[37] The real concern here for the Appellant is the relevance of information that would not be available to a third party guarantor, as that is what is being requested. Clearly, any information provided by the Appellant to CDIC or OSFI that is in the public domain is not at issue. Why does the Respondent make these requests? Because, as she points out, "the issue in the appeal deals with the reasonableness of the price paid for a guarantee against the probability of its default. The analysis under sections 69 and 247 will require an examination, among other factors, of the financial strength, credit risk, leverage, risk exposures and default probabilities of the Appellant and its Parent corporations". The Respondent gets this language from Dr. van Deventer. The Respondent also refers to Dr. Kane’s affidavit where he states:
+"Documents and information provided by the Appellant in fulfilling its obligations to the CDIC would be highly relevant to the assessing the value received, if any, from the explicit guarantee in this case.".
+[38] The experts must bear in mind that the sections 69 and 247 analysis is a comparative one. It is one thing to suggest this information is helpful in assessing the value of the fee, but it is quite different to rely on it to determine what a third party would do without that information. The transfer pricing issue is not one of the value of the fee, but the reasonableness of the fee compared to an arm’s length fee. The arm’s length fee cannot be determined on the basis of information that an arm’s length party would not have. This does raise the intriguing question of whether the third party is deemed to have knowledge that the parent would have had notwithstanding in the real world it could not get that knowledge. My view is that one has to take the real world approach.
+[39] However, the value of the fee to the Appellant would be influenced by this internal confidential information. Is "value" to the Appellant relevant? Yes, but not with respect to the transfer pricing issue, only with respect to the issue of whether or not the fee was paid to earn income. The Respondent should be careful in the use of experts’ testimony.
+[40] Turning to the question of confidentiality, I do not understand the Appellant’s argument that legislation prohibits disclosure when the Confidentiality Order in this matter specifically defines confidential information as including information which is to be kept confidential pursuant to the CDIC Act and OSFI Act. Confidentiality is no bar to these Requests and they are to be answered, though not, as indicated, for the purposes of the transfer pricing issue.
+23. Request
+Request for copies of the financial information provided to the Parent bank on monthly or quarterly basis.
+Challenge
+- the Respondent asked for copies of the financial statements provided to the Parent bank on a monthly or quarterly basis. The Respondent did not ask for "financial information".
+[41] I agree the Request is for financial statements not financial information. The Appellant has indicated it found some of these records, but has not been specific as to whether it searched for the balance. If it did, so advise the Respondent.
+24. Request
+Request for the production of documents that relate to the operating plan for the taxation years under appeal and the reporting of the financial results against that operating plan.
+25. Request
+Determine whether the Parent bank would intervene to ensure that the operation plan was either met or, in the event it was not met, take steps to ensure that in the future it would be met.
+Challenge
+- the question is a pure fishing expedition. The specific nature of the documents requested is not specified. The question is so vague and the ambit of the request is so broad as to make the request incomprehensible. Note: the Appellant, however, provided the Respondent with the quarterly financial reporting to the Appellant’s board of directors which compared the financial results against operating plan.
+- The Appellant is not required by the Rules to contact third parties
+[42] The Appellant maintains these questions are too vague, yet in his discovery, Mr. McIsaac indicated that the Board did receive financial statements that show the performance of the bank against the operating plan on a quarterly basis: the Appellant advises these have been provided. Mr. McIsaac also stated that the Board would receive updates in terms of credit issues and credit quality. These documents are producible if Mr. McIsaac is able to locate them.
+[43] With respect to Request 25, while this does relate to the support provided by the Parent and may be relevant as it pertains to the years in issue, in reviewing Mr. McIsaac’s discovery, I am of the view he was unable to answer the question beyond a general observation that it would be part of the normal course of operating a business. This is not something that I require Mr. McIsaac to pursue further from the Parent, as whether or not the Parent intervened is information available to the Appellant and not exclusive to the Parent. The Appellant’s representative simply could not identify any specific interventions.
+26. Request
+Provide all balance sheets and income statements for the years under appeal for both the Appellant and the Parents offering the guarantee.
+Challenge
+- question answered in respect to the Appellant
+- question answered based on information of Parents located by Appellant
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- documents not in possession, control or power of the Appellant
+[44] The Respondent is looking for the Parents’ balance sheet and income statements as the Appellant’s statements have been provided. Some limited information of the Parents was also provided. The financial statements are producible pursuant to Rule 83(1) as I find they are relevant to a paragraph 18(1)(a) of the ITA inquiry. If the Appellant is unable to obtain any further financial statements beyond what it has already produced, it should briefly indicate to the Respondent why.
+27. Request
+Provide a record of all internal and external inspections, examinations, valuations and risk assessments of the Appellant and the Parents for the years under appeal.
+Challenge
+Question answered with respect to:
+- letters and public reports issued DBRS, S&P and Moody’s to the Appellant
+- the information is not relevant for purposes ss. 69(2) and 247(2) because it relates, in part, to non-arm’s length transactions.
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition.
+- risk assessments of rating agencies are within the Respondent’s means of knowledge
+- documents not in possession, control or power of the Appellant
+- the Appellant, however, provide the information which it located regarding published credit rating agency materials.
+[45] The Respondent relies on the experts’ affidavits in seeking this financial information (including the information sought in Requests, 28, 30, 32 and 35). It is interesting to note that different opinions were sought from the two experts. Dr. Kane’s affidavit states he has been retained to provide an expert opinion as to the fair market value of the guarantee, while Dr. van Deventer states he has been retained to provide an opinion "on the explicit guarantee fees, if any, that in the circumstances would have been reasonable for the Appellant to pay its Parent corporation in the years 1996 to 2000, had they be dealing at arm’s length".
+[46] In their affidavits Dr. Kane specifically addressed the items leading to Requests 27 and 30 and Dr. van Deventer addressed the items leading to Requests 28, 32 and 35.
+[47] With respect to Request 27 arising from Dr. Kane’s identification of factors that will assist in determining value of the guarantee, I agree that this information pertaining to the Appellant is relevant. The Appellant has provided some external information, presumably all that it has been able to locate. No further demand is required.
+[48] With respect to internal reports, I do find this request broadly framed. My reading of Dr. Kane’s need for information in this regard is that this is a matter of risk assessment. It is inappropriate to seek every inspection or examination of whatever nature of the Parent. Risk assessment reports alone are sufficient. Such risk assessments are necessary in getting a fuller picture of the Appellant’s financial strength and consequently both the need for and value of the guarantee. If there are any such internal risk assessment reports, they should be produced.
+[49] With respect to the Parents, I reiterate that the Request, as framed, is too far reaching to the point of being a fishing expedition. While there is merit in understanding the financial strength of the guarantor as well as the borrower, I question whether the inquiry need be as extensive at the Parents level. Again, I limit this Request. If the Parents possess any public (external) reports relating to them, similar to the DBRS, S&P or Moody’s reports provided with regards to the Appellant, then these should be provided under the Rule 83 production.
+[50] With respect to internal reports of the Parent, as the Request is framed it could extend to all such internal reports of all its subsidiaries. I question how much information is indeed required from the Parent to determine if the Parent is good for the guarantee, as surely that is the penultimate inquiry. Does the expert require every internal report of every subsidiary? No. This should be limited to specific risk assessment reports prepared by or for the Parents, assessing their risk or the Appellant’s risk.
+Foreseeing some possible disagreement between the Parties as to what is a risk assessment report, I would urge the Parties to be reasonable: the report need not be titled "Risk Assessment" provided it does address the creditworthiness of the entity assessed.
+28. Request
+Provide copies of the principles, guidelines and procedures of the Appellant and the Parents in respect of risk assessment and management for the years under appeal.
+Challenge
+- the information is not relevant to a determination under ss. 69(2) and 247(2) because it relates to non-arm’s length transactions
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- documents not in possession, control or power of the Appellant
+[51] The Appellant objects to the release of the Parents’ information on the basis this is seeking comparative information of other non-arm’s length entities, which is irrelevant for the transfer pricing analysis. Clearly, the Request comes from Dr. van Deventer’s affidavit in which it is evident he is engaged for the purposes of a third party comparison. Yet principles, guidelines and procedures would be applicable to the Appellant as well as others. It is not solely for purposes of non‑arm’s length comparison. Such information is relevant and producible.
+[52] I find the information requested from the Appellant itself is also relevant as it goes to value, as well as assisting and setting the basis on which a third party guarantor might evaluate the borrower’s financial strength. Dr. van Deventer explains he needs this information as it is important to determine the market’s perception of implicit support from the Parent to Appellant. Risk management and assessment by the Parent is relevant to that determination.
+29. Request
+Provide a list of all publicly traded securities the Appellant and the Parents had outstanding in the years under appeal and records of the daily bid-asked prices and closing and open prices for these same securities.
+Challenge
+Question answered with respect to the Appellant
+- the evidence does not support a finding a relevance
+- the question is a pure fishing expedition in relation to the Parents
+- the information is within the Respondent’s means of knowledge
+- documents not in possession, control or power of the Appellant
+[53] The Respondent argues that "the list of publicly traded securities of the Appellant and its Parents and their prices will provide information on the financial market participants’ view of the creditworthiness of these entities and will allow for a more accurate determination of the reasonable or arm’s length price of the guarantee". This information, I am presuming, would have been readily available in the years at issue, unlike some of the other information requested. The Appellant argues that it has answered this inquiry vis-à-vis the Appellant’s publicly held shares by providing details of those shares as well as advising the Respondent it was unable, after searching its records, to locate daily bid-asked prices or the closing and opening prices. I consider that a full answer with respect to the Appellant.
+[54] With respect to the request of the Parents, the Appellant suggests the Respondent can seek that information through various services such as Bloombergs or Reuters. If the Parents have already accumulated this information, and consequently could save considerable time and expense of the Respondent in seeking it out from a third party, that information should be provided by the Appellant. If not, after an appropriate search of the Parents’ records, the Appellant is not required to contact third parties such as Bloombergs to put together such information. The Respondent will have to do so.
+30. Request
+Provide any and all information available for credit default swaps written on or contemplated by the Appellant and the Parents for the years under appeal
+Challenge
+Questions answered with respect to the Appellant.
+- the evidence does not support a finding of relevance
+- the information is within the Respondent’s means of knowledge
+- documents in possession, control or power of the Appellant
+[55] This question arises from Dr. Kane’s affidavit. I am satisfied from a review of Mr. McIsaac’s transcript and subsequent correspondence between the parties that the Request has been answered with respect to the Appellant. I see nothing in the undertaking that requires a similar search in this situation where the Parent is the reference entity.
+32. Request
+Provide monthly, quarterly and semi-annual disclosure of how much of the liabilities of the Appellant were supplied by entities within the HSBC group of companies in the years under appeal.
+Provide monthly, quarterly or semi-annual disclosure of how much of the assets of the Appellant are represented by extensions of credit to other entities within the HSBC group of companies.
+Challenge
+Question answered
+[56] This information is, I find, relevant, and if it is not available from the Appellant, inquiries should be made of the Parent for such information. This type of information is producible pursuant to the Rule 83 Order.
+34. Request
+Provide copies of documents for the years under appeal regarding the guarantees by the Parents of other affiliates or subsidiaries within the HSBC group of companies.
+Challenge
+- the information is not relevant for the purposes of ss. 69(2) and 247(2) because the transactions are between non-arm’s length persons
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- the issue is not raised in the pleadings
+- documents not in possession, control or power of the Appellant
+[57] I do not agree with the Respondent that all copies of other non-arm’s length guarantees go to the value of the guarantee in issue, nor that the trial judge will want to know how the transfer pricing policy was applied to other related entities. The trier of fact may want to know the extent of the Parents’ guarantees of affiliated corporations as that certainly goes to the question of creditworthiness and financial strength. The Request, as framed, smacks more of a fishing expedition and need not be answered, neither do such documents need to be produced pursuant to any subsection 83(1) order.
+35. Request
+Provide internal data from the Parents and the Appellant that lists the dates, amounts, yield to maturity at issue, and matched maturity spread over relevant government funding costs for all debt issues by entities with the HSBC group of companies of 1 year or more in maturity and with an initial principal amount of $50 million or more during the years under appeal.
+Challenge
+Question answered with respect to the Appellant
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- documents not in the possession, control or power of the Appellant
+[58] This Request arises from Dr. van Deventer’s affidavit. The Appellant claims the undertaking has been answered vis-à-vis the Appellant. It has looked and been unable to locate such information. I see no need to demand further explanation of the steps taken.
+[59] With respect to the same information from the Parents, it is not irrelevant in assessing the financial strength or creditworthiness of the Parent, which is important for establishing the value of the guarantee, as well as determining the implicit support of the Parent. My concern about this last issue, however, is whether any third party guarantor could access such information in assessing the strength of implicit support. This is more a concern for the trial judge in attempting to accurately evaluate a comparative third party guarantee. For purposes of discovery, however, I find the information sought meets the low threshold for relevance, certainly as it pertains to determining the value of the guarantee.
+36. Request
+Provide copies of any internal documents of the Parents and the Appellant that discuss the rating or credit quality of the Appellant during the years under appeal.
+Challenge
+- the evidence does not support a finding of relevance
+- the question is a pure fishing expedition
+- issue was not raised in the pleadings
+- documents not in the possession, control or power of the Appellant
+[60] The Appellant is concerned with the breadth of the inquiry as it, according to the Appellant, is a "hunt for any tidbit of information which it (Respondent) might be able to make use of when affiants focus on the methods which they might use in considering the guarantee fee". Frankly, I do not fully appreciate what the Appellant is getting at. The credit rating of the Appellant is something the Appellant itself raises in its appeal indicating the guarantee increased the Appellant’s rating. Any documents from the Appellant or Parents that discuss the Appellant’s credit rating are relevant in assessing the worth of the guarantees to the Appellant, and the importance the Parents placed on the ratings in providing and maintaining such guarantee. I do not see this as a fishing expedition.
+[61] With respect to the Parents, their request should be covered by the subsection 83(1) production ruling.
+[62] I have not been made aware of how many employees the Parents have or had at the time, or how many of those employees had any involvement in the issuance and maintenance of the guarantees, but impliedly from the Appellant’s submissions, this Request could prove monumental. As guidance to the Parties, I suggest that a reasonable search by the Appellant could be limited to materials on the subject arising at board meetings as well as materials in the files of those employees or officers of the Parent who were involved on a hands-on basis with the guarantees and their ongoing scrutiny; in effect, files specifically related to the guarantees.
+37. Request
+Provide copies of internal or external documents of the Appellant or the Parents which relate to a valuation of the guarantee fee in issue from the perspective of the Parents.
+If no such documents exist, explain whether it is the Appellant’s position that the guarantee in issue had no value to the Parents in the years under appeal and why.
+Challenge
+- the question is a pure fishing expedition
+- the question calls for speculation and an opinion
+- documents not in possession, control or power of the Appellant
+[63] The Respondent argues that the value to the Parents of the guarantee goes to both the implicit support and price of the guarantee. The Appellant argues that the value to the Parents does not impact on prospective third party guarantors in the comparative paradigm, as Parents would obviously not be the guarantors. Yet, the financial marketplace, according to the Respondent, recognizes implicit support from Parents and would seek out this information if asked to provide a guarantee. The dilemma here is that what is being sought from the Parents (internal documents regarding the value of the explicit guarantee) is information that would not exist if a third party guarantor was in play. It is something of a dog chasing its tail.
+[64] With respect to the need of the information as it might shed light on the price paid by the Appellant, this goes to the issue of whether the Appellant paid a fee for the purpose of earning producing income. This is not a question to be assessed from the guarantors’ perspective. It is the value seen through the eyes of the Appellant that is critical. This Request need not be answered.
+38. Request
+Questions relating to the $200 million payment the Parent bank received for contracting with the CDIC to fulfill certain obligations.
+Challenge
+Questions answered but otherwise not raised in the pleadings
+[65] Only questions 86 and 396 remain. The Appellant’s objection to those questions is that the matter is not relevant and not raised in the pleadings. The Appellant claims, it is not relevant because:
+i) "the $200 million payment was made by CDIC to HBAP in 1986 and has nothing to do with the calculation of the guarantee fee during the 1996 to 2000 taxation years;
+ii) the $200 million payment was made as part of the acquisition by the Appellant of the Bank of British Columbia in 1986;
+iii) the reasons for $200 million payment are set out in the agreement between CDIC and HBAP dated November 26, 1986; and
+iv) the Respondent’s affiants stated, during cross‑examination, that they did not request any information related to the $200 million payment."
+[66] I disagree with the Appellant on both the issue of relevance and pleadings and find that questions regarding the $200 million payment would be proper, though I share the Appellant’s concern that a blanket approval is sought without any full appreciation of the nature of the questions. The Respondent replies that naturally the questions would be in accordance with proper principles of examination.
+[67] I agree that the Respondent need not be forced to rely upon answers given to the Appellant by a representative of CDIC, and is entitled to the Appellant’s view. I see no need to review the transcript of the Appellant’s discovery of the CDIC representative.
+[68] With that brief background, I would allow the Respondent to ask questions on this topic, but see no need for extensive inquiry given the nature of the documents involved and the examination of the CDIC representative. If Mr. McIsaac was not reattending for other questions, I would suggest written questions would be more appropriate.
+39. Request
+Provide the financial analysis performed to determine the benefits which the Appellant believed it was obtaining as a result of having the guarantee in the period subsequent to the relevant taxation years.
+Challenge
+- the question is a pure fishing expedition
+- the issue is not raised in the pleadings
+[69] The Respondent’s view is that it is relevant what benefits the Appellant saw in the guarantee. I agree. However, the analysis sought was conducted a couple of years after the years under appeal, with respect to benefits received at that time. The Respondent claims that does not make the information irrelevant, but that it may require some adjustments. The Appellant argues this information has no relevance to the value of the guarantee in the relevant year. The benefit the Appellant saw in the guarantee is to be limited to the benefit at the relevant time. I find that a subsequent analysis about a subsequent time period is not relevant to that inquiry and could possible create confusion and murkiness in considering the real issue. This need not be answered.
+40. Request
+Ask Mr. Bakos if Mr. Atkinson is still with GHQ.
+Challenge
+Question answered
+[70] The Appellant asked Mr. Bakos, who answered that he did not know. The Respondent viewed this as a simple question that, with minimal inquiry, Mr. Bakos could have found out. Frankly, this is a silly little debate and, I have, regrettably, the somewhat non-judicial irritating sense that each word I write in connection with it, is one word too many, one second too long. Perhaps this is normal thrust and parry in tax litigation with a considerable amount at stake, but should reason and practicality simply take flight and mutual stubbornness insidiously take over? Surely not. Even outside the examination process could Respondent’s counsel not just ask the Appellant’s counsel to find out if an individual is still with an organization related to the Appellant? This is all the more baffling to me as at page 361 of the transcript of Mr. McIsaac, Mr. Kroft stated: "Mr. Atkinson, I believe the witness has indicated on a number of occasions, is not with the bank, namely the Parent, any longer". Enough said!
+41. Request
+Refusal to answer questions relating to Appellant’s premium category, filings or insured deposits with the CDIC.
+Challenge
+- the information is not relevant for purposes of subsections 69(2) and 247(2) because the information is not available to arm’s length persons for any purpose including the determination of an arm’s length guarantee fee
+- the question is a pure fishing expedition
+[71] The Appellant objects as this information would not be available to an arm’s length guarantor, and therefore has no bearing on a comparative fee charged by such guarantor in what the Appellant refers to as the "real world". Yes, but it is relevant to what the Parent guarantors charged and what the Appellant paid for the explicit guarantee and that is necessary information to evaluate the value, if any, to be accorded to the guarantee, and consequently to determine whether the Appellant paid the fee for purposes of earning or producing income. This is not a fishing expedition. Finally, such information should be protected by the Confidentiality Order already in place in this matter.
+42. Request
+Refusal to make enquiries of former employees.
+Challenge
+Questions answered.
+- the issue is not raised in the pleadings
+[72] Some of these questions have been answered though it appears a request for the final version of the draft HKBC guarantee remains to be provided. I cannot find any specific reference in argument to this question however. In any event, if it has not been provided, it should be.
+[73] The Respondent had mistakenly identified question 807, rather than 805 of the transcript, which asked Mr. McIsaac to inquire of Mr. Atkinson why the Parent was glad CDIC insisted on a guarantee. If the Appellant is able to track down Mr. Atkinson, this is relevant information to be answered by a former (?) employee.
+43. Request
+Redaction of letters provided in response to undertaking number 60.
+[74] As the Appellant is not opposed to an order in this regard, the Court does so order production in unredacted form.
+44. Request
+Request for information on surveys of any kind conducted by the Appellant to determine the effect of the removal of the guarantee on its client base in 2005. The request also relates to surveys conducted by the Appellant with its clients to determine whether any of them had left as a result of the removal of the guarantee.
+Challenge
+- the question is a pure fishing expedition
+- the issue is not raised in the pleadings
+[75] This need not be answered given my reasoning as set out in connection with Request 39.
+45. Request
+Request that the Appellant enquire of Mr. Bond or through materials available within the HSBC group of companies what his source of information was that the guarantee was never intended to grow from CAD 1.7 billion to CAD 1 billion (Exhibit A1, tab 206, (ii)).
+Challenge
+- the question is a pure fishing expedition
+- the appellant is not required by the Rules to contact third parties
+[76] The Appellant argues that the Respondent is fishing for any information to assist its case regarding the deposit liabilities of the Appellant. I disagree. This information could have direct bearing on the price determined for the guarantee and is to be answered.
+46. Request
+Determine whether the Appellant has any information that Mr. Dalton’s assertion that the statement "the deposit guarantee is clearly indicated as the quid quo pro for the $200 million injection by the CDIC" is not factually accurate, and, if so, what is that information Parent banks received for contracting with the CDIC to fulfill certain obligations.
+Challenge
+Question was answered
+[77] The Appellant responded that the CDIC agreed to pay $200 million pursuant to the agreement between CDIC and HBAP and that agreement speaks for itself. That response does not answer the question, which goes to some possible motivation behind the guarantee. This is to be answered.
+47. Request
+Request for information about its interest rate swaps and credit derivatives spreads for the years under appeal.
+Challenge
+Acknowledged to have been answered.
+48. Request
+Provide the Respondent with the amount of deposits placed by HSBC group of companies during the relevant taxation years reflected on a quarterly and monthly basis.
+Challenge
+Question answered
+[78] This Request is really a demand that the Appellant not only search its records but ask its Parents to do likewise. If the Parents have documents setting out such information, I find it is relevant and should be produced pursuant to subsection 83(1) order.
+[79] In summary, I order that pursuant to Rule 83(1), the Appellant provide all relevant documents of the Parents, subject however to the confidentiality provisions set out in the Confidentiality Order of April 27, 2010 by October 22, 2010. I encourage the parties to take note of what I have indicated as relevant or not relevant with respect to the Requests generally, in taking a reasonable approach to this production. For example, documents are to pertain to the years in question, and to the explicit guarantees of the Appellant, not with respect to other affiliates’ guarantees.
+[80] With respect to the orders concerning each of the 48 Requests, these shall be contained in the order itself.
+[81] Costs to the Respondent in any event of the cause, except for incremental costs arising from the personal attendance of the expert witnesses for their cross‑examination.
+Signed at Ottawa, Canada, this 8th day of September 2010.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2010 TCC 462
+COURT FILE NO.: 2006-3579(IT)G
+STYLE OF CAUSE: HSBC BANK CANADA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: n/a
+DATE OF HEARING: n/a
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF ORDER: September 8th, 2010
+SIGNATORIES:
+Counsel for the Appellant:
+Edwin G. Kroft, Q.C.
+Counsel for the Respondent:
+John Shipley and Justine Malone
+COUNSEL OF RECORD:
+For the :
+Name: Edwin G. Kroft, Q.C.
+Firm: Blake Cassels & Graydon LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 93 DTC 5186 (FCA).
+[2] (1983) 75 C.P.R. (2d) 130 (F.C.T.D.).
+[3] [2008] FC 1101.
+[4] 2009 FCA 39.
+[5] 2010 TCC 94.
+[6] 2009 TCC 563.

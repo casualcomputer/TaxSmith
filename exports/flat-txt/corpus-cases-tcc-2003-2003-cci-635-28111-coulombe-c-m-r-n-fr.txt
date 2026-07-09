@@ -1,0 +1,125 @@
+Title: Coulombe c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28111/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-635-28111-coulombe-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-10-14
+
+# Coulombe c. M.R.N.
+
+- Citation: 2003 CCI 635
+- Decision date: 2003-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1645, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coulombe c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-14
+Référence neutre
+2003 CCI 635
+Numéro de dossier
+2002-1464(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-1464(EI)
+ENTRE :
+MARIE-ROSE COULOMBE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 12 juin 2003 à Inukjuak (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+M. Serge Molière
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2003.
+« François Angers »
+Juge Angers
+Référence : 2003CCI635
+Date : 20031014
+Dossier : 2002-1464(EI)
+ENTRE :
+MARIE-ROSE COULOMBE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Cet appel a été entendu à Inukjuak (Québec) le 12 juin 2003. L'appelante porte en appel la décision du ministre du Revenu national en date du 22 janvier 2002 rendue en vertu du paragraphe 93(3) de la Loi sur l'assurance-emploi ( « la Loi ») et voulant que son emploi avec le Centre de santé Inuulitsivik (le payeur) durant la période du 27 février au 8 avril 2000 ne soit pas assurable au sens de la Loi et notamment de son alinéa 5(1)a). Le motif de cette décision était que l'emploi ne satisfait pas aux conditions requises pour qu'il y ait un contrat de louage de services.
+[2] En rendant sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes, lesquelles ont été admises ou niées selon ce qui est indiqué ci-après :
+a) le payeur est membre du réseau des CLSC dans le grand nord du Québec; [admis]
+b) l'appelante exploitait une entreprise de gardiennage d'enfants; [nié]
+c) en février 2000, le payeur a contacté l'appelante pour garder un enfant d'un an souffrant de rachitisme pour une courte période ; [admis]
+d) l'appelante agissait comme famille d'accueil ; [nié]
+e) pendant 25 jours, l'appelante gardait l'enfant 24 heures sur 24 à son domicile; [admis]
+f) un agent du payeur se rendait au domicile de l'appelante 3 fois par semaine pour venir chercher l'enfant et l'amener auprès du médecin ; [admis]
+g) sauf pour la tenue d'un registre de la nourriture prise par l'enfant, l'appelante agissait à sa guise ; [nié]
+h) il n'y avait pas de lien de subordination entre le payeur et l'appelante ; [nié]
+i) le payeur fournissait les vêtements et parfois les couches ; [admis]
+j) l'appelante fournissait son domicile, le mobilier, la nourriture, le lait et parfois les couches ; [admis]
+k) l'appelante recevait un tarif journalier de 14,97$ en plus d'une prime de 6,62 $ pour le lait. [admis]
+[3] L'appelante a témoigné avoir été pressentie par une dame pour garder un enfant d'un an pour une période qui, au début, ne devait être que de trois jours. Elle devait simplement en prendre soin, le nourrir et lui administrer des médicaments, et quelqu'un devait ensuite venir chercher l'enfant. À l'époque, l'appelante n'exploitait pas d'entreprise de gardiennage d'enfants, n'était pas enregistrée en tant qu'entreprise de gardiennage ni ne possédait de numéro d'entreprise. L'indemnité versée était basée sur un tarif journalier de 14,97 $ plus une prime pour le lait. Cette indemnité a été fixée par le payeur.
+[4] L'appelante avait beaucoup d'expérience dans le domaine puisqu'elle avait exploité une entreprise de gardiennage d'enfants de 1991 jusqu'en décembre 1999.
+[5] La période de trois jours initialement prévue s'est prolongée et l'appelante a fini par garder l'enfant jusqu'au 8 avril 2000. Un représentant du payeur venait chercher l'enfant 2 ou 3 fois par semaine pour des visites chez le médecin ou chez ses parents. Après ces visites, l'appelante remettait au représentant le registre qu'elle conservait, lequel indiquait tout ce que l'enfant avait consommé en nourriture et en médicaments. Il devait y avoir un tel suivi puisque l'enfant souffrait de malnutrition. Il s'agissait pour l'appelante d'une première expérience avec le payeur et elle croyait recevoir son taux journalier habituel. C'est le payeur, toutefois, qui a fixé le taux et l'appelante a souligné qu'elle fournissait ses services à titre humanitaire.
+[6] Pierre Laroche est conseiller en gestion des ressources humaines au Centre de santé Inuulitsivik. Parmi ses tâches, il est responsable de la protection de la jeunesse. Selon son témoignage, les enfants sont placés dans des familles d'accueil de façon temporaire par ordonnance d'un tribunal ou par un travailleur communautaire. Les familles d'accueil sont indemnisées pour ce service selon un barème établi en fonction de l'âge de l'enfant. Certains critères sont utilisés pour arriver à établir le prix journalier fixe. L'appelante en l'espèce a servi de famille d'accueil.
+[7] Selon monsieur Laroche, les familles d'accueil reçoivent la visite du travailleur communautaire selon les exigences établies dans l'ordonnance de la cour. Il a souligné que le Centre de santé comme tel n'exerce aucune contrôle sur les familles d'accueil. La sélection des familles d'accueil est faite par le travailleur communautaire et c'est ce dernier qui visite les enfants et s'assure que l'ordonnance de la cour est respectée et que les enfants sont bien soignés. Le travailleur communautaire relève du Centre de santé. Monsieur Laroche a témoigné que, pas plus que celui des autres familles d'accueil, le nom de l'appelante ne paraît sur la liste des employés du Centre de santé. Le paiement se fait aux familles d'accueil sur présentation d'une facture, comme ce fut le cas pour l'appelante en l'espèce.
+[8] Le représentant de l'appelante soutient que cette dernière ne peut pas être une travailleuse autonome parce qu'elle n'était pas enregistrée en tant que telle et ne possédait aucun numéro d'entreprise. De plus, il soutient que le Centre de santé exerçait un contrôle sur le travail de l'appelante en ce sens que le travailleur communautaire relevant du Centre visitait l'appelante trois fois par semaine. Cette supervision régulière exercée en raison des besoins importants de l'enfant créait, selon le représentant de l'appelante, un lien de subordination essentiel à un contrat de louage de services. Il ajoute qu'un travailleur autonome n'aurait pas accepté un tarif journalier de 14,96 $.
+[9] L'avocate de l'intimé prétend que le fait pour l'appelante d'avoir à garder un registre de la consommation de nourriture et de médicaments ne constitue pas un contrôle du Centre de santé sur elle. Il ne s'agit que d'une façon de s'assurer que l'enfant est bien et que les exigences d'une ordonnance d'une cour sont respectées. L'appelante a agi comme une mère et vu leur nombre minime, les visites faites chaque semaine ne représentaient qu'un contrôle du résultat et ne constituaient pas un contrôle exercé sur l'appelante. Elle ajoute que le travail de l'appelante n'était pas intégré dans les activités du Centre de santé et que l'application du critère de l'intégration ne permet pas de conclure à l'existence d'un contrat de louage de services. L'indemnité reçue par l'appelante n'est pas un salaire mais plutôt un remboursement des dépenses engagées. Elle ne correspond pas à des heures assurables égales à des heures de salaire.
+[10] Parmi les documents déposés en preuve figure l'annexe 5 de la pièce A-3, où se trouve une description du recrutement et de la sélection des familles d'accueil. Sous la rubrique « contrôle, surveillance et visite des familles d'accueil », le document précise « [qu']une personne du Centre de protection de l'enfance et de la jeunesse visite régulièrement le bénéficiaire d'une famille d'accueil ainsi que la famille d'accueil même, afin de répondre à leurs demandes en services sociaux, de s'assurer que le pairage est toujours bon, de prévenir tout malentendu, de voir à ce que l'enfant reçoive toujours de bons services de sa famille d'accueil. »
+[11] La question en litige se résume donc à ceci : déterminer si l'emploi de l'appelante durant la période du 27 février au 8 avril 2000 avec le Centre de santé Inuulitsivik était un emploi assurable selon les dispositions de la Loi. Il incombe à l'appelante de démontrer selon la prépondérance des probabilités qu'il existait entre elle et le Centre de santé un véritable contrat de louage de services.
+[12] La Cour suprême du Canada, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, a donné son aval aux critères établis par la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. c. M.R.N. Après avoir analysé la jurisprudence ainsi que les critères qui s'en dégagent et qui sont destinés à aider les tribunaux à trancher la question de l'existence d'un contrat de louage de services, le juge Major a résumé le tout comme suit au paragraphe 47 :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[13] Les critères applicables sont le degré de contrôle exercé par le payeur, la propriété des outils, les chances de profit, les risques de perte et le degré d'intégration.
+[14] Dans l'arrêt Charbonneau c. Canada [1996] A.C.F. no 1337 (Q.L.) le juge Décary de la Cour d'appel fédérale dit que le contrôle des résultats ne doit pas être confondu avec le contrôle du travailleur. En l'espèce, les faits ont révélé qu'il était nécessaire que l'appelante s'acquitte de ses responsabilités et obligations de façon continue à tous les jours, et que le travailleur communautaire la visitait à raison de trois visites par semaine. Il est évident que certaines directives ont accompagné le placement de l'enfant chez l'appelante, mais je ne suis pas convaincu que ces directives constituent en soi le degré de contrôle que l'on trouve dans une relation employeur-employé. Il s'agit en l'espèce d'une situation où la visite du travailleur communautaire était beaucoup plus pour s'assurer que tout allait bien et que l'ordonnance d'une cour visant le bien-être de l'enfant était respectée. La preuve présentée au procès est insuffisante pour me permettre de conclure que le payeur exerçait un contrôle sur l'appelante. L'application du critère du contrôle n'appuie donc pas l'existence d'un contrat de louage de services.
+[15] La propriété des outils n'est pas pertinent en l'espèce. Quant aux chances de profit et aux risques de perte, l'appelante était rémunérée selon un taux journalier. Quoiqu'une somme additionnelle lui ait été attribuée pour le lait et les couches, les faits admis montrent que l'appelante contribuait également à l'achat de ces choses. Le taux quotidien de 14,97 $ pour 24 heures de soins et d'attention est loin de satisfaire aux normes d'emploi et il satisfait encore moins à la norme du salaire minimum. D'un autre côté, je suis d'accord avec le représentant de l'appelante quand il souligne qu'un travailleur autonome ne travaillerait pas à un tel tarif non plus. Le critère des chances de profit et des risques de perte est donc difficile d'application ici et il ne tend à établir l'existence ni d'un contrat de louage de services ni d'un contrat de services. Il s'agit vraiment d'un geste humanitaire de la part de l'appelante.
+[16] Les activités de l'appelante en l'espèce n'étaient pas intégrées à celles du Centre de santé Inuulitsivik. Elle a plutôt fourni un service accessoire par rapport aux responsabilités du Centre et ce service était lié davantage à l'exécution d'ordonnances de tribunaux exigeant le placement d'enfants dont le bien-être était en jeu. Le critère de l'intégration ne permet donc pas de conclure à l'existence d'un contrat de louage de services.
+[17] Le travail de l'appelante est louable et essentiel pour assurer le bien-être d'enfants dans le besoin. En l'espèce, cependant, le contexte ne se prête malheureusement pas à la conclusion qu'il existait entre elle et le payeur une relation employeur-employé au sens de la Loi.
+[18] Pour ces motifs, la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2003.
+« François Angers »
+L'honorable juge François Angers
+RÉFÉRENCE :
+2003CCI635
+No DU DOSSIER DE LA COUR :
+2002-1464(EI)
+INTITULÉ DE LA CAUSE :
+Marie-Rose Coulombe et Le Ministre du Revenu National
+LIEU DE L'AUDIENCE :
+Inukjuak (Québec)
+DATE DE L'AUDIENCE :
+le 12 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge François Angers
+DATE DU JUGEMENT :
+le 14 octobre 2003
+COMPARUTIONS :
+Pour l'appelant(e) :
+M. Serge Molière
+Pour l'intimé(e) :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

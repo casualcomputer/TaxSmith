@@ -1,0 +1,288 @@
+---
+title: "Siméon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28674/index.do"
+last_modified: "2008-05-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 214"
+citation2: ""
+neutral_citation: "2008 TCC 214"
+decision_date: "2008-05-26"
+language: "en"
+item_id: "28674"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1269
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:09:36.788000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "84edb274e4268de6500f9d8e08d592601a77b7926aecc00b7d115fe7174239ff"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Siméon v. The Queen
+
+- Citation: 2008 TCC 214
+- Decision date: 2008-05-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1269, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Siméon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-26
+Neutral citation
+2008 TCC 214
+File numbers
+2007-3855(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3855(IT)I
+BETWEEN:
+JEAN-SÉBASTIEN SIMÉON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 11, 2008, at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Chantal Roberge
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2002 and 2003 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons and details, on the basis that certain expenses disallowed in the assessments under appeal were admitted, at the trial, to be justified.
+Signed at Ottawa, Canada, this 26th day of May 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 13th day of July 2010.
+Monica F. Chamberlain, Translator
+Citation: 2008TCC214
+Date: 20080616
+Docket: 2007-3855(IT)I
+BETWEEN:
+JEAN-SÉBASTIEN SIMÉON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 2002 and 2003 taxation years.
+[2] The issue to be decided is whether, for the 2002 and 2003 taxation years, the Minister of National Revenue (the Minister) was justified in disallowing
+(a) the amounts of $738 and $767 deducted by the appellant as carrying costs;
+(b) the amounts of $3,616 and $5,618 deducted by the appellant as employment expenses; and
+(c) the amounts of $2,374 and $9,100 deducted by the appellant as vehicle expenses.
+[3] In making the initial assessments, on May 5, 2003, for the 2002 taxation year, and on April 19, 2004, for the 2003 taxation year, which assessments were confirmed on July 31, 2006, after the appellant formally waived application of the normal reassessment period, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) In the course of the taxation years in issue, the appellant worked for Industrial Alliance Insurance and Financial Services (hereinafter "the employer"). (admitted)
+(b) According to the Minister's records,
+(i) the appellant lived at 8 Nancy Street in Victoriaville, Quebec, starting in 1995; (admitted)
+(j) on June 13, 2002, the appellant moved to 28 Debilly Street in Victoriaville, Quebec. (admitted)
+(c) The appellant was audited by the Minister's auditor (hereinafter "the auditor"); (admitted)
+CARRYING CHARGES
+(d) For the 2002 and 2003 taxation years, the appellant claimed, inter alia, the amounts of $738 and $767, respectively, as carrying charges. (denied)
+(e) The amounts referred to in the preceding subparagraph pertained to expenses associated with a personal line of credit from the National Bank. (denied)
+(f) The auditor therefore disallowed the amounts of $738 and $767 claimed by the appellant for the 2002 and 2003 taxation year, respectively. (denied)
+EMPLOYMENT EXPENSES
+(g) For each of the taxation years 2002 and 2003, the appellant submitted to the Minister a Form T2200 (Declaration of Conditions of Employment) duly signed by a representative of the employer. (admitted)
+(h) The Form T2200 stated that
+(i) under the terms of his employment contract, the appellant was required to pay the expenses incurred in the performance of his duties, (admitted)
+(ii)the appellant was normally required to work away from the employer's place of business or in different places, (admitted)
+(iii) the appellant did not receive any allowance from his employer, (admitted)
+(iv) the appellant had to incur all automobile and other expenses, (admitted)
+(v) the appellant was paid, wholly or partly, by commission or other similar amount based on the volume of sales made or contracts negotiated, (admitted)
+(vi) the appellant was sometimes required to be away for at least 12 hours from the municipality or metropolitan area of the business where he normally reported for work, (admitted) and
+(vii) the appellant had to purchase supplies that he used directly in his work. (admitted)
+(i) Following his audit, the auditor disallowed the following amounts claimed by the appellant against his commission income (see the Appendix for details): (denied apart from the amounts)
+Description
+2002
+2003
+Employment expenses
+$3,616
+$5,618
+Vehicle expenses
+$2,374
+$9,100
+$5,990
+$14,718
+Employment expenses
+(j) The appellant incurred neither the $3,616 that he claimed as employment expenses for the 2002 taxation year, nor the $5,618 that he claimed as employment expenses for the 2003 taxation year. (denied)
+Motor vehicle expenses
+(k) The appellant owned a 1993 Mazda 626. (admitted)
+(l) On April 21, 2000, the appellant leased a 2000 Subaru Outback ("the Subaru") for 48 months. (admitted)
+(m) The monthly payments on the Subaru were $657.96 (admitted)
+(n) On November 5, 2003, the appellant purchased an unrepaired Audit TT that had been in an accident (hereinafter "the Audi"). (denied)
+(o) The price paid for the Audi, including GST and PST, was $31,056.75. (admitted)
+(p) The appellant kept no driving log for the taxation years in issue. (admitted)
+Fuel
+(q) The $1,388 and $1,227 claimed as fuel expenses for the 2002 and 2003 taxation years, respectively, were personal expenses of the appellant's. (denied)
+Maintenance and repair
+(r) The $1,544 and $2,716 claimed as motor vehicle maintenance and repair expenses for the 2002 and 2003 taxation years, respectively, were not incurred by the appellant for the purposes of earning income from an office or employment. (denied)
+(s) The total of $4,228 claimed as maintenance and repair expenses for the Audi in the course of the 2003 taxation year was a capital expenditure because the money was used in order to fix up the vehicle and was not for normal maintenance. (denied)
+(t) The auditor estimated that the vehicles' personal-use percentage for the 2002 and 2003 taxation years was 20%. (denied)
+(u) Consequently, the auditor calculated that the personal-use amounts for the vehicles in the 2002 and 2003 taxation years were $2,131 ($10,657 x 20%) and $3,284 ($16,419 x 20%) respectively. (denied)
+[4] After being sworn in, the appellant admitted to subparagraphs 9(a), (b)(i) and (ii), (c), (g), (h)(i), (ii), (iii), (iv), (v), (vi) and (vii), (k), (l), (m), (o) and (p). He denied the contents of the other subparagraphs, namely 9(d), (e), (f), (i), (j), (n), (k), (r), (s), (t) and (u).
+[5] The appellant explained that he had been working in the financial field for several years when he received the assessments. He describes himself as a financial planner, and it appears that he mostly represented a company that was primarily engaged in the sale of life, disability, salary and other insurance policies.
+[6] During the periods in question, the appellant performed managerial functions and was also responsible for a few agents. In addition to being the resource person, he promoted sales by the team for which he was responsible.
+[7] His testimony and evidence were a response to the contents of the voluminous file prepared by the respondent in support of the assessments that he appealed.
+[8] The carrying charges that were disallowed constituted the first issue that the appellant addressed: they amounted to $738 for the 2002 taxation year and $767 for the 2003 taxation year.
+[9] With respect to this issue, the appellant said that he had made efforts to obtain certain documents capable of validating his allegations. Since he was purportedly unable to obtain such documents, he essentially argued that he withdrew $10,000 from his line of credit and invested it.
+[10] He said that the interest should be deductible because the amount was taken from his personal line of credit but was used for investment purposes. No evidence whatsoever was adduced in connection with the date or the nature of the investment.
+[11] In support of his claims, the appellant asserted several times that the Minister had initially refused the deduction of far more interest. He finally got some of what he wanted after submitting a relevant document confirming the purpose of his hypothecary loan.
+[12] Based on this example, the appellant sought to demonstrate, by analogy, that the same process was at work here. He did not understand why his explanations, which were essentially valid, were not accepted, since he had established the merits of his allegations regarding another matter.
+[13] The second issue that the appellant addressed was the disallowed expenses of $5,990 for the 2002 taxation year and $14,718 for the 2003 taxation year. He submitted that he was entitled to deduct these expenses because they were incurred to earn income from employment.
+[14] The appellant provided all sorts of explanations which were rather general in nature. Among other things, he explained, and repeated, that he had to launch all sorts of promotional activities in order to stimulate sales by the people who were under his wing.
+[15] Several invoices disallowed by the Minister were cited. These included purchases from the Société des alcools du Québec, theatre tickets, golf event tickets, a home theatre purchase, a DVD player, bottles of wine and other expenses that he said had been paid for with his credit card so that he could obtain written evidence of his purchases.
+[16] The appellant argued that all these purchases were ultimately made with a view to stimulating the sales made by his business, and were part of various promotions and contests.
+[17] He specified that the items were bonuses, prizes and gifts given out on various occasions as part of promotional activities designed to stimulate sales.
+[18] Among other things, he said that it was necessary to launch such promotional campaigns in August and September of each year in order to motivate the representatives, who often worked more slowly after returning from their vacations.
+[19] The explanations given in order to explain that the disallowed expenses were valid were essentially very general oral explanations that were often confused and ambiguous and were never validated or confirmed by specific facts, relevant documents or other witnesses.
+[20] Lastly, the appellant explained that he leased a Subaru that he used for his employment, and that when that lease agreement expired, he purchased an Audi TT.
+[21] He explained that the vehicle in question had been imported from the United States and was purchased as a severely damaged vehicle (SDV).
+[22] Although the vehicle was described as having been only slightly damaged, the appellant had to make many repairs or have them carried out by others. In fact, he admitted that the vehicle had been considered a write-off, and that it had to be thoroughly checked by the Société de l’assurance automobile du Québec before it could be licensed in the province.
+[23] He therefore deducted the amounts spent on repairs as though they were regular maintenance expenses, in the same category as fuel purchases, or tire and brake pad replacements. In the Minister's submission, the amounts in question should have been capitalized as part of the vehicle's purchase cost.
+[24] The cross-examination of the appellant sought primarily to show a certain number of things that were obviously intended to impeach the credibility of the appellant's allegations.
+[25] Among other things, the appellant admitted that he had deducted restaurant expenses even though it was clear, simply from looking at the bills, that they were essentially personal expenses. He had also deducted the cost of a hotel room and meals that had benefitted himself and his family only.
+[26] The evidence has shown that the appellant was an avid consumer of car tires; he was unable to provide reasonable explanations that would account for how and why these expenses were related to income-generating activities.
+[27] The appellant admitted that several components of the assessments that he appealed are valid, because he did not refer to them in his testimony. The appellant's evidence was essentially oral, and consisted of factual allegations that undermined his credibility.
+[28] I am referring, among other things, to an invoice that clearly states [TRANSLATION] "Reminder to replace timing belt"; the appellant claimed that the timing belt in question was not the one referred to in the invoice. In other words, he claimed that the mechanic was reminding him to replace the timing belt on a vehicle other than the one that the appellant had entrusted to him.
+[29] Certain invoices, notably invoices from mechanics doing business as "Les spécialistes", do not describe the vehicle that was serviced.
+[30] The appellant had no log containing the details of his daily work-related trips, and he did not provide a list of clients or a copy of his day planner, even though he was asked to provide the documents in question during the audit. In fact, he did not refer to such records in his evidence.
+[31] Also at issue were an amount of $1,200 for which he obtained an $878 reimbursement; a telescope purchase; an invoice dated June 24 (St‑Jean‑Baptiste Day); and a bill for expenses that were clearly incurred for personal and family purposes at Val-Cartier village.
+[32] He said that he had to reimburse certain clients in cash, which explained why he could not produce receipts substantiating such transactions.
+[33] He was unable to explain why he had kept the serial number of the home theatre system that was purchased and offered for promotional purposes. Is it possible that the sound system in question was actually purchased for the sole benefit of the appellant and his family? He also asserted, in lieu of adequate explanations, that certain expenses had been shared with co-workers who did not testify.
+[34] The respondent, for her part, also called a witness: Guylaine Fraser, who was responsible for the appellant's file at the objection stage. Ms. Fraser briefly explained the work that was done, emphasizing the reasons and grounds based on which certain expenses were disallowed.
+[35] For example, she disallowed certain gasoline expenses. Her decision in this regard was based on a table prepared by Transport Canada to determine the fuel consumption of vehicles comparable to the appellant's, and on a table showing gasoline prices in the appellant's area.
+[36] The appellant's challenge essentially amounted to his arguing that the data supplied by Transport Canada were unrealistic and that his vehicle's fuel consumption was much greater than what Transport Canada's publication stated.
+[37] The Court intervened to point out to the appellant that he bore the burden of proof, and that this burden could not be met merely by pointing out a few errors in the opposing party's evidence with a view to showing that the assessment was neither well-founded nor justified.
+[38] It is not sufficient for the appellant to assert that an expense was disallowed without valid cause. One must be able to provide explanations and relevant documents that leave no doubt as to their admissibility, and, above all, their plausibility and relevance.
+[39] Attacking disallowed expenses by claiming that they should have been accepted and relying on essentially oral explanations is a risky endeavour and certainly demonstrates temerity, particularly for a self-described financial advisor. In the instant case, the temerity is particularly striking because the evidence has shown that several of the expenses claimed were plainly unjustified.
+[40] Furthermore, a person who calls himself a financial planning advisor or consultant needs to have a modicum of discipline with respect to the management of his own affairs.
+[41] To rebut the Minister's allegations by means of dubious, incoherent, vague and summary oral explanations certainly does not lay a reasonable foundation for a challenge, especially where the person concerned acknowledges that several of the disallowed expenses were indeed personal expenses that were properly disallowed.
+[42] Moreover, in claiming that mistakes had been made, the appellant failed basically to discharge his obligation to meet his burden of proof, as he was not in possession of even a few documents, such as the documents requested as part of the audit, namely, a log recording the use of the vehicle, a list of clients, and a day planner.
+[43] With respect to the expenses that were disallowed as maintenance expenses but characterized as capital expenses — a very important component — I find, on a preponderance of the evidence, that the Minister's approach is completely justified.
+[44] Indeed, the alignment, tire replacement, shock absorber and brake-related expenses can sometimes be considered regular maintenance expenses, but when they are incurred to bring a vehicle up to Quebec's roadworthiness standards, it is another matter entirely.
+[45] The vehicle in question was purchased after U.S. authorities had decided that it was no longer roadworthy because it had been in a serious accident.
+[46] The vehicle had to undergo considerable repairs (though the appellant claimed the repairs were few) as well as a thorough inspection before it could be registered so that it could be driven on the province's roads.
+[47] In this regard, there is no doubt that certain expenses characterized as regular maintenance expenses took on an entirely different dimension in the context of the overhaul of the vehicle in question. These were capital expenditures because they were in addition to the vehicle's purchase price. Such expenditures cannot be treated like regular maintenance expenditures even if they are to replace parts in accordance with the vehicle's maintenance schedule.
+[48] In order to discharge his burden of proof, the appellant had to submit credible, reasonable and plausible evidence, supported or validated by appropriate vouchers, testimony or documents.
+[49] Not only did he not do that, he essentially contested the merits of the assessment's components by means of oral explanations that were often confused and incomplete, but also, in certain respects, completely implausible.
+[50] The appellant was far from being a poorly informed and unaware taxpayer who has no notion of what a supporting document is. In fact, he claimed to be a financial planning advisor.
+[51] Given this context, the appellant should have demonstrated a minimum level of vigilance in the handling of his business expenses, and it is clear that he did not do so.
+[52] On the contrary, the evidence shows that the appellant acted negligently and with temerity. The appellant, a highly articulate man, thought that he was above the most basic rules of sound financial management.
+[53] In light of the appellant's testimony, I believe that he deliberately chose equivocation and confusion in the belief that anything could be justified based solely on the nature of his work.
+[54] Unfortunately for him, and fortunately for the principle of fairness in taxation, an expense must not only be explained and justified, but also proven by means of relevant documents. Such evidence can be provided by means of a log book, day planner, a client list, and adequate invoices and witnesses.
+[55] The appellant chose to rely solely on his own testimony, which was deficient, incomplete and implausible. He must bear the consequence, which, in the case at bar, is the rejection of all his allegations.
+[56] For her part, the respondent argued that she was being accommodating when she accepted the full amount of certain expenses in support of which some evidence or initial documentary proof had been provided, even though the provisions of the Act, notably section 67.1, would have permitted her to accept only 50% of such expenses. This is an argument that I cannot take into account.
+[57] However, the respondent made admissions with respect to certain expenses, the details of which are as follows:
+2002 TAXATION YEAR
+Category
+Nature
+Amount
+Page
+Assessment
+Inadequate voucher (MasterCard statement)
+$51.00
+p. 2
+Entertainment
+expense
+Motel Classique
+Bistro Le Coq Noir
+$99.00
+$104.90
+p. 2
+p. 2
+Office
+supplies
+Les affaires newspaper
+(MasterCard statement)
+$103.00
+p. 2
+Advert'g and
+promotion
+Alain R. Bergeron (Fast Start
+-- President's contest)
+$97.00
+p. 3
+2003 TAXATION YEAR
+Category
+Nature
+Amount
+Page
+Assessment
+Inadequate voucher (MasterCard statement)
+$68.00
+p. 4
+Training
+Three MasterCard statements
+$140.00
+p. 5
+Office supplies
+and expenses
+Bureau Services Financiers
+$132 + $53 + $185 + $185 + $260 =
+$815.00
+p. 6
+Advert'g and
+promotion
+Reimbursement – recruitment
+$10.56 $ + $50.33 + $9.92 =
+$70.81
+p. 7
+TOTAL FOR 2002
+$454.90
+TOTAL FOR 2003
+$1,093.81
+[58] I accept the admissions, and allow the appeal so that a reassessment, in keeping with the admissions, can be made on the basis that the deduction of the aforementioned expenses should have been allowed when the reassessments were made. There will be no award as to costs.
+Signed at Ottawa, Canada, this 16th day of June 2008.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 13th day of July 2010.
+Monica F. Chamberlain, Translator
+CITATION: 2008TCC214
+COURT FILE NO.: 2007-3855(IT)I
+STYLE OF CAUSE: JEAN-SÉBASTIEN SIMÉON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 11, 2008
+REASONS FOR JUDGMENT: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 26, 2008
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Chantal Roberge
+COUNSEL OF RECORD:
+For the appellant:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

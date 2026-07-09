@@ -1,0 +1,197 @@
+Title: Wadley c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27219/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-440-27219-wadley-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-08-01
+
+# Wadley c. La Reine
+
+- Citation: 2006 CCI 440
+- Decision date: 2006-08-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 825, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wadley c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-01
+Référence neutre
+2006 CCI 440
+Numéro de dossier
+2005-3392(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3392(IT)I
+ENTRE :
+ARLENE WADLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel d'Arlene Wadley (2005-3394(GST)I), le 26 avril 2006, à Edmonton (Alberta)
+Devant : L'honorable juge Georgette Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Darcie Charlton
+____________________________________________________________________
+JUGEMENT L'appel est accueilli et la nouvelle cotisation établie en application de la Loi de l'impôt sur le revenu est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs du jugement ci-joints.
+Signé à Welland (Ontario), ce 1er jour d'août 2006.
+Juge Sheridan
+Traduction certifiée conforme
+ce 15e jour de novembre 2006.
+Hélène Tremblay, traductrice
+Dossier : 2005-3394(GST)I
+ENTRE :
+ARLENE WADLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel d'Arlene Wadley (2005-3392(IT)I), le 26 avril 2006, à Edmonton (Alberta)
+Devant : L'honorable juge Georgette Sheridan
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Darcie Charlton
+____________________________________________________________________
+JUGEMENT L'appel est accueilli et la cotisation établie en application de la Loi sur la taxe d'accise est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs du jugement ci-joints.
+Signé à Welland (Ontario), ce 1er jour d'août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 15e jour de novembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI440
+Date : 20060801
+Dossiers : 2005-3392(IT)I
+2005-3394(GST)I
+ENTRE :
+ARLENE WADLEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] Dans le cadre de la procédure informelle, l'appelante, Arlene Wadley, interjette appel de la décision du ministre du Revenu national de rejeter la déduction, demandée en application de la Loi de l'impôt sur le revenu, de certaines dépenses de ses revenus agricoles pour les années 2001 et 2002, et aussi de refuser de lui accorder des crédits de taxe sur les intrants (le « CTI » ) visant ces mêmes dépenses en application du paragraphe 169(1) de la Loi sur la taxe d'accise. Le ministre a fondé ses décisions sur l'hypothèse voulant que l'appelante n'ait pas exploité une entreprise agricole, au sens de la Loi de l'impôt sur le revenu, et que ses activités n'aient pas représenté des « activités commerciales » au sens de la Loi sur la taxe d'accise. Le ministre est d'avis que les revenus de l'appelante pour les années 2001 et 2002 étaient tirés d'un bien, et plus particulièrement, de la location d'un pâturage et du métayage d'une prairie de fauche. Il a ainsi admis les dépenses liées à ces deux activités. Il est aussi question d'une troisième activité, soit le projet de chariots[1], que le ministre a interprétée comme étant un passe-temps ou une activité non commerciale. Par conséquent, il n'a pas admis la déduction de dépenses ou accordé de CTI en ce qui a trait à cette activité. Les appels ont été entendus ensemble, sur preuve commune.
+Dispositions législatives
+[2] Les dispositions de la Loi de l'impôt sur le revenu qui s'appliquent ici sont rédigées en ces termes :
+9(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[...]
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles :
+a) [...] les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+[...]
+h) [...] le montant des frais personnels ou de subsistance du contribuable - à l'exception des frais de déplacement engagés par celui-ci dans le cadre de l'exploitation de son entreprise pendant qu'il était absent de chez lui;
+[...]
+248(1) Les définitions qui suivent s'appliquent à la présente loi.
+[...]
+« frais personnels ou de subsistance » Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l'usage ou l'avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l'union de fait ou de l'adoption, et non entretenus dans le but ou avec l'espoir raisonnable de tirer un profit de l'exploitation d'une entreprise; [...]
+[3] L'alinéa 169(1)a) et le paragraphe 123(1) de la Loi sur la taxe d'accise sont rédigés en ces termes :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d'une année d'imposition de la personne, le pourcentage que représente l'utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l'utilisation totale qu'elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises; [C'est moi qui souligne.]
+[...]
+123(1) Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l'exception de quelque projet ou affaire qu'entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures (sauf des fournitures exonérées) d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+Jurisprudence
+[4] Dans l'arrêt Stewart c. Canada[2], la Cour suprême du Canada a énoncé les critères qu'il faut appliquer pour déterminer si un contribuable peut recourir aux dispositions de l'article 9 de la Loi de l'impôt sur le revenu :
+Il est manifeste que, pour que l'art. 9 s'applique, le contribuable doit d'abord déterminer s'il a une source de revenu constituée soit d'une entreprise, soit d'un bien. Comme nous l'avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d'un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d'un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l'existence d'une source :
+(i) L'activité du contribuable est-elle exercée en vue de réaliser un profit, ou s'agit-il d'une démarche personnelle?
+(ii) S'il ne s'agit pas d'une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?[3]
+[5] Au paragraphe 54 de Stewart, la Cour suprême a reformulé le premier élément du critère de la façon suivante :
+[...] « Le contribuable a-t-il l'intention d'exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve étayant cette intention? » Cela oblige le contribuable à établir que son intention prédominante était de tirer profit de l'activité et que cette activité a été exercée conformément à des normes objectives de comportement d'homme d'affaires sérieux.
+[6] Afin de trancher, le juge des faits doit tenir compte des facteurs suivants :
+(1) l'état des profits et des pertes pour les années antérieures;
+(2) la formation du contribuable;
+(3) la voie sur laquelle il entend s'engager;
+(4) la capacité de l'entreprise de réaliser un profit.
+Analyse
+[7] Pour les motifs énoncés ci-dessous, je suis convaincue qu'au cours des années 2001 et 2002, Mme Wadley exploitait une entreprise agricole et que son intention prédominante était d'en tirer profit.
+[8] En 2001, Mme Wadley était âgée de 65 ans. Elle a été élevée sur une ferme en Alberta. Petite fille, elle s'asseyait sur les genoux de son père et il lui apprenait tout sur les chevaux. Jeune femme, elle a épousé un agriculteur et a travaillé à ses côtés sur leur ferme jusqu'à ce qu'il décède en 1975. Elle s'occupait de l'achat et de la vente de marchandises de ferme, elle aidait à l'élevage et à la reproduction du bétail, activités qui comprennent l'insémination artificielle des vaches, le vêlage, ainsi que l'élevage de chevaux. Elle a poursuivi ses activités agricoles jusqu'en 1987, année où elle a vendu la grande propriété foncière. En 1992, elle a acheté une propriété de 157 acres avec l'intention d'y poursuivre ses activités agricoles, mais à une moins grande échelle.
+[9] La nouvelle propriété était constituée de 35 acres de pâturage arboré (le « pâturage » ) et de 100 acres de prairie de fauche (la « prairie de fauche » ). La maison de ferme, la grange et les remises d'entreposage se situaient sur les 25 acres restants. Elle tenait ses outils et son équipement agricoles dans les dépendances. Comme outils et équipement, elle avait entre autres un tracteur de 65 hp de marque Ford 4610, un camion d'une capacité d'une tonne de marque Ford, une remorque à bétail et une remorque à plateforme, un ensemble de herses, une faucheuse à foin, un râteau, une botteleuse mécanique, un tracteur « quatre roues » [4], un dispositif de battage à rotor, ainsi que de nombreux outils à main. Les dépendances contenaient aussi des chariots et des traîneaux anciens, une barre de coupe et des ensembles de harnais. De plus, il y avait des réservoirs de carburant pour tout l'équipement agricole.
+Le pâturage
+[10] Pendant les années d'imposition en litige, Mme Wadley avait une entente avec son voisin selon laquelle le bétail de ce dernier pouvait aller paître dans le pâturage de juin à septembre, moyennant des frais mensuels par tête. Cinq des chevaux de Mme Wadley allaient aussi paître au même endroit. Dans son témoignage, l'agent des appels, John Price, a énoncé les étapes de l'examen de l'opposition de Mme Wadley, ainsi que le fondement de sa décision de confirmer la conclusion tirée par le vérificateur, conclusion voulant que Mme Wadley n'ait pas exploité activement la propriété agricole. Après avoir lu le rapport du vérificateur et après avoir discuté avec l'appelante de la nature de ses activités, M. Price a conclu que les efforts accomplis par Mme Wadley quant à son pâturage représentaient une [traduction] « activité passive » [5]. Il a indiqué ce qui suit :
+[TRADUCTION]
+Elle a aussi dit qu'elle travaillait environ deux fois par semaine, une heure par jour, pour sortir et aller surveiller le bétail. Autrement, le bétail... vous savez, c'est une question de bon sens. Les vaches se promènent et elles broutent. Elles font ce qu'elles ont à faire : elles mangent de l'herbe. Ce n'est pas une activité qui demande beaucoup, disons, de participation de la part de Mme Wadley[6].
+[11] Il faut souligner que M. Price a avoué, en toute sincérité, qu'il n'avait pas d'expérience de l'agriculture, et que l'affaire en l'espèce était la première vérification d'une exploitation agricole qu'il effectuait dans sa carrière. Cependant, ni M. Price, ni les deux vérificateurs attitrés n'ont visité la ferme de Mme Wadley, même si cette dernière les a invités à le faire. M. Price a suivi rigoureusement les procédures liées à ses tâches. Je suis donc convaincue qu'il a analysé au mieux de ses connaissances les informations mises à sa disposition (selon moi, insuffisantes) au moyen des critères établis par l'Agence du revenu du Canada pour déterminer ce qui constitue une entreprise. Toutefois, il reste que Mme Wadley était insultée et frustrée par ce qu'elle qualifie d'absolu mépris à l'égard de toute une vie de travail acharné et de son expérience dans le domaine de l'agriculture. Bien que je ne sois pas convaincue que les fonctionnaires aient agi de façon discriminatoire ou malveillante, comme le soutient Mme Wadley, étant donné les circonstances, je comprends qu'elle puisse avoir l'impression que son âge et son sexe ont eu une incidence négative sur la décision du ministre.
+[12] En dépit de la perception qu'a M. Price des activités de Mme Wadley, le pâturage des vaches demande plus d'effort que la simple tenue d'un cinq à sept bovin. Quel genre de travail le pâturage des vaches représentait-il pour Mme Wadley? Chaque année, elle faisait des travaux d'entretien des corrals où elle tenait les vaches et de la clôture autour du pâturage. Aussi, elle coupait les broussailles et les mauvaises herbes qui se trouvaient sur le bord de la clôture. Pendant tout l'été, elle capturait des taupes dans le pâturage. Elle devait aussi herser le terrain pour enlever les terriers des taupes afin d'empêcher le bétail de se blesser. Elle remplissait les bassins d'eau du bétail et s'assurait qu'il y avait toujours assez de sel. Du haut de toutes ses années d'expérience, elle surveillait les vaches et ses chevaux pour s'assurer que tout allait bien. Il est donc clair que les efforts qu'elle déployait dans le cadre de ses activités vont au-delà de ce qui est normalement attendu d'un locateur pour ce qui est de l'entretien de son bien locatif. Pendant les années d'imposition en litige, Mme Wadley n'avait pas de vaches. Après la crise de l'encéphalopathie spongiforme bovine (l' « ESB » ) en Alberta, il ne lui semblait pas raisonnable d'en acheter. Elle a donc décidé de conclure une entente avec son voisin pour l'utilisation de son pâturage. En soi, ceci ne suffit pas pour que l'on puisse conclure que son entreprise agricole avait soudainement été convertie en bien locatif.
+La prairie de fauche
+[13] En ce qui concerne la prairie de fauche, Mme Wadley avait conclu une entente de métayage avec son voisin. En 1992, la prairie avait été ensemencée de luzerne, de phléole des prés et de brome. Ce sont des plantes pluriannuelles, elles n'ont donc pas à être ensemencées chaque année. C'est probablement ce qui a porté le ministre à croire[7] que le foin était [traduction] « une conséquence naturelle de la possession du terrain, non pas le résultat d'une exploitation agricole active » . Cette prétention peut surprendre plus d'un Canadien travaillant dans les prairies de fauche, et elle a été réfutée par Mme Wadley et par son témoin, Bill Brass.
+[14] M. Brass est un bachelier ès sciences spécialisé en agriculture, diplômé de l'Université de l'Alberta. Il connaît Mme Wadley depuis l'été 1975, époque à laquelle il était étudiant et travaillait sur sa ferme. Aujourd'hui, il exploite lui-même un terrain agricole à Leduc, en Alberta, à environ 10 miles de la ferme de Mme Wadley. Il est aussi un agent des pesticides à Santé Canada. M. Brass n'a pas témoigné à titre d'expert, mais plutôt à titre d'une personne ayant une connaissance directe des conditions du sol et des pratiques de fourrage de la région en question. Tout comme Mme Wadley, il était un témoin très crédible.
+[15] Je suis convaincue que Mme Wadley travaillait activement à faire en sorte que la prairie de fauche contribue à la prospérité de son exploitation agricole. Elle devait fertiliser et herser la prairie, et aussi décider d'une année à l'autre de la fréquence de la coupe du foin afin de maximiser la production. En 2001 et en 2002, l'Alberta a connu des périodes de sécheresse dévastatrices. En 2001, Mme Wadley a récolté 23 balles de foin de 1 200 lb. En 2002, elle en a récolté 20. En 2005, au retour de la pluie, la même prairie de fauche a donné environ 242 balles de foin.
+[16] Étant donné qu'elle partageait la récolte à parts égales avec son voisin, on comprend qu'elle ne participait pas aussi activement à l'exploitation du terrain que si la récolte lui appartenait exclusivement. Toutefois, on ne peut pas nier qu'elle a fourni des efforts pour mener à bien le projet. En plus des activités énumérées précédemment, elle coupait les broussailles, elle faisait des balles de foin et elle les charroyait. L'avocate de l'intimée a accordé beaucoup d'importance au fait que le voisin avec lequel Mme Wadley pratiquait le métayage n'a pas été appelé à témoigner, et que sa lettre[8] (rédigée dans le but de corroborer le témoignage de Mme Wadley ayant trait à son travail dans la prairie de fauche) n'indiquait pas de façon précise qu'elle utilisait l'équipement. À mon avis, il ne s'agit pas ici de facteurs déterminants. Tout d'abord, le présent appel est régi par la procédure informelle, et Mme Wadley se représentait elle-même. Dans un tel cas, les normes relatives aux éléments probants et à la procédure sont moins rigoureuses que dans le cas d'une audience relevant de la procédure générale. De toute évidence, comme l'a souligné l'avocate de l'intimée, il aurait été préférable que l'auteur de la pièce A-2 soit appelé à témoigner. Il aurait pu, à tout le moins, expliquer à la Cour si son utilisation de la voix passive dans sa lettre était intentionnelle et avait pour but d'éviter de dire que Mme Wadley n'utilisait pas l'équipement, ou s'il s'agit seulement de son style d'écriture. Cependant, même sans la lettre, je suis convaincue que, dans une certaine mesure, Mme Wadley participait personnellement à la production et à la récolte du foin qui étaient effectuées à l'aide de son propre équipement. Elle conservait une partie des balles de foin pour ses chevaux, et elle tirait un profit en en vendant d'autres par l'entremise de son voisin. Je n'attache aucune importance au fait que son voisin ne lui demandait pas une « commission » distincte pour ce service de vente. La preuve qui m'a été présentée me permet de conclure que les frais de ce service étaient inclus dans sa part de la récolte.
+Le projet de chariots
+[17] La troisième activité que menait Mme Wadley sur sa propriété était la restauration de harnais et de chariots anciens, ainsi que l'enseignement de la conduite de chariots (le « projet de chariots » ). L'avocate de l'intimée a avancé avec assez d'ardeur qu'il s'agissait d'une activité présentant [traduction] « un aspect personnel et récréatif important » [9] qui l'empêchait d'être considérée comme une activité de nature commerciale. En outre, l'avocate a soutenu que, quoi qu'il en fût, la restauration de harnais et de véhicules attelés anciens ne constituait pas une « activité agricole » .
+[18] Selon moi, les prétentions de l'intimée ne sont pas étayées par la preuve. Il est évident que Mme Wadley, une femme qui a toujours eu une passion pour les chevaux, travaillait avec plaisir et fierté à restaurer des chariots, des barres de coupe et des harnais, ainsi qu'à enseigner les compétences nécessaires pour conduire des chariots. Cependant, ceci n'empêche pas le fait qu'en bout de ligne, ce type d'activité peut devenir une entreprise rentable.
+[19] En 2001 et en 2002, les conditions de production de foin et de bétail étaient loin d'être parfaites. C'est à peu près à cette époque que Mme Wadley a commencé à développer son idée de restaurer des chariots et de donner des cours de conduite de chariots. À ce moment-là, le plan était encore embryonnaire. Mme Wadley avait l'intention de sauver des chariots et des harnais patrimoniaux abandonnés provenant de la campagne albertaine, de les restaurer pour leur redonner leur fierté d'antan, et de les revendre ou de les utiliser pour enseigner la conduite de chariots. Vu son expérience et la matière première dont elle disposait, le plan de Mme Wadley était réalisable. Elle possédait déjà la plupart de l'équipement et des installations nécessaires, y compris un camion, une remorque à plateforme pour transporter ses achats, les bâtiments pour l'entreposage et pour le travail de restauration, ainsi que de nombreux outils. La flexibilité de son horaire lui permettait de participer à des ventes et à des ventes aux enchères partout dans la province. Elle possédait des chevaux et les harnais nécessaires pour tirer les chariots restaurés qu'elle prévoyait utiliser pour donner des cours de conduite. Elle connaissait aussi des personnes-ressources qu'elle avait rencontrées grâce à sa participation de longue date à la Alberta Trail Riders' Association. C'est d'ailleurs là qu'elle a rencontré sa première élève, Shirley McFall, qui a témoigné lors de l'audience. Mme McFall a indiqué que les grands espaces et la tranquillité de la ferme de Mme Wadley étaient propices à l'apprentissage de la conduite de chariots. Mme Wadley était membre de la Alberta Carriage Driving Association depuis 1995. Elle participait à différentes foires et compétitions de conduite de chariots où elle bénéficiait d'une certaine visibilité et où elle pouvait promouvoir son produit auprès de son public cible. Bien qu'elle n'ait pas eu de site Web ou de campagne de publicité officiels, il était tout à fait raisonnable de miser sur ces événements, étant donné la nature de l'entreprise, l'étape à laquelle elle en était sur le plan du développement, et l'endroit où les activités devaient être menées. Toutes les années d'expérience de travail sur une ferme et, plus particulièrement, avec les chevaux, conféraient à Mme Wadley les compétences nécessaires pour mener les activités connexes à cet aspect de son entreprise agricole. Toutefois, elle était néophyte pour ce qui était de trouver la meilleure façon de développer ce nouvel élément de son entreprise. C'est ce qui explique le fait qu'elle n'avait pas de plan d'affaires officiel, et qu'elle ne savait pas trop quoi répondre quand les vérificateurs, l'agent des appels et, finalement, l'avocate de l'intimée, lui reprochaient cette faille. C'est aussi ce qui vient expliquer pourquoi elle se montrait réticente à demander un prix convenable pour son travail. À l'avenir, si elle veut que son entreprise réussisse, elle devra venir à bout de cette réticence.
+[20] Je conclus que, en dépit de ces failles, le plan de Mme Wadley avait le potentiel de générer des revenus. Je tire cette conclusion en tenant compte de l'avertissement formulé par le juge Bowman (maintenant juge en chef) dans la décision Nichol c. La Reine[10], cité avec approbation au paragraphe 45 de l'arrêt Stewart :
+[Le contribuable] a fait ce qui peut, rétrospectivement, être considéré comme une erreur de jugement, mais il s'agissait d'une question d'appréciation commerciale et cette appréciation n'était manifestement pas déraisonnable au point d'autoriser cette Cour ou le ministre du Revenu national à y substituer leur propre appréciation ou à pénaliser le contribuable pour avoir pris une décision que moi-même ou le ministre, forts de la clairvoyance qu'un gérant d'estrade possède toujours, ne prendrions peut-être pas aujourd'hui. [...]
+[21] Pour appuyer la position du ministre, l'avocate de l'intimée a renvoyé à la décision Partridge c. Canada[11], une décision rendue par le juge Rip dans une affaire entendue dans le cadre de la procédure informelle et confirmée en appel par la Cour d'appel fédérale. Selon mon interprétation des motifs du jugement du juge Rip, cette affaire se distingue facilement des faits en l'espèce. L'appelant, M. Partridge, a acheté sa première ferme lorsqu'il a pris sa retraite des Forces armées canadiennes en 1979, après 30 ans de service. Pendant la période qui a suivi jusqu'au moment de l'établissement de la cotisation en 1997, il avait été propriétaire de trois différents biens fonciers ruraux au Québec et en Ontario. Il voulait inclure les dépenses se rapportant à des réparations relatives à sa maison comme dépenses d'agriculture au motif que « une maison de ferme est un actif faisant partie intégrante d'une entreprise agricole » [12]. L'affirmation qui a porté le coup fatal aux arguments de M. Partridge était son admission qu'il « exploitait la ferme non pas pour réaliser un profit, mais pour apporter une contribution à la communauté. Il a dit que les fermes devaient lui assurer un "gagne-pain", lui procurer un "moyen de subsistance et non un profit" et lui permettre de consommer les produits qu'il cultivait » [13]. Compte tenu de ce témoignage, le juge Rip a conclu que M. Partridge n'exploitait pas activement une entreprise agricole.
+[22] Pour sa part, Mme Wadley a mené des activités agricoles dans la même région de l'Alberta toute sa vie. Même si, au cours des années, elle a habité sur différentes fermes, ses déménagements suivaient l'évolution normale de la vie : son enfance sur la ferme de son père; son mariage à un agriculteur; le décès de son mari en 1975; la nécessité de réduire ses avoirs en 1992 à cause de son avancement en âge. Mme Wadley s'est toujours considérée comme une agricultrice exploitant une entreprise agricole. Chaque année depuis 1975, elle produit une déclaration de revenus à ce titre. Même si elle a subi des pertes au cours de la période de 12 ans[14] visée par l'examen du ministre[15], il en est de même pour bon nombre de Canadiens qui s'efforcent de gagner leur vie en cultivant la terre. Il est vrai qu'à son âge, Mme Wadley touche maintenant certaines rentes et certains revenus de placements, mais je ne vois pas comment ceci, en soi, puisse porter atteinte à son statut d'agricultrice. À vrai dire, un tel raisonnement pénaliserait Mme Wadley pour toutes les années de sa carrière en agriculture passées à contribuer à des régimes de rentes et de placements.
+Conclusion
+[23] Mme Wadley n'était pas une professionnelle urbaine quelconque qui cherchait à contrebalancer ses frais de bureau en jouant à l'éleveuse de pur-sang pendant les fins de semaine. Elle était une agricultrice d'expérience qui possédait une terre agricole et tout ce qui y est connexe. En 2001 et en 2002, à une époque où il était difficile de tirer profit de la production du foin et de l'élevage de vaches en Alberta, elle a fait de son mieux pour exploiter les autres aspects de sa ferme qui pouvaient produire des revenus et a investi une partie de son temps et de son argent dans le projet de chariots. Je suis convaincue qu'en 2001 et en 2002, Mme Wadley exploitait une entreprise agricole sur sa propriété et, par conséquent, que ses revenus étaient tirés d'une entreprise agricole. Les dépenses effectuées pour le pâturage, la prairie de fauche et le projet de chariots pouvaient être déduites en application du paragraphe 9(1) de la Loi de l'impôt sur le revenu. Mme Wadley avait aussi le droit de demander des CTI en application du paragraphe 169(1) de la Loi sur la taxe d'accise relativement aux fournitures effectuées dans le cadre de ces activités. La seule exception est la déduction du montant de 120 $ relatif à une demande de règlement qui, comme l'a reconnu Mme Wadley, avait été inclus par mégarde dans sa déclaration de revenus. Le montant en question ne peut donc pas être déduit.
+[24] Les appels sont accueillis et la nouvelle cotisation établie en application de la Loi de l'impôt sur le revenu, ainsi que la cotisation établie en application de la Loi sur la taxe d'accise, sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en fonction des motifs du jugement ci-joints.
+Signé à Welland (Ontario), ce 1er jour d'août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 15e jour de novembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI440
+N ° DES DOSSIERS : 2005-3392(IT)I
+2005-3394(GST)I
+INTITULÉ : ARLENE WADLEY ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L'AUDIENCE : Le 26 avril 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Georgette Sheridan
+DATE DU JUGEMENT : Le 1er août 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimée :
+Me Darcie Charlton
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Expliqué en détail plus loin dans le texte.
+[2] [2002] 2 R.C.S. 645.
+[3] Précité, au paragraphe 50.
+[4] Un tracteur à quatre roues motrices.
+[5] Transcription, p. 34, lignes 25 et 26.
+[6] Transcription, p. 34, lignes 19 à 25
+[7] Réponse à l'avis d'appel, alinéa 8m).
+[8] Pièce A-2.
+[9] Transcription, p. 590201 Saskatchewan Ltd., lignes 8-9.
+[10] 93 DTC 1216, p. 1219.
+[11] 2003 A.C.F. n ° 296 (C.A.F.); [2001] A.C.I. n ° 579 (C.C.I.).
+[12] Précité au paragraphe 9.
+[13] Précité, au paragraphe 11.
+[14] De 1990 à 2002.
+[15] Réponse à l'avis d'appel, annexe « B » .

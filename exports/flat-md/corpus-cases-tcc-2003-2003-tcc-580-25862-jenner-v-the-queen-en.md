@@ -1,0 +1,195 @@
+---
+title: "Jenner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25862/index.do"
+last_modified: "2003-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 580"
+citation2: ""
+neutral_citation: "2003 TCC 580"
+decision_date: "2003-08-14"
+language: "en"
+item_id: "25862"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3856
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:50:34.553000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd7d56767a353b20059ff81c0dd197cd95292662e010687ebf236f043ab495ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jenner v. The Queen
+
+- Citation: 2003 TCC 580
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3856, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-14
+Neutral citation
+2003 TCC 580
+File numbers
+2002-2163(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2163(IT)I
+BETWEEN:
+WILLIAM ALLEN JENNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 6, 2003 at North Bay, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed.
+Signed at Victoria, British Columbia, this 14th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC580
+Date: 20030814
+Docket: 2002-2163(IT)I
+BETWEEN:
+WILLIAM ALLEN JENNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] This appeal is from an assessment for the appellant's 2000 taxation year.
+[2] Mr. Jenner is an electrician. His home in that year (and still is) is in Sturgeon Falls, Ontario.
+[3] In 2000 he was employed by four employers at five work sites in Ontario as follows:
+Ontario Electric at the Y.M.C.A. Project
+in Sudbury, Ontario
+(February 28, 2000 to July 20, 2000)
+Smith & Long at 100 University Avenue,
+Toronto, Ontario
+(July 24, 2000 to September 1, 2000)
+Smith & Long at 939 Eglinton Avenue East,
+Toronto, Ontario
+(September 4, 2000 to September 15, 2000)
+Brothers & Wright at Linen & Things Project
+Mississauga, Ontario
+(October 10, 2000 to October 13, 2000)
+Graywood Electric at the Cara Food-Airport
+Infield Project, Toronto, Ontario
+(October 16, 2000 to December 31, 2000)
+[4] In filing his return of income for 2000 Mr. Jenner deducted $9,783.75 as employment expenses. This figure is made up as follows:
+Legal and accounting fees
+$ 90.95
+Allowable motor vehicle expenses
+6,072.80
+Food, beverages and lodging
+$4,200.00 @ 50%
+2,100.00
+Supplies - stationery
+1,520.00
+$ 9,783.75
+[5] In his notice of appeal Mr. Jenner increased his claim to $13,788.23 but at trial he abandoned the additional amounts.
+[6] The respondent does not dispute that the amounts claimed in the return of income were in fact spent. What is disputed is the deductibility.
+[7] Mr. Jenner's argument was skilfully and articulately presented by him, and I can do no better than reproduce a portion of his written argument as follows:
+Under the provisions regarding "Special Work Sites" there is no requirement to work away from the employer's place of business. Rather, it is based upon the taxpayers principal place of residence to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site.
+Regarding my employment with Ontario Electric in Sudbury, Ontario, while this employment did meet all the conditions in order for the special work site rules to apply, I did in fact commute on a daily basis. However, I do not believe this to be a bar from deducting certain transportation costs for the following reasons:
+• Generally, when individuals find employment in regions distant from their residence, those individuals must inevitably make choices. They can choose to move closer to the new place of employment and deduct certain moving expenses allowed by the Income Tax Act or decide to commute daily between their residence and their new place of employment. However, these expenses, would reflect personal preferences and are non-deductable.
+• However, when an individual accepts employment distant from their principle place of residence, in circumstances where they cannot reasonably be expected to move (e.g. Employment is of a temporary nature), a distinction must be made between truly "work related" expenses and those that reflect lifestyle decisions of the taxpayer.
+It is my assertion that there is a clear interaction between Section 6 and Section 8 of the Income Tax Act and that where an allowance for expenses is excluded from income under Section 6, it is only reasonable that in lieu of such an allowance that the taxpayer be allowed to deduct from his/her income a reasonable amount in respect to expenses incurred.
+[8] Essentially the argument is based on an analogy between section 6 and section 8 of the Income Tax Act. Section 6 deals with the inclusion of employment income. Subsection 6(6) excludes from income certain allowances paid to a taxpayer by the employer for expenses incurred special work sites or at remote locations. Subsection 6(6) reads:
+(6) Employment at special work site or remote location. Notwithstanding subsection (1), in computing the income of a taxpayer for a taxation year from an office or employment, there shall not be included any amount received or enjoyed by the taxpayer in respect of, in the course or by virtue of the office or employment that is the value of, or an allowance (not in excess of a reasonable amount) in respect of expenses the taxpayer has incurred for,
+(a) the taxpayer's board and lodging for a period at
+(i) a special work site, being a location at which the duties performed by the taxpayer were of a temporary nature, if the taxpayer maintained at another location a self-contained domestic establishment as the taxpayer's principal place of residence.
+(A) that was, throughout the period, available for the taxpayer's occupancy and not rented by the taxpayer to any other person, and
+(B) to which, by reason of distance, the taxpayer could not reasonably be expected to have returned daily from the special work site, or
+(ii) a location at which, by virtue of its remoteness from any established community, the taxpayer could not reasonably be expected to establish and maintain a self-contained domestic establishment,
+if the period during which the taxpayer was required by the taxpayer's duties to be away from the taxpayer's principal place of residence, or to be at the special work site or location, was not less than 36 hours; or
+(b) transportation between
+(i) the principal place of residence and the special work site referred to in subparagraph (a)(i),
+or
+(ii) the location referred to in subparagraph (a)(ii) and a location in Canada or a location in the country in which the taxpayer is employed,
+in respect of a period described in paragraph (a) during which the taxpayer received board and lodging, or a reasonable allowance in respect of board and lodging, from the taxpayer's employer.
+[9] That is not what we are dealing with here. Mr. Jenner is seeking a deduction, not an exclusion from income of amounts received.
+[10] Section 8 deals with deductions. Paragraphs 8(1)(h) and 8(1)(h)(i) read:
+(h) Travel expenses - where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year (other than motor vehicle expenses) for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (e), (f) or (g);
+(h.1) Motor vehicle travel expenses - where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year, or
+(iv) claims a deduction for the year under paragraph (f);
+Subsection 8(2) prohibits the deduction of amounts in computing employment income except those specifically allowed:
+(2) General limitation. Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+[11] Mr. Jenner seeks to import into section 8 deductions that are analogous to the allowances that are specifically excluded by subsection 6(6). While such arguments by analogy may be philosophically attractive they do not fit within the accepted rules of statutory interpretation employed in construing the Income Tax Act. The taxation of employment income as well as the deduction of amounts spent in earning that income is spelt out in the Income Tax Act with great specificity. The cost of travel from Mr. Jenner's home in Sturgeon Falls to the various places where he was employed by the different employers as well as his living expenses when he was working at those work sites is simply not covered by section 8 of the Income Tax Act, even though in a broad sense one might say the expenses were related to his employment. Mr. Jenner is to be commended for coming to Court and putting forward his argument as clearly as he did but unfortunately I cannot help him.
+[12] The appeal is dismissed.
+Signed at Victoria, British Columbia, this 14th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC580
+COURT FILE NO.:
+2002-2163(IT)I
+STYLE OF CAUSE:
+William Allen Jenner and
+Her Majesty The Queen
+PLACE OF HEARING:
+North Bay, Ontario
+DATE OF HEARING:
+August 6, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Justice
+DATE OF JUDGMENT:
+August 14, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+--
+Firm:
+--
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

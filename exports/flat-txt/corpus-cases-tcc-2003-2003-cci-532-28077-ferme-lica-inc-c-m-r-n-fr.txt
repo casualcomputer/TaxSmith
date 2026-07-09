@@ -1,0 +1,229 @@
+Title: Ferme Lica Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28077/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-532-28077-ferme-lica-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-08-11
+
+# Ferme Lica Inc. c. M.R.N.
+
+- Citation: 2003 CCI 532
+- Decision date: 2003-08-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1693, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferme Lica Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-11
+Référence neutre
+2003 CCI 532
+Numéro de dossier
+2001-4099(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2001-4099(EI)
+ENTRE :
+FERME LICA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michel Canuel (2001‑4100(EI)) et Bertrand Canuel (2001-4101(EI)) le 29 mai 2003 à
+Matane (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocate de l'appelante :
+Me Andrée St-Pierre
+Avocate de l'intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Gand-Barachois (Nouveau-Brunswick), ce 11e jour d'août 2003.
+«S.J. Savoie»
+Savoie, J.S.
+Référence :2003CCI532
+Date :20030811
+Dossier : 2001-4099(EI)
+ENTRE :
+FERME LICA INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2001-4100(EI)
+MICHEL CANUEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL
+intimé,
+et
+FERME LICA INC.,
+intervenante,
+ET
+Dossier : 2001-4101(EI)
+BERTRAND CANUEL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FERME LICA INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus le 29 mai 2003 à Matane (Québec), sur preuve commune.
+[2] Les appelants ont porté en appel les décisions du ministre du Revenu national (le «Ministre») selon lesquelles les emplois qu'occupaient les appelants Michel Canuel et Bertrand Canuel n'étaient pas assurables durant les périodes en litige. Les périodes en question concernant Michel Canuel sont du 2 juin au 6 septembre 1997, du 2 janvier au 25 juillet 1998, du 9 novembre 1998 au 20 août 1999 et du 3 janvier au 8 septembre 2000. Quant à Bertrand Canuel, ses périodes en question sont du 2 juin au 17 octobre 1997, du 11 mai au 23 octobre 1998, du 17 mai au 27 août 1999 et du 22 mai au 11 août 2000.
+[3] De l'avis du Ministre, ces emplois ne sont pas assurables en raison du fait que des contrats de travail à peu près semblables n'auraient pas été conclus s'il n'y avait pas eu de lien de dépendance entre Ferme Lica Inc., le payeur, et les appelants Michel et Bertrand Canuel, conformément aux dispositions de l'alinéa 5(2)a) de la Loi sur l'assurance-emploi (la «Loi») et des articles 251 et 252 de la Loi de l'impôt sur le revenu.
+[4] Le Ministre a aussi déterminé que les appelants Michel et Bertrand Canuel n'occupaient pas un emploi assurable au sens de la Loi pendant les périodes en litige, puisqu'ils n'étaient pas liés avec le payeur par un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi.
+[5] Le Ministre a déterminé, en outre, qu'il y a eu arrangement entre les appelants Michel et Bertrand Canuel, les travailleurs, et le payeur dans l'unique but de permettre à ceux-ci de se qualifier pour recevoir des prestations d'assurance-emploi.
+[6] En rendant sa décision, dans ces dossiers, le Ministre s'est fondé sur les hypothèses de fait suivantes :
+au dossier de l'appelante Ferme Lica Inc., numéro 2001-4099(EI) :
+a) L'appelante, constituée en société le 29 septembre 1993, exploitait une ferme bovine et céréalière.
+b) Les actionnaires de l'appelante étaient :
+Mireille Lizotte, conjointe de Bertrand Canuel et mère de Michel Canuel, avec 60 % des actions.
+Bertrand Canuel avec 20 % des actions.
+Michel Canuel avec 20 % des actions.
+c) Les administrateurs de l'appelante étaient :
+Mireille Lizotte, présidente,
+Michel Canuel, Vice-président,
+Bertrand Canuel, secrétaire-trésorier.
+d) Durant et entre les périodes en litiges l'appelante détenait de 100 à 120 bêtes pour la boucherie et une cinquantaine de veaux dans un parc d'engraissement.
+e) L'appelante possédait 10 terres situées aux environs d'Amqui; la plus éloignée étant à environ 15 minutes en tracteur.
+f) L'appelante possédait une étable à cinq minutes de marche de la résidence des actionnaires; les animaux n'avaient pas d'enclos, ils étaient libres d'aller à l'intérieur ou à l'extérieur de l'étable peu importe la saison.
+g) Tous les emprunts et la marge de crédit de 50 000 $ étaient au nom de l'appelante et étaient presque tous cautionnés conjointement et solidairement par les trois actionnaires.
+h) L'appelante est exploitée à l'année longue mais connaît des périodes de pointe au mois de mai et juin durant les semences de l'orge et de l'avoine.
+i) En plus des 3 actionnaires, l'appelante embauchait quelques travailleurs selon ses périodes d'activités plus intenses (lors des semences et récoltes).
+j) Quand l'appelante embauchait un travailleur de l'extérieur (autre qu'un actionnaire), les travailleurs rendaient des services à l'appelante durant cette même période.
+k) Au sein de l'entreprise de l'appelante, l'administration était contrôlée par Mireille Lizotte avec l'aide de Bertrand Canuel, les opérations courantes étaient contrôlées par Bertrand Canuel et les décisions importantes étaient prises par les 3 actionnaires.
+1) MICHEL CANUEL
+i) Durant les périodes en litige, il était responsable des animaux, il a travaillé aux semences et au fourrage et, depuis l'été 2000, il opère les moissonneuses-batteuses.
+ii) Durant les périodes en litige, il a reçu une rémunération fixe variant entre 440 $ et 500 $ prétendument basée sur une moyenne de 40 à 44 heures par semaine.
+iii) Il n'avait pas d'horaire de travail précis à respecter mais il devait effectuer son travail selon les besoins de l'appelante.
+iv) Durant les périodes de pointe, il recevait une rémunération fixe et ce, sans égard aux heures réellement travaillées et durant les périodes moins achalandées, il était rémunéré à l'heure.
+v) Le 12 septembre 1997, le payeur a émis un relevé d'emploi, numéroté A62780086, au nom de l'appelant indiquant qu'il avait travaillé du 2 juin au 6 septembre 1997.
+vi) Le 21 août 1998, le payeur a émis un relevé d'emploi, numéroté A64874364, au nom de l'appelant indiquant qu'il avait travaillé du 2 janvier au 25 juillet 1998.
+vii) Le 24 août 1999, le payeur a émis un relevé d'emploi, numéroté A67443147, au nom de l'appelant indiquant qu'il avait travaillé du 9 novembre 1998 au 20 août 1999.
+viii) Le 12 septembre 2000, le payeur a émis un relevé d'emploi, numéroté A70069825, au nom de l'appelant indiquant qu'il avait travaillé du 3 janvier au 8 septembre 2000.
+ix) Dans une déclaration statutaire faite en date du 3 mai 2001, Michel Canuel a correctement déclaré ce qui suit :
+- Je reconnais que le relevé d'emploi A62780086 ne représente pas la réalité sur ma période réelle de travail à plein temps à la ferme.
+- Je reconnais que le relevé d'emploi A64874364 ne représente pas non plus la réalité en ce qui a trait à ma période réelle de travail à plein temps à la ferme car j'ai continué à travailler après le 25 juillet 1998.
+- Je reconnais que le relevé d'emploi A67443147 émis à mon nom le 24 août 1999 ne représente pas la période réelle de mon travail à plein temps à la Ferme Lica Inc. Car j'ai continué à travailler après le 20 août 1999.
+- Pour le relevé d'emploi A70069825, il ne représente pas non plus la période réelle de fin d'emploi car j'ai travaillé à plein temps après le 8 septembre 2000.
+m) BERTRAND CANUEL
+i) Durant les périodes en litige, il était responsable de la régie des champs et de la régie des troupeaux, il s'occupait de la mécanique, il supervisait les travaux, il effectuait l'entretien des bâtiments et représentait l'appelante auprès de l'Union des producteurs agricoles.
+ii) Durant les périodes en litige, il recevait une rémunération fixe de 620 $ brut par semaine, prétendument basée sur 40 heures par semaine, et ce, sans égard aux heures réellement travaillées.
+iii) Il n'avait pas d'horaire de travail précis à respecter mais il devait effectuer son travail selon les besoins de l'appelante.
+iv) Le 20 octobre 1997, le payeur a émis un relevé d'emploi au nom de l'appelant indiquant qu'il avait travaillé du 2 juin au 17 octobre 1997.
+v) Le 28 octobre 1998, le payeur a émis un relevé d'emploi au nom de l'appelant indiquant qu'il avait travaillé du 11 mai au 23 octobre 1998.
+vi) Le 10 septembre 1999, le payeur a émis un relevé d'emploi au nom de l'appelant indiquant qu'il avait travaillé du 12 octobre 1998 au 27 août 1999.
+vii) Le 18 août 2000, le payeur a émis un relevé d'emploi au nom de l'appelant indiquant qu'il avait travaillé du 22 mai au 11 août 2000.
+viii) Dans une déclaration statutaire faite en date du 3 mai 2001, Bertrand Canuel a correctement déclaré ce qui suit :
+- Je reconnais que les relevés d'emploi que j'ai fournis avec mes demandes de prestations datées du 23 octobre 1997, du 29 octobre 1998, du 10 septembre 1999 et du 22 août 2000 ne sont pas exacts au niveau du temps que j'ai réellement travaillé pour l'entreprise; ils sont faux au niveau du nombre d'heures réellement travaillées ainsi que des périodes d'emploi qui y figurent.
+n) Les travailleurs rendaient des services à l'appelante en dehors des périodes en litige.
+o) Il y a eu arrangement entre les parties dans l'unique but de permettre aux travailleurs de retirer des prestations d'assurance‑emploi.
+[7] La procureure de l'appelante Ferme Lica Inc. et des appelants Michel et Bertrand Canuel a fourni une réponse commune aux hypothèses du Ministre dans leur dossier respectif en stipulant ce qui suit : elle a admis les hypothèses de fait énoncées aux alinéas b), c), d), e), f), g), i), j), k), l)i), ii), iv), v), vi), vii), viii), m)ii), iv), v), vi) et vii). Par contre, elle a nié celles énoncées aux alinéas l)ix), m)iii) et m)viii) et a voulu apporter certaines précisions à celles énoncées aux alinéas a) et m)i).
+[8] Il a été établi à l'audition que la Ferme Lica Inc. a été constituée en société le 29 septembre 1993. L'appelante, le payeur, exploite une ferme bovine depuis le début et une ferme céréalière depuis 1998.
+[9] Le travailleur Michel Canuel est uni par les liens du sang avec son père, le travailleur Bertrand Canuel et sa mère Mireille Lizotte, conjointe de Bertrand Canuel et actionnaire majoritaire du payeur. En conséquence, en tant qu'actionnaires du payeur, ces personnes sont liées entre elles en vertu du sous‑alinéa 251(2)b)(ii) de la Loi sur l'impôt sur le revenu.
+[10] À l'analyse des emplois des travailleurs à la lumière de l'alinéa 5(2)i) de la Loi, on découvre que Michel Canuel a travaillé en qualité de préposé aux soins des animaux. Il a travaillé également aux semences, aux fourrages et il opère les batteuses depuis l'été 2000. Quant à Bertrand Canuel, il a travaillé comme responsable de la régie des champs et des troupeaux. Il s'occupait aussi de la mécanique. En outre, il supervisait les travaux de la ferme, faisait l'entretien de bâtisses et, à l'occasion, il opérait la machinerie. De plus, il représentait l'entreprise auprès de l'Union des producteurs agricoles.
+[11] Michel Canuel a reçu un salaire fixe de 440 $ à 500 $ brut pour une semaine de travail d'environ 40 à 44 heures durant les périodes en litige. Durant les périodes de pointe, il était payé à la semaine peu importe le nombre d'heures travaillées et durant les périodes moins achalandées, il était payé à l'heure.
+[12] Bertrand Canuel a reçu un salaire fixe de 620 $ brut pour une semaine de travail de 40 heures durant les périodes en litige. Il était payé à la semaine peu importe de nombre d'heures travaillées et peu importe la température.
+[13] Il a été établi que les deux travailleurs ont effectué plusieurs heures de travail non rémunérées et la preuve a révélé que les heures travaillées n'ont pas toutes été payées en raison d'un manque de liquidité de l'entreprise. Il faut conclure qu'une personne non liée ayant eu les mêmes responsabilités que les travailleurs n'aurait pas oeuvré dans les mêmes conditions car le payeur avait du travail à l'année.
+[14] En continuant cette analyse de l'emploi des travailleurs à la lumière de l'alinéa 5(2)i) de la Loi, notons que la preuve à l'audition a révélé qu'aucun des travailleurs n'avait un horaire fixe de travail mais que chacun devait exécuter ses tâches selon les besoins du payeur. Il n'existait aucun contrôle sur le temps travaillé mais ceci s'expliquait en raison de leurs responsabilités au sein de l'entreprise. Par contre, tel n'était pas la situation pour les travailleurs étrangers qui, eux, étaient supervisés par les deux travailleurs.
+[15] Alors que Mireille Lizotte s'occupait de la tenue de livres, Bertrand Canuel s'occupait de la gestion des champs, des troupeaux et de la supervision des travaux de la ferme, alors que Michel Canuel veillait aux soins des animaux, aux semences et aux fourrages. Il opérait la batteuse depuis l'été 2000. Toutes les décisions importantes tel l'achat de terre ou de grosse machinerie appartenaient au conseil d'administration.
+[16] Michel Canuel travaillait sept jours par semaine pour faire tous les travaux nécessaires en période de pointe, tels les semences et les fourrages, mais il s'occupait de l'entretien des animaux toute l'année.
+[17] Le registre de salaires indique plusieurs semaines où les travailleurs Bertrand et Michel Canuel sont sans travail alors que les étrangers sont au travail. Mais puisque pour des raisons sécuritaires, ceux-ci ne devaient pas travailler seuls, les deux travailleurs, les appelants, ont dû oeuvrer plusieurs semaines sans rémunération.
+[18] Il a été démontré que le payeur n'avait pas la liquidité nécessaire pour payer les heures de travail réelles. On se permet de douter qu'une personne non liée aurait accepté une telle condition d'emploi.
+[19] Bertrand et Michel Canuel ont travaillé pour le payeur pendant les périodes en litige. Ils occupaient un emploi permanent pour une entreprise qui est exploitée à l'année, mais qui connaît des périodes de pointe durant les semences ou les récoltes.
+[20] Il est impossible de déterminer le nombre réel d'heures de travail pour les travailleurs car le payeur ne tenait aucun registre de ces heures. Les deux travailleurs ont admis avoir fait du travail sans rémunération après les dates indiquées sur tous les relevés d'emploi émis par le payeur pour une période indéterminée.
+[21] Il est approprié de conclure qu'une personne non liée aurait sûrement cessé de travailler à la date indiquée sur son relevé d'emploi et n'aurait pas poursuivi son travail sans rémunération. Ainsi, il faut conclure que l'arrêt de travail n'est pas déterminé par le manque de travail mais plutôt par le manque de liquidité de l'entreprise.
+[22] En raison des fonctions qu'ils occupaient et des tâches qu'ils accomplissaient, la contribution des travailleurs dans l'entreprise du payeur était essentielle à sa bonne marche. Sans leurs services, le payeur aurait été dans l'obligation de recouvrir à du personnel étranger.
+[23] Au terme de cette analyse en regard de l'alinéa 5(2)i) de la Loi, il est raisonnable de conclure que le contrat de travail des deux travailleurs n'aurait pas été semblable s'il n'y avait pas eu entre eux et le payeur un lien de dépendance. Analysé ainsi, il faut conclure que ces emplois ne sont pas assurables.
+[24] Quant aux hypothèses du Ministre qui ont été niées ou ignorées, les appelants, à qui il incombait d'en prouver la fausseté, ne se sont pas acquittés de ce fardeau qui reposait sur eux, selon la Loi. Bien au contraire l'ensemble de la preuve a supporté et corroboré ces allégations.
+[25] La preuve présentée par les appelants a cherché à démontrer la fausseté des déclarations statutaires des travailleurs et de Mireille Lizotte. Ils ont déclaré dans leur témoignage que ces déclarations statutaires avaient été données sous pression. Ils ont affirmé s'être senti bousculés et intimidés par les enquêteurs qui leur ont dit que le Ministre saurait prouver sa cause en cour et que cela paraîtrait dans les journaux.
+[26] Il faut noter, cependant, qu'il a été démontré que les déclarations, une fois recueillies par les enquêteurs, ont été relues aux personnes qui les ont données et que celles-ci, avant de signer, pouvaient y apporter les corrections qu'elles voulaient. Ceci n'a pas été contredit par les appelants.
+[27] Il est important d'ajouter que la preuve a démontré que les travailleurs ainsi que Mireille Lizotte ont confirmé et validé leur déclaration statutaire devant l'agent des appels. Néanmoins, ils ont refusé de confirmer qu'ils effectuaient du travail bénévole pour le payeur, acceptant toutefois, de reconnaître qu'ils avaient fourni des services sans rémunération.
+[28] Il faut noter que les décisions du Ministre ne reposent pas uniquement sur les déclarations statutaires. Il s'est penché aussi sur les documents que lui ont fournis les appelants, dont plusieurs ont été produits à l'audition, soit les chèques et le registre des salaires, l'analyse des enquêteurs, les états financiers, les relevés d'emploi et les tableaux illustrant les périodes de travail et de chômage des travailleurs par rapport aux activités de l'entreprise.
+[29] Le Ministre soutient qu'il y a eu arrangement entre l'appelante et les travailleurs dans l'unique but de permettre à ces derniers de pouvoir se qualifier pour recevoir des prestations d'assurance-emploi.
+[30] Les appelants ont fait valoir que lorsqu'en périodes de chômage, les travailleurs n'ont pas été embauchés par le payeur, mais l'intimé a répondu à cela et prouvé que lorsque les travailleurs percevaient des prestations, à certains moments ils travaillaient bel et bien pour le payeur, même s'ils ne figuraient pas sur les feuilles de paie ou les relevés d'emploi. Cette situation est bien documentée par les tableaux produits en preuve par le Ministre.
+[31] Les travailleurs ont bien tenté de justifier leur travail en dehors des périodes en litige en précisant que le travail sur la ferme avec des animaux ne se termine pas à une certaine date. Monsieur Bertrand Canuel affirme :
+...une vache vêle, on ne peut pas la laisser toute seule, peu importe le temps de l'année.
+[32] Cependant, le Ministre, tout en reconnaissant que le soin des animaux exige une présence à l'année, soutient qu'il ne convient pas de quitter son emploi, comme le prétendent les travailleurs, tout en continuant à travailler sans rémunération pour l'entreprise et percevoir des prestations d'assurance-emploi, comme il a été établi en preuve.
+[33] Par ailleurs, il a été prouvé que pendant de longues périodes de chômage des travailleurs, l'entreprise du payeur était en pleine activité et employait des travailleurs étrangers, mais ces derniers ne devaient pas travailler sans surveillance.
+[34] En outre, la preuve a révélé que les travailleurs n'ont pas cessé de travailler pour le payeur mais cela ne paraissait aucunement sur la documentation fournie par le payeur au Ministre. Le payeur bénéficiait donc des services des travailleurs aux frais de l'état.
+[35] Cette situation est d'autant plus répréhensible en raison du lien de dépendance entre les travailleurs et le payeur au sens de la Loi de l'impôt sur le revenu, puisque les deux parties commettaient des abus aux dépens du régime de l'assurance-emploi : ce que le Ministre décrit dans ses Réponses aux avis d'appel comme un «arrangement» entre le payeur et les travailleurs.
+[36] Il a été démontré que les fins de périodes de travail ne coïncidaient pas au manque de travail. La Cour canadienne de l'impôt dans l'arrêt Lelièvre c. Canada (ministre du Revenue national – M.R.N.), [2003] A.C.I. no 125, faisait face à une situation semblable à celle sous étude, et dans ses motifs, le juge Somers de cette Cour citait le passage suivant du juge Noël dans l'arrêt Théberge c. Canada (ministre du Revenu national – M.R.N.), [2002] A.C.F. no 464, au paragraphe 61 :
+D'autre part, une personne qui reçoit des prestations d'assurance-chômage et qui continue de travailler, sans rémunération, après sa cessation d'emploi, fait en sorte que l'employeur bénéficie d'une main-d'oeuvre non rémunérée par lui mais par l'État. Or, l'assurance-chômage n'est pas un programme de soutien à l'entreprise, il s'agit essentiellement d'une mesure sociale protégeant ceux et celles qui, ayant occupé un véritable emploi, l'ont perdu.
+[37] Les appelants demandent à cette Cour de renverser la décision du Ministre. Il est opportun de rappeler les circonstances pouvant justifier l'intervention de cette Cour et surtout les limites reconnues de ce pouvoir de révision et d'intervention.
+[38] À cet égard, les propos du juge Marceau de la Cour d'appel fédérale sont utiles. Ils sont reproduits ci-après tels qu'ils apparaissent au paragraphe 4 de l'arrêt Légaré c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.F. no 878 :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était «convaincu» paraît toujours raisonnable.
+[39] La Cour d'appel fédérale a repris cette même idée dans l'arrêt Gray c. Canada (ministre du Revenu national – M.R.N.), [2002] A.C.F. no 158, sous la plume du juge Desjardins qui écrivait ce qui suit :
+Le demandeur soutient que les hypothèses sur lesquelles s'est fondé le ministre dans la réponse qu'il a donnée à l'avis d'appel n'avaient pas grande pertinence. ... Le demandeur prétend également que le fait qu'il a travaillé pour le payeur en dehors de la période de rémunération n'équivalait pas, dans les circonstances de l'espèce, à un facteur important sur lequel il fallait s'appuyer.
+[...]
+Pour ce qui est du deuxième argument du demandeur, il incombe au juge de la Cour de l'impôt d'évaluer l'importance à accorder aux facteurs pertinents et ce n'est pas à la Cour de faire une nouvelle évaluation à cet égard.
+[40] Après étude du dossier des appelants, le Ministre a conclu qu'il n'existait pas de véritable contrat de louage de services entre les travailleurs et le payeur. Il a conclu, en outre, qu'il y a eu arrangement entre le payeur et les travailleurs dans l'unique but de permettre aux travailleurs de percevoir des prestations d'assurance-emploi.
+[41] Le juge Tardif, de cette Cour, dans l'arrêt Thibeault c. Canada (ministre du Revenu national – M.R.N.), [1998] A.C.I. no 690, décrivait les circonstances qui viennent vicier le contrat de louage de services en ces termes :
+Un véritable emploi est un emploi rémunéré selon les conditions du marché et qui contribue de façon réelle et positive à l'avancement et au développement de l'entreprise qui assume le salaire payé en contrepartie du travail exécuté. Il s'agit là d'éléments essentiellement économiques laissant peu ou pas de place à la générosité, à la compassion.
+[...]
+Certes, il n'est ni illégal, ni répréhensible d'organiser ses affaires pour profiter de la mesure sociale qu'est le régime de l'assurance-chômage, à la condition expresse que rien ne soit maquillé, déguisé ou organisé et que la venue des bénéfices surviennent à la suite d'événements sur lesquels le bénéficiaire n'a pas le contrôle. Lorsque l'importance du salaire ne correspond pas à la valeur économique des services rendus, lorsque les débuts et les fins des périodes s'avèrent coïncider avec la fin de la période de paiement et la durée de la période de travail coïncidant à son tour, avec le nombre de semaines requises pour se qualifier à nouveau, cela a pour effet de soulever des doutes très sérieux sur la vraisemblance du contrat de travail. Lorsque les hasards sont nombreux et exagérés, cela risque de créer une présomption à l'effet que les parties ont convenu d'un arrangement artificiel pour permettre aux parties de profiter des bénéfices.
+[42] Il convient d'ajouter que cette décision a été confirmée par la Cour d'appel fédérale le 15 juin 2000 lorsqu'elle a rejeté les demandes de contrôle judiciaire avec dépens.
+[43] Les parties qui s'entendent sur une rétribution établie selon des critères autres que le temps ou la période d'exécution du travail effectué, voulant ainsi tirer avantage des dispositions de la Loi, introduisent des facteurs étrangers au contrat véritable de louage de services ayant pour effet de mettre en doute sa validité.
+[44] Je conclus donc que les emplois exercés par les travailleurs n'étaient pas assurables puisqu'il existait un lien de dépendance entre le payeur et les travailleurs.
+[45] De plus, les travailleurs n'occupaient pas un emploi assurable au sens de la Loi pendant les périodes en litige, puisque, pendant ces périodes, le payeur et les travailleurs n'étaient pas liés par un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi.
+[46] Enfin, il faut conclure, compte tenu de toute la preuve présentée à l'audition, qu'il y a eu arrangement entre le payeur et les travailleurs dans l'unique but de permettre à ces derniers de pouvoir se qualifier pour recevoir des prestations d'assurance-emploi.
+[47] Pour ces motifs, les appels sont rejetés et les décisions rendues par le Ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 11e jour d'août 2003.
+« S.J. Savoie »
+Savoie, J.S.
+RÉFÉRENCE :
+2003CCI532
+No DU DOSSIER DE LA COUR :
+2001-4099(EI), 2001-4100(EI), 2001‑4101(EI)
+INTITULÉ DE LA CAUSE :
+Ferme Lica Inc. et M.R.N.
+Michel Canuel et M.R.N. et Ferme Lica Inc.
+Bertrand Canuel et M.R.N. et Ferme Lica Inc.
+LIEU DE L'AUDIENCE :
+Matane (Québec)
+DATE DE L'AUDIENCE :
+le 29 mai 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+le 11 août 2003
+COMPARUTIONS :
+Pour les appelants :
+Me Andrée St-Pierre
+Pour l'intimé :
+Me Marie-Claude Landry
+Pour l'intervante :
+Me Andrée St-Pierre
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Me Andrée St-Pierre
+Étude :
+St-Pierre et Gagné
+Rimouski (Québec)
+Pour l'intervenante :
+Nom :
+Me Andrée St-Pierre
+Étude :
+St-Pierre et Gagné
+Rimouski (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

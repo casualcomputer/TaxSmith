@@ -1,0 +1,119 @@
+Title: Marwaha v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26436/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-782-26436-marwaha-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-12-09
+
+# Marwaha v. The Queen
+
+- Citation: 2004 TCC 782
+- Decision date: 2004-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3187, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marwaha v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-09
+Neutral citation
+2004 TCC 782
+File numbers
+2003-3037(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3037(IT)I
+BETWEEN:
+SUSHMA MARWAHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on August 6, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Yash Marwaha
+Counsel for the Respondent:
+John Grant
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1998, 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and to the extent set forth in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of December, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC782
+Date: 20041209
+Docket: 2003-3037(IT)I
+BETWEEN:
+SUSHMA MARWAHA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] These appeals for the 1998, 1999 and 2000 taxation years raise many issues. After the hearing, as requested by the Court, counsel for the Respondent filed with the Court written submissions dated October 7, 2004 and the Appellant by letter to the Court dated October 20, 2004 filed submissions. Both submissions related to this appeal of Sushma Marwaha, file number 2003-3037(IT)I and to the appeals of Yash Marwaha, file number 2003-4125(IT)I and to Premwati Marwaha, file number 2003-3613(IT)I. A further letter to the Court dated November 25, 2004 from counsel for the Respondent made further submissions related to the issue of nil assessments but that is not an issue in these appeals of Sushma Marwaha.
+[2] The following is intended to summarize the issues in the appeals of Sushma Marwaha and their resolution:
+1. In each of the years 1998, 1999 and 2000 there was a question as to how a support amount of $8,400.00 in each year was to be treated. Counsel for the Respondent has, by the written submissions dated October 7, 2004, agreed, with the consent of the Appellant and her husband that although the Appellant, Sushma Marwaha was living in the same residence with her husband, Yash Marwaha, they were nevertheless to be considered as living separate and apart and pursuant to a written agreement, with the result that the said amount of $8,400.00 in each of said three years is to be included in the income of Yash Marwaha and deducted from the income of the Appellant Sushma Marwaha as contemplated in sections 56 and 60 of the Income Tax Act ("Act"). This judgment confirms this result.
+2. As agreed between the Appellant Sushma Marwaha and her husband Yash Marwaha at the hearing and accepted by counsel for the Respondent in the written submissions dated October 7, 2004, the Appellant Sushma Marwaha and not her husband, Yash Marwaha, is entitled to deduct child support expenses of $2,987.50 in the 1998 taxation year, $3,100.00 in the 1999 taxation year and $3,900.00 in the 2000 taxation year, the whole in accordance with section 63 of the Act. This judgment confirms the foregoing.
+3. Non-refundable tax credits for an equivalent to spouse amount provided for under paragraph 118(1)(b) of the Act in the amounts of $5,380.00 for the 1998 taxation year, $5,718.00 for the 1999 taxation year and $6,140.00 for the 2000 taxation year claimed by the Appellant were disallowed by reassessments dated February 1, 2002; however, counsel for the Respondent in the written submissions dated October 7, 2004 confirmed and conceded that, on the basis of new factual evidence adduced at the hearing establishing that Sushma Marwaha and her husband Yash Marwaha, resided separate and apart, therefore Sushma Marwaha was entitled to the said non-refundable tax credits for the said three years. This judgment confirms that entitlement.
+4. In the 1998 taxation year the Appellant Sushma Marwaha claimed a non-refundable medical expense credit in respect of medical expenses claimed for Premwati Marwaha, the mother-in-law of Sushma Marwaha in the amount of $9,460.00. The credit is calculated in accordance with a formula provided in subsection 118.2(1) of the Act which is based upon various components involving the amount of the medical expenses, the income of the person for whom the medical expenses are incurred and certain percentages and fixed amounts that vary, generally from year to year. This subsection, so far as material and as applicable to the 1998 year provides:
+118.2(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A (B-C) - D
+where
+A is the appropriate percentage for the year;
+B is the total of the individual's medical expenses that are proven by filing receipts therefor with the Minister, ....
+C is the lesser of $1,500 and 3% of the individual's income for the year; and
+D is 68% of the total of all amounts each of which is the amount, if any, by which
+(a) the income for the year of a person (other than the individual and the individual's spouse) in respect of whom an amount is included in computing the individual's deduction under this section for the year
+exceeds
+(b) the amount used under paragraph (c) of the description of B in subsection 118(1) for the year.
+For 1998 the appropriate percentage in A was 17%. There was no dispute that Premwati Marwaha's medical expenses were $9,460.00 and that her income was $11,722.00 for the 1998 taxation year. As a result:
+C = 3% of $11,722.00 = $351.66
+D = 68%($11,722.00 - $6,456.00) = $3,580.88
+(note that $6,456.00 is the 1998 amount used under paragraph (c) of the description of B in paragraph 118(1)) of the Act.
+The formula reveals that the Appellant is not entitled to a medical expense credit in respect of Premwati Marwaha because:
+A B C D
+17% ($9,460.00 - $351.66) - $3,580.88 = -$2,032.46
+Since applying the formula results in a negative figure, the Appellant, Sushma Marwaha is not entitled to a non-refundable medical expense credit in the 1998 taxation year.
+5. In the 1998 taxation year the Appellant, Sushma Marwaha claimed a non-refundable tax credit for an amount of $2,353.00 for an infirm dependant over 18 years of age, namely Premwati Marwaha, the mother-in-law of Sushma Marwaha. This credit is provided for in paragraph 118(1)(d) of the Act and was available in the 1998 year unless the income of the dependant in that year exceeded $6,456.00. Since Premwati Marwaha's income in 1998 was $11,722.00, the Appellant Sushma Marwaha is not entitled to the credit.
+6. With respect to the rental losses claimed and rental income declared, the Appellant, Sushma Marwaha claimed amounts of $2,900.00 and $110.00 in the years 1998 and 2000 respectively and declared net rental income of $255.00 in the year 1999 in respect of the alleged renting of a room to the Appellant's mother-in-law, Premwati Marwaha and a basement room to the Appellant's husband, Yash Marwaha at 1207 Killaby Drive, Mississauga, Ontario which is co-owned with the said Yash Marwaha. Based on the evidence submitted, in my opinion there was no activity of a commercial nature carried on in the rental operation and there was no expectation of profit. The rental operation was essentially of a personal nature to reduce the costs of living in the common residence and consequently the Appellant is not entitled to deduct the alleged rental losses in 1998 and 2000 nor is the Appellant obliged to include the net rental income in 1999 referred to above.
+7. The Appellant claimed a non-capital loss carry forward in the 2000 taxation year from the Appellant's 1994 taxation year in the amount of $7,868.18 described in the Appellant's return as "(Office in the-home expense carry forward from 1994 return)". No evidence was submitted in support of this claim and the assumption contained in paragraph 24(dd) of the Reply to the Notice of Appeal has not been demolished nor has any evidence been submitted to contradict that assumption. Consequently, the said claim for the non-capital loss carry forward is not allowed.
+Signed at Ottawa, Canada, this 9th day of December, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC782
+COURT FILE NO.:
+2003-3037(IT)I
+STYLE OF CAUSE:
+Sushma Marwaha and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+December 9, 2004
+APPEARANCES:
+Agent for the Appellant:
+Yash Marwaha
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

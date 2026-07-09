@@ -1,0 +1,122 @@
+---
+title: "Cornelius v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29180/index.do"
+last_modified: "2007-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 615"
+citation2: ""
+neutral_citation: "2008 TCC 615"
+decision_date: "2007-06-12"
+language: "en"
+item_id: "29180"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6710
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:02:13.564000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "edc38576ecc229882348abab25100d87baedae65662e8ce688b120d16d2762aa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cornelius v. The Queen
+
+- Citation: 2008 TCC 615
+- Decision date: 2007-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6710, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cornelius v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-12
+Neutral citation
+2008 TCC 615
+File numbers
+2007-1130(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Court File No. 2007-1130(IT)I
+TAX COURT OF CANADA
+BETWEEN:
+BRIAN CORNELIUS
+Appellant
+‑ and ‑
+HER MAJESTY THE QUEEN
+Respondent
+* * * * *
+ORAL REASONS
+HEARD BEFORE THE HONOURABLE
+JUSTICE EUGENE ROSSITER
+in the Courts Administration Service,
+200 Kent Street
+,
+Ottawa ,
+Ontario
+on Thursday, December 6, 2007 at 9:31 a.m.
+* * * * *
+APPEARANCES:
+Mr. Brian Cornelius Appellant, self-represented
+Ms Joanna Hill for the Respondent
+Also Present:
+Ms Nathalie Trinque Court
+Registrar
+A.S.A.P. Reporting Services Inc. 8 2008
+200
+Elgin
+Street, Suite
+1105
+130 King Street West, Suite 1800
+Ottawa ,
+Ontario
+K2P 1L5
+Toronto ,
+Ontario
+M5X 1E3
+(613) 564-2727 (416) 861-8720
+Ottawa, Ontario
+--- Upon commencing the excerpt on Thursday,
+June 12th, 2008 at 10:43 a.m.
+DECISION:
+JUSTICE ROSSITER: The facts in this particular case are not really in dispute, and I refer to the reply of the respondent, in particular paragraph 13. Basically, the situation is this: The appellant was married; he and his spouse separated. They had a separation agreement which provided for child support and spousal support, specifically. They had an adjustment to the separation agreement later, the following year, to alter the amounts somewhat, again in relation to child support. The spirit and intent of the couple is shown by their subsequent 2006 agreement, which brings them in that year within the four corners of the Income Tax Act, yet still they are outside of the four corners of the Income Tax act in 2004 and 2005.
+The appeal itself must fail, regrettably, and I agree with the comments of appellant to some extent. He and his spouse are to be commended for putting their affairs in order, and obviously putting their affairs in order in the best interests of the children, given the circumstances.
+I am going to refer to the Irwin case, which is a decision of Madam Justice Woods, and review basically how that relates to this particular case.
+The appellant was a minister of religion. He appeals his 2004 and 2005 taxation years that were denied where he was denied the dependent tax credit, sometimes known as the equivalent-to-spouse tax credit, in respect of the child Logan. The Minister of National Revenue disallowed the credit pursuant to section 118(5) of the Income Tax Act on the ground that Mr. Cornelius was required to pay support payments in respect of the children.
+I have reviewed briefly the facts previously with respect to the separation and amendments to the agreements, and they were truly trying to make an equitable situation between them in terms of the caring for the children physically and caring for the children in a financial sense.
+In general, subsection 118(5) prohibits a person from claiming the equivalent-to-spouse tax credit in respect of children if the person pays support payments for the child. Mr. Cornelius does not deny that the subsection applies in his case, but really argues the relief on the grounds of fairness and equity.
+Simply put, you suggest that legislation does not properly deal with joint custody situations, or there should be a recognition of the situation that you are in.
+The prohibition in section 118(5) clearly applies to this particular case, and we have no alternative but to apply it. This court has no equitable jurisdiction, and is required to apply the law as legislated by Parliament and you must bring yourself in the confines of the four corners of the Income Tax Act.
+Regrettably, I find that section 118(5) does apply in this case. The appeal must be dismissed.
+However, I would commend the appellant and spouse for the efforts that they made, in particular in pursuing this appeal. Obviously, the appellant feels that this is an unfair tax result. Unfortunately, there are many aspects of the Income Tax Act which many feel are unfair, and this is but one example.
+I regret my decision cannot be more favourable. I would suggest that the respondent take some steps to recommend to the minister an amendment to the Income Tax Act so that circumstances such as this do not occur, or, if the minister does not want to do that, then give this court jurisdiction necessary to ensure that it doesn't occur, and by that I specifically mean equitable jurisdiction. If this court had equitable jurisdiction, we would be able to deal with circumstances such as those which we have before us, because we would make orders which would be equitable in nature.
+Unfortunately, and much to my regret, I have no choice to dismiss the appeal, and I so order.
+Thank you very much, Mr. Cornelius, for bringing this back to the court. Thank you for you presentation, and thank you, Ms. Hill, for your presentation. I ask the registrar to adjourn the court.
+--- Whereupon the hearing concluded at 10:47 a.m.
+I HEREBY CERTIFY THAT I have, to the best
+of my skill and ability, accurately transcribed
+the foregoing proceeding.
+___________________________________
+Catherine Keenan, Computer-Aided Transcription

@@ -1,0 +1,181 @@
+---
+title: "Swarbrick c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30095/index.do"
+last_modified: "2010-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 605"
+citation2: ""
+neutral_citation: "2010 CCI 605"
+decision_date: "2010-11-26"
+language: "fr"
+item_id: "30095"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7653
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:24:54.685000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8bef2b60be9872d9cb69ebbf8cf11557abd68df6f79042aeeaddc5e493ae1f0d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Swarbrick c. La Reine
+
+- Citation: 2010 CCI 605
+- Decision date: 2010-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7653, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Swarbrick c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-26
+Référence neutre
+2010 CCI 605
+Numéro de dossier
+2009-2837(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2837(IT)I
+ENTRE :
+RICHARD SWARBRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 22 juin 2010, à Montréal (Québec).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Avocat de l’appelant :
+Me Marc-André Paquin
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2001, 2002 et 2003 sont accueillis, et les nouvelles cotisations sont annulées.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 605
+Date : 20101126
+Dossier : 2009-2837(IT)I
+ENTRE :
+RICHARD SWARBRICK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant Richard Swarbrick interjette appel de la nouvelle cotisation établie par le ministre du Revenu national pour les années d’imposition 2001, 2002 et 2003. Après que le ministre du Revenu du Québec eut établi une cotisation fondée sur la valeur nette pour les années visées, le ministre fédéral (le « ministre ») a établi une nouvelle cotisation afin d’inclure des revenus non déclarés de 17 424 $, de 5 543 $ et de 9 206 $ pour 2001, 2002 et 2003 respectivement. Le 24 décembre 2007, le ministre a établi une nouvelle cotisation pour les années d’imposition 2001 et 2002 après l’expiration de la période normale de nouvelle cotisation, en application du paragraphe 152(4) de la Loi de l’impôt sur le revenu (la « Loi »); la cotisation pour l’année d’imposition 2001 avait été initialement établie le 13 mai 2002; celle pour l’année d’imposition 2002, le 28 avril 2003. Pour ce qui est de l’année d’imposition 2003, le 14 avril 2004, le ministre a émis un avis stipulant qu’aucun impôt n’était exigible.
+[2] Le ministre a également imposé des pénalités en application du paragraphe 163(2) de la Loi, pour les trois années d’imposition, en partant du principe que l’appelant avait produit de fausses déclarations, dans des circonstances équivalant à faute lourde.
+[3] La nouvelle cotisation du ministre était fondée sur les hypothèses de fait énoncées au paragraphe 8 de la réponse à l’avis d’appel :
+[traduction]
+a) Au moyen d’une méthode fondée sur les flux de trésorerie, le MRQ a effectué une vérification visant l’appelant à l’égard des années d’imposition s’insérant dans le cadre de son programme « Indices de richesse »; un tel programme vise à évaluer le revenu des contribuables, lorsque des éléments portent à croire que le revenu déclaré par un contribuable ne reflète pas son train de vie.
+b) Après l’application de la méthode fondée sur les flux de trésorerie, les décaissements ont été déterminés de la façon suivante, comme l’illustre l’annexe ci‑jointe :
+i) Des dépenses personnelles de 16 372 $, 14 085 $ et 13 141 $ pour les années d’imposition 2001, 2002 et 2003 respectivement, fondées sur les montants établis par Statistique Canada pour une personne seule, puisque les dépenses personnelles qui ont été fournies par l’appelant n’étaient pas considérées comme raisonnables.
+ii) AUCUN montant pour des versements sur un prêt relatif à une résidence; cette décision est fondée sur le fait que l’appelant a construit cette résidence lui‑même et qu’aucune preuve ne démontrant que des versements sur un tel prêt ont été effectués n’a été présentée.
+iii) Dépenses pour des automobiles :
+a) Paiements effectués pour l’acquisition d’une Jaguar CK8 de 11 600 $, de 17 400 $ et de 17 400 $ pour les années d’imposition 2001, 2002 et 2003 respectivement;
+b) Paiement de 3 172 $ effectué pour l’acquisition d’une Dolph 535S, pour l’année d’imposition 2003;
+c) Paiement de 10 050 $, pour l’acquisition d’une Jaguar CK8, effectué pour l’année d’imposition 2001.
+iv) Montants payés en impôt sur le revenu de 11 409 $ et 3 169 $ pour les années d’imposition 2001 et 2002 respectivement.
+v) Paiement de 6 352 $, au titre du capital sur un prêt de 25 000 $ pour chacune des années d’imposition 2001, 2002 et 2003.
+c) Après l’application de la méthode fondée sur les flux de trésorerie, les encaissements ont été déterminés de la façon suivante, comme l’illustre l’annexe ci‑jointe :
+i) Revenu disponible selon le revenu total déclaré par l’appelant, s’élevant à 38 359 $ et à 67 $ pour les années d’imposition 2001 et 2003 et, tel qu’il a été déclaré au MRQ, s’élevant à 17 464 $ moins un redressement fiscal de 111 $ pour l’année d’imposition 2002.
+ii) Crédits de TPS et de TVQ reçus par l’appelant et s’élevant à 569 $ et à 462 $ pour les années d’imposition 2002 et 2003 respectivement.
+iii) Remboursement d’impôt du MRQ s’élevant à 2 460 $ pour l’année d’imposition 2003.
+iv) Revenu non imposable de 17 541 $ et de 27 870 $ pour les années d’imposition 2002 et 2003 respectivement; soit les montants qui constituent le produit d’une assurance‑salaire qui a été reçu par l’appelant.
+9. Afin d’établir une nouvelle cotisation à l’égard de l’appelant après l’expiration de la période normale de nouvelle cotisation pour les années d’imposition 2001 et 2002, le ministre a pris en considération les éléments suivants :
+a) L’importance des revenus supplémentaires qui n’ont pas été déclarés, qui représentent 46 % et 32 % du revenu net, tel qu’il a été déclaré par l’appelant.
+b) L’appelant ne pouvait ignorer que les décaissements visant à maintenir son train de vie et l’acquisition d’éléments d’actif, l’impôt sur le revenu payé et les remboursements au titre du capital et des intérêts versés sur les prêts dépassaient les revenus qu’il avaient déclarés.
+10. Pour établir les pénalités prévues au paragraphe 163(2) de la Loi, applicables au revenu additionnel se chiffrant à 17 424 $, à 5 543 $ et à 9 206 $ pour les années d’imposition 2001, 2002 et 2003 respectivement, le ministre a pris en considération les facteurs suivants :
+a) L’importance des revenus supplémentaires qui n’ont pas été déclarés, qui représentent 46 % , 32 % et [13,74 %] pour les années d’imposition 2001, 2002 et 2003 respectivement du revenu net, tel qu’il a été déclaré par l’appelant.
+b) L’appelant ne pouvait ignorer que les décaissements visant à maintenir son train de vie et l’acquisition d’éléments d’actifs, l’impôt sur le revenu payé et les remboursements au titre du capital et des intérêts versés sur les prêts dépassaient les revenus qu’il avaient déclarés.
+[4] L’appelant ne conteste pas que les dossiers bancaires et les dossiers de prêt[1] sur lesquels le ministre s’est basé présentent un écart global d’environ 32 000 $ entre les montants dont il disposait en 2001, en 2002 et en 2003 et ce qu’il a dépensé dans les faits pendant ces années. Toutefois, l’appelant soutient que de tels dossiers ne prennent pas en considération l’argent qu’il gardait à sa résidence et qu’il utilisait, au besoin, pour répondre à ses besoins financiers. D’après l’appelant, il disposait d’environ 45 000 $ en espèces, composés d’une avance sur héritage de 21 000 $ qu’il avait reçu de son père à la fin de l’année 1999[2], à la suite de la vente de la maison familiale[3]; le produit d’une marge de crédit s’élevant à 20 000 $; et le produit d’un prêt personnel de 4 000 $ consenti par la Banque de Montréal le 16 février 2000[4].
+[5] Écartant les arguments de l’appelant, l’avocat de l’intimée a renvoyé la Cour à l’arrêt Lacroix c. Sa Majesté la Reine[5], dans lequel la Cour d’appel fédérale a examiné le droit relativement au fardeau de la preuve qui repose sur les parties dans un appel relatif à une cotisation fondée sur la valeur nette donnant lieu à l’établissement d’une nouvelle cotisation après l’expiration de la période normale de nouvelle cotisation et à l’imposition de pénalités pour faute lourde. Le juge Pelletier a conclu que le fardeau de la preuve, qui consiste à prouver la source du revenu additionnel déterminé grâce à une cotisation fondée sur la valeur nette, repose sur le contribuable et non sur le ministre; toutefois, il revient au ministre de prouver l’existence de circonstances justifiant l’établissement d’une nouvelle cotisation pour les années par ailleurs frappées de prescription et l’imposition de pénalités, en application du paragraphe 163(2) :
+Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que dans certaines circonstances, le ministre soit en mesure de faire une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3).[6]
+[6] En concluant que la preuve présentée par le ministre lui a permis de s’acquitter du fardeau qui lui incombait en vertu de ces dispositions, la Cour d’appel a porté une attention particulière au rôle du juge de première instance dans l’évaluation de la crédibilité de la preuve présentée :
+L'appréciation de la crédibilité est le propre du juge de première instance. Il n'y a rien de surprenant au fait que certains éléments de preuve appuient la version des faits proposée par l'une des parties tandis que d'autres la minent. Le juge de première instance est le mieux placé pour apprécier à leur juste valeur ces éléments disparates de preuve et de là, tirer les conclusions qui lui semblent s'imposer. En l'instance, le juge a bien pris note des éléments sur lesquels l'appelant insiste mais il ne les a pas retenus, les jugeant un artifice. Il n'y a rien, ni dans la preuve, ni dans la Loi de l'impôt sur le revenu […] qui justifierait notre intervention […][7]
+[7] Dans l’arrêt Lacroix, compte tenu de l’accent mis sur l’évaluation de la crédibilité par le juge de première instance et du fait que la Couronne s’est fondée sur cette affaire, il est utile d’examiner certaines faiblesses de la preuve cernées par le juge Bédard :
+[12] L’appréciation de la crédibilité de l’appelant et de monsieur Pronovost a joué un rôle important dans ma décision, compte tenu de la quasi-absence de preuve documentaire ou objective quant à l’utilisation par l’appelant des 500 000 $ en argent comptant et quant à l’origine des 500 000 $ en argent comptant qu’aurait détenus monsieur Pronovost. Je tiens à souligner que j’ai accordé peu de valeur probante aux témoignages de l’appelant, de sa conjointe et de monsieur Pronovost. À cet égard, je souligne immédiatement que les tribunaux ne sont pas tenus de croire les témoins, même s’ils ne sont pas contredits. Leur version peut être invraisemblable par suite de circonstances révélées par la preuve ou par suite des règles du bon sens.
+[13] Outre l'invraisemblance de l’histoire de l’appelant, je note que les explications données par ce dernier lors de son témoignage quant à l’utilisation des 500 000 $ en argent comptant que lui aurait prêtés monsieur Pronovost contredisaient la réponse donnée sur ce point lors de son interrogatoire préalable. Je rappelle que lors de cet interrogatoire, l’appelant a répondu que les 500 000 $ avaient été investis « en gros sur des rénovations apportées à des immeubles ». Par ailleurs, je rappelle que l’appelant a témoigné que les 500 000 $ en argent comptant avaient été utilisés pour renflouer sa marge de crédit, qui avait été utilisée pour acheter des immeubles et les rénover. Je rappelle enfin que l’expert de l’appelant a démontré très clairement que l’argent provenant des prêts consentis par monsieur Pronovost n’avait pas été utilisé pour rénover des immeubles et qu’une partie seulement de cet argent aurait pu être utilisée pour faire des mises de fonds lors de l’achat d’immeubles. Je note aussi que l’appelant n’a soumis aucune preuve documentaire démontrant qu’il avait fait plusieurs dépôts en argent comptant (variant entre 4 000 $ à 5 000 $) pour ramener sa marge de crédit à zéro. J’en infère que cette preuve lui aurait été défavorable.
+[14] Outre l'invraisemblance de l’histoire de monsieur Pronovost, je note que ses réponses étaient généralement évasives, imprécises, ambiguës, élusives, équivoques, inintelligibles et laborieuses. Le temps qu’il mettait pour répondre aux questions, ses hésitations, sa mine et ses fréquents trous de mémoire n’ont qu’ajouté à mes doutes sur sa crédibilité. Certes, le fait que les événements soient survenus il y a plusieurs années peut expliquer certaines imprécisions ou certains trous de mémoire, mais de là à ne pas pouvoir préciser à messieurs Heppell et LeBlanc les montants des prêts qu’il aurait consentis à l’appelant, il y a une marge. Il aurait pu à l’occasion étayer ses assertions et établir ainsi sa crédibilité grâce à une preuve adéquate et sérieuse notamment à l’égard de la valeur de son patrimoine, qui aurait été de quatre millions de dollars à l’époque où il aurait consenti les prêts, et à l’égard des avances qui lui auraient été remboursées par sa société, avances qui, je le rappelle, auraient été utilisées pour consentir une partie des prêts à l’appelant.
+[15] De toute façon, je suis d’avis que toute l’histoire racontée par l’appelant, sa conjointe et monsieur Pronovost relativement aux prêts est invraisemblable. Je suis aussi d’avis que le billet et la demande de remboursement des prêts ont été rédigés et signés après le début de la vérification et ce, dans le but de masquer la vérité. Je suis aussi d’avis que le paiement d’une somme de 430 000 $ visait le même objectif.
+[16] À cet égard, l’histoire de monsieur Pronovost au sujet du sauvetage de son fils Patrice, alors âgé de 16 ans, m’a paru tout simplement invraisemblable et peu crédible. D’abord, son témoignage à l’égard des circonstances qui expliqueraient la chute de son fils dans la rivière Richelieu m’a laissé pour le moins perplexe. J’ai eu aussi beaucoup de difficulté à m’imaginer qu’un adolescent de 16 ans dont la fragilité serait causée uniquement par des allergies pouvait être sur le point de se noyer alors que le moteur de l’embarcation dont il serait tombé n’était pas en marche. Cette histoire m’a semblé d’autant plus invraisemblable que monsieur Pronovost a expliqué qu’il n’avait pas encore informé sa conjointe du geste héroïque posé par l’appelant à l’égard de leur fils qui, je le rappelle, est décédé en 1997, histoire qu'il n’a pas racontée car, prétend‑il, il avait peur que son épouse lui reproche d’avoir été négligent lors de l’incident.[8]
+[8] En l’espèce, il n’y a pas de telles lacunes. L’appelant et son frère, Terrance Swarbrick, ont témoigné à l’audience. À la différence des témoins de l’arrêt Lacroix, l’appelant et son frère étaient, somme toute, persuasifs. Leur preuve était directe et allait droit au but, en grande partie parce que les transactions pertinentes étaient moins complexes et mieux documentées que celles de l’arrêt Lacroix. Le fait qu’aucun témoin n’a été appelé pour l’intimée distingue également les deux cas. Même si je reconnais que l’avocat de l’intimée a affirmé que le témoin de la Couronne a cessé d’être disponible à la dernière minute, il reste que, du point de vue du ministre, s’il y avait anguille sous roche, aucune preuve à ce sujet n’a été déposée devant la Cour. En outre, il existait une preuve documentaire corroborant les allégations de l’appelant voulant qu’il ait reçu un paiement en héritage de son père et permettant de vérifier l’existence de prêts, de paiements sur ces prêts et de dépôts en espèces (que l’appelant a en toute franchise admis avoir faits). Malgré la piètre opinion qu’avait l’avocat de l’intimée quant au style de gestion financière de l’appelant, la preuve directe fournie par l’appelant quant au fait qu’il préfère conserver son argent à la maison plutôt que de faire confiance aux banques, est demeurée inébranlable durant le contre‑interrogatoire. J’accepte le témoignage de l’appelant portant que, à un moment donné dans les années 1980, il a pris l’habitude de garder de l’argent à la maison; il a manifesté une certaine fierté en expliquant qu’il avait construit sa propre maison et y avait créé une cachette pour son argent, assez sécuritaire pour résister à un feu si un incendie survenait. Même si cette façon de faire est quelque peu excentrique, elle n’est pas illégale. Toutefois, cela rend le fardeau de la preuve de l’appelant plus exigeant.
+[9] Pour ce qui est de l’examen de la source des fonds mentionnée par l’appelant, en ce qui concerne son avance sur héritage, j’accepte le témoignage de l’appelant selon lequel il a reçu 21 000 $ de son héritage en 1999, témoignage qui a été corroboré par celui de son frère, par la lettre notariée de son père[9] et par les documents relatifs à la transaction immobilière[10] visant la vente de la maison familiale. J’accepte également la preuve soumise par l’appelant selon laquelle au lieu de placer de l’argent dans un compte en banque, il le conservait en lieu sûr dans sa résidence.
+[10] L’appelant a également déclaré qu’il disposait de 20 000 $ en espèces provenant d’une marge de crédit établie en prévision de l’achat d’un véhicule de remplacement pour sa Fiat Spider 1979. Il s’est avéré que l’achat du nouveau véhicule a été financé, comme l’a présumé le ministre comme en témoignent les relevés bancaires déposés en preuve[11]. Cette déclaration n’a pas été contestée lors du contre‑interrogatoire. L’appelant a aussi déclaré qu’à la demande de la Banque de Montréal, il avait contracté un prêt personnel de 25 000 $ le 16 février 2000. Même si aucun document officiel pour la marge de crédit n’a été déposé en preuve, on y fait référence à la pièce A‑5, soit la lettre de la Banque de Montréal qui décrit la transaction de prêt de 25 000 $ (documentée séparément dans un billet à ordre[12]). D’après la lettre et le témoignage de l’appelant, le produit du prêt a été immédiatement utilisé par la Banque en vue de rembourser la marge de crédit existante de 20 000 $, ainsi qu’un découvert de 1 000 $ dans le compte personnel de l’appelant. Cette situation aurait laissé à l’appelant la somme de 4 000 $ pour cacher dans sa résidence avec l’argent qu’il détenait déjà; pendant ce temps, on lui demandait de faire[13] (ce qu’il a fait[14]) des paiements mensuels de 529,33 $ sur son prêt personnel. Ces paiements ont été pris en considération dans la cotisation fondée sur la valeur nette.
+[11] Il en découle qu’en 2001, l’appelant aurait eu accès à environ 45 000 $ comptant provenant de sources non imposables durant les années d’imposition faisant l’objet du présent appel. Appliquant le critère énoncé dans Lacroix, je suis convaincue, selon la prépondérance des probabilités, que l’appelant a fourni une explication crédible quant à l’écart de 32 000 $ qui existe entre son revenu et sa valeur nette. Par conséquent, le ministre n’avait pas le droit d’établir une nouvelle cotisation après la période normale de cotisation pour 2001 et 2002, ni d’établir une nouvelle cotisation pour le revenu non déclaré de 9 206 $ en 2003. Comme les nouvelles cotisations n’étaient pas fondées, il s’ensuit que l’imposition de pénalités pour faute lourde était également injustifiée.
+[12] Pour les motifs susmentionnés, les appels relatifs aux années d’imposition 2001, 2002 et 2003 sont accueillis et les nouvelles cotisations sont annulées.
+Signé à Ottawa, Canada, ce 26e jour de novembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 13e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2010 CCI 605
+No DU DOSSIER DE LA COUR : 2009-2837(IT)I
+INTITULÉ : RICHARD SWARBRICK
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 22 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 26 novembre 2010
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Marc-André Paquin
+Avocat de l’intimée :
+Me Simon-Nicolas Crépin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Marc-André Paquin
+Cabinet : Dupuis Paquin
+Laval (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-6.
+[2] Pièces A-1 et A-2.
+[3] Pièce A-3.
+[4] Pièces A-4 et A-5.
+[5] 2008 CAF 241. (C.A.F.).
+[6] Précité, au paragraphe 32.
+[7] Précité, au paragraphe 8.
+[8] 2007 CCI 376, aux paragraphes 12-16. (C.C.I.).
+[9] Pièce A-2.
+[10] Pièce A-3.
+[11] Pièce A-6.
+[12] Pièce A-4.
+[13] Pièce A-4.
+[14] Pièce A-6.

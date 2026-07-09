@@ -1,0 +1,175 @@
+---
+title: "Evans c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28669/index.do"
+last_modified: "2008-05-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 310"
+citation2: ""
+neutral_citation: "2008 CCI 310"
+decision_date: "2008-05-16"
+language: "fr"
+item_id: "28669"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1132
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:44:58.444000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49e0e191a4748735e6ac6261cf65c58204b8a534aa635e5987a50eb8bdd0bbc2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Evans c. La Reine
+
+- Citation: 2008 CCI 310
+- Decision date: 2008-05-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1132, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Evans c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-16
+Référence neutre
+2008 CCI 310
+Numéro de dossier
+2007-914(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-914(IT)I
+ENTRE :
+BRENDA EVANS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Dennis Evans (2007-915(IT)I), le 24 avril 2008, à North Bay (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentante de l’appelante :
+Mme Jeannie Morin
+Avocat de l’intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de mai 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 6e jour d’août 2008.
+Christian Laroche, juriste‑traducteur
+Dossier : 2007-915(IT)I
+ENTRE :
+DENNIS EVANS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE] ____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Brenda Evans (2007-914(IT)I), le 24 avril 2008, à North Bay (Ontario)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentante de l’appelante :
+Mme Jeannie Morin
+Avocat de l’intimée :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de mai 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 6e jour d’août 2008.
+Christian Laroche, juriste‑traducteur
+Référence : 2008CCI310
+Date : 20080516
+Dossier : 2007-914(IT)I
+ENTRE :
+BRENDA EVANS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+2007-915(IT)I
+DENNIS EVANS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] Les appelants, Brenda et Dennis Evans, interjettent appel des nouvelles cotisations établies par le ministre du Revenu national, visant leur année d’imposition 2003, où l’amortissement recouvré a été ajouté à leurs revenus.
+[2] Brenda Evans a témoigné pour son propre compte et je l’ai trouvée tout à fait crédible. Il y a quelque 35 ans, les appelants ont fondé une entreprise appelée Evans Electric, qu’ils ont exploitée comme société de personnes; M. Evans faisait les travaux d’électricité et Mme Evans s’occupait des tâches administratives et de la tenue de livres. Leurs deux fils ont grandi en donnant un coup de main dans l’entreprise familiale et, avec l’aide de leurs parents, sont devenus électriciens qualifiés puis employés d’Evans Electric. Les parents ont toujours eu l’intention, une fois qu’ils seraient prêts à prendre leur retraite, de confier l’entreprise à leurs fils. Voilà pourquoi, en 2003, les appelants ont transféré l’exploitation d’Evans Electric à leurs fils. Ils ont mis fin à leur société de personnes et sont devenus employés de l’entreprise que dirigeaient désormais leurs fils. Comme cela arrive souvent dans des petites entreprises dirigées par une famille, tout s’est accompli dans l’harmonie, autour de la table de cuisine et sans qu’on sollicite de conseils juridiques, comptables ou fiscaux.
+[3] Les présents appels concernent un garage que les appelants ont construit sur leur propriété en 1996-1998. Ce garage servait d’atelier et d’espace d’entreposage pour l’équipement d’Evans Electric. Les appelants n’ont pas demandé de déductions au titre de l’amortissement pour ce garage avant 2001, sur les conseils de leur comptable. Lorsqu’ils ont cessé d’exploiter Evans Electric en 2003, ils sont demeurés propriétaires du garage mais en ont autorisé l’utilisation dans le cadre de l'entreprise alors exploitée par leurs fils. Ces derniers remboursaient aux appelants le coût des services publics et les impôts fonciers à l’égard du garage en leur versant chacun 25 $ par semaine, avec un rajustement à la fin de l’exercice pour combler toute insuffisance par rapport au coût réel. En pratique, autant les appelants que leurs fils utilisaient le garage aux mêmes fins dans leurs activités respectives.
+[4] C’est compte tenu de ces données que le ministre a conclu que le transfert d’Evans Electric aux fils des appelants en 2003 avait entraîné un « changement d’utilisation » du garage, ce qui a déclenché alors une disposition présumée conformément à l’alinéa 13(7)a) de la Loi de l’impôt sur le revenu :
+Règles applicables. Sous réserve du paragraphe 70(13), les règles suivantes s’appliquent dans le cadre des alinéas 8(1)j) et p), du présent article, de l’article 20 et des dispositions réglementaires prises pour l’application de l’alinéa 20(1)a) :
+a) le contribuable ayant acquis un bien en vue d’en tirer un revenu et qui commence, à un moment postérieur, à l’utiliser à une autre fin est réputé en avoir disposé à ce moment postérieur pour un produit de disposition égal à sa juste valeur marchande à ce même moment et l’avoir acquis de nouveau immédiatement après à un coût égal à cette juste valeur marchande;
+[5] Appliquant cette disposition, le ministre a décidé qu’ayant mis fin à leur société de personnes en 2003, les appelants n’utilisaient plus le garage pour en tirer un revenu; par conséquent, ils avaient donc commencé à l’utiliser à « une autre fin » au sens de l’alinéa 13(7)a). Ils étaient donc réputés en avoir disposé à un prix égal à sa juste valeur marchande en 2003. Comme cette juste valeur marchande excédait la fraction non amortie du coût en capital au moment de la disposition présumée, l’amortissement recouvré qui en a résulté a été ajouté au revenu des appelants[1].
+[6] Selon les appelants, il n’y a pas eu de changement d’utilisation puisque leurs fils ont continué d’utiliser le garage exactement de la même manière qu’eux avant le transfert d’Evans Electric. Le problème avec la logique des appelants, c’est qu’elle ne distingue pas Evans Electric, c'est-à-dire l’entreprise qu’eux avaient exploitée en tant que société de personnes jusqu’en 2003, et l’entreprise Evans Electric qui a été prise en charge par leurs fils et dont les appelants sont devenus employés. Je peux certainement comprendre comment, après avoir exploité Evans Electric en tant qu’entreprise familiale pendant 35 ans, les appelants peuvent avoir de la difficulté à distinguer une entité juridique de l’autre, particulièrement du fait que le nom est resté le même et qu’eux ainsi que leurs fils ont continué de travailler dans l’entreprise après les changements apportés en 2003.
+[7] Le problème c’est que, aux fins fiscales, ces distinctions juridiques sont importantes. Par exemple, comme Mme Evans l’a déclaré elle-même dans son témoignage, le fait qu’elle et son époux tirent leur revenu de l’entreprise désignée Evans Electric à titre d’associés ou d’employés changeait la façon dont ils déclaraient leur revenu. C’était eux, et non leurs fils, qui étaient légalement propriétaires du garage. Lorsque leurs fils, employés, sont devenus les propriétaires de l’entreprise Evans Electric en 2003, leur revenu n’était plus un revenu d’emploi mais un revenu d’entreprise. Parce qu’ils se servaient du garage des appelants dans le cadre de leurs activités et qu’ils engageaient des dépenses pour l’utiliser en remboursant aux appelants les coûts que ces derniers assumaient pour le garage, les fils avaient le droit de déduire ces frais d’exploitation de leur revenu d’entreprise; les appelants ne pouvaient plus le faire. Si les fils avaient versé un loyer aux appelants, ce loyer aurait pu aussi être déduit à titre de dépense. Par le fait même, les appelants auraient eu à inclure ce loyer dans leur revenu à titre de revenu de bien, mais ils auraient pu déduire par ailleurs leurs coûts relatifs à ce bien.
+[8] Malheureusement, les appelants ne se sont pas attardés à ces détails et les choses se sont embrouillées irrémédiablement. Ils voulaient aider leurs fils à se lancer en affaires et, par conséquent, ont limité les frais demandés pour l’utilisation du garage à leurs dépenses réelles. Ils n’ont pas pris la peine de déclarer le loyer ou de déduire des dépenses relativement au garage dans leur déclaration de revenus pour 2003, parce que ces montants se seraient annulés réciproquement.
+[9] S’ils avaient exigé de leurs fils un loyer équivalant à la juste valeur marchande lorsque l’entreprise a été transférée en 2003, les appelants auraient pu éviter la disposition présumée visée à l’alinéa 13(7)a). Même s’ils n’utilisaient plus le garage alors pour tirer un revenu de l’entreprise, ils l’utilisaient quand même pour tirer un revenu du bien. Selon ce scénario, il n’y aurait pas eu de changement d’utilisation, tel que l’envisage cet alinéa.
+[10] Le fait est, cependant, qu’aucun loyer n’a été demandé en 2003, seule période pertinente dans le cadre des présents appels. À ce moment-là, les appelants ont décidé de recouvrer seulement les frais de services publics auprès de leurs fils. Bien qu’il semble y avoir eu des discussions, à l’étape de l’opposition à l’avis de cotisation, entre les appelants et les représentants de l’Agence du revenu du Canada au sujet d’une modification des arrangements pris avec les fils pour ce qui est de leur utilisation du garage, elles n’ont finalement pas abouti. À l’audience, aucune preuve n’a été présentée quant à la juste valeur marchande du loyer concernant le garage en 2003. De toute manière, il semble raisonnable de présumer que les appelants auraient demandé un loyer supérieur à leurs coûts réels s’ils avaient loué le garage à un tiers sans lien de dépendance. Compte tenu de toutes ces circonstances, je ne peux pas conclure que le remboursement des frais de services publics des appelants constituait un loyer versé relativement au garage.
+[11] Les appelants soutiennent qu’il n’y a eu, en pratique, aucun changement d’utilisation du garage. Or, l’objet de l’alinéa 13(7)a) n’est pas le bien lui-même, mais plutôt son utilisation par le contribuable qui en a fait l’acquisition et qui s’est prévalu d’un amortissement. Le droit du contribuable à cet égard dépend de son utilisation du bien à chaque année d’imposition en vue de tirer un revenu de son entreprise[2]. Aux termes de l’alinéa 13(7)a), si le contribuable ayant acquis un bien en vue d’en tirer un revenu d’entreprise commence à l’utiliser « à une autre fin » (autrement dit, s’il cesse de l’utiliser pour en tirer son propre revenu d’entreprise), il est réputé en avoir disposé pour un produit de disposition égal à sa juste valeur marchande à ce moment-là. Le fait qu’un autre contribuable continue d’utiliser le bien de la même manière n’empêche pas l’application de l’alinéa 13(7)a).
+[12] En l’espèce, lorsque les appelants ont cessé, en 2003, d’exploiter Evans Electric en tant que société de personnes, ils n’en tiraient plus aucun revenu d’entreprise. Il s’ensuit qu’ils n’utilisaient pas le garage « en vue de tirer un revenu de l’entreprise ». Bien qu’il y ait encore eu une entreprise désignée « Evans Electric » utilisant le garage pour la même fin que les appelants, ce n’était plus leur entreprise et, par conséquent, ils ont commencé à utiliser le garage à une autre fin qu’en vue de tirer un revenu de l’entreprise. Le fait que les fils aient continué d’utiliser le garage de la même façon n’empêchait aucunement l’application de l’alinéa 13(7)a) aux appelants. Dès que ceux-ci ont mis fin à leurs activités en tant qu’Evans Electric, leur situation a satisfait à tous les critères énoncés à l’alinéa 13(7)a) et ils ont été réputés avoir disposé de leur garage à sa juste valeur marchande. Le chiffre utilisé pour calculer la juste valeur marchande du garage a été fourni par les appelants eux-mêmes[3]; il n’y avait pas de preuves suffisantes m’amenant à conclure qu’un autre chiffre aurait été préférable. En outre, quand le garage a été ajouté aux stocks en 2001, il semble que le mauvais chiffre ait été utilisé comme coût en capital; il est trop tard pour tenter de corriger cette erreur.
+[13] En dernier lieu, d’après mon interprétation de leur argument, les appelants estiment que, étant donné qu’ils n’auraient pas pu être employés d’Evans Electric s’ils n’avaient pas permis à leurs fils, en tant que nouveaux propriétaires d’Evans Electric, d’utiliser leur garage, la source du revenu des appelants était l’« entreprise » et, par conséquent, qu’il n’y avait pas eu de changement d’utilisation visé à l’alinéa 13(7)a). Même si cet argument peut être fondé en pratique, il n’est pas acceptable en raison de la nécessité, pour les besoins de la Loi de l’impôt sur le revenu, de qualifier le revenu d’après sa source. Peu importe le rôle qu’ont joué les appelants afin de permettre à l’entreprise de poursuivre ses activités, le fait est qu’en 2003, ils étaient employés et non pas propriétaires d’Evans Electric. Il s’ensuit donc que la source de leur revenu était un emploi et non une entreprise. Pour cette raison, il y a eu changement d’utilisation au sens de l’alinéa 13(7)a).
+[14] Malgré de bonnes intentions, les changements apportés à l’exploitation d’Evans Electric en 2003 ont eu de lourdes conséquences pour tous les intéressés. Malheureusement, les appelants n’ont eu conscience des répercussions de leurs actions que bien longtemps après le moment où il aurait été possible de prendre des mesures correctives. Selon la preuve faisant état de la situation en 2003, année où des changements ont été apportés à l’exploitation d’Evans Electric, je ne peux pas conclure que le ministre a fait une erreur en établissant son avis de cotisation. Par conséquent, les appels doivent être rejetés.
+Signé à Ottawa, Canada, ce 16e jour de mai 2008.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 6e jour d’août 2008.
+Christian Laroche, juriste‑traducteur
+RÉFÉRENCE : 2008CCI310
+DOSSIERS
+DE LA COUR : 2007-914(IT)I; 2007-915(IT)I
+INTITULÉ : Brenda Evans et Dennis Evans c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : North Bay (Ontario)
+DATE DE L’AUDIENCE : Le 24 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 16 mai 2008
+COMPARUTIONS :
+Représentante des appelants :
+Mme Jeannie Morin
+Avocat de l’intimée :
+Me Frédéric Morand
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Par. 13(1) et 13(21) de la Loi.
+[2] Ou du bien, mais à cette étape de ma décision, je n’examine que le revenu tiré de l’entreprise. Je ne mentionnerai par la suite que l’entreprise.
+[3] Pièce R-7.

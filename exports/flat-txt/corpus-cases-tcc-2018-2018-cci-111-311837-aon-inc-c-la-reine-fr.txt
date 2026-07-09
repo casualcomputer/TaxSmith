@@ -1,0 +1,153 @@
+Title: Aon Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/311837/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-111-311837-aon-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-06-14
+
+# Aon Inc. c. La Reine
+
+- Citation: 2018 CCI 111
+- Decision date: 2018-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5079, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aon Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-14
+Référence neutre
+2018 CCI 111
+Numéro de dossier
+2015-1043(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1043(IT)G
+ENTRE :
+AON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+L’honorable juge Diane Campbell
+ORDONNANCE RELATIVE AUX DÉPENS
+Des dépens, fixés à 150 000 $, sont adjugés à l’appelante, conformément aux motifs de l’ordonnance relative aux dépens ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2018.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 4e jour de janvier 2019.
+Mario Lagacé, jurilinguiste
+Référence : 2018 CCI 111
+Date : 20180614
+Dossier : 2015-1043(IT)G
+ENTRE :
+AON INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+La juge Campbell
+[1] AON Inc. (AON) a présenté une requête par laquelle elle demande à la Cour de lui accorder une somme forfaitaire à titre de dépens de 200 000 $ en application des paragraphes 147(3.1) et 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) comme suit :
+a) 50 % des honoraires d’avocat engagés préalablement
+à l’offre de règlement 22 025,43 $
+b) 80 % des honoraires d’avocat engagés après
+l’offre de règlement 94 271,60 $
+c) la totalité des débours56 481,78 $
+d) un montant discrétionnaire supplémentaire fondé sur
+les facteurs énoncés au paragraphe 147(3) des Règles 27 221,00 $
+TOTAL : 200 000,00 $
+[2] L’intimée s’est opposée à la requête pour les motifs suivants :
+a) L’offre de règlement d’AON n’a pas pu être acceptée par l’intimée parce qu’elle n’était pas conforme aux dispositions de la Loi de l’impôt sur le revenu (la Loi) et, par conséquent, l’offre n’a pas déclenché l’application du paragraphe 147(3.1).
+b) Le montant exact des frais devrait donc être conforme au Tarif B pour un montant total de 47 138,26 $, comprenant des sommes pour les services de l’avocat de 7 625 $ et des débours de 39 513,26 $.
+c) Si les frais doivent être établis conformément au paragraphe 147(3.1), au motif que l’offre de l’appelante a déclenché l’application de cette disposition, le total des sommes pour les services de l’avocat ne devrait pas dépasser 95 171,60 $ et cette somme, ajoutée aux débours de 39 513,26 $, s’élèverait à 134 684,86 $.
+d) Les débours devraient être réduits du montant réclamé de 56 481,78 $ à 39 513,26 $ en tenant compte de ce qui suit :
+une « autre facture » de 8 874,00 $ relativement à la recherche et à la préparation du mémoire pour la période se terminant en décembre 2014, ce qui, par conséquent, est une somme engagée avant le début de la procédure; et
+des « frais administratifs » de 5 % pour un total de 8 094,52 $.
+[3] Le 13 mars 2015, AON a déposé un avis d’appel à l’égard des nouvelles cotisations pour ses années d’imposition 2010 et 2011. La question dont la Cour était saisie consistait à déterminer si les dépenses se rapportant au garage de stationnement d’AON devaient être considérées comme courantes pour l’année où elles avaient été engagées ou comme des dépenses en capital devant être déduites sur plusieurs années conformément aux règles relatives à la déduction pour amortissement. Une réponse à l’avis d’appel a été déposée le 16 juin 2015.
+[4] Le 8 février 2016, AON a fait une offre écrite de règlement à l’avocat de la partie adverse. Elle a proposé que le coût d’installation du système d’étanchéité soit considéré comme une dépense en capital et que le solde des dépenses de 3 892 185 $ soit traité comme des dépenses d’entreprise pour les deux années d’imposition.
+[5] Les interrogatoires préalables ont pris fin, et les engagements qui en ont découlé ont été conclus, le 31 mars 2016.
+[6] Le 2 mai 2016, AON a écrit à la Cour pour l’aviser que l’affaire était prête à être inscrite pour instruction; cependant, l’intimée a demandé un délai de 45 jours supplémentaires avant de communiquer avec la Cour.
+[7] Le 5 mai 2016, la Cour a fait droit à la demande de prorogation de délai de l’intimée enjoignant aux parties de communiquer avec la Cour au plus tard le 20 juin 2016. Le 17 juin 2016, AON a demandé de nouveau que l’affaire soit inscrite au rôle pour être entendue. Le 20 juin 2016, l’intimée a demandé une nouvelle prorogation de délai de 45 jours. La Cour a ordonné qu’une conférence téléphonique sur la gestion de l’instance soit tenue en réponse à la demande de l’intimée. Au cours de cette conférence, l’affaire a été inscrite pour une audience de deux jours devant se tenir les 18 et 19 janvier 2017.
+[8] Le 25 juillet 2016, AON a retenu les services d’un expert en matière de coût de construction pour répondre à l’hypothèse posée par l’intimée selon laquelle les réparations apportées au garage de stationnement avaient une valeur considérable par rapport à la juste valeur marchande du bien immeuble.
+[9] Le 9 janvier 2017, l’intimée a fait une offre écrite de règlement dans laquelle elle proposait de ne caractériser qu’environ 315 950 $ du montant total des dépenses de 4 157 385 $ à titre de dépense courante. Cette offre a été rejetée le même jour.
+[10] L’audience, qui a été tenue devant le juge Jorré, a duré deux jours. Le 31 août 2017, il a rendu ses motifs dans lesquels l’appelante a eu gain de cause sur toute la ligne, obtenant ainsi un jugement plus favorable que son offre de règlement du 8 février 2016.
+[11] Le point de départ de toute analyse des dépens se fonde sur l’article 147 des Règles, selon lequel notre Cour dispose d’un large pouvoir discrétionnaire pour adjuger les dépens ou les refuser, y compris attribuer la totalité ou une partie des dépens sur une base procureur-client. Pour déterminer l’adjudication de dépens, le cas échéant, qui ne sont pas conformes au tarif, la Cour tient compte des facteurs énoncés au paragraphe 147(3) des Règles. La Cour peut fixer les dépens, sans tenir compte du barème tarifaire, quand elle détermine que des dépens sous forme de somme forfaitaire qui remplace un tarif ou qui s’y ajoute sont appropriés : « [...] les frais entre parties ne visent pas à indemniser intégralement la partie qui a gain de cause de ses frais extrajudiciaires » (Smerchanski c. MRN, [1979] 1 CF 801, au paragraphe 12 (CAF)). La jurisprudence reconnaît généralement que les dépens sur une base procureur-client ne seront accordés que dans des circonstances exceptionnelles impliquant l’inconduite d’une partie ou une impropriété qui entache la procédure. La Cour suprême du Canada a établi le critère applicable aux dépens procureur-client dans l’arrêt Young c. Young, [1993] 4 RCS 3, au paragraphe 251, où la Cour suprême s’est exprimée ainsi :
+[...] Les dépens comme entre procureur et client ne sont généralement accordés que s’il y a eu conduite répréhensible, scandaleuse ou outrageante d’une des parties. Le peu de fondement d’une demande ne constitue donc pas une raison d’accorder les dépens sur cette base [...].
+[12] Dans la décision Continental Bank of Canada c. Canada, [1994] A.C.I. 863, 94 DTC 1858, aux paragraphes 9 et 10, la Cour a déclaré que ni les dépens réels engagés par une partie ni la complexité des questions ne devraient justifier une dérogation aux montants taxés selon le tarif :
+Le fait que les montants prévus au tarif paraissent excessivement bas par rapport aux dépens réels d’une partie n’est pas une raison pour adjuger des dépens supplémentaires à ceux que prévoit le tarif. Je ne crois pas que, chaque fois que la présente Cour est saisie d’une cause de nature fiscale importante et complexe, nous devrions user de notre pouvoir discrétionnaire pour hausser les dépens adjugés à un montant qui corresponde davantage à celui que les avocats des contribuables factureront vraisemblablement. Il doit avoir été évident aux membres des comités de rédaction des règles qui ont fixé le tarif que les dépens entre parties qui peuvent être recouvrés sont de peu d’importance par rapport aux frais réels qu’une partie peut avoir engagés. Nombreuses sont les causes importantes et complexes dont la Cour est saisie. Les litiges de nature fiscale sont un aspect complexe et spécialisé du droit, et les rédacteurs des Règles auxquelles nous sommes soumis devaient le savoir.
+Il faut habituellement respecter le tarif, à moins de circonstances exceptionnelles, dont une inconduite de la part de l’une des parties, un retard abusif, une prolongation inutile de l’instance, des querelles procédurales inutiles, pour n’en citer que quelques-unes [...].
+[13] Bien que la décision sur les frais intitulée Sommerer c. La Reine, 2011 CCI 212, 2011 DTC 1162, semble s’écarter des déclarations contenues dans la décision Continental Bank, la Cour a tiré ses conclusions dans ces deux décisions après un examen des facteurs énumérés au paragraphe 147(3) des Règles. Comme il a été noté dans la décision Sommerer, une attribution de dépens [TRADUCTION] « tient plus de l’art que de la science » dans l’atteinte du résultat. Il n’y a pas de formule rigide qu’un juge utilise pour rendre une décision sur l’adjudication des dépens. Il faudra tenir compte des facteurs énumérés au paragraphe 147 (3), ainsi que de tous les autres facteurs pertinents, pour décider du montant raisonnable, juste et approprié que doit payer une partie qui n’a pas eu gain de cause, compte tenu des circonstances et des faits particuliers de chaque cas individuel. Lorsqu’elle exerce son pouvoir discrétionnaire, la Cour doit se fonder sur une base rationnelle.
+[14] AON demande l’adjudication de dépens sous forme de somme forfaitaire fondée sur le paragraphe 147(3.1) et sur le paragraphe 147(3) des Règles. Le paragraphe 147 (3.1) énonce ce qui suit :
+147(3.1) Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables.
+[15] Dans un certain nombre de décisions, on a accordé beaucoup d’importance et de poids à l’existence d’offres de règlement en vue de l’adjudication des dépens (Swain c. La Reine, 2012 CCI 46, 2012 DTC 1086; Langille c. La Reine, 2009 CCI 139, 2009 DTC 1103; ACSIS EHR c. La Reine, 2016 CCI 50, 2016 DTC 1047). Le paragraphe 147(3.1) des Règles prévoit que, si la partie qui a gain de cause fait une offre de règlement avant l’audience et obtient à l’audience un jugement plus favorable que les modalités de cette offre, elle aura droit aux dépens procureur-client jusqu’à la date à laquelle elle a fait l’offre. Elle peut également avoir droit à des dépens indemnitaires substantiels après la date de l’offre et à des débours raisonnables.
+[16] AON soutient qu’elle a droit à des dépens en application du paragraphe 147(3.1) de 172 778 $, plus un montant additionnel de 27 221 $ à la lumière des facteurs énumérés au paragraphe 147(3). L’offre de règlement d’AON a été faite le 5 février 2016. Il a fallu onze mois à l’intimée pour communiquer avec l’appelante. Lorsque l’intimée a répondu le 9 janvier 2017, c’était juste quelques jours avant le début de l’audience. Une autre proposition de règlement a été faite, mais elle a été rejetée par AON le même jour. Dans les observations écrites de l’intimée sur les dépens, il est allégué que l’offre d’AON n’a pas pu être acceptée, car elle n’était pas conforme à la Loi. L’intimée a soutenu que les dépenses d’entreprise de 3 892 185 $ qu’AON avait déclarées ne pouvaient être admises dans le cadre de cette offre, parce que le montant total en cause de 4 157 385 $ avait déjà été inclus à titre de dépenses d’entreprise dans la catégorie 3 aux fins de sa déduction pour amortissement. L’intimée soutient que, si l’offre d’AON avait été acceptée, cela aurait entraîné un traitement fiscal incohérent des mêmes dépenses et aurait permis à AON de réclamer des déductions deux fois à l’égard des mêmes dépenses. Par conséquent, étant donné que l’offre qu’avait présentée AON ne pouvait être acceptée, en droit, l’offre ne pouvait avoir l’effet sur la taxation des dépens proposés qu’AON demande à la Cour (CIBC World Markets Inc. c. La Reine, 2012 CAF 3). Aucune de ces objections à l’offre n’avait été soulevée auprès de l’appelante avant la présentation des observations écrites sur les dépens.
+[17] Dans ses observations en réponse relativement aux dépens, AON a accepté la règle générale énoncée dans l’arrêt CIBC World Markets selon laquelle seules les offres fondées sur une base rationnelle peuvent être acceptées en droit et seules ces offres auront un effet sur la taxation des dépens en application du paragraphe 147(3.1). Toutefois, AON a établi une distinction entre les faits de cette cause et les faits du présent appel. Le contribuable dans l’affaire CIBC World Markets avait proposé de régler son appel en matière de TPS en proposant qu’on lui accorde 90 % du total des crédits de taxe sur les intrants en cause. La Cour d’appel fédérale a conclu qu’il s’agissait d’une situation où il fallait choisir entre tout ou rien et que le contribuable n’avait pas fait une offre admissible selon la méthode de règlement fondée sur une base rationnelle (voir aussi la décision Hine c. La Reine, 2012 CCI 295, 2012 DTC 1244). Dans l’arrêt CIBC World Markets, la cotisation devait être ratifiée ou infirmée intégralement; l’appel d’AON, cependant, concernait la caractérisation des dépenses à titre de dépenses courantes ou de dépenses en capital, AON soutenant que l’intimée pouvait légalement accepter que certaines dépenses soient reconnues comme des dépenses courantes, alors que d’autres, comme des dépenses en capital. Bien que j’accepte l’argument d’AON à cet égard, il ne répond pas à l’argument de l’intimée selon lequel l’offre d’AON entraînerait une double imposition. AON n’a pas reconnu ni pris en compte le fait que les dépenses avaient déjà été incluses dans la catégorie 3 aux fins des déductions pour amortissement, ce qui signifie que ces dépenses auraient été déductibles à titre de dépenses d’entreprise tout en étant également amortissables selon les règles relatives aux déductions pour amortissement. AON a simplement déclaré au paragraphe 4 de ses observations ce qui suit : [TRADUCTION] « il s’agit d’une interprétation incorrecte et injuste de l’offre d’AON » sans donner les raisons pour lesquelles elle croyait que la qualification faite par l’intimée était incorrecte. Bien que j’accepte qu’AON n’ait pas eu l’intention de déduire ces dépenses deux fois, je ne peux accepter sa suggestion selon laquelle, si l’intimée avait [TRADUCTION] « [...] accepté l’offre d’AON, le ministre aurait facilement pu apporter les rajustements consécutifs nécessaires aux dépenses déjà amorties aux termes des règles relatives aux déductions pour amortissement de manière à garantir qu’il n’y aura pas de double déduction. » (Observations en réponse de l’appelante relativement aux dépens, paragraphe 6). Je suppose que cela aurait dû être un rajustement relativement facile pour le ministre, mais je n’en ai tout simplement aucune idée.
+[18] Il est intéressant de noter qu’à la lumière de son raisonnement, la Cour d’appel fédérale aurait vraisemblablement accordé les dépens à CIBC World Markets si l’offre de règlement avait porté sur la totalité des crédits de taxe sur les intrants. La jurisprudence récente donne à entendre que des restrictions peuvent être imposées au type d’offres de règlement qui peut être utilisé pour justifier l’octroi de dépens majorés. Bien que j’aie des réserves quant à l’incidence que les offres de règlement pourraient avoir sur l’adjudication de dépens découlant de cette jurisprudence, ce qu’il faut retenir d’une offre de règlement présentée par des parties, c’est qu’elle doit être soigneusement rédigée et clairement formulée de façon à assurer que le traitement fiscal proposé est conforme à la Loi, particulièrement si cette offre doit être utilisée au soutien d’une demande de dépens majorés par la partie ayant obtenu gain de cause devant la cour. Bien que la question soulevée en l’espèce ne s’apparente pas à un scénario du « tout ou rien », je suis d’avis que le ministre ou, en l’occurrence, toute partie à une instance, a la responsabilité, dans le cadre de tous les appels devant la Cour, d’examiner le bien-fondé d’une offre de règlement et de répondre à la partie adverse dans un délai raisonnable. Cela ne s’est pas produit en l’espèce et, selon les observations d’AON, la première fois que l’intimée a soulevé la possibilité des doubles déductions, c’était dans les observations écrites sur les dépens. Après avoir lu les transcriptions, cela semblerait être la première occurrence. Après l’offre de règlement d’AON le 8 février 2016, les parties ont poursuivi toutes les étapes requises de la procédure jusqu’à ce que l’intimée décide de présenter une contre-offre le 9 janvier 2017, quelques jours avant l’audience prévue. Compte tenu de ces circonstances, je suis d’avis que l’offre d’AON constitue une offre valable, sous réserve des rajustements qui auraient pu être nécessaires pour éviter une double déduction. Bien que je ne puisse pas l’examiner en application du paragraphe 147(3.1), je ne vois aucune raison pour laquelle je ne peux pas la considérer comme un facteur dans l’adjudication des dépens en ce qui a trait au poids que je peux lui accorder ainsi qu’aux autres facteurs énumérés au paragraphe 147(3). Je crois pouvoir le faire en me fondant sur le libellé très large de l’alinéa 147(3)d), où il est dit que la Cour peut considérer « toute offre de règlement présentée par écrit ».
+[19] Je vais maintenant examiner les facteurs énumérés au paragraphe 147(3) qui sont applicables au présent appel :
+a) Le résultat de l’instance
+[20] L’appelante a entièrement eu gain de cause dans son appel puisque le juge Jorré a conclu que les dépenses en cause constituaient des dépenses courantes.
+b) Les sommes en cause
+[21] La somme en cause, qui représentait des dépenses, était de 4 157 385 $, ce qui n’est pas une somme négligeable.
+c) L’importance des questions en litige
+[22] Bien que la présente affaire puisse servir de ligne directrice pour un contribuable confronté à la caractérisation d’une dépense similaire, elle n’a pas d’importance particulière dans la jurisprudence en ce domaine du droit. Du point de vue d’AON, la caractérisation des dépenses relatives au garage de stationnement serait d’une importance particulière.
+d) Une offre de règlement présentée par écrit
+[23] Ma conclusion antérieure à cet égard est que l’offre d’AON du 8 février 2016 peut être prise en considération en application de ce facteur même si, selon la jurisprudence, je ne peux l’examiner dans le cadre de l’adjudication des dépens aux termes du paragraphe 147(3.1). En outre, AON cherche à obtenir des dépens en fonction d’un montant forfaitaire et, bien qu’elle ait mentionné le paragraphe 147(3.1), elle l’a fait [TRADUCTION] « [...] simplement pour servir de point de repère afin d’aider la Cour à adjuger des dépens justes et appropriés ». Au sens strict, l’offre d’AON n’était pas une offre de règlement fondée sur une base rationnelle. Le critère, pour déterminer si une offre est fondée sur une base rationnelle, consiste à savoir s’il est possible de conclure que les conséquences fiscales, présentées dans l’offre et qui doivent être convenues entre les parties, seront conformes à une interprétation raisonnable de la loi fiscale applicable à la situation du contribuable. L’offre n’a pas pris en compte ces éléments. L’intimée ne pouvait pas l’accepter tel qu’elle a été rédigée, car cela aurait créé une situation où AON aurait reçu un traitement fiscal sous la forme d’une double déduction. Selon mon raisonnement dans la décision Campbell c. La Reine, 2010 CCI 323, 2010 DTC 1221, citée par la Cour d’appel fédérale dans l’arrêt Transalta Corp. c. La Reine, 2013 CAF 285, 2014 DTC 5018, l’intimée n’est pas tenue de proposer d’autres offres de règlement. Cependant, dans la décision Campbell que j’ai rendue, l’intimée a promptement rejeté l’offre du contribuable. Dans l’appel d’AON, l’intimée a gardé le silence et n’a agit que quelques jours avant l’audience. L’alinéa 147(3)d) prévoit que les circonstances, en ce qui concerne une offre écrite de règlement, seront prises en compte dans l’adjudication des dépens, en particulier lorsque l’on envisage de majorer les dépens aux termes d’une somme forfaitaire.
+e) La charge de travail
+[24] Cinq témoins ont été entendus, parmi lesquels chaque partie avait un expert. Il semblerait que la charge de travail et les heures qui y ont été consacrées correspondent à la préparation nécessaire pour ce type d’appel.
+f) La complexité des questions en litige
+[25] Un examen des transcriptions et des motifs du juge Jorré ne révèle pas que la question en appel était d’une complexité particulière. À l’appui de ma conclusion, au paragraphe 12 de sa décision, le juge énonce :
+[12] La Cour n’est pas appelée à se prononcer sur le montant des dépenses, sur la crédibilité des témoins ni sur des questions de fait importantes. L’affaire repose sur la qualification appropriée des faits dans le contexte du droit applicable.
+g) La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+[26] L’appelante soutient qu’elle a été confrontée à de nombreux retards dans l’introduction de l’appel devant la Cour, dont beaucoup ont été causés par le comportement de l’intimée qui a prolongé inutilement la procédure. Cette conduite incluait le manque de disponibilité du représentant de l’intimée pour des interrogatoires préalables pendant plus de trois mois et de multiples demandes de prorogation de délai qui ont obligé l’avocat de l’appelante à demander la tenue d’une conférence téléphonique sur la gestion de l’instance pour faire avancer l’instance. Ce facteur justifie une majoration des dépens.
+h) Dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis
+[27] L’appelante soutient qu’en raison du refus de l’intimée d’admettre la valeur du coût de reconstitution des immeubles, AON a été obligée de retenir les services d’un expert pour présenter des éléments de preuve à cet égard à l’audience. Cela a nécessité du temps et des dépenses supplémentaires dans la préparation de l’audience. Dans ses observations, l’appelante a noté qu’il était difficile de voir clairement pourquoi l’intimée refusait d’admettre ce fait [TRADUCTION] « [...] puisqu’aucune preuve contradictoire n’a été présentée par la Couronne à l’audience ». [Observations de l’appelante sur les dépens, alinéa 38c)].
+i) Conduite inappropriée, vexatoire ou inutile
+[28] Ce facteur ne s’applique pas au présent appel.
+j) Toute autre question pouvant influer sur la détermination des dépens.
+[29] La conduite de l’intimée a été discutée sous plusieurs autres rubriques. Cependant, permettez-moi de rappeler que toute partie qui refuse de prendre en compte une offre de règlement dans un délai raisonnable, même si ce n’est que pour la rejeter, court le risque d’être condamnée à payer des dépens majorés. Les commentaires du juge Wagner (tel était alors son titre) dans l’arrêt Union Carbide Canada Inc. c. Bombardier Inc., 2014 CSC 35, [2014] 1 RCS 800, au paragraphe 32, étayent mes conclusions à cet égard : « Notre système de justice surchargé favorise de façon prioritaire le règlement des différends [...] ».
+Facteurs atténuants concernant la demande d’adjudication de dépens de l’appelante d’une somme forfaitaire de 200 000 $
+[30] Il semble qu’une partie des dépens et des débours que l’appelante demande ont été engagés avant le dépôt de l’avis d’appel. L’appelante n’a pas indiqué quels éléments étaient liés en particulier à la rédaction de l’avis d’appel et ne les a pas étayés. Par conséquent, ils doivent être refusés. (Repsol Canada Ltd. c. La Reine, 2015 CCI 154, 2015 DTC 1151). La seule inscription dans la facture pertinente pour la période qui semble se rapporter à la rédaction de l’avis d’appel est celle du 12 janvier 2015. Elle représente environ 3 500 $ sur un compte de 16 500 $ et c’est le seul montant qui peut être accordé.
+[31] Je rejette également l’argument de l’appelante selon lequel la Cour devrait adopter une méthode moderne de calcul des débours à l’appui des « frais administratifs » de 5 %. Aux termes du paragraphe 157(3), des débours doivent être engagés et la partie doit être tenue de les payer. Ces frais administratifs figurent sur un certain nombre de factures représentant des débours totaux de 8 064,52 $, mais il n’y a aucune ventilation de ce montant total en ce qui a trait au litige. Bien que l’appelante prétende que ces débours se rapportent aux frais de photocopie, de télécopie, d’impression et d’affranchissement, l’intimée ne sera pas tenue de rembourser l’appelante pour des débours si aucun détail n’est fourni pour étayer le montant réclamé.
+[32] Enfin, le montant de 8 874 $ pour les [TRADUCTION] « honoraires professionnels pour la recherche et la préparation d’un mémoire » figurant dans une facture datée du 31 janvier 2015 ne peut être autorisé à titre de débours. Bien que l’appelante prétende que le montant n’incluait pas d’honoraires d’avocat, il n’y a aucune preuve selon laquelle le montant constituait un débours pour lequel l’appelante devrait être remboursée dans le cadre d’une adjudication de dépens.
+[33] Bref, le montant des débours de 56 481,78 $ demandés par l’appelante devrait être réduit des montants de 13 000 $, de 8 064,52 $ et de 8 874,00 $ pour une réduction totale de 29 938,52 $.
+Conclusion
+[34] Compte tenu de tous ces facteurs, notamment mes commentaires concernant l’offre de règlement de l’appelante et la conduite subséquente de l’intimée, je crois que des dépens d’une somme forfaitaire de 150 000 $ sont justifiés dans les circonstances. Cela tient également compte de la réduction d’environ 30 000 $ à l’égard des débours réclamés dans le cadre de la demande d’une somme forfaitaire de 200 000 $ présentée par l’appelante.
+Signé à Ottawa, Canada, ce 14e jour de juin 2018.
+« Diane Campbell »
+La juge Campbell
+Traduction certifiée conforme
+ce 4e jour de janvier 2019.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2018 CCI 111
+NO DU DOSSIER DE LA COUR :
+2015-1043(IT)G
+INTITULÉ :
+AON INC. c. SA MAJESTÉ LA REINE
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Diane Campbell
+DATE DE L’ORDONNANCE :
+Le 14 juin 2018
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Justin Kutyan
+Me Adam Gotfried
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,319 @@
+Title: 3142774 Nova Scotia Limited c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31156/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-129-31156-3142774-nova-scotia-limited-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2013-04-26
+
+# 3142774 Nova Scotia Limited c. M.R.N.
+
+- Citation: 2013 CCI 129
+- Decision date: 2013-04-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4745, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+3142774 Nova Scotia Limited c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-26
+Référence neutre
+2013 CCI 129
+Numéro de dossier
+2011-2090(EI), 2011-2094(CPP), 2011-3173(EI), 2011-3174(CPP), 2012-3162(EI), 2012-3164(CPP), 2012-3165(EI), 2012-3166(CPP), 2012-3167(EI), 2012-3169(CPP), 2012-3170(EI), 2012-3171(CPP)
+Juges et Officiers taxateurs
+Frank J. Pizzitelli
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2011-2090(EI)
+2011-2094(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+3142774 Nova Scotia Limited, 2012-3162(EI), 2012-3164(CPP),
+2012-3165(EI), 2012-3166(CPP), 2012-3167(EI), 2012-3169(CPP), 2012‑3170(EI), 2012-3171(CPP), 2012-3173(EI) et 2012-3174(CPP)
+les 18 et 19 avril 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), à l’égard des décisions rendues par le ministre du Revenu national relativement aux appels dont il avait été saisi en application de l’article 91 de la Loi et de l’article 27 du Régime, sont accueillis, sans frais, compte tenu du fait que la travailleuse, Shawna Bobyk, n’occupait pas un emploi assurable ou ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime pendant la période allant du 1er septembre 2009 au 29 septembre 2010.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+Dossiers : 2012-3162(EI)
+2012-3164(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+3142774 Nova Scotia Limited, 2011-2090(EI), 2011-2094(CPP),
+2012-3165(EI), 2012-3166(CPP), 2012-3167(EI), 2012-3169(CPP), 2012-3170(EI), 2012-3171(CPP), 2012-3173(EI) et 2012-3174(CPP)
+les 18 et 19 avril 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), à l’égard des décisions rendues par le ministre du Revenu national relativement aux appels dont il avait été saisi en application de l’article 91 de la Loi et de l’article 27 du Régime, sont accueillis, sans frais, compte tenu du fait que le travailleur, John Gulbrandson, n’occupait pas un emploi assurable ou ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime pendant la période allant du 1er décembre 2009 au 31 décembre 2010.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+Dossiers : 2012-3165(EI)
+2012-3166(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+3142774 Nova Scotia Limited, 2011-2090(EI), 2011-2094(CPP),
+2012-3162(EI), 2012-3164(CPP), 2012-3167(EI), 2012-3169(CPP), 2012-3170(EI), 2012-3171(CPP), 2012-3173(EI) et 2012-3174(CPP)
+les 18 et 19 avril 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), à l’égard des décisions rendues par le ministre du Revenu national relativement aux appels dont il avait été saisi en application de l’article 91 de la Loi et de l’article 27 du Régime, sont accueillis, sans frais, compte tenu du fait que la travailleuse, Stephanie Sachetti, n’occupait pas un emploi assurable ou ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime pendant la période allant du 1er janvier 2010 au 31 décembre 2010.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+Dossiers : 2012-3167(EI)
+2012-3169(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+3142774 Nova Scotia Limited, 2011-2090(EI), 2011-2094(CPP),
+2012-3162(EI), 2012-3164(CPP), 2012-3165(EI), 2012-3166(CPP), 2012-3170(EI), 2012-3171(CPP), 2012-3173(EI) et 2012-3174(CPP)
+les 18 et 19 avril 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), à l’égard des décisions rendues par le ministre du Revenu national relativement aux appels dont il avait été saisi en application de l’article 91 de la Loi et de l’article 27 du Régime, sont accueillis, sans frais, compte tenu du fait que le travailleur, Andrew Schuhmann, n’occupait pas un emploi assurable ou ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime pendant la période allant du 1er janvier 2010 au 31 décembre 2010.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+Dossiers : 2012-3170(EI)
+2012-3171(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+3142774 Nova Scotia Limited, 2011-2090(EI), 2011-2094(CPP),
+2012-3162(EI), 2012-3164(CPP), 2012-3165(EI), 2012-3166(CPP), 2012-3167(EI), 2012-3169(CPP), 2012-3173(EI) et 2012-3174(CPP)
+les 18 et 19 avril 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), à l’égard des décisions rendues par le ministre du Revenu national relativement aux appels dont il avait été saisi en application de l’article 91 de la Loi et de l’article 27 du Régime, sont accueillis, sans frais, compte tenu du fait que la travailleuse, Karen Bellefeuille, n’occupait pas un emploi assurable ou ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime pendant la période allant du 1er janvier 2009 au 31 décembre 2010
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+Dossiers : 2011-3173(EI)
+2011-3174(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+3142774 Nova Scotia Limited, 2011-2090(EI), 2011-2094(CPP),
+2012-3162(EI), 2012-3164(CPP), 2012-3165(EI), 2012-3166(CPP), 2012‑3167(EI), 2012-3169(CPP), 2012-3170(EI) et 2012-3171(CPP)
+les 18 et 19 avril 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge F. J. Pizzitelli
+Comparutions :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi (la « Loi ») et de l’article 28 du Régime de pensions du Canada (le « Régime »), à l’égard des décisions rendues par le ministre du Revenu national relativement aux appels dont il avait été saisi en application de l’article 91 de la Loi et de l’article 27 du Régime, sont accueillis, sans frais, compte tenu du fait que le travailleur, Jerzy Wesecki, n’occupait pas un emploi assurable ou ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi et de l’alinéa 6(1)a) du Régime pendant la période allant du 1er janvier 2010 au 31 décembre 2010.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+Référence : 2013 CCI 129
+Date : 20130426
+Dossiers : 2011-2090(EI), 2011-2094(CPP),
+2012-3162(EI), 2012-3164(CPP),
+2012-3165(EI), 2012-3166(CPP),
+2012-3167(EI), 2012-3169(CPP),
+2012-3170(EI), 2012-3171(CPP),
+2012-3173(EI), 2012-3174(CPP)
+ENTRE :
+3142774 NOVA SCOTIA LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Pizzitelli
+[1] Il s’agit d’appels interjetés à l’égard des décisions rendues par le ministre du Revenu national (le « ministre ») selon lesquelles il a été établi que six travailleurs occupaient des emplois assurables et ouvrant droit à pension auprès de l’appelante, 3142774 Nova Scotia Limited, pendant différentes périodes au cours des années civiles 2009 et 2010. Pour la travailleuse Karen Bellefeuille, la période en cause va du 1er janvier 2009 au décembre 2010, et, pour le travailleur John Gulbrandson, la période en cause va du 1er décembre 2009 au 31 décembre 2010. Pour les travailleurs Stephanie Sachetti, Andrew Schuhmann et Jerzy Wesecki, la période en cause va du 1er janvier 2010 au 31 décembre 2010, et, pour la travailleuse Shawna Bobyk, la période en cause va du 1er septembre 2009 au 29 septembre 2010.
+[2] Ces appels ont été entendus ensemble, sur preuve commune, sauf en ce qui concerne les éléments de preuve propres au cas particulier de chaque travailleur.
+[3] Les seules questions à trancher en l’espèce ont trait à la question de savoir si, pendant les périodes en cause susmentionnées, les travailleurs occupaient un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi et un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada. Pour résumer, il s’agit d’établir si chacun des travailleurs était régi par un contrat de louage de services, et donc s’il était un employé de l’appelante, ou par un contrat d’entreprise, et donc s’il était un entrepreneur indépendant, pendant la période en cause.
+[4] L’appelante était une société de la Nouvelle-Écosse qui avait été constituée en société en 2006. Elle fournissait principalement des services de nettoyage et d’entretien à de petites et moyennes entreprises ainsi qu’à des clients industriels sous le nom commercial de Custom Building Maintenance, et ce, dans toute la Nouvelle‑Écosse. Le siège social de l’appelante se trouvait à New Bedford, et, pendant les périodes en cause, l’appelante employait du personnel à temps plein et avait également recours aux services d’entrepreneurs indépendants; certaines de ces relations sont manifestement en cause en l’espèce.
+[5] Les travailleurs fournissaient leurs services à différents endroits en Nouvelle‑Écosse, chez les clients de l’appelante, et chaque travailleur pouvait s’occuper de jusqu’à trois lieux de travail différents. Les travailleurs effectuaient des tâches générales de nettoyage, comme laver les planchers ou passer l’aspirateur, épousseter, sortir les poubelles, nettoyer les salles de bain et nettoyer les douches, s’il y avait lieu.
+[6] Dans tous les cas, les parties s’accordent à dire que les travailleurs se servaient de leur propre véhicule pour se rendre de leur domicile au lieu de travail et en revenir et qu’ils n’étaient pas indemnisés pour leurs frais de déplacement. Toutefois, dans tous les cas, il est clair que l’appelante fournissait l’essentiel des outils et de l’équipement dont le travailleur avait besoin pour exécuter ses tâches, comme les vadrouilles, les balais, les aspirateurs et les fournitures générales, y compris les produits de nettoyage chimiques, les gants, les chiffons, les serviettes et le papier hygiénique. Un des travailleurs a toutefois déclaré que les clients de l’appelante fournissaient leurs propres sacs‑poubelle et papiers hygiéniques. Aucun travailleur n’avait d’assurance de responsabilité civile pour se protéger en cas de dommage que lui ou tout assistant dont il serait susceptible de retenir les services pourrait causer.
+[7] Dans tous les cas, les travailleurs exécutaient leurs tâches chez le client, dans la plupart des cas pendant les heures de fermeture du client en question. Chaque travailleur se voyait assigner une période de temps certains jours précis pendant laquelle il devait exécuter ses tâches, et en fonction de l’entente conclue entre l’appelante et ses clients, le travailleur disposait d’un certain délai pour s’acquitter de ces tâches; il pouvait s’agir d’un matin de certains jours de semaine précis pour Mme Bellefeuille ou encore de la période comprise entre la fermeture des bureaux le vendredi et leur réouverture le lundi suivant pour M. Schuhmann. Le fait que le travailleur s’acquittait de ses tâches dans un délai plus court ou plus long que les heures prévues pour chaque client n’avait aucune incidence sur le montant de la rémunération qui lui était versée, lequel montant était fixe pour chaque endroit où le ménage était fait.
+[8] Pendant la période en cause, certains travailleurs avaient des emplois à temps plein et fournissaient clairement leurs services pour gagner un revenu supplémentaire et d’autres étaient sans emploi, mais il était loisible à tous les travailleurs de refuser tout contrat de nettoyage que l’appelante leur offrait et de travailler pour le compte de tiers à leur gré; il était clair qu’aucun travailleur n’avait à donner l’exclusivité de ses services à l’appelante. Les travailleurs ont fourni leurs services respectifs à l’appelante pendant des périodes comprises entre quatre à six semaines pour Mme Sachetti et M. Wesecki, et un an pour M. Schuhmann et Mme Bobyk, les autres travailleurs ayant fourni leurs services à l’appelante pendant des périodes d’une durée intermédiaire.
+[9] Chacun des travailleurs recevait une rémunération mensuelle fixe, qui lui était versée toutes les deux semaines, pour tous les endroits où le ménage avait été fait, et, pendant la période en cause, l’appelante n’a effectué aucune retenue à la source, n’a accordé aucun congé payé et n’a payé aucune prestation médicale, de retraite ou autre prestation aux travailleurs ou pour leur compte. Les travailleurs n’ont présenté aucune facture à l’appelante, pas plus qu’ils ne lui ont facturé la taxe sur les produits et services (la « TPS »); la preuve montre qu’aucun travailleur n’était inscrit aux fins de la TPS/TVH et que le revenu qu’ils tiraient de leurs activités n’excédait pas 30 000 $, seuil au‑delà duquel ils devraient être inscrits, comme l’exige la Loi sur la taxe d’accise.
+[10] Tous les travailleurs ont déclaré que, quand ils se rendaient pour la première fois chez un client, un représentant de l’appelante les accompagnait pour leur dire ce qui devait être fait, où les produits chimiques et l’équipement étaient rangés et quels produits chimiques utiliser, par exemple sur les sols ou dans les douches, ainsi que pour leur suggérer une façon d’exécuter les tâches requises, à moins que ces tâches aient été si évidentes qu’aucune instruction n’était nécessaire, comme en ce qui concerne la façon de balayer, de passer la vadrouille ou de nettoyer en général. Il ressort clairement de la preuve qu’en dehors de l’examen des plaintes ou des commentaires des clients ou encore des inspections générales mensuelles, le travail accompli par les travailleurs chez les clients ne faisait pas l’objet de davantage de supervision; les travailleurs exécutaient généralement leurs tâches seuls, bien que certains d’entre eux aient fait mention d’un superviseur. La preuve montre aussi clairement que l’exécution de ces tâches ne nécessitait que peu d’habiletés.
+[11] Dans le cas où des lacunes étaient constatées dans l’exécution des tâches, l’appelante demandait au travailleur concerné de remédier au problème s’il avait oublié d’exécuter certaines tâches, comme dans le cas de Mme Sachetti, ou leur donnait de la rétroaction relative aux plaintes des clients de manière à ce qu’ils puissent corriger le problème la fois suivante. En dehors des oublis ou des lacunes signalées dans les plaintes que les clients formulaient à l’égard du ménage effectué, oublis ou lacunes à corriger à l’avenir, le seul exemple précis de lacune au chapitre du nettoyage a été donné par Mme Bobyk, qui a déclaré qu’on lui avait dit de commencer à utiliser un nettoyant chimique différent sur le coulis de ciment non scellé des douches du centre de conditionnement physique dont elle faisait le ménage pour remédier à ce qui était en fait un défaut de construction des lieux, lequel a été découvert par suite de l’enquête menée par l’appelante.
+[12] Le seul témoignage relatif à la responsabilité incombant au travailleur pour tout dommage causé chez le client concernait Mme Bobyk, à qui on a demandé de rembourser le coût de clés qu’elle avait jetées de son propre aveu, obligeant ainsi l’appelante à changer les serrures pour le compte de son client. D’autres travailleurs ont déclaré qu’ils pensaient que l’appelante serait responsable de tout dommage causé chez le client, mais ils ont tous convenu qu’aucun dommage n’avait été causé et ils n’avaient donc aucun exemple à donner pour illustrer le fait que l’appelante avait convenu de porter une telle responsabilité. L’appelante a déclaré que cette responsabilité dépendrait du dommage causé et de la personne qui l’avait causé.
+[13] Les principaux points de discorde entre les parties, au sujet desquels la preuve est contradictoire, concernent les modalités de paiement, le niveau de contrôle et de supervision ainsi que les chances de profit et les risques de perte, facteurs sur lesquels je me pencherai quand j’examinerai la preuve au regard du droit applicable
+Le droit applicable
+[14] La Cour suprême du Canada a étudié le critère judiciaire permettant de trancher la question de savoir si quelqu’un accomplit un travail aux termes d’un contrat de louage de services, et est donc un employé, ou d’un contrat d’entreprise, et est donc un entrepreneur indépendant, dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 4 C.T.C. 139 (C.S.C.), dans lequel, au paragraphe 47, le juge Major a clairement établi qu’il n’existait pas de critère universel et a ajouté ce qui suit :
+[47] […] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. […]
+[15] Quand elle a tranché cette question, la Cour suprême du Canada a souscrit à l’approche adoptée par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. Minister of National Revenue, 86 DTC 553 (C.A.F), dans lequel il devait être tenu compte de certains facteurs, dont le degré de contrôle que l’employeur exerce sur les activités du travailleur, la question de savoir si le travailleur fournit son propre outillage, celle de savoir s’il engage lui‑même ses assistants, l’étendue de ses risques financiers, son niveau de responsabilité à l’égard des mises de fonds et de la gestion ainsi que la possibilité de tirer profit de l’exécution de ses tâches. La Cour suprême du Canada a cependant souligné le fait que ces facteurs n’étaient pas exhaustifs et qu’il n’y avait pas de manière préétablie de les appliquer.
+[16] Comme il a été énoncé dans l’arrêt Royal Winnipeg Ballet c. Canada (Ministre du Revenu national – M.R.N.), 2006 CAF 87, 2006 DTC 6323 (C.A.F.), la Cour d’appel fédérale a confirmé qu’il fallait prendre en compte l’intention des parties, et elle a souscrit aux conclusions des arrêts Sagaz et Wiebe Door, précités, selon lesquels l’étiquette apposée par les parties à la relation n’était pas concluante. Au paragraphe 56 de l’arrêt Royal Winnipeg Ballet, la juge Sharlow s’est exprimée en ces termes :
+[56] […] Il existe de nombreuses décisions qui énoncent que les parties à un contrat ne peuvent en modifier la nature juridique simplement en le qualifiant d’autre chose. […]
+[17] Par conséquent, les parties conviennent du fait qu’il est nécessaire de procéder à une analyse objective des critères énoncés dans l’arrêt Wiebe Door, généralement connus sous le nom de critère à quatre volets, avant de procéder, s’il y a lieu, à l’examen de l’intention subjective des parties, comme les tribunaux l’ont confirmé à maintes reprises, notamment dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Ministre du Revenu national – M.R.N.), 2013 CAF 85, [2013] A.C.F. no 327 (QL), dans lequel il a été énoncé, au paragraphe 37, que l’intention des parties « doit aussi se fonder sur une réalité objective vérifiable ».
+[18] En l’espèce, l’intimé convient du fait que l’intention subjective des travailleurs, exception faite de Shawna Bobyk et peut-être de Karen Bellefeuille, telle qu’elle ressort des ententes écrites de sous-traitance, était de travailler comme entrepreneurs indépendants, mais, en se fondant sur la jurisprudence susmentionnée, il soutient que les facteurs énoncés dans l’arrêt Wiebe Door démontrent que tous les travailleurs avaient une relation employeur-employé avec l’appelante. L’appelante est de toute évidence en désaccord; je procéderai donc à une analyse des facteurs énoncés dans l’arrêt Wiebe Door.
+Analyse
+Le contrôle
+[19] Le point de discorde le plus important entre les parties a trait à ce très important facteur. L’intimé soutient essentiellement que l’appelante contrôlait les travailleurs parce qu’elle décidait du nombre d’heures dont les travailleurs avaient besoin pour s’acquitter de leurs tâches, parce que les travailleurs devaient se conformer aux politiques d’entreprise de l’appelante, parce que l’appelante décidait du nombre de lieux à nettoyer qui était attribué à chaque travailleur et parce que l’appelante exerçait, ou avait la possibilité d’exercer, un certain niveau de surveillance sur les travailleurs au moyen de formations, d’évaluations et de visites sur le terrain allant au‑delà d’une simple surveillance.
+[20] Avec tous les égards qui lui sont dus, je ne trouve pas que la preuve appuie la position de l’intimé en l’espèce. Je trouve plutôt que la preuve appuie solidement la position de l’appelante, soit le fait que le niveau de supervision exercé par celle‑ci se limite à une fonction de surveillance, ce qui ne donne pas à penser qu’on est en présence d’une relation employeur-employé.
+[21] La preuve montre clairement qu’aucun travailleur n’avait un horaire de travail fixe. Au lieu de cela, comme il a été expliqué plus tôt, c’est dans le contrat que l’appelante concluait avec ses clients qu’étaient établis le jour ou les jours où le ménage serait fait ou l’ensemble des périodes au cours desquelles le ménage pourrait être fait. La plupart des travailleurs devaient se rendre directement chez le client après l’heure de fermeture et exécuter leurs tâches avant la réouverture, soit pendant toute la fin de semaine dans de nombreux cas. En fait, c’est le client qui décidait de la période au cours de laquelle il lui convenait que les services soient exécutés. Pendant la période allouée à cette fin, les travailleurs pouvaient effectuer les tâches au moment qui leur convenait. Les travailleurs ne pointaient pas, et ils n’informaient pas non plus l’appelante du moment où ils commençaient ou finissaient de travailler de quelque manière que ce soit. Ils disposaient d’une grande marge de manœuvre pour établir les heures précises auxquelles ils souhaitaient fournir leurs services et ils étaient en possession des clés leur permettant d’entrer sur les lieux de travail dans ce but. Cela donne à penser qu’on est en présence d’une relation d’entrepreneur indépendant.
+[22] La preuve montre également que l’appelante fixait le nombre de contrats de ménage que tout travailleur pouvait obtenir à un maximum de trois, et ce, afin de limiter les répercussions si un travailleur ne se présentait pas ou mettait fin à son entente. Il s’agit selon moi d’une décision d’affaires raisonnable de l’appelante. Étant donné que le témoignage des travailleurs a pleinement corroboré le fait qu’ils étaient toujours libres de refuser les contrats de ménage que l’appelante leur proposait ainsi que de fournir leurs services à des tiers, et donc qu’ils n’avaient pas à travailler exclusivement pour l’appelante, je ne vois dans la politique de l’appelante relative au nombre maximal de contrats attribués aux travailleurs aucune restriction déraisonnable imposée aux travailleurs qui serait équivalente à une forme de contrôle exercé par l’appelante sur ce plan.
+[23] Je ne peux pas souscrire à l’argument de l’intimé selon lequel les contrats écrits et le témoignage du représentant de l’appelante confirment que les politiques d’entreprise de l’appelante font partie intégrante des contrats conclus avec les travailleurs et que cet élément, en soi, traduit l’existence d’une relation employeur-employé. Premièrement, aucun document relatif aux politiques de l’appelante n’a été présenté en preuve pour me permettre d’apprécier la position de l’intimé à cet égard. En fait, le seul élément de preuve relatif aux politiques d’entreprise dont je dispose vient du témoignage des travailleurs, les seuls témoins de l’intimé, qui ont tous affirmé qu’ils ne se rappelaient pas qu’ils avaient reçu copie d’un tel document, ou s’ils s’en rappelaient, que ce document relevait des politiques applicables en cas de problème. M. Gulbrandson a déclaré qu’il n’avait pas reçu copie des politiques, mais qu’il se rappelait qu’on lui avait parlé de ce qui se passerait s’il [traduction] « commettait une erreur », de son obligation de refaire le ménage et de prendre soin des outils ainsi que du fait qu’on lui imposerait des frais si l’appelante devait faire appel à quelqu’un d’autre pour refaire le ménage ou le remplacer. M. Schuhmann pensait qu’il se pouvait qu’il ait vu le document chez un des clients, mais ses souvenirs étaient vagues sur ce point. En ce qui a trait à cette question, le seul élément de preuve semble montrer que le travailleur était responsable de l’exécution de ses tâches ou qu’aucun document relatif aux politiques de l’appelante n’a été communiqué aux travailleurs en premier lieu.
+[24] En ce qui a trait à l’argument de l’intimé selon lequel la Cour devrait tirer des conclusions défavorables du fait que l’appelante n’avait pas produit de document relatif à ses politiques d’entreprise, l’intimé n’a pas démontré que cela était même nécessaire, et je ne vois pas pourquoi l’intimé n’aurait pas pu présenter en preuve un tel document s’il s’agissait du document sur lequel il se fondait. Je ne suis pas prêt à tirer de conclusions défavorables dans un sens ou dans l’autre dans les circonstances; notamment vu que les témoins de l’intimé ont témoigné au sujet de la compréhension qu’ils avaient de ces documents.
+[25] L’argument principal de l’intimé est que l’appelante exerçait un degré de supervision sur les travailleurs, lequel établissait l’existence d’un contrôle non seulement sur l’attribution des tâches aux travailleurs, mais aussi sur la façon dont ils devaient exécuter ces tâches, comme en témoigne la formation qui leur était dispensée, les évaluations et les visites de supervision sur le terrain.
+[26] Au paragraphe 18 de l’arrêt City Water International Inc. c. Canada (Ministre du Revenu national – M.R.N.), 2006 CAF 350, [2006] A.C.F. no 1653 (QL), la Cour d’appel fédérale, en renvoyant à une de ses décisions, rendue par le juge Létourneau dans l’arrêt Le Livreur Plus Inc. c. Canada (Ministre du Renvenu national), 2004 FCA 68, [2004] A.C.F. no 267 (QL), a confirmé ce qui suit : « […] il ne faut pas […] confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l’ouvrier chargé de les réaliser » et « Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur. »
+[27] Ce principe de droit ne fait l’objet d’aucune contestation, mais l’intimé soutient que le contrôle exercé par l’appelante sur les travailleurs va au‑delà de la simple surveillance. Bien honnêtement, je ne peux pas souscrire à l’opinion de l’intimé pour plusieurs raisons.
+[28] En premier lieu, les travailleurs s’accordaient pour dire que la « formation » qu’ils recevaient se traduisait simplement par le fait que l’appelante envoyait un représentant pour travailler avec eux la première fois ou les deux premières fois qu’ils se rendaient chez un nouveau client, de manière à s’assurer qu’ils comprenaient l’étendue du travail et qu’ils savaient où se trouvait le placard dans lequel était rangé l’équipement et quels produits chimiques utiliser pour différentes tâches. Il n’y a aucune preuve du fait que les travailleurs faisaient l’objet, sur une base quotidienne, d’une supervision constante allant au‑delà de la procédure de familiarisation de départ et du suivi effectué par suite de la réception de plaintes. Il convient également de souligner que les travailleurs eux-mêmes ont déclaré que le degré de compétence requis pour exécuter leurs tâches était minimal. En fait, M. Wesecki a affirmé que son épouse l’aidait parfois pour le nettoyage et qu’elle était visiblement capable de l’aider en dépit du fait qu’elle n’avait manifestement reçu aucune formation ou initiation de la part de l’appelante. M. Gulbrandson a déclaré que sa belle‑mère l’aidait à l’occasion sans être payée et qu’elle faisait mieux le ménage que lui, en dépit du fait qu’elle n’avait manifestement reçu aucune formation de départ ni initiation.
+[29] En deuxième lieu, bien que tout le monde s’accorde à dire que les modalités des contrats conclus entre l’appelante et ses clients font partie de l’entente de sous‑traitance conclue avec les quatre travailleurs, entente que ces derniers ont reconnu avoir signée, et que ces contrats avec les clients prouvent que le gestionnaire des services de l’appelante procédait à des évaluations mensuelles ou hebdomadaires des travailleurs sur le lieu de travail, qu’un superviseur travaillant après les heures normales de travail collaborait avec le gestionnaire des services à la clientèle afin de s’assurer que les travailleurs restaient sur la bonne voie et qu’on leur communiquait les mesures correctrices nécessaires, ou qu’un contact étroit serait maintenu avec la direction au sujet de l’ensemble du travail accompli, toutes ces modalités ne constituent pas une preuve conclusive de l’existence d’un contrôle. Les contrats conclus avec les clients ont trait au niveau de service et de contrôle de la qualité auxquels le client peut s’attendre, et, en les incluant dans les modalités des contrats écrits susmentionnés, à tout le moins, c’était ce qui était attendu des travailleurs. La preuve montre que les travailleurs ne faisaient pas l’objet d’une supervision quotidienne et que, si les clients se plaignaient à l’appelante, que ce soit directement ou au moyen des notes dans le classeur qui était laissé sur chaque lieu de travail pour examen par le représentant du service à la clientèle de l’appelante, cette dernière se rendait habituellement sur place et suggérait au travailleur de procéder à des changements afin d’apporter des solutions en réponse à la plainte, ce que certains travailleurs ont qualifié de recyclage. Selon moi, il ne s’agit de rien de plus que d’une mesure de contrôle de la qualité mise en œuvre au besoin.
+[30] En troisième et dernier lieu, l’intimé prétend également que le système de notation utilisé par l’appelante, selon lequel le client note la performance du travailleur au moyen d’une échelle allant de un à cinq, traduit le fait que l’appelante procédait à une évaluation des employés. Le client pouvait consigner son évaluation dans le classeur pour que le représentant des services à la clientèle en prenne connaissance, ou encore pouvait vraisemblablement la communiquer directement à l’appelante. Selon moi, il ne s’agit de rien de plus que de commentaires de clients, ce qui est une forme de surveillance. Au paragraphe 10 de la décision Bonnie Jean Watson, une entreprise individuelle exploitée s/n Bonnie’s Cleaning Services c. Canada (Ministre du Revenu national – M.R.N.), 2005 CCI 134, [2005] A.C.I. no 77 (QL), la juge Sheridan s’est exprimée en ces termes :
+[10] […] on devait s’attendre à ce que Mme Watson « surveille » le rendement d’un travailleur au moyen des commentaires des clients. Au lieu d’être un indice de « contrôle » ou de « supervision », cela indiquait une bonne administration qui assurait le succès de Bonnie’s Cleaning. […]
+[31] La preuve montre clairement que le représentant de l’appelante faisait un bilan avec les travailleurs toutes les semaines ou toutes les deux semaines, qu’il se fiait par ailleurs aux commentaires des clients pour le contrôle de la qualité et qu’il formulait des directives en vue de rectifier une éventuelle lacune. Je ne vois pas comment cela pourrait être assimilé à un degré de supervision qui établirait que l’appelante exerçait un contrôle relativement à la manière dont les travailleurs fournissaient leurs services; particulièrement quand il n’est question que d’un faible niveau de compétence, voire d’aucune compétence.
+[32] Compte tenu de l’ensemble de la preuve, je ne peux tout simplement pas conclure que l’appelante exerçait un contrôle sur les travailleurs, relativement à la manière dont ceux‑ci fournissaient leurs services, qui serait révélateur de l’existence d’une relation employeur-employé. Je suis d’avis que le facteur de contrôle donne à entendre qu’on est en présence d’une relation d’entrepreneur indépendant.
+Les outils
+[33] Comme il a été énoncé plus tôt, les parties s’accordent à dire que l’appelante fournissait aux travailleurs tous les outils nécessaires à l’exécution de leurs tâches, y compris les balais, les vadrouilles, les chiffons, les nettoyants chimiques et un aspirateur. À première vue, il semblerait que ce facteur appuie la conclusion selon laquelle on est en présence d’une relation employeur-employé. Toutefois, l’appelante a affirmé qu’elle fournissait ces outils parce qu’elle pouvait se prévaloir de son pouvoir d’achat pour obtenir ces articles à un prix moindre et aussi parce qu’il lui était nécessaire de fournir les produits de nettoyage chimique pour assurer le respect du Système d’information sur les matières dangereuses utilisées au travail tant par elle que par ses clients, ce qui est une explication tout à la fois crédible et sensée d’un point de vue commercial.
+[34] Il convient de noter que chaque travailleur devait fournir son propre transport pour se rendre sur les lieux de travail et qu’on ne lui remboursait ni l’essence ni quelque frais de déplacement que ce soit. Cet élément appuie la conclusion selon laquelle on est en présence d’une relation d’entrepreneur indépendant, comme il a été conclu dans l’arrêt City Water International Inc., dans lequel la Cour d’appel fédérale a conclu que les travailleurs devaient fournir leurs propres bicyclettes ou véhicules pour se rendre chez les clients. Mme Sachetti a déclaré qu’il lui arrivait parfois de se faire accompagner dans une voiture de la société pour aider sa sœur, qui travaillait également pour l’appelante, mais que, pour ce qui était de ses propres services et des lieux de travail dont elle était responsable, elle fournissait son propre transport. Il n’y avait aucune preuve du fait que l’appelante payait Mme Sachetti pour aider sa sœur, et la preuve donne à entendre que les services en question étaient fournis à la sœur de Mme Sachetti, et non à l’appelante, de telle sorte que cet élément de preuve n’est d’aucune utilité en l’espèce.
+[35] Je voudrais également formuler des commentaires au sujet de l’argument de l’intimé selon lequel le fait pour les travailleurs de fournir leur propre transport pour se rendre au travail n’est pas différent de ce que fait un employé pour se rendre au travail tous les jours, et donc qu’il ne s’agit pas d’un facteur à prendre en considération. Avec tous les égards qui sont dus à l’intimé, la plupart des employés se rendent au même lieu de travail chaque jour, et on ne leur demande généralement pas, pas plus qu’ils n’en ont la possibilité, de travailler à différents endroits sans être remboursés pour les déplacements requis par l’employeur ou sans que l’employeur leur fournisse un moyen de transport. En l’espèce, les travailleurs ne bénéficiaient d’aucune assistance pour leurs déplacements, peu importe qu’ils aient à se rendre à un ou plusieurs lieux de travail, et la preuve montre clairement que les travailleurs ne se rendaient chez l’appelante que pour une entrevue initiale préalable à leur embauche ou pour aller chercher leurs chèques de paie.
+[36] Au paragraphe 13 de la décision Bonnie Jean Watson, une entreprise individuelle exploitée s/n Bonnie’s Cleaning Services, la juge Sheridan, qui examinait le cas d’une entreprise similaire à l’égard de laquelle il avait été conclu que les travailleurs se rendaient par eux‑mêmes sur les lieux de travail et qu’on leur fournissait la majorité des outils, s’est ainsi exprimée :
+[13] […] Quant au matériel de nettoyage, il était raisonnable que Bonnie’s Cleaning fournisse le principal matériel nécessaire étant donné les obligations contractuelles que Bonnie’s Cleaning avait envers ses clients sur les chantiers de construction, le fait qu’il était difficile d’imposer des exigences précises quant au matériel à des personnes travaillant à leur propre compte pour d’autres clients ainsi que pour les clients de Bonnie’s Cleaning et les préoccupations que Mme Watson avait lorsqu’il s’agissait de respecter les normes d’hygiène dans la prestation de services de nettoyage. Eu égard à ces circonstances particulières, je suis d’avis, en ce qui concerne la question de la propriété des instruments de travail, que ce critère milite en faveur de la position prise par Mme Watson.
+[37] En l’espèce, vu les diverses exigences en matière de nettoyage de différents clients, allant de petits bureaux à des centres de conditionnement physique, la nécessité pour l’appelante de respecter ses exigences relatives à la surveillance des matières dangereuses, le système d’inventaire de l’appelante qui était tel que celle-ci laissait de l’équipement de nettoyage et des outils sur chaque lieu de travail et les renouvelait régulièrement, et vu, au départ, les exigences minimales concernant les outils, il semble plus que sensé d’affirmer que le fait pour l’appelante de fournir les outils peut être aisément considéré comme jouant en sa faveur, bien que je ne qualifie pas ce facteur de déterminant dans les circonstances.
+Les chances de profit et les risques de perte
+[38] L’intimé prend le parti de dire que, dans les faits, les travailleurs recevaient un salaire horaire et qu’ils ne négociaient pas le montant de leur revenu, qu’ils devaient exécuter leur travail en personne, que seule l’appelante pouvait les remplacer, qu’ils n’assumaient aucune responsabilité en matière d’investissement ou de gestion et que, par conséquent, le facteur des chances de profit et des risques de perte appuie la conclusion selon laquelle les travailleurs étaient des employés. Par ailleurs, l’appelante soutient que la rémunération des travailleurs était fixée indépendamment du nombre d’heures travaillées, que les travailleurs avaient le droit d’engager des assistants et des remplaçants, qu’ils avaient le choix d’accepter ou non du travail et qu’il fournissaient leur propre véhicule et étaient responsables de leurs propres frais de déplacement.
+[39] En toute franchise, en l’espèce, je souscris davantage à la position de l’appelante, et je conclus que le facteur des chances de profit et des risques de perte appuie également la conclusion selon laquelle les travailleurs étaient des entrepreneurs indépendants, et ce, pour plusieurs raisons.
+[40] Les travailleurs se sont tous accordés à dire que leur rémunération était un montant fixe établi par contrat et qu’elle leur était versée deux fois par mois. Quoique Mme Sachetti ait laissé entendre qu’elle était payée 10 $ l’heure, il ressort clairement de son témoignage qu’elle recevait le même montant, peu importe si elle terminait ses tâches dans les délais prévus ou non. M. Wesnecki a également déclaré que les jours où sa femme l’aidait à exécuter son contrat, il ne lui fallait qu’une demi‑heure, et non plus trois heures, pour exécuter ses tâches, ce qui représentait un gain de temps significatif.
+[41] La preuve montre que chaque travailleur pouvait refuser n’importe quel contrat, comme c’est arrivé quand un client a déménagé dans un endroit éloigné et que le travailleur a décidé de ne plus lui fournir ses services en raison du temps de déplacement et des frais supplémentaires afférents. En outre, chaque travailleur pouvait refuser tout nouveau contrat qui lui était offert. La preuve montre également que, si le client mettait fin à son entente avec l’appelante, le contrat conclu avec le travailleur qui fournissait ses services à ce client, qu’il ait été passé verbalement ou par écrit, prenait également fin, et le travailleur se retrouvait dans une certaine incertitude quant à la question de savoir s’il continuerait d’être payé. Ces faits sont en accord avec le contrôle qu’un entrepreneur indépendant a sur le travail qu’il est prêt à effectuer ainsi que sur sa rémunération, et par conséquent, sur le profit qu’il peut tirer de tout travail qu’il entreprend. En général, les travailleurs ont aussi déclaré qu’ils étaient libres de travailler pour des tierces parties, et ils pouvaient donc augmenter leur profit non seulement en acceptant plus de travail, que ce soit jusqu’à trois contrats de la part de l’appelante ou des contrats de tiers, mais en faisant appel à des assistants s’ils le souhaitaient. Au paragraphe 14 de la décision Bonnie Jean Watson, une entreprise individuelle exploitée s/n Bonnie’s Cleaning Services, après avoir discuté de faits similaires aux faits exposés ci‑dessus, la juge Sheridan l’a confirmé dans les termes suivants :
+[14] […] Rien de tout cela n’est compatible avec une relation employeur‑employé, dans le cadre de laquelle un employé diligent peut compter sur la réception d’un montant fixe s’il accomplit ses tâches pendant les heures de travail qui lui sont assignées par l’employeur. Cette incertitude nous amène plutôt à conclure […] à titre d’entrepreneur indépendant.
+[42] L’intimé a laissé entendre qu’étant donné que les travailleurs ne faisaient appel qu’à des membres de leur famille comme assistants et qu’ils ne les payaient pas, il ne fallait accorder que peu de poids au fait que les travailleurs avaient le droit d’engager des assistants, et il s’est appuyé sur les conclusions tirées par le juge Bédard dans la décision Priority One Janitorial Services Inc. c. La Reine, 2012 CCI 1, 2012 CarswellNat 122. Dans cette décision, le juge Bédard a conclu que la seule preuve du recours à des assistants concernait un des travailleurs, qui faisait appel à sa femme. En l’espèce, au moins deux des travailleurs faisaient appel à des membres de leur famille, soit une épouse pour l’un et une belle‑mère pour l’autre, et tous les travailleurs se sont accordés à dire qu’ils étaient autorisés à faire appel à des assistants, et par conséquent, l’affaire qui nous occupe se distingue de la décision Priority One. Si une personne a la possibilité d’embaucher des assistants, il m’apparaît dès lors clairement que cette personne a la possibilité d’augmenter son profit ou de réduire ses pertes, comme le juge Weisman l’a conclu au paragraphe 54 de la décision Mediclean Inc c. M.R.N, 2009 CCI 340, [2009] A.C.I. no 288 (QL), dans laquelle il s’est exprimé en ces termes : « lorsqu’une personne a le droit d’engager un assistant ou un remplaçant, cela donne automatiquement lieu à une possibilité de profit et, à vrai dire, à un risque de perte ».
+[43] Les parties ne s’entendent pas sur la question de savoir si les travailleurs pouvaient engager des remplaçants. Un des travailleurs a déclaré qu’ils pouvaient engager des remplaçants, bien que, en général, la plupart des travailleurs aient déclaré qu’ils se contentaient tout au plus de faire appel à des membres de leur famille ou qu’ils n’engageaient pas de remplaçants parce que, dans le cas où ils étaient incapables de faire leur travail, ils devaient en aviser l’appelante, qui fournissait alors un remplaçant. Même s’il se peut que la plupart des travailleurs aient eu à suivre la procédure consistant à prévenir l’appelante, qui fournissait alors un remplaçant, il est clair qu’en pareil cas, le travailleur se voyait facturer selon un taux horaire, comme il en avait été convenu dans le contrat écrit ou dans l’entente verbale relative à un tel remplacement; cette somme était déduite de la paie suivante du travailleur. En pareil cas, il importe peu de savoir s’il revenait au travailleur d’engager un remplaçant ou s’il était seulement responsable d’en payer un. Le risque incombait au travailleur, et un tel risque donne automatiquement lieu à une possibilité de profit ou à un risque de perte, comme le juge Weisman y a fait allusion dans la décision Mediclean, précitée.
+[44] L’intimé a également prétendu que, vu que les travailleurs se voyaient donner des clés et qu’ils ont déclaré qu’ils n’étaient pas autorisés à remettre ces clés à des tiers, ils ne pouvaient pas, dans les faits, engager des remplaçants. L’intimé a cité à comparaître la représentante d’un client, qui a déclaré qu’elle s’attendait seulement, aux termes du contrat passé avec l’appelante, à ce que tout remplaçant soit un employé garanti par l’appelante. Bien franchement, ce témoignage vient solidifier les témoignages des travailleurs, selon lesquels ils devaient prévenir l’appelante s’ils ne pouvaient pas se rendre au travail afin que celle‑ci envoie un remplaçant, et je l’accepte comme constituant un témoignage crédible relativement à l’embauche de remplaçants. Toutefois, comme je l’ai déclaré ci‑dessus, le fait qu’il se peut que les protocoles de sécurité des clients interdisent à un travailleur de transmettre les clés à un remplaçant ne dégage pas le travailleur en question de la responsabilité financière consistant à payer à l’appelante les frais générés par l’embauche d’un remplaçant, de telle sorte que c’est toujours au travailleur d’assumer le risque de perte.
+[45] L’intimé a également laissé entendre que la plupart du temps, après que les clients ont formulé une plainte, l’appelante menait une enquête et suggérait la prise de mesures correctives; ainsi le manquement était corrigé quand le travailleur se rendait de nouveau sur le lieu de travail, et le travailleur n’assumait donc aucun risque de perte en cas de travail insatisfaisant. Bien honnêtement, vu que le travailleur recevait la même rémunération, peu importe le temps que cela lui prenait pour terminer un travail, il me semble que, si un travailleur devait apporter quelque correction que ce soit à son travail la fois suivante, il s’ensuivait qu’il perdait un peu de sa capacité à terminer ses tâches plus rapidement ou qu’il prenait plus de temps pour terminer ce travail, et il assumait donc toujours un certain risque. Il y a des éléments de preuve montrant que, dans un cas où le travail n’avait pas été effectué, Mme Sachetti avait dû retourner chez le client pour corriger le problème. Par conséquent, il me semble que, quand le problème est plus sérieux, l’option consistant à simplement régler le problème la fois suivante ou à faire mieux après avoir suivi une formation n’était pas offerte.
+[46] Pour finir, en ce qui a trait à ce facteur, l’intimé a laissé entendre que, vu que l’appelante fournissait tous les outils et l’équipement sans frais pour les travailleurs, ces derniers n’avaient aucune responsabilité à assumer en matière d’investissement ou de gestion dans la conduite de leur travail. Comme je l’ai dit plus tôt, le travailleur avait investi dans son véhicule et payait ses frais de déplacement, tout comme il assumait les risques afférents aux travailleurs de remplacement ou à la correction de problèmes, et je conclus donc que le travailleur investissait dans certains outils et assumait une responsabilité relative à l’accomplissement de son travail.
+[47] Selon moi, les travailleurs avaient tout à la fois des chances de profit et des risques de perte en ce qui concerne les facteurs susmentionnés, tout comme ils investissaient dans leur entreprise, autant d’indices de commercialité et du statut d’entrepreneur indépendant.
+Les autres facteurs
+[48] L’intimé a soutenu que, vu que les travailleurs ne faisaient pas de publicité pour leurs services, ne facturaient pas l’appelante ou n’étaient pas inscrits aux fins de la TPS conformément aux dispositions de la Loi sur la taxe d’accise, il n’y avait que peu d’indices de commercialité et que, par conséquent, ces éléments donnaient à penser qu’on était en présence d’une relation employeur-employé.
+[49] En ce qui a trait à l’intimé, la preuve montre clairement que la plupart des travailleurs ont obtenu leurs contrats après avoir procédé à une recherche de travail en ligne. C’est certainement de cette manière que la plupart des travailleurs sont entrés en contact avec l’appelante. La plupart des travailleurs souhaitaient seulement gagner un revenu supplémentaire et ils ont donc eu recours à Internet pour avoir des pistes au lieu de dépenser de l’argent pour de la publicité, ce qui est bien franchement sensé d’un point de vue économique dans les circonstances. Le degré de commercialité doit être analysé dans le contexte des activités; compte tenu de la nature et de la taille de ces activités dans le cas des travailleurs en cause, il ne serait pas profitable de dépenser des sommes inutiles pour faire de la publicité.
+[50] Le fait que les travailleurs n’établissaient pas de facture à l’appelante n’est pas déterminant quand on considère que les travailleurs étaient liés par un contrat avec prix fixe pour chaque lieu de travail et qu’ils étaient payés une somme fixe deux fois par mois. Dans ces circonstances, il serait absurde d’établir des factures à l’appelante, particulièrement vu que les travailleurs n’étaient pas inscrits aux fins de la TPS du fait que le revenu qu’ils tiraient de leur activité commerciale n’excédait pas le seul de 30 000 $ par an fixé par la Loi sur la taxe d’accise.
+[51] Ces autres facteurs ne sont pas déterminants selon moi, et je ne leur accorde donc que peu ou pas de poids.
+Conclusion
+[52] Compte tenu des analyses précédentes, je pense fortement que les facteurs établis dans l’arrêt Wiebe Door appuient la conclusion selon laquelle les travailleurs étaient des entrepreneurs indépendants, ce qui est compatible avec l’intention subjective qui a été exprimée dans les contrats de sous­-traitance écrits conclus par les quatre travailleurs qui ont signé de telles ententes. Pour ce qui est des deux autres travailleurs, qui ne semblent pas avoir signé d’entente écrite, les facteurs établis dans l’arrêt Wiebe Door parlent d’eux‑mêmes en ce qui les concerne, et il n’est pas nécessaire de s’attarder plus longuement sur la question de l’intention des parties.
+[53] Les appels de l’appelante sont accueillis, en totalité, sans frais.
+Signé à Ottawa, Canada, ce 26e jour d’avril 2013.
+« F. J. Pizzitelli
+Juge Pizzitelli
+Traduction certifiée conforme
+ce 4e jour de juin 2013.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2013 CCI 129
+NOS DES DOSSIERS DE LA COUR : 2011-2090(EI), 2011-2094(CPP),
+2012-3162(EI), 2012-3164(CPP),
+2012-3165(EI), 2012-3166(CPP),
+2012-3167(EI), 2012-3169(CPP),
+2012-3170(EI), 2012-3171(CPP),
+2012-3173(EI), 2012-3174(CPP)
+INTITULÉ : 3142774 Nova Scotia Limited c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Les 18 et 19 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge F. J. Pizzitelli
+DATE DU JUGEMENT : Le 26 avril 2013
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Daniel F. Wallace
+Avocat de l’intimé :
+Me Tokunbo C. Omisade
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Daniel F. Wallace
+Cabinet : McInnes Cooper
+Halifax (Nouvelle‑Écosse)
+Pour l’intimé : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

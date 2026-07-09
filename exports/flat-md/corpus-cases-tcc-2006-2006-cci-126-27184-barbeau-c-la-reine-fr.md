@@ -1,0 +1,185 @@
+---
+title: "Barbeau c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27184/index.do"
+last_modified: "2006-03-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 126"
+citation2: ""
+neutral_citation: "2006 CCI 126"
+decision_date: "2006-03-28"
+language: "fr"
+item_id: "27184"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 987
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:45:31.205000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e4e674f8b6a72127c930729a757475a4ba89e57c4e80f109ab4886c2b030d22"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Barbeau c. La Reine
+
+- Citation: 2006 CCI 126
+- Decision date: 2006-03-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 987, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barbeau c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-28
+Référence neutre
+2006 CCI 126
+Numéro de dossier
+2005-3150(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3150(IT)I
+ENTRE :
+ROGER BARBEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 20 février 2006 à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Représentant de l'appelant :
+Éric Bachand
+Avocat de l'intimée :
+Me Jean Lavigne
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000, 2001 et 2002 sont rejetés selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de mars 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI126
+Date : 20060328
+Dossier : 2005-3150(IT)I
+ENTRE :
+ROGER BARBEAU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s'agit d'appels interjetés selon la procédure informelle à l'encontre de nouvelles cotisations datées du 4 avril 2005 aux termes desquelles le ministre du Revenu national (le « ministre » ) a ajouté aux revenus de l'appelant la somme de 24 857 $ à titre de prêt conféré à l'actionnaire et de 1 487 $ à titre d'avantage accordé à un actionnaire pour l'année d'imposition 2000. Le ministre a aussi, aux termes de ces nouvelles cotisations, limité à 5 739 $ pour l'année d'imposition 2002 le montant de la déduction pour remboursement d'une partie de la dette de l'appelant à la société Les jardins beaux plants inc. ( « Société » ).
+[2] Antérieurement, par avis de nouvelle cotisation daté du 15 décembre 2003, le ministre avait ajouté aux revenus de l'appelant les sommes de 24 857 $ à titre de prêt conféré à l'actionnaire et de 3 305 $ à titre d'avantage pour l'année d'imposition 2000 et la somme de 3 349 $ à titre d'avantage pour l'année d'imposition 2001. Il avait aussi accordé à l'appelant une déduction supplémentaire de 4 290 $ pour le remboursement d'une partie de la dette de l'appelant à la Société. Le ou vers le 17 mars 2004, l'appelant a signifié au ministre des avis d'opposition à l'encontre des nouvelles cotisations pour les années d'imposition 2000, 2001 et 2002. En réponse aux avis d'opposition du 17 mars 2004, le ministre a établi de nouvelles cotisations le 4 avril 2005 par lesquelles il a réduit le montant de l'avantage de 2 108 $ pour l'année d'imposition 2000 et de 3 349 $ pour l'année d'imposition 2001. Il a aussi augmenté de 1 430 $ la déduction accordée à l'appelant pour l'année d'imposition 2002 liée au remboursement par ce dernier d'une partie de sa dette à l'égard de la Société.
+[3] Pour établir les nouvelles cotisations à l'égard des années 2000, 2001 et 2002, le ministre a tenu pour acquis les hypothèses suivantes, à savoir :
+a) L'appelant est l'unique actionnaire et administrateur de la société « Les jardins beaux plants inc. » , ci-après la « société » ; (nié tel que rédigé)
+b) Au cours de l'année d'imposition 1999, l'appelant a reçu un prêt au montant de 60 948 $ de la société pour la rénovation de sa résidence personnelle; (nié)
+c) Au cours de l'année d'imposition 2000, l'appelant a reçu de la société un autre prêt au montant de 24 857 $; (admis)
+d) Cette habitation située au 1787, chemin de la Rivière à Sainte-Chlothilde-de-Châteauguay est la résidence de l'appelant depuis 1992; (admis)
+e) Le permis octroyé par la municipalité pour les travaux indique qu'il s'agit de travaux d'agrandissement; (nié)
+f) Pour l'année d'imposition 2000, le calcul de l'intérêt au taux prescrit sur l'argent emprunté net de l'avantage imposé à l'appelant selon les dispositions du paragraphe 15(2) représente 3 503 $; (admis)
+g) L'appelant a versé à la société au cours de l'année d'imposition 2000 la somme de 2 018 $ à titre d'intérêt sur le prêt; (admis)
+h) Pour l'année d'imposition 2001, le Ministre a déterminé que les intérêts calculés au taux prescrit attribuables aux prêts reçus par l'appelant étaient inférieurs à la somme que ce dernier a remboursée à la société; (admis)
+i) Pour l'année d'imposition 2002, le Ministre a déterminé que l'appelant a remboursé la somme de 5 720 $ à la société. (admis)
+[4] La seule question en litige dans la présente affaire est de savoir si, en vertu du paragraphe 15(2) de la Loi de l'impôt sur le revenu (la « Loi » ), le ministre était justifié d'ajouter aux revenus de l'appelant la somme de 24 857 $ à titre de prêt consenti à l'actionnaire.
+Position de l'appelant
+[5] Plus spécifiquement, l'appelant prétend que le ministre a ajouté à tort la somme de 24 857 $ à ses revenus de l'année d'imposition 2000 parce que le prêt de 24 857 $ lui a été consenti par la Société à titre d'employé de cette dernière et non en raison du fait qu'il était actionnaire de celle-ci. Il a soutenu que le prêt avait pour objet de lui permettre d'acquérir une habitation destinée à son propre usage. Enfin, il a ajouté qu'au moment où le prêt a été consenti, des arrangements avaient été conclu de bonne foi en vue du remboursement du prêt dans un délai raisonnable. Autrement dit, l'appelant soutient que le prêt de 24 857 $ respecte les conditions prévues au paragraphe 15(2.4) de la Loi et que, conséquemment, le ministre ne pouvait ajouter cette somme à ses revenus de l'année d'imposition 2000 en vertu du paragraphe 15(2) de la Loi.
+Position de l'intimée
+[6] Pour sa part, l'avocat de l'intimée soutient que le prêt consenti à l'appelant par la Société ne respecte aucune des conditions prévues au paragraphe 15(2.4) de la Loi et qu'ainsi le montant du prêt devait être ajouté aux revenus de l'appelant de l'année d'imposition 2000 en vertu du paragraphe 15(2) de la Loi.
+Témoignage de l'appelant
+[7] L'appelant a témoigné que, pendant la période pertinente :
+i) il était un employé de la Société et le seul administrateur de cette dernière;
+ii) il détenait la majorité des actions avec droit de vote de la Société; et
+iii) la Société exploitait une ferme maraîchère dont l'activité principale était liée à la production de plants de légumes en serre.
+[8] L'appelant a relaté qu'en 1991, il avait déménagé dans une résidence dont la Société était propriétaire, résidence adjacente aux serres et aux entrepôts de cette dernière. Il a expliqué les motifs liés à ce déménagement dans son avis d'appel, motifs essentiellement réitérés dans son témoignage :
+... Jardins Beaux Plants Inc. exploite une entreprise agricole où les produits sont périssables et fragiles. La prise de décision doit se prendre dans un court délai et sur les lieux de l'entreprise. L'appelant est la personne responsable de la production, des achats et des ventes pour son employeur.
+La nouvelle résidence de l'appelant est adjacente aux entrepôts de son employeur. Il est important pour son employeur d'avoir son employé clé disponible et à proximité de ses installations. ...
+[9] En 1996, l'appelant achetait de la Société la résidence qu'il habitait depuis 1991 pour la somme de 40 000 $ (la vieille résidence).
+[10] En août 1996, l'appelant entreprenait la construction d'une nouvelle résidence en érigeant lui-même une coquille (fondation et murs extérieurs) autour de la vieille résidence qu'il avait démolie progressivement une fois la coquille terminée. Il a ajouté qu'il avait habité sur les lieux en tout temps pendant la construction de la nouvelle résidence et que la construction s'était déroulée sur plusieurs années, construction d'ailleurs qui n'est pas encore complètement terminée.
+[11] L'appelant a témoigné que la Société lui avait consenti en 1999 un prêt maximal de 100 000 $ dans le but de lui permettre de construire une nouvelle résidence. Il a ajouté que la Société avait déboursé, aux termes de ce prêt, les sommes de 28 949 $, de 24 857 $ et de 32 000 $ en 1999, 2001 et 2001 respectivement, pour un déboursé global de 85 806 $.
+Analyse
+Le droit
+[12] Les dispositions de la Loi applicables à l'analyse de la présente affaire pour la période pertinente se lisent comme suit :
+15(2) Dette d'un actionnaire. La personne ou la société de personnes - actionnaire d'une société donnée, personne ou société de personnes rattachée à un tel actionnaire ou associé d'une société de personnes, ou bénéficiaire d'une fiducie, qui est un tel actionnaire - qui, au cours d'une année d'imposition, obtient un prêt ou contracte une dette auprès de la société donnée, d'une autre société liée à celle-ci ou d'une société de personnes dont la société donnée ou une société liée à celle-ci est un associé est tenue d'inclure le montant du prêt ou de la dette dans le calcul de son revenu pour l'année. Le présent paragraphe ne s'applique pas aux sociétés résidant au Canada ni aux sociétés de personnes dont chacun des associés est une société résidant au Canada.
+15(2.4) Inapplication du paragraphe 15(2) - employés. Le paragraphe (2) ne s'applique pas aux prêts consentis ni aux dettes contractées à l'égard des personnes suivantes :
+a) un employé du prêteur ou du créancier, autre qu'un employé déterminé;
+b) un particulier qui est un employé du prêteur ou du créancier ou l'époux ou le conjoint de fait d'un tel employé, dans le cas où le prêt ou la dette a pour objet de permettre au particulier d'acquérir une habitation destinée à son propre usage ou une part du capital social d'une coopérative d'habitation acquise dans l'unique but d'acquérir le droit d'habiter une telle habitation dont la coopérative est propriétaire;
+c) lorsque le prêteur ou le créancier est une société, un employé de la société ou d'une société liée à celle-ci, dans le cas où le prêt ou la dette a pour objet de permettre à l'employé d'acquérir pour son propre bénéfice auprès de la société ou d'une société liée à celle-ci des actions non émises antérieurement, entièrement libérées de son capital-actions et à être détenues par lui;
+d) un employé du prêteur ou du créancier, dans le cas où le prêt ou la dette a pour objet de permettre à l'employé d'acquérir un véhicule à moteur pour son usage dans l'exercice des fonctions de sa charge ou de son emploi.
+Le présent paragraphe ne rend le paragraphe (2) inapplicable que lorsque les conditions suivantes sont réunies :
+e) il est raisonnable de conclure que l'employé, ou son époux ou conjoint de fait, a obtenu le prêt ou contracté la dette en raison de l'emploi de l'employé et non en raison du nombre de parts ou d'actions qu'une personne détient;
+f) au moment où le prêt est consenti ou la dette, contractée, des arrangements ont été conclus de bonne foi en vue du remboursement du prêt ou de la dette dans un délai raisonnable.
+[13] La règle générale prévue au paragraphe 15(2) de la Loi veut que la personne, actionnaire d'une société donnée, qui, au cours d'une année d'imposition, obtient un prêt de cette dernière, inclue le montant du prêt dans le calcul de son revenu pour l'année. Toutefois, le paragraphe 15(2.4) de la Loi prévoit notamment que la règle générale prévue au paragraphe 15(2) de la Loi ne s'applique pas lorsque le prêt est consenti à un particulier qui est un employé du prêteur dans le but de lui permettre d'acquérir une habitation destinée à son propre usage et qu'il est raisonnable de conclure que le particulier a obtenu le prêt en raison de son emploi et non en raison des actions qu'il détenait dans la société prêteuse. Enfin, le paragraphe 15(2.4) de la Loi exige qu'au moment où le prêt est consenti, des arrangements doivent avoir été conclus de bonne foi en vue du remboursement du prêt dans un délai raisonnable. À l'égard de cette dernière condition, laquelle fera l'objet de mon analyse dans la présente décision, je suis d'avis que l'appelant devait me convaincre :
+i) qu'au moment où le prêt lui a été consenti par la Société, soit le 8 octobre 1999, les arrangements conclus de bonne foi entre lui et la Société permettaient de déterminer avec certitude le moment où le prêt devait être remboursé; et
+ii) que le délai alors prévu pour le remboursement du prêt était raisonnable.
+[14] À cet égard, la preuve a révélé que :
+i) le prêt n'a fait l'objet d'aucune entente écrite;
+ii) une résolution de l'administrateur de la Société adoptée le 8 octobre 1999 (pièce I-4) établissait laconiquement le prêt et les modalités de son remboursement, résolution qui se lit comme suit :
+CONSIDÉRANT QUE l'entreprise a besoin d'une surveillance constante.
+[...]
+CONSIDÉRANT QUE M. Roger Barbeau a besoin de fonds pour compléter la construction de sa résidence.
+CONSIDÉRANT QUE sa résidence est adjacente à l'entreprise.
+IL EST RÉSOLU d'avancer de l'argent à Monsieur Roger Barbeau jusqu'à concurrence de 100 000 $ au taux prescrit sur 15 ans.
+iii) la note aux états financiers de la Société pour son exercice financier se terminant le 31 décembre 2000 (pièce I-3, note 3 à la page 6) reflétait la résolution du 8 octobre 1999 ainsi :
+PLACEMENTS
+2000 1999
+Prêt à un administrateur, 5 %, échéant en 2015 53 806 $ 28 949 $
+iv) la Société avait déboursé, aux termes de ce prêt, les sommes de 28 949 $, de 24 857 $ et de 32 000 $ en 1999, 2000 et 2001 respectivement, pour un débours global de 85 806 $;
+v) une résolution de l'administrateur de la Société adoptée le 6 juin 2002 (pièce I-5) établissait de nouvelles modalités pour le remboursement du prêt de 85 806 $, résolution qui se lit ainsi :
+Il est résolu de prêter la somme de quatre-vingt-cinq mille huit cent six dollars (85 806 $) à Monsieur Barbeau. Cette somme portera intérêt de 5 % et sera remboursable à raison de cinq mille sept cent vingt dollars (5 720 $) annuellement à compter du 31 décembre 2002 jusqu'au 31 décembre 2006.
+[15] À mon avis, l'appelant ne s'est pas acquitté du fardeau de la preuve qui lui incombait en l'espèce parce qu'il a omis i) qu'au moment où le prêt lui a été consenti par la Société, soit le 8 octobre 1999, les arrangements conclus de bonne foi entre lui et la Société permettaient de déterminer avec certitude quand le prêt de 28 949 $ devait être remboursé et ii) que le délai prévu pour le remboursement du prêt était raisonnable. En effet, la résolution du 8 octobre 1999 est la seule preuve documentaire avec la note aux états financiers qui détermine les modalités de remboursement du prêt de 28 949 $ consenti à l'appelant par la Société en 1999. Cette preuve documentaire ne permet pas, à mon avis, de déterminer avec certitude le moment du remboursement du prêt de 28 857 $ consenti en 1999. Cette preuve documentaire soulève, à mon avis, plus de questions que de réponses. Ainsi, est-ce que le prêt de 28 857 $ devait être remboursé au plus tard le 1er janvier 2015, le 31 décembre 2015 ou encore le 8 octobre 1999? Le témoignage de l'appelant lié aux modalités du remboursement du prêt ne fut guère plus éclairant. Je souligne qu'il a déclaré notamment qu'il avait l'intention de rembourser la Société dès qu'il en aurait les moyens.
+[16] Je note que, dans la résolution de la Société adoptée le 6 juin 2002, de nouvelles modalités de remboursement du prêt de 28 857 $ ont été établies et qu'elles permettaient de déterminer avec beaucoup plus de certitude le moment du remboursement du prêt, modalités qui d'ailleurs ont été respectées par l'appelant tout au moins en 2002. De telles modalités liées au remboursement du prêt ou, du moins, des modalités semblables auraient dû être établies au moment où le prêt de 28 857 $ a été consenti à l'appelant par la Société, soit le 8 octobre 1999.
+[17] L'appelant ne m'a pas convaincu qu'au moment où le prêt a été consenti par la Société les arrangements conclus avec cette dernière permettaient de déterminer avec certitude le moment où le prêt devait être remboursé, pas plus qu'il m'a convaincu que le délai fixé pour le remboursement du prêt était raisonnable. Je suis d'avis que, pour déterminer si le délai était raisonnable, il faut examiner les pratiques commerciales qui ont ordinairement cours en matière de prêts résidentiels. Selon les pratiques commerciales habituelles, l'emprunteur s'engage à rembourser le montant du prêt en versements périodiques fixes (mensuels, trimestriels ou annuels) qui incluent le capital et les intérêts, et le solde du prêt, si solde il y a, doit être remboursé à la date d'échéance du prêt. Les modalités de remboursement sont habituellement déterminées en fonction d'une période d'amortissement de 5 à 40 ans. Enfin, l'emprunteur doit rembourser tout solde du prêt s'il y a défaut de paiement ou encore si la résidence est vendue. Rien de tel n'était prévu lorsque le prêt a été consenti à l'appelant par la Société. En effet, la preuve documentaire prévoyait tout au plus que le prêt de 28 949 $ devait être remboursé au plus tard en 2014 ou en 2015, ce qui m'apparaît clairement déraisonnable.
+[18] Je conclus que l'appelant ne s'est pas déchargé de façon satisfaisante du fardeau de la preuve qui lui incombait, soit de démontrer que les exigences prévues au paragraphe 15(2.4) de la Loi avaient été respectées. Compte tenu de mes conclusions, je ne vois pas la nécessité d'analyser les autres exigences prévues aux alinéas 15(2.4)b) et e) de la Loi.
+Signé à Ottawa, Canada, ce 28e jour de mars 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2006CCI126
+No DU DOSSIER DE LA COUR :
+2005-3150(IT)I
+INTITULÉ DE LA CAUSE :
+Roger Barbeau et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 20 février 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 28 mars 2006
+COMPARUTIONS :
+Représentant de l'appelant :
+Éric Bachand
+Pour l'intimée :
+Me Jean Lavigne
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

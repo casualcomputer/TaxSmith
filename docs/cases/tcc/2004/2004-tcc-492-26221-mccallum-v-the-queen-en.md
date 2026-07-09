@@ -1,0 +1,131 @@
+---
+title: "McCallum v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26221/index.do"
+last_modified: "2004-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 492"
+citation2: ""
+neutral_citation: "2004 TCC 492"
+decision_date: "2004-07-29"
+language: "en"
+item_id: "26221"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4018
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:11:14.311000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a74fdd959b6d893d319cb067a30ff036bfcb5d9b17fb39c8533cecfc0b5d11e9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCallum v. The Queen
+
+- Citation: 2004 TCC 492
+- Decision date: 2004-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4018, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCallum v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-29
+Neutral citation
+2004 TCC 492
+File numbers
+2000-1764(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-1764(IT)G
+BETWEEN:
+RONALD McCALLUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 16, 2004, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1995, 1996 and 1997 taxation years are dismissed.
+Signed at Ottawa, Canada, this 29th day of July 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC492
+Date: 20040729
+Docket: 2000-1764(IT)G
+BETWEEN:
+RONALD McCALLUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] These are appeals from reassessments dated June 3, 1999, in which the Minister of National Revenue ("Minister"), pursuant to paragraphs 56(1)(b) and 56(1)(c) and subsections 56(12) and 56.1(4) of the Income Tax Act ("Act"), included in the appellant's income for his 1995, 1996 and 1997 taxation years the amounts of $12,299, $7,200 and $7,882 respectively received by him in those years as maintenance or support payments from his ex-spouse.
+[2] The appellant admits that those amounts were received as child support payments pursuant to a court order dated December 1, 1994 (see Tab 1 of the Statement of Agreed Facts). That court order specifically ordered the former spouse to pay to the appellant for the ongoing support of the children the sum of $1,200 monthly, being $600 per month per child, commencing December 1, 1994, and continuing for as long as the children should reside with the appellant and be in full-time attendance at a school of learning.
+[3] The court order of December 1994 was never varied and the appellant and his ex-wife never filed a joint election with the Minister specifying a commencement date after April 1997 for that order. Pursuant to subsection 56.1(4) of the Act, there is, therefore, no commencement day with respect to any payment which occurred after April 1997.
+[4] Furthermore, the appellant explained that he did not include the amounts at issue in his income because his former spouse did not make the support payments regularly as provided by the court order.
+[5] It was decided by the Federal Court of Appeal in The Queen v. Sills, [1985] 2 F.C. 200, that support payments do not change in character as a result of not being made on time and on a periodic basis as required by the judgment or agreement under which the amounts are payable. Heald J. said at page 205:
+. . . So long as the agreement provides that the monies are payable on a periodic basis, the requirement of the paragraph [56(1)(b)] is met. The payments do not change in character merely because they are not made on time.
+[6] Therefore, the amounts of $12,299, $7,200 and $7,882 received by the appellant from his former spouse as maintenance or support payments for the children for each of the taxation years at issue respectively had to be included in his income pursuant to paragraphs 56(1)(b) and 56(1)(c) and subsections 56(12) and 56.1(4) of the Act.
+[7] For these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 29th day of July 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC492
+COURT FILE NO.:
+2000-1764(IT)G
+STYLE OF CAUSE:
+Ronald McCallum v. Her Majesty the Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+June 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+July 29, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

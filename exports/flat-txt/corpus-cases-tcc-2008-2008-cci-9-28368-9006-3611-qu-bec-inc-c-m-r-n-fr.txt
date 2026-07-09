@@ -1,0 +1,160 @@
+Title: 9006-3611 Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28368/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-9-28368-9006-3611-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-01-07
+
+# 9006-3611 Québec Inc. c. M.R.N.
+
+- Citation: 2008 CCI 9
+- Decision date: 2008-01-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1953, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9006-3611 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-07
+Référence neutre
+2008 CCI 9
+Numéro de dossier
+2006-3889(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-3889(EI)
+ENTRE :
+9006-3611 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 2 octobre 2007, à Montréal (Québec).
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Philippe Otis
+Avocate de l'intimé :
+Me Julie David
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi (« Loi ») est accueilli et la décision du ministre du Revenu national est infirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI9
+Date : 20080107
+Dossier : 2006-3889(EI)
+ENTRE :
+9006-3611 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Pendant la période allant du 19 février 2002 au 23 novembre 2003 (la « période pertinente »), madame Sylvie Paquin (« la travailleuse ») a été à l'emploi de l'appelante à titre de serveuse. À la fin du mois de novembre 2003, la travailleuse a été congédiée par l'appelante. À la suite de son congédiement, la travailleuse a fait une demande pour recevoir des prestations d'assurance‑emploi. Le 8 juillet 2005, l'Agence des douanes et du revenu du Canada (l'« Agence ») a établi que, pour la période de référence, la travailleuse avait accumulé 1 392 heures d'emploi assurables, cela conformément aux articles 9.1 et 9.2 du Règlement sur l'assurance‑emploi (le « Règlement »), et que la rémunération assurable de la travailleuse s'élevait à 10 482,42 $, cela conformément à l'article 2 du Règlement sur la rémunération assurable et la perception des cotisations. L'appelante a porté cette décision en appel. Le 5 octobre 2006, à la suite de cet appel administratif, le ministre du Revenu national (le « ministre ») a déterminé que, pour la période de référence, les heures assurables de la travailleuse étaient de 1 333.5 heures et que sa rémunération assurable était de 9 067,72 $, d'où le présent appel.
+[2] Pour expliquer sa décision, le ministre s'est appuyé sur les hypothèses de fait suivantes énoncées au paragraphe 10 de la Réponse à l'avis d'appel, lesquelles ont été admises, niées ou omises par l'appelante, comme il est indiqué entre parenthèses :
+a) l'appelante a été constituée en société le 13 juin 1994; (admis)
+b) l'appelante faisait affaires sous le nom et raison sociale « Restaurant le Centre‑Ville Souvlaki »; (admis)
+c) l'appelante exploitait un restaurant, bar et terrasse à Trois‑Rivières; (admis)
+d) la travailleuse était serveuse; (admis)
+e) les tâches de la travailleuse consistaient à servir aux tables, à faire la mise en place et le ménage; (admis)
+f) l'appelante a fait l'objet d'une enquête par Yvon Côté de Ressources Humaines et Développement des Compétences Canada (R.H.D.C.C.) concernant une quinzaine de travailleurs; (admis)
+g) l'appelante payait une partie de ses travailleurs en argent comptant; (nié)
+h) les sommes ainsi versées n'apparaissaient pas au journal des salaires de l'appelante; (nié)
+i) la travailleuse inscrivait dans un carnet les montants reçus de l'appelante, soit par chèques, soit par argent comptant ainsi que les heures travaillées à chaque jour; (omis)
+j) la travailleuse remplissait de tels carnets depuis 1995 avec les différents employeurs pour lesquels elle avait travaillé; (omis)
+k) la travailleuse était rémunérée au salaire minimum des employés à pourboire par l'appelante; (admis)
+l) le dimanche de chaque semaine, la travailleuse recevait une enveloppe dans laquelle se trouvait un chèque de salaire ainsi qu'un montant d'argent; (nié)
+m) l'appelante ne remettait aucun talon de paie à la travailleuse ainsi qu'aux autres employés; (nié)
+n) suite à un différend avec Ali Ismael, gérant et premier actionnaire de l'appelante, la travailleuse a cessé de rendre des services à l'appelante le 29 novembre 2003; (admis)
+o) par la suite, la travailleuse a porté plainte à la Commission des normes du travail pour du salaire impayé; (nié tel que rédigé)
+p) le 20 février 2004, la Commission des normes du travail indiquait à la travailleuse qu'une réclamation de 579,60 $ avait été établie au nom de la travailleuse et que l'appelante avait acquitté cette somme; (admis)
+q) pour la période des 53 dernières semaines de paie se terminant le 23 novembre 2003, la travailleuse a travaille pour l'appelante pendant 1 325,5 heures, plus 8 heures pour un congé férié réclamé et obtenu par la Commission des normes du travail, soit un total de 1 333,5 heures; (nié)
+r) la rémunération assurable de la travailleuse pour les 27 dernières périodes de paie se terminant le 23 novembre 2003, totalisait 9 067,72 $ soit la somme de
+salaire brut au journal des salaires
+pourboires au journal des salaires
+4 % au journal des salaires
+argent comptant versé par l'appelante
+réclamation de la Commission
+3 276,64 $
+3 310,00 $
+253,38 $
+1 648,10 $
+579,60 $
+(nié)
+Témoignage de la travailleuse
+[3] Le témoignage de la travailleuse pourrait se résumer ainsi :
+i) elle a travaillé comme serveuse au restaurant de l'appelante pendant la période pertinente;
+ii) à la fin de la période pertinente, elle fut congédiée par l'appelante. Elle a porté plainte auprès de la Commission des normes du travail (la « Commission ») parce que l'appelante l'avait congédiée sans lui donner un préavis de deux semaines. Le 20 février 2004, la Commission lui adressait une lettre (pièce I‑5) qui indiquait qu'une réclamation de 579,60 $ avait été établie en son nom et que l'appelante avait acquitté cette somme;
+iii) son horaire de travail était généralement le même en ce qu'elle travaillait le dimanche soir pour la période du souper, le mercredi pour la période du dîner et du souper, le vendredi pour la période du souper et le samedi pour la période du souper. Compte tenu de l'achalandage plus grand du restaurant de l’appelante pendant la période estivale, elle travaillait en moyenne plus d'heures dans une semaine donnée de cette période;
+iv) le dimanche soir de chaque semaine, elle recevait de l'appelante une enveloppe dans laquelle se trouvait un chèque ainsi qu'un montant en argent comptant. Le chèque représentait son salaire net pour les heures travaillées dans la semaine précédente, telles qu'inscrites au livre des salaires de l'appelante. Pour les heures de travail qui étaient inscrites au livre des salaires de l'appelante, la travailleuse était rémunérée au taux horaire minimum prescrit pour les employés à pourboire. L'argent comptant représentait sa rémunération pour les heures travaillées dans la semaine précédente qui n'étaient pas inscrites dans le livre des salaires de l'appelante. Pour les heures de travail qui n'étaient pas inscrites dans le livre des salaires de l'appelante, la travailleuse était rémunérée à un taux horaire inférieur au taux horaire minimum prescrit pour les employés à pourboire. La travailleuse a expliqué que sa rémunération horaire pour les heures travaillées qui étaient payées en argent comptant avait toujours été la même à chaque semaine pendant la période pertinente;[1]
+v) ainsi, la travailleuse avait été payée pour toutes ses heures travaillées, soit par chèque, soit en argent comptant;
+vi) monsieur Ali Ismael, le président de l'appelante, avait établi ce mode de paiement de la rémunération des serveuses de l'appelante qui n'avaient pas d'autre choix que d'accepter cette façon de faire de l'appelante si elles voulaient conserver leur emploi;
+vii) l'appelante n'avait remis aux serveuses pour la période pertinente aucun talon de paie ou autre document les informant des déductions effectuées sur leur salaire brut;
+viii) il n'y avait pas de mise en commun des pourboires. Ainsi, la travailleuse conservait les pourboires qui lui étaient versés en argent comptant par les clients. Lorsqu'un pourboire lui était versé par carte de crédit, elle retenait une somme égale à ce pourboire sur les ventes au comptant qu'elle faisait;
+ix) à chaque jour, pendant la période pertinente, elle inscrivait dans un carnet (pièce A‑4) les montants reçus de l'appelante, soit par chèque, soit en argent comptant, ainsi que ses heures travaillées et le montant des pourboires reçus. Elle remplissait de tels carnets (pièce I‑4) contenant de tels renseignements depuis 1995, et ce, pour chacun des employeurs pour lesquels elle avait travaillé;
+x) elle n'avait pas déclaré, dans ses déclarations de revenu produites pour les années en question, les sommes en argent comptant qu'elle avait reçues de l'appelante;
+xi) elle avait pris des vacances du 22 septembre 2003 au 7 octobre 2003;
+Témoignage de monsieur Ali Ismael
+[4] Le témoignage de monsieur Ali Ismael, le président de l'appelante, pourrait se résumer ainsi :
+i) il n'avait pas congédié la travailleuse. Je note toutefois que monsieur Ismael a fini par admettre que le fait qu'il avait dit à la travailleuse qu'il n'avait pas besoin d'une personne comme elle constituait indirectement un congédiement. Je note que le relevé d'emploi de l'appelante (pièce A‑1) indiquait que la travailleuse avait quitté volontairement son emploi;
+ii) l'appelante payait ses employés par chèque, à chaque semaine. Il a expliqué que, pour les serveuses, la paie était versée avec une semaine de recul alors que pour les employés de la cuisine, elle était versée pour la semaine se terminant le samedi précédant;
+iii) les employés de l'appelante n'ont jamais été payés en argent comptant;
+iv) l'appelante n'avait jamais remis à ses employés jusqu'à tout récemment des talons de paie ou autre document les informant des déductions effectuées sur leur salaire brut. Monsieur Ismael a déclaré avec cette omission est imputable au fait que le comptable de l'appelante ne l'avait pas informé que cette dernière devait remettre à ses employés de tels documents. Je note immédiatement que monsieur Ismael avait déclaré le 6 avril 2004 à madame Nicole Chouinard, l'agente des appels dans la présente affaire, que tous les employés de l'appelante recevaient avec leurs chèques de tels talons de chèque indiquant les retenues effectuées;
+v) l'appelante avait payé ses employés en argent comptant il y a 7 ou 8 ans. Monsieur Ismael a expliqué que l'appelante avait tout de même fait les retenues prescrites et versé aux autorités les sommes ainsi retenues pendant cette période;
+vi) les horaires de travail des serveuses pendant la période pertinente étaient affichés dans le restaurant de l'appelante. Monsieur Ismael a ajouté toutefois que l'appelante n'avait pas conservé ces horaires de travail.
+Témoignage de madame Nicole Chouinard
+[5] Je retiens du témoignage de madame Chouinard et de son rapport sur un appel (pièce I‑1) qu'elle avait essentiellement calculé de nouveau les heures assurables et la rémunération assurable de la travailleuse pour la période de référence en s'appuyant sur le carnet de la travailleuse. Elle a expliqué qu'elle avait dressé un tableau (pièce A‑5) à partir du livre des salaires de l'appelante et du carnet de la travailleuse. Ce tableau indique notamment pour chaque semaine pendant laquelle la travailleuse avait été à l'emploi de l'appelante pendant la période pertinente :
+i) les heures travaillées par la travailleuse selon le livre des salaires de l'appelante. Madame Chouinard a calculé que, selon le livre des salaires de l'appelante, la travailleuse avait travaillé 1 434 heures pendant la période pertinente;
+ii) le salaire brut de la travailleuse selon le livre des salaires de l'appelante. Madame Chouinard a calculé que, selon le livre des salaires de l'appelante, le salaire brut de la travailleuse avait été de 10 324,44 $ pendant la période pertinente;
+iii) le salaire net de la travailleuse selon le livre des salaires de l'appelante. Madame Chouinard a calculé que, selon le livre des salaires de l'appelante, le salaire net de la travailleuse avait été de 7 423,85 $ pendant la période pertinente;
+iv) les pourboires de la travailleuse selon le livre des salaires de l'appelante. Madame Chouinard a calculé que, selon le livre des salaires de l'appelante, les pourboires de la travailleuse avaient été de 11 085 $;
+v) les heures travaillées par la travailleuse selon le carnet tenu par cette dernière. Madame Chouinard a calculé que, selon le carnet tenu par la travailleuse, les heures travaillées par cette dernière avaient été de 2 361,50 $ pendant la période pertinente. Ainsi, selon les calculs de madame Chouinard, les heures travaillées par la travailleuse pendant la période pertinente qui n'avaient pas été inscrites dans le livre des salaires de l'appelante avaient été de 927,50;
+vi) l'argent comptant reçu de l'appelante dans une enveloppe le dimanche soir selon le carnet tenu par la travailleuse pour ses heures travaillées qui n'apparaissent pas dans le livre des salaires de l'appelante. Madame Chouinard a calculé que la travailleuse aurait ainsi reçu de l'appelante une somme de 5 292,10 $ pendant la période pertinente et ce, pour les 927,50 heures travaillées qui n'apparaissent pas dans le livre des salaires de l'appelante;
+vii) les pourboires de la travailleuse selon le carnet tenu par cette dernière. Madame Chouinard a calculé que la travailleuse avait reçu des pourboires de 28 995,71 $, dont 17 901,71 $ n'avaient été déclarés dans ses déclarations de revenu produites pour les années concernées.
+Analyse et conclusion
+[6] Je rappelle qu'en l'espèce, la norme de la preuve est la prépondérance des probabilités. Je rappelle aussi qu'en rendant sa décision, le ministre se fonde sur des présomptions et que la charge initiale de démolir les présomptions formulées par le ministre pour appuyer sa décision est imposée à l'appelante. Cette dernière n’a qu’à démolir les présomptions exactes du ministre pour s’acquitter du fardeau initial de la preuve. À cet égard, il suffit à l’appelante de présenter une preuve prima facie. Règle générale, la preuve prima facie se définit comme une preuve suffisante pour établir un fait jusqu'à preuve du contraire. Lorsque l'appelante a démoli les présomptions du ministre, le fardeau passe au ministre qui doit réfuter la preuve prima facie.
+[7] En l'espèce, l'appelante s'est acquitté de sa charge initiale de démolir l'essentiel des présomptions de fait formulées par le ministre pour appuyer sa décision.
+[8] Je rappelle que la décision du ministre à l'effet que la travailleuse avait accumulé 1 334 heures d'emploi assurables, cela conformément aux articles 9.1 et 9.2 du Règlement sur l'assurance‑emploi, et à l'effet que la rémunération assurable de la travailleuse s’élevait à 9 067,72 $, cela conformément à l’article 2 du Règlement sur la rémunération assurable et la perception de cotisations, s'appuyait essentiellement sur l'exactitude et le contenu véridique des carnets de la travailleuse dans lesquels elle aurait inscrit ses heures réellement travaillées et la rémunération réellement reçue de l'appelante dans le cadre de son emploi.
+[9] Je rappelle le témoignage de la travailleuse lors de son contre‑interrogatoire à l'égard de ses carnets : à chaque jour, pendant la période pertinente, elle inscrivait dans un carnet (pièce A‑4) le montant reçu de l'appelante, soit par chèque, soit en argent comptant, ainsi que ses heures réellement travaillées et le montant des pourboires reçus. Le dimanche soir de chaque semaine, elle recevait de l'appelante une enveloppe dans laquelle se trouvait un chèque ainsi qu'un montant en argent comptant. Le chèque représentait son salaire net pour les heures travaillées au cours de la semaine précédente, telles qu'elles étaient inscrites au livre des salaires de l'appelante. Pour les heures de travail qui étaient inscrites au livre des salaires de l'appelante, elles étaient rémunérées au taux minimum prescrit pour les employés à pourboire. L'argent comptant représentait sa rémunération pour les heures travaillées au cours de la semaine précédente qui n'étaient pas inscrites dans le livre des salaires de l'appelante. Pour les heures de travail qui n'étaient pas inscrites dans le livre des salaires de l’appelante, la travailleuse a témoigné qu'elle était rémunéré à un taux horaire inférieur au taux horaire minimum prescrit pour les employés à pourboire, sans pour autant être en mesure de préciser ce taux horaire. Je rappelle aussi que la travailleuse a expliqué à plusieurs reprises lors de son contre‑interrogatoire que son taux horaire pour les heures travaillées qui étaient payées en argent comptant et ce, chaque dimanche soir, avait toujours été le même pendant la période pertinente et que cette rémunération versée en argent comptant n'avait jamais été une source de conflit entre elle et l'appelante.
+[10] Or, l'avocat de l'appelante a fait ressortir clairement que le tableau (pièce A‑5) préparé par madame Chouinard, tableau dressé à partir des renseignements figurant dans le carnet de la travailleuse à l'égard de ses heures travaillées au noir, ne correspondait nullement au témoignage de la travailleuse à l'effet que son taux horaire pour les heures travaillées au noir et qui étaient payées en argent comptant avait toujours été le même à chaque semaine pendant la période pertinente.
+[11] L'avocat de l'appelante a notamment fait ressortir à l'égard des semaines 1344 et 1346 qui apparaissent sur la pièce A‑5, que, dans les deux cas, les heures travaillées de la travailleuse qui n'étaient pas inscrites dans le livre des salaires de l'appelante, et pour lesquelles elle avait été rémunérée en argent comptant, avaient été de 13 heures. Par ailleurs, dans le premier cas, la travailleuse aurait reçu en contrepartie des 13 heures travaillées au noir une rémunération de 63 $ en argent comptant et, dans le deuxième cas, une rémunération de 47 $. Donc, selon le carnet de la travailleuse, cette dernière aurait reçu une rémunération horaire dans la semaine 1344 de 4,84 $ pour ses heures (13) travaillées au noir et dans la semaine 1346, une rémunération horaire de 3,61 $ pour ses (13) heures travaillées au noir. Un examen attentif de la pièce A‑5 qui, je le rappelle, reflète avec exactitude le carnet de la travailleuse, démontre clairement que, contrairement au témoignage de la travailleuse, le taux horaire pour les heures travaillées au noir variait passablement d'une semaine à l'autre. Par exemple, le taux horaire aurait été de 41,66 $, de 12,25 $, de 0,47 $ pour les semaines 1287, 1288 et 1289, respectivement.
+[12] Je suis d'avis que l'appelante a démontré en l'espèce, selon la prépondérance des probabilités, que le carnet de la travailleuse n'était pas fiable en ce que les inscriptions qui y étaient inscrites étaient, pour le moins, peu probantes, compte tenu du témoignage de la travailleuse à cet égard. L'appelante a, à mon avis, démoli par une preuve prima facie suffisante la présomption de fait sur laquelle le ministre s'était appuyé pour rendre sa décision, présomption de fait qui s'appuyait essentiellement sur la justesse et la véracité de l'information inscrite dans le carnet de la travailleuse.
+[13] Pour ces motifs, l'appel est accueilli.
+Signé à Ottawa, Canada, ce 7e jour de janvier 2008.
+Juge Bédard
+RÉFÉRENCE : 2008CCI9
+NO DU DOSSIER DE LA COUR : 2006-3889(EI)
+INTITULÉ DE LA CAUSE : 9006-3611 Québec inc. c. MRN
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE: le 2 octobre 2007
+MOTIFS DU JUGEMENT PAR : l'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 7 janvier 2008
+Comparutions :
+Avocat de l'appelante :
+Me Philippe Otis
+Avocate de l'intimé :
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Ville :
+Me Philippe Otis
+Starnino Mostovac
+Montréal (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir les notes sténographiques, pages 100 à 102.
